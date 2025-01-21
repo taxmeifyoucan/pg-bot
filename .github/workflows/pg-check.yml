@@ -1,0 +1,32 @@
+name: Check PG members contributions
+
+# on: push 
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Run the script
+        id: run_script
+        run: |
+          output=$(bash contributions.sh)
+          echo "$output" > script_output.txt
+          echo "script_output=$output" >> $GITHUB_ENV
+
+      - name: Tag users
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const output = fs.readFileSync('script_output.txt', 'utf8');
+            await github.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'PG quarterly contributions',
+              body: output,
+            });
