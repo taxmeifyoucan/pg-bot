@@ -7,6 +7,3 @@ Github: [@rjected](https://github.com/rjected)
 Team: Reth
 
 ## Contributions
-
-### Q4 2024
-

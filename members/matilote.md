@@ -7,6 +7,3 @@ Github: [@matilote](https://github.com/matilote)
 Team: Nethermind
 
 ## Contributions
-
-### Q4 2024
-

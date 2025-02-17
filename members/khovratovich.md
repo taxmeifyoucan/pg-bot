@@ -7,6 +7,3 @@ Github: [@khovratovich](https://github.com/khovratovich)
 Team: Cryptography (EF)
 
 ## Contributions
-
-### Q4 2024
-

@@ -7,6 +7,3 @@ Github: [@jrudolf](https://github.com/jrudolf)
 Team: Stateless Consensus
 
 ## Contributions
-
-### Q4 2024
-

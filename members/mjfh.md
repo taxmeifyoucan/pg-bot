@@ -7,6 +7,3 @@ Github: [@mjfh](https://github.com/mjfh)
 Team: Nimbus
 
 ## Contributions
-
-### Q4 2024
-

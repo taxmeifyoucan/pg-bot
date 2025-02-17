@@ -7,6 +7,3 @@ Github: [@tkstanczak](https://github.com/tkstanczak)
 Team: Nethermind
 
 ## Contributions
-
-### Q4 2024
-

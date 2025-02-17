@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Get list of eligible repos from docs
-# cat ./docs/01-eligibility.md  |  grep -o 'https://github\.com/[A-Za-z0-9_.-]\+/[A-Za-z0-9_.-]\+' > ./repos.txt
+# old simple bash script to check all contributions, deprecated
 
 MEMBERS=./members/*
 REPO_LIST=./repos.txt
@@ -10,9 +9,10 @@ check_contribution() {
 
 USER=`basename -s .md "$FILE"`
 FOUND=false
-curl -s -L --include --request GET -H "Accept: application/vnd.github+json" https://api.github.com/users/$USER/events/public?per_page=100 > tmp
+curl -s -L --include --request GET -H "Accept: application/vnd.github+json" --header "Authorization: Bearer token" https://api.github.com/users/$USER/events/public?per_page=100 > tmp
 RESPONSE=`cat tmp`
-JSON=`cat tmp | tail -n +28| jq` #skip 31 lines if api authorization is added
+JSON=`cat tmp | tail -n +31 | jq` #skip 31 lines if authorization is added
+#
 
 #check for empty response
 if [[ $JSON == "[]" ]]; then
@@ -24,6 +24,8 @@ while IFS= read -r REPO; do
 
   if echo $JSON | grep -q "$REPO"; then
     echo "$USER contributed to $REPO"
+    echo $JSON | jq | grep "$REPO" 
+
     FOUND=true
   fi
 done < "$REPO_LIST"

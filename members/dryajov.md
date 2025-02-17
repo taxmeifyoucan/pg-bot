@@ -7,6 +7,3 @@ Github: [@dryajov](https://github.com/dryajov)
 Team: Codex DAS
 
 ## Contributions
-
-### Q4 2024
-

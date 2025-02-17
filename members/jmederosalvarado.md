@@ -7,6 +7,3 @@ Github: [@jmederosalvarado](https://github.com/jmederosalvarado)
 Team: Nethermind
 
 ## Contributions
-
-### Q4 2024
-
