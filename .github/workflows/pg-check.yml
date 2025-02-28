@@ -1,32 +1,46 @@
-name: Check PG members contributions
+name: Daily Activity Tracking
 
-# on: push 
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
-  run-script:
+  track-activity:
     runs-on: ubuntu-latest
-
+    
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v4
-
-      - name: Run the script
-        id: run_script
-        run: |
-          output=$(bash contributions.sh)
-          echo "$output" > script_output.txt
-          echo "script_output=$output" >> $GITHUB_ENV
-
-      - name: Tag users
-        uses: actions/github-script@v6
+      - name: Checkout code
+        uses: actions/checkout@v3
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const fs = require('fs');
-            const output = fs.readFileSync('script_output.txt', 'utf8');
-            await github.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: 'PG quarterly contributions',
-              body: output,
-            });
+          fetch-depth: 0 
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
+          gem install octokit
+          gem install fileutils
+
+      - name: Run Activity Tracker
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CHECK_PERIOD: "24"  
+        run: ruby contributions.rb
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update user activity tracking [skip ci]"
+            git push
+          fi
