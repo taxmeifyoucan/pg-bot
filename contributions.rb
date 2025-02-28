@@ -5,8 +5,7 @@ require 'date'
 
 EVENTS_PER_PAGE = 100
 MAX_PAGES = 3 # events API only allows to check 3 pages
-THREE_MONTHS = 90 * 24 * 60 * 60 #in case 3 pages are more than 3 months
-WEEK =  7 * 24 * 60 * 60 # if we want to run it weekly
+THREE_MONTHS = 24 * 60 * 60 #in case 3 pages are more than 3 months
 
 class GithubClient
   def initialize
@@ -238,8 +237,10 @@ class RepositoryScanner # checks repos for contribution from members
     @contributors.add(username)
     puts "  ✓ Found #{type} by #{username}: #{title}"
     
+    unless type.include?("Commit")
     MemberContribution.new(username, @members_dir)
       .add_contribution(repo, type, title, url)
+    end
   end
 end
 
