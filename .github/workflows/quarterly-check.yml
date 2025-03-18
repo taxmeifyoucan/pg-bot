@@ -16,10 +16,41 @@ jobs:
           bundler-cache: true
           
       - name: Install dependencies
-        run: gem install octokit
+        run: bundle install
         
       - name: Run quarterly audit
-        run: ruby quarterly_check.rb
+        id: audit
+        run: |
+          ruby quarterly_check.rb > audit_output.txt
+          echo "AUDIT_OUTPUT<<EOF" >> $GITHUB_ENV
+          cat audit_output.txt >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }} 
+          GITHUB_REPOSITORY: ${{ github.repository }}
+      
+      - name: Create issue for inactive members
+        if: contains(env.AUDIT_OUTPUT, 'INACTIVE_MEMBERS_TITLE')
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const auditOutput = process.env.AUDIT_OUTPUT;
+            
+            const titleMatch = auditOutput.match(/INACTIVE_MEMBERS_TITLE=(.*)/);
+            const title = titleMatch ? titleMatch[1] : 'Quarterly Audit: Inactive Members';
+            
+            const bodyStartIndex = auditOutput.indexOf('INACTIVE_MEMBERS_BODY<<EOF') + 'INACTIVE_MEMBERS_BODY<<EOF'.length;
+            const bodyEndIndex = auditOutput.indexOf('EOF', bodyStartIndex);
+            const body = auditOutput.substring(bodyStartIndex, bodyEndIndex).trim();
+            
+            if (body) {
+              const { owner, repo } = context.repo;
+              await github.rest.issues.create({
+                owner,
+                repo,
+                title,
+                body
+              });
+              console.log('Created issue for inactive members');
+            } 
