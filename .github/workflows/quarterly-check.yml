@@ -16,7 +16,7 @@ jobs:
           bundler-cache: true
           
       - name: Install dependencies
-        run: install octokit
+        run: gem install octokit
         
       - name: Run quarterly audit
         run: ruby quarterly_check.rb
