@@ -19,7 +19,7 @@ jobs:
         run: bundle install
         
       - name: Run quarterly audit
-        run: quarterly_check.rb
+        run: ruby quarterly_check.rb
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }} 
