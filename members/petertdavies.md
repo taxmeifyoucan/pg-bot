@@ -1,8 +1,8 @@
 
-## Guru
+## Peter Davies
 Multiplier: 1
 
-Github: [@gurukamath](https://github.com/gurukamath)
+Github: [@petertdavies](https://github.com/petertdavies)
 
 Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
