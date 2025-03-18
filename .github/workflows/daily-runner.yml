@@ -1,0 +1,46 @@
+name: Daily Contribution Tracker
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run at midnight UTC every day
+  workflow_dispatch:      # Allow manual triggering
+
+jobs:
+  track-contributions:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # Needed for pushing changes
+      pull-requests: read # If you're checking PRs
+    
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 1  # Only need the latest commit
+      
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true
+          
+      - name: Install dependencies
+        run: bundle install
+        
+      - name: Run contribution tracker
+        run: ruby contributions.rb
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet members/ || echo "changes=true" >> $GITHUB_OUTPUT
+          
+      - name: Commit changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add members/
+          git commit -m "Update member contributions for $(date +'%Y-%m-%d')"
+          git push 

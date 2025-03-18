@@ -3,307 +3,280 @@ require 'fileutils'
 require 'set'
 require 'date'
 
-EVENTS_PER_PAGE = 100
-MAX_PAGES = 3 # events API only allows to check 3 pages
-THREE_MONTHS = 24 * 60 * 60 #in case 3 pages are more than 3 months
-
+TIME_PERIOD = 24 * 60 * 60 #24 hours default
 class GithubClient
-  def initialize
-    @client = Octokit::Client.new(access_token: ENV['GITHUB_TOKEN'])
-    @client.auto_paginate = false #maybe I can try auto pagination to simplify it but it doesn't work either way
+  def initialize(token)
+    @client = Octokit::Client.new(access_token: token)
+    @client.auto_paginate = true 
   end
 
   def method_missing(method, *args, &block)
     @client.send(method, *args, &block)
   end
+  
+  def get_events_until(method, *args, since_time)
+    events = @client.send(method, *args)
+    
+    return events.select { |e| e.created_at >= since_time }
+  end
 end
 
-class UserActivityChecker #checks user events for interactions with repos
-  ACTIVITY_EVENTS = %w[PullRequestEvent PushEvent PullRequestReviewEvent IssuesEvent IssueCommentEvent CommitCommentEvent]
+class ContributionHelper
+  EVENT_PROCESSORS = {
+    'PullRequestEvent' => {
+      condition: ->(event) { event.payload.action == 'opened' || event.payload.action == 'reopened' },
+      type: 'Pull Request',
+      title_path: ->(event) { event.payload.pull_request.title },
+      url_path: ->(event) { event.payload.pull_request.html_url }
+    },
+    'PushEvent' => {
+      condition: ->(event) { true },
+      type: 'Commit',
+      title_path: ->(event) { 
+        commit_message = event.payload.commits.first&.message
+        commit_message ? commit_message.split("\n").first : "Commit" 
+      },
+      url_path: ->(event) { 
+        "#{event.repo.url.gsub('api.github.com/repos', 'github.com')}/commit/#{event.payload.commits.first.sha}" 
+      }
+    },
+    'IssuesEvent' => {
+      condition: ->(event) { event.payload.action == 'opened' },
+      type: 'Issue',
+      title_path: ->(event) { event.payload.issue.title },
+      url_path: ->(event) { event.payload.issue.html_url }
+    },
+    'PullRequestReviewEvent' => {
+      condition: ->(event) { event.payload.action == 'submitted' },
+      type: 'Review',
+      title_path: ->(event) { "Review on: #{event.payload.pull_request.title}" },
+      url_path: ->(event) { event.payload.review.html_url }
+    }
+  }
 
-  def initialize(client, members_dir, repos)
+  def self.process_repo_events(client, repo, user_checker, since_time)
+    active_users = Set.new
+    
+    begin
+      events = client.get_events_until(:repository_events, repo, since_time)
+      
+      events.each do |event|
+        username = event.actor.login.downcase
+        if user_checker.is_member?(username) && process_event(event, username, repo, user_checker)
+          active_users.add(username)
+        end
+      end
+    rescue => e
+      puts "Error fetching events for repo #{repo}: #{e.message}"
+    end
+    
+    active_users
+  end
+  
+  def self.process_user_events(client, username, user_checker, repos, since_time)
+    events_found = false
+    
+    begin
+      events = client.get_events_until(:user_events, username, since_time)
+      
+      events.each do |event|
+        repo_name = event.repo.name.downcase
+        next unless repos.include?(repo_name)
+        
+        if process_event(event, username, repo_name, user_checker)
+          events_found = true
+        end
+      end
+    rescue Octokit::NotFound
+      puts "User #{username} not found"
+    rescue => e
+      puts "Error fetching events for #{username}: #{e.message}"
+    end
+    
+    events_found
+  end
+  
+  def self.process_event(event, username, repo, user_checker)
+    processor = EVENT_PROCESSORS[event.type]
+    return false unless processor && processor[:condition].call(event)
+    
+    type = processor[:type]
+    title = processor[:title_path].call(event)
+    url = processor[:url_path].call(event)
+    
+    user_checker.record_contribution(username, repo, type, title, url, event.created_at)
+    true
+  end
+end
+
+class UserActivityChecker
+  attr_reader :active_users
+  
+  def initialize(client, members_dir, repos, since_time)
     @client = client
     @members_dir = members_dir
     @repos = Set.new(repos.map(&:downcase))
     @active_users = Set.new
+    @since_time = since_time
+    @contribution_cache = {}
+    @members = Set.new(get_all_members.map(&:downcase))
   end
-
-  def check_users(users)
-    return Set.new if users.empty?
+#first checks repository events to find active users, then all users that are not active from repository events
+  def check_activities
+    puts "\nChecking repository events since #{@since_time}..."
     
-    puts "\nChecking remaining users' activities..."
-    users.each do |username|
-      check_user_activity(username)
+    @repos.each do |repo|
+      puts "Checking repo: #{repo}"
+      active_from_repo = ContributionHelper.process_repo_events(@client, repo, self, @since_time)
+      @active_users.merge(active_from_repo)
     end
     
-    users - @active_users.to_a
+    inactive_users = @members - @active_users
+    if inactive_users.any?
+      puts "\nChecking user activities for remaining #{inactive_users.size} users..."
+      inactive_users.each do |username|
+        check_user_activity(username)
+      end
+    end
+    
+    @members - @active_users.to_a
   end
-
-  private
 
   def check_user_activity(username)
-    puts "\nUser: #{username}"
-    page = 1
-    cutoff_date = Time.now - THREE_MONTHS
-
-    loop do
-      puts "  Checking page #{page}..."
-      events = @client.user_events(username, per_page: EVENTS_PER_PAGE, page: page)
-      
-      if events.empty?
-        puts "  No more events"
-        break
-      end
-
-      events.each do |event|
-        break if event.created_at < cutoff_date
-        
-        repo = event.repo.name.downcase
-        if ACTIVITY_EVENTS.include?(event.type) && @repos.include?(repo)
-          record_activity(username, repo, event)
-          return
-        end
-      end
-
-      break if events.last.created_at < cutoff_date || page >= MAX_PAGES
-      page += 1
-
-    rescue Octokit::Error => e
-      puts "  Error: #{e.message}"
-      break
+    return unless valid_user?(username)
+    
+    puts "Checking #{username}..."
+    if ContributionHelper.process_user_events(@client, username, self, @repos, @since_time)
+      @active_users.add(username)
     end
   end
 
-  def record_activity(username, repo, event)
-    @active_users.add(username)
-    puts "  ✓ Found #{event.type}"
-    
-    case event.type
-    when 'PushEvent'
-      event.payload[:commits]&.each do |commit|
-        add_contribution(username, repo, 'Commit', commit[:message], 
-          "https://github.com/#{repo}/commit/#{commit[:sha]}")
-      end
-    when 'PullRequestEvent'
-      pr = event.payload[:pull_request]
-      add_contribution(username, repo, 'Pull Request', pr[:title], pr[:html_url])
-    when 'PullRequestReviewEvent'
-      pr = event.payload[:pull_request]
-      add_contribution(username, repo, 'Review', pr[:title], 
-        event.payload[:review][:html_url])
-    end
+  def valid_user?(username)
+    username && username.length > 0
+  end
+  
+  def is_member?(username)
+    @members.include?(username.downcase)
   end
 
-  def add_contribution(username, repo, type, title, url)
-    MemberContribution.new(username, @members_dir)
-      .add_contribution(repo, type, title, url)
-  end
-end
-
-class ContributionTracker #main function to start 
-  def initialize
-    @members_dir = './members'
-    @repos_file = './repos.txt'
-    @client = GithubClient.new
-  end
-
-  def run
-    users = load_users
-    repos = load_repos
-    puts "Loaded #{users.size} users and #{repos.size} repositories"
-
-    #checks repos and looks for activity from users, then checks events of users without contributions found in repos
-    #because github API is limited, it's most reliable to check both
-    scanner = RepositoryScanner.new(@client, @members_dir, users)
-    inactive_users = scanner.scan_repositories(repos)
-    puts "\nFound #{users.size - inactive_users.size} users with contributions in repos"
-    
-    checker = UserActivityChecker.new(@client, @members_dir, repos)
-    final_inactive = checker.check_users(inactive_users)
-    puts "\nFound #{inactive_users.size - final_inactive.size} additional activities in user events"
-    
-    save_inactive_users(final_inactive)
-  end
-
-  private
-
-  def load_users
-    Dir.glob(File.join(@members_dir, '*.md')).map { |f| File.basename(f, '.md').downcase }
-  end
-
-  def load_repos
-    File.readlines(@repos_file).map { |line| line.strip.sub('https://github.com/', '').sub(/\.git$/, '') }
-  end
-
-  def save_inactive_users(users)
-    return if users.empty?
-    
-    File.open('tag_users', 'w') do |f|
-      users.sort.each { |username| f.puts "@#{username}" }
-    end
-    
-    puts "\nSaved #{users.size} inactive users to the file"
-  end
-end
-
-class RepositoryScanner # checks repos for contribution from members
-
-  def initialize(client, members_dir, users)
-    @client = client
-    @members_dir = members_dir
-    @users = Set.new(users)
-    @contributors = Set.new
-  end
-
-  def scan_repositories(repos)
-    puts "\nChecking repository events..."
-    repos.each do |repo|
-      scan_repository(repo)
-    end
-    @users - @contributors
-  end
-
-  private
-
-  def scan_repository(repo)
-    puts "\nRepository: #{repo}"
-    page = 1
-    cutoff_date = Time.now - THREE_MONTHS
-
-    loop do
-      puts "  Checking page #{page}..."
-      events = @client.repository_events(repo, per_page: EVENTS_PER_PAGE, page: page)
-      
-      if events.empty?
-        puts "  No more events found"
-        break
-      end
-
-      puts "  Checking events from #{events.first.created_at} to #{events.last.created_at}"
-      
-      events.each do |event|
-        break if event.created_at < cutoff_date
-        process_event(event, repo)
-      end
-
-      break if events.last.created_at < cutoff_date || page >= MAX_PAGES
-      page += 1
-
-    rescue Octokit::Error => e
-      puts "  Error: #{e.message}"
-      break
-    end
-  end
-
-  def process_event(event, repo)
-    case event.type
-    when 'PushEvent'
-      process_push(event, repo)
-    when 'PullRequestEvent'
-      process_pull_request(event, repo)
-    when 'PullRequestReviewEvent'
-      process_review(event, repo)
-    end
-  end
-
-  def process_push(event, repo)
-    event.payload[:commits]&.each do |commit|
-      username = commit[:author][:name]&.downcase
-      next unless username && @users.include?(username)
-      
-      url = "https://github.com/#{repo}/commit/#{commit[:sha]}"
-      record_contribution(username, repo, 'Commit', commit[:message], url)
-    end
-  end
-
-  def process_pull_request(event, repo)
-    return unless event.payload[:action] == 'opened'
-    pr = event.payload[:pull_request]
-    username = pr[:user][:login]&.downcase
-    return unless username && @users.include?(username)
-    
-    record_contribution(username, repo, 'Pull Request', pr[:title], pr[:html_url])
-  end
-
-  def process_review(event, repo)
-    username = event.payload[:review][:user][:login]&.downcase
-    return unless username && @users.include?(username)
-    
-    pr = event.payload[:pull_request]
-    record_contribution(username, repo, 'Review', pr[:title], event.payload[:review][:html_url])
-  end
-
-  def record_contribution(username, repo, type, title, url)
-    @contributors.add(username)
+  def record_contribution(username, repo, type, title, url, timestamp)
+    @active_users.add(username.downcase)
     puts "  ✓ Found #{type} by #{username}: #{title}"
     
-    unless type.include?("Commit")
+    key = "#{repo}:#{type}:#{url}"
+    return if @contribution_cache[key]
+    @contribution_cache[key] = true
+    
+    quarter = get_quarter(timestamp)
+    
     MemberContribution.new(username, @members_dir)
-      .add_contribution(repo, type, title, url)
+      .add_contribution(repo, type, title, url, timestamp, quarter)
+  end
+  
+  def get_quarter(timestamp)
+    year = timestamp.year
+    month = timestamp.month
+    quarter = ((month - 1) / 3) + 1
+    "Q#{quarter} #{year}"
+  end
+  
+  private
+  
+  def get_all_members
+    return [] unless Dir.exist?(@members_dir)
+    
+    Dir.glob(File.join(@members_dir, "*.md")).map do |file|
+      File.basename(file, ".md")
     end
   end
 end
 
-class MemberContribution #add found contributions to members file
+class MemberContribution
   def initialize(username, members_dir)
     @username = username
-    @file_path = File.join(members_dir, "#{username}.md")
-    @current_quarter = get_current_quarter
+    @members_dir = members_dir
+    @file_path = File.join(members_dir, "#{username.downcase}.md")
   end
-
-  def add_contribution(repo, type, title, url)
-    content = File.exist?(@file_path) ? File.read(@file_path) : ""
+  
+  def add_contribution(repo, type, title, url, timestamp, quarter)
+    return unless File.exist?(@file_path)
+    content = File.read(@file_path)
     
-    #add quarter header if doesnt exist
-    unless content.include?(@current_quarter)
-      content = content.strip + "\n#{@current_quarter}\n"
+    date_str = timestamp.strftime('%Y-%m-%d')
+    contribution_line = "* [#{type}] [#{title}](#{url}) - #{date_str}"
+    #TODO better duplicate check
+    return if content.include?(contribution_line)
+    
+    quarter_section = "## #{quarter}"
+    if !content.include?(quarter_section)
+      if content.include?("## Contributions")
+        content = content.gsub("## Contributions", "## Contributions\n\n#{quarter_section}")
+      else
+        content += "\n\n#{quarter_section}"
+      end
     end
-
-    repo_section = "[#{repo_name(repo)}](https://github.com/#{repo})"
-    contribution = "* [#{type}] [#{title}](#{url})"
     
-    content = insert_contribution(content, repo_section, contribution)
+    repo_line = "[#{repo}](https://github.com/#{repo})"
+    quarter_pattern = /#{Regexp.escape(quarter_section)}(.*?)(?=^##|\z)/m
+    if content =~ quarter_pattern
+      quarter_content = $1
+      
+      if quarter_content.include?(repo_line)
+        content = content.gsub(quarter_pattern) do |match|
+          quarter_text = $1
+          repo_pattern = /#{Regexp.escape(repo_line)}(.*?)(?=^\[|\z)/m
+          quarter_text = quarter_text.gsub(repo_pattern) do |repo_section|
+            repo_content = $1
+            "#{repo_line}#{repo_content}#{contribution_line}\n"
+          end
+          "#{quarter_section}#{quarter_text}"
+        end
+      else
+        content = content.gsub(quarter_pattern) do |match|
+          "#{quarter_section}#{$1}\n#{repo_line}\n#{contribution_line}\n"
+        end
+      end
+    else
+      content += "\n\n#{quarter_section}\n#{repo_line}\n#{contribution_line}\n"
+    end
+    
     File.write(@file_path, content)
   end
+end
 
-  private
-
-  def get_current_quarter
-    now = Time.now
-    quarter = ((now.month - 1) / 3) + 1
-    "## Q#{quarter} #{now.year}"
+class ContributionTracker
+  def initialize(token, members_dir, repos_file)
+    @client = GithubClient.new(token)
+    @members_dir = members_dir
+    @repos = load_repos(repos_file)
+    @since_time = Time.now - TIME_PERIOD
   end
-
-  def repo_name(full_name)
-    full_name.split('/').last
-  end
-
-  def insert_contribution(content, repo_section, contribution)
-    quarter_index = content.rindex(@current_quarter)
-    return content unless quarter_index
-
-    section_start = quarter_index + @current_quarter.length
-    next_section_index = content.index(/^##[^#]/, section_start)
-    section_end = next_section_index ? next_section_index : content.length
+  
+  def track_contributions
+    user_checker = UserActivityChecker.new(@client, @members_dir, @repos, @since_time)
+    inactive_users = user_checker.check_activities
     
-    quarter_content = content[quarter_index...section_end]
-    repo_index = quarter_content.index(repo_section)
-
-    if repo_index
-      insert_at = quarter_index + repo_index + quarter_content[repo_index..-1].index("\n") + 1
-      content.insert(insert_at, "#{contribution}\n")
+    puts "Active users in the last 24 hours: #{user_checker.active_users.size}"
+    puts "Inactive users in the last 24 hours: #{inactive_users.size}"
+  end
+  
+  private
+  
+  def load_repos(repos_file)
+    if File.exist?(repos_file)
+      File.readlines(repos_file).map(&:strip).reject(&:empty?)
     else
-      insert_at = section_end.zero? ? content.length : section_end
-      content.insert(insert_at, "\n#{repo_section}\n#{contribution}\n")
+      puts "repos.txt file not found, add list of repos"
+      []
     end
-
-    content
   end
 end
 
-begin
-  ContributionTracker.new.run
-rescue StandardError => e
-  puts "\nError: #{e.message}"
-  exit 1
-end
+if __FILE__ == $0
+  token = ENV['GITHUB_TOKEN']
+  members_dir = 'members'
+  repos_file = 'repos.txt'
+  
+  tracker = ContributionTracker.new(token, members_dir, repos_file)
+  tracker.track_contributions
+end 

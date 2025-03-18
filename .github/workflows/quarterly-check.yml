@@ -1,0 +1,25 @@
+name: Quarterly Contribution Audit
+
+on:
+  workflow_dispatch:  # Manual trigger only
+
+jobs:
+  audit-contributions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true
+          
+      - name: Install dependencies
+        run: bundle install
+        
+      - name: Run quarterly audit
+        run: ruby scripts/quarterly_check.rb
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }} 
