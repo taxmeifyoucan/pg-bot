@@ -24,7 +24,9 @@ jobs:
           bundler-cache: true
           
       - name: Install dependencies
-        run: bundle install
+        run: |
+          gem install octokit
+          gem install fileutils
         
       - name: Run contribution tracker
         run: ruby contributions.rb
