@@ -14,3 +14,4 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Add NonceManager support](https://github.com/erigontech/erigon/issues/14206) - 2025-03-18
 * [Issue] [Implement ERC-7562 in `ValidateAATransaction`](https://github.com/erigontech/erigon/issues/14205) - 2025-03-18
 * [Issue] [Add Account Abstraction receipts](https://github.com/erigontech/erigon/issues/14204) - 2025-03-18
+* [Commit] [Fix test](https://github.com/erigontech/erigon/commit/8cf946b27f1a22cc6a6d506dc3999636b8d4629e) - 2025-03-19

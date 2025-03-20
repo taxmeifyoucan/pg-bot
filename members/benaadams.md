@@ -16,3 +16,5 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [increase test](https://github.com/NethermindEth/nethermind/commit/4d13fdedd0911e247f92504863d410a1d22a6191) - 2025-03-18
 * [Pull Request] [Increase Holesky gas to 60M](https://github.com/NethermindEth/nethermind/pull/8383) - 2025-03-18
 * [Pull Request] [Implement EIP-5920: PAY](https://github.com/NethermindEth/nethermind/pull/8382) - 2025-03-18
+* [Commit] [Include blob count in block production logs (#8396)](https://github.com/NethermindEth/nethermind/commit/ebcd43af9900594c301a4326aae01c00f836db8a) - 2025-03-19
+* [Pull Request] [Include blob count in block production logs](https://github.com/NethermindEth/nethermind/pull/8396) - 2025-03-19

@@ -20,3 +20,5 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Upgrade ethereum/tests to v17.0](https://github.com/erigontech/erigon/commit/4bd1163fb9056c67ae3b1f1d29ac08c2d1c6f4cf) - 2025-03-18
 * [Commit] [integrity: logs improve (#14197)](https://github.com/erigontech/erigon/commit/835a08de2bb7f17f8ec96524914b616e18609883) - 2025-03-18
 * [Commit] [Explicit DefaultSnapshotGitBranch release/3.0 (#14196)](https://github.com/erigontech/erigon/commit/e1b9f575f83037d052c781443086b7b1b2200390) - 2025-03-18
+* [Pull Request] [deps: upgrade gnark-crypto to v0.17.0](https://github.com/erigontech/erigon/pull/14228) - 2025-03-19
+* [Commit] [deps: upgrade gnark-crypto to v0.17.0](https://github.com/erigontech/erigon/commit/f47fd93593ea93aa06047ae8bfe11d59933542a0) - 2025-03-19
