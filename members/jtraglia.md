@@ -12,3 +12,4 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Prune outdated issues and pull requests](https://github.com/ethereum/consensus-specs/issues/4177) - 2025-03-19
+* [Commit] [Create honest validator specs for Fulu (#4135)](https://github.com/ethereum/consensus-specs/commit/ff99bc03d6da29d9ef6e055bdb8500e1b2942f1e) - 2025-03-20

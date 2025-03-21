@@ -16,3 +16,4 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Issue] [[Feature Flag] save all blocks, even non-canonical ones](https://github.com/prysmaticlabs/prysm/issues/15067) - 2025-03-18
 * [Issue] [Lazy slasher](https://github.com/prysmaticlabs/prysm/issues/15066) - 2025-03-18
 * [Commit] [only log requests before ePBS](https://github.com/prysmaticlabs/prysm/commit/f9feb4276ac7ab8f620a89f5740f03e19f933edf) - 2025-03-19
+* [Commit] [epbs initial implementation](https://github.com/prysmaticlabs/prysm/commit/d6978e64f1121d1db51421048b042adc3636fa3d) - 2025-03-20

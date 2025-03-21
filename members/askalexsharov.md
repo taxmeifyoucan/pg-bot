@@ -17,3 +17,4 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/17900e583f8313e21dd16c0c6a49e661ed996f35) - 2025-03-19
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b8adc1959162bc84ac9be3cae50b2b563de97719) - 2025-03-19
 * [Commit] [diagnostics: fix dividing by 0 (#14168)](https://github.com/erigontech/erigon/commit/31ca03afb0237e41aa4b7eb2f6f6587bdec3ae9d) - 2025-03-19
+* [Commit] [Goroutine for accurate periodic flush (in MDBX_SAFE_NOSYNC mode) (#14229)](https://github.com/erigontech/erigon/commit/b937120bb0c8596a0bcb715e3020a146e3162cc5) - 2025-03-20

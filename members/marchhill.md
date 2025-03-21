@@ -20,3 +20,4 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [mergeauratestblockcain build](https://github.com/NethermindEth/nethermind/commit/22eec1bc1ccaab21c72883e45d742194d9b09d50) - 2025-03-19
 * [Commit] [fix deleting blocks test, make deleting blocks not lazy](https://github.com/NethermindEth/nethermind/commit/30ac00fb4cdb36d39ef1fe93301392e32861df7f) - 2025-03-19
 * [Commit] [mergetestblockchain build param](https://github.com/NethermindEth/nethermind/commit/50d84b7884a96721f83fb9c6be37f1af871a084d) - 2025-03-19
+* [Commit] [check config that prune epochs not too low](https://github.com/NethermindEth/nethermind/commit/286ad3c6a2bb92a46a821939d8203d35b518f038) - 2025-03-20

@@ -22,3 +22,4 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Explicit DefaultSnapshotGitBranch release/3.0 (#14196)](https://github.com/erigontech/erigon/commit/e1b9f575f83037d052c781443086b7b1b2200390) - 2025-03-18
 * [Pull Request] [deps: upgrade gnark-crypto to v0.17.0](https://github.com/erigontech/erigon/pull/14228) - 2025-03-19
 * [Commit] [deps: upgrade gnark-crypto to v0.17.0](https://github.com/erigontech/erigon/commit/f47fd93593ea93aa06047ae8bfe11d59933542a0) - 2025-03-19
+* [Issue] [Some ethereum/tests blockchain tests fail with the eest/consume-rlp simulator](https://github.com/erigontech/erigon/issues/14235) - 2025-03-20

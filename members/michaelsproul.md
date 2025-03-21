@@ -16,3 +16,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Cut v7.0.0 beta.4](https://github.com/sigp/lighthouse/pull/7162) - 2025-03-18
 * [Commit] [Clean up temporary flags on migration](https://github.com/sigp/lighthouse/commit/f4dd6fe060b3c590d1af788f517ded58c868f748) - 2025-03-18
 * [Commit] [Fix compilation](https://github.com/sigp/lighthouse/commit/a3224638b9d951b4dd8564827bf50e6307b7a752) - 2025-03-18
+* [Issue] [Back merge v7.0.0-beta.4 to unstable](https://github.com/sigp/lighthouse/issues/7179) - 2025-03-20
+* [Commit] [Fix buckets](https://github.com/sigp/lighthouse/commit/950ce5c7d84ec2a7c1bc1d535d5d1928745d6216) - 2025-03-20
+* [Commit] [Heaptrack clippy fix](https://github.com/sigp/lighthouse/commit/343032b8a06af52398272d656de4946fc309940b) - 2025-03-20
+* [Issue] [Fix docker-in-docker release builds](https://github.com/sigp/lighthouse/issues/7177) - 2025-03-20
+* [Pull Request] [Tree states hot rebase oom](https://github.com/sigp/lighthouse/pull/7176) - 2025-03-20
+* [Pull Request] [Fix xdelta3 output buffer issue](https://github.com/sigp/lighthouse/pull/7174) - 2025-03-20

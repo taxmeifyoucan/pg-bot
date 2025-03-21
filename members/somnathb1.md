@@ -15,3 +15,8 @@ Team: Erigon
 * [Commit] [Restore holesky cl params](https://github.com/erigontech/erigon/commit/874b40039ca3277a47734c4fcb5ef579f18ccd1d) - 2025-03-18
 * [Pull Request] [Add configs for Hoodi testnet](https://github.com/erigontech/erigon/pull/14211) - 2025-03-18
 * [Commit] [Add Hoodi config](https://github.com/erigontech/erigon/commit/5d6b8094c43a95e4e43c41dd8e8bb34596a9b1aa) - 2025-03-18
+* [Commit] [Add len check for proofs](https://github.com/erigontech/erigon/commit/c09fbac0f282ccaabf6e8995d9d5d632b73216b2) - 2025-03-20
+* [Commit] [tidy](https://github.com/erigontech/erigon/commit/f17256b1ee957c6a3e45095ee151e8ea8ce16d25) - 2025-03-20
+* [Commit] [Move log line](https://github.com/erigontech/erigon/commit/3546779a452902654850d45c45e8276ef0a1f967) - 2025-03-20
+* [Commit] [Simplify txpool  buf](https://github.com/erigontech/erigon/commit/dc089bd961f77c4a13564462fc27d57d872984a3) - 2025-03-20
+* [Commit] [Fix json encoding](https://github.com/erigontech/erigon/commit/adc61831b41894118d224e64cc5d31e152708f32) - 2025-03-20

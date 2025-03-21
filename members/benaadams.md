@@ -18,3 +18,5 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Implement EIP-5920: PAY](https://github.com/NethermindEth/nethermind/pull/8382) - 2025-03-18
 * [Commit] [Include blob count in block production logs (#8396)](https://github.com/NethermindEth/nethermind/commit/ebcd43af9900594c301a4326aae01c00f836db8a) - 2025-03-19
 * [Pull Request] [Include blob count in block production logs](https://github.com/NethermindEth/nethermind/pull/8396) - 2025-03-19
+* [Pull Request] [Pack blobs optimally during block production](https://github.com/NethermindEth/nethermind/pull/8400) - 2025-03-20
+* [Issue] [Blob packing in block production is not optimal](https://github.com/NethermindEth/nethermind/issues/8399) - 2025-03-20
