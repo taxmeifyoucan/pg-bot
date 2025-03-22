@@ -19,3 +19,4 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/14ba1a2359634314210ed5f165b9ae06177957b1) - 2025-03-20
 * [Commit] [Deployed 6ab2c3b8ab to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/060ddd438edeb5c863fa23cac9564a51e38eebe3) - 2025-03-20
 * [Commit] [fix(consume): fix `genindex` for EOF files (#1332)](https://github.com/ethereum/execution-spec-tests/commit/6ab2c3b8ab28f550ab055b436bd5281d1d75c877) - 2025-03-20
+* [Pull Request] [chore(tooling): add pylance to recommended vs code extensions](https://github.com/ethereum/execution-spec-tests/pull/1338) - 2025-03-21

@@ -19,3 +19,5 @@ Team: Reth
 * [Pull Request] [chore(trie): rename from_provider_and_root to from_root_node](https://github.com/paradigmxyz/reth/pull/15141) - 2025-03-19
 * [Pull Request] [chore: add RevealedSparseTrie::insert_branch_node](https://github.com/paradigmxyz/reth/pull/15140) - 2025-03-19
 * [Pull Request] [chore: turn multiproof from state into pure fn](https://github.com/paradigmxyz/reth/pull/15139) - 2025-03-19
+* [Commit] [chore: add spawn_storage_proof for input creation and spawning](https://github.com/paradigmxyz/reth/commit/eab2d29c04a28278aa60d60a6d37b009b325753a) - 2025-03-21
+* [Commit] [chore: add spawn_storage_proof for input creation and spawning](https://github.com/paradigmxyz/reth/commit/5b3b822e4c2cf2d927027b1120e563793b337fbb) - 2025-03-21

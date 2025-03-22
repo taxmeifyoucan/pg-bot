@@ -23,3 +23,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [deps: upgrade gnark-crypto to v0.17.0](https://github.com/erigontech/erigon/pull/14228) - 2025-03-19
 * [Commit] [deps: upgrade gnark-crypto to v0.17.0](https://github.com/erigontech/erigon/commit/f47fd93593ea93aa06047ae8bfe11d59933542a0) - 2025-03-19
 * [Issue] [Some ethereum/tests blockchain tests fail with the eest/consume-rlp simulator](https://github.com/erigontech/erigon/issues/14235) - 2025-03-20
+* [Commit] [rm unused func](https://github.com/erigontech/erigon/commit/a7a70b8f45e70963e2513d31379049729f1d1dd2) - 2025-03-21
+* [Commit] [Add eip7692@v2.2.0 (EOF) fixtures to execution-spec-tests submodule](https://github.com/erigontech/erigon/commit/304c53b97a8dc94a1efc0e602792fa3c421017c4) - 2025-03-21
+* [Commit] [Force mdbx sync (#14244)](https://github.com/erigontech/erigon/commit/c9480171d183bfef915c324071a243bf09b226ad) - 2025-03-21
+* [Commit] [erigontech/eest-fixtures#8 has been merged](https://github.com/erigontech/erigon/commit/51c954fe0fb2180830feecadb47687e10818772a) - 2025-03-21
+* [Pull Request] [execution-spec-tests: mv to blockchain tests](https://github.com/erigontech/erigon/pull/14256) - 2025-03-21
+* [Commit] [execution-spec-tests: mv to blockchain tests](https://github.com/erigontech/erigon/commit/338fae07aaaac719f4a3cb8db5e2d3c69450a927) - 2025-03-21

@@ -20,3 +20,6 @@ Team: Erigon
 * [Commit] [Move log line](https://github.com/erigontech/erigon/commit/3546779a452902654850d45c45e8276ef0a1f967) - 2025-03-20
 * [Commit] [Simplify txpool  buf](https://github.com/erigontech/erigon/commit/dc089bd961f77c4a13564462fc27d57d872984a3) - 2025-03-20
 * [Commit] [Fix json encoding](https://github.com/erigontech/erigon/commit/adc61831b41894118d224e64cc5d31e152708f32) - 2025-03-20
+* [Commit] [jsonrpc: add Authorizations to callArgs for `eth_estimateGas` (#14152) (#14225)](https://github.com/erigontech/erigon/commit/f3b10c72b7a049890984f2409ede58b334358bb8) - 2025-03-21
+* [Commit] [fmt](https://github.com/erigontech/erigon/commit/3565d8829e78a65c1e253cef1a30c8bd984238d4) - 2025-03-21
+* [Commit] [Fix intrinsic case](https://github.com/erigontech/erigon/commit/b6101e15f4d8d12909c3124fbd553adff76a4d6e) - 2025-03-21

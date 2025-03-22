@@ -20,3 +20,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Include blob count in block production logs](https://github.com/NethermindEth/nethermind/pull/8396) - 2025-03-19
 * [Pull Request] [Pack blobs optimally during block production](https://github.com/NethermindEth/nethermind/pull/8400) - 2025-03-20
 * [Issue] [Blob packing in block production is not optimal](https://github.com/NethermindEth/nethermind/issues/8399) - 2025-03-20
+* [Commit] [Pack blobs optimally during block production (#8400)](https://github.com/NethermindEth/nethermind/commit/d83f13064d66023451b8030966657fa54f51e3b8) - 2025-03-21
+* [Commit] [Test comments](https://github.com/NethermindEth/nethermind/commit/f4a2bc82e27ff054a41e15fc0470b1431940274f) - 2025-03-21
+* [Commit] [Try up tests](https://github.com/NethermindEth/nethermind/commit/d563409b966705e4b62090b4dff1c6308b05847b) - 2025-03-21
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/05e10518f7b5f953a397872b9c5bd82f4384242a) - 2025-03-21
+* [Commit] [SpentGas non nullable](https://github.com/NethermindEth/nethermind/commit/84a6ee2291d1c3e8334a463175b5e5a9a566ae80) - 2025-03-21
+* [Commit] [Make unsetting bitmap work](https://github.com/NethermindEth/nethermind/commit/e86856cf362c977f90715fd5fb1e63b9ef2e6a88) - 2025-03-21
+* [Commit] [sp](https://github.com/NethermindEth/nethermind/commit/91ead772abc3712513da0688fe46f9b7fa09a49f) - 2025-03-21
+* [Commit] [Apply suggestions from code review](https://github.com/NethermindEth/nethermind/commit/7c658d80d5583df736f4f9c01655c4a982bf3594) - 2025-03-21
+* [Commit] [Better formatting](https://github.com/NethermindEth/nethermind/commit/1e17d8844b189500ef1a77f50f182c9da3a4e876) - 2025-03-21

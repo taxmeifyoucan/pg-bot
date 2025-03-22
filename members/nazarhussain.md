@@ -17,3 +17,4 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [test: use vitest workspace to run all tests](https://github.com/ChainSafe/lodestar/pull/7610) - 2025-03-20
 * [Commit] [chore: track gossip attestation ignore/reject by reasons (#7590)](https://github.com/ChainSafe/lodestar/commit/e3f5dc01d05be63fa80d36f267e785e0ca4f9d24) - 2025-03-20
 * [Commit] [Add new words to dictionary](https://github.com/ChainSafe/lodestar/commit/f81d70336446ed5ea734eff722849046176d5b09) - 2025-03-20
+* [Commit] [Fix types tests](https://github.com/ChainSafe/lodestar/commit/fab18ed12cad01e566edde61427bf0d0f0e93036) - 2025-03-21

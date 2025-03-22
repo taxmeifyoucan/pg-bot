@@ -39,3 +39,8 @@ Team: Reth
 * [Commit] [rename to queue_task](https://github.com/paradigmxyz/reth/commit/5b878c20ce7593b54f909922068f06f563520d5e) - 2025-03-20
 * [Commit] [rename to queue_task](https://github.com/paradigmxyz/reth/commit/114fbf69aba504a1009434357109772293b576f3) - 2025-03-20
 * [Commit] [custom clone impl, do not expose the sender](https://github.com/paradigmxyz/reth/commit/3e614c0d566022d3df01453cd81a4784a86ef933) - 2025-03-20
+* [Commit] [confused](https://github.com/paradigmxyz/reth/commit/efc9eb18ee225f84586d9f5d08b67f0a51d65c28) - 2025-03-21
+* [Pull Request] [test(trie): simplify node iter test](https://github.com/paradigmxyz/reth/pull/15201) - 2025-03-21
+* [Commit] [test(trie): simplify node iter test](https://github.com/paradigmxyz/reth/commit/43b9833fc9107bf34dd7d826404ca917d4ee0dba) - 2025-03-21
+* [Pull Request] [refactor(trie): initialize sparse trie with the provider](https://github.com/paradigmxyz/reth/pull/15199) - 2025-03-21
+* [Commit] [pass by ref](https://github.com/paradigmxyz/reth/commit/f043b02350d7e15264067d4495927a9fe80f4f36) - 2025-03-21

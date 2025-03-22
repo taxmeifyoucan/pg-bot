@@ -15,3 +15,5 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Commit] [Fix store test](https://github.com/sigp/lighthouse/commit/3f808dff151208b54adc06e926793a61267bd4f4) - 2025-03-20
 * [Commit] [Skip one slot in get_ancestor_state_root](https://github.com/sigp/lighthouse/commit/a3389cb43ed0de05d37e117f053f9d41079f97e2) - 2025-03-20
 * [Commit] [Don't use StateRootsIterator in get_ancestor_state_root](https://github.com/sigp/lighthouse/commit/2986d43b447b8d42ea1a949715eac0068a057a74) - 2025-03-20
+* [Issue] [Abolish iterators that load states](https://github.com/sigp/lighthouse/issues/7184) - 2025-03-21
+* [Commit] [Better on state write](https://github.com/sigp/lighthouse/commit/75e069ae27436b267c1371e6402b8135ef6e49d0) - 2025-03-21
