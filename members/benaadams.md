@@ -29,3 +29,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [sp](https://github.com/NethermindEth/nethermind/commit/91ead772abc3712513da0688fe46f9b7fa09a49f) - 2025-03-21
 * [Commit] [Apply suggestions from code review](https://github.com/NethermindEth/nethermind/commit/7c658d80d5583df736f4f9c01655c4a982bf3594) - 2025-03-21
 * [Commit] [Better formatting](https://github.com/NethermindEth/nethermind/commit/1e17d8844b189500ef1a77f50f182c9da3a4e876) - 2025-03-21
+* [Commit] [Fix cpu detection on Windows (#8403)](https://github.com/NethermindEth/nethermind/commit/557d27e304108abcba362a314a71dccebbaa2000) - 2025-03-22
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/c1d91983fe1b00ea248e6ad2daacaae598b305f6) - 2025-03-22
+* [Commit] [Kzg correct arg ordering (#8363)](https://github.com/NethermindEth/nethermind/commit/1538993b11205ca22c70dcf01b4b30a7a4205eff) - 2025-03-22
+* [Commit] [Reduce cpu oversubscription](https://github.com/NethermindEth/nethermind/commit/45ec97114314f2710a84ac11b837d6dae8185343) - 2025-03-22
+* [Pull Request] [Fix cpu detection on Windows](https://github.com/NethermindEth/nethermind/pull/8403) - 2025-03-22

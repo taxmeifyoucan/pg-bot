@@ -12,3 +12,4 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Commit] [Fix empty IL](https://github.com/ChainSafe/lodestar/commit/fdb9dd896cb08b5c46d6058f64ce8b049efdf797) - 2025-03-20
+* [Pull Request] [feat: add engine api spec test](https://github.com/ChainSafe/lodestar/pull/7614) - 2025-03-22

@@ -18,3 +18,6 @@ Team: Erigon
 * [Commit] [remove valid/invalid logging](https://github.com/erigontech/erigon/commit/5be8fa20d23e1adfca94ca93982e58e2d4d9e4c5) - 2025-03-21
 * [Commit] [remove valid/invalid logging](https://github.com/erigontech/erigon/commit/a8bd53edd6b0a715da21aa058b61625817a0795d) - 2025-03-21
 * [Commit] [remove update trace](https://github.com/erigontech/erigon/commit/b16692ba66ba5e776ee298856b48312cc0179e5e) - 2025-03-21
+* [Commit] [panic on type fail](https://github.com/erigontech/erigon/commit/765d9240dfaf7bb4a381fd0074e2b2f5e0d7ba5b) - 2025-03-22
+* [Commit] [fix update balance type](https://github.com/erigontech/erigon/commit/6cc125f7c85ea7114743eaca20541690e3c3aa3b) - 2025-03-22
+* [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/5de6702dfedc339ff15e0299a395ce2bfabefd23) - 2025-03-22

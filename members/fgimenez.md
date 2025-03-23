@@ -17,3 +17,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [chore(op): remove unused DepositTransaction impl](https://github.com/paradigmxyz/reth/pull/15169) - 2025-03-20
 * [Issue] [Create `ProduceBlocks` e2e action stub and test](https://github.com/paradigmxyz/reth/issues/15166) - 2025-03-20
 * [Commit] [payload attributes param](https://github.com/paradigmxyz/reth/commit/fd7c7e35d9aa8d80e2039f8ccc4fd5087c11a2d4) - 2025-03-21
+* [Commit] [todo comments](https://github.com/paradigmxyz/reth/commit/0112023c366991907fd0c21685061c64d7cf6f22) - 2025-03-22
+* [Commit] [fix versions](https://github.com/paradigmxyz/reth/commit/854a0b4da51e7699c029ce0f6b18d901bb99579c) - 2025-03-22
+* [Commit] [withdrawals](https://github.com/paradigmxyz/reth/commit/f45f286b021d29c60d20d196a6a8486b44efd32c) - 2025-03-22
+* [Commit] [Added custom headers to NodePrimitives (#13995)](https://github.com/paradigmxyz/reth/commit/9cb7177dfc692111888068f52b9b89db0fce2177) - 2025-03-22

@@ -21,5 +21,16 @@ Team: Reth
 * [Commit] [rm precompile error](https://github.com/paradigmxyz/reth/commit/d2c65ffe1890143c971434f5f333ee49925b9b6c) - 2025-03-21
 * [Pull Request] [chore: bump revm alpha7](https://github.com/paradigmxyz/reth/pull/15202) - 2025-03-21
 * [Commit] [wip](https://github.com/paradigmxyz/reth/commit/02c3742b3576d7fbd891e278dbbdad02c212a8b3) - 2025-03-21
+* [Issue] [Add opstack specific display_hardforks implementation](https://github.com/paradigmxyz/reth/issues/15224) - 2025-03-22
+* [Issue] [implement SignedTransaction for `OpTxEnvelope`](https://github.com/paradigmxyz/reth/issues/15221) - 2025-03-22
+* [Issue] [relax SignedTransaction for PooledTransaction impl](https://github.com/paradigmxyz/reth/issues/15220) - 2025-03-22
+* [Issue] [Remove default serde feature from reth-network-api](https://github.com/paradigmxyz/reth/issues/15219) - 2025-03-22
+* [Issue] [Replace `TransactionSigned::new` with into calls](https://github.com/paradigmxyz/reth/issues/15218) - 2025-03-22
+* [Issue] [remove reth_ethereum_forks dep from eth-wire-types](https://github.com/paradigmxyz/reth/issues/15212) - 2025-03-22
+* [Issue] [Add cli arg for blob cache size](https://github.com/paradigmxyz/reth/issues/15211) - 2025-03-22
+* [Commit] [chore: make clippy happy (#15208)](https://github.com/paradigmxyz/reth/commit/a34f45641ab41ef3b94347d3b79c0e1694d7be3a) - 2025-03-22
+* [Issue] [Add engine_getBlobsV2 endpoint](https://github.com/paradigmxyz/reth/issues/15209) - 2025-03-22
+* [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/15208) - 2025-03-22
+* [Commit] [chore: change default for await_payload_on_missing (#15178)](https://github.com/paradigmxyz/reth/commit/0eb893e0ed1c30fb0abcc2896813e26d800a4f52) - 2025-03-22
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore: use revert error code for execution reverted](https://github.com/ethereum/go-ethereum/pull/31444) - 2025-03-20
