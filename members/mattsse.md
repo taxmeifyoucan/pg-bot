@@ -32,5 +32,7 @@ Team: Reth
 * [Issue] [Add engine_getBlobsV2 endpoint](https://github.com/paradigmxyz/reth/issues/15209) - 2025-03-22
 * [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/15208) - 2025-03-22
 * [Commit] [chore: change default for await_payload_on_missing (#15178)](https://github.com/paradigmxyz/reth/commit/0eb893e0ed1c30fb0abcc2896813e26d800a4f52) - 2025-03-22
+* [Commit] [criterion compat](https://github.com/paradigmxyz/reth/commit/39f0793313f78323fa467f83baf10df6d12c7d53) - 2025-03-23
+* [Commit] [crunchy](https://github.com/paradigmxyz/reth/commit/b4f8e85f25ec9e068bc7d5ff961a89ab853c29f2) - 2025-03-23
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore: use revert error code for execution reverted](https://github.com/ethereum/go-ethereum/pull/31444) - 2025-03-20

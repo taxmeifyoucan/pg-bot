@@ -21,3 +21,4 @@ Team: Erigon
 * [Commit] [panic on type fail](https://github.com/erigontech/erigon/commit/765d9240dfaf7bb4a381fd0074e2b2f5e0d7ba5b) - 2025-03-22
 * [Commit] [fix update balance type](https://github.com/erigontech/erigon/commit/6cc125f7c85ea7114743eaca20541690e3c3aa3b) - 2025-03-22
 * [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/5de6702dfedc339ff15e0299a395ce2bfabefd23) - 2025-03-22
+* [Commit] [remove update printer](https://github.com/erigontech/erigon/commit/722876b1352208061a69bd6932039a8e1f243e09) - 2025-03-23

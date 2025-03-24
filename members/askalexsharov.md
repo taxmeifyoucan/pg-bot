@@ -37,3 +37,5 @@ Team: Erigon
 * [Commit] [docs: added a link to the CI badge (#14252)](https://github.com/erigontech/erigon/commit/9356d5b7f316eaaa6175af57412fa1aca4d4e1b1) - 2025-03-22
 * [Pull Request] [sd: step5 less aggTx field use](https://github.com/erigontech/erigon/pull/14262) - 2025-03-22
 * [Commit] [build(deps): bump github.com/golang-jwt/jwt/v4 from 4.5.1 to 4.5.2 (#14259)](https://github.com/erigontech/erigon/commit/9b9040431632fb2e67b76cc55e7b5330b0368d06) - 2025-03-22
+* [Issue] [agg: files merge panic must be catched (don't crush erigon)](https://github.com/erigontech/erigon/issues/14268) - 2025-03-23
+* [Commit] [new mdbx version v13.5 (#14265)](https://github.com/erigontech/erigon/commit/ded4b633d52c491219052447d1f96d0b2ca3c3f7) - 2025-03-23

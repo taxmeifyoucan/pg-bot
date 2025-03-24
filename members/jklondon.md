@@ -15,3 +15,4 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/89a7917b46fb5eeff3db156c6b8ec7cbe716a857) - 2025-03-19
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/2777d156e8047f5fd47823c3e9de01c90f47ca6a) - 2025-03-22
 * [Pull Request] [new mdbx version v13.5](https://github.com/erigontech/erigon/pull/14265) - 2025-03-22
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/1285c8762c3c567648e53fd6350022dd785b3124) - 2025-03-23

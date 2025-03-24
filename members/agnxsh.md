@@ -15,3 +15,5 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix conf string](https://github.com/status-im/nimbus-eth2/commit/1dd75a66f545b4f9f4eafbbfcadc41a0605cb1be) - 2025-03-21
 * [Pull Request] [`ColumnSyncer`](https://github.com/status-im/nimbus-eth2/pull/7029) - 2025-03-21
 * [Commit] [added e2e flow](https://github.com/status-im/nimbus-eth2/commit/e039f4fbbd9a605fbc151e88017c6f6c33cca6b2) - 2025-03-21
+* [Commit] [copyright year](https://github.com/status-im/nimbus-eth2/commit/3eb1be81eb99f62ce71052a0fe9239e6d5eb83f7) - 2025-03-23
+* [Commit] [fix other issues](https://github.com/status-im/nimbus-eth2/commit/18d5fe2e37b44571c44c97122cba92bfb2f4b549) - 2025-03-23

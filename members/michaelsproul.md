@@ -22,3 +22,5 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Fix docker-in-docker release builds](https://github.com/sigp/lighthouse/issues/7177) - 2025-03-20
 * [Pull Request] [Tree states hot rebase oom](https://github.com/sigp/lighthouse/pull/7176) - 2025-03-20
 * [Pull Request] [Fix xdelta3 output buffer issue](https://github.com/sigp/lighthouse/pull/7174) - 2025-03-20
+* [Commit] [Optimise status processing (#7082)](https://github.com/sigp/lighthouse/commit/7d598ed8a51da90b37bf0330d28718f97e3390e8) - 2025-03-23
+* [Issue] [Remove references to `slog`](https://github.com/sigp/lighthouse/issues/7196) - 2025-03-23
