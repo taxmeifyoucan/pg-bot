@@ -12,3 +12,6 @@ Team: Portal Network (EF)
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Issue] [Network level versioning](https://github.com/ethereum/portal-network-specs/issues/381) - 2025-03-20
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Portal Implementers Call #49 - March 31st](https://github.com/ethereum/pm/issues/1406) - 2025-03-24

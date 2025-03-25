@@ -22,3 +22,5 @@ Team: Erigon
 * [Commit] [fix update balance type](https://github.com/erigontech/erigon/commit/6cc125f7c85ea7114743eaca20541690e3c3aa3b) - 2025-03-22
 * [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/5de6702dfedc339ff15e0299a395ce2bfabefd23) - 2025-03-22
 * [Commit] [remove update printer](https://github.com/erigontech/erigon/commit/722876b1352208061a69bd6932039a8e1f243e09) - 2025-03-23
+* [Commit] [no prune processing](https://github.com/erigontech/erigon/commit/7cc1a875a9cde5f7b3b926d4d47cadd0e192bcde) - 2025-03-24
+* [Commit] [consolidate commit call location](https://github.com/erigontech/erigon/commit/98181d14330628e4cf735176284076dbd02a8b26) - 2025-03-24

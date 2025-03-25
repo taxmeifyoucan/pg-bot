@@ -50,3 +50,26 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Tidy up params](https://github.com/NethermindEth/nethermind/commit/8255aeb488abd80677ebc9fc14b58775b2373775) - 2025-03-23
 * [Commit] [Tidy up params](https://github.com/NethermindEth/nethermind/commit/1e238004a512b2ceef18a6497d16ec85b0dd874b) - 2025-03-23
 * [Commit] [Tidy up params](https://github.com/NethermindEth/nethermind/commit/3a18c004a9ef7df0819a1c8a2b5689db67320d45) - 2025-03-23
+* [Commit] [Define GetHashCode](https://github.com/NethermindEth/nethermind/commit/b895fb65206d5dfafaa39b0f691f881fa5fdf6f4) - 2025-03-24
+* [Commit] [Record writes correctly](https://github.com/NethermindEth/nethermind/commit/44b29291fa47591d09bcc968c998666668f5629b) - 2025-03-24
+* [Commit] [Add comment](https://github.com/NethermindEth/nethermind/commit/16d5937c502d8453adb25af4c274f8e1cfd942ab) - 2025-03-24
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/8f929291f0bed2eb0d57aacc7ce52ece9d906d4a) - 2025-03-24
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/1d06fbdfd9fad53d003c6e6b5ec6604d3f37e6ea) - 2025-03-24
+* [Commit] [Update OP Superchain chains (#8405)](https://github.com/NethermindEth/nethermind/commit/07d29adb60abed26cc1a68c9de864850ce4939c0) - 2025-03-24
+* [Pull Request] [Return txs from pool in form with network wrapper in special case](https://github.com/NethermindEth/nethermind/pull/8406) - 2025-03-24
+* [Pull Request] [Add full blob tx rather than wrapper](https://github.com/NethermindEth/nethermind/pull/8407) - 2025-03-24
+* [Commit] [Remove redundant check for delegations (#8402)](https://github.com/NethermindEth/nethermind/commit/d15d5a79f3b46adad24de653362d34436abab4b4) - 2025-03-24
+* [Commit] [Only count time when Merkleizing](https://github.com/NethermindEth/nethermind/commit/5165bef4d1fa087d7470e3fe3caab8d63c129503) - 2025-03-24
+* [Commit] [Fix cpu detection on Windows (#8403)](https://github.com/NethermindEth/nethermind/commit/557d27e304108abcba362a314a71dccebbaa2000) - 2025-03-24
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/6cb37653fa81ddc72f4c92f78a8c6cb23d963d53) - 2025-03-24
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/03424714aa5328ad34d99436d205b2f42168f1d4) - 2025-03-24
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/81e69c198c3fa75814c1e922643ca864b2fdb35f) - 2025-03-24
+* [Commit] [Net state writes](https://github.com/NethermindEth/nethermind/commit/d695a1121ccec9edcf159670d2053a50f9838326) - 2025-03-24
+* [Commit] [Net storage writes](https://github.com/NethermindEth/nethermind/commit/ec23e9c1866d2a5b23cf41439f6af6225a251c1c) - 2025-03-24
+* [Commit] [Net storage writes](https://github.com/NethermindEth/nethermind/commit/64b5519fa8c10fa77a4c4c65ef7def1c15ca2eb1) - 2025-03-24
+* [Commit] [fx](https://github.com/NethermindEth/nethermind/commit/6e3a9c1f5c98df7000533753f7638cf1dee4ed1d) - 2025-03-24
+* [Commit] [fx](https://github.com/NethermindEth/nethermind/commit/f543ce019c9c6a0bbce4be1ba964c1ac5d6e8d55) - 2025-03-24
+* [Commit] [Net storage writes](https://github.com/NethermindEth/nethermind/commit/0213e4de76f2ff0bc25b410e40bb3b2fb0ec74cf) - 2025-03-24
+* [Commit] [Revert "Net storage writes"](https://github.com/NethermindEth/nethermind/commit/781c4ec4b4c9b3351ee33850d44c63dc04d4ca4e) - 2025-03-24
+* [Commit] [Tidy up params](https://github.com/NethermindEth/nethermind/commit/5af85c333b186dbee7a489278efcf595f938de5e) - 2025-03-24
+* [Commit] [Tidy up params](https://github.com/NethermindEth/nethermind/commit/09d063b59f309af0d26f0110d8261c413283650c) - 2025-03-24

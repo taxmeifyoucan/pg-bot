@@ -20,3 +20,7 @@ Team: Nethermind
 * [Commit] [Change loglevel on invalid websocket state (#8360)](https://github.com/NethermindEth/nethermind/commit/c576793cdf8f60562ed6314f0bcf6fb67127dbf3) - 2025-03-23
 * [Commit] [force analysis of contract on call site](https://github.com/NethermindEth/nethermind/commit/26b45e86c6861e8d9dceca9aa247851e3225b560) - 2025-03-23
 * [Commit] [remove metadata storage after contract analysis](https://github.com/NethermindEth/nethermind/commit/dad2249832c42913bfce3c8202c03c1c9d5e8fd5) - 2025-03-23
+* [Commit] [Refactor #8254, fix missing using (#8397)](https://github.com/NethermindEth/nethermind/commit/4399b840c0e5ff14f449a8527f48484e237633bd) - 2025-03-24
+* [Commit] [Change loglevel on invalid websocket state (#8360)](https://github.com/NethermindEth/nethermind/commit/c576793cdf8f60562ed6314f0bcf6fb67127dbf3) - 2025-03-24
+* [Commit] [prepare for node running](https://github.com/NethermindEth/nethermind/commit/adb54aacc4c45b0eeb9c0086fcaa2cc4bcb0dd29) - 2025-03-24
+* [Commit] [fixes to PUSH opcodes and to subsegment stack handling](https://github.com/NethermindEth/nethermind/commit/fd41013c085c4c4a1dc200f5a21102e812645f77) - 2025-03-24

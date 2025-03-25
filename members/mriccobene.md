@@ -16,3 +16,5 @@ Team: Erigon
 * [Commit] [remove unwanted files](https://github.com/erigontech/erigon/commit/f1c1a2bb4ba1c12e909c2fedf3c0c97270494260) - 2025-03-20
 * [Commit] [[cmd/integration] fix: correct error handling in LogStats callback (#14121)](https://github.com/erigontech/erigon/commit/714b0fa069b0bbe9d15f92e0e72430ffaa305a44) - 2025-03-20
 * [Pull Request] [qa-tests: handle different types of runners](https://github.com/erigontech/erigon/pull/14236) - 2025-03-20
+* [Pull Request] [qa-tests: fix clean exit workflows](https://github.com/erigontech/erigon/pull/14280) - 2025-03-24
+* [Pull Request] [qa-tests: add a warning in the perf-tests if a change point is present](https://github.com/erigontech/erigon/pull/14279) - 2025-03-24

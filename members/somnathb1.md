@@ -23,3 +23,7 @@ Team: Erigon
 * [Commit] [jsonrpc: add Authorizations to callArgs for `eth_estimateGas` (#14152) (#14225)](https://github.com/erigontech/erigon/commit/f3b10c72b7a049890984f2409ede58b334358bb8) - 2025-03-21
 * [Commit] [fmt](https://github.com/erigontech/erigon/commit/3565d8829e78a65c1e253cef1a30c8bd984238d4) - 2025-03-21
 * [Commit] [Fix intrinsic case](https://github.com/erigontech/erigon/commit/b6101e15f4d8d12909c3124fbd553adff76a4d6e) - 2025-03-21
+* [Commit] [jsonrpc: Fix intrinsic case in `estimateGas` (#14275)](https://github.com/erigontech/erigon/commit/63904879079bc2d337dd82d49a2f0eda29a526e1) - 2025-03-24
+* [Issue] [Implement `eth_config` RPC](https://github.com/erigontech/erigon/issues/14276) - 2025-03-24
+* [Pull Request] [jsonrpc: Fix intrinsic case in `estimateGas`](https://github.com/erigontech/erigon/pull/14275) - 2025-03-24
+* [Commit] [jsonrpc: Fix intrinsic case in `estimateGas`](https://github.com/erigontech/erigon/commit/d96fa8ab7939b64309f2865ef3e92ddd12f048b7) - 2025-03-24

@@ -20,3 +20,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 6ab2c3b8ab to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/060ddd438edeb5c863fa23cac9564a51e38eebe3) - 2025-03-20
 * [Commit] [fix(consume): fix `genindex` for EOF files (#1332)](https://github.com/ethereum/execution-spec-tests/commit/6ab2c3b8ab28f550ab055b436bd5281d1d75c877) - 2025-03-20
 * [Pull Request] [chore(tooling): add pylance to recommended vs code extensions](https://github.com/ethereum/execution-spec-tests/pull/1338) - 2025-03-21
+* [Commit] [Deployed af77f5293d to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/335fc8ceb13e2455db9a6cd0d564738bdae535d7) - 2025-03-24
+* [Commit] [Deployed 86f02a8087 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/74ddb9fc2aca03108eddd4f0b8eb73d633776ccf) - 2025-03-24
+* [Pull Request] [fix(make): include jinja2 templates in eest package](https://github.com/ethereum/execution-spec-tests/pull/1342) - 2025-03-24
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/839d804a3c5f604fe4d226fab30d8e574d9051f7) - 2025-03-24
+* [Commit] [Deployed 25bb0236ba to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d752e9bacdf76d890e1be1efc9139ff29f096065) - 2025-03-24

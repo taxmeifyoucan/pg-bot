@@ -29,3 +29,6 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [erigontech/eest-fixtures#8 has been merged](https://github.com/erigontech/erigon/commit/51c954fe0fb2180830feecadb47687e10818772a) - 2025-03-21
 * [Pull Request] [execution-spec-tests: mv to blockchain tests](https://github.com/erigontech/erigon/pull/14256) - 2025-03-21
 * [Commit] [execution-spec-tests: mv to blockchain tests](https://github.com/erigontech/erigon/commit/338fae07aaaac719f4a3cb8db5e2d3c69450a927) - 2025-03-21
+* [Issue] [Drop pre-merge blocks in non-archive nodes](https://github.com/erigontech/erigon/issues/14278) - 2025-03-24
+* [Commit] [tests/bor: attempt to fix flakey TestMiningBenchmark integration test (#14254)](https://github.com/erigontech/erigon/commit/da151baf6097cd09ccd37596fed8b5273c67fa38) - 2025-03-24
+* [Commit] [execution-spec-tests: mv to blockchain tests (#14256)](https://github.com/erigontech/erigon/commit/d7b1831b6ec651664d65db8e22e3b6f2c50f716c) - 2025-03-24

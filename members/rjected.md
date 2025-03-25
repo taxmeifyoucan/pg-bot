@@ -21,3 +21,9 @@ Team: Reth
 * [Pull Request] [chore: turn multiproof from state into pure fn](https://github.com/paradigmxyz/reth/pull/15139) - 2025-03-19
 * [Commit] [chore: add spawn_storage_proof for input creation and spawning](https://github.com/paradigmxyz/reth/commit/eab2d29c04a28278aa60d60a6d37b009b325753a) - 2025-03-21
 * [Commit] [chore: add spawn_storage_proof for input creation and spawning](https://github.com/paradigmxyz/reth/commit/5b3b822e4c2cf2d927027b1120e563793b337fbb) - 2025-03-21
+* [Commit] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/commit/22f7e71aefdd4b5376d86b9f40ecc5e9def8f272) - 2025-03-24
+* [Commit] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/commit/e796ce727785ba44564d7e49b79e0cb15828ccbf) - 2025-03-24
+* [Commit] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/commit/bcd6acb0d5066e10ba215805e7652aca8d4f9418) - 2025-03-24
+* [Pull Request] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/pull/15246) - 2025-03-24
+* [Commit] [feat: don't fetch redundant account proofs](https://github.com/paradigmxyz/reth/commit/9de60b4d971a2c2836e960fe9e78d3af9fe425bd) - 2025-03-24
+* [Commit] [refactor(trie): initialize sparse trie with the provider (#15199)](https://github.com/paradigmxyz/reth/commit/20a6a851482b3a65e42208fbc5f41c5a8671019e) - 2025-03-24

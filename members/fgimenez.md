@@ -21,3 +21,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fix versions](https://github.com/paradigmxyz/reth/commit/854a0b4da51e7699c029ce0f6b18d901bb99579c) - 2025-03-22
 * [Commit] [withdrawals](https://github.com/paradigmxyz/reth/commit/f45f286b021d29c60d20d196a6a8486b44efd32c) - 2025-03-22
 * [Commit] [Added custom headers to NodePrimitives (#13995)](https://github.com/paradigmxyz/reth/commit/9cb7177dfc692111888068f52b9b89db0fce2177) - 2025-03-22
+* [Commit] [renamed generics to match new bounds](https://github.com/paradigmxyz/reth/commit/4e9df91c52e67bd74c6346db8ea43a8b8a8fd11e) - 2025-03-24
+* [Commit] [doc](https://github.com/paradigmxyz/reth/commit/bcdc115588dc5b6645503a2ba6ff66e943aa9a2a) - 2025-03-24
+* [Pull Request] [chore: relax type bounds from EngineTypes to PayloadTypes](https://github.com/paradigmxyz/reth/pull/15239) - 2025-03-24
+* [Commit] [chore: relax type bounds from EngineTypes to PayloadTypes](https://github.com/paradigmxyz/reth/commit/7c476a05bd53cd2420a5e91a2582f35e01ab1980) - 2025-03-24

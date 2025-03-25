@@ -34,5 +34,9 @@ Team: Reth
 * [Commit] [chore: change default for await_payload_on_missing (#15178)](https://github.com/paradigmxyz/reth/commit/0eb893e0ed1c30fb0abcc2896813e26d800a4f52) - 2025-03-22
 * [Commit] [criterion compat](https://github.com/paradigmxyz/reth/commit/39f0793313f78323fa467f83baf10df6d12c7d53) - 2025-03-23
 * [Commit] [crunchy](https://github.com/paradigmxyz/reth/commit/b4f8e85f25ec9e068bc7d5ff961a89ab853c29f2) - 2025-03-23
+* [Issue] [Add input_mut helper function to TxEnvelope and OpTxEnvelope](https://github.com/paradigmxyz/reth/issues/15245) - 2025-03-24
+* [Issue] [Add engine_signalSuperchainV1 endpoint for op engineAPI](https://github.com/paradigmxyz/reth/issues/15243) - 2025-03-24
+* [Issue] [Store Interop Tx validity in the OpPooledTransaction](https://github.com/paradigmxyz/reth/issues/15238) - 2025-03-24
+* [Pull Request] [feat: add other constructor for err](https://github.com/paradigmxyz/reth/pull/15236) - 2025-03-24
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore: use revert error code for execution reverted](https://github.com/ethereum/go-ethereum/pull/31444) - 2025-03-20

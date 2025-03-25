@@ -18,3 +18,5 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: track gossip attestation ignore/reject by reasons (#7590)](https://github.com/ChainSafe/lodestar/commit/e3f5dc01d05be63fa80d36f267e785e0ca4f9d24) - 2025-03-20
 * [Commit] [Add new words to dictionary](https://github.com/ChainSafe/lodestar/commit/f81d70336446ed5ea734eff722849046176d5b09) - 2025-03-20
 * [Commit] [Fix types tests](https://github.com/ChainSafe/lodestar/commit/fab18ed12cad01e566edde61427bf0d0f0e93036) - 2025-03-21
+* [Commit] [Apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/df2afef4eb657058b6f55a4a04b586f3e95e4a6e) - 2025-03-24
+* [Commit] [chore: bump package versions to 1.26.0](https://github.com/ChainSafe/lodestar/commit/6fb5b9a81b7ec676845501476ee55fc45e8e2b96) - 2025-03-24
