@@ -27,3 +27,12 @@ Team: Reth
 * [Pull Request] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/pull/15246) - 2025-03-24
 * [Commit] [feat: don't fetch redundant account proofs](https://github.com/paradigmxyz/reth/commit/9de60b4d971a2c2836e960fe9e78d3af9fe425bd) - 2025-03-24
 * [Commit] [refactor(trie): initialize sparse trie with the provider (#15199)](https://github.com/paradigmxyz/reth/commit/20a6a851482b3a65e42208fbc5f41c5a8671019e) - 2025-03-24
+* [Pull Request] [fix(grafana): fix trie input calculation duration panel](https://github.com/paradigmxyz/reth/pull/15277) - 2025-03-25
+* [Commit] [feat: add ability to handle dedicated storage proof result](https://github.com/paradigmxyz/reth/commit/14e4b78310ecb1883d05e2cc2ef6b840dcbfe997) - 2025-03-25
+* [Commit] [test(trie): fix cursor mocks (#15242)](https://github.com/paradigmxyz/reth/commit/5a7cd15e946aed47b0929c5b52080765d023e5ff) - 2025-03-25
+* [Commit] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/commit/2d20e5f19341b81f02996f71db6ddae488231528) - 2025-03-25
+* [Commit] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/commit/ef7bd335e0f2294f8692428d77f78f0343cb7067) - 2025-03-25
+* [Commit] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/commit/9a4e1b51fcf72a225a1d6dde1fd3490b10a94427) - 2025-03-25
+* [Commit] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/commit/dc3ef81beb378b4fa7c9cdb844c5fc5ed68e7d8d) - 2025-03-25
+* [Commit] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/commit/596ec82868b91427ea4f0a6a7393ca27047713e9) - 2025-03-25
+* [Pull Request] [feat: add ability to handle dedicated storage proof result](https://github.com/paradigmxyz/reth/pull/15252) - 2025-03-25

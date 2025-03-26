@@ -60,3 +60,13 @@ Team: Reth
 * [Commit] [revert some change](https://github.com/paradigmxyz/reth/commit/a37fe6a466973518292d8479e1d450d68d27f427) - 2025-03-24
 * [Commit] [revert some change](https://github.com/paradigmxyz/reth/commit/49cdce8a3670294990b9c29a549c1e5a5c369f57) - 2025-03-24
 * [Commit] [revert some change](https://github.com/paradigmxyz/reth/commit/fd6938885bfc2ed2a3d36245968fa352098b9765) - 2025-03-24
+* [Issue] [Experiment with cached hashed cursor for the trie node iterator](https://github.com/paradigmxyz/reth/issues/15278) - 2025-03-25
+* [Commit] [Revert "back to dashmap"](https://github.com/paradigmxyz/reth/commit/cd61097901823d09ab953b8b7a0839decf4e08ca) - 2025-03-25
+* [Commit] [back to dashmap](https://github.com/paradigmxyz/reth/commit/b599abb11a2e481bf6b2a0c4594f97598dc13890) - 2025-03-25
+* [Commit] [revert cache duration log](https://github.com/paradigmxyz/reth/commit/63bb28959f661b2743946770686d7a7b8caf1d9e) - 2025-03-25
+* [Commit] [move cache update](https://github.com/paradigmxyz/reth/commit/b8b4f1703a8576e99455570bde9cc58cff74d696) - 2025-03-25
+* [Commit] [revertme: log cache update time](https://github.com/paradigmxyz/reth/commit/6c26123e2218e5a80919b5a25adf6f4fa88ef3c9) - 2025-03-25
+* [Commit] [change cache sizes to 100k](https://github.com/paradigmxyz/reth/commit/d7fa0133dffb7062073cad260b0ca17743c3a6c4) - 2025-03-25
+* [Commit] [echo saving images](https://github.com/paradigmxyz/reth/commit/4e6d24036d73128ea11d86d6c0026be491c41622) - 2025-03-25
+* [Commit] [some more refactoring and a todo](https://github.com/paradigmxyz/reth/commit/8cab95c6ee389a590aaba470a7c2e71070a7d749) - 2025-03-25
+* [Commit] [do not block on hashed post state](https://github.com/paradigmxyz/reth/commit/fe0e9ce146a51d66e558af0b0f9f9a8619c1830b) - 2025-03-25

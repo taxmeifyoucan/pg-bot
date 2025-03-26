@@ -27,3 +27,6 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Add Heimdall transient errors](https://github.com/erigontech/erigon/pull/14272) - 2025-03-24
 * [Commit] [review](https://github.com/erigontech/erigon/commit/06bda09a879275361aec4d7071f9cbded9b8d0e9) - 2025-03-24
 * [Commit] [More err](https://github.com/erigontech/erigon/commit/81eebbb798da0edc4ed565e569c4b524bbba6dbb) - 2025-03-24
+* [Commit] [Fix failing test](https://github.com/erigontech/erigon/commit/bc08ad6bb1843955bdf630f502f3323f83479f43) - 2025-03-25
+* [Commit] [Lint](https://github.com/erigontech/erigon/commit/5d7b7017de98bd54eae9dafe5755df29694a87c9) - 2025-03-25
+* [Pull Request] [Port geth tracing hooks](https://github.com/erigontech/erigon/pull/14289) - 2025-03-25

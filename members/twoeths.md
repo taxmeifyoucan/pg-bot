@@ -21,3 +21,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: guard fulu specific logic](https://github.com/ChainSafe/lodestar/commit/6ad421d12afd0bf378d7a0feaaa49ea46b95862b) - 2025-03-24
 * [Pull Request] [fix: improve epoch transition using ssz v1.2.0](https://github.com/ChainSafe/lodestar/pull/7617) - 2025-03-24
 * [Commit] [chore: track gossip attestation ignore/reject by reasons (#7590)](https://github.com/ChainSafe/lodestar/commit/e3f5dc01d05be63fa80d36f267e785e0ca4f9d24) - 2025-03-24
+* [Commit] [fix: set hasher for getDevBeaconNode()](https://github.com/ChainSafe/lodestar/commit/a8706c3ce72539070e42cdfece4af7d543a688c4) - 2025-03-25
+* [Commit] [fix: check hasher in beacon-node](https://github.com/ChainSafe/lodestar/commit/8c238cd7b53e10dd50b02682fc66b2692fbd5c0b) - 2025-03-25
+* [Pull Request] [fix: use persistent-merkle-tree v1.1.0](https://github.com/ChainSafe/lodestar/pull/7621) - 2025-03-25
+* [Pull Request] [feat: batch hash BeaconState](https://github.com/ChainSafe/lodestar/pull/7620) - 2025-03-25
+* [Commit] [fix: remove incorrect comment](https://github.com/ChainSafe/lodestar/commit/be256e1bffe4109f5d17fa811359f8cc38fcc38f) - 2025-03-25
+* [Commit] [fix: merge from unstable](https://github.com/ChainSafe/lodestar/commit/7c8f854c3991bcb572cc740c2ff38544f6125775) - 2025-03-25
+* [Commit] [fix: improve epoch transition using ssz v1.2.0 (#7617)](https://github.com/ChainSafe/lodestar/commit/0329edb2c30bb00a844d33b0645f9be71632efcd) - 2025-03-25

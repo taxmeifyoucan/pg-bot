@@ -73,3 +73,5 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Revert "Net storage writes"](https://github.com/NethermindEth/nethermind/commit/781c4ec4b4c9b3351ee33850d44c63dc04d4ca4e) - 2025-03-24
 * [Commit] [Tidy up params](https://github.com/NethermindEth/nethermind/commit/5af85c333b186dbee7a489278efcf595f938de5e) - 2025-03-24
 * [Commit] [Tidy up params](https://github.com/NethermindEth/nethermind/commit/09d063b59f309af0d26f0110d8261c413283650c) - 2025-03-24
+* [Commit] [Debug RPC for 7702, potential fix (#8349)](https://github.com/NethermindEth/nethermind/commit/434d1bb481c300e58c84400a50f9d9247f5ffdbe) - 2025-03-25
+* [Commit] [Add comment](https://github.com/NethermindEth/nethermind/commit/7bfdd8279ed2272195d9bf0303510be2283f0f48) - 2025-03-25

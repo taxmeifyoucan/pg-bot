@@ -16,3 +16,4 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [Block Import: move worldstate head only if import successful](https://github.com/hyperledger/besu/pull/8447) - 2025-03-21
 * [Commit] [Decode deposit log data without web3j (#8394)](https://github.com/hyperledger/besu/commit/7df9fc928aa1347ea239d678828fd7201a27772d) - 2025-03-24
 * [Issue] [RLP Block importer does not validate block headers against engine API rules](https://github.com/hyperledger/besu/issues/8452) - 2025-03-24
+* [Issue] [eth_estimateGas rpc-compat hive test](https://github.com/hyperledger/besu/issues/8459) - 2025-03-25

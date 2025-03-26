@@ -24,3 +24,4 @@ Team: Nethermind
 * [Commit] [Change loglevel on invalid websocket state (#8360)](https://github.com/NethermindEth/nethermind/commit/c576793cdf8f60562ed6314f0bcf6fb67127dbf3) - 2025-03-24
 * [Commit] [prepare for node running](https://github.com/NethermindEth/nethermind/commit/adb54aacc4c45b0eeb9c0086fcaa2cc4bcb0dd29) - 2025-03-24
 * [Commit] [fixes to PUSH opcodes and to subsegment stack handling](https://github.com/NethermindEth/nethermind/commit/fd41013c085c4c4a1dc200f5a21102e812645f77) - 2025-03-24
+* [Commit] [move static code to static classes](https://github.com/NethermindEth/nethermind/commit/5785b323cc474916169f24ae323d374f07b77c93) - 2025-03-25

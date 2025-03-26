@@ -25,3 +25,4 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Optimise status processing (#7082)](https://github.com/sigp/lighthouse/commit/7d598ed8a51da90b37bf0330d28718f97e3390e8) - 2025-03-23
 * [Issue] [Remove references to `slog`](https://github.com/sigp/lighthouse/issues/7196) - 2025-03-23
 * [Commit] [Optimise status processing (#7082)](https://github.com/sigp/lighthouse/commit/7d598ed8a51da90b37bf0330d28718f97e3390e8) - 2025-03-24
+* [Issue] [Allow appending/prepending graffiti to client version info](https://github.com/sigp/lighthouse/issues/7201) - 2025-03-25

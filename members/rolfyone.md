@@ -18,3 +18,5 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Increased attestation queue limits](https://github.com/Consensys/teku/pull/9258) - 2025-03-20
 * [Commit] [renamed inconsistent variable (#9266)](https://github.com/Consensys/teku/commit/155a7b5819fd8e158237d2fd7208e6dccb0751bb) - 2025-03-23
 * [Pull Request] [renamed inconsistent variable](https://github.com/Consensys/teku/pull/9266) - 2025-03-23
+* [Issue] [teku-validator retrying duty loader logging](https://github.com/Consensys/teku/issues/9273) - 2025-03-25
+* [Issue] [doppelganger test](https://github.com/Consensys/teku/issues/9270) - 2025-03-25

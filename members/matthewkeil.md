@@ -14,3 +14,4 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: errors introduced by previous PR](https://github.com/ChainSafe/lodestar/pull/7606) - 2025-03-19
 * [Commit] [refactor: rename Archiver to ArchiveStore (#7591)](https://github.com/ChainSafe/lodestar/commit/984f565eb8abd8563d7a3f20af87c797e58c0a2e) - 2025-03-21
 * [Commit] [wip: finish roughing out downloadBatch. save other draft work to delete later](https://github.com/ChainSafe/lodestar/commit/3b911b977cca55348a3b69ff3798eb93a4692920) - 2025-03-23
+* [Commit] [fix: improve sync committee updates (#7456)](https://github.com/ChainSafe/lodestar/commit/85b13c1bcbb7590de8d6d6152421dbc15718dcb5) - 2025-03-25

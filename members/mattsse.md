@@ -38,5 +38,8 @@ Team: Reth
 * [Issue] [Add engine_signalSuperchainV1 endpoint for op engineAPI](https://github.com/paradigmxyz/reth/issues/15243) - 2025-03-24
 * [Issue] [Store Interop Tx validity in the OpPooledTransaction](https://github.com/paradigmxyz/reth/issues/15238) - 2025-03-24
 * [Pull Request] [feat: add other constructor for err](https://github.com/paradigmxyz/reth/pull/15236) - 2025-03-24
+* [Pull Request] [ci: bump ubuntu for windows](https://github.com/paradigmxyz/reth/pull/15280) - 2025-03-25
+* [Commit] [chore: include err in error return (#15279)](https://github.com/paradigmxyz/reth/commit/fb5a6e755ddc8b9cc1c54ffc6deef775a2bf809a) - 2025-03-25
+* [Pull Request] [chore: include err in error return](https://github.com/paradigmxyz/reth/pull/15279) - 2025-03-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore: use revert error code for execution reverted](https://github.com/ethereum/go-ethereum/pull/31444) - 2025-03-20

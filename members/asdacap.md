@@ -17,3 +17,6 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Disable static web assets (#8395)](https://github.com/NethermindEth/nethermind/commit/ca0ae96a68c6f527febde43e452d3c0c05c4da15) - 2025-03-24
 * [Commit] [fix Trace leak (#8353)](https://github.com/NethermindEth/nethermind/commit/753d01f5b36d6f34d2703436bd565d625cc4f1e0) - 2025-03-24
 * [Commit] [Remove redundant `authorizationTuple.Nonce == ulong.MaxValue` check (#8340)](https://github.com/NethermindEth/nethermind/commit/38d323b5002a2f17281e689f62ad7ae72dd549be) - 2025-03-24
+* [Commit] [Fix hive test. (#8414)](https://github.com/NethermindEth/nethermind/commit/cfe2326abfd55414eb0408b6b54a491ba57d019d) - 2025-03-25
+* [Commit] [Only write to tree net changes at end of block (#7406)](https://github.com/NethermindEth/nethermind/commit/59505d8b023f91dc90b54e53220e6c845d615461) - 2025-03-25
+* [Pull Request] [Fix hive test.](https://github.com/NethermindEth/nethermind/pull/8414) - 2025-03-25

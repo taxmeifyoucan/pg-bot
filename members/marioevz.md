@@ -22,3 +22,4 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(make): include jinja2 templates in eest package (#1342)](https://github.com/ethereum/execution-spec-tests/commit/86f02a8087bbc441b9ddf3211a280b221b3447fd) - 2025-03-24
 * [Commit] [Update src/ethereum_test_specs/base_static.py](https://github.com/ethereum/execution-spec-tests/commit/8e28d30a4407dec5f26970ef19b1de0c39132295) - 2025-03-24
 * [Commit] [Add more encoding tests](https://github.com/ethereum/execution-spec-tests/commit/2468227ed5f0f4fe18ef3bd371eb6dc3818b10e7) - 2025-03-24
+* [Pull Request] [new(tests): EIP-7702 more RLP tests](https://github.com/ethereum/execution-spec-tests/pull/1347) - 2025-03-25

@@ -30,3 +30,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tidy](https://github.com/erigontech/erigon/commit/bdde1032908984b7f62132e8fcda99f88f11e3e3) - 2025-03-24
 * [Commit] [add decryption keys rejections and ignores](https://github.com/erigontech/erigon/commit/961e447dab338b8fa52228b62b3a6769cd83e776) - 2025-03-24
 * [Commit] [build(deps): bump github.com/golang-jwt/jwt/v4 from 4.5.1 to 4.5.2 (#14259)](https://github.com/erigontech/erigon/commit/9b9040431632fb2e67b76cc55e7b5330b0368d06) - 2025-03-24
+* [Commit] [remove post merge lefotver](https://github.com/erigontech/erigon/commit/4f4a690096fb4cf2cfaf2dbce7e392bf3cc98b27) - 2025-03-25
+* [Commit] [remove post merge lefotver](https://github.com/erigontech/erigon/commit/07ac74c4a463a6d4f13302ad319b791f57a64853) - 2025-03-25
+* [Commit] [remove post merge lefotver](https://github.com/erigontech/erigon/commit/266ff100d26ca9389d99f3ee089e7b1eea66ecc4) - 2025-03-25
+* [Commit] [remove post merge lefotver](https://github.com/erigontech/erigon/commit/746627d787e4c39233d0e25396b66c89bda702d6) - 2025-03-25
+* [Commit] [shutter: test cmds to send shutter txns and check validator registrations (#14187)](https://github.com/erigontech/erigon/commit/a8f1cad7e439aa28e9cd0bc719f44e350bea095f) - 2025-03-25
