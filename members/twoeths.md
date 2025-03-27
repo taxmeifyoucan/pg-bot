@@ -28,3 +28,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: remove incorrect comment](https://github.com/ChainSafe/lodestar/commit/be256e1bffe4109f5d17fa811359f8cc38fcc38f) - 2025-03-25
 * [Commit] [fix: merge from unstable](https://github.com/ChainSafe/lodestar/commit/7c8f854c3991bcb572cc740c2ff38544f6125775) - 2025-03-25
 * [Commit] [fix: improve epoch transition using ssz v1.2.0 (#7617)](https://github.com/ChainSafe/lodestar/commit/0329edb2c30bb00a844d33b0645f9be71632efcd) - 2025-03-25
+* [Commit] [chore: batchHashTreeRoot() before hashTreeRoot()](https://github.com/ChainSafe/lodestar/commit/5c07147c76b16e425564c92a5bf93344bebd5d49) - 2025-03-26
+* [Commit] [chore: different modified validators for beaconState.test.ts](https://github.com/ChainSafe/lodestar/commit/e9a7d6bc14a2791edc4f77391a6e0709273e7dcf) - 2025-03-26
+* [Commit] [chore: add beaconState.test.ts hashTreeRoot() perf test](https://github.com/ChainSafe/lodestar/commit/582b587cdeef651d7c420f099cc1892b836c7592) - 2025-03-26
+* [Commit] [fix: compare hashTreeRoot() vs batch() in hashing.test.ts](https://github.com/ChainSafe/lodestar/commit/f46bcbf385f0bedf8c59c7a0f4455f15156fed35) - 2025-03-26
+* [Commit] [fix: set hashtree for perf tests](https://github.com/ChainSafe/lodestar/commit/257b1c6cd8c02e0ecdf66d33e66d102d9fedacbf) - 2025-03-26
+* [Commit] [chore: add comment improve value_toTree TODO](https://github.com/ChainSafe/lodestar/commit/e2c8c9ebfc63a68996a9952beef7eab102614e67) - 2025-03-26

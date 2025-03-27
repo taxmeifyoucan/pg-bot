@@ -36,3 +36,4 @@ Team: Reth
 * [Commit] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/commit/dc3ef81beb378b4fa7c9cdb844c5fc5ed68e7d8d) - 2025-03-25
 * [Commit] [chore: add new proof target for input](https://github.com/paradigmxyz/reth/commit/596ec82868b91427ea4f0a6a7393ca27047713e9) - 2025-03-25
 * [Pull Request] [feat: add ability to handle dedicated storage proof result](https://github.com/paradigmxyz/reth/pull/15252) - 2025-03-25
+* [Commit] [DONOTMERGE: add trie node iter counting](https://github.com/paradigmxyz/reth/commit/2870d6a3e0a05b1afb37bc1791a6f27e62ef848c) - 2025-03-26

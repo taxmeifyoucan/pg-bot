@@ -20,3 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [Ignore single attestations in performance tracker (#9232)](https://github.com/Consensys/teku/commit/e2517a3aedc17a05b6e5848c383b43144259b2b8) - 2025-03-21
 * [Commit] [fix engine get ILs call (#9264)](https://github.com/Consensys/teku/commit/cc12232e2be8b8f18f3342a78061f73f4334bc5c) - 2025-03-21
 * [Pull Request] [fix engine get ILs call](https://github.com/Consensys/teku/pull/9264) - 2025-03-21
+* [Commit] [use String for transactions (#9284)](https://github.com/Consensys/teku/commit/fb264eefb74d7da62772a4737d565b6c9ddaedb4) - 2025-03-26
+* [Pull Request] [use String for transactions](https://github.com/Consensys/teku/pull/9284) - 2025-03-26
+* [Commit] [fix engine get inclusion list (#9283)](https://github.com/Consensys/teku/commit/7af8c0aa07cd3dc8311d5261637498fde9369eb3) - 2025-03-26
+* [Pull Request] [fix engine get inclusion list](https://github.com/Consensys/teku/pull/9283) - 2025-03-26

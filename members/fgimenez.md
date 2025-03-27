@@ -25,3 +25,4 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [doc](https://github.com/paradigmxyz/reth/commit/bcdc115588dc5b6645503a2ba6ff66e943aa9a2a) - 2025-03-24
 * [Pull Request] [chore: relax type bounds from EngineTypes to PayloadTypes](https://github.com/paradigmxyz/reth/pull/15239) - 2025-03-24
 * [Commit] [chore: relax type bounds from EngineTypes to PayloadTypes](https://github.com/paradigmxyz/reth/commit/7c476a05bd53cd2420a5e91a2582f35e01ab1980) - 2025-03-24
+* [Pull Request] [feat: add custom transaction type to custom-node example](https://github.com/paradigmxyz/reth/pull/15296) - 2025-03-26

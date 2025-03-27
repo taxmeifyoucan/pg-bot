@@ -20,3 +20,6 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix hive test. (#8414)](https://github.com/NethermindEth/nethermind/commit/cfe2326abfd55414eb0408b6b54a491ba57d019d) - 2025-03-25
 * [Commit] [Only write to tree net changes at end of block (#7406)](https://github.com/NethermindEth/nethermind/commit/59505d8b023f91dc90b54e53220e6c845d615461) - 2025-03-25
 * [Pull Request] [Fix hive test.](https://github.com/NethermindEth/nethermind/pull/8414) - 2025-03-25
+* [Commit] [Fix wrong key encoding in multi load level (#8416)](https://github.com/NethermindEth/nethermind/commit/7d51c0851ca613ca3614367931ece65a823ad71e) - 2025-03-26
+* [Commit] [Warm up both beacon root slots (#8415)](https://github.com/NethermindEth/nethermind/commit/0998eade83294e854853a0081d78818dffaedd75) - 2025-03-26
+* [Pull Request] [Fix wrong key encoding in multi load level](https://github.com/NethermindEth/nethermind/pull/8416) - 2025-03-26

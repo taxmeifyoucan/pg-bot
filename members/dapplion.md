@@ -18,3 +18,4 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Issue] [Abolish iterators that load states](https://github.com/sigp/lighthouse/issues/7184) - 2025-03-21
 * [Commit] [Better on state write](https://github.com/sigp/lighthouse/commit/75e069ae27436b267c1371e6402b8135ef6e49d0) - 2025-03-21
 * [Commit] [Tweak condition](https://github.com/sigp/lighthouse/commit/6b72c98e0e106f51d09f1591e22a53a29116851c) - 2025-03-25
+* [Commit] [Revert "Heaptrack"](https://github.com/sigp/lighthouse/commit/96ccaed29e4d68def7853f4d2973d18d3185402f) - 2025-03-26

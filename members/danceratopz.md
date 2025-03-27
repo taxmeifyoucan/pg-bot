@@ -25,3 +25,4 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(make): include jinja2 templates in eest package](https://github.com/ethereum/execution-spec-tests/pull/1342) - 2025-03-24
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/839d804a3c5f604fe4d226fab30d8e574d9051f7) - 2025-03-24
 * [Commit] [Deployed 25bb0236ba to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d752e9bacdf76d890e1be1efc9139ff29f096065) - 2025-03-24
+* [Issue] [chore(ci): add test of hive simulator docker build](https://github.com/ethereum/execution-spec-tests/issues/1354) - 2025-03-26

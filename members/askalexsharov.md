@@ -40,3 +40,16 @@ Team: Erigon
 * [Issue] [agg: files merge panic must be catched (don't crush erigon)](https://github.com/erigontech/erigon/issues/14268) - 2025-03-23
 * [Commit] [new mdbx version v13.5 (#14265)](https://github.com/erigontech/erigon/commit/ded4b633d52c491219052447d1f96d0b2ca3c3f7) - 2025-03-23
 * [Commit] [build(deps): bump github.com/golang-jwt/jwt/v4 from 4.5.1 to 4.5.2 in /erigon-lib (#14267)](https://github.com/erigontech/erigon/commit/e655e6f7d61a2e05254f5ec2468c283eb8b3fdd8) - 2025-03-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ea9ef34641c035b9de349c0981e2c5a3657356db) - 2025-03-26
+* [Pull Request] [sd: wrapTx - helper to use only in tests](https://github.com/erigontech/erigon/pull/14308) - 2025-03-26
+* [Commit] [bor span representation using appendables (#14281)](https://github.com/erigontech/erigon/commit/b61d0d649b364c4a7a168bcc018e950cf4b41600) - 2025-03-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b5209bfccabcb7bf47731b2af71144169c08e2c8) - 2025-03-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0c2a0bb129798ef3f58a83d3e3e5405b01f55ed6) - 2025-03-26
+* [Commit] [Remove default case in flusher (#14307)](https://github.com/erigontech/erigon/commit/31551783c6b359efa2d071dbcef8f643328a0de5) - 2025-03-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/79ce2ee3be5c2ffb82f2d37e32242bad44f8a8e6) - 2025-03-26
+* [Pull Request] [don't log ctx.Canceled error ](https://github.com/erigontech/erigon/pull/14306) - 2025-03-26
+* [Pull Request] [agg: dbg interface for lower-level `GetLatest` analogs](https://github.com/erigontech/erigon/pull/14305) - 2025-03-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c9afe426d8ede05f2c26fc758d136ef60d052ffe) - 2025-03-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/47d9e48eae5bb1a766396eff355c2f49aeb05dcb) - 2025-03-26
+* [Pull Request] [agg: merge files must not crush app](https://github.com/erigontech/erigon/pull/14303) - 2025-03-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/68c40c56dad6158d1f39988a6c6de65882d22444) - 2025-03-26

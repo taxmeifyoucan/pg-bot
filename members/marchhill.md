@@ -22,3 +22,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [mergetestblockchain build param](https://github.com/NethermindEth/nethermind/commit/50d84b7884a96721f83fb9c6be37f1af871a084d) - 2025-03-19
 * [Commit] [check config that prune epochs not too low](https://github.com/NethermindEth/nethermind/commit/286ad3c6a2bb92a46a821939d8203d35b518f038) - 2025-03-20
 * [Pull Request] [Reduce getPayload timeout on empty block](https://github.com/NethermindEth/nethermind/pull/8408) - 2025-03-24
+* [Commit] [test valid history config](https://github.com/NethermindEth/nethermind/commit/bbeb118198ad2b207c11003994689b93f17940a8) - 2025-03-26
+* [Commit] [don't check config in test where it is invalid](https://github.com/NethermindEth/nethermind/commit/d2dec8a72b61dae339e1f0312da8f01e0c17b075) - 2025-03-26
+* [Commit] [fix checkconfig test](https://github.com/NethermindEth/nethermind/commit/cf7181cea016a3456f83b601c0797b76c623d1c1) - 2025-03-26
+* [Commit] [fix auramergeenginemoduletests test name](https://github.com/NethermindEth/nethermind/commit/d23b10e04b51c8506324419f3187b16081deaec4) - 2025-03-26
+* [Commit] [Shutter: fix shutdown dispose (#8418)](https://github.com/NethermindEth/nethermind/commit/ca8afe50fb838315fef9c88659d86ac0555075e3) - 2025-03-26
+* [Pull Request] [Shutter: fix shutdown dispose](https://github.com/NethermindEth/nethermind/pull/8418) - 2025-03-26
+* [Commit] [log error instead of throwing on bad config](https://github.com/NethermindEth/nethermind/commit/ca97ceabcf0d74ec4413e9dc9c723b740313af3e) - 2025-03-26
+* [Commit] [restore deleted using](https://github.com/NethermindEth/nethermind/commit/b9fa923517a846916c1146acb45760f10416e7ae) - 2025-03-26
+* [Commit] [Disable static web assets (#8395)](https://github.com/NethermindEth/nethermind/commit/ca0ae96a68c6f527febde43e452d3c0c05c4da15) - 2025-03-26

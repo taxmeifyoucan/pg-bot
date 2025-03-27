@@ -27,3 +27,4 @@ Team: Erigon
 * [Issue] [Implement `eth_config` RPC](https://github.com/erigontech/erigon/issues/14276) - 2025-03-24
 * [Pull Request] [jsonrpc: Fix intrinsic case in `estimateGas`](https://github.com/erigontech/erigon/pull/14275) - 2025-03-24
 * [Commit] [jsonrpc: Fix intrinsic case in `estimateGas`](https://github.com/erigontech/erigon/commit/d96fa8ab7939b64309f2865ef3e92ddd12f048b7) - 2025-03-24
+* [Commit] [Add consume-rlp](https://github.com/erigontech/erigon/commit/75cb755c2db264d1526cc490df831fddbcd2e2e2) - 2025-03-26

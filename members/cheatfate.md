@@ -13,3 +13,4 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [Update AllTests.](https://github.com/status-im/nimbus-eth2/commit/6bf1aef9a9bb21e53eeba4631b62a586e08de11d) - 2025-03-19
 * [Commit] [security: fixed sidecar response checking allowing subsets (#6985)](https://github.com/status-im/nimbus-eth2/commit/1efa99bf72fec7c7d2fecab764f30eaf9c24b72a) - 2025-03-19
+* [Commit] [Make iterators safe in async environment.](https://github.com/status-im/nimbus-eth2/commit/7d16d1fc1f882fff6fb43815947cf7bb83e0029a) - 2025-03-26

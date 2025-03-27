@@ -41,5 +41,12 @@ Team: Reth
 * [Pull Request] [ci: bump ubuntu for windows](https://github.com/paradigmxyz/reth/pull/15280) - 2025-03-25
 * [Commit] [chore: include err in error return (#15279)](https://github.com/paradigmxyz/reth/commit/fb5a6e755ddc8b9cc1c54ffc6deef775a2bf809a) - 2025-03-25
 * [Pull Request] [chore: include err in error return](https://github.com/paradigmxyz/reth/pull/15279) - 2025-03-25
+* [Issue] [replace reth-provider with reth-storage-api imports in optimism-rpc crate](https://github.com/paradigmxyz/reth/issues/15306) - 2025-03-26
+* [Issue] [Tracking reth-provider dep audit](https://github.com/paradigmxyz/reth/issues/15305) - 2025-03-26
+* [Issue] [Cut down on `reth_ethereum_primitives::Transaction` usage](https://github.com/paradigmxyz/reth/issues/15304) - 2025-03-26
+* [Issue] [remove fn signature from signedtransaction](https://github.com/paradigmxyz/reth/issues/15297) - 2025-03-26
+* [Issue] [monitor pending interop txs](https://github.com/paradigmxyz/reth/issues/15295) - 2025-03-26
+* [Issue] [Add blobsV1 hitrate to grafana dashboard](https://github.com/paradigmxyz/reth/issues/15294) - 2025-03-26
+* [Issue] [Provide empty envelope for eth_simulate for opstack](https://github.com/paradigmxyz/reth/issues/15292) - 2025-03-26
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore: use revert error code for execution reverted](https://github.com/ethereum/go-ethereum/pull/31444) - 2025-03-20

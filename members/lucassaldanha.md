@@ -16,3 +16,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Updated discovery to 25.3.0](https://github.com/Consensys/teku/pull/9259) - 2025-03-20
 * [Pull Request] [Added Teku Hoodi bootnodes](https://github.com/Consensys/teku/pull/9267) - 2025-03-24
 * [Commit] [Added Teku Hoodi bootnodes (#9267)](https://github.com/Consensys/teku/commit/9b5c5592c590da08a012e59b3f43f0d4dd0362b8) - 2025-03-24
+* [Commit] [make LibP2PNetwork and LibP2PGossipNetwork constructors public (#9252)](https://github.com/Consensys/teku/commit/616bf0d01e0e9683604a24df980d550b1d18f46c) - 2025-03-26
+* [Pull Request] [Bootnode only mode](https://github.com/Consensys/teku/pull/9280) - 2025-03-26
+* [Commit] [Small fix on StartupLog (#9276)](https://github.com/Consensys/teku/commit/4462bec4b8a9be19ea75024395a10ddd3c583d6e) - 2025-03-26
+* [Commit] [Added Node Mode enum (#9278)](https://github.com/Consensys/teku/commit/e6fb7ede2f822fa0ecfff80c2e52133e1a45ae44) - 2025-03-26
+* [Pull Request] [Added Node Mode enum](https://github.com/Consensys/teku/pull/9278) - 2025-03-26
+* [Issue] [Bootnode Mode](https://github.com/Consensys/teku/issues/9277) - 2025-03-26

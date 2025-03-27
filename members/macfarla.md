@@ -17,3 +17,5 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Decode deposit log data without web3j (#8394)](https://github.com/hyperledger/besu/commit/7df9fc928aa1347ea239d678828fd7201a27772d) - 2025-03-24
 * [Issue] [RLP Block importer does not validate block headers against engine API rules](https://github.com/hyperledger/besu/issues/8452) - 2025-03-24
 * [Issue] [eth_estimateGas rpc-compat hive test](https://github.com/hyperledger/besu/issues/8459) - 2025-03-25
+* [Issue] [eth_createAccessList rpc-compat hive tests](https://github.com/hyperledger/besu/issues/8464) - 2025-03-26
+* [Pull Request] [minor changes to RPC result formatting](https://github.com/hyperledger/besu/pull/8463) - 2025-03-26

@@ -35,3 +35,4 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [remove post merge lefotver](https://github.com/erigontech/erigon/commit/266ff100d26ca9389d99f3ee089e7b1eea66ecc4) - 2025-03-25
 * [Commit] [remove post merge lefotver](https://github.com/erigontech/erigon/commit/746627d787e4c39233d0e25396b66c89bda702d6) - 2025-03-25
 * [Commit] [shutter: test cmds to send shutter txns and check validator registrations (#14187)](https://github.com/erigontech/erigon/commit/a8f1cad7e439aa28e9cd0bc719f44e350bea095f) - 2025-03-25
+* [Commit] [Prevent deadlock when shutting down mdbx flusher (#14261)](https://github.com/erigontech/erigon/commit/9e8ecf229f4958ed0ad05adad648a456609cae36) - 2025-03-26

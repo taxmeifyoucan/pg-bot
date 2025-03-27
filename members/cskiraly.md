@@ -13,3 +13,5 @@ Team: Codex DAS
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [NAT UPnP continuously remapping port](https://github.com/ethereum/go-ethereum/issues/31418) - 2025-03-18
 * [Pull Request] [p2p/connmanager: WIP - Add connection manager to drop connections when needed](https://github.com/ethereum/go-ethereum/pull/31476) - 2025-03-24
+* [Commit] [p2p/peer: expose conn flags through getter functions](https://github.com/ethereum/go-ethereum/commit/f9e01c309923303b1fadb7acba0a3b04c7a1885e) - 2025-03-26
+* [Issue] [Fatal error after crlt-c kill: gap in the chain between ancients [...] and leveldb [...]](https://github.com/ethereum/go-ethereum/issues/31499) - 2025-03-26

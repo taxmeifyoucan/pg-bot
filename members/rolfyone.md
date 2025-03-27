@@ -20,3 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [renamed inconsistent variable](https://github.com/Consensys/teku/pull/9266) - 2025-03-23
 * [Issue] [teku-validator retrying duty loader logging](https://github.com/Consensys/teku/issues/9273) - 2025-03-25
 * [Issue] [doppelganger test](https://github.com/Consensys/teku/issues/9270) - 2025-03-25
+* [Issue] [add teku version to the teku validator client metrics](https://github.com/Consensys/teku/issues/9281) - 2025-03-26
+* [Commit] [make graffiti closer to the hackmd (#9279)](https://github.com/Consensys/teku/commit/f0e0e6609a64dc867aa2393d308eac9068cc21e9) - 2025-03-26
+* [Commit] [rate limited remote duty errors (#9275)](https://github.com/Consensys/teku/commit/1fb8a6dbcb7ee4433dc32bf5fccbd00f676700d3) - 2025-03-26
+* [Pull Request] [make graffiti closer to the hackmd](https://github.com/Consensys/teku/pull/9279) - 2025-03-26

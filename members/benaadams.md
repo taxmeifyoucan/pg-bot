@@ -75,3 +75,6 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Tidy up params](https://github.com/NethermindEth/nethermind/commit/09d063b59f309af0d26f0110d8261c413283650c) - 2025-03-24
 * [Commit] [Debug RPC for 7702, potential fix (#8349)](https://github.com/NethermindEth/nethermind/commit/434d1bb481c300e58c84400a50f9d9247f5ffdbe) - 2025-03-25
 * [Commit] [Add comment](https://github.com/NethermindEth/nethermind/commit/7bfdd8279ed2272195d9bf0303510be2283f0f48) - 2025-03-25
+* [Commit] [Align debug_traceBlock/Transaction with geth (#8186)](https://github.com/NethermindEth/nethermind/commit/d66bfc629da8d3ecb66f38030267bdf0a0725170) - 2025-03-26
+* [Commit] [Fix hive test. (#8414)](https://github.com/NethermindEth/nethermind/commit/cfe2326abfd55414eb0408b6b54a491ba57d019d) - 2025-03-26
+* [Pull Request] [Warm up both beacon root slots](https://github.com/NethermindEth/nethermind/pull/8415) - 2025-03-26

@@ -30,3 +30,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Fix failing test](https://github.com/erigontech/erigon/commit/bc08ad6bb1843955bdf630f502f3323f83479f43) - 2025-03-25
 * [Commit] [Lint](https://github.com/erigontech/erigon/commit/5d7b7017de98bd54eae9dafe5755df29694a87c9) - 2025-03-25
 * [Pull Request] [Port geth tracing hooks](https://github.com/erigontech/erigon/pull/14289) - 2025-03-25
+* [Commit] [Fix lint](https://github.com/erigontech/erigon/commit/c9cadebc625ebe2ac4ece68453fd6a462a3b5d02) - 2025-03-26
+* [Commit] [Fix lint](https://github.com/erigontech/erigon/commit/0ab4e72b9af1da001e6bbb1cf06e9c719bf50048) - 2025-03-26
+* [Commit] [Remove injected logs](https://github.com/erigontech/erigon/commit/69ea83a1f3a51fc959e76dec64f7eb028d9e5f3d) - 2025-03-26
+* [Commit] [txpool decode](https://github.com/erigontech/erigon/commit/088003d6902173756092f8cb3e5de8fe8f06e20d) - 2025-03-26
+* [Commit] [Pass hooks to syscallcontract in execution](https://github.com/erigontech/erigon/commit/12c6b050c789fec90d5529134d84be2a8da817a1) - 2025-03-26
+* [Commit] [Pass hooks to syscallcontract](https://github.com/erigontech/erigon/commit/b984e6379e5374e4d220f1413962a974d444a533) - 2025-03-26
+* [Commit] [Fix check and comments](https://github.com/erigontech/erigon/commit/5f20c5a551467669c82702a670c7686ef6ffd30e) - 2025-03-26
+* [Commit] [Remove check](https://github.com/erigontech/erigon/commit/642bff7511182df41eb50d3d63e6c2bcb67e4511) - 2025-03-26
+* [Commit] [Fix nil-ptr](https://github.com/erigontech/erigon/commit/cd08a6792f8238a60c7937aff133d97b3ab93363) - 2025-03-26

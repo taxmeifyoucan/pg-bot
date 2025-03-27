@@ -25,3 +25,9 @@ Team: Nethermind
 * [Commit] [prepare for node running](https://github.com/NethermindEth/nethermind/commit/adb54aacc4c45b0eeb9c0086fcaa2cc4bcb0dd29) - 2025-03-24
 * [Commit] [fixes to PUSH opcodes and to subsegment stack handling](https://github.com/NethermindEth/nethermind/commit/fd41013c085c4c4a1dc200f5a21102e812645f77) - 2025-03-24
 * [Commit] [move static code to static classes](https://github.com/NethermindEth/nethermind/commit/5785b323cc474916169f24ae323d374f07b77c93) - 2025-03-25
+* [Commit] [Remove redundant check for delegations (#8402)](https://github.com/NethermindEth/nethermind/commit/d15d5a79f3b46adad24de653362d34436abab4b4) - 2025-03-26
+* [Commit] [Merge remote-tracking branch 'origin/master' into feature/il-evm](https://github.com/NethermindEth/nethermind/commit/94372fcc92590db31f6756ed5623b388eeeeef8c) - 2025-03-26
+* [Commit] [Reduce getPayload timeout on empty block (#8408)](https://github.com/NethermindEth/nethermind/commit/79b69d1ebb102ee122028ed9037c965b5f972c7d) - 2025-03-26
+* [Commit] [limit amount of analyzing tasks](https://github.com/NethermindEth/nethermind/commit/177451d9a2f960baf0b94e28965bea917115ad5f) - 2025-03-26
+* [Commit] [emit opcode checks for only needed ones](https://github.com/NethermindEth/nethermind/commit/a75af6efb832701e7f2b2ddaf6063a99dae9f0ec) - 2025-03-26
+* [Commit] [remove unsued code, use MemoryMarshall instead of raw loops](https://github.com/NethermindEth/nethermind/commit/2d73d093af2b1d2d6cdebc00c614bf51207b168e) - 2025-03-26

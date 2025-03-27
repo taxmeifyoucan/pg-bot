@@ -32,3 +32,5 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Drop pre-merge blocks in non-archive nodes](https://github.com/erigontech/erigon/issues/14278) - 2025-03-24
 * [Commit] [tests/bor: attempt to fix flakey TestMiningBenchmark integration test (#14254)](https://github.com/erigontech/erigon/commit/da151baf6097cd09ccd37596fed8b5273c67fa38) - 2025-03-24
 * [Commit] [execution-spec-tests: mv to blockchain tests (#14256)](https://github.com/erigontech/erigon/commit/d7b1831b6ec651664d65db8e22e3b6f2c50f716c) - 2025-03-24
+* [Commit] [TestHoodiIssue](https://github.com/erigontech/erigon/commit/3df20c9533d5526a13181258a45f38493c243fd9) - 2025-03-26
+* [Issue] [Extra data of produced blocks should be erigon + version by default](https://github.com/erigontech/erigon/issues/14304) - 2025-03-26
