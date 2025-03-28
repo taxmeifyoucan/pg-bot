@@ -34,3 +34,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution-spec-tests: mv to blockchain tests (#14256)](https://github.com/erigontech/erigon/commit/d7b1831b6ec651664d65db8e22e3b6f2c50f716c) - 2025-03-24
 * [Commit] [TestHoodiIssue](https://github.com/erigontech/erigon/commit/3df20c9533d5526a13181258a45f38493c243fd9) - 2025-03-26
 * [Issue] [Extra data of produced blocks should be erigon + version by default](https://github.com/erigontech/erigon/issues/14304) - 2025-03-26
+* [Commit] [tracer was always nil in NewInMemoryExecution (#14323)](https://github.com/erigontech/erigon/commit/5f692b66f091a0a886ccc1bf153505d3f08ccb38) - 2025-03-27
+* [Pull Request] [tracer was always nil in NewInMemoryExecution](https://github.com/erigontech/erigon/pull/14323) - 2025-03-27
+* [Commit] [tracer was always nil in NewInMemoryExecution](https://github.com/erigontech/erigon/commit/853f3fac75864004a9a6281d320e383e71cabce0) - 2025-03-27
+* [Issue] [Caplin loses EIP-7685 requests when publishing produced blocks](https://github.com/erigontech/erigon/issues/14319) - 2025-03-27

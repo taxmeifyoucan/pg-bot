@@ -20,3 +20,4 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Comments](https://github.com/prysmaticlabs/prysm/commit/014401af580d2cf67cc2d54f3b59d8606ea51fc5) - 2025-03-26
 * [Commit] [Change proposer block's sorting algo to proposer reward numerator](https://github.com/prysmaticlabs/prysm/commit/4fb3bb9760e335efc538084515113775a5cdd996) - 2025-03-26
 * [Commit] [Change proposer block's sorting algo to proposer reward numerator](https://github.com/prysmaticlabs/prysm/commit/32712cb01bc69f0aa45e2eed5218e06c9e385912) - 2025-03-26
+* [Pull Request] [Add more tests to process pending deposits](https://github.com/prysmaticlabs/prysm/pull/15099) - 2025-03-27

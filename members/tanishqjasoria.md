@@ -12,3 +12,5 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [Add transition logic](https://github.com/NethermindEth/nethermind/commit/644a8134765334d43802f103c7e5aa8005257f55) - 2025-03-26
+* [Commit] [Another removal](https://github.com/NethermindEth/nethermind/commit/147fdfc282358edc95aa60a2f5117a5010fb38f0) - 2025-03-27
+* [Commit] [add another method to the interface](https://github.com/NethermindEth/nethermind/commit/d3da0cf006e805bb1cc2f6d8d63b8fefcf4e2896) - 2025-03-27

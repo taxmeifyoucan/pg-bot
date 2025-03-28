@@ -19,3 +19,6 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Stop running circleci checks (#4192)](https://github.com/ethereum/consensus-specs/commit/eca87bbc19ded5551cebe21d571ce197dc9682ed) - 2025-03-24
 * [Commit] [Group all dependabot python upgrades (#4204)](https://github.com/ethereum/consensus-specs/commit/4dd8dbaf0675384a9ed5ef1de50908bfa85d3ff3) - 2025-03-25
 * [Commit] [Bump the actions group with 11 updates (#4207)](https://github.com/ethereum/consensus-specs/commit/9d2d02a5325574bf6d93a7d1e9108d2a52f418f3) - 2025-03-26
+* [Pull Request] [Add missing section headers to fulu spec](https://github.com/ethereum/consensus-specs/pull/4223) - 2025-03-27
+* [Pull Request] [Use new ExecutionPayload with proof_version field](https://github.com/ethereum/consensus-specs/pull/4222) - 2025-03-27
+* [Issue] [Explore fuzzing pyspec functions](https://github.com/ethereum/consensus-specs/issues/4219) - 2025-03-27

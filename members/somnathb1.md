@@ -28,3 +28,5 @@ Team: Erigon
 * [Pull Request] [jsonrpc: Fix intrinsic case in `estimateGas`](https://github.com/erigontech/erigon/pull/14275) - 2025-03-24
 * [Commit] [jsonrpc: Fix intrinsic case in `estimateGas`](https://github.com/erigontech/erigon/commit/d96fa8ab7939b64309f2865ef3e92ddd12f048b7) - 2025-03-24
 * [Commit] [Add consume-rlp](https://github.com/erigontech/erigon/commit/75cb755c2db264d1526cc490df831fddbcd2e2e2) - 2025-03-26
+* [Commit] [Add custom lifecycle test](https://github.com/erigontech/erigon/commit/12d67646a559f1a9d6433a18d27f3ef753933a29) - 2025-03-27
+* [Commit] [Updates in github actions (-latest runners, etc). (#14302)](https://github.com/erigontech/erigon/commit/7cbf6436e1a732c5904e2ee60312fd047a899d95) - 2025-03-27

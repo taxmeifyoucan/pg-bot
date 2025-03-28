@@ -78,3 +78,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Align debug_traceBlock/Transaction with geth (#8186)](https://github.com/NethermindEth/nethermind/commit/d66bfc629da8d3ecb66f38030267bdf0a0725170) - 2025-03-26
 * [Commit] [Fix hive test. (#8414)](https://github.com/NethermindEth/nethermind/commit/cfe2326abfd55414eb0408b6b54a491ba57d019d) - 2025-03-26
 * [Pull Request] [Warm up both beacon root slots](https://github.com/NethermindEth/nethermind/pull/8415) - 2025-03-26
+* [Commit] [Peers ignore self and recent ips (#8426)](https://github.com/NethermindEth/nethermind/commit/6416dcf47e4123462d3bf13a15e959009266a13a) - 2025-03-27
+* [Commit] [x 4](https://github.com/NethermindEth/nethermind/commit/3e4407d764a6947d04cc343bf381b861b9b94758) - 2025-03-27
+* [Commit] [feedback](https://github.com/NethermindEth/nethermind/commit/76ef17fb0c3db5b0253ffb65d3886939ce51de33) - 2025-03-27
+* [Commit] [Remove HashAndTinyPathAndHash (#8425)](https://github.com/NethermindEth/nethermind/commit/8e3de6d58ab21cef44c65c01657e239952763e44) - 2025-03-27
+* [Commit] [Bring down number a little (smaller networks)](https://github.com/NethermindEth/nethermind/commit/5a258807cf614771b0cbd78718afc8bcbee72c92) - 2025-03-27
+* [Commit] [Fix tests](https://github.com/NethermindEth/nethermind/commit/d5e6609adb1129c061705345def3c37e1255fa0d) - 2025-03-27
+* [Pull Request] [Peers ignore self and recent ips](https://github.com/NethermindEth/nethermind/pull/8426) - 2025-03-27
+* [Pull Request] [Remove HashAndTinyPathAndHash](https://github.com/NethermindEth/nethermind/pull/8425) - 2025-03-27

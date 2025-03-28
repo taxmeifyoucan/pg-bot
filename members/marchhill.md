@@ -31,3 +31,6 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [log error instead of throwing on bad config](https://github.com/NethermindEth/nethermind/commit/ca97ceabcf0d74ec4413e9dc9c723b740313af3e) - 2025-03-26
 * [Commit] [restore deleted using](https://github.com/NethermindEth/nethermind/commit/b9fa923517a846916c1146acb45760f10416e7ae) - 2025-03-26
 * [Commit] [Disable static web assets (#8395)](https://github.com/NethermindEth/nethermind/commit/ca0ae96a68c6f527febde43e452d3c0c05c4da15) - 2025-03-26
+* [Commit] [add test of force rebuild payload](https://github.com/NethermindEth/nethermind/commit/b14e50cb365637ba4d1565c382f2ce05db44d5d5) - 2025-03-27
+* [Commit] [more tidying](https://github.com/NethermindEth/nethermind/commit/61f320c53efd58bba5d098abe53242c766d7c574) - 2025-03-27
+* [Commit] [remove unused ecdsa payloadattributes](https://github.com/NethermindEth/nethermind/commit/169a5ff887fb971ecd1392bf0d5ce896bf1dffbf) - 2025-03-27

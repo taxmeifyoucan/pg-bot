@@ -25,5 +25,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 * [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/78d8db8807017e48e49d58ad71af7617f1c816ef) - 2025-03-26
 * [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/a3f5329692477bc626d7509fd5351cdd55c773e7) - 2025-03-26
+* [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/b3e284c04fb542a742e61d113db424151734fab8) - 2025-03-27
+* [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/351a1901afc5ee839534e4863a3ca9ad25bece7f) - 2025-03-27
+* [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/c390671fc4074532d0be0b11d04dd85469e1b2a1) - 2025-03-27
+* [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/7805846a7b45bcf96cbafe866ef46d76ef79ca2e) - 2025-03-27
+* [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/69786f32f84be6a10796655701b8614e17c55600) - 2025-03-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fulu validator custody: Use finalized state as inactivity leak protection.](https://github.com/ethereum/consensus-specs/pull/4211) - 2025-03-26

@@ -12,3 +12,6 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Commit] [fix: use branch for jsonrpsee (#15094)](https://github.com/paradigmxyz/reth/commit/e5bf1269210afffb72104374f4c25c9d205e088c) - 2025-03-18
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [feat: CALL_GAS_SPLIT opcode](https://github.com/ethereum/EIPs/pull/9558) - 2025-03-27

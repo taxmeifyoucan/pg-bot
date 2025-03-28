@@ -24,3 +24,4 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [make graffiti closer to the hackmd (#9279)](https://github.com/Consensys/teku/commit/f0e0e6609a64dc867aa2393d308eac9068cc21e9) - 2025-03-26
 * [Commit] [rate limited remote duty errors (#9275)](https://github.com/Consensys/teku/commit/1fb8a6dbcb7ee4433dc32bf5fccbd00f676700d3) - 2025-03-26
 * [Pull Request] [make graffiti closer to the hackmd](https://github.com/Consensys/teku/pull/9279) - 2025-03-26
+* [Commit] [adjust signature verification defaults (#9287)](https://github.com/Consensys/teku/commit/a3d4ecd4febeaf5f5e07afe54725480f2001d4f2) - 2025-03-27

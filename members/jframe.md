@@ -12,3 +12,4 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Bft ProposerSelector interface](https://github.com/hyperledger/besu/pull/8451) - 2025-03-24
+* [Pull Request] [Move the synchronizerUpdater out of the QbftController](https://github.com/hyperledger/besu/pull/8473) - 2025-03-27

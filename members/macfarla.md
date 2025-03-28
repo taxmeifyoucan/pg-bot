@@ -19,3 +19,4 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [eth_estimateGas rpc-compat hive test](https://github.com/hyperledger/besu/issues/8459) - 2025-03-25
 * [Issue] [eth_createAccessList rpc-compat hive tests](https://github.com/hyperledger/besu/issues/8464) - 2025-03-26
 * [Pull Request] [minor changes to RPC result formatting](https://github.com/hyperledger/besu/pull/8463) - 2025-03-26
+* [Pull Request] [adjustments to gas estimation ](https://github.com/hyperledger/besu/pull/8478) - 2025-03-27

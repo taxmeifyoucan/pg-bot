@@ -16,3 +16,4 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [eth/tracers: fix precompile move feat for debug_traceCall (#31348)](https://github.com/ethereum/go-ethereum/commit/40ad6bedf6cb4cb36851a713720ee81b095f2592) - 2025-03-18
 * [Commit] [accounts/abi: include access-list in gas estimation (#31394)](https://github.com/ethereum/go-ethereum/commit/a82303f4e3cedcebe31540a53dde4f24fc93da80) - 2025-03-26
 * [Commit] [core/rawdb: remove LES database stats (#31495)](https://github.com/ethereum/go-ethereum/commit/5b4a74349372402fac545db7a7f80812a40b1b2b) - 2025-03-26
+* [Commit] [internal/ethapi: CreateAccessList with stateOverrides (#31497)](https://github.com/ethereum/go-ethereum/commit/6143c350ae1ecf3330678be02b4c2745bb6b8134) - 2025-03-27

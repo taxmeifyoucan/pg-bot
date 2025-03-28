@@ -31,3 +31,10 @@ Team: Nethermind
 * [Commit] [limit amount of analyzing tasks](https://github.com/NethermindEth/nethermind/commit/177451d9a2f960baf0b94e28965bea917115ad5f) - 2025-03-26
 * [Commit] [emit opcode checks for only needed ones](https://github.com/NethermindEth/nethermind/commit/a75af6efb832701e7f2b2ddaf6063a99dae9f0ec) - 2025-03-26
 * [Commit] [remove unsued code, use MemoryMarshall instead of raw loops](https://github.com/NethermindEth/nethermind/commit/2d73d093af2b1d2d6cdebc00c614bf51207b168e) - 2025-03-26
+* [Commit] [remove aggressive mode](https://github.com/NethermindEth/nethermind/commit/9e0583252e7754dc863c3599d3b809b9f8ede5ab) - 2025-03-27
+* [Commit] [decrease treshold for precompilation](https://github.com/NethermindEth/nethermind/commit/67b2da817e37cee7f1d4a629a4ef4223ccc090ea) - 2025-03-27
+* [Commit] [turn on aggressive mode](https://github.com/NethermindEth/nethermind/commit/3b45e92ecd606035288f0f44e95d48c5486f9a88) - 2025-03-27
+* [Commit] [Dispose of Locals after emittion](https://github.com/NethermindEth/nethermind/commit/87bc1fdafb1115774ea4bcac296be9a13f81adbc) - 2025-03-27
+* [Commit] [Auto-update fast sync settings (#8422)](https://github.com/NethermindEth/nethermind/commit/f2794bf0561b48ceade8762eb803c806b29c4a5e) - 2025-03-27
+* [Commit] [fix benchmarks](https://github.com/NethermindEth/nethermind/commit/75ab1b93e2b84e0e5bbce13e0e072f047a16c25e) - 2025-03-27
+* [Commit] [fix benchmarks](https://github.com/NethermindEth/nethermind/commit/291fff92d1acef1357a50d17c69976e79485f68b) - 2025-03-27

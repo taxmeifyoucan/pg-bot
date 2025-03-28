@@ -15,3 +15,4 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Allow reorg during sync](https://github.com/Consensys/teku/pull/9268) - 2025-03-24
 * [Commit] [Fix timers for validator_duty metrics (#9282)](https://github.com/Consensys/teku/commit/bce54f29cc7432fc47ea065b738c0d8f6071447a) - 2025-03-26
 * [Pull Request] [Fix timers for validator_duty metrics](https://github.com/Consensys/teku/pull/9282) - 2025-03-26
+* [Pull Request] [Enable validator-duty metrics by default](https://github.com/Consensys/teku/pull/9289) - 2025-03-27

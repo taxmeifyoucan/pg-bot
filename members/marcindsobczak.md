@@ -27,3 +27,7 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix blob tx decoder](https://github.com/NethermindEth/nethermind/commit/a1f003740125856d5c24cbeb52cf20aca8925461) - 2025-03-26
 * [Commit] [Refactor/move sync pivot to blocktree (#8390)](https://github.com/NethermindEth/nethermind/commit/bd46958bad1b0282be4db6434a550a0020b95523) - 2025-03-26
 * [Commit] [cleaning](https://github.com/NethermindEth/nethermind/commit/fbb5d617e422890c425e24a469018e2480e6e94a) - 2025-03-26
+* [Commit] [add test OsakaSpecProvider](https://github.com/NethermindEth/nethermind/commit/8d7239954fb8df8286b216e56d3eafef54eb2ac8) - 2025-03-27
+* [Commit] [add error InvalidProofVersion](https://github.com/NethermindEth/nethermind/commit/f52c9a24117e25adcd1ecc1a9fd5c27cc35ed336) - 2025-03-27
+* [Commit] [fix file encoding](https://github.com/NethermindEth/nethermind/commit/abf7c8cd499f80f2f0ff69b73bcad846bf0e009d) - 2025-03-27
+* [Commit] [add ProofVersion to ChainHeadInfoProvider and add SpecDrivenTxGossipPolicy](https://github.com/NethermindEth/nethermind/commit/ae4a58ab35a3f53e9b27c8c86123ced829878bce) - 2025-03-27

@@ -16,3 +16,5 @@ Team: Robust Incentives Group (RIG)
 * [Pull Request] [Update EIP-7607: Switch out EIP-7915 in favor of new EIP *Blob base fee bounded by execution cost*](https://github.com/ethereum/EIPs/pull/9545) - 2025-03-26
 * [Pull Request] [Update EIP-7607: Switch out EIP-7915 in favor of new EIP *Blob base fee bounded by execution cost*](https://github.com/ethereum/EIPs/pull/9544) - 2025-03-26
 * [Pull Request] [Add EIP: Blob base fee bounded by price of blob-carrying transaction](https://github.com/ethereum/EIPs/pull/9543) - 2025-03-26
+* [Pull Request] [Update EIP-7918: Ready for review](https://github.com/ethereum/EIPs/pull/9554) - 2025-03-27
+* [Pull Request] [Added a new figure and shifted the previous to another section.](https://github.com/ethereum/EIPs/pull/9553) - 2025-03-27

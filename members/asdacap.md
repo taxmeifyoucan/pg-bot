@@ -23,3 +23,4 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix wrong key encoding in multi load level (#8416)](https://github.com/NethermindEth/nethermind/commit/7d51c0851ca613ca3614367931ece65a823ad71e) - 2025-03-26
 * [Commit] [Warm up both beacon root slots (#8415)](https://github.com/NethermindEth/nethermind/commit/0998eade83294e854853a0081d78818dffaedd75) - 2025-03-26
 * [Pull Request] [Fix wrong key encoding in multi load level](https://github.com/NethermindEth/nethermind/pull/8416) - 2025-03-26
+* [Commit] [Feature/movable sync pivot (#8401)](https://github.com/NethermindEth/nethermind/commit/5fa6b6f212e1fe09543b8370b088847542b13f17) - 2025-03-27

@@ -26,3 +26,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/839d804a3c5f604fe4d226fab30d8e574d9051f7) - 2025-03-24
 * [Commit] [Deployed 25bb0236ba to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d752e9bacdf76d890e1be1efc9139ff29f096065) - 2025-03-24
 * [Issue] [chore(ci): add test of hive simulator docker build](https://github.com/ethereum/execution-spec-tests/issues/1354) - 2025-03-26
+* [Commit] [fix(consume): don't include setup logs from call logs](https://github.com/ethereum/execution-spec-tests/commit/4e58741a1d701f2e4b5cd1023d8f668b244e6a20) - 2025-03-27
+* [Commit] [Apply suggestions from code review](https://github.com/ethereum/execution-spec-tests/commit/6b53b3cce10366f748b8c06b7f46bd269bfbcfe6) - 2025-03-27
+* [Commit] [Apply suggestions from code review](https://github.com/ethereum/execution-spec-tests/commit/1f8cda2c68400eb20bdddd28aa40b447eefce4a3) - 2025-03-27
+* [Commit] [Deployed 01f496f4ff to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/7d9bba7dc907b2856e60bc42b61e40eebbd31259) - 2025-03-27
+* [Commit] [Deployed b7c956bf89 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/754bdcd4e9b78216c9f3e60d08af75d306e0ef05) - 2025-03-27
+* [Commit] [Apply suggestions from code review](https://github.com/ethereum/execution-spec-tests/commit/cdf21f66e9f19c6f478b6ea16c8e2c9d10d7077e) - 2025-03-27
+* [Pull Request] [feat(consume): enable logging, propagate logs to hive results](https://github.com/ethereum/execution-spec-tests/pull/1361) - 2025-03-27
+* [Commit] [feat(consume): propagate stdout and stderr in hive test result](https://github.com/ethereum/execution-spec-tests/commit/00b37a07fae1867a99352d00fd894272229915f5) - 2025-03-27

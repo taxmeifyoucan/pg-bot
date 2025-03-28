@@ -20,3 +20,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(docs): update changelog.](https://github.com/ethereum/execution-spec-tests/commit/1642db3ff79da551f6203223ad8d375490fb9fae) - 2025-03-26
 * [Pull Request] [chore: update hive ruleset and add osaka](https://github.com/ethereum/execution-spec-tests/pull/1355) - 2025-03-26
 * [Commit] [chore(deps): pin `build-system` deps, remove `setuptools` from deps (#1345)](https://github.com/ethereum/execution-spec-tests/commit/87131722a1bd16fc6209f0f63d4db838c2210d5d) - 2025-03-26
+* [Commit] [chore: address comments.](https://github.com/ethereum/execution-spec-tests/commit/8089f2a79c6a99f72620b9e38f789d90e7a981fc) - 2025-03-27
+* [Commit] [fix(plugins/spec_version_checker): Sort modules (#1357)](https://github.com/ethereum/execution-spec-tests/commit/01f496f4ff4cc4f22ca5ad36f2b503a6d23edc30) - 2025-03-27
+* [Commit] [chore: fix mypy.](https://github.com/ethereum/execution-spec-tests/commit/bf5a358a0b5c63cfc1b1574dd3e5b8138233e967) - 2025-03-27
+* [Commit] [chore: fix timestamp & address comments.](https://github.com/ethereum/execution-spec-tests/commit/5ea00e413d508f8a4176e2ffb2f37e011ce1b776) - 2025-03-27
+* [Commit] [fix(tests): EIP-7702 verification/merge issue (#1358)](https://github.com/ethereum/execution-spec-tests/commit/b7c956bf89b864106b9d823fc26006efc65ab1de) - 2025-03-27

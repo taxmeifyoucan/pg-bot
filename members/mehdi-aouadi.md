@@ -24,3 +24,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [use String for transactions](https://github.com/Consensys/teku/pull/9284) - 2025-03-26
 * [Commit] [fix engine get inclusion list (#9283)](https://github.com/Consensys/teku/commit/7af8c0aa07cd3dc8311d5261637498fde9369eb3) - 2025-03-26
 * [Pull Request] [fix engine get inclusion list](https://github.com/Consensys/teku/pull/9283) - 2025-03-26
+
+* [Commit] [fix IL duty loader](https://github.com/Consensys/teku/commit/1825ec63f6a98c0e962783f73faa64dbc34bbd4a) - 2025-03-27
+* [Commit] [add --Xp2p-private-key-file-ecdsa and --Xp2p-private-key-file-secp256k1 (#9261)](https://github.com/Consensys/teku/commit/61d4a0fecacd65d8e141b3a8529bcb3fcbfaac1a) - 2025-03-27
+* [Commit] [remove unused logger](https://github.com/Consensys/teku/commit/6420d07741fef35f709a75bad434208e64c7c6dd) - 2025-03-27
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [FOCIL - EIP7805 - Use MAX_TRANSACTIONS_PER_PAYLOAD for InclusionList transactions size](https://github.com/ethereum/consensus-specs/pull/4220) - 2025-03-27

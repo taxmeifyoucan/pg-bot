@@ -48,5 +48,14 @@ Team: Reth
 * [Issue] [monitor pending interop txs](https://github.com/paradigmxyz/reth/issues/15295) - 2025-03-26
 * [Issue] [Add blobsV1 hitrate to grafana dashboard](https://github.com/paradigmxyz/reth/issues/15294) - 2025-03-26
 * [Issue] [Provide empty envelope for eth_simulate for opstack](https://github.com/paradigmxyz/reth/issues/15292) - 2025-03-26
+* [Issue] [Change default for op cli args](https://github.com/paradigmxyz/reth/issues/15332) - 2025-03-27
+* [Issue] [Add ExtendedOpTxEnvelope transaction type](https://github.com/paradigmxyz/reth/issues/15328) - 2025-03-27
+* [Issue] [Make MockEthProvider generic over Primitives](https://github.com/paradigmxyz/reth/issues/15325) - 2025-03-27
+* [Issue] [Add bootnode command](https://github.com/paradigmxyz/reth/issues/15324) - 2025-03-27
+* [Issue] [Map interop rpc error properly](https://github.com/paradigmxyz/reth/issues/15321) - 2025-03-27
+* [Commit] [touchups](https://github.com/paradigmxyz/reth/commit/c97d92bfeb9915af3a6f28bb82e4caeb99ddde18) - 2025-03-27
+* [Commit] [touchups](https://github.com/paradigmxyz/reth/commit/337412fe6bebf918cb62ebd4bdb095eea0e82486) - 2025-03-27
+* [Commit] [touchups](https://github.com/paradigmxyz/reth/commit/31c923b3b01cfca9f0921a24397af3f3b82bca77) - 2025-03-27
+* [Pull Request] [Matt/interop ](https://github.com/paradigmxyz/reth/pull/15317) - 2025-03-27
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore: use revert error code for execution reverted](https://github.com/ethereum/go-ethereum/pull/31444) - 2025-03-20

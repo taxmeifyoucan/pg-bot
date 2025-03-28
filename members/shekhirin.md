@@ -73,3 +73,11 @@ Team: Reth
 * [Commit] [sort by time](https://github.com/paradigmxyz/reth/commit/5e0dcc27218d93a210ca978e1e0c80d50420041b) - 2025-03-26
 * [Commit] [change test a bit](https://github.com/paradigmxyz/reth/commit/36c6e0a724b61dcc73f425cc36cfd05d9bbbccfe) - 2025-03-26
 * [Commit] [chore(ci): update hive eest limits (#15172)](https://github.com/paradigmxyz/reth/commit/8a36cbb3ab48de76af76cd6afbae4e7a0cfca1b8) - 2025-03-26
+* [Issue] [Experiment with storing more branch nodes in database](https://github.com/paradigmxyz/reth/issues/15330) - 2025-03-27
+* [Commit] [log previous and next key when advancing](https://github.com/paradigmxyz/reth/commit/df7445020f90d49f6a0df6247b889706a45803a2) - 2025-03-27
+* [Issue] [`TrieNodeIter` seeks hashed cursor to the key that we just advanced to](https://github.com/paradigmxyz/reth/issues/15329) - 2025-03-27
+* [Issue] [`TrieNodeIter` seeks hashed cursor twice when we enter a branch node](https://github.com/paradigmxyz/reth/issues/15327) - 2025-03-27
+* [Commit] [add trie table seek logs](https://github.com/paradigmxyz/reth/commit/32e36133c68ab9061fa8389257fce4eff2588433) - 2025-03-27
+* [Commit] [move tracing init](https://github.com/paradigmxyz/reth/commit/b1d6c22879f82d4129f562b77280078e3d1a53ed) - 2025-03-27
+* [Pull Request] [test(trie): trie node iter test to demonstrate unneeded seeks](https://github.com/paradigmxyz/reth/pull/15322) - 2025-03-27
+* [Issue] [Testing ExEx to run in the CI](https://github.com/paradigmxyz/reth/issues/15319) - 2025-03-27

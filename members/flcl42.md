@@ -16,3 +16,6 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix multiple blobs sending](https://github.com/NethermindEth/nethermind/commit/1ae89a50d1039fe39515e6785bc1bed0a2b147ad) - 2025-03-24
 * [Commit] [Fix proofs](https://github.com/NethermindEth/nethermind/commit/5cbe2d24714bd3e5b18aeecf60d1743583966a94) - 2025-03-24
 * [Commit] [Split GetBlobsHandler file](https://github.com/NethermindEth/nethermind/commit/89d3271d9391dc4fb1051a14a9a2ba3d4940a801) - 2025-03-26
+* [Commit] [Fix V2 proofs](https://github.com/NethermindEth/nethermind/commit/27e57bb943ab7397222c48e01328d9ceb9b08169) - 2025-03-27
+* [Commit] [Fix some tests](https://github.com/NethermindEth/nethermind/commit/d3a08eac05deaa203c73bab11cf324b9facf2d11) - 2025-03-27
+* [Commit] [Add manager(just PoC)](https://github.com/NethermindEth/nethermind/commit/7658db519c862896c44fb38b66013938f19da23c) - 2025-03-27

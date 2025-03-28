@@ -53,3 +53,24 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/47d9e48eae5bb1a766396eff355c2f49aeb05dcb) - 2025-03-26
 * [Pull Request] [agg: merge files must not crush app](https://github.com/erigontech/erigon/pull/14303) - 2025-03-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/68c40c56dad6158d1f39988a6c6de65882d22444) - 2025-03-26
+* [Commit] [remove etag check (#14191) (#14317)](https://github.com/erigontech/erigon/commit/4f56812451f7851b78ea9e4278a666329c05a986) - 2025-03-27
+* [Commit] [don't log ctx.Canceled error  (#14306)](https://github.com/erigontech/erigon/commit/076b4424933ef0801a470048e8809dec9358ba06) - 2025-03-27
+* [Commit] [free-lru lib version up (#14314)](https://github.com/erigontech/erigon/commit/d08daa12f00546767503b46e8740ab0e107995c7) - 2025-03-27
+* [Pull Request] [free-lru lib version up](https://github.com/erigontech/erigon/pull/14314) - 2025-03-27
+* [Pull Request] [downloader: don't panic on caplin files](https://github.com/erigontech/erigon/pull/14313) - 2025-03-27
+* [Commit] [Update erigon-lib/kv/mdbx/kv_mdbx.go](https://github.com/erigontech/erigon/commit/5bc939bca6f22ac3a9f14359306c401396ab3fa7) - 2025-03-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/165bd7cfd01cdbc3662c1c5cd3031a399d96cf6e) - 2025-03-27
+* [Pull Request] [[wip] agg: ForeignKey concept](https://github.com/erigontech/erigon/pull/14312) - 2025-03-27
+* [Pull Request] [sd: add `aggTx.Unwind` method](https://github.com/erigontech/erigon/pull/14311) - 2025-03-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/86ca681159aed906e74972c68bcd3567e9939742) - 2025-03-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6339746ec102af4d1c8db145b2fd9496553710f1) - 2025-03-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e1195b96aeaad77933fa1330629d7a19cee43220) - 2025-03-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/66182f0b8ec0b0d2330f4f6e270d1779d059bb48) - 2025-03-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/28d421f76d1825a1e75f73289cc6d35be38eb514) - 2025-03-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bc0c034b029724fe86d583a3babeb8de8da16720) - 2025-03-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/94408360a39f1800d6ef5c571102a36b5c8473bb) - 2025-03-27
+* [Commit] [docs: update links from programmer guide (#13949)](https://github.com/erigontech/erigon/commit/24da1cd03e53305e87a86a052bbc91dfcc7ad249) - 2025-03-27
+* [Commit] [diag: added txpool (#14271)](https://github.com/erigontech/erigon/commit/53dc6c7e9779db71f8e042495f39be45e4454f74) - 2025-03-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4cb5c35b4c432b8449c854ea18c826defa3d2327) - 2025-03-27
+* [Commit] [bor span representation using appendables (#14281)](https://github.com/erigontech/erigon/commit/b61d0d649b364c4a7a168bcc018e950cf4b41600) - 2025-03-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/faa1d76abb14d3cdb3a71f58759eb42bdba6b659) - 2025-03-27

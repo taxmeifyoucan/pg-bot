@@ -26,3 +26,4 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix Electra / Fulu .graffiti proven property in remote keystore (#7030)](https://github.com/status-im/nimbus-eth2/commit/fb86da670b7045dcc0be0892fb10e11e1e4a0919) - 2025-03-26
 * [Commit] [Extend configurability of peerDAS values (#7032)](https://github.com/status-im/nimbus-eth2/commit/a65c76d2b85dab76d21d5dc2d5e268fdadd24b06) - 2025-03-26
 * [Commit] [avoid multiple copies of hash sets](https://github.com/status-im/nimbus-eth2/commit/ffa97a736c9472f340de34b5b9570eb17e7fd180) - 2025-03-26
+* [Commit] [extend configs to rest config api](https://github.com/status-im/nimbus-eth2/commit/6f345dce0b9077b1330b4863fcd231778ffcf297) - 2025-03-27

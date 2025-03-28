@@ -18,3 +18,4 @@ Team: Erigon
 * [Pull Request] [qa-tests: handle different types of runners](https://github.com/erigontech/erigon/pull/14236) - 2025-03-20
 * [Pull Request] [qa-tests: fix clean exit workflows](https://github.com/erigontech/erigon/pull/14280) - 2025-03-24
 * [Pull Request] [qa-tests: add a warning in the perf-tests if a change point is present](https://github.com/erigontech/erigon/pull/14279) - 2025-03-24
+* [Pull Request] [qa-tests: run RPC performance test nightly](https://github.com/erigontech/erigon/pull/14324) - 2025-03-27

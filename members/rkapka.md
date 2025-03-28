@@ -16,3 +16,5 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [remove redundant conversion](https://github.com/prysmaticlabs/prysm/commit/8d1e52f6f74f416116a8a7b743cdd19b9945735c) - 2025-03-26
 * [Commit] [Add SSZ support for light client updates by range API (#15082)](https://github.com/prysmaticlabs/prysm/commit/38a6a7a4eaa57c65be50743996f221aed6c42621) - 2025-03-26
 * [Pull Request] [Allow hex strings in `/eth/v1/beacon/states/{state_id}/root` endpoint](https://github.com/prysmaticlabs/prysm/pull/15098) - 2025-03-26
+* [Commit] [Proposer: change attestation sorting to reward numerator (#15093)](https://github.com/prysmaticlabs/prysm/commit/e82f9ccca3d2e3b28d300f56da64e221dcb254ac) - 2025-03-27
+* [Commit] [use `bytesutil.IsHex`](https://github.com/prysmaticlabs/prysm/commit/e02033195f969aa58d65bcf6276bf489bdf91438) - 2025-03-27

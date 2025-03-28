@@ -39,3 +39,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Fix check and comments](https://github.com/erigontech/erigon/commit/5f20c5a551467669c82702a670c7686ef6ffd30e) - 2025-03-26
 * [Commit] [Remove check](https://github.com/erigontech/erigon/commit/642bff7511182df41eb50d3d63e6c2bcb67e4511) - 2025-03-26
 * [Commit] [Fix nil-ptr](https://github.com/erigontech/erigon/commit/cd08a6792f8238a60c7937aff133d97b3ab93363) - 2025-03-26
+* [Commit] [integrity: logs improve (#14197)](https://github.com/erigontech/erigon/commit/835a08de2bb7f17f8ec96524914b616e18609883) - 2025-03-27
+* [Commit] [Port geth tracing hooks (#14289)](https://github.com/erigontech/erigon/commit/e6927327556835787343fcf70314ba209c828047) - 2025-03-27
+* [Commit] [Add CREATE2 opcode](https://github.com/erigontech/erigon/commit/b6b12c38044dce290fc1c60b95f0270838e09601) - 2025-03-27
+* [Commit] [Add CREATE2 opcode](https://github.com/erigontech/erigon/commit/ee3a12b168220e4234aeec46c5268291c1cab83b) - 2025-03-27
