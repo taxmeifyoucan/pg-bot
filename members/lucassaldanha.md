@@ -22,3 +22,5 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Added Node Mode enum (#9278)](https://github.com/Consensys/teku/commit/e6fb7ede2f822fa0ecfff80c2e52133e1a45ae44) - 2025-03-26
 * [Pull Request] [Added Node Mode enum](https://github.com/Consensys/teku/pull/9278) - 2025-03-26
 * [Issue] [Bootnode Mode](https://github.com/Consensys/teku/issues/9277) - 2025-03-26
+* [Commit] [Bump ref-test to version v1.5.0-beta.3 (#9295)](https://github.com/Consensys/teku/commit/5a1e6ab4d864ff92a643fd706379bf35d68a01ad) - 2025-03-28
+* [Pull Request] [Bump ref-test to version v1.5.0-beta.3](https://github.com/Consensys/teku/pull/9295) - 2025-03-28

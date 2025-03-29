@@ -19,3 +19,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix V2 proofs](https://github.com/NethermindEth/nethermind/commit/27e57bb943ab7397222c48e01328d9ceb9b08169) - 2025-03-27
 * [Commit] [Fix some tests](https://github.com/NethermindEth/nethermind/commit/d3a08eac05deaa203c73bab11cf324b9facf2d11) - 2025-03-27
 * [Commit] [Add manager(just PoC)](https://github.com/NethermindEth/nethermind/commit/7658db519c862896c44fb38b66013938f19da23c) - 2025-03-27
+* [Pull Request] [Fix taiko DI](https://github.com/NethermindEth/nethermind/pull/8436) - 2025-03-28
+* [Commit] [Merge remote-tracking branch 'origin/master' into fix-taiko-di](https://github.com/NethermindEth/nethermind/commit/08b93c0f7bf30e96e3a833bcd0188a282263daef) - 2025-03-28
+* [Commit] [Trie visitor adjustment (#8221)](https://github.com/NethermindEth/nethermind/commit/236384ab618eb942ceeb869fd27f516c7c2af49e) - 2025-03-28
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/dbd867e8de62ff6e5181a3dd44502e581cf6d45f) - 2025-03-28
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/f99db0acab26f46a7dac3f381081565b03a0ab95) - 2025-03-28
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/4e85b03182569a940ed8edcd74031d2929d1bf78) - 2025-03-28
+* [Commit] [Move name to spec to Spec project](https://github.com/NethermindEth/nethermind/commit/80cc653ad973e93127092dabf6a1dc9718d65d17) - 2025-03-28

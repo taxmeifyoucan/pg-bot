@@ -43,3 +43,5 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Port geth tracing hooks (#14289)](https://github.com/erigontech/erigon/commit/e6927327556835787343fcf70314ba209c828047) - 2025-03-27
 * [Commit] [Add CREATE2 opcode](https://github.com/erigontech/erigon/commit/b6b12c38044dce290fc1c60b95f0270838e09601) - 2025-03-27
 * [Commit] [Add CREATE2 opcode](https://github.com/erigontech/erigon/commit/ee3a12b168220e4234aeec46c5268291c1cab83b) - 2025-03-27
+* [Commit] [Remove TODO](https://github.com/erigontech/erigon/commit/9b68644e00955bca4b1618293635372bef93001a) - 2025-03-28
+* [Commit] [Fix lint](https://github.com/erigontech/erigon/commit/78ac377a61abda560857a22e90567c746dcc9255) - 2025-03-28

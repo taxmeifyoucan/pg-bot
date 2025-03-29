@@ -35,3 +35,4 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Release v7.0.0-beta.5](https://github.com/sigp/lighthouse/pull/7210) - 2025-03-27
 * [Commit] [Prevent duplicate effective balance processing (#7209)](https://github.com/sigp/lighthouse/commit/0875326cb6885b9b40b79f3520ecac64bb5a3a00) - 2025-03-27
 * [Pull Request] [Prevent duplicate effective balance processing](https://github.com/sigp/lighthouse/pull/7209) - 2025-03-27
+* [Issue] [Add more Sepolia/Hoodi bootnodes](https://github.com/sigp/lighthouse/issues/7218) - 2025-03-28

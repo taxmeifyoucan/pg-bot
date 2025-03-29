@@ -20,3 +20,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [eth_createAccessList rpc-compat hive tests](https://github.com/hyperledger/besu/issues/8464) - 2025-03-26
 * [Pull Request] [minor changes to RPC result formatting](https://github.com/hyperledger/besu/pull/8463) - 2025-03-26
 * [Pull Request] [adjustments to gas estimation ](https://github.com/hyperledger/besu/pull/8478) - 2025-03-27
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [add .idea/ dir to ignore list](https://github.com/ethereum/execution-apis/pull/643) - 2025-03-28
+* [Issue] [README - errors running verification steps - speccheck, spellcheck](https://github.com/ethereum/execution-apis/issues/642) - 2025-03-28
+* [Pull Request] [use uint256 for keys to disallow 0x empty](https://github.com/ethereum/execution-apis/pull/641) - 2025-03-28

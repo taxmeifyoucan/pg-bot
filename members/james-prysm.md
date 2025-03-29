@@ -29,3 +29,4 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [manu feedback and one optimization removing auth token check](https://github.com/prysmaticlabs/prysm/commit/6e05c79f24e6ff0e42fe884c3e64d8f34b8df40c) - 2025-03-27
 * [Commit] [combining unit tests](https://github.com/prysmaticlabs/prysm/commit/d5b5226c3ff0711e8da3c50d300820994819de82) - 2025-03-27
 * [Commit] [increasing backoff period](https://github.com/prysmaticlabs/prysm/commit/abf9d92d82e2f4090d75a9c2b406cececaf36d18) - 2025-03-27
+* [Commit] [validator client initialization cleanup (#15080)](https://github.com/prysmaticlabs/prysm/commit/e3fb4e86ec851643b747d04e77720d0be7ed0eec) - 2025-03-28

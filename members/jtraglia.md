@@ -22,3 +22,6 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Add missing section headers to fulu spec](https://github.com/ethereum/consensus-specs/pull/4223) - 2025-03-27
 * [Pull Request] [Use new ExecutionPayload with proof_version field](https://github.com/ethereum/consensus-specs/pull/4222) - 2025-03-27
 * [Issue] [Explore fuzzing pyspec functions](https://github.com/ethereum/consensus-specs/issues/4219) - 2025-03-27
+* [Commit] [State that effective balance should be used (#4218)](https://github.com/ethereum/consensus-specs/commit/c95d1df58fb185c5c96773be88dd6fc15225bf1f) - 2025-03-28
+* [Commit] [Use finalized state for Fulu validator custody (#4211)](https://github.com/ethereum/consensus-specs/commit/03befe38aeabb76f0d49544ce264235abf991317) - 2025-03-28
+* [Commit] [Add Distributed Blob Publishing to Fulu networking spec (#4183)](https://github.com/ethereum/consensus-specs/commit/420adfb9241ea7e63047a569667456b9042ac0f0) - 2025-03-28

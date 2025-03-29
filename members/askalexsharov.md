@@ -74,3 +74,56 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/4cb5c35b4c432b8449c854ea18c826defa3d2327) - 2025-03-27
 * [Commit] [bor span representation using appendables (#14281)](https://github.com/erigontech/erigon/commit/b61d0d649b364c4a7a168bcc018e950cf4b41600) - 2025-03-27
 * [Commit] [save](https://github.com/erigontech/erigon/commit/faa1d76abb14d3cdb3a71f58759eb42bdba6b659) - 2025-03-27
+* [Commit] [debug api for appendables (#14335)](https://github.com/erigontech/erigon/commit/2f65e95d9a8d433f8c701b8509517be0086a51af) - 2025-03-28
+* [Commit] [shutdown: better logs (#14331)](https://github.com/erigontech/erigon/commit/4086c57ff12345807e10f22b986422295885bbd9) - 2025-03-28
+* [Commit] [diagnostics: Conditional Diagnostics Data Collection (#14327)](https://github.com/erigontech/erigon/commit/9bd4c1bd6930968b5f3294fcc2c01509d7e33fb4) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cad79f2a18eac1532001487aa13c95b91b0a2374) - 2025-03-28
+* [Commit] [sd: wrapTx - helper to use only in tests (#14308)](https://github.com/erigontech/erigon/commit/7718a931fcc15e3b99e2193332ee835fe89df0d5) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b4edea86a82b592b7ac50376c54905b51af88429) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c44c50d5b3e3270d487183e93a3043b1897ed03c) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/62c7cf234b313f9c52e285db9d4afba53f0c8cc6) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4eff931fbfe8acea68aabde9ed5b50ffcf1bc840) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/787de5c4132edd5e3212c5ada58684c3444bbe5c) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e4e721711ade9c9020dfe6d70acdcca3e332a3eb) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8d7c5aa80494dc82a8170dd1cd3bf938d645f3c3) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/83dc6b89489988254d6a70239d20390245a73248) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/36272aa6e2dacfd66574b90ed0456e517a2fa1ff) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/951bd1928bf2640ff750b105a69b1239fa4a8e38) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/04f70d44a43f2cd30cb45b253d55df603345ca84) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7de9abc54141b9f056e4430b3942d1e4aab592e6) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a36fdb59685a047878fb932d6e3ac93129a43659) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8469d2658b48281eb6e4c8cfffe4519432ecb759) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/15c3c5ffb8f3aa47e69a6f3ef3a22ba8262f19bf) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/354273bbde147c0841096c9bce3b1dfd4f250a5b) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/37632bc2fc5f1b0c158073209115aba705d9dbce) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d8cc75a5356f8c0a9593df386c2b10be2aa6bfad) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8c1e51f2f28c6d124a660eb45ffe69c07bfc0226) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/acc95ff28fa017b081db6f47c198f54048f405eb) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/36118cd3b700ae1e433b02ad533945458b98f661) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/053ff0460427139ad7d0e74eaf31b092621babde) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9fac6987958ca227aada4522aa96a61f46587353) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c76515a6fe0cfc1d1f7177bfbde6b49a9020c459) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7b269e01c9eb4d89818a19bdafe1a15b120e8900) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cdd8e8125027a8f0cba28f436107eaabcf83dcb0) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/00184ea55d1a9174ac0c45f87bbf4d6b5d3c7a23) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/694c9421238d824a95d6c7e99f66655e6b564037) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/08995b611f741b63190e652a7b9b2d52b104f98b) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3426cde7710663664f85f024dbd697bd8e8450e3) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/13b69510ecbd5ab5dbd029e556e8807aa7675947) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3d7ceb2a942ac60fc0797ee538faf5c486bf304b) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a4348e1c5e05dc9a434073b2bfed41aa71157abc) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0d95a435162d30eca846641569659aa8871df007) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f65845dffdc7e609010d3b8b520094c605eb817f) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5c157ee2a49ecfbab96accb66cce38da11a975c6) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bfb152df020ab5282957294fc72b5a0ba262a63d) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e3d0b7e7e48b9f43f6220bab9b458b759b51e6d5) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a4a8cd3f1f91c0db7c8fb81a2f64c35f17d9d2c9) - 2025-03-28
+* [Pull Request] [enable testifylint](https://github.com/erigontech/erigon/pull/14333) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b781c51a8ae8abcb789bfa5df53ceda762e0628c) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a1d12ff935621f09e816308d4dfab3b8181854a0) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/74c8687d728b83fab0f659b309f78257687aa84a) - 2025-03-28
+* [Commit] [diag: added txpool (#14271)](https://github.com/erigontech/erigon/commit/53dc6c7e9779db71f8e042495f39be45e4454f74) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0eb97c2da5c704f35b9930107d2d74649e34cffa) - 2025-03-28
+* [Pull Request] [shutdown: stop grpc streams](https://github.com/erigontech/erigon/pull/14332) - 2025-03-28
+* [Pull Request] [shutdown: better logs](https://github.com/erigontech/erigon/pull/14331) - 2025-03-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/05ea3c50e4123b87e569be7c6b255d0fe11b1eb9) - 2025-03-28

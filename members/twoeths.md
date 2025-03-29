@@ -34,3 +34,5 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: compare hashTreeRoot() vs batch() in hashing.test.ts](https://github.com/ChainSafe/lodestar/commit/f46bcbf385f0bedf8c59c7a0f4455f15156fed35) - 2025-03-26
 * [Commit] [fix: set hashtree for perf tests](https://github.com/ChainSafe/lodestar/commit/257b1c6cd8c02e0ecdf66d33e66d102d9fedacbf) - 2025-03-26
 * [Commit] [chore: add comment improve value_toTree TODO](https://github.com/ChainSafe/lodestar/commit/e2c8c9ebfc63a68996a9952beef7eab102614e67) - 2025-03-26
+* [Pull Request] [feat: shared CustodyConfig on main thread and network thread](https://github.com/ChainSafe/lodestar/pull/7632) - 2025-03-28
+* [Commit] [fix: ensure verifyStateRoot: true in spec tests](https://github.com/ChainSafe/lodestar/commit/87ef681c13bb77b4d7c8797a9beba0aaa76e6bb2) - 2025-03-28

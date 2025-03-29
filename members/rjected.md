@@ -38,3 +38,10 @@ Team: Reth
 * [Pull Request] [feat: add ability to handle dedicated storage proof result](https://github.com/paradigmxyz/reth/pull/15252) - 2025-03-25
 * [Commit] [DONOTMERGE: add trie node iter counting](https://github.com/paradigmxyz/reth/commit/2870d6a3e0a05b1afb37bc1791a6f27e62ef848c) - 2025-03-26
 * [Pull Request] [wip: reduce hashed seeks in TrieNodeIter](https://github.com/paradigmxyz/reth/pull/15336) - 2025-03-27
+* [Commit] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/commit/b019c145579587715fd51aeb15ffc62818acb649) - 2025-03-28
+* [Pull Request] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/pull/15379) - 2025-03-28
+* [Commit] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/commit/c20d36cf5bd3f42b34ad3d4ffc3831f51c807a0a) - 2025-03-28
+* [Commit] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/commit/34120828e1243f0027fd4288571e0cabeab69ee5) - 2025-03-28
+* [Commit] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/commit/d42a895151cbf22801271b38160b93e41e148de3) - 2025-03-28
+* [Commit] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/commit/779aaf26fa18dc1a40eedb5420d0d4a45a9d47f3) - 2025-03-28
+* [Commit] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/commit/b2d6aeda08f56b63ad37dd58377ef60f676d24e4) - 2025-03-28

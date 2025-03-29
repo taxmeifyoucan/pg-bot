@@ -57,5 +57,13 @@ Team: Reth
 * [Commit] [touchups](https://github.com/paradigmxyz/reth/commit/337412fe6bebf918cb62ebd4bdb095eea0e82486) - 2025-03-27
 * [Commit] [touchups](https://github.com/paradigmxyz/reth/commit/31c923b3b01cfca9f0921a24397af3f3b82bca77) - 2025-03-27
 * [Pull Request] [Matt/interop ](https://github.com/paradigmxyz/reth/pull/15317) - 2025-03-27
+* [Pull Request] [chore: silence warning in optimized build](https://github.com/paradigmxyz/reth/pull/15378) - 2025-03-28
+* [Issue] [Add serdebincodecompat support for alloy txtypes](https://github.com/paradigmxyz/reth/issues/15377) - 2025-03-28
+* [Commit] [ci: make nightly dispatch (#15375)](https://github.com/paradigmxyz/reth/commit/0e2a4c4a87b8b64d8faf46110cf93567114ae26f) - 2025-03-28
+* [Pull Request] [ci: make nightly dispatch](https://github.com/paradigmxyz/reth/pull/15375) - 2025-03-28
+* [Pull Request] [fix: rm unsound transmute](https://github.com/paradigmxyz/reth/pull/15373) - 2025-03-28
+* [Commit] [fix: rm unsound transmute](https://github.com/paradigmxyz/reth/commit/2326489030f44c327132bd5876a50cd5bd164cf0) - 2025-03-28
+* [Issue] [Move cross validation into SupervisorClient](https://github.com/paradigmxyz/reth/issues/15372) - 2025-03-28
+* [Issue] [Add era1 file format support](https://github.com/paradigmxyz/reth/issues/15371) - 2025-03-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore: use revert error code for execution reverted](https://github.com/ethereum/go-ethereum/pull/31444) - 2025-03-20

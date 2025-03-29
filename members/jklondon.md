@@ -23,3 +23,6 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Add gdbme flag on testing machines/validators](https://github.com/erigontech/erigon/issues/14322) - 2025-03-27
 * [Issue] [Add gdbme win support](https://github.com/erigontech/erigon/issues/14321) - 2025-03-27
 * [Pull Request] [[wip] major and minor versions](https://github.com/erigontech/erigon/pull/14320) - 2025-03-27
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/162560e3d49734be1543d39d4741b2e5e2e4564f) - 2025-03-28
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/042d3a8bb5085b08417a25eb5821c6b2faa7d2a6) - 2025-03-28
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/4c1dca1000c4267d055fd31ef5ff6e49b02390c3) - 2025-03-28

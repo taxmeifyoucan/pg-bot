@@ -18,3 +18,5 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Pull Request] [Allow hex strings in `/eth/v1/beacon/states/{state_id}/root` endpoint](https://github.com/prysmaticlabs/prysm/pull/15098) - 2025-03-26
 * [Commit] [Proposer: change attestation sorting to reward numerator (#15093)](https://github.com/prysmaticlabs/prysm/commit/e82f9ccca3d2e3b28d300f56da64e221dcb254ac) - 2025-03-27
 * [Commit] [use `bytesutil.IsHex`](https://github.com/prysmaticlabs/prysm/commit/e02033195f969aa58d65bcf6276bf489bdf91438) - 2025-03-27
+* [Commit] [What the bitlist](https://github.com/prysmaticlabs/prysm/commit/042d89a0811901d9a3ec2a0940c7157bfe845d52) - 2025-03-28
+* [Commit] [What the bitlist](https://github.com/prysmaticlabs/prysm/commit/6476998b308d7eefefa684a0fae1ced9aacf873d) - 2025-03-28

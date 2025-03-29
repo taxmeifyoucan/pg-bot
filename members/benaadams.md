@@ -86,3 +86,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix tests](https://github.com/NethermindEth/nethermind/commit/d5e6609adb1129c061705345def3c37e1255fa0d) - 2025-03-27
 * [Pull Request] [Peers ignore self and recent ips](https://github.com/NethermindEth/nethermind/pull/8426) - 2025-03-27
 * [Pull Request] [Remove HashAndTinyPathAndHash](https://github.com/NethermindEth/nethermind/pull/8425) - 2025-03-27
+* [Commit] [Update src/Nethermind/Ethereum.Test.Base/JsonToEthereumTest.cs](https://github.com/NethermindEth/nethermind/commit/47fc45c4d7d101ba83f99397de972c9c05515dbb) - 2025-03-28
+* [Commit] [Lookup TxDecoder once per block (#8438)](https://github.com/NethermindEth/nethermind/commit/0b07e3cdaffd3cbe373c37ddbfc44f8081fb36d4) - 2025-03-28
+* [Commit] [Devirtualize shared array pool](https://github.com/NethermindEth/nethermind/commit/9b8e8e79e26a7e1ed5312c6d8bc8512ede151b54) - 2025-03-28
+* [Commit] [Explicit types](https://github.com/NethermindEth/nethermind/commit/1e4c8ed58f702b3a147d4f0d60e2a6a34fc44890) - 2025-03-28
+* [Commit] [Optimize ExecutionPayloadParams.ValidateParams](https://github.com/NethermindEth/nethermind/commit/0bf005f8a109134707cf2099aed1f63d2b2f65f8) - 2025-03-28
+* [Commit] [Throw same exception](https://github.com/NethermindEth/nethermind/commit/9fd461eade147bcdd8cf7423f862165965fed9bb) - 2025-03-28
+* [Pull Request] [Lookup TxDecoder once per block](https://github.com/NethermindEth/nethermind/pull/8438) - 2025-03-28

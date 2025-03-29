@@ -24,3 +24,9 @@ Team: Erigon
 * [Commit] [remove update printer](https://github.com/erigontech/erigon/commit/722876b1352208061a69bd6932039a8e1f243e09) - 2025-03-23
 * [Commit] [no prune processing](https://github.com/erigontech/erigon/commit/7cc1a875a9cde5f7b3b926d4d47cadd0e192bcde) - 2025-03-24
 * [Commit] [consolidate commit call location](https://github.com/erigontech/erigon/commit/98181d14330628e4cf735176284076dbd02a8b26) - 2025-03-24
+* [Commit] [retstore](https://github.com/erigontech/erigon/commit/b20a0b12a166c3087442a78e3c4617b111b421ba) - 2025-03-28
+* [Commit] [no close](https://github.com/erigontech/erigon/commit/d52f0a0623fd37fd60b469530a0fa3fe3c24a353) - 2025-03-28
+* [Commit] [no write](https://github.com/erigontech/erigon/commit/1247e0994cc01258bdb8dc1e690f638d3831312f) - 2025-03-28
+* [Commit] [print flush tracel](https://github.com/erigontech/erigon/commit/de63d05f72bb2d5e6788c59ce05c8172f7179efe) - 2025-03-28
+* [Commit] [remove duplicate prune call](https://github.com/erigontech/erigon/commit/ac57e56195ba8f9a0e4052e5aee0a6891e215f0c) - 2025-03-28
+* [Commit] [remove duplicate prune call](https://github.com/erigontech/erigon/commit/e4ae7807aa52c64da2d62eaf3aced2d4a7efa962) - 2025-03-28

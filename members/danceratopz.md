@@ -34,3 +34,4 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Apply suggestions from code review](https://github.com/ethereum/execution-spec-tests/commit/cdf21f66e9f19c6f478b6ea16c8e2c9d10d7077e) - 2025-03-27
 * [Pull Request] [feat(consume): enable logging, propagate logs to hive results](https://github.com/ethereum/execution-spec-tests/pull/1361) - 2025-03-27
 * [Commit] [feat(consume): propagate stdout and stderr in hive test result](https://github.com/ethereum/execution-spec-tests/commit/00b37a07fae1867a99352d00fd894272229915f5) - 2025-03-27
+* [Issue] [feat(fill,consume): enable `xfail`/`skip` marking of tests on a per client basis](https://github.com/ethereum/execution-spec-tests/issues/1363) - 2025-03-28

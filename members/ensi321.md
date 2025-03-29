@@ -17,3 +17,4 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Lint](https://github.com/ChainSafe/lodestar/commit/5d5328083461207abfc30c0c33dacd1c70ef907b) - 2025-03-25
 * [Commit] [chore: fix various imports (#7583)](https://github.com/ChainSafe/lodestar/commit/22695585d10798fc178cec622d5d777c6fc85397) - 2025-03-25
 * [Commit] [Async everything](https://github.com/ChainSafe/lodestar/commit/c8d12abe298d24f202217cf85926e1358c1b0f1b) - 2025-03-25
+* [Commit] [feat: lazy load pending consolidations (#7597)](https://github.com/ChainSafe/lodestar/commit/ae2b1059311c80d12034791be5d5c4872ad68e0e) - 2025-03-28
