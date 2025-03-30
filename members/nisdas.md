@@ -16,3 +16,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Anisdas)
 * [Commit] [Revert Change](https://github.com/prysmaticlabs/prysm/commit/a28b94f1f08d186b842c2eb86bd6425534b2615e) - 2025-03-27
 * [Commit] [Fix Build](https://github.com/prysmaticlabs/prysm/commit/f38a728b37d3b0260954de9c09b06c1f5364f12b) - 2025-03-27
 * [Commit] [Finally have it working](https://github.com/prysmaticlabs/prysm/commit/f3ddbc799a7288a8b8b2941a3d09f0c78cbb892c) - 2025-03-27
+* [Commit] [Use headstate to validate canonical attestations for old targets (#15095)](https://github.com/prysmaticlabs/prysm/commit/bd177792319eaa7bc373f8ce8db58764179fd211) - 2025-03-29
+* [Commit] [Changelog](https://github.com/prysmaticlabs/prysm/commit/0d2209b2cfeefa4aef01aab69762b363f681c17b) - 2025-03-29
+* [Commit] [Get Withdrawals Working](https://github.com/prysmaticlabs/prysm/commit/50bb25ba893bbf5cf2018b077d07dfc906a2e907) - 2025-03-29
+* [Commit] [Get Evaluator Working](https://github.com/prysmaticlabs/prysm/commit/4cf80514e148e79b44bd692e68ed3b828e52311a) - 2025-03-29

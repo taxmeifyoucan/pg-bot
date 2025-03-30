@@ -93,3 +93,5 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Optimize ExecutionPayloadParams.ValidateParams](https://github.com/NethermindEth/nethermind/commit/0bf005f8a109134707cf2099aed1f63d2b2f65f8) - 2025-03-28
 * [Commit] [Throw same exception](https://github.com/NethermindEth/nethermind/commit/9fd461eade147bcdd8cf7423f862165965fed9bb) - 2025-03-28
 * [Pull Request] [Lookup TxDecoder once per block](https://github.com/NethermindEth/nethermind/pull/8438) - 2025-03-28
+* [Pull Request] [Shrink Netty page size 16MB => 8MB](https://github.com/NethermindEth/nethermind/pull/8439) - 2025-03-29
+* [Commit] [Shrink Netty page size 16MB => 8MB](https://github.com/NethermindEth/nethermind/commit/f068bcd91ee1adfee62bc300ce7a9572938ee117) - 2025-03-29

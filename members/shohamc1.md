@@ -45,3 +45,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Add CREATE2 opcode](https://github.com/erigontech/erigon/commit/ee3a12b168220e4234aeec46c5268291c1cab83b) - 2025-03-27
 * [Commit] [Remove TODO](https://github.com/erigontech/erigon/commit/9b68644e00955bca4b1618293635372bef93001a) - 2025-03-28
 * [Commit] [Fix lint](https://github.com/erigontech/erigon/commit/78ac377a61abda560857a22e90567c746dcc9255) - 2025-03-28
+* [Pull Request] [Add state sync logs to index](https://github.com/erigontech/erigon/pull/14361) - 2025-03-29
+* [Pull Request] [rpcdaemon: Fix state sync events calltracer](https://github.com/erigontech/erigon/pull/14360) - 2025-03-29
+* [Commit] [Check nil](https://github.com/erigontech/erigon/commit/01f74f74c84f7f802a83756b6bfe60ea4a8e82d0) - 2025-03-29
+* [Commit] [Account Abstraction Execution (#14213)](https://github.com/erigontech/erigon/commit/f729390671180e231f6b45cc9ceb74d980d34263) - 2025-03-29
+* [Commit] [tracer was always nil in NewInMemoryExecution (#14323)](https://github.com/erigontech/erigon/commit/5f692b66f091a0a886ccc1bf153505d3f08ccb38) - 2025-03-29
+* [Commit] [Remove TODO](https://github.com/erigontech/erigon/commit/0106df951f1905e28aba8780f291563b57623dd1) - 2025-03-29

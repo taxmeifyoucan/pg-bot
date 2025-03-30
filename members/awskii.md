@@ -19,3 +19,4 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/dffbfda8cb4d8725b0cd6b949a48dfd73b09d565) - 2025-03-27
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8c251504de4b68f3874763ecbcb9ae4eaa65b351) - 2025-03-27
 * [Pull Request] [remove etag chceck (#14191)](https://github.com/erigontech/erigon/pull/14317) - 2025-03-27
+* [Pull Request] [exclude manifest.txt from webseed check](https://github.com/erigontech/erigon/pull/14362) - 2025-03-29

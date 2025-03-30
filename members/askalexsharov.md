@@ -127,3 +127,8 @@ Team: Erigon
 * [Pull Request] [shutdown: stop grpc streams](https://github.com/erigontech/erigon/pull/14332) - 2025-03-28
 * [Pull Request] [shutdown: better logs](https://github.com/erigontech/erigon/pull/14331) - 2025-03-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/05ea3c50e4123b87e569be7c6b255d0fe11b1eb9) - 2025-03-28
+* [Commit] [agg: ii schema (#14359)](https://github.com/erigontech/erigon/commit/43d3cf92a3a7e3ad7b328daa23ddd63468f7ed40) - 2025-03-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1b045de85514fe031fba83c43d4135207e595a08) - 2025-03-29
+* [Pull Request] [agg: ii schema](https://github.com/erigontech/erigon/pull/14359) - 2025-03-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d58a4a6bc69ddd5d8260e722c42fe11cfcf85fab) - 2025-03-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a67da73a40331ba95c1cf7c4abb696543d389013) - 2025-03-29

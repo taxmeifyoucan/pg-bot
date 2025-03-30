@@ -17,3 +17,4 @@ Team: Codex DAS
 * [Issue] [Fatal error after crlt-c kill: gap in the chain between ancients [...] and leveldb [...]](https://github.com/ethereum/go-ethereum/issues/31499) - 2025-03-26
 * [Commit] [Fix flakey behavior in simulated backend Rollback](https://github.com/ethereum/go-ethereum/commit/7cbf934488b510206b8d0c9e1453fe9fad83692a) - 2025-03-28
 * [Commit] [fixing newlines](https://github.com/ethereum/go-ethereum/commit/e78999b308b6d7e5c2bf0832e0eeeb4aa4723ce9) - 2025-03-28
+* [Commit] [eth/connmanager: randomize peer drop timers](https://github.com/ethereum/go-ethereum/commit/8bb7f1ed115e224b50c5b75b719f891cfe659b9b) - 2025-03-29

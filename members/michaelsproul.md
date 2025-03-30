@@ -36,3 +36,6 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Prevent duplicate effective balance processing (#7209)](https://github.com/sigp/lighthouse/commit/0875326cb6885b9b40b79f3520ecac64bb5a3a00) - 2025-03-27
 * [Pull Request] [Prevent duplicate effective balance processing](https://github.com/sigp/lighthouse/pull/7209) - 2025-03-27
 * [Issue] [Add more Sepolia/Hoodi bootnodes](https://github.com/sigp/lighthouse/issues/7218) - 2025-03-28
+* [Commit] [Prevent duplicate effective balance processing (#7209)](https://github.com/sigp/lighthouse/commit/0875326cb6885b9b40b79f3520ecac64bb5a3a00) - 2025-03-29
+* [Pull Request] [Backmerge mar 29](https://github.com/sigp/lighthouse/pull/7224) - 2025-03-29
+* [Commit] [Trying more stuff](https://github.com/sigp/lighthouse/commit/1030d2e2031bcf3fb6a2c1e47e95fefce2068c1c) - 2025-03-29

@@ -38,3 +38,4 @@ Team: Nethermind
 * [Commit] [Auto-update fast sync settings (#8422)](https://github.com/NethermindEth/nethermind/commit/f2794bf0561b48ceade8762eb803c806b29c4a5e) - 2025-03-27
 * [Commit] [fix benchmarks](https://github.com/NethermindEth/nethermind/commit/75ab1b93e2b84e0e5bbce13e0e072f047a16c25e) - 2025-03-27
 * [Commit] [fix benchmarks](https://github.com/NethermindEth/nethermind/commit/291fff92d1acef1357a50d17c69976e79485f68b) - 2025-03-27
+* [Commit] [Added task count config for ILVM](https://github.com/NethermindEth/nethermind/commit/fc031d6c3de944f6f62873be87f0d01b1748ab61) - 2025-03-29

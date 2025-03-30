@@ -65,5 +65,9 @@ Team: Reth
 * [Commit] [fix: rm unsound transmute](https://github.com/paradigmxyz/reth/commit/2326489030f44c327132bd5876a50cd5bd164cf0) - 2025-03-28
 * [Issue] [Move cross validation into SupervisorClient](https://github.com/paradigmxyz/reth/issues/15372) - 2025-03-28
 * [Issue] [Add era1 file format support](https://github.com/paradigmxyz/reth/issues/15371) - 2025-03-28
+* [Issue] [Improve interop revalidation](https://github.com/paradigmxyz/reth/issues/15389) - 2025-03-29
+* [Issue] [Support more interop metrics](https://github.com/paradigmxyz/reth/issues/15387) - 2025-03-29
+* [Commit] [chore: phase out reth-primitives from reth-provider tests (#15384)](https://github.com/paradigmxyz/reth/commit/46b208ea9da9b928011cc97855f74c888e7e0c8b) - 2025-03-29
+* [Pull Request] [chore: phase out reth-primitives from reth-provider tests](https://github.com/paradigmxyz/reth/pull/15384) - 2025-03-29
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore: use revert error code for execution reverted](https://github.com/ethereum/go-ethereum/pull/31444) - 2025-03-20
