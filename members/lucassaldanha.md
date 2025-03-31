@@ -24,3 +24,4 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Bootnode Mode](https://github.com/Consensys/teku/issues/9277) - 2025-03-26
 * [Commit] [Bump ref-test to version v1.5.0-beta.3 (#9295)](https://github.com/Consensys/teku/commit/5a1e6ab4d864ff92a643fd706379bf35d68a01ad) - 2025-03-28
 * [Pull Request] [Bump ref-test to version v1.5.0-beta.3](https://github.com/Consensys/teku/pull/9295) - 2025-03-28
+* [Commit] [Bootnode only mode (#9280)](https://github.com/Consensys/teku/commit/4ced3a5cbbcf50d1f8393a34774519de19f0eeed) - 2025-03-30

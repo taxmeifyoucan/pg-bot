@@ -95,3 +95,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Lookup TxDecoder once per block](https://github.com/NethermindEth/nethermind/pull/8438) - 2025-03-28
 * [Pull Request] [Shrink Netty page size 16MB => 8MB](https://github.com/NethermindEth/nethermind/pull/8439) - 2025-03-29
 * [Commit] [Shrink Netty page size 16MB => 8MB](https://github.com/NethermindEth/nethermind/commit/f068bcd91ee1adfee62bc300ce7a9572938ee117) - 2025-03-29
+* [Commit] [t8n input processing (#7690)](https://github.com/NethermindEth/nethermind/commit/65055f1acd40defecb6ba3b2786d0b1ff92d4a08) - 2025-03-30
+* [Commit] [Also extract GenerateKeccak](https://github.com/NethermindEth/nethermind/commit/d0db6c55ae79d0f03fd5aae9a47db286cbe9518d) - 2025-03-30
+* [Commit] [Nullable](https://github.com/NethermindEth/nethermind/commit/ec0f47e4cab2f692853d9a9b083a47e1349757fd) - 2025-03-30
+* [Commit] [Format](https://github.com/NethermindEth/nethermind/commit/210a8ee9665694d6f93f73ed62a2c5664e82d9f3) - 2025-03-30
+* [Pull Request] [Increase hot code in Increase hot code in PruneCache](https://github.com/NethermindEth/nethermind/pull/8446) - 2025-03-30

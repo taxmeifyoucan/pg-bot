@@ -132,3 +132,13 @@ Team: Erigon
 * [Pull Request] [agg: ii schema](https://github.com/erigontech/erigon/pull/14359) - 2025-03-29
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d58a4a6bc69ddd5d8260e722c42fe11cfcf85fab) - 2025-03-29
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a67da73a40331ba95c1cf7c4abb696543d389013) - 2025-03-29
+* [Commit] [Expose sender address to diagnostics (#14358)](https://github.com/erigontech/erigon/commit/46620fa3531295d5109e7b92637db5a2736b2337) - 2025-03-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/715404e57079a6407edf20e3b6960bf99193c39b) - 2025-03-30
+* [Commit] [fix TestAggregator_RebuildCommitmentBasedOnFiles](https://github.com/erigontech/erigon/commit/54ecfe304bc4836434de254a6ee400077063bfea) - 2025-03-30
+* [Commit] [fix TestAggregator_RebuildCommitmentBasedOnFiles](https://github.com/erigontech/erigon/commit/b5984f4de643bce015e436ac44c0ece38bc0cf49) - 2025-03-30
+* [Commit] [fix TestAggregator_RebuildCommitmentBasedOnFiles](https://github.com/erigontech/erigon/commit/1f603de32c29ab6c93b7c074209329a86eca9981) - 2025-03-30
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/ec1b23716674b082e0340213313eadb6fbdbe7cc) - 2025-03-30
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/c1c0553faf85342b4fb12a8be9da30530e5f4d49) - 2025-03-30
+* [Commit] [shutter: test cmds to send shutter txns and check validator registrations (#14187)](https://github.com/erigontech/erigon/commit/a8f1cad7e439aa28e9cd0bc719f44e350bea095f) - 2025-03-30
+* [Commit] [Account Abstraction Execution (#14213)](https://github.com/erigontech/erigon/commit/f729390671180e231f6b45cc9ceb74d980d34263) - 2025-03-30
+* [Commit] [exclude manifest.txt from webseed check (#14362)](https://github.com/erigontech/erigon/commit/f0a98418970d935ab152574bc6f083da52e3897c) - 2025-03-30

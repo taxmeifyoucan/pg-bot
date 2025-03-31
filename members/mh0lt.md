@@ -39,3 +39,6 @@ Team: Erigon
 * [Commit] [don't reset parallel task state](https://github.com/erigontech/erigon/commit/e75fa5115f777927116ee5711486013ed722a81b) - 2025-03-29
 * [Commit] [pass pruneTimeout directly](https://github.com/erigontech/erigon/commit/1aa4f53c0b88f98f10b16df2d09e4a935be2e275) - 2025-03-29
 * [Commit] [rationalized commit](https://github.com/erigontech/erigon/commit/7813cde11237d9975e1fe6c9c26da30246e7be5c) - 2025-03-29
+* [Commit] [add tx/cursor map to remove domain ambiguity](https://github.com/erigontech/erigon/commit/447e889b02bd5b3d626e248a10566e35dba7968e) - 2025-03-30
+* [Issue] [Improve Native Torrent Network Performance](https://github.com/erigontech/erigon/issues/14365) - 2025-03-30
+* [Commit] [remove shared worker lock](https://github.com/erigontech/erigon/commit/d59777a98ab6c646be8ecef086f25690c3972145) - 2025-03-30

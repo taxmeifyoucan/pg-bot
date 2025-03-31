@@ -20,3 +20,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Anisdas)
 * [Commit] [Changelog](https://github.com/prysmaticlabs/prysm/commit/0d2209b2cfeefa4aef01aab69762b363f681c17b) - 2025-03-29
 * [Commit] [Get Withdrawals Working](https://github.com/prysmaticlabs/prysm/commit/50bb25ba893bbf5cf2018b077d07dfc906a2e907) - 2025-03-29
 * [Commit] [Get Evaluator Working](https://github.com/prysmaticlabs/prysm/commit/4cf80514e148e79b44bd692e68ed3b828e52311a) - 2025-03-29
+* [Commit] [fmt](https://github.com/prysmaticlabs/prysm/commit/a60d22ccb6358a0d93e9de6f414d5f30dea546ca) - 2025-03-30
+* [Commit] [fmt](https://github.com/prysmaticlabs/prysm/commit/65971e53eba5873715439e2f0c11fa1080cbe614) - 2025-03-30
+* [Commit] [Try again](https://github.com/prysmaticlabs/prysm/commit/8fd3d2cf15e70f201eb19a3e8a6ac024d767969b) - 2025-03-30
+* [Commit] [New line](https://github.com/prysmaticlabs/prysm/commit/cf4021508ca79d7f8d157801dfaa9237caa9cb3b) - 2025-03-30
+* [Commit] [Finally Passes](https://github.com/prysmaticlabs/prysm/commit/f0e2251db657e8f862b968291a1c399594a4bde9) - 2025-03-30

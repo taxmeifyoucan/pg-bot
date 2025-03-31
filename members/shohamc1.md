@@ -51,3 +51,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Account Abstraction Execution (#14213)](https://github.com/erigontech/erigon/commit/f729390671180e231f6b45cc9ceb74d980d34263) - 2025-03-29
 * [Commit] [tracer was always nil in NewInMemoryExecution (#14323)](https://github.com/erigontech/erigon/commit/5f692b66f091a0a886ccc1bf153505d3f08ccb38) - 2025-03-29
 * [Commit] [Remove TODO](https://github.com/erigontech/erigon/commit/0106df951f1905e28aba8780f291563b57623dd1) - 2025-03-29
+* [Commit] [rpcdaemon: Fix state sync events calltracer (#14360)](https://github.com/erigontech/erigon/commit/61a625a635f4b0d09467af149628d4e978efe7d5) - 2025-03-30
+* [Commit] [Add state sync logs to index (#14361)](https://github.com/erigontech/erigon/commit/10232d4d7a5075a5680728f055aea01818d396b0) - 2025-03-30
+* [Commit] [Defer](https://github.com/erigontech/erigon/commit/687277bbc813272bf21634e9942a683d5bd84ad8) - 2025-03-30
+* [Commit] [Don't write to domain](https://github.com/erigontech/erigon/commit/595cda6691c79a5d79ccfbfda6776a8d9662d6e0) - 2025-03-30

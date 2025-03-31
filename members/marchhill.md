@@ -34,3 +34,5 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [add test of force rebuild payload](https://github.com/NethermindEth/nethermind/commit/b14e50cb365637ba4d1565c382f2ce05db44d5d5) - 2025-03-27
 * [Commit] [more tidying](https://github.com/NethermindEth/nethermind/commit/61f320c53efd58bba5d098abe53242c766d7c574) - 2025-03-27
 * [Commit] [remove unused ecdsa payloadattributes](https://github.com/NethermindEth/nethermind/commit/169a5ff887fb971ecd1392bf0d5ce896bf1dffbf) - 2025-03-27
+* [Commit] [fix gnosis state / blockchain tests runner (#8216)](https://github.com/NethermindEth/nethermind/commit/9eef599469759bbbcaacd888d44441005c419667) - 2025-03-30
+* [Pull Request] [Add prewarm cache to TransactionProcessorTests](https://github.com/NethermindEth/nethermind/pull/8447) - 2025-03-30
