@@ -11,3 +11,4 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Do not return gas cost along with ExceptionalHaltReason in OperationResult unless OOG](https://github.com/hyperledger/besu/pull/7919) - 2025-03-24
+* [Pull Request] [Implement EIP-5920 - PAY opcode](https://github.com/hyperledger/besu/pull/8498) - 2025-03-31

@@ -12,3 +12,6 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7623: add extra comment about worst case EL payload sizes](https://github.com/ethereum/EIPs/pull/9555) - 2025-03-27
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Stateless Implementers Call #33](https://github.com/ethereum/pm/issues/1418) - 2025-03-31

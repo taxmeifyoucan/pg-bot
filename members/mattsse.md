@@ -69,5 +69,9 @@ Team: Reth
 * [Issue] [Support more interop metrics](https://github.com/paradigmxyz/reth/issues/15387) - 2025-03-29
 * [Commit] [chore: phase out reth-primitives from reth-provider tests (#15384)](https://github.com/paradigmxyz/reth/commit/46b208ea9da9b928011cc97855f74c888e7e0c8b) - 2025-03-29
 * [Pull Request] [chore: phase out reth-primitives from reth-provider tests](https://github.com/paradigmxyz/reth/pull/15384) - 2025-03-29
+* [Pull Request] [fix: mark chain as global and update usage](https://github.com/paradigmxyz/reth/pull/15409) - 2025-03-31
+* [Issue] [Move reth::Cli into reth_ethereum_cli crate](https://github.com/paradigmxyz/reth/issues/15404) - 2025-03-31
+* [Pull Request] [chore: add alias for ws.origins](https://github.com/paradigmxyz/reth/pull/15403) - 2025-03-31
+* [Pull Request] [chore: rm incorrect debug_assert](https://github.com/paradigmxyz/reth/pull/15402) - 2025-03-31
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore: use revert error code for execution reverted](https://github.com/ethereum/go-ethereum/pull/31444) - 2025-03-20

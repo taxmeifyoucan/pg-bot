@@ -36,3 +36,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [remove unused ecdsa payloadattributes](https://github.com/NethermindEth/nethermind/commit/169a5ff887fb971ecd1392bf0d5ce896bf1dffbf) - 2025-03-27
 * [Commit] [fix gnosis state / blockchain tests runner (#8216)](https://github.com/NethermindEth/nethermind/commit/9eef599469759bbbcaacd888d44441005c419667) - 2025-03-30
 * [Pull Request] [Add prewarm cache to TransactionProcessorTests](https://github.com/NethermindEth/nethermind/pull/8447) - 2025-03-30
+* [Commit] [fix whitespace](https://github.com/NethermindEth/nethermind/commit/eb69a7fb6f7a82b370e8908cd87ee37239fdf14d) - 2025-03-31
+* [Pull Request] [Minor refactoring and optimisations](https://github.com/NethermindEth/nethermind/pull/8451) - 2025-03-31
+* [Commit] [fork activation, remove old usings](https://github.com/NethermindEth/nethermind/commit/8ed54f6372cc7fdd9ab5af8118cce3618436b209) - 2025-03-31
+* [Commit] [custom 7805 fork](https://github.com/NethermindEth/nethermind/commit/8d54857483fb366e27925817e8a5f82b6ac297f5) - 2025-03-31
+* [Pull Request] [Fix: use gnosis forks consistently](https://github.com/NethermindEth/nethermind/pull/8448) - 2025-03-31
+* [Commit] [Add prewarm cache to TransactionProcessorTests (#8447)](https://github.com/NethermindEth/nethermind/commit/7a353a3dea621708e5b7b614b65f410a0571d919) - 2025-03-31

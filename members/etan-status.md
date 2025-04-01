@@ -23,3 +23,4 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump hoodi to 08dd242abdb1f93026453bf8e63e6bba1c7b1bc1](https://github.com/status-im/nimbus-eth2/pull/7035) - 2025-03-26
 * [Pull Request] [Bump nim-snappy to 829133735113951b219e3b108a6bd2146209300b](https://github.com/status-im/nimbus-eth2/pull/7034) - 2025-03-26
 * [Pull Request] [Bump geth to v1.15.6](https://github.com/status-im/nimbus-eth2/pull/7033) - 2025-03-26
+* [Pull Request] [Bump geth to v1.15.7](https://github.com/status-im/nimbus-eth2/pull/7041) - 2025-03-31

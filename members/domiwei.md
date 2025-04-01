@@ -16,3 +16,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/c684c79768082c0b12ab075c9a630bab19fcd609) - 2025-03-27
 * [Pull Request] [Include execution requests in produced block](https://github.com/erigontech/erigon/pull/14326) - 2025-03-27
 * [Commit] [update](https://github.com/erigontech/erigon/commit/af7b9f958e81442c91c268e3495632292afdd959) - 2025-03-28
+* [Commit] [update](https://github.com/erigontech/erigon/commit/57de0a89eb4cb0a4391c7617a6fb6c3f5183fb3b) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/6978fd416e3e4612b636253c39b275ccc0a623bd) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/e91a686425d92d7fdf5bd0e89f752814956c1974) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/d33d534862c0bffd166095d5bb6f7385fc51ac81) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/3383cdf75d833360e502228538341fcda5c0068e) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/25c6bfcf1aba12034eb47841ca1b0aa158680426) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/d03d6593483d77b2f71164ef0d6104b8fd7247be) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/2e547d37354c3aa41c00e6f78bef1ed984f0ad29) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/cbfd3c7fa537d23f26b2fb2d75723d76a533e942) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/8b3ff9b580f1722a92d9c73164ba41aa26c9d7b8) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/8c3c397637c111aed8d6e050b619cacf505e0da7) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/f8a96d02464112f93706cc627b374da9be529106) - 2025-03-31
+* [Commit] [update](https://github.com/erigontech/erigon/commit/980cb3bd88c8ddf96d6bd94304ae64057b99d8ab) - 2025-03-31
+* [Commit] [Include execution requests in produced block (#14326)](https://github.com/erigontech/erigon/commit/a59322644406c0a18827cd7f469f0ac87a4fa736) - 2025-03-31

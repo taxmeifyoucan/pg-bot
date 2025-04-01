@@ -28,3 +28,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [feat: add custom transaction type to custom-node example](https://github.com/paradigmxyz/reth/pull/15296) - 2025-03-26
 * [Commit] [revert CustomTransaction usage](https://github.com/paradigmxyz/reth/commit/6edc67b2b1fc25173a7a9fbb5f2a78a21b93f6cf) - 2025-03-27
 * [Commit] [OpStorage](https://github.com/paradigmxyz/reth/commit/e965bb2464610db007413a9efe1144048d032373) - 2025-03-27
+* [Commit] [comment](https://github.com/paradigmxyz/reth/commit/b5547a6388f30d2aac9fc424aa053f2c9f8a5d70) - 2025-03-31
+* [Commit] [more on reth-optimism-node deps](https://github.com/paradigmxyz/reth/commit/39cbb1a83d5a2769b906e97e6808100bf947d0cd) - 2025-03-31
+* [Commit] [reth-optimism-node deps](https://github.com/paradigmxyz/reth/commit/aae49b0c8d3bf383d3f17d73a4b43ecab6f1c19f) - 2025-03-31
+* [Commit] [fix book](https://github.com/paradigmxyz/reth/commit/1d597e4d00355bcb5844db601939999d1653e8a4) - 2025-03-31
+* [Commit] [chore: remove unused deps](https://github.com/paradigmxyz/reth/commit/c0df2c5109b3f6771b3cf6fb5dd43533ac198317) - 2025-03-31
+* [Pull Request] [chore: remove unused deps](https://github.com/paradigmxyz/reth/pull/15416) - 2025-03-31
+* [Pull Request] [feat: impl SerdeBincodeCompat for ExtendedOpTxEnvelope](https://github.com/paradigmxyz/reth/pull/15414) - 2025-03-31

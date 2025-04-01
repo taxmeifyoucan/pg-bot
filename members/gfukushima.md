@@ -17,3 +17,5 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Trim doppelgang log at epoch](https://github.com/Consensys/teku/pull/9288) - 2025-03-27
 * [Commit] [update besu (#9296)](https://github.com/Consensys/teku/commit/2823ba95f767a0a54e7cb0071c45ded6fc331665) - 2025-03-28
 * [Pull Request] [update besu stable version](https://github.com/Consensys/teku/pull/9296) - 2025-03-28
+* [Commit] [Re-enable consolidation AT  (#9303)](https://github.com/Consensys/teku/commit/d1784ba84f6fcb6a384def2b01a820f701e295c7) - 2025-03-31
+* [Pull Request] [Enable Consolidation atest](https://github.com/Consensys/teku/pull/9303) - 2025-03-31

@@ -12,3 +12,4 @@ Team: Geth
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Commit] [internal/ethapi: fix logs bloom in eth_simulateV1 (#31411)](https://github.com/ethereum/go-ethereum/commit/e5f4b274b39df4e8a44b9bc14294cef8ebb91bd2) - 2025-03-18
+* [Pull Request] [.gitignore: ignore binaries](https://github.com/ethereum/go-ethereum/pull/31531) - 2025-03-31

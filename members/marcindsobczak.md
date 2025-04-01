@@ -31,3 +31,4 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [add error InvalidProofVersion](https://github.com/NethermindEth/nethermind/commit/f52c9a24117e25adcd1ecc1a9fd5c27cc35ed336) - 2025-03-27
 * [Commit] [fix file encoding](https://github.com/NethermindEth/nethermind/commit/abf7c8cd499f80f2f0ff69b73bcad846bf0e009d) - 2025-03-27
 * [Commit] [add ProofVersion to ChainHeadInfoProvider and add SpecDrivenTxGossipPolicy](https://github.com/NethermindEth/nethermind/commit/ae4a58ab35a3f53e9b27c8c86123ced829878bce) - 2025-03-27
+* [Commit] [Shutter: fix shutdown dispose (#8418)](https://github.com/NethermindEth/nethermind/commit/ca8afe50fb838315fef9c88659d86ac0555075e3) - 2025-03-31

@@ -30,5 +30,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/c390671fc4074532d0be0b11d04dd85469e1b2a1) - 2025-03-27
 * [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/7805846a7b45bcf96cbafe866ef46d76ef79ca2e) - 2025-03-27
 * [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/69786f32f84be6a10796655701b8614e17c55600) - 2025-03-27
+* [Commit] [Add new vars defined in consensus-spec (#15101)](https://github.com/prysmaticlabs/prysm/commit/f304028874abbe08259d8d25147d7c309b872614) - 2025-03-31
+* [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/ee4e09effe9f919a5f3af05a17190b713aea71c5) - 2025-03-31
+* [Commit] [Implement data columns storage](https://github.com/prysmaticlabs/prysm/commit/edf8b7919a14e7a100a5535e2d169510bcbd5cf4) - 2025-03-31
+* [Pull Request] [Niran/rescue unavailable cols](https://github.com/prysmaticlabs/prysm/pull/15107) - 2025-03-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fulu validator custody: Use finalized state as inactivity leak protection.](https://github.com/ethereum/consensus-specs/pull/4211) - 2025-03-26

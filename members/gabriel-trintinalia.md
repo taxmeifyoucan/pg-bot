@@ -19,3 +19,5 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [refactor: decouple encoding/decoding logic from TransactionReceipt](https://github.com/hyperledger/besu/pull/8476) - 2025-03-27
 * [Issue] [Use earliestBlock of Status Message to better find suitable peers when Eth/69](https://github.com/hyperledger/besu/issues/8475) - 2025-03-27
 * [Issue] [Implement eth/69](https://github.com/hyperledger/besu/issues/8474) - 2025-03-27
+* [Pull Request] [Remove support to eth/62, eth/63, eth/64 and eth/65](https://github.com/hyperledger/besu/pull/8492) - 2025-03-31
+* [Commit] [test: update tests to the latest protocol version (#8458)](https://github.com/hyperledger/besu/commit/683947b60eb4b0b85c0a43f2e370a719ac6dc73e) - 2025-03-31

@@ -81,3 +81,25 @@ Team: Reth
 * [Commit] [move tracing init](https://github.com/paradigmxyz/reth/commit/b1d6c22879f82d4129f562b77280078e3d1a53ed) - 2025-03-27
 * [Pull Request] [test(trie): trie node iter test to demonstrate unneeded seeks](https://github.com/paradigmxyz/reth/pull/15322) - 2025-03-27
 * [Issue] [Testing ExEx to run in the CI](https://github.com/paradigmxyz/reth/issues/15319) - 2025-03-27
+* [Commit] [fix tests](https://github.com/paradigmxyz/reth/commit/377a040c7e51ae3ffefddff727cb7da8a9466ee8) - 2025-03-31
+* [Commit] [is out of bounds helper](https://github.com/paradigmxyz/reth/commit/21e54b6a5d3cff68064200fc70b06139646eee21) - 2025-03-31
+* [Commit] [is out of bounds helper](https://github.com/paradigmxyz/reth/commit/6c38c3292e2272bc1b2dac09baa9af19904b2fbe) - 2025-03-31
+* [Commit] [fix comments](https://github.com/paradigmxyz/reth/commit/bcc7c11e023e250c1c29f172a2c33ff89f1c2f80) - 2025-03-31
+* [Commit] [fix comments](https://github.com/paradigmxyz/reth/commit/65de83dd0898412152a193bb943a9b718100059d) - 2025-03-31
+* [Commit] [rename to pointer](https://github.com/paradigmxyz/reth/commit/30bbdf1e248fffcc4e4d65ede84d3872e453a7fa) - 2025-03-31
+* [Commit] [rename to pointer](https://github.com/paradigmxyz/reth/commit/61dbabb07c011c08a985f39d9818688ba7c8c239) - 2025-03-31
+* [Commit] [rename to pointer](https://github.com/paradigmxyz/reth/commit/306d56ac2e5679034c873408ec23fd9c216875a2) - 2025-03-31
+* [Commit] [rename to pointer](https://github.com/paradigmxyz/reth/commit/fcd2c3f8d61f1553375d8798c4dabee6aa6e1e16) - 2025-03-31
+* [Pull Request] [refactor(trie): introduce Nibble enum](https://github.com/paradigmxyz/reth/pull/15420) - 2025-03-31
+* [Pull Request] [docs(trie): trie node iterat walker check flag](https://github.com/paradigmxyz/reth/pull/15418) - 2025-03-31
+* [Commit] [fix test](https://github.com/paradigmxyz/reth/commit/a4c2e5b1f33bfb26f0e62082bbb1d0f71af77935) - 2025-03-31
+* [Commit] [remove map](https://github.com/paradigmxyz/reth/commit/45cd696c7a9ac731fecd900fc068207ddd34a0ff) - 2025-03-31
+* [Commit] [add comment](https://github.com/paradigmxyz/reth/commit/b9b70b2bad2a9a025859afc99d3bb61ba42e9907) - 2025-03-31
+* [Commit] [check walker key has a prefix of the next unprocessed key](https://github.com/paradigmxyz/reth/commit/2ac981d8bce3c2afb14736a6c7b278e2fff00498) - 2025-03-31
+* [Commit] [revertme: more logs for walker advance](https://github.com/paradigmxyz/reth/commit/829cae827bb0b1be5b94738823faf51664a844b8) - 2025-03-31
+* [Commit] [log storage proof walker nodes](https://github.com/paradigmxyz/reth/commit/eeb74434ead791415edbb39612faee1f98673a02) - 2025-03-31
+* [Commit] [log storage proofs](https://github.com/paradigmxyz/reth/commit/83e648eae4ae08d7ab2a34fce0ea79eb384692e8) - 2025-03-31
+* [Commit] [log only subtree and sort it](https://github.com/paradigmxyz/reth/commit/6f0d6b85973a9b8d70e359ba15d4948c64a95e31) - 2025-03-31
+* [Pull Request] [fix(engine): fetch account proof on wiped storage](https://github.com/paradigmxyz/reth/pull/15415) - 2025-03-31
+* [Pull Request] [deps: bump libmdbx to 0.12.13](https://github.com/paradigmxyz/reth/pull/15413) - 2025-03-31
+* [Pull Request] [deps: bump libmdbx to 0.13.5](https://github.com/paradigmxyz/reth/pull/15412) - 2025-03-31

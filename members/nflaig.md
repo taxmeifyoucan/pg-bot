@@ -19,3 +19,5 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Pin github actions by commit hash](https://github.com/ChainSafe/lodestar/issues/7618) - 2025-03-24
 * [Pull Request] [chore: fix query in "Heap Allocations - Beacon Node and Validator" panel](https://github.com/ChainSafe/lodestar/pull/7627) - 2025-03-26
 * [Pull Request] [feat: make committee_index optional for post-electra produce attestation data calls](https://github.com/ChainSafe/lodestar/pull/7626) - 2025-03-26
+* [Commit] [Less naive calculation of slots to retain](https://github.com/ChainSafe/lodestar/commit/ac76de2c5a581a59bf6bd75a9dfab95aa99352a5) - 2025-03-31
+* [Pull Request] [fix: update pruning to account for increase of max attestation inclusion slot post-deneb](https://github.com/ChainSafe/lodestar/pull/7636) - 2025-03-31

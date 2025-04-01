@@ -30,3 +30,9 @@ Team: Erigon
 * [Commit] [Add consume-rlp](https://github.com/erigontech/erigon/commit/75cb755c2db264d1526cc490df831fddbcd2e2e2) - 2025-03-26
 * [Commit] [Add custom lifecycle test](https://github.com/erigontech/erigon/commit/12d67646a559f1a9d6433a18d27f3ef753933a29) - 2025-03-27
 * [Commit] [Updates in github actions (-latest runners, etc). (#14302)](https://github.com/erigontech/erigon/commit/7cbf6436e1a732c5904e2ee60312fd047a899d95) - 2025-03-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6fad383fe55f7b7b0907c5ca18afa81d0cc6f50c) - 2025-03-31
+* [Commit] [Save](https://github.com/erigontech/erigon/commit/09be387fa8c3337e62a48ec17a4204ed5c1045bf) - 2025-03-31
+* [Commit] [Update](https://github.com/erigontech/erigon/commit/f50bcd8d3e3dc1d7be788112161f5e64f56bc624) - 2025-03-31
+* [Commit] [el triggered exits](https://github.com/erigontech/erigon/commit/3ecef2dce1f3a99f4f7fc6b6691f6450e56b8e04) - 2025-03-31
+* [Commit] [Add consolidation of consolidations](https://github.com/erigontech/erigon/commit/9c41963505391d94fe6f51451e9f0ec1194c9b61) - 2025-03-31
+* [Commit] [Add el consolidation test](https://github.com/erigontech/erigon/commit/852de1e594923343ced91172754d75fba0223e93) - 2025-03-31

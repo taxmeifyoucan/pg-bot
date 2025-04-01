@@ -45,3 +45,6 @@ Team: Reth
 * [Commit] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/commit/d42a895151cbf22801271b38160b93e41e148de3) - 2025-03-28
 * [Commit] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/commit/779aaf26fa18dc1a40eedb5420d0d4a45a9d47f3) - 2025-03-28
 * [Commit] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/commit/b2d6aeda08f56b63ad37dd58377ef60f676d24e4) - 2025-03-28
+* [Commit] [chore: improve log messages and order](https://github.com/paradigmxyz/reth/commit/bc18ebcee10eedb31fe5a795d2732c9c365c35e4) - 2025-03-31
+* [Commit] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/commit/f62e400e5220a70b6dd359ab6f3ac1c012d9e0ac) - 2025-03-31
+* [Commit] [fix(trie): chunk hashed post state properly](https://github.com/paradigmxyz/reth/commit/bbe5f622cf07fb6e913b940b984395b599c1df7f) - 2025-03-31

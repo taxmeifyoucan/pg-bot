@@ -25,3 +25,4 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Anisdas)
 * [Commit] [Try again](https://github.com/prysmaticlabs/prysm/commit/8fd3d2cf15e70f201eb19a3e8a6ac024d767969b) - 2025-03-30
 * [Commit] [New line](https://github.com/prysmaticlabs/prysm/commit/cf4021508ca79d7f8d157801dfaa9237caa9cb3b) - 2025-03-30
 * [Commit] [Finally Passes](https://github.com/prysmaticlabs/prysm/commit/f0e2251db657e8f862b968291a1c399594a4bde9) - 2025-03-30
+* [Commit] [Fix Test](https://github.com/prysmaticlabs/prysm/commit/2aac2106b53df6cf1d1fb9828b2d27e638502a4a) - 2025-03-31

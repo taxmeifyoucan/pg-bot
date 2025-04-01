@@ -35,3 +35,5 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(consume): enable logging, propagate logs to hive results](https://github.com/ethereum/execution-spec-tests/pull/1361) - 2025-03-27
 * [Commit] [feat(consume): propagate stdout and stderr in hive test result](https://github.com/ethereum/execution-spec-tests/commit/00b37a07fae1867a99352d00fd894272229915f5) - 2025-03-27
 * [Issue] [feat(fill,consume): enable `xfail`/`skip` marking of tests on a per client basis](https://github.com/ethereum/execution-spec-tests/issues/1363) - 2025-03-28
+* [Commit] [Deployed 487036026d to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/05335ae376272b5558a460cd7f780fc9e19b555b) - 2025-03-31
+* [Issue] [chore(tooling): clean-up old `gh-pages` versions due to large clone size](https://github.com/ethereum/execution-spec-tests/issues/1369) - 2025-03-31

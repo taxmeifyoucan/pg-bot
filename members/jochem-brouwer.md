@@ -15,3 +15,4 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Write tests for new, strict rules of EIP-6110 (Deposit requests)](https://github.com/ethereum/execution-spec-tests/issues/1360) - 2025-03-27
+* [Pull Request] [Eip6110 event layout tests](https://github.com/ethereum/execution-spec-tests/pull/1371) - 2025-03-31

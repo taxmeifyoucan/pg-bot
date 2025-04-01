@@ -23,3 +23,5 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Update src/ethereum_test_specs/base_static.py](https://github.com/ethereum/execution-spec-tests/commit/8e28d30a4407dec5f26970ef19b1de0c39132295) - 2025-03-24
 * [Commit] [Add more encoding tests](https://github.com/ethereum/execution-spec-tests/commit/2468227ed5f0f4fe18ef3bd371eb6dc3818b10e7) - 2025-03-24
 * [Pull Request] [new(tests): EIP-7702 more RLP tests](https://github.com/ethereum/execution-spec-tests/pull/1347) - 2025-03-25
+* [Commit] [More cases](https://github.com/ethereum/execution-spec-tests/commit/a4ae4cc85ad0fce34cb53391acb3d0569a65bac7) - 2025-03-31
+* [Commit] [chore(plugins/consume): update hive ruleset and add osaka (#1355)](https://github.com/ethereum/execution-spec-tests/commit/487036026dff9bb286227d3b44522bb026982757) - 2025-03-31

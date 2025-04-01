@@ -19,3 +19,4 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update run-a-single-node-from-branch.yml](https://github.com/NethermindEth/nethermind/commit/9759d0b9a6d5e72cd10b78e4e9a8e24c2fe1a97c) - 2025-03-20
 * [Commit] [Update sync-supported-chains.yml](https://github.com/NethermindEth/nethermind/commit/a07decd0ade0acaff4239aef63e800afb291376f) - 2025-03-20
 * [Issue] [Optimized memory effective config (research and documentation)](https://github.com/NethermindEth/nethermind/issues/8433) - 2025-03-27
+* [Commit] [Use different tags for Hekla and Alethia (#8411)](https://github.com/NethermindEth/nethermind/commit/d6289b13b7f0bf0794a05a6bceb861da778b9c47) - 2025-03-31

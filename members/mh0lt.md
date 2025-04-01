@@ -42,3 +42,7 @@ Team: Erigon
 * [Commit] [add tx/cursor map to remove domain ambiguity](https://github.com/erigontech/erigon/commit/447e889b02bd5b3d626e248a10566e35dba7968e) - 2025-03-30
 * [Issue] [Improve Native Torrent Network Performance](https://github.com/erigontech/erigon/issues/14365) - 2025-03-30
 * [Commit] [remove shared worker lock](https://github.com/erigontech/erigon/commit/d59777a98ab6c646be8ecef086f25690c3972145) - 2025-03-30
+* [Commit] [sync update tx and state in workers](https://github.com/erigontech/erigon/commit/c3ed36f87a1875cc74322a0d8726d56600463c00) - 2025-03-31
+* [Commit] [copy mutex as well as map](https://github.com/erigontech/erigon/commit/aace0e76ea5b1b4a9bf208f6432143a05bdceb93) - 2025-03-31
+* [Commit] [lock resettx](https://github.com/erigontech/erigon/commit/3cf6669c3cd48105fa2690707a54d5d3ef5bdc5c) - 2025-03-31
+* [Commit] [nil tx error](https://github.com/erigontech/erigon/commit/86b21b795e2541a21d6dc67eeb251c5ee2a1dfd1) - 2025-03-31

@@ -16,3 +16,4 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Fix timers for validator_duty metrics (#9282)](https://github.com/Consensys/teku/commit/bce54f29cc7432fc47ea065b738c0d8f6071447a) - 2025-03-26
 * [Pull Request] [Fix timers for validator_duty metrics](https://github.com/Consensys/teku/pull/9282) - 2025-03-26
 * [Pull Request] [Enable validator-duty metrics by default](https://github.com/Consensys/teku/pull/9289) - 2025-03-27
+* [Commit] [Fix seen aggregation cache electra (#9301)](https://github.com/Consensys/teku/commit/a5a1a2a112a2b30e96dbddb55e3f6186c654ddee) - 2025-03-31

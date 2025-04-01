@@ -33,3 +33,5 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [save](https://github.com/erigontech/erigon/pull/14315) - 2025-03-27
 * [Commit] [get test going](https://github.com/erigontech/erigon/commit/dfad0b91f32bf14c6e10a34819ae1351c5e007da) - 2025-03-27
 * [Commit] [save](https://github.com/erigontech/erigon/commit/73a2daafb5b947872cc78b9fd29f3a0870fa03bb) - 2025-03-27
+* [Issue] [APIs to add/remove/replace snapshot (silkworm support)](https://github.com/erigontech/erigon/issues/14368) - 2025-03-31
+* [Issue] [get refcount + canDelete (or similar mechanism) to work with silkworm](https://github.com/erigontech/erigon/issues/14367) - 2025-03-31

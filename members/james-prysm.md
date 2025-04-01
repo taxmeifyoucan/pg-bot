@@ -30,3 +30,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [combining unit tests](https://github.com/prysmaticlabs/prysm/commit/d5b5226c3ff0711e8da3c50d300820994819de82) - 2025-03-27
 * [Commit] [increasing backoff period](https://github.com/prysmaticlabs/prysm/commit/abf9d92d82e2f4090d75a9c2b406cececaf36d18) - 2025-03-27
 * [Commit] [validator client initialization cleanup (#15080)](https://github.com/prysmaticlabs/prysm/commit/e3fb4e86ec851643b747d04e77720d0be7ed0eec) - 2025-03-28
+* [Commit] [removing unused import](https://github.com/prysmaticlabs/prysm/commit/a1b2217480affcdfbff645630b4854d42a927e2b) - 2025-03-31
+* [Commit] [Update beacon-chain/rpc/prysm/v1alpha1/validator/proposer_attestations_electra.go](https://github.com/prysmaticlabs/prysm/commit/ab74129aa776d74dc2413d2cdb07d7e3e624b5bc) - 2025-03-31
+* [Commit] [Prune pending deposits from the deposit cache post-Electra (#14829)](https://github.com/prysmaticlabs/prysm/commit/557c5be4335d7e02dc5a899830cba8323d8ef467) - 2025-03-31
+* [Pull Request] [removed redundant mock validator and replaced with test util one](https://github.com/prysmaticlabs/prysm/pull/15111) - 2025-03-31
+* [Commit] [refactor state-by-root test to table-driven (#15087)](https://github.com/prysmaticlabs/prysm/commit/1b65e000963be3ab6615be861385617e64b95f43) - 2025-03-31
+* [Pull Request] [removing redundant loop in computeOnChainAggregate](https://github.com/prysmaticlabs/prysm/pull/15108) - 2025-03-31

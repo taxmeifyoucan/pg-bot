@@ -28,5 +28,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [fix IL duty loader](https://github.com/Consensys/teku/commit/1825ec63f6a98c0e962783f73faa64dbc34bbd4a) - 2025-03-27
 * [Commit] [add --Xp2p-private-key-file-ecdsa and --Xp2p-private-key-file-secp256k1 (#9261)](https://github.com/Consensys/teku/commit/61d4a0fecacd65d8e141b3a8529bcb3fcbfaac1a) - 2025-03-27
 * [Commit] [remove unused logger](https://github.com/Consensys/teku/commit/6420d07741fef35f709a75bad434208e64c7c6dd) - 2025-03-27
+* [Pull Request] [Focil fork version](https://github.com/Consensys/teku/pull/9307) - 2025-03-31
+* [Commit] [fix spec config test (#9306)](https://github.com/Consensys/teku/commit/8ad79cc3855f71ed543051990823ba1959591e1a) - 2025-03-31
+* [Pull Request] [fix spec config test](https://github.com/Consensys/teku/pull/9306) - 2025-03-31
+* [Commit] [update focil fork version (#9305)](https://github.com/Consensys/teku/commit/4731aeeede9cbc903b29e9c8408a79abd46edbc7) - 2025-03-31
+* [Pull Request] [update focil fork version](https://github.com/Consensys/teku/pull/9305) - 2025-03-31
+* [Commit] [update deposit requests state index in state transition (#9304)](https://github.com/Consensys/teku/commit/e0553b149b0c46866b0ff8d735edf9aff492503e) - 2025-03-31
+* [Pull Request] [update deposit requests state index in state transition](https://github.com/Consensys/teku/pull/9304) - 2025-03-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [FOCIL - EIP7805 - Use MAX_TRANSACTIONS_PER_PAYLOAD for InclusionList transactions size](https://github.com/ethereum/consensus-specs/pull/4220) - 2025-03-27

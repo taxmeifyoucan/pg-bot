@@ -55,3 +55,5 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Add state sync logs to index (#14361)](https://github.com/erigontech/erigon/commit/10232d4d7a5075a5680728f055aea01818d396b0) - 2025-03-30
 * [Commit] [Defer](https://github.com/erigontech/erigon/commit/687277bbc813272bf21634e9942a683d5bd84ad8) - 2025-03-30
 * [Commit] [Don't write to domain](https://github.com/erigontech/erigon/commit/595cda6691c79a5d79ccfbfda6776a8d9662d6e0) - 2025-03-30
+* [Commit] [Fix `eth_sendRawTransaction` for AA transactions (#14366)](https://github.com/erigontech/erigon/commit/df85a9a43f899a69a3c3ce7b894364c0891dd662) - 2025-03-31
+* [Pull Request] [Fix `eth_sendRawTransaction` for AA transactions](https://github.com/erigontech/erigon/pull/14366) - 2025-03-31

@@ -25,3 +25,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [State that effective balance should be used (#4218)](https://github.com/ethereum/consensus-specs/commit/c95d1df58fb185c5c96773be88dd6fc15225bf1f) - 2025-03-28
 * [Commit] [Use finalized state for Fulu validator custody (#4211)](https://github.com/ethereum/consensus-specs/commit/03befe38aeabb76f0d49544ce264235abf991317) - 2025-03-28
 * [Commit] [Add Distributed Blob Publishing to Fulu networking spec (#4183)](https://github.com/ethereum/consensus-specs/commit/420adfb9241ea7e63047a569667456b9042ac0f0) - 2025-03-28
+* [Commit] [Add withdrawal_and_consolidation_effective_balance_updates test (#4239)](https://github.com/ethereum/consensus-specs/commit/1557d7b89563a45f57cfe91a969091dcb03ecb4a) - 2025-03-31
+* [Commit] [Add multiple_pending_deposits_same_pubkey_different_signature test (#4238)](https://github.com/ethereum/consensus-specs/commit/26094aeb29e7ede4289b91988f7d9ed0bf8a6578) - 2025-03-31
+* [Commit] [Add full_pending_withdrawals_but_first_skipped_* tests (#4237)](https://github.com/ethereum/consensus-specs/commit/62988ca0572e854731a567d45ce5c29797efd0fc) - 2025-03-31
+* [Commit] [Round down value when setting validator's effective balance (#4229)](https://github.com/ethereum/consensus-specs/commit/cc89f3dc2eac36320ca157d4e4e8550c84e891b3) - 2025-03-31
+* [Pull Request] [Add withdrawal_and_consolidation_effective_balance_updates test](https://github.com/ethereum/consensus-specs/pull/4239) - 2025-03-31
+* [Pull Request] [Add `full_pending_withdrawals_but_first_skipped_*` tests](https://github.com/ethereum/consensus-specs/pull/4237) - 2025-03-31
+* [Commit] [Bump version to v1.5.0-beta.4 (#4236)](https://github.com/ethereum/consensus-specs/commit/69739e399d9a8c60371fbea7472461034a8dae98) - 2025-03-31
+* [Pull Request] [Bump version to v1.5.0-beta.4](https://github.com/ethereum/consensus-specs/pull/4236) - 2025-03-31
+* [Pull Request] [Release v1.5.0-beta.4](https://github.com/ethereum/consensus-specs/pull/4235) - 2025-03-31
