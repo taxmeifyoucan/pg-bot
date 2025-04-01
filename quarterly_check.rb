@@ -1,14 +1,15 @@
 require 'fileutils'
 require 'date'
+require 'optparse'
 
 class QuarterlyAudit
-  def initialize(members_dir)
+  def initialize(members_dir, options = {})
     @members_dir = members_dir
-    @current_quarter = get_current_quarter
+    @quarter = options[:quarter] || get_current_quarter
   end
   
   def run_audit
-    puts "Running quarterly check for #{@current_quarter}..."
+    puts "Running quarterly check for #{@quarter}..."
     members = get_all_members
     inactive_members = []
     
@@ -17,7 +18,7 @@ class QuarterlyAudit
       next unless File.exist?(file_path)
       
       content = File.read(file_path)
-      if !has_contributions_in_quarter?(content, @current_quarter)
+      if !has_contributions_in_quarter?(content, @quarter)
         inactive_members << username
       end
     end
@@ -57,10 +58,10 @@ class QuarterlyAudit
   end
   
   def print_inactive_members(inactive_members)
-    puts "INACTIVE_MEMBERS_TITLE=Quarterly Contribution Check: Inactive Members for #{@current_quarter}"
+    puts "INACTIVE_MEMBERS_TITLE=Quarterly Contribution Check: Inactive Members for #{@quarter}"
     
     puts "INACTIVE_MEMBERS_BODY<<EOF"
-    puts "## Inactive Members for #{@current_quarter}\n"
+    puts "## Inactive Members for #{@quarter}\n"
     puts "The following members have no recorded contributions this quarter:\n"
     
     inactive_members.each do |username|
@@ -74,7 +75,23 @@ end
 
 if __FILE__ == $0
   members_dir = 'members'
+  options = {}
   
-  audit = QuarterlyAudit.new(members_dir)
+  parser = OptionParser.new do |opts|
+    opts.banner = "Usage: ruby quarterly_check.rb [options]"
+    
+    opts.on("-q", "--quarter QUARTER", "Specify quarter to check (e.g.'Q1 2025')") do |q|
+      options[:quarter] = q
+    end
+    
+    opts.on("-h", "--help", "Show this help message") do
+      puts opts
+      exit
+    end
+  end
+  
+  parser.parse!
+  
+  audit = QuarterlyAudit.new(members_dir, options)
   audit.run_audit
 end 
