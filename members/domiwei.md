@@ -8,6 +8,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q2 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [update](https://github.com/erigontech/erigon/commit/4f9b355c52f8fbb7424e2fcc340c11871cfa3eee) - 2025-04-01
+* [Issue] [Caplin: Track and implement fulu upgrade](https://github.com/erigontech/erigon/issues/14374) - 2025-04-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

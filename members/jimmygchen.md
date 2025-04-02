@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 
 ## Contributions
 
+## Q2 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Issue] [Optimise tracing timestamp formatting to reduce logging overhead](https://github.com/sigp/lighthouse/issues/7232) - 2025-04-01
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ash
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [Add simple swap/dup/exchange tests](https://github.com/ethereum/execution-spec-tests/pull/1373) - 2025-04-01
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

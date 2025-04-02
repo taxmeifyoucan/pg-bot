@@ -8,6 +8,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Commit] [Update cli task for tests](https://github.com/ChainSafe/lodestar/commit/104098440770de9ff42e16e7ec1bd4687b81f034) - 2025-04-01
+* [Commit] [Fix spec tests config](https://github.com/ChainSafe/lodestar/commit/47f92dfa51f2a996fa152e2b0a974f6872130bda) - 2025-04-01
+* [Commit] [Fix package tasks](https://github.com/ChainSafe/lodestar/commit/898974131d59b34b7c20f329957997bc2517f89a) - 2025-04-01
+* [Commit] [Split the minimal and mainnet tests for validator package](https://github.com/ChainSafe/lodestar/commit/7a5454a137d175d8b3f3e45e4387e31ad7d34243) - 2025-04-01
+* [Commit] [Fix lint errors](https://github.com/ChainSafe/lodestar/commit/006e0132855688f494cf372be80fd8ebad2a2bc8) - 2025-04-01
+* [Commit] [chore: bump package versions to 1.28.0](https://github.com/ChainSafe/lodestar/commit/461532eeed5d4d0d5e28fbe122f9e7f629d064ef) - 2025-04-01
+* [Commit] [Rename state-transition/test/unit to state-transition/test/unit-mainnet](https://github.com/ChainSafe/lodestar/commit/e295e24db8ade288abd6a08e7e242c4454885e0e) - 2025-04-01
+* [Issue] [Sim tests failing on cleanup](https://github.com/ChainSafe/lodestar/issues/7644) - 2025-04-01
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

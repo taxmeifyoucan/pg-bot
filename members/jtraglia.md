@@ -8,6 +8,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Commit] [Bump the actions group with 3 updates (#4241)](https://github.com/ethereum/consensus-specs/commit/8918bc8dcf232454afff025a4560892486972c9a) - 2025-04-01
+* [Commit] [Fix lint](https://github.com/ethereum/consensus-specs/commit/e21f007fcba993366e75a7f5dfa82adee879ac76) - 2025-04-01
+* [Commit] [Bump actions/setup-python from 5.4.0 to 5.5.0 in the actions group (#4242)](https://github.com/ethereum/consensus-specs/commit/e8400151a6e704b816aa67d0367c7adad9246ce6) - 2025-04-01
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

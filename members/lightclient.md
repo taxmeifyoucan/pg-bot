@@ -8,6 +8,11 @@ Team: Geth
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [params: add prague timestamp for mainnet](https://github.com/ethereum/go-ethereum/pull/31535) - 2025-04-01
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

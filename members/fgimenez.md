@@ -8,6 +8,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 
 ## Contributions
 
+## Q2 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/fb5fa049142527b0162cb5a6f0a40d0099bbd255) - 2025-04-01
+* [Pull Request] [chore: remove unused deps](https://github.com/paradigmxyz/reth/pull/15429) - 2025-04-01
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

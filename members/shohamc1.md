@@ -8,6 +8,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q2 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [Update state.go](https://github.com/erigontech/erigon/commit/39ce73ca4433013aee67664f3867060f4a56a1d3) - 2025-04-01
+* [Commit] [Remove subtype from EncodeRLP and has](https://github.com/erigontech/erigon/commit/0333a09cab0318c3d412e2447255c65cc0fa9c79) - 2025-04-01
+* [Pull Request] [Remove AA batch header type](https://github.com/erigontech/erigon/pull/14373) - 2025-04-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -8,6 +8,11 @@ Team: Geth
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Commit] [accounts/abi/abigen: fix a flaky bind test case `NewSingleStructArgument` (#31501)](https://github.com/ethereum/go-ethereum/commit/d342f762322b32ffd50703bf2da9329fd5160a24) - 2025-04-01
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

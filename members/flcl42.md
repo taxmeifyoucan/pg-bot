@@ -8,6 +8,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 ## Contributions
 
+## Q2 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Change proof version](https://github.com/NethermindEth/nethermind/commit/b53b9b80cf9798428e72669dd13d9dd60f338cb8) - 2025-04-01
+* [Commit] [Make tx pool return blob txs with applicable proof version](https://github.com/NethermindEth/nethermind/commit/56868690de3e59ab22fe279d8ed8713fd5cd2a1f) - 2025-04-01
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

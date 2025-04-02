@@ -8,6 +8,11 @@ Team: Grandine
 
 ## Contributions
 
+## Q2 2025
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [Update consensus spec tests to v1.5.0-beta.4](https://github.com/grandinetech/grandine/pull/147) - 2025-04-01
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

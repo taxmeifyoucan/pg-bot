@@ -8,6 +8,14 @@ Team: Reth
 
 ## Contributions
 
+## Q2 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [Tracking snap sync support](https://github.com/paradigmxyz/reth/issues/15432) - 2025-04-01
+* [Issue] [Add ConfigureEvm implementation for custom node](https://github.com/paradigmxyz/reth/issues/15431) - 2025-04-01
+* [Issue] [Add engineApi impl for custom node](https://github.com/paradigmxyz/reth/issues/15430) - 2025-04-01
+* [Issue] [Add custom NetworkPrimitives and Networkbuilder implementation](https://github.com/paradigmxyz/reth/issues/15428) - 2025-04-01
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

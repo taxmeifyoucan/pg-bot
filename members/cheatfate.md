@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q2 2025
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [Make MEV decoding less strict for Deneb encoded responses.](https://github.com/status-im/nimbus-eth2/pull/7045) - 2025-04-01
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

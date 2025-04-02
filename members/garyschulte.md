@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 
 ## Contributions
 
+## Q2 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [bonsaiL commit trielog ahead of state](https://github.com/hyperledger/besu/pull/8500) - 2025-04-01
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

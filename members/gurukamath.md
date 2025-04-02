@@ -8,6 +8,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Commit] [Update the type for `blob_gas_used` (#1161)](https://github.com/ethereum/execution-specs/commit/75635cdfb18ef2d1294ecdf1bfd452be2a687571) - 2025-04-01
 ## Q1 2025
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)

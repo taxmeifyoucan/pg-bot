@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q2 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [evm GetEOFHeader little cleanup](https://github.com/erigontech/erigon/commit/09e427378f6757f865ecb4583eb56728ab540b24) - 2025-04-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

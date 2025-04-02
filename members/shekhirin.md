@@ -8,6 +8,12 @@ Team: Reth
 
 ## Contributions
 
+## Q2 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Commit] [change arguments order](https://github.com/paradigmxyz/reth/commit/2ab46a13475ff4f616d14abce0efaf424038596a) - 2025-04-01
+* [Commit] [change arguments order](https://github.com/paradigmxyz/reth/commit/557728d72ee1d45506eee3ad50e5e7b7e1d7f4b7) - 2025-04-01
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

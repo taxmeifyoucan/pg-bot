@@ -8,6 +8,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q2 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [store M in btree index file](https://github.com/erigontech/erigon/issues/14381) - 2025-04-01
+* [Pull Request] [wip: files registry](https://github.com/erigontech/erigon/pull/14376) - 2025-04-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

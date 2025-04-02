@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Commit] [chore: only retrieve source validator once when processing pending consolidations (#7641)](https://github.com/ChainSafe/lodestar/commit/f41b52375b70cbf81240fc3ef400bafc7bad3eb0) - 2025-04-01
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

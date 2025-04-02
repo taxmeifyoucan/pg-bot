@@ -8,6 +8,23 @@ Team: Erigon
 
 ## Contributions
 
+## Q2 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [save](https://github.com/erigontech/erigon/commit/96679f20559830c421b93c1aee2fd8a0f220967e) - 2025-04-01
+* [Commit] [receipts gen: dedup parallel re-exec of same block (#14372)](https://github.com/erigontech/erigon/commit/434cb4a7a645a2bfd6dcc33409faae4361fee825) - 2025-04-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b773f4917cbe4470efb86997dc32333b80a8cf95) - 2025-04-01
+* [Pull Request] [[3.0 cherry-pick] receipts gen: dedup parallel re-exec of same block](https://github.com/erigontech/erigon/pull/14377) - 2025-04-01
+* [Commit] [receipts gen: dedup parallel re-exec of same block (#14372)](https://github.com/erigontech/erigon/commit/cf64fd610fb88ce4926b01c1de38c4a66d75316f) - 2025-04-01
+* [Commit] [sd: get rid of `nastyGet` private method (#14349)](https://github.com/erigontech/erigon/commit/b431adf6bed605ec505e36841677369468ef72a5) - 2025-04-01
+* [Issue] [RPC: subscribe to new recipts and save results in `receipts_generator.go` cache](https://github.com/erigontech/erigon/issues/14375) - 2025-04-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7f5963be528920a572f629a0397287275c26f5b0) - 2025-04-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/45b51c92f5fc83cd78ab543db0183f6ff4d47333) - 2025-04-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e1f290a5a98a9ccce152af7647c65fa62247bdb9) - 2025-04-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d33adcbf75899c05517c04d28ef934e00b74b3d3) - 2025-04-01
+* [Pull Request] [[wip] receipts gen: dedup parallel re-exec of same block](https://github.com/erigontech/erigon/pull/14372) - 2025-04-01
+* [Issue] [receipt rpc latency](https://github.com/erigontech/erigon/issues/14371) - 2025-04-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

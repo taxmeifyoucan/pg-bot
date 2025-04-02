@@ -7,6 +7,20 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 
 ## Contributions
 
+## Q2 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [NewPayload error message (#8453)](https://github.com/NethermindEth/nethermind/commit/c3c668ff1f228e09c370527c6072b6731c881e1a) - 2025-04-01
+* [Commit] [Secp256r1 precompile: switch to BoringSSL (#8437)](https://github.com/NethermindEth/nethermind/commit/a42b9c9cb657e82ca9e58efae06e90a8e57ab3ed) - 2025-04-01
+* [Commit] [use arraypoollist for getInclusionList](https://github.com/NethermindEth/nethermind/commit/37512caf29dcc6e72faaf9dfcfc3afc3a5170dc2) - 2025-04-01
+* [Commit] [comment out Shutter test](https://github.com/NethermindEth/nethermind/commit/0b400bf35c2ae420ce8f9440e393384ca528b9ba) - 2025-04-01
+* [Commit] [fix shutter keys missed test with delay](https://github.com/NethermindEth/nethermind/commit/a2c9f1bc04e3e05993adde90909e45852a895e8b) - 2025-04-01
+* [Commit] [fix Can_include_inclusion_list to account for randomisation](https://github.com/NethermindEth/nethermind/commit/5aa695e91d65f22bbb22cea5b013fa2e82358daa) - 2025-04-01
+* [Pull Request] [NewPayload error](https://github.com/NethermindEth/nethermind/pull/8453) - 2025-04-01
+* [Commit] [Shutter: fix shutdown dispose (#8418)](https://github.com/NethermindEth/nethermind/commit/ca8afe50fb838315fef9c88659d86ac0555075e3) - 2025-04-01
+* [Commit] [Auto-update fast sync settings (#8444)](https://github.com/NethermindEth/nethermind/commit/30e9506cb655fdb26351b1297eb653a9a46c0100) - 2025-04-01
+* [Commit] [Minor refactoring and optimisations (#8451)](https://github.com/NethermindEth/nethermind/commit/2ffd3a8f40f2a27604f529d0f04026cf3bed45d7) - 2025-04-01
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

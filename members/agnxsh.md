@@ -7,6 +7,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q2 2025
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Commit] [fix checking for existing covering Electra aggregates in attestation pool (#7043)](https://github.com/status-im/nimbus-eth2/commit/773de54f5b0345cb08f9bd9689088e02945588b9) - 2025-04-01
+* [Commit] [fix copyright year](https://github.com/status-im/nimbus-eth2/commit/211a6bca2721f4c577f0d413faa16ebbe94edad4) - 2025-04-01
+* [Pull Request] [added custody group count in node/identity endpoint](https://github.com/status-im/nimbus-eth2/pull/7046) - 2025-04-01
+* [Commit] [added custody group count in node/identity endpoint](https://github.com/status-im/nimbus-eth2/commit/b712421b5241d1b3b7b9a7dda0897741a51601d8) - 2025-04-01
+* [Commit] [improve logging](https://github.com/status-im/nimbus-eth2/commit/876ef3de406017bd708407f3adfc6f2954315b21) - 2025-04-01
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -8,6 +8,11 @@ Team: Lighthouse
 
 ## Contributions
 
+## Q2 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [RPC RequestId Cleanup](https://github.com/sigp/lighthouse/pull/7238) - 2025-04-01
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

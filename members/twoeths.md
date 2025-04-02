@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Commit] [fix: buckets for attestationsPerCommittee metric](https://github.com/ChainSafe/lodestar/commit/6b375955791f6b03310936605d311a96cead1726) - 2025-04-01
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

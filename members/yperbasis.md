@@ -8,6 +8,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q2 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [Engine API: log requests on block hash mismatch (#14379)](https://github.com/erigontech/erigon/commit/291c6110f416d0a6d3333ab52aa755a2fd3eacf6) - 2025-04-01
+* [Pull Request] [Engine API: log requests on block hash mismatch](https://github.com/erigontech/erigon/pull/14379) - 2025-04-01
+* [Commit] [Engine API: log requests on block hash mismatch (#14338)](https://github.com/erigontech/erigon/commit/58d6b15bcb4db65511c0585f1f28fe02bcbe33ed) - 2025-04-01
+* [Commit] [Engine API: log requests on block hash mismatch (#14338)](https://github.com/erigontech/erigon/commit/c621c7c2528d664f2b3c480f1c5ecc94dbcb640d) - 2025-04-01
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

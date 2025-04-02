@@ -8,6 +8,22 @@ Team: Erigon
 
 ## Contributions
 
+## Q2 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [Increase slot time](https://github.com/erigontech/erigon/commit/4afa7d534e61992afd01678bd6b093f2bb3c9ae2) - 2025-04-01
+* [Commit] [Update](https://github.com/erigontech/erigon/commit/e877c9989cce4b251bd491805875cd0a486cca06) - 2025-04-01
+* [Commit] [Revert wait](https://github.com/erigontech/erigon/commit/3c233844639f5586a60318e73fbd9cb8bacea75a) - 2025-04-01
+* [Pull Request] [workflows: Switch links on kurtosis test files](https://github.com/erigontech/erigon/pull/14382) - 2025-04-01
+* [Commit] [engineapi, txpool: Fix `engine_getBlobsV1` response json, and nil handling (#14230)](https://github.com/erigontech/erigon/commit/ffe2e86f38e1b431bc6b61c92228c6a3f09a9af4) - 2025-04-01
+* [Commit] [types: Move wrapped blob txn marshal to different func (#14084)](https://github.com/erigontech/erigon/commit/fcfc2fbf38f7166ac57a1daefd242499f4643d24) - 2025-04-01
+* [Commit] [workflows: Add a subset of pectra tests and use smaller slot time for assertoor tests (#14378)](https://github.com/erigontech/erigon/commit/2a81add71288825c1d16c5eb3c947742bec01ce6) - 2025-04-01
+* [Pull Request] [engineeapi, txpool: Implement GetBlobsV1 (#13975)](https://github.com/erigontech/erigon/pull/14380) - 2025-04-01
+* [Commit] [Shorten timeouts](https://github.com/erigontech/erigon/commit/2b6b0992ff40e5abe039fb0ef95c60c8f50692b1) - 2025-04-01
+* [Commit] [Cleanup](https://github.com/erigontech/erigon/commit/f03f31a4df4c476e098bd368fd093c9ffbf15e06) - 2025-04-01
+* [Pull Request] [workflows: Add a subset of pectra tests and use smaller slot time for assertoor tests](https://github.com/erigontech/erigon/pull/14378) - 2025-04-01
+* [Commit] [try again](https://github.com/erigontech/erigon/commit/d1fda2b244577c41a547c2787e8a1311ebead39e) - 2025-04-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

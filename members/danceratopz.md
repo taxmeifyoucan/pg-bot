@@ -8,6 +8,36 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Issue] [bug(execute): allow `--collect-only` without specifying `--rpc-*` flags](https://github.com/ethereum/execution-spec-tests/issues/1376) - 2025-04-01
+* [Commit] [chore(docs): remove 404.html; use github's 404 as less flaky](https://github.com/ethereum/execution-spec-tests/commit/f59cde3b68db293d8e165c7c94c479584557fc66) - 2025-04-01
+* [Commit] [Deployed e1e5b34c2e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/13c1a31221b4798a7872c12702b74d5144fb5af9) - 2025-04-01
+* [Commit] [Deployed 487036026d to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/a7776520f060474e8b1ca4522d91e0f88ec064ab) - 2025-04-01
+* [Commit] [Update docs/CHANGELOG.md](https://github.com/ethereum/execution-spec-tests/commit/5f3a4d77d4fe29aeed79d1096e3e8cdd1ac604ef) - 2025-04-01
+* [Commit] [Revert "chore(docs): try to fix 404 asset resolution for non-root pages"](https://github.com/ethereum/execution-spec-tests/commit/f564c4d246fd8788a0039600c20132f57659bcb7) - 2025-04-01
+* [Commit] [chore(docs): try to fix 404 asset resolution for non-root pages](https://github.com/ethereum/execution-spec-tests/commit/e83cdd7d0052a113c2e7e2c0e8f0080e38ee4782) - 2025-04-01
+* [Commit] [Removed verkle@v0.0.4, verkle@v0.0.5 with mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/96ebcdb47e9d044106b2229fcb37bc91be479ac9) - 2025-04-01
+* [Commit] [chore(docs): reduce search index size cf #1292](https://github.com/ethereum/execution-spec-tests/commit/be9cf293f0f1e5346116ed7cdcdc9a562dbda0f4) - 2025-04-01
+* [Commit] [Removed pr-801-preview, pr-838-preview, pr-842-preview, pr-929-preview, pectra-devnet-4@v1.0.1 with mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/9a3135524b1b4ff7d7d8274ae849a832ea0a5698) - 2025-04-01
+* [Commit] [Revert "chore(docs): remove automatic redirect"](https://github.com/ethereum/execution-spec-tests/commit/21fab86af58d7c0be79ac2df4bfe03bce9d71964) - 2025-04-01
+* [Commit] [chore(docs): remove automatic redirect](https://github.com/ethereum/execution-spec-tests/commit/0c0324b254deab594490015ace60c275fce6ce1c) - 2025-04-01
+* [Commit] [chore(docs): use static 404 that doesn't resolve version](https://github.com/ethereum/execution-spec-tests/commit/274e831f116256e2a1494d30df90b6746c32c607) - 2025-04-01
+* [Commit] [fix(docs): show 404 from correct docs version](https://github.com/ethereum/execution-spec-tests/commit/faae13e95d187348421d3a79de03b88bd19f310c) - 2025-04-01
+* [Commit] [chore(docs): remove out-dated, unversioned 404](https://github.com/ethereum/execution-spec-tests/commit/afe59806371c4ed6b66b6ab48d356a3e570ded66) - 2025-04-01
+* [Commit] [hotfix(docs): add canoncial url](https://github.com/ethereum/execution-spec-tests/commit/3105e616f52107f67f1a161566832248463eb956) - 2025-04-01
+* [Commit] [hotfix(docs): add back missing assets](https://github.com/ethereum/execution-spec-tests/commit/735174723885ac25654f947b481355ff6b2aecea) - 2025-04-01
+* [Commit] [Deployed 487036026d to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2697409192f1e785ac58c91a98af8d960582998a) - 2025-04-01
+* [Commit] [hotfix(docs): add back missing assets](https://github.com/ethereum/execution-spec-tests/commit/e448c5302fae9b608e0073794fdaa8807f8222d2) - 2025-04-01
+* [Commit] [chore(ci): reduce concurrency to avoid chances of getting throttled](https://github.com/ethereum/execution-spec-tests/commit/c270ecad276c3b08e48da724d39b3cd6c937d805) - 2025-04-01
+* [Pull Request] [chore(ci,docs): add a github action to check links in .md, .py](https://github.com/ethereum/execution-spec-tests/pull/1375) - 2025-04-01
+* [Commit] [chore(ci): update cron time](https://github.com/ethereum/execution-spec-tests/commit/e03213badd1af7578bdef0ce1915a6d713834fa0) - 2025-04-01
+* [Pull Request] [fix(docs): fix bad links in readme and elsewhere](https://github.com/ethereum/execution-spec-tests/pull/1374) - 2025-04-01
+* [Commit] [Set default version to main with mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d580c19502864f4311674403a4bb724297c3aa30) - 2025-04-01
+* [Commit] [Deployed 487036026d to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/0eefa1ff638e06326ff1de7a373fc4adc2c9453c) - 2025-04-01
+* [Commit] [fix(docs): remove out-dated, unversioned content from gh-pages](https://github.com/ethereum/execution-spec-tests/commit/1141a08e97d3be95b1da03f95fe482da7dd1d5c1) - 2025-04-01
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

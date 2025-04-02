@@ -8,6 +8,17 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q2 2025
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [revert MEV SSZ changes](https://github.com/status-im/nimbus-eth2/pull/7044) - 2025-04-01
+* [Commit] [fix gossip validation usage of Electra covers](https://github.com/status-im/nimbus-eth2/commit/53a7ad1051d80ce77d35ce339c8d8ac3df4ad57d) - 2025-04-01
+* [Commit] [revert MEV SSZ changes](https://github.com/status-im/nimbus-eth2/commit/807c0c07c6e2d3d53d063200346cc551d7b6f37c) - 2025-04-01
+* [Pull Request] [fix checking for existing covering Electra aggregates in attestation pool](https://github.com/status-im/nimbus-eth2/pull/7043) - 2025-04-01
+* [Commit] [use EF consensus spec v1.5.0-beta.4 test vectors (#7042)](https://github.com/status-im/nimbus-eth2/commit/62a99df86c02252b2a12d684045a8fb92716cc9e) - 2025-04-01
+* [Commit] [Peer pool custom filtering (attempt 2). (#7040)](https://github.com/status-im/nimbus-eth2/commit/88725c7690f3ffdd00793beeed8345be44c4e216) - 2025-04-01
+* [Pull Request] [use EF consensus spec v1.5.0-beta.4 test vectors](https://github.com/status-im/nimbus-eth2/pull/7042) - 2025-04-01
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
