@@ -15,6 +15,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Update state.go](https://github.com/erigontech/erigon/commit/39ce73ca4433013aee67664f3867060f4a56a1d3) - 2025-04-01
 * [Commit] [Remove subtype from EncodeRLP and has](https://github.com/erigontech/erigon/commit/0333a09cab0318c3d412e2447255c65cc0fa9c79) - 2025-04-01
 * [Pull Request] [Remove AA batch header type](https://github.com/erigontech/erigon/pull/14373) - 2025-04-01
+* [Commit] [workflows: Fix links and increase slot times on kurtosis test files (#14382)](https://github.com/erigontech/erigon/commit/c0e59846ed2aa51463d9cc182b5b0ad1f9f5384d) - 2025-04-02
+* [Pull Request] [RIP-7560: Handle optional fields, setup txpool](https://github.com/erigontech/erigon/pull/14400) - 2025-04-02
+* [Commit] [`commitment`: remove useless collector from `BranchEncoder` (#14385)](https://github.com/erigontech/erigon/commit/35f27b0a51220f9abc09c808f66be4adb25fd6cc) - 2025-04-02
+* [Commit] [RIP-7560: Enable skipping optional "paymaster", "deployer" parameters; fix "sender" caching; fix RPL copying (#14369)](https://github.com/erigontech/erigon/commit/ed30a4e55f3af1003dc9581d92ccb38d8e5f3bbe) - 2025-04-02
+* [Commit] [Add to proto](https://github.com/erigontech/erigon/commit/0823e8e5f9c3e7c97a1656601b2af08b086c6595) - 2025-04-02
+* [Commit] [Add to TxnSlot](https://github.com/erigontech/erigon/commit/6406f412398ca37beb59d1145eb2721d55100e18) - 2025-04-02
+* [Commit] [Fix build](https://github.com/erigontech/erigon/commit/58cf6e0a670a296ec120c88a66f4a9e4bde73f54) - 2025-04-02
+* [Commit] [Revert "Check depth"](https://github.com/erigontech/erigon/commit/f789da44f704c41e8e6ce100a078743d72d9e3c1) - 2025-04-02
+* [Commit] [Run exec in own TxTask](https://github.com/erigontech/erigon/commit/cd6b53b899b83a457e6d57debcb51b803ed4ffa9) - 2025-04-02
+* [Commit] [Fix payloadSize](https://github.com/erigontech/erigon/commit/9b442a0a25084dd9683ec2d3adb55e14cc9b1df4) - 2025-04-02
+* [Commit] [Set variable, error](https://github.com/erigontech/erigon/commit/d97d0bc540d1247ec29a9b09fa5a9519684ccec0) - 2025-04-02
+* [Pull Request] [Add SenderValidationData to RIP-7560 txn](https://github.com/erigontech/erigon/pull/14392) - 2025-04-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

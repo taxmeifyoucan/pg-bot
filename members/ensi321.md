@@ -13,6 +13,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Commit] [chore: only retrieve source validator once when processing pending consolidations (#7641)](https://github.com/ChainSafe/lodestar/commit/f41b52375b70cbf81240fc3ef400bafc7bad3eb0) - 2025-04-01
+* [Commit] [chore: bump CL spec to v1.5.0-beta.4 (#7643)](https://github.com/ChainSafe/lodestar/commit/90d2b1412decea3b4f7c563a0b02b90f26f95356) - 2025-04-02
+* [Commit] [Skip eip7732](https://github.com/ChainSafe/lodestar/commit/a5dee0029484e234cbd679281115a9dfea4d8f30) - 2025-04-02
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

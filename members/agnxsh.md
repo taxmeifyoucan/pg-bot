@@ -16,6 +16,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [added custody group count in node/identity endpoint](https://github.com/status-im/nimbus-eth2/pull/7046) - 2025-04-01
 * [Commit] [added custody group count in node/identity endpoint](https://github.com/status-im/nimbus-eth2/commit/b712421b5241d1b3b7b9a7dda0897741a51601d8) - 2025-04-01
 * [Commit] [improve logging](https://github.com/status-im/nimbus-eth2/commit/876ef3de406017bd708407f3adfc6f2954315b21) - 2025-04-01
+* [Commit] [ci: update NIM_COMMIT value for dedicated job (#7050)](https://github.com/status-im/nimbus-eth2/commit/531a7c2038869641dc0114f0a19b4f15bf96b171) - 2025-04-02
+* [Commit] [automated consensus spec URL updating to v1.5.0-beta.4 (#7047)](https://github.com/status-im/nimbus-eth2/commit/7f4bc8c84a19ebb73424ee328bea258a93415e01) - 2025-04-02
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

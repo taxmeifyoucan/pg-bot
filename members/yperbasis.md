@@ -17,6 +17,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Engine API: log requests on block hash mismatch (#14338)](https://github.com/erigontech/erigon/commit/58d6b15bcb4db65511c0585f1f28fe02bcbe33ed) - 2025-04-01
 * [Commit] [Engine API: log requests on block hash mismatch (#14338)](https://github.com/erigontech/erigon/commit/c621c7c2528d664f2b3c480f1c5ecc94dbcb640d) - 2025-04-01
 
+* [Commit] [[3.0 cherry-pick] receipts gen: dedup parallel re-exec of same block (#14377)](https://github.com/erigontech/erigon/commit/d99d3a1f7af4200cded9e90d67c4c4c4c72179cf) - 2025-04-02
+* [Issue] [Some Chiado snapshot files have changed](https://github.com/erigontech/erigon/issues/14394) - 2025-04-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

@@ -8,6 +8,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q2 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Minor refactoring and optimisations (#8451)](https://github.com/NethermindEth/nethermind/commit/2ffd3a8f40f2a27604f529d0f04026cf3bed45d7) - 2025-04-02
+* [Pull Request] [Differentiate Pruning metrics](https://github.com/NethermindEth/nethermind/pull/8456) - 2025-04-02
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

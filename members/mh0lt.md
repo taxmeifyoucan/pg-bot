@@ -29,6 +29,7 @@ Team: Erigon
 * [Commit] [add printers](https://github.com/erigontech/erigon/commit/37a517d19b15dce2b6120ed374cbcacc06395948) - 2025-04-01
 * [Commit] [add printers](https://github.com/erigontech/erigon/commit/97a544933fad52c2a98deca5d9adfabaf6fd0a52) - 2025-04-01
 * [Commit] [add printers](https://github.com/erigontech/erigon/commit/847d003053bdd5bd59f3e8ee700d2723e6f0118f) - 2025-04-01
+* [Commit] [add paused query](https://github.com/erigontech/erigon/commit/de5e1b3745a46d73b12897e119da9dc6b09790c6) - 2025-04-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -13,6 +13,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Make MEV decoding less strict for Deneb encoded responses.](https://github.com/status-im/nimbus-eth2/pull/7045) - 2025-04-01
+* [Commit] [Address review comments.](https://github.com/status-im/nimbus-eth2/commit/55e479bc6373c1a98dbe1492b3d339cedec10a0a) - 2025-04-02
+* [Commit] [Making it working with weird specification requirements, with `eth-consensus-version` is not required for JSON responses.](https://github.com/status-im/nimbus-eth2/commit/26043cc96118959908a6824cc9506c1fe210ad8f) - 2025-04-02
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

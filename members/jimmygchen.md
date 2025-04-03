@@ -13,6 +13,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [Optimise tracing timestamp formatting to reduce logging overhead](https://github.com/sigp/lighthouse/issues/7232) - 2025-04-01
+* [Issue] [Store peer penality records in the PeerDB in `PeerInfo`](https://github.com/sigp/lighthouse/issues/7245) - 2025-04-02
+* [Pull Request] [Attempt to fix flaky network tests](https://github.com/sigp/lighthouse/pull/7244) - 2025-04-02
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

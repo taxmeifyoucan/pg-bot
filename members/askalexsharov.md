@@ -25,6 +25,17 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d33adcbf75899c05517c04d28ef934e00b74b3d3) - 2025-04-01
 * [Pull Request] [[wip] receipts gen: dedup parallel re-exec of same block](https://github.com/erigontech/erigon/pull/14372) - 2025-04-01
 * [Issue] [receipt rpc latency](https://github.com/erigontech/erigon/issues/14371) - 2025-04-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fa1f59101c02d3de76f75172964ab4466efd401b) - 2025-04-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eed90acf5b2e2b6d693192ba6db26d99456fdfc1) - 2025-04-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a13bac5543921605fb44eec21cf782298c276319) - 2025-04-02
+* [Pull Request] [[wip] receipt persistance: step1](https://github.com/erigontech/erigon/pull/14398) - 2025-04-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0241d8f0f0c7bed92f7d073c2848278d320124be) - 2025-04-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4dc13ccc5312cc9ee318735b691203b1c2f44c87) - 2025-04-02
+* [Commit] [diagnostics: Expose subpool marker (#14390)](https://github.com/erigontech/erigon/commit/2d2f4413055f3165d0eccb401f3bb95b50c71a0b) - 2025-04-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4c7f3f0e6b838ded946081f93b4743c82539e1f2) - 2025-04-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eca733347fad989843cfcc44a1003b12c5b548e2) - 2025-04-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/656bd2cae52eccfd637eefb9a8e0d80a7680e048) - 2025-04-02
+* [Issue] [node seems switched to `chain-tip mode` too early](https://github.com/erigontech/erigon/issues/14393) - 2025-04-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

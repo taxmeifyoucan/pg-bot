@@ -13,6 +13,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Commit] [fix: buckets for attestationsPerCommittee metric](https://github.com/ChainSafe/lodestar/commit/6b375955791f6b03310936605d311a96cead1726) - 2025-04-01
+* [Pull Request] [feat: sort packed attestations by effective balance](https://github.com/ChainSafe/lodestar/pull/7646) - 2025-04-02
+* [Commit] [chore: only retrieve source validator once when processing pending consolidations (#7641)](https://github.com/ChainSafe/lodestar/commit/f41b52375b70cbf81240fc3ef400bafc7bad3eb0) - 2025-04-02
+* [Commit] [feat: getMostValuableAttestation and packedAttestations metrics](https://github.com/ChainSafe/lodestar/commit/c165ae80b7d653bdb9768b5b0d38646c8a8de743) - 2025-04-02
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

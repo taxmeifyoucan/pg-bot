@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Disable LevelDB snappy feature](https://github.com/sigp/lighthouse/pull/7235) - 2025-04-01
+* [Commit] [Disable LevelDB snappy feature (#7235)](https://github.com/sigp/lighthouse/commit/9bc0d5161edb00140addc1d06271baf01ede4c54) - 2025-04-02
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

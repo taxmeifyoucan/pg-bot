@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [fix spec config test](https://github.com/Consensys/teku/commit/4dbb7f536f17c786a244a85eecdd92f0ce0903a5) - 2025-04-01
 * [Commit] [refactor max transactions per IL (#9309)](https://github.com/Consensys/teku/commit/717eff9a5b9e287feb7b13520fdf699ac3de9880) - 2025-04-01
 * [Pull Request] [refactor max transactions per IL](https://github.com/Consensys/teku/pull/9309) - 2025-04-01
+* [Commit] [9310 get attester head (#9312)](https://github.com/Consensys/teku/commit/4efa8a1420489041143ef6e3a568f93b4c67716f) - 2025-04-02
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 ## Contributions
 
+## Q2 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [refactor: introduce TransactionReceiptEncodingOptions to TransactionReceiptEncoder (#8477)](https://github.com/hyperledger/besu/commit/74970939ee0d7a7980a15f85d81f041e487dfcf7) - 2025-04-02
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

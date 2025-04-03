@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 
 ## Contributions
 
+## Q2 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Commit] [25.4.0 Cleanup (#9315)](https://github.com/Consensys/teku/commit/21428b00049ff531718a61ae123d9998bf0bb0e4) - 2025-04-02
+* [Pull Request] [25.4.0 Cleanup](https://github.com/Consensys/teku/pull/9315) - 2025-04-02
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

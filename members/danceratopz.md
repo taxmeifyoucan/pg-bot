@@ -38,6 +38,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Set default version to main with mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d580c19502864f4311674403a4bb724297c3aa30) - 2025-04-01
 * [Commit] [Deployed 487036026d to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/0eefa1ff638e06326ff1de7a373fc4adc2c9453c) - 2025-04-01
 * [Commit] [fix(docs): remove out-dated, unversioned content from gh-pages](https://github.com/ethereum/execution-spec-tests/commit/1141a08e97d3be95b1da03f95fe482da7dd1d5c1) - 2025-04-01
+* [Commit] [refactor(logging): avoid modifying original log record in ColorFormatter](https://github.com/ethereum/execution-spec-tests/commit/22329e9c6fe9118f20d5da393a4dae6f346f6444) - 2025-04-02
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

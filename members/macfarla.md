@@ -8,6 +8,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 ## Contributions
 
+## Q2 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [[MINOR] renaming method in test to help readability (#8507)](https://github.com/hyperledger/besu/commit/e6a67eb76b231714c38ca03978171021fef0ca01) - 2025-04-02
+* [Commit] [create access list - don't override gasPrice if not set (#8508)](https://github.com/hyperledger/besu/commit/4930ba692d897358274934fa099ee77b62a0ca46) - 2025-04-02
+* [Pull Request] [create access list - don't override gasPrice if not set](https://github.com/hyperledger/besu/pull/8508) - 2025-04-02
+* [Pull Request] [[MINOR] renaming method in test to help readability](https://github.com/hyperledger/besu/pull/8507) - 2025-04-02
+* [Commit] [Remove Vert.x deprecated methods (#8501)](https://github.com/hyperledger/besu/commit/4cfcce7807e0bcd4005c8e14d8f3e9bcb1209727) - 2025-04-02
+* [Issue] [repeated CLI args should prevent startup](https://github.com/hyperledger/besu/issues/8505) - 2025-04-02
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

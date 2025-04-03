@@ -19,6 +19,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [use EF consensus spec v1.5.0-beta.4 test vectors (#7042)](https://github.com/status-im/nimbus-eth2/commit/62a99df86c02252b2a12d684045a8fb92716cc9e) - 2025-04-01
 * [Commit] [Peer pool custom filtering (attempt 2). (#7040)](https://github.com/status-im/nimbus-eth2/commit/88725c7690f3ffdd00793beeed8345be44c4e216) - 2025-04-01
 * [Pull Request] [use EF consensus spec v1.5.0-beta.4 test vectors](https://github.com/status-im/nimbus-eth2/pull/7042) - 2025-04-01
+* [Commit] [gate sync manager and sync overseer from asking blobs if given fork is post fulu fork epoch (#7039)](https://github.com/status-im/nimbus-eth2/commit/f1e6eeb503ac0f6de70ef662fd8027ecae5a2f4b) - 2025-04-02
+* [Commit] [some manual consensus spec v1.5.0-beta.4 URL updates (#7049)](https://github.com/status-im/nimbus-eth2/commit/9526ef53b691d80200a5c63f311149d1aafb3865) - 2025-04-02
+* [Commit] [rm last debugComment for Electra migration (#7048)](https://github.com/status-im/nimbus-eth2/commit/7bce775fe21d42b9b0fc7b050e70b9ba4e944b13) - 2025-04-02
+* [Pull Request] [some manual consensus spec v1.5.0-beta.4 URL updates](https://github.com/status-im/nimbus-eth2/pull/7049) - 2025-04-02
+* [Pull Request] [rm last debugComment for Electra migration](https://github.com/status-im/nimbus-eth2/pull/7048) - 2025-04-02
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
