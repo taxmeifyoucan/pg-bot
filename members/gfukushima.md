@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 
 ## Contributions
 
+## Q2 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] [Update sepolia bootnode](https://github.com/Consensys/teku/pull/9317) - 2025-04-03
+* [Issue] [upgrade flashbots to rc3 breaks registration call](https://github.com/Consensys/teku/issues/9316) - 2025-04-03
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -15,6 +15,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/fb5fa049142527b0162cb5a6f0a40d0099bbd255) - 2025-04-01
 * [Pull Request] [chore: remove unused deps](https://github.com/paradigmxyz/reth/pull/15429) - 2025-04-01
 * [Commit] [use custom types in EngineApiBuilder impl for CustomEngineApiBuilder](https://github.com/paradigmxyz/reth/commit/003a9fde23413bcc804b0b2b628193b06e8b3699) - 2025-04-02
+* [Pull Request] [feat(examples): add ConfigureEvm impl for custom-node example](https://github.com/paradigmxyz/reth/pull/15520) - 2025-04-03
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

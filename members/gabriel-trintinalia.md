@@ -13,6 +13,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [refactor: introduce TransactionReceiptEncodingOptions to TransactionReceiptEncoder (#8477)](https://github.com/hyperledger/besu/commit/74970939ee0d7a7980a15f85d81f041e487dfcf7) - 2025-04-02
+* [Commit] [Changelog for release 25.4.0 (#8514)](https://github.com/hyperledger/besu/commit/112b9bcaace1a000a37c77bf7b0a7199158856cf) - 2025-04-03
+* [Pull Request] [Changelog for release 25.4.0](https://github.com/hyperledger/besu/pull/8514) - 2025-04-03
+* [Issue] [Release 25.4.0](https://github.com/hyperledger/besu/issues/8513) - 2025-04-03
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

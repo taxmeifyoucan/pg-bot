@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 
 ## Contributions
 
+## Q2 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [System Call Error Handling Updates for EIP-7002 and EIP-7251](https://github.com/hyperledger/besu/issues/8511) - 2025-04-03
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

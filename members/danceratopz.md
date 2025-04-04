@@ -39,6 +39,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 487036026d to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/0eefa1ff638e06326ff1de7a373fc4adc2c9453c) - 2025-04-01
 * [Commit] [fix(docs): remove out-dated, unversioned content from gh-pages](https://github.com/ethereum/execution-spec-tests/commit/1141a08e97d3be95b1da03f95fe482da7dd1d5c1) - 2025-04-01
 * [Commit] [refactor(logging): avoid modifying original log record in ColorFormatter](https://github.com/ethereum/execution-spec-tests/commit/22329e9c6fe9118f20d5da393a4dae6f346f6444) - 2025-04-02
+* [Commit] [Update docs/dev/deps_and_packaging.md](https://github.com/ethereum/execution-spec-tests/commit/46d85ac829b818df08d7f02fdec2e3d0fcb1a42b) - 2025-04-03
+* [Pull Request] [docs(deps): document how to manage eest dependencies](https://github.com/ethereum/execution-spec-tests/pull/1388) - 2025-04-03
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/a493f2d44e0941ab4b380a1a75fa97c10d439adf) - 2025-04-03
+* [Pull Request] [chore(deps): add version specifier for `types-requests`](https://github.com/ethereum/execution-spec-tests/pull/1387) - 2025-04-03
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

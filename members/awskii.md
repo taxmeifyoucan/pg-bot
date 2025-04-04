@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q2 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [Arbitrum: fixed gas L1 computation (#14423)](https://github.com/erigontech/erigon/commit/695918dea9c30055b3d9cd2ee8d44c5ddb4d85bc) - 2025-04-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

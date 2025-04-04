@@ -14,6 +14,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [Minor refactoring and optimisations (#8451)](https://github.com/NethermindEth/nethermind/commit/2ffd3a8f40f2a27604f529d0f04026cf3bed45d7) - 2025-04-02
 * [Pull Request] [Differentiate Pruning metrics](https://github.com/NethermindEth/nethermind/pull/8456) - 2025-04-02
+* [Commit] [Improve more often since we cancel](https://github.com/NethermindEth/nethermind/commit/b4dba527b93d3f58595c40aa96594bfe6fe76a4c) - 2025-04-03
+* [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/d678271ff48a549f097d56afadea4cb89ca063f9) - 2025-04-03
+* [Commit] [Cancel on new payload](https://github.com/NethermindEth/nethermind/commit/f1519a8e49c2c8c696ab42ceb16393d5d4540905) - 2025-04-03
+* [Commit] [Unneeded Dispose](https://github.com/NethermindEth/nethermind/commit/71aa5787b03541545fff1044959abdb7463ed3be) - 2025-04-03
+* [Commit] [Allow partially improved](https://github.com/NethermindEth/nethermind/commit/63fb5b5e546030d688f934be05aef7a9976f0fbc) - 2025-04-03
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

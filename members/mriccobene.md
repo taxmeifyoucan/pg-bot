@@ -8,6 +8,12 @@ Team: Erigon
 
 ## Contributions
 
+## Q2 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [qa-tests: run RPC performance test nightly (#14324)](https://github.com/erigontech/erigon/commit/a60601de2c421d6a122e0c2bbec203b366bea7b2) - 2025-04-03
+* [Commit] [bump rpc-test version](https://github.com/erigontech/erigon/commit/f9a48475d1d54d5cfad8701d5ad9ecced9c5d9b9) - 2025-04-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -17,6 +17,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [refactor max transactions per IL (#9309)](https://github.com/Consensys/teku/commit/717eff9a5b9e287feb7b13520fdf699ac3de9880) - 2025-04-01
 * [Pull Request] [refactor max transactions per IL](https://github.com/Consensys/teku/pull/9309) - 2025-04-01
 * [Commit] [9310 get attester head (#9312)](https://github.com/Consensys/teku/commit/4efa8a1420489041143ef6e3a568f93b4c67716f) - 2025-04-02
+* [Commit] [simplify schema definitions](https://github.com/Consensys/teku/commit/d450f8fb86025997c1e869c153aae3dfc5ace596) - 2025-04-03
+* [Commit] [include ILs when calling engine new payload for block import (#9319)](https://github.com/Consensys/teku/commit/5e394c88891899bfd898e8025d32b8b3b8dc31d5) - 2025-04-03
+* [Pull Request] [include ILs when calling engine new payload for block import](https://github.com/Consensys/teku/pull/9319) - 2025-04-03
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

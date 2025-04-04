@@ -8,6 +8,24 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 
 ## Contributions
 
+## Q2 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [changelog](https://github.com/prysmaticlabs/prysm/commit/b6e43638a35465f7a93c19834ad1c14790fb5d60) - 2025-04-03
+* [Pull Request] [moved http-util to api package, and merged with api util. renamed grp…](https://github.com/prysmaticlabs/prysm/pull/15128) - 2025-04-03
+* [Commit] [fixing beacon](https://github.com/prysmaticlabs/prysm/commit/9470fc6e954fdf023e3faeffe6ab3bdfe4dbfba0) - 2025-04-03
+* [Commit] [fixing grpc issue](https://github.com/prysmaticlabs/prysm/commit/e88b611aeb68044f7d42490c741e1b47477e6e62) - 2025-04-03
+* [Commit] [gaz](https://github.com/prysmaticlabs/prysm/commit/ed5443fab0df03335f6edea63f8e8a92ee6d2f4b) - 2025-04-03
+* [Commit] [merging apiutil and httputil](https://github.com/prysmaticlabs/prysm/commit/6168cdc135d9e6f07b8c14983800234cc01e5c0e) - 2025-04-03
+* [Commit] [migrates some helper functions from beacon API to apiutil (#15125)](https://github.com/prysmaticlabs/prysm/commit/4a1c627f6fc92e9b0df7eb4c956240b16aa455b8) - 2025-04-03
+* [Commit] [wip](https://github.com/prysmaticlabs/prysm/commit/fe2fd9fe676ddfb2cdcf2071c9b25b078fb35f6d) - 2025-04-03
+* [Pull Request] [migrating the json rest handler to the api package](https://github.com/prysmaticlabs/prysm/pull/15127) - 2025-04-03
+* [Commit] [bastin's suggestion](https://github.com/prysmaticlabs/prysm/commit/db29d4794820e4652226f2ec5610b4a09293cd16) - 2025-04-03
+* [Commit] [lint](https://github.com/prysmaticlabs/prysm/commit/faba5a0ad62362cce5d2cda0e6a2986bf2a96c47) - 2025-04-03
+* [Commit] [breaking out mock into its own file so it's visible elsewhere](https://github.com/prysmaticlabs/prysm/commit/80461016143cacea87932243d3d240bafe2aef01) - 2025-04-03
+* [Commit] [reran mockgen](https://github.com/prysmaticlabs/prysm/commit/d7b5cee44575910a93f3a33c6f9c83695ef50ef2) - 2025-04-03
+* [Pull Request] [fixes health tracker usage ](https://github.com/prysmaticlabs/prysm/pull/15126) - 2025-04-03
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

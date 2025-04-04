@@ -20,6 +20,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: bump package versions to 1.28.0](https://github.com/ChainSafe/lodestar/commit/461532eeed5d4d0d5e28fbe122f9e7f629d064ef) - 2025-04-01
 * [Commit] [Rename state-transition/test/unit to state-transition/test/unit-mainnet](https://github.com/ChainSafe/lodestar/commit/e295e24db8ade288abd6a08e7e242c4454885e0e) - 2025-04-01
 * [Issue] [Sim tests failing on cleanup](https://github.com/ChainSafe/lodestar/issues/7644) - 2025-04-01
+* [Commit] [Fix observation of timeout for sanitycheck test](https://github.com/ChainSafe/lodestar/commit/5dd6074f1b061c4a9247d6dd2e6dcef40b243237) - 2025-04-03
+* [Commit] [Fix the spec test path](https://github.com/ChainSafe/lodestar/commit/ec671b508f3a3ba2057f4d7ca82258eee6496da5) - 2025-04-03
+* [Commit] [Increase tear down timeout](https://github.com/ChainSafe/lodestar/commit/8b17bcb9d2a8d20163e1ee7ac1fdd5b2bbdcf6ca) - 2025-04-03
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

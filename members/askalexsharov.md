@@ -36,6 +36,28 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/eca733347fad989843cfcc44a1003b12c5b548e2) - 2025-04-02
 * [Commit] [save](https://github.com/erigontech/erigon/commit/656bd2cae52eccfd637eefb9a8e0d80a7680e048) - 2025-04-02
 * [Issue] [node seems switched to `chain-tip mode` too early](https://github.com/erigontech/erigon/issues/14393) - 2025-04-02
+* [Commit] [rlp: port atomic typecache (#14409)](https://github.com/erigontech/erigon/commit/6e1fd94e4022100a5c87880e93121bd469948a47) - 2025-04-03
+* [Commit] [exec3: remove some duplicate code (#14408)](https://github.com/erigontech/erigon/commit/c08ef0259337d69ebd0a8b1b991b1f524768593e) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/041a1d1895d86fcaa2b50a8fc250afe6035e2df2) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4babb390f84a4084b30c831e5335d66f4761541f) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ce63a3c34be1da3db215df662f2f80f862a47787) - 2025-04-03
+* [Commit] [agg: don't log context.Cancel (#14410)](https://github.com/erigontech/erigon/commit/aab70ca5c82d56ce8cb9bbdb8f9541dfefbc19bb) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b5c40671a7c13279ae090d52498deeab0dad82d1) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/96300e0904c76a82b77be09365ac89c54bcc2a67) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b0c3d6167265c2706a6bff7cc18907f30d0fc942) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/99272b15289460970269c11ab2d94b0c347555e2) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/67e2573a62e89d5a8624abec766ec3c4d57f9e5f) - 2025-04-03
+* [Pull Request] [agg: don't log context.Cancel](https://github.com/erigontech/erigon/pull/14410) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/12b4b32577fc8dcd14cf946735cbe2051f3e69e3) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ade5eaa3d9baa45820f14c5ceb0b6a005c56c720) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eb3600df9f527e478b42945075bef0b90e36872a) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1dbfec0f51d56ffca08354fafe3da7fc95b71cfc) - 2025-04-03
+* [Pull Request] [rlp: port atomic typecache](https://github.com/erigontech/erigon/pull/14409) - 2025-04-03
+* [Pull Request] [exec3: remove some duplicate code](https://github.com/erigontech/erigon/pull/14408) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3b64d6d6bb13e7342ecd13776c2312010eb870bd) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c90f436a84162c189b379765997c53dee4b5ce59) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/854bb0a9824cde47b584f4e3163ec2604dfb5f89) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d3bce620e3fa51c76082465efee69901a7e9a23a) - 2025-04-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

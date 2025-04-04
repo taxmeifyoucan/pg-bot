@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 ## Contributions
 
+## Q2 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [Kasey comment: Fix typo](https://github.com/prysmaticlabs/prysm/commit/7fd169da5f436c1fe9fabe40a8396576b13d3157) - 2025-04-03
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

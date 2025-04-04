@@ -8,6 +8,11 @@ Team: Grandine
 
 ## Contributions
 
+## Q2 2025
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Commit] [Attestation pool: reject irrelevant old attestations](https://github.com/grandinetech/grandine/commit/79277a2a69d888544fb591613d9c03deef971ebf) - 2025-04-03
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

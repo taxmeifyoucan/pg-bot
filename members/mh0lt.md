@@ -30,6 +30,9 @@ Team: Erigon
 * [Commit] [add printers](https://github.com/erigontech/erigon/commit/97a544933fad52c2a98deca5d9adfabaf6fd0a52) - 2025-04-01
 * [Commit] [add printers](https://github.com/erigontech/erigon/commit/847d003053bdd5bd59f3e8ee700d2723e6f0118f) - 2025-04-01
 * [Commit] [add paused query](https://github.com/erigontech/erigon/commit/de5e1b3745a46d73b12897e119da9dc6b09790c6) - 2025-04-02
+* [Commit] [enable serial calc root](https://github.com/erigontech/erigon/commit/047856a3dcf501dfb649012e6a29bfe91589a6bc) - 2025-04-03
+* [Commit] [fixed serial comitment trace](https://github.com/erigontech/erigon/commit/c040e49995887bcbf6b20d8705ddfe3299e3a6bf) - 2025-04-03
+* [Commit] [fix serial exec](https://github.com/erigontech/erigon/commit/b4ccf0f4fb763475f41a1893f246df8d1fdbdda3) - 2025-04-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

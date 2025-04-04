@@ -16,6 +16,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: sort packed attestations by effective balance](https://github.com/ChainSafe/lodestar/pull/7646) - 2025-04-02
 * [Commit] [chore: only retrieve source validator once when processing pending consolidations (#7641)](https://github.com/ChainSafe/lodestar/commit/f41b52375b70cbf81240fc3ef400bafc7bad3eb0) - 2025-04-02
 * [Commit] [feat: getMostValuableAttestation and packedAttestations metrics](https://github.com/ChainSafe/lodestar/commit/c165ae80b7d653bdb9768b5b0d38646c8a8de743) - 2025-04-02
+* [Issue] [Not able to verify attestation data to include in blocks](https://github.com/ChainSafe/lodestar/issues/7651) - 2025-04-03
+* [Commit] [fix: record new seen attesters](https://github.com/ChainSafe/lodestar/commit/629b0d7efcc2ddfb9a5ff26b1eb070fb8fc4cd65) - 2025-04-03
+* [Commit] [feat: track new seen attesters](https://github.com/ChainSafe/lodestar/commit/c873e15e20f214fa655c161a8b375a2732c66e1b) - 2025-04-03
+* [Commit] [fix: remove redundant underscore](https://github.com/ChainSafe/lodestar/commit/d76e5fc76938509b2a6fe800d2a6b99bd3b1db98) - 2025-04-03
+* [Commit] [chore: store NetworkConfig in networkConfig.ts](https://github.com/ChainSafe/lodestar/commit/5968401e5f310ec67e570161174e088350a0912b) - 2025-04-03
+* [Commit] [chore: refactor NetworkGlobal to NetworkConfig](https://github.com/ChainSafe/lodestar/commit/61d223a926a572ff6eac0eaf99d68aed9cc62014) - 2025-04-03
+* [Pull Request] [feat: track new seen attesters per block](https://github.com/ChainSafe/lodestar/pull/7650) - 2025-04-03
+* [Commit] [feat: track total committees per slot in oppool](https://github.com/ChainSafe/lodestar/commit/cc1c2954392fb0a160ea8cc1703f34785c8d3bcb) - 2025-04-03
+* [Commit] [feat: track continue; flow in getAttestationsForBlockElectra()](https://github.com/ChainSafe/lodestar/commit/a12afdf3840630457a92acc2a9ad3f948cedbb44) - 2025-04-03
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -24,6 +24,9 @@ Team: Erigon
 * [Commit] [Cleanup](https://github.com/erigontech/erigon/commit/f03f31a4df4c476e098bd368fd093c9ffbf15e06) - 2025-04-01
 * [Pull Request] [workflows: Add a subset of pectra tests and use smaller slot time for assertoor tests](https://github.com/erigontech/erigon/pull/14378) - 2025-04-01
 * [Commit] [try again](https://github.com/erigontech/erigon/commit/d1fda2b244577c41a547c2787e8a1311ebead39e) - 2025-04-01
+* [Pull Request] [Schedule Pectra hard fork for Ethereum Mainnet](https://github.com/erigontech/erigon/pull/14424) - 2025-04-03
+* [Pull Request] [engineapi: Add requests nil check](https://github.com/erigontech/erigon/pull/14421) - 2025-04-03
+* [Pull Request] [core/types: Filter empty requests before hashing](https://github.com/erigontech/erigon/pull/14420) - 2025-04-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

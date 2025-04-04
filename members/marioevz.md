@@ -14,6 +14,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [ new(tests): EOF - EXTDELEGATECALL blocking vs 7702 (#1309)](https://github.com/ethereum/execution-spec-tests/commit/e1e5b34c2edd8ec819f494b022d21eed0c2dc7a3) - 2025-04-01
 * [Commit] [feat(execute): Use test spec names as markers for `execute` (#1367)](https://github.com/ethereum/execution-spec-tests/commit/7af6c713382a404a9539a87af4e6841a4b3be81f) - 2025-04-01
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

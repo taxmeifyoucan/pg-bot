@@ -14,6 +14,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Disable LevelDB snappy feature](https://github.com/sigp/lighthouse/pull/7235) - 2025-04-01
 * [Commit] [Disable LevelDB snappy feature (#7235)](https://github.com/sigp/lighthouse/commit/9bc0d5161edb00140addc1d06271baf01ede4c54) - 2025-04-02
+* [Commit] [Fix test OOM issues on tree-states-hot (#7176)](https://github.com/sigp/lighthouse/commit/915143670514d0f016394ce328fc800113eaa1e8) - 2025-04-03
+* [Commit] [Spelling](https://github.com/sigp/lighthouse/commit/7a47928dbae6353202fd91dca2bcdeff326404b7) - 2025-04-03
+* [Commit] [Ensure sqlite and rusqlite are optional in `consensus/types` (#7182)](https://github.com/sigp/lighthouse/commit/9dce729cb6a0a1219c06aa3e4328d0b387deea44) - 2025-04-03
+* [Commit] [Use debug repr](https://github.com/sigp/lighthouse/commit/06b19e33815c55ca3bdf44893fd7105a3c2f55c9) - 2025-04-03
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

@@ -13,6 +13,7 @@ Team: Lighthouse
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [RPC RequestId Cleanup](https://github.com/sigp/lighthouse/pull/7238) - 2025-04-01
+* [Issue] [Align Logging](https://github.com/sigp/lighthouse/issues/7249) - 2025-04-03
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

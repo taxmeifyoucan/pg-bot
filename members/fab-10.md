@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 
 ## Contributions
 
+## Q2 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Add metrics to report peer count by type](https://github.com/hyperledger/besu/pull/8515) - 2025-04-03
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

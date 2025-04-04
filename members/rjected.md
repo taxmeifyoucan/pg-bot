@@ -8,6 +8,13 @@ Team: Reth
 
 ## Contributions
 
+## Q2 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [chore: set prewarm concurrency to 64](https://github.com/paradigmxyz/reth/pull/15521) - 2025-04-03
+* [Commit] [perf: spawn prewarming transactions in chunks](https://github.com/paradigmxyz/reth/commit/7da4325bc1f3893b6fea2fd46997af2692e1b1fe) - 2025-04-03
+* [Commit] [feat: use configured `max_new_pending_txs_notifications` channel for channel size (#15132)](https://github.com/paradigmxyz/reth/commit/d66e899526410f3b512393cc754dbbca767b6ad0) - 2025-04-03
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
