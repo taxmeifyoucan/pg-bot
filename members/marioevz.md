@@ -15,8 +15,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [ new(tests): EOF - EXTDELEGATECALL blocking vs 7702 (#1309)](https://github.com/ethereum/execution-spec-tests/commit/e1e5b34c2edd8ec819f494b022d21eed0c2dc7a3) - 2025-04-01
 * [Commit] [feat(execute): Use test spec names as markers for `execute` (#1367)](https://github.com/ethereum/execution-spec-tests/commit/7af6c713382a404a9539a87af4e6841a4b3be81f) - 2025-04-01
 
+* [Commit] [new(tests): EIP-7702: Delegation Designation as Initcode, max-fee-per-gas tests (#1372)](https://github.com/ethereum/execution-spec-tests/commit/823718ace793e99bd6c537cecaf74e62e28a7115) - 2025-04-04
+* [Commit] [feat(execute): Use test spec names as markers for `execute` (#1367)](https://github.com/ethereum/execution-spec-tests/commit/7af6c713382a404a9539a87af4e6841a4b3be81f) - 2025-04-04
+* [Commit] [refactor(tests): Combine similar cases into one](https://github.com/ethereum/execution-spec-tests/commit/f5f92a87882bdabb43cc1468d8ddac58d7f9f73a) - 2025-04-04
+* [Commit] [chore(deps): pin `build-system` deps, remove `setuptools` from deps (#1345)](https://github.com/ethereum/execution-spec-tests/commit/87131722a1bd16fc6209f0f63d4db838c2210d5d) - 2025-04-04
+* [Commit] [feat(tests): Additional EIP-2935 coverage (#1379)](https://github.com/ethereum/execution-spec-tests/commit/92511c7d0e526cf7ebdc0fc93a0d22cf4f5d8242) - 2025-04-04
+* [Pull Request] [chore(types): Refactor and remove misleading comment in `Requests`](https://github.com/ethereum/execution-spec-tests/pull/1399) - 2025-04-04
+* [Commit] [feat(tests): Blake2 test spec refactor (#1395)](https://github.com/ethereum/execution-spec-tests/commit/8dd8df1897e61aedbdfccfb9747d01038898a056) - 2025-04-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
+* [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04
+* [Pull Request] [t8n: Return `InvalidBlock` exception in `result.blockException`](https://github.com/ethereum/execution-specs/pull/1182) - 2025-04-04
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

@@ -12,6 +12,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Refactor TraceOptions to become a record (#8503)](https://github.com/hyperledger/besu/commit/fbe36365e58328d4b5582fd30aa0f40493d99390) - 2025-04-02
+* [Pull Request] [Fix codehash removal upon account removal](https://github.com/hyperledger/besu/pull/8523) - 2025-04-04
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

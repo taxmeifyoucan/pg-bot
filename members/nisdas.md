@@ -13,6 +13,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Anisdas)
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Disable Execution Request Testing On Mainnet](https://github.com/prysmaticlabs/prysm/pull/15115) - 2025-04-01
+* [Issue] [Update Weak Subjectivity Computation for Electra](https://github.com/prysmaticlabs/prysm/issues/15130) - 2025-04-04
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

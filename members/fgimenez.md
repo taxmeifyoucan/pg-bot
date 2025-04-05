@@ -16,6 +16,14 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [chore: remove unused deps](https://github.com/paradigmxyz/reth/pull/15429) - 2025-04-01
 * [Commit] [use custom types in EngineApiBuilder impl for CustomEngineApiBuilder](https://github.com/paradigmxyz/reth/commit/003a9fde23413bcc804b0b2b628193b06e8b3699) - 2025-04-02
 * [Pull Request] [feat(examples): add ConfigureEvm impl for custom-node example](https://github.com/paradigmxyz/reth/pull/15520) - 2025-04-03
+* [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/f6853b7e5ec21633a4172ecd460531bd3560ffb2) - 2025-04-04
+* [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/4ade09491d07c553d7d1c8bded8258069cae29da) - 2025-04-04
+* [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/ae42b5096ff8e142264b917b95ea6adf2d9b3c62) - 2025-04-04
+* [Pull Request] [feat: refactor NodeTypesWithDB](https://github.com/paradigmxyz/reth/pull/15537) - 2025-04-04
+* [Commit] [fix feature propagation](https://github.com/paradigmxyz/reth/commit/47392774923b18d8bb1dc8870d22e768adecb726) - 2025-04-04
+* [Commit] [fix feature propagation](https://github.com/paradigmxyz/reth/commit/d58352d6798781f0e5e42e2f6adf93ae0367fa04) - 2025-04-04
+* [Commit] [introduce CustomBlockAssembler and fix ConfigureEvm impl](https://github.com/paradigmxyz/reth/commit/0da4e6d2d00dd3714d5376201eab0e651d13d581) - 2025-04-04
+* [Commit] [fix BlockExecutorFactory impl](https://github.com/paradigmxyz/reth/commit/9f28598500ad9dd8d39c0cc34b0b99bcab6880c0) - 2025-04-04
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

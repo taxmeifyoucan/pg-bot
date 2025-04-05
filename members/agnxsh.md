@@ -18,6 +18,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [improve logging](https://github.com/status-im/nimbus-eth2/commit/876ef3de406017bd708407f3adfc6f2954315b21) - 2025-04-01
 * [Commit] [ci: update NIM_COMMIT value for dedicated job (#7050)](https://github.com/status-im/nimbus-eth2/commit/531a7c2038869641dc0114f0a19b4f15bf96b171) - 2025-04-02
 * [Commit] [automated consensus spec URL updating to v1.5.0-beta.4 (#7047)](https://github.com/status-im/nimbus-eth2/commit/7f4bc8c84a19ebb73424ee328bea258a93415e01) - 2025-04-02
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth2/commit/9e5e20c2450873e4fbcd21f639b763574c73c517) - 2025-04-04
+* [Commit] [cleanup pointless whitespaces](https://github.com/status-im/nimbus-eth2/commit/e7b6c53871ae97a240eda6f5deb0c149d31b198e) - 2025-04-04
+* [Commit] [make debug-column-syncer flag hidden](https://github.com/status-im/nimbus-eth2/commit/250aff0abd9ef75e97799eb142f0283641dc4157) - 2025-04-04
+* [Commit] [further cleanups](https://github.com/status-im/nimbus-eth2/commit/392c8ce24c4b273c16e86e185781e90ae2875a87) - 2025-04-04
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

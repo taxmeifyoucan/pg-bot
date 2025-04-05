@@ -13,6 +13,17 @@ Team: Erigon
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Commit] [Arbitrum: fixed gas L1 computation (#14423)](https://github.com/erigontech/erigon/commit/695918dea9c30055b3d9cd2ee8d44c5ddb4d85bc) - 2025-04-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/25b049059f2cb748a0735a389e14eaafbd5c0d05) - 2025-04-04
+* [Commit] [Arbitrum: fixed advanced precompiles interaction (#14451)](https://github.com/erigontech/erigon/commit/d60fbc4180397d8cfbe110785073a4c650d793a8) - 2025-04-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/56bcdcfd910a9737c091fe1d16c756af2f7f7680) - 2025-04-04
+* [Issue] [Commitment: flexible tracing](https://github.com/erigontech/erigon/issues/14450) - 2025-04-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3367b499a511a4b04e030e2e68e74449138a4175) - 2025-04-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2df5b72e9e9c3565021207aeeb8cba6726e7475c) - 2025-04-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7024e05bbde24e6dae1ee6794086535614687b0d) - 2025-04-04
+* [Commit] [savse](https://github.com/erigontech/erigon/commit/3c07aad9982a3544f2fddea520edef7b9e99e336) - 2025-04-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2307ea4d0c415582237b80454f87d748585a75a8) - 2025-04-04
+* [Commit] [added actual concurrency](https://github.com/erigontech/erigon/commit/1957a60c35642ea22f74145d2839e371ad4778f4) - 2025-04-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8ef699cfb034b2826aaa98ec6d910d0bf7c4fe47) - 2025-04-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

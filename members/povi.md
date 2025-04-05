@@ -13,6 +13,13 @@ Team: Grandine
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Attestation pool: reject irrelevant old attestations](https://github.com/grandinetech/grandine/commit/79277a2a69d888544fb591613d9c03deef971ebf) - 2025-04-03
+* [Pull Request] [Keep beacon states loaded from storage on demand in state cache](https://github.com/grandinetech/grandine/pull/160) - 2025-04-04
+* [Commit] [As Holesky non-finality event showed, limiting peers to sync from to most popular chain could lead to getting stuck in a bad one.](https://github.com/grandinetech/grandine/commit/d9e759cdf5df2d7eac5622d80bc7fae1d22e14d9) - 2025-04-04
+* [Pull Request] [Sync randomly from known peers](https://github.com/grandinetech/grandine/pull/158) - 2025-04-04
+* [Commit] [Add block blacklisting](https://github.com/grandinetech/grandine/commit/e155226eccae2861fb56d0e22ae40eae85e79080) - 2025-04-04
+* [Pull Request] [Add block blacklisting](https://github.com/grandinetech/grandine/pull/155) - 2025-04-04
+* [Commit] [Updated block with invalid payload statuses invalidation in fork choice](https://github.com/grandinetech/grandine/commit/3648ccb37224964b750c47a77916b1249f9d2d8a) - 2025-04-04
+* [Pull Request] [Updated block with invalid payload statuses invalidation in fork choice](https://github.com/grandinetech/grandine/pull/154) - 2025-04-04
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

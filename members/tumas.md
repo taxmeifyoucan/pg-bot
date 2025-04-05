@@ -14,6 +14,10 @@ Team: Grandine
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Update consensus spec tests to v1.5.0-beta.4](https://github.com/grandinetech/grandine/pull/147) - 2025-04-01
 * [Commit] [Update consensus spec tests to v1.5.0-beta.4](https://github.com/grandinetech/grandine/commit/d17c240135174927fba478d138d77c4fbc5b2a5f) - 2025-04-02
+* [Commit] [Use greedy attestation packer](https://github.com/grandinetech/grandine/commit/8ad6cdd17fd8b1b361f88469380524da7e6e0e07) - 2025-04-04
+* [Commit] [Lower log level for sync contribution with no participants message](https://github.com/grandinetech/grandine/commit/e289b0b6b1007588be1621b6c2bb481414e17244) - 2025-04-04
+* [Pull Request] [Lower log level for sync contribution with no participants message](https://github.com/grandinetech/grandine/pull/159) - 2025-04-04
+* [Pull Request] [Use greedy attestation packer](https://github.com/grandinetech/grandine/pull/156) - 2025-04-04
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

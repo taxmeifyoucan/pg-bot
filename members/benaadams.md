@@ -19,6 +19,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Cancel on new payload](https://github.com/NethermindEth/nethermind/commit/f1519a8e49c2c8c696ab42ceb16393d5d4540905) - 2025-04-03
 * [Commit] [Unneeded Dispose](https://github.com/NethermindEth/nethermind/commit/71aa5787b03541545fff1044959abdb7463ed3be) - 2025-04-03
 * [Commit] [Allow partially improved](https://github.com/NethermindEth/nethermind/commit/63fb5b5e546030d688f934be05aef7a9976f0fbc) - 2025-04-03
+* [Commit] [Test](https://github.com/NethermindEth/nethermind/commit/ae4578daa2ca3c9077b28f345af5b5dfe9fd1fc0) - 2025-04-05
+* [Commit] [[Hoodi] Increase gas limit to 60M (#8386)](https://github.com/NethermindEth/nethermind/commit/ebe0d794d6f17b036977d2b40d8d255272a8869a) - 2025-04-05
+* [Commit] [Less changes](https://github.com/NethermindEth/nethermind/commit/b2128acc9dc12a4b2347a522d5455b982a59d72a) - 2025-04-05
+* [Commit] [Reduce changes](https://github.com/NethermindEth/nethermind/commit/9ce9b5f3f52995faef96ead93c6e44e40632351d) - 2025-04-05
+* [Commit] [Reduce changes](https://github.com/NethermindEth/nethermind/commit/6281e63a3f15c0c1f0cc9015e58de79cf481e158) - 2025-04-04
+* [Commit] [Won't pass validation](https://github.com/NethermindEth/nethermind/commit/ec7acf0bfd387b2ad592887abe68703b15fca1c6) - 2025-04-04
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

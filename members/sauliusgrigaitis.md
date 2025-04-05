@@ -8,6 +8,11 @@ Team: Grandine
 
 ## Contributions
 
+## Q2 2025
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Issue] [Cleanup "attempted to publish sync committee contribution and proof with no participants" messages](https://github.com/grandinetech/grandine/issues/157) - 2025-04-04
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

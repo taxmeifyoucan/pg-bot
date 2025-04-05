@@ -23,6 +23,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix observation of timeout for sanitycheck test](https://github.com/ChainSafe/lodestar/commit/5dd6074f1b061c4a9247d6dd2e6dcef40b243237) - 2025-04-03
 * [Commit] [Fix the spec test path](https://github.com/ChainSafe/lodestar/commit/ec671b508f3a3ba2057f4d7ca82258eee6496da5) - 2025-04-03
 * [Commit] [Increase tear down timeout](https://github.com/ChainSafe/lodestar/commit/8b17bcb9d2a8d20163e1ee7ac1fdd5b2bbdcf6ca) - 2025-04-03
+* [Commit] [Revert changes to yarn lock](https://github.com/ChainSafe/lodestar/commit/727029d5bfb609f068491daf8cb70aede1851228) - 2025-04-04
+* [Commit] [Revert changes to deps](https://github.com/ChainSafe/lodestar/commit/2aab002d69c022ec0f778f6f878c66015d2340ae) - 2025-04-04
+* [Commit] [Use threads pool instead of forks](https://github.com/ChainSafe/lodestar/commit/b2b17512f6b7c000b4488b4f5788b1df47a9ed3d) - 2025-04-04
+* [Commit] [fix: update pruning to account for increase of max attestation inclusion slot post-deneb (#7636)](https://github.com/ChainSafe/lodestar/commit/8b43dbeef8bd16a75d40d24953f1d76e3121e741) - 2025-04-04
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

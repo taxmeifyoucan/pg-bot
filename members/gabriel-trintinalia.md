@@ -16,6 +16,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [Changelog for release 25.4.0 (#8514)](https://github.com/hyperledger/besu/commit/112b9bcaace1a000a37c77bf7b0a7199158856cf) - 2025-04-03
 * [Pull Request] [Changelog for release 25.4.0](https://github.com/hyperledger/besu/pull/8514) - 2025-04-03
 * [Issue] [Release 25.4.0](https://github.com/hyperledger/besu/issues/8513) - 2025-04-03
+* [Commit] [Implement eth_simulateV1 (#8406)](https://github.com/hyperledger/besu/commit/1976ad14ee8ce49c8d539fb6152fdd7ff80cc5d2) - 2025-04-04
+* [Pull Request] [[WIP] Eth/69](https://github.com/hyperledger/besu/pull/8519) - 2025-04-04
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

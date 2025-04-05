@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 ## Contributions
 
+## Q2 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [Possible rocksDB compaction causing high I/O](https://github.com/hyperledger/besu/issues/8518) - 2025-04-04
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

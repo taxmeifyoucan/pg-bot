@@ -15,6 +15,9 @@ Team: Erigon
 * [Pull Request] [Arbitrum: fixed gas L1 computation](https://github.com/erigontech/erigon/pull/14423) - 2025-04-03
 * [Commit] [save](https://github.com/erigontech/erigon/commit/142809bd53be298823598c52ffefec994bbcfa87) - 2025-04-03
 * [Commit] [save](https://github.com/erigontech/erigon/commit/657662e445c79932dffe3a3c51c8bf55d65a1978) - 2025-04-03
+* [Commit] [Update core/vm/evm.go](https://github.com/erigontech/erigon/commit/6aaf98cc2dc104b2a75bff09c2b3181dfa7f44bb) - 2025-04-04
+* [Pull Request] [Arbitrum: fixed advanced precompiles interaction](https://github.com/erigontech/erigon/pull/14451) - 2025-04-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c0ed6af82a53bde73ee7913250e90f238ee98e7f) - 2025-04-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

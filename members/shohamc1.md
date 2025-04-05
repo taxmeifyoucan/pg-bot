@@ -27,6 +27,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Fix payloadSize](https://github.com/erigontech/erigon/commit/9b442a0a25084dd9683ec2d3adb55e14cc9b1df4) - 2025-04-02
 * [Commit] [Set variable, error](https://github.com/erigontech/erigon/commit/d97d0bc540d1247ec29a9b09fa5a9519684ccec0) - 2025-04-02
 * [Pull Request] [Add SenderValidationData to RIP-7560 txn](https://github.com/erigontech/erigon/pull/14392) - 2025-04-02
+* [Commit] [Fix `evm` statetest crash (#14449)](https://github.com/erigontech/erigon/commit/67fad81d760201d14eb7278bed2ef839f3c189c9) - 2025-04-04
+* [Pull Request] [Fix `evm` statetest crash](https://github.com/erigontech/erigon/pull/14449) - 2025-04-04
+* [Commit] [reverts](https://github.com/erigontech/erigon/commit/197ae020cf0005e53006d1cfdfe4b7419ec626aa) - 2025-04-04
+* [Commit] [reverts](https://github.com/erigontech/erigon/commit/cff22b415d6adb82178a8ca530bfc0cd24dd5f39) - 2025-04-04
+* [Commit] [reverts](https://github.com/erigontech/erigon/commit/17f0793d85008311e8555c94d6405de73cfde277) - 2025-04-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

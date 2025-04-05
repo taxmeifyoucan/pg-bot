@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q2 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [chore: use `BasicBlockExecutorProvider` instead of `ExecutionStage` in ef-tests](https://github.com/paradigmxyz/reth/pull/15542) - 2025-04-04
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

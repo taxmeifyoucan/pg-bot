@@ -8,6 +8,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 
 ## Contributions
 
+## Q2 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Add prague time and fork id test](https://github.com/hyperledger/besu/pull/8521) - 2025-04-04
+* [Issue] [Add Prague time to genesis](https://github.com/hyperledger/besu/issues/8520) - 2025-04-04
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

@@ -13,6 +13,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: GitChain](https://github.com/ethereum/EIPs/pull/9579) - 2025-04-01
+* [Pull Request] [Update EIP-7916: Add `remerkleable` implementation and tests](https://github.com/ethereum/EIPs/pull/9597) - 2025-04-04
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

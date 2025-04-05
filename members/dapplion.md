@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 ## Contributions
 
+## Q2 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Commit] [More progress](https://github.com/sigp/lighthouse/commit/614c01698d0816b062ac321b5579993747d5708d) - 2025-04-04
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

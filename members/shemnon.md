@@ -16,6 +16,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ash
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Update pretty print indexes](https://github.com/hyperledger/besu/pull/8517) - 2025-04-03
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [EOF Implementors Call, #71, April 16, 2025](https://github.com/ethereum/pm/issues/1429) - 2025-04-04
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

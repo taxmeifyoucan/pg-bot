@@ -14,6 +14,8 @@ Team: Erigon
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Commit] [qa-tests: run RPC performance test nightly (#14324)](https://github.com/erigontech/erigon/commit/a60601de2c421d6a122e0c2bbec203b366bea7b2) - 2025-04-03
 * [Commit] [bump rpc-test version](https://github.com/erigontech/erigon/commit/f9a48475d1d54d5cfad8701d5ad9ecced9c5d9b9) - 2025-04-03
+* [Commit] [qa-tests: add push trigger on release/3.x for sync-from-scratch test  (#14447)](https://github.com/erigontech/erigon/commit/9a510b882244d651ea1d9afbc30b7059173436b2) - 2025-04-04
+* [Pull Request] [qa-tests: schedule sync-from-scratch test on release/3.x](https://github.com/erigontech/erigon/pull/14447) - 2025-04-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

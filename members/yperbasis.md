@@ -19,6 +19,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 * [Commit] [[3.0 cherry-pick] receipts gen: dedup parallel re-exec of same block (#14377)](https://github.com/erigontech/erigon/commit/d99d3a1f7af4200cded9e90d67c4c4c4c72179cf) - 2025-04-02
 * [Issue] [Some Chiado snapshot files have changed](https://github.com/erigontech/erigon/issues/14394) - 2025-04-02
+* [Issue] [Run integrity checks on all published snapshots](https://github.com/erigontech/erigon/issues/14445) - 2025-04-04
+* [Issue] [Automatic integrity checks on newly produced snapshots](https://github.com/erigontech/erigon/issues/14444) - 2025-04-04
+* [Commit] [Increase maximum open files limit on MacOSX (#14427)](https://github.com/erigontech/erigon/commit/05f8e9176e526b373a231d02b90c6ae345c9bea6) - 2025-04-04
+* [Commit] [cherry-pick: Include execution requests in produced block (#14326) (#14395)](https://github.com/erigontech/erigon/commit/e9d32edc469c78851d0729cf52bbe1304207fdc8) - 2025-04-04
+* [Pull Request] [Increase maximum open files limit on MacOSX](https://github.com/erigontech/erigon/pull/14427) - 2025-04-04
+* [Commit] [Increase maximum open files limit on MacOSX (#14017)](https://github.com/erigontech/erigon/commit/387bf62f38e8e15b8961a8c8fb42b2ddbf7c3e75) - 2025-04-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

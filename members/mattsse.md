@@ -16,6 +16,21 @@ Team: Reth
 * [Issue] [Add ConfigureEvm implementation for custom node](https://github.com/paradigmxyz/reth/issues/15431) - 2025-04-01
 * [Issue] [Add engineApi impl for custom node](https://github.com/paradigmxyz/reth/issues/15430) - 2025-04-01
 * [Issue] [Add custom NetworkPrimitives and Networkbuilder implementation](https://github.com/paradigmxyz/reth/issues/15428) - 2025-04-01
+* [Commit] [chore: generalize inmemorysize impl (#15539)](https://github.com/paradigmxyz/reth/commit/5ff46e8e1ac7e0f36fbbe3ddfcebe70a58e70a8b) - 2025-04-04
+* [Pull Request] [chore: generalize inmemorysize impl](https://github.com/paradigmxyz/reth/pull/15539) - 2025-04-04
+* [Pull Request] [chore: silence warnings](https://github.com/paradigmxyz/reth/pull/15538) - 2025-04-04
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/a46268873069d046d36c1d4def70808d140ea7cb) - 2025-04-04
+* [Pull Request] [fix: blob params parsing and configuring](https://github.com/paradigmxyz/reth/pull/15535) - 2025-04-04
+* [Commit] [simplify](https://github.com/paradigmxyz/reth/commit/7ec1dc78baad888a82cb9eb013247c36b2ea934d) - 2025-04-04
+* [Commit] [test: and blob params test](https://github.com/paradigmxyz/reth/commit/a3400b5c839872be73dd6430f467ee75a9fbe4c2) - 2025-04-04
+* [Commit] [fix: update blob params conversion](https://github.com/paradigmxyz/reth/commit/edc43dadb13c5b4c2b4b63d74be8d9542f3a350e) - 2025-04-04
+* [Commit] [fix: derive next blob gas price from params](https://github.com/paradigmxyz/reth/commit/8884677c060755916734a6d2c05a70cf98d78122) - 2025-04-04
+* [Commit] [return tx not found](https://github.com/paradigmxyz/reth/commit/d16bbac877018de776a59de506445db29a4f56f3) - 2025-04-04
+* [Pull Request] [chore: return invalid reward percentiles as invalid params](https://github.com/paradigmxyz/reth/pull/15532) - 2025-04-04
+* [Pull Request] [chore: release 1.3.8](https://github.com/paradigmxyz/reth/pull/15529) - 2025-04-04
+* [Issue] [Add txpool cli args for local txs backup](https://github.com/paradigmxyz/reth/issues/15527) - 2025-04-04
+* [Commit] [fix: add fcu v1 for op engine (#15526)](https://github.com/paradigmxyz/reth/commit/a07064da99d1245c20414c10cc0ef6d0615dcd56) - 2025-04-04
+* [Pull Request] [fix: add fcu v1 for op engine](https://github.com/paradigmxyz/reth/pull/15526) - 2025-04-04
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

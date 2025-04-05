@@ -27,6 +27,16 @@ Team: Erigon
 * [Pull Request] [Schedule Pectra hard fork for Ethereum Mainnet](https://github.com/erigontech/erigon/pull/14424) - 2025-04-03
 * [Pull Request] [engineapi: Add requests nil check](https://github.com/erigontech/erigon/pull/14421) - 2025-04-03
 * [Pull Request] [core/types: Filter empty requests before hashing](https://github.com/erigontech/erigon/pull/14420) - 2025-04-03
+* [Commit] [switch to latest lh](https://github.com/erigontech/erigon/commit/96d4264edb729848fc98a91a3902bc72246ed2d2) - 2025-04-04
+* [Pull Request] [workflows: increase slot time and genesis delay](https://github.com/erigontech/erigon/pull/14446) - 2025-04-04
+* [Commit] [core: move gas check in state transition to before auths check (#14440)](https://github.com/erigontech/erigon/commit/e6e54f2f7e93f18a4cc6d311d72aaa9cfee95b65) - 2025-04-04
+* [Commit] [workflows: Sync hive CI with main (#14437)](https://github.com/erigontech/erigon/commit/32e108f13384096e108cdd1d6c6980d498bc7e34) - 2025-04-04
+* [Pull Request] [core: move gas check in state transition to before auths check](https://github.com/erigontech/erigon/pull/14440) - 2025-04-04
+* [Commit] [cmd: Set default EL extradata to erigon-version (#14419) (#14435)](https://github.com/erigontech/erigon/commit/8de36985a0b9d3170bea7b719347beb4f410fccf) - 2025-04-04
+* [Pull Request] [workflows: Sync hive CI with main](https://github.com/erigontech/erigon/pull/14437) - 2025-04-04
+* [Pull Request] [Schedule Pectra hard fork for Ethereum Mainnet (#14424)](https://github.com/erigontech/erigon/pull/14436) - 2025-04-04
+* [Pull Request] [cmd: Set default EL extradata to erigon-version (#14419)](https://github.com/erigontech/erigon/pull/14435) - 2025-04-04
+* [Pull Request] [workflows: Add a subset of pectra tests and use smaller slot time for Kurtosis tests](https://github.com/erigontech/erigon/pull/14433) - 2025-04-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -8,6 +8,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q2 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [use unspecified gas change reasons in tracing for eof for now](https://github.com/erigontech/erigon/commit/56be3f992c42c752eb07433bee0b4708788cdb00) - 2025-04-04
+* [Commit] [remove useless analysis tests leftover in branch](https://github.com/erigontech/erigon/commit/754d695133183c797da3a2c27236ad4db70a080a) - 2025-04-04
+* [Commit] [remove eofCodeBitmap jumpdest analysis as it is not needed anymore](https://github.com/erigontech/erigon/commit/c2df63d6f1b9ba7832fb64f38763979ab4f597a6) - 2025-04-04
+* [Commit] [add new tracer hooks to eof ops](https://github.com/erigontech/erigon/commit/ad5ef37824e029397638744bce414372b3f8a3a6) - 2025-04-04
+* [Commit] [bor span representation using appendables (#14281)](https://github.com/erigontech/erigon/commit/b61d0d649b364c4a7a168bcc018e950cf4b41600) - 2025-04-04
+* [Pull Request] [core/vm: eof](https://github.com/erigontech/erigon/pull/14448) - 2025-04-04
+* [Commit] [workflows: increase slot time and genesis delay (#14446)](https://github.com/erigontech/erigon/commit/53b92557b20e9ec9ebc293884703a512f2ff1913) - 2025-04-04
+* [Commit] [engineapi: add retries to engineapi jsonrpc client (#14442)](https://github.com/erigontech/erigon/commit/4e0e1f2a077e1db9a8987c0edb0a15e6691043cc) - 2025-04-04
+* [Pull Request] [engineapi: add retries to engineapi jsonrpc client](https://github.com/erigontech/erigon/pull/14442) - 2025-04-04
+* [Commit] [deps: use standar errors pkg (#14418)](https://github.com/erigontech/erigon/commit/ead8aae332a12728b7ebb89e65cc63497b49ed8e) - 2025-04-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

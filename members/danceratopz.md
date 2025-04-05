@@ -43,6 +43,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [docs(deps): document how to manage eest dependencies](https://github.com/ethereum/execution-spec-tests/pull/1388) - 2025-04-03
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/a493f2d44e0941ab4b380a1a75fa97c10d439adf) - 2025-04-03
 * [Pull Request] [chore(deps): add version specifier for `types-requests`](https://github.com/ethereum/execution-spec-tests/pull/1387) - 2025-04-03
+* [Commit] [Deployed 823718ace7 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/87722c2af8fdd545c48787671bf5044c7458abd6) - 2025-04-04
+* [Commit] [Deployed db9f3c3491 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8a0c9b9b527a88a35dd28d595ed2470f4de3be8e) - 2025-04-04
+* [Commit] [Deployed 92511c7d0e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/a12596e81efbc552f8b5db77cc8c8966fd794117) - 2025-04-04
+* [Commit] [Deployed 8dd8df1897 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/9c2023e4faec013509f60922abf5152d2d80e64f) - 2025-04-04
+* [Commit] [Deployed 2b6358432d to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2409952d853cf8bea491fe427e6d0600891abbb6) - 2025-04-04
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

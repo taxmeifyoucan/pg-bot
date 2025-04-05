@@ -13,6 +13,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Add metrics to report peer count by type](https://github.com/hyperledger/besu/pull/8515) - 2025-04-03
+* [Pull Request] [Avoid allocating a `Set` every time `requestIdCompatible` is called](https://github.com/hyperledger/besu/pull/8522) - 2025-04-04
+* [Commit] [Add metrics to report peer count by client (#8515)](https://github.com/hyperledger/besu/commit/409a0e2fa6bd35188a48b19f488641cd8ce2fb4b) - 2025-04-04
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
