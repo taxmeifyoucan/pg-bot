@@ -24,6 +24,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fix feature propagation](https://github.com/paradigmxyz/reth/commit/d58352d6798781f0e5e42e2f6adf93ae0367fa04) - 2025-04-04
 * [Commit] [introduce CustomBlockAssembler and fix ConfigureEvm impl](https://github.com/paradigmxyz/reth/commit/0da4e6d2d00dd3714d5376201eab0e651d13d581) - 2025-04-04
 * [Commit] [fix BlockExecutorFactory impl](https://github.com/paradigmxyz/reth/commit/9f28598500ad9dd8d39c0cc34b0b99bcab6880c0) - 2025-04-04
+* [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/739819713936415890b07a8ee37cc7879965ee3c) - 2025-04-05
+* [Commit] [fix: add fcu v1 for op engine (#15526)](https://github.com/paradigmxyz/reth/commit/a07064da99d1245c20414c10cc0ef6d0615dcd56) - 2025-04-05
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

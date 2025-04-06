@@ -97,6 +97,18 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6c3d400be82c3053c64f129d8050b68813388f24) - 2025-04-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7516164161ff98521f88b4a9b86d9738ce2471ab) - 2025-04-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/23154858a6a53b96881ad2e51ce9b46d642debaf) - 2025-04-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/243354f7274040cf6f91db5301109609af20514a) - 2025-04-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/965efb97997a6109dba361b1352c4e8862eb796a) - 2025-04-05
+* [Commit] [remove unused tables (#14412)](https://github.com/erigontech/erigon/commit/5bcc69c825dbc8d58a2866afb2214e5e2c55611c) - 2025-04-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a73f76b32ffa64e2ca6fcc5fb24ffb07b6dd3c2f) - 2025-04-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/99f6d86ea0dff6a5bcad3d6f93702659e0f406f3) - 2025-04-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/74c8d159e57ba9aba7765b194b73c55ca35ec178) - 2025-04-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/157abb5721c234bd35d81f5a118c726ed9da6cf3) - 2025-04-05
+* [Commit] [`commitment`: remove useless collector from `BranchEncoder` (#14385)](https://github.com/erigontech/erigon/commit/35f27b0a51220f9abc09c808f66be4adb25fd6cc) - 2025-04-05
+* [Commit] [agg: don't log context.Cancel (#14410)](https://github.com/erigontech/erigon/commit/aab70ca5c82d56ce8cb9bbdb8f9541dfefbc19bb) - 2025-04-05
+* [Commit] [psutil: up (#14425)](https://github.com/erigontech/erigon/commit/06cb7893e36adfd3fcabd01d74bc500001673997) - 2025-04-05
+* [Commit] [remove E2 trie implementation (#14426)](https://github.com/erigontech/erigon/commit/bdbf79bdb4494dc9c6b3d89870b5fc460ea633c2) - 2025-04-05
+* [Commit] [rpcd external: set ChainName to snapCfg (#14439)](https://github.com/erigontech/erigon/commit/197592f82321bd890bc7394ef5031ef23cce6978) - 2025-04-05
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

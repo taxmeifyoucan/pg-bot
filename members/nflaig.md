@@ -8,6 +8,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Commit] [feat: upgrade to js-libp2p 2.0 and enable IDONTWANT (#7359)](https://github.com/ChainSafe/lodestar/commit/bf6f3c9e5c92cd085ef37fa4ee21136a65cfa2d9) - 2025-04-05
+* [Commit] [docs: add PR workflow section in contribution guide (#7602)](https://github.com/ChainSafe/lodestar/commit/30652b83f0de6205c01b64020a8f0d786b607c4a) - 2025-04-05
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

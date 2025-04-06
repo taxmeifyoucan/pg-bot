@@ -8,6 +8,12 @@ Team: Nethermind
 
 ## Contributions
 
+## Q2 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [fix loading iled-contracts from dll on startup](https://github.com/NethermindEth/nethermind/commit/a5a2c58aba77b466333602e385b5335468138b2d) - 2025-04-05
+* [Commit] [add writing to disk to default config](https://github.com/NethermindEth/nethermind/commit/3b4974055ec7c4766710e5c0a6a8997b0848005a) - 2025-04-05
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

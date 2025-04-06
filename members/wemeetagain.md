@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Pull Request] [feat: add QUIC support](https://github.com/ChainSafe/lodestar/pull/7659) - 2025-04-05
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -25,6 +25,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reduce changes](https://github.com/NethermindEth/nethermind/commit/9ce9b5f3f52995faef96ead93c6e44e40632351d) - 2025-04-05
 * [Commit] [Reduce changes](https://github.com/NethermindEth/nethermind/commit/6281e63a3f15c0c1f0cc9015e58de79cf481e158) - 2025-04-04
 * [Commit] [Won't pass validation](https://github.com/NethermindEth/nethermind/commit/ec7acf0bfd387b2ad592887abe68703b15fca1c6) - 2025-04-04
+* [Commit] [Update src/Nethermind/Nethermind.Merge.Plugin/BlockProduction/PayloadPreparationService.cs](https://github.com/NethermindEth/nethermind/commit/acbfe0e83583c85f7a53536f482e2dda58127cf3) - 2025-04-05
+* [Commit] [Format](https://github.com/NethermindEth/nethermind/commit/63f82125518713b0be25c2470fa8489ff7dd91b1) - 2025-04-05
+* [Commit] [Fix dark pool stats](https://github.com/NethermindEth/nethermind/commit/f2241ab67d4c8a74dec2a28330a8f3c80a0eaf6f) - 2025-04-05
+* [Commit] [Skip groups where first tx can't pay base fee](https://github.com/NethermindEth/nethermind/commit/09543312de7c606d03013719df3c56e525bb0c29) - 2025-04-05
+* [Commit] [Skip groups where first tx can't pay base fee](https://github.com/NethermindEth/nethermind/commit/0f14be1afe654f7b9922a4ef9b272b3684cde681) - 2025-04-05
+* [Commit] [Skip groups where first tx can't pay base fee](https://github.com/NethermindEth/nethermind/commit/0dbde05cb714f16de1275b7b8a86931fe81c0ddc) - 2025-04-05
+* [Commit] [Revert "Test"](https://github.com/NethermindEth/nethermind/commit/4d6554df06b9ae3d02362246b2ed46255912425c) - 2025-04-05
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

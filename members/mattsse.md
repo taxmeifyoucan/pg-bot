@@ -31,6 +31,10 @@ Team: Reth
 * [Issue] [Add txpool cli args for local txs backup](https://github.com/paradigmxyz/reth/issues/15527) - 2025-04-04
 * [Commit] [fix: add fcu v1 for op engine (#15526)](https://github.com/paradigmxyz/reth/commit/a07064da99d1245c20414c10cc0ef6d0615dcd56) - 2025-04-04
 * [Pull Request] [fix: add fcu v1 for op engine](https://github.com/paradigmxyz/reth/pull/15526) - 2025-04-04
+* [Issue] [Add eth cache helper to fetch ranges of blocks](https://github.com/paradigmxyz/reth/issues/15558) - 2025-04-05
+* [Pull Request] [fix: config defaults for eth components](https://github.com/paradigmxyz/reth/pull/15552) - 2025-04-05
+* [Issue] [Remove redundant EngineNodeTypes trait](https://github.com/paradigmxyz/reth/issues/15547) - 2025-04-05
+* [Issue] [Simplify examples imports](https://github.com/paradigmxyz/reth/issues/15545) - 2025-04-05
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

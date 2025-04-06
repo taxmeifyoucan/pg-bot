@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Control span data through tracing Extensions](https://github.com/sigp/lighthouse/pull/7239) - 2025-04-01
 * [Issue] [Unnecessary `Mutex` in logging layer](https://github.com/sigp/lighthouse/issues/7234) - 2025-04-01
 * [Pull Request] [Backmerge `release-v7.0.0` into `unstable`](https://github.com/sigp/lighthouse/pull/7257) - 2025-04-04
+* [Pull Request] [Bump openssl to fix cargo audit failure](https://github.com/sigp/lighthouse/pull/7263) - 2025-04-05
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
