@@ -14,6 +14,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 [consensys/teku](https://github.com/consensys/teku)
 * [Commit] [25.4.0 Cleanup (#9315)](https://github.com/Consensys/teku/commit/21428b00049ff531718a61ae123d9998bf0bb0e4) - 2025-04-02
 * [Pull Request] [25.4.0 Cleanup](https://github.com/Consensys/teku/pull/9315) - 2025-04-02
+* [Commit] [Electra schedule (#9324)](https://github.com/Consensys/teku/commit/829ce4747605507de77a40ae97a9a13f41dbe070) - 2025-04-06
+* [Pull Request] [Electra schedule](https://github.com/Consensys/teku/pull/9324) - 2025-04-06
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

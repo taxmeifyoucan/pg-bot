@@ -13,6 +13,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: add QUIC support](https://github.com/ChainSafe/lodestar/pull/7659) - 2025-04-05
+* [Commit] [chore: more debug log](https://github.com/ChainSafe/lodestar/commit/e8b2c82fca7c0f82047391299922fb46690f0a3b) - 2025-04-06
+* [Commit] [chore: more debug log](https://github.com/ChainSafe/lodestar/commit/1cbef381bcb2fede24aa15c7cedeadb21c362b55) - 2025-04-06
+* [Commit] [chore: more debug log](https://github.com/ChainSafe/lodestar/commit/e977b1844eaf4063445794da4a982979f769b557) - 2025-04-06
+* [Commit] [chore: add debug log](https://github.com/ChainSafe/lodestar/commit/32e2bc2e99aa11b69f29a8aef0dd0f0cc5235c46) - 2025-04-06
+* [Commit] [chore: add temp version of libp2p-quic](https://github.com/ChainSafe/lodestar/commit/79561a341c282152c90af468f62c14be68b9fe2a) - 2025-04-06
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

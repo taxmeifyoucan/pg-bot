@@ -109,6 +109,26 @@ Team: Erigon
 * [Commit] [psutil: up (#14425)](https://github.com/erigontech/erigon/commit/06cb7893e36adfd3fcabd01d74bc500001673997) - 2025-04-05
 * [Commit] [remove E2 trie implementation (#14426)](https://github.com/erigontech/erigon/commit/bdbf79bdb4494dc9c6b3d89870b5fc460ea633c2) - 2025-04-05
 * [Commit] [rpcd external: set ChainName to snapCfg (#14439)](https://github.com/erigontech/erigon/commit/197592f82321bd890bc7394ef5031ef23cce6978) - 2025-04-05
+* [Commit] [rename `StateV3` to `ParallelExecutionState` (#14458)](https://github.com/erigontech/erigon/commit/47f063dafc09c0c2fb70a7658c57b050d85d0099) - 2025-04-06
+* [Commit] [agg: less fmt.print (#14456)](https://github.com/erigontech/erigon/commit/bf2c7a86890850553b7c98ddd36363cf8d89e179) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/674ff3124b9e96b5b2400448b984d7efeb015127) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/78874f946d91e98ea4ef40d4f92b8e972be50f1c) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6bc3b773af17be3206ae3b5b737326d696442c02) - 2025-04-06
+* [Pull Request] [rename `StateV3` to `ParallelExecutionState`](https://github.com/erigontech/erigon/pull/14458) - 2025-04-06
+* [Pull Request] [remove changesets interface](https://github.com/erigontech/erigon/pull/14457) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/04923d72cac577e71fc156ea8321e13ad6da3d47) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/303272480237b909dc63d5226e1ef9daccaec198) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3ad7edba36cfd2f879eb94e9c19887b53b23fd8b) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/56f6287546cfe4c37ceec3d1c618951a4b466b8a) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/583ea0553a68517324179fad95ff98d2de3b6575) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ed04f0701ec286d3e290e92bf8f22e103f128825) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/08290a2bcef1c54c85bab5e743883dd5c37799e5) - 2025-04-06
+* [Pull Request] [agg: less fmt.print](https://github.com/erigontech/erigon/pull/14456) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/da9ca5022c5c72ca3bca1fe17c917480c3f2f60f) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b86841361dec5e2e7c5be2e8bd6a59b87a3dff79) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0e88a6396980f99bc037674b485c5ee97ccb44dd) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a69955f73300384bdbb2f7e4baff40ad5e5bf222) - 2025-04-06
+* [Commit] [remove unused tables (#14412)](https://github.com/erigontech/erigon/commit/5bcc69c825dbc8d58a2866afb2214e5e2c55611c) - 2025-04-06
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -15,6 +15,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Sync peer pool tests](https://github.com/NethermindEth/nethermind/commit/098fd3c5ca9dd402b5a0335c81bb4d30e3e0c4fb) - 2025-04-05
 * [Commit] [DLS and fix test](https://github.com/NethermindEth/nethermind/commit/734402172cdf3eaf25334a6396261e3e9590f65a) - 2025-04-05
 * [Commit] [Move request sizer to node stats](https://github.com/NethermindEth/nethermind/commit/6b15144fc16fa96a7bd2cc8242c51f308bf68371) - 2025-04-05
+* [Issue] [Double check other client limits](https://github.com/NethermindEth/nethermind/issues/8475) - 2025-04-06
+* [Pull Request] [Perf/More accurate request limit.](https://github.com/NethermindEth/nethermind/pull/8474) - 2025-04-06
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/6e050895d4aa0ff5e40d645efe27fa7a01485016) - 2025-04-06
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

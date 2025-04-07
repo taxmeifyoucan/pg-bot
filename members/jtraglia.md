@@ -16,6 +16,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Fix lint](https://github.com/ethereum/consensus-specs/commit/e21f007fcba993366e75a7f5dfa82adee879ac76) - 2025-04-01
 * [Commit] [Bump actions/setup-python from 5.4.0 to 5.5.0 in the actions group (#4242)](https://github.com/ethereum/consensus-specs/commit/e8400151a6e704b816aa67d0367c7adad9246ce6) - 2025-04-01
 * [Pull Request] [Use `mdformat` for markdown formatting](https://github.com/ethereum/consensus-specs/pull/4244) - 2025-04-03
+* [Commit] [Add two consolidation request processing edge case tests (#4246)](https://github.com/ethereum/consensus-specs/commit/74da2e2741c88887dbb05afe0621a5b2fcc11aac) - 2025-04-06
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

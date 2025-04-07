@@ -19,6 +19,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Ensure sqlite and rusqlite are optional in `consensus/types` (#7182)](https://github.com/sigp/lighthouse/commit/9dce729cb6a0a1219c06aa3e4328d0b387deea44) - 2025-04-03
 * [Commit] [Use debug repr](https://github.com/sigp/lighthouse/commit/06b19e33815c55ca3bdf44893fd7105a3c2f55c9) - 2025-04-03
 * [Commit] [Consensus spec tests beta4 (#7231)](https://github.com/sigp/lighthouse/commit/33e41f7249b7c34d9d3271fe4408eaa2a6dfeedc) - 2025-04-04
+* [Issue] [Update mainnet bootnodes](https://github.com/sigp/lighthouse/issues/7266) - 2025-04-07
+* [Pull Request] [Remove CLI conflict for secrets-dir and datadir](https://github.com/sigp/lighthouse/pull/7265) - 2025-04-06
+* [Commit] [Bump openssl to fix cargo audit failure (#7263)](https://github.com/sigp/lighthouse/commit/5dd998a6163c46b24709b18e4f06c2a14c13c1d0) - 2025-04-06
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

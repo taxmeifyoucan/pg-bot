@@ -19,6 +19,10 @@ Team: Erigon
 * [Pull Request] [Arbitrum: fixed advanced precompiles interaction](https://github.com/erigontech/erigon/pull/14451) - 2025-04-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/c0ed6af82a53bde73ee7913250e90f238ee98e7f) - 2025-04-04
 * [Pull Request] [Arbitrum: Correct `DropTip` logic](https://github.com/erigontech/erigon/pull/14453) - 2025-04-05
+* [Commit] [Caplin-Archive: silenced early indexing error (#14459)](https://github.com/erigontech/erigon/commit/3e220cb82ff86f7828aae5e16f35659c53fd9d33) - 2025-04-06
+* [Pull Request] [Caplin: Optimized re-init of caches](https://github.com/erigontech/erigon/pull/14461) - 2025-04-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f78fe5aa7daa834cbdf9a790d87ba2c5e4445b31) - 2025-04-06
+* [Pull Request] [Caplin-Archive: silenced early indexing error](https://github.com/erigontech/erigon/pull/14459) - 2025-04-06
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

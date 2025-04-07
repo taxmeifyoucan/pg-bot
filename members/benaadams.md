@@ -32,6 +32,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Skip groups where first tx can't pay base fee](https://github.com/NethermindEth/nethermind/commit/0f14be1afe654f7b9922a4ef9b272b3684cde681) - 2025-04-05
 * [Commit] [Skip groups where first tx can't pay base fee](https://github.com/NethermindEth/nethermind/commit/0dbde05cb714f16de1275b7b8a86931fe81c0ddc) - 2025-04-05
 * [Commit] [Revert "Test"](https://github.com/NethermindEth/nethermind/commit/4d6554df06b9ae3d02362246b2ed46255912425c) - 2025-04-05
+* [Commit] [Back out change](https://github.com/NethermindEth/nethermind/commit/9476d8d5615fbb78de845bd6d19b33c0c2a63103) - 2025-04-06
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/78e7b403f78f6444db3f864fdb0699611230be6c) - 2025-04-06
+* [Commit] [Fix broken Engine API documentation link in error message (#8476)](https://github.com/NethermindEth/nethermind/commit/220fffd70931e8dbb44ae3674444d7a6bbd9970f) - 2025-04-06
+* [Commit] [Update src/Nethermind/Nethermind.Consensus/Processing/BlockchainProcessor.cs](https://github.com/NethermindEth/nethermind/commit/f711c5907749f9228ca2bde6be95f0bedf1be365) - 2025-04-06
+* [Commit] [Use ArgumentNullException.ThrowIfNull (#8477)](https://github.com/NethermindEth/nethermind/commit/27bd3f5434ff783ebc2567c81ee8c8511ac12ba3) - 2025-04-06
+* [Commit] [Update OP Superchain chains (#8473)](https://github.com/NethermindEth/nethermind/commit/283c49abc1d4d2ba65f71a4fbd6468fa790c7653) - 2025-04-06
+* [Commit] [Auto-update fast sync settings (#8472)](https://github.com/NethermindEth/nethermind/commit/83114261c90a5c516dcc8e1dcf5e0249947b4ea1) - 2025-04-06
+* [Pull Request] [Use ArgumentNullException.ThrowIfNull](https://github.com/NethermindEth/nethermind/pull/8477) - 2025-04-06
+* [Commit] [Test retries](https://github.com/NethermindEth/nethermind/commit/7a0f4c0621b5a19420540ee309a843a2c634e2eb) - 2025-04-06
+* [Commit] [Increase hot code](https://github.com/NethermindEth/nethermind/commit/83230884490f641547f2682e134b0fc0384fc51b) - 2025-04-06
+* [Commit] [Move logging out of hot path](https://github.com/NethermindEth/nethermind/commit/a593f28b199561daeba548e6d54e9c8066a3750e) - 2025-04-06
+* [Commit] [Remove unneeded commit](https://github.com/NethermindEth/nethermind/commit/19e0653aa8c0ad284b39b7c558274b060125ca8f) - 2025-04-06
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
