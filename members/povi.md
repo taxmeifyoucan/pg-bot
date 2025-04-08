@@ -20,6 +20,7 @@ Team: Grandine
 * [Pull Request] [Add block blacklisting](https://github.com/grandinetech/grandine/pull/155) - 2025-04-04
 * [Commit] [Updated block with invalid payload statuses invalidation in fork choice](https://github.com/grandinetech/grandine/commit/3648ccb37224964b750c47a77916b1249f9d2d8a) - 2025-04-04
 * [Pull Request] [Updated block with invalid payload statuses invalidation in fork choice](https://github.com/grandinetech/grandine/pull/154) - 2025-04-04
+* [Pull Request] [Data dumper](https://github.com/grandinetech/grandine/pull/163) - 2025-04-07
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

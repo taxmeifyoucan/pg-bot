@@ -22,6 +22,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Update mainnet bootnodes](https://github.com/sigp/lighthouse/issues/7266) - 2025-04-07
 * [Pull Request] [Remove CLI conflict for secrets-dir and datadir](https://github.com/sigp/lighthouse/pull/7265) - 2025-04-06
 * [Commit] [Bump openssl to fix cargo audit failure (#7263)](https://github.com/sigp/lighthouse/commit/5dd998a6163c46b24709b18e4f06c2a14c13c1d0) - 2025-04-06
+* [Commit] [Optimise status processing (#7082)](https://github.com/sigp/lighthouse/commit/7d598ed8a51da90b37bf0330d28718f97e3390e8) - 2025-04-07
+* [Issue] [Delete `transaction_mutex` from LevelDB/Redb](https://github.com/sigp/lighthouse/issues/7270) - 2025-04-07
+* [Pull Request] [Bump version to v7.1.0-beta.0 (not a release)](https://github.com/sigp/lighthouse/pull/7269) - 2025-04-07
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

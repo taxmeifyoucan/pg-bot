@@ -8,6 +8,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 ## Contributions
 
+## Q2 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [Forkchoice helper for dependent root (#15136)](https://github.com/prysmaticlabs/prysm/commit/0d7d9bd5fc1cd2c51ee37f25b2cd578893c455c9) - 2025-04-07
+* [Commit] [James' suggestion](https://github.com/prysmaticlabs/prysm/commit/4e4700b9be34d7dbfd36f58e2606b39f480a0fcc) - 2025-04-07
+* [Pull Request] [Use forkchoice dependent root helper](https://github.com/prysmaticlabs/prysm/pull/15137) - 2025-04-07
+* [Commit] [Forkchoice helper for dependent root](https://github.com/prysmaticlabs/prysm/commit/b4ed6ab4558555d337c0a942cbf44ad7fe94cef2) - 2025-04-07
+* [Pull Request] [Forkchoice helper for dependent root](https://github.com/prysmaticlabs/prysm/pull/15136) - 2025-04-07
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -14,6 +14,9 @@ Team: Reth
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Commit] [change arguments order](https://github.com/paradigmxyz/reth/commit/2ab46a13475ff4f616d14abce0efaf424038596a) - 2025-04-01
 * [Commit] [change arguments order](https://github.com/paradigmxyz/reth/commit/557728d72ee1d45506eee3ad50e5e7b7e1d7f4b7) - 2025-04-01
+* [Issue] [Investigate if we can get rid of Nibbles in favour of byte slices](https://github.com/paradigmxyz/reth/issues/15594) - 2025-04-07
+* [Pull Request] [chore: bump lighthouse and do minor fixes in docker compose](https://github.com/paradigmxyz/reth/pull/15587) - 2025-04-07
+* [Issue] [Document how prewarm concurrency is calculated](https://github.com/paradigmxyz/reth/issues/15586) - 2025-04-07
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

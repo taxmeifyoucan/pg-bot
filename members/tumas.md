@@ -18,6 +18,8 @@ Team: Grandine
 * [Commit] [Lower log level for sync contribution with no participants message](https://github.com/grandinetech/grandine/commit/e289b0b6b1007588be1621b6c2bb481414e17244) - 2025-04-04
 * [Pull Request] [Lower log level for sync contribution with no participants message](https://github.com/grandinetech/grandine/pull/159) - 2025-04-04
 * [Pull Request] [Use greedy attestation packer](https://github.com/grandinetech/grandine/pull/156) - 2025-04-04
+* [Pull Request] [Correctly compute first epoch Electra proposers from an earlier epoch](https://github.com/grandinetech/grandine/pull/162) - 2025-04-07
+* [Pull Request] [Don't precompute proposers for the next epoch](https://github.com/grandinetech/grandine/pull/161) - 2025-04-07
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

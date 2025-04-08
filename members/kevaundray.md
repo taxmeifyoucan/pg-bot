@@ -15,6 +15,7 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore: use `BasicBlockExecutorProvider` instead of `ExecutionStage` in ef-tests](https://github.com/paradigmxyz/reth/pull/15542) - 2025-04-04
 * [Pull Request] [chore: enable `clippy::iter_over_hash_type` lints to check where non-determinstic iteration is happening](https://github.com/paradigmxyz/reth/pull/15567) - 2025-04-05
 * [Pull Request] [chore: check if `invalid_blocks` pass tests in EF](https://github.com/paradigmxyz/reth/pull/15564) - 2025-04-05
+* [Pull Request] [feat: add stateless crate to expose stateless validation](https://github.com/paradigmxyz/reth/pull/15591) - 2025-04-07
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

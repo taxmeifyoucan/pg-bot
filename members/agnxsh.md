@@ -22,6 +22,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [cleanup pointless whitespaces](https://github.com/status-im/nimbus-eth2/commit/e7b6c53871ae97a240eda6f5deb0c149d31b198e) - 2025-04-04
 * [Commit] [make debug-column-syncer flag hidden](https://github.com/status-im/nimbus-eth2/commit/250aff0abd9ef75e97799eb142f0283641dc4157) - 2025-04-04
 * [Commit] [further cleanups](https://github.com/status-im/nimbus-eth2/commit/392c8ce24c4b273c16e86e185781e90ae2875a87) - 2025-04-04
+* [Commit] [Peer pool custom filtering (attempt 2). (#7040)](https://github.com/status-im/nimbus-eth2/commit/88725c7690f3ffdd00793beeed8345be44c4e216) - 2025-04-07
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

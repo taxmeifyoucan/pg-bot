@@ -18,6 +18,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Issue] [Double check other client limits](https://github.com/NethermindEth/nethermind/issues/8475) - 2025-04-06
 * [Pull Request] [Perf/More accurate request limit.](https://github.com/NethermindEth/nethermind/pull/8474) - 2025-04-06
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/6e050895d4aa0ff5e40d645efe27fa7a01485016) - 2025-04-06
+* [Commit] [Refactor/Move some TestBlockchain code to DI. (#8465)](https://github.com/NethermindEth/nethermind/commit/d22055d671df04102d7c45e273cd26c43a5a6952) - 2025-04-07
+* [Commit] [Perf/More accurate request limit. (#8474)](https://github.com/NethermindEth/nethermind/commit/c3ba42564e164e175614fe9c570fed93e53a2317) - 2025-04-07
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

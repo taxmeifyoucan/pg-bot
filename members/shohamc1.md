@@ -32,6 +32,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [reverts](https://github.com/erigontech/erigon/commit/197ae020cf0005e53006d1cfdfe4b7419ec626aa) - 2025-04-04
 * [Commit] [reverts](https://github.com/erigontech/erigon/commit/cff22b415d6adb82178a8ca530bfc0cd24dd5f39) - 2025-04-04
 * [Commit] [reverts](https://github.com/erigontech/erigon/commit/17f0793d85008311e8555c94d6405de73cfde277) - 2025-04-04
+* [Commit] [Fix `trace_transaction` for Polygon chains (#14470)](https://github.com/erigontech/erigon/commit/fcd40723220ca9e5574004462777db2693737533) - 2025-04-07
+* [Commit] [Fix interfaces commit (#14473)](https://github.com/erigontech/erigon/commit/fc86ab0a066d468a2a81aecab6fccc3b2b3bc80e) - 2025-04-07
+* [Pull Request] [Fix interfaces commit](https://github.com/erigontech/erigon/pull/14473) - 2025-04-07
+* [Commit] [Update README.md](https://github.com/erigontech/erigon/commit/d7c377a97666ab0f4371847e07b8dceba3e17fcd) - 2025-04-07
+* [Commit] [Fix trace_block](https://github.com/erigontech/erigon/commit/e3fd66dee7eb8aa76a7f38ec65d9b378cb354479) - 2025-04-07
+* [Pull Request] [Fix `trace_transaction` for Polygon chains](https://github.com/erigontech/erigon/pull/14470) - 2025-04-07
+* [Pull Request] [Move tracer call](https://github.com/erigontech/erigon/pull/14467) - 2025-04-07
+* [Commit] [Move tracer call](https://github.com/erigontech/erigon/commit/b04814aa9168a527c7a2075df3b6c9d52e5ad933) - 2025-04-07
+* [Commit] [move call](https://github.com/erigontech/erigon/commit/f4abdceb95903ddd68e2a2e859e9b88622faf0c8) - 2025-04-07
+* [Commit] [Ignore CALL](https://github.com/erigontech/erigon/commit/bd4512d5451e571a7e650d99621ee80ed22f86a8) - 2025-04-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

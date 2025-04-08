@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Commit] [feat: shared CustodyConfig on main thread and network thread (#7632)](https://github.com/ChainSafe/lodestar/commit/6c1a116d2684671d92f42bd4dd553783073f0ead) - 2025-04-07
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

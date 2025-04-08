@@ -48,6 +48,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 92511c7d0e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/a12596e81efbc552f8b5db77cc8c8966fd794117) - 2025-04-04
 * [Commit] [Deployed 8dd8df1897 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/9c2023e4faec013509f60922abf5152d2d80e64f) - 2025-04-04
 * [Commit] [Deployed 2b6358432d to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2409952d853cf8bea491fe427e6d0600891abbb6) - 2025-04-04
+* [Commit] [Deployed 08a60c9530 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/59e0291e24329d0138ac2a5f24ef934379195d81) - 2025-04-07
+* [Commit] [feat(execute): Use test spec names as markers for `execute` (#1367)](https://github.com/ethereum/execution-spec-tests/commit/7af6c713382a404a9539a87af4e6841a4b3be81f) - 2025-04-07
+* [Commit] [Deployed 2a747431fb to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/df064a5a25c2f9069b2a7a62f99cc43a6f2f1347) - 2025-04-07
+* [Pull Request] [Suggestions for #1396, refactor(exceptions,specs): Support general block exceptions - Pydantic context to parse using mapper](https://github.com/ethereum/execution-spec-tests/pull/1404) - 2025-04-07
+* [Commit] [Deployed d3dfac564e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/65e712c36c93016e65bb16a39d3d9cb3e2866195) - 2025-04-07
+* [Commit] [Deployed ce28bd5550 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/00a0f40485404679c24da98a8c531fab14e6b5bd) - 2025-04-07
+* [Commit] [chore(deps): remove now unused bdict dependency](https://github.com/ethereum/execution-spec-tests/commit/aefd37b447376ddfb2255b447072e6ac1bb79976) - 2025-04-07
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

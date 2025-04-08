@@ -27,6 +27,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: track continue; flow in getAttestationsForBlockElectra()](https://github.com/ChainSafe/lodestar/commit/a12afdf3840630457a92acc2a9ad3f948cedbb44) - 2025-04-03
 * [Pull Request] [fix: aggregated attestation pool for electra](https://github.com/ChainSafe/lodestar/pull/7656) - 2025-04-04
 * [Commit] [fix: improve MatchingDataAttestationGroup unit test with notSeenAttesters](https://github.com/ChainSafe/lodestar/commit/87f8bce718306ac120699c5c310295819f4e1ca1) - 2025-04-04
+* [Commit] [chore: address PR comments](https://github.com/ChainSafe/lodestar/commit/acb45220717077be4e4359270257677a138bc809) - 2025-04-07
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

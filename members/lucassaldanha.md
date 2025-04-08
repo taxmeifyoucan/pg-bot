@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [25.4.0 Cleanup](https://github.com/Consensys/teku/pull/9315) - 2025-04-02
 * [Commit] [Electra schedule (#9324)](https://github.com/Consensys/teku/commit/829ce4747605507de77a40ae97a9a13f41dbe070) - 2025-04-06
 * [Pull Request] [Electra schedule](https://github.com/Consensys/teku/pull/9324) - 2025-04-06
+* [Pull Request] [Created Fulu skeleton setup](https://github.com/Consensys/teku/pull/9325) - 2025-04-07
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

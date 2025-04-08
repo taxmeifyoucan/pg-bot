@@ -8,6 +8,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Commit] [chore(docs): added link to the badge release (#1401)](https://github.com/ethereum/execution-spec-tests/commit/ce28bd5550f1686bdf855e42a1416ae6e9e23b05) - 2025-04-07
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

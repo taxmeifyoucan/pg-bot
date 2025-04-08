@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 
 ## Contributions
 
+## Q2 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Fix runner test (#8312)](https://github.com/NethermindEth/nethermind/commit/66f55c99f3941421efcbecc9697918e88c21d360) - 2025-04-07
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -26,6 +26,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [breaking out mock into its own file so it's visible elsewhere](https://github.com/prysmaticlabs/prysm/commit/80461016143cacea87932243d3d240bafe2aef01) - 2025-04-03
 * [Commit] [reran mockgen](https://github.com/prysmaticlabs/prysm/commit/d7b5cee44575910a93f3a33c6f9c83695ef50ef2) - 2025-04-03
 * [Pull Request] [fixes health tracker usage ](https://github.com/prysmaticlabs/prysm/pull/15126) - 2025-04-03
+* [Commit] [Update changelog for v5.3.0 release (#14918)](https://github.com/prysmaticlabs/prysm/commit/66878deb2c902ddaba29f5e8958dee78c1480390) - 2025-04-07
+* [Commit] [refactor state-by-root test to table-driven (#15087)](https://github.com/prysmaticlabs/prysm/commit/1b65e000963be3ab6615be861385617e64b95f43) - 2025-04-07
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

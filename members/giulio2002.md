@@ -23,6 +23,10 @@ Team: Erigon
 * [Pull Request] [Caplin: Optimized re-init of caches](https://github.com/erigontech/erigon/pull/14461) - 2025-04-06
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f78fe5aa7daa834cbdf9a790d87ba2c5e4445b31) - 2025-04-06
 * [Pull Request] [Caplin-Archive: silenced early indexing error](https://github.com/erigontech/erigon/pull/14459) - 2025-04-06
+* [Pull Request] [Fixed snapshot checker again (need differentiation beetwen transaction and transaction-to-block idx)](https://github.com/erigontech/erigon/pull/14480) - 2025-04-07
+* [Pull Request] [Cherry-Pick: Snapshot: check idx ranges alongside segs (#14476)](https://github.com/erigontech/erigon/pull/14479) - 2025-04-07
+* [Commit] [Snapshot: check idx ranges alongside segs (#14476)](https://github.com/erigontech/erigon/commit/3c8273cf9a34e4360032603f4bf20115d2e18421) - 2025-04-07
+* [Pull Request] [Snapshot: check idx ranges alongside segs](https://github.com/erigontech/erigon/pull/14476) - 2025-04-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

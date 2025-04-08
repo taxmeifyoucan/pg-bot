@@ -35,6 +35,10 @@ Team: Reth
 * [Pull Request] [fix: config defaults for eth components](https://github.com/paradigmxyz/reth/pull/15552) - 2025-04-05
 * [Issue] [Remove redundant EngineNodeTypes trait](https://github.com/paradigmxyz/reth/issues/15547) - 2025-04-05
 * [Issue] [Simplify examples imports](https://github.com/paradigmxyz/reth/issues/15545) - 2025-04-05
+* [Commit] [chore:changed import for custom-evm (#15572)](https://github.com/paradigmxyz/reth/commit/dfd838cce09ea7d987e756eb05d0e547998d973d) - 2025-04-07
+* [Commit] [chore: update advisories (#15580)](https://github.com/paradigmxyz/reth/commit/1e1f0f8e6b762804f2cb2a822f78fdd3c61d53cc) - 2025-04-07
+* [Commit] [crunchy](https://github.com/paradigmxyz/reth/commit/af8a496af2c7483571c590bbbfea30d373438d3d) - 2025-04-07
+* [Pull Request] [chore: update advisories](https://github.com/paradigmxyz/reth/pull/15580) - 2025-04-07
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

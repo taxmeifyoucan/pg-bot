@@ -15,6 +15,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/4f9b355c52f8fbb7424e2fcc340c11871cfa3eee) - 2025-04-01
 * [Issue] [Caplin: Track and implement fulu upgrade](https://github.com/erigontech/erigon/issues/14374) - 2025-04-01
 * [Pull Request] [cherry-pick: Include execution requests in produced block (#14326)](https://github.com/erigontech/erigon/pull/14395) - 2025-04-02
+* [Commit] [Caplin: Optimized re-init of caches (#14461)](https://github.com/erigontech/erigon/commit/60eef092a92218d972d80b54299f671b8dbbd654) - 2025-04-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

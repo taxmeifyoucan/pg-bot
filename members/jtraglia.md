@@ -17,6 +17,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Bump actions/setup-python from 5.4.0 to 5.5.0 in the actions group (#4242)](https://github.com/ethereum/consensus-specs/commit/e8400151a6e704b816aa67d0367c7adad9246ce6) - 2025-04-01
 * [Pull Request] [Use `mdformat` for markdown formatting](https://github.com/ethereum/consensus-specs/pull/4244) - 2025-04-03
 * [Commit] [Add two consolidation request processing edge case tests (#4246)](https://github.com/ethereum/consensus-specs/commit/74da2e2741c88887dbb05afe0621a5b2fcc11aac) - 2025-04-06
+* [Commit] [Fix lint & simplify table](https://github.com/ethereum/consensus-specs/commit/114eaaf0fdf7af9037cad4c3fe2ba630f5b2eed4) - 2025-04-07
+* [Commit] [Create honest validator specs for Fulu (#4135)](https://github.com/ethereum/consensus-specs/commit/ff99bc03d6da29d9ef6e055bdb8500e1b2942f1e) - 2025-04-07
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

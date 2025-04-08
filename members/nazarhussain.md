@@ -27,6 +27,20 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Revert changes to deps](https://github.com/ChainSafe/lodestar/commit/2aab002d69c022ec0f778f6f878c66015d2340ae) - 2025-04-04
 * [Commit] [Use threads pool instead of forks](https://github.com/ChainSafe/lodestar/commit/b2b17512f6b7c000b4488b4f5788b1df47a9ed3d) - 2025-04-04
 * [Commit] [fix: update pruning to account for increase of max attestation inclusion slot post-deneb (#7636)](https://github.com/ChainSafe/lodestar/commit/8b43dbeef8bd16a75d40d24953f1d76e3121e741) - 2025-04-04
+* [Commit] [Fix lint formatting](https://github.com/ChainSafe/lodestar/commit/a3c0d3089d0f907a20d7ee60f067c14f1bc5ac06) - 2025-04-07
+* [Commit] [Fix formatting](https://github.com/ChainSafe/lodestar/commit/e4bd483df19d657b37b511b14c7cbd36e5af7be3) - 2025-04-07
+* [Commit] [Fix docs formatting](https://github.com/ChainSafe/lodestar/commit/f050d962be423192574ec30a7891a9d36c8536e4) - 2025-04-07
+* [Pull Request] [doc: add docs for the historical state generation using binary diff layers](https://github.com/ChainSafe/lodestar/pull/7665) - 2025-04-07
+* [Pull Request] [feat: add xdelta3 support for computing binary difference](https://github.com/ChainSafe/lodestar/pull/7664) - 2025-04-07
+* [Pull Request] [feat: add differential layers support](https://github.com/ChainSafe/lodestar/pull/7663) - 2025-04-07
+* [Commit] [fix: improve epoch transition using ssz v1.2.0 (#7617)](https://github.com/ChainSafe/lodestar/commit/0329edb2c30bb00a844d33b0645f9be71632efcd) - 2025-04-07
+* [Commit] [Fix linting](https://github.com/ChainSafe/lodestar/commit/17d64aa1ea55e16ae3fb19f6b2d3ee93f258ea6b) - 2025-04-07
+* [Commit] [ci: enable spec tests for validator in the CI (#7661)](https://github.com/ChainSafe/lodestar/commit/4ea73abe94630d290277bd50d95734eac83ed2b3) - 2025-04-07
+* [Commit] [Increase timeout for hook](https://github.com/ChainSafe/lodestar/commit/78a8a68027acb35f1e3696e20961fcad7237bbd7) - 2025-04-07
+* [Commit] [Revert change for the ci workflow related to validator tests](https://github.com/ChainSafe/lodestar/commit/7570b396d2aa80a32e8fc552d7a062333dcfb476) - 2025-04-07
+* [Pull Request] [ci: enable spec tests for validator in the CI](https://github.com/ChainSafe/lodestar/pull/7661) - 2025-04-07
+* [Commit] [Update the configuration](https://github.com/ChainSafe/lodestar/commit/5e7c8432933953b32dbebd74f4814038887c53fe) - 2025-04-07
+* [Commit] [Fix download spec tests for CI](https://github.com/ChainSafe/lodestar/commit/acdf943016ea2dc5116a2d438ec69620b2e5308e) - 2025-04-07
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

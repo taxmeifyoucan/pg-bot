@@ -8,6 +8,15 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 
 ## Contributions
 
+## Q2 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [cosmetic](https://github.com/NethermindEth/nethermind/commit/dcde3bcbde4ac82f9986c2ae7adb28d6304328ee) - 2025-04-07
+* [Commit] [fix blobs bundle v2](https://github.com/NethermindEth/nethermind/commit/ee46950aba7d4f2c224987b8e7e4ad1480ae4464) - 2025-04-07
+* [Commit] [whitespaces](https://github.com/NethermindEth/nethermind/commit/7fe9169cb294c9e87d59a2d1aa14c332def419c4) - 2025-04-07
+* [Commit] [Volta bootnodes adjusted (#8463)](https://github.com/NethermindEth/nethermind/commit/9011fc55afc6ccf36c534954d8ebc18b924cbca0) - 2025-04-07
+* [Commit] [extend test for blobs bundle v1](https://github.com/NethermindEth/nethermind/commit/0d320247c70f83eda58f14e21e2f555b70700e3b) - 2025-04-07
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

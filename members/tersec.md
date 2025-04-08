@@ -24,6 +24,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rm last debugComment for Electra migration (#7048)](https://github.com/status-im/nimbus-eth2/commit/7bce775fe21d42b9b0fc7b050e70b9ba4e944b13) - 2025-04-02
 * [Pull Request] [some manual consensus spec v1.5.0-beta.4 URL updates](https://github.com/status-im/nimbus-eth2/pull/7049) - 2025-04-02
 * [Pull Request] [rm last debugComment for Electra migration](https://github.com/status-im/nimbus-eth2/pull/7048) - 2025-04-02
+* [Commit] [Use correct phase0 or electra candidateIdx (#7036)](https://github.com/status-im/nimbus-eth2/commit/23430ffd6e907264d3caafdbb77abe9105e69854) - 2025-04-07
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

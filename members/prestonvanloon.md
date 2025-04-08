@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 
 ## Contributions
 
+## Q2 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Issue] [[Github] Prysm repo is moving to Offchain Labs organization!](https://github.com/prysmaticlabs/prysm/issues/15139) - 2025-04-07
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

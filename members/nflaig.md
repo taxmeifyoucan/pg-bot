@@ -14,6 +14,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Commit] [feat: upgrade to js-libp2p 2.0 and enable IDONTWANT (#7359)](https://github.com/ChainSafe/lodestar/commit/bf6f3c9e5c92cd085ef37fa4ee21136a65cfa2d9) - 2025-04-05
 * [Commit] [docs: add PR workflow section in contribution guide (#7602)](https://github.com/ChainSafe/lodestar/commit/30652b83f0de6205c01b64020a8f0d786b607c4a) - 2025-04-05
+* [Pull Request] [chore: reduce time to retain registered validator in monitor to 1 hour](https://github.com/ChainSafe/lodestar/pull/7668) - 2025-04-07
+* [Commit] [Update attestation pool unit tests](https://github.com/ChainSafe/lodestar/commit/2ab54ce0fbac5b82fb938f5beac9b87fccd16df9) - 2025-04-07
+* [Commit] [Pass metrics to AttestationPool](https://github.com/ChainSafe/lodestar/commit/35f3184d2461c5b39134e8e76ae508d0b2ac5873) - 2025-04-07
+* [Pull Request] [feat: adjust aggregate participation buckets and track aggregate cache misses](https://github.com/ChainSafe/lodestar/pull/7667) - 2025-04-07
+* [Commit] [feat: adjust aggregate participation buckets and track aggregate cache misses](https://github.com/ChainSafe/lodestar/commit/9ba0c44fecc657efa766043b19d0d635ec3d0054) - 2025-04-07
+* [Commit] [chore: update teku mainnet bootnodes (#7662)](https://github.com/ChainSafe/lodestar/commit/08715d4f0dcef21707082a01ca852dae34e29d8b) - 2025-04-07
+* [Commit] [Add new line to file](https://github.com/ChainSafe/lodestar/commit/5d176913918168c52298a6a0c2793b11705814e5) - 2025-04-07
+* [Pull Request] [chore: update teku mainnet bootnodes](https://github.com/ChainSafe/lodestar/pull/7662) - 2025-04-07
+* [Commit] [fix: aggregated attestation pool for electra (#7656)](https://github.com/ChainSafe/lodestar/commit/5f4d26b46b1355e2583a7068a24db6d125c5e24b) - 2025-04-07
+* [Commit] [feat: schedule electra on mainnet (#7655)](https://github.com/ChainSafe/lodestar/commit/87d367d9f7a8d6e548743a7fb65f13a0ca0d367d) - 2025-04-07
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

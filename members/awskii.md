@@ -24,6 +24,15 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2307ea4d0c415582237b80454f87d748585a75a8) - 2025-04-04
 * [Commit] [added actual concurrency](https://github.com/erigontech/erigon/commit/1957a60c35642ea22f74145d2839e371ad4778f4) - 2025-04-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8ef699cfb034b2826aaa98ec6d910d0bf7c4fe47) - 2025-04-04
+* [Pull Request] [Commitment: get rid of branch cache inside commitment context](https://github.com/erigontech/erigon/pull/14483) - 2025-04-07
+* [Pull Request] [Commitment: no embedded keccak](https://github.com/erigontech/erigon/pull/14482) - 2025-04-07
+* [Pull Request] [Commitment: remove unused parameter tempdir](https://github.com/erigontech/erigon/pull/14481) - 2025-04-07
+* [Commit] [agg: don't log context.Cancel (#14410)](https://github.com/erigontech/erigon/commit/aab70ca5c82d56ce8cb9bbdb8f9541dfefbc19bb) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/75f45c42195f345f300d1af4846263bcc5f1579c) - 2025-04-07
+* [Commit] [separate mutex purpose](https://github.com/erigontech/erigon/commit/d68b24231484326d1dd06a42ff5d10fb08bfbd13) - 2025-04-07
+* [Commit] [Revert "what if"](https://github.com/erigontech/erigon/commit/af6615416184d1ebe3613e17062d867e72096a8f) - 2025-04-07
+* [Commit] [what if](https://github.com/erigontech/erigon/commit/5e93792381b403757a31a2bb798f5d0c1db19967) - 2025-04-07
+* [Commit] [Arbitrum: Correct `DropTip` logic (#14453)](https://github.com/erigontech/erigon/commit/9d1da15d96e4b7a764b065587b6ae9f352517095) - 2025-04-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

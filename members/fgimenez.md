@@ -26,6 +26,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fix BlockExecutorFactory impl](https://github.com/paradigmxyz/reth/commit/9f28598500ad9dd8d39c0cc34b0b99bcab6880c0) - 2025-04-04
 * [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/739819713936415890b07a8ee37cc7879965ee3c) - 2025-04-05
 * [Commit] [fix: add fcu v1 for op engine (#15526)](https://github.com/paradigmxyz/reth/commit/a07064da99d1245c20414c10cc0ef6d0615dcd56) - 2025-04-05
+* [Commit] [fix: send_rpc_call deserialization (#15523)](https://github.com/paradigmxyz/reth/commit/1ba40f3d46413f73543ce805eef9ed41f3b9ef58) - 2025-04-07
+* [Commit] [remove return value in transact_batch](https://github.com/paradigmxyz/reth/commit/14da12d8f67f1ef67dc379dfdfd0735caaf562f7) - 2025-04-07
+* [Commit] [use itertools::chunk](https://github.com/paradigmxyz/reth/commit/2ef06b289061180a83668468ce78ffe1d1d95159) - 2025-04-07
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

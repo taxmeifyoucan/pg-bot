@@ -8,6 +8,12 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [eth_simulate Implementers' Meeting | April 14, 2025](https://github.com/ethereum/pm/issues/1437) - 2025-04-07
+* [Issue] [eth_simulate Implementers' Meeting | April 07, 2025](https://github.com/ethereum/pm/issues/1436) - 2025-04-07
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

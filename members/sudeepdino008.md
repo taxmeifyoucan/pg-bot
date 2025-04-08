@@ -21,6 +21,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d7c4dc642fe27c1b4544e5ee06e4339447dfaacd) - 2025-04-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ff0d41b1ce95ed41587cc8bff2b5329f0da6d0d8) - 2025-04-04
 * [Pull Request] [wip](https://github.com/erigontech/erigon/pull/14441) - 2025-04-04
+* [Pull Request] [move dirty files lock to higher-level public method](https://github.com/erigontech/erigon/pull/14466) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/544c9d80a17a64e0978526ae2c63665d67a77d11) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f703fb4074b9330066487d24abd8bb0932954ce6) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/39a8d7a2c2d7e697cd0df4ebc193996d304bfb31) - 2025-04-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

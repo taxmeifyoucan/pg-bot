@@ -22,10 +22,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): Additional EIP-2935 coverage (#1379)](https://github.com/ethereum/execution-spec-tests/commit/92511c7d0e526cf7ebdc0fc93a0d22cf4f5d8242) - 2025-04-04
 * [Pull Request] [chore(types): Refactor and remove misleading comment in `Requests`](https://github.com/ethereum/execution-spec-tests/pull/1399) - 2025-04-04
 * [Commit] [feat(tests): Blake2 test spec refactor (#1395)](https://github.com/ethereum/execution-spec-tests/commit/8dd8df1897e61aedbdfccfb9747d01038898a056) - 2025-04-04
+* [Commit] [fix(tests): Add comment explaining `skip_exception_verification`](https://github.com/ethereum/execution-spec-tests/commit/75d737f5fe1c9e463fc5c18d2958fb4e13c2bd19) - 2025-04-07
+* [Issue] [This is actually what we are already doing for EELS filled tests: all exceptions in the mapper there are variations of "Invalid transaction", trimmed to different lengths, so it's ineffective at the moment.](https://github.com/ethereum/execution-spec-tests/issues/1406) - 2025-04-07
+* [Commit] [Suggestions for #1396, refactor(exceptions,specs): Support general block exceptions - Pydantic context to parse using mapper (#1404)](https://github.com/ethereum/execution-spec-tests/commit/335529602749b8e7c95063a7a879084256ed1039) - 2025-04-07
+* [Commit] [new(tests): Add EOF validation tests for stack underflow (#1331)](https://github.com/ethereum/execution-spec-tests/commit/08a60c9530c67139279475ae58e69577c2bd11fb) - 2025-04-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04
 * [Pull Request] [t8n: Return `InvalidBlock` exception in `result.blockException`](https://github.com/ethereum/execution-specs/pull/1182) - 2025-04-04
+* [Issue] [Improve Transaction Exception Messages](https://github.com/ethereum/execution-specs/issues/1186) - 2025-04-07
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

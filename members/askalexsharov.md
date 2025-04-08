@@ -129,6 +129,41 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0e88a6396980f99bc037674b485c5ee97ccb44dd) - 2025-04-06
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a69955f73300384bdbb2f7e4baff40ad5e5bf222) - 2025-04-06
 * [Commit] [remove unused tables (#14412)](https://github.com/erigontech/erigon/commit/5bcc69c825dbc8d58a2866afb2214e5e2c55611c) - 2025-04-06
+* [Commit] [`DOWNLOADER_ONLY_BLOCKS` to allow also caplin files (#14474)](https://github.com/erigontech/erigon/commit/a32c246b43e42a37f2aeac0406c628c647af4e7b) - 2025-04-07
+* [Pull Request] [bor rpc: set GetBlockReceipts to receipt](https://github.com/erigontech/erigon/pull/14475) - 2025-04-07
+* [Commit] [simplify header.Hash() (#14463)](https://github.com/erigontech/erigon/commit/3725b14b2ac62043b93094451459cde09779c467) - 2025-04-07
+* [Pull Request] [`DOWNLOADER_ONLY_BLOCKS` to allow also caplin files](https://github.com/erigontech/erigon/pull/14474) - 2025-04-07
+* [Commit] [rpctest invariantsEthGetLogs: speedup by checking each addr only once in each block (#14465)](https://github.com/erigontech/erigon/commit/96740275e3363c2c387cae42c895f0ed6548c5c5) - 2025-04-07
+* [Pull Request] [[3.0 pick] fix: correct error handling in LogStats callback ](https://github.com/erigontech/erigon/pull/14469) - 2025-04-07
+* [Issue] [global variable race in tests](https://github.com/erigontech/erigon/issues/14468) - 2025-04-07
+* [Commit] [diag: added txpool (#14271)](https://github.com/erigontech/erigon/commit/53dc6c7e9779db71f8e042495f39be45e4454f74) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0a954b06f4f7cb716f02a521e228d88fb9040a34) - 2025-04-07
+* [Commit] [remove changesets interface (#14457)](https://github.com/erigontech/erigon/commit/c82f14db9aecf3bab0358e643daf7b7232df783c) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0618a7b1a565c41b9386d5e5177d5560c9c0f0aa) - 2025-04-07
+* [Pull Request] [rpctest invariantsEthGetLogs: speedup by checking each addr only once in each block](https://github.com/erigontech/erigon/pull/14465) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0b5b1bc3e72d26c5acb2716add4538df0aee4833) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b3681b9af5242670753e14101fa9a0397fca04c9) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f647b14b8274bbe0d73c116d3898f5ee5a7d3c34) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c882a94de392e2b6bf275ea87a642ebaaa5c916b) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e46b4ba34f32dd640c69857bfd6a8bb8de7e8931) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/407a36b8cf7403fb299295f116fad0bfe2044e55) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/23829c6b215bc221b364d20a29093d9cfdd2ef3c) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d8008bd84bf51848bd1e79f4e81a72cb72bc0a32) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b38d17e5ba988a4d147f072ee54400724394faa1) - 2025-04-07
+* [Issue] [downloader race: AllowDataUpload](https://github.com/erigontech/erigon/issues/14464) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7cf74eb24d9205c0dff3589bcb9be6999b6a0aec) - 2025-04-07
+* [Commit] [deps: use standar errors pkg (#14418)](https://github.com/erigontech/erigon/commit/ead8aae332a12728b7ebb89e65cc63497b49ed8e) - 2025-04-07
+* [Pull Request] [simplify header.Hash()](https://github.com/erigontech/erigon/pull/14463) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bcb5acb09febf0652e2ff7c28a97cc349cd2caf4) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ca497d9a6cab3c6963e16e2834b8ce60bf15a368) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bcd4eca55e53d72f38219db66302446a33c638ac) - 2025-04-07
+* [Pull Request] [[wip] receipt: produce hash](https://github.com/erigontech/erigon/pull/14462) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c346b1d1a805e2b41c2ae3bdb8ed3e2c64553b70) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4e1b59d6dc984382171dddd1bd147e3efe747687) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1a9d3da42551e185f7de01248b5d4dc806a541b5) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/13aea0e6974b776759e74863ece7708fe6e124e9) - 2025-04-07
+* [Commit] [agg: less fmt.print (#14456)](https://github.com/erigontech/erigon/commit/bf2c7a86890850553b7c98ddd36363cf8d89e179) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9aa47169bce6cf6cd9aa80d0a9559e9689e159b3) - 2025-04-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

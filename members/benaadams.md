@@ -44,6 +44,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Increase hot code](https://github.com/NethermindEth/nethermind/commit/83230884490f641547f2682e134b0fc0384fc51b) - 2025-04-06
 * [Commit] [Move logging out of hot path](https://github.com/NethermindEth/nethermind/commit/a593f28b199561daeba548e6d54e9c8066a3750e) - 2025-04-06
 * [Commit] [Remove unneeded commit](https://github.com/NethermindEth/nethermind/commit/19e0653aa8c0ad284b39b7c558274b060125ca8f) - 2025-04-06
+* [Commit] [Update chain sizes test (#8478)](https://github.com/NethermindEth/nethermind/commit/195e515ef2bbafc939fa141a9b13c6cd55a57062) - 2025-04-07
+* [Pull Request] [Update chain sizes test](https://github.com/NethermindEth/nethermind/pull/8478) - 2025-04-07
+* [Commit] [Change op-node to 1.10.3 from latest on actions (#8133)](https://github.com/NethermindEth/nethermind/commit/25cfdc24bbfa26361d70da850cffbb8a92715d5b) - 2025-04-07
+* [Commit] [Build up to +50% more profitable (local) blocks (#8462)](https://github.com/NethermindEth/nethermind/commit/6d4baf5e8a8fa130d9e743a9de1d1a1f411cc9c3) - 2025-04-07
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

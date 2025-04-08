@@ -13,6 +13,8 @@ Team: Erigon
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Commit] [evm GetEOFHeader little cleanup](https://github.com/erigontech/erigon/commit/09e427378f6757f865ecb4583eb56728ab540b24) - 2025-04-01
+* [Commit] [eof: JUMPF set section index](https://github.com/erigontech/erigon/commit/cccd2177c7574885fcf97a9f0d21aaa769640077) - 2025-04-07
+* [Commit] [eof state_tests: do not read tx from post](https://github.com/erigontech/erigon/commit/3e1b165f62e0ab2a621c734f1d45e7d42a72a2ad) - 2025-04-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

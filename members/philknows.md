@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Add Lodestar coordinators for Pectra fork](https://github.com/ethereum/pm/pull/1438) - 2025-04-07
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

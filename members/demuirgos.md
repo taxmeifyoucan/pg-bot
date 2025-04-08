@@ -16,6 +16,9 @@ Team: Nethermind
 * [Commit] [add writing to disk to default config](https://github.com/NethermindEth/nethermind/commit/3b4974055ec7c4766710e5c0a6a8997b0848005a) - 2025-04-05
 * [Commit] [fix build issue](https://github.com/NethermindEth/nethermind/commit/075f771007577513e5b40d079177c0974ebff410) - 2025-04-06
 * [Commit] [Feature/movable sync pivot (#8401)](https://github.com/NethermindEth/nethermind/commit/5fa6b6f212e1fe09543b8370b088847542b13f17) - 2025-04-06
+* [Commit] [fix Benchmarks.slnx build failure](https://github.com/NethermindEth/nethermind/commit/56e332069ddae4b43c5be5ce181bad64e9f73276) - 2025-04-07
+* [Commit] [fix verification stack overflow](https://github.com/NethermindEth/nethermind/commit/6f3e7dc2d7a51342613cd118a003f507cad3c5ca) - 2025-04-07
+* [Commit] [remove local testing flags](https://github.com/NethermindEth/nethermind/commit/3e3277eaa4b44401a820fc16ad6d6c2e562ed76e) - 2025-04-07
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

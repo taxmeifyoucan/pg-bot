@@ -13,6 +13,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Update the type for `blob_gas_used` (#1161)](https://github.com/ethereum/execution-specs/commit/75635cdfb18ef2d1294ecdf1bfd452be2a687571) - 2025-04-01
+* [Pull Request] [Clear specific json files](https://github.com/ethereum/execution-specs/pull/1185) - 2025-04-07
+* [Commit] [added address after checks (#1129)](https://github.com/ethereum/execution-specs/commit/42382b564a9b0549ddc65d1c1ff2f85064bf126d) - 2025-04-07
+* [Commit] [EELS Update: Update EIP-6110 (#1143)](https://github.com/ethereum/execution-specs/commit/417cc259b07f48fbe518f87c856778effabf89f1) - 2025-04-07
 ## Q1 2025
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
