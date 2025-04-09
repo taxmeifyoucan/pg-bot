@@ -41,6 +41,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [ci: enable spec tests for validator in the CI](https://github.com/ChainSafe/lodestar/pull/7661) - 2025-04-07
 * [Commit] [Update the configuration](https://github.com/ChainSafe/lodestar/commit/5e7c8432933953b32dbebd74f4814038887c53fe) - 2025-04-07
 * [Commit] [Fix download spec tests for CI](https://github.com/ChainSafe/lodestar/commit/acdf943016ea2dc5116a2d438ec69620b2e5308e) - 2025-04-07
+* [Commit] [Fix browser config path](https://github.com/ChainSafe/lodestar/commit/b49e1dabfcff47667d70c232303c2840087cdd09) - 2025-04-08
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

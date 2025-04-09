@@ -20,6 +20,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/6e050895d4aa0ff5e40d645efe27fa7a01485016) - 2025-04-06
 * [Commit] [Refactor/Move some TestBlockchain code to DI. (#8465)](https://github.com/NethermindEth/nethermind/commit/d22055d671df04102d7c45e273cd26c43a5a6952) - 2025-04-07
 * [Commit] [Perf/More accurate request limit. (#8474)](https://github.com/NethermindEth/nethermind/commit/c3ba42564e164e175614fe9c570fed93e53a2317) - 2025-04-07
+* [Pull Request] [Perf/Work stealing executor](https://github.com/NethermindEth/nethermind/pull/8487) - 2025-04-08
+* [Commit] [Reduce parallelization](https://github.com/NethermindEth/nethermind/commit/98d558775aeef064638a1584e95ce07906097b0d) - 2025-04-08
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

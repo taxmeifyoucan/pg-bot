@@ -19,6 +19,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Remove Vert.x deprecated methods (#8501)](https://github.com/hyperledger/besu/commit/4cfcce7807e0bcd4005c8e14d8f3e9bcb1209727) - 2025-04-02
 * [Issue] [repeated CLI args should prevent startup](https://github.com/hyperledger/besu/issues/8505) - 2025-04-02
 * [Commit] [use Quantity.create for storage proof key to avoid 0x for zero (#8499)](https://github.com/hyperledger/besu/commit/2afb161a70bbce95866be0eba8115d21112b7b03) - 2025-04-04
+* [Pull Request] [replace deprecated Charsets UTF-8 usage with StandardCharsets](https://github.com/hyperledger/besu/pull/8528) - 2025-04-08
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

@@ -13,6 +13,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Possible rocksDB compaction causing high I/O](https://github.com/hyperledger/besu/issues/8518) - 2025-04-04
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Matilda Clerke from Besu](https://github.com/protocolguild/documentation/pull/338) - 2025-04-08
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

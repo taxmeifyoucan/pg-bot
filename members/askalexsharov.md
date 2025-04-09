@@ -164,6 +164,54 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/13aea0e6974b776759e74863ece7708fe6e124e9) - 2025-04-07
 * [Commit] [agg: less fmt.print (#14456)](https://github.com/erigontech/erigon/commit/bf2c7a86890850553b7c98ddd36363cf8d89e179) - 2025-04-07
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9aa47169bce6cf6cd9aa80d0a9559e9689e159b3) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/735ff10343acd3be73a390ef28b83c337e208205) - 2025-04-08
+* [Commit] [[3.0 pick] fix: correct error handling in LogStats callback  (#14469)](https://github.com/erigontech/erigon/commit/7487399a70510411df98d280f33eeaddfde7f50f) - 2025-04-08
+* [Commit] [rm e2 call trace tables (#14487)](https://github.com/erigontech/erigon/commit/775e70279c1a1c0e197229c8e46a0a2ffad4dadc) - 2025-04-08
+* [Commit] [txpool: Fix 7702 signature parsing and simplify auth handling (#14486)](https://github.com/erigontech/erigon/commit/3ed7e42430ce9c02b5cf40e403bba9fdac684f28) - 2025-04-08
+* [Pull Request] [bug/race: recalcVisibleFiles doesn't lock dirty files](https://github.com/erigontech/erigon/pull/14494) - 2025-04-08
+* [Commit] [lock dirty files (#14488)](https://github.com/erigontech/erigon/commit/2cfaecb80aa9e0960570a5fe00b681ae2ee89d57) - 2025-04-08
+* [Pull Request] [remove `id` field from aggtx](https://github.com/erigontech/erigon/pull/14493) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9cbf2abb9bf288d52983dd93a36d8b1e04d0ec46) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/15c3b7e69a6cf6d9cc23d31884035367dad6c670) - 2025-04-08
+* [Pull Request] [up x deps](https://github.com/erigontech/erigon/pull/14489) - 2025-04-08
+* [Pull Request] [lock dirty files](https://github.com/erigontech/erigon/pull/14488) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b75205315add2bf2b3cbdad301f99b8065684492) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f91f76ee6a47c241fb8f2689eb754f9c28f3e283) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fabe9ab4e67dad9f2ec7ce82caa29d23713300f2) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1cd091cf42dcaaf65434d4c4e8b45925b47edbeb) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cccd2324d826f1e2a77c653870c21d28851b4c14) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ba00cb0dee93493d1b984b291b963716cf98c73e) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b3d2ca791520ff22c8f761658f6181a360af8208) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/69ff22938cca281065ad2b57b0617e41d59d4401) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e7022e850dc572fd89225f003b66c9d0c7a13cbd) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9c9ae17a06e9a1e0d19aac97c62ba8086c261295) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/96bb34c56719ca8389657cb990acc422b0da6082) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c0e59b790dd8ac7628ea48603da34a7a559191b6) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/45351b5a83b95e7a1fb66bb635658e8c7c79b806) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/834b780be3576e037e935042d5f59e460a57ba68) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fb06dab0003d90aaef7d8c4a620e00000ea25938) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/99c8399cf4f2feda0e0f39a3e11aa8ee2402e561) - 2025-04-08
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/fbe9d340151703e75656023df32e38a01056df68) - 2025-04-08
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/6bef11fca30723aa4190dbd781477160a9b8cc40) - 2025-04-08
+* [Commit] [exclude manifest.txt from webseed check (#14362)](https://github.com/erigontech/erigon/commit/f0a98418970d935ab152574bc6f083da52e3897c) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0a258fb3f8bf55c0e463b966cd56c257fec34366) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/74fb579d6e88484d89fa9d6295c0713443e5e95e) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bace2e0294b5c87dfc5f4d2a2520bd069a83fede) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/05d32068ac19806ce897075dd5de2e0c24b6fdc4) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c96eec02cb048d158b6f3ffb72278bc440d198a2) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cfaf9600b67ceed13ce3532fc25603c50d5f0eee) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bd296ad5fc89b3c1db9d969d52906bd43713cd9d) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d69325ee87ba9fad8a770e2b105cbacc5fe3c66b) - 2025-04-08
+* [Commit] [Schedule Pectra hard fork for Ethereum Mainnet (#14424) (#14436)](https://github.com/erigontech/erigon/commit/fa24d535f0e17c539d66e0d5ddee9c69427844a4) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eb0df5627509a782e0acbc3275808f22bbeb8545) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/00987c7919ae5501e965917a0360cb0741816690) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/acc349d57df0765dcc767343a114d627519b35af) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/41801997dddb10c4c4b780eeb34e68472a528ced) - 2025-04-08
+* [Commit] [remove changesets interface (#14457)](https://github.com/erigontech/erigon/commit/c82f14db9aecf3bab0358e643daf7b7232df783c) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f86304c4ede10e8b76c555e1e6d28d042abc0d8d) - 2025-04-08
+* [Commit] [Schedule Pectra for Chiado (#13930)](https://github.com/erigontech/erigon/commit/5964df0468a2a6112effd184a93773603df98882) - 2025-04-08
+* [Pull Request] [rm e2 call trace tables](https://github.com/erigontech/erigon/pull/14487) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/88bb4e93451d49eeb959c650769180cd1c897d6b) - 2025-04-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

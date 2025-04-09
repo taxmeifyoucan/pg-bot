@@ -13,6 +13,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Refactor TraceOptions to become a record (#8503)](https://github.com/hyperledger/besu/commit/fbe36365e58328d4b5582fd30aa0f40493d99390) - 2025-04-02
 * [Pull Request] [Fix codehash removal upon account removal](https://github.com/hyperledger/besu/pull/8523) - 2025-04-04
+* [Pull Request] [Speed up ID precompile](https://github.com/hyperledger/besu/pull/8529) - 2025-04-08
+* [Commit] [Immediately check for static exceptions for `SELFDESTRUCT` (#8468)](https://github.com/hyperledger/besu/commit/6af6caba5801110c89c458a66270cc0588f1fd66) - 2025-04-08
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

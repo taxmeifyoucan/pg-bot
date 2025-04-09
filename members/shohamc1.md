@@ -42,6 +42,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Move tracer call](https://github.com/erigontech/erigon/commit/b04814aa9168a527c7a2075df3b6c9d52e5ad933) - 2025-04-07
 * [Commit] [move call](https://github.com/erigontech/erigon/commit/f4abdceb95903ddd68e2a2e859e9b88622faf0c8) - 2025-04-07
 * [Commit] [Ignore CALL](https://github.com/erigontech/erigon/commit/bd4512d5451e571a7e650d99621ee80ed22f86a8) - 2025-04-07
+* [Commit] [txpool: Fix p.auths having dangling authorities if duplicate found (#14497)](https://github.com/erigontech/erigon/commit/5f71647e134da6c6a01146b6731493aeec08b319) - 2025-04-08
+* [Commit] [Cleaner AA execution code (#14491)](https://github.com/erigontech/erigon/commit/60d60b4397b6fcf90a9e36014e2febd3f29ebc7c) - 2025-04-08
+* [Pull Request] [Cleaner AA execution code](https://github.com/erigontech/erigon/pull/14491) - 2025-04-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

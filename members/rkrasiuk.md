@@ -19,3 +19,5 @@ Team: Reth
 * [Pull Request] [feat: `Prague` mainnet timestamp](https://github.com/paradigmxyz/reth/pull/15582) - 2025-04-07
 * [Commit] [update alloy with blobs bundle proofs field name fix](https://github.com/paradigmxyz/reth/commit/a07be382858ac498083506fb2143d36c1e287867) - 2025-04-07
 * [Commit] [chore: return invalid reward percentiles as invalid params (#15532)](https://github.com/paradigmxyz/reth/commit/1a9562f89b966fcca922a475637b1fe5ec489222) - 2025-04-07
+* [Pull Request] [fix(evm): custom blob params](https://github.com/paradigmxyz/reth/pull/15598) - 2025-04-08
+* [Commit] [fix blob_max_and_target_count revm setting](https://github.com/paradigmxyz/reth/commit/1a4d585e207d593fa79be647ae9738131127d4d5) - 2025-04-08

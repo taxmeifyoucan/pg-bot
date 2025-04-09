@@ -27,6 +27,12 @@ Team: Erigon
 * [Pull Request] [Cherry-Pick: Snapshot: check idx ranges alongside segs (#14476)](https://github.com/erigontech/erigon/pull/14479) - 2025-04-07
 * [Commit] [Snapshot: check idx ranges alongside segs (#14476)](https://github.com/erigontech/erigon/commit/3c8273cf9a34e4360032603f4bf20115d2e18421) - 2025-04-07
 * [Pull Request] [Snapshot: check idx ranges alongside segs](https://github.com/erigontech/erigon/pull/14476) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8c6c2e47d5952c7259eba8f69f25f0fa863c63e4) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d8ea986bcb2800debed1d4731809fd1143add918) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/73c20bf59418f771e0b45bcedbe989998d2acba1) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/03ba93d958a74a6d27f56ec0af127313abc9e546) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/160905f18952c305aa841dd8e0430a0c1a963779) - 2025-04-08
+* [Commit] [fix incorrect electra fork epoch on gnosis (#14496) (#14498)](https://github.com/erigontech/erigon/commit/2795c8b2332a10f28e81c87d76af490de0446d27) - 2025-04-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

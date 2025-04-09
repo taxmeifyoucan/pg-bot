@@ -8,6 +8,14 @@ Team: Ipsilon
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7692: EOF - update scope of EOF with EIP-7873](https://github.com/ethereum/EIPs/pull/9615) - 2025-04-08
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Commit] [fix(tests): EOF - Align EOFCREATE args with EXT*CALL (#1274)](https://github.com/ethereum/execution-spec-tests/commit/e0eeecbfb3cb96e7fffa2d8f9266422a5ac5ba45) - 2025-04-08
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

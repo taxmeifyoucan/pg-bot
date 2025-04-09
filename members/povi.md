@@ -21,6 +21,8 @@ Team: Grandine
 * [Commit] [Updated block with invalid payload statuses invalidation in fork choice](https://github.com/grandinetech/grandine/commit/3648ccb37224964b750c47a77916b1249f9d2d8a) - 2025-04-04
 * [Pull Request] [Updated block with invalid payload statuses invalidation in fork choice](https://github.com/grandinetech/grandine/pull/154) - 2025-04-04
 * [Pull Request] [Data dumper](https://github.com/grandinetech/grandine/pull/163) - 2025-04-07
+* [Commit] [Data dumper](https://github.com/grandinetech/grandine/commit/47b771c7147af84296154ed401db0dabc50208e2) - 2025-04-08
+* [Commit] [Keep beacon states loaded from storage on demand in state cache](https://github.com/grandinetech/grandine/commit/ce7476aa0a0dc3eb5438814d796e2726aa07cc32) - 2025-04-08
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

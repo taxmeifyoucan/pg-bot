@@ -20,6 +20,7 @@ Team: Grandine
 * [Pull Request] [Use greedy attestation packer](https://github.com/grandinetech/grandine/pull/156) - 2025-04-04
 * [Pull Request] [Correctly compute first epoch Electra proposers from an earlier epoch](https://github.com/grandinetech/grandine/pull/162) - 2025-04-07
 * [Pull Request] [Don't precompute proposers for the next epoch](https://github.com/grandinetech/grandine/pull/161) - 2025-04-07
+* [Commit] [Correctly compute first epoch Electra proposers from an earlier epoch](https://github.com/grandinetech/grandine/commit/acd451ee2895f5a7a1c66906ef7948ac8e627609) - 2025-04-08
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

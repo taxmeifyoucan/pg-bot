@@ -25,6 +25,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/544c9d80a17a64e0978526ae2c63665d67a77d11) - 2025-04-07
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f703fb4074b9330066487d24abd8bb0932954ce6) - 2025-04-07
 * [Commit] [save](https://github.com/erigontech/erigon/commit/39a8d7a2c2d7e697cd0df4ebc193996d304bfb31) - 2025-04-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eb3fefcc5ca1e1b541bab554d876bd87963ea1e9) - 2025-04-08
+* [Pull Request] [tests for snap_repo and freezing ranges](https://github.com/erigontech/erigon/pull/14501) - 2025-04-08
+* [Commit] [snapshot repo and filename schema (#14441)](https://github.com/erigontech/erigon/commit/e2e1928820d75d4fbde710e46218e2ced3f77b4f) - 2025-04-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

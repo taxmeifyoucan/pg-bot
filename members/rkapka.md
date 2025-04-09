@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 
 ## Contributions
 
+## Q2 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Pull Request] [Fix misleading log msg on shutdown](https://github.com/prysmaticlabs/prysm/pull/13063) - 2025-04-08
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -21,6 +21,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Shutter: fix shutdown dispose (#8418)](https://github.com/NethermindEth/nethermind/commit/ca8afe50fb838315fef9c88659d86ac0555075e3) - 2025-04-01
 * [Commit] [Auto-update fast sync settings (#8444)](https://github.com/NethermindEth/nethermind/commit/30e9506cb655fdb26351b1297eb653a9a46c0100) - 2025-04-01
 * [Commit] [Minor refactoring and optimisations (#8451)](https://github.com/NethermindEth/nethermind/commit/2ffd3a8f40f2a27604f529d0f04026cf3bed45d7) - 2025-04-01
+* [Issue] [Clock cache assertion fails](https://github.com/NethermindEth/nethermind/issues/8488) - 2025-04-08
+* [Commit] [add dispose on early return](https://github.com/NethermindEth/nethermind/commit/f3dc22b748d04e66da6cc37dc9b9d2b6fd90da78) - 2025-04-08
+* [Pull Request] [Fix: dispose ArrayPoolList in SyncStatusList](https://github.com/NethermindEth/nethermind/pull/8485) - 2025-04-08
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -25,6 +25,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Optimise status processing (#7082)](https://github.com/sigp/lighthouse/commit/7d598ed8a51da90b37bf0330d28718f97e3390e8) - 2025-04-07
 * [Issue] [Delete `transaction_mutex` from LevelDB/Redb](https://github.com/sigp/lighthouse/issues/7270) - 2025-04-07
 * [Pull Request] [Bump version to v7.1.0-beta.0 (not a release)](https://github.com/sigp/lighthouse/pull/7269) - 2025-04-07
+* [Issue] [Add pending_consolidations API](https://github.com/sigp/lighthouse/issues/7282) - 2025-04-08
+* [Issue] [Fix deserialization of Electra JSON responses from builders](https://github.com/sigp/lighthouse/issues/7277) - 2025-04-08
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

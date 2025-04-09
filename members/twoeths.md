@@ -28,6 +28,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: aggregated attestation pool for electra](https://github.com/ChainSafe/lodestar/pull/7656) - 2025-04-04
 * [Commit] [fix: improve MatchingDataAttestationGroup unit test with notSeenAttesters](https://github.com/ChainSafe/lodestar/commit/87f8bce718306ac120699c5c310295819f4e1ca1) - 2025-04-04
 * [Commit] [chore: address PR comments](https://github.com/ChainSafe/lodestar/commit/acb45220717077be4e4359270257677a138bc809) - 2025-04-07
+* [Pull Request] [feat: sort packed attestations by total effective balance](https://github.com/ChainSafe/lodestar/pull/7673) - 2025-04-08
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

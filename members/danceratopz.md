@@ -55,6 +55,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed d3dfac564e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/65e712c36c93016e65bb16a39d3d9cb3e2866195) - 2025-04-07
 * [Commit] [Deployed ce28bd5550 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/00a0f40485404679c24da98a8c531fab14e6b5bd) - 2025-04-07
 * [Commit] [chore(deps): remove now unused bdict dependency](https://github.com/ethereum/execution-spec-tests/commit/aefd37b447376ddfb2255b447072e6ac1bb79976) - 2025-04-07
+* [Commit] [Deployed e0eeecbfb3 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/211edcd745419c9bbe7ec8d82b66bbfea36a2992) - 2025-04-08
+* [Commit] [Deployed cc023a4e06 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/ae6c2cf3ec8e2025db4bc4b085d80b3ab48b1953) - 2025-04-08
+* [Commit] [feat(fill,execute): add new `zkevm` marker (#1407)](https://github.com/ethereum/execution-spec-tests/commit/cc023a4e0625dddbde3e5cbe756889d2ec36ed97) - 2025-04-08
+* [Commit] [Update src/pytest_plugins/shared/execute_fill.py](https://github.com/ethereum/execution-spec-tests/commit/febe780a589eb6b9df6c757e707aada35a6e61e1) - 2025-04-08
+* [Commit] [Deployed 6f5f0bd698 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/43b734cca56fcdfbe99aea308787d3e81fe6925d) - 2025-04-08
+* [Pull Request] [refactor(ci): update and use `astral-sh/setup-uv` in all actions](https://github.com/ethereum/execution-spec-tests/pull/1409) - 2025-04-08
+* [Commit] [chore(ci): bump astral-uv/setup-uv to latest release](https://github.com/ethereum/execution-spec-tests/commit/20c93b7164f29c3dc416e44a40fbdabe63d485f6) - 2025-04-08
+* [Commit] [update test to trigger coverage flow](https://github.com/ethereum/execution-spec-tests/commit/489b56d9b57581cb2e9ec2f1d0cd3a90b5fab636) - 2025-04-08
+* [Commit] [fix-up tox](https://github.com/ethereum/execution-spec-tests/commit/adbd4844fd69568daf247a1a64c4d07453c60c9a) - 2025-04-08
+* [Commit] [Revert "fix: bug"](https://github.com/ethereum/execution-spec-tests/commit/2fec10d1d58c4a71159b7a1358179f1911e9ce8a) - 2025-04-08
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

@@ -18,6 +18,8 @@ Team: Erigon
 * [Pull Request] [qa-tests: schedule sync-from-scratch test on release/3.x](https://github.com/erigontech/erigon/pull/14447) - 2025-04-04
 * [Pull Request] [qa-tests: decrease release process timeout](https://github.com/erigontech/erigon/pull/14478) - 2025-04-07
 * [Pull Request] [qa-tests: fix external-cl log uploading in the sync-with-externalcl test](https://github.com/erigontech/erigon/pull/14472) - 2025-04-07
+* [Pull Request] [qa-tests: increase sync-from-scratch (minimal node) test timeout](https://github.com/erigontech/erigon/pull/14492) - 2025-04-08
+* [Commit] [qa-tests: decrease release process timeout (#14478)](https://github.com/erigontech/erigon/commit/fe7e9e4e9d252bbe0718265f38861a8a563e760b) - 2025-04-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

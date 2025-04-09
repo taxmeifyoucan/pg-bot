@@ -29,6 +29,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fix: send_rpc_call deserialization (#15523)](https://github.com/paradigmxyz/reth/commit/1ba40f3d46413f73543ce805eef9ed41f3b9ef58) - 2025-04-07
 * [Commit] [remove return value in transact_batch](https://github.com/paradigmxyz/reth/commit/14da12d8f67f1ef67dc379dfdfd0735caaf562f7) - 2025-04-07
 * [Commit] [use itertools::chunk](https://github.com/paradigmxyz/reth/commit/2ef06b289061180a83668468ce78ffe1d1d95159) - 2025-04-07
+* [Issue] [Add payment transaction type to custom example](https://github.com/paradigmxyz/reth/issues/15597) - 2025-04-08
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 
 ## Contributions
 
+## Q2 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Mainnet Electra fork epoch](https://github.com/sigp/lighthouse/pull/7275) - 2025-04-08
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

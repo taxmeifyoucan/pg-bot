@@ -39,6 +39,15 @@ Team: Reth
 * [Commit] [chore: update advisories (#15580)](https://github.com/paradigmxyz/reth/commit/1e1f0f8e6b762804f2cb2a822f78fdd3c61d53cc) - 2025-04-07
 * [Commit] [crunchy](https://github.com/paradigmxyz/reth/commit/af8a496af2c7483571c590bbbfea30d373438d3d) - 2025-04-07
 * [Pull Request] [chore: update advisories](https://github.com/paradigmxyz/reth/pull/15580) - 2025-04-07
+* [Pull Request] [chore: rm bundlestateprovider](https://github.com/paradigmxyz/reth/pull/15607) - 2025-04-08
+* [Commit] [fix: trait impl](https://github.com/paradigmxyz/reth/commit/07acc30ff78a8f8f9fb329a21306553e2ebd6ed8) - 2025-04-08
+* [Commit] [fix: delegate](https://github.com/paradigmxyz/reth/commit/71684ecf0ed932f876efe0d4a1e3d2948d180f5b) - 2025-04-08
+* [Commit] [fix: pick 1559 fees correctly for dynamic fee](https://github.com/paradigmxyz/reth/commit/4ffacddf04ea1a720112467a59e261d25bf4d18d) - 2025-04-08
+* [Pull Request] [fix: pick 1559 fees correctly for dynamic fee](https://github.com/paradigmxyz/reth/pull/15605) - 2025-04-08
+* [Issue] [Pick missing 1559 max fee based on prio fee if provided](https://github.com/paradigmxyz/reth/issues/15604) - 2025-04-08
+* [Commit] [fix: check for missing prio fee in eth simulate (#15601)](https://github.com/paradigmxyz/reth/commit/a0c7d1cd776d68e61e0e97ead81297ff45a6b9ba) - 2025-04-08
+* [Issue] [Use block base fee as the default for eth_simulate](https://github.com/paradigmxyz/reth/issues/15602) - 2025-04-08
+* [Pull Request] [fix: check for missing prio fee in eth simulate](https://github.com/paradigmxyz/reth/pull/15601) - 2025-04-08
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -13,6 +13,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Commit] [More progress](https://github.com/sigp/lighthouse/commit/614c01698d0816b062ac321b5579993747d5708d) - 2025-04-04
+* [Pull Request] [Fix wrong custody column count for lookup blocks](https://github.com/sigp/lighthouse/pull/7281) - 2025-04-08
+* [Commit] [Backfill WIP](https://github.com/sigp/lighthouse/commit/f9d2c1d2d3c5682f2132c0d9ad0a7d83921ba6ca) - 2025-04-08
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

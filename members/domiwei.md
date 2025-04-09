@@ -16,6 +16,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Caplin: Track and implement fulu upgrade](https://github.com/erigontech/erigon/issues/14374) - 2025-04-01
 * [Pull Request] [cherry-pick: Include execution requests in produced block (#14326)](https://github.com/erigontech/erigon/pull/14395) - 2025-04-02
 * [Commit] [Caplin: Optimized re-init of caches (#14461)](https://github.com/erigontech/erigon/commit/60eef092a92218d972d80b54299f671b8dbbd654) - 2025-04-07
+* [Pull Request] [fix incorrect electra fork epoch on gnosis (#14496)](https://github.com/erigontech/erigon/pull/14498) - 2025-04-08
+* [Commit] [fix incorrect electra fork epoch on gnosis (#14496)](https://github.com/erigontech/erigon/commit/524dc596069d7eb67ba81bb3d3c5641eeb810991) - 2025-04-08
+* [Pull Request] [fix incorrect electra fork epoch on gnosis](https://github.com/erigontech/erigon/pull/14496) - 2025-04-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

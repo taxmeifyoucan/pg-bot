@@ -13,6 +13,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [chore(docs): added link to the badge release (#1401)](https://github.com/ethereum/execution-spec-tests/commit/ce28bd5550f1686bdf855e42a1416ae6e9e23b05) - 2025-04-07
+* [Commit] [chore(hive): temp.](https://github.com/ethereum/execution-spec-tests/commit/82877e7dd352f47721e8248a408f71fb0c07b49a) - 2025-04-08
+* [Commit] [chore(hive): temp.](https://github.com/ethereum/execution-spec-tests/commit/de5b6cc68bdc6667691237853f8f4dbfdb68f705) - 2025-04-08
+* [Commit] [chore(hive): temp.](https://github.com/ethereum/execution-spec-tests/commit/c662845bd5982ff8a4bae988bcf7e6b6c1b917e2) - 2025-04-08
+* [Commit] [chore(hive): temp.](https://github.com/ethereum/execution-spec-tests/commit/029a91bf3cdef01d4c2c8b51315876aa7aa0fa34) - 2025-04-08
+* [Commit] [chore(hive): temp.](https://github.com/ethereum/execution-spec-tests/commit/0873f56e8b4cd9c75d367f8264702732055000fd) - 2025-04-08
+* [Commit] [chore(hive): temp.](https://github.com/ethereum/execution-spec-tests/commit/d2df55331686d0ceac34f7b202eb651e32d7def9) - 2025-04-08
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

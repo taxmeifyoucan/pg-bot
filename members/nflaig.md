@@ -24,6 +24,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: update teku mainnet bootnodes](https://github.com/ChainSafe/lodestar/pull/7662) - 2025-04-07
 * [Commit] [fix: aggregated attestation pool for electra (#7656)](https://github.com/ChainSafe/lodestar/commit/5f4d26b46b1355e2583a7068a24db6d125c5e24b) - 2025-04-07
 * [Commit] [feat: schedule electra on mainnet (#7655)](https://github.com/ChainSafe/lodestar/commit/87d367d9f7a8d6e548743a7fb65f13a0ca0d367d) - 2025-04-07
+* [Commit] [Update packages/beacon-node/src/metrics/metrics/lodestar.ts](https://github.com/ChainSafe/lodestar/commit/1474a07f569b2636f6e3a135a79b016f33214da0) - 2025-04-08
+* [Pull Request] [feat: track insert outcome of aggregated attestations to oppool](https://github.com/ChainSafe/lodestar/pull/7674) - 2025-04-08
+* [Commit] [feat: adjust aggregate participation buckets and track aggregate cache misses (#7667)](https://github.com/ChainSafe/lodestar/commit/c76151c862556357381bcfae506e60520745df6b) - 2025-04-08
+* [Commit] [chore: reduce time to retain registered validators in monitor to 1 hour (#7668)](https://github.com/ChainSafe/lodestar/commit/f87bd54721fef4941bda3abad22f81fb5e223fc5) - 2025-04-08
+* [Commit] [Reduce number of buckets](https://github.com/ChainSafe/lodestar/commit/72d4eab822ea22b03c550fec3898a25cfce3fb37) - 2025-04-08
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

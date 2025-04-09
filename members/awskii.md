@@ -33,6 +33,8 @@ Team: Erigon
 * [Commit] [Revert "what if"](https://github.com/erigontech/erigon/commit/af6615416184d1ebe3613e17062d867e72096a8f) - 2025-04-07
 * [Commit] [what if](https://github.com/erigontech/erigon/commit/5e93792381b403757a31a2bb798f5d0c1db19967) - 2025-04-07
 * [Commit] [Arbitrum: Correct `DropTip` logic (#14453)](https://github.com/erigontech/erigon/commit/9d1da15d96e4b7a764b065587b6ae9f352517095) - 2025-04-07
+* [Commit] [Downgrade gopsutils version (#14477)](https://github.com/erigontech/erigon/commit/774241065924e4caae33a987fed48073119fbf60) - 2025-04-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ef01e9e42da78c3f8cff643fd933799c331a056f) - 2025-04-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

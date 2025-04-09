@@ -48,6 +48,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Update chain sizes test](https://github.com/NethermindEth/nethermind/pull/8478) - 2025-04-07
 * [Commit] [Change op-node to 1.10.3 from latest on actions (#8133)](https://github.com/NethermindEth/nethermind/commit/25cfdc24bbfa26361d70da850cffbb8a92715d5b) - 2025-04-07
 * [Commit] [Build up to +50% more profitable (local) blocks (#8462)](https://github.com/NethermindEth/nethermind/commit/6d4baf5e8a8fa130d9e743a9de1d1a1f411cc9c3) - 2025-04-07
+* [Pull Request] [Cap block build size in bytes](https://github.com/NethermindEth/nethermind/pull/8486) - 2025-04-08
+* [Commit] [Add timeout to node filter (#8483)](https://github.com/NethermindEth/nethermind/commit/fd56a42081b606931d70297b843f4194b2049348) - 2025-04-08
+* [Pull Request] [Add timeout to node filter](https://github.com/NethermindEth/nethermind/pull/8483) - 2025-04-08
+* [Commit] [Make atomic](https://github.com/NethermindEth/nethermind/commit/0ebe31706612e3890b77020222704cc6f20d9c80) - 2025-04-08
+* [Commit] [Skip block build if no new tx have been added (#8481)](https://github.com/NethermindEth/nethermind/commit/a2b371bd604f4b7af50f982f12fd4058e1356f7a) - 2025-04-08
+* [Commit] [Use Interlocked](https://github.com/NethermindEth/nethermind/commit/2d72d4c5dba7c2f9c9a71ef305aaacb93539a32a) - 2025-04-08
+* [Commit] [Go a bit faster now don't build identical blocks](https://github.com/NethermindEth/nethermind/commit/6cad5431a5df060f14ff328a1f20d5a0781fa047) - 2025-04-08
+* [Commit] [Simulate adding tx](https://github.com/NethermindEth/nethermind/commit/61e275b78ec88ce7a86c039bf2845e2a52ac5e85) - 2025-04-08
+* [Pull Request] [Skip block build if no new tx have been added](https://github.com/NethermindEth/nethermind/pull/8481) - 2025-04-08
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -19,6 +19,8 @@ Team: Nethermind
 * [Commit] [fix Benchmarks.slnx build failure](https://github.com/NethermindEth/nethermind/commit/56e332069ddae4b43c5be5ce181bad64e9f73276) - 2025-04-07
 * [Commit] [fix verification stack overflow](https://github.com/NethermindEth/nethermind/commit/6f3e7dc2d7a51342613cd118a003f507cad3c5ca) - 2025-04-07
 * [Commit] [remove local testing flags](https://github.com/NethermindEth/nethermind/commit/3e3277eaa4b44401a820fc16ad6d6c2e562ed76e) - 2025-04-07
+* [Commit] [Fix broken Engine API documentation link in error message (#8476)](https://github.com/NethermindEth/nethermind/commit/220fffd70931e8dbb44ae3674444d7a6bbd9970f) - 2025-04-08
+* [Commit] [add more tests, fix PREVRANDAO](https://github.com/NethermindEth/nethermind/commit/01d8324e8f6765b26990c937992653f6d33fe31b) - 2025-04-08
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

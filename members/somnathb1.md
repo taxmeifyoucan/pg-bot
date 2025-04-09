@@ -37,6 +37,18 @@ Team: Erigon
 * [Pull Request] [Schedule Pectra hard fork for Ethereum Mainnet (#14424)](https://github.com/erigontech/erigon/pull/14436) - 2025-04-04
 * [Pull Request] [cmd: Set default EL extradata to erigon-version (#14419)](https://github.com/erigontech/erigon/pull/14435) - 2025-04-04
 * [Pull Request] [workflows: Add a subset of pectra tests and use smaller slot time for Kurtosis tests](https://github.com/erigontech/erigon/pull/14433) - 2025-04-04
+* [Commit] [txpool: Fix p.auths having dangling authorities if duplicate found (#14497) (#14500)](https://github.com/erigontech/erigon/commit/8d2bd3b24078c7488cb1ad767e862e1126d722c9) - 2025-04-08
+* [Commit] [Switch logs to debug](https://github.com/erigontech/erigon/commit/c436221bd9db95ce5065b9649b31d7af7d397854) - 2025-04-08
+* [Pull Request] [txpool: Fix same sender-authority invalidation](https://github.com/erigontech/erigon/pull/14502) - 2025-04-08
+* [Commit] [Fix 404 link to validator lifecycle test file (#14455)](https://github.com/erigontech/erigon/commit/04928f4ae765ca7506da043a6ed67189b9e28c8f) - 2025-04-08
+* [Commit] [Cherry-Pick: Snapshot: check idx ranges alongside segs (#14476) (#14479)](https://github.com/erigontech/erigon/commit/74433342a9a3ae70df524fb8db2fd714d11d1a85) - 2025-04-08
+* [Pull Request] [txpool: Fix p.auths having dangling authorities if duplicate found (#14497)](https://github.com/erigontech/erigon/pull/14500) - 2025-04-08
+* [Pull Request] [engineapi: Add requests nil check (#14421)](https://github.com/erigontech/erigon/pull/14499) - 2025-04-08
+* [Pull Request] [txpool: Fix p.auths having dangling authorities if duplicate found](https://github.com/erigontech/erigon/pull/14497) - 2025-04-08
+* [Commit] [txpool: Fix p.auths having dangling authorities if duplicate found](https://github.com/erigontech/erigon/commit/f0019cd3886850de76a02ed64e5a76ef589bd3e9) - 2025-04-08
+* [Pull Request] [txpool: Fix 7702 signature parsing and simplify auth handling (#14486)](https://github.com/erigontech/erigon/pull/14495) - 2025-04-08
+* [Commit] [workflows: Add a subset of pectra tests and use smaller slot time for Kurtosis tests (#14433)](https://github.com/erigontech/erigon/commit/bde98991af283f484f78cb04729f9660cfb046ee) - 2025-04-08
+* [Commit] [cmd: Set default EL extradata to erigon-version (#14419) (#14435)](https://github.com/erigontech/erigon/commit/8de36985a0b9d3170bea7b719347beb4f410fccf) - 2025-04-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

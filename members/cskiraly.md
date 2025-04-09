@@ -8,6 +8,11 @@ Team: Codex DAS
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [p2p: name dial sources to allow better diagnostics and stats](https://github.com/ethereum/go-ethereum/pull/31588) - 2025-04-08
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
