@@ -29,6 +29,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: improve MatchingDataAttestationGroup unit test with notSeenAttesters](https://github.com/ChainSafe/lodestar/commit/87f8bce718306ac120699c5c310295819f4e1ca1) - 2025-04-04
 * [Commit] [chore: address PR comments](https://github.com/ChainSafe/lodestar/commit/acb45220717077be4e4359270257677a138bc809) - 2025-04-07
 * [Pull Request] [feat: sort packed attestations by total effective balance](https://github.com/ChainSafe/lodestar/pull/7673) - 2025-04-08
+* [Commit] [fix: more thorough unit tests on MatchingDataAttestationGroup.getAttestationsForBlock()](https://github.com/ChainSafe/lodestar/commit/22e5d51b6e57dc98e20bf3e4a74e13542eccc375) - 2025-04-09
+* [Commit] [chore: reduce time to retain registered validators in monitor to 1 hour (#7668)](https://github.com/ChainSafe/lodestar/commit/f87bd54721fef4941bda3abad22f81fb5e223fc5) - 2025-04-09
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

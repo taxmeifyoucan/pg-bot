@@ -23,6 +23,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [make debug-column-syncer flag hidden](https://github.com/status-im/nimbus-eth2/commit/250aff0abd9ef75e97799eb142f0283641dc4157) - 2025-04-04
 * [Commit] [further cleanups](https://github.com/status-im/nimbus-eth2/commit/392c8ce24c4b273c16e86e185781e90ae2875a87) - 2025-04-04
 * [Commit] [Peer pool custom filtering (attempt 2). (#7040)](https://github.com/status-im/nimbus-eth2/commit/88725c7690f3ffdd00793beeed8345be44c4e216) - 2025-04-07
+* [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/27fec2661af56f94f86797a6e356537a50edc99f) - 2025-04-10
+* [Commit] [modify RouteSignedBeaconBlock to propose columns directly from cell proofs](https://github.com/status-im/nimbus-eth2/commit/fe041073446f418549a5c4598303a8bc0efe6a34) - 2025-04-10
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

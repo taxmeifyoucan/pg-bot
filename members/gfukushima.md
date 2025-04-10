@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Issue] [upgrade flashbots to rc3 breaks registration call](https://github.com/Consensys/teku/issues/9316) - 2025-04-03
 * [Commit] [Update sepolia/mainnet bootnode (#9317)](https://github.com/Consensys/teku/commit/7c47c6918fe8f5d6aceb5229360f04773ed639b7) - 2025-04-04
 * [Issue] [Post IL duties](https://github.com/Consensys/teku/issues/9326) - 2025-04-08
+* [Pull Request] [Add GetInclusionListCommitteeDuties](https://github.com/Consensys/teku/pull/9330) - 2025-04-09
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

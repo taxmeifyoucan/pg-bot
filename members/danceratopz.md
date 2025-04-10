@@ -65,6 +65,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [update test to trigger coverage flow](https://github.com/ethereum/execution-spec-tests/commit/489b56d9b57581cb2e9ec2f1d0cd3a90b5fab636) - 2025-04-08
 * [Commit] [fix-up tox](https://github.com/ethereum/execution-spec-tests/commit/adbd4844fd69568daf247a1a64c4d07453c60c9a) - 2025-04-08
 * [Commit] [Revert "fix: bug"](https://github.com/ethereum/execution-spec-tests/commit/2fec10d1d58c4a71159b7a1358179f1911e9ce8a) - 2025-04-08
+* [Pull Request] [feat(tests): parametrize `test_transaction_validity_type_*` with a tx to an eoa](https://github.com/ethereum/execution-spec-tests/pull/1422) - 2025-04-09
+* [Commit] [Deployed 6fe9550072 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/b4b6e3f5994b811429af5b5dbcd42187166c3f0a) - 2025-04-09
+* [Commit] [chore(docs): add python, ruff, uv & license badges to readme (#1410)](https://github.com/ethereum/execution-spec-tests/commit/6fe95500724462236a219fdbf5d44f78d8859b70) - 2025-04-09
+* [Commit] [Deployed 4672cdcf91 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/04a7696c0415c61c8db65d7d5f83d5dcae7f1254) - 2025-04-09
+* [Commit] [fix(docs): fix bad links in readme (#1421)](https://github.com/ethereum/execution-spec-tests/commit/4672cdcf91097799dba73ca5290f152a7c14d020) - 2025-04-09
+* [Pull Request] [fix(docs): fix bad links in readme](https://github.com/ethereum/execution-spec-tests/pull/1421) - 2025-04-09
+* [Commit] [fix(ci): fix bad indentation in yml; update title (#1419)](https://github.com/ethereum/execution-spec-tests/commit/aaf4e7fad978201f0c2458d29d17c79d9e1238cb) - 2025-04-09
+* [Commit] [Deployed aaf4e7fad9 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/702e513d0af3ff46e525a39c6134e0be31b62c92) - 2025-04-09
+* [Pull Request] [fix(ci): fix bad indentation in link checker yml; update title](https://github.com/ethereum/execution-spec-tests/pull/1419) - 2025-04-09
+* [Commit] [Deployed 0c1adccb30 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2cc23f244dd34e0ce1edc2063386aab6e7151506) - 2025-04-09
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

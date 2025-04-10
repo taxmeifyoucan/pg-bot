@@ -22,6 +22,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [Squashed commit of the following:](https://github.com/sigp/lighthouse/commit/675e472a3e1ae15abff85ef43e7ad1733247483c) - 2025-04-07
 * [Commit] [Fullnodes to publish data columns from EL `getBlobs` (#7258)](https://github.com/sigp/lighthouse/commit/e924264e17b8917ef077639edaa6043610347f20) - 2025-04-08
 * [Issue] [PeerDAS internal availability check failure](https://github.com/sigp/lighthouse/issues/7278) - 2025-04-08
+* [Pull Request] [Test force docker pull python image](https://github.com/sigp/lighthouse/pull/7292) - 2025-04-09
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

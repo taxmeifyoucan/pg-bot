@@ -33,6 +33,7 @@ Team: Erigon
 * [Commit] [enable serial calc root](https://github.com/erigontech/erigon/commit/047856a3dcf501dfb649012e6a29bfe91589a6bc) - 2025-04-03
 * [Commit] [fixed serial comitment trace](https://github.com/erigontech/erigon/commit/c040e49995887bcbf6b20d8705ddfe3299e3a6bf) - 2025-04-03
 * [Commit] [fix serial exec](https://github.com/erigontech/erigon/commit/b4ccf0f4fb763475f41a1893f246df8d1fdbdda3) - 2025-04-03
+* [Commit] [added active counter](https://github.com/erigontech/erigon/commit/edf99ec5dd644e3c2724e4728ea3c92bb5721ed5) - 2025-04-09
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

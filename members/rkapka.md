@@ -13,6 +13,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Fix misleading log msg on shutdown](https://github.com/prysmaticlabs/prysm/pull/13063) - 2025-04-08
+* [Commit] [remove redundant logs](https://github.com/OffchainLabs/prysm/commit/50971e85b8e1337c36414357bd3b101727f805a5) - 2025-04-09
+* [Commit] [add seen bitlist file](https://github.com/OffchainLabs/prysm/commit/8e8234a070a28ec4bf06c6a71a2760d748cdabbf) - 2025-04-09
+* [Commit] [better deprecation warning](https://github.com/OffchainLabs/prysm/commit/6f89bbcb797a75f6256b3ff7267b11ef47091619) - 2025-04-09
+* [Commit] [format fix](https://github.com/OffchainLabs/prysm/commit/f8b588786a42411ed51b22e20fcb49e7b3ae7460) - 2025-04-09
+* [Commit] [Merge branch '__develop' into deprecate-grpc](https://github.com/OffchainLabs/prysm/commit/26c9d5810f0bc15b013a28789301ad4d8fd55e58) - 2025-04-09
+* [Commit] [panic to error changes and changelog (#15074)](https://github.com/OffchainLabs/prysm/commit/08bfaca42d25c4d5691d9b6e7026405e6503c10f) - 2025-04-09
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

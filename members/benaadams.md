@@ -57,6 +57,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Go a bit faster now don't build identical blocks](https://github.com/NethermindEth/nethermind/commit/6cad5431a5df060f14ff328a1f20d5a0781fa047) - 2025-04-08
 * [Commit] [Simulate adding tx](https://github.com/NethermindEth/nethermind/commit/61e275b78ec88ce7a86c039bf2845e2a52ac5e85) - 2025-04-08
 * [Pull Request] [Skip block build if no new tx have been added](https://github.com/NethermindEth/nethermind/pull/8481) - 2025-04-08
+
+* [Commit] [Improve](https://github.com/NethermindEth/nethermind/commit/9b561f5227eae31a16cf7494aa2ebe2f10452fe4) - 2025-04-09
+* [Commit] [Less allocations/casting](https://github.com/NethermindEth/nethermind/commit/74cd328f8ea4670bf6ea829455e0079049264f05) - 2025-04-09
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

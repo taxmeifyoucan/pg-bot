@@ -26,6 +26,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm last debugComment for Electra migration](https://github.com/status-im/nimbus-eth2/pull/7048) - 2025-04-02
 * [Commit] [Use correct phase0 or electra candidateIdx (#7036)](https://github.com/status-im/nimbus-eth2/commit/23430ffd6e907264d3caafdbb77abe9105e69854) - 2025-04-07
 * [Commit] [re-enable keymanager API tests on Windows (#7031)](https://github.com/status-im/nimbus-eth2/commit/d9444f18a0cb1db5538e37f32564d112cdfbc476) - 2025-04-08
+* [Commit] [add MsgSource as el too (#7057)](https://github.com/status-im/nimbus-eth2/commit/1b331423eb45a3f4138671e3539d2423ff52d3d2) - 2025-04-09
+* [Pull Request] [less verbose Electra aggregation bits logging](https://github.com/status-im/nimbus-eth2/pull/7058) - 2025-04-09
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

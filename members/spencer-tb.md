@@ -19,6 +19,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(hive): temp.](https://github.com/ethereum/execution-spec-tests/commit/029a91bf3cdef01d4c2c8b51315876aa7aa0fa34) - 2025-04-08
 * [Commit] [chore(hive): temp.](https://github.com/ethereum/execution-spec-tests/commit/0873f56e8b4cd9c75d367f8264702732055000fd) - 2025-04-08
 * [Commit] [chore(hive): temp.](https://github.com/ethereum/execution-spec-tests/commit/d2df55331686d0ceac34f7b202eb651e32d7def9) - 2025-04-08
+* [Commit] [chore(ci,docs): add a github action to check links in .md, .py (#1375)](https://github.com/ethereum/execution-spec-tests/commit/0c1adccb306c6532af0ed472b87cdcc794cb8637) - 2025-04-09
+* [Issue] [feat(release): tasks for version v4.3.0 (Vltava)](https://github.com/ethereum/execution-spec-tests/issues/1418) - 2025-04-09
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

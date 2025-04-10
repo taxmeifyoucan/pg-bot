@@ -16,6 +16,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [`RefreshPersistentSubnets`: Hack to announce one epoch in advante the `cgc`.](https://github.com/prysmaticlabs/prysm/commit/08bb7c72fb4f3bce253ebd1f0fd0e7358c78eac9) - 2025-04-08
 * [Commit] [`RefreshPersistentSubnets`: Hack to announce one epoch in advante the `cgc`.](https://github.com/prysmaticlabs/prysm/commit/82fd78e17255882484e792a6e39a17ae7815e19b) - 2025-04-08
 * [Commit] [Implement distributed block building.](https://github.com/prysmaticlabs/prysm/commit/9a80f043defd34bb8361d19584153e1f6bc81183) - 2025-04-08
+* [Commit] [aa](https://github.com/OffchainLabs/prysm/commit/ec355b5d02bbb13f9ae4bb4e1b974182cf0b4c6e) - 2025-04-09
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

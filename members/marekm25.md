@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 
 ## Contributions
 
+## Q2 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Issue] [Adjust RPC errors for 4444](https://github.com/NethermindEth/nethermind/issues/8493) - 2025-04-09
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

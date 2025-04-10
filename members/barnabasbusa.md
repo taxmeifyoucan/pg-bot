@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q2 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [chore: add detailed logging for kurtosis runs](https://github.com/sigp/lighthouse/pull/7291) - 2025-04-09
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

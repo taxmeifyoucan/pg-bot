@@ -27,6 +27,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Bump version to v7.1.0-beta.0 (not a release)](https://github.com/sigp/lighthouse/pull/7269) - 2025-04-07
 * [Issue] [Add pending_consolidations API](https://github.com/sigp/lighthouse/issues/7282) - 2025-04-08
 * [Issue] [Fix deserialization of Electra JSON responses from builders](https://github.com/sigp/lighthouse/issues/7277) - 2025-04-08
+* [Pull Request] [Cut v7.0.0](https://github.com/sigp/lighthouse/pull/7288) - 2025-04-09
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

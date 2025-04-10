@@ -24,6 +24,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Issue] [Clock cache assertion fails](https://github.com/NethermindEth/nethermind/issues/8488) - 2025-04-08
 * [Commit] [add dispose on early return](https://github.com/NethermindEth/nethermind/commit/f3dc22b748d04e66da6cc37dc9b9d2b6fd90da78) - 2025-04-08
 * [Pull Request] [Fix: dispose ArrayPoolList in SyncStatusList](https://github.com/NethermindEth/nethermind/pull/8485) - 2025-04-08
+* [Commit] [add fork hash](https://github.com/NethermindEth/nethermind/commit/50b90ada743c2262b77e178a9a5117af1a3754ef) - 2025-04-09
+* [Commit] [add to forkinfotests](https://github.com/NethermindEth/nethermind/commit/6c15fa968bffc31d9ea1ff9680f1ab9bf8d3b35a) - 2025-04-09
+* [Pull Request] [Mainnet Pectra config](https://github.com/NethermindEth/nethermind/pull/8502) - 2025-04-09
+* [Commit] [undo gnosis as covered by other PR](https://github.com/NethermindEth/nethermind/commit/27693c367dd7711970d901e898921728d92e4b7e) - 2025-04-09
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
