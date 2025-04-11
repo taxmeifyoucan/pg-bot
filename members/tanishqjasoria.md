@@ -13,6 +13,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [Fix runner test (#8312)](https://github.com/NethermindEth/nethermind/commit/66f55c99f3941421efcbecc9697918e88c21d360) - 2025-04-07
+* [Commit] [wip transition](https://github.com/NethermindEth/nethermind/commit/6413cdb89d041bd083f135ad631cb491683989be) - 2025-04-10
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

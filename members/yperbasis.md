@@ -26,6 +26,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Increase maximum open files limit on MacOSX](https://github.com/erigontech/erigon/pull/14427) - 2025-04-04
 * [Commit] [Increase maximum open files limit on MacOSX (#14017)](https://github.com/erigontech/erigon/commit/387bf62f38e8e15b8961a8c8fb42b2ddbf7c3e75) - 2025-04-04
 * [Commit] [Schedule Pectra hard fork for Ethereum Mainnet (#14424) (#14436)](https://github.com/erigontech/erigon/commit/fa24d535f0e17c539d66e0d5ddee9c69427844a4) - 2025-04-07
+* [Issue] [Update execution-spec-tests to v4.2.0](https://github.com/erigontech/erigon/issues/14541) - 2025-04-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

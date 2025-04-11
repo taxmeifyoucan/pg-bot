@@ -8,6 +8,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 ## Contributions
 
+## Q2 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [Allow hex strings in `/eth/v1/beacon/states/{state_id}/root` endpoint (#15098)](https://github.com/OffchainLabs/prysm/commit/e42611ec729cfdb14ab82fc8b269729ea6c9be21) - 2025-04-10
+* [Commit] [Gazelle and add mock.go to excluded generated mock file](https://github.com/OffchainLabs/prysm/commit/336dffb73513dbaadc3079c424a48ef4dc6ce1d1) - 2025-04-10
+* [Commit] [Update mock](https://github.com/OffchainLabs/prysm/commit/c9e24fa531b5bd536afec41cb6a27c3d99bd2dea) - 2025-04-10
+* [Commit] [fixes health tracker usage  (#15126)](https://github.com/OffchainLabs/prysm/commit/ff02661229c9f36da893ab3fe4546ee34e42be7c) - 2025-04-10
+* [Commit] [Add support for electra fork epoch](https://github.com/OffchainLabs/prysm/commit/19367ae655e3db02e21ebfe3fd0bdc16fdbca665) - 2025-04-10
+* [Pull Request] [Mainnet config copies by default](https://github.com/OffchainLabs/prysm/pull/15159) - 2025-04-10
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

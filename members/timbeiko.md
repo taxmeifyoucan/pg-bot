@@ -8,6 +8,12 @@ Team: [ethereum/pm](https://github.com/ethereum/pm)
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update eip-7642.md](https://github.com/ethereum/EIPs/pull/9626) - 2025-04-10
+* [Pull Request] [ACDE#209 changes](https://github.com/ethereum/EIPs/pull/9624) - 2025-04-10
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

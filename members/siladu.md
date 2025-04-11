@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [System Call Error Handling Updates for EIP-7002 and EIP-7251](https://github.com/hyperledger/besu/issues/8511) - 2025-04-03
 * [Pull Request] [Add column family filter to rocksdb x-stats subcommand](https://github.com/hyperledger/besu/pull/8524) - 2025-04-07
+* [Commit] [Add column family filter to rocksdb x-stats subcommand (#8524)](https://github.com/hyperledger/besu/commit/9b0308886180644dbca3adca09bb89661df3d27c) - 2025-04-10
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

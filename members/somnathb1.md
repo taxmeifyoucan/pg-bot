@@ -49,6 +49,11 @@ Team: Erigon
 * [Pull Request] [txpool: Fix 7702 signature parsing and simplify auth handling (#14486)](https://github.com/erigontech/erigon/pull/14495) - 2025-04-08
 * [Commit] [workflows: Add a subset of pectra tests and use smaller slot time for Kurtosis tests (#14433)](https://github.com/erigontech/erigon/commit/bde98991af283f484f78cb04729f9660cfb046ee) - 2025-04-08
 * [Commit] [cmd: Set default EL extradata to erigon-version (#14419) (#14435)](https://github.com/erigontech/erigon/commit/8de36985a0b9d3170bea7b719347beb4f410fccf) - 2025-04-08
+* [Pull Request] [tests; Update to EESTs Vyšehrad (v4.2.0) release](https://github.com/erigontech/erigon/pull/14547) - 2025-04-10
+* [Commit] [Update to Vyšehrad (v4.2.0) release](https://github.com/erigontech/erigon/commit/0ed076f3c1cdda49ce036c7f1f30021174a45e2c) - 2025-04-10
+* [Commit] [workflows: increase slot time and genesis delay (#14446) (#14520)](https://github.com/erigontech/erigon/commit/9da08cc2ffe1ce62c530d41b90bebb96170e86fe) - 2025-04-10
+* [Commit] [core/types: Filter empty requests before hashing (#14420)](https://github.com/erigontech/erigon/commit/042732836047cd43dfc1fe7f2a879d739101c672) - 2025-04-10
+* [Commit] [Schedule Pectra hard fork for Gnosis Mainnet (#14521) (#14523)](https://github.com/erigontech/erigon/commit/ebb7f6072bf482fd4f260093cea07b5aa6565c3d) - 2025-04-10
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

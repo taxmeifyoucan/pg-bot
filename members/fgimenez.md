@@ -31,6 +31,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [use itertools::chunk](https://github.com/paradigmxyz/reth/commit/2ef06b289061180a83668468ce78ffe1d1d95159) - 2025-04-07
 * [Issue] [Add payment transaction type to custom example](https://github.com/paradigmxyz/reth/issues/15597) - 2025-04-08
 * [Commit] [fix: send_rpc_call deserialization (#15523)](https://github.com/paradigmxyz/reth/commit/1ba40f3d46413f73543ce805eef9ed41f3b9ef58) - 2025-04-09
+* [Commit] [fix feature propagation](https://github.com/paradigmxyz/reth/commit/0fbc69d78cffb5e6e26064651698e555db4b0577) - 2025-04-10
+* [Commit] [moved precompile cache to reth-evm](https://github.com/paradigmxyz/reth/commit/461608a851ef6dcb0c6d2720a93d476ab74daad4) - 2025-04-10
+* [Commit] [use cached precompile executor builder](https://github.com/paradigmxyz/reth/commit/54c0a669f55142393ef22eab461f9b73ffbe1306) - 2025-04-10
+* [Commit] [added engine.precompile_cache_enabled arg](https://github.com/paradigmxyz/reth/commit/a4bc411dedcbc4803289a257184b71e8cebdd9d5) - 2025-04-10
+* [Pull Request] [chore: remove unused evm_config field in EngineApiTreeHandler](https://github.com/paradigmxyz/reth/pull/15660) - 2025-04-10
+* [Commit] [chore: bump op-alloy (#15626)](https://github.com/paradigmxyz/reth/commit/be5553d71e3fe52a1828b88d42a21183916384c0) - 2025-04-10
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

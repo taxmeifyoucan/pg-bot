@@ -8,6 +8,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [WIP: integrate eradb backend for RPC](https://github.com/ethereum/go-ethereum/pull/31604) - 2025-04-10
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

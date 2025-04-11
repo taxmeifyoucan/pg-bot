@@ -60,6 +60,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 * [Commit] [Improve](https://github.com/NethermindEth/nethermind/commit/9b561f5227eae31a16cf7494aa2ebe2f10452fe4) - 2025-04-09
 * [Commit] [Less allocations/casting](https://github.com/NethermindEth/nethermind/commit/74cd328f8ea4670bf6ea829455e0079049264f05) - 2025-04-09
+* [Commit] [Update EOF tests](https://github.com/NethermindEth/nethermind/commit/a3d5bfbaca0abf7dff02802f288acc45e347d9d5) - 2025-04-10
+* [Commit] [Differentiate Pruning metrics (#8456)](https://github.com/NethermindEth/nethermind/commit/fbc000ffbc0e6372b779592f6e55f752aa931f85) - 2025-04-10
+* [Commit] [Always trace invalid block even if succeeds on trace (#8131)](https://github.com/NethermindEth/nethermind/commit/d450f4aebdac1a9784e8fedebe3358d09b712cde) - 2025-04-10
+* [Commit] [Add condition to filename](https://github.com/NethermindEth/nethermind/commit/88fc9e817407b17fe088d90ac9eafc494a20d3ad) - 2025-04-10
+* [Commit] [Update chain sizes test (#8478)](https://github.com/NethermindEth/nethermind/commit/195e515ef2bbafc939fa141a9b13c6cd55a57062) - 2025-04-10
+* [Commit] [Handle tx reorged blocks better (#8507)](https://github.com/NethermindEth/nethermind/commit/35eb7f31663a69eb5dfa6a5d363b6ecac07fc41f) - 2025-04-10
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/15b7f96d4f306e4a86e7c06df1422e164362ebb0) - 2025-04-10
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

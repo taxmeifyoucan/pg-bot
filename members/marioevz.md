@@ -27,6 +27,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Suggestions for #1396, refactor(exceptions,specs): Support general block exceptions - Pydantic context to parse using mapper (#1404)](https://github.com/ethereum/execution-spec-tests/commit/335529602749b8e7c95063a7a879084256ed1039) - 2025-04-07
 * [Commit] [new(tests): Add EOF validation tests for stack underflow (#1331)](https://github.com/ethereum/execution-spec-tests/commit/08a60c9530c67139279475ae58e69577c2bd11fb) - 2025-04-07
 * [Commit] [fix(specs): Bug and variable names](https://github.com/ethereum/execution-spec-tests/commit/8bdbc890aae952fa91ad0ca95b32d7df4c16f332) - 2025-04-08
+* [Commit] [more reth exceptions](https://github.com/ethereum/execution-spec-tests/commit/ceb47cd1bb38e3f025ee5d15c874fb121b602a37) - 2025-04-10
+* [Commit] [fix(consume): Comment](https://github.com/ethereum/execution-spec-tests/commit/4bef68bab1c06b5c02c6c24590509632e39d642f) - 2025-04-10
+* [Commit] [refactor(fill): use a session-scoped fixture for git tag or hash (#1432)](https://github.com/ethereum/execution-spec-tests/commit/f2c001cfd742dc87b4f5345e4c111a5d634e0f8f) - 2025-04-10
+* [Commit] [changelog](https://github.com/ethereum/execution-spec-tests/commit/70dd77154a78ca033687801778ee9e52a5efc2e0) - 2025-04-10
+* [Pull Request] [feat(specs,tests): Negative test marker](https://github.com/ethereum/execution-spec-tests/pull/1436) - 2025-04-10
+* [Commit] [chore(ci,docs): add a github action to check links in .md, .py (#1375)](https://github.com/ethereum/execution-spec-tests/commit/0c1adccb306c6532af0ed472b87cdcc794cb8637) - 2025-04-10
+* [Commit] [changelog](https://github.com/ethereum/execution-spec-tests/commit/f52d90f371bb21473e5502df208b51d007340ce6) - 2025-04-10
+* [Pull Request] [fix(consume): Fix consume input parsing on arbitrary URLs](https://github.com/ethereum/execution-spec-tests/pull/1435) - 2025-04-10
+* [Commit] [fix(plugins/consume): Better handling of arbitrary urls](https://github.com/ethereum/execution-spec-tests/commit/9acd98530c9d50c10f6c60418cf3368af23fd84b) - 2025-04-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

@@ -45,6 +45,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [txpool: Fix p.auths having dangling authorities if duplicate found (#14497)](https://github.com/erigontech/erigon/commit/5f71647e134da6c6a01146b6731493aeec08b319) - 2025-04-08
 * [Commit] [Cleaner AA execution code (#14491)](https://github.com/erigontech/erigon/commit/60d60b4397b6fcf90a9e36014e2febd3f29ebc7c) - 2025-04-08
 * [Pull Request] [Cleaner AA execution code](https://github.com/erigontech/erigon/pull/14491) - 2025-04-08
+* [Commit] [Move static validation](https://github.com/erigontech/erigon/commit/2b11e358f49c38b362818567d3990a7853dd1770) - 2025-04-10
+* [Commit] [Lint](https://github.com/erigontech/erigon/commit/5bdecb7843cdbc465186c3e07d639be9d310bf87) - 2025-04-10
+* [Commit] [agg: don't log context.Cancel (#14410)](https://github.com/erigontech/erigon/commit/aab70ca5c82d56ce8cb9bbdb8f9541dfefbc19bb) - 2025-04-10
+* [Commit] [Tracing refactor, final txpool fixes](https://github.com/erigontech/erigon/commit/7f8e246d1b229c34ff21912d16615f12c93b2d02) - 2025-04-10
+* [Commit] [fix abi](https://github.com/erigontech/erigon/commit/3b914e25075c91b3b5c1b9aa36d657dcb371d767) - 2025-04-10
+* [Commit] [fix compare](https://github.com/erigontech/erigon/commit/cc9eb552a6489f1627b3179d5b6cf78a47a5c98b) - 2025-04-10
+* [Commit] [Set hooks](https://github.com/erigontech/erigon/commit/6777434c9fc1da9dd6e4915fc62c856f2a85a52b) - 2025-04-10
+* [Commit] [Gas](https://github.com/erigontech/erigon/commit/1e8eb5ba495894f9d08619de95edae90875309dc) - 2025-04-10
+* [Commit] [Set hooks on EVM](https://github.com/erigontech/erigon/commit/67b5c688b21f2e5a30c93701a4005e9992802068) - 2025-04-10
+* [Commit] [Fix ABI encode, crash](https://github.com/erigontech/erigon/commit/3c43cfb491fa1c91963b03f57db612dc421cc9f9) - 2025-04-10
+* [Commit] [Provide 'totalGasLimit' to the 'ValidateAATransaction' gas pool; comment out sub gas (#14407)](https://github.com/erigontech/erigon/commit/a806abf460677607ae9ce8b15353260a57e708ee) - 2025-04-10
+* [Pull Request] [Fix `trace_transaction` for Polygon chains (#14470)](https://github.com/erigontech/erigon/pull/14530) - 2025-04-10
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

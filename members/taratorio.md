@@ -22,6 +22,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [engineapi: add retries to engineapi jsonrpc client (#14442)](https://github.com/erigontech/erigon/commit/4e0e1f2a077e1db9a8987c0edb0a15e6691043cc) - 2025-04-04
 * [Pull Request] [engineapi: add retries to engineapi jsonrpc client](https://github.com/erigontech/erigon/pull/14442) - 2025-04-04
 * [Commit] [deps: use standar errors pkg (#14418)](https://github.com/erigontech/erigon/commit/ead8aae332a12728b7ebb89e65cc63497b49ed8e) - 2025-04-04
+* [Commit] [Added more logs (#14529)](https://github.com/erigontech/erigon/commit/806bd64c6814f9a08ced82e2816a39a88fc85e73) - 2025-04-10
+* [Pull Request] [mock: mock sentry ability to use debug tracer and debug logs via env var](https://github.com/erigontech/erigon/pull/14548) - 2025-04-10
+* [Commit] [polygon/bridge: keep events debug log in execution but not in rpcdaemon (#14540)](https://github.com/erigontech/erigon/commit/6c97d9174a7f9b3414e3208a20ccfcbc08aae116) - 2025-04-10
+* [Issue] [[flakey] TestEthSubscribe panic: test timed out after 4h0m0s](https://github.com/erigontech/erigon/issues/14546) - 2025-04-10
+* [Pull Request] [polygon/bridge: keep events debug log in execution but not in rpcdaemon](https://github.com/erigontech/erigon/pull/14540) - 2025-04-10
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

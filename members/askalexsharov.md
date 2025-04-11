@@ -212,6 +212,45 @@ Team: Erigon
 * [Commit] [Schedule Pectra for Chiado (#13930)](https://github.com/erigontech/erigon/commit/5964df0468a2a6112effd184a93773603df98882) - 2025-04-08
 * [Pull Request] [rm e2 call trace tables](https://github.com/erigontech/erigon/pull/14487) - 2025-04-08
 * [Commit] [save](https://github.com/erigontech/erigon/commit/88bb4e93451d49eeb959c650769180cd1c897d6b) - 2025-04-08
+* [Commit] [move DeleteCurrent to bottom of loop (#14538)](https://github.com/erigontech/erigon/commit/d32107d7fd9b15724f245bb33a07a51d6bc58997) - 2025-04-10
+* [Commit] [qa-tests: increase sync-from-scratch (minimal node) test timeout (#14492)](https://github.com/erigontech/erigon/commit/be59c3a965de1984414d43419f0946a44d0440c5) - 2025-04-10
+* [Commit] [recent receipts persistence: to reduce RPC latency (#14398)](https://github.com/erigontech/erigon/commit/c528cc2d3cf9168d1407d7ed7898b5a609875517) - 2025-04-10
+* [Pull Request] [move DeleteCurrent to bottom of loop](https://github.com/erigontech/erigon/pull/14538) - 2025-04-10
+* [Commit] [refactor: use the built-in max to simplify the code (#14297)](https://github.com/erigontech/erigon/commit/19346d501744c23e722058a3d34996ea23528172) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/883c1dae50a4bca87763feb5760b6f993f9aae97) - 2025-04-10
+* [Commit] [CopyHeader: don't copy hash (#14531)](https://github.com/erigontech/erigon/commit/4cce854563c07e88b53254bde93cdc396a675cd8) - 2025-04-10
+* [Commit] [r30: manifest check CI  (#14534)](https://github.com/erigontech/erigon/commit/13616a6b176575b361642a22cbd9bf99039e39c0) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5c736068b0dbf2388f35c707bb3156c2b774d3e2) - 2025-04-10
+* [Pull Request] [[wip] kv: streams to be safe with RwTx possible update/delete](https://github.com/erigontech/erigon/pull/14535) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/84a7628d5a2877533422591108220330439efc68) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8292a9b7527056e17fc44500f26c03acb8a8af08) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/61c2261c6fc741a16feb6184ce7cc9ed15684cf6) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f9787c7615d99f7fa7f1e5a9a0e71b06f84eacde) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2040e2bd970db198087e3437b7353c27b849ab6d) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9080f5e1ecafee03bc81a91004819d8dcee4690c) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e2b8713653607e5b32e7fc1b182c2e162b188036) - 2025-04-10
+* [Pull Request] [r30: pick](https://github.com/erigontech/erigon/pull/14534) - 2025-04-10
+* [Pull Request] [bor debug prints: if dbg.Enabled ](https://github.com/erigontech/erigon/pull/14533) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/12dd9d489738024bfaf312be29529635529f7d5b) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f5011317f7412e76f1e41a10e7e6677edb79d2f0) - 2025-04-10
+* [Commit] [`commitment`: remove useless collector from `BranchEncoder` (#14385)](https://github.com/erigontech/erigon/commit/35f27b0a51220f9abc09c808f66be4adb25fd6cc) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/824b7a59f221864884e2efa33febb7ca16b1e7ba) - 2025-04-10
+* [Pull Request] [r30: [wip] recent receipts persistence: to reduce RPC latency ](https://github.com/erigontech/erigon/pull/14532) - 2025-04-10
+* [Commit] [Fixed cmd mine flag to not run miner when it is explicitly set to false (#14527)](https://github.com/erigontech/erigon/commit/0360e9426aaad492b92dd3340221681acdabc015) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a633421133e5c1fab692463097e7f8318d3bdd44) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9ae90e6a45ff66ed4da164eb32a73f4917380e49) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0c5046432a63f4c3a99290d44b57c656d3db5aa4) - 2025-04-10
+* [Pull Request] [CopyHeader: don't copy hash](https://github.com/erigontech/erigon/pull/14531) - 2025-04-10
+* [Commit] [rpctest invariantsEthGetLogs: speedup by checking each addr only once in each block (#14465)](https://github.com/erigontech/erigon/commit/96740275e3363c2c387cae42c895f0ed6548c5c5) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9ee3f8cb567af0575f9f49c20bda9e695d2a00c5) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/432bf9f3a7ee0ebf3426b3e53d817e663c9d5551) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/725bb3bc6a5251b849df30cbb74dcc9ef14e2155) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c60e2c1deafd85e60b65f2407014ceb4cccd0477) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a2886c01404c44af10661eae3c73db5db497d8f6) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/15b96b55a80d54af35efed3e7e09a64b5ca7618c) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6072c82a063e820a487d7fa911d5d8aa8dd2a133) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4aa0eac7ab8ae0176cdfb79ed9a9a0c78cba3275) - 2025-04-10
+* [Commit] [cl: explicit FuluForkEpoch for all configs (#14524)](https://github.com/erigontech/erigon/commit/9800f43c233db7cb04b86d0b81f525b6877e7fd9) - 2025-04-10
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

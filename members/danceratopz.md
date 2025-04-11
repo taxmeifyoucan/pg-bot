@@ -75,6 +75,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed aaf4e7fad9 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/702e513d0af3ff46e525a39c6134e0be31b62c92) - 2025-04-09
 * [Pull Request] [fix(ci): fix bad indentation in link checker yml; update title](https://github.com/ethereum/execution-spec-tests/pull/1419) - 2025-04-09
 * [Commit] [Deployed 0c1adccb30 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2cc23f244dd34e0ce1edc2063386aab6e7151506) - 2025-04-09
+* [Commit] [fix typo](https://github.com/ethereum/execution-spec-tests/commit/a9f54857ecef9f9f0d40c058117b734980194c9c) - 2025-04-10
+* [Pull Request] [fix(consume): fix fixture downloads for non-release urls and numerical release specs](https://github.com/ethereum/execution-spec-tests/pull/1437) - 2025-04-10
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/6d42beba938fec344bddb42f9b068f6e9f8d7c32) - 2025-04-10
+* [Commit] [fix(consume): fix downloading via release spec with numerical version](https://github.com/ethereum/execution-spec-tests/commit/01bc4a7d7e5a16cdbf267bebc93f38dfbc7fe1bc) - 2025-04-10
+* [Commit] [Deployed f2c001cfd7 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1fec1a6d7dbb16b517280e9a051fd09b05b16dad) - 2025-04-10
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

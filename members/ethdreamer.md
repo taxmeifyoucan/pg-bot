@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [EIP-7892: use valid yaml for consensus config](https://github.com/ethereum/EIPs/pull/9619) - 2025-04-10
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

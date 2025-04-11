@@ -13,6 +13,9 @@ Team: Grandine
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Cleanup "attempted to publish sync committee contribution and proof with no participants" messages](https://github.com/grandinetech/grandine/issues/157) - 2025-04-04
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Changed Hangleang's multiplier to 1](https://github.com/protocolguild/documentation/pull/344) - 2025-04-10
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

@@ -36,6 +36,12 @@ Team: Erigon
 * [Commit] [Downgrade gopsutils version (#14477)](https://github.com/erigontech/erigon/commit/774241065924e4caae33a987fed48073119fbf60) - 2025-04-08
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ef01e9e42da78c3f8cff643fd933799c331a056f) - 2025-04-08
 * [Commit] [save](https://github.com/erigontech/erigon/commit/c219986b4e4636925cf3a7ff05e1e473da7b44a7) - 2025-04-09
+* [Commit] [Update README.md (#14460)](https://github.com/erigontech/erigon/commit/a767257ff76feeb55dfcccece8056454dde308ff) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e713eaa46d5cbf3adf11e4ac0de0c7748c92faac) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/27d1fb5535f31c963be1e05693198171582b4500) - 2025-04-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e2390084a64ad8cbb98fc92395ddcb0a366fa501) - 2025-04-10
+* [Pull Request] [Commitment: rehash code only with asserts](https://github.com/erigontech/erigon/pull/14536) - 2025-04-10
+* [Commit] [hash contract code only when asserts enabled](https://github.com/erigontech/erigon/commit/04a3fc132e748108a25e5014047804b2ee1b9d91) - 2025-04-10
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -17,6 +17,13 @@ Team: Reth
 * [Issue] [Investigate if we can get rid of Nibbles in favour of byte slices](https://github.com/paradigmxyz/reth/issues/15594) - 2025-04-07
 * [Pull Request] [chore: bump lighthouse and do minor fixes in docker compose](https://github.com/paradigmxyz/reth/pull/15587) - 2025-04-07
 * [Issue] [Document how prewarm concurrency is calculated](https://github.com/paradigmxyz/reth/issues/15586) - 2025-04-07
+* [Commit] [chore: changed import for network-txpool(examples) (#15643)](https://github.com/paradigmxyz/reth/commit/ab85300ac35a57ca2d1f8fbc23aa29d6baee1376) - 2025-04-10
+* [Pull Request] [ci: bump Hive eest fixtures](https://github.com/paradigmxyz/reth/pull/15668) - 2025-04-10
+* [Commit] [allow revert](https://github.com/paradigmxyz/reth/commit/dd91b48b5d8565c2644dcdc3c02e6925fc7d269c) - 2025-04-10
+* [Commit] [allow revert](https://github.com/paradigmxyz/reth/commit/940aaeaa69a1763c550781b9cc783bdf301de8db) - 2025-04-10
+* [Commit] [allow revert](https://github.com/paradigmxyz/reth/commit/546998952a09348462a4333d2e08555ac5e60d5e) - 2025-04-10
+* [Pull Request] [ci: do not fail if PR title is invalid](https://github.com/paradigmxyz/reth/pull/15667) - 2025-04-10
+* [Commit] [test](https://github.com/paradigmxyz/reth/commit/37fae997dc2c47da43da3428c3eb64bed84d8d2a) - 2025-04-10
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

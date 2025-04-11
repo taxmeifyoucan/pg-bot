@@ -8,6 +8,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 ## Contributions
 
+## Q2 2025
+
+
+[gballet/go-verkle](https://github.com/gballet/go-verkle)
+* [Pull Request] [Set Cn to identity instead of nil, when deleting a 128-leaf subtree](https://github.com/ethereum/go-verkle/pull/465) - 2025-04-10
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

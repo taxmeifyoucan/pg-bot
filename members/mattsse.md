@@ -48,6 +48,15 @@ Team: Reth
 * [Commit] [fix: check for missing prio fee in eth simulate (#15601)](https://github.com/paradigmxyz/reth/commit/a0c7d1cd776d68e61e0e97ead81297ff45a6b9ba) - 2025-04-08
 * [Issue] [Use block base fee as the default for eth_simulate](https://github.com/paradigmxyz/reth/issues/15602) - 2025-04-08
 * [Pull Request] [fix: check for missing prio fee in eth simulate](https://github.com/paradigmxyz/reth/pull/15601) - 2025-04-08
+* [Pull Request] [chore: double check blob gas in header standalone](https://github.com/paradigmxyz/reth/pull/15672) - 2025-04-10
+* [Commit] [Revert "feat(engine): enable prewarming & caching by default (#15630)" (#15666)](https://github.com/paradigmxyz/reth/commit/04c61e2151fd598117b0c302e2e5949ae377cfc4) - 2025-04-10
+* [Commit] [chore: bump crossbeam channel (#15665)](https://github.com/paradigmxyz/reth/commit/3fec4fa5bb7eb7b0e00a34a30b307d65f3094772) - 2025-04-10
+* [Pull Request] [Revert "feat(engine): enable prewarming & caching by default (#15630)"](https://github.com/paradigmxyz/reth/pull/15666) - 2025-04-10
+* [Pull Request] [chore: bump crossbeam channel](https://github.com/paradigmxyz/reth/pull/15665) - 2025-04-10
+* [Commit] [chore: changed import for manual-p2p (#15664)](https://github.com/paradigmxyz/reth/commit/652359220bb6b1e54d7d772349e5519960d3917d) - 2025-04-10
+* [Issue] [Try cache for filter block range](https://github.com/paradigmxyz/reth/issues/15658) - 2025-04-10
+* [Issue] [Add CLI args for concurrency settings](https://github.com/paradigmxyz/reth/issues/15656) - 2025-04-10
+* [Commit] [chore: make build eth api async (#15636)](https://github.com/paradigmxyz/reth/commit/d68dd400ae2cadf46e15638eff37e78a8173158b) - 2025-04-10
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

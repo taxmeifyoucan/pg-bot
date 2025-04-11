@@ -8,6 +8,11 @@ Team: Robust Incentives Group (RIG)
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Anderselowsson patch 7](https://github.com/ethereum/EIPs/pull/9620) - 2025-04-10
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

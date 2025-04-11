@@ -21,6 +21,11 @@ Team: Grandine
 * [Pull Request] [Correctly compute first epoch Electra proposers from an earlier epoch](https://github.com/grandinetech/grandine/pull/162) - 2025-04-07
 * [Pull Request] [Don't precompute proposers for the next epoch](https://github.com/grandinetech/grandine/pull/161) - 2025-04-07
 * [Commit] [Correctly compute first epoch Electra proposers from an earlier epoch](https://github.com/grandinetech/grandine/commit/acd451ee2895f5a7a1c66906ef7948ac8e627609) - 2025-04-08
+* [Commit] [Publish sync committee contribution based on self vote](https://github.com/grandinetech/grandine/commit/a62af0f7531938026154e26cf637c6787e61e92a) - 2025-04-10
+* [Commit] [Update mainnet config](https://github.com/grandinetech/grandine/commit/bb4fc7e061809b99268a3ddf5ed611d486e10fad) - 2025-04-10
+* [Pull Request] [Update crates](https://github.com/grandinetech/grandine/pull/170) - 2025-04-10
+* [Pull Request] [Update mainnet config](https://github.com/grandinetech/grandine/pull/169) - 2025-04-10
+* [Pull Request] [Publish sync committee contribution based on self vote](https://github.com/grandinetech/grandine/pull/168) - 2025-04-10
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

@@ -17,6 +17,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Electra schedule (#9324)](https://github.com/Consensys/teku/commit/829ce4747605507de77a40ae97a9a13f41dbe070) - 2025-04-06
 * [Pull Request] [Electra schedule](https://github.com/Consensys/teku/pull/9324) - 2025-04-06
 * [Pull Request] [Created Fulu skeleton setup](https://github.com/Consensys/teku/pull/9325) - 2025-04-07
+* [Pull Request] [DO NOT MERGE test ci config](https://github.com/Consensys/teku/pull/9338) - 2025-04-10
+* [Commit] [Temporarily ignore das branch on CircleCI tests (#9337)](https://github.com/Consensys/teku/commit/c04219f0d9b4a3ae736e3671bd1f87bd13e13121) - 2025-04-10
+* [Pull Request] [Temporarily ignore das branch on CircleCI tests](https://github.com/Consensys/teku/pull/9337) - 2025-04-10
+* [Pull Request] [Temporarily ignore das branch on CircleCI tests](https://github.com/Consensys/teku/pull/9336) - 2025-04-10
+* [Pull Request] [KZG updates from das branch](https://github.com/Consensys/teku/pull/9335) - 2025-04-10
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -28,6 +28,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [fixes health tracker usage ](https://github.com/prysmaticlabs/prysm/pull/15126) - 2025-04-03
 * [Commit] [Update changelog for v5.3.0 release (#14918)](https://github.com/prysmaticlabs/prysm/commit/66878deb2c902ddaba29f5e8958dee78c1480390) - 2025-04-07
 * [Commit] [refactor state-by-root test to table-driven (#15087)](https://github.com/prysmaticlabs/prysm/commit/1b65e000963be3ab6615be861385617e64b95f43) - 2025-04-07
+* [Commit] [reverting old changelog](https://github.com/OffchainLabs/prysm/commit/ee564d506789b6f443fa420fc76f30d01dac4e41) - 2025-04-10
+* [Commit] [fixing changelog](https://github.com/OffchainLabs/prysm/commit/16af4e15c32ae8dc2c5228c175c97b70a07915b0) - 2025-04-10
+* [Commit] [Deprecate everything related with the gRPC API (#14944)](https://github.com/OffchainLabs/prysm/commit/9d1750ce8682af23822350be8d6a3ae1d9d28f9a) - 2025-04-10
+* [Commit] [reverting electra fork override on blob test too, replacing with custom timefetcher](https://github.com/OffchainLabs/prysm/commit/ac827ed8ba873b7a8d84936c0979bac1f3cf6e0a) - 2025-04-10
+* [Commit] [fixing tests without needing to override electra fork config](https://github.com/OffchainLabs/prysm/commit/7df3c7f0655d9890ad9e6c9d7ae027f711f95c39) - 2025-04-10
+* [Commit] [Mainnet config copies by default (#15159)](https://github.com/OffchainLabs/prysm/commit/e20420aa87f4f0182beb1af1c3641d770951efa3) - 2025-04-10
+* [Pull Request] [Electra attestation api guard](https://github.com/OffchainLabs/prysm/pull/15161) - 2025-04-10
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -29,6 +29,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: adjust aggregate participation buckets and track aggregate cache misses (#7667)](https://github.com/ChainSafe/lodestar/commit/c76151c862556357381bcfae506e60520745df6b) - 2025-04-08
 * [Commit] [chore: reduce time to retain registered validators in monitor to 1 hour (#7668)](https://github.com/ChainSafe/lodestar/commit/f87bd54721fef4941bda3abad22f81fb5e223fc5) - 2025-04-08
 * [Commit] [Reduce number of buckets](https://github.com/ChainSafe/lodestar/commit/72d4eab822ea22b03c550fec3898a25cfce3fb37) - 2025-04-08
+* [Pull Request] [chore: bump CL spec to v1.5.0-beta.5](https://github.com/ChainSafe/lodestar/pull/7685) - 2025-04-10
+* [Commit] [Revise comment](https://github.com/ChainSafe/lodestar/commit/ef8a25bd6255b4d776b9f8531f45788290164b64) - 2025-04-10
+* [Commit] [Apply some feedback from review](https://github.com/ChainSafe/lodestar/commit/0d65ddd106e332ddc6c65a08d648763e03e18bab) - 2025-04-10
+* [Commit] [feat: schedule electra on gnosis (#7678)](https://github.com/ChainSafe/lodestar/commit/ac59affdb8679b7b13321b98344cc215d026efaa) - 2025-04-10
+* [Commit] [docs: replace holesky with hoodi in docs and flags (#7596)](https://github.com/ChainSafe/lodestar/commit/9bc0958841e1fad8b0b49856df709bc02e8b1e33) - 2025-04-10
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

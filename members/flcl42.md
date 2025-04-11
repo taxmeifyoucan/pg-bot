@@ -15,6 +15,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Change proof version](https://github.com/NethermindEth/nethermind/commit/b53b9b80cf9798428e72669dd13d9dd60f338cb8) - 2025-04-01
 * [Commit] [Make tx pool return blob txs with applicable proof version](https://github.com/NethermindEth/nethermind/commit/56868690de3e59ab22fe279d8ed8713fd5cd2a1f) - 2025-04-01
 * [Commit] [Fix blob sender #2 and #3 breaks](https://github.com/NethermindEth/nethermind/commit/d347bc1ea87bbb491e25bb2d7f4fe8bc760ffdf4) - 2025-04-04
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

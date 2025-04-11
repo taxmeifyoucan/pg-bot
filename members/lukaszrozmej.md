@@ -14,6 +14,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [Improvements](https://github.com/NethermindEth/nethermind/commit/efb62604281e68d28e61f7305706ff5faf4e5355) - 2025-04-01
 * [Commit] [Fix: dispose ArrayPoolList in SyncStatusList (#8485)](https://github.com/NethermindEth/nethermind/commit/514ec7215ffb4249afcb358acff7e4aa69036190) - 2025-04-09
+* [Commit] [Don't catch all exceptions on ExecutionPayload.TryGetBlock (#8498)](https://github.com/NethermindEth/nethermind/commit/822fc1dd9f07dc12df43cdd491e66c9cbd0363cb) - 2025-04-10
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

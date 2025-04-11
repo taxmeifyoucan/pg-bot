@@ -31,6 +31,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: sort packed attestations by total effective balance](https://github.com/ChainSafe/lodestar/pull/7673) - 2025-04-08
 * [Commit] [fix: more thorough unit tests on MatchingDataAttestationGroup.getAttestationsForBlock()](https://github.com/ChainSafe/lodestar/commit/22e5d51b6e57dc98e20bf3e4a74e13542eccc375) - 2025-04-09
 * [Commit] [chore: reduce time to retain registered validators in monitor to 1 hour (#7668)](https://github.com/ChainSafe/lodestar/commit/f87bd54721fef4941bda3abad22f81fb5e223fc5) - 2025-04-09
+* [Issue] [Produce Block: Build common block body while waiting for Builder/EL](https://github.com/ChainSafe/lodestar/issues/7680) - 2025-04-10
+* [Commit] [fix: address PR's comments](https://github.com/ChainSafe/lodestar/commit/73b1ba909c5b5ff9bd31387b7f5d1f09cffffe1b) - 2025-04-10
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

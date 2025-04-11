@@ -28,6 +28,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Add pending_consolidations API](https://github.com/sigp/lighthouse/issues/7282) - 2025-04-08
 * [Issue] [Fix deserialization of Electra JSON responses from builders](https://github.com/sigp/lighthouse/issues/7277) - 2025-04-08
 * [Pull Request] [Cut v7.0.0](https://github.com/sigp/lighthouse/pull/7288) - 2025-04-09
+* [Commit] [Bump version to v7.1.0-beta.0 (not a release) (#7269)](https://github.com/sigp/lighthouse/commit/47a85cd1186d94c2aa8f00c67cd9ccd7e4a88178) - 2025-04-10
+* [Issue] [Verify blobs and data columns during backfill](https://github.com/sigp/lighthouse/issues/7305) - 2025-04-10
+* [Commit] [Add note about multiple DAG roots](https://github.com/sigp/lighthouse/commit/8657b085b2fca0be08098e25695350a4564723ea) - 2025-04-10
+* [Pull Request] [Update and cleanup Electra preset](https://github.com/sigp/lighthouse/pull/7303) - 2025-04-10
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

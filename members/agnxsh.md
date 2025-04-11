@@ -25,6 +25,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Peer pool custom filtering (attempt 2). (#7040)](https://github.com/status-im/nimbus-eth2/commit/88725c7690f3ffdd00793beeed8345be44c4e216) - 2025-04-07
 * [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/27fec2661af56f94f86797a6e356537a50edc99f) - 2025-04-10
 * [Commit] [modify RouteSignedBeaconBlock to propose columns directly from cell proofs](https://github.com/status-im/nimbus-eth2/commit/fe041073446f418549a5c4598303a8bc0efe6a34) - 2025-04-10
+* [Commit] [fix some cfg stuff](https://github.com/status-im/nimbus-eth2/commit/1f05a6678e0f131d4cc6af1f1b23260f4d636e9b) - 2025-04-10
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

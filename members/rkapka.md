@@ -19,6 +19,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [format fix](https://github.com/OffchainLabs/prysm/commit/f8b588786a42411ed51b22e20fcb49e7b3ae7460) - 2025-04-09
 * [Commit] [Merge branch '__develop' into deprecate-grpc](https://github.com/OffchainLabs/prysm/commit/26c9d5810f0bc15b013a28789301ad4d8fd55e58) - 2025-04-09
 * [Commit] [panic to error changes and changelog (#15074)](https://github.com/OffchainLabs/prysm/commit/08bfaca42d25c4d5691d9b6e7026405e6503c10f) - 2025-04-09
+* [Pull Request] [Remove `disable-committee-aware-packing` flag](https://github.com/OffchainLabs/prysm/pull/15162) - 2025-04-10
+* [Commit] [only keep comment in public-facing items](https://github.com/OffchainLabs/prysm/commit/d08e9b201cbd4a9d49b554d3745a1d640730f8ca) - 2025-04-10
+* [Commit] [only keep comment in public-facing items](https://github.com/OffchainLabs/prysm/commit/a17083edc8ea48c8028cd2dcc44a7c2c76ac9d66) - 2025-04-10
+* [Commit] [remove comment from unexported fields](https://github.com/OffchainLabs/prysm/commit/3a24f271488f7735d774b921bbc2fa281639f678) - 2025-04-10
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

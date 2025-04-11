@@ -17,6 +17,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Use forkchoice dependent root helper](https://github.com/prysmaticlabs/prysm/pull/15137) - 2025-04-07
 * [Commit] [Forkchoice helper for dependent root](https://github.com/prysmaticlabs/prysm/commit/b4ed6ab4558555d337c0a942cbf44ad7fe94cef2) - 2025-04-07
 * [Pull Request] [Forkchoice helper for dependent root](https://github.com/prysmaticlabs/prysm/pull/15136) - 2025-04-07
+* [Commit] [Fix Committee Index Check For Electra Aggregates (#15146)](https://github.com/OffchainLabs/prysm/commit/81019ef17396ec46bb413cd5f325df79f5adcd56) - 2025-04-10
+* [Commit] [fix conflict](https://github.com/OffchainLabs/prysm/commit/f60394e6758da7785b7606e1df4d584400a44d8b) - 2025-04-10
+* [Commit] [add slot deadline to update duties](https://github.com/OffchainLabs/prysm/commit/2d5ad13545f71d0c98fa26ff27789a2d74bb89c4) - 2025-04-10
+* [Commit] [parse slot twice](https://github.com/OffchainLabs/prysm/commit/d6f44bb0825e3634c93e669bc158b3dcdbbaa67f) - 2025-04-10
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
