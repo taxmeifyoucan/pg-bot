@@ -18,6 +18,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Backmerge `release-v7.0.0` into `unstable`](https://github.com/sigp/lighthouse/pull/7257) - 2025-04-04
 * [Pull Request] [Bump openssl to fix cargo audit failure](https://github.com/sigp/lighthouse/pull/7263) - 2025-04-05
 * [Pull Request] [Add `pending_consolidations` Beacon API endpoint](https://github.com/sigp/lighthouse/pull/7290) - 2025-04-09
+* [Pull Request] [Backmerge `release-v7.0.0` to `unstable`](https://github.com/sigp/lighthouse/pull/7315) - 2025-04-11
+* [Commit] [Clarify network limits (#7175)](https://github.com/sigp/lighthouse/commit/076f3f09843c52347bb04d5b3dc4364d1018c2e3) - 2025-04-11
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

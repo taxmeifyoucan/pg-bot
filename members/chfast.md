@@ -19,6 +19,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [fix(tests): Prevent EOF max stack height above number of inputs (#1380)](https://github.com/ethereum/execution-spec-tests/commit/d3dfac564e003139dc523f0af7b903209289fb87) - 2025-04-07
 * [Issue] [mkdocs don't accept `Generator` with single argument](https://github.com/ethereum/execution-spec-tests/issues/1402) - 2025-04-07
 * [Commit] [fix(tests): assign ids to parametrized EOF code sections (#1427)](https://github.com/ethereum/execution-spec-tests/commit/a7a4e951a92ceb9047fafd55d7cd395a36335dcc) - 2025-04-10
+* [Pull Request] [new(tests): add EOF execution at maximum stack height](https://github.com/ethereum/execution-spec-tests/pull/1443) - 2025-04-11
+* [Commit] [new(tests): EOF validation non constant stack (#1417)](https://github.com/ethereum/execution-spec-tests/commit/e2809d95baed7631f6769d24442f672bf9a76ae5) - 2025-04-11
+* [Commit] [fix(tests): EOF - Change container section size to 4 bytes (#1403)](https://github.com/ethereum/execution-spec-tests/commit/5d50fc2e2eeb9e2b4ae5b5d4993bb35fc4e0cab0) - 2025-04-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-5450,EIP-4750: Change to max_stack_increase](https://github.com/ethereum/EIPs/pull/9600) - 2025-04-04
 * [Pull Request] [Update EIP-5450: Expand on block ordering](https://github.com/ethereum/EIPs/pull/9599) - 2025-04-04

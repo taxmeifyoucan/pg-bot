@@ -13,6 +13,9 @@ Team: Codex DAS
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [p2p: name dial sources to allow better diagnostics and stats](https://github.com/ethereum/go-ethereum/pull/31588) - 2025-04-08
+* [Commit] [eth/dropper: changing error code to DiscUselessPeer](https://github.com/ethereum/go-ethereum/commit/2a9372ea5fcf0f3b0bb1d71a0bcf21d9db02c9f5) - 2025-04-11
+* [Commit] [eth/dropper: remove unused peerEvent channel](https://github.com/ethereum/go-ethereum/commit/ff66b1c42e163925a6a2a393a123160187b9a48d) - 2025-04-11
+* [Commit] [eth: renaming Connection Manager to Dropper](https://github.com/ethereum/go-ethereum/commit/42d2c9b588fbe0621bb81fb3fb3f377e3a04656b) - 2025-04-11
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

@@ -36,6 +36,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [changelog](https://github.com/ethereum/execution-spec-tests/commit/f52d90f371bb21473e5502df208b51d007340ce6) - 2025-04-10
 * [Pull Request] [fix(consume): Fix consume input parsing on arbitrary URLs](https://github.com/ethereum/execution-spec-tests/pull/1435) - 2025-04-10
 * [Commit] [fix(plugins/consume): Better handling of arbitrary urls](https://github.com/ethereum/execution-spec-tests/commit/9acd98530c9d50c10f6c60418cf3368af23fd84b) - 2025-04-10
+* [Commit] [fix(consume): fix fixture downloads for non-release urls and numerical release specs (#1437)](https://github.com/ethereum/execution-spec-tests/commit/23a354e676c9a520657a9da2ed91d286993e5ec9) - 2025-04-11
+* [Commit] [feat(tests): update 7702 precompile test cases (#1431)](https://github.com/ethereum/execution-spec-tests/commit/0e2bac85a3b3c8d3b38c513fb68b27962dec1b6b) - 2025-04-11
+* [Commit] [fix(clis): Update Besu's binary pattern (#1328)](https://github.com/ethereum/execution-spec-tests/commit/2c07538a21a3c0031d0e45b0a0fdd50d2bde1a66) - 2025-04-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

@@ -19,6 +19,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Implement EIP-7873](https://github.com/ethereum/execution-specs/commit/aa8f57cddaf85b88ae2568f8477b474ad7ded2f0) - 2025-04-08
 * [Pull Request] [Run EEST 4.2.0 tests](https://github.com/ethereum/execution-specs/pull/1189) - 2025-04-10
 * [Issue] [Implement EIP-7823](https://github.com/ethereum/execution-specs/issues/1188) - 2025-04-10
+* [Commit] [EXTCALL* to 7702 delegated accounts](https://github.com/ethereum/execution-specs/commit/ca4bafde5eba44aff975b6a594eb7f7310eac120) - 2025-04-11
 ## Q1 2025
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)

@@ -31,6 +31,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [check](https://github.com/erigontech/erigon/commit/6d7835c0c1d0e73b06bfe6e28ba2cd4eeb0a8ffa) - 2025-04-09
 * [Commit] [linter](https://github.com/erigontech/erigon/commit/55b678192196160bbe55aa4394aa322b08a0300e) - 2025-04-09
 * [Commit] [windows uggh](https://github.com/erigontech/erigon/commit/63ae869bcfe48bd88c9c58d66c9ac5d6c97afee4) - 2025-04-09
+* [Commit] [linter](https://github.com/erigontech/erigon/commit/695b550b74215c6311dbb26a17d9e76f560676c7) - 2025-04-11
+* [Commit] [tests](https://github.com/erigontech/erigon/commit/a19ab94f2d0eaf2b587f6195d2501fb099cb4250) - 2025-04-11
+* [Commit] [refactor](https://github.com/erigontech/erigon/commit/c96747abd36608c875cf821adbef1a9d8cafa361) - 2025-04-11
+* [Pull Request] [cp: remove unsafe closing of subsumed files in mergeLoopStep](https://github.com/erigontech/erigon/pull/14557) - 2025-04-11
+* [Pull Request] [move in!=nil check inside Close()](https://github.com/erigontech/erigon/pull/14556) - 2025-04-11
+* [Commit] [close mergedFiles when err != nil](https://github.com/erigontech/erigon/commit/0c8ce7c4a67e25412636e71db1a8346f74e58f7d) - 2025-04-11
+* [Pull Request] [remove unsafe closing of subsumed files in mergeLoopStep](https://github.com/erigontech/erigon/pull/14553) - 2025-04-11
+* [Pull Request] [wip](https://github.com/erigontech/erigon/pull/14552) - 2025-04-11
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

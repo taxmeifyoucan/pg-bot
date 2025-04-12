@@ -35,6 +35,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fixing tests without needing to override electra fork config](https://github.com/OffchainLabs/prysm/commit/7df3c7f0655d9890ad9e6c9d7ae027f711f95c39) - 2025-04-10
 * [Commit] [Mainnet config copies by default (#15159)](https://github.com/OffchainLabs/prysm/commit/e20420aa87f4f0182beb1af1c3641d770951efa3) - 2025-04-10
 * [Pull Request] [Electra attestation api guard](https://github.com/OffchainLabs/prysm/pull/15161) - 2025-04-10
+* [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/8edd5c9696b26ed4f43e5fd84631b744223cd864) - 2025-04-11
+* [Commit] [Remove deprecated flags (#15165)](https://github.com/OffchainLabs/prysm/commit/e6e03c8ac9dfdd416af436bb645699ea03a548de) - 2025-04-11
+* [Commit] [fixing tests](https://github.com/OffchainLabs/prysm/commit/1252a2361ffdcbfd5696c455652b6bd538c2a286) - 2025-04-11
+* [Commit] [Problem: no prysmctl option in wrapper script to generate devnet ssz (#15145)](https://github.com/OffchainLabs/prysm/commit/ac0ea13dbef4d50799782185b93d00afb99fe26a) - 2025-04-11
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

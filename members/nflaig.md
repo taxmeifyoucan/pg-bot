@@ -34,6 +34,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Apply some feedback from review](https://github.com/ChainSafe/lodestar/commit/0d65ddd106e332ddc6c65a08d648763e03e18bab) - 2025-04-10
 * [Commit] [feat: schedule electra on gnosis (#7678)](https://github.com/ChainSafe/lodestar/commit/ac59affdb8679b7b13321b98344cc215d026efaa) - 2025-04-10
 * [Commit] [docs: replace holesky with hoodi in docs and flags (#7596)](https://github.com/ChainSafe/lodestar/commit/9bc0958841e1fad8b0b49856df709bc02e8b1e33) - 2025-04-10
+* [Pull Request] [chore: v1.29.0 release](https://github.com/ChainSafe/lodestar/pull/7690) - 2025-04-11
+* [Commit] [docs: add slashing protection information (#7689)](https://github.com/ChainSafe/lodestar/commit/8aa1ad8d30da315d04efaa3dbfad9bdc23e5ccff) - 2025-04-11
+* [Commit] [feat: sort packed attestations by total effective balance (#7673)](https://github.com/ChainSafe/lodestar/commit/a77957744c391134784242f2e23dfb4f45691f1f) - 2025-04-11
+* [Commit] [Improve consistency and add few more clarifications](https://github.com/ChainSafe/lodestar/commit/e83155bed527703f740d03646d787ea24608f987) - 2025-04-11
+* [Commit] [chore: bump CL spec to v1.5.0-beta.5 (#7685)](https://github.com/ChainSafe/lodestar/commit/c4068dc653d953b8b17e0142513ceef97b3c75b4) - 2025-04-11
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

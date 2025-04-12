@@ -23,6 +23,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Merge pull request #3954 from ethereum/dev](https://github.com/ethereum/consensus-specs/commit/30ecf2c5e1d00e8c12ef20dd7e93bf06ff9cf617) - 2025-04-10
 * [Commit] [Bump version to v1.5.0-beta.5 (#4260)](https://github.com/ethereum/consensus-specs/commit/4e262e43e78168fd0bd42759a76b86799e5e9d33) - 2025-04-10
 * [Pull Request] [Release v1.5.0-beta.5](https://github.com/ethereum/consensus-specs/pull/4261) - 2025-04-10
+* [Commit] [Fix eip7732 kzg commitment inclusion proof depth (#4264)](https://github.com/ethereum/consensus-specs/commit/632731773d4fb8a052bcc9d372420ed5417496ce) - 2025-04-11
+* [Pull Request] [Fix eip7732 kzg commitment inclusion proof depth](https://github.com/ethereum/consensus-specs/pull/4264) - 2025-04-11
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

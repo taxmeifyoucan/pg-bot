@@ -22,6 +22,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Perf/More accurate request limit. (#8474)](https://github.com/NethermindEth/nethermind/commit/c3ba42564e164e175614fe9c570fed93e53a2317) - 2025-04-07
 * [Pull Request] [Perf/Work stealing executor](https://github.com/NethermindEth/nethermind/pull/8487) - 2025-04-08
 * [Commit] [Reduce parallelization](https://github.com/NethermindEth/nethermind/commit/98d558775aeef064638a1584e95ce07906097b0d) - 2025-04-08
+* [Commit] [Something](https://github.com/NethermindEth/nethermind/commit/3de2938bfac1336e0f199289a779e2d160928998) - 2025-04-11
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/d90bfb76565a344c92bcc22f512ddf5437ff47cf) - 2025-04-11
+* [Commit] [Isolated commit and hash benchmark (#8505)](https://github.com/NethermindEth/nethermind/commit/098f4f599335ae7c94524f1bc4f6dbf03b66d20d) - 2025-04-11
+* [Pull Request] [Cleanup/Remove InitializeNodeStats](https://github.com/NethermindEth/nethermind/pull/8511) - 2025-04-11
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/c4fa96b09b9559ca1cd131bce8b0f6cbcab04e61) - 2025-04-11
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/03721994a2fa92cd88972314dca285869cfa373e) - 2025-04-11
+* [Pull Request] [Feature/era configurable import blocks buffer](https://github.com/NethermindEth/nethermind/pull/8510) - 2025-04-11
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/433049938ffa9ed34850ae791c8e7cb784538e72) - 2025-04-11
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

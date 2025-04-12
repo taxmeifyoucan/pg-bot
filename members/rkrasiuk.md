@@ -21,3 +21,4 @@ Team: Reth
 * [Commit] [chore: return invalid reward percentiles as invalid params (#15532)](https://github.com/paradigmxyz/reth/commit/1a9562f89b966fcca922a475637b1fe5ec489222) - 2025-04-07
 * [Pull Request] [fix(evm): custom blob params](https://github.com/paradigmxyz/reth/pull/15598) - 2025-04-08
 * [Commit] [fix blob_max_and_target_count revm setting](https://github.com/paradigmxyz/reth/commit/1a4d585e207d593fa79be647ae9738131127d4d5) - 2025-04-08
+* [Commit] [hide](https://github.com/paradigmxyz/reth/commit/af5ef31af9f4b2c22eb78ad081b7dea46947d80e) - 2025-04-11

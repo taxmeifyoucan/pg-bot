@@ -20,6 +20,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Rework the data column sidecars verification pipeline.](https://github.com/OffchainLabs/prysm/commit/b17e0f938aa7bf15f4d0e1465adc33f01733b81a) - 2025-04-10
 * [Commit] [bbb](https://github.com/OffchainLabs/prysm/commit/e96de9eefbb353ee64cabf54961e7fba380391db) - 2025-04-10
 * [Commit] [Rework the data column sidecars verification pipeline.](https://github.com/OffchainLabs/prysm/commit/2b83828f278ee286333e4aa026a8d6f974b3ae6c) - 2025-04-10
+* [Commit] [Rework the data column sidecars verification pipeline.](https://github.com/OffchainLabs/prysm/commit/3a20f73b75620ddd539f9e0c55323ae036b581f4) - 2025-04-11
+* [Commit] [Rework the data column sidecars verification pipeline.](https://github.com/OffchainLabs/prysm/commit/31031dcf20e03c0c9626c32276c30c0ade2fb207) - 2025-04-11
+* [Commit] [Nishant's comment.](https://github.com/OffchainLabs/prysm/commit/e7ae287882fc36242a93c5760086d26208bc128b) - 2025-04-11
+* [Commit] [Rework the data column sidecars verification pipeline.](https://github.com/OffchainLabs/prysm/commit/b49b61d22dd165cf082e409f7ad420b084e8aaf0) - 2025-04-11
+* [Commit] [Rework the data column sidecars verification pipeline.](https://github.com/OffchainLabs/prysm/commit/3c8cd3bdfcab0db24b7e8ec4d7675d6a4a2639b7) - 2025-04-11
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

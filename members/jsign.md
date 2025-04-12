@@ -8,6 +8,11 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Stateless Implementers Call #34](https://github.com/ethereum/pm/issues/1452) - 2025-04-11
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

@@ -16,6 +16,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Avoid allocating a `Set` every time `requestIdCompatible` is called](https://github.com/hyperledger/besu/pull/8522) - 2025-04-04
 * [Commit] [Add metrics to report peer count by client (#8515)](https://github.com/hyperledger/besu/commit/409a0e2fa6bd35188a48b19f488641cd8ce2fb4b) - 2025-04-04
 * [Pull Request] [Make max tracked seen txs and forget evicted txs values configurable in the peer tracker](https://github.com/hyperledger/besu/pull/8537) - 2025-04-10
+* [Issue] [Release 25.4.1](https://github.com/hyperledger/besu/issues/8542) - 2025-04-11
+* [Commit] [Tune and make configurable the `PeerTransactionTracker`  (#8537)](https://github.com/hyperledger/besu/commit/abc01e27f043f34accc6de3e2657c1334a5e44b4) - 2025-04-11
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

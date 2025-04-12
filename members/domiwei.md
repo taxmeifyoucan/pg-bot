@@ -22,6 +22,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/ba8e6d56447bc36953f98b002ba2b96d7a182475) - 2025-04-10
 * [Pull Request] [draft: EIP7594](https://github.com/erigontech/erigon/pull/14537) - 2025-04-10
 * [Commit] [global access to beacon config](https://github.com/erigontech/erigon/commit/a7c6e3e76e9ad17777ad332ee26f8c4fa906d3a1) - 2025-04-10
+* [Commit] [update](https://github.com/erigontech/erigon/commit/c8d26823413389494d2fc7654de4d48013a1ee49) - 2025-04-11
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

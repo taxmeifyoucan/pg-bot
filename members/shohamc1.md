@@ -57,6 +57,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Fix ABI encode, crash](https://github.com/erigontech/erigon/commit/3c43cfb491fa1c91963b03f57db612dc421cc9f9) - 2025-04-10
 * [Commit] [Provide 'totalGasLimit' to the 'ValidateAATransaction' gas pool; comment out sub gas (#14407)](https://github.com/erigontech/erigon/commit/a806abf460677607ae9ce8b15353260a57e708ee) - 2025-04-10
 * [Pull Request] [Fix `trace_transaction` for Polygon chains (#14470)](https://github.com/erigontech/erigon/pull/14530) - 2025-04-10
+* [Commit] [Fix `trace_transaction` for Polygon chains (#14470) (#14530)](https://github.com/erigontech/erigon/commit/0dd8123a482240fab0fc9ba4013b135a6cbd92df) - 2025-04-11
+* [Commit] [Validation tracer](https://github.com/erigontech/erigon/commit/1290caf501f444216a2723324ee66ff1cb21cc81) - 2025-04-11
+* [Commit] [Validation tracer](https://github.com/erigontech/erigon/commit/b541c97885315b7add79bd5da44dc08f7d7f35f8) - 2025-04-11
+* [Commit] [Validation tracer](https://github.com/erigontech/erigon/commit/3b5ba6f7c35f43359309717385637b3c7644250d) - 2025-04-11
+* [Pull Request] [Support state sync events in `eth_getLogs`, set correct log indices](https://github.com/erigontech/erigon/pull/14551) - 2025-04-11
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

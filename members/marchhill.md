@@ -28,6 +28,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [add to forkinfotests](https://github.com/NethermindEth/nethermind/commit/6c15fa968bffc31d9ea1ff9680f1ab9bf8d3b35a) - 2025-04-09
 * [Pull Request] [Mainnet Pectra config](https://github.com/NethermindEth/nethermind/pull/8502) - 2025-04-09
 * [Commit] [undo gnosis as covered by other PR](https://github.com/NethermindEth/nethermind/commit/27693c367dd7711970d901e898921728d92e4b7e) - 2025-04-09
+* [Pull Request] [Fix gas costs on bad precompile input](https://github.com/NethermindEth/nethermind/pull/8514) - 2025-04-11
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

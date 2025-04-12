@@ -21,6 +21,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [fix conflict](https://github.com/OffchainLabs/prysm/commit/f60394e6758da7785b7606e1df4d584400a44d8b) - 2025-04-10
 * [Commit] [add slot deadline to update duties](https://github.com/OffchainLabs/prysm/commit/2d5ad13545f71d0c98fa26ff27789a2d74bb89c4) - 2025-04-10
 * [Commit] [parse slot twice](https://github.com/OffchainLabs/prysm/commit/d6f44bb0825e3634c93e669bc158b3dcdbbaa67f) - 2025-04-10
+* [Commit] [lint](https://github.com/OffchainLabs/prysm/commit/1b6beec4f56e6b307e18a10dcb16d9437bc7fda6) - 2025-04-11
+* [Commit] [lint](https://github.com/OffchainLabs/prysm/commit/0b93ca341ae760027ac751ce9003b1c6b9e2c0d8) - 2025-04-11
+* [Commit] [add dependency](https://github.com/OffchainLabs/prysm/commit/44499216aa1d8ac659e8f1a533da4a02fc6c4e0f) - 2025-04-11
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

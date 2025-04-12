@@ -21,6 +21,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(hive): temp.](https://github.com/ethereum/execution-spec-tests/commit/d2df55331686d0ceac34f7b202eb651e32d7def9) - 2025-04-08
 * [Commit] [chore(ci,docs): add a github action to check links in .md, .py (#1375)](https://github.com/ethereum/execution-spec-tests/commit/0c1adccb306c6532af0ed472b87cdcc794cb8637) - 2025-04-09
 * [Issue] [feat(release): tasks for version v4.3.0 (Vltava)](https://github.com/ethereum/execution-spec-tests/issues/1418) - 2025-04-09
+* [Commit] [new(tests): EIP-7873 TXCREATE execution tests - 1st batch (#1413)](https://github.com/ethereum/execution-spec-tests/commit/62d2563dcfd58242f1846bab13f29a64dc558567) - 2025-04-11
+* [Pull Request] [chore(forks): osaka tweak and fix blob schedule logic](https://github.com/ethereum/execution-spec-tests/pull/1438) - 2025-04-11
+* [Commit] [refactor(tools): optimize git tag lookup and URL generation (#1370)](https://github.com/ethereum/execution-spec-tests/commit/370572b30890d27c17327d0f0c260e449c8f61bc) - 2025-04-11
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

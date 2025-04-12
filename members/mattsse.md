@@ -57,6 +57,8 @@ Team: Reth
 * [Issue] [Try cache for filter block range](https://github.com/paradigmxyz/reth/issues/15658) - 2025-04-10
 * [Issue] [Add CLI args for concurrency settings](https://github.com/paradigmxyz/reth/issues/15656) - 2025-04-10
 * [Commit] [chore: make build eth api async (#15636)](https://github.com/paradigmxyz/reth/commit/d68dd400ae2cadf46e15638eff37e78a8173158b) - 2025-04-10
+* [Commit] [feat: add bincode compat to ethereum tx envelope (#15686)](https://github.com/paradigmxyz/reth/commit/0ab297a0e978e943c75fb3880b032565c1af3e99) - 2025-04-11
+* [Commit] [docs: add op-reth to hardfork checklist (#15687)](https://github.com/paradigmxyz/reth/commit/1580c690c99019b24f243bc9d39819cbf0804771) - 2025-04-11
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

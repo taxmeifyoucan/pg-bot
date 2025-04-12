@@ -37,6 +37,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [added engine.precompile_cache_enabled arg](https://github.com/paradigmxyz/reth/commit/a4bc411dedcbc4803289a257184b71e8cebdd9d5) - 2025-04-10
 * [Pull Request] [chore: remove unused evm_config field in EngineApiTreeHandler](https://github.com/paradigmxyz/reth/pull/15660) - 2025-04-10
 * [Commit] [chore: bump op-alloy (#15626)](https://github.com/paradigmxyz/reth/commit/be5553d71e3fe52a1828b88d42a21183916384c0) - 2025-04-10
+* [Commit] [add metrics](https://github.com/paradigmxyz/reth/commit/e501a66f6750d60e143322c2fa40c378dc2ffc9d) - 2025-04-11
+* [Commit] [fix riscv build](https://github.com/paradigmxyz/reth/commit/c809ef30789d233979ba7fbdf0f79ee751e08486) - 2025-04-11
+* [Commit] [fix book](https://github.com/paradigmxyz/reth/commit/a1096da7546ca38d2b776adb3ff517662e9a9c8e) - 2025-04-11
+* [Commit] [integrate changes in EthereumExecutorBuilder](https://github.com/paradigmxyz/reth/commit/ce39c73f79829e97512b980b0063db34003d4362) - 2025-04-11
+* [Commit] [chore!:  Populate the `headers` field in the `ExecutionWitness` when calling `debug_executionWitness` (#15608)](https://github.com/paradigmxyz/reth/commit/33ddc2861bc4e60af53c1b2c33289ac3a3a8f4fd) - 2025-04-11
+* [Commit] [configure cache according to flag](https://github.com/paradigmxyz/reth/commit/953907e00ef22d08125a4eb3ac3ae247a18d1e00) - 2025-04-11
+* [Commit] [feat: add no-local-exemptions settings to MaintainPoolConfig (#15651)](https://github.com/paradigmxyz/reth/commit/3cf0d0d75b331932f2886b029addf83b8b47a19d) - 2025-04-11
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

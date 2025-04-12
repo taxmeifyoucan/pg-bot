@@ -80,6 +80,19 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/6d42beba938fec344bddb42f9b068f6e9f8d7c32) - 2025-04-10
 * [Commit] [fix(consume): fix downloading via release spec with numerical version](https://github.com/ethereum/execution-spec-tests/commit/01bc4a7d7e5a16cdbf267bebc93f38dfbc7fe1bc) - 2025-04-10
 * [Commit] [Deployed f2c001cfd7 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1fec1a6d7dbb16b517280e9a051fd09b05b16dad) - 2025-04-10
+* [Commit] [Deployed 23a354e676 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/33b0de787c1c926eafdaaf47748b4fc5b7ba727b) - 2025-04-11
+* [Commit] [docs: fix changelog](https://github.com/ethereum/execution-spec-tests/commit/c8811b73c8f1cd711915615b9d42557499e1e9dd) - 2025-04-11
+* [Pull Request] [feat(tests): add increased nonce with invalid nonce tests](https://github.com/ethereum/execution-spec-tests/pull/1441) - 2025-04-11
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/eb815db651b9c47b1a7f59b2ab3a6a1b330f7494) - 2025-04-11
+* [Commit] [chore(docs): add python, ruff, uv & license badges to readme (#1410)](https://github.com/ethereum/execution-spec-tests/commit/6fe95500724462236a219fdbf5d44f78d8859b70) - 2025-04-11
+* [Commit] [Deployed 62d2563dcf to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/0532a8c433067c4182206ac5158b9083b42591e2) - 2025-04-11
+* [Commit] [fix(tests): increase `gas_limit`; reduce depth](https://github.com/ethereum/execution-spec-tests/commit/0243fba58441ab17481db193b9830be445fa4400) - 2025-04-11
+* [Commit] [fix(tests): EOF - Align EOFCREATE args with EXT*CALL (#1274)](https://github.com/ethereum/execution-spec-tests/commit/e0eeecbfb3cb96e7fffa2d8f9266422a5ac5ba45) - 2025-04-11
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/4e005b7b6232c20781021e06679aac18a41b9645) - 2025-04-11
+* [Commit] [fix(tests): use `pre.fund_eoa()` to get valid eoa](https://github.com/ethereum/execution-spec-tests/commit/4d3f4548dba1083b4e24c4897fd056ede9c92996) - 2025-04-11
+* [Commit] [Deployed e2809d95ba to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d1605545cce3739e174fcee22a3f8d2af86f53c4) - 2025-04-11
+* [Commit] [Deployed 5d50fc2e2e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/0d2e6e20aba9e36d87b5a443fa25d9b4ee60decf) - 2025-04-11
+* [Commit] [Deployed 370572b308 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1dbe29120854bf1336ce706c0726aeab2869d7c2) - 2025-04-11
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

@@ -67,6 +67,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update chain sizes test (#8478)](https://github.com/NethermindEth/nethermind/commit/195e515ef2bbafc939fa141a9b13c6cd55a57062) - 2025-04-10
 * [Commit] [Handle tx reorged blocks better (#8507)](https://github.com/NethermindEth/nethermind/commit/35eb7f31663a69eb5dfa6a5d363b6ecac07fc41f) - 2025-04-10
 * [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/15b7f96d4f306e4a86e7c06df1422e164362ebb0) - 2025-04-10
+* [Commit] [Prefer mev reward tx value when calculating mev (#8512)](https://github.com/NethermindEth/nethermind/commit/1f0d18de6b484abe94032124ffea49777a87751a) - 2025-04-11
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/0d405c4f2364b82d4f92ce05d323b8bee70f23bb) - 2025-04-11
+* [Pull Request] [Prefer mev reward tx value when calculating mev](https://github.com/NethermindEth/nethermind/pull/8512) - 2025-04-11
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

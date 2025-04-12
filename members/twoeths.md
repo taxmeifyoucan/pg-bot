@@ -33,6 +33,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: reduce time to retain registered validators in monitor to 1 hour (#7668)](https://github.com/ChainSafe/lodestar/commit/f87bd54721fef4941bda3abad22f81fb5e223fc5) - 2025-04-09
 * [Issue] [Produce Block: Build common block body while waiting for Builder/EL](https://github.com/ChainSafe/lodestar/issues/7680) - 2025-04-10
 * [Commit] [fix: address PR's comments](https://github.com/ChainSafe/lodestar/commit/73b1ba909c5b5ff9bd31387b7f5d1f09cffffe1b) - 2025-04-10
+* [Commit] [feat: track returned & total attestations per slot](https://github.com/ChainSafe/lodestar/commit/29f1b3d8bf9ceaa045a114df02e186199929bc7e) - 2025-04-11
+* [Commit] [refactor: rename notSeenAttestingIndices to notSeenCommitteeMembers](https://github.com/ChainSafe/lodestar/commit/46f15b12c399a128f8c6f51499fced4e3e454170) - 2025-04-11
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

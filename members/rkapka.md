@@ -23,6 +23,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [only keep comment in public-facing items](https://github.com/OffchainLabs/prysm/commit/d08e9b201cbd4a9d49b554d3745a1d640730f8ca) - 2025-04-10
 * [Commit] [only keep comment in public-facing items](https://github.com/OffchainLabs/prysm/commit/a17083edc8ea48c8028cd2dcc44a7c2c76ac9d66) - 2025-04-10
 * [Commit] [remove comment from unexported fields](https://github.com/OffchainLabs/prysm/commit/3a24f271488f7735d774b921bbc2fa281639f678) - 2025-04-10
+* [Commit] [unblock Github actions](https://github.com/OffchainLabs/prysm/commit/d4b496e60499d6cdda995fe82a52884da1bdd3cd) - 2025-04-11
+* [Commit] [fix linter](https://github.com/OffchainLabs/prysm/commit/b47acdcbc21f47726fd063547e116b59cb724abf) - 2025-04-11
+* [Pull Request] [Removed Beacon API endpoints which have been deprecated at the Deneb fork](https://github.com/OffchainLabs/prysm/pull/15166) - 2025-04-11
+* [Commit] [Deprecate everything related with the gRPC API (#14944)](https://github.com/OffchainLabs/prysm/commit/9d1750ce8682af23822350be8d6a3ae1d9d28f9a) - 2025-04-11
+* [Pull Request] [Remove deprecated flags](https://github.com/OffchainLabs/prysm/pull/15165) - 2025-04-11
+* [Commit] [changelog <3](https://github.com/OffchainLabs/prysm/commit/0a1642ee8170eeff168ff9a59333fdea23a30733) - 2025-04-11
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

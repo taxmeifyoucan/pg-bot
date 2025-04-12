@@ -24,6 +24,7 @@ Team: Reth
 * [Commit] [allow revert](https://github.com/paradigmxyz/reth/commit/546998952a09348462a4333d2e08555ac5e60d5e) - 2025-04-10
 * [Pull Request] [ci: do not fail if PR title is invalid](https://github.com/paradigmxyz/reth/pull/15667) - 2025-04-10
 * [Commit] [test](https://github.com/paradigmxyz/reth/commit/37fae997dc2c47da43da3428c3eb64bed84d8d2a) - 2025-04-10
+* [Commit] [reorder, more comments](https://github.com/paradigmxyz/reth/commit/65cebe921c8a9e526c6dd945f9766f856af74f86) - 2025-04-11
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

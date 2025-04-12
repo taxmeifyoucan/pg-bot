@@ -53,6 +53,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ab7bf791daca02fdec1fd824ba7b4a182807584a) - 2025-04-09
 * [Commit] [Erigon 3.0: Add support for executed historical `eth_getProof` (#14510)](https://github.com/erigontech/erigon/commit/1fc71c65b2cad97f7ed791a797a0cb8e4164436f) - 2025-04-10
 * [Commit] [Fixed incorrect processing of state sync events in polygon mined blocks (#14484)](https://github.com/erigontech/erigon/commit/f4c119edf09c25e844908bfcf6d29437e3dee3ad) - 2025-04-10
+* [Issue] [Erigon 3: History sampling](https://github.com/erigontech/erigon/issues/14569) - 2025-04-11
+* [Pull Request] [Erigon 3: historical `eth_getProof` experimental flag](https://github.com/erigontech/erigon/pull/14568) - 2025-04-11
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

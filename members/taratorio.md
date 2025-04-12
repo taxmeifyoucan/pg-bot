@@ -27,6 +27,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [polygon/bridge: keep events debug log in execution but not in rpcdaemon (#14540)](https://github.com/erigontech/erigon/commit/6c97d9174a7f9b3414e3208a20ccfcbc08aae116) - 2025-04-10
 * [Issue] [[flakey] TestEthSubscribe panic: test timed out after 4h0m0s](https://github.com/erigontech/erigon/issues/14546) - 2025-04-10
 * [Pull Request] [polygon/bridge: keep events debug log in execution but not in rpcdaemon](https://github.com/erigontech/erigon/pull/14540) - 2025-04-10
+* [Commit] [fix after merge: stay on eof-tests branch for eest fixter](https://github.com/erigontech/erigon/commit/3bb361ebd996c7dc86caa37417b51f6735261d7e) - 2025-04-11
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

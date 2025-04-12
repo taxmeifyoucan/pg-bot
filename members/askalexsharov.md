@@ -251,6 +251,16 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6072c82a063e820a487d7fa911d5d8aa8dd2a133) - 2025-04-10
 * [Commit] [save](https://github.com/erigontech/erigon/commit/4aa0eac7ab8ae0176cdfb79ed9a9a0c78cba3275) - 2025-04-10
 * [Commit] [cl: explicit FuluForkEpoch for all configs (#14524)](https://github.com/erigontech/erigon/commit/9800f43c233db7cb04b86d0b81f525b6877e7fd9) - 2025-04-10
+* [Commit] [cp: remove unsafe closing of subsumed files in mergeLoopStep (#14557)](https://github.com/erigontech/erigon/commit/1093a569809c1c922941caa54bb1b8c88f641d06) - 2025-04-11
+* [Commit] [move in!=nil check inside Close() (#14556)](https://github.com/erigontech/erigon/commit/f5ca82a420ddcd7013d8bdc48b052cead5e7495e) - 2025-04-11
+* [Commit] [CopyHeader: don't copy hash (#14531)](https://github.com/erigontech/erigon/commit/4cce854563c07e88b53254bde93cdc396a675cd8) - 2025-04-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3374d94c14650915d86963b0741008be61b53d1f) - 2025-04-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9c949ab658c6a73ca474d96296a2b0e58b3e287d) - 2025-04-11
+* [Commit] [remove unsafe closing of subsumed files in mergeLoopStep (#14553)](https://github.com/erigontech/erigon/commit/dbaa9b9380589e294f2ea2c352b063124f7e4d90) - 2025-04-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/89a8d2fa978677e4dfc8611182beecb4b271d3be) - 2025-04-11
+* [Commit] [r30: recent receipts persistence: to reduce RPC latency  (#14532)](https://github.com/erigontech/erigon/commit/8e60633133f355c31d8aa373bfd99a45d9c2db9f) - 2025-04-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/753a1bac0e9a10d0c14ae6a79e67cf2257358d0f) - 2025-04-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/035085d652b28426a7d7f978b360d6b8798df4f3) - 2025-04-11
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

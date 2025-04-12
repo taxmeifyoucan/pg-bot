@@ -42,6 +42,7 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e2390084a64ad8cbb98fc92395ddcb0a366fa501) - 2025-04-10
 * [Pull Request] [Commitment: rehash code only with asserts](https://github.com/erigontech/erigon/pull/14536) - 2025-04-10
 * [Commit] [hash contract code only when asserts enabled](https://github.com/erigontech/erigon/commit/04a3fc132e748108a25e5014047804b2ee1b9d91) - 2025-04-10
+* [Commit] [Fixed cmd mine flag to not run miner when it is explicitly set to false (#14527)](https://github.com/erigontech/erigon/commit/0360e9426aaad492b92dd3340221681acdabc015) - 2025-04-11
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

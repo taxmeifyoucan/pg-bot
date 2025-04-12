@@ -8,6 +8,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Commit] [dev: change type of branch node subnodes (#1066)](https://github.com/ethereum/execution-specs/commit/26ab1bcfa24a4f798eac8e077db462401f14c875) - 2025-04-11
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

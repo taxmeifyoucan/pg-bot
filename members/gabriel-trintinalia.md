@@ -18,6 +18,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Issue] [Release 25.4.0](https://github.com/hyperledger/besu/issues/8513) - 2025-04-03
 * [Commit] [Implement eth_simulateV1 (#8406)](https://github.com/hyperledger/besu/commit/1976ad14ee8ce49c8d539fb6152fdd7ff80cc5d2) - 2025-04-04
 * [Pull Request] [[WIP] Eth/69](https://github.com/hyperledger/besu/pull/8519) - 2025-04-04
+* [Commit] [feat!: remove deprecated `compatibility-eth64-forkid-enabled` option (#8541)](https://github.com/hyperledger/besu/commit/d34545626aa191dbc88788666e370e2df8010727) - 2025-04-11
+* [Pull Request] [feat: remove deprecated `compatibility-eth64-forkid-enabled` option](https://github.com/hyperledger/besu/pull/8541) - 2025-04-11
+* [Commit] [Return BlockProcessingResult with error instead of throwing exception (#8540)](https://github.com/hyperledger/besu/commit/54384568286e93333a67862d968ac76a81671bd8) - 2025-04-11
+* [Pull Request] [Return BlockProcessingResult with error instead of throwing exception](https://github.com/hyperledger/besu/pull/8540) - 2025-04-11
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

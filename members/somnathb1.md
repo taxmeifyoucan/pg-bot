@@ -54,6 +54,9 @@ Team: Erigon
 * [Commit] [workflows: increase slot time and genesis delay (#14446) (#14520)](https://github.com/erigontech/erigon/commit/9da08cc2ffe1ce62c530d41b90bebb96170e86fe) - 2025-04-10
 * [Commit] [core/types: Filter empty requests before hashing (#14420)](https://github.com/erigontech/erigon/commit/042732836047cd43dfc1fe7f2a879d739101c672) - 2025-04-10
 * [Commit] [Schedule Pectra hard fork for Gnosis Mainnet (#14521) (#14523)](https://github.com/erigontech/erigon/commit/ebb7f6072bf482fd4f260093cea07b5aa6565c3d) - 2025-04-10
+* [Commit] [engineapi: increase externalcl spam timeout (#14561)](https://github.com/erigontech/erigon/commit/d420460ea50b6309c41e6473df993b7b25e6421e) - 2025-04-11
+* [Pull Request] [engineapi: increase externalcl spam timeout](https://github.com/erigontech/erigon/pull/14561) - 2025-04-11
+* [Commit] [tests: Update to EESTs Vyšehrad (v4.2.0) release (#14547)](https://github.com/erigontech/erigon/commit/ac0b0bc9c25398b4d68f23dcfb36334eea6efc48) - 2025-04-11
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
