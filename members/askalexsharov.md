@@ -261,6 +261,58 @@ Team: Erigon
 * [Commit] [r30: recent receipts persistence: to reduce RPC latency  (#14532)](https://github.com/erigontech/erigon/commit/8e60633133f355c31d8aa373bfd99a45d9c2db9f) - 2025-04-11
 * [Commit] [save](https://github.com/erigontech/erigon/commit/753a1bac0e9a10d0c14ae6a79e67cf2257358d0f) - 2025-04-11
 * [Commit] [save](https://github.com/erigontech/erigon/commit/035085d652b28426a7d7f978b360d6b8798df4f3) - 2025-04-11
+* [Commit] [integration: remove force_set_prune command (not useful in E3) (#14574)](https://github.com/erigontech/erigon/commit/7c5c8c7d910cf9b37eddb7e81a4f635d5e561db9) - 2025-04-13
+* [Commit] [add experiment flags to integration (#14573)](https://github.com/erigontech/erigon/commit/bb1a9c17dc3f834fa9ba5e5ed9eea783ab7f96f9) - 2025-04-13
+* [Commit] [rpc: use pre-configured txNumReader (it's thread-safe) (#14575)](https://github.com/erigontech/erigon/commit/707cc8e2649bb2692586c7ff489bf5f5c2f62fb1) - 2025-04-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b6de5b8814b8bd88746380f394350135cd60a500) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ef788924348e9b122a0b9d26ea3985e7f834acd0) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0e3aa81ad90cd2557c96b297cbf128f438592d0b) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/83d5507ef3c07ce084b45484c5c182ed5049c389) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/87e93eb938083a5c852cc045cd6fd029e2bf9e67) - 2025-04-12
+* [Commit] [snap_repo: mergeFiles logic and tests (#14552)](https://github.com/erigontech/erigon/commit/1cb25a8aa537ef4ed52c2f494d2081b21e58a157) - 2025-04-12
+* [Pull Request] [rpc: use pre-configured txNumReader (it's thread-safe](https://github.com/erigontech/erigon/pull/14575) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b7d7ce12e4b3d3702ddfdb642c4f2fa84031f95e) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2c32c917b3a28d2709e1b2479a007f7f6e0dda6c) - 2025-04-12
+* [Commit] [txpool: Fix 7702 signature parsing and simplify auth handling (#14486)](https://github.com/erigontech/erigon/commit/3ed7e42430ce9c02b5cf40e403bba9fdac684f28) - 2025-04-12
+* [Commit] [Fixed incorrect processing of state sync events in polygon mined blocks (#14484)](https://github.com/erigontech/erigon/commit/f4c119edf09c25e844908bfcf6d29437e3dee3ad) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b16148f19867bb865456f10e9d139a888a4dc3d9) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5f8eb02f2f3e0da969b2b765f24c42b0d4c957e3) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3814323a2ce41302122995b2f55c7e63d1a9bc99) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f9f71147b00b8c4a35d9630ee6c9dc78a8a3e89e) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d868d8921c9bdefc22a0a8767615a52b0a557e95) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fbcb37ede3525cf7a37f9e1af09f7e55354d3cdb) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5d44b1137465655d5012b1104a6fba61bc4273e7) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9a6a4d7c08112af3b6b0fedc1f1a369a96c56e25) - 2025-04-12
+* [Commit] [Commitment: rehash code only with asserts (#14536)](https://github.com/erigontech/erigon/commit/94dd521eb41d9b2fdcc6951245a5157daa7ffe5e) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2d1927d3761403c340d2e9e0964f9026cc7a3d72) - 2025-04-12
+* [Pull Request] [integration: remove force_set_prune command (not useful in E3)](https://github.com/erigontech/erigon/pull/14574) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8b6260d9518c901655620dc780970aada181b750) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8ce69e2fb3cb20f96e4425603397b2bc14d1b883) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/417d42e528b421082c329eb6af44d2aa16f9686b) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ed73dac0c9a72649744874eb3b55942e046c36a4) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8b13613653f8cd0c2d69c195cf9c86d59456cc46) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/04ea816b7531ce4a676f7348c6bb3c05a3905452) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/329f879d491a7dc1da0566282aa4c21ad8b37734) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b0d0a3917b0c4b0436994d3d3a747a427655ed24) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a0c32571d899cb7c6bed30462c0648c476936170) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a0edb058bdea811be65cad9b2f2aa343f4a0b9ea) - 2025-04-12
+* [Pull Request] [add experiment flags to integration](https://github.com/erigontech/erigon/pull/14573) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/45691d581a6a9f7adea4e10de963bbdd73c69095) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8b8d5a41a7d41539357dc9695cb16c8f58fb3461) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d03ec54939c1f0e4cf098a14618d9f7cd1273cf5) - 2025-04-12
+* [Pull Request] [remove unused fields](https://github.com/erigontech/erigon/pull/14572) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6ea4b3db72e95c5ebb258758bb86807d1ee0579e) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7025ea1fa8723083b5b90304d6b3498166d8f8da) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7d45975404cc392dac47f302fa69f175e477f414) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f266982b73df7a486e5eebcb4b615a44f62e3efe) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/af7d7893035c8de0790bd6df772177f9bcfc083b) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2fc54b4c8c9782a416b01d91fa189ce5a48faf1e) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/742d493ca62a6bee99ee214cbf4d5992c98896fd) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/56e01985ec046e237570f93db608f6f80c4af94c) - 2025-04-12
+* [Commit] [external downloader handling nil ptr (#14133)](https://github.com/erigontech/erigon/commit/adf4172c2bf5c73a0d2fbb108d1906e36e613c50) - 2025-04-12
+* [Commit] [dir improvements: gather RPC code in rpc (#14550)](https://github.com/erigontech/erigon/commit/930db12bcd107c97544f0a40ee03954508c7ab94) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/37b8b6b123174b4fdde01b88a820b65fc01f10d3) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4c5fd07d85daaa7b67ff4dd1c3375677f0759653) - 2025-04-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

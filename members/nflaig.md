@@ -39,6 +39,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: sort packed attestations by total effective balance (#7673)](https://github.com/ChainSafe/lodestar/commit/a77957744c391134784242f2e23dfb4f45691f1f) - 2025-04-11
 * [Commit] [Improve consistency and add few more clarifications](https://github.com/ChainSafe/lodestar/commit/e83155bed527703f740d03646d787ea24608f987) - 2025-04-11
 * [Commit] [chore: bump CL spec to v1.5.0-beta.5 (#7685)](https://github.com/ChainSafe/lodestar/commit/c4068dc653d953b8b17e0142513ceef97b3c75b4) - 2025-04-11
+* [Pull Request] [chore: fix total effective balance metric name](https://github.com/ChainSafe/lodestar/pull/7691) - 2025-04-12
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

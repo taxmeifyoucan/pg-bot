@@ -70,6 +70,28 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Prefer mev reward tx value when calculating mev (#8512)](https://github.com/NethermindEth/nethermind/commit/1f0d18de6b484abe94032124ffea49777a87751a) - 2025-04-11
 * [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/0d405c4f2364b82d4f92ce05d323b8bee70f23bb) - 2025-04-11
 * [Pull Request] [Prefer mev reward tx value when calculating mev](https://github.com/NethermindEth/nethermind/pull/8512) - 2025-04-11
+* [Commit] [Isolated commit and hash benchmark (#8505)](https://github.com/NethermindEth/nethermind/commit/098f4f599335ae7c94524f1bc4f6dbf03b66d20d) - 2025-04-12
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/97c8b309edc8b8ee08e2234c15304b54dfbbbb18) - 2025-04-12
+* [Commit] [Move casting behind generic](https://github.com/NethermindEth/nethermind/commit/9a7a592ea4ebe9eccddcee14abc068ed2f056db1) - 2025-04-12
+* [Commit] [Fix benchmarks](https://github.com/NethermindEth/nethermind/commit/45990902df1eed244b9a9c22873caf757c8456ed) - 2025-04-12
+* [Commit] [Clean up test loading](https://github.com/NethermindEth/nethermind/commit/b75c84e03954e00b1afa023915044dbe17cd9a4f) - 2025-04-12
+* [Commit] [JsonToEthereumTest feedback](https://github.com/NethermindEth/nethermind/commit/fe8b6a48ecf7bb251e83d43ead7e684aa28a60f0) - 2025-04-12
+* [Commit] [Add EIP link](https://github.com/NethermindEth/nethermind/commit/97b004796c684949ef5d90293a9858efc1ffb9ee) - 2025-04-12
+* [Commit] [Add link to EOF1](https://github.com/NethermindEth/nethermind/commit/241ff56a3b13d96dc8af78ab5beea6857fd13683) - 2025-04-12
+* [Commit] [Optimize switch](https://github.com/NethermindEth/nethermind/commit/edeca141ecc490a61b0807b65163f320163f504f) - 2025-04-12
+* [Commit] [Invalid Opcodes](https://github.com/NethermindEth/nethermind/commit/de2225a1146c593e74cce03768bb881c5580beab) - 2025-04-12
+* [Commit] [Fix activation](https://github.com/NethermindEth/nethermind/commit/abbc14c90a771449601b96e72dec79ab4f5df235) - 2025-04-12
+* [Commit] [Remove unneeded loop](https://github.com/NethermindEth/nethermind/commit/547289ef9f21ee29892d2c0997c44ca608b1df81) - 2025-04-12
+* [Commit] [Remove dead code](https://github.com/NethermindEth/nethermind/commit/d17a9ac8f4fa2228fd7507e65ad0512f7b27e92a) - 2025-04-12
+* [Commit] [Flip ifs](https://github.com/NethermindEth/nethermind/commit/b9a0442806f5176c29f62c95a8d88b99e18cb12d) - 2025-04-12
+* [Commit] [Use constant NON_RETURNING](https://github.com/NethermindEth/nethermind/commit/7794c56f7a87f43037558639ea4853dd8e7ef7ad) - 2025-04-12
+* [Commit] [Comment](https://github.com/NethermindEth/nethermind/commit/ac8b87e3a6e564b7e3ee1eb094267874853adbf5) - 2025-04-12
+* [Commit] [signs](https://github.com/NethermindEth/nethermind/commit/423cc5a9654e5d6cec00d8da1751fa968ef787fa) - 2025-04-12
+* [Commit] [Reverse back](https://github.com/NethermindEth/nethermind/commit/0847e2a2f9d4f9c0c37433e8fde669c3f338d51a) - 2025-04-12
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/54503e1688b572f78985974e81ee4343f97f13d8) - 2025-04-12
+* [Commit] [Feature/era configurable import blocks buffer (#8510)](https://github.com/NethermindEth/nethermind/commit/c0a25ff83898ef1e30ea778f2565d39a41e454ab) - 2025-04-12
+* [Commit] [Spec change](https://github.com/NethermindEth/nethermind/commit/033671d4dfec3d49cbea12582e94a8773fbdead6) - 2025-04-12
+* [Commit] [Spec change](https://github.com/NethermindEth/nethermind/commit/0fe331adcd6298798a31bee6756feae022cc3395) - 2025-04-12
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

@@ -24,6 +24,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [new(tests): EIP-7873 TXCREATE execution tests - 1st batch (#1413)](https://github.com/ethereum/execution-spec-tests/commit/62d2563dcfd58242f1846bab13f29a64dc558567) - 2025-04-11
 * [Pull Request] [chore(forks): osaka tweak and fix blob schedule logic](https://github.com/ethereum/execution-spec-tests/pull/1438) - 2025-04-11
 * [Commit] [refactor(tools): optimize git tag lookup and URL generation (#1370)](https://github.com/ethereum/execution-spec-tests/commit/370572b30890d27c17327d0f0c260e449c8f61bc) - 2025-04-11
+* [Commit] [feat(specs,tests): `exception_test` marker (#1436)](https://github.com/ethereum/execution-spec-tests/commit/2fe8ca5160a16323c7fe42664662b0b198f44cd1) - 2025-04-12
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

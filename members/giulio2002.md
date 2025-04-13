@@ -55,6 +55,11 @@ Team: Erigon
 * [Commit] [Fixed incorrect processing of state sync events in polygon mined blocks (#14484)](https://github.com/erigontech/erigon/commit/f4c119edf09c25e844908bfcf6d29437e3dee3ad) - 2025-04-10
 * [Issue] [Erigon 3: History sampling](https://github.com/erigontech/erigon/issues/14569) - 2025-04-11
 * [Pull Request] [Erigon 3: historical `eth_getProof` experimental flag](https://github.com/erigontech/erigon/pull/14568) - 2025-04-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/672db75f364ddd752ed872324040a1dca3dde662) - 2025-04-12
+* [Pull Request] [EngineAPI: recover from missing chain segments](https://github.com/erigontech/erigon/pull/14579) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aba504f909136e5927eeabd5b9e167c8d96677f3) - 2025-04-12
+* [Pull Request] [Cherry-Pick: execution: fix missing log notifications when flushing extending fork…](https://github.com/erigontech/erigon/pull/14578) - 2025-04-12
+* [Commit] [caplin: fix parsing topics (#14543)](https://github.com/erigontech/erigon/commit/c1a421b83bdaa1dd2c1fbab08be59a53d82c671f) - 2025-04-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

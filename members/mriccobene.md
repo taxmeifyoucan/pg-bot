@@ -22,6 +22,8 @@ Team: Erigon
 * [Commit] [qa-tests: decrease release process timeout (#14478)](https://github.com/erigontech/erigon/commit/fe7e9e4e9d252bbe0718265f38861a8a563e760b) - 2025-04-08
 * [Pull Request] [qa-tests: improve rpc-integration test failure handling](https://github.com/erigontech/erigon/pull/14539) - 2025-04-10
 * [Pull Request] [qa-tests: fix rpc-integration tests](https://github.com/erigontech/erigon/pull/14564) - 2025-04-11
+* [Commit] [qa-tests: use a new branch of rpc-tests where aura fields have been removed. (#14576)](https://github.com/erigontech/erigon/commit/343a7f2486bb328cdf5c2fb88a5093aaccfde938) - 2025-04-12
+* [Pull Request] [qa-tests: use a new branch of rpc-tests where aura fields have been removed.](https://github.com/erigontech/erigon/pull/14576) - 2025-04-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

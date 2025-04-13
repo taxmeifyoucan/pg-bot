@@ -28,6 +28,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [[flakey] TestEthSubscribe panic: test timed out after 4h0m0s](https://github.com/erigontech/erigon/issues/14546) - 2025-04-10
 * [Pull Request] [polygon/bridge: keep events debug log in execution but not in rpcdaemon](https://github.com/erigontech/erigon/pull/14540) - 2025-04-10
 * [Commit] [fix after merge: stay on eof-tests branch for eest fixter](https://github.com/erigontech/erigon/commit/3bb361ebd996c7dc86caa37417b51f6735261d7e) - 2025-04-11
+* [Commit] [makefile: top-level make grpc command for both erigon-lib and shutter proto gen (#14566)](https://github.com/erigontech/erigon/commit/2e6219250c19dfa7fbb1811b09393ac7f166aa62) - 2025-04-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

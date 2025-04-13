@@ -34,6 +34,15 @@ Team: Erigon
 * [Commit] [fixed serial comitment trace](https://github.com/erigontech/erigon/commit/c040e49995887bcbf6b20d8705ddfe3299e3a6bf) - 2025-04-03
 * [Commit] [fix serial exec](https://github.com/erigontech/erigon/commit/b4ccf0f4fb763475f41a1893f246df8d1fdbdda3) - 2025-04-03
 * [Commit] [added active counter](https://github.com/erigontech/erigon/commit/edf99ec5dd644e3c2724e4728ea3c92bb5721ed5) - 2025-04-09
+* [Commit] [add total activations](https://github.com/erigontech/erigon/commit/9115e8204f3f138e4e72ffbce3dd5c27764776e9) - 2025-04-12
+* [Commit] [dur format](https://github.com/erigontech/erigon/commit/83aadc13b5bd76af43d084e2337f147f648bb5c0) - 2025-04-12
+* [Commit] [duration format](https://github.com/erigontech/erigon/commit/cf7754ddbf5e9ddb225138d0992a3790d9c847cd) - 2025-04-12
+* [Commit] [duration format](https://github.com/erigontech/erigon/commit/24aaa1189cc5282603810346ff957f5de3194930) - 2025-04-12
+* [Commit] [duration format](https://github.com/erigontech/erigon/commit/690f385060dc6cabe47b41f207bf211a16abe394) - 2025-04-12
+* [Commit] [dur -> microsecs](https://github.com/erigontech/erigon/commit/e51f4d47abdb9694817260c4ec88bdaf9874c1aa) - 2025-04-12
+* [Commit] [dur -> milisecs](https://github.com/erigontech/erigon/commit/5afce638285361d46235d23f41a95ec6f86ef1d6) - 2025-04-12
+* [Commit] [use merge not remove](https://github.com/erigontech/erigon/commit/92a45c6f904a236bd88e89a4476b3a83f5d6f132) - 2025-04-12
+* [Commit] [added task + read duration metrics](https://github.com/erigontech/erigon/commit/56bb74651e38b3ea80880a586bd7ab6de40c6204) - 2025-04-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

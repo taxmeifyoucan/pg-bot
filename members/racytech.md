@@ -17,6 +17,8 @@ Team: Erigon
 * [Commit] [eof state_tests: do not read tx from post](https://github.com/erigontech/erigon/commit/3e1b165f62e0ab2a621c734f1d45e7d42a72a2ad) - 2025-04-07
 * [Commit] [rename var](https://github.com/erigontech/erigon/commit/f7eed359b841e8ddea21083a7dd3f33b262d60e4) - 2025-04-10
 * [Commit] [eof: fix returndatacopy](https://github.com/erigontech/erigon/commit/811aac0edb6df90058068638e31770a4e2f0f5e0) - 2025-04-10
+* [Commit] [eof: pass release v2.3](https://github.com/erigontech/erigon/commit/faca6a090bc58226f1966e0a27a5521f43319128) - 2025-04-12
+* [Commit] [eof: validation check bounds, fix returndataload](https://github.com/erigontech/erigon/commit/d32654b8aba0ee5dcbe73040953bf9764f23b1a9) - 2025-04-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

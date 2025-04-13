@@ -28,6 +28,18 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [re-enable keymanager API tests on Windows (#7031)](https://github.com/status-im/nimbus-eth2/commit/d9444f18a0cb1db5538e37f32564d112cdfbc476) - 2025-04-08
 * [Commit] [add MsgSource as el too (#7057)](https://github.com/status-im/nimbus-eth2/commit/1b331423eb45a3f4138671e3539d2423ff52d3d2) - 2025-04-09
 * [Pull Request] [less verbose Electra aggregation bits logging](https://github.com/status-im/nimbus-eth2/pull/7058) - 2025-04-09
+* [Commit] [add MsgSource as el too (#7057)](https://github.com/status-im/nimbus-eth2/commit/1b331423eb45a3f4138671e3539d2423ff52d3d2) - 2025-04-13
+* [Commit] [automated consensus spec URL updating to v1.5.0-beta.5 (#7069)](https://github.com/status-im/nimbus-eth2/commit/17a5d6c5d056f89a38c65aecc80dd76ca759d514) - 2025-04-12
+* [Commit] [use EF consensus spec v1.5.0-beta.5 test vectors (#7068)](https://github.com/status-im/nimbus-eth2/commit/eec86f589c21c28cd8a9436f106fbf94a072972f) - 2025-04-12
+* [Commit] [reduce light client data store stack usage (#7067)](https://github.com/status-im/nimbus-eth2/commit/83049e437895777ebc4f6c4894ad13222cd4cd8d) - 2025-04-12
+* [Pull Request] [automated consensus spec URL updating to v1.5.0-beta.5](https://github.com/status-im/nimbus-eth2/pull/7069) - 2025-04-12
+* [Pull Request] [use EF consensus spec v1.5.0-beta.5 test vectors](https://github.com/status-im/nimbus-eth2/pull/7068) - 2025-04-12
+* [Commit] [copyright year linting](https://github.com/status-im/nimbus-eth2/commit/d275109dd11feced4521debe80c9b73a4bf0859e) - 2025-04-12
+* [Pull Request] [reduce light client data store stack usage](https://github.com/status-im/nimbus-eth2/pull/7067) - 2025-04-12
+* [Commit] [reduce light client data store stack usage](https://github.com/status-im/nimbus-eth2/commit/e23ee704f3678fd06a7aea5b687b89f0f61ba919) - 2025-04-12
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -18,6 +18,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [fixes health tracker usage  (#15126)](https://github.com/OffchainLabs/prysm/commit/ff02661229c9f36da893ab3fe4546ee34e42be7c) - 2025-04-10
 * [Commit] [Add support for electra fork epoch](https://github.com/OffchainLabs/prysm/commit/19367ae655e3db02e21ebfe3fd0bdc16fdbca665) - 2025-04-10
 * [Pull Request] [Mainnet config copies by default](https://github.com/OffchainLabs/prysm/pull/15159) - 2025-04-10
+* [Commit] [Remove `disable-committee-aware-packing` flag (#15162)](https://github.com/OffchainLabs/prysm/commit/b0614fe13729fbe936cf4b34b3d28a8e28194708) - 2025-04-13
+* [Commit] [Potuz's first round feedback](https://github.com/OffchainLabs/prysm/commit/3d34f404039cdf8f07cac30e77273b5be1b9d598) - 2025-04-13
+* [Commit] [Execution api: add and use blobs_bundle_v2](https://github.com/OffchainLabs/prysm/commit/d8f7bf419a93569570e43c6edf60609e26de30ce) - 2025-04-12
+* [Pull Request] [Execution API: Support `blobs_bundle_v2` for PeerDAS](https://github.com/OffchainLabs/prysm/pull/15167) - 2025-04-12
+* [Commit] [Execution api: add and use blobs_bundle_v2](https://github.com/OffchainLabs/prysm/commit/972a381fc2230e0960ab6ca49d3661ff7f2d24be) - 2025-04-12
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
