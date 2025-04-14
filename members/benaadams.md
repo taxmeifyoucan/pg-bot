@@ -92,6 +92,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Feature/era configurable import blocks buffer (#8510)](https://github.com/NethermindEth/nethermind/commit/c0a25ff83898ef1e30ea778f2565d39a41e454ab) - 2025-04-12
 * [Commit] [Spec change](https://github.com/NethermindEth/nethermind/commit/033671d4dfec3d49cbea12582e94a8773fbdead6) - 2025-04-12
 * [Commit] [Spec change](https://github.com/NethermindEth/nethermind/commit/0fe331adcd6298798a31bee6756feae022cc3395) - 2025-04-12
+* [Commit] [Sizes](https://github.com/NethermindEth/nethermind/commit/73712ac9871f20df3fa49404feaab14741c102a3) - 2025-04-13
+* [Commit] [Nethermind UI](https://github.com/NethermindEth/nethermind/commit/dccc90dc6c8cc44508b4bc19f93942517182af80) - 2025-04-13
+* [Commit] [Nethermind UI](https://github.com/NethermindEth/nethermind/commit/2948258e478a65696ee6504595bffc72406eb215) - 2025-04-13
+* [Commit] [Nethermind UI](https://github.com/NethermindEth/nethermind/commit/a8ea550dda75d2b74c2c62fa063f7d25aabf370c) - 2025-04-13
+* [Commit] [Nethermind UI](https://github.com/NethermindEth/nethermind/commit/e59d6a22f16533583f17146a7f803a93ba814019) - 2025-04-13
+* [Commit] [Nethermind UI](https://github.com/NethermindEth/nethermind/commit/9f9c80c647769f7febe64c321fce811a1220a052) - 2025-04-13
+* [Commit] [Resize on data](https://github.com/NethermindEth/nethermind/commit/6b63f079b5a7faf01b358466e3d54d4891607216) - 2025-04-13
+* [Commit] [Add txs](https://github.com/NethermindEth/nethermind/commit/173e5bcf5fcc8ba710a93ee5ca6f4e9b173eae20) - 2025-04-13
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

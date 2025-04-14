@@ -62,6 +62,9 @@ Team: Reth
 * [Issue] [Add getters for PeerMetadata](https://github.com/paradigmxyz/reth/issues/15705) - 2025-04-12
 * [Issue] [Simplify Announcement filter](https://github.com/paradigmxyz/reth/issues/15701) - 2025-04-12
 * [Commit] [chore: rm outdated unreachable (#15700)](https://github.com/paradigmxyz/reth/commit/54b0d357f987f9d1e973a447b815076cef520823) - 2025-04-12
+* [Pull Request] [chore: bump ssz](https://github.com/paradigmxyz/reth/pull/15713) - 2025-04-13
+* [Commit] [crunchy](https://github.com/paradigmxyz/reth/commit/08100e7c5563aafe092fb29ff82890eafe1535d7) - 2025-04-13
+* [Pull Request] [chore: enforce snappy compression ratio](https://github.com/paradigmxyz/reth/pull/15712) - 2025-04-13
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

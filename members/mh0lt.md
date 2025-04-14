@@ -43,6 +43,15 @@ Team: Erigon
 * [Commit] [dur -> milisecs](https://github.com/erigontech/erigon/commit/5afce638285361d46235d23f41a95ec6f86ef1d6) - 2025-04-12
 * [Commit] [use merge not remove](https://github.com/erigontech/erigon/commit/92a45c6f904a236bd88e89a4476b3a83f5d6f132) - 2025-04-12
 * [Commit] [added task + read duration metrics](https://github.com/erigontech/erigon/commit/56bb74651e38b3ea80880a586bd7ab6de40c6204) - 2025-04-12
+* [Commit] [added task gas](https://github.com/erigontech/erigon/commit/31a1f580ccef602aa04f219a785d13d9ac1e88e8) - 2025-04-13
+* [Commit] [call ordering](https://github.com/erigontech/erigon/commit/2691c9aff97acf0cc9ee8bfc53fefdc8b2dcf04a) - 2025-04-13
+* [Commit] [added task gas](https://github.com/erigontech/erigon/commit/34a7092df8494634d0a4ad0e60ba1e03d4620725) - 2025-04-13
+* [Commit] [add serial metrics](https://github.com/erigontech/erigon/commit/9bbd05352ecd0663281bc81277a4359264840874) - 2025-04-13
+* [Commit] [worker calcs](https://github.com/erigontech/erigon/commit/7aca4917de84a22744a5dc350543c2c7e3ba7f15) - 2025-04-13
+* [Commit] [worker calcs](https://github.com/erigontech/erigon/commit/f9e3d5d3758b5fbfe7e60084bf3636b1ca9f8ce6) - 2025-04-13
+* [Commit] [worker calcs](https://github.com/erigontech/erigon/commit/ed3964e19effd066ca8451eefcd89dd702ed5343) - 2025-04-13
+* [Commit] [worker calcs](https://github.com/erigontech/erigon/commit/c6b97cc4383d90b85c0158932dbbb30cb7c8d62e) - 2025-04-13
+* [Commit] [worker calcs](https://github.com/erigontech/erigon/commit/6e04c9c7fcb74a36a1e11b001c47307479944b90) - 2025-04-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

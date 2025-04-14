@@ -25,6 +25,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Release v1.5.0-beta.5](https://github.com/ethereum/consensus-specs/pull/4261) - 2025-04-10
 * [Commit] [Fix eip7732 kzg commitment inclusion proof depth (#4264)](https://github.com/ethereum/consensus-specs/commit/632731773d4fb8a052bcc9d372420ed5417496ce) - 2025-04-11
 * [Pull Request] [Fix eip7732 kzg commitment inclusion proof depth](https://github.com/ethereum/consensus-specs/pull/4264) - 2025-04-11
+* [Issue] [Implement BPO fork blob limit logic](https://github.com/ethereum/consensus-specs/issues/4267) - 2025-04-13
+* [Issue] [Remove placeholder MAX_BLOBS_PER_BLOCK_FULU](https://github.com/ethereum/consensus-specs/issues/4266) - 2025-04-13
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

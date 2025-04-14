@@ -30,6 +30,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/03721994a2fa92cd88972314dca285869cfa373e) - 2025-04-11
 * [Pull Request] [Feature/era configurable import blocks buffer](https://github.com/NethermindEth/nethermind/pull/8510) - 2025-04-11
 * [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/433049938ffa9ed34850ae791c8e7cb784538e72) - 2025-04-11
+* [Commit] [Cleanup/Remove InitializeNodeStats (#8511)](https://github.com/NethermindEth/nethermind/commit/74de98f04563fc77af8628ec2451bd7effd199e0) - 2025-04-13
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

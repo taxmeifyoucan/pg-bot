@@ -38,6 +38,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [reduce light client data store stack usage](https://github.com/status-im/nimbus-eth2/pull/7067) - 2025-04-12
 * [Commit] [reduce light client data store stack usage](https://github.com/status-im/nimbus-eth2/commit/e23ee704f3678fd06a7aea5b687b89f0f61ba919) - 2025-04-12
 
+* [Pull Request] [rm Deneb builder API support](https://github.com/status-im/nimbus-eth2/pull/7071) - 2025-04-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 ## Q1 2025

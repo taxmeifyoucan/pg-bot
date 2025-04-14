@@ -60,6 +60,14 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/aba504f909136e5927eeabd5b9e167c8d96677f3) - 2025-04-12
 * [Pull Request] [Cherry-Pick: execution: fix missing log notifications when flushing extending fork…](https://github.com/erigontech/erigon/pull/14578) - 2025-04-12
 * [Commit] [caplin: fix parsing topics (#14543)](https://github.com/erigontech/erigon/commit/c1a421b83bdaa1dd2c1fbab08be59a53d82c671f) - 2025-04-12
+* [Commit] [more truncates](https://github.com/erigontech/erigon/commit/c4b0e92ff6a9f76fb4c7a7d76c2b806602c4da5a) - 2025-04-13
+* [Commit] [more truncates](https://github.com/erigontech/erigon/commit/dc55551e1d74de032fed82477b03cfd958606018) - 2025-04-13
+* [Commit] [more truncates](https://github.com/erigontech/erigon/commit/6460763c3bd4f1db6f3b7ebf22413153abcdb8b6) - 2025-04-13
+* [Commit] [more truncates](https://github.com/erigontech/erigon/commit/288491ef467d28f7cfd134850b02645b02d26a12) - 2025-04-13
+* [Commit] [more truncates](https://github.com/erigontech/erigon/commit/119e7d8f1e321c2eb52ed361118c04638ef285a6) - 2025-04-13
+* [Commit] [more truncates](https://github.com/erigontech/erigon/commit/f8367cae84d3e05d4c6dd914c1973ae9e26bac80) - 2025-04-13
+* [Commit] [more truncates](https://github.com/erigontech/erigon/commit/8380fc2f8c6136e41aeda62b14484d95fc5d9dff) - 2025-04-13
+* [Pull Request] [Erigon: more truncates](https://github.com/erigontech/erigon/pull/14580) - 2025-04-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

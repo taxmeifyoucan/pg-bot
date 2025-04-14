@@ -62,6 +62,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Validation tracer](https://github.com/erigontech/erigon/commit/b541c97885315b7add79bd5da44dc08f7d7f35f8) - 2025-04-11
 * [Commit] [Validation tracer](https://github.com/erigontech/erigon/commit/3b5ba6f7c35f43359309717385637b3c7644250d) - 2025-04-11
 * [Pull Request] [Support state sync events in `eth_getLogs`, set correct log indices](https://github.com/erigontech/erigon/pull/14551) - 2025-04-11
+* [Commit] [Add extra receipt to stage_custom_trace](https://github.com/erigontech/erigon/commit/e9da0a9edb36b5a1112ae485616df2be72b4309e) - 2025-04-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

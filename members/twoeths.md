@@ -35,6 +35,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: address PR's comments](https://github.com/ChainSafe/lodestar/commit/73b1ba909c5b5ff9bd31387b7f5d1f09cffffe1b) - 2025-04-10
 * [Commit] [feat: track returned & total attestations per slot](https://github.com/ChainSafe/lodestar/commit/29f1b3d8bf9ceaa045a114df02e186199929bc7e) - 2025-04-11
 * [Commit] [refactor: rename notSeenAttestingIndices to notSeenCommitteeMembers](https://github.com/ChainSafe/lodestar/commit/46f15b12c399a128f8c6f51499fced4e3e454170) - 2025-04-11
+* [Commit] [fix: peerdas-devnet-6 (#7696)](https://github.com/ChainSafe/lodestar/commit/448dcd0a012e59e26cc17f4c2222f67b9b2b16b2) - 2025-04-13
+* [Pull Request] [fix: peerdas-devnet-6](https://github.com/ChainSafe/lodestar/pull/7696) - 2025-04-13
+* [Commit] [fix: improve error message when validating blobs len (#7695)](https://github.com/ChainSafe/lodestar/commit/a51ab093382e5d72dd4e4711d923c769c9cac254) - 2025-04-13
+* [Pull Request] [fix: improve error message when validating blobs len](https://github.com/ChainSafe/lodestar/pull/7695) - 2025-04-13
+* [Commit] [fix: import path of networkConfig (#7694)](https://github.com/ChainSafe/lodestar/commit/8f80d36ae51315f15c246e701bad6441633cd479) - 2025-04-13
+* [Pull Request] [fix: import path of networkConfig](https://github.com/ChainSafe/lodestar/pull/7694) - 2025-04-13
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
