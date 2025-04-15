@@ -39,6 +39,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [reduce light client data store stack usage](https://github.com/status-im/nimbus-eth2/commit/e23ee704f3678fd06a7aea5b687b89f0f61ba919) - 2025-04-12
 
 * [Pull Request] [rm Deneb builder API support](https://github.com/status-im/nimbus-eth2/pull/7071) - 2025-04-13
+* [Commit] [reduce per-slot state replays on low-participation networks (#7072)](https://github.com/status-im/nimbus-eth2/commit/c1f0880b7733bf3e4b15466be1cedd08de1a5ad7) - 2025-04-14
+* [Pull Request] [reduce per-slot state replays on low-participation networks](https://github.com/status-im/nimbus-eth2/pull/7072) - 2025-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 ## Q1 2025

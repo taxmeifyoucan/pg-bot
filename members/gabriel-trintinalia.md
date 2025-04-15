@@ -22,6 +22,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [feat: remove deprecated `compatibility-eth64-forkid-enabled` option](https://github.com/hyperledger/besu/pull/8541) - 2025-04-11
 * [Commit] [Return BlockProcessingResult with error instead of throwing exception (#8540)](https://github.com/hyperledger/besu/commit/54384568286e93333a67862d968ac76a81671bd8) - 2025-04-11
 * [Pull Request] [Return BlockProcessingResult with error instead of throwing exception](https://github.com/hyperledger/besu/pull/8540) - 2025-04-11
+* [Pull Request] [chore: remove duplicate trace start block](https://github.com/hyperledger/besu/pull/8552) - 2025-04-15
+* [Issue] [Besu should not startup if two versions of the same plugin are loaded](https://github.com/hyperledger/besu/issues/8551) - 2025-04-14
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

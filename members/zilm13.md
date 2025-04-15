@@ -13,6 +13,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 
 [consensys/teku](https://github.com/consensys/teku)
 * [Pull Request] [Get blobs v2](https://github.com/Consensys/teku/pull/9334) - 2025-04-09
+* [Commit] [Get blobs v2 (#9334)](https://github.com/Consensys/teku/commit/a6108475c03f9a6e1a3333ed533a588626ad1f07) - 2025-04-14
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

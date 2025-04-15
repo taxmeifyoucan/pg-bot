@@ -14,6 +14,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [Update base and op oneClick (#8460)](https://github.com/NethermindEth/nethermind/commit/32f2bcc0c38fa1b3552d52a64c39377f9e097fc9) - 2025-04-03
 * [Issue] [Return transactions back to TxPool on orphaned block](https://github.com/NethermindEth/nethermind/issues/8484) - 2025-04-08
+* [Issue] [Checkpointing block building](https://github.com/NethermindEth/nethermind/issues/8522) - 2025-04-14
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

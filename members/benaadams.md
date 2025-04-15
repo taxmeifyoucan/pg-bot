@@ -100,6 +100,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Nethermind UI](https://github.com/NethermindEth/nethermind/commit/9f9c80c647769f7febe64c321fce811a1220a052) - 2025-04-13
 * [Commit] [Resize on data](https://github.com/NethermindEth/nethermind/commit/6b63f079b5a7faf01b358466e3d54d4891607216) - 2025-04-13
 * [Commit] [Add txs](https://github.com/NethermindEth/nethermind/commit/173e5bcf5fcc8ba710a93ee5ca6f4e9b173eae20) - 2025-04-13
+* [Commit] [Make configurable](https://github.com/NethermindEth/nethermind/commit/2af83839bae2b608c9fd4c98e0a9c80c9d3a8eb5) - 2025-04-14
+* [Pull Request] [Limit time any single block can be produced for](https://github.com/NethermindEth/nethermind/pull/8523) - 2025-04-14
+* [Commit] [Make it 25%](https://github.com/NethermindEth/nethermind/commit/0dd9d7085ac2e3a39348c55adf1f4ba78a3147c1) - 2025-04-14
+* [Commit] [Nethermind UI](https://github.com/NethermindEth/nethermind/commit/1b71647fd09b716137987a6e2e8a6470ad1444a9) - 2025-04-14
+* [Commit] [Nethermind UI](https://github.com/NethermindEth/nethermind/commit/e5cd034747bb8d93c4edb0aac85b20464b7e15b7) - 2025-04-14
+* [Commit] [Cleanup/Remove InitializeNodeStats (#8511)](https://github.com/NethermindEth/nethermind/commit/74de98f04563fc77af8628ec2451bd7effd199e0) - 2025-04-14
+* [Commit] [Nethermind UI](https://github.com/NethermindEth/nethermind/commit/7e8fe63abc52c3263c1c2df93f82ef535af1952b) - 2025-04-14
+* [Commit] [Annotate more txs](https://github.com/NethermindEth/nethermind/commit/dc100e129e4159fe335ae75c2bbe97429d979ae1) - 2025-04-14
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

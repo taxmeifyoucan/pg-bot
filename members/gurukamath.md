@@ -20,6 +20,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Run EEST 4.2.0 tests](https://github.com/ethereum/execution-specs/pull/1189) - 2025-04-10
 * [Issue] [Implement EIP-7823](https://github.com/ethereum/execution-specs/issues/1188) - 2025-04-10
 * [Commit] [EXTCALL* to 7702 delegated accounts](https://github.com/ethereum/execution-specs/commit/ca4bafde5eba44aff975b6a594eb7f7310eac120) - 2025-04-11
+* [Commit] [Use py_ecc for alt_bn128 (#1187)](https://github.com/ethereum/execution-specs/commit/d9a7ee24db359aacecd636349b4f3ac95a4a6e71) - 2025-04-14
 ## Q1 2025
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)

@@ -39,6 +39,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(consume): fix fixture downloads for non-release urls and numerical release specs (#1437)](https://github.com/ethereum/execution-spec-tests/commit/23a354e676c9a520657a9da2ed91d286993e5ec9) - 2025-04-11
 * [Commit] [feat(tests): update 7702 precompile test cases (#1431)](https://github.com/ethereum/execution-spec-tests/commit/0e2bac85a3b3c8d3b38c513fb68b27962dec1b6b) - 2025-04-11
 * [Commit] [fix(clis): Update Besu's binary pattern (#1328)](https://github.com/ethereum/execution-spec-tests/commit/2c07538a21a3c0031d0e45b0a0fdd50d2bde1a66) - 2025-04-11
+* [Commit] [fix(tests): Change EOFCREATE new address and related gas calculations](https://github.com/ethereum/execution-spec-tests/commit/8e74d4949923643212360071e71f8f950cbcf8f4) - 2025-04-14
+* [Commit] [fix(specs): Exception message check on strict match](https://github.com/ethereum/execution-spec-tests/commit/cfd02fc6e38e19b0c0f97dbdf224fd40c431e013) - 2025-04-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

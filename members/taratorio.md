@@ -29,6 +29,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [polygon/bridge: keep events debug log in execution but not in rpcdaemon](https://github.com/erigontech/erigon/pull/14540) - 2025-04-10
 * [Commit] [fix after merge: stay on eof-tests branch for eest fixter](https://github.com/erigontech/erigon/commit/3bb361ebd996c7dc86caa37417b51f6735261d7e) - 2025-04-11
 * [Commit] [makefile: top-level make grpc command for both erigon-lib and shutter proto gen (#14566)](https://github.com/erigontech/erigon/commit/2e6219250c19dfa7fbb1811b09393ac7f166aa62) - 2025-04-12
+* [Commit] [txnprovider/shutter: remove the need for an openzepplin git submodule (#14565)](https://github.com/erigontech/erigon/commit/6d7b980e87d90609a40ba40fdc36fa67f4431417) - 2025-04-14
+* [Commit] [Commitment: rehash code only with asserts (#14536)](https://github.com/erigontech/erigon/commit/94dd521eb41d9b2fdcc6951245a5157daa7ffe5e) - 2025-04-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

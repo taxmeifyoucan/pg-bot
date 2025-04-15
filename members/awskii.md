@@ -45,6 +45,17 @@ Team: Erigon
 * [Commit] [Fixed cmd mine flag to not run miner when it is explicitly set to false (#14527)](https://github.com/erigontech/erigon/commit/0360e9426aaad492b92dd3340221681acdabc015) - 2025-04-11
 * [Commit] [save](https://github.com/erigontech/erigon/commit/5f1a38be1aeecdc1fb8f51a14857de83b9081859) - 2025-04-12
 * [Commit] [save](https://github.com/erigontech/erigon/commit/86dd17ce0fd6cebdf827ba76e32c8e267d21f7b7) - 2025-04-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ad589bc05cb01bfac9f55d904776ee26c9a82958) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c82bc856240b99047fe47f9031506f6d11545ffb) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7dbd983c93e8646afddcdcc4d1bdebe968172bc6) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6a11e89245993f5ca28a5320321ef28d745c5577) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3eaca25a1d9abf1f0c07410046a5f86e1802a19e) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/115260401c98744d85750d6d732d992b2df14605) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a9e5809180020b29c6c6457414dbf8cd56a263d2) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b9a9db9e6a6e38708a86e8efb280eae40e0cb025) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5556e892c6e221ba52f0f4a661bebc6be848807c) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8f4d3c08f50475880993a012d9b09d69d7aebc5c) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9631323048c050a20265e75a4c8c57b9d1ecff16) - 2025-04-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

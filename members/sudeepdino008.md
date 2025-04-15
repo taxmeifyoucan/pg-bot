@@ -39,6 +39,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [close mergedFiles when err != nil](https://github.com/erigontech/erigon/commit/0c8ce7c4a67e25412636e71db1a8346f74e58f7d) - 2025-04-11
 * [Pull Request] [remove unsafe closing of subsumed files in mergeLoopStep](https://github.com/erigontech/erigon/pull/14553) - 2025-04-11
 * [Pull Request] [wip](https://github.com/erigontech/erigon/pull/14552) - 2025-04-11
+* [Commit] [snap_repo integrity check (#14587)](https://github.com/erigontech/erigon/commit/e6693ed580592a66ee490e00fb451607b474f86f) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4b8d4ec55a4d4ead9db4d344a9a4abb0a0479254) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/94fe79e3d0cfd9e752a4d8a842071205f5deab8d) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/05072ec3584efb97166eac993e4133bb92acbebd) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d8ca5823574c1af93dea66b1e28b7a1d35196dd5) - 2025-04-14
+* [Commit] [integrity checker in snap config](https://github.com/erigontech/erigon/commit/36ef6d162a1e07d124e350633a56ce5b289c9d3b) - 2025-04-14
+* [Commit] [Fixed incorrect processing of state sync events in polygon mined blocks (#14484)](https://github.com/erigontech/erigon/commit/f4c119edf09c25e844908bfcf6d29437e3dee3ad) - 2025-04-14
+* [Pull Request] [snap_repo integrity check](https://github.com/erigontech/erigon/pull/14587) - 2025-04-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

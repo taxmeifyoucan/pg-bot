@@ -25,6 +25,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Execution api: add and use blobs_bundle_v2](https://github.com/OffchainLabs/prysm/commit/972a381fc2230e0960ab6ca49d3661ff7f2d24be) - 2025-04-12
 * [Commit] [Better flags](https://github.com/OffchainLabs/prysm/commit/ed448fafdad62c328ab6a5022e6b8a5c58b89e85) - 2025-04-13
 * [Commit] [Potuz's first round feedback](https://github.com/OffchainLabs/prysm/commit/817cabb59f2c1a364a90023163743b692862f5b6) - 2025-04-13
+* [Commit] [Execution api: add and use blobs_bundle_v2](https://github.com/OffchainLabs/prysm/commit/4cd1f9d446c72ff526389e397c47ca83fbf47ca5) - 2025-04-14
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

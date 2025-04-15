@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 
 ## Contributions
 
+## Q2 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] [partial 3rd party updates and errorprone updates](https://github.com/Consensys/teku/pull/9351) - 2025-04-14
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

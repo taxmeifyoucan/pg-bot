@@ -44,6 +44,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [chore!:  Populate the `headers` field in the `ExecutionWitness` when calling `debug_executionWitness` (#15608)](https://github.com/paradigmxyz/reth/commit/33ddc2861bc4e60af53c1b2c33289ac3a3a8f4fd) - 2025-04-11
 * [Commit] [configure cache according to flag](https://github.com/paradigmxyz/reth/commit/953907e00ef22d08125a4eb3ac3ae247a18d1e00) - 2025-04-11
 * [Commit] [feat: add no-local-exemptions settings to MaintainPoolConfig (#15651)](https://github.com/paradigmxyz/reth/commit/3cf0d0d75b331932f2886b029addf83b8b47a19d) - 2025-04-11
+* [Commit] [fix: op isthmus activation timestamps (#15685)](https://github.com/paradigmxyz/reth/commit/3ef965c93a92e4d33ce4857784554534d15645df) - 2025-04-14
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

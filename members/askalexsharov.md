@@ -317,6 +317,22 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a9711e5cdec4f4eddc1b230ec5f76f17e1ef7295) - 2025-04-13
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0214b00fa7e9d028534f052cc858311ae634b16a) - 2025-04-13
 * [Commit] [snap_repo: mergeFiles logic and tests (#14552)](https://github.com/erigontech/erigon/commit/1cb25a8aa537ef4ed52c2f494d2081b21e58a157) - 2025-04-13
+* [Pull Request] [downloader: same NetworkChunkSize as in Erigon2](https://github.com/erigontech/erigon/pull/14585) - 2025-04-14
+* [Commit] [remove unused fields (#14572)](https://github.com/erigontech/erigon/commit/28d1917971c2eadafb76c22cde4225b92242ad70) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e0014c202b134de51f662c32df4d5453d5118339) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9e61c917080a42f787671ce7f92fc0932c0571ca) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0f3aab18783f6fb0305735d06c01368d3255c026) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9b4cbaec647e10bdd9d61064695a7fde29ae69dc) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4dc45444b3096d9b57de0af5be7374b861a7d611) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b2b620a9e46b3bce51fbb2210493732db3840fab) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/65dc009e628cfe8d8596910c7cc52a34a63e274f) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/90a78b8af16afe2ccb66cc2890f44a62623d8832) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e0e621ef9d8a349f71bac0b2669378b5b391df00) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/293786f596eaf0241f00f1c8fbc022bf8a272357) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f96389c83ee6f7483858c94de843e4251a22f575) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b8de037a4e65142cbd037fa4e26c012f19e55cca) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/df5e82939a817f4a58e6fc985e9d79583ebab8bb) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/171cc163673552dd8c646738f02942b6e12f67a4) - 2025-04-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

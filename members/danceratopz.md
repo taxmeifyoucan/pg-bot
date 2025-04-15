@@ -94,6 +94,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 5d50fc2e2e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/0d2e6e20aba9e36d87b5a443fa25d9b4ee60decf) - 2025-04-11
 * [Commit] [Deployed 370572b308 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1dbe29120854bf1336ce706c0726aeab2869d7c2) - 2025-04-11
 * [Commit] [Deployed 2fe8ca5160 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/47b8b3aa445f7cb76462a59b31171aaff186cbb0) - 2025-04-12
+* [Commit] [Deployed a1c4eeff34 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/132fcbe5b553f64b16aa30942280814873a7e17b) - 2025-04-14
+* [Commit] [Deployed 648e8c9e6c to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/449d2f3d11b22604f2e1bb011434f605634817c1) - 2025-04-14
+* [Commit] [feat(tests): eip7623 - parametrize `test_transaction_validity_type_*` with a tx to an eoa (#1422)](https://github.com/ethereum/execution-spec-tests/commit/648e8c9e6cd1defa44cbc2c5b91b9f31693acbfa) - 2025-04-14
+* [Issue] [chore(tooling): experiment with `mutmut`](https://github.com/ethereum/execution-spec-tests/issues/1445) - 2025-04-14
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

@@ -20,6 +20,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [simplify schema definitions](https://github.com/Consensys/teku/commit/d450f8fb86025997c1e869c153aae3dfc5ace596) - 2025-04-03
 * [Commit] [include ILs when calling engine new payload for block import (#9319)](https://github.com/Consensys/teku/commit/5e394c88891899bfd898e8025d32b8b3b8dc31d5) - 2025-04-03
 * [Pull Request] [include ILs when calling engine new payload for block import](https://github.com/Consensys/teku/pull/9319) - 2025-04-03
+
+* [Commit] [update network config params (#9352)](https://github.com/Consensys/teku/commit/df508e273488d70d53332b0e3cab33b87d8b0c63) - 2025-04-14
+* [Pull Request] [update network config params](https://github.com/Consensys/teku/pull/9352) - 2025-04-14
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Add eip7805 presets](https://github.com/ethereum/consensus-specs/pull/4268) - 2025-04-14
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

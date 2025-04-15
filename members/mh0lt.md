@@ -52,6 +52,7 @@ Team: Erigon
 * [Commit] [worker calcs](https://github.com/erigontech/erigon/commit/ed3964e19effd066ca8451eefcd89dd702ed5343) - 2025-04-13
 * [Commit] [worker calcs](https://github.com/erigontech/erigon/commit/c6b97cc4383d90b85c0158932dbbb30cb7c8d62e) - 2025-04-13
 * [Commit] [worker calcs](https://github.com/erigontech/erigon/commit/6e04c9c7fcb74a36a1e11b001c47307479944b90) - 2025-04-13
+* [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/27667ed3902924d5148e6a42a25713832693f767) - 2025-04-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Make max tracked seen txs and forget evicted txs values configurable in the peer tracker](https://github.com/hyperledger/besu/pull/8537) - 2025-04-10
 * [Issue] [Release 25.4.1](https://github.com/hyperledger/besu/issues/8542) - 2025-04-11
 * [Commit] [Tune and make configurable the `PeerTransactionTracker`  (#8537)](https://github.com/hyperledger/besu/commit/abc01e27f043f34accc6de3e2657c1334a5e44b4) - 2025-04-11
+* [Issue] [Backward sync stuck](https://github.com/hyperledger/besu/issues/8547) - 2025-04-14
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

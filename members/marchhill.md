@@ -29,6 +29,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Mainnet Pectra config](https://github.com/NethermindEth/nethermind/pull/8502) - 2025-04-09
 * [Commit] [undo gnosis as covered by other PR](https://github.com/NethermindEth/nethermind/commit/27693c367dd7711970d901e898921728d92e4b7e) - 2025-04-09
 * [Pull Request] [Fix gas costs on bad precompile input](https://github.com/NethermindEth/nethermind/pull/8514) - 2025-04-11
+* [Commit] [use block gas limit as default for estimateGas, call. Use tx gas limit for estimation instead of header](https://github.com/NethermindEth/nethermind/commit/8af43e953384732805233183e511d704842c80df) - 2025-04-15
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

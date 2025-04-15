@@ -57,6 +57,14 @@ Team: Erigon
 * [Commit] [engineapi: increase externalcl spam timeout (#14561)](https://github.com/erigontech/erigon/commit/d420460ea50b6309c41e6473df993b7b25e6421e) - 2025-04-11
 * [Pull Request] [engineapi: increase externalcl spam timeout](https://github.com/erigontech/erigon/pull/14561) - 2025-04-11
 * [Commit] [tests: Update to EESTs Vyšehrad (v4.2.0) release (#14547)](https://github.com/erigontech/erigon/commit/ac0b0bc9c25398b4d68f23dcfb36334eea6efc48) - 2025-04-11
+* [Pull Request] [execution-spec-tests: mv to blockchain tests (#14256)](https://github.com/erigontech/erigon/pull/14597) - 2025-04-14
+* [Pull Request] [params: Use no padding in minor version (#14588)](https://github.com/erigontech/erigon/pull/14594) - 2025-04-14
+* [Commit] [tests: Update to EESTs Vyšehrad (v4.2.0) release (#14547) (#14590)](https://github.com/erigontech/erigon/commit/2b5c2df13b85870ade78b3296d5c65ccb01c85fe) - 2025-04-14
+* [Pull Request] [engineapi: increase externalcl spam timeout (#14561)](https://github.com/erigontech/erigon/pull/14591) - 2025-04-14
+* [Pull Request] [tests: Update to EESTs Vyšehrad (v4.2.0) release (#14547)](https://github.com/erigontech/erigon/pull/14590) - 2025-04-14
+* [Commit] [params: Use no padding in minor version (#14588)](https://github.com/erigontech/erigon/commit/2d4f76fb4765ce97233b24b7fe67685939f946af) - 2025-04-14
+* [Commit] [EngineAPI: recover from missing chain segments (#14579)](https://github.com/erigontech/erigon/commit/56e6b155235edc7e8e2c94645e874f558d6d735d) - 2025-04-14
+* [Pull Request] [params: Use no padding in minor version](https://github.com/erigontech/erigon/pull/14588) - 2025-04-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

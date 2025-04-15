@@ -30,6 +30,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [avoid magic consts in EmbeddedSupported](https://github.com/erigontech/erigon/commit/afc26efd3968513ce6a00196c39074a805e36050) - 2025-04-11
 * [Pull Request] [cl: use networkid from erigon-lib](https://github.com/erigontech/erigon/pull/14563) - 2025-04-11
 * [Commit] [cl: use networkid from erigon-lib](https://github.com/erigontech/erigon/commit/878717eea36cfa75e8016202c266bc654712e27e) - 2025-04-11
+* [Issue] [Caplin: Block Building is still broken on Hoodi](https://github.com/erigontech/erigon/issues/14596) - 2025-04-14
+* [Pull Request] [dir improvements: move eth1 & builder from turbo to execution](https://github.com/erigontech/erigon/pull/14595) - 2025-04-14
+* [Commit] [mv builder to execution](https://github.com/erigontech/erigon/commit/e5b139cdff3108035aec918daab521ed0e9fb463) - 2025-04-14
+* [Commit] [mv eth1 into execution](https://github.com/erigontech/erigon/commit/7e233c858bc93f926f83a97e48057c693c926f8b) - 2025-04-14
+* [Commit] [cl: use networkid from erigon-lib (#14563)](https://github.com/erigontech/erigon/commit/adaa0db9fc7cee38069cc92057f574b3ea1ce2e5) - 2025-04-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

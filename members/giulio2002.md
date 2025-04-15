@@ -68,6 +68,19 @@ Team: Erigon
 * [Commit] [more truncates](https://github.com/erigontech/erigon/commit/f8367cae84d3e05d4c6dd914c1973ae9e26bac80) - 2025-04-13
 * [Commit] [more truncates](https://github.com/erigontech/erigon/commit/8380fc2f8c6136e41aeda62b14484d95fc5d9dff) - 2025-04-13
 * [Pull Request] [Erigon: more truncates](https://github.com/erigontech/erigon/pull/14580) - 2025-04-13
+* [Commit] [Cherry-Pick: caplin: fix parsing topics (#14543) (#14593)](https://github.com/erigontech/erigon/commit/be3a8c2e565ff564f1e1f7c4596af27270967914) - 2025-04-14
+* [Commit] [Cherry-pick: EthereumExecution: fix canonical chain routine (#14580) (#14592)](https://github.com/erigontech/erigon/commit/04b1d24a04e430647e4063e3db82e93b73fc55af) - 2025-04-14
+* [Commit] [Cherry-Pick: execution: fix missing log notifications when flushing extending fork… (#14578)](https://github.com/erigontech/erigon/commit/101e295f9ed863d4946a5e932c95d9efa09d7c1b) - 2025-04-14
+* [Commit] [Cherry-Pick: EngineAPI: recover from missing chain segments (#14579) (#14589)](https://github.com/erigontech/erigon/commit/ec7dda44a90725d782aa55484566105569fb2afb) - 2025-04-14
+* [Pull Request] [Cherry-Pick: caplin: fix parsing topics (#14543)](https://github.com/erigontech/erigon/pull/14593) - 2025-04-14
+* [Pull Request] [Cherry-pick: EthereumExecution: fix canonical chain routine (#14580)](https://github.com/erigontech/erigon/pull/14592) - 2025-04-14
+* [Commit] [EthereumExecution: fix canonical chain routine (#14580)](https://github.com/erigontech/erigon/commit/3f4506a5939c320b76fe8e9ebf12f353536ab54e) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/168c87aacd337e70def2f6f9de30391b01a0e12b) - 2025-04-14
+* [Pull Request] [Cherry-Pick: EngineAPI: recover from missing chain segments (#14579)](https://github.com/erigontech/erigon/pull/14589) - 2025-04-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/072ecb10cf5e161e60d4e6ea7d6e59033146e2d7) - 2025-04-14
+* [Commit] [Update turbo/execution/eth1/ethereum_execution.go](https://github.com/erigontech/erigon/commit/bf088a0aedc975be9e081ad140b5a04681215dfb) - 2025-04-14
+* [Commit] [more truncates](https://github.com/erigontech/erigon/commit/9b55a3a32e31869ddb8949ae51cc4645f6542982) - 2025-04-14
+* [Commit] [more truncates](https://github.com/erigontech/erigon/commit/cba7b900ecc808ef44407ab870f51ab479a2af1f) - 2025-04-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

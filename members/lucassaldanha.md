@@ -22,6 +22,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Temporarily ignore das branch on CircleCI tests](https://github.com/Consensys/teku/pull/9337) - 2025-04-10
 * [Pull Request] [Temporarily ignore das branch on CircleCI tests](https://github.com/Consensys/teku/pull/9336) - 2025-04-10
 * [Pull Request] [KZG updates from das branch](https://github.com/Consensys/teku/pull/9335) - 2025-04-10
+* [Pull Request] [Ignoring FULU ref tests](https://github.com/Consensys/teku/pull/9350) - 2025-04-14
+* [Commit] [Re-enable referenceTestsPrep CircleCI workflow stage (#9349)](https://github.com/Consensys/teku/commit/9d6a4c6ce8b5f9ae751c47e4901778c1feea6cc7) - 2025-04-14
+* [Pull Request] [Re-enable referenceTestsPrep CircleCI workflow stage](https://github.com/Consensys/teku/pull/9349) - 2025-04-14
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Added Teku team coordinators](https://github.com/ethereum/pm/pull/1468) - 2025-04-14
+* [Pull Request] [Minor typos protocol-upgrade.md](https://github.com/ethereum/pm/pull/1467) - 2025-04-14
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

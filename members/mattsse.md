@@ -65,6 +65,19 @@ Team: Reth
 * [Pull Request] [chore: bump ssz](https://github.com/paradigmxyz/reth/pull/15713) - 2025-04-13
 * [Commit] [crunchy](https://github.com/paradigmxyz/reth/commit/08100e7c5563aafe092fb29ff82890eafe1535d7) - 2025-04-13
 * [Pull Request] [chore: enforce snappy compression ratio](https://github.com/paradigmxyz/reth/pull/15712) - 2025-04-13
+* [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/52ac352932c3818bc7b3be43717e8ca11e7b28f2) - 2025-04-14
+* [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/52b7bbac810ed7862932a783f1b95eb3afbb1b03) - 2025-04-14
+* [Commit] [keep roundtrip tests](https://github.com/paradigmxyz/reth/commit/0255f44978565b51cf9d1958e829476e8154d832) - 2025-04-14
+* [Commit] [feat(engine): enable prewarming & caching by default (#15630)](https://github.com/paradigmxyz/reth/commit/e261a2e2059e2fb6fe59ce91a69eeb6edc2c9649) - 2025-04-14
+* [Commit] [chore: rm lifetime (#15723)](https://github.com/paradigmxyz/reth/commit/60e117a3a9d393bf42e356563e04f803fe55a97d) - 2025-04-14
+* [Pull Request] [chore: rm lifetime](https://github.com/paradigmxyz/reth/pull/15723) - 2025-04-14
+* [Commit] [chore: bump alloy-trie (#15717)](https://github.com/paradigmxyz/reth/commit/74843dcf1274b2a54a6257b5ade1bc786f24b194) - 2025-04-14
+* [Pull Request] [chore: bump alloy-trie](https://github.com/paradigmxyz/reth/pull/15717) - 2025-04-14
+* [Pull Request] [chore: bump version 1.3.9](https://github.com/paradigmxyz/reth/pull/15716) - 2025-04-14
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/9b74cf8b600fb58e013fededbdaa7ab77b51f03e) - 2025-04-14
+* [Pull Request] [chore: unify proof task concurrency consts](https://github.com/paradigmxyz/reth/pull/15715) - 2025-04-14
+* [Pull Request] [chore: bump op-revm](https://github.com/paradigmxyz/reth/pull/15714) - 2025-04-14
+* [Commit] [chore: bump ssz (#15713)](https://github.com/paradigmxyz/reth/commit/9f6082982fda25e2e960ef60d56144d05d7bb4d0) - 2025-04-14
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -41,6 +41,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: improve error message when validating blobs len](https://github.com/ChainSafe/lodestar/pull/7695) - 2025-04-13
 * [Commit] [fix: import path of networkConfig (#7694)](https://github.com/ChainSafe/lodestar/commit/8f80d36ae51315f15c246e701bad6441633cd479) - 2025-04-13
 * [Pull Request] [fix: import path of networkConfig](https://github.com/ChainSafe/lodestar/pull/7694) - 2025-04-13
+* [Commit] [fix: initPeerIdAndEnr unit tests](https://github.com/ChainSafe/lodestar/commit/e9eba7006ec19845d7bb5504dd8932b022794d8e) - 2025-04-14
+* [Pull Request] [feat: merge unstable to peerDAS](https://github.com/ChainSafe/lodestar/pull/7698) - 2025-04-14
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

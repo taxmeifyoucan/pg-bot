@@ -29,6 +29,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [Deprecate everything related with the gRPC API (#14944)](https://github.com/OffchainLabs/prysm/commit/9d1750ce8682af23822350be8d6a3ae1d9d28f9a) - 2025-04-11
 * [Pull Request] [Remove deprecated flags](https://github.com/OffchainLabs/prysm/pull/15165) - 2025-04-11
 * [Commit] [changelog <3](https://github.com/OffchainLabs/prysm/commit/0a1642ee8170eeff168ff9a59333fdea23a30733) - 2025-04-11
+* [Commit] [Refactor lc tests (#15155)](https://github.com/OffchainLabs/prysm/commit/cd87082f25890409bd626b7bac44897a997a2e21) - 2025-04-14
+* [Pull Request] [Guard against no attesters within committee in `VerifyAttestationNoVerifySignature](https://github.com/OffchainLabs/prysm/pull/15169) - 2025-04-14
+* [Commit] [changelog fragment](https://github.com/OffchainLabs/prysm/commit/bab3d62c3a5d8f911323ec4c5be26a93da083f6d) - 2025-04-14
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -28,6 +28,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix some cfg stuff](https://github.com/status-im/nimbus-eth2/commit/1f05a6678e0f131d4cc6af1f1b23260f4d636e9b) - 2025-04-10
 * [Commit] [some more fixes](https://github.com/status-im/nimbus-eth2/commit/339866e993bd49d2e04ccabb57d2b474ac7d0ced) - 2025-04-11
 * [Commit] [fix quarantine management issues](https://github.com/status-im/nimbus-eth2/commit/9d4e31b02d7accbc3900ba20ccea872c3ff19383) - 2025-04-12
+* [Commit] [change strategy](https://github.com/status-im/nimbus-eth2/commit/603be0dd85ac0945dc1cbb17fed1eed39636990e) - 2025-04-14
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -13,6 +13,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 [gballet/go-verkle](https://github.com/gballet/go-verkle)
 * [Pull Request] [Set Cn to identity instead of nil, when deleting a 128-leaf subtree](https://github.com/ethereum/go-verkle/pull/465) - 2025-04-10
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core/state: introduce the TransitionState object (verkle transition part 1)](https://github.com/ethereum/go-ethereum/pull/31634) - 2025-04-14
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

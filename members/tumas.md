@@ -29,6 +29,7 @@ Team: Grandine
 * [Commit] [Update consensus spec tests to v.1.5.0-beta.5](https://github.com/grandinetech/grandine/commit/119d97c56d8b459c29490e39d82deff36ef60a4f) - 2025-04-11
 * [Pull Request] [Update consensus spec tests to v.1.5.0-beta.5](https://github.com/grandinetech/grandine/pull/173) - 2025-04-11
 * [Commit] [Update crates](https://github.com/grandinetech/grandine/commit/fdc1a19c63892da06115d6b610fa3008a8ec3a1a) - 2025-04-11
+* [Pull Request] [Don't check deposits when deposit requests transition period is finished](https://github.com/grandinetech/grandine/pull/176) - 2025-04-14
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
