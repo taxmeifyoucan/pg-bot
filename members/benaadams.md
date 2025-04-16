@@ -108,6 +108,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Cleanup/Remove InitializeNodeStats (#8511)](https://github.com/NethermindEth/nethermind/commit/74de98f04563fc77af8628ec2451bd7effd199e0) - 2025-04-14
 * [Commit] [Nethermind UI](https://github.com/NethermindEth/nethermind/commit/7e8fe63abc52c3263c1c2df93f82ef535af1952b) - 2025-04-14
 * [Commit] [Annotate more txs](https://github.com/NethermindEth/nethermind/commit/dc100e129e4159fe335ae75c2bbe97429d979ae1) - 2025-04-14
+* [Commit] [Add Eof Execution EIP-7692 (EIP-663, EIP-3540, EIP-3670, EIP-4200, EIP-4750, EIP-5450, EIP-6206, EIP-7069, EIP-7480, EIP-7620, EIP-7698, EIP-7756) (#8176)](https://github.com/NethermindEth/nethermind/commit/2782ac7ac3b6be1c33e964838c404bdb14b2909b) - 2025-04-15
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/dd4a1e9304b1b8b8e3159779ddba8a0b1b0886b6) - 2025-04-15
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

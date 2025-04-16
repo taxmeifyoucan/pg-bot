@@ -47,6 +47,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [integrity checker in snap config](https://github.com/erigontech/erigon/commit/36ef6d162a1e07d124e350633a56ce5b289c9d3b) - 2025-04-14
 * [Commit] [Fixed incorrect processing of state sync events in polygon mined blocks (#14484)](https://github.com/erigontech/erigon/commit/f4c119edf09c25e844908bfcf6d29437e3dee3ad) - 2025-04-14
 * [Pull Request] [snap_repo integrity check](https://github.com/erigontech/erigon/pull/14587) - 2025-04-14
+* [Commit] [drop complicated markup index implementation (#14606)](https://github.com/erigontech/erigon/commit/d84557ca8fd51c65be0c4a7331562fbfd2944fb6) - 2025-04-15
+* [Commit] [snapshots_cmd changes](https://github.com/erigontech/erigon/commit/6313bc0cc3fef3f71384649638e0f1416fb7d129) - 2025-04-15
+* [Commit] [visible files alignment](https://github.com/erigontech/erigon/commit/5118561ba12e666c1da3c194690aaa3ddd9a70c4) - 2025-04-15
+* [Commit] [rename appendable to forkable (#14605)](https://github.com/erigontech/erigon/commit/25e7811e09e5d5b7cff71c87bd3f1e73c1535898) - 2025-04-15
+* [Commit] [dir improvements: move eth1 & builder from turbo to execution (#14595)](https://github.com/erigontech/erigon/commit/ee0df647a1bd6c646637b812a1e6fc59e8a60461) - 2025-04-15
+* [Commit] [preparing snap_repo for use outside erigon-lib/state (#14600)](https://github.com/erigontech/erigon/commit/af9de47ed5c5a5a11cd80d91698377cd467439d6) - 2025-04-15
+* [Pull Request] [rename appendable to forkable](https://github.com/erigontech/erigon/pull/14605) - 2025-04-15
+* [Commit] [fix](https://github.com/erigontech/erigon/commit/397309df3f96a9745c5de6d04ffc412abf579b0c) - 2025-04-15
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

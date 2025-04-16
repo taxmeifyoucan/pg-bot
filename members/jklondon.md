@@ -22,6 +22,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/6be97d440e5b8e0d51a59d329adca812113957de) - 2025-04-10
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/c768542812124af2ece58093b2d86ed4b5a1bf44) - 2025-04-10
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/1b3f050b6669629b89fadb00e4ae5d1aaf4d431a) - 2025-04-10
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/0c2f0b8e864c74f8f10fb36bbbe3ce8ddb3483c8) - 2025-04-15
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/97d4eb4a59eab97fa2268b922904da7c9e33d383) - 2025-04-15
+* [Commit] [Fixed incorrect processing of state sync events in polygon mined blocks (#14484)](https://github.com/erigontech/erigon/commit/f4c119edf09c25e844908bfcf6d29437e3dee3ad) - 2025-04-15
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

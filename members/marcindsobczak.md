@@ -17,6 +17,10 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [whitespaces](https://github.com/NethermindEth/nethermind/commit/7fe9169cb294c9e87d59a2d1aa14c332def419c4) - 2025-04-07
 * [Commit] [Volta bootnodes adjusted (#8463)](https://github.com/NethermindEth/nethermind/commit/9011fc55afc6ccf36c534954d8ebc18b924cbca0) - 2025-04-07
 * [Commit] [extend test for blobs bundle v1](https://github.com/NethermindEth/nethermind/commit/0d320247c70f83eda58f14e21e2f555b70700e3b) - 2025-04-07
+
+* [Commit] [Add metrics for `engine_getBlobsV1` full and partial responses (#8495)](https://github.com/NethermindEth/nethermind/commit/265d04b30f16d68705bfdd419badd902a3ffd302) - 2025-04-15
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7883: Add reference implementation](https://github.com/ethereum/EIPs/pull/9645) - 2025-04-15
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

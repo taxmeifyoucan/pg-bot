@@ -43,6 +43,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: import path of networkConfig](https://github.com/ChainSafe/lodestar/pull/7694) - 2025-04-13
 * [Commit] [fix: initPeerIdAndEnr unit tests](https://github.com/ChainSafe/lodestar/commit/e9eba7006ec19845d7bb5504dd8932b022794d8e) - 2025-04-14
 * [Pull Request] [feat: merge unstable to peerDAS](https://github.com/ChainSafe/lodestar/pull/7698) - 2025-04-14
+* [Commit] [fix: getFullMultiaddr from enr](https://github.com/ChainSafe/lodestar/commit/6ee0bc61d31b57854362ff5287ee596d140b105b) - 2025-04-15
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

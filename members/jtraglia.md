@@ -27,6 +27,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Fix eip7732 kzg commitment inclusion proof depth](https://github.com/ethereum/consensus-specs/pull/4264) - 2025-04-11
 * [Issue] [Implement BPO fork blob limit logic](https://github.com/ethereum/consensus-specs/issues/4267) - 2025-04-13
 * [Issue] [Remove placeholder MAX_BLOBS_PER_BLOCK_FULU](https://github.com/ethereum/consensus-specs/issues/4266) - 2025-04-13
+* [Commit] [Allow skipping verification for blobs from EL (#4262)](https://github.com/ethereum/consensus-specs/commit/8e92b52369fe66b01a8096dc2fb24835885dd494) - 2025-04-15
+* [Issue] [Implement some form of mutation testing](https://github.com/ethereum/consensus-specs/issues/4274) - 2025-04-15
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

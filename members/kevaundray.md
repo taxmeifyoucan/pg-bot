@@ -20,6 +20,7 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore(DONOTMERGE): Investigate all network modifications needed for stateless network](https://github.com/paradigmxyz/reth/pull/15707) - 2025-04-12
 * [Pull Request] [chore: Remove TODO](https://github.com/paradigmxyz/reth/pull/15706) - 2025-04-12
 * [Pull Request] [chore: Replace reth_primitives with reth_primitives_traits](https://github.com/paradigmxyz/reth/pull/15704) - 2025-04-12
+* [Pull Request] [chore: add more docs to SparseTrie](https://github.com/paradigmxyz/reth/pull/15750) - 2025-04-15
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

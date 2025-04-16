@@ -26,6 +26,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Better flags](https://github.com/OffchainLabs/prysm/commit/ed448fafdad62c328ab6a5022e6b8a5c58b89e85) - 2025-04-13
 * [Commit] [Potuz's first round feedback](https://github.com/OffchainLabs/prysm/commit/817cabb59f2c1a364a90023163743b692862f5b6) - 2025-04-13
 * [Commit] [Execution api: add and use blobs_bundle_v2](https://github.com/OffchainLabs/prysm/commit/4cd1f9d446c72ff526389e397c47ca83fbf47ca5) - 2025-04-14
+* [Commit] [Guard against no attesters within committee in `VerifyAttestationNoVerifySignature` (#15169)](https://github.com/OffchainLabs/prysm/commit/6180b5a560d56966b3efaa44a3b3871947a41db6) - 2025-04-15
+* [Commit] [Execution bundle fulu can unmarshal](https://github.com/OffchainLabs/prysm/commit/f69e54a362dd0acca4fb4bb5220a2279afee56cf) - 2025-04-15
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

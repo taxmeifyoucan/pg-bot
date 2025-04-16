@@ -33,6 +33,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Add note about multiple DAG roots](https://github.com/sigp/lighthouse/commit/8657b085b2fca0be08098e25695350a4564723ea) - 2025-04-10
 * [Pull Request] [Update and cleanup Electra preset](https://github.com/sigp/lighthouse/pull/7303) - 2025-04-10
 * [Commit] [Compute roots for unfinalized by_range requests with fork-choice (#7098)](https://github.com/sigp/lighthouse/commit/d511ca049422009c4ba0c2d7068981ef513f0ae8) - 2025-04-11
+* [Issue] [Pruning logic broken on `unstable`](https://github.com/sigp/lighthouse/issues/7323) - 2025-04-15
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

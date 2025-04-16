@@ -29,6 +29,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [some more fixes](https://github.com/status-im/nimbus-eth2/commit/339866e993bd49d2e04ccabb57d2b474ac7d0ced) - 2025-04-11
 * [Commit] [fix quarantine management issues](https://github.com/status-im/nimbus-eth2/commit/9d4e31b02d7accbc3900ba20ccea872c3ff19383) - 2025-04-12
 * [Commit] [change strategy](https://github.com/status-im/nimbus-eth2/commit/603be0dd85ac0945dc1cbb17fed1eed39636990e) - 2025-04-14
+* [Commit] [fix assemble columns](https://github.com/status-im/nimbus-eth2/commit/c27aa9934a62db47631d2609ba4e56b2b8d8f2ea) - 2025-04-15
+* [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/0eb5b83492ebd7e8b2f53c0e4b113b323f444f5a) - 2025-04-15
+* [Pull Request] [simplify column quarantine check](https://github.com/status-im/nimbus-eth2/pull/7076) - 2025-04-15
+* [Commit] [simplify quarantine checking](https://github.com/status-im/nimbus-eth2/commit/25c64c9c4d0628b0c59e4d1e49936725a9f5c9a1) - 2025-04-15
+* [Commit] [fix column proposal issues](https://github.com/status-im/nimbus-eth2/commit/525dd9006ffeb442c80a2296ce425b797ed2ca65) - 2025-04-15
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

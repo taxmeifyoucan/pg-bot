@@ -56,6 +56,12 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/5556e892c6e221ba52f0f4a661bebc6be848807c) - 2025-04-14
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8f4d3c08f50475880993a012d9b09d69d7aebc5c) - 2025-04-14
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9631323048c050a20265e75a4c8c57b9d1ecff16) - 2025-04-14
+* [Commit] [save escrow fun](https://github.com/erigontech/erigon/commit/e0fb5635d64841e8db648c24ef40881707ec3c60) - 2025-04-15
+* [Commit] [go through blk 621368](https://github.com/erigontech/erigon/commit/9b6509478ddd884db259cae71319e66562326645) - 2025-04-15
+* [Pull Request] [drop complicated markup index implementation](https://github.com/erigontech/erigon/pull/14606) - 2025-04-15
+* [Commit] [test](https://github.com/erigontech/erigon/commit/8f0298385531465c5688f9a1c9f36965c871f5b4) - 2025-04-15
+* [Commit] [docs(readme): edited links to Twitter, Blog, Docs (#14508)](https://github.com/erigontech/erigon/commit/b507c82cb1b68fc6653bea1b8d19305fb427473e) - 2025-04-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0092ce36336e01f5ac8550d88660eceb66ff0a43) - 2025-04-15
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

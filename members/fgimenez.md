@@ -45,6 +45,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [configure cache according to flag](https://github.com/paradigmxyz/reth/commit/953907e00ef22d08125a4eb3ac3ae247a18d1e00) - 2025-04-11
 * [Commit] [feat: add no-local-exemptions settings to MaintainPoolConfig (#15651)](https://github.com/paradigmxyz/reth/commit/3cf0d0d75b331932f2886b029addf83b8b47a19d) - 2025-04-11
 * [Commit] [fix: op isthmus activation timestamps (#15685)](https://github.com/paradigmxyz/reth/commit/3ef965c93a92e4d33ce4857784554534d15645df) - 2025-04-14
+* [Commit] [comment about gas recording on success](https://github.com/paradigmxyz/reth/commit/03e1f2a278ad38e09e827845786ce918b937211c) - 2025-04-15
+* [Commit] [updated Cargo.lock](https://github.com/paradigmxyz/reth/commit/7e2c863eaf97de19221b681f302012f9975c0400) - 2025-04-15
+* [Commit] [Revert "feat!: replace OpTransactionSigned with alloys" (#15730)](https://github.com/paradigmxyz/reth/commit/20dcf82afc0ad9746951df522c0395e0447fe31b) - 2025-04-15
+* [Commit] [add comments about gas limits](https://github.com/paradigmxyz/reth/commit/c9362185df67bf44b967ade1490f0ecdf90ecd2f) - 2025-04-15
+* [Commit] [metrics fns](https://github.com/paradigmxyz/reth/commit/415c0ff14a73ca4f064d083494033b4ea0c30f87) - 2025-04-15
+* [Commit] [updated Cargo.lock](https://github.com/paradigmxyz/reth/commit/b17112140b730a28316b66678e0c32e852c8a702) - 2025-04-15
+* [Commit] [chore: bump ssz (#15713)](https://github.com/paradigmxyz/reth/commit/9f6082982fda25e2e960ef60d56144d05d7bb4d0) - 2025-04-15
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

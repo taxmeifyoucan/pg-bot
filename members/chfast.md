@@ -24,6 +24,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [fix(tests): EOF - Change container section size to 4 bytes (#1403)](https://github.com/ethereum/execution-spec-tests/commit/5d50fc2e2eeb9e2b4ae5b5d4993bb35fc4e0cab0) - 2025-04-11
 * [Pull Request] [feat(fw): add max_stack_increase to EOF Section.Code](https://github.com/ethereum/execution-spec-tests/pull/1446) - 2025-04-14
 * [Commit] [feat(fw,tests): change EOF to max_stack_increase (#1393)](https://github.com/ethereum/execution-spec-tests/commit/a1c4eeff347a64ad6c5aedd51314d4ffc067346b) - 2025-04-14
+* [Commit] [refactor(tests): change RJUMP validation tests to max_stack_increase (#1448)](https://github.com/ethereum/execution-spec-tests/commit/6a9a515796133808719c90722c294b56c3aebd64) - 2025-04-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-5450,EIP-4750: Change to max_stack_increase](https://github.com/ethereum/EIPs/pull/9600) - 2025-04-04
 * [Pull Request] [Update EIP-5450: Expand on block ordering](https://github.com/ethereum/EIPs/pull/9599) - 2025-04-04

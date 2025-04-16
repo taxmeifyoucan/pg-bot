@@ -78,6 +78,27 @@ Team: Reth
 * [Pull Request] [chore: unify proof task concurrency consts](https://github.com/paradigmxyz/reth/pull/15715) - 2025-04-14
 * [Pull Request] [chore: bump op-revm](https://github.com/paradigmxyz/reth/pull/15714) - 2025-04-14
 * [Commit] [chore: bump ssz (#15713)](https://github.com/paradigmxyz/reth/commit/9f6082982fda25e2e960ef60d56144d05d7bb4d0) - 2025-04-14
+* [Commit] [fix: use a lower backoff duration for trusted or static peers (#15740)](https://github.com/paradigmxyz/reth/commit/a21769686cba72773d3edca395db55d72199d4e4) - 2025-04-15
+* [Commit] [fix: activate Prague in custom-evm example (#15741)](https://github.com/paradigmxyz/reth/commit/cdac901b39183c7ec35210e2b43ca35b63ad92ca) - 2025-04-15
+* [Pull Request] [chore: bump version 1.3.10](https://github.com/paradigmxyz/reth/pull/15756) - 2025-04-15
+* [Commit] [chore: add serde_as support for TransactionSigned (#15755)](https://github.com/paradigmxyz/reth/commit/0772f9a98f3241d678a8af6ba1abf12f4e9be41f) - 2025-04-15
+* [Pull Request] [chore: add serde_as support for TransactionSigned](https://github.com/paradigmxyz/reth/pull/15755) - 2025-04-15
+* [Pull Request] [fix: use a lower backoff duration for trusted or static peers](https://github.com/paradigmxyz/reth/pull/15740) - 2025-04-15
+* [Commit] [chore: exempt static peers from removal (#15732)](https://github.com/paradigmxyz/reth/commit/0c4a4185f03c2a5d369b143670b3e2202082aec1) - 2025-04-15
+* [Pull Request] [chore: simplify truncating](https://github.com/paradigmxyz/reth/pull/15739) - 2025-04-15
+* [Pull Request] [fix(rpc): set code hash in code override](https://github.com/paradigmxyz/reth/pull/15738) - 2025-04-15
+* [Commit] [fix to_compact](https://github.com/paradigmxyz/reth/commit/fbc3e1013ac11f3ea7516bc19c7d62103134f7bd) - 2025-04-15
+* [Commit] [chore: bump revm (#15735)](https://github.com/paradigmxyz/reth/commit/4f5876875540424c99a6c59e47b573490f0d5c0d) - 2025-04-15
+* [Commit] [tests: add enforce zsdt in roundtrip tests](https://github.com/paradigmxyz/reth/commit/4dc7c4b1a2f0e267972adbff3522c688839a4872) - 2025-04-15
+* [Pull Request] [tests: add enforce zsdt in roundtrip tests](https://github.com/paradigmxyz/reth/pull/15736) - 2025-04-15
+* [Pull Request] [chore: bump revm](https://github.com/paradigmxyz/reth/pull/15735) - 2025-04-15
+* [Commit] [fix: make CompactEnvelope equivalent (#15731)](https://github.com/paradigmxyz/reth/commit/6f2f78b4e37ce4d50e6951093d06f635064ae947) - 2025-04-15
+* [Pull Request] [chore: bump revm](https://github.com/paradigmxyz/reth/pull/15734) - 2025-04-15
+* [Commit] [chore: bump revm](https://github.com/paradigmxyz/reth/commit/b256c40534bb758a64b85ed3ec8340b200a2dd2c) - 2025-04-15
+* [Pull Request] [Revert "Revert "feat!: replace OpTransactionSigned with alloys""](https://github.com/paradigmxyz/reth/pull/15733) - 2025-04-15
+* [Pull Request] [chore: exempt static peers from removal](https://github.com/paradigmxyz/reth/pull/15732) - 2025-04-15
+* [Pull Request] [fix: make CompactEnvelope equivalent](https://github.com/paradigmxyz/reth/pull/15731) - 2025-04-15
+* [Pull Request] [Revert "feat!: replace OpTransactionSigned with alloys"](https://github.com/paradigmxyz/reth/pull/15730) - 2025-04-15
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

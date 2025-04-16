@@ -25,6 +25,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Nishant's comment.](https://github.com/OffchainLabs/prysm/commit/e7ae287882fc36242a93c5760086d26208bc128b) - 2025-04-11
 * [Commit] [Rework the data column sidecars verification pipeline.](https://github.com/OffchainLabs/prysm/commit/b49b61d22dd165cf082e409f7ad420b084e8aaf0) - 2025-04-11
 * [Commit] [Rework the data column sidecars verification pipeline.](https://github.com/OffchainLabs/prysm/commit/3c8cd3bdfcab0db24b7e8ec4d7675d6a4a2639b7) - 2025-04-11
+* [Commit] [Kasey comment about verification](https://github.com/OffchainLabs/prysm/commit/e92796f6cf375d0084931556fc36b6f882fc1e49) - 2025-04-15
+* [Commit] [Kasey comment about verification](https://github.com/OffchainLabs/prysm/commit/9ae8a3b7e585feb557b781e07a2ba0d14d369509) - 2025-04-15
+* [Commit] [`blocks.BlockWithROBlobs` ==> `blocks.BlockWithROSidecars`](https://github.com/OffchainLabs/prysm/commit/c39e56be1d025efc00d6b30c48d7d158dbef951a) - 2025-04-15
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

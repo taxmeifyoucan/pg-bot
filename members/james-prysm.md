@@ -39,6 +39,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Remove deprecated flags (#15165)](https://github.com/OffchainLabs/prysm/commit/e6e03c8ac9dfdd416af436bb645699ea03a548de) - 2025-04-11
 * [Commit] [fixing tests](https://github.com/OffchainLabs/prysm/commit/1252a2361ffdcbfd5696c455652b6bd538c2a286) - 2025-04-11
 * [Commit] [Problem: no prysmctl option in wrapper script to generate devnet ssz (#15145)](https://github.com/OffchainLabs/prysm/commit/ac0ea13dbef4d50799782185b93d00afb99fe26a) - 2025-04-11
+* [Commit] [Update docker URLs to gcr.io/offchainlabs (#15171)](https://github.com/OffchainLabs/prysm/commit/215dbb8e406db0f1b6f4eb6744fc2e1e1c5d6ab6) - 2025-04-15
+* [Commit] [remove unneeded import"](https://github.com/OffchainLabs/prysm/commit/7bc53ae49f71cbe354a5b9a308bcbae366a8452e) - 2025-04-15
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

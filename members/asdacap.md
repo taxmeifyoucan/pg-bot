@@ -33,6 +33,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Cleanup/Remove InitializeNodeStats (#8511)](https://github.com/NethermindEth/nethermind/commit/74de98f04563fc77af8628ec2451bd7effd199e0) - 2025-04-13
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/3eaa37553f3f19733219e46e23a827149a92b9e8) - 2025-04-14
 * [Pull Request] [Refactor/Allow passing in rpc module factory via rpc module provider constructor.](https://github.com/NethermindEth/nethermind/pull/8524) - 2025-04-14
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/0163cfc7e78668db43f2faa5a040e1c8c7eeafd3) - 2025-04-15
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

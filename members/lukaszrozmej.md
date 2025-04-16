@@ -17,6 +17,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Don't catch all exceptions on ExecutionPayload.TryGetBlock (#8498)](https://github.com/NethermindEth/nethermind/commit/822fc1dd9f07dc12df43cdd491e66c9cbd0363cb) - 2025-04-10
 * [Commit] [Update OP Superchain chains (#8519)](https://github.com/NethermindEth/nethermind/commit/b38d5e907be2c08d391cedc19ce444426a280c1f) - 2025-04-14
 * [Commit] [Auto-update fast sync settings (#8518)](https://github.com/NethermindEth/nethermind/commit/6247f2b9d990f11da63540750af7bf163a3627ba) - 2025-04-14
+* [Commit] [fix build Benchmarks](https://github.com/NethermindEth/nethermind/commit/c5f947d7d1ba938240a50713a9a6001e47b70877) - 2025-04-15
+* [Pull Request] [CodeDB writes in a batch](https://github.com/NethermindEth/nethermind/pull/8527) - 2025-04-15
+* [Commit] [Debug RPC for 7702, potential fix (#8349)](https://github.com/NethermindEth/nethermind/commit/434d1bb481c300e58c84400a50f9d9247f5ffdbe) - 2025-04-15
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

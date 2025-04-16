@@ -98,6 +98,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 648e8c9e6c to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/449d2f3d11b22604f2e1bb011434f605634817c1) - 2025-04-14
 * [Commit] [feat(tests): eip7623 - parametrize `test_transaction_validity_type_*` with a tx to an eoa (#1422)](https://github.com/ethereum/execution-spec-tests/commit/648e8c9e6cd1defa44cbc2c5b91b9f31693acbfa) - 2025-04-14
 * [Issue] [chore(tooling): experiment with `mutmut`](https://github.com/ethereum/execution-spec-tests/issues/1445) - 2025-04-14
+* [Commit] [Deployed 6a9a515796 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/f1ec22faa5b4cc17dd28770623fc6e99eec6a2af) - 2025-04-15
+* [Commit] [new(tests): EIP-7873 TXCREATE execution tests - 1st batch (#1413)](https://github.com/ethereum/execution-spec-tests/commit/62d2563dcfd58242f1846bab13f29a64dc558567) - 2025-04-15
+* [Commit] [chore(deps): update eels resolutions to use current best prague branch](https://github.com/ethereum/execution-spec-tests/commit/0fe233fd940d4e32326ccc6310738671a10ca7c3) - 2025-04-15
+* [Commit] [fix(tools): CodeGasMeasure allow non-int keys](https://github.com/ethereum/execution-spec-tests/commit/e1988cade65c1d164a24ad665f699896fee1781b) - 2025-04-15
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
