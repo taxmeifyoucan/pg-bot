@@ -19,6 +19,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Pull Request] [Scoped worldstate](https://github.com/NethermindEth/nethermind/pull/8525) - 2025-04-15
 * [Commit] [update other tests](https://github.com/NethermindEth/nethermind/commit/6001a7486735d83a4cae98b1bad208a2580497e1) - 2025-04-15
 * [Commit] [fix issues and remove redundant scope init](https://github.com/NethermindEth/nethermind/commit/fe236841783500bf2e3e604aa8643f25b9a5c65c) - 2025-04-15
+* [Commit] [fix dispose](https://github.com/NethermindEth/nethermind/commit/37445ba31cc0dff57f251336561210843abe2473) - 2025-04-16
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -102,6 +102,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [new(tests): EIP-7873 TXCREATE execution tests - 1st batch (#1413)](https://github.com/ethereum/execution-spec-tests/commit/62d2563dcfd58242f1846bab13f29a64dc558567) - 2025-04-15
 * [Commit] [chore(deps): update eels resolutions to use current best prague branch](https://github.com/ethereum/execution-spec-tests/commit/0fe233fd940d4e32326ccc6310738671a10ca7c3) - 2025-04-15
 * [Commit] [fix(tools): CodeGasMeasure allow non-int keys](https://github.com/ethereum/execution-spec-tests/commit/e1988cade65c1d164a24ad665f699896fee1781b) - 2025-04-15
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/6d5a92cce6855a904bd7c8825c813d1c67d3df93) - 2025-04-16
+* [Pull Request] [refactor(fill): encapsulate fixture output options in `FixtureOutput` class](https://github.com/ethereum/execution-spec-tests/pull/1471) - 2025-04-16
+* [Commit] [refactor(fill): encapsulate fixture output ops in `FixtureOutput` class](https://github.com/ethereum/execution-spec-tests/commit/e03d46bb55685e14399b8070ad554ebfc425333a) - 2025-04-16
+* [Commit] [Deployed 297322fa1f to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/5bad7f260ee268db5b0c12b2e7567e3cdcc14402) - 2025-04-16
+* [Commit] [Deployed 8195dfe89e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/5d040c1d86b1b63b314687d561c476ebdaa09d28) - 2025-04-16
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

@@ -22,3 +22,6 @@ Team: Reth
 * [Pull Request] [fix(evm): custom blob params](https://github.com/paradigmxyz/reth/pull/15598) - 2025-04-08
 * [Commit] [fix blob_max_and_target_count revm setting](https://github.com/paradigmxyz/reth/commit/1a4d585e207d593fa79be647ae9738131127d4d5) - 2025-04-08
 * [Commit] [hide](https://github.com/paradigmxyz/reth/commit/af5ef31af9f4b2c22eb78ad081b7dea46947d80e) - 2025-04-11
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16

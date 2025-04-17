@@ -15,6 +15,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [partial 3rd party updates and errorprone updates](https://github.com/Consensys/teku/pull/9351) - 2025-04-14
 * [Commit] [more 3rd party updates (#9355)](https://github.com/Consensys/teku/commit/4d354eb00d04878b98283b632eb44ad239261aa7) - 2025-04-15
 * [Pull Request] [more 3rd party updates](https://github.com/Consensys/teku/pull/9355) - 2025-04-15
+* [Pull Request] [refactored expected withdrawals and added test cases](https://github.com/Consensys/teku/pull/9361) - 2025-04-16
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

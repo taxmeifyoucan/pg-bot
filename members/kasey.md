@@ -18,6 +18,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [separate block/blob peer scoring](https://github.com/OffchainLabs/prysm/commit/1aa5559786eee9e1cc15cfcdb09a141e29b3778b) - 2025-04-15
 * [Commit] [separate block/blob peer scoring](https://github.com/OffchainLabs/prysm/commit/d85f05346ed6b543e1c9d8a1383d4c592b3b6c0b) - 2025-04-15
 * [Pull Request] [wip: improve peer scoring code in range sync](https://github.com/OffchainLabs/prysm/pull/15173) - 2025-04-15
+* [Commit] [Preston's test coverage feedback](https://github.com/OffchainLabs/prysm/commit/bfe0120ca8d39ba70ec52208a85e8a76446d9c24) - 2025-04-16
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

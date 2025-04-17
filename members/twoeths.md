@@ -44,6 +44,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: initPeerIdAndEnr unit tests](https://github.com/ChainSafe/lodestar/commit/e9eba7006ec19845d7bb5504dd8932b022794d8e) - 2025-04-14
 * [Pull Request] [feat: merge unstable to peerDAS](https://github.com/ChainSafe/lodestar/pull/7698) - 2025-04-14
 * [Commit] [fix: getFullMultiaddr from enr](https://github.com/ChainSafe/lodestar/commit/6ee0bc61d31b57854362ff5287ee596d140b105b) - 2025-04-15
+* [Commit] [fix: correct execArgv with host:port](https://github.com/ChainSafe/lodestar/commit/a5d9d2ff9d6ec806932d554b53aad196e589718f) - 2025-04-16
+* [Commit] [fix: debug network thread at port 9230](https://github.com/ChainSafe/lodestar/commit/f9e557ba4120ac464fc508d8e7421667cfed4924) - 2025-04-16
+* [Commit] [chore: debug network thread](https://github.com/ChainSafe/lodestar/commit/807fb4ae7a1b2dbc8ebd83e3facdee22ee758944) - 2025-04-16
+* [Pull Request] [fix: use persistent-merkle-tree v1.1.0 (#7621)](https://github.com/ChainSafe/lodestar/pull/7705) - 2025-04-16
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

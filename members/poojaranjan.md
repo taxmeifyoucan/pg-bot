@@ -16,6 +16,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Issue] [eth_simulate Implementers' Meeting | April 07, 2025](https://github.com/ethereum/pm/issues/1436) - 2025-04-07
 * [Issue] [EVMMAX Implementers Call 5 | April 24, 2025](https://github.com/ethereum/pm/issues/1469) - 2025-04-14
 * [Pull Request] [Update Breakout Room Meetings](https://github.com/ethereum/pm/pull/1466) - 2025-04-14
+* [Issue] [EIP Editing Office Hour Meeting 59 (EIP+ERC) | April 29, 2025](https://github.com/ethereum/pm/issues/1481) - 2025-04-16
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

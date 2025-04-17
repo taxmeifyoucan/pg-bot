@@ -28,6 +28,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Kasey comment about verification](https://github.com/OffchainLabs/prysm/commit/e92796f6cf375d0084931556fc36b6f882fc1e49) - 2025-04-15
 * [Commit] [Kasey comment about verification](https://github.com/OffchainLabs/prysm/commit/9ae8a3b7e585feb557b781e07a2ba0d14d369509) - 2025-04-15
 * [Commit] [`blocks.BlockWithROBlobs` ==> `blocks.BlockWithROSidecars`](https://github.com/OffchainLabs/prysm/commit/c39e56be1d025efc00d6b30c48d7d158dbef951a) - 2025-04-15
+* [Commit] [Code Cleanup: payload conversions and fixing gocognit ignores (#14953)](https://github.com/OffchainLabs/prysm/commit/8345c271cc13dcd87f8e9fa7041de145db8c6831) - 2025-04-16
+* [Commit] [Merge branch 'develop' into peerDAS-do-not-merge](https://github.com/OffchainLabs/prysm/commit/4fe3e6d31a7ccd7d387ef867c0b786a81ff087e1) - 2025-04-16
+* [Commit] [Merge branch 'develop' into peerDAS-do-not-merge](https://github.com/OffchainLabs/prysm/commit/0a754ff176fff75cd60d8747fb8a99db9d81b299) - 2025-04-16
+* [Commit] [Merge branch 'develop' into peerDAS-do-not-merge](https://github.com/OffchainLabs/prysm/commit/1f29ffa2c1cf6cca382cab44ff4b0236a1e80e25) - 2025-04-16
+* [Commit] [Merge branch 'develop' into peerDAS-do-not-merge](https://github.com/OffchainLabs/prysm/commit/6ff78cca189249764317217947076398db2d8500) - 2025-04-16
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

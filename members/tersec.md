@@ -41,8 +41,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm Deneb builder API support](https://github.com/status-im/nimbus-eth2/pull/7071) - 2025-04-13
 * [Commit] [reduce per-slot state replays on low-participation networks (#7072)](https://github.com/status-im/nimbus-eth2/commit/c1f0880b7733bf3e4b15466be1cedd08de1a5ad7) - 2025-04-14
 * [Pull Request] [reduce per-slot state replays on low-participation networks](https://github.com/status-im/nimbus-eth2/pull/7072) - 2025-04-14
+* [Commit] [simplify column quarantine check (#7076)](https://github.com/status-im/nimbus-eth2/commit/9e68503aa6a06867e84cc46fa1a14adc2ff318c3) - 2025-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [add Nimbus Pectra coordinators](https://github.com/ethereum/pm/pull/1478) - 2025-04-16
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

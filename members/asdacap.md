@@ -34,6 +34,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/3eaa37553f3f19733219e46e23a827149a92b9e8) - 2025-04-14
 * [Pull Request] [Refactor/Allow passing in rpc module factory via rpc module provider constructor.](https://github.com/NethermindEth/nethermind/pull/8524) - 2025-04-14
 * [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/0163cfc7e78668db43f2faa5a040e1c8c7eeafd3) - 2025-04-15
+* [Issue] [Direct block body rlp class.](https://github.com/NethermindEth/nethermind/issues/8528) - 2025-04-16
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

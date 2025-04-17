@@ -19,6 +19,7 @@ Team: Codex DAS
 * [Pull Request] [p2p: fix dial metrics not picking up the right error](https://github.com/ethereum/go-ethereum/pull/31621) - 2025-04-12
 * [Pull Request] [p2p: better dial/serve success metrics](https://github.com/ethereum/go-ethereum/pull/31629) - 2025-04-13
 * [Commit] [set doNotDropBefore to 10 minutes](https://github.com/ethereum/go-ethereum/commit/976e039e3760b6d808de49327cbc3ea264004120) - 2025-04-14
+* [Pull Request] [eth: fix transaction sender cache miss before broadcast](https://github.com/ethereum/go-ethereum/pull/31657) - 2025-04-16
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

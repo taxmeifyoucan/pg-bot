@@ -22,6 +22,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [EXTCALL* to 7702 delegated accounts](https://github.com/ethereum/execution-specs/commit/ca4bafde5eba44aff975b6a594eb7f7310eac120) - 2025-04-11
 * [Commit] [Use py_ecc for alt_bn128 (#1187)](https://github.com/ethereum/execution-specs/commit/d9a7ee24db359aacecd636349b4f3ac95a4a6e71) - 2025-04-14
 * [Issue] [`accessList` or `accessLists`](https://github.com/ethereum/execution-specs/issues/1194) - 2025-04-15
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-spec-tests/issues/1461) - 2025-04-16
 ## Q1 2025
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)

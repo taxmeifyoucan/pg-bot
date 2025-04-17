@@ -62,6 +62,8 @@ Team: Erigon
 * [Commit] [test](https://github.com/erigontech/erigon/commit/8f0298385531465c5688f9a1c9f36965c871f5b4) - 2025-04-15
 * [Commit] [docs(readme): edited links to Twitter, Blog, Docs (#14508)](https://github.com/erigontech/erigon/commit/b507c82cb1b68fc6653bea1b8d19305fb427473e) - 2025-04-15
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0092ce36336e01f5ac8550d88660eceb66ff0a43) - 2025-04-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/43dc6feb2b42036a4f3bf20ac21aef541e66e5f2) - 2025-04-16
+* [Commit] [Arbitrum: arbos notifications on contract stack (#14611)](https://github.com/erigontech/erigon/commit/cfc3318990b4f1dd07255467aa6334267bb7ee46) - 2025-04-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

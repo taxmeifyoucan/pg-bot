@@ -25,6 +25,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(fw): add max_stack_increase to EOF Section.Code](https://github.com/ethereum/execution-spec-tests/pull/1446) - 2025-04-14
 * [Commit] [feat(fw,tests): change EOF to max_stack_increase (#1393)](https://github.com/ethereum/execution-spec-tests/commit/a1c4eeff347a64ad6c5aedd51314d4ffc067346b) - 2025-04-14
 * [Commit] [refactor(tests): change RJUMP validation tests to max_stack_increase (#1448)](https://github.com/ethereum/execution-spec-tests/commit/6a9a515796133808719c90722c294b56c3aebd64) - 2025-04-15
+* [Commit] [new(tests): add EOF execution at maximum stack height (#1443)](https://github.com/ethereum/execution-spec-tests/commit/8195dfe89ea4d15ab81fdfa135d7e76ab08e8e7a) - 2025-04-16
+* [Pull Request] [refactor(tests): update JUMPF EOF tests to max_stack_increase](https://github.com/ethereum/execution-spec-tests/pull/1458) - 2025-04-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-5450,EIP-4750: Change to max_stack_increase](https://github.com/ethereum/EIPs/pull/9600) - 2025-04-04
 * [Pull Request] [Update EIP-5450: Expand on block ordering](https://github.com/ethereum/EIPs/pull/9599) - 2025-04-04

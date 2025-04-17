@@ -13,6 +13,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [dev: change type of branch node subnodes (#1066)](https://github.com/ethereum/execution-specs/commit/26ab1bcfa24a4f798eac8e077db462401f14c875) - 2025-04-11
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

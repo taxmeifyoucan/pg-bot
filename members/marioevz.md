@@ -42,6 +42,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(tests): Change EOFCREATE new address and related gas calculations](https://github.com/ethereum/execution-spec-tests/commit/8e74d4949923643212360071e71f8f950cbcf8f4) - 2025-04-14
 * [Commit] [fix(specs): Exception message check on strict match](https://github.com/ethereum/execution-spec-tests/commit/cfd02fc6e38e19b0c0f97dbdf224fd40c431e013) - 2025-04-14
 * [Issue] [Create blockchains that consume full gas on single operations.](https://github.com/ethereum/execution-spec-tests/issues/1453) - 2025-04-15
+* [Commit] [feat(fw): add max_stack_increase to EOF Section.Code (#1446)](https://github.com/ethereum/execution-spec-tests/commit/91687b77e66fe5bf5e4ea3612a68fc7876650bf2) - 2025-04-16
+* [Commit] [feat(tests): EIP-6110 `DepositEvent` layout+topic tests (#1371)](https://github.com/ethereum/execution-spec-tests/commit/275740885f2d5f9b7074b6853dd05eccbb1920b9) - 2025-04-16
+* [Commit] [refactor(tests): Rename stack height constants](https://github.com/ethereum/execution-spec-tests/commit/e0cd6da30255e19ca166878b4591a4497f40957c) - 2025-04-16
+* [Issue] [feat(forks): Implement `transition_time` method](https://github.com/ethereum/execution-spec-tests/issues/1472) - 2025-04-16
+* [Commit] [new(tests): EIP-7251: add modified consolidation contract test cases (#1465)](https://github.com/ethereum/execution-spec-tests/commit/297322fa1f9c8dcdfc1e6fd3a4b6f6eb0c7b1613) - 2025-04-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

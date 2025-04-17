@@ -41,6 +41,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Problem: no prysmctl option in wrapper script to generate devnet ssz (#15145)](https://github.com/OffchainLabs/prysm/commit/ac0ea13dbef4d50799782185b93d00afb99fe26a) - 2025-04-11
 * [Commit] [Update docker URLs to gcr.io/offchainlabs (#15171)](https://github.com/OffchainLabs/prysm/commit/215dbb8e406db0f1b6f4eb6744fc2e1e1c5d6ab6) - 2025-04-15
 * [Commit] [remove unneeded import"](https://github.com/OffchainLabs/prysm/commit/7bc53ae49f71cbe354a5b9a308bcbae366a8452e) - 2025-04-15
+* [Commit] [improve peer scoring code in range sync (#15173)](https://github.com/OffchainLabs/prysm/commit/8418157f8a1e1ff806a048f2ef47984475ba14db) - 2025-04-16
+* [Commit] [fixing current slot issue](https://github.com/OffchainLabs/prysm/commit/e0f2d126bd46690f7c7abadee8d8254fb5ab5092) - 2025-04-16
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

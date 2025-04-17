@@ -99,6 +99,9 @@ Team: Reth
 * [Pull Request] [chore: exempt static peers from removal](https://github.com/paradigmxyz/reth/pull/15732) - 2025-04-15
 * [Pull Request] [fix: make CompactEnvelope equivalent](https://github.com/paradigmxyz/reth/pull/15731) - 2025-04-15
 * [Pull Request] [Revert "feat!: replace OpTransactionSigned with alloys"](https://github.com/paradigmxyz/reth/pull/15730) - 2025-04-15
+* [Pull Request] [chore: bump inspectors 0.19.1](https://github.com/paradigmxyz/reth/pull/15780) - 2025-04-16
+* [Commit] [chore: bump op alloy 0.14 (#15779)](https://github.com/paradigmxyz/reth/commit/bd9a24aa0d9a86e90e03a7c9326082bad90bdf4a) - 2025-04-16
+* [Pull Request] [chore: bump op alloy 0.14](https://github.com/paradigmxyz/reth/pull/15779) - 2025-04-16
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -55,6 +55,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [preparing snap_repo for use outside erigon-lib/state (#14600)](https://github.com/erigontech/erigon/commit/af9de47ed5c5a5a11cd80d91698377cd467439d6) - 2025-04-15
 * [Pull Request] [rename appendable to forkable](https://github.com/erigontech/erigon/pull/14605) - 2025-04-15
 * [Commit] [fix](https://github.com/erigontech/erigon/commit/397309df3f96a9745c5de6d04ffc412abf579b0c) - 2025-04-15
+* [Pull Request] [wip: fix use of dirtyFiles in BuildMissedAccessors](https://github.com/erigontech/erigon/pull/14613) - 2025-04-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
