@@ -20,6 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Issue] [Produce IL (POST)](https://github.com/Consensys/teku/issues/9346) - 2025-04-13
 * [Issue] [Produce IL (GET)](https://github.com/Consensys/teku/issues/9345) - 2025-04-13
 * [Pull Request] [Add publish Inclusion List endpoint](https://github.com/Consensys/teku/pull/9358) - 2025-04-16
+* [Commit] [Add GetInclusionListCommitteeDuties (#9330)](https://github.com/Consensys/teku/commit/479d3256ba86a7ac76eb9746d28bbd7e850215fa) - 2025-04-17
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

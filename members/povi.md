@@ -25,6 +25,8 @@ Team: Grandine
 * [Commit] [Keep beacon states loaded from storage on demand in state cache](https://github.com/grandinetech/grandine/commit/ce7476aa0a0dc3eb5438814d796e2726aa07cc32) - 2025-04-08
 * [Commit] [Update rust version to 1.86.0](https://github.com/grandinetech/grandine/commit/20803bbc4c198ec8aa4f0fa56880e1335b5174e1) - 2025-04-11
 * [Pull Request] [Update rust version to 1.86.0](https://github.com/grandinetech/grandine/pull/172) - 2025-04-11
+* [Pull Request] [Check next slot state proposer index in registered validators list to see if it needs to prepare execution payload for next slot block proposal](https://github.com/grandinetech/grandine/pull/185) - 2025-04-17
+* [Pull Request] [Delay blobs until state](https://github.com/grandinetech/grandine/pull/183) - 2025-04-17
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

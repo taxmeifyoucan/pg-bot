@@ -21,6 +21,8 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore: Remove TODO](https://github.com/paradigmxyz/reth/pull/15706) - 2025-04-12
 * [Pull Request] [chore: Replace reth_primitives with reth_primitives_traits](https://github.com/paradigmxyz/reth/pull/15704) - 2025-04-12
 * [Pull Request] [chore: add more docs to SparseTrie](https://github.com/paradigmxyz/reth/pull/15750) - 2025-04-15
+* [Pull Request] [chore: Make `reth-errors` crate `no_std` compatible](https://github.com/paradigmxyz/reth/pull/15790) - 2025-04-17
+* [Pull Request] [chore: Make `SparseTrie` crate `no_std` compatible](https://github.com/paradigmxyz/reth/pull/15786) - 2025-04-17
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -35,6 +35,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Refactor/Allow passing in rpc module factory via rpc module provider constructor.](https://github.com/NethermindEth/nethermind/pull/8524) - 2025-04-14
 * [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/0163cfc7e78668db43f2faa5a040e1c8c7eeafd3) - 2025-04-15
 * [Issue] [Direct block body rlp class.](https://github.com/NethermindEth/nethermind/issues/8528) - 2025-04-16
+* [Pull Request] [Feature/better dicovery metrics](https://github.com/NethermindEth/nethermind/pull/8531) - 2025-04-17
+* [Commit] [Allow disabling static labels](https://github.com/NethermindEth/nethermind/commit/853f1a7bea91f73c2319ae642f408e8583b44220) - 2025-04-17
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

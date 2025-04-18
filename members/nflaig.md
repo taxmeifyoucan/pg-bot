@@ -41,6 +41,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: bump CL spec to v1.5.0-beta.5 (#7685)](https://github.com/ChainSafe/lodestar/commit/c4068dc653d953b8b17e0142513ceef97b3c75b4) - 2025-04-11
 * [Pull Request] [chore: fix total effective balance metric name](https://github.com/ChainSafe/lodestar/pull/7691) - 2025-04-12
 * [Commit] [chore: fix grafana roundtrip request time panel (#7701)](https://github.com/ChainSafe/lodestar/commit/5ae1b18bae28a21ad05cef690a372e6ed9d7834e) - 2025-04-15
+* [Commit] [refactor: move ValidatorMonitor to the BeaconChain (#7647)](https://github.com/ChainSafe/lodestar/commit/cdfdfec6ca53e1715cfe84e12ba3bb7e9d9023df) - 2025-04-17
+* [Commit] [chore: refactor withdrawal logic (#7714)](https://github.com/ChainSafe/lodestar/commit/b42952860185b5db57fc69c63c320a80c5e07f9e) - 2025-04-17
+* [Pull Request] [refactor: use map to keep track of withdrawn amount of each validator](https://github.com/ChainSafe/lodestar/pull/7715) - 2025-04-17
+* [Pull Request] [chore: refactor withdrawal logic](https://github.com/ChainSafe/lodestar/pull/7714) - 2025-04-17
+* [Commit] [refactor: decouple pre and post deneb calculation in verifyPropagationSlotRange (#7711)](https://github.com/ChainSafe/lodestar/commit/713062c1070ab1a6234d4203f3d86b37cad26356) - 2025-04-17
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

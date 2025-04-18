@@ -16,6 +16,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Commit] [CI: Bump HTMLProofer & run on ubuntu-24.04 (#9657)](https://github.com/ethereum/EIPs/commit/a50046e184aced68194613bc92f2a2b00f02a7ba) - 2025-04-17
+* [Pull Request] [Bump HTMLProofer & run on ubuntu-24.04](https://github.com/ethereum/EIPs/pull/9657) - 2025-04-17
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

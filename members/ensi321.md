@@ -17,6 +17,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Skip eip7732](https://github.com/ChainSafe/lodestar/commit/a5dee0029484e234cbd679281115a9dfea4d8f30) - 2025-04-02
 * [Commit] [feat: track new seen attesters per block (#7650)](https://github.com/ChainSafe/lodestar/commit/149f6070deb06971bbaa9ee7f7d7f98a0738af42) - 2025-04-05
 * [Pull Request] [chore: slight improvement on updating metrics in `AggregatedAttestationPool`](https://github.com/ChainSafe/lodestar/pull/7672) - 2025-04-08
+* [Commit] [refactor: use map to keep track of withdrawn amount of each validator (#7715)](https://github.com/ChainSafe/lodestar/commit/65aa07f5ca35102247937cb5e16623fe1fb0d513) - 2025-04-17
+* [Commit] [lint](https://github.com/ChainSafe/lodestar/commit/c40c0c18fe54a91725001acf45c1f81e144cf0bd) - 2025-04-17
+* [Pull Request] [refactor: decouple pre and post deneb calculation in verifyPropagationSlotRange](https://github.com/ChainSafe/lodestar/pull/7711) - 2025-04-17
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

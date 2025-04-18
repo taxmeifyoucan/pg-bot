@@ -48,6 +48,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: debug network thread at port 9230](https://github.com/ChainSafe/lodestar/commit/f9e557ba4120ac464fc508d8e7421667cfed4924) - 2025-04-16
 * [Commit] [chore: debug network thread](https://github.com/ChainSafe/lodestar/commit/807fb4ae7a1b2dbc8ebd83e3facdee22ee758944) - 2025-04-16
 * [Pull Request] [fix: use persistent-merkle-tree v1.1.0 (#7621)](https://github.com/ChainSafe/lodestar/pull/7705) - 2025-04-16
+* [Pull Request] [feat: track libp2p dial error](https://github.com/ChainSafe/lodestar/pull/7712) - 2025-04-17
+* [Commit] [fix: no peer expiry from peerstore (#7708)](https://github.com/ChainSafe/lodestar/commit/a167888f80a41bf5f8157fb9b3642e7818971088) - 2025-04-17
+* [Commit] [chore: add comment to reference the libp2p peer data expiry PR](https://github.com/ChainSafe/lodestar/commit/4033d451b800f44f6a8a4f8698a9694f7fe2e4dc) - 2025-04-17
+* [Commit] [fix: donot expire peer store data](https://github.com/ChainSafe/lodestar/commit/d0d2f9df474eee07d8866309ff31af90c589fedc) - 2025-04-17
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -33,6 +33,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Merge branch 'develop' into peerDAS-do-not-merge](https://github.com/OffchainLabs/prysm/commit/0a754ff176fff75cd60d8747fb8a99db9d81b299) - 2025-04-16
 * [Commit] [Merge branch 'develop' into peerDAS-do-not-merge](https://github.com/OffchainLabs/prysm/commit/1f29ffa2c1cf6cca382cab44ff4b0236a1e80e25) - 2025-04-16
 * [Commit] [Merge branch 'develop' into peerDAS-do-not-merge](https://github.com/OffchainLabs/prysm/commit/6ff78cca189249764317217947076398db2d8500) - 2025-04-16
+* [Pull Request] [PeerDAS: Implement core.](https://github.com/OffchainLabs/prysm/pull/15192) - 2025-04-17
+* [Pull Request] [Upgrade to fulu: Fix and add spectests](https://github.com/OffchainLabs/prysm/pull/15190) - 2025-04-17
+* [Commit] [`UpgradeToFulu`: Add spectests.](https://github.com/OffchainLabs/prysm/commit/8e5e3fcc57ad38506134a11b546bbbd803ca430a) - 2025-04-17
+* [Commit] [`UpgradeToFulu`: Add spec tests. (#15189)](https://github.com/OffchainLabs/prysm/commit/c00283f247412e92b5f02f6f867202d016f4df37) - 2025-04-17
+* [Commit] [`UpgradeToFulu`: Add spec tests.](https://github.com/OffchainLabs/prysm/commit/ebce552c493a129b209cb77cbe4104b595b58a3d) - 2025-04-17
+* [Pull Request] [`UpgradeToFulu`: Add spec tests.](https://github.com/OffchainLabs/prysm/pull/15189) - 2025-04-17
+* [Commit] [Add tests (#15188)](https://github.com/OffchainLabs/prysm/commit/a4269cf308d50e162bf385e030c167f8205243a1) - 2025-04-17
+* [Pull Request] [Add tests](https://github.com/OffchainLabs/prysm/pull/15188) - 2025-04-17
+* [Commit] [Add tests](https://github.com/OffchainLabs/prysm/commit/26bc352349df7f3b2793785e7d55b7c2a3e5e989) - 2025-04-17
+* [Pull Request] [PeerDAS: Add needed proto files and corresponding generated code.](https://github.com/OffchainLabs/prysm/pull/15187) - 2025-04-17
+* [Commit] [`.bazelrc`: Add `build --compilation_mode=opt`](https://github.com/OffchainLabs/prysm/commit/e4544caaac386781608f7a79c4e0325b0705d40f) - 2025-04-17
+* [Pull Request] [Implement all needed KZG wrappers for peerDAS in the `kzg` package.](https://github.com/OffchainLabs/prysm/pull/15186) - 2025-04-17
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

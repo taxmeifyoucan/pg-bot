@@ -43,6 +43,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [remove unneeded import"](https://github.com/OffchainLabs/prysm/commit/7bc53ae49f71cbe354a5b9a308bcbae366a8452e) - 2025-04-15
 * [Commit] [improve peer scoring code in range sync (#15173)](https://github.com/OffchainLabs/prysm/commit/8418157f8a1e1ff806a048f2ef47984475ba14db) - 2025-04-16
 * [Commit] [fixing current slot issue](https://github.com/OffchainLabs/prysm/commit/e0f2d126bd46690f7c7abadee8d8254fb5ab5092) - 2025-04-16
+* [Commit] [missed wrapping the error](https://github.com/OffchainLabs/prysm/commit/b8e0fa1174f082eb7c4760727ce7a81b03ea812f) - 2025-04-17
+* [Commit] [fixing error typo](https://github.com/OffchainLabs/prysm/commit/b17e4c2415502fe04e08a47c4813900d41e7ae8e) - 2025-04-17
+* [Commit] [adding undeflow safety](https://github.com/OffchainLabs/prysm/commit/38733a989e935abc83b6727eeb33bd3afb9fad33) - 2025-04-17
+* [Commit] [Upgrade to fulu: Fix and add spectests (#15190)](https://github.com/OffchainLabs/prysm/commit/167f719860547520be79e3141b60fdbd53253089) - 2025-04-17
+* [Commit] [trying tabs one more time for fixing tabs](https://github.com/OffchainLabs/prysm/commit/27028f591fb1b171ef00b33c6ed37bc6303c0981) - 2025-04-17
+* [Commit] [fixing another missed tab in comments](https://github.com/OffchainLabs/prysm/commit/164f7a76defadec89fc01d1c464f84ae175e0f74) - 2025-04-17
+* [Commit] [attempting to fix comment indents](https://github.com/OffchainLabs/prysm/commit/1a932ca415fc3dc4043425f4db5cd039c6dbec32) - 2025-04-17
+* [Commit] [update comment](https://github.com/OffchainLabs/prysm/commit/e07da541ac80a28b7fe84b4ff436622cff92b046) - 2025-04-17
+* [Pull Request] [fix expected withdrawal underflow](https://github.com/OffchainLabs/prysm/pull/15191) - 2025-04-17
+* [Commit] [update comment](https://github.com/OffchainLabs/prysm/commit/dde45d628190fde6887f73209caf7b35ef55e0a4) - 2025-04-17
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

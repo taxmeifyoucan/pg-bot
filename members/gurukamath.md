@@ -23,8 +23,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Use py_ecc for alt_bn128 (#1187)](https://github.com/ethereum/execution-specs/commit/d9a7ee24db359aacecd636349b4f3ac95a4a6e71) - 2025-04-14
 * [Issue] [`accessList` or `accessLists`](https://github.com/ethereum/execution-specs/issues/1194) - 2025-04-15
 
+* [Pull Request] [Parse deposit requests after all transactions](https://github.com/ethereum/execution-specs/pull/1197) - 2025-04-17
+* [Issue] [Process deposit requests after all the transactions](https://github.com/ethereum/execution-specs/issues/1196) - 2025-04-17
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-spec-tests/issues/1461) - 2025-04-16
+* [Issue] [Address warmed on aborted call](https://github.com/ethereum/execution-spec-tests/issues/1474) - 2025-04-17
 ## Q1 2025
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)

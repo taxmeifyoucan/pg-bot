@@ -18,6 +18,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Agumb
 * [Pull Request] [Update EIP-7620: Replace mentions of EOF Creation Transactions with InitcodeTransaction](https://github.com/ethereum/EIPs/pull/9607) - 2025-04-07
 
 * [Pull Request] [Update EIP-7620: Replace mentions of EOF Creation Transactions with InitcodeTransaction](https://github.com/ethereum/EIPs/pull/9607) - 2025-04-08
+* [Pull Request] [Update EIP-5450: Simplify stack overflow checks](https://github.com/ethereum/EIPs/pull/9656) - 2025-04-17
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Eof container size 4 bytes](https://github.com/ethereum/execution-spec-tests/pull/1403) - 2025-04-07
 * [Commit] [fix(tests): Change EOFCREATE new address and related gas calculations](https://github.com/ethereum/execution-spec-tests/commit/8e74d4949923643212360071e71f8f950cbcf8f4) - 2025-04-08

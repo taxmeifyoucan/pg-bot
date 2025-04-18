@@ -21,6 +21,12 @@ Team: Grandine
 * [Commit] [Cleanup disk when running in github worker](https://github.com/grandinetech/grandine/commit/d81d7b744dce40f03cb0c004cbfa8c2db347e6b4) - 2025-04-15
 * [Commit] [Revert "Use greedy attestation packer"](https://github.com/grandinetech/grandine/commit/0dcc6f3e0b737362a65f8024fe1c042054ef5ac2) - 2025-04-15
 * [Pull Request] [Revert "Use greedy attestation packer"](https://github.com/grandinetech/grandine/pull/178) - 2025-04-15
+* [Commit] [Cleanup disk when running in github worker](https://github.com/grandinetech/grandine/commit/dd8c010c227b1f3f4ed343c619d9965604391ddd) - 2025-04-17
+* [Pull Request] [Cleanup disk when running in github worker](https://github.com/grandinetech/grandine/pull/184) - 2025-04-17
+* [Commit] [Cleanup disk when running in github worker](https://github.com/grandinetech/grandine/commit/6f77e98788265dee2d37cce3ad1397319afb26a2) - 2025-04-17
+* [Commit] [Cleanup disk when running in github worker](https://github.com/grandinetech/grandine/commit/18c16996621cf2753b7899d262528f8c069d8280) - 2025-04-17
+* [Commit] [Cleanup disk when running in github worker](https://github.com/grandinetech/grandine/commit/04d2d25edd0720e869fb854dcdccdbe8efb7fcf0) - 2025-04-17
+* [Commit] [Cleanup disk when running in github worker](https://github.com/grandinetech/grandine/commit/b9e9c5722e10073574842c257e34f5efb5387846) - 2025-04-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Changed Hangleang's multiplier to 1](https://github.com/protocolguild/documentation/pull/344) - 2025-04-10
 ## Q1 2025

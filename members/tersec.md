@@ -42,6 +42,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [reduce per-slot state replays on low-participation networks (#7072)](https://github.com/status-im/nimbus-eth2/commit/c1f0880b7733bf3e4b15466be1cedd08de1a5ad7) - 2025-04-14
 * [Pull Request] [reduce per-slot state replays on low-participation networks](https://github.com/status-im/nimbus-eth2/pull/7072) - 2025-04-14
 * [Commit] [simplify column quarantine check (#7076)](https://github.com/status-im/nimbus-eth2/commit/9e68503aa6a06867e84cc46fa1a14adc2ff318c3) - 2025-04-16
+* [Commit] [simplify column quarantine check (#7076)](https://github.com/status-im/nimbus-eth2/commit/9e68503aa6a06867e84cc46fa1a14adc2ff318c3) - 2025-04-17
+* [Commit] [update block processing (#7079)](https://github.com/status-im/nimbus-eth2/commit/8fc196ee7f55a215eb7abf521b712af428a3ac3b) - 2025-04-17
+* [Commit] [reorder checks (#7078)](https://github.com/status-im/nimbus-eth2/commit/5b7a8ba97ac5344aad9bdaf5633c22b7c69f84fe) - 2025-04-17
+* [Pull Request] [update block processing](https://github.com/status-im/nimbus-eth2/pull/7079) - 2025-04-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

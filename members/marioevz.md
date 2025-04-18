@@ -47,6 +47,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [refactor(tests): Rename stack height constants](https://github.com/ethereum/execution-spec-tests/commit/e0cd6da30255e19ca166878b4591a4497f40957c) - 2025-04-16
 * [Issue] [feat(forks): Implement `transition_time` method](https://github.com/ethereum/execution-spec-tests/issues/1472) - 2025-04-16
 * [Commit] [new(tests): EIP-7251: add modified consolidation contract test cases (#1465)](https://github.com/ethereum/execution-spec-tests/commit/297322fa1f9c8dcdfc1e6fd3a4b6f6eb0c7b1613) - 2025-04-16
+* [Commit] [fix(github): Remove `vars` usage in build-fixtures (#1479)](https://github.com/ethereum/execution-spec-tests/commit/a4d313ad07e1a181ca6f7dbfcd78ffca9d3b3f5e) - 2025-04-17
+* [Pull Request] [fix(github): Remove `vars` usage in build-fixtures](https://github.com/ethereum/execution-spec-tests/pull/1479) - 2025-04-17
+* [Commit] [fix(tests,fw): Remove EIP-7698 EOF creation txs (#1451)](https://github.com/ethereum/execution-spec-tests/commit/d2b5148a1a0eb4ffb113902d8305dd136e041ac1) - 2025-04-17
+* [Issue] [Fix failing EOF test `test_legacy_create_tx_eof_initcode`](https://github.com/ethereum/execution-spec-tests/issues/1478) - 2025-04-17
+* [Commit] [feat(consume): add `ExceptionMapper` support to the consume-engine simulator (#1416)](https://github.com/ethereum/execution-spec-tests/commit/cb4ccde43a26698a3e7c58be1bc11839999f8249) - 2025-04-17
+* [Commit] [fix(clis/reth): Exception mapper](https://github.com/ethereum/execution-spec-tests/commit/0d9d8b5b90dbf9067494edf77e5f09a614b7cf16) - 2025-04-17
+* [Commit] [refactor(consume/engine): Better error logging](https://github.com/ethereum/execution-spec-tests/commit/f6b1d9f0e104ac967ad8fb26f5c471ee517341d7) - 2025-04-17
+* [Issue] [Refactor Exception Mapper to disallow duplicated Keys](https://github.com/ethereum/execution-spec-tests/issues/1477) - 2025-04-17
+* [Commit] [new(tests): EOF validation stack_range maximally broad (#1457)](https://github.com/ethereum/execution-spec-tests/commit/074dbc0bce18e197d2a5a5a28c8390ea258f7d15) - 2025-04-17
+* [Commit] [feat(exceptions,clis): Add system contract failures](https://github.com/ethereum/execution-spec-tests/commit/15744342f5e05d91e2b4bc2ef0d0a703fdaf34cd) - 2025-04-17
+* [Commit] [feat(tests): EIP-6110 `DepositEvent` layout+topic tests (#1371)](https://github.com/ethereum/execution-spec-tests/commit/275740885f2d5f9b7074b6853dd05eccbb1920b9) - 2025-04-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

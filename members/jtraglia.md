@@ -29,6 +29,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [Remove placeholder MAX_BLOBS_PER_BLOCK_FULU](https://github.com/ethereum/consensus-specs/issues/4266) - 2025-04-13
 * [Commit] [Allow skipping verification for blobs from EL (#4262)](https://github.com/ethereum/consensus-specs/commit/8e92b52369fe66b01a8096dc2fb24835885dd494) - 2025-04-15
 * [Issue] [Implement some form of mutation testing](https://github.com/ethereum/consensus-specs/issues/4274) - 2025-04-15
+* [Commit] [Move IL committee domain to constant (#4276)](https://github.com/ethereum/consensus-specs/commit/e13c58d59da21d12f3e5bda8af8427afab1c0c1e) - 2025-04-17
+* [Commit] [Update config/preset files for EIP7805 (#4268)](https://github.com/ethereum/consensus-specs/commit/4f79729fa897f8cf14876035a432b07e02157b58) - 2025-04-17
+* [Commit] [EIP7805: Use MAX_TRANSACTIONS_PER_PAYLOAD for InclusionList transactions size (#4220)](https://github.com/ethereum/consensus-specs/commit/973ef41098d13988952acfd70fc8ec987473b87f) - 2025-04-17
+* [Commit] [Fix a nit](https://github.com/ethereum/consensus-specs/commit/1f90dbf2ba8e6a554f2d072cab0d618e9112491f) - 2025-04-17
+* [Commit] [Simplify a bit](https://github.com/ethereum/consensus-specs/commit/115dbfbb6b72fa5089d6a9c5b4727ab7237d3149) - 2025-04-17
+* [Commit] [Add better type hint for frozendict](https://github.com/ethereum/consensus-specs/commit/2f4215c832303a540adf1108e77206863b21c6d7) - 2025-04-17
+* [Commit] [Use frozendict so the blob schedule is hashable](https://github.com/ethereum/consensus-specs/commit/c9aa96d37522917d6d15c98240a45c22f67c2c9c) - 2025-04-17
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

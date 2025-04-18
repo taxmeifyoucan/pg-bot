@@ -20,6 +20,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: deduplicate DataAvailabilityStatus enum](https://github.com/ChainSafe/lodestar/pull/7703) - 2025-04-15
 * [Commit] [feat: peerDAS - implement distributed blob publishing (#7679)](https://github.com/ChainSafe/lodestar/commit/5cd8ace1276ea9cec3e766037eebbcbc40246e51) - 2025-04-15
 
+* [Commit] [chore: peer das lint (#7716)](https://github.com/ChainSafe/lodestar/commit/97104b75a41ef074ef86fff203917004f420bae5) - 2025-04-17
+* [Pull Request] [chore: peer das lint](https://github.com/ChainSafe/lodestar/pull/7716) - 2025-04-17
+* [Commit] [chore: fix spec and e2e tests for peerDAS (#7713)](https://github.com/ChainSafe/lodestar/commit/1bc0362e2aa9e38028fdf74be70f5e38c1d5d1d0) - 2025-04-17
+* [Commit] [feat: updated gossip checks](https://github.com/ChainSafe/lodestar/commit/5285d1bbc3dd56c809f1b671ef029d429ef91382) - 2025-04-17
+* [Commit] [feat: add engine_getBlobsV2 execution API (#7675)](https://github.com/ChainSafe/lodestar/commit/40640c9ffc8bf96cdf14b9e70ed139a5572c7e21) - 2025-04-17
+* [Commit] [chore: fix packed attestation total effective balance metric name (#7691)](https://github.com/ChainSafe/lodestar/commit/4b76d7c4923dbbb64cda268f59275f13858edbe4) - 2025-04-17
+* [Commit] [refactor: fix missed update to enum](https://github.com/ChainSafe/lodestar/commit/a09a4fa747c38259ae3be2e9eaa063286e7a7708) - 2025-04-17
+* [Commit] [refactor: update string values](https://github.com/ChainSafe/lodestar/commit/33a7bc1a723d8f557975068fbcadd5e90fd24cd3) - 2025-04-17
+* [Commit] [refactor: preData to PreData](https://github.com/ChainSafe/lodestar/commit/e94bf833ba75ce45c93ecd24aaaf927f6231bd83) - 2025-04-17
+* [Commit] [feat: track libp2p dial error (#7712)](https://github.com/ChainSafe/lodestar/commit/dce8b39b2a63414d5f92274579f099c5e7316b95) - 2025-04-17
+* [Commit] [chore: fix lints, types and unit tests in peerDAS (#7707)](https://github.com/ChainSafe/lodestar/commit/52531a3dbc7972e9ddf3c83992c82ff862d0edda) - 2025-04-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

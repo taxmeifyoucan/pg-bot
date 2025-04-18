@@ -8,6 +8,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 ## Contributions
 
+## Q2 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] [Clear changelog](https://github.com/Consensys/teku/pull/9366) - 2025-04-17
+* [Commit] [Use `URI.create(...).toURL()` removing URL constructor deprecation (#9364)](https://github.com/Consensys/teku/commit/4f92f4c07bef2d4c27c4a1866590e5b338dd2457) - 2025-04-17
+* [Issue] [[FULU] BPO for peerDAS](https://github.com/Consensys/teku/issues/9365) - 2025-04-17
+* [Pull Request] [Use `URI.create(...).toURL()` removing URL constructor deprecation](https://github.com/Consensys/teku/pull/9364) - 2025-04-17
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

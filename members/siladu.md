@@ -17,6 +17,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [Add column family filter to rocksdb x-stats subcommand (#8524)](https://github.com/hyperledger/besu/commit/9b0308886180644dbca3adca09bb89661df3d27c) - 2025-04-10
 * [Commit] [Update ephemery.json alloc and other config (#8539)](https://github.com/hyperledger/besu/commit/b783b4bd51b22889c60739be5475170a5a0921b4) - 2025-04-11
 * [Pull Request] [Update emphemery.json alloc and other config](https://github.com/hyperledger/besu/pull/8539) - 2025-04-11
+* [Pull Request] [Add performance profile](https://github.com/hyperledger/besu/pull/8560) - 2025-04-17
+* [Issue] [Update ethereum/tests to v17.0](https://github.com/hyperledger/besu/issues/8558) - 2025-04-17
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

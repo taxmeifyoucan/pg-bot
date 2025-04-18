@@ -30,6 +30,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [undo gnosis as covered by other PR](https://github.com/NethermindEth/nethermind/commit/27693c367dd7711970d901e898921728d92e4b7e) - 2025-04-09
 * [Pull Request] [Fix gas costs on bad precompile input](https://github.com/NethermindEth/nethermind/pull/8514) - 2025-04-11
 * [Commit] [use block gas limit as default for estimateGas, call. Use tx gas limit for estimation instead of header](https://github.com/NethermindEth/nethermind/commit/8af43e953384732805233183e511d704842c80df) - 2025-04-15
+* [Commit] [add new engineapi methods to test](https://github.com/NethermindEth/nethermind/commit/fd22e05cb0bd5c2e979e3086f210243e72e0ec0c) - 2025-04-17
+* [Commit] [deposit contract chainspec](https://github.com/NethermindEth/nethermind/commit/68bd5552bb9012ccc3f3541660633ebda3ee164e) - 2025-04-17
+* [Commit] [Isolated commit and hash benchmark (#8505)](https://github.com/NethermindEth/nethermind/commit/098f4f599335ae7c94524f1bc4f6dbf03b66d20d) - 2025-04-17
+* [Pull Request] [Update libp2p package](https://github.com/NethermindEth/nethermind/pull/8534) - 2025-04-17
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

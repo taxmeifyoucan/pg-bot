@@ -64,6 +64,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Support state sync events in `eth_getLogs`, set correct log indices](https://github.com/erigontech/erigon/pull/14551) - 2025-04-11
 * [Commit] [Add extra receipt to stage_custom_trace](https://github.com/erigontech/erigon/commit/e9da0a9edb36b5a1112ae485616df2be72b4309e) - 2025-04-13
 * [Commit] [r30: recent receipts persistence: to reduce RPC latency  (#14532)](https://github.com/erigontech/erigon/commit/8e60633133f355c31d8aa373bfd99a45d9c2db9f) - 2025-04-14
+* [Issue] [polygon: re-execute snapshots to generate correct indices](https://github.com/erigontech/erigon/issues/14657) - 2025-04-17
+* [Commit] [CopyHeader: don't copy hash (#14531)](https://github.com/erigontech/erigon/commit/4cce854563c07e88b53254bde93cdc396a675cd8) - 2025-04-17
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -35,6 +35,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [mv builder to execution](https://github.com/erigontech/erigon/commit/e5b139cdff3108035aec918daab521ed0e9fb463) - 2025-04-14
 * [Commit] [mv eth1 into execution](https://github.com/erigontech/erigon/commit/7e233c858bc93f926f83a97e48057c693c926f8b) - 2025-04-14
 * [Commit] [cl: use networkid from erigon-lib (#14563)](https://github.com/erigontech/erigon/commit/adaa0db9fc7cee38069cc92057f574b3ea1ce2e5) - 2025-04-14
+* [Pull Request] [tests: use go test -short instead of build tag](https://github.com/erigontech/erigon/pull/14662) - 2025-04-17
+* [Commit] [Use go test -short instead of build tag](https://github.com/erigontech/erigon/commit/7228b2fe95a0cf749ff2321280d473b4251b6632) - 2025-04-17
+* [Commit] [dir improvements: move protocol_params.go into erigon-lib (#14628)](https://github.com/erigontech/erigon/commit/f0534bac0a070b81190e8de7433ffc184cd5b617) - 2025-04-17
+* [Commit] [fix mining_test compilation](https://github.com/erigontech/erigon/commit/c2dc05f17f004c53fbb88f04ffd5c30318d2e5a2) - 2025-04-17
+* [Commit] [Enhance efficiency of attestation selection (#14624)](https://github.com/erigontech/erigon/commit/e2a090eae8a95a35f527a5c09ea97fb15d1ece2f) - 2025-04-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

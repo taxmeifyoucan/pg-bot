@@ -35,6 +35,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [simplify quarantine checking](https://github.com/status-im/nimbus-eth2/commit/25c64c9c4d0628b0c59e4d1e49936725a9f5c9a1) - 2025-04-15
 * [Commit] [fix column proposal issues](https://github.com/status-im/nimbus-eth2/commit/525dd9006ffeb442c80a2296ce425b797ed2ca65) - 2025-04-15
 * [Commit] [fix logging more](https://github.com/status-im/nimbus-eth2/commit/48936b1fd8da15c36f0cbf05aaad6e2a10095452) - 2025-04-16
+* [Commit] [add: compute_cells for getBlobsV2 (#7056)](https://github.com/status-im/nimbus-eth2/commit/c63974b6d49bf550c193d2bf583a3fa5552522ed) - 2025-04-17
+* [Pull Request] [reorder checks](https://github.com/status-im/nimbus-eth2/pull/7078) - 2025-04-17
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -15,6 +15,7 @@ Team: Geth
 * [Pull Request] [log: allow --vmodule to downgrade the log level](https://github.com/ethereum/go-ethereum/pull/31536) - 2025-04-01
 * [Pull Request] [core/state: add GetStateAndCommittedState](https://github.com/ethereum/go-ethereum/pull/31585) - 2025-04-07
 * [Pull Request] [core: don't crit on rewind during sync](https://github.com/ethereum/go-ethereum/pull/31603) - 2025-04-10
+* [Commit] [core,params: add fork readiness indicator in logs (#31340)](https://github.com/ethereum/go-ethereum/commit/13b157a461c88678cd4e15ca005e7b45d823431b) - 2025-04-17
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

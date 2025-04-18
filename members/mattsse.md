@@ -102,6 +102,12 @@ Team: Reth
 * [Pull Request] [chore: bump inspectors 0.19.1](https://github.com/paradigmxyz/reth/pull/15780) - 2025-04-16
 * [Commit] [chore: bump op alloy 0.14 (#15779)](https://github.com/paradigmxyz/reth/commit/bd9a24aa0d9a86e90e03a7c9326082bad90bdf4a) - 2025-04-16
 * [Pull Request] [chore: bump op alloy 0.14](https://github.com/paradigmxyz/reth/pull/15779) - 2025-04-16
+* [Commit] [chore: release 1.3.12 (#15797)](https://github.com/paradigmxyz/reth/commit/6f8e7258f4733279080e4bd8345ce50538a40d6e) - 2025-04-17
+* [Pull Request] [chore: release 1.3.12](https://github.com/paradigmxyz/reth/pull/15797) - 2025-04-17
+* [Pull Request] [fix: skip isthmus root validation if we dont have the parent state](https://github.com/paradigmxyz/reth/pull/15796) - 2025-04-17
+* [Issue] [Add reth_engine_rpc_new_payload_v4 to grafana](https://github.com/paradigmxyz/reth/issues/15793) - 2025-04-17
+* [Issue] [Inline from_block_with_transactions](https://github.com/paradigmxyz/reth/issues/15787) - 2025-04-17
+* [Issue] [Move BlockWriter trait from reth-provider to storage-api](https://github.com/paradigmxyz/reth/issues/15785) - 2025-04-17
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

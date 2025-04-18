@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ash
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add simple swap/dup/exchange tests](https://github.com/ethereum/execution-spec-tests/pull/1373) - 2025-04-01
 
+* [Pull Request] [fix(tests): Create transaction sarting with `0xef` is a valid tx, but should fail execution](https://github.com/ethereum/execution-spec-tests/pull/1480) - 2025-04-17
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Update pretty print indexes](https://github.com/hyperledger/besu/pull/8517) - 2025-04-03
 

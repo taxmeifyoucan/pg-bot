@@ -83,6 +83,7 @@ Team: Erigon
 * [Commit] [more truncates](https://github.com/erigontech/erigon/commit/cba7b900ecc808ef44407ab870f51ab479a2af1f) - 2025-04-14
 * [Pull Request] [Cherry-pick: Enhance efficiency of attestation selection (#14624)](https://github.com/erigontech/erigon/pull/14633) - 2025-04-16
 * [Commit] [Enhance efficiency of attestation selection (#14624)](https://github.com/erigontech/erigon/commit/e2a090eae8a95a35f527a5c09ea97fb15d1ece2f) - 2025-04-16
+* [Pull Request] [Update README.md with `allocate memory` config fix](https://github.com/erigontech/erigon/pull/14661) - 2025-04-17
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

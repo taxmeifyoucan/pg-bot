@@ -15,6 +15,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update base and op oneClick (#8460)](https://github.com/NethermindEth/nethermind/commit/32f2bcc0c38fa1b3552d52a64c39377f9e097fc9) - 2025-04-03
 * [Issue] [Return transactions back to TxPool on orphaned block](https://github.com/NethermindEth/nethermind/issues/8484) - 2025-04-08
 * [Issue] [Checkpointing block building](https://github.com/NethermindEth/nethermind/issues/8522) - 2025-04-14
+* [Commit] [Added gnosis pectra support (#8500)](https://github.com/NethermindEth/nethermind/commit/e6d98a85f536b04ad9804b3cabc97c722702133e) - 2025-04-17
+* [Commit] [Dial back JsonRpc log spam (#8497)](https://github.com/NethermindEth/nethermind/commit/0655cd061865ff95d5d231b2f93e67453bafdc7e) - 2025-04-17
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -17,6 +17,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Convert Spencer from EF Testing back to Full-Weight](https://github.com/protocolguild/documentation/commit/9d2b120461856afdff1bb79cb9848d4e3dab36ab) - 2025-04-14
 * [Commit] [Add Matilda Clerke](https://github.com/protocolguild/documentation/commit/f4aa60d7ac699c644c14ba2960ebf7fcfd5bc423) - 2025-04-15
 * [Commit] [docs(membership.md): add Matt Evans to the membership list](https://github.com/protocolguild/documentation/commit/2ef359875d2d049d927e6b09f930c2912aee0117) - 2025-04-15
+* [Commit] [adding geth contribution and updating weight to 1](https://github.com/protocolguild/documentation/commit/de735ffbc283f599e305faadfb83187b6d8f4083) - 2025-04-17
+* [Commit] [Increase Milen Filatov's (Erigon) weight to full](https://github.com/protocolguild/documentation/commit/06124041ab3b68559d9be89debefb7d5c2839780) - 2025-04-17
+* [Commit] [Add Arsenii Kulikov](https://github.com/protocolguild/documentation/commit/1d0f219bc8c662bf238f856371f7ecf4b8cfa410) - 2025-04-17
 ## Q1 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

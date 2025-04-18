@@ -30,6 +30,7 @@ Team: Grandine
 * [Pull Request] [Update consensus spec tests to v.1.5.0-beta.5](https://github.com/grandinetech/grandine/pull/173) - 2025-04-11
 * [Commit] [Update crates](https://github.com/grandinetech/grandine/commit/fdc1a19c63892da06115d6b610fa3008a8ec3a1a) - 2025-04-11
 * [Pull Request] [Don't check deposits when deposit requests transition period is finished](https://github.com/grandinetech/grandine/pull/176) - 2025-04-14
+* [Pull Request] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/180) - 2025-04-17
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

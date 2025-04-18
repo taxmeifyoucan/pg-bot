@@ -31,6 +31,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [makefile: top-level make grpc command for both erigon-lib and shutter proto gen (#14566)](https://github.com/erigontech/erigon/commit/2e6219250c19dfa7fbb1811b09393ac7f166aa62) - 2025-04-12
 * [Commit] [txnprovider/shutter: remove the need for an openzepplin git submodule (#14565)](https://github.com/erigontech/erigon/commit/6d7b980e87d90609a40ba40fdc36fa67f4431417) - 2025-04-14
 * [Commit] [Commitment: rehash code only with asserts (#14536)](https://github.com/erigontech/erigon/commit/94dd521eb41d9b2fdcc6951245a5157daa7ffe5e) - 2025-04-14
+* [Commit] [Increased log level for the test and added extra logs (#14663)](https://github.com/erigontech/erigon/commit/6aec592d0ac35db4ba150bedef9e69486d10f267) - 2025-04-17
+* [Commit] [tracers/debug: enchance debug tracer (#14660)](https://github.com/erigontech/erigon/commit/7612f95150f96ea2bbff8da69cbe63002c9e55e9) - 2025-04-17
+* [Pull Request] [tracers/debug: enchance debug tracer](https://github.com/erigontech/erigon/pull/14660) - 2025-04-17
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

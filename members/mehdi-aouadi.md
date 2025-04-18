@@ -25,6 +25,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [update network config params](https://github.com/Consensys/teku/pull/9352) - 2025-04-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add eip7805 presets](https://github.com/ethereum/consensus-specs/pull/4268) - 2025-04-14
+* [Pull Request] [move IL committee domain to constant](https://github.com/ethereum/consensus-specs/pull/4276) - 2025-04-17
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

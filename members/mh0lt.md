@@ -54,6 +54,8 @@ Team: Erigon
 * [Commit] [worker calcs](https://github.com/erigontech/erigon/commit/6e04c9c7fcb74a36a1e11b001c47307479944b90) - 2025-04-13
 * [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/27667ed3902924d5148e6a42a25713832693f767) - 2025-04-14
 * [Commit] [revert tx loop](https://github.com/erigontech/erigon/commit/d0698a11307d20a058238f5681c07f9607cf8465) - 2025-04-16
+* [Commit] [seg blocks: cleanup garbage even if nothing to merge (#14650)](https://github.com/erigontech/erigon/commit/9d0f23ae087c01e62f1941fb8ee5ea1cb8c689d1) - 2025-04-17
+* [Commit] [standardize gasused vs usedgas](https://github.com/erigontech/erigon/commit/e2b09152957cb5e94b9d7d543579bee832d1cf86) - 2025-04-17
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
