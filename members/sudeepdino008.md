@@ -60,6 +60,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [qa-tests: polygon tip-tracking with chaindata backup/restore (#14609)](https://github.com/erigontech/erigon/commit/cac7f43b96d525ea54354e5bce6162505a756a12) - 2025-04-17
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a402beb0856ed45dc801ee34cf1c81e48e90a1ad) - 2025-04-17
 * [Commit] [add test + one fix](https://github.com/erigontech/erigon/commit/d052752b2be9418d5b1fcd5c5ae96d88c4f664ee) - 2025-04-17
+* [Pull Request] [wip: aggregator for forkables](https://github.com/erigontech/erigon/pull/14671) - 2025-04-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/97cb3113ef4d7f073a15570960ce1ec9475bbe0b) - 2025-04-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0678e64bd48bdf19f4429955ad79f0d9eb51d6c9) - 2025-04-18
+* [Commit] [move stuff back to lib/state](https://github.com/erigontech/erigon/commit/55948d718fa5a51e4f9bdf37918957a728e5af68) - 2025-04-18
+* [Pull Request] [move LogStats out of erigon-lib/state module](https://github.com/erigontech/erigon/pull/14670) - 2025-04-18
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

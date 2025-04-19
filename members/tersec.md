@@ -46,6 +46,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [update block processing (#7079)](https://github.com/status-im/nimbus-eth2/commit/8fc196ee7f55a215eb7abf521b712af428a3ac3b) - 2025-04-17
 * [Commit] [reorder checks (#7078)](https://github.com/status-im/nimbus-eth2/commit/5b7a8ba97ac5344aad9bdaf5633c22b7c69f84fe) - 2025-04-17
 * [Pull Request] [update block processing](https://github.com/status-im/nimbus-eth2/pull/7079) - 2025-04-17
+* [Commit] [adapt block_sim to represent post-EIP-6110 chain (#7081)](https://github.com/status-im/nimbus-eth2/commit/8e33582edb38f1839d146bdb70da1b229b55aedb) - 2025-04-18
+* [Pull Request] [adapt block_sim to represent post-EIP-6110 chain](https://github.com/status-im/nimbus-eth2/pull/7081) - 2025-04-18
+* [Commit] [adapt block_sim to represent post-EIP-6110 chain](https://github.com/status-im/nimbus-eth2/commit/c4bdce1e788bbb86524cf43c81fcc676716b9490) - 2025-04-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

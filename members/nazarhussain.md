@@ -42,6 +42,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update the configuration](https://github.com/ChainSafe/lodestar/commit/5e7c8432933953b32dbebd74f4814038887c53fe) - 2025-04-07
 * [Commit] [Fix download spec tests for CI](https://github.com/ChainSafe/lodestar/commit/acdf943016ea2dc5116a2d438ec69620b2e5308e) - 2025-04-07
 * [Commit] [Fix browser config path](https://github.com/ChainSafe/lodestar/commit/b49e1dabfcff47667d70c232303c2840087cdd09) - 2025-04-08
+* [Pull Request] [feat: parallelize block building steps to reduce the block production time](https://github.com/ChainSafe/lodestar/pull/7726) - 2025-04-18
+* [Commit] [Use dispatch table for exhaustive scenarios](https://github.com/ChainSafe/lodestar/commit/ae261a43024f3a3dc961baa21792f5a42703966c) - 2025-04-18
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

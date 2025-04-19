@@ -8,6 +8,12 @@ Team: Portal Network (EF)
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
+* [Commit] [Update github actions versions due to deprecation (#392)](https://github.com/ethereum/portal-network-specs/commit/ffc01f500d3b71b512707a32d5c254b97eebafc1) - 2025-04-18
+* [Commit] [fixed dead broken links in `portal-wire-protocol.md` (#391)](https://github.com/ethereum/portal-network-specs/commit/e4cce2e016f89cc6730ec49317b3d624dbd8aea7) - 2025-04-18
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

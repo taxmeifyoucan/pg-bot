@@ -108,6 +108,11 @@ Team: Reth
 * [Issue] [Add reth_engine_rpc_new_payload_v4 to grafana](https://github.com/paradigmxyz/reth/issues/15793) - 2025-04-17
 * [Issue] [Inline from_block_with_transactions](https://github.com/paradigmxyz/reth/issues/15787) - 2025-04-17
 * [Issue] [Move BlockWriter trait from reth-provider to storage-api](https://github.com/paradigmxyz/reth/issues/15785) - 2025-04-17
+* [Commit] [clean](https://github.com/paradigmxyz/reth/commit/ef1fe8bdc0504256e366f69c70b6766a93475221) - 2025-04-18
+* [Pull Request] [chore: improve etherscan debug error reporting](https://github.com/paradigmxyz/reth/pull/15811) - 2025-04-18
+* [Issue] [Remove TransitionConfigurationExchanged event variant](https://github.com/paradigmxyz/reth/issues/15807) - 2025-04-18
+* [Commit] [Update crates/ethereum/consensus/src/lib.rs](https://github.com/paradigmxyz/reth/commit/9843b9e9954fc6109c8ebc4af6dc3d8fdf47c14b) - 2025-04-18
+* [Issue] [Deprecate exchangeTransitionConfigurationV1](https://github.com/paradigmxyz/reth/issues/15801) - 2025-04-18
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

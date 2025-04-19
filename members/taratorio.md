@@ -34,6 +34,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Increased log level for the test and added extra logs (#14663)](https://github.com/erigontech/erigon/commit/6aec592d0ac35db4ba150bedef9e69486d10f267) - 2025-04-17
 * [Commit] [tracers/debug: enchance debug tracer (#14660)](https://github.com/erigontech/erigon/commit/7612f95150f96ea2bbff8da69cbe63002c9e55e9) - 2025-04-17
 * [Pull Request] [tracers/debug: enchance debug tracer](https://github.com/erigontech/erigon/pull/14660) - 2025-04-17
+* [Pull Request] [core/vm: implement eip-7610 has storage check on create](https://github.com/erigontech/erigon/pull/14672) - 2025-04-18
+* [Commit] [shutter: move cfg to dedicated `shuttercfg` package (#14668)](https://github.com/erigontech/erigon/commit/2b3d2fb5813c6e8c533dfac4f881e93b03bdce8d) - 2025-04-18
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

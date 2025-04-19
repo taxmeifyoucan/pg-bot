@@ -20,6 +20,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: use map to keep track of withdrawn amount of each validator (#7715)](https://github.com/ChainSafe/lodestar/commit/65aa07f5ca35102247937cb5e16623fe1fb0d513) - 2025-04-17
 * [Commit] [lint](https://github.com/ChainSafe/lodestar/commit/c40c0c18fe54a91725001acf45c1f81e144cf0bd) - 2025-04-17
 * [Pull Request] [refactor: decouple pre and post deneb calculation in verifyPropagationSlotRange](https://github.com/ChainSafe/lodestar/pull/7711) - 2025-04-17
+* [Pull Request] [feat: impelment BPO EIP-7892](https://github.com/ChainSafe/lodestar/pull/7729) - 2025-04-19
+* [Commit] [feat: add BPO](https://github.com/ChainSafe/lodestar/commit/3016059323d9b9331cd8972dcd571e26b29524f8) - 2025-04-19
+* [Commit] [Update IL schedule time](https://github.com/ChainSafe/lodestar/commit/e5d490c1da6f06dc598697a0733eb7e0423cde7b) - 2025-04-18
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

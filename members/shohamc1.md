@@ -66,6 +66,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [r30: recent receipts persistence: to reduce RPC latency  (#14532)](https://github.com/erigontech/erigon/commit/8e60633133f355c31d8aa373bfd99a45d9c2db9f) - 2025-04-14
 * [Issue] [polygon: re-execute snapshots to generate correct indices](https://github.com/erigontech/erigon/issues/14657) - 2025-04-17
 * [Commit] [CopyHeader: don't copy hash (#14531)](https://github.com/erigontech/erigon/commit/4cce854563c07e88b53254bde93cdc396a675cd8) - 2025-04-17
+* [Commit] [Fix test](https://github.com/erigontech/erigon/commit/c9470cf453dd476ec733c9c58ef5a3cc7a7c5f7e) - 2025-04-18
+* [Commit] [historical re-exec: re-used EliasFano object (#14625)](https://github.com/erigontech/erigon/commit/4cb985b621b6f4e3f788fd064b4cc4a8120b8d3f) - 2025-04-18
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

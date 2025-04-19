@@ -56,6 +56,13 @@ Team: Erigon
 * [Commit] [revert tx loop](https://github.com/erigontech/erigon/commit/d0698a11307d20a058238f5681c07f9607cf8465) - 2025-04-16
 * [Commit] [seg blocks: cleanup garbage even if nothing to merge (#14650)](https://github.com/erigontech/erigon/commit/9d0f23ae087c01e62f1941fb8ee5ea1cb8c689d1) - 2025-04-17
 * [Commit] [standardize gasused vs usedgas](https://github.com/erigontech/erigon/commit/e2b09152957cb5e94b9d7d543579bee832d1cf86) - 2025-04-17
+* [Commit] [add header deps](https://github.com/erigontech/erigon/commit/2fff254a282d70861ab22c40822afbb1018b893b) - 2025-04-18
+* [Commit] [add header deps](https://github.com/erigontech/erigon/commit/b18cab718486ab73f323f58914c72c837fc27ae3) - 2025-04-18
+* [Commit] [metrics rationalization](https://github.com/erigontech/erigon/commit/f81d7697c81591a33fdac9a53f365b57fa3a61bb) - 2025-04-18
+* [Commit] [metrics rationalization](https://github.com/erigontech/erigon/commit/280eb3d524c3277f75cb4a02c56628294f300450) - 2025-04-18
+* [Commit] [metrics rationalization](https://github.com/erigontech/erigon/commit/17b33a8e71789dd03d79c24eec94ce8a82ce6863) - 2025-04-18
+* [Commit] [metrics rationalization](https://github.com/erigontech/erigon/commit/5802bb3d9519fed1693cbd3babbd8bc958c63f40) - 2025-04-18
+* [Commit] [tidy gas rate testing vars](https://github.com/erigontech/erigon/commit/ff26a51d83206b772dcf3c7180d830c86c488200) - 2025-04-18
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

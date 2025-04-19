@@ -20,6 +20,12 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [adding geth contribution and updating weight to 1](https://github.com/protocolguild/documentation/commit/de735ffbc283f599e305faadfb83187b6d8f4083) - 2025-04-17
 * [Commit] [Increase Milen Filatov's (Erigon) weight to full](https://github.com/protocolguild/documentation/commit/06124041ab3b68559d9be89debefb7d5c2839780) - 2025-04-17
 * [Commit] [Add Arsenii Kulikov](https://github.com/protocolguild/documentation/commit/1d0f219bc8c662bf238f856371f7ecf4b8cfa410) - 2025-04-17
+* [Commit] [Update 02-membership.md](https://github.com/protocolguild/documentation/commit/784fd2b996bcc22deedbde6767ebac0345c98a64) - 2025-04-18
+* [Commit] [Remove joshie (reth)](https://github.com/protocolguild/documentation/commit/cde4b3f88a14846054c8eba0792508c84a84c380) - 2025-04-18
+* [Commit] [Changed Hangleang's multiplier to 1](https://github.com/protocolguild/documentation/commit/b23899cfc35c7784cff1a97a5a21fcfba5f20cec) - 2025-04-18
+* [Commit] [add Kanchan partial weight](https://github.com/protocolguild/documentation/commit/44fbaeb525bdf8af43085b62fc526603380deb7f) - 2025-04-18
+* [Commit] [add Andri Lim](https://github.com/protocolguild/documentation/commit/d57b85c30b04edc7cbc43fc3ef0b3dba1ab2dbc7) - 2025-04-18
+* [Commit] [add Advaita Saha](https://github.com/protocolguild/documentation/commit/8c3d2f75b9afdc43419c8bce22a60870a2f43448) - 2025-04-18
 ## Q1 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

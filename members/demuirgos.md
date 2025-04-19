@@ -23,6 +23,7 @@ Team: Nethermind
 * [Commit] [add more tests, fix PREVRANDAO](https://github.com/NethermindEth/nethermind/commit/01d8324e8f6765b26990c937992653f6d33fe31b) - 2025-04-08
 * [Commit] [Hot wire config for testing](https://github.com/NethermindEth/nethermind/commit/55386cc4dbd99e4e9571b72d2665cc8529411c1e) - 2025-04-17
 * [Commit] [+ add DLL persistence](https://github.com/NethermindEth/nethermind/commit/4404ec65024357657571cb1a61242a9378476b60) - 2025-04-17
+* [Commit] [prepare for testing](https://github.com/NethermindEth/nethermind/commit/8e01de252f2859b951d0ac633fce4894b0d2fa54) - 2025-04-18
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

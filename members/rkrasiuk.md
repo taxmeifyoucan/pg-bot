@@ -24,5 +24,16 @@ Team: Reth
 * [Commit] [hide](https://github.com/paradigmxyz/reth/commit/af5ef31af9f4b2c22eb78ad081b7dea46947d80e) - 2025-04-11
 
 * [Pull Request] [Revert "feat: add precompile cache for execution"](https://github.com/paradigmxyz/reth/pull/15791) - 2025-04-17
+* [Commit] [anotha one](https://github.com/paradigmxyz/reth/commit/6ad2d54e74e91713f1509867565df6d49ca0723e) - 2025-04-18
+* [Commit] [fix import](https://github.com/paradigmxyz/reth/commit/bdc57e2f6ebb5e4e8af18a0633a58a68d76462f8) - 2025-04-18
+* [Commit] [hopefully last one](https://github.com/paradigmxyz/reth/commit/8b0e3035fcb99f3d2a2e193a656491442f3c5c35) - 2025-04-18
+* [Commit] [make fn const](https://github.com/paradigmxyz/reth/commit/2123358a8fe6286a39533c8597b23f5fd5d3efab) - 2025-04-18
+* [Commit] [address pr comment](https://github.com/paradigmxyz/reth/commit/330d5fc22de52a991bf7e237bcb008c7cecdd89b) - 2025-04-18
+* [Commit] [rm more unused imports](https://github.com/paradigmxyz/reth/commit/e833d8e001dd1c8a8c3d91807feb0611e6106b2b) - 2025-04-18
+* [Commit] [rm unused import](https://github.com/paradigmxyz/reth/commit/0cba00d7005f979cb70df7e3ae19a122fcaf7747) - 2025-04-18
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/377d138dff8c9db3217690553ebba2e4f57bf94f) - 2025-04-18
+* [Commit] [chore(trie): make `RevealedNode` usable externally (#15691)](https://github.com/paradigmxyz/reth/commit/e8c4c623b02459cdde93fd6409f7cfef4a766e23) - 2025-04-18
+* [Commit] [chore: alloy 0.14 (#15635)](https://github.com/paradigmxyz/reth/commit/58fe204ff2abae6b1ef63edfcf2cf30e8bf8dd8d) - 2025-04-18
+* [Commit] [feat(era): add `Era1Writer` (#15577)](https://github.com/paradigmxyz/reth/commit/16027eace8fb381b47aa382f3c4e4b744cea2019) - 2025-04-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16

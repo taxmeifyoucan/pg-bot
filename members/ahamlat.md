@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Review precompiles benchmarks to display mgas/s (#8495)](https://github.com/hyperledger/besu/commit/506a32ce7dc1a9ac64ae2083f43498c2bb867eb7) - 2025-04-04
 * [Pull Request] [Improve performance of LayeredKeyValueStorage.get method](https://github.com/hyperledger/besu/pull/8563) - 2025-04-17
+* [Commit] [Improve performance of LayeredKeyValueStorage.get method (#8563)](https://github.com/hyperledger/besu/commit/b6390a347b9287ed902a8bdf5f539e1d14fa5f26) - 2025-04-18
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

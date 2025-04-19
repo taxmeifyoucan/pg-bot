@@ -31,6 +31,10 @@ Team: Grandine
 * [Commit] [Update crates](https://github.com/grandinetech/grandine/commit/fdc1a19c63892da06115d6b610fa3008a8ec3a1a) - 2025-04-11
 * [Pull Request] [Don't check deposits when deposit requests transition period is finished](https://github.com/grandinetech/grandine/pull/176) - 2025-04-14
 * [Pull Request] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/180) - 2025-04-17
+* [Commit] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/2999613ea6b8ef840eff48edc29f2dbc1ceccbff) - 2025-04-18
+* [Commit] [Move verbose deposit warning from deposit downloader to debug log](https://github.com/grandinetech/grandine/commit/948fc572d1c70dbb2468d6be3cfcd5cdfa127213) - 2025-04-18
+* [Pull Request] [Move verbose deposit warning from deposit downloader to debug log](https://github.com/grandinetech/grandine/pull/186) - 2025-04-18
+* [Commit] [Update crates](https://github.com/grandinetech/grandine/commit/c89bc3fd9744f1eaf3ba90afea94c95802f92efd) - 2025-04-18
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

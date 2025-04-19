@@ -28,6 +28,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(tests): small additional eip2935 transition fork edge cases](https://github.com/ethereum/execution-spec-tests/pull/1450) - 2025-04-15
 * [Pull Request] [chore(tests): remove pytest skips from eip7251/7685 cases](https://github.com/ethereum/execution-spec-tests/pull/1449) - 2025-04-15
 * [Pull Request] [chore(docs): update readme contribution section](https://github.com/ethereum/execution-spec-tests/pull/1459) - 2025-04-16
+* [Commit] [fix(specs/eof): Exception mapping fix (#1481)](https://github.com/ethereum/execution-spec-tests/commit/f330aac4ae776ebbbca6005bcfdabbb6b04cf76b) - 2025-04-18
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

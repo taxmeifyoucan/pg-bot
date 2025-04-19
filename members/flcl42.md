@@ -19,6 +19,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Apply a specific block during FCU](https://github.com/NethermindEth/nethermind/commit/730997e99b1442d136bce4c57e9b49a316a76243) - 2025-04-15
 * [Commit] [Apply a specific block during FCU](https://github.com/NethermindEth/nethermind/commit/9b28a8c3523155cde808498ae680138b045fab1f) - 2025-04-15
 * [Commit] [Rename proof versions for less confusion](https://github.com/NethermindEth/nethermind/commit/51d4c7306ffe09cde9704bf723632b8a271f7359) - 2025-04-17
+* [Commit] [Clean up](https://github.com/NethermindEth/nethermind/commit/6be47786e0619ee4641f100de780bd5621d39d96) - 2025-04-18
+* [Commit] [Simplify proof version checkers](https://github.com/NethermindEth/nethermind/commit/b8044b2c1447a6c4ed22c7dfb5942219beee3b09) - 2025-04-18
+* [Commit] [Flatten blobs to reduce allocations and copies](https://github.com/NethermindEth/nethermind/commit/32debb939994653a1b65b0a2bcf9add7d1d14bb5) - 2025-04-18
+* [Pull Request] [Flatten blobs to reduce allocations and copies](https://github.com/NethermindEth/nethermind/pull/8536) - 2025-04-18
+* [Commit] [One does not simply rename an enum value](https://github.com/NethermindEth/nethermind/commit/6bb204043d7f555aeec89288eba272cadfed2c59) - 2025-04-18
+* [Commit] [One does not simply rename an enum value](https://github.com/NethermindEth/nethermind/commit/397919f58801fa3b8ab7700f5e4082dfa6680499) - 2025-04-18
+* [Commit] [Fix naming change](https://github.com/NethermindEth/nethermind/commit/a3955e2844a8490fdaa54a6f96634ac0f9a48bd3) - 2025-04-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 ## Q1 2025

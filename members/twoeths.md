@@ -52,6 +52,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: no peer expiry from peerstore (#7708)](https://github.com/ChainSafe/lodestar/commit/a167888f80a41bf5f8157fb9b3642e7818971088) - 2025-04-17
 * [Commit] [chore: add comment to reference the libp2p peer data expiry PR](https://github.com/ChainSafe/lodestar/commit/4033d451b800f44f6a8a4f8698a9694f7fe2e4dc) - 2025-04-17
 * [Commit] [fix: donot expire peer store data](https://github.com/ChainSafe/lodestar/commit/d0d2f9df474eee07d8866309ff31af90c589fedc) - 2025-04-17
+* [Commit] [fix: linting](https://github.com/ChainSafe/lodestar/commit/6ebe0c4db2781283984d0b62433bdd2cab0835ad) - 2025-04-18
+* [Pull Request] [fix: peer count per sampling group](https://github.com/ChainSafe/lodestar/pull/7721) - 2025-04-18
+* [Pull Request] [fix: handle empty partial download - peerDAS](https://github.com/ChainSafe/lodestar/pull/7720) - 2025-04-18
+* [Commit] [fix: nullify partial download if no blocks](https://github.com/ChainSafe/lodestar/commit/055f43bbad1c620ca7c870f4a5fb956a1ce1d40b) - 2025-04-18
+* [Commit] [fix: update types in unstable PR (#7718)](https://github.com/ChainSafe/lodestar/commit/041402abacc15a253bf5eb339dad4a64a120307b) - 2025-04-18
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

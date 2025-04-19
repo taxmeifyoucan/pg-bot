@@ -26,6 +26,7 @@ Team: Reth
 * [Commit] [test](https://github.com/paradigmxyz/reth/commit/37fae997dc2c47da43da3428c3eb64bed84d8d2a) - 2025-04-10
 * [Commit] [reorder, more comments](https://github.com/paradigmxyz/reth/commit/65cebe921c8a9e526c6dd945f9766f856af74f86) - 2025-04-11
 * [Commit] [chore: double check blob gas in header standalone (#15672)](https://github.com/paradigmxyz/reth/commit/3346f5b7fdd5d7a3dd68fe64d3b6c7b8f761d0b9) - 2025-04-14
+* [Issue] [Dynamic cross-block cache size](https://github.com/paradigmxyz/reth/issues/15802) - 2025-04-18
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

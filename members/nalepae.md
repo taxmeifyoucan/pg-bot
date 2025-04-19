@@ -45,6 +45,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [PeerDAS: Add needed proto files and corresponding generated code.](https://github.com/OffchainLabs/prysm/pull/15187) - 2025-04-17
 * [Commit] [`.bazelrc`: Add `build --compilation_mode=opt`](https://github.com/OffchainLabs/prysm/commit/e4544caaac386781608f7a79c4e0325b0705d40f) - 2025-04-17
 * [Pull Request] [Implement all needed KZG wrappers for peerDAS in the `kzg` package.](https://github.com/OffchainLabs/prysm/pull/15186) - 2025-04-17
+* [Commit] [Add changelog.](https://github.com/OffchainLabs/prysm/commit/278c13dbd1482ca1895ad557f9ec35664ccc5410) - 2025-04-18
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

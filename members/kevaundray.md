@@ -23,6 +23,10 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore: add more docs to SparseTrie](https://github.com/paradigmxyz/reth/pull/15750) - 2025-04-15
 * [Pull Request] [chore: Make `reth-errors` crate `no_std` compatible](https://github.com/paradigmxyz/reth/pull/15790) - 2025-04-17
 * [Pull Request] [chore: Make `SparseTrie` crate `no_std` compatible](https://github.com/paradigmxyz/reth/pull/15786) - 2025-04-17
+* [Pull Request] [chore(DONOTMERGE): try update crunchy](https://github.com/paradigmxyz/reth/pull/15812) - 2025-04-18
+* [Pull Request] [chore: Update execution spec tests to v17.0](https://github.com/paradigmxyz/reth/pull/15809) - 2025-04-18
+* [Pull Request] [chore: Explicitly check for failure on expected blocks in ef-tests](https://github.com/paradigmxyz/reth/pull/15803) - 2025-04-18
+* [Pull Request] [fix: Check for the maximum allowed gas limit in the block](https://github.com/paradigmxyz/reth/pull/15800) - 2025-04-18
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

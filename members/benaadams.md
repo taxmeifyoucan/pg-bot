@@ -110,6 +110,22 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Annotate more txs](https://github.com/NethermindEth/nethermind/commit/dc100e129e4159fe335ae75c2bbe97429d979ae1) - 2025-04-14
 * [Commit] [Add Eof Execution EIP-7692 (EIP-663, EIP-3540, EIP-3670, EIP-4200, EIP-4750, EIP-5450, EIP-6206, EIP-7069, EIP-7480, EIP-7620, EIP-7698, EIP-7756) (#8176)](https://github.com/NethermindEth/nethermind/commit/2782ac7ac3b6be1c33e964838c404bdb14b2909b) - 2025-04-15
 * [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/dd4a1e9304b1b8b8e3159779ddba8a0b1b0886b6) - 2025-04-15
+* [Commit] [revert](https://github.com/NethermindEth/nethermind/commit/bf3842358a823819def9fe11193ffe5e2d3a4185) - 2025-04-18
+* [Commit] [Revert "Code changes for tracing"](https://github.com/NethermindEth/nethermind/commit/18267edd81174c51fa52db089ab6269c1891e9e6) - 2025-04-18
+* [Commit] [Code changes for tracing](https://github.com/NethermindEth/nethermind/commit/c7a1149d2a990f8d1280626ea12716850703ea15) - 2025-04-18
+* [Commit] [Better naming](https://github.com/NethermindEth/nethermind/commit/4dcbfb95d8077caa836a10726f8fd2f0e2710cbc) - 2025-04-18
+* [Pull Request] [CodeDB writes in a batch](https://github.com/NethermindEth/nethermind/pull/8527) - 2025-04-18
+* [Commit] [Added gnosis pectra support (#8500)](https://github.com/NethermindEth/nethermind/commit/e6d98a85f536b04ad9804b3cabc97c722702133e) - 2025-04-18
+* [Commit] [Move to method](https://github.com/NethermindEth/nethermind/commit/e670b16be78bed0d24134bbdcecaf1430041a36e) - 2025-04-18
+* [Commit] [Feature/better dicovery metrics (#8531)](https://github.com/NethermindEth/nethermind/commit/bf2bf5125998b505a48ccefd83451602f69a3f96) - 2025-04-18
+* [Commit] [nullable](https://github.com/NethermindEth/nethermind/commit/e788cc7eee7c5caa1153f75f3a412b5aecdc4dbe) - 2025-04-18
+* [Commit] [Clear not null](https://github.com/NethermindEth/nethermind/commit/fee4f19fbeed50974df6629e3f0fa639d1fd2ce2) - 2025-04-18
+* [Commit] [Contract rewrites](https://github.com/NethermindEth/nethermind/commit/dfac1dfa4b6af5dabbe53a57483c3d7b41d8c3f0) - 2025-04-18
+* [Commit] [Resolve TODO](https://github.com/NethermindEth/nethermind/commit/ed6745ee1fb0e9bc2506d0c2eec2ba8fd1f3b0b4) - 2025-04-18
+* [Commit] [Don't start cancellation as null](https://github.com/NethermindEth/nethermind/commit/dfa49587d5c9446480fa6ab57223841ba20139e9) - 2025-04-18
+* [Commit] [Better cancellation](https://github.com/NethermindEth/nethermind/commit/2331e18db7e5d42be5d2b92d8c361b40be219fa0) - 2025-04-18
+* [Commit] [Add BlockchainProcessor to disposables](https://github.com/NethermindEth/nethermind/commit/f903c7751cd83a6adff8ef1e133666b63b4b4c30) - 2025-04-18
+* [Commit] [Don't reset on rollbacks](https://github.com/NethermindEth/nethermind/commit/ffdce3d2fdfa2926c9dc3624135b40f936c661aa) - 2025-04-18
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

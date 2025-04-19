@@ -27,6 +27,8 @@ Team: Grandine
 * [Pull Request] [Update rust version to 1.86.0](https://github.com/grandinetech/grandine/pull/172) - 2025-04-11
 * [Pull Request] [Check next slot state proposer index in registered validators list to see if it needs to prepare execution payload for next slot block proposal](https://github.com/grandinetech/grandine/pull/185) - 2025-04-17
 * [Pull Request] [Delay blobs until state](https://github.com/grandinetech/grandine/pull/183) - 2025-04-17
+* [Commit] [Check next slot state proposer index in registered validators list to see if it needs to prepare execution payload for next slot block proposal](https://github.com/grandinetech/grandine/commit/e1af742face1a7af68fbcb8ed1845d7ade27e953) - 2025-04-18
+* [Commit] [Delay blobs until state is ready if state cannot be generated cheaply during blob validation](https://github.com/grandinetech/grandine/commit/f6d472f38b7f0229b552f91f584e7c64b64ea068) - 2025-04-18
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

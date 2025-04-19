@@ -53,6 +53,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [update comment](https://github.com/OffchainLabs/prysm/commit/e07da541ac80a28b7fe84b4ff436622cff92b046) - 2025-04-17
 * [Pull Request] [fix expected withdrawal underflow](https://github.com/OffchainLabs/prysm/pull/15191) - 2025-04-17
 * [Commit] [update comment](https://github.com/OffchainLabs/prysm/commit/dde45d628190fde6887f73209caf7b35ef55e0a4) - 2025-04-17
+* [Commit] [small changes for readability](https://github.com/OffchainLabs/prysm/commit/63c438c8dc4fc2dd5f80a89f66d8ed118ee62972) - 2025-04-18
+* [Commit] [adding in retry logic for init](https://github.com/OffchainLabs/prysm/commit/83e6f5f351ec8e05e1f1b40138429114bf720a72) - 2025-04-18
+* [Commit] [more init improvements](https://github.com/OffchainLabs/prysm/commit/ca0c541d133f4694f2855c04305f68cc9367058f) - 2025-04-18
+* [Commit] [Upgrade to fulu: Fix and add spectests (#15190)](https://github.com/OffchainLabs/prysm/commit/167f719860547520be79e3141b60fdbd53253089) - 2025-04-18
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -37,6 +37,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix logging more](https://github.com/status-im/nimbus-eth2/commit/48936b1fd8da15c36f0cbf05aaad6e2a10095452) - 2025-04-16
 * [Commit] [add: compute_cells for getBlobsV2 (#7056)](https://github.com/status-im/nimbus-eth2/commit/c63974b6d49bf550c193d2bf583a3fa5552522ed) - 2025-04-17
 * [Pull Request] [reorder checks](https://github.com/status-im/nimbus-eth2/pull/7078) - 2025-04-17
+* [Commit] [fix](https://github.com/status-im/nimbus-eth2/commit/5bde140c5bae8e1e3f64cfecaec3eedc653ab4bb) - 2025-04-18
+* [Commit] [some more logging fixes](https://github.com/status-im/nimbus-eth2/commit/baae6527e17639ac94bd78dd37d690808320b9fd) - 2025-04-18
+* [Commit] [update block processing (#7079)](https://github.com/status-im/nimbus-eth2/commit/8fc196ee7f55a215eb7abf521b712af428a3ac3b) - 2025-04-18
+* [Commit] [fix quarantine](https://github.com/status-im/nimbus-eth2/commit/47820de0b095536a8195d059f5c1d58b3d6ddc32) - 2025-04-18
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -46,6 +46,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: use map to keep track of withdrawn amount of each validator](https://github.com/ChainSafe/lodestar/pull/7715) - 2025-04-17
 * [Pull Request] [chore: refactor withdrawal logic](https://github.com/ChainSafe/lodestar/pull/7714) - 2025-04-17
 * [Commit] [refactor: decouple pre and post deneb calculation in verifyPropagationSlotRange (#7711)](https://github.com/ChainSafe/lodestar/commit/713062c1070ab1a6234d4203f3d86b37cad26356) - 2025-04-17
+* [Commit] [chore(deps): bump fastify from 5.2.1 to 5.3.2 (#7725)](https://github.com/ChainSafe/lodestar/commit/8e915fe6fcd77d4e92a4905e57e0cb5fdff99f20) - 2025-04-19
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
