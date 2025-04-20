@@ -113,6 +113,9 @@ Team: Reth
 * [Issue] [Remove TransitionConfigurationExchanged event variant](https://github.com/paradigmxyz/reth/issues/15807) - 2025-04-18
 * [Commit] [Update crates/ethereum/consensus/src/lib.rs](https://github.com/paradigmxyz/reth/commit/9843b9e9954fc6109c8ebc4af6dc3d8fdf47c14b) - 2025-04-18
 * [Issue] [Deprecate exchangeTransitionConfigurationV1](https://github.com/paradigmxyz/reth/issues/15801) - 2025-04-18
+* [Issue] [Simplify HeaderSyncGapProvider trait](https://github.com/paradigmxyz/reth/issues/15818) - 2025-04-19
+* [Pull Request] [docs: some docs on sync gap channel](https://github.com/paradigmxyz/reth/pull/15817) - 2025-04-19
+* [Commit] [chore: improve etherscan debug error reporting (#15811)](https://github.com/paradigmxyz/reth/commit/2ad858c6ef79fd3302db7f4d84164ce3627fbb90) - 2025-04-19
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

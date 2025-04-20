@@ -27,6 +27,11 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore: Update execution spec tests to v17.0](https://github.com/paradigmxyz/reth/pull/15809) - 2025-04-18
 * [Pull Request] [chore: Explicitly check for failure on expected blocks in ef-tests](https://github.com/paradigmxyz/reth/pull/15803) - 2025-04-18
 * [Pull Request] [fix: Check for the maximum allowed gas limit in the block](https://github.com/paradigmxyz/reth/pull/15800) - 2025-04-18
+* [Pull Request] [fix: Make `reth-evm-ethereum` turn off default-features in top level Cargo.toml](https://github.com/paradigmxyz/reth/pull/15825) - 2025-04-19
+* [Pull Request] [chore: Add `reth-primitives` to `no-std` CI checks](https://github.com/paradigmxyz/reth/pull/15823) - 2025-04-19
+* [Pull Request] [chore: Add `reth-revm` to `no_std` CI checks](https://github.com/paradigmxyz/reth/pull/15822) - 2025-04-19
+* [Pull Request] [chore: Make `reth-ethereum-consensus` no_std compatible](https://github.com/paradigmxyz/reth/pull/15821) - 2025-04-19
+* [Pull Request] [chore: add `reth-errors` to no-std checks](https://github.com/paradigmxyz/reth/pull/15815) - 2025-04-19
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

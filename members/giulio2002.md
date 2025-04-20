@@ -85,6 +85,19 @@ Team: Erigon
 * [Commit] [Enhance efficiency of attestation selection (#14624)](https://github.com/erigontech/erigon/commit/e2a090eae8a95a35f527a5c09ea97fb15d1ece2f) - 2025-04-16
 * [Pull Request] [Update README.md with `allocate memory` config fix](https://github.com/erigontech/erigon/pull/14661) - 2025-04-17
 * [Commit] [Update README.md with `allocate memory` config fix (#14661)](https://github.com/erigontech/erigon/commit/5aa891e3b15dc6b2fbb5576608d89f8745654cfa) - 2025-04-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/629d01ded787242d800cc22e941db1f4780bac9a) - 2025-04-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b4252f2bbd468710289181991523c66862056e46) - 2025-04-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/28d70e573c4afcafe00f45c7c41d2094d66f40bb) - 2025-04-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4b1d8a798aa48798a69d417fbd2c467a445f8d65) - 2025-04-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8c8fe5f258b158928eb70a83b2153af3287a53a7) - 2025-04-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ec0812258c002255f5e330ffd622fff29b4fa801) - 2025-04-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7c0dde11ee2d0cea327e21fa5885721fbb955d85) - 2025-04-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/52e01e188bcec08b3d3463d098d999eb41e3c429) - 2025-04-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/33aac1a9a87eaa86e8794880ed83aca40a32bddb) - 2025-04-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4406265f29d51dbf219b334c278383952927c29a) - 2025-04-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/19b36047b4ecc62211963c5d13dc851446ff009a) - 2025-04-19
+* [Commit] [Arbitrum: Fix stylus part 1 (#14674)](https://github.com/erigontech/erigon/commit/d69b9f418ef91e5b0a4d4c2fc974bc9dc4040491) - 2025-04-19
+* [Pull Request] [Arbitrum: Fix stylus part 1](https://github.com/erigontech/erigon/pull/14674) - 2025-04-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -30,6 +30,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/3175091519500e88beb37b45d1f2d31247c23a78) - 2025-04-18
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/4e2187da8ace49620335fe34c75cc4bf6ddc4f6a) - 2025-04-18
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/4ad98c886be4b1e83eaa635a3ab2efd07e74338b) - 2025-04-18
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/829e51f3810a40a1e394c0753d776b4b4a88918c) - 2025-04-19
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/667593990ec86d4bf96ae7c54837a6a466a85956) - 2025-04-19
+* [Commit] [fix use of dirtyFiles in BuildMissedAccessors (#14613)](https://github.com/erigontech/erigon/commit/411c1b5a0ad88f28bd9331d4b7aa34eb6bae6555) - 2025-04-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

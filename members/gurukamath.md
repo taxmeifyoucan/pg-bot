@@ -25,6 +25,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 * [Pull Request] [Parse deposit requests after all transactions](https://github.com/ethereum/execution-specs/pull/1197) - 2025-04-17
 * [Issue] [Process deposit requests after all the transactions](https://github.com/ethereum/execution-specs/issues/1196) - 2025-04-17
+* [Commit] [EOAs that delegate to a precompile (#1191)](https://github.com/ethereum/execution-specs/commit/4cf63ecec35af59ddf7a604778a91831f846cb6e) - 2025-04-19
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-spec-tests/issues/1461) - 2025-04-16
 * [Issue] [Address warmed on aborted call](https://github.com/ethereum/execution-spec-tests/issues/1474) - 2025-04-17

@@ -47,6 +47,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: refactor withdrawal logic](https://github.com/ChainSafe/lodestar/pull/7714) - 2025-04-17
 * [Commit] [refactor: decouple pre and post deneb calculation in verifyPropagationSlotRange (#7711)](https://github.com/ChainSafe/lodestar/commit/713062c1070ab1a6234d4203f3d86b37cad26356) - 2025-04-17
 * [Commit] [chore(deps): bump fastify from 5.2.1 to 5.3.2 (#7725)](https://github.com/ChainSafe/lodestar/commit/8e915fe6fcd77d4e92a4905e57e0cb5fdff99f20) - 2025-04-19
+* [Commit] [chore: update chiado bootnode ENRs (#7731)](https://github.com/ChainSafe/lodestar/commit/910e3848db4bfaa8338d03c6f32f851dc86baa1f) - 2025-04-19
+* [Pull Request] [chore: update chiado bootnode ENRs](https://github.com/ChainSafe/lodestar/pull/7731) - 2025-04-19
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

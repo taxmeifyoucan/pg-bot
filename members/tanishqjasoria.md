@@ -21,6 +21,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [fix issues and remove redundant scope init](https://github.com/NethermindEth/nethermind/commit/fe236841783500bf2e3e604aa8643f25b9a5c65c) - 2025-04-15
 * [Commit] [fix dispose](https://github.com/NethermindEth/nethermind/commit/37445ba31cc0dff57f251336561210843abe2473) - 2025-04-16
 * [Commit] [dont set state root without scope](https://github.com/NethermindEth/nethermind/commit/670a7a80885e5ed84452cdb5e397da7e0b9cb6d9) - 2025-04-18
+* [Commit] [small fix](https://github.com/NethermindEth/nethermind/commit/05952dc3800b9619c26792a663d46fe0d7b395f9) - 2025-04-19
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -33,6 +33,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Add flag to subscribe to all blob column subnets](https://github.com/OffchainLabs/prysm/pull/15197) - 2025-04-18
 * [Commit] [Better flags](https://github.com/OffchainLabs/prysm/commit/ae3857b3ffed5e49240cf0db1c78d7de8a907fc2) - 2025-04-18
 * [Commit] [Better flags](https://github.com/OffchainLabs/prysm/commit/40910a472d05b6515ab05a76a6990c4a83ea97ff) - 2025-04-18
+* [Commit] [Add bundle v2 support for submit blind block](https://github.com/OffchainLabs/prysm/commit/e2ce28ef07fcbc6a7d0f1a497f89c0bf7177520a) - 2025-04-19
+* [Pull Request] [Add support for parsing and handling `ExecutionPayloadAndBlobsBundleV2`](https://github.com/OffchainLabs/prysm/pull/15198) - 2025-04-19
+* [Commit] [Add bundle v2 support for submit blind block](https://github.com/OffchainLabs/prysm/commit/2efc3edbe750f549823bffe0dfedc56d0acaea4c) - 2025-04-19
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

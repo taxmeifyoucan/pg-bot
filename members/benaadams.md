@@ -126,6 +126,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Better cancellation](https://github.com/NethermindEth/nethermind/commit/2331e18db7e5d42be5d2b92d8c361b40be219fa0) - 2025-04-18
 * [Commit] [Add BlockchainProcessor to disposables](https://github.com/NethermindEth/nethermind/commit/f903c7751cd83a6adff8ef1e133666b63b4b4c30) - 2025-04-18
 * [Commit] [Don't reset on rollbacks](https://github.com/NethermindEth/nethermind/commit/ffdce3d2fdfa2926c9dc3624135b40f936c661aa) - 2025-04-18
+* [Commit] [CodeDB writes in a batch (#8527)](https://github.com/NethermindEth/nethermind/commit/d29a4356d42bfc71d9bc88cbaf030e812bbe26f5) - 2025-04-19
+* [Commit] [Tidy up disposal](https://github.com/NethermindEth/nethermind/commit/fc4dbcb3e4448614f01c7807ad079f3790bbccf5) - 2025-04-19
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/6f5e1153b6b3bb3c7679853009637620f41145ea) - 2025-04-19
+* [Commit] [Use alternate lookup](https://github.com/NethermindEth/nethermind/commit/c3e6cf4c2418268c7c00a2e5ebcf417c590d6144) - 2025-04-19
+* [Commit] [Implement missing interface](https://github.com/NethermindEth/nethermind/commit/cfe8b320ff40e8b0e61558eea25767c33ba10fc4) - 2025-04-19
+* [Commit] [Use alternate lookup](https://github.com/NethermindEth/nethermind/commit/3dc71b41ebadc3f722f9f4a17bcc5251f8ac7206) - 2025-04-19
+* [Commit] [IAsyncDisposable](https://github.com/NethermindEth/nethermind/commit/6411c6973099b401add3a19fcc47500a82d46ae0) - 2025-04-19
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025
