@@ -133,6 +133,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Implement missing interface](https://github.com/NethermindEth/nethermind/commit/cfe8b320ff40e8b0e61558eea25767c33ba10fc4) - 2025-04-19
 * [Commit] [Use alternate lookup](https://github.com/NethermindEth/nethermind/commit/3dc71b41ebadc3f722f9f4a17bcc5251f8ac7206) - 2025-04-19
 * [Commit] [IAsyncDisposable](https://github.com/NethermindEth/nethermind/commit/6411c6973099b401add3a19fcc47500a82d46ae0) - 2025-04-19
+* [Commit] [Better pie labelling](https://github.com/NethermindEth/nethermind/commit/bc30a8a99443a55d0559722475774bf4812210a0) - 2025-04-20
+* [Commit] [Feature/Allow multiple class for the same rpc module. (#8524)](https://github.com/NethermindEth/nethermind/commit/bcffd9fc9dcd249578b919752ebdade5395fcefb) - 2025-04-20
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

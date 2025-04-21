@@ -49,6 +49,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [adapt block_sim to represent post-EIP-6110 chain (#7081)](https://github.com/status-im/nimbus-eth2/commit/8e33582edb38f1839d146bdb70da1b229b55aedb) - 2025-04-18
 * [Pull Request] [adapt block_sim to represent post-EIP-6110 chain](https://github.com/status-im/nimbus-eth2/pull/7081) - 2025-04-18
 * [Commit] [adapt block_sim to represent post-EIP-6110 chain](https://github.com/status-im/nimbus-eth2/commit/c4bdce1e788bbb86524cf43c81fcc676716b9490) - 2025-04-18
+* [Commit] [add more updated MEV/builder API relay list link to documentation (#7083)](https://github.com/status-im/nimbus-eth2/commit/ea27f5235d18682ec3f36e29673ae81ea2c7fcde) - 2025-04-21
+* [Pull Request] [add more updated MEV/builder API relay list link to documentation](https://github.com/status-im/nimbus-eth2/pull/7083) - 2025-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

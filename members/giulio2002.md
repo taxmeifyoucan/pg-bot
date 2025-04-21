@@ -98,6 +98,12 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/19b36047b4ecc62211963c5d13dc851446ff009a) - 2025-04-19
 * [Commit] [Arbitrum: Fix stylus part 1 (#14674)](https://github.com/erigontech/erigon/commit/d69b9f418ef91e5b0a4d4c2fc974bc9dc4040491) - 2025-04-19
 * [Pull Request] [Arbitrum: Fix stylus part 1](https://github.com/erigontech/erigon/pull/14674) - 2025-04-19
+* [Commit] [Arbitrum: fix `contract.delegateOrCallcode = true` (#14677)](https://github.com/erigontech/erigon/commit/fee82a68a597bb2614a56f61a2d49536727098e6) - 2025-04-20
+* [Pull Request] [Arbitrum: fix `contract.delegateOrCallcode = true`](https://github.com/erigontech/erigon/pull/14677) - 2025-04-20
+* [Commit] [Arbitrum: Add `WasmDB` (#14676)](https://github.com/erigontech/erigon/commit/436f15c094909c5ac7756ad842622843a68bc2ed) - 2025-04-20
+* [Pull Request] [Arbitrum: Add `WasmDB`](https://github.com/erigontech/erigon/pull/14676) - 2025-04-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4e839499901e503ac2312df2a0ece76ad2a2c914) - 2025-04-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7a881dd11fc2acc2005d43d95f23e4bbe65f4676) - 2025-04-20
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

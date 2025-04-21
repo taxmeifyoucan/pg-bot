@@ -23,6 +23,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: impelment BPO EIP-7892](https://github.com/ChainSafe/lodestar/pull/7729) - 2025-04-19
 * [Commit] [feat: add BPO](https://github.com/ChainSafe/lodestar/commit/3016059323d9b9331cd8972dcd571e26b29524f8) - 2025-04-19
 * [Commit] [Update IL schedule time](https://github.com/ChainSafe/lodestar/commit/e5d490c1da6f06dc598697a0733eb7e0423cde7b) - 2025-04-18
+* [Commit] [Fix edge case inspired by @dguenther](https://github.com/ChainSafe/lodestar/commit/84c5fbbdd734f3a95c7dfa95e576526b49ea3764) - 2025-04-20
+* [Commit] [Fix edge case](https://github.com/ChainSafe/lodestar/commit/d880f45ab9b5a379c21c30602afc9a4f1fb1d68b) - 2025-04-20
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

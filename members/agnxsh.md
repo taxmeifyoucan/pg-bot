@@ -41,6 +41,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [some more logging fixes](https://github.com/status-im/nimbus-eth2/commit/baae6527e17639ac94bd78dd37d690808320b9fd) - 2025-04-18
 * [Commit] [update block processing (#7079)](https://github.com/status-im/nimbus-eth2/commit/8fc196ee7f55a215eb7abf521b712af428a3ac3b) - 2025-04-18
 * [Commit] [fix quarantine](https://github.com/status-im/nimbus-eth2/commit/47820de0b095536a8195d059f5c1d58b3d6ddc32) - 2025-04-18
+* [Commit] [fix](https://github.com/status-im/nimbus-eth2/commit/4a69a2b349af9f1fd44cf193eed9dc613fcc1286) - 2025-04-20
+* [Commit] [some fixes to data column reqman](https://github.com/status-im/nimbus-eth2/commit/083ed100bab70e07331f0c3e9692b1b5d3eed412) - 2025-04-20
+* [Commit] [update block processing (#7079)](https://github.com/status-im/nimbus-eth2/commit/8fc196ee7f55a215eb7abf521b712af428a3ac3b) - 2025-04-20
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
