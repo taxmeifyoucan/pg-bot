@@ -42,6 +42,30 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/0b3bdd3d6b86a3e536326fe63dc16bc07c970f34) - 2025-04-20
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/af052fa193715ae4356aef92104f23b90a660805) - 2025-04-20
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/3b90afdb49663c8eb63fc11580cbdd4031d6e162) - 2025-04-20
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/6fbfe844fab79fb2e2d87e2f23b9250fdaf11c02) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/2fc4505539941466cb0c09ffe15d060749b31bd6) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/abf86bd4dcf71e0418873693616a149887f7f714) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/296d5b44c85598334ea2bbc179505039b496595d) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/e1b41afc6971add4fcd53a08e812220363634952) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/0b8c912efb4f266ce2bcd2d12f9662973dc32211) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/660fbe96031eff6fe61f0e700c5617d8d669e818) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/0cd143a6af9a9b215a457664a557a370ed375f5a) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/b81d71698a0a9e6765da99880c2fea8b406bafca) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/1015035e6707bf8bd54b233c9ec007e12d3f97fd) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/672f70a5213dffbaec5f9416c72f9390b49b485b) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/0c0c521c716ff988c975b790373f45e7fe0f9057) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/4e213716915d4da4149165b04fd6875bfbadfad3) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/952a47c1df0eb84453b933634ddccd6157cb27b3) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/fea63e7e1057c9729ca22d856a1f87d36029361f) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/c2af3b64169325e8bca87d151b9df79f771eb2ce) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/d7e2c1e14e953093042a480dfe9251b58a2b9ec2) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/1374575c880eb74e84533157d2482353a676d917) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/eda5590ae4e714db217e3f35ee6e4129420a6153) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/f41180b67e237d28d541f263be1439620c139ceb) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/062598ec1f37fc1ed108ffd7988625f71f71149c) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/214bb98fc64467316c53866ef69b468aa692c2c9) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/1e2cd78d5706fcd3858ec467b8429751bf9fa0b3) - 2025-04-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/1a385531681c4f2e785b8aaa5c7e33b612186d9e) - 2025-04-21
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

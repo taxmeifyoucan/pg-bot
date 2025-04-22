@@ -38,6 +38,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Use frozendict so the blob schedule is hashable](https://github.com/ethereum/consensus-specs/commit/c9aa96d37522917d6d15c98240a45c22f67c2c9c) - 2025-04-17
 * [Commit] [Add workflow to run nightly mainnet tests (#4280)](https://github.com/ethereum/consensus-specs/commit/f65a82d5351717dfdb755a26f5972de793f86128) - 2025-04-20
 * [Pull Request] [Add workflow to run nightly mainnet tests](https://github.com/ethereum/consensus-specs/pull/4280) - 2025-04-20
+* [Commit] [Bump the actions group with 3 updates (#4282)](https://github.com/ethereum/consensus-specs/commit/1937aff86b41b5171a9bc3972515986f1bbbf303) - 2025-04-21
+* [Commit] [Fix a couple broken links (#4279)](https://github.com/ethereum/consensus-specs/commit/a35c13f8d5f32cd902ba877bf13ed87fbe107d2b) - 2025-04-21
+* [Commit] [Fix bug in electra withdrawals processing (#4281)](https://github.com/ethereum/consensus-specs/commit/f5c0f2ddea16312c14519da8220ba79bf24ea12e) - 2025-04-21
+* [Pull Request] [Fix bug in electra withdrawals processing](https://github.com/ethereum/consensus-specs/pull/4281) - 2025-04-21
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

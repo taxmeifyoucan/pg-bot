@@ -12,3 +12,4 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #8](https://github.com/ethereum/pm/issues/1435) - 2025-04-07
+* [Issue] [FOCIL Breakout #9](https://github.com/ethereum/pm/issues/1493) - 2025-04-21

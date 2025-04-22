@@ -57,6 +57,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: handle empty partial download - peerDAS](https://github.com/ChainSafe/lodestar/pull/7720) - 2025-04-18
 * [Commit] [fix: nullify partial download if no blocks](https://github.com/ChainSafe/lodestar/commit/055f43bbad1c620ca7c870f4a5fb956a1ce1d40b) - 2025-04-18
 * [Commit] [fix: update types in unstable PR (#7718)](https://github.com/ChainSafe/lodestar/commit/041402abacc15a253bf5eb339dad4a64a120307b) - 2025-04-18
+* [Commit] [fix: peer count per sampling group - peerDAS (#7721)](https://github.com/ChainSafe/lodestar/commit/46c21ffee66997b19bccbd185fe7d36f468e121a) - 2025-04-21
+* [Commit] [fix: handle empty partial download - peerDAS (#7720)](https://github.com/ChainSafe/lodestar/commit/6f41bcbc9543434479966c4c7346e1b018bfec71) - 2025-04-21
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

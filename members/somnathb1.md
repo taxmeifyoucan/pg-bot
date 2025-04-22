@@ -65,6 +65,8 @@ Team: Erigon
 * [Commit] [params: Use no padding in minor version (#14588)](https://github.com/erigontech/erigon/commit/2d4f76fb4765ce97233b24b7fe67685939f946af) - 2025-04-14
 * [Commit] [EngineAPI: recover from missing chain segments (#14579)](https://github.com/erigontech/erigon/commit/56e6b155235edc7e8e2c94645e874f558d6d735d) - 2025-04-14
 * [Pull Request] [params: Use no padding in minor version](https://github.com/erigontech/erigon/pull/14588) - 2025-04-14
+* [Commit] [Fix tests](https://github.com/erigontech/erigon/commit/5713d69f2223c13972475b25ccb425ed58ed811c) - 2025-04-21
+* [Commit] [RIP-7560 updates (#14392)](https://github.com/erigontech/erigon/commit/4cdcbeaec56f25a03e3670236304bb3fb8174932) - 2025-04-21
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

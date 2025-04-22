@@ -29,6 +29,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(tests): remove pytest skips from eip7251/7685 cases](https://github.com/ethereum/execution-spec-tests/pull/1449) - 2025-04-15
 * [Pull Request] [chore(docs): update readme contribution section](https://github.com/ethereum/execution-spec-tests/pull/1459) - 2025-04-16
 * [Commit] [fix(specs/eof): Exception mapping fix (#1481)](https://github.com/ethereum/execution-spec-tests/commit/f330aac4ae776ebbbca6005bcfdabbb6b04cf76b) - 2025-04-18
+* [Commit] [chore(docs): bump the changelog after v4.3.0 (#1484)](https://github.com/ethereum/execution-spec-tests/commit/e6e0aa9e009b5f2d1bb9061f9b993ff540af6906) - 2025-04-21
+* [Commit] [chore(docs): bump the changelog after v4.3.0](https://github.com/ethereum/execution-spec-tests/commit/4746b385e0cda555fa34127f91fcbfd15e4350b8) - 2025-04-21
+* [Pull Request] [chore(docs): bump the changelog after `v4.3.0`](https://github.com/ethereum/execution-spec-tests/pull/1484) - 2025-04-21
+* [Commit] [feat(tests): bls point generator and extra coverage.](https://github.com/ethereum/execution-spec-tests/commit/586d9bd8824a788a153bbe8390f4356b644fbd18) - 2025-04-21
+* [Commit] [chore: fix tox issues.](https://github.com/ethereum/execution-spec-tests/commit/8247eac8aa9f44e9fa3cc05c406161301a64212b) - 2025-04-21
+* [Commit] [feat(tests): update bls12 map fp cases, g1 isogeny kernel.](https://github.com/ethereum/execution-spec-tests/commit/9618dd596e82777b9197ca98b9487117616a4990) - 2025-04-21
+* [Commit] [fix(tests): Change EOFCREATE new address and related gas calculations](https://github.com/ethereum/execution-spec-tests/commit/8e74d4949923643212360071e71f8f950cbcf8f4) - 2025-04-21
+* [Commit] [feat(tests): update bls12 msm g1/g2 cases.](https://github.com/ethereum/execution-spec-tests/commit/1370c8f4a1d42ae83cdfdb57446c7a8490f911b5) - 2025-04-21
+* [Commit] [chore(tests): update bls12 mul g1/g2 cases.](https://github.com/ethereum/execution-spec-tests/commit/c8c67298f1c9182e12d14c2451d28e6415866988) - 2025-04-21
+* [Commit] [feat(tests): update bls12 mul g1/g2 cases.](https://github.com/ethereum/execution-spec-tests/commit/0778aa16fe03b6f24fcf760a819783b56da1ff38) - 2025-04-21
+* [Commit] [chore(tests): update bls12 add g1/g2 cases.](https://github.com/ethereum/execution-spec-tests/commit/33428d6841e483b98efac5c6535210ebb3aba82f) - 2025-04-21
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

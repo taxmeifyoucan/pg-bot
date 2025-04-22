@@ -69,6 +69,10 @@ Team: Erigon
 * [Commit] [save zombie30](https://github.com/erigontech/erigon/commit/6c53c2bc208c74dd855111c239b32c2d9b1c77e8) - 2025-04-17
 * [Commit] [fix panic after commit into db](https://github.com/erigontech/erigon/commit/8dd62272e66696180f3a459458c1268d0bd4b0de) - 2025-04-17
 * [Commit] [save tracing](https://github.com/erigontech/erigon/commit/0cf7a36d359a3190775b9a795616a884b99a5512) - 2025-04-17
+* [Commit] [svae](https://github.com/erigontech/erigon/commit/55bcce92f1c793f9b4a0504ee0ea4828d1c5a982) - 2025-04-21
+* [Commit] [svae](https://github.com/erigontech/erigon/commit/2bf056ba4d6c4e757f8cc57c94cb286346f8a65f) - 2025-04-21
+* [Commit] [Arbitrum: Fix stylus part 1 (#14674)](https://github.com/erigontech/erigon/commit/d69b9f418ef91e5b0a4d4c2fc974bc9dc4040491) - 2025-04-21
+* [Pull Request] [merge main](https://github.com/erigontech/erigon/pull/14683) - 2025-04-21
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

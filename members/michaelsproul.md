@@ -40,6 +40,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Release v7.0.0-beta.7](https://github.com/sigp/lighthouse/commit/a558b5ac72ec18b1a5b1941afbad5a3fab2e5700) - 2025-04-17
 * [Pull Request] [Release v7.0.0-beta.6](https://github.com/sigp/lighthouse/pull/7333) - 2025-04-17
 * [Commit] [update script for new mergify syntax (#6597)](https://github.com/sigp/lighthouse/commit/dc73791f35dff0484a35ddedba4b58c6ca34c3c9) - 2025-04-20
+* [Commit] [Add a security section to the book (#6581)](https://github.com/sigp/lighthouse/commit/1fd86f8b595c6115bb235767ab72262a8746c984) - 2025-04-21
+* [Commit] [Release v7.0.0 (#7288)](https://github.com/sigp/lighthouse/commit/54f7bc5b2c153963084a4c6edb6c4acfb2317159) - 2025-04-21
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

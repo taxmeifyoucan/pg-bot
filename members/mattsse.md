@@ -116,6 +116,10 @@ Team: Reth
 * [Issue] [Simplify HeaderSyncGapProvider trait](https://github.com/paradigmxyz/reth/issues/15818) - 2025-04-19
 * [Pull Request] [docs: some docs on sync gap channel](https://github.com/paradigmxyz/reth/pull/15817) - 2025-04-19
 * [Commit] [chore: improve etherscan debug error reporting (#15811)](https://github.com/paradigmxyz/reth/commit/2ad858c6ef79fd3302db7f4d84164ce3627fbb90) - 2025-04-19
+* [Commit] [crunchy](https://github.com/paradigmxyz/reth/commit/14d36044c445b13de54cb00d92cb3853ac16322c) - 2025-04-21
+* [Commit] [fix: Make `reth-evm-ethereum` turn off default-features in top level Cargo.toml (#15825)](https://github.com/paradigmxyz/reth/commit/664efb944bf9d1f24a62a334fbc50829869247c9) - 2025-04-21
+* [Commit] [chore: Add `reth-revm` to `no_std` CI checks (#15822)](https://github.com/paradigmxyz/reth/commit/05e1ae207b039fe473bc25ba79cf4cf1bb3f5223) - 2025-04-21
+* [Commit] [docs: remove duplicate words (#15820)](https://github.com/paradigmxyz/reth/commit/69fdf765607346e68c9a84810e925b17da330e22) - 2025-04-21
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

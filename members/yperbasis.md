@@ -40,6 +40,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [dir improvements: move protocol_params.go into erigon-lib (#14628)](https://github.com/erigontech/erigon/commit/f0534bac0a070b81190e8de7433ffc184cd5b617) - 2025-04-17
 * [Commit] [fix mining_test compilation](https://github.com/erigontech/erigon/commit/c2dc05f17f004c53fbb88f04ffd5c30318d2e5a2) - 2025-04-17
 * [Commit] [Enhance efficiency of attestation selection (#14624)](https://github.com/erigontech/erigon/commit/e2a090eae8a95a35f527a5c09ea97fb15d1ece2f) - 2025-04-17
+* [Commit] [seg.Writer to satisfy `io.Writer` (#14680)](https://github.com/erigontech/erigon/commit/fc622ccb96bc8e57f16a7b2b3eead2bcdeb9432b) - 2025-04-21
+* [Commit] [bump parallelism for erigon-lib tests](https://github.com/erigontech/erigon/commit/ee2d3f453130b1ab8796e1ef32c65df48f8c6b8b) - 2025-04-21
+* [Commit] [skip more slower tests](https://github.com/erigontech/erigon/commit/e80adc20577094a64e1c062d292a97b8ba679128) - 2025-04-21
+* [Commit] [more lint](https://github.com/erigontech/erigon/commit/fd9ff2964be32986e0758ef8db67e49fa9c6f9c7) - 2025-04-21
+* [Commit] [lint](https://github.com/erigontech/erigon/commit/25596631a825f45db22e8648327249d4da84bea8) - 2025-04-21
+* [Commit] [double check short vs long tests](https://github.com/erigontech/erigon/commit/ef5ecde49016386dbd4d8c056d0fb5f6016df9bf) - 2025-04-21
+* [Commit] [TestShutterBlockBuilding is failing on Win](https://github.com/erigontech/erigon/commit/90cd7e4bf7817d8298c2968e0e150bc4b26c1fc4) - 2025-04-21
+* [Commit] [re-enable grey-zone tests](https://github.com/erigontech/erigon/commit/1e9993c1e5e0bbe81a9e0d30a3329ca4b0dced6f) - 2025-04-21
+* [Commit] [tiny comment improvement](https://github.com/erigontech/erigon/commit/dd34051f1acd2039613ab172476df0288bfff964) - 2025-04-21
+* [Commit] [fix comments](https://github.com/erigontech/erigon/commit/baef8087f8f832f9768927f97b09821c7e31517f) - 2025-04-21
+* [Commit] [skip more slow tests](https://github.com/erigontech/erigon/commit/06d5749d1fd206ae7f514d11dd6bebbf5cc0dbf6) - 2025-04-21
+* [Commit] [skip rest of slow tests in erigon-lib](https://github.com/erigontech/erigon/commit/be62a9471aba160845f1f342670ecb945788c5c2) - 2025-04-21
+* [Commit] [rm test-no-fuzz](https://github.com/erigontech/erigon/commit/cb4e21df8f81ed1c9cbbdf02405718637bc05194) - 2025-04-21
+* [Commit] [tracers/debug: enchance debug tracer (#14660)](https://github.com/erigontech/erigon/commit/7612f95150f96ea2bbff8da69cbe63002c9e55e9) - 2025-04-21
+* [Commit] [skip some slow tests](https://github.com/erigontech/erigon/commit/dc91a3a69d532603e9dfa9744d2be7b0044c5458) - 2025-04-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

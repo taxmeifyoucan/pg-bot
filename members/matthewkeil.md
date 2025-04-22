@@ -31,6 +31,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: preData to PreData](https://github.com/ChainSafe/lodestar/commit/e94bf833ba75ce45c93ecd24aaaf927f6231bd83) - 2025-04-17
 * [Commit] [feat: track libp2p dial error (#7712)](https://github.com/ChainSafe/lodestar/commit/dce8b39b2a63414d5f92274579f099c5e7316b95) - 2025-04-17
 * [Commit] [chore: fix lints, types and unit tests in peerDAS (#7707)](https://github.com/ChainSafe/lodestar/commit/52531a3dbc7972e9ddf3c83992c82ff862d0edda) - 2025-04-17
+* [Commit] [feat: add index.ts to blockInput folder](https://github.com/ChainSafe/lodestar/commit/b22faff0c12035fc994eb3ad3d9a922b4dc96a8e) - 2025-04-21
+* [Commit] [fix: check for undefined props](https://github.com/ChainSafe/lodestar/commit/b7650d3ac1aec5771367b74980bc8013bb62e300) - 2025-04-21
+* [Commit] [fix: check for undefined props](https://github.com/ChainSafe/lodestar/commit/cdb9f57f449322ec0977ce7835b6b520dedd61de) - 2025-04-21
+* [Pull Request] [feat: block input folder with classes, types, errors and utils](https://github.com/ChainSafe/lodestar/pull/7734) - 2025-04-21
+* [Commit] [refactor: move prettyPrintArray to utils package](https://github.com/ChainSafe/lodestar/commit/b0bfc9e564edee25db42b344e2705c5e78c3380e) - 2025-04-21
+* [Commit] [feat: clean up constructors](https://github.com/ChainSafe/lodestar/commit/058ef3caf0b6ca99555ca484ad511de913404ed9) - 2025-04-21
+* [Commit] [feat: add column version to keep code together.  uncomment in peerDAS branch](https://github.com/ChainSafe/lodestar/commit/dbe3be3bc347b230946b1bf8bea08a65b675a1d7) - 2025-04-21
+* [Commit] [fix: peerDAS - fix the loop bound in fetchUnknownBlockRoot (#7466)](https://github.com/ChainSafe/lodestar/commit/27365a35fd8bf28d37c8e9e8393c0b690f052915) - 2025-04-21
+* [Commit] [refactor: deduplicate DataAvailabilityStatus enum (#7703)](https://github.com/ChainSafe/lodestar/commit/bb6038a1d123a117dad4b329ee81e439f0b5a979) - 2025-04-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

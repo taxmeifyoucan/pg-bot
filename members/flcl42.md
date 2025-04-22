@@ -26,6 +26,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [One does not simply rename an enum value](https://github.com/NethermindEth/nethermind/commit/6bb204043d7f555aeec89288eba272cadfed2c59) - 2025-04-18
 * [Commit] [One does not simply rename an enum value](https://github.com/NethermindEth/nethermind/commit/397919f58801fa3b8ab7700f5e4082dfa6680499) - 2025-04-18
 * [Commit] [Fix naming change](https://github.com/NethermindEth/nethermind/commit/a3955e2844a8490fdaa54a6f96634ac0f9a48bd3) - 2025-04-18
+* [Commit] [Fix some tests](https://github.com/NethermindEth/nethermind/commit/2434fd1fde93ba522f1c45b2d9754d8815907970) - 2025-04-21
+* [Commit] [Added gnosis pectra support (#8500)](https://github.com/NethermindEth/nethermind/commit/e6d98a85f536b04ad9804b3cabc97c722702133e) - 2025-04-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 ## Q1 2025

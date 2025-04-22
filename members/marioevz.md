@@ -58,6 +58,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [new(tests): EOF validation stack_range maximally broad (#1457)](https://github.com/ethereum/execution-spec-tests/commit/074dbc0bce18e197d2a5a5a28c8390ea258f7d15) - 2025-04-17
 * [Commit] [feat(exceptions,clis): Add system contract failures](https://github.com/ethereum/execution-spec-tests/commit/15744342f5e05d91e2b4bc2ef0d0a703fdaf34cd) - 2025-04-17
 * [Commit] [feat(tests): EIP-6110 `DepositEvent` layout+topic tests (#1371)](https://github.com/ethereum/execution-spec-tests/commit/275740885f2d5f9b7074b6853dd05eccbb1920b9) - 2025-04-17
+* [Commit] [chore(forks): osaka tweak and fix blob schedule logic (#1438)](https://github.com/ethereum/execution-spec-tests/commit/3719e9277ca9fdaf97799b8f4084f57e977eb7e4) - 2025-04-21
+* [Commit] [refactor and add unit test](https://github.com/ethereum/execution-spec-tests/commit/46b58e91d5de4081aabedd9679d1c96db7be0803) - 2025-04-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04
