@@ -20,6 +20,8 @@ Team: Ipsilon
 * [Pull Request] [fix(tests,fw): Remove EIP-7698 EOF creation txs](https://github.com/ethereum/execution-spec-tests/pull/1451) - 2025-04-15
 * [Pull Request] [new(tests): TXCREATE executes validation](https://github.com/ethereum/execution-spec-tests/pull/1476) - 2025-04-17
 * [Pull Request] [fix(tests): EIP-7620 - make CREATE/CREATE2 restrictions specific](https://github.com/ethereum/execution-spec-tests/pull/1475) - 2025-04-17
+* [Pull Request] [new(tests): EIP-7620/7873 - ensure no account gets created on failure](https://github.com/ethereum/execution-spec-tests/pull/1486) - 2025-04-22
+* [Pull Request] [new(tests): EIP-7702 - ensure DELEGATECALLing a 7702 target works](https://github.com/ethereum/execution-spec-tests/pull/1485) - 2025-04-22
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

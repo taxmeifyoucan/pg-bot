@@ -66,6 +66,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [move stuff back to lib/state](https://github.com/erigontech/erigon/commit/55948d718fa5a51e4f9bdf37918957a728e5af68) - 2025-04-18
 * [Pull Request] [move LogStats out of erigon-lib/state module](https://github.com/erigontech/erigon/pull/14670) - 2025-04-18
 * [Commit] [histCfg: remove unused field (#14667)](https://github.com/erigontech/erigon/commit/05905fa6f648979d1900c8d3d5df1426d10b72c9) - 2025-04-21
+* [Commit] [build files](https://github.com/erigontech/erigon/commit/fe6f9359e20dcefef32b1f8d8826260c531109cc) - 2025-04-22
+* [Commit] [wip](https://github.com/erigontech/erigon/commit/67e06c4036cd4ca725ec8f329c466c4f00ee6bd9) - 2025-04-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

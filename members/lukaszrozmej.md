@@ -20,6 +20,14 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix build Benchmarks](https://github.com/NethermindEth/nethermind/commit/c5f947d7d1ba938240a50713a9a6001e47b70877) - 2025-04-15
 * [Pull Request] [CodeDB writes in a batch](https://github.com/NethermindEth/nethermind/pull/8527) - 2025-04-15
 * [Commit] [Debug RPC for 7702, potential fix (#8349)](https://github.com/NethermindEth/nethermind/commit/434d1bb481c300e58c84400a50f9d9247f5ffdbe) - 2025-04-15
+* [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/54c1eb7df0d311a3e794a937c8d9a1570657c2c7) - 2025-04-22
+* [Commit] [slight simplifications](https://github.com/NethermindEth/nethermind/commit/85523f7b802a0a17b527330a98dd2ead69f73181) - 2025-04-22
+* [Commit] [Fix GasEstimator TODO by cloning Transaction instead of mutating original (#8513)](https://github.com/NethermindEth/nethermind/commit/18f2630315af17057de90c4a606fc85faa985215) - 2025-04-22
+* [Commit] [Auto-update fast sync settings (#8545)](https://github.com/NethermindEth/nethermind/commit/fdb0d5d08c57042b87ade33e0aa54109b463b736) - 2025-04-22
+* [Commit] [Initial implementation of abstracted Block-STM](https://github.com/NethermindEth/nethermind/commit/42c9cb33848de5e1acdbef72997e27eeb061f898) - 2025-04-22
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

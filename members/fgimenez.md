@@ -52,6 +52,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [metrics fns](https://github.com/paradigmxyz/reth/commit/415c0ff14a73ca4f064d083494033b4ea0c30f87) - 2025-04-15
 * [Commit] [updated Cargo.lock](https://github.com/paradigmxyz/reth/commit/b17112140b730a28316b66678e0c32e852c8a702) - 2025-04-15
 * [Commit] [chore: bump ssz (#15713)](https://github.com/paradigmxyz/reth/commit/9f6082982fda25e2e960ef60d56144d05d7bb4d0) - 2025-04-15
+* [Commit] [chore:added revm re-export for reth-ethereum and reth-op (#15561)](https://github.com/paradigmxyz/reth/commit/f1dda7cf356005c713ff8a9faa30c5851311b34b) - 2025-04-22
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

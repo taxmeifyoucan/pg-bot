@@ -15,6 +15,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [WIP: integrate eradb backend for RPC](https://github.com/ethereum/go-ethereum/pull/31604) - 2025-04-10
 * [Issue] [Syncing a pruned node blew up](https://github.com/ethereum/go-ethereum/issues/31616) - 2025-04-11
 * [Issue] [Support AncientRange for the eradb](https://github.com/ethereum/go-ethereum/issues/31670) - 2025-04-18
+* [Issue] [Reports of debug_standardTraceBadBlockToFile not working](https://github.com/ethereum/go-ethereum/issues/31694) - 2025-04-22
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

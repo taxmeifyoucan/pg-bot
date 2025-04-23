@@ -120,6 +120,15 @@ Team: Reth
 * [Commit] [fix: Make `reth-evm-ethereum` turn off default-features in top level Cargo.toml (#15825)](https://github.com/paradigmxyz/reth/commit/664efb944bf9d1f24a62a334fbc50829869247c9) - 2025-04-21
 * [Commit] [chore: Add `reth-revm` to `no_std` CI checks (#15822)](https://github.com/paradigmxyz/reth/commit/05e1ae207b039fe473bc25ba79cf4cf1bb3f5223) - 2025-04-21
 * [Commit] [docs: remove duplicate words (#15820)](https://github.com/paradigmxyz/reth/commit/69fdf765607346e68c9a84810e925b17da330e22) - 2025-04-21
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/7af3445deae746b0173538c4ad7b8985e8ddf712) - 2025-04-22
+* [Issue] [Give ExEx access to RpcAddons](https://github.com/paradigmxyz/reth/issues/15855) - 2025-04-22
+* [Issue] [Add support for --debug.rpc-consensus-ws](https://github.com/paradigmxyz/reth/issues/15852) - 2025-04-22
+* [Issue] [Add era import command for CLI](https://github.com/paradigmxyz/reth/issues/15848) - 2025-04-22
+* [Issue] [Improve superchain chainspec macro](https://github.com/paradigmxyz/reth/issues/15847) - 2025-04-22
+* [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/11e37f09665d7fc7921321a92e5a9074a5d6a2cd) - 2025-04-22
+* [Pull Request] [chore: add empty line to display hardforks](https://github.com/paradigmxyz/reth/pull/15845) - 2025-04-22
+* [Commit] [test(crates): add comprehensive tests for mock transaction factory and modifications (#15842)](https://github.com/paradigmxyz/reth/commit/81a8c270d67c4e3f526455863af7c08968b5f59e) - 2025-04-22
+* [Pull Request] [test(crates): add comprehensive tests for mock transaction factory and modifications](https://github.com/paradigmxyz/reth/pull/15842) - 2025-04-22
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

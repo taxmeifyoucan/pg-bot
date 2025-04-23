@@ -38,6 +38,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Feature/better dicovery metrics](https://github.com/NethermindEth/nethermind/pull/8531) - 2025-04-17
 * [Commit] [Allow disabling static labels](https://github.com/NethermindEth/nethermind/commit/853f1a7bea91f73c2319ae642f408e8583b44220) - 2025-04-17
 * [Commit] [Address comment](https://github.com/NethermindEth/nethermind/commit/3440fbb33491ef649acb77e73a5956086e6eee2b) - 2025-04-18
+* [Commit] [Duplicated](https://github.com/NethermindEth/nethermind/commit/ffbff8979cddc34f4b0e30f93a25714cb45bec57) - 2025-04-22
+* [Commit] [Feature/Allow multiple class for the same rpc module. (#8524)](https://github.com/NethermindEth/nethermind/commit/bcffd9fc9dcd249578b919752ebdade5395fcefb) - 2025-04-22
+* [Issue] [Optimized sequential header fetch](https://github.com/NethermindEth/nethermind/issues/8544) - 2025-04-22
+* [Pull Request] [Refactor/move worldstate to DI](https://github.com/NethermindEth/nethermind/pull/8543) - 2025-04-22
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

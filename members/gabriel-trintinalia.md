@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Issue] [Besu should not startup if two versions of the same plugin are loaded](https://github.com/hyperledger/besu/issues/8551) - 2025-04-14
 
 * [Commit] [Remove duplicate trace start block (#8552)](https://github.com/hyperledger/besu/commit/c8da96891c1784aa6995c19d522b5fa020a0c076) - 2025-04-15
+* [Pull Request] [Fail system call when contract does not exist or code is empty](https://github.com/hyperledger/besu/pull/8573) - 2025-04-22
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

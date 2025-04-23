@@ -22,6 +22,9 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [fix dispose](https://github.com/NethermindEth/nethermind/commit/37445ba31cc0dff57f251336561210843abe2473) - 2025-04-16
 * [Commit] [dont set state root without scope](https://github.com/NethermindEth/nethermind/commit/670a7a80885e5ed84452cdb5e397da7e0b9cb6d9) - 2025-04-18
 * [Commit] [small fix](https://github.com/NethermindEth/nethermind/commit/05952dc3800b9619c26792a663d46fe0d7b395f9) - 2025-04-19
+* [Commit] [add verkle structures](https://github.com/NethermindEth/nethermind/commit/6a09c27675cd2b2921db015a644628848323fb3b) - 2025-04-22
+* [Commit] [update block recipets tracer](https://github.com/NethermindEth/nethermind/commit/5a26a8bee9517a879914de6549552dcd740899fe) - 2025-04-22
+* [Commit] [WIP - add gas cost charging in EVM](https://github.com/NethermindEth/nethermind/commit/fa2c26f184663970167244728dbd1ef35a5169e5) - 2025-04-22
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

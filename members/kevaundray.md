@@ -33,6 +33,9 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore: Make `reth-ethereum-consensus` no_std compatible](https://github.com/paradigmxyz/reth/pull/15821) - 2025-04-19
 * [Pull Request] [chore: add `reth-errors` to no-std checks](https://github.com/paradigmxyz/reth/pull/15815) - 2025-04-19
 * [Pull Request] [chore: replace usages of `tracing` with `reth-tracing` in `reth-trie`](https://github.com/paradigmxyz/reth/pull/15834) - 2025-04-21
+* [Pull Request] [chore: pin crunchy by including it in one of the member crates](https://github.com/paradigmxyz/reth/pull/15854) - 2025-04-22
+* [Pull Request] [chore: re-pin crunchy to 0.2.2 after weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/15846) - 2025-04-22
+* [Pull Request] [chore: Add a usage comment on `revert`](https://github.com/paradigmxyz/reth/pull/15844) - 2025-04-22
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

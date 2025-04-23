@@ -68,6 +68,9 @@ Team: Erigon
 * [Commit] [remove printer](https://github.com/erigontech/erigon/commit/d85c50ca6106b285db0a32105a5ca942b6bf06c3) - 2025-04-19
 * [Commit] [print deps](https://github.com/erigontech/erigon/commit/339ea3f04e2635deb53c694058f5b958e5bccf84) - 2025-04-19
 * [Commit] [generalize get dependencies](https://github.com/erigontech/erigon/commit/ce15a6178f62fd81f5aeda31467e8c42132cacfe) - 2025-04-19
+* [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/fee46f9de8e0bdb851ce089a7cbeb81962a41530) - 2025-04-22
+* [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/225b04ffd31cf8d91a0b90e2a2866553bf762e97) - 2025-04-22
+* [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/de764ba630b33d04574399693be09da4f5861527) - 2025-04-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

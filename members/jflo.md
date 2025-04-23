@@ -15,6 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [append written tests so they run along generated tests](https://github.com/hyperledger/besu/pull/8564) - 2025-04-17
 * [Pull Request] [Fail fast on missing system contract addresses](https://github.com/hyperledger/besu/pull/8567) - 2025-04-18
 * [Pull Request] [Uprev KZG library dependency](https://github.com/hyperledger/besu/pull/8566) - 2025-04-18
+* [Commit] [Uprev KZG library dependency (#8566)](https://github.com/hyperledger/besu/commit/248398d65925f595dd9a79a37059c1eb05d38392) - 2025-04-22
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

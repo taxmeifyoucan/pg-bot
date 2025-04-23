@@ -15,6 +15,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add EIP: GitChain](https://github.com/ethereum/EIPs/pull/9579) - 2025-04-01
 * [Pull Request] [Update EIP-7916: Add `remerkleable` implementation and tests](https://github.com/ethereum/EIPs/pull/9597) - 2025-04-04
 * [Pull Request] [Update EIP-7495: Define interaction with EIP-7916 `ProgressiveList`](https://github.com/ethereum/EIPs/pull/9643) - 2025-04-15
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [Cleanup libunwind remnants](https://github.com/status-im/nimbus-eth2/pull/7097) - 2025-04-22
+* [Commit] [Cleanup libunwind remnants](https://github.com/status-im/nimbus-eth2/commit/0bb4691a4893ccfc3068eb463bf25fe59b46ea43) - 2025-04-22
+* [Pull Request] [Bump nim-nat-traversal to 6d4e2958fe552a058c2caa23ce921012bba00a5c](https://github.com/status-im/nimbus-eth2/pull/7096) - 2025-04-22
+* [Pull Request] [Bump nim-libbacktrace to 822849874926ba3849a86cb3eafdf017bd11bd2d](https://github.com/status-im/nimbus-eth2/pull/7095) - 2025-04-22
+* [Pull Request] [Bump nim-kzg4844 to 644a19b9874516446411aa31a7747b81d21431e5](https://github.com/status-im/nimbus-eth2/pull/7094) - 2025-04-22
+* [Pull Request] [Bump nim-web3 to v0.6.0](https://github.com/status-im/nimbus-eth2/pull/7093) - 2025-04-22
+* [Pull Request] [Bump hoodi to 7f71638afc431675c19b9e306998b9d4925b7cec](https://github.com/status-im/nimbus-eth2/pull/7089) - 2025-04-22
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

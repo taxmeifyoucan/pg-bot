@@ -28,6 +28,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix naming change](https://github.com/NethermindEth/nethermind/commit/a3955e2844a8490fdaa54a6f96634ac0f9a48bd3) - 2025-04-18
 * [Commit] [Fix some tests](https://github.com/NethermindEth/nethermind/commit/2434fd1fde93ba522f1c45b2d9754d8815907970) - 2025-04-21
 * [Commit] [Added gnosis pectra support (#8500)](https://github.com/NethermindEth/nethermind/commit/e6d98a85f536b04ad9804b3cabc97c722702133e) - 2025-04-21
+* [Commit] [Apply a specific block during FCU](https://github.com/NethermindEth/nethermind/commit/3e0cbfd301180ddb2710c5d5c5cd96be261dc15f) - 2025-04-22
+* [Commit] [Apply a specific block during FCU](https://github.com/NethermindEth/nethermind/commit/859d8346371554a0f5ac22a6548bd9cf5309f613) - 2025-04-22
+* [Commit] [Apply a specific block during FCU](https://github.com/NethermindEth/nethermind/commit/10e0c37f0d0dc1c4a6f1ce156a7a2a30aeb5d892) - 2025-04-22
+* [Commit] [Apply a specific block during FCU](https://github.com/NethermindEth/nethermind/commit/54ffe8443cf49f79f8d0107904b22f9922a7d457) - 2025-04-22
+* [Commit] [Prevent file logging before configuration initialization (#7896)](https://github.com/NethermindEth/nethermind/commit/5af7b415d030e5550d0e1818fbb2ed8403de4482) - 2025-04-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 ## Q1 2025

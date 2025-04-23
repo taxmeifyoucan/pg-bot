@@ -59,6 +59,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: update types in unstable PR (#7718)](https://github.com/ChainSafe/lodestar/commit/041402abacc15a253bf5eb339dad4a64a120307b) - 2025-04-18
 * [Commit] [fix: peer count per sampling group - peerDAS (#7721)](https://github.com/ChainSafe/lodestar/commit/46c21ffee66997b19bccbd185fe7d36f468e121a) - 2025-04-21
 * [Commit] [fix: handle empty partial download - peerDAS (#7720)](https://github.com/ChainSafe/lodestar/commit/6f41bcbc9543434479966c4c7346e1b018bfec71) - 2025-04-21
+* [Commit] [fix: peerDAS - fix the loop bound in fetchUnknownBlockRoot (#7466)](https://github.com/ChainSafe/lodestar/commit/27365a35fd8bf28d37c8e9e8393c0b690f052915) - 2025-04-22
+* [Commit] [fix: handle no eligible peer](https://github.com/ChainSafe/lodestar/commit/770ffa30ce6d8d829e0df2fadbb101d01fb8a53f) - 2025-04-22
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

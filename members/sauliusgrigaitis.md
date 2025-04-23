@@ -31,6 +31,7 @@ Team: Grandine
 * [Commit] [Replaces `jemallocator` with `tikv-jemallocator`](https://github.com/grandinetech/grandine/commit/db149b58ba4f8410c617374c23c188b2e313b6f1) - 2025-04-18
 * [Commit] [Replaces `jemallocator` with `tikv-jemallocator`](https://github.com/grandinetech/grandine/commit/347ad92f394c7ef13ec6814f43dc2dfaf5f3de24) - 2025-04-18
 * [Pull Request] [Replaces `jemallocator` with `tikv-jemallocator`](https://github.com/grandinetech/grandine/pull/187) - 2025-04-18
+* [Issue] [Add warning if we miss sync committee participation](https://github.com/grandinetech/grandine/issues/189) - 2025-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Changed Hangleang's multiplier to 1](https://github.com/protocolguild/documentation/pull/344) - 2025-04-10
 ## Q1 2025

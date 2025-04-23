@@ -67,6 +67,10 @@ Team: Erigon
 * [Pull Request] [params: Use no padding in minor version](https://github.com/erigontech/erigon/pull/14588) - 2025-04-14
 * [Commit] [Fix tests](https://github.com/erigontech/erigon/commit/5713d69f2223c13972475b25ccb425ed58ed811c) - 2025-04-21
 * [Commit] [RIP-7560 updates (#14392)](https://github.com/erigontech/erigon/commit/4cdcbeaec56f25a03e3670236304bb3fb8174932) - 2025-04-21
+* [Commit] [Restore failing tests](https://github.com/erigontech/erigon/commit/8b9cd9d22ebf1190b78fd5c30e1d6155674d0dba) - 2025-04-22
+* [Pull Request] [Chore: Batch fmt after dir changes](https://github.com/erigontech/erigon/pull/14694) - 2025-04-22
+* [Commit] [fmt](https://github.com/erigontech/erigon/commit/0749615dd8a9a110f050889bbbb29f49a065f15a) - 2025-04-22
+* [Commit] [Fix import](https://github.com/erigontech/erigon/commit/6cef23a19819400ab60eb24b587685a7cf0c82d4) - 2025-04-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

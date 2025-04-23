@@ -55,6 +55,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [rm test-no-fuzz](https://github.com/erigontech/erigon/commit/cb4e21df8f81ed1c9cbbdf02405718637bc05194) - 2025-04-21
 * [Commit] [tracers/debug: enchance debug tracer (#14660)](https://github.com/erigontech/erigon/commit/7612f95150f96ea2bbff8da69cbe63002c9e55e9) - 2025-04-21
 * [Commit] [skip some slow tests](https://github.com/erigontech/erigon/commit/dc91a3a69d532603e9dfa9744d2be7b0044c5458) - 2025-04-21
+* [Commit] [tests: use `go test -short` instead of build tag `integration` (#14662)](https://github.com/erigontech/erigon/commit/c81e302bbab74c14af74b90eb001b72531847e10) - 2025-04-22
+* [Issue] [TestShutterBlockBuilding fails on Windows](https://github.com/erigontech/erigon/issues/14692) - 2025-04-22
+* [Issue] [Caching stopped working in `make test`](https://github.com/erigontech/erigon/issues/14691) - 2025-04-22
+* [Issue] [Replace 1024, 1024^2, etc with constans](https://github.com/erigontech/erigon/issues/14688) - 2025-04-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

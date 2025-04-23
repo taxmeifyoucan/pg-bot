@@ -40,6 +40,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): update bls12 mul g1/g2 cases.](https://github.com/ethereum/execution-spec-tests/commit/c8c67298f1c9182e12d14c2451d28e6415866988) - 2025-04-21
 * [Commit] [feat(tests): update bls12 mul g1/g2 cases.](https://github.com/ethereum/execution-spec-tests/commit/0778aa16fe03b6f24fcf760a819783b56da1ff38) - 2025-04-21
 * [Commit] [chore(tests): update bls12 add g1/g2 cases.](https://github.com/ethereum/execution-spec-tests/commit/33428d6841e483b98efac5c6535210ebb3aba82f) - 2025-04-21
+* [Commit] [temp: g2 kernel sage.](https://github.com/ethereum/execution-spec-tests/commit/85cc273ec1bfb5e4c9561a911cf41d73341fa1d2) - 2025-04-22
+* [Commit] [feat(tests): update bls12 map fp g1 isogeny kernel cases.](https://github.com/ethereum/execution-spec-tests/commit/822ddddbc799acd78edd811dd047128005b2d0a1) - 2025-04-22
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

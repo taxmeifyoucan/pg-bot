@@ -27,6 +27,11 @@ Team: Erigon
 * [Commit] [ qa-tests: use a specific db version on release/3.x for rpc-perf tests (#14570)](https://github.com/erigontech/erigon/commit/b03d365734660de93d043aa85d167c9200a175ee) - 2025-04-15
 * [Pull Request] [qa-tests: polygon tip-tracking with chaindata backup/restore](https://github.com/erigontech/erigon/pull/14609) - 2025-04-15
 * [Commit] [always stop rpcdaemon](https://github.com/erigontech/erigon/commit/15df95af59a6088ebcfe1c5acecd716deb765e3f) - 2025-04-15
+* [Commit] [add logs](https://github.com/erigontech/erigon/commit/9eb37aacf0538ebe95fe8ff4a22cdf6e145c2704) - 2025-04-22
+* [Commit] [add -r](https://github.com/erigontech/erigon/commit/a0241ef774e1ea3622eb4a0da55519777fe0564e) - 2025-04-22
+* [Pull Request] [qa-tests: fix chaindata backup in rpc-integration test](https://github.com/erigontech/erigon/pull/14695) - 2025-04-22
+* [Commit] [qa-tests: repair rpc-integration tests  (#14693)](https://github.com/erigontech/erigon/commit/7d56cb1320a9e2d539d7ad157daf2177f8be1dde) - 2025-04-22
+* [Pull Request] [qa-tests: repair rpc-integration tests ](https://github.com/erigontech/erigon/pull/14693) - 2025-04-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

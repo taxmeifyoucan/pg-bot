@@ -68,6 +68,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [CopyHeader: don't copy hash (#14531)](https://github.com/erigontech/erigon/commit/4cce854563c07e88b53254bde93cdc396a675cd8) - 2025-04-17
 * [Commit] [Fix test](https://github.com/erigontech/erigon/commit/c9470cf453dd476ec733c9c58ef5a3cc7a7c5f7e) - 2025-04-18
 * [Commit] [historical re-exec: re-used EliasFano object (#14625)](https://github.com/erigontech/erigon/commit/4cb985b621b6f4e3f788fd064b4cc4a8120b8d3f) - 2025-04-18
+* [Commit] [nil](https://github.com/erigontech/erigon/commit/0a8afb79cae6a2c82266eb7732226fb084be328b) - 2025-04-22
+* [Commit] [fix gas](https://github.com/erigontech/erigon/commit/0f94739885820ad1f06ea8928054eb2f4f82be92) - 2025-04-22
+* [Commit] [Fix mining](https://github.com/erigontech/erigon/commit/686402d572b3ecb90a602075b52ca6f5ea789ed1) - 2025-04-22
+* [Commit] [RIP-7560: Handle optional fields, setup txpool (#14400)](https://github.com/erigontech/erigon/commit/efb69eeba05ea5911eba17ceff60df0a4a02a8c6) - 2025-04-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -42,6 +42,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [update script for new mergify syntax (#6597)](https://github.com/sigp/lighthouse/commit/dc73791f35dff0484a35ddedba4b58c6ca34c3c9) - 2025-04-20
 * [Commit] [Add a security section to the book (#6581)](https://github.com/sigp/lighthouse/commit/1fd86f8b595c6115bb235767ab72262a8746c984) - 2025-04-21
 * [Commit] [Release v7.0.0 (#7288)](https://github.com/sigp/lighthouse/commit/54f7bc5b2c153963084a4c6edb6c4acfb2317159) - 2025-04-21
+* [Commit] [update script for new mergify syntax (#6597)](https://github.com/sigp/lighthouse/commit/dc73791f35dff0484a35ddedba4b58c6ca34c3c9) - 2025-04-22
+* [Issue] [Homebrew v7.0.0 package missing due to blst](https://github.com/sigp/lighthouse/issues/7344) - 2025-04-22
+* [Issue] [Lightouse VC sends validator registrations for exited validators](https://github.com/sigp/lighthouse/issues/7342) - 2025-04-22
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

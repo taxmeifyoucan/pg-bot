@@ -53,6 +53,23 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add more updated MEV/builder API relay list link to documentation](https://github.com/status-im/nimbus-eth2/pull/7083) - 2025-04-21
 * [Commit] [use Nim version-2-2 branch as prospective next target (#7028)](https://github.com/status-im/nimbus-eth2/commit/45f72db2eea469b363a15fb93243071bf044c7ac) - 2025-04-21
 * [Commit] [version v25.4.0](https://github.com/status-im/nimbus-eth2/commit/c7e5cafa14e4c5267bbde3b4101be4690246cc63) - 2025-04-21
+* [Commit] [Bump nim-libbacktrace to 822849874926ba3849a86cb3eafdf017bd11bd2d (#7095)](https://github.com/status-im/nimbus-eth2/commit/71cb71716ba5fe0b29fdf702288d52961711dfae) - 2025-04-22
+* [Commit] [Bump nim-nat-traversal to 6d4e2958fe552a058c2caa23ce921012bba00a5c (#7096)](https://github.com/status-im/nimbus-eth2/commit/9b4c657cc1bf8187f7fb7973d4dd9647d405093f) - 2025-04-22
+* [Commit] [Bump nim-kzg4844 to 644a19b9874516446411aa31a7747b81d21431e5 (#7094)](https://github.com/status-im/nimbus-eth2/commit/e78091a1c7e374c1a233325c20f6462da483450e) - 2025-04-22
+* [Commit] [Bump nim-web3 to v0.6.0 (#7093)](https://github.com/status-im/nimbus-eth2/commit/6ffa9518f2b1626c79bf426e040e48465c6ac0f4) - 2025-04-22
+* [Commit] [Some minor fixes (#7082)](https://github.com/status-im/nimbus-eth2/commit/5afd1067eed20ad519f1b5b7962c0e87f4cdea00) - 2025-04-22
+* [Commit] [swich to Nim v2.2.4 (#7090)](https://github.com/status-im/nimbus-eth2/commit/f65effdc23b8a4fffbc667fcb27c719b11e0979b) - 2025-04-22
+* [Commit] [Bump hoodi to 7f71638afc431675c19b9e306998b9d4925b7cec (#7089)](https://github.com/status-im/nimbus-eth2/commit/e5f9d3cbadee76bf33d8b0e48aa85b0669161c69) - 2025-04-22
+* [Commit] [don't create validator pubkey search structure unnecessarily (#7088)](https://github.com/status-im/nimbus-eth2/commit/e1436ba8ecd0914f3fb40a55e234b036548f71d8) - 2025-04-22
+* [Pull Request] [swich to Nim v2.2.4](https://github.com/status-im/nimbus-eth2/pull/7090) - 2025-04-22
+* [Commit] [bump nim-json-rpc (#7087)](https://github.com/status-im/nimbus-eth2/commit/f31c248fc1a0e3b79465473476b3a094a8dc68f8) - 2025-04-22
+* [Pull Request] [don't create validator pubkey search structure unnecessarily](https://github.com/status-im/nimbus-eth2/pull/7088) - 2025-04-22
+* [Pull Request] [bump nim-json-rpc](https://github.com/status-im/nimbus-eth2/pull/7087) - 2025-04-22
+* [Commit] [nimp nim-ssz-serialization (#7085)](https://github.com/status-im/nimbus-eth2/commit/86a2aa89a423fd2313cb46047511faca2b2c79a0) - 2025-04-22
+* [Pull Request] [bump nim-eth](https://github.com/status-im/nimbus-eth2/pull/7086) - 2025-04-22
+* [Pull Request] [nimp nim-ssz-serialization](https://github.com/status-im/nimbus-eth2/pull/7085) - 2025-04-22
+* [Commit] [make publish-book c7e5cafa1](https://github.com/status-im/nimbus-eth2/commit/ce17855c308850ccf1acfa8e5f35aa68e932bed3) - 2025-04-22
+* [Commit] [version v25.4.0](https://github.com/status-im/nimbus-eth2/commit/c7e5cafa14e4c5267bbde3b4101be4690246cc63) - 2025-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

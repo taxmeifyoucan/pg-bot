@@ -44,6 +44,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix browser config path](https://github.com/ChainSafe/lodestar/commit/b49e1dabfcff47667d70c232303c2840087cdd09) - 2025-04-08
 * [Pull Request] [feat: parallelize block building steps to reduce the block production time](https://github.com/ChainSafe/lodestar/pull/7726) - 2025-04-18
 * [Commit] [Use dispatch table for exhaustive scenarios](https://github.com/ChainSafe/lodestar/commit/ae261a43024f3a3dc961baa21792f5a42703966c) - 2025-04-18
+* [Commit] [Update the tests](https://github.com/ChainSafe/lodestar/commit/54965fde697669f618bdec38c85d448949b81816) - 2025-04-22
+* [Commit] [Fix import path](https://github.com/ChainSafe/lodestar/commit/a433542a59ddd890bed88b32286e50d03b479534) - 2025-04-22
+* [Commit] [refactor: move ValidatorMonitor to the BeaconChain (#7647)](https://github.com/ChainSafe/lodestar/commit/cdfdfec6ca53e1715cfe84e12ba3bb7e9d9023df) - 2025-04-22
+* [Commit] [Update the unit tests](https://github.com/ChainSafe/lodestar/commit/9cad0fc1f1e2da011b55b8005e6f29683df653f6) - 2025-04-22
+* [Commit] [test: use vitest workspace to run all tests (#7610)](https://github.com/ChainSafe/lodestar/commit/c91cd9c141699a1bcfe3a81354d1d74a2aecd1c0) - 2025-04-22
+* [Commit] [feat: schedule electra on mainnet (#7655)](https://github.com/ChainSafe/lodestar/commit/87d367d9f7a8d6e548743a7fb65f13a0ca0d367d) - 2025-04-22
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

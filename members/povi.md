@@ -29,6 +29,10 @@ Team: Grandine
 * [Pull Request] [Delay blobs until state](https://github.com/grandinetech/grandine/pull/183) - 2025-04-17
 * [Commit] [Check next slot state proposer index in registered validators list to see if it needs to prepare execution payload for next slot block proposal](https://github.com/grandinetech/grandine/commit/e1af742face1a7af68fbcb8ed1845d7ade27e953) - 2025-04-18
 * [Commit] [Delay blobs until state is ready if state cannot be generated cheaply during blob validation](https://github.com/grandinetech/grandine/commit/f6d472f38b7f0229b552f91f584e7c64b64ea068) - 2025-04-18
+* [Commit] [Log state cache lock timeouts only when initial forward sync is completed](https://github.com/grandinetech/grandine/commit/072cf386d36ceefe43d1602d0e56675dabf1473e) - 2025-04-22
+* [Pull Request] [Log state cache lock timeouts only when initial forward sync is compl…](https://github.com/grandinetech/grandine/pull/190) - 2025-04-22
+* [Commit] [Log validator sync committee participation](https://github.com/grandinetech/grandine/commit/46ef4dca3670f02b307f8e1702a872738f82e9b4) - 2025-04-22
+* [Pull Request] [Log validator sync committee participation](https://github.com/grandinetech/grandine/pull/188) - 2025-04-22
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

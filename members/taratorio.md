@@ -37,6 +37,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [core/vm: implement eip-7610 has storage check on create](https://github.com/erigontech/erigon/pull/14672) - 2025-04-18
 * [Commit] [shutter: move cfg to dedicated `shuttercfg` package (#14668)](https://github.com/erigontech/erigon/commit/2b3d2fb5813c6e8c533dfac4f881e93b03bdce8d) - 2025-04-18
 * [Commit] [move LogStats out of erigon-lib/state module (#14670)](https://github.com/erigontech/erigon/commit/02d3a8d654104c0116a99e7a2b6360a70cfceaac) - 2025-04-21
+* [Commit] [implement HasStorage in CachedReader](https://github.com/erigontech/erigon/commit/1cf7ff14581072f55ad4ce469f1817e9269b2f5d) - 2025-04-22
+* [Commit] [Add internal_ namespace + internal_getTxNumInfo method (#14684)](https://github.com/erigontech/erigon/commit/bb9df5969285d849df4868bd065d677a0f3cd1a5) - 2025-04-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

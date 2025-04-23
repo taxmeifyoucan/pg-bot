@@ -16,6 +16,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Anisdas)
 * [Issue] [Update Weak Subjectivity Computation for Electra](https://github.com/prysmaticlabs/prysm/issues/15130) - 2025-04-04
 * [Pull Request] [Fix Operations Length Check For Attestations](https://github.com/prysmaticlabs/prysm/pull/15134) - 2025-04-05
 * [Pull Request] [Fix Generated SSZ Files](https://github.com/OffchainLabs/prysm/pull/15199) - 2025-04-21
+* [Pull Request] [Update Insecure Dependencies](https://github.com/OffchainLabs/prysm/pull/15204) - 2025-04-22
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

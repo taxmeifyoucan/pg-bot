@@ -16,6 +16,7 @@ Team: Reth
 * [Commit] [perf: spawn prewarming transactions in chunks](https://github.com/paradigmxyz/reth/commit/7da4325bc1f3893b6fea2fd46997af2692e1b1fe) - 2025-04-03
 * [Commit] [feat: use configured `max_new_pending_txs_notifications` channel for channel size (#15132)](https://github.com/paradigmxyz/reth/commit/d66e899526410f3b512393cc754dbbca767b6ad0) - 2025-04-03
 * [Pull Request] [wip: add precompile cache for execution](https://github.com/paradigmxyz/reth/pull/15536) - 2025-04-04
+* [Commit] [feat(engine): enable prewarming & caching by default (#15630)](https://github.com/paradigmxyz/reth/commit/e261a2e2059e2fb6fe59ce91a69eeb6edc2c9649) - 2025-04-22
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

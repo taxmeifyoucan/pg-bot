@@ -26,6 +26,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [add Kanchan partial weight](https://github.com/protocolguild/documentation/commit/44fbaeb525bdf8af43085b62fc526603380deb7f) - 2025-04-18
 * [Commit] [add Andri Lim](https://github.com/protocolguild/documentation/commit/d57b85c30b04edc7cbc43fc3ef0b3dba1ab2dbc7) - 2025-04-18
 * [Commit] [add Advaita Saha](https://github.com/protocolguild/documentation/commit/8c3d2f75b9afdc43419c8bce22a60870a2f43448) - 2025-04-18
+* [Commit] [Delete team column](https://github.com/protocolguild/documentation/commit/575e25af060399af21353c49bb4837bc30b01efa) - 2025-04-22
 ## Q1 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

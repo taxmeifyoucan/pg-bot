@@ -40,6 +40,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add column version to keep code together.  uncomment in peerDAS branch](https://github.com/ChainSafe/lodestar/commit/dbe3be3bc347b230946b1bf8bea08a65b675a1d7) - 2025-04-21
 * [Commit] [fix: peerDAS - fix the loop bound in fetchUnknownBlockRoot (#7466)](https://github.com/ChainSafe/lodestar/commit/27365a35fd8bf28d37c8e9e8393c0b690f052915) - 2025-04-21
 * [Commit] [refactor: deduplicate DataAvailabilityStatus enum (#7703)](https://github.com/ChainSafe/lodestar/commit/bb6038a1d123a117dad4b329ee81e439f0b5a979) - 2025-04-21
+* [Commit] [chore: update any-signal to latest version (#7628)](https://github.com/ChainSafe/lodestar/commit/dd729f5ece9eff9ab30d3599f1aa4f03c614f2c4) - 2025-04-22
+* [Commit] [feat: prune expired data column sidecars (#7717)](https://github.com/ChainSafe/lodestar/commit/008adb8ef041c137fcf8fa3ea291eed5e3b73f58) - 2025-04-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

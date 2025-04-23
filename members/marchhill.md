@@ -34,6 +34,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [deposit contract chainspec](https://github.com/NethermindEth/nethermind/commit/68bd5552bb9012ccc3f3541660633ebda3ee164e) - 2025-04-17
 * [Commit] [Isolated commit and hash benchmark (#8505)](https://github.com/NethermindEth/nethermind/commit/098f4f599335ae7c94524f1bc4f6dbf03b66d20d) - 2025-04-17
 * [Pull Request] [Update libp2p package](https://github.com/NethermindEth/nethermind/pull/8534) - 2025-04-17
+* [Commit] [fix whitespace](https://github.com/NethermindEth/nethermind/commit/db4234f078364886566714ffa67317fa63df5597) - 2025-04-22
+* [Commit] [change gasLimit to gas](https://github.com/NethermindEth/nethermind/commit/be6290d864e2a5627a85b4b7a12f32d181fd0273) - 2025-04-22
+* [Commit] [fix broken tests](https://github.com/NethermindEth/nethermind/commit/593f6061f4d2727482719b8b890fc9793becd474) - 2025-04-22
+* [Commit] [Mainnet Pectra config (#8502)](https://github.com/NethermindEth/nethermind/commit/9095f05365f4d1ef0fe1be9d1221666447fe7c31) - 2025-04-22
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

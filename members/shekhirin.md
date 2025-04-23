@@ -27,6 +27,12 @@ Team: Reth
 * [Commit] [reorder, more comments](https://github.com/paradigmxyz/reth/commit/65cebe921c8a9e526c6dd945f9766f856af74f86) - 2025-04-11
 * [Commit] [chore: double check blob gas in header standalone (#15672)](https://github.com/paradigmxyz/reth/commit/3346f5b7fdd5d7a3dd68fe64d3b6c7b8f761d0b9) - 2025-04-14
 * [Issue] [Dynamic cross-block cache size](https://github.com/paradigmxyz/reth/issues/15802) - 2025-04-18
+* [Issue] [Collect profiles for the last portion of state root task](https://github.com/paradigmxyz/reth/issues/15856) - 2025-04-22
+* [Commit] [Merge remote-tracking branch 'origin/main' into alexey/sparse-always-store-branch-nodes](https://github.com/paradigmxyz/reth/commit/7ef6e66dd626c65aa75e1b2b215158f8640d874a) - 2025-04-22
+* [Commit] [Merge remote-tracking branch 'origin/main' into alexey/sparse-always-store-branch-nodes](https://github.com/paradigmxyz/reth/commit/68b72b392cde00b9816bd3bca5d8fd66b6f391d9) - 2025-04-22
+* [Commit] [chore: changed import for network-txpool(examples) (#15643)](https://github.com/paradigmxyz/reth/commit/ab85300ac35a57ca2d1f8fbc23aa29d6baee1376) - 2025-04-22
+* [Commit] [Add metric for supervisor RPC latency (#15570)](https://github.com/paradigmxyz/reth/commit/8be89080b0c0b20eb69e9bbb9e193644186e2459) - 2025-04-22
+* [Pull Request] [feat(engine): use prewarming task only if has enough parallelism](https://github.com/paradigmxyz/reth/pull/15850) - 2025-04-22
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
