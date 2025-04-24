@@ -42,6 +42,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Feature/Allow multiple class for the same rpc module. (#8524)](https://github.com/NethermindEth/nethermind/commit/bcffd9fc9dcd249578b919752ebdade5395fcefb) - 2025-04-22
 * [Issue] [Optimized sequential header fetch](https://github.com/NethermindEth/nethermind/issues/8544) - 2025-04-22
 * [Pull Request] [Refactor/move worldstate to DI](https://github.com/NethermindEth/nethermind/pull/8543) - 2025-04-22
+* [Commit] [Auto-update fast sync settings (#8545)](https://github.com/NethermindEth/nethermind/commit/fdb0d5d08c57042b87ade33e0aa54109b463b736) - 2025-04-23
+* [Commit] [Refactor/move worldstate to DI (#8543)](https://github.com/NethermindEth/nethermind/commit/7d85c4e2ed6ab9155053558de55a875e1082d6e2) - 2025-04-23
+* [Commit] [Address comment](https://github.com/NethermindEth/nethermind/commit/1fdc2d23d8588df434270d7763dfda1923870ff9) - 2025-04-23
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

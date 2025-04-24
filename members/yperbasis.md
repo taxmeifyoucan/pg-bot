@@ -59,6 +59,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [TestShutterBlockBuilding fails on Windows](https://github.com/erigontech/erigon/issues/14692) - 2025-04-22
 * [Issue] [Caching stopped working in `make test`](https://github.com/erigontech/erigon/issues/14691) - 2025-04-22
 * [Issue] [Replace 1024, 1024^2, etc with constans](https://github.com/erigontech/erigon/issues/14688) - 2025-04-22
+* [Pull Request] [dir improvements: move some stuff from params](https://github.com/erigontech/erigon/pull/14713) - 2025-04-23
+* [Commit] [Move TestChainConfig & TestChainAuraConfig to erigon-lib](https://github.com/erigontech/erigon/commit/6d190f5d741beab8680fbed73b76642795f2e771) - 2025-04-23
+* [Commit] [Merge params/denomination into erigon-lib](https://github.com/erigontech/erigon/commit/f72de1d0b3801d7b591d15045c7401865b72c596) - 2025-04-23
+* [Issue] [Sporadic race condition in tests](https://github.com/erigontech/erigon/issues/14711) - 2025-04-23
+* [Commit] [Move DAO params to execution/consensus/misc](https://github.com/erigontech/erigon/commit/1f2fc8c31f0a6ed89a368a81f966950e04469afb) - 2025-04-23
+* [Pull Request] [tests: restore cashing in `make test`](https://github.com/erigontech/erigon/pull/14710) - 2025-04-23
+* [Commit] [tests: restore cashing in `make test`](https://github.com/erigontech/erigon/commit/43a715c82a41ef297818f9425f22c32e777cc7eb) - 2025-04-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

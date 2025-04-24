@@ -33,6 +33,8 @@ Team: Grandine
 * [Pull Request] [Log state cache lock timeouts only when initial forward sync is compl…](https://github.com/grandinetech/grandine/pull/190) - 2025-04-22
 * [Commit] [Log validator sync committee participation](https://github.com/grandinetech/grandine/commit/46ef4dca3670f02b307f8e1702a872738f82e9b4) - 2025-04-22
 * [Pull Request] [Log validator sync committee participation](https://github.com/grandinetech/grandine/pull/188) - 2025-04-22
+* [Commit] [Do not process slots to acquire beacon state for blob sidecar validation. Delay them instead if needed state is not found.](https://github.com/grandinetech/grandine/commit/1818232735c6b22de2da3d0fc007953308f8a2da) - 2025-04-23
+* [Pull Request] [Do not process slots to acquire beacon state for blob sidecar validation](https://github.com/grandinetech/grandine/pull/192) - 2025-04-23
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

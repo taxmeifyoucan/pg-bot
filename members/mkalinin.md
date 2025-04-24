@@ -13,6 +13,9 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7549: Update p2p gossip section](https://github.com/ethereum/EIPs/pull/9640) - 2025-04-15
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Commit] [execution-apis: Add EIP-7594 (PeerDAS) related changes (#630)](https://github.com/ethereum/execution-apis/commit/5d634063ccfd897a6974ea589c00e2c1d889abc9) - 2025-04-23
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

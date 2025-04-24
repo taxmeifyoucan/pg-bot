@@ -45,6 +45,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [update script for new mergify syntax (#6597)](https://github.com/sigp/lighthouse/commit/dc73791f35dff0484a35ddedba4b58c6ca34c3c9) - 2025-04-22
 * [Issue] [Homebrew v7.0.0 package missing due to blst](https://github.com/sigp/lighthouse/issues/7344) - 2025-04-22
 * [Issue] [Lightouse VC sends validator registrations for exited validators](https://github.com/sigp/lighthouse/issues/7342) - 2025-04-22
+* [Commit] [Add retropgf funding (#6324)](https://github.com/sigp/lighthouse/commit/2e0eb6d1b8705bbda2ba56eb195d9cc7c6575e95) - 2025-04-23
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

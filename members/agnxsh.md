@@ -45,6 +45,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [some fixes to data column reqman](https://github.com/status-im/nimbus-eth2/commit/083ed100bab70e07331f0c3e9692b1b5d3eed412) - 2025-04-20
 * [Commit] [update block processing (#7079)](https://github.com/status-im/nimbus-eth2/commit/8fc196ee7f55a215eb7abf521b712af428a3ac3b) - 2025-04-20
 * [Commit] [added more logging, changed some strategy](https://github.com/status-im/nimbus-eth2/commit/61bd6a52eb5617e16767b6c42168e8d4630317dd) - 2025-04-22
+* [Commit] [remove debugEcho](https://github.com/status-im/nimbus-eth2/commit/0304b53e009c34aa039363072abff514cd5e3fe7) - 2025-04-23
+* [Commit] [adapt block_sim to represent post-EIP-6110 chain (#7081)](https://github.com/status-im/nimbus-eth2/commit/8e33582edb38f1839d146bdb70da1b229b55aedb) - 2025-04-23
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

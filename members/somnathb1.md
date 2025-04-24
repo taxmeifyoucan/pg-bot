@@ -71,6 +71,7 @@ Team: Erigon
 * [Pull Request] [Chore: Batch fmt after dir changes](https://github.com/erigontech/erigon/pull/14694) - 2025-04-22
 * [Commit] [fmt](https://github.com/erigontech/erigon/commit/0749615dd8a9a110f050889bbbb29f49a065f15a) - 2025-04-22
 * [Commit] [Fix import](https://github.com/erigontech/erigon/commit/6cef23a19819400ab60eb24b587685a7cf0c82d4) - 2025-04-22
+* [Commit] [Roll-back to v15 of Ethereum/tests](https://github.com/erigontech/erigon/commit/ee2b1bdd93eb0c912befce5ff64fa2e3913765ba) - 2025-04-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

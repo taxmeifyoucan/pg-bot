@@ -33,6 +33,7 @@ Team: Reth
 * [Commit] [chore: changed import for network-txpool(examples) (#15643)](https://github.com/paradigmxyz/reth/commit/ab85300ac35a57ca2d1f8fbc23aa29d6baee1376) - 2025-04-22
 * [Commit] [Add metric for supervisor RPC latency (#15570)](https://github.com/paradigmxyz/reth/commit/8be89080b0c0b20eb69e9bbb9e193644186e2459) - 2025-04-22
 * [Pull Request] [feat(engine): use prewarming task only if has enough parallelism](https://github.com/paradigmxyz/reth/pull/15850) - 2025-04-22
+* [Pull Request] [fix(cli): drop ExEx WAL only if it exists](https://github.com/paradigmxyz/reth/pull/15871) - 2025-04-23
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

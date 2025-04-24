@@ -116,6 +116,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed f330aac4ae to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/7849fc1932099bd779fe7e53f681c05613f2ada6) - 2025-04-18
 * [Commit] [Deployed 3719e9277c to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2d33e186b6191b99f049c7ea841f878332be3017) - 2025-04-21
 * [Commit] [Deployed e6e0aa9e00 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/22ea15d3444261e4cd4ad793c62b03a4853c84d9) - 2025-04-21
+* [Pull Request] [fix(fill): fix reported fixture source urls for the case of auto-generated tests](https://github.com/ethereum/execution-spec-tests/pull/1488) - 2025-04-23
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/7d2230c3ba4c6ff5bc015517c3135233db5196f5) - 2025-04-23
+* [Commit] [chore(clis): update besu `SYSTEM_CONTRACT_EMPTY` exception message](https://github.com/ethereum/execution-spec-tests/commit/7d66feeabaa5e13980128311a0ee4ce511df90d2) - 2025-04-23
+* [Commit] [chore(clis): update besu exception mapper for 6110 `test_invalid_layout`](https://github.com/ethereum/execution-spec-tests/commit/4a5ebca2f56dbeebc91003c233450a0f78ebf644) - 2025-04-23
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

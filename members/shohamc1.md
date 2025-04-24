@@ -72,6 +72,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix gas](https://github.com/erigontech/erigon/commit/0f94739885820ad1f06ea8928054eb2f4f82be92) - 2025-04-22
 * [Commit] [Fix mining](https://github.com/erigontech/erigon/commit/686402d572b3ecb90a602075b52ca6f5ea789ed1) - 2025-04-22
 * [Commit] [RIP-7560: Handle optional fields, setup txpool (#14400)](https://github.com/erigontech/erigon/commit/efb69eeba05ea5911eba17ceff60df0a4a02a8c6) - 2025-04-22
+* [Commit] [Check err](https://github.com/erigontech/erigon/commit/f3a3332e99091799293ee804939a516609079c7f) - 2025-04-23
+* [Pull Request] [EIP-7562 tracer](https://github.com/erigontech/erigon/pull/14705) - 2025-04-23
+* [Commit] [Remove err check](https://github.com/erigontech/erigon/commit/78744fbd31802c9b44ac9ea7e9810b9cf4b0af95) - 2025-04-23
+* [Commit] [Validation tracer](https://github.com/erigontech/erigon/commit/f0fa6219a5d514e5207c9f23796d8a7476f6106c) - 2025-04-23
+* [Issue] [Improve AA execution calls](https://github.com/erigontech/erigon/issues/14704) - 2025-04-23
+* [Commit] [rm error](https://github.com/erigontech/erigon/commit/67bb56b57cddebc28a097848c289830062779535) - 2025-04-23
+* [Commit] [Support eth_getLogs](https://github.com/erigontech/erigon/commit/7f533b4375a3f2a839f61606eabb74b83c9b7649) - 2025-04-23
+* [Commit] [Increment nonce](https://github.com/erigontech/erigon/commit/b169997540da83a2e4bb073d0526a67e1ca9e936) - 2025-04-23
+* [Commit] [Receipt RPC support](https://github.com/erigontech/erigon/commit/a48cd77d8b2867a1574a171ceada767bbeba518a) - 2025-04-23
+* [Commit] [Fix receipts crash](https://github.com/erigontech/erigon/commit/edfa33f68a78d4ccd257ea7b8931c2f310778539) - 2025-04-23
+* [Commit] [Call ResetBetweenBlocks](https://github.com/erigontech/erigon/commit/357c77bedf27ba36266cefaf81302eb73d756cda) - 2025-04-23
+* [Commit] [Validation tracer](https://github.com/erigontech/erigon/commit/c1458f9763293863ebf8f9688b9597d73624401f) - 2025-04-23
+* [Commit] [Validation tracer](https://github.com/erigontech/erigon/commit/50d24dea672bdd18a57b849012c8db2d8f3d5553) - 2025-04-23
+* [Commit] [qa-tests: fix chaindata backup in rpc-integration test (#14695)](https://github.com/erigontech/erigon/commit/52ba9b49da820edafab58bdb342ca5c6c884df68) - 2025-04-23
+* [Pull Request] [Support RIP-7560 transactions to mining loop](https://github.com/erigontech/erigon/pull/14702) - 2025-04-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -39,6 +39,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [move LogStats out of erigon-lib/state module (#14670)](https://github.com/erigontech/erigon/commit/02d3a8d654104c0116a99e7a2b6360a70cfceaac) - 2025-04-21
 * [Commit] [implement HasStorage in CachedReader](https://github.com/erigontech/erigon/commit/1cf7ff14581072f55ad4ce469f1817e9269b2f5d) - 2025-04-22
 * [Commit] [Add internal_ namespace + internal_getTxNumInfo method (#14684)](https://github.com/erigontech/erigon/commit/bb9df5969285d849df4868bd065d677a0f3cd1a5) - 2025-04-22
+* [Commit] [sonar: move sonar github action after make test-all (#14709)](https://github.com/erigontech/erigon/commit/6157f6997595c80b34188990dce6ecd67dad2754) - 2025-04-23
+* [Commit] [sonar: use test coverage report from make test-all (#14699)](https://github.com/erigontech/erigon/commit/68c77eaa33e41659fd71e6239b4172475b7f6aa5) - 2025-04-23
+* [Pull Request] [sonar: move sonar github action after make test-all](https://github.com/erigontech/erigon/pull/14709) - 2025-04-23
+* [Commit] [make: add make stringer (#14698)](https://github.com/erigontech/erigon/commit/1162dd5922b37e0457a646d39faede94e0e2e342) - 2025-04-23
+* [Commit] [make: fix make mocks (#14697)](https://github.com/erigontech/erigon/commit/d81babcb0ca19e17af2c15b43fd8c0efc84cab15) - 2025-04-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

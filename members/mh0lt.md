@@ -71,6 +71,12 @@ Team: Erigon
 * [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/fee46f9de8e0bdb851ce089a7cbeb81962a41530) - 2025-04-22
 * [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/225b04ffd31cf8d91a0b90e2a2866553bf762e97) - 2025-04-22
 * [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/de764ba630b33d04574399693be09da4f5861527) - 2025-04-22
+* [Commit] [adjust dependency for txindex offset](https://github.com/erigontech/erigon/commit/9afa2dee33c8f4056b02c5c47658395fd44b2b4c) - 2025-04-23
+* [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/b0a5c3fec88182ba6ecc34138023f2d356618d37) - 2025-04-23
+* [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/639fe60b387d3eb686cbf394808a061a14ddd1d3) - 2025-04-23
+* [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/f168e58a0a25714d3906c600a0e84d3c1d4f484b) - 2025-04-23
+* [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/e8092355c2915d87ce2101dbd1fb01d2d4bdf372) - 2025-04-23
+* [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/1326129755fd090284720ded1258787cc86f4704) - 2025-04-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

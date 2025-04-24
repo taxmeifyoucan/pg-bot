@@ -759,6 +759,17 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ce39d42980dbb6d6ff90c63d51cde6e5d6b09039) - 2025-04-22
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7b4a484dc1f990c1e7fc280ccebf0eafac41e32b) - 2025-04-22
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0d0f21a7374685e56ff415f8961f9c83b8e19076) - 2025-04-22
+* [Commit] [seg.Writer to satisfy `io.Writer` (#14680)](https://github.com/erigontech/erigon/commit/fc622ccb96bc8e57f16a7b2b3eead2bcdeb9432b) - 2025-04-23
+* [Commit] [Chore: Batch fmt after dir changes (#14694)](https://github.com/erigontech/erigon/commit/42aa2ed804957ead397f29074d5284098967c253) - 2025-04-23
+* [Commit] [Erigon3: Use ZSTD for sampling (#14700)](https://github.com/erigontech/erigon/commit/2ee8ce888845f92ea22d75dcc4b6ebfce52990ea) - 2025-04-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5fe031b2939b3bfeab323925f3a1a5426f23e079) - 2025-04-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b842e091bafe79e9449f5eeed6e7458f2ee6fd46) - 2025-04-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/95664e46dde4dbe63353d9d6fc92d61519665be9) - 2025-04-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bb9b5772284c73f39b2f29c5d4e5053d02af0e81) - 2025-04-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0113b08b17db7c439b2a81a1ca30e3a0ce1fac32) - 2025-04-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/af7dc731bd5c23e823c27a81b388a55a6679ea46) - 2025-04-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/34e237931ffacefbd85db8978a8e6b01fd709e3b) - 2025-04-23
+* [Commit] [kv.temporal: add method Unwind (#14690)](https://github.com/erigontech/erigon/commit/7ec82387fc7bdc77f22613815aca9b6ba1c40dc6) - 2025-04-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

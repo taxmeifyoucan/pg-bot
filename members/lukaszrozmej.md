@@ -26,6 +26,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Auto-update fast sync settings (#8545)](https://github.com/NethermindEth/nethermind/commit/fdb0d5d08c57042b87ade33e0aa54109b463b736) - 2025-04-22
 * [Commit] [Initial implementation of abstracted Block-STM](https://github.com/NethermindEth/nethermind/commit/42c9cb33848de5e1acdbef72997e27eeb061f898) - 2025-04-22
 
+* [Commit] [avoid spin loop with ManualResetEventSlim](https://github.com/NethermindEth/nethermind/commit/d21026cbf5b944d864c12fe47075e95007d90639) - 2025-04-23
+* [Commit] [Add hashset pool](https://github.com/NethermindEth/nethermind/commit/563db84962cd0c4eaa891d10d5ed1f63252c9899) - 2025-04-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

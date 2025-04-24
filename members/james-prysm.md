@@ -57,6 +57,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [adding in retry logic for init](https://github.com/OffchainLabs/prysm/commit/83e6f5f351ec8e05e1f1b40138429114bf720a72) - 2025-04-18
 * [Commit] [more init improvements](https://github.com/OffchainLabs/prysm/commit/ca0c541d133f4694f2855c04305f68cc9367058f) - 2025-04-18
 * [Commit] [Upgrade to fulu: Fix and add spectests (#15190)](https://github.com/OffchainLabs/prysm/commit/167f719860547520be79e3141b60fdbd53253089) - 2025-04-18
+* [Commit] [Update validator/client/runner.go](https://github.com/OffchainLabs/prysm/commit/3b04d074f9a5ae3b90ee01f7899be1a00cef71fe) - 2025-04-23
+* [Commit] [Update validator/client/runner.go](https://github.com/OffchainLabs/prysm/commit/dce45ffe339dc904ec58a603496b8c7592dd7a0b) - 2025-04-23
+* [Commit] [Update api/client/beacon/health/health.go](https://github.com/OffchainLabs/prysm/commit/2870da8c8f8c100b2c3cc04668eb52ecc82e1e31) - 2025-04-23
+* [Commit] [Changelog v6 (#15203)](https://github.com/OffchainLabs/prysm/commit/83460c99561d6f3966d17ebf1e3b483cc570dc6f) - 2025-04-23
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

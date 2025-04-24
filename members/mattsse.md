@@ -129,6 +129,18 @@ Team: Reth
 * [Pull Request] [chore: add empty line to display hardforks](https://github.com/paradigmxyz/reth/pull/15845) - 2025-04-22
 * [Commit] [test(crates): add comprehensive tests for mock transaction factory and modifications (#15842)](https://github.com/paradigmxyz/reth/commit/81a8c270d67c4e3f526455863af7c08968b5f59e) - 2025-04-22
 * [Pull Request] [test(crates): add comprehensive tests for mock transaction factory and modifications](https://github.com/paradigmxyz/reth/pull/15842) - 2025-04-22
+* [Issue] [Impl From<ValidationApiError> for ErrorObject](https://github.com/paradigmxyz/reth/issues/15877) - 2025-04-23
+* [Commit] [chore: Explicitly check for failure on expected blocks in ef-tests (#15803)](https://github.com/paradigmxyz/reth/commit/9d3509c8ac62ce547d3690143d1a42cbc4180ff9) - 2025-04-23
+* [Commit] [chore: bump MSRV to 1.86 (#15863)](https://github.com/paradigmxyz/reth/commit/ae3ffb90e4c99dd16e8bf6c5a9749c2f0cf9ec68) - 2025-04-23
+* [Commit] [chore: add superchain enum macro for chainspec (#15861)](https://github.com/paradigmxyz/reth/commit/211ecb6d91064991d558d9ea4ae0b81c463304d7) - 2025-04-23
+* [Pull Request] [chore: bump alloy 0.15](https://github.com/paradigmxyz/reth/pull/15874) - 2025-04-23
+* [Issue] [Add disable txpool setting to OpEthApi](https://github.com/paradigmxyz/reth/issues/15868) - 2025-04-23
+* [Pull Request] [fix: fail send_raw_transaction if forwarding fails](https://github.com/paradigmxyz/reth/pull/15867) - 2025-04-23
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/f637642280dc22a29829c75ccce8f6ccfd89c056) - 2025-04-23
+* [Issue] [Simplify generated superchain code](https://github.com/paradigmxyz/reth/issues/15866) - 2025-04-23
+* [Issue] [Simplify op chainspec sparser](https://github.com/paradigmxyz/reth/issues/15865) - 2025-04-23
+* [Commit] [refactor(reth): Extract `Cli` into `ethereum-cli` crate](https://github.com/paradigmxyz/reth/commit/6dc36b2be8cc832b0d4bbcdefd6b88ef7cae2b7b) - 2025-04-23
+* [Commit] [refactor(reth): Extract `Cli` into `ethereum-cli` crate](https://github.com/paradigmxyz/reth/commit/14d163fc286f5307168a6a646f6507f4d81194ee) - 2025-04-23
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

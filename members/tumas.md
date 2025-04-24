@@ -37,6 +37,7 @@ Team: Grandine
 * [Commit] [Update crates](https://github.com/grandinetech/grandine/commit/c89bc3fd9744f1eaf3ba90afea94c95802f92efd) - 2025-04-18
 * [Commit] [Don't emit duplicate sse head events. #174](https://github.com/grandinetech/grandine/commit/18452b699e42ac5f824f2d332928536bc57511b1) - 2025-04-22
 * [Pull Request] [Feature/libp2p release pectra](https://github.com/grandinetech/grandine/pull/191) - 2025-04-22
+* [Commit] [Revert "Update `eth2_libp2p`"](https://github.com/grandinetech/grandine/commit/c0f358f6d5f4ef237bec049d0a11c819fbc85692) - 2025-04-23
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

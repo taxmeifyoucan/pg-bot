@@ -42,6 +42,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): update bls12 add g1/g2 cases.](https://github.com/ethereum/execution-spec-tests/commit/33428d6841e483b98efac5c6535210ebb3aba82f) - 2025-04-21
 * [Commit] [temp: g2 kernel sage.](https://github.com/ethereum/execution-spec-tests/commit/85cc273ec1bfb5e4c9561a911cf41d73341fa1d2) - 2025-04-22
 * [Commit] [feat(tests): update bls12 map fp g1 isogeny kernel cases.](https://github.com/ethereum/execution-spec-tests/commit/822ddddbc799acd78edd811dd047128005b2d0a1) - 2025-04-22
+* [Commit] [chore(tests): consolidate on g2 isogeny kernel.](https://github.com/ethereum/execution-spec-tests/commit/a40f64b0e832fbda21ebf1d3d7eb536e7629cb3c) - 2025-04-23
+* [Commit] [chore(tests): consolidate on g2 isogeny kernel.](https://github.com/ethereum/execution-spec-tests/commit/4ad1918c94c7f6914f68bca6a5ae525a86f271e7) - 2025-04-23
+* [Commit] [chore(tests): ref peter, fix skip.](https://github.com/ethereum/execution-spec-tests/commit/fb3141b46fd983433082af067f269cbd48b40669) - 2025-04-23
+* [Commit] [chore(tests): review comments and helper update.](https://github.com/ethereum/execution-spec-tests/commit/ebf38b7ceea4531410fbae6337f9acb942ce7475) - 2025-04-23
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
