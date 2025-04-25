@@ -36,6 +36,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add bundle v2 support for submit blind block](https://github.com/OffchainLabs/prysm/commit/e2ce28ef07fcbc6a7d0f1a497f89c0bf7177520a) - 2025-04-19
 * [Pull Request] [Add support for parsing and handling `ExecutionPayloadAndBlobsBundleV2`](https://github.com/OffchainLabs/prysm/pull/15198) - 2025-04-19
 * [Commit] [Add bundle v2 support for submit blind block](https://github.com/OffchainLabs/prysm/commit/2efc3edbe750f549823bffe0dfedc56d0acaea4c) - 2025-04-19
+* [Pull Request] [Add column sidecar inclusion proof cache](https://github.com/OffchainLabs/prysm/pull/15217) - 2025-04-24
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

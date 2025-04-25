@@ -46,6 +46,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Homebrew v7.0.0 package missing due to blst](https://github.com/sigp/lighthouse/issues/7344) - 2025-04-22
 * [Issue] [Lightouse VC sends validator registrations for exited validators](https://github.com/sigp/lighthouse/issues/7342) - 2025-04-22
 * [Commit] [Add retropgf funding (#6324)](https://github.com/sigp/lighthouse/commit/2e0eb6d1b8705bbda2ba56eb195d9cc7c6575e95) - 2025-04-23
+* [Pull Request] [Tweak state cache missing logging](https://github.com/sigp/lighthouse/pull/7354) - 2025-04-24
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

@@ -61,6 +61,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: handle empty partial download - peerDAS (#7720)](https://github.com/ChainSafe/lodestar/commit/6f41bcbc9543434479966c4c7346e1b018bfec71) - 2025-04-21
 * [Commit] [fix: peerDAS - fix the loop bound in fetchUnknownBlockRoot (#7466)](https://github.com/ChainSafe/lodestar/commit/27365a35fd8bf28d37c8e9e8393c0b690f052915) - 2025-04-22
 * [Commit] [fix: handle no eligible peer](https://github.com/ChainSafe/lodestar/commit/770ffa30ce6d8d829e0df2fadbb101d01fb8a53f) - 2025-04-22
+* [Commit] [feat: prune expired data column sidecars (#7717)](https://github.com/ChainSafe/lodestar/commit/008adb8ef041c137fcf8fa3ea291eed5e3b73f58) - 2025-04-24
+* [Commit] [feat: unit tests for PeerBalancer](https://github.com/ChainSafe/lodestar/commit/2f43227db76380e6f84584e45938c16460101343) - 2025-04-24
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -60,6 +60,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): EIP-6110 `DepositEvent` layout+topic tests (#1371)](https://github.com/ethereum/execution-spec-tests/commit/275740885f2d5f9b7074b6853dd05eccbb1920b9) - 2025-04-17
 * [Commit] [chore(forks): osaka tweak and fix blob schedule logic (#1438)](https://github.com/ethereum/execution-spec-tests/commit/3719e9277ca9fdaf97799b8f4084f57e977eb7e4) - 2025-04-21
 * [Commit] [refactor and add unit test](https://github.com/ethereum/execution-spec-tests/commit/46b58e91d5de4081aabedd9679d1c96db7be0803) - 2025-04-21
+* [Pull Request] [feat(clis/exceptions): Exception Mapper Updates from Static Tests](https://github.com/ethereum/execution-spec-tests/pull/1493) - 2025-04-24
+* [Commit] [feat(ci): Add `static` feature to produce `fixtures_static` (#1491)](https://github.com/ethereum/execution-spec-tests/commit/bc8713ee14b7418fbe51ab967bd38ca947dafac8) - 2025-04-24
+* [Commit] [fix: pyproject, pyright to point to the correct directory](https://github.com/ethereum/execution-spec-tests/commit/466f0cafd6e3b1e016ffbc26358247cb66d46704) - 2025-04-24
+* [Commit] [feat(plugins/filler/static): do not compile test fillers source code while loading the models (#1439)](https://github.com/ethereum/execution-spec-tests/commit/b65fc7cd72c811956b64669dd6ae8a7ca494aa6c) - 2025-04-24
+* [Commit] [Update CHANGELOG.md](https://github.com/ethereum/execution-spec-tests/commit/f2f16ed0a22931d61571164ed886df76ac8de342) - 2025-04-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

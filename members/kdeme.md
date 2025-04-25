@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
+* [Commit] [Address review feedback](https://github.com/ethereum/portal-network-specs/commit/15aff5b4fb076a1362de09e7e8b921c68490cc6c) - 2025-04-24
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

@@ -120,6 +120,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/7d2230c3ba4c6ff5bc015517c3135233db5196f5) - 2025-04-23
 * [Commit] [chore(clis): update besu `SYSTEM_CONTRACT_EMPTY` exception message](https://github.com/ethereum/execution-spec-tests/commit/7d66feeabaa5e13980128311a0ee4ce511df90d2) - 2025-04-23
 * [Commit] [chore(clis): update besu exception mapper for 6110 `test_invalid_layout`](https://github.com/ethereum/execution-spec-tests/commit/4a5ebca2f56dbeebc91003c233450a0f78ebf644) - 2025-04-23
+* [Commit] [Deployed bc8713ee14 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d3db8cdbe17981abc203cdad2f048c2719b40240) - 2025-04-24
+* [Commit] [Deployed 62035359cc to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2d14d3ac98420f67e12597dbf6672519c70136bd) - 2025-04-24
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

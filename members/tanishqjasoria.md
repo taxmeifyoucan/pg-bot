@@ -25,6 +25,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [add verkle structures](https://github.com/NethermindEth/nethermind/commit/6a09c27675cd2b2921db015a644628848323fb3b) - 2025-04-22
 * [Commit] [update block recipets tracer](https://github.com/NethermindEth/nethermind/commit/5a26a8bee9517a879914de6549552dcd740899fe) - 2025-04-22
 * [Commit] [WIP - add gas cost charging in EVM](https://github.com/NethermindEth/nethermind/commit/fa2c26f184663970167244728dbd1ef35a5169e5) - 2025-04-22
+* [Commit] [add more structureS](https://github.com/NethermindEth/nethermind/commit/8a1841c7f9cb7c9b9c95d4042edd7a16dbdf489e) - 2025-04-24
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

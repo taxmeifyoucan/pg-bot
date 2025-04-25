@@ -19,6 +19,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [separate block/blob peer scoring](https://github.com/OffchainLabs/prysm/commit/d85f05346ed6b543e1c9d8a1383d4c592b3b6c0b) - 2025-04-15
 * [Pull Request] [wip: improve peer scoring code in range sync](https://github.com/OffchainLabs/prysm/pull/15173) - 2025-04-15
 * [Commit] [Preston's test coverage feedback](https://github.com/OffchainLabs/prysm/commit/bfe0120ca8d39ba70ec52208a85e8a76446d9c24) - 2025-04-16
+* [Commit] [Broadcast Proposer Slashing on equivocation (#14693)](https://github.com/OffchainLabs/prysm/commit/7887ebbc4a6b56f1e9c17374214adcf5995b99d7) - 2025-04-24
+* [Commit] [only advance to the start of epoch](https://github.com/OffchainLabs/prysm/commit/1b8d886e36ed763fd34849fecc215d58e2b2e9b6) - 2025-04-24
+* [Commit] [use no-copy state cache for proposal in same epoch](https://github.com/OffchainLabs/prysm/commit/9182eee2768d9882bb0edd5cc8be4ac415dd6965) - 2025-04-24
+* [Commit] [use no-copy state cache for proposal in same epoch](https://github.com/OffchainLabs/prysm/commit/6227c5159d3e8a8c002b282aedb6949b24bdc575) - 2025-04-24
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

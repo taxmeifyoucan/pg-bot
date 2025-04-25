@@ -38,6 +38,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [change gasLimit to gas](https://github.com/NethermindEth/nethermind/commit/be6290d864e2a5627a85b4b7a12f32d181fd0273) - 2025-04-22
 * [Commit] [fix broken tests](https://github.com/NethermindEth/nethermind/commit/593f6061f4d2727482719b8b890fc9793becd474) - 2025-04-22
 * [Commit] [Mainnet Pectra config (#8502)](https://github.com/NethermindEth/nethermind/commit/9095f05365f4d1ef0fe1be9d1221666447fe7c31) - 2025-04-22
+* [Commit] [finish checking all err null](https://github.com/NethermindEth/nethermind/commit/2b5dc4b60947f0362ecba27942c9e95811bd95d4) - 2025-04-24
+* [Commit] [check error is null](https://github.com/NethermindEth/nethermind/commit/4ab7b053fa6b86366522095e8d5f5963923fdbec) - 2025-04-24
+* [Commit] [fix whitespace](https://github.com/NethermindEth/nethermind/commit/9651adcf6f9ee594659cc8286fa87ad0e8725a3d) - 2025-04-24
+* [Commit] [add test for gas cap and refactor](https://github.com/NethermindEth/nethermind/commit/a550bfd684c8629a93ae4b5e6967fb9ec6ab4344) - 2025-04-24
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

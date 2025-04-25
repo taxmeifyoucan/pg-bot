@@ -18,6 +18,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: more debug log](https://github.com/ChainSafe/lodestar/commit/e977b1844eaf4063445794da4a982979f769b557) - 2025-04-06
 * [Commit] [chore: add debug log](https://github.com/ChainSafe/lodestar/commit/32e2bc2e99aa11b69f29a8aef0dd0f0cc5235c46) - 2025-04-06
 * [Commit] [chore: add temp version of libp2p-quic](https://github.com/ChainSafe/lodestar/commit/79561a341c282152c90af468f62c14be68b9fe2a) - 2025-04-06
+* [Commit] [chore: refactor suggestions](https://github.com/ChainSafe/lodestar/commit/c9267c52579f623c28eb88c858e65a7e3da6d941) - 2025-04-24
+* [Commit] [chore: refactor suggestions](https://github.com/ChainSafe/lodestar/commit/1c063f7cb9fa36348d9aecd2b732b964de89d5d2) - 2025-04-24
+* [Commit] [chore: refactor suggestions](https://github.com/ChainSafe/lodestar/commit/249417b28b7f818acc8f4484c3b86a08296fa89c) - 2025-04-24
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

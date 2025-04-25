@@ -70,6 +70,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [nimp nim-ssz-serialization](https://github.com/status-im/nimbus-eth2/pull/7085) - 2025-04-22
 * [Commit] [make publish-book c7e5cafa1](https://github.com/status-im/nimbus-eth2/commit/ce17855c308850ccf1acfa8e5f35aa68e932bed3) - 2025-04-22
 * [Commit] [version v25.4.0](https://github.com/status-im/nimbus-eth2/commit/c7e5cafa14e4c5267bbde3b4101be4690246cc63) - 2025-04-22
+* [Commit] [foo](https://github.com/status-im/nimbus-eth2/commit/980a0162ce50ab6194866cc0f8ca0f6e46daaaa5) - 2025-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

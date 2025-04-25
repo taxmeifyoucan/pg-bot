@@ -18,6 +18,10 @@ Team: Reth
 * [Pull Request] [wip: add precompile cache for execution](https://github.com/paradigmxyz/reth/pull/15536) - 2025-04-04
 * [Commit] [feat(engine): enable prewarming & caching by default (#15630)](https://github.com/paradigmxyz/reth/commit/e261a2e2059e2fb6fe59ce91a69eeb6edc2c9649) - 2025-04-22
 * [Pull Request] [fix(ci): install cargo-cache in reproducible build action](https://github.com/paradigmxyz/reth/pull/15873) - 2025-04-23
+* [Commit] [fix: do not use interior mutable const](https://github.com/paradigmxyz/reth/commit/9552157281b0ad37d401b24e599927b51aa0e5d7) - 2025-04-24
+* [Commit] [fix: do not use interior mutable const](https://github.com/paradigmxyz/reth/commit/81e50fad0812d1ede39a2e715a48d323a0e88b57) - 2025-04-24
+* [Commit] [feat: spawn storage proofs separately](https://github.com/paradigmxyz/reth/commit/9841a2f4e642b240613fed73ec2cd33f57d81b31) - 2025-04-24
+* [Commit] [chore: replace MultiProofTargets type with new type](https://github.com/paradigmxyz/reth/commit/c6a6fdef8a3927451e8183b9e80655f571ae75f4) - 2025-04-24
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
