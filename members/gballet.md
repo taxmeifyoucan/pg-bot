@@ -16,6 +16,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core/state: introduce the TransitionState object (verkle transition part 1)](https://github.com/ethereum/go-ethereum/pull/31634) - 2025-04-14
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [eip7748: refactor eip7610 account handling code](https://github.com/ethereum/EIPs/pull/9695) - 2025-04-25
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

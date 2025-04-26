@@ -104,6 +104,7 @@ Team: Erigon
 * [Pull Request] [Arbitrum: Add `WasmDB`](https://github.com/erigontech/erigon/pull/14676) - 2025-04-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/4e839499901e503ac2312df2a0ece76ad2a2c914) - 2025-04-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7a881dd11fc2acc2005d43d95f23e4bbe65f4676) - 2025-04-20
+* [Issue] [`Main` branch needs to be restarted each time](https://github.com/erigontech/erigon/issues/14756) - 2025-04-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

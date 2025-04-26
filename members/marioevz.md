@@ -65,6 +65,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix: pyproject, pyright to point to the correct directory](https://github.com/ethereum/execution-spec-tests/commit/466f0cafd6e3b1e016ffbc26358247cb66d46704) - 2025-04-24
 * [Commit] [feat(plugins/filler/static): do not compile test fillers source code while loading the models (#1439)](https://github.com/ethereum/execution-spec-tests/commit/b65fc7cd72c811956b64669dd6ae8a7ca494aa6c) - 2025-04-24
 * [Commit] [Update CHANGELOG.md](https://github.com/ethereum/execution-spec-tests/commit/f2f16ed0a22931d61571164ed886df76ac8de342) - 2025-04-24
+* [Commit] [new(tests): EOF: extend RJUMP* to self tests with variadic stack (#1462)](https://github.com/ethereum/execution-spec-tests/commit/db22cee52955d7d9236c8c327307537e7647c1f0) - 2025-04-25
+* [Commit] [fix(clis/ethereumjs): tox](https://github.com/ethereum/execution-spec-tests/commit/2c1b602c546656388f9bde997f735e37f358ee90) - 2025-04-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

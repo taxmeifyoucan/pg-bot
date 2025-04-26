@@ -23,6 +23,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 
 * [Commit] [update network config params (#9352)](https://github.com/Consensys/teku/commit/df508e273488d70d53332b0e3cab33b87d8b0c63) - 2025-04-14
 * [Pull Request] [update network config params](https://github.com/Consensys/teku/pull/9352) - 2025-04-14
+* [Pull Request] [Add FULU to the Spec Factory](https://github.com/Consensys/teku/pull/9373) - 2025-04-25
+* [Issue] [Alter SSZ encoding for validator registrations](https://github.com/Consensys/teku/issues/9372) - 2025-04-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add eip7805 presets](https://github.com/ethereum/consensus-specs/pull/4268) - 2025-04-14
 * [Pull Request] [move IL committee domain to constant](https://github.com/ethereum/consensus-specs/pull/4276) - 2025-04-17

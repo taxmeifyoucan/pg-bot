@@ -19,6 +19,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/c11400486f81c07c44e91f82540902d39f70908b) - 2025-04-21
 * [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/4dafcb0641c010b64767cb4ae2bfbb91f5ef1c39) - 2025-04-21
 * [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/7428b2144ce27ecf8b7cf7c1ab39fcedfb15e1cb) - 2025-04-21
+* [Commit] [cleanup](https://github.com/ethereum/execution-spec-tests/commit/d2c2f5cc6c4dc83e50e67929f35d668e526175bc) - 2025-04-25
+* [Pull Request] [zkevm: keccak worst-case](https://github.com/ethereum/execution-spec-tests/pull/1497) - 2025-04-25
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

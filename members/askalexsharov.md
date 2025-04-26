@@ -770,6 +770,55 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/af7dc731bd5c23e823c27a81b388a55a6679ea46) - 2025-04-23
 * [Commit] [save](https://github.com/erigontech/erigon/commit/34e237931ffacefbd85db8978a8e6b01fd709e3b) - 2025-04-23
 * [Commit] [kv.temporal: add method Unwind (#14690)](https://github.com/erigontech/erigon/commit/7ec82387fc7bdc77f22613815aca9b6ba1c40dc6) - 2025-04-23
+* [Commit] [Snap ver bump renaming (#14517)](https://github.com/erigontech/erigon/commit/767a6d631a077c7d1567c53d553345fe5789e090) - 2025-04-25
+* [Commit] [CI: run on win2025 (#14748)](https://github.com/erigontech/erigon/commit/ac18a92965f63a959c3b5b1109e1ebc25aded1f1) - 2025-04-25
+* [Commit] [[pick r3.0] merge: look only at state domains when canceling merge (#14746)](https://github.com/erigontech/erigon/commit/ee9a6712b0fb3415954a29360e32be91af0d9d24) - 2025-04-25
+* [Commit] [linter v2 (#14747)](https://github.com/erigontech/erigon/commit/4548d37c97712311d6cb549af4a328536d35d4ca) - 2025-04-25
+* [Commit] [`blockReader.txnLookup` to not increment `txNum` before return (#14221)](https://github.com/erigontech/erigon/commit/47f5cf167ec018bf1e58da098201b2bb7b954d73) - 2025-04-25
+* [Commit] [build .vi: fix cnt in logs (#14726)](https://github.com/erigontech/erigon/commit/b8710f29e4ce18e95553319f123d6073da9a18cf) - 2025-04-25
+* [Commit] [ historical receipt persistence (#14669)](https://github.com/erigontech/erigon/commit/99f33f345dc63c3f054c213f99632f3ccbc85969) - 2025-04-25
+* [Pull Request] [CI: run on win2025](https://github.com/erigontech/erigon/pull/14748) - 2025-04-25
+* [Commit] [remove agg field from Mock (#14732)](https://github.com/erigontech/erigon/commit/04602768120dec76261e1059dc40c9e51a6c5f65) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/344bf9c30c62adc7cc03d7fe35de31f7fa07ac8f) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/9761cd43e65e338213da56a9ca9ec8de69cbca76) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/1f1c50f56428478618f503118be0df6326fafb24) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/45f227cb841546bd8cccc80cd9372b8e402ea407) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/333e61e4bbd719b8aea4d407de722c29c26d410d) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/615ff13ef20c91be20828d7dc20031221d568671) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/c4565d2b88a349b9cb1bc0336a0806ffd95e7a51) - 2025-04-25
+* [Pull Request] [linter v2](https://github.com/erigontech/erigon/pull/14747) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/96955a0dd32c12126751d4be716a93673223b4d0) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/63c1078fe48838f5c2c2378ba58a36ba107989d7) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/13c6c65345a343164d94959255d736e4013f1c19) - 2025-04-25
+* [Pull Request] [[pick r3.0] merge: look only at state domains when canceling merge](https://github.com/erigontech/erigon/pull/14746) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/8477853ea36282be964e55ac02874380a2f24da7) - 2025-04-25
+* [Commit] [workflows: increase hive eest threshold temporarily (#14728)](https://github.com/erigontech/erigon/commit/00487a9d05d1ea066937ddfd18a17eb2e89ad004) - 2025-04-25
+* [Commit] [no greedy prune of commitment hist on chain-tip (#14618)](https://github.com/erigontech/erigon/commit/2cbc7d24c43a228433835d42916a3c3b1f0dbf9a) - 2025-04-25
+* [Commit] [history: dedup code of build `.vi` file (#14682)](https://github.com/erigontech/erigon/commit/eacf3acc09e8a50617c872bdebc931c114c3be4b) - 2025-04-25
+* [Commit] [measure chain-tip impact of removing `txnum` field from buffered writers (#14733)](https://github.com/erigontech/erigon/commit/1d8c12f9b37e8b8c48582ccc7a8faf812d32ba22) - 2025-04-25
+* [Commit] [sav](https://github.com/erigontech/erigon/commit/cba53dfb2dab461d861e71bdc8b0fa569fa1e4c5) - 2025-04-25
+* [Pull Request] [merge: look only at state domains when canceling merge](https://github.com/erigontech/erigon/pull/14745) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e4d2ec65ea96f5081eac44ffbfb225bc1807cc07) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9ca171a6ed597f6ecd8b90f3f1f26156139d8b60) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/825594b60a21aebdd9fa285f4de100bb43d9da97) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/333460b2c04860993b1580f9b67f4d03c060c005) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/628fd85082ac4bc77ab955e1bef36d398761ad68) - 2025-04-25
+* [Issue] [Race between BroadCastPendingBlock and Mining](https://github.com/erigontech/erigon/issues/14743) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/625cfa0b3bcc7af970739937d52a1405ce573a0c) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b6e28151de329d61b762e23e955e425bea215d3f) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/da2b74f72b83d06a66f1d2c2556ed36c13ff305f) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1527bbd7e4571308263dd428ea03d9378917e947) - 2025-04-25
+* [Issue] [commitment package test race](https://github.com/erigontech/erigon/issues/14742) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b09fd5b6f9e25018821a343798371823d42c2909) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/600f9a55004ca7cf8619d0b3e9a0faa6df624999) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/481bc0191697cd7467f9c3102aad30460b4ddfcf) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a4d36956ebe32c363eb72f89dc146b8700e22b58) - 2025-04-25
+* [Commit] [`erigon seg retire`: to remove garbage state files  (#14727)](https://github.com/erigontech/erigon/commit/f36f87ce93190f475c640c1834914196355343ce) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/17dc21dd08c305a6b97ad7440c0a239f744fd374) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a1b9cbcca19ee7a4fdc49129ab22a553db0d27cc) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cc889bd69a8ad8c1576fb4084c2b75ae3c55a0a8) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7e759e5680144e2cb30f30e06ad11ad09e634d2d) - 2025-04-25
+* [Commit] [kv: add HasPrefix to TemporalTx and SharedDomains (#14739)](https://github.com/erigontech/erigon/commit/b75827826bbf496c074c24e01ebdb9669c673104) - 2025-04-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

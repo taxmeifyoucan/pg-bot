@@ -68,6 +68,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [histCfg: remove unused field (#14667)](https://github.com/erigontech/erigon/commit/05905fa6f648979d1900c8d3d5df1426d10b72c9) - 2025-04-21
 * [Commit] [build files](https://github.com/erigontech/erigon/commit/fe6f9359e20dcefef32b1f8d8826260c531109cc) - 2025-04-22
 * [Commit] [wip](https://github.com/erigontech/erigon/commit/67e06c4036cd4ca725ec8f329c466c4f00ee6bd9) - 2025-04-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/28ac9dc53c814bffd25214d9cd0d028f9d45bea3) - 2025-04-25
+* [Commit] [histCfg: remove unused field (#14667)](https://github.com/erigontech/erigon/commit/05905fa6f648979d1900c8d3d5df1426d10b72c9) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a4351243c6dfd19d8c0549817b3d86870593a24b) - 2025-04-25
+* [Pull Request] [reload salt file post snapshots download](https://github.com/erigontech/erigon/pull/14760) - 2025-04-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/54b8c01ca69ad1021c57bd92e0cce11377391ddc) - 2025-04-25
+* [Commit] [wip](https://github.com/erigontech/erigon/commit/cc004aedec1d64eba991bda0625c746cb008f4c7) - 2025-04-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

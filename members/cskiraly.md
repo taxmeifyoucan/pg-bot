@@ -21,6 +21,7 @@ Team: Codex DAS
 * [Commit] [set doNotDropBefore to 10 minutes](https://github.com/ethereum/go-ethereum/commit/976e039e3760b6d808de49327cbc3ea264004120) - 2025-04-14
 * [Pull Request] [eth: fix transaction sender cache miss before broadcast](https://github.com/ethereum/go-ethereum/pull/31657) - 2025-04-16
 * [Pull Request] [p2p: make dial faster by streamlined discovery process](https://github.com/ethereum/go-ethereum/pull/31678) - 2025-04-19
+* [Pull Request] [Stabilize tx peer selection](https://github.com/ethereum/go-ethereum/pull/31714) - 2025-04-25
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

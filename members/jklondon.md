@@ -70,6 +70,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/4bb6975e7bedcbab264391f268ee73c76ad3ccaf) - 2025-04-22
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/7b8240d8884a73ef3aef17f7d7a9979581c610dc) - 2025-04-22
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/c8fea95a7c02e3c57099d3b9a2215ea66eb2723d) - 2025-04-23
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/8f5329a005efed54e67440104f7174d58e924d21) - 2025-04-25
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/b0b983cd2f9a3c4286352e9531e5df5047d063c5) - 2025-04-25
+* [Commit] [sonar: move sonar github action after make test-all (#14709)](https://github.com/erigontech/erigon/commit/6157f6997595c80b34188990dce6ecd67dad2754) - 2025-04-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

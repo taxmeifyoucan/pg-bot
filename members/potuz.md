@@ -25,6 +25,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [lint](https://github.com/OffchainLabs/prysm/commit/0b93ca341ae760027ac751ce9003b1c6b9e2c0d8) - 2025-04-11
 * [Commit] [add dependency](https://github.com/OffchainLabs/prysm/commit/44499216aa1d8ac659e8f1a533da4a02fc6c4e0f) - 2025-04-11
 * [Commit] [Add feature flag to delay block broadcast](https://github.com/OffchainLabs/prysm/commit/0c69601014aa30a9abf5c2167968ab4cfc74c46b) - 2025-04-15
+* [Commit] [don't panic on underflow](https://github.com/OffchainLabs/prysm/commit/aa06ce5e0e227b8240788e3b52cb38757420da7f) - 2025-04-25
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

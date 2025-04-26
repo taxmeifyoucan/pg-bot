@@ -13,6 +13,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Commit] [Address review feedback](https://github.com/ethereum/portal-network-specs/commit/15aff5b4fb076a1362de09e7e8b921c68490cc6c) - 2025-04-24
+
+* [Commit] [Change ExecutionBlockProof to be a Vector instead of a List (#396)](https://github.com/ethereum/portal-network-specs/commit/7d22f0e6f9f023847a2915e83ce32950559dd751) - 2025-04-25
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Adjust tests for supporting SSZ vector Capella and Deneb HWP](https://github.com/status-im/nimbus-eth1/pull/3240) - 2025-04-25
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

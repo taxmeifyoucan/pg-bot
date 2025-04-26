@@ -53,6 +53,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [updated Cargo.lock](https://github.com/paradigmxyz/reth/commit/b17112140b730a28316b66678e0c32e852c8a702) - 2025-04-15
 * [Commit] [chore: bump ssz (#15713)](https://github.com/paradigmxyz/reth/commit/9f6082982fda25e2e960ef60d56144d05d7bb4d0) - 2025-04-15
 * [Commit] [chore:added revm re-export for reth-ethereum and reth-op (#15561)](https://github.com/paradigmxyz/reth/commit/f1dda7cf356005c713ff8a9faa30c5851311b34b) - 2025-04-22
+* [Commit] [bump revm, revm-inspectors and alloy-evm](https://github.com/paradigmxyz/reth/commit/ba697a378051ebd1133059c4bd92231448f014d6) - 2025-04-25
+* [Commit] [pass flag to tree config](https://github.com/paradigmxyz/reth/commit/257730ce0f11d96568875ce6efad45d47805b42b) - 2025-04-25
+* [Commit] [patch revm-inspectors](https://github.com/paradigmxyz/reth/commit/9b4c5cddda4655c2a5c9fc59ac19c80d829f15f9) - 2025-04-25
+* [Pull Request] [feat: add precompile cache for execution](https://github.com/paradigmxyz/reth/pull/15928) - 2025-04-25
+* [Commit] [feat: add precompile cache for execution](https://github.com/paradigmxyz/reth/commit/8aba04c5af662d088823f77df7e605a970db5c0d) - 2025-04-25
+* [Commit] [chore: bump sse (#15926)](https://github.com/paradigmxyz/reth/commit/987a94ed3301e2a88cf759e825149e2a7f862c2a) - 2025-04-25
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -44,6 +44,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [sonar: move sonar github action after make test-all](https://github.com/erigontech/erigon/pull/14709) - 2025-04-23
 * [Commit] [make: add make stringer (#14698)](https://github.com/erigontech/erigon/commit/1162dd5922b37e0457a646d39faede94e0e2e342) - 2025-04-23
 * [Commit] [make: fix make mocks (#14697)](https://github.com/erigontech/erigon/commit/d81babcb0ca19e17af2c15b43fd8c0efc84cab15) - 2025-04-23
+* [Issue] [[flaky] Test_ParallelHexPatriciaHashed_EdgeCases concurrent - fatal error: concurrent map writes](https://github.com/erigontech/erigon/issues/14752) - 2025-04-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

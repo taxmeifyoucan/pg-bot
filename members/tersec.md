@@ -71,6 +71,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [make publish-book c7e5cafa1](https://github.com/status-im/nimbus-eth2/commit/ce17855c308850ccf1acfa8e5f35aa68e932bed3) - 2025-04-22
 * [Commit] [version v25.4.0](https://github.com/status-im/nimbus-eth2/commit/c7e5cafa14e4c5267bbde3b4101be4690246cc63) - 2025-04-22
 * [Commit] [foo](https://github.com/status-im/nimbus-eth2/commit/980a0162ce50ab6194866cc0f8ca0f6e46daaaa5) - 2025-04-24
+* [Commit] [fix SSE single_attestation subscription (#7107)](https://github.com/status-im/nimbus-eth2/commit/fb9a1580fcb789abf66da40e0b3473595cab18a0) - 2025-04-25
+* [Pull Request] [fix SSE single_attestation subscription](https://github.com/status-im/nimbus-eth2/pull/7107) - 2025-04-25
+* [Commit] [track execution requests for builder API (#7103)](https://github.com/status-im/nimbus-eth2/commit/ab82386b3b2ee25e60ded3fdce934a7ef928528d) - 2025-04-25
+* [Commit] [insert the builder execution requests into the shim state transition](https://github.com/status-im/nimbus-eth2/commit/5db98ff001e7d539f0e4dc399582cc7cc99fc0d5) - 2025-04-25
+* [Commit] [insert the builder execution requests into the shim state transition](https://github.com/status-im/nimbus-eth2/commit/113af0254dc9b505446f8dd2a6ed9aef9a8fd429) - 2025-04-25
+* [Pull Request] [track execution requests for builder API](https://github.com/status-im/nimbus-eth2/pull/7103) - 2025-04-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

@@ -122,6 +122,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(clis): update besu exception mapper for 6110 `test_invalid_layout`](https://github.com/ethereum/execution-spec-tests/commit/4a5ebca2f56dbeebc91003c233450a0f78ebf644) - 2025-04-23
 * [Commit] [Deployed bc8713ee14 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d3db8cdbe17981abc203cdad2f048c2719b40240) - 2025-04-24
 * [Commit] [Deployed 62035359cc to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2d14d3ac98420f67e12597dbf6672519c70136bd) - 2025-04-24
+* [Commit] [Deployed db22cee529 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/a687d1ee7e2ee3c4130561290a8ed061d64c208a) - 2025-04-25
+* [Pull Request] [feat(tests): add eip-2929 precompile address warming tests](https://github.com/ethereum/execution-spec-tests/pull/1495) - 2025-04-25
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

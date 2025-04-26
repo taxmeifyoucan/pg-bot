@@ -18,6 +18,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Anisdas)
 * [Pull Request] [Fix Generated SSZ Files](https://github.com/OffchainLabs/prysm/pull/15199) - 2025-04-21
 * [Pull Request] [Update Insecure Dependencies](https://github.com/OffchainLabs/prysm/pull/15204) - 2025-04-22
 * [Pull Request] [Fix Unmarshalling of BlobSidecarsByRoot Requests](https://github.com/OffchainLabs/prysm/pull/15209) - 2025-04-23
+* [Pull Request] [Add Archival Flag](https://github.com/OffchainLabs/prysm/pull/15218) - 2025-04-25
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

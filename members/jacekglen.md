@@ -8,6 +8,13 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 ## Contributions
 
+## Q2 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [[silkworm] Call capi for single txn execution](https://github.com/erigontech/erigon/pull/14757) - 2025-04-25
+* [Commit] [qa-tests: increase timeout of the sync-from-scratch based bisection tool (#14738)](https://github.com/erigontech/erigon/commit/46f2c48208bb14d4cb5443d2fd2855e714266f19) - 2025-04-25
+* [Commit] [Post merge fixes](https://github.com/erigontech/erigon/commit/cb922a53f492c31bca38b6d02df556182de33178) - 2025-04-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

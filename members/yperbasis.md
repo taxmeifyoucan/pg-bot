@@ -66,6 +66,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Move DAO params to execution/consensus/misc](https://github.com/erigontech/erigon/commit/1f2fc8c31f0a6ed89a368a81f966950e04469afb) - 2025-04-23
 * [Pull Request] [tests: restore cashing in `make test`](https://github.com/erigontech/erigon/pull/14710) - 2025-04-23
 * [Commit] [tests: restore cashing in `make test`](https://github.com/erigontech/erigon/commit/43a715c82a41ef297818f9425f22c32e777cc7eb) - 2025-04-23
+* [Commit] [mv rest of accessors_metadata to core](https://github.com/erigontech/erigon/commit/73376e38eed860df173e6229df037d3a9e0c370a) - 2025-04-25
+* [Commit] [mv ReadChainConfig & WriteChainConfig to core](https://github.com/erigontech/erigon/commit/2bfeb7ee63388a692e8582171b02a9643df84114) - 2025-04-25
+* [Commit] [mv rawdbreset to eth](https://github.com/erigontech/erigon/commit/306b0cf8ad9901712cecb626c1ef32c634781edd) - 2025-04-25
+* [Commit] [mv migrations to node](https://github.com/erigontech/erigon/commit/890670b257f5bfe3349d387335b40d2ff9961938) - 2025-04-25
+* [Commit] [Move bor_receipts to polygon](https://github.com/erigontech/erigon/commit/d35c7c6f0543967533cee23073bc37eae7c98acb) - 2025-04-25
+* [Pull Request] [Remove unused methods](https://github.com/erigontech/erigon/pull/14759) - 2025-04-25
+* [Commit] [Remove unused methods](https://github.com/erigontech/erigon/commit/0951793e1d47f0cb7390ab71c145f779ffd381b3) - 2025-04-25
+* [Commit] [[cleanup] remove unused `erigon-lib/bptree` (#14758)](https://github.com/erigontech/erigon/commit/ddc3676227962703eea0196d15197b34c14dcc67) - 2025-04-25
+* [Pull Request] [[cleanup] remove unused `erigon-lib/bptree`](https://github.com/erigontech/erigon/pull/14758) - 2025-04-25
+* [Commit] [[cleanup] remove unused `erigon-lib/bptree`](https://github.com/erigontech/erigon/commit/26aee256bd5cc3fcb708f2272bce2e05b07bb031) - 2025-04-25
+* [Issue] [State root calculation is the bottleneck in block building](https://github.com/erigontech/erigon/issues/14754) - 2025-04-25
+* [Issue] [Switch `--chain=dev` to PoS and remove Clique](https://github.com/erigontech/erigon/issues/14753) - 2025-04-25
+* [Pull Request] [cleanup: use `common.` instead of `libcommon.`](https://github.com/erigontech/erigon/pull/14750) - 2025-04-25
+* [Commit] [cleanup: use `common.` instead of `libcommon.`](https://github.com/erigontech/erigon/commit/b43f48425c5980b56c1c9837a2dfa7d13508415c) - 2025-04-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

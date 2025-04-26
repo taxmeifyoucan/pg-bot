@@ -16,6 +16,7 @@ Team: Portal Network (EF)
 * [Commit] [fixed dead broken links in `portal-wire-protocol.md` (#391)](https://github.com/ethereum/portal-network-specs/commit/e4cce2e016f89cc6730ec49317b3d624dbd8aea7) - 2025-04-18
 * [Pull Request] [Make ephemeral header neighborhood gossip details more clear](https://github.com/ethereum/portal-network-specs/pull/393) - 2025-04-22
 * [Commit] [Make ephemeral header neighborhood gossip details more clear (#393)](https://github.com/ethereum/portal-network-specs/commit/23dda51f0d60e700b94d6b4f14dc87e7073c38da) - 2025-04-23
+* [Commit] [Move `Neighborhood Gossip`'s `RecursiveFindNodes` requirement to `portal_*PutContent` (#394)](https://github.com/ethereum/portal-network-specs/commit/a9f320dcf7cf698acbe4a80965c3fc255a2afd9c) - 2025-04-25
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

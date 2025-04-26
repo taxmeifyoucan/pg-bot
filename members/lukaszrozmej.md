@@ -28,6 +28,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 * [Commit] [avoid spin loop with ManualResetEventSlim](https://github.com/NethermindEth/nethermind/commit/d21026cbf5b944d864c12fe47075e95007d90639) - 2025-04-23
 * [Commit] [Add hashset pool](https://github.com/NethermindEth/nethermind/commit/563db84962cd0c4eaa891d10d5ed1f63252c9899) - 2025-04-23
+* [Commit] [Remove waiting, spinning is faster](https://github.com/NethermindEth/nethermind/commit/6a03d85f902f04b02c970c2a18a86a58abec887b) - 2025-04-25
+* [Commit] [small tweaks](https://github.com/NethermindEth/nethermind/commit/1c5dd0d21eb62a832aef398e6952ae0e95d98301) - 2025-04-25
+* [Commit] [Add comments](https://github.com/NethermindEth/nethermind/commit/3fcc022ce93d3b59a1b5cd9d27ebb3153327339c) - 2025-04-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

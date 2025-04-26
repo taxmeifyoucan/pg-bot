@@ -73,6 +73,10 @@ Team: Erigon
 * [Commit] [svae](https://github.com/erigontech/erigon/commit/2bf056ba4d6c4e757f8cc57c94cb286346f8a65f) - 2025-04-21
 * [Commit] [Arbitrum: Fix stylus part 1 (#14674)](https://github.com/erigontech/erigon/commit/d69b9f418ef91e5b0a4d4c2fc974bc9dc4040491) - 2025-04-21
 * [Pull Request] [merge main](https://github.com/erigontech/erigon/pull/14683) - 2025-04-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2032ee37727d2a3a4e0c887a5052fe08453ffea4) - 2025-04-25
+* [Commit] [upmerge main (#14737)](https://github.com/erigontech/erigon/commit/e1aa68c6f6d6f8c15d394b3c7a3eb7c140bb17d7) - 2025-04-25
+* [Commit] [fix race within concurrent trie in test (#14749)](https://github.com/erigontech/erigon/commit/dd05156e156b32f2033c6f3c90d4cdfced016c8b) - 2025-04-25
+* [Pull Request] [fix race within concurrent trie in test](https://github.com/erigontech/erigon/pull/14749) - 2025-04-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

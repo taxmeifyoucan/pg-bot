@@ -49,6 +49,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore(deps): bump fastify from 5.2.1 to 5.3.2 (#7725)](https://github.com/ChainSafe/lodestar/commit/8e915fe6fcd77d4e92a4905e57e0cb5fdff99f20) - 2025-04-19
 * [Commit] [chore: update chiado bootnode ENRs (#7731)](https://github.com/ChainSafe/lodestar/commit/910e3848db4bfaa8338d03c6f32f851dc86baa1f) - 2025-04-19
 * [Pull Request] [chore: update chiado bootnode ENRs](https://github.com/ChainSafe/lodestar/pull/7731) - 2025-04-19
+* [Commit] [Update remaining comments](https://github.com/ChainSafe/lodestar/commit/a6355fd7d0afaeee1afe5e25cfccfc4126520f89) - 2025-04-25
+* [Commit] [More cleanup](https://github.com/ChainSafe/lodestar/commit/17e6e594a6924386134832ebb1fd88ea1563405e) - 2025-04-25
+* [Commit] [Deprecate useProduceBlockV3 flag](https://github.com/ChainSafe/lodestar/commit/4884de2c1380f322732ae36e910e7ccf81bd789d) - 2025-04-25
+* [Pull Request] [chore: remove produce block apis no longer part of spec](https://github.com/ChainSafe/lodestar/pull/7749) - 2025-04-25
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

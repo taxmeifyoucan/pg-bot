@@ -24,6 +24,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-kzg4844 to 644a19b9874516446411aa31a7747b81d21431e5](https://github.com/status-im/nimbus-eth2/pull/7094) - 2025-04-22
 * [Pull Request] [Bump nim-web3 to v0.6.0](https://github.com/status-im/nimbus-eth2/pull/7093) - 2025-04-22
 * [Pull Request] [Bump hoodi to 7f71638afc431675c19b9e306998b9d4925b7cec](https://github.com/status-im/nimbus-eth2/pull/7089) - 2025-04-22
+* [Commit] [Create database tables for block / blob data sidecar quarantine](https://github.com/status-im/nimbus-eth2/commit/5572f3a82b2de4ec2ae485d1a073bd76bcfe5030) - 2025-04-25
+* [Pull Request] [Create database tables for block / blob data sidecar quarantine](https://github.com/status-im/nimbus-eth2/pull/7108) - 2025-04-25
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

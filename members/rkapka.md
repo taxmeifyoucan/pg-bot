@@ -32,6 +32,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [Refactor lc tests (#15155)](https://github.com/OffchainLabs/prysm/commit/cd87082f25890409bd626b7bac44897a997a2e21) - 2025-04-14
 * [Pull Request] [Guard against no attesters within committee in `VerifyAttestationNoVerifySignature](https://github.com/OffchainLabs/prysm/pull/15169) - 2025-04-14
 * [Commit] [changelog fragment](https://github.com/OffchainLabs/prysm/commit/bab3d62c3a5d8f911323ec4c5be26a93da083f6d) - 2025-04-14
+* [Pull Request] [Implement pending consolidations Beacon API endpoint](https://github.com/OffchainLabs/prysm/pull/15219) - 2025-04-25
+* [Commit] [changelog](https://github.com/OffchainLabs/prysm/commit/275dce04bd3b40f1b413d6eebfcd738e0289f710) - 2025-04-25
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

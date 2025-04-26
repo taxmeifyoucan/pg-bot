@@ -34,6 +34,10 @@ Team: Reth
 * [Commit] [Add metric for supervisor RPC latency (#15570)](https://github.com/paradigmxyz/reth/commit/8be89080b0c0b20eb69e9bbb9e193644186e2459) - 2025-04-22
 * [Pull Request] [feat(engine): use prewarming task only if has enough parallelism](https://github.com/paradigmxyz/reth/pull/15850) - 2025-04-22
 * [Pull Request] [fix(cli): drop ExEx WAL only if it exists](https://github.com/paradigmxyz/reth/pull/15871) - 2025-04-23
+* [Commit] [undo some noise changes](https://github.com/paradigmxyz/reth/commit/d2875e07eb4bcc740a84961dacf7e86beece1f9b) - 2025-04-25
+* [Commit] [Created GeneratePayloadAttributes e2e Action (#15234)](https://github.com/paradigmxyz/reth/commit/d456af044e886243577a8a48c42e7d7fdec160d5) - 2025-04-25
+* [Commit] [store all branch nodes only for state trie](https://github.com/paradigmxyz/reth/commit/b06e4caded9ec4a9f85b3c45652f445fa4b69aaf) - 2025-04-25
+* [Commit] [store all branch nodes only for state trie](https://github.com/paradigmxyz/reth/commit/bfb5ac94526fe3b838a7418756af712eddadd6bc) - 2025-04-25
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

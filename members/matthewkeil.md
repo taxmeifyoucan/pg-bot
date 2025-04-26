@@ -42,6 +42,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: deduplicate DataAvailabilityStatus enum (#7703)](https://github.com/ChainSafe/lodestar/commit/bb6038a1d123a117dad4b329ee81e439f0b5a979) - 2025-04-21
 * [Commit] [chore: update any-signal to latest version (#7628)](https://github.com/ChainSafe/lodestar/commit/dd729f5ece9eff9ab30d3599f1aa4f03c614f2c4) - 2025-04-22
 * [Commit] [feat: prune expired data column sidecars (#7717)](https://github.com/ChainSafe/lodestar/commit/008adb8ef041c137fcf8fa3ea291eed5e3b73f58) - 2025-04-22
+* [Commit] [feat: support min request epoch in dataColumnSidecarsByRoot (#7743)](https://github.com/ChainSafe/lodestar/commit/6dfb4ece1130b7498bdd07fe24bc2a6e571b5440) - 2025-04-25
+* [Commit] [fix: update ENR with new cgc (#7737)](https://github.com/ChainSafe/lodestar/commit/948bd1af01f1b0d51093ea69dfe8739474cb1596) - 2025-04-25
+* [Commit] [feat: validate data column sidecars according to spec (#7719)](https://github.com/ChainSafe/lodestar/commit/f90f622140392a331b72da5a38a56546d43edeff) - 2025-04-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

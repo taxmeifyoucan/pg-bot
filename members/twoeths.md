@@ -63,6 +63,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: handle no eligible peer](https://github.com/ChainSafe/lodestar/commit/770ffa30ce6d8d829e0df2fadbb101d01fb8a53f) - 2025-04-22
 * [Commit] [feat: prune expired data column sidecars (#7717)](https://github.com/ChainSafe/lodestar/commit/008adb8ef041c137fcf8fa3ea291eed5e3b73f58) - 2025-04-24
 * [Commit] [feat: unit tests for PeerBalancer](https://github.com/ChainSafe/lodestar/commit/2f43227db76380e6f84584e45938c16460101343) - 2025-04-24
+* [Pull Request] [Te/sync pick good peers](https://github.com/ChainSafe/lodestar/pull/7746) - 2025-04-25
+* [Commit] [fix: add back syncChainsPeers metric](https://github.com/ChainSafe/lodestar/commit/43684806b6fc947cc884b4ed47bbe6dbf34d423f) - 2025-04-25
+* [Commit] [fix: simplify PeerBalancer constructor](https://github.com/ChainSafe/lodestar/commit/bcb2d202521c7ebdb0a10686792d319efda694eb) - 2025-04-25
+* [Commit] [fix: update activeRequestsByPeer in idlePeerForBatch()](https://github.com/ChainSafe/lodestar/commit/fb1483b80cb1986e9a55a3d4db743033edec1da8) - 2025-04-25
+* [Commit] [fix: always add CGC to ENR (#7738)](https://github.com/ChainSafe/lodestar/commit/745b305636266838b5f5fc64aea332a32408d388) - 2025-04-25
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

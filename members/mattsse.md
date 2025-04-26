@@ -142,6 +142,12 @@ Team: Reth
 * [Commit] [refactor(reth): Extract `Cli` into `ethereum-cli` crate](https://github.com/paradigmxyz/reth/commit/6dc36b2be8cc832b0d4bbcdefd6b88ef7cae2b7b) - 2025-04-23
 * [Commit] [refactor(reth): Extract `Cli` into `ethereum-cli` crate](https://github.com/paradigmxyz/reth/commit/14d163fc286f5307168a6a646f6507f4d81194ee) - 2025-04-23
 * [Issue] [Introduce SealedHeader::split_ref](https://github.com/paradigmxyz/reth/issues/15917) - 2025-04-24
+* [Pull Request] [chore: use spare capacity](https://github.com/paradigmxyz/reth/pull/15932) - 2025-04-25
+* [Issue] [Remove redundant consensus call](https://github.com/paradigmxyz/reth/issues/15930) - 2025-04-25
+* [Issue] [Migrate to jsonrpsee 0.25](https://github.com/paradigmxyz/reth/issues/15929) - 2025-04-25
+* [Pull Request] [chore: rm reth-primitives from reth bin](https://github.com/paradigmxyz/reth/pull/15927) - 2025-04-25
+* [Pull Request] [chore: bump sse](https://github.com/paradigmxyz/reth/pull/15926) - 2025-04-25
+* [Issue] [Extract crypto recovery backend to alloy](https://github.com/paradigmxyz/reth/issues/15922) - 2025-04-25
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

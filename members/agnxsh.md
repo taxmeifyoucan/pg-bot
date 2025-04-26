@@ -47,6 +47,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [added more logging, changed some strategy](https://github.com/status-im/nimbus-eth2/commit/61bd6a52eb5617e16767b6c42168e8d4630317dd) - 2025-04-22
 * [Commit] [remove debugEcho](https://github.com/status-im/nimbus-eth2/commit/0304b53e009c34aa039363072abff514cd5e3fe7) - 2025-04-23
 * [Commit] [adapt block_sim to represent post-EIP-6110 chain (#7081)](https://github.com/status-im/nimbus-eth2/commit/8e33582edb38f1839d146bdb70da1b229b55aedb) - 2025-04-23
+* [Pull Request] [bump `nim-web3` to `8460999c15f37eec61d09296ae81bac577daf3d9`](https://github.com/status-im/nimbus-eth2/pull/7106) - 2025-04-25
+* [Commit] [some more fixes](https://github.com/status-im/nimbus-eth2/commit/c6bbb56ef42dc398c35d8a3f44e868033f661a92) - 2025-04-25
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
