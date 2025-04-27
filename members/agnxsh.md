@@ -49,6 +49,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [adapt block_sim to represent post-EIP-6110 chain (#7081)](https://github.com/status-im/nimbus-eth2/commit/8e33582edb38f1839d146bdb70da1b229b55aedb) - 2025-04-23
 * [Pull Request] [bump `nim-web3` to `8460999c15f37eec61d09296ae81bac577daf3d9`](https://github.com/status-im/nimbus-eth2/pull/7106) - 2025-04-25
 * [Commit] [some more fixes](https://github.com/status-im/nimbus-eth2/commit/c6bbb56ef42dc398c35d8a3f44e868033f661a92) - 2025-04-25
+* [Commit] [one more fix](https://github.com/status-im/nimbus-eth2/commit/e55b6e06ad04201c3442c76993bd37193bce3f62) - 2025-04-26
+* [Commit] [Use ordered table for attestation packing (#7053)](https://github.com/status-im/nimbus-eth2/commit/a73abb41fa58eb9d9f9886a14d9afb1d12526b3e) - 2025-04-26
+* [Pull Request] [[do not merge] draft branch to integrate column metrics](https://github.com/status-im/nimbus-eth2/pull/7110) - 2025-04-26
+* [Commit] [Add peerDAS gossip metrics (#7066)](https://github.com/status-im/nimbus-eth2/commit/6de64f431db0c48abc06bf821310352a89429f7a) - 2025-04-26
+* [Commit] [totally remove el blob loss conditions](https://github.com/status-im/nimbus-eth2/commit/3db9f2f77c06191292ceaad617e3bc2620b89442) - 2025-04-26
+* [Commit] [remvoe partial response condition as ELs don't respond anymore](https://github.com/status-im/nimbus-eth2/commit/b022e3e79bdd579eae2acd58e9aee3142c31f3f7) - 2025-04-26
+* [Commit] [added column sync status](https://github.com/status-im/nimbus-eth2/commit/3404fae1c67136891975575d62249e33bb32f615) - 2025-04-26
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

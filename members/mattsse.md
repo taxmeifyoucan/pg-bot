@@ -148,6 +148,10 @@ Team: Reth
 * [Pull Request] [chore: rm reth-primitives from reth bin](https://github.com/paradigmxyz/reth/pull/15927) - 2025-04-25
 * [Pull Request] [chore: bump sse](https://github.com/paradigmxyz/reth/pull/15926) - 2025-04-25
 * [Issue] [Extract crypto recovery backend to alloy](https://github.com/paradigmxyz/reth/issues/15922) - 2025-04-25
+* [Commit] [chore: rm storagelock variant (#15948)](https://github.com/paradigmxyz/reth/commit/85f39827fd0690d753f9c5ae3d6c4d5b87c43b8b) - 2025-04-26
+* [Pull Request] [chore: rm storagelock variant](https://github.com/paradigmxyz/reth/pull/15948) - 2025-04-26
+* [Issue] [Replace CacheServiceUnavailable variant with a dedicated error variant](https://github.com/paradigmxyz/reth/issues/15947) - 2025-04-26
+* [Issue] [remove reth-optimism-chain-registry crate](https://github.com/paradigmxyz/reth/issues/15942) - 2025-04-26
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

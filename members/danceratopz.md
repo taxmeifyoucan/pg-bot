@@ -124,6 +124,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 62035359cc to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2d14d3ac98420f67e12597dbf6672519c70136bd) - 2025-04-24
 * [Commit] [Deployed db22cee529 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/a687d1ee7e2ee3c4130561290a8ed061d64c208a) - 2025-04-25
 * [Pull Request] [feat(tests): add eip-2929 precompile address warming tests](https://github.com/ethereum/execution-spec-tests/pull/1495) - 2025-04-25
+* [Commit] [fix(consume): add forgotten pytest fixture to function sig](https://github.com/ethereum/execution-spec-tests/commit/1f79d90013109cf22f017290de05d8dc82a2f160) - 2025-04-27
+* [Commit] [chore(consume): remove debugging log message](https://github.com/ethereum/execution-spec-tests/commit/993a9188cf68259b292cc20ed72101db6bad8122) - 2025-04-26
+* [Commit] [fix(consume): add forgotten client file to hive command-line](https://github.com/ethereum/execution-spec-tests/commit/a594a7d888b5386af615a81585d2a7cbc3664b55) - 2025-04-26
+* [Commit] [fix(consume): only show the client relevant to test in hive command](https://github.com/ethereum/execution-spec-tests/commit/fda777706daee85280453cd3fbb61ee35933dac7) - 2025-04-26
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

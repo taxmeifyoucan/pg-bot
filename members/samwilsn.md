@@ -16,6 +16,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 * [Commit] [chore(ci): upgrade checkout to v4](https://github.com/ethereum/execution-specs/commit/3e64096e55aae5221f44b7f3cb4e9e339e3e47ea) - 2025-04-25
 * [Commit] [fix link EIP_AUTHORS_MANUAL.md](https://github.com/ethereum/execution-specs/commit/2951de1b1eb59f95fedb6adf11ccfa87e1871d86) - 2025-04-25
+* [Commit] [Use type alias instead of raw type](https://github.com/ethereum/execution-specs/commit/001a057fcdecc9852809d4ea3499b28a6b9239da) - 2025-04-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 

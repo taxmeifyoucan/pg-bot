@@ -45,6 +45,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Auto-update fast sync settings (#8545)](https://github.com/NethermindEth/nethermind/commit/fdb0d5d08c57042b87ade33e0aa54109b463b736) - 2025-04-23
 * [Commit] [Refactor/move worldstate to DI (#8543)](https://github.com/NethermindEth/nethermind/commit/7d85c4e2ed6ab9155053558de55a875e1082d6e2) - 2025-04-23
 * [Commit] [Address comment](https://github.com/NethermindEth/nethermind/commit/1fdc2d23d8588df434270d7763dfda1923870ff9) - 2025-04-23
+* [Pull Request] [Maybe incorrect total difficulty](https://github.com/NethermindEth/nethermind/pull/8557) - 2025-04-26
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

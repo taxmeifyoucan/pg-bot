@@ -819,6 +819,43 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/cc889bd69a8ad8c1576fb4084c2b75ae3c55a0a8) - 2025-04-25
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7e759e5680144e2cb30f30e06ad11ad09e634d2d) - 2025-04-25
 * [Commit] [kv: add HasPrefix to TemporalTx and SharedDomains (#14739)](https://github.com/erigontech/erigon/commit/b75827826bbf496c074c24e01ebdb9669c673104) - 2025-04-25
+* [Commit] [[r30] `erigon seg retire`: to remove garbage state files (#14771)](https://github.com/erigontech/erigon/commit/0358762c863eb90ef248b9f8b28b4fb4546a929a) - 2025-04-26
+* [Commit] [ increase in-mem db limit  (#14767)](https://github.com/erigontech/erigon/commit/3cd4e1d07331583b1a89594e9825e90e69834f7a) - 2025-04-26
+* [Commit] [revert rand source for salt (#14772)](https://github.com/erigontech/erigon/commit/fa97ef9b3d350656af2136ed369302a9c6eff71f) - 2025-04-26
+* [Pull Request] [[r30] `erigon seg retire`: to remove garbage state files](https://github.com/erigontech/erigon/pull/14771) - 2025-04-26
+* [Commit] [[r30 pick] `seg.Writer`: to satisfy `io.Writer`  (#14770)](https://github.com/erigontech/erigon/commit/429b63cf7e760fe4e4db5e5f4e2c815bb5cdc130) - 2025-04-26
+* [Commit] [blocks retire: to use core rlp package instead of txpool's one (#14763)](https://github.com/erigontech/erigon/commit/bda860b352148034ed0b74f82d709e55002a7cd4) - 2025-04-26
+* [Commit] [[r30] increase in-mem db limit  (#14765)](https://github.com/erigontech/erigon/commit/d112de1e239d620d0d989de9d7b4164226da78d5) - 2025-04-26
+* [Commit] [[r30 pick] CI: run on win2025 (#14766)](https://github.com/erigontech/erigon/commit/5f7a2080ce62e72de41059bca6977f0d3cf8d923) - 2025-04-26
+* [Commit] [blocks retire: to use core rlp package instead of txpool's one (#14768)](https://github.com/erigontech/erigon/commit/e65dd0d1a5d8c6d0047b64a65c61303c0f8dc6ca) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b882d99604aef002ff82139ce0d61f6407f1449d) - 2025-04-26
+* [Pull Request] [[r30 pick] `seg.Writer`: to satisfy `io.Writer` ](https://github.com/erigontech/erigon/pull/14770) - 2025-04-26
+* [Issue] [[r30 pick] `seg.Writer`: to satisfy `io.Writer`](https://github.com/erigontech/erigon/issues/14769) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cbba66653011c99eeb46363a82467986e2b1a6ee) - 2025-04-26
+* [Pull Request] [blocks retire: to use core rlp package instead of txpool's one](https://github.com/erigontech/erigon/pull/14768) - 2025-04-26
+* [Pull Request] [ increase in-mem db limit ](https://github.com/erigontech/erigon/pull/14767) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8df215484f5a97736814c5766f80cb8d08d2f3ed) - 2025-04-26
+* [Pull Request] [[r30 pick] CI: run on win2025](https://github.com/erigontech/erigon/pull/14766) - 2025-04-26
+* [Pull Request] [increase in-mem db limit ](https://github.com/erigontech/erigon/pull/14765) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/abe2cb8959e39291632e2007feb2b34f2471055d) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fca2c0f5f596f47d49977a20150871defdaf11fe) - 2025-04-26
+* [Issue] [DumpTxs: deadlock on parsing error](https://github.com/erigontech/erigon/issues/14764) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a088c01d8390f1761875fa196af8045bd44c159b) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d9460e2e9e813a7b5dc8c4a7662cda7933b2ed1a) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/68bb2d09c6f4776fdeb91ea60c3ed94f2b15abe4) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f8cc28d8dff2cbd8912b70751e5ca7505cc98f46) - 2025-04-26
+* [Pull Request] [blocks retire: to use core rlp package instead of txpool's one](https://github.com/erigontech/erigon/pull/14763) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/395df44d91fe2a733ee281c3ded658839167bf3a) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5f312c6a486983c3ec472e5e12ef8198b409bd15) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d7e1b5e8bee62c2275bc5cb9b777ce342e48d8e3) - 2025-04-26
+* [Issue] [DumpTxs: can't parse txn](https://github.com/erigontech/erigon/issues/14762) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3e7dc3ec65d62edb8359a78e3568070a51ba79aa) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5836d2341d88c32dd50177a302e1ef2bead91e76) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1d433a016e26edc72c4ad40420f8ba02f2b970c6) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d62c234cf49986c763347f2efee301264235e4a9) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2896056f9099ff43aa30dc2690edb6a7267ffcd4) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3466e811043af3c84ba4eec690cc6d5c9582579f) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b8ba1b08aef3185a85c5430f8ad23ec5dcf64e6c) - 2025-04-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

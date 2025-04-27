@@ -59,6 +59,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [feat: add precompile cache for execution](https://github.com/paradigmxyz/reth/pull/15928) - 2025-04-25
 * [Commit] [feat: add precompile cache for execution](https://github.com/paradigmxyz/reth/commit/8aba04c5af662d088823f77df7e605a970db5c0d) - 2025-04-25
 * [Commit] [chore: bump sse (#15926)](https://github.com/paradigmxyz/reth/commit/987a94ed3301e2a88cf759e825149e2a7f862c2a) - 2025-04-25
+* [Commit] [update gas bounds](https://github.com/paradigmxyz/reth/commit/c6f0225dde68efc3af465c29d9ee7628b66d890e) - 2025-04-26
+* [Commit] [no need to modify gas_spent on success](https://github.com/paradigmxyz/reth/commit/3aab74156e66c4c7e44539d603ef4a30dfd3731d) - 2025-04-26
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -74,6 +74,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [reload salt file post snapshots download](https://github.com/erigontech/erigon/pull/14760) - 2025-04-25
 * [Commit] [save](https://github.com/erigontech/erigon/commit/54b8c01ca69ad1021c57bd92e0cce11377391ddc) - 2025-04-25
 * [Commit] [wip](https://github.com/erigontech/erigon/commit/cc004aedec1d64eba991bda0625c746cb008f4c7) - 2025-04-25
+* [Pull Request] [revert rand source for salt](https://github.com/erigontech/erigon/pull/14772) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/98da075aa30de437583368425be6603b08d5abc7) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bc3239c287e0dd5b5f248f6babc184324d24d8ca) - 2025-04-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

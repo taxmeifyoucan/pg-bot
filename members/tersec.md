@@ -77,6 +77,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [insert the builder execution requests into the shim state transition](https://github.com/status-im/nimbus-eth2/commit/5db98ff001e7d539f0e4dc399582cc7cc99fc0d5) - 2025-04-25
 * [Commit] [insert the builder execution requests into the shim state transition](https://github.com/status-im/nimbus-eth2/commit/113af0254dc9b505446f8dd2a6ed9aef9a8fd429) - 2025-04-25
 * [Pull Request] [track execution requests for builder API](https://github.com/status-im/nimbus-eth2/pull/7103) - 2025-04-25
+* [Commit] [rm Deneb builder API support (#7071)](https://github.com/status-im/nimbus-eth2/commit/158876912751b71cfc84a80070aa899810684265) - 2025-04-26
+* [Commit] [Bump sepolia to 562d9938f08675e9ba490a1dfba21fb05843f39f (#7027)](https://github.com/status-im/nimbus-eth2/commit/3b094a1c0fdf135408f513d358a3a18ee17df341) - 2025-04-26
+* [Commit] [rm Deneb builder API support](https://github.com/status-im/nimbus-eth2/commit/97f35362a403cd5f81ca498959eb56af8d058896) - 2025-04-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

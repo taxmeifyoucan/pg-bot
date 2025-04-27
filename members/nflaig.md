@@ -53,6 +53,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [More cleanup](https://github.com/ChainSafe/lodestar/commit/17e6e594a6924386134832ebb1fd88ea1563405e) - 2025-04-25
 * [Commit] [Deprecate useProduceBlockV3 flag](https://github.com/ChainSafe/lodestar/commit/4884de2c1380f322732ae36e910e7ccf81bd789d) - 2025-04-25
 * [Pull Request] [chore: remove produce block apis no longer part of spec](https://github.com/ChainSafe/lodestar/pull/7749) - 2025-04-25
+* [Commit] [chore: reorder checks in process consolidation request to match spec (#7576)](https://github.com/ChainSafe/lodestar/commit/8448e83b8130e9763d0d2b1fc9dc46b5de5bf805) - 2025-04-26
+* [Commit] [Use ssz by default for registerValidator beacon api](https://github.com/ChainSafe/lodestar/commit/388e5dd55455d6d986f16f0c6abe005dee1b793d) - 2025-04-26
+* [Commit] [feat: add fulu definition (#7479)](https://github.com/ChainSafe/lodestar/commit/929d0ea0221015e2f87247c68c727d585eb9cb67) - 2025-04-26
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

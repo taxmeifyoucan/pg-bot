@@ -77,6 +77,7 @@ Team: Erigon
 * [Pull Request] [workflows: threshold further higher for hive-eest](https://github.com/erigontech/erigon/pull/14740) - 2025-04-24
 * [Commit] [workflows: threshold further higher for hive-eest (#14740)](https://github.com/erigontech/erigon/commit/9baa2aa4a0fc1687fa9e8fbc7094090b30649294) - 2025-04-25
 * [Commit] [Makefile: bake in kurtosis tests (#14736)](https://github.com/erigontech/erigon/commit/43d8079f00624fd6eb29509dd5baaabc2e7104e3) - 2025-04-25
+* [Commit] [Fix len depositUnpacking](https://github.com/erigontech/erigon/commit/8b77c445ea1d713be7334afcd408b497fa0870be) - 2025-04-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
