@@ -32,6 +32,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [small tweaks](https://github.com/NethermindEth/nethermind/commit/1c5dd0d21eb62a832aef398e6952ae0e95d98301) - 2025-04-25
 * [Commit] [Add comments](https://github.com/NethermindEth/nethermind/commit/3fcc022ce93d3b59a1b5cd9d27ebb3153327339c) - 2025-04-25
 * [Commit] [optimizations](https://github.com/NethermindEth/nethermind/commit/fb937b139c6197a512e0d5d556fddfd83440e4a2) - 2025-04-26
+* [Commit] [Update OP Superchain chains (#8560)](https://github.com/NethermindEth/nethermind/commit/c06f87a1ab5964c11bf071fdb43efd51019f2207) - 2025-04-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

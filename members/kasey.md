@@ -23,6 +23,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [only advance to the start of epoch](https://github.com/OffchainLabs/prysm/commit/1b8d886e36ed763fd34849fecc215d58e2b2e9b6) - 2025-04-24
 * [Commit] [use no-copy state cache for proposal in same epoch](https://github.com/OffchainLabs/prysm/commit/9182eee2768d9882bb0edd5cc8be4ac415dd6965) - 2025-04-24
 * [Commit] [use no-copy state cache for proposal in same epoch](https://github.com/OffchainLabs/prysm/commit/6227c5159d3e8a8c002b282aedb6949b24bdc575) - 2025-04-24
+* [Commit] [fix blockchain tests that panic without SyncChecker](https://github.com/OffchainLabs/prysm/commit/377b03a225ab330d1063aab63a8b73727f0b7d12) - 2025-04-27
+* [Commit] [finagle test to not trigger old event error](https://github.com/OffchainLabs/prysm/commit/50839722d9f65406c5814f5ec2426d76d69d7a21) - 2025-04-27
+* [Commit] [lint and skip events during init sync](https://github.com/OffchainLabs/prysm/commit/95e1e3c1f52d72154666a84bf81bf3f7a7e74702) - 2025-04-27
+* [Commit] [skip past proposal slots](https://github.com/OffchainLabs/prysm/commit/1eafcc4a1efadf688aa4b9042fc223954f4d8ff6) - 2025-04-27
+* [Commit] [Terence's feedback](https://github.com/OffchainLabs/prysm/commit/4cc1edb38cb55c79dab0de6c6b51b1e53e267e9b) - 2025-04-27
+* [Commit] [Update beacon-chain/blockchain/execution_engine.go](https://github.com/OffchainLabs/prysm/commit/e6a78608950e396b01f0c3bad58bc0ddd1ab78ec) - 2025-04-27
+* [Commit] [extend payload attribute deadline to proposal slot](https://github.com/OffchainLabs/prysm/commit/21207e093dc6e7af50c9372adf4b82b4c8645074) - 2025-04-27
+* [Pull Request] [extend payload attribute deadline to proposal slot](https://github.com/OffchainLabs/prysm/pull/15230) - 2025-04-27
+* [Commit] [extend payload attribute deadline to proposal slot](https://github.com/OffchainLabs/prysm/commit/1032fb3f84eb90d5c7e19098ff30ce9fd55c9e25) - 2025-04-27
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

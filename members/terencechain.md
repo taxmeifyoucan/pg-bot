@@ -38,6 +38,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add bundle v2 support for submit blind block](https://github.com/OffchainLabs/prysm/commit/2efc3edbe750f549823bffe0dfedc56d0acaea4c) - 2025-04-19
 * [Pull Request] [Add column sidecar inclusion proof cache](https://github.com/OffchainLabs/prysm/pull/15217) - 2025-04-24
 * [Commit] [Add column sidecar inclusion proof cache](https://github.com/OffchainLabs/prysm/commit/d11689a41d9eba6c932412d03c1d16dc8e062648) - 2025-04-25
+* [Pull Request] [Event data use cached proposer index](https://github.com/OffchainLabs/prysm/pull/15229) - 2025-04-27
+* [Commit] [Fix payload attribute proposer calculation](https://github.com/OffchainLabs/prysm/commit/e8e43e6ac3a393d3c3d3674613424b4b4b7afab3) - 2025-04-27
+* [Commit] [Fix payload attribute proposer calculation](https://github.com/OffchainLabs/prysm/commit/e59a49d5689b2e0540f090ddb497789665581927) - 2025-04-27
+* [Commit] [Fix payload attribute proposer calculation](https://github.com/OffchainLabs/prysm/commit/02f322cdc349d8be0f0faa8af33c12796f07dab1) - 2025-04-27
+* [Pull Request] [Fix payload attribute proposer calculation (Option 1)](https://github.com/OffchainLabs/prysm/pull/15228) - 2025-04-27
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

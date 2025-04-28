@@ -152,6 +152,7 @@ Team: Reth
 * [Pull Request] [chore: rm storagelock variant](https://github.com/paradigmxyz/reth/pull/15948) - 2025-04-26
 * [Issue] [Replace CacheServiceUnavailable variant with a dedicated error variant](https://github.com/paradigmxyz/reth/issues/15947) - 2025-04-26
 * [Issue] [remove reth-optimism-chain-registry crate](https://github.com/paradigmxyz/reth/issues/15942) - 2025-04-26
+* [Pull Request] [chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/15951) - 2025-04-27
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

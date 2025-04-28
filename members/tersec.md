@@ -80,6 +80,19 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rm Deneb builder API support (#7071)](https://github.com/status-im/nimbus-eth2/commit/158876912751b71cfc84a80070aa899810684265) - 2025-04-26
 * [Commit] [Bump sepolia to 562d9938f08675e9ba490a1dfba21fb05843f39f (#7027)](https://github.com/status-im/nimbus-eth2/commit/3b094a1c0fdf135408f513d358a3a18ee17df341) - 2025-04-26
 * [Commit] [rm Deneb builder API support](https://github.com/status-im/nimbus-eth2/commit/97f35362a403cd5f81ca498959eb56af8d058896) - 2025-04-26
+* [Commit] [deprecate Eth1Data polling](https://github.com/status-im/nimbus-eth2/commit/0d4f42561fe32aeb33b49778ad14bbb1ae98efca) - 2025-04-27
+* [Commit] [deprecate Eth1Data polling](https://github.com/status-im/nimbus-eth2/commit/759c732a77f01798610bf862eba07311237f6203) - 2025-04-27
+* [Commit] [deprecate Eth1Data polling](https://github.com/status-im/nimbus-eth2/commit/971dd14cb2cb7244db05dd11ee40114c5d467196) - 2025-04-27
+* [Pull Request] [deprecate Eth1Data polling](https://github.com/status-im/nimbus-eth2/pull/7114) - 2025-04-27
+* [Commit] [rm unnecessary use of std/options (#7113)](https://github.com/status-im/nimbus-eth2/commit/de75f6d3d4f18ea35220439384835f03bbd7a217) - 2025-04-27
+* [Commit] [use Electra genesis for local testnet (#7112)](https://github.com/status-im/nimbus-eth2/commit/54ef5ed8eeb8aa77b89a087fe3399fe9613d262b) - 2025-04-27
+* [Commit] [Refactor containers for epbs and fix resulting cascading incompatibility issues (#7009)](https://github.com/status-im/nimbus-eth2/commit/6d24c948acef9e70470b8b40d81869f51b6ff3f6) - 2025-04-27
+* [Pull Request] [rm unnecessary use of std/options](https://github.com/status-im/nimbus-eth2/pull/7113) - 2025-04-27
+* [Pull Request] [use Electra genesis for local testnet](https://github.com/status-im/nimbus-eth2/pull/7112) - 2025-04-27
+* [Commit] [rm Deneb builder API remnant (#7111)](https://github.com/status-im/nimbus-eth2/commit/7f11fdaf86603148e2eb82c78b827af3378aad0b) - 2025-04-27
+* [Pull Request] [rm Deneb builder API remnant](https://github.com/status-im/nimbus-eth2/pull/7111) - 2025-04-27
+* [Commit] [rm Deneb builder API remnant](https://github.com/status-im/nimbus-eth2/commit/7a8b9e0ed444f66bea7b01a5542146e7f093cc70) - 2025-04-27
+* [Commit] [Update libp2p gossip topic parameters. (#6979)](https://github.com/status-im/nimbus-eth2/commit/e83ebba49e42ff561162cb53d160c06ddb613f73) - 2025-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

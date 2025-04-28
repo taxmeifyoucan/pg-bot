@@ -46,6 +46,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [`.bazelrc`: Add `build --compilation_mode=opt`](https://github.com/OffchainLabs/prysm/commit/e4544caaac386781608f7a79c4e0325b0705d40f) - 2025-04-17
 * [Pull Request] [Implement all needed KZG wrappers for peerDAS in the `kzg` package.](https://github.com/OffchainLabs/prysm/pull/15186) - 2025-04-17
 * [Commit] [Add changelog.](https://github.com/OffchainLabs/prysm/commit/278c13dbd1482ca1895ad557f9ec35664ccc5410) - 2025-04-18
+* [Commit] [Upgrade to fulu: Fix and add spectests (#15190)](https://github.com/OffchainLabs/prysm/commit/b8e91db939432f7777fe6221093ba4d49624bb29) - 2025-04-27
+* [Commit] [Update beacon-chain/core/peerdas/das_core.go](https://github.com/OffchainLabs/prysm/commit/c802184efa25548430e78a59b3f3980c1e10bf00) - 2025-04-27
+* [Commit] [Fix Terence's comment: Use `IsNil`.](https://github.com/OffchainLabs/prysm/commit/f225f80f55906a2f9673ed328ef802d05ce34fbe) - 2025-04-27
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

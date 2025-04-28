@@ -28,6 +28,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 
 * [Pull Request] [Fulu Schemas (ssz + datastructures) - including fulu ssz ref tests](https://github.com/Consensys/teku/pull/9363) - 2025-04-17
 * [Pull Request] [New infra stream module](https://github.com/Consensys/teku/pull/9362) - 2025-04-17
+* [Pull Request] [Added KZG computeCells method](https://github.com/Consensys/teku/pull/9375) - 2025-04-28
+* [Commit] [New infra stream module (#9362)](https://github.com/Consensys/teku/commit/e4adc715235912540c027529e95fe537b37a8751) - 2025-04-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Added Teku team coordinators](https://github.com/ethereum/pm/pull/1468) - 2025-04-14
 * [Pull Request] [Minor typos protocol-upgrade.md](https://github.com/ethereum/pm/pull/1467) - 2025-04-14

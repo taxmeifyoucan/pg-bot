@@ -856,6 +856,18 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2896056f9099ff43aa30dc2690edb6a7267ffcd4) - 2025-04-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/3466e811043af3c84ba4eec690cc6d5c9582579f) - 2025-04-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b8ba1b08aef3185a85c5430f8ad23ec5dcf64e6c) - 2025-04-26
+* [Commit] [Purify domains fix (#14776)](https://github.com/erigontech/erigon/commit/052603082562e1867b1a7676bad980d5bc37bdb7) - 2025-04-27
+* [Pull Request] [`downloader torrent_create`: enable `--all` by default](https://github.com/erigontech/erigon/pull/14779) - 2025-04-27
+* [Commit] [commitment.v version (#14774)](https://github.com/erigontech/erigon/commit/3c45b13fe20942d3c4b9c16b72c04c3ee60c7a5e) - 2025-04-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/31cb49950361fd16d3b57e2e5a42f53d5bf635a3) - 2025-04-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4ed590b7ca8f1b75de3b25ff21e36c92146b311d) - 2025-04-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fb87e46a9ff1948ec6271510fe647d6abdcf5b9d) - 2025-04-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4d45df43beadea753be328f8fba69aafa38d4517) - 2025-04-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3f8677aa09cd4d3685074b462b2f600a6dfa6f28) - 2025-04-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/761b72a00bf63fa2533b4fcd64aa31ee680d86da) - 2025-04-27
+* [Pull Request] [commitment.kv version](https://github.com/erigontech/erigon/pull/14774) - 2025-04-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ddf78c0059e2d63219e15bfcb6731f4ace210acf) - 2025-04-27
+* [Commit] [[r30] `erigon seg retire`: to remove garbage state files (#14771)](https://github.com/erigontech/erigon/commit/0358762c863eb90ef248b9f8b28b4fb4546a929a) - 2025-04-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -46,6 +46,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Refactor/move worldstate to DI (#8543)](https://github.com/NethermindEth/nethermind/commit/7d85c4e2ed6ab9155053558de55a875e1082d6e2) - 2025-04-23
 * [Commit] [Address comment](https://github.com/NethermindEth/nethermind/commit/1fdc2d23d8588df434270d7763dfda1923870ff9) - 2025-04-23
 * [Pull Request] [Maybe incorrect total difficulty](https://github.com/NethermindEth/nethermind/pull/8557) - 2025-04-26
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/588ae039950961249ea09228cd9dde9f0b1e0f24) - 2025-04-27
+* [Commit] [EIP-4444: Add RPC errors for pruned blocks. Take 2 (#8521)](https://github.com/NethermindEth/nethermind/commit/af0b0492df5e83fe1482e3e45773b98f6c519bb3) - 2025-04-27
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

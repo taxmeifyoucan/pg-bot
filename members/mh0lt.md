@@ -78,6 +78,7 @@ Team: Erigon
 * [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/e8092355c2915d87ce2101dbd1fb01d2d4bdf372) - 2025-04-23
 * [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/1326129755fd090284720ded1258787cc86f4704) - 2025-04-23
 * [Commit] [added cache%](https://github.com/erigontech/erigon/commit/ac02ed9462560c3a463d486327449ffabbbbc761) - 2025-04-25
+* [Commit] [nonce decrease check](https://github.com/erigontech/erigon/commit/ffb7f0ddb03b936bfa3516f8ff7cef9940418cd7) - 2025-04-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
