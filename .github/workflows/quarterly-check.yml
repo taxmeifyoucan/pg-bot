@@ -38,16 +38,38 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const auditOutput = `${{ steps.audit.outputs.AUDIT_OUTPUT }}`;
-            
-            const titleMatch = auditOutput.match(/INACTIVE_MEMBERS_TITLE=(.*)/);
-            const title = titleMatch ? titleMatch[1] : 'Quarterly Audit: Inactive Members';
-            
-            const bodyStartIndex = auditOutput.indexOf('INACTIVE_MEMBERS_BODY<<EOF') + 'INACTIVE_MEMBERS_BODY<<EOF'.length;
-            const bodyEndIndex = auditOutput.indexOf('EOF', bodyStartIndex);
-            const body = auditOutput.substring(bodyStartIndex, bodyEndIndex).trim();
-            
-            if (body) {
+            try {
+              const auditOutput = `${{ steps.audit.outputs.AUDIT_OUTPUT }}`;
+              
+              // Extract title
+              const titleMatch = auditOutput.match(/INACTIVE_MEMBERS_TITLE=(.*)/);
+              if (!titleMatch) {
+                console.log('No title found in audit output');
+                return;
+              }
+              const title = titleMatch[1];
+              
+              // Extract body
+              const bodyStartIndex = auditOutput.indexOf('INACTIVE_MEMBERS_BODY<<EOF');
+              if (bodyStartIndex === -1) {
+                console.log('No body start marker found in audit output');
+                return;
+              }
+              
+              const bodyStart = bodyStartIndex + 'INACTIVE_MEMBERS_BODY<<EOF'.length;
+              const bodyEndIndex = auditOutput.indexOf('EOF', bodyStart);
+              if (bodyEndIndex === -1) {
+                console.log('No body end marker found in audit output');
+                return;
+              }
+              
+              const body = auditOutput.substring(bodyStart, bodyEndIndex).trim();
+              if (!body) {
+                console.log('No body content found in audit output');
+                return;
+              }
+              
+              // Create issue
               const { owner, repo } = context.repo;
               await github.rest.issues.create({
                 owner,
@@ -55,5 +77,8 @@ jobs:
                 title,
                 body
               });
-              console.log('Created issue for inactive members');
+              console.log('Successfully created issue for inactive members');
+            } catch (error) {
+              console.error('Error processing audit output:', error);
+              throw error;
             } 
