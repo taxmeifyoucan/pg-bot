@@ -42,6 +42,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Fix a couple broken links (#4279)](https://github.com/ethereum/consensus-specs/commit/a35c13f8d5f32cd902ba877bf13ed87fbe107d2b) - 2025-04-21
 * [Commit] [Fix bug in electra withdrawals processing (#4281)](https://github.com/ethereum/consensus-specs/commit/f5c0f2ddea16312c14519da8220ba79bf24ea12e) - 2025-04-21
 * [Pull Request] [Fix bug in electra withdrawals processing](https://github.com/ethereum/consensus-specs/pull/4281) - 2025-04-21
+* [Pull Request] [Make `*_REQUESTS_PER_PAYLOAD` the same for mainnet/minimal](https://github.com/ethereum/consensus-specs/pull/4291) - 2025-04-28
+* [Commit] [Remove unnecessary sort in `compute_columns_for_custody_group` (#4289)](https://github.com/ethereum/consensus-specs/commit/4087043cd4a7d11e81470f111f488c6a913ea075) - 2025-04-28
+* [Commit] [Add two new custody group tests (#4290)](https://github.com/ethereum/consensus-specs/commit/949905d6eb0339a43c1b4dd1ac3c999802d9c10e) - 2025-04-28
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

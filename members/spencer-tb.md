@@ -46,6 +46,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): consolidate on g2 isogeny kernel.](https://github.com/ethereum/execution-spec-tests/commit/4ad1918c94c7f6914f68bca6a5ae525a86f271e7) - 2025-04-23
 * [Commit] [chore(tests): ref peter, fix skip.](https://github.com/ethereum/execution-spec-tests/commit/fb3141b46fd983433082af067f269cbd48b40669) - 2025-04-23
 * [Commit] [chore(tests): review comments and helper update.](https://github.com/ethereum/execution-spec-tests/commit/ebf38b7ceea4531410fbae6337f9acb942ce7475) - 2025-04-23
+* [Commit] [chore(docs): add changelog.](https://github.com/ethereum/execution-spec-tests/commit/abfdb2b87cb5ecbc527436e3965ce8b1a71a31f2) - 2025-04-28
+* [Pull Request] [chore(cli): consume direct geth blocktest fail fix](https://github.com/ethereum/execution-spec-tests/pull/1502) - 2025-04-28
+* [Issue] [feat(release): tasks for version v4.4.0 (Stromovka)](https://github.com/ethereum/execution-spec-tests/issues/1501) - 2025-04-28
+* [Commit] [Update tests/prague/eip2935_historical_block_hashes_from_state/test_block_hashes.py](https://github.com/ethereum/execution-spec-tests/commit/1c20035bc273813f7ecd54ee481717e1c21a8f2d) - 2025-04-28
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

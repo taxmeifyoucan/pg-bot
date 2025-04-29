@@ -22,6 +22,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: refactor suggestions](https://github.com/ChainSafe/lodestar/commit/1c063f7cb9fa36348d9aecd2b732b964de89d5d2) - 2025-04-24
 * [Commit] [chore: refactor suggestions](https://github.com/ChainSafe/lodestar/commit/249417b28b7f818acc8f4484c3b86a08296fa89c) - 2025-04-24
 * [Commit] [chore: simplify block input states](https://github.com/ChainSafe/lodestar/commit/a18df2c1ecde14f3c34f1ef330fdd8e9b3f5ce1f) - 2025-04-26
+* [Commit] [chore: more tweaks](https://github.com/ChainSafe/lodestar/commit/419c1f820b3400fee1ff1e2975ded00ab783ce55) - 2025-04-28
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

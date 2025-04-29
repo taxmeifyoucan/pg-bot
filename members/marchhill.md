@@ -42,6 +42,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [check error is null](https://github.com/NethermindEth/nethermind/commit/4ab7b053fa6b86366522095e8d5f5963923fdbec) - 2025-04-24
 * [Commit] [fix whitespace](https://github.com/NethermindEth/nethermind/commit/9651adcf6f9ee594659cc8286fa87ad0e8725a3d) - 2025-04-24
 * [Commit] [add test for gas cap and refactor](https://github.com/NethermindEth/nethermind/commit/a550bfd684c8629a93ae4b5e6967fb9ec6ab4344) - 2025-04-24
+* [Pull Request] [Add EVM tests for 2537](https://github.com/NethermindEth/nethermind/pull/8566) - 2025-04-28
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

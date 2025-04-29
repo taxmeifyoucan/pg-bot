@@ -62,6 +62,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Update api/client/beacon/health/health.go](https://github.com/OffchainLabs/prysm/commit/2870da8c8f8c100b2c3cc04668eb52ecc82e1e31) - 2025-04-23
 * [Commit] [Changelog v6 (#15203)](https://github.com/OffchainLabs/prysm/commit/83460c99561d6f3966d17ebf1e3b483cc570dc6f) - 2025-04-23
 * [Commit] [Broadcast Proposer Slashing on equivocation (#14693)](https://github.com/OffchainLabs/prysm/commit/7887ebbc4a6b56f1e9c17374214adcf5995b99d7) - 2025-04-25
+* [Commit] [PeerDAS: Add needed proto files and corresponding generated code. (#15187)](https://github.com/OffchainLabs/prysm/commit/1298dc3a4602247c39cd1b1e888e0e68258ca577) - 2025-04-28
+* [Commit] [Broadcast Proposer Slashing on equivocation (#14693)](https://github.com/OffchainLabs/prysm/commit/7887ebbc4a6b56f1e9c17374214adcf5995b99d7) - 2025-04-28
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

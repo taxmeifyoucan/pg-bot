@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ash
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7873: Handling of EOF containers in existing TX types.](https://github.com/ethereum/EIPs/pull/9669) - 2025-04-22
+* [Pull Request] [Omnibus changes for EOF "Option D"](https://github.com/ethereum/EIPs/pull/9702) - 2025-04-28
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

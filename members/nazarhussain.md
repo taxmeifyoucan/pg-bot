@@ -50,6 +50,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update the unit tests](https://github.com/ChainSafe/lodestar/commit/9cad0fc1f1e2da011b55b8005e6f29683df653f6) - 2025-04-22
 * [Commit] [test: use vitest workspace to run all tests (#7610)](https://github.com/ChainSafe/lodestar/commit/c91cd9c141699a1bcfe3a81354d1d74a2aecd1c0) - 2025-04-22
 * [Commit] [feat: schedule electra on mainnet (#7655)](https://github.com/ChainSafe/lodestar/commit/87d367d9f7a8d6e548743a7fb65f13a0ca0d367d) - 2025-04-22
+* [Commit] [Update doc strings](https://github.com/ChainSafe/lodestar/commit/8fc90b17a1e433752cd664b622d6e37c7a3e6061) - 2025-04-28
+* [Commit] [Update the tests cases](https://github.com/ChainSafe/lodestar/commit/5c118f301729bcfcf150e0d59472036189819dab) - 2025-04-28
+* [Commit] [Apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/ef9dc75a293624bba5945fa8fd5f4de1e04fdde3) - 2025-04-28
+* [Commit] [Fix spelling dict](https://github.com/ChainSafe/lodestar/commit/5bdd1352399fa5d1775bf45b28f9d5c9b9bb0fc5) - 2025-04-28
+* [Commit] [Update the docs](https://github.com/ChainSafe/lodestar/commit/094453ea99f5a0ff24e45b9fcb7a0c1253c4d7ce) - 2025-04-28
+* [Commit] [Apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/428a2da2a46bae6829d4d0234b497e427da1c15f) - 2025-04-28
+* [Commit] [Remove unused code](https://github.com/ChainSafe/lodestar/commit/f681044a9939175f11896a519c3baaeb78ea323f) - 2025-04-28
+* [Commit] [Fix types](https://github.com/ChainSafe/lodestar/commit/22deac75b7618ac9a5d1dfd5d1cd0da7cc503a77) - 2025-04-28
+* [Commit] [Fix the unit tests](https://github.com/ChainSafe/lodestar/commit/617aff6cb8aa81dba7049964367919c63ddec469) - 2025-04-28
+* [Commit] [chore: remove got dependency and move fetch code to the utils package (#7526)](https://github.com/ChainSafe/lodestar/commit/573123b9858b55d1747d9e0afc37ec533d85a2e5) - 2025-04-28
+* [Commit] [Update the function parameters](https://github.com/ChainSafe/lodestar/commit/c4c027ce02d5fdec6ebe3dcbe886c9ac6a6089b2) - 2025-04-28
+* [Commit] [Add logger context to external methods](https://github.com/ChainSafe/lodestar/commit/e1359c096c7b8010bc1532875173b860011f31ad) - 2025-04-28
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

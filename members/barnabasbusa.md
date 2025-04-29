@@ -13,6 +13,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [chore: add detailed logging for kurtosis runs](https://github.com/sigp/lighthouse/pull/7291) - 2025-04-09
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Issue] [failed to process log index epoch 270: failed to retrieve log at index 18122937602](https://github.com/ethereum/go-ethereum/issues/31729) - 2025-04-28
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [feat: Add devops coordinators](https://github.com/ethereum/pm/pull/1506) - 2025-04-28
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

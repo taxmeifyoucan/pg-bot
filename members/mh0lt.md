@@ -79,6 +79,9 @@ Team: Erigon
 * [Commit] [adjust loggers](https://github.com/erigontech/erigon/commit/1326129755fd090284720ded1258787cc86f4704) - 2025-04-23
 * [Commit] [added cache%](https://github.com/erigontech/erigon/commit/ac02ed9462560c3a463d486327449ffabbbbc761) - 2025-04-25
 * [Commit] [nonce decrease check](https://github.com/erigontech/erigon/commit/ffb7f0ddb03b936bfa3516f8ff7cef9940418cd7) - 2025-04-27
+* [Commit] [coinbase printer](https://github.com/erigontech/erigon/commit/6be73103ed2529a56f6296bd4ca49770ef8924ce) - 2025-04-28
+* [Commit] [coinbase printer](https://github.com/erigontech/erigon/commit/34ca5f4fcaf0cecf294471cd3e92a15576415290) - 2025-04-28
+* [Commit] [coinbase printer](https://github.com/erigontech/erigon/commit/9e8e656b541d51a0525d3554afac34d6720d9d6a) - 2025-04-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -68,6 +68,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: simplify PeerBalancer constructor](https://github.com/ChainSafe/lodestar/commit/bcb2d202521c7ebdb0a10686792d319efda694eb) - 2025-04-25
 * [Commit] [fix: update activeRequestsByPeer in idlePeerForBatch()](https://github.com/ChainSafe/lodestar/commit/fb1483b80cb1986e9a55a3d4db743033edec1da8) - 2025-04-25
 * [Commit] [fix: always add CGC to ENR (#7738)](https://github.com/ChainSafe/lodestar/commit/745b305636266838b5f5fc64aea332a32408d388) - 2025-04-25
+* [Commit] [chore: log when download range is out of WS period](https://github.com/ChainSafe/lodestar/commit/580b5cb25d14f45bf47698c4bb6f3dbf8088578f) - 2025-04-28
+* [Issue] [peerDAS - cannot sync hoodi](https://github.com/ChainSafe/lodestar/issues/7754) - 2025-04-28
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -38,6 +38,7 @@ Team: Reth
 * [Commit] [Created GeneratePayloadAttributes e2e Action (#15234)](https://github.com/paradigmxyz/reth/commit/d456af044e886243577a8a48c42e7d7fdec160d5) - 2025-04-25
 * [Commit] [store all branch nodes only for state trie](https://github.com/paradigmxyz/reth/commit/b06e4caded9ec4a9f85b3c45652f445fa4b69aaf) - 2025-04-25
 * [Commit] [store all branch nodes only for state trie](https://github.com/paradigmxyz/reth/commit/bfb5ac94526fe3b838a7418756af712eddadd6bc) - 2025-04-25
+* [Commit] [fix walker to not skip branch nodes](https://github.com/paradigmxyz/reth/commit/3189d4a9988adbd8e16ed2e3fb1356d08ab4bb0f) - 2025-04-28
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

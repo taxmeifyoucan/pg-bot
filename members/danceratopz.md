@@ -128,6 +128,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(consume): remove debugging log message](https://github.com/ethereum/execution-spec-tests/commit/993a9188cf68259b292cc20ed72101db6bad8122) - 2025-04-26
 * [Commit] [fix(consume): add forgotten client file to hive command-line](https://github.com/ethereum/execution-spec-tests/commit/a594a7d888b5386af615a81585d2a7cbc3664b55) - 2025-04-26
 * [Commit] [fix(consume): only show the client relevant to test in hive command](https://github.com/ethereum/execution-spec-tests/commit/fda777706daee85280453cd3fbb61ee35933dac7) - 2025-04-26
+* [Commit] [Deployed 2cc73e36ae to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/a6c614b957299b1c3066912b330e38e0622ac256) - 2025-04-28
+* [Commit] [Deployed 175f2e9182 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e2deb910d1e1b3d2110c3a69cf462472c7cfa4b0) - 2025-04-28
+* [Commit] [Deployed 0ee6c6fc87 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/58045553cd7e29fb930eabbfb4f22ca0e22f3888) - 2025-04-28
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

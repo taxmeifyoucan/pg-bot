@@ -16,6 +16,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [more 3rd party updates (#9355)](https://github.com/Consensys/teku/commit/4d354eb00d04878b98283b632eb44ad239261aa7) - 2025-04-15
 * [Pull Request] [more 3rd party updates](https://github.com/Consensys/teku/pull/9355) - 2025-04-15
 * [Pull Request] [refactored expected withdrawals and added test cases](https://github.com/Consensys/teku/pull/9361) - 2025-04-16
+* [Pull Request] [cleanup the rest of api/schema](https://github.com/Consensys/teku/pull/9377) - 2025-04-28
+* [Commit] [Start cleaning up `api/schema` (#9376)](https://github.com/Consensys/teku/commit/fe4a9394507bd8f6f7d9835bdfdd50c3519fab98) - 2025-04-28
+* [Pull Request] [Start cleaning up `api/schema`](https://github.com/Consensys/teku/pull/9376) - 2025-04-28
+* [Commit] [feat: Add support for reading static peers from file (#9328)](https://github.com/Consensys/teku/commit/5dad0ed9e385954ee9baf04c77919eb5e869d25c) - 2025-04-28
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

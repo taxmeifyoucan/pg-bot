@@ -87,6 +87,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Validation tracer](https://github.com/erigontech/erigon/commit/50d24dea672bdd18a57b849012c8db2d8f3d5553) - 2025-04-23
 * [Commit] [qa-tests: fix chaindata backup in rpc-integration test (#14695)](https://github.com/erigontech/erigon/commit/52ba9b49da820edafab58bdb342ca5c6c884df68) - 2025-04-23
 * [Pull Request] [Support RIP-7560 transactions to mining loop](https://github.com/erigontech/erigon/pull/14702) - 2025-04-23
+* [Commit] [Add extra receipt for new blocks (#14785)](https://github.com/erigontech/erigon/commit/8c34f9ddb969ca922c28fcca23d90423b25dd3e8) - 2025-04-28
+* [Commit] [Add flag](https://github.com/erigontech/erigon/commit/045f8a8ebf89ceba517e8672f5458162de9d3d60) - 2025-04-28
+* [Pull Request] [Add extra receipt for new blocks](https://github.com/erigontech/erigon/pull/14785) - 2025-04-28
+* [Commit] [qa-tests: fix chaindata backup in rpc-integration test (#14695)](https://github.com/erigontech/erigon/commit/52ba9b49da820edafab58bdb342ca5c6c884df68) - 2025-04-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

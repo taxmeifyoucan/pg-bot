@@ -7,3 +7,11 @@ Github: [@bhartnett](https://github.com/bhartnett)
 Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Abhartnett), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Abhartnett)
 
 ## Contributions
+
+## Q2 2025
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Commit] [Improve count of numberOfGossipedNodes.](https://github.com/status-im/nimbus-eth1/commit/a7563d49637865777f7d8498d786eca75f49474e) - 2025-04-28
+* [Pull Request] [Fluffy: Only send offers to peers when the content fall within their radius](https://github.com/status-im/nimbus-eth1/pull/3242) - 2025-04-28
+* [Commit] [Fluffy: Add metrics to count offer accept codes (#3241)](https://github.com/status-im/nimbus-eth1/commit/8ba7065296594cabfacfa682fcf4997154df8786) - 2025-04-28
+* [Pull Request] [Fluffy: Add metrics to count offer accept codes](https://github.com/status-im/nimbus-eth1/pull/3241) - 2025-04-28

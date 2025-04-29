@@ -136,6 +136,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Better pie labelling](https://github.com/NethermindEth/nethermind/commit/bc30a8a99443a55d0559722475774bf4812210a0) - 2025-04-20
 * [Commit] [Feature/Allow multiple class for the same rpc module. (#8524)](https://github.com/NethermindEth/nethermind/commit/bcffd9fc9dcd249578b919752ebdade5395fcefb) - 2025-04-20
 * [Commit] [Improved hidden tab behaviour](https://github.com/NethermindEth/nethermind/commit/1ef536fb68aacd68dc7f3198ebe606965dcde668) - 2025-04-26
+* [Commit] [Skip reloads of accounts for txpool delegations (#8564)](https://github.com/NethermindEth/nethermind/commit/145c392906c829e53632ab8ce0eadec245b84919) - 2025-04-28
+* [Commit] [Return better exception](https://github.com/NethermindEth/nethermind/commit/aec1c80e787e49f3e9b40fb03dc9c3e1f32f5ea7) - 2025-04-28
+* [Pull Request] [Skip reloads of accounts for txpool delegations](https://github.com/NethermindEth/nethermind/pull/8564) - 2025-04-28
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

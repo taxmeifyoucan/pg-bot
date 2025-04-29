@@ -18,6 +18,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update copyright years.](https://github.com/status-im/nimbus-eth2/commit/a9b0c054edcb806673d4b1282393e4a450785766) - 2025-04-23
 * [Commit] [simplify column quarantine check (#7076)](https://github.com/status-im/nimbus-eth2/commit/9e68503aa6a06867e84cc46fa1a14adc2ff318c3) - 2025-04-23
 * [Pull Request] [Refactored version of BlobSidecar/DataColumnSidecar quarantine.](https://github.com/status-im/nimbus-eth2/pull/7100) - 2025-04-23
+* [Commit] [Fix - return empty sequence when block does not hold any blobs/columns.](https://github.com/status-im/nimbus-eth2/commit/bc345d71215d7f9d6d2a2e4b7e0b4cd4001a0fa6) - 2025-04-28
+* [Commit] [Address compilation issue, lets call it untyped sandwich.](https://github.com/status-im/nimbus-eth2/commit/fe29bd65df67e0925cd45259ef67656ee9efad22) - 2025-04-28
+* [Commit] [track execution requests for builder API (#7103)](https://github.com/status-im/nimbus-eth2/commit/ab82386b3b2ee25e60ded3fdce934a7ef928528d) - 2025-04-28
+* [Commit] [Address review comments.](https://github.com/status-im/nimbus-eth2/commit/96a5b97c4fe046150ae31924a929353e28279df1) - 2025-04-28
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -81,6 +81,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cleanup: use `common.` instead of `libcommon.`](https://github.com/erigontech/erigon/pull/14750) - 2025-04-25
 * [Commit] [cleanup: use `common.` instead of `libcommon.`](https://github.com/erigontech/erigon/commit/b43f48425c5980b56c1c9837a2dfa7d13508415c) - 2025-04-25
 * [Commit] [nitpicking](https://github.com/erigontech/erigon/commit/cf93995deb93ce2f53a907d797f003a0814e752d) - 2025-04-26
+* [Commit] [start turning erigon-b into a module](https://github.com/erigontech/erigon/commit/0e4f42a3733ebc0b5aef2af8aa766d21b2f41308) - 2025-04-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

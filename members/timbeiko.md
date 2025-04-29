@@ -14,6 +14,11 @@ Team: [ethereum/pm](https://github.com/ethereum/pm)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update eip-7642.md](https://github.com/ethereum/EIPs/pull/9626) - 2025-04-10
 * [Pull Request] [ACDE#209 changes](https://github.com/ethereum/EIPs/pull/9624) - 2025-04-10
+* [Pull Request] [Remove EOF from Fusaka ](https://github.com/ethereum/EIPs/pull/9703) - 2025-04-28
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Commit] [Update pectra-mainnet-plan.md](https://github.com/ethereum/pm/commit/2be18dea9f820238a76e23ad1553b29b9d965264) - 2025-04-28
+* [Commit] [Update pectra-mainnet-plan.md](https://github.com/ethereum/pm/commit/1f0dac522798a7dc0be8d6850fa48cc04557526c) - 2025-04-28
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

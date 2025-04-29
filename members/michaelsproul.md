@@ -47,6 +47,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Lightouse VC sends validator registrations for exited validators](https://github.com/sigp/lighthouse/issues/7342) - 2025-04-22
 * [Commit] [Add retropgf funding (#6324)](https://github.com/sigp/lighthouse/commit/2e0eb6d1b8705bbda2ba56eb195d9cc7c6575e95) - 2025-04-23
 * [Pull Request] [Tweak state cache missing logging](https://github.com/sigp/lighthouse/pull/7354) - 2025-04-24
+* [Pull Request] [Change default state cache size back to 128](https://github.com/sigp/lighthouse/pull/7364) - 2025-04-28
+* [Issue] [State cache misses in v7.0.0](https://github.com/sigp/lighthouse/issues/7363) - 2025-04-28
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

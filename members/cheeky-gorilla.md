@@ -27,6 +27,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [add Andri Lim](https://github.com/protocolguild/documentation/commit/d57b85c30b04edc7cbc43fc3ef0b3dba1ab2dbc7) - 2025-04-18
 * [Commit] [add Advaita Saha](https://github.com/protocolguild/documentation/commit/8c3d2f75b9afdc43419c8bce22a60870a2f43448) - 2025-04-18
 * [Commit] [Delete team column](https://github.com/protocolguild/documentation/commit/575e25af060399af21353c49bb4837bc30b01efa) - 2025-04-22
+* [Commit] [Add new expense multisig](https://github.com/protocolguild/documentation/commit/47a8792cda1067de36e124c82f04fc8bfdb0c265) - 2025-04-28
+* [Commit] [Update reference to entity split recipient](https://github.com/protocolguild/documentation/commit/f4066a877aad86f16e8e43eee9fef8d1f3e5a7f9) - 2025-04-28
+* [Commit] [Update Peters github](https://github.com/protocolguild/documentation/commit/c6998d21285b6a88701c90e1b7dc3594f7b31cde) - 2025-04-28
 ## Q1 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

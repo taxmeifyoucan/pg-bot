@@ -33,6 +33,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Apply a specific block during FCU](https://github.com/NethermindEth/nethermind/commit/10e0c37f0d0dc1c4a6f1ce156a7a2a30aeb5d892) - 2025-04-22
 * [Commit] [Apply a specific block during FCU](https://github.com/NethermindEth/nethermind/commit/54ffe8443cf49f79f8d0107904b22f9922a7d457) - 2025-04-22
 * [Commit] [Prevent file logging before configuration initialization (#7896)](https://github.com/NethermindEth/nethermind/commit/5af7b415d030e5550d0e1818fbb2ed8403de4482) - 2025-04-22
+* [Commit] [Ckzg./2](https://github.com/NethermindEth/nethermind/commit/2d2e8687496ad13fa09b13f488d4d0c3443c2ae0) - 2025-04-28
+* [Pull Request] [Ckzg.Ckzg -> Ckzg.](https://github.com/NethermindEth/nethermind/pull/8568) - 2025-04-28
+* [Pull Request] [Commit state according to the regular spec, before system tx spec usage](https://github.com/NethermindEth/nethermind/pull/8567) - 2025-04-28
+* [Pull Request] [Tool/hive runs to scripts](https://github.com/NethermindEth/nethermind/pull/8565) - 2025-04-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 ## Q1 2025

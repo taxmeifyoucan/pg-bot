@@ -77,6 +77,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [revert rand source for salt](https://github.com/erigontech/erigon/pull/14772) - 2025-04-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/98da075aa30de437583368425be6603b08d5abc7) - 2025-04-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/bc3239c287e0dd5b5f248f6babc184324d24d8ca) - 2025-04-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7b49c516d3a16515b0ec52fa06ed7cfd1ad37ec9) - 2025-04-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ad3ae0f1dfcaa70639d3a14ec78f44c5b89d353c) - 2025-04-28
+* [Issue] [erigon crash while syncing on windows](https://github.com/erigontech/erigon/issues/14783) - 2025-04-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -153,6 +153,16 @@ Team: Reth
 * [Issue] [Replace CacheServiceUnavailable variant with a dedicated error variant](https://github.com/paradigmxyz/reth/issues/15947) - 2025-04-26
 * [Issue] [remove reth-optimism-chain-registry crate](https://github.com/paradigmxyz/reth/issues/15942) - 2025-04-26
 * [Pull Request] [chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/15951) - 2025-04-27
+* [Issue] [Use Bloom references when calculating the logs_bloom](https://github.com/paradigmxyz/reth/issues/15981) - 2025-04-28
+* [Pull Request] [chore: use default init](https://github.com/paradigmxyz/reth/pull/15975) - 2025-04-28
+* [Issue] [relax Chainspec type restriction in Commands impl](https://github.com/paradigmxyz/reth/issues/15974) - 2025-04-28
+* [Issue] [Implement reth specific transaction related traits for either](https://github.com/paradigmxyz/reth/issues/15972) - 2025-04-28
+* [Issue] [Make extended Tx Envelope more flexible](https://github.com/paradigmxyz/reth/issues/15968) - 2025-04-28
+* [Issue] [Feature gate sparsetrie metrics entirely](https://github.com/paradigmxyz/reth/issues/15967) - 2025-04-28
+* [Issue] [Move StateReader trait to storage-api](https://github.com/paradigmxyz/reth/issues/15966) - 2025-04-28
+* [Issue] [Add support for configuring sequencer client headers](https://github.com/paradigmxyz/reth/issues/15964) - 2025-04-28
+* [Commit] [feat: Removing `geth-tests` and `serial_test` (#15960)](https://github.com/paradigmxyz/reth/commit/58ec4b11535ccfde2591e4e1336d6c2713a29bb6) - 2025-04-28
+* [Issue] [Add support for importing era files from an endpoint directly](https://github.com/paradigmxyz/reth/issues/15961) - 2025-04-28
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

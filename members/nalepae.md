@@ -49,6 +49,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Upgrade to fulu: Fix and add spectests (#15190)](https://github.com/OffchainLabs/prysm/commit/b8e91db939432f7777fe6221093ba4d49624bb29) - 2025-04-27
 * [Commit] [Update beacon-chain/core/peerdas/das_core.go](https://github.com/OffchainLabs/prysm/commit/c802184efa25548430e78a59b3f3980c1e10bf00) - 2025-04-27
 * [Commit] [Fix Terence's comment: Use `IsNil`.](https://github.com/OffchainLabs/prysm/commit/f225f80f55906a2f9673ed328ef802d05ce34fbe) - 2025-04-27
+
+* [Commit] [`BlobsBundleV2`: Add comment.](https://github.com/OffchainLabs/prysm/commit/504836d51c3c37f246183171510c2e38533f57cb) - 2025-04-28
+* [Commit] [`max_cell_proofs_length.size`: Set to `CELLS_PER_EXT_BLOB * MAX_BLOB_COMMITMENTS_PER_BLOCK`.](https://github.com/OffchainLabs/prysm/commit/a9fb56df1d3c7caba2e44c4bcb64b6992056ed89) - 2025-04-28
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

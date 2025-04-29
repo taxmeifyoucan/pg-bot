@@ -30,6 +30,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [Validate deposit log layout (#8574)](https://github.com/hyperledger/besu/commit/d8db0e64c1311e738caa0e1a9166ecbc98dff7ff) - 2025-04-23
 * [Pull Request] [fix: validate deposit log layout (EIP-6110)](https://github.com/hyperledger/besu/pull/8574) - 2025-04-23
 * [Pull Request] [feat(history expire): naive approach to save only headers for pre-merge blocks](https://github.com/hyperledger/besu/pull/8582) - 2025-04-28
+* [Commit] [fix: add `NoBlobRule` to Shanghai block header validator (#8583)](https://github.com/hyperledger/besu/commit/5f3bb6a66001fd3a76a3d160cdc88692f5f14d1f) - 2025-04-28
+* [Pull Request] [fix: add `NoBlobRule` to Shanghai block header validator](https://github.com/hyperledger/besu/pull/8583) - 2025-04-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

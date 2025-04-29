@@ -56,6 +56,26 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: reorder checks in process consolidation request to match spec (#7576)](https://github.com/ChainSafe/lodestar/commit/8448e83b8130e9763d0d2b1fc9dc46b5de5bf805) - 2025-04-26
 * [Commit] [Use ssz by default for registerValidator beacon api](https://github.com/ChainSafe/lodestar/commit/388e5dd55455d6d986f16f0c6abe005dee1b793d) - 2025-04-26
 * [Commit] [feat: add fulu definition (#7479)](https://github.com/ChainSafe/lodestar/commit/929d0ea0221015e2f87247c68c727d585eb9cb67) - 2025-04-26
+* [Commit] [revert last commit](https://github.com/ChainSafe/lodestar/commit/60439badfcbd0a97c5f41a538b2f70cf40845f10) - 2025-04-28
+* [Commit] [chore: use v2 attestation apis even pre-electra (#7758)](https://github.com/ChainSafe/lodestar/commit/9f1d8d65fd688b8bd620f226a3af006e409030fc) - 2025-04-28
+* [Commit] [fix: do not trigger builder circuit breaker if clock slot < slots present (#7481)](https://github.com/ChainSafe/lodestar/commit/6dd10cbe48f61cf53e1cf01404d8b96386736df5) - 2025-04-28
+* [Commit] [chore: remove workarounds no longer needed (#7757)](https://github.com/ChainSafe/lodestar/commit/7faa7737660fab6bb919bb507eefd5778cf36eec) - 2025-04-28
+* [Commit] [feat: override libp2p handler when registering protocol for new fork (#7755)](https://github.com/ChainSafe/lodestar/commit/ca68d9a61ab44f6aa35a89cb9e12ec6b13e8257b) - 2025-04-28
+* [Commit] [chore: revert "fix: wrap libp2p stop call with a timeout (#6062)" (#7756)](https://github.com/ChainSafe/lodestar/commit/2f79f78ee3eb859d110b3663e839c1eed0975d19) - 2025-04-28
+* [Pull Request] [chore: add tsconfig to detect unused imports, variables, and functions](https://github.com/ChainSafe/lodestar/pull/7759) - 2025-04-28
+* [Commit] [Keep var for readability](https://github.com/ChainSafe/lodestar/commit/0ab2ab5446818d1ae59bffed1bf95b84e4f15bf4) - 2025-04-28
+* [Commit] [Use ForkSeq](https://github.com/ChainSafe/lodestar/commit/f15b8d4d5c7aa56378b2a4157481913637743911) - 2025-04-28
+* [Commit] [Remove unused import](https://github.com/ChainSafe/lodestar/commit/391d86f4757e36c2f950d45803da101b91d9a4cd) - 2025-04-28
+* [Pull Request] [chore: use v2 attestation apis even pre-electra](https://github.com/ChainSafe/lodestar/pull/7758) - 2025-04-28
+* [Commit] [Remove unused imports](https://github.com/ChainSafe/lodestar/commit/2b3f8da30a1d8f134772a68e52021abf7b6e72f6) - 2025-04-28
+* [Pull Request] [chore: remove workarounds which have been fixed upstream](https://github.com/ChainSafe/lodestar/pull/7757) - 2025-04-28
+* [Commit] [Remove workaround fetching state from checkpointz](https://github.com/ChainSafe/lodestar/commit/f206bb2f0866d98067877ee4d213a9c52adb5312) - 2025-04-28
+* [Commit] [Remove workaround for go-eth2-client](https://github.com/ChainSafe/lodestar/commit/64c9625b98eb47689779889756fdad1f61f32f31) - 2025-04-28
+* [Pull Request] [chore: revert "fix: wrap libp2p stop call with a timeout (#6062)"](https://github.com/ChainSafe/lodestar/pull/7756) - 2025-04-28
+* [Pull Request] [feat: override libp2p handler when registering protocol for new fork](https://github.com/ChainSafe/lodestar/pull/7755) - 2025-04-28
+* [Commit] [Pass force flag to allow overriding stream handlers](https://github.com/ChainSafe/lodestar/commit/eb850bd1d7ab9a8c8f1da12f6612c3e97fd1673c) - 2025-04-28
+* [Commit] [chore: consistently pass fork info to `requestSszTypeByMethod` (#7411)](https://github.com/ChainSafe/lodestar/commit/418e81ef2da243a6ee236bb0abf45ac45ff1f7e0) - 2025-04-28
+* [Commit] [chore: remove produce block apis no longer part of spec (#7749)](https://github.com/ChainSafe/lodestar/commit/27301c36341c7df70fad349993da7116ec4e7115) - 2025-04-28
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

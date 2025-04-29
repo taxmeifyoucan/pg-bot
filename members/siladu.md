@@ -19,6 +19,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] [Update emphemery.json alloc and other config](https://github.com/hyperledger/besu/pull/8539) - 2025-04-11
 * [Pull Request] [Add performance profile](https://github.com/hyperledger/besu/pull/8560) - 2025-04-17
 * [Issue] [Update ethereum/tests to v17.0](https://github.com/hyperledger/besu/issues/8558) - 2025-04-17
+* [Commit] [Add performance and performance-rpc profiles (#8560)](https://github.com/hyperledger/besu/commit/cff5dad4197fc682676b79bbc5f40e3a4e3455ea) - 2025-04-28
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
