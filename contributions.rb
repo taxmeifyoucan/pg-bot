@@ -24,7 +24,7 @@ end
 class ContributionHelper
   EVENT_PROCESSORS = {
     'PullRequestEvent' => {
-      condition: ->(event) { event.payload.action == 'opened' || event.payload.action == 'reopened' },
+      condition: ->(event) { ['opened', 'merged'].include?(event.payload.action) },
       type: 'Pull Request',
       title_path: ->(event) { event.payload.pull_request.title },
       url_path: ->(event) { event.payload.pull_request.html_url }
