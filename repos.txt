@@ -20,3 +20,5 @@ gballet/go-verkle
 ethereum/portal-network-specs
 protocolguild/documentation
 status-im/nimbus-eth1
+ipsilon/eof
+ethereumjs/ethereumjs-monorepo
