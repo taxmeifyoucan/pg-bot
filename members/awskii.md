@@ -77,6 +77,9 @@ Team: Erigon
 * [Commit] [upmerge main (#14737)](https://github.com/erigontech/erigon/commit/e1aa68c6f6d6f8c15d394b3c7a3eb7c140bb17d7) - 2025-04-25
 * [Commit] [fix race within concurrent trie in test (#14749)](https://github.com/erigontech/erigon/commit/dd05156e156b32f2033c6f3c90d4cdfced016c8b) - 2025-04-25
 * [Pull Request] [fix race within concurrent trie in test](https://github.com/erigontech/erigon/pull/14749) - 2025-04-25
+* [Commit] [direct reading arbitrum config (#14795)](https://github.com/erigontech/erigon/commit/5364d9ea48b15d25628ed11f5443d5da8df4bc49) - 2025-04-29
+* [Pull Request] [direct reading arbitrum config](https://github.com/erigontech/erigon/pull/14795) - 2025-04-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ada738c7329006097923332cfd4c78e282438129) - 2025-04-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

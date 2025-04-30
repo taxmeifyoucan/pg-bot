@@ -45,6 +45,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: support min request epoch in dataColumnSidecarsByRoot (#7743)](https://github.com/ChainSafe/lodestar/commit/6dfb4ece1130b7498bdd07fe24bc2a6e571b5440) - 2025-04-25
 * [Commit] [fix: update ENR with new cgc (#7737)](https://github.com/ChainSafe/lodestar/commit/948bd1af01f1b0d51093ea69dfe8739474cb1596) - 2025-04-25
 * [Commit] [feat: validate data column sidecars according to spec (#7719)](https://github.com/ChainSafe/lodestar/commit/f90f622140392a331b72da5a38a56546d43edeff) - 2025-04-25
+* [Pull Request] [feat: make aggregate with randomness async again](https://github.com/ChainSafe/lodestar/pull/7761) - 2025-04-29
+* [Commit] [feat: offload cell proof computation from beacon node (#7686)](https://github.com/ChainSafe/lodestar/commit/90611fa9236ebf745b365b6aea7db5dd9e1193db) - 2025-04-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

@@ -32,6 +32,9 @@ Team: Erigon
 * [Pull Request] [qa-tests: fix chaindata backup in rpc-integration test](https://github.com/erigontech/erigon/pull/14695) - 2025-04-22
 * [Commit] [qa-tests: repair rpc-integration tests  (#14693)](https://github.com/erigontech/erigon/commit/7d56cb1320a9e2d539d7ad157daf2177f8be1dde) - 2025-04-22
 * [Pull Request] [qa-tests: repair rpc-integration tests ](https://github.com/erigontech/erigon/pull/14693) - 2025-04-22
+* [Pull Request] [qa-tests: avoid executing long running tests on specialised test runners](https://github.com/erigontech/erigon/pull/14797) - 2025-04-29
+* [Pull Request] [qa-tests: repair rpc-perf tests](https://github.com/erigontech/erigon/pull/14796) - 2025-04-29
+* [Commit] [qa-tests: improve rpc-integration test failure handling (#14539)](https://github.com/erigontech/erigon/commit/a71de6d72cbde388f68f47cc53d7dbc1f51aaaa6) - 2025-04-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

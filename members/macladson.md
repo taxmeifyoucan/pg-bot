@@ -21,6 +21,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Backmerge `release-v7.0.0` to `unstable`](https://github.com/sigp/lighthouse/pull/7315) - 2025-04-11
 * [Commit] [Clarify network limits (#7175)](https://github.com/sigp/lighthouse/commit/076f3f09843c52347bb04d5b3dc4364d1018c2e3) - 2025-04-11
 * [Pull Request] [Remove support for database migrations prior to schema version v22](https://github.com/sigp/lighthouse/pull/7332) - 2025-04-17
+* [Pull Request] [Bump version for Release v7.0.1](https://github.com/sigp/lighthouse/pull/7374) - 2025-04-29
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

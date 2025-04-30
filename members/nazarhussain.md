@@ -62,6 +62,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: remove got dependency and move fetch code to the utils package (#7526)](https://github.com/ChainSafe/lodestar/commit/573123b9858b55d1747d9e0afc37ec533d85a2e5) - 2025-04-28
 * [Commit] [Update the function parameters](https://github.com/ChainSafe/lodestar/commit/c4c027ce02d5fdec6ebe3dcbe886c9ac6a6089b2) - 2025-04-28
 * [Commit] [Add logger context to external methods](https://github.com/ChainSafe/lodestar/commit/e1359c096c7b8010bc1532875173b860011f31ad) - 2025-04-28
+* [Commit] [Update the config to add more logging for debugging](https://github.com/ChainSafe/lodestar/commit/26c1c81230b34d77016539708ea871e5f64b1824) - 2025-04-29
+* [Commit] [Increase delay between github requests](https://github.com/ChainSafe/lodestar/commit/d27285d1f7d0ecc94922489be41c633b4df9064c) - 2025-04-29
+* [Commit] [Add a delay for the network connection in reqresp.test](https://github.com/ChainSafe/lodestar/commit/1428d351631d6db86f00d69e5f0fb0547f803d1d) - 2025-04-29
+* [Pull Request] [chore: reuse the shared biome config](https://github.com/ChainSafe/lodestar/pull/7763) - 2025-04-29
+* [Pull Request] [test: fix e2e flaky tests](https://github.com/ChainSafe/lodestar/pull/7762) - 2025-04-29
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

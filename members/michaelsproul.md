@@ -49,6 +49,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Tweak state cache missing logging](https://github.com/sigp/lighthouse/pull/7354) - 2025-04-24
 * [Pull Request] [Change default state cache size back to 128](https://github.com/sigp/lighthouse/pull/7364) - 2025-04-28
 * [Issue] [State cache misses in v7.0.0](https://github.com/sigp/lighthouse/issues/7363) - 2025-04-28
+* [Commit] [More type-safe diff base state](https://github.com/sigp/lighthouse/commit/1184d7237e7c3cef031d208a763a5b3b076df23b) - 2025-04-29
+* [Commit] [Simplify migration logic](https://github.com/sigp/lighthouse/commit/088cfa03deec97ca56eb6bea4adaae35a2fa37a6) - 2025-04-29
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

@@ -82,6 +82,9 @@ Team: Erigon
 * [Commit] [coinbase printer](https://github.com/erigontech/erigon/commit/6be73103ed2529a56f6296bd4ca49770ef8924ce) - 2025-04-28
 * [Commit] [coinbase printer](https://github.com/erigontech/erigon/commit/34ca5f4fcaf0cecf294471cd3e92a15576415290) - 2025-04-28
 * [Commit] [coinbase printer](https://github.com/erigontech/erigon/commit/9e8e656b541d51a0525d3554afac34d6720d9d6a) - 2025-04-28
+* [Commit] [print cb bal](https://github.com/erigontech/erigon/commit/0c902c0132b986a1f54e6191a3d859f0bae15d86) - 2025-04-29
+* [Commit] [remove coinbase print](https://github.com/erigontech/erigon/commit/0eb06e219c4c75c154ac8141718c06a27829fd84) - 2025-04-29
+* [Commit] [print cb bal](https://github.com/erigontech/erigon/commit/af72d0703a8cbd64499f7acfd4ceb47eec44e808) - 2025-04-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

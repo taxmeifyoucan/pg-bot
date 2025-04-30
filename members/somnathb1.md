@@ -79,6 +79,8 @@ Team: Erigon
 * [Commit] [Makefile: bake in kurtosis tests (#14736)](https://github.com/erigontech/erigon/commit/43d8079f00624fd6eb29509dd5baaabc2e7104e3) - 2025-04-25
 * [Commit] [Fix len depositUnpacking](https://github.com/erigontech/erigon/commit/8b77c445ea1d713be7334afcd408b497fa0870be) - 2025-04-26
 * [Commit] [eth, execution: Use block level gasPool in serial execution (#14761)](https://github.com/erigontech/erigon/commit/d28abef2880eb77512146e02ec1ef241482037c7) - 2025-04-28
+* [Commit] [Make eest workflow failure strict again](https://github.com/erigontech/erigon/commit/dffbc6550b16d631d1ce75222d8a46389d0cf78d) - 2025-04-29
+* [Commit] [Revert abi type, use explicit validation](https://github.com/erigontech/erigon/commit/37aa6101301e4aa45753350db0b44ed2932ec6df) - 2025-04-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

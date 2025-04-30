@@ -45,6 +45,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Make `*_REQUESTS_PER_PAYLOAD` the same for mainnet/minimal](https://github.com/ethereum/consensus-specs/pull/4291) - 2025-04-28
 * [Commit] [Remove unnecessary sort in `compute_columns_for_custody_group` (#4289)](https://github.com/ethereum/consensus-specs/commit/4087043cd4a7d11e81470f111f488c6a913ea075) - 2025-04-28
 * [Commit] [Add two new custody group tests (#4290)](https://github.com/ethereum/consensus-specs/commit/949905d6eb0339a43c1b4dd1ac3c999802d9c10e) - 2025-04-28
+* [Commit] [Add ability to run generators for specific tests (#4288)](https://github.com/ethereum/consensus-specs/commit/85e6451072531b6bc00a66e301f0636711f2886c) - 2025-04-29
+* [Commit] [Make `*_REQUESTS_PER_PAYLOAD` the same for mainnet/minimal (#4291)](https://github.com/ethereum/consensus-specs/commit/c9530aefa85999df5c01a637f0a4dd7e745e1a00) - 2025-04-29
+* [Commit] [Bump setuptools from 79.0.0 to 80.0.0 in the actions group (#4292)](https://github.com/ethereum/consensus-specs/commit/b6d8a28a45f61559fcdd7b624b7af0d4eae411cc) - 2025-04-29
+* [Commit] [Bump actions/setup-python from 5.5.0 to 5.6.0 in the actions group (#4293)](https://github.com/ethereum/consensus-specs/commit/b75a3f238b70e0ee5434fc8ca495bfcf25b948df) - 2025-04-29
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

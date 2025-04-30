@@ -43,6 +43,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix whitespace](https://github.com/NethermindEth/nethermind/commit/9651adcf6f9ee594659cc8286fa87ad0e8725a3d) - 2025-04-24
 * [Commit] [add test for gas cap and refactor](https://github.com/NethermindEth/nethermind/commit/a550bfd684c8629a93ae4b5e6967fb9ec6ab4344) - 2025-04-24
 * [Pull Request] [Add EVM tests for 2537](https://github.com/NethermindEth/nethermind/pull/8566) - 2025-04-28
+* [Commit] [Feature/better dicovery metrics (#8531)](https://github.com/NethermindEth/nethermind/commit/bf2bf5125998b505a48ccefd83451602f69a3f96) - 2025-04-29
+* [Commit] [update to latest libp2p version](https://github.com/NethermindEth/nethermind/commit/66112ae8ace73871d4f9b475fecb698c8f404481) - 2025-04-29
+* [Commit] [Add EVM tests for 2537 (#8566)](https://github.com/NethermindEth/nethermind/commit/45443f25d8f84359d6c81349fffa67c30d22b50c) - 2025-04-29
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

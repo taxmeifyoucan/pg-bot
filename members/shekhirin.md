@@ -39,6 +39,7 @@ Team: Reth
 * [Commit] [store all branch nodes only for state trie](https://github.com/paradigmxyz/reth/commit/b06e4caded9ec4a9f85b3c45652f445fa4b69aaf) - 2025-04-25
 * [Commit] [store all branch nodes only for state trie](https://github.com/paradigmxyz/reth/commit/bfb5ac94526fe3b838a7418756af712eddadd6bc) - 2025-04-25
 * [Commit] [fix walker to not skip branch nodes](https://github.com/paradigmxyz/reth/commit/3189d4a9988adbd8e16ed2e3fb1356d08ab4bb0f) - 2025-04-28
+* [Commit] [improve diff, add missing all branch nodes flag](https://github.com/paradigmxyz/reth/commit/df7ac281fe9c3e2baca9ce1dc20f7a5cc6df4a83) - 2025-04-29
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

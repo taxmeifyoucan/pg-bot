@@ -64,6 +64,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Broadcast Proposer Slashing on equivocation (#14693)](https://github.com/OffchainLabs/prysm/commit/7887ebbc4a6b56f1e9c17374214adcf5995b99d7) - 2025-04-25
 * [Commit] [PeerDAS: Add needed proto files and corresponding generated code. (#15187)](https://github.com/OffchainLabs/prysm/commit/1298dc3a4602247c39cd1b1e888e0e68258ca577) - 2025-04-28
 * [Commit] [Broadcast Proposer Slashing on equivocation (#14693)](https://github.com/OffchainLabs/prysm/commit/7887ebbc4a6b56f1e9c17374214adcf5995b99d7) - 2025-04-28
+* [Commit] [fixing more unit tests](https://github.com/OffchainLabs/prysm/commit/e0d344664eddeb9a2b6892f12d91d41afa28ace2) - 2025-04-29
+* [Commit] [maligned struct](https://github.com/OffchainLabs/prysm/commit/e69127aef2406f1405f6a4929439be3fd2b8681b) - 2025-04-29
+* [Commit] [gaz"](https://github.com/OffchainLabs/prysm/commit/4207d79cfef2bdc4a725d624a222e34d1add6a1a) - 2025-04-29
+* [Commit] [fixing tests due to new check](https://github.com/OffchainLabs/prysm/commit/7461968a06af3a18f0a41a908d056c5f36c2979d) - 2025-04-29
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

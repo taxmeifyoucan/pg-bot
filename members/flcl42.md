@@ -37,6 +37,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Ckzg.Ckzg -> Ckzg.](https://github.com/NethermindEth/nethermind/pull/8568) - 2025-04-28
 * [Pull Request] [Commit state according to the regular spec, before system tx spec usage](https://github.com/NethermindEth/nethermind/pull/8567) - 2025-04-28
 * [Pull Request] [Tool/hive runs to scripts](https://github.com/NethermindEth/nethermind/pull/8565) - 2025-04-28
+* [Commit] [Ckzg.Ckzg -> Ckzg. (#8568)](https://github.com/NethermindEth/nethermind/commit/c4927b0c6b8f96e0337ed6ef6e0793231504130c) - 2025-04-29
+* [Commit] [Add a dep](https://github.com/NethermindEth/nethermind/commit/c4acf4edd0bedffe4235def0f7902af57fe33439) - 2025-04-29
+* [Pull Request] [Redirect logs to error; ignore empty tracer](https://github.com/NethermindEth/nethermind/pull/8569) - 2025-04-29
+* [Commit] [Commit state according to the regular spec, before system tx spec usage (#8567)](https://github.com/NethermindEth/nethermind/commit/3d95e638ae43aac01276d12dd60c8225e5807d73) - 2025-04-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 ## Q1 2025

@@ -52,6 +52,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 * [Commit] [`BlobsBundleV2`: Add comment.](https://github.com/OffchainLabs/prysm/commit/504836d51c3c37f246183171510c2e38533f57cb) - 2025-04-28
 * [Commit] [`max_cell_proofs_length.size`: Set to `CELLS_PER_EXT_BLOB * MAX_BLOB_COMMITMENTS_PER_BLOCK`.](https://github.com/OffchainLabs/prysm/commit/a9fb56df1d3c7caba2e44c4bcb64b6992056ed89) - 2025-04-28
+* [Pull Request] [Implement data column sidecars verifications.](https://github.com/OffchainLabs/prysm/pull/15232) - 2025-04-29
+* [Commit] [Add changelog.](https://github.com/OffchainLabs/prysm/commit/d3547a8142a29dd302fd1edd5d948ef3449aa29c) - 2025-04-29
+* [Commit] [Add column sidecar inclusion proof cache (#15217)](https://github.com/OffchainLabs/prysm/commit/a6a41a875551a6d172a3f661e1c93e125cb901ad) - 2025-04-29
+* [Commit] [Add lc p2p broadcaster functions (#15175)](https://github.com/OffchainLabs/prysm/commit/d30bb63d94db014719aa54681802aef175b68914) - 2025-04-29
+* [Commit] [Add flag to subscribe to all blob column subnets (#15197)](https://github.com/OffchainLabs/prysm/commit/ff1eda7b6bb255fe7f52c3f176414b0051bfa98a) - 2025-04-29
+* [Commit] [Validate parent block exists before signature (#15184)](https://github.com/OffchainLabs/prysm/commit/30c7ee9c7bd2016c13f8db6d947bf5ce9d2e5c6b) - 2025-04-29
+* [Commit] [Remove peer sampling.](https://github.com/OffchainLabs/prysm/commit/254312058220fc66a3bf1167a1451782131af28b) - 2025-04-29
+* [Issue] [Make `testing/util` be importable anywhere.](https://github.com/OffchainLabs/prysm/issues/15231) - 2025-04-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

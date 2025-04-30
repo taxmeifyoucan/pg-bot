@@ -25,6 +25,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [update network config params](https://github.com/Consensys/teku/pull/9352) - 2025-04-14
 * [Pull Request] [Add FULU to the Spec Factory](https://github.com/Consensys/teku/pull/9373) - 2025-04-25
 * [Issue] [Alter SSZ encoding for validator registrations](https://github.com/Consensys/teku/issues/9372) - 2025-04-25
+* [Pull Request] [refactor IL committee root schema](https://github.com/Consensys/teku/pull/9384) - 2025-04-29
+* [Commit] [Update blocks ils (#9382)](https://github.com/Consensys/teku/commit/5bf978de5aaf97b18af358d17510db741b675410) - 2025-04-29
+* [Issue] [Clear Inclusion Lists from the store](https://github.com/Consensys/teku/issues/9383) - 2025-04-29
+* [Pull Request] [Update blocks ils](https://github.com/Consensys/teku/pull/9382) - 2025-04-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add eip7805 presets](https://github.com/ethereum/consensus-specs/pull/4268) - 2025-04-14
 * [Pull Request] [move IL committee domain to constant](https://github.com/ethereum/consensus-specs/pull/4276) - 2025-04-17

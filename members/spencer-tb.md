@@ -50,6 +50,18 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(cli): consume direct geth blocktest fail fix](https://github.com/ethereum/execution-spec-tests/pull/1502) - 2025-04-28
 * [Issue] [feat(release): tasks for version v4.4.0 (Stromovka)](https://github.com/ethereum/execution-spec-tests/issues/1501) - 2025-04-28
 * [Commit] [Update tests/prague/eip2935_historical_block_hashes_from_state/test_block_hashes.py](https://github.com/ethereum/execution-spec-tests/commit/1c20035bc273813f7ecd54ee481717e1c21a8f2d) - 2025-04-28
+* [Commit] [chore(docs): bump changelog for v4.4.0 release. (#1506)](https://github.com/ethereum/execution-spec-tests/commit/e934abb20c69bb3f99ea12e4e46eb8459f07891f) - 2025-04-29
+* [Pull Request] [chore(docs): bump changelog for v4.4.0 release.](https://github.com/ethereum/execution-spec-tests/pull/1506) - 2025-04-29
+* [Commit] [feat(tests): add eip-2929 precompile address warming tests (#1495)](https://github.com/ethereum/execution-spec-tests/commit/bc691d13e94a16e7e195f5a861ace2f80a9ee9b3) - 2025-04-29
+* [Commit] [feat(tests): add bls map to curve on identity cases (#1505)](https://github.com/ethereum/execution-spec-tests/commit/9cc32c37ee45b62fe4b6aa2be1ca152337b2d618) - 2025-04-29
+* [Commit] [chore(tests): increase precompile extra range.](https://github.com/ethereum/execution-spec-tests/commit/02dcc4636a2d2ad45b2749d9de99cd26189ee746) - 2025-04-29
+* [Commit] [chore: move to berlin, fix typecheck.](https://github.com/ethereum/execution-spec-tests/commit/c439d2624734e9c4216a99d9c268027924307718) - 2025-04-29
+* [Commit] [chore(docs): add changelog.](https://github.com/ethereum/execution-spec-tests/commit/a76d5069cb9f5c56fa2c35345ed17d8ec38f0184) - 2025-04-29
+* [Commit] [Update tests/frontier/precompiles/test_precompiles.py](https://github.com/ethereum/execution-spec-tests/commit/2fe06b1c1dd23b1137576aea861e1b9748d70b92) - 2025-04-29
+* [Commit] [fix: review comments (#1504)](https://github.com/ethereum/execution-spec-tests/commit/1a4f6e922de6be67b267d71ed4f8f5b357ab8e88) - 2025-04-29
+* [Commit] [feat(tests): add bls map to curve on identity cases.](https://github.com/ethereum/execution-spec-tests/commit/4b8933d9742485aab308e4d63fb2975c3b36a1e8) - 2025-04-29
+* [Commit] [chore(docs): add changelog.](https://github.com/ethereum/execution-spec-tests/commit/022a14efcf408e4db7d82502e2449300055749ef) - 2025-04-29
+* [Pull Request] [feat(tests): add bls map to curve on indentity cases](https://github.com/ethereum/execution-spec-tests/pull/1505) - 2025-04-29
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

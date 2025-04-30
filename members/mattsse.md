@@ -163,6 +163,15 @@ Team: Reth
 * [Issue] [Add support for configuring sequencer client headers](https://github.com/paradigmxyz/reth/issues/15964) - 2025-04-28
 * [Commit] [feat: Removing `geth-tests` and `serial_test` (#15960)](https://github.com/paradigmxyz/reth/commit/58ec4b11535ccfde2591e4e1336d6c2713a29bb6) - 2025-04-28
 * [Issue] [Add support for importing era files from an endpoint directly](https://github.com/paradigmxyz/reth/issues/15961) - 2025-04-28
+* [Issue] [Add Era Sync Stage to Pipeline](https://github.com/paradigmxyz/reth/issues/15992) - 2025-04-29
+* [Commit] [docs: add engine API builder docs (#15988)](https://github.com/paradigmxyz/reth/commit/762880e494158a9b1af29ba613520ccbb57562fe) - 2025-04-29
+* [Commit] [docs](https://github.com/paradigmxyz/reth/commit/71088f78c21ffee5c99eb4a00f9dfdeb642baa78) - 2025-04-29
+* [Pull Request] [docs: add engine API builder docs](https://github.com/paradigmxyz/reth/pull/15988) - 2025-04-29
+* [Commit] [Update crates/node/builder/src/rpc.rs](https://github.com/paradigmxyz/reth/commit/93eb336b8f22de819cc98214e0d386291f87efae) - 2025-04-29
+* [Commit] [Update crates/node/builder/src/rpc.rs](https://github.com/paradigmxyz/reth/commit/9f2d4a75c10501f1af9aa489c6c20dcdc90cfa7a) - 2025-04-29
+* [Pull Request] [docs: add more docs for RpcAddsOns](https://github.com/paradigmxyz/reth/pull/15986) - 2025-04-29
+* [Issue] [Make RpcAddOns::launch_add_ons_with more composable](https://github.com/paradigmxyz/reth/issues/15985) - 2025-04-29
+* [Issue] [Add evm inspector that tracks warm/cold sloads](https://github.com/paradigmxyz/reth/issues/15984) - 2025-04-29
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

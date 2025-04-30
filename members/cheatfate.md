@@ -22,6 +22,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Address compilation issue, lets call it untyped sandwich.](https://github.com/status-im/nimbus-eth2/commit/fe29bd65df67e0925cd45259ef67656ee9efad22) - 2025-04-28
 * [Commit] [track execution requests for builder API (#7103)](https://github.com/status-im/nimbus-eth2/commit/ab82386b3b2ee25e60ded3fdce934a7ef928528d) - 2025-04-28
 * [Commit] [Address review comments.](https://github.com/status-im/nimbus-eth2/commit/96a5b97c4fe046150ae31924a929353e28279df1) - 2025-04-28
+* [Commit] [Update AllTests.](https://github.com/status-im/nimbus-eth2/commit/15ac4675cffa1c12feed195d426f9d50c5c4bcb4) - 2025-04-29
+* [Commit] [Add Blob/Column quarantine test to test suite.](https://github.com/status-im/nimbus-eth2/commit/a0e504d4de5c00a2f9d9d04b0ce7a8327f295f73) - 2025-04-29
+* [Commit] [Add test for previous case.](https://github.com/status-im/nimbus-eth2/commit/4aace607e1c329bd650b1d95326bc65b30d25b45) - 2025-04-29
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

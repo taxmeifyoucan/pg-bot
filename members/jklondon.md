@@ -76,6 +76,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/5b73785320680992531f982141f642feff175132) - 2025-04-27
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/f7cfd775d4a0ac5d32d22ca5b530a1043c049388) - 2025-04-27
 * [Pull Request] [Purify domains fix](https://github.com/erigontech/erigon/pull/14776) - 2025-04-27
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/c62409460135749f7b39bf29072d05d3c534f501) - 2025-04-29
+* [Pull Request] [[VERY WIP] trying to eradicate reflect usage on rpc server](https://github.com/erigontech/erigon/pull/14793) - 2025-04-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

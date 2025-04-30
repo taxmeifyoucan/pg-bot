@@ -13,6 +13,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [Update rewards contract](https://github.com/NethermindEth/nethermind/commit/6cb4117274d2a9f9f64845ed30fcd6be230a958a) - 2025-04-20
+* [Pull Request] [Update Nethermind.Numerics.Int256 package](https://github.com/NethermindEth/nethermind/pull/8570) - 2025-04-29
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

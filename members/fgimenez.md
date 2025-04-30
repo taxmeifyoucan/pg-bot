@@ -61,6 +61,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [chore: bump sse (#15926)](https://github.com/paradigmxyz/reth/commit/987a94ed3301e2a88cf759e825149e2a7f862c2a) - 2025-04-25
 * [Commit] [update gas bounds](https://github.com/paradigmxyz/reth/commit/c6f0225dde68efc3af465c29d9ee7628b66d890e) - 2025-04-26
 * [Commit] [no need to modify gas_spent on success](https://github.com/paradigmxyz/reth/commit/3aab74156e66c4c7e44539d603ef4a30dfd3731d) - 2025-04-26
+* [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/c2cb7e475d57e1f67ca8330653be704e4a814ace) - 2025-04-29
+* [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/18e084c67075e769d778d67d63f7c016ca683544) - 2025-04-29
+* [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/d9ea109014a5afc3fc7a4f3e52777faa3fe3d008) - 2025-04-29
+* [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/ad80f36378d946e7893292b788dcc3a00fb3ed59) - 2025-04-29
+* [Pull Request] [chore: remove BlockExecutorProvider trait](https://github.com/paradigmxyz/reth/pull/15989) - 2025-04-29
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

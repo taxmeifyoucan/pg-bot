@@ -76,6 +76,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Pass force flag to allow overriding stream handlers](https://github.com/ChainSafe/lodestar/commit/eb850bd1d7ab9a8c8f1da12f6612c3e97fd1673c) - 2025-04-28
 * [Commit] [chore: consistently pass fork info to `requestSszTypeByMethod` (#7411)](https://github.com/ChainSafe/lodestar/commit/418e81ef2da243a6ee236bb0abf45ac45ff1f7e0) - 2025-04-28
 * [Commit] [chore: remove produce block apis no longer part of spec (#7749)](https://github.com/ChainSafe/lodestar/commit/27301c36341c7df70fad349993da7116ec4e7115) - 2025-04-28
+* [Issue] [Update gnosis config `MAX_BLOBS_PER_BLOCK` to match upstream config](https://github.com/ChainSafe/lodestar/issues/7765) - 2025-04-29
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

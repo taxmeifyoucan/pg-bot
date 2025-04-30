@@ -20,6 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Start cleaning up `api/schema` (#9376)](https://github.com/Consensys/teku/commit/fe4a9394507bd8f6f7d9835bdfdd50c3519fab98) - 2025-04-28
 * [Pull Request] [Start cleaning up `api/schema`](https://github.com/Consensys/teku/pull/9376) - 2025-04-28
 * [Commit] [feat: Add support for reading static peers from file (#9328)](https://github.com/Consensys/teku/commit/5dad0ed9e385954ee9baf04c77919eb5e869d25c) - 2025-04-28
+* [Pull Request] [Added context to the sync committee duties error](https://github.com/Consensys/teku/pull/9380) - 2025-04-29
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

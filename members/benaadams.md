@@ -139,6 +139,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Skip reloads of accounts for txpool delegations (#8564)](https://github.com/NethermindEth/nethermind/commit/145c392906c829e53632ab8ce0eadec245b84919) - 2025-04-28
 * [Commit] [Return better exception](https://github.com/NethermindEth/nethermind/commit/aec1c80e787e49f3e9b40fb03dc9c3e1f32f5ea7) - 2025-04-28
 * [Pull Request] [Skip reloads of accounts for txpool delegations](https://github.com/NethermindEth/nethermind/pull/8564) - 2025-04-28
+* [Commit] [Update Nethermind.Numerics.Int256 package (#8570)](https://github.com/NethermindEth/nethermind/commit/4beea9989dd0789656f9b3774dd1c805edfc0e67) - 2025-04-29
+* [Commit] [Update OP Superchain chains (#8560)](https://github.com/NethermindEth/nethermind/commit/c06f87a1ab5964c11bf071fdb43efd51019f2207) - 2025-04-29
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025
