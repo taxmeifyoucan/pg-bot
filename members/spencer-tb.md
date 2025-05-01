@@ -62,6 +62,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): add bls map to curve on identity cases.](https://github.com/ethereum/execution-spec-tests/commit/4b8933d9742485aab308e4d63fb2975c3b36a1e8) - 2025-04-29
 * [Commit] [chore(docs): add changelog.](https://github.com/ethereum/execution-spec-tests/commit/022a14efcf408e4db7d82502e2449300055749ef) - 2025-04-29
 * [Pull Request] [feat(tests): add bls map to curve on indentity cases](https://github.com/ethereum/execution-spec-tests/pull/1505) - 2025-04-29
+* [Pull Request] [chore(docs): add non forks to test case reference](https://github.com/ethereum/execution-spec-tests/pull/1517) - 2025-04-30
+* [Commit] [feat(tests): add increased nonce with invalid nonce tests (#1441)](https://github.com/ethereum/execution-spec-tests/commit/d2f52375e1b21f50cb28bcf8523f21fab46ffc26) - 2025-04-30
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

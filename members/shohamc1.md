@@ -96,6 +96,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Fix append](https://github.com/erigontech/erigon/commit/2a97810f12c7fb45f4adf102f495f7f2b5cad255) - 2025-04-29
 * [Pull Request] [Make state sync events in order](https://github.com/erigontech/erigon/pull/14790) - 2025-04-29
 * [Commit] [Add test](https://github.com/erigontech/erigon/commit/a9a736c9a894ab1a00b345ea4074e711b9d694d8) - 2025-04-29
+* [Commit] [Remove `borTxnLookupTransform` (#14816)](https://github.com/erigontech/erigon/commit/fa64dd805b116f34971f42e21536139cd2941527) - 2025-04-30
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -66,6 +66,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/d9ea109014a5afc3fc7a4f3e52777faa3fe3d008) - 2025-04-29
 * [Commit] [fixes](https://github.com/paradigmxyz/reth/commit/ad80f36378d946e7893292b788dcc3a00fb3ed59) - 2025-04-29
 * [Pull Request] [chore: remove BlockExecutorProvider trait](https://github.com/paradigmxyz/reth/pull/15989) - 2025-04-29
+* [Commit] [bind Precompiles type](https://github.com/paradigmxyz/reth/commit/d5fe41832e5ebf96012a7a90ba3424a53eede239) - 2025-04-30
+* [Commit] [feat: parse supervisor RPC errors (#15944)](https://github.com/paradigmxyz/reth/commit/ca78d666202652818a06601c72cd508b6b69592a) - 2025-04-30
+* [Commit] [swap precompiles](https://github.com/paradigmxyz/reth/commit/90b76d8010db2e58d310aa6322cac56ff4b5f718) - 2025-04-30
+* [Commit] [refactor](https://github.com/paradigmxyz/reth/commit/37de1f079bb7286138bb063e27d570d49b66537a) - 2025-04-30
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

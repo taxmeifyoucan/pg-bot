@@ -26,6 +26,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix edge case inspired by @dguenther](https://github.com/ChainSafe/lodestar/commit/84c5fbbdd734f3a95c7dfa95e576526b49ea3764) - 2025-04-20
 * [Commit] [Fix edge case](https://github.com/ChainSafe/lodestar/commit/d880f45ab9b5a379c21c30602afc9a4f1fb1d68b) - 2025-04-20
 * [Pull Request] [feat: update weak subjectivity calculation for electra](https://github.com/ChainSafe/lodestar/pull/7735) - 2025-04-22
+* [Commit] [fix: add words from #6635 to wordlist (#7772)](https://github.com/ChainSafe/lodestar/commit/da2bd9516ceace5bd62307728df998d4b0dd5134) - 2025-04-30
+* [Commit] [sort wordlist](https://github.com/ChainSafe/lodestar/commit/615a0dd65f3588c9a5757f73c2186b4164fd7218) - 2025-04-30
+* [Pull Request] [fix: add words from #6635 to wordlist](https://github.com/ChainSafe/lodestar/pull/7772) - 2025-04-30
+* [Commit] [feat: add xdelta3 support for computing binary difference (#7664)](https://github.com/ChainSafe/lodestar/commit/167a280c64b60d0d5a43d9bb6cbfb8b44ccfa46f) - 2025-04-30
+* [Commit] [docs: add docs for the historical state generation using binary diff layers (#7665)](https://github.com/ChainSafe/lodestar/commit/e0ab687705ba1a66acefe6bdf4e874300af35952) - 2025-04-30
+* [Commit] [Fix image path](https://github.com/ChainSafe/lodestar/commit/3c692a772c52b84e320e0b653095e066a57eef91) - 2025-04-30
+* [Commit] [Remove underscore](https://github.com/ChainSafe/lodestar/commit/5b369de0e0d22608312c02a6bcfbef82b003b59a) - 2025-04-30
+* [Commit] [test](https://github.com/ChainSafe/lodestar/commit/c025f5f4e75304807747771f5b1cdff5a701753d) - 2025-04-30
+* [Commit] [test](https://github.com/ChainSafe/lodestar/commit/7516f922709c8734bcc445c0a6ad52e589a85100) - 2025-04-30
+* [Commit] [test](https://github.com/ChainSafe/lodestar/commit/4a524f53ac9fe15c91d3ba0f29b8f7957697a01a) - 2025-04-30
+* [Commit] [Fix latex and image path](https://github.com/ChainSafe/lodestar/commit/8c16e7ef89916b7ee8ca2dd75edffe555d83f020) - 2025-04-30
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

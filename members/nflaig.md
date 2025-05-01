@@ -77,6 +77,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: consistently pass fork info to `requestSszTypeByMethod` (#7411)](https://github.com/ChainSafe/lodestar/commit/418e81ef2da243a6ee236bb0abf45ac45ff1f7e0) - 2025-04-28
 * [Commit] [chore: remove produce block apis no longer part of spec (#7749)](https://github.com/ChainSafe/lodestar/commit/27301c36341c7df70fad349993da7116ec4e7115) - 2025-04-28
 * [Issue] [Update gnosis config `MAX_BLOBS_PER_BLOCK` to match upstream config](https://github.com/ChainSafe/lodestar/issues/7765) - 2025-04-29
+* [Commit] [chore: update 404 block/state error messages to match spec examples (#7775)](https://github.com/ChainSafe/lodestar/commit/408033e17f08a64416a6cbb74eaa85a74113edce) - 2025-04-30
+* [Pull Request] [chore: update 404 block/state error messages to match spec examples](https://github.com/ChainSafe/lodestar/pull/7775) - 2025-04-30
+* [Commit] [chore(deps-dev): bump vite from 6.0.11 to 6.1.6 (#7773)](https://github.com/ChainSafe/lodestar/commit/8b760330e7cbb8c6f4b9304ae0f4da8813879cf2) - 2025-04-30
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

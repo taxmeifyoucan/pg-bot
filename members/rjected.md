@@ -22,6 +22,19 @@ Team: Reth
 * [Commit] [fix: do not use interior mutable const](https://github.com/paradigmxyz/reth/commit/81e50fad0812d1ede39a2e715a48d323a0e88b57) - 2025-04-24
 * [Commit] [feat: spawn storage proofs separately](https://github.com/paradigmxyz/reth/commit/9841a2f4e642b240613fed73ec2cd33f57d81b31) - 2025-04-24
 * [Commit] [chore: replace MultiProofTargets type with new type](https://github.com/paradigmxyz/reth/commit/c6a6fdef8a3927451e8183b9e80655f571ae75f4) - 2025-04-24
+* [Commit] [chore: add log for revealed paths](https://github.com/paradigmxyz/reth/commit/da3fdba6ed456381497ae9b06ed812e53e229957) - 2025-04-30
+* [Commit] [chore: add log for revealed paths](https://github.com/paradigmxyz/reth/commit/e8e7cd250849fc73f17f9969ae7b07b499af2d47) - 2025-04-30
+* [Commit] [feat: add metrics for storage-only proofs](https://github.com/paradigmxyz/reth/commit/031623ee9bf525fc2f35b0bc036549b2489c21bf) - 2025-04-30
+* [Commit] [feat: add metrics for storage-only proofs](https://github.com/paradigmxyz/reth/commit/785ede6b951b3cb9957b775e05743727ff53ce7e) - 2025-04-30
+* [Commit] [feat: add metrics for storage-only proofs](https://github.com/paradigmxyz/reth/commit/bb66f30227131cdb0b5583cd57603b0cacb67da0) - 2025-04-30
+* [Commit] [feat: add metrics for storage-only proofs](https://github.com/paradigmxyz/reth/commit/606d934c5411bc8e72d193970e294cb338108bd1) - 2025-04-30
+* [Commit] [feat: add metrics for storage-only proofs](https://github.com/paradigmxyz/reth/commit/ffa0ce8c0077ebddf9b9418927606b5a88cbe7b1) - 2025-04-30
+* [Commit] [fix: make Outcome counter match up with things spawned](https://github.com/paradigmxyz/reth/commit/beb7d015a6f47705bf763d7d3a2f2ae3468a3dc5) - 2025-04-30
+* [Commit] [fix(tree): save caches only after prewarm tasks finish](https://github.com/paradigmxyz/reth/commit/0065930a4d5218dd81cdcff007b4e9e6a1493c74) - 2025-04-30
+* [Commit] [fix(tree): save caches only after prewarm tasks finish](https://github.com/paradigmxyz/reth/commit/af628ac98bcbc0f6fc9f3d38db8370f05dced7a6) - 2025-04-30
+* [Commit] [fix(tree): save caches only after prewarm tasks finish](https://github.com/paradigmxyz/reth/commit/21cde9e8f5a985eb67956ae73fcdd7f7bd4a94d9) - 2025-04-30
+* [Commit] [fix(tree): save caches only after prewarm tasks finish](https://github.com/paradigmxyz/reth/commit/e3be04a30634b2e4ad282572283b8f3ef49a8349) - 2025-04-30
+* [Pull Request] [fix(tree): save caches only after prewarm tasks finish ](https://github.com/paradigmxyz/reth/pull/16011) - 2025-04-30
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

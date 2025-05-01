@@ -68,6 +68,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [maligned struct](https://github.com/OffchainLabs/prysm/commit/e69127aef2406f1405f6a4929439be3fd2b8681b) - 2025-04-29
 * [Commit] [gaz"](https://github.com/OffchainLabs/prysm/commit/4207d79cfef2bdc4a725d624a222e34d1add6a1a) - 2025-04-29
 * [Commit] [fixing tests due to new check](https://github.com/OffchainLabs/prysm/commit/7461968a06af3a18f0a41a908d056c5f36c2979d) - 2025-04-29
+* [Commit] [moving slot ticker back to chain start](https://github.com/OffchainLabs/prysm/commit/190b84bf3691a3afa7f495ac876a1d9fdbf8835e) - 2025-04-30
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

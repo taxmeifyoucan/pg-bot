@@ -26,6 +26,9 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [update block recipets tracer](https://github.com/NethermindEth/nethermind/commit/5a26a8bee9517a879914de6549552dcd740899fe) - 2025-04-22
 * [Commit] [WIP - add gas cost charging in EVM](https://github.com/NethermindEth/nethermind/commit/fa2c26f184663970167244728dbd1ef35a5169e5) - 2025-04-22
 * [Commit] [add more structureS](https://github.com/NethermindEth/nethermind/commit/8a1841c7f9cb7c9b9c95d4042edd7a16dbdf489e) - 2025-04-24
+* [Commit] [Add config and tests](https://github.com/NethermindEth/nethermind/commit/40695644bcf52601563b519f9667a772185e4e31) - 2025-04-30
+* [Commit] [add some tests](https://github.com/NethermindEth/nethermind/commit/e7d99a5cf0f5f8af4cfee7e3aaa360178769274d) - 2025-04-30
+* [Commit] [WIP more changes](https://github.com/NethermindEth/nethermind/commit/c55aed6cd9184784369757139ce0938bb76424f1) - 2025-04-30
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -81,6 +81,7 @@ Team: Erigon
 * [Commit] [eth, execution: Use block level gasPool in serial execution (#14761)](https://github.com/erigontech/erigon/commit/d28abef2880eb77512146e02ec1ef241482037c7) - 2025-04-28
 * [Commit] [Make eest workflow failure strict again](https://github.com/erigontech/erigon/commit/dffbc6550b16d631d1ce75222d8a46389d0cf78d) - 2025-04-29
 * [Commit] [Revert abi type, use explicit validation](https://github.com/erigontech/erigon/commit/37aa6101301e4aa45753350db0b44ed2932ec6df) - 2025-04-29
+* [Pull Request] [consensus: validate fixed lengths in abi decoding EIP-6110 deposit requests](https://github.com/erigontech/erigon/pull/14823) - 2025-04-30
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

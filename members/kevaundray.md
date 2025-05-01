@@ -36,6 +36,9 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore: pin crunchy by including it in one of the member crates](https://github.com/paradigmxyz/reth/pull/15854) - 2025-04-22
 * [Pull Request] [chore: re-pin crunchy to 0.2.2 after weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/15846) - 2025-04-22
 * [Pull Request] [chore: Add a usage comment on `revert`](https://github.com/paradigmxyz/reth/pull/15844) - 2025-04-22
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [zkevm: Add marker for bls tests](https://github.com/ethereum/execution-spec-tests/pull/1514) - 2025-04-30
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

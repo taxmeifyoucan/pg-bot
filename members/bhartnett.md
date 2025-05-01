@@ -18,3 +18,4 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Fluffy: eth_createAccessList fixes and improvements](https://github.com/status-im/nimbus-eth1/pull/3247) - 2025-04-29
 * [Commit] [Sort access list.](https://github.com/status-im/nimbus-eth1/commit/52806bd10d11784db976a6ffc0cceb8d648c76cc) - 2025-04-29
 * [Commit] [Make radius cache configurable.](https://github.com/status-im/nimbus-eth1/commit/c08f1c02ef8257a187deccf251eda00e1a068986) - 2025-04-29
+* [Commit] [Make the node lookup configurable in neighborhood gossip.](https://github.com/status-im/nimbus-eth1/commit/f44208adf342114fc2078ecb28238933e422dfa7) - 2025-04-30

@@ -34,6 +34,7 @@ Team: Grandine
 * [Issue] [Add warning if we miss sync committee participation](https://github.com/grandinetech/grandine/issues/189) - 2025-04-22
 * [Commit] [Bumped version to 1.1.0](https://github.com/grandinetech/grandine/commit/29cb5c1a2f4a9771e5171086125907aedfa3c6cf) - 2025-04-23
 * [Pull Request] [Bumped version to 1.1.0](https://github.com/grandinetech/grandine/pull/193) - 2025-04-23
+* [Pull Request] [Increased default DB size](https://github.com/grandinetech/grandine/pull/199) - 2025-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Changed Hangleang's multiplier to 1](https://github.com/protocolguild/documentation/pull/344) - 2025-04-10
 ## Q1 2025

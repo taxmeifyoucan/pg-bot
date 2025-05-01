@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Fix wrong custody column count for lookup blocks](https://github.com/sigp/lighthouse/pull/7281) - 2025-04-08
 * [Commit] [Backfill WIP](https://github.com/sigp/lighthouse/commit/f9d2c1d2d3c5682f2132c0d9ad0a7d83921ba6ca) - 2025-04-08
 * [Issue] [Range sync process_completed_batches assumes processing_target exists](https://github.com/sigp/lighthouse/issues/7360) - 2025-04-27
+* [Issue] [Gnosis Pectra hardfork minor issues](https://github.com/sigp/lighthouse/issues/7379) - 2025-04-30
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

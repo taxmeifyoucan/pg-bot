@@ -23,6 +23,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: refactor suggestions](https://github.com/ChainSafe/lodestar/commit/249417b28b7f818acc8f4484c3b86a08296fa89c) - 2025-04-24
 * [Commit] [chore: simplify block input states](https://github.com/ChainSafe/lodestar/commit/a18df2c1ecde14f3c34f1ef330fdd8e9b3f5ce1f) - 2025-04-26
 * [Commit] [chore: more tweaks](https://github.com/ChainSafe/lodestar/commit/419c1f820b3400fee1ff1e2975ded00ab783ce55) - 2025-04-28
+* [Commit] [chore: standardize added primitives](https://github.com/ChainSafe/lodestar/commit/28959698834f6452a76942faaad0e86f61df163c) - 2025-04-30
+* [Pull Request] [feat: block input additive refactor](https://github.com/ChainSafe/lodestar/pull/7776) - 2025-04-30
+* [Commit] [chore: fix types](https://github.com/ChainSafe/lodestar/commit/f12f4108fe0e49c9276baa2e22c13e4ed6a668cf) - 2025-04-30
+* [Commit] [chore: update packages/params/test/unit/forkName.test.ts](https://github.com/ChainSafe/lodestar/commit/841b391a38e26dad8d61c3528e95bd79662f9dea) - 2025-04-30
+* [Commit] [chore: more duplicate types](https://github.com/ChainSafe/lodestar/commit/40e3958b43ad81f75607ab50c8a53f5428cbcd60) - 2025-04-30
+* [Commit] [chore: remove duplicate types](https://github.com/ChainSafe/lodestar/commit/c2d60104bccfec29fbb66da500d92ee8c6e82b81) - 2025-04-30
+* [Commit] [chore: add validator params update](https://github.com/ChainSafe/lodestar/commit/aba16e9b77a673196d1c5f31513a0cfd9e1642c9) - 2025-04-30
+* [Commit] [feat: add params and config](https://github.com/ChainSafe/lodestar/commit/cd424d883d332cce9465c192088623822bf55c0f) - 2025-04-30
+* [Commit] [chore: apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/918fd17875600bab4290f1916bf31337cc39b5dc) - 2025-04-30
+* [Pull Request] [feat: fulu types](https://github.com/ChainSafe/lodestar/pull/7774) - 2025-04-30
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

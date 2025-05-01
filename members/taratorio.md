@@ -45,6 +45,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [make: add make stringer (#14698)](https://github.com/erigontech/erigon/commit/1162dd5922b37e0457a646d39faede94e0e2e342) - 2025-04-23
 * [Commit] [make: fix make mocks (#14697)](https://github.com/erigontech/erigon/commit/d81babcb0ca19e17af2c15b43fd8c0efc84cab15) - 2025-04-23
 * [Issue] [[flaky] Test_ParallelHexPatriciaHashed_EdgeCases concurrent - fatal error: concurrent map writes](https://github.com/erigontech/erigon/issues/14752) - 2025-04-25
+* [Commit] [polygon/sync: tolerate domain ahead of blocks err on initial sync to tip  (#14824)](https://github.com/erigontech/erigon/commit/ab2dc7890c27e5f72dce828097d8b46748465885) - 2025-04-30
+* [Pull Request] [polygon/sync: tolerate domain ahead of blocks err on initial sync to tip ](https://github.com/erigontech/erigon/pull/14824) - 2025-04-30
+* [Commit] [polygon/heimdall: fix snapshot store RangeFromBlockNum (#13689)](https://github.com/erigontech/erigon/commit/b862803fac6be5084e02863335c89f44d47084aa) - 2025-04-30
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

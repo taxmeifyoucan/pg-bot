@@ -48,6 +48,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Maybe incorrect total difficulty](https://github.com/NethermindEth/nethermind/pull/8557) - 2025-04-26
 * [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/588ae039950961249ea09228cd9dde9f0b1e0f24) - 2025-04-27
 * [Commit] [EIP-4444: Add RPC errors for pruned blocks. Take 2 (#8521)](https://github.com/NethermindEth/nethermind/commit/af0b0492df5e83fe1482e3e45773b98f6c519bb3) - 2025-04-27
+* [Commit] [Address comment](https://github.com/NethermindEth/nethermind/commit/603b10933255ae2bc80616ef63ce866df2305831) - 2025-04-30
+* [Commit] [Update src/Nethermind/Nethermind.Synchronization/Blocks/BlocksSyncPeerSelectionStrategy.cs](https://github.com/NethermindEth/nethermind/commit/78a2116eefbf34fa8d0e41f0ac9d5a9335394bc9) - 2025-04-30
+* [Commit] [Update src/Nethermind/Nethermind.Synchronization/Blocks/BlockDownloader.cs](https://github.com/NethermindEth/nethermind/commit/24730c0128442884e6919758a6712659e6c61609) - 2025-04-30
+* [Commit] [Update src/Nethermind/Nethermind.Synchronization/Blocks/BlockDownloader.cs](https://github.com/NethermindEth/nethermind/commit/823f6c4a67807f80559d6e45977b88d9d0a51308) - 2025-04-30
+* [Commit] [Update src/Nethermind/Nethermind.Synchronization/Blocks/BlockDownloader.cs](https://github.com/NethermindEth/nethermind/commit/cb9bd3454094473fe8f917e43358a97e8131d2df) - 2025-04-30
+* [Commit] [Update src/Nethermind/Nethermind.Synchronization/Blocks/BlockDownloader.cs](https://github.com/NethermindEth/nethermind/commit/6ff84c650220b90035ebef19ea483606a37e2211) - 2025-04-30
+* [Commit] [Update src/Nethermind/Nethermind.Synchronization/Blocks/BlockDownloader.cs](https://github.com/NethermindEth/nethermind/commit/1d3b1b187db2e2ec41cacfb9bedfd3aa7e09468d) - 2025-04-30
+* [Commit] [Update src/Nethermind/Nethermind.Synchronization/Blocks/BlockDownloader.cs](https://github.com/NethermindEth/nethermind/commit/364cbceb5b5d4119d33170cf573cebab71abb687) - 2025-04-30
+* [Commit] [Update src/Nethermind/Nethermind.Synchronization/Blocks/BlockDownloader.cs](https://github.com/NethermindEth/nethermind/commit/d191d70865d4e69ab1a394d18ab7ad607f0d7e8c) - 2025-04-30
+* [Commit] [Use ref type](https://github.com/NethermindEth/nethermind/commit/aba6dc9a025ca8136c317d13e8ffcd2432157f53) - 2025-04-30
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

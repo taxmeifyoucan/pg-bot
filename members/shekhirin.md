@@ -40,6 +40,11 @@ Team: Reth
 * [Commit] [store all branch nodes only for state trie](https://github.com/paradigmxyz/reth/commit/bfb5ac94526fe3b838a7418756af712eddadd6bc) - 2025-04-25
 * [Commit] [fix walker to not skip branch nodes](https://github.com/paradigmxyz/reth/commit/3189d4a9988adbd8e16ed2e3fb1356d08ab4bb0f) - 2025-04-28
 * [Commit] [improve diff, add missing all branch nodes flag](https://github.com/paradigmxyz/reth/commit/df7ac281fe9c3e2baca9ce1dc20f7a5cc6df4a83) - 2025-04-29
+* [Commit] [log calculated storage roots](https://github.com/paradigmxyz/reth/commit/8209a3b9fce83f4d91755de7ff9af31b1ac099e3) - 2025-04-30
+* [Commit] [pub maybe_hash](https://github.com/paradigmxyz/reth/commit/27d885bb50d98c1cb0fd4ed0c604e1a2a7d28a41) - 2025-04-30
+* [Commit] [use maybe_hash in another log](https://github.com/paradigmxyz/reth/commit/3ee7755124a9cba55f416dc34fb51becbc45e1e6) - 2025-04-30
+* [Pull Request] [chore(trie): do not panic in trie cursor subnode Debug impl](https://github.com/paradigmxyz/reth/pull/16013) - 2025-04-30
+* [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/fafc9a9bdc109a063227e23672537b4c341070e2) - 2025-04-30
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
