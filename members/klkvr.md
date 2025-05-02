@@ -20,3 +20,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [doc](https://github.com/paradigmxyz/reth/commit/909da8f4a3dc4fd7608754709de885e94979166f) - 2025-04-28
 * [Commit] [Update crates/ethereum/node/src/node.rs](https://github.com/paradigmxyz/reth/commit/07d362676b1fc2cb9bd3a815dcd78abcbf7a6e38) - 2025-04-28
 * [Pull Request] [chore: relax some th component bounds](https://github.com/paradigmxyz/reth/pull/15977) - 2025-04-28
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/53c5513cd7b858fea67b854ab06b777e0aa1f195) - 2025-05-01
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/7cfb7d0ad8a7b65447140dfbf888f1836d66c89c) - 2025-05-01
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/9398e1ac5cc435c4458ee3a10d377b5902cab784) - 2025-05-01
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/d99e0f7ab85127d50380789d0344c7c45f0d3bde) - 2025-05-01
+* [Commit] [zepter](https://github.com/paradigmxyz/reth/commit/284bf19cca709530cf4caf59ef8a1b5a4fb3c36e) - 2025-05-01
+* [Pull Request] [refactor: execute through `EvmConfig` in engine + `MockEvmConfig`](https://github.com/paradigmxyz/reth/pull/16025) - 2025-05-01
+* [Commit] [MockEvmConfig](https://github.com/paradigmxyz/reth/commit/2a5e1dac4b0dc88a19ab99c3fb4f9ff331391c64) - 2025-05-01
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/45f8736cae1139c6019596ffa6f4d61207cb7ae0) - 2025-05-01
+* [Commit] [MockEvmConfig](https://github.com/paradigmxyz/reth/commit/d069129cfa0c714c5913bf12b4d95e816118b3f1) - 2025-05-01
+* [Commit] [remove BlockExecutorProvider from engine](https://github.com/paradigmxyz/reth/commit/5e7dc73a7fdc330d5ea7e5ca33f47b3c50245823) - 2025-05-01

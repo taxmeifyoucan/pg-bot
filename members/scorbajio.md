@@ -17,3 +17,5 @@ Team: EthereumJS
 * [Commit] [Update main build workflow to separate static builds](https://github.com/ethereumjs/ethereumjs-monorepo/commit/e28e769e9106d998db143b6385cfb20ea11e4fec) - 2025-04-30
 * [Commit] [Turn static-build workflow into four separater workflows with explicit package names](https://github.com/ethereumjs/ethereumjs-monorepo/commit/574d73c5a6aa27b48612263206a11aa8f4fb0884) - 2025-04-30
 * [Commit] [util: replace unnecessary toBytes usage (#4014)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c6deb4e6af67d3fe077416e3bd7903f7cc1d7c5a) - 2025-04-30
+* [Commit] [Update action badge link in READMEs](https://github.com/ethereumjs/ethereumjs-monorepo/commit/d8b71a75fb36fdb1dc5c149ecbef2e1b781b49a6) - 2025-05-01
+* [Pull Request] [Rename static build ci job](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4050) - 2025-05-01

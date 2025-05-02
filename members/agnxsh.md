@@ -60,6 +60,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [limit getBlobsV2 calls to when absolutely necessary](https://github.com/status-im/nimbus-eth2/commit/6c8b9b12790aa6bb615c9438ce686689d82b97b9) - 2025-04-28
 * [Commit] [simply fill quarantine and leave block application to the rest of the functions](https://github.com/status-im/nimbus-eth2/commit/b935e0ff036e7dbf0dd30e52c3caa02a24fd6540) - 2025-04-28
 * [Commit] [refactor more, save work](https://github.com/status-im/nimbus-eth2/commit/53b5e6a4790f5a79550b6e2740e21de8dcae74e2) - 2025-04-29
+* [Commit] [fix indent](https://github.com/status-im/nimbus-eth2/commit/4feb2bfde1252af5ea32cc8633b3092c1c9954fb) - 2025-05-01
+* [Commit] [that shouldn't be columnIds](https://github.com/status-im/nimbus-eth2/commit/f490c893ea4a54c87f5ac5fad0628b45f491f00c) - 2025-05-01
+* [Commit] [updated link](https://github.com/status-im/nimbus-eth2/commit/95c3d67f16b2c0d059bb43264d6f7cbd1386d21f) - 2025-05-01
+* [Commit] [address reviews](https://github.com/status-im/nimbus-eth2/commit/3848e271257a4fac9ed8d94446de0bf4d72a8a59) - 2025-05-01
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

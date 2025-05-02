@@ -64,6 +64,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): add bls map to curve on indentity cases](https://github.com/ethereum/execution-spec-tests/pull/1505) - 2025-04-29
 * [Pull Request] [chore(docs): add non forks to test case reference](https://github.com/ethereum/execution-spec-tests/pull/1517) - 2025-04-30
 * [Commit] [feat(tests): add increased nonce with invalid nonce tests (#1441)](https://github.com/ethereum/execution-spec-tests/commit/d2f52375e1b21f50cb28bcf8523f21fab46ffc26) - 2025-04-30
+* [Commit] [feat(types): implement `empty_account` function (#1482)](https://github.com/ethereum/execution-spec-tests/commit/453cf09a77e88382dd4d2631ab2ddfa68eecf25b) - 2025-05-01
+* [Commit] [chore(cli): temp tweak so all pass.](https://github.com/ethereum/execution-spec-tests/commit/ca138fa03132c7b23d63b756ee389b35ac748c76) - 2025-05-01
+* [Pull Request] [chore(cli): update exception mapper for nimbus-el](https://github.com/ethereum/execution-spec-tests/pull/1522) - 2025-05-01
+* [Issue] [feat(consume): add exception test marker](https://github.com/ethereum/execution-spec-tests/issues/1520) - 2025-05-01
+* [Commit] [chore: update besu exception mapper deposits.](https://github.com/ethereum/execution-spec-tests/commit/8792ea9f8eeee86e8de7802f9d70aa8dca09990f) - 2025-05-01
+* [Pull Request] [chore: update besu exception mapper deposits](https://github.com/ethereum/execution-spec-tests/pull/1519) - 2025-05-01
+* [Commit] [fix(tests): EIP-2929: Fix missing kwarg for python 3.10 (#1518)](https://github.com/ethereum/execution-spec-tests/commit/a740709194c1b77085e91af8c03ef7026bdeac0f) - 2025-05-01
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

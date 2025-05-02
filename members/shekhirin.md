@@ -45,6 +45,7 @@ Team: Reth
 * [Commit] [use maybe_hash in another log](https://github.com/paradigmxyz/reth/commit/3ee7755124a9cba55f416dc34fb51becbc45e1e6) - 2025-04-30
 * [Pull Request] [chore(trie): do not panic in trie cursor subnode Debug impl](https://github.com/paradigmxyz/reth/pull/16013) - 2025-04-30
 * [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/fafc9a9bdc109a063227e23672537b4c341070e2) - 2025-04-30
+* [Commit] [fix skip node flag check](https://github.com/paradigmxyz/reth/commit/7f9d59295a0d9cb869c9eb4c7a0839b621a0f981) - 2025-05-01
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -93,6 +93,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm Deneb builder API remnant](https://github.com/status-im/nimbus-eth2/pull/7111) - 2025-04-27
 * [Commit] [rm Deneb builder API remnant](https://github.com/status-im/nimbus-eth2/commit/7a8b9e0ed444f66bea7b01a5542146e7f093cc70) - 2025-04-27
 * [Commit] [Update libp2p gossip topic parameters. (#6979)](https://github.com/status-im/nimbus-eth2/commit/e83ebba49e42ff561162cb53d160c06ddb613f73) - 2025-04-27
+* [Commit] [Update era_db.nim (#7075)](https://github.com/status-im/nimbus-eth2/commit/4b07120d11c2951a4cf129524a1ffc3a3a1cfeaa) - 2025-05-01
+* [Commit] [replace:`DataColumnIdentifier` -> `DataColumnsByRootIdentifier` while root requesting (#7117)](https://github.com/status-im/nimbus-eth2/commit/94efe335fe5773ad44ae7a46f81940937f7cd50b) - 2025-05-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

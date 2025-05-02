@@ -21,6 +21,24 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/7428b2144ce27ecf8b7cf7c1ab39fcedfb15e1cb) - 2025-04-21
 * [Commit] [cleanup](https://github.com/ethereum/execution-spec-tests/commit/d2c2f5cc6c4dc83e50e67929f35d668e526175bc) - 2025-04-25
 * [Pull Request] [zkevm: keccak worst-case](https://github.com/ethereum/execution-spec-tests/pull/1497) - 2025-04-25
+* [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/9bebb72733a733e32dc66f77659752fac4d29879) - 2025-05-01
+* [Commit] [cleanup](https://github.com/ethereum/execution-spec-tests/commit/66e032e7057da680b6e0ac7b03771479112312b5) - 2025-05-01
+* [Commit] [Update tests/zkevm/test_worst_compute.py](https://github.com/ethereum/execution-spec-tests/commit/fcf838fba4b8001f74f2edea5515636d64bd82dc) - 2025-05-01
+* [Commit] [feedback](https://github.com/ethereum/execution-spec-tests/commit/fa934a8ef255d3e6e7fcd2eef5cbaf31ff9da168) - 2025-05-01
+* [Pull Request] [zkEVM: add modexp attack](https://github.com/ethereum/execution-spec-tests/pull/1523) - 2025-05-01
+* [Commit] [lints and cleanup](https://github.com/ethereum/execution-spec-tests/commit/743cdfc3ccd52f8c6234fe601b5745f0514a47f1) - 2025-05-01
+* [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/13c0f2e9c02ad8e354b514384a5e6a5532684b56) - 2025-05-01
+* [Commit] [adjustments](https://github.com/ethereum/execution-spec-tests/commit/538f536054700daaa7d4bf17f8ac35320ac9081f) - 2025-05-01
+* [Commit] [only leave 36M gas limit](https://github.com/ethereum/execution-spec-tests/commit/d016275ffd3c671d7694c6c14f936760a6e9ec43) - 2025-05-01
+* [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/d3deb143606ee0559f2cf091f832d98fb3acd08c) - 2025-05-01
+* [Commit] [feat(tests): add increased nonce with invalid nonce tests (#1441)](https://github.com/ethereum/execution-spec-tests/commit/d2f52375e1b21f50cb28bcf8523f21fab46ffc26) - 2025-05-01
+* [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/c0398f45ff14b553b130e959732ff5cf7d6af3dc) - 2025-05-01
+* [Pull Request] [zkEVM: fix max contract size limitation in bytecode attack](https://github.com/ethereum/execution-spec-tests/pull/1521) - 2025-05-01
+* [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/3eaa83351bd4030f9dbefb6b203e6e9a14b152f6) - 2025-05-01
+* [Commit] [adjust calculations](https://github.com/ethereum/execution-spec-tests/commit/f4d90fd48f699c4dc8f8f11828286f92adcae3ac) - 2025-05-01
+* [Commit] [adjust calculations](https://github.com/ethereum/execution-spec-tests/commit/3824e1635d371c3909ea1ce32a9e1e81c5959431) - 2025-05-01
+* [Commit] [adjust calculations](https://github.com/ethereum/execution-spec-tests/commit/6c415c854b4b6e3ad7300f81dd9b50b166b60b39) - 2025-05-01
+* [Commit] [redo loop using CREATE2 address calculation for the attack](https://github.com/ethereum/execution-spec-tests/commit/5b1e9eaf5950079b4f9216e9d226c55bb7cef5f1) - 2025-05-01
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

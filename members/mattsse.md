@@ -172,6 +172,14 @@ Team: Reth
 * [Pull Request] [docs: add more docs for RpcAddsOns](https://github.com/paradigmxyz/reth/pull/15986) - 2025-04-29
 * [Issue] [Make RpcAddOns::launch_add_ons_with more composable](https://github.com/paradigmxyz/reth/issues/15985) - 2025-04-29
 * [Issue] [Add evm inspector that tracks warm/cold sloads](https://github.com/paradigmxyz/reth/issues/15984) - 2025-04-29
+* [Issue] [Move IsTyped2718 to alloy](https://github.com/paradigmxyz/reth/issues/16026) - 2025-05-01
+* [Commit] [chore: extended touchups (#16020)](https://github.com/paradigmxyz/reth/commit/0144a8353bd7f16dfe4ee6ccf2cda39d4f0e48ef) - 2025-05-01
+* [Pull Request] [chore: extended touchups](https://github.com/paradigmxyz/reth/pull/16020) - 2025-05-01
+* [Commit] [feat: support engine_newPayloadV4 in benchmarker (#15924)](https://github.com/paradigmxyz/reth/commit/27f8584ad812cdd9180eccd35467d313354477dd) - 2025-05-01
+* [Pull Request] [chore: replace crypto](https://github.com/paradigmxyz/reth/pull/16019) - 2025-05-01
+* [Commit] [chore: features](https://github.com/paradigmxyz/reth/commit/245847841b174d39401492b7a1252f60359bf8a2) - 2025-05-01
+* [Issue] [Use custom tx in custom node example](https://github.com/paradigmxyz/reth/issues/16018) - 2025-05-01
+* [Issue] [Use IsTyped2718 in extendedtxenvelope](https://github.com/paradigmxyz/reth/issues/16014) - 2025-05-01
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

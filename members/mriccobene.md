@@ -35,6 +35,8 @@ Team: Erigon
 * [Pull Request] [qa-tests: avoid executing long running tests on specialised test runners](https://github.com/erigontech/erigon/pull/14797) - 2025-04-29
 * [Pull Request] [qa-tests: repair rpc-perf tests](https://github.com/erigontech/erigon/pull/14796) - 2025-04-29
 * [Commit] [qa-tests: improve rpc-integration test failure handling (#14539)](https://github.com/erigontech/erigon/commit/a71de6d72cbde388f68f47cc53d7dbc1f51aaaa6) - 2025-04-29
+* [Commit] [integration/readme.md for E3 (#14813)](https://github.com/erigontech/erigon/commit/d15fbc5ffaa6bbd8dca5059dfe7fec5bf7b82982) - 2025-05-01
+* [Commit] [qa-tests: add bor-mainnet to sync-from-scratch (minimal node) test (#14815)](https://github.com/erigontech/erigon/commit/3e730b46d92646acd479750b5a700309e7a4c703) - 2025-05-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

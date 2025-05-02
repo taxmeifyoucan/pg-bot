@@ -82,6 +82,13 @@ Team: Erigon
 * [Commit] [Make eest workflow failure strict again](https://github.com/erigontech/erigon/commit/dffbc6550b16d631d1ce75222d8a46389d0cf78d) - 2025-04-29
 * [Commit] [Revert abi type, use explicit validation](https://github.com/erigontech/erigon/commit/37aa6101301e4aa45753350db0b44ed2932ec6df) - 2025-04-29
 * [Pull Request] [consensus: validate fixed lengths in abi decoding EIP-6110 deposit requests](https://github.com/erigontech/erigon/pull/14823) - 2025-04-30
+* [Issue] [Erigon is stuck when part(s) of the snapshots are missing](https://github.com/erigontech/erigon/issues/14841) - 2025-05-01
+* [Pull Request] [snapshotsync: return txnSeg file err](https://github.com/erigontech/erigon/pull/14840) - 2025-05-01
+* [Commit] [fmt](https://github.com/erigontech/erigon/commit/f3f46828a26a02cce6b0d525702314c5cac0ca0b) - 2025-05-01
+* [Pull Request] [cl: Improve exec history download logs](https://github.com/erigontech/erigon/pull/14838) - 2025-05-01
+* [Pull Request] [workflows: Temp disable 7702 invalidation test on kurtosis](https://github.com/erigontech/erigon/pull/14834) - 2025-05-01
+* [Commit] [consensus: validate fixed lengths in abi decoding EIP-6110 deposit requests (#14823)](https://github.com/erigontech/erigon/commit/f2b9cc0e462134d5a70833e5578681c95e50f165) - 2025-05-01
+* [Commit] [[cherry-pick] consensus: Add syscall failure scenarios (#14403) (#14818)](https://github.com/erigontech/erigon/commit/1721322126250665eb92b5c3a146900b1c129ce6) - 2025-05-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

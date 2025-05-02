@@ -17,6 +17,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Issue] [Checkpointing block building](https://github.com/NethermindEth/nethermind/issues/8522) - 2025-04-14
 * [Commit] [Added gnosis pectra support (#8500)](https://github.com/NethermindEth/nethermind/commit/e6d98a85f536b04ad9804b3cabc97c722702133e) - 2025-04-17
 * [Commit] [Dial back JsonRpc log spam (#8497)](https://github.com/NethermindEth/nethermind/commit/0655cd061865ff95d5d231b2f93e67453bafdc7e) - 2025-04-17
+* [Commit] [Maybe fix incorrect total difficulty (#8557)](https://github.com/NethermindEth/nethermind/commit/c3994c665ce5287c5fac645b95df167c96dedc25) - 2025-05-01
+* [Commit] [Revert "Perf/parallel block downloader" (#8574)](https://github.com/NethermindEth/nethermind/commit/b9a2a9345d4e5bbe1583258fe6f9c1e1de5ffe72) - 2025-05-01
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -71,6 +71,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(clis/geth): fixes geth error mappings (#1500)](https://github.com/ethereum/execution-spec-tests/commit/175f2e91827d6d47041c47ba2dd82c2eb7712f94) - 2025-04-28
 * [Commit] [chore(docs): add non forks to test case reference. (#1517)](https://github.com/ethereum/execution-spec-tests/commit/05cf0d83a84ad3939e5091d63f16dc2ba4c942f3) - 2025-04-30
 * [Commit] [chore: add osaka engine updates (#1510)](https://github.com/ethereum/execution-spec-tests/commit/2f42f60320c7f9169ee1fd599fb57bf7625b900f) - 2025-04-30
+* [Commit] [docs(getting_started,fill): add solc instructions for arm64 users with fill issues (#1217)](https://github.com/ethereum/execution-spec-tests/commit/c35b42f3d84618e0430124b424c0f362bdbe4ab7) - 2025-05-01
+* [Commit] [chore(clis/besu): update exception mapper deposits (#1519)](https://github.com/ethereum/execution-spec-tests/commit/45d66b99053a8de0a39822727161cd536a86cf0e) - 2025-05-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

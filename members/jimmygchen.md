@@ -24,6 +24,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [PeerDAS internal availability check failure](https://github.com/sigp/lighthouse/issues/7278) - 2025-04-08
 * [Pull Request] [Test force docker pull python image](https://github.com/sigp/lighthouse/pull/7292) - 2025-04-09
 * [Pull Request] [Compute proposer shuffling only once in gossip verification](https://github.com/sigp/lighthouse/pull/7304) - 2025-04-10
+* [Commit] [update script for new mergify syntax (#6597)](https://github.com/sigp/lighthouse/commit/dc73791f35dff0484a35ddedba4b58c6ca34c3c9) - 2025-05-01
+* [Issue] [Implement builder flow for Fusaka](https://github.com/sigp/lighthouse/issues/7381) - 2025-05-01
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

@@ -69,6 +69,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [gaz"](https://github.com/OffchainLabs/prysm/commit/4207d79cfef2bdc4a725d624a222e34d1add6a1a) - 2025-04-29
 * [Commit] [fixing tests due to new check](https://github.com/OffchainLabs/prysm/commit/7461968a06af3a18f0a41a908d056c5f36c2979d) - 2025-04-29
 * [Commit] [moving slot ticker back to chain start](https://github.com/OffchainLabs/prysm/commit/190b84bf3691a3afa7f495ac876a1d9fdbf8835e) - 2025-04-30
+* [Commit] [Implement all needed KZG wrappers for peerDAS in the `kzg` package. (#15186)](https://github.com/OffchainLabs/prysm/commit/ab5505e13e7145b8a5dcedb0b233f68d29bb78df) - 2025-05-01
+* [Commit] [trying to stop validator safely before fatal](https://github.com/OffchainLabs/prysm/commit/5be3f3d9fa8f1a00af25ef50606e7ca8cf3f3cca) - 2025-05-01
+* [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/b700ff2ca414ce3bf7a225e546e5c31504087c95) - 2025-05-01
+* [Commit] [Save LC Finality and Optimistic Updates in LC Store When Processing Block (#15124)](https://github.com/OffchainLabs/prysm/commit/c9e870198701292bf18817b6c50bd2d67372f23b) - 2025-05-01
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

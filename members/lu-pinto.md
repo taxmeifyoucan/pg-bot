@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [Immediately check for static exceptions for `SELFDESTRUCT` (#8468)](https://github.com/hyperledger/besu/commit/6af6caba5801110c89c458a66270cc0588f1fd66) - 2025-04-08
 * [Pull Request] [Ability to run EOF exec spec tests in CI](https://github.com/hyperledger/besu/pull/8570) - 2025-04-19
 * [Pull Request] [Move OOG check in CALL and EXTCALL earlier than other halts](https://github.com/hyperledger/besu/pull/8569) - 2025-04-19
+* [Pull Request] [Besu verkle trie rename to besu stateless](https://github.com/hyperledger/besu/pull/8588) - 2025-05-01
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

@@ -80,6 +80,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: update 404 block/state error messages to match spec examples (#7775)](https://github.com/ChainSafe/lodestar/commit/408033e17f08a64416a6cbb74eaa85a74113edce) - 2025-04-30
 * [Pull Request] [chore: update 404 block/state error messages to match spec examples](https://github.com/ChainSafe/lodestar/pull/7775) - 2025-04-30
 * [Commit] [chore(deps-dev): bump vite from 6.0.11 to 6.1.6 (#7773)](https://github.com/ChainSafe/lodestar/commit/8b760330e7cbb8c6f4b9304ae0f4da8813879cf2) - 2025-04-30
+* [Pull Request] [chore: update gnosis MAX_BLOBS_PER_BLOCK to match upstream config](https://github.com/ChainSafe/lodestar/pull/7785) - 2025-05-01
+* [Pull Request] [chore: update gnosis chain bootnodes](https://github.com/ChainSafe/lodestar/pull/7784) - 2025-05-01
+* [Pull Request] [feat: support fetching historical data from all state apis](https://github.com/ChainSafe/lodestar/pull/7781) - 2025-05-01
+* [Issue] [Requesting state by state root does not work for finalized state(s)](https://github.com/ChainSafe/lodestar/issues/7780) - 2025-05-01
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

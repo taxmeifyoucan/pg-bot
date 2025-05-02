@@ -42,6 +42,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/adb614948c555e4328f395d7a5a90a1a8b831bac) - 2025-04-15
 * [Commit] [update](https://github.com/erigontech/erigon/commit/9c6aa19d52a2ed840ad9d9a0b2590241c5578ee9) - 2025-04-15
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/3027078573332d69c6d14bab9dde8abd9a7036ca) - 2025-04-15
+* [Commit] [workflows: increase hive eest threshold temporarily (#14728)](https://github.com/erigontech/erigon/commit/00487a9d05d1ea066937ddfd18a17eb2e89ad004) - 2025-05-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

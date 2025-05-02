@@ -87,6 +87,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cosmetics](https://github.com/erigontech/erigon/commit/b12dc84ce272ad6e5cfa107cb85d67f6ad2ac522) - 2025-04-30
 * [Commit] [docs (README.md): 404 links to JSON-RPC code (#14807)](https://github.com/erigontech/erigon/commit/926cc67467126dc0b7b9fdd6caedcfcc1ed243ab) - 2025-04-30
 * [Commit] [fix erigon-db/go.mod](https://github.com/erigontech/erigon/commit/71b744fe5ccc5d7fcfbe9bc872f0f8b569e2ae7e) - 2025-04-30
+* [Commit] [add TestBlobParameterOnlyHardforks](https://github.com/erigontech/erigon/commit/c509e1584048e44d5d04d9190bdf6a352eb8ab57) - 2025-05-01
+* [Pull Request] [EIP-7892: Blob Parameter Only Hardforks](https://github.com/erigontech/erigon/pull/14843) - 2025-05-01
+* [Commit] [implement EIP-7892](https://github.com/erigontech/erigon/commit/d9a8cd5a37e3b77b96173e90891a0219712facd3) - 2025-05-01
+* [Commit] [Split ParseMapKeysIntoUint64 out of ConfigValueLookup](https://github.com/erigontech/erigon/commit/dd4988b1744d0e1d8797724769e6c979672360d0) - 2025-05-01
+* [Commit] [Pass entire chainConfig instead of blobSchedule to TxPool](https://github.com/erigontech/erigon/commit/069c869d5d53d2c992e2a6122f4ca163aa82d746) - 2025-05-01
+* [Commit] [dir improvements: turn `erigon-db` into a module (#14759)](https://github.com/erigontech/erigon/commit/a557bb8f43aa47bb3c20442824b37320511a5be1) - 2025-05-01
+* [Pull Request] [Clean up unused build tags](https://github.com/erigontech/erigon/pull/14832) - 2025-05-01
+* [Commit] [nosilkworm appears to be unused](https://github.com/erigontech/erigon/commit/7ff2b17f4727ed7c1277d0e6fee7aeaa9fd3568b) - 2025-05-01
+* [Issue] [Remove Silkworm execution from Erigon](https://github.com/erigontech/erigon/issues/14831) - 2025-05-01
+* [Commit] [netgo is unnecessary after PR #12795](https://github.com/erigontech/erigon/commit/27e3125d3dc11f050febbec0c217d402172eb5e3) - 2025-05-01
+* [Commit] [rm unused noboltdb tag](https://github.com/erigontech/erigon/commit/7df6a83cd07f74efb263a20d0f33611c33283f2e) - 2025-05-01
+* [Commit] [Rm unused tag nosqlite](https://github.com/erigontech/erigon/commit/b191c3b551d4610ae595031638f04d2624f8b717) - 2025-05-01
+* [Commit] [go mod tidy](https://github.com/erigontech/erigon/commit/db14caa2aa4c77356521dc96b1f47547b73e5cdf) - 2025-05-01
+* [Commit] [polygon/heimdall: fix snapshot store RangeFromBlockNum (#13689)](https://github.com/erigontech/erigon/commit/b862803fac6be5084e02863335c89f44d47084aa) - 2025-05-01
+* [Commit] [remaining bits](https://github.com/erigontech/erigon/commit/61c039bf3fd331944bb71eadaf5ce7fbe26d5593) - 2025-05-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

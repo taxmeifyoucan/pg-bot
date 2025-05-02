@@ -85,6 +85,10 @@ Team: Erigon
 * [Commit] [print cb bal](https://github.com/erigontech/erigon/commit/0c902c0132b986a1f54e6191a3d859f0bae15d86) - 2025-04-29
 * [Commit] [remove coinbase print](https://github.com/erigontech/erigon/commit/0eb06e219c4c75c154ac8141718c06a27829fd84) - 2025-04-29
 * [Commit] [print cb bal](https://github.com/erigontech/erigon/commit/af72d0703a8cbd64499f7acfd4ceb47eec44e808) - 2025-04-29
+* [Commit] [cb nonce](https://github.com/erigontech/erigon/commit/460a3ceb3c5af41ce01e8414b8247debc3198163) - 2025-05-01
+* [Pull Request] [Use transaction index](https://github.com/erigontech/erigon/pull/14842) - 2025-05-01
+* [Commit] [local interface update](https://github.com/erigontech/erigon/commit/94541824c375d68628d6d0245660443709d74ded) - 2025-05-01
+* [Commit] [add final writes to map](https://github.com/erigontech/erigon/commit/03472b51889a95f92da442999039c771aec88628) - 2025-05-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

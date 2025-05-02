@@ -29,6 +29,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [Add config and tests](https://github.com/NethermindEth/nethermind/commit/40695644bcf52601563b519f9667a772185e4e31) - 2025-04-30
 * [Commit] [add some tests](https://github.com/NethermindEth/nethermind/commit/e7d99a5cf0f5f8af4cfee7e3aaa360178769274d) - 2025-04-30
 * [Commit] [WIP more changes](https://github.com/NethermindEth/nethermind/commit/c55aed6cd9184784369757139ce0938bb76424f1) - 2025-04-30
+* [Commit] [Add more functions](https://github.com/NethermindEth/nethermind/commit/197820207fdf4bd01c42d1aeb59abd352961b384) - 2025-05-01
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

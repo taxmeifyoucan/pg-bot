@@ -51,6 +51,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [State cache misses in v7.0.0](https://github.com/sigp/lighthouse/issues/7363) - 2025-04-28
 * [Commit] [More type-safe diff base state](https://github.com/sigp/lighthouse/commit/1184d7237e7c3cef031d208a763a5b3b076df23b) - 2025-04-29
 * [Commit] [Simplify migration logic](https://github.com/sigp/lighthouse/commit/088cfa03deec97ca56eb6bea4adaae35a2fa37a6) - 2025-04-29
+
+* [Issue] [Update minimal spec with next spec release](https://github.com/sigp/lighthouse/issues/7383) - 2025-05-01
+* [Pull Request] [Handle attestation validation errors](https://github.com/sigp/lighthouse/pull/7382) - 2025-05-01
+* [Commit] [Remove non-contiguous DAG checks](https://github.com/sigp/lighthouse/commit/8fa36654174959dd15e1064afcec6e8738f35276) - 2025-05-01
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

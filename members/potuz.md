@@ -29,6 +29,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Check for empty roots](https://github.com/OffchainLabs/prysm/commit/39133cad8d3af8c2e70ddd519ae1b1d3757f22d3) - 2025-04-27
 * [Pull Request] [Pass dependent roots in block events](https://github.com/OffchainLabs/prysm/pull/15227) - 2025-04-27
 * [Commit] [Update grpc deprecation message (#15222)](https://github.com/OffchainLabs/prysm/commit/efaf6649e7b88cf1b90ba3c8536d5c509ce93858) - 2025-04-28
+* [Pull Request] [Check for nil duties on checkDependentRoots](https://github.com/OffchainLabs/prysm/pull/15241) - 2025-05-01
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -995,6 +995,28 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/3fc162a4bbe6605254636ec2259fc5372eae448e) - 2025-04-29
 * [Commit] [save](https://github.com/erigontech/erigon/commit/fc2c80e545c1d368e12569dee87c621ffd412b6e) - 2025-04-29
 * [Commit] [save](https://github.com/erigontech/erigon/commit/73ee4ebddf8c29cbe64ff39d0875417336ac2da3) - 2025-04-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/db0a36429bb32dbba1860af2474d59dfd13ce368) - 2025-05-01
+* [Issue] [holesky snapshotter sync can't finish](https://github.com/erigontech/erigon/issues/14833) - 2025-05-01
+* [Commit] [Expose downloader torrent client status to HTTP (#14639) (#14828)](https://github.com/erigontech/erigon/commit/c9d487138263aa8a0c2293df8b35ae0811d7a88c) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d8f8837a5d4ab64c2611795c6b6c8a0052e1f192) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/27e5e6395b4e692be1dc63dcea3ebd5258953531) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bc93ef133f145f4a49c9394a64b10d7b23d5b0cb) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3e4b4b504f9e3bc79ce04d41390c894f4d9865ec) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ddc9d9cb0ef1b96823c6c716b915c6b46a08a899) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e1fea74784f2c41aa39e64dc3f77a2c3a0ab3bc5) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b1c19854c2167278f9d2fabea4c4b4d6f0f2a4c2) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c185ca01cbce45ce075a218e5e1e680f2fe5f02b) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/42c28d3e19322df4afd8c929af3113d5a97f6202) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/90ec22fd0beaccd5332b44fef8164e7fa53d08ae) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/816030f9be7af9178777afba7df48fc2dbf76a66) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a159cc99f74a152285a1922a42bb8d82b30bcff7) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d20da36d36521bcf4c17bb14b5daab4b74e524b1) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b57651dd58514e8383bb83195729fc92298e64fe) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/598ac8fa44cf11902e85a11af137e3a7cfe80fa9) - 2025-05-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6d7daee87df53839a61a44c34daea656c266cb8f) - 2025-05-01
+* [Commit] [`stage_custom_trace`: to produce logindex, traceindex (#14784)](https://github.com/erigontech/erigon/commit/9261467eaa6c130929b2de64bd4fedf2df087116) - 2025-05-01
+* [Commit] [snaps from main embedded (#14825)](https://github.com/erigontech/erigon/commit/c1bfc29c5744278a7395452f36f6a1d566f49342) - 2025-05-01
+* [Commit] [Tweak Makefile flag variables and build output (#14827)](https://github.com/erigontech/erigon/commit/5c5f2a4eba7a1d130fa63dffca337b378cb6826d) - 2025-05-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

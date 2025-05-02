@@ -58,6 +58,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update src/Nethermind/Nethermind.Synchronization/Blocks/BlockDownloader.cs](https://github.com/NethermindEth/nethermind/commit/364cbceb5b5d4119d33170cf573cebab71abb687) - 2025-04-30
 * [Commit] [Update src/Nethermind/Nethermind.Synchronization/Blocks/BlockDownloader.cs](https://github.com/NethermindEth/nethermind/commit/d191d70865d4e69ab1a394d18ab7ad607f0d7e8c) - 2025-04-30
 * [Commit] [Use ref type](https://github.com/NethermindEth/nethermind/commit/aba6dc9a025ca8136c317d13e8ffcd2432157f53) - 2025-04-30
+* [Issue] [Perf: Cache `PosForwardHeaderProvider.GetBlockHeaders`](https://github.com/NethermindEth/nethermind/issues/8573) - 2025-05-01
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/683f6075a22263436ced0014f02d4850c8adee66) - 2025-05-01
+* [Pull Request] [Cleanup/remove upgreadable peer allocation](https://github.com/NethermindEth/nethermind/pull/8572) - 2025-05-01
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
