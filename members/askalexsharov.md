@@ -1017,6 +1017,30 @@ Team: Erigon
 * [Commit] [`stage_custom_trace`: to produce logindex, traceindex (#14784)](https://github.com/erigontech/erigon/commit/9261467eaa6c130929b2de64bd4fedf2df087116) - 2025-05-01
 * [Commit] [snaps from main embedded (#14825)](https://github.com/erigontech/erigon/commit/c1bfc29c5744278a7395452f36f6a1d566f49342) - 2025-05-01
 * [Commit] [Tweak Makefile flag variables and build output (#14827)](https://github.com/erigontech/erigon/commit/5c5f2a4eba7a1d130fa63dffca337b378cb6826d) - 2025-05-01
+* [Commit] [Switches CDN to R2; fallback to GH (#14849)](https://github.com/erigontech/erigon/commit/9fa146530b73db6dea92454d80a9a3e8307191aa) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0fcecfb5c26b11ad54d1d38415582f740ad16b3c) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6fe8cc4f34a094a696ad25e8a231f9bb2daeb314) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ed13633fc6536f99e18f10db5b9c1d569bfde288) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/db8775a787a330b912a53f099494e71c4d597134) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ff550676242cdfff30b2e12613e57e06a950a622) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5bb7a6d0f0eb39bdb03dd353dcfb0f2e77796568) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/73b492a8960621e4ebb29ba02bb7cf86313cf266) - 2025-05-02
+* [Pull Request] [DomainDel: less params](https://github.com/erigontech/erigon/pull/14848) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d4937cdea35b259aad26ae173d16e75bac646894) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/51b3a69764d4b749c382735a6b75ece75cc60ce7) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1f249eed4e5fc48f89f8de8d998aa6cd2740c7b0) - 2025-05-02
+* [Commit] [return deleted mapping logs (#14846)](https://github.com/erigontech/erigon/commit/94c165064b0fd763c9cf8c43cc6821535c03148a) - 2025-05-02
+* [Pull Request] [erigon-db: `go mod tidy` chk on CI](https://github.com/erigontech/erigon/pull/14847) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b7ac64da874f2d3b36a7952787a86a03db8d59f9) - 2025-05-02
+* [Commit] [Empty commit](https://github.com/erigontech/erigon/commit/7e907f3e3c7085db8af25b9f6b06ef3f10b7c1ef) - 2025-05-02
+* [Commit] [[r30] stage_custom_trace: remove wrong assert (#14811)](https://github.com/erigontech/erigon/commit/fe344af267f643d700c35d92640c502e2e68d3dd) - 2025-05-02
+* [Pull Request] [return deleted mapping logs](https://github.com/erigontech/erigon/pull/14846) - 2025-05-02
+* [Commit] [Use transaction index to find bor event range (#14842)](https://github.com/erigontech/erigon/commit/5619390be36ddbcc7f487a88947a5cff67e9b836) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1a5b2040b5dcc17f6e2706500b309f473e265f32) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7073bd0aa069b308c5c0860fbe8c4dbe53451cd2) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/046b3746b3b005ba6c270a4dcd3a69a61c5cc51f) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5a014f27a5d22ea6721446863cfdd9ca71f980fa) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/582ef6f347ced4045a9f3fbaaab4b86eb22a3101) - 2025-05-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

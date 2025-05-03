@@ -39,6 +39,7 @@ Team: Consensus R&D (EF)
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [zkevm: Add marker for bls tests](https://github.com/ethereum/execution-spec-tests/pull/1514) - 2025-04-30
+* [Issue] [zkevm: Add zkevm marker on all bls12-381 tests](https://github.com/ethereum/execution-spec-tests/issues/1527) - 2025-05-02
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -78,6 +78,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Purify domains fix](https://github.com/erigontech/erigon/pull/14776) - 2025-04-27
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/c62409460135749f7b39bf29072d05d3c534f501) - 2025-04-29
 * [Pull Request] [[VERY WIP] trying to eradicate reflect usage on rpc server](https://github.com/erigontech/erigon/pull/14793) - 2025-04-29
+* [Pull Request] [new mdbx-go bindings (cosmetic changes)](https://github.com/erigontech/erigon/pull/14856) - 2025-05-02
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/eeec83fdf1e8c067fe1551f16301fd9c64d3b567) - 2025-05-02
+* [Pull Request] [publishable fix (due to versioning)](https://github.com/erigontech/erigon/pull/14852) - 2025-05-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

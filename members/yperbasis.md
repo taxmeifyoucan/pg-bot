@@ -102,6 +102,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [go mod tidy](https://github.com/erigontech/erigon/commit/db14caa2aa4c77356521dc96b1f47547b73e5cdf) - 2025-05-01
 * [Commit] [polygon/heimdall: fix snapshot store RangeFromBlockNum (#13689)](https://github.com/erigontech/erigon/commit/b862803fac6be5084e02863335c89f44d47084aa) - 2025-05-01
 * [Commit] [remaining bits](https://github.com/erigontech/erigon/commit/61c039bf3fd331944bb71eadaf5ce7fbe26d5593) - 2025-05-01
+* [Commit] [erigon-db: `go mod tidy` chk on CI (#14847)](https://github.com/erigontech/erigon/commit/facffd541b9e6e614789706252932c347867cdfa) - 2025-05-02
+* [Commit] [TestBlobParameterInactiveHardfork](https://github.com/erigontech/erigon/commit/12389562f2f174cf48ffea1f70312adc332493d7) - 2025-05-02
+* [Commit] [corner case in ConfigValueLookup](https://github.com/erigontech/erigon/commit/702970d4627ef1fd71a32855225d375b01b91c45) - 2025-05-02
+* [Commit] [fix pool test](https://github.com/erigontech/erigon/commit/abae9738b3be7e37d2a47c1912a08b623bac9e21) - 2025-05-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

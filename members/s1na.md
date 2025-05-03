@@ -18,6 +18,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Issue] [Reports of debug_standardTraceBadBlockToFile not working](https://github.com/ethereum/go-ethereum/issues/31694) - 2025-04-22
 * [Pull Request] [WIP eth/tracers: Add a tracing measuring tx execution time](https://github.com/ethereum/go-ethereum/pull/31713) - 2025-04-25
 * [Pull Request] [core: cache last tail in txindexer for progress report](https://github.com/ethereum/go-ethereum/pull/31752) - 2025-05-01
+* [Commit] [core, eth/gasestimator: introduce MaxGasUsed for estimation (#31735)](https://github.com/ethereum/go-ethereum/commit/79807bc3b16ee1dadb506c87917fcf042d4e186d) - 2025-05-02
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

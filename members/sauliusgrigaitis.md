@@ -37,6 +37,9 @@ Team: Grandine
 * [Pull Request] [Increased default DB size](https://github.com/grandinetech/grandine/pull/199) - 2025-04-30
 * [Commit] [Increased default DB size](https://github.com/grandinetech/grandine/commit/a435aaa24fa445c3ddcc379d17bd2e499bc67120) - 2025-05-01
 * [Commit] [Increased default DB size](https://github.com/grandinetech/grandine/commit/9e2706bcffb8748307c7953ceda519e736b43d15) - 2025-05-01
+* [Commit] [Merge pull request #199 from grandinetech/feature/increase-default-db-size](https://github.com/grandinetech/grandine/commit/2835d1a75130f46e7f9054246c08b916b7bb363a) - 2025-05-02
+* [Commit] [Send API attestations in batches to verifier](https://github.com/grandinetech/grandine/commit/679c822f7e45087f5de9941b7dc96b0838041cd0) - 2025-05-02
+* [Commit] [Increased default DB size](https://github.com/grandinetech/grandine/commit/d524a284f1f53943d1839e96dc6acee78b9d5071) - 2025-05-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Changed Hangleang's multiplier to 1](https://github.com/protocolguild/documentation/pull/344) - 2025-04-10
 ## Q1 2025

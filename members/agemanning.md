@@ -15,6 +15,7 @@ Team: Lighthouse
 * [Pull Request] [RPC RequestId Cleanup](https://github.com/sigp/lighthouse/pull/7238) - 2025-04-01
 * [Issue] [Align Logging](https://github.com/sigp/lighthouse/issues/7249) - 2025-04-03
 * [Commit] [Ensure sqlite and rusqlite are optional in `consensus/types` (#7182)](https://github.com/sigp/lighthouse/commit/9dce729cb6a0a1219c06aa3e4328d0b387deea44) - 2025-04-08
+* [Pull Request] [Allow for sync state where batch is unknown](https://github.com/sigp/lighthouse/pull/7391) - 2025-05-02
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

@@ -180,6 +180,12 @@ Team: Reth
 * [Commit] [chore: features](https://github.com/paradigmxyz/reth/commit/245847841b174d39401492b7a1252f60359bf8a2) - 2025-05-01
 * [Issue] [Use custom tx in custom node example](https://github.com/paradigmxyz/reth/issues/16018) - 2025-05-01
 * [Issue] [Use IsTyped2718 in extendedtxenvelope](https://github.com/paradigmxyz/reth/issues/16014) - 2025-05-01
+* [Commit] [fix: for the priority of tx, Value has a higher priority than None (#16034)](https://github.com/paradigmxyz/reth/commit/fef37ae8f3b5304048766c2406ed8c4b1b288c22) - 2025-05-02
+* [Commit] [Rename metrics for getBlobsV2 (#16031)](https://github.com/paradigmxyz/reth/commit/e6faa76d931b6035f3a3cff316c4b483842d2544) - 2025-05-02
+* [Issue] [Extend AddOns with functions that can modify the StageSet](https://github.com/paradigmxyz/reth/issues/16032) - 2025-05-02
+* [Issue] [Extend `StageSet` trait with helper functions](https://github.com/paradigmxyz/reth/issues/16030) - 2025-05-02
+* [Issue] [Support custom Stages via NodeBuilder](https://github.com/paradigmxyz/reth/issues/16028) - 2025-05-02
+* [Issue] [Introduce eth_getAccountInfo](https://github.com/paradigmxyz/reth/issues/16027) - 2025-05-02
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

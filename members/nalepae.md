@@ -60,6 +60,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Validate parent block exists before signature (#15184)](https://github.com/OffchainLabs/prysm/commit/30c7ee9c7bd2016c13f8db6d947bf5ce9d2e5c6b) - 2025-04-29
 * [Commit] [Remove peer sampling.](https://github.com/OffchainLabs/prysm/commit/254312058220fc66a3bf1167a1451782131af28b) - 2025-04-29
 * [Issue] [Make `testing/util` be importable anywhere.](https://github.com/OffchainLabs/prysm/issues/15231) - 2025-04-29
+* [Commit] [Peerdas fix get blobs v2 (#15234)](https://github.com/OffchainLabs/prysm/commit/99933678ea70b40db8ebaea7f90eebf6e12ede8b) - 2025-05-02
+* [Pull Request] [Peerdas finalized state](https://github.com/OffchainLabs/prysm/pull/15243) - 2025-05-02
+* [Commit] [Data colummns by range: Use all possible peers then filter them. (#15242)](https://github.com/OffchainLabs/prysm/commit/34f8e1e92b7fda134816a98ca951849369c64d58) - 2025-05-02
+* [Pull Request] [Data columns by range: Use all possible peers then filter them.](https://github.com/OffchainLabs/prysm/pull/15242) - 2025-05-02
+* [Commit] [`filterPeerWhichCustodyAtLeastOneDataColumn`: Remove unneded log field.](https://github.com/OffchainLabs/prysm/commit/4ba832ded23e5ebd777b8b453c045153556fd05d) - 2025-05-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

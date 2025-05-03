@@ -48,6 +48,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [polygon/sync: tolerate domain ahead of blocks err on initial sync to tip  (#14824)](https://github.com/erigontech/erigon/commit/ab2dc7890c27e5f72dce828097d8b46748465885) - 2025-04-30
 * [Pull Request] [polygon/sync: tolerate domain ahead of blocks err on initial sync to tip ](https://github.com/erigontech/erigon/pull/14824) - 2025-04-30
 * [Commit] [polygon/heimdall: fix snapshot store RangeFromBlockNum (#13689)](https://github.com/erigontech/erigon/commit/b862803fac6be5084e02863335c89f44d47084aa) - 2025-04-30
+* [Commit] [fix](https://github.com/erigontech/erigon/commit/e8032a17f386b8c85a132687f874d2128dafd1b3) - 2025-05-02
+* [Pull Request] [core/state: remove unnecessary Writer4](https://github.com/erigontech/erigon/pull/14853) - 2025-05-02
+* [Pull Request] [remotedb: add HasPrefix support](https://github.com/erigontech/erigon/pull/14845) - 2025-05-02
+* [Commit] [kv: add TemporalTx.HasPrefix test](https://github.com/erigontech/erigon/commit/755216105917995a0e99a0d20643e9b986bdedee) - 2025-05-02
+* [Commit] [tidy](https://github.com/erigontech/erigon/commit/b969ba6885be663977136221a200d77a46fab13f) - 2025-05-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

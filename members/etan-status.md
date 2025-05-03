@@ -27,6 +27,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Create database tables for block / blob data sidecar quarantine](https://github.com/status-im/nimbus-eth2/commit/5572f3a82b2de4ec2ae485d1a073bd76bcfe5030) - 2025-04-25
 * [Pull Request] [Create database tables for block / blob data sidecar quarantine](https://github.com/status-im/nimbus-eth2/pull/7108) - 2025-04-25
 * [Commit] [use Nim version-2-2 branch as prospective next target (#7028)](https://github.com/status-im/nimbus-eth2/commit/45f72db2eea469b363a15fb93243071bf044c7ac) - 2025-04-26
+* [Commit] [Reduce test stack size](https://github.com/status-im/nimbus-eth2/commit/b919db598f81cc5fa10c35f274571a65d93ca646) - 2025-05-02
+* [Commit] [Remove block quarantine DB](https://github.com/status-im/nimbus-eth2/commit/0cd2c9b88209382b6a0f7fdcd70fb5be921525ff) - 2025-05-02
+* [Commit] [Combine data sidecars into single table](https://github.com/status-im/nimbus-eth2/commit/9a310a76bea695a038991df2f5e3fd0f013ba103) - 2025-05-02
+* [Commit] [Combine fork specific blocks tables into one](https://github.com/status-im/nimbus-eth2/commit/76fb58fc1b2065e9d434903838a3783a2628c889) - 2025-05-02
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

@@ -39,6 +39,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [adjust calculations](https://github.com/ethereum/execution-spec-tests/commit/3824e1635d371c3909ea1ce32a9e1e81c5959431) - 2025-05-01
 * [Commit] [adjust calculations](https://github.com/ethereum/execution-spec-tests/commit/6c415c854b4b6e3ad7300f81dd9b50b166b60b39) - 2025-05-01
 * [Commit] [redo loop using CREATE2 address calculation for the attack](https://github.com/ethereum/execution-spec-tests/commit/5b1e9eaf5950079b4f9216e9d226c55bb7cef5f1) - 2025-05-01
+* [Commit] [Update tests/zkevm/test_worst_compute.py](https://github.com/ethereum/execution-spec-tests/commit/b8d50b4d425b0d18d226802d3fc22edb8ba28b9c) - 2025-05-02
+* [Commit] [Update tests/zkevm/test_worst_compute.py](https://github.com/ethereum/execution-spec-tests/commit/a658eed9b01f5ca1d65cdf0e59fa238a2fd44c61) - 2025-05-02
+* [Commit] [Update tests/zkevm/test_worst_compute.py](https://github.com/ethereum/execution-spec-tests/commit/9e2d6cbe7b386d1502d0420054619c91e9284cf0) - 2025-05-02
+* [Commit] [chore(clis/besu): update exception mapper deposits (#1519)](https://github.com/ethereum/execution-spec-tests/commit/45d66b99053a8de0a39822727161cd536a86cf0e) - 2025-05-02
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

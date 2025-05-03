@@ -20,6 +20,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Changelog v6](https://github.com/OffchainLabs/prysm/pull/15203) - 2025-04-21
 * [Commit] [Changelog fragment](https://github.com/OffchainLabs/prysm/commit/4cb3ada7fcf39fbe45016b4bcd049192e4ed3350) - 2025-04-24
 * [Pull Request] [update geth v1.15.9](https://github.com/OffchainLabs/prysm/pull/15216) - 2025-04-24
+* [Commit] [Changelog fragment](https://github.com/OffchainLabs/prysm/commit/4423b71c9de153ba76a530c38ebd2d3a010338fe) - 2025-05-02
+* [Commit] [Changelog fragment](https://github.com/OffchainLabs/prysm/commit/137c929b898f36bf260c816092b44e19f58fbda8) - 2025-05-02
+* [Pull Request] [Revert "Implement all needed KZG wrappers for peerDAS in the `kzg` package. (#15186)"](https://github.com/OffchainLabs/prysm/pull/15244) - 2025-05-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm team contact info](https://github.com/ethereum/pm/pull/1484) - 2025-04-17
 ## Q1 2025

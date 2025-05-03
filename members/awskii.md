@@ -90,6 +90,9 @@ Team: Erigon
 * [Commit] [savae](https://github.com/erigontech/erigon/commit/0433d16c7f269ac92c7b9badabd03d3f0288dd33) - 2025-05-01
 * [Commit] [save](https://github.com/erigontech/erigon/commit/951f2d6fdcefcb6e85e65daccf0745dbc8f49bbd) - 2025-05-01
 * [Commit] [save](https://github.com/erigontech/erigon/commit/121702c07bdf03c41c5a4a6603cc5a3b369fcf4a) - 2025-05-01
+* [Commit] [collect commitment processing data (#14490)](https://github.com/erigontech/erigon/commit/0ed84bb234e27481e6fd4608eafba58e1a58f827) - 2025-05-02
+* [Commit] [qa-tests: repair rpc-integration tests  (#14693)](https://github.com/erigontech/erigon/commit/7d56cb1320a9e2d539d7ad157daf2177f8be1dde) - 2025-05-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a9d8b5ebc6ca5a534aaa88c5b535d22169a038b1) - 2025-05-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

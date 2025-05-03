@@ -67,6 +67,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add a delay for the network connection in reqresp.test](https://github.com/ChainSafe/lodestar/commit/1428d351631d6db86f00d69e5f0fb0547f803d1d) - 2025-04-29
 * [Pull Request] [chore: reuse the shared biome config](https://github.com/ChainSafe/lodestar/pull/7763) - 2025-04-29
 * [Pull Request] [test: fix e2e flaky tests](https://github.com/ChainSafe/lodestar/pull/7762) - 2025-04-29
+* [Commit] [Update config file](https://github.com/ChainSafe/lodestar/commit/84370d009f132530939bb6ed495392e1ecec6c4b) - 2025-05-02
+* [Commit] [Cleanup network on abort](https://github.com/ChainSafe/lodestar/commit/f2e1160f47cd08dd571157378ec065d7a2165c63) - 2025-05-02
+* [Commit] [Enable the tests back](https://github.com/ChainSafe/lodestar/commit/e9e74dce61cca390b773baa7ab1b5de6ce21cec2) - 2025-05-02
+* [Commit] [Update the network settings](https://github.com/ChainSafe/lodestar/commit/2aad3fdc2c2a020f98042dfb67040d2a9a85cf99) - 2025-05-02
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

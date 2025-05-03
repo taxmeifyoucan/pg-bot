@@ -19,3 +19,4 @@ Team: EthereumJS
 * [Commit] [util: replace unnecessary toBytes usage (#4014)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c6deb4e6af67d3fe077416e3bd7903f7cc1d7c5a) - 2025-04-30
 * [Commit] [Update action badge link in READMEs](https://github.com/ethereumjs/ethereumjs-monorepo/commit/d8b71a75fb36fdb1dc5c149ecbef2e1b781b49a6) - 2025-05-01
 * [Pull Request] [Rename static build ci job](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4050) - 2025-05-01
+* [Commit] [docs: updated inrenal structure part (#4047)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/32a55338397669c3863b85d337dca0aadccecf09) - 2025-05-02

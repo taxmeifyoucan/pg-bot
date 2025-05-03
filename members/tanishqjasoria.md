@@ -30,6 +30,8 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [add some tests](https://github.com/NethermindEth/nethermind/commit/e7d99a5cf0f5f8af4cfee7e3aaa360178769274d) - 2025-04-30
 * [Commit] [WIP more changes](https://github.com/NethermindEth/nethermind/commit/c55aed6cd9184784369757139ce0938bb76424f1) - 2025-04-30
 * [Commit] [Add more functions](https://github.com/NethermindEth/nethermind/commit/197820207fdf4bd01c42d1aeb59abd352961b384) - 2025-05-01
+* [Commit] [Auto-update fast sync settings (#8545)](https://github.com/NethermindEth/nethermind/commit/fdb0d5d08c57042b87ade33e0aa54109b463b736) - 2025-05-02
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/7afffa2ebc77635cc2e7c5cdc1531c6350ec1d12) - 2025-05-02
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

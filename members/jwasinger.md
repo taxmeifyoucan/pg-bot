@@ -18,6 +18,7 @@ Team: Geth
 * [Pull Request] [cmd/utils:  don't allow network ID override if a preset network is specified](https://github.com/ethereum/go-ethereum/pull/31630) - 2025-04-14
 * [Pull Request] [eth/downloader:  increase allowance for concurrent in-flight body retrievals](https://github.com/ethereum/go-ethereum/pull/31691) - 2025-04-22
 * [Pull Request] [all: not add or subtract one when compare integers](https://github.com/ethereum/go-ethereum/pull/31709) - 2025-04-25
+* [Pull Request] [consensu/misc/eip4844: implement EIP-7918 - adjustments to excess blob gas calculation](https://github.com/ethereum/go-ethereum/pull/31756) - 2025-05-02
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

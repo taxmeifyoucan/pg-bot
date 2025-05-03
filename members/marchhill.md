@@ -46,6 +46,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Feature/better dicovery metrics (#8531)](https://github.com/NethermindEth/nethermind/commit/bf2bf5125998b505a48ccefd83451602f69a3f96) - 2025-04-29
 * [Commit] [update to latest libp2p version](https://github.com/NethermindEth/nethermind/commit/66112ae8ace73871d4f9b475fecb698c8f404481) - 2025-04-29
 * [Commit] [Add EVM tests for 2537 (#8566)](https://github.com/NethermindEth/nethermind/commit/45443f25d8f84359d6c81349fffa67c30d22b50c) - 2025-04-29
+* [Commit] [fix whitespace](https://github.com/NethermindEth/nethermind/commit/8dfef56c62b7a2965e583ecb5c434753bcf8139d) - 2025-05-02
+* [Commit] [NewPayload error message (#8453)](https://github.com/NethermindEth/nethermind/commit/c3c668ff1f228e09c370527c6072b6731c881e1a) - 2025-05-02
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

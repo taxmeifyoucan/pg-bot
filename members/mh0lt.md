@@ -89,6 +89,8 @@ Team: Erigon
 * [Pull Request] [Use transaction index](https://github.com/erigontech/erigon/pull/14842) - 2025-05-01
 * [Commit] [local interface update](https://github.com/erigontech/erigon/commit/94541824c375d68628d6d0245660443709d74ded) - 2025-05-01
 * [Commit] [add final writes to map](https://github.com/erigontech/erigon/commit/03472b51889a95f92da442999039c771aec88628) - 2025-05-01
+* [Commit] [remove printer](https://github.com/erigontech/erigon/commit/4ffa8fce24c1a9140fd61c80afdbaf0bd4d96424) - 2025-05-02
+* [Commit] [reset statereader](https://github.com/erigontech/erigon/commit/731de31991affffdf1cc3620452ed3a8feb3fff7) - 2025-05-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

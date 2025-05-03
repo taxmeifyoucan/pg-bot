@@ -46,6 +46,14 @@ Team: Reth
 * [Pull Request] [chore(trie): do not panic in trie cursor subnode Debug impl](https://github.com/paradigmxyz/reth/pull/16013) - 2025-04-30
 * [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/fafc9a9bdc109a063227e23672537b4c341070e2) - 2025-04-30
 * [Commit] [fix skip node flag check](https://github.com/paradigmxyz/reth/commit/7f9d59295a0d9cb869c9eb4c7a0839b621a0f981) - 2025-05-01
+* [Commit] [add comment explaining the problem](https://github.com/paradigmxyz/reth/commit/5936aa36a7428bac0fa322141a0112bd6efecd16) - 2025-05-02
+* [Commit] [add comment explaining the problem](https://github.com/paradigmxyz/reth/commit/f1b2efdd895211234fb0fcba1cd305520f3cd634) - 2025-05-02
+* [Commit] [TrieElement::LeafHash](https://github.com/paradigmxyz/reth/commit/2eb395cd5c6dc3e70516354a9b9df6a0a75cd6f0) - 2025-05-02
+* [Commit] [remove newline](https://github.com/paradigmxyz/reth/commit/42c213945bf6923ac819030770b05c75776138c4) - 2025-05-02
+* [Commit] [feat(cli): no empty diffs, sort entries, and pretty print in `db diff` (#16035)](https://github.com/paradigmxyz/reth/commit/be724f92f48680c9c751a59ce2f756dc7688f2ef) - 2025-05-02
+* [Commit] [feat(cli): do not write empty diffs and sort entries in `db diff`](https://github.com/paradigmxyz/reth/commit/efc2b83dc0e3634418d52cf2e1fc1ffe5b27452c) - 2025-05-02
+* [Commit] [chore(metrics): summable reth_info value (#15884)](https://github.com/paradigmxyz/reth/commit/0a4a8839235454da1b7e43e057ad9cd275ec5a30) - 2025-05-02
+* [Pull Request] [feat(cli): no empty diffs, sort entries, and pretty print in `db diff`](https://github.com/paradigmxyz/reth/pull/16035) - 2025-05-02
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

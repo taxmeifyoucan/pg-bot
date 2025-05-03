@@ -30,3 +30,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/45f8736cae1139c6019596ffa6f4d61207cb7ae0) - 2025-05-01
 * [Commit] [MockEvmConfig](https://github.com/paradigmxyz/reth/commit/d069129cfa0c714c5913bf12b4d95e816118b3f1) - 2025-05-01
 * [Commit] [remove BlockExecutorProvider from engine](https://github.com/paradigmxyz/reth/commit/5e7dc73a7fdc330d5ea7e5ca33f47b3c50245823) - 2025-05-01
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/d4d54cab215d48e3cd3253485bd2f4086b9d4226) - 2025-05-02
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/bdb5a3276576673c779d28a8a166269c159d9e85) - 2025-05-02
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/fd19eb336587761d0855aac1555dda50b0e8cb8b) - 2025-05-02
+* [Commit] [feat: added gas used metric (#16012)](https://github.com/paradigmxyz/reth/commit/82c27621248c75ea4f5a1d8ac4e5a56ae9c2bfbd) - 2025-05-02
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/9e07b5165813a35f0a4e4f07ed6343b1d0daff85) - 2025-05-02

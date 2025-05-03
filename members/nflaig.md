@@ -84,6 +84,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: update gnosis chain bootnodes](https://github.com/ChainSafe/lodestar/pull/7784) - 2025-05-01
 * [Pull Request] [feat: support fetching historical data from all state apis](https://github.com/ChainSafe/lodestar/pull/7781) - 2025-05-01
 * [Issue] [Requesting state by state root does not work for finalized state(s)](https://github.com/ChainSafe/lodestar/issues/7780) - 2025-05-01
+* [Commit] [chore: update gnosis `MAX_BLOBS_PER_BLOCK` to match upstream config (#7785)](https://github.com/ChainSafe/lodestar/commit/185bc833d090b4e01bde85caa12a18154744e7f3) - 2025-05-02
+* [Commit] [Remove extra diff](https://github.com/ChainSafe/lodestar/commit/8bfa9b5d956deb04b23d942c62784d63c4b9cee9) - 2025-05-02
+* [Commit] [Remove extra spaces](https://github.com/ChainSafe/lodestar/commit/14a5c5b458ae68d59f316ee28fca00efd8424209) - 2025-05-02
+* [Commit] [Keep _seed as it's used in commented out naive implementation](https://github.com/ChainSafe/lodestar/commit/e7ca873148a42b6f5823fd529a8a16e84f3762a6) - 2025-05-02
+* [Commit] [chore: add block proposal summary panel to block production dashboard (#7692)](https://github.com/ChainSafe/lodestar/commit/30d888c61292cbd19f49f062e77c6e2b4f62dde1) - 2025-05-02
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

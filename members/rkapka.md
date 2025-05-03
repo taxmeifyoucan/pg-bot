@@ -34,6 +34,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [changelog fragment](https://github.com/OffchainLabs/prysm/commit/bab3d62c3a5d8f911323ec4c5be26a93da083f6d) - 2025-04-14
 * [Pull Request] [Implement pending consolidations Beacon API endpoint](https://github.com/OffchainLabs/prysm/pull/15219) - 2025-04-25
 * [Commit] [changelog](https://github.com/OffchainLabs/prysm/commit/275dce04bd3b40f1b413d6eebfcd738e0289f710) - 2025-04-25
+* [Pull Request] [Bring back `EnableBackupWebhookFlag` for the validator client](https://github.com/OffchainLabs/prysm/pull/15247) - 2025-05-02
+* [Commit] [Bring back `EnableBackupWebhookFlag` for the validator client](https://github.com/OffchainLabs/prysm/commit/e71ab6dfc62424ce0b5ed9d9bea5a74d9b6bd99f) - 2025-05-02
+* [Commit] [Check for nil duties on checkDependentRoots (#15241)](https://github.com/OffchainLabs/prysm/commit/8a22df902fb783e37d63f03bf75e53845a3d5070) - 2025-05-02
+* [Pull Request] [Add `{state_id}` to Prysm endpoints](https://github.com/OffchainLabs/prysm/pull/15245) - 2025-05-02
+* [Commit] [Revert "Add `{state_id}` to Prysm endpoints"](https://github.com/OffchainLabs/prysm/commit/314ec2d14a64a7ea9d6ddc97f8e1d4c1e486a209) - 2025-05-02
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
