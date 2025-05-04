@@ -64,6 +64,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [that shouldn't be columnIds](https://github.com/status-im/nimbus-eth2/commit/f490c893ea4a54c87f5ac5fad0628b45f491f00c) - 2025-05-01
 * [Commit] [updated link](https://github.com/status-im/nimbus-eth2/commit/95c3d67f16b2c0d059bb43264d6f7cbd1386d21f) - 2025-05-01
 * [Commit] [address reviews](https://github.com/status-im/nimbus-eth2/commit/3848e271257a4fac9ed8d94446de0bf4d72a8a59) - 2025-05-01
+* [Commit] [fix regression](https://github.com/status-im/nimbus-eth2/commit/6d759d3608fd98dc7f0010b23a386b961794dbed) - 2025-05-03
+* [Commit] [track execution requests for builder API (#7103)](https://github.com/status-im/nimbus-eth2/commit/ab82386b3b2ee25e60ded3fdce934a7ef928528d) - 2025-05-03
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

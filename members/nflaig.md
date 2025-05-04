@@ -89,6 +89,21 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Remove extra spaces](https://github.com/ChainSafe/lodestar/commit/14a5c5b458ae68d59f316ee28fca00efd8424209) - 2025-05-02
 * [Commit] [Keep _seed as it's used in commented out naive implementation](https://github.com/ChainSafe/lodestar/commit/e7ca873148a42b6f5823fd529a8a16e84f3762a6) - 2025-05-02
 * [Commit] [chore: add block proposal summary panel to block production dashboard (#7692)](https://github.com/ChainSafe/lodestar/commit/30d888c61292cbd19f49f062e77c6e2b4f62dde1) - 2025-05-02
+* [Commit] [Use forks instead of threads to avoid segfaults](https://github.com/ChainSafe/lodestar/commit/3d12ce31113dd74ba6999ef28fa2f54c92696ce4) - 2025-05-03
+* [Pull Request] [feat: enable proposer boost reorg by default](https://github.com/ChainSafe/lodestar/pull/7792) - 2025-05-03
+* [Commit] [fix: ensure new withdrawalCredentials in switchToCompoundingValidator() (#7478)](https://github.com/ChainSafe/lodestar/commit/94e41edb930cea97cf117667fe44ea1a6e5967ca) - 2025-05-03
+* [Commit] [Remove unused import added after rebase](https://github.com/ChainSafe/lodestar/commit/06f24d58fb97ec31c5e41315eaa54ba10ec7469f) - 2025-05-03
+* [Commit] [chore: update gnosis `MAX_BLOBS_PER_BLOCK` to match upstream config (#7785)](https://github.com/ChainSafe/lodestar/commit/185bc833d090b4e01bde85caa12a18154744e7f3) - 2025-05-03
+* [Commit] [chore: bump @chainsafe/pubkey-index-map (#7485)](https://github.com/ChainSafe/lodestar/commit/03bfb04361a03979eee490d0727ae13c26644bd9) - 2025-05-03
+* [Commit] [chore(deps): bump axios from 1.7.4 to 1.8.2 (#7571)](https://github.com/ChainSafe/lodestar/commit/839dd43ed051b107c311f004e124c4c4b08c5683) - 2025-05-03
+* [Commit] [fix: correct reference to MIN_EPOCHS for data columns (#7788)](https://github.com/ChainSafe/lodestar/commit/2aa12d1765b099440652be4afcada9f350161059) - 2025-05-03
+* [Commit] [feat: handle chain stall in peer manager (#7508)](https://github.com/ChainSafe/lodestar/commit/ca57e6c9b29a977a9d9ccd685b010b91fce3f6c7) - 2025-05-03
+* [Pull Request] [chore: fix prompt in launch config to test current file](https://github.com/ChainSafe/lodestar/pull/7791) - 2025-05-03
+* [Issue] [once Fusaka goes live we should update this to use `fulu.Metadata`, or just if-else based on clock slot but we need the type first https://github.com/ChainSafe/lodestar/pull/7774](https://github.com/ChainSafe/lodestar/issues/7790) - 2025-05-03
+* [Commit] [Revert "Pass null as status", too much formatting changes](https://github.com/ChainSafe/lodestar/commit/c568061c6ff8f7af246e14e5598759b411d98992) - 2025-05-03
+* [Commit] [Add test case for starved node](https://github.com/ChainSafe/lodestar/commit/88653887410a5f43e5ba0dd77229a1e4ecfbcb98) - 2025-05-03
+* [Commit] [Pass type checks](https://github.com/ChainSafe/lodestar/commit/897d874409fd63bd40aa07a659202513bbabfa1e) - 2025-05-03
+* [Commit] [chore: remove produce block apis no longer part of spec (#7749)](https://github.com/ChainSafe/lodestar/commit/27301c36341c7df70fad349993da7116ec4e7115) - 2025-05-03
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

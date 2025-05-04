@@ -37,6 +37,7 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore: re-pin crunchy to 0.2.2 after weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/15846) - 2025-04-22
 * [Pull Request] [chore: Add a usage comment on `revert`](https://github.com/paradigmxyz/reth/pull/15844) - 2025-04-22
 
+* [Pull Request] [chore: Remove ForkSpec::Unknown and Add ForkSpec::Prague](https://github.com/paradigmxyz/reth/pull/16055) - 2025-05-03
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [zkevm: Add marker for bls tests](https://github.com/ethereum/execution-spec-tests/pull/1514) - 2025-04-30
 * [Issue] [zkevm: Add zkevm marker on all bls12-381 tests](https://github.com/ethereum/execution-spec-tests/issues/1527) - 2025-05-02

@@ -25,6 +25,7 @@ Team: Nethermind
 * [Commit] [+ add DLL persistence](https://github.com/NethermindEth/nethermind/commit/4404ec65024357657571cb1a61242a9378476b60) - 2025-04-17
 * [Commit] [prepare for testing](https://github.com/NethermindEth/nethermind/commit/8e01de252f2859b951d0ac633fce4894b0d2fa54) - 2025-04-18
 * [Commit] [fix build issue](https://github.com/NethermindEth/nethermind/commit/690b1a013cd98581629f010887a4cf6744f23105) - 2025-04-28
+* [Commit] [force analysis and avoid null in tests](https://github.com/NethermindEth/nethermind/commit/5e7d28130dff7a997a82975c60365b9fdf7e0c57) - 2025-05-03
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

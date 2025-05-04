@@ -107,6 +107,8 @@ Team: Erigon
 * [Issue] [`Main` branch needs to be restarted each time](https://github.com/erigontech/erigon/issues/14756) - 2025-04-25
 * [Commit] [cl: Improve exec history download logs (#14838)](https://github.com/erigontech/erigon/commit/c4bff2dab8da4b77cc87d7a8930dc86f51d4c378) - 2025-05-01
 * [Issue] [Arbitrum: make Arb-Tracing works](https://github.com/erigontech/erigon/issues/14835) - 2025-05-01
+* [Pull Request] [Metrics](https://github.com/erigontech/erigon/pull/14865) - 2025-05-03
+* [Commit] [Update version.go (#14855)](https://github.com/erigontech/erigon/commit/5915f5a3bd0edf1b304beae37c75288d7144e0b2) - 2025-05-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

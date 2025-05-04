@@ -31,6 +31,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Remove block quarantine DB](https://github.com/status-im/nimbus-eth2/commit/0cd2c9b88209382b6a0f7fdcd70fb5be921525ff) - 2025-05-02
 * [Commit] [Combine data sidecars into single table](https://github.com/status-im/nimbus-eth2/commit/9a310a76bea695a038991df2f5e3fd0f013ba103) - 2025-05-02
 * [Commit] [Combine fork specific blocks tables into one](https://github.com/status-im/nimbus-eth2/commit/76fb58fc1b2065e9d434903838a3783a2628c889) - 2025-05-02
+* [Commit] [Cleanup pre-finalized data from quarantine DB when finality advances](https://github.com/status-im/nimbus-eth2/commit/5e08c8591e182f0e57015c6d88ca2365a771eb66) - 2025-05-03
+* [Commit] [Reduce test stack size](https://github.com/status-im/nimbus-eth2/commit/be671ad00d3614af2d8d0987a03100542b6f705c) - 2025-05-03
+* [Commit] [Reduce test stack size](https://github.com/status-im/nimbus-eth2/commit/9ef2b54844ca0349836c1e8cfd77aeb6eacd2972) - 2025-05-03
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

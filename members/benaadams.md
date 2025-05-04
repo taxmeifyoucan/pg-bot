@@ -141,6 +141,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Skip reloads of accounts for txpool delegations](https://github.com/NethermindEth/nethermind/pull/8564) - 2025-04-28
 * [Commit] [Update Nethermind.Numerics.Int256 package (#8570)](https://github.com/NethermindEth/nethermind/commit/4beea9989dd0789656f9b3774dd1c805edfc0e67) - 2025-04-29
 * [Commit] [Update OP Superchain chains (#8560)](https://github.com/NethermindEth/nethermind/commit/c06f87a1ab5964c11bf071fdb43efd51019f2207) - 2025-04-29
+* [Commit] [Increase tests](https://github.com/NethermindEth/nethermind/commit/d24177462a80eb13d3295699f51d34af0e977cae) - 2025-05-03
+* [Commit] [Perf/parallel block downloader (#8255)](https://github.com/NethermindEth/nethermind/commit/8403a084be21c32e3e4461016e9bc008118c1c32) - 2025-05-03
+* [Commit] [Less ugly](https://github.com/NethermindEth/nethermind/commit/d83adb6add26772bb37589220f6dc5cda5f3ceba) - 2025-05-03
+* [Commit] [Include filter in TxSource](https://github.com/NethermindEth/nethermind/commit/dbf01db9d871bf8ec220092cde4782f7f9745f53) - 2025-05-03
+* [Pull Request] [Partial blob fix](https://github.com/NethermindEth/nethermind/pull/8582) - 2025-05-03
+* [Commit] [Consider chain of gas used when picking txs](https://github.com/NethermindEth/nethermind/commit/58b31673430c905a3d22c1e9df49658b55502233) - 2025-05-03
+* [Commit] [Fix single address blob ordering](https://github.com/NethermindEth/nethermind/commit/875dd8e9013f8f6db50e64603c4a7cefef905bea) - 2025-05-03
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

@@ -17,6 +17,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [Logger usage removal in client tests (#4048)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/f041a6833127a061288ebc94b0c90fc928875ffa) - 2025-05-02
 * [Commit] [skip useless logging test](https://github.com/ethereumjs/ethereumjs-monorepo/commit/6c2a12740e5fbea25c95bb5d13141c1b14b644dd) - 2025-05-02
 * [Commit] [Rename static build ci job (#4050)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/e300b10b35ca70917de555ec6080e8bacc4495f1) - 2025-05-02
+* [Pull Request] [Update 4844 examples to cancun](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4058) - 2025-05-03
+* [Issue] [We should allow `[0]` for `chainId` and `yParity` in EIP 7702 authorization lists](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4057) - 2025-05-03
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

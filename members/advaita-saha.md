@@ -17,3 +17,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix: limt](https://github.com/status-im/nimbus-eth1/commit/92eaaf7b2e7b068e14acc73918f061fba15fa3ed) - 2025-04-29
 * [Pull Request] [pectra support in era importer](https://github.com/status-im/nimbus-eth1/pull/3246) - 2025-04-29
 * [Issue] [Huge FC.deserialize ( 2+ hours ) time for long non-finality / LC sync](https://github.com/status-im/nimbus-eth1/issues/3244) - 2025-04-29
+* [Commit] [fix: update readme with requirements](https://github.com/status-im/nimbus-eth1/commit/a0840bc57626356c279c523f8be455f43c96262b) - 2025-05-03
+* [Pull Request] [Era files downloader tool](https://github.com/status-im/nimbus-eth1/pull/3255) - 2025-05-03
+* [Pull Request] [`nrpc` logs with estimated completion time from bps](https://github.com/status-im/nimbus-eth1/pull/3254) - 2025-05-03
+* [Commit] [make dynamic estimation](https://github.com/status-im/nimbus-eth1/commit/235bd0baca33d80fff67c37bf2256d1bfdcd350e) - 2025-05-03
+* [Commit] [fix: time reset](https://github.com/status-im/nimbus-eth1/commit/fe7ad369e289cdc7ef6385579519098825638788) - 2025-05-03
+* [Commit] [fix: progressTracker call](https://github.com/status-im/nimbus-eth1/commit/c1a30f31514df7e56e50176ab00d0f504459be47) - 2025-05-03

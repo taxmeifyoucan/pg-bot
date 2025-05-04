@@ -186,6 +186,13 @@ Team: Reth
 * [Issue] [Extend `StageSet` trait with helper functions](https://github.com/paradigmxyz/reth/issues/16030) - 2025-05-02
 * [Issue] [Support custom Stages via NodeBuilder](https://github.com/paradigmxyz/reth/issues/16028) - 2025-05-02
 * [Issue] [Introduce eth_getAccountInfo](https://github.com/paradigmxyz/reth/issues/16027) - 2025-05-02
+* [Commit] [chore: touchups (#16053)](https://github.com/paradigmxyz/reth/commit/98132bdd107ce71a1f4f5cd5abbf529f9794c998) - 2025-05-03
+* [Pull Request] [chore: touchups](https://github.com/paradigmxyz/reth/pull/16053) - 2025-05-03
+* [Commit] [feat: Add ExEx example with sanity checks  (#15448)](https://github.com/paradigmxyz/reth/commit/77fab5412dec4b13cc920e934c1f91cf1c13375f) - 2025-05-03
+* [Issue] [Introduce helper trait alias for OpNode types](https://github.com/paradigmxyz/reth/issues/16047) - 2025-05-03
+* [Issue] [Add helper type for Multi transaction tracing](https://github.com/paradigmxyz/reth/issues/16045) - 2025-05-03
+* [Issue] [Add helper types for tracing](https://github.com/paradigmxyz/reth/issues/16044) - 2025-05-03
+* [Issue] [Move FullRpcProvider trait to storage-api crate](https://github.com/paradigmxyz/reth/issues/16043) - 2025-05-03
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

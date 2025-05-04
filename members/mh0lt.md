@@ -91,6 +91,11 @@ Team: Erigon
 * [Commit] [add final writes to map](https://github.com/erigontech/erigon/commit/03472b51889a95f92da442999039c771aec88628) - 2025-05-01
 * [Commit] [remove printer](https://github.com/erigontech/erigon/commit/4ffa8fce24c1a9140fd61c80afdbaf0bd4d96424) - 2025-05-02
 * [Commit] [reset statereader](https://github.com/erigontech/erigon/commit/731de31991affffdf1cc3620452ed3a8feb3fff7) - 2025-05-02
+* [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/924664ba6874622fba70633504223e9fdb1244a8) - 2025-05-03
+* [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/4ac518a6c368fe78908368b8e3a2b51458c80b9c) - 2025-05-03
+* [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/442c564af43b84e2388432f1ccec949e6fd12880) - 2025-05-03
+* [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/e29c1ca1636ba6e91e86ddff946fab563993ae29) - 2025-05-03
+* [Commit] [optimize FindMergeRange (#13491)](https://github.com/erigontech/erigon/commit/6822a48a8547e27bb3fb26253e984e5005b92e79) - 2025-05-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

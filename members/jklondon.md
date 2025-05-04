@@ -81,6 +81,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [new mdbx-go bindings (cosmetic changes)](https://github.com/erigontech/erigon/pull/14856) - 2025-05-02
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/eeec83fdf1e8c067fe1551f16301fd9c64d3b567) - 2025-05-02
 * [Pull Request] [publishable fix (due to versioning)](https://github.com/erigontech/erigon/pull/14852) - 2025-05-02
+* [Commit] [integration/readme.md for E3 (#14813)](https://github.com/erigontech/erigon/commit/d15fbc5ffaa6bbd8dca5059dfe7fec5bf7b82982) - 2025-05-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
