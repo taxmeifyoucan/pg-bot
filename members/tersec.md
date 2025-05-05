@@ -95,11 +95,22 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update libp2p gossip topic parameters. (#6979)](https://github.com/status-im/nimbus-eth2/commit/e83ebba49e42ff561162cb53d160c06ddb613f73) - 2025-04-27
 * [Commit] [Update era_db.nim (#7075)](https://github.com/status-im/nimbus-eth2/commit/4b07120d11c2951a4cf129524a1ffc3a3a1cfeaa) - 2025-05-01
 * [Commit] [replace:`DataColumnIdentifier` -> `DataColumnsByRootIdentifier` while root requesting (#7117)](https://github.com/status-im/nimbus-eth2/commit/94efe335fe5773ad44ae7a46f81940937f7cd50b) - 2025-05-01
+* [Commit] [fix Nim 2.2 warnings (#7121)](https://github.com/status-im/nimbus-eth2/commit/9d0c498dae6c9374abf90804296e21902b31264b) - 2025-05-04
+* [Commit] [bump hoodi (#7120)](https://github.com/status-im/nimbus-eth2/commit/c94e4ddb1cad6596af471d2a26c3e8f3cef8bf34) - 2025-05-04
+* [Pull Request] [fix Nim 2.2 warnings](https://github.com/status-im/nimbus-eth2/pull/7121) - 2025-05-04
+* [Pull Request] [bump hoodi](https://github.com/status-im/nimbus-eth2/pull/7120) - 2025-05-04
+* [Commit] [rm references to deposit contract address from EL manager](https://github.com/status-im/nimbus-eth2/commit/b1b17be78de5ebbd9883cb903f852e6dac881dfb) - 2025-05-04
+* [Commit] [replace:`DataColumnIdentifier` -> `DataColumnsByRootIdentifier` while root requesting (#7117)](https://github.com/status-im/nimbus-eth2/commit/94efe335fe5773ad44ae7a46f81940937f7cd50b) - 2025-05-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [add Nimbus Pectra coordinators](https://github.com/ethereum/pm/pull/1478) - 2025-04-16
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Commit] [bump nimbus-eth2 to de75f6d3d4f18ea35220439384835f03bbd7a217 (#3248)](https://github.com/status-im/nimbus-eth1/commit/80b0fbfb6d479b04d79e300af9b7682c3ecd6127) - 2025-05-04
+* [Commit] [`nrpc` logs with estimated completion time from bps (#3254)](https://github.com/status-im/nimbus-eth1/commit/99201cbad88392e1e7cbc8ffc118d72e95df607b) - 2025-05-04
+* [Pull Request] [bump nim-libp2p to v1.9.0](https://github.com/status-im/nimbus-eth1/pull/3256) - 2025-05-04
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

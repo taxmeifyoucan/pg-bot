@@ -193,6 +193,7 @@ Team: Reth
 * [Issue] [Add helper type for Multi transaction tracing](https://github.com/paradigmxyz/reth/issues/16045) - 2025-05-03
 * [Issue] [Add helper types for tracing](https://github.com/paradigmxyz/reth/issues/16044) - 2025-05-03
 * [Issue] [Move FullRpcProvider trait to storage-api crate](https://github.com/paradigmxyz/reth/issues/16043) - 2025-05-03
+* [Commit] [license](https://github.com/paradigmxyz/reth/commit/fbd550ecf51b06a88c7b17ea1259bb0da4f3b3f5) - 2025-05-04
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

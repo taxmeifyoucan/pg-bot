@@ -12,3 +12,4 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [rpcdaemon: use headerByNumberOrHash() instead of load blocks with txs and senders](https://github.com/erigontech/erigon/pull/14860) - 2025-05-03
+* [Pull Request] [rpcdaemon: re-use get_receipt() to reuse receipt cache](https://github.com/erigontech/erigon/pull/14869) - 2025-05-04

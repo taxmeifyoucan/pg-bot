@@ -109,6 +109,14 @@ Team: Erigon
 * [Issue] [Arbitrum: make Arb-Tracing works](https://github.com/erigontech/erigon/issues/14835) - 2025-05-01
 * [Pull Request] [Metrics](https://github.com/erigontech/erigon/pull/14865) - 2025-05-03
 * [Commit] [Update version.go (#14855)](https://github.com/erigontech/erigon/commit/5915f5a3bd0edf1b304beae37c75288d7144e0b2) - 2025-05-03
+* [Pull Request] [Cherry-Pick: log revert](https://github.com/erigontech/erigon/pull/14877) - 2025-05-04
+* [Commit] [Revert "cl: Improve exec history download logs" and replace with more decent logging (#14873)](https://github.com/erigontech/erigon/commit/475f505ba25d1e5ec12e4bcb3b9c743ece68eb4a) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/db18be9cf3c014adc56b1bd1106a30f51890156c) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/64ec349400c0376193fcea65b3fd5eaf22296c91) - 2025-05-04
+* [Pull Request] [Docker rcp DNM](https://github.com/erigontech/erigon/pull/14876) - 2025-05-04
+* [Pull Request] [Erigon: optimistic inclusion for deep reorgs](https://github.com/erigontech/erigon/pull/14875) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/347784e3a4fa1a9e14fbccb4726359fa13187e6f) - 2025-05-04
+* [Pull Request] [Revert "cl: Improve exec history download logs" and replace with more decent logging](https://github.com/erigontech/erigon/pull/14873) - 2025-05-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

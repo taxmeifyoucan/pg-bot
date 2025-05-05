@@ -91,6 +91,7 @@ Team: Erigon
 * [Commit] [[cherry-pick] consensus: Add syscall failure scenarios (#14403) (#14818)](https://github.com/erigontech/erigon/commit/1721322126250665eb92b5c3a146900b1c129ce6) - 2025-05-01
 * [Commit] [txpool: Allow higher nonces from sender if authority exists in pool](https://github.com/erigontech/erigon/commit/4ad67c40420a3883f38a27dcfb089f8aca290261) - 2025-05-02
 * [Commit] [snapshotsync: return txnSeg file err (#14840)](https://github.com/erigontech/erigon/commit/03e414b568b124135b61228f5d52ac7ccc669f5f) - 2025-05-02
+* [Pull Request] [chore: Update node sizes in README](https://github.com/erigontech/erigon/pull/14872) - 2025-05-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

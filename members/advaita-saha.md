@@ -23,3 +23,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [make dynamic estimation](https://github.com/status-im/nimbus-eth1/commit/235bd0baca33d80fff67c37bf2256d1bfdcd350e) - 2025-05-03
 * [Commit] [fix: time reset](https://github.com/status-im/nimbus-eth1/commit/fe7ad369e289cdc7ef6385579519098825638788) - 2025-05-03
 * [Commit] [fix: progressTracker call](https://github.com/status-im/nimbus-eth1/commit/c1a30f31514df7e56e50176ab00d0f504459be47) - 2025-05-03
+* [Commit] [fix: lint](https://github.com/status-im/nimbus-eth1/commit/2b9a2d3455a6e02660ca9ed4faa797d2829bec4c) - 2025-05-04
+* [Commit] [add suggestions](https://github.com/status-im/nimbus-eth1/commit/9b0e8e01403911e8e4e049ff119190b289d61dbe) - 2025-05-04
+* [Commit] [Add architecture documentation to the Fluffy guide website (#3252)](https://github.com/status-im/nimbus-eth1/commit/c621d0bad23b3cf570f2453c291a889fdda69ff7) - 2025-05-04
+* [Commit] [fix: lint](https://github.com/status-im/nimbus-eth1/commit/a261cffb1dad944d6ecd18e66c68d1578de322d0) - 2025-05-04
+* [Commit] [add pragma](https://github.com/status-im/nimbus-eth1/commit/baeadd6321fe16085f2b34e89899ab30eb0e5b71) - 2025-05-04
+* [Commit] [add: hoodi in verfified proxy](https://github.com/status-im/nimbus-eth1/commit/f5e89a1703de19c22fc3f36dd37a315c99cc0e75) - 2025-05-04
+* [Commit] [bump libp2p](https://github.com/status-im/nimbus-eth1/commit/2f7a57248dbc7fa5b595f7df92603ee11593f8b2) - 2025-05-04

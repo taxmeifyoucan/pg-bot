@@ -148,6 +148,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Partial blob fix](https://github.com/NethermindEth/nethermind/pull/8582) - 2025-05-03
 * [Commit] [Consider chain of gas used when picking txs](https://github.com/NethermindEth/nethermind/commit/58b31673430c905a3d22c1e9df49658b55502233) - 2025-05-03
 * [Commit] [Fix single address blob ordering](https://github.com/NethermindEth/nethermind/commit/875dd8e9013f8f6db50e64603c4a7cefef905bea) - 2025-05-03
+* [Commit] [Rename maxSize > maxCapacity](https://github.com/NethermindEth/nethermind/commit/bd131f239532134b4834011e614438c120565fb1) - 2025-05-04
+* [Commit] [Only invoke filter once per tx](https://github.com/NethermindEth/nethermind/commit/2a242873008f3ccff054bfd81b4dcdf7e8e72fe3) - 2025-05-04
+* [Commit] [Co-pilot](https://github.com/NethermindEth/nethermind/commit/ecbb4529b134b2a70607e307ead6321e15f3d419) - 2025-05-04
+* [Commit] [Ensure blob dependencies are included](https://github.com/NethermindEth/nethermind/commit/df037ccf400be60ce35995978a5e6bf1d162ddcf) - 2025-05-04
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

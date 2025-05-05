@@ -104,6 +104,22 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add test case for starved node](https://github.com/ChainSafe/lodestar/commit/88653887410a5f43e5ba0dd77229a1e4ecfbcb98) - 2025-05-03
 * [Commit] [Pass type checks](https://github.com/ChainSafe/lodestar/commit/897d874409fd63bd40aa07a659202513bbabfa1e) - 2025-05-03
 * [Commit] [chore: remove produce block apis no longer part of spec (#7749)](https://github.com/ChainSafe/lodestar/commit/27301c36341c7df70fad349993da7116ec4e7115) - 2025-05-03
+* [Commit] [Remove unused import](https://github.com/ChainSafe/lodestar/commit/ae4883597a097f2d4e73e51c3823327ed9a2e5a7) - 2025-05-04
+* [Pull Request] [feat: update dumpPeer(s) api to support `fulu.Metadata`](https://github.com/ChainSafe/lodestar/pull/7796) - 2025-05-04
+* [Pull Request] [test: update web3signer e2e tests to electra](https://github.com/ChainSafe/lodestar/pull/7795) - 2025-05-04
+* [Commit] [feat: fulu types (#7774)](https://github.com/ChainSafe/lodestar/commit/986551d3a2ca4e717206e6935ae3b34cbd65af0d) - 2025-05-04
+* [Commit] [Revise comment](https://github.com/ChainSafe/lodestar/commit/d5d77a304dce206e0fa2ef77df93251119e4279e) - 2025-05-04
+* [Issue] [Enable electra in web3signer tests](https://github.com/ChainSafe/lodestar/issues/7794) - 2025-05-04
+* [Commit] [Move genesis test to minimal](https://github.com/ChainSafe/lodestar/commit/0082af11779af553898fa16e8c0eedfd3bfa08c6) - 2025-05-04
+* [Commit] [Tweak comment](https://github.com/ChainSafe/lodestar/commit/b82a558844965cd3b8f4a465b78344657b7ad2ff) - 2025-05-04
+* [Commit] [only apply increased timeout where needed](https://github.com/ChainSafe/lodestar/commit/15d932028ef2f621f4ca0eb356574a81f6eb8fcd) - 2025-05-04
+* [Commit] [Fix vitest config](https://github.com/ChainSafe/lodestar/commit/796d4c25317c7eeedfb4d324799e2a5f960e24a6) - 2025-05-04
+* [Commit] [Run constants tests in CI again](https://github.com/ChainSafe/lodestar/commit/2333a33c3f9d658a3a1739defd478a5e54908a17) - 2025-05-04
+* [Commit] [Be more explicit about which preset it used](https://github.com/ChainSafe/lodestar/commit/73dbadee49bcb321ab5c54c7507cd283f66d13ec) - 2025-05-04
+* [Commit] [Remove commented code](https://github.com/ChainSafe/lodestar/commit/40f15c3545ef0f3ab8cde366cdbfb4416541ebc1) - 2025-05-04
+* [Commit] [Update archive store tests cases for mainnet preset](https://github.com/ChainSafe/lodestar/commit/30f1ab227e9f392ce308aea2c5de1f1c1760d3ef) - 2025-05-04
+* [Commit] [More cleanup](https://github.com/ChainSafe/lodestar/commit/0a73ab09d98514872139c30e0f521b4a1168d3e1) - 2025-05-04
+* [Pull Request] [chore: restructure tests](https://github.com/ChainSafe/lodestar/pull/7793) - 2025-05-04
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

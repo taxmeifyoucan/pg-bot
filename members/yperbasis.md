@@ -106,6 +106,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [TestBlobParameterInactiveHardfork](https://github.com/erigontech/erigon/commit/12389562f2f174cf48ffea1f70312adc332493d7) - 2025-05-02
 * [Commit] [corner case in ConfigValueLookup](https://github.com/erigontech/erigon/commit/702970d4627ef1fd71a32855225d375b01b91c45) - 2025-05-02
 * [Commit] [fix pool test](https://github.com/erigontech/erigon/commit/abae9738b3be7e37d2a47c1912a08b623bac9e21) - 2025-05-02
+* [Commit] [Commitment: set `witness` prefix to witness related functions  (#14839)](https://github.com/erigontech/erigon/commit/13a4e49ca095f623d686f4f0ff38d1d68203b988) - 2025-05-04
+* [Commit] [fix more Config copies](https://github.com/erigontech/erigon/commit/a8b7fbd5b353abfbc7ef5a25af7cf9f5323d7716) - 2025-05-04
+* [Commit] [fix lint on ChainConfig copying](https://github.com/erigontech/erigon/commit/8947ab4e62bf7e32b5883510b788fc3499bdec23) - 2025-05-04
+* [Commit] [rm unnecessary conversion](https://github.com/erigontech/erigon/commit/4007f911da90511ea78544d6389acdbed1aa57b9) - 2025-05-04
+* [Commit] [don't use sync.Once since it's not copyable](https://github.com/erigontech/erigon/commit/bece8e987957cbe6d2dee6cb5d7d6aa9f7930740) - 2025-05-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

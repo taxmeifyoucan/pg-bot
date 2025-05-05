@@ -96,6 +96,7 @@ Team: Erigon
 * [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/442c564af43b84e2388432f1ccec949e6fd12880) - 2025-05-03
 * [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/e29c1ca1636ba6e91e86ddff946fab563993ae29) - 2025-05-03
 * [Commit] [optimize FindMergeRange (#13491)](https://github.com/erigontech/erigon/commit/6822a48a8547e27bb3fb26253e984e5005b92e79) - 2025-05-03
+* [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/b7374ea3ddf467b62fd4fae3c25b52c0a83c02fa) - 2025-05-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

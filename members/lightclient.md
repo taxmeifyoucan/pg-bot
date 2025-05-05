@@ -18,6 +18,7 @@ Team: Geth
 * [Commit] [cmd/devp2p: test for non-existent block request (#31506)](https://github.com/ethereum/go-ethereum/commit/ed93a5ac04e2234055cf922b45cba579486a46d1) - 2025-05-02
 * [Issue] [`TestAttachWelcome` failing on windows](https://github.com/ethereum/go-ethereum/issues/31757) - 2025-05-02
 * [Commit] [ethclient: fix retrieval of pending block (#31504)](https://github.com/ethereum/go-ethereum/commit/af9673b143daaa0fbbf5528fe2aae8f2479ab83a) - 2025-05-02
+* [Commit] [params: fix comment for `DefaultBlobSchedule` (#31760)](https://github.com/ethereum/go-ethereum/commit/516451dc3a514c7c122f28864ea76742a027b858) - 2025-05-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [7702: refactor for better readability (WIP)](https://github.com/ethereum/EIPs/pull/9628) - 2025-04-11
 * [Pull Request] [7702: reduce line width to 80 char](https://github.com/ethereum/EIPs/pull/9627) - 2025-04-11

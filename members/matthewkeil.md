@@ -47,6 +47,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: validate data column sidecars according to spec (#7719)](https://github.com/ChainSafe/lodestar/commit/f90f622140392a331b72da5a38a56546d43edeff) - 2025-04-25
 * [Pull Request] [feat: make aggregate with randomness async again](https://github.com/ChainSafe/lodestar/pull/7761) - 2025-04-29
 * [Commit] [feat: offload cell proof computation from beacon node (#7686)](https://github.com/ChainSafe/lodestar/commit/90611fa9236ebf745b365b6aea7db5dd9e1193db) - 2025-04-29
+* [Commit] [Merge branch 'unstable' into cayman/block-input](https://github.com/ChainSafe/lodestar/commit/8654a6ac5b004bded291b805dc76d8bb49af1015) - 2025-05-04
+* [Commit] [chore(deps-dev): bump vite from 6.0.11 to 6.1.6 (#7773)](https://github.com/ChainSafe/lodestar/commit/8b760330e7cbb8c6f4b9304ae0f4da8813879cf2) - 2025-05-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

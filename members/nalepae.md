@@ -65,6 +65,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Data colummns by range: Use all possible peers then filter them. (#15242)](https://github.com/OffchainLabs/prysm/commit/34f8e1e92b7fda134816a98ca951849369c64d58) - 2025-05-02
 * [Pull Request] [Data columns by range: Use all possible peers then filter them.](https://github.com/OffchainLabs/prysm/pull/15242) - 2025-05-02
 * [Commit] [`filterPeerWhichCustodyAtLeastOneDataColumn`: Remove unneded log field.](https://github.com/OffchainLabs/prysm/commit/4ba832ded23e5ebd777b8b453c045153556fd05d) - 2025-05-02
+* [Commit] [Fix James's comment.](https://github.com/OffchainLabs/prysm/commit/3c888de93bc9beb83f918532129b604e8ce05146) - 2025-05-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

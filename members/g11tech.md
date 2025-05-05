@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2025
+
+
+[ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
+* [Commit] [fix ckzg import](https://github.com/ethereumjs/ethereumjs-monorepo/commit/a336031d849965b379f4c29c29974ad006369a47) - 2025-05-04
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

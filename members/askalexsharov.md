@@ -1122,6 +1122,50 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2ad45c6b217212b1615309bd8c5da2714a688383) - 2025-05-03
 * [Commit] [publishable: different versions of files support (#14852)](https://github.com/erigontech/erigon/commit/ce39050d730cc23839714fd0559889308af4c74a) - 2025-05-03
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0afb5ba1ee549bdbe127c576214d82cd65ec7cb5) - 2025-05-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3c7d1fa351e12a74870dadcd638e7faf57057811) - 2025-05-04
+* [Commit] [move existence filter from `state` pkg (#14870)](https://github.com/erigontech/erigon/commit/5198b8636a45ad70e47295d231b3fee1e6677f9a) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cde82147b10b5a947060330704eabc074905a267) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/770d0c211d72d426b80310e50f214c80f4d8ca67) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/55aa34e18cf56184884b04a9f6c8038e756d828a) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5363984fc97e9656e0e926d62cc18bf54a5e740f) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c7b6132c155ee9810e2c66dc09518e66cea613cd) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c80bee18a93216b15c7a191e7f2618067f00a367) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0fed9239f8038f24d7ccdd97641ef1a14222cdb6) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0eba161f55989ff6a9c075ed860578322db52207) - 2025-05-04
+* [Commit] [DomainDel: less params (#14848)](https://github.com/erigontech/erigon/commit/adbbea97ff68c3c54f6ff21171d73f0605364d61) - 2025-05-04
+* [Commit] [Empty commit](https://github.com/erigontech/erigon/commit/2c040a85c20f66bea846cf88faee76dc64a1f848) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a2f602f841fd1df05d24df09665ba537068e5193) - 2025-05-04
+* [Commit] [Stop calling `ReadAccountIncarnation` method (#14868)](https://github.com/erigontech/erigon/commit/2f132d6e654e4aea80af35538d4152628731d9a8) - 2025-05-04
+* [Pull Request] [move existence filter from `state` pkg](https://github.com/erigontech/erigon/pull/14870) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ccda34b2952a808e1a37fc25419c5b9760bb0ff1) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a44c5bd45bb6dccd65e12eb38704c238a5fff977) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/32332f7389928369f80afb1e9da87dfadcba0d0f) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f4dcbf8643a44c38e4ea120f597a4cb14055444a) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/daf2ffac991d6cef952615fb9dce005ee4b55277) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5b39531e913adeb8a5e2ac9785948b91a34b114c) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ee8ca2fa537617ba687f81752715c2c5446df6ea) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d32120909dcad8bce23f50620c5281e0e5cce72e) - 2025-05-04
+* [Commit] [remove incarnation from state.Reader (#14867)](https://github.com/erigontech/erigon/commit/4b788d3bd617bbf9192782d7a397d02b53a63ac4) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/56308804fd37e06376fa64a1f360d45120bc673e) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/01bd13943e318d7b50323ecceb648dffa2261ee6) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1d8c6199db0ff02461e9d6378f397c995927e54e) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c4b9742400f98e5af174540853b5070bcd15149c) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0b2ccc08d96ac814d25dd5166d5b940741704777) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5d14f2fec7be25ea2c02b75cac3df973c18484b0) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a48fdc9276533b9fb530913c8f9ccbc38e47347b) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/13b0c1da0e29572d9d8dac3e62630e7fd06f1bd7) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/01421ae094624cec52d1164d2f00fe876e06afd3) - 2025-05-04
+* [Pull Request] [Stop calling `ReadAccountIncarnation` method](https://github.com/erigontech/erigon/pull/14868) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e92ef96c762a116ed8afe380188bb7762570e6b1) - 2025-05-04
+* [Pull Request] [remove incarnation from state.Reader](https://github.com/erigontech/erigon/pull/14867) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e808db32a3863ef814462387da0799674b0f61e0) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4398c09f16302556d0f77428b94b873a5028ef64) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0d460ed8b2f8d2d185ce5c841ec0c1e21750823f) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7dcdaa47000804d0bb12d0ff635db7e54b1565c5) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/50de640e6f8db55e9cdfeaee64bb46c14f9ba7f0) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/87d6c612295c2212e465b7e84e660d7ec3fcddc7) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d96b046c5f3ac86b3ec19c7f324194122181413f) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6e24edae3934118cf1ae575c920728a55d72704d) - 2025-05-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

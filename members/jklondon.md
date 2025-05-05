@@ -82,6 +82,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/eeec83fdf1e8c067fe1551f16301fd9c64d3b567) - 2025-05-02
 * [Pull Request] [publishable fix (due to versioning)](https://github.com/erigontech/erigon/pull/14852) - 2025-05-02
 * [Commit] [integration/readme.md for E3 (#14813)](https://github.com/erigontech/erigon/commit/d15fbc5ffaa6bbd8dca5059dfe7fec5bf7b82982) - 2025-05-03
+* [Commit] [rpcdaemon: use headerByNumberOrHash() instead of load blocks with txs and senders (#14860)](https://github.com/erigontech/erigon/commit/287b7fd58a5df0074a96807fb71ac467a56e00a5) - 2025-05-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -16,3 +16,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Path-based VertexID](https://github.com/status-im/nimbus-eth1/commit/c1dc14fe2d20c60333e3393ade8e126545fee60d) - 2025-05-03
 * [Commit] [Fluffy: Add metrics to count offer accept codes (#3241)](https://github.com/status-im/nimbus-eth1/commit/8ba7065296594cabfacfa682fcf4997154df8786) - 2025-05-03
 * [Commit] [Addition to #3204: Try to resolve finalized block number from quarantine (#3237)](https://github.com/status-im/nimbus-eth1/commit/21fafb38efbee7749d78bd0620b5409fc5fc1393) - 2025-05-03
+
+* [Pull Request] [plug a few finalized FCU gaps](https://github.com/status-im/nimbus-eth1/pull/3257) - 2025-05-04
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Issue] [Old head sent in LC sync mode](https://github.com/status-im/nimbus-eth2/issues/7119) - 2025-05-04

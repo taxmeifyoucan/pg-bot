@@ -38,6 +38,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [change block size to int](https://github.com/NethermindEth/nethermind/commit/446a623702bd94014c951b21fdf74384bfe793a7) - 2025-05-01
 * [Commit] [Fix minimum gas limit when producing blocks (#8580)](https://github.com/NethermindEth/nethermind/commit/4d5ae9e9845bfd89651914921455630a1352fcef) - 2025-05-02
 * [Pull Request] [Fix minimum gas limit when producing blocks](https://github.com/NethermindEth/nethermind/pull/8580) - 2025-05-02
+* [Commit] [Auto-update fast sync settings (#8583)](https://github.com/NethermindEth/nethermind/commit/56fa5499e8d27fa33377832c393b85dcb966b91d) - 2025-05-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025
