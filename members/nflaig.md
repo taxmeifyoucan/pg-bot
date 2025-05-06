@@ -120,6 +120,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update archive store tests cases for mainnet preset](https://github.com/ChainSafe/lodestar/commit/30f1ab227e9f392ce308aea2c5de1f1c1760d3ef) - 2025-05-04
 * [Commit] [More cleanup](https://github.com/ChainSafe/lodestar/commit/0a73ab09d98514872139c30e0f521b4a1168d3e1) - 2025-05-04
 * [Pull Request] [chore: restructure tests](https://github.com/ChainSafe/lodestar/pull/7793) - 2025-05-04
+* [Commit] [Pass arg as option to chain](https://github.com/ChainSafe/lodestar/commit/49202c3c3aa671b82c9efd32e35d6e4359f177c0) - 2025-05-05
+* [Pull Request] [fix: make serving historical state opt-in](https://github.com/ChainSafe/lodestar/pull/7799) - 2025-05-05
+* [Pull Request] [chore: address leftover review comments from #6033](https://github.com/ChainSafe/lodestar/pull/7797) - 2025-05-05
+* [Commit] [chore: update gnosis chain bootnodes (#7784)](https://github.com/ChainSafe/lodestar/commit/d85e73aa1273591bd7211987e6196427e6c75d14) - 2025-05-05
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

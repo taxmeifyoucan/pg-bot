@@ -194,6 +194,15 @@ Team: Reth
 * [Issue] [Add helper types for tracing](https://github.com/paradigmxyz/reth/issues/16044) - 2025-05-03
 * [Issue] [Move FullRpcProvider trait to storage-api crate](https://github.com/paradigmxyz/reth/issues/16043) - 2025-05-03
 * [Commit] [license](https://github.com/paradigmxyz/reth/commit/fbd550ecf51b06a88c7b17ea1259bb0da4f3b3f5) - 2025-05-04
+* [Issue] [Update eth69 status message](https://github.com/paradigmxyz/reth/issues/16073) - 2025-05-05
+* [Issue] [Fix memory usage recording in eth cache](https://github.com/paradigmxyz/reth/issues/16070) - 2025-05-05
+* [Commit] [feat: add RpcStateCacheArgs::set_zero_lengths (#16066)](https://github.com/paradigmxyz/reth/commit/094a9fe69ef6fd7682a655c3c61e88c353beed71) - 2025-05-05
+* [Commit] [const](https://github.com/paradigmxyz/reth/commit/dcadc5d10d303dcc7bd4caa0336bd7791f508023) - 2025-05-05
+* [Commit] [Update crates/node/core/src/args/rpc_state_cache.rs](https://github.com/paradigmxyz/reth/commit/c399b2fbb58fa1b41fabad77ceeff25639204856) - 2025-05-05
+* [Pull Request] [feat: add RpcStateCacheArgs::set_zero_legths](https://github.com/paradigmxyz/reth/pull/16066) - 2025-05-05
+* [Issue] [Replace HardforkBlobParams with alloy's BlobScheduleBlobParams](https://github.com/paradigmxyz/reth/issues/16065) - 2025-05-05
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/ea8b94400333926cfe73844644fb8e18b85e426a) - 2025-05-05
+* [Pull Request] [fix: invalid queued ord](https://github.com/paradigmxyz/reth/pull/16061) - 2025-05-05
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

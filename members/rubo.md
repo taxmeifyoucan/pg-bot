@@ -16,6 +16,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Update Nethermind.Numerics.Int256 package](https://github.com/NethermindEth/nethermind/pull/8570) - 2025-04-29
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/b1d375c166e84d26b85712c961e12a1c5313a301) - 2025-04-30
 * [Pull Request] [Remove Nethermind.Cli](https://github.com/NethermindEth/nethermind/pull/8575) - 2025-05-01
+* [Commit] [Fix method invocations](https://github.com/NethermindEth/nethermind/commit/c5b51dd616ed56d230f91207dacfd4305663ff16) - 2025-05-05
+* [Commit] [Remove Nethereum.JsonRpc.RpcClient](https://github.com/NethermindEth/nethermind/commit/3621b96d8ab10798b938e25843f5a227258ae481) - 2025-05-05
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

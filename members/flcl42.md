@@ -41,8 +41,19 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Add a dep](https://github.com/NethermindEth/nethermind/commit/c4acf4edd0bedffe4235def0f7902af57fe33439) - 2025-04-29
 * [Pull Request] [Redirect logs to error; ignore empty tracer](https://github.com/NethermindEth/nethermind/pull/8569) - 2025-04-29
 * [Commit] [Commit state according to the regular spec, before system tx spec usage (#8567)](https://github.com/NethermindEth/nethermind/commit/3d95e638ae43aac01276d12dd60c8225e5807d73) - 2025-04-29
+* [Commit] [Externalise conditional logic; intrinsic gas = 0](https://github.com/NethermindEth/nethermind/commit/26d6dc6bdea4b4612e3e74fd1782ff5998df5ec9) - 2025-05-05
+* [Commit] [Cleanup/move more sync integration tests to DI (#8144)](https://github.com/NethermindEth/nethermind/commit/dfdd4161d05495c35ff45221b058f250595550a3) - 2025-05-05
+* [Commit] [Draft](https://github.com/NethermindEth/nethermind/commit/7a964df0603c83c71e85c6fdd260619930842618) - 2025-05-05
+* [Commit] [Draft](https://github.com/NethermindEth/nethermind/commit/eb2e2d031119c70b7748c0ed068b228b203d57f1) - 2025-05-05
+* [Commit] [Draft](https://github.com/NethermindEth/nethermind/commit/ac48bbe7c300e13598abf8a260a516f62427d80b) - 2025-05-05
+* [Pull Request] [Fix hive](https://github.com/NethermindEth/nethermind/pull/8590) - 2025-05-05
+* [Commit] [Add exceptions](https://github.com/NethermindEth/nethermind/commit/1b46a8c85e92054c8c5390377bc1015ebe458f17) - 2025-05-05
+* [Commit] [Add exceptions](https://github.com/NethermindEth/nethermind/commit/7661ce598e4eae448ea8b27ff9e06c3a8a6c994e) - 2025-05-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [Add errors for system contracts failures in Nethermind](https://github.com/ethereum/execution-spec-tests/pull/1542) - 2025-05-05
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

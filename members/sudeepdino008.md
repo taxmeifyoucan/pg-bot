@@ -80,6 +80,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7b49c516d3a16515b0ec52fa06ed7cfd1ad37ec9) - 2025-04-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ad3ae0f1dfcaa70639d3a14ec78f44c5b89d353c) - 2025-04-28
 * [Issue] [erigon crash while syncing on windows](https://github.com/erigontech/erigon/issues/14783) - 2025-04-28
+* [Commit] [lint](https://github.com/erigontech/erigon/commit/200faaf786ee9506ccf1dc313c1726b124697c85) - 2025-05-05
+* [Commit] [add test comment](https://github.com/erigontech/erigon/commit/01bf12f40aa5c2bf80eb256cc1d4ec5ef4b2461b) - 2025-05-05
+* [Commit] [update canonical? + baseDataId fix](https://github.com/erigontech/erigon/commit/aa2efa58fdb687df237d064db4f89bf8edd1a18e) - 2025-05-05
+* [Commit] [add tests](https://github.com/erigontech/erigon/commit/d88ddb30ca48af921e59b7b05f32dc76ae13279c) - 2025-05-05
+* [Commit] [seg.Writer to satisfy `io.Writer` (#14680)](https://github.com/erigontech/erigon/commit/fc622ccb96bc8e57f16a7b2b3eead2bcdeb9432b) - 2025-05-05
+* [Commit] [wip](https://github.com/erigontech/erigon/commit/f0978dbeb673fcbfa14a7790542a56ca038eab0c) - 2025-05-05
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

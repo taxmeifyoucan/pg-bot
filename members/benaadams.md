@@ -152,6 +152,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Only invoke filter once per tx](https://github.com/NethermindEth/nethermind/commit/2a242873008f3ccff054bfd81b4dcdf7e8e72fe3) - 2025-05-04
 * [Commit] [Co-pilot](https://github.com/NethermindEth/nethermind/commit/ecbb4529b134b2a70607e307ead6321e15f3d419) - 2025-05-04
 * [Commit] [Ensure blob dependencies are included](https://github.com/NethermindEth/nethermind/commit/df037ccf400be60ce35995978a5e6bf1d162ddcf) - 2025-05-04
+* [Commit] [Consider dependency chains in optimal blob packing (#8582)](https://github.com/NethermindEth/nethermind/commit/d4bf5df9aced01e8936528c56b0333d8dc680f85) - 2025-05-05
+* [Commit] [Only calculate fee per blob gas once](https://github.com/NethermindEth/nethermind/commit/ca6f1130bf775c941e7e95e184d821fe16b99bbe) - 2025-05-05
+* [Commit] [Remove unneeded filter](https://github.com/NethermindEth/nethermind/commit/d44998718a17a81d891c0ee293bfc20f1066d322) - 2025-05-05
+* [Commit] [Add cap on number of blobs to consider](https://github.com/NethermindEth/nethermind/commit/9a7be89b04e3361d4ae52451e92d47863a8afffa) - 2025-05-05
+* [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/b8f09f2594c6c3bbcca0b79e7de327ef66913f9d) - 2025-05-05
+* [Commit] [Make static](https://github.com/NethermindEth/nethermind/commit/333cc41a48db44176661d9530d5792e596d55324) - 2025-05-05
+* [Commit] [Remove extra transaction property](https://github.com/NethermindEth/nethermind/commit/ad6069ef988ccd47b9acb23f9f86623534a267bc) - 2025-05-05
+* [Commit] [Perf/parallel block downloader (#8255)](https://github.com/NethermindEth/nethermind/commit/8403a084be21c32e3e4461016e9bc008118c1c32) - 2025-05-05
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

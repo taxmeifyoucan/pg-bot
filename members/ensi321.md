@@ -37,6 +37,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test](https://github.com/ChainSafe/lodestar/commit/7516f922709c8734bcc445c0a6ad52e589a85100) - 2025-04-30
 * [Commit] [test](https://github.com/ChainSafe/lodestar/commit/4a524f53ac9fe15c91d3ba0f29b8f7957697a01a) - 2025-04-30
 * [Commit] [Fix latex and image path](https://github.com/ChainSafe/lodestar/commit/8c16e7ef89916b7ee8ca2dd75edffe555d83f020) - 2025-04-30
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

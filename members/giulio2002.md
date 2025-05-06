@@ -117,6 +117,11 @@ Team: Erigon
 * [Pull Request] [Erigon: optimistic inclusion for deep reorgs](https://github.com/erigontech/erigon/pull/14875) - 2025-05-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/347784e3a4fa1a9e14fbccb4726359fa13187e6f) - 2025-05-04
 * [Pull Request] [Revert "cl: Improve exec history download logs" and replace with more decent logging](https://github.com/erigontech/erigon/pull/14873) - 2025-05-04
+* [Pull Request] [Erigon: add option to use execution network to import blocks](https://github.com/erigontech/erigon/pull/14890) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7ec4be6e4dfcb4f83179cc87b298444af5c3e234) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cfc6b6c4262df421c2b3e6f8cf5a3967c0bc652e) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/39ce04cef16c137d5a785f9b2ee01f2cf79b6ce7) - 2025-05-05
+* [Commit] [params: version 3.0.0-beta2 (#13781)](https://github.com/erigontech/erigon/commit/f4b7bdd21396973ef0056d4fe1821fe06996a310) - 2025-05-05
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

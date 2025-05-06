@@ -19,6 +19,12 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [extend test for blobs bundle v1](https://github.com/NethermindEth/nethermind/commit/0d320247c70f83eda58f14e21e2f555b70700e3b) - 2025-04-07
 
 * [Commit] [Add metrics for `engine_getBlobsV1` full and partial responses (#8495)](https://github.com/NethermindEth/nethermind/commit/265d04b30f16d68705bfdd419badd902a3ffd302) - 2025-04-15
+* [Commit] [Adjust names of engine_getBlobs metrics (#8589)](https://github.com/NethermindEth/nethermind/commit/953c407f510f10c2a94c95b183893d853dd65289) - 2025-05-05
+* [Pull Request] [Adjust names of engine_getBlobs metrics](https://github.com/NethermindEth/nethermind/pull/8589) - 2025-05-05
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/fd6f6f3ee8b3b032a41e5f19cd718c7d6f6b01ca) - 2025-05-05
+* [Commit] [Feature/better dicovery metrics (#8531)](https://github.com/NethermindEth/nethermind/commit/bf2bf5125998b505a48ccefd83451602f69a3f96) - 2025-05-05
+* [Commit] [Rename peerdas getBlobsV2 metrics (#8579)](https://github.com/NethermindEth/nethermind/commit/6f59d97bdbf4108ec10e1dc24671ddacf5ab0996) - 2025-05-05
+* [Issue] [Adjust grafana dashboard for updated engine_getBlobsV2 metrics](https://github.com/NethermindEth/nethermind/issues/8585) - 2025-05-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7883: Add reference implementation](https://github.com/ethereum/EIPs/pull/9645) - 2025-04-15
 ## Q1 2025

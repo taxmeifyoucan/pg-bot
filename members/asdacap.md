@@ -61,6 +61,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Issue] [Perf: Cache `PosForwardHeaderProvider.GetBlockHeaders`](https://github.com/NethermindEth/nethermind/issues/8573) - 2025-05-01
 * [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/683f6075a22263436ced0014f02d4850c8adee66) - 2025-05-01
 * [Pull Request] [Cleanup/remove upgreadable peer allocation](https://github.com/NethermindEth/nethermind/pull/8572) - 2025-05-01
+* [Commit] [Some extra log](https://github.com/NethermindEth/nethermind/commit/dc32dd1a5cf4ef8bd63c801982eb164ea6fcaaf3) - 2025-05-05
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/efa7a7616a28a959b6914cdbd78d0a8a03de7e34) - 2025-05-05
+* [Commit] [Fix minimum gas limit when producing blocks (#8580)](https://github.com/NethermindEth/nethermind/commit/4d5ae9e9845bfd89651914921455630a1352fcef) - 2025-05-05
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/eb06284a36c01bec86d316489536f6ba8ad8926d) - 2025-05-05
+* [Issue] [Remove `TxReceipt.SkipStateAndStatusInRlp`](https://github.com/NethermindEth/nethermind/issues/8588) - 2025-05-05
+* [Pull Request] [Fix/parallel block downloader](https://github.com/NethermindEth/nethermind/pull/8587) - 2025-05-05
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -39,6 +39,12 @@ Team: Erigon
 * [Commit] [qa-tests: add bor-mainnet to sync-from-scratch (minimal node) test (#14815)](https://github.com/erigontech/erigon/commit/3e730b46d92646acd479750b5a700309e7a4c703) - 2025-05-01
 * [Commit] [qa-tests: repair rpc-perf tests (#14796)](https://github.com/erigontech/erigon/commit/496ce5b7effa002e3bfd0c125d4dd36341764331) - 2025-05-02
 * [Pull Request] [qa-tests: add bor-mainnet to sync-from-scratch (minimal node) test (v3)](https://github.com/erigontech/erigon/pull/14850) - 2025-05-02
+* [Commit] [qa-tests: avoid executing long running tests on specialised test runners (#14797)](https://github.com/erigontech/erigon/commit/ef570e6e857efaafd0f9dddf8a578e65c10196ca) - 2025-05-05
+* [Commit] [qa-tests: fix external-cl log uploading in the sync-with-externalcl test (#14472)](https://github.com/erigontech/erigon/commit/53f04856a03c6b60a96946211ef141244f6333cc) - 2025-05-05
+* [Commit] [qa-tests: clean-exit with chaindata backup/restore (#14800)](https://github.com/erigontech/erigon/commit/fe1493e2443b9cea5f4d382a806c671d5be9de7d) - 2025-05-05
+* [Commit] [dir improvements: turn `erigon-db` into a module (#14759)](https://github.com/erigontech/erigon/commit/a557bb8f43aa47bb3c20442824b37320511a5be1) - 2025-05-05
+* [Commit] [qa-tests: constrained tip-tracking with chaindata backup/restore (#14799)](https://github.com/erigontech/erigon/commit/e658e7f146a4854cc13553d4f9889183aacf10c6) - 2025-05-05
+* [Commit] [qa-tests: avoid job cancellation in the sync-with-extcl test (#14814)](https://github.com/erigontech/erigon/commit/b88c1a17516592e02692874b28c97bea7bff1602) - 2025-05-05
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

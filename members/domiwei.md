@@ -43,6 +43,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/9c6aa19d52a2ed840ad9d9a0b2590241c5578ee9) - 2025-04-15
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/3027078573332d69c6d14bab9dde8abd9a7036ca) - 2025-04-15
 * [Commit] [workflows: increase hive eest threshold temporarily (#14728)](https://github.com/erigontech/erigon/commit/00487a9d05d1ea066937ddfd18a17eb2e89ad004) - 2025-05-01
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/e3d42f06615844dd37cc3b65d9ae6ef1acc873a3) - 2025-05-05
+* [Commit] [update](https://github.com/erigontech/erigon/commit/0570e3e7acfe6a69ca629f602cbf40c7a44e8820) - 2025-05-05
+* [Commit] [update](https://github.com/erigontech/erigon/commit/30529eced10fe4abf17df0c46058182fb626c300) - 2025-05-05
+* [Commit] [update](https://github.com/erigontech/erigon/commit/1559cb54c5965d9d50a118d8ec4dbccb312050fe) - 2025-05-05
+* [Commit] [log](https://github.com/erigontech/erigon/commit/7ada16046f05f8a86971d8f6b2c6c5f4f4bed02a) - 2025-05-05
+* [Commit] [update](https://github.com/erigontech/erigon/commit/c7a7dd5e1a25dda60589e9a89712eebb1b52f5c6) - 2025-05-05
+* [Commit] [update](https://github.com/erigontech/erigon/commit/d62e724e16d2d2adc3b243cca663846676d9d858) - 2025-05-05
+* [Commit] [update](https://github.com/erigontech/erigon/commit/f176bd3254afe6dc16d5d59b053354f706bf14da) - 2025-05-05
+* [Commit] [update](https://github.com/erigontech/erigon/commit/954c76d2ae15c32c56f9ec685a6e1f53e598e83a) - 2025-05-05
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -71,6 +71,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore: update besu exception mapper deposits.](https://github.com/ethereum/execution-spec-tests/commit/8792ea9f8eeee86e8de7802f9d70aa8dca09990f) - 2025-05-01
 * [Pull Request] [chore: update besu exception mapper deposits](https://github.com/ethereum/execution-spec-tests/pull/1519) - 2025-05-01
 * [Commit] [fix(tests): EIP-2929: Fix missing kwarg for python 3.10 (#1518)](https://github.com/ethereum/execution-spec-tests/commit/a740709194c1b77085e91af8c03ef7026bdeac0f) - 2025-05-01
+* [Commit] [feat(tests): extra requests tests trailing bytes.](https://github.com/ethereum/execution-spec-tests/commit/f45dacec430a28f4880402d660dd8c9151b62dc1) - 2025-05-05
+* [Commit] [new(tests/zkevm): keccak worst-case (#1497)](https://github.com/ethereum/execution-spec-tests/commit/fce88dd124bdf0bee502681a9c64103abce95902) - 2025-05-05
+* [Commit] [temp.](https://github.com/ethereum/execution-spec-tests/commit/c4c2f33f22d9062fc831badc6cd23ffc85b73fe8) - 2025-05-05
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

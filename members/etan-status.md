@@ -34,6 +34,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Cleanup pre-finalized data from quarantine DB when finality advances](https://github.com/status-im/nimbus-eth2/commit/5e08c8591e182f0e57015c6d88ca2365a771eb66) - 2025-05-03
 * [Commit] [Reduce test stack size](https://github.com/status-im/nimbus-eth2/commit/be671ad00d3614af2d8d0987a03100542b6f705c) - 2025-05-03
 * [Commit] [Reduce test stack size](https://github.com/status-im/nimbus-eth2/commit/9ef2b54844ca0349836c1e8cfd77aeb6eacd2972) - 2025-05-03
+* [Commit] [use Nim version-2-2 branch as prospective next target (#7028)](https://github.com/status-im/nimbus-eth2/commit/45f72db2eea469b363a15fb93243071bf044c7ac) - 2025-05-05
+* [Commit] [Merge branch 'stable' into feat/eip-7495](https://github.com/status-im/nimbus-eth2/commit/cbc2d1e359ce0c4d18c7ea0697110145a599d302) - 2025-05-05
+* [Commit] [Lint](https://github.com/status-im/nimbus-eth2/commit/4d3b1ba44c3689647979109f1561b6de35c9b236) - 2025-05-05
+* [Pull Request] [Experimental splitview support that was used on Holesky / Goerli](https://github.com/status-im/nimbus-eth2/pull/7126) - 2025-05-05
+* [Pull Request] [Remove Capella upgrade cosmetics](https://github.com/status-im/nimbus-eth2/pull/7125) - 2025-05-05
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

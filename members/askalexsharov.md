@@ -1166,6 +1166,43 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/87d6c612295c2212e465b7e84e660d7ec3fcddc7) - 2025-05-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d96b046c5f3ac86b3ec19c7f324194122181413f) - 2025-05-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6e24edae3934118cf1ae575c920728a55d72704d) - 2025-05-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f74c861ac655b35ae83bfc7c8c07d7c638b92506) - 2025-05-05
+* [Pull Request] [disable `--experiment.persist.receipts` flag by default](https://github.com/erigontech/erigon/pull/14888) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0931371fb8e35c728c5b17c76f16156cb366a30a) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e597a24b14231e1150f2c5cae13a52a68700a01f) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b7af20cd5601c3bd691b1340dec723d7a888ed9c) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4135f878e5d3284f06ecf49166785b61aa8e9e18) - 2025-05-05
+* [Commit] [start work on aggregator for forkables (#14671)](https://github.com/erigontech/erigon/commit/9ec1d669898052da712d91fda48318b47878daf1) - 2025-05-05
+* [Commit] [qa-tests: add bor-mainnet to sync-from-scratch (minimal node) test (v3) (#14850)](https://github.com/erigontech/erigon/commit/728300b518510bb9a2d87ca1e411556a397f64c4) - 2025-05-05
+* [Commit] [Eastorski/polygon snapshot commits (#14887)](https://github.com/erigontech/erigon/commit/0cf17feb14c481921a2ae79871b3de3893b5fafd) - 2025-05-05
+* [Commit] [remove casting (#14881)](https://github.com/erigontech/erigon/commit/030cb6c8904b81821a511e6ace74dce90b63fdf4) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a8dfc56bfe08a8868c118fb21b6a61f6db5f8537) - 2025-05-05
+* [Commit] [integration: less direct use of `agg` type (#14880)](https://github.com/erigontech/erigon/commit/d28c864a3af262706eb09caf38acc9e2db472de0) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6a7d051139c8564b881cfa51eea929c4f246d5e9) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c4c530579d42b14e69697a842d27e1578c62b0ac) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8f6f660d5cf1bba5564180cf00955e6d32fb7b61) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a863280fb2d549c23a57d91d0314203e6199bd7f) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9864909bf9e500ec11d0047bb8051028c2a5012c) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/87f665d615af773a8d358ed70762b56db1dc5bcd) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ca9febd5d9f007fa29185dc73ff62175a71bffab) - 2025-05-05
+* [Pull Request] [integration: less direct use of `agg` type](https://github.com/erigontech/erigon/pull/14880) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eee0f5d422d1cdb27d6408ab9e2fc03d5caf43fd) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bb1892948c4c647784be51c2b6f48114aae2831d) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d4ac34d6397cd1cae74b06f7b343bd503bab8a71) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5a48dbefed04004eec410ea6f7f21de88b3905c6) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/95f800dd88dc42c8e4146aaacf1b0786ee2f60b8) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aef47ddcbcd35a0aef0973f6751d08fdc833d301) - 2025-05-05
+* [Pull Request] [[r30] stage_custom_trace: to produce indices](https://github.com/erigontech/erigon/pull/14879) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/23e3f37f84314ee745462fc1016bccf54182ac78) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/106df6fb68aff1ea64392f262735ae7ae19f5605) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8367b38649d211e66117af7f320efcae14d2a775) - 2025-05-05
+* [Commit] [logsta](https://github.com/erigontech/erigon/commit/e82e01b4d019df16a33e6168a825c069664774c3) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aec28412aa21e725fe648769880a0012383703ef) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e64b40a42df9caf94129aa080e1247d94cc14d47) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/267087361d7d92798993e80a57b18820f5387a31) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7b2c9a1e6af724caf26452276cc874d3097f27a4) - 2025-05-05
+* [Commit] [docs: updated redirection to `witness_operators.go` (#14851)](https://github.com/erigontech/erigon/commit/4618330084185d4e90707e4a9ecc4d41f625a8fe) - 2025-05-05
+* [Commit] [chore: Update node sizes in README (#14872)](https://github.com/erigontech/erigon/commit/cce9a86ad432130dedc23763cd761e1aa0574755) - 2025-05-05
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

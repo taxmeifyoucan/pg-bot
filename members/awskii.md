@@ -93,6 +93,19 @@ Team: Erigon
 * [Commit] [collect commitment processing data (#14490)](https://github.com/erigontech/erigon/commit/0ed84bb234e27481e6fd4608eafba58e1a58f827) - 2025-05-02
 * [Commit] [qa-tests: repair rpc-integration tests  (#14693)](https://github.com/erigontech/erigon/commit/7d56cb1320a9e2d539d7ad157daf2177f8be1dde) - 2025-05-02
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a9d8b5ebc6ca5a534aaa88c5b535d22169a038b1) - 2025-05-02
+* [Commit] [svae](https://github.com/erigontech/erigon/commit/c94e06c8e08410f348c0225edde75b35ee119792) - 2025-05-05
+* [Commit] [svae](https://github.com/erigontech/erigon/commit/d7061cb4ed7fd19ed28aa532fa48966920df2f67) - 2025-05-05
+* [Commit] [svae](https://github.com/erigontech/erigon/commit/7c82c94d89714f8e32958b4e6afcd789b43466bd) - 2025-05-05
+* [Commit] [svae](https://github.com/erigontech/erigon/commit/ddfcf3a6095b478d5cb79b13eee986a80a6448fa) - 2025-05-05
+* [Commit] [svae](https://github.com/erigontech/erigon/commit/8a9626267014c477845acf51a349f9e2602f0d5a) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a39f3f79c777f59f810823d4ee39beaa468411f4) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4a2b64ea67514a28ad529e63eee50fc05832115d) - 2025-05-05
+* [Pull Request] [prune.mode parsing and String()-ing](https://github.com/erigontech/erigon/pull/14884) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d21310c184b8280d99d599f2e2281b7ee77ed16f) - 2025-05-05
+* [Commit] [blocks in integration](https://github.com/erigontech/erigon/commit/e65c55524ab7bd4e33fb62aca8a1f704a6155661) - 2025-05-05
+* [Commit] [fix error text](https://github.com/erigontech/erigon/commit/21dd54f011c0dd9588c4994e08487e49d683752a) - 2025-05-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2d5e8613a71dc636b8fe014e72aef288d6aef6b1) - 2025-05-05
+* [Pull Request] [prune mode flag parsing and `String()`-ing](https://github.com/erigontech/erigon/pull/14882) - 2025-05-05
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

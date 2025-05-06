@@ -47,6 +47,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Update to subscribe-all-data-subnets](https://github.com/OffchainLabs/prysm/commit/c346d6635de6cb73506ee8a1d6d4b13dad72d2d8) - 2025-04-28
 * [Commit] [Rename to subscribe-data-subnets](https://github.com/OffchainLabs/prysm/commit/eac860b751fbbd0ad94d065729ea17fd8badce8c) - 2025-04-28
 * [Pull Request] [Update hoodie boot nodes](https://github.com/OffchainLabs/prysm/pull/15240) - 2025-05-01
+* [Commit] [Add column identifiers by root request](https://github.com/OffchainLabs/prysm/commit/e4b614c9c000881e251d29176993c2bc1c8c10b7) - 2025-05-05
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

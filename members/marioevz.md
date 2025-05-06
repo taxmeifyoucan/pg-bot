@@ -76,6 +76,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [new(tests/zkEVM): fix max contract size limitation in bytecode attack (#1521)](https://github.com/ethereum/execution-spec-tests/commit/624f60bd1330d117524ecaf240397064b7f4519e) - 2025-05-02
 * [Commit] [fix(tools): Allow `None` condition in `While`](https://github.com/ethereum/execution-spec-tests/commit/bdbffb9d691508c066ab9813fab14f44a0565ea3) - 2025-05-02
 * [Commit] [new(tests/zkevm): keccak worst-case (#1497)](https://github.com/ethereum/execution-spec-tests/commit/fce88dd124bdf0bee502681a9c64103abce95902) - 2025-05-02
+* [Commit] [fix(clis/nethermind): Add errors for system contract failures (#1542)](https://github.com/ethereum/execution-spec-tests/commit/283ca1877adf01d084b7bbd1de67bd2802569a28) - 2025-05-05
+* [Commit] [chore(tests): add conftests to zkevm & bls subdirs to apply zkevm marker (#1534)](https://github.com/ethereum/execution-spec-tests/commit/2201c2e1c3cae5d5c2a2af12c025446845cf1069) - 2025-05-05
+* [Commit] [fix(cli/eest): allow user to cancel via ctrl+C in interactive test creator (#1548)](https://github.com/ethereum/execution-spec-tests/commit/c2cf2a2cd75f33157839175c9c9c80c3fd696a2f) - 2025-05-05
+* [Commit] [feat(plugins,tests): Add flag to configure `max_gas` for fill command (#1470)](https://github.com/ethereum/execution-spec-tests/commit/0c6f531b1efa8408c8141b139b619393a8a1c51a) - 2025-05-05
+* [Pull Request] [fix(clis/reth,evmone): Exception mapper fixes](https://github.com/ethereum/execution-spec-tests/pull/1549) - 2025-05-05
+* [Commit] [fix(clis/reth,evmone): Exception mapper fixes](https://github.com/ethereum/execution-spec-tests/commit/78171bab134d32a49f1d6042cb1a81317cfe726b) - 2025-05-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

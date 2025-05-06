@@ -19,6 +19,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [feat: Add devops coordinators](https://github.com/ethereum/pm/pull/1506) - 2025-04-28
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Issue] [Beacon API not populating p2p_addresses with correct IP address](https://github.com/ChainSafe/lodestar/issues/7798) - 2025-05-05
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

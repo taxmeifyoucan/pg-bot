@@ -13,6 +13,8 @@ Team: Portal Network (EF)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Portal Implementers Call #53 - April 28th](https://github.com/ethereum/pm/issues/1508) - 2025-04-28
+* [Issue] [Portal Implementers Call #55 - May 12th](https://github.com/ethereum/pm/issues/1525) - 2025-05-05
+* [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1524) - 2025-05-05
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

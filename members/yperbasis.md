@@ -111,6 +111,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix lint on ChainConfig copying](https://github.com/erigontech/erigon/commit/8947ab4e62bf7e32b5883510b788fc3499bdec23) - 2025-05-04
 * [Commit] [rm unnecessary conversion](https://github.com/erigontech/erigon/commit/4007f911da90511ea78544d6389acdbed1aa57b9) - 2025-05-04
 * [Commit] [don't use sync.Once since it's not copyable](https://github.com/erigontech/erigon/commit/bece8e987957cbe6d2dee6cb5d7d6aa9f7930740) - 2025-05-04
+* [Commit] [mv testlog from turbo to erigon-lib](https://github.com/erigontech/erigon/commit/977ac30ce5b82136d3340af46b132cb164e95d54) - 2025-05-05
+* [Commit] [mv sentry_multi_client into execution](https://github.com/erigontech/erigon/commit/16c74183c552e6c004d6c3ee0d68662bf5355edf) - 2025-05-05
+* [Commit] [mv event to p2p](https://github.com/erigontech/erigon/commit/c20dc7730fd70976db4f3fea6461ad473d82fd74) - 2025-05-05
+* [Pull Request] [turn p2p into a module](https://github.com/erigontech/erigon/pull/14889) - 2025-05-05
+* [Commit] [EIP-7892: Blob Parameter Only Hardforks (#14843)](https://github.com/erigontech/erigon/commit/4e8ce54b126a482e52403aab36028a0405c295dd) - 2025-05-05
+* [Commit] [gitignore coverage-test.out](https://github.com/erigontech/erigon/commit/2555001aa2ed438df04c4864b1a722252e881cb9) - 2025-05-05
+* [Commit] [move core/snaptype from core to erigon-db](https://github.com/erigontech/erigon/commit/c1b7e14946c91515bbbb1866dd62266c6c378df3) - 2025-05-05
+* [Commit] [workflows: Temp disable 7702 invalidation test on kurtosis (#14834)](https://github.com/erigontech/erigon/commit/cdeb2b32f10cfbeaad1ec198e8ae4b7d889cb38a) - 2025-05-05
+* [Commit] [move existence filter from `state` pkg (#14870)](https://github.com/erigontech/erigon/commit/5198b8636a45ad70e47295d231b3fee1e6677f9a) - 2025-05-05
+* [Issue] [Caplin didn't use Mev-Boost for Block Production](https://github.com/erigontech/erigon/issues/14883) - 2025-05-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

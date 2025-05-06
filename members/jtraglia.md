@@ -50,6 +50,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Bump setuptools from 79.0.0 to 80.0.0 in the actions group (#4292)](https://github.com/ethereum/consensus-specs/commit/b6d8a28a45f61559fcdd7b624b7af0d4eae411cc) - 2025-04-29
 * [Commit] [Bump actions/setup-python from 5.5.0 to 5.6.0 in the actions group (#4293)](https://github.com/ethereum/consensus-specs/commit/b75a3f238b70e0ee5434fc8ca495bfcf25b948df) - 2025-04-29
 * [Commit] [Remove deprecated testing infrastructure (#4294)](https://github.com/ethereum/consensus-specs/commit/87d4fbdcc4e6a15b1218119b4cbcc59430f52a6b) - 2025-05-01
+* [Pull Request] [Refactor `kzg_7594` generator](https://github.com/ethereum/consensus-specs/pull/4296) - 2025-05-05
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

@@ -71,6 +71,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Cleanup network on abort](https://github.com/ChainSafe/lodestar/commit/f2e1160f47cd08dd571157378ec065d7a2165c63) - 2025-05-02
 * [Commit] [Enable the tests back](https://github.com/ChainSafe/lodestar/commit/e9e74dce61cca390b773baa7ab1b5de6ce21cec2) - 2025-05-02
 * [Commit] [Update the network settings](https://github.com/ChainSafe/lodestar/commit/2aad3fdc2c2a020f98042dfb67040d2a9a85cf99) - 2025-05-02
+* [Commit] [Increase debug level for p2p](https://github.com/ChainSafe/lodestar/commit/4ffb143f410053f03cc6e06cfaba407e828a5453) - 2025-05-05
+* [Commit] [Increase debug level for p2p](https://github.com/ChainSafe/lodestar/commit/e106054865b296226a1e8207d2d1192f2760234e) - 2025-05-05
+* [Commit] [Update the logging](https://github.com/ChainSafe/lodestar/commit/458c250de3156f4fdb9a9fda10ab609efe77de8d) - 2025-05-05
+* [Commit] [Increase log level](https://github.com/ChainSafe/lodestar/commit/4ef0a2b97468254e34a9d2f44575738c702e0d9b) - 2025-05-05
+* [Commit] [Add signal for cleanup connection](https://github.com/ChainSafe/lodestar/commit/a5f3f11c037032383f7dcb54c010c9d196cb673f) - 2025-05-05
+* [Commit] [chore: add block proposal summary panel to block production dashboard (#7692)](https://github.com/ChainSafe/lodestar/commit/30d888c61292cbd19f49f062e77c6e2b4f62dde1) - 2025-05-05
+* [Commit] [Cleanup tests](https://github.com/ChainSafe/lodestar/commit/63cd115a88d8d76216806e420a4302bc259a03f6) - 2025-05-05
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

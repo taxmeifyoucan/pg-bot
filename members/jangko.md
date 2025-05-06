@@ -20,3 +20,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fix](https://github.com/status-im/nimbus-eth1/commit/c6089459e666426acdddf13d75776dd88583e05f) - 2025-05-02
 * [Commit] [Fix finhash resolution](https://github.com/status-im/nimbus-eth1/commit/6c8a9bb9cc45c0e852538036973c4e0de6ff53bb) - 2025-05-02
 * [Commit] [Fix formatting](https://github.com/status-im/nimbus-eth1/commit/ebd41b6522614c914b7c4feee31bf0eda3a0cfc9) - 2025-05-02
+* [Commit] [Add CancelledError raises](https://github.com/status-im/nimbus-eth1/commit/472b7a03e6f7408145f11f914a7f730eb0ff0ec5) - 2025-05-05
+* [Pull Request] [Refactor block import logic to be async](https://github.com/status-im/nimbus-eth1/pull/3259) - 2025-05-05
+* [Commit] [Add idlesync](https://github.com/status-im/nimbus-eth1/commit/7e31b14ee5d477a22e8dba50ff6fbdd82401d5af) - 2025-05-05
+* [Commit] [plug a few finalized FCU gaps (#3257)](https://github.com/status-im/nimbus-eth1/commit/60f3d3db09718fddb7f3dba5ab10e6328f476ce9) - 2025-05-05

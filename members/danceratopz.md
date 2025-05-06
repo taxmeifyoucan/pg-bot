@@ -142,6 +142,27 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed a740709194 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8d4a805a5c48d65ce1580c3f105687f248a36516) - 2025-05-01
 * [Commit] [Deployed 624f60bd13 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/f32f8a4bc0688db0d9fdb77a27c192e03983e3aa) - 2025-05-02
 * [Commit] [Deployed fce88dd124 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e8dba2003392d36da8fde18636a57b7310acbeeb) - 2025-05-02
+* [Commit] [chore(tests): bump eip spec version for eip198_modexp_precompile](https://github.com/ethereum/execution-spec-tests/commit/a0b6a79f113a3743cf9c4d59002f3f6df58cb249) - 2025-05-05
+* [Commit] [chore(cli): fix up table headers in report](https://github.com/ethereum/execution-spec-tests/commit/4fe9b6e37b615e7783d75fd4a76246d0513f002e) - 2025-05-05
+* [Commit] [chore(cli): add markdown table of outdated eip versions](https://github.com/ethereum/execution-spec-tests/commit/986df6e70fbff046e1257c0de56905546fa6ecf9) - 2025-05-05
+* [Commit] [Deployed 283ca1877a to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/f837e28f9897d4b2b10921f4a0bf843e18d950b7) - 2025-05-05
+* [Commit] [chore(ci): only run flow once for testing](https://github.com/ethereum/execution-spec-tests/commit/22892db68e14e782f523c57ad549430421cb713e) - 2025-05-05
+* [Commit] [Deployed 2201c2e1c3 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/0dfac0940520ed946dbb33cbdc9bf92382dbd07e) - 2025-05-05
+* [Commit] [Deployed c2cf2a2cd7 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/da4cef5dcb62e26896048c31a1c6326a4a2225dd) - 2025-05-05
+* [Commit] [chore(ci): add link to originating workflow, improve title/labels](https://github.com/ethereum/execution-spec-tests/commit/4d2c28f2a531bc73db115f9357253570dc65f11f) - 2025-05-05
+* [Commit] [fix(ci): fix report used in generated issue](https://github.com/ethereum/execution-spec-tests/commit/4af177d8ef8ae17b7ef272db4d3486fd2f53ca9d) - 2025-05-05
+* [Commit] [chore(pytest): more typehints to fix docs](https://github.com/ethereum/execution-spec-tests/commit/d8dca1cc7c9bd04700379e1f79eb0e0e01b07d81) - 2025-05-05
+* [Commit] [chore(ci): temporarily enable workflow on push for testing](https://github.com/ethereum/execution-spec-tests/commit/92d65523945879899e16e9fe969bbc8f24288cc6) - 2025-05-05
+* [Commit] [test(fw): add headers to mock in `test_git_reference_spec`](https://github.com/ethereum/execution-spec-tests/commit/04377f79ff21d753fc0885df90955a319dabf64d) - 2025-05-05
+* [Pull Request] [feat(cli,fill): make the eip version checker a separate pytest cli tool](https://github.com/ethereum/execution-spec-tests/pull/1537) - 2025-05-05
+* [Commit] [feat(ci): add a workflow to check eip spec versions](https://github.com/ethereum/execution-spec-tests/commit/1c302464fb2f82f4cbd9dd4d5831a2032808de5a) - 2025-05-05
+* [Commit] [feat(cli,fill): make the eip version checker a separate pytest cli](https://github.com/ethereum/execution-spec-tests/commit/4146487cf14dd90dc343bcb615557ed2ee0895c7) - 2025-05-05
+* [Commit] [style(execute): fix-up whitespace for ruff](https://github.com/ethereum/execution-spec-tests/commit/7666d46624cff2cc2f04a96fbaff43ef81250c11) - 2025-05-05
+* [Commit] [chore(fill): remove eip version checking from fill & execute](https://github.com/ethereum/execution-spec-tests/commit/eb847e4c4d52e5e548a18d7237ef2913a27455a6) - 2025-05-05
+* [Pull Request] [chore(tests): add conftests to zkevm & bls subdirs to apply zkevm marker](https://github.com/ethereum/execution-spec-tests/pull/1534) - 2025-05-05
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/fd35c9c24e05850787d7fc67acf052e4ee0b52dd) - 2025-05-05
+* [Issue] [feat(consume): track any possible stats during test execution](https://github.com/ethereum/execution-spec-tests/issues/1533) - 2025-05-05
+* [Issue] [feat(consume): enable retries for RPC requests to reduce flakiness](https://github.com/ethereum/execution-spec-tests/issues/1532) - 2025-05-05
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

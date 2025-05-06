@@ -19,6 +19,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [Rename static build ci job (#4050)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/e300b10b35ca70917de555ec6080e8bacc4495f1) - 2025-05-02
 * [Pull Request] [Update 4844 examples to cancun](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4058) - 2025-05-03
 * [Issue] [We should allow `[0]` for `chainId` and `yParity` in EIP 7702 authorization lists](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4057) - 2025-05-03
+* [Pull Request] [Update 4844 docs](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4065) - 2025-05-05
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

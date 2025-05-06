@@ -92,6 +92,12 @@ Team: Erigon
 * [Commit] [txpool: Allow higher nonces from sender if authority exists in pool](https://github.com/erigontech/erigon/commit/4ad67c40420a3883f38a27dcfb089f8aca290261) - 2025-05-02
 * [Commit] [snapshotsync: return txnSeg file err (#14840)](https://github.com/erigontech/erigon/commit/03e414b568b124135b61228f5d52ac7ccc669f5f) - 2025-05-02
 * [Pull Request] [chore: Update node sizes in README](https://github.com/erigontech/erigon/pull/14872) - 2025-05-04
+* [Commit] [Revert util](https://github.com/erigontech/erigon/commit/34093cc691cd934105db0a919e0980f61ba9ac00) - 2025-05-05
+* [Commit] [loaded true](https://github.com/erigontech/erigon/commit/4f7bfd6b95293fb14248f3a563cc45b6add5ada2) - 2025-05-05
+* [Commit] [Use erigontech hive](https://github.com/erigontech/erigon/commit/434f95358113ee52fe4907d28e50942ae5028c8e) - 2025-05-05
+* [Commit] [Disable loadSnapshots](https://github.com/erigontech/erigon/commit/df9e8e57708586c7dd9b72bc290e25d7fef96465) - 2025-05-05
+* [Pull Request] [tests: Update EESTs to release v4.4.0 (Stromovka)](https://github.com/erigontech/erigon/pull/14886) - 2025-05-05
+* [Commit] [Small fix to kurtosis makefile](https://github.com/erigontech/erigon/commit/a1e01474f6a5dfe4fe40a946707d76386b2c6014) - 2025-05-05
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

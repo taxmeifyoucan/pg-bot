@@ -101,6 +101,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [bump hoodi](https://github.com/status-im/nimbus-eth2/pull/7120) - 2025-05-04
 * [Commit] [rm references to deposit contract address from EL manager](https://github.com/status-im/nimbus-eth2/commit/b1b17be78de5ebbd9883cb903f852e6dac881dfb) - 2025-05-04
 * [Commit] [replace:`DataColumnIdentifier` -> `DataColumnsByRootIdentifier` while root requesting (#7117)](https://github.com/status-im/nimbus-eth2/commit/94efe335fe5773ad44ae7a46f81940937f7cd50b) - 2025-05-04
+* [Commit] [ncli_db: Add non zero exit code when not all era files can be written (#7124)](https://github.com/status-im/nimbus-eth2/commit/dd896bf0b1e60b908d573d359cd02959b910e198) - 2025-05-05
+* [Commit] [rm depositContractBlock and depositContractBlockHash from network metadata](https://github.com/status-im/nimbus-eth2/commit/ff1a6b071ef3ba31799c753a273c94c36b6361d0) - 2025-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 
@@ -111,6 +113,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump nimbus-eth2 to de75f6d3d4f18ea35220439384835f03bbd7a217 (#3248)](https://github.com/status-im/nimbus-eth1/commit/80b0fbfb6d479b04d79e300af9b7682c3ecd6127) - 2025-05-04
 * [Commit] [`nrpc` logs with estimated completion time from bps (#3254)](https://github.com/status-im/nimbus-eth1/commit/99201cbad88392e1e7cbc8ffc118d72e95df607b) - 2025-05-04
 * [Pull Request] [bump nim-libp2p to v1.9.0](https://github.com/status-im/nimbus-eth1/pull/3256) - 2025-05-04
+* [Commit] [Era files downloader tool (#3255)](https://github.com/status-im/nimbus-eth1/commit/f225dc64017972fde02d15aec28e970e4535066d) - 2025-05-05
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

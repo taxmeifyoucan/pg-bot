@@ -19,6 +19,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 * [Pull Request] [cmd/evm/internal/t8ntool: support for verkle-at-genesis testnets](https://github.com/ethereum/go-ethereum/pull/31730) - 2025-04-28
 * [Pull Request] [core/{,state,rawdb} : use two dbs (verkle transition part 2)](https://github.com/ethereum/go-ethereum/pull/31727) - 2025-04-28
+* [Commit] [internal/ethapi: fix tx.from in eth_simulateV1 (#31480)](https://github.com/ethereum/go-ethereum/commit/bca0646ede39d45303d8bd0b24ff5e7efa4f3e28) - 2025-05-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [eip7748: refactor eip7610 account handling code](https://github.com/ethereum/EIPs/pull/9695) - 2025-04-25
 ## Q1 2025

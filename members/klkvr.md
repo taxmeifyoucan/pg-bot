@@ -35,3 +35,6 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [wip](https://github.com/paradigmxyz/reth/commit/fd19eb336587761d0855aac1555dda50b0e8cb8b) - 2025-05-02
 * [Commit] [feat: added gas used metric (#16012)](https://github.com/paradigmxyz/reth/commit/82c27621248c75ea4f5a1d8ac4e5a56ae9c2bfbd) - 2025-05-02
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/9e07b5165813a35f0a4e4f07ed6343b1d0daff85) - 2025-05-02
+* [Commit] [feat(stage): add helpers for `StageSetBuilder` (#16042)](https://github.com/paradigmxyz/reth/commit/1d55c5caf435a1243b3d18188f6579688c1d1b17) - 2025-05-05
+* [Pull Request] [refactor: remove `NoopBlockExecutorProvider`](https://github.com/paradigmxyz/reth/pull/16060) - 2025-05-05
+* [Commit] [refactor: remove NoopBlockExecutorProvider](https://github.com/paradigmxyz/reth/commit/ef6880ad38931ecfe1c342dc5d6dfdb149b172b5) - 2025-05-05

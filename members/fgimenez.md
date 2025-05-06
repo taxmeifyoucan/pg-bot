@@ -70,6 +70,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [feat: parse supervisor RPC errors (#15944)](https://github.com/paradigmxyz/reth/commit/ca78d666202652818a06601c72cd508b6b69592a) - 2025-04-30
 * [Commit] [swap precompiles](https://github.com/paradigmxyz/reth/commit/90b76d8010db2e58d310aa6322cac56ff4b5f718) - 2025-04-30
 * [Commit] [refactor](https://github.com/paradigmxyz/reth/commit/37de1f079bb7286138bb063e27d570d49b66537a) - 2025-04-30
+* [Commit] [fix: invalid queued ord (#16061)](https://github.com/paradigmxyz/reth/commit/698e9f05dbdac84b268453d48bfd34d9c379f222) - 2025-05-05
+* [Pull Request] [chore: update hive expected failures](https://github.com/paradigmxyz/reth/pull/16071) - 2025-05-05
+* [Commit] [chore: update hive expected failures](https://github.com/paradigmxyz/reth/commit/a6d23ed1b3bb5a196a6ab49db401b7f9c65a491b) - 2025-05-05
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

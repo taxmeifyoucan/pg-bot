@@ -19,6 +19,8 @@ Team: Geth
 * [Pull Request] [eth/downloader:  increase allowance for concurrent in-flight body retrievals](https://github.com/ethereum/go-ethereum/pull/31691) - 2025-04-22
 * [Pull Request] [all: not add or subtract one when compare integers](https://github.com/ethereum/go-ethereum/pull/31709) - 2025-04-25
 * [Pull Request] [consensu/misc/eip4844: implement EIP-7918 - adjustments to excess blob gas calculation](https://github.com/ethereum/go-ethereum/pull/31756) - 2025-05-02
+* [Pull Request] [eth/tracers: fix `standardTraceBlockToFile`](https://github.com/ethereum/go-ethereum/pull/31763) - 2025-05-05
+* [Pull Request] [eth/tracers: fix standard trace to file](https://github.com/ethereum/go-ethereum/pull/31762) - 2025-05-05
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

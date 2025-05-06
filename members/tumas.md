@@ -39,6 +39,7 @@ Team: Grandine
 * [Pull Request] [Feature/libp2p release pectra](https://github.com/grandinetech/grandine/pull/191) - 2025-04-22
 * [Commit] [Revert "Update `eth2_libp2p`"](https://github.com/grandinetech/grandine/commit/c0f358f6d5f4ef237bec049d0a11c819fbc85692) - 2025-04-23
 * [Pull Request] [Send API attestations in batches to verifier](https://github.com/grandinetech/grandine/pull/198) - 2025-04-30
+* [Commit] [Handle `libmdbx::Error::MapFull` by sending restart message](https://github.com/grandinetech/grandine/commit/9f50249542e883a77aea7801ebd4c0062160e262) - 2025-05-05
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

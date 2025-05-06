@@ -20,6 +20,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Tune and make configurable the `PeerTransactionTracker`  (#8537)](https://github.com/hyperledger/besu/commit/abc01e27f043f34accc6de3e2657c1334a5e44b4) - 2025-04-11
 * [Issue] [Backward sync stuck](https://github.com/hyperledger/besu/issues/8547) - 2025-04-14
 * [Commit] [Register trace service to enable testing of tracer (#8572)](https://github.com/hyperledger/besu/commit/9d72bbb8f358fb94125b83b47a7f065b1348623c) - 2025-04-22
+* [Pull Request] [Improve Maven artifacts naming to avoid possible collisions with other libs](https://github.com/hyperledger/besu/pull/8589) - 2025-05-05
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

@@ -49,6 +49,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: offload cell proof computation from beacon node (#7686)](https://github.com/ChainSafe/lodestar/commit/90611fa9236ebf745b365b6aea7db5dd9e1193db) - 2025-04-29
 * [Commit] [Merge branch 'unstable' into cayman/block-input](https://github.com/ChainSafe/lodestar/commit/8654a6ac5b004bded291b805dc76d8bb49af1015) - 2025-05-04
 * [Commit] [chore(deps-dev): bump vite from 6.0.11 to 6.1.6 (#7773)](https://github.com/ChainSafe/lodestar/commit/8b760330e7cbb8c6f4b9304ae0f4da8813879cf2) - 2025-05-04
+* [Commit] [wip: by root work](https://github.com/ChainSafe/lodestar/commit/725ef70556b873e4bde62538975a09e532119dd9) - 2025-05-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

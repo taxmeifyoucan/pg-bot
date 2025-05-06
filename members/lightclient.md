@@ -26,6 +26,7 @@ Team: Geth
 * [Commit] [Add EIP: Pragmatic stack manipulation tools (#9501)](https://github.com/ethereum/EIPs/commit/d73f59ed8146525995fa0acc6594a1a8833531bc) - 2025-04-28
 * [Commit] [Add EIP: Count leading zeros (CLZ) opcode (#9701)](https://github.com/ethereum/EIPs/commit/ef1a4dd914726ec4af20b706d1ec44e19fca4fd9) - 2025-04-29
 * [Commit] [Add gas limit increase EIP (#9678)](https://github.com/ethereum/EIPs/commit/636a22783f9bbbd21003be2424a75b5d76adee0a) - 2025-05-02
+* [Pull Request] [7912: fix typo, add optimization](https://github.com/ethereum/EIPs/pull/9724) - 2025-05-05
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

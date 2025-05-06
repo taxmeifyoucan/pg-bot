@@ -25,6 +25,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update AllTests.](https://github.com/status-im/nimbus-eth2/commit/15ac4675cffa1c12feed195d426f9d50c5c4bcb4) - 2025-04-29
 * [Commit] [Add Blob/Column quarantine test to test suite.](https://github.com/status-im/nimbus-eth2/commit/a0e504d4de5c00a2f9d9d04b0ce7a8327f295f73) - 2025-04-29
 * [Commit] [Add test for previous case.](https://github.com/status-im/nimbus-eth2/commit/4aace607e1c329bd650b1d95326bc65b30d25b45) - 2025-04-29
+* [Commit] [replace:`DataColumnIdentifier` -> `DataColumnsByRootIdentifier` while root requesting (#7117)](https://github.com/status-im/nimbus-eth2/commit/94efe335fe5773ad44ae7a46f81940937f7cd50b) - 2025-05-05
+* [Commit] [Fix put(openArray) check if len(sidecars) fits in quarantine, add test for this issue.](https://github.com/status-im/nimbus-eth2/commit/55cdd7731abb08b45bfb64ac2bd3e7aa6216d86a) - 2025-05-05
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

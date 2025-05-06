@@ -66,6 +66,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Data columns by range: Use all possible peers then filter them.](https://github.com/OffchainLabs/prysm/pull/15242) - 2025-05-02
 * [Commit] [`filterPeerWhichCustodyAtLeastOneDataColumn`: Remove unneded log field.](https://github.com/OffchainLabs/prysm/commit/4ba832ded23e5ebd777b8b453c045153556fd05d) - 2025-05-02
 * [Commit] [Fix James's comment.](https://github.com/OffchainLabs/prysm/commit/3c888de93bc9beb83f918532129b604e8ce05146) - 2025-05-04
+* [Commit] [Use finalized state for validator custody instead of head state. (#15243)](https://github.com/OffchainLabs/prysm/commit/66d1d3e248ca972ba99362b95df103a1deed801b) - 2025-05-05
+* [Commit] [Fix James' coment.](https://github.com/OffchainLabs/prysm/commit/2d4d8d19bd5d3ca5753a63be6ecc3ba216f1e14e) - 2025-05-05
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/c87701e73ec77a98f405f46bf451b4b0dbfa1107) - 2025-05-05
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/8dac0038868856446b2f39e92684948a5406dbf5) - 2025-05-05
+* [Commit] [Fix Jame's comment.](https://github.com/OffchainLabs/prysm/commit/ea5e0e805ad49c6b089289550303305b1f4db605) - 2025-05-05
+* [Commit] [Fix Jame's comment.](https://github.com/OffchainLabs/prysm/commit/ddb47e48c6cc7bfd9905f9b39aa67c073d7958b2) - 2025-05-05
+* [Commit] [`DataColumnSidecars`: Add missing tests.](https://github.com/OffchainLabs/prysm/commit/1d8fb516fa799a54d52cfec43e6daeda767e1ac8) - 2025-05-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

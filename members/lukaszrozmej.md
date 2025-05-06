@@ -39,6 +39,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Fix minimum gas limit when producing blocks (#8580)](https://github.com/NethermindEth/nethermind/commit/4d5ae9e9845bfd89651914921455630a1352fcef) - 2025-05-02
 * [Pull Request] [Fix minimum gas limit when producing blocks](https://github.com/NethermindEth/nethermind/pull/8580) - 2025-05-02
 * [Commit] [Auto-update fast sync settings (#8583)](https://github.com/NethermindEth/nethermind/commit/56fa5499e8d27fa33377832c393b85dcb966b91d) - 2025-05-04
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/32966babe4337d54acea4e0c97d521c597c8906e) - 2025-05-05
+* [Commit] [final touch](https://github.com/NethermindEth/nethermind/commit/c7c48cf268b22ca0768a85269046569c3abc6555) - 2025-05-05
+* [Commit] [fixes and simplifications](https://github.com/NethermindEth/nethermind/commit/1524ba1798e2d2b5ab8840fe1d311925627386da) - 2025-05-05
+* [Commit] [Add ToPooledList<T>(this ReadOnlySpan<T> span)](https://github.com/NethermindEth/nethermind/commit/790bd3c6a380516cf79859e069b679c88202fdca) - 2025-05-05
+* [Commit] [Unify ordering logic, move to ArrayPoolList for enumerator collection](https://github.com/NethermindEth/nethermind/commit/d4994b18def1af99bf91770770166e377c002f72) - 2025-05-05
+* [Commit] [Update OP Superchain chains (#8584)](https://github.com/NethermindEth/nethermind/commit/2c74e2ff016ec271205eab5f3d42db886852af46) - 2025-05-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025
