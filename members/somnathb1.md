@@ -98,6 +98,10 @@ Team: Erigon
 * [Commit] [Disable loadSnapshots](https://github.com/erigontech/erigon/commit/df9e8e57708586c7dd9b72bc290e25d7fef96465) - 2025-05-05
 * [Pull Request] [tests: Update EESTs to release v4.4.0 (Stromovka)](https://github.com/erigontech/erigon/pull/14886) - 2025-05-05
 * [Commit] [Small fix to kurtosis makefile](https://github.com/erigontech/erigon/commit/a1e01474f6a5dfe4fe40a946707d76386b2c6014) - 2025-05-05
+* [Commit] [qa-tests: repair rpc-perf tests (#14796)](https://github.com/erigontech/erigon/commit/496ce5b7effa002e3bfd0c125d4dd36341764331) - 2025-05-06
+* [Commit] [tests: Update EESTs to release v4.4.0 (Stromovka) (#14886)](https://github.com/erigontech/erigon/commit/2eee6bf0c7ae473548815427458d03e05e343686) - 2025-05-06
+* [Pull Request] [cmd/utils: Remove unnecessary `LoadSnapshotsHashes` invocation](https://github.com/erigontech/erigon/pull/14906) - 2025-05-06
+* [Commit] [start work on aggregator for forkables (#14671)](https://github.com/erigontech/erigon/commit/9ec1d669898052da712d91fda48318b47878daf1) - 2025-05-06
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Fix the version printed in the overview (#8555)](https://github.com/hyperledger/besu/commit/442e8f366950dea8624ea757b91fbacec11d604c) - 2025-04-16
 * [Commit] [add pragueTime override (#8553)](https://github.com/hyperledger/besu/commit/c981ff8359bb888428b263314add6d4e68e07f76) - 2025-04-16
 * [Pull Request] [[TEST] add pragueTime override in DifficultyCalculatorTest](https://github.com/hyperledger/besu/pull/8553) - 2025-04-16
+* [Commit] [Fix: Timeouts are now indexed by both request code and protocol. (#8490)](https://github.com/hyperledger/besu/commit/0d83525f59b69259663ee9521304a439c24123f0) - 2025-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

@@ -43,6 +43,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [Update tests/zkevm/test_worst_compute.py](https://github.com/ethereum/execution-spec-tests/commit/a658eed9b01f5ca1d65cdf0e59fa238a2fd44c61) - 2025-05-02
 * [Commit] [Update tests/zkevm/test_worst_compute.py](https://github.com/ethereum/execution-spec-tests/commit/9e2d6cbe7b386d1502d0420054619c91e9284cf0) - 2025-05-02
 * [Commit] [chore(clis/besu): update exception mapper deposits (#1519)](https://github.com/ethereum/execution-spec-tests/commit/45d66b99053a8de0a39822727161cd536a86cf0e) - 2025-05-02
+* [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/7376d4585587587759469abd87e8e6891961fbd8) - 2025-05-06
+* [Commit] [ci: define gas limit for zkevm feature](https://github.com/ethereum/execution-spec-tests/commit/6a99195c2499425b7aad8232e76b75a4c6f366ac) - 2025-05-06
+* [Commit] [remove zkevm marks](https://github.com/ethereum/execution-spec-tests/commit/0a33c35b78a027b5175dc1884358d21a8c93387b) - 2025-05-06
+* [Commit] [generic precompiles with only data parameter](https://github.com/ethereum/execution-spec-tests/commit/8eb40f5730a8cda62f59898fc1b01bb896d52136) - 2025-05-06
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

@@ -19,6 +19,7 @@ Team: Reth
 * [Commit] [Update README.md](https://github.com/paradigmxyz/reth/commit/2524c47b573ef3067afb6d3c9520aeedf71a4c7b) - 2025-04-27
 * [Pull Request] [docs: always use nextest](https://github.com/paradigmxyz/reth/pull/15957) - 2025-04-27
 * [Issue] [Remove `serial_test` dependency](https://github.com/paradigmxyz/reth/issues/15955) - 2025-04-27
+* [Pull Request] [chore(meta): restrict mdbx vendored attribute](https://github.com/paradigmxyz/reth/pull/16092) - 2025-05-06
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

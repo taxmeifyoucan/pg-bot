@@ -25,6 +25,9 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [Feature/better dicovery metrics (#8531)](https://github.com/NethermindEth/nethermind/commit/bf2bf5125998b505a48ccefd83451602f69a3f96) - 2025-05-05
 * [Commit] [Rename peerdas getBlobsV2 metrics (#8579)](https://github.com/NethermindEth/nethermind/commit/6f59d97bdbf4108ec10e1dc24671ddacf5ab0996) - 2025-05-05
 * [Issue] [Adjust grafana dashboard for updated engine_getBlobsV2 metrics](https://github.com/NethermindEth/nethermind/issues/8585) - 2025-05-05
+* [Commit] [readd proof version validation](https://github.com/NethermindEth/nethermind/commit/0409e073767eb6a8b9bcdc9b42699888a0e89da7) - 2025-05-06
+* [Commit] [fix test](https://github.com/NethermindEth/nethermind/commit/7f6e366b305f0b42037230195e047ee1daa38e04) - 2025-05-06
+* [Commit] [fix build](https://github.com/NethermindEth/nethermind/commit/efe29f07f8ba99a6400a6a250a229562ed0565f4) - 2025-05-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7883: Add reference implementation](https://github.com/ethereum/EIPs/pull/9645) - 2025-04-15
 ## Q1 2025

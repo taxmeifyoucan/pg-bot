@@ -39,6 +39,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Lint](https://github.com/status-im/nimbus-eth2/commit/4d3b1ba44c3689647979109f1561b6de35c9b236) - 2025-05-05
 * [Pull Request] [Experimental splitview support that was used on Holesky / Goerli](https://github.com/status-im/nimbus-eth2/pull/7126) - 2025-05-05
 * [Pull Request] [Remove Capella upgrade cosmetics](https://github.com/status-im/nimbus-eth2/pull/7125) - 2025-05-05
+* [Pull Request] [Bump sepolia to 1449263a5b13c51fd8007080321ee2391f63ab98](https://github.com/status-im/nimbus-eth2/pull/7136) - 2025-05-06
+* [Pull Request] [Bump nim-zlib to daa8723fd32299d4ca621c837430c29a5a11e19a](https://github.com/status-im/nimbus-eth2/pull/7135) - 2025-05-06
+* [Pull Request] [Bump nim-unittest2 to v0.2.4](https://github.com/status-im/nimbus-eth2/pull/7134) - 2025-05-06
+* [Pull Request] [Bump nim-taskpools to v0.1.0](https://github.com/status-im/nimbus-eth2/pull/7133) - 2025-05-06
+* [Pull Request] [Bump nim-secp256k1 to f808ed5e7a7bfc42204ec7830f14b7a42b63c284](https://github.com/status-im/nimbus-eth2/pull/7132) - 2025-05-06
+* [Pull Request] [Bump nim-faststreams to c51315d0ae5eb2594d0bf41181d0e1aca1b3c01d](https://github.com/status-im/nimbus-eth2/pull/7131) - 2025-05-06
+* [Pull Request] [Bump mainnet to 9df5a5b0955dd1ed4bb103a9bba9a22742ea956c](https://github.com/status-im/nimbus-eth2/pull/7130) - 2025-05-06
+* [Pull Request] [Bump holesky to 099fee50a944e76c595398e69bfda0a6f1e799a1](https://github.com/status-im/nimbus-eth2/pull/7129) - 2025-05-06
+* [Commit] [Lint](https://github.com/status-im/nimbus-eth2/commit/35d82fb4ac32b91e84f760de1525e1c39e91285c) - 2025-05-06
+* [Pull Request] [Add option to invalidate block roots](https://github.com/status-im/nimbus-eth2/pull/7128) - 2025-05-06
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

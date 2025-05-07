@@ -203,6 +203,18 @@ Team: Reth
 * [Issue] [Replace HardforkBlobParams with alloy's BlobScheduleBlobParams](https://github.com/paradigmxyz/reth/issues/16065) - 2025-05-05
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/ea8b94400333926cfe73844644fb8e18b85e426a) - 2025-05-05
 * [Pull Request] [fix: invalid queued ord](https://github.com/paradigmxyz/reth/pull/16061) - 2025-05-05
+* [Issue] [Move ExtendedTxEnvelope and impls to reth-primitives-traits](https://github.com/paradigmxyz/reth/issues/16091) - 2025-05-06
+* [Pull Request] [feat: add executor fn](https://github.com/paradigmxyz/reth/pull/16090) - 2025-05-06
+* [Commit] [chore: rm reth-provider from rpc-builder (#16087)](https://github.com/paradigmxyz/reth/commit/c32e8acd22d461ae4dc5b8e3a8b7ca37c64e96e4) - 2025-05-06
+* [Pull Request] [chore: rm reth-provider from rpc-builder](https://github.com/paradigmxyz/reth/pull/16087) - 2025-05-06
+* [Pull Request] [chore: replace istyped2718](https://github.com/paradigmxyz/reth/pull/16085) - 2025-05-06
+* [Pull Request] [feat: add noop engine Api builder](https://github.com/paradigmxyz/reth/pull/16084) - 2025-05-06
+* [Commit] [chore: bump op-alloy (#16081)](https://github.com/paradigmxyz/reth/commit/8939d781cf3c2f916dff66021ee123db8003566f) - 2025-05-06
+* [Issue] [check scheduled blob activations](https://github.com/paradigmxyz/reth/issues/16083) - 2025-05-06
+* [Pull Request] [feat: add AuthHandle::noop](https://github.com/paradigmxyz/reth/pull/16082) - 2025-05-06
+* [Pull Request] [chore: bump op-alloy](https://github.com/paradigmxyz/reth/pull/16081) - 2025-05-06
+* [Pull Request] [chore: replace filteredParams with Filterset](https://github.com/paradigmxyz/reth/pull/16077) - 2025-05-06
+* [Pull Request] [chore: silence warnings](https://github.com/paradigmxyz/reth/pull/16076) - 2025-05-06
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

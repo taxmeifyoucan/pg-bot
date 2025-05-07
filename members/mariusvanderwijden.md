@@ -21,6 +21,7 @@ Team: Geth
 * [Pull Request] [core: apply overrides to new chainconfig](https://github.com/ethereum/go-ethereum/pull/31733) - 2025-04-28
 
 * [Commit] [core: apply overrides to mainnet chainconfig (#31733)](https://github.com/ethereum/go-ethereum/commit/a511553e448c947a0fe8f34acf7bb6f9818c2b49) - 2025-04-29
+* [Pull Request] [crypto: all: create global hasher pool](https://github.com/ethereum/go-ethereum/pull/31769) - 2025-05-06
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

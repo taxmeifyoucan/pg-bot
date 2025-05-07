@@ -24,3 +24,5 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Refactor block import logic to be async](https://github.com/status-im/nimbus-eth1/pull/3259) - 2025-05-05
 * [Commit] [Add idlesync](https://github.com/status-im/nimbus-eth1/commit/7e31b14ee5d477a22e8dba50ff6fbdd82401d5af) - 2025-05-05
 * [Commit] [plug a few finalized FCU gaps (#3257)](https://github.com/status-im/nimbus-eth1/commit/60f3d3db09718fddb7f3dba5ab10e6328f476ce9) - 2025-05-05
+* [Commit] [pectra support in era importer (#3246)](https://github.com/status-im/nimbus-eth1/commit/08ff6fa3d82b4ad4cfcdd7e58da781d320ddc74f) - 2025-05-06
+* [Commit] [Refactor block import logic to be async (#3259)](https://github.com/status-im/nimbus-eth1/commit/166dc054ec9f014ccce57be56578b91726ae4b79) - 2025-05-06

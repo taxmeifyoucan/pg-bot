@@ -86,6 +86,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [add tests](https://github.com/erigontech/erigon/commit/d88ddb30ca48af921e59b7b05f32dc76ae13279c) - 2025-05-05
 * [Commit] [seg.Writer to satisfy `io.Writer` (#14680)](https://github.com/erigontech/erigon/commit/fc622ccb96bc8e57f16a7b2b3eead2bcdeb9432b) - 2025-05-05
 * [Commit] [wip](https://github.com/erigontech/erigon/commit/f0978dbeb673fcbfa14a7790542a56ca038eab0c) - 2025-05-05
+* [Commit] [Snap ver bump renaming (#14517)](https://github.com/erigontech/erigon/commit/767a6d631a077c7d1567c53d553345fe5789e090) - 2025-05-06
+* [Commit] [fix tests](https://github.com/erigontech/erigon/commit/197acabf8b1c2374af33ae70d779bbef242b3d40) - 2025-05-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/caba922db00819a1e03810ada530ecc8322a43b1) - 2025-05-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ad9896591a0e146a73b0f6791017a0f5be97d958) - 2025-05-06
+* [Pull Request] [forkable agg: merge logic](https://github.com/erigontech/erigon/pull/14908) - 2025-05-06
+* [Issue] [prometheus metrics for forkable agg](https://github.com/erigontech/erigon/issues/14905) - 2025-05-06
+* [Commit] [windows ci fix (#14895)](https://github.com/erigontech/erigon/commit/21e64c7e7ebc412ff10bc8044ed27912ccc24690) - 2025-05-06
+* [Issue] [enlist existing snapshot/visibleFiles test; implement in snap_repo](https://github.com/erigontech/erigon/issues/14898) - 2025-05-06
+* [Issue] [relational appendable: merging](https://github.com/erigontech/erigon/issues/14897) - 2025-05-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/13c1e93e848838f03be3d8bba330503190335104) - 2025-05-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/379bcf35701637c695e10bc5043ea1a0941e2a9d) - 2025-05-06
+* [Pull Request] [windows ci fix](https://github.com/erigontech/erigon/pull/14895) - 2025-05-06
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

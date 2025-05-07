@@ -27,6 +27,7 @@ Team: Nethermind
 * [Commit] [fix build issue](https://github.com/NethermindEth/nethermind/commit/690b1a013cd98581629f010887a4cf6744f23105) - 2025-04-28
 * [Commit] [force analysis and avoid null in tests](https://github.com/NethermindEth/nethermind/commit/5e7d28130dff7a997a82975c60365b9fdf7e0c57) - 2025-05-03
 * [Commit] [make sure all tests cases have Codehash in CodeInfo](https://github.com/NethermindEth/nethermind/commit/ba522372d868f646eb0fe8b4e36fd42241809b7c) - 2025-05-05
+* [Commit] [reset default value of RpcRecoderFilePath](https://github.com/NethermindEth/nethermind/commit/f065a2177aa53a86bd5b8fcf3c5d7b467c746e58) - 2025-05-06
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

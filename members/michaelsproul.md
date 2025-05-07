@@ -55,6 +55,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Update minimal spec with next spec release](https://github.com/sigp/lighthouse/issues/7383) - 2025-05-01
 * [Pull Request] [Handle attestation validation errors](https://github.com/sigp/lighthouse/pull/7382) - 2025-05-01
 * [Commit] [Remove non-contiguous DAG checks](https://github.com/sigp/lighthouse/commit/8fa36654174959dd15e1064afcec6e8738f35276) - 2025-05-01
+* [Issue] [Validator client deadlocks/freezes intermittently](https://github.com/sigp/lighthouse/issues/7403) - 2025-05-06
+* [Pull Request] [Update all deps incl Tokio](https://github.com/sigp/lighthouse/pull/7401) - 2025-05-06
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

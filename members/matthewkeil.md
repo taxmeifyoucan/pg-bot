@@ -50,6 +50,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Merge branch 'unstable' into cayman/block-input](https://github.com/ChainSafe/lodestar/commit/8654a6ac5b004bded291b805dc76d8bb49af1015) - 2025-05-04
 * [Commit] [chore(deps-dev): bump vite from 6.0.11 to 6.1.6 (#7773)](https://github.com/ChainSafe/lodestar/commit/8b760330e7cbb8c6f4b9304ae0f4da8813879cf2) - 2025-05-04
 * [Commit] [wip: by root work](https://github.com/ChainSafe/lodestar/commit/725ef70556b873e4bde62538975a09e532119dd9) - 2025-05-05
+* [Commit] [feat: clean up SeenBlockInputCache](https://github.com/ChainSafe/lodestar/commit/3c6aee377c45d3c1a884450f92c8be48eec32ad8) - 2025-05-06
+* [Commit] [fix: remove reference to blockInputByRoot](https://github.com/ChainSafe/lodestar/commit/52b3b8949aa3b1b581f87abd6f7e7f8ed3784103) - 2025-05-06
+* [Commit] [docs: add sources for BlockInputSync and BlockInputCache](https://github.com/ChainSafe/lodestar/commit/83c05d2f9e4fce34c83d7c6a854fbd775ad9ab2a) - 2025-05-06
+* [Commit] [docs: add comment about edge condition and potential optimization](https://github.com/ChainSafe/lodestar/commit/5c29265f4bba865426bbc75d50af35d280627708) - 2025-05-06
+* [Commit] [fix: clean up BlockInputSync to allow for unknown block root](https://github.com/ChainSafe/lodestar/commit/3bfaf8128138fd36df7a9a94b5ea2229f623d8d8) - 2025-05-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

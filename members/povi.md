@@ -35,6 +35,7 @@ Team: Grandine
 * [Pull Request] [Log validator sync committee participation](https://github.com/grandinetech/grandine/pull/188) - 2025-04-22
 * [Commit] [Do not process slots to acquire beacon state for blob sidecar validation. Delay them instead if needed state is not found.](https://github.com/grandinetech/grandine/commit/1818232735c6b22de2da3d0fc007953308f8a2da) - 2025-04-23
 * [Pull Request] [Do not process slots to acquire beacon state for blob sidecar validation](https://github.com/grandinetech/grandine/pull/192) - 2025-04-23
+* [Pull Request] [Only keep in memory one epoch of beacon states for far ahead non-canonical chains](https://github.com/grandinetech/grandine/pull/201) - 2025-05-06
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

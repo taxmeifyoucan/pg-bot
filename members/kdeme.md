@@ -32,12 +32,17 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Portal: Adjust historical_summaries proof for Electra](https://github.com/status-im/nimbus-eth1/pull/3261) - 2025-05-05
 * [Commit] [Bump portal-spec-tests for more block proof tests (#3258)](https://github.com/status-im/nimbus-eth1/commit/7f960babf50f4253fd84dd9e249e0c807fd9e1ac) - 2025-05-05
 * [Pull Request] [Bump portal-spec-tests for more block proof tests](https://github.com/status-im/nimbus-eth1/pull/3258) - 2025-05-05
+* [Commit] [Re-activate historical summaries test vector tests (#3263)](https://github.com/status-im/nimbus-eth1/commit/0d0fa349df6ea160ea09de5a500617651b42c799) - 2025-05-06
+* [Pull Request] [Re-activate historical summaries test vector tests](https://github.com/status-im/nimbus-eth1/pull/3263) - 2025-05-06
+* [Commit] [Use new historical_summaries beacon API endpoint in portal_bridge (#2775)](https://github.com/status-im/nimbus-eth1/commit/a52ecd09c56dbe82b4715824149d95b33973ace1) - 2025-05-06
+* [Commit] [Era files downloader tool (#3255)](https://github.com/status-im/nimbus-eth1/commit/f225dc64017972fde02d15aec28e970e4535066d) - 2025-05-06
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28
 * [Commit] [Make historicalSummariesFork const](https://github.com/status-im/nimbus-eth2/commit/baff4da62d64fcecfddaaf38f53c4132c7155ec9) - 2025-05-05
 * [Commit] [Update libp2p gossip topic parameters. (#6979)](https://github.com/status-im/nimbus-eth2/commit/e83ebba49e42ff561162cb53d160c06ddb613f73) - 2025-05-05
 * [Pull Request] [ncli_db: Add non zero exit code when not all era files can be written](https://github.com/status-im/nimbus-eth2/pull/7124) - 2025-05-05
+* [Commit] [Add REST endpoint to retrieve historical_summaries (#6675)](https://github.com/status-im/nimbus-eth2/commit/d6d2f006d507ab2e27b8477064feaad45ff99016) - 2025-05-06
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

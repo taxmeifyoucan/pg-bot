@@ -98,6 +98,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Add test](https://github.com/erigontech/erigon/commit/a9a736c9a894ab1a00b345ea4074e711b9d694d8) - 2025-04-29
 * [Commit] [Remove `borTxnLookupTransform` (#14816)](https://github.com/erigontech/erigon/commit/fa64dd805b116f34971f42e21536139cd2941527) - 2025-04-30
 * [Commit] [lint](https://github.com/erigontech/erigon/commit/21a433f474944d96b6ca5ca8790b612295733d4d) - 2025-05-02
+* [Commit] [Fix RIP-7560 gas usage (#14819)](https://github.com/erigontech/erigon/commit/9fd816f6951138e0c35dafde7460c9b8faa298b2) - 2025-05-06
+* [Commit] [Fix calldata calculation](https://github.com/erigontech/erigon/commit/a4e84520a6ac3b9dad0884e5e8dbb8a46e2cc98d) - 2025-05-06
+* [Commit] [Fix validation txn](https://github.com/erigontech/erigon/commit/f34bd028172e764182f37b284800b6f08a80afd1) - 2025-05-06
+* [Commit] [Fix validation txn](https://github.com/erigontech/erigon/commit/c44dc3d5d0a28e4edb961094358b0fc09a0aaa0b) - 2025-05-06
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

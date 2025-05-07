@@ -35,6 +35,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Add state diff native types](https://github.com/OffchainLabs/prysm/commit/0c8c7c1082bd8def9bfd9eaa90973ba266f6f006) - 2025-05-05
 * [Commit] [Add state diff native types](https://github.com/OffchainLabs/prysm/commit/5a7298e2c5f3fdbc3d98970058bad3d2ff7b85d6) - 2025-05-05
 * [Pull Request] [[DRAFT] Add state diff native types](https://github.com/OffchainLabs/prysm/pull/15250) - 2025-05-05
+* [Commit] [Force duties update on received blocks.](https://github.com/OffchainLabs/prysm/commit/d8d859ddfcc5e103d18dda07d1c27eb3315f852d) - 2025-05-06
+* [Commit] [Force duties update on received blocks.](https://github.com/OffchainLabs/prysm/commit/046d1211671ade64797349d7e9ffecac6b724b5c) - 2025-05-06
+* [Pull Request] [Force duties update on received blocks.](https://github.com/OffchainLabs/prysm/pull/15251) - 2025-05-06
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

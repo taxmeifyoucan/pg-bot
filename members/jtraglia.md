@@ -51,6 +51,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Bump actions/setup-python from 5.5.0 to 5.6.0 in the actions group (#4293)](https://github.com/ethereum/consensus-specs/commit/b75a3f238b70e0ee5434fc8ca495bfcf25b948df) - 2025-04-29
 * [Commit] [Remove deprecated testing infrastructure (#4294)](https://github.com/ethereum/consensus-specs/commit/87d4fbdcc4e6a15b1218119b4cbcc59430f52a6b) - 2025-05-01
 * [Pull Request] [Refactor `kzg_7594` generator](https://github.com/ethereum/consensus-specs/pull/4296) - 2025-05-05
+* [Commit] [Bump version to v1.5.0 (#4303)](https://github.com/ethereum/consensus-specs/commit/8410e4fa376b74f550d5981f4c42d6593401046c) - 2025-05-06
+* [Pull Request] [Bump version to v1.5.0](https://github.com/ethereum/consensus-specs/pull/4303) - 2025-05-06
+* [Commit] [Deprecate BlobSidecarsByRange/Root in Fulu (#4286)](https://github.com/ethereum/consensus-specs/commit/7273eea293d342b7fc21acc2b0fa1c766e31c074) - 2025-05-06
+* [Commit] [Fix two mistakes when refactoring the `kzg_4844` generator (#4302)](https://github.com/ethereum/consensus-specs/commit/ddf056c92c9f12adfe183044b2045f4d403c09b9) - 2025-05-06
+* [Pull Request] [Fix two mistakes when refactoring the `kzg_4844` generator](https://github.com/ethereum/consensus-specs/pull/4302) - 2025-05-06
+* [Commit] [Refactor `kzg_4844` generator (#4300)](https://github.com/ethereum/consensus-specs/commit/31f69b88a2463c6af8ffcb0d18655ece1d646da0) - 2025-05-06
+* [Commit] [Refactor `kzg_7594` generator (#4296)](https://github.com/ethereum/consensus-specs/commit/118a2bdb27d2fcb9ff5674fc9e859e689effa463) - 2025-05-06
+* [Pull Request] [Clean up generator runner](https://github.com/ethereum/consensus-specs/pull/4301) - 2025-05-06
+* [Pull Request] [Refactor `kzg_4844` generator](https://github.com/ethereum/consensus-specs/pull/4300) - 2025-05-06
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

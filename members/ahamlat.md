@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Improve performance of LayeredKeyValueStorage.get method (#8563)](https://github.com/hyperledger/besu/commit/b6390a347b9287ed902a8bdf5f539e1d14fa5f26) - 2025-04-18
 * [Pull Request] [Display each single FCU log](https://github.com/hyperledger/besu/pull/8585) - 2025-04-29
 * [Commit] [Standardise log content in AbstractEngineNewPayload and AbstractEngineForkchoiceUpdated (#8568)](https://github.com/hyperledger/besu/commit/578805d8b7dfbc64455d29365a34c76fa4fb7783) - 2025-04-30
+* [Commit] [Display each single FCU log (#8585)](https://github.com/hyperledger/besu/commit/14cdd1f618da9d31e70629c2707c0d2d47b28334) - 2025-05-06
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

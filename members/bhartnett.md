@@ -36,3 +36,5 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Update fluffy/docs/the_fluffy_book/docs/architecture.md](https://github.com/status-im/nimbus-eth1/commit/ed4928b34deae2cbc080fb4041a89df71dee267c) - 2025-05-02
 * [Commit] [Update fluffy/docs/the_fluffy_book/docs/architecture.md](https://github.com/status-im/nimbus-eth1/commit/27acf3ded6ec2bf6053ed6d051df670e763a2486) - 2025-05-02
 * [Commit] [Update fluffy/docs/the_fluffy_book/docs/architecture.md](https://github.com/status-im/nimbus-eth1/commit/45517afaa7cdc2451280a780b97a6100ca5515a6) - 2025-05-02
+* [Commit] [Fluffy: Only send offers to peers when content falls within radius (#3242)](https://github.com/status-im/nimbus-eth1/commit/326b6b9db7bfd9e980f0eaa42ef26020c76bb760) - 2025-05-06
+* [Commit] [Add comment to explain the enableNodeLookup parameter.](https://github.com/status-im/nimbus-eth1/commit/5472614d188ad82c4772b69c4d3016f93508cefc) - 2025-05-06

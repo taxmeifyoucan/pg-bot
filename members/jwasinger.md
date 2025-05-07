@@ -21,6 +21,7 @@ Team: Geth
 * [Pull Request] [consensu/misc/eip4844: implement EIP-7918 - adjustments to excess blob gas calculation](https://github.com/ethereum/go-ethereum/pull/31756) - 2025-05-02
 * [Pull Request] [eth/tracers: fix `standardTraceBlockToFile`](https://github.com/ethereum/go-ethereum/pull/31763) - 2025-05-05
 * [Pull Request] [eth/tracers: fix standard trace to file](https://github.com/ethereum/go-ethereum/pull/31762) - 2025-05-05
+* [Commit] [cmd/utils:  don't allow network ID override if a preset network is specified (#31630)](https://github.com/ethereum/go-ethereum/commit/51b34efebcf36c4fd083b13b78ec49eb081623b9) - 2025-05-06
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

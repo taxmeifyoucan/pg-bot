@@ -73,6 +73,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fix: invalid queued ord (#16061)](https://github.com/paradigmxyz/reth/commit/698e9f05dbdac84b268453d48bfd34d9c379f222) - 2025-05-05
 * [Pull Request] [chore: update hive expected failures](https://github.com/paradigmxyz/reth/pull/16071) - 2025-05-05
 * [Commit] [chore: update hive expected failures](https://github.com/paradigmxyz/reth/commit/a6d23ed1b3bb5a196a6ab49db401b7f9c65a491b) - 2025-05-05
+* [Commit] [fix tests](https://github.com/paradigmxyz/reth/commit/33ec0ec58e0ec34b553be638d6f0b412b114f6e4) - 2025-05-06
+* [Commit] [chore: replace istyped2718 (#16085)](https://github.com/paradigmxyz/reth/commit/cbdb81069ff9c6d9e3680ad802878c5f0a5bc97f) - 2025-05-06
+* [Commit] [chore: silence warnings (#16076)](https://github.com/paradigmxyz/reth/commit/caa4f133a1f3a0195873868e1ac6d8471b9c1f99) - 2025-05-06
+* [Commit] [take into account exact gas_used on success](https://github.com/paradigmxyz/reth/commit/a00f3bf527f6bcc109403d9f2f645d7fc7f4b740) - 2025-05-06
+* [Commit] [udate lock](https://github.com/paradigmxyz/reth/commit/5f32473c3f292b56069fb39db9130b8a567c2ce4) - 2025-05-06
+* [Commit] [feat(txpool): add authorization list setter to mock transaction (#16068)](https://github.com/paradigmxyz/reth/commit/fdcc4c078de422b61f352ac26dfdb2f2261b5552) - 2025-05-06
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

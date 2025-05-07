@@ -106,6 +106,7 @@ Team: Erigon
 * [Commit] [fix error text](https://github.com/erigontech/erigon/commit/21dd54f011c0dd9588c4994e08487e49d683752a) - 2025-05-05
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2d5e8613a71dc636b8fe014e72aef288d6aef6b1) - 2025-05-05
 * [Pull Request] [prune mode flag parsing and `String()`-ing](https://github.com/erigontech/erigon/pull/14882) - 2025-05-05
+* [Commit] [Nitro-erigon: Use ArbOS constants instead of literals (#14907)](https://github.com/erigontech/erigon/commit/385197d899e99617c130544eae8c482a1019c2a6) - 2025-05-06
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

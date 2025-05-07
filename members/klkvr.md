@@ -38,3 +38,6 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [feat(stage): add helpers for `StageSetBuilder` (#16042)](https://github.com/paradigmxyz/reth/commit/1d55c5caf435a1243b3d18188f6579688c1d1b17) - 2025-05-05
 * [Pull Request] [refactor: remove `NoopBlockExecutorProvider`](https://github.com/paradigmxyz/reth/pull/16060) - 2025-05-05
 * [Commit] [refactor: remove NoopBlockExecutorProvider](https://github.com/paradigmxyz/reth/commit/ef6880ad38931ecfe1c342dc5d6dfdb149b172b5) - 2025-05-05
+* [Commit] [fix doc](https://github.com/paradigmxyz/reth/commit/f96d590fed353d21f9efdab40e1201bfd6ea4e73) - 2025-05-06
+* [Commit] [fix doc](https://github.com/paradigmxyz/reth/commit/d7f4d5edea74ea34e90e896af7df6b1568f48a09) - 2025-05-06
+* [Commit] [fix doc](https://github.com/paradigmxyz/reth/commit/f6f2b1952aaa0b6cd0ffd779f19f865bf6f49429) - 2025-05-06

@@ -24,3 +24,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [port intrinsic transaction gas tests from Ori](https://github.com/ethereum/execution-spec-tests/commit/2713f010ad49346baff8931b679a860424efedce) - 2025-05-05
 * [Commit] [port intrinsic transaction gas tests from Ori](https://github.com/ethereum/execution-spec-tests/commit/1049a4651bee56a84237bb8216a3a39f5be8fcaa) - 2025-05-05
 * [Pull Request] [feat(tests): port intrinsic transaction gas tests from Ori](https://github.com/ethereum/execution-spec-tests/pull/1535) - 2025-05-05
+* [Commit] [port intrinsic transaction gas tests from Ori](https://github.com/ethereum/execution-spec-tests/commit/f2255ce8fc6625fa07614f34f8016643b32cf03a) - 2025-05-06
+* [Commit] [enable blockchain test converted coverage support](https://github.com/ethereum/execution-spec-tests/commit/f60f526045de07acb906eec17ac40ff2dc5f254a) - 2025-05-06
+* [Commit] [feat(plugins,tests): Add flag to configure `max_gas` for fill command (#1470)](https://github.com/ethereum/execution-spec-tests/commit/0c6f531b1efa8408c8141b139b619393a8a1c51a) - 2025-05-06
+* [Commit] [port intrinsic transaction gas tests from Ori](https://github.com/ethereum/execution-spec-tests/commit/59c16ac43ae9c4daa846984381e288289a9640d7) - 2025-05-06
+* [Pull Request] [enable blockchain test converted coverage support](https://github.com/ethereum/execution-spec-tests/pull/1554) - 2025-05-06

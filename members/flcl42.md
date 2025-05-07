@@ -49,6 +49,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Fix hive](https://github.com/NethermindEth/nethermind/pull/8590) - 2025-05-05
 * [Commit] [Add exceptions](https://github.com/NethermindEth/nethermind/commit/1b46a8c85e92054c8c5390377bc1015ebe458f17) - 2025-05-05
 * [Commit] [Add exceptions](https://github.com/NethermindEth/nethermind/commit/7661ce598e4eae448ea8b27ff9e06c3a8a6c994e) - 2025-05-05
+* [Commit] [Fix more tests](https://github.com/NethermindEth/nethermind/commit/445150e612862225a94ceabdc760920fa861feed) - 2025-05-06
+* [Commit] [Handle deposit layout issues](https://github.com/NethermindEth/nethermind/commit/1fe7fb1907b20bbfd87bf855f16bada6732c2beb) - 2025-05-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

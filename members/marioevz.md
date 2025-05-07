@@ -82,6 +82,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(plugins,tests): Add flag to configure `max_gas` for fill command (#1470)](https://github.com/ethereum/execution-spec-tests/commit/0c6f531b1efa8408c8141b139b619393a8a1c51a) - 2025-05-05
 * [Pull Request] [fix(clis/reth,evmone): Exception mapper fixes](https://github.com/ethereum/execution-spec-tests/pull/1549) - 2025-05-05
 * [Commit] [fix(clis/reth,evmone): Exception mapper fixes](https://github.com/ethereum/execution-spec-tests/commit/78171bab134d32a49f1d6042cb1a81317cfe726b) - 2025-05-05
+* [Commit] [fix(pytest): Add logging plugin to execute](https://github.com/ethereum/execution-spec-tests/commit/621126f2a6cce8deec1c6e3ca3f364cf7676f211) - 2025-05-06
+* [Pull Request] [feat(plugins/execute): Deferred eoa funding](https://github.com/ethereum/execution-spec-tests/pull/1566) - 2025-05-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

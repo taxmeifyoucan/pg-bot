@@ -74,6 +74,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): extra requests tests trailing bytes.](https://github.com/ethereum/execution-spec-tests/commit/f45dacec430a28f4880402d660dd8c9151b62dc1) - 2025-05-05
 * [Commit] [new(tests/zkevm): keccak worst-case (#1497)](https://github.com/ethereum/execution-spec-tests/commit/fce88dd124bdf0bee502681a9c64103abce95902) - 2025-05-05
 * [Commit] [temp.](https://github.com/ethereum/execution-spec-tests/commit/c4c2f33f22d9062fc831badc6cd23ffc85b73fe8) - 2025-05-05
+* [Issue] [chore: update eip version checker to use github trees api](https://github.com/ethereum/execution-spec-tests/issues/1555) - 2025-05-06
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

@@ -103,6 +103,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [replace:`DataColumnIdentifier` -> `DataColumnsByRootIdentifier` while root requesting (#7117)](https://github.com/status-im/nimbus-eth2/commit/94efe335fe5773ad44ae7a46f81940937f7cd50b) - 2025-05-04
 * [Commit] [ncli_db: Add non zero exit code when not all era files can be written (#7124)](https://github.com/status-im/nimbus-eth2/commit/dd896bf0b1e60b908d573d359cd02959b910e198) - 2025-05-05
 * [Commit] [rm depositContractBlock and depositContractBlockHash from network metadata](https://github.com/status-im/nimbus-eth2/commit/ff1a6b071ef3ba31799c753a273c94c36b6361d0) - 2025-05-05
+* [Commit] [Bump mainnet to 9df5a5b0955dd1ed4bb103a9bba9a22742ea956c (#7130)](https://github.com/status-im/nimbus-eth2/commit/8d0cfb33aba62efcb6b4a98018225fba0980a3e2) - 2025-05-06
+* [Commit] [Bump holesky to 099fee50a944e76c595398e69bfda0a6f1e799a1 (#7129)](https://github.com/status-im/nimbus-eth2/commit/fea9e0a1d2729065dd3a6be381df5a5c7e7bdada) - 2025-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

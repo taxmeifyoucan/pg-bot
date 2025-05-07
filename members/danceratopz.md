@@ -163,6 +163,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/fd35c9c24e05850787d7fc67acf052e4ee0b52dd) - 2025-05-05
 * [Issue] [feat(consume): track any possible stats during test execution](https://github.com/ethereum/execution-spec-tests/issues/1533) - 2025-05-05
 * [Issue] [feat(consume): enable retries for RPC requests to reduce flakiness](https://github.com/ethereum/execution-spec-tests/issues/1532) - 2025-05-05
+* [Commit] [Deployed 846e462419 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/825721684d24745861fcbb1cf266d86b5e70542c) - 2025-05-06
+* [Commit] [feat(cli,fill): make the eip `spec_version_checker` a separate pytest cli (#1537)](https://github.com/ethereum/execution-spec-tests/commit/846e462419331cd941636559101f7d758ca041df) - 2025-05-06
+* [Issue] [refactor(pytest): make `spec_version_checker` plugin independent of the `filler` plugin](https://github.com/ethereum/execution-spec-tests/issues/1568) - 2025-05-06
+* [Issue] [refactor(pytest): move EIP report generation from standalone script to plugin](https://github.com/ethereum/execution-spec-tests/issues/1567) - 2025-05-06
+* [Issue] [chore(packaging): make eest a publishable package](https://github.com/ethereum/execution-spec-tests/issues/1565) - 2025-05-06
+* [Issue] [chore(packaging,ci): add a github workflow to publish package](https://github.com/ethereum/execution-spec-tests/issues/1564) - 2025-05-06
+* [Issue] [chore(packaging,deps): enable "dynamic" package version from git tags](https://github.com/ethereum/execution-spec-tests/issues/1563) - 2025-05-06
+* [Issue] [chore(packaging): clean-up `pyproject.toml` and `README.md` ready for publish](https://github.com/ethereum/execution-spec-tests/issues/1561) - 2025-05-06
+* [Issue] [chore(packaging): publish `hive.py` as a package](https://github.com/ethereum/execution-spec-tests/issues/1560) - 2025-05-06
+* [Issue] [chore(packaging): include the pytest (eest command) ini files as package data](https://github.com/ethereum/execution-spec-tests/issues/1559) - 2025-05-06
+* [Commit] [docs(cli): add help to specify the token via github cli](https://github.com/ethereum/execution-spec-tests/commit/2a5fc8824f90cde13d7704795185155722bcca37) - 2025-05-06
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

@@ -73,6 +73,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix Jame's comment.](https://github.com/OffchainLabs/prysm/commit/ea5e0e805ad49c6b089289550303305b1f4db605) - 2025-05-05
 * [Commit] [Fix Jame's comment.](https://github.com/OffchainLabs/prysm/commit/ddb47e48c6cc7bfd9905f9b39aa67c073d7958b2) - 2025-05-05
 * [Commit] [`DataColumnSidecars`: Add missing tests.](https://github.com/OffchainLabs/prysm/commit/1d8fb516fa799a54d52cfec43e6daeda767e1ac8) - 2025-05-05
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/182b5d751f0228c4ce4371d36f9e8afae5f07b2c) - 2025-05-06
+* [Commit] [Add column identifiers by root request (#15212)](https://github.com/OffchainLabs/prysm/commit/24a3cb2a8b0058f58ab309251ba4711ef7dfe712) - 2025-05-06
+* [Commit] [Data colummns by range: Use all possible peers then filter them. (#15242)](https://github.com/OffchainLabs/prysm/commit/34f8e1e92b7fda134816a98ca951849369c64d58) - 2025-05-06
+* [Commit] [Fix `SendDataColumnSidecarsByRootRequest` and tests.](https://github.com/OffchainLabs/prysm/commit/cdfa7d3d3c4ca4a65b23c223db8a86ce9f2d6052) - 2025-05-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

@@ -67,6 +67,26 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/eb06284a36c01bec86d316489536f6ba8ad8926d) - 2025-05-05
 * [Issue] [Remove `TxReceipt.SkipStateAndStatusInRlp`](https://github.com/NethermindEth/nethermind/issues/8588) - 2025-05-05
 * [Pull Request] [Fix/parallel block downloader](https://github.com/NethermindEth/nethermind/pull/8587) - 2025-05-05
+* [Pull Request] [Refactor/pass pruningconfig to triestore](https://github.com/NethermindEth/nethermind/pull/8598) - 2025-05-06
+* [Commit] [Refactor/separate pruning trieestore (#8593)](https://github.com/NethermindEth/nethermind/commit/cc212b78b6298e48764b1e78e23833113b6478ce) - 2025-05-06
+* [Commit] [TrackedPastKeyCountMemoryRatio to TrackPastKeys](https://github.com/NethermindEth/nethermind/commit/f9d8273dad175cad688cdf770977b80a5b515931) - 2025-05-06
+* [Commit] [Optimism - Isthmus (#8260)](https://github.com/NethermindEth/nethermind/commit/b543a3c26ea2a0038bcf80fa79e86b7218bf2400) - 2025-05-06
+* [Commit] [Cap snappy output span (#8596)](https://github.com/NethermindEth/nethermind/commit/04cd5f0532641bcb0851c229d2cf411178b58583) - 2025-05-06
+* [Commit] [Use a single trie store for state](https://github.com/NethermindEth/nethermind/commit/1d8e559e52e8b9d4e08491f90817f99c0908582f) - 2025-05-06
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/fa7f4ab07c2d4f9ccaa657dc034b3de57769a607) - 2025-05-06
+* [Commit] [Remove comment](https://github.com/NethermindEth/nethermind/commit/b24c55a86a3b9bddc8ed6f611e55862a0f0c571c) - 2025-05-06
+* [Commit] [Double check other client limits (#8530)](https://github.com/NethermindEth/nethermind/commit/6ea37b9430d54462b51e84ecfbbcf8647faf5c15) - 2025-05-06
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/5c9b3c40f1f8dc9045a1e9aec92477df4e5be64f) - 2025-05-06
+* [Commit] [Update src/Nethermind/Nethermind.Trie/Pruning/RawScopedTrieStore.cs](https://github.com/NethermindEth/nethermind/commit/949358e0c2e56d10ce53b457185a1b630a9f4ab8) - 2025-05-06
+* [Commit] [Update src/Nethermind/Nethermind.State.Test/PatriciaTreeTests.cs](https://github.com/NethermindEth/nethermind/commit/69451cda765b3d05e95ae89c2e7c391f9d6d5f6f) - 2025-05-06
+* [Commit] [Make sure only  one request at a time](https://github.com/NethermindEth/nethermind/commit/ad1b94ed83367a673b1fde6e7efd9b9d77c0e906) - 2025-05-06
+* [Commit] [Update src/Nethermind/Nethermind.Synchronization.Test/BlockDownloaderTests.cs](https://github.com/NethermindEth/nethermind/commit/b357a379eefe48b70db6560dfd6124ed5c14a276) - 2025-05-06
+* [Commit] [Update src/Nethermind/Nethermind.Synchronization.Test/BlockDownloaderTests.cs](https://github.com/NethermindEth/nethermind/commit/09dec7139e1279e09640dc4fa37c78032bbf706c) - 2025-05-06
+* [Commit] [Update src/Nethermind/Nethermind.State/Proofs/WithdrawalTrie.cs](https://github.com/NethermindEth/nethermind/commit/f42acafa21062b8c196830ea81bc83923d33500d) - 2025-05-06
+* [Commit] [Update src/Nethermind/Nethermind.Consensus/Validators/BlockValidator.cs](https://github.com/NethermindEth/nethermind/commit/bd7dc64588e8f4380f8e14e616e9b6b63c57a821) - 2025-05-06
+* [Commit] [EIP-4444: Add RPC errors for pruned blocks. Take 2 (#8521)](https://github.com/NethermindEth/nethermind/commit/af0b0492df5e83fe1482e3e45773b98f6c519bb3) - 2025-05-06
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/bcb71124f5dcadc5552298db404a0d5fa3e23b4b) - 2025-05-06
+* [Pull Request] [Refactor/separate pruning trieestore](https://github.com/NethermindEth/nethermind/pull/8593) - 2025-05-06
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

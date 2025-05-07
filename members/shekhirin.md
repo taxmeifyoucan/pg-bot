@@ -54,6 +54,22 @@ Team: Reth
 * [Commit] [feat(cli): do not write empty diffs and sort entries in `db diff`](https://github.com/paradigmxyz/reth/commit/efc2b83dc0e3634418d52cf2e1fc1ffe5b27452c) - 2025-05-02
 * [Commit] [chore(metrics): summable reth_info value (#15884)](https://github.com/paradigmxyz/reth/commit/0a4a8839235454da1b7e43e057ad9cd275ec5a30) - 2025-05-02
 * [Pull Request] [feat(cli): no empty diffs, sort entries, and pretty print in `db diff`](https://github.com/paradigmxyz/reth/pull/16035) - 2025-05-02
+* [Commit] [check branch node path, not leaf path](https://github.com/paradigmxyz/reth/commit/633abe1975f0a16859ce1fbb5587c26a5a822a22) - 2025-05-06
+* [Commit] [revert no error on merkle stage](https://github.com/paradigmxyz/reth/commit/b6ee831c5ce7046bbc76fa7abd1dfa7beecdac51) - 2025-05-06
+* [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/42c2e5f94cde21780786e33f4ef2b3a91a29ae18) - 2025-05-06
+* [Commit] [check if the leaf was destroyed, and then don't skip it](https://github.com/paradigmxyz/reth/commit/5c520be701174fbac56991f37acc8b7e2883555e) - 2025-05-06
+* [Commit] [chore(op): Clean up `SupervisorClient` (#16079)](https://github.com/paradigmxyz/reth/commit/c7420974715fded0934e4c811b4466d8ad2c96c4) - 2025-05-06
+* [Issue] [Tracking: Sparse Trie Task](https://github.com/paradigmxyz/reth/issues/16086) - 2025-05-06
+* [Commit] [use Into impl to convert into database error](https://github.com/paradigmxyz/reth/commit/24c8c1d55319d49e268f93c32d914e68bbdcb70e) - 2025-05-06
+* [Commit] [use Into impl to convert into database error](https://github.com/paradigmxyz/reth/commit/1f958b48c56d642131189d53432454c0588ec3d6) - 2025-05-06
+* [Commit] [show that cursor is now position at next after deletion](https://github.com/paradigmxyz/reth/commit/ef69ad01160eb5ae206f84f99030b900bb2e8fca) - 2025-05-06
+* [Commit] [fix more cursor tests](https://github.com/paradigmxyz/reth/commit/01c81632b7eb1ffa6d8cc94247872855787e77b9) - 2025-05-06
+* [Commit] [another breaking change](https://github.com/paradigmxyz/reth/commit/85fcd03b767dc742a23e29095382a84f99bdfce4) - 2025-05-06
+* [Commit] [another breaking change](https://github.com/paradigmxyz/reth/commit/63a9723df0f48f0463642f6b846f15f199d93202) - 2025-05-06
+* [Commit] [fix cursor deletion test](https://github.com/paradigmxyz/reth/commit/de9c1dce8d241d119cb46387fcd62b35125cad6d) - 2025-05-06
+* [Commit] [allow deps in conventional commits](https://github.com/paradigmxyz/reth/commit/c92754273ebad6ae87203b18a3afb5cb51d4e674) - 2025-05-06
+* [Commit] [Extend eth state cache with get receipts maybe block (#15391)](https://github.com/paradigmxyz/reth/commit/64d3d30aa2aa30aab4c85ea63ad94459b9f9709f) - 2025-05-06
+* [Commit] [bump to 0.13.6](https://github.com/paradigmxyz/reth/commit/ffc1545254ddd1aa83188a3de0ee9a827c08e849) - 2025-05-06
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

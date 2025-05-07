@@ -78,6 +78,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add signal for cleanup connection](https://github.com/ChainSafe/lodestar/commit/a5f3f11c037032383f7dcb54c010c9d196cb673f) - 2025-05-05
 * [Commit] [chore: add block proposal summary panel to block production dashboard (#7692)](https://github.com/ChainSafe/lodestar/commit/30d888c61292cbd19f49f062e77c6e2b4f62dde1) - 2025-05-05
 * [Commit] [Cleanup tests](https://github.com/ChainSafe/lodestar/commit/63cd115a88d8d76216806e420a4302bc259a03f6) - 2025-05-05
+* [Pull Request] [fix(reqresp): update reqresp behavior for timeout](https://github.com/ChainSafe/lodestar/pull/7800) - 2025-05-06
+* [Commit] [Add a cleanup time for resource port](https://github.com/ChainSafe/lodestar/commit/2ef8ad2306c2c231783b156a240e084dceeafb60) - 2025-05-06
+* [Commit] [Revert log level change](https://github.com/ChainSafe/lodestar/commit/c5b94c89472eab5f0e9498f49687b745a527c0d7) - 2025-05-06
+* [Commit] [Increase disconnect threshold](https://github.com/ChainSafe/lodestar/commit/dd669907241ab890a5d67eea554ff0199d6a3623) - 2025-05-06
+* [Commit] [Hardcode the bound port](https://github.com/ChainSafe/lodestar/commit/2c1ce871315522cfcdc6bed8f31ae77fe678eeef) - 2025-05-06
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

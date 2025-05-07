@@ -160,6 +160,27 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Make static](https://github.com/NethermindEth/nethermind/commit/333cc41a48db44176661d9530d5792e596d55324) - 2025-05-05
 * [Commit] [Remove extra transaction property](https://github.com/NethermindEth/nethermind/commit/ad6069ef988ccd47b9acb23f9f86623534a267bc) - 2025-05-05
 * [Commit] [Perf/parallel block downloader (#8255)](https://github.com/NethermindEth/nethermind/commit/8403a084be21c32e3e4461016e9bc008118c1c32) - 2025-05-05
+* [Commit] [Update OP Superchain chains (#8584)](https://github.com/NethermindEth/nethermind/commit/2c74e2ff016ec271205eab5f3d42db886852af46) - 2025-05-06
+* [Commit] [Adjust names of engine_getBlobs metrics (#8589)](https://github.com/NethermindEth/nethermind/commit/953c407f510f10c2a94c95b183893d853dd65289) - 2025-05-06
+* [Commit] [to strong type](https://github.com/NethermindEth/nethermind/commit/7d7fbd4c87b5d39314995cd86058cea12e3038cd) - 2025-05-06
+* [Pull Request] [Cap snappy output span](https://github.com/NethermindEth/nethermind/pull/8596) - 2025-05-06
+* [Commit] [Remove Nethermind.Cli (#8575)](https://github.com/NethermindEth/nethermind/commit/31a12ad1ae06a74a58b5a58abcfe3692092971ab) - 2025-05-06
+* [Commit] [Update dependencies (#8594)](https://github.com/NethermindEth/nethermind/commit/cee823f7d504464f27c610e6d308955fb0fcc9f1) - 2025-05-06
+* [Commit] [fixes](https://github.com/NethermindEth/nethermind/commit/a82b8243c330c5888fda57e6a71ce7e4dacb5d7a) - 2025-05-06
+* [Commit] [Missed](https://github.com/NethermindEth/nethermind/commit/d1d5b0eee51c8e489d48cff133f14542d16d6359) - 2025-05-06
+* [Commit] [Ckzg.Ckzg -> Ckzg](https://github.com/NethermindEth/nethermind/commit/3a71e5905c16931841355ba3419b560ef8fd556c) - 2025-05-06
+* [Pull Request] [Update dependencies](https://github.com/NethermindEth/nethermind/pull/8594) - 2025-05-06
+* [Commit] [Remove hive.json (#8343)](https://github.com/NethermindEth/nethermind/commit/f1b708de9d0f9e7b61e47d44457b9da004737c73) - 2025-05-06
+* [Commit] [Use faster span enumerator for ArrayPoolList (#8592)](https://github.com/NethermindEth/nethermind/commit/19800fdf209500ee41ad5c88979443d06138dcb7) - 2025-05-06
+* [Commit] [Delay resolving to full blob when picking (#8591)](https://github.com/NethermindEth/nethermind/commit/f302d97736fbdd73d52dce0c0c6267d5af7db81e) - 2025-05-06
+* [Commit] [Fix unexpected nethtest log output and refactor test logging (#8578)](https://github.com/NethermindEth/nethermind/commit/d9a052fda03e812f8eab9554db447046d536289f) - 2025-05-06
+* [Commit] [Whatevs part 2](https://github.com/NethermindEth/nethermind/commit/e4d3314f8cf30ef78ed5b3a9784eb7b77ee577dc) - 2025-05-06
+* [Commit] [Whatevs](https://github.com/NethermindEth/nethermind/commit/4b57930298d00a74c0ab4435079f74ab0788b91d) - 2025-05-06
+* [Pull Request] [Use faster span enumerator for ArrayPoolList](https://github.com/NethermindEth/nethermind/pull/8592) - 2025-05-06
+* [Commit] [Other one too](https://github.com/NethermindEth/nethermind/commit/cbb3cd047591199423fe5afc0a340cc5f6312c4a) - 2025-05-06
+* [Commit] [Yield correct blob](https://github.com/NethermindEth/nethermind/commit/738beb715ef9b35682b8be3985bcb8b787b3d72a) - 2025-05-06
+* [Pull Request] [Delay resolving to full blob when picking](https://github.com/NethermindEth/nethermind/pull/8591) - 2025-05-06
+* [Commit] [Add back trace](https://github.com/NethermindEth/nethermind/commit/210c0e18d21de0d80fab28bdc7a5cfdbf80afcc9) - 2025-05-06
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

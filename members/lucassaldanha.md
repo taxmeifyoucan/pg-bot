@@ -32,6 +32,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [New infra stream module (#9362)](https://github.com/Consensys/teku/commit/e4adc715235912540c027529e95fe537b37a8751) - 2025-04-27
 * [Pull Request] [Returning custody_group_count on node/identity Beacon API](https://github.com/Consensys/teku/pull/9381) - 2025-04-29
 * [Commit] [Returning custody_group_count on node/identity Beacon API (#9381)](https://github.com/Consensys/teku/commit/4391e87d7d4e50412ff1823652bde67dae08d7ca) - 2025-05-05
+* [Commit] [Add FULU to the Spec Factory (#9373)](https://github.com/Consensys/teku/commit/7005739737703964ea870aa23f67d85169bba2d5) - 2025-05-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Added Teku team coordinators](https://github.com/ethereum/pm/pull/1468) - 2025-04-14
 * [Pull Request] [Minor typos protocol-upgrade.md](https://github.com/ethereum/pm/pull/1467) - 2025-04-14
