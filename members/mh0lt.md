@@ -100,6 +100,9 @@ Team: Erigon
 * [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/e74e91ae53ffcf92e00335914707ddad9a5c10f0) - 2025-05-05
 * [Commit] [collect commitment processing data (#14490)](https://github.com/erigontech/erigon/commit/0ed84bb234e27481e6fd4608eafba58e1a58f827) - 2025-05-05
 * [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/0e88cce75f8e18c572bf45d5cfb633a1575bb421) - 2025-05-05
+* [Commit] [remove unwanted files](https://github.com/erigontech/erigon/commit/91d1040bddb5adce305591c0bc2427c98ef994e5) - 2025-05-07
+* [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/e741147c7dd7cf614b5d4b0face76060b53f78e3) - 2025-05-07
+* [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/bd5e1b2231d700c52f905310b9da4b13d2300340) - 2025-05-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -87,6 +87,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [EIP-4444: Add RPC errors for pruned blocks. Take 2 (#8521)](https://github.com/NethermindEth/nethermind/commit/af0b0492df5e83fe1482e3e45773b98f6c519bb3) - 2025-05-06
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/bcb71124f5dcadc5552298db404a0d5fa3e23b4b) - 2025-05-06
 * [Pull Request] [Refactor/separate pruning trieestore](https://github.com/NethermindEth/nethermind/pull/8593) - 2025-05-06
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/7dacbb72fb08d5511b617176de39090d951fe604) - 2025-05-07
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

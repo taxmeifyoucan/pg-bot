@@ -72,6 +72,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [peerDAS - cannot sync hoodi](https://github.com/ChainSafe/lodestar/issues/7754) - 2025-04-28
 * [Commit] [chore: fix comments](https://github.com/ChainSafe/lodestar/commit/85d3cf586736131e58f052bccb799063a218a365) - 2025-04-29
 * [Pull Request] [Te/peer das fix genesis sync](https://github.com/ChainSafe/lodestar/pull/7760) - 2025-04-29
+* [Issue] [Network thread performance issue due to async randomness](https://github.com/ChainSafe/lodestar/issues/7801) - 2025-05-07
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

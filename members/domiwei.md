@@ -70,6 +70,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/bcabec7c9306857ac9eabc95540b19d81650735f) - 2025-05-06
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/0ab342d4dc9d78743b3bb0531c5d297db74a3658) - 2025-05-06
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/e04be6692468b328eb37b23e73ecba40574d7be3) - 2025-05-06
+* [Commit] [Caplin: bump default builder boost factor (#14913)](https://github.com/erigontech/erigon/commit/8eb34d810d5e80776618601ee240ad470833694b) - 2025-05-07
+* [Commit] [update](https://github.com/erigontech/erigon/commit/965b0a373a42dec9654a167475d26c9defaf117f) - 2025-05-07
+* [Commit] [update](https://github.com/erigontech/erigon/commit/0cbdfb7d5eca483e1c058c131b41f34680a926b9) - 2025-05-07
+* [Commit] [fix test](https://github.com/erigontech/erigon/commit/419e9b2c016a3305b5854ab5b27d7c10f2b7f057) - 2025-05-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

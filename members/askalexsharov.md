@@ -1278,6 +1278,59 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/1a17455df0d3c7de4abfd81272ad33b198d0d9ee) - 2025-05-06
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b67daaf5cbe226bbf6ecbd5ed3a9a50fa94848a0) - 2025-05-06
 * [Commit] [save](https://github.com/erigontech/erigon/commit/94efd67184bd2c00b3d290b51c73a2cf935043e2) - 2025-05-06
+* [Commit] [disable `--experiment.persist.receipts` flag by default (#14888)](https://github.com/erigontech/erigon/commit/970e09887efe35aff55cdb077db3cdc990f09fa1) - 2025-05-07
+* [Commit] [return deleted mapping logs (#14846)](https://github.com/erigontech/erigon/commit/94c165064b0fd763c9cf8c43cc6821535c03148a) - 2025-05-07
+* [Commit] [rpcdaemon: re-use get_receipt() to reuse receipt cache (#14869)](https://github.com/erigontech/erigon/commit/c3252602e8230fd5975ae8e481c3d221f87f4502) - 2025-05-07
+* [Commit] [cmd/utils: Remove unnecessary `LoadSnapshotsHashes` invocation (#14906)](https://github.com/erigontech/erigon/commit/814afb163c08bb128e8032fcf2c9a872b900ebca) - 2025-05-07
+* [Commit] [[release/3.0][rpctest]: BenchDebugTraceTransaction review (#14706)](https://github.com/erigontech/erigon/commit/0625a370097ffb6eb0cfab8b8bc1cb2c691d0050) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/63ce40381b72384d2cc3514db8ec327c88ab4e1b) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3f11e0444ecc940048fdc194627d763f2df40f37) - 2025-05-07
+* [Commit] [[main][rpctest]: BenchDebugTraceTransaction review (#14708)](https://github.com/erigontech/erigon/commit/11227c7aee5a27ef9191ccbe3603e22248f4c151) - 2025-05-07
+* [Commit] [[main][rpctest]: BenchTraceTransaction (#14730)](https://github.com/erigontech/erigon/commit/7e864971ce0407868dc917512b645e5e07cc9447) - 2025-05-07
+* [Commit] [[release/3.0][rpctest]: BenchBlockReceipts fix (#14778)](https://github.com/erigontech/erigon/commit/cddd7e3a201089f3776206b625a89d8a8dd74aef) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/982dd9780a86703d4231d61dea43a54609f90b19) - 2025-05-07
+* [Pull Request] [rpctest: thread-safe req generator](https://github.com/erigontech/erigon/pull/14917) - 2025-05-07
+* [Commit] [rpctest invariantsEthGetLogs: speedup by checking each addr only once in each block (#14465)](https://github.com/erigontech/erigon/commit/56c91429450f64c89210da1b2ce4a35864913798) - 2025-05-07
+* [Commit] [sonar: move sonar github action after make test-all (#14709)](https://github.com/erigontech/erigon/commit/6157f6997595c80b34188990dce6ecd67dad2754) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/efb573c2ba05930ac4cc8efa14ede4dd1446388d) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0ca2825dd91a1f210ba77a368ed1860277973650) - 2025-05-07
+* [Commit] [[pick r3.0] merge: look only at state domains when canceling merge (#14746)](https://github.com/erigontech/erigon/commit/ee9a6712b0fb3415954a29360e32be91af0d9d24) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bee9a781d7d27d6ac87f8e676e2650805d8b918b) - 2025-05-07
+* [Commit] [[main][rpctest]: BenchBlockReceipts fix (#14775)](https://github.com/erigontech/erigon/commit/a09d70290adb0c39e0cc746e9cbf1acfb585f779) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/033c94341f41269cd8bee5149e4f0739da732aec) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c05fb17e6fe496bf78399bbe7c26cb41bafdc041) - 2025-05-07
+* [Commit] [print merge progress (#14916)](https://github.com/erigontech/erigon/commit/11065331ddba183a9d1285f33fe8e447549a21bd) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fa1b40331a83a7e6f95e93b84042b48686477890) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0a924dde296c6fc1a7de04b4f77c447bd6044a84) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e01e7e8a55a55b150d67ceb13387c167773f3043) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2e62003e5678b32ba14a2bed6936fa83628bc46f) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/28b5f3ad0259bc45b9d444e9a1c07bf1716e33d0) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/591a8ec2a7a2d80da801f592b2617b935a2ad284) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/17a33d6b029fa6721a0d01e7b0d1f68c3c397441) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ce6534daf2f3b1555886af5efb6cb2d0bfd5d8da) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/584f292efcff78bcafcc941c5fbba546cbb05cc0) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7db45577fa9e67dc54a0886784b481495750a2c3) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/118dae8d9462e7380de7a8db351731c6903b6417) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/10857b349142cdd9a779b3a15a0c018c1454434d) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ae1f9d263b0921465a74c467ded22045b784af8a) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/61a1cb5ad215aee345480b3d74c288f992c621b3) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9c9f5c05b4708d3ed75720793d79ecc58d0505dd) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c700fe4dc99043931d73842f2886993ce54bceee) - 2025-05-07
+* [Commit] [[r30] stage_custom_trace: to produce indices (#14879)](https://github.com/erigontech/erigon/commit/3d9f8db08a48049e05babf80205863608f079f4b) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c927a999e0cfb8a9e48dbcff227f51d8306192ba) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fddee1cbe3caab9fb4e222f60f86782dc6147eed) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3e37c8682d9ce245c6205ea4548febe2c313b99b) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/91d3343e50125be4811460ecfbe3b2e817dee7bd) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dc235c12d132980ffe45590152ca1a17ad2aeecd) - 2025-05-07
+* [Commit] [prune.mode parsing and String()-ing (#14884)](https://github.com/erigontech/erigon/commit/b9333998f7d1dd943b0a6b2fe507ebce847918eb) - 2025-05-07
+* [Pull Request] [print merge progress](https://github.com/erigontech/erigon/pull/14916) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/642cb38ecd180a91cc7f8a71988f07a426e769e1) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e44282823b2cef0b28ec001eae887055f247b88a) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/28dd9b39ca28dab01d73361508cc6b2a399f7242) - 2025-05-07
+* [Commit] [[r30] prune mode flag parsing and `String()`-ing (#14882)](https://github.com/erigontech/erigon/commit/88498b1abd737ea7856e940ea5f5928fe3aa2d50) - 2025-05-07
+* [Commit] [reduce disk IO during files merge (#14902)](https://github.com/erigontech/erigon/commit/ca74636e04255ae8be683555824a731af2322a17) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/750552247b26ca86aa668d934f088f9ee24f26dd) - 2025-05-07
+* [Commit] [less disk IO during files merge (#14901)](https://github.com/erigontech/erigon/commit/f7bca14c557defca2f7d99aee5d3cf358594a429) - 2025-05-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

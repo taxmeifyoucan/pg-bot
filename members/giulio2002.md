@@ -122,6 +122,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/cfc6b6c4262df421c2b3e6f8cf5a3967c0bc652e) - 2025-05-05
 * [Commit] [save](https://github.com/erigontech/erigon/commit/39ce04cef16c137d5a785f9b2ee01f2cf79b6ce7) - 2025-05-05
 * [Commit] [params: version 3.0.0-beta2 (#13781)](https://github.com/erigontech/erigon/commit/f4b7bdd21396973ef0056d4fe1821fe06996a310) - 2025-05-05
+* [Pull Request] [Fix failing test](https://github.com/erigontech/erigon/pull/14925) - 2025-05-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1b731e18ca1864526718245e3c73935c53bd71b3) - 2025-05-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -20,6 +20,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: merge v1.29.0 stable back to unstable](https://github.com/ChainSafe/lodestar/pull/7732) - 2025-04-21
 * [Commit] [chore: merge stable back (#7605)](https://github.com/ChainSafe/lodestar/commit/bdddedfc915e6e252b78e41112392111744282b5) - 2025-04-21
 * [Issue] [Backfill sync and block/blobs retention](https://github.com/ChainSafe/lodestar/issues/7753) - 2025-04-28
+* [Issue] [Review heuristics and log when circuit breaker is triggered](https://github.com/ChainSafe/lodestar/issues/7802) - 2025-05-07
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

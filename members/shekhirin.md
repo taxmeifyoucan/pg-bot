@@ -70,6 +70,13 @@ Team: Reth
 * [Commit] [allow deps in conventional commits](https://github.com/paradigmxyz/reth/commit/c92754273ebad6ae87203b18a3afb5cb51d4e674) - 2025-05-06
 * [Commit] [Extend eth state cache with get receipts maybe block (#15391)](https://github.com/paradigmxyz/reth/commit/64d3d30aa2aa30aab4c85ea63ad94459b9f9709f) - 2025-05-06
 * [Commit] [bump to 0.13.6](https://github.com/paradigmxyz/reth/commit/ffc1545254ddd1aa83188a3de0ee9a827c08e849) - 2025-05-06
+* [Commit] [feature gate](https://github.com/paradigmxyz/reth/commit/4a3a92373976bdf6768c7ce560a61ed203fe1fe9) - 2025-05-07
+* [Commit] [chore: relaxed insp in trace rpc-eth-api (#16094)](https://github.com/paradigmxyz/reth/commit/fac562b673f12c467c4b97d81593f148a776826c) - 2025-05-07
+* [Pull Request] [feat(trie): walker branch node seeks metric](https://github.com/paradigmxyz/reth/pull/16106) - 2025-05-07
+* [Commit] [feat(trie): walker branch node seeks metric](https://github.com/paradigmxyz/reth/commit/fdd144dce75ba609c9a26fd29d8c8b345f00a1d8) - 2025-05-07
+* [Commit] [feat(trie): walker branch node seeks metric](https://github.com/paradigmxyz/reth/commit/4bb77f5ae4dc7505924d2f892797daf9cd81ef99) - 2025-05-07
+* [Commit] [adjust the hashed seek skip condition](https://github.com/paradigmxyz/reth/commit/3db72161f6de10439969a921ff9a91108d01aa01) - 2025-05-07
+* [Commit] [adjust the hashed seek skip condition](https://github.com/paradigmxyz/reth/commit/bc272ee6931e4e59ace7f3782833f59ff065d33c) - 2025-05-07
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

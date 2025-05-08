@@ -124,6 +124,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: make serving historical state opt-in](https://github.com/ChainSafe/lodestar/pull/7799) - 2025-05-05
 * [Pull Request] [chore: address leftover review comments from #6033](https://github.com/ChainSafe/lodestar/pull/7797) - 2025-05-05
 * [Commit] [chore: update gnosis chain bootnodes (#7784)](https://github.com/ChainSafe/lodestar/commit/d85e73aa1273591bd7211987e6196427e6c75d14) - 2025-05-05
+* [Commit] [feat: fulu types (#7774)](https://github.com/ChainSafe/lodestar/commit/986551d3a2ca4e717206e6935ae3b34cbd65af0d) - 2025-05-07
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -36,6 +36,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Re-activate historical summaries test vector tests](https://github.com/status-im/nimbus-eth1/pull/3263) - 2025-05-06
 * [Commit] [Use new historical_summaries beacon API endpoint in portal_bridge (#2775)](https://github.com/status-im/nimbus-eth1/commit/a52ecd09c56dbe82b4715824149d95b33973ace1) - 2025-05-06
 * [Commit] [Era files downloader tool (#3255)](https://github.com/status-im/nimbus-eth1/commit/f225dc64017972fde02d15aec28e970e4535066d) - 2025-05-06
+* [Commit] [Fix HistoricalSummaries storage in beacon_db (#3265)](https://github.com/status-im/nimbus-eth1/commit/57aab551372ef3ee0d1a8ee3e3ac3b65d0704e76) - 2025-05-07
+* [Pull Request] [Fix HistoricalSummaries storage in beacon_db](https://github.com/status-im/nimbus-eth1/pull/3265) - 2025-05-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28

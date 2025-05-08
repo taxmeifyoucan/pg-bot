@@ -102,6 +102,12 @@ Team: Erigon
 * [Commit] [tests: Update EESTs to release v4.4.0 (Stromovka) (#14886)](https://github.com/erigontech/erigon/commit/2eee6bf0c7ae473548815427458d03e05e343686) - 2025-05-06
 * [Pull Request] [cmd/utils: Remove unnecessary `LoadSnapshotsHashes` invocation](https://github.com/erigontech/erigon/pull/14906) - 2025-05-06
 * [Commit] [start work on aggregator for forkables (#14671)](https://github.com/erigontech/erigon/commit/9ec1d669898052da712d91fda48318b47878daf1) - 2025-05-06
+* [Commit] [Use release/3.0 files](https://github.com/erigontech/erigon/commit/fe3aaf851de3a1ed8a2138382afba68ea4371488) - 2025-05-07
+* [Commit] [Revert "EIP-7892: Blob Parameter Only Hardforks (#14843)"  (#14912)](https://github.com/erigontech/erigon/commit/3035271086fc6fce11184e61961c7a025a64020a) - 2025-05-07
+* [Pull Request] [[cherry-pick] workflows: Temp disable 7702 invalidation test on kurtosis (#14834)](https://github.com/erigontech/erigon/pull/14921) - 2025-05-07
+* [Commit] [workflows: Temp disable 7702 invalidation test on kurtosis (#14834)](https://github.com/erigontech/erigon/commit/6e4f0d26094881fcc67f4303758ba62b0b2796bb) - 2025-05-07
+* [Commit] [workflows: Temp disable 7702 invalidation test on kurtosis (#14834)](https://github.com/erigontech/erigon/commit/983d5fa077d664facb976bedde510bbe67e3e5af) - 2025-05-07
+* [Commit] [Fix RIP-7560 gas usage (#14819)](https://github.com/erigontech/erigon/commit/9fd816f6951138e0c35dafde7460c9b8faa298b2) - 2025-05-07
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

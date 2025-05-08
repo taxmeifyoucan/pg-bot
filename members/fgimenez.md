@@ -79,6 +79,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [take into account exact gas_used on success](https://github.com/paradigmxyz/reth/commit/a00f3bf527f6bcc109403d9f2f645d7fc7f4b740) - 2025-05-06
 * [Commit] [udate lock](https://github.com/paradigmxyz/reth/commit/5f32473c3f292b56069fb39db9130b8a567c2ce4) - 2025-05-06
 * [Commit] [feat(txpool): add authorization list setter to mock transaction (#16068)](https://github.com/paradigmxyz/reth/commit/fdcc4c078de422b61f352ac26dfdb2f2261b5552) - 2025-05-06
+* [Commit] [chore: add more docs to SparseTrie (#15750)](https://github.com/paradigmxyz/reth/commit/41a2d0f005a4580bfbbf44f988f6011faa5cb9c8) - 2025-05-07
+* [Commit] [add precompile_errors metric](https://github.com/paradigmxyz/reth/commit/ad37727053f42ac7097452cf080029e6dc64e9fd) - 2025-05-07
+* [Commit] [Update crates/engine/tree/src/tree/precompile_cache.rs](https://github.com/paradigmxyz/reth/commit/88449934589d916b4c0b2a4e2f38ef14b6ce9a88) - 2025-05-07
+* [Commit] [doc](https://github.com/paradigmxyz/reth/commit/878d64ebde9b9e3b41792f33c9fe5e8757dfeb79) - 2025-05-07
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

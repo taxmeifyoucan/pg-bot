@@ -17,6 +17,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [[FULU] BPO for peerDAS](https://github.com/Consensys/teku/issues/9365) - 2025-04-17
 * [Pull Request] [Use `URI.create(...).toURL()` removing URL constructor deprecation](https://github.com/Consensys/teku/pull/9364) - 2025-04-17
 * [Issue] [[SPIKE][FULU][eip-7917] deterministic proposer lookahead](https://github.com/Consensys/teku/issues/9378) - 2025-04-28
+* [Commit] [Improve attestation bits aggregator electra (#9393)](https://github.com/Consensys/teku/commit/5150373069441dcb42872356442e7b43e7837efc) - 2025-05-07
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -215,6 +215,10 @@ Team: Reth
 * [Pull Request] [chore: bump op-alloy](https://github.com/paradigmxyz/reth/pull/16081) - 2025-05-06
 * [Pull Request] [chore: replace filteredParams with Filterset](https://github.com/paradigmxyz/reth/pull/16077) - 2025-05-06
 * [Pull Request] [chore: silence warnings](https://github.com/paradigmxyz/reth/pull/16076) - 2025-05-06
+* [Commit] [perf: check receiver count before clone (#16100)](https://github.com/paradigmxyz/reth/commit/2eec34d7ded71d2dd30f1858bb6c43a5af918b54) - 2025-05-07
+* [Commit] [perf(trie): cache last hashed entry seek in trie node iter (#15471)](https://github.com/paradigmxyz/reth/commit/48e0ec67d00c158ea8376d5454e6b6c0d2e8d319) - 2025-05-07
+* [Pull Request] [chore: skip inserting older blocks](https://github.com/paradigmxyz/reth/pull/16101) - 2025-05-07
+* [Pull Request] [perf: check receiver count before clone](https://github.com/paradigmxyz/reth/pull/16100) - 2025-05-07
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [feat: Add support for reading static peers from file (#9328)](https://github.com/Consensys/teku/commit/5dad0ed9e385954ee9baf04c77919eb5e869d25c) - 2025-04-28
 * [Pull Request] [Added context to the sync committee duties error](https://github.com/Consensys/teku/pull/9380) - 2025-04-29
 * [Pull Request] [may 3rd party updates](https://github.com/Consensys/teku/pull/9388) - 2025-05-02
+* [Pull Request] [added a DeserializableConfigTypeDefinition](https://github.com/Consensys/teku/pull/9396) - 2025-05-07
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

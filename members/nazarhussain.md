@@ -83,6 +83,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Revert log level change](https://github.com/ChainSafe/lodestar/commit/c5b94c89472eab5f0e9498f49687b745a527c0d7) - 2025-05-06
 * [Commit] [Increase disconnect threshold](https://github.com/ChainSafe/lodestar/commit/dd669907241ab890a5d67eea554ff0199d6a3623) - 2025-05-06
 * [Commit] [Hardcode the bound port](https://github.com/ChainSafe/lodestar/commit/2c1ce871315522cfcdc6bed8f31ae77fe678eeef) - 2025-05-06
+* [Pull Request] [chore: remove unused eslint directives](https://github.com/ChainSafe/lodestar/pull/7803) - 2025-05-07
+* [Commit] [test: fix few e2e flaky tests (#7762)](https://github.com/ChainSafe/lodestar/commit/0eb947d0d0c7a6032a60661e6df241ebb5c98dba) - 2025-05-07
+* [Commit] [Cleanup unused variable](https://github.com/ChainSafe/lodestar/commit/c74295937ce6317bb2ca53a501423a922c8aaa57) - 2025-05-07
+* [Commit] [Fix unit tests](https://github.com/ChainSafe/lodestar/commit/12531a242c1bacb234e60e94beca5722c297241e) - 2025-05-07
+* [Commit] [Remove duplicate code](https://github.com/ChainSafe/lodestar/commit/e5d7216f372e7784185397a41e9e75d4880af800) - 2025-05-07
+* [Commit] [chore: use v2 attestation apis even pre-electra (#7758)](https://github.com/ChainSafe/lodestar/commit/9f1d8d65fd688b8bd620f226a3af006e409030fc) - 2025-05-07
+* [Commit] [Update the log order](https://github.com/ChainSafe/lodestar/commit/158b99a39c6f739c416d833a6812dc2ab09cf264) - 2025-05-07
+* [Commit] [fix(reqresp): update reqresp behavior for timeout (#7800)](https://github.com/ChainSafe/lodestar/commit/0f6a8b1a7711b4ad39b01192aa0ad94aea2b315f) - 2025-05-07
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

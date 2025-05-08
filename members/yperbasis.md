@@ -121,6 +121,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [workflows: Temp disable 7702 invalidation test on kurtosis (#14834)](https://github.com/erigontech/erigon/commit/cdeb2b32f10cfbeaad1ec198e8ae4b7d889cb38a) - 2025-05-05
 * [Commit] [move existence filter from `state` pkg (#14870)](https://github.com/erigontech/erigon/commit/5198b8636a45ad70e47295d231b3fee1e6677f9a) - 2025-05-05
 * [Issue] [Caplin didn't use Mev-Boost for Block Production](https://github.com/erigontech/erigon/issues/14883) - 2025-05-05
+* [Issue] [[flaky] TestSentinelGossipOnHardFork](https://github.com/erigontech/erigon/issues/14923) - 2025-05-07
+* [Pull Request] [deps: merged erigon-snapshot & interfaces commits](https://github.com/erigontech/erigon/pull/14918) - 2025-05-07
+* [Commit] [deps: merged erigon-snapshot & interfaces commits](https://github.com/erigontech/erigon/commit/a03084caa05c39a3a95761c8e7621031a26337b4) - 2025-05-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

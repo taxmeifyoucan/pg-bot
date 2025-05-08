@@ -57,6 +57,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Remove non-contiguous DAG checks](https://github.com/sigp/lighthouse/commit/8fa36654174959dd15e1064afcec6e8738f35276) - 2025-05-01
 * [Issue] [Validator client deadlocks/freezes intermittently](https://github.com/sigp/lighthouse/issues/7403) - 2025-05-06
 * [Pull Request] [Update all deps incl Tokio](https://github.com/sigp/lighthouse/pull/7401) - 2025-05-06
+* [Issue] [VC logs `Uninitialized` BN briefly on startup](https://github.com/sigp/lighthouse/issues/7410) - 2025-05-07
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025
