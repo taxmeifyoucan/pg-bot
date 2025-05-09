@@ -124,6 +124,7 @@ Team: Erigon
 * [Commit] [params: version 3.0.0-beta2 (#13781)](https://github.com/erigontech/erigon/commit/f4b7bdd21396973ef0056d4fe1821fe06996a310) - 2025-05-05
 * [Pull Request] [Fix failing test](https://github.com/erigontech/erigon/pull/14925) - 2025-05-07
 * [Commit] [save](https://github.com/erigontech/erigon/commit/1b731e18ca1864526718245e3c73935c53bd71b3) - 2025-05-07
+* [Commit] [Erigon: add option to use execution network to import blocks (#14890)](https://github.com/erigontech/erigon/commit/699b6a4bf717f627f7850cee2dd5b7c908d855c9) - 2025-05-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -34,6 +34,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [fix: add `NoBlobRule` to Shanghai block header validator](https://github.com/hyperledger/besu/pull/8583) - 2025-04-28
 * [Commit] [chore: update Sepolia checkpoint to merge block number (#8584)](https://github.com/hyperledger/besu/commit/1691611abca62c98db3e16f8b98065214aeecd4b) - 2025-04-29
 * [Pull Request] [chore: update Sepolia checkpoint to merge block number](https://github.com/hyperledger/besu/pull/8584) - 2025-04-29
+* [Issue] [Implement EIP-7892 - Blob Parameter Only Hardforks](https://github.com/hyperledger/besu/issues/8600) - 2025-05-08
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

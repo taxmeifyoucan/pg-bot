@@ -102,6 +102,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6e6b75fc8e607cc77b72b9e113ccc889305c52d5) - 2025-05-07
 * [Issue] [add compression config as configurable param in snap_repo](https://github.com/erigontech/erigon/issues/14920) - 2025-05-07
 * [Issue] [versioning support in forkable and snap_repo](https://github.com/erigontech/erigon/issues/14919) - 2025-05-07
+* [Issue] [salt reload for e3 after snapshot download](https://github.com/erigontech/erigon/issues/14942) - 2025-05-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

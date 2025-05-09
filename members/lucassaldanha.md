@@ -33,6 +33,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Returning custody_group_count on node/identity Beacon API](https://github.com/Consensys/teku/pull/9381) - 2025-04-29
 * [Commit] [Returning custody_group_count on node/identity Beacon API (#9381)](https://github.com/Consensys/teku/commit/4391e87d7d4e50412ff1823652bde67dae08d7ca) - 2025-05-05
 * [Commit] [Add FULU to the Spec Factory (#9373)](https://github.com/Consensys/teku/commit/7005739737703964ea870aa23f67d85169bba2d5) - 2025-05-06
+* [Pull Request] [Adding DataColumnsByRootIdentifier container](https://github.com/Consensys/teku/pull/9399) - 2025-05-08
+* [Commit] [Updating ref test to 1.5.0 stable (#9398)](https://github.com/Consensys/teku/commit/2fd5eb69c77b33e4746d70234ec6b2db340e2318) - 2025-05-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Added Teku team coordinators](https://github.com/ethereum/pm/pull/1468) - 2025-04-14
 * [Pull Request] [Minor typos protocol-upgrade.md](https://github.com/ethereum/pm/pull/1467) - 2025-04-14

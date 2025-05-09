@@ -26,6 +26,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [add pragueTime override (#8553)](https://github.com/hyperledger/besu/commit/c981ff8359bb888428b263314add6d4e68e07f76) - 2025-04-16
 * [Pull Request] [[TEST] add pragueTime override in DifficultyCalculatorTest](https://github.com/hyperledger/besu/pull/8553) - 2025-04-16
 * [Commit] [Fix: Timeouts are now indexed by both request code and protocol. (#8490)](https://github.com/hyperledger/besu/commit/0d83525f59b69259663ee9521304a439c24123f0) - 2025-05-06
+* [Commit] [Fix: improve error message when data path is not writable (#8593)](https://github.com/hyperledger/besu/commit/ac95f88e7e229d15b95d638d1d8bf02a84315500) - 2025-05-08
+* [Commit] [increase Holesky and Sepolia default gas limit to 60M (#8594)](https://github.com/hyperledger/besu/commit/43d927e32487d0aef0f0abd1636eec19c9563974) - 2025-05-08
+* [Pull Request] [remove sync status permissioning provider](https://github.com/hyperledger/besu/pull/8598) - 2025-05-08
+* [Pull Request] [remove smart contract permissioning config options](https://github.com/hyperledger/besu/pull/8597) - 2025-05-08
+* [Pull Request] [remove smart contract perm tests](https://github.com/hyperledger/besu/pull/8595) - 2025-05-08
+* [Pull Request] [increase Sepolia and other testnet default gas limit to 60M](https://github.com/hyperledger/besu/pull/8594) - 2025-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

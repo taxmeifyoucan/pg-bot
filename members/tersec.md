@@ -106,6 +106,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Bump mainnet to 9df5a5b0955dd1ed4bb103a9bba9a22742ea956c (#7130)](https://github.com/status-im/nimbus-eth2/commit/8d0cfb33aba62efcb6b4a98018225fba0980a3e2) - 2025-05-06
 * [Commit] [Bump holesky to 099fee50a944e76c595398e69bfda0a6f1e799a1 (#7129)](https://github.com/status-im/nimbus-eth2/commit/fea9e0a1d2729065dd3a6be381df5a5c7e7bdada) - 2025-05-06
 * [Commit] [logs cleanup: remove unused stuff (#7137)](https://github.com/status-im/nimbus-eth2/commit/49fa36bf2d7d8f71ecedb4e5939c96d8653b79aa) - 2025-05-07
+* [Commit] [deprecate Eth1Data polling (#7114)](https://github.com/status-im/nimbus-eth2/commit/d36f6a0be6e523dbc0a70aad10de5dbaadcd53e1) - 2025-05-08
+* [Commit] [copyright year linting](https://github.com/status-im/nimbus-eth2/commit/de6b3d68a708fa21bbb3617f2e1ece2f8b9adc06) - 2025-05-08
+* [Pull Request] [use EF consensus spec v1.5.0 test vectors](https://github.com/status-im/nimbus-eth2/pull/7141) - 2025-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

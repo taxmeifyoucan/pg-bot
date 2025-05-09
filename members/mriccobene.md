@@ -45,6 +45,10 @@ Team: Erigon
 * [Commit] [dir improvements: turn `erigon-db` into a module (#14759)](https://github.com/erigontech/erigon/commit/a557bb8f43aa47bb3c20442824b37320511a5be1) - 2025-05-05
 * [Commit] [qa-tests: constrained tip-tracking with chaindata backup/restore (#14799)](https://github.com/erigontech/erigon/commit/e658e7f146a4854cc13553d4f9889183aacf10c6) - 2025-05-05
 * [Commit] [qa-tests: avoid job cancellation in the sync-with-extcl test (#14814)](https://github.com/erigontech/erigon/commit/b88c1a17516592e02692874b28c97bea7bff1602) - 2025-05-05
+* [Commit] [cancel perf test run if new commit](https://github.com/erigontech/erigon/commit/75c0882e637068414477f70dd6a44b1a7d210c08) - 2025-05-08
+* [Pull Request] [qa-tests: increase sync-from-scratch (minimal node) test time](https://github.com/erigontech/erigon/pull/14940) - 2025-05-08
+* [Commit] [increase test time](https://github.com/erigontech/erigon/commit/0a2a34601e74aa3065314f9e2cb4539939a03587) - 2025-05-08
+* [Pull Request] [qa-tests: avoid executing long running tests on specialised test runners (v3)](https://github.com/erigontech/erigon/pull/14939) - 2025-05-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

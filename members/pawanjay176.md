@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 
 ## Contributions
 
+## Q2 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Change default EngineState to online](https://github.com/sigp/lighthouse/pull/7417) - 2025-05-08
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

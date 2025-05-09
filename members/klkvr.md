@@ -41,3 +41,6 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix doc](https://github.com/paradigmxyz/reth/commit/f96d590fed353d21f9efdab40e1201bfd6ea4e73) - 2025-05-06
 * [Commit] [fix doc](https://github.com/paradigmxyz/reth/commit/d7f4d5edea74ea34e90e896af7df6b1568f48a09) - 2025-05-06
 * [Commit] [fix doc](https://github.com/paradigmxyz/reth/commit/f6f2b1952aaa0b6cd0ffd779f19f865bf6f49429) - 2025-05-06
+* [Commit] [Cargo.lock](https://github.com/paradigmxyz/reth/commit/4999fa2e5d8110c1dc13a6b1657478ede3fc87ba) - 2025-05-08
+* [Commit] [chore: bump docker lighthouse version for electra (#16103)](https://github.com/paradigmxyz/reth/commit/3a49e4e5391ab34bdb3b98a8ce96e45b99d1ce68) - 2025-05-08
+* [Commit] [bump revm](https://github.com/paradigmxyz/reth/commit/326880bf63fa921468e4329b534ee35fad54ebae) - 2025-05-08

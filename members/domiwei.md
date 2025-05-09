@@ -74,6 +74,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/965b0a373a42dec9654a167475d26c9defaf117f) - 2025-05-07
 * [Commit] [update](https://github.com/erigontech/erigon/commit/0cbdfb7d5eca483e1c058c131b41f34680a926b9) - 2025-05-07
 * [Commit] [fix test](https://github.com/erigontech/erigon/commit/419e9b2c016a3305b5854ab5b27d7c10f2b7f057) - 2025-05-07
+* [Pull Request] [Cherrypick: Caplin: Fix misc issues after electra (#14910)](https://github.com/erigontech/erigon/pull/14935) - 2025-05-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -39,3 +39,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Fluffy: Only send offers to peers when content falls within radius (#3242)](https://github.com/status-im/nimbus-eth1/commit/326b6b9db7bfd9e980f0eaa42ef26020c76bb760) - 2025-05-06
 * [Commit] [Add comment to explain the enableNodeLookup parameter.](https://github.com/status-im/nimbus-eth1/commit/5472614d188ad82c4772b69c4d3016f93508cefc) - 2025-05-06
 * [Pull Request] [Fluffy: Add multiple workers for processing content in state network](https://github.com/status-im/nimbus-eth1/pull/3264) - 2025-05-07
+* [Pull Request] [Fluffy: Add min gossip peers parameter to state bridge and other improvements](https://github.com/status-im/nimbus-eth1/pull/3268) - 2025-05-08
+* [Commit] [Fluffy: Multiple workers for processing received content in state network (#3264)](https://github.com/status-im/nimbus-eth1/commit/8a451605a729153c10ebbfff7fd2d42888de6f7b) - 2025-05-08
+* [Commit] [Reduce default contentQueueWorkers to 8.](https://github.com/status-im/nimbus-eth1/commit/0cc7883f40204129b5dfe3a4f1b5a5bfd385c0a9) - 2025-05-08
+* [Commit] [Make content queue workers configurable.](https://github.com/status-im/nimbus-eth1/commit/be706c82c8e240ee400a83a6c79f0ee0ea68dc9f) - 2025-05-08

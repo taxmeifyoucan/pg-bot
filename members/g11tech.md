@@ -23,6 +23,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [ckzg for testing revert later](https://github.com/ethereumjs/ethereumjs-monorepo/commit/844aa06ce120ee14ba846e99dc86d52c5ff79870) - 2025-05-05
 * [Commit] [add further debugging log](https://github.com/ethereumjs/ethereumjs-monorepo/commit/07517ad175ef4774962f1e394591087d85a0c72f) - 2025-05-05
 * [Commit] [debug requests](https://github.com/ethereumjs/ethereumjs-monorepo/commit/fe8dc45770cb4bdd49ac70034db037504023ee91) - 2025-05-05
+* [Commit] [reject old format tx acceptance](https://github.com/ethereumjs/ethereumjs-monorepo/commit/361e9973039a25a37c48091bda2aa81b69d8eccf) - 2025-05-08
+* [Commit] [remove old format transactions](https://github.com/ethereumjs/ethereumjs-monorepo/commit/71fd34dc77419b22f55e72842fa2e1651050cb26) - 2025-05-08
+* [Commit] [more debug log](https://github.com/ethereumjs/ethereumjs-monorepo/commit/621d70de48e76f7a762d5148c2b681fcf38c5e60) - 2025-05-08
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

@@ -1331,6 +1331,17 @@ Team: Erigon
 * [Commit] [reduce disk IO during files merge (#14902)](https://github.com/erigontech/erigon/commit/ca74636e04255ae8be683555824a731af2322a17) - 2025-05-07
 * [Commit] [save](https://github.com/erigontech/erigon/commit/750552247b26ca86aa668d934f088f9ee24f26dd) - 2025-05-07
 * [Commit] [less disk IO during files merge (#14901)](https://github.com/erigontech/erigon/commit/f7bca14c557defca2f7d99aee5d3cf358594a429) - 2025-05-07
+* [Commit] [etl: remove unused logs (#14938)](https://github.com/erigontech/erigon/commit/b08a199d28cbb99b6b36279baaea3625109a8975) - 2025-05-08
+* [Commit] [[DO-NOT-MERGE] .ef optimization experiments (#12907)](https://github.com/erigontech/erigon/commit/3d0b4d16a0f79b2fc9dc07a3dce3dd25b5a6b547) - 2025-05-08
+* [Pull Request] [etl: remove unused logs](https://github.com/erigontech/erigon/pull/14938) - 2025-05-08
+* [Commit] [Updated docs link in the pre-built binaries installation message (#14937)](https://github.com/erigontech/erigon/commit/bcc599a26545492005a73ba870e0e3aea557653a) - 2025-05-08
+* [Issue] [erigon doesn't create `heimdall` db, but tooling expecting it](https://github.com/erigontech/erigon/issues/14936) - 2025-05-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/523b9719f8534b8afff64e48936ac8dee37bbf0c) - 2025-05-08
+* [Commit] [rpctest: thread-safe req generator (#14917)](https://github.com/erigontech/erigon/commit/e4e776b5b7eaf5abb5edd809da277b31d1c8595d) - 2025-05-08
+* [Commit] [Cherry-Pick: log revert (#14877)](https://github.com/erigontech/erigon/commit/f9f90c70729d4db505c7c9a5e2214e58ed79c44d) - 2025-05-08
+* [Commit] [disable `--experiment.persist.receipts` flag by default (#14888)](https://github.com/erigontech/erigon/commit/970e09887efe35aff55cdb077db3cdc990f09fa1) - 2025-05-08
+* [Commit] [qa-integration-test: update rpc-test version to 1.58.0 (#14930)](https://github.com/erigontech/erigon/commit/0ee184460ec438df5b6410a2520dee3f06c19830) - 2025-05-08
+* [Commit] [rpcdaemon: merge PR 14869 on 3.0 (re-use getReceipt() on logs retrieval) (#14929)](https://github.com/erigontech/erigon/commit/818c8dcf9941bdb4a971658649fb3cc263372662) - 2025-05-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

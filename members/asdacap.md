@@ -88,6 +88,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/bcb71124f5dcadc5552298db404a0d5fa3e23b4b) - 2025-05-06
 * [Pull Request] [Refactor/separate pruning trieestore](https://github.com/NethermindEth/nethermind/pull/8593) - 2025-05-06
 * [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/7dacbb72fb08d5511b617176de39090d951fe604) - 2025-05-07
+* [Commit] [Trie node encode (#8599)](https://github.com/NethermindEth/nethermind/commit/72cefb04861f14c9cf0b84c194b8e100071ee88f) - 2025-05-08
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/4c6cac8be9a292b0c4d4cd8c1766d76a833a675f) - 2025-05-08
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/7bbe0bf2f5f21a8e62c735f600716ad9bfae5bf1) - 2025-05-08
+* [Commit] [Fix E2ESyncTest (#8602)](https://github.com/NethermindEth/nethermind/commit/2a8591de1779df956958323418be7a29f26e8526) - 2025-05-08
+* [Commit] [Moved test factory to core test](https://github.com/NethermindEth/nethermind/commit/5d5506fa6625a8327010dd4d94e071a2aadc3bd9) - 2025-05-08
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/bf43605a8b0882b5cc3622a1443fe3aa1e0326ec) - 2025-05-08
+* [Pull Request] [Refactor/Explicit message serializer](https://github.com/NethermindEth/nethermind/pull/8604) - 2025-05-08
+* [Commit] [Pre merge util](https://github.com/NethermindEth/nethermind/commit/0c499fb778c0a51ee8aa531abecbd52f477576f0) - 2025-05-08
+* [Pull Request] [Fix E2ESyncTest](https://github.com/NethermindEth/nethermind/pull/8602) - 2025-05-08
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -219,6 +219,12 @@ Team: Reth
 * [Commit] [perf(trie): cache last hashed entry seek in trie node iter (#15471)](https://github.com/paradigmxyz/reth/commit/48e0ec67d00c158ea8376d5454e6b6c0d2e8d319) - 2025-05-07
 * [Pull Request] [chore: skip inserting older blocks](https://github.com/paradigmxyz/reth/pull/16101) - 2025-05-07
 * [Pull Request] [perf: check receiver count before clone](https://github.com/paradigmxyz/reth/pull/16100) - 2025-05-07
+* [Commit] [chore: skip inserting older blocks (#16101)](https://github.com/paradigmxyz/reth/commit/a33da3fc568bc9b42f268038211c3888d577dca9) - 2025-05-08
+* [Commit] [chore: bump superchain registry (#16122)](https://github.com/paradigmxyz/reth/commit/70299510a723a96f4b655f1ea4d0b99ac25d5f0e) - 2025-05-08
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/2041f7eefb8a07c96d64d35033d37ba3120f7401) - 2025-05-08
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/eba9b096a8abfad762e231c0738c19cc9a2f5686) - 2025-05-08
+* [Pull Request] [chore: bump superchain registry](https://github.com/paradigmxyz/reth/pull/16122) - 2025-05-08
+* [Issue] [Add cron job for syncing superchain registry](https://github.com/paradigmxyz/reth/issues/16121) - 2025-05-08
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

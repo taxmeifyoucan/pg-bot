@@ -23,6 +23,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Added context to the sync committee duties error](https://github.com/Consensys/teku/pull/9380) - 2025-04-29
 * [Pull Request] [may 3rd party updates](https://github.com/Consensys/teku/pull/9388) - 2025-05-02
 * [Pull Request] [added a DeserializableConfigTypeDefinition](https://github.com/Consensys/teku/pull/9396) - 2025-05-07
+* [Issue] [report future forks that are defined on startup](https://github.com/Consensys/teku/issues/9400) - 2025-05-08
+* [Commit] [added a DeserializableConfigTypeDefinition (#9396)](https://github.com/Consensys/teku/commit/10d82630286413438f60ac6d8e2ee394510515de) - 2025-05-08
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

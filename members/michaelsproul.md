@@ -58,6 +58,15 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Validator client deadlocks/freezes intermittently](https://github.com/sigp/lighthouse/issues/7403) - 2025-05-06
 * [Pull Request] [Update all deps incl Tokio](https://github.com/sigp/lighthouse/pull/7401) - 2025-05-06
 * [Issue] [VC logs `Uninitialized` BN briefly on startup](https://github.com/sigp/lighthouse/issues/7410) - 2025-05-07
+* [Pull Request] [Vc async lock](https://github.com/sigp/lighthouse/pull/7423) - 2025-05-08
+* [Commit] [Use same hierarchy for hot and cold](https://github.com/sigp/lighthouse/commit/7d8343f9e6f2db61b2c4fbc625bf1d3dd8f8d91b) - 2025-05-08
+* [Commit] [Prevent split from changing during ancestor calc](https://github.com/sigp/lighthouse/commit/e1475a120b0fbb170323e67b1d19d90d3d0e1f42) - 2025-05-08
+* [Commit] [Bump reprocess queue CLI](https://github.com/sigp/lighthouse/commit/5c9447c71fee265f4130e13c2a77d41bf7826a17) - 2025-05-08
+* [Commit] [Update CLI default](https://github.com/sigp/lighthouse/commit/eda23d5320b7d1e9ab085c491667cbfbcc1bb14a) - 2025-05-08
+* [Pull Request] [Enable debug symbols by default in release builds](https://github.com/sigp/lighthouse/pull/7418) - 2025-05-08
+* [Commit] [Enable debug symbols by default in release builds](https://github.com/sigp/lighthouse/commit/0828bc5bfad5de066598dce3c364aa78d008fefb) - 2025-05-08
+* [Commit] [Increase default work queue size](https://github.com/sigp/lighthouse/commit/a6e3a4125378ae7f4a3b0e8594257f9ae44f842f) - 2025-05-08
+* [Pull Request] [Increase default work queue size](https://github.com/sigp/lighthouse/pull/7415) - 2025-05-08
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

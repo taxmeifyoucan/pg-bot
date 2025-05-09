@@ -21,6 +21,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Issue] [Update ethereum/tests to v17.0](https://github.com/hyperledger/besu/issues/8558) - 2025-04-17
 * [Commit] [Add performance and performance-rpc profiles (#8560)](https://github.com/hyperledger/besu/commit/cff5dad4197fc682676b79bbc5f40e3a4e3455ea) - 2025-04-28
 * [Pull Request] [Memoize the signature algorithm in Transaction](https://github.com/hyperledger/besu/pull/8590) - 2025-05-06
+* [Pull Request] [RocksDB BlobDB GC tuning CLI Config](https://github.com/hyperledger/besu/pull/8599) - 2025-05-08
+* [Pull Request] [Prune fast by skipping pruning the transaction locations](https://github.com/hyperledger/besu/pull/8596) - 2025-05-08
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
