@@ -22,6 +22,9 @@ Team: Geth
 
 * [Commit] [core: apply overrides to mainnet chainconfig (#31733)](https://github.com/ethereum/go-ethereum/commit/a511553e448c947a0fe8f34acf7bb6f9818c2b49) - 2025-04-29
 * [Pull Request] [crypto: all: create global hasher pool](https://github.com/ethereum/go-ethereum/pull/31769) - 2025-05-06
+* [Commit] [core/types: reduce allocations in tx.EffectiveGasTip (#31598)](https://github.com/ethereum/go-ethereum/commit/0db99f4e409b05c109cffac26c15dd641757a3ab) - 2025-05-09
+* [Pull Request] [WIP: Peerdas devnet 7](https://github.com/ethereum/go-ethereum/pull/31791) - 2025-05-09
+* [Commit] [eth/catalyst: allow duplicate blob hashes (#31788)](https://github.com/ethereum/go-ethereum/commit/8c220595bb91017afcc1b61458e7ef1ef3fa93df) - 2025-05-09
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

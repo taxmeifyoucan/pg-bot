@@ -55,6 +55,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [docs: add sources for BlockInputSync and BlockInputCache](https://github.com/ChainSafe/lodestar/commit/83c05d2f9e4fce34c83d7c6a854fbd775ad9ab2a) - 2025-05-06
 * [Commit] [docs: add comment about edge condition and potential optimization](https://github.com/ChainSafe/lodestar/commit/5c29265f4bba865426bbc75d50af35d280627708) - 2025-05-06
 * [Commit] [fix: clean up BlockInputSync to allow for unknown block root](https://github.com/ChainSafe/lodestar/commit/3bfaf8128138fd36df7a9a94b5ea2229f623d8d8) - 2025-05-06
+* [Commit] [chore: fix check-types](https://github.com/ChainSafe/lodestar/commit/7bfb752d505cef3ec76f95bbcc20a41e93a6ef79) - 2025-05-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

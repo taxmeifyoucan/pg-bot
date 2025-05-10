@@ -36,6 +36,7 @@ Team: Grandine
 * [Commit] [Do not process slots to acquire beacon state for blob sidecar validation. Delay them instead if needed state is not found.](https://github.com/grandinetech/grandine/commit/1818232735c6b22de2da3d0fc007953308f8a2da) - 2025-04-23
 * [Pull Request] [Do not process slots to acquire beacon state for blob sidecar validation](https://github.com/grandinetech/grandine/pull/192) - 2025-04-23
 * [Pull Request] [Only keep in memory one epoch of beacon states for far ahead non-canonical chains](https://github.com/grandinetech/grandine/pull/201) - 2025-05-06
+* [Commit] [Apply delayed payload status update before block is accepted to fork choice](https://github.com/grandinetech/grandine/commit/7d97118aa237f002bfa16cbc3b91fb1473150c06) - 2025-05-09
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

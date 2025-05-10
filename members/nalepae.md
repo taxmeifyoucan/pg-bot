@@ -77,6 +77,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Add column identifiers by root request (#15212)](https://github.com/OffchainLabs/prysm/commit/24a3cb2a8b0058f58ab309251ba4711ef7dfe712) - 2025-05-06
 * [Commit] [Data colummns by range: Use all possible peers then filter them. (#15242)](https://github.com/OffchainLabs/prysm/commit/34f8e1e92b7fda134816a98ca951849369c64d58) - 2025-05-06
 * [Commit] [Fix `SendDataColumnSidecarsByRootRequest` and tests.](https://github.com/OffchainLabs/prysm/commit/cdfa7d3d3c4ca4a65b23c223db8a86ce9f2d6052) - 2025-05-06
+* [Commit] [`SidecarProposerExpected`: Stop returning "sidecar was not proposed by the expected proposer_index" when there is any error in the function.](https://github.com/OffchainLabs/prysm/commit/58c70f27802a95cd385496ff0c67eaef06f11888) - 2025-05-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

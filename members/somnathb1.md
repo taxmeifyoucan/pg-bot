@@ -108,6 +108,13 @@ Team: Erigon
 * [Commit] [workflows: Temp disable 7702 invalidation test on kurtosis (#14834)](https://github.com/erigontech/erigon/commit/6e4f0d26094881fcc67f4303758ba62b0b2796bb) - 2025-05-07
 * [Commit] [workflows: Temp disable 7702 invalidation test on kurtosis (#14834)](https://github.com/erigontech/erigon/commit/983d5fa077d664facb976bedde510bbe67e3e5af) - 2025-05-07
 * [Commit] [Fix RIP-7560 gas usage (#14819)](https://github.com/erigontech/erigon/commit/9fd816f6951138e0c35dafde7460c9b8faa298b2) - 2025-05-07
+* [Commit] [Update kurtosis test LH version (#14969)](https://github.com/erigontech/erigon/commit/c7e929c6aa63120fbc0a26833422602d30311749) - 2025-05-09
+* [Commit] [Update pectra one too](https://github.com/erigontech/erigon/commit/dc268744d300520bf3d33782be857efc6e129658) - 2025-05-09
+* [Commit] [Update pectra one too](https://github.com/erigontech/erigon/commit/f93ed3fb02a29178b2b5cd39c449683e0113443d) - 2025-05-09
+* [Pull Request] [Update kurtosis test LH version](https://github.com/erigontech/erigon/pull/14970) - 2025-05-09
+* [Pull Request] [Update kurtosis test LH version](https://github.com/erigontech/erigon/pull/14969) - 2025-05-09
+* [Commit] [Save](https://github.com/erigontech/erigon/commit/276d453b71becd15ccc3e38b1b017f7ebbae23ef) - 2025-05-09
+* [Pull Request] [txpool: allow higher nonce in pool with existing SetcodeTxn](https://github.com/erigontech/erigon/pull/14968) - 2025-05-09
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

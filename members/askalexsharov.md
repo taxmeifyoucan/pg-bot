@@ -1342,6 +1342,14 @@ Team: Erigon
 * [Commit] [disable `--experiment.persist.receipts` flag by default (#14888)](https://github.com/erigontech/erigon/commit/970e09887efe35aff55cdb077db3cdc990f09fa1) - 2025-05-08
 * [Commit] [qa-integration-test: update rpc-test version to 1.58.0 (#14930)](https://github.com/erigontech/erigon/commit/0ee184460ec438df5b6410a2520dee3f06c19830) - 2025-05-08
 * [Commit] [rpcdaemon: merge PR 14869 on 3.0 (re-use getReceipt() on logs retrieval) (#14929)](https://github.com/erigontech/erigon/commit/818c8dcf9941bdb4a971658649fb3cc263372662) - 2025-05-08
+* [Pull Request] [Revert "rpcdaemon: re-use get_receipt() to reuse receipt cache"](https://github.com/erigontech/erigon/pull/14967) - 2025-05-09
+* [Commit] [[r31] disable diagnostics by default (#14960)](https://github.com/erigontech/erigon/commit/a011b40e5d5a65c5ab9efe88ab0fb2bbcb44ac1b) - 2025-05-09
+* [Commit] [reload salt file post snapshots download (#14760)](https://github.com/erigontech/erigon/commit/bfe7a86994dff56dbe1434496cc663fd6084fbd1) - 2025-05-09
+* [Commit] [[r31] Revert "[3.0 pick] downloader: same NetworkChunkSize as in Erigon2"  (#14961)](https://github.com/erigontech/erigon/commit/a98d0033022f0967259ec1210dd960f36c9ece1f) - 2025-05-09
+* [Pull Request] [[r31] Revert "[3.0 pick] downloader: same NetworkChunkSize as in Erigon2" ](https://github.com/erigontech/erigon/pull/14961) - 2025-05-09
+* [Pull Request] [[r31] disable diagnostics by default](https://github.com/erigontech/erigon/pull/14960) - 2025-05-09
+* [Commit] [Revert "[3.0 pick] downloader: same NetworkChunkSize as in Erigon2" (#14958)](https://github.com/erigontech/erigon/commit/d7f9738799e5e29ea574edd40c5d4af89b688dcc) - 2025-05-09
+* [Issue] [“erigon seg rm-state —latest” to be “purification aware”. Prohibit to remove too much.](https://github.com/erigontech/erigon/issues/14959) - 2025-05-09
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

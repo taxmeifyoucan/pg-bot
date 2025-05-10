@@ -77,6 +77,7 @@ Team: Reth
 * [Commit] [feat(trie): walker branch node seeks metric](https://github.com/paradigmxyz/reth/commit/4bb77f5ae4dc7505924d2f892797daf9cd81ef99) - 2025-05-07
 * [Commit] [adjust the hashed seek skip condition](https://github.com/paradigmxyz/reth/commit/3db72161f6de10439969a921ff9a91108d01aa01) - 2025-05-07
 * [Commit] [adjust the hashed seek skip condition](https://github.com/paradigmxyz/reth/commit/bc272ee6931e4e59ace7f3782833f59ff065d33c) - 2025-05-07
+* [Commit] [revert skip hashed seek check](https://github.com/paradigmxyz/reth/commit/d54994494f79b7b96dbadb1c0a8b9afb1a5ddc91) - 2025-05-09
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

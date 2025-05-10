@@ -43,3 +43,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Fluffy: Multiple workers for processing received content in state network (#3264)](https://github.com/status-im/nimbus-eth1/commit/8a451605a729153c10ebbfff7fd2d42888de6f7b) - 2025-05-08
 * [Commit] [Reduce default contentQueueWorkers to 8.](https://github.com/status-im/nimbus-eth1/commit/0cc7883f40204129b5dfe3a4f1b5a5bfd385c0a9) - 2025-05-08
 * [Commit] [Make content queue workers configurable.](https://github.com/status-im/nimbus-eth1/commit/be706c82c8e240ee400a83a6c79f0ee0ea68dc9f) - 2025-05-08
+* [Commit] [Fluffy: Move AsyncEvmStateBackend into separate file and update documentation in comments (#3271)](https://github.com/status-im/nimbus-eth1/commit/e80788bb24356d4e62cd9ea525e56ab0b4f29804) - 2025-05-09
+* [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/fb33b8bf3aeafd0cd52c04936e31432d2dc4468d) - 2025-05-09
+* [Commit] [Use block header instead of stateRoot in async evm backend.](https://github.com/status-im/nimbus-eth1/commit/d8a1f942a9d802041c810b90ae1bb2a70b024225) - 2025-05-09
+* [Pull Request] [Fluffy: Move AsyncEvmStateBackend into separate file and update documentation in comments.](https://github.com/status-im/nimbus-eth1/pull/3271) - 2025-05-09
+* [Commit] [Update documentation/comments.](https://github.com/status-im/nimbus-eth1/commit/ff1205f5116f132bcd0f5c005a047087c2762abd) - 2025-05-09

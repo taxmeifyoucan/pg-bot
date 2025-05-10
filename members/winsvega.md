@@ -18,6 +18,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Remove stack range maximally broad](https://github.com/ethereum/tests/commit/eb6518c47fec42fc381229b6512969ef58c01f6a) - 2025-04-29
 * [Pull Request] [remove ported to .py intrinsic tests](https://github.com/ethereum/tests/pull/1488) - 2025-05-05
 * [Pull Request] [refill all prague using latest evmone](https://github.com/ethereum/tests/pull/1489) - 2025-05-07
+* [Commit] [update index](https://github.com/ethereum/tests/commit/45ee93d18acfd1f88b150d17b8cf874d067a706a) - 2025-05-09
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [fix(fill --collect-only): allow running fill --collect-only even when fixtures folder does not exist (#1254)](https://github.com/ethereum/execution-spec-tests/commit/5242f8a27323345f0365c47edf48124ba8b21e30) - 2025-04-28
 * [Commit] [refactor with test program class](https://github.com/ethereum/execution-spec-tests/commit/2e849b3ddc445bf40525d46ccc4982948f1b3069) - 2025-04-29

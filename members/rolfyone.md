@@ -25,6 +25,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [added a DeserializableConfigTypeDefinition](https://github.com/Consensys/teku/pull/9396) - 2025-05-07
 * [Issue] [report future forks that are defined on startup](https://github.com/Consensys/teku/issues/9400) - 2025-05-08
 * [Commit] [added a DeserializableConfigTypeDefinition (#9396)](https://github.com/Consensys/teku/commit/10d82630286413438f60ac6d8e2ee394510515de) - 2025-05-08
+* [Commit] [Added an info message for the highest milestone (#9405)](https://github.com/Consensys/teku/commit/989b142a9bfd3f0b760159cc47fb549a15a35bb5) - 2025-05-09
+* [Pull Request] [added bpo parsing to configuration](https://github.com/Consensys/teku/pull/9406) - 2025-05-09
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -225,6 +225,7 @@ Team: Reth
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/eba9b096a8abfad762e231c0738c19cc9a2f5686) - 2025-05-08
 * [Pull Request] [chore: bump superchain registry](https://github.com/paradigmxyz/reth/pull/16122) - 2025-05-08
 * [Issue] [Add cron job for syncing superchain registry](https://github.com/paradigmxyz/reth/issues/16121) - 2025-05-08
+* [Commit] [fix: upgrade legacy](https://github.com/paradigmxyz/reth/commit/948c04ad1a243d0ee824b41f417b769dad30f72a) - 2025-05-09
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

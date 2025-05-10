@@ -48,6 +48,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Add EVM tests for 2537 (#8566)](https://github.com/NethermindEth/nethermind/commit/45443f25d8f84359d6c81349fffa67c30d22b50c) - 2025-04-29
 * [Commit] [fix whitespace](https://github.com/NethermindEth/nethermind/commit/8dfef56c62b7a2965e583ecb5c434753bcf8139d) - 2025-05-02
 * [Commit] [NewPayload error message (#8453)](https://github.com/NethermindEth/nethermind/commit/c3c668ff1f228e09c370527c6072b6731c881e1a) - 2025-05-02
+* [Commit] [fix checking for transactions in block](https://github.com/NethermindEth/nethermind/commit/8373eae0a8c60e8e4d060f1b096e66d5f3936986) - 2025-05-09
+* [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/53e189cd4962848dc5df8d6f51486d1b271f5c69) - 2025-05-09
+* [Commit] [update package](https://github.com/NethermindEth/nethermind/commit/39db37bc88657535ef06344e441c6c3004bc456d) - 2025-05-09
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

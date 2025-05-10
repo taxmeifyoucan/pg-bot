@@ -84,6 +84,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [Update crates/engine/tree/src/tree/precompile_cache.rs](https://github.com/paradigmxyz/reth/commit/88449934589d916b4c0b2a4e2f38ef14b6ce9a88) - 2025-05-07
 * [Commit] [doc](https://github.com/paradigmxyz/reth/commit/878d64ebde9b9e3b41792f33c9fe5e8757dfeb79) - 2025-05-07
 * [Commit] [bump deps](https://github.com/paradigmxyz/reth/commit/66cb11722ee2fc4a235edd85214e9a84b2bc226f) - 2025-05-08
+* [Commit] [feat: add precompile cache for execution (#15928)](https://github.com/paradigmxyz/reth/commit/2054a37b02a622f49f17c3f566330253b1a2b1b8) - 2025-05-09
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

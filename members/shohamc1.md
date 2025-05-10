@@ -104,6 +104,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Fix validation txn](https://github.com/erigontech/erigon/commit/c44dc3d5d0a28e4edb961094358b0fc09a0aaa0b) - 2025-05-06
 * [Commit] [reduce default `--torrent.download.slots`  (#14904)](https://github.com/erigontech/erigon/commit/08e6274cfc4b8ab6ec6ace75a878045d456b115a) - 2025-05-07
 * [Commit] [[e30] reduce default `--torrent.download.slots`  (#14903)](https://github.com/erigontech/erigon/commit/d0cba715278e94e546753de5ebcee16d2536c437) - 2025-05-07
+* [Commit] [Proper reset](https://github.com/erigontech/erigon/commit/3b1f03b561106760bc379bb190089bf39872588f) - 2025-05-09
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

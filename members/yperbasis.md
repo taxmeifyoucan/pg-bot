@@ -124,6 +124,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [[flaky] TestSentinelGossipOnHardFork](https://github.com/erigontech/erigon/issues/14923) - 2025-05-07
 * [Pull Request] [deps: merged erigon-snapshot & interfaces commits](https://github.com/erigontech/erigon/pull/14918) - 2025-05-07
 * [Commit] [deps: merged erigon-snapshot & interfaces commits](https://github.com/erigontech/erigon/commit/a03084caa05c39a3a95761c8e7621031a26337b4) - 2025-05-07
+* [Commit] [Revert "rpcdaemon: merge PR 14869 on 3.0 (re-use getReceipt() on logs… (#14966)](https://github.com/erigontech/erigon/commit/642f4fbb7d5b1e911ddd4b04a3dc2db6bd6dfbd5) - 2025-05-09
+* [Commit] [Cherrypick: Caplin: Fix misc issues after electra (#14910) (#14935)](https://github.com/erigontech/erigon/commit/f1f633682cc404a78aa68569ed529150cd7d787b) - 2025-05-09
+* [Commit] [Disable diagnostics by default (#14953)](https://github.com/erigontech/erigon/commit/fd085106fb3f2e2ed0b8b707d17750efc8a4bb64) - 2025-05-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

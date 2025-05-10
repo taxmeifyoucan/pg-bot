@@ -60,6 +60,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Refactor `kzg_7594` generator (#4296)](https://github.com/ethereum/consensus-specs/commit/118a2bdb27d2fcb9ff5674fc9e859e689effa463) - 2025-05-06
 * [Pull Request] [Clean up generator runner](https://github.com/ethereum/consensus-specs/pull/4301) - 2025-05-06
 * [Pull Request] [Refactor `kzg_4844` generator](https://github.com/ethereum/consensus-specs/pull/4300) - 2025-05-06
+* [Commit] [Refactor bls generator (#4304)](https://github.com/ethereum/consensus-specs/commit/621fbf31f6a7619f205ffca67df39666c106aa36) - 2025-05-09
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
