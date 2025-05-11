@@ -78,6 +78,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Data colummns by range: Use all possible peers then filter them. (#15242)](https://github.com/OffchainLabs/prysm/commit/34f8e1e92b7fda134816a98ca951849369c64d58) - 2025-05-06
 * [Commit] [Fix `SendDataColumnSidecarsByRootRequest` and tests.](https://github.com/OffchainLabs/prysm/commit/cdfa7d3d3c4ca4a65b23c223db8a86ce9f2d6052) - 2025-05-06
 * [Commit] [`SidecarProposerExpected`: Stop returning "sidecar was not proposed by the expected proposer_index" when there is any error in the function.](https://github.com/OffchainLabs/prysm/commit/58c70f27802a95cd385496ff0c67eaef06f11888) - 2025-05-09
+* [Commit] [Fix Kasey's comment.](https://github.com/OffchainLabs/prysm/commit/ea79c1ac6359dfd56c8f71023f364fe4a9675a0e) - 2025-05-10
+* [Commit] [Fix Kasey's comment.](https://github.com/OffchainLabs/prysm/commit/3509b70d420a00c4fe362b01a2d137a16711ce50) - 2025-05-10
+* [Commit] [Implement a new solution for subscriber.](https://github.com/OffchainLabs/prysm/commit/55a0de6747653257196f32a41b2687d3d569303d) - 2025-05-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

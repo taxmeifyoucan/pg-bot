@@ -226,6 +226,8 @@ Team: Reth
 * [Pull Request] [chore: bump superchain registry](https://github.com/paradigmxyz/reth/pull/16122) - 2025-05-08
 * [Issue] [Add cron job for syncing superchain registry](https://github.com/paradigmxyz/reth/issues/16121) - 2025-05-08
 * [Commit] [fix: upgrade legacy](https://github.com/paradigmxyz/reth/commit/948c04ad1a243d0ee824b41f417b769dad30f72a) - 2025-05-09
+* [Commit] [chore: put op conversions in mod op (#16147)](https://github.com/paradigmxyz/reth/commit/4f00ed7bed2dece42182560a96dd9f50980a5b59) - 2025-05-10
+* [Pull Request] [chore: put op conversions in mod op](https://github.com/paradigmxyz/reth/pull/16147) - 2025-05-10
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

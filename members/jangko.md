@@ -27,3 +27,5 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [pectra support in era importer (#3246)](https://github.com/status-im/nimbus-eth1/commit/08ff6fa3d82b4ad4cfcdd7e58da781d320ddc74f) - 2025-05-06
 * [Commit] [Refactor block import logic to be async (#3259)](https://github.com/status-im/nimbus-eth1/commit/166dc054ec9f014ccce57be56578b91726ae4b79) - 2025-05-06
 * [Commit] [Verify state root in batch of 4 blocks](https://github.com/status-im/nimbus-eth1/commit/fd4f379c9950f0fc8027d8a5a2f07524751ec0a0) - 2025-05-07
+* [Commit] [Update FC.baseTxFrame after txFrame persisted (#3272)](https://github.com/status-im/nimbus-eth1/commit/14d597e07858baf1fe18ff67605ed674c118a33d) - 2025-05-10
+* [Pull Request] [Update FC.baseTxFrame after txFrame persisted](https://github.com/status-im/nimbus-eth1/pull/3272) - 2025-05-10

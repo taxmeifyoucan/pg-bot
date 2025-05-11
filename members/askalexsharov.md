@@ -1350,6 +1350,7 @@ Team: Erigon
 * [Pull Request] [[r31] disable diagnostics by default](https://github.com/erigontech/erigon/pull/14960) - 2025-05-09
 * [Commit] [Revert "[3.0 pick] downloader: same NetworkChunkSize as in Erigon2" (#14958)](https://github.com/erigontech/erigon/commit/d7f9738799e5e29ea574edd40c5d4af89b688dcc) - 2025-05-09
 * [Issue] [“erigon seg rm-state —latest” to be “purification aware”. Prohibit to remove too much.](https://github.com/erigontech/erigon/issues/14959) - 2025-05-09
+* [Commit] [cmd/evm: Hotfix. Disable new tests `evm` for Windows built. (#14981)](https://github.com/erigontech/erigon/commit/1057dc741c4932aa1f3be5985ef5d6b263b27577) - 2025-05-10
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] [Memoize the signature algorithm in Transaction](https://github.com/hyperledger/besu/pull/8590) - 2025-05-06
 * [Pull Request] [RocksDB BlobDB GC tuning CLI Config](https://github.com/hyperledger/besu/pull/8599) - 2025-05-08
 * [Pull Request] [Prune fast by skipping pruning the transaction locations](https://github.com/hyperledger/besu/pull/8596) - 2025-05-08
+* [Pull Request] [Reintroduce tx index pruning with performance fix](https://github.com/hyperledger/besu/pull/8620) - 2025-05-10
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

@@ -125,6 +125,20 @@ Team: Erigon
 * [Pull Request] [Fix failing test](https://github.com/erigontech/erigon/pull/14925) - 2025-05-07
 * [Commit] [save](https://github.com/erigontech/erigon/commit/1b731e18ca1864526718245e3c73935c53bd71b3) - 2025-05-07
 * [Commit] [Erigon: add option to use execution network to import blocks (#14890)](https://github.com/erigontech/erigon/commit/699b6a4bf717f627f7850cee2dd5b7c908d855c9) - 2025-05-08
+* [Pull Request] [Caplin: fix occassional mev-boost bug](https://github.com/erigontech/erigon/pull/14992) - 2025-05-11
+* [Commit] [Cherry-pick tests improvement commits from main (#14927)](https://github.com/erigontech/erigon/commit/cfa01485430ac92ce91f5e794b87ec04b0c4a6f4) - 2025-05-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/43e74acb548c6d30b97174aa2f2484a05ab72292) - 2025-05-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/be8a16caae30abf163037c1bac6b21e5a4866536) - 2025-05-11
+* [Pull Request] [Caplin: fix occassional mev-boost bug](https://github.com/erigontech/erigon/pull/14991) - 2025-05-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/77e0198eb76b9325aeb6b0c17117be46d8a53134) - 2025-05-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e14faf92e7ff62670b9ef77e79723ea11447398d) - 2025-05-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/373d26cf256c05910678402dfb6258731907a457) - 2025-05-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4f1e1116eb5f6d1ecae0abb46e52d1bc6c686ec8) - 2025-05-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c8a5163b5e1a4608d40a9448f1283ff6e173082c) - 2025-05-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ed85ca28518f7101364d69224084898da64e722b) - 2025-05-10
+* [Commit] [Docker rely on el network flag 2 (#14914)](https://github.com/erigontech/erigon/commit/0ac15d50d17b449c3b730501b31886c7241c870d) - 2025-05-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9824db778864585ace919ede3226cc6067c80b96) - 2025-05-10
+* [Commit] [Erigon: optimistic inclusion for deep reorgs (#14875)](https://github.com/erigontech/erigon/commit/3147663e5907b89638764a1ea00ac701f1e36819) - 2025-05-10
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

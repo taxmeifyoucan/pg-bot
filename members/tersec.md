@@ -109,6 +109,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [deprecate Eth1Data polling (#7114)](https://github.com/status-im/nimbus-eth2/commit/d36f6a0be6e523dbc0a70aad10de5dbaadcd53e1) - 2025-05-08
 * [Commit] [copyright year linting](https://github.com/status-im/nimbus-eth2/commit/de6b3d68a708fa21bbb3617f2e1ece2f8b9adc06) - 2025-05-08
 * [Pull Request] [use EF consensus spec v1.5.0 test vectors](https://github.com/status-im/nimbus-eth2/pull/7141) - 2025-05-08
+* [Pull Request] [rm DepositContractState](https://github.com/status-im/nimbus-eth2/pull/7147) - 2025-05-10
+* [Commit] [nimp nim-ssz-serialization (#7085)](https://github.com/status-im/nimbus-eth2/commit/86a2aa89a423fd2313cb46047511faca2b2c79a0) - 2025-05-10
+* [Commit] [rm DepositsMerkleizer (#7146)](https://github.com/status-im/nimbus-eth2/commit/ff23050f4902bee1fd52cdc394b7d3bee7ee527f) - 2025-05-10
+* [Pull Request] [rm DepositsMerkleizer](https://github.com/status-im/nimbus-eth2/pull/7146) - 2025-05-10
+* [Commit] [rm DepositTreeSnapshot type (#7145)](https://github.com/status-im/nimbus-eth2/commit/9358012b6a419a2fae19c239ee9e0da7882ba592) - 2025-05-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

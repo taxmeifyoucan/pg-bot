@@ -21,6 +21,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [uniforms the AggregatingAttestationPool interface (#9401)](https://github.com/Consensys/teku/commit/f13b314ebfb7aa7c48d0809b1d769c7202a4b84b) - 2025-05-08
 * [Pull Request] [Uniforms the `AggregatingAttestationPool` interface](https://github.com/Consensys/teku/pull/9401) - 2025-05-08
 * [Pull Request] [Introduce `PooledAttestation`](https://github.com/Consensys/teku/pull/9407) - 2025-05-09
+* [Pull Request] [Add docker-jdk24 support](https://github.com/Consensys/teku/pull/9410) - 2025-05-10
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

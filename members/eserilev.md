@@ -15,6 +15,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Mainnet Electra fork epoch](https://github.com/sigp/lighthouse/pull/7275) - 2025-04-08
 * [Pull Request] [Downgrade light client errors](https://github.com/sigp/lighthouse/pull/7300) - 2025-04-09
 * [Pull Request] [small optimizaation to validate_data_columns](https://github.com/sigp/lighthouse/pull/7326) - 2025-04-16
+* [Commit] [fmt](https://github.com/sigp/lighthouse/commit/f5d801ce6b038e85fc0a68fc9a235e79b79a2f09) - 2025-05-10
+* [Commit] [subte tracing thing](https://github.com/sigp/lighthouse/commit/47aca45013b787de4a2627f441ee8183d8cead92) - 2025-05-10
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

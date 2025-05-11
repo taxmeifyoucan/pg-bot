@@ -103,6 +103,7 @@ Team: Erigon
 * [Commit] [remove unwanted files](https://github.com/erigontech/erigon/commit/91d1040bddb5adce305591c0bc2427c98ef994e5) - 2025-05-07
 * [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/e741147c7dd7cf614b5d4b0face76060b53f78e3) - 2025-05-07
 * [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/bd5e1b2231d700c52f905310b9da4b13d2300340) - 2025-05-07
+* [Commit] [use exec context in execute](https://github.com/erigontech/erigon/commit/8c957f9e5acb7c9e4b6eaec704b6a64ad318cd1a) - 2025-05-10
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

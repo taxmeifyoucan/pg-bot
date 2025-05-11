@@ -98,6 +98,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Pre merge util](https://github.com/NethermindEth/nethermind/commit/0c499fb778c0a51ee8aa531abecbd52f477576f0) - 2025-05-08
 * [Pull Request] [Fix E2ESyncTest](https://github.com/NethermindEth/nethermind/pull/8602) - 2025-05-08
 * [Commit] [Fix build again?](https://github.com/NethermindEth/nethermind/commit/98f37bc825b3be4e15ec24022a791bc60fecbebc) - 2025-05-09
+* [Commit] [Add more check](https://github.com/NethermindEth/nethermind/commit/3843b3c8cd3a9cb4ad7b2b5d074998b1d63e5b76) - 2025-05-10
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -181,6 +181,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Yield correct blob](https://github.com/NethermindEth/nethermind/commit/738beb715ef9b35682b8be3985bcb8b787b3d72a) - 2025-05-06
 * [Pull Request] [Delay resolving to full blob when picking](https://github.com/NethermindEth/nethermind/pull/8591) - 2025-05-06
 * [Commit] [Add back trace](https://github.com/NethermindEth/nethermind/commit/210c0e18d21de0d80fab28bdc7a5cfdbf80afcc9) - 2025-05-06
+* [Commit] [Pass PruningConfig to triestore (#8598)](https://github.com/NethermindEth/nethermind/commit/e17b3eaef02428f1cfddf7e1345d7f0b9a4f636b) - 2025-05-10
+* [Commit] [Tidy up](https://github.com/NethermindEth/nethermind/commit/4f0c35485abec575f96d61330af90b3aac82c720) - 2025-05-10
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025
