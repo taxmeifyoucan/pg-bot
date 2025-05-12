@@ -22,6 +22,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Uniforms the `AggregatingAttestationPool` interface](https://github.com/Consensys/teku/pull/9401) - 2025-05-08
 * [Pull Request] [Introduce `PooledAttestation`](https://github.com/Consensys/teku/pull/9407) - 2025-05-09
 * [Pull Request] [Add docker-jdk24 support](https://github.com/Consensys/teku/pull/9410) - 2025-05-10
+* [Commit] [rename AttestationBitsAggregator to AttestationBits (#9412)](https://github.com/Consensys/teku/commit/1b38c1599c08231fc53f0794404a022d0993ad4a) - 2025-05-11
+* [Commit] [Improve jdk 24 support and add docker-jdk24 (#9410)](https://github.com/Consensys/teku/commit/3a0e5e63df6f03e89519fc8747b7af9acbf3556c) - 2025-05-11
+* [Pull Request] [Rename `AttestationBitsAggregator` to `AttestationBits`](https://github.com/Consensys/teku/pull/9412) - 2025-05-11
+* [Commit] [Introduce `PooledAttestation` and `PooledAttestationWithData` (#9407)](https://github.com/Consensys/teku/commit/d2b96902fb63c647b8bbb4e2263474525b1abcf5) - 2025-05-11
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

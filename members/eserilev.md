@@ -17,6 +17,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [small optimizaation to validate_data_columns](https://github.com/sigp/lighthouse/pull/7326) - 2025-04-16
 * [Commit] [fmt](https://github.com/sigp/lighthouse/commit/f5d801ce6b038e85fc0a68fc9a235e79b79a2f09) - 2025-05-10
 * [Commit] [subte tracing thing](https://github.com/sigp/lighthouse/commit/47aca45013b787de4a2627f441ee8183d8cead92) - 2025-05-10
+* [Pull Request] [Move work queue structs and initialization logic to a separate file](https://github.com/sigp/lighthouse/pull/7438) - 2025-05-12
+* [Pull Request] [Remove reprocess channel](https://github.com/sigp/lighthouse/pull/7437) - 2025-05-11
+* [Commit] [test fixes](https://github.com/sigp/lighthouse/commit/9438ed7add8c677b7927ef371be1d032ec7ba90b) - 2025-05-11
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

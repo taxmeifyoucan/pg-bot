@@ -114,6 +114,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rm DepositsMerkleizer (#7146)](https://github.com/status-im/nimbus-eth2/commit/ff23050f4902bee1fd52cdc394b7d3bee7ee527f) - 2025-05-10
 * [Pull Request] [rm DepositsMerkleizer](https://github.com/status-im/nimbus-eth2/pull/7146) - 2025-05-10
 * [Commit] [rm DepositTreeSnapshot type (#7145)](https://github.com/status-im/nimbus-eth2/commit/9358012b6a419a2fae19c239ee9e0da7882ba592) - 2025-05-10
+* [Commit] [rm DepositContractState (#7147)](https://github.com/status-im/nimbus-eth2/commit/f5162d073254019e260c025453a8c02478e3cdef) - 2025-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

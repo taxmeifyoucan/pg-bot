@@ -228,6 +228,8 @@ Team: Reth
 * [Commit] [fix: upgrade legacy](https://github.com/paradigmxyz/reth/commit/948c04ad1a243d0ee824b41f417b769dad30f72a) - 2025-05-09
 * [Commit] [chore: put op conversions in mod op (#16147)](https://github.com/paradigmxyz/reth/commit/4f00ed7bed2dece42182560a96dd9f50980a5b59) - 2025-05-10
 * [Pull Request] [chore: put op conversions in mod op](https://github.com/paradigmxyz/reth/pull/16147) - 2025-05-10
+* [Commit] [chore: phase out reth-primitives (#16151)](https://github.com/paradigmxyz/reth/commit/2767ffd3bd215abbfa766f5e61c17876de8078f3) - 2025-05-11
+* [Pull Request] [chore: phase out reth-primitives](https://github.com/paradigmxyz/reth/pull/16151) - 2025-05-11
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

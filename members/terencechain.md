@@ -49,6 +49,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Update hoodie boot nodes](https://github.com/OffchainLabs/prysm/pull/15240) - 2025-05-01
 * [Commit] [Add column identifiers by root request](https://github.com/OffchainLabs/prysm/commit/e4b614c9c000881e251d29176993c2bc1c8c10b7) - 2025-05-05
 * [Commit] [Fix join to avoid recursive call](https://github.com/OffchainLabs/prysm/commit/a88f237ffcef732b6c9153cbe07ea28e91d9e740) - 2025-05-10
+* [Pull Request] [Proposer cancel validator main run loop](https://github.com/OffchainLabs/prysm/pull/15265) - 2025-05-11
+* [Pull Request] [Remove unused code](https://github.com/OffchainLabs/prysm/pull/15264) - 2025-05-11
+* [Commit] [Refactor lc handlers tests (#15177)](https://github.com/OffchainLabs/prysm/commit/e4acab41878f6812441139e3574af01e127d4c29) - 2025-05-11
+* [Commit] [Better flags](https://github.com/OffchainLabs/prysm/commit/999e38c80a887b6d10a9f237158b16a69b015970) - 2025-05-11
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

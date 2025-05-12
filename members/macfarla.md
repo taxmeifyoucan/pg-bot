@@ -35,6 +35,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Update CHANGELOG for release 25.5.0  (#8613)](https://github.com/hyperledger/besu/commit/993a0fc466cd64f4a8b05b4f9d57111a8d379249) - 2025-05-09
 * [Pull Request] [Update CHANGELOG for release 25.5.1 ](https://github.com/hyperledger/besu/pull/8613) - 2025-05-09
 * [Issue] [Release 25.5.1](https://github.com/hyperledger/besu/issues/8610) - 2025-05-09
+* [Pull Request] [ephemery to 60M gas limit](https://github.com/hyperledger/besu/pull/8622) - 2025-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

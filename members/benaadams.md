@@ -183,6 +183,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add back trace](https://github.com/NethermindEth/nethermind/commit/210c0e18d21de0d80fab28bdc7a5cfdbf80afcc9) - 2025-05-06
 * [Commit] [Pass PruningConfig to triestore (#8598)](https://github.com/NethermindEth/nethermind/commit/e17b3eaef02428f1cfddf7e1345d7f0b9a4f636b) - 2025-05-10
 * [Commit] [Tidy up](https://github.com/NethermindEth/nethermind/commit/4f0c35485abec575f96d61330af90b3aac82c720) - 2025-05-10
+* [Commit] [tidy up](https://github.com/NethermindEth/nethermind/commit/8c01db22e5eee945fdcd3cef51587622bb072fc9) - 2025-05-11
+* [Commit] [Tidy up](https://github.com/NethermindEth/nethermind/commit/5612d1eec5885eaf873b506f179d69f8f882d608) - 2025-05-11
+* [Commit] [refactor](https://github.com/NethermindEth/nethermind/commit/9751bc72fdf3483b73f62b53bfe02a5184ca0fad) - 2025-05-11
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

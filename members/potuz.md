@@ -38,6 +38,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Force duties update on received blocks.](https://github.com/OffchainLabs/prysm/commit/d8d859ddfcc5e103d18dda07d1c27eb3315f852d) - 2025-05-06
 * [Commit] [Force duties update on received blocks.](https://github.com/OffchainLabs/prysm/commit/046d1211671ade64797349d7e9ffecac6b724b5c) - 2025-05-06
 * [Pull Request] [Force duties update on received blocks.](https://github.com/OffchainLabs/prysm/pull/15251) - 2025-05-06
+* [Pull Request] [Remove unused fieldparams](https://github.com/OffchainLabs/prysm/pull/15263) - 2025-05-11
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

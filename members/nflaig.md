@@ -129,6 +129,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: fix prompt in launch config to test current file (#7791)](https://github.com/ChainSafe/lodestar/commit/6dae670fba2bfac0b3c1fd8557867c529bd70332) - 2025-05-08
 * [Commit] [refactor: reorg state-transition metrics (#7577)](https://github.com/ChainSafe/lodestar/commit/0463a14aa47171063aa5fb5452db6a91bcd7e59a) - 2025-05-08
 * [Commit] [test: use vitest workspace to run all tests (#7610)](https://github.com/ChainSafe/lodestar/commit/c91cd9c141699a1bcfe3a81354d1d74a2aecd1c0) - 2025-05-09
+* [Pull Request] [chore: increase timeout when downloading spec tests to 1 hour](https://github.com/ChainSafe/lodestar/pull/7813) - 2025-05-11
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
