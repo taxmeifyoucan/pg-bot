@@ -22,3 +22,5 @@ protocolguild/documentation
 status-im/nimbus-eth1
 ipsilon/eof
 ethereumjs/ethereumjs-monorepo
+ethereum/trin
+ethereum/glados 
