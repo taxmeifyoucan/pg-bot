@@ -53,6 +53,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Remove unused code](https://github.com/OffchainLabs/prysm/pull/15264) - 2025-05-11
 * [Commit] [Refactor lc handlers tests (#15177)](https://github.com/OffchainLabs/prysm/commit/e4acab41878f6812441139e3574af01e127d4c29) - 2025-05-11
 * [Commit] [Better flags](https://github.com/OffchainLabs/prysm/commit/999e38c80a887b6d10a9f237158b16a69b015970) - 2025-05-11
+* [Commit] [Add blob schedule support](https://github.com/OffchainLabs/prysm/commit/787a9044940d6000703615a26d5acd3e6540bd28) - 2025-05-12
+* [Commit] [Add blob schedule support](https://github.com/OffchainLabs/prysm/commit/815868eb4c5da693e2ee1ff4c95c84e5aef1f9da) - 2025-05-12
+* [Pull Request] [Add blob schedule support](https://github.com/OffchainLabs/prysm/pull/15272) - 2025-05-12
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

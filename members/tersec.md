@@ -115,6 +115,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm DepositsMerkleizer](https://github.com/status-im/nimbus-eth2/pull/7146) - 2025-05-10
 * [Commit] [rm DepositTreeSnapshot type (#7145)](https://github.com/status-im/nimbus-eth2/commit/9358012b6a419a2fae19c239ee9e0da7882ba592) - 2025-05-10
 * [Commit] [rm DepositContractState (#7147)](https://github.com/status-im/nimbus-eth2/commit/f5162d073254019e260c025453a8c02478e3cdef) - 2025-05-11
+* [Commit] [rm beacon_chain/el/deposit_contract.nim, replaced by ncli_testnet (#7155)](https://github.com/status-im/nimbus-eth2/commit/6fd972620c0bbb39242ea5861ad7aaa430144090) - 2025-05-12
+* [Pull Request] [rm beacon_chain/el/deposit_contract.nim, replaced by ncli_testnet](https://github.com/status-im/nimbus-eth2/pull/7155) - 2025-05-12
+* [Commit] [rm DepositContractState (#7147)](https://github.com/status-im/nimbus-eth2/commit/f5162d073254019e260c025453a8c02478e3cdef) - 2025-05-12
+* [Commit] [local testnets always start at Deneb or newer (#7148)](https://github.com/status-im/nimbus-eth2/commit/0769fc7a20f6f285947e8651a7fc755cc149c8e7) - 2025-05-12
+* [Pull Request] [local testnets always start at Deneb or newer](https://github.com/status-im/nimbus-eth2/pull/7148) - 2025-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 
@@ -126,6 +131,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [`nrpc` logs with estimated completion time from bps (#3254)](https://github.com/status-im/nimbus-eth1/commit/99201cbad88392e1e7cbc8ffc118d72e95df607b) - 2025-05-04
 * [Pull Request] [bump nim-libp2p to v1.9.0](https://github.com/status-im/nimbus-eth1/pull/3256) - 2025-05-04
 * [Commit] [Era files downloader tool (#3255)](https://github.com/status-im/nimbus-eth1/commit/f225dc64017972fde02d15aec28e970e4535066d) - 2025-05-05
+* [Commit] [macOS Sonoma doesn't change oldest support x86 CPU type](https://github.com/status-im/nimbus-eth1/commit/2f4d34a7623436c786c41d41a9faf31db5c593fc) - 2025-05-12
+* [Commit] [copyright year linting](https://github.com/status-im/nimbus-eth1/commit/c2b541173394841b39665e3daae13ae318a9e75b) - 2025-05-12
+* [Pull Request] [fix some Nim 2.2 warnings](https://github.com/status-im/nimbus-eth1/pull/3276) - 2025-05-12
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -45,6 +45,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Add ToPooledList<T>(this ReadOnlySpan<T> span)](https://github.com/NethermindEth/nethermind/commit/790bd3c6a380516cf79859e069b679c88202fdca) - 2025-05-05
 * [Commit] [Unify ordering logic, move to ArrayPoolList for enumerator collection](https://github.com/NethermindEth/nethermind/commit/d4994b18def1af99bf91770770166e377c002f72) - 2025-05-05
 * [Commit] [Update OP Superchain chains (#8584)](https://github.com/NethermindEth/nethermind/commit/2c74e2ff016ec271205eab5f3d42db886852af46) - 2025-05-05
+* [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/b1f4f6d00b4b1a0382950046316b0d5b1bfc6031) - 2025-05-12
+* [Commit] [Auto-update fast sync settings (#8612)](https://github.com/NethermindEth/nethermind/commit/f50bd54c974da13bf22bb296af18697c446ecccb) - 2025-05-12
+* [Commit] [Update OP Superchain chains (#8611)](https://github.com/NethermindEth/nethermind/commit/f77b91a1a3ca5842c58b9609c8bfb794f7c6970e) - 2025-05-12
+* [Pull Request] [Fix long running test fuzzing OOM](https://github.com/NethermindEth/nethermind/pull/8615) - 2025-05-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

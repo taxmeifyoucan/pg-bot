@@ -19,5 +19,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] [plug a few finalized FCU gaps](https://github.com/status-im/nimbus-eth1/pull/3257) - 2025-05-04
 * [Commit] [`nrpc` logs with estimated completion time from bps (#3254)](https://github.com/status-im/nimbus-eth1/commit/99201cbad88392e1e7cbc8ffc118d72e95df607b) - 2025-05-08
+* [Commit] [Add empty / miss lru cache](https://github.com/status-im/nimbus-eth1/commit/6939b1c1e2a3057ee5a586a1589ad6864d78f02b) - 2025-05-12
+* [Pull Request] [Remove account leaf cache](https://github.com/status-im/nimbus-eth1/pull/3275) - 2025-05-12
+* [Commit] [Fluffy: Add min gossip peers parameter to state bridge and other improvements (#3268)](https://github.com/status-im/nimbus-eth1/commit/4ba3ec5032b2e865ae81822a894682e73ce05587) - 2025-05-12
+* [Pull Request] [metrics: bump](https://github.com/status-im/nimbus-eth1/pull/3274) - 2025-05-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Old head sent in LC sync mode](https://github.com/status-im/nimbus-eth2/issues/7119) - 2025-05-04

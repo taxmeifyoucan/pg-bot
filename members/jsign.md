@@ -14,6 +14,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementers Call #34](https://github.com/ethereum/pm/issues/1452) - 2025-04-11
 
+* [Issue] [Stateless Implementers Call #36](https://github.com/ethereum/pm/issues/1538) - 2025-05-12
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/afc7f1334820e3c2addce8bd19fdb9effb4ccef7) - 2025-04-21
 * [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/c11400486f81c07c44e91f82540902d39f70908b) - 2025-04-21

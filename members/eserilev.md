@@ -20,6 +20,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Move work queue structs and initialization logic to a separate file](https://github.com/sigp/lighthouse/pull/7438) - 2025-05-12
 * [Pull Request] [Remove reprocess channel](https://github.com/sigp/lighthouse/pull/7437) - 2025-05-11
 * [Commit] [test fixes](https://github.com/sigp/lighthouse/commit/9438ed7add8c677b7927ef371be1d032ec7ba90b) - 2025-05-11
+* [Pull Request] [Single attestation "Full" implementation](https://github.com/sigp/lighthouse/pull/7444) - 2025-05-12
+* [Pull Request] [Next sync committee branch bug](https://github.com/sigp/lighthouse/pull/7443) - 2025-05-12
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

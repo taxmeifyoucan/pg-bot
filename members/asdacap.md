@@ -99,6 +99,22 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix E2ESyncTest](https://github.com/NethermindEth/nethermind/pull/8602) - 2025-05-08
 * [Commit] [Fix build again?](https://github.com/NethermindEth/nethermind/commit/98f37bc825b3be4e15ec24022a791bc60fecbebc) - 2025-05-09
 * [Commit] [Add more check](https://github.com/NethermindEth/nethermind/commit/3843b3c8cd3a9cb4ad7b2b5d074998b1d63e5b76) - 2025-05-10
+* [Pull Request] [Feature/Rework DiscV4](https://github.com/NethermindEth/nethermind/pull/8616) - 2025-05-12
+* [Commit] [Remove content extension](https://github.com/NethermindEth/nethermind/commit/917c9d4a00bd145388e44207942582be8fa25093) - 2025-05-12
+* [Commit] [Additional todo](https://github.com/NethermindEth/nethermind/commit/2302278dd548b85a60f42c7584c1e20413c39b63) - 2025-05-12
+* [Commit] [Refactor/Explicit message serializer registration (#8604)](https://github.com/NethermindEth/nethermind/commit/3283d0d5d31efebf8f57405caef4cf53a310faf4) - 2025-05-12
+* [Commit] [Fix/parallel block downloader (#8587)](https://github.com/NethermindEth/nethermind/commit/f2abd37951ea12df9b3c8c8e7f462dcb7fe3ab24) - 2025-05-12
+* [Commit] [Fix trie tests (#8614)](https://github.com/NethermindEth/nethermind/commit/b3092cb2b66d128fe664c01e6a9169ca69e0de4f) - 2025-05-12
+* [Commit] [Screw it.](https://github.com/NethermindEth/nethermind/commit/5b34a84356bf2527243d6b6e78abaaeb68b1b755) - 2025-05-12
+* [Commit] [You know, if you could just reproduce locally, this would be faster.](https://github.com/NethermindEth/nethermind/commit/d7332f0484c1ff04b111272386074bc16db4e17a) - 2025-05-12
+* [Commit] [Back to memory](https://github.com/NethermindEth/nethermind/commit/ac116e4be1052bf1418832584a6682fbb96405bc) - 2025-05-12
+* [Commit] [Ok, how about nwo?](https://github.com/NethermindEth/nethermind/commit/1973fde36858583328549a4fc0206c7a1a794ea5) - 2025-05-12
+* [Commit] [What if I copy it first](https://github.com/NethermindEth/nethermind/commit/2d94e977ac4d16b69fbf574d239dcb961bc000f6) - 2025-05-12
+* [Commit] [How about now?](https://github.com/NethermindEth/nethermind/commit/1478673845ce4d5bccaee85f7fc7253d2ea6bb3d) - 2025-05-12
+* [Commit] [Does this work?](https://github.com/NethermindEth/nethermind/commit/08ca34e2c86dd9036628ff97999ad8daebc769ae) - 2025-05-12
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/feb974974eb884130119a4d13bc823f9c98169f5) - 2025-05-12
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/7f4d4a510c2581f8d89681c1d6723ee274551add) - 2025-05-12
+* [Pull Request] [Fix trie tests](https://github.com/NethermindEth/nethermind/pull/8614) - 2025-05-12
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

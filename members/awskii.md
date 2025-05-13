@@ -108,6 +108,8 @@ Team: Erigon
 * [Pull Request] [prune mode flag parsing and `String()`-ing](https://github.com/erigontech/erigon/pull/14882) - 2025-05-05
 * [Commit] [Nitro-erigon: Use ArbOS constants instead of literals (#14907)](https://github.com/erigontech/erigon/commit/385197d899e99617c130544eae8c482a1019c2a6) - 2025-05-06
 * [Commit] [Forks are detected based on arbos version (#14964)](https://github.com/erigontech/erigon/commit/e9397a7b4aad0ea4a6f98f03a6e8b77fe814b40d) - 2025-05-09
+* [Commit] [Blob pricing arbos (#14998)](https://github.com/erigontech/erigon/commit/bd2530fc84ac51b46765fa9dad63b874322bec96) - 2025-05-12
+* [Commit] [parse arbos 40 txtype 0x4 authorizationList](https://github.com/erigontech/erigon/commit/d1888a474e14c36fd7c2c2c7acbed985a070df34) - 2025-05-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

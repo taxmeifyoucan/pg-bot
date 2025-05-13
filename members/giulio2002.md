@@ -139,6 +139,7 @@ Team: Erigon
 * [Commit] [Docker rely on el network flag 2 (#14914)](https://github.com/erigontech/erigon/commit/0ac15d50d17b449c3b730501b31886c7241c870d) - 2025-05-10
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9824db778864585ace919ede3226cc6067c80b96) - 2025-05-10
 * [Commit] [Erigon: optimistic inclusion for deep reorgs (#14875)](https://github.com/erigontech/erigon/commit/3147663e5907b89638764a1ea00ac701f1e36819) - 2025-05-10
+* [Commit] [Cherry-Pick: Erigon: optimistic inclusion for deep reorgs #14875 (#14876)](https://github.com/erigontech/erigon/commit/12d5689c6e8d73fd94073b4c547dbbfd7798b7b3) - 2025-05-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

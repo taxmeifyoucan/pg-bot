@@ -51,6 +51,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix checking for transactions in block](https://github.com/NethermindEth/nethermind/commit/8373eae0a8c60e8e4d060f1b096e66d5f3936986) - 2025-05-09
 * [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/53e189cd4962848dc5df8d6f51486d1b271f5c69) - 2025-05-09
 * [Commit] [update package](https://github.com/NethermindEth/nethermind/commit/39db37bc88657535ef06344e441c6c3004bc456d) - 2025-05-09
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
+* [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

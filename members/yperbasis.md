@@ -127,6 +127,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Revert "rpcdaemon: merge PR 14869 on 3.0 (re-use getReceipt() on logs… (#14966)](https://github.com/erigontech/erigon/commit/642f4fbb7d5b1e911ddd4b04a3dc2db6bd6dfbd5) - 2025-05-09
 * [Commit] [Cherrypick: Caplin: Fix misc issues after electra (#14910) (#14935)](https://github.com/erigontech/erigon/commit/f1f633682cc404a78aa68569ed529150cd7d787b) - 2025-05-09
 * [Commit] [Disable diagnostics by default (#14953)](https://github.com/erigontech/erigon/commit/fd085106fb3f2e2ed0b8b707d17750efc8a4bb64) - 2025-05-09
+* [Commit] [mv testlog from turbo to erigon-lib](https://github.com/erigontech/erigon/commit/b23da23f3f9e0bbc5c4f9f82c80696abe5bf3072) - 2025-05-12
+* [Commit] [mv Sync to erigon-db](https://github.com/erigontech/erigon/commit/f460eb79e1f4f2e0687311f11830f327a1bf809f) - 2025-05-12
+* [Pull Request] [move `snapshotsync` from `turbo` to `erigon-db`](https://github.com/erigontech/erigon/pull/15016) - 2025-05-12
+* [Commit] [mv rpc.BlockNumber to erigon-lib](https://github.com/erigontech/erigon/commit/9b272ae7b699dfdbf45c0c0a64f8ba804f9ba732) - 2025-05-12
+* [Issue] [Implement EIP-7823: Set upper bounds for MODEXP](https://github.com/erigontech/erigon/issues/15015) - 2025-05-12
+* [Issue] [Implement EIP-7883: ModExp Gas Cost Increase](https://github.com/erigontech/erigon/issues/15014) - 2025-05-12
+* [Issue] [Implement EIP-7594: include cell proofs in network wrapper of blob txs](https://github.com/erigontech/erigon/issues/15013) - 2025-05-12
+* [Commit] [gitignore coverage-test.out](https://github.com/erigontech/erigon/commit/2be1dcc3e77daad4460ea455f7f17bb2a860229d) - 2025-05-12
+* [Commit] [mv BlocksFreezing to erigon-db](https://github.com/erigontech/erigon/commit/23354d9c3eb394ef3dfa6fc91225a7ef78e8eaf9) - 2025-05-12
+* [Commit] [move core/snaptype from core to erigon-db](https://github.com/erigontech/erigon/commit/bd40a1e5134298f36b03b56bb90a06b35ec0a46a) - 2025-05-12
+* [Commit] [remove dependency on params in tests](https://github.com/erigontech/erigon/commit/db1ca34bc610aec6102c4e6d2810634149c07421) - 2025-05-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

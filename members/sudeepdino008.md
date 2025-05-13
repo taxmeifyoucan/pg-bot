@@ -107,6 +107,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/904cdc3f65775a0ee98072e2dda011be40e7da90) - 2025-05-09
 * [Pull Request] [wip: salt manager](https://github.com/erigontech/erigon/pull/14963) - 2025-05-09
 * [Issue] [salt reload for blocks (and other entities)](https://github.com/erigontech/erigon/issues/14962) - 2025-05-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/95944be1a75a2f3fb185322c44bfe589c2db4fa5) - 2025-05-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2efe94663ac0cd47a26fbb1fd4bda36ecb32b97f) - 2025-05-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

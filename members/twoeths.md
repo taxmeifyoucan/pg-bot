@@ -73,6 +73,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: fix comments](https://github.com/ChainSafe/lodestar/commit/85d3cf586736131e58f052bccb799063a218a365) - 2025-04-29
 * [Pull Request] [Te/peer das fix genesis sync](https://github.com/ChainSafe/lodestar/pull/7760) - 2025-04-29
 * [Issue] [Network thread performance issue due to async randomness](https://github.com/ChainSafe/lodestar/issues/7801) - 2025-05-07
+* [Commit] [fix: handle empty partial download - peerDAS (#7720)](https://github.com/ChainSafe/lodestar/commit/6f41bcbc9543434479966c4c7346e1b018bfec71) - 2025-05-12
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -26,6 +26,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [reject old format tx acceptance](https://github.com/ethereumjs/ethereumjs-monorepo/commit/361e9973039a25a37c48091bda2aa81b69d8eccf) - 2025-05-08
 * [Commit] [remove old format transactions](https://github.com/ethereumjs/ethereumjs-monorepo/commit/71fd34dc77419b22f55e72842fa2e1651050cb26) - 2025-05-08
 * [Commit] [more debug log](https://github.com/ethereumjs/ethereumjs-monorepo/commit/621d70de48e76f7a762d5148c2b681fcf38c5e60) - 2025-05-08
+* [Commit] [exclude selection of 7594 txs if hardfork not yet happened](https://github.com/ethereumjs/ethereumjs-monorepo/commit/18e0ad6f6659d9011da3709727a368c8293e241d) - 2025-05-12
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

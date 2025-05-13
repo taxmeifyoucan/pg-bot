@@ -20,6 +20,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Update 4844 examples to cancun](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4058) - 2025-05-03
 * [Issue] [We should allow `[0]` for `chainId` and `yParity` in EIP 7702 authorization lists](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4057) - 2025-05-03
 * [Pull Request] [Update 4844 docs](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4065) - 2025-05-05
+* [Commit] [use correct import](https://github.com/ethereumjs/ethereumjs-monorepo/commit/6116c36171280716f5918ece5cdf747b667c7e0a) - 2025-05-12
+* [Pull Request] [Add initial implementation of RIP7212](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4075) - 2025-05-12
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

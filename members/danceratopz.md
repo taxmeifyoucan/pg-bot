@@ -174,6 +174,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [chore(packaging): publish `hive.py` as a package](https://github.com/ethereum/execution-spec-tests/issues/1560) - 2025-05-06
 * [Issue] [chore(packaging): include the pytest (eest command) ini files as package data](https://github.com/ethereum/execution-spec-tests/issues/1559) - 2025-05-06
 * [Commit] [docs(cli): add help to specify the token via github cli](https://github.com/ethereum/execution-spec-tests/commit/2a5fc8824f90cde13d7704795185155722bcca37) - 2025-05-06
+* [Commit] [Deployed d07c5fad0b to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/fdbf2caa034461a18ed6948ade623c3619379b5a) - 2025-05-12
+* [Commit] [Deployed 3131f662dd to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8f10a692f4f0f5e608f3f6df9d0a1b2308b043e7) - 2025-05-12
+* [Commit] [WIP](https://github.com/ethereum/execution-spec-tests/commit/c5c7f091a6bdba25bee530fcbebce9ab73eb52da) - 2025-05-12
+* [Commit] [WIP](https://github.com/ethereum/execution-spec-tests/commit/da2daf9be4265f17f22198f3cfa81c756599c375) - 2025-05-12
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

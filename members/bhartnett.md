@@ -48,3 +48,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Use block header instead of stateRoot in async evm backend.](https://github.com/status-im/nimbus-eth1/commit/d8a1f942a9d802041c810b90ae1bb2a70b024225) - 2025-05-09
 * [Pull Request] [Fluffy: Move AsyncEvmStateBackend into separate file and update documentation in comments.](https://github.com/status-im/nimbus-eth1/pull/3271) - 2025-05-09
 * [Commit] [Update documentation/comments.](https://github.com/status-im/nimbus-eth1/commit/ff1205f5116f132bcd0f5c005a047087c2762abd) - 2025-05-09
+* [Commit] [Rollback change to handleFindNodes.](https://github.com/status-im/nimbus-eth1/commit/b675a8cf411e260fe0d46089d17a967215617586) - 2025-05-12
+* [Commit] [Fix test.](https://github.com/status-im/nimbus-eth1/commit/42001c7b6bf79a6346c6ecb02ac3e3a5af166e7a) - 2025-05-12
+* [Commit] [Filter out local and src nodes.](https://github.com/status-im/nimbus-eth1/commit/f80d6bec4979fa28e01ba92990e1fa5954464cdf) - 2025-05-12
+* [Pull Request] [Fluffy: Use neighboursInRange in neighborhoodGossip and handFindContent](https://github.com/status-im/nimbus-eth1/pull/3273) - 2025-05-12
+* [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/40ff3bfc1969a89ea2be432ef922a5a4ecdfa5fe) - 2025-05-12
+* [Commit] [Use neighboursInRange in handleFindContent.](https://github.com/status-im/nimbus-eth1/commit/033d93b59b92211b56b47c3d3096c110692ad57e) - 2025-05-12

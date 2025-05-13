@@ -78,6 +78,12 @@ Team: Reth
 * [Commit] [adjust the hashed seek skip condition](https://github.com/paradigmxyz/reth/commit/3db72161f6de10439969a921ff9a91108d01aa01) - 2025-05-07
 * [Commit] [adjust the hashed seek skip condition](https://github.com/paradigmxyz/reth/commit/bc272ee6931e4e59ace7f3782833f59ff065d33c) - 2025-05-07
 * [Commit] [revert skip hashed seek check](https://github.com/paradigmxyz/reth/commit/d54994494f79b7b96dbadb1c0a8b9afb1a5ddc91) - 2025-05-09
+* [Commit] [check changed paths in cursor subnode to set the position correctly](https://github.com/paradigmxyz/reth/commit/5ef4837d05db2ef34ce954f2294f2dc9d7ac44c5) - 2025-05-12
+* [Commit] [chore(trie): import crate::TrieType](https://github.com/paradigmxyz/reth/commit/b5d97acd903ce23ddf5a7ad39786ab2704906f7f) - 2025-05-12
+* [Commit] [Revert "do not skip leaf nodes that were modified"](https://github.com/paradigmxyz/reth/commit/9688baaa47e2ae104598352d58afd7a86bdae28e) - 2025-05-12
+* [Commit] [do not skip leaf nodes that were modified](https://github.com/paradigmxyz/reth/commit/347011409710369ab993aa3010c91159d71502cd) - 2025-05-12
+* [Commit] [Revert "feat(cli): keep alive for Tokio threads"](https://github.com/paradigmxyz/reth/commit/eca526b7ba5875d809de61222f79d84ad4c5853c) - 2025-05-12
+* [Pull Request] [feat: set keep alive for Tokio threads](https://github.com/paradigmxyz/reth/pull/16162) - 2025-05-12
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -75,6 +75,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Save LC Finality and Optimistic Updates in LC Store When Processing Block (#15124)](https://github.com/OffchainLabs/prysm/commit/c9e870198701292bf18817b6c50bd2d67372f23b) - 2025-05-01
 * [Commit] [Update hoodie boot nodes (#15240)](https://github.com/OffchainLabs/prysm/commit/204302a821da57632ec4e2d89126a21f00bd2817) - 2025-05-02
 * [Commit] [Increase sepolia gas limit to 60m (#15253)](https://github.com/OffchainLabs/prysm/commit/b4a66a09933007af2ff25a8970daaaf810896038) - 2025-05-09
+* [Commit] [accidently commented out and checked in, reverting change](https://github.com/OffchainLabs/prysm/commit/d81964eee1ab611020418f6f3b3bd0829cbd53c9) - 2025-05-12
+* [Commit] [Remove unused fieldparams (#15263)](https://github.com/OffchainLabs/prysm/commit/0251fd78e98e245715a50906a1119db4328afdff) - 2025-05-12
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

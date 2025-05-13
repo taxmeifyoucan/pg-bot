@@ -91,6 +91,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: use v2 attestation apis even pre-electra (#7758)](https://github.com/ChainSafe/lodestar/commit/9f1d8d65fd688b8bd620f226a3af006e409030fc) - 2025-05-07
 * [Commit] [Update the log order](https://github.com/ChainSafe/lodestar/commit/158b99a39c6f739c416d833a6812dc2ab09cf264) - 2025-05-07
 * [Commit] [fix(reqresp): update reqresp behavior for timeout (#7800)](https://github.com/ChainSafe/lodestar/commit/0f6a8b1a7711b4ad39b01192aa0ad94aea2b315f) - 2025-05-07
+* [Pull Request] [feat: parallelize block building steps](https://github.com/ChainSafe/lodestar/pull/7815) - 2025-05-12
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

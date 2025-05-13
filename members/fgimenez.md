@@ -85,6 +85,14 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [doc](https://github.com/paradigmxyz/reth/commit/878d64ebde9b9e3b41792f33c9fe5e8757dfeb79) - 2025-05-07
 * [Commit] [bump deps](https://github.com/paradigmxyz/reth/commit/66cb11722ee2fc4a235edd85214e9a84b2bc226f) - 2025-05-08
 * [Commit] [feat: add precompile cache for execution (#15928)](https://github.com/paradigmxyz/reth/commit/2054a37b02a622f49f17c3f566330253b1a2b1b8) - 2025-05-09
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/6693ca9f2d2fdc9e9c21ec1130f9b5d2bea1013d) - 2025-05-12
+* [Pull Request] [feat: make maintain loop more reusable](https://github.com/paradigmxyz/reth/pull/16177) - 2025-05-12
+* [Commit] [docs](https://github.com/paradigmxyz/reth/commit/b4cf2d7d805bd1395882aab09ef39ca1f17326e8) - 2025-05-12
+* [Pull Request] [chore: extract TreeState to separate submodule](https://github.com/paradigmxyz/reth/pull/16172) - 2025-05-12
+* [Commit] [chore: extract TreeState to separate submodule](https://github.com/paradigmxyz/reth/commit/505ec077993c1b7075875c5fca6e1bd1753a78e8) - 2025-05-12
+* [Pull Request] [chore: update hive expected failures](https://github.com/paradigmxyz/reth/pull/16167) - 2025-05-12
+* [Pull Request] [chore: remove redundant NodeTypes bounds](https://github.com/paradigmxyz/reth/pull/16160) - 2025-05-12
+* [Pull Request] [fix: prevent memory bloat during extended finalization periods](https://github.com/paradigmxyz/reth/pull/16157) - 2025-05-12
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

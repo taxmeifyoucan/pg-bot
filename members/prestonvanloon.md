@@ -25,6 +25,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Revert "Implement all needed KZG wrappers for peerDAS in the `kzg` package. (#15186)"](https://github.com/OffchainLabs/prysm/pull/15244) - 2025-05-02
 * [Commit] [Remove comment](https://github.com/OffchainLabs/prysm/commit/7d8138a33b80e7b6f068581013f6cdfb7847e51e) - 2025-05-05
 * [Commit] [Use context in prometheus service](https://github.com/OffchainLabs/prysm/commit/e7534fbf31b17bfde1931d31a514ae6412d7a6fa) - 2025-05-05
+* [Pull Request] [tracing: Add spans to various methods related to GetDuties](https://github.com/OffchainLabs/prysm/pull/15271) - 2025-05-12
+* [Pull Request] [Changelog v6.0.2](https://github.com/OffchainLabs/prysm/pull/15270) - 2025-05-12
+* [Commit] [Turn on lc gossip (#15220)](https://github.com/OffchainLabs/prysm/commit/6df476835ce68fe3c17c3997fbbf3db7558170bc) - 2025-05-12
+* [Pull Request] [Changelog v6.0.1](https://github.com/OffchainLabs/prysm/pull/15269) - 2025-05-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm team contact info](https://github.com/ethereum/pm/pull/1484) - 2025-04-17
 ## Q1 2025

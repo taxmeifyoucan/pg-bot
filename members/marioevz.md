@@ -84,6 +84,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(clis/reth,evmone): Exception mapper fixes](https://github.com/ethereum/execution-spec-tests/commit/78171bab134d32a49f1d6042cb1a81317cfe726b) - 2025-05-05
 * [Commit] [fix(pytest): Add logging plugin to execute](https://github.com/ethereum/execution-spec-tests/commit/621126f2a6cce8deec1c6e3ca3f364cf7676f211) - 2025-05-06
 * [Pull Request] [feat(plugins/execute): Deferred eoa funding](https://github.com/ethereum/execution-spec-tests/pull/1566) - 2025-05-06
+* [Commit] [feat(tests): port intrinsic transaction gas tests from Ori (#1535)](https://github.com/ethereum/execution-spec-tests/commit/33df23d6d4c2b965162af99b7d98fe0b87a02ed1) - 2025-05-12
+* [Commit] [fix(tests): EIP-7702: use penultimate block number instead of fixing block 0 (#1390)](https://github.com/ethereum/execution-spec-tests/commit/d07c5fad0b22a12829d8637a31846e6791a794a9) - 2025-05-12
+* [Commit] [chore(all): move eof from osaka to unscheduled. (#1507)](https://github.com/ethereum/execution-spec-tests/commit/3131f662dd49436afe2f7c385cdbc576954198ad) - 2025-05-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

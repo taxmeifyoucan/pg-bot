@@ -27,6 +27,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add test for previous case.](https://github.com/status-im/nimbus-eth2/commit/4aace607e1c329bd650b1d95326bc65b30d25b45) - 2025-04-29
 * [Commit] [replace:`DataColumnIdentifier` -> `DataColumnsByRootIdentifier` while root requesting (#7117)](https://github.com/status-im/nimbus-eth2/commit/94efe335fe5773ad44ae7a46f81940937f7cd50b) - 2025-05-05
 * [Commit] [Fix put(openArray) check if len(sidecars) fits in quarantine, add test for this issue.](https://github.com/status-im/nimbus-eth2/commit/55cdd7731abb08b45bfb64ac2bd3e7aa6216d86a) - 2025-05-05
+* [Commit] [Fix compilation warning introduced.](https://github.com/status-im/nimbus-eth2/commit/3fc3bc5083d700cf80976ec373495d851432c65b) - 2025-05-12
+* [Commit] [Address review comments.](https://github.com/status-im/nimbus-eth2/commit/1c91d9d48fdf369cec4773a3077bc741db1442b9) - 2025-05-12
+* [Commit] [rm EIP-4881 deposit snapshot support (#7144)](https://github.com/status-im/nimbus-eth2/commit/55b01674e19de6e2e178a2ca082e2d4aad7309e4) - 2025-05-12
+* [Commit] [Eliminate slot handling facilities.](https://github.com/status-im/nimbus-eth2/commit/58a71f1ac728de1167902ca92b368e12c791c21c) - 2025-05-12
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -39,6 +39,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Force duties update on received blocks.](https://github.com/OffchainLabs/prysm/commit/046d1211671ade64797349d7e9ffecac6b724b5c) - 2025-05-06
 * [Pull Request] [Force duties update on received blocks.](https://github.com/OffchainLabs/prysm/pull/15251) - 2025-05-06
 * [Pull Request] [Remove unused fieldparams](https://github.com/OffchainLabs/prysm/pull/15263) - 2025-05-11
+* [Commit] [add test](https://github.com/OffchainLabs/prysm/commit/fe9abaedcaa415291b9dcfff38a1b960383cafef) - 2025-05-12
+* [Commit] [add Snappy](https://github.com/OffchainLabs/prysm/commit/8fc27953e31baeafdcf154ce88096f9fefd3c8a0) - 2025-05-12
+* [Commit] [add Snappy](https://github.com/OffchainLabs/prysm/commit/147dbe3a51d4e95ffaf3d6c0eca963773e376cd2) - 2025-05-12
+* [Commit] [Add function to apply diff](https://github.com/OffchainLabs/prysm/commit/d3986fe59c7bc8ffa6d89bbe18fb34738234adac) - 2025-05-12
+* [Commit] [Add function to apply diff](https://github.com/OffchainLabs/prysm/commit/594851b98b9726c0ad140c6fec06c26cf83739c3) - 2025-05-12
+* [Commit] [add new context for roles](https://github.com/OffchainLabs/prysm/commit/b32a569043cb028f987c9fd78e2a371cadb3eed2) - 2025-05-12
+* [Commit] [fix e2e panic](https://github.com/OffchainLabs/prysm/commit/8d340fff03747df5e1d8b47efccca780fbadbfdf) - 2025-05-12
+* [Commit] [don't cancel immediately](https://github.com/OffchainLabs/prysm/commit/625e4714fe6900e7ee24ca5f863eb2d76db553e7) - 2025-05-12
+* [Commit] [Terence's review](https://github.com/OffchainLabs/prysm/commit/2a648db72e38c1f1e3df365f78037d0401dac9fa) - 2025-05-12
+* [Pull Request] [Use independent context when updating domain data](https://github.com/OffchainLabs/prysm/pull/15268) - 2025-05-12
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

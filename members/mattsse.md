@@ -230,6 +230,19 @@ Team: Reth
 * [Pull Request] [chore: put op conversions in mod op](https://github.com/paradigmxyz/reth/pull/16147) - 2025-05-10
 * [Commit] [chore: phase out reth-primitives (#16151)](https://github.com/paradigmxyz/reth/commit/2767ffd3bd215abbfa766f5e61c17876de8078f3) - 2025-05-11
 * [Pull Request] [chore: phase out reth-primitives](https://github.com/paradigmxyz/reth/pull/16151) - 2025-05-11
+* [Issue] [Make builder types configurable in OpAddOns(Builder)](https://github.com/paradigmxyz/reth/issues/16176) - 2025-05-12
+* [Pull Request] [feat: add fns to map engine builders](https://github.com/paradigmxyz/reth/pull/16171) - 2025-05-12
+* [Issue] [add alloy_consensus::SignerRecoverable to SingedTransaction super trait](https://github.com/paradigmxyz/reth/issues/16170) - 2025-05-12
+* [Issue] [Make maintain loop more reusable](https://github.com/paradigmxyz/reth/issues/16166) - 2025-05-12
+* [Issue] [add](https://github.com/paradigmxyz/reth/issues/16164) - 2025-05-12
+* [Commit] [chore: replace filteredParams with Filterset (#16077)](https://github.com/paradigmxyz/reth/commit/96e959ca206a640f5bd676ddd7cadb0fef16eac0) - 2025-05-12
+* [Commit] [chore: pin revm deps (#16118)](https://github.com/paradigmxyz/reth/commit/5c07c0e858d77585c9e4c2dea9430c700c44147c) - 2025-05-12
+* [Commit] [perf: batch create sender ids (#16134)](https://github.com/paradigmxyz/reth/commit/a12a296ebad2083b0de59a7bc383a786bb25890c) - 2025-05-12
+* [Commit] [perf: dont alloc on delegation limit check (#16135)](https://github.com/paradigmxyz/reth/commit/6250f65120c95b63d26270bc81bde030262ab770) - 2025-05-12
+* [Commit] [chore: bump alloy 0.15.11 (#16163)](https://github.com/paradigmxyz/reth/commit/e5ce98014a8b0ce6501f11ed751400e95e810bf8) - 2025-05-12
+* [Pull Request] [chore: bump alloy 0.15.11](https://github.com/paradigmxyz/reth/pull/16163) - 2025-05-12
+* [Commit] [test: handle commit event properly by pool maintaining (#16125)](https://github.com/paradigmxyz/reth/commit/db885ccae8ccd3a6c41e4c77b1e19c29fd756d14) - 2025-05-12
+* [Issue] [Make gas_limit setting an option](https://github.com/paradigmxyz/reth/issues/16158) - 2025-05-12
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

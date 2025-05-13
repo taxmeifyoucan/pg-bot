@@ -19,6 +19,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [remove ported to .py intrinsic tests](https://github.com/ethereum/tests/pull/1488) - 2025-05-05
 * [Pull Request] [refill all prague using latest evmone](https://github.com/ethereum/tests/pull/1489) - 2025-05-07
 * [Commit] [update index](https://github.com/ethereum/tests/commit/45ee93d18acfd1f88b150d17b8cf874d067a706a) - 2025-05-09
+* [Commit] [remove calldataload and calldatasize tests](https://github.com/ethereum/tests/commit/0686f00fa1d33ee00fcbac74ce84fb3440a0e443) - 2025-05-12
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [fix(fill --collect-only): allow running fill --collect-only even when fixtures folder does not exist (#1254)](https://github.com/ethereum/execution-spec-tests/commit/5242f8a27323345f0365c47edf48124ba8b21e30) - 2025-04-28
 * [Commit] [refactor with test program class](https://github.com/ethereum/execution-spec-tests/commit/2e849b3ddc445bf40525d46ccc4982948f1b3069) - 2025-04-29
@@ -33,3 +34,5 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [enable blockchain test converted coverage support](https://github.com/ethereum/execution-spec-tests/pull/1554) - 2025-05-06
 * [Issue] [static test filler missing coinbase](https://github.com/ethereum/execution-spec-tests/issues/1570) - 2025-05-07
 * [Issue] [In generated tests reference-spec-version field miss 0x prefix](https://github.com/ethereum/execution-spec-tests/issues/1569) - 2025-05-07
+* [Pull Request] [add converted test marker to pytest](https://github.com/ethereum/execution-spec-tests/pull/1590) - 2025-05-12
+* [Commit] [feat(tests): converting calldataload and calldatasize tests (#1236)](https://github.com/ethereum/execution-spec-tests/commit/244852ffe01025a9a8e97747822f6d4592eb7a86) - 2025-05-12

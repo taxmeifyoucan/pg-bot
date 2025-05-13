@@ -115,6 +115,8 @@ Team: Erigon
 * [Pull Request] [Update kurtosis test LH version](https://github.com/erigontech/erigon/pull/14969) - 2025-05-09
 * [Commit] [Save](https://github.com/erigontech/erigon/commit/276d453b71becd15ccc3e38b1b017f7ebbae23ef) - 2025-05-09
 * [Pull Request] [txpool: allow higher nonce in pool with existing SetcodeTxn](https://github.com/erigontech/erigon/pull/14968) - 2025-05-09
+* [Issue] [Implement Cell proofs and Networking related changes on Txpool for PeerDAS (EIP-7594)](https://github.com/erigontech/erigon/issues/15012) - 2025-05-12
+* [Issue] [Implement PeerDAS (EIP-7594) related Execution API changes](https://github.com/erigontech/erigon/issues/15010) - 2025-05-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

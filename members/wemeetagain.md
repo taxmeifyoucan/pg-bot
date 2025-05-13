@@ -33,6 +33,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add params and config](https://github.com/ChainSafe/lodestar/commit/cd424d883d332cce9465c192088623822bf55c0f) - 2025-04-30
 * [Commit] [chore: apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/918fd17875600bab4290f1916bf31337cc39b5dc) - 2025-04-30
 * [Pull Request] [feat: fulu types](https://github.com/ChainSafe/lodestar/pull/7774) - 2025-04-30
+* [Pull Request] [chore: remove node_modules from actions cache](https://github.com/ChainSafe/lodestar/pull/7820) - 2025-05-12
+* [Commit] [feat: block input additive refactor (#7776)](https://github.com/ChainSafe/lodestar/commit/3658525884d660f25e9efe89ed775f9bb181fa85) - 2025-05-12
+* [Issue] [Use latest bls spec tests](https://github.com/ChainSafe/lodestar/issues/7818) - 2025-05-12
+* [Pull Request] [chore: use digital ocean to store spec tests](https://github.com/ChainSafe/lodestar/pull/7817) - 2025-05-12
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

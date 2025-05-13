@@ -61,6 +61,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Clean up generator runner](https://github.com/ethereum/consensus-specs/pull/4301) - 2025-05-06
 * [Pull Request] [Refactor `kzg_4844` generator](https://github.com/ethereum/consensus-specs/pull/4300) - 2025-05-06
 * [Commit] [Refactor bls generator (#4304)](https://github.com/ethereum/consensus-specs/commit/621fbf31f6a7619f205ffca67df39666c106aa36) - 2025-05-09
+* [Commit] [Introduce blob schedule (#4277)](https://github.com/ethereum/consensus-specs/commit/ae96ca2ba8bb99e124efa6b9806f2225f34eebca) - 2025-05-12
+* [Commit] [Fix typos in blob configuration comments for fulu presets (#4311)](https://github.com/ethereum/consensus-specs/commit/221f5891f7c98221e864e0793a3d8ef6935a9dcb) - 2025-05-12
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

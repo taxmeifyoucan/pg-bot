@@ -19,3 +19,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix lint](https://github.com/erigontech/erigon/commit/04dca3524951df0d503c9d29236231329ddebad9) - 2025-05-11
 * [Commit] [Update kurtosis test LH version (#14969)](https://github.com/erigontech/erigon/commit/c7e929c6aa63120fbc0a26833422602d30311749) - 2025-05-11
 * [Issue] [TestEvmRun: failing on macOS due to timeout](https://github.com/erigontech/erigon/issues/14993) - 2025-05-11
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/312da3fdbc192878909a2725b8c07fbbd6ea7aa0) - 2025-05-12
+* [Commit] [skip flaky test](https://github.com/erigontech/erigon/commit/00c7483458037815650cb613aaa89ac46dc2f3e1) - 2025-05-12
+* [Issue] [bor_test: panic: db closed](https://github.com/erigontech/erigon/issues/15017) - 2025-05-12
+* [Commit] [skip flaky test](https://github.com/erigontech/erigon/commit/9d734e3e69cbb8dc37eecb14884861dd2cf9a77e) - 2025-05-12
+* [Commit] [exclude failing tests](https://github.com/erigontech/erigon/commit/92755122a314a7bb8d6b867bb90eec5fab7d3f8d) - 2025-05-12
+* [Issue] [Unit tests: fatal error: too many address space collisions for -race mode](https://github.com/erigontech/erigon/issues/15007) - 2025-05-12

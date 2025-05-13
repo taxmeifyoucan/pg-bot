@@ -75,6 +75,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/0cbdfb7d5eca483e1c058c131b41f34680a926b9) - 2025-05-07
 * [Commit] [fix test](https://github.com/erigontech/erigon/commit/419e9b2c016a3305b5854ab5b27d7c10f2b7f057) - 2025-05-07
 * [Pull Request] [Cherrypick: Caplin: Fix misc issues after electra (#14910)](https://github.com/erigontech/erigon/pull/14935) - 2025-05-08
+* [Commit] [Cherry-Pick: Caplin: fix occassional mev-boost bug (#14991)](https://github.com/erigontech/erigon/commit/2abde6218ba41d8ce668dfdb18c7c62a847a453c) - 2025-05-12
+* [Commit] [Caplin: fix occassional mev-boost bug (#14992)](https://github.com/erigontech/erigon/commit/91affbe421c361b353bc92e0fab80c72e28d06b4) - 2025-05-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

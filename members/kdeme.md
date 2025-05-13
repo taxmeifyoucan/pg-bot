@@ -22,6 +22,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Remove Capella/Deneb HistoricalSummariesWithProof](https://github.com/ethereum/portal-network-specs/commit/3c85e4a808cce91ba734bb0b9073f2e7ac33452a) - 2025-05-05
 * [Commit] [Add gindex definition link + add deprecation info](https://github.com/ethereum/portal-network-specs/commit/87298d759329efe528cc993e2f81da8c344e2b6d) - 2025-05-05
 * [Commit] [Add gindex definition link + add deprecation info](https://github.com/ethereum/portal-network-specs/commit/df3c2130173f6457958c34e19a158c2d1760fd75) - 2025-05-05
+* [Pull Request] [Clarify that HistoricalSummaries must be from finalized state](https://github.com/ethereum/portal-network-specs/pull/402) - 2025-05-12
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Adjust tests for supporting SSZ vector Capella and Deneb HWP](https://github.com/status-im/nimbus-eth1/pull/3240) - 2025-04-25
 

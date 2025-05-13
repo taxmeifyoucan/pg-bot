@@ -26,6 +26,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Improve jdk 24 support and add docker-jdk24 (#9410)](https://github.com/Consensys/teku/commit/3a0e5e63df6f03e89519fc8747b7af9acbf3556c) - 2025-05-11
 * [Pull Request] [Rename `AttestationBitsAggregator` to `AttestationBits`](https://github.com/Consensys/teku/pull/9412) - 2025-05-11
 * [Commit] [Introduce `PooledAttestation` and `PooledAttestationWithData` (#9407)](https://github.com/Consensys/teku/commit/d2b96902fb63c647b8bbb4e2263474525b1abcf5) - 2025-05-11
+* [Issue] [jdk24 compatibility](https://github.com/Consensys/teku/issues/9416) - 2025-05-12
+* [Commit] [[docker-jdk24] SIGHUP handler fix (#9413)](https://github.com/Consensys/teku/commit/92fbcb68649fe8626b54fe9f02dbca28cb780d69) - 2025-05-12
+* [Commit] [Introduce aggregating pool interface (#9414)](https://github.com/Consensys/teku/commit/cee9f3dc44d180993c623d7b6728b78a63fd3bf2) - 2025-05-12
+* [Pull Request] [Introduce aggregating pool interface](https://github.com/Consensys/teku/pull/9414) - 2025-05-12
+* [Pull Request] [[docker-jdk24] SIGHUP handler fix](https://github.com/Consensys/teku/pull/9413) - 2025-05-12
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

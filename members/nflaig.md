@@ -130,6 +130,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: reorg state-transition metrics (#7577)](https://github.com/ChainSafe/lodestar/commit/0463a14aa47171063aa5fb5452db6a91bcd7e59a) - 2025-05-08
 * [Commit] [test: use vitest workspace to run all tests (#7610)](https://github.com/ChainSafe/lodestar/commit/c91cd9c141699a1bcfe3a81354d1d74a2aecd1c0) - 2025-05-09
 * [Pull Request] [chore: increase timeout when downloading spec tests to 1 hour](https://github.com/ChainSafe/lodestar/pull/7813) - 2025-05-11
+* [Commit] [Exlucde ._ files](https://github.com/ChainSafe/lodestar/commit/007a813c3a9b7d603bc69b510f58f70316d63f8b) - 2025-05-12
+* [Commit] [Add max buffer](https://github.com/ChainSafe/lodestar/commit/c68209d089c271afa615bb12d2c411aaae560119) - 2025-05-12
+* [Commit] [Revert "Use child process"](https://github.com/ChainSafe/lodestar/commit/a34910a08a4b5d06441d27ede98faf83e8903eb6) - 2025-05-12
+* [Commit] [Use child process](https://github.com/ChainSafe/lodestar/commit/81b6454061415d36211cf6871d0f449fcb290872) - 2025-05-12
+* [Commit] [Use native tar command](https://github.com/ChainSafe/lodestar/commit/3c7189f4aeab54efc66b8f48d8f3e63d969d6d1c) - 2025-05-12
+* [Commit] [Add log when download is complete](https://github.com/ChainSafe/lodestar/commit/4e55e6e414eee93222d73461a6ecabec93c5d01a) - 2025-05-12
+* [Pull Request] [chore: use native fetch to download spec tests](https://github.com/ChainSafe/lodestar/pull/7816) - 2025-05-12
+* [Pull Request] [feat: minimal changes to parallelize block building steps](https://github.com/ChainSafe/lodestar/pull/7814) - 2025-05-12
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

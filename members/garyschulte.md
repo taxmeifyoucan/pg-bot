@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Commit] [feature:Block Start/End tracing in AbstractBlockProcessor, refactor of BlockProcessor interface (#8549)](https://github.com/hyperledger/besu/commit/c7b30c47e7d6973c74001b21cdeb848b1fe2262c) - 2025-04-15
 * [Pull Request] [plugin-api: TrieLogAccumulator add getAccountValue and getStorageByStorageSlotKey](https://github.com/hyperledger/besu/pull/8556) - 2025-04-16
 * [Pull Request] [Feature/preimage store](https://github.com/hyperledger/besu/pull/7800) - 2025-04-21
+* [Commit] [use correct mining beneficiary in processBlock for blockImport tracing (#8617)](https://github.com/hyperledger/besu/commit/1723877b75125a9c656a6b7abe30781120eafba8) - 2025-05-12
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

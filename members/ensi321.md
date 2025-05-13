@@ -42,6 +42,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [getMaxBlobsPerBlock takes epoch](https://github.com/ChainSafe/lodestar/commit/f4cf9ff6ad7bdc736e72529377cdd84c1ca48fe1) - 2025-05-09
 * [Commit] [fix: use persistent-merkle-tree v1.1.0 (#7621)](https://github.com/ChainSafe/lodestar/commit/706f45e8155ecb4fb6cd501c85b95873ea1b1747) - 2025-05-09
 * [Commit] [Address comment](https://github.com/ChainSafe/lodestar/commit/6fead510d20d4728b60e8707a97efd2e2269fc30) - 2025-05-09
+* [Pull Request] [feat: add weekly run Kurtosis sim test](https://github.com/ChainSafe/lodestar/pull/7821) - 2025-05-12
+* [Commit] [EOF](https://github.com/ChainSafe/lodestar/commit/44780458255779d654873f5c628c30bff7ea8cc5) - 2025-05-12
+* [Commit] [EOF](https://github.com/ChainSafe/lodestar/commit/011291096c08f668013f1fd0fda6e32570c7accd) - 2025-05-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

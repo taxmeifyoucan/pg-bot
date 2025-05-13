@@ -25,6 +25,10 @@ Team: Geth
 * [Commit] [core/types: reduce allocations in tx.EffectiveGasTip (#31598)](https://github.com/ethereum/go-ethereum/commit/0db99f4e409b05c109cffac26c15dd641757a3ab) - 2025-05-09
 * [Pull Request] [WIP: Peerdas devnet 7](https://github.com/ethereum/go-ethereum/pull/31791) - 2025-05-09
 * [Commit] [eth/catalyst: allow duplicate blob hashes (#31788)](https://github.com/ethereum/go-ethereum/commit/8c220595bb91017afcc1b61458e7ef1ef3fa93df) - 2025-05-09
+* [Commit] [crypto/kzg4844: verify cell proofs (#31815)](https://github.com/ethereum/go-ethereum/commit/ff6e518a87907b2c4c67d7c7f2a76224e36177a9) - 2025-05-12
+* [Pull Request] [crypto/kzg4844: verify cell proofs](https://github.com/ethereum/go-ethereum/pull/31815) - 2025-05-12
+* [Pull Request] [core, miner: do not populate receipts field during mining](https://github.com/ethereum/go-ethereum/pull/31813) - 2025-05-12
+* [Commit] [accounts/abi/abigen: remove unnecessary test files (#31804)](https://github.com/ethereum/go-ethereum/commit/c7bdf6b2fe4eae1db035147431147ed54f84fae7) - 2025-05-12
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

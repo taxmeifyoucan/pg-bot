@@ -40,6 +40,10 @@ Team: Reth
 * [Commit] [chore: Explicitly check for failure on expected blocks in ef-tests (#15803)](https://github.com/paradigmxyz/reth/commit/9d3509c8ac62ce547d3690143d1a42cbc4180ff9) - 2025-05-01
 * [Commit] [chore: add flag to enable instrumented state provider](https://github.com/paradigmxyz/reth/commit/56409de1f2bf8614a4843bb66233bcd99006a1b7) - 2025-05-01
 * [Pull Request] [feat(trie): add native packed nibbles representation](https://github.com/paradigmxyz/reth/pull/16131) - 2025-05-09
+* [Commit] [fix(docs): use skip_revealed_nodes in doc comment instead of decode_proof_nodes](https://github.com/paradigmxyz/reth/commit/3ec72291419dee11cd27baec4af1e24081386a5a) - 2025-05-12
+* [Commit] [fix(docs): use skip_revealed_nodes in doc comment instead of decode_proof_nodes](https://github.com/paradigmxyz/reth/commit/cd0a86489d307cf9516049759847cb17e14dc3ca) - 2025-05-12
+* [Pull Request] [fix(tree): add colon to sparse trie task logs](https://github.com/paradigmxyz/reth/pull/16175) - 2025-05-12
+* [Issue] [Increase incremental root threshold by catching up in pieces](https://github.com/paradigmxyz/reth/issues/16173) - 2025-05-12
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
