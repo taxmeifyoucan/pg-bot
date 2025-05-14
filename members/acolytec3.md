@@ -22,6 +22,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Update 4844 docs](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4065) - 2025-05-05
 * [Commit] [use correct import](https://github.com/ethereumjs/ethereumjs-monorepo/commit/6116c36171280716f5918ece5cdf747b667c7e0a) - 2025-05-12
 * [Pull Request] [Add initial implementation of RIP7212](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4075) - 2025-05-12
+* [Commit] [more failed fixes](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c3cc64f8053db0c86f364aafc5897f6af9f8d598) - 2025-05-13
+* [Commit] [webauthn test](https://github.com/ethereumjs/ethereumjs-monorepo/commit/f4e1f02120e831fe30c98773daf7b291fa17014d) - 2025-05-13
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

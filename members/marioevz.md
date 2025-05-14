@@ -87,6 +87,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): port intrinsic transaction gas tests from Ori (#1535)](https://github.com/ethereum/execution-spec-tests/commit/33df23d6d4c2b965162af99b7d98fe0b87a02ed1) - 2025-05-12
 * [Commit] [fix(tests): EIP-7702: use penultimate block number instead of fixing block 0 (#1390)](https://github.com/ethereum/execution-spec-tests/commit/d07c5fad0b22a12829d8637a31846e6791a794a9) - 2025-05-12
 * [Commit] [chore(all): move eof from osaka to unscheduled. (#1507)](https://github.com/ethereum/execution-spec-tests/commit/3131f662dd49436afe2f7c385cdbc576954198ad) - 2025-05-12
+* [Commit] [chore(ci): change link check flow schedule from daily to weekly (#1592)](https://github.com/ethereum/execution-spec-tests/commit/8f468d200017d68300b1feb8b84c31ec62dbcb42) - 2025-05-13
+* [Commit] [feat(ci): add feature skips to main release process (#1596)](https://github.com/ethereum/execution-spec-tests/commit/6a23d3228ceffc5ae2c5d5ce92fa34c97399c561) - 2025-05-13
+* [Commit] [feat(specs/blockchain): Add optional field to exclude postState (#1578)](https://github.com/ethereum/execution-spec-tests/commit/0e1dd2c71723d6d5eafbe2a58a81c6780ba3fa44) - 2025-05-13
+* [Pull Request] [fix(github): Use evmone for zkevm release](https://github.com/ethereum/execution-spec-tests/pull/1595) - 2025-05-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

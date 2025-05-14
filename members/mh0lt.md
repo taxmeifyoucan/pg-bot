@@ -106,6 +106,7 @@ Team: Erigon
 * [Commit] [use exec context in execute](https://github.com/erigontech/erigon/commit/8c957f9e5acb7c9e4b6eaec704b6a64ad318cd1a) - 2025-05-10
 * [Commit] [rationalize create receipt](https://github.com/erigontech/erigon/commit/02e04dd35545b7271a91a0f771702aef31a5b9e0) - 2025-05-11
 * [Commit] [add receipt printer](https://github.com/erigontech/erigon/commit/391e3751c52efb1b1504b273678dd52418981407) - 2025-05-11
+* [Commit] [fixed duplicate transfer logs](https://github.com/erigontech/erigon/commit/4222696d8823f82ca3711c662844b7486b1041b7) - 2025-05-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

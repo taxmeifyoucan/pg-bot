@@ -115,6 +115,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/feb974974eb884130119a4d13bc823f9c98169f5) - 2025-05-12
 * [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/7f4d4a510c2581f8d89681c1d6723ee274551add) - 2025-05-12
 * [Pull Request] [Fix trie tests](https://github.com/NethermindEth/nethermind/pull/8614) - 2025-05-12
+* [Commit] [Cleanup/remove upgreadable peer allocation (#8572)](https://github.com/NethermindEth/nethermind/commit/75808fac9d8d33c0f31a62fdbab8090f3cd846c7) - 2025-05-13
+* [Commit] [Fix editorconfig not applied to C# file. (#8620)](https://github.com/NethermindEth/nethermind/commit/65189ede9b60d3a59fc78bd8a53627c7c67b21cb) - 2025-05-13
+* [Pull Request] [Fix editorconfig not applied](https://github.com/NethermindEth/nethermind/pull/8620) - 2025-05-13
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

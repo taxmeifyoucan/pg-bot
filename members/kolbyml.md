@@ -17,6 +17,11 @@ Team: Portal Network (EF)
 * [Pull Request] [Make ephemeral header neighborhood gossip details more clear](https://github.com/ethereum/portal-network-specs/pull/393) - 2025-04-22
 * [Commit] [Make ephemeral header neighborhood gossip details more clear (#393)](https://github.com/ethereum/portal-network-specs/commit/23dda51f0d60e700b94d6b4f14dc87e7073c38da) - 2025-04-23
 * [Commit] [Move `Neighborhood Gossip`'s `RecursiveFindNodes` requirement to `portal_*PutContent` (#394)](https://github.com/ethereum/portal-network-specs/commit/a9f320dcf7cf698acbe4a80965c3fc255a2afd9c) - 2025-04-25
+
+[ethereum/trin](https://github.com/ethereum/trin)
+* [Commit] [feat: add E2HS head writer (#1804)](https://github.com/ethereum/trin/commit/eb00a65a47ef5b16ff3714af95e630e1c2469e91) - 2025-05-13
+* [Commit] [fix: wasn't able to decode Electra Era BeaconBlock + invalid request_hash() generated (#1820)](https://github.com/ethereum/trin/commit/e655405631a1339fd17c538a45bfecbbbb1a79e0) - 2025-05-13
+* [Pull Request] [fix: wasn't able to decode Electra Era BeaconBlock + invalid request_hash() generated](https://github.com/ethereum/trin/pull/1820) - 2025-05-13
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

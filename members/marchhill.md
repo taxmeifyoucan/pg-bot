@@ -52,6 +52,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/53e189cd4962848dc5df8d6f51486d1b271f5c69) - 2025-05-09
 * [Commit] [update package](https://github.com/NethermindEth/nethermind/commit/39db37bc88657535ef06344e441c6c3004bc456d) - 2025-05-09
 
+* [Commit] [Update libp2p package (#8534)](https://github.com/NethermindEth/nethermind/commit/473dcb3f9f6625430f73bc88055a842e034f0d0e) - 2025-05-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

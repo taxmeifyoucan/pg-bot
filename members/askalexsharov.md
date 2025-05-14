@@ -1357,6 +1357,34 @@ Team: Erigon
 * [Pull Request] [[r31] publishable: log error ](https://github.com/erigontech/erigon/pull/15009) - 2025-05-12
 * [Pull Request] [[r30] publishable: log error](https://github.com/erigontech/erigon/pull/15008) - 2025-05-12
 * [Commit] [[r31] persist receipt - external rpcd support  (#15005)](https://github.com/erigontech/erigon/commit/e1fba12aa0e861a5e0709fd32976574295dba780) - 2025-05-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4d5a740fdae35f0b22d12db99771ba97fd3d9c70) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f54cf18d7fd37c9212da60aa83be6190cbabc4fc) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/86097b4d8f30bf3d438739d3bdf31dd343f55568) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/04cb1b33b798cf08256fe399f64b4eb7cd349c00) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/29f63996a147e1ebcc209a4ea8f36ca553891210) - 2025-05-13
+* [Pull Request] [reload salt in integration and rpcd](https://github.com/erigontech/erigon/pull/15026) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7d2e6274c2e2d47020ba78eb9093cce34927956f) - 2025-05-13
+* [Commit] [[r30] rpcdaemon: reuse getReceipt() to improve performance (#14986)](https://github.com/erigontech/erigon/commit/10da03b7315084dfdce06a3d0753bb1b7713ff03) - 2025-05-13
+* [Commit] [Docker rely on el network flag 2 (#14914)](https://github.com/erigontech/erigon/commit/0ac15d50d17b449c3b730501b31886c7241c870d) - 2025-05-13
+* [Commit] [[r30] eth_getLogs use receipt generator (#15011)](https://github.com/erigontech/erigon/commit/949a6fc11a6e28ae0494123fe43a60d4711a3e4a) - 2025-05-13
+* [Commit] [[r30] rcache missed 0-txn receipt (#15023)](https://github.com/erigontech/erigon/commit/7f68ee2ee13655c5889df3b62130fc56f7baa692) - 2025-05-13
+* [Pull Request] [[r30] rcache missed 0-txn receipt](https://github.com/erigontech/erigon/pull/15023) - 2025-05-13
+* [Pull Request] [[r30] rcache missed 0-txn receipt](https://github.com/erigontech/erigon/pull/15022) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/05c570d6803c375e753612b10ca78eff196aeb0d) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fd332fec9c18ba37dda772c4909dbd0dd00c0e60) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/50df6adc5f7827edea1773e5aab2041b77149199) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/28a0885f3b185a2f805f5a4cff7829826e773082) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7490d2ea7401e80e95a516a038672e9d4fa8f20e) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/28570e993f1176e105c86aad1aaa6ec4643abe33) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9fc4336c922f7560d59391e5096bd6dbc512f756) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b19ee66a0468e556f8e38a96ebd324977d803dde) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/13d8116fed100828df3715d28669067d6476d5ea) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2d0f28f4bfbafc8c8c48d602a3f205d150f77c6d) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/31fc6e9d3899a5cb97ad12e8e67432caf0ecc434) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/473365f58ed50d8c0ced108cced3ecc1227f8023) - 2025-05-13
+* [Issue] [re-check notifications about new files from Erigon to external Rpcd](https://github.com/erigontech/erigon/issues/15020) - 2025-05-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3678aa7631befccfa2b179daf95f8ef0f31441fe) - 2025-05-13
+* [Commit] [[r30] publishable: log error (#15008)](https://github.com/erigontech/erigon/commit/0a3f8de19b0b823c4580eeae68ae6006045c3fee) - 2025-05-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

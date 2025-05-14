@@ -31,6 +31,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Address review comments.](https://github.com/status-im/nimbus-eth2/commit/1c91d9d48fdf369cec4773a3077bc741db1442b9) - 2025-05-12
 * [Commit] [rm EIP-4881 deposit snapshot support (#7144)](https://github.com/status-im/nimbus-eth2/commit/55b01674e19de6e2e178a2ca082e2d4aad7309e4) - 2025-05-12
 * [Commit] [Eliminate slot handling facilities.](https://github.com/status-im/nimbus-eth2/commit/58a71f1ac728de1167902ca92b368e12c791c21c) - 2025-05-12
+* [Commit] [track execution requests for builder API (#7103)](https://github.com/status-im/nimbus-eth2/commit/ab82386b3b2ee25e60ded3fdce934a7ef928528d) - 2025-05-13
+* [Commit] [Address review comments.](https://github.com/status-im/nimbus-eth2/commit/d7d6b5304b1f4bc1fa590a3cea880ee246877654) - 2025-05-13
+* [Commit] [Update AllTests.](https://github.com/status-im/nimbus-eth2/commit/07ce2126a9ad904eb8dbc91515f4f85c53da7607) - 2025-05-13
+* [Commit] [Remove duplication checks in Request Manager getMissingBlobs() loop.](https://github.com/status-im/nimbus-eth2/commit/995ebf417c6d52c4ec18477b360200bafda78296) - 2025-05-13
+* [Commit] [Remove asSeq(), add optimized iterator with tests.](https://github.com/status-im/nimbus-eth2/commit/cda8613fd0b3fa13694737593afdf613a9620350) - 2025-05-13
+* [Commit] [Fix put() duplicate items making counters wrong.](https://github.com/status-im/nimbus-eth2/commit/982e62a16019c6ef6ff1d24b240be076be4e4fe0) - 2025-05-13
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

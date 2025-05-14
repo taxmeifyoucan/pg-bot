@@ -138,6 +138,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add log when download is complete](https://github.com/ChainSafe/lodestar/commit/4e55e6e414eee93222d73461a6ecabec93c5d01a) - 2025-05-12
 * [Pull Request] [chore: use native fetch to download spec tests](https://github.com/ChainSafe/lodestar/pull/7816) - 2025-05-12
 * [Pull Request] [feat: minimal changes to parallelize block building steps](https://github.com/ChainSafe/lodestar/pull/7814) - 2025-05-12
+* [Commit] [refactor: move validator monitor metrics to validator monitor (#7722)](https://github.com/ChainSafe/lodestar/commit/ae617bff281cd4c2f37d72957a47cc1870946326) - 2025-05-13
+* [Commit] [feat: update weak subjectivity calculation for electra (#7735)](https://github.com/ChainSafe/lodestar/commit/d92238fd8432980a7a4b9dce259c04076293ce8b) - 2025-05-13
+* [Issue] [Verify checksum of downloaded spec tests tarball](https://github.com/ChainSafe/lodestar/issues/7823) - 2025-05-13
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

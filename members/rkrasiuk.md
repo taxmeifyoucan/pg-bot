@@ -35,5 +35,8 @@ Team: Reth
 * [Commit] [chore(trie): make `RevealedNode` usable externally (#15691)](https://github.com/paradigmxyz/reth/commit/e8c4c623b02459cdde93fd6409f7cfef4a766e23) - 2025-04-18
 * [Commit] [chore: alloy 0.14 (#15635)](https://github.com/paradigmxyz/reth/commit/58fe204ff2abae6b1ef63edfcf2cf30e8bf8dd8d) - 2025-04-18
 * [Commit] [feat(era): add `Era1Writer` (#15577)](https://github.com/paradigmxyz/reth/commit/16027eace8fb381b47aa382f3c4e4b744cea2019) - 2025-04-18
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/63756c637d5b3fc654fb69302fff1a94b06aa73f) - 2025-05-13
+* [Pull Request] [feat(txpool): track osaka activation](https://github.com/paradigmxyz/reth/pull/16184) - 2025-05-13
+* [Pull Request] [chore(txpool): activate prague by default](https://github.com/paradigmxyz/reth/pull/16183) - 2025-05-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16

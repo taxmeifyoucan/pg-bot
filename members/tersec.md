@@ -120,6 +120,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rm DepositContractState (#7147)](https://github.com/status-im/nimbus-eth2/commit/f5162d073254019e260c025453a8c02478e3cdef) - 2025-05-12
 * [Commit] [local testnets always start at Deneb or newer (#7148)](https://github.com/status-im/nimbus-eth2/commit/0769fc7a20f6f285947e8651a7fc755cc149c8e7) - 2025-05-12
 * [Pull Request] [local testnets always start at Deneb or newer](https://github.com/status-im/nimbus-eth2/pull/7148) - 2025-05-12
+* [Commit] [Refactored version of BlobSidecar/DataColumnSidecar quarantine. (#7100)](https://github.com/status-im/nimbus-eth2/commit/7965d4094ee4c7e9644c75e5ada488163317e5bb) - 2025-05-13
+* [Commit] [mark --finalized-deposit-tree-snapshot command-line option as deprecated (#7159)](https://github.com/status-im/nimbus-eth2/commit/1d1a80f9465370173ebeec99a9873a6fa18d759c) - 2025-05-13
+* [Pull Request] [mark --finalized-deposit-tree-snapshot command-line option as deprecated](https://github.com/status-im/nimbus-eth2/pull/7159) - 2025-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

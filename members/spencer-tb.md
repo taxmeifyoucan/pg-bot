@@ -75,6 +75,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [new(tests/zkevm): keccak worst-case (#1497)](https://github.com/ethereum/execution-spec-tests/commit/fce88dd124bdf0bee502681a9c64103abce95902) - 2025-05-05
 * [Commit] [temp.](https://github.com/ethereum/execution-spec-tests/commit/c4c2f33f22d9062fc831badc6cd23ffc85b73fe8) - 2025-05-05
 * [Issue] [chore: update eip version checker to use github trees api](https://github.com/ethereum/execution-spec-tests/issues/1555) - 2025-05-06
+* [Commit] [docs: update changelog.](https://github.com/ethereum/execution-spec-tests/commit/5c4f9c6b103a36d3204aeccd7ecc5e72c0fb130a) - 2025-05-13
+* [Pull Request] [feat(ci): add feature skips to main release process](https://github.com/ethereum/execution-spec-tests/pull/1596) - 2025-05-13
+* [Commit] [fix(github): Use evmone for zkevm release (#1595)](https://github.com/ethereum/execution-spec-tests/commit/14c1cf04c0421eb68a0c6757c60e968ffca54346) - 2025-05-13
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

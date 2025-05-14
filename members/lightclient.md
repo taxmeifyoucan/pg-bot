@@ -27,6 +27,7 @@ Team: Geth
 * [Commit] [Add EIP: Count leading zeros (CLZ) opcode (#9701)](https://github.com/ethereum/EIPs/commit/ef1a4dd914726ec4af20b706d1ec44e19fca4fd9) - 2025-04-29
 * [Commit] [Add gas limit increase EIP (#9678)](https://github.com/ethereum/EIPs/commit/636a22783f9bbbd21003be2424a75b5d76adee0a) - 2025-05-02
 * [Pull Request] [7912: fix typo, add optimization](https://github.com/ethereum/EIPs/pull/9724) - 2025-05-05
+* [Commit] [Update EIP-5792: fix typo (#9770)](https://github.com/ethereum/EIPs/commit/7a29ce57611824f03b2cb0e7c5dabd44c15cfd4d) - 2025-05-13
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

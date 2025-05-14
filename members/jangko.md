@@ -29,3 +29,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Verify state root in batch of 4 blocks](https://github.com/status-im/nimbus-eth1/commit/fd4f379c9950f0fc8027d8a5a2f07524751ec0a0) - 2025-05-07
 * [Commit] [Update FC.baseTxFrame after txFrame persisted (#3272)](https://github.com/status-im/nimbus-eth1/commit/14d597e07858baf1fe18ff67605ed674c118a33d) - 2025-05-10
 * [Pull Request] [Update FC.baseTxFrame after txFrame persisted](https://github.com/status-im/nimbus-eth1/pull/3272) - 2025-05-10
+* [Commit] [Update peer observer](https://github.com/status-im/nimbus-eth1/commit/3099fd6cea2ffa3970ea806426bbffe78884f69a) - 2025-05-13
+* [Commit] [Update syncer addObserver](https://github.com/status-im/nimbus-eth1/commit/5bdfebc40b160e8baad84bb9afa28b4847cdccf5) - 2025-05-13
+* [Commit] [Fix tests](https://github.com/status-im/nimbus-eth1/commit/826ff97a5d1b3ad42bc5f813f1dac6c3b284d891) - 2025-05-13
+* [Pull Request] [Support multiple wire protocol version and implement eth/68 + eth/69](https://github.com/status-im/nimbus-eth1/pull/3283) - 2025-05-13

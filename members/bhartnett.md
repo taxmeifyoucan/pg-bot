@@ -54,3 +54,6 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Fluffy: Use neighboursInRange in neighborhoodGossip and handFindContent](https://github.com/status-im/nimbus-eth1/pull/3273) - 2025-05-12
 * [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/40ff3bfc1969a89ea2be432ef922a5a4ecdfa5fe) - 2025-05-12
 * [Commit] [Use neighboursInRange in handleFindContent.](https://github.com/status-im/nimbus-eth1/commit/033d93b59b92211b56b47c3d3096c110692ad57e) - 2025-05-12
+* [Pull Request] [Bump nim-eth to 29ce002cbbf5e0d0b92f154ef37146a8d305cefe](https://github.com/status-im/nimbus-eth1/pull/3285) - 2025-05-13
+* [Pull Request] [Fluffy: Update the state bridge to send each content offer to the closest connected portal client](https://github.com/status-im/nimbus-eth1/pull/3278) - 2025-05-13
+* [Commit] [Minor update.](https://github.com/status-im/nimbus-eth1/commit/2183fabf7a3e4d36c107915b2ebccf9506b339dc) - 2025-05-13

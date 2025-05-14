@@ -23,6 +23,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add gindex definition link + add deprecation info](https://github.com/ethereum/portal-network-specs/commit/87298d759329efe528cc993e2f81da8c344e2b6d) - 2025-05-05
 * [Commit] [Add gindex definition link + add deprecation info](https://github.com/ethereum/portal-network-specs/commit/df3c2130173f6457958c34e19a158c2d1760fd75) - 2025-05-05
 * [Pull Request] [Clarify that HistoricalSummaries must be from finalized state](https://github.com/ethereum/portal-network-specs/pull/402) - 2025-05-12
+* [Commit] [Clarify that HistoricalSummaries must be from finalized state (#402)](https://github.com/ethereum/portal-network-specs/commit/1764e22df2d9a1d9a4f58de6290fcb7d67d203df) - 2025-05-13
+* [Commit] [Address review feedback](https://github.com/ethereum/portal-network-specs/commit/b3ae4cd07ed2f169259f9e7a0c7a3e7ead8714e0) - 2025-05-13
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Adjust tests for supporting SSZ vector Capella and Deneb HWP](https://github.com/status-im/nimbus-eth1/pull/3240) - 2025-04-25
 
@@ -39,6 +41,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Era files downloader tool (#3255)](https://github.com/status-im/nimbus-eth1/commit/f225dc64017972fde02d15aec28e970e4535066d) - 2025-05-06
 * [Commit] [Fix HistoricalSummaries storage in beacon_db (#3265)](https://github.com/status-im/nimbus-eth1/commit/57aab551372ef3ee0d1a8ee3e3ac3b65d0704e76) - 2025-05-07
 * [Pull Request] [Fix HistoricalSummaries storage in beacon_db](https://github.com/status-im/nimbus-eth1/pull/3265) - 2025-05-07
+* [Commit] [Fix number field not accessible when block header by hash (#3282)](https://github.com/status-im/nimbus-eth1/commit/59df5bdde4fb02f14e8d1f9a8a4d727c627792ce) - 2025-05-13
+* [Commit] [Add access from History network to historical summaries (#3281)](https://github.com/status-im/nimbus-eth1/commit/61687a1f26643b6f2975b5d0f2ed684ec8845d7b) - 2025-05-13
+* [Pull Request] [Fix number field not accessible when block header by hash](https://github.com/status-im/nimbus-eth1/pull/3282) - 2025-05-13
+* [Pull Request] [Add access from History network to historical summaries](https://github.com/status-im/nimbus-eth1/pull/3281) - 2025-05-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28

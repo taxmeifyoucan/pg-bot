@@ -84,6 +84,12 @@ Team: Reth
 * [Commit] [do not skip leaf nodes that were modified](https://github.com/paradigmxyz/reth/commit/347011409710369ab993aa3010c91159d71502cd) - 2025-05-12
 * [Commit] [Revert "feat(cli): keep alive for Tokio threads"](https://github.com/paradigmxyz/reth/commit/eca526b7ba5875d809de61222f79d84ad4c5853c) - 2025-05-12
 * [Pull Request] [feat: set keep alive for Tokio threads](https://github.com/paradigmxyz/reth/pull/16162) - 2025-05-12
+* [Commit] [feat(trie): packed nibbles abomination](https://github.com/paradigmxyz/reth/commit/b62c34944a47b8af6229d51199e2b510f32f312e) - 2025-05-13
+* [Commit] [refactor(trie): simplify `PackedNibbles` logic, add more comments](https://github.com/paradigmxyz/reth/commit/080a91165b8b0c215c3b48f8dad661eaa9bca619) - 2025-05-13
+* [Commit] [simplify logic, more comments](https://github.com/paradigmxyz/reth/commit/65a4d7d030023a426a91979a32762196a9c817a1) - 2025-05-13
+* [Commit] [deps(trie): propagate `std` feature to `alloy-trie`](https://github.com/paradigmxyz/reth/commit/5ee8cb1ea8c3e29bcbbbf1d2c2806cd810382858) - 2025-05-13
+* [Issue] [Invalidate state and precompile caches if block re-execution succeeds](https://github.com/paradigmxyz/reth/issues/16192) - 2025-05-13
+* [Commit] [deps(trie): propagate `arbitrary` feature to `alloy-trie`](https://github.com/paradigmxyz/reth/commit/96bd961f86dd0a08734fb6aea700dfac004b6fec) - 2025-05-13
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

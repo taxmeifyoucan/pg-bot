@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Improve Maven artifacts naming to avoid possible collisions with other libs](https://github.com/hyperledger/besu/pull/8589) - 2025-05-05
 * [Commit] [Remove deprecated `MetricsSystem::createLabelledGauge` (#8299)](https://github.com/hyperledger/besu/commit/7cab4bfab5e79ff1b880c6f7a08965593daa6509) - 2025-05-09
 * [Pull Request] [Remove then deprecated `--tx-pool-disable-locals` option](https://github.com/hyperledger/besu/pull/8614) - 2025-05-09
+* [Commit] [Remove the deprecated `--tx-pool-disable-locals` option (#8614)](https://github.com/hyperledger/besu/commit/00a18e2208615604ed693d8d65b7d6142ca367f8) - 2025-05-13
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

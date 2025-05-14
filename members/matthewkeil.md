@@ -59,6 +59,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: add debug logging to action step](https://github.com/ChainSafe/lodestar/commit/205ad2ef2dae4c5783b2bdc94b5a73c325ae9b2e) - 2025-05-12
 * [Commit] [fix: move my blockinput to separate folder for rebase](https://github.com/ChainSafe/lodestar/commit/d3e92594b2035d92bc1acbe16e955f1c38d9a54f) - 2025-05-12
 * [Pull Request] [feat: update @actions/cache@master to main branch](https://github.com/ChainSafe/lodestar/pull/7819) - 2025-05-12
+* [Commit] [fix: use @v4 not @4 and remove debug logging](https://github.com/ChainSafe/lodestar/commit/f156d8a56391888ee6c92cc94ef5de32a4c091e8) - 2025-05-13
+* [Commit] [refactor: deduplicate PeerIdStr type (#7824)](https://github.com/ChainSafe/lodestar/commit/8cb53e44d3bd9272b87157d3d33aa5e4b9edd148) - 2025-05-13
+* [Commit] [refactor: remove file to move to next PR](https://github.com/ChainSafe/lodestar/commit/fa9fb90de200143ac245865048a86130dbb3cc75) - 2025-05-13
+* [Commit] [refactor: remove file to move to next PR](https://github.com/ChainSafe/lodestar/commit/a5978d9b8309648208d729e70ecd09a7a6f3bc9b) - 2025-05-13
+* [Commit] [refactor: remove file to move to next PR](https://github.com/ChainSafe/lodestar/commit/706e87c23e462627c9117802a33d453ee9af562d) - 2025-05-13
+* [Commit] [refactor: remove file to move to next PR](https://github.com/ChainSafe/lodestar/commit/db7a029489e6076ea9f7fdf6e3c6b75ec24b4a71) - 2025-05-13
+* [Pull Request] [refactor: deduplicate PeerIdStr type](https://github.com/ChainSafe/lodestar/pull/7824) - 2025-05-13
+* [Commit] [feat: use release version for actions/cache](https://github.com/ChainSafe/lodestar/commit/fee1421a368d805d5a1f428f7b3dffc39a5d2793) - 2025-05-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

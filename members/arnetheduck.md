@@ -23,5 +23,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Remove account leaf cache](https://github.com/status-im/nimbus-eth1/pull/3275) - 2025-05-12
 * [Commit] [Fluffy: Add min gossip peers parameter to state bridge and other improvements (#3268)](https://github.com/status-im/nimbus-eth1/commit/4ba3ec5032b2e865ae81822a894682e73ce05587) - 2025-05-12
 * [Pull Request] [metrics: bump](https://github.com/status-im/nimbus-eth1/pull/3274) - 2025-05-12
+* [Commit] [fix some Nim 2.2 warnings (#3276)](https://github.com/status-im/nimbus-eth1/commit/8c8a176ccebf2a9509e4c717e248ec0cacd85ad7) - 2025-05-13
+* [Commit] [metrics: bump (#3274)](https://github.com/status-im/nimbus-eth1/commit/d3215efbe9783b05711409c257b1658862fcb348) - 2025-05-13
+* [Pull Request] [Track missing vertex lookups in metrics](https://github.com/status-im/nimbus-eth1/pull/3277) - 2025-05-13
+* [Commit] [eth: bump](https://github.com/status-im/nimbus-eth1/commit/f5092d5a84fe8eba2ecc9a7321ae2e3124ed9e7f) - 2025-05-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Old head sent in LC sync mode](https://github.com/status-im/nimbus-eth2/issues/7119) - 2025-05-04

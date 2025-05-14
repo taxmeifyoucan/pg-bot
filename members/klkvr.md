@@ -44,3 +44,5 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [Cargo.lock](https://github.com/paradigmxyz/reth/commit/4999fa2e5d8110c1dc13a6b1657478ede3fc87ba) - 2025-05-08
 * [Commit] [chore: bump docker lighthouse version for electra (#16103)](https://github.com/paradigmxyz/reth/commit/3a49e4e5391ab34bdb3b98a8ce96e45b99d1ce68) - 2025-05-08
 * [Commit] [bump revm](https://github.com/paradigmxyz/reth/commit/326880bf63fa921468e4329b534ee35fad54ebae) - 2025-05-08
+* [Issue] [Use OP components in custom transaction example](https://github.com/paradigmxyz/reth/issues/16194) - 2025-05-13
+* [Pull Request] [fix: correctly set txtype if `blobVersionedHashes` is present](https://github.com/paradigmxyz/reth/pull/16182) - 2025-05-13

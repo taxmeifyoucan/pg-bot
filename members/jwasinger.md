@@ -25,6 +25,7 @@ Team: Geth
 * [Commit] [Fiixed outdated link and updated code snippet (#31777)](https://github.com/ethereum/go-ethereum/commit/24e04b3eb729000e1d2db78ab85041a1907ecc0f) - 2025-05-08
 * [Commit] [internal/web3ext: remove the legacy backtraceAt method (#31783)](https://github.com/ethereum/go-ethereum/commit/07d073bc5a711ddf40f25c56b54f88badf3c3694) - 2025-05-08
 * [Pull Request] [accounts/abi:  return an error if attempting to pack a negative `big.Int` value for a parameter that is defined as `uint*` in the ABI](https://github.com/ethereum/go-ethereum/pull/31790) - 2025-05-09
+* [Pull Request] [core/vm: implement EIP 7823 - Set upper bounds for MODEXP](https://github.com/ethereum/go-ethereum/pull/31818) - 2025-05-13
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

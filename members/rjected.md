@@ -44,6 +44,10 @@ Team: Reth
 * [Commit] [fix(docs): use skip_revealed_nodes in doc comment instead of decode_proof_nodes](https://github.com/paradigmxyz/reth/commit/cd0a86489d307cf9516049759847cb17e14dc3ca) - 2025-05-12
 * [Pull Request] [fix(tree): add colon to sparse trie task logs](https://github.com/paradigmxyz/reth/pull/16175) - 2025-05-12
 * [Issue] [Increase incremental root threshold by catching up in pieces](https://github.com/paradigmxyz/reth/issues/16173) - 2025-05-12
+* [Commit] [chore(trie): add test for RevealedSparseTrie::clear](https://github.com/paradigmxyz/reth/commit/736f298ea7655ac62dadeff7b4c03887a6cd1736) - 2025-05-13
+* [Commit] [chore(trie): add test for RevealedSparseTrie::clear](https://github.com/paradigmxyz/reth/commit/135ca2b9cc6e78bb6ed1bcd05b40955936a39d81) - 2025-05-13
+* [Commit] [chore(trie): add test for RevealedSparseTrie::clear](https://github.com/paradigmxyz/reth/commit/db9f58edef712286ca41fa14b45eadea7ea989f3) - 2025-05-13
+* [Commit] [chore(trie): rename duplicate DecodedProofNodes and skip_revealed_nodes fn](https://github.com/paradigmxyz/reth/commit/676048284ddfe5e9082559290c96705221eb3b00) - 2025-05-13
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

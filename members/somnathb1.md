@@ -117,6 +117,10 @@ Team: Erigon
 * [Pull Request] [txpool: allow higher nonce in pool with existing SetcodeTxn](https://github.com/erigontech/erigon/pull/14968) - 2025-05-09
 * [Issue] [Implement Cell proofs and Networking related changes on Txpool for PeerDAS (EIP-7594)](https://github.com/erigontech/erigon/issues/15012) - 2025-05-12
 * [Issue] [Implement PeerDAS (EIP-7594) related Execution API changes](https://github.com/erigontech/erigon/issues/15010) - 2025-05-12
+* [Commit] [Hard-code nonce for test txn](https://github.com/erigontech/erigon/commit/e86e610207b8e06deea07e41ba0fbdd072b8f30f) - 2025-05-13
+* [Commit] [Debug log in kurtosis](https://github.com/erigontech/erigon/commit/93e77bfcf6aabb35150b447b9d3d724eecc28cea) - 2025-05-13
+* [Commit] [Fix test](https://github.com/erigontech/erigon/commit/0ad70a19a9c2c508305580c48aa94097ebfba8b4) - 2025-05-13
+* [Commit] [Refactor](https://github.com/erigontech/erigon/commit/ee0a51d0c273555609e6ddeb3b109bc092eecfbc) - 2025-05-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

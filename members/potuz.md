@@ -49,6 +49,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [don't cancel immediately](https://github.com/OffchainLabs/prysm/commit/625e4714fe6900e7ee24ca5f863eb2d76db553e7) - 2025-05-12
 * [Commit] [Terence's review](https://github.com/OffchainLabs/prysm/commit/2a648db72e38c1f1e3df365f78037d0401dac9fa) - 2025-05-12
 * [Pull Request] [Use independent context when updating domain data](https://github.com/OffchainLabs/prysm/pull/15268) - 2025-05-12
+* [Commit] [add larger trusted setup](https://github.com/OffchainLabs/prysm/commit/13ff5ec592aa4fc3b65638beac75a24dacac7c16) - 2025-05-13
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

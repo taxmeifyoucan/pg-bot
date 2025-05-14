@@ -29,6 +29,7 @@ Team: Geth
 * [Pull Request] [crypto/kzg4844: verify cell proofs](https://github.com/ethereum/go-ethereum/pull/31815) - 2025-05-12
 * [Pull Request] [core, miner: do not populate receipts field during mining](https://github.com/ethereum/go-ethereum/pull/31813) - 2025-05-12
 * [Commit] [accounts/abi/abigen: remove unnecessary test files (#31804)](https://github.com/ethereum/go-ethereum/commit/c7bdf6b2fe4eae1db035147431147ed54f84fae7) - 2025-05-12
+* [Pull Request] [params: add bpo forks](https://github.com/ethereum/go-ethereum/pull/31820) - 2025-05-13
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

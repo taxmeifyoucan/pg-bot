@@ -25,3 +25,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [skip flaky test](https://github.com/erigontech/erigon/commit/9d734e3e69cbb8dc37eecb14884861dd2cf9a77e) - 2025-05-12
 * [Commit] [exclude failing tests](https://github.com/erigontech/erigon/commit/92755122a314a7bb8d6b867bb90eec5fab7d3f8d) - 2025-05-12
 * [Issue] [Unit tests: fatal error: too many address space collisions for -race mode](https://github.com/erigontech/erigon/issues/15007) - 2025-05-12
+* [Commit] [ci: race detector in unit tests (#14972)](https://github.com/erigontech/erigon/commit/4408d16506bd4642317a6109dd5ff1eac010a574) - 2025-05-13
+* [Commit] [trigger ci](https://github.com/erigontech/erigon/commit/b99c3890dbcc6017569b38c6aff823cbb1e5ba6d) - 2025-05-13
+* [Commit] [skip flaky tests](https://github.com/erigontech/erigon/commit/57d93c90886119f46f9deecbcdec152ff3d25926) - 2025-05-13
+* [Issue] [TestSharedDomain_CommitmentKeyReplacement/Test_BtreeIndex_Seek2: test timed out after 10m0s](https://github.com/erigontech/erigon/issues/15028) - 2025-05-13
+* [Commit] [fix after review](https://github.com/erigontech/erigon/commit/e8b15d86ce5255d5b0827aa540f4cfe2ff102971) - 2025-05-13
+* [Commit] [[r30] rcache missed 0-txn receipt (#15022)](https://github.com/erigontech/erigon/commit/6f3c22b04f1b7ac5cb98701da1ab06fd849f7856) - 2025-05-13
+* [Commit] [skip failing test](https://github.com/erigontech/erigon/commit/610bb3d2396347ce7989333821861be4dce6318f) - 2025-05-13
+* [Commit] [skip failing tests](https://github.com/erigontech/erigon/commit/03c3439529a5d4f739373dd2610552bcba2af1fa) - 2025-05-13

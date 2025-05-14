@@ -23,6 +23,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Remove support for database migrations prior to schema version v22](https://github.com/sigp/lighthouse/pull/7332) - 2025-04-17
 * [Pull Request] [Bump version for Release v7.0.1](https://github.com/sigp/lighthouse/pull/7374) - 2025-04-29
 * [Pull Request] [Silence `Uninitialized` warn log on start-up](https://github.com/sigp/lighthouse/pull/7411) - 2025-05-07
+* [Commit] [update script for new mergify syntax (#6597)](https://github.com/sigp/lighthouse/commit/dc73791f35dff0484a35ddedba4b58c6ca34c3c9) - 2025-05-13
+* [Pull Request] [Add parking_lot deadlock detection](https://github.com/sigp/lighthouse/pull/7452) - 2025-05-13
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

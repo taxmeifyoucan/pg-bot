@@ -109,6 +109,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [salt reload for blocks (and other entities)](https://github.com/erigontech/erigon/issues/14962) - 2025-05-09
 * [Commit] [save](https://github.com/erigontech/erigon/commit/95944be1a75a2f3fb185322c44bfe589c2db4fa5) - 2025-05-12
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2efe94663ac0cd47a26fbb1fd4bda36ecb32b97f) - 2025-05-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1f6db41706346c0f36e34d7524fee148e50bba02) - 2025-05-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

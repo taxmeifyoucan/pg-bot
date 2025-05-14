@@ -93,6 +93,15 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [chore: update hive expected failures](https://github.com/paradigmxyz/reth/pull/16167) - 2025-05-12
 * [Pull Request] [chore: remove redundant NodeTypes bounds](https://github.com/paradigmxyz/reth/pull/16160) - 2025-05-12
 * [Pull Request] [fix: prevent memory bloat during extended finalization periods](https://github.com/paradigmxyz/reth/pull/16157) - 2025-05-12
+* [Commit] [remove entry](https://github.com/paradigmxyz/reth/commit/d89ca1be9fe690d13509ee0afa29ceea6fca3544) - 2025-05-13
+* [Pull Request] [feat: add PrecompileCacheMap::cache_for_address and test](https://github.com/paradigmxyz/reth/pull/16197) - 2025-05-13
+* [Commit] [feat: add PrecompileCacheMap::cache_for_address and test](https://github.com/paradigmxyz/reth/commit/9312fc6e2e0dda64f609fe553396003960b54931) - 2025-05-13
+* [Commit] [use dedicated type instead of alias](https://github.com/paradigmxyz/reth/commit/2fbe23aeaa958db61eaa14e27569c63c78efe697) - 2025-05-13
+* [Commit] [fix: use different cache instance per precompile](https://github.com/paradigmxyz/reth/commit/75081c83db8ba9728e94eaf58239bfe539da6538) - 2025-05-13
+* [Pull Request] [fix: use different cache instance per precompile](https://github.com/paradigmxyz/reth/pull/16191) - 2025-05-13
+* [Pull Request] [chore(txpool): update comments about prague activation](https://github.com/paradigmxyz/reth/pull/16185) - 2025-05-13
+* [Commit] [chore: update comments about prague activation](https://github.com/paradigmxyz/reth/commit/13f8d085d480f337f45a3a1cfd40be76215e372c) - 2025-05-13
+* [Commit] [feat(txpool): track osaka activation (#16184)](https://github.com/paradigmxyz/reth/commit/7ea80f7404bcdb9e7386cc2634e9a57bfa65aa69) - 2025-05-13
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
