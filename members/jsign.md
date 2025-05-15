@@ -57,6 +57,12 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [Update src/ethereum_test_specs/blockchain.py](https://github.com/ethereum/execution-spec-tests/commit/3ca65f3408df1ffe3d9cfd1717cb5efe8e2917db) - 2025-05-13
 * [Commit] [zkvm: add cold EXTCODEHASH](https://github.com/ethereum/execution-spec-tests/commit/039d200c0ddb7fa4d88991c9dc306fd6712b600b) - 2025-05-13
 * [Commit] [zkevm: include warm test for extcodesize and extcodehash](https://github.com/ethereum/execution-spec-tests/commit/cb27bd0a0de4f6814d7a411d5eee3ef1b12dcb95) - 2025-05-13
+* [Commit] [zkevm: add warm EXTCODECOPY tests](https://github.com/ethereum/execution-spec-tests/commit/3a3605747599a9f6eaba96b742bb9ee2a6808b8d) - 2025-05-14
+* [Commit] [zkvm: add blockhash test](https://github.com/ethereum/execution-spec-tests/commit/cf7cbd78b3e17ead243c4e6efc8be6326dd1a5a8) - 2025-05-14
+* [Commit] [name parameters](https://github.com/ethereum/execution-spec-tests/commit/dfd1f380b08905a443c93355f518299fc1d679cb) - 2025-05-14
+* [Commit] [zkvm: add warm SSTORE/SLOAD](https://github.com/ethereum/execution-spec-tests/commit/615029b091fb30be01449c7d5ed4802ee82e0e4a) - 2025-05-14
+* [Commit] [zkvm: add cold SSTORE/SLOAD](https://github.com/ethereum/execution-spec-tests/commit/4c9445706ad989483b9648bb19b38a5421261c84) - 2025-05-14
+* [Commit] [set gas limit in ci](https://github.com/ethereum/execution-spec-tests/commit/dd465e5d790f1a352bbdbf874c98d5aac6c30ae0) - 2025-05-14
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

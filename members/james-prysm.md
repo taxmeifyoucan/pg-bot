@@ -77,6 +77,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Increase sepolia gas limit to 60m (#15253)](https://github.com/OffchainLabs/prysm/commit/b4a66a09933007af2ff25a8970daaaf810896038) - 2025-05-09
 * [Commit] [accidently commented out and checked in, reverting change](https://github.com/OffchainLabs/prysm/commit/d81964eee1ab611020418f6f3b3bd0829cbd53c9) - 2025-05-12
 * [Commit] [Remove unused fieldparams (#15263)](https://github.com/OffchainLabs/prysm/commit/0251fd78e98e245715a50906a1119db4328afdff) - 2025-05-12
+* [Commit] [Changelog v6.0.1 (#15269)](https://github.com/OffchainLabs/prysm/commit/9e3d73c1c21a35a4b62ebd206c37e77bb2105888) - 2025-05-14
+* [Commit] [spectests: Fix sha256 (#15278)](https://github.com/OffchainLabs/prysm/commit/6f9a93ac8906496e9425e0dc918152ac8791c8e5) - 2025-05-14
+* [Commit] [Add fulu spec tets for ssz static (#15279)](https://github.com/OffchainLabs/prysm/commit/325ec97355a845bfde4b8eea05278f20e0b59676) - 2025-05-14
+* [Commit] [removing reserved based on preston's feedback](https://github.com/OffchainLabs/prysm/commit/caf7c5259ff13209a6f914e81dfb54a1d3129f09) - 2025-05-14
+* [Commit] [reverted too much adding mock change back in](https://github.com/OffchainLabs/prysm/commit/903bac67694e263c9a1ceb733cb4acebc9c39a76) - 2025-05-14
+* [Commit] [tracing: Add spans to various methods related to GetDuties (#15271)](https://github.com/OffchainLabs/prysm/commit/eea53eb6dc1031ae4a987569b3273eb10f230256) - 2025-05-14
+* [Commit] [reverting some changes so we can break it into a separate PR for validator client only](https://github.com/OffchainLabs/prysm/commit/8e449b514e3ce351b1bc4c12efd6b3b4ebfc77c7) - 2025-05-14
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -48,6 +48,8 @@ Team: Reth
 * [Commit] [chore(trie): add test for RevealedSparseTrie::clear](https://github.com/paradigmxyz/reth/commit/135ca2b9cc6e78bb6ed1bcd05b40955936a39d81) - 2025-05-13
 * [Commit] [chore(trie): add test for RevealedSparseTrie::clear](https://github.com/paradigmxyz/reth/commit/db9f58edef712286ca41fa14b45eadea7ea989f3) - 2025-05-13
 * [Commit] [chore(trie): rename duplicate DecodedProofNodes and skip_revealed_nodes fn](https://github.com/paradigmxyz/reth/commit/676048284ddfe5e9082559290c96705221eb3b00) - 2025-05-13
+* [Commit] [chore: make clippy happy](https://github.com/paradigmxyz/reth/commit/a1990ad5b27ab7aa9c22ed46b3707bd461d46895) - 2025-05-14
+* [Commit] [fix: correctly set txtype if `blobVersionedHashes` is present (#16182)](https://github.com/paradigmxyz/reth/commit/d5e61c71d9d15cd9148a6499c92db4806fc8755a) - 2025-05-14
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

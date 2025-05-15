@@ -19,6 +19,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix method invocations](https://github.com/NethermindEth/nethermind/commit/c5b51dd616ed56d230f91207dacfd4305663ff16) - 2025-05-05
 * [Commit] [Remove Nethereum.JsonRpc.RpcClient](https://github.com/NethermindEth/nethermind/commit/3621b96d8ab10798b938e25843f5a227258ae481) - 2025-05-05
 * [Commit] [Fix StateTestTxTracer top-level precompile calls tracing (#8577)](https://github.com/NethermindEth/nethermind/commit/d379cc859de0b343392f6e8ec89a400858cf69a8) - 2025-05-06
+* [Commit] [Add Nethermind.Test.Runner Docker image (#8608)](https://github.com/NethermindEth/nethermind/commit/6f9aed02c931648d332d8f32cd2b5448537c7b74) - 2025-05-14
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

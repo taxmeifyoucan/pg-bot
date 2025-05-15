@@ -1385,6 +1385,16 @@ Team: Erigon
 * [Issue] [re-check notifications about new files from Erigon to external Rpcd](https://github.com/erigontech/erigon/issues/15020) - 2025-05-13
 * [Commit] [save](https://github.com/erigontech/erigon/commit/3678aa7631befccfa2b179daf95f8ef0f31441fe) - 2025-05-13
 * [Commit] [[r30] publishable: log error (#15008)](https://github.com/erigontech/erigon/commit/0a3f8de19b0b823c4580eeae68ae6006045c3fee) - 2025-05-13
+* [Pull Request] [fix indexing count](https://github.com/erigontech/erigon/pull/15047) - 2025-05-14
+* [Commit] [[r30] purify_domains: fix domain naming  (#15045)](https://github.com/erigontech/erigon/commit/56d345ab59214527c541bff64c8eeab77d1f2c79) - 2025-05-14
+* [Commit] [cherry-pick: fix erigon seg retire to handle incomplete merges (#15003)](https://github.com/erigontech/erigon/commit/17c311b47e2d4852ff336430718cc05386e5b929) - 2025-05-14
+* [Pull Request] [[r30] purify_domains: fix domain naming ](https://github.com/erigontech/erigon/pull/15045) - 2025-05-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8b534d874bbdf28068e7a4178df70503989c20b5) - 2025-05-14
+* [Issue] [caplin archive: downloader stuck on existing files](https://github.com/erigontech/erigon/issues/15041) - 2025-05-14
+* [Commit] [[r30] fix linter (#15040)](https://github.com/erigontech/erigon/commit/5d6b4a3e3f692409a660dbef05b07a295490a55f) - 2025-05-14
+* [Commit] [tests: Increase `cmd/evm` tests  subprocess timeout to 30 sec (#15002)](https://github.com/erigontech/erigon/commit/912b495c436bfbca62fd19b63c20ff355740871c) - 2025-05-14
+* [Pull Request] [[r30] fix linter](https://github.com/erigontech/erigon/pull/15040) - 2025-05-14
+* [Commit] [[r30] stage_custom_trace: fix trace for PoW (#15030)](https://github.com/erigontech/erigon/commit/0fe66b4e5801bf7e2177520b2388a0041193d824) - 2025-05-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

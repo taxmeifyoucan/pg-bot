@@ -184,6 +184,24 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 0a1103760c to v4.5.0 with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/78346a78eca446044fe8c94c8a370c4c93dc88bb) - 2025-05-13
 * [Commit] [Deployed 0a1103760c to v4.5.0 with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/44c63187de39c9eeb3ec107b6e72351d2d8744fa) - 2025-05-13
 * [Pull Request] [chore(ci): change link check flow schedule from daily to weekly](https://github.com/ethereum/execution-spec-tests/pull/1592) - 2025-05-13
+* [Commit] [Deployed f6bd1884a0 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/62a7852e4f4674223c54398472478ea7ff60cb35) - 2025-05-14
+* [Commit] [chore(docs): more consistent display of opcodes; fix capitalization](https://github.com/ethereum/execution-spec-tests/commit/f776a886dff5117c93757f51ec7d20f2443c58df) - 2025-05-14
+* [Commit] [Deployed ea94dce8ed to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/db586e431cd292bea47c91e201010436f8109203) - 2025-05-14
+* [Commit] [chore(coverage,ci): remove `GeneralStateTests` from ethereum/tests coverage (#1599)](https://github.com/ethereum/execution-spec-tests/commit/ea94dce8ed3e3fe2f44e0686d4ddcfa3d74f4f21) - 2025-05-14
+* [Commit] [refactor(fill): convert `FixtureOutput` to pydantic model](https://github.com/ethereum/execution-spec-tests/commit/b908fa3f97bd3920d5b9a59e8bb14bf2692ad33e) - 2025-05-14
+* [Commit] [Deployed d848e0686a to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d332412cdf9e4e5b7c1b7dbc539320666eef4e7f) - 2025-05-14
+* [Commit] [feat(tests): EIP-6110 `DepositEvent` layout+topic tests (#1371)](https://github.com/ethereum/execution-spec-tests/commit/275740885f2d5f9b7074b6853dd05eccbb1920b9) - 2025-05-14
+* [Pull Request] [Eip checklist suggestions](https://github.com/ethereum/execution-spec-tests/pull/1601) - 2025-05-14
+* [Commit] [docs: update whitelist](https://github.com/ethereum/execution-spec-tests/commit/1a0e7975d7b69dd5a8f5e4874e62a2c455367fd5) - 2025-05-14
+* [Commit] [Deployed 1620a08469 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3bc89b2d567c658495d7f99b49a730f5dda026ea) - 2025-05-14
+* [Commit] [Deployed 7abf18e1ad to v4.5.0 with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/0ad80d80e9a5ee2027f276043c4e8051ade50786) - 2025-05-14
+* [Commit] [Deployed 5c16cfb82e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8fb6b2729753106cfa356d4c4b8e2949d5849c52) - 2025-05-14
+* [Commit] [fix(solc): don't install `solc` via `solc-select` on ARM; add version sanity check (#1556)](https://github.com/ethereum/execution-spec-tests/commit/5c16cfb82eb8c4b8bb669bf667d08df4fa5343f9) - 2025-05-14
+* [Commit] [Deployed 46fce2ef7e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3e16308a7d1ad8f5e237bc09e29290bb76c4eb6b) - 2025-05-14
+* [Commit] [chore(tooling): bump `uv.lock` revision (#1597)](https://github.com/ethereum/execution-spec-tests/commit/46fce2ef7e5e99065f6e61857c8b807f9c80fccc) - 2025-05-14
+* [Pull Request] [feat(fill,zkevm): suppress high tx gas limit warnings for zkevm tests](https://github.com/ethereum/execution-spec-tests/pull/1598) - 2025-05-14
+* [Commit] [refactor(spec): rename `is_slow_test()` to `is_tx_gas_heavy_test()`](https://github.com/ethereum/execution-spec-tests/commit/c80260ceca3ff02d97ad32ec930a2faac46db8a0) - 2025-05-14
+* [Pull Request] [chore(tooling): bump `uv.lock` revision](https://github.com/ethereum/execution-spec-tests/pull/1597) - 2025-05-14
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

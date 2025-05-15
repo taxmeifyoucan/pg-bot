@@ -91,6 +91,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(ci): add feature skips to main release process (#1596)](https://github.com/ethereum/execution-spec-tests/commit/6a23d3228ceffc5ae2c5d5ce92fa34c97399c561) - 2025-05-13
 * [Commit] [feat(specs/blockchain): Add optional field to exclude postState (#1578)](https://github.com/ethereum/execution-spec-tests/commit/0e1dd2c71723d6d5eafbe2a58a81c6780ba3fa44) - 2025-05-13
 * [Pull Request] [fix(github): Use evmone for zkevm release](https://github.com/ethereum/execution-spec-tests/pull/1595) - 2025-05-13
+* [Commit] [bump ruff and fix vsc ruff warning](https://github.com/ethereum/execution-spec-tests/commit/48db8e72d9de4f90e51f7822a9ac6e049a378d6e) - 2025-05-14
+* [Commit] [refactor(fill): encapsulate fixture output options in `FixtureOutput` class (#1471)](https://github.com/ethereum/execution-spec-tests/commit/f6bd1884a015d7d3bf9eb0f7f7bb178a73d03dea) - 2025-05-14
+* [Commit] [fix: changelog](https://github.com/ethereum/execution-spec-tests/commit/bbeb16728b49b38666ef6fc2fd4ab335a3f037f0) - 2025-05-14
+* [Issue] [Deprecate `--flat-output` option in `fill`](https://github.com/ethereum/execution-spec-tests/issues/1603) - 2025-05-14
+* [Commit] [docs: Move changelog](https://github.com/ethereum/execution-spec-tests/commit/08c291c38de039fdc9f864f29475a092b7904137) - 2025-05-14
+* [Commit] [Eip checklist suggestions (#1601)](https://github.com/ethereum/execution-spec-tests/commit/ae52183ac511991a92753b6119575fd84aceea8c) - 2025-05-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

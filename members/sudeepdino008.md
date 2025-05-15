@@ -110,6 +110,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/95944be1a75a2f3fb185322c44bfe589c2db4fa5) - 2025-05-12
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2efe94663ac0cd47a26fbb1fd4bda36ecb32b97f) - 2025-05-12
 * [Commit] [save](https://github.com/erigontech/erigon/commit/1f6db41706346c0f36e34d7524fee148e50bba02) - 2025-05-13
+* [Commit] [qa-tests: add bor-mainnet to sync-from-scratch (minimal node) test (v3) (#14850)](https://github.com/erigontech/erigon/commit/728300b518510bb9a2d87ca1e411556a397f64c4) - 2025-05-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/75eb21d427b94950b172775e7870b170d9608b43) - 2025-05-14
+* [Pull Request] [wip: notify rpcd when e3 files change](https://github.com/erigontech/erigon/pull/15044) - 2025-05-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b01608cda78ce52bf4dcb0a34408dba7c905c3f5) - 2025-05-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b60b614fb24bdb3b9db608b77b2e6a80df2b9eed) - 2025-05-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8a7925030f7bbf133a6301878afb8ac0642fd4c7) - 2025-05-14
+* [Commit] [Update erigon-lib/state/entity_extras/emptydir.go](https://github.com/erigontech/erigon/commit/edc5a8d5eeb393bc951829079bff5188f8798fa5) - 2025-05-14
+* [Pull Request] [fast fail integration subcommands on missing salt files](https://github.com/erigontech/erigon/pull/15039) - 2025-05-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

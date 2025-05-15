@@ -33,3 +33,5 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Update syncer addObserver](https://github.com/status-im/nimbus-eth1/commit/5bdfebc40b160e8baad84bb9afa28b4847cdccf5) - 2025-05-13
 * [Commit] [Fix tests](https://github.com/status-im/nimbus-eth1/commit/826ff97a5d1b3ad42bc5f813f1dac6c3b284d891) - 2025-05-13
 * [Pull Request] [Support multiple wire protocol version and implement eth/68 + eth/69](https://github.com/status-im/nimbus-eth1/pull/3283) - 2025-05-13
+* [Commit] [Add receipt69 roundtrip test](https://github.com/status-im/nimbus-eth1/commit/be51358235cf7d190232701c007a5f48022dd1c4) - 2025-05-14
+* [Commit] [Handle blockRangeUpdate using peer state](https://github.com/status-im/nimbus-eth1/commit/0ff5128b2825b2642d7c958cf2b43902e5d8db7f) - 2025-05-14

@@ -90,6 +90,16 @@ Team: Reth
 * [Commit] [deps(trie): propagate `std` feature to `alloy-trie`](https://github.com/paradigmxyz/reth/commit/5ee8cb1ea8c3e29bcbbbf1d2c2806cd810382858) - 2025-05-13
 * [Issue] [Invalidate state and precompile caches if block re-execution succeeds](https://github.com/paradigmxyz/reth/issues/16192) - 2025-05-13
 * [Commit] [deps(trie): propagate `arbitrary` feature to `alloy-trie`](https://github.com/paradigmxyz/reth/commit/96bd961f86dd0a08734fb6aea700dfac004b6fec) - 2025-05-13
+* [Pull Request] [DO NOT MERGE: add native packed nibbles representation](https://github.com/paradigmxyz/reth/pull/16239) - 2025-05-14
+* [Commit] [refactor(trie): introduce `CAPACITY_BYTES` constant for `PackedNibbles`](https://github.com/paradigmxyz/reth/commit/5e8c3dd37dca746ea9251011c2b15608f94c4e22) - 2025-05-14
+* [Commit] [perf(trie): optimize `PackedNibbles::starts_with`](https://github.com/paradigmxyz/reth/commit/7d6f4790a39d5de655f7416b15127caa8dafc2ad) - 2025-05-14
+* [Commit] [refactor(trie): use `zip` in `Ord` implementation of `PackedNibbles`](https://github.com/paradigmxyz/reth/commit/9afc823a0e08a7cada828171b3baf2fb4ae82ee2) - 2025-05-14
+* [Commit] [fix(trie): `Ord` implementation for `PackedNibbles`](https://github.com/paradigmxyz/reth/commit/bb78f055783e86ea1bb54174914ae44fef8cbf11) - 2025-05-14
+* [Commit] [test(trie): fix most of the sparse trie tests](https://github.com/paradigmxyz/reth/commit/7276b558dead4b0401a31dd24c6a548269a91125) - 2025-05-14
+* [Commit] [docs(trie): `TODO: optimize` comments for `PackedNibbles`](https://github.com/paradigmxyz/reth/commit/d3965c1a8f1c2eaa8eaa85760ef9d315d6fe522e) - 2025-05-14
+* [Commit] [fix(trie): `Ord` implementation of `PackedNibbles` and `PackedNibbles::extend_path`](https://github.com/paradigmxyz/reth/commit/ecaa602f12114cd4a7628fcc5c8233b2af3f24c0) - 2025-05-14
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/ba71436d54960b82fb652e219b3c9021c61a4f06) - 2025-05-14
+* [Pull Request] [fix(trie): do not panic when logging the current hash of `TrieWalker`](https://github.com/paradigmxyz/reth/pull/16222) - 2025-05-14
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

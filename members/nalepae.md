@@ -82,6 +82,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix Kasey's comment.](https://github.com/OffchainLabs/prysm/commit/3509b70d420a00c4fe362b01a2d137a16711ce50) - 2025-05-10
 * [Commit] [Implement a new solution for subscriber.](https://github.com/OffchainLabs/prysm/commit/55a0de6747653257196f32a41b2687d3d569303d) - 2025-05-10
 * [Pull Request] [Peerdas by root req](https://github.com/OffchainLabs/prysm/pull/15275) - 2025-05-13
+* [Commit] [blabla](https://github.com/OffchainLabs/prysm/commit/41057000959a32301fc548510989dd55eb1f52dd) - 2025-05-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

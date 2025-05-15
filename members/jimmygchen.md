@@ -31,6 +31,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [Update DataColumnSidecarsByRoot request to use DataColumnsByRootIdentifier (#7377)](https://github.com/sigp/lighthouse/commit/4de1a7388575fa6909ee80399020e05c191c0d82) - 2025-05-09
 * [Commit] [initial commit, under test](https://github.com/sigp/lighthouse/commit/5afeb1fdb1b0716b7936887a2ec2e8d8b418a6c9) - 2025-05-10
 * [Commit] [`peerdas-devnet-7`: update `DataColumnSidecarsByRoot` request to use `DataColumnsByRootIdentifier` (#7399)](https://github.com/sigp/lighthouse/commit/593390162f470906c8364d3a4117164a0a438e72) - 2025-05-12
+* [Issue] [Incorrect deneb time calculation used in genesis sync check](https://github.com/sigp/lighthouse/issues/7457) - 2025-05-14
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

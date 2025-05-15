@@ -78,6 +78,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: update changelog.](https://github.com/ethereum/execution-spec-tests/commit/5c4f9c6b103a36d3204aeccd7ecc5e72c0fb130a) - 2025-05-13
 * [Pull Request] [feat(ci): add feature skips to main release process](https://github.com/ethereum/execution-spec-tests/pull/1596) - 2025-05-13
 * [Commit] [fix(github): Use evmone for zkevm release (#1595)](https://github.com/ethereum/execution-spec-tests/commit/14c1cf04c0421eb68a0c6757c60e968ffca54346) - 2025-05-13
+* [Commit] [fix(clis/reth,evmone): Exception mapper fixes (#1549)](https://github.com/ethereum/execution-spec-tests/commit/d848e0686a3347ca61bd39fb52a7997b0fbb3b62) - 2025-05-14
+* [Commit] [feat(exceptions,tests): Add `TransactionException.INTRINSIC_GAS_BELOW_FLOOR_GAS_COST` (#1582)](https://github.com/ethereum/execution-spec-tests/commit/1620a084692f321d4aa34a48f369f8001f9f44a6) - 2025-05-14
+* [Commit] [chore(cli): increase t8n tool timeout. (#1600)](https://github.com/ethereum/execution-spec-tests/commit/7abf18e1ad5970232cf2646481024d8922194ec3) - 2025-05-14
+* [Pull Request] [chore(cli): increase transition tool timeout](https://github.com/ethereum/execution-spec-tests/pull/1600) - 2025-05-14
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

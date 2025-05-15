@@ -22,6 +22,8 @@ Team: Portal Network (EF)
 * [Commit] [feat: add E2HS head writer (#1804)](https://github.com/ethereum/trin/commit/eb00a65a47ef5b16ff3714af95e630e1c2469e91) - 2025-05-13
 * [Commit] [fix: wasn't able to decode Electra Era BeaconBlock + invalid request_hash() generated (#1820)](https://github.com/ethereum/trin/commit/e655405631a1339fd17c538a45bfecbbbb1a79e0) - 2025-05-13
 * [Pull Request] [fix: wasn't able to decode Electra Era BeaconBlock + invalid request_hash() generated](https://github.com/ethereum/trin/pull/1820) - 2025-05-13
+* [Commit] [feat: add latest end of block range option for e2hs bridge (#1822)](https://github.com/ethereum/trin/commit/bf699ebf182af59beadb5d9d7b28e7b506b9c168) - 2025-05-14
+* [Commit] [feat: add docker image for trin-execution (#1823)](https://github.com/ethereum/trin/commit/c569cf40b072c3c85a8b2e1209e5ab3f4b6f3b71) - 2025-05-14
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

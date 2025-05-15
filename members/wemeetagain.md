@@ -37,6 +37,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: block input additive refactor (#7776)](https://github.com/ChainSafe/lodestar/commit/3658525884d660f25e9efe89ed775f9bb181fa85) - 2025-05-12
 * [Issue] [Use latest bls spec tests](https://github.com/ChainSafe/lodestar/issues/7818) - 2025-05-12
 * [Pull Request] [chore: use digital ocean to store spec tests](https://github.com/ChainSafe/lodestar/pull/7817) - 2025-05-12
+* [Commit] [chore: fix broken panels due to missing historical state worker metrics (#7826)](https://github.com/ChainSafe/lodestar/commit/cbebcdc0d5ce60fff2cc2c74d637092b3375557c) - 2025-05-14
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

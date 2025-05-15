@@ -24,6 +24,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [remove ported to .py intrinsic tests](https://github.com/ethereum/tests/commit/2db0128918655c1615eb20163bd2cae70e64f341) - 2025-05-13
 * [Pull Request] [remove test scenarios](https://github.com/ethereum/tests/pull/1490) - 2025-05-13
 * [Commit] [refill all prague using latest evmone](https://github.com/ethereum/tests/commit/3129f16519013b265fa309208f49406b2ef57b13) - 2025-05-13
+* [Commit] [remove general state tests fillers](https://github.com/ethereum/tests/commit/2317dd5dffa2477d63839638bb59ab1216077019) - 2025-05-14
+* [Commit] [remove general state tests](https://github.com/ethereum/tests/commit/613f53571c1b45593671575d1a9181fbbdd65242) - 2025-05-14
+* [Pull Request] [Remove gst](https://github.com/ethereum/tests/pull/1492) - 2025-05-14
+* [Pull Request] [remove general state tests](https://github.com/ethereum/tests/pull/1491) - 2025-05-14
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [fix(fill --collect-only): allow running fill --collect-only even when fixtures folder does not exist (#1254)](https://github.com/ethereum/execution-spec-tests/commit/5242f8a27323345f0365c47edf48124ba8b21e30) - 2025-04-28
 * [Commit] [refactor with test program class](https://github.com/ethereum/execution-spec-tests/commit/2e849b3ddc445bf40525d46ccc4982948f1b3069) - 2025-04-29
@@ -41,3 +45,4 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [add converted test marker to pytest](https://github.com/ethereum/execution-spec-tests/pull/1590) - 2025-05-12
 * [Commit] [feat(tests): converting calldataload and calldatasize tests (#1236)](https://github.com/ethereum/execution-spec-tests/commit/244852ffe01025a9a8e97747822f6d4592eb7a86) - 2025-05-12
 * [Issue] [Convert tests priority](https://github.com/ethereum/execution-spec-tests/issues/1594) - 2025-05-13
+* [Pull Request] [remove GeneralStateTests from ethereum/tests coverage](https://github.com/ethereum/execution-spec-tests/pull/1599) - 2025-05-14

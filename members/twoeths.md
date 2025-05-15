@@ -75,6 +75,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Network thread performance issue due to async randomness](https://github.com/ChainSafe/lodestar/issues/7801) - 2025-05-07
 * [Commit] [fix: handle empty partial download - peerDAS (#7720)](https://github.com/ChainSafe/lodestar/commit/6f41bcbc9543434479966c4c7346e1b018bfec71) - 2025-05-12
 * [Commit] [fix: undefined blobs in fulu](https://github.com/ChainSafe/lodestar/commit/658d7cfa15c6656c15aad339c6f26f147bfc996e) - 2025-05-13
+* [Commit] [fix: topic.test.ts unit test](https://github.com/ChainSafe/lodestar/commit/c99b2791f23af61edcf47a340b845c3e1413b2ff) - 2025-05-14
+* [Commit] [fix: lint](https://github.com/ChainSafe/lodestar/commit/30400be52eea22e08fbd1a024e0e2ac6397385fa) - 2025-05-14
+* [Pull Request] [feat: merge unstable to peerDAS](https://github.com/ChainSafe/lodestar/pull/7827) - 2025-05-14
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

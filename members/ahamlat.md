@@ -18,6 +18,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Display each single FCU log](https://github.com/hyperledger/besu/pull/8585) - 2025-04-29
 * [Commit] [Standardise log content in AbstractEngineNewPayload and AbstractEngineForkchoiceUpdated (#8568)](https://github.com/hyperledger/besu/commit/578805d8b7dfbc64455d29365a34c76fa4fb7783) - 2025-04-30
 * [Commit] [Display each single FCU log (#8585)](https://github.com/hyperledger/besu/commit/14cdd1f618da9d31e70629c2707c0d2d47b28334) - 2025-05-06
+* [Commit] [Add more tests to VersionedHashTest class (#8628)](https://github.com/hyperledger/besu/commit/21da649abc81e682076a78a0da9992ccc7dc3711) - 2025-05-14
+* [Pull Request] [improve VersionedHash unit tests](https://github.com/hyperledger/besu/pull/8628) - 2025-05-14
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

@@ -57,3 +57,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Bump nim-eth to 29ce002cbbf5e0d0b92f154ef37146a8d305cefe](https://github.com/status-im/nimbus-eth1/pull/3285) - 2025-05-13
 * [Pull Request] [Fluffy: Update the state bridge to send each content offer to the closest connected portal client](https://github.com/status-im/nimbus-eth1/pull/3278) - 2025-05-13
 * [Commit] [Minor update.](https://github.com/status-im/nimbus-eth1/commit/2183fabf7a3e4d36c107915b2ebccf9506b339dc) - 2025-05-13
+* [Commit] [Fluffy: Update the state bridge to send each content offer to the closest connected portal client (#3278)](https://github.com/status-im/nimbus-eth1/commit/6341f5f0369b0c746a0653747d6b528a932b8705) - 2025-05-14
+* [Commit] [Fluffy: Use neighboursInRange in neighborhoodGossip and filter out src node in handleFindContent (#3273)](https://github.com/status-im/nimbus-eth1/commit/4c4f6d9d50e5d345f5a04907899732b019cac483) - 2025-05-14
+* [Commit] [Point to latest nim-eth.](https://github.com/status-im/nimbus-eth1/commit/3297c54e2661b785e46833a8f2f4e7c1882732b3) - 2025-05-14
+* [Commit] [Bump nim-eth to 5957dce55a4bfe00899ecc14006f72c6608b43df (#3285)](https://github.com/status-im/nimbus-eth1/commit/9d896dc00a6cdcd807369a946f7a3879ded78539) - 2025-05-14
+* [Commit] [Update nim-eth after reverting broken changes.](https://github.com/status-im/nimbus-eth1/commit/9d29e4e670bd2ea94c277c3ec0f835f79569655b) - 2025-05-14

@@ -141,6 +141,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: move validator monitor metrics to validator monitor (#7722)](https://github.com/ChainSafe/lodestar/commit/ae617bff281cd4c2f37d72957a47cc1870946326) - 2025-05-13
 * [Commit] [feat: update weak subjectivity calculation for electra (#7735)](https://github.com/ChainSafe/lodestar/commit/d92238fd8432980a7a4b9dce259c04076293ce8b) - 2025-05-13
 * [Issue] [Verify checksum of downloaded spec tests tarball](https://github.com/ChainSafe/lodestar/issues/7823) - 2025-05-13
+* [Commit] [chore: remove axios from spec-test-utils (#7829)](https://github.com/ChainSafe/lodestar/commit/54475dcc80db13af628cd21cd4623f720bc6f85b) - 2025-05-14
+* [Commit] [chore: remove now unused tar dependency (#7822)](https://github.com/ChainSafe/lodestar/commit/3856b8b00a865a959b591b3e5829b787c404fc4b) - 2025-05-14
+* [Pull Request] [chore: fix broken panels due to missing historical state worker metrics](https://github.com/ChainSafe/lodestar/pull/7826) - 2025-05-14
+* [Commit] [chore: fix broken panels due to missing historical state worker metrics](https://github.com/ChainSafe/lodestar/commit/f7678a4a06752b16498afe4277323fc1bed4d2b7) - 2025-05-14
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

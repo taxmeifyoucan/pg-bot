@@ -138,6 +138,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [mv BlocksFreezing to erigon-db](https://github.com/erigontech/erigon/commit/23354d9c3eb394ef3dfa6fc91225a7ef78e8eaf9) - 2025-05-12
 * [Commit] [move core/snaptype from core to erigon-db](https://github.com/erigontech/erigon/commit/bd40a1e5134298f36b03b56bb90a06b35ec0a46a) - 2025-05-12
 * [Commit] [remove dependency on params in tests](https://github.com/erigontech/erigon/commit/db1ca34bc610aec6102c4e6d2810634149c07421) - 2025-05-12
+* [Commit] [mv ParseNodesFromURLs to p2p](https://github.com/erigontech/erigon/commit/e309d56ebd4dd106bb25af929c87f8db2f9c08a0) - 2025-05-14
+* [Commit] [move some interfaces to erigon-db](https://github.com/erigontech/erigon/commit/90bac1d67a02bb2216198ac5a15b76f1ca38eefa) - 2025-05-14
+* [Commit] [Remove p2p/simulations](https://github.com/erigontech/erigon/commit/1ae1212e86273a3bb372e049ce8811eb58e47616) - 2025-05-14
+* [Commit] [prettify imports](https://github.com/erigontech/erigon/commit/0eeb6e48d8ac2de0aa4d6c4bd1f80f84206dfb8d) - 2025-05-14
+* [Commit] [rm sentry simulator](https://github.com/erigontech/erigon/commit/35e434c117377cee5670db67b9d134c9637d6bcd) - 2025-05-14
+* [Commit] [[r31] publishable: log error  (#15009)](https://github.com/erigontech/erigon/commit/372a9be7861c077a9e74a6c02f82ea445a770b1f) - 2025-05-14
+* [Commit] [fix tests](https://github.com/erigontech/erigon/commit/ce5ec1598e585523ed010655614913668143e1f8) - 2025-05-14
+* [Commit] [fix compilation](https://github.com/erigontech/erigon/commit/27965c79eed4fe165c13b555c4712c1d9a228ff3) - 2025-05-14
+* [Commit] [start moving caplin_state_snapshots](https://github.com/erigontech/erigon/commit/be4856e9f062e4abaaf2dbb0c3c2e67931b7ae4c) - 2025-05-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

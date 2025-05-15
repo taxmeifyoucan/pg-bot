@@ -105,6 +105,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [reduce default `--torrent.download.slots`  (#14904)](https://github.com/erigontech/erigon/commit/08e6274cfc4b8ab6ec6ace75a878045d456b115a) - 2025-05-07
 * [Commit] [[e30] reduce default `--torrent.download.slots`  (#14903)](https://github.com/erigontech/erigon/commit/d0cba715278e94e546753de5ebcee16d2536c437) - 2025-05-07
 * [Commit] [Proper reset](https://github.com/erigontech/erigon/commit/3b1f03b561106760bc379bb190089bf39872588f) - 2025-05-09
+* [Pull Request] [Fix RIP-7560 validation gas usage](https://github.com/erigontech/erigon/pull/15033) - 2025-05-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

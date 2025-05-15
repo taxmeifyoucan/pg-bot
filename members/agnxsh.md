@@ -77,6 +77,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Address review comments.](https://github.com/status-im/nimbus-eth2/commit/3dc502b7940014e9ef1a44a5017483cf1e79f75c) - 2025-05-12
 * [Commit] [fix state cache better](https://github.com/status-im/nimbus-eth2/commit/5097f6fba0261d54f399ddf953b40243011da3b0) - 2025-05-13
 * [Commit] [fix state cache](https://github.com/status-im/nimbus-eth2/commit/100e9c786f75736818a89cb3c666c8711c88f3b0) - 2025-05-13
+* [Commit] [move StateCache away from the global type to the first calling function for the validator custody loop](https://github.com/status-im/nimbus-eth2/commit/ae8ed8896395948b63566efb4621dc0a86b65029) - 2025-05-14
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

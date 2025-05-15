@@ -16,6 +16,8 @@ Team: Portal Network (EF)
 
 [ethereum/trin](https://github.com/ethereum/trin)
 * [Commit] [ci: build and publish docker image on tag (#1818)](https://github.com/ethereum/trin/commit/964e5613a0eba91cb700d7312add1709ca517345) - 2025-05-13
+* [Pull Request] [refactor: move consensus related constants into ethportal-api](https://github.com/ethereum/trin/pull/1825) - 2025-05-14
+* [Issue] [Break e2hs-writer and portal-bridge dependency](https://github.com/ethereum/trin/issues/1824) - 2025-05-14
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

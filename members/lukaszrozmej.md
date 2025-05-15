@@ -49,6 +49,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Auto-update fast sync settings (#8612)](https://github.com/NethermindEth/nethermind/commit/f50bd54c974da13bf22bb296af18697c446ecccb) - 2025-05-12
 * [Commit] [Update OP Superchain chains (#8611)](https://github.com/NethermindEth/nethermind/commit/f77b91a1a3ca5842c58b9609c8bfb794f7c6970e) - 2025-05-12
 * [Pull Request] [Fix long running test fuzzing OOM](https://github.com/NethermindEth/nethermind/pull/8615) - 2025-05-12
+* [Commit] [Fix long running test fuzzing OOM (#8615)](https://github.com/NethermindEth/nethermind/commit/2c6acb02a76f8e2dedc88c8a03eb8b7817f51b82) - 2025-05-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

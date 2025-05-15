@@ -77,6 +77,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Cherrypick: Caplin: Fix misc issues after electra (#14910)](https://github.com/erigontech/erigon/pull/14935) - 2025-05-08
 * [Commit] [Cherry-Pick: Caplin: fix occassional mev-boost bug (#14991)](https://github.com/erigontech/erigon/commit/2abde6218ba41d8ce668dfdb18c7c62a847a453c) - 2025-05-12
 * [Commit] [Caplin: fix occassional mev-boost bug (#14992)](https://github.com/erigontech/erigon/commit/91affbe421c361b353bc92e0fab80c72e28d06b4) - 2025-05-12
+* [Commit] [cl: Improve exec history download logs (#14838)](https://github.com/erigontech/erigon/commit/c4bff2dab8da4b77cc87d7a8930dc86f51d4c378) - 2025-05-14
+* [Pull Request] [Missing version in response of aggregate_attestation](https://github.com/erigontech/erigon/pull/15034) - 2025-05-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -83,6 +83,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [publishable fix (due to versioning)](https://github.com/erigontech/erigon/pull/14852) - 2025-05-02
 * [Commit] [integration/readme.md for E3 (#14813)](https://github.com/erigontech/erigon/commit/d15fbc5ffaa6bbd8dca5059dfe7fec5bf7b82982) - 2025-05-03
 * [Commit] [rpcdaemon: use headerByNumberOrHash() instead of load blocks with txs and senders (#14860)](https://github.com/erigontech/erigon/commit/287b7fd58a5df0074a96807fb71ac467a56e00a5) - 2025-05-04
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/847290a69d4f35467a1816d85c38c15950ba4f16) - 2025-05-14
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/5a6b2833e943fd85abe211593feda98115c41314) - 2025-05-14
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/d214396f256cb44205dfb45db35b8ce93d1315fe) - 2025-05-14
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/169fc8c64782fd9d9122fd3681de6b12b998cd67) - 2025-05-14
+* [Pull Request] [[WIP] don't merge. Added minsup support for openDirtyFIles (testing)](https://github.com/erigontech/erigon/pull/15037) - 2025-05-14
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/f322838d73fd704457a2837707c835d3bd6d222d) - 2025-05-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

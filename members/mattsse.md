@@ -248,6 +248,18 @@ Team: Reth
 * [Pull Request] [chore: add error when unwind failed on launch](https://github.com/paradigmxyz/reth/pull/16188) - 2025-05-13
 * [Pull Request] [chore: interop maintain touchups](https://github.com/paradigmxyz/reth/pull/16187) - 2025-05-13
 * [Commit] [feat: Adding cronjob for superchain (#16141)](https://github.com/paradigmxyz/reth/commit/e5d59bad7e0d86c4b149aaabfc7e43d6e3a23ef6) - 2025-05-13
+* [Issue] [Add `TransactionValidator::validate_transactions_with_origin`](https://github.com/paradigmxyz/reth/issues/16234) - 2025-05-14
+* [Issue] [Mark into_recovered_unchecked as deprecated](https://github.com/paradigmxyz/reth/issues/16233) - 2025-05-14
+* [Issue] [Add with_signer_ref helper](https://github.com/paradigmxyz/reth/issues/16232) - 2025-05-14
+* [Issue] [Upstream txtype derive to TransactionRequest](https://github.com/paradigmxyz/reth/issues/16231) - 2025-05-14
+* [Commit] [docs: clarify unit of txfeecap (#16225)](https://github.com/paradigmxyz/reth/commit/a67202d7ee06e92c148db0b809e5690c5e6ea264) - 2025-05-14
+* [Issue] [Simplify choosing txtype for tx request](https://github.com/paradigmxyz/reth/issues/16226) - 2025-05-14
+* [Pull Request] [docs: clarify unit of txfeecap](https://github.com/paradigmxyz/reth/pull/16225) - 2025-05-14
+* [Issue] [Implement helper type for SubscriptionClientT trait](https://github.com/paradigmxyz/reth/issues/16217) - 2025-05-14
+* [Issue] [Replace native filterId to subscriptionid conversion](https://github.com/paradigmxyz/reth/issues/16214) - 2025-05-14
+* [Issue] [Integrate Osaka in blob_max_and_target_count_by_hardfork](https://github.com/paradigmxyz/reth/issues/16213) - 2025-05-14
+* [Issue] [Check for osaka activation when checking for blob params](https://github.com/paradigmxyz/reth/issues/16212) - 2025-05-14
+* [Issue] [Inline error to rpc errorobject conversion](https://github.com/paradigmxyz/reth/issues/16211) - 2025-05-14
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

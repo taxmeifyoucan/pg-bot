@@ -32,6 +32,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Introduce aggregating pool interface](https://github.com/Consensys/teku/pull/9414) - 2025-05-12
 * [Pull Request] [[docker-jdk24] SIGHUP handler fix](https://github.com/Consensys/teku/pull/9413) - 2025-05-12
 * [Pull Request] [Optionally include validator indices in `PooledAttestation`](https://github.com/Consensys/teku/pull/9418) - 2025-05-13
+* [Commit] [Improve committeesSize retrieval in `AggregatingAttestationPool` (#9419)](https://github.com/Consensys/teku/commit/206c2657ef40811134864fc89ff644ac701a72fd) - 2025-05-14
+* [Pull Request] [Improve committeesSize retrieval in `AggregatingAttestationPool`](https://github.com/Consensys/teku/pull/9419) - 2025-05-14
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

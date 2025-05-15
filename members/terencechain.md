@@ -56,6 +56,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add blob schedule support](https://github.com/OffchainLabs/prysm/commit/787a9044940d6000703615a26d5acd3e6540bd28) - 2025-05-12
 * [Commit] [Add blob schedule support](https://github.com/OffchainLabs/prysm/commit/815868eb4c5da693e2ee1ff4c95c84e5aef1f9da) - 2025-05-12
 * [Pull Request] [Add blob schedule support](https://github.com/OffchainLabs/prysm/pull/15272) - 2025-05-12
+* [Commit] [epbs initial commit](https://github.com/OffchainLabs/prysm/commit/3f6b21d37e6ab1ef18b58c19383fe7f4e367767d) - 2025-05-14
+* [Commit] [Remove unused fieldparams (#15263)](https://github.com/OffchainLabs/prysm/commit/0251fd78e98e245715a50906a1119db4328afdff) - 2025-05-14
+* [Commit] [PeerDAS: Implement core. (#15192)](https://github.com/OffchainLabs/prysm/commit/7da7019a200687c454a2ae8929c9a54451b04a40) - 2025-05-14
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

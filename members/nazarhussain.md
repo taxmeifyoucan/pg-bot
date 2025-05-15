@@ -92,6 +92,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update the log order](https://github.com/ChainSafe/lodestar/commit/158b99a39c6f739c416d833a6812dc2ab09cf264) - 2025-05-07
 * [Commit] [fix(reqresp): update reqresp behavior for timeout (#7800)](https://github.com/ChainSafe/lodestar/commit/0f6a8b1a7711b4ad39b01192aa0ad94aea2b315f) - 2025-05-07
 * [Pull Request] [feat: parallelize block building steps](https://github.com/ChainSafe/lodestar/pull/7815) - 2025-05-12
+* [Pull Request] [chore: fix tsconfig for type check for lightclient bundle](https://github.com/ChainSafe/lodestar/pull/7830) - 2025-05-14
+* [Commit] [Add a new test case](https://github.com/ChainSafe/lodestar/commit/55c5f8d539cdeab0372fe45568785f135886258c) - 2025-05-14
+* [Commit] [Update the code as per feedback](https://github.com/ChainSafe/lodestar/commit/0965a7289c879c331c1cc5076e7cdfbb18fb2ba9) - 2025-05-14
+* [Commit] [Add more error cases and their tests](https://github.com/ChainSafe/lodestar/commit/fd8ef40fbd0ca56c6e0c81ae78864766e636833c) - 2025-05-14
+* [Commit] [Add more error cases and their tests](https://github.com/ChainSafe/lodestar/commit/186170d568ca10febe43db02e329acebd36c9a0e) - 2025-05-14
+* [Commit] [chore: update teku mainnet bootnodes (#7662)](https://github.com/ChainSafe/lodestar/commit/08715d4f0dcef21707082a01ca852dae34e29d8b) - 2025-05-14
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

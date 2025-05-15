@@ -67,6 +67,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Enable debug symbols by default in release builds](https://github.com/sigp/lighthouse/commit/0828bc5bfad5de066598dce3c364aa78d008fefb) - 2025-05-08
 * [Commit] [Increase default work queue size](https://github.com/sigp/lighthouse/commit/a6e3a4125378ae7f4a3b0e8594257f9ae44f842f) - 2025-05-08
 * [Pull Request] [Increase default work queue size](https://github.com/sigp/lighthouse/pull/7415) - 2025-05-08
+* [Issue] [Remove client/server code for deprecated `GET validator/blinded_blocks` endpoint](https://github.com/sigp/lighthouse/issues/7456) - 2025-05-14
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

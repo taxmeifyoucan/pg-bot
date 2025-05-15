@@ -54,11 +54,24 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [More tests](https://github.com/NethermindEth/nethermind/commit/47bbd5c515ea2a3da61eefb1f1493609bd3d0491) - 2025-05-07
 * [Commit] [Fix docker build](https://github.com/NethermindEth/nethermind/commit/31c85287791f32344aa23634b1a29aa3997788e7) - 2025-05-12
 * [Commit] [Add granular exceptions; separate type fo a system call](https://github.com/NethermindEth/nethermind/commit/9c0ff54b2d0109c58ae81bd0cf27b68bc4fd0d9f) - 2025-05-12
+* [Commit] [Fix hive (#8590)](https://github.com/NethermindEth/nethermind/commit/fc2eabb0133e0f90ef29e064241f059853eea609) - 2025-05-14
+* [Commit] [Initialize kzg when used in runner too (#8623)](https://github.com/NethermindEth/nethermind/commit/1d553ad4b39bf362cdcc24fb4ee7dfb94537e07d) - 2025-05-14
+* [Commit] [Perf/parallel block downloader (#8255)](https://github.com/NethermindEth/nethermind/commit/8403a084be21c32e3e4461016e9bc008118c1c32) - 2025-05-14
+* [Pull Request] [Initialize kzg when used in runner too](https://github.com/NethermindEth/nethermind/pull/8623) - 2025-05-14
+* [Commit] [Feature/clef tx (#8609)](https://github.com/NethermindEth/nethermind/commit/e1a56ed897506307e89ef7247a1acf9157abfc47) - 2025-05-14
+* [Commit] [Use the same code](https://github.com/NethermindEth/nethermind/commit/392bbf955143110a7dde8701105f7e25d457acd8) - 2025-05-14
+* [Commit] [Use the same code](https://github.com/NethermindEth/nethermind/commit/b5ef5e979811793b460ca99c2b5ca53840db11cb) - 2025-05-14
+* [Commit] [Fix solution; remove redundant changes](https://github.com/NethermindEth/nethermind/commit/e6bc4f13cb91956607e71f7dc994d75600b6d32e) - 2025-05-14
+* [Commit] [Fix solution; remove redundant changes](https://github.com/NethermindEth/nethermind/commit/17ab781666ba93f66ba6ac3835803cdfd5463942) - 2025-05-14
+* [Commit] [Fix solution; remove redundant changes](https://github.com/NethermindEth/nethermind/commit/8005fe4ecceb805c4eeb74c0d6b4941876b312f0) - 2025-05-14
+* [Commit] [Trie node encode (#8599)](https://github.com/NethermindEth/nethermind/commit/72cefb04861f14c9cf0b84c194b8e100071ee88f) - 2025-05-14
+* [Commit] [Update tests](https://github.com/NethermindEth/nethermind/commit/22659555e98c1fa7dd4106cd22ed1eb5c99e6d63) - 2025-05-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add errors for system contracts failures in Nethermind](https://github.com/ethereum/execution-spec-tests/pull/1542) - 2025-05-05
+* [Pull Request] [Add/correct error messages for Nethermind](https://github.com/ethereum/execution-spec-tests/pull/1602) - 2025-05-14
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

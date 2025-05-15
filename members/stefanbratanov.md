@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Schedule Gnosis Pectra hard-fork](https://github.com/Consensys/teku/pull/9340) - 2025-04-10
 * [Issue] [Use jreleaser instead for jc-kzg-4844](https://github.com/Consensys/teku/issues/9339) - 2025-04-10
 * [Pull Request] [Batch attestation duty scheduling for an epoch](https://github.com/Consensys/teku/pull/9374) - 2025-04-25
+* [Commit] [Batch attestation duty scheduling for an epoch (#9374)](https://github.com/Consensys/teku/commit/03b0df774e0fbe2e7fbb08e7bf04b873209b3894) - 2025-05-14
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

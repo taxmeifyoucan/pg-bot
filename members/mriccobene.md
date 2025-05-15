@@ -49,6 +49,7 @@ Team: Erigon
 * [Pull Request] [qa-tests: increase sync-from-scratch (minimal node) test time](https://github.com/erigontech/erigon/pull/14940) - 2025-05-08
 * [Commit] [increase test time](https://github.com/erigontech/erigon/commit/0a2a34601e74aa3065314f9e2cb4539939a03587) - 2025-05-08
 * [Pull Request] [qa-tests: avoid executing long running tests on specialised test runners (v3)](https://github.com/erigontech/erigon/pull/14939) - 2025-05-08
+* [Pull Request] [qa-tests: disable polygon tip-tracking on main branch](https://github.com/erigontech/erigon/pull/15046) - 2025-05-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

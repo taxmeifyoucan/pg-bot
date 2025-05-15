@@ -38,5 +38,15 @@ Team: Reth
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/63756c637d5b3fc654fb69302fff1a94b06aa73f) - 2025-05-13
 * [Pull Request] [feat(txpool): track osaka activation](https://github.com/paradigmxyz/reth/pull/16184) - 2025-05-13
 * [Pull Request] [chore(txpool): activate prague by default](https://github.com/paradigmxyz/reth/pull/16183) - 2025-05-13
+* [Commit] [stuff](https://github.com/paradigmxyz/reth/commit/fadc719c07feea26a1c9c0717fdf10ce5d72d620) - 2025-05-14
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/6dc8e52b3b969b0e81dd700109da8cdb4a8232c3) - 2025-05-14
+* [Commit] [outplayed by an ai](https://github.com/paradigmxyz/reth/commit/04d2cdfacc5729a6976d643516d7dd261f5c0bc7) - 2025-05-14
+* [Commit] [const const const const const](https://github.com/paradigmxyz/reth/commit/d35e5a20369d12c8c174d0209417013b823d3fa1) - 2025-05-14
+* [Commit] [address pr comments](https://github.com/paradigmxyz/reth/commit/d61ec2b2c5459aeee64c88cc048e5f1c296e3a9a) - 2025-05-14
+* [Commit] [fix custom-engine-types ex](https://github.com/paradigmxyz/reth/commit/d99a46027f9cf29cdc7c862f71e38287fec3c0d7) - 2025-05-14
+* [Commit] [add op payload v5](https://github.com/paradigmxyz/reth/commit/445a53e6bf61355b3f095d2e9345b9637a581e84) - 2025-05-14
+* [Commit] [ok clippy](https://github.com/paradigmxyz/reth/commit/d0f3154ea434f0ff25d530a095ee79286fa979db) - 2025-05-14
+* [Commit] [feat(engine): add conversions for `ExecutionPayloadEnvelopeV5`](https://github.com/paradigmxyz/reth/commit/d5e50191164bbc7ce68ed5cd2908a1a5ef635221) - 2025-05-14
+* [Pull Request] [feat(engine): add conversions for `ExecutionPayloadEnvelopeV5`](https://github.com/paradigmxyz/reth/pull/16218) - 2025-05-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16
