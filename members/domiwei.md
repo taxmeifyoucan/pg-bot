@@ -79,6 +79,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Caplin: fix occassional mev-boost bug (#14992)](https://github.com/erigontech/erigon/commit/91affbe421c361b353bc92e0fab80c72e28d06b4) - 2025-05-12
 * [Commit] [cl: Improve exec history download logs (#14838)](https://github.com/erigontech/erigon/commit/c4bff2dab8da4b77cc87d7a8930dc86f51d4c378) - 2025-05-14
 * [Pull Request] [Missing version in response of aggregate_attestation](https://github.com/erigontech/erigon/pull/15034) - 2025-05-14
+* [Commit] [update](https://github.com/erigontech/erigon/commit/23f81503902c64469873cd1a0b0db6f186fbccde) - 2025-05-15
+* [Commit] [storage](https://github.com/erigontech/erigon/commit/93c461d059dba0a4e7aeeab4704ac59d19cdf222) - 2025-05-15
+* [Commit] [storage](https://github.com/erigontech/erigon/commit/303f6110158b886c61edb70c75783752e8453a75) - 2025-05-15
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

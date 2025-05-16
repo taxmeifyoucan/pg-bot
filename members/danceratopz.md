@@ -202,6 +202,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(fill,zkevm): suppress high tx gas limit warnings for zkevm tests](https://github.com/ethereum/execution-spec-tests/pull/1598) - 2025-05-14
 * [Commit] [refactor(spec): rename `is_slow_test()` to `is_tx_gas_heavy_test()`](https://github.com/ethereum/execution-spec-tests/commit/c80260ceca3ff02d97ad32ec930a2faac46db8a0) - 2025-05-14
 * [Pull Request] [chore(tooling): bump `uv.lock` revision](https://github.com/ethereum/execution-spec-tests/pull/1597) - 2025-05-14
+* [Pull Request] [fix(fill): insist `fill`'s output directory is empty or doesn't exist](https://github.com/ethereum/execution-spec-tests/pull/1608) - 2025-05-15
+* [Commit] [docs: add install and pin python 3.11 for reproducibility](https://github.com/ethereum/execution-spec-tests/commit/c697e7d54395022245cc546531885846ba27b5e4) - 2025-05-15
+* [Commit] [docs: add docstring info](https://github.com/ethereum/execution-spec-tests/commit/f1deacd74b981d2fd8bf583f76dcb296a042e48a) - 2025-05-15
+* [Commit] [chore(docs): updates to CONTRIBUTING after self-review](https://github.com/ethereum/execution-spec-tests/commit/cdc252b38e564fc43e8c83544579134ad00f6d71) - 2025-05-15
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

@@ -30,3 +30,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [add pragma](https://github.com/status-im/nimbus-eth1/commit/baeadd6321fe16085f2b34e89899ab30eb0e5b71) - 2025-05-04
 * [Commit] [add: hoodi in verfified proxy](https://github.com/status-im/nimbus-eth1/commit/f5e89a1703de19c22fc3f36dd37a315c99cc0e75) - 2025-05-04
 * [Commit] [bump libp2p](https://github.com/status-im/nimbus-eth1/commit/2f7a57248dbc7fa5b595f7df92603ee11593f8b2) - 2025-05-04
+* [Commit] [fix some Nim 2.2 warnings (#3276)](https://github.com/status-im/nimbus-eth1/commit/8c8a176ccebf2a9509e4c717e248ec0cacd85ad7) - 2025-05-15

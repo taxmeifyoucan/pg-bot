@@ -260,6 +260,23 @@ Team: Reth
 * [Issue] [Integrate Osaka in blob_max_and_target_count_by_hardfork](https://github.com/paradigmxyz/reth/issues/16213) - 2025-05-14
 * [Issue] [Check for osaka activation when checking for blob params](https://github.com/paradigmxyz/reth/issues/16212) - 2025-05-14
 * [Issue] [Inline error to rpc errorobject conversion](https://github.com/paradigmxyz/reth/issues/16211) - 2025-05-14
+* [Commit] [chore: bump alloy 1.0.3 (#16277)](https://github.com/paradigmxyz/reth/commit/bcb893a64b25d2ee790e0c072f5efee275831fbf) - 2025-05-15
+* [Commit] [Update book/run/optimism.md](https://github.com/paradigmxyz/reth/commit/d323dc85fdd4173ff87c139cf5c032fbb126765c) - 2025-05-15
+* [Pull Request] [chore: bump alloy 1.0.3](https://github.com/paradigmxyz/reth/pull/16277) - 2025-05-15
+* [Commit] [Update book/run/optimism.md](https://github.com/paradigmxyz/reth/commit/db7fe9ba06ab96dd940025b0210136e6e13ae600) - 2025-05-15
+* [Pull Request] [docs: add note about superchain registry](https://github.com/paradigmxyz/reth/pull/16275) - 2025-05-15
+* [Commit] [docs: add note about superchain registry](https://github.com/paradigmxyz/reth/commit/fbff20580eb3d5eaa8bb8d0c7b39a2eb6eab54f4) - 2025-05-15
+* [Issue] [Change TxCustom to TxPayment](https://github.com/paradigmxyz/reth/issues/16267) - 2025-05-15
+* [Pull Request] [chore: rename extendedtx to just extended](https://github.com/paradigmxyz/reth/pull/16265) - 2025-05-15
+* [Issue] [Rename ExtendedTxEnvelope to just Extended](https://github.com/paradigmxyz/reth/issues/16264) - 2025-05-15
+* [Issue] [Implement IsTyped2718 for remaining reth types](https://github.com/paradigmxyz/reth/issues/16263) - 2025-05-15
+* [Pull Request] [chore: update superchain config](https://github.com/paradigmxyz/reth/pull/16262) - 2025-05-15
+* [Pull Request] [chore: bump version 1.4.0](https://github.com/paradigmxyz/reth/pull/16261) - 2025-05-15
+* [Commit] [feat: Introduce with_signer_ref helper (#16235)](https://github.com/paradigmxyz/reth/commit/836a17de65c2fb707f90b02683a1762870a57536) - 2025-05-15
+* [Pull Request] [feat: add from intoiter impls](https://github.com/paradigmxyz/reth/pull/16252) - 2025-05-15
+* [Commit] [lint](https://github.com/paradigmxyz/reth/commit/eeae842825dc4b1162d94cdcc9112ca4302ad4b1) - 2025-05-15
+* [Commit] [Update crates/rpc/rpc-builder/src/auth.rs](https://github.com/paradigmxyz/reth/commit/3a68a3893a5d485a765759b7b184573aa321b05b) - 2025-05-15
+* [Pull Request] [chore: rm jsonrpsee patch](https://github.com/paradigmxyz/reth/pull/16251) - 2025-05-15
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

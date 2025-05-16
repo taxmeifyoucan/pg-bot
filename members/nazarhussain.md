@@ -98,6 +98,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add more error cases and their tests](https://github.com/ChainSafe/lodestar/commit/fd8ef40fbd0ca56c6e0c81ae78864766e636833c) - 2025-05-14
 * [Commit] [Add more error cases and their tests](https://github.com/ChainSafe/lodestar/commit/186170d568ca10febe43db02e329acebd36c9a0e) - 2025-05-14
 * [Commit] [chore: update teku mainnet bootnodes (#7662)](https://github.com/ChainSafe/lodestar/commit/08715d4f0dcef21707082a01ca852dae34e29d8b) - 2025-05-14
+* [Pull Request] [refact: cleanup block production](https://github.com/ChainSafe/lodestar/pull/7834) - 2025-05-15
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

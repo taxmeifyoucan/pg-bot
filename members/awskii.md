@@ -113,6 +113,12 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d565b1bd8a92036f6fcfaf46dd048dbf9b1ac5aa) - 2025-05-14
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9482b046427ac867760312cb08f5965e092fd924) - 2025-05-14
 * [Commit] [fix gas mismatch](https://github.com/erigontech/erigon/commit/c4aed6b17ffacfe1990b9fa5e8673ff48d064061) - 2025-05-14
+* [Commit] [Fix snapshot file creation (#15054)](https://github.com/erigontech/erigon/commit/2916d00723117fc84f451d3b37b82f9822ea50e3) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/71142d88cac0c2fd6b0882b5cfeb80d95acf90db) - 2025-05-15
+* [Commit] [Update kurtosis test LH version (#14969)](https://github.com/erigontech/erigon/commit/c7e929c6aa63120fbc0a26833422602d30311749) - 2025-05-15
+* [Commit] [fix erigon seg retire to handle incomplete merges (#14973)](https://github.com/erigontech/erigon/commit/91886768f902d162a3e049012c324629e1c9efbc) - 2025-05-15
+* [Commit] [Arbos 40 update execution support (#15066)](https://github.com/erigontech/erigon/commit/8def6c77aed4af73508069d61f559617da4eb72e) - 2025-05-15
+* [Pull Request] [Arbos 40 update execution support](https://github.com/erigontech/erigon/pull/15066) - 2025-05-15
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

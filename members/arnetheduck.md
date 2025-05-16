@@ -27,5 +27,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [metrics: bump (#3274)](https://github.com/status-im/nimbus-eth1/commit/d3215efbe9783b05711409c257b1658862fcb348) - 2025-05-13
 * [Pull Request] [Track missing vertex lookups in metrics](https://github.com/status-im/nimbus-eth1/pull/3277) - 2025-05-13
 * [Commit] [eth: bump](https://github.com/status-im/nimbus-eth1/commit/f5092d5a84fe8eba2ecc9a7321ae2e3124ed9e7f) - 2025-05-13
+* [Commit] [metrics: bump (#3274)](https://github.com/status-im/nimbus-eth1/commit/d3215efbe9783b05711409c257b1658862fcb348) - 2025-05-15
+* [Commit] [Track missing vertex lookups in metrics (#3277)](https://github.com/status-im/nimbus-eth1/commit/152f3cdd05c228f7875fdd538ca923f3527b62db) - 2025-05-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Old head sent in LC sync mode](https://github.com/status-im/nimbus-eth2/issues/7119) - 2025-05-04

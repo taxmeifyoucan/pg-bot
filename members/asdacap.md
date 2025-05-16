@@ -123,6 +123,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Unit tests](https://github.com/NethermindEth/nethermind/commit/319e6adfa729cc56e4c91da94df760605adcd2f4) - 2025-05-14
 * [Commit] [Reduce timeout](https://github.com/NethermindEth/nethermind/commit/f42a7b2b8309739b33179553948580921bfa0258) - 2025-05-14
 * [Commit] [Pass cancellation token](https://github.com/NethermindEth/nethermind/commit/291d6ddd8c7faae7ea5080e38be60ccd785933fe) - 2025-05-14
+* [Commit] [Refactor/Move DiscoveryApp initialization to DI (#8624)](https://github.com/NethermindEth/nethermind/commit/97e3f52c88ee77082c162a4b60dfd0aabdeced9c) - 2025-05-15
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/ec29d128f4fc684c8014872bd662dd359e1e3368) - 2025-05-15
+* [Commit] [Feature/clef tx (#8609)](https://github.com/NethermindEth/nethermind/commit/e1a56ed897506307e89ef7247a1acf9157abfc47) - 2025-05-15
+* [Pull Request] [Refactor/Move DiscoveryApp initialization to DI](https://github.com/NethermindEth/nethermind/pull/8624) - 2025-05-15
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -20,3 +20,5 @@ Team: Ipsilon
 * [Commit] [fast fail integration subcommands on missing salt files (#15039)](https://github.com/erigontech/erigon/commit/30040b1ad99c22444d78ebb46f23ae0ae6977e20) - 2025-05-14
 * [Commit] [reload salt in integration and rpcd (#15026)](https://github.com/erigontech/erigon/commit/82a4741552a44a1b01fe3ceac8d693742bcc620a) - 2025-05-14
 * [Commit] [cmd/evm: Hotfix. Disable new tests `evm` for Windows built. (#14981)](https://github.com/erigontech/erigon/commit/1057dc741c4932aa1f3be5985ef5d6b263b27577) - 2025-05-14
+* [Commit] [fix indexing count (#15047)](https://github.com/erigontech/erigon/commit/21804ea77a411dd78b778df9e10a02bdcdd57218) - 2025-05-15
+* [Commit] [cmd/evm: Refactor evm test.](https://github.com/erigontech/erigon/commit/c4333f9ca45254a291a557ee1a0be395072c64bb) - 2025-05-15

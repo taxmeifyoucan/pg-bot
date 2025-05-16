@@ -45,6 +45,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add access from History network to historical summaries (#3281)](https://github.com/status-im/nimbus-eth1/commit/61687a1f26643b6f2975b5d0f2ed684ec8845d7b) - 2025-05-13
 * [Pull Request] [Fix number field not accessible when block header by hash](https://github.com/status-im/nimbus-eth1/pull/3282) - 2025-05-13
 * [Pull Request] [Add access from History network to historical summaries](https://github.com/status-im/nimbus-eth1/pull/3281) - 2025-05-13
+* [Pull Request] [Rename fluffy to portal/nimbus_portal_client](https://github.com/status-im/nimbus-eth1/pull/3289) - 2025-05-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28

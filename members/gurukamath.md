@@ -29,6 +29,15 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [remove empty account handling code (#1160)](https://github.com/ethereum/execution-specs/commit/5de14b56bbf88956772ec043625680540d19d26a) - 2025-05-01
 * [Issue] [Remove distinction between `None` and `EMPTY_ACCOUNT`](https://github.com/ethereum/execution-specs/issues/1208) - 2025-05-01
 * [Pull Request] [update prague timestamp](https://github.com/ethereum/execution-specs/pull/1212) - 2025-05-08
+* [Pull Request] [Merge Prague into master](https://github.com/ethereum/execution-specs/pull/1223) - 2025-05-15
+* [Commit] [Invalid block if system contract is empty on call or call fails (#1183)](https://github.com/ethereum/execution-specs/commit/3a0eb8941746504fe762606abee656dc7e643780) - 2025-05-15
+* [Issue] [Implement EIP-7918](https://github.com/ethereum/execution-specs/issues/1222) - 2025-05-15
+* [Issue] [Implement EIP-7917](https://github.com/ethereum/execution-specs/issues/1221) - 2025-05-15
+* [Issue] [Implement EIP-7907](https://github.com/ethereum/execution-specs/issues/1220) - 2025-05-15
+* [Issue] [Implement EIP-7825](https://github.com/ethereum/execution-specs/issues/1219) - 2025-05-15
+* [Issue] [Implement EIP-7823](https://github.com/ethereum/execution-specs/issues/1218) - 2025-05-15
+* [Issue] [Implement EIP-7762](https://github.com/ethereum/execution-specs/issues/1217) - 2025-05-15
+* [Issue] [Implement EIP-7883](https://github.com/ethereum/execution-specs/issues/1216) - 2025-05-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-spec-tests/issues/1461) - 2025-04-16
 * [Issue] [Address warmed on aborted call](https://github.com/ethereum/execution-spec-tests/issues/1474) - 2025-04-17

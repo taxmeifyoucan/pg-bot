@@ -35,3 +35,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Support multiple wire protocol version and implement eth/68 + eth/69](https://github.com/status-im/nimbus-eth1/pull/3283) - 2025-05-13
 * [Commit] [Add receipt69 roundtrip test](https://github.com/status-im/nimbus-eth1/commit/be51358235cf7d190232701c007a5f48022dd1c4) - 2025-05-14
 * [Commit] [Handle blockRangeUpdate using peer state](https://github.com/status-im/nimbus-eth1/commit/0ff5128b2825b2642d7c958cf2b43902e5d8db7f) - 2025-05-14
+* [Commit] [Fluffy: Multiple workers for processing received content in state network (#3264)](https://github.com/status-im/nimbus-eth1/commit/8a451605a729153c10ebbfff7fd2d42888de6f7b) - 2025-05-15
+* [Commit] [Support multiple wire protocol version and implement eth/68 + eth/69 (#3283)](https://github.com/status-im/nimbus-eth1/commit/443da8e7cb0f8c96fb0ac6468aa0f35c0755daf6) - 2025-05-15
+* [Commit] [Bump nim-eth to master branch](https://github.com/status-im/nimbus-eth1/commit/8d83e12bc11db2c6b505b9e54a3ff59076fd3de1) - 2025-05-15
+* [Commit] [Beaon sync avoid import slowdown with last slow sync peer (#3279)](https://github.com/status-im/nimbus-eth1/commit/55a661c006e31fee84e24186b2efab2e5c414669) - 2025-05-15
+* [Commit] [Replace Receipt69 with StoredReceipt from nim-eth](https://github.com/status-im/nimbus-eth1/commit/be85922f77b4718db5b704d7c82a2d1bc6090208) - 2025-05-15

@@ -147,6 +147,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix tests](https://github.com/erigontech/erigon/commit/ce5ec1598e585523ed010655614913668143e1f8) - 2025-05-14
 * [Commit] [fix compilation](https://github.com/erigontech/erigon/commit/27965c79eed4fe165c13b555c4712c1d9a228ff3) - 2025-05-14
 * [Commit] [start moving caplin_state_snapshots](https://github.com/erigontech/erigon/commit/be4856e9f062e4abaaf2dbb0c3c2e67931b7ae4c) - 2025-05-14
+* [Pull Request] [Revert "Revert "EIP-7892: Blob Parameter Only Hardforks (#14843)"  (#…](https://github.com/erigontech/erigon/pull/15067) - 2025-05-15
+* [Commit] [Revert "Revert "EIP-7892: Blob Parameter Only Hardforks (#14843)"  (#14912)"](https://github.com/erigontech/erigon/commit/4574b4bb59c2d06a14a71a0ef5f15b0c2e3e8356) - 2025-05-15
+* [Commit] [EngineBlockDownloader: pass heightToDownload when available (#15056)](https://github.com/erigontech/erigon/commit/eaff2be9cab24ac0d56233d6f663823e2e4a6541) - 2025-05-15
+* [Pull Request] [EngineBlockDownloader: pass heightToDownload when available](https://github.com/erigontech/erigon/pull/15056) - 2025-05-15
+* [Commit] [forgot one file](https://github.com/erigontech/erigon/commit/90a31a42a36e41d79c4f8fff2a00785c178f8884) - 2025-05-15
+* [Commit] [pass heightToDownload to EngineBlockDownloader.download](https://github.com/erigontech/erigon/commit/07cfb2d7b04c9f128c1dce4735c18317553b9580) - 2025-05-15
+* [Commit] [blockTip -> chainTip](https://github.com/erigontech/erigon/commit/9d6e78fef726391dbdc3b0df41ba76619611e7e4) - 2025-05-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

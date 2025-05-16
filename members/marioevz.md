@@ -97,6 +97,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Deprecate `--flat-output` option in `fill`](https://github.com/ethereum/execution-spec-tests/issues/1603) - 2025-05-14
 * [Commit] [docs: Move changelog](https://github.com/ethereum/execution-spec-tests/commit/08c291c38de039fdc9f864f29475a092b7904137) - 2025-05-14
 * [Commit] [Eip checklist suggestions (#1601)](https://github.com/ethereum/execution-spec-tests/commit/ae52183ac511991a92753b6119575fd84aceea8c) - 2025-05-14
+* [Commit] [Apply suggestions from code review](https://github.com/ethereum/execution-spec-tests/commit/62bfa470344155d387cb8df987a07d6d628d711d) - 2025-05-15
+* [Commit] [feat(tests): Scenarios double call (#1606)](https://github.com/ethereum/execution-spec-tests/commit/1b43843353a77ab30d9bb930caa5ee4c97faec99) - 2025-05-15
+* [Commit] [Update tests/frontier/scenarios/scenarios/double_call_combinations.py](https://github.com/ethereum/execution-spec-tests/commit/de0aafe8e0e6d519613d9f0cf858d7dbf8caebcd) - 2025-05-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

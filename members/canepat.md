@@ -33,3 +33,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [[r30] rcache missed 0-txn receipt (#15022)](https://github.com/erigontech/erigon/commit/6f3c22b04f1b7ac5cb98701da1ab06fd849f7856) - 2025-05-13
 * [Commit] [skip failing test](https://github.com/erigontech/erigon/commit/610bb3d2396347ce7989333821861be4dce6318f) - 2025-05-13
 * [Commit] [skip failing tests](https://github.com/erigontech/erigon/commit/03c3439529a5d4f739373dd2610552bcba2af1fa) - 2025-05-13
+* [Commit] [ci: temporarily disable failing tests after PR 12907 (#15059)](https://github.com/erigontech/erigon/commit/3dc4dabd3f863a578bfc0b3d5aa12d166c68240d) - 2025-05-15
+* [Issue] [parity_listStorageKeys: regression in test_07](https://github.com/erigontech/erigon/issues/15063) - 2025-05-15
+* [Issue] [ots_searchTransactionsBefore: regression in test_02](https://github.com/erigontech/erigon/issues/15062) - 2025-05-15
+* [Issue] [ots_getTransactionBySenderAndNonce: regression in test_07](https://github.com/erigontech/erigon/issues/15061) - 2025-05-15
+* [Pull Request] [ci: temporarily disable failing tests after PR 12907](https://github.com/erigontech/erigon/pull/15059) - 2025-05-15

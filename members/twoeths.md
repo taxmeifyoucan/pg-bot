@@ -78,6 +78,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: topic.test.ts unit test](https://github.com/ChainSafe/lodestar/commit/c99b2791f23af61edcf47a340b845c3e1413b2ff) - 2025-05-14
 * [Commit] [fix: lint](https://github.com/ChainSafe/lodestar/commit/30400be52eea22e08fbd1a024e0e2ac6397385fa) - 2025-05-14
 * [Pull Request] [feat: merge unstable to peerDAS](https://github.com/ChainSafe/lodestar/pull/7827) - 2025-05-14
+* [Commit] [fix: correct spec test version v1.5.0-beta.3](https://github.com/ChainSafe/lodestar/commit/c9be051c553c51d29bccc371cbb74a4d8db5bd2e) - 2025-05-15
+* [Commit] [fix: check-types](https://github.com/ChainSafe/lodestar/commit/b9fa9fb147410a3ce4d677ddc53b3a78cac2b00f) - 2025-05-15
+* [Commit] [fix: e2e test in reqrespEncode.test.ts](https://github.com/ChainSafe/lodestar/commit/a721a135c5cb74570c1ca743901190d6322bdd19) - 2025-05-15
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

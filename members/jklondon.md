@@ -89,6 +89,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/169fc8c64782fd9d9122fd3681de6b12b998cd67) - 2025-05-14
 * [Pull Request] [[WIP] don't merge. Added minsup support for openDirtyFIles (testing)](https://github.com/erigontech/erigon/pull/15037) - 2025-05-14
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/f322838d73fd704457a2837707c835d3bd6d222d) - 2025-05-14
+* [Pull Request] [Minsup improvements](https://github.com/erigontech/erigon/pull/15065) - 2025-05-15
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/51391637883122a6d0877ed4c7b62c75cd21e877) - 2025-05-15
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

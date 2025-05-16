@@ -37,6 +37,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Remove duplication checks in Request Manager getMissingBlobs() loop.](https://github.com/status-im/nimbus-eth2/commit/995ebf417c6d52c4ec18477b360200bafda78296) - 2025-05-13
 * [Commit] [Remove asSeq(), add optimized iterator with tests.](https://github.com/status-im/nimbus-eth2/commit/cda8613fd0b3fa13694737593afdf613a9620350) - 2025-05-13
 * [Commit] [Fix put() duplicate items making counters wrong.](https://github.com/status-im/nimbus-eth2/commit/982e62a16019c6ef6ff1d24b240be076be4e4fe0) - 2025-05-13
+* [Commit] [Temporary failing commit.](https://github.com/status-im/nimbus-eth2/commit/bc502d53855a7ce3ce7cf436cad9bc87c0f96edf) - 2025-05-15
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

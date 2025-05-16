@@ -64,6 +64,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Introduce blob schedule (#4277)](https://github.com/ethereum/consensus-specs/commit/ae96ca2ba8bb99e124efa6b9806f2225f34eebca) - 2025-05-12
 * [Commit] [Fix typos in blob configuration comments for fulu presets (#4311)](https://github.com/ethereum/consensus-specs/commit/221f5891f7c98221e864e0793a3d8ef6935a9dcb) - 2025-05-12
 * [Pull Request] [Backport blob schedule to deneb](https://github.com/ethereum/consensus-specs/pull/4313) - 2025-05-13
+* [Commit] [Fix assert in `run_get_committee_assignment` (#4315)](https://github.com/ethereum/consensus-specs/commit/b28ad47b6509353288b66b132f02939690f7f3bf) - 2025-05-15
+* [Pull Request] [Generate reference tests for EIP7732 & EIP7805](https://github.com/ethereum/consensus-specs/pull/4319) - 2025-05-15
+* [Issue] [`full_attestations_one_validator_one_gwei` is very, very slow](https://github.com/ethereum/consensus-specs/issues/4318) - 2025-05-15
+* [Commit] [Simplify reference test generators (#4317)](https://github.com/ethereum/consensus-specs/commit/a3cc1836d81acf45df992d42b0eac504281b9de7) - 2025-05-15
+* [Pull Request] [Simplify reference test generators](https://github.com/ethereum/consensus-specs/pull/4317) - 2025-05-15
+* [Commit] [Clarification on custody sampling (#4251)](https://github.com/ethereum/consensus-specs/commit/c9fda07452dd65056fecc3c871de2be55edec1d8) - 2025-05-15
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

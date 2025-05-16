@@ -118,6 +118,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8a7925030f7bbf133a6301878afb8ac0642fd4c7) - 2025-05-14
 * [Commit] [Update erigon-lib/state/entity_extras/emptydir.go](https://github.com/erigontech/erigon/commit/edc5a8d5eeb393bc951829079bff5188f8798fa5) - 2025-05-14
 * [Pull Request] [fast fail integration subcommands on missing salt files](https://github.com/erigontech/erigon/pull/15039) - 2025-05-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c1c2c8a5ec89d2244e29203713550a9024cc1de5) - 2025-05-15
+* [Pull Request] [wip: foreign key](https://github.com/erigontech/erigon/pull/15060) - 2025-05-15
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

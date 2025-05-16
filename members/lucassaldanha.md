@@ -35,6 +35,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Add FULU to the Spec Factory (#9373)](https://github.com/Consensys/teku/commit/7005739737703964ea870aa23f67d85169bba2d5) - 2025-05-06
 * [Pull Request] [Adding DataColumnsByRootIdentifier container](https://github.com/Consensys/teku/pull/9399) - 2025-05-08
 * [Commit] [Updating ref test to 1.5.0 stable (#9398)](https://github.com/Consensys/teku/commit/2fd5eb69c77b33e4746d70234ec6b2db340e2318) - 2025-05-08
+* [Pull Request] [Gossip DAS related changes](https://github.com/Consensys/teku/pull/9423) - 2025-05-15
+* [Commit] [Updated MiscHelpersFulu + Added Gossip Logger (#9422)](https://github.com/Consensys/teku/commit/c443b37c74b517efa50de51d802e1d18c32cc476) - 2025-05-15
+* [Pull Request] [Updated MiscHelpersFulu](https://github.com/Consensys/teku/pull/9422) - 2025-05-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Added Teku team coordinators](https://github.com/ethereum/pm/pull/1468) - 2025-04-14
 * [Pull Request] [Minor typos protocol-upgrade.md](https://github.com/ethereum/pm/pull/1467) - 2025-04-14

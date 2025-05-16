@@ -27,6 +27,7 @@ Team: Geth
 * [Pull Request] [accounts/abi:  return an error if attempting to pack a negative `big.Int` value for a parameter that is defined as `uint*` in the ABI](https://github.com/ethereum/go-ethereum/pull/31790) - 2025-05-09
 * [Pull Request] [core/vm: implement EIP 7823 - Set upper bounds for MODEXP](https://github.com/ethereum/go-ethereum/pull/31818) - 2025-05-13
 * [Pull Request] [miner, core, core/txpool: implement EIP 7825 - Transaction Gas Limit Cap](https://github.com/ethereum/go-ethereum/pull/31824) - 2025-05-14
+* [Commit] [cmd/utils: always record preimages in dev mode (#31821)](https://github.com/ethereum/go-ethereum/commit/52dbd206bb9ea9b4a1f0f7feaefc5f7828dd4c67) - 2025-05-15
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

@@ -100,6 +100,7 @@ Team: Reth
 * [Commit] [fix(trie): `Ord` implementation of `PackedNibbles` and `PackedNibbles::extend_path`](https://github.com/paradigmxyz/reth/commit/ecaa602f12114cd4a7628fcc5c8233b2af3f24c0) - 2025-05-14
 * [Commit] [wip](https://github.com/paradigmxyz/reth/commit/ba71436d54960b82fb652e219b3c9021c61a4f06) - 2025-05-14
 * [Pull Request] [fix(trie): do not panic when logging the current hash of `TrieWalker`](https://github.com/paradigmxyz/reth/pull/16222) - 2025-05-14
+* [Commit] [test(trie): `PackedNibbles::clone`](https://github.com/paradigmxyz/reth/commit/5826378d067c111f43dadbe9c3d9c2b010bcfc0e) - 2025-05-15
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

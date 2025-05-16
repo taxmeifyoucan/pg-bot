@@ -84,6 +84,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [reverted too much adding mock change back in](https://github.com/OffchainLabs/prysm/commit/903bac67694e263c9a1ceb733cb4acebc9c39a76) - 2025-05-14
 * [Commit] [tracing: Add spans to various methods related to GetDuties (#15271)](https://github.com/OffchainLabs/prysm/commit/eea53eb6dc1031ae4a987569b3273eb10f230256) - 2025-05-14
 * [Commit] [reverting some changes so we can break it into a separate PR for validator client only](https://github.com/OffchainLabs/prysm/commit/8e449b514e3ce351b1bc4c12efd6b3b4ebfc77c7) - 2025-05-14
+* [Commit] [Increase sepolia gas limit to 60m (#15253)](https://github.com/OffchainLabs/prysm/commit/b4a66a09933007af2ff25a8970daaaf810896038) - 2025-05-15
+* [Commit] [update bastin feedback](https://github.com/OffchainLabs/prysm/commit/603dc1f48f4f6872146d900dc1502f34da8ef175) - 2025-05-15
+* [Commit] [update changelog](https://github.com/OffchainLabs/prysm/commit/4edc2e77d2a9dd0fe1b1b8e74b2804c620236fe0) - 2025-05-15
+* [Commit] [fixing wrong pending consolidations handler for api (#15290)](https://github.com/OffchainLabs/prysm/commit/63a06419573432cbb4daecd7d42170492b9222de) - 2025-05-15
+* [Pull Request] [fixing attester slashing v2 endpoint](https://github.com/OffchainLabs/prysm/pull/15291) - 2025-05-15
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -82,6 +82,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(exceptions,tests): Add `TransactionException.INTRINSIC_GAS_BELOW_FLOOR_GAS_COST` (#1582)](https://github.com/ethereum/execution-spec-tests/commit/1620a084692f321d4aa34a48f369f8001f9f44a6) - 2025-05-14
 * [Commit] [chore(cli): increase t8n tool timeout. (#1600)](https://github.com/ethereum/execution-spec-tests/commit/7abf18e1ad5970232cf2646481024d8922194ec3) - 2025-05-14
 * [Pull Request] [chore(cli): increase transition tool timeout](https://github.com/ethereum/execution-spec-tests/pull/1600) - 2025-05-14
+* [Commit] [chore: bump prague to stable.](https://github.com/ethereum/execution-spec-tests/commit/05f02d1c49c15205dad39c2d3bfec7f890113300) - 2025-05-15
+* [Commit] [bump ruff and fix vsc ruff warning](https://github.com/ethereum/execution-spec-tests/commit/48db8e72d9de4f90e51f7822a9ac6e049a378d6e) - 2025-05-15
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

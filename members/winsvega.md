@@ -46,3 +46,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): converting calldataload and calldatasize tests (#1236)](https://github.com/ethereum/execution-spec-tests/commit/244852ffe01025a9a8e97747822f6d4592eb7a86) - 2025-05-12
 * [Issue] [Convert tests priority](https://github.com/ethereum/execution-spec-tests/issues/1594) - 2025-05-13
 * [Pull Request] [remove GeneralStateTests from ethereum/tests coverage](https://github.com/ethereum/execution-spec-tests/pull/1599) - 2025-05-14
+* [Commit] [convert diffPlaces test](https://github.com/ethereum/execution-spec-tests/commit/f9913d3068bd26e402093d82514e8de5e8429c80) - 2025-05-15
+* [Commit] [convert diffPlaces test](https://github.com/ethereum/execution-spec-tests/commit/fafe5347c9b32cca9258c2ddf8dd88ef076a4beb) - 2025-05-15
+* [Pull Request] [Scenarios double call](https://github.com/ethereum/execution-spec-tests/pull/1606) - 2025-05-15
+* [Pull Request] [make test scenarios execute compatible](https://github.com/ethereum/execution-spec-tests/pull/1605) - 2025-05-15

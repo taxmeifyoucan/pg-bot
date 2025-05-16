@@ -1395,6 +1395,45 @@ Team: Erigon
 * [Commit] [tests: Increase `cmd/evm` tests  subprocess timeout to 30 sec (#15002)](https://github.com/erigontech/erigon/commit/912b495c436bfbca62fd19b63c20ff355740871c) - 2025-05-14
 * [Pull Request] [[r30] fix linter](https://github.com/erigontech/erigon/pull/15040) - 2025-05-14
 * [Commit] [[r30] stage_custom_trace: fix trace for PoW (#15030)](https://github.com/erigontech/erigon/commit/0fe66b4e5801bf7e2177520b2388a0041193d824) - 2025-05-14
+* [Commit] [[r30] purify domains: make receipt domains non-required (#15050)](https://github.com/erigontech/erigon/commit/8492a3c2aaaeebd20e57b0d7279c658ae5977b81) - 2025-05-15
+* [Commit] [retire: high-level MadvNormal (#15053)](https://github.com/erigontech/erigon/commit/923f157409e86afa6d134303cb4ed3263c4d0a52) - 2025-05-15
+* [Commit] [cmd/evm: Fix windows testing and refactor (#14976)](https://github.com/erigontech/erigon/commit/67c69d1fcd29c4bd20493f95d412c8b41c3c3f9b) - 2025-05-15
+* [Commit] [up x deps (#15057)](https://github.com/erigontech/erigon/commit/ff66264d55770bdf8c958b4028b5ed2caccdfec6) - 2025-05-15
+* [Commit] [bugfix #15024, do not reset ibs before each tx exec and StateOverrides (#15025)](https://github.com/erigontech/erigon/commit/806686c0d13564cc75b7c6b9b8a6f84e027a051a) - 2025-05-15
+* [Commit] [fix bug #14999, withlog tracerConfig param NOT work in debug_traceTnsaction API (#15021)](https://github.com/erigontech/erigon/commit/fb86f4bea8dd9d103ab79371330f46a905e99578) - 2025-05-15
+* [Commit] [cmd: Increase default `db.size.limit` (#15018)](https://github.com/erigontech/erigon/commit/93274fdb78aca5ec273f31d6b68d538029d241fb) - 2025-05-15
+* [Commit] [Added minsup support for openDirtyFIles (#15037)](https://github.com/erigontech/erigon/commit/178387747fc0a6c0e3c3fb416400e36cc0af68e5) - 2025-05-15
+* [Commit] [rpcdaemon: use headerByNumberOrHash() instead of load blocks with txs and senders (#14860)](https://github.com/erigontech/erigon/commit/287b7fd58a5df0074a96807fb71ac467a56e00a5) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ae93ca9f3d8ffef10cb06c3a9fc92605cf4f75a0) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0f602d8bc31b65417ea60539fc2842b1c9792b12) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/786f73c43fd1e68ce021ebc0384ee2843d241ecc) - 2025-05-15
+* [Pull Request] [up x deps](https://github.com/erigontech/erigon/pull/15057) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/659d9bfa540547b83b2680fae9e53c2ee8cb2858) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9d11b9eb2f0a328d4e588695ecf5ea09cd779faa) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5148ac5f703c142a38cb5be7bafd611d2315dc24) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/210161dc10eb684240083e13b37692a576617f9b) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/86cca084dc60e77568a94286fe04793e6fa57fca) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f6cf3a52e6ab5ae5ebf76b5cc4520dd53accc213) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3409a6d27e45be77f2eb7315f66c7057bebc22f5) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3a8eccab7d94896f6e73f51f069085de97724472) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5752d113a79193c1eb4bd2b12342fde43b09b769) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0a0f00b127e6325415b1f98d074da44493f79140) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3e8496c02cbca494a28cd6f7271c2e6dd476cb7f) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7caaeeea3f646e63f2782bc563add118461cb138) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b4665701d1cbf254a33646c781e6b4ffb57cd1fe) - 2025-05-15
+* [Pull Request] [drop integrity check of dirty files (we have good recalcVisiblFiles func)](https://github.com/erigontech/erigon/pull/15055) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/022a9adafa4c5bb7623bae98a186cc384171df1b) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/90700dc407709211020e5b309e751128a3cf44bb) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dafd5fced5fd91a21bd8a20fbbd6cef0c21a6b5b) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a4f33a0402675579036140cce3bf793f60a12fb1) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5c2ee3cc6bd35b6616d32d246e5ebb6dc9921170) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9e211f2e0236e8c0eb965a52f1f2c41200e73821) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/35cf6ff751564716a8cb59dd03b205004f52e232) - 2025-05-15
+* [Pull Request] [retire: high-level MadvNormal](https://github.com/erigontech/erigon/pull/15053) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/adab20e9966616a893aa2fa6d230dcef7e82f283) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d44e1d8f417df7fca847f524e48462961faee1e1) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7199d328d6e1a3305be1c3a0e85d5eb297781306) - 2025-05-15
+* [Issue] [bor: generation BorEvents from 0 can't pass integrity check](https://github.com/erigontech/erigon/issues/15052) - 2025-05-15
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

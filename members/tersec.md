@@ -123,6 +123,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Refactored version of BlobSidecar/DataColumnSidecar quarantine. (#7100)](https://github.com/status-im/nimbus-eth2/commit/7965d4094ee4c7e9644c75e5ada488163317e5bb) - 2025-05-13
 * [Commit] [mark --finalized-deposit-tree-snapshot command-line option as deprecated (#7159)](https://github.com/status-im/nimbus-eth2/commit/1d1a80f9465370173ebeec99a9873a6fa18d759c) - 2025-05-13
 * [Pull Request] [mark --finalized-deposit-tree-snapshot command-line option as deprecated](https://github.com/status-im/nimbus-eth2/pull/7159) - 2025-05-13
+* [Commit] [rm -d:gnosisChainBinary hack (#7162)](https://github.com/status-im/nimbus-eth2/commit/c60562bb1bbc3d7c9c6dd8838e1eee4467819816) - 2025-05-15
+* [Pull Request] [rm -d:gnosisChainBinary hack](https://github.com/status-im/nimbus-eth2/pull/7162) - 2025-05-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 
@@ -137,6 +139,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [macOS Sonoma doesn't change oldest support x86 CPU type](https://github.com/status-im/nimbus-eth1/commit/2f4d34a7623436c786c41d41a9faf31db5c593fc) - 2025-05-12
 * [Commit] [copyright year linting](https://github.com/status-im/nimbus-eth1/commit/c2b541173394841b39665e3daae13ae318a9e75b) - 2025-05-12
 * [Pull Request] [fix some Nim 2.2 warnings](https://github.com/status-im/nimbus-eth1/pull/3276) - 2025-05-12
+* [Issue] [Implement EIP-7823](https://github.com/status-im/nimbus-eth1/issues/3287) - 2025-05-15
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

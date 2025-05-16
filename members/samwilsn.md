@@ -21,6 +21,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fixed broken links in paris.md](https://github.com/ethereum/execution-specs/commit/974b01ac695f9e16b05844d1d3272255298c036e) - 2025-04-28
 * [Commit] [Import Extended type directly instead of using rlp.Extended](https://github.com/ethereum/execution-specs/commit/f524bae8fa13bce1e86ed21f9d964f5676c5acdb) - 2025-05-02
 * [Commit] [Disallow unused arguments (closes #962)](https://github.com/ethereum/execution-specs/commit/ab9058e9081917fa03e10d2a61fa26859a174d94) - 2025-05-02
+* [Commit] [prague initial commit](https://github.com/ethereum/execution-specs/commit/a60d9e333c32bf8c6be10dab5e19cf6642c8e771) - 2025-05-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 

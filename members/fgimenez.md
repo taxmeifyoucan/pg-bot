@@ -102,6 +102,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [chore(txpool): update comments about prague activation](https://github.com/paradigmxyz/reth/pull/16185) - 2025-05-13
 * [Commit] [chore: update comments about prague activation](https://github.com/paradigmxyz/reth/commit/13f8d085d480f337f45a3a1cfd40be76215e372c) - 2025-05-13
 * [Commit] [feat(txpool): track osaka activation (#16184)](https://github.com/paradigmxyz/reth/commit/7ea80f7404bcdb9e7386cc2634e9a57bfa65aa69) - 2025-05-13
+* [Commit] [remove static bounds](https://github.com/paradigmxyz/reth/commit/d5f95e96a3cb2cd079b71bf5b49030eebaeae0b7) - 2025-05-15
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

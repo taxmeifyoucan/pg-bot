@@ -14,3 +14,4 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Single case fix](https://github.com/NethermindEth/nethermind/commit/9dda4af2d6dcc5408e60b6b51b1b066581848396) - 2025-04-18
 * [Pull Request] [GetStorageRange fix for no storage slots found](https://github.com/NethermindEth/nethermind/pull/8538) - 2025-04-18
 * [Issue] [GetStorageRange returns both empty arrays when no slots are found](https://github.com/NethermindEth/nethermind/issues/8537) - 2025-04-18
+* [Commit] [CodeDB writes in a batch (#8527)](https://github.com/NethermindEth/nethermind/commit/d29a4356d42bfc71d9bc88cbaf030e812bbe26f5) - 2025-05-15

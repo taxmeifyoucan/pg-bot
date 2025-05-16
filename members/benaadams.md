@@ -186,6 +186,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [tidy up](https://github.com/NethermindEth/nethermind/commit/8c01db22e5eee945fdcd3cef51587622bb072fc9) - 2025-05-11
 * [Commit] [Tidy up](https://github.com/NethermindEth/nethermind/commit/5612d1eec5885eaf873b506f179d69f8f882d608) - 2025-05-11
 * [Commit] [refactor](https://github.com/NethermindEth/nethermind/commit/9751bc72fdf3483b73f62b53bfe02a5184ca0fad) - 2025-05-11
+* [Commit] [Add state availability checks before debug module tracing (#8621)](https://github.com/NethermindEth/nethermind/commit/32cc7bd3020686411377f6dc9cfeb1cb1dc96870) - 2025-05-15
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

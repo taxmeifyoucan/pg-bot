@@ -32,6 +32,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [initial commit, under test](https://github.com/sigp/lighthouse/commit/5afeb1fdb1b0716b7936887a2ec2e8d8b418a6c9) - 2025-05-10
 * [Commit] [`peerdas-devnet-7`: update `DataColumnSidecarsByRoot` request to use `DataColumnsByRootIdentifier` (#7399)](https://github.com/sigp/lighthouse/commit/593390162f470906c8364d3a4117164a0a438e72) - 2025-05-12
 * [Issue] [Incorrect deneb time calculation used in genesis sync check](https://github.com/sigp/lighthouse/issues/7457) - 2025-05-14
+* [Issue] [Support blob parameter forks (BPO) and replace `MAX_BLOBS_PER_BLOCK_FULU`](https://github.com/sigp/lighthouse/issues/7467) - 2025-05-15
+* [Issue] [Flaky test in `release-tests-windows` CI job](https://github.com/sigp/lighthouse/issues/7466) - 2025-05-15
+* [Pull Request] [Fix mergify infinite loop.](https://github.com/sigp/lighthouse/pull/7463) - 2025-05-15
+* [Commit] [Add additional mergify rules to automate triaging (#7451)](https://github.com/sigp/lighthouse/commit/b1138c28fb940b49f52bb627c37b891adaab2fd8) - 2025-05-15
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

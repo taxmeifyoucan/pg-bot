@@ -48,5 +48,13 @@ Team: Reth
 * [Commit] [ok clippy](https://github.com/paradigmxyz/reth/commit/d0f3154ea434f0ff25d530a095ee79286fa979db) - 2025-05-14
 * [Commit] [feat(engine): add conversions for `ExecutionPayloadEnvelopeV5`](https://github.com/paradigmxyz/reth/commit/d5e50191164bbc7ce68ed5cd2908a1a5ef635221) - 2025-05-14
 * [Pull Request] [feat(engine): add conversions for `ExecutionPayloadEnvelopeV5`](https://github.com/paradigmxyz/reth/pull/16218) - 2025-05-14
+* [Pull Request] [Rkrasiuk/implement get payload v5](https://github.com/paradigmxyz/reth/pull/16274) - 2025-05-15
+* [Commit] [make stuff nicer](https://github.com/paradigmxyz/reth/commit/beff3c1d66d4826b869a3b94e1ace32eac9b7fce) - 2025-05-15
+* [Pull Request] [feat(engine): add osaka engine methods to capabilities](https://github.com/paradigmxyz/reth/pull/16272) - 2025-05-15
+* [Pull Request] [feat(txpool): add methods for retrieving `BlobsAndProofsV2`](https://github.com/paradigmxyz/reth/pull/16271) - 2025-05-15
+* [Commit] [Update crates/rpc/rpc-engine-api/src/engine_api.rs](https://github.com/paradigmxyz/reth/commit/10506f073885c6dd29e2af51c5b97643ca7d0719) - 2025-05-15
+* [Pull Request] [feat(engine): add `engine_getPayloadV5` skeleton](https://github.com/paradigmxyz/reth/pull/16270) - 2025-05-15
+* [Pull Request] [feat(engine): respond unsupported for payload v5 pre-osaka](https://github.com/paradigmxyz/reth/pull/16268) - 2025-05-15
+* [Commit] [add link](https://github.com/paradigmxyz/reth/commit/dfa728eeccbcbb9f903a86ae516dd54ad64cf3e8) - 2025-05-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16

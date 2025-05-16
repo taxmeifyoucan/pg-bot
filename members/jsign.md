@@ -63,6 +63,12 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [zkvm: add warm SSTORE/SLOAD](https://github.com/ethereum/execution-spec-tests/commit/615029b091fb30be01449c7d5ed4802ee82e0e4a) - 2025-05-14
 * [Commit] [zkvm: add cold SSTORE/SLOAD](https://github.com/ethereum/execution-spec-tests/commit/4c9445706ad989483b9648bb19b38a5421261c84) - 2025-05-14
 * [Commit] [set gas limit in ci](https://github.com/ethereum/execution-spec-tests/commit/dd465e5d790f1a352bbdbf874c98d5aac6c30ae0) - 2025-05-14
+* [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/328b7f49f56e0a1b05d915f4e6a918e8391d22db) - 2025-05-15
+* [Commit] [fix comment](https://github.com/ethereum/execution-spec-tests/commit/48fb3d24d20dc76273e6405837f3e199989bfc6f) - 2025-05-15
+* [Commit] [variable rename](https://github.com/ethereum/execution-spec-tests/commit/eaaff2135a74378224eb83234c456d1bed264745) - 2025-05-15
+* [Commit] [cleanups](https://github.com/ethereum/execution-spec-tests/commit/71db03a706c27b3f1b9831b2513e32f3a64fd48b) - 2025-05-15
+* [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/9838111f0b13d2257486f30390a45dba27c2f4a8) - 2025-05-15
+* [Commit] [chore(ci): change link check flow schedule from daily to weekly (#1592)](https://github.com/ethereum/execution-spec-tests/commit/8f468d200017d68300b1feb8b84c31ec62dbcb42) - 2025-05-15
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)
