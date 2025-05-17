@@ -50,3 +50,5 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [convert diffPlaces test](https://github.com/ethereum/execution-spec-tests/commit/fafe5347c9b32cca9258c2ddf8dd88ef076a4beb) - 2025-05-15
 * [Pull Request] [Scenarios double call](https://github.com/ethereum/execution-spec-tests/pull/1606) - 2025-05-15
 * [Pull Request] [make test scenarios execute compatible](https://github.com/ethereum/execution-spec-tests/pull/1605) - 2025-05-15
+* [Commit] [convert Create first byte loop filler](https://github.com/ethereum/execution-spec-tests/commit/775c79a30e20ecf3104b475c8a7caba685eff98b) - 2025-05-16
+* [Pull Request] [convert Create first byte loop filler](https://github.com/ethereum/execution-spec-tests/pull/1615) - 2025-05-16

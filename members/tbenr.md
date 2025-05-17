@@ -34,6 +34,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Optionally include validator indices in `PooledAttestation`](https://github.com/Consensys/teku/pull/9418) - 2025-05-13
 * [Commit] [Improve committeesSize retrieval in `AggregatingAttestationPool` (#9419)](https://github.com/Consensys/teku/commit/206c2657ef40811134864fc89ff644ac701a72fd) - 2025-05-14
 * [Pull Request] [Improve committeesSize retrieval in `AggregatingAttestationPool`](https://github.com/Consensys/teku/pull/9419) - 2025-05-14
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

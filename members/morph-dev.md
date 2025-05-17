@@ -19,6 +19,7 @@ Team: Portal Network (EF)
 * [Pull Request] [refactor: move consensus related constants into ethportal-api](https://github.com/ethereum/trin/pull/1825) - 2025-05-14
 * [Issue] [Break e2hs-writer and portal-bridge dependency](https://github.com/ethereum/trin/issues/1824) - 2025-05-14
 * [Commit] [ci: fix job names across workflows (#1829)](https://github.com/ethereum/trin/commit/e47418e43ee8353e65f2a2164f6ecab91f1f0fb5) - 2025-05-15
+* [Pull Request] [feat: create ChainHead](https://github.com/ethereum/trin/pull/1832) - 2025-05-16
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

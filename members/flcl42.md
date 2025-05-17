@@ -66,6 +66,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix solution; remove redundant changes](https://github.com/NethermindEth/nethermind/commit/8005fe4ecceb805c4eeb74c0d6b4941876b312f0) - 2025-05-14
 * [Commit] [Trie node encode (#8599)](https://github.com/NethermindEth/nethermind/commit/72cefb04861f14c9cf0b84c194b8e100071ee88f) - 2025-05-14
 * [Commit] [Update tests](https://github.com/NethermindEth/nethermind/commit/22659555e98c1fa7dd4106cd22ed1eb5c99e6d63) - 2025-05-14
+* [Commit] [Quick cleanup](https://github.com/NethermindEth/nethermind/commit/854f9d132002d1299a5ee6bfbd3d5b2949eccce5) - 2025-05-16
+* [Commit] [Quick cleanup](https://github.com/NethermindEth/nethermind/commit/45633c90a1388a63f4e66f92f8b93b5512dc6466) - 2025-05-16
+* [Commit] [Optimism - Isthmus (#8260)](https://github.com/NethermindEth/nethermind/commit/b543a3c26ea2a0038bcf80fa79e86b7218bf2400) - 2025-05-16
+* [Commit] [Evict txs with to many blobs, don't allow gaps](https://github.com/NethermindEth/nethermind/commit/215d7024821ee924ca73a88d6a4957037cb72f0e) - 2025-05-16
+* [Commit] [Add BPOs](https://github.com/NethermindEth/nethermind/commit/36a0b9b08d44abbb70f26a2afdb8e0bf4a8ddb8b) - 2025-05-16
+* [Pull Request] [[Draft] Add BPOs](https://github.com/NethermindEth/nethermind/pull/8631) - 2025-05-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

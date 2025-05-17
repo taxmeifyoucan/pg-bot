@@ -206,6 +206,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: add install and pin python 3.11 for reproducibility](https://github.com/ethereum/execution-spec-tests/commit/c697e7d54395022245cc546531885846ba27b5e4) - 2025-05-15
 * [Commit] [docs: add docstring info](https://github.com/ethereum/execution-spec-tests/commit/f1deacd74b981d2fd8bf583f76dcb296a042e48a) - 2025-05-15
 * [Commit] [chore(docs): updates to CONTRIBUTING after self-review](https://github.com/ethereum/execution-spec-tests/commit/cdc252b38e564fc43e8c83544579134ad00f6d71) - 2025-05-15
+* [Commit] [Deployed 25f0012298 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/7401c8d7c1ec815fa62749d9efc59e03e5e44c3e) - 2025-05-16
+* [Commit] [Deployed 9c95339a81 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d449aeb0183a059eb71b3830aee934185d3389e0) - 2025-05-16
+* [Issue] [bug(fill): `fill` generates a `.meta` directory even if no tests executed](https://github.com/ethereum/execution-spec-tests/issues/1613) - 2025-05-16
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/744841e0aaa0f68c8c01436a9b6d53a7daa05e28) - 2025-05-16
+* [Pull Request] [fix(fill): fix `--collect-only` after introducing `FixtureOutput` class](https://github.com/ethereum/execution-spec-tests/pull/1612) - 2025-05-16
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

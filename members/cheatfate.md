@@ -38,6 +38,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Remove asSeq(), add optimized iterator with tests.](https://github.com/status-im/nimbus-eth2/commit/cda8613fd0b3fa13694737593afdf613a9620350) - 2025-05-13
 * [Commit] [Fix put() duplicate items making counters wrong.](https://github.com/status-im/nimbus-eth2/commit/982e62a16019c6ef6ff1d24b240be076be4e4fe0) - 2025-05-13
 * [Commit] [Temporary failing commit.](https://github.com/status-im/nimbus-eth2/commit/bc502d53855a7ce3ce7cf436cad9bc87c0f96edf) - 2025-05-15
+* [Commit] [Add number of rows deleted to removeDataSidecars() call and tests for it.](https://github.com/status-im/nimbus-eth2/commit/771bca1370e490f24e710027865993f1d79f78ec) - 2025-05-16
+* [Commit] [Eliminate closureScope things.](https://github.com/status-im/nimbus-eth2/commit/001aea8338eabeec44c232ed04304310939c8d58) - 2025-05-16
+* [Commit] [One more attempt to fix stack usage issue.](https://github.com/status-im/nimbus-eth2/commit/53fcaf371fc4590d59c0e1a0b8c4a953a2f6d378) - 2025-05-16
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

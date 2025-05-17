@@ -101,6 +101,19 @@ Team: Reth
 * [Commit] [wip](https://github.com/paradigmxyz/reth/commit/ba71436d54960b82fb652e219b3c9021c61a4f06) - 2025-05-14
 * [Pull Request] [fix(trie): do not panic when logging the current hash of `TrieWalker`](https://github.com/paradigmxyz/reth/pull/16222) - 2025-05-14
 * [Commit] [test(trie): `PackedNibbles::clone`](https://github.com/paradigmxyz/reth/commit/5826378d067c111f43dadbe9c3d9c2b010bcfc0e) - 2025-05-15
+* [Commit] [fix(trie): `PackedNibbles::slice` (odd, even) case](https://github.com/paradigmxyz/reth/commit/e1f43ad61fdcf9dac7ac0e9665d62f009ffea6f0) - 2025-05-16
+* [Commit] [Merge remote-tracking branch 'origin/main' into alexey/ci-release-dry-run](https://github.com/paradigmxyz/reth/commit/5a52b0e686ce4132c15475ae19c83dfe2d209ec5) - 2025-05-16
+* [Commit] [refactor(rpc-builder): Use Box<dyn TaskSpawner> for RPC task handling (#16297)](https://github.com/paradigmxyz/reth/commit/4fb36fb247b946d0d0a4e4cae12ebcb6c1a76d33) - 2025-05-16
+* [Commit] [chore: Construct a SubscriptionMessage with the sink's properties (#16285)](https://github.com/paradigmxyz/reth/commit/9027af7164206f8f3505fefa22278f528a11b2b6) - 2025-05-16
+* [Commit] [ci: remove `REPO_NAME` env var from reproducible release workflow](https://github.com/paradigmxyz/reth/commit/9dc546d19674a4906c32691ae90b472972605a42) - 2025-05-16
+* [Commit] [ci: separate workflow for reproducible release](https://github.com/paradigmxyz/reth/commit/3b01b17ae110930336152d9cc340855a89d5f997) - 2025-05-16
+* [Pull Request] [ci: separate workflow for reproducible release](https://github.com/paradigmxyz/reth/pull/16299) - 2025-05-16
+* [Commit] [ci: separate workflow for reproducible release](https://github.com/paradigmxyz/reth/commit/6188330790c1c92196ff0accc8fa1382fb0101e5) - 2025-05-16
+* [Pull Request] [ci: add OP Reth binaries to release notes](https://github.com/paradigmxyz/reth/pull/16298) - 2025-05-16
+* [Commit] [Update .github/workflows/release.yml](https://github.com/paradigmxyz/reth/commit/9b7491269207ce1537ff96a8790cbc2aa2f8643b) - 2025-05-16
+* [Commit] [Update .github/workflows/release.yml](https://github.com/paradigmxyz/reth/commit/a5475e9583dfb34d361b7ae86c9f61028761f2bb) - 2025-05-16
+* [Pull Request] [ci: replace SVG icons in release.yml](https://github.com/paradigmxyz/reth/pull/16295) - 2025-05-16
+* [Pull Request] [ci: deduplicate changelog in release notes](https://github.com/paradigmxyz/reth/pull/16294) - 2025-05-16
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

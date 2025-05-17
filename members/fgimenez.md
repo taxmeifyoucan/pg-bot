@@ -103,6 +103,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [chore: update comments about prague activation](https://github.com/paradigmxyz/reth/commit/13f8d085d480f337f45a3a1cfd40be76215e372c) - 2025-05-13
 * [Commit] [feat(txpool): track osaka activation (#16184)](https://github.com/paradigmxyz/reth/commit/7ea80f7404bcdb9e7386cc2634e9a57bfa65aa69) - 2025-05-13
 * [Commit] [remove static bounds](https://github.com/paradigmxyz/reth/commit/d5f95e96a3cb2cd079b71bf5b49030eebaeae0b7) - 2025-05-15
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/213584a709dbf54939b0765f1ba710d2ab74cbeb) - 2025-05-16
+* [Commit] [impl Future for DriftMonitor](https://github.com/paradigmxyz/reth/commit/5357800eb2247f46b10e317b4f794dc5c602cfbf) - 2025-05-16
+* [Commit] [feat(trie): instrument `TrieNodeIter::try_next` (#16127)](https://github.com/paradigmxyz/reth/commit/3d48dcc8e54dfa34b27e0d878f5dd1d32edd9d5d) - 2025-05-16
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

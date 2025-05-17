@@ -127,6 +127,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/ec29d128f4fc684c8014872bd662dd359e1e3368) - 2025-05-15
 * [Commit] [Feature/clef tx (#8609)](https://github.com/NethermindEth/nethermind/commit/e1a56ed897506307e89ef7247a1acf9157abfc47) - 2025-05-15
 * [Pull Request] [Refactor/Move DiscoveryApp initialization to DI](https://github.com/NethermindEth/nethermind/pull/8624) - 2025-05-15
+* [Commit] [Fix infinite loop in tx pool (#8632)](https://github.com/NethermindEth/nethermind/commit/7c9f010d470a74921846cb43ffa040c65496249d) - 2025-05-16
+* [Pull Request] [Fix infinite loop in tx pool](https://github.com/NethermindEth/nethermind/pull/8632) - 2025-05-16
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

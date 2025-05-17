@@ -277,6 +277,9 @@ Team: Reth
 * [Commit] [lint](https://github.com/paradigmxyz/reth/commit/eeae842825dc4b1162d94cdcc9112ca4302ad4b1) - 2025-05-15
 * [Commit] [Update crates/rpc/rpc-builder/src/auth.rs](https://github.com/paradigmxyz/reth/commit/3a68a3893a5d485a765759b7b184573aa321b05b) - 2025-05-15
 * [Pull Request] [chore: rm jsonrpsee patch](https://github.com/paradigmxyz/reth/pull/16251) - 2025-05-15
+* [Commit] [chore: bump inspectors 0.22.1 (#16291)](https://github.com/paradigmxyz/reth/commit/710a783461d7534a9ae51cc4c9bfe963f5b3c055) - 2025-05-16
+* [Issue] [Introduce PoolTransaction::into_consesus_with2718](https://github.com/paradigmxyz/reth/issues/16292) - 2025-05-16
+* [Pull Request] [chore: bump inspectors 0.22.1](https://github.com/paradigmxyz/reth/pull/16291) - 2025-05-16
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

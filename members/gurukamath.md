@@ -38,6 +38,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Implement EIP-7823](https://github.com/ethereum/execution-specs/issues/1218) - 2025-05-15
 * [Issue] [Implement EIP-7762](https://github.com/ethereum/execution-specs/issues/1217) - 2025-05-15
 * [Issue] [Implement EIP-7883](https://github.com/ethereum/execution-specs/issues/1216) - 2025-05-15
+* [Pull Request] [Implement EIP-7823](https://github.com/ethereum/execution-specs/pull/1227) - 2025-05-16
+* [Pull Request] [Implement EIP-7883](https://github.com/ethereum/execution-specs/pull/1226) - 2025-05-16
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-spec-tests/issues/1461) - 2025-04-16
 * [Issue] [Address warmed on aborted call](https://github.com/ethereum/execution-spec-tests/issues/1474) - 2025-04-17

@@ -22,6 +22,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [internal/ethapi: fix tx.from in eth_simulateV1 (#31480)](https://github.com/ethereum/go-ethereum/commit/bca0646ede39d45303d8bd0b24ff5e7efa4f3e28) - 2025-05-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [eip7748: refactor eip7610 account handling code](https://github.com/ethereum/EIPs/pull/9695) - 2025-04-25
+* [Pull Request] [[EIP-4762]: clarify EIP using python for spec, add atomicity, warm costs and 7702](https://github.com/ethereum/EIPs/pull/9780) - 2025-05-16
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

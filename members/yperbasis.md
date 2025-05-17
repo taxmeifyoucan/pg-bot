@@ -154,6 +154,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [forgot one file](https://github.com/erigontech/erigon/commit/90a31a42a36e41d79c4f8fff2a00785c178f8884) - 2025-05-15
 * [Commit] [pass heightToDownload to EngineBlockDownloader.download](https://github.com/erigontech/erigon/commit/07cfb2d7b04c9f128c1dce4735c18317553b9580) - 2025-05-15
 * [Commit] [blockTip -> chainTip](https://github.com/erigontech/erigon/commit/9d6e78fef726391dbdc3b0df41ba76619611e7e4) - 2025-05-15
+* [Commit] [accept EEST encoding](https://github.com/erigontech/erigon/commit/3138bc322e5ecc8bf1bda11ddbf2013cd1d4bc79) - 2025-05-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

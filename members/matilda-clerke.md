@@ -8,3 +8,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 
 ## Contributions
 
+## Q2 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Update to discovery 25.4.0](https://github.com/hyperledger/besu/pull/8635) - 2025-05-16

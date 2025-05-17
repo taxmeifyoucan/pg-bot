@@ -89,6 +89,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [update changelog](https://github.com/OffchainLabs/prysm/commit/4edc2e77d2a9dd0fe1b1b8e74b2804c620236fe0) - 2025-05-15
 * [Commit] [fixing wrong pending consolidations handler for api (#15290)](https://github.com/OffchainLabs/prysm/commit/63a06419573432cbb4daecd7d42170492b9222de) - 2025-05-15
 * [Pull Request] [fixing attester slashing v2 endpoint](https://github.com/OffchainLabs/prysm/pull/15291) - 2025-05-15
+* [Commit] [Add fulu spec tests for finality and merkle proof (#15286)](https://github.com/OffchainLabs/prysm/commit/0b3289361c56aaaccfe598e31a4117d85d3693d7) - 2025-05-16
+* [Commit] [reverting config override](https://github.com/OffchainLabs/prysm/commit/171740e689b006433cac8034157fc22c976f595c) - 2025-05-16
+* [Commit] [maybe there's some flake with how the state is used, trying with it moved](https://github.com/OffchainLabs/prysm/commit/ce2bad6f33b587e51688f94dd6439d70bc848823) - 2025-05-16
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -100,6 +100,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Apply suggestions from code review](https://github.com/ethereum/execution-spec-tests/commit/62bfa470344155d387cb8df987a07d6d628d711d) - 2025-05-15
 * [Commit] [feat(tests): Scenarios double call (#1606)](https://github.com/ethereum/execution-spec-tests/commit/1b43843353a77ab30d9bb930caa5ee4c97faec99) - 2025-05-15
 * [Commit] [Update tests/frontier/scenarios/scenarios/double_call_combinations.py](https://github.com/ethereum/execution-spec-tests/commit/de0aafe8e0e6d519613d9f0cf858d7dbf8caebcd) - 2025-05-15
+* [Commit] [fix(ci): Clean during coverage script (#1610)](https://github.com/ethereum/execution-spec-tests/commit/58a8c84d916dea4224aa005fad10c8b6df7c1f08) - 2025-05-16
+* [Commit] [fix(fill): fix `--collect-only` after introducing `FixtureOutput` class (#1612)](https://github.com/ethereum/execution-spec-tests/commit/9c95339a81412819360669327a1d2fcdb25d14a1) - 2025-05-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

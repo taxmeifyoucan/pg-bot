@@ -81,6 +81,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: correct spec test version v1.5.0-beta.3](https://github.com/ChainSafe/lodestar/commit/c9be051c553c51d29bccc371cbb74a4d8db5bd2e) - 2025-05-15
 * [Commit] [fix: check-types](https://github.com/ChainSafe/lodestar/commit/b9fa9fb147410a3ce4d677ddc53b3a78cac2b00f) - 2025-05-15
 * [Commit] [fix: e2e test in reqrespEncode.test.ts](https://github.com/ChainSafe/lodestar/commit/a721a135c5cb74570c1ca743901190d6322bdd19) - 2025-05-15
+* [Issue] [fulu: missing new spec test runners](https://github.com/ChainSafe/lodestar/issues/7839) - 2025-05-16
+* [Commit] [fix: skip more merkle spec tests](https://github.com/ChainSafe/lodestar/commit/6d2f0d1c0ae274577b60093181f83704e1f7da1f) - 2025-05-16
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

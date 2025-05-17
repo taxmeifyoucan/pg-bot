@@ -121,6 +121,8 @@ Team: Erigon
 * [Commit] [Debug log in kurtosis](https://github.com/erigontech/erigon/commit/93e77bfcf6aabb35150b447b9d3d724eecc28cea) - 2025-05-13
 * [Commit] [Fix test](https://github.com/erigontech/erigon/commit/0ad70a19a9c2c508305580c48aa94097ebfba8b4) - 2025-05-13
 * [Commit] [Refactor](https://github.com/erigontech/erigon/commit/ee0a51d0c273555609e6ddeb3b109bc092eecfbc) - 2025-05-13
+* [Pull Request] [workflows: Fix 7702 assertoor test](https://github.com/erigontech/erigon/pull/15078) - 2025-05-16
+* [Commit] [try randomseed](https://github.com/erigontech/erigon/commit/0825e7f997917b73e87bd8294d4e780c59938606) - 2025-05-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

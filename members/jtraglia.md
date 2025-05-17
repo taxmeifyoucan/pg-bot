@@ -70,6 +70,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Simplify reference test generators (#4317)](https://github.com/ethereum/consensus-specs/commit/a3cc1836d81acf45df992d42b0eac504281b9de7) - 2025-05-15
 * [Pull Request] [Simplify reference test generators](https://github.com/ethereum/consensus-specs/pull/4317) - 2025-05-15
 * [Commit] [Clarification on custody sampling (#4251)](https://github.com/ethereum/consensus-specs/commit/c9fda07452dd65056fecc3c871de2be55edec1d8) - 2025-05-15
+* [Pull Request] [Use latest version of uv when creating the venv](https://github.com/ethereum/consensus-specs/pull/4325) - 2025-05-16
+* [Pull Request] [Fix link to das-core in fulu validator specs](https://github.com/ethereum/consensus-specs/pull/4324) - 2025-05-16
+* [Commit] [Generate reference tests for EIP7732 & EIP7805 (#4319)](https://github.com/ethereum/consensus-specs/commit/cc6996c22692d70e41b7a453d925172ee4b719ad) - 2025-05-16
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

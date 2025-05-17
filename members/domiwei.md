@@ -82,6 +82,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/23f81503902c64469873cd1a0b0db6f186fbccde) - 2025-05-15
 * [Commit] [storage](https://github.com/erigontech/erigon/commit/93c461d059dba0a4e7aeeab4704ac59d19cdf222) - 2025-05-15
 * [Commit] [storage](https://github.com/erigontech/erigon/commit/303f6110158b886c61edb70c75783752e8453a75) - 2025-05-15
+* [Commit] [reload salt in integration and rpcd (#15026)](https://github.com/erigontech/erigon/commit/82a4741552a44a1b01fe3ceac8d693742bcc620a) - 2025-05-16
+* [Pull Request] [Cherrypick: Missing version in response of aggregate_attestation (#15034)](https://github.com/erigontech/erigon/pull/15079) - 2025-05-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -45,6 +45,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add weekly run Kurtosis sim test](https://github.com/ChainSafe/lodestar/pull/7821) - 2025-05-12
 * [Commit] [EOF](https://github.com/ChainSafe/lodestar/commit/44780458255779d654873f5c628c30bff7ea8cc5) - 2025-05-12
 * [Commit] [EOF](https://github.com/ChainSafe/lodestar/commit/011291096c08f668013f1fd0fda6e32570c7accd) - 2025-05-12
+* [Commit] [remove on.push.branches](https://github.com/ChainSafe/lodestar/commit/a4c4a9558a9d01764f4e63b70e510daaa09054f4) - 2025-05-16
+* [Pull Request] [fix: review EIP-7045](https://github.com/ChainSafe/lodestar/pull/7838) - 2025-05-16
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

@@ -36,6 +36,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Flaky test in `release-tests-windows` CI job](https://github.com/sigp/lighthouse/issues/7466) - 2025-05-15
 * [Pull Request] [Fix mergify infinite loop.](https://github.com/sigp/lighthouse/pull/7463) - 2025-05-15
 * [Commit] [Add additional mergify rules to automate triaging (#7451)](https://github.com/sigp/lighthouse/commit/b1138c28fb940b49f52bb627c37b891adaab2fd8) - 2025-05-15
+* [Commit] [One more attempt to fix mergify condition. (#7472)](https://github.com/sigp/lighthouse/commit/e21198c08baaa796ad0fa57b589be7632116c1af) - 2025-05-16
+* [Pull Request] [One more attempt to fix mergify condition](https://github.com/sigp/lighthouse/pull/7472) - 2025-05-16
+* [Commit] [Prevent mergify from updating labels while CI is still running. (#7470)](https://github.com/sigp/lighthouse/commit/e0ee148d6acac639d2b847f86018ae1d482837ab) - 2025-05-16
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

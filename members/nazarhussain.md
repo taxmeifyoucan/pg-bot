@@ -99,6 +99,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add more error cases and their tests](https://github.com/ChainSafe/lodestar/commit/186170d568ca10febe43db02e329acebd36c9a0e) - 2025-05-14
 * [Commit] [chore: update teku mainnet bootnodes (#7662)](https://github.com/ChainSafe/lodestar/commit/08715d4f0dcef21707082a01ca852dae34e29d8b) - 2025-05-14
 * [Pull Request] [refact: cleanup block production](https://github.com/ChainSafe/lodestar/pull/7834) - 2025-05-15
+* [Commit] [Update reference of renamed functions](https://github.com/ChainSafe/lodestar/commit/7980991886070dd20621bbeb364b0aea5ed4c1c0) - 2025-05-16
+* [Commit] [Update grafiti function names](https://github.com/ChainSafe/lodestar/commit/5803d96144d9784960eb6f928f8598897daa7a49) - 2025-05-16
+* [Commit] [Update grafiti function names](https://github.com/ChainSafe/lodestar/commit/80c65e2861203e9669f37e8abb150f5a5f0eab6f) - 2025-05-16
+* [Commit] [Use Byte32 for graffiti](https://github.com/ChainSafe/lodestar/commit/966d43a620f547f91d76e3b59a22cf25e5045303) - 2025-05-16
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -56,6 +56,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12
+* [Pull Request] [Update EIP-7793: more specific checks and sentinel value](https://github.com/ethereum/EIPs/pull/9783) - 2025-05-16
+* [Pull Request] [Update EIP-7793: specify checks & sentinel](https://github.com/ethereum/EIPs/pull/9782) - 2025-05-16
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

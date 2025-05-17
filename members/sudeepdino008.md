@@ -120,6 +120,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [fast fail integration subcommands on missing salt files](https://github.com/erigontech/erigon/pull/15039) - 2025-05-14
 * [Commit] [save](https://github.com/erigontech/erigon/commit/c1c2c8a5ec89d2244e29203713550a9024cc1de5) - 2025-05-15
 * [Pull Request] [wip: foreign key](https://github.com/erigontech/erigon/pull/15060) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7de5dc8e53a1b0d9fe3e6ce2f66cd0bce5108103) - 2025-05-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/beda95fd52a501ec4e946361a60c7edec84bd673) - 2025-05-16
+* [Issue] [foreign key concept in e3](https://github.com/erigontech/erigon/issues/15081) - 2025-05-16
+* [Issue] [inspect if it's possible to have entity level dirtyFiles lock.](https://github.com/erigontech/erigon/issues/15080) - 2025-05-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4e04b27ec877f09292ce84ee4be05c7937fd6642) - 2025-05-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -80,6 +80,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [move StateCache away from the global type to the first calling function for the validator custody loop](https://github.com/status-im/nimbus-eth2/commit/ae8ed8896395948b63566efb4621dc0a86b65029) - 2025-05-14
 * [Commit] [fix](https://github.com/status-im/nimbus-eth2/commit/a12b97dadad8629f7f7af55b779268e320f7a82a) - 2025-05-15
 * [Commit] [fix test block processor](https://github.com/status-im/nimbus-eth2/commit/196213105c9e841146deeeb7646795c2692fbb5e) - 2025-05-15
+* [Commit] [refactored reaching ELManager](https://github.com/status-im/nimbus-eth2/commit/f4ce1880e01fb8c4757860e6a49055203c6fa1aa) - 2025-05-16
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

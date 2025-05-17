@@ -91,6 +91,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/f322838d73fd704457a2837707c835d3bd6d222d) - 2025-05-14
 * [Pull Request] [Minsup improvements](https://github.com/erigontech/erigon/pull/15065) - 2025-05-15
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/51391637883122a6d0877ed4c7b62c75cd21e877) - 2025-05-15
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/bc09a00a649e507fd007038f3b77c38e9fe74445) - 2025-05-16
+* [Pull Request] [minsup version dept (added domain openDirtyFiles improvements)](https://github.com/erigontech/erigon/pull/15087) - 2025-05-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

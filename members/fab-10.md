@@ -26,6 +26,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Remove the deprecated `--tx-pool-disable-locals` option (#8614)](https://github.com/hyperledger/besu/commit/00a18e2208615604ed693d8d65b7d6142ca367f8) - 2025-05-13
 * [Pull Request] [Improve estimate gas2](https://github.com/hyperledger/besu/pull/8629) - 2025-05-14
 * [Pull Request] [Estimate gas on pending block by default](https://github.com/hyperledger/besu/pull/8627) - 2025-05-14
+* [Pull Request] [Upgrade Gradle to 8.14](https://github.com/hyperledger/besu/pull/8638) - 2025-05-16
+* [Pull Request] [Refactor call parameters](https://github.com/hyperledger/besu/pull/8637) - 2025-05-16
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

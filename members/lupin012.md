@@ -15,3 +15,5 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpcdaemon: re-use get_receipt() to reuse receipt cache](https://github.com/erigontech/erigon/pull/14869) - 2025-05-04
 * [Commit] [remove commented lines](https://github.com/erigontech/erigon/commit/3b1acb6cd8c7c0cfdce76f1dda16f6e1e00d2baf) - 2025-05-05
 * [Pull Request] [rpcdaemon: Merge PR #14869: rpcdaemon: reuse getReceipt() to improve performance](https://github.com/erigontech/erigon/pull/14986) - 2025-05-10
+* [Commit] [reduce disk IO during files merge (#14902)](https://github.com/erigontech/erigon/commit/ca74636e04255ae8be683555824a731af2322a17) - 2025-05-16
+* [Commit] [cmd/evm: Hotfix. Disable new tests `evm` for Windows built. (#14981)](https://github.com/erigontech/erigon/commit/1057dc741c4932aa1f3be5985ef5d6b263b27577) - 2025-05-16

@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [Ability to run EOF exec spec tests in CI](https://github.com/hyperledger/besu/pull/8570) - 2025-04-19
 * [Pull Request] [Move OOG check in CALL and EXTCALL earlier than other halts](https://github.com/hyperledger/besu/pull/8569) - 2025-04-19
 * [Pull Request] [Besu verkle trie rename to besu stateless](https://github.com/hyperledger/besu/pull/8588) - 2025-05-01
+* [Commit] [Add try/catch to log issues with ENR records (#8633)](https://github.com/hyperledger/besu/commit/5dedbd5c439b4cb2a7d7644cf5f6a21caf09419c) - 2025-05-16
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

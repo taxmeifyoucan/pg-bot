@@ -38,3 +38,6 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Issue] [ots_searchTransactionsBefore: regression in test_02](https://github.com/erigontech/erigon/issues/15062) - 2025-05-15
 * [Issue] [ots_getTransactionBySenderAndNonce: regression in test_07](https://github.com/erigontech/erigon/issues/15061) - 2025-05-15
 * [Pull Request] [ci: temporarily disable failing tests after PR 12907](https://github.com/erigontech/erigon/pull/15059) - 2025-05-15
+* [Commit] [perf_test: update version + perf test for debug_storageRangeAt, debug_traceTransaction (#14985)](https://github.com/erigontech/erigon/commit/95725f2864e2a7165e5824242e65e16e9bbf4847) - 2025-05-16
+* [Commit] [[DO-NOT-MERGE] .ef optimization experiments (#12907)](https://github.com/erigontech/erigon/commit/3d0b4d16a0f79b2fc9dc07a3dce3dd25b5a6b547) - 2025-05-16
+* [Commit] [rpcdaemon: read hdr instead of blocksWithTxs in eth_estimateGas,eth_createAccessList (#14915)](https://github.com/erigontech/erigon/commit/6c7d3997105fc8d0a175fe630c4255f721aebe7c) - 2025-05-16

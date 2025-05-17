@@ -22,6 +22,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Commit] [test fixes](https://github.com/sigp/lighthouse/commit/9438ed7add8c677b7927ef371be1d032ec7ba90b) - 2025-05-11
 * [Pull Request] [Single attestation "Full" implementation](https://github.com/sigp/lighthouse/pull/7444) - 2025-05-12
 * [Pull Request] [Next sync committee branch bug](https://github.com/sigp/lighthouse/pull/7443) - 2025-05-12
+* [Issue] [`Box` inside `BeaconChainError`](https://github.com/sigp/lighthouse/issues/7473) - 2025-05-16
+* [Pull Request] [Rust clippy 1.87 lint fixes](https://github.com/sigp/lighthouse/pull/7471) - 2025-05-16
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
