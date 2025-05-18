@@ -14,6 +14,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-5920: change to call-like functionality](https://github.com/ethereum/EIPs/pull/9590) - 2025-04-03
 * [Pull Request] [EIP-5920: add clarification to ban opcode in STATIC mode](https://github.com/ethereum/EIPs/pull/9589) - 2025-04-03
+* [Pull Request] [Update EIP-6404: Add some suggestions or corrections](https://github.com/ethereum/EIPs/pull/9788) - 2025-05-17
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

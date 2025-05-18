@@ -38,6 +38,10 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore: Add a usage comment on `revert`](https://github.com/paradigmxyz/reth/pull/15844) - 2025-04-22
 
 * [Pull Request] [chore: Remove ForkSpec::Unknown and Add ForkSpec::Prague](https://github.com/paradigmxyz/reth/pull/16055) - 2025-05-03
+* [Pull Request] [chore: RecoveredBlock -> Block](https://github.com/paradigmxyz/reth/pull/16321) - 2025-05-17
+* [Pull Request] [chore: Add `ClientInput` struct to `reth-stateless`](https://github.com/paradigmxyz/reth/pull/16320) - 2025-05-17
+* [Pull Request] [Kw/stateless experiment zkvm benchmarks](https://github.com/paradigmxyz/reth/pull/16319) - 2025-05-17
+* [Pull Request] [chore: Move execution witness checks outside of `WitnessDB`](https://github.com/paradigmxyz/reth/pull/16318) - 2025-05-17
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [zkevm: Add marker for bls tests](https://github.com/ethereum/execution-spec-tests/pull/1514) - 2025-04-30
 * [Issue] [zkevm: Add zkevm marker on all bls12-381 tests](https://github.com/ethereum/execution-spec-tests/issues/1527) - 2025-05-02

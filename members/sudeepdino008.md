@@ -125,6 +125,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [foreign key concept in e3](https://github.com/erigontech/erigon/issues/15081) - 2025-05-16
 * [Issue] [inspect if it's possible to have entity level dirtyFiles lock.](https://github.com/erigontech/erigon/issues/15080) - 2025-05-16
 * [Commit] [save](https://github.com/erigontech/erigon/commit/4e04b27ec877f09292ce84ee4be05c7937fd6642) - 2025-05-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6a16d99305a22642b91805d0ef75ec0b66d1b906) - 2025-05-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/33ba71584343099f2eea99701c476e8cb9d0e4da) - 2025-05-17
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

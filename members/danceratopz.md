@@ -211,6 +211,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [bug(fill): `fill` generates a `.meta` directory even if no tests executed](https://github.com/ethereum/execution-spec-tests/issues/1613) - 2025-05-16
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/744841e0aaa0f68c8c01436a9b6d53a7daa05e28) - 2025-05-16
 * [Pull Request] [fix(fill): fix `--collect-only` after introducing `FixtureOutput` class](https://github.com/ethereum/execution-spec-tests/pull/1612) - 2025-05-16
+* [Commit] [WIP - unique test suite per pre-hash; track test counts to end tests suite when complete (and stop shared-client).](https://github.com/ethereum/execution-spec-tests/commit/2a0747fc5ab466b611cab904a6d889be47e207de) - 2025-05-17
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

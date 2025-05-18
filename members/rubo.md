@@ -22,6 +22,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add Nethermind.Test.Runner Docker image (#8608)](https://github.com/NethermindEth/nethermind/commit/6f9aed02c931648d332d8f32cd2b5448537c7b74) - 2025-05-14
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/e235b83907ca5525fce535653864c29f6870d9c3) - 2025-05-16
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/c71ce7d8e6bced6d146a9a9a82a054e3f0283941) - 2025-05-16
+* [Commit] [Update System.CommandLine package (#8639)](https://github.com/NethermindEth/nethermind/commit/95c6efb8140dce67c464b1a5069b69cb7d557e63) - 2025-05-17
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -25,6 +25,12 @@ Team: Portal Network (EF)
 * [Commit] [feat: add latest end of block range option for e2hs bridge (#1822)](https://github.com/ethereum/trin/commit/bf699ebf182af59beadb5d9d7b28e7b506b9c168) - 2025-05-14
 * [Commit] [feat: add docker image for trin-execution (#1823)](https://github.com/ethereum/trin/commit/c569cf40b072c3c85a8b2e1209e5ab3f4b6f3b71) - 2025-05-14
 * [Commit] [feat: add trace offer for a series of content keys (#1830)](https://github.com/ethereum/trin/commit/5dca37d0634266e68191eb57a2365ffc6f16495f) - 2025-05-15
+* [Commit] [chore: bump rust version to 1.87 (#1835)](https://github.com/ethereum/trin/commit/576db5931bf396ba24a065f5f6d0e3ec85e04ea4) - 2025-05-17
+* [Commit] [chore: bump dependencies (#1834)](https://github.com/ethereum/trin/commit/7a72fd5d6c9618d40dc9c2aa166b98d917514966) - 2025-05-17
+* [Pull Request] [chore: bump rust version to 1.87](https://github.com/ethereum/trin/pull/1835) - 2025-05-17
+* [Pull Request] [chore: bump most dependencies](https://github.com/ethereum/trin/pull/1834) - 2025-05-17
+* [Commit] [feat: remove no longer used DROP_USAGE_STATS_DB sql query (#1833)](https://github.com/ethereum/trin/commit/66ea84ef8ac97090765ef4926bc9e1a48964ae3f) - 2025-05-17
+* [Pull Request] [feat: remove no longer used DROP_USAGE_STATS_DB sql query](https://github.com/ethereum/trin/pull/1833) - 2025-05-17
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

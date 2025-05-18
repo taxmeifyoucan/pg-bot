@@ -73,6 +73,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Use latest version of uv when creating the venv](https://github.com/ethereum/consensus-specs/pull/4325) - 2025-05-16
 * [Pull Request] [Fix link to das-core in fulu validator specs](https://github.com/ethereum/consensus-specs/pull/4324) - 2025-05-16
 * [Commit] [Generate reference tests for EIP7732 & EIP7805 (#4319)](https://github.com/ethereum/consensus-specs/commit/cc6996c22692d70e41b7a453d925172ee4b719ad) - 2025-05-16
+* [Commit] [Fix phase run decorator to skip EIP-7732 as intended (#4326)](https://github.com/ethereum/consensus-specs/commit/ce38cd5faf45c2fe39d1db6794efaef6155413ef) - 2025-05-17
+* [Commit] [Do import sorting with isort (#4327)](https://github.com/ethereum/consensus-specs/commit/e0d69671a6d9845bd7f9b99fe3ecae07709b6f8c) - 2025-05-17
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

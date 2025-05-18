@@ -12,3 +12,5 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Issue] [Taiko pacaya activation for mainnet](https://github.com/NethermindEth/nethermind/issues/8627) - 2025-05-15
+* [Pull Request] [add surge hoodi chainspec](https://github.com/NethermindEth/nethermind/pull/8643) - 2025-05-17
+* [Pull Request] [taiko alethia pacaya fork activation](https://github.com/NethermindEth/nethermind/pull/8642) - 2025-05-17

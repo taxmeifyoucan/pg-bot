@@ -35,3 +35,5 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix: multi-type](https://github.com/status-im/nimbus-eth1/commit/e72a0669d0b60cdef077ca53b874b9cbea788355) - 2025-05-16
 * [Commit] [fix: fluffy and t8n](https://github.com/status-im/nimbus-eth1/commit/623a2cd872bd1ed911d63b84108fdeb6eec419bf) - 2025-05-16
 * [Pull Request] [drop logsBloom support](https://github.com/status-im/nimbus-eth1/pull/3292) - 2025-05-16
+* [Pull Request] [bump nim-eth to addcbfa4394727dabacd26856beb2a1931b483f6](https://github.com/status-im/nimbus-eth1/pull/3295) - 2025-05-17
+* [Commit] [bump nim-eth to addcbfa4394727dabacd26856beb2a1931b483f6](https://github.com/status-im/nimbus-eth1/commit/ed101d21c35187b15656120ebcf406b7b562bd47) - 2025-05-17

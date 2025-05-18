@@ -72,6 +72,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [remove input length parameter](https://github.com/ethereum/execution-spec-tests/commit/80cfea0a7cf9ce1cde025165406b50fe0d7a469a) - 2025-05-16
 * [Commit] [chore(ci): change link check flow schedule from daily to weekly (#1592)](https://github.com/ethereum/execution-spec-tests/commit/8f468d200017d68300b1feb8b84c31ec62dbcb42) - 2025-05-16
 * [Commit] [review feedback](https://github.com/ethereum/execution-spec-tests/commit/e6f84ef897e04400f34b6c73f3a291e1ebe7d3b5) - 2025-05-16
+* [Commit] [improvement](https://github.com/ethereum/execution-spec-tests/commit/926cfb2ffa678eddac2040d8c02b0222d83e83a8) - 2025-05-17
+* [Commit] [mark slow](https://github.com/ethereum/execution-spec-tests/commit/141fffef488f6fb8b4e7acb090b2dc01863b18fa) - 2025-05-17
+* [Commit] [mark slow](https://github.com/ethereum/execution-spec-tests/commit/bed7b48d41bbe02bd54560679d2f7a417ff3f785) - 2025-05-17
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

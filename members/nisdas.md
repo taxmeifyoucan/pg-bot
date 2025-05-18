@@ -21,6 +21,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Anisdas)
 * [Pull Request] [Add Archival Flag](https://github.com/OffchainLabs/prysm/pull/15218) - 2025-04-25
 * [Pull Request] [Disable Deposit Log processing after Deposit Requests are Activated](https://github.com/OffchainLabs/prysm/pull/15274) - 2025-05-13
 * [Pull Request] [Make Multivalue Slice Permanent in State](https://github.com/OffchainLabs/prysm/pull/15292) - 2025-05-15
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Nishant](https://github.com/protocolguild/documentation/pull/354) - 2025-05-17
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

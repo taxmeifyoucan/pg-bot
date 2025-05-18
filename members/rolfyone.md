@@ -28,6 +28,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Added an info message for the highest milestone (#9405)](https://github.com/Consensys/teku/commit/989b142a9bfd3f0b760159cc47fb549a15a35bb5) - 2025-05-09
 * [Pull Request] [added bpo parsing to configuration](https://github.com/Consensys/teku/pull/9406) - 2025-05-09
 * [Pull Request] [BPO - remove max blobs from fulu spec](https://github.com/Consensys/teku/pull/9427) - 2025-05-16
+* [Issue] [[REST API] implement validator_identities ](https://github.com/Consensys/teku/issues/9429) - 2025-05-17
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

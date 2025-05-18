@@ -40,3 +40,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Bump nim-eth to master branch](https://github.com/status-im/nimbus-eth1/commit/8d83e12bc11db2c6b505b9e54a3ff59076fd3de1) - 2025-05-15
 * [Commit] [Beaon sync avoid import slowdown with last slow sync peer (#3279)](https://github.com/status-im/nimbus-eth1/commit/55a661c006e31fee84e24186b2efab2e5c414669) - 2025-05-15
 * [Commit] [Replace Receipt69 with StoredReceipt from nim-eth](https://github.com/status-im/nimbus-eth1/commit/be85922f77b4718db5b704d7c82a2d1bc6090208) - 2025-05-15
+* [Commit] [bump nim-eth to addcbfa4394727dabacd26856beb2a1931b483f6 (#3295)](https://github.com/status-im/nimbus-eth1/commit/7c74bddbd7b3442ac773961a86e3babd2c31b3cc) - 2025-05-17

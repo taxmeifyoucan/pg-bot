@@ -93,6 +93,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/51391637883122a6d0877ed4c7b62c75cd21e877) - 2025-05-15
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/bc09a00a649e507fd007038f3b77c38e9fe74445) - 2025-05-16
 * [Pull Request] [minsup version dept (added domain openDirtyFiles improvements)](https://github.com/erigontech/erigon/pull/15087) - 2025-05-16
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/933fe93e10cc7c9a3789a5ae4ba25f6b1d591ef9) - 2025-05-17
+* [Pull Request] [VM OPSwap optimisation](https://github.com/erigontech/erigon/pull/15115) - 2025-05-17
+* [Issue] [Add improvement of stack swap performance](https://github.com/erigontech/erigon/issues/15114) - 2025-05-17
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/8f6d51482d901e1de0d47e0fa0304b54266fe13a) - 2025-05-17
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/5352a110ab1a744bd0876d4e688d5931c835df98) - 2025-05-17
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/277416fb5bf99ae3511a6a3c1c6a40203c759c00) - 2025-05-17
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/34b67ea1ee1119180a0ffbd6f70126d11129962f) - 2025-05-17
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/8631fc9874c2184bebed42cc2d5f881c0ba547c1) - 2025-05-17
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/8d789eb389b741eb5de87fd3e2c7f8b550802245) - 2025-05-17
+* [Pull Request] [mdbx v0.13.6](https://github.com/erigontech/erigon/pull/15112) - 2025-05-17
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

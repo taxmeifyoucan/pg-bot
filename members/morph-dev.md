@@ -20,6 +20,8 @@ Team: Portal Network (EF)
 * [Issue] [Break e2hs-writer and portal-bridge dependency](https://github.com/ethereum/trin/issues/1824) - 2025-05-14
 * [Commit] [ci: fix job names across workflows (#1829)](https://github.com/ethereum/trin/commit/e47418e43ee8353e65f2a2164f6ecab91f1f0fb5) - 2025-05-15
 * [Pull Request] [feat: create ChainHead](https://github.com/ethereum/trin/pull/1832) - 2025-05-16
+* [Pull Request] [feat: update chain_head](https://github.com/ethereum/trin/pull/1836) - 2025-05-17
+* [Commit] [feat: create ChainHead (#1832)](https://github.com/ethereum/trin/commit/a978748a12736b84a31a2e37c2dc7d6e2ad1700c) - 2025-05-17
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

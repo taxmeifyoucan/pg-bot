@@ -31,6 +31,8 @@ Team: Nethermind
 * [Commit] [just for testing](https://github.com/NethermindEth/nethermind/commit/fa220c8e347ee856d374a56b6cdbef92a385c245) - 2025-05-08
 * [Commit] [force analysis and avoid null in tests](https://github.com/NethermindEth/nethermind/commit/5e7d28130dff7a997a82975c60365b9fdf7e0c57) - 2025-05-16
 * [Commit] [fix returnData opcodes (collision of returnData with returnDataBuffer)](https://github.com/NethermindEth/nethermind/commit/ae5235aa4aa24dcd00d44e7fa260d65139b901ee) - 2025-05-16
+* [Commit] [remove loggin](https://github.com/NethermindEth/nethermind/commit/725751563ec00082ffc04beae5c4dbe982d51995) - 2025-05-17
+* [Commit] [fix EXTCODECOPY/EXTCODESIZE delegation issue](https://github.com/NethermindEth/nethermind/commit/1f6a571233241467d9b1f43e3ed1e30c471589b5) - 2025-05-17
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

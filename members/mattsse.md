@@ -280,6 +280,13 @@ Team: Reth
 * [Commit] [chore: bump inspectors 0.22.1 (#16291)](https://github.com/paradigmxyz/reth/commit/710a783461d7534a9ae51cc4c9bfe963f5b3c055) - 2025-05-16
 * [Issue] [Introduce PoolTransaction::into_consesus_with2718](https://github.com/paradigmxyz/reth/issues/16292) - 2025-05-16
 * [Pull Request] [chore: bump inspectors 0.22.1](https://github.com/paradigmxyz/reth/pull/16291) - 2025-05-16
+* [Issue] [Replace reth-provider dep with reth-storage-api in reth-rpc-eth-api](https://github.com/paradigmxyz/reth/issues/16317) - 2025-05-17
+* [Commit] [chore: flatten deps (#16315)](https://github.com/paradigmxyz/reth/commit/b4f9bec8522ed7e11e98d76fbf986b78964d137a) - 2025-05-17
+* [Commit] [chore: rm jsonrpsee features (#16314)](https://github.com/paradigmxyz/reth/commit/85775b5a79ce56623c8f54ce273e280f6bddd64a) - 2025-05-17
+* [Commit] [chore: make clippy happy (#16316)](https://github.com/paradigmxyz/reth/commit/b551dc30575174b6855e40fd55dc9f8ebed86790) - 2025-05-17
+* [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/16316) - 2025-05-17
+* [Pull Request] [chore: flatten deps](https://github.com/paradigmxyz/reth/pull/16315) - 2025-05-17
+* [Pull Request] [chore: rm jsonrpsee features](https://github.com/paradigmxyz/reth/pull/16314) - 2025-05-17
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

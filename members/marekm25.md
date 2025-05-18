@@ -13,6 +13,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Issue] [Adjust RPC errors for 4444](https://github.com/NethermindEth/nethermind/issues/8493) - 2025-04-09
+* [Commit] [Bump up the version to 1.33.0-unstable (#8533)](https://github.com/NethermindEth/nethermind/commit/d186adfa462dad452ea379a9dfd8d351a55c0787) - 2025-05-17
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
