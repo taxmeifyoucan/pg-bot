@@ -14,6 +14,7 @@ Team: Portal Network (EF)
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Pull Request] [Add first version of the spec for the Head-MPT State network](https://github.com/ethereum/portal-network-specs/pull/389) - 2025-04-09
 
+* [Pull Request] [beacon: UpdatesByRange don't have to be full, clarify FindContent logic](https://github.com/ethereum/portal-network-specs/pull/403) - 2025-05-18
 [ethereum/trin](https://github.com/ethereum/trin)
 * [Commit] [ci: build and publish docker image on tag (#1818)](https://github.com/ethereum/trin/commit/964e5613a0eba91cb700d7312add1709ca517345) - 2025-05-13
 * [Pull Request] [refactor: move consensus related constants into ethportal-api](https://github.com/ethereum/trin/pull/1825) - 2025-05-14
@@ -22,6 +23,8 @@ Team: Portal Network (EF)
 * [Pull Request] [feat: create ChainHead](https://github.com/ethereum/trin/pull/1832) - 2025-05-16
 * [Pull Request] [feat: update chain_head](https://github.com/ethereum/trin/pull/1836) - 2025-05-17
 * [Commit] [feat: create ChainHead (#1832)](https://github.com/ethereum/trin/commit/a978748a12736b84a31a2e37c2dc7d6e2ad1700c) - 2025-05-17
+* [Pull Request] [feat: remove DistanceFunction](https://github.com/ethereum/trin/pull/1838) - 2025-05-18
+* [Commit] [chore(deps): weekly `cargo update` (#1837)](https://github.com/ethereum/trin/commit/25585ef477e942e9c91d1c3805eed7e883a126d8) - 2025-05-18
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

@@ -125,6 +125,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [mark --finalized-deposit-tree-snapshot command-line option as deprecated](https://github.com/status-im/nimbus-eth2/pull/7159) - 2025-05-13
 * [Commit] [rm -d:gnosisChainBinary hack (#7162)](https://github.com/status-im/nimbus-eth2/commit/c60562bb1bbc3d7c9c6dd8838e1eee4467819816) - 2025-05-15
 * [Pull Request] [rm -d:gnosisChainBinary hack](https://github.com/status-im/nimbus-eth2/pull/7162) - 2025-05-15
+* [Commit] [automated consensus spec URL updating to v1.5.0 (#7169)](https://github.com/status-im/nimbus-eth2/commit/ff59a9e85ac1a25993d5941a2269468426a53925) - 2025-05-19
+* [Commit] [small EL manager cleanup (#7167)](https://github.com/status-im/nimbus-eth2/commit/a0d9bc24a7887385595e0eaeb7a9d86ae90d006c) - 2025-05-19
+* [Commit] [Refactored version of BlobSidecar/DataColumnSidecar quarantine. (#7100)](https://github.com/status-im/nimbus-eth2/commit/7965d4094ee4c7e9644c75e5ada488163317e5bb) - 2025-05-19
+* [Commit] [bump sepolia (#7168)](https://github.com/status-im/nimbus-eth2/commit/75bdc6cd0f526f43be535cc48c856f765702fde9) - 2025-05-19
+* [Pull Request] [automated consensus spec URL updating to v1.5.0](https://github.com/status-im/nimbus-eth2/pull/7169) - 2025-05-18
+* [Commit] [small EL manager cleanup](https://github.com/status-im/nimbus-eth2/commit/47a1dc483197647d70ed8834b3586bc53b5b382e) - 2025-05-18
+* [Commit] [small EL manager cleanup](https://github.com/status-im/nimbus-eth2/commit/9865754c8b956de5a6634fef2f5c38948760f9fe) - 2025-05-18
+* [Pull Request] [bump sepolia](https://github.com/status-im/nimbus-eth2/pull/7168) - 2025-05-18
+* [Pull Request] [small EL manager cleanup](https://github.com/status-im/nimbus-eth2/pull/7167) - 2025-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 
@@ -140,6 +149,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [copyright year linting](https://github.com/status-im/nimbus-eth1/commit/c2b541173394841b39665e3daae13ae318a9e75b) - 2025-05-12
 * [Pull Request] [fix some Nim 2.2 warnings](https://github.com/status-im/nimbus-eth1/pull/3276) - 2025-05-12
 * [Issue] [Implement EIP-7823](https://github.com/status-im/nimbus-eth1/issues/3287) - 2025-05-15
+* [Issue] [headers_staged.nim(283, 3) `ctx.headersBorrowedIsEmpty()`  [AssertionDefect] syncing Sepolia](https://github.com/status-im/nimbus-eth1/issues/3298) - 2025-05-18
+* [Commit] [Bump nim-libbacktrace to 99cd1a3f1568e7cfbbb6d886c93e4452dc65e4ef (#3297)](https://github.com/status-im/nimbus-eth1/commit/3bd6188f50bfa3f999826031a5f867b59489fc9d) - 2025-05-18
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

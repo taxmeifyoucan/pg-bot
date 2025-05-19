@@ -53,6 +53,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Fix E2ESyncTest (#8602)](https://github.com/NethermindEth/nethermind/commit/2a8591de1779df956958323418be7a29f26e8526) - 2025-05-16
 * [Commit] [Fix filter timeouts, set to 15m (#8633)](https://github.com/NethermindEth/nethermind/commit/6286b8c978a099cc8120ec49884f96166166a08c) - 2025-05-16
 * [Pull Request] [Fix filter timeouts, set to 15m](https://github.com/NethermindEth/nethermind/pull/8633) - 2025-05-16
+* [Commit] [Update OP Superchain chains (#8644)](https://github.com/NethermindEth/nethermind/commit/1a07baf79469352474bb54e6ac28d7db05c4e580) - 2025-05-18
+* [Commit] [Auto-update fast sync settings (#8645)](https://github.com/NethermindEth/nethermind/commit/2334592fa6e3cd60d07a875e4d88d35f78acffd2) - 2025-05-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

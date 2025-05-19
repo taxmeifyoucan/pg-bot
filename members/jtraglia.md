@@ -75,6 +75,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Generate reference tests for EIP7732 & EIP7805 (#4319)](https://github.com/ethereum/consensus-specs/commit/cc6996c22692d70e41b7a453d925172ee4b719ad) - 2025-05-16
 * [Commit] [Fix phase run decorator to skip EIP-7732 as intended (#4326)](https://github.com/ethereum/consensus-specs/commit/ce38cd5faf45c2fe39d1db6794efaef6155413ef) - 2025-05-17
 * [Commit] [Do import sorting with isort (#4327)](https://github.com/ethereum/consensus-specs/commit/e0d69671a6d9845bd7f9b99fe3ecae07709b6f8c) - 2025-05-17
+* [Commit] [Bump version to 1.6.0-alpha.0 (#4329)](https://github.com/ethereum/consensus-specs/commit/de0875a34ade7c7b9724335dca25f6ad72149935) - 2025-05-18
+* [Pull Request] [Bump version to 1.6.0-alpha.0](https://github.com/ethereum/consensus-specs/pull/4329) - 2025-05-18
+* [Commit] [Update `isort` to `order_by_type = false` (#4328)](https://github.com/ethereum/consensus-specs/commit/45159ada50a25188c88c8ebc9bb2cae445836ca4) - 2025-05-18
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

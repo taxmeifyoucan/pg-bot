@@ -29,6 +29,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [added bpo parsing to configuration](https://github.com/Consensys/teku/pull/9406) - 2025-05-09
 * [Pull Request] [BPO - remove max blobs from fulu spec](https://github.com/Consensys/teku/pull/9427) - 2025-05-16
 * [Issue] [[REST API] implement validator_identities ](https://github.com/Consensys/teku/issues/9429) - 2025-05-17
+* [Commit] [BPO - remove max blobs from fulu spec (#9427)](https://github.com/Consensys/teku/commit/1109fd434bec2ced0c84f9001bee3b0e23f18b40) - 2025-05-18
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

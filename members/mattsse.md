@@ -287,6 +287,11 @@ Team: Reth
 * [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/16316) - 2025-05-17
 * [Pull Request] [chore: flatten deps](https://github.com/paradigmxyz/reth/pull/16315) - 2025-05-17
 * [Pull Request] [chore: rm jsonrpsee features](https://github.com/paradigmxyz/reth/pull/16314) - 2025-05-17
+* [Commit] [chore: fix make-pr lint-codespell errors (#16324)](https://github.com/paradigmxyz/reth/commit/8987bce75d43fca143cf7983353d5af83cfe92d9) - 2025-05-18
+* [Commit] [chore(deps): weekly `cargo update` (#16323)](https://github.com/paradigmxyz/reth/commit/4d61d663fb7beeaeab075c11210d89c224ae0c22) - 2025-05-18
+* [Commit] [updae book](https://github.com/paradigmxyz/reth/commit/34f496b5db3001c38b4626cd6ba6e1beb3ba5014) - 2025-05-18
+* [Commit] [docs: add some docs about TaskExecutor](https://github.com/paradigmxyz/reth/commit/ebccaf562fdbaf9fb5b8d243f3dfc18e77ff53e9) - 2025-05-18
+* [Pull Request] [docs: add some docs about TaskExecutor](https://github.com/paradigmxyz/reth/pull/16327) - 2025-05-18
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

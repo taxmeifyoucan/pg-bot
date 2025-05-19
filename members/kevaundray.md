@@ -42,6 +42,9 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore: Add `ClientInput` struct to `reth-stateless`](https://github.com/paradigmxyz/reth/pull/16320) - 2025-05-17
 * [Pull Request] [Kw/stateless experiment zkvm benchmarks](https://github.com/paradigmxyz/reth/pull/16319) - 2025-05-17
 * [Pull Request] [chore: Move execution witness checks outside of `WitnessDB`](https://github.com/paradigmxyz/reth/pull/16318) - 2025-05-17
+* [Issue] [Consider using a procedural macro for `serde-bincode-compat` feature flag](https://github.com/paradigmxyz/reth/issues/16330) - 2025-05-18
+* [Pull Request] [Experiment: Pull genesis function outside of EthChainSpec](https://github.com/paradigmxyz/reth/pull/16329) - 2025-05-18
+* [Pull Request] [Experiment: Genericise stateless_validation API so that it is not fixed to ](https://github.com/paradigmxyz/reth/pull/16328) - 2025-05-18
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [zkevm: Add marker for bls tests](https://github.com/ethereum/execution-spec-tests/pull/1514) - 2025-04-30
 * [Issue] [zkevm: Add zkevm marker on all bls12-381 tests](https://github.com/ethereum/execution-spec-tests/issues/1527) - 2025-05-02

@@ -103,6 +103,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/8631fc9874c2184bebed42cc2d5f881c0ba547c1) - 2025-05-17
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/8d789eb389b741eb5de87fd3e2c7f8b550802245) - 2025-05-17
 * [Pull Request] [mdbx v0.13.6](https://github.com/erigontech/erigon/pull/15112) - 2025-05-17
+* [Pull Request] [fix of compile on main](https://github.com/erigontech/erigon/pull/15134) - 2025-05-18
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -50,6 +50,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Move legacy files to new naming + create deprecation file](https://github.com/status-im/nimbus-eth1/commit/c3e2df6a75258e19dc5283b2811d2f33ee2c483a) - 2025-05-16
 * [Commit] [Rename fluffy to portal/nimbus_portal_client](https://github.com/status-im/nimbus-eth1/commit/2153643c9168185427a21856237b1457e358bbd0) - 2025-05-16
 * [Commit] [Rename fluffy to portal/nimbus_portal_client](https://github.com/status-im/nimbus-eth1/commit/3b2e9a5c18787cea9162bcac10b6b87ac4e8c590) - 2025-05-16
+* [Commit] [Rename fluffy to portal/nimbus_portal_client (#3289)](https://github.com/status-im/nimbus-eth1/commit/57d3748c6142ffd013ea83c80946669e1242bf00) - 2025-05-18
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28

@@ -187,6 +187,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Tidy up](https://github.com/NethermindEth/nethermind/commit/5612d1eec5885eaf873b506f179d69f8f882d608) - 2025-05-11
 * [Commit] [refactor](https://github.com/NethermindEth/nethermind/commit/9751bc72fdf3483b73f62b53bfe02a5184ca0fad) - 2025-05-11
 * [Commit] [Add state availability checks before debug module tracing (#8621)](https://github.com/NethermindEth/nethermind/commit/32cc7bd3020686411377f6dc9cfeb1cb1dc96870) - 2025-05-15
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/f79cdbb06fe5c4501843ea46b9b4f27360dc977c) - 2025-05-18
+* [Commit] [Apply suggestions from code review](https://github.com/NethermindEth/nethermind/commit/45c7042ab2d931553ae14fb9d979983ab48badd6) - 2025-05-18
+* [Commit] [Format](https://github.com/NethermindEth/nethermind/commit/513bd3b8c9946a6392bc1caf7113a19508dccb2b) - 2025-05-18
+* [Pull Request] [Implement Eip7823](https://github.com/NethermindEth/nethermind/pull/8649) - 2025-05-18
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

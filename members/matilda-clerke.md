@@ -13,3 +13,4 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Update to discovery 25.4.0](https://github.com/hyperledger/besu/pull/8635) - 2025-05-16
+* [Commit] [Update to discovery 25.4.0 (#8635)](https://github.com/hyperledger/besu/commit/c2a44623cf5eeb8ee76b854832a2f10261ea8c74) - 2025-05-18

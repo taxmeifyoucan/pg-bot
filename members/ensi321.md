@@ -47,6 +47,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [EOF](https://github.com/ChainSafe/lodestar/commit/011291096c08f668013f1fd0fda6e32570c7accd) - 2025-05-12
 * [Commit] [remove on.push.branches](https://github.com/ChainSafe/lodestar/commit/a4c4a9558a9d01764f4e63b70e510daaa09054f4) - 2025-05-16
 * [Pull Request] [fix: review EIP-7045](https://github.com/ChainSafe/lodestar/pull/7838) - 2025-05-16
+* [Commit] [Update `validateAttestation` error message](https://github.com/ChainSafe/lodestar/commit/9831d0b0b45a8a357e8d9a8052482221414165a6) - 2025-05-18
+* [Pull Request] [fix: advance pre state's slot used in rewards endpoints](https://github.com/ChainSafe/lodestar/pull/7842) - 2025-05-18
+* [Commit] [chore: bump package versions to 1.30.0](https://github.com/ChainSafe/lodestar/commit/123eb2d9fb71dd10076a47bc7787bf4ec40343da) - 2025-05-18
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

@@ -41,3 +41,5 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Beaon sync avoid import slowdown with last slow sync peer (#3279)](https://github.com/status-im/nimbus-eth1/commit/55a661c006e31fee84e24186b2efab2e5c414669) - 2025-05-15
 * [Commit] [Replace Receipt69 with StoredReceipt from nim-eth](https://github.com/status-im/nimbus-eth1/commit/be85922f77b4718db5b704d7c82a2d1bc6090208) - 2025-05-15
 * [Commit] [bump nim-eth to addcbfa4394727dabacd26856beb2a1931b483f6 (#3295)](https://github.com/status-im/nimbus-eth1/commit/7c74bddbd7b3442ac773961a86e3babd2c31b3cc) - 2025-05-17
+* [Pull Request] [Bump nim-libbacktrace to 99cd1a3f1568e7cfbbb6d886c93e4452dc65e4ef](https://github.com/status-im/nimbus-eth1/pull/3297) - 2025-05-18
+* [Pull Request] [Bump nim-chronos to b55e2816eb45f698ddaca8d8473e401502562db2](https://github.com/status-im/nimbus-eth1/pull/3296) - 2025-05-18

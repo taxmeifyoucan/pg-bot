@@ -60,6 +60,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Remove unused fieldparams (#15263)](https://github.com/OffchainLabs/prysm/commit/0251fd78e98e245715a50906a1119db4328afdff) - 2025-05-14
 * [Commit] [PeerDAS: Implement core. (#15192)](https://github.com/OffchainLabs/prysm/commit/7da7019a200687c454a2ae8929c9a54451b04a40) - 2025-05-14
 * [Commit] [Fix e2e test](https://github.com/OffchainLabs/prysm/commit/4442b1f366aa07dbdd99cc58f27bb23dc1781ca8) - 2025-05-17
+* [Commit] [Use current slot helper whenever possible](https://github.com/OffchainLabs/prysm/commit/4c0b91d8d1adc495256de410680acf677ec91904) - 2025-05-18
+* [Commit] [Use current slot helper whenever possible](https://github.com/OffchainLabs/prysm/commit/33c30810e23ef9f279ee7517704121dd2099859a) - 2025-05-18
+* [Pull Request] [Use current slot helper whenever possible](https://github.com/OffchainLabs/prysm/pull/15301) - 2025-05-18
+* [Pull Request] [Remove unused protobuf import](https://github.com/OffchainLabs/prysm/pull/15300) - 2025-05-18
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

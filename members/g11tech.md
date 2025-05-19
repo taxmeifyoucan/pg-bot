@@ -29,6 +29,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [exclude selection of 7594 txs if hardfork not yet happened](https://github.com/ethereumjs/ethereumjs-monorepo/commit/18e0ad6f6659d9011da3709727a368c8293e241d) - 2025-05-12
 * [Commit] [fix breaking client tests](https://github.com/ethereumjs/ethereumjs-monorepo/commit/f91bea7ecdc9e2e2ec8178e4e18388be080c0411) - 2025-05-13
 
+* [Commit] [add bpos to blobschedule test and get the test working](https://github.com/ethereumjs/ethereumjs-monorepo/commit/48e5a38bcf17a504c9926b3ca426650198c48460) - 2025-05-18
+* [Commit] [Consolidate and Update Developer Docs (#4079)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/3bb0617fc6e0c75110c0c198288ab2788f6dab2e) - 2025-05-18
+* [Pull Request] [common: add 5 bpo hardforks for blobSchedule specification](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4085) - 2025-05-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Further simplify DataColumnSidecarsByRoot request](https://github.com/ethereum/consensus-specs/pull/4323) - 2025-05-16
 ## Q1 2025
