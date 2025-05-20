@@ -131,6 +131,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [remove count_Txs command](https://github.com/erigontech/erigon/commit/16226fe79050483f7774012bd1497f2bde8cfba4) - 2025-05-18
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6411bf3a0519c3d69d6fd4f062fa477de0985135) - 2025-05-18
 * [Commit] [save](https://github.com/erigontech/erigon/commit/aff6a9ccc7ddb519e777fdd97f5caa5a031a1b64) - 2025-05-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0974af7b1828db82e662a62546a59085b9791c78) - 2025-05-19
+* [Pull Request] [cp: fast fail integration subcommands on missing salt files](https://github.com/erigontech/erigon/pull/15146) - 2025-05-19
+* [Pull Request] [notify rpcd when e3 files change (#15044)](https://github.com/erigontech/erigon/pull/15145) - 2025-05-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/29b5f2c45aea2d1b236384d68a89d1ef1ad0d9e5) - 2025-05-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/03fea60fe082c3a18e960ac86f51a462b3e26f0e) - 2025-05-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fa0a23fc7d543e977fba3678fe757823143f01f7) - 2025-05-19
+* [Commit] [notify rpcd when e3 files change (#15044)](https://github.com/erigontech/erigon/commit/158c474f52a66a0454df7d7a0a5ed80b0a6af735) - 2025-05-19
+* [Commit] [ci: temporarily disable failing tests after PR 12907 (#15059)](https://github.com/erigontech/erigon/commit/3dc4dabd3f863a578bfc0b3d5aa12d166c68240d) - 2025-05-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f4ad32584b1b474932bdb3a58bbb6c27735e11e1) - 2025-05-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9c8bf6c2da12532bde7e4df639c8f882693f613c) - 2025-05-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

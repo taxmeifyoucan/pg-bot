@@ -43,3 +43,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [bump nim-eth to addcbfa4394727dabacd26856beb2a1931b483f6 (#3295)](https://github.com/status-im/nimbus-eth1/commit/7c74bddbd7b3442ac773961a86e3babd2c31b3cc) - 2025-05-17
 * [Pull Request] [Bump nim-libbacktrace to 99cd1a3f1568e7cfbbb6d886c93e4452dc65e4ef](https://github.com/status-im/nimbus-eth1/pull/3297) - 2025-05-18
 * [Pull Request] [Bump nim-chronos to b55e2816eb45f698ddaca8d8473e401502562db2](https://github.com/status-im/nimbus-eth1/pull/3296) - 2025-05-18
+* [Commit] [eth/69: Disconnect peer when receive invalid blockRangeUpdate (#3300)](https://github.com/status-im/nimbus-eth1/commit/37da1503c651eb500f4739c93fd810df951d166b) - 2025-05-19
+* [Commit] [Use debug instead of trace to log blockRangeUpdate](https://github.com/status-im/nimbus-eth1/commit/f7457998f11156ae46b5347f3691d40c784d9da9) - 2025-05-19
+* [Commit] [Override compiler side effect analysis](https://github.com/status-im/nimbus-eth1/commit/8c62c74d61790c6abc593347044d003f39ece6d3) - 2025-05-19
+* [Pull Request] [Fix hoodi chain config](https://github.com/status-im/nimbus-eth1/pull/3304) - 2025-05-19
+* [Commit] [Add trace log when disconnecting peer](https://github.com/status-im/nimbus-eth1/commit/86dd252b8e4ecb7930cb0e58745d5da303532858) - 2025-05-19
+* [Pull Request] [Avoid persisting the same txFrame twice in updateBase](https://github.com/status-im/nimbus-eth1/pull/3301) - 2025-05-19
+* [Pull Request] [eth/69: Disconnect peer when receive invalid blockRangeUpdate](https://github.com/status-im/nimbus-eth1/pull/3300) - 2025-05-19

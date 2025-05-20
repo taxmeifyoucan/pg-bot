@@ -106,6 +106,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [[e30] reduce default `--torrent.download.slots`  (#14903)](https://github.com/erigontech/erigon/commit/d0cba715278e94e546753de5ebcee16d2536c437) - 2025-05-07
 * [Commit] [Proper reset](https://github.com/erigontech/erigon/commit/3b1f03b561106760bc379bb190089bf39872588f) - 2025-05-09
 * [Pull Request] [Fix RIP-7560 validation gas usage](https://github.com/erigontech/erigon/pull/15033) - 2025-05-14
+* [Commit] [Fixes](https://github.com/erigontech/erigon/commit/5eb64ab9d46e2dc8d6094a2a98f9249f19ebec22) - 2025-05-19
+* [Commit] [Lint](https://github.com/erigontech/erigon/commit/16d402c5a830d6b946aa2030d05d9727a620d131) - 2025-05-19
+* [Commit] [Fix signature](https://github.com/erigontech/erigon/commit/ebf6c65a8079e256b686a2907201776a4cd33813) - 2025-05-19
+* [Commit] [sonar: move sonar github action after make test-all (#14709)](https://github.com/erigontech/erigon/commit/6157f6997595c80b34188990dce6ecd67dad2754) - 2025-05-19
+* [Commit] [return deleted mapping logs (#14846)](https://github.com/erigontech/erigon/commit/94c165064b0fd763c9cf8c43cc6821535c03148a) - 2025-05-19
+* [Commit] [Read rules](https://github.com/erigontech/erigon/commit/addacda39cc1d22f49a92ffa4fa2420fe7b20349) - 2025-05-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

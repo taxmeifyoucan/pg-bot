@@ -292,6 +292,12 @@ Team: Reth
 * [Commit] [updae book](https://github.com/paradigmxyz/reth/commit/34f496b5db3001c38b4626cd6ba6e1beb3ba5014) - 2025-05-18
 * [Commit] [docs: add some docs about TaskExecutor](https://github.com/paradigmxyz/reth/commit/ebccaf562fdbaf9fb5b8d243f3dfc18e77ff53e9) - 2025-05-18
 * [Pull Request] [docs: add some docs about TaskExecutor](https://github.com/paradigmxyz/reth/pull/16327) - 2025-05-18
+* [Commit] [update book](https://github.com/paradigmxyz/reth/commit/d6714ac1c3a60a34e9e07be7b8b437f507fe05ff) - 2025-05-19
+* [Pull Request] [chore: bump alloy 1.0.4](https://github.com/paradigmxyz/reth/pull/16345) - 2025-05-19
+* [Issue] [last_block_number vs best_block_number is confusing](https://github.com/paradigmxyz/reth/issues/16344) - 2025-05-19
+* [Pull Request] [chore: bump inspectors](https://github.com/paradigmxyz/reth/pull/16342) - 2025-05-19
+* [Issue] [Add BlockRangeUpdate message for eth69](https://github.com/paradigmxyz/reth/issues/16337) - 2025-05-19
+* [Pull Request] [Revert "refactor(mempool): Refactor transaction validation to use batch interface"](https://github.com/paradigmxyz/reth/pull/16334) - 2025-05-19
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

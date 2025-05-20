@@ -92,6 +92,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Add fulu spec tests for finality and merkle proof (#15286)](https://github.com/OffchainLabs/prysm/commit/0b3289361c56aaaccfe598e31a4117d85d3693d7) - 2025-05-16
 * [Commit] [reverting config override](https://github.com/OffchainLabs/prysm/commit/171740e689b006433cac8034157fc22c976f595c) - 2025-05-16
 * [Commit] [maybe there's some flake with how the state is used, trying with it moved](https://github.com/OffchainLabs/prysm/commit/ce2bad6f33b587e51688f94dd6439d70bc848823) - 2025-05-16
+* [Commit] [adding in temporary fix until web3signer is supported for blob schedule in config](https://github.com/OffchainLabs/prysm/commit/552693fb68ca07a88f5a0874d1d545c860ff6f59) - 2025-05-19
+* [Commit] [Add fulu spec tests for sanity and reward (#15285)](https://github.com/OffchainLabs/prysm/commit/eafef8c7c803f5a63755a9a63377c3bd6459aa41) - 2025-05-19
+* [Commit] [reverting all changes to get duties v1 based on preston's feedback](https://github.com/OffchainLabs/prysm/commit/cbaea72322b061658138bf5e94a26f7af36ce4ce) - 2025-05-19
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

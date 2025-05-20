@@ -147,6 +147,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: fix broken panels due to missing historical state worker metrics](https://github.com/ChainSafe/lodestar/commit/f7678a4a06752b16498afe4277323fc1bed4d2b7) - 2025-05-14
 * [Commit] [Fix blob schedule parsing and config/spec output](https://github.com/ChainSafe/lodestar/commit/dea4739e9a66abded12f4b35958a6de781b81868) - 2025-05-16
 * [Commit] [Fix gnosis config](https://github.com/ChainSafe/lodestar/commit/3d748ba49a28b396a39a43d970b27f6297710f7b) - 2025-05-16
+* [Commit] [fix: advance pre state's slot used in rewards endpoints (#7842)](https://github.com/ChainSafe/lodestar/commit/83fd80d5759b4b3f8aa9332ac53af2c7e1977d8a) - 2025-05-19
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

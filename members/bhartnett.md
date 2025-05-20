@@ -62,3 +62,6 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Point to latest nim-eth.](https://github.com/status-im/nimbus-eth1/commit/3297c54e2661b785e46833a8f2f4e7c1882732b3) - 2025-05-14
 * [Commit] [Bump nim-eth to 5957dce55a4bfe00899ecc14006f72c6608b43df (#3285)](https://github.com/status-im/nimbus-eth1/commit/9d896dc00a6cdcd807369a946f7a3879ded78539) - 2025-05-14
 * [Commit] [Update nim-eth after reverting broken changes.](https://github.com/status-im/nimbus-eth1/commit/9d29e4e670bd2ea94c277c3ec0f835f79569655b) - 2025-05-14
+* [Commit] [For now peerCount returned in PutContent should include DeclinedAlreadyStored.](https://github.com/status-im/nimbus-eth1/commit/31a9b4215d89c5df8eab67b8b4a0cb46fc7ae1f2) - 2025-05-19
+* [Commit] [Use asyncSpawn for triggerPoke.](https://github.com/status-im/nimbus-eth1/commit/cb603b72bbe4b4893e093e38ac0504edc71547ca) - 2025-05-19
+* [Pull Request] [Nimbus Portal Client: Remove offer workers and support sending rate limited offers](https://github.com/status-im/nimbus-eth1/pull/3303) - 2025-05-19

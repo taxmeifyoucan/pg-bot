@@ -31,6 +31,7 @@ Team: Portal Network (EF)
 * [Pull Request] [chore: bump most dependencies](https://github.com/ethereum/trin/pull/1834) - 2025-05-17
 * [Commit] [feat: remove no longer used DROP_USAGE_STATS_DB sql query (#1833)](https://github.com/ethereum/trin/commit/66ea84ef8ac97090765ef4926bc9e1a48964ae3f) - 2025-05-17
 * [Pull Request] [feat: remove no longer used DROP_USAGE_STATS_DB sql query](https://github.com/ethereum/trin/pull/1833) - 2025-05-17
+* [Pull Request] [refactor: move EthereumAPI functions into Execution/Consensus API](https://github.com/ethereum/trin/pull/1842) - 2025-05-19
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

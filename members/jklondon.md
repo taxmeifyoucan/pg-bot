@@ -104,6 +104,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/8d789eb389b741eb5de87fd3e2c7f8b550802245) - 2025-05-17
 * [Pull Request] [mdbx v0.13.6](https://github.com/erigontech/erigon/pull/15112) - 2025-05-17
 * [Pull Request] [fix of compile on main](https://github.com/erigontech/erigon/pull/15134) - 2025-05-18
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/af149a2d7a3f8ef598c60445dbd18f5851efa22b) - 2025-05-19
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/4ef32f587dff2f240cd3ce9837b860a6dc1a1ad3) - 2025-05-19
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/ef6cc0091234ed70be5b6e3681b71c1d24520b28) - 2025-05-19
+* [Pull Request] [lock agg.close() until files building](https://github.com/erigontech/erigon/pull/15157) - 2025-05-19
+* [Pull Request] [db tools fix](https://github.com/erigontech/erigon/pull/15140) - 2025-05-19
+* [Commit] [fix of compile on main (#15134)](https://github.com/erigontech/erigon/commit/bfae1a755f5bb4950348c2dcdedce1798096c3ac) - 2025-05-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

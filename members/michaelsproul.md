@@ -69,6 +69,14 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Increase default work queue size](https://github.com/sigp/lighthouse/pull/7415) - 2025-05-08
 * [Issue] [Remove client/server code for deprecated `GET validator/blinded_blocks` endpoint](https://github.com/sigp/lighthouse/issues/7456) - 2025-05-14
 * [Commit] [Fix mergify infinite loop. (#7463)](https://github.com/sigp/lighthouse/commit/cc6ae9d3f09c412a97e887a87a00a9877282f294) - 2025-05-15
+* [Issue] [Add fallback for `GET /eth/v1/beacon/blobs`](https://github.com/sigp/lighthouse/issues/7489) - 2025-05-19
+* [Commit] [Move legacy state storage code into migration file](https://github.com/sigp/lighthouse/commit/10965657597f3912b9f501092873908cf543d254) - 2025-05-19
+* [Commit] [Make DAG construction more permissive (#7460)](https://github.com/sigp/lighthouse/commit/c2c7fb87a8625d9024d20f96777236f651808d4d) - 2025-05-19
+* [Issue] [Test reproducible build correctness](https://github.com/sigp/lighthouse/issues/7485) - 2025-05-19
+* [Issue] [Default queue is too small for `SingleAttestation` messages post-Pectra](https://github.com/sigp/lighthouse/issues/7483) - 2025-05-19
+* [Pull Request] [Update mdlint to disable descriptive-link-text](https://github.com/sigp/lighthouse/pull/7481) - 2025-05-19
+* [Commit] [Update comment/remove TODO](https://github.com/sigp/lighthouse/commit/00ef82af761e392bb2fa616f4a80ef9f3f0c45e4) - 2025-05-19
+* [Issue] [Delete `POST /eth/v1/beacon/blocks`](https://github.com/sigp/lighthouse/issues/7478) - 2025-05-19
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

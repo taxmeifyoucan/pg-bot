@@ -72,6 +72,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Evict txs with to many blobs, don't allow gaps](https://github.com/NethermindEth/nethermind/commit/215d7024821ee924ca73a88d6a4957037cb72f0e) - 2025-05-16
 * [Commit] [Add BPOs](https://github.com/NethermindEth/nethermind/commit/36a0b9b08d44abbb70f26a2afdb8e0bf4a8ddb8b) - 2025-05-16
 * [Pull Request] [[Draft] Add BPOs](https://github.com/NethermindEth/nethermind/pull/8631) - 2025-05-16
+* [Commit] [Fix building](https://github.com/NethermindEth/nethermind/commit/9a84d33b20ddf4ccf8ca69dc97553877188848df) - 2025-05-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

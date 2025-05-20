@@ -31,6 +31,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Changelog v6.0.1](https://github.com/OffchainLabs/prysm/pull/15269) - 2025-05-12
 * [Commit] [Add Light Client Mainnet Spec Tests (#15295)](https://github.com/OffchainLabs/prysm/commit/1dea6857d50484145af49fdbf9c82739e1d478dd) - 2025-05-18
 * [Commit] [spectests: Fix sha256 (#15278)](https://github.com/OffchainLabs/prysm/commit/6f9a93ac8906496e9425e0dc918152ac8791c8e5) - 2025-05-18
+* [Commit] [Added prysm build data to otel tracing spans](https://github.com/OffchainLabs/prysm/commit/bc4c8fc3803be4671641e1ae3681087728b89c74) - 2025-05-19
+* [Commit] [Added prysm build data to otel tracing spans](https://github.com/OffchainLabs/prysm/commit/1f3f650d1c79f3f64d588935c647adfc643a1a63) - 2025-05-19
+* [Pull Request] [Added prysm build data to otel tracing spans](https://github.com/OffchainLabs/prysm/pull/15302) - 2025-05-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm team contact info](https://github.com/ethereum/pm/pull/1484) - 2025-04-17
 ## Q1 2025

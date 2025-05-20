@@ -84,6 +84,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Peerdas by root req](https://github.com/OffchainLabs/prysm/pull/15275) - 2025-05-13
 * [Commit] [blabla](https://github.com/OffchainLabs/prysm/commit/41057000959a32301fc548510989dd55eb1f52dd) - 2025-05-14
 * [Commit] [Refactor reconstruction related code.](https://github.com/OffchainLabs/prysm/commit/87de6b1be2176ed0bb5e75686cfc11ade45943ef) - 2025-05-16
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/b8fb77fc6fd7d35239602fd3b8cb292b54159397) - 2025-05-19
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/1cbbc81c53181d23ce6e14f2c84ef02e00637567) - 2025-05-19
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/0d011222d9b6b16eb129e7fe89ca3ecfff3dbcba) - 2025-05-19
+* [Commit] [Fix Kasey's comment.](https://github.com/OffchainLabs/prysm/commit/9b4239b2bd0fad3750eb08bc395626b2fd539b19) - 2025-05-19
+* [Commit] [Fix Kasey's comment.](https://github.com/OffchainLabs/prysm/commit/2857c2178147d94f0a8d2e18e800dba750f64c59) - 2025-05-19
+* [Commit] [Fix Kasey's comment.](https://github.com/OffchainLabs/prysm/commit/496bea266e4e8beeed775428da4899e74b35d756) - 2025-05-19
+* [Commit] [Add additional benchmark.](https://github.com/OffchainLabs/prysm/commit/5394a51d1f08d3b034f4f9f326ec91e8cb90dd26) - 2025-05-19
+* [Commit] [Fix Kasey's comment.](https://github.com/OffchainLabs/prysm/commit/59c2e59987e098aaede5670a5ffbbfb7a3f7468b) - 2025-05-19
+* [Commit] [`VerifyDataColumnsSidecarKZGProofs`: Add benchmarks.](https://github.com/OffchainLabs/prysm/commit/a1a5f1599002a32a347e275451f626482a6d1b6e) - 2025-05-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

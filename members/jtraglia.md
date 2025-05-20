@@ -78,6 +78,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Bump version to 1.6.0-alpha.0 (#4329)](https://github.com/ethereum/consensus-specs/commit/de0875a34ade7c7b9724335dca25f6ad72149935) - 2025-05-18
 * [Pull Request] [Bump version to 1.6.0-alpha.0](https://github.com/ethereum/consensus-specs/pull/4329) - 2025-05-18
 * [Commit] [Update `isort` to `order_by_type = false` (#4328)](https://github.com/ethereum/consensus-specs/commit/45159ada50a25188c88c8ebc9bb2cae445836ca4) - 2025-05-18
+* [Commit] [Clarify node behavior when validator custody changes (#4320)](https://github.com/ethereum/consensus-specs/commit/7a8f24800512200b7c1be9403a72863b86bc9fa1) - 2025-05-19
+* [Commit] [State that reconstructed sidecars which are not custodied may be deleted (#4332)](https://github.com/ethereum/consensus-specs/commit/921087e80ee542af1c3699e78bddaafc8464912a) - 2025-05-19
+* [Pull Request] [State that reconstructed sidecars which are not custodied may be deleted](https://github.com/ethereum/consensus-specs/pull/4332) - 2025-05-19
+* [Commit] [Add to epoch processing tests generation states before and after full epoch processing (#4155)](https://github.com/ethereum/consensus-specs/commit/f08555c2e3bc1b0cb74498d51748b44ac05c25e6) - 2025-05-19
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

@@ -56,5 +56,15 @@ Team: Reth
 * [Pull Request] [feat(engine): add `engine_getPayloadV5` skeleton](https://github.com/paradigmxyz/reth/pull/16270) - 2025-05-15
 * [Pull Request] [feat(engine): respond unsupported for payload v5 pre-osaka](https://github.com/paradigmxyz/reth/pull/16268) - 2025-05-15
 * [Commit] [add link](https://github.com/paradigmxyz/reth/commit/dfa728eeccbcbb9f903a86ae516dd54ad64cf3e8) - 2025-05-15
+* [Pull Request] [chore: add `clippy-op-dev` make script](https://github.com/paradigmxyz/reth/pull/16352) - 2025-05-19
+* [Commit] [feat(ethereum-primitives): introduce `PooledTransactionVariant` alias](https://github.com/paradigmxyz/reth/commit/bc2fe8ef1cc97c0df6ced10aad1f9c22686d7136) - 2025-05-19
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/bb502d50b2994758cdf44bb92e10dfe316fa6172) - 2025-05-19
+* [Commit] [move](https://github.com/paradigmxyz/reth/commit/2740fabf5f1798dff9847aa263c944b729362c3d) - 2025-05-19
+* [Commit] [stuff](https://github.com/paradigmxyz/reth/commit/9f2cce5bd5518f579b916a96efcc36899be25566) - 2025-05-19
+* [Pull Request] [feat(ethereum-primitives): `PooledTransactionVariant` alias](https://github.com/paradigmxyz/reth/pull/16351) - 2025-05-19
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/ee5bcbb6da5184ea0830c0d01df57a862870349d) - 2025-05-19
+* [Commit] [ugh import](https://github.com/paradigmxyz/reth/commit/a448e5112c557f84ba4ce35cee9b2b57b86a80ce) - 2025-05-19
+* [Pull Request] [feat(primitive-traits): relax mem size implementations for 4844 txs with sidecars](https://github.com/paradigmxyz/reth/pull/16349) - 2025-05-19
+* [Pull Request] [feat(txpool): use `BlobTransactionSidecarVariant`](https://github.com/paradigmxyz/reth/pull/16331) - 2025-05-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16

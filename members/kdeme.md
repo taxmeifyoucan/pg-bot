@@ -58,6 +58,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update libp2p gossip topic parameters. (#6979)](https://github.com/status-im/nimbus-eth2/commit/e83ebba49e42ff561162cb53d160c06ddb613f73) - 2025-05-05
 * [Pull Request] [ncli_db: Add non zero exit code when not all era files can be written](https://github.com/status-im/nimbus-eth2/pull/7124) - 2025-05-05
 * [Commit] [Add REST endpoint to retrieve historical_summaries (#6675)](https://github.com/status-im/nimbus-eth2/commit/d6d2f006d507ab2e27b8477064feaad45ff99016) - 2025-05-06
+
+[ethereum/glados](https://github.com/ethereum/glados)
+* [Pull Request] [Name change of fluffy client to nimbus-portal](https://github.com/ethereum/glados/pull/419) - 2025-05-19
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

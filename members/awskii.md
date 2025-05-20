@@ -119,6 +119,20 @@ Team: Erigon
 * [Commit] [fix erigon seg retire to handle incomplete merges (#14973)](https://github.com/erigontech/erigon/commit/91886768f902d162a3e049012c324629e1c9efbc) - 2025-05-15
 * [Commit] [Arbos 40 update execution support (#15066)](https://github.com/erigontech/erigon/commit/8def6c77aed4af73508069d61f559617da4eb72e) - 2025-05-15
 * [Pull Request] [Arbos 40 update execution support](https://github.com/erigontech/erigon/pull/15066) - 2025-05-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4d614977ff5b31cc1ee25cc56ef02887705c2a7e) - 2025-05-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/09000043c3a4b1ea6265375c4975f7d1b02bac3f) - 2025-05-19
+* [Commit] [try to unify usage of sharedDomains by sdctx](https://github.com/erigontech/erigon/commit/21cb9a52eddadddd1cfba615737975338f27b16b) - 2025-05-19
+* [Pull Request] [split SharedDomains s3: move to separate file](https://github.com/erigontech/erigon/pull/15160) - 2025-05-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5b662641cd7c2b05405c00e99f1af84ca7307459) - 2025-05-19
+* [Commit] [make rebuildCommitment method of ctx](https://github.com/erigontech/erigon/commit/aa0a470bba9630ef1abe4b644e2b49a33150491d) - 2025-05-19
+* [Pull Request] [split `SharedDomains` s2: concentrate commitment methods in sdctx](https://github.com/erigontech/erigon/pull/15154) - 2025-05-19
+* [Pull Request] [[exp] warmup next commitment read](https://github.com/erigontech/erigon/pull/15152) - 2025-05-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0520e759634f0bfc25fcebeee5913917c5279e10) - 2025-05-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/daa075431ede2a7bd090216c57f780d67dfde57e) - 2025-05-19
+* [Commit] [refactor `sharedDomains.SeekCommitment` [step1] (#15143)](https://github.com/erigontech/erigon/commit/e5bf3fb411dee0d8655a4cadcaa42927282bc881) - 2025-05-19
+* [Commit] [save ineff assignment](https://github.com/erigontech/erigon/commit/ed09058654543c12dd0929afad2328056a8306b1) - 2025-05-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8c96ac4f1ebd395b36b21c954ede82fa921c148f) - 2025-05-19
+* [Pull Request] [refactor `sharedDomains.SeekCommitment` [step1]](https://github.com/erigontech/erigon/pull/15143) - 2025-05-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

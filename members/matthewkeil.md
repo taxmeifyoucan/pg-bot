@@ -67,6 +67,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: remove file to move to next PR](https://github.com/ChainSafe/lodestar/commit/db7a029489e6076ea9f7fdf6e3c6b75ec24b4a71) - 2025-05-13
 * [Pull Request] [refactor: deduplicate PeerIdStr type](https://github.com/ChainSafe/lodestar/pull/7824) - 2025-05-13
 * [Commit] [feat: use release version for actions/cache](https://github.com/ChainSafe/lodestar/commit/fee1421a368d805d5a1f428f7b3dffc39a5d2793) - 2025-05-13
+* [Commit] [chore: lint](https://github.com/ChainSafe/lodestar/commit/e59d23c693843c3aba31872d147aa924c42f913a) - 2025-05-19
+* [Pull Request] [feat: add ne BlockInput ByRoot sync](https://github.com/ChainSafe/lodestar/pull/7846) - 2025-05-19
+* [Pull Request] [feat: block input cache](https://github.com/ChainSafe/lodestar/pull/7845) - 2025-05-19
+* [Commit] [refactor: move byRoot sync to separate branch](https://github.com/ChainSafe/lodestar/commit/f3d6e97fae8b25fa354e9ed1cdfe53f33b1c3278) - 2025-05-19
+* [Commit] [fix: check-types](https://github.com/ChainSafe/lodestar/commit/e9b33c3c1e671096806eebcd66e7d00265d06b84) - 2025-05-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

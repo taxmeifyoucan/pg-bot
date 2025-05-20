@@ -52,3 +52,6 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [make test scenarios execute compatible](https://github.com/ethereum/execution-spec-tests/pull/1605) - 2025-05-15
 * [Commit] [convert Create first byte loop filler](https://github.com/ethereum/execution-spec-tests/commit/775c79a30e20ecf3104b475c8a7caba685eff98b) - 2025-05-16
 * [Pull Request] [convert Create first byte loop filler](https://github.com/ethereum/execution-spec-tests/pull/1615) - 2025-05-16
+* [Commit] [add ported_from test marker to converted from json tests](https://github.com/ethereum/execution-spec-tests/commit/363d294db04ba0ec5880a027caaf3123ff41b447) - 2025-05-19
+* [Commit] [convert Create first byte loop filler](https://github.com/ethereum/execution-spec-tests/commit/08897aff7f24e8c9b9e81ad264102dd90e577b0f) - 2025-05-19
+* [Commit] [convert Create first byte loop filler](https://github.com/ethereum/execution-spec-tests/commit/44933d894f2b7fed40c9c4dc08f52f0792019176) - 2025-05-19

@@ -134,6 +134,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [small EL manager cleanup](https://github.com/status-im/nimbus-eth2/commit/9865754c8b956de5a6634fef2f5c38948760f9fe) - 2025-05-18
 * [Pull Request] [bump sepolia](https://github.com/status-im/nimbus-eth2/pull/7168) - 2025-05-18
 * [Pull Request] [small EL manager cleanup](https://github.com/status-im/nimbus-eth2/pull/7167) - 2025-05-18
+* [Commit] [add missing finalized field to getStateRandao response (#7171)](https://github.com/status-im/nimbus-eth2/commit/4945c9f64515e0112736b2ad4d12ba1901c06448) - 2025-05-19
+* [Pull Request] [add missing finalized field to getStateRandao response](https://github.com/status-im/nimbus-eth2/pull/7171) - 2025-05-19
+* [Commit] [add version field to getPendingDeposits and getPendingPartialWithdrawals and implement getPendingConsolidations (#7170)](https://github.com/status-im/nimbus-eth2/commit/a78dd748821fb7f755f94d90ee8b5752576ec76b) - 2025-05-19
+* [Pull Request] [add version field to getPendingDeposits and getPendingPartialWithdrawals and implement getPendingConsolidations](https://github.com/status-im/nimbus-eth2/pull/7170) - 2025-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 
@@ -151,6 +155,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Implement EIP-7823](https://github.com/status-im/nimbus-eth1/issues/3287) - 2025-05-15
 * [Issue] [headers_staged.nim(283, 3) `ctx.headersBorrowedIsEmpty()`  [AssertionDefect] syncing Sepolia](https://github.com/status-im/nimbus-eth1/issues/3298) - 2025-05-18
 * [Commit] [Bump nim-libbacktrace to 99cd1a3f1568e7cfbbb6d886c93e4452dc65e4ef (#3297)](https://github.com/status-im/nimbus-eth1/commit/3bd6188f50bfa3f999826031a5f867b59489fc9d) - 2025-05-18
+* [Issue] [Implement EIP-7883](https://github.com/status-im/nimbus-eth1/issues/3305) - 2025-05-19
+* [Commit] [Avoid persisting the same txFrame twice in updateBase (#3301)](https://github.com/status-im/nimbus-eth1/commit/175489f86402f625495984985f906f4315466274) - 2025-05-19
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

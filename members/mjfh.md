@@ -15,3 +15,5 @@ Team: Nimbus
 * [Commit] [Remove stray debugging statement](https://github.com/status-im/nimbus-eth1/commit/c6b029d3c90b4535b9c9b4f202b1d4c001722ce6) - 2025-05-13
 * [Pull Request] [Beaon sync avoid import slowdown with last slow sync peer](https://github.com/status-im/nimbus-eth1/pull/3279) - 2025-05-13
 * [Pull Request] [Jordan free parking](https://github.com/status-im/nimbus-eth1/pull/3291) - 2025-05-16
+* [Commit] [Beacon sync update header and reorg blocks processing (#3306)](https://github.com/status-im/nimbus-eth1/commit/05eaffbe06024f326499662d691d6bfa0b6127f4) - 2025-05-19
+* [Pull Request] [Beacon sync update header and reorg blocks processing](https://github.com/status-im/nimbus-eth1/pull/3306) - 2025-05-19

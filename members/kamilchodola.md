@@ -19,6 +19,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Dial back JsonRpc log spam (#8497)](https://github.com/NethermindEth/nethermind/commit/0655cd061865ff95d5d231b2f93e67453bafdc7e) - 2025-04-17
 * [Commit] [Maybe fix incorrect total difficulty (#8557)](https://github.com/NethermindEth/nethermind/commit/c3994c665ce5287c5fac645b95df167c96dedc25) - 2025-05-01
 * [Commit] [Revert "Perf/parallel block downloader" (#8574)](https://github.com/NethermindEth/nethermind/commit/b9a2a9345d4e5bbe1583258fe6f9c1e1de5ffe72) - 2025-05-01
+* [Commit] [Fix Holesky Sync (#8651)](https://github.com/NethermindEth/nethermind/commit/9e2c5ea98822c4a87de5f50b9f8611e9fcc4a40e) - 2025-05-19
+* [Pull Request] [Fix Holesky Sync](https://github.com/NethermindEth/nethermind/pull/8651) - 2025-05-19
+* [Commit] [Bump up the version to 1.33.0-unstable (#8533)](https://github.com/NethermindEth/nethermind/commit/d186adfa462dad452ea379a9dfd8d351a55c0787) - 2025-05-19
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -38,6 +38,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Gossip DAS related changes](https://github.com/Consensys/teku/pull/9423) - 2025-05-15
 * [Commit] [Updated MiscHelpersFulu + Added Gossip Logger (#9422)](https://github.com/Consensys/teku/commit/c443b37c74b517efa50de51d802e1d18c32cc476) - 2025-05-15
 * [Pull Request] [Updated MiscHelpersFulu](https://github.com/Consensys/teku/pull/9422) - 2025-05-15
+* [Pull Request] [DAS storage changes](https://github.com/Consensys/teku/pull/9432) - 2025-05-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Added Teku team coordinators](https://github.com/ethereum/pm/pull/1468) - 2025-04-14
 * [Pull Request] [Minor typos protocol-upgrade.md](https://github.com/ethereum/pm/pull/1467) - 2025-04-14

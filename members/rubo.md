@@ -23,6 +23,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/e235b83907ca5525fce535653864c29f6870d9c3) - 2025-05-16
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/c71ce7d8e6bced6d146a9a9a82a054e3f0283941) - 2025-05-16
 * [Commit] [Update System.CommandLine package (#8639)](https://github.com/NethermindEth/nethermind/commit/95c6efb8140dce67c464b1a5069b69cb7d557e63) - 2025-05-17
+* [Commit] [Update RocksDB package (#8640)](https://github.com/NethermindEth/nethermind/commit/22f90f19ee524bc8ec028f601ddd75f3ba652800) - 2025-05-19
+* [Commit] [Set default `LegacyTransactionForRpc` gas price to zero (#8630)](https://github.com/NethermindEth/nethermind/commit/1adebe665a2390ae5ec9432457bae88a8aa883d8) - 2025-05-19
+* [Commit] [Update System.CommandLine package (#8639)](https://github.com/NethermindEth/nethermind/commit/95c6efb8140dce67c464b1a5069b69cb7d557e63) - 2025-05-19
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

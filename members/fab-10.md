@@ -28,6 +28,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Estimate gas on pending block by default](https://github.com/hyperledger/besu/pull/8627) - 2025-05-14
 * [Pull Request] [Upgrade Gradle to 8.14](https://github.com/hyperledger/besu/pull/8638) - 2025-05-16
 * [Pull Request] [Refactor call parameters](https://github.com/hyperledger/besu/pull/8637) - 2025-05-16
+* [Commit] [Upgrade Gradle and its plugins (#8638)](https://github.com/hyperledger/besu/commit/8e5b1f100a0641c5449f4cbd8acbeb92650c30f2) - 2025-05-19
+* [Commit] [Refactor call parameters (#8637)](https://github.com/hyperledger/besu/commit/f60fe0377ccbdf865b2fcb5aafd0e5c25881b5ad) - 2025-05-19
+* [Commit] [Estimate gas on pending block by default (#8627)](https://github.com/hyperledger/besu/commit/a9c75e129262c88a7e5af1fe4f290cdb801f0137) - 2025-05-19
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

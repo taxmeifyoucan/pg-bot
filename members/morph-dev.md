@@ -25,6 +25,10 @@ Team: Portal Network (EF)
 * [Commit] [feat: create ChainHead (#1832)](https://github.com/ethereum/trin/commit/a978748a12736b84a31a2e37c2dc7d6e2ad1700c) - 2025-05-17
 * [Pull Request] [feat: remove DistanceFunction](https://github.com/ethereum/trin/pull/1838) - 2025-05-18
 * [Commit] [chore(deps): weekly `cargo update` (#1837)](https://github.com/ethereum/trin/commit/25585ef477e942e9c91d1c3805eed7e883a126d8) - 2025-05-18
+* [Pull Request] [feat(bridge): census should use affected_by_radius](https://github.com/ethereum/trin/pull/1841) - 2025-05-19
+* [Pull Request] [feat: subnetwork stores should use affected_by_radius](https://github.com/ethereum/trin/pull/1840) - 2025-05-19
+* [Pull Request] [feat: add affected_by_radius to content key](https://github.com/ethereum/trin/pull/1839) - 2025-05-19
+* [Commit] [feat: remove DistanceFunction (#1838)](https://github.com/ethereum/trin/commit/2ed36189c4601baed0a656404e65a9b2a60ab774) - 2025-05-19
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

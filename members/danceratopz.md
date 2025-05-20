@@ -212,6 +212,28 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/744841e0aaa0f68c8c01436a9b6d53a7daa05e28) - 2025-05-16
 * [Pull Request] [fix(fill): fix `--collect-only` after introducing `FixtureOutput` class](https://github.com/ethereum/execution-spec-tests/pull/1612) - 2025-05-16
 * [Commit] [WIP - unique test suite per pre-hash; track test counts to end tests suite when complete (and stop shared-client).](https://github.com/ethereum/execution-spec-tests/commit/2a0747fc5ab466b611cab904a6d889be47e207de) - 2025-05-17
+
+* [Commit] [Deployed 9374ffc1c1 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/b6cb554248b1ab67d71aa5c43a4838fb4e0ec17c) - 2025-05-19
+* [Commit] [chore(deps): update eels resolutions to use EELS v1.17.0](https://github.com/ethereum/execution-spec-tests/commit/63471813cf34910e200be39db4fc600f02b3d6fa) - 2025-05-19
+* [Commit] [Deployed 7249e22d95 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/f8f9f1bb6de1ff73e1e62a7981daeb81af085b85) - 2025-05-19
+* [Commit] [chore(tooling): add `.vscode/launch.json` to `.gitignore` (#1624)](https://github.com/ethereum/execution-spec-tests/commit/7249e22d95de4bec13737da1bb7069512ccc5d93) - 2025-05-19
+* [Commit] [Deployed 709b20b8e7 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/469fbe73f1ab269c3dc9fa0aa19de3b2cbc59e22) - 2025-05-19
+* [Commit] [feat(tests): add benchmarks with mass binop opcodes (#1591)](https://github.com/ethereum/execution-spec-tests/commit/a6d231095378fa3b5c7673dc53b8b9d907633b55) - 2025-05-19
+* [Commit] [✨ feat(cli): `eest` info (#1621)](https://github.com/ethereum/execution-spec-tests/commit/709b20b8e7142353aa33c6d96229a879430a45ca) - 2025-05-19
+* [Issue] [bug(docs): doc flow generates test case ref to `fill`'s default output dir](https://github.com/ethereum/execution-spec-tests/issues/1623) - 2025-05-19
+* [Commit] [docs: add `eest info` to CONTRIBUTING cf #1621](https://github.com/ethereum/execution-spec-tests/commit/3fb76bff8b908540cad73d7e31f0c11bb447f2eb) - 2025-05-19
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/5c19f6b0f19af4b7676e96708eedb1c744602c2b) - 2025-05-19
+* [Commit] [tests(zkvm): allow using entire gas in bytecode attack (#1575)](https://github.com/ethereum/execution-spec-tests/commit/3be4d6f1ddcba9c620450c53687d84eef9e113ea) - 2025-05-19
+* [Commit] [Deployed a6d2310953 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/81efca2f0a5c70b40f392cd71f75eaca7e59c422) - 2025-05-19
+* [Commit] [docs: fix-up bad code fences markdown](https://github.com/ethereum/execution-spec-tests/commit/9762365048630ed320877560303ed6b8b5d86edd) - 2025-05-19
+* [Commit] [docs: bump uv pinned python from 3.11 to 3.12](https://github.com/ethereum/execution-spec-tests/commit/c5744723ce988167990a0b01d901756c019abdcb) - 2025-05-19
+* [Commit] [Deployed 8435e43c19 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/69f13acf366f05861ff75fc303a952976799861e) - 2025-05-19
+* [Commit] [feat(ci,tox): Create `tests-deployed-zkevm` tox env, and ci workflow (#1617)](https://github.com/ethereum/execution-spec-tests/commit/8435e43c19479d726698a3b91577fe4b1cdda006) - 2025-05-19
+* [Commit] [Apply suggestions from code review](https://github.com/ethereum/execution-spec-tests/commit/ce9c05cf1177df7ddd8dbed087c6569dab68bd04) - 2025-05-19
+* [Commit] [docs: add more conventional commit `tests` examples](https://github.com/ethereum/execution-spec-tests/commit/4750496f94becc2314c5387dc49155cade9c97b8) - 2025-05-19
+* [Issue] [feat(eest): add an `eest info` cli to print version info](https://github.com/ethereum/execution-spec-tests/issues/1619) - 2025-05-19
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

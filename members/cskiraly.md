@@ -22,6 +22,7 @@ Team: Codex DAS
 * [Pull Request] [eth: fix transaction sender cache miss before broadcast](https://github.com/ethereum/go-ethereum/pull/31657) - 2025-04-16
 * [Pull Request] [p2p: make dial faster by streamlined discovery process](https://github.com/ethereum/go-ethereum/pull/31678) - 2025-04-19
 * [Pull Request] [Stabilize tx peer selection](https://github.com/ethereum/go-ethereum/pull/31714) - 2025-04-25
+* [Pull Request] [cmd/utils: remove duplicate code for influxDB tags](https://github.com/ethereum/go-ethereum/pull/31854) - 2025-05-19
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

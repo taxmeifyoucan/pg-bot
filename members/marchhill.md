@@ -53,6 +53,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [update package](https://github.com/NethermindEth/nethermind/commit/39db37bc88657535ef06344e441c6c3004bc456d) - 2025-05-09
 
 * [Commit] [Update libp2p package (#8534)](https://github.com/NethermindEth/nethermind/commit/473dcb3f9f6625430f73bc88055a842e034f0d0e) - 2025-05-13
+* [Commit] [revert accidental change](https://github.com/NethermindEth/nethermind/commit/fa43c67c55afa99360d1566b63bde836d17f7c4a) - 2025-05-19
+* [Commit] [tidy](https://github.com/NethermindEth/nethermind/commit/ed96df16ffd3014c240ca3eac24d23862f1d18c3) - 2025-05-19
+* [Commit] [Update libp2p package (#8534)](https://github.com/NethermindEth/nethermind/commit/473dcb3f9f6625430f73bc88055a842e034f0d0e) - 2025-05-19
+* [Commit] [Send UselessPeer on invalid network id (#7899)](https://github.com/NethermindEth/nethermind/commit/7f32990bc94b8a457b735dcb345254d214c45210) - 2025-05-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

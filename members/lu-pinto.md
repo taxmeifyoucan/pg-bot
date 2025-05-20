@@ -19,6 +19,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [Move OOG check in CALL and EXTCALL earlier than other halts](https://github.com/hyperledger/besu/pull/8569) - 2025-04-19
 * [Pull Request] [Besu verkle trie rename to besu stateless](https://github.com/hyperledger/besu/pull/8588) - 2025-05-01
 * [Commit] [Add try/catch to log issues with ENR records (#8633)](https://github.com/hyperledger/besu/commit/5dedbd5c439b4cb2a7d7644cf5f6a21caf09419c) - 2025-05-16
+* [Issue] [Update verkle gas costs accordingly with EIP-4762 updates](https://github.com/hyperledger/besu/issues/8647) - 2025-05-19
+* [Issue] [Update verkle gas costs accordingly with EIP-4762 updates](https://github.com/hyperledger/besu/issues/8646) - 2025-05-19
+* [Commit] [This removes a useless state access to the recipient account which is (#8639)](https://github.com/hyperledger/besu/commit/6caf0f7c2d1ed32518bbe17175d5208a0d63e92d) - 2025-05-19
+* [Commit] [[MINOR] remove dot following path so it can be cut/pasted (#8642)](https://github.com/hyperledger/besu/commit/afc81f5d2a1f5b7c06a3a3f62c63ebf65413bd9f) - 2025-05-19
+* [Commit] [update ref tests to 4.5.0 (#8643)](https://github.com/hyperledger/besu/commit/7438cffd87e7c84b0d5fea2d162f778cd5a7e159) - 2025-05-19
+* [Commit] [Add witness tracing (#8336)](https://github.com/hyperledger/besu/commit/34b94d2f54c9914e308903909ece6604bd60e4ee) - 2025-05-19
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

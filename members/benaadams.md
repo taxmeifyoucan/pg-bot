@@ -191,6 +191,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Apply suggestions from code review](https://github.com/NethermindEth/nethermind/commit/45c7042ab2d931553ae14fb9d979983ab48badd6) - 2025-05-18
 * [Commit] [Format](https://github.com/NethermindEth/nethermind/commit/513bd3b8c9946a6392bc1caf7113a19508dccb2b) - 2025-05-18
 * [Pull Request] [Implement Eip7823](https://github.com/NethermindEth/nethermind/pull/8649) - 2025-05-18
+* [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/07bcf19093c0b5ecabfbfa3cff2c149da7a3c99c) - 2025-05-19
+* [Commit] [Refactor/Move DiscoveryApp initialization to DI (#8624)](https://github.com/NethermindEth/nethermind/commit/97e3f52c88ee77082c162a4b60dfd0aabdeced9c) - 2025-05-19
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

@@ -16,6 +16,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Issue] [Add Prague time to genesis](https://github.com/hyperledger/besu/issues/8520) - 2025-04-04
 * [Commit] [Cache number of zero bytes in the payload in the tx (#8488)](https://github.com/hyperledger/besu/commit/9c52f52587e38418d67495f5f92248208d57f316) - 2025-04-07
 * [Commit] [don't set RequestProcessorCoordinator if all contract addresses are set to 0x00](https://github.com/hyperledger/besu/commit/a78d459360de985991a45d84e52ddbd9d04647f4) - 2025-05-15
+* [Pull Request] [Fix gas estimation after EIP-7623](https://github.com/hyperledger/besu/pull/8645) - 2025-05-19
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

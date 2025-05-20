@@ -103,6 +103,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update grafiti function names](https://github.com/ChainSafe/lodestar/commit/5803d96144d9784960eb6f928f8598897daa7a49) - 2025-05-16
 * [Commit] [Update grafiti function names](https://github.com/ChainSafe/lodestar/commit/80c65e2861203e9669f37e8abb150f5a5f0eab6f) - 2025-05-16
 * [Commit] [Use Byte32 for graffiti](https://github.com/ChainSafe/lodestar/commit/966d43a620f547f91d76e3b59a22cf25e5045303) - 2025-05-16
+* [Commit] [Remove the dependency of log meta](https://github.com/ChainSafe/lodestar/commit/200d9d9a077315e5f644c21110e44f2734f66018) - 2025-05-19
+* [Commit] [Update the name of function](https://github.com/ChainSafe/lodestar/commit/9490404ccf6159b11e27119e81b46e15aa9d244a) - 2025-05-19
+* [Pull Request] [refactor: split `produceBlockBody` monolithic to smaller helpers](https://github.com/ChainSafe/lodestar/pull/7844) - 2025-05-19
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

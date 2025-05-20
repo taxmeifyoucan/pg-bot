@@ -155,6 +155,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [pass heightToDownload to EngineBlockDownloader.download](https://github.com/erigontech/erigon/commit/07cfb2d7b04c9f128c1dce4735c18317553b9580) - 2025-05-15
 * [Commit] [blockTip -> chainTip](https://github.com/erigontech/erigon/commit/9d6e78fef726391dbdc3b0df41ba76619611e7e4) - 2025-05-15
 * [Commit] [accept EEST encoding](https://github.com/erigontech/erigon/commit/3138bc322e5ecc8bf1bda11ddbf2013cd1d4bc79) - 2025-05-16
+* [Commit] [optimization: replace division/multiplication by 2^x with shifts (#15151)](https://github.com/erigontech/erigon/commit/8b4aa99af5a713e28b04e980913d12a5cca1c92e) - 2025-05-19
+* [Issue] [Investigate why `TestEvmRun` is slow](https://github.com/erigontech/erigon/issues/15153) - 2025-05-19
+* [Pull Request] [optimization: replace big division/multiplication with shifts](https://github.com/erigontech/erigon/pull/15151) - 2025-05-19
+* [Commit] [optimization: replace big division/multiplication with shifts](https://github.com/erigontech/erigon/commit/9dff901cc6bf0efa2c9c2e0486c34a756fad7585) - 2025-05-19
+* [Commit] [Implement EIP-7823: Set upper bounds for MODEXP](https://github.com/erigontech/erigon/commit/541181424911f81d9468a157dc50acff8fbbb71a) - 2025-05-19
+* [Pull Request] [Implement EIP-7883: ModExp Gas Cost Increase](https://github.com/erigontech/erigon/pull/15148) - 2025-05-19
+* [Commit] [Implement EIP-7883: ModExp Gas Cost Increase](https://github.com/erigontech/erigon/commit/785bd37527dc4f75251672691c7713f735e36df4) - 2025-05-19
+* [Commit] [tests: disable more slow tests in short testing (#15144)](https://github.com/erigontech/erigon/commit/6677722b33b7ead6b756e674e203bcd5b1422492) - 2025-05-19
+* [Commit] [qa-tests: disable polygon tip-tracking on main branch (#15046)](https://github.com/erigontech/erigon/commit/01901855768b594f565eca9c278215ab4e607a09) - 2025-05-19
+* [Pull Request] [tests: disable more slow tests in short testing](https://github.com/erigontech/erigon/pull/15144) - 2025-05-19
+* [Commit] [tests: disable more slow tests in short testing](https://github.com/erigontech/erigon/commit/e2f7ac3b56906d03a8116508084332f6783b3667) - 2025-05-19
+* [Commit] [fix --latest and --step file removal with purified commitment protection (#14978)](https://github.com/erigontech/erigon/commit/9268fb29fb5d90e7914200282bdb42e08cdef16d) - 2025-05-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

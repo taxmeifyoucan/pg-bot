@@ -39,3 +39,6 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [bump nim-eth to addcbfa4394727dabacd26856beb2a1931b483f6](https://github.com/status-im/nimbus-eth1/commit/ed101d21c35187b15656120ebcf406b7b562bd47) - 2025-05-17
 * [Commit] [Bump nim-chronos to b55e2816eb45f698ddaca8d8473e401502562db2 (#3296)](https://github.com/status-im/nimbus-eth1/commit/54e6193748e90d2674f6f64c40ccd8cd0e674903) - 2025-05-18
 * [Commit] [rm vestigial EIP-7873 support (#3290)](https://github.com/status-im/nimbus-eth1/commit/28c7b737263f4537183088cbd99e8df00760be6e) - 2025-05-18
+* [Commit] [Fix hoodi chain config (#3304)](https://github.com/status-im/nimbus-eth1/commit/54db56ee48b4dfd9431af326f0cd5b59c18b3db5) - 2025-05-19
+* [Commit] [Rename fluffy to portal/nimbus_portal_client (#3289)](https://github.com/status-im/nimbus-eth1/commit/57d3748c6142ffd013ea83c80946669e1242bf00) - 2025-05-19
+* [Issue] [diconnect on invalid `blockRangeUpdate`](https://github.com/status-im/nimbus-eth1/issues/3299) - 2025-05-19

@@ -108,6 +108,11 @@ Team: Erigon
 * [Commit] [add receipt printer](https://github.com/erigontech/erigon/commit/391e3751c52efb1b1504b273678dd52418981407) - 2025-05-11
 * [Commit] [fixed duplicate transfer logs](https://github.com/erigontech/erigon/commit/4222696d8823f82ca3711c662844b7486b1041b7) - 2025-05-13
 * [Commit] [add gas to instruction trace](https://github.com/erigontech/erigon/commit/37f8f720b9e05803f305305a10f85cd85a250b7e) - 2025-05-18
+* [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/05a959c24f7e32cb3e97d9dcc9e2350d4169ac68) - 2025-05-19
+* [Commit] [start work on aggregator for forkables (#14671)](https://github.com/erigontech/erigon/commit/9ec1d669898052da712d91fda48318b47878daf1) - 2025-05-19
+* [Commit] [remove accumulator from executor](https://github.com/erigontech/erigon/commit/8878458a6ff503310ff17a49cbaf330fd2a027e1) - 2025-05-19
+* [Commit] [Rationlize task config/engine setting](https://github.com/erigontech/erigon/commit/ccde82152c4705a785527770b5d5d803b5d08439) - 2025-05-19
+* [Commit] [Rationlize task config/engine setting](https://github.com/erigontech/erigon/commit/36e4c0e7b16f62766270273c88a7ca7b4809ecc8) - 2025-05-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

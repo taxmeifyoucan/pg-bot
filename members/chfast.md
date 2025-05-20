@@ -28,6 +28,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [new(tests): add EOF execution at maximum stack height (#1443)](https://github.com/ethereum/execution-spec-tests/commit/8195dfe89ea4d15ab81fdfa135d7e76ab08e8e7a) - 2025-04-16
 * [Pull Request] [refactor(tests): update JUMPF EOF tests to max_stack_increase](https://github.com/ethereum/execution-spec-tests/pull/1458) - 2025-04-16
 * [Pull Request] [new(tests): add benchmarks with mass binop opcodes](https://github.com/ethereum/execution-spec-tests/pull/1591) - 2025-05-13
+* [Commit] [feat(tests): add benchmarks with mass unop opcodes (#1620)](https://github.com/ethereum/execution-spec-tests/commit/ee857dbe443510ffb819eb1a80312f508fd57edd) - 2025-05-19
+* [Pull Request] [feat(tests): add benchmarks with mass shift opcodes](https://github.com/ethereum/execution-spec-tests/pull/1625) - 2025-05-19
+* [Pull Request] [feat(tests): add benchmarks with mass unop opcodes](https://github.com/ethereum/execution-spec-tests/pull/1620) - 2025-05-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-5450,EIP-4750: Change to max_stack_increase](https://github.com/ethereum/EIPs/pull/9600) - 2025-04-04
 * [Pull Request] [Update EIP-5450: Expand on block ordering](https://github.com/ethereum/EIPs/pull/9599) - 2025-04-04

@@ -107,6 +107,23 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [impl Future for DriftMonitor](https://github.com/paradigmxyz/reth/commit/5357800eb2247f46b10e317b4f794dc5c602cfbf) - 2025-05-16
 * [Commit] [feat(trie): instrument `TrieNodeIter::try_next` (#16127)](https://github.com/paradigmxyz/reth/commit/3d48dcc8e54dfa34b27e0d878f5dd1d32edd9d5d) - 2025-05-16
 * [Commit] [remove unused method](https://github.com/paradigmxyz/reth/commit/147c197588534d87d4b4c9fdddd680489a66ceb3) - 2025-05-17
+* [Commit] [remove unused reexports and restrict visibility](https://github.com/paradigmxyz/reth/commit/d41b7e220c218fdf5eb1940c36b8f957a4ada197) - 2025-05-19
+* [Commit] [remove uneeded method](https://github.com/paradigmxyz/reth/commit/739f874e7c1f6340e9cb8d13cca80af80c121f6e) - 2025-05-19
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/7c69553d94f92acc5b2913d20b7b0e62f5b9ee75) - 2025-05-19
+* [Commit] [state machine and prevent blocking](https://github.com/paradigmxyz/reth/commit/6b2bdd9d5d9cda697b978f7fab6c861e866688e1) - 2025-05-19
+* [Commit] [handle_canon_event](https://github.com/paradigmxyz/reth/commit/6bca99aa2251bd17b0a6ade2e7fdebf5af80b782) - 2025-05-19
+* [Commit] [remove loop from poll](https://github.com/paradigmxyz/reth/commit/4b52a3bd3879964a4290d242682ff3431c91ce5f) - 2025-05-19
+* [Commit] [Update crates/transaction-pool/src/maintain/pool_maintainer.rs](https://github.com/paradigmxyz/reth/commit/84195cc9bc8a9d2f4e5da65711b207637066f0bf) - 2025-05-19
+* [Commit] [Update crates/transaction-pool/src/maintain/drift_monitor.rs](https://github.com/paradigmxyz/reth/commit/dcaf9da4030302daa609864861250dc0168d9733) - 2025-05-19
+* [Commit] [test: stale txs could be evicted when maintaining txpool (#16269)](https://github.com/paradigmxyz/reth/commit/40cc996db3914669a3cf60d678fd9955fd0393c7) - 2025-05-19
+* [Pull Request] [chore(hive): disable eth suite of devp2p sim](https://github.com/paradigmxyz/reth/pull/16341) - 2025-05-19
+* [Commit] [chore(test): disable eth suite of devp2p sim](https://github.com/paradigmxyz/reth/commit/4a71b8c392ae233e8c048e116a43638c6c45f74d) - 2025-05-19
+* [Commit] [chore(test): disable eth suite of devp2p sim](https://github.com/paradigmxyz/reth/commit/dac5c96b099f1e8715ddf6355c53e2fa943b91a5) - 2025-05-19
+* [Commit] [chore(test): disable eth suite of devp2p sim](https://github.com/paradigmxyz/reth/commit/326e200fc4dd53f40f5eb584fbec43926b394e95) - 2025-05-19
+* [Commit] [disable eth suite of devp2p sim](https://github.com/paradigmxyz/reth/commit/fd006713f26a0d94696faae90f3613131cccbf6d) - 2025-05-19
+* [Commit] [book](https://github.com/paradigmxyz/reth/commit/ec895355dfed0e016393ef68033da36fa279a1c9) - 2025-05-19
+* [Commit] [dprint](https://github.com/paradigmxyz/reth/commit/32768a2e922239605f25dfa010cb5fba23548e26) - 2025-05-19
+* [Commit] [perf: replace collect with count (#16246)](https://github.com/paradigmxyz/reth/commit/3a5f75a3003ab4b6985a647b014ea9b7865b635d) - 2025-05-19
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

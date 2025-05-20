@@ -55,6 +55,13 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [Fix filter timeouts, set to 15m](https://github.com/NethermindEth/nethermind/pull/8633) - 2025-05-16
 * [Commit] [Update OP Superchain chains (#8644)](https://github.com/NethermindEth/nethermind/commit/1a07baf79469352474bb54e6ac28d7db05c4e580) - 2025-05-18
 * [Commit] [Auto-update fast sync settings (#8645)](https://github.com/NethermindEth/nethermind/commit/2334592fa6e3cd60d07a875e4d88d35f78acffd2) - 2025-05-18
+* [Commit] [Fix #8648 - eth_getTransactionByBlockNumberAndIndex out of bounds (#8654)](https://github.com/NethermindEth/nethermind/commit/5522f4cbd4a5a5349258d8d2e1568c62ca5119e1) - 2025-05-19
+* [Commit] [Revert wrong code on missing receipt (#8653)](https://github.com/NethermindEth/nethermind/commit/77b2dfb3538bb64e96a31b8eb3f6ae3ff4bf2b1a) - 2025-05-19
+* [Commit] [one more fix](https://github.com/NethermindEth/nethermind/commit/e3e1cc7f11029dfa5ee429cedf13aeaa49a28633) - 2025-05-19
+* [Pull Request] [Fix #8648 - eth_getTransactionByBlockNumberAndIndex out of bounds](https://github.com/NethermindEth/nethermind/pull/8654) - 2025-05-19
+* [Commit] [fix test](https://github.com/NethermindEth/nethermind/commit/3dd31ab07d48339bff22e7e67b158cf5389be0d7) - 2025-05-19
+* [Pull Request] [Revert wrong code on missing receipt](https://github.com/NethermindEth/nethermind/pull/8653) - 2025-05-19
+* [Commit] [ArrayPoolList remove debug stuff](https://github.com/NethermindEth/nethermind/commit/c9bb824a6e0e5ee0abdb93c309f4f15007f86176) - 2025-05-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025
