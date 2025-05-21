@@ -138,6 +138,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add missing finalized field to getStateRandao response](https://github.com/status-im/nimbus-eth2/pull/7171) - 2025-05-19
 * [Commit] [add version field to getPendingDeposits and getPendingPartialWithdrawals and implement getPendingConsolidations (#7170)](https://github.com/status-im/nimbus-eth2/commit/a78dd748821fb7f755f94d90ee8b5752576ec76b) - 2025-05-19
 * [Pull Request] [add version field to getPendingDeposits and getPendingPartialWithdrawals and implement getPendingConsolidations](https://github.com/status-im/nimbus-eth2/pull/7170) - 2025-05-19
+* [Commit] [stop downloading windeps in CI (#7174)](https://github.com/status-im/nimbus-eth2/commit/c5c5fc9ef119206708a6760bd72d3a9d907a3783) - 2025-05-20
+* [Pull Request] [stop downloading windeps in CI](https://github.com/status-im/nimbus-eth2/pull/7174) - 2025-05-20
+* [Commit] [copyright year linting](https://github.com/status-im/nimbus-eth2/commit/0b1cebdbb9c157abaf956004b2de2f4a88e1763c) - 2025-05-20
+* [Pull Request] [use EF consensus spec v1.6.0-alpha.0 test vectors](https://github.com/status-im/nimbus-eth2/pull/7173) - 2025-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

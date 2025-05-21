@@ -57,6 +57,14 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [tidy](https://github.com/NethermindEth/nethermind/commit/ed96df16ffd3014c240ca3eac24d23862f1d18c3) - 2025-05-19
 * [Commit] [Update libp2p package (#8534)](https://github.com/NethermindEth/nethermind/commit/473dcb3f9f6625430f73bc88055a842e034f0d0e) - 2025-05-19
 * [Commit] [Send UselessPeer on invalid network id (#7899)](https://github.com/NethermindEth/nethermind/commit/7f32990bc94b8a457b735dcb345254d214c45210) - 2025-05-19
+* [Commit] [fix whitespace](https://github.com/NethermindEth/nethermind/commit/67bae88f350c129ddd950db2abe92f54502e68a6) - 2025-05-20
+* [Pull Request] [EIP-7918: Blob base fee bounded by execution cost](https://github.com/NethermindEth/nethermind/pull/8656) - 2025-05-20
+* [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/3a4d3405f77c3a07a4fded063d1f21083c8bee7c) - 2025-05-20
+* [Commit] [Pass PruningConfig to triestore (#8598)](https://github.com/NethermindEth/nethermind/commit/e17b3eaef02428f1cfddf7e1345d7f0b9a4f636b) - 2025-05-20
+* [Commit] [fix benchmarks build](https://github.com/NethermindEth/nethermind/commit/84113580b5fe20ffaf1f8f8bac27e5cb82fa2da6) - 2025-05-20
+* [Commit] [fix blobgascalculatortests](https://github.com/NethermindEth/nethermind/commit/cc918e60a6bc346137c05194ade21f84410b9f08) - 2025-05-20
+* [Commit] [fix whitespace](https://github.com/NethermindEth/nethermind/commit/8df4c6b2e16faab6fe08446e3e640f95ed18d931) - 2025-05-20
+* [Commit] [fix blobsender](https://github.com/NethermindEth/nethermind/commit/4dff17ad55017f70d68b03c8fae8a40cb6acc16f) - 2025-05-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

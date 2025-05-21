@@ -133,6 +133,10 @@ Team: Erigon
 * [Commit] [save ineff assignment](https://github.com/erigontech/erigon/commit/ed09058654543c12dd0929afad2328056a8306b1) - 2025-05-19
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8c96ac4f1ebd395b36b21c954ede82fa921c148f) - 2025-05-19
 * [Pull Request] [refactor `sharedDomains.SeekCommitment` [step1]](https://github.com/erigontech/erigon/pull/15143) - 2025-05-19
+* [Pull Request] [Support arbitrum tracing - transfers](https://github.com/erigontech/erigon/pull/15176) - 2025-05-20
+* [Commit] [Fix RIP-7560 validation gas usage (#15033)](https://github.com/erigontech/erigon/commit/64d053c0aab15aee2f1a76317301a53f55a21235) - 2025-05-20
+* [Commit] [split `SharedDomains` s4: extract usage of sd with sdctx used per trie (#15162)](https://github.com/erigontech/erigon/commit/5c3f172efa5157961744d371cbb3da8183aa3ba9) - 2025-05-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/534d8d36b2e3ef9b36c5515b3ece40795d5dcf48) - 2025-05-20
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

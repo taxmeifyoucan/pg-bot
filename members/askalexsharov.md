@@ -1707,6 +1707,11 @@ Team: Erigon
 * [Commit] [[e30] hist worker: compatibility (#15116)](https://github.com/erigontech/erigon/commit/141e59a43e8ff2598c0d149a91eb73faf82b0614) - 2025-05-19
 * [Commit] [purify_domains: param to skip single file (#15110)](https://github.com/erigontech/erigon/commit/14b3ca96192bddfd808797c560d0368947c04e95) - 2025-05-19
 * [Commit] [docs: fix broken link (#15133)](https://github.com/erigontech/erigon/commit/06722434ca7214bde95ad0abeda2b2f81457e524) - 2025-05-19
+* [Commit] [state.Writer: remove incarnation (#15165)](https://github.com/erigontech/erigon/commit/ad31111710dc426f70f6b054ad84c9e788df50c0) - 2025-05-20
+* [Pull Request] [EncodeBranch: less .Write calls](https://github.com/erigontech/erigon/pull/15178) - 2025-05-20
+* [Commit] [[r30] Prune: protect each domain from pruning ahead of it's visible files  (#15167)](https://github.com/erigontech/erigon/commit/aa0ce3219a1ced16f4e476cf919d93be5947182b) - 2025-05-20
+* [Issue] [gnosis: stage_custom_trace nil ptr](https://github.com/erigontech/erigon/issues/15172) - 2025-05-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bbd316394c1da909861fe3e5e8e90a1be397b986) - 2025-05-20
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

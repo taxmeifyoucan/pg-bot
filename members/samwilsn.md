@@ -23,6 +23,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Disallow unused arguments (closes #962)](https://github.com/ethereum/execution-specs/commit/ab9058e9081917fa03e10d2a61fa26859a174d94) - 2025-05-02
 * [Commit] [prague initial commit](https://github.com/ethereum/execution-specs/commit/a60d9e333c32bf8c6be10dab5e19cf6642c8e771) - 2025-05-15
 * [Pull Request] [Release prague (1.17.0)](https://github.com/ethereum/execution-specs/pull/1224) - 2025-05-16
+* [Pull Request] [Switch to devops' runners](https://github.com/ethereum/execution-specs/pull/1237) - 2025-05-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 

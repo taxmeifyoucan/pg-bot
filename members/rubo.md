@@ -26,6 +26,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update RocksDB package (#8640)](https://github.com/NethermindEth/nethermind/commit/22f90f19ee524bc8ec028f601ddd75f3ba652800) - 2025-05-19
 * [Commit] [Set default `LegacyTransactionForRpc` gas price to zero (#8630)](https://github.com/NethermindEth/nethermind/commit/1adebe665a2390ae5ec9432457bae88a8aa883d8) - 2025-05-19
 * [Commit] [Update System.CommandLine package (#8639)](https://github.com/NethermindEth/nethermind/commit/95c6efb8140dce67c464b1a5069b69cb7d557e63) - 2025-05-19
+* [Commit] [Fix Docker files](https://github.com/NethermindEth/nethermind/commit/7bc6620b91c2fe6f4db908b6ce828642cb9df08f) - 2025-05-20
+* [Commit] [Fix Docker files](https://github.com/NethermindEth/nethermind/commit/c63fa3a7bf4027948527a58edeb337545d2f95db) - 2025-05-20
+* [Pull Request] [Move `tools` to `src`](https://github.com/NethermindEth/nethermind/pull/8659) - 2025-05-20
+* [Commit] [Refactor `Directory.Build.props`](https://github.com/NethermindEth/nethermind/commit/b567bccc5173b3a0ad42691f29a1749c993d43ac) - 2025-05-20
+* [Commit] [Kute: order by filename (#8657)](https://github.com/NethermindEth/nethermind/commit/17609d607fc29499b95a59f748f3a8f0ee224cf5) - 2025-05-20
+* [Commit] [Reformat project files](https://github.com/NethermindEth/nethermind/commit/76b32d496ffce8efbd7d4090d9ad74e43fb4465f) - 2025-05-20
+* [Commit] [Fix SendBlobs](https://github.com/NethermindEth/nethermind/commit/bf5ef06637cd9d64e59331eb9c295b6012125d33) - 2025-05-20
+* [Commit] [Fix solution files](https://github.com/NethermindEth/nethermind/commit/016a6d27bebc16c00896a85b5e5cf3d98cf2e345) - 2025-05-20
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

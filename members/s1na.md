@@ -22,6 +22,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [eth/tracers: fix `standardTraceBlockToFile` (#31763)](https://github.com/ethereum/go-ethereum/commit/7705d13ed492a6291b2d7aa7f7c15b70749e9a65) - 2025-05-05
 * [Commit] [docs: update CLI options from latest `geth --help` output (#31835)](https://github.com/ethereum/go-ethereum/commit/391d117f192623685dd7b5b2b4aa0472a24cd325) - 2025-05-16
 * [Pull Request] [cmd: remove deprecated LES flags](https://github.com/ethereum/go-ethereum/pull/31838) - 2025-05-16
+* [Commit] [eth/tracers/native: add erc7562 tracer (#31006)](https://github.com/ethereum/go-ethereum/commit/62aa6b2621631f61c51e678948556750eabfc620) - 2025-05-20
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

@@ -40,6 +40,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [One more attempt to fix mergify condition](https://github.com/sigp/lighthouse/pull/7472) - 2025-05-16
 * [Commit] [Prevent mergify from updating labels while CI is still running. (#7470)](https://github.com/sigp/lighthouse/commit/e0ee148d6acac639d2b847f86018ae1d482837ab) - 2025-05-16
 * [Issue] [Add GitHub action to publish docker reproducible builds](https://github.com/sigp/lighthouse/issues/7486) - 2025-05-19
+* [Pull Request] [Update mergify rule to avoid unnecessarily firing some rules](https://github.com/sigp/lighthouse/pull/7494) - 2025-05-20
+* [Commit] [Extract get_domain for VoluntaryExit (#7454)](https://github.com/sigp/lighthouse/commit/851ee2bcedfc52c1eb245e6ccd1a7ad400e001e8) - 2025-05-20
+* [Pull Request] [Verify `getBlobsV2` response and avoid reprocessing imported data columns](https://github.com/sigp/lighthouse/pull/7493) - 2025-05-20
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

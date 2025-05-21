@@ -51,6 +51,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Rename fluffy to portal/nimbus_portal_client](https://github.com/status-im/nimbus-eth1/commit/2153643c9168185427a21856237b1457e358bbd0) - 2025-05-16
 * [Commit] [Rename fluffy to portal/nimbus_portal_client](https://github.com/status-im/nimbus-eth1/commit/3b2e9a5c18787cea9162bcac10b6b87ac4e8c590) - 2025-05-16
 * [Commit] [Rename fluffy to portal/nimbus_portal_client (#3289)](https://github.com/status-im/nimbus-eth1/commit/57d3748c6142ffd013ea83c80946669e1242bf00) - 2025-05-18
+* [Commit] [Update to latest grafana dashboard + remove fluffy references (#3311)](https://github.com/status-im/nimbus-eth1/commit/48d2bbac5decbd8aa9e10eb8053fc02f4b5bdda4) - 2025-05-20
+* [Pull Request] [Update to latest grafana dashboard + remove fluffy references](https://github.com/status-im/nimbus-eth1/pull/3311) - 2025-05-20
+* [Commit] [Rename fluffy refs now that hive and docker image are updated (#3310)](https://github.com/status-im/nimbus-eth1/commit/50a2821134d8b2cfc6da3da98b889364a532f770) - 2025-05-20
+* [Pull Request] [Rename fluffy refs now that hive and docker image are updated](https://github.com/status-im/nimbus-eth1/pull/3310) - 2025-05-20
+* [Commit] [Fix ContentDb and BeaconDb to close properly (#3307)](https://github.com/status-im/nimbus-eth1/commit/2183475062441e627ff82b076eb5e01a51d495a3) - 2025-05-20
+* [Commit] [Portal Bridge: Restructure portal bridge folders (#3308)](https://github.com/status-im/nimbus-eth1/commit/765b69f57037800415d8ca2febe30b0eca267f43) - 2025-05-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28

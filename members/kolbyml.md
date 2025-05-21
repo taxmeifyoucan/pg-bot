@@ -32,6 +32,8 @@ Team: Portal Network (EF)
 * [Commit] [feat: remove no longer used DROP_USAGE_STATS_DB sql query (#1833)](https://github.com/ethereum/trin/commit/66ea84ef8ac97090765ef4926bc9e1a48964ae3f) - 2025-05-17
 * [Pull Request] [feat: remove no longer used DROP_USAGE_STATS_DB sql query](https://github.com/ethereum/trin/pull/1833) - 2025-05-17
 * [Pull Request] [refactor: move EthereumAPI functions into Execution/Consensus API](https://github.com/ethereum/trin/pull/1842) - 2025-05-19
+* [Pull Request] [fix: failed to read s3 bucket in dockerfile install ca-certificates](https://github.com/ethereum/trin/pull/1843) - 2025-05-20
+* [Commit] [refactor: move EthereumAPI functions into Execution/Consensus API (#1842)](https://github.com/ethereum/trin/commit/e5a7a478def82441127bafb8fb80d11e268df25c) - 2025-05-20
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

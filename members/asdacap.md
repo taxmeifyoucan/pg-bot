@@ -129,6 +129,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Refactor/Move DiscoveryApp initialization to DI](https://github.com/NethermindEth/nethermind/pull/8624) - 2025-05-15
 * [Commit] [Fix infinite loop in tx pool (#8632)](https://github.com/NethermindEth/nethermind/commit/7c9f010d470a74921846cb43ffa040c65496249d) - 2025-05-16
 * [Pull Request] [Fix infinite loop in tx pool](https://github.com/NethermindEth/nethermind/pull/8632) - 2025-05-16
+* [Commit] [Slight code reduction](https://github.com/NethermindEth/nethermind/commit/9c3ae6b2790fc2f6bef6ccb624c9f26281278a40) - 2025-05-20
+* [Commit] [Gonna commit this first](https://github.com/NethermindEth/nethermind/commit/e2eb7411d824cf92703575b08a3a22613dd54268) - 2025-05-20
+* [Commit] [Revert unnecessary change](https://github.com/NethermindEth/nethermind/commit/354e9039ff9761cc0845541ca08ac9341c8e15fa) - 2025-05-20
+* [Pull Request] [Perf/allow archive node to use prune cache](https://github.com/NethermindEth/nethermind/pull/8655) - 2025-05-20
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

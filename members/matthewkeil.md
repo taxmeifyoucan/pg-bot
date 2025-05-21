@@ -72,6 +72,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: block input cache](https://github.com/ChainSafe/lodestar/pull/7845) - 2025-05-19
 * [Commit] [refactor: move byRoot sync to separate branch](https://github.com/ChainSafe/lodestar/commit/f3d6e97fae8b25fa354e9ed1cdfe53f33b1c3278) - 2025-05-19
 * [Commit] [fix: check-types](https://github.com/ChainSafe/lodestar/commit/e9b33c3c1e671096806eebcd66e7d00265d06b84) - 2025-05-19
+* [Commit] [feat: merge unstable to peerDAS (#7827)](https://github.com/ChainSafe/lodestar/commit/490e786a03418d9658b338da13e61c1d92a9031f) - 2025-05-20
+* [Commit] [test: double sim test timeout](https://github.com/ChainSafe/lodestar/commit/5b21588be330f2954818a4f9a050a7219f877c53) - 2025-05-20
+* [Commit] [fix: switch toHex -> toRootHex for perf reasons](https://github.com/ChainSafe/lodestar/commit/da68521478e253ee61f418e97c707efa9637320e) - 2025-05-20
+* [Commit] [fix: bug in BlockInputBlobs conditional](https://github.com/ChainSafe/lodestar/commit/b0ce18526e521bc73f72165a20f047051e265a00) - 2025-05-20
+* [Commit] [refactor: rename methods to standardize](https://github.com/ChainSafe/lodestar/commit/b3bfcd56285142ac3d235b5c32431321b7f4eaa3) - 2025-05-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

@@ -81,6 +81,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix](https://github.com/status-im/nimbus-eth2/commit/a12b97dadad8629f7f7af55b779268e320f7a82a) - 2025-05-15
 * [Commit] [fix test block processor](https://github.com/status-im/nimbus-eth2/commit/196213105c9e841146deeeb7646795c2692fbb5e) - 2025-05-15
 * [Commit] [refactored reaching ELManager](https://github.com/status-im/nimbus-eth2/commit/f4ce1880e01fb8c4757860e6a49055203c6fa1aa) - 2025-05-16
+* [Commit] [use EF consensus spec v1.6.0-alpha.0 test vectors (#7173)](https://github.com/status-im/nimbus-eth2/commit/dd396318ae00b57f1593b6674d85036dcd6b5a66) - 2025-05-20
+* [Commit] [rm beacon_chain/el/deposit_contract.nim, replaced by ncli_testnet (#7155)](https://github.com/status-im/nimbus-eth2/commit/6fd972620c0bbb39242ea5861ad7aaa430144090) - 2025-05-20
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

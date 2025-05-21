@@ -39,6 +39,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [Check for nil duties on checkDependentRoots (#15241)](https://github.com/OffchainLabs/prysm/commit/8a22df902fb783e37d63f03bf75e53845a3d5070) - 2025-05-02
 * [Pull Request] [Add `{state_id}` to Prysm endpoints](https://github.com/OffchainLabs/prysm/pull/15245) - 2025-05-02
 * [Commit] [Revert "Add `{state_id}` to Prysm endpoints"](https://github.com/OffchainLabs/prysm/commit/314ec2d14a64a7ea9d6ddc97f8e1d4c1e486a209) - 2025-05-02
+* [Commit] [changelog message fix](https://github.com/OffchainLabs/prysm/commit/984c627da9d8dacf154eccb2c1f97232929ef5cf) - 2025-05-20
+* [Commit] [endpoint registration behind flag (#15303)](https://github.com/OffchainLabs/prysm/commit/edab1450013e6e5eed632d84d4264367ce15780d) - 2025-05-20
+* [Pull Request] [Update Beacon API evaluator](https://github.com/OffchainLabs/prysm/pull/15304) - 2025-05-20
+* [Commit] [cleanup and changelog](https://github.com/OffchainLabs/prysm/commit/009955716782c6eaf078b9f8dffdf0caee16aef3) - 2025-05-20
+* [Commit] [Turn on lc gossip (#15220)](https://github.com/OffchainLabs/prysm/commit/6df476835ce68fe3c17c3997fbbf3db7558170bc) - 2025-05-20
+* [Commit] [in progress](https://github.com/OffchainLabs/prysm/commit/6d9e82e1e4e4d7800e270757d4eb7d284bf9c3aa) - 2025-05-20
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

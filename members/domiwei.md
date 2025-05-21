@@ -85,6 +85,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [reload salt in integration and rpcd (#15026)](https://github.com/erigontech/erigon/commit/82a4741552a44a1b01fe3ceac8d693742bcc620a) - 2025-05-16
 * [Pull Request] [Cherrypick: Missing version in response of aggregate_attestation (#15034)](https://github.com/erigontech/erigon/pull/15079) - 2025-05-16
 * [Commit] [update](https://github.com/erigontech/erigon/commit/d77eb8bf4cc0b3c35744fc36726bf95f4a8b8848) - 2025-05-18
+* [Commit] [fix incorrect cached attestation data (#15168)](https://github.com/erigontech/erigon/commit/a1ae2408fe382bbbeaa3db39e546803a1de13e72) - 2025-05-20
+* [Commit] [deprecate blob sidecar api](https://github.com/erigontech/erigon/commit/b82083c39e6d7bea8702388f253f8fe9c91f1136) - 2025-05-20
+* [Commit] [perf_test: update version + perf test for debug_storageRangeAt, debug_traceTransaction (#14985)](https://github.com/erigontech/erigon/commit/95725f2864e2a7165e5824242e65e16e9bbf4847) - 2025-05-20
+* [Pull Request] [fix incorrect cached attestation data](https://github.com/erigontech/erigon/pull/15168) - 2025-05-20
+* [Commit] [update](https://github.com/erigontech/erigon/commit/c1d41a0d058e925e33f5421d2c0696430c52f9a6) - 2025-05-20
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

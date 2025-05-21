@@ -37,6 +37,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 * [Pull Request] [Validate electra attestationData index received by BN](https://github.com/Consensys/teku/pull/9430) - 2025-05-17
 * [Commit] [Introduces `RewardBasedAttestationSorter` (#9428)](https://github.com/Consensys/teku/commit/3254e4b2232fd3f0b6ae152aa488243791e9934e) - 2025-05-19
+* [Issue] [`Single attestation is not supported` warnings may appear](https://github.com/Consensys/teku/issues/9446) - 2025-05-20
+* [Pull Request] [Introduce `AggregatingAttestationPoolV2`](https://github.com/Consensys/teku/pull/9445) - 2025-05-20
+* [Commit] [Introduce `AttestationMatchingGroupV2` (#9438)](https://github.com/Consensys/teku/commit/0f7c19fc495aad3d22b3d0074034ca0745eee50c) - 2025-05-20
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

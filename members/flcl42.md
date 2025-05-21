@@ -73,6 +73,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Add BPOs](https://github.com/NethermindEth/nethermind/commit/36a0b9b08d44abbb70f26a2afdb8e0bf4a8ddb8b) - 2025-05-16
 * [Pull Request] [[Draft] Add BPOs](https://github.com/NethermindEth/nethermind/pull/8631) - 2025-05-16
 * [Commit] [Fix building](https://github.com/NethermindEth/nethermind/commit/9a84d33b20ddf4ccf8ca69dc97553877188848df) - 2025-05-19
+* [Commit] [PatriciaTree ignoreMissingDelete is not used (#8646)](https://github.com/NethermindEth/nethermind/commit/056bcd3e088e73e64e17e89cc45e7f70061765f6) - 2025-05-20
+* [Commit] [Add osaka](https://github.com/NethermindEth/nethermind/commit/375b6575f66a594dc985ae4cdf0fdf1b55c3a38e) - 2025-05-20
+* [Commit] [Add osaka](https://github.com/NethermindEth/nethermind/commit/e3b26ac1b2c3cdc9244fcb2b83ecfcd10aa45208) - 2025-05-20
+* [Commit] [Add Eof Execution EIP-7692 (EIP-663, EIP-3540, EIP-3670, EIP-4200, EIP-4750, EIP-5450, EIP-6206, EIP-7069, EIP-7480, EIP-7620, EIP-7698, EIP-7756) (#8176)](https://github.com/NethermindEth/nethermind/commit/2782ac7ac3b6be1c33e964838c404bdb14b2909b) - 2025-05-20
+* [Commit] [calculate cell kzg proofs](https://github.com/NethermindEth/nethermind/commit/d859da9d6293c2ef129048691551e2ce92858e36) - 2025-05-20
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/dc5373db284faef36586f3f8e9f5f42d92c82528) - 2025-05-20
+* [Commit] [Merge remote-tracking branch 'origin/master' into feature/peerdas](https://github.com/NethermindEth/nethermind/commit/2181e2db15c44ea9c2d09edc0c4008473ff56489) - 2025-05-20
+* [Commit] [Update System.CommandLine package (#8639)](https://github.com/NethermindEth/nethermind/commit/95c6efb8140dce67c464b1a5069b69cb7d557e63) - 2025-05-20
+* [Commit] [Improve test](https://github.com/NethermindEth/nethermind/commit/72df1419fbd3cfd2b0edc0495193446513206921) - 2025-05-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

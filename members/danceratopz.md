@@ -232,8 +232,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Apply suggestions from code review](https://github.com/ethereum/execution-spec-tests/commit/ce9c05cf1177df7ddd8dbed087c6569dab68bd04) - 2025-05-19
 * [Commit] [docs: add more conventional commit `tests` examples](https://github.com/ethereum/execution-spec-tests/commit/4750496f94becc2314c5387dc49155cade9c97b8) - 2025-05-19
 * [Issue] [feat(eest): add an `eest info` cli to print version info](https://github.com/ethereum/execution-spec-tests/issues/1619) - 2025-05-19
+* [Commit] [Deployed 4a0fbf5d9e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3f199aed9e312725523fb7c7773b98c832cbebf6) - 2025-05-20
+* [Commit] [docs: add `CONTRIBUTING.md` and improve coding standards (#1604)](https://github.com/ethereum/execution-spec-tests/commit/4a0fbf5d9e8603b50dd717a7dcdf535c1947d369) - 2025-05-20
+* [Commit] [Deployed b0c9ced185 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e117edc4268155cfc7dca1e56c3c78a72c40a448) - 2025-05-20
+* [Commit] [refactor(fill): use a session-scoped fixture for git tag or hash (#1432)](https://github.com/ethereum/execution-spec-tests/commit/f2c001cfd742dc87b4f5345e4c111a5d634e0f8f) - 2025-05-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
+* [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

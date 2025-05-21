@@ -82,6 +82,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [State that reconstructed sidecars which are not custodied may be deleted (#4332)](https://github.com/ethereum/consensus-specs/commit/921087e80ee542af1c3699e78bddaafc8464912a) - 2025-05-19
 * [Pull Request] [State that reconstructed sidecars which are not custodied may be deleted](https://github.com/ethereum/consensus-specs/pull/4332) - 2025-05-19
 * [Commit] [Add to epoch processing tests generation states before and after full epoch processing (#4155)](https://github.com/ethereum/consensus-specs/commit/f08555c2e3bc1b0cb74498d51748b44ac05c25e6) - 2025-05-19
+* [Commit] [Delete unnecessary eth2spec/eip7732/__init__.py file (#4336)](https://github.com/ethereum/consensus-specs/commit/a94d85bb3b33f84a5830eb98945b790b02ae80e8) - 2025-05-20
+* [Pull Request] [Delete unnecessary eth2spec/eip7732/__init__.py file](https://github.com/ethereum/consensus-specs/pull/4336) - 2025-05-20
+* [Commit] [Run linting on pysetup directory (#4335)](https://github.com/ethereum/consensus-specs/commit/14da059184087fb1c8d3fd47e44874cd33dd1d3c) - 2025-05-20
+* [Pull Request] [Run linting on pysetup directory](https://github.com/ethereum/consensus-specs/pull/4335) - 2025-05-20
+* [Commit] [Bump the actions group with 3 updates](https://github.com/ethereum/consensus-specs/commit/453214f0c6f705d12675ed64f9cd4e4d47d3df2d) - 2025-05-20
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

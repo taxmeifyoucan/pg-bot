@@ -141,6 +141,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: temporarily disable failing tests after PR 12907 (#15059)](https://github.com/erigontech/erigon/commit/3dc4dabd3f863a578bfc0b3d5aa12d166c68240d) - 2025-05-19
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f4ad32584b1b474932bdb3a58bbb6c27735e11e1) - 2025-05-19
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9c8bf6c2da12532bde7e4df639c8f882693f613c) - 2025-05-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/930ae261d5bc3dda782b053cf3d94a53be4df5b3) - 2025-05-20
+* [Pull Request] [consider different index types when finding overlaps](https://github.com/erigontech/erigon/pull/15179) - 2025-05-20
+* [Issue] [producing empty files without execution](https://github.com/erigontech/erigon/issues/15174) - 2025-05-20
+* [Issue] [hoodi snapshotter crash](https://github.com/erigontech/erigon/issues/15173) - 2025-05-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a506ce6deb15ab51005f2589e7924804faa0d8b3) - 2025-05-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9011cd98293d96a90acb66e603c74dd9f65e9ce5) - 2025-05-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/13b41e9b4fa36dca295dc5359384cde04f6c8393) - 2025-05-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8eeb1bf31d7edd1ac04972e2bc043eaf2920e356) - 2025-05-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0a4b6ecb894227819235d1497f3d5bb5e196ad2c) - 2025-05-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2f9ca7b1c701e0c247fe5a489f39afbb3b8be26d) - 2025-05-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e93215acfd5f009d0c7bd3199ff6f58a766a6bfa) - 2025-05-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8ad6fe2b39e38e326765646af1a9993aa9ed3885) - 2025-05-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/88c1771f009c7b9c07cc2465c339336a8d38a60d) - 2025-05-20
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

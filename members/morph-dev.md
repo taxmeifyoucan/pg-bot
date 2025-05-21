@@ -15,6 +15,7 @@ Team: Portal Network (EF)
 * [Pull Request] [Add first version of the spec for the Head-MPT State network](https://github.com/ethereum/portal-network-specs/pull/389) - 2025-04-09
 
 * [Pull Request] [beacon: UpdatesByRange don't have to be full, clarify FindContent logic](https://github.com/ethereum/portal-network-specs/pull/403) - 2025-05-18
+* [Commit] [beacon: UpdatesByRange don't have to be full, clarify FindContent logic (#403)](https://github.com/ethereum/portal-network-specs/commit/243db7b19fbf17d1069972005cde51154d2fbea2) - 2025-05-20
 [ethereum/trin](https://github.com/ethereum/trin)
 * [Commit] [ci: build and publish docker image on tag (#1818)](https://github.com/ethereum/trin/commit/964e5613a0eba91cb700d7312add1709ca517345) - 2025-05-13
 * [Pull Request] [refactor: move consensus related constants into ethportal-api](https://github.com/ethereum/trin/pull/1825) - 2025-05-14
@@ -29,6 +30,7 @@ Team: Portal Network (EF)
 * [Pull Request] [feat: subnetwork stores should use affected_by_radius](https://github.com/ethereum/trin/pull/1840) - 2025-05-19
 * [Pull Request] [feat: add affected_by_radius to content key](https://github.com/ethereum/trin/pull/1839) - 2025-05-19
 * [Commit] [feat: remove DistanceFunction (#1838)](https://github.com/ethereum/trin/commit/2ed36189c4601baed0a656404e65a9b2a60ab774) - 2025-05-19
+* [Commit] [feat: subnetwork stores should use affected_by_radius (#1840)](https://github.com/ethereum/trin/commit/adfa490e1455ff3a922902ec10be37072b4233a7) - 2025-05-20
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

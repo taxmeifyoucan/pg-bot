@@ -66,5 +66,10 @@ Team: Reth
 * [Commit] [ugh import](https://github.com/paradigmxyz/reth/commit/a448e5112c557f84ba4ce35cee9b2b57b86a80ce) - 2025-05-19
 * [Pull Request] [feat(primitive-traits): relax mem size implementations for 4844 txs with sidecars](https://github.com/paradigmxyz/reth/pull/16349) - 2025-05-19
 * [Pull Request] [feat(txpool): use `BlobTransactionSidecarVariant`](https://github.com/paradigmxyz/reth/pull/16331) - 2025-05-19
+* [Pull Request] [feat(txpool): activate osaka in tx validator](https://github.com/paradigmxyz/reth/pull/16371) - 2025-05-20
+* [Pull Request] [feat(txpool): properly validate sidecar according to the active fork](https://github.com/paradigmxyz/reth/pull/16370) - 2025-05-20
+* [Issue] [feat(txpool): implement `get_by_versioned_hashes_v2`](https://github.com/paradigmxyz/reth/issues/16368) - 2025-05-20
+* [Commit] [update doc](https://github.com/paradigmxyz/reth/commit/d22cfd31cab4775f5b6ba6429be67e8850493a6e) - 2025-05-20
+* [Commit] [address pr comments](https://github.com/paradigmxyz/reth/commit/f99621055e9067769b77b5029c1087e2cfc9c36b) - 2025-05-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16

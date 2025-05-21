@@ -26,6 +26,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] [Reintroduce tx index pruning with performance fix](https://github.com/hyperledger/besu/pull/8620) - 2025-05-10
 * [Issue] [Update EEST to v4.5.0](https://github.com/hyperledger/besu/issues/8641) - 2025-05-19
 * [Pull Request] [[fusaka-devnet-0] EIP-7823 Set upper bounds for MODEXP](https://github.com/hyperledger/besu/pull/8644) - 2025-05-19
+* [Issue] [Add history-expiry-prune convenience flag to wrap prune GC settings](https://github.com/hyperledger/besu/issues/8654) - 2025-05-20
+* [Issue] [Enabled most history expiry features by default](https://github.com/hyperledger/besu/issues/8653) - 2025-05-20
+* [Issue] [Reset eth capability from eth/68 to latest](https://github.com/hyperledger/besu/issues/8652) - 2025-05-20
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

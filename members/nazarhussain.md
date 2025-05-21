@@ -106,6 +106,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Remove the dependency of log meta](https://github.com/ChainSafe/lodestar/commit/200d9d9a077315e5f644c21110e44f2734f66018) - 2025-05-19
 * [Commit] [Update the name of function](https://github.com/ChainSafe/lodestar/commit/9490404ccf6159b11e27119e81b46e15aa9d244a) - 2025-05-19
 * [Pull Request] [refactor: split `produceBlockBody` monolithic to smaller helpers](https://github.com/ChainSafe/lodestar/pull/7844) - 2025-05-19
+* [Commit] [Add comments to explain cache](https://github.com/ChainSafe/lodestar/commit/a36f8c5cfa01a894f91a5ca9a21f57002895b5a6) - 2025-05-20
+* [Commit] [Update the workflow path to use same cache path](https://github.com/ChainSafe/lodestar/commit/b0e955b092a0e1b185f995e9904a7665ea9076e3) - 2025-05-20
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

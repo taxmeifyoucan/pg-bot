@@ -193,6 +193,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Implement Eip7823](https://github.com/NethermindEth/nethermind/pull/8649) - 2025-05-18
 * [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/07bcf19093c0b5ecabfbfa3cff2c149da7a3c99c) - 2025-05-19
 * [Commit] [Refactor/Move DiscoveryApp initialization to DI (#8624)](https://github.com/NethermindEth/nethermind/commit/97e3f52c88ee77082c162a4b60dfd0aabdeced9c) - 2025-05-19
+* [Commit] [Implement Eip7823 (#8649)](https://github.com/NethermindEth/nethermind/commit/1c5131ad7ce7c1d4c38b7fb8af0770647a0cdc3a) - 2025-05-20
+* [Commit] [Add invalid examples](https://github.com/NethermindEth/nethermind/commit/f0a999e0b1159df3f5161fa165daa4fc94c9418b) - 2025-05-20
+* [Commit] [Add state availability checks before debug module tracing (#8621)](https://github.com/NethermindEth/nethermind/commit/32cc7bd3020686411377f6dc9cfeb1cb1dc96870) - 2025-05-20
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/c7045ee66303243208a6afee7ea0e3ae99977b1e) - 2025-05-20
+* [Pull Request] [Kute: order by filename](https://github.com/NethermindEth/nethermind/pull/8657) - 2025-05-20
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

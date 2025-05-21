@@ -55,3 +55,5 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [add ported_from test marker to converted from json tests](https://github.com/ethereum/execution-spec-tests/commit/363d294db04ba0ec5880a027caaf3123ff41b447) - 2025-05-19
 * [Commit] [convert Create first byte loop filler](https://github.com/ethereum/execution-spec-tests/commit/08897aff7f24e8c9b9e81ad264102dd90e577b0f) - 2025-05-19
 * [Commit] [convert Create first byte loop filler](https://github.com/ethereum/execution-spec-tests/commit/44933d894f2b7fed40c9c4dc08f52f0792019176) - 2025-05-19
+* [Commit] [add ported_from test marker to converted from json tests](https://github.com/ethereum/execution-spec-tests/commit/776091efc2893bd09ecc901c73cb0dc9ad94c89e) - 2025-05-20
+* [Commit] [convert Create first byte loop filler](https://github.com/ethereum/execution-spec-tests/commit/68185bc8db671e94b3dcfc7796c87d3b87639fd1) - 2025-05-20

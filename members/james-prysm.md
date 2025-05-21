@@ -95,6 +95,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [adding in temporary fix until web3signer is supported for blob schedule in config](https://github.com/OffchainLabs/prysm/commit/552693fb68ca07a88f5a0874d1d545c860ff6f59) - 2025-05-19
 * [Commit] [Add fulu spec tests for sanity and reward (#15285)](https://github.com/OffchainLabs/prysm/commit/eafef8c7c803f5a63755a9a63377c3bd6459aa41) - 2025-05-19
 * [Commit] [reverting all changes to get duties v1 based on preston's feedback](https://github.com/OffchainLabs/prysm/commit/cbaea72322b061658138bf5e94a26f7af36ce4ce) - 2025-05-19
+* [Commit] [Update proto/prysm/v1alpha1/validator.proto](https://github.com/OffchainLabs/prysm/commit/4848dbe418e303db5a63052e95569060346d770a) - 2025-05-20
+* [Commit] [Enable Light Client req/resp domain (#15281)](https://github.com/OffchainLabs/prysm/commit/5bbcfe5237550422b42b170aae5ddd24fced2d7f) - 2025-05-20
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

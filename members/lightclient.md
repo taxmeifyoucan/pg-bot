@@ -31,9 +31,12 @@ Team: Geth
 * [Commit] [Update EIP-5792: fix typo (#9770)](https://github.com/ethereum/EIPs/commit/7a29ce57611824f03b2cb0e7c5dabd44c15cfd4d) - 2025-05-13
 * [Pull Request] [Clarify read ops](https://github.com/ethereum/EIPs/pull/9775) - 2025-05-14
 
+* [Commit] [Update EIP-6110: ensure ints are decoded as uints (#9784)](https://github.com/ethereum/EIPs/commit/6eaa4f9873d3470258c9040431509b13120fbacb) - 2025-05-20
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [add .idea/ dir to ignore list (#643)](https://github.com/ethereum/execution-apis/commit/15399c2e2f16a5f800bf3f285640357e2c245ad9) - 2025-05-14
 * [Commit] [Update README (#645)](https://github.com/ethereum/execution-apis/commit/de5554849b65755e1780ce92f4052d4744538c1e) - 2025-05-14
+* [Commit] [readme: fix playground link (#657)](https://github.com/ethereum/execution-apis/commit/dd00287101e368752ba264950585dde4b61cdc17) - 2025-05-20
+* [Pull Request] [readme: fix playground link](https://github.com/ethereum/execution-apis/pull/657) - 2025-05-20
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

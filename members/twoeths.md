@@ -83,6 +83,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: e2e test in reqrespEncode.test.ts](https://github.com/ChainSafe/lodestar/commit/a721a135c5cb74570c1ca743901190d6322bdd19) - 2025-05-15
 * [Issue] [fulu: missing new spec test runners](https://github.com/ChainSafe/lodestar/issues/7839) - 2025-05-16
 * [Commit] [fix: skip more merkle spec tests](https://github.com/ChainSafe/lodestar/commit/6d2f0d1c0ae274577b60093181f83704e1f7da1f) - 2025-05-16
+* [Issue] [PeerDAS - low gossip score due to p7](https://github.com/ChainSafe/lodestar/issues/7849) - 2025-05-20
+* [Pull Request] [fix: remove isProcessingCurrentSlotBlock](https://github.com/ChainSafe/lodestar/pull/7848) - 2025-05-20
+* [Issue] [PeerDAS - huge gossip job wait time](https://github.com/ChainSafe/lodestar/issues/7847) - 2025-05-20
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

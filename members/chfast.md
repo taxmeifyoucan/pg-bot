@@ -31,6 +31,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): add benchmarks with mass unop opcodes (#1620)](https://github.com/ethereum/execution-spec-tests/commit/ee857dbe443510ffb819eb1a80312f508fd57edd) - 2025-05-19
 * [Pull Request] [feat(tests): add benchmarks with mass shift opcodes](https://github.com/ethereum/execution-spec-tests/pull/1625) - 2025-05-19
 * [Pull Request] [feat(tests): add benchmarks with mass unop opcodes](https://github.com/ethereum/execution-spec-tests/pull/1620) - 2025-05-19
+* [Commit] [feat(tests): add benchmarks with mass shift opcodes (#1625)](https://github.com/ethereum/execution-spec-tests/commit/b0c9ced18547e6250ab844ee1953b438137af119) - 2025-05-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-5450,EIP-4750: Change to max_stack_increase](https://github.com/ethereum/EIPs/pull/9600) - 2025-04-04
 * [Pull Request] [Update EIP-5450: Expand on block ordering](https://github.com/ethereum/EIPs/pull/9599) - 2025-04-04

@@ -298,6 +298,7 @@ Team: Reth
 * [Pull Request] [chore: bump inspectors](https://github.com/paradigmxyz/reth/pull/16342) - 2025-05-19
 * [Issue] [Add BlockRangeUpdate message for eth69](https://github.com/paradigmxyz/reth/issues/16337) - 2025-05-19
 * [Pull Request] [Revert "refactor(mempool): Refactor transaction validation to use batch interface"](https://github.com/paradigmxyz/reth/pull/16334) - 2025-05-19
+* [Issue] [change ots_getBlockDetails	arg to BlockNumberortag](https://github.com/paradigmxyz/reth/issues/16369) - 2025-05-20
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

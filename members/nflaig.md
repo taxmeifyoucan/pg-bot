@@ -148,6 +148,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix blob schedule parsing and config/spec output](https://github.com/ChainSafe/lodestar/commit/dea4739e9a66abded12f4b35958a6de781b81868) - 2025-05-16
 * [Commit] [Fix gnosis config](https://github.com/ChainSafe/lodestar/commit/3d748ba49a28b396a39a43d970b27f6297710f7b) - 2025-05-16
 * [Commit] [fix: advance pre state's slot used in rewards endpoints (#7842)](https://github.com/ChainSafe/lodestar/commit/83fd80d5759b4b3f8aa9332ac53af2c7e1977d8a) - 2025-05-19
+* [Commit] [Only assert BLOB_SCHEDULE value if Fulu is scheduled](https://github.com/ChainSafe/lodestar/commit/f3a03671b2dbd06afd3c4cd892b7a3a91e77ccbd) - 2025-05-20
+* [Commit] [Fix more inconsistencies](https://github.com/ChainSafe/lodestar/commit/288fc33b943a61df9b2b2b3a04db1ad6574aa66d) - 2025-05-20
+* [Commit] [Update config files to more closely align with CL spec files](https://github.com/ChainSafe/lodestar/commit/adb43dfd98b51abaf4188d291af73649fc00bd2a) - 2025-05-20
+* [Commit] [Deduplicate spec json type definition](https://github.com/ChainSafe/lodestar/commit/7381c1461a0f8effd8c64c6536c23e17d09f1399) - 2025-05-20
+* [Pull Request] [chore: throw error if ssz types for fork are not defined](https://github.com/ChainSafe/lodestar/pull/7850) - 2025-05-20
+* [Commit] [chore: throw error if ssz types for fork are not defined](https://github.com/ChainSafe/lodestar/commit/5cf96f248db772e854cc36453856eccff8a547f2) - 2025-05-20
+* [Commit] [Revert change to gossip block validation test](https://github.com/ChainSafe/lodestar/commit/f8ff2c9d0a9d6c0b32aa03a7a752e15607770154) - 2025-05-20
+* [Commit] [Add comment to clarify that default min value is only for testing](https://github.com/ChainSafe/lodestar/commit/11fdc1d531da6324766e3a934d8d1a4bd2061459) - 2025-05-20
+* [Commit] [refactor: add method to get ancestor & non-ancestor nodes in single traversal (#7528)](https://github.com/ChainSafe/lodestar/commit/a64ca247a006136e8aae5015f57d39370b421c23) - 2025-05-20
+* [Commit] [fix: review EIP-7045 (#7838)](https://github.com/ChainSafe/lodestar/commit/3adfdb7ffc1874bb9788d002e655841921271886) - 2025-05-20
+* [Commit] [Remove string concatenation](https://github.com/ChainSafe/lodestar/commit/111ec882999a16a1936f6494ed4a4a18984174f1) - 2025-05-20
+* [Commit] [test: add nightly run Kurtosis sim test (#7821)](https://github.com/ChainSafe/lodestar/commit/f289ef591653255821adefff9aff9aae82ba8692) - 2025-05-20
+* [Commit] [chore: bump package versions to 1.30.0](https://github.com/ChainSafe/lodestar/commit/123eb2d9fb71dd10076a47bc7787bf4ec40343da) - 2025-05-20
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

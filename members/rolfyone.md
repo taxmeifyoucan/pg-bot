@@ -30,6 +30,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [BPO - remove max blobs from fulu spec](https://github.com/Consensys/teku/pull/9427) - 2025-05-16
 * [Issue] [[REST API] implement validator_identities ](https://github.com/Consensys/teku/issues/9429) - 2025-05-17
 * [Commit] [BPO - remove max blobs from fulu spec (#9427)](https://github.com/Consensys/teku/commit/1109fd434bec2ced0c84f9001bee3b0e23f18b40) - 2025-05-18
+* [Issue] [wrap config defaulting with a flag to disable if required](https://github.com/Consensys/teku/issues/9443) - 2025-05-20
+* [Commit] [Added config defaulting to the Config loader (#9439)](https://github.com/Consensys/teku/commit/5b9a712315251122f4489bd1625ea95994a3c560) - 2025-05-20
+* [Issue] [cleanup deprecation on docker](https://github.com/Consensys/teku/issues/9442) - 2025-05-20
+* [Pull Request] [partial backport to das](https://github.com/Consensys/teku/pull/9441) - 2025-05-20
+* [Pull Request] [partial sync of das branch](https://github.com/Consensys/teku/pull/9440) - 2025-05-20
+* [Pull Request] [Added config defaulting to the Config loader](https://github.com/Consensys/teku/pull/9439) - 2025-05-20
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

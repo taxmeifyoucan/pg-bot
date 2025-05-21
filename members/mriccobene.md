@@ -54,6 +54,7 @@ Team: Erigon
 * [Commit] [qa-tests: update workflows (#15064)](https://github.com/erigontech/erigon/commit/fb1e0352217e362a52df43beb07dfa7501ed35f7) - 2025-05-16
 * [Commit] [tip-tracking: use different db for main and release/3 (polygon)](https://github.com/erigontech/erigon/commit/8835dafe232c3d3b9c199e4597fb632212eec3b4) - 2025-05-16
 * [Commit] [tip-tracking: use different db for main and release/3](https://github.com/erigontech/erigon/commit/c07d4ae8974a109717183f412a7adb921713a06c) - 2025-05-16
+* [Commit] [tests: Increase `cmd/evm` tests  subprocess timeout to 30 sec (#15002)](https://github.com/erigontech/erigon/commit/912b495c436bfbca62fd19b63c20ff355740871c) - 2025-05-20
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

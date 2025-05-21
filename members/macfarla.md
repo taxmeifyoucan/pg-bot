@@ -40,6 +40,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [[MINOR] remove dot following path so it can be cut/pasted](https://github.com/hyperledger/besu/pull/8642) - 2025-05-19
 * [Commit] [remove smart contract perm tests (#8595)](https://github.com/hyperledger/besu/commit/30fd6e850ff4a12ef9733bdd14e9712418edd141) - 2025-05-19
 * [Commit] [ephemery to 60M gas limit (#8622)](https://github.com/hyperledger/besu/commit/67dbe80a20125d2344a9a2f15be208979604365e) - 2025-05-19
+* [Pull Request] [remove PrivacyOptionsTest](https://github.com/hyperledger/besu/pull/8655) - 2025-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

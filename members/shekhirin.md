@@ -114,6 +114,15 @@ Team: Reth
 * [Commit] [Update .github/workflows/release.yml](https://github.com/paradigmxyz/reth/commit/a5475e9583dfb34d361b7ae86c9f61028761f2bb) - 2025-05-16
 * [Pull Request] [ci: replace SVG icons in release.yml](https://github.com/paradigmxyz/reth/pull/16295) - 2025-05-16
 * [Pull Request] [ci: deduplicate changelog in release notes](https://github.com/paradigmxyz/reth/pull/16294) - 2025-05-16
+* [Commit] [perf(trie): `repr(C)` for `PackedNibbles`](https://github.com/paradigmxyz/reth/commit/a8b3d547fcd6dfe843a8d426984f7fa9b1f9ea00) - 2025-05-20
+* [Commit] [remove benchmark](https://github.com/paradigmxyz/reth/commit/2cdd9537f9d4af637a778ff8c64092d5a027e87b) - 2025-05-20
+* [Commit] [Revert "revertme: `core::ptr::read`"](https://github.com/paradigmxyz/reth/commit/88562495111dd5f547dc9361521ee7c07fff8f03) - 2025-05-20
+* [Commit] [revertme: `core::ptr::read`](https://github.com/paradigmxyz/reth/commit/7e367cfc263d5f701c9e7677698b139e453396ce) - 2025-05-20
+* [Commit] [test(trie): `PackedNibbles::common_prefix_length`](https://github.com/paradigmxyz/reth/commit/7a85921c6e90728647fc463faadbdf587b822942) - 2025-05-20
+* [Commit] [fix(trie): `PackedNibbles::common_prefix_length`](https://github.com/paradigmxyz/reth/commit/a3b7d0c465d57e5412c77b565ad87c392d02ed93) - 2025-05-20
+* [Commit] [revertme: black box properly](https://github.com/paradigmxyz/reth/commit/dfccc87776891cc6904c416aa6a049f8d550fea3) - 2025-05-20
+* [Commit] [revertme: black box](https://github.com/paradigmxyz/reth/commit/dbd5885f54e21553be4e409ec157ab7fb0a5d218) - 2025-05-20
+* [Commit] [perf(trie): optimize `PackedNibbles::common_prefix_length`](https://github.com/paradigmxyz/reth/commit/653d76628c054d918c2ee4217f88d2c8eb7df8e1) - 2025-05-20
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

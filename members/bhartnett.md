@@ -65,3 +65,12 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [For now peerCount returned in PutContent should include DeclinedAlreadyStored.](https://github.com/status-im/nimbus-eth1/commit/31a9b4215d89c5df8eab67b8b4a0cb46fc7ae1f2) - 2025-05-19
 * [Commit] [Use asyncSpawn for triggerPoke.](https://github.com/status-im/nimbus-eth1/commit/cb603b72bbe4b4893e093e38ac0504edc71547ca) - 2025-05-19
 * [Pull Request] [Nimbus Portal Client: Remove offer workers and support sending rate limited offers](https://github.com/status-im/nimbus-eth1/pull/3303) - 2025-05-19
+* [Commit] [Improve offerBatchGetPeerCount function.](https://github.com/status-im/nimbus-eth1/commit/cb06d0272ab6caba79860e91950641211591e7a6) - 2025-05-20
+* [Commit] [Cleaner exception handling.](https://github.com/status-im/nimbus-eth1/commit/5b68aba1ed770f8887ad713333b9eae204ba7c67) - 2025-05-20
+* [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/c5069852e4d43c9662dca5fd42634c251e4e7cbc) - 2025-05-20
+* [Commit] [Portal Client: Minor improvements to portal docs (#3309)](https://github.com/status-im/nimbus-eth1/commit/c2a67b758ae9865d763bd16374abf4b0e1a7c84f) - 2025-05-20
+* [Commit] [Update portal/docs/the_fluffy_book/docs/state-content-bridging.md](https://github.com/status-im/nimbus-eth1/commit/0c7579840947f65bc6a895f2b230abfde6950922) - 2025-05-20
+* [Commit] [Test random gossip and neighborhood gossip.](https://github.com/status-im/nimbus-eth1/commit/769480aa8954c6bff8733a23a8ea00898fd9f5a2) - 2025-05-20
+* [Pull Request] [Portal Client: Minor improvements to portal docs](https://github.com/status-im/nimbus-eth1/pull/3309) - 2025-05-20
+* [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/a78b0af1bc68cd089660053deb44686ff05b0d3b) - 2025-05-20
+* [Pull Request] [Portal Bridge: Restructure portal bridge folders](https://github.com/status-im/nimbus-eth1/pull/3308) - 2025-05-20

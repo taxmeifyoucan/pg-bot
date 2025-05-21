@@ -77,6 +77,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Update mdlint to disable descriptive-link-text](https://github.com/sigp/lighthouse/pull/7481) - 2025-05-19
 * [Commit] [Update comment/remove TODO](https://github.com/sigp/lighthouse/commit/00ef82af761e392bb2fa616f4a80ef9f3f0c45e4) - 2025-05-19
 * [Issue] [Delete `POST /eth/v1/beacon/blocks`](https://github.com/sigp/lighthouse/issues/7478) - 2025-05-19
+* [Commit] [Clean up some more TODOs](https://github.com/sigp/lighthouse/commit/a4f442cedd2e36292e75986ea88cc84df7faa2c4) - 2025-05-20
+* [Commit] [Correct V23 -> V24 in load_split comment](https://github.com/sigp/lighthouse/commit/c39daf2822a8a21ff63a6f9bbb4e2dbd336bd533) - 2025-05-20
+* [Commit] [Split hdiff metrics by hot/cold](https://github.com/sigp/lighthouse/commit/c12dd1c7af91987d4954c5f7b7f3502b52ed2247) - 2025-05-20
+* [Issue] [Revert fork version fallback used by `/eth/v1/beacon/blob_sidecars/{block_id}`](https://github.com/sigp/lighthouse/issues/7496) - 2025-05-20
+* [Pull Request] [Fix blob download from checkpointz servers](https://github.com/sigp/lighthouse/pull/7495) - 2025-05-20
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

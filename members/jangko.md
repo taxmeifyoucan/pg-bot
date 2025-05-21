@@ -50,3 +50,5 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Add trace log when disconnecting peer](https://github.com/status-im/nimbus-eth1/commit/86dd252b8e4ecb7930cb0e58745d5da303532858) - 2025-05-19
 * [Pull Request] [Avoid persisting the same txFrame twice in updateBase](https://github.com/status-im/nimbus-eth1/pull/3301) - 2025-05-19
 * [Pull Request] [eth/69: Disconnect peer when receive invalid blockRangeUpdate](https://github.com/status-im/nimbus-eth1/pull/3300) - 2025-05-19
+* [Commit] [Avoid recompute block hash in getStatus68/69](https://github.com/status-im/nimbus-eth1/commit/b46e0537150a816609322d4005f579394185d7bb) - 2025-05-20
+* [Commit] [add a flag for disableMarchNative (#3286)](https://github.com/status-im/nimbus-eth1/commit/fb38003b90e0ddddeb0dd892ac2a5bdddfdbbb30) - 2025-05-20

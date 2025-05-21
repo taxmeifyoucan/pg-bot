@@ -42,3 +42,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [Fix hoodi chain config (#3304)](https://github.com/status-im/nimbus-eth1/commit/54db56ee48b4dfd9431af326f0cd5b59c18b3db5) - 2025-05-19
 * [Commit] [Rename fluffy to portal/nimbus_portal_client (#3289)](https://github.com/status-im/nimbus-eth1/commit/57d3748c6142ffd013ea83c80946669e1242bf00) - 2025-05-19
 * [Issue] [diconnect on invalid `blockRangeUpdate`](https://github.com/status-im/nimbus-eth1/issues/3299) - 2025-05-19
+* [Commit] [eth/69: Disconnect peer when receive invalid blockRangeUpdate (#3300)](https://github.com/status-im/nimbus-eth1/commit/37da1503c651eb500f4739c93fd810df951d166b) - 2025-05-20
