@@ -103,6 +103,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(ci): Clean during coverage script (#1610)](https://github.com/ethereum/execution-spec-tests/commit/58a8c84d916dea4224aa005fad10c8b6df7c1f08) - 2025-05-16
 * [Commit] [fix(fill): fix `--collect-only` after introducing `FixtureOutput` class (#1612)](https://github.com/ethereum/execution-spec-tests/commit/9c95339a81412819360669327a1d2fcdb25d14a1) - 2025-05-16
 * [Commit] [feat(clis/ethrex): add support for ethrex client (#1607)](https://github.com/ethereum/execution-spec-tests/commit/9374ffc1c19fc0c6bedb4f9365ac96c669f34525) - 2025-05-19
+* [Commit] [fix(forks): Add type-4 transactions to Prague](https://github.com/ethereum/execution-spec-tests/commit/a42cf6615b032b816dd81897bea059a393a4551f) - 2025-05-21
+* [Commit] [refactor(tests): EIP-152: reuse `BLAKE2_PRECOMPILE_ADDRESS` (#1635)](https://github.com/ethereum/execution-spec-tests/commit/bf92d7c89551a7983145153221ba24c3f94ef09d) - 2025-05-21
+* [Commit] [feat(tests): EIP-4844: add example input to the point evaluation (#1636)](https://github.com/ethereum/execution-spec-tests/commit/172d6b9239ad5b6e1df383b44c433d4ec3764fc6) - 2025-05-21
+* [Commit] [fix(tests): EIP-2537: Make pairing test dynamic to env.gas_limit (#1638)](https://github.com/ethereum/execution-spec-tests/commit/29dece928fd5a7a0c2b773ec43e19dad9d16817d) - 2025-05-21
+* [Commit] [chore(tooling): add `.vscode/launch.json` to `.gitignore` (#1624)](https://github.com/ethereum/execution-spec-tests/commit/7249e22d95de4bec13737da1bb7069512ccc5d93) - 2025-05-21
+* [Pull Request] [fix(tests): EIP-2537: Make pairing test dynamic to env.gas_limit](https://github.com/ethereum/execution-spec-tests/pull/1638) - 2025-05-21
+* [Commit] [feat(tests/zkevm): add worst-case benchmark for `MOD` (#1151)](https://github.com/ethereum/execution-spec-tests/commit/c3e5fb63df0b030d6e2aff4374c4dec40aef03be) - 2025-05-21
+* [Commit] [fix(forks): Add type-4 transactions to Prague](https://github.com/ethereum/execution-spec-tests/commit/fb230189cedde4c6b969d92ad12db4345889bdb3) - 2025-05-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

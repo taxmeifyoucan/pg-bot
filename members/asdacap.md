@@ -133,6 +133,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Gonna commit this first](https://github.com/NethermindEth/nethermind/commit/e2eb7411d824cf92703575b08a3a22613dd54268) - 2025-05-20
 * [Commit] [Revert unnecessary change](https://github.com/NethermindEth/nethermind/commit/354e9039ff9761cc0845541ca08ac9341c8e15fa) - 2025-05-20
 * [Pull Request] [Perf/allow archive node to use prune cache](https://github.com/NethermindEth/nethermind/pull/8655) - 2025-05-20
+* [Commit] [Fix infinite loop in tx pool (#8632)](https://github.com/NethermindEth/nethermind/commit/7c9f010d470a74921846cb43ffa040c65496249d) - 2025-05-21
+* [Commit] [Reducing change](https://github.com/NethermindEth/nethermind/commit/14a1adae4a5e2b50b6c717f724ef384a0a07dc29) - 2025-05-21
+* [Commit] [Reducing change](https://github.com/NethermindEth/nethermind/commit/30c22be0d0236c13f1060052958fa1a6d1d98ccb) - 2025-05-21
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

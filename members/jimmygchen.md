@@ -43,6 +43,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Update mergify rule to avoid unnecessarily firing some rules](https://github.com/sigp/lighthouse/pull/7494) - 2025-05-20
 * [Commit] [Extract get_domain for VoluntaryExit (#7454)](https://github.com/sigp/lighthouse/commit/851ee2bcedfc52c1eb245e6ccd1a7ad400e001e8) - 2025-05-20
 * [Pull Request] [Verify `getBlobsV2` response and avoid reprocessing imported data columns](https://github.com/sigp/lighthouse/pull/7493) - 2025-05-20
+* [Commit] [Update mergify rule to not evaluate PRs that are not ready for review - to reduce noise and avoid updating stale PRs. (#7494)](https://github.com/sigp/lighthouse/commit/7759cb8f91c01a7d335469d317b5787368656064) - 2025-05-21
+* [Pull Request] [Update `engine_getBlobsV2` response type and add `getBlobsV2` tests](https://github.com/sigp/lighthouse/pull/7505) - 2025-05-21
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

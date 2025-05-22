@@ -24,6 +24,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [prague initial commit](https://github.com/ethereum/execution-specs/commit/a60d9e333c32bf8c6be10dab5e19cf6642c8e771) - 2025-05-15
 * [Pull Request] [Release prague (1.17.0)](https://github.com/ethereum/execution-specs/pull/1224) - 2025-05-16
 * [Pull Request] [Switch to devops' runners](https://github.com/ethereum/execution-specs/pull/1237) - 2025-05-20
+* [Issue] [Lower the vulture min confidence](https://github.com/ethereum/execution-specs/issues/1239) - 2025-05-21
+* [Commit] [add vulture to static analysis suite](https://github.com/ethereum/execution-specs/commit/95a2013f8e673e2142bbee5939ee0901f13b57cc) - 2025-05-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 

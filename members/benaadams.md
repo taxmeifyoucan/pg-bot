@@ -198,6 +198,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add state availability checks before debug module tracing (#8621)](https://github.com/NethermindEth/nethermind/commit/32cc7bd3020686411377f6dc9cfeb1cb1dc96870) - 2025-05-20
 * [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/c7045ee66303243208a6afee7ea0e3ae99977b1e) - 2025-05-20
 * [Pull Request] [Kute: order by filename](https://github.com/NethermindEth/nethermind/pull/8657) - 2025-05-20
+* [Commit] [Use RocksDB PinnableSlice when available (#8661)](https://github.com/NethermindEth/nethermind/commit/bfc663ae7715d6ffb90d1170395b8aa5cd2fbb06) - 2025-05-21
+* [Commit] [Just use straight overloading](https://github.com/NethermindEth/nethermind/commit/b7bf7f937277b6cf78fdb0e96bc1dd8ecf1dd8ff) - 2025-05-21
+* [Commit] [Update src/Nethermind/Nethermind.Serialization.Rlp/RlpStream.cs](https://github.com/NethermindEth/nethermind/commit/0c4b48f549444c2d6f4bfd973bd1439abbb1ab0b) - 2025-05-21
+* [Pull Request] [Use RocksDB PinnableSlice when available](https://github.com/NethermindEth/nethermind/pull/8661) - 2025-05-21
+* [Commit] [Don't unnecessarily convert to UInt256 to encode](https://github.com/NethermindEth/nethermind/commit/a1caed7861778cf465f0f17c744de006f0c0defb) - 2025-05-21
+* [Pull Request] [Optimize RlpStream.Encode(ulong)](https://github.com/NethermindEth/nethermind/pull/8660) - 2025-05-21
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [[MINOR] remove dot following path so it can be cut/pasted (#8642)](https://github.com/hyperledger/besu/commit/afc81f5d2a1f5b7c06a3a3f62c63ebf65413bd9f) - 2025-05-19
 * [Commit] [update ref tests to 4.5.0 (#8643)](https://github.com/hyperledger/besu/commit/7438cffd87e7c84b0d5fea2d162f778cd5a7e159) - 2025-05-19
 * [Commit] [Add witness tracing (#8336)](https://github.com/hyperledger/besu/commit/34b94d2f54c9914e308903909ece6604bd60e4ee) - 2025-05-19
+* [Commit] [Implement EIP-5920 - PAY opcode (#8498)](https://github.com/hyperledger/besu/commit/731e94084d20aa1b7723a3bd28a9d29c5a4f06c9) - 2025-05-21
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

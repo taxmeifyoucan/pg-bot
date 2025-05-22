@@ -43,3 +43,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [Rename fluffy to portal/nimbus_portal_client (#3289)](https://github.com/status-im/nimbus-eth1/commit/57d3748c6142ffd013ea83c80946669e1242bf00) - 2025-05-19
 * [Issue] [diconnect on invalid `blockRangeUpdate`](https://github.com/status-im/nimbus-eth1/issues/3299) - 2025-05-19
 * [Commit] [eth/69: Disconnect peer when receive invalid blockRangeUpdate (#3300)](https://github.com/status-im/nimbus-eth1/commit/37da1503c651eb500f4739c93fd810df951d166b) - 2025-05-20
+* [Commit] [Portal Client: Remove offer workers and support sending rate limited offers (#3303)](https://github.com/status-im/nimbus-eth1/commit/ac509d7be456f409f9047d4acb2f0d5ee33341fd) - 2025-05-21

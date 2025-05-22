@@ -34,6 +34,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reformat project files](https://github.com/NethermindEth/nethermind/commit/76b32d496ffce8efbd7d4090d9ad74e43fb4465f) - 2025-05-20
 * [Commit] [Fix SendBlobs](https://github.com/NethermindEth/nethermind/commit/bf5ef06637cd9d64e59331eb9c295b6012125d33) - 2025-05-20
 * [Commit] [Fix solution files](https://github.com/NethermindEth/nethermind/commit/016a6d27bebc16c00896a85b5e5cf3d98cf2e345) - 2025-05-20
+* [Commit] [PatriciaTree ignoreMissingDelete is not used (#8646)](https://github.com/NethermindEth/nethermind/commit/056bcd3e088e73e64e17e89cc45e7f70061765f6) - 2025-05-21
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

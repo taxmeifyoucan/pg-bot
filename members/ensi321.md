@@ -51,6 +51,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: advance pre state's slot used in rewards endpoints](https://github.com/ChainSafe/lodestar/pull/7842) - 2025-05-18
 * [Commit] [chore: bump package versions to 1.30.0](https://github.com/ChainSafe/lodestar/commit/123eb2d9fb71dd10076a47bc7787bf4ec40343da) - 2025-05-18
 * [Commit] [lint](https://github.com/ChainSafe/lodestar/commit/c7c9ac939fa0b66a40e29c2db660cd6fcb0b87be) - 2025-05-20
+* [Commit] [Make unit test run on fulu fork](https://github.com/ChainSafe/lodestar/commit/58df57c354460f3f0112ecf033ef9c97ca52297c) - 2025-05-21
+* [Commit] [format](https://github.com/ChainSafe/lodestar/commit/e918c2cf1a7d27b0edb7a12cb8aa2c2b3c6b7009) - 2025-05-21
+* [Commit] [Special handling for deneb and electra](https://github.com/ChainSafe/lodestar/commit/a703a0a8da3abf3f5c530bea5906089d6419c781) - 2025-05-21
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

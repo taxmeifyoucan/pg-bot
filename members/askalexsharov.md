@@ -1712,6 +1712,7 @@ Team: Erigon
 * [Commit] [[r30] Prune: protect each domain from pruning ahead of it's visible files  (#15167)](https://github.com/erigontech/erigon/commit/aa0ce3219a1ced16f4e476cf919d93be5947182b) - 2025-05-20
 * [Issue] [gnosis: stage_custom_trace nil ptr](https://github.com/erigontech/erigon/issues/15172) - 2025-05-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/bbd316394c1da909861fe3e5e8e90a1be397b986) - 2025-05-20
+* [Commit] [Implement ERC-7562 tracer (#14705)](https://github.com/erigontech/erigon/commit/d2d0267cc45e82566bcdfdb128c97be3f69642d4) - 2025-05-21
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -23,6 +23,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Add GetInclusionListCommitteeDuties (#9330)](https://github.com/Consensys/teku/commit/479d3256ba86a7ac76eb9746d28bbd7e850215fa) - 2025-04-17
 * [Commit] [Get inclusion lists endpoint (#9359)](https://github.com/Consensys/teku/commit/924390c33e857ba13045a0d6f5bdca4628fac8f0) - 2025-05-14
 * [Pull Request] [Add peers via api](https://github.com/Consensys/teku/pull/9431) - 2025-05-19
+* [Commit] [Add peer via api (#9431)](https://github.com/Consensys/teku/commit/fdc1b8fc65a053c6556e9cdfa9633256105cb9a6) - 2025-05-21
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -167,6 +167,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [tests: disable more slow tests in short testing](https://github.com/erigontech/erigon/pull/15144) - 2025-05-19
 * [Commit] [tests: disable more slow tests in short testing](https://github.com/erigontech/erigon/commit/e2f7ac3b56906d03a8116508084332f6783b3667) - 2025-05-19
 * [Commit] [fix --latest and --step file removal with purified commitment protection (#14978)](https://github.com/erigontech/erigon/commit/9268fb29fb5d90e7914200282bdb42e08cdef16d) - 2025-05-19
+* [Commit] [TestBlobParameterDencunAndPectraAtGenesis](https://github.com/erigontech/erigon/commit/7142cf590162de0d01f659312ced4a4b4427b90b) - 2025-05-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

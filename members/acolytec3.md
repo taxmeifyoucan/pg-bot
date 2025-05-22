@@ -31,6 +31,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [common: improve ugly method (#4080)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/539aaed2bdf0148ef488d6642cdefbd386802c88) - 2025-05-16
 * [Commit] [Rename ci workflow (#4076)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/d0ff5b8bf9caca59199bff10f6eb975965906cbc) - 2025-05-16
 * [Commit] [Update README EthereumJS Footers (#4081)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/5eaf56a1944f7aaab2430e0b17e85ec15b6067c1) - 2025-05-16
+* [Commit] [Add implementation to runBlock](https://github.com/ethereumjs/ethereumjs-monorepo/commit/ade08b318cda8a12d0d238b4c82bb8e13df54278) - 2025-05-21
+* [Commit] [benchmark](https://github.com/ethereumjs/ethereumjs-monorepo/commit/033f6526298cf57526eabe6ec1638ea7ae1f1a00) - 2025-05-21
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

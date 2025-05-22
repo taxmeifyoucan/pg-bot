@@ -65,6 +65,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix blobgascalculatortests](https://github.com/NethermindEth/nethermind/commit/cc918e60a6bc346137c05194ade21f84410b9f08) - 2025-05-20
 * [Commit] [fix whitespace](https://github.com/NethermindEth/nethermind/commit/8df4c6b2e16faab6fe08446e3e640f95ed18d931) - 2025-05-20
 * [Commit] [fix blobsender](https://github.com/NethermindEth/nethermind/commit/4dff17ad55017f70d68b03c8fae8a40cb6acc16f) - 2025-05-20
+* [Commit] [block validity](https://github.com/NethermindEth/nethermind/commit/44edeb2dc43204baf6f9566e9676b0ecf2ae185a) - 2025-05-21
+* [Commit] [fix formatting](https://github.com/NethermindEth/nethermind/commit/dddf73ab968ff76572f184ee5a740604bf8d37bb) - 2025-05-21
+* [Pull Request] [Implement EIP-7825: Transaction Gas Limit Cap](https://github.com/NethermindEth/nethermind/pull/8663) - 2025-05-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

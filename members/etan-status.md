@@ -49,6 +49,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump holesky to 099fee50a944e76c595398e69bfda0a6f1e799a1](https://github.com/status-im/nimbus-eth2/pull/7129) - 2025-05-06
 * [Commit] [Lint](https://github.com/status-im/nimbus-eth2/commit/35d82fb4ac32b91e84f760de1525e1c39e91285c) - 2025-05-06
 * [Pull Request] [Add option to invalidate block roots](https://github.com/status-im/nimbus-eth2/pull/7128) - 2025-05-06
+* [Pull Request] [Bump nim-blscurve to dec99b4d868ce0dc8268b7043d17e2a3cd6712cc](https://github.com/status-im/nimbus-eth2/pull/7178) - 2025-05-21
+* [Pull Request] [Bump nim-bearssl to v0.2.6](https://github.com/status-im/nimbus-eth2/pull/7177) - 2025-05-21
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

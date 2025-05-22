@@ -46,3 +46,5 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [bump revm](https://github.com/paradigmxyz/reth/commit/326880bf63fa921468e4329b534ee35fad54ebae) - 2025-05-08
 * [Issue] [Use OP components in custom transaction example](https://github.com/paradigmxyz/reth/issues/16194) - 2025-05-13
 * [Pull Request] [fix: correctly set txtype if `blobVersionedHashes` is present](https://github.com/paradigmxyz/reth/pull/16182) - 2025-05-13
+* [Pull Request] [fix: forward sequencer error](https://github.com/paradigmxyz/reth/pull/16401) - 2025-05-21
+* [Commit] [Update crates/evm/evm/src/execute.rs](https://github.com/paradigmxyz/reth/commit/32f27d73b6afb44816a078104bb610a20bd40f80) - 2025-05-21

@@ -40,6 +40,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [`Single attestation is not supported` warnings may appear](https://github.com/Consensys/teku/issues/9446) - 2025-05-20
 * [Pull Request] [Introduce `AggregatingAttestationPoolV2`](https://github.com/Consensys/teku/pull/9445) - 2025-05-20
 * [Commit] [Introduce `AttestationMatchingGroupV2` (#9438)](https://github.com/Consensys/teku/commit/0f7c19fc495aad3d22b3d0074034ca0745eee50c) - 2025-05-20
+* [Commit] [getBits method names clearer (#9453)](https://github.com/Consensys/teku/commit/700257a34c3250f2f7ac033fd4bc88a8e8d90e0d) - 2025-05-21
+* [Commit] [`AggregatingAttestationPool` new CLI params (#9452)](https://github.com/Consensys/teku/commit/0d7f50ce746db925f933327dfd85eaa6828e778c) - 2025-05-21
+* [Pull Request] [`AttestationBits` getBits method names clearer](https://github.com/Consensys/teku/pull/9453) - 2025-05-21
+* [Pull Request] [poolV2-CLI](https://github.com/Consensys/teku/pull/9452) - 2025-05-21
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

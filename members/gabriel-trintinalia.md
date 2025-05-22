@@ -38,6 +38,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Issue] [EIP-7594 - Implemenet `engine_getBlobsV2`](https://github.com/hyperledger/besu/issues/8612) - 2025-05-09
 * [Commit] [feat: move EOF activation from osaka to futureEips (#8621)](https://github.com/hyperledger/besu/commit/ed4650360a4ee487290971e4dd596ce8c4e0f50d) - 2025-05-12
 * [Pull Request] [feat: move EOF activation from osaka to futureEips](https://github.com/hyperledger/besu/pull/8621) - 2025-05-11
+* [Pull Request] [refactor: add blob schedule to protocol spec builder](https://github.com/hyperledger/besu/pull/8658) - 2025-05-21
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

@@ -77,6 +77,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: switch toHex -> toRootHex for perf reasons](https://github.com/ChainSafe/lodestar/commit/da68521478e253ee61f418e97c707efa9637320e) - 2025-05-20
 * [Commit] [fix: bug in BlockInputBlobs conditional](https://github.com/ChainSafe/lodestar/commit/b0ce18526e521bc73f72165a20f047051e265a00) - 2025-05-20
 * [Commit] [refactor: rename methods to standardize](https://github.com/ChainSafe/lodestar/commit/b3bfcd56285142ac3d235b5c32431321b7f4eaa3) - 2025-05-20
+* [Commit] [test: add commitment to test case](https://github.com/ChainSafe/lodestar/commit/c9674adc6c4c6eafbb5364e0fc3638bbf1a7e7e7) - 2025-05-21
+* [Commit] [feat: remove SLOT_MISMATCH error type](https://github.com/ChainSafe/lodestar/commit/aca3601028225a6f98637dff5e9d160eda49e408) - 2025-05-21
+* [Commit] [Revert "test: double sim test timeout"](https://github.com/ChainSafe/lodestar/commit/7a6679bcd54b716b15d1097f529517d68247708e) - 2025-05-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

@@ -142,6 +142,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stop downloading windeps in CI](https://github.com/status-im/nimbus-eth2/pull/7174) - 2025-05-20
 * [Commit] [copyright year linting](https://github.com/status-im/nimbus-eth2/commit/0b1cebdbb9c157abaf956004b2de2f4a88e1763c) - 2025-05-20
 * [Pull Request] [use EF consensus spec v1.6.0-alpha.0 test vectors](https://github.com/status-im/nimbus-eth2/pull/7173) - 2025-05-20
+* [Commit] [bump nim-libp2p to v1.10.1 (#7188)](https://github.com/status-im/nimbus-eth2/commit/d2f8a793ed0302de2c1210a1c0dbce386b709b21) - 2025-05-21
+* [Commit] [Exit on first slashing (#7091)](https://github.com/status-im/nimbus-eth2/commit/ee32a848baca50502d70e0239a5f29190e7d715f) - 2025-05-21
+* [Pull Request] [bump nim-libp2p to v1.10.1](https://github.com/status-im/nimbus-eth2/pull/7188) - 2025-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 
