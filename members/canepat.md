@@ -43,3 +43,4 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpcdaemon: read hdr instead of blocksWithTxs in eth_estimateGas,eth_createAccessList (#14915)](https://github.com/erigontech/erigon/commit/6c7d3997105fc8d0a175fe630c4255f721aebe7c) - 2025-05-16
 * [Pull Request] [ci: disable flaky tests in logsfilter_test](https://github.com/erigontech/erigon/pull/15156) - 2025-05-19
 * [Issue] [TestLogsFilter_AllAddressesAndTopicsFilter_DistributesLogRegardless: failing on macOS](https://github.com/erigontech/erigon/issues/15155) - 2025-05-19
+* [Issue] [TestBlockTracker: panic: test timed out after 10m0s](https://github.com/erigontech/erigon/issues/15208) - 2025-05-22

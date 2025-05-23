@@ -82,6 +82,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Merge remote-tracking branch 'origin/master' into feature/peerdas](https://github.com/NethermindEth/nethermind/commit/2181e2db15c44ea9c2d09edc0c4008473ff56489) - 2025-05-20
 * [Commit] [Update System.CommandLine package (#8639)](https://github.com/NethermindEth/nethermind/commit/95c6efb8140dce67c464b1a5069b69cb7d557e63) - 2025-05-20
 * [Commit] [Improve test](https://github.com/NethermindEth/nethermind/commit/72df1419fbd3cfd2b0edc0495193446513206921) - 2025-05-20
+* [Commit] [Update spec format; fix tests](https://github.com/NethermindEth/nethermind/commit/c467114827cb93c7c8ebf475d796ca1cf9691d01) - 2025-05-22
+* [Commit] [Update spec format; fix tests](https://github.com/NethermindEth/nethermind/commit/179ee5b6161247a878b9a4c88d0727d3db8943a0) - 2025-05-22
+* [Commit] [Merge branch 'add-bpos' into devnet-0](https://github.com/NethermindEth/nethermind/commit/26f4bfa6d2c67a1ef1d5b004dc53363952290653) - 2025-05-22
+* [Commit] [Add osaka](https://github.com/NethermindEth/nethermind/commit/375b6575f66a594dc985ae4cdf0fdf1b55c3a38e) - 2025-05-22
+* [Commit] [Update spec format; fix tests](https://github.com/NethermindEth/nethermind/commit/d3451fc920f181e099909b20cc73ccea6434ed56) - 2025-05-22
+* [Commit] [Update spec format; fix tests](https://github.com/NethermindEth/nethermind/commit/d9f7c8b63e5d85ff5a412fb8d68409200d066469) - 2025-05-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

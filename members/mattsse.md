@@ -299,6 +299,12 @@ Team: Reth
 * [Issue] [Add BlockRangeUpdate message for eth69](https://github.com/paradigmxyz/reth/issues/16337) - 2025-05-19
 * [Pull Request] [Revert "refactor(mempool): Refactor transaction validation to use batch interface"](https://github.com/paradigmxyz/reth/pull/16334) - 2025-05-19
 * [Issue] [change ots_getBlockDetails	arg to BlockNumberortag](https://github.com/paradigmxyz/reth/issues/16369) - 2025-05-20
+* [Pull Request] [fix: rewrite estimate loop condition](https://github.com/paradigmxyz/reth/pull/16413) - 2025-05-22
+* [Commit] [feat: fix tasks metrics (#16406)](https://github.com/paradigmxyz/reth/commit/70dab9f70d9f9d02f02efdec6545cc0bb6c030e9) - 2025-05-22
+* [Issue] [Add update_block_range to NetworkSyncUpdater](https://github.com/paradigmxyz/reth/issues/16412) - 2025-05-22
+* [Commit] [fix(RPC): Ensure `eth_getTransactionCount` returns correct nonce for 'pending' tag (#16407)](https://github.com/paradigmxyz/reth/commit/6cf363ba88ce944bd7fff93cce1a4c0d97a115f9) - 2025-05-22
+* [Issue] [Move `Extended` to alloy-consensus](https://github.com/paradigmxyz/reth/issues/16411) - 2025-05-22
+* [Issue] [Test era import in CI](https://github.com/paradigmxyz/reth/issues/16409) - 2025-05-22
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

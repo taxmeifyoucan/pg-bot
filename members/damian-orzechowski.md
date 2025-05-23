@@ -15,3 +15,5 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [GetStorageRange fix for no storage slots found](https://github.com/NethermindEth/nethermind/pull/8538) - 2025-04-18
 * [Issue] [GetStorageRange returns both empty arrays when no slots are found](https://github.com/NethermindEth/nethermind/issues/8537) - 2025-04-18
 * [Commit] [CodeDB writes in a batch (#8527)](https://github.com/NethermindEth/nethermind/commit/d29a4356d42bfc71d9bc88cbaf030e812bbe26f5) - 2025-05-15
+* [Commit] [add surge hoodi chainspec (#8643)](https://github.com/NethermindEth/nethermind/commit/737763dbebba5ab4f2890d4ef493a65a24c2f069) - 2025-05-22
+* [Commit] [Test build fix](https://github.com/NethermindEth/nethermind/commit/87e0d4ed77ea8f275fffadab723e69c2a79c2d7f) - 2025-05-22

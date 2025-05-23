@@ -1713,6 +1713,37 @@ Team: Erigon
 * [Issue] [gnosis: stage_custom_trace nil ptr](https://github.com/erigontech/erigon/issues/15172) - 2025-05-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/bbd316394c1da909861fe3e5e8e90a1be397b986) - 2025-05-20
 * [Commit] [Implement ERC-7562 tracer (#14705)](https://github.com/erigontech/erigon/commit/d2d0267cc45e82566bcdfdb128c97be3f69642d4) - 2025-05-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7a074fcb7b38e119dd38a41b3377b3650ad5ca38) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/af4f50c58af7f54b5d6e6566b119f16e0f4c47d8) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eeb7c20d819f1b7c6226d9fc1877b8f1d421e01b) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2e003f462f2c4068c33d5000065daf520b2446e8) - 2025-05-22
+* [Commit] [[r30] mapReduce: final txn must be executed in reduecer because require "all receipts of block"  (#15206)](https://github.com/erigontech/erigon/commit/af6b5510588405d4671fb02b8eaad69fdaf9240e) - 2025-05-22
+* [Commit] [mapReduce: final txn must be executed in `reduecer` because require "all receipts of block"  (#15205)](https://github.com/erigontech/erigon/commit/6a5d7821f9d4041bca84df27088afa1f1177631f) - 2025-05-22
+* [Commit] [don't delete state-salt file on rm-all-state-snapshots. (#15214)](https://github.com/erigontech/erigon/commit/d268a9a578e7003cfbc3cdd3d57d50c0bec6d221) - 2025-05-22
+* [Issue] [reduce unit-tests output on CI](https://github.com/erigontech/erigon/issues/15212) - 2025-05-22
+* [Pull Request] [BlockReader: use cheaper rlp decode method](https://github.com/erigontech/erigon/pull/15210) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c44f08d3b3b4e38f2c0b3c54f7aeafa6c09fe1bb) - 2025-05-22
+* [Issue] [Optimize `FindBlockNum`](https://github.com/erigontech/erigon/issues/15209) - 2025-05-22
+* [Commit] [Add times to future block errors (#15184)](https://github.com/erigontech/erigon/commit/e39e3cf47f60ee1d1fcea56c9c70df6513c508cb) - 2025-05-22
+* [Commit] [non-ptr `OnBalanceChange` hook (#15199)](https://github.com/erigontech/erigon/commit/4e942f7cca45dfe44367948a518d71e6d2d91d5a) - 2025-05-22
+* [Pull Request] [[r30] mapReduce: final txn must be executed in reduecer because require "all receipts of block" ](https://github.com/erigontech/erigon/pull/15206) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f5c5c939518f2e0479f3bec44e4e69e3a27bf7a7) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ddd069422bb1397b32b39e760784905d5885df2a) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/97b88163f4f5dade75a348b6f5b146c3f0e07234) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/467ea0c8eb5f7e297e3de4bf041c97c0c0654deb) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fde0d049b59da75b12c984fde7f418d71aaa65ad) - 2025-05-22
+* [Pull Request] [mapReduce: final txn must be executed in `reduecer` because require "all receipts of block" ](https://github.com/erigontech/erigon/pull/15205) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/23b2b4996fb4180095a4915c70d57a20372f717d) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/63dd322ed086712986a7a3e8e28f310a5aa5fd90) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/21746b9eedbce1c13d961d140656603cfe870cd5) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bc512dbd8d1c3f8bcc5c55aea548dfe08bf6d5ca) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/38b50ecf6796211ad9f3d81041254226bc1b1536) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0b8e99d9702ccf3dd193721689f12925e6085845) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/54e4ff90225f0dc8bdae3355ae7a8d0126ef9e01) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/48d2f6dc3b9f77bb6ab75ba476f6ad5474fe443a) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5ec5aa3edeee99dff683f32b4c21c817053c3243) - 2025-05-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/04932f87ca039c47ea02a5523eb0b3b1dfe55a18) - 2025-05-22
+* [Issue] [`purify_domain`: run `seg retire` before and `seg index` after](https://github.com/erigontech/erigon/issues/15204) - 2025-05-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

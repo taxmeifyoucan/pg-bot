@@ -45,6 +45,7 @@ Team: Consensus R&D (EF)
 * [Issue] [Consider using a procedural macro for `serde-bincode-compat` feature flag](https://github.com/paradigmxyz/reth/issues/16330) - 2025-05-18
 * [Pull Request] [Experiment: Pull genesis function outside of EthChainSpec](https://github.com/paradigmxyz/reth/pull/16329) - 2025-05-18
 * [Pull Request] [Experiment: Genericise stateless_validation API so that it is not fixed to ](https://github.com/paradigmxyz/reth/pull/16328) - 2025-05-18
+* [Pull Request] [feat!: Add `StatelessTrie` abstraction](https://github.com/paradigmxyz/reth/pull/16419) - 2025-05-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [zkevm: Add marker for bls tests](https://github.com/ethereum/execution-spec-tests/pull/1514) - 2025-04-30
 * [Issue] [zkevm: Add zkevm marker on all bls12-381 tests](https://github.com/ethereum/execution-spec-tests/issues/1527) - 2025-05-02

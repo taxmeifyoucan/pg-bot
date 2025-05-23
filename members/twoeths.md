@@ -86,6 +86,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [PeerDAS - low gossip score due to p7](https://github.com/ChainSafe/lodestar/issues/7849) - 2025-05-20
 * [Pull Request] [fix: remove isProcessingCurrentSlotBlock](https://github.com/ChainSafe/lodestar/pull/7848) - 2025-05-20
 * [Issue] [PeerDAS - huge gossip job wait time](https://github.com/ChainSafe/lodestar/issues/7847) - 2025-05-20
+* [Pull Request] [feat: only subscribe to sampled subnets](https://github.com/ChainSafe/lodestar/pull/7860) - 2025-05-22
+* [Issue] [PeerDAS - big data column sidecar validation time](https://github.com/ChainSafe/lodestar/issues/7857) - 2025-05-22
+* [Issue] [PeerDAS: lodestar does not work well with other clients](https://github.com/ChainSafe/lodestar/issues/7856) - 2025-05-22
+* [Pull Request] [feat: run peerdas-devnet-7](https://github.com/ChainSafe/lodestar/pull/7855) - 2025-05-22
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

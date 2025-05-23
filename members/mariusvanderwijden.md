@@ -34,6 +34,9 @@ Team: Geth
 * [Pull Request] [core/state: reduce allocations in updateStateObject](https://github.com/ethereum/go-ethereum/pull/31861) - 2025-05-19
 * [Commit] [internal: remove eth_{compile,getWork,submitWork} from console (#31856)](https://github.com/ethereum/go-ethereum/commit/33c5031a2e6888dbac3dba0628c786442ceabc33) - 2025-05-19
 * [Commit] [cmd/utils: remove duplicate code for influxDB tags (#31854)](https://github.com/ethereum/go-ethereum/commit/e79177d1bca6bd21ed78bd8c2bf7144b36395c78) - 2025-05-19
+* [Commit] [core/vm: fix cherry-picking](https://github.com/ethereum/go-ethereum/commit/00f0d218d41b77db7e329c44177afe0c20710da2) - 2025-05-22
+* [Commit] [core/vm: implement EIP 7823 - Set upper bounds for MODEXP](https://github.com/ethereum/go-ethereum/commit/c6d3851277fa8368b64888db48b9eabf9bd4fbff) - 2025-05-22
+* [Commit] [core/txpool: add explicit max blob count limit (#31837)](https://github.com/ethereum/go-ethereum/commit/20ad4f500e7fafab93f6d94fa171a5c0309de6ce) - 2025-05-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

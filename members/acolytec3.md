@@ -33,6 +33,11 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [Update README EthereumJS Footers (#4081)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/5eaf56a1944f7aaab2430e0b17e85ec15b6067c1) - 2025-05-16
 * [Commit] [Add implementation to runBlock](https://github.com/ethereumjs/ethereumjs-monorepo/commit/ade08b318cda8a12d0d238b4c82bb8e13df54278) - 2025-05-21
 * [Commit] [benchmark](https://github.com/ethereumjs/ethereumjs-monorepo/commit/033f6526298cf57526eabe6ec1638ea7ae1f1a00) - 2025-05-21
+* [Commit] [Improve `paramsCache` updates (#4091)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/ae9e86ad3a3652bdf72b58cb2d6d0d2fa408582c) - 2025-05-22
+* [Pull Request] [Improve `paramsCache` updates](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4091) - 2025-05-22
+* [Commit] [add benchmark for buildParamsCache](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c81518e55ed418775ea0a12be7f9d32aaa2785de) - 2025-05-22
+* [Commit] [Fix outdated hardware wallet signing example (#4084)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/98cb6842436f7e8105a8584cd1b57912da064ef8) - 2025-05-22
+* [Commit] [relocate files and add readme](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8888d904e8c7e51b734d98e83dadba66867467ff) - 2025-05-22
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

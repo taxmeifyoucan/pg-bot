@@ -74,3 +74,4 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Portal Client: Minor improvements to portal docs](https://github.com/status-im/nimbus-eth1/pull/3309) - 2025-05-20
 * [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/a78b0af1bc68cd089660053deb44686ff05b0d3b) - 2025-05-20
 * [Pull Request] [Portal Bridge: Restructure portal bridge folders](https://github.com/status-im/nimbus-eth1/pull/3308) - 2025-05-20
+* [Pull Request] [Portal Client: Support sending only single offer in neighborhoodGossip and randomGossip](https://github.com/status-im/nimbus-eth1/pull/3314) - 2025-05-22

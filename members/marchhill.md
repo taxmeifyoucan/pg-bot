@@ -68,6 +68,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [block validity](https://github.com/NethermindEth/nethermind/commit/44edeb2dc43204baf6f9566e9676b0ecf2ae185a) - 2025-05-21
 * [Commit] [fix formatting](https://github.com/NethermindEth/nethermind/commit/dddf73ab968ff76572f184ee5a740604bf8d37bb) - 2025-05-21
 * [Pull Request] [Implement EIP-7825: Transaction Gas Limit Cap](https://github.com/NethermindEth/nethermind/pull/8663) - 2025-05-21
+* [Commit] [Kute: order by filename (#8657)](https://github.com/NethermindEth/nethermind/commit/17609d607fc29499b95a59f748f3a8f0ee224cf5) - 2025-05-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

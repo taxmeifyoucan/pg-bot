@@ -38,6 +38,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Added config defaulting to the Config loader](https://github.com/Consensys/teku/pull/9439) - 2025-05-20
 * [Commit] [Added a development flag to enable strict config loading (#9449)](https://github.com/Consensys/teku/commit/c7f9a3c2b68622fa8d753903102ba78860985da1) - 2025-05-21
 * [Pull Request] [Added a development flag to enable strict config loading](https://github.com/Consensys/teku/pull/9449) - 2025-05-21
+* [Commit] [fix phase0 aggregation in pool v2 (#9480)](https://github.com/Consensys/teku/commit/818ed0d63daceb035b8d34f56d7258348a0eed2c) - 2025-05-22
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

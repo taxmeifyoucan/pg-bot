@@ -41,6 +41,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [remove smart contract perm tests (#8595)](https://github.com/hyperledger/besu/commit/30fd6e850ff4a12ef9733bdd14e9712418edd141) - 2025-05-19
 * [Commit] [ephemery to 60M gas limit (#8622)](https://github.com/hyperledger/besu/commit/67dbe80a20125d2344a9a2f15be208979604365e) - 2025-05-19
 * [Pull Request] [remove PrivacyOptionsTest](https://github.com/hyperledger/besu/pull/8655) - 2025-05-20
+* [Commit] [remove PrivacyOptionsTest (#8655)](https://github.com/hyperledger/besu/commit/25b0b95dc38a5a1e5a8abb56129c556f9bea5ba9) - 2025-05-22
+* [Commit] [[fusaka-devnet-0] EIP-7883, modexp gas calculation for Osaka (#8667)](https://github.com/hyperledger/besu/commit/fc1dc2c5af85337a32244260a8f9fa068accfa29) - 2025-05-22
+* [Pull Request] [[fusaka-devnet-0] EIP-7883, modexp gas calculation for Osaka](https://github.com/hyperledger/besu/pull/8667) - 2025-05-22
+* [Pull Request] [CLI options tests - check error first; fix typo rpl](https://github.com/hyperledger/besu/pull/8666) - 2025-05-22
+* [Commit] [trigger workflows on fusaka branch (#8665)](https://github.com/hyperledger/besu/commit/42f67c5d0920d96c6f95541f09ca80cf96b5ac39) - 2025-05-22
+* [Commit] [fusaka devnet 0 refTests (#8663)](https://github.com/hyperledger/besu/commit/528740b64bd6e664601e5fe60c8f5af215b19e50) - 2025-05-22
+* [Pull Request] [[fusaka-devnet-0] trigger workflows on fusaka branch](https://github.com/hyperledger/besu/pull/8665) - 2025-05-22
+* [Pull Request] [fusaka devnet 0 refTests](https://github.com/hyperledger/besu/pull/8663) - 2025-05-22
+* [Commit] [unstable options help - ensure no duplicates (#8662)](https://github.com/hyperledger/besu/commit/03670452af76d868a3d0edab0aa6058e7a18df1f) - 2025-05-22
+* [Pull Request] [unstable options help - ensure no duplicates](https://github.com/hyperledger/besu/pull/8662) - 2025-05-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

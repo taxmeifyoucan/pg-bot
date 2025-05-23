@@ -111,11 +111,20 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(tests): EIP-2537: Make pairing test dynamic to env.gas_limit](https://github.com/ethereum/execution-spec-tests/pull/1638) - 2025-05-21
 * [Commit] [feat(tests/zkevm): add worst-case benchmark for `MOD` (#1151)](https://github.com/ethereum/execution-spec-tests/commit/c3e5fb63df0b030d6e2aff4374c4dec40aef03be) - 2025-05-21
 * [Commit] [fix(forks): Add type-4 transactions to Prague](https://github.com/ethereum/execution-spec-tests/commit/fb230189cedde4c6b969d92ad12db4345889bdb3) - 2025-05-21
+* [Commit] [feat(execution,specs): Implement `BlobsTest` execute-only spec type](https://github.com/ethereum/execution-spec-tests/commit/e3c73919832e3faec20c4bfd450c0056dbd13708) - 2025-05-22
+* [Pull Request] [feat(execute,tests): Implement get-blobs execute spec](https://github.com/ethereum/execution-spec-tests/pull/1644) - 2025-05-22
+* [Commit] [refactor(types): Update NetworkWrappedTransaction to include wrapper version](https://github.com/ethereum/execution-spec-tests/commit/06ec4aebdede93a27ce7f670e1bcc64000b51ec9) - 2025-05-22
+* [Commit] [fix(fill): fix `--collect-only` after introducing `FixtureOutput` class (#1612)](https://github.com/ethereum/execution-spec-tests/commit/9c95339a81412819360669327a1d2fcdb25d14a1) - 2025-05-22
+* [Commit] [fix(pytest): Add `ported_from` to execute (#1641)](https://github.com/ethereum/execution-spec-tests/commit/bceb08f4d9f157bcac2d32df73fe567d790b20e0) - 2025-05-22
+* [Pull Request] [fix(pytest): Add `ported_from` to execute](https://github.com/ethereum/execution-spec-tests/pull/1641) - 2025-05-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04
 * [Pull Request] [t8n: Return `InvalidBlock` exception in `result.blockException`](https://github.com/ethereum/execution-specs/pull/1182) - 2025-04-04
 * [Issue] [Improve Transaction Exception Messages](https://github.com/ethereum/execution-specs/issues/1186) - 2025-04-07
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [build: Update EEST to v4.5.0](https://github.com/ethereum/go-ethereum/pull/31880) - 2025-05-22
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

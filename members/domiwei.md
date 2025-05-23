@@ -90,6 +90,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [perf_test: update version + perf test for debug_storageRangeAt, debug_traceTransaction (#14985)](https://github.com/erigontech/erigon/commit/95725f2864e2a7165e5824242e65e16e9bbf4847) - 2025-05-20
 * [Pull Request] [fix incorrect cached attestation data](https://github.com/erigontech/erigon/pull/15168) - 2025-05-20
 * [Commit] [update](https://github.com/erigontech/erigon/commit/c1d41a0d058e925e33f5421d2c0696430c52f9a6) - 2025-05-20
+* [Commit] [dataColumnSidecarsByRangeHandler](https://github.com/erigontech/erigon/commit/9a6fb1082c1dbda1c64fcf8740ab4fe3accb7592) - 2025-05-22
+* [Commit] [integration test: fix qa issue #128: sporadic crash on rpc-integration test (#15161)](https://github.com/erigontech/erigon/commit/697deaa3c624077495337a1fd78e6dc6986d3e5a) - 2025-05-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

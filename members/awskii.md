@@ -137,6 +137,9 @@ Team: Erigon
 * [Commit] [Fix RIP-7560 validation gas usage (#15033)](https://github.com/erigontech/erigon/commit/64d053c0aab15aee2f1a76317301a53f55a21235) - 2025-05-20
 * [Commit] [split `SharedDomains` s4: extract usage of sd with sdctx used per trie (#15162)](https://github.com/erigontech/erigon/commit/5c3f172efa5157961744d371cbb3da8183aa3ba9) - 2025-05-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/534d8d36b2e3ef9b36c5515b3ece40795d5dcf48) - 2025-05-20
+* [Commit] [alt warmup](https://github.com/erigontech/erigon/commit/e916f5d42f6ca5435ae873b3145f323057cc1ae5) - 2025-05-22
+* [Commit] [alt warmup](https://github.com/erigontech/erigon/commit/fe8a58f5140ef1b613b19bb18615c52a58e04cb5) - 2025-05-22
+* [Commit] [alt warmup](https://github.com/erigontech/erigon/commit/831f03fcdc96c4ab397ec672f774892cf7bf6780) - 2025-05-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

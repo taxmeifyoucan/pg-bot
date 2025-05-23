@@ -111,6 +111,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db tools fix](https://github.com/erigontech/erigon/pull/15140) - 2025-05-19
 * [Commit] [fix of compile on main (#15134)](https://github.com/erigontech/erigon/commit/bfae1a755f5bb4950348c2dcdedce1798096c3ac) - 2025-05-19
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/278d510ca675c1e8ab4855fb7b41eff1c9e7c3bf) - 2025-05-20
+* [Issue] [win access denied while merge](https://github.com/erigontech/erigon/issues/15220) - 2025-05-22
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/28f960b9c42bc64cd73a22e960e125d1ec24ae3e) - 2025-05-22
+* [Pull Request] [Added integrity for block hashes](https://github.com/erigontech/erigon/pull/15217) - 2025-05-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

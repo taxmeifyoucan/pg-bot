@@ -161,6 +161,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Remove string concatenation](https://github.com/ChainSafe/lodestar/commit/111ec882999a16a1936f6494ed4a4a18984174f1) - 2025-05-20
 * [Commit] [test: add nightly run Kurtosis sim test (#7821)](https://github.com/ChainSafe/lodestar/commit/f289ef591653255821adefff9aff9aae82ba8692) - 2025-05-20
 * [Commit] [chore: bump package versions to 1.30.0](https://github.com/ChainSafe/lodestar/commit/123eb2d9fb71dd10076a47bc7787bf4ec40343da) - 2025-05-20
+* [Pull Request] [chore: sanity check genesis block root against state latest block root](https://github.com/ChainSafe/lodestar/pull/7863) - 2025-05-22
+* [Pull Request] [test: add mixed lodestar<>teku to kurtosis sim test config](https://github.com/ChainSafe/lodestar/pull/7862) - 2025-05-22
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

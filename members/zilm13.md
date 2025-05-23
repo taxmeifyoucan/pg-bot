@@ -17,6 +17,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [DataColumns byRoot RPC changes with list of columns identifiers](https://github.com/Consensys/teku/pull/9385) - 2025-04-29
 * [Commit] [Add peerDAS kzg batch verification metric (#9415)](https://github.com/Consensys/teku/commit/aaf23c44d8458fbaf4017909fb06e8289baba02f) - 2025-05-14
 * [Commit] [Add peerDAS data column sidecar computation metric (#9411)](https://github.com/Consensys/teku/commit/bf34c1e347a452bc2ce5247c65310c9285ee3e79) - 2025-05-14
+* [Commit] [Fix Fulu block production (#9481)](https://github.com/Consensys/teku/commit/092d6a21703e6e52d761619588a8d92db71f0c93) - 2025-05-23
+* [Pull Request] [Fix Fulu block production](https://github.com/Consensys/teku/pull/9481) - 2025-05-22
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

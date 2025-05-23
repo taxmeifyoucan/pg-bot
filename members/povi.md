@@ -39,6 +39,7 @@ Team: Grandine
 * [Commit] [Apply delayed payload status update before block is accepted to fork choice](https://github.com/grandinetech/grandine/commit/7d97118aa237f002bfa16cbc3b91fb1473150c06) - 2025-05-09
 * [Commit] [Remove inclusion of legacy deposits from proposed blocks](https://github.com/grandinetech/grandine/commit/351f52c02d559c94f0b76849c5eeb3fbdb46f12a) - 2025-05-12
 * [Commit] [Only keep in memory one epoch of beacon states for far ahead non-canonical chains](https://github.com/grandinetech/grandine/commit/fc5638e3cfe8445c79e3ff76936f8330ef9da06b) - 2025-05-14
+* [Commit] [Use preprocessed state at current slot instead of head state in attestation verifier and other places](https://github.com/grandinetech/grandine/commit/18a073146c50890f2ae128aaf1698feaa4fbac9e) - 2025-05-22
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

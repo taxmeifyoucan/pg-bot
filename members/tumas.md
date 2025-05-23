@@ -41,6 +41,8 @@ Team: Grandine
 * [Pull Request] [Send API attestations in batches to verifier](https://github.com/grandinetech/grandine/pull/198) - 2025-04-30
 * [Commit] [Handle `libmdbx::Error::MapFull` by sending restart message](https://github.com/grandinetech/grandine/commit/9f50249542e883a77aea7801ebd4c0062160e262) - 2025-05-05
 * [Commit] [Send API attestations in batches to verifier](https://github.com/grandinetech/grandine/commit/b395d3126b7ff37faaf95d75b0ef4a914031dd97) - 2025-05-06
+* [Commit] [Add `--default-builder-boost-factor` command line parameter](https://github.com/grandinetech/grandine/commit/c56a555ed422a1260bef421c616719b8c0a1388f) - 2025-05-22
+* [Pull Request] [Add `--default-builder-boost-factor` command line parameter](https://github.com/grandinetech/grandine/pull/209) - 2025-05-22
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

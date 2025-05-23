@@ -168,6 +168,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tests: disable more slow tests in short testing](https://github.com/erigontech/erigon/commit/e2f7ac3b56906d03a8116508084332f6783b3667) - 2025-05-19
 * [Commit] [fix --latest and --step file removal with purified commitment protection (#14978)](https://github.com/erigontech/erigon/commit/9268fb29fb5d90e7914200282bdb42e08cdef16d) - 2025-05-19
 * [Commit] [TestBlobParameterDencunAndPectraAtGenesis](https://github.com/erigontech/erigon/commit/7142cf590162de0d01f659312ced4a4b4427b90b) - 2025-05-21
+* [Commit] [LookupBootnodeURLsFunc](https://github.com/erigontech/erigon/commit/5a1eb57ebfc0c796a0df638710795e9f9805a40a) - 2025-05-22
+* [Commit] [more lint](https://github.com/erigontech/erigon/commit/6a1eca56c12a0eac438095f5e8886ab707106a80) - 2025-05-22
+* [Commit] [Qa/txpool performance save result (#14791)](https://github.com/erigontech/erigon/commit/e751ff863abd4f7149f056f32270cc38783b71cd) - 2025-05-22
+* [Commit] [lint](https://github.com/erigontech/erigon/commit/b807495d38bee4f3d8f67ec2f32911bbc1eb7523) - 2025-05-22
+* [Pull Request] [Add fusaka-devnet-0@v1.0.0 fixtures](https://github.com/erigontech/erigon/pull/15215) - 2025-05-22
+* [Commit] [Add fusaka-devnet-0@v1.0.0 fixtures](https://github.com/erigontech/erigon/commit/20622d0b79ceb64ca3a219b64545abd656f0dc08) - 2025-05-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

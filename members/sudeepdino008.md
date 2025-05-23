@@ -154,6 +154,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e93215acfd5f009d0c7bd3199ff6f58a766a6bfa) - 2025-05-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8ad6fe2b39e38e326765646af1a9993aa9ed3885) - 2025-05-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/88c1771f009c7b9c07cc2465c339336a8d38a60d) - 2025-05-20
+* [Commit] [Revert "don't delete state-salt file on rm-all-state-snapshots. (#152… (#15216)](https://github.com/erigontech/erigon/commit/5527aba50317b2d3237972d156615ab845af1bdd) - 2025-05-22
+* [Pull Request] [Revert "don't delete state-salt file on rm-all-state-snapshots. (#152…](https://github.com/erigontech/erigon/pull/15216) - 2025-05-22
+* [Commit] [don't delete salt-state file](https://github.com/erigontech/erigon/commit/f844b150579ca78a0e3106ef3b144edd916182a7) - 2025-05-22
+* [Pull Request] [don't delete state-salt file on rm-all-state-snapshots.](https://github.com/erigontech/erigon/pull/15214) - 2025-05-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

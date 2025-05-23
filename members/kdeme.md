@@ -57,6 +57,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Rename fluffy refs now that hive and docker image are updated](https://github.com/status-im/nimbus-eth1/pull/3310) - 2025-05-20
 * [Commit] [Fix ContentDb and BeaconDb to close properly (#3307)](https://github.com/status-im/nimbus-eth1/commit/2183475062441e627ff82b076eb5e01a51d495a3) - 2025-05-20
 * [Commit] [Portal Bridge: Restructure portal bridge folders (#3308)](https://github.com/status-im/nimbus-eth1/commit/765b69f57037800415d8ca2febe30b0eca267f43) - 2025-05-20
+* [Commit] [Portal: Fix beacon lc bootstrap validation (#3316)](https://github.com/status-im/nimbus-eth1/commit/bda9c1694d828a06a0cd2b0499039903724285eb) - 2025-05-22
+* [Pull Request] [Portal: Fix beacon lc bootstrap validation](https://github.com/status-im/nimbus-eth1/pull/3316) - 2025-05-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28

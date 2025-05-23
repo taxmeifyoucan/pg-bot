@@ -204,6 +204,19 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Use RocksDB PinnableSlice when available](https://github.com/NethermindEth/nethermind/pull/8661) - 2025-05-21
 * [Commit] [Don't unnecessarily convert to UInt256 to encode](https://github.com/NethermindEth/nethermind/commit/a1caed7861778cf465f0f17c744de006f0c0defb) - 2025-05-21
 * [Pull Request] [Optimize RlpStream.Encode(ulong)](https://github.com/NethermindEth/nethermind/pull/8660) - 2025-05-21
+* [Commit] [Improve WebSocketMessageStream (#8676)](https://github.com/NethermindEth/nethermind/commit/257b16f00c5e2e411807d01070575da4afbc37f7) - 2025-05-22
+* [Commit] [Add test](https://github.com/NethermindEth/nethermind/commit/ac015b5e13f66a7ddd0096708f0d5f548bc9e58b) - 2025-05-22
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/a7191fce9d6244610cd344f80e4a979d95f5e456) - 2025-05-22
+* [Commit] [Mild performance tweaks (#8674)](https://github.com/NethermindEth/nethermind/commit/594667408684d389357f2ec3ea02df2f219750f6) - 2025-05-22
+* [Commit] [Change to struct](https://github.com/NethermindEth/nethermind/commit/9e80d27526174f813de15e1cfb8149fbc8255798) - 2025-05-22
+* [Commit] [Use span when slicing arrays (#8672)](https://github.com/NethermindEth/nethermind/commit/d7b3d45ac056861cca69c4b0906c85df56f4739c) - 2025-05-22
+* [Commit] [Apply suggestions from code review](https://github.com/NethermindEth/nethermind/commit/6a32cb4310fc80bb7028d6dcd2027421919e2a55) - 2025-05-22
+* [Pull Request] [Improve WebSocketMessageStream](https://github.com/NethermindEth/nethermind/pull/8676) - 2025-05-22
+* [Commit] [Use static SHA256.HashData (#8673)](https://github.com/NethermindEth/nethermind/commit/1c8707c5a8bef50966aaa5cda0787671ca14499a) - 2025-05-22
+* [Pull Request] [Mild performance tweaks](https://github.com/NethermindEth/nethermind/pull/8674) - 2025-05-22
+* [Pull Request] [Use static SHA256.HashData](https://github.com/NethermindEth/nethermind/pull/8673) - 2025-05-22
+* [Pull Request] [Use span when slicing arrays](https://github.com/NethermindEth/nethermind/pull/8672) - 2025-05-22
+* [Pull Request] [Increase Ethereum mainet gaslimit default to 60M](https://github.com/NethermindEth/nethermind/pull/8671) - 2025-05-22
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

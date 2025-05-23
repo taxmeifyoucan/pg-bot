@@ -124,6 +124,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [book](https://github.com/paradigmxyz/reth/commit/ec895355dfed0e016393ef68033da36fa279a1c9) - 2025-05-19
 * [Commit] [dprint](https://github.com/paradigmxyz/reth/commit/32768a2e922239605f25dfa010cb5fba23548e26) - 2025-05-19
 * [Commit] [perf: replace collect with count (#16246)](https://github.com/paradigmxyz/reth/commit/3a5f75a3003ab4b6985a647b014ea9b7865b635d) - 2025-05-19
+* [Pull Request] [feat: relax OpExecutorBuilder type constraints](https://github.com/paradigmxyz/reth/pull/16423) - 2025-05-22
+* [Issue] [Relax OpExecutorBuilder type constraints](https://github.com/paradigmxyz/reth/issues/16418) - 2025-05-22
+* [Commit] [chore: Replace reth-provider with reth-storage-api in reth-rpc-api (#16322)](https://github.com/paradigmxyz/reth/commit/22e9a17a676fa6dc3413cdff95c4a52b92da08eb) - 2025-05-22
+* [Pull Request] [feat: relax OpEthApiBuilder type constraints](https://github.com/paradigmxyz/reth/pull/16410) - 2025-05-22
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

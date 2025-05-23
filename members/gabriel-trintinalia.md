@@ -39,6 +39,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [feat: move EOF activation from osaka to futureEips (#8621)](https://github.com/hyperledger/besu/commit/ed4650360a4ee487290971e4dd596ce8c4e0f50d) - 2025-05-12
 * [Pull Request] [feat: move EOF activation from osaka to futureEips](https://github.com/hyperledger/besu/pull/8621) - 2025-05-11
 * [Pull Request] [refactor: add blob schedule to protocol spec builder](https://github.com/hyperledger/besu/pull/8658) - 2025-05-21
+* [Pull Request] [WIP: Add bpo definitions](https://github.com/hyperledger/besu/pull/8671) - 2025-05-22
+* [Commit] [[fusaka-devnet-0]  Peerdas devnet 7 (#8670)](https://github.com/hyperledger/besu/commit/c9abacf016071d4f1981bf3df572664996519fc1) - 2025-05-22
+* [Pull Request] [[fusaka-devnet-0]  Peerdas devnet 7](https://github.com/hyperledger/besu/pull/8670) - 2025-05-22
+* [Commit] [update ref tests to 4.5.0 (#8643)](https://github.com/hyperledger/besu/commit/7438cffd87e7c84b0d5fea2d162f778cd5a7e159) - 2025-05-22
+* [Commit] [[fusaka-devnet-0] EIP-7823 Set upper bounds for MODEXP (#8644)](https://github.com/hyperledger/besu/commit/09dd0bd475042c9de2c7f94eee6db1306c64a901) - 2025-05-22
+* [Commit] [refactor: remove `PragueFeeMarket` (#8664)](https://github.com/hyperledger/besu/commit/ec9cdfbdc1e4d629a25384b8fdbeb1644fb2bec4) - 2025-05-22
+* [Pull Request] [refactor: remove `PragueFeeMarket`](https://github.com/hyperledger/besu/pull/8664) - 2025-05-22
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

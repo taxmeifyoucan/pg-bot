@@ -71,5 +71,6 @@ Team: Reth
 * [Issue] [feat(txpool): implement `get_by_versioned_hashes_v2`](https://github.com/paradigmxyz/reth/issues/16368) - 2025-05-20
 * [Commit] [update doc](https://github.com/paradigmxyz/reth/commit/d22cfd31cab4775f5b6ba6429be67e8850493a6e) - 2025-05-20
 * [Commit] [address pr comments](https://github.com/paradigmxyz/reth/commit/f99621055e9067769b77b5029c1087e2cfc9c36b) - 2025-05-20
+* [Commit] [update bpos](https://github.com/paradigmxyz/reth/commit/9a91b95396ef9109467af7f303aca4a73a170719) - 2025-05-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16

@@ -87,6 +87,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Run linting on pysetup directory (#4335)](https://github.com/ethereum/consensus-specs/commit/14da059184087fb1c8d3fd47e44874cd33dd1d3c) - 2025-05-20
 * [Pull Request] [Run linting on pysetup directory](https://github.com/ethereum/consensus-specs/pull/4335) - 2025-05-20
 * [Commit] [Bump the actions group with 3 updates](https://github.com/ethereum/consensus-specs/commit/453214f0c6f705d12675ed64f9cd4e4d47d3df2d) - 2025-05-20
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

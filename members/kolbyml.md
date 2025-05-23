@@ -35,6 +35,14 @@ Team: Portal Network (EF)
 * [Pull Request] [fix: failed to read s3 bucket in dockerfile install ca-certificates](https://github.com/ethereum/trin/pull/1843) - 2025-05-20
 * [Commit] [refactor: move EthereumAPI functions into Execution/Consensus API (#1842)](https://github.com/ethereum/trin/commit/e5a7a478def82441127bafb8fb80d11e268df25c) - 2025-05-20
 * [Issue] [Replace RocksDb with Redb in Trin Execution](https://github.com/ethereum/trin/issues/1845) - 2025-05-21
+* [Pull Request] [feat: implement ephemeral history bridge](https://github.com/ethereum/trin/pull/1852) - 2025-05-22
+* [Pull Request] [Add ephemeral history gossiper](https://github.com/ethereum/trin/pull/1851) - 2025-05-22
+* [Pull Request] [feat: add select_random_peers to census](https://github.com/ethereum/trin/pull/1850) - 2025-05-22
+* [Issue] [Update Beacon Bridge to be driven by Beacon API's EventStream](https://github.com/ethereum/trin/issues/1849) - 2025-05-22
+* [Pull Request] [feat: add support for Beacon API Event Stream](https://github.com/ethereum/trin/pull/1848) - 2025-05-22
+* [Commit] [feat: add retry to get_receipts (#1847)](https://github.com/ethereum/trin/commit/f4e7050523e43ce935d64381b53b3130971d0b88) - 2025-05-22
+* [Pull Request] [feat: add retry to get_receipts](https://github.com/ethereum/trin/pull/1847) - 2025-05-22
+* [Pull Request] [feat: implement ephemeral bridge](https://github.com/ethereum/trin/pull/1846) - 2025-05-22
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

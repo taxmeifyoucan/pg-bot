@@ -44,6 +44,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [`AggregatingAttestationPool` new CLI params (#9452)](https://github.com/Consensys/teku/commit/0d7f50ce746db925f933327dfd85eaa6828e778c) - 2025-05-21
 * [Pull Request] [`AttestationBits` getBits method names clearer](https://github.com/Consensys/teku/pull/9453) - 2025-05-21
 * [Pull Request] [poolV2-CLI](https://github.com/Consensys/teku/pull/9452) - 2025-05-21
+* [Pull Request] [Poolv2 fix pre electra aggregation](https://github.com/Consensys/teku/pull/9480) - 2025-05-22
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

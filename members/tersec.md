@@ -164,6 +164,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Bump nim-libbacktrace to 99cd1a3f1568e7cfbbb6d886c93e4452dc65e4ef (#3297)](https://github.com/status-im/nimbus-eth1/commit/3bd6188f50bfa3f999826031a5f867b59489fc9d) - 2025-05-18
 * [Issue] [Implement EIP-7883](https://github.com/status-im/nimbus-eth1/issues/3305) - 2025-05-19
 * [Commit] [Avoid persisting the same txFrame twice in updateBase (#3301)](https://github.com/status-im/nimbus-eth1/commit/175489f86402f625495984985f906f4315466274) - 2025-05-19
+* [Issue] [Implement EIP-7918](https://github.com/status-im/nimbus-eth1/issues/3319) - 2025-05-22
+* [Issue] [Implement EIP-7825](https://github.com/status-im/nimbus-eth1/issues/3318) - 2025-05-22
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

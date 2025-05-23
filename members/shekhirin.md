@@ -123,6 +123,8 @@ Team: Reth
 * [Commit] [revertme: black box properly](https://github.com/paradigmxyz/reth/commit/dfccc87776891cc6904c416aa6a049f8d550fea3) - 2025-05-20
 * [Commit] [revertme: black box](https://github.com/paradigmxyz/reth/commit/dbd5885f54e21553be4e409ec157ab7fb0a5d218) - 2025-05-20
 * [Commit] [perf(trie): optimize `PackedNibbles::common_prefix_length`](https://github.com/paradigmxyz/reth/commit/653d76628c054d918c2ee4217f88d2c8eb7df8e1) - 2025-05-20
+* [Pull Request] [ci: fix system icons width in release.yml](https://github.com/paradigmxyz/reth/pull/16420) - 2025-05-22
+* [Commit] [perf(trie): `PackedNibbles::slice`](https://github.com/paradigmxyz/reth/commit/f04e5b48f32f38ab477c1f3cc8935fd56794f71c) - 2025-05-22
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

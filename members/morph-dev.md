@@ -31,6 +31,7 @@ Team: Portal Network (EF)
 * [Pull Request] [feat: add affected_by_radius to content key](https://github.com/ethereum/trin/pull/1839) - 2025-05-19
 * [Commit] [feat: remove DistanceFunction (#1838)](https://github.com/ethereum/trin/commit/2ed36189c4601baed0a656404e65a9b2a60ab774) - 2025-05-19
 * [Commit] [feat: subnetwork stores should use affected_by_radius (#1840)](https://github.com/ethereum/trin/commit/adfa490e1455ff3a922902ec10be37072b4233a7) - 2025-05-20
+* [Issue] [FindContentQuery doesn't use Metric when calculating distance](https://github.com/ethereum/trin/issues/1853) - 2025-05-22
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

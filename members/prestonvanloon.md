@@ -34,6 +34,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Added prysm build data to otel tracing spans](https://github.com/OffchainLabs/prysm/commit/bc4c8fc3803be4671641e1ae3681087728b89c74) - 2025-05-19
 * [Commit] [Added prysm build data to otel tracing spans](https://github.com/OffchainLabs/prysm/commit/1f3f650d1c79f3f64d588935c647adfc643a1a63) - 2025-05-19
 * [Pull Request] [Added prysm build data to otel tracing spans](https://github.com/OffchainLabs/prysm/pull/15302) - 2025-05-19
+* [Commit] [Docs: add commentary on the filename convention](https://github.com/OffchainLabs/prysm/commit/720f85e74cbba5a78125be795bef281da2ee05b5) - 2025-05-22
+* [Pull Request] [Spectests: Use a flat structure for faster test ingestion](https://github.com/OffchainLabs/prysm/pull/15313) - 2025-05-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm team contact info](https://github.com/ethereum/pm/pull/1484) - 2025-04-17
 ## Q1 2025

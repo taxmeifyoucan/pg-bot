@@ -17,6 +17,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Commit] [Backfill WIP](https://github.com/sigp/lighthouse/commit/f9d2c1d2d3c5682f2132c0d9ad0a7d83921ba6ca) - 2025-04-08
 * [Issue] [Range sync process_completed_batches assumes processing_target exists](https://github.com/sigp/lighthouse/issues/7360) - 2025-04-27
 * [Issue] [Gnosis Pectra hardfork minor issues](https://github.com/sigp/lighthouse/issues/7379) - 2025-04-30
+* [Commit] [Resolve some TODOs](https://github.com/sigp/lighthouse/commit/801659d4ae200600305787e0538b6ba0559ac98e) - 2025-05-22
+* [Pull Request] [Downscore and retry custody failures](https://github.com/sigp/lighthouse/pull/7510) - 2025-05-22
+* [Commit] [Implement reliable range sync for PeerDAS](https://github.com/sigp/lighthouse/commit/4fb2ae658a8402e63b2163c1a9591bf656a5574f) - 2025-05-22
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
