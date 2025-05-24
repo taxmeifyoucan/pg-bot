@@ -305,6 +305,22 @@ Team: Reth
 * [Commit] [fix(RPC): Ensure `eth_getTransactionCount` returns correct nonce for 'pending' tag (#16407)](https://github.com/paradigmxyz/reth/commit/6cf363ba88ce944bd7fff93cce1a4c0d97a115f9) - 2025-05-22
 * [Issue] [Move `Extended` to alloy-consensus](https://github.com/paradigmxyz/reth/issues/16411) - 2025-05-22
 * [Issue] [Test era import in CI](https://github.com/paradigmxyz/reth/issues/16409) - 2025-05-22
+* [Commit] [chore: rm OpPrimitives bound (#16450)](https://github.com/paradigmxyz/reth/commit/26f84bfcea53e688e628f0827425c015d0d6d6a4) - 2025-05-23
+* [Pull Request] [chore: simplify deposit check](https://github.com/paradigmxyz/reth/pull/16452) - 2025-05-23
+* [Issue] [Relax TransactionCompat restriction for OpEthApi](https://github.com/paradigmxyz/reth/issues/16451) - 2025-05-23
+* [Pull Request] [chore: rm OpPrimitives bound](https://github.com/paradigmxyz/reth/pull/16450) - 2025-05-23
+* [Issue] [Tracking broadcast trait audit](https://github.com/paradigmxyz/reth/issues/16440) - 2025-05-23
+* [Issue] [Move trait dedup functions into `NewPooledTransactionHashes::dedup`](https://github.com/paradigmxyz/reth/issues/16439) - 2025-05-23
+* [Commit] [rename fn](https://github.com/paradigmxyz/reth/commit/f8c3873907685c0591bffff1202490966b38f86a) - 2025-05-23
+* [Commit] [feat: add get_recovered_transaction helper](https://github.com/paradigmxyz/reth/commit/f02d2fd1b616d3986d6e00270d3dfbae9dde69f7) - 2025-05-23
+* [Issue] [specialise consecutive receipt queries](https://github.com/paradigmxyz/reth/issues/16437) - 2025-05-23
+* [Pull Request] [feat: add get_recovered_transaction helper](https://github.com/paradigmxyz/reth/pull/16436) - 2025-05-23
+* [Pull Request] [perf: spawn range query on blocking](https://github.com/paradigmxyz/reth/pull/16434) - 2025-05-23
+* [Commit] [ci: run kurtosis every 6h (#16433)](https://github.com/paradigmxyz/reth/commit/22a69277b7c24a52d9627e9492eb25a225e98985) - 2025-05-23
+* [Commit] [ci: run op-kurtosis every 6hrs (#16432)](https://github.com/paradigmxyz/reth/commit/8328faf054c8b7d561f31ffd663ed2eb4372df95) - 2025-05-23
+* [Pull Request] [ci: run op-kurtosis every 6hrs](https://github.com/paradigmxyz/reth/pull/16432) - 2025-05-23
+* [Pull Request] [chore: bump revm and op-alloy](https://github.com/paradigmxyz/reth/pull/16429) - 2025-05-23
+* [Issue] [Add op-reth pre-bedrock historical rpc forwarder client](https://github.com/paradigmxyz/reth/issues/16428) - 2025-05-23
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -44,3 +44,6 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [ci: disable flaky tests in logsfilter_test](https://github.com/erigontech/erigon/pull/15156) - 2025-05-19
 * [Issue] [TestLogsFilter_AllAddressesAndTopicsFilter_DistributesLogRegardless: failing on macOS](https://github.com/erigontech/erigon/issues/15155) - 2025-05-19
 * [Issue] [TestBlockTracker: panic: test timed out after 10m0s](https://github.com/erigontech/erigon/issues/15208) - 2025-05-22
+* [Commit] [fix linter](https://github.com/erigontech/erigon/commit/857f57014e0c68d89226094191fb034e9018bcda) - 2025-05-23
+* [Pull Request] [fix invalid filter rsp in eth_getFilterChanges/eth_getFilterLogs](https://github.com/erigontech/erigon/pull/15230) - 2025-05-23
+* [Pull Request] [ci: fix flakiness in TestBlockTracker](https://github.com/erigontech/erigon/pull/15227) - 2025-05-23

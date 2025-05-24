@@ -26,6 +26,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Switch to devops' runners](https://github.com/ethereum/execution-specs/pull/1237) - 2025-05-20
 * [Issue] [Lower the vulture min confidence](https://github.com/ethereum/execution-specs/issues/1239) - 2025-05-21
 * [Commit] [add vulture to static analysis suite](https://github.com/ethereum/execution-specs/commit/95a2013f8e673e2142bbee5939ee0901f13b57cc) - 2025-05-21
+* [Commit] [Upgrade to python 3.11 / pypy 7.3.19](https://github.com/ethereum/execution-specs/commit/69b1c586f74f76c14d0de77de499a9606d3e30e9) - 2025-05-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 

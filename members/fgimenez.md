@@ -128,6 +128,17 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Issue] [Relax OpExecutorBuilder type constraints](https://github.com/paradigmxyz/reth/issues/16418) - 2025-05-22
 * [Commit] [chore: Replace reth-provider with reth-storage-api in reth-rpc-api (#16322)](https://github.com/paradigmxyz/reth/commit/22e9a17a676fa6dc3413cdff95c4a52b92da08eb) - 2025-05-22
 * [Pull Request] [feat: relax OpEthApiBuilder type constraints](https://github.com/paradigmxyz/reth/pull/16410) - 2025-05-22
+* [Pull Request] [feat: add receipts_by_block_range to ReceiptsProvider](https://github.com/paradigmxyz/reth/pull/16449) - 2025-05-23
+* [Commit] [feat: add receipts_by_block_range to ReceiptsProvider](https://github.com/paradigmxyz/reth/commit/c052e3976bb39980975db2ae34b31806086e111c) - 2025-05-23
+* [Commit] [feat: add receipts_by_block_range to ReceiptsProvider](https://github.com/paradigmxyz/reth/commit/24f384d94baae792c3f3f51457761584e67808c7) - 2025-05-23
+* [Commit] [feat: add receipts_by_block_range to ReceiptsProvider](https://github.com/paradigmxyz/reth/commit/2fe42d6ae76f719f3f0125d52248e83d2fd25491) - 2025-05-23
+* [Commit] [filter_inner as Arc](https://github.com/paradigmxyz/reth/commit/46a290f2bd12891a7d1266c2d1bb05ed901be9a0) - 2025-05-23
+* [Pull Request] [feat(rpc): specialise contiguous receipt queries for filters](https://github.com/paradigmxyz/reth/pull/16441) - 2025-05-23
+* [Commit] [feat(rpc): specialise contiguous receipt queries for filters](https://github.com/paradigmxyz/reth/commit/40b2c294fd6429303c3781a29fc869111bd28815) - 2025-05-23
+* [Pull Request] [ci: run kurtosis every 6h](https://github.com/paradigmxyz/reth/pull/16433) - 2025-05-23
+* [Pull Request] [feat: introduce OpComponentsBuilder](https://github.com/paradigmxyz/reth/pull/16431) - 2025-05-23
+* [Commit] [feat: introduce OpComponentsBuilder](https://github.com/paradigmxyz/reth/commit/3d4310f856ef7f372026ccf6442a66882770346e) - 2025-05-23
+* [Issue] [Use relaxed type constraints in Op components builder](https://github.com/paradigmxyz/reth/issues/16430) - 2025-05-23
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -158,6 +158,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Revert "don't delete state-salt file on rm-all-state-snapshots. (#152…](https://github.com/erigontech/erigon/pull/15216) - 2025-05-22
 * [Commit] [don't delete salt-state file](https://github.com/erigontech/erigon/commit/f844b150579ca78a0e3106ef3b144edd916182a7) - 2025-05-22
 * [Pull Request] [don't delete state-salt file on rm-all-state-snapshots.](https://github.com/erigontech/erigon/pull/15214) - 2025-05-22
+* [Issue] [visibleFiles evolution](https://github.com/erigontech/erigon/issues/15229) - 2025-05-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1805d03d26c2ad4fa13cca226b2f1a86149f2328) - 2025-05-23
+* [Commit] [Fix RIP-7560 gas usage (#14819)](https://github.com/erigontech/erigon/commit/9fd816f6951138e0c35dafde7460c9b8faa298b2) - 2025-05-23
+* [Issue] [update the appendable doc (baseNum -> rooNum)](https://github.com/erigontech/erigon/issues/15226) - 2025-05-23
+* [Pull Request] [don't delete state-salt file on rm-all-state-snapshots](https://github.com/erigontech/erigon/pull/15223) - 2025-05-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

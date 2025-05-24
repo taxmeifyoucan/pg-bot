@@ -39,6 +39,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Added a development flag to enable strict config loading (#9449)](https://github.com/Consensys/teku/commit/c7f9a3c2b68622fa8d753903102ba78860985da1) - 2025-05-21
 * [Pull Request] [Added a development flag to enable strict config loading](https://github.com/Consensys/teku/pull/9449) - 2025-05-21
 * [Commit] [fix phase0 aggregation in pool v2 (#9480)](https://github.com/Consensys/teku/commit/818ed0d63daceb035b8d34f56d7258348a0eed2c) - 2025-05-22
+* [Issue] [NPE ](https://github.com/Consensys/teku/issues/9485) - 2025-05-23
+* [Issue] [investigate differences in the minimal preset](https://github.com/Consensys/teku/issues/9483) - 2025-05-23
+* [Pull Request] [Added error for genesis state not matching latest block header](https://github.com/Consensys/teku/pull/9482) - 2025-05-23
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

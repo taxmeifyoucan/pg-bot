@@ -124,6 +124,13 @@ Team: Erigon
 * [Pull Request] [workflows: Fix 7702 assertoor test](https://github.com/erigontech/erigon/pull/15078) - 2025-05-16
 * [Commit] [try randomseed](https://github.com/erigontech/erigon/commit/0825e7f997917b73e87bd8294d4e780c59938606) - 2025-05-16
 * [Commit] [fmt](https://github.com/erigontech/erigon/commit/f57fb3a8e8245eeb011edb015b02db7aca7bca41) - 2025-05-22
+* [Commit] [Fmt](https://github.com/erigontech/erigon/commit/c53c27bd882df75067ed1ce81048bda533fdc6f1) - 2025-05-23
+* [Commit] [Add params back](https://github.com/erigontech/erigon/commit/85d0bb6e3a55620f716a4519fea6c985fd683b0e) - 2025-05-23
+* [Commit] [Err handling](https://github.com/erigontech/erigon/commit/4c2ed0bbd96ba84970700dd9964eca6efb108d84) - 2025-05-23
+* [Commit] [Add proofs validaiton and cleanup](https://github.com/erigontech/erigon/commit/220e58a2a240de3f9445cd682ef3f6c9feff7b7b) - 2025-05-23
+* [Commit] [Add getters for blobs, commitments, proofs and fix mock](https://github.com/erigontech/erigon/commit/f6c8b52d15ca5b4a211e0db75f32edfa9df46974) - 2025-05-23
+* [Pull Request] [ Fusaka: Add EngineAPI and Txpool changes ](https://github.com/erigontech/erigon/pull/15222) - 2025-05-23
+* [Pull Request] [ Add Engine API methods and basic validation ](https://github.com/erigontech/erigon/pull/15221) - 2025-05-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

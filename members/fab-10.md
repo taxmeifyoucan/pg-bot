@@ -31,6 +31,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Upgrade Gradle and its plugins (#8638)](https://github.com/hyperledger/besu/commit/8e5b1f100a0641c5449f4cbd8acbeb92650c30f2) - 2025-05-19
 * [Commit] [Refactor call parameters (#8637)](https://github.com/hyperledger/besu/commit/f60fe0377ccbdf865b2fcb5aafd0e5c25881b5ad) - 2025-05-19
 * [Commit] [Estimate gas on pending block by default (#8627)](https://github.com/hyperledger/besu/commit/a9c75e129262c88a7e5af1fe4f290cdb801f0137) - 2025-05-19
+* [Pull Request] [Replace @Nonnull annotaion with @NotNull](https://github.com/hyperledger/besu/pull/8687) - 2025-05-23
+* [Commit] [Update last appearance of old Tuweni coordinates (#8685)](https://github.com/hyperledger/besu/commit/c5bf6d27d6bcb7fdcc0e51757b2f116aa183cd04) - 2025-05-23
+* [Commit] [Make gas estimation strict by default (#8629)](https://github.com/hyperledger/besu/commit/3e52bb358adc5ecd6d25894e4e2b8918b8f131f7) - 2025-05-23
+* [Pull Request] [Update last appearance of old Tuweni coordinates](https://github.com/hyperledger/besu/pull/8685) - 2025-05-23
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

@@ -45,6 +45,38 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [cleanup and changelog](https://github.com/OffchainLabs/prysm/commit/009955716782c6eaf078b9f8dffdf0caee16aef3) - 2025-05-20
 * [Commit] [Turn on lc gossip (#15220)](https://github.com/OffchainLabs/prysm/commit/6df476835ce68fe3c17c3997fbbf3db7558170bc) - 2025-05-20
 * [Commit] [in progress](https://github.com/OffchainLabs/prysm/commit/6d9e82e1e4e4d7800e270757d4eb7d284bf9c3aa) - 2025-05-20
+* [Issue] [Remove gRPC](https://github.com/OffchainLabs/prysm/issues/15346) - 2025-05-23
+* [Issue] [Tech refresh: update web ui dependencies](https://github.com/OffchainLabs/prysm/issues/15345) - 2025-05-23
+* [Issue] [Merkle proofs of everything](https://github.com/OffchainLabs/prysm/issues/15344) - 2025-05-23
+* [Issue] [SSZ Query Language](https://github.com/OffchainLabs/prysm/issues/15343) - 2025-05-23
+* [Issue] [Refactor Beacon API tests](https://github.com/OffchainLabs/prysm/issues/15342) - 2025-05-23
+* [Issue] [Remove clockwaiter startup code](https://github.com/OffchainLabs/prysm/issues/15341) - 2025-05-23
+* [Issue] [Write a new validator client](https://github.com/OffchainLabs/prysm/issues/15340) - 2025-05-23
+* [Issue] [ValidatorStatusFetcher service in validator client](https://github.com/OffchainLabs/prysm/issues/15339) - 2025-05-23
+* [Issue] [Fast blob cache warmup for full archive nodes](https://github.com/OffchainLabs/prysm/issues/15338) - 2025-05-23
+* [Issue] [Clean up the import graph](https://github.com/OffchainLabs/prysm/issues/15337) - 2025-05-23
+* [Issue] [make backfill default](https://github.com/OffchainLabs/prysm/issues/15336) - 2025-05-23
+* [Issue] [make fsync default for blobs](https://github.com/OffchainLabs/prysm/issues/15335) - 2025-05-23
+* [Issue] [Improve speed of prysm restarts](https://github.com/OffchainLabs/prysm/issues/15334) - 2025-05-23
+* [Issue] [Validator client: Remove the experimental mode for the minimal anti-slashing database](https://github.com/OffchainLabs/prysm/issues/15333) - 2025-05-23
+* [Issue] [Overhaul error handling](https://github.com/OffchainLabs/prysm/issues/15332) - 2025-05-23
+* [Issue] [bad block cache with TTL blocks marked invalid from EL](https://github.com/OffchainLabs/prysm/issues/15331) - 2025-05-23
+* [Issue] [Rewire Prysm wallet fields](https://github.com/OffchainLabs/prysm/issues/15330) - 2025-05-23
+* [Issue] [Remove pre-electra desposit processing code](https://github.com/OffchainLabs/prysm/issues/15329) - 2025-05-23
+* [Issue] [Deprecate syncing from genesis in favour of checkpoint sync](https://github.com/OffchainLabs/prysm/issues/15328) - 2025-05-23
+* [Issue] [per-component log control](https://github.com/OffchainLabs/prysm/issues/15327) - 2025-05-23
+* [Issue] [Fix the new attestation cache](https://github.com/OffchainLabs/prysm/issues/15326) - 2025-05-23
+* [Issue] [Implement a "true" archive mode](https://github.com/OffchainLabs/prysm/issues/15325) - 2025-05-23
+* [Issue] [Ensure APY of validators using Prysm is as high as possible](https://github.com/OffchainLabs/prysm/issues/15324) - 2025-05-23
+* [Issue] [Remove protobufs](https://github.com/OffchainLabs/prysm/issues/15323) - 2025-05-23
+* [Issue] [rewrite range sync fork finding algorithm](https://github.com/OffchainLabs/prysm/issues/15322) - 2025-05-23
+* [Issue] [Initial sync redesign](https://github.com/OffchainLabs/prysm/issues/15321) - 2025-05-23
+* [Issue] [Migrate E2E to Kurtosis](https://github.com/OffchainLabs/prysm/issues/15320) - 2025-05-23
+* [Issue] [Holistic configuration](https://github.com/OffchainLabs/prysm/issues/15319) - 2025-05-23
+* [Issue] [Revamp attestation type in prysm](https://github.com/OffchainLabs/prysm/issues/15318) - 2025-05-23
+* [Issue] [Use SSZ by default for VC <--> BN requests](https://github.com/OffchainLabs/prysm/issues/15317) - 2025-05-23
+* [Issue] [Implement state diffs in the database](https://github.com/OffchainLabs/prysm/issues/15316) - 2025-05-23
+* [Issue] [Implement state diffs in the database](https://github.com/OffchainLabs/prysm/issues/15315) - 2025-05-23
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

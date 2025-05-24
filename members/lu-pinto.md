@@ -27,6 +27,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [Add witness tracing (#8336)](https://github.com/hyperledger/besu/commit/34b94d2f54c9914e308903909ece6604bd60e4ee) - 2025-05-19
 * [Commit] [Implement EIP-5920 - PAY opcode (#8498)](https://github.com/hyperledger/besu/commit/731e94084d20aa1b7723a3bd28a9d29c5a4f06c9) - 2025-05-21
 * [Commit] [refactor: add blob schedule to protocol spec builder (#8658)](https://github.com/hyperledger/besu/commit/3a486391f6cb016948c3a6b8289a4a1295c6daf5) - 2025-05-22
+* [Pull Request] [ignore invalid ENR nodes in DNS daemon](https://github.com/hyperledger/besu/pull/8690) - 2025-05-23
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

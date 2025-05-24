@@ -55,6 +55,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [format](https://github.com/ChainSafe/lodestar/commit/e918c2cf1a7d27b0edb7a12cb8aa2c2b3c6b7009) - 2025-05-21
 * [Commit] [Special handling for deneb and electra](https://github.com/ChainSafe/lodestar/commit/a703a0a8da3abf3f5c530bea5906089d6419c781) - 2025-05-21
 * [Commit] [chore: add blob schedule to each network config (#7858)](https://github.com/ChainSafe/lodestar/commit/2b5494153805e62342d612c56fb508282c16fa50) - 2025-05-22
+* [Commit] [correct calculation of latest block root of genesis state](https://github.com/ChainSafe/lodestar/commit/d92df8a3e0169cc047e2a6eac7aa63f50f8d0d9a) - 2025-05-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

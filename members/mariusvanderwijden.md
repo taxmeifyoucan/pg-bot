@@ -37,6 +37,8 @@ Team: Geth
 * [Commit] [core/vm: fix cherry-picking](https://github.com/ethereum/go-ethereum/commit/00f0d218d41b77db7e329c44177afe0c20710da2) - 2025-05-22
 * [Commit] [core/vm: implement EIP 7823 - Set upper bounds for MODEXP](https://github.com/ethereum/go-ethereum/commit/c6d3851277fa8368b64888db48b9eabf9bd4fbff) - 2025-05-22
 * [Commit] [core/txpool: add explicit max blob count limit (#31837)](https://github.com/ethereum/go-ethereum/commit/20ad4f500e7fafab93f6d94fa171a5c0309de6ce) - 2025-05-22
+* [Commit] [internal/era: update link to documentation (#31879)](https://github.com/ethereum/go-ethereum/commit/1fd806d3e59b1da29297611e0046df0bc742658d) - 2025-05-23
+* [Commit] [core/vm: fix cherry-picking](https://github.com/ethereum/go-ethereum/commit/07321c6d9c639ea381f5770b7f35a8e9aa813ba8) - 2025-05-23
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

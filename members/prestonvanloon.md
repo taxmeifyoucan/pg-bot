@@ -36,6 +36,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Added prysm build data to otel tracing spans](https://github.com/OffchainLabs/prysm/pull/15302) - 2025-05-19
 * [Commit] [Docs: add commentary on the filename convention](https://github.com/OffchainLabs/prysm/commit/720f85e74cbba5a78125be795bef281da2ee05b5) - 2025-05-22
 * [Pull Request] [Spectests: Use a flat structure for faster test ingestion](https://github.com/OffchainLabs/prysm/pull/15313) - 2025-05-22
+* [Commit] [Changelog fragment](https://github.com/OffchainLabs/prysm/commit/cb080d2362352d39f5692f72ed4a4f780630764a) - 2025-05-23
+* [Commit] [PeerDAS: Refactor reconstruction and improve `DataColumnStorage.Get`. (#15309)](https://github.com/OffchainLabs/prysm/commit/58b5aac201a6a4ad033c2604ae4d98010407e47a) - 2025-05-23
+* [Commit] [Set shard_count to optimal value... one!](https://github.com/OffchainLabs/prysm/commit/8af426a9942855f326830e9851d97c2b8a7178a4) - 2025-05-23
+* [Commit] [Set shard_count to optimal value... one!](https://github.com/OffchainLabs/prysm/commit/c6b4cc8575a283fa865c31e24ba4781379857b7f) - 2025-05-23
+* [Commit] [Add a section about nightly tests to the spectest readme. Ref https://github.com/OffchainLabs/prysm/pull/15312](https://github.com/OffchainLabs/prysm/commit/71f375dd4211f5ff08f29805ea348d3bd7948465) - 2025-05-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm team contact info](https://github.com/ethereum/pm/pull/1484) - 2025-04-17
 ## Q1 2025

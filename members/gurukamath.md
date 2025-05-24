@@ -46,6 +46,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Implement EIP-7918](https://github.com/ethereum/execution-specs/pull/1230) - 2025-05-19
 * [Pull Request] [Implement EIP-7825](https://github.com/ethereum/execution-specs/pull/1229) - 2025-05-19
 * [Issue] [Include filling EEST fixtures in CI](https://github.com/ethereum/execution-specs/issues/1236) - 2025-05-20
+* [Issue] [More readable `create_gas_cost` calculation](https://github.com/ethereum/execution-specs/issues/1246) - 2025-05-23
+* [Issue] [Change `to_address` to `to_address_masked`](https://github.com/ethereum/execution-specs/issues/1245) - 2025-05-23
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-spec-tests/issues/1461) - 2025-04-16
 * [Issue] [Address warmed on aborted call](https://github.com/ethereum/execution-spec-tests/issues/1474) - 2025-04-17

@@ -69,11 +69,14 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix formatting](https://github.com/NethermindEth/nethermind/commit/dddf73ab968ff76572f184ee5a740604bf8d37bb) - 2025-05-21
 * [Pull Request] [Implement EIP-7825: Transaction Gas Limit Cap](https://github.com/NethermindEth/nethermind/pull/8663) - 2025-05-21
 * [Commit] [Kute: order by filename (#8657)](https://github.com/NethermindEth/nethermind/commit/17609d607fc29499b95a59f748f3a8f0ee224cf5) - 2025-05-22
+* [Commit] [Fix ClockCache.Set (#8679)](https://github.com/NethermindEth/nethermind/commit/844dc48df87c0a1ec2607b447ccd3386d487af59) - 2025-05-23
+* [Commit] [Implement EIP-7825: Transaction Gas Limit Cap (#8663)](https://github.com/NethermindEth/nethermind/commit/016a6f82d79057474a905cc5a93881976d72770f) - 2025-05-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12
 * [Pull Request] [Update EIP-7793: more specific checks and sentinel value](https://github.com/ethereum/EIPs/pull/9783) - 2025-05-16
 * [Pull Request] [Update EIP-7793: specify checks & sentinel](https://github.com/ethereum/EIPs/pull/9782) - 2025-05-16
+* [Pull Request] [Update EIP-1: allow links to execution apis](https://github.com/ethereum/EIPs/pull/9809) - 2025-05-23
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

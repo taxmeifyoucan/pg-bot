@@ -41,6 +41,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add number of rows deleted to removeDataSidecars() call and tests for it.](https://github.com/status-im/nimbus-eth2/commit/771bca1370e490f24e710027865993f1d79f78ec) - 2025-05-16
 * [Commit] [Eliminate closureScope things.](https://github.com/status-im/nimbus-eth2/commit/001aea8338eabeec44c232ed04304310939c8d58) - 2025-05-16
 * [Commit] [One more attempt to fix stack usage issue.](https://github.com/status-im/nimbus-eth2/commit/53fcaf371fc4590d59c0e1a0b8c4a953a2f6d378) - 2025-05-16
+* [Commit] [Change sync kind when backfill process finished.](https://github.com/status-im/nimbus-eth2/commit/c7c8332921789051a42089ca44b3d07d978b7975) - 2025-05-23
+* [Commit] [Lower distance to 1 slot and adjust status message.](https://github.com/status-im/nimbus-eth2/commit/185574247990281fa4e6c29cc437ac6f1fd43252) - 2025-05-23
+* [Commit] [Add one more option "almost synced" which is turned on when Request Manager is supposed to fill gaps.](https://github.com/status-im/nimbus-eth2/commit/4b9aea1a20d5ce425fbec8d6a71f582a5a2079df) - 2025-05-23
+* [Commit] [One more place to fix.](https://github.com/status-im/nimbus-eth2/commit/0d8b6136bdd916b79bec8f5fa160848d88f0f3c9) - 2025-05-23
+* [Commit] [Enhance debugging fields.](https://github.com/status-im/nimbus-eth2/commit/5cc7d81e2426ece34c6bfe1dc887795ab93c4e29) - 2025-05-23
+* [Commit] [Fix copyright year.](https://github.com/status-im/nimbus-eth2/commit/3b5d4958bab7612f33980c6687d4fe1c4f913bcf) - 2025-05-23
+* [Pull Request] [Add ability for SyncOverseer to pause backfilling when sync distance is out of range.](https://github.com/status-im/nimbus-eth2/pull/7191) - 2025-05-23
+* [Commit] [Update distance to 2 slots.](https://github.com/status-im/nimbus-eth2/commit/239baa6e848f595ad9079c8336db79940f2c1a03) - 2025-05-23
+* [Commit] [Debugging logs.](https://github.com/status-im/nimbus-eth2/commit/68a2c91497b7046228e3cd4d46301b8a9feb0b4b) - 2025-05-23
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

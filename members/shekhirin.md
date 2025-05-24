@@ -125,6 +125,11 @@ Team: Reth
 * [Commit] [perf(trie): optimize `PackedNibbles::common_prefix_length`](https://github.com/paradigmxyz/reth/commit/653d76628c054d918c2ee4217f88d2c8eb7df8e1) - 2025-05-20
 * [Pull Request] [ci: fix system icons width in release.yml](https://github.com/paradigmxyz/reth/pull/16420) - 2025-05-22
 * [Commit] [perf(trie): `PackedNibbles::slice`](https://github.com/paradigmxyz/reth/commit/f04e5b48f32f38ab477c1f3cc8935fd56794f71c) - 2025-05-22
+* [Commit] [log more](https://github.com/paradigmxyz/reth/commit/4977dba40c27c9db3702dbe3f09794c7d43dddc0) - 2025-05-23
+* [Commit] [print overlay](https://github.com/paradigmxyz/reth/commit/0fe16fe13191958d70e2b2633589743aeabefbf7) - 2025-05-23
+* [Commit] [perf(trie): do not shift when not needed in `slice`](https://github.com/paradigmxyz/reth/commit/1815345d0a0e474022689a9ea9ce5de4e58fb042) - 2025-05-23
+* [Commit] [chore(trie): more const methods](https://github.com/paradigmxyz/reth/commit/00b4c3c7cf3e421be4b0a8e6efe8ee12296d4edf) - 2025-05-23
+* [Commit] [perf(trie): different optimizations](https://github.com/paradigmxyz/reth/commit/48d9029af41f7e93191d98ce020d8e7fc75e774d) - 2025-05-23
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

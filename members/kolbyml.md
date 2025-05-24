@@ -43,6 +43,8 @@ Team: Portal Network (EF)
 * [Commit] [feat: add retry to get_receipts (#1847)](https://github.com/ethereum/trin/commit/f4e7050523e43ce935d64381b53b3130971d0b88) - 2025-05-22
 * [Pull Request] [feat: add retry to get_receipts](https://github.com/ethereum/trin/pull/1847) - 2025-05-22
 * [Pull Request] [feat: implement ephemeral bridge](https://github.com/ethereum/trin/pull/1846) - 2025-05-22
+* [Commit] [feat: add support for Beacon API Event Stream (#1848)](https://github.com/ethereum/trin/commit/7f71cc239fe4dd89a9a9196071ed24553a05dccd) - 2025-05-23
+* [Commit] [feat: add select_random_peers to census (#1850)](https://github.com/ethereum/trin/commit/9f329859a34625a692d562228c7e9d30dd6e3de3) - 2025-05-23
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

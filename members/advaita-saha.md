@@ -46,3 +46,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [Portal Client: Remove offer workers and support sending rate limited offers (#3303)](https://github.com/status-im/nimbus-eth1/commit/ac509d7be456f409f9047d4acb2f0d5ee33341fd) - 2025-05-21
 * [Commit] [fix](https://github.com/status-im/nimbus-eth1/commit/d29c44a2b9185cf20a27b850a8bbbddf0728a44e) - 2025-05-22
 * [Pull Request] [load the jwt secret from data-dir if available](https://github.com/status-im/nimbus-eth1/pull/3320) - 2025-05-22
+* [Commit] [proxy: swap block cache for header store (#3288)](https://github.com/status-im/nimbus-eth1/commit/9334684374e3634d3d84a4ecc01e689607b4da3f) - 2025-05-23

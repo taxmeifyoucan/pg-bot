@@ -145,6 +145,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump nim-libp2p to v1.10.1 (#7188)](https://github.com/status-im/nimbus-eth2/commit/d2f8a793ed0302de2c1210a1c0dbce386b709b21) - 2025-05-21
 * [Commit] [Exit on first slashing (#7091)](https://github.com/status-im/nimbus-eth2/commit/ee32a848baca50502d70e0239a5f29190e7d715f) - 2025-05-21
 * [Pull Request] [bump nim-libp2p to v1.10.1](https://github.com/status-im/nimbus-eth2/pull/7188) - 2025-05-21
+* [Commit] [Bump tornado from 6.4.2 to 6.5.1 in /ncli (#7192)](https://github.com/status-im/nimbus-eth2/commit/796afdde94e2efd9636845ab427189880d37d6af) - 2025-05-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 
@@ -166,6 +167,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Avoid persisting the same txFrame twice in updateBase (#3301)](https://github.com/status-im/nimbus-eth1/commit/175489f86402f625495984985f906f4315466274) - 2025-05-19
 * [Issue] [Implement EIP-7918](https://github.com/status-im/nimbus-eth1/issues/3319) - 2025-05-22
 * [Issue] [Implement EIP-7825](https://github.com/status-im/nimbus-eth1/issues/3318) - 2025-05-22
+* [Commit] [Fix outdated txparse tools (#3324)](https://github.com/status-im/nimbus-eth1/commit/2bb6ff03d5fbe684e95daac0578b69b37d14ebd4) - 2025-05-23
+* [Commit] [Fusaka-devnet-0/EIP-7883: ModExp Gas Cost Increase (#3323)](https://github.com/status-im/nimbus-eth1/commit/86daa7846b18c40f846a32c790a9ad6d7972b053) - 2025-05-23
+* [Commit] [Fusaka-devnet-0/EIP-7823: Set upper bounds for MODEXP (#3322)](https://github.com/status-im/nimbus-eth1/commit/a92c26735d525e0069b0b4880ecc2bedf9fd897f) - 2025-05-23
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

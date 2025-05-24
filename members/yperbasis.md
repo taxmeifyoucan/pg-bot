@@ -174,6 +174,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [lint](https://github.com/erigontech/erigon/commit/b807495d38bee4f3d8f67ec2f32911bbc1eb7523) - 2025-05-22
 * [Pull Request] [Add fusaka-devnet-0@v1.0.0 fixtures](https://github.com/erigontech/erigon/pull/15215) - 2025-05-22
 * [Commit] [Add fusaka-devnet-0@v1.0.0 fixtures](https://github.com/erigontech/erigon/commit/20622d0b79ceb64ca3a219b64545abd656f0dc08) - 2025-05-22
+* [Pull Request] [clean-up: remove common2 import alias](https://github.com/erigontech/erigon/pull/15235) - 2025-05-23
+* [Commit] [clean-up: remove common2 import alias](https://github.com/erigontech/erigon/commit/e0a23061741f4b6a69b5e5c814c0a811a9ac6361) - 2025-05-23
+* [Commit] [dir improvements: turn `p2p` into a module (#14889)](https://github.com/erigontech/erigon/commit/e995c74ed949996c6205287bc4b3d24b00c9fc41) - 2025-05-23
+* [Commit] [lint](https://github.com/erigontech/erigon/commit/2832464813cd2890a12436f15ae7d5d72e566386) - 2025-05-23
+* [Commit] [import cosmetics](https://github.com/erigontech/erigon/commit/ed888d1c956f85ce9539a89edbc96ab69b1d0d7d) - 2025-05-23
+* [Commit] [fmt](https://github.com/erigontech/erigon/commit/0b4370a9fc53e6233213911553515d2d216eed70) - 2025-05-23
+* [Commit] [turn p2p into a module](https://github.com/erigontech/erigon/commit/a3e40c5678cf633eda5eb69dfe15fc217ffa9465) - 2025-05-23
+* [Commit] [mv handler_test to jsonrpc/receipts](https://github.com/erigontech/erigon/commit/6719b61ef6696a745dd6881a9e95d839e79bf0ab) - 2025-05-23
+* [Commit] [temporal: remove `2 keys` feature  (#15193)](https://github.com/erigontech/erigon/commit/de3e2b7b24a9e44a29a6a42cc81fb5202222f879) - 2025-05-23
+* [Commit] [remove dep on core in sentry_grpc_server_test](https://github.com/erigontech/erigon/commit/478d1025b4fbce611099b3c2a9b97696d3cd6688) - 2025-05-23
+* [Commit] [tests: update EEST to v4.5.0 and add fusaka-devnet-0@v1.0.0 fixtures (#15215)](https://github.com/erigontech/erigon/commit/e13e743dd8493b468a874f213b68a9e5e8a0b10e) - 2025-05-23
+* [Issue] [flaky test: turbo/snapshotsync/freezeblocks/dump_test.go](https://github.com/erigontech/erigon/issues/15231) - 2025-05-23
+* [Commit] [also update to v4.5.0 (Hradčany)](https://github.com/erigontech/erigon/commit/9aefb31e33644b05f86015c3357fb426dc3acddd) - 2025-05-23
+* [Commit] [wip](https://github.com/erigontech/erigon/commit/371ff08fcf7e7097181765a37bbb0c5bd98bef53) - 2025-05-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

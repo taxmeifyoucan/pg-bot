@@ -63,6 +63,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [Revert wrong code on missing receipt](https://github.com/NethermindEth/nethermind/pull/8653) - 2025-05-19
 * [Commit] [ArrayPoolList remove debug stuff](https://github.com/NethermindEth/nethermind/commit/c9bb824a6e0e5ee0abdb93c309f4f15007f86176) - 2025-05-19
 * [Commit] [Fix filter timeouts, set to 15m (#8633)](https://github.com/NethermindEth/nethermind/commit/dc576904facb5cd5e28502c65a12bbd17535aac6) - 2025-05-21
+* [Commit] [construct ExpectedChainIdTxValidator only once](https://github.com/NethermindEth/nethermind/commit/a9419ee4e67734efb2f70bb279dfb41238c96f74) - 2025-05-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

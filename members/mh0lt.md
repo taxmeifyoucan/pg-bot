@@ -121,6 +121,7 @@ Team: Erigon
 * [Pull Request] [Add versioned txn io](https://github.com/erigontech/erigon/pull/15202) - 2025-05-21
 * [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/2fd58add345ccd8d5e1266a694bc56f614591bcb) - 2025-05-21
 * [Commit] [temporal: remove `2 keys` feature  (#15193)](https://github.com/erigontech/erigon/commit/de3e2b7b24a9e44a29a6a42cc81fb5202222f879) - 2025-05-21
+* [Commit] [non-ptr `OnBalanceChange` hook (#15199)](https://github.com/erigontech/erigon/commit/4e942f7cca45dfe44367948a518d71e6d2d91d5a) - 2025-05-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

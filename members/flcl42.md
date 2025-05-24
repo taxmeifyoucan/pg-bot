@@ -88,6 +88,17 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Add osaka](https://github.com/NethermindEth/nethermind/commit/375b6575f66a594dc985ae4cdf0fdf1b55c3a38e) - 2025-05-22
 * [Commit] [Update spec format; fix tests](https://github.com/NethermindEth/nethermind/commit/d3451fc920f181e099909b20cc73ccea6434ed56) - 2025-05-22
 * [Commit] [Update spec format; fix tests](https://github.com/NethermindEth/nethermind/commit/d9f7c8b63e5d85ff5a412fb8d68409200d066469) - 2025-05-22
+* [Commit] [Sync OP chains after Isthmus (#8638)](https://github.com/NethermindEth/nethermind/commit/cd6a0865a5e2873fec336dcbef64b4bbe07b2854) - 2025-05-23
+* [Commit] [Fix merge](https://github.com/NethermindEth/nethermind/commit/e14b81c5729dea72e2125882bb01583787907d37) - 2025-05-23
+* [Commit] [Use preallocated span not list](https://github.com/NethermindEth/nethermind/commit/febfc0f7ab9b9300acd039a9a54b6c30bff484ab) - 2025-05-23
+* [Commit] [Implement OP CL `optimism` RPC namespace (#8667)](https://github.com/NethermindEth/nethermind/commit/7cc14006a5c3eb12daa7b6c97ac2b6689fd8b601) - 2025-05-23
+* [Commit] [Segregate; statics](https://github.com/NethermindEth/nethermind/commit/dc899defc8ecf75943cba6bb822573f7c2d54641) - 2025-05-23
+* [Commit] [Merge branch 'feature/peerdas' into add-bpos](https://github.com/NethermindEth/nethermind/commit/14e5677bb6074d9c2526240965e504e0a69744b7) - 2025-05-23
+* [Commit] [More fixes](https://github.com/NethermindEth/nethermind/commit/1dd6eba55d3cc26d0696fc95845fc2f82506c96b) - 2025-05-23
+* [Commit] [More fixes](https://github.com/NethermindEth/nethermind/commit/671107c84361c55a1da2fd85b4c0402b3cb8d5e9) - 2025-05-23
+* [Commit] [Kute: order by filename (#8657)](https://github.com/NethermindEth/nethermind/commit/17609d607fc29499b95a59f748f3a8f0ee224cf5) - 2025-05-23
+* [Commit] [More fixes](https://github.com/NethermindEth/nethermind/commit/8979437821983f2dd439e9bfe874d5737b11f13a) - 2025-05-23
+* [Commit] [More fixes](https://github.com/NethermindEth/nethermind/commit/1b80fa9af3fc3d640fb53a66bc37262def983fcb) - 2025-05-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

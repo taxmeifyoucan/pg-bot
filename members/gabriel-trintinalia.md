@@ -46,6 +46,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [[fusaka-devnet-0] EIP-7823 Set upper bounds for MODEXP (#8644)](https://github.com/hyperledger/besu/commit/09dd0bd475042c9de2c7f94eee6db1306c64a901) - 2025-05-22
 * [Commit] [refactor: remove `PragueFeeMarket` (#8664)](https://github.com/hyperledger/besu/commit/ec9cdfbdc1e4d629a25384b8fdbeb1644fb2bec4) - 2025-05-22
 * [Pull Request] [refactor: remove `PragueFeeMarket`](https://github.com/hyperledger/besu/pull/8664) - 2025-05-22
+* [Commit] [[fusaka-devnet-0] Peerdas devnet 7 (#8683)](https://github.com/hyperledger/besu/commit/8f040e33c139a9a903b0201e5aed36f01c864023) - 2025-05-23
+* [Pull Request] [[fusaka-devnet-0] Peerdas devnet 7](https://github.com/hyperledger/besu/pull/8683) - 2025-05-23
+* [Commit] [[fusaka-devnet-0] Add bpo definitions (#8682)](https://github.com/hyperledger/besu/commit/d41e32d4dba72564e167c9991c9c36bb301333bd) - 2025-05-23
+* [Pull Request] [[fusaka-devnet-0] Add bpo definitions](https://github.com/hyperledger/besu/pull/8682) - 2025-05-23
+* [Commit] [Bump default for priorized blob tx in the pool (#8680)](https://github.com/hyperledger/besu/commit/6bc1569f3ff5ca6e6a5c9f24f8d2b12d6a6d3be0) - 2025-05-23
+* [Pull Request] [[fusaka-devnet-0] Bump tx pool blob](https://github.com/hyperledger/besu/pull/8680) - 2025-05-23
+* [Pull Request] [[fusaka-devnet-0] merge main into fusaka-devnet-0](https://github.com/hyperledger/besu/pull/8679) - 2025-05-23
+* [Pull Request] [[fusaka-devnet-0] Update fusaka-devnet-0 with main](https://github.com/hyperledger/besu/pull/8678) - 2025-05-23
+* [Commit] [[fusaka-devnet-0] feat: add bpo definitions (#8677)](https://github.com/hyperledger/besu/commit/27725839010dde7b2dfd4aea7675e320ae9e5083) - 2025-05-23
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

@@ -90,6 +90,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [PeerDAS - big data column sidecar validation time](https://github.com/ChainSafe/lodestar/issues/7857) - 2025-05-22
 * [Issue] [PeerDAS: lodestar does not work well with other clients](https://github.com/ChainSafe/lodestar/issues/7856) - 2025-05-22
 * [Pull Request] [feat: run peerdas-devnet-7](https://github.com/ChainSafe/lodestar/pull/7855) - 2025-05-22
+* [Commit] [test: try request/index of the original cayman/bun branch](https://github.com/ChainSafe/lodestar/commit/95efae93b4cb04b7cd93bb0d53375f73eb750375) - 2025-05-23
+* [Commit] [fix: do not refer to light-client on BeaconChain](https://github.com/ChainSafe/lodestar/commit/218cbc7ea7f273ca3b21905e0728a1ae068b4393) - 2025-05-23
+* [Commit] [fix: remove lightclient dependency from beacon-node](https://github.com/ChainSafe/lodestar/commit/939cf6eada45c98ff85e097df8ded7ef7b53efda) - 2025-05-23
+* [Pull Request] [chore: track mesh peers by client](https://github.com/ChainSafe/lodestar/pull/7864) - 2025-05-23
+* [Commit] [chore: assert as-sha256 is used as hasher by ssz (#7394)](https://github.com/ChainSafe/lodestar/commit/821c31922df3ee76ba5fd35fd87a6d81e2364291) - 2025-05-23
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -45,6 +45,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [`AttestationBits` getBits method names clearer](https://github.com/Consensys/teku/pull/9453) - 2025-05-21
 * [Pull Request] [poolV2-CLI](https://github.com/Consensys/teku/pull/9452) - 2025-05-21
 * [Pull Request] [Poolv2 fix pre electra aggregation](https://github.com/Consensys/teku/pull/9480) - 2025-05-22
+* [Commit] [Added warning for genesis state not matching latest block header (#9482)](https://github.com/Consensys/teku/commit/65869daa82a436b4f27197b3bc7844c88b183ae3) - 2025-05-23
+* [Commit] [print getAttestationsForBlock full time (#9479)](https://github.com/Consensys/teku/commit/1376bc9ee0db8aad15b09212e99477e11d9a6b49) - 2025-05-23
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

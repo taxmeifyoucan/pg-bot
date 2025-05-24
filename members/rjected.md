@@ -51,6 +51,7 @@ Team: Reth
 * [Commit] [chore: make clippy happy](https://github.com/paradigmxyz/reth/commit/a1990ad5b27ab7aa9c22ed46b3707bd461d46895) - 2025-05-14
 * [Commit] [fix: correctly set txtype if `blobVersionedHashes` is present (#16182)](https://github.com/paradigmxyz/reth/commit/d5e61c71d9d15cd9148a6499c92db4806fc8755a) - 2025-05-14
 * [Commit] [chore(trie): cargo fmt](https://github.com/paradigmxyz/reth/commit/4f665a451b2ad917ae69184074a62de37ff4fb3a) - 2025-05-15
+* [Issue] [Add info logs for beginning of newPayload requests](https://github.com/paradigmxyz/reth/issues/16448) - 2025-05-23
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

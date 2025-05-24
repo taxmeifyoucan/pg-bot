@@ -243,6 +243,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: bump pr number in changelog](https://github.com/ethereum/execution-spec-tests/commit/8ac15e6df48ed6f59045cc41b1af2d90e8acb1bc) - 2025-05-22
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/51c44ea2106672aee170687b5f6babd2beb14ddf) - 2025-05-22
 * [Commit] [Deployed bceb08f4d9 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/affd6150b880d94da4089d962d1b2b5d4b3edbb0) - 2025-05-22
+* [Commit] [docs: we should include what eels testing (consume) looks like](https://github.com/ethereum/execution-spec-tests/commit/1c044c09c8ce6d116712a5e649743e0995b009ab) - 2025-05-23
+* [Pull Request] [docs: some ideas on moving `./tests` to ethereum/execution-specs](https://github.com/ethereum/execution-spec-tests/pull/1645) - 2025-05-23
+* [Commit] [docs: some ideas on moving `./tests` to ethereum/execution-specs](https://github.com/ethereum/execution-spec-tests/commit/e673aba57a387ec45a5a3b7c6a279a66a231105c) - 2025-05-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

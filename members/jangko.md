@@ -52,3 +52,6 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [eth/69: Disconnect peer when receive invalid blockRangeUpdate](https://github.com/status-im/nimbus-eth1/pull/3300) - 2025-05-19
 * [Commit] [Avoid recompute block hash in getStatus68/69](https://github.com/status-im/nimbus-eth1/commit/b46e0537150a816609322d4005f579394185d7bb) - 2025-05-20
 * [Commit] [add a flag for disableMarchNative (#3286)](https://github.com/status-im/nimbus-eth1/commit/fb38003b90e0ddddeb0dd892ac2a5bdddfdbbb30) - 2025-05-20
+* [Pull Request] [Fix outdated txparse tools](https://github.com/status-im/nimbus-eth1/pull/3324) - 2025-05-23
+* [Pull Request] [Fusaka-devnet-0/EIP-7883: ModExp Gas Cost Increase](https://github.com/status-im/nimbus-eth1/pull/3323) - 2025-05-23
+* [Pull Request] [Fusaka-devnet-0/EIP-7823: Set upper bounds for MODEXP](https://github.com/status-im/nimbus-eth1/pull/3322) - 2025-05-23

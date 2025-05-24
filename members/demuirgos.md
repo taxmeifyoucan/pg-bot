@@ -33,6 +33,7 @@ Team: Nethermind
 * [Commit] [fix returnData opcodes (collision of returnData with returnDataBuffer)](https://github.com/NethermindEth/nethermind/commit/ae5235aa4aa24dcd00d44e7fa260d65139b901ee) - 2025-05-16
 * [Commit] [remove loggin](https://github.com/NethermindEth/nethermind/commit/725751563ec00082ffc04beae5c4dbe982d51995) - 2025-05-17
 * [Commit] [fix EXTCODECOPY/EXTCODESIZE delegation issue](https://github.com/NethermindEth/nethermind/commit/1f6a571233241467d9b1f43e3ed1e30c471589b5) - 2025-05-17
+* [Commit] [fix EXTCODECOPY/EXTCODESIZE delegation issue](https://github.com/NethermindEth/nethermind/commit/1f6a571233241467d9b1f43e3ed1e30c471589b5) - 2025-05-23
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -36,6 +36,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix solution files](https://github.com/NethermindEth/nethermind/commit/016a6d27bebc16c00896a85b5e5cf3d98cf2e345) - 2025-05-20
 * [Commit] [PatriciaTree ignoreMissingDelete is not used (#8646)](https://github.com/NethermindEth/nethermind/commit/056bcd3e088e73e64e17e89cc45e7f70061765f6) - 2025-05-21
 * [Commit] [Fix packages](https://github.com/NethermindEth/nethermind/commit/f40af57512d4907b871e24276c91b009df20add3) - 2025-05-22
+* [Commit] [Refactor `Directory.Build.props` files](https://github.com/NethermindEth/nethermind/commit/cde1eca15372e646836ae456cf67b0529696ef3e) - 2025-05-23
+* [Commit] [Revert `StartupObject` changes](https://github.com/NethermindEth/nethermind/commit/3f0b4a8daabc3a2f0f636f8a67edd22c7053c92a) - 2025-05-23
+* [Commit] [Revert `StartupObject` changes](https://github.com/NethermindEth/nethermind/commit/3105fb83c2385eb59314aaf0af37da800a296538) - 2025-05-23
+* [Commit] [Use static SHA256.HashData (#8673)](https://github.com/NethermindEth/nethermind/commit/1c8707c5a8bef50966aaa5cda0787671ca14499a) - 2025-05-23
+* [Commit] [Update `testenvironments.json`](https://github.com/NethermindEth/nethermind/commit/6d9bd405f56591de9114efee6783c7f4dac578db) - 2025-05-23
+* [Commit] [Remove `.editorconfig`](https://github.com/NethermindEth/nethermind/commit/aeddca9ccc6c933d4cc770323f2dcb25093c0db7) - 2025-05-23
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

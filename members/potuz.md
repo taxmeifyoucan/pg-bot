@@ -51,6 +51,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Use independent context when updating domain data](https://github.com/OffchainLabs/prysm/pull/15268) - 2025-05-12
 * [Commit] [add larger trusted setup](https://github.com/OffchainLabs/prysm/commit/13ff5ec592aa4fc3b65638beac75a24dacac7c16) - 2025-05-13
 * [Commit] [modify state on apply diff](https://github.com/OffchainLabs/prysm/commit/a6d838c991a647b592a06ac76167fc9377fe909a) - 2025-05-14
+* [Commit] [fix pending attestation deserialization](https://github.com/OffchainLabs/prysm/commit/d169864159ce8562d86e074568d50a18830b1fd1) - 2025-05-23
+* [Commit] [fix phase0 diffToState](https://github.com/OffchainLabs/prysm/commit/7e76be4472791dc8f20ee1fdb706a93d6c11cd0b) - 2025-05-23
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

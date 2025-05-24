@@ -19,6 +19,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Pull Request] [plugin-api: TrieLogAccumulator add getAccountValue and getStorageByStorageSlotKey](https://github.com/hyperledger/besu/pull/8556) - 2025-04-16
 * [Pull Request] [Feature/preimage store](https://github.com/hyperledger/besu/pull/7800) - 2025-04-21
 * [Commit] [use correct mining beneficiary in processBlock for blockImport tracing (#8617)](https://github.com/hyperledger/besu/commit/1723877b75125a9c656a6b7abe30781120eafba8) - 2025-05-12
+* [Pull Request] [Remove snapshot transactions, make snapshots immutable](https://github.com/hyperledger/besu/pull/8688) - 2025-05-23
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

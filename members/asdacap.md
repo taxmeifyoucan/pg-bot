@@ -136,6 +136,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix infinite loop in tx pool (#8632)](https://github.com/NethermindEth/nethermind/commit/7c9f010d470a74921846cb43ffa040c65496249d) - 2025-05-21
 * [Commit] [Reducing change](https://github.com/NethermindEth/nethermind/commit/14a1adae4a5e2b50b6c717f724ef384a0a07dc29) - 2025-05-21
 * [Commit] [Reducing change](https://github.com/NethermindEth/nethermind/commit/30c22be0d0236c13f1060052958fa1a6d1d98ccb) - 2025-05-21
+* [Commit] [Improve WebSocketMessageStream (#8676)](https://github.com/NethermindEth/nethermind/commit/257b16f00c5e2e411807d01070575da4afbc37f7) - 2025-05-23
+* [Commit] [Reduce `Forward header starting block number did not changed.` exception to log. (#8683)](https://github.com/NethermindEth/nethermind/commit/0218daf633630706f14799c5729245baca8953ac) - 2025-05-23
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -217,6 +217,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Use static SHA256.HashData](https://github.com/NethermindEth/nethermind/pull/8673) - 2025-05-22
 * [Pull Request] [Use span when slicing arrays](https://github.com/NethermindEth/nethermind/pull/8672) - 2025-05-22
 * [Pull Request] [Increase Ethereum mainet gaslimit default to 60M](https://github.com/NethermindEth/nethermind/pull/8671) - 2025-05-22
+* [Commit] [Fix long running test fuzzing OOM (#8615)](https://github.com/NethermindEth/nethermind/commit/2c6acb02a76f8e2dedc88c8a03eb8b7817f51b82) - 2025-05-23
+* [Commit] [Fix some comments](https://github.com/NethermindEth/nethermind/commit/d0bdc3f245b211c0316e98d407205de76322d84a) - 2025-05-23
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

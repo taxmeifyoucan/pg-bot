@@ -85,6 +85,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rm beacon_chain/el/deposit_contract.nim, replaced by ncli_testnet (#7155)](https://github.com/status-im/nimbus-eth2/commit/6fd972620c0bbb39242ea5861ad7aaa430144090) - 2025-05-20
 * [Commit] [fix](https://github.com/status-im/nimbus-eth2/commit/3661541c04130ba0c234ba1f8d7689220bb09c04) - 2025-05-22
 * [Commit] [rest fix](https://github.com/status-im/nimbus-eth2/commit/97f459d105d45b7af4dd09ae5dc92d5275b0dc01) - 2025-05-22
+* [Commit] [fix most XCannotRaiseY hints (#7176)](https://github.com/status-im/nimbus-eth2/commit/d979fcea069e5bfbec3f3e95d88fb34725dc8b56) - 2025-05-23
+* [Commit] [address review](https://github.com/status-im/nimbus-eth2/commit/bba30d0915bd2d3a271cda3442683b903894899f) - 2025-05-23
+* [Commit] [review comments](https://github.com/status-im/nimbus-eth2/commit/edfc956ab20e44f76aa8dc737a6b8aa098e53d41) - 2025-05-23
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -23,6 +23,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [docs: update CLI options from latest `geth --help` output (#31835)](https://github.com/ethereum/go-ethereum/commit/391d117f192623685dd7b5b2b4aa0472a24cd325) - 2025-05-16
 * [Pull Request] [cmd: remove deprecated LES flags](https://github.com/ethereum/go-ethereum/pull/31838) - 2025-05-16
 * [Commit] [eth/tracers/native: add erc7562 tracer (#31006)](https://github.com/ethereum/go-ethereum/commit/62aa6b2621631f61c51e678948556750eabfc620) - 2025-05-20
+* [Pull Request] [core/vm: fix bls benchmark target](https://github.com/ethereum/go-ethereum/pull/31896) - 2025-05-23
+* [Pull Request] [core/types: add timestamp to derived logs](https://github.com/ethereum/go-ethereum/pull/31887) - 2025-05-23
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

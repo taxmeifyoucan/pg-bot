@@ -93,6 +93,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Add additional benchmark.](https://github.com/OffchainLabs/prysm/commit/5394a51d1f08d3b034f4f9f326ec91e8cb90dd26) - 2025-05-19
 * [Commit] [Fix Kasey's comment.](https://github.com/OffchainLabs/prysm/commit/59c2e59987e098aaede5670a5ffbbfb7a3f7468b) - 2025-05-19
 * [Commit] [`VerifyDataColumnsSidecarKZGProofs`: Add benchmarks.](https://github.com/OffchainLabs/prysm/commit/a1a5f1599002a32a347e275451f626482a6d1b6e) - 2025-05-19
+* [Commit] [bbb](https://github.com/OffchainLabs/prysm/commit/82c5596e43c3ee9f9a5d97e7be802ab5c803829b) - 2025-05-23
+* [Commit] [bbb](https://github.com/OffchainLabs/prysm/commit/42d88fd98940676f891d18aafd7ae8b5dd9f18ff) - 2025-05-23
+* [Commit] [bbb](https://github.com/OffchainLabs/prysm/commit/f0aca3ad2d3943ca1452d07dec0f8d7ee7119a48) - 2025-05-23
+* [Commit] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/commit/4736a426858462613d4070f79b9eb763956da1ff) - 2025-05-23
+* [Commit] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/commit/95570cebb8c9afe582704e9089f380aba2a1997d) - 2025-05-23
+* [Pull Request] [PeerDAS: Implement P2P](https://github.com/OffchainLabs/prysm/pull/15347) - 2025-05-23
+* [Commit] [Fix wording/typo in lc spec tests (#15307)](https://github.com/OffchainLabs/prysm/commit/b20821dd8ef25d6ea43e5e76449308a45566b98b) - 2025-05-23
+* [Commit] [refactor: replace context.WithCancel with t.Context in tests (#15233)](https://github.com/OffchainLabs/prysm/commit/3dfd3d041657d83b4a4024067530d5c4c365f9d0) - 2025-05-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

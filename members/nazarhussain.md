@@ -108,6 +108,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: split `produceBlockBody` monolithic to smaller helpers](https://github.com/ChainSafe/lodestar/pull/7844) - 2025-05-19
 * [Commit] [Add comments to explain cache](https://github.com/ChainSafe/lodestar/commit/a36f8c5cfa01a894f91a5ca9a21f57002895b5a6) - 2025-05-20
 * [Commit] [Update the workflow path to use same cache path](https://github.com/ChainSafe/lodestar/commit/b0e955b092a0e1b185f995e9904a7665ea9076e3) - 2025-05-20
+* [Commit] [chore: upgrade Node.js version in devcontainer configuration (#7865)](https://github.com/ChainSafe/lodestar/commit/99033e3bd9e7a9e73de99f2a6b3e299f59c76440) - 2025-05-23
+* [Commit] [Update .github/actions/setup-and-build/action.yml](https://github.com/ChainSafe/lodestar/commit/6082d10ded285a81e1c98cff9e03dde1dc63d23e) - 2025-05-23
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

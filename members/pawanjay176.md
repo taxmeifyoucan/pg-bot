@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Change default EngineState to online](https://github.com/sigp/lighthouse/pull/7417) - 2025-05-08
+* [Issue] [Reevaluate mock testing](https://github.com/sigp/lighthouse/issues/7513) - 2025-05-23
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

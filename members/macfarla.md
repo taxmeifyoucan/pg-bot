@@ -51,6 +51,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [fusaka devnet 0 refTests](https://github.com/hyperledger/besu/pull/8663) - 2025-05-22
 * [Commit] [unstable options help - ensure no duplicates (#8662)](https://github.com/hyperledger/besu/commit/03670452af76d868a3d0edab0aa6058e7a18df1f) - 2025-05-22
 * [Pull Request] [unstable options help - ensure no duplicates](https://github.com/hyperledger/besu/pull/8662) - 2025-05-22
+* [Commit] [Revert "updates for pyro to use a config file (#8659)" (#8684)](https://github.com/hyperledger/besu/commit/85e183fddf5e51b03518c48be47169d2a8859650) - 2025-05-23
+* [Pull Request] [Revert "updates for pyro to use a config file (#8659)"](https://github.com/hyperledger/besu/pull/8684) - 2025-05-23
+* [Commit] [fix in docker file (#8681)](https://github.com/hyperledger/besu/commit/df5cc669ac07c098cd7fe48e418dbab1487cc5b2) - 2025-05-23
+* [Pull Request] [fix in docker file](https://github.com/hyperledger/besu/pull/8681) - 2025-05-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025
