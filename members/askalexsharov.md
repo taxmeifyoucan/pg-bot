@@ -1859,6 +1859,46 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d176cc9accb8d78163ba2107ed8d12591d6455e2) - 2025-05-23
 * [Commit] [save](https://github.com/erigontech/erigon/commit/86c156d5b83a7e22cdba4db871372d4de89eccd8) - 2025-05-23
 * [Commit] [[r30] mapReduce: final txn must be executed in reduecer because require "all receipts of block"  (#15206)](https://github.com/erigontech/erigon/commit/af6b5510588405d4671fb02b8eaad69fdaf9240e) - 2025-05-23
+* [Pull Request] [[e30] agg: .ef files garbage didn't cleanup](https://github.com/erigontech/erigon/pull/15242) - 2025-05-24
+* [Pull Request] [agg: .ef files garbage didn't cleanup](https://github.com/erigontech/erigon/pull/15241) - 2025-05-24
+* [Commit] [Less verbose go tests (ci too crowded) (#15238)](https://github.com/erigontech/erigon/commit/c8ad41fe899a695845f2b9020b16c19fd3f79c81) - 2025-05-24
+* [Pull Request] [bt: separate keyBuf and valBuf](https://github.com/erigontech/erigon/pull/15239) - 2025-05-24
+* [Commit] [clean-up: remove common2 import alias (#15235)](https://github.com/erigontech/erigon/commit/706441f8882c699d11950e48cd78940c82497854) - 2025-05-24
+* [Commit] [evm: non-interface IntraBlockState (#15237)](https://github.com/erigontech/erigon/commit/e01bf2aba976ef1985b4dc559a1eb422b2cb24f2) - 2025-05-24
+* [Commit] [rpctest eth_getLogs no-duplicates chk (#15233)](https://github.com/erigontech/erigon/commit/735abe475677b465a091b550af3c92092c72c84b) - 2025-05-24
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/662b1b76e2fbeafb3ade7c28eca5d17af58a2fe1) - 2025-05-24
+* [Commit] [Improve error visibility in stream handler by replacing TODO with log.Warn (#14805)](https://github.com/erigontech/erigon/commit/411785841a0117f03c89db67f630dc197b70b741) - 2025-05-24
+* [Commit] [Add times to future block errors (#15184)](https://github.com/erigontech/erigon/commit/e39e3cf47f60ee1d1fcea56c9c70df6513c508cb) - 2025-05-24
+* [Commit] [tests: update EEST to v4.5.0 and add fusaka-devnet-0@v1.0.0 fixtures (#15215)](https://github.com/erigontech/erigon/commit/e13e743dd8493b468a874f213b68a9e5e8a0b10e) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/62a4695396a45d314161630f2ff68463dd83b35a) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/47bf635c4b329559dc413719c5acb1f72cee6a25) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3ecae4e950e683afcda94627936597769c9f82fd) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cf58dfe68c649fe63d7f2d090751eeba563c4055) - 2025-05-24
+* [Commit] [ci: fix flakiness in TestBlockTracker (#15227)](https://github.com/erigontech/erigon/commit/a18ca5948a7bb585f168540198c9d72e836d7760) - 2025-05-24
+* [Commit] [Add Instruction printer (#15203)](https://github.com/erigontech/erigon/commit/4a0132628950887faa0bbf39a124c9b3069cf9e4) - 2025-05-24
+* [Pull Request] [Less verbose go tests (ci too crowded)](https://github.com/erigontech/erigon/pull/15238) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c25cf65d09b8f939b152157b5b9c38bf778c9750) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/794b2fbc6c9c5e2891cee92eae122adcb565f1e1) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fd1b1d875d081ce3b053504306688298e37044a6) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/582cab21a99d3d3b3b9b7945ef22ce097db8b9db) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a1f6b227615dc10a33d624211d69bc584152af2f) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8713b5caf414fada5eb5c877c608ccb1c4d4c049) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a84d8af0bc1fcb9a3325e8ddf1cc608e469e2f86) - 2025-05-24
+* [Pull Request] [evm: non-interface IntraBlockState](https://github.com/erigontech/erigon/pull/15237) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/73563bb9e6d46f6ec7e2febccf7bccc5c79e2bb8) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/91ef6bffac76ab9b88bbefa3ae83b8370c6535f8) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2bc0ada7f8954a9e847fcc901bb328b541eceb33) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0701bb3729b77ed1491fb2360f89ce5902282106) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6ef561aa196a5a2442b15778881db3fffb7ac566) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/008ceddfbcfaa1b2efe435863e5c448d6f3a7fa8) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c28fee4c61f6f7352c76382b3e6d0a0b3aa400fc) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/77a2f0e2515d0ee9782502eb48f4b964fc277c72) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7eb00332523da5fa04141c51dbea1b040f597d40) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/003d25a489c9acca4c497f4fd83dc382374ea85d) - 2025-05-24
+* [Issue] [downloader: doesn't see existing .torrent on disk](https://github.com/erigontech/erigon/issues/15236) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c32636863645672206baeff9e6dc15e8c106aa05) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/61f5c81e36d63b36366b101152b1e795a0412164) - 2025-05-24
+* [Commit] [dir improvements: turn `p2p` into a module (#14889)](https://github.com/erigontech/erigon/commit/e995c74ed949996c6205287bc4b3d24b00c9fc41) - 2025-05-24
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

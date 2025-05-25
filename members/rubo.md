@@ -42,6 +42,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Use static SHA256.HashData (#8673)](https://github.com/NethermindEth/nethermind/commit/1c8707c5a8bef50966aaa5cda0787671ca14499a) - 2025-05-23
 * [Commit] [Update `testenvironments.json`](https://github.com/NethermindEth/nethermind/commit/6d9bd405f56591de9114efee6783c7f4dac578db) - 2025-05-23
 * [Commit] [Remove `.editorconfig`](https://github.com/NethermindEth/nethermind/commit/aeddca9ccc6c933d4cc770323f2dcb25093c0db7) - 2025-05-23
+* [Commit] [Update packages (#8641)](https://github.com/NethermindEth/nethermind/commit/fc61eaa1fd7a26752f66a1fc03caf8a99906b5e6) - 2025-05-24
+* [Commit] [Revert NUnit.Analyzers update](https://github.com/NethermindEth/nethermind/commit/6ec50687ba8e4f916eba8ec81a5027b4d3e6943e) - 2025-05-24
+* [Commit] [Revert NUnit3TestAdapter update](https://github.com/NethermindEth/nethermind/commit/1d4ef24403b9f6497289383441efac0106bb3379) - 2025-05-24
+* [Commit] [Update packages](https://github.com/NethermindEth/nethermind/commit/348a52751758cb7faac4870c1a8aebbc550af469) - 2025-05-24
+* [Commit] [Update System.CommandLine package (#8639)](https://github.com/NethermindEth/nethermind/commit/95c6efb8140dce67c464b1a5069b69cb7d557e63) - 2025-05-24
+* [Commit] [Hide OP-CL specific options (#8684)](https://github.com/NethermindEth/nethermind/commit/b580ce67e9ffb2e5d1f93dea727f5a884246af92) - 2025-05-24
+* [Commit] [Add `testenvironments.json` to solution](https://github.com/NethermindEth/nethermind/commit/1d511c271399c169d598ece1d98bbf6a0ab3b2af) - 2025-05-24
+* [Commit] [Fix solution item paths](https://github.com/NethermindEth/nethermind/commit/25f1af3fc759aaa0339bf378319048205a9f7178) - 2025-05-24
+* [Commit] [Move `tools` back to the root](https://github.com/NethermindEth/nethermind/commit/325653726d1433972cf837ab5dd3e4699a73268c) - 2025-05-24
+* [Commit] [Move `tools` back to the root](https://github.com/NethermindEth/nethermind/commit/44135ddede5c612ffc581f83df8fad752dd6b566) - 2025-05-24
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

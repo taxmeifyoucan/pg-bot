@@ -165,6 +165,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [test: add mixed lodestar<>teku to kurtosis sim test config](https://github.com/ChainSafe/lodestar/pull/7862) - 2025-05-22
 * [Commit] [chore: track mesh peers by client (#7864)](https://github.com/ChainSafe/lodestar/commit/4493e684733e3741e5c20238b65e1be0cb3fc5cb) - 2025-05-23
 * [Commit] [chore: remove node_modules from actions cache (#7820)](https://github.com/ChainSafe/lodestar/commit/7a77881728dce98ea8cbd78f25b6e28e10dfc1ea) - 2025-05-23
+* [Commit] [chore: sanity check genesis block root against state latest block root (#7863)](https://github.com/ChainSafe/lodestar/commit/ac2653dd8b767a24f9b1580977f8f560b1e3352d) - 2025-05-24
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

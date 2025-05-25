@@ -130,6 +130,7 @@ Team: Reth
 * [Commit] [perf(trie): do not shift when not needed in `slice`](https://github.com/paradigmxyz/reth/commit/1815345d0a0e474022689a9ea9ce5de4e58fb042) - 2025-05-23
 * [Commit] [chore(trie): more const methods](https://github.com/paradigmxyz/reth/commit/00b4c3c7cf3e421be4b0a8e6efe8ee12296d4edf) - 2025-05-23
 * [Commit] [perf(trie): different optimizations](https://github.com/paradigmxyz/reth/commit/48d9029af41f7e93191d98ce020d8e7fc75e774d) - 2025-05-23
+* [Commit] [bench(trie): `PackedNibbles::truncate`](https://github.com/paradigmxyz/reth/commit/b6bf0fab2023bd5e6aefc494e4820eaaf8a3abfa) - 2025-05-24
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

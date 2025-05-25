@@ -75,3 +75,5 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/a78b0af1bc68cd089660053deb44686ff05b0d3b) - 2025-05-20
 * [Pull Request] [Portal Bridge: Restructure portal bridge folders](https://github.com/status-im/nimbus-eth1/pull/3308) - 2025-05-20
 * [Pull Request] [Portal Client: Support sending only single offer in neighborhoodGossip and randomGossip](https://github.com/status-im/nimbus-eth1/pull/3314) - 2025-05-22
+* [Commit] [Add log radius to portal node status log.](https://github.com/status-im/nimbus-eth1/commit/3e3541bfbc3464c38e78d94e026095b482524f03) - 2025-05-24
+* [Pull Request] [Portal Client: Improve node status log](https://github.com/status-im/nimbus-eth1/pull/3327) - 2025-05-24

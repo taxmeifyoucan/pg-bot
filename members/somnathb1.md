@@ -131,6 +131,7 @@ Team: Erigon
 * [Commit] [Add getters for blobs, commitments, proofs and fix mock](https://github.com/erigontech/erigon/commit/f6c8b52d15ca5b4a211e0db75f32edfa9df46974) - 2025-05-23
 * [Pull Request] [ Fusaka: Add EngineAPI and Txpool changes ](https://github.com/erigontech/erigon/pull/15222) - 2025-05-23
 * [Pull Request] [ Add Engine API methods and basic validation ](https://github.com/erigontech/erigon/pull/15221) - 2025-05-23
+* [Commit] [Add params back](https://github.com/erigontech/erigon/commit/85d0bb6e3a55620f716a4519fea6c985fd683b0e) - 2025-05-24
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

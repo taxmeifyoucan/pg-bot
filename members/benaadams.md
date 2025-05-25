@@ -219,6 +219,25 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Increase Ethereum mainet gaslimit default to 60M](https://github.com/NethermindEth/nethermind/pull/8671) - 2025-05-22
 * [Commit] [Fix long running test fuzzing OOM (#8615)](https://github.com/NethermindEth/nethermind/commit/2c6acb02a76f8e2dedc88c8a03eb8b7817f51b82) - 2025-05-23
 * [Commit] [Fix some comments](https://github.com/NethermindEth/nethermind/commit/d0bdc3f245b211c0316e98d407205de76322d84a) - 2025-05-23
+* [Commit] [Change back to readonly field](https://github.com/NethermindEth/nethermind/commit/15f417f04128393880d4f3bda197ab56f77c5fb0) - 2025-05-24
+* [Commit] [Move to VirtualMachine](https://github.com/NethermindEth/nethermind/commit/face015a03d44c311204ce8b86f10c8e4ef0a4d1) - 2025-05-24
+* [Commit] [Keep as property](https://github.com/NethermindEth/nethermind/commit/6a195f3e60ced943a946d9a9bea62b5ee23aadcb) - 2025-05-24
+* [Commit] [Pass through 32](https://github.com/NethermindEth/nethermind/commit/bd72e686384f134c9d275a56eca4ebd2d3c9e1fd) - 2025-05-24
+* [Commit] [Pass through push](https://github.com/NethermindEth/nethermind/commit/bb098ae80ffbbe964a08b6be75bac5825393dbcb) - 2025-05-24
+* [Commit] [Add Unsafe back](https://github.com/NethermindEth/nethermind/commit/010dd754b06821a4b368604319edd90aa63ecf16) - 2025-05-24
+* [Commit] [Optimize code lookup](https://github.com/NethermindEth/nethermind/commit/f285e431ed844dacdb8b025c38e731507cff3ee1) - 2025-05-24
+* [Commit] [ExtCodeHash](https://github.com/NethermindEth/nethermind/commit/646be24426e8f061b544a613bef67824f08c5f76) - 2025-05-24
+* [Commit] [Balance, SelfBalance](https://github.com/NethermindEth/nethermind/commit/c5aaff44f4a3689b4ca6fae0da0f605db4a33dba) - 2025-05-24
+* [Commit] [Optimize loop](https://github.com/NethermindEth/nethermind/commit/4658b7e601ae6d5424a918fb722cf85f7d5e602d) - 2025-05-24
+* [Commit] [Optimize `UInt256` opcodes](https://github.com/NethermindEth/nethermind/commit/bc9d80a4bd9edfb84e0b1efc3c26d026a56e69a7) - 2025-05-24
+* [Commit] [Use EvmStack.WordSize const](https://github.com/NethermindEth/nethermind/commit/b328712ba9de994433026b21816b50eda0c7c8b3) - 2025-05-24
+* [Commit] [over comment](https://github.com/NethermindEth/nethermind/commit/812b88debfb6647a266c974aabb4ab32d670a6dd) - 2025-05-24
+* [Commit] [Optimize alignment calc](https://github.com/NethermindEth/nethermind/commit/6f56dcb2ef5fb56242ffd588ca8737ea7e9f45b5) - 2025-05-24
+* [Commit] [Align stack memory](https://github.com/NethermindEth/nethermind/commit/158b60bbeeeb64100a03c082c5bff2f9f503fbee) - 2025-05-24
+* [Commit] [Read-only method](https://github.com/NethermindEth/nethermind/commit/ef8f508b54f04f4baa37993884690187d92f7593) - 2025-05-24
+* [Commit] [Less Unsafe](https://github.com/NethermindEth/nethermind/commit/d2aca983052d051fd052c51fdc26d62af25dca90) - 2025-05-24
+* [Pull Request] [Optimize OpCodes](https://github.com/NethermindEth/nethermind/pull/8687) - 2025-05-24
+* [Commit] [Optimize PREVRANDAO opcode](https://github.com/NethermindEth/nethermind/commit/d74568979a529c361fcb3001c4ae87032d29a036) - 2025-05-24
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

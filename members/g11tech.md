@@ -33,6 +33,22 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Consolidate and Update Developer Docs (#4079)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/3bb0617fc6e0c75110c0c198288ab2788f6dab2e) - 2025-05-18
 * [Pull Request] [common: add 5 bpo hardforks for blobSchedule specification](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4085) - 2025-05-18
 * [Pull Request] [experiment: crate crypto lib eval](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4087) - 2025-05-19
+* [Commit] [fix tsc issues](https://github.com/ethereumjs/ethereumjs-monorepo/commit/e5792171ffbde05ad8a7d3739f82f8cbea0810b4) - 2025-05-24
+* [Commit] [Fix outdated hardware wallet signing example (#4084)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/98cb6842436f7e8105a8584cd1b57912da064ef8) - 2025-05-24
+* [Commit] [lint](https://github.com/ethereumjs/ethereumjs-monorepo/commit/1aa7b765fde98a81e25f4672f8eb069c1604d77f) - 2025-05-24
+* [Commit] [remove c-kzg](https://github.com/ethereumjs/ethereumjs-monorepo/commit/56b12d5d4c31d69f3e9a67cc5b2695bc0a4c5175) - 2025-05-24
+* [Commit] [use the new microsigner lib in 7594 tx spec](https://github.com/ethereumjs/ethereumjs-monorepo/commit/23ca64db950758df8eaa3bf7e8a9aa2292bfc9a4) - 2025-05-24
+* [Commit] [better word error](https://github.com/ethereumjs/ethereumjs-monorepo/commit/22194e6a668ff104767ceeabac68ef4cdcb8f7e1) - 2025-05-24
+* [Commit] [active some more codeflow for escaping lint errors](https://github.com/ethereumjs/ethereumjs-monorepo/commit/9c6128f35074cd868e85ee6bf96f892acd5c2d31) - 2025-05-24
+* [Commit] [fix statemanager breaking spec](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8553e2ab7dda634d2c35d9d515a187f41376a0be) - 2025-05-24
+* [Commit] [zero down to the issues in getpayloadv5 spec](https://github.com/ethereumjs/ethereumjs-monorepo/commit/f357ac4b691c2e3bcc5f12350b6345b301a4f62f) - 2025-05-24
+* [Commit] [add the validations in buildblock for proper blob format tx](https://github.com/ethereumjs/ethereumjs-monorepo/commit/bb821badecfeabd27fcb7850405bbfb94002a169) - 2025-05-24
+* [Commit] [fix the issues with trustedsetup by using fast peerdas](https://github.com/ethereumjs/ethereumjs-monorepo/commit/1964aa3217d4c8056700a5397917f14449f6548c) - 2025-05-24
+* [Commit] [lint](https://github.com/ethereumjs/ethereumjs-monorepo/commit/fc31e352ad93d4d234948a3cb3cff884d4914a44) - 2025-05-24
+* [Commit] [remove unnecessary docker pkg](https://github.com/ethereumjs/ethereumjs-monorepo/commit/904869a20ae998694cae2dd44c05629af5ebab38) - 2025-05-24
+* [Commit] [e2store: replace snappy-stream dependency (#4046)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/09a83bd3094b35dc8e9f80ed5c62aa6a8689bfd1) - 2025-05-24
+* [Commit] [fix kzg spec by proxing wasm cell methods to jskzg](https://github.com/ethereumjs/ethereumjs-monorepo/commit/fa74e1b89f68a074843f8865a5524b5d7787cefc) - 2025-05-24
+* [Commit] [update the microkzg signer to 0.15 and fix the imports everywhere](https://github.com/ethereumjs/ethereumjs-monorepo/commit/315c4b70277d04b6e6e522476b24f61b3290bb15) - 2025-05-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Further simplify DataColumnSidecarsByRoot request](https://github.com/ethereum/consensus-specs/pull/4323) - 2025-05-16
 ## Q1 2025

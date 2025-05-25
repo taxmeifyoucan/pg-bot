@@ -138,6 +138,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reducing change](https://github.com/NethermindEth/nethermind/commit/30c22be0d0236c13f1060052958fa1a6d1d98ccb) - 2025-05-21
 * [Commit] [Improve WebSocketMessageStream (#8676)](https://github.com/NethermindEth/nethermind/commit/257b16f00c5e2e411807d01070575da4afbc37f7) - 2025-05-23
 * [Commit] [Reduce `Forward header starting block number did not changed.` exception to log. (#8683)](https://github.com/NethermindEth/nethermind/commit/0218daf633630706f14799c5729245baca8953ac) - 2025-05-23
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/665c115e77c53a6ba0a6a17196d6f85c717e10ed) - 2025-05-25
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/3f032a3f1d99eb320332469459dcd7420c930547) - 2025-05-25
+* [Commit] [Fix infinite loop in tx pool (#8632)](https://github.com/NethermindEth/nethermind/commit/7c9f010d470a74921846cb43ffa040c65496249d) - 2025-05-25
+* [Commit] [Refactor projects configuration (#8659)](https://github.com/NethermindEth/nethermind/commit/4da056b685783c4d3446f6a3a554051863034a8f) - 2025-05-25
+* [Commit] [Update src/Nethermind/Nethermind.Core.Test/Blockchain/TestBlockchain.cs](https://github.com/NethermindEth/nethermind/commit/72adacd46f40da5dd3974b4a4c0af667b03ed7d0) - 2025-05-25
+* [Commit] [Refactor/Reduce `AuraNethermindApi` usage. (#8686)](https://github.com/NethermindEth/nethermind/commit/9abf4d2f5337baa8812360c6d89f63dca9add6e9) - 2025-05-24
+* [Commit] [Update src/Nethermind/Nethermind.Merge.AuRa/InitializationSteps/InitializeBlockchainAuRaMerge.cs](https://github.com/NethermindEth/nethermind/commit/5b669086b439df610184f658c40fc35a699127e3) - 2025-05-24
+* [Commit] [Update src/Nethermind/Nethermind.Consensus.AuRa/InitializationSteps/InitializeBlockchainAuRa.cs](https://github.com/NethermindEth/nethermind/commit/ad326cea7a73c2376299270b439c5fb6f9558ed7) - 2025-05-24
+* [Commit] [Reduce diff](https://github.com/NethermindEth/nethermind/commit/ad72c19b12e9fa35c80e11f7b0da32354ace673b) - 2025-05-24
+* [Pull Request] [Refactor/make all blockprocessor arg required](https://github.com/NethermindEth/nethermind/pull/8688) - 2025-05-24
+* [Commit] [Reduce code](https://github.com/NethermindEth/nethermind/commit/8b39bf63a7fd8c91fe3c20bd243dda0c8dd16180) - 2025-05-24
+* [Pull Request] [Refactor/Reduce `AuraNethermindApi` usage.](https://github.com/NethermindEth/nethermind/pull/8686) - 2025-05-24
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -146,6 +146,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Exit on first slashing (#7091)](https://github.com/status-im/nimbus-eth2/commit/ee32a848baca50502d70e0239a5f29190e7d715f) - 2025-05-21
 * [Pull Request] [bump nim-libp2p to v1.10.1](https://github.com/status-im/nimbus-eth2/pull/7188) - 2025-05-21
 * [Commit] [Bump tornado from 6.4.2 to 6.5.1 in /ncli (#7192)](https://github.com/status-im/nimbus-eth2/commit/796afdde94e2efd9636845ab427189880d37d6af) - 2025-05-23
+* [Commit] [fix most XCannotRaiseY hints (#7176)](https://github.com/status-im/nimbus-eth2/commit/d979fcea069e5bfbec3f3e95d88fb34725dc8b56) - 2025-05-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

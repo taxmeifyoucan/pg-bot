@@ -45,6 +45,10 @@ Team: Portal Network (EF)
 * [Pull Request] [feat: implement ephemeral bridge](https://github.com/ethereum/trin/pull/1846) - 2025-05-22
 * [Commit] [feat: add support for Beacon API Event Stream (#1848)](https://github.com/ethereum/trin/commit/7f71cc239fe4dd89a9a9196071ed24553a05dccd) - 2025-05-23
 * [Commit] [feat: add select_random_peers to census (#1850)](https://github.com/ethereum/trin/commit/9f329859a34625a692d562228c7e9d30dd6e3de3) - 2025-05-23
+* [Commit] [chore(deps): weekly `cargo update` (#1856)](https://github.com/ethereum/trin/commit/d5f95e0d62eca5c606222593bb8705bc74b42426) - 2025-05-25
+* [Commit] [fix: ci failing](https://github.com/ethereum/trin/commit/5ae42f07292e09ac31d84b48410c589b58efbf13) - 2025-05-25
+* [Commit] [feat(trin-execution): replace EraManager with E2HSManager (#1855)](https://github.com/ethereum/trin/commit/47fa17163780e87df9c896b8c0f689173dc29799) - 2025-05-24
+* [Pull Request] [feat(trin-execution): replace EraManager with E2HSManager](https://github.com/ethereum/trin/pull/1855) - 2025-05-24
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

@@ -321,6 +321,22 @@ Team: Reth
 * [Pull Request] [ci: run op-kurtosis every 6hrs](https://github.com/paradigmxyz/reth/pull/16432) - 2025-05-23
 * [Pull Request] [chore: bump revm and op-alloy](https://github.com/paradigmxyz/reth/pull/16429) - 2025-05-23
 * [Issue] [Add op-reth pre-bedrock historical rpc forwarder client](https://github.com/paradigmxyz/reth/issues/16428) - 2025-05-23
+* [Pull Request] [feat: add exex feature to op-reth](https://github.com/paradigmxyz/reth/pull/16459) - 2025-05-24
+* [Commit] [chore: bump alloy 1.0.7 (#16456)](https://github.com/paradigmxyz/reth/commit/9e667da3e8b8ce67f4ed590878d5fce0e6d7d87c) - 2025-05-24
+* [Commit] [chore: rm outdated unreachable patterns (#16457)](https://github.com/paradigmxyz/reth/commit/ba880f9927a68bc1a40f1b71e60777cb45ef5ba0) - 2025-05-24
+* [Pull Request] [chore: rm outdated unreachable patterns](https://github.com/paradigmxyz/reth/pull/16457) - 2025-05-24
+* [Commit] [chore: bump alloy 1.0.7](https://github.com/paradigmxyz/reth/commit/61c61b4ebaf6b5cdf80615b97e6c00889da57ac5) - 2025-05-24
+* [Pull Request] [chore: bump alloy 1.0.7](https://github.com/paradigmxyz/reth/pull/16456) - 2025-05-24
+* [Commit] [chore: add clone impl for engine api types (#16454)](https://github.com/paradigmxyz/reth/commit/f1db19980b05eaf824dd9f87423aa99750355898) - 2025-05-24
+* [Commit] [chore: simplify deposit check (#16452)](https://github.com/paradigmxyz/reth/commit/034b3b8c574b091371e1227578d1a9d0aa82ad03) - 2025-05-24
+* [Commit] [docs: added parent_beacon_block_root requirement and corrected build-block (#16453)](https://github.com/paradigmxyz/reth/commit/10900147de0fbfcc5f878a6acc3086ddf6cd0fef) - 2025-05-24
+* [Commit] [chore: make clippy happy (#16455)](https://github.com/paradigmxyz/reth/commit/ddcd30f400fad1f7883b8b6fd81b9e184231d682) - 2025-05-24
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/87b828ccc60751af2bf8a7b30a3b7a5df1b6809e) - 2025-05-24
+* [Commit] [Update crates/rpc/rpc-api/src/engine.rs](https://github.com/paradigmxyz/reth/commit/26996fbda3e489fe78eff0f50860c94541d47040) - 2025-05-24
+* [Commit] [chore: fix docs](https://github.com/paradigmxyz/reth/commit/bb7a48624330b8197338217d730bf877ac452358) - 2025-05-24
+* [Commit] [chore: make clippy happy](https://github.com/paradigmxyz/reth/commit/d4bbe4dbd0b4f0a75de0644dda5db1a12e947abe) - 2025-05-24
+* [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/16455) - 2025-05-24
+* [Pull Request] [chore: add clone impl for engine api types](https://github.com/paradigmxyz/reth/pull/16454) - 2025-05-24
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

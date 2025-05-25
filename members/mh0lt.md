@@ -122,6 +122,16 @@ Team: Erigon
 * [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/2fd58add345ccd8d5e1266a694bc56f614591bcb) - 2025-05-21
 * [Commit] [temporal: remove `2 keys` feature  (#15193)](https://github.com/erigontech/erigon/commit/de3e2b7b24a9e44a29a6a42cc81fb5202222f879) - 2025-05-21
 * [Commit] [non-ptr `OnBalanceChange` hook (#15199)](https://github.com/erigontech/erigon/commit/4e942f7cca45dfe44367948a518d71e6d2d91d5a) - 2025-05-23
+* [Commit] [eip-2935 config](https://github.com/erigontech/erigon/commit/f3f3400f55d832b777ea6a55d1475d88d8537574) - 2025-05-24
+* [Commit] [eip-2537 config](https://github.com/erigontech/erigon/commit/1ab5f9b0df2985cd67acf5511098e8cb527655bb) - 2025-05-24
+* [Commit] [Env vars to manage parallel execution and block tracing (#15188)](https://github.com/erigontech/erigon/commit/cd15bd02b45dfe3d30589d798a639e40022e7748) - 2025-05-24
+* [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/de9e27d310bd11ee15ccda6da33a7f1e63f511f5) - 2025-05-24
+* [Commit] [rpcdaemon: Fix issue 13238 ots get transaction by sender and nonce (#15207)](https://github.com/erigontech/erigon/commit/6c36378d4d00e9d6fe8a1c7d2736f0559bb995d4) - 2025-05-24
+* [Commit] [use aggtx for files](https://github.com/erigontech/erigon/commit/9a96a4e47f1bf1b799501f74cf436e200b450311) - 2025-05-24
+* [Pull Request] [Mutli goroutine Shared Domains with external tx's ](https://github.com/erigontech/erigon/pull/15240) - 2025-05-24
+* [Commit] [fix lint issues](https://github.com/erigontech/erigon/commit/9b0ec8bfd1e72fc2f7f7e497b65ad38584c89026) - 2025-05-24
+* [Commit] [fix test compilation](https://github.com/erigontech/erigon/commit/70a67f2efc53c0dbb47c50920c94997428baf84f) - 2025-05-24
+* [Commit] [fix multiple cursor test to reflect multi dbtx model for DomainRoTx](https://github.com/erigontech/erigon/commit/f5c43020887d0b9ae2c757e307dcfff51a704d21) - 2025-05-24
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
