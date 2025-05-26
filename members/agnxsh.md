@@ -88,6 +88,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix most XCannotRaiseY hints (#7176)](https://github.com/status-im/nimbus-eth2/commit/d979fcea069e5bfbec3f3e95d88fb34725dc8b56) - 2025-05-23
 * [Commit] [address review](https://github.com/status-im/nimbus-eth2/commit/bba30d0915bd2d3a271cda3442683b903894899f) - 2025-05-23
 * [Commit] [review comments](https://github.com/status-im/nimbus-eth2/commit/edfc956ab20e44f76aa8dc737a6b8aa098e53d41) - 2025-05-23
+* [Commit] [update restest rules](https://github.com/status-im/nimbus-eth2/commit/b020321252357fabc2307348a3aa75c68df09b9e) - 2025-05-25
+* [Commit] [some manual consensus spec v1.6.0-alpha.0 URL updates (#7193)](https://github.com/status-im/nimbus-eth2/commit/7b1e1e47cf4339298cad1798fed8141b1f9a091d) - 2025-05-25
+* [Commit] [reflect new quarantine changes](https://github.com/status-im/nimbus-eth2/commit/da3a5edc18c24dab094750fd52ff9c7ca9599eaa) - 2025-05-25
+* [Commit] [Bump nim-bearssl to v0.2.6 (#7177)](https://github.com/status-im/nimbus-eth2/commit/b069774ee4f399155a2d2c7f51caa732b7978eb7) - 2025-05-25
+* [Commit] [removed data column quarantine](https://github.com/status-im/nimbus-eth2/commit/f17627904192932533d5fea53b0b0146eb49b74b) - 2025-05-25
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

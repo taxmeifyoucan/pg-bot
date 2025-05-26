@@ -101,6 +101,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [PeerDAS: Implement P2P](https://github.com/OffchainLabs/prysm/pull/15347) - 2025-05-23
 * [Commit] [Fix wording/typo in lc spec tests (#15307)](https://github.com/OffchainLabs/prysm/commit/b20821dd8ef25d6ea43e5e76449308a45566b98b) - 2025-05-23
 * [Commit] [refactor: replace context.WithCancel with t.Context in tests (#15233)](https://github.com/OffchainLabs/prysm/commit/3dfd3d041657d83b4a4024067530d5c4c365f9d0) - 2025-05-23
+* [Commit] [Fix Terence's comment.](https://github.com/OffchainLabs/prysm/commit/62cbe2e37a0d9671098ec059ab87958774c4bb52) - 2025-05-25
+* [Commit] [Fix Terence's comment.](https://github.com/OffchainLabs/prysm/commit/7b60605d5b99b5d0c96bdf89116da8554d206596) - 2025-05-25
+* [Commit] [Fix Terence's comment](https://github.com/OffchainLabs/prysm/commit/9c712b59ab856263d0fb982775a55e14fafd420f) - 2025-05-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

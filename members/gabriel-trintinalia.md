@@ -55,6 +55,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [[fusaka-devnet-0] merge main into fusaka-devnet-0](https://github.com/hyperledger/besu/pull/8679) - 2025-05-23
 * [Pull Request] [[fusaka-devnet-0] Update fusaka-devnet-0 with main](https://github.com/hyperledger/besu/pull/8678) - 2025-05-23
 * [Commit] [[fusaka-devnet-0] feat: add bpo definitions (#8677)](https://github.com/hyperledger/besu/commit/27725839010dde7b2dfd4aea7675e320ae9e5083) - 2025-05-23
+* [Commit] [Remove prague and osaka targeting gas limit calculator (#8691)](https://github.com/hyperledger/besu/commit/3c50c809e522c9e4c8b6101f686d327604be3b69) - 2025-05-26
+* [Pull Request] [refactor: remove Prague and Osaka targeting gas limit calculator](https://github.com/hyperledger/besu/pull/8691) - 2025-05-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

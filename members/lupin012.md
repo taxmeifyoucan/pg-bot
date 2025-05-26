@@ -19,3 +19,4 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [cmd/evm: Hotfix. Disable new tests `evm` for Windows built. (#14981)](https://github.com/erigontech/erigon/commit/1057dc741c4932aa1f3be5985ef5d6b263b27577) - 2025-05-16
 * [Pull Request] [rpcdaemon: debug_getModifiedAccountsByHash() reads only HeaderNumber not blocks with txs and senders](https://github.com/erigontech/erigon/pull/15119) - 2025-05-18
 * [Pull Request] [rpcdaemon: Fix issue 13238 ots get transaction by sender and nonce](https://github.com/erigontech/erigon/pull/15207) - 2025-05-22
+* [Commit] [intersept: support Desc order](https://github.com/erigontech/erigon/commit/3a9b457f143b79591665c837eeb4da17e82039bb) - 2025-05-25

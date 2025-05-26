@@ -66,6 +66,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Remove unused protobuf import](https://github.com/OffchainLabs/prysm/pull/15300) - 2025-05-18
 
 * [Commit] [Fix e2e test](https://github.com/OffchainLabs/prysm/commit/84ab56e97cfc15858f74fe5e04823af1ee62d9f4) - 2025-05-19
+* [Pull Request] [Fix seen blob cache size at start up](https://github.com/OffchainLabs/prysm/pull/15348) - 2025-05-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Update fulu p2p spec for BPO](https://github.com/ethereum/consensus-specs/issues/4331) - 2025-05-19
 ## Q1 2025

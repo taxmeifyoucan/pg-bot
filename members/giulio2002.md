@@ -192,6 +192,20 @@ Team: Erigon
 * [Pull Request] [Less aggressive download](https://github.com/erigontech/erigon/pull/15243) - 2025-05-24
 * [Commit] [[r31] persistent receipts in eth_getLogs used wrong txNum (#15102)](https://github.com/erigontech/erigon/commit/a82f36d2cb30f9e64a957b1d39fe01382e6ebff4) - 2025-05-24
 * [Commit] [save](https://github.com/erigontech/erigon/commit/971bb7932ae9687357d90bb1016924ec2802be60) - 2025-05-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ff63073f7f4ad5e834b2a234dbd3967485cc4468) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b8a3a103e478e7c1121e4093288a1c3d849ff152) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/622aef1053b3197f7d6f59ddbe9d8012bb4264eb) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cb773c696fa0688d6af8e6f0d1c301723b4ade74) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/618935a2624d65ee4fa1e0011f6bd44ab0d674ea) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/40b6f733b569dc1d08a28dd9892e2215e2dffea4) - 2025-05-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2afe4347353d21bd679a2cab00621d90c580cad3) - 2025-05-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2d075374ca3b356c11e5d472bfdaa444328b3f95) - 2025-05-25
+* [Pull Request] [WIP: Improved block downloader](https://github.com/erigontech/erigon/pull/15255) - 2025-05-25
+* [Commit] [cl: fix builder client mock (#15251)](https://github.com/erigontech/erigon/commit/84523263ffa766c6156ea6aaf9984f44cd0b0d52) - 2025-05-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bf88f5f1da1af3a524b83f5ffb3f19a1104006c3) - 2025-05-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e96f597f1792f055dd3c2b16f52646c7b8c7a69c) - 2025-05-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/252ba80cdbc079b66a10dfcf60f3eb7270394577) - 2025-05-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ed57a8f9879187b2eb2714e114d02c8b78d3e7ad) - 2025-05-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -82,6 +82,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Split hdiff metrics by hot/cold](https://github.com/sigp/lighthouse/commit/c12dd1c7af91987d4954c5f7b7f3502b52ed2247) - 2025-05-20
 * [Issue] [Revert fork version fallback used by `/eth/v1/beacon/blob_sidecars/{block_id}`](https://github.com/sigp/lighthouse/issues/7496) - 2025-05-20
 * [Pull Request] [Fix blob download from checkpointz servers](https://github.com/sigp/lighthouse/pull/7495) - 2025-05-20
+* [Pull Request] [Update minimal spec to v1.5.0 version](https://github.com/sigp/lighthouse/pull/7517) - 2025-05-25
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

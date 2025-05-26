@@ -52,6 +52,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix solution item paths](https://github.com/NethermindEth/nethermind/commit/25f1af3fc759aaa0339bf378319048205a9f7178) - 2025-05-24
 * [Commit] [Move `tools` back to the root](https://github.com/NethermindEth/nethermind/commit/325653726d1433972cf837ab5dd3e4699a73268c) - 2025-05-24
 * [Commit] [Move `tools` back to the root](https://github.com/NethermindEth/nethermind/commit/44135ddede5c612ffc581f83df8fad752dd6b566) - 2025-05-24
+* [Commit] [Update packages (#8641)](https://github.com/NethermindEth/nethermind/commit/fc61eaa1fd7a26752f66a1fc03caf8a99906b5e6) - 2025-05-25
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

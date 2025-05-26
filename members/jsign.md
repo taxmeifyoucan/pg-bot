@@ -79,6 +79,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [bump gas limit](https://github.com/ethereum/execution-spec-tests/commit/1e1abce1e9f14c1633a0741ddf042fbf649207df) - 2025-05-19
 * [Commit] [rename parameter](https://github.com/ethereum/execution-spec-tests/commit/c9b5a606a7a6a33e8121ebe5cd7190c7509c7349) - 2025-05-19
 * [Commit] [add comment](https://github.com/ethereum/execution-spec-tests/commit/ed3cce723a8fd8d4efee24111a3cc95747da0628) - 2025-05-19
+* [Commit] [zkevm: add empty block execution (#1650)](https://github.com/ethereum/execution-spec-tests/commit/c322f37d60b8eba81fe19e3e5b4daa78adbe4334) - 2025-05-25
+* [Pull Request] [zkevm: add empty block execution](https://github.com/ethereum/execution-spec-tests/pull/1650) - 2025-05-25
+* [Commit] [keep original test too](https://github.com/ethereum/execution-spec-tests/commit/890ee44cb0c876fd83d3a8946e9a65039eeb00f8) - 2025-05-25
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

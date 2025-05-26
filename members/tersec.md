@@ -147,6 +147,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [bump nim-libp2p to v1.10.1](https://github.com/status-im/nimbus-eth2/pull/7188) - 2025-05-21
 * [Commit] [Bump tornado from 6.4.2 to 6.5.1 in /ncli (#7192)](https://github.com/status-im/nimbus-eth2/commit/796afdde94e2efd9636845ab427189880d37d6af) - 2025-05-23
 * [Commit] [fix most XCannotRaiseY hints (#7176)](https://github.com/status-im/nimbus-eth2/commit/d979fcea069e5bfbec3f3e95d88fb34725dc8b56) - 2025-05-24
+* [Commit] [bump nim-eth2-scenarios to 01ea1e970672072c8af7a186939b9a78e56dadb7 (#7194)](https://github.com/status-im/nimbus-eth2/commit/367f45678892cb34d2b7818fa6d443ab473c03a5) - 2025-05-25
+* [Pull Request] [bump nim-eth2-scenarios to 01ea1e970672072c8af7a186939b9a78e56dadb7](https://github.com/status-im/nimbus-eth2/pull/7194) - 2025-05-25
+* [Pull Request] [some manual consensus spec v1.6.0-alpha.0 URL updates](https://github.com/status-im/nimbus-eth2/pull/7193) - 2025-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 
@@ -171,6 +174,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix outdated txparse tools (#3324)](https://github.com/status-im/nimbus-eth1/commit/2bb6ff03d5fbe684e95daac0578b69b37d14ebd4) - 2025-05-23
 * [Commit] [Fusaka-devnet-0/EIP-7883: ModExp Gas Cost Increase (#3323)](https://github.com/status-im/nimbus-eth1/commit/86daa7846b18c40f846a32c790a9ad6d7972b053) - 2025-05-23
 * [Commit] [Fusaka-devnet-0/EIP-7823: Set upper bounds for MODEXP (#3322)](https://github.com/status-im/nimbus-eth1/commit/a92c26735d525e0069b0b4880ecc2bedf9fd897f) - 2025-05-23
+* [Commit] [add arm64 platform detection](https://github.com/status-im/nimbus-eth1/commit/5d8ad6ac36c4e0b6dc9dea82e784ba468038e01c) - 2025-05-25
+* [Pull Request] [rm useless windeps.dll downloading; make syncer batch size --debug](https://github.com/status-im/nimbus-eth1/pull/3328) - 2025-05-25
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

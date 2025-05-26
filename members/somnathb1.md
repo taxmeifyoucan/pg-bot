@@ -132,6 +132,9 @@ Team: Erigon
 * [Pull Request] [ Fusaka: Add EngineAPI and Txpool changes ](https://github.com/erigontech/erigon/pull/15222) - 2025-05-23
 * [Pull Request] [ Add Engine API methods and basic validation ](https://github.com/erigontech/erigon/pull/15221) - 2025-05-23
 * [Commit] [Add params back](https://github.com/erigontech/erigon/commit/85d0bb6e3a55620f716a4519fea6c985fd683b0e) - 2025-05-24
+* [Commit] [Update imports](https://github.com/erigontech/erigon/commit/9a3b87a7b966054dc93b4df8d00c935db552eddc) - 2025-05-25
+* [Commit] [Fix test](https://github.com/erigontech/erigon/commit/27dea0d3b78ca0d439f86b66a400bb844e4ad919) - 2025-05-25
+* [Pull Request] [cl: fix builder client mock](https://github.com/erigontech/erigon/pull/15251) - 2025-05-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

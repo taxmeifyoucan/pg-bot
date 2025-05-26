@@ -49,6 +49,8 @@ Team: Portal Network (EF)
 * [Commit] [fix: ci failing](https://github.com/ethereum/trin/commit/5ae42f07292e09ac31d84b48410c589b58efbf13) - 2025-05-25
 * [Commit] [feat(trin-execution): replace EraManager with E2HSManager (#1855)](https://github.com/ethereum/trin/commit/47fa17163780e87df9c896b8c0f689173dc29799) - 2025-05-24
 * [Pull Request] [feat(trin-execution): replace EraManager with E2HSManager](https://github.com/ethereum/trin/pull/1855) - 2025-05-24
+* [Commit] [chore: fix confusing comment in E2HSManager (#1857)](https://github.com/ethereum/trin/commit/022a646c4d4c37cf8e68a59f7a5526195ce85374) - 2025-05-25
+* [Pull Request] [chore: fix confusing comment in E2HSManager](https://github.com/ethereum/trin/pull/1857) - 2025-05-25
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

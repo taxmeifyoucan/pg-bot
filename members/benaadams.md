@@ -238,6 +238,19 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Less Unsafe](https://github.com/NethermindEth/nethermind/commit/d2aca983052d051fd052c51fdc26d62af25dca90) - 2025-05-24
 * [Pull Request] [Optimize OpCodes](https://github.com/NethermindEth/nethermind/pull/8687) - 2025-05-24
 * [Commit] [Optimize PREVRANDAO opcode](https://github.com/NethermindEth/nethermind/commit/d74568979a529c361fcb3001c4ae87032d29a036) - 2025-05-24
+* [Commit] [OP CL L1 Validation on startup (#8610)](https://github.com/NethermindEth/nethermind/commit/d6bbb8a1841dbe0fef97ec5a9905f7f00f011dcf) - 2025-05-25
+* [Commit] [Reintroduce Jit time branch elimination (#8692)](https://github.com/NethermindEth/nethermind/commit/fe0fdd8ae524d5a36a4fd8894a424d09952c410c) - 2025-05-25
+* [Commit] [Benchmarks](https://github.com/NethermindEth/nethermind/commit/787a2c7ba85887d75bbf849a8d41af2bf18fb611) - 2025-05-25
+* [Commit] [Benchmarks](https://github.com/NethermindEth/nethermind/commit/1e37a5f9ba3416afce69151230463613eaa004b4) - 2025-05-25
+* [Commit] [Move to core](https://github.com/NethermindEth/nethermind/commit/a84240546aef84d8582f3c92ccff1e68ac928185) - 2025-05-25
+* [Commit] [Compile issues](https://github.com/NethermindEth/nethermind/commit/96d25596037de4eb519be2a14858f0c8c75f6379) - 2025-05-25
+* [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/79a00474d9b797f8722885b0011e3f3728d2741e) - 2025-05-25
+* [Pull Request] [Reintroduce Jit time branch elimination](https://github.com/NethermindEth/nethermind/pull/8692) - 2025-05-25
+* [Commit] [Perform stack writes as single 32 vector (#8691)](https://github.com/NethermindEth/nethermind/commit/7b0fdad7a3f9b8c85687db6d409a48dde48b94fe) - 2025-05-25
+* [Commit] [Make common method](https://github.com/NethermindEth/nethermind/commit/bf1fd5111fe947cabe57cb56495a4476f393230e) - 2025-05-25
+* [Commit] [Use shared method](https://github.com/NethermindEth/nethermind/commit/17d85ec7d77674cc79afd0d4530041e863fa8edf) - 2025-05-25
+* [Pull Request] [Perform stack writes as single 32 vector](https://github.com/NethermindEth/nethermind/pull/8691) - 2025-05-25
+* [Commit] [Optimize 12 x 20byte  & 32byte OpCodes (#8687)](https://github.com/NethermindEth/nethermind/commit/4e535f26d1eac00f633b9fdad174f63590301b5d) - 2025-05-25
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025
