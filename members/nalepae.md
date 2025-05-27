@@ -104,6 +104,20 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix Terence's comment.](https://github.com/OffchainLabs/prysm/commit/62cbe2e37a0d9671098ec059ab87958774c4bb52) - 2025-05-25
 * [Commit] [Fix Terence's comment.](https://github.com/OffchainLabs/prysm/commit/7b60605d5b99b5d0c96bdf89116da8554d206596) - 2025-05-25
 * [Commit] [Fix Terence's comment](https://github.com/OffchainLabs/prysm/commit/9c712b59ab856263d0fb982775a55e14fafd420f) - 2025-05-25
+* [Commit] [Fix Terence's comment.](https://github.com/OffchainLabs/prysm/commit/95abf8dfce992e99f712cbe5674f8be8ccfcab5f) - 2025-05-26
+* [Commit] [PeerDAS: Implement blockchain.](https://github.com/OffchainLabs/prysm/commit/80ad939d6dc038511722ce62edf9fcf8de2c6f45) - 2025-05-26
+* [Commit] [PeerDAS: Implement blockchain.](https://github.com/OffchainLabs/prysm/commit/b4c3cfcb7af41441d1bf3dc9478141f109086297) - 2025-05-26
+* [Commit] [PeerDAS: Implement blockchain.](https://github.com/OffchainLabs/prysm/commit/a2f1aa20558cc1f5341a854040e8c9b8f66a2c8b) - 2025-05-26
+* [Commit] [PeerDAS: Implement blockchain.](https://github.com/OffchainLabs/prysm/commit/4de2bad5c1df0f561677db7f4a1bcd889ed29e62) - 2025-05-26
+* [Commit] [PeerDAS: Implement blockchain.](https://github.com/OffchainLabs/prysm/commit/1b6bb7cf5572258ab78a972a32bfed83bf020632) - 2025-05-26
+* [Commit] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/commit/7bff7362d325efbec479803eef041f155a03c7fe) - 2025-05-26
+* [Pull Request] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/pull/15350) - 2025-05-26
+* [Commit] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/commit/f72e46b88d498e14e519210cfdbc2edca3fa7e37) - 2025-05-26
+* [Commit] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/commit/f666d3ffbbe04f98a84c1c95a77a8fef018371a7) - 2025-05-26
+* [Commit] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/commit/50fc11a47cc47614f19282de080b81259160ab05) - 2025-05-26
+* [Commit] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/commit/253ef4fc83fdb0519f9ac5e4d7d7609aabeab181) - 2025-05-26
+* [Commit] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/commit/ac39e0174633d47c7d0148bf50bce5f1c57ffefe) - 2025-05-26
+* [Commit] [Add support for nightly test vectors (#15312)](https://github.com/OffchainLabs/prysm/commit/f8d895a5eddd654c2357a55b85a7858c9fdc85d8) - 2025-05-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

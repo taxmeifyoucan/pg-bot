@@ -188,6 +188,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [flaky test: turbo/snapshotsync/freezeblocks/dump_test.go](https://github.com/erigontech/erigon/issues/15231) - 2025-05-23
 * [Commit] [also update to v4.5.0 (Hradčany)](https://github.com/erigontech/erigon/commit/9aefb31e33644b05f86015c3357fb426dc3acddd) - 2025-05-23
 * [Commit] [wip](https://github.com/erigontech/erigon/commit/371ff08fcf7e7097181765a37bbb0c5bd98bef53) - 2025-05-23
+* [Commit] [Fix Integration tests after turning p2p into a module (#15270)](https://github.com/erigontech/erigon/commit/14a6a089e28f5f7e7da11cfca8488281cfb179a2) - 2025-05-26
+* [Pull Request] [Fix Integration tests after turning p2p into a module](https://github.com/erigontech/erigon/pull/15270) - 2025-05-26
+* [Commit] [Fix Integration tests after turning p2p into a module](https://github.com/erigontech/erigon/commit/0a12974b31641025dfcd5c8b2670b09849de19ae) - 2025-05-26
+* [Issue] [Chain-specific default gas limits](https://github.com/erigontech/erigon/issues/15267) - 2025-05-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

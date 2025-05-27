@@ -150,6 +150,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Refactor/make all blockprocessor arg required](https://github.com/NethermindEth/nethermind/pull/8688) - 2025-05-24
 * [Commit] [Reduce code](https://github.com/NethermindEth/nethermind/commit/8b39bf63a7fd8c91fe3c20bd243dda0c8dd16180) - 2025-05-24
 * [Pull Request] [Refactor/Reduce `AuraNethermindApi` usage.](https://github.com/NethermindEth/nethermind/pull/8686) - 2025-05-24
+* [Commit] [Fix/aura hive startup (#8694)](https://github.com/NethermindEth/nethermind/commit/99e074e44cc5ec0ebb79d868c908714cd51b3964) - 2025-05-26
+* [Pull Request] [Fix/aura hive startup](https://github.com/NethermindEth/nethermind/pull/8694) - 2025-05-26
+* [Commit] [Remove unnecessary change](https://github.com/NethermindEth/nethermind/commit/1cff754f451c4f52c1fc63ff90e4d4170485f836) - 2025-05-26
+* [Commit] [Optimize 12 x 20byte  & 32byte OpCodes (#8687)](https://github.com/NethermindEth/nethermind/commit/4e535f26d1eac00f633b9fdad174f63590301b5d) - 2025-05-26
+* [Commit] [Address taiko](https://github.com/NethermindEth/nethermind/commit/ad73fd43d440c64296f1a0d29b252561d7d21f00) - 2025-05-26
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -139,6 +139,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [feat: introduce OpComponentsBuilder](https://github.com/paradigmxyz/reth/pull/16431) - 2025-05-23
 * [Commit] [feat: introduce OpComponentsBuilder](https://github.com/paradigmxyz/reth/commit/3d4310f856ef7f372026ccf6442a66882770346e) - 2025-05-23
 * [Issue] [Use relaxed type constraints in Op components builder](https://github.com/paradigmxyz/reth/issues/16430) - 2025-05-23
+* [Commit] [fix(db): correct ClientVersion serialization size tracking (#16427)](https://github.com/paradigmxyz/reth/commit/0c7bd1e5dd59852e119b0ec6033d9f44888ae1c3) - 2025-05-26
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/f107830fd2edb750f35ce15c11e57fc899aded11) - 2025-05-26
+* [Commit] [recover hash calculation](https://github.com/paradigmxyz/reth/commit/699a81494c43d59f8fd53eb42fee9baca34bba2b) - 2025-05-26
+* [Commit] [reorder](https://github.com/paradigmxyz/reth/commit/2173f58b979a49dd604525225c86d3cc315d618c) - 2025-05-26
+* [Pull Request] [chore: run hive every 6h](https://github.com/paradigmxyz/reth/pull/16472) - 2025-05-26
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/6fce85b1af17b24ff7c8adbeb98e61d406b3b310) - 2025-05-26
+* [Commit] [increase cahche mode block threshold to 250](https://github.com/paradigmxyz/reth/commit/1357bc902e5edd07ddabb3e8ad2073680d60dbe2) - 2025-05-26
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

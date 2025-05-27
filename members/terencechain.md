@@ -67,6 +67,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 * [Commit] [Fix e2e test](https://github.com/OffchainLabs/prysm/commit/84ab56e97cfc15858f74fe5e04823af1ee62d9f4) - 2025-05-19
 * [Pull Request] [Fix seen blob cache size at start up](https://github.com/OffchainLabs/prysm/pull/15348) - 2025-05-25
+* [Commit] [Fix tests](https://github.com/OffchainLabs/prysm/commit/f3f3ab35e36902fd2e401046807bf319f547aaa3) - 2025-05-26
+* [Commit] [PeerDAS: Implement the validation pipeline for data column sidecars received via gossip (#15310)](https://github.com/OffchainLabs/prysm/commit/00204ffa6aabb579c1ad12330bddfad122869144) - 2025-05-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Update fulu p2p spec for BPO](https://github.com/ethereum/consensus-specs/issues/4331) - 2025-05-19
 ## Q1 2025

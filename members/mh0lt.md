@@ -136,6 +136,8 @@ Team: Erigon
 * [Commit] [pip-60 config](https://github.com/erigontech/erigon/commit/99192dae4c0a9b9ee806fcd2d08429a8d23f67f3) - 2025-05-25
 * [Commit] [pip-58 config](https://github.com/erigontech/erigon/commit/ae8af517c97ecdc43a9258b86ca16bfb7be77419) - 2025-05-25
 * [Commit] [eip-7632 config](https://github.com/erigontech/erigon/commit/b4618e92b0d5163d818a97d05221e6619fb4346f) - 2025-05-25
+* [Commit] [Sentinel: Ignore goodbye err (#15244)](https://github.com/erigontech/erigon/commit/b92eada1c1fd5a789a96ad94b406f86281677967) - 2025-05-26
+* [Pull Request] [Remove polygon sync stage](https://github.com/erigontech/erigon/pull/15276) - 2025-05-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

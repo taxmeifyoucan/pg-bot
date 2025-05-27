@@ -163,6 +163,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Fix RIP-7560 gas usage (#14819)](https://github.com/erigontech/erigon/commit/9fd816f6951138e0c35dafde7460c9b8faa298b2) - 2025-05-23
 * [Issue] [update the appendable doc (baseNum -> rooNum)](https://github.com/erigontech/erigon/issues/15226) - 2025-05-23
 * [Pull Request] [don't delete state-salt file on rm-all-state-snapshots](https://github.com/erigontech/erigon/pull/15223) - 2025-05-23
+* [Pull Request] [small fix to prevent crash](https://github.com/erigontech/erigon/pull/15268) - 2025-05-26
+* [Commit] [forkable agg: merge logic (#14908)](https://github.com/erigontech/erigon/commit/9daf5dc5d60be976ef9a366b047c2bf4f64510fd) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/09548f7e4241b5c77f6328675933a43357592d16) - 2025-05-26
+* [Commit] [wip: E3/foreignkey dbg (#15265)](https://github.com/erigontech/erigon/commit/2833fb9c85f2f181c81b074aa9f37cde61b6618a) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/56178e7645186fdc26ccdfe27c05e317c9465e75) - 2025-05-26
+* [Pull Request] [E3/foreignkey dbg](https://github.com/erigontech/erigon/pull/15265) - 2025-05-26
+* [Commit] [[r30] madv: high-level (#15139)](https://github.com/erigontech/erigon/commit/3d6ae750c7d3378852872ab5d37a22512710c808) - 2025-05-26
+* [Pull Request] [agg: foreign key concept (data-dependency) (#15060)](https://github.com/erigontech/erigon/pull/15264) - 2025-05-26
+* [Pull Request] [Revert "agg: foreign key concept (data-dependency)"](https://github.com/erigontech/erigon/pull/15262) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0ed6e442767a8080d98db0e872c354ed4b5932c1) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/02f472d6dc874e6121ddea98721861f15eb51198) - 2025-05-26
+* [Pull Request] [wip: forkable agg gc](https://github.com/erigontech/erigon/pull/15258) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ab2c2c8fc4db7b4888171ed747f7346ede904990) - 2025-05-26
+* [Issue] [forkable agg: handle garbage files](https://github.com/erigontech/erigon/issues/15257) - 2025-05-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

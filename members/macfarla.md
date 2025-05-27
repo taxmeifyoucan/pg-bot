@@ -55,6 +55,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [Revert "updates for pyro to use a config file (#8659)"](https://github.com/hyperledger/besu/pull/8684) - 2025-05-23
 * [Commit] [fix in docker file (#8681)](https://github.com/hyperledger/besu/commit/df5cc669ac07c098cd7fe48e418dbab1487cc5b2) - 2025-05-23
 * [Pull Request] [fix in docker file](https://github.com/hyperledger/besu/pull/8681) - 2025-05-23
+* [Commit] [Increase the default for blob prioritized transactions (#8695)](https://github.com/hyperledger/besu/commit/421244cdefcb516a681ab863f66e5e6a42819a60) - 2025-05-26
+* [Commit] [remove sync status permissioning provider (#8598)](https://github.com/hyperledger/besu/commit/ccb55f2714c959cfd863b88b35322f439c5832ef) - 2025-05-26
+* [Commit] [remove smart contract permissioning config options (#8597)](https://github.com/hyperledger/besu/commit/8a0191a710cc003d2ad41cf494fecd010a187407) - 2025-05-26
+* [Commit] [updates for pyro to use a config file (#8686)](https://github.com/hyperledger/besu/commit/5039e169fc40309bd6553e17f57275635cb674b0) - 2025-05-26
+* [Commit] [refactor: add blob schedule to protocol spec builder (#8658)](https://github.com/hyperledger/besu/commit/3a486391f6cb016948c3a6b8289a4a1295c6daf5) - 2025-05-26
+* [Commit] [Disabled London fee market flaky test  (#8692)](https://github.com/hyperledger/besu/commit/4d5ff3ed9ce9fed9b0054cbd3a3159fbf40b4196) - 2025-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

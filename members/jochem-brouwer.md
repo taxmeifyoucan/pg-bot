@@ -16,6 +16,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [EIP-5920: add clarification to ban opcode in STATIC mode](https://github.com/ethereum/EIPs/pull/9589) - 2025-04-03
 * [Pull Request] [Update EIP-6404: Add some suggestions or corrections](https://github.com/ethereum/EIPs/pull/9788) - 2025-05-17
 
+* [Pull Request] [Update EIP-7883: clarify using `diff`](https://github.com/ethereum/EIPs/pull/9828) - 2025-05-26
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Bench/worst bytecode raised max codes size](https://github.com/ethereum/execution-spec-tests/pull/1649) - 2025-05-25
 ## Q1 2025

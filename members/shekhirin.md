@@ -131,6 +131,32 @@ Team: Reth
 * [Commit] [chore(trie): more const methods](https://github.com/paradigmxyz/reth/commit/00b4c3c7cf3e421be4b0a8e6efe8ee12296d4edf) - 2025-05-23
 * [Commit] [perf(trie): different optimizations](https://github.com/paradigmxyz/reth/commit/48d9029af41f7e93191d98ce020d8e7fc75e774d) - 2025-05-23
 * [Commit] [bench(trie): `PackedNibbles::truncate`](https://github.com/paradigmxyz/reth/commit/b6bf0fab2023bd5e6aefc494e4820eaaf8a3abfa) - 2025-05-24
+* [Commit] [logging for DatabaseHashedStorageCursor::next](https://github.com/paradigmxyz/reth/commit/ed51c92b2ab6f22efb71b39380169733c2f59722) - 2025-05-26
+* [Commit] [nah wasn't a fix, log more](https://github.com/paradigmxyz/reth/commit/8b7cff44780ae5bb7de29e436e4b1d24c5022103) - 2025-05-26
+* [Commit] [fix?](https://github.com/paradigmxyz/reth/commit/95f087fd3dc3f6a6df74c053fe0946b3b68c6092) - 2025-05-26
+* [Commit] [add log for in memory storage trie cursor](https://github.com/paradigmxyz/reth/commit/3eca373ff8b1dea7fd8e794c1ea2f4a205e0868c) - 2025-05-26
+* [Commit] [more trie walker logs](https://github.com/paradigmxyz/reth/commit/da7e7a4f44cfe9442d548b5fe87dfe3b8e13b668) - 2025-05-26
+* [Commit] [wrap in span](https://github.com/paradigmxyz/reth/commit/71bacae6f417e6c9cb1f36873852d01d927ef41f) - 2025-05-26
+* [Commit] [log delete check](https://github.com/paradigmxyz/reth/commit/b0cf3a9f9d21e692a9f1b0419616faf6a0b29ca9) - 2025-05-26
+* [Commit] [log delete check](https://github.com/paradigmxyz/reth/commit/b38bc9a767759ea45aecc3465c54d3c178777eaa) - 2025-05-26
+* [Commit] [log delete check](https://github.com/paradigmxyz/reth/commit/8d57412aa61095093c53f070e9496c53656c55a7) - 2025-05-26
+* [Commit] [log nodes in storage root](https://github.com/paradigmxyz/reth/commit/f49a36321672cec7a021931a682c10dbdf905137) - 2025-05-26
+* [Commit] [log moreeee](https://github.com/paradigmxyz/reth/commit/5845a10be9b866385ce4a5d2cad466a8e02591d8) - 2025-05-26
+* [Commit] [log sorted storage](https://github.com/paradigmxyz/reth/commit/ea3fab2d0b9c4a38f46fb38fac7e99b45bb6d386) - 2025-05-26
+* [Commit] [add same log to multiproof config](https://github.com/paradigmxyz/reth/commit/2418ebb2b59ded77474793cf39e41d82a5ae53a3) - 2025-05-26
+* [Commit] [add chain info to log](https://github.com/paradigmxyz/reth/commit/c15febb34377fc83a1058b1503d2fc64275d74ac) - 2025-05-26
+* [Commit] [add more fields](https://github.com/paradigmxyz/reth/commit/c0b3ccba0b0295dc30e428a1bf15ad86362d8046) - 2025-05-26
+* [Commit] [add logs deeper in parallel state root](https://github.com/paradigmxyz/reth/commit/f0ca1962bd10be3926e826e06192f3cafb783ef2) - 2025-05-26
+* [Commit] [log just for one account](https://github.com/paradigmxyz/reth/commit/05773386c1f675498670a85ad02b32c5bbb8c4ac) - 2025-05-26
+* [Commit] [add trie input log for parallel state root](https://github.com/paradigmxyz/reth/commit/6ad9099e6809c6bb8236aa6d633de8002841e056) - 2025-05-26
+* [Commit] [split commit and unwind lgos](https://github.com/paradigmxyz/reth/commit/4e9811225de0d8c62a174b78bb2e4fc1e3e83d57) - 2025-05-26
+* [Commit] [split commit and unwind lgos](https://github.com/paradigmxyz/reth/commit/7413a4aae0a024a5203fab1147b554e48914ec31) - 2025-05-26
+* [Commit] [add log when writing trie updates](https://github.com/paradigmxyz/reth/commit/c041dcfadefa17febe498234c66400513f53ef08) - 2025-05-26
+* [Commit] [Revert "Revert "Revert "revertme: do not run parallel state root"""](https://github.com/paradigmxyz/reth/commit/c21a03514c21108cadc863cabe9c5ee0b142549f) - 2025-05-26
+* [Commit] [add trie input logs](https://github.com/paradigmxyz/reth/commit/c2da140fe40132a251a19e73b06203dcad3d2cb8) - 2025-05-26
+* [Commit] [add trie input logs](https://github.com/paradigmxyz/reth/commit/fc9bb98480c1dd73a5a3ac10e6df6d9df0edf582) - 2025-05-26
+* [Commit] [add trie input logs](https://github.com/paradigmxyz/reth/commit/b268e7f25ed424ec02ba8602f932659ad2eb11af) - 2025-05-26
+* [Commit] [add trie input logs](https://github.com/paradigmxyz/reth/commit/b6ec6a917a639bf24204f336ae670c61a21495ae) - 2025-05-26
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

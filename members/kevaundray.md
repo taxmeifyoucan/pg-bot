@@ -50,6 +50,8 @@ Team: Consensus R&D (EF)
 * [Pull Request] [zkevm: Add marker for bls tests](https://github.com/ethereum/execution-spec-tests/pull/1514) - 2025-04-30
 * [Issue] [zkevm: Add zkevm marker on all bls12-381 tests](https://github.com/ethereum/execution-spec-tests/issues/1527) - 2025-05-02
 * [Issue] [Create Blockchain tests that contain arithmetic opcodes that consume the whole block.](https://github.com/ethereum/execution-spec-tests/issues/1571) - 2025-05-07
+* [Issue] [Create Blockchain tests that contain 1-parameter set opcodes that consume the whole block](https://github.com/ethereum/execution-spec-tests/issues/1657) - 2025-05-26
+* [Issue] [Create Blockchain tests that contain Block and Chain Info opcodes that consume the whole block](https://github.com/ethereum/execution-spec-tests/issues/1651) - 2025-05-26
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -82,6 +82,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Revert "test: double sim test timeout"](https://github.com/ChainSafe/lodestar/commit/7a6679bcd54b716b15d1097f529517d68247708e) - 2025-05-21
 * [Commit] [chore: fix check-types](https://github.com/ChainSafe/lodestar/commit/7026c0986cd6709793b9a337ef4162161f333ad1) - 2025-05-22
 * [Commit] [refactor: DRY test code](https://github.com/ChainSafe/lodestar/commit/b430b93d73807d65a78d3565e648fe2172d2d199) - 2025-05-22
+* [Commit] [test: add blob timing unit test](https://github.com/ChainSafe/lodestar/commit/12184e58fb7b9ddd2071b383f884652f433b8c78) - 2025-05-26
+* [Commit] [fix: use Buffer.compare](https://github.com/ChainSafe/lodestar/commit/e7f9ae987ac64563608b56cfc3a960ab4d705144) - 2025-05-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

@@ -39,6 +39,8 @@ Team: Geth
 * [Commit] [core/txpool: add explicit max blob count limit (#31837)](https://github.com/ethereum/go-ethereum/commit/20ad4f500e7fafab93f6d94fa171a5c0309de6ce) - 2025-05-22
 * [Commit] [internal/era: update link to documentation (#31879)](https://github.com/ethereum/go-ethereum/commit/1fd806d3e59b1da29297611e0046df0bc742658d) - 2025-05-23
 * [Commit] [core/vm: fix cherry-picking](https://github.com/ethereum/go-ethereum/commit/07321c6d9c639ea381f5770b7f35a8e9aa813ba8) - 2025-05-23
+* [Commit] [core/vm: fix bls benchmark (#31896)](https://github.com/ethereum/go-ethereum/commit/3f7b8bc976fe5e9b810b91da359b3e0cb7d010c8) - 2025-05-26
+* [Commit] [core/txpool: removed unnecessary method](https://github.com/ethereum/go-ethereum/commit/a201a33de8b2b43ed066471b0a292b7f89ede1ec) - 2025-05-26
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

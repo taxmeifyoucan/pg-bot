@@ -110,6 +110,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update the workflow path to use same cache path](https://github.com/ChainSafe/lodestar/commit/b0e955b092a0e1b185f995e9904a7665ea9076e3) - 2025-05-20
 * [Commit] [chore: upgrade Node.js version in devcontainer configuration (#7865)](https://github.com/ChainSafe/lodestar/commit/99033e3bd9e7a9e73de99f2a6b3e299f59c76440) - 2025-05-23
 * [Commit] [Update .github/actions/setup-and-build/action.yml](https://github.com/ChainSafe/lodestar/commit/6082d10ded285a81e1c98cff9e03dde1dc63d23e) - 2025-05-23
+* [Pull Request] [refactor: move historical state metrics to separate module](https://github.com/ChainSafe/lodestar/pull/7876) - 2025-05-26
+* [Commit] [feat: add differential layers support (#7874)](https://github.com/ChainSafe/lodestar/commit/06053e0ba6c2d51b9aa8bb3fbfdf2924a966a1ea) - 2025-05-26
+* [Pull Request] [feat: add differential layers support](https://github.com/ChainSafe/lodestar/pull/7874) - 2025-05-26
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

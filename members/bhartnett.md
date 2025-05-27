@@ -77,3 +77,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Portal Client: Support sending only single offer in neighborhoodGossip and randomGossip](https://github.com/status-im/nimbus-eth1/pull/3314) - 2025-05-22
 * [Commit] [Add log radius to portal node status log.](https://github.com/status-im/nimbus-eth1/commit/3e3541bfbc3464c38e78d94e026095b482524f03) - 2025-05-24
 * [Pull Request] [Portal Client: Improve node status log](https://github.com/status-im/nimbus-eth1/pull/3327) - 2025-05-24
+* [Commit] [Portal Client: Improve node status log (#3327)](https://github.com/status-im/nimbus-eth1/commit/61d7742ee39d72dd9a5ea68e01b28e3f53fe5e5f) - 2025-05-26
+* [Commit] [Portal Client: Add accept codes chart to Granfana monitoring dashboard (#3330)](https://github.com/status-im/nimbus-eth1/commit/a44c1d5b9199396c302533232ab221a6f2e92068) - 2025-05-26
+* [Pull Request] [Portal Client: Add accept codes chart to Granfana monitoring dashboard](https://github.com/status-im/nimbus-eth1/pull/3330) - 2025-05-26
+* [Commit] [Just show the log radius as a number.](https://github.com/status-im/nimbus-eth1/commit/4fba9ee86c2eb3f11c667881912c409e571b7392) - 2025-05-26
+* [Commit] [Minor fix.](https://github.com/status-im/nimbus-eth1/commit/08c00b56e76d5050618952a74da794111a20ab8e) - 2025-05-26
+* [Commit] [Remove log radius percentage.](https://github.com/status-im/nimbus-eth1/commit/be525fdf6ad99d8275f9d09808e3c87dac9d4d6e) - 2025-05-26

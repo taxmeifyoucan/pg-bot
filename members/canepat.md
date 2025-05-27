@@ -47,3 +47,5 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix linter](https://github.com/erigontech/erigon/commit/857f57014e0c68d89226094191fb034e9018bcda) - 2025-05-23
 * [Pull Request] [fix invalid filter rsp in eth_getFilterChanges/eth_getFilterLogs](https://github.com/erigontech/erigon/pull/15230) - 2025-05-23
 * [Pull Request] [ci: fix flakiness in TestBlockTracker](https://github.com/erigontech/erigon/pull/15227) - 2025-05-23
+* [Pull Request] [fix race in TestLogsFilter tests](https://github.com/erigontech/erigon/pull/15274) - 2025-05-26
+* [Issue] [Standard JSON-RPC errors](https://github.com/erigontech/erigon/issues/15273) - 2025-05-26

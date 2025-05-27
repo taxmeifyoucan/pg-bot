@@ -38,6 +38,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [add benchmark for buildParamsCache](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c81518e55ed418775ea0a12be7f9d32aaa2785de) - 2025-05-22
 * [Commit] [Fix outdated hardware wallet signing example (#4084)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/98cb6842436f7e8105a8584cd1b57912da064ef8) - 2025-05-22
 * [Commit] [relocate files and add readme](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8888d904e8c7e51b734d98e83dadba66867467ff) - 2025-05-22
+* [Commit] [common: add 5 bpo hardforks for blobSchedule specification (#4085)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/86d7b9b2500fbbf2f1a118af63d61812510309f3) - 2025-05-26
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

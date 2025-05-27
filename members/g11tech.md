@@ -49,8 +49,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [e2store: replace snappy-stream dependency (#4046)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/09a83bd3094b35dc8e9f80ed5c62aa6a8689bfd1) - 2025-05-24
 * [Commit] [fix kzg spec by proxing wasm cell methods to jskzg](https://github.com/ethereumjs/ethereumjs-monorepo/commit/fa74e1b89f68a074843f8865a5524b5d7787cefc) - 2025-05-24
 * [Commit] [update the microkzg signer to 0.15 and fix the imports everywhere](https://github.com/ethereumjs/ethereumjs-monorepo/commit/315c4b70277d04b6e6e522476b24f61b3290bb15) - 2025-05-24
+* [Commit] [add ckzg to client for getpayloadv5 ttest](https://github.com/ethereumjs/ethereumjs-monorepo/commit/d0b040463218a966b010b6d3ffab187d31648ead) - 2025-05-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Further simplify DataColumnSidecarsByRoot request](https://github.com/ethereum/consensus-specs/pull/4323) - 2025-05-16
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-2935: link execution spec tests](https://github.com/ethereum/EIPs/pull/9826) - 2025-05-26
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

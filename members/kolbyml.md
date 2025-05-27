@@ -51,6 +51,8 @@ Team: Portal Network (EF)
 * [Pull Request] [feat(trin-execution): replace EraManager with E2HSManager](https://github.com/ethereum/trin/pull/1855) - 2025-05-24
 * [Commit] [chore: fix confusing comment in E2HSManager (#1857)](https://github.com/ethereum/trin/commit/022a646c4d4c37cf8e68a59f7a5526195ce85374) - 2025-05-25
 * [Pull Request] [chore: fix confusing comment in E2HSManager](https://github.com/ethereum/trin/pull/1857) - 2025-05-25
+* [Commit] [fix: regression on recoverying transaction address after version update (#1858)](https://github.com/ethereum/trin/commit/b157344b6b60d9e295983772b070657631fc0742) - 2025-05-26
+* [Pull Request] [fix: regression on recoverying transaction address after version update](https://github.com/ethereum/trin/pull/1858) - 2025-05-26
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

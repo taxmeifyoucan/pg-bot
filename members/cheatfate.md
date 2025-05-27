@@ -50,6 +50,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add ability for SyncOverseer to pause backfilling when sync distance is out of range.](https://github.com/status-im/nimbus-eth2/pull/7191) - 2025-05-23
 * [Commit] [Update distance to 2 slots.](https://github.com/status-im/nimbus-eth2/commit/239baa6e848f595ad9079c8336db79940f2c1a03) - 2025-05-23
 * [Commit] [Debugging logs.](https://github.com/status-im/nimbus-eth2/commit/68a2c91497b7046228e3cd4d46301b8a9feb0b4b) - 2025-05-23
+* [Pull Request] [Sync: Wait for empty response confirmation before advance.](https://github.com/status-im/nimbus-eth2/pull/7197) - 2025-05-26
+* [Commit] [Update gapList with every empty response for same range.](https://github.com/status-im/nimbus-eth2/commit/789548244e7c64a9a5710b983f4129bc4819ec4d) - 2025-05-26
+* [Commit] [Update AllTests.](https://github.com/status-im/nimbus-eth2/commit/e8c61191efb27ff2bc1624831a542434c32f448e) - 2025-05-26
+* [Commit] [Recover proper test suite settings.](https://github.com/status-im/nimbus-eth2/commit/d19840783d97610f1b37b49bc2c69637809b5c88) - 2025-05-26
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -66,6 +66,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [construct ExpectedChainIdTxValidator only once](https://github.com/NethermindEth/nethermind/commit/a9419ee4e67734efb2f70bb279dfb41238c96f74) - 2025-05-23
 * [Commit] [Update OP Superchain chains (#8690)](https://github.com/NethermindEth/nethermind/commit/036a1481d2ee76d4c16ac6197b37f043b0b89b3b) - 2025-05-25
 * [Commit] [Auto-update fast sync settings (#8689)](https://github.com/NethermindEth/nethermind/commit/ea34c769eff2d662c7472f5951800381ea3cf343) - 2025-05-25
+* [Commit] [more logs](https://github.com/NethermindEth/nethermind/commit/eedd424945ad0884ac4216ba57d56145ecd7f80d) - 2025-05-26
+* [Commit] [Migrate to Microsoft.Testing.Platform (#8190)](https://github.com/NethermindEth/nethermind/commit/c920f03d30fad6b59abed9b7cd1eb83fcf9e50b3) - 2025-05-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

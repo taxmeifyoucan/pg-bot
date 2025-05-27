@@ -247,6 +247,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [docs: some ideas on moving `./tests` to ethereum/execution-specs](https://github.com/ethereum/execution-spec-tests/pull/1645) - 2025-05-23
 * [Commit] [docs: some ideas on moving `./tests` to ethereum/execution-specs](https://github.com/ethereum/execution-spec-tests/commit/e673aba57a387ec45a5a3b7c6a279a66a231105c) - 2025-05-23
 * [Commit] [Deployed c322f37d60 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d619e2ef0fe97f62095df1213964d7180ad8230c) - 2025-05-25
+* [Commit] [Deployed 12bcc4bc64 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/27ba2961d39cc7c6259d05f18164456d680e1719) - 2025-05-26
+* [Commit] [Deployed 3810d22f84 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/813a0b50f49900483c9d3fd681bfc090338606b6) - 2025-05-26
+* [Commit] [fix: fix `fill --pytest-help`](https://github.com/ethereum/execution-spec-tests/commit/7d562dfdc4d1ab426dfc7bf2923c178ef9fa4763) - 2025-05-26
+* [Pull Request] [refactor(cli,pytest): improve the small cli click interfaces used for pytest-based commands](https://github.com/ethereum/execution-spec-tests/pull/1654) - 2025-05-26
+* [Commit] [chore: remove superflous comment](https://github.com/ethereum/execution-spec-tests/commit/5902209682ea5bb840037aaea86c0d9a8324a032) - 2025-05-26
+* [Commit] [Deployed 78fa83a084 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/b984b302162f1d819d2155feaac58dca59be14a5) - 2025-05-26
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/c6a4ba039d4c8668ee42c942e6e693701098b188) - 2025-05-26
+* [Commit] [Deployed 020f728eef to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2240bd74e31f3f7ebfe6ae7381ca9d8b48fcf30d) - 2025-05-26
+* [Commit] [refactor(tests): use the `pre` fixture in `SELFDESTRUCT` collision tests (#1643)](https://github.com/ethereum/execution-spec-tests/commit/020f728eefedc75a68e6fba6dbc65322e1d9f490) - 2025-05-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

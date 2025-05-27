@@ -20,6 +20,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Commit] [Resolve some TODOs](https://github.com/sigp/lighthouse/commit/801659d4ae200600305787e0538b6ba0559ac98e) - 2025-05-22
 * [Pull Request] [Downscore and retry custody failures](https://github.com/sigp/lighthouse/pull/7510) - 2025-05-22
 * [Commit] [Implement reliable range sync for PeerDAS](https://github.com/sigp/lighthouse/commit/4fb2ae658a8402e63b2163c1a9591bf656a5574f) - 2025-05-22
+* [Commit] [More comments](https://github.com/sigp/lighthouse/commit/b383f7af536329ef99989fe3390b83659d47339c) - 2025-05-27
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

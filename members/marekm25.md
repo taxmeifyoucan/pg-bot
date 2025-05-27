@@ -20,6 +20,8 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Commit] [make traverse node less confusing](https://github.com/NethermindEth/nethermind/commit/2f66cc21987f2822f62f9f2a4bd10f1720440824) - 2025-05-18
 * [Pull Request] [PatriciaTree ignoreMissingDelete is not used](https://github.com/NethermindEth/nethermind/pull/8646) - 2025-05-18
 * [Commit] [Submodule revert](https://github.com/NethermindEth/nethermind/commit/33ab4f8a78fc550fc171ff8ef99ee7bac6918f02) - 2025-05-18
+* [Commit] [cosmetic](https://github.com/NethermindEth/nethermind/commit/28aeef91e3555b099caa27f25c579bdcb64908da) - 2025-05-26
+* [Commit] [Refactor build scripts (#8601)](https://github.com/NethermindEth/nethermind/commit/ca008100a9ca620d7dc868c6f09a2dca7d9dff86) - 2025-05-26
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

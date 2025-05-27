@@ -135,6 +135,21 @@ Team: Erigon
 * [Commit] [Update imports](https://github.com/erigontech/erigon/commit/9a3b87a7b966054dc93b4df8d00c935db552eddc) - 2025-05-25
 * [Commit] [Fix test](https://github.com/erigontech/erigon/commit/27dea0d3b78ca0d439f86b66a400bb844e4ad919) - 2025-05-25
 * [Pull Request] [cl: fix builder client mock](https://github.com/erigontech/erigon/pull/15251) - 2025-05-25
+* [Commit] [Oskatime to pool](https://github.com/erigontech/erigon/commit/d632a94a661ae5d0b1c195c9761a6ec19cd0dba3) - 2025-05-26
+* [Commit] [Fix proofs len check](https://github.com/erigontech/erigon/commit/bf45a4162923d7fb35a92daa7d22b523f002539e) - 2025-05-26
+* [Commit] [Log fix](https://github.com/erigontech/erigon/commit/057e6301dddc4c521765eead59852ede373bf318) - 2025-05-26
+* [Commit] [Oskatime to pool](https://github.com/erigontech/erigon/commit/3ac601f432b01de1370bcb127ff77eb0d427e13d) - 2025-05-26
+* [Commit] [Oskatime to pool](https://github.com/erigontech/erigon/commit/8cda1acb333c9d7fcada6fe5c904c11c5faf6b9e) - 2025-05-26
+* [Commit] [Oskatime to pool](https://github.com/erigontech/erigon/commit/c210d7c1dab0310c570803a58788defed17f6d4e) - 2025-05-26
+* [Commit] [Try no kind](https://github.com/erigontech/erigon/commit/f39ea8158cee9df1248ac67de8b2e2d123edec9a) - 2025-05-26
+* [Commit] [Add txn tests](https://github.com/erigontech/erigon/commit/96a654d771091536836f6283896dd1860639b94e) - 2025-05-26
+* [Commit] [log logs](https://github.com/erigontech/erigon/commit/68f99d677f521422fd929ec652ec8c4c215abb92) - 2025-05-26
+* [Commit] [Ptr](https://github.com/erigontech/erigon/commit/91a5151f2e7bb60b98fee365ccca6f70942a301d) - 2025-05-26
+* [Commit] [Add wrapper to core decode](https://github.com/erigontech/erigon/commit/2bf6ba50780de035d68776778f0b2a39296f10f8) - 2025-05-26
+* [Commit] [Revert "Revert "EIP-7892: Blob Parameter Only Hardforks (#14843)"  (#14912)"](https://github.com/erigontech/erigon/commit/4574b4bb59c2d06a14a71a0ef5f15b0c2e3e8356) - 2025-05-26
+* [Commit] [[r31] persistent receipts in eth_getLogs used wrong txNum (#15102)](https://github.com/erigontech/erigon/commit/a82f36d2cb30f9e64a957b1d39fe01382e6ebff4) - 2025-05-26
+* [Commit] [Fix Getblobsv1 with nil](https://github.com/erigontech/erigon/commit/60a66378220b54dfdb1dc7463fbbe9d01c201872) - 2025-05-26
+* [Commit] [Add parseTxnTest and fmt](https://github.com/erigontech/erigon/commit/ac2c3a1b306455a64bbbc491aaaab491a1d4e434) - 2025-05-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -114,6 +114,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Read rules](https://github.com/erigontech/erigon/commit/addacda39cc1d22f49a92ffa4fa2420fe7b20349) - 2025-05-19
 * [Commit] [Implement ERC-7562 tracer (#14705)](https://github.com/erigontech/erigon/commit/d2d0267cc45e82566bcdfdb128c97be3f69642d4) - 2025-05-20
 * [Commit] [fix invalid filter rsp in eth_getFilterChanges/eth_getFilterLogs (#15230)](https://github.com/erigontech/erigon/commit/9e29e7f82d41ab6196c9872e2e81457bd2cce477) - 2025-05-25
+* [Commit] [wip](https://github.com/erigontech/erigon/commit/a378bf05f264d9bb0e170732d47fbc806f75335f) - 2025-05-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

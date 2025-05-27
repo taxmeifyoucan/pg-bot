@@ -118,6 +118,18 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(pytest): Add `ported_from` to execute (#1641)](https://github.com/ethereum/execution-spec-tests/commit/bceb08f4d9f157bcac2d32df73fe567d790b20e0) - 2025-05-22
 * [Pull Request] [fix(pytest): Add `ported_from` to execute](https://github.com/ethereum/execution-spec-tests/pull/1641) - 2025-05-22
 * [Commit] [docs: add `CONTRIBUTING.md` and improve coding standards (#1604)](https://github.com/ethereum/execution-spec-tests/commit/4a0fbf5d9e8603b50dd717a7dcdf535c1947d369) - 2025-05-23
+* [Commit] [Update tests/zkevm/test_worst_compute.py](https://github.com/ethereum/execution-spec-tests/commit/ac60b41cd650100b1886bda14f158dbfe23d296e) - 2025-05-26
+* [Commit] [zkevm: add empty block execution (#1650)](https://github.com/ethereum/execution-spec-tests/commit/c322f37d60b8eba81fe19e3e5b4daa78adbe4334) - 2025-05-26
+* [Commit] [Update docs/CHANGELOG.md for ethereum_test_execution](https://github.com/ethereum/execution-spec-tests/commit/4de6545d8f4ef53725e8e7a23688ea8b060e645f) - 2025-05-26
+* [Commit] [Update src/ethereum_test_rpc/types.py](https://github.com/ethereum/execution-spec-tests/commit/b7535aa3111ee38585a89c09d9a2cbb0140b5a6f) - 2025-05-26
+* [Commit] [Apply suggestions from code review to src/ethereum_test_execution/get_blobs.py](https://github.com/ethereum/execution-spec-tests/commit/ea344059845072deabda82ffbf635749e8835828) - 2025-05-26
+* [Commit] [Update description src/ethereum_test_execution/get_blobs.py](https://github.com/ethereum/execution-spec-tests/commit/0f679a215997ff921fdb6b78c40c31c1177e7caf) - 2025-05-26
+* [Commit] [Update exception message in src/ethereum_test_execution/get_blobs.py](https://github.com/ethereum/execution-spec-tests/commit/c22cd61e80200c1a20a124bf3d491c9006d46360) - 2025-05-26
+* [Commit] [feat(github): Add zkevm 60M, 90M, 120M (#1655)](https://github.com/ethereum/execution-spec-tests/commit/3810d22f84f206866f66f4f6bf856187c2893ab1) - 2025-05-26
+* [Commit] [whitelist](https://github.com/ethereum/execution-spec-tests/commit/bf8b9f8656d6d0726cc69130aafb1d31b6e7884f) - 2025-05-26
+* [Commit] [docs: Changelog](https://github.com/ethereum/execution-spec-tests/commit/72e39302136fd1a09cd7af449a552322cb421d24) - 2025-05-26
+* [Commit] [feat(github): Change zkevm feature to zkevm_36M](https://github.com/ethereum/execution-spec-tests/commit/704bdefd572306695df23b2abf7dfc1fee4ac178) - 2025-05-26
+* [Pull Request] [feat(github): Add zkevm 60M, 90M, 120M](https://github.com/ethereum/execution-spec-tests/pull/1655) - 2025-05-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

@@ -337,6 +337,19 @@ Team: Reth
 * [Commit] [chore: make clippy happy](https://github.com/paradigmxyz/reth/commit/d4bbe4dbd0b4f0a75de0644dda5db1a12e947abe) - 2025-05-24
 * [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/16455) - 2025-05-24
 * [Pull Request] [chore: add clone impl for engine api types](https://github.com/paradigmxyz/reth/pull/16454) - 2025-05-24
+* [Commit] [revert: "fix: check encoded size" (#16488)](https://github.com/paradigmxyz/reth/commit/42bf391c837f3c464a9e9fcbd6e728732bee6b7b) - 2025-05-26
+* [Pull Request] [revert: "fix: check encoded size"](https://github.com/paradigmxyz/reth/pull/16488) - 2025-05-26
+* [Pull Request] [chore: simplify rpc ro primitive block impls](https://github.com/paradigmxyz/reth/pull/16487) - 2025-05-26
+* [Issue] [Add deep reorg tests](https://github.com/paradigmxyz/reth/issues/16480) - 2025-05-26
+* [Issue] [Replace &Chanspec arg with trait arg](https://github.com/paradigmxyz/reth/issues/16479) - 2025-05-26
+* [Pull Request] [chore: relax executiondata bound](https://github.com/paradigmxyz/reth/pull/16478) - 2025-05-26
+* [Issue] [Relax chainspec](https://github.com/paradigmxyz/reth/issues/16477) - 2025-05-26
+* [Issue] [Relax OpBlock constraint in OpEngineValidator](https://github.com/paradigmxyz/reth/issues/16476) - 2025-05-26
+* [Pull Request] [chore: add manual clone impl](https://github.com/paradigmxyz/reth/pull/16475) - 2025-05-26
+* [Pull Request] [fix: check encoded size](https://github.com/paradigmxyz/reth/pull/16473) - 2025-05-26
+* [Commit] [feat: add exex feature to op-reth (#16459)](https://github.com/paradigmxyz/reth/commit/7b49b75a60c8aa79fcebccd381d2d1468bdd36dc) - 2025-05-26
+* [Commit] [chore: run hive every 6h (#16472)](https://github.com/paradigmxyz/reth/commit/7a7b2819b1511bf935bed0233da9a8e87fa824a8) - 2025-05-26
+* [Pull Request] [choe: add debug trace for on_new_head](https://github.com/paradigmxyz/reth/pull/16471) - 2025-05-26
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

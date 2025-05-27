@@ -99,6 +99,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Kute: order by filename (#8657)](https://github.com/NethermindEth/nethermind/commit/17609d607fc29499b95a59f748f3a8f0ee224cf5) - 2025-05-23
 * [Commit] [More fixes](https://github.com/NethermindEth/nethermind/commit/8979437821983f2dd439e9bfe874d5737b11f13a) - 2025-05-23
 * [Commit] [More fixes](https://github.com/NethermindEth/nethermind/commit/1b80fa9af3fc3d640fb53a66bc37262def983fcb) - 2025-05-23
+* [Commit] [Reduce `Forward header starting block number did not changed.` exception to log. (#8683)](https://github.com/NethermindEth/nethermind/commit/0218daf633630706f14799c5729245baca8953ac) - 2025-05-26
+* [Commit] [Typos](https://github.com/NethermindEth/nethermind/commit/675a7b0e11adfbd145311a66a02a80aca96a8100) - 2025-05-26
+* [Commit] [Implement OP CL `optimism` RPC namespace (#8667)](https://github.com/NethermindEth/nethermind/commit/7cc14006a5c3eb12daa7b6c97ac2b6689fd8b601) - 2025-05-26
+* [Commit] [EIP-7594: PeerDAS (#8417)](https://github.com/NethermindEth/nethermind/commit/092013491db53a52f491e797fb38258ca74214b6) - 2025-05-26
+* [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/85e5942d1db9d1fa2f5ffa611b7a1f9398d5c230) - 2025-05-26
+* [Commit] [Update src/Nethermind/Nethermind.Merge.Plugin.Test/EngineModuleTests.V4.cs](https://github.com/NethermindEth/nethermind/commit/b8a38952c37ab0ff8c61682fffae2c973fe724c0) - 2025-05-26
+* [Commit] [PatriciaTree ignoreMissingDelete is not used (#8646)](https://github.com/NethermindEth/nethermind/commit/056bcd3e088e73e64e17e89cc45e7f70061765f6) - 2025-05-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

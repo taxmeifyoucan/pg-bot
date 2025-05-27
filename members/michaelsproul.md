@@ -83,6 +83,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Revert fork version fallback used by `/eth/v1/beacon/blob_sidecars/{block_id}`](https://github.com/sigp/lighthouse/issues/7496) - 2025-05-20
 * [Pull Request] [Fix blob download from checkpointz servers](https://github.com/sigp/lighthouse/pull/7495) - 2025-05-20
 * [Pull Request] [Update minimal spec to v1.5.0 version](https://github.com/sigp/lighthouse/pull/7517) - 2025-05-25
+* [Commit] [Fix split slot migration](https://github.com/sigp/lighthouse/commit/b0191db4539dce266352833529e1e40a71fbd5eb) - 2025-05-26
+* [Commit] [Fix split slot migration](https://github.com/sigp/lighthouse/commit/845e8e411bda9498a0454ffb48d61ce10768c650) - 2025-05-26
+* [Commit] [Attempt to fix archive node V24 upgrade](https://github.com/sigp/lighthouse/commit/9800ab882ec796f8bbf38f0b9010d2692a5eee2f) - 2025-05-26
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

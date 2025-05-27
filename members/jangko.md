@@ -55,3 +55,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Fix outdated txparse tools](https://github.com/status-im/nimbus-eth1/pull/3324) - 2025-05-23
 * [Pull Request] [Fusaka-devnet-0/EIP-7883: ModExp Gas Cost Increase](https://github.com/status-im/nimbus-eth1/pull/3323) - 2025-05-23
 * [Pull Request] [Fusaka-devnet-0/EIP-7823: Set upper bounds for MODEXP](https://github.com/status-im/nimbus-eth1/pull/3322) - 2025-05-23
+* [Commit] [rm useless windeps.dll downloading; make syncer batch size --debug (#3328)](https://github.com/status-im/nimbus-eth1/commit/20cd0c92ea59d1535e57df2d96417e037a6a3437) - 2025-05-26

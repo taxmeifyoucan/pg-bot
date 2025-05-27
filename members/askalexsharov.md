@@ -1944,6 +1944,64 @@ Team: Erigon
 * [Commit] [less use of aggTx](https://github.com/erigontech/erigon/commit/c4f8e41ea36ce2d0252d389a20a2a527b14c919b) - 2025-05-25
 * [Commit] [Add Instruction printer (#15203)](https://github.com/erigontech/erigon/commit/4a0132628950887faa0bbf39a124c9b3069cf9e4) - 2025-05-25
 * [Commit] [temporal.DomainPut: add txNum param (#15197)](https://github.com/erigontech/erigon/commit/43082dbe181327872ac5282aa0e76a3eccd8186d) - 2025-05-25
+* [Commit] [Remove tx from sd (#15252)](https://github.com/erigontech/erigon/commit/26e9aea1b6b5867ddba5f945cd5146b897c31eae) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/67ed0c338bd654ff04e7f21ff2b9e022905bac2f) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/de3217934daf14ee86c48e5a24f39a8f6b967c00) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cfae7f19ae5adbacfe8aae00a0d22e2cbf73ab9d) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/129a2f50b2a918efa430939177483573c52a8592) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/92a36a1ab086520b34129cb101d94d62a1615be1) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ca1af05f202004ca5c553e58761740db52b6be3f) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/59a0d7cef8db9829a291646d2aa3be94cff2ebf3) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/125896998d692e4fdf5f2c30fe5d1bce374e209e) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1d088bec06d1766e0ecd2e71f956c70a398bda13) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9612978478c0161eaba635cdb939fce519cbc948) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/587cd4da410f81f2d4b1fed80dbae631228cf476) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bf436df9f3634053fd806217f8fa4a1b58f62a56) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5f08b8248f2ae2e5be9e3f638b92532de92d4905) - 2025-05-26
+* [Pull Request] [enable more linters](https://github.com/erigontech/erigon/pull/15269) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/43dee783105519848f564e7d8f0d899006d637f8) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dae2463e1dfaf966f81afc97fec644e95f6fff7c) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/42f31b6c9aa6eebf8d02eab4175422f896cb66ef) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d29557b55a5bd0613f2e7a7953d10ba5c93ded4f) - 2025-05-26
+* [Commit] [Revert "agg: foreign key concept (data-dependency)" (#15262)](https://github.com/erigontech/erigon/commit/2840f41c4d4c51ec42567238cd5bd483ac705326) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9f41315b34a7249ce333d0d3fa945869aeecc17d) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/906511fcf3ec22c247af06128b75b8d347d50b79) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3f2442f135c8dbd823280f0d55341a5736a48d06) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b8e6b7d1b54f0709aa293b3c1acd5c14d6b116fe) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/24caa25d5e216af3fed4d85d112ddb71869cc3ab) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/163ba48b04f25bd7b785004661c8dd819f3e7535) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b545b6a5b8207cb0224009bd0f0d770b7096574d) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c429286f15d22fe671e2c9272321d33ce07013d9) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/23ced3aa6f3e0f312d2c769a8ded39da1d0f611f) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/549ebd4f0dd93942a31db5bdb0e29c1dd841a52a) - 2025-05-26
+* [Commit] [more verbose CI (#15253)](https://github.com/erigontech/erigon/commit/385e8430d141b8d228bafaf0d7fa74b055345011) - 2025-05-26
+* [Commit] [agg: foreign key concept (data-dependency) (#15060)](https://github.com/erigontech/erigon/commit/57741bf09281b4d6f223de50fd23c7c85435e8ab) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6c0f5f8409dff10aa7a1f4e0ef0b91fb1729ccf5) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/83c1e46903cf5d99b7eff2b2a16b142ae753e707) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/799f03c06a05a4717dec97a70dea982f344c4892) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8d2ce0b9281917e780abc01a2693ff9469f0911c) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/49fcb0e37c00991a2ae1af899bb7831489a8dd7f) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a253aa43c792735bf3be9780f7373aa11407ff94) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/22cc15465aef905b6a8806330ff09f2de70c7762) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/61f5d62870c6ebaf8800b7c37e0b68c328d6726c) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3c8cd503d4d1f8f957a8e2d6c4cfab66af848f08) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/611f754091ad24aeac446a86bc1b0a01bfba4957) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2450e9f0512d509919b90454a971f31568c3e8fe) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a9bc4fd6b309dd6f242783ba2cceae27b75ff586) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3f86b39ae37e6a071c92e2aa2409728dc33124b4) - 2025-05-26
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/1e1f095661eaa0e27ffeed9088a7fb6f009f6189) - 2025-05-26
+* [Commit] [cl: fix builder client mock (#15251)](https://github.com/erigontech/erigon/commit/84523263ffa766c6156ea6aaf9984f44cd0b0d52) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c323598b990a165dcbd0daaf1afcb1e091f05c35) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b7ba9a542c3a59524914896eada0e48579e2fce3) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/64ef66e933324d580a053057f71abb7d8864e903) - 2025-05-26
+* [Pull Request] [agg: scanDirtyFiles - allow all](https://github.com/erigontech/erigon/pull/15260) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/97c06f73cf2a63ebf73ea341cef584a611fc02de) - 2025-05-26
+* [Pull Request] [SD: shared string objects between `put` and `TouchKey`](https://github.com/erigontech/erigon/pull/15259) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f2975668e46c1122b84cba9a137e6a73867ccf8f) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6db6b0cd35e2dcdfa5bfc52448fd2faa651b85e8) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/802d7fe00d6abd85c4a6b3ded77aa46f53a200b6) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6a5298645b56f6bb47f24035895e42607b0d5b54) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fd14068f5b3ddddc943b352af148d3f447b88711) - 2025-05-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

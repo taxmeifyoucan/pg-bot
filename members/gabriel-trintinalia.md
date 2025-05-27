@@ -57,6 +57,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [[fusaka-devnet-0] feat: add bpo definitions (#8677)](https://github.com/hyperledger/besu/commit/27725839010dde7b2dfd4aea7675e320ae9e5083) - 2025-05-23
 * [Commit] [Remove prague and osaka targeting gas limit calculator (#8691)](https://github.com/hyperledger/besu/commit/3c50c809e522c9e4c8b6101f686d327604be3b69) - 2025-05-26
 * [Pull Request] [refactor: remove Prague and Osaka targeting gas limit calculator](https://github.com/hyperledger/besu/pull/8691) - 2025-05-25
+* [Commit] [refactor: move blobs to ethereum/core (#8694)](https://github.com/hyperledger/besu/commit/ca9e15e254bbfb26ca0c98245cd510c927a097c3) - 2025-05-27
+* [Pull Request] [Increase the default for blob prioritized transactions](https://github.com/hyperledger/besu/pull/8695) - 2025-05-26
+* [Pull Request] [WIP: refactor: move blobs to core](https://github.com/hyperledger/besu/pull/8694) - 2025-05-26
+* [Commit] [refactor: move milestone definitions to its own classes instead of ProtocolScheduleBuilder (#8693)](https://github.com/hyperledger/besu/commit/8c1af5fed795976504d05714691fd47e519e6076) - 2025-05-26
+* [Pull Request] [wip: refactor protocol schedule builder](https://github.com/hyperledger/besu/pull/8693) - 2025-05-26
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

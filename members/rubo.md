@@ -53,6 +53,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Move `tools` back to the root](https://github.com/NethermindEth/nethermind/commit/325653726d1433972cf837ab5dd3e4699a73268c) - 2025-05-24
 * [Commit] [Move `tools` back to the root](https://github.com/NethermindEth/nethermind/commit/44135ddede5c612ffc581f83df8fad752dd6b566) - 2025-05-24
 * [Commit] [Update packages (#8641)](https://github.com/NethermindEth/nethermind/commit/fc61eaa1fd7a26752f66a1fc03caf8a99906b5e6) - 2025-05-25
+* [Pull Request] [Restore and fix tests](https://github.com/NethermindEth/nethermind/pull/8696) - 2025-05-26
+* [Commit] [Remove obsolete scripts](https://github.com/NethermindEth/nethermind/commit/cf6188018859432e820ac6398843daf8c87377d1) - 2025-05-26
+* [Commit] [Fix infinite loop in tx pool (#8632)](https://github.com/NethermindEth/nethermind/commit/7c9f010d470a74921846cb43ffa040c65496249d) - 2025-05-26
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

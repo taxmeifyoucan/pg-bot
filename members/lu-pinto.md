@@ -28,6 +28,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [Implement EIP-5920 - PAY opcode (#8498)](https://github.com/hyperledger/besu/commit/731e94084d20aa1b7723a3bd28a9d29c5a4f06c9) - 2025-05-21
 * [Commit] [refactor: add blob schedule to protocol spec builder (#8658)](https://github.com/hyperledger/besu/commit/3a486391f6cb016948c3a6b8289a4a1295c6daf5) - 2025-05-22
 * [Pull Request] [ignore invalid ENR nodes in DNS daemon](https://github.com/hyperledger/besu/pull/8690) - 2025-05-23
+* [Commit] [add missing CHANGELOG entry for #8697 (#8698)](https://github.com/hyperledger/besu/commit/e52433a8878c3dfcee726916c82ecb1ff7762096) - 2025-05-26
+* [Pull Request] [add missing CHANGELOG entry for #8697](https://github.com/hyperledger/besu/pull/8698) - 2025-05-26
+* [Commit] [Swap precedence order between `=` and `:` while parsing enr records (#8696)](https://github.com/hyperledger/besu/commit/582a81d3b3c31ec2c6ed546e59262582d51919b0) - 2025-05-26
+* [Issue] [ENR records with Base64 padding are not valid](https://github.com/hyperledger/besu/issues/8697) - 2025-05-26
+* [Pull Request] [Swap precedence order while parsing enr records](https://github.com/hyperledger/besu/pull/8696) - 2025-05-26
+* [Commit] [do not crash DNS daemon with invalid ENR nodes (#8690)](https://github.com/hyperledger/besu/commit/e14ba59486e1de72e9e306481b7112681108efb6) - 2025-05-26
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

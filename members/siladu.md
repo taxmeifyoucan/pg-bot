@@ -30,6 +30,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Issue] [Enabled most history expiry features by default](https://github.com/hyperledger/besu/issues/8653) - 2025-05-20
 * [Issue] [Reset eth capability from eth/68 to latest](https://github.com/hyperledger/besu/issues/8652) - 2025-05-20
 * [Commit] [Add `--Xhistory-expiry-prune` for enabling optimal RocksDB GC settings (#8675)](https://github.com/hyperledger/besu/commit/6de2bbfd06736027a9bdb5d4ab626f282f9fb50c) - 2025-05-23
+* [Issue] [Deprecate CHECKPOINT for public networks](https://github.com/hyperledger/besu/issues/8699) - 2025-05-27
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

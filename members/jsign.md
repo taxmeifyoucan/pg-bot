@@ -82,6 +82,20 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [zkevm: add empty block execution (#1650)](https://github.com/ethereum/execution-spec-tests/commit/c322f37d60b8eba81fe19e3e5b4daa78adbe4334) - 2025-05-25
 * [Pull Request] [zkevm: add empty block execution](https://github.com/ethereum/execution-spec-tests/pull/1650) - 2025-05-25
 * [Commit] [keep original test too](https://github.com/ethereum/execution-spec-tests/commit/890ee44cb0c876fd83d3a8946e9a65039eeb00f8) - 2025-05-25
+* [Commit] [rebase](https://github.com/ethereum/execution-spec-tests/commit/01b8186296f55b958ec74f8aedec4a92fbff878a) - 2025-05-27
+* [Commit] [rebase](https://github.com/ethereum/execution-spec-tests/commit/88709011f7942ce90ce9e2d8167edcc965de2e33) - 2025-05-27
+* [Commit] [feat(tests/zkevm): amortized bn128_pairings (#1656)](https://github.com/ethereum/execution-spec-tests/commit/12bcc4bc649312a737c2991bb041dab68bb8f374) - 2025-05-26
+* [Commit] [avoid POPs](https://github.com/ethereum/execution-spec-tests/commit/6070166fce630c56c9485b001bcf58accd118e4e) - 2025-05-26
+* [Commit] [fix assertion](https://github.com/ethereum/execution-spec-tests/commit/97968941789691776b1a4a44e792c23e6f6c8e80) - 2025-05-26
+* [Pull Request] [zkevm: add CALLDATALOAD benchmark](https://github.com/ethereum/execution-spec-tests/pull/1658) - 2025-05-26
+* [Commit] [use state_test](https://github.com/ethereum/execution-spec-tests/commit/4456cd2034d6287ca69771a1ba9760eac3ed50ba) - 2025-05-26
+* [Commit] [fix lints](https://github.com/ethereum/execution-spec-tests/commit/e449d793ac03a47f7868669e92d7427fcd1f2454) - 2025-05-26
+* [Commit] [add assertions](https://github.com/ethereum/execution-spec-tests/commit/51e2a202537268055733ea550e1de52e7c2e849c) - 2025-05-26
+* [Commit] [add extra cases](https://github.com/ethereum/execution-spec-tests/commit/7e5337d2e1de72ee486e39e55ef88b8b98bf785b) - 2025-05-26
+* [Commit] [add extra cases](https://github.com/ethereum/execution-spec-tests/commit/05bdacf63e2f858f3cbf3869ed9f0265a5e20691) - 2025-05-26
+* [Commit] [renamings](https://github.com/ethereum/execution-spec-tests/commit/6873d816b50734b32cbc799920b11b4241e25d8f) - 2025-05-26
+* [Commit] [add slow marker](https://github.com/ethereum/execution-spec-tests/commit/95eeb28bc136a9d39b3b93d69be4629b650e47e4) - 2025-05-26
+* [Pull Request] [Jsign zkvm pim](https://github.com/ethereum/execution-spec-tests/pull/1656) - 2025-05-26
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

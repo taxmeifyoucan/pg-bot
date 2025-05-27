@@ -93,6 +93,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [dataColumnSidecarsByRangeHandler](https://github.com/erigontech/erigon/commit/9a6fb1082c1dbda1c64fcf8740ab4fe3accb7592) - 2025-05-22
 * [Commit] [integration test: fix qa issue #128: sporadic crash on rpc-integration test (#15161)](https://github.com/erigontech/erigon/commit/697deaa3c624077495337a1fd78e6dc6986d3e5a) - 2025-05-22
 * [Commit] [update](https://github.com/erigontech/erigon/commit/c5bc73fdb0064e951862b5bf32f1216d8d3cbef9) - 2025-05-23
+* [Commit] [metadata](https://github.com/erigontech/erigon/commit/737d575ef099d935569018f64d8a20d4914e0c1a) - 2025-05-26
+* [Commit] [update](https://github.com/erigontech/erigon/commit/7ef8b5cf10036fd7c5f339497c70ac25c96e74fe) - 2025-05-26
+* [Commit] [non-ptr `OnBalanceChange` hook (#15199)](https://github.com/erigontech/erigon/commit/4e942f7cca45dfe44367948a518d71e6d2d91d5a) - 2025-05-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

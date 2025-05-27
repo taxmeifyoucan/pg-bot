@@ -61,6 +61,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Portal: Fix beacon lc bootstrap validation](https://github.com/status-im/nimbus-eth1/pull/3316) - 2025-05-22
 * [Commit] [Portal: allow beacon lc to try each individual update in an offer (#3326)](https://github.com/status-im/nimbus-eth1/commit/13c6924600165d3351ae93eaa35fafb2736b7869) - 2025-05-23
 * [Pull Request] [Portal: allow beacon lc to try each individual update in an offer](https://github.com/status-im/nimbus-eth1/pull/3326) - 2025-05-23
+* [Commit] [Portal beacon: reset LC store on setting new trusted block root (#3331)](https://github.com/status-im/nimbus-eth1/commit/aff4b93a50679e4304f7e397884164f7eb8aa0e1) - 2025-05-26
+* [Pull Request] [Portal beacon: reset LC store on setting new trusted block root](https://github.com/status-im/nimbus-eth1/pull/3331) - 2025-05-26
+* [Commit] [Portal bridge: fixes and refactor beacon bridge (#3329)](https://github.com/status-im/nimbus-eth1/commit/b7c89e07644845e51c3e8ce6fecdc9ff153de150) - 2025-05-26
+* [Pull Request] [Portal bridge: fixes and refactor beacon bridge](https://github.com/status-im/nimbus-eth1/pull/3329) - 2025-05-26
+* [Commit] [Portal bridge: fixes and refactor beacon bridge](https://github.com/status-im/nimbus-eth1/commit/f8648166dcb70f2a36dcdaa779de3e6176aa6384) - 2025-05-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28

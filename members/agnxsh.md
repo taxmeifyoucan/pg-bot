@@ -93,6 +93,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [reflect new quarantine changes](https://github.com/status-im/nimbus-eth2/commit/da3a5edc18c24dab094750fd52ff9c7ca9599eaa) - 2025-05-25
 * [Commit] [Bump nim-bearssl to v0.2.6 (#7177)](https://github.com/status-im/nimbus-eth2/commit/b069774ee4f399155a2d2c7f51caa732b7978eb7) - 2025-05-25
 * [Commit] [removed data column quarantine](https://github.com/status-im/nimbus-eth2/commit/f17627904192932533d5fea53b0b0146eb49b74b) - 2025-05-25
+* [Commit] [handle one more case](https://github.com/status-im/nimbus-eth2/commit/a4517ce5f7fb4b51fff8fc1c37eed97ce717b6c3) - 2025-05-26
+* [Commit] [strip spaces due to indentation](https://github.com/status-im/nimbus-eth2/commit/bd762fdff73f2e9094c00a643b52b7e8356c33bd) - 2025-05-26
+* [Commit] [fix some formatting stuff](https://github.com/status-im/nimbus-eth2/commit/ec74501fc63abcae5beff13314f0fe1f7a988fdc) - 2025-05-26
+* [Pull Request] [add: bpo parsing](https://github.com/status-im/nimbus-eth2/pull/7195) - 2025-05-26
+* [Commit] [add bpo numbers](https://github.com/status-im/nimbus-eth2/commit/8ce0c032eaae2cf2d08861f06636bdba93ca7c3c) - 2025-05-26
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
