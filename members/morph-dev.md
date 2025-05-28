@@ -34,6 +34,7 @@ Team: Portal Network (EF)
 * [Issue] [FindContentQuery doesn't use Metric when calculating distance](https://github.com/ethereum/trin/issues/1853) - 2025-05-22
 * [Pull Request] [fix: trin version is incorrect](https://github.com/ethereum/trin/pull/1860) - 2025-05-26
 * [Pull Request] [feat(portalnet): handle content that doesn't depend on distance to content](https://github.com/ethereum/trin/pull/1859) - 2025-05-26
+* [Commit] [fix: trin version is incorrect (#1860)](https://github.com/ethereum/trin/commit/aa17f0a18f05de294c24474919881e6a1d98be87) - 2025-05-27
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

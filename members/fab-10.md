@@ -35,6 +35,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Update last appearance of old Tuweni coordinates (#8685)](https://github.com/hyperledger/besu/commit/c5bf6d27d6bcb7fdcc0e51757b2f116aa183cd04) - 2025-05-23
 * [Commit] [Make gas estimation strict by default (#8629)](https://github.com/hyperledger/besu/commit/3e52bb358adc5ecd6d25894e4e2b8918b8f131f7) - 2025-05-23
 * [Pull Request] [Update last appearance of old Tuweni coordinates](https://github.com/hyperledger/besu/pull/8685) - 2025-05-23
+* [Commit] [Gradle dependency resolution consistency (#8701)](https://github.com/hyperledger/besu/commit/b6a12388988855f9c2937f4ca4f8ae73ae2e5080) - 2025-05-27
+* [Pull Request] [Enable Gradle dependency resolution consistency](https://github.com/hyperledger/besu/pull/8701) - 2025-05-27
+* [Pull Request] [EIP-7825: Transaction gas limit cap](https://github.com/hyperledger/besu/pull/8700) - 2025-05-27
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

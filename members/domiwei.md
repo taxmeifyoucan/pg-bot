@@ -96,6 +96,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [metadata](https://github.com/erigontech/erigon/commit/737d575ef099d935569018f64d8a20d4914e0c1a) - 2025-05-26
 * [Commit] [update](https://github.com/erigontech/erigon/commit/7ef8b5cf10036fd7c5f339497c70ac25c96e74fe) - 2025-05-26
 * [Commit] [non-ptr `OnBalanceChange` hook (#15199)](https://github.com/erigontech/erigon/commit/4e942f7cca45dfe44367948a518d71e6d2d91d5a) - 2025-05-26
+* [Commit] [update](https://github.com/erigontech/erigon/commit/b1dddfadee37b140579e15319aee915de5a7ab10) - 2025-05-27
+* [Commit] [remove duplicate code](https://github.com/erigontech/erigon/commit/8a2ff3e2b00079c4f08d02175dcc6e2152e26cd9) - 2025-05-27
+* [Commit] [more verbose CI (#15253)](https://github.com/erigontech/erigon/commit/385e8430d141b8d228bafaf0d7fa74b055345011) - 2025-05-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

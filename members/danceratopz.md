@@ -256,6 +256,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/c6a4ba039d4c8668ee42c942e6e693701098b188) - 2025-05-26
 * [Commit] [Deployed 020f728eef to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2240bd74e31f3f7ebfe6ae7381ca9d8b48fcf30d) - 2025-05-26
 * [Commit] [refactor(tests): use the `pre` fixture in `SELFDESTRUCT` collision tests (#1643)](https://github.com/ethereum/execution-spec-tests/commit/020f728eefedc75a68e6fba6dbc65322e1d9f490) - 2025-05-26
+* [Commit] [Deployed 2556e6af32 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/b670a84380ec74bcbcb3642060a224100bfeebe5) - 2025-05-27
+* [Commit] [Deployed 4db2552cc2 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/9f6021d5b8d3a593be4b3340a13a1fa6fe495283) - 2025-05-27
+* [Commit] [Deployed 3f52b09d73 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/ab44a2742132e10712a886a97c904a0cc691396e) - 2025-05-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

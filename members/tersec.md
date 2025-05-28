@@ -150,6 +150,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump nim-eth2-scenarios to 01ea1e970672072c8af7a186939b9a78e56dadb7 (#7194)](https://github.com/status-im/nimbus-eth2/commit/367f45678892cb34d2b7818fa6d443ab473c03a5) - 2025-05-25
 * [Pull Request] [bump nim-eth2-scenarios to 01ea1e970672072c8af7a186939b9a78e56dadb7](https://github.com/status-im/nimbus-eth2/pull/7194) - 2025-05-25
 * [Pull Request] [some manual consensus spec v1.6.0-alpha.0 URL updates](https://github.com/status-im/nimbus-eth2/pull/7193) - 2025-05-25
+* [Commit] [Group data columns by block root instead of column index in database (#7199)](https://github.com/status-im/nimbus-eth2/commit/6b6c22ae28dae95a9d3b548c3589aa2a8c685c29) - 2025-05-27
+* [Commit] [Provide blocks / blobs regardless of payload validation status (#7198)](https://github.com/status-im/nimbus-eth2/commit/7a509e599418d1ca0583274f9019b6a38a1d2c92) - 2025-05-27
+* [Commit] [Sync: Wait for empty response confirmation before advance. (#7197)](https://github.com/status-im/nimbus-eth2/commit/58f5309c1ae06f13f82e4b0ae970fc6fc93d73b0) - 2025-05-27
+* [Commit] [Add ability for SyncOverseer to pause backfilling when sync distance is out of range. (#7191)](https://github.com/status-im/nimbus-eth2/commit/af2b356132d1b917b660b14ea459f43ef83cb287) - 2025-05-27
+* [Commit] [fix column quarantine test](https://github.com/status-im/nimbus-eth2/commit/66952f545a60aafe3574731c6283bfcacf74c280) - 2025-05-27
+* [Commit] [rm oncolumn callback](https://github.com/status-im/nimbus-eth2/commit/7dc0f2e2a652f3adfa0852a6fc1183bfc15e3732) - 2025-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

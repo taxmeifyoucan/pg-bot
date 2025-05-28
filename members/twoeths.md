@@ -101,6 +101,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: do not refer to light-client on BeaconChain](https://github.com/ChainSafe/lodestar/commit/6f6509038434c7ca222eed82eeedeff84eb31702) - 2025-05-24
 * [Commit] [fix: remove lightclient from cli](https://github.com/ChainSafe/lodestar/commit/3860a11a0ffba7550e46d4fab6fa34675da3ebb1) - 2025-05-24
 * [Pull Request] [feat: run lodestar with Bun](https://github.com/ChainSafe/lodestar/pull/7867) - 2025-05-24
+* [Issue] [PeerDAS - lodestar computes wrong message ids](https://github.com/ChainSafe/lodestar/issues/7879) - 2025-05-27
+* [Pull Request] [fix: correct labels of gossipsub_iwant_promise_delivery_seconds metrics](https://github.com/ChainSafe/lodestar/pull/7878) - 2025-05-27
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

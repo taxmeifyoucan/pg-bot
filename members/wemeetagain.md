@@ -38,6 +38,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Use latest bls spec tests](https://github.com/ChainSafe/lodestar/issues/7818) - 2025-05-12
 * [Pull Request] [chore: use digital ocean to store spec tests](https://github.com/ChainSafe/lodestar/pull/7817) - 2025-05-12
 * [Commit] [chore: fix broken panels due to missing historical state worker metrics (#7826)](https://github.com/ChainSafe/lodestar/commit/cbebcdc0d5ce60fff2cc2c74d637092b3375557c) - 2025-05-14
+* [Commit] [chore: bump @chainsafe/threads to v1.11.2 (#7877)](https://github.com/ChainSafe/lodestar/commit/fa41ea44dedb9cd16a35eeaa8594abe158aa29b6) - 2025-05-27
+* [Commit] [chore: throw error if ssz types for fork are not defined (#7850)](https://github.com/ChainSafe/lodestar/commit/a35c3a3341fc964e224680d225456bc00cfef945) - 2025-05-27
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

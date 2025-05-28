@@ -2002,6 +2002,46 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/802d7fe00d6abd85c4a6b3ded77aa46f53a200b6) - 2025-05-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6a5298645b56f6bb47f24035895e42607b0d5b54) - 2025-05-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/fd14068f5b3ddddc943b352af148d3f447b88711) - 2025-05-26
+* [Commit] [forkable agg files gc (#15258)](https://github.com/erigontech/erigon/commit/110004e1f10fa073fca68d9940849f59e8eda703) - 2025-05-27
+* [Commit] [forkable agg: merge logic (#14908)](https://github.com/erigontech/erigon/commit/9daf5dc5d60be976ef9a366b047c2bf4f64510fd) - 2025-05-27
+* [Commit] [[e31] dl: remove .torrent after merge (#15283)](https://github.com/erigontech/erigon/commit/5669ef8e2078e5aaadb275793b84c7f21ded199b) - 2025-05-27
+* [Commit] [dl: remove .torrent after merge  (#15282)](https://github.com/erigontech/erigon/commit/396d83ee54e9eafda1a32ad6842c397f8a1ac28e) - 2025-05-27
+* [Commit] [enable more linters (#15269)](https://github.com/erigontech/erigon/commit/17d10bd30763509f634459e5283ffcc40eba500b) - 2025-05-27
+* [Commit] [[e30] rpctest eth_getLogs no-duplicates chk (#15234)](https://github.com/erigontech/erigon/commit/51ecfe1043b69bce94620a97b467aceecaac40a3) - 2025-05-27
+* [Commit] [Update ChangeLog.md (#15232)](https://github.com/erigontech/erigon/commit/15642f53fcc26e8fe0553705356ed50f08ed5088) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8ec83604cd38e90707e987089a10dc8d9b168b09) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0f2e2574e28014b9cd3f89b8df98cc268b336900) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b382edff99e0dba8709c78e56310bda8c1d3f1c9) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/497d94c068bf1c4754b291514faff592a7cff24f) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8e12cc66e7eea3356441fa5de5fd5779e7ba4777) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b8dd5b9941ac8e4c75fab064b01d5df8862654f2) - 2025-05-27
+* [Commit] [[e30] agg: .ef files garbage didn't cleanup (#15242)](https://github.com/erigontech/erigon/commit/75aa63c80497e3e789ddb621740ebf7c51e5a51c) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/55c393ac1bf05c0b0443435bed9ae517b3391021) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ea0aec557568cdcc335d162096b62c290a0ec0c0) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/16cd99677ba75443ddf4d7d8a420b1e17f33bcfd) - 2025-05-27
+* [Pull Request] [[e31] dl: remove .torrent after merge](https://github.com/erigontech/erigon/pull/15283) - 2025-05-27
+* [Pull Request] [dl: remove .torrent after merge ](https://github.com/erigontech/erigon/pull/15282) - 2025-05-27
+* [Pull Request] [dl: remove .torrent after merge ](https://github.com/erigontech/erigon/pull/15281) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/49e9c306b7ec70c6a3444b5bd8e796210e3c5942) - 2025-05-27
+* [Commit] [rm mutex from Domain](https://github.com/erigontech/erigon/commit/62d27c1a88ece3fd943ea898e9a2b69ad3af66a6) - 2025-05-27
+* [Commit] [rm mutex from Domain](https://github.com/erigontech/erigon/commit/06decaf916845eb4734a71d8174eb88d02ea6186) - 2025-05-27
+* [Commit] [cl: fix builder client mock (#15251)](https://github.com/erigontech/erigon/commit/84523263ffa766c6156ea6aaf9984f44cd0b0d52) - 2025-05-27
+* [Commit] [tests: run TestShutterBlockBuilding and TestMiningBenchmark in medium tests (#15275)](https://github.com/erigontech/erigon/commit/64333c0be3418d27cde6f830e2d1da584293cf17) - 2025-05-27
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/e67a2d92a06548f308a09b80714ea0ec2f784dfb) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/62d7acb049f1f76cd49d99f5c30d152072a2503f) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/40fd2bc5f3f70069839817d89caebd9b3b6ca501) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3eecd8e6d24c446d9c82eb7457632e021440bc58) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fdb1b856d68d05472b597e49e152154a98611480) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5c2d0ed0004d9c4f16d2276a06794adc568d176c) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/67ed9cd13df05d37ef9f6004616c88b3afcecfa1) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3a29f70c3e2e5ca2b45e71facf61a0bb386e6b89) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/061a187041776e7cc08808dffa1cfe6686731707) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6137284f02ecc82cb98c017e99e0c2f6cc72e564) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1de592923a5e8558760d62c1ae4306cc8bcf7e3a) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/512344e02db7f36acf6e25fdf1f0b71a94540fd6) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/28465880ec7df391322e3795c90540babeadfc40) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/95467dbe199d3364f65d12dd076c8934a3b691e5) - 2025-05-27
+* [Commit] [Fix Integration tests after turning p2p into a module (#15270)](https://github.com/erigontech/erigon/commit/14a6a089e28f5f7e7da11cfca8488281cfb179a2) - 2025-05-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

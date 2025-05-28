@@ -118,6 +118,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/commit/253ef4fc83fdb0519f9ac5e4d7d7609aabeab181) - 2025-05-26
 * [Commit] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/commit/ac39e0174633d47c7d0148bf50bce5f1c57ffefe) - 2025-05-26
 * [Commit] [Add support for nightly test vectors (#15312)](https://github.com/OffchainLabs/prysm/commit/f8d895a5eddd654c2357a55b85a7858c9fdc85d8) - 2025-05-26
+* [Commit] [Fix Terence's comment.](https://github.com/OffchainLabs/prysm/commit/1fc548e9c99fabb2f052c432b450a405512cdce1) - 2025-05-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

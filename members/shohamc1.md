@@ -115,6 +115,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Implement ERC-7562 tracer (#14705)](https://github.com/erigontech/erigon/commit/d2d0267cc45e82566bcdfdb128c97be3f69642d4) - 2025-05-20
 * [Commit] [fix invalid filter rsp in eth_getFilterChanges/eth_getFilterLogs (#15230)](https://github.com/erigontech/erigon/commit/9e29e7f82d41ab6196c9872e2e81457bd2cce477) - 2025-05-25
 * [Commit] [wip](https://github.com/erigontech/erigon/commit/a378bf05f264d9bb0e170732d47fbc806f75335f) - 2025-05-26
+* [Commit] [Fix test](https://github.com/erigontech/erigon/commit/a0cba77a1cc7d64bda5dc6dd39d2a5224831aa56) - 2025-05-27
+* [Commit] [Add `Set` prefix](https://github.com/erigontech/erigon/commit/d6e38cac9a8c3e414384d952a7b177e588644a93) - 2025-05-27
+* [Commit] [Fix imports](https://github.com/erigontech/erigon/commit/e61d0b501a1ba1c30d88356694a0ef31767c76a9) - 2025-05-27
+* [Pull Request] [Implement eth/69](https://github.com/erigontech/erigon/pull/15279) - 2025-05-27
+* [Commit] [Implement ERC-7562 tracer (#14705)](https://github.com/erigontech/erigon/commit/d2d0267cc45e82566bcdfdb128c97be3f69642d4) - 2025-05-27
+* [Commit] [fix tests](https://github.com/erigontech/erigon/commit/7a8e948267d2414dd330d74782b15452b962e1c9) - 2025-05-27
+* [Commit] [update receipts RLP](https://github.com/erigontech/erigon/commit/ffe50151f398f2ef9db3cf2dce74f9c6ce56c257) - 2025-05-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

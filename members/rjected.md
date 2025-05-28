@@ -52,6 +52,7 @@ Team: Reth
 * [Commit] [fix: correctly set txtype if `blobVersionedHashes` is present (#16182)](https://github.com/paradigmxyz/reth/commit/d5e61c71d9d15cd9148a6499c92db4806fc8755a) - 2025-05-14
 * [Commit] [chore(trie): cargo fmt](https://github.com/paradigmxyz/reth/commit/4f665a451b2ad917ae69184074a62de37ff4fb3a) - 2025-05-15
 * [Issue] [Add info logs for beginning of newPayload requests](https://github.com/paradigmxyz/reth/issues/16448) - 2025-05-23
+* [Commit] [refactor: relax `OpAddOns`  (#16180)](https://github.com/paradigmxyz/reth/commit/b9e218343cb55f8985501ed238087e1c0687413c) - 2025-05-27
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

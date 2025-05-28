@@ -170,6 +170,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: restore dashboard variable names and inputs during download](https://github.com/ChainSafe/lodestar/pull/7872) - 2025-05-25
 * [Commit] [chore: restore dashboard variable names and inputs during download](https://github.com/ChainSafe/lodestar/commit/2cc046286b0ed9013bf65fe6e3a93cbe3ee6e8d9) - 2025-05-25
 * [Pull Request] [chore: bump @chainsafe/threads to v1.11.2](https://github.com/ChainSafe/lodestar/pull/7877) - 2025-05-26
+* [Commit] [chore: restore dashboard variable names and inputs during download (#7872)](https://github.com/ChainSafe/lodestar/commit/f7f780ef8fe4a95d79a348466d7b37183e22a60f) - 2025-05-27
+* [Commit] [fix: add special handling for blob schedule when asserting equal params (#7859)](https://github.com/ChainSafe/lodestar/commit/33ca09539ba6df5ec44fb767fa59545edc89fa7e) - 2025-05-27
+* [Commit] [chore: correct labels of gossipsub_iwant_promise_delivery_seconds metrics (#7878)](https://github.com/ChainSafe/lodestar/commit/af282209374621bd7d28159ae0e45802a4a38814) - 2025-05-27
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

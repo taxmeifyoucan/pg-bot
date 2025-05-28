@@ -97,6 +97,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [reverting all changes to get duties v1 based on preston's feedback](https://github.com/OffchainLabs/prysm/commit/cbaea72322b061658138bf5e94a26f7af36ce4ce) - 2025-05-19
 * [Commit] [Update proto/prysm/v1alpha1/validator.proto](https://github.com/OffchainLabs/prysm/commit/4848dbe418e303db5a63052e95569060346d770a) - 2025-05-20
 * [Commit] [Enable Light Client req/resp domain (#15281)](https://github.com/OffchainLabs/prysm/commit/5bbcfe5237550422b42b170aae5ddd24fced2d7f) - 2025-05-20
+* [Commit] [move account changed channel into validator for code cleanup (#15298)](https://github.com/OffchainLabs/prysm/commit/e34313c7520ce864306c3e5f0484ea01011fdb9e) - 2025-05-27
+* [Commit] [fixing import](https://github.com/OffchainLabs/prysm/commit/30b79da38c043ba57ead2ec657bc6871808b055e) - 2025-05-27
+* [Commit] [Add fulu spec tests for sanity and reward (#15285)](https://github.com/OffchainLabs/prysm/commit/eafef8c7c803f5a63755a9a63377c3bd6459aa41) - 2025-05-27
+* [Commit] [Changelog v6.0.2 (#15270)](https://github.com/OffchainLabs/prysm/commit/74aca49741ac9d43c8323d944ebfb23dc38fc479) - 2025-05-27
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -157,6 +157,39 @@ Team: Reth
 * [Commit] [add trie input logs](https://github.com/paradigmxyz/reth/commit/fc9bb98480c1dd73a5a3ac10e6df6d9df0edf582) - 2025-05-26
 * [Commit] [add trie input logs](https://github.com/paradigmxyz/reth/commit/b268e7f25ed424ec02ba8602f932659ad2eb11af) - 2025-05-26
 * [Commit] [add trie input logs](https://github.com/paradigmxyz/reth/commit/b6ec6a917a639bf24204f336ae670c61a21495ae) - 2025-05-26
+* [Commit] [remove unused imports](https://github.com/paradigmxyz/reth/commit/d16c192b5d0e3b2bf020134b0bbe9c0ed603ddb5) - 2025-05-27
+* [Commit] [remove unused imports](https://github.com/paradigmxyz/reth/commit/ef1674d1359b9b385821460eedc7f5f7f698def0) - 2025-05-27
+* [Commit] [remove fallback fix, fix extend_trie_updates init value](https://github.com/paradigmxyz/reth/commit/591ba8c8ff499073b157d66f3025feb0ad403df8) - 2025-05-27
+* [Commit] [remove fallback fix, fix extend_trie_updates init value](https://github.com/paradigmxyz/reth/commit/e048c282cc38fcdd9d7dbf681c980c8d9c56f679) - 2025-05-27
+* [Issue] [Compute trie input for fallback state root calculation](https://github.com/paradigmxyz/reth/issues/16503) - 2025-05-27
+* [Commit] [remove fallback fix, fix extend_trie_updates init value](https://github.com/paradigmxyz/reth/commit/5c999f7438b6d5ab3ef68ab6f32a51ca4be125db) - 2025-05-27
+* [Commit] [check ancestors for missing trie updates](https://github.com/paradigmxyz/reth/commit/c53012781b673080f40514458a04e0b9ca668c21) - 2025-05-27
+* [Commit] [consticted?](https://github.com/paradigmxyz/reth/commit/73177b116bff0f565d6ed4a8fc8923ccc194c97d) - 2025-05-27
+* [Commit] [do not swap prefix sets](https://github.com/paradigmxyz/reth/commit/5a4ab85184d4cd582ed22761d1dc7e6ed1350ba2) - 2025-05-27
+* [Commit] [extend prefix sets for state without trie updates](https://github.com/paradigmxyz/reth/commit/9a0e3980e6d28de6efee9b6e65213b5da788fc82) - 2025-05-27
+* [Commit] [extend prefix sets for state without trie updates](https://github.com/paradigmxyz/reth/commit/27d24b5be7c691d1933a933e1b0def3ef1629379) - 2025-05-27
+* [Commit] [extend prefix sets for state without trie updates](https://github.com/paradigmxyz/reth/commit/a148990a9cd838dbc22f42b5b6c76ea70eb64e9e) - 2025-05-27
+* [Commit] [extend prefix sets for state without trie updates](https://github.com/paradigmxyz/reth/commit/ab8f3a79821ec2be86984a422ca66ca403f2bdfc) - 2025-05-27
+* [Commit] [extend prefix sets for state without trie updates](https://github.com/paradigmxyz/reth/commit/8266cbcc0bd432f140024308f9b829d2c7eb4134) - 2025-05-27
+* [Commit] [extend trie updates until we find first with missing](https://github.com/paradigmxyz/reth/commit/77c4911f4f885158cfeaf8d0162747a1c91ac393) - 2025-05-27
+* [Commit] [remove debug logs](https://github.com/paradigmxyz/reth/commit/5ee85323631e30330d4371e2b2fbb463b4f017b0) - 2025-05-27
+* [Pull Request] [fix(engine): do not store trie updates for forked blocks](https://github.com/paradigmxyz/reth/pull/16500) - 2025-05-27
+* [Commit] [more comments](https://github.com/paradigmxyz/reth/commit/a649f2f63d090f5a899814b09dd274f05093323f) - 2025-05-27
+* [Commit] [remove unwraps](https://github.com/paradigmxyz/reth/commit/1fc9d9a425d75c771e53beb9dbdb9abe4f53e1b0) - 2025-05-27
+* [Commit] [fix fork detection](https://github.com/paradigmxyz/reth/commit/fab956416aef6fa6418f001411f0ac1ee927f15e) - 2025-05-27
+* [Commit] [fix fork detection](https://github.com/paradigmxyz/reth/commit/619d4850b9d62caf519edea2763374e7ef678728) - 2025-05-27
+* [Commit] [fix fork detection](https://github.com/paradigmxyz/reth/commit/2753bc38516ed1ddbae7211f6054746899ba8daa) - 2025-05-27
+* [Commit] [fix fork detection](https://github.com/paradigmxyz/reth/commit/0e59f2e01895949f5ec7d8ffd02f39ea26db5ec8) - 2025-05-27
+* [Commit] [fix fork detection](https://github.com/paradigmxyz/reth/commit/f9799f007a88344146ba79bc635168e97a533573) - 2025-05-27
+* [Commit] [remove excessive logs](https://github.com/paradigmxyz/reth/commit/b86143d8daf3040f39d13c50b7607573b1db7eb8) - 2025-05-27
+* [Commit] [remove excessive logs](https://github.com/paradigmxyz/reth/commit/66075b48438b5d914993f2ae14807d2bbb95c4fd) - 2025-05-27
+* [Commit] [fix with lots of unwraps](https://github.com/paradigmxyz/reth/commit/dd7df7073553318734f71814704c31ac8bfd2575) - 2025-05-27
+* [Commit] [Revert "fix?"](https://github.com/paradigmxyz/reth/commit/c7dc74dcc7dd4dfe663d73cf8a41854e0fdcc544) - 2025-05-27
+* [Commit] [fix?](https://github.com/paradigmxyz/reth/commit/69353c38078b374ca3abf1d14953ab0d663d5417) - 2025-05-27
+* [Commit] [fix?](https://github.com/paradigmxyz/reth/commit/ec167d503c9f3fd7a30bac11dc398ead0fedd3df) - 2025-05-27
+* [Commit] [fix?](https://github.com/paradigmxyz/reth/commit/5ba5e7f61e7d75b23d1cc5afd7d1993dc2b1c350) - 2025-05-27
+* [Commit] [debug level](https://github.com/paradigmxyz/reth/commit/89f7cbea4e223f9e67e9ebe36615e2bca7ee6033) - 2025-05-27
+* [Commit] [log persisted trie updates](https://github.com/paradigmxyz/reth/commit/3b82a98fd32dc95af11a9f22713d7b47495594cc) - 2025-05-27
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

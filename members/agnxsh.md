@@ -98,6 +98,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix some formatting stuff](https://github.com/status-im/nimbus-eth2/commit/ec74501fc63abcae5beff13314f0fe1f7a988fdc) - 2025-05-26
 * [Pull Request] [add: bpo parsing](https://github.com/status-im/nimbus-eth2/pull/7195) - 2025-05-26
 * [Commit] [add bpo numbers](https://github.com/status-im/nimbus-eth2/commit/8ce0c032eaae2cf2d08861f06636bdba93ca7c3c) - 2025-05-26
+* [Commit] [delay reconstruction from critical path](https://github.com/status-im/nimbus-eth2/commit/19648ed3d4b4b70d2668f3b2ebec39dc0b1f9b9a) - 2025-05-27
+* [Commit] [comment out a check](https://github.com/status-im/nimbus-eth2/commit/34c22e373f599bcd32c8da11193512464796edb2) - 2025-05-27
+* [Commit] [stop rejecting blocks with blobs more than electra](https://github.com/status-im/nimbus-eth2/commit/99289567ea838b9b05cdb3d3626f0a2dd37f9da6) - 2025-05-27
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

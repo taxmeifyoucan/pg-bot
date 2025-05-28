@@ -47,6 +47,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Update `engine_getBlobsV2` response type and add `getBlobsV2` tests](https://github.com/sigp/lighthouse/pull/7505) - 2025-05-21
 * [Commit] [Extract get_domain for VoluntaryExit (#7454)](https://github.com/sigp/lighthouse/commit/851ee2bcedfc52c1eb245e6ccd1a7ad400e001e8) - 2025-05-26
 * [Commit] [Pass blobs into `ValidatorStore::sign_block` (#7497)](https://github.com/sigp/lighthouse/commit/0688932de28de0bf18b00ed7a2e0f9b5f6cc09fd) - 2025-05-26
+* [Issue] [Data column reconstruction taking 5+ seconds on devnets with high blob count](https://github.com/sigp/lighthouse/issues/7526) - 2025-05-27
+* [Pull Request] [Update mergify rules so that I can add `waiting-on-author` on a PR th…](https://github.com/sigp/lighthouse/pull/7525) - 2025-05-27
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

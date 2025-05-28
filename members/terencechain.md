@@ -69,6 +69,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Fix seen blob cache size at start up](https://github.com/OffchainLabs/prysm/pull/15348) - 2025-05-25
 * [Commit] [Fix tests](https://github.com/OffchainLabs/prysm/commit/f3f3ab35e36902fd2e401046807bf319f547aaa3) - 2025-05-26
 * [Commit] [PeerDAS: Implement the validation pipeline for data column sidecars received via gossip (#15310)](https://github.com/OffchainLabs/prysm/commit/00204ffa6aabb579c1ad12330bddfad122869144) - 2025-05-26
+* [Commit] [Use electra max blob size](https://github.com/OffchainLabs/prysm/commit/68831f8e1e6b62dc35b48dc3f04c1350020385ca) - 2025-05-27
+* [Commit] [Manus feedback](https://github.com/OffchainLabs/prysm/commit/11b6a7bb0e2d2c5016f89614f3690f4a5d52a3f3) - 2025-05-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Update fulu p2p spec for BPO](https://github.com/ethereum/consensus-specs/issues/4331) - 2025-05-19
 ## Q1 2025

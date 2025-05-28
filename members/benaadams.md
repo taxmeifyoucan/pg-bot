@@ -251,6 +251,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Use shared method](https://github.com/NethermindEth/nethermind/commit/17d85ec7d77674cc79afd0d4530041e863fa8edf) - 2025-05-25
 * [Pull Request] [Perform stack writes as single 32 vector](https://github.com/NethermindEth/nethermind/pull/8691) - 2025-05-25
 * [Commit] [Optimize 12 x 20byte  & 32byte OpCodes (#8687)](https://github.com/NethermindEth/nethermind/commit/4e535f26d1eac00f633b9fdad174f63590301b5d) - 2025-05-25
+* [Pull Request] [Add logo on startup](https://github.com/NethermindEth/nethermind/pull/8701) - 2025-05-27
+* [Commit] [Add BPOs (#8631)](https://github.com/NethermindEth/nethermind/commit/f1ff380024f6b7c8e5e2495fe6af667259543fd6) - 2025-05-27
+* [Commit] [Revert "Use SpecProvider"](https://github.com/NethermindEth/nethermind/commit/1604e6047d5ce1338a2baafa9464603b4f9c9c05) - 2025-05-27
+* [Commit] [Use SpecProvider](https://github.com/NethermindEth/nethermind/commit/189ef1d2d870a3ae775bb7d5fe5f758b0051a68f) - 2025-05-27
+* [Commit] [mods](https://github.com/NethermindEth/nethermind/commit/5ef3c3a3eeceee058398f9993e7562e12045cefb) - 2025-05-27
+* [Pull Request] [Warm up evm instructions](https://github.com/NethermindEth/nethermind/pull/8699) - 2025-05-27
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

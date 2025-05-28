@@ -150,6 +150,9 @@ Team: Erigon
 * [Commit] [[r31] persistent receipts in eth_getLogs used wrong txNum (#15102)](https://github.com/erigontech/erigon/commit/a82f36d2cb30f9e64a957b1d39fe01382e6ebff4) - 2025-05-26
 * [Commit] [Fix Getblobsv1 with nil](https://github.com/erigontech/erigon/commit/60a66378220b54dfdb1dc7463fbbe9d01c201872) - 2025-05-26
 * [Commit] [Add parseTxnTest and fmt](https://github.com/erigontech/erigon/commit/ac2c3a1b306455a64bbbc491aaaab491a1d4e434) - 2025-05-26
+* [Commit] [Fix edge transition](https://github.com/erigontech/erigon/commit/44e00329cf1278d1784bfb014f8ccbbf54b8ae8c) - 2025-05-27
+* [Commit] [Fix getBlobsV2 and add tests](https://github.com/erigontech/erigon/commit/a613947b38b793bc0ed34325de56f3aa10f5663f) - 2025-05-27
+* [Commit] [Add fusaka kurtosis](https://github.com/erigontech/erigon/commit/f4750a2ca9c93490abba02993339a64a788ffd41) - 2025-05-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

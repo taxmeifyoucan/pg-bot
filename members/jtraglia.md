@@ -88,6 +88,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Run linting on pysetup directory](https://github.com/ethereum/consensus-specs/pull/4335) - 2025-05-20
 * [Commit] [Bump the actions group with 3 updates](https://github.com/ethereum/consensus-specs/commit/453214f0c6f705d12675ed64f9cd4e4d47d3df2d) - 2025-05-20
 
+* [Pull Request] [Remove Deneb/Electra from blob schedule and default to Electra limit](https://github.com/ethereum/consensus-specs/pull/4341) - 2025-05-27
+* [Commit] [Allow custom arg parser in test generators (#4339)](https://github.com/ethereum/consensus-specs/commit/b558308bb99a2f10f8990a8e6441e3c67f4e13a9) - 2025-05-27
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 ## Q1 2025

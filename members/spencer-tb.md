@@ -87,6 +87,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore: eels for eip-7883.](https://github.com/ethereum/execution-spec-tests/commit/e0857e5a0cd2ab592c1bc86f21d60ab1127a2906) - 2025-05-20
 * [Commit] [bump ruff and fix vsc ruff warning](https://github.com/ethereum/execution-spec-tests/commit/48db8e72d9de4f90e51f7822a9ac6e049a378d6e) - 2025-05-20
 * [Commit] [chore.](https://github.com/ethereum/execution-spec-tests/commit/64a691b094d997b7e70d2062923d1b67346c895b) - 2025-05-20
+* [Commit] [chore(tests): add remaining 7883 test vectors.](https://github.com/ethereum/execution-spec-tests/commit/ab5a86148fd7d3f3dfaf6b9b6378e404bfa67994) - 2025-05-27
+* [Commit] [chore(fill): Silence tarfile DeprecationWarning in fixture download (#1663)](https://github.com/ethereum/execution-spec-tests/commit/4db2552cc27ec4a8a669e85bf8f0fddae66a0ba0) - 2025-05-27
+* [Issue] [feat(execute): improve execute hive mode markers and session scope](https://github.com/ethereum/execution-spec-tests/issues/1664) - 2025-05-27
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

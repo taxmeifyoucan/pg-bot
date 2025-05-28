@@ -30,9 +30,18 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 
+* [Issue] [AllWalletDevs | call #34 | June 18, 2025](https://github.com/ethereum/pm/issues/1558) - 2025-05-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [CI: Bump HTMLProofer & run on ubuntu-24.04 (#9657)](https://github.com/ethereum/EIPs/commit/a50046e184aced68194613bc92f2a2b00f02a7ba) - 2025-04-17
 * [Pull Request] [Bump HTMLProofer & run on ubuntu-24.04](https://github.com/ethereum/EIPs/pull/9657) - 2025-04-17
+* [Commit] [Website: Spelling issue (#9448)](https://github.com/ethereum/EIPs/commit/a2bc1f817cc66ceef951f0f8d61d2dbb04bdf5c0) - 2025-05-27
+* [Commit] [Update EIP-2982: fix spelling issues (#9660)](https://github.com/ethereum/EIPs/commit/9b9977fb7abaf52bdef994be54a8c0c7ecc803b6) - 2025-05-27
+* [Commit] [Update EIP-225: fix typos (#9787)](https://github.com/ethereum/EIPs/commit/09b48d569050b56e0a54fc23efac1c27ef5e35e1) - 2025-05-27
+* [Commit] [Update EIP-7549: Fix typos 7549 (#9785)](https://github.com/ethereum/EIPs/commit/f8d9029e5fb8dfcb7d5ba7814ed234a358ed3311) - 2025-05-27
+* [Commit] [Update EIP-712: typo fix (#9699)](https://github.com/ethereum/EIPs/commit/8ef21eb8c9374ddaa471acfc8a6f17663b643061) - 2025-05-27
+* [Commit] [add hyperlink  (#9686)](https://github.com/ethereum/EIPs/commit/2322185ff9e4f5790ed2d38a675f47c32c553c2b) - 2025-05-27
+* [Commit] [Update EIP-649: update All Core Devs links for consistency (#9652)](https://github.com/ethereum/EIPs/commit/4302e97065a320559d2b5250054a9ce2c2436423) - 2025-05-27
+* [Commit] [Update EIP-7636: Modify author to reflect recent github account renaming (#9631)](https://github.com/ethereum/EIPs/commit/74d4c9f79ee01fe42d530f5f8ef138a00bfce8df) - 2025-05-27
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

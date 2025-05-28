@@ -130,6 +130,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: Changelog](https://github.com/ethereum/execution-spec-tests/commit/72e39302136fd1a09cd7af449a552322cb421d24) - 2025-05-26
 * [Commit] [feat(github): Change zkevm feature to zkevm_36M](https://github.com/ethereum/execution-spec-tests/commit/704bdefd572306695df23b2abf7dfc1fee4ac178) - 2025-05-26
 * [Pull Request] [feat(github): Add zkevm 60M, 90M, 120M](https://github.com/ethereum/execution-spec-tests/pull/1655) - 2025-05-26
+* [Commit] [refactor(types): Update NetworkWrappedTransaction to include wrapper version](https://github.com/ethereum/execution-spec-tests/commit/54932526e7d782ec2ed661238544807041a197c0) - 2025-05-27
+* [Commit] [feat(execution,specs): Implement `BlobsTest` execute-only spec type](https://github.com/ethereum/execution-spec-tests/commit/a38bafad440a24a6d24b77932ffb65e123a658b7) - 2025-05-27
+* [Commit] [Update docs/CHANGELOG.md](https://github.com/ethereum/execution-spec-tests/commit/08e9a601ce090de71daa70126a5b744093b61bed) - 2025-05-27
+* [Commit] [feat(tests/zkevm): amortized bn128_pairings (#1656)](https://github.com/ethereum/execution-spec-tests/commit/12bcc4bc649312a737c2991bb041dab68bb8f374) - 2025-05-27
+* [Commit] [fix(github/coverage): Account for non-zero return code from fill (#1662)](https://github.com/ethereum/execution-spec-tests/commit/3f52b09d73307d7ce7c0f8fbc4215c2e8dc5825a) - 2025-05-27
+* [Commit] [fix(plugins/ported_from): Fix and add `--ported-from-output-file` parameter](https://github.com/ethereum/execution-spec-tests/commit/6d5a7dd64a1777e06ff9d227e4e14af9758eb063) - 2025-05-27
+* [Commit] [feat(plugins/ported_tests): ported from output to file](https://github.com/ethereum/execution-spec-tests/commit/6b716b4028864a8deebb0198cf725b5788180feb) - 2025-05-27
+* [Commit] [fix(plugins/ported_tests): Non-zero return code](https://github.com/ethereum/execution-spec-tests/commit/c109a1733ed5524a2ac98db4426f324b6c0e7f09) - 2025-05-27
+* [Commit] [TEMP: Remove tox-verify](https://github.com/ethereum/execution-spec-tests/commit/6947d61adcef19119945af7a125b09a283da0c71) - 2025-05-27
+* [Pull Request] [[DO NOT MERGE] Debug coverage](https://github.com/ethereum/execution-spec-tests/pull/1661) - 2025-05-27
+* [Commit] [debug change](https://github.com/ethereum/execution-spec-tests/commit/49926d925962fd2efc525ff57846343c43e4df6b) - 2025-05-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

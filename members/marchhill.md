@@ -71,12 +71,21 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Kute: order by filename (#8657)](https://github.com/NethermindEth/nethermind/commit/17609d607fc29499b95a59f748f3a8f0ee224cf5) - 2025-05-22
 * [Commit] [Fix ClockCache.Set (#8679)](https://github.com/NethermindEth/nethermind/commit/844dc48df87c0a1ec2607b447ccd3386d487af59) - 2025-05-23
 * [Commit] [Implement EIP-7825: Transaction Gas Limit Cap (#8663)](https://github.com/NethermindEth/nethermind/commit/016a6f82d79057474a905cc5a93881976d72770f) - 2025-05-23
+* [Commit] [add missing eip enable](https://github.com/NethermindEth/nethermind/commit/50d86a6a166b7215ce985fa89d27be8dc224786f) - 2025-05-27
+* [Commit] [eip-7883 implementation (#8489)](https://github.com/NethermindEth/nethermind/commit/f26f2c69315c7b820fa21e1c739264a4b87a0734) - 2025-05-27
+* [Commit] [move constant to own file](https://github.com/NethermindEth/nethermind/commit/7e24b7edf91c7d3f279413223afb65be01e30cef) - 2025-05-27
+* [Commit] [make cleaner](https://github.com/NethermindEth/nethermind/commit/c2ca8df8cb6cde4c5c4f048e15e615d812c763ee) - 2025-05-27
+* [Commit] [Warm up evm instructions (#8699)](https://github.com/NethermindEth/nethermind/commit/d21ed0a9a06e4431764a41774e50a235172ad52a) - 2025-05-27
+* [Commit] [Implement OP CL `optimism` RPC namespace (#8667)](https://github.com/NethermindEth/nethermind/commit/7cc14006a5c3eb12daa7b6c97ac2b6689fd8b601) - 2025-05-27
+* [Commit] [fix tests, constant](https://github.com/NethermindEth/nethermind/commit/8cc0830a41e96fdbfc000a5fa88a458762e6bda4) - 2025-05-27
+* [Commit] [fix and update formula](https://github.com/NethermindEth/nethermind/commit/56467fc8389331e9835a98a0eecb120984071909) - 2025-05-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12
 * [Pull Request] [Update EIP-7793: more specific checks and sentinel value](https://github.com/ethereum/EIPs/pull/9783) - 2025-05-16
 * [Pull Request] [Update EIP-7793: specify checks & sentinel](https://github.com/ethereum/EIPs/pull/9782) - 2025-05-16
 * [Pull Request] [Update EIP-1: allow links to execution apis](https://github.com/ethereum/EIPs/pull/9809) - 2025-05-23
+* [Pull Request] [Update EIP-7793: Conditional Transactions](https://github.com/ethereum/EIPs/pull/9831) - 2025-05-27
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -68,6 +68,19 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Auto-update fast sync settings (#8689)](https://github.com/NethermindEth/nethermind/commit/ea34c769eff2d662c7472f5951800381ea3cf343) - 2025-05-25
 * [Commit] [more logs](https://github.com/NethermindEth/nethermind/commit/eedd424945ad0884ac4216ba57d56145ecd7f80d) - 2025-05-26
 * [Commit] [Migrate to Microsoft.Testing.Platform (#8190)](https://github.com/NethermindEth/nethermind/commit/c920f03d30fad6b59abed9b7cd1eb83fcf9e50b3) - 2025-05-26
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/15f9b39a6bb16754410ae7d982f6460a0ada0f04) - 2025-05-27
+* [Commit] [Update src/Nethermind/Nethermind.Evm/BlockExecutionContext.cs](https://github.com/NethermindEth/nethermind/commit/6a6aef64ae69472bfb214ef12a1179dc03229b2c) - 2025-05-27
+* [Commit] [optimize ExecutionEnvironment layout](https://github.com/NethermindEth/nethermind/commit/f06b6dfb5e23aea0abdd4769dec1c258f5a9538d) - 2025-05-27
+* [Commit] [optimize BlockExecutionContext layout](https://github.com/NethermindEth/nethermind/commit/8c7c2a6fd5672c5daf9fc838d61e7c79b005e4bd) - 2025-05-27
+* [Pull Request] [Potentially optimize: Number, GasLimit, Coinbase, PrevRandao opcodes](https://github.com/NethermindEth/nethermind/pull/8700) - 2025-05-27
+* [Commit] [remove unneded usings](https://github.com/NethermindEth/nethermind/commit/08cb9fad90db8f11fbdb429f01bc8023ecce795f) - 2025-05-27
+* [Commit] [Remove transaction validator](https://github.com/NethermindEth/nethermind/commit/14f02a06e899d8d74cec492defe371066d6f55c3) - 2025-05-27
+* [Commit] [fixes](https://github.com/NethermindEth/nethermind/commit/d982c523bfe6ace63fd109b56a5233159e88eabf) - 2025-05-27
+* [Commit] [Update src/Nethermind/Nethermind.Specs.Test/Nethermind.Specs.Test.csproj](https://github.com/NethermindEth/nethermind/commit/6b82298e0aa142db776d7920738b2088b7f20d08) - 2025-05-27
+* [Commit] [Update Directory.Packages.props](https://github.com/NethermindEth/nethermind/commit/089053eb0decb6fbf235e045d6702b13774f5c19) - 2025-05-27
+* [Commit] [Update src/Nethermind/Nethermind.Specs.Test/Nethermind.Specs.Test.csproj](https://github.com/NethermindEth/nethermind/commit/49276f30459db609c5c017d7dc32864011a881db) - 2025-05-27
+* [Commit] [EIP-7594: PeerDAS (#8417)](https://github.com/NethermindEth/nethermind/commit/092013491db53a52f491e797fb38258ca74214b6) - 2025-05-27
+* [Pull Request] [Update fork in TxParser](https://github.com/NethermindEth/nethermind/pull/8698) - 2025-05-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

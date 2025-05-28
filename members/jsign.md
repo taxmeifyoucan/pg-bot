@@ -96,6 +96,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [renamings](https://github.com/ethereum/execution-spec-tests/commit/6873d816b50734b32cbc799920b11b4241e25d8f) - 2025-05-26
 * [Commit] [add slow marker](https://github.com/ethereum/execution-spec-tests/commit/95eeb28bc136a9d39b3b93d69be4629b650e47e4) - 2025-05-26
 * [Pull Request] [Jsign zkvm pim](https://github.com/ethereum/execution-spec-tests/pull/1656) - 2025-05-26
+* [Commit] [generalize calldata argument](https://github.com/ethereum/execution-spec-tests/commit/3f93e19683f10e35393153973b1a7c7356b82d6c) - 2025-05-27
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

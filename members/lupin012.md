@@ -20,3 +20,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpcdaemon: debug_getModifiedAccountsByHash() reads only HeaderNumber not blocks with txs and senders](https://github.com/erigontech/erigon/pull/15119) - 2025-05-18
 * [Pull Request] [rpcdaemon: Fix issue 13238 ots get transaction by sender and nonce](https://github.com/erigontech/erigon/pull/15207) - 2025-05-22
 * [Commit] [intersept: support Desc order](https://github.com/erigontech/erigon/commit/3a9b457f143b79591665c837eeb4da17e82039bb) - 2025-05-25
+* [Pull Request] [[r3.0]  rpcdaemon: eth_call fix 12850](https://github.com/erigontech/erigon/pull/15289) - 2025-05-27
+* [Pull Request] [rpcdaemon: fix issue 12850](https://github.com/erigontech/erigon/pull/15287) - 2025-05-27
+* [Commit] [fix lint error](https://github.com/erigontech/erigon/commit/981cacd92b46ed87ccbd4dfbb910382d37ec54cc) - 2025-05-27
+* [Commit] [update rpc-test version](https://github.com/erigontech/erigon/commit/c947f80d145c7afc523e7fc6ff7e0343930dde8e) - 2025-05-27
+* [Pull Request] [rpcdaemon: erigon_getLatestLog(): Fix issue 12603](https://github.com/erigontech/erigon/pull/15284) - 2025-05-27
+* [Commit] [add capping of blockCount and logCount](https://github.com/erigontech/erigon/commit/d96def9bc6deffa554f1cc6ef43f72da4b28a102) - 2025-05-27

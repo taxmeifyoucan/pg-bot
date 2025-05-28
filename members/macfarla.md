@@ -61,6 +61,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [updates for pyro to use a config file (#8686)](https://github.com/hyperledger/besu/commit/5039e169fc40309bd6553e17f57275635cb674b0) - 2025-05-26
 * [Commit] [refactor: add blob schedule to protocol spec builder (#8658)](https://github.com/hyperledger/besu/commit/3a486391f6cb016948c3a6b8289a4a1295c6daf5) - 2025-05-26
 * [Commit] [Disabled London fee market flaky test  (#8692)](https://github.com/hyperledger/besu/commit/4d5ff3ed9ce9fed9b0054cbd3a3159fbf40b4196) - 2025-05-26
+* [Commit] [Chore:Remove deprecated CLI --Xsnapsync-synchronizer-flat-db-healing-… (#8416)](https://github.com/hyperledger/besu/commit/101f88971b89ec7066fc82c4b7ee995e979048db) - 2025-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

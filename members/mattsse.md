@@ -350,6 +350,17 @@ Team: Reth
 * [Commit] [feat: add exex feature to op-reth (#16459)](https://github.com/paradigmxyz/reth/commit/7b49b75a60c8aa79fcebccd381d2d1468bdd36dc) - 2025-05-26
 * [Commit] [chore: run hive every 6h (#16472)](https://github.com/paradigmxyz/reth/commit/7a7b2819b1511bf935bed0233da9a8e87fa824a8) - 2025-05-26
 * [Pull Request] [choe: add debug trace for on_new_head](https://github.com/paradigmxyz/reth/pull/16471) - 2025-05-26
+* [Commit] [chore: support tagged block numbers for all ots endpoints (#16501)](https://github.com/paradigmxyz/reth/commit/f7fd3d95798e3be36a2119eee84e6a29744c92c9) - 2025-05-27
+* [Pull Request] [chore: support tagged block numbers for all ots endpoints](https://github.com/paradigmxyz/reth/pull/16501) - 2025-05-27
+* [Commit] [fix: support tags for ots_getheaderbynumber (#16497)](https://github.com/paradigmxyz/reth/commit/f466fa1bb0e273a99db7d67f1e896f05c701b1ac) - 2025-05-27
+* [Issue] [Add EthStateCache::maybe_block_and_receipts that acts as a simple lookup](https://github.com/paradigmxyz/reth/issues/16499) - 2025-05-27
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/a5f528121fb911d0582c946d79597b5b004cd122) - 2025-05-27
+* [Issue] [Move rpc compat into OpEthApi](https://github.com/paradigmxyz/reth/issues/16498) - 2025-05-27
+* [Commit] [revert: "fix: check encoded size" (#16488)](https://github.com/paradigmxyz/reth/commit/42bf391c837f3c464a9e9fcbd6e728732bee6b7b) - 2025-05-27
+* [Commit] [fix: import](https://github.com/paradigmxyz/reth/commit/93f3d126995600a905260c032561f22af51c8d8f) - 2025-05-27
+* [Pull Request] [fix: support tags for ots_getheaderbynumber](https://github.com/paradigmxyz/reth/pull/16497) - 2025-05-27
+* [Commit] [chore: Change getBlockDetails arg to BlockNumberOrTag (#16378)](https://github.com/paradigmxyz/reth/commit/c36b5433eec1a099e3de918753bf0912fb2bce3c) - 2025-05-27
+* [Commit] [feat(rpc): specialise contiguous receipt queries for filters](https://github.com/paradigmxyz/reth/commit/eaf8c8560e4f66c6948582800ff0e3974047f8a0) - 2025-05-27
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

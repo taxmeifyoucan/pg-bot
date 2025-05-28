@@ -177,6 +177,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [wip: forkable agg gc](https://github.com/erigontech/erigon/pull/15258) - 2025-05-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ab2c2c8fc4db7b4888171ed747f7346ede904990) - 2025-05-26
 * [Issue] [forkable agg: handle garbage files](https://github.com/erigontech/erigon/issues/15257) - 2025-05-26
+* [Commit] [small fix to prevent crash (#15268)](https://github.com/erigontech/erigon/commit/35e3582a93c22c4627f6ba262ccc0d84e3cea1ff) - 2025-05-27
+* [Commit] [add](https://github.com/erigontech/erigon/commit/776ea1bbecfd5c52464860a30228be16ca4376a8) - 2025-05-27
+* [Commit] [wip](https://github.com/erigontech/erigon/commit/f8e763bcdcee0d1ab50ca06b321719bead6da4c6) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/692d4239404f451ed64019e10e99640e4dd9ed1b) - 2025-05-27
+* [Commit] [remove](https://github.com/erigontech/erigon/commit/cca38ab4798c0c37fe0c6e77f280ac5711922c60) - 2025-05-27
+* [Commit] [remove](https://github.com/erigontech/erigon/commit/c2f3160847312ae9cfef934ef870fc8de33b83ee) - 2025-05-27
+* [Pull Request] [prevent crash in FindMergeRange](https://github.com/erigontech/erigon/pull/15278) - 2025-05-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

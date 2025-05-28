@@ -47,3 +47,6 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix](https://github.com/status-im/nimbus-eth1/commit/d29c44a2b9185cf20a27b850a8bbbddf0728a44e) - 2025-05-22
 * [Pull Request] [load the jwt secret from data-dir if available](https://github.com/status-im/nimbus-eth1/pull/3320) - 2025-05-22
 * [Commit] [proxy: swap block cache for header store (#3288)](https://github.com/status-im/nimbus-eth1/commit/9334684374e3634d3d84a4ecc01e689607b4da3f) - 2025-05-23
+* [Commit] [remove unwanted comments](https://github.com/status-im/nimbus-eth1/commit/d46b1ab5161a0322afcdd2d5e0ae95c2ef6f69fc) - 2025-05-27
+* [Pull Request] [BPO Fork Implementation ](https://github.com/status-im/nimbus-eth1/pull/3337) - 2025-05-27
+* [Commit] [timestamp based blob forking impl](https://github.com/status-im/nimbus-eth1/commit/454724066a4e4db683b17508ea5db87155ad026a) - 2025-05-27

@@ -83,3 +83,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Just show the log radius as a number.](https://github.com/status-im/nimbus-eth1/commit/4fba9ee86c2eb3f11c667881912c409e571b7392) - 2025-05-26
 * [Commit] [Minor fix.](https://github.com/status-im/nimbus-eth1/commit/08c00b56e76d5050618952a74da794111a20ab8e) - 2025-05-26
 * [Commit] [Remove log radius percentage.](https://github.com/status-im/nimbus-eth1/commit/be525fdf6ad99d8275f9d09808e3c87dac9d4d6e) - 2025-05-26
+* [Commit] [Minor update to async evm.](https://github.com/status-im/nimbus-eth1/commit/b06cea8cd96e76a12f6f7f8747a64cfb11e9f95e) - 2025-05-27
+* [Pull Request] [Portal client: Retry failed offers and make content queue size configurable](https://github.com/status-im/nimbus-eth1/pull/3335) - 2025-05-27
+* [Commit] [Make size of content queues configurable.](https://github.com/status-im/nimbus-eth1/commit/eb9a601d031a611d4552fec0d1dba7470ab127a0) - 2025-05-27
+* [Commit] [Portal client: Drop remaining offer content after first validation failure in state network (#3334)](https://github.com/status-im/nimbus-eth1/commit/d40f487c07c781c548833f392d7205d4aefbe098) - 2025-05-27
+* [Commit] [Accept codes Grafana dashboard minor fixes.](https://github.com/status-im/nimbus-eth1/commit/6f571c99130b9affdd3fc14f68b965a39e84de4e) - 2025-05-27
+* [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/256470235d5e4d198dc97c019a1fefbfbcd8980d) - 2025-05-27
+* [Pull Request] [Portal client: Drop remaining offer content after first validation failure in state network](https://github.com/status-im/nimbus-eth1/pull/3334) - 2025-05-27

@@ -106,6 +106,18 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/85e5942d1db9d1fa2f5ffa611b7a1f9398d5c230) - 2025-05-26
 * [Commit] [Update src/Nethermind/Nethermind.Merge.Plugin.Test/EngineModuleTests.V4.cs](https://github.com/NethermindEth/nethermind/commit/b8a38952c37ab0ff8c61682fffae2c973fe724c0) - 2025-05-26
 * [Commit] [PatriciaTree ignoreMissingDelete is not used (#8646)](https://github.com/NethermindEth/nethermind/commit/056bcd3e088e73e64e17e89cc45e7f70061765f6) - 2025-05-26
+* [Commit] [Disable EOF](https://github.com/NethermindEth/nethermind/commit/fb2f76520e935e5fe41f54cd25c48ee897abd43b) - 2025-05-27
+* [Commit] [Add names](https://github.com/NethermindEth/nethermind/commit/ae80103992cce9c0dda181d63941842888d116f6) - 2025-05-27
+* [Commit] [Update TxParser (#8698)](https://github.com/NethermindEth/nethermind/commit/a4159ebacba705c0d90eac620adcff604ddd3d7f) - 2025-05-27
+* [Commit] [Reuse](https://github.com/NethermindEth/nethermind/commit/d8b19e908035bd9e9efc7509f786fc2d470b0e2a) - 2025-05-27
+* [Commit] [Refactor/make all blockprocessor arg required (#8688)](https://github.com/NethermindEth/nethermind/commit/2fa3026ab318e4dc4621b4279786e32574e5760b) - 2025-05-27
+* [Commit] [Return previous approach](https://github.com/NethermindEth/nethermind/commit/0bf64125ed24adec63910b83ec878e1839193362) - 2025-05-27
+* [Commit] [Improve tests and spec](https://github.com/NethermindEth/nethermind/commit/2a2fce2e1d890e54ae068eda4504ac8596b2c379) - 2025-05-27
+* [Commit] [Fix testing platform by getting rid of internals](https://github.com/NethermindEth/nethermind/commit/a158cc3429bd120fbc2e9295905c7982ce6c0baa) - 2025-05-27
+* [Commit] [Fix testing platform by getting rid of internals](https://github.com/NethermindEth/nethermind/commit/67c0e47a6b7b039b805a9bbfe77d281e671d938b) - 2025-05-27
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/7c9ad9cb56699484969df12c4e9f83d32d94e2e6) - 2025-05-27
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/3ae7d14fe3e92d82b0be6808212b8eb962e409e8) - 2025-05-27
+* [Commit] [Add json -> spec -> prov loading test for timestamps](https://github.com/NethermindEth/nethermind/commit/f04321dc74128b1e70b4c605c0b61af542a7957a) - 2025-05-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

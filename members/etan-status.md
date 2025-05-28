@@ -51,6 +51,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add option to invalidate block roots](https://github.com/status-im/nimbus-eth2/pull/7128) - 2025-05-06
 * [Pull Request] [Bump nim-blscurve to dec99b4d868ce0dc8268b7043d17e2a3cd6712cc](https://github.com/status-im/nimbus-eth2/pull/7178) - 2025-05-21
 * [Pull Request] [Bump nim-bearssl to v0.2.6](https://github.com/status-im/nimbus-eth2/pull/7177) - 2025-05-21
+* [Pull Request] [Group data columns by block root instead of column index in database](https://github.com/status-im/nimbus-eth2/pull/7199) - 2025-05-27
+* [Pull Request] [Provide blocks / blobs regardless of payload validation status](https://github.com/status-im/nimbus-eth2/pull/7198) - 2025-05-27
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

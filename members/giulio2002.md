@@ -210,6 +210,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8ebdf2dd909357da3e1e05d716102f5fb4208f2f) - 2025-05-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2aa1f6f39efc5b7fea7353f812bd3b565769ea5f) - 2025-05-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7b64ae6f2464c8723e2159904ee427fe9cb0c748) - 2025-05-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/27e0900d9345c689990adda4f426538b0a3de324) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bea24ab4f481a39e940989a3f5a53ede7faa409b) - 2025-05-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

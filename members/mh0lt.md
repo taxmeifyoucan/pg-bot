@@ -138,6 +138,10 @@ Team: Erigon
 * [Commit] [eip-7632 config](https://github.com/erigontech/erigon/commit/b4618e92b0d5163d818a97d05221e6619fb4346f) - 2025-05-25
 * [Commit] [Sentinel: Ignore goodbye err (#15244)](https://github.com/erigontech/erigon/commit/b92eada1c1fd5a789a96ad94b406f86281677967) - 2025-05-26
 * [Pull Request] [Remove polygon sync stage](https://github.com/erigontech/erigon/pull/15276) - 2025-05-26
+* [Commit] [set write timeout infinite (#13108)](https://github.com/erigontech/erigon/commit/b865ae492bc8ec82754380c8258676fc0617983c) - 2025-05-27
+* [Commit] [Remove redundant stage test](https://github.com/erigontech/erigon/commit/33f009b6c6da0664e6d1c7e8bca243dac180c38a) - 2025-05-27
+* [Pull Request] [Remove Bor Heimdall stage](https://github.com/erigontech/erigon/pull/15280) - 2025-05-27
+* [Commit] [remove stage progress](https://github.com/erigontech/erigon/commit/403df8da1cf5695f9bc5390dd25816018e5304cb) - 2025-05-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

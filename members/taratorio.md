@@ -55,6 +55,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tidy](https://github.com/erigontech/erigon/commit/b969ba6885be663977136221a200d77a46fab13f) - 2025-05-02
 * [Commit] [fix compilation after merge main](https://github.com/erigontech/erigon/commit/a558fa4dc9bb019b898c9ce47e4397e0ee912f46) - 2025-05-26
 * [Commit] [clean-up: remove common2 import alias (#15235)](https://github.com/erigontech/erigon/commit/706441f8882c699d11950e48cd78940c82497854) - 2025-05-26
+* [Commit] [fix bad merge](https://github.com/erigontech/erigon/commit/e156167f1371895772140371f656dc34cccfbeee) - 2025-05-27
+* [Commit] [return deleted mapping logs (#14846)](https://github.com/erigontech/erigon/commit/94c165064b0fd763c9cf8c43cc6821535c03148a) - 2025-05-27
+* [Commit] [kv/temporal: fixes and tests for RangeAsOf and HasPrefix (#14826)](https://github.com/erigontech/erigon/commit/dd794510c1b260c09b98bca852ecf4467d8435c7) - 2025-05-27
+* [Pull Request] [polygon/sync: retry ExecutionModule.Ready when busy](https://github.com/erigontech/erigon/pull/15286) - 2025-05-27
+* [Commit] [Engine-API: Fixed `context canceled` (#15277)](https://github.com/erigontech/erigon/commit/b605ef07c1285d01e1ac08311074f003401ff2ec) - 2025-05-27
+* [Commit] [prevent crash in FindMergeRange (#15278)](https://github.com/erigontech/erigon/commit/67f7ac1bafd075c84f1c2795da62bc6537f025d9) - 2025-05-27
+* [Commit] [Remove polygon sync stage (#15276)](https://github.com/erigontech/erigon/commit/3a88ef9a3ce5b01dd77104a44d3a718c04503e58) - 2025-05-27
+* [Commit] [Remove Bor Heimdall stage (#15280)](https://github.com/erigontech/erigon/commit/7aaadf248c2acf6a7ce19bef202567b37e871fa2) - 2025-05-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

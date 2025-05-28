@@ -155,6 +155,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Remove unnecessary change](https://github.com/NethermindEth/nethermind/commit/1cff754f451c4f52c1fc63ff90e4d4170485f836) - 2025-05-26
 * [Commit] [Optimize 12 x 20byte  & 32byte OpCodes (#8687)](https://github.com/NethermindEth/nethermind/commit/4e535f26d1eac00f633b9fdad174f63590301b5d) - 2025-05-26
 * [Commit] [Address taiko](https://github.com/NethermindEth/nethermind/commit/ad73fd43d440c64296f1a0d29b252561d7d21f00) - 2025-05-26
+* [Pull Request] [Refactor/deduplicate ReadOnlyTxProcessingEnvFactory](https://github.com/NethermindEth/nethermind/pull/8697) - 2025-05-27
+* [Commit] [Revert unnecessary change](https://github.com/NethermindEth/nethermind/commit/ecd5d3cc407c2549adfb87eee0920748c4a06420) - 2025-05-27
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/784980c3c7def5f823ed01ef6ecb6d575cc771ad) - 2025-05-27
+* [Commit] [Hide it from usage](https://github.com/NethermindEth/nethermind/commit/4c1e716e9eecea6efce081e65991f717bcfd2932) - 2025-05-27
+* [Commit] [Remove the one in aura api](https://github.com/NethermindEth/nethermind/commit/413cf925defde920daa8ad0192df410c86abb44f) - 2025-05-27
+* [Commit] [Remove more use of read only tx processing env](https://github.com/NethermindEth/nethermind/commit/b796656a8c36ccf71eddcd33ba6e1764182b25b2) - 2025-05-27
+* [Commit] [Add all plugin](https://github.com/NethermindEth/nethermind/commit/9f9b146dbb62a5afcdcc7498fc7e0be2fde49a66) - 2025-05-27
+* [Commit] [Unused imports](https://github.com/NethermindEth/nethermind/commit/273870351eb9a37ef8142856e794078e2518f940) - 2025-05-27
+* [Commit] [Fixes one discv5 test (#8635)](https://github.com/NethermindEth/nethermind/commit/e4a5f6a909f749fe86c3c3d0a0b05656595efc2b) - 2025-05-27
+* [Commit] [Fix clique](https://github.com/NethermindEth/nethermind/commit/97eb9a731497cefb37ea5c1b9f8fdf863d1c0a91) - 2025-05-27
+* [Commit] [Update src/Nethermind/Nethermind.Clique.Test/CliqueBlockProducerTests.cs](https://github.com/NethermindEth/nethermind/commit/2b51ad083c7a22c790c8629376d26a7bdd959cab) - 2025-05-27
+* [Commit] [Update src/Nethermind/Nethermind.Clique.Test/CliqueBlockProducerTests.cs](https://github.com/NethermindEth/nethermind/commit/e8d11220eeafedfadc8c695b33fbc0071dd0205d) - 2025-05-27
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

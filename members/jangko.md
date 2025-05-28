@@ -56,3 +56,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Fusaka-devnet-0/EIP-7883: ModExp Gas Cost Increase](https://github.com/status-im/nimbus-eth1/pull/3323) - 2025-05-23
 * [Pull Request] [Fusaka-devnet-0/EIP-7823: Set upper bounds for MODEXP](https://github.com/status-im/nimbus-eth1/pull/3322) - 2025-05-23
 * [Commit] [rm useless windeps.dll downloading; make syncer batch size --debug (#3328)](https://github.com/status-im/nimbus-eth1/commit/20cd0c92ea59d1535e57df2d96417e037a6a3437) - 2025-05-26
+* [Commit] [Wire protocol: avoid recomputing block hash in getStatus68/69 (#3332)](https://github.com/status-im/nimbus-eth1/commit/34fc594508f30928078bac80ce4ec720b1703f07) - 2025-05-27
+* [Commit] [Fix indentation](https://github.com/status-im/nimbus-eth1/commit/e30adcfb38a59aca84d073b31011196f3ad31217) - 2025-05-27
+* [Pull Request] [Synchronize FC block processing using asyncQueue](https://github.com/status-im/nimbus-eth1/pull/3333) - 2025-05-27
+* [Commit] [Fix tests](https://github.com/status-im/nimbus-eth1/commit/05d484520528130205f1b16f16b77a5961de3e73) - 2025-05-27
+* [Commit] [Fix missing import](https://github.com/status-im/nimbus-eth1/commit/20cdda02bc56f61b984e8d0f9c24593dd9a04a34) - 2025-05-27
+* [Pull Request] [Wire protocol: avoid recomputing block hash in getStatus68/69](https://github.com/status-im/nimbus-eth1/pull/3332) - 2025-05-27

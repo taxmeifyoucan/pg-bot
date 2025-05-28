@@ -146,6 +146,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [chore: run hive every 6h](https://github.com/paradigmxyz/reth/pull/16472) - 2025-05-26
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/6fce85b1af17b24ff7c8adbeb98e61d406b3b310) - 2025-05-26
 * [Commit] [increase cahche mode block threshold to 250](https://github.com/paradigmxyz/reth/commit/1357bc902e5edd07ddabb3e8ad2073680d60dbe2) - 2025-05-26
+* [Pull Request] [test: add receipt support to MockEthProvider](https://github.com/paradigmxyz/reth/pull/16494) - 2025-05-27
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/4685b3a3da1e7d8f90e6d11708b05d18f83045f6) - 2025-05-27
+* [Commit] [use seal_slow for missing parent hash case](https://github.com/paradigmxyz/reth/commit/f74d0cfc134544aebd9722a02173070a1e69f04b) - 2025-05-27
+* [Commit] [test: add receipt support to MockEthProvider](https://github.com/paradigmxyz/reth/commit/b62dcb7811ba031f675d4013302002c416bc638d) - 2025-05-27
+* [Commit] [test queued receipts](https://github.com/paradigmxyz/reth/commit/5ef4a76df608f004f83455e379539f6e90759488) - 2025-05-27
+* [Commit] [RangeBlockMode tests](https://github.com/paradigmxyz/reth/commit/0697f3f8a2617ef9e07d3956d10db8bbfd6bb7b9) - 2025-05-27
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

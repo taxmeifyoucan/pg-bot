@@ -53,6 +53,8 @@ Team: Portal Network (EF)
 * [Pull Request] [chore: fix confusing comment in E2HSManager](https://github.com/ethereum/trin/pull/1857) - 2025-05-25
 * [Commit] [fix: regression on recoverying transaction address after version update (#1858)](https://github.com/ethereum/trin/commit/b157344b6b60d9e295983772b070657631fc0742) - 2025-05-26
 * [Pull Request] [fix: regression on recoverying transaction address after version update](https://github.com/ethereum/trin/pull/1858) - 2025-05-26
+* [Issue] [Add Metrics for when we offer a series of EphemeralHeadersByOffer](https://github.com/ethereum/trin/issues/1862) - 2025-05-27
+* [Issue] [Portal Bridge Add census record offer result for multiple items](https://github.com/ethereum/trin/issues/1861) - 2025-05-27
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
