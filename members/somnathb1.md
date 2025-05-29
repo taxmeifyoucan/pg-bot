@@ -153,6 +153,7 @@ Team: Erigon
 * [Commit] [Fix edge transition](https://github.com/erigontech/erigon/commit/44e00329cf1278d1784bfb014f8ccbbf54b8ae8c) - 2025-05-27
 * [Commit] [Fix getBlobsV2 and add tests](https://github.com/erigontech/erigon/commit/a613947b38b793bc0ed34325de56f3aa10f5663f) - 2025-05-27
 * [Commit] [Add fusaka kurtosis](https://github.com/erigontech/erigon/commit/f4750a2ca9c93490abba02993339a64a788ffd41) - 2025-05-27
+* [Commit] [Revert "agg: foreign key concept (data-dependency)" (#15262)](https://github.com/erigontech/erigon/commit/2840f41c4d4c51ec42567238cd5bd483ac705326) - 2025-05-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

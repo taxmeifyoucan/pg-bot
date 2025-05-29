@@ -192,6 +192,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Fix Integration tests after turning p2p into a module](https://github.com/erigontech/erigon/pull/15270) - 2025-05-26
 * [Commit] [Fix Integration tests after turning p2p into a module](https://github.com/erigontech/erigon/commit/0a12974b31641025dfcd5c8b2670b09849de19ae) - 2025-05-26
 * [Issue] [Chain-specific default gas limits](https://github.com/erigontech/erigon/issues/15267) - 2025-05-26
+* [Commit] [print all BPO times](https://github.com/erigontech/erigon/commit/a15937b09230fcd11c01d3c46d04add370d4c46a) - 2025-05-28
+* [Commit] [stage_custom_trace: more aggressive prune (#15224)](https://github.com/erigontech/erigon/commit/28c6d9f790ed7cdc2412effb764007ea3516d81f) - 2025-05-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

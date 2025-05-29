@@ -72,5 +72,8 @@ Team: Reth
 * [Commit] [update doc](https://github.com/paradigmxyz/reth/commit/d22cfd31cab4775f5b6ba6429be67e8850493a6e) - 2025-05-20
 * [Commit] [address pr comments](https://github.com/paradigmxyz/reth/commit/f99621055e9067769b77b5029c1087e2cfc9c36b) - 2025-05-20
 * [Commit] [update bpos](https://github.com/paradigmxyz/reth/commit/9a91b95396ef9109467af7f303aca4a73a170719) - 2025-05-22
+* [Commit] [make protocol generic over witness](https://github.com/paradigmxyz/reth/commit/89997014f1001d276c7010046314202293231728) - 2025-05-28
+* [Commit] [remove bytecode from provider](https://github.com/paradigmxyz/reth/commit/30d1a9cfa280ebf62950f05faa7e3cf35ad4befc) - 2025-05-28
+* [Commit] [update names & rm bytecode](https://github.com/paradigmxyz/reth/commit/cff77c0febca00ff618fdbf4eeb02ffaa5e3088f) - 2025-05-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16

@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Post Fulu BlobSidecars RPC deprecation (#9408)](https://github.com/Consensys/teku/commit/6e896139415c804c70edc65eeb99ddedd4024779) - 2025-05-23
 * [Pull Request] [Add logging on DataColumnSidecars recovery failure](https://github.com/Consensys/teku/pull/9486) - 2025-05-24
 * [Commit] [Add logging on DataColumnSidecars recovery failure (#9486)](https://github.com/Consensys/teku/commit/c32dc4df3914bcd17c88ac3ab8c2830ee5bf639f) - 2025-05-27
+* [Issue] [Use byRange RPC requests in syncing in PeerDAS](https://github.com/Consensys/teku/issues/9490) - 2025-05-28
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

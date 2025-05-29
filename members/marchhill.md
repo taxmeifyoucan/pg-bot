@@ -79,6 +79,16 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Implement OP CL `optimism` RPC namespace (#8667)](https://github.com/NethermindEth/nethermind/commit/7cc14006a5c3eb12daa7b6c97ac2b6689fd8b601) - 2025-05-27
 * [Commit] [fix tests, constant](https://github.com/NethermindEth/nethermind/commit/8cc0830a41e96fdbfc000a5fa88a458762e6bda4) - 2025-05-27
 * [Commit] [fix and update formula](https://github.com/NethermindEth/nethermind/commit/56467fc8389331e9835a98a0eecb120984071909) - 2025-05-27
+* [Commit] [fix test csproj](https://github.com/NethermindEth/nethermind/commit/4b0f45681bb134b1be5f7bbf9d14f3ee3496a3c3) - 2025-05-28
+* [Commit] [compilation fixes](https://github.com/NethermindEth/nethermind/commit/860c883bec6787e50a31d1a1d774b2dabba93794) - 2025-05-28
+* [Commit] [Fix E2ESyncTest (#8602)](https://github.com/NethermindEth/nethermind/commit/2a8591de1779df956958323418be7a29f26e8526) - 2025-05-28
+* [Commit] [EIP-7918: Blob base fee bounded by execution cost (#8656)](https://github.com/NethermindEth/nethermind/commit/f8d172684b04952935d7147f427c9e91d12cfd81) - 2025-05-28
+* [Commit] [remove redundant checks](https://github.com/NethermindEth/nethermind/commit/280be568c862fab6e7f8788ab7e07f8d3ccdc164) - 2025-05-28
+* [Commit] [Cleanup/move some aura components to di (#8704)](https://github.com/NethermindEth/nethermind/commit/6f10cd2ddc769e95b092ac7a0582206d065aef17) - 2025-05-28
+* [Commit] [Update src/Nethermind/Nethermind.Core/Eip7918Constants.cs](https://github.com/NethermindEth/nethermind/commit/ee22d50a40f5173310b089c02c9bcee3fddc33c7) - 2025-05-28
+* [Commit] [Add logo on startup (#8701)](https://github.com/NethermindEth/nethermind/commit/ab6136761a79195c9cffae6ee3b019a868012b63) - 2025-05-28
+* [Commit] [rename to parentBlobGas to match spec](https://github.com/NethermindEth/nethermind/commit/a894eb1dc610df9acd9e17418abb48928762c7f9) - 2025-05-28
+* [Commit] [use ulong, fix underflow](https://github.com/NethermindEth/nethermind/commit/61b4c3251c91bcc089f95d135e8ebf275ed1bc74) - 2025-05-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12
@@ -86,6 +96,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-7793: specify checks & sentinel](https://github.com/ethereum/EIPs/pull/9782) - 2025-05-16
 * [Pull Request] [Update EIP-1: allow links to execution apis](https://github.com/ethereum/EIPs/pull/9809) - 2025-05-23
 * [Pull Request] [Update EIP-7793: Conditional Transactions](https://github.com/ethereum/EIPs/pull/9831) - 2025-05-27
+* [Pull Request] [Update EIP-7788: Move to withdrawn](https://github.com/ethereum/EIPs/pull/9837) - 2025-05-28
+* [Pull Request] [Update EIP-7943: Move to review](https://github.com/ethereum/EIPs/pull/9836) - 2025-05-28
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

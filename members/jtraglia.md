@@ -90,6 +90,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 * [Pull Request] [Remove Deneb/Electra from blob schedule and default to Electra limit](https://github.com/ethereum/consensus-specs/pull/4341) - 2025-05-27
 * [Commit] [Allow custom arg parser in test generators (#4339)](https://github.com/ethereum/consensus-specs/commit/b558308bb99a2f10f8990a8e6441e3c67f4e13a9) - 2025-05-27
+* [Commit] [Set blob schedule to an empty list (#4342)](https://github.com/ethereum/consensus-specs/commit/a58c80d3a76ed7b0c1b4f318647675268f3d1abf) - 2025-05-28
+* [Pull Request] [Set blob schedule to an empty list](https://github.com/ethereum/consensus-specs/pull/4342) - 2025-05-28
+* [Commit] [Remove deneb/electra from blob schedule and default to electra limit (#4341)](https://github.com/ethereum/consensus-specs/commit/c9269eb0177f4f831f9f49759c23c68c0288fd31) - 2025-05-28
+* [Commit] [Markdown to SpecObject refactoring (#4330)](https://github.com/ethereum/consensus-specs/commit/868d9fb5a0398943c03725247c99fda58e8a8fba) - 2025-05-28
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 ## Q1 2025

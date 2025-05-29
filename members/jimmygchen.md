@@ -49,6 +49,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [Pass blobs into `ValidatorStore::sign_block` (#7497)](https://github.com/sigp/lighthouse/commit/0688932de28de0bf18b00ed7a2e0f9b5f6cc09fd) - 2025-05-26
 * [Issue] [Data column reconstruction taking 5+ seconds on devnets with high blob count](https://github.com/sigp/lighthouse/issues/7526) - 2025-05-27
 * [Pull Request] [Update mergify rules so that I can add `waiting-on-author` on a PR th…](https://github.com/sigp/lighthouse/pull/7525) - 2025-05-27
+* [Commit] [Update mergify rules so that I can add `waiting-on-author` on a PR that's passing CI. Remove noisy comments.](https://github.com/sigp/lighthouse/commit/8dde5bdb4413f5f1faf3203bf405a563f5449600) - 2025-05-28
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

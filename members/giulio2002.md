@@ -212,6 +212,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7b64ae6f2464c8723e2159904ee427fe9cb0c748) - 2025-05-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/27e0900d9345c689990adda4f426538b0a3de324) - 2025-05-27
 * [Commit] [save](https://github.com/erigontech/erigon/commit/bea24ab4f481a39e940989a3f5a53ede7faa409b) - 2025-05-27
+* [Pull Request] [E3: Fix Hive + proper ctx cancel](https://github.com/erigontech/erigon/pull/15304) - 2025-05-28
+* [Commit] [params: version 3.1.0-dev (#13782)](https://github.com/erigontech/erigon/commit/03ea71633743b193b96732bd94a3bdca4a75fe15) - 2025-05-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

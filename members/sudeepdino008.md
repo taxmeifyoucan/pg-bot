@@ -184,6 +184,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [remove](https://github.com/erigontech/erigon/commit/cca38ab4798c0c37fe0c6e77f280ac5711922c60) - 2025-05-27
 * [Commit] [remove](https://github.com/erigontech/erigon/commit/c2f3160847312ae9cfef934ef870fc8de33b83ee) - 2025-05-27
 * [Pull Request] [prevent crash in FindMergeRange](https://github.com/erigontech/erigon/pull/15278) - 2025-05-27
+* [Pull Request] [remove default chain in mandatory chain flag](https://github.com/erigontech/erigon/pull/15301) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2fdc3d6946e50acf1e03fe76f61d3650fbfff583) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d3543a107d1c4e1bc27923658c4bbd0198907dbb) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d5cc2799e75f0c5c748a093330c655e0be8f9b77) - 2025-05-28
+* [Pull Request] [wip: purify_domain](https://github.com/erigontech/erigon/pull/15298) - 2025-05-28
+* [Commit] [remove](https://github.com/erigontech/erigon/commit/120e00937f6e0934465a956ab13a9dd02f6b784d) - 2025-05-28
+* [Commit] [remove](https://github.com/erigontech/erigon/commit/15a191d1bc5a324b242856131d35979fef925842) - 2025-05-28
+* [Commit] [remove](https://github.com/erigontech/erigon/commit/6b4da5535e2c2166d4d98efb6170f3746cd62796) - 2025-05-28
+* [Commit] [remove](https://github.com/erigontech/erigon/commit/2ca3d6ef26a759e6ce9137dc8188537c3f53a80a) - 2025-05-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

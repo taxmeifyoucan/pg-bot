@@ -156,6 +156,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add ability for SyncOverseer to pause backfilling when sync distance is out of range. (#7191)](https://github.com/status-im/nimbus-eth2/commit/af2b356132d1b917b660b14ea459f43ef83cb287) - 2025-05-27
 * [Commit] [fix column quarantine test](https://github.com/status-im/nimbus-eth2/commit/66952f545a60aafe3574731c6283bfcacf74c280) - 2025-05-27
 * [Commit] [rm oncolumn callback](https://github.com/status-im/nimbus-eth2/commit/7dc0f2e2a652f3adfa0852a6fc1183bfc15e3732) - 2025-05-27
+* [Commit] [stop testing get_next_slot_expected_withdrawals() mechanism on Deneb (#7200)](https://github.com/status-im/nimbus-eth2/commit/c54f87229718a957fc3b642264c417d7d1b541ce) - 2025-05-28
+* [Commit] [stop testing get_next_slot_expected_withdrawals() mechanism on Deneb](https://github.com/status-im/nimbus-eth2/commit/aacd15a981d3da34f1c665f832a4ab9bbfe341fa) - 2025-05-28
+* [Pull Request] [stop testing get_next_slot_expected_withdrawals() mechanism on Deneb](https://github.com/status-im/nimbus-eth2/pull/7200) - 2025-05-28
+* [Commit] [ensure BPOs are in correctly sorted order](https://github.com/status-im/nimbus-eth2/commit/9ae8e0dcfd0cfe0b1a3c218c43341404cbbe0a2a) - 2025-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

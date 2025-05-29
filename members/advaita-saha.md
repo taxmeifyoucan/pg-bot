@@ -50,3 +50,5 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [remove unwanted comments](https://github.com/status-im/nimbus-eth1/commit/d46b1ab5161a0322afcdd2d5e0ae95c2ef6f69fc) - 2025-05-27
 * [Pull Request] [BPO Fork Implementation ](https://github.com/status-im/nimbus-eth1/pull/3337) - 2025-05-27
 * [Commit] [timestamp based blob forking impl](https://github.com/status-im/nimbus-eth1/commit/454724066a4e4db683b17508ea5db87155ad026a) - 2025-05-27
+* [Commit] [Support multiple wire protocol version and implement eth/68 + eth/69 (#3283)](https://github.com/status-im/nimbus-eth1/commit/443da8e7cb0f8c96fb0ac6468aa0f35c0755daf6) - 2025-05-28
+* [Commit] [remove debugEcho and result](https://github.com/status-im/nimbus-eth1/commit/85950ed5230459b2714c848941516e24d12f5d6a) - 2025-05-28

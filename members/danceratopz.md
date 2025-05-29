@@ -259,6 +259,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 2556e6af32 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/b670a84380ec74bcbcb3642060a224100bfeebe5) - 2025-05-27
 * [Commit] [Deployed 4db2552cc2 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/9f6021d5b8d3a593be4b3340a13a1fa6fe495283) - 2025-05-27
 * [Commit] [Deployed 3f52b09d73 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/ab44a2742132e10712a886a97c904a0cc691396e) - 2025-05-27
+* [Commit] [Deployed b11e439fd2 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/268b04af20f8b23cb6f1d3398e117a45a8e34a1a) - 2025-05-28
+* [Commit] [refactor(fw): split `ethereum_test_types/types.py` (#1665)](https://github.com/ethereum/execution-spec-tests/commit/b11e439fd27651020247e92086d8751e4c8c13cc) - 2025-05-28
+* [Commit] [feat(tests): Identity precompile test conversions (#1344)](https://github.com/ethereum/execution-spec-tests/commit/0157a4b775faeacf3485bc64f7d318aee3dc36bc) - 2025-05-28
+* [Commit] [Deployed 08f1629258 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e7c21a29cdeb5593d94512c543abc0eca927166b) - 2025-05-28
+* [Commit] [refactor(cli,pytest): improve the cli `click` interfaces for EEST pytest-based commands (#1654)](https://github.com/ethereum/execution-spec-tests/commit/08f1629258ff93e769c9bcb9899c27b57dcc1253) - 2025-05-28
+* [Commit] [feat(github): Add zkevm 60M, 90M, 120M (#1655)](https://github.com/ethereum/execution-spec-tests/commit/3810d22f84f206866f66f4f6bf856187c2893ab1) - 2025-05-28
+* [Commit] [fix(cli): fix-up ruff](https://github.com/ethereum/execution-spec-tests/commit/6979e84f94312edc3443422fd822a3a908dbee5c) - 2025-05-28
+* [Commit] [feat(cli): use `rich.Console()` for contrast in command output](https://github.com/ethereum/execution-spec-tests/commit/185eb5872bafcda849f2f11f7cc5a1648ee1ad8e) - 2025-05-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

@@ -17,3 +17,4 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [CodeDB writes in a batch (#8527)](https://github.com/NethermindEth/nethermind/commit/d29a4356d42bfc71d9bc88cbaf030e812bbe26f5) - 2025-05-15
 * [Commit] [add surge hoodi chainspec (#8643)](https://github.com/NethermindEth/nethermind/commit/737763dbebba5ab4f2890d4ef493a65a24c2f069) - 2025-05-22
 * [Commit] [Test build fix](https://github.com/NethermindEth/nethermind/commit/87e0d4ed77ea8f275fffadab723e69c2a79c2d7f) - 2025-05-22
+* [Commit] [Mild performance tweaks (#8674)](https://github.com/NethermindEth/nethermind/commit/594667408684d389357f2ec3ea02df2f219750f6) - 2025-05-28

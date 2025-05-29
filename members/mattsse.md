@@ -361,6 +361,11 @@ Team: Reth
 * [Pull Request] [fix: support tags for ots_getheaderbynumber](https://github.com/paradigmxyz/reth/pull/16497) - 2025-05-27
 * [Commit] [chore: Change getBlockDetails arg to BlockNumberOrTag (#16378)](https://github.com/paradigmxyz/reth/commit/c36b5433eec1a099e3de918753bf0912fb2bce3c) - 2025-05-27
 * [Commit] [feat(rpc): specialise contiguous receipt queries for filters](https://github.com/paradigmxyz/reth/commit/eaf8c8560e4f66c6948582800ff0e3974047f8a0) - 2025-05-27
+* [Issue] [Add missing map helper functions for OpAddons](https://github.com/paradigmxyz/reth/issues/16519) - 2025-05-28
+* [Pull Request] [feat: add helper for obtaining the engineapi launcher](https://github.com/paradigmxyz/reth/pull/16517) - 2025-05-28
+* [Commit] [chore: include addr in error message (#16515)](https://github.com/paradigmxyz/reth/commit/f52b27fcad6d08b011109fa896216b3e03a22810) - 2025-05-28
+* [Commit] [chore: include addr in error message](https://github.com/paradigmxyz/reth/commit/3c25cb7cc45967104003873b37b557603c9f8cee) - 2025-05-28
+* [Pull Request] [chore: include addr in error message](https://github.com/paradigmxyz/reth/pull/16515) - 2025-05-28
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

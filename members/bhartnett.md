@@ -90,3 +90,5 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Accept codes Grafana dashboard minor fixes.](https://github.com/status-im/nimbus-eth1/commit/6f571c99130b9affdd3fc14f68b965a39e84de4e) - 2025-05-27
 * [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/256470235d5e4d198dc97c019a1fefbfbcd8980d) - 2025-05-27
 * [Pull Request] [Portal client: Drop remaining offer content after first validation failure in state network](https://github.com/status-im/nimbus-eth1/pull/3334) - 2025-05-27
+* [Commit] [Portal client: Retry failed offers and make content queue size configurable (#3335)](https://github.com/status-im/nimbus-eth1/commit/98d8b78f00994478951cbf371207828eed5ef838) - 2025-05-28
+* [Commit] [Improve retry logic.](https://github.com/status-im/nimbus-eth1/commit/13f38f95a81a39f1394097a35a3a8a972b20e217) - 2025-05-28

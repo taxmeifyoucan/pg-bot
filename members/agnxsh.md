@@ -101,6 +101,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [delay reconstruction from critical path](https://github.com/status-im/nimbus-eth2/commit/19648ed3d4b4b70d2668f3b2ebec39dc0b1f9b9a) - 2025-05-27
 * [Commit] [comment out a check](https://github.com/status-im/nimbus-eth2/commit/34c22e373f599bcd32c8da11193512464796edb2) - 2025-05-27
 * [Commit] [stop rejecting blocks with blobs more than electra](https://github.com/status-im/nimbus-eth2/commit/99289567ea838b9b05cdb3d3626f0a2dd37f9da6) - 2025-05-27
+* [Commit] [drop put calls to quarantine as we get everything from EL, whenever we get](https://github.com/status-im/nimbus-eth2/commit/4e82f8c96da35d06bd5bb4cf225618d3d88a725f) - 2025-05-28
+* [Commit] [bump down parallel requests for data column receiving](https://github.com/status-im/nimbus-eth2/commit/f13e07a29447cc359f7e3675489a3d8ccf44037c) - 2025-05-28
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

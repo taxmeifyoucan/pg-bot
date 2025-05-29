@@ -49,3 +49,4 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [fix: forward sequencer error](https://github.com/paradigmxyz/reth/pull/16401) - 2025-05-21
 * [Commit] [Update crates/evm/evm/src/execute.rs](https://github.com/paradigmxyz/reth/commit/32f27d73b6afb44816a078104bb610a20bd40f80) - 2025-05-21
 * [Pull Request] [fix: propagate `--sequencer-headers` to `SequencerClient`](https://github.com/paradigmxyz/reth/pull/16474) - 2025-05-26
+* [Issue] [Relax `OpPayloadPrimitives`](https://github.com/paradigmxyz/reth/issues/16524) - 2025-05-28

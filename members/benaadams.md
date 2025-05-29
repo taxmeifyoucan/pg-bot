@@ -257,6 +257,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Use SpecProvider](https://github.com/NethermindEth/nethermind/commit/189ef1d2d870a3ae775bb7d5fe5f758b0051a68f) - 2025-05-27
 * [Commit] [mods](https://github.com/NethermindEth/nethermind/commit/5ef3c3a3eeceee058398f9993e7562e12045cefb) - 2025-05-27
 * [Pull Request] [Warm up evm instructions](https://github.com/NethermindEth/nethermind/pull/8699) - 2025-05-27
+* [Commit] [Optimize: Number, GasLimit, Coinbase, PrevRandao opcodes (#8700)](https://github.com/NethermindEth/nethermind/commit/8403d2d1cf4de00a4ca79749f27b63af0880df41) - 2025-05-28
+* [Commit] [Reuse BlockExecutionContext in Prewarmer](https://github.com/NethermindEth/nethermind/commit/ea6dee48a0cf1f0a26de957c9b0d1219dafa5d85) - 2025-05-28
+* [Commit] [build fix](https://github.com/NethermindEth/nethermind/commit/6f769aa8b30bdbf238dfb432bbee4c3087414b04) - 2025-05-28
+* [Commit] [Create BlockExecutionContext less often](https://github.com/NethermindEth/nethermind/commit/259740d992d1afb23b0111cb090260dac29c3c97) - 2025-05-28
+* [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/aac1e68d097e1457b33c1f1510cc8a8f392094c6) - 2025-05-28
+* [Commit] [Convert BlobBaseFee once](https://github.com/NethermindEth/nethermind/commit/b0a15dc4c1113013bd0010dcd15a9b34ddfe0ae6) - 2025-05-28
+* [Commit] [Keep PrevRandao as Big-endian](https://github.com/NethermindEth/nethermind/commit/6228d5a46c3fa94ba806ee2eefd992ef1dca7f42) - 2025-05-28
+* [Commit] [fix test](https://github.com/NethermindEth/nethermind/commit/d58aba034c7f852226a343670cf666f8c50a3c23) - 2025-05-28
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

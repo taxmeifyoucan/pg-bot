@@ -43,6 +43,9 @@ Team: Grandine
 * [Commit] [Send API attestations in batches to verifier](https://github.com/grandinetech/grandine/commit/b395d3126b7ff37faaf95d75b0ef4a914031dd97) - 2025-05-06
 * [Commit] [Add `--default-builder-boost-factor` command line parameter](https://github.com/grandinetech/grandine/commit/c56a555ed422a1260bef421c616719b8c0a1388f) - 2025-05-22
 * [Pull Request] [Add `--default-builder-boost-factor` command line parameter](https://github.com/grandinetech/grandine/pull/209) - 2025-05-22
+* [Commit] [Add `POST /eth/v1/beacon/states/{state_id}/validator_balances` (#213)](https://github.com/grandinetech/grandine/commit/74ebe9f9afa6e43b9e7fce7856045abda9cf69f6) - 2025-05-28
+* [Commit] [Print validator sync_commitee and attestation performance on each epoch](https://github.com/grandinetech/grandine/commit/6725ecc940f1e0f0faa3ba94f1450e1c2c5b1dde) - 2025-05-28
+* [Pull Request] [Add `POST /eth/v1/beacon/states/{state_id}/validator_balances` (213)](https://github.com/grandinetech/grandine/pull/214) - 2025-05-28
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

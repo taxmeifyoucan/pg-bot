@@ -63,6 +63,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [prevent crash in FindMergeRange (#15278)](https://github.com/erigontech/erigon/commit/67f7ac1bafd075c84f1c2795da62bc6537f025d9) - 2025-05-27
 * [Commit] [Remove polygon sync stage (#15276)](https://github.com/erigontech/erigon/commit/3a88ef9a3ce5b01dd77104a44d3a718c04503e58) - 2025-05-27
 * [Commit] [Remove Bor Heimdall stage (#15280)](https://github.com/erigontech/erigon/commit/7aaadf248c2acf6a7ce19bef202567b37e871fa2) - 2025-05-27
+* [Commit] [erigon-lib: update erigontech/interfaces to latest (#15300)](https://github.com/erigontech/erigon/commit/29f8cdfd9fc2247ebcbe338c02c302e247a8aa8e) - 2025-05-28
+* [Pull Request] [erigon-lib: update erigontech/interfaces to latest](https://github.com/erigontech/erigon/pull/15300) - 2025-05-28
+* [Commit] [integration: add FAQ section to readme (#15291)](https://github.com/erigontech/erigon/commit/cb7f0a237e65a35e85db035ec7e8f111f6930166) - 2025-05-28
+* [Commit] [txnprovider/shutter: align protoc versions in make grpc (#15290)](https://github.com/erigontech/erigon/commit/03cca01d7be6d35c91d66aeb2e1e19ffa286d08a) - 2025-05-28
+* [Commit] [polygon/sync: retry ExecutionModule.Ready when busy (#15286)](https://github.com/erigontech/erigon/commit/2a8b5267c71bdd28bff21dfbfc1b707bc92ff83d) - 2025-05-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

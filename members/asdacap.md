@@ -167,6 +167,19 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix clique](https://github.com/NethermindEth/nethermind/commit/97eb9a731497cefb37ea5c1b9f8fdf863d1c0a91) - 2025-05-27
 * [Commit] [Update src/Nethermind/Nethermind.Clique.Test/CliqueBlockProducerTests.cs](https://github.com/NethermindEth/nethermind/commit/2b51ad083c7a22c790c8629376d26a7bdd959cab) - 2025-05-27
 * [Commit] [Update src/Nethermind/Nethermind.Clique.Test/CliqueBlockProducerTests.cs](https://github.com/NethermindEth/nethermind/commit/e8d11220eeafedfadc8c695b33fbc0071dd0205d) - 2025-05-27
+* [Commit] [Update src/Nethermind/Nethermind.Merge.Plugin/Handlers/MergeSealer.cs](https://github.com/NethermindEth/nethermind/commit/8e009439563c4946c6cca2b2a8d2154eae619c91) - 2025-05-28
+* [Commit] [Update src/Nethermind/Nethermind.Merge.Plugin/Handlers/MergeSealer.cs](https://github.com/NethermindEth/nethermind/commit/88d2118023ec20d5a4ccd8856022289b3d2478cb) - 2025-05-28
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/a8184c61d754f74b5a3b8812d53aa5becd13546a) - 2025-05-28
+* [Commit] [Fix another test](https://github.com/NethermindEth/nethermind/commit/340e2f06a6f157b1d950db3d54838c1b24bcda71) - 2025-05-28
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/6d30ba5ccf5738b0e393315346cdd27b8739d93f) - 2025-05-28
+* [Pull Request] [Refactor/Consolidate ISealEngine.](https://github.com/NethermindEth/nethermind/pull/8705) - 2025-05-28
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/1b95429638420a89916b62e23a548bd358b83c6a) - 2025-05-28
+* [Commit] [Remove unused imports](https://github.com/NethermindEth/nethermind/commit/93366e76a69c5223e57c3e527712f7b667efac06) - 2025-05-28
+* [Commit] [Some low hanging fruit](https://github.com/NethermindEth/nethermind/commit/65ec89eed15d04739ea28915c7180c456364590c) - 2025-05-28
+* [Commit] [Missed equal sign](https://github.com/NethermindEth/nethermind/commit/cd790f3a456955562bcd929329f1a3f2e413ab62) - 2025-05-28
+* [Commit] [Fix aura test](https://github.com/NethermindEth/nethermind/commit/ae936ec34ded6352ee79ea2a101edaa56988ef70) - 2025-05-28
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/bdab1efb72246fc586b3e9f1adb5ef7de2c0a353) - 2025-05-28
+* [Commit] [Some fix](https://github.com/NethermindEth/nethermind/commit/c4cfa203647d174a559e83bc50883aa24160930d) - 2025-05-28
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

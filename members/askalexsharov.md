@@ -2042,6 +2042,74 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/28465880ec7df391322e3795c90540babeadfc40) - 2025-05-27
 * [Commit] [save](https://github.com/erigontech/erigon/commit/95467dbe199d3364f65d12dd076c8934a3b691e5) - 2025-05-27
 * [Commit] [Fix Integration tests after turning p2p into a module (#15270)](https://github.com/erigontech/erigon/commit/14a6a089e28f5f7e7da11cfca8488281cfb179a2) - 2025-05-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e290535a372f543f51a213d6c10a431e8ae54bea) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a799a731a6065838e6392844b175028ca1f6d180) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/adc248c83e0e15dfb57b8753778d5666cd29f245) - 2025-05-28
+* [Issue] [enable `domains_restart_test.go` tests](https://github.com/erigontech/erigon/issues/15302) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/871d79322a175a0e1b1dfd349e04bfc4f9c84c46) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d4967525c253857399cecf4c875918b76976d91e) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/94ecdf82b62673174814c193001fe008a5d39df9) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fc20f3cbfab2db1f5e82dbcd1f4b8b69546b87f2) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d039540f18b889824d73dc629594bc2b698cc2c9) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/62c69620f82cd99326c8c6ec3283826af4059502) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1855a2fcb11d62de227e8740dd2dd1ed22314362) - 2025-05-28
+* [Commit] [remove default chain in mandatory chain flag (#15301)](https://github.com/erigontech/erigon/commit/84b60b8eddd1fdff7c171248e2c3eef968a27b74) - 2025-05-28
+* [Commit] [forkable agg files gc (#15258)](https://github.com/erigontech/erigon/commit/110004e1f10fa073fca68d9940849f59e8eda703) - 2025-05-28
+* [Commit] [rpcdaemon: erigon_getLatestLog(): Fix issue 12603 (#15284)](https://github.com/erigontech/erigon/commit/597434561a21d57a0bf5ee86a1c6e385c3985857) - 2025-05-28
+* [Commit] [rpcdaemon: eth_call for future blocks should return an error (ssue 12850) (#15287)](https://github.com/erigontech/erigon/commit/44b5ed02d52f13c4c47ae46a1c22dbc57dbcd52e) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3997cfebbd8d607b90b81e1d7b2b0ee3a5a71c3c) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/298460f0b2b2c1e5caeee5ab66cc4cdabb45af17) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b3adde6228741ba0e0373801ef52013f769d3100) - 2025-05-28
+* [Commit] [agg: data-dependency concept (#15264)](https://github.com/erigontech/erigon/commit/ad96222bd813949d434c4e44f4af0116301c58f1) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/805735109be21dc8722eee55d1d66499c64cf8f1) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c6d9cdbd69277162ddf3d2c8314b5fc8c0e239c6) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/66a264f87fe8ecb18d1b0891f76f7e0fde93af3a) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7afc958336bd13b077d1623dc36406714b36c5a6) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b1531ba903f25e69021f63ce36d4d81349027455) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d5f52cb4ce15e59442d32ef9e3f7414a5edf3c4f) - 2025-05-28
+* [Pull Request] [sd: step towards removing txNum](https://github.com/erigontech/erigon/pull/15297) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b2e6a9930fad45bcef5548562667dde3df753d08) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b0bfb4f2fa88513d18bb715056185f35e7d2a375) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/73043c12c3c4fec5aefd394bcf1e62fa4ba60aa3) - 2025-05-28
+* [Commit] [fix race in TestLogsFilter tests (#15274)](https://github.com/erigontech/erigon/commit/9b9085d9973cc1c1f4340acf887a2aff424fc5e4) - 2025-05-28
+* [Commit] [stage_custom_trace: support all indices (#15295)](https://github.com/erigontech/erigon/commit/57b6b594ecd0df7b47e15c05680f2f4a5f26ea2d) - 2025-05-28
+* [Commit] [fix: trace_callMany ignores parent block header (#15288)](https://github.com/erigontech/erigon/commit/20e3a9f9e5cd69c4f0319257bdf14f5dc0ca7a07) - 2025-05-28
+* [Commit] [stage_custom_trace: support all indices (#15293)](https://github.com/erigontech/erigon/commit/d63685c72d4a02a6526be35cb9b40870c02aa6c1) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/15b16b25564e5aaab6d6f2a525a835c773fd53d1) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d52b4ad6e5bd0f8be4b9c51f1ec8d81e26925c79) - 2025-05-28
+* [Commit] [prevent crash in FindMergeRange (#15278)](https://github.com/erigontech/erigon/commit/67f7ac1bafd075c84f1c2795da62bc6537f025d9) - 2025-05-28
+* [Pull Request] [[e30] dl: add .torrent from disk](https://github.com/erigontech/erigon/pull/15296) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/40f47dac4075e737fc46aabdb7fc4ea3c277b07f) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8123a07ad661e52569b48787509a91f3c4985dea) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/32f699a92d5711c9afbe2daaf277fe1e62171cd4) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b6098a4558a793906e0784ef8d90f9097db4e5ae) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c1806e4b96c1291774000d9037c03e9b4a43a151) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ed03473211370ba63352b5aa620eecb55176e18e) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/afe294d69426f637e72bc745a37952157d527474) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/57350467757a4b22008195f884739548431be595) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2d24128d92b07f5755c622dd8978ca55f15aab9e) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/48c657dc9b5419cc98328ec38f1cac596acb307e) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bb7b36e14acf03e9ad5de3497e7bf54f5e2f2a82) - 2025-05-28
+* [Pull Request] [stage_custom_trace: support all indices](https://github.com/erigontech/erigon/pull/15295) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8bc0c2cb5808300b4fdc4ee4c01afe41cc2a6e12) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cfb78a0da96d80dd6de6c05759e3501219104f8e) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e958a665032a3d38a5adc1dee12df02636db50ec) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/16677591d2f4ef98a271d23181f99cf02cbf5810) - 2025-05-28
+* [Pull Request] [dbg: ](https://github.com/erigontech/erigon/pull/15293) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0ae31d1f93102ea19673bd56052a448b9f0bb060) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6f3beaf0e40231e73530d1e2476243e5df29ac16) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/32a65a471809a80a7741613e8b6146626e6dd39f) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/307b5fe42f7ee4e8ee4fda7d10db54f6791d5377) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/abfb13aedb6cde52c464b60dbd0b242cb418057b) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bf37b7c9aacbcdc2933533a9a326ee418a008bc7) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/552042b4f74ab711c461d25545d8d54d2eeb9808) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4624561ac340b8d6e91d3e40e3e13a9de7bb7901) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b4995386127be39dd112eb8222a5c427f85db5d4) - 2025-05-28
+* [Commit] [[r3.0]  rpcdaemon: eth_call for future blocks should return an error  (#15289)](https://github.com/erigontech/erigon/commit/13345c3949e2351124ef8166c67d316cf083c3cd) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/579e59f5d5adfd841f6e0a7efe18dbb6f4841b9e) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/94d69506078ee5b1404e3d43b4b1ad3a21c438bc) - 2025-05-28
+* [Commit] [[r30] madv: high-level (#15139)](https://github.com/erigontech/erigon/commit/3d6ae750c7d3378852872ab5d37a22512710c808) - 2025-05-28
+* [Pull Request] [integration: add FAQ section to readme](https://github.com/erigontech/erigon/pull/15291) - 2025-05-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

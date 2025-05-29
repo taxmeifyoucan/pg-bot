@@ -190,6 +190,20 @@ Team: Reth
 * [Commit] [fix?](https://github.com/paradigmxyz/reth/commit/5ba5e7f61e7d75b23d1cc5afd7d1993dc2b1c350) - 2025-05-27
 * [Commit] [debug level](https://github.com/paradigmxyz/reth/commit/89f7cbea4e223f9e67e9ebe36615e2bca7ee6033) - 2025-05-27
 * [Commit] [log persisted trie updates](https://github.com/paradigmxyz/reth/commit/3b82a98fd32dc95af11a9f22713d7b47495594cc) - 2025-05-27
+* [Commit] [fix(trie): push_unchecked impl](https://github.com/paradigmxyz/reth/commit/cb24e979fe95fdfe805893e15d998a0964b7bbb9) - 2025-05-28
+* [Commit] [perf(trie): slice to end case in slice](https://github.com/paradigmxyz/reth/commit/227e9573c54bf35f219bf3377314f226e1ed8ada) - 2025-05-28
+* [Commit] [Revert "perf(trie): fast path for slice"](https://github.com/paradigmxyz/reth/commit/f885f31d4a6b3676d3af7d63adc443076f47034f) - 2025-05-28
+* [Commit] [Merge remote-tracking branch 'origin/main' into alexey/packed-nibbles](https://github.com/paradigmxyz/reth/commit/e6ccef62734409944e66297067bcae3789fbe2ae) - 2025-05-28
+* [Commit] [feat: add command `download` to download public node snapshots  (#13598)](https://github.com/paradigmxyz/reth/commit/178b0c1cb5e26fa1bfc96c388cc6ef1e1b99aa40) - 2025-05-28
+* [Commit] [remove unused imports](https://github.com/paradigmxyz/reth/commit/1a12a9c60d1fa764654438dd72c1e246be2fd1a3) - 2025-05-28
+* [Commit] [clarify missing ancestor error](https://github.com/paradigmxyz/reth/commit/7ff90f042c67f88eec82dfdc3d833620e60742b7) - 2025-05-28
+* [Commit] [clarify missing ancestor error](https://github.com/paradigmxyz/reth/commit/d29f26b9d74604aa732429e53bd05332b2377ba5) - 2025-05-28
+* [Commit] [remove unused imports](https://github.com/paradigmxyz/reth/commit/f0775c001bbb54408dd095a3325baa9a7ba59daf) - 2025-05-28
+* [Commit] [remove excessive doc](https://github.com/paradigmxyz/reth/commit/cff671b5f825aac4e6e61e4643ebf5d39d057690) - 2025-05-28
+* [Commit] [refactor(trie): `TrieInput::extend_with_blocks`](https://github.com/paradigmxyz/reth/commit/8fdd5bd750ae20903a755e9f0e9eb03ca1a9d185) - 2025-05-28
+* [Commit] [perf(engine): accept `&SealedHeader` in `is_fork` fn](https://github.com/paradigmxyz/reth/commit/d8bb2bc5fc08ac9aeddeca9f8a7218b6f9b41084) - 2025-05-28
+* [Commit] [ExecutedTrieUpdates struct](https://github.com/paradigmxyz/reth/commit/5b0914c0fdc08e87522ec10e7341d2d612be38bb) - 2025-05-28
+* [Commit] [fixes after review](https://github.com/paradigmxyz/reth/commit/4c39080000e940ad4dca4c8c52590c4f0210dd4e) - 2025-05-28
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -81,6 +81,13 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Update src/Nethermind/Nethermind.Specs.Test/Nethermind.Specs.Test.csproj](https://github.com/NethermindEth/nethermind/commit/49276f30459db609c5c017d7dc32864011a881db) - 2025-05-27
 * [Commit] [EIP-7594: PeerDAS (#8417)](https://github.com/NethermindEth/nethermind/commit/092013491db53a52f491e797fb38258ca74214b6) - 2025-05-27
 * [Pull Request] [Update fork in TxParser](https://github.com/NethermindEth/nethermind/pull/8698) - 2025-05-27
+* [Commit] [Refactor tests configuration and work around Rider issue (#8703)](https://github.com/NethermindEth/nethermind/commit/015d0dc122bb4f7799fc9b0e03e09709f70b16fa) - 2025-05-28
+* [Commit] [TxParser: Add signature validation, keep errors in 1 line (#8706)](https://github.com/NethermindEth/nethermind/commit/28036c06ee0cdc7179792ba35f36e94133fa9f09) - 2025-05-28
+* [Commit] [Return `null` instead of errors in RPC `get` methods (#8702)](https://github.com/NethermindEth/nethermind/commit/eed7493d55e7de3e6e9d346ebd2344c1b1cad67d) - 2025-05-28
+* [Commit] [Restore and fix tests (#8696)](https://github.com/NethermindEth/nethermind/commit/01819e1a8a4d92986059f001daa9fa82022fedcc) - 2025-05-28
+* [Commit] [optimize](https://github.com/NethermindEth/nethermind/commit/4c2557c336ab180b0f85425540c793cd2f92fc30) - 2025-05-28
+* [Commit] [remove unused usings](https://github.com/NethermindEth/nethermind/commit/19290d6dc4e48203335d25f98736346663175472) - 2025-05-28
+* [Pull Request] [TxParser: Add signature validation, keep errors in 1 line](https://github.com/NethermindEth/nethermind/pull/8706) - 2025-05-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

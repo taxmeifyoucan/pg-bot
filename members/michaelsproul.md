@@ -87,6 +87,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Fix split slot migration](https://github.com/sigp/lighthouse/commit/845e8e411bda9498a0454ffb48d61ce10768c650) - 2025-05-26
 * [Commit] [Attempt to fix archive node V24 upgrade](https://github.com/sigp/lighthouse/commit/9800ab882ec796f8bbf38f0b9010d2692a5eee2f) - 2025-05-26
 * [Commit] [Add test for get_ancestor_state_root](https://github.com/sigp/lighthouse/commit/8ebe1b2ec45f65510e564ff9abc7d0b296dd39e7) - 2025-05-27
+* [Commit] [Avoid putting pre-split states in the state cache](https://github.com/sigp/lighthouse/commit/bc47fd6aa6569c71d9435f3dfb8c175a727401b6) - 2025-05-28
+* [Commit] [Fix migration of dense diffs](https://github.com/sigp/lighthouse/commit/5fb55be3ab7daa60529346425dec8f93e4fc9a78) - 2025-05-28
+* [Commit] [Rework store config and compatibility checks](https://github.com/sigp/lighthouse/commit/78d0496f3af7a3e0256706b218ca1705b1380ff7) - 2025-05-28
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

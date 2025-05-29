@@ -101,6 +101,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fixing import](https://github.com/OffchainLabs/prysm/commit/30b79da38c043ba57ead2ec657bc6871808b055e) - 2025-05-27
 * [Commit] [Add fulu spec tests for sanity and reward (#15285)](https://github.com/OffchainLabs/prysm/commit/eafef8c7c803f5a63755a9a63377c3bd6459aa41) - 2025-05-27
 * [Commit] [Changelog v6.0.2 (#15270)](https://github.com/OffchainLabs/prysm/commit/74aca49741ac9d43c8323d944ebfb23dc38fc479) - 2025-05-27
+* [Commit] [merge builder and structs payload types (#15283)](https://github.com/OffchainLabs/prysm/commit/0d5a52d20d4209ba08fcef2cedacf25a090061d4) - 2025-05-28
+* [Pull Request] [fixing links](https://github.com/OffchainLabs/prysm/pull/15354) - 2025-05-28
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -62,6 +62,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [WIP: refactor: move blobs to core](https://github.com/hyperledger/besu/pull/8694) - 2025-05-26
 * [Commit] [refactor: move milestone definitions to its own classes instead of ProtocolScheduleBuilder (#8693)](https://github.com/hyperledger/besu/commit/8c1af5fed795976504d05714691fd47e519e6076) - 2025-05-26
 * [Pull Request] [wip: refactor protocol schedule builder](https://github.com/hyperledger/besu/pull/8693) - 2025-05-26
+* [Commit] [Remove trusted setup initialisation from BlobTestFixture (#8708)](https://github.com/hyperledger/besu/commit/119fe0a4077e62ee0e23230343bc0638e7a633a8) - 2025-05-28
+* [Pull Request] [chore: move contributors to Emeritus](https://github.com/hyperledger/besu/pull/8710) - 2025-05-28
+* [Commit] [Disable flaky test (#8709)](https://github.com/hyperledger/besu/commit/5c1c42c75e1f62d53b006287334e5a024f0fcf36) - 2025-05-28
+* [Pull Request] [test: disable flaky testDNSDaemonPeriodic](https://github.com/hyperledger/besu/pull/8709) - 2025-05-28
+* [Pull Request] [refactor(testing): remove trusted setup initialisation from BlobTestFixture](https://github.com/hyperledger/besu/pull/8708) - 2025-05-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

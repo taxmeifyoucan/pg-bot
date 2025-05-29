@@ -113,6 +113,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: move historical state metrics to separate module](https://github.com/ChainSafe/lodestar/pull/7876) - 2025-05-26
 * [Commit] [feat: add differential layers support (#7874)](https://github.com/ChainSafe/lodestar/commit/06053e0ba6c2d51b9aa8bb3fbfdf2924a966a1ea) - 2025-05-26
 * [Pull Request] [feat: add differential layers support](https://github.com/ChainSafe/lodestar/pull/7874) - 2025-05-26
+* [Commit] [chore: correct labels of gossipsub_iwant_promise_delivery_seconds metrics (#7878)](https://github.com/ChainSafe/lodestar/commit/af282209374621bd7d28159ae0e45802a4a38814) - 2025-05-28
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

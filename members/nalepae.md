@@ -119,6 +119,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [PeerDAS: Implement P2P.](https://github.com/OffchainLabs/prysm/commit/ac39e0174633d47c7d0148bf50bce5f1c57ffefe) - 2025-05-26
 * [Commit] [Add support for nightly test vectors (#15312)](https://github.com/OffchainLabs/prysm/commit/f8d895a5eddd654c2357a55b85a7858c9fdc85d8) - 2025-05-26
 * [Commit] [Fix Terence's comment.](https://github.com/OffchainLabs/prysm/commit/1fc548e9c99fabb2f052c432b450a405512cdce1) - 2025-05-27
+* [Commit] [`TestService_BroadcastDataColumn`: Avoid ugly sleep.](https://github.com/OffchainLabs/prysm/commit/1377c7e9a077f04e581c57a80784e35718e07d1e) - 2025-05-28
+* [Commit] [`TestService_BroadcastDataColumn`: Avoid ugly sleep.](https://github.com/OffchainLabs/prysm/commit/269bf472883e34f2b1d10941149a020c6ffca61f) - 2025-05-28
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/9fac137fc56ef40bc2064945ab28bfe7298665ce) - 2025-05-28
+* [Commit] [`TopicFromMessage`: Exit early.](https://github.com/OffchainLabs/prysm/commit/44cb8bc0549a108a770126a9f1b50a33c14ac576) - 2025-05-28
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/4d6b6471ff37598a50e90619a20654feb18ae4fc) - 2025-05-28
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/955017887d5572bfa4d3d91719d6875556e6e559) - 2025-05-28
+* [Commit] [Fix Terence's comment.](https://github.com/OffchainLabs/prysm/commit/229a2a0a0138b1385408ec21790bf8a48ee8759a) - 2025-05-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

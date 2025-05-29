@@ -142,6 +142,11 @@ Team: Erigon
 * [Commit] [Remove redundant stage test](https://github.com/erigontech/erigon/commit/33f009b6c6da0664e6d1c7e8bca243dac180c38a) - 2025-05-27
 * [Pull Request] [Remove Bor Heimdall stage](https://github.com/erigontech/erigon/pull/15280) - 2025-05-27
 * [Commit] [remove stage progress](https://github.com/erigontech/erigon/commit/403df8da1cf5695f9bc5390dd25816018e5304cb) - 2025-05-27
+* [Pull Request] [Remove BorEventReader from BlockReader ](https://github.com/erigontech/erigon/pull/15303) - 2025-05-28
+* [Commit] [moved p256Verify to end of precompiles](https://github.com/erigontech/erigon/commit/fbd4aac49a1eb733870b08d9135d94d54d096994) - 2025-05-28
+* [Commit] [add explicit check for MinerGasLimitFlag](https://github.com/erigontech/erigon/commit/a8d32b90e4a1dc02e7ba02d62492aa7297702705) - 2025-05-28
+* [Commit] [remotedb: add HasPrefix support (#14845)](https://github.com/erigontech/erigon/commit/a80f34246392636042039ffa5151bf9fc28aa52e) - 2025-05-28
+* [Commit] [removed BorEventReader from FullBlockReader](https://github.com/erigontech/erigon/commit/cf9ab7718d9d3da13dca4ea59154e965e6049c8d) - 2025-05-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
