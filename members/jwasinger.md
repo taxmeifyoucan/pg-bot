@@ -31,6 +31,7 @@ Team: Geth
 * [Commit] [README: update broken JSON-RPC API documentation link (#31860)](https://github.com/ethereum/go-ethereum/commit/24771fdba4fb7b414bfd5491b182ac0d22dfb33f) - 2025-05-20
 * [Commit] [internal/reexec: fix broken link to Docker/Moby in comment (#31859)](https://github.com/ethereum/go-ethereum/commit/a67ea0c57dd7b387fc49138f4bdc1590c91e5a51) - 2025-05-20
 * [Issue] [Investigate context-logging](https://github.com/ethereum/go-ethereum/issues/31888) - 2025-05-23
+* [Commit] [cmd/geth, cmd/utils: log prefunded account/key in ephemeral development mode (#31898)](https://github.com/ethereum/go-ethereum/commit/d821f7f297259b2ed5ab0d3c99c0e4aca9663ac8) - 2025-05-29
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

@@ -90,6 +90,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Avoid putting pre-split states in the state cache](https://github.com/sigp/lighthouse/commit/bc47fd6aa6569c71d9435f3dfb8c175a727401b6) - 2025-05-28
 * [Commit] [Fix migration of dense diffs](https://github.com/sigp/lighthouse/commit/5fb55be3ab7daa60529346425dec8f93e4fc9a78) - 2025-05-28
 * [Commit] [Rework store config and compatibility checks](https://github.com/sigp/lighthouse/commit/78d0496f3af7a3e0256706b218ca1705b1380ff7) - 2025-05-28
+* [Commit] [Remove some stale FIXMEs/typos](https://github.com/sigp/lighthouse/commit/80a53533ff593bfe59524b3a0d6191196eb89c55) - 2025-05-29
+* [Commit] [Typo fix](https://github.com/sigp/lighthouse/commit/06c2632a43b6d5e7c05eb56662cb5734979cf06b) - 2025-05-29
+* [Commit] [Skip migrating pre-split states in downgrade](https://github.com/sigp/lighthouse/commit/03fece6badbf018e1d923e4b2dce73b7031666ac) - 2025-05-29
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

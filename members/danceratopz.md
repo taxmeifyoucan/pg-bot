@@ -267,6 +267,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(github): Add zkevm 60M, 90M, 120M (#1655)](https://github.com/ethereum/execution-spec-tests/commit/3810d22f84f206866f66f4f6bf856187c2893ab1) - 2025-05-28
 * [Commit] [fix(cli): fix-up ruff](https://github.com/ethereum/execution-spec-tests/commit/6979e84f94312edc3443422fd822a3a908dbee5c) - 2025-05-28
 * [Commit] [feat(cli): use `rich.Console()` for contrast in command output](https://github.com/ethereum/execution-spec-tests/commit/185eb5872bafcda849f2f11f7cc5a1648ee1ad8e) - 2025-05-28
+* [Pull Request] [refactor(tests): remove `secret_key` from acl test transaction](https://github.com/ethereum/execution-spec-tests/pull/1674) - 2025-05-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

@@ -147,6 +147,8 @@ Team: Erigon
 * [Commit] [add explicit check for MinerGasLimitFlag](https://github.com/erigontech/erigon/commit/a8d32b90e4a1dc02e7ba02d62492aa7297702705) - 2025-05-28
 * [Commit] [remotedb: add HasPrefix support (#14845)](https://github.com/erigontech/erigon/commit/a80f34246392636042039ffa5151bf9fc28aa52e) - 2025-05-28
 * [Commit] [removed BorEventReader from FullBlockReader](https://github.com/erigontech/erigon/commit/cf9ab7718d9d3da13dca4ea59154e965e6049c8d) - 2025-05-28
+* [Commit] [Sentinel: Ignore goodbye err (#15244)](https://github.com/erigontech/erigon/commit/b92eada1c1fd5a789a96ad94b406f86281677967) - 2025-05-29
+* [Commit] [poset merge fixes](https://github.com/erigontech/erigon/commit/d53554241c9aa5ca5dedb8dd72f2e1465ed3cd42) - 2025-05-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

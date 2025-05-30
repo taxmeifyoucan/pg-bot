@@ -2110,6 +2110,30 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/94d69506078ee5b1404e3d43b4b1ad3a21c438bc) - 2025-05-28
 * [Commit] [[r30] madv: high-level (#15139)](https://github.com/erigontech/erigon/commit/3d6ae750c7d3378852872ab5d37a22512710c808) - 2025-05-28
 * [Pull Request] [integration: add FAQ section to readme](https://github.com/erigontech/erigon/pull/15291) - 2025-05-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ad3dab680f7b6736b0970d093445a9a5264800dd) - 2025-05-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6f8de984d0a56c50f8b981096840d084c8238bcf) - 2025-05-29
+* [Commit] [Added integrity for block hashes (#15217)](https://github.com/erigontech/erigon/commit/290c9cb9f166d465e6dd9645a4560744c0b706e6) - 2025-05-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/83f3a936d76fe77a79107956d6e60c2790721581) - 2025-05-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2e3186003d37c639a0f3ee4bc2f9710b2d69b039) - 2025-05-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/de04cca00f2c629d2661c27f2ee0b9f3f8548a0b) - 2025-05-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/11c59ca0774fdd4652e51cb5542afa1ac6760557) - 2025-05-29
+* [Commit] [drop integrity check of dirty files (we have good recalcVisiblFiles func) (#15055)](https://github.com/erigontech/erigon/commit/a43c16de9df421d32dac71ca0b16a6ee622bee90) - 2025-05-29
+* [Pull Request] [sd: try remove Commitment calc from Flush](https://github.com/erigontech/erigon/pull/15318) - 2025-05-29
+* [Pull Request] [SD: remove `txNum` param from `IteratePrefix` (because it's `LatestState` method)](https://github.com/erigontech/erigon/pull/15317) - 2025-05-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7f07c6b218c426c3a95de71a777e515c63f15eee) - 2025-05-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/20a8e62f5966472e3fb1bc95a7a7003679a23a04) - 2025-05-29
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/5673faf1ee86d311e549b60a9daefcd381f65b1f) - 2025-05-29
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/e5668da8111e814f909ae5d5e8ee3aec814699eb) - 2025-05-29
+* [Issue] [BorCheckpoint: on chain-tip producing files which can't pass integrity check](https://github.com/erigontech/erigon/issues/15316) - 2025-05-29
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/66c5e017ba8da3b4899f291ca4b336a7a8e0af29) - 2025-05-29
+* [Pull Request] [ibs: reset logs - don't loose logs array capacity](https://github.com/erigontech/erigon/pull/15315) - 2025-05-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/af33e3caa737aaa6f754cf5e7be9966b56be2428) - 2025-05-29
+* [Commit] [prevent crash in FindMergeRange (#15278)](https://github.com/erigontech/erigon/commit/67f7ac1bafd075c84f1c2795da62bc6537f025d9) - 2025-05-29
+* [Pull Request] [exec: use `ibs.GetRawLogs`](https://github.com/erigontech/erigon/pull/15314) - 2025-05-29
+* [Commit] [fix: trace_callMany ignores parent block header (#15288)](https://github.com/erigontech/erigon/commit/20e3a9f9e5cd69c4f0319257bdf14f5dc0ca7a07) - 2025-05-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2e8e3b455135a8250e4d019f9c275b5577aa6046) - 2025-05-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bb1083bf89819affeb4821c0c86da6f8dce539eb) - 2025-05-29
+* [Commit] [SD: shared string objects between `put` and `TouchKey` (#15259)](https://github.com/erigontech/erigon/commit/8a0da2bd16d02ddde90c15a289ede86329ca9bf8) - 2025-05-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -43,6 +43,7 @@ Team: Geth
 * [Commit] [core/txpool: removed unnecessary method](https://github.com/ethereum/go-ethereum/commit/a201a33de8b2b43ed066471b0a292b7f89ede1ec) - 2025-05-26
 * [Pull Request] [core/rawdb: reduce allocations in rawdb.ReadHeaderNumber](https://github.com/ethereum/go-ethereum/pull/31913) - 2025-05-28
 * [Pull Request] [core/types: reduce allocations for transaction comparison](https://github.com/ethereum/go-ethereum/pull/31912) - 2025-05-28
+* [Pull Request] [eth/catalyst: fetch header on forkchoiceUpdated](https://github.com/ethereum/go-ethereum/pull/31928) - 2025-05-29
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

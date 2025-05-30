@@ -25,6 +25,9 @@ Team: Ipsilon
 * [Pull Request] [new(tests): EIP-7702 - ensure DELEGATECALLing a 7702 target works](https://github.com/ethereum/execution-spec-tests/pull/1485) - 2025-04-22
 * [Pull Request] [ new(tests): EIP-7873 expand legacy creation tx tests ](https://github.com/ethereum/execution-spec-tests/pull/1489) - 2025-04-23
 * [Commit] [fix(tests): Update legacy creation tx rules (#1492)](https://github.com/ethereum/execution-spec-tests/commit/0ee6c6fc870e9ecca0c7765a80bcf9a5f4a01290) - 2025-04-28
+* [Commit] [fix(ci): Fill EOF from an evmone branch](https://github.com/ethereum/execution-spec-tests/commit/1d482f9d4e2f8ed69df8bd7928bf7b68595352b5) - 2025-05-29
+* [Commit] [fix(ci): Fill EOF from an evmone branch](https://github.com/ethereum/execution-spec-tests/commit/fbadb64869605d5559c920817692e284645011c1) - 2025-05-29
+* [Commit] [fix(ci): Fill EOF from an evmone branch](https://github.com/ethereum/execution-spec-tests/commit/211e137ecb8f67564e23dce21433d9f264924360) - 2025-05-29
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

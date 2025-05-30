@@ -103,6 +103,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: run lodestar with Bun](https://github.com/ChainSafe/lodestar/pull/7867) - 2025-05-24
 * [Issue] [PeerDAS - lodestar computes wrong message ids](https://github.com/ChainSafe/lodestar/issues/7879) - 2025-05-27
 * [Pull Request] [fix: correct labels of gossipsub_iwant_promise_delivery_seconds metrics](https://github.com/ChainSafe/lodestar/pull/7878) - 2025-05-27
+* [Commit] [fix: address PR's comments](https://github.com/ChainSafe/lodestar/commit/495345e63a0525f804fded89ae925f016f06c464) - 2025-05-29
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

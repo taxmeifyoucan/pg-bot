@@ -160,6 +160,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stop testing get_next_slot_expected_withdrawals() mechanism on Deneb](https://github.com/status-im/nimbus-eth2/commit/aacd15a981d3da34f1c665f832a4ab9bbfe341fa) - 2025-05-28
 * [Pull Request] [stop testing get_next_slot_expected_withdrawals() mechanism on Deneb](https://github.com/status-im/nimbus-eth2/pull/7200) - 2025-05-28
 * [Commit] [ensure BPOs are in correctly sorted order](https://github.com/status-im/nimbus-eth2/commit/9ae8e0dcfd0cfe0b1a3c218c43341404cbbe0a2a) - 2025-05-28
+* [Commit] [Bump hoodi, chronicles, metrics, results (no functional changes) (#7201)](https://github.com/status-im/nimbus-eth2/commit/c61db830967170e3c7616c49b9c613589b96b951) - 2025-05-29
+* [Commit] [Bump nim-nat-traversal to 981821197e839dc0544fe49c58e0da3f8a6104bf (#7202)](https://github.com/status-im/nimbus-eth2/commit/d457f10c3e164c5195ef8f20622b6fbb6a071956) - 2025-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 
@@ -186,6 +188,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fusaka-devnet-0/EIP-7823: Set upper bounds for MODEXP (#3322)](https://github.com/status-im/nimbus-eth1/commit/a92c26735d525e0069b0b4880ecc2bedf9fd897f) - 2025-05-23
 * [Commit] [add arm64 platform detection](https://github.com/status-im/nimbus-eth1/commit/5d8ad6ac36c4e0b6dc9dea82e784ba468038e01c) - 2025-05-25
 * [Pull Request] [rm useless windeps.dll downloading; make syncer batch size --debug](https://github.com/status-im/nimbus-eth1/pull/3328) - 2025-05-25
+* [Commit] [Fix outdated metric visualisation section of README.md (#3341)](https://github.com/status-im/nimbus-eth1/commit/77609948bfc77c4ea009f9f5bc52a6fcae9f3bf6) - 2025-05-29
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

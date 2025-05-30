@@ -194,6 +194,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Chain-specific default gas limits](https://github.com/erigontech/erigon/issues/15267) - 2025-05-26
 * [Commit] [print all BPO times](https://github.com/erigontech/erigon/commit/a15937b09230fcd11c01d3c46d04add370d4c46a) - 2025-05-28
 * [Commit] [stage_custom_trace: more aggressive prune (#15224)](https://github.com/erigontech/erigon/commit/28c6d9f790ed7cdc2412effb764007ea3516d81f) - 2025-05-28
+* [Commit] [cosmetics](https://github.com/erigontech/erigon/commit/7fc59bfc9830f2e5e182d2fdaa62b182168e3715) - 2025-05-29
+* [Commit] [agg: data-dependency concept (#15264)](https://github.com/erigontech/erigon/commit/ad96222bd813949d434c4e44f4af0116301c58f1) - 2025-05-29
+* [Commit] [Polygon Bhilai Fork Updates (#15261)](https://github.com/erigontech/erigon/commit/589d81f691ec3771e2dd6c8365b5422a1f430655) - 2025-05-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

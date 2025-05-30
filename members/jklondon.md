@@ -116,6 +116,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Added integrity for block hashes](https://github.com/erigontech/erigon/pull/15217) - 2025-05-22
 * [Pull Request] [[r3.0] Enable ERIGON_ASSERT: true in CI tests and on Syncing in CI ](https://github.com/erigontech/erigon/pull/15272) - 2025-05-26
 * [Pull Request] [Enable ERIGON_ASSERT: true in CI tests and on Syncing in CI](https://github.com/erigontech/erigon/pull/15271) - 2025-05-26
+* [Commit] [[r3.0] Enable ERIGON_ASSERT: true in CI tests and on Syncing in CI  (#15272)](https://github.com/erigontech/erigon/commit/b72a20e5e97964fee58e530587c762045c7d5545) - 2025-05-29
+* [Commit] [Enable ERIGON_ASSERT: true in CI tests and on Syncing in CI (#15271)](https://github.com/erigontech/erigon/commit/1f13807abeee9d65b7f0775a047d7ca50c401067) - 2025-05-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -265,6 +265,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Convert BlobBaseFee once](https://github.com/NethermindEth/nethermind/commit/b0a15dc4c1113013bd0010dcd15a9b34ddfe0ae6) - 2025-05-28
 * [Commit] [Keep PrevRandao as Big-endian](https://github.com/NethermindEth/nethermind/commit/6228d5a46c3fa94ba806ee2eefd992ef1dca7f42) - 2025-05-28
 * [Commit] [fix test](https://github.com/NethermindEth/nethermind/commit/d58aba034c7f852226a343670cf666f8c50a3c23) - 2025-05-28
+* [Commit] [Use less allocating .ToValueHash than .ToBigEndian (#8713)](https://github.com/NethermindEth/nethermind/commit/23ed82dbe3c1a0539c8d70fc9c5c9481ac5fc41a) - 2025-05-29
+* [Commit] [Update known_chain_sizes test (#8714)](https://github.com/NethermindEth/nethermind/commit/5819096017fa9fe1b3436e2b1649a400f083346d) - 2025-05-29
+* [Pull Request] [Update known_chain_sizes test](https://github.com/NethermindEth/nethermind/pull/8714) - 2025-05-29
+* [Pull Request] [Use less allocating .ToValueHash than .ToBigEndian](https://github.com/NethermindEth/nethermind/pull/8713) - 2025-05-29
+* [Commit] [Use less allocating .ToValueHash than .ToBigEndian](https://github.com/NethermindEth/nethermind/commit/d80b5e858b9bc832540bd731a90d1e9a0d2650ba) - 2025-05-29
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

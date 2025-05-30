@@ -50,6 +50,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix kzg spec by proxing wasm cell methods to jskzg](https://github.com/ethereumjs/ethereumjs-monorepo/commit/fa74e1b89f68a074843f8865a5524b5d7787cefc) - 2025-05-24
 * [Commit] [update the microkzg signer to 0.15 and fix the imports everywhere](https://github.com/ethereumjs/ethereumjs-monorepo/commit/315c4b70277d04b6e6e522476b24f61b3290bb15) - 2025-05-24
 * [Commit] [add ckzg to client for getpayloadv5 ttest](https://github.com/ethereumjs/ethereumjs-monorepo/commit/d0b040463218a966b010b6d3ffab187d31648ead) - 2025-05-26
+* [Commit] [handle structued clone undefined](https://github.com/ethereumjs/ethereumjs-monorepo/commit/cf60e4431c6dd995656ea7b3f2f112b08cb63d84) - 2025-05-29
+* [Commit] [handle structured clone for browser](https://github.com/ethereumjs/ethereumjs-monorepo/commit/bf4d8a4acf09768c8792a2e2a24e3bcaa9f07efd) - 2025-05-29
+* [Commit] [Add eth_getMaxPriorityFeePerGas RPC method (#4092)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/504212eb70af162bc4b0c1237376fbfd4f760b16) - 2025-05-29
+* [Commit] [Revert "add ckzg to client for getpayloadv5 ttest"](https://github.com/ethereumjs/ethereumjs-monorepo/commit/1b56516330fba287b74ff0e4b0cda10069d74a21) - 2025-05-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Further simplify DataColumnSidecarsByRoot request](https://github.com/ethereum/consensus-specs/pull/4323) - 2025-05-16
 

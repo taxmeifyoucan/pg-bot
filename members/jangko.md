@@ -64,3 +64,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Wire protocol: avoid recomputing block hash in getStatus68/69](https://github.com/status-im/nimbus-eth1/pull/3332) - 2025-05-27
 * [Commit] [Portal Bridge: Restructure portal bridge folders (#3308)](https://github.com/status-im/nimbus-eth1/commit/765b69f57037800415d8ca2febe30b0eca267f43) - 2025-05-28
 * [Commit] [Synchronize FC block processing using asyncQueue (#3333)](https://github.com/status-im/nimbus-eth1/commit/a880ab5639125cefaa8c6fdfbf72b11c8098d6a6) - 2025-05-28
+* [Pull Request] [Fix outdated metric visualisation section of README.md](https://github.com/status-im/nimbus-eth1/pull/3341) - 2025-05-29

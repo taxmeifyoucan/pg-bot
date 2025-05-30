@@ -52,3 +52,5 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [timestamp based blob forking impl](https://github.com/status-im/nimbus-eth1/commit/454724066a4e4db683b17508ea5db87155ad026a) - 2025-05-27
 * [Commit] [Support multiple wire protocol version and implement eth/68 + eth/69 (#3283)](https://github.com/status-im/nimbus-eth1/commit/443da8e7cb0f8c96fb0ac6468aa0f35c0755daf6) - 2025-05-28
 * [Commit] [remove debugEcho and result](https://github.com/status-im/nimbus-eth1/commit/85950ed5230459b2714c848941516e24d12f5d6a) - 2025-05-28
+* [Issue] [Implement engine_getPlayloadV5](https://github.com/status-im/nimbus-eth1/issues/3343) - 2025-05-29
+* [Commit] [increate EVM fork](https://github.com/status-im/nimbus-eth1/commit/3b24b0efb5c82f6a3125055ffa7ccce0ee616fad) - 2025-05-29

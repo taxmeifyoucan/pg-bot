@@ -42,6 +42,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [NPE ](https://github.com/Consensys/teku/issues/9485) - 2025-05-23
 * [Issue] [investigate differences in the minimal preset](https://github.com/Consensys/teku/issues/9483) - 2025-05-23
 * [Pull Request] [Added error for genesis state not matching latest block header](https://github.com/Consensys/teku/pull/9482) - 2025-05-23
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [added get_bpo_fork_version function](https://github.com/ethereum/consensus-specs/pull/4343) - 2025-05-29
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

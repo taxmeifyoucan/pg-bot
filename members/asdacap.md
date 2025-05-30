@@ -180,6 +180,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix aura test](https://github.com/NethermindEth/nethermind/commit/ae936ec34ded6352ee79ea2a101edaa56988ef70) - 2025-05-28
 * [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/bdab1efb72246fc586b3e9f1adb5ef7de2c0a353) - 2025-05-28
 * [Commit] [Some fix](https://github.com/NethermindEth/nethermind/commit/c4cfa203647d174a559e83bc50883aa24160930d) - 2025-05-28
+* [Commit] [GetStorageRange fix for no storage slots found (#8538)](https://github.com/NethermindEth/nethermind/commit/0c4af2b7cc45c48374f6db688957e27668f658bd) - 2025-05-29
+* [Commit] [Fix Assertoor workflow (#8711)](https://github.com/NethermindEth/nethermind/commit/bef28f3c70d34c14c75f888308168fc04b241622) - 2025-05-29
+* [Commit] [Cleanup](https://github.com/NethermindEth/nethermind/commit/f0ad04a8889ff4286f9e66aa2be8c5d0ba1e4189) - 2025-05-29
+* [Commit] [Refactor projects configuration (#8659)](https://github.com/NethermindEth/nethermind/commit/4da056b685783c4d3446f6a3a554051863034a8f) - 2025-05-29
+* [Pull Request] [Fix/disconnect without sending reason](https://github.com/NethermindEth/nethermind/pull/8712) - 2025-05-29
+* [Commit] [Some fixes for clef integration in RPC (#8626)](https://github.com/NethermindEth/nethermind/commit/9c25753baa81fb5a0d3d307c7ab00c769ce92a04) - 2025-05-29
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

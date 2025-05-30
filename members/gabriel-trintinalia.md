@@ -67,6 +67,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [Disable flaky test (#8709)](https://github.com/hyperledger/besu/commit/5c1c42c75e1f62d53b006287334e5a024f0fcf36) - 2025-05-28
 * [Pull Request] [test: disable flaky testDNSDaemonPeriodic](https://github.com/hyperledger/besu/pull/8709) - 2025-05-28
 * [Pull Request] [refactor(testing): remove trusted setup initialisation from BlobTestFixture](https://github.com/hyperledger/besu/pull/8708) - 2025-05-28
+* [Commit] [fix(eth/69): validate block range message (#8714)](https://github.com/hyperledger/besu/commit/dfdfd606d6c250321b464b56c58f10d6267e539a) - 2025-05-29
+* [Pull Request] [fix(eth/69): validate block range message](https://github.com/hyperledger/besu/pull/8714) - 2025-05-29
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

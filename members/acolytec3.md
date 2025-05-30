@@ -39,6 +39,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [Fix outdated hardware wallet signing example (#4084)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/98cb6842436f7e8105a8584cd1b57912da064ef8) - 2025-05-22
 * [Commit] [relocate files and add readme](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8888d904e8c7e51b734d98e83dadba66867467ff) - 2025-05-22
 * [Commit] [common: add 5 bpo hardforks for blobSchedule specification (#4085)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/86d7b9b2500fbbf2f1a118af63d61812510309f3) - 2025-05-26
+* [Commit] [tx: add eip-7594 peerdas blob transactions in osaka (#3976)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/ad2fd6d3d06f04b607ae5d98097fbe13aba618ff) - 2025-05-29
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

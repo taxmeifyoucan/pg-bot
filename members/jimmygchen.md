@@ -50,6 +50,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Data column reconstruction taking 5+ seconds on devnets with high blob count](https://github.com/sigp/lighthouse/issues/7526) - 2025-05-27
 * [Pull Request] [Update mergify rules so that I can add `waiting-on-author` on a PR th…](https://github.com/sigp/lighthouse/pull/7525) - 2025-05-27
 * [Commit] [Update mergify rules so that I can add `waiting-on-author` on a PR that's passing CI. Remove noisy comments.](https://github.com/sigp/lighthouse/commit/8dde5bdb4413f5f1faf3203bf405a563f5449600) - 2025-05-28
+* [Pull Request] [Prevent `AvailabilityCheckError` when there's no new custody columns to import](https://github.com/sigp/lighthouse/pull/7533) - 2025-05-29
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

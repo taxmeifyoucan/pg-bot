@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Batch attestation duty scheduling for an epoch (#9374)](https://github.com/Consensys/teku/commit/03b0df774e0fbe2e7fbb08e7bf04b873209b3894) - 2025-05-14
 * [Commit] [Add SSZ support to attestation APIs (#9433)](https://github.com/Consensys/teku/commit/82b506dcaf7846e77788c786f0721f698c8109fc) - 2025-05-22
 * [Pull Request] [QUIC support [DO NOT MERGE]](https://github.com/Consensys/teku/pull/9484) - 2025-05-23
+* [Commit] [Align config with specs (#9491)](https://github.com/Consensys/teku/commit/8900d44763ee371d861620250d991b2aa76f5dbc) - 2025-05-29
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

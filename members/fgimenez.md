@@ -154,6 +154,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [RangeBlockMode tests](https://github.com/paradigmxyz/reth/commit/0697f3f8a2617ef9e07d3956d10db8bbfd6bb7b9) - 2025-05-27
 * [Pull Request] [test: add CreateFork e2e action](https://github.com/paradigmxyz/reth/pull/16520) - 2025-05-28
 * [Pull Request] [test: include remaining actions in e2e ProduceBlocks](https://github.com/paradigmxyz/reth/pull/16516) - 2025-05-28
+* [Issue] [Allow to run e2e tests with state root fallback](https://github.com/paradigmxyz/reth/issues/16545) - 2025-05-29
+* [Pull Request] [chore: configure apt retries and timeouts to handle network issues during Cross build](https://github.com/paradigmxyz/reth/pull/16543) - 2025-05-29
+* [Commit] [fix(db): correct ClientVersion serialization size tracking (#16427)](https://github.com/paradigmxyz/reth/commit/0c7bd1e5dd59852e119b0ec6033d9f44888ae1c3) - 2025-05-29
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

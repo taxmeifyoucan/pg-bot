@@ -44,6 +44,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Refactoring networking ATs](https://github.com/Consensys/teku/pull/9451) - 2025-05-21
 * [Commit] [Updating reference tests to 1.6.0-alpha.0 (#9450)](https://github.com/Consensys/teku/commit/a24b5e4be41bc51565c21bc65e86ecd219860b35) - 2025-05-21
 * [Pull Request] [Updating reference tests to 1.6.0-alpha.0](https://github.com/Consensys/teku/pull/9450) - 2025-05-21
+* [Commit] [Integrating das branch into master (#9458)](https://github.com/Consensys/teku/commit/7856340dafe93975281c89fdd321447a458296dc) - 2025-05-29
+* [Issue] [Remove interopNumberOfBlobs option](https://github.com/Consensys/teku/issues/9494) - 2025-05-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Added Teku team coordinators](https://github.com/ethereum/pm/pull/1468) - 2025-04-14
 * [Pull Request] [Minor typos protocol-upgrade.md](https://github.com/ethereum/pm/pull/1467) - 2025-04-14

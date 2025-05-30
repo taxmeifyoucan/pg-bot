@@ -32,6 +32,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [Add `--Xhistory-expiry-prune` for enabling optimal RocksDB GC settings (#8675)](https://github.com/hyperledger/besu/commit/6de2bbfd06736027a9bdb5d4ab626f282f9fb50c) - 2025-05-23
 * [Issue] [Deprecate CHECKPOINT for public networks](https://github.com/hyperledger/besu/issues/8699) - 2025-05-27
 * [Commit] [Update history expiry blocks for prune and checkpoint (#8634)](https://github.com/hyperledger/besu/commit/fab6facf75f3765da81eeb85973e0d888debe1c6) - 2025-05-28
+* [Commit] [Promote prune-pre-merge-blocks subcommand (#8715)](https://github.com/hyperledger/besu/commit/25dc5d61184658f1c0d9dbde693430c6aa813d27) - 2025-05-29
+* [Pull Request] [Remove x- and unhide prune-pre-merge-blocks subcommand](https://github.com/hyperledger/besu/pull/8715) - 2025-05-29
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

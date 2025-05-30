@@ -176,6 +176,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Use getMaxBlobsPerBlock to fill up kzg commitments](https://github.com/ChainSafe/lodestar/commit/5b16f0e32891b87b55af6baea5a8ddc446f3af52) - 2025-05-28
 * [Pull Request] [chore: remove deneb/electra entries from blob schedule](https://github.com/ChainSafe/lodestar/pull/7888) - 2025-05-28
 * [Commit] [chore: remove deneb/electra entries from blob schedule](https://github.com/ChainSafe/lodestar/commit/29a799bf33728b4e7969d954367e4216e80d9dba) - 2025-05-28
+* [Commit] [chore: bump package versions to 1.30.0](https://github.com/ChainSafe/lodestar/commit/123eb2d9fb71dd10076a47bc7787bf4ec40343da) - 2025-05-29
+* [Commit] [Use getOrDefault consistently](https://github.com/ChainSafe/lodestar/commit/23bcdda94445d5074d35e9bcb2d750c7698ba039) - 2025-05-29
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

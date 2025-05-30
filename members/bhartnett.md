@@ -92,3 +92,5 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Portal client: Drop remaining offer content after first validation failure in state network](https://github.com/status-im/nimbus-eth1/pull/3334) - 2025-05-27
 * [Commit] [Portal client: Retry failed offers and make content queue size configurable (#3335)](https://github.com/status-im/nimbus-eth1/commit/98d8b78f00994478951cbf371207828eed5ef838) - 2025-05-28
 * [Commit] [Improve retry logic.](https://github.com/status-im/nimbus-eth1/commit/13f38f95a81a39f1394097a35a3a8a972b20e217) - 2025-05-28
+* [Pull Request] [Portal client: Add accept codes metadata to neighborhood gossip and PutContent JSON-RPC endpoints](https://github.com/status-im/nimbus-eth1/pull/3342) - 2025-05-29
+* [Commit] [Update Nimbus README (#3339)](https://github.com/status-im/nimbus-eth1/commit/0c877f200e380f0fb256b82894a5f7efba8c59a9) - 2025-05-29
