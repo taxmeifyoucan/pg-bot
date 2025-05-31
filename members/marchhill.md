@@ -90,6 +90,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [rename to parentBlobGas to match spec](https://github.com/NethermindEth/nethermind/commit/a894eb1dc610df9acd9e17418abb48928762c7f9) - 2025-05-28
 * [Commit] [use ulong, fix underflow](https://github.com/NethermindEth/nethermind/commit/61b4c3251c91bcc089f95d135e8ebf275ed1bc74) - 2025-05-28
 * [Commit] [Kute: order by filename (#8657)](https://github.com/NethermindEth/nethermind/commit/17609d607fc29499b95a59f748f3a8f0ee224cf5) - 2025-05-29
+* [Commit] [comment tests](https://github.com/NethermindEth/nethermind/commit/723d33a2e12bad37802b13a7a1eb2e8cb08457d4) - 2025-05-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

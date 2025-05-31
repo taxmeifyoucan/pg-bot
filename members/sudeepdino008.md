@@ -196,6 +196,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ec571f8254ccb72243cbb9a0fbfa763c2b6af1de) - 2025-05-29
 * [Issue] [fix purify_domains file parsing](https://github.com/erigontech/erigon/issues/15319) - 2025-05-29
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e46426fd8e6df7f1a7f75eab52405ad8297537e4) - 2025-05-29
+* [Issue] [handling 2x domain folder free space when merging](https://github.com/erigontech/erigon/issues/15343) - 2025-05-30
+* [Issue] [un-synchronized dirtyFiles access](https://github.com/erigontech/erigon/issues/15342) - 2025-05-30
+* [Issue] [rcache merge fail because file missing](https://github.com/erigontech/erigon/issues/15341) - 2025-05-30
+* [Issue] [db bloat while doing domain purification](https://github.com/erigontech/erigon/issues/15340) - 2025-05-30
+* [Issue] [`purify_domains` cmd renames](https://github.com/erigontech/erigon/issues/15339) - 2025-05-30
+* [Issue] [BUG: read-ahead negative counters](https://github.com/erigontech/erigon/issues/15338) - 2025-05-30
+* [Issue] [generalize prior execution of dependent entities](https://github.com/erigontech/erigon/issues/15337) - 2025-05-30
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

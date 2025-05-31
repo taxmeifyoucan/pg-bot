@@ -162,6 +162,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [ensure BPOs are in correctly sorted order](https://github.com/status-im/nimbus-eth2/commit/9ae8e0dcfd0cfe0b1a3c218c43341404cbbe0a2a) - 2025-05-28
 * [Commit] [Bump hoodi, chronicles, metrics, results (no functional changes) (#7201)](https://github.com/status-im/nimbus-eth2/commit/c61db830967170e3c7616c49b9c613589b96b951) - 2025-05-29
 * [Commit] [Bump nim-nat-traversal to 981821197e839dc0544fe49c58e0da3f8a6104bf (#7202)](https://github.com/status-im/nimbus-eth2/commit/d457f10c3e164c5195ef8f20622b6fbb6a071956) - 2025-05-29
+* [Commit] [Bump nim-sqlite3-abi to v3.49.2.0 (#7186)](https://github.com/status-im/nimbus-eth2/commit/cd49f51821383f72ad1d6725d3a620c5579de272) - 2025-05-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

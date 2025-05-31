@@ -57,6 +57,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: add blob schedule to each network config (#7858)](https://github.com/ChainSafe/lodestar/commit/2b5494153805e62342d612c56fb508282c16fa50) - 2025-05-22
 * [Commit] [correct calculation of latest block root of genesis state](https://github.com/ChainSafe/lodestar/commit/d92df8a3e0169cc047e2a6eac7aa63f50f8d0d9a) - 2025-05-23
 * [Commit] [chore: bump package versions to 1.30.0](https://github.com/ChainSafe/lodestar/commit/123eb2d9fb71dd10076a47bc7787bf4ec40343da) - 2025-05-27
+* [Commit] [chore: correct labels of gossipsub_iwant_promise_delivery_seconds metrics (#7878)](https://github.com/ChainSafe/lodestar/commit/af282209374621bd7d28159ae0e45802a4a38814) - 2025-05-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

@@ -75,5 +75,6 @@ Team: Reth
 * [Commit] [make protocol generic over witness](https://github.com/paradigmxyz/reth/commit/89997014f1001d276c7010046314202293231728) - 2025-05-28
 * [Commit] [remove bytecode from provider](https://github.com/paradigmxyz/reth/commit/30d1a9cfa280ebf62950f05faa7e3cf35ad4befc) - 2025-05-28
 * [Commit] [update names & rm bytecode](https://github.com/paradigmxyz/reth/commit/cff77c0febca00ff618fdbf4eeb02ffaa5e3088f) - 2025-05-28
+* [Commit] [add execution witness prover](https://github.com/paradigmxyz/reth/commit/e7d079ac0b16109844a13d36c58e1aca35d8386d) - 2025-05-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16

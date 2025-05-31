@@ -54,3 +54,5 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [remove debugEcho and result](https://github.com/status-im/nimbus-eth1/commit/85950ed5230459b2714c848941516e24d12f5d6a) - 2025-05-28
 * [Issue] [Implement engine_getPlayloadV5](https://github.com/status-im/nimbus-eth1/issues/3343) - 2025-05-29
 * [Commit] [increate EVM fork](https://github.com/status-im/nimbus-eth1/commit/3b24b0efb5c82f6a3125055ffa7ccce0ee616fad) - 2025-05-29
+* [Commit] [Portal client: Improve portal testnet script (#3348)](https://github.com/status-im/nimbus-eth1/commit/e9068f04fcbf049a75b539084cfa520575e0049a) - 2025-05-30
+* [Commit] [Move PooledTransaction from nim-eth to execution client (#3346)](https://github.com/status-im/nimbus-eth1/commit/ed78f6b3698ecfc3d4d332ba8ae5e56847399c39) - 2025-05-30

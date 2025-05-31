@@ -149,6 +149,8 @@ Team: Erigon
 * [Commit] [removed BorEventReader from FullBlockReader](https://github.com/erigontech/erigon/commit/cf9ab7718d9d3da13dca4ea59154e965e6049c8d) - 2025-05-28
 * [Commit] [Sentinel: Ignore goodbye err (#15244)](https://github.com/erigontech/erigon/commit/b92eada1c1fd5a789a96ad94b406f86281677967) - 2025-05-29
 * [Commit] [poset merge fixes](https://github.com/erigontech/erigon/commit/d53554241c9aa5ca5dedb8dd72f2e1465ed3cd42) - 2025-05-29
+* [Commit] [fix lint issues](https://github.com/erigontech/erigon/commit/f4f3cf848a895bfe3706a3956d6195b21e87b0a2) - 2025-05-30
+* [Pull Request] [Add error to GetHashFn & GetHeaderFn](https://github.com/erigontech/erigon/pull/15344) - 2025-05-30
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -38,6 +38,7 @@ Team: Portal Network (EF)
 * [Pull Request] [chore: bump trin (0.3.3) & ethportal-api versions (0.10.3)](https://github.com/ethereum/trin/pull/1865) - 2025-05-28
 * [Commit] [feat(portalnet): handle content that doesn't depend on distance to content (#1859)](https://github.com/ethereum/trin/commit/cc9c5f5eb081c261a3417b1f5edadd6a12588939) - 2025-05-28
 * [Commit] [feat: add chain head metrics (#1863)](https://github.com/ethereum/trin/commit/c1d549223baf44798184565ff9209b216c2bb734) - 2025-05-28
+* [Pull Request] [feat: add support for validating multiple content items](https://github.com/ethereum/trin/pull/1868) - 2025-05-30
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

@@ -69,6 +69,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [refactor(testing): remove trusted setup initialisation from BlobTestFixture](https://github.com/hyperledger/besu/pull/8708) - 2025-05-28
 * [Commit] [fix(eth/69): validate block range message (#8714)](https://github.com/hyperledger/besu/commit/dfdfd606d6c250321b464b56c58f10d6267e539a) - 2025-05-29
 * [Pull Request] [fix(eth/69): validate block range message](https://github.com/hyperledger/besu/pull/8714) - 2025-05-29
+* [Commit] [Increase max number of blobs kept in the pool (#8722)](https://github.com/hyperledger/besu/commit/ed8ec22313c06d77253be5990f43696f81206c22) - 2025-05-30
+* [Pull Request] [[fusaka-devnet-0] increase max number of blobs kept in the pool](https://github.com/hyperledger/besu/pull/8722) - 2025-05-30
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

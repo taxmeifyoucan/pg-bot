@@ -65,3 +65,6 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Portal Bridge: Restructure portal bridge folders (#3308)](https://github.com/status-im/nimbus-eth1/commit/765b69f57037800415d8ca2febe30b0eca267f43) - 2025-05-28
 * [Commit] [Synchronize FC block processing using asyncQueue (#3333)](https://github.com/status-im/nimbus-eth1/commit/a880ab5639125cefaa8c6fdfbf72b11c8098d6a6) - 2025-05-28
 * [Pull Request] [Fix outdated metric visualisation section of README.md](https://github.com/status-im/nimbus-eth1/pull/3341) - 2025-05-29
+* [Pull Request] [Align PooledTransaction to the spec](https://github.com/status-im/nimbus-eth1/pull/3350) - 2025-05-30
+* [Pull Request] [Fix simulator](https://github.com/status-im/nimbus-eth1/pull/3349) - 2025-05-30
+* [Commit] [Fix pyspec](https://github.com/status-im/nimbus-eth1/commit/ac36f5add80814b2d562556fc6dc145685a23413) - 2025-05-30

@@ -94,3 +94,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Improve retry logic.](https://github.com/status-im/nimbus-eth1/commit/13f38f95a81a39f1394097a35a3a8a972b20e217) - 2025-05-28
 * [Pull Request] [Portal client: Add accept codes metadata to neighborhood gossip and PutContent JSON-RPC endpoints](https://github.com/status-im/nimbus-eth1/pull/3342) - 2025-05-29
 * [Commit] [Update Nimbus README (#3339)](https://github.com/status-im/nimbus-eth1/commit/0c877f200e380f0fb256b82894a5f7efba8c59a9) - 2025-05-29
+* [Pull Request] [Portal bridge: Use startEra and endEra parameters in history bridge backfill audit](https://github.com/status-im/nimbus-eth1/pull/3351) - 2025-05-30
+* [Pull Request] [Portal client: Improve portal testnet script](https://github.com/status-im/nimbus-eth1/pull/3348) - 2025-05-30
+* [Commit] [Portal client: Increase the default number of content queue workers (#3347)](https://github.com/status-im/nimbus-eth1/commit/dd99049abea29e70c5e25d0c66c9ad27994c7653) - 2025-05-30
+* [Pull Request] [Portal client: Increase the default number of content queue workers](https://github.com/status-im/nimbus-eth1/pull/3347) - 2025-05-30

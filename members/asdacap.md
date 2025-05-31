@@ -186,6 +186,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Refactor projects configuration (#8659)](https://github.com/NethermindEth/nethermind/commit/4da056b685783c4d3446f6a3a554051863034a8f) - 2025-05-29
 * [Pull Request] [Fix/disconnect without sending reason](https://github.com/NethermindEth/nethermind/pull/8712) - 2025-05-29
 * [Commit] [Some fixes for clef integration in RPC (#8626)](https://github.com/NethermindEth/nethermind/commit/9c25753baa81fb5a0d3d307c7ab00c769ce92a04) - 2025-05-29
+* [Commit] [Optimize 12 x 20byte  & 32byte OpCodes (#8687)](https://github.com/NethermindEth/nethermind/commit/4e535f26d1eac00f633b9fdad174f63590301b5d) - 2025-05-30
+* [Commit] [Use less allocating .ToValueHash than .ToBigEndian (#8713)](https://github.com/NethermindEth/nethermind/commit/23ed82dbe3c1a0539c8d70fc9c5c9481ac5fc41a) - 2025-05-30
+* [Commit] [Fix exception on exit for incomplete nethermind startup. (#8717)](https://github.com/NethermindEth/nethermind/commit/08a5419eecc57ad5a114ec739d2a7bc7f46fa951) - 2025-05-30
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/bfb9b9ad06e25bf8fa3348444389f03a0524cf5e) - 2025-05-30
+* [Pull Request] [Fix exception on exit for incomplete nethermind startup.](https://github.com/NethermindEth/nethermind/pull/8717) - 2025-05-30
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/44e46c21f45091fc213ce904357bb1421a55a948) - 2025-05-30
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

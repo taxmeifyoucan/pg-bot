@@ -50,3 +50,5 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [Update crates/evm/evm/src/execute.rs](https://github.com/paradigmxyz/reth/commit/32f27d73b6afb44816a078104bb610a20bd40f80) - 2025-05-21
 * [Pull Request] [fix: propagate `--sequencer-headers` to `SequencerClient`](https://github.com/paradigmxyz/reth/pull/16474) - 2025-05-26
 * [Issue] [Relax `OpPayloadPrimitives`](https://github.com/paradigmxyz/reth/issues/16524) - 2025-05-28
+* [Pull Request] [chore: simplify `NetworkPrimitives`](https://github.com/paradigmxyz/reth/pull/16556) - 2025-05-30
+* [Commit] [feat(examples): Replace redundant type definitions with a `CustomPooledTransaction` alias in the `custom_node` example (#16554)](https://github.com/paradigmxyz/reth/commit/586976f12fb7a9c1417981a41fb233f4f603f643) - 2025-05-30

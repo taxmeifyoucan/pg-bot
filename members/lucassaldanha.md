@@ -46,6 +46,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Updating reference tests to 1.6.0-alpha.0](https://github.com/Consensys/teku/pull/9450) - 2025-05-21
 * [Commit] [Integrating das branch into master (#9458)](https://github.com/Consensys/teku/commit/7856340dafe93975281c89fdd321447a458296dc) - 2025-05-29
 * [Issue] [Remove interopNumberOfBlobs option](https://github.com/Consensys/teku/issues/9494) - 2025-05-29
+* [Commit] [Downgrade logs (#9500)](https://github.com/Consensys/teku/commit/1a45cebda7a82a41bd8c3f40b0143acb2f8f1100) - 2025-05-30
+* [Commit] [Remove unused `--Xinterop-number-of-blobs` option (#9495)](https://github.com/Consensys/teku/commit/8adc37c65ebad5a3f42b945993a685f0858586ff) - 2025-05-30
+* [Pull Request] [Downgrade logs](https://github.com/Consensys/teku/pull/9500) - 2025-05-30
+* [Issue] [Potential flaky test LinkedObjectsDeliveryTest.testDeadLock](https://github.com/Consensys/teku/issues/9499) - 2025-05-30
+* [Issue] [[EIP-7917] Evaluate epoch-transition overhead](https://github.com/Consensys/teku/issues/9498) - 2025-05-30
+* [Issue] [[EIP-7917] Deterministic Proposer Lookahead](https://github.com/Consensys/teku/issues/9497) - 2025-05-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Added Teku team coordinators](https://github.com/ethereum/pm/pull/1468) - 2025-04-14
 * [Pull Request] [Minor typos protocol-upgrade.md](https://github.com/ethereum/pm/pull/1467) - 2025-04-14

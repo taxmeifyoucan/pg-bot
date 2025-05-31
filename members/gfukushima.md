@@ -24,6 +24,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Get inclusion lists endpoint (#9359)](https://github.com/Consensys/teku/commit/924390c33e857ba13045a0d6f5bdca4628fac8f0) - 2025-05-14
 * [Pull Request] [Add peers via api](https://github.com/Consensys/teku/pull/9431) - 2025-05-19
 * [Commit] [Add peer via api (#9431)](https://github.com/Consensys/teku/commit/fdc1b8fc65a053c6556e9cdfa9633256105cb9a6) - 2025-05-21
+* [Issue] [Remove peers using beacon API](https://github.com/Consensys/teku/issues/9503) - 2025-05-30
+* [Issue] [Add static peers via beacon API using ENR](https://github.com/Consensys/teku/issues/9502) - 2025-05-30
+* [Pull Request] [[EIP-7917] Add deterministic proposer lookahead changes to Fulu](https://github.com/Consensys/teku/pull/9501) - 2025-05-30
+* [Commit] [Remove unused assignments (#9496)](https://github.com/Consensys/teku/commit/42568a5a50678a4a6bff24e8b587f4ee0c216f1f) - 2025-05-30
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -178,6 +178,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: remove deneb/electra entries from blob schedule](https://github.com/ChainSafe/lodestar/commit/29a799bf33728b4e7969d954367e4216e80d9dba) - 2025-05-28
 * [Commit] [chore: bump package versions to 1.30.0](https://github.com/ChainSafe/lodestar/commit/123eb2d9fb71dd10076a47bc7787bf4ec40343da) - 2025-05-29
 * [Commit] [Use getOrDefault consistently](https://github.com/ChainSafe/lodestar/commit/23bcdda94445d5074d35e9bcb2d750c7698ba039) - 2025-05-29
+* [Commit] [fix: cache seen aggregated attestations by committee index (#7890)](https://github.com/ChainSafe/lodestar/commit/bde6131d6ad467d74f25a29533eaefc56e321044) - 2025-05-30
+* [Commit] [Update packages/beacon-node/src/chain/opPools/aggregatedAttestationPool.ts](https://github.com/ChainSafe/lodestar/commit/4a6315a308d5ffe5fadcc908393637ea427862a8) - 2025-05-30
+* [Commit] [Update comments that reference isValidAttestationData](https://github.com/ChainSafe/lodestar/commit/820d58a364150e04e3778506ff2d5a02fbcc9143) - 2025-05-30
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
