@@ -30,6 +30,12 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Add new expense multisig](https://github.com/protocolguild/documentation/commit/47a8792cda1067de36e124c82f04fc8bfdb0c265) - 2025-04-28
 * [Commit] [Update reference to entity split recipient](https://github.com/protocolguild/documentation/commit/f4066a877aad86f16e8e43eee9fef8d1f3e5a7f9) - 2025-04-28
 * [Commit] [Update Peters github](https://github.com/protocolguild/documentation/commit/c6998d21285b6a88701c90e1b7dc3594f7b31cde) - 2025-04-28
+* [Commit] [Remove all contract/address information](https://github.com/protocolguild/documentation/commit/c3678f7209ef216f7d62b18462c1d9bb806b20c7) - 2025-05-31
+* [Commit] [Remove Nishant](https://github.com/protocolguild/documentation/commit/e14d5c865b8a0406ce3c332b8f06258beb68c570) - 2025-05-31
+* [Commit] [Fix multisigs](https://github.com/protocolguild/documentation/commit/174a5930b3413487db6e593e1ca50226e6787391) - 2025-05-31
+* [Commit] [Update donation addresses](https://github.com/protocolguild/documentation/commit/b8dd3dc395ab6f57496a18b2cf45d8ec108dd664) - 2025-05-31
+* [Commit] [Update donation addresses](https://github.com/protocolguild/documentation/commit/230b14f03b9abfacd6165ba2b3e4e579b4e3f938) - 2025-05-31
+* [Commit] [fixed dtheo's github link](https://github.com/protocolguild/documentation/commit/c445ab4c7068cdc929dc724344be23d3a106db16) - 2025-05-31
 ## Q1 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

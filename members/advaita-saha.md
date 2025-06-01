@@ -56,3 +56,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [increate EVM fork](https://github.com/status-im/nimbus-eth1/commit/3b24b0efb5c82f6a3125055ffa7ccce0ee616fad) - 2025-05-29
 * [Commit] [Portal client: Improve portal testnet script (#3348)](https://github.com/status-im/nimbus-eth1/commit/e9068f04fcbf049a75b539084cfa520575e0049a) - 2025-05-30
 * [Commit] [Move PooledTransaction from nim-eth to execution client (#3346)](https://github.com/status-im/nimbus-eth1/commit/ed78f6b3698ecfc3d4d332ba8ae5e56847399c39) - 2025-05-30
+* [Commit] [dynamic blob gas calculation (#3354)](https://github.com/status-im/nimbus-eth1/commit/d4442ed2f5ae2dd206929ccdaf82b95bea92837b) - 2025-05-31
+* [Commit] [remove constants](https://github.com/status-im/nimbus-eth1/commit/cbe4088bab33fab4412ab266a7f1f13924828460) - 2025-05-31
+* [Commit] [fix additional tests](https://github.com/status-im/nimbus-eth1/commit/38eb43d04e15fd18fe07390ac1ba232a3213ff6d) - 2025-05-31
+* [Commit] [fix tests](https://github.com/status-im/nimbus-eth1/commit/a9103082b1fdc73cbe3189ce4ab792b343ecb5c0) - 2025-05-31
+* [Pull Request] [dynamic blob gas calculation](https://github.com/status-im/nimbus-eth1/pull/3354) - 2025-05-31

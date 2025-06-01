@@ -87,6 +87,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [docs: add docstring about pruning methodology to seenBlockInputCache](https://github.com/ChainSafe/lodestar/commit/e8904a48d2ebb4060e1b0ebcc74ceade33e50cfb) - 2025-05-27
 * [Commit] [test: debug unit test for BlockInput blob timing](https://github.com/ChainSafe/lodestar/commit/a8319f45f110bd9a3dfb6a4f92937447a873214f) - 2025-05-27
 * [Pull Request] [fix: default to as-sha256 if no chip support for AVX](https://github.com/ChainSafe/lodestar/pull/7887) - 2025-05-28
+* [Pull Request] [fix: remove arm check](https://github.com/ChainSafe/lodestar/pull/7897) - 2025-05-31
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

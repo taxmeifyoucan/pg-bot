@@ -151,6 +151,11 @@ Team: Erigon
 * [Commit] [poset merge fixes](https://github.com/erigontech/erigon/commit/d53554241c9aa5ca5dedb8dd72f2e1465ed3cd42) - 2025-05-29
 * [Commit] [fix lint issues](https://github.com/erigontech/erigon/commit/f4f3cf848a895bfe3706a3956d6195b21e87b0a2) - 2025-05-30
 * [Pull Request] [Add error to GetHashFn & GetHeaderFn](https://github.com/erigontech/erigon/pull/15344) - 2025-05-30
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/492634db879ecf35177196b8fe5c82aa6b646dc6) - 2025-05-31
+* [Commit] [rpcdaemon: stack-based json stream (#14994)](https://github.com/erigontech/erigon/commit/3d9e86635bae4ed25edf69e528fc4e482786c0f3) - 2025-05-31
+* [Commit] [fix committed state](https://github.com/erigontech/erigon/commit/29c12433eb87bab6f283c6cdeb7437bdbc5408c5) - 2025-05-31
+* [Commit] [fix complie](https://github.com/erigontech/erigon/commit/35ea97415ebe198c05b92ff969113c977de59624) - 2025-05-31
+* [Commit] [Add mutex to gas pool (#15372)](https://github.com/erigontech/erigon/commit/eb1badb4f07401ab37e728406d648ab7d8385a72) - 2025-05-31
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

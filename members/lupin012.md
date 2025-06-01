@@ -26,3 +26,6 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [update rpc-test version](https://github.com/erigontech/erigon/commit/c947f80d145c7afc523e7fc6ff7e0343930dde8e) - 2025-05-27
 * [Pull Request] [rpcdaemon: erigon_getLatestLog(): Fix issue 12603](https://github.com/erigontech/erigon/pull/15284) - 2025-05-27
 * [Commit] [add capping of blockCount and logCount](https://github.com/erigontech/erigon/commit/d96def9bc6deffa554f1cc6ef43f72da4b28a102) - 2025-05-27
+* [Commit] [rename BaseFee in BaseFeePerGas](https://github.com/erigontech/erigon/commit/cc679501df7c745f94a33955a9661fd7ac2b48e9) - 2025-05-31
+* [Commit] [Recreate historic bor receipt on startup (#15324)](https://github.com/erigontech/erigon/commit/9939b88d6e4fb953fa16e93481c9cc5a33ef54b3) - 2025-05-31
+* [Pull Request] [rpcdaemon: add support BlockOverrides fot debug_traceCall() /(see issue 10434)](https://github.com/erigontech/erigon/pull/15379) - 2025-05-31

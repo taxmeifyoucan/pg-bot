@@ -56,6 +56,7 @@ Team: Portal Network (EF)
 * [Issue] [Add Metrics for when we offer a series of EphemeralHeadersByOffer](https://github.com/ethereum/trin/issues/1862) - 2025-05-27
 * [Issue] [Portal Bridge Add census record offer result for multiple items](https://github.com/ethereum/trin/issues/1861) - 2025-05-27
 * [Pull Request] [fix(trin-execution): regression | tx_env modify + no withdrawals + traces broken](https://github.com/ethereum/trin/pull/1864) - 2025-05-28
+* [Commit] [feat: implement ephemeral history bridge (#1852)](https://github.com/ethereum/trin/commit/8c40c4f99bffcaaf062b3826b905df505df93b2e) - 2025-05-31
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

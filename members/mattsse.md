@@ -366,6 +366,9 @@ Team: Reth
 * [Commit] [chore: include addr in error message (#16515)](https://github.com/paradigmxyz/reth/commit/f52b27fcad6d08b011109fa896216b3e03a22810) - 2025-05-28
 * [Commit] [chore: include addr in error message](https://github.com/paradigmxyz/reth/commit/3c25cb7cc45967104003873b37b557603c9f8cee) - 2025-05-28
 * [Pull Request] [chore: include addr in error message](https://github.com/paradigmxyz/reth/pull/16515) - 2025-05-28
+* [Commit] [chore: make clippy happy (#16581)](https://github.com/paradigmxyz/reth/commit/202ad6c004149fc64b51ed905ed9fc01dc8c35d8) - 2025-05-31
+* [Commit] [chore: Remove Withdrawals Provider (#16538)](https://github.com/paradigmxyz/reth/commit/95558cb4518619f377fa807d54284124be2fa939) - 2025-05-31
+* [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/16581) - 2025-05-31
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

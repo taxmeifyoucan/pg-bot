@@ -49,3 +49,6 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [ci: fix flakiness in TestBlockTracker](https://github.com/erigontech/erigon/pull/15227) - 2025-05-23
 * [Pull Request] [fix race in TestLogsFilter tests](https://github.com/erigontech/erigon/pull/15274) - 2025-05-26
 * [Issue] [Standard JSON-RPC errors](https://github.com/erigontech/erigon/issues/15273) - 2025-05-26
+* [Commit] [ci: re-enable failing tests after PR 12907 (#15380)](https://github.com/erigontech/erigon/commit/efcfd31bce59ea7a53f698693fdf359a9e06d598) - 2025-05-31
+* [Pull Request] [ci: re-enable failing tests after PR 12907](https://github.com/erigontech/erigon/pull/15380) - 2025-05-31
+* [Commit] [qa_tests: execute RPC tests in parallel (#15363)](https://github.com/erigontech/erigon/commit/40bf1ebe7e0c5916df15922fb98468aa181ceec0) - 2025-05-31

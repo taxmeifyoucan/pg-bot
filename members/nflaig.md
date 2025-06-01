@@ -181,6 +181,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: cache seen aggregated attestations by committee index (#7890)](https://github.com/ChainSafe/lodestar/commit/bde6131d6ad467d74f25a29533eaefc56e321044) - 2025-05-30
 * [Commit] [Update packages/beacon-node/src/chain/opPools/aggregatedAttestationPool.ts](https://github.com/ChainSafe/lodestar/commit/4a6315a308d5ffe5fadcc908393637ea427862a8) - 2025-05-30
 * [Commit] [Update comments that reference isValidAttestationData](https://github.com/ChainSafe/lodestar/commit/820d58a364150e04e3778506ff2d5a02fbcc9143) - 2025-05-30
+* [Commit] [feat: more metrics for SyncContributionAndProofPool (#7852)](https://github.com/ChainSafe/lodestar/commit/83525aeeac9a74f583bf085c2526a4085f747dbb) - 2025-05-31
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

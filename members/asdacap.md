@@ -192,6 +192,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/bfb9b9ad06e25bf8fa3348444389f03a0524cf5e) - 2025-05-30
 * [Pull Request] [Fix exception on exit for incomplete nethermind startup.](https://github.com/NethermindEth/nethermind/pull/8717) - 2025-05-30
 * [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/44e46c21f45091fc213ce904357bb1421a55a948) - 2025-05-30
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/2db2c2a04f101e28acd88176213983ec40d401ca) - 2025-05-31
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

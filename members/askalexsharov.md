@@ -2172,6 +2172,46 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a67777de3d52b73e1ea0528eae647e8a9587de6e) - 2025-05-30
 * [Commit] [exec: use `ibs.GetRawLogs` (#15314)](https://github.com/erigontech/erigon/commit/5848c7d6044b674c795c3489d0814f88a5ae99a8) - 2025-05-30
 * [Commit] [ibs: reset logs - don't loose logs array capacity (#15315)](https://github.com/erigontech/erigon/commit/aaaa7e11326d8a6c08ad7b7e71db05b2671c2030) - 2025-05-30
+* [Commit] [Make ReadAccountStorage return uint256 not []byte (#15371)](https://github.com/erigontech/erigon/commit/8e50e5792aef43d086897d2b2146b2e93b3e281d) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7deae93d8e7b2d15d7847b668e61eecc466c485c) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a9e790254596474f5d2b5fde0d8a70f10617549d) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/889d012ac8ce09823fcc34afcab37f72f9e662bb) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5aeb34861a955df9593c6d9317cdfbadc848343e) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/644a423a4feabd1b3c7ec30f3d6bfe3386b83f47) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f87bf8f462e3f9a6982d49413206ea467e332163) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/27a341e527ccea967e2bc68c96eaaac18c6b2a9b) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/00442c93f58e3e78ffd70479aa7674b5bca0c1b5) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f96acb0c3f42d946e6fb6cb332026e34226a48dc) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a466d7b3bf1c8ef36128631a024713d3486f57e9) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/09debf41fb15c0451e6355b9065aeef11d1aa065) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/876972c0367ab169858169ff7fd4b6e4a2b5dcbe) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d922810388ce25dcb2706a4d76213ca25ac9b1fc) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f0fb0d1d9fa65d4cc28d8e6dd6453071fab10a80) - 2025-05-31
+* [Issue] [re-visit use of CopyN in compression](https://github.com/erigontech/erigon/issues/15378) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/21ac0d543beb8e8b8589ea1892cb8e6bb89787a1) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7bf12d824c923343eaab2e840cb5cd8d11858542) - 2025-05-31
+* [Pull Request] [retire: more merge threads](https://github.com/erigontech/erigon/pull/15377) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4ec4eeb0de3becef0a36aaa690c20d8321e0cabe) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d08b1e6389ec3181833754b6fb1ff781e21ed2a1) - 2025-05-31
+* [Commit] [qa-tests: update rpc test bisection tool (#15320)](https://github.com/erigontech/erigon/commit/cf77e6cee42d1e00c29ac929dd7c0a0d308c3998) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/777f023bd09fc89fc9421b463d28d38fc41502df) - 2025-05-31
+* [Pull Request] [rpcd: pass global _txNumReader ](https://github.com/erigontech/erigon/pull/15376) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f2fbe005a119ecf9a94bee84e0a3cd8f94ceda6e) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2f167083b6f2fc2e7dfbf93c44e235650f6383a1) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6278623d4095d0b720572e2bad07eda1234ffc15) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/686ed6061d0b3fddfbcca0cc7325e9f4629d3278) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ebac38852fad8c97330249b925ddcf80f0b5fbc1) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bcb287791f7c75ea419884497b602649ac171f94) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7a183a5fc7506df548f6dca1fad94f8393ac0ae0) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8f23e8073aecac0d73de59eb0d8ff55fc73aabca) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7461ea3c2890b0d22d5524a135a926a842173ab1) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e5342bf240c227a0ccd07b5c32f2ca68ed047a3d) - 2025-05-31
+* [Issue] [downloader manifest-verify: to check `InfoHash`](https://github.com/erigontech/erigon/issues/15375) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/454da0782478082c61ef2832a03b8f7d9ce4ec3b) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c7df41f31d1312bc09988e24e3644cd69be879d7) - 2025-05-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ed79c44e76e8f57db5c2f9c0fa545964f0b732e4) - 2025-05-31
+* [Pull Request] [agg: reduce depth of `findMergeRange` loops](https://github.com/erigontech/erigon/pull/15374) - 2025-05-31
+* [Issue] [Just-In-Time-Compaction](https://github.com/erigontech/erigon/issues/15373) - 2025-05-31
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -118,6 +118,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Enable ERIGON_ASSERT: true in CI tests and on Syncing in CI](https://github.com/erigontech/erigon/pull/15271) - 2025-05-26
 * [Commit] [[r3.0] Enable ERIGON_ASSERT: true in CI tests and on Syncing in CI  (#15272)](https://github.com/erigontech/erigon/commit/b72a20e5e97964fee58e530587c762045c7d5545) - 2025-05-29
 * [Commit] [Enable ERIGON_ASSERT: true in CI tests and on Syncing in CI (#15271)](https://github.com/erigontech/erigon/commit/1f13807abeee9d65b7f0775a047d7ca50c401067) - 2025-05-29
+* [Pull Request] [fix for heimdall integrity](https://github.com/erigontech/erigon/pull/15381) - 2025-05-31
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/a42082f23451dbc4095710bd42559154c9678722) - 2025-05-31
+* [Commit] [polygon Bhilai: harden PIP-66 when header.Time < period (#15325)](https://github.com/erigontech/erigon/commit/bc4cb61a83c5aa3f11ff013481c7cb1ebdfc04dc) - 2025-05-31
+* [Commit] [split `SharedDomains` s2: concentrate commitment methods in sdctx (#15154)](https://github.com/erigontech/erigon/commit/4efab4e2925516311ffb79487e0adcb81a754f47) - 2025-05-31
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/24b2c650c76ea0a370a8d7fb4918fb8c7cec6ca0) - 2025-05-31
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

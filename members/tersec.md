@@ -163,6 +163,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Bump hoodi, chronicles, metrics, results (no functional changes) (#7201)](https://github.com/status-im/nimbus-eth2/commit/c61db830967170e3c7616c49b9c613589b96b951) - 2025-05-29
 * [Commit] [Bump nim-nat-traversal to 981821197e839dc0544fe49c58e0da3f8a6104bf (#7202)](https://github.com/status-im/nimbus-eth2/commit/d457f10c3e164c5195ef8f20622b6fbb6a071956) - 2025-05-29
 * [Commit] [Bump nim-sqlite3-abi to v3.49.2.0 (#7186)](https://github.com/status-im/nimbus-eth2/commit/cd49f51821383f72ad1d6725d3a620c5579de272) - 2025-05-30
+* [Commit] [Bump tornado from 6.4.2 to 6.5.1 in /ncli (#7192)](https://github.com/status-im/nimbus-eth2/commit/796afdde94e2efd9636845ab427189880d37d6af) - 2025-05-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

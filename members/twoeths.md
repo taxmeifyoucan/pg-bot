@@ -106,6 +106,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: address PR's comments](https://github.com/ChainSafe/lodestar/commit/495345e63a0525f804fded89ae925f016f06c464) - 2025-05-29
 * [Pull Request] [feat: track invalid attestation data reason when producing blocks](https://github.com/ChainSafe/lodestar/pull/7891) - 2025-05-30
 * [Commit] [feat: more metrics for SyncContributionAndProofPool (#7852)](https://github.com/ChainSafe/lodestar/commit/83525aeeac9a74f583bf085c2526a4085f747dbb) - 2025-05-30
+* [Pull Request] [fix: do not throw error for non-hashtree hashers](https://github.com/ChainSafe/lodestar/pull/7896) - 2025-05-31
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

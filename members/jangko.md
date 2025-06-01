@@ -68,3 +68,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Align PooledTransaction to the spec](https://github.com/status-im/nimbus-eth1/pull/3350) - 2025-05-30
 * [Pull Request] [Fix simulator](https://github.com/status-im/nimbus-eth1/pull/3349) - 2025-05-30
 * [Commit] [Fix pyspec](https://github.com/status-im/nimbus-eth1/commit/ac36f5add80814b2d562556fc6dc145685a23413) - 2025-05-30
+* [Commit] [More changes to txpool, beacon_engine, and engine_getPayloadV2/3/4](https://github.com/status-im/nimbus-eth1/commit/23b9ed488f5b18c40d3bdd83c1b75e03701988e2) - 2025-05-31

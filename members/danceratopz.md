@@ -269,6 +269,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(cli): use `rich.Console()` for contrast in command output](https://github.com/ethereum/execution-spec-tests/commit/185eb5872bafcda849f2f11f7cc5a1648ee1ad8e) - 2025-05-28
 * [Pull Request] [refactor(tests): remove `secret_key` from acl test transaction](https://github.com/ethereum/execution-spec-tests/pull/1674) - 2025-05-29
 * [Commit] [Deployed e5e3ebec57 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/134ef06107350310d47aea87ed1be5e116bc1685) - 2025-05-30
+* [Commit] [feat(fill): add a new pytest mark for custom prealloc group control](https://github.com/ethereum/execution-spec-tests/commit/e49960ebeef40b369d1223d7096e0cbb9cdc7a9b) - 2025-05-31
+* [Commit] [feat(tests/zkevm): memory opcodes (#1668)](https://github.com/ethereum/execution-spec-tests/commit/41a30cac5375211ef88c0a41d99212f4fc6aa718) - 2025-05-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20
