@@ -71,6 +71,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [fix(eth/69): validate block range message](https://github.com/hyperledger/besu/pull/8714) - 2025-05-29
 * [Commit] [Increase max number of blobs kept in the pool (#8722)](https://github.com/hyperledger/besu/commit/ed8ec22313c06d77253be5990f43696f81206c22) - 2025-05-30
 * [Pull Request] [[fusaka-devnet-0] increase max number of blobs kept in the pool](https://github.com/hyperledger/besu/pull/8722) - 2025-05-30
+* [Commit] [flaky test disable (#8727)](https://github.com/hyperledger/besu/commit/57bc001c6b39c421531c278ad07a4ac5d5f61b12) - 2025-06-02
+* [Pull Request] [feat: remove chain head check if peer supports eth/69](https://github.com/hyperledger/besu/pull/8725) - 2025-06-01
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

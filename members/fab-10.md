@@ -38,6 +38,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Gradle dependency resolution consistency (#8701)](https://github.com/hyperledger/besu/commit/b6a12388988855f9c2937f4ca4f8ae73ae2e5080) - 2025-05-27
 * [Pull Request] [Enable Gradle dependency resolution consistency](https://github.com/hyperledger/besu/pull/8701) - 2025-05-27
 * [Pull Request] [EIP-7825: Transaction gas limit cap](https://github.com/hyperledger/besu/pull/8700) - 2025-05-27
+* [Commit] [Add services subprojects to BOM (#8723)](https://github.com/hyperledger/besu/commit/7aea3f52133a338e3555e8b8ec3dd4b8b82a6718) - 2025-06-01
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

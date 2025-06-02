@@ -66,6 +66,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [refactor: move computeExcessBlobGas to gasLimitCalculator](https://github.com/hyperledger/besu/pull/8711) - 2025-05-28
 * [Pull Request] [extra benchmarks for modexp ](https://github.com/hyperledger/besu/pull/8706) - 2025-05-28
 * [Commit] [extra benchmarks for modexp  (#8706)](https://github.com/hyperledger/besu/commit/b34aaa25943fbc9a718f4fef8f7c8b406e5b56be) - 2025-05-29
+* [Pull Request] [flaky test disable](https://github.com/hyperledger/besu/pull/8727) - 2025-06-02
+* [Issue] [flaky test PermissioningPluginTest](https://github.com/hyperledger/besu/issues/8726) - 2025-06-01
+* [Pull Request] [EIP-7918 blob base fee bounded by execution cost](https://github.com/hyperledger/besu/pull/8724) - 2025-06-01
+* [Commit] [group items and some light editing (#8721)](https://github.com/hyperledger/besu/commit/b23f82109d384a23e6ed005386bab7d0d483a590) - 2025-06-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

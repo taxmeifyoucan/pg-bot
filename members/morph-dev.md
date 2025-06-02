@@ -39,6 +39,8 @@ Team: Portal Network (EF)
 * [Commit] [feat(portalnet): handle content that doesn't depend on distance to content (#1859)](https://github.com/ethereum/trin/commit/cc9c5f5eb081c261a3417b1f5edadd6a12588939) - 2025-05-28
 * [Commit] [feat: add chain head metrics (#1863)](https://github.com/ethereum/trin/commit/c1d549223baf44798184565ff9209b216c2bb734) - 2025-05-28
 * [Pull Request] [feat: add support for validating multiple content items](https://github.com/ethereum/trin/pull/1868) - 2025-05-30
+* [Commit] [chore: update trusted block root to 0x4ffc29ffdf9979f6c81111c8b3a4a1a0535d623536ff47fdf5fa3bd15e5f4437 (#1871)](https://github.com/ethereum/trin/commit/ebc206702592f08d8174af9ea5d2f12bb6e1ae0c) - 2025-06-01
+* [Commit] [chore(deps): weekly `cargo update` (#1872)](https://github.com/ethereum/trin/commit/3002a02180b8a07491dfb48ac0f6d219de4ab52b) - 2025-06-01
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

@@ -69,3 +69,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Fix simulator](https://github.com/status-im/nimbus-eth1/pull/3349) - 2025-05-30
 * [Commit] [Fix pyspec](https://github.com/status-im/nimbus-eth1/commit/ac36f5add80814b2d562556fc6dc145685a23413) - 2025-05-30
 * [Commit] [More changes to txpool, beacon_engine, and engine_getPayloadV2/3/4](https://github.com/status-im/nimbus-eth1/commit/23b9ed488f5b18c40d3bdd83c1b75e03701988e2) - 2025-05-31
+* [Commit] [xyz](https://github.com/status-im/nimbus-eth1/commit/e87db2a1545cc63f4bd03ca576776c78d1c41fe1) - 2025-06-01
+* [Commit] [abc](https://github.com/status-im/nimbus-eth1/commit/fb2b7e6b4a342dd6254fe0d1e48bb5b351ee5109) - 2025-06-01
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/c108c9a5ac69bf73023b7714d045d6c499d7ebe6) - 2025-06-01
+* [Commit] [fix](https://github.com/status-im/nimbus-eth1/commit/7e388ccde4c464808d0b413c738fcca7494adf04) - 2025-06-01
+* [Commit] [Attempt to fix test](https://github.com/status-im/nimbus-eth1/commit/26f9e7e56faf76e83b5efd5ddebc77588e3d87a6) - 2025-06-01
+* [Commit] [Add test cases](https://github.com/status-im/nimbus-eth1/commit/73256a102337560d1d2bfe80b67ba6b719d9af47) - 2025-06-01

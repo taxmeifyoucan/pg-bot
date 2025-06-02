@@ -16,3 +16,4 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [EIP-7886: improve rational section](https://github.com/ethereum/EIPs/pull/9757) - 2025-05-10
 * [Pull Request] [EIP-7886: Move from "coinbase fronting" to "payload reversion" mechanism](https://github.com/ethereum/EIPs/pull/9756) - 2025-05-10
 * [Pull Request] [Update EIP-7778: Overhaul](https://github.com/ethereum/EIPs/pull/9802) - 2025-05-21
+* [Pull Request] [Update EIP-7863 and EIP-7928 with small changes](https://github.com/ethereum/EIPs/pull/9846) - 2025-06-01

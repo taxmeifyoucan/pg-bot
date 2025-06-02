@@ -123,6 +123,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [polygon Bhilai: harden PIP-66 when header.Time < period (#15325)](https://github.com/erigontech/erigon/commit/bc4cb61a83c5aa3f11ff013481c7cb1ebdfc04dc) - 2025-05-31
 * [Commit] [split `SharedDomains` s2: concentrate commitment methods in sdctx (#15154)](https://github.com/erigontech/erigon/commit/4efab4e2925516311ffb79487e0adcb81a754f47) - 2025-05-31
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/24b2c650c76ea0a370a8d7fb4918fb8c7cec6ca0) - 2025-05-31
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/c196a0ad8d21f2cbc5ee2612aa9af4ebc9f40587) - 2025-06-01
+* [Commit] [Commitment: rehash code only with asserts (#14536)](https://github.com/erigontech/erigon/commit/94dd521eb41d9b2fdcc6951245a5157daa7ffe5e) - 2025-06-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

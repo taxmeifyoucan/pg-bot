@@ -369,6 +369,10 @@ Team: Reth
 * [Commit] [chore: make clippy happy (#16581)](https://github.com/paradigmxyz/reth/commit/202ad6c004149fc64b51ed905ed9fc01dc8c35d8) - 2025-05-31
 * [Commit] [chore: Remove Withdrawals Provider (#16538)](https://github.com/paradigmxyz/reth/commit/95558cb4518619f377fa807d54284124be2fa939) - 2025-05-31
 * [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/16581) - 2025-05-31
+* [Issue] [Fix missing blocktimestamp in logs subscription](https://github.com/paradigmxyz/reth/issues/16592) - 2025-06-01
+* [Issue] [Unify pending_block functions](https://github.com/paradigmxyz/reth/issues/16591) - 2025-06-01
+* [Issue] [use Opstorage impl for optimism](https://github.com/paradigmxyz/reth/issues/16590) - 2025-06-01
+* [Pull Request] [chore: rm some clones](https://github.com/paradigmxyz/reth/pull/16588) - 2025-06-01
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

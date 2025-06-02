@@ -58,6 +58,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix infinite loop in tx pool (#8632)](https://github.com/NethermindEth/nethermind/commit/7c9f010d470a74921846cb43ffa040c65496249d) - 2025-05-26
 * [Commit] [Rename tests on the fly](https://github.com/NethermindEth/nethermind/commit/f5da2aa7f7caba02de7e0fdcdc67635e46ec0093) - 2025-05-27
 * [Commit] [Optimize debugging container (#8710)](https://github.com/NethermindEth/nethermind/commit/a653eaf58e5370e7086d45c5772c9aa00eb109d7) - 2025-05-29
+* [Commit] [Remove obsolete scripts (#8721)](https://github.com/NethermindEth/nethermind/commit/f4e0795bda9ee50290f3ed0d0a0cb014925e3de5) - 2025-06-01
+* [Commit] [Make scripts executable](https://github.com/NethermindEth/nethermind/commit/cf3e8c17fb3cccf6628b3c65a0137433c64f7387) - 2025-06-01
+* [Commit] [Reorg scripts](https://github.com/NethermindEth/nethermind/commit/8cdd99c87ba31bc4a38749e7a0a52f89f5b18a3e) - 2025-06-01
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

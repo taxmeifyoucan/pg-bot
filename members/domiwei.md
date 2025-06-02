@@ -99,6 +99,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/b1dddfadee37b140579e15319aee915de5a7ab10) - 2025-05-27
 * [Commit] [remove duplicate code](https://github.com/erigontech/erigon/commit/8a2ff3e2b00079c4f08d02175dcc6e2152e26cd9) - 2025-05-27
 * [Commit] [more verbose CI (#15253)](https://github.com/erigontech/erigon/commit/385e8430d141b8d228bafaf0d7fa74b055345011) - 2025-05-27
+* [Commit] [Remove polygon sync stage (#15276)](https://github.com/erigontech/erigon/commit/3a88ef9a3ce5b01dd77104a44d3a718c04503e58) - 2025-06-01
+* [Commit] [upgrade fulu](https://github.com/erigontech/erigon/commit/735520cf8c8d9e9920b48f578389a45e7112a45f) - 2025-06-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

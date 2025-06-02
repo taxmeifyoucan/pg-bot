@@ -107,6 +107,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: track invalid attestation data reason when producing blocks](https://github.com/ChainSafe/lodestar/pull/7891) - 2025-05-30
 * [Commit] [feat: more metrics for SyncContributionAndProofPool (#7852)](https://github.com/ChainSafe/lodestar/commit/83525aeeac9a74f583bf085c2526a4085f747dbb) - 2025-05-30
 * [Pull Request] [fix: do not throw error for non-hashtree hashers](https://github.com/ChainSafe/lodestar/pull/7896) - 2025-05-31
+* [Commit] [fix: merge issue, use correct @libp2p/prometheus-metrics version](https://github.com/ChainSafe/lodestar/commit/bf2d641083e25fe418e0ae03c27832115cd19d9d) - 2025-06-01
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

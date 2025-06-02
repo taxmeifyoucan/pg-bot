@@ -156,6 +156,7 @@ Team: Erigon
 * [Commit] [fix committed state](https://github.com/erigontech/erigon/commit/29c12433eb87bab6f283c6cdeb7437bdbc5408c5) - 2025-05-31
 * [Commit] [fix complie](https://github.com/erigontech/erigon/commit/35ea97415ebe198c05b92ff969113c977de59624) - 2025-05-31
 * [Commit] [Add mutex to gas pool (#15372)](https://github.com/erigontech/erigon/commit/eb1badb4f07401ab37e728406d648ab7d8385a72) - 2025-05-31
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/e0f844fe6b2d9488a251c5106efee06099f72f8f) - 2025-06-01
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
