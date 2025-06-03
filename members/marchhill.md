@@ -91,6 +91,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [use ulong, fix underflow](https://github.com/NethermindEth/nethermind/commit/61b4c3251c91bcc089f95d135e8ebf275ed1bc74) - 2025-05-28
 * [Commit] [Kute: order by filename (#8657)](https://github.com/NethermindEth/nethermind/commit/17609d607fc29499b95a59f748f3a8f0ee224cf5) - 2025-05-29
 * [Commit] [comment tests](https://github.com/NethermindEth/nethermind/commit/723d33a2e12bad37802b13a7a1eb2e8cb08457d4) - 2025-05-30
+* [Commit] [optimise sender recovery](https://github.com/NethermindEth/nethermind/commit/e4c63779f7d8cae5e7ff5132518dab74ec4f92a2) - 2025-06-02
+* [Commit] [formatting](https://github.com/NethermindEth/nethermind/commit/6f54a3c0bb849a812386a2bd9273cc697a1bd252) - 2025-06-02
+* [Commit] [fix test](https://github.com/NethermindEth/nethermind/commit/782eccc289674db19fcf7459f51cd6de6ec9a021) - 2025-06-02
+* [Commit] [todo IL building](https://github.com/NethermindEth/nethermind/commit/f3ead602b1095ef76dd714edcaa03baee40ec5c0) - 2025-06-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12
@@ -100,6 +104,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-7793: Conditional Transactions](https://github.com/ethereum/EIPs/pull/9831) - 2025-05-27
 * [Pull Request] [Update EIP-7788: Move to withdrawn](https://github.com/ethereum/EIPs/pull/9837) - 2025-05-28
 * [Pull Request] [Update EIP-7943: Move to review](https://github.com/ethereum/EIPs/pull/9836) - 2025-05-28
+* [Pull Request] [Update EIP-7805: Link Execution API specs](https://github.com/ethereum/EIPs/pull/9851) - 2025-06-02
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

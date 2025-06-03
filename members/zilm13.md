@@ -23,6 +23,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Add logging on DataColumnSidecars recovery failure](https://github.com/Consensys/teku/pull/9486) - 2025-05-24
 * [Commit] [Add logging on DataColumnSidecars recovery failure (#9486)](https://github.com/Consensys/teku/commit/c32dc4df3914bcd17c88ac3ab8c2830ee5bf639f) - 2025-05-27
 * [Issue] [Use byRange RPC requests in syncing in PeerDAS](https://github.com/Consensys/teku/issues/9490) - 2025-05-28
+* [Pull Request] [Throttle muxer exceptions](https://github.com/Consensys/teku/pull/9507) - 2025-06-02
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

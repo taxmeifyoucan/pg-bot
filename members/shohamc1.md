@@ -123,6 +123,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix tests](https://github.com/erigontech/erigon/commit/7a8e948267d2414dd330d74782b15452b962e1c9) - 2025-05-27
 * [Commit] [update receipts RLP](https://github.com/erigontech/erigon/commit/ffe50151f398f2ef9db3cf2dce74f9c6ce56c257) - 2025-05-27
 * [Commit] [Announce BlockRangeUpdate](https://github.com/erigontech/erigon/commit/fbb09637307c817f73b3415fe1e7d92de9111300) - 2025-05-28
+* [Commit] [Remove Bor Heimdall stage (#15280)](https://github.com/erigontech/erigon/commit/7aaadf248c2acf6a7ce19bef202567b37e871fa2) - 2025-06-02
+* [Commit] [AnnounceBlockRangeLoop test](https://github.com/erigontech/erigon/commit/9bcf830f6dea0e621bc83a5b2f04891490239c85) - 2025-06-02
+* [Commit] [Add test](https://github.com/erigontech/erigon/commit/d255f1c9c8acc8e5bce4d3c2942826bce5b72019) - 2025-06-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

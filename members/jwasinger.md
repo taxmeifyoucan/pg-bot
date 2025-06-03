@@ -32,6 +32,10 @@ Team: Geth
 * [Commit] [internal/reexec: fix broken link to Docker/Moby in comment (#31859)](https://github.com/ethereum/go-ethereum/commit/a67ea0c57dd7b387fc49138f4bdc1590c91e5a51) - 2025-05-20
 * [Issue] [Investigate context-logging](https://github.com/ethereum/go-ethereum/issues/31888) - 2025-05-23
 * [Commit] [cmd/geth, cmd/utils: log prefunded account/key in ephemeral development mode (#31898)](https://github.com/ethereum/go-ethereum/commit/d821f7f297259b2ed5ab0d3c99c0e4aca9663ac8) - 2025-05-29
+
+* [Pull Request] [core/types:  add SSZ codec for BAL types from EIP 7928](https://github.com/ethereum/go-ethereum/pull/31948) - 2025-06-02
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [eip-7892: convert contract code field from union type to list of bytes](https://github.com/ethereum/EIPs/pull/9848) - 2025-06-02
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

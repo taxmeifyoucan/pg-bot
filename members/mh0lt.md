@@ -157,6 +157,22 @@ Team: Erigon
 * [Commit] [fix complie](https://github.com/erigontech/erigon/commit/35ea97415ebe198c05b92ff969113c977de59624) - 2025-05-31
 * [Commit] [Add mutex to gas pool (#15372)](https://github.com/erigontech/erigon/commit/eb1badb4f07401ab37e728406d648ab7d8385a72) - 2025-05-31
 * [Commit] [fix lint](https://github.com/erigontech/erigon/commit/e0f844fe6b2d9488a251c5106efee06099f72f8f) - 2025-06-01
+* [Commit] [add needed](https://github.com/erigontech/erigon/commit/dc1414b1d03e66d11bfbc9236993c0b48326aa6f) - 2025-06-02
+* [Commit] [move conflicted lines](https://github.com/erigontech/erigon/commit/dbcee709b267422728ff6fceeedafa4a7a1309e7) - 2025-06-02
+* [Commit] [remove unneeded](https://github.com/erigontech/erigon/commit/07b304feea1a827037c4baa8f257f30c21af00a6) - 2025-06-02
+* [Commit] [remove unneeded](https://github.com/erigontech/erigon/commit/ec24472a0f07fda30c86f370da4e6fcf7eee2e38) - 2025-06-02
+* [Commit] [remove unneeded](https://github.com/erigontech/erigon/commit/95c2479acaa12d93a28b553051f0d556da056314) - 2025-06-02
+* [Commit] [prints performance](https://github.com/erigontech/erigon/commit/084cdb9faf9f8cffdeebc80f484de863e757b1ef) - 2025-06-02
+* [Pull Request] [Use temporal dv + views rather than cast tx](https://github.com/erigontech/erigon/pull/15411) - 2025-06-02
+* [Commit] [remove unneeded domains](https://github.com/erigontech/erigon/commit/a16e8e7993d7ed622ab846ec62916bc73481a3b4) - 2025-06-02
+* [Commit] [remove unneeded](https://github.com/erigontech/erigon/commit/9aceda8d5ada59ab5b592618bac1bbbd142dfd94) - 2025-06-02
+* [Commit] [remove unwanted](https://github.com/erigontech/erigon/commit/2a2e9a660d7318c658135a95a37f1e87a132b276) - 2025-06-02
+* [Commit] [remove unneeded domains](https://github.com/erigontech/erigon/commit/e248f039c8da50fb487d7d0952dc10481324fd44) - 2025-06-02
+* [Commit] [change var](https://github.com/erigontech/erigon/commit/528b0e3baa08f8297aa090b5e2d9e41fe9e2ca81) - 2025-06-02
+* [Commit] [remove unwanted](https://github.com/erigontech/erigon/commit/49706d481e69d506e573dac4fd81d35e490fc38d) - 2025-06-02
+* [Commit] [rpcdaemon: stack-based json stream (#14994)](https://github.com/erigontech/erigon/commit/3d9e86635bae4ed25edf69e528fc4e482786c0f3) - 2025-06-02
+* [Commit] [Versioned IBS Implementation (#15387)](https://github.com/erigontech/erigon/commit/7c81a1d411b4a802ea5887c810590b9ea97bfa27) - 2025-06-02
+* [Commit] [make trace static](https://github.com/erigontech/erigon/commit/bf293c19948ead1dd7b05370d71b74ce7764fdd4) - 2025-06-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -108,6 +108,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: more metrics for SyncContributionAndProofPool (#7852)](https://github.com/ChainSafe/lodestar/commit/83525aeeac9a74f583bf085c2526a4085f747dbb) - 2025-05-30
 * [Pull Request] [fix: do not throw error for non-hashtree hashers](https://github.com/ChainSafe/lodestar/pull/7896) - 2025-05-31
 * [Commit] [fix: merge issue, use correct @libp2p/prometheus-metrics version](https://github.com/ChainSafe/lodestar/commit/bf2d641083e25fe418e0ae03c27832115cd19d9d) - 2025-06-01
+* [Commit] [chore: track AggregatedAttestationPool metrics on Grafana (#7900)](https://github.com/ChainSafe/lodestar/commit/bd459cac9d7474b12218f4010d3d7e1f276da8dc) - 2025-06-02
+* [Commit] [chore: track gossip AggregateAndProof error on Grafana (#7899)](https://github.com/ChainSafe/lodestar/commit/e8f6f5b52ff760f383e4b8a8027fc92b07966b95) - 2025-06-02
+* [Pull Request] [chore: track AggregatedAttestationPool metrics on Grafana](https://github.com/ChainSafe/lodestar/pull/7900) - 2025-06-02
+* [Pull Request] [chore: track gossip AggregateAndProof error on Grafana](https://github.com/ChainSafe/lodestar/pull/7899) - 2025-06-02
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -197,6 +197,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cosmetics](https://github.com/erigontech/erigon/commit/7fc59bfc9830f2e5e182d2fdaa62b182168e3715) - 2025-05-29
 * [Commit] [agg: data-dependency concept (#15264)](https://github.com/erigontech/erigon/commit/ad96222bd813949d434c4e44f4af0116301c58f1) - 2025-05-29
 * [Commit] [Polygon Bhilai Fork Updates (#15261)](https://github.com/erigontech/erigon/commit/589d81f691ec3771e2dd6c8365b5422a1f430655) - 2025-05-29
+* [Commit] [Revert "Less verbose go tests (ci too crowded) (#15238)" (#15400)](https://github.com/erigontech/erigon/commit/60aff5f92727c57fc0da818c87338243bb4e1068) - 2025-06-02
+* [Commit] [improve comment](https://github.com/erigontech/erigon/commit/54a9919741620beda0ae1ea8aa5e15603b07bc2b) - 2025-06-02
+* [Commit] [complete renaming](https://github.com/erigontech/erigon/commit/9b3791caa4350efdc9ef1b9a64fa3035e733b327) - 2025-06-02
+* [Pull Request] [execution: EIP-4844: Shard Blob Transactions](https://github.com/erigontech/erigon/pull/15399) - 2025-06-02
+* [Commit] [BlobGasPerBlob -> GasPerBlob](https://github.com/erigontech/erigon/commit/84eeecd67fbe72717d1f9bf5824d6cc4f7172d58) - 2025-06-02
+* [Commit] [implement EIP-7918: Blob base fee bounded by execution cos](https://github.com/erigontech/erigon/commit/2ccaa2988ddef2917225dca896df8adb23077c7b) - 2025-06-02
+* [Commit] [Introduce GetTargetBlobsPerBlock](https://github.com/erigontech/erigon/commit/74f9cc7de46a45c5e83cd2d701ac29b0c816c23d) - 2025-06-02
+* [Commit] [qa-tests: update rpc test bisection tool (#15320)](https://github.com/erigontech/erigon/commit/cf77e6cee42d1e00c29ac929dd7c0a0d308c3998) - 2025-06-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

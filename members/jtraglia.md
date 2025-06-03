@@ -94,8 +94,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Set blob schedule to an empty list](https://github.com/ethereum/consensus-specs/pull/4342) - 2025-05-28
 * [Commit] [Remove deneb/electra from blob schedule and default to electra limit (#4341)](https://github.com/ethereum/consensus-specs/commit/c9269eb0177f4f831f9f49759c23c68c0288fd31) - 2025-05-28
 * [Commit] [Markdown to SpecObject refactoring (#4330)](https://github.com/ethereum/consensus-specs/commit/868d9fb5a0398943c03725247c99fda58e8a8fba) - 2025-05-28
+* [Pull Request] [Move blob schedule / get_max_blobs_per_block() to beacon-chain.md](https://github.com/ethereum/consensus-specs/pull/4353) - 2025-06-02
+* [Pull Request] [Change SHOULD NOT to MAY for custody backfill](https://github.com/ethereum/consensus-specs/pull/4352) - 2025-06-02
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] [Rename BlobSchedule to BlobScheduleEntry](https://github.com/Consensys/teku/pull/9509) - 2025-06-02
+* [Pull Request] [Fix nits in fulu code](https://github.com/Consensys/teku/pull/9508) - 2025-06-02
+* [Pull Request] [Fix block contents kzg proofs max length for fulu](https://github.com/Consensys/teku/pull/9506) - 2025-06-02
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

@@ -193,6 +193,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix exception on exit for incomplete nethermind startup.](https://github.com/NethermindEth/nethermind/pull/8717) - 2025-05-30
 * [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/44e46c21f45091fc213ce904357bb1421a55a948) - 2025-05-30
 * [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/2db2c2a04f101e28acd88176213983ec40d401ca) - 2025-05-31
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/73e61eea57ad611c1b965eac033c8486780f45e3) - 2025-06-02
+* [Commit] [Reduce unnecessary change](https://github.com/NethermindEth/nethermind/commit/900ebd5fbe74e97fe8d4966972306222a114efe6) - 2025-06-02
+* [Pull Request] [Moved unit tests to use IWorldState instead of ITrieStore](https://github.com/NethermindEth/nethermind/pull/8724) - 2025-06-02
+* [Commit] [Fix full pruning](https://github.com/NethermindEth/nethermind/commit/682c199838d0f7e8e120d2ce0c8e17720d986eb4) - 2025-06-02
+* [Commit] [Feature/snapsync storage log (#8675)](https://github.com/NethermindEth/nethermind/commit/1a88db2987e372d7b6b67f6c3600a3dc8d183a52) - 2025-06-02
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

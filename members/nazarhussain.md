@@ -114,6 +114,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add differential layers support (#7874)](https://github.com/ChainSafe/lodestar/commit/06053e0ba6c2d51b9aa8bb3fbfdf2924a966a1ea) - 2025-05-26
 * [Pull Request] [feat: add differential layers support](https://github.com/ChainSafe/lodestar/pull/7874) - 2025-05-26
 * [Commit] [chore: correct labels of gossipsub_iwant_promise_delivery_seconds metrics (#7878)](https://github.com/ChainSafe/lodestar/commit/af282209374621bd7d28159ae0e45802a4a38814) - 2025-05-28
+* [Commit] [Fine tune few cases](https://github.com/ChainSafe/lodestar/commit/e881dde5ff2105238a6cd2f17d9cd7c488a26470) - 2025-06-02
+* [Pull Request] [Nh/db repositories](https://github.com/ChainSafe/lodestar/pull/7901) - 2025-06-02
+* [Commit] [chore: correct labels of gossipsub_iwant_promise_delivery_seconds metrics (#7878)](https://github.com/ChainSafe/lodestar/commit/af282209374621bd7d28159ae0e45802a4a38814) - 2025-06-02
+* [Commit] [refactor: move historical state metrics to separate module (#7876)](https://github.com/ChainSafe/lodestar/commit/5423314dffc08fdbb23d2588d8aea0a950411e8e) - 2025-06-02
+* [Commit] [Add base slot to differential](https://github.com/ChainSafe/lodestar/commit/9a6195963907cd2ebd56c6302fd86da5c2f3a278) - 2025-06-02
+* [Commit] [Update mock db](https://github.com/ChainSafe/lodestar/commit/eccf47f618e2d5a720b976d1bf7754bc6d50500c) - 2025-06-02
+* [Commit] [Update db repository names](https://github.com/ChainSafe/lodestar/commit/05a7b9796ac36448d16702fd5981a5679baffdc1) - 2025-06-02
+* [Commit] [Update metric file name](https://github.com/ChainSafe/lodestar/commit/46cdd177f6d770b991ebbdfdde21afb2f3817ceb) - 2025-06-02
+* [Commit] [Update the metrics to use historical state transition metrics](https://github.com/ChainSafe/lodestar/commit/7ee4f920909fe92453848ec18c7ccd39b69daa0f) - 2025-06-02
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

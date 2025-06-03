@@ -46,6 +46,7 @@ Team: Grandine
 * [Commit] [Add `POST /eth/v1/beacon/states/{state_id}/validator_balances` (#213)](https://github.com/grandinetech/grandine/commit/74ebe9f9afa6e43b9e7fce7856045abda9cf69f6) - 2025-05-28
 * [Commit] [Print validator sync_commitee and attestation performance on each epoch](https://github.com/grandinetech/grandine/commit/6725ecc940f1e0f0faa3ba94f1450e1c2c5b1dde) - 2025-05-28
 * [Pull Request] [Add `POST /eth/v1/beacon/states/{state_id}/validator_balances` (213)](https://github.com/grandinetech/grandine/pull/214) - 2025-05-28
+* [Commit] [Add SSZ support to attestation apis](https://github.com/grandinetech/grandine/commit/01691d190934b7df3a60d7ed58ef222316c996da) - 2025-06-02
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

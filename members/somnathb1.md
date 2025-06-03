@@ -154,6 +154,22 @@ Team: Erigon
 * [Commit] [Fix getBlobsV2 and add tests](https://github.com/erigontech/erigon/commit/a613947b38b793bc0ed34325de56f3aa10f5663f) - 2025-05-27
 * [Commit] [Add fusaka kurtosis](https://github.com/erigontech/erigon/commit/f4750a2ca9c93490abba02993339a64a788ffd41) - 2025-05-27
 * [Commit] [Revert "agg: foreign key concept (data-dependency)" (#15262)](https://github.com/erigontech/erigon/commit/2840f41c4d4c51ec42567238cd5bd483ac705326) - 2025-05-28
+* [Commit] [Fix getBlobsV2 test](https://github.com/erigontech/erigon/commit/9f3b621b7360ac5b8dfc6bf9b270896f48cc2f66) - 2025-06-02
+* [Commit] [Add fusaka maker](https://github.com/erigontech/erigon/commit/d4df9e6b37c75e992c824d2b66afb8ae877f816e) - 2025-06-02
+* [Commit] [Fix lint](https://github.com/erigontech/erigon/commit/d8365797d61d7c2e003b786eaa0555811f9b8e91) - 2025-06-02
+* [Commit] [Cleanup](https://github.com/erigontech/erigon/commit/d0daad80402ff4f2212bcdad75d62fe04da3c72d) - 2025-06-02
+* [Commit] [Clean up](https://github.com/erigontech/erigon/commit/2307ad6b92f35c562f08c22837d9f9109a871040) - 2025-06-02
+* [Commit] [Return nil getblobs when any one blob is nil](https://github.com/erigontech/erigon/commit/9307733027516ce346b32f4a5a418a5c3b260790) - 2025-06-02
+* [Pull Request] [[pick] jsonrpc: Add `acc.IsEmptyCodeHash` check in GetCode (#15360)](https://github.com/erigontech/erigon/pull/15409) - 2025-06-02
+* [Commit] [jsonrpc: Add `acc.IsEmptyCodeHash` check in GetCode (#15360)](https://github.com/erigontech/erigon/commit/fee0153ffd672d904a523cdfbc477ef04291dc96) - 2025-06-02
+* [Commit] [lint](https://github.com/erigontech/erigon/commit/d2f80bfb2c3a96759e008bbf21c791cfd7b57ba3) - 2025-06-02
+* [Commit] [workflows: Fix 7702 assertoor test (#15078)](https://github.com/erigontech/erigon/commit/536894da9f46b8b1ccf51fd3c831dae1c5ab885f) - 2025-06-02
+* [Pull Request] [[pick] txpool: allow higher nonce in pool with existing SetcodeTxn (#14968)](https://github.com/erigontech/erigon/pull/15407) - 2025-06-02
+* [Commit] [go mod fix p2p](https://github.com/erigontech/erigon/commit/0c1a04e722be38e4ace6ddeb3015df1f27d3def3) - 2025-06-02
+* [Commit] [ Add Engine API methods and basic validation  (#15221)](https://github.com/erigontech/erigon/commit/32aa8efc35b95a3588eba027732544173b649f2a) - 2025-06-02
+* [Pull Request] [Makefile: make sed work with mac and linux](https://github.com/erigontech/erigon/pull/15403) - 2025-06-02
+* [Commit] [purify_domain to use agg and build indexes after done (#15298)](https://github.com/erigontech/erigon/commit/4000e12717d863531dbed4ae05b31c238a6976cc) - 2025-06-02
+* [Commit] [Fix Comment relevance](https://github.com/erigontech/erigon/commit/5f107d7834fcfa03090c18e560f26c84ea0175c4) - 2025-06-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

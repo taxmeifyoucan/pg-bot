@@ -98,6 +98,16 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [Jsign zkvm pim](https://github.com/ethereum/execution-spec-tests/pull/1656) - 2025-05-26
 * [Commit] [generalize calldata argument](https://github.com/ethereum/execution-spec-tests/commit/3f93e19683f10e35393153973b1a7c7356b82d6c) - 2025-05-27
 * [Commit] [refactor and improvements](https://github.com/ethereum/execution-spec-tests/commit/299ffae5a7afd76517e5be39eed4d6c72aac78fc) - 2025-05-29
+* [Commit] [Update tests/zkevm/test_worst_compute.py](https://github.com/ethereum/execution-spec-tests/commit/7381efbcfa14c3388182fc127714f9628adbbc36) - 2025-06-02
+* [Commit] [fix](https://github.com/ethereum/execution-spec-tests/commit/e449eff408258ba7407fce7719d610e953265b8d) - 2025-06-02
+* [Commit] [fix](https://github.com/ethereum/execution-spec-tests/commit/1d0afcbb49ccc38dd105c8f2cf9717435171e336) - 2025-06-02
+* [Commit] [generalize returndata test](https://github.com/ethereum/execution-spec-tests/commit/4a80ba6ce0ff75e7bf05436bc67f598d28c6786d) - 2025-06-02
+* [Commit] [add comment](https://github.com/ethereum/execution-spec-tests/commit/7120b220ea9815d49671cbcdba40a2647cf90a9f) - 2025-06-02
+* [Commit] [feedback](https://github.com/ethereum/execution-spec-tests/commit/220ebb18ada373c65f01f9f7fafac641eb9c71cc) - 2025-06-02
+* [Commit] [Update tests/zkevm/test_worst_compute.py](https://github.com/ethereum/execution-spec-tests/commit/340ef39f2fbd63639dd619bed5374f2ed4d26c7f) - 2025-06-02
+* [Commit] [change params](https://github.com/ethereum/execution-spec-tests/commit/618d733e582e0e74ae57e5e75b65966517862489) - 2025-06-02
+* [Commit] [fixes](https://github.com/ethereum/execution-spec-tests/commit/1b842cabc8eb1b6d6ecb71404f06f791f6548d58) - 2025-06-02
+* [Pull Request] [zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698) - 2025-06-02
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

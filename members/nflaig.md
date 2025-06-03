@@ -182,6 +182,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update packages/beacon-node/src/chain/opPools/aggregatedAttestationPool.ts](https://github.com/ChainSafe/lodestar/commit/4a6315a308d5ffe5fadcc908393637ea427862a8) - 2025-05-30
 * [Commit] [Update comments that reference isValidAttestationData](https://github.com/ChainSafe/lodestar/commit/820d58a364150e04e3778506ff2d5a02fbcc9143) - 2025-05-30
 * [Commit] [feat: more metrics for SyncContributionAndProofPool (#7852)](https://github.com/ChainSafe/lodestar/commit/83525aeeac9a74f583bf085c2526a4085f747dbb) - 2025-05-31
+* [Commit] [fix: update Beacon api impl to enforce unique array (#7875)](https://github.com/ChainSafe/lodestar/commit/d68d5933b87ef26f0779dda63169950c63a5eb9b) - 2025-06-02
+* [Commit] [Revert "Make commonBlockBodyPromise required" (to reduce diff)](https://github.com/ChainSafe/lodestar/commit/d8c4da72308a39a9b7ebab0c9f6b7ca3983bd0a0) - 2025-06-02
+* [Commit] [Consistent naming](https://github.com/ChainSafe/lodestar/commit/14181004efc7865707df998db640f2e419e5a95d) - 2025-06-02
+* [Commit] [Make commonBlockBodyPromise required](https://github.com/ChainSafe/lodestar/commit/f5a7d56aaeeaf42f7954009e9f82ea1825f37fa3) - 2025-06-02
+* [Commit] [fix: remove arm check (#7897)](https://github.com/ChainSafe/lodestar/commit/9f5ab00bab35c8d84ece5b184485aa13f81fab7c) - 2025-06-02
+* [Commit] [Deduplicate "hasher" in warning message](https://github.com/ChainSafe/lodestar/commit/048c4d0517292a982ccd958ad3db85800082f020) - 2025-06-02
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

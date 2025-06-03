@@ -75,3 +75,5 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [fix](https://github.com/status-im/nimbus-eth1/commit/7e388ccde4c464808d0b413c738fcca7494adf04) - 2025-06-01
 * [Commit] [Attempt to fix test](https://github.com/status-im/nimbus-eth1/commit/26f9e7e56faf76e83b5efd5ddebc77588e3d87a6) - 2025-06-01
 * [Commit] [Add test cases](https://github.com/status-im/nimbus-eth1/commit/73256a102337560d1d2bfe80b67ba6b719d9af47) - 2025-06-01
+* [Commit] [Raise ulimit to 2048Kb](https://github.com/status-im/nimbus-eth1/commit/d28851d7dc83bbb49c45c761b2f42e2d338fd487) - 2025-06-02
+* [Pull Request] [Remove not used EVMC flags from execution_client CI](https://github.com/status-im/nimbus-eth1/pull/3355) - 2025-06-02

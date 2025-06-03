@@ -22,6 +22,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [Beacon API not populating p2p_addresses with correct IP address](https://github.com/ChainSafe/lodestar/issues/7798) - 2025-05-05
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update: EIP-7607: add deterministic proposer lookahead to scheduled](https://github.com/ethereum/EIPs/pull/9847) - 2025-06-02
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

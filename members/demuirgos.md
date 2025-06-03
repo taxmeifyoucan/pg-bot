@@ -36,6 +36,9 @@ Team: Nethermind
 * [Commit] [fix EXTCODECOPY/EXTCODESIZE delegation issue](https://github.com/NethermindEth/nethermind/commit/1f6a571233241467d9b1f43e3ed1e30c471589b5) - 2025-05-23
 * [Commit] [Add timeout to node filter (#8483)](https://github.com/NethermindEth/nethermind/commit/fd56a42081b606931d70297b843f4194b2049348) - 2025-05-27
 * [Commit] [add size limits in ILEVM config](https://github.com/NethermindEth/nethermind/commit/09dda748e7756f843f215a8225b34d27def4e600) - 2025-05-27
+* [Commit] [use stats results](https://github.com/NethermindEth/nethermind/commit/2db022f2c5ce13515d442655deb38314b95536f9) - 2025-06-02
+* [Commit] [remove testing artifacts](https://github.com/NethermindEth/nethermind/commit/e184b80c1f8b161564c5749442d2433c2d414561) - 2025-06-02
+* [Commit] [Add simple way to fetch analyse and compile Contracts on deman in Tests](https://github.com/NethermindEth/nethermind/commit/ed7d0ff93534caf8e7dceb0b7cf22389e4fc5dca) - 2025-06-02
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

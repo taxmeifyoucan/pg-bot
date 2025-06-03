@@ -157,6 +157,15 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Issue] [Allow to run e2e tests with state root fallback](https://github.com/paradigmxyz/reth/issues/16545) - 2025-05-29
 * [Pull Request] [chore: configure apt retries and timeouts to handle network issues during Cross build](https://github.com/paradigmxyz/reth/pull/16543) - 2025-05-29
 * [Commit] [fix(db): correct ClientVersion serialization size tracking (#16427)](https://github.com/paradigmxyz/reth/commit/0c7bd1e5dd59852e119b0ec6033d9f44888ae1c3) - 2025-05-29
+* [Commit] [pool maintenance fns made private](https://github.com/paradigmxyz/reth/commit/ef1c51e9385c4eaf132bc5cad360236b9c8ce2d7) - 2025-06-02
+* [Commit] [extract pool maintenance functions from TxPoolBuilder methods](https://github.com/paradigmxyz/reth/commit/8e5560298b665c9e2cf6ce14fd6dfb812a4e8893) - 2025-06-02
+* [Commit] [PoolSetupHelper -> TxPoolBuilder](https://github.com/paradigmxyz/reth/commit/087cacfdf192d5d50f1828f13b576aadbf01007c) - 2025-06-02
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/9c4a5c289db482101524ebdb94850ef4cbf475fd) - 2025-06-02
+* [Pull Request] [refactor(e2e): split actions.rs into submodule](https://github.com/paradigmxyz/reth/pull/16609) - 2025-06-02
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/71ebbd0ee3476e4dc519542dce55a603bcdd2705) - 2025-06-02
+* [Commit] [Update crates/optimism/node/src/node.rs](https://github.com/paradigmxyz/reth/commit/78f97e4754abfaf298d477f502163da61908fd80) - 2025-06-02
+* [Pull Request] [refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607) - 2025-06-02
+* [Commit] [refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/commit/e743cded35fa21b4dcf4e2ed50ebac370fa0ea56) - 2025-06-02
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

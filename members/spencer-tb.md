@@ -90,6 +90,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): add remaining 7883 test vectors.](https://github.com/ethereum/execution-spec-tests/commit/ab5a86148fd7d3f3dfaf6b9b6378e404bfa67994) - 2025-05-27
 * [Commit] [chore(fill): Silence tarfile DeprecationWarning in fixture download (#1663)](https://github.com/ethereum/execution-spec-tests/commit/4db2552cc27ec4a8a669e85bf8f0fddae66a0ba0) - 2025-05-27
 * [Issue] [feat(execute): improve execute hive mode markers and session scope](https://github.com/ethereum/execution-spec-tests/issues/1664) - 2025-05-27
+* [Commit] [chore(tests): fix docs complaints.](https://github.com/ethereum/execution-spec-tests/commit/2102cc92ed84d61cc30da15025613cf7ece93745) - 2025-06-02
+* [Commit] [chore(forks|tests): fixes following review.](https://github.com/ethereum/execution-spec-tests/commit/bc66247e9f6116e8d77adbf0d2f595d8c72d684d) - 2025-06-02
+* [Commit] [chore(forks|tests): address review comments.](https://github.com/ethereum/execution-spec-tests/commit/0e9e13f2129d69c776f352f86f4b1af75743bdcb) - 2025-06-02
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

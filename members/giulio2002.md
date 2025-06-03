@@ -226,6 +226,11 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9041221301ee71df3a17b1c29e63741aff1f887f) - 2025-06-01
 * [Pull Request] [EngineAPI: try to fix context cancelled](https://github.com/erigontech/erigon/pull/15388) - 2025-06-01
 * [Commit] [Revert "Engine-API: Fixed `context canceled` (#15277)" (#15370)](https://github.com/erigontech/erigon/commit/79454280bd90e9aa6f9e8130340dccd7ac1c9c9b) - 2025-06-01
+* [Pull Request] [: Fix receipts dangling from reorged blocks (#15401)](https://github.com/erigontech/erigon/pull/15404) - 2025-06-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/41fe370bff8555bf007bbdf017c951dd3413fcec) - 2025-06-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/72ef4a3497fefc1192a2c8386c3825923d3de839) - 2025-06-02
+* [Pull Request] [E3: Fix receipts dangling from reorged blocks](https://github.com/erigontech/erigon/pull/15401) - 2025-06-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/884885a42ebf9ad7c298c02df6076dc6d901d5b9) - 2025-06-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

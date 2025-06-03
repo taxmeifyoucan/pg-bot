@@ -204,6 +204,26 @@ Team: Reth
 * [Commit] [perf(engine): accept `&SealedHeader` in `is_fork` fn](https://github.com/paradigmxyz/reth/commit/d8bb2bc5fc08ac9aeddeca9f8a7218b6f9b41084) - 2025-05-28
 * [Commit] [ExecutedTrieUpdates struct](https://github.com/paradigmxyz/reth/commit/5b0914c0fdc08e87522ec10e7341d2d612be38bb) - 2025-05-28
 * [Commit] [fixes after review](https://github.com/paradigmxyz/reth/commit/4c39080000e940ad4dca4c8c52590c4f0210dd4e) - 2025-05-28
+* [Commit] [two separate jobs](https://github.com/paradigmxyz/reth/commit/46033a128672eccf20512b5107d98fe0a8e5c9d8) - 2025-06-02
+* [Commit] [add variable to non op reth runs](https://github.com/paradigmxyz/reth/commit/2b625a60da493c83b982b2e7a956ef9ba89bc503) - 2025-06-02
+* [Commit] [match by inner field](https://github.com/paradigmxyz/reth/commit/78c5c115a08592c6e1b8028cebfcb063fced2f1d) - 2025-06-02
+* [Commit] [match by inner field](https://github.com/paradigmxyz/reth/commit/eab0d2d7ec5e4e18b6fc6b5c7a1c0a85ee689f95) - 2025-06-02
+* [Commit] [filter matrix](https://github.com/paradigmxyz/reth/commit/088163605a63c130ae888e96e8816b527014cabf) - 2025-06-02
+* [Commit] [filter matrix](https://github.com/paradigmxyz/reth/commit/bb3f1484bc6badd9627ca0e4bc68df0f62300ed7) - 2025-06-02
+* [Commit] [filter matrix](https://github.com/paradigmxyz/reth/commit/2fd52915a58167bde0a40e4128235c65f1a131be) - 2025-06-02
+* [Commit] [Revert "run builds in parallel"](https://github.com/paradigmxyz/reth/commit/056bf6a083993eb6ca374dd406342847f676d2d9) - 2025-06-02
+* [Commit] [run builds in parallel](https://github.com/paradigmxyz/reth/commit/eefdfd483b6eae6785f01ebbba9749ebfde69b63) - 2025-06-02
+* [Commit] [Update .github/workflows/release.yml](https://github.com/paradigmxyz/reth/commit/c8a56fe0627d75c15ea90ea3a3c208ec1d0c1030) - 2025-06-02
+* [Pull Request] [ci: special treatment for release candidate tags](https://github.com/paradigmxyz/reth/pull/16603) - 2025-06-02
+* [Commit] [ci: special treatment for release candidate tags](https://github.com/paradigmxyz/reth/commit/a31f62251905abb2a185234b29acee820640c402) - 2025-06-02
+* [Commit] [ci: special treatment for release candidate tags](https://github.com/paradigmxyz/reth/commit/25d19b4c75a05a5f34515142e3d1d0eb5115fc8a) - 2025-06-02
+* [Commit] [ci: special treatment for release candidate tags](https://github.com/paradigmxyz/reth/commit/32ca4e2dbaa3e2284796d9a9ea8c8d05255e070c) - 2025-06-02
+* [Commit] [ci: special treatment for release candidate tags](https://github.com/paradigmxyz/reth/commit/ad312c57d188677ea2f68fca7928ee36dbffc731) - 2025-06-02
+* [Commit] [ci: special treatment for release candidate tags](https://github.com/paradigmxyz/reth/commit/ae7a415f98e9e909b14ba51f0dc58f5b25e3c14e) - 2025-06-02
+* [Commit] [ci: special treatment for release candidate tags](https://github.com/paradigmxyz/reth/commit/da12346e275c7b5a47cdca175d07b692c6d8a51f) - 2025-06-02
+* [Pull Request] [ci: deduplicate Docker CI matrix members](https://github.com/paradigmxyz/reth/pull/16602) - 2025-06-02
+* [Commit] [ci: deduplicate Docker CI matrix members](https://github.com/paradigmxyz/reth/commit/5e9f784a3de535aec4bc39a1d97626be2336593b) - 2025-06-02
+* [Commit] [ci: deduplicate Docker CI matrix members](https://github.com/paradigmxyz/reth/commit/ea1b34f12b54fc610d9b9c09b7fd83fb8b638fa8) - 2025-06-02
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

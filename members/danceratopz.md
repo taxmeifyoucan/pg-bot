@@ -271,6 +271,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed e5e3ebec57 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/134ef06107350310d47aea87ed1be5e116bc1685) - 2025-05-30
 * [Commit] [feat(fill): add a new pytest mark for custom prealloc group control](https://github.com/ethereum/execution-spec-tests/commit/e49960ebeef40b369d1223d7096e0cbb9cdc7a9b) - 2025-05-31
 * [Commit] [feat(tests/zkevm): memory opcodes (#1668)](https://github.com/ethereum/execution-spec-tests/commit/41a30cac5375211ef88c0a41d99212f4fc6aa718) - 2025-05-31
+* [Commit] [WIP](https://github.com/ethereum/execution-spec-tests/commit/551e7072b580c9b846e1e90d0c32d26b754d4864) - 2025-06-02
+* [Commit] [feat(fill): enable interface for two-phase shared alloc filling](https://github.com/ethereum/execution-spec-tests/commit/519f2e2f2f4b89a2e1cccf33bb189f4a023de2de) - 2025-06-02
+* [Commit] [chore(tests): apply `prealloc_group` to system contract & requests tests](https://github.com/ethereum/execution-spec-tests/commit/31bdae95d48ac47c6240a201cc425cd19a9c926c) - 2025-06-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

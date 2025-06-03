@@ -53,6 +53,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [modify state on apply diff](https://github.com/OffchainLabs/prysm/commit/a6d838c991a647b592a06ac76167fc9377fe909a) - 2025-05-14
 * [Commit] [fix pending attestation deserialization](https://github.com/OffchainLabs/prysm/commit/d169864159ce8562d86e074568d50a18830b1fd1) - 2025-05-23
 * [Commit] [fix phase0 diffToState](https://github.com/OffchainLabs/prysm/commit/7e76be4472791dc8f20ee1fdb706a93d6c11cd0b) - 2025-05-23
+* [Commit] [EIP 7917 initial commit](https://github.com/OffchainLabs/prysm/commit/5f7a26394749f213c930e4bc758f975e0d237216) - 2025-06-02
+* [Commit] [Add the fields as shared](https://github.com/OffchainLabs/prysm/commit/d518a9fe89b529a69097c736ea1910df1e055807) - 2025-06-02
+* [Commit] [Fix ToProto() and ToProtoUnsafe()](https://github.com/OffchainLabs/prysm/commit/e8cf6ce0515c3fef29c5e67280b39e026b6acaa5) - 2025-06-02
+* [Commit] [fix the hasher for the fulu state](https://github.com/OffchainLabs/prysm/commit/681b6e5fd4d23f6465af224a492468adebf9ab08) - 2025-06-02
+* [Commit] [EIP 7917 initial commit](https://github.com/OffchainLabs/prysm/commit/c346ccae7720ed7f1f6b29282a4fc3614a4607a8) - 2025-06-02
+* [Commit] [EIP 7917 initial commit](https://github.com/OffchainLabs/prysm/commit/e54808de9153886c3c1b1409981c927fbb29df0e) - 2025-06-02
+* [Commit] [migrates some helper functions from beacon API to apiutil (#15125)](https://github.com/OffchainLabs/prysm/commit/4a1c627f6fc92e9b0df7eb4c956240b16aa455b8) - 2025-06-02
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

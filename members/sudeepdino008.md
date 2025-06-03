@@ -203,6 +203,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [`purify_domains` cmd renames](https://github.com/erigontech/erigon/issues/15339) - 2025-05-30
 * [Issue] [BUG: read-ahead negative counters](https://github.com/erigontech/erigon/issues/15338) - 2025-05-30
 * [Issue] [generalize prior execution of dependent entities](https://github.com/erigontech/erigon/issues/15337) - 2025-05-30
+* [Pull Request] [optimise FindBlockNum](https://github.com/erigontech/erigon/pull/15398) - 2025-06-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dde293a346fc44a4dc73b2d94f32a7f68abbfd6b) - 2025-06-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4bd60a8c612e0af533ab0b917ca15f4069f89004) - 2025-06-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5acc98188367380445ab5edda58ba94b6e880cbc) - 2025-06-02
+* [Commit] [Add error to GetHashFn & GetHeaderFn (#15344)](https://github.com/erigontech/erigon/commit/dd361b9973b9c63d07d088cd379036ebe19a6761) - 2025-06-02
+* [Issue] [snap_repo files management update](https://github.com/erigontech/erigon/issues/15393) - 2025-06-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

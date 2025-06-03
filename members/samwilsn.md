@@ -28,6 +28,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [add vulture to static analysis suite](https://github.com/ethereum/execution-specs/commit/95a2013f8e673e2142bbee5939ee0901f13b57cc) - 2025-05-21
 * [Commit] [Upgrade to python 3.11 / pypy 7.3.19](https://github.com/ethereum/execution-specs/commit/69b1c586f74f76c14d0de77de499a9606d3e30e9) - 2025-05-23
 * [Commit] [Switch to devops' runners](https://github.com/ethereum/execution-specs/commit/4ad1182d88692ea261bb28cb5407951f654d61c6) - 2025-05-28
+* [Pull Request] [Update to latest EIP-7918](https://github.com/ethereum/execution-specs/pull/1260) - 2025-06-02
+* [Commit] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/commit/17e03d62d1ee4ec91b410a6291b8e06299e51343) - 2025-06-02
+* [Issue] [Parent block header blob values not accessed correctly](https://github.com/ethereum/execution-specs/issues/1259) - 2025-06-02
+* [Commit] [improve MessageCallGas doc and naming](https://github.com/ethereum/execution-specs/commit/d8a436073f8667bf4d3513260315dcc090bddd05) - 2025-06-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 

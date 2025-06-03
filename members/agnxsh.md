@@ -103,6 +103,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stop rejecting blocks with blobs more than electra](https://github.com/status-im/nimbus-eth2/commit/99289567ea838b9b05cdb3d3626f0a2dd37f9da6) - 2025-05-27
 * [Commit] [drop put calls to quarantine as we get everything from EL, whenever we get](https://github.com/status-im/nimbus-eth2/commit/4e82f8c96da35d06bd5bb4cf225618d3d88a725f) - 2025-05-28
 * [Commit] [bump down parallel requests for data column receiving](https://github.com/status-im/nimbus-eth2/commit/f13e07a29447cc359f7e3675489a3d8ccf44037c) - 2025-05-28
+* [Commit] [add `getBlobsV2` and `payloadV5` (#7123)](https://github.com/status-im/nimbus-eth2/commit/7497790cd3e848c7e2582616ed95b3824a848bcd) - 2025-06-02
+* [Commit] [use newSeqOfCap](https://github.com/status-im/nimbus-eth2/commit/7f14ffcc3221e2da600d9006a0456963bc2ef4d3) - 2025-06-02
+* [Commit] [add: bpo parsing (#7195)](https://github.com/status-im/nimbus-eth2/commit/f3cf70c1b59e30f137aa59de96f96bce35a2ee2e) - 2025-06-02
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

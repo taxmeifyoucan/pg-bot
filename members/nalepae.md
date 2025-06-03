@@ -126,6 +126,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/4d6b6471ff37598a50e90619a20654feb18ae4fc) - 2025-05-28
 * [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/955017887d5572bfa4d3d91719d6875556e6e559) - 2025-05-28
 * [Commit] [Fix Terence's comment.](https://github.com/OffchainLabs/prysm/commit/229a2a0a0138b1385408ec21790bf8a48ee8759a) - 2025-05-28
+* [Pull Request] [PeerDAS: Implement DAS](https://github.com/OffchainLabs/prysm/pull/15367) - 2025-06-02
+* [Commit] [Spectests: Use a flat structure for faster test ingestion (#15313)](https://github.com/OffchainLabs/prysm/commit/9b626864f00f0f473859251213ea146d49c3cecd) - 2025-06-02
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/06eaaed0518f43a93b77e225f61328ece0d714bf) - 2025-06-02
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/0f2b6679c121ee199229d0206b40c71a7b21a890) - 2025-06-02
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/8bcf899603c737e8eb4b8bbf35ca6597c0709094) - 2025-06-02
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/c909a3d5d87e5868f7e9c5ffc45c9957c630b239) - 2025-06-02
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/4bad0d864d4bc6473661cb3c8657901305dac320) - 2025-06-02
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/2e01412760ce6249808593f98a2015db2b350aaf) - 2025-06-02
+* [Commit] [Update beacon-chain/blockchain/error.go](https://github.com/OffchainLabs/prysm/commit/217f3fd38a2cce21d967d87749ff9bbff84011a8) - 2025-06-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 ## Q1 2025

@@ -103,6 +103,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Changelog v6.0.2 (#15270)](https://github.com/OffchainLabs/prysm/commit/74aca49741ac9d43c8323d944ebfb23dc38fc479) - 2025-05-27
 * [Commit] [merge builder and structs payload types (#15283)](https://github.com/OffchainLabs/prysm/commit/0d5a52d20d4209ba08fcef2cedacf25a090061d4) - 2025-05-28
 * [Pull Request] [fixing links](https://github.com/OffchainLabs/prysm/pull/15354) - 2025-05-28
+* [Commit] [adding attribute for pubkeys to span](https://github.com/OffchainLabs/prysm/commit/2e038ce9e687f667b42bd14bc7ae33eb13f0f8ad) - 2025-06-02
+* [Commit] [Fix `getEpochCommittees` when slot not in given epoch (#15356)](https://github.com/OffchainLabs/prysm/commit/472c5da49e2162b6dcf91aff601a884cd23a3882) - 2025-06-02
+* [Commit] [adding some more unit tests](https://github.com/OffchainLabs/prysm/commit/8480b874b0a4951b0c67573589a4faa969242ac7) - 2025-06-02
+* [Commit] [PeerDAS: Implement blockchain. (#15350)](https://github.com/OffchainLabs/prysm/commit/a0060fa79480e9f72c571ff5c82a83e99243b579) - 2025-06-02
+* [Commit] [moving event channel and removing close channel there to prevent potential panic (#15359)](https://github.com/OffchainLabs/prysm/commit/711984d9428b3c721b90ff90a7106d78c36c66fe) - 2025-06-02
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

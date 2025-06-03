@@ -155,6 +155,11 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/5b8879d01c9ca26c0c455334ea7a5fe1a79e9172) - 2025-05-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/42ab1893a1869ff04a8097a994f77aab826ad493) - 2025-05-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/08b2b227dd72572d0dba2312d2b8850f39fa5d45) - 2025-05-26
+* [Commit] [fix incorrect cached attestation data (#15168)](https://github.com/erigontech/erigon/commit/a1ae2408fe382bbbeaa3db39e546803a1de13e72) - 2025-06-02
+* [Commit] [fix zombie address protection marking (#15410)](https://github.com/erigontech/erigon/commit/8a59e7ddde0a3ddc90933fef839c7748340ea904) - 2025-06-02
+* [Pull Request] [fix zombie address protection marking](https://github.com/erigontech/erigon/pull/15410) - 2025-06-02
+* [Pull Request] [Revert "sd: try remove Commitment calc from Flush (#15318)"](https://github.com/erigontech/erigon/pull/15408) - 2025-06-02
+* [Pull Request] [Revert "Less verbose go tests (ci too crowded) (#15238)"](https://github.com/erigontech/erigon/pull/15400) - 2025-06-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

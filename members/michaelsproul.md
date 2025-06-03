@@ -93,6 +93,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Remove some stale FIXMEs/typos](https://github.com/sigp/lighthouse/commit/80a53533ff593bfe59524b3a0d6191196eb89c55) - 2025-05-29
 * [Commit] [Typo fix](https://github.com/sigp/lighthouse/commit/06c2632a43b6d5e7c05eb56662cb5734979cf06b) - 2025-05-29
 * [Commit] [Skip migrating pre-split states in downgrade](https://github.com/sigp/lighthouse/commit/03fece6badbf018e1d923e4b2dce73b7031666ac) - 2025-05-29
+* [Commit] [Mitigate flakiness in test_delayed_rpc_response (#7522)](https://github.com/sigp/lighthouse/commit/5cda6a6f9e4b57005f57e08e7bb3362a50988d36) - 2025-06-02
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

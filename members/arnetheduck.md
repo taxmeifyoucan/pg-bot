@@ -31,5 +31,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Track missing vertex lookups in metrics (#3277)](https://github.com/status-im/nimbus-eth1/commit/152f3cdd05c228f7875fdd538ca923f3527b62db) - 2025-05-15
 * [Issue] [Spam during import on invalid era file](https://github.com/status-im/nimbus-eth1/issues/3302) - 2025-05-19
 * [Commit] [Revert "rocksdb: use slightly lower compression and add dictionary"](https://github.com/status-im/nimbus-eth1/commit/307884cde15c1933d1baf1d258282a01c6428b2e) - 2025-05-21
+* [Commit] [Remove not used EVMC flags from execution_client CI (#3355)](https://github.com/status-im/nimbus-eth1/commit/020475bfc886370bcaabe0a1e1c96cd5400af319) - 2025-06-02
+* [Commit] [Support multiple wire protocol version and implement eth/68 + eth/69 (#3283)](https://github.com/status-im/nimbus-eth1/commit/443da8e7cb0f8c96fb0ac6468aa0f35c0755daf6) - 2025-06-02
+* [Pull Request] [ariso: assorted cleanups](https://github.com/status-im/nimbus-eth1/pull/3360) - 2025-06-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Old head sent in LC sync mode](https://github.com/status-im/nimbus-eth2/issues/7119) - 2025-05-04

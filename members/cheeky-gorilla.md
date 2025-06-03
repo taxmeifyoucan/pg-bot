@@ -36,6 +36,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Update donation addresses](https://github.com/protocolguild/documentation/commit/b8dd3dc395ab6f57496a18b2cf45d8ec108dd664) - 2025-05-31
 * [Commit] [Update donation addresses](https://github.com/protocolguild/documentation/commit/230b14f03b9abfacd6165ba2b3e4e579b4e3f938) - 2025-05-31
 * [Commit] [fixed dtheo's github link](https://github.com/protocolguild/documentation/commit/c445ab4c7068cdc929dc724344be23d3a106db16) - 2025-05-31
+* [Commit] [Clarify ETH + ERC20](https://github.com/protocolguild/documentation/commit/80a3e1b7b0e9e54ecc2e5e7e9d61c0b1336e126f) - 2025-06-02
+* [Commit] [Update text for L2s for clarity](https://github.com/protocolguild/documentation/commit/5e5a1f6af00026fc6c02657499441e814cb66038) - 2025-06-02
+* [Commit] [Update mainnet claim multisig](https://github.com/protocolguild/documentation/commit/774d79e13280327bf7c9efbb61fbfa2a9a38b2bd) - 2025-06-02
 ## Q1 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

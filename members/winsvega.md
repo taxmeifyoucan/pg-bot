@@ -63,3 +63,4 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [address comments](https://github.com/ethereum/execution-spec-tests/commit/2ee1cde3f5830903dfa4a97e7a80f42dc2ace760) - 2025-05-23
 * [Commit] [feat(coverage): coverage script parsing files from ported_from markers (#1634)](https://github.com/ethereum/execution-spec-tests/commit/78fa83a0844fd38c7ed4ac1cf33017056914285e) - 2025-05-26
 * [Pull Request] [coverage fix](https://github.com/ethereum/execution-spec-tests/pull/1662) - 2025-05-27
+* [Issue] [AI test: convert CreateOOGafterMaxCodesizeFiller](https://github.com/ethereum/execution-spec-tests/issues/1695) - 2025-06-02

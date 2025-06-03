@@ -43,6 +43,8 @@ Team: Grandine
 * [Commit] [Disable link time optimizations since they are causing issues with `rayon`](https://github.com/grandinetech/grandine/commit/ab9fb5b27dfff22d065924f6ec88373eef72eba8) - 2025-05-27
 * [Pull Request] [Disable link time optimizations since they are causing issues with `rayon`](https://github.com/grandinetech/grandine/pull/212) - 2025-05-27
 * [Commit] [Update consensus spec tests to v1.5.0](https://github.com/grandinetech/grandine/commit/558422abfb682b4663f94ad57f106f48916e53c6) - 2025-05-28
+* [Commit] [Skip participating in aggregation duty if chain head is not fully verified by execution engine](https://github.com/grandinetech/grandine/commit/38c4787ca401b5f70110f97db774acfabad36f88) - 2025-06-02
+* [Pull Request] [Skip participating in aggregation duty if chain head is not fully verified by execution engine](https://github.com/grandinetech/grandine/pull/218) - 2025-06-02
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

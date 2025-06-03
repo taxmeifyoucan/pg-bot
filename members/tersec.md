@@ -191,6 +191,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [add arm64 platform detection](https://github.com/status-im/nimbus-eth1/commit/5d8ad6ac36c4e0b6dc9dea82e784ba468038e01c) - 2025-05-25
 * [Pull Request] [rm useless windeps.dll downloading; make syncer batch size --debug](https://github.com/status-im/nimbus-eth1/pull/3328) - 2025-05-25
 * [Commit] [Fix outdated metric visualisation section of README.md (#3341)](https://github.com/status-im/nimbus-eth1/commit/77609948bfc77c4ea009f9f5bc52a6fcae9f3bf6) - 2025-05-29
+* [Commit] [ariso: assorted cleanups (#3360)](https://github.com/status-im/nimbus-eth1/commit/f5db4e4b5ed34ba6a5ed37da848caf422735cad4) - 2025-06-02
+* [Commit] [hive: remove ubuntu 20.04 mention (#3344)](https://github.com/status-im/nimbus-eth1/commit/541377731e676a41055f3891bb47adf53098d706) - 2025-06-02
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

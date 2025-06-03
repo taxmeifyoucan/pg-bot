@@ -70,6 +70,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [flaky test PermissioningPluginTest](https://github.com/hyperledger/besu/issues/8726) - 2025-06-01
 * [Pull Request] [EIP-7918 blob base fee bounded by execution cost](https://github.com/hyperledger/besu/pull/8724) - 2025-06-01
 * [Commit] [group items and some light editing (#8721)](https://github.com/hyperledger/besu/commit/b23f82109d384a23e6ed005386bab7d0d483a590) - 2025-06-01
+* [Pull Request] [EngineNewPayload - respond with error if params invalid](https://github.com/hyperledger/besu/pull/8729) - 2025-06-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

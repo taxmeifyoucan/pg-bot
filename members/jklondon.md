@@ -125,6 +125,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/24b2c650c76ea0a370a8d7fb4918fb8c7cec6ca0) - 2025-05-31
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/c196a0ad8d21f2cbc5ee2612aa9af4ebc9f40587) - 2025-06-01
 * [Commit] [Commitment: rehash code only with asserts (#14536)](https://github.com/erigontech/erigon/commit/94dd521eb41d9b2fdcc6951245a5157daa7ffe5e) - 2025-06-01
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/b1b6a268d2bb859e3d47c9cd322a09d56c3f086a) - 2025-06-02
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/c24d3bc587893303341b828cda0650f17798b10a) - 2025-06-02
+* [Pull Request] [Added HistoryStartFrom to pb](https://github.com/erigontech/erigon/pull/15396) - 2025-06-02
+* [Pull Request] [more dirtyFilesLocks to add](https://github.com/erigontech/erigon/pull/15395) - 2025-06-02
+* [Commit] [fix for heimdall integrity (#15381)](https://github.com/erigontech/erigon/commit/3c7d55c77516f538105dec391b1e1fe87ea43767) - 2025-06-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

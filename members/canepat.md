@@ -52,3 +52,4 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [ci: re-enable failing tests after PR 12907 (#15380)](https://github.com/erigontech/erigon/commit/efcfd31bce59ea7a53f698693fdf359a9e06d598) - 2025-05-31
 * [Pull Request] [ci: re-enable failing tests after PR 12907](https://github.com/erigontech/erigon/pull/15380) - 2025-05-31
 * [Commit] [qa_tests: execute RPC tests in parallel (#15363)](https://github.com/erigontech/erigon/commit/40bf1ebe7e0c5916df15922fb98468aa181ceec0) - 2025-05-31
+* [Commit] [rpcdaemon: add support BlockOverrides for debug_traceCall() (#15379)](https://github.com/erigontech/erigon/commit/5d4ebb149a86736abb3ba3a0a1eb4af3a941a0a6) - 2025-06-02

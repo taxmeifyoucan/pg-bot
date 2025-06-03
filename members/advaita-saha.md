@@ -61,3 +61,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix additional tests](https://github.com/status-im/nimbus-eth1/commit/38eb43d04e15fd18fe07390ac1ba232a3213ff6d) - 2025-05-31
 * [Commit] [fix tests](https://github.com/status-im/nimbus-eth1/commit/a9103082b1fdc73cbe3189ce4ab792b343ecb5c0) - 2025-05-31
 * [Pull Request] [dynamic blob gas calculation](https://github.com/status-im/nimbus-eth1/pull/3354) - 2025-05-31
+* [Commit] [Portal bridge: Use startEra and endEra parameters in history bridge backfill audit (#3351)](https://github.com/status-im/nimbus-eth1/commit/164405ce84a590576dea4b4feff75431ddc4de51) - 2025-06-02
+* [Commit] [Beacon sync reorg headers download processing (#3359)](https://github.com/status-im/nimbus-eth1/commit/af07a5366d059f6a4da063c41ad8defd283f760d) - 2025-06-02
+* [Commit] [shift to validateTxBasic](https://github.com/status-im/nimbus-eth1/commit/d2e09b35220ab4c209dfb2960740ad76b2ee0737) - 2025-06-02
+* [Pull Request] [EIP-7825 : Transaction Gas Limit Cap](https://github.com/status-im/nimbus-eth1/pull/3358) - 2025-06-02
+* [Issue] [Fusaka devent issue tracker](https://github.com/status-im/nimbus-eth1/issues/3357) - 2025-06-02
+* [Pull Request] [EIP-7918 : Blob base fee bounded by execution cost](https://github.com/status-im/nimbus-eth1/pull/3356) - 2025-06-02

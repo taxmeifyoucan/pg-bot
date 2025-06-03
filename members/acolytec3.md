@@ -41,6 +41,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [common: add 5 bpo hardforks for blobSchedule specification (#4085)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/86d7b9b2500fbbf2f1a118af63d61812510309f3) - 2025-05-26
 * [Commit] [tx: add eip-7594 peerdas blob transactions in osaka (#3976)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/ad2fd6d3d06f04b607ae5d98097fbe13aba618ff) - 2025-05-29
 * [Commit] [Client RPC maxPriorityFeePerGas Fixes (#4094)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/358a097ad048a37f07484973e0f8ea1255ecbfaa) - 2025-05-30
+* [Commit] [common: improve ugly method (#4080)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/539aaed2bdf0148ef488d6642cdefbd386802c88) - 2025-06-02
+* [Commit] [log messages via postMessage instead of console in thread](https://github.com/ethereumjs/ethereumjs-monorepo/commit/fe85d216651f56cac2fc58127340b52284394dc0) - 2025-06-02
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

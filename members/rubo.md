@@ -61,6 +61,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Remove obsolete scripts (#8721)](https://github.com/NethermindEth/nethermind/commit/f4e0795bda9ee50290f3ed0d0a0cb014925e3de5) - 2025-06-01
 * [Commit] [Make scripts executable](https://github.com/NethermindEth/nethermind/commit/cf3e8c17fb3cccf6628b3c65a0137433c64f7387) - 2025-06-01
 * [Commit] [Reorg scripts](https://github.com/NethermindEth/nethermind/commit/8cdd99c87ba31bc4a38749e7a0a52f89f5b18a3e) - 2025-06-01
+* [Commit] [Add workaround](https://github.com/NethermindEth/nethermind/commit/fb3732feebbad90b82dd707251d1b5c3289dfaaa) - 2025-06-02
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/b816e949d31681589dac4bce9ad2a5350974fcba) - 2025-06-02
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
