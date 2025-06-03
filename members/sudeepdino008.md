@@ -209,6 +209,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/5acc98188367380445ab5edda58ba94b6e880cbc) - 2025-06-02
 * [Commit] [Add error to GetHashFn & GetHeaderFn (#15344)](https://github.com/erigontech/erigon/commit/dd361b9973b9c63d07d088cd379036ebe19a6761) - 2025-06-02
 * [Issue] [snap_repo files management update](https://github.com/erigontech/erigon/issues/15393) - 2025-06-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2b3ec90b88e89f8eef4c8b1df5a1dd01a0eb0645) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/35259ca117eb66384a7a13f9c8d2a4a38ead38f8) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/950b52e899dc77f5cb6f095f20b36013bac7b521) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8ab874d59676c48f704aa3199322ccb5eb3c0239) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fafee96b92092d5bad1fd35ce0635a3b39c8156f) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/22c8f70b39cf6fdc0f0721c4bed9b50696eaf033) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bc553bd9e092a91d4d78d83d7c56ae1a5d26b772) - 2025-06-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

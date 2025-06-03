@@ -49,6 +49,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [print getAttestationsForBlock full time (#9479)](https://github.com/Consensys/teku/commit/1376bc9ee0db8aad15b09212e99477e11d9a6b49) - 2025-05-23
 * [Pull Request] [Include SA in block flow aggregation, when they are no aggregates in the group](https://github.com/Consensys/teku/pull/9487) - 2025-05-26
 * [Issue] [Defer block import while block production is in flight](https://github.com/Consensys/teku/issues/9488) - 2025-05-27
+* [Comment] [Comment on PR: remove unused --validators-proposer-blinded-blocks-enabled option](https://github.com/Consensys/teku/pull/9505#issuecomment-2934001026) - 2025-06-03
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

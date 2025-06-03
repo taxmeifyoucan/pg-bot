@@ -224,6 +224,16 @@ Team: Reth
 * [Pull Request] [ci: deduplicate Docker CI matrix members](https://github.com/paradigmxyz/reth/pull/16602) - 2025-06-02
 * [Commit] [ci: deduplicate Docker CI matrix members](https://github.com/paradigmxyz/reth/commit/5e9f784a3de535aec4bc39a1d97626be2336593b) - 2025-06-02
 * [Commit] [ci: deduplicate Docker CI matrix members](https://github.com/paradigmxyz/reth/commit/ea1b34f12b54fc610d9b9c09b7fd83fb8b638fa8) - 2025-06-02
+* [Commit] [feat(examples): Replace `CustomConsensusBuilder` using `OpConsensusBuilder` with custom generics in `custom_node` example (#16560)](https://github.com/paradigmxyz/reth/commit/04144c5a4b94f6cf274cb9b9e17ffc3fe9fde201) - 2025-06-03
+* [Commit] [do not skip trie updates for blocks that have them and use state root task only when no missing trie updates](https://github.com/paradigmxyz/reth/commit/bec1d231435f1c2047651e9c0dac8819e54f571c) - 2025-06-03
+* [Review] [Review on: chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/16611#pullrequestreview-2891385540) - 2025-06-03
+* [Pull Request] [chore(storage): fix docs overindent](https://github.com/paradigmxyz/reth/pull/16612) - 2025-06-03
+* [Create] [Created branch: alexey/tables-mod-indent](https://github.com/paradigmxyz/reth/tree/alexey/tables-mod-indent) - 2025-06-03
+* [Commit] [use state root task only when no missing trie updates](https://github.com/paradigmxyz/reth/commit/50b30c68bac7f2ecd368b79eab4294560a4f5a0f) - 2025-06-03
+* [Review] [Review on: test(e2e): set test_state_root_fallback for deep reorg test](https://github.com/paradigmxyz/reth/pull/16573#pullrequestreview-2889054728) - 2025-06-02
+* [Pull Request] [chore: bump version to 1.4.7](https://github.com/paradigmxyz/reth/pull/16606) - 2025-06-02
+* [Review] [Review on: chore: bump version to 1.4.7](https://github.com/paradigmxyz/reth/pull/16606#pullrequestreview-2888692233) - 2025-06-02
+* [Review] [Review on: deps: revm `24.0.1`](https://github.com/paradigmxyz/reth/pull/16604#pullrequestreview-2888225176) - 2025-06-02
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

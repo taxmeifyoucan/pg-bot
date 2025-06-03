@@ -173,6 +173,19 @@ Team: Erigon
 * [Commit] [rpcdaemon: stack-based json stream (#14994)](https://github.com/erigontech/erigon/commit/3d9e86635bae4ed25edf69e528fc4e482786c0f3) - 2025-06-02
 * [Commit] [Versioned IBS Implementation (#15387)](https://github.com/erigontech/erigon/commit/7c81a1d411b4a802ea5887c810590b9ea97bfa27) - 2025-06-02
 * [Commit] [make trace static](https://github.com/erigontech/erigon/commit/bf293c19948ead1dd7b05370d71b74ce7764fdd4) - 2025-06-02
+* [Commit] [fix burnamount panic](https://github.com/erigontech/erigon/commit/d426943fd457a56d0b42d75d84b57f1700fe3907) - 2025-06-02
+* [Create] [Created branch: fix_insufficient_funds_balance_formatting](https://github.com/erigontech/erigon/tree/fix_insufficient_funds_balance_formatting) - 2025-06-02
+* [Create] [Created branch: add_fgprof](https://github.com/erigontech/erigon/tree/add_fgprof) - 2025-06-02
+* [Pull Request] [Add Tx Dependencies](https://github.com/erigontech/erigon/pull/15415) - 2025-06-02
+* [Create] [Created branch: add_tx_dependencies](https://github.com/erigontech/erigon/tree/add_tx_dependencies) - 2025-06-02
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/14b976ed0bc84f29ae6162a33bb16f640cb4a035) - 2025-06-02
+* [Commit] [fix function call](https://github.com/erigontech/erigon/commit/e34eba47b2edc03c7ee61dc6a75b36abc8a51f0b) - 2025-06-02
+* [Commit] [fix typo](https://github.com/erigontech/erigon/commit/4bed3a9706782f593b62720507ed9c33d4f7d817) - 2025-06-02
+* [Pull Request] [Parallel State Transition](https://github.com/erigontech/erigon/pull/15413) - 2025-06-02
+* [Create] [Created branch: parallel-transition](https://github.com/erigontech/erigon/tree/parallel-transition) - 2025-06-02
+* [Create] [Created branch: make_temporal_explicit_in_tests](https://github.com/erigontech/erigon/tree/make_temporal_explicit_in_tests) - 2025-06-02
+* [Pull Request] [Versioned IBS Implementation](https://github.com/erigontech/erigon/pull/15387) - 2025-06-02
+* [Comment] [Comment on PR: Versioned IBS Implementation](https://github.com/erigontech/erigon/pull/15387#issuecomment-2931100427) - 2025-06-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

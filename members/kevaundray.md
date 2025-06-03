@@ -55,6 +55,7 @@ Team: Consensus R&D (EF)
 * [Issue] [Create Blockchain tests for the remaining opcodes in #1453 that consume the whole block](https://github.com/ethereum/execution-spec-tests/issues/1690) - 2025-05-30
 * [Issue] [Create Blockchain tests for Contract Lifecycle and Logging opcodes that consume the whole block](https://github.com/ethereum/execution-spec-tests/issues/1689) - 2025-05-30
 * [Issue] [Create Blockchain tests for PUSH, DUP and SWAP opcodes](https://github.com/ethereum/execution-spec-tests/issues/1687) - 2025-05-30
+* [Comment] [Comment on Issue: Create Blockchain tests for Contract Lifecycle and Logging opcodes that consume the whole block](https://github.com/ethereum/execution-spec-tests/issues/1689#issuecomment-2930755442) - 2025-06-02
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

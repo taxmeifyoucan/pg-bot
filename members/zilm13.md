@@ -24,6 +24,19 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Add logging on DataColumnSidecars recovery failure (#9486)](https://github.com/Consensys/teku/commit/c32dc4df3914bcd17c88ac3ab8c2830ee5bf639f) - 2025-05-27
 * [Issue] [Use byRange RPC requests in syncing in PeerDAS](https://github.com/Consensys/teku/issues/9490) - 2025-05-28
 * [Pull Request] [Throttle muxer exceptions](https://github.com/Consensys/teku/pull/9507) - 2025-06-02
+* [Issue] [Consider switching to RustKZG as far as library provides complete implementation](https://github.com/Consensys/teku/issues/9511) - 2025-06-03
+* [Commit] [Fix nits in fulu code (#9508)](https://github.com/Consensys/teku/commit/8e890650906080fc316cd7ef0987a108798de8ae) - 2025-06-02
+* [Pull Request] [Fix nits in fulu code](https://github.com/Consensys/teku/pull/9508) - 2025-06-02
+* [Review Comment] [Review comment on: Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510#discussion_r2122230795) - 2025-06-02
+* [Review] [Review on: Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510#pullrequestreview-2890050313) - 2025-06-02
+* [Review Comment] [Review comment on: Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510#discussion_r2122226060) - 2025-06-02
+* [Review] [Review on: Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510#pullrequestreview-2890042582) - 2025-06-02
+* [Review] [Review on: Fix nits in fulu code](https://github.com/Consensys/teku/pull/9508#pullrequestreview-2889987824) - 2025-06-02
+* [Commit] [Fix block contents kzg proofs max length for fulu (#9506)](https://github.com/Consensys/teku/commit/320fcd09ea86c6f46a52978aa07532a81edc61d6) - 2025-06-02
+* [Pull Request] [Fix block contents kzg proofs max length for fulu](https://github.com/Consensys/teku/pull/9506) - 2025-06-02
+* [Comment] [Comment on PR: Fix block contents kzg proofs max length for fulu](https://github.com/Consensys/teku/pull/9506#issuecomment-2932543106) - 2025-06-02
+* [Review] [Review on: Fix block contents kzg proofs max length for fulu](https://github.com/Consensys/teku/pull/9506#pullrequestreview-2889979983) - 2025-06-02
+* [Pull Request] [Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510) - 2025-06-02
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

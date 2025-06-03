@@ -67,3 +67,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [EIP-7825 : Transaction Gas Limit Cap](https://github.com/status-im/nimbus-eth1/pull/3358) - 2025-06-02
 * [Issue] [Fusaka devent issue tracker](https://github.com/status-im/nimbus-eth1/issues/3357) - 2025-06-02
 * [Pull Request] [EIP-7918 : Blob base fee bounded by execution cost](https://github.com/status-im/nimbus-eth1/pull/3356) - 2025-06-02
+* [Comment] [Comment on PR: bpo for fusaka devnet](https://github.com/status-im/nimbus-eth1/pull/3340#issuecomment-2932620615) - 2025-06-02

@@ -135,8 +135,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/4bad0d864d4bc6473661cb3c8657901305dac320) - 2025-06-02
 * [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/2e01412760ce6249808593f98a2015db2b350aaf) - 2025-06-02
 * [Commit] [Update beacon-chain/blockchain/error.go](https://github.com/OffchainLabs/prysm/commit/217f3fd38a2cce21d967d87749ff9bbff84011a8) - 2025-06-02
+* [Commit] [PeerDAS: Implement DAS](https://github.com/OffchainLabs/prysm/commit/fa715fccf8e7095df5a2f647e27cf10d399b73fa) - 2025-06-03
+* [Commit] [PeerDAS: Implement DAS](https://github.com/OffchainLabs/prysm/commit/3ba0b8c53a776b5ce2772abe1a0d80e051a4784a) - 2025-06-03
+* [Commit] [PeerDAS: Implement DAS](https://github.com/OffchainLabs/prysm/commit/164a459afdfcd657ee5230b1612bc15bb9290cb9) - 2025-06-03
+* [Commit] [PeerDAS: Implement DAS](https://github.com/OffchainLabs/prysm/commit/97ba29511307aebecc126d3dc8548a03b9bf78ab) - 2025-06-03
+* [Create] [Created branch: peerdas-das](https://github.com/OffchainLabs/prysm/tree/peerdas-das) - 2025-06-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
+* [Pull Request] [Validator custody: Increase only and optional backfill.](https://github.com/ethereum/consensus-specs/pull/4357) - 2025-06-03
+* [Comment] [Comment on PR: Change SHOULD NOT to MAY for custody backfill](https://github.com/ethereum/consensus-specs/pull/4352#issuecomment-2931289358) - 2025-06-02
+* [Comment] [Comment on PR: Change SHOULD NOT to MAY for custody backfill](https://github.com/ethereum/consensus-specs/pull/4352#issuecomment-2931265025) - 2025-06-02
+* [Comment] [Comment on PR: Change SHOULD NOT to MAY for custody backfill](https://github.com/ethereum/consensus-specs/pull/4352#issuecomment-2931146177) - 2025-06-02
+* [Comment] [Comment on PR: Clarify node behavior when validator custody changes](https://github.com/ethereum/consensus-specs/pull/4320#issuecomment-2931064955) - 2025-06-02
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

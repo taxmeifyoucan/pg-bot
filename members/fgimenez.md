@@ -166,6 +166,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [Update crates/optimism/node/src/node.rs](https://github.com/paradigmxyz/reth/commit/78f97e4754abfaf298d477f502163da61908fd80) - 2025-06-02
 * [Pull Request] [refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607) - 2025-06-02
 * [Commit] [refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/commit/e743cded35fa21b4dcf4e2ed50ebac370fa0ea56) - 2025-06-02
+* [Comment] [Comment on PR: refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607#issuecomment-2931947170) - 2025-06-02
+* [Create] [Created branch: fgimenez/e2e-refactor-actions](https://github.com/paradigmxyz/reth/tree/fgimenez/e2e-refactor-actions) - 2025-06-02
+* [Issue] [Allow to run e2e tests with state root fallback](https://github.com/paradigmxyz/reth/issues/16545) - 2025-06-02
+* [Pull Request] [test(e2e): set test_state_root_fallback for deep reorg test](https://github.com/paradigmxyz/reth/pull/16573) - 2025-06-02
+* [Create] [Created branch: fgimenez/refactor-pool-builders](https://github.com/paradigmxyz/reth/tree/fgimenez/refactor-pool-builders) - 2025-06-02
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

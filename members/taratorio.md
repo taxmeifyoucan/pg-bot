@@ -70,6 +70,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [polygon/sync: retry ExecutionModule.Ready when busy (#15286)](https://github.com/erigontech/erigon/commit/2a8b5267c71bdd28bff21dfbfc1b707bc92ff83d) - 2025-05-28
 * [Commit] [polygon/sync: fix inserts of new blocks when partially connected due to err (#15333)](https://github.com/erigontech/erigon/commit/03d2ee52d2b125309f5fd4de5873086deee3e9ce) - 2025-05-30
 * [Commit] [polygon/sync: tweak fetch blocks backwards timeout (#15328)](https://github.com/erigontech/erigon/commit/0f969d1c3b33c3729d5911e66a7ab3419b82cb4e) - 2025-05-30
+* [Review] [Review on: Add Tx Dependencies](https://github.com/erigontech/erigon/pull/15415#pullrequestreview-2891431147) - 2025-06-03
+* [Review Comment] [Review comment on: Add Tx Dependencies](https://github.com/erigontech/erigon/pull/15415#discussion_r2123212602) - 2025-06-03
+* [Review] [Review on: Add Tx Dependencies](https://github.com/erigontech/erigon/pull/15415#pullrequestreview-2891421257) - 2025-06-03
+* [Review Comment] [Review comment on: Add Tx Dependencies](https://github.com/erigontech/erigon/pull/15415#discussion_r2123184478) - 2025-06-03
+* [Review] [Review on: Add Tx Dependencies](https://github.com/erigontech/erigon/pull/15415#pullrequestreview-2891377684) - 2025-06-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

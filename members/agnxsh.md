@@ -106,6 +106,19 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [add `getBlobsV2` and `payloadV5` (#7123)](https://github.com/status-im/nimbus-eth2/commit/7497790cd3e848c7e2582616ed95b3824a848bcd) - 2025-06-02
 * [Commit] [use newSeqOfCap](https://github.com/status-im/nimbus-eth2/commit/7f14ffcc3221e2da600d9006a0456963bc2ef4d3) - 2025-06-02
 * [Commit] [add: bpo parsing (#7195)](https://github.com/status-im/nimbus-eth2/commit/f3cf70c1b59e30f137aa59de96f96bce35a2ee2e) - 2025-06-02
+* [Commit] [Add peerDAS computation metric (#7205)](https://github.com/status-im/nimbus-eth2/commit/5ef6246156ca681fce66ae164e648ddb4a99c68c) - 2025-06-03
+* [Pull Request] [Add peerDAS computation metric](https://github.com/status-im/nimbus-eth2/pull/7205) - 2025-06-03
+* [Commit] [Add peerDAS kzg verification metrics (#7154)](https://github.com/status-im/nimbus-eth2/commit/39e49e1ea9def84588ada20849554bb3ef30c95d) - 2025-06-03
+* [Pull Request] [Add peerDAS kzg verification metrics](https://github.com/status-im/nimbus-eth2/pull/7154) - 2025-06-03
+* [Comment] [Comment on PR: Add peerDAS computation metric](https://github.com/status-im/nimbus-eth2/pull/7156#issuecomment-2932592247) - 2025-06-02
+* [Commit] [resolved conflicts and rebased](https://github.com/status-im/nimbus-eth2/commit/0f686042e5748da76ab7ab2571bffd433ba01b88) - 2025-06-02
+* [Comment] [Comment on PR: Add peerDAS computation metric](https://github.com/status-im/nimbus-eth2/pull/7156#issuecomment-2932464745) - 2025-06-02
+* [Comment] [Comment on PR: Add peerDAS reconstruction metrics](https://github.com/status-im/nimbus-eth2/pull/7152#issuecomment-2932452816) - 2025-06-02
+* [Pull Request] [Add peerDAS reconstruction metrics](https://github.com/status-im/nimbus-eth2/pull/7152) - 2025-06-02
+* [Commit] [rm beacon_chain/el/deposit_contract.nim, replaced by ncli_testnet (#7155)](https://github.com/status-im/nimbus-eth2/commit/6fd972620c0bbb39242ea5861ad7aaa430144090) - 2025-06-02
+* [Pull Request] [add `getBlobsV2` and `payloadV5`](https://github.com/status-im/nimbus-eth2/pull/7123) - 2025-06-02
+* [Review] [Review on: add `getBlobsV2` and `payloadV5`](https://github.com/status-im/nimbus-eth2/pull/7123#pullrequestreview-2888537162) - 2025-06-02
+* [Review Comment] [Review comment on: add `getBlobsV2` and `payloadV5`](https://github.com/status-im/nimbus-eth2/pull/7123#discussion_r2121232600) - 2025-06-02
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

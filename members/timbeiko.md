@@ -17,9 +17,12 @@ Team: [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Remove EOF from Fusaka ](https://github.com/ethereum/EIPs/pull/9703) - 2025-04-28
 
 * [Pull Request] [ACDE#212 Changes](https://github.com/ethereum/EIPs/pull/9805) - 2025-05-22
+* [Review] [Review on: Update EIP-7607: EIP-7607: add deterministic proposer lookahead to scheduled](https://github.com/ethereum/EIPs/pull/9847#pullrequestreview-2889524016) - 2025-06-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Commit] [Update pectra-mainnet-plan.md](https://github.com/ethereum/pm/commit/2be18dea9f820238a76e23ad1553b29b9d965264) - 2025-04-28
 * [Commit] [Update pectra-mainnet-plan.md](https://github.com/ethereum/pm/commit/1f0dac522798a7dc0be8d6850fa48cc04557526c) - 2025-04-28
+* [Comment] [Comment on Issue: All Core Devs - Execution (ACDE) #212 (May 22, 2025)](https://github.com/ethereum/pm/issues/1533#issuecomment-2932823935) - 2025-06-02
+* [Issue] [All Core Devs - Execution (ACDE) #213 (June 5, 2025)](https://github.com/ethereum/pm/issues/1565) - 2025-06-02
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

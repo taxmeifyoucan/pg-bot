@@ -20,6 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Add SSZ support to attestation APIs (#9433)](https://github.com/Consensys/teku/commit/82b506dcaf7846e77788c786f0721f698c8109fc) - 2025-05-22
 * [Pull Request] [QUIC support [DO NOT MERGE]](https://github.com/Consensys/teku/pull/9484) - 2025-05-23
 * [Commit] [Align config with specs (#9491)](https://github.com/Consensys/teku/commit/8900d44763ee371d861620250d991b2aa76f5dbc) - 2025-05-29
+* [Review] [Review on: remove unused --validators-proposer-blinded-blocks-enabled option](https://github.com/Consensys/teku/pull/9505#pullrequestreview-2890754846) - 2025-06-03
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -2286,6 +2286,69 @@ Team: Erigon
 * [Commit] [Revert "Engine-API: Fixed `context canceled` (#15277)" (#15370)](https://github.com/erigontech/erigon/commit/79454280bd90e9aa6f9e8130340dccd7ac1c9c9b) - 2025-06-02
 * [Commit] [save](https://github.com/erigontech/erigon/commit/c7bbf5f936bae02fcc2a541823384540f8ba269c) - 2025-06-02
 * [Commit] [rpcd: pass global _txNumReader  (#15376)](https://github.com/erigontech/erigon/commit/5373c68bc836c4e7c1cd58013c1df8fa9164db23) - 2025-06-02
+* [Commit] [Add fgprof to profiling endpoints (#15416)](https://github.com/erigontech/erigon/commit/64ae9a44c2d13dc289212b2f4506e434bd191dd7) - 2025-06-03
+* [Pull Request] [Add fgprof to profiling endpoints](https://github.com/erigontech/erigon/pull/15416) - 2025-06-03
+* [Commit] [Use temporal db + views rather than cast tx (#15411)](https://github.com/erigontech/erigon/commit/2e133f7adbd3443768f3011c5ed0cdcdd432d049) - 2025-06-03
+* [Pull Request] [Use temporal db + views rather than cast tx](https://github.com/erigontech/erigon/pull/15411) - 2025-06-03
+* [Commit] [Revert "sd: try remove Commitment calc from Flush (#15318)" (#15408)](https://github.com/erigontech/erigon/commit/7539dc1b992c6a4ecf55404ccecafaa0f5dcf579) - 2025-06-03
+* [Pull Request] [Revert "sd: try remove Commitment calc from Flush (#15318)"](https://github.com/erigontech/erigon/pull/15408) - 2025-06-03
+* [Commit] [Fix insufficient funds balance formatting  (#15417)](https://github.com/erigontech/erigon/commit/138120eea90bf1488ddd15442033cf97aa7872ea) - 2025-06-03
+* [Pull Request] [Fix insufficient funds balance formatting ](https://github.com/erigontech/erigon/pull/15417) - 2025-06-03
+* [Review] [Review on: Revert "sd: try remove Commitment calc from Flush (#15318)"](https://github.com/erigontech/erigon/pull/15408#pullrequestreview-2891218860) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/53bb532943f0c8398c13dbb899fbca431f3927dc) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e44c08716faa61ed3b66f8e71013fb5f97b264b1) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d47fbfa51b783fc807cbefc3f2b470c0aa0d09fb) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/95a4bc669319845924c92eeb5b45e2826a6eba03) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/418a708b8c28a5030a9b975874741552fc631ed5) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0de231fbe2d9425cf6de95b4220664362596fc85) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/39a18d60b50a201cc3002dd3d1b2ab4ee041c3e2) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/22cb62f07d24962d463af60d8288a2ed650c9ea5) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/432d1385c058947e6e86f866f745898c1278add3) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/83e1dc3e78c15ad65dc304627542105f11a3b6c8) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/385deb7e1365bc87e9dbab12fc3438a2f475a00f) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9029dada82db9b997d04cfa862fb2ae08e8ddc1a) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a79285d06f543616c46b611c115ba3dde2afa17c) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ab5fe67175f0c071fc185fbe0e71dae604ce3766) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1d424d0ed1205723d1728815c94ef582e6b41057) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/073f5e01a42adb1c860a54aa4291a727f6d58d8e) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ff313db98bfb7257f29d2433845464d8fcd37ad2) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7e1f510bbc6648a579f2e24a02b8da7a8a1d5913) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bdf994c03a79492019e6d420439be7b9ed4335e3) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d12419fee5e9f19afa9732964605f6a06756b79a) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cbb37036ff22e97b11eebb1e6b43389c54662492) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aa7e5f8a3f675b811feacfc7eb1628215ba20e75) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e5072f8a50990c9abf00855b0c65a7a8fd9754d5) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/685b0b9c11ae91e7e4b7c7e71d78186186ad5171) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/16cb4ffc9a0a05ad3e28740ab1ff06af3df30ea5) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/626668f90574f642a4e5ddd43803ac9cc377156c) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c028be95a4fea2f243d81c73488298641cbb9a07) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/30fe574c8072f7f04c2cde0d77d43e57afa33f5b) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5fa1907558b7e04a990c6214d77b47f692883d65) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/36cd31b3fc14996ba8df40856984339ce2149033) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/64535188e14a638e8112996040a8e4265249f970) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0c155f984d45ac6435ad6822c41edc4a028211a9) - 2025-06-03
+* [Commit] [fix for heimdall integrity (#15381)](https://github.com/erigontech/erigon/commit/3c7d55c77516f538105dec391b1e1fe87ea43767) - 2025-06-03
+* [Comment] [Comment on Issue: [Snapshots] no metadata yet](https://github.com/erigontech/erigon/issues/15397#issuecomment-2933217952) - 2025-06-03
+* [Review] [Review on: Update CI hive-eest with latest fixtures](https://github.com/erigontech/erigon/pull/15329#pullrequestreview-2890429615) - 2025-06-03
+* [Review] [Review on: Cherry-Pick: extend timeout on block building to slot time](https://github.com/erigontech/erigon/pull/15312#pullrequestreview-2890429245) - 2025-06-03
+* [Review Comment] [Review comment on: agg and dhii readahead flag](https://github.com/erigontech/erigon/pull/15353#discussion_r2122519176) - 2025-06-03
+* [Review] [Review on: agg and dhii readahead flag](https://github.com/erigontech/erigon/pull/15353#pullrequestreview-2890426584) - 2025-06-03
+* [Review] [Review on: dependency between ii and history files](https://github.com/erigontech/erigon/pull/15351#pullrequestreview-2890416236) - 2025-06-03
+* [Review] [Review on: Cherry-pick: Fix receipts dangling from reorged blocks (#15401)](https://github.com/erigontech/erigon/pull/15404#pullrequestreview-2890406081) - 2025-06-03
+* [Review] [Review on: build: update golangci-lint-action to v8](https://github.com/erigontech/erigon/pull/15412#pullrequestreview-2890402867) - 2025-06-03
+* [Review] [Review on: Parallel State Transition](https://github.com/erigontech/erigon/pull/15413#pullrequestreview-2890401982) - 2025-06-03
+* [Review] [Review on: debug account at() debug account range()  reads hdr ](https://github.com/erigontech/erigon/pull/15414#pullrequestreview-2890400939) - 2025-06-03
+* [Review] [Review on: Add fgprof to profiling endpoints](https://github.com/erigontech/erigon/pull/15416#pullrequestreview-2890398698) - 2025-06-03
+* [Review] [Review on: Fix insufficient funds balance formatting ](https://github.com/erigontech/erigon/pull/15417#pullrequestreview-2890398571) - 2025-06-03
+* [Comment] [Comment on Issue: Lagging](https://github.com/erigontech/erigon/issues/15402#issuecomment-2931754126) - 2025-06-02
+* [Review] [Review on: Revert "sd: try remove Commitment calc from Flush (#15318)"](https://github.com/erigontech/erigon/pull/15408#pullrequestreview-2889388993) - 2025-06-02
+* [Pull Request] [bt: keycmp ](https://github.com/erigontech/erigon/pull/15385) - 2025-06-02
+* [Comment] [Comment on Issue: Lagging](https://github.com/erigontech/erigon/issues/15402#issuecomment-2931061365) - 2025-06-02
+* [Comment] [Comment on Issue: Polygon stuck on snapshots download "no metadata yet"](https://github.com/erigontech/erigon/issues/15309#issuecomment-2931054141) - 2025-06-02
+* [Issue] [Polygon stuck on snapshots download "no metadata yet"](https://github.com/erigontech/erigon/issues/15309) - 2025-06-02
+* [Comment] [Comment on Issue: [Snapshots] no metadata yet](https://github.com/erigontech/erigon/issues/15397#issuecomment-2931045670) - 2025-06-02
+* [Pull Request] [E3: Fix receipts dangling from reorged blocks](https://github.com/erigontech/erigon/pull/15401) - 2025-06-02
+* [Review] [Review on: E3: Fix receipts dangling from reorged blocks](https://github.com/erigontech/erigon/pull/15401#pullrequestreview-2888311342) - 2025-06-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

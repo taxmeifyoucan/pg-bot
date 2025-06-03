@@ -60,6 +60,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [EIP 7917 initial commit](https://github.com/OffchainLabs/prysm/commit/c346ccae7720ed7f1f6b29282a4fc3614a4607a8) - 2025-06-02
 * [Commit] [EIP 7917 initial commit](https://github.com/OffchainLabs/prysm/commit/e54808de9153886c3c1b1409981c927fbb29df0e) - 2025-06-02
 * [Commit] [migrates some helper functions from beacon API to apiutil (#15125)](https://github.com/OffchainLabs/prysm/commit/4a1c627f6fc92e9b0df7eb4c956240b16aa455b8) - 2025-06-02
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#pullrequestreview-2890150558) - 2025-06-02
+* [Review Comment] [Review comment on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#discussion_r2121496291) - 2025-06-02
+* [Review Comment] [Review comment on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#discussion_r2121462276) - 2025-06-02
+* [Review] [Review on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#pullrequestreview-2888886172) - 2025-06-02
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

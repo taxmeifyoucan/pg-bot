@@ -52,6 +52,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [Update mergify rules so that I can add `waiting-on-author` on a PR that's passing CI. Remove noisy comments.](https://github.com/sigp/lighthouse/commit/8dde5bdb4413f5f1faf3203bf405a563f5449600) - 2025-05-28
 * [Pull Request] [Prevent `AvailabilityCheckError` when there's no new custody columns to import](https://github.com/sigp/lighthouse/pull/7533) - 2025-05-29
 * [Pull Request] [Fix unexpected blob error and duplicate import in fetch blobs](https://github.com/sigp/lighthouse/pull/7541) - 2025-05-30
+* [Comment] [Comment on PR: Downscore and retry custody failures](https://github.com/sigp/lighthouse/pull/7510#issuecomment-2934102696) - 2025-06-03
+* [Commit] [Verify `getBlobsV2` response and avoid reprocessing imported data columns (#7493)](https://github.com/sigp/lighthouse/commit/e6ef644db4e88cdb5a8c4362d8037e6abfbb0abc) - 2025-06-03
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

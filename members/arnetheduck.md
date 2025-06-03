@@ -34,5 +34,6 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Remove not used EVMC flags from execution_client CI (#3355)](https://github.com/status-im/nimbus-eth1/commit/020475bfc886370bcaabe0a1e1c96cd5400af319) - 2025-06-02
 * [Commit] [Support multiple wire protocol version and implement eth/68 + eth/69 (#3283)](https://github.com/status-im/nimbus-eth1/commit/443da8e7cb0f8c96fb0ac6468aa0f35c0755daf6) - 2025-06-02
 * [Pull Request] [ariso: assorted cleanups](https://github.com/status-im/nimbus-eth1/pull/3360) - 2025-06-02
+* [Create] [Created branch: aristo-cleanups](https://github.com/status-im/nimbus-eth1/tree/aristo-cleanups) - 2025-06-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Old head sent in LC sync mode](https://github.com/status-im/nimbus-eth2/issues/7119) - 2025-05-04

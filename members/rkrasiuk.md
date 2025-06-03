@@ -78,5 +78,9 @@ Team: Reth
 * [Commit] [add execution witness prover](https://github.com/paradigmxyz/reth/commit/e7d079ac0b16109844a13d36c58e1aca35d8386d) - 2025-05-30
 * [Pull Request] [release: v1.4.7](https://github.com/paradigmxyz/reth/pull/16606) - 2025-06-02
 * [Pull Request] [deps: revm `24.0.1`](https://github.com/paradigmxyz/reth/pull/16604) - 2025-06-02
+* [Create] [Created tag: v1.4.7](https://github.com/paradigmxyz/reth/releases/tag/v1.4.7) - 2025-06-02
+* [Create] [Created branch: release/v1.4.7](https://github.com/paradigmxyz/reth/tree/release/v1.4.7) - 2025-06-02
+* [Pull Request] [feat: peerdas support](https://github.com/paradigmxyz/reth/pull/15534) - 2025-06-02
+* [Comment] [Comment on PR: feat: peerdas support](https://github.com/paradigmxyz/reth/pull/15534#issuecomment-2930892069) - 2025-06-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16

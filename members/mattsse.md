@@ -373,6 +373,28 @@ Team: Reth
 * [Issue] [Unify pending_block functions](https://github.com/paradigmxyz/reth/issues/16591) - 2025-06-01
 * [Issue] [use Opstorage impl for optimism](https://github.com/paradigmxyz/reth/issues/16590) - 2025-06-01
 * [Pull Request] [chore: rm some clones](https://github.com/paradigmxyz/reth/pull/16588) - 2025-06-01
+* [Issue] [Improve eth_gasPrice basefee lookup](https://github.com/paradigmxyz/reth/issues/16613) - 2025-06-03
+* [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/16611) - 2025-06-03
+* [Commit] [chore: make clippy happy (#16611)](https://github.com/paradigmxyz/reth/commit/4686778cb9dac57345ebf1a7799e5f763a881eae) - 2025-06-03
+* [Issue] [Fix missing blocktimestamp in logs subscription](https://github.com/paradigmxyz/reth/issues/16592) - 2025-06-03
+* [Pull Request] [feat: fixed  missing blocktimestamp in logs subscription](https://github.com/paradigmxyz/reth/pull/16598) - 2025-06-03
+* [Commit] [feat: fixed  missing blocktimestamp in logs subscription (#16598)](https://github.com/paradigmxyz/reth/commit/5f7fe6b9e2927238129a8ba400ed010fac44e12b) - 2025-06-03
+* [Pull Request] [feat: fix tx da scaling ](https://github.com/paradigmxyz/reth/pull/16558) - 2025-06-03
+* [Commit] [feat: fix tx da scaling  (#16558)](https://github.com/paradigmxyz/reth/commit/f2d1863485545a344205c81deae3b54418ebdbc6) - 2025-06-03
+* [Comment] [Comment on PR: feat: fix tx da scaling ](https://github.com/paradigmxyz/reth/pull/16558#issuecomment-2934235407) - 2025-06-03
+* [Review] [Review on: chore(storage): fix docs overindent](https://github.com/paradigmxyz/reth/pull/16612#pullrequestreview-2891384198) - 2025-06-03
+* [Commit] [refactor: relax `OpAddOns` trait bounds (#16582)](https://github.com/paradigmxyz/reth/commit/ca9f94cc7b024e8772b048578fcbc7542af2fada) - 2025-06-03
+* [Pull Request] [refactor: relax `OpAddOns` trait bounds](https://github.com/paradigmxyz/reth/pull/16582) - 2025-06-03
+* [Create] [Created branch: matt/make-clippy-happy2222222222222222222242342352345223123423242231](https://github.com/paradigmxyz/reth/tree/matt/make-clippy-happy2222222222222222222242342352345223123423242231) - 2025-06-03
+* [Pull Request] [docs(net): replace 404 link message.rs](https://github.com/paradigmxyz/reth/pull/16597) - 2025-06-03
+* [Commit] [docs(net): replace 404 link message.rs (#16597)](https://github.com/paradigmxyz/reth/commit/aab4d22786fbf48ae64ca2b48be76b44d24052f8) - 2025-06-03
+* [Comment] [Comment on PR: feat: fix tx da scaling ](https://github.com/paradigmxyz/reth/pull/16558#issuecomment-2934167704) - 2025-06-03
+* [Review] [Review on: feat: fix tx da scaling ](https://github.com/paradigmxyz/reth/pull/16558#pullrequestreview-2891324051) - 2025-06-03
+* [Review] [Review on: feat: fixed  missing blocktimestamp in logs subscription](https://github.com/paradigmxyz/reth/pull/16598#pullrequestreview-2891252135) - 2025-06-03
+* [Review] [Review on: refactor: relax `OpAddOns` trait bounds](https://github.com/paradigmxyz/reth/pull/16582#pullrequestreview-2891242077) - 2025-06-03
+* [Review] [Review on: docs(net): replace 404 link message.rs](https://github.com/paradigmxyz/reth/pull/16597#pullrequestreview-2891236484) - 2025-06-03
+* [Review] [Review on: chore: Remove OmmersProvider](https://github.com/paradigmxyz/reth/pull/16539#pullrequestreview-2891235012) - 2025-06-03
+* [Comment] [Comment on Issue: Add From impl from alloy_rpc_types_eth::Block for RecoveredBlock](https://github.com/paradigmxyz/reth/issues/16535#issuecomment-2931390020) - 2025-06-02
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

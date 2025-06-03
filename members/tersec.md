@@ -193,6 +193,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix outdated metric visualisation section of README.md (#3341)](https://github.com/status-im/nimbus-eth1/commit/77609948bfc77c4ea009f9f5bc52a6fcae9f3bf6) - 2025-05-29
 * [Commit] [ariso: assorted cleanups (#3360)](https://github.com/status-im/nimbus-eth1/commit/f5db4e4b5ed34ba6a5ed37da848caf422735cad4) - 2025-06-02
 * [Commit] [hive: remove ubuntu 20.04 mention (#3344)](https://github.com/status-im/nimbus-eth1/commit/541377731e676a41055f3891bb47adf53098d706) - 2025-06-02
+* [Pull Request] [ariso: assorted cleanups](https://github.com/status-im/nimbus-eth1/pull/3360) - 2025-06-02
+* [Comment] [Comment on PR: fusaka-devnet-0: EIP-7594 related changes (cell proof)](https://github.com/status-im/nimbus-eth1/pull/3353#issuecomment-2932201539) - 2025-06-02
+* [Comment] [Comment on Issue: `devnet-6` syncing issue](https://github.com/status-im/nimbus-eth1/issues/3147#issuecomment-2930864798) - 2025-06-02
+* [Issue] [`devnet-6` syncing issue](https://github.com/status-im/nimbus-eth1/issues/3147) - 2025-06-02
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

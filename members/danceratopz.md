@@ -274,6 +274,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [WIP](https://github.com/ethereum/execution-spec-tests/commit/551e7072b580c9b846e1e90d0c32d26b754d4864) - 2025-06-02
 * [Commit] [feat(fill): enable interface for two-phase shared alloc filling](https://github.com/ethereum/execution-spec-tests/commit/519f2e2f2f4b89a2e1cccf33bb189f4a023de2de) - 2025-06-02
 * [Commit] [chore(tests): apply `prealloc_group` to system contract & requests tests](https://github.com/ethereum/execution-spec-tests/commit/31bdae95d48ac47c6240a201cc425cd19a9c926c) - 2025-06-02
+* [Pull Request] [feat(fill): enable shared pre-allocation groups and add `BlockchainEngineReorgFixture`](https://github.com/ethereum/execution-spec-tests/pull/1706) - 2025-06-03
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/05dd35ce83ba6fc3313290783f468b2ef9df5c98) - 2025-06-03
+* [Issue] [feat(fill): enable `xdist` use with two-phase shared pre-alloc generation](https://github.com/ethereum/execution-spec-tests/issues/1705) - 2025-06-03
+* [Commit] [docs(consume): add `BlockchainEngineReorgFixture` docs](https://github.com/ethereum/execution-spec-tests/commit/d4f1123655c71adf18c796b03f1cac20dcc14d68) - 2025-06-03
+* [Commit] [refactor(all): standardize shared pre-allocation naming conventions](https://github.com/ethereum/execution-spec-tests/commit/c83f5deb2b625e9c8a910ed656faec8cd9f2460b) - 2025-06-03
+* [Commit] [refactor(all): standardize shared pre-allocation naming conventions](https://github.com/ethereum/execution-spec-tests/commit/29b6f3210da5e5098c3c26f7550b3c7126f251f5) - 2025-06-03
+* [Commit] [refactor(all): standardize shared pre-allocation naming conventions](https://github.com/ethereum/execution-spec-tests/commit/9a970a0f16a48cc92b3ce33c61808e331a95d3a7) - 2025-06-03
+* [Commit] [feat(fixtures): add `BlockchainEngineReorgFixture` and common base class](https://github.com/ethereum/execution-spec-tests/commit/cbc34a291c6690764c208a9530443d1da2adde02) - 2025-06-03
+* [Commit] [zkevm: add 0-param opcodes coverage (#1698)](https://github.com/ethereum/execution-spec-tests/commit/031fb2fbd874de79aad2cd1d7a5a6c0691b941bc) - 2025-06-03
+* [Commit] [Deployed 031fb2fbd8 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/4523ea31952af6ea7949a8e31bf0fb95069a8e58) - 2025-06-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

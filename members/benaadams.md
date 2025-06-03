@@ -272,6 +272,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Use less allocating .ToValueHash than .ToBigEndian](https://github.com/NethermindEth/nethermind/commit/d80b5e858b9bc832540bd731a90d1e9a0d2650ba) - 2025-05-29
 * [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/b8304a457a8b4aeef04563e45e065354cd3cd396) - 2025-06-02
 * [Pull Request] [Improve JumpDest analysis](https://github.com/NethermindEth/nethermind/pull/8725) - 2025-06-02
+* [Commit] [Surface acceptTx on sync via config (#8728)](https://github.com/NethermindEth/nethermind/commit/f4bd7c94c6689eb234938cfa3612b8f8cbe57a83) - 2025-06-03
+* [Pull Request] [Surface acceptTx on sync via config](https://github.com/NethermindEth/nethermind/pull/8728) - 2025-06-03
+* [Create] [Created branch: accept-tx-config](https://github.com/NethermindEth/nethermind/tree/accept-tx-config) - 2025-06-03
+* [Comment] [Comment on PR: EIP-7762: increase minimum blob base fee](https://github.com/NethermindEth/nethermind/pull/7602#issuecomment-2931078806) - 2025-06-02
+* [Comment] [Comment on PR: EIP-7762: increase minimum blob base fee](https://github.com/NethermindEth/nethermind/pull/7602#issuecomment-2931075493) - 2025-06-02
+* [Create] [Created branch: jmpdest](https://github.com/NethermindEth/nethermind/tree/jmpdest) - 2025-06-02
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

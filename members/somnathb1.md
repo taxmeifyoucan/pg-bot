@@ -170,6 +170,19 @@ Team: Erigon
 * [Pull Request] [Makefile: make sed work with mac and linux](https://github.com/erigontech/erigon/pull/15403) - 2025-06-02
 * [Commit] [purify_domain to use agg and build indexes after done (#15298)](https://github.com/erigontech/erigon/commit/4000e12717d863531dbed4ae05b31c238a6976cc) - 2025-06-02
 * [Commit] [Fix Comment relevance](https://github.com/erigontech/erigon/commit/5f107d7834fcfa03090c18e560f26c84ea0175c4) - 2025-06-02
+* [Commit] [Update CI hive-eest with latest fixtures (#15329)](https://github.com/erigontech/erigon/commit/4c3b4407fdcc7ca22da42fe0032d56f77d7e4125) - 2025-06-03
+* [Pull Request] [Update CI hive-eest with latest fixtures](https://github.com/erigontech/erigon/pull/15329) - 2025-06-03
+* [Comment] [Comment on PR: Add EngineAPI and Txpool changes for Fusaka](https://github.com/erigontech/erigon/pull/15222#issuecomment-2931996412) - 2025-06-02
+* [Review Comment] [Review comment on: EngineAPI: try to fix context cancelled](https://github.com/erigontech/erigon/pull/15388#discussion_r2121495994) - 2025-06-02
+* [Review] [Review on: EngineAPI: try to fix context cancelled](https://github.com/erigontech/erigon/pull/15388#pullrequestreview-2888932933) - 2025-06-02
+* [Create] [Created branch: som/pick15360](https://github.com/erigontech/erigon/tree/som/pick15360) - 2025-06-02
+* [Review] [Review on: Makefile: make sed work with mac and linux](https://github.com/erigontech/erigon/pull/15403#pullrequestreview-2888741807) - 2025-06-02
+* [Review Comment] [Review comment on: Makefile: make sed work with mac and linux](https://github.com/erigontech/erigon/pull/15403#discussion_r2121368032) - 2025-06-02
+* [Create] [Created branch: som/pick14968](https://github.com/erigontech/erigon/tree/som/pick14968) - 2025-06-02
+* [Issue] [Implement PeerDAS (EIP-7594) related Execution API changes](https://github.com/erigontech/erigon/issues/15010) - 2025-06-02
+* [Pull Request] [ Add Engine API methods and basic validation ](https://github.com/erigontech/erigon/pull/15221) - 2025-06-02
+* [Create] [Created branch: som/fix_sed](https://github.com/erigontech/erigon/tree/som/fix_sed) - 2025-06-02
+* [Pull Request] [Engine-API: Faster recovery for the block downloader](https://github.com/erigontech/erigon/pull/15389) - 2025-06-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

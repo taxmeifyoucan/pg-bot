@@ -21,6 +21,7 @@ Team: Reth
 * [Issue] [Remove `serial_test` dependency](https://github.com/paradigmxyz/reth/issues/15955) - 2025-04-27
 * [Pull Request] [chore(meta): restrict mdbx vendored attribute](https://github.com/paradigmxyz/reth/pull/16092) - 2025-05-06
 * [Pull Request] [ci: remove concurrency from bench](https://github.com/paradigmxyz/reth/pull/16458) - 2025-05-24
+* [Review] [Review on: ci: special treatment for release candidate tags](https://github.com/paradigmxyz/reth/pull/16603#pullrequestreview-2888190517) - 2025-06-02
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

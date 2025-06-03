@@ -108,6 +108,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [adding some more unit tests](https://github.com/OffchainLabs/prysm/commit/8480b874b0a4951b0c67573589a4faa969242ac7) - 2025-06-02
 * [Commit] [PeerDAS: Implement blockchain. (#15350)](https://github.com/OffchainLabs/prysm/commit/a0060fa79480e9f72c571ff5c82a83e99243b579) - 2025-06-02
 * [Commit] [moving event channel and removing close channel there to prevent potential panic (#15359)](https://github.com/OffchainLabs/prysm/commit/711984d9428b3c721b90ff90a7106d78c36c66fe) - 2025-06-02
+* [Commit] [removing redundant loop in computeOnChainAggregate (#15108)](https://github.com/OffchainLabs/prysm/commit/a50e981c7474b00fab67214f501f2e7c915b0028) - 2025-06-03
+* [Comment] [Comment on PR: cleanup: breaking up expected withdrawals into smaller functions](https://github.com/OffchainLabs/prysm/pull/15194#issuecomment-2933198461) - 2025-06-03
+* [Pull Request] [cleanup: breaking up expected withdrawals into smaller functions](https://github.com/OffchainLabs/prysm/pull/15194) - 2025-06-03
+* [Review] [Review on: Validator: Remove early context cancellation](https://github.com/OffchainLabs/prysm/pull/15369#pullrequestreview-2889568563) - 2025-06-02
+* [Comment] [Comment on PR: fix: typo in function's name in logutil_test.go](https://github.com/OffchainLabs/prysm/pull/15366#issuecomment-2930954831) - 2025-06-02
+* [Pull Request] [fix: typo in function's name in logutil_test.go](https://github.com/OffchainLabs/prysm/pull/15366) - 2025-06-02
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -42,6 +42,17 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Set shard_count to optimal value... one!](https://github.com/OffchainLabs/prysm/commit/c6b4cc8575a283fa865c31e24ba4781379857b7f) - 2025-05-23
 * [Commit] [Add a section about nightly tests to the spectest readme. Ref https://github.com/OffchainLabs/prysm/pull/15312](https://github.com/OffchainLabs/prysm/commit/71f375dd4211f5ff08f29805ea348d3bd7948465) - 2025-05-23
 * [Pull Request] [Validator: Remove early context cancellation](https://github.com/OffchainLabs/prysm/pull/15369) - 2025-06-02
+* [Pull Request] [ci: bump golangci-lint-action to v8](https://github.com/OffchainLabs/prysm/pull/15368) - 2025-06-02
+* [Create] [Created branch: val-rm-cancel](https://github.com/OffchainLabs/prysm/tree/val-rm-cancel) - 2025-06-02
+* [Comment] [Comment on PR: refactor: use central flag name for validator HTTP server port](https://github.com/OffchainLabs/prysm/pull/15236#issuecomment-2931544882) - 2025-06-02
+* [Review] [Review on: refactor: use central flag name for validator HTTP server port](https://github.com/OffchainLabs/prysm/pull/15236#pullrequestreview-2889203119) - 2025-06-02
+* [Comment] [Comment on PR: Replace multiple `--<network>` flags by an unique `--network=<network>` flag](https://github.com/OffchainLabs/prysm/pull/15047#issuecomment-2931539000) - 2025-06-02
+* [Comment] [Comment on PR: Add a `--fork` flag to all relevant prysmctl commands](https://github.com/OffchainLabs/prysm/pull/15048#issuecomment-2931473849) - 2025-06-02
+* [Review Comment] [Review comment on: chore: Address TODO to use ROBlock ](https://github.com/OffchainLabs/prysm/pull/15193#discussion_r2121627213) - 2025-06-02
+* [Review Comment] [Review comment on: chore: Address TODO to use ROBlock ](https://github.com/OffchainLabs/prysm/pull/15193#discussion_r2121625894) - 2025-06-02
+* [Review] [Review on: chore: Address TODO to use ROBlock ](https://github.com/OffchainLabs/prysm/pull/15193#pullrequestreview-2889128533) - 2025-06-02
+* [Review Comment] [Review comment on: chore: Address TODO to use ROBlock ](https://github.com/OffchainLabs/prysm/pull/15193#discussion_r2121627594) - 2025-06-02
+* [Review Comment] [Review comment on: chore: Address TODO to use ROBlock ](https://github.com/OffchainLabs/prysm/pull/15193#discussion_r2121626145) - 2025-06-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm team contact info](https://github.com/ethereum/pm/pull/1484) - 2025-04-17
 ## Q1 2025

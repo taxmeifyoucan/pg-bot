@@ -77,6 +77,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Issue] [Use SSZ by default for VC <--> BN requests](https://github.com/OffchainLabs/prysm/issues/15317) - 2025-05-23
 * [Issue] [Implement state diffs in the database](https://github.com/OffchainLabs/prysm/issues/15316) - 2025-05-23
 * [Issue] [Implement state diffs in the database](https://github.com/OffchainLabs/prysm/issues/15315) - 2025-05-23
+* [Issue] [Inconsistent response of `/eth/v1/beacon/states/{state_id}/committees` when slot not in epoch](https://github.com/OffchainLabs/prysm/issues/15355) - 2025-06-02
+* [Pull Request] [Fix `getEpochCommittees` when slot not in given epoch](https://github.com/OffchainLabs/prysm/pull/15356) - 2025-06-02
+* [Comment] [Comment on PR: Fix `getEpochCommittees` when slot not in given epoch](https://github.com/OffchainLabs/prysm/pull/15356#issuecomment-2930872609) - 2025-06-02
+* [Review] [Review on: Fix `getEpochCommittees` when slot not in given epoch](https://github.com/OffchainLabs/prysm/pull/15356#pullrequestreview-2888550977) - 2025-06-02
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

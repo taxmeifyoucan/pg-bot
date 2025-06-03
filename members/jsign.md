@@ -108,6 +108,38 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [change params](https://github.com/ethereum/execution-spec-tests/commit/618d733e582e0e74ae57e5e75b65966517862489) - 2025-06-02
 * [Commit] [fixes](https://github.com/ethereum/execution-spec-tests/commit/1b842cabc8eb1b6d6ecb71404f06f791f6548d58) - 2025-06-02
 * [Pull Request] [zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698) - 2025-06-02
+* [Issue] [Create Blockchain tests that contain 0-parameter set opcodes that consume the whole block](https://github.com/ethereum/execution-spec-tests/issues/1651) - 2025-06-02
+* [Comment] [Comment on PR: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#issuecomment-2932778329) - 2025-06-02
+* [Issue] [zkEVM chores](https://github.com/ethereum/execution-spec-tests/issues/1704) - 2025-06-02
+* [Comment] [Comment on PR: zkevm: add temp memory opcodes](https://github.com/ethereum/execution-spec-tests/pull/1671#issuecomment-2932758289) - 2025-06-02
+* [Comment] [Comment on PR: zkevm: add SELFDESTRUCT coverage](https://github.com/ethereum/execution-spec-tests/pull/1678#issuecomment-2932757306) - 2025-06-02
+* [Commit] [nit](https://github.com/ethereum/execution-spec-tests/commit/1521f712efffc0acf0410ec7a1fb9e959962c7ee) - 2025-06-02
+* [Review Comment] [Review comment on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#discussion_r2122279779) - 2025-06-02
+* [Review] [Review on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#pullrequestreview-2890120290) - 2025-06-02
+* [Review Comment] [Review comment on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#discussion_r2122278775) - 2025-06-02
+* [Review] [Review on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#pullrequestreview-2890118740) - 2025-06-02
+* [Commit] [separate RETURNDATASIZE tests](https://github.com/ethereum/execution-spec-tests/commit/c615f2c118dc358485fd61f6f2a14e6a4ab96f88) - 2025-06-02
+* [Review Comment] [Review comment on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#discussion_r2122089901) - 2025-06-02
+* [Review] [Review on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#pullrequestreview-2889835718) - 2025-06-02
+* [Review Comment] [Review comment on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#discussion_r2121969627) - 2025-06-02
+* [Review] [Review on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#pullrequestreview-2889653759) - 2025-06-02
+* [Review Comment] [Review comment on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#discussion_r2121608698) - 2025-06-02
+* [Review] [Review on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#pullrequestreview-2889102490) - 2025-06-02
+* [Review Comment] [Review comment on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#discussion_r2121606795) - 2025-06-02
+* [Review] [Review on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#pullrequestreview-2889099282) - 2025-06-02
+* [Review Comment] [Review comment on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#discussion_r2121603585) - 2025-06-02
+* [Review] [Review on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#pullrequestreview-2889094514) - 2025-06-02
+* [Review Comment] [Review comment on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#discussion_r2121597452) - 2025-06-02
+* [Review] [Review on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#pullrequestreview-2889084220) - 2025-06-02
+* [Review Comment] [Review comment on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#discussion_r2121595065) - 2025-06-02
+* [Review] [Review on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#pullrequestreview-2889080233) - 2025-06-02
+* [Review Comment] [Review comment on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#discussion_r2121592390) - 2025-06-02
+* [Review] [Review on: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#pullrequestreview-2889076216) - 2025-06-02
+* [Comment] [Comment on PR: zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698#issuecomment-2931102279) - 2025-06-02
+* [Comment] [Comment on PR: feat(zkevm): add zero params set opcode test](https://github.com/ethereum/execution-spec-tests/pull/1694#issuecomment-2930764187) - 2025-06-02
+* [Review Comment] [Review comment on: zkevm: add SELFDESTRUCT coverage](https://github.com/ethereum/execution-spec-tests/pull/1678#discussion_r2121127090) - 2025-06-02
+* [Review] [Review on: zkevm: add SELFDESTRUCT coverage](https://github.com/ethereum/execution-spec-tests/pull/1678#pullrequestreview-2888370056) - 2025-06-02
+* [Comment] [Comment on PR: feat(zkevm): add zero params set opcode test](https://github.com/ethereum/execution-spec-tests/pull/1694#issuecomment-2930659994) - 2025-06-02
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

@@ -32,6 +32,16 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/commit/17e03d62d1ee4ec91b410a6291b8e06299e51343) - 2025-06-02
 * [Issue] [Parent block header blob values not accessed correctly](https://github.com/ethereum/execution-specs/issues/1259) - 2025-06-02
 * [Commit] [improve MessageCallGas doc and naming](https://github.com/ethereum/execution-specs/commit/d8a436073f8667bf4d3513260315dcc090bddd05) - 2025-06-02
+* [Comment] [Comment on PR: Implement EIP-7823](https://github.com/ethereum/execution-specs/pull/1227#issuecomment-2931988361) - 2025-06-02
+* [Pull Request] [Implement EIP-7823](https://github.com/ethereum/execution-specs/pull/1227) - 2025-06-02
+* [Comment] [Comment on PR: Implement EIP-7825](https://github.com/ethereum/execution-specs/pull/1229#issuecomment-2931987662) - 2025-06-02
+* [Pull Request] [Implement EIP-7825](https://github.com/ethereum/execution-specs/pull/1229) - 2025-06-02
+* [Comment] [Comment on PR: Implement EIP-7883](https://github.com/ethereum/execution-specs/pull/1226#issuecomment-2931986622) - 2025-06-02
+* [Pull Request] [Implement EIP-7883](https://github.com/ethereum/execution-specs/pull/1226) - 2025-06-02
+* [Comment] [Comment on PR: Implement EIP-7918](https://github.com/ethereum/execution-specs/pull/1230#issuecomment-2931985362) - 2025-06-02
+* [Pull Request] [Implement EIP-7918](https://github.com/ethereum/execution-specs/pull/1230) - 2025-06-02
+* [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-06-02
+* [Review] [Review on: fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233#pullrequestreview-2889026884) - 2025-06-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 
@@ -47,6 +57,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [add hyperlink  (#9686)](https://github.com/ethereum/EIPs/commit/2322185ff9e4f5790ed2d38a675f47c32c553c2b) - 2025-05-27
 * [Commit] [Update EIP-649: update All Core Devs links for consistency (#9652)](https://github.com/ethereum/EIPs/commit/4302e97065a320559d2b5250054a9ce2c2436423) - 2025-05-27
 * [Commit] [Update EIP-7636: Modify author to reflect recent github account renaming (#9631)](https://github.com/ethereum/EIPs/commit/74d4c9f79ee01fe42d530f5f8ef138a00bfce8df) - 2025-05-27
+* [Review Comment] [Review comment on: Add EIP: Precompile for secp256r1 Curve Support](https://github.com/ethereum/EIPs/pull/9833#discussion_r2122165226) - 2025-06-02
+* [Review] [Review on: Add EIP: Precompile for secp256r1 Curve Support](https://github.com/ethereum/EIPs/pull/9833#pullrequestreview-2889951015) - 2025-06-02
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

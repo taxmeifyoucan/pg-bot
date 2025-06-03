@@ -39,6 +39,7 @@ Team: Nethermind
 * [Commit] [use stats results](https://github.com/NethermindEth/nethermind/commit/2db022f2c5ce13515d442655deb38314b95536f9) - 2025-06-02
 * [Commit] [remove testing artifacts](https://github.com/NethermindEth/nethermind/commit/e184b80c1f8b161564c5749442d2433c2d414561) - 2025-06-02
 * [Commit] [Add simple way to fetch analyse and compile Contracts on deman in Tests](https://github.com/NethermindEth/nethermind/commit/ed7d0ff93534caf8e7dceb0b7cf22389e4fc5dca) - 2025-06-02
+* [Commit] [added filters to playground test](https://github.com/NethermindEth/nethermind/commit/0c81cc524408abdf9d7e675d7997afc4a67fa60c) - 2025-06-03
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

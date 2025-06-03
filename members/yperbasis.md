@@ -205,6 +205,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [implement EIP-7918: Blob base fee bounded by execution cos](https://github.com/erigontech/erigon/commit/2ccaa2988ddef2917225dca896df8adb23077c7b) - 2025-06-02
 * [Commit] [Introduce GetTargetBlobsPerBlock](https://github.com/erigontech/erigon/commit/74f9cc7de46a45c5e83cd2d701ac29b0c816c23d) - 2025-06-02
 * [Commit] [qa-tests: update rpc test bisection tool (#15320)](https://github.com/erigontech/erigon/commit/cf77e6cee42d1e00c29ac929dd7c0a0d308c3998) - 2025-06-02
+* [Review] [Review on: [pick] jsonrpc: Add `acc.IsEmptyCodeHash` check in GetCode (#15360)](https://github.com/erigontech/erigon/pull/15409#pullrequestreview-2888917871) - 2025-06-02
+* [Create] [Created branch: yperbasis/EIP-7825](https://github.com/erigontech/erigon/tree/yperbasis/EIP-7825) - 2025-06-02
+* [Pull Request] [Revert "Less verbose go tests (ci too crowded) (#15238)"](https://github.com/erigontech/erigon/pull/15400) - 2025-06-02
+* [Comment] [Comment on PR: jsonrpc: Add `acc.IsEmptyCodeHash` check in GetCode](https://github.com/erigontech/erigon/pull/15360#issuecomment-2930625563) - 2025-06-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

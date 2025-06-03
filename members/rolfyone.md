@@ -43,8 +43,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [investigate differences in the minimal preset](https://github.com/Consensys/teku/issues/9483) - 2025-05-23
 * [Pull Request] [Added error for genesis state not matching latest block header](https://github.com/Consensys/teku/pull/9482) - 2025-05-23
 
+* [Review Comment] [Review comment on: Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510#discussion_r2122237557) - 2025-06-02
+* [Review] [Review on: Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510#pullrequestreview-2890060406) - 2025-06-02
+* [Review] [Review on: Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510#pullrequestreview-2890050712) - 2025-06-02
+* [Review Comment] [Review comment on: Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510#discussion_r2122202769) - 2025-06-02
+* [Review] [Review on: Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510#pullrequestreview-2890007164) - 2025-06-02
+* [Review Comment] [Review comment on: Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510#discussion_r2122200253) - 2025-06-02
+* [Review] [Review on: Update RustKZG with Deneb CKZG functions](https://github.com/Consensys/teku/pull/9510#pullrequestreview-2890003355) - 2025-06-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [added get_bpo_fork_version function](https://github.com/ethereum/consensus-specs/pull/4343) - 2025-05-29
+* [Review Comment] [Review comment on: Modify fork digest to distinguish BPO forks + add entry to ENR](https://github.com/ethereum/consensus-specs/pull/4354#discussion_r2122145047) - 2025-06-02
+* [Review] [Review on: Modify fork digest to distinguish BPO forks + add entry to ENR](https://github.com/ethereum/consensus-specs/pull/4354#pullrequestreview-2889921526) - 2025-06-02
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -188,6 +188,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Make commonBlockBodyPromise required](https://github.com/ChainSafe/lodestar/commit/f5a7d56aaeeaf42f7954009e9f82ea1825f37fa3) - 2025-06-02
 * [Commit] [fix: remove arm check (#7897)](https://github.com/ChainSafe/lodestar/commit/9f5ab00bab35c8d84ece5b184485aa13f81fab7c) - 2025-06-02
 * [Commit] [Deduplicate "hasher" in warning message](https://github.com/ChainSafe/lodestar/commit/048c4d0517292a982ccd958ad3db85800082f020) - 2025-06-02
+* [Issue] [getStateValidators does not dedupe validators](https://github.com/ChainSafe/lodestar/issues/5271) - 2025-06-02
+* [Pull Request] [fix: update Beacon api impl to enforce unique array](https://github.com/ChainSafe/lodestar/pull/7875) - 2025-06-02
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -36,6 +36,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [refactor(tests/zkevm): downgrade to state tests](https://github.com/ethereum/execution-spec-tests/pull/1660) - 2025-05-27
 * [Pull Request] [feat(tests/zkevm): add worst-case benchmarks for `ADDMOD` and `MULMOD`](https://github.com/ethereum/execution-spec-tests/pull/1659) - 2025-05-27
 * [Pull Request] [feat(tests): add more worst-case modexp benchmarks](https://github.com/ethereum/execution-spec-tests/pull/1701) - 2025-06-02
+* [Comment] [Comment on PR: feat(tests): add more worst-case modexp benchmarks](https://github.com/ethereum/execution-spec-tests/pull/1701#issuecomment-2931341464) - 2025-06-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-5450,EIP-4750: Change to max_stack_increase](https://github.com/ethereum/EIPs/pull/9600) - 2025-04-04
 * [Pull Request] [Update EIP-5450: Expand on block ordering](https://github.com/ethereum/EIPs/pull/9599) - 2025-04-04

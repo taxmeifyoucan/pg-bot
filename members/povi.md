@@ -45,6 +45,7 @@ Team: Grandine
 * [Commit] [Update consensus spec tests to v1.5.0](https://github.com/grandinetech/grandine/commit/558422abfb682b4663f94ad57f106f48916e53c6) - 2025-05-28
 * [Commit] [Skip participating in aggregation duty if chain head is not fully verified by execution engine](https://github.com/grandinetech/grandine/commit/38c4787ca401b5f70110f97db774acfabad36f88) - 2025-06-02
 * [Pull Request] [Skip participating in aggregation duty if chain head is not fully verified by execution engine](https://github.com/grandinetech/grandine/pull/218) - 2025-06-02
+* [Review] [Review on: Add SSZ support to attestation apis](https://github.com/grandinetech/grandine/pull/216#pullrequestreview-2888491295) - 2025-06-02
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

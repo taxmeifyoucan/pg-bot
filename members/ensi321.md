@@ -59,8 +59,24 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: bump package versions to 1.30.0](https://github.com/ChainSafe/lodestar/commit/123eb2d9fb71dd10076a47bc7787bf4ec40343da) - 2025-05-27
 * [Commit] [chore: correct labels of gossipsub_iwant_promise_delivery_seconds metrics (#7878)](https://github.com/ChainSafe/lodestar/commit/af282209374621bd7d28159ae0e45802a4a38814) - 2025-05-30
 * [Pull Request] [feat: add EIP-7917 deterministic proposer lookahead](https://github.com/ChainSafe/lodestar/pull/7902) - 2025-06-02
+* [Review Comment] [Review comment on: feat: integrate ethspecify updates and add docs and check script](https://github.com/ChainSafe/lodestar/pull/7861#discussion_r2122541022) - 2025-06-03
+* [Review Comment] [Review comment on: feat: integrate ethspecify updates and add docs and check script](https://github.com/ChainSafe/lodestar/pull/7861#discussion_r2122547055) - 2025-06-03
+* [Review] [Review on: feat: integrate ethspecify updates and add docs and check script](https://github.com/ChainSafe/lodestar/pull/7861#pullrequestreview-2890454889) - 2025-06-03
+* [Commit] [fix build](https://github.com/ChainSafe/lodestar/commit/5ab4adf9f1f97f1fe121c1688517de5969c42a6e) - 2025-06-02
+* [Commit] [Fix build](https://github.com/ChainSafe/lodestar/commit/f71b3a63e17ea4d57f98f4d093394a7075ee4f56) - 2025-06-02
+* [Commit] [fix types](https://github.com/ChainSafe/lodestar/commit/7607a93992dac5ff994e8a46b6d92a2ce809e496) - 2025-06-02
+* [Commit] [Change to vector](https://github.com/ChainSafe/lodestar/commit/95118ac1d5cb0f96fcccf6d0715cbdcb9a3d7fc0) - 2025-06-02
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review Comment] [Review comment on: Modify fork digest to distinguish BPO forks + add entry to ENR](https://github.com/ethereum/consensus-specs/pull/4354#discussion_r2122474923) - 2025-06-03
+* [Review] [Review on: Modify fork digest to distinguish BPO forks + add entry to ENR](https://github.com/ethereum/consensus-specs/pull/4354#pullrequestreview-2890372874) - 2025-06-03
+* [Review] [Review on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#pullrequestreview-2890326040) - 2025-06-03
+* [Review Comment] [Review comment on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#discussion_r2122153861) - 2025-06-02
+* [Review] [Review on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#pullrequestreview-2889935370) - 2025-06-02
+* [Review Comment] [Review comment on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#discussion_r2122013493) - 2025-06-02
+* [Review] [Review on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#pullrequestreview-2889719507) - 2025-06-02
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

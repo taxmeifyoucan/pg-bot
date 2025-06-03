@@ -55,3 +55,16 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Issue] [Remove generics on `OpExecutorBuilder`](https://github.com/paradigmxyz/reth/issues/16599) - 2025-06-02
 * [Commit] [feat(optimism): Replace `OpAddOns` requirement of `OpChainSpec` with a `OpHardforks` trait bound (#16577)](https://github.com/paradigmxyz/reth/commit/da68416a2652801bb9b58006486906a4bde60c74) - 2025-06-02
 * [Commit] [Update crates/optimism/evm/src/execute.rs](https://github.com/paradigmxyz/reth/commit/22770e64582a8bfa9fc2a95da5325b87386decfb) - 2025-06-02
+* [Review Comment] [Review comment on: refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607#discussion_r2121929413) - 2025-06-02
+* [Review Comment] [Review comment on: refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607#discussion_r2121925563) - 2025-06-02
+* [Review Comment] [Review comment on: refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607#discussion_r2121923674) - 2025-06-02
+* [Review Comment] [Review comment on: refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607#discussion_r2121925210) - 2025-06-02
+* [Review] [Review on: refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607#pullrequestreview-2889585567) - 2025-06-02
+* [Review Comment] [Review comment on: refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607#discussion_r2121919736) - 2025-06-02
+* [Review] [Review on: refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607#pullrequestreview-2889579773) - 2025-06-02
+* [Pull Request] [fix(era): Use the `url` as the index page for HTTP hosts](https://github.com/paradigmxyz/reth/pull/16555) - 2025-06-02
+* [Review] [Review on: fix(era): Use the `url` as the index page for HTTP hosts](https://github.com/paradigmxyz/reth/pull/16555#pullrequestreview-2889505021) - 2025-06-02
+* [Review] [Review on: feat(stages): Add ERA pre-merge history import stage](https://github.com/paradigmxyz/reth/pull/16008#pullrequestreview-2887802429) - 2025-06-02
+* [Review] [Review on: refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607#pullrequestreview-2889211701) - 2025-06-02
+* [Pull Request] [refactor: replace generics with Node types for `OpExecutorBuilder`](https://github.com/paradigmxyz/reth/pull/16601) - 2025-06-02
+* [Pull Request] [feat(optimism): Remove bounds on `EthChainSpec` and `Hardforks` for `ChainSpec` in the `evm` crate](https://github.com/paradigmxyz/reth/pull/16576) - 2025-06-02

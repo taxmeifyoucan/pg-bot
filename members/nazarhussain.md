@@ -123,6 +123,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update db repository names](https://github.com/ChainSafe/lodestar/commit/05a7b9796ac36448d16702fd5981a5679baffdc1) - 2025-06-02
 * [Commit] [Update metric file name](https://github.com/ChainSafe/lodestar/commit/46cdd177f6d770b991ebbdfdde21afb2f3817ceb) - 2025-06-02
 * [Commit] [Update the metrics to use historical state transition metrics](https://github.com/ChainSafe/lodestar/commit/7ee4f920909fe92453848ec18c7ccd39b69daa0f) - 2025-06-02
+* [Pull Request] [refactor: move historical state metrics to separate module](https://github.com/ChainSafe/lodestar/pull/7876) - 2025-06-02
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

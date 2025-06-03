@@ -90,6 +90,28 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [TxParser: Add signature validation, keep errors in 1 line](https://github.com/NethermindEth/nethermind/pull/8706) - 2025-05-28
 * [Commit] [TxParser add chain id validation (#8709)](https://github.com/NethermindEth/nethermind/commit/e98b5454b8a5980cddc2aab1203977dc78f4a54c) - 2025-05-29
 * [Commit] [Use async batch explicitly](https://github.com/NethermindEth/nethermind/commit/b672a416208d34b001645ce9dea5dcd0c960e06f) - 2025-06-02
+* [Review Comment] [Review comment on: Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727#discussion_r2123222056) - 2025-06-03
+* [Review] [Review on: Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727#pullrequestreview-2891435865) - 2025-06-03
+* [Review] [Review on: Surface acceptTx on sync via config](https://github.com/NethermindEth/nethermind/pull/8728#pullrequestreview-2891243885) - 2025-06-03
+* [Review] [Review on: Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727#pullrequestreview-2891070279) - 2025-06-03
+* [Review Comment] [Review comment on: Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727#discussion_r2122982640) - 2025-06-03
+* [Review Comment] [Review comment on: Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727#discussion_r2122979914) - 2025-06-03
+* [Review Comment] [Review comment on: Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727#discussion_r2122974239) - 2025-06-03
+* [Review Comment] [Review comment on: Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727#discussion_r2122976016) - 2025-06-03
+* [Review Comment] [Review comment on: Improve JumpDest analysis](https://github.com/NethermindEth/nethermind/pull/8725#discussion_r2122960892) - 2025-06-03
+* [Review Comment] [Review comment on: Improve JumpDest analysis](https://github.com/NethermindEth/nethermind/pull/8725#discussion_r2122964702) - 2025-06-03
+* [Review] [Review on: Improve JumpDest analysis](https://github.com/NethermindEth/nethermind/pull/8725#pullrequestreview-2890959211) - 2025-06-03
+* [Review Comment] [Review comment on: Improve JumpDest analysis](https://github.com/NethermindEth/nethermind/pull/8725#discussion_r2122965450) - 2025-06-03
+* [Review Comment] [Review comment on: Improve JumpDest analysis](https://github.com/NethermindEth/nethermind/pull/8725#discussion_r2122910175) - 2025-06-03
+* [Review Comment] [Review comment on: Improve JumpDest analysis](https://github.com/NethermindEth/nethermind/pull/8725#discussion_r2122966039) - 2025-06-03
+* [Review Comment] [Review comment on: Improve JumpDest analysis](https://github.com/NethermindEth/nethermind/pull/8725#discussion_r2122907315) - 2025-06-03
+* [Review] [Review on: Adjust steps to support delayed genesis building](https://github.com/NethermindEth/nethermind/pull/8726#pullrequestreview-2890949360) - 2025-06-03
+* [Review Comment] [Review comment on: Adjust steps to support delayed genesis building](https://github.com/NethermindEth/nethermind/pull/8726#discussion_r2122900836) - 2025-06-03
+* [Review Comment] [Review comment on: Adjust steps to support delayed genesis building](https://github.com/NethermindEth/nethermind/pull/8726#discussion_r2122900585) - 2025-06-03
+* [Review] [Review on: Adjust steps to support delayed genesis building](https://github.com/NethermindEth/nethermind/pull/8726#pullrequestreview-2890948978) - 2025-06-03
+* [Review Comment] [Review comment on: Adjust steps to support delayed genesis building](https://github.com/NethermindEth/nethermind/pull/8726#discussion_r2121470273) - 2025-06-02
+* [Review Comment] [Review comment on: Adjust steps to support delayed genesis building](https://github.com/NethermindEth/nethermind/pull/8726#discussion_r2121468865) - 2025-06-02
+* [Review] [Review on: Adjust steps to support delayed genesis building](https://github.com/NethermindEth/nethermind/pull/8726#pullrequestreview-2888895806) - 2025-06-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

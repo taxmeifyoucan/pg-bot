@@ -95,6 +95,24 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [formatting](https://github.com/NethermindEth/nethermind/commit/6f54a3c0bb849a812386a2bd9273cc697a1bd252) - 2025-06-02
 * [Commit] [fix test](https://github.com/NethermindEth/nethermind/commit/782eccc289674db19fcf7459f51cd6de6ec9a021) - 2025-06-02
 * [Commit] [todo IL building](https://github.com/NethermindEth/nethermind/commit/f3ead602b1095ef76dd714edcaa03baee40ec5c0) - 2025-06-02
+* [Commit] [tidy, disable txsdecoder parallelism](https://github.com/NethermindEth/nethermind/commit/4809fca4138f4d19eaab1354f6bf7c1f4090d76f) - 2025-06-03
+* [Commit] [Refactor/Consolidate ISealEngine. (#8705)](https://github.com/NethermindEth/nethermind/commit/df270c6607216465a05946e66a81d46c4a530c93) - 2025-06-03
+* [Commit] [move asOrdered](https://github.com/NethermindEth/nethermind/commit/fae7077e1827134e93c9d94978b2f8b986e638b4) - 2025-06-03
+* [Commit] [prewarm IL tx sender addresses](https://github.com/NethermindEth/nethermind/commit/9d0ecc70f71908e75fa920e905301c97f86aaf1d) - 2025-06-03
+* [Review Comment] [Review comment on: Implement EIP-7805 (FOCIL)](https://github.com/NethermindEth/nethermind/pull/8003#discussion_r2122386819) - 2025-06-03
+* [Review] [Review on: Implement EIP-7805 (FOCIL)](https://github.com/NethermindEth/nethermind/pull/8003#pullrequestreview-2890264790) - 2025-06-03
+* [Commit] [formatting](https://github.com/NethermindEth/nethermind/commit/c7906c1a3def74adf3e2ef7fd54b7c3f524cf4f2) - 2025-06-03
+* [Commit] [only expose build count](https://github.com/NethermindEth/nethermind/commit/96e1574ba3b3272c52afd3bb914bc30ed1abe711) - 2025-06-03
+* [Review Comment] [Review comment on: Implement EIP-7805 (FOCIL)](https://github.com/NethermindEth/nethermind/pull/8003#discussion_r2122375553) - 2025-06-03
+* [Review] [Review on: Implement EIP-7805 (FOCIL)](https://github.com/NethermindEth/nethermind/pull/8003#pullrequestreview-2890249966) - 2025-06-03
+* [Review Comment] [Review comment on: Implement EIP-7805 (FOCIL)](https://github.com/NethermindEth/nethermind/pull/8003#discussion_r2122349819) - 2025-06-02
+* [Review] [Review on: Implement EIP-7805 (FOCIL)](https://github.com/NethermindEth/nethermind/pull/8003#pullrequestreview-2890216662) - 2025-06-02
+* [Review Comment] [Review comment on: Implement EIP-7805 (FOCIL)](https://github.com/NethermindEth/nethermind/pull/8003#discussion_r2122345042) - 2025-06-02
+* [Review] [Review on: Implement EIP-7805 (FOCIL)](https://github.com/NethermindEth/nethermind/pull/8003#pullrequestreview-2890210848) - 2025-06-02
+* [Commit] [set IL txs in execution payload, recover later](https://github.com/NethermindEth/nethermind/commit/35631207c0161b03d6ce2835564467b08bdf3f58) - 2025-06-02
+* [Review Comment] [Review comment on: Implement EIP-7805 (FOCIL)](https://github.com/NethermindEth/nethermind/pull/8003#discussion_r2121795593) - 2025-06-02
+* [Review] [Review on: Implement EIP-7805 (FOCIL)](https://github.com/NethermindEth/nethermind/pull/8003#pullrequestreview-2889396637) - 2025-06-02
+* [Comment] [Comment on PR: EIP-7762: increase minimum blob base fee](https://github.com/NethermindEth/nethermind/pull/7602#issuecomment-2931707399) - 2025-06-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12
@@ -105,6 +123,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-7788: Move to withdrawn](https://github.com/ethereum/EIPs/pull/9837) - 2025-05-28
 * [Pull Request] [Update EIP-7943: Move to review](https://github.com/ethereum/EIPs/pull/9836) - 2025-05-28
 * [Pull Request] [Update EIP-7805: Link Execution API specs](https://github.com/ethereum/EIPs/pull/9851) - 2025-06-02
+* [Review] [Review on: Update EIP-7805: IL building algorithm](https://github.com/ethereum/EIPs/pull/9396#pullrequestreview-2889379837) - 2025-06-02
+* [Review Comment] [Review comment on: Update EIP-7805: IL building algorithm](https://github.com/ethereum/EIPs/pull/9396#discussion_r2121784472) - 2025-06-02
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

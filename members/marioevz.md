@@ -142,6 +142,23 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [[DO NOT MERGE] Debug coverage](https://github.com/ethereum/execution-spec-tests/pull/1661) - 2025-05-27
 * [Commit] [debug change](https://github.com/ethereum/execution-spec-tests/commit/49926d925962fd2efc525ff57846343c43e4df6b) - 2025-05-27
 * [Commit] [fix correct path](https://github.com/ethereum/execution-spec-tests/commit/37cea2d1f880f3ba25d0d8485b54fb9b413ce692) - 2025-06-02
+* [Comment] [Comment on PR: feat(tests): update eip-4844 to align with eip-7918](https://github.com/ethereum/execution-spec-tests/pull/1685#issuecomment-2933232009) - 2025-06-03
+* [Comment] [Comment on PR: feat(tests): Update benchmark test to query newly introduced `max_code_size()` from fork config](https://github.com/ethereum/execution-spec-tests/pull/1649#issuecomment-2933024181) - 2025-06-03
+* [Review Comment] [Review comment on: feat(tests): eip-7883 & eip-7823 modexp cases ](https://github.com/ethereum/execution-spec-tests/pull/1579#discussion_r2122344151) - 2025-06-02
+* [Review] [Review on: feat(tests): eip-7883 & eip-7823 modexp cases ](https://github.com/ethereum/execution-spec-tests/pull/1579#pullrequestreview-2890209769) - 2025-06-02
+* [Commit] [fix(tests/eip7823): Make tests compatible with 7825](https://github.com/ethereum/execution-spec-tests/commit/5f91be93392e755249d69c0b09a3f262cd25dbbd) - 2025-06-02
+* [Review Comment] [Review comment on: feat(tests): eip-7883 & eip-7823 modexp cases ](https://github.com/ethereum/execution-spec-tests/pull/1579#discussion_r2122272037) - 2025-06-02
+* [Review] [Review on: feat(tests): eip-7883 & eip-7823 modexp cases ](https://github.com/ethereum/execution-spec-tests/pull/1579#pullrequestreview-2890109130) - 2025-06-02
+* [Review] [Review on: feat(tests): add more worst-case modexp benchmarks](https://github.com/ethereum/execution-spec-tests/pull/1701#pullrequestreview-2890011336) - 2025-06-02
+* [Review Comment] [Review comment on: feat(tests): add RIP-7212 for secp256r1 curve](https://github.com/ethereum/execution-spec-tests/pull/1670#discussion_r2122159640) - 2025-06-02
+* [Review] [Review on: feat(tests): add RIP-7212 for secp256r1 curve](https://github.com/ethereum/execution-spec-tests/pull/1670#pullrequestreview-2889943199) - 2025-06-02
+* [Review Comment] [Review comment on: feat(tests): add RIP-7212 for secp256r1 curve](https://github.com/ethereum/execution-spec-tests/pull/1670#discussion_r2122110186) - 2025-06-02
+* [Review Comment] [Review comment on: feat(tests): add RIP-7212 for secp256r1 curve](https://github.com/ethereum/execution-spec-tests/pull/1670#discussion_r2122152961) - 2025-06-02
+* [Review Comment] [Review comment on: feat(tests): add RIP-7212 for secp256r1 curve](https://github.com/ethereum/execution-spec-tests/pull/1670#discussion_r2122136002) - 2025-06-02
+* [Review Comment] [Review comment on: feat(tests): add RIP-7212 for secp256r1 curve](https://github.com/ethereum/execution-spec-tests/pull/1670#discussion_r2122149057) - 2025-06-02
+* [Review Comment] [Review comment on: feat(tests): add RIP-7212 for secp256r1 curve](https://github.com/ethereum/execution-spec-tests/pull/1670#discussion_r2122129190) - 2025-06-02
+* [Review] [Review on: feat(tests): add RIP-7212 for secp256r1 curve](https://github.com/ethereum/execution-spec-tests/pull/1670#pullrequestreview-2889867569) - 2025-06-02
+* [Commit] [docs: Move checklist guide to `writing_tests`](https://github.com/ethereum/execution-spec-tests/commit/ea3b8195bdf7ef2ec11c961e28c43551f9c2ae95) - 2025-06-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

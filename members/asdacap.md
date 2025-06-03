@@ -198,6 +198,25 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Moved unit tests to use IWorldState instead of ITrieStore](https://github.com/NethermindEth/nethermind/pull/8724) - 2025-06-02
 * [Commit] [Fix full pruning](https://github.com/NethermindEth/nethermind/commit/682c199838d0f7e8e120d2ce0c8e17720d986eb4) - 2025-06-02
 * [Commit] [Feature/snapsync storage log (#8675)](https://github.com/NethermindEth/nethermind/commit/1a88db2987e372d7b6b67f6c3600a3dc8d183a52) - 2025-06-02
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/314ee7173fdbceeadf021fad994f07163669b434) - 2025-06-03
+* [Review] [Review on: Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727#pullrequestreview-2891146040) - 2025-06-03
+* [Review Comment] [Review comment on: Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727#discussion_r2123027046) - 2025-06-03
+* [Commit] [Update src/Nethermind/Nethermind.Consensus/NoBlockProducerRunner.cs](https://github.com/NethermindEth/nethermind/commit/f701f0b674e97d78417b4dbfb7105f6c4ead9a19) - 2025-06-03
+* [Review Comment] [Review comment on: Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727#discussion_r2123024607) - 2025-06-03
+* [Review] [Review on: Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727#pullrequestreview-2891142758) - 2025-06-03
+* [Commit] [Update src/Nethermind/Nethermind.Api/NethermindApi.cs](https://github.com/NethermindEth/nethermind/commit/9e0baff2e02ac29e74320843b9c9db7824eedea3) - 2025-06-03
+* [Create] [Created branch: feature/step-dependents](https://github.com/NethermindEth/nethermind/tree/feature/step-dependents) - 2025-06-03
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/6523db6db82950dd36d4d9dcda8057fe821d4e5f) - 2025-06-03
+* [Commit] [Fix taiko](https://github.com/NethermindEth/nethermind/commit/9edf095f9e7ee8cb2351bc63a2da0c52d0b43e57) - 2025-06-03
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/7d2d2f3f967183006d5d8e752f229aae2e3cba68) - 2025-06-03
+* [Pull Request] [Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727) - 2025-06-03
+* [Commit] [Reduce unnecessary change](https://github.com/NethermindEth/nethermind/commit/fa4c96e80dc81d8b7bc382a37e0a86b5832c7ac4) - 2025-06-03
+* [Create] [Created branch: cleanur/remove-create-heath-hint-service](https://github.com/NethermindEth/nethermind/tree/cleanur/remove-create-heath-hint-service) - 2025-06-03
+* [Pull Request] [Refactor/Consolidate ISealEngine.](https://github.com/NethermindEth/nethermind/pull/8705) - 2025-06-03
+* [Commit] [Use less allocating .ToValueHash than .ToBigEndian (#8713)](https://github.com/NethermindEth/nethermind/commit/23ed82dbe3c1a0539c8d70fc9c5c9481ac5fc41a) - 2025-06-03
+* [Commit] [Set to global seal engine](https://github.com/NethermindEth/nethermind/commit/8ea3b29d7b84bf83ffe4a4c2df123c402b564f7f) - 2025-06-03
+* [Comment] [Comment on PR: fix: regenerate receipt bloom when Erigon sends zero bloom with non-empty logs](https://github.com/NethermindEth/nethermind/pull/8682#issuecomment-2930542360) - 2025-06-02
+* [Create] [Created branch: refactor/make-test-use-worldstate](https://github.com/NethermindEth/nethermind/tree/refactor/make-test-use-worldstate) - 2025-06-02
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

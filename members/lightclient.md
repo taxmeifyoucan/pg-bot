@@ -32,6 +32,8 @@ Team: Geth
 * [Pull Request] [Clarify read ops](https://github.com/ethereum/EIPs/pull/9775) - 2025-05-14
 
 * [Commit] [Update EIP-6110: ensure ints are decoded as uints (#9784)](https://github.com/ethereum/EIPs/commit/6eaa4f9873d3470258c9040431509b13120fbacb) - 2025-05-20
+* [Review Comment] [Review comment on: Add EIP: Precompile for secp256r1 Curve Support](https://github.com/ethereum/EIPs/pull/9833#discussion_r2122143919) - 2025-06-02
+* [Review] [Review on: Add EIP: Precompile for secp256r1 Curve Support](https://github.com/ethereum/EIPs/pull/9833#pullrequestreview-2889919733) - 2025-06-02
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [add .idea/ dir to ignore list (#643)](https://github.com/ethereum/execution-apis/commit/15399c2e2f16a5f800bf3f285640357e2c245ad9) - 2025-05-14
 * [Commit] [Update README (#645)](https://github.com/ethereum/execution-apis/commit/de5554849b65755e1780ce92f4052d4744538c1e) - 2025-05-14

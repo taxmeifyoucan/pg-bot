@@ -25,6 +25,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Clarify that HistoricalSummaries must be from finalized state](https://github.com/ethereum/portal-network-specs/pull/402) - 2025-05-12
 * [Commit] [Clarify that HistoricalSummaries must be from finalized state (#402)](https://github.com/ethereum/portal-network-specs/commit/1764e22df2d9a1d9a4f58de6290fcb7d67d203df) - 2025-05-13
 * [Commit] [Address review feedback](https://github.com/ethereum/portal-network-specs/commit/b3ae4cd07ed2f169259f9e7a0c7a3e7ead8714e0) - 2025-05-13
+* [Comment] [Comment on PR: Add additional metadata to the JSON-RPC portal_*PutContent response](https://github.com/ethereum/portal-network-specs/pull/406#issuecomment-2931085776) - 2025-06-02
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Adjust tests for supporting SSZ vector Capella and Deneb HWP](https://github.com/status-im/nimbus-eth1/pull/3240) - 2025-04-25
 
@@ -68,6 +69,18 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Portal bridge: fixes and refactor beacon bridge](https://github.com/status-im/nimbus-eth1/commit/f8648166dcb70f2a36dcdaa779de3e6176aa6384) - 2025-05-26
 * [Commit] [Disable testutp CI job until it gets fixed (#3336)](https://github.com/status-im/nimbus-eth1/commit/60072e55538e81191fdd26b4bbfa0cc64700115c) - 2025-05-27
 * [Pull Request] [Disable testutp CI job until it gets fixed](https://github.com/status-im/nimbus-eth1/pull/3336) - 2025-05-27
+* [Review Comment] [Review comment on: Portal client: Add accept metadata to neighborhood/random gossip and PutContent JSON-RPC endpoints](https://github.com/status-im/nimbus-eth1/pull/3342#discussion_r2121367539) - 2025-06-02
+* [Review] [Review on: Portal client: Add accept metadata to neighborhood/random gossip and PutContent JSON-RPC endpoints](https://github.com/status-im/nimbus-eth1/pull/3342#pullrequestreview-2888741118) - 2025-06-02
+* [Review Comment] [Review comment on: proxy: add blocks support](https://github.com/status-im/nimbus-eth1/pull/3338#discussion_r2121353865) - 2025-06-02
+* [Review Comment] [Review comment on: proxy: add blocks support](https://github.com/status-im/nimbus-eth1/pull/3338#discussion_r2121347130) - 2025-06-02
+* [Review Comment] [Review comment on: proxy: add blocks support](https://github.com/status-im/nimbus-eth1/pull/3338#discussion_r2121218165) - 2025-06-02
+* [Review Comment] [Review comment on: proxy: add blocks support](https://github.com/status-im/nimbus-eth1/pull/3338#discussion_r2121236811) - 2025-06-02
+* [Review Comment] [Review comment on: proxy: add blocks support](https://github.com/status-im/nimbus-eth1/pull/3338#discussion_r2121328322) - 2025-06-02
+* [Review Comment] [Review comment on: proxy: add blocks support](https://github.com/status-im/nimbus-eth1/pull/3338#discussion_r2121324981) - 2025-06-02
+* [Review Comment] [Review comment on: proxy: add blocks support](https://github.com/status-im/nimbus-eth1/pull/3338#discussion_r2121248566) - 2025-06-02
+* [Review Comment] [Review comment on: proxy: add blocks support](https://github.com/status-im/nimbus-eth1/pull/3338#discussion_r2121311496) - 2025-06-02
+* [Review Comment] [Review comment on: proxy: add blocks support](https://github.com/status-im/nimbus-eth1/pull/3338#discussion_r2121236499) - 2025-06-02
+* [Review] [Review on: proxy: add blocks support](https://github.com/status-im/nimbus-eth1/pull/3338#pullrequestreview-2888513821) - 2025-06-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28

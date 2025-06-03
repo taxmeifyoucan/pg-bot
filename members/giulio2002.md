@@ -231,6 +231,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/72ef4a3497fefc1192a2c8386c3825923d3de839) - 2025-06-02
 * [Pull Request] [E3: Fix receipts dangling from reorged blocks](https://github.com/erigontech/erigon/pull/15401) - 2025-06-02
 * [Commit] [save](https://github.com/erigontech/erigon/commit/884885a42ebf9ad7c298c02df6076dc6d901d5b9) - 2025-06-02
+* [Create] [Created branch: docker_fix-receipts-issue](https://github.com/erigontech/erigon/tree/docker_fix-receipts-issue) - 2025-06-02
+* [Comment] [Comment on Issue: eth_getTransactionReceipt returns incorrect blockHash after reorg that changes initial block height](https://github.com/erigontech/erigon/issues/15334#issuecomment-2930453865) - 2025-06-02
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

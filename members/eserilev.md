@@ -24,6 +24,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Next sync committee branch bug](https://github.com/sigp/lighthouse/pull/7443) - 2025-05-12
 * [Issue] [`Box` inside `BeaconChainError`](https://github.com/sigp/lighthouse/issues/7473) - 2025-05-16
 * [Pull Request] [Rust clippy 1.87 lint fixes](https://github.com/sigp/lighthouse/pull/7471) - 2025-05-16
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Comment] [Comment on PR: Add additional `get_proposer_head` test coverage ](https://github.com/ethereum/consensus-specs/pull/3633#issuecomment-2932712092) - 2025-06-02
+* [Pull Request] [Add additional `get_proposer_head` test coverage ](https://github.com/ethereum/consensus-specs/pull/3633) - 2025-06-02
+* [Review Comment] [Review comment on: Add EIP-7805 (FOCIL) Tests](https://github.com/ethereum/consensus-specs/pull/4351#discussion_r2121583193) - 2025-06-02
+* [Review] [Review on: Add EIP-7805 (FOCIL) Tests](https://github.com/ethereum/consensus-specs/pull/4351#pullrequestreview-2889061116) - 2025-06-02
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

@@ -96,6 +96,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Markdown to SpecObject refactoring (#4330)](https://github.com/ethereum/consensus-specs/commit/868d9fb5a0398943c03725247c99fda58e8a8fba) - 2025-05-28
 * [Pull Request] [Move blob schedule / get_max_blobs_per_block() to beacon-chain.md](https://github.com/ethereum/consensus-specs/pull/4353) - 2025-06-02
 * [Pull Request] [Change SHOULD NOT to MAY for custody backfill](https://github.com/ethereum/consensus-specs/pull/4352) - 2025-06-02
+* [Commit] [Add repo input to reftest generator action (#4356)](https://github.com/ethereum/consensus-specs/commit/1ff0d2728ec65e9ce63cfd1aa7e2f045d8146787) - 2025-06-03
+* [Pull Request] [Add repo input to reftest generator action](https://github.com/ethereum/consensus-specs/pull/4356) - 2025-06-03
+* [Commit] [Bump the actions group with 4 updates (#4355)](https://github.com/ethereum/consensus-specs/commit/796c278c8694602c5e52b991656009cd83947fbd) - 2025-06-02
+* [Pull Request] [Bump the actions group with 4 updates](https://github.com/ethereum/consensus-specs/pull/4355) - 2025-06-02
+* [Review Comment] [Review comment on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#discussion_r2122300112) - 2025-06-02
+* [Review] [Review on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#pullrequestreview-2890150170) - 2025-06-02
+* [Review] [Review on: Bump the actions group with 4 updates](https://github.com/ethereum/consensus-specs/pull/4355#pullrequestreview-2890115952) - 2025-06-02
+* [Comment] [Comment on PR: Move blob schedule / get_max_blobs_per_block() to beacon-chain.md](https://github.com/ethereum/consensus-specs/pull/4353#issuecomment-2931761638) - 2025-06-02
+* [Comment] [Comment on PR: Change SHOULD NOT to MAY for custody backfill](https://github.com/ethereum/consensus-specs/pull/4352#issuecomment-2931186877) - 2025-06-02
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 
@@ -103,6 +112,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Rename BlobSchedule to BlobScheduleEntry](https://github.com/Consensys/teku/pull/9509) - 2025-06-02
 * [Pull Request] [Fix nits in fulu code](https://github.com/Consensys/teku/pull/9508) - 2025-06-02
 * [Pull Request] [Fix block contents kzg proofs max length for fulu](https://github.com/Consensys/teku/pull/9506) - 2025-06-02
+
+* [Comment] [Comment on PR: Rename BlobSchedule to BlobScheduleEntry](https://github.com/Consensys/teku/pull/9509#issuecomment-2932109914) - 2025-06-02
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review Comment] [Review comment on: Update EIP-7892: harden the spec with p2p details.](https://github.com/ethereum/EIPs/pull/9840#discussion_r2121439558) - 2025-06-02
+* [Review] [Review on: Update EIP-7892: harden the spec with p2p details.](https://github.com/ethereum/EIPs/pull/9840#pullrequestreview-2888850706) - 2025-06-02
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

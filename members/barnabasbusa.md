@@ -25,6 +25,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update: EIP-7607: add deterministic proposer lookahead to scheduled](https://github.com/ethereum/EIPs/pull/9847) - 2025-06-02
+* [Comment] [Comment on PR: Update EIP-7892: harden the spec with p2p details.](https://github.com/ethereum/EIPs/pull/9840#issuecomment-2931697084) - 2025-06-02
+* [Review] [Review on: Update EIP-7892: harden the spec with p2p details.](https://github.com/ethereum/EIPs/pull/9840#pullrequestreview-2888857246) - 2025-06-02
+* [Review Comment] [Review comment on: Update EIP-7892: harden the spec with p2p details.](https://github.com/ethereum/EIPs/pull/9840#discussion_r2121444113) - 2025-06-02
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

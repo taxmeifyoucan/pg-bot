@@ -28,6 +28,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Issue] [Add static peers via beacon API using ENR](https://github.com/Consensys/teku/issues/9502) - 2025-05-30
 * [Pull Request] [[EIP-7917] Add deterministic proposer lookahead changes to Fulu](https://github.com/Consensys/teku/pull/9501) - 2025-05-30
 * [Commit] [Remove unused assignments (#9496)](https://github.com/Consensys/teku/commit/42568a5a50678a4a6bff24e8b587f4ee0c216f1f) - 2025-05-30
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review Comment] [Review comment on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#discussion_r2122756020) - 2025-06-03
+* [Review] [Review on: EIP-7917: Deterministic proposer lookahead](https://github.com/ethereum/consensus-specs/pull/4190#pullrequestreview-2890746495) - 2025-06-03
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)
