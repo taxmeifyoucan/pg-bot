@@ -142,6 +142,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [[DO NOT MERGE] Debug coverage](https://github.com/ethereum/execution-spec-tests/pull/1661) - 2025-05-27
 * [Commit] [debug change](https://github.com/ethereum/execution-spec-tests/commit/49926d925962fd2efc525ff57846343c43e4df6b) - 2025-05-27
 * [Commit] [fix correct path](https://github.com/ethereum/execution-spec-tests/commit/37cea2d1f880f3ba25d0d8485b54fb9b413ce692) - 2025-06-02
+* [Issue] [Force fork methods to use keyword arguments](https://github.com/ethereum/execution-spec-tests/issues/1709) - 2025-06-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

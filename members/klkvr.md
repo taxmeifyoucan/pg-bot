@@ -55,3 +55,5 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Issue] [Remove generics on `OpExecutorBuilder`](https://github.com/paradigmxyz/reth/issues/16599) - 2025-06-02
 * [Commit] [feat(optimism): Replace `OpAddOns` requirement of `OpChainSpec` with a `OpHardforks` trait bound (#16577)](https://github.com/paradigmxyz/reth/commit/da68416a2652801bb9b58006486906a4bde60c74) - 2025-06-02
 * [Commit] [Update crates/optimism/evm/src/execute.rs](https://github.com/paradigmxyz/reth/commit/22770e64582a8bfa9fc2a95da5325b87386decfb) - 2025-06-02
+* [Pull Request] [feat: make `NewBlock` message generic](https://github.com/paradigmxyz/reth/pull/16627) - 2025-06-03
+* [Commit] [feat: make NewBlock message generic](https://github.com/paradigmxyz/reth/commit/fda5f00bd2992d990e45ff84b56542a11117b45b) - 2025-06-03

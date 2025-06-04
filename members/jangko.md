@@ -77,3 +77,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Add test cases](https://github.com/status-im/nimbus-eth1/commit/73256a102337560d1d2bfe80b67ba6b719d9af47) - 2025-06-01
 * [Commit] [Raise ulimit to 2048Kb](https://github.com/status-im/nimbus-eth1/commit/d28851d7dc83bbb49c45c761b2f42e2d338fd487) - 2025-06-02
 * [Pull Request] [Remove not used EVMC flags from execution_client CI](https://github.com/status-im/nimbus-eth1/pull/3355) - 2025-06-02
+* [Commit] [fusaka-devnet-0: EIP-7594 related changes (cell proof) (#3353)](https://github.com/status-im/nimbus-eth1/commit/ee990259c0f8491ab285a102774aab5f53c308e9) - 2025-06-03
+* [Commit] [dang blob](https://github.com/status-im/nimbus-eth1/commit/789e30bbe2b90707509dc5d3abac3cd0f29247d1) - 2025-06-03
+* [Commit] [Oops](https://github.com/status-im/nimbus-eth1/commit/1d99c2eb923dfbb89e980dc42807ea7e2787c2ad) - 2025-06-03
+* [Commit] [Avoid blowing up the stack by converting blobs on heap](https://github.com/status-im/nimbus-eth1/commit/57c9568e1d7658b76121dfabcbed83831c74b46a) - 2025-06-03

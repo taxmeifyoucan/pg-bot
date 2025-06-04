@@ -25,6 +25,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update: EIP-7607: add deterministic proposer lookahead to scheduled](https://github.com/ethereum/EIPs/pull/9847) - 2025-06-02
+* [Pull Request] [Update EIP-7607: swap RIP-7212 with EIP-7951](https://github.com/ethereum/EIPs/pull/9854) - 2025-06-03
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

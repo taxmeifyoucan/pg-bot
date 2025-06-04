@@ -77,6 +77,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Issue] [Use SSZ by default for VC <--> BN requests](https://github.com/OffchainLabs/prysm/issues/15317) - 2025-05-23
 * [Issue] [Implement state diffs in the database](https://github.com/OffchainLabs/prysm/issues/15316) - 2025-05-23
 * [Issue] [Implement state diffs in the database](https://github.com/OffchainLabs/prysm/issues/15315) - 2025-05-23
+* [Issue] [Reduce API Type definitions in code base](https://github.com/OffchainLabs/prysm/issues/15376) - 2025-06-03
+* [Issue] [merge all api structs and api clients into one location](https://github.com/OffchainLabs/prysm/issues/15375) - 2025-06-03
+* [Issue] [Simplify and deduplicate prysm's type system](https://github.com/OffchainLabs/prysm/issues/15374) - 2025-06-03
+* [Issue] [Simplify engine API code with generated json methods](https://github.com/OffchainLabs/prysm/issues/15373) - 2025-06-03
+* [Issue] [Generate json ser/des code on methodical generated types](https://github.com/OffchainLabs/prysm/issues/15372) - 2025-06-03
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

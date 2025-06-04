@@ -102,6 +102,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Remove polygon sync stage (#15276)](https://github.com/erigontech/erigon/commit/3a88ef9a3ce5b01dd77104a44d3a718c04503e58) - 2025-06-01
 * [Commit] [upgrade fulu](https://github.com/erigontech/erigon/commit/735520cf8c8d9e9920b48f578389a45e7112a45f) - 2025-06-01
 * [Commit] [kzg pkg](https://github.com/erigontech/erigon/commit/7f2be37db479861445dbb06d50aeb58a007b1592) - 2025-06-02
+* [Commit] [retire: more merge threads (#15377)](https://github.com/erigontech/erigon/commit/3d22a3a9d250d194adcd182cb1130a2071017e8e) - 2025-06-03
+* [Commit] [merkle proof](https://github.com/erigontech/erigon/commit/a0c8256f516dc1efc938b68a0f631d7a0bed2d17) - 2025-06-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -166,6 +166,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [Update crates/optimism/node/src/node.rs](https://github.com/paradigmxyz/reth/commit/78f97e4754abfaf298d477f502163da61908fd80) - 2025-06-02
 * [Pull Request] [refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/pull/16607) - 2025-06-02
 * [Commit] [refactor: extract common pool setup logic for Eth and Op nodes](https://github.com/paradigmxyz/reth/commit/e743cded35fa21b4dcf4e2ed50ebac370fa0ea56) - 2025-06-02
+* [Commit] [remove uneeded bound](https://github.com/paradigmxyz/reth/commit/925cbcfc692dff71f953d74ddfb5da19a6feb33c) - 2025-06-03
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/daedcab802a7c69b2550c68ac4d8f01ba91cd152) - 2025-06-03
+* [Commit] [test(e2e): set test_state_root_fallback for deep reorg test (#16573)](https://github.com/paradigmxyz/reth/commit/e19271b9ddd299aa9fa65d7a3d0a71ab05b05d11) - 2025-06-03
+* [Commit] [Apply suggestions from code review](https://github.com/paradigmxyz/reth/commit/5bdb41cdeacf993d6f78d9871456981a50273246) - 2025-06-03
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

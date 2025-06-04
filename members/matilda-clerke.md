@@ -17,3 +17,4 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Issue] [History expiry docs](https://github.com/hyperledger/besu/issues/8651) - 2025-05-20
 * [Commit] [feat: implement EIP-7642 eth/69 subprotocol (#8519)](https://github.com/hyperledger/besu/commit/e51b676091eacb5aa64dff24de0c46989ff5c2d9) - 2025-05-23
 * [Commit] [8337 modify chain data pruner (#8506)](https://github.com/hyperledger/besu/commit/1e084c7e88927fd65a9fbe68504066b2a741ad35) - 2025-05-29
+* [Pull Request] [Modify era1blockimporter to mimic full import](https://github.com/hyperledger/besu/pull/8733) - 2025-06-03

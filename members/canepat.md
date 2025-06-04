@@ -53,3 +53,6 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [ci: re-enable failing tests after PR 12907](https://github.com/erigontech/erigon/pull/15380) - 2025-05-31
 * [Commit] [qa_tests: execute RPC tests in parallel (#15363)](https://github.com/erigontech/erigon/commit/40bf1ebe7e0c5916df15922fb98468aa181ceec0) - 2025-05-31
 * [Commit] [rpcdaemon: add support BlockOverrides for debug_traceCall() (#15379)](https://github.com/erigontech/erigon/commit/5d4ebb149a86736abb3ba3a0a1eb4af3a941a0a6) - 2025-06-02
+* [Issue] [freezeblocks : panic: db closed](https://github.com/erigontech/erigon/issues/15427) - 2025-06-03
+* [Issue] [TestDump: failing on macOS](https://github.com/erigontech/erigon/issues/15425) - 2025-06-03
+* [Commit] [qa-tests: re-enable polygon tip tracking test (#15366)](https://github.com/erigontech/erigon/commit/e07e176c8d1a803b854b4c5457c6bf538eb6b855) - 2025-06-03

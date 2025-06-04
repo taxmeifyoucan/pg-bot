@@ -130,6 +130,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Added HistoryStartFrom to pb](https://github.com/erigontech/erigon/pull/15396) - 2025-06-02
 * [Pull Request] [more dirtyFilesLocks to add](https://github.com/erigontech/erigon/pull/15395) - 2025-06-02
 * [Commit] [fix for heimdall integrity (#15381)](https://github.com/erigontech/erigon/commit/3c7d55c77516f538105dec391b1e1fe87ea43767) - 2025-06-02
+* [Commit] [domain.findMergeRange: unit-tests (#15394)](https://github.com/erigontech/erigon/commit/3cc201d3eaba6ec9fa6d0debfebf0d7ef2e7aa9d) - 2025-06-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

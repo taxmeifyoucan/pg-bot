@@ -39,6 +39,10 @@ Team: Nethermind
 * [Commit] [use stats results](https://github.com/NethermindEth/nethermind/commit/2db022f2c5ce13515d442655deb38314b95536f9) - 2025-06-02
 * [Commit] [remove testing artifacts](https://github.com/NethermindEth/nethermind/commit/e184b80c1f8b161564c5749442d2433c2d414561) - 2025-06-02
 * [Commit] [Add simple way to fetch analyse and compile Contracts on deman in Tests](https://github.com/NethermindEth/nethermind/commit/ed7d0ff93534caf8e7dceb0b7cf22389e4fc5dca) - 2025-06-02
+* [Commit] [Add simple way to fetch analyse and compile Contracts on deman in Tests](https://github.com/NethermindEth/nethermind/commit/ed7d0ff93534caf8e7dceb0b7cf22389e4fc5dca) - 2025-06-03
+* [Commit] [deactivate tests artifact in InitBlockchain](https://github.com/NethermindEth/nethermind/commit/d750bae4e19303e9c50e39a1b646a286f4d824b0) - 2025-06-03
+* [Commit] [vm execution test that runs WrappedEth transaction](https://github.com/NethermindEth/nethermind/commit/f31686fd0a6cf6ddaadda9784a7044141562fe70) - 2025-06-03
+* [Commit] [added filters to playground test](https://github.com/NethermindEth/nethermind/commit/0c81cc524408abdf9d7e675d7997afc4a67fa60c) - 2025-06-03
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

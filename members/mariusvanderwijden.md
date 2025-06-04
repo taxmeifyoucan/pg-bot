@@ -44,6 +44,9 @@ Team: Geth
 * [Pull Request] [core/rawdb: reduce allocations in rawdb.ReadHeaderNumber](https://github.com/ethereum/go-ethereum/pull/31913) - 2025-05-28
 * [Pull Request] [core/types: reduce allocations for transaction comparison](https://github.com/ethereum/go-ethereum/pull/31912) - 2025-05-28
 * [Pull Request] [eth/catalyst: fetch header on forkchoiceUpdated](https://github.com/ethereum/go-ethereum/pull/31928) - 2025-05-29
+* [Pull Request] [eth/catalyst: use atomics instead of locks](https://github.com/ethereum/go-ethereum/pull/31955) - 2025-06-03
+* [Commit] [eth/catalyst: add getBlobs metrics](https://github.com/ethereum/go-ethereum/commit/3a5577c044478839cb70e09c4792fb2e3c4eef3c) - 2025-06-03
+* [Commit] [eth/catalyst: add getBlobs metrics](https://github.com/ethereum/go-ethereum/commit/3e5f753d9db9e4753712fd27d27687987283e1cc) - 2025-06-03
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

@@ -36,7 +36,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [refactor(tests/zkevm): downgrade to state tests](https://github.com/ethereum/execution-spec-tests/pull/1660) - 2025-05-27
 * [Pull Request] [feat(tests/zkevm): add worst-case benchmarks for `ADDMOD` and `MULMOD`](https://github.com/ethereum/execution-spec-tests/pull/1659) - 2025-05-27
 * [Pull Request] [feat(tests): add more worst-case modexp benchmarks](https://github.com/ethereum/execution-spec-tests/pull/1701) - 2025-06-02
+* [Commit] [feat(tests/zkevm): add two more benchmarks for DIV and SDIV (#1708)](https://github.com/ethereum/execution-spec-tests/commit/351c4a1fd10a4b241e4ea1c7301d91783ebc4553) - 2025-06-03
+* [Commit] [feat(tests/zkevm): add worst-case benchmarks for `ADDMOD` and `MULMOD` (#1659)](https://github.com/ethereum/execution-spec-tests/commit/72df3f5bc2b35e94f8e23b1293a3fb01b7cfabe4) - 2025-06-03
+* [Pull Request] [feat(tests): add two more benchmarks for DIV and SDIV](https://github.com/ethereum/execution-spec-tests/pull/1708) - 2025-06-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-5450,EIP-4750: Change to max_stack_increase](https://github.com/ethereum/EIPs/pull/9600) - 2025-04-04
 * [Pull Request] [Update EIP-5450: Expand on block ordering](https://github.com/ethereum/EIPs/pull/9599) - 2025-04-04
 * [Pull Request] [Update EIP-5450: Metion SPIR-V, fix typos.](https://github.com/ethereum/EIPs/pull/9598) - 2025-04-04
+* [Pull Request] [Update EIP-7883: Assume minimal base/mod length of 32](https://github.com/ethereum/EIPs/pull/9855) - 2025-06-03

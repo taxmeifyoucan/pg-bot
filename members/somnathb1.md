@@ -170,6 +170,13 @@ Team: Erigon
 * [Pull Request] [Makefile: make sed work with mac and linux](https://github.com/erigontech/erigon/pull/15403) - 2025-06-02
 * [Commit] [purify_domain to use agg and build indexes after done (#15298)](https://github.com/erigontech/erigon/commit/4000e12717d863531dbed4ae05b31c238a6976cc) - 2025-06-02
 * [Commit] [Fix Comment relevance](https://github.com/erigontech/erigon/commit/5f107d7834fcfa03090c18e560f26c84ea0175c4) - 2025-06-02
+* [Commit] [Use a smaller dockerfile by default (#15364)](https://github.com/erigontech/erigon/commit/64226708a4bb256d0d5bede5ea1940b7fc006a8d) - 2025-06-03
+* [Pull Request] [core/state: fix missed part in test, for failing linter](https://github.com/erigontech/erigon/pull/15421) - 2025-06-03
+* [Commit] [Remove unused](https://github.com/erigontech/erigon/commit/7a89b9d62d913197ead792ca3b916c6e63ddd971) - 2025-06-03
+* [Pull Request] [engineapi, txpool: implement getBlobsV2](https://github.com/erigontech/erigon/pull/15420) - 2025-06-03
+* [Commit] [engineapi, txpool: implement getBlobsV2](https://github.com/erigontech/erigon/commit/4623d0b4e4a3484ee2919137059c06974a1f2873) - 2025-06-03
+* [Commit] [Cleanup getblobsv2](https://github.com/erigontech/erigon/commit/a9762a00ce67381e6fa915c7f2294cb7f52cae5b) - 2025-06-03
+* [Pull Request] [Makefile: Add fusaka maker](https://github.com/erigontech/erigon/pull/15419) - 2025-06-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

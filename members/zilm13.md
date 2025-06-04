@@ -24,6 +24,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Add logging on DataColumnSidecars recovery failure (#9486)](https://github.com/Consensys/teku/commit/c32dc4df3914bcd17c88ac3ab8c2830ee5bf639f) - 2025-05-27
 * [Issue] [Use byRange RPC requests in syncing in PeerDAS](https://github.com/Consensys/teku/issues/9490) - 2025-05-28
 * [Pull Request] [Throttle muxer exceptions](https://github.com/Consensys/teku/pull/9507) - 2025-06-02
+* [Commit] [Update RustKZG with Deneb CKZG functions (#9510)](https://github.com/Consensys/teku/commit/52c088f93f1b2b7bfa7f8b4dbd5871f7d573ae47) - 2025-06-03
+* [Issue] [Consider switching to RustKZG as far as library provides complete implementation](https://github.com/Consensys/teku/issues/9511) - 2025-06-03
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

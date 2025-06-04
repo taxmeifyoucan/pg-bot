@@ -88,6 +88,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: debug unit test for BlockInput blob timing](https://github.com/ChainSafe/lodestar/commit/a8319f45f110bd9a3dfb6a4f92937447a873214f) - 2025-05-27
 * [Pull Request] [fix: default to as-sha256 if no chip support for AVX](https://github.com/ChainSafe/lodestar/pull/7887) - 2025-05-28
 * [Pull Request] [fix: remove arm check](https://github.com/ChainSafe/lodestar/pull/7897) - 2025-05-31
+* [Commit] [chore: check-types](https://github.com/ChainSafe/lodestar/commit/d70dab2e5727c123e0297748810d21ea24bde00a) - 2025-06-03
+* [Pull Request] [Mkeil/merge unstable to peer das june3](https://github.com/ChainSafe/lodestar/pull/7905) - 2025-06-03
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

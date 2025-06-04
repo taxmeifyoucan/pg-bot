@@ -32,6 +32,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/commit/17e03d62d1ee4ec91b410a6291b8e06299e51343) - 2025-06-02
 * [Issue] [Parent block header blob values not accessed correctly](https://github.com/ethereum/execution-specs/issues/1259) - 2025-06-02
 * [Commit] [improve MessageCallGas doc and naming](https://github.com/ethereum/execution-specs/commit/d8a436073f8667bf4d3513260315dcc090bddd05) - 2025-06-02
+* [Commit] [fix: type 4 transaction accessed address addition in wrong place (#1255)](https://github.com/ethereum/execution-specs/commit/fe1b7d1210f4a4f596dd905e3d2fb96e1c07dbd0) - 2025-06-03
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 

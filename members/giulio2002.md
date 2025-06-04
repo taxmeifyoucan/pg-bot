@@ -231,6 +231,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/72ef4a3497fefc1192a2c8386c3825923d3de839) - 2025-06-02
 * [Pull Request] [E3: Fix receipts dangling from reorged blocks](https://github.com/erigontech/erigon/pull/15401) - 2025-06-02
 * [Commit] [save](https://github.com/erigontech/erigon/commit/884885a42ebf9ad7c298c02df6076dc6d901d5b9) - 2025-06-02
+* [Pull Request] [Giulio/add diffset gen flag](https://github.com/erigontech/erigon/pull/15424) - 2025-06-03
+* [Commit] [params: version 3.1.0-dev (#13782)](https://github.com/erigontech/erigon/commit/03ea71633743b193b96732bd94a3bdca4a75fe15) - 2025-06-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

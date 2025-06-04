@@ -224,6 +224,13 @@ Team: Reth
 * [Pull Request] [ci: deduplicate Docker CI matrix members](https://github.com/paradigmxyz/reth/pull/16602) - 2025-06-02
 * [Commit] [ci: deduplicate Docker CI matrix members](https://github.com/paradigmxyz/reth/commit/5e9f784a3de535aec4bc39a1d97626be2336593b) - 2025-06-02
 * [Commit] [ci: deduplicate Docker CI matrix members](https://github.com/paradigmxyz/reth/commit/ea1b34f12b54fc610d9b9c09b7fd83fb8b638fa8) - 2025-06-02
+* [Commit] [add comment](https://github.com/paradigmxyz/reth/commit/83ea1d102c2217857633c0a08db47d4625e0e6b1) - 2025-06-03
+* [Commit] [add comment](https://github.com/paradigmxyz/reth/commit/49090da8693ca376cac90f27b4f33d7bba32af0b) - 2025-06-03
+* [Commit] [add reorgs chart](https://github.com/paradigmxyz/reth/commit/f1a8a34bb626434b7fbd0347c76ff663f7dc4fc9) - 2025-06-03
+* [Commit] [feat(examples): Replace `CustomConsensusBuilder` using `OpConsensusBuilder` with custom generics in `custom_node` example (#16560)](https://github.com/paradigmxyz/reth/commit/04144c5a4b94f6cf274cb9b9e17ffc3fe9fde201) - 2025-06-03
+* [Commit] [do not skip trie updates for blocks that have them and use state root task only when no missing trie updates](https://github.com/paradigmxyz/reth/commit/bec1d231435f1c2047651e9c0dac8819e54f571c) - 2025-06-03
+* [Pull Request] [chore(storage): fix docs overindent](https://github.com/paradigmxyz/reth/pull/16612) - 2025-06-03
+* [Commit] [use state root task only when no missing trie updates](https://github.com/paradigmxyz/reth/commit/50b30c68bac7f2ecd368b79eab4294560a4f5a0f) - 2025-06-03
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

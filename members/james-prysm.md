@@ -108,6 +108,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [adding some more unit tests](https://github.com/OffchainLabs/prysm/commit/8480b874b0a4951b0c67573589a4faa969242ac7) - 2025-06-02
 * [Commit] [PeerDAS: Implement blockchain. (#15350)](https://github.com/OffchainLabs/prysm/commit/a0060fa79480e9f72c571ff5c82a83e99243b579) - 2025-06-02
 * [Commit] [moving event channel and removing close channel there to prevent potential panic (#15359)](https://github.com/OffchainLabs/prysm/commit/711984d9428b3c721b90ff90a7106d78c36c66fe) - 2025-06-02
+* [Commit] [Validator: Remove early context cancellation. (#15369)](https://github.com/OffchainLabs/prysm/commit/91b44360fcd74bad41f38b79bb3b05094408a2d0) - 2025-06-03
+* [Commit] [removing redundant loop in computeOnChainAggregate (#15108)](https://github.com/OffchainLabs/prysm/commit/a50e981c7474b00fab67214f501f2e7c915b0028) - 2025-06-03
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

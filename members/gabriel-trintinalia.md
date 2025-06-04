@@ -76,6 +76,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [feat: implement EIP-7594 - PeerDAS (#8631)](https://github.com/hyperledger/besu/commit/472f16439372fbde84231ae62f56c5590a837b7d) - 2025-06-02
 * [Issue] [Use eth/69 for unit and acceptance tests](https://github.com/hyperledger/besu/issues/8728) - 2025-06-02
 * [Commit] [feat: remove chain head check if peer supports eth/69 (#8725)](https://github.com/hyperledger/besu/commit/ed1086d1a91eb7b3044b744d6a76e6dbdd6d2922) - 2025-06-02
+* [Commit] [fix(testing): wait for trusted setup to finish loading before running tests (#8735)](https://github.com/hyperledger/besu/commit/6b8ccbcfe06d4ed2f86b1e63957c558f89ac79b4) - 2025-06-03
+* [Pull Request] [fix(testing): wait for trusted setup to finish loading before running tests](https://github.com/hyperledger/besu/pull/8735) - 2025-06-03
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

@@ -16,6 +16,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update EIP-7916: Add `remerkleable` implementation and tests](https://github.com/ethereum/EIPs/pull/9597) - 2025-04-04
 * [Pull Request] [Update EIP-7495: Define interaction with EIP-7916 `ProgressiveList`](https://github.com/ethereum/EIPs/pull/9643) - 2025-04-15
 
+* [Pull Request] [Update EIP-7773: Add Pureth Meta to PFI](https://github.com/ethereum/EIPs/pull/9856) - 2025-06-03
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Cleanup libunwind remnants](https://github.com/status-im/nimbus-eth2/pull/7097) - 2025-04-22
 * [Commit] [Cleanup libunwind remnants](https://github.com/status-im/nimbus-eth2/commit/0bb4691a4893ccfc3068eb463bf25fe59b46ea43) - 2025-04-22

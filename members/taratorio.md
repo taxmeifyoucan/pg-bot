@@ -70,6 +70,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [polygon/sync: retry ExecutionModule.Ready when busy (#15286)](https://github.com/erigontech/erigon/commit/2a8b5267c71bdd28bff21dfbfc1b707bc92ff83d) - 2025-05-28
 * [Commit] [polygon/sync: fix inserts of new blocks when partially connected due to err (#15333)](https://github.com/erigontech/erigon/commit/03d2ee52d2b125309f5fd4de5873086deee3e9ce) - 2025-05-30
 * [Commit] [polygon/sync: tweak fetch blocks backwards timeout (#15328)](https://github.com/erigontech/erigon/commit/0f969d1c3b33c3729d5911e66a7ab3419b82cb4e) - 2025-05-30
+* [Issue] [caplin forward sync stuck on Sepolia - Failed to send beacon blocks by range request err](https://github.com/erigontech/erigon/issues/15422) - 2025-06-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

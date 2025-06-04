@@ -188,6 +188,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Make commonBlockBodyPromise required](https://github.com/ChainSafe/lodestar/commit/f5a7d56aaeeaf42f7954009e9f82ea1825f37fa3) - 2025-06-02
 * [Commit] [fix: remove arm check (#7897)](https://github.com/ChainSafe/lodestar/commit/9f5ab00bab35c8d84ece5b184485aa13f81fab7c) - 2025-06-02
 * [Commit] [Deduplicate "hasher" in warning message](https://github.com/ChainSafe/lodestar/commit/048c4d0517292a982ccd958ad3db85800082f020) - 2025-06-02
+* [Commit] [chore: add blob schedule to each network config (#7858)](https://github.com/ChainSafe/lodestar/commit/2b5494153805e62342d612c56fb508282c16fa50) - 2025-06-03
+* [Commit] [fix: do not throw error for non-hashtree hashers (#7896)](https://github.com/ChainSafe/lodestar/commit/141ab3625a0185b5664184a52294cd299aed5be5) - 2025-06-03
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

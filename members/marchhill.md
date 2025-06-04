@@ -95,6 +95,13 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [formatting](https://github.com/NethermindEth/nethermind/commit/6f54a3c0bb849a812386a2bd9273cc697a1bd252) - 2025-06-02
 * [Commit] [fix test](https://github.com/NethermindEth/nethermind/commit/782eccc289674db19fcf7459f51cd6de6ec9a021) - 2025-06-02
 * [Commit] [todo IL building](https://github.com/NethermindEth/nethermind/commit/f3ead602b1095ef76dd714edcaa03baee40ec5c0) - 2025-06-02
+* [Commit] [Improve JumpDest analysis (#8725)](https://github.com/NethermindEth/nethermind/commit/445670827c427ad21d4a174fbe42805c2ad654d2) - 2025-06-03
+* [Commit] [add delay in force rebuild test](https://github.com/NethermindEth/nethermind/commit/600812e6164dcd4ed2fa05010f3444e1a434f990) - 2025-06-03
+* [Commit] [fix RLP decoding exception handling](https://github.com/NethermindEth/nethermind/commit/36c94c14d1714e7889fffcd644f2ec905d798ab1) - 2025-06-03
+* [Commit] [tidy, disable txsdecoder parallelism](https://github.com/NethermindEth/nethermind/commit/4809fca4138f4d19eaab1354f6bf7c1f4090d76f) - 2025-06-03
+* [Commit] [Refactor/Consolidate ISealEngine. (#8705)](https://github.com/NethermindEth/nethermind/commit/df270c6607216465a05946e66a81d46c4a530c93) - 2025-06-03
+* [Commit] [move asOrdered](https://github.com/NethermindEth/nethermind/commit/fae7077e1827134e93c9d94978b2f8b986e638b4) - 2025-06-03
+* [Commit] [prewarm IL tx sender addresses](https://github.com/NethermindEth/nethermind/commit/9d0ecc70f71908e75fa920e905301c97f86aaf1d) - 2025-06-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

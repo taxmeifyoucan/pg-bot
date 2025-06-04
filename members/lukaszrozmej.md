@@ -90,6 +90,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [TxParser: Add signature validation, keep errors in 1 line](https://github.com/NethermindEth/nethermind/pull/8706) - 2025-05-28
 * [Commit] [TxParser add chain id validation (#8709)](https://github.com/NethermindEth/nethermind/commit/e98b5454b8a5980cddc2aab1203977dc78f4a54c) - 2025-05-29
 * [Commit] [Use async batch explicitly](https://github.com/NethermindEth/nethermind/commit/b672a416208d34b001645ce9dea5dcd0c960e06f) - 2025-06-02
+* [Commit] [logging and retries](https://github.com/NethermindEth/nethermind/commit/aae498510f47e322376161c8fcfc3cae6ab4b9e0) - 2025-06-03
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

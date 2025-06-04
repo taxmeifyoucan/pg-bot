@@ -173,6 +173,13 @@ Team: Erigon
 * [Commit] [rpcdaemon: stack-based json stream (#14994)](https://github.com/erigontech/erigon/commit/3d9e86635bae4ed25edf69e528fc4e482786c0f3) - 2025-06-02
 * [Commit] [Versioned IBS Implementation (#15387)](https://github.com/erigontech/erigon/commit/7c81a1d411b4a802ea5887c810590b9ea97bfa27) - 2025-06-02
 * [Commit] [make trace static](https://github.com/erigontech/erigon/commit/bf293c19948ead1dd7b05370d71b74ce7764fdd4) - 2025-06-02
+* [Commit] [Update CI hive-eest with latest fixtures (#15329)](https://github.com/erigontech/erigon/commit/4c3b4407fdcc7ca22da42fe0032d56f77d7e4125) - 2025-06-03
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/5504c66dc8a207c19a3e42826e45e9b2bd2ca4c5) - 2025-06-03
+* [Commit] [use locals](https://github.com/erigontech/erigon/commit/e061bf7d3d0c7f47300a4970065dd028e21f81a6) - 2025-06-03
+* [Commit] [revert unneeded](https://github.com/erigontech/erigon/commit/4b2519f6fa1bf5b5c89c9d5811c47c9163f29ce2) - 2025-06-03
+* [Commit] [remove unwanted](https://github.com/erigontech/erigon/commit/f9be62725b90b0136a44e9c4796cc5c515ad1e61) - 2025-06-03
+* [Commit] [use external tx](https://github.com/erigontech/erigon/commit/fe6d5b4db01675c67234988a83b6a3427b2014f6) - 2025-06-03
+* [Commit] [fix testdata](https://github.com/erigontech/erigon/commit/cb1e88d9b2f17a9bf1b16d86d7cffcf276c668eb) - 2025-06-03
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

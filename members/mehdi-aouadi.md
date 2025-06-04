@@ -31,6 +31,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [Update blocks ils](https://github.com/Consensys/teku/pull/9382) - 2025-04-29
 * [Pull Request] [remove unused --validators-proposer-blinded-blocks-enabled option](https://github.com/Consensys/teku/pull/9505) - 2025-06-02
 * [Pull Request] [Do not report ignored attestation performance](https://github.com/Consensys/teku/pull/9504) - 2025-06-02
+* [Pull Request] [deprecate unused validators-proposer-blinded-blocks-enabled option](https://github.com/Consensys/teku/pull/9512) - 2025-06-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add eip7805 presets](https://github.com/ethereum/consensus-specs/pull/4268) - 2025-04-14
 * [Pull Request] [move IL committee domain to constant](https://github.com/ethereum/consensus-specs/pull/4276) - 2025-04-17

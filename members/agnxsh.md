@@ -106,6 +106,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [add `getBlobsV2` and `payloadV5` (#7123)](https://github.com/status-im/nimbus-eth2/commit/7497790cd3e848c7e2582616ed95b3824a848bcd) - 2025-06-02
 * [Commit] [use newSeqOfCap](https://github.com/status-im/nimbus-eth2/commit/7f14ffcc3221e2da600d9006a0456963bc2ef4d3) - 2025-06-02
 * [Commit] [add: bpo parsing (#7195)](https://github.com/status-im/nimbus-eth2/commit/f3cf70c1b59e30f137aa59de96f96bce35a2ee2e) - 2025-06-02
+* [Commit] [Add peerDAS inclusion proof metric (#7153)](https://github.com/status-im/nimbus-eth2/commit/1ab7186e13c7e490052cecb21114bf1d9f6a4e9f) - 2025-06-03
+* [Commit] [Add peerDAS computation metric (#7205)](https://github.com/status-im/nimbus-eth2/commit/5ef6246156ca681fce66ae164e648ddb4a99c68c) - 2025-06-03
+* [Commit] [Add peerDAS kzg verification metrics (#7154)](https://github.com/status-im/nimbus-eth2/commit/39e49e1ea9def84588ada20849554bb3ef30c95d) - 2025-06-03
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

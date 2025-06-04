@@ -96,6 +96,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Markdown to SpecObject refactoring (#4330)](https://github.com/ethereum/consensus-specs/commit/868d9fb5a0398943c03725247c99fda58e8a8fba) - 2025-05-28
 * [Pull Request] [Move blob schedule / get_max_blobs_per_block() to beacon-chain.md](https://github.com/ethereum/consensus-specs/pull/4353) - 2025-06-02
 * [Pull Request] [Change SHOULD NOT to MAY for custody backfill](https://github.com/ethereum/consensus-specs/pull/4352) - 2025-06-02
+* [Commit] [Bump the actions group with 3 updates](https://github.com/ethereum/consensus-specs/commit/453214f0c6f705d12675ed64f9cd4e4d47d3df2d) - 2025-06-03
+* [Commit] [Replace black/pylint/isort with ruff (#4350)](https://github.com/ethereum/consensus-specs/commit/33e18203797dde473b6a4ca7bd1619fd27078cd1) - 2025-06-03
+* [Commit] [Validator custody: Increase only and optional dynamic backfill. (#4357)](https://github.com/ethereum/consensus-specs/commit/1c39288f730a9d207fa88eb3d201ed84d4f0f4ca) - 2025-06-03
+* [Commit] [EIP-7917: Deterministic proposer lookahead (#4190)](https://github.com/ethereum/consensus-specs/commit/43e716773d1829bfac2c4e82aeab8478fd27009d) - 2025-06-03
+* [Commit] [Add repo input to reftest generator action (#4356)](https://github.com/ethereum/consensus-specs/commit/1ff0d2728ec65e9ce63cfd1aa7e2f045d8146787) - 2025-06-03
+* [Pull Request] [Add repo input to reftest generator action](https://github.com/ethereum/consensus-specs/pull/4356) - 2025-06-03
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 
