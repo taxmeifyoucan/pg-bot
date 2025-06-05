@@ -24,6 +24,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Bump up the version to 1.33.0-unstable (#8533)](https://github.com/NethermindEth/nethermind/commit/d186adfa462dad452ea379a9dfd8d351a55c0787) - 2025-05-19
 * [Commit] [Sync OP chains after Isthmus (#8638)](https://github.com/NethermindEth/nethermind/commit/cd6a0865a5e2873fec336dcbef64b4bbe07b2854) - 2025-05-21
 * [Commit] [[Hoodi] Increase gas limit to 60M (#8386)](https://github.com/NethermindEth/nethermind/commit/3189d6456f268dfa8a28d2108382fca958d2ad82) - 2025-05-21
+* [Commit] [Bump to 1.32.0](https://github.com/NethermindEth/nethermind/commit/8aff0600b5c0f70b359e931a018315ee3ea1b4f7) - 2025-06-04
+* [Commit] [Surface acceptTx on sync via config (#8728)](https://github.com/NethermindEth/nethermind/commit/10ae566a72c0f2cf887522ef6679e14d4ef8cf7a) - 2025-06-04
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

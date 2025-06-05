@@ -30,6 +30,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [remove general state tests](https://github.com/ethereum/tests/pull/1491) - 2025-05-14
 * [Commit] [fill in sender field in legacy cancun tests](https://github.com/ethereum/tests/commit/c50d1c9b06d26004862028b852db2ec1608d6ab4) - 2025-05-28
 * [Pull Request] [refill invalid bc tests with tx sender](https://github.com/ethereum/tests/pull/1493) - 2025-05-28
+* [Commit] [refill invalid bc tests with tx sender](https://github.com/ethereum/tests/commit/2a6c2c16cd69755044a86d3175d438c9c4fd0e53) - 2025-06-04
+* [Commit] [update LegacyTests](https://github.com/ethereum/tests/commit/f74a890cc873af604ea78ffa7d9753ba06ade6de) - 2025-06-04
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [fix(fill --collect-only): allow running fill --collect-only even when fixtures folder does not exist (#1254)](https://github.com/ethereum/execution-spec-tests/commit/5242f8a27323345f0365c47edf48124ba8b21e30) - 2025-04-28
 * [Commit] [refactor with test program class](https://github.com/ethereum/execution-spec-tests/commit/2e849b3ddc445bf40525d46ccc4982948f1b3069) - 2025-04-29

@@ -108,6 +108,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [change params](https://github.com/ethereum/execution-spec-tests/commit/618d733e582e0e74ae57e5e75b65966517862489) - 2025-06-02
 * [Commit] [fixes](https://github.com/ethereum/execution-spec-tests/commit/1b842cabc8eb1b6d6ecb71404f06f791f6548d58) - 2025-06-02
 * [Pull Request] [zkevm: add 0-param opcodes coverage](https://github.com/ethereum/execution-spec-tests/pull/1698) - 2025-06-02
+* [Commit] [remove unused import](https://github.com/ethereum/execution-spec-tests/commit/edaa0346ba3b2d1aaf6b92dd0420759b819d32fd) - 2025-06-04
+* [Commit] [feat(tests/zkevm): memory opcodes (#1668)](https://github.com/ethereum/execution-spec-tests/commit/41a30cac5375211ef88c0a41d99212f4fc6aa718) - 2025-06-04
+* [Commit] [ fix(tests,eof): Specify Env(gas_limit) (#1677)](https://github.com/ethereum/execution-spec-tests/commit/43cbaac6f1efc3c641d5dd06eee90d3cc2edf90c) - 2025-06-04
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

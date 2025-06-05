@@ -206,6 +206,22 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/7d2d2f3f967183006d5d8e752f229aae2e3cba68) - 2025-06-03
 * [Pull Request] [Cleanur/remove create heath hint service](https://github.com/NethermindEth/nethermind/pull/8727) - 2025-06-03
 * [Commit] [Reduce unnecessary change](https://github.com/NethermindEth/nethermind/commit/fa4c96e80dc81d8b7bc382a37e0a86b5832c7ac4) - 2025-06-03
+* [Commit] [Fix tx blob deserialization after PeerDAS (#8729)](https://github.com/NethermindEth/nethermind/commit/18f4b0e9dc4f8f863e6937d204c01e5e2c81bd16) - 2025-06-04
+* [Commit] [Fix runner test (#8731)](https://github.com/NethermindEth/nethermind/commit/f848caee7dcd345e4907a1051d059009931eb9ea) - 2025-06-04
+* [Commit] [Move wait to `RegisterPluginRpcModule`](https://github.com/NethermindEth/nethermind/commit/c9c0752a2d0b2a3f25aa63d337ce6366a9ea4655) - 2025-06-04
+* [Commit] [Use semaphore](https://github.com/NethermindEth/nethermind/commit/44ceb3c039ae11f8cbf8614df564e7e3338a5ec3) - 2025-06-04
+* [Commit] [To interlocked](https://github.com/NethermindEth/nethermind/commit/5e9fd2eb5ca37ce5d0378306dba7746e441badd3) - 2025-06-04
+* [Commit] [Move unit tests to use IWorldState instead of ITrieStore (#8724)](https://github.com/NethermindEth/nethermind/commit/24b12b6b5d31ac0e8f15236b18caffc78fada354) - 2025-06-04
+* [Pull Request] [Fix runner test](https://github.com/NethermindEth/nethermind/pull/8731) - 2025-06-04
+* [Commit] [Fix runner test](https://github.com/NethermindEth/nethermind/commit/4daf66a32b07856f635e122311075516223cc5be) - 2025-06-04
+* [Commit] [Fix runner test](https://github.com/NethermindEth/nethermind/commit/ba1fafbbfe946fcecd35c7acc6af1c9f218b5cbd) - 2025-06-04
+* [Commit] [Update src/Nethermind/Nethermind.Core.Test/Blockchain/TestBlockchain.cs](https://github.com/NethermindEth/nethermind/commit/a90fe9d74646332c427a024776af7f9e07717228) - 2025-06-04
+* [Commit] [Update src/Nethermind/Nethermind.Core.Test/Blockchain/TestBlockchain.cs](https://github.com/NethermindEth/nethermind/commit/cb66bb74d19be076a06ac91d4e07b54c76ff4d6f) - 2025-06-04
+* [Commit] [Whhitespace](https://github.com/NethermindEth/nethermind/commit/4fd5a15b0eb0c353989c59862a9ff41d1cef3a16) - 2025-06-04
+* [Pull Request] [Refactor/use block producer env factory](https://github.com/NethermindEth/nethermind/pull/8730) - 2025-06-04
+* [Commit] [Unnecessary comment](https://github.com/NethermindEth/nethermind/commit/c4721548ef097fd9830f4a7044d17d8e879b597b) - 2025-06-04
+* [Commit] [Separate neth dev to another file](https://github.com/NethermindEth/nethermind/commit/d002507bb31e0c0c2d1391d710b437d8ed2bb0a7) - 2025-06-04
+* [Commit] [Better name](https://github.com/NethermindEth/nethermind/commit/dfce6f6cc9cd39428994d6a06179b5e81d2b2c12) - 2025-06-04
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

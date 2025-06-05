@@ -49,6 +49,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [print getAttestationsForBlock full time (#9479)](https://github.com/Consensys/teku/commit/1376bc9ee0db8aad15b09212e99477e11d9a6b49) - 2025-05-23
 * [Pull Request] [Include SA in block flow aggregation, when they are no aggregates in the group](https://github.com/Consensys/teku/pull/9487) - 2025-05-26
 * [Issue] [Defer block import while block production is in flight](https://github.com/Consensys/teku/issues/9488) - 2025-05-27
+* [Commit] [tiny simplification in BlockRewardCalculatorUtil (#9514)](https://github.com/Consensys/teku/commit/95a126e8cda4c628f0ac89d3f0ec66a2ec437d2b) - 2025-06-04
+* [Pull Request] [Tiny simplification in BlockRewardCalculatorUtil](https://github.com/Consensys/teku/pull/9514) - 2025-06-04
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

@@ -221,6 +221,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/fafee96b92092d5bad1fd35ce0635a3b39c8156f) - 2025-06-03
 * [Commit] [save](https://github.com/erigontech/erigon/commit/22c8f70b39cf6fdc0f0721c4bed9b50696eaf033) - 2025-06-03
 * [Commit] [save](https://github.com/erigontech/erigon/commit/bc553bd9e092a91d4d78d83d7c56ae1a5d26b772) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c5bb107fe8d5dac80b763b9ed21ec9c3d25b67d3) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/98730cf8204f3bfcb7a78f57a78b180acd22cb86) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/80b8757944459cf6587a8028f9c8f3ade2b9fddd) - 2025-06-04
+* [Commit] [Add error to GetHashFn & GetHeaderFn (#15344)](https://github.com/erigontech/erigon/commit/dd361b9973b9c63d07d088cd379036ebe19a6761) - 2025-06-04
+* [Pull Request] [Reading txs cmd: DO NOT MERGE](https://github.com/erigontech/erigon/pull/15439) - 2025-06-04
+* [Commit] [Use a smaller dockerfile by default (#15364)](https://github.com/erigontech/erigon/commit/64226708a4bb256d0d5bede5ea1940b7fc006a8d) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0340a469f08cdbae12a7ab3c359c5704df6ee421) - 2025-06-04
+* [Issue] [add support for CompressVals in seg.Reader](https://github.com/erigontech/erigon/issues/15438) - 2025-06-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

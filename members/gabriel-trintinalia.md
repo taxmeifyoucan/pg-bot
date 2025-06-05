@@ -78,6 +78,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [feat: remove chain head check if peer supports eth/69 (#8725)](https://github.com/hyperledger/besu/commit/ed1086d1a91eb7b3044b744d6a76e6dbdd6d2922) - 2025-06-02
 * [Commit] [fix(testing): wait for trusted setup to finish loading before running tests (#8735)](https://github.com/hyperledger/besu/commit/6b8ccbcfe06d4ed2f86b1e63957c558f89ac79b4) - 2025-06-03
 * [Pull Request] [fix(testing): wait for trusted setup to finish loading before running tests](https://github.com/hyperledger/besu/pull/8735) - 2025-06-03
+* [Commit] [[fusaka-devnet-1] enable eth/69 on devnet 1 (#8745)](https://github.com/hyperledger/besu/commit/991d95cddcb8b1e48f3f94d1191a831f41be370d) - 2025-06-04
+* [Pull Request] [[fusaka-devnet-1] enable eth/69 on devnet 1](https://github.com/hyperledger/besu/pull/8745) - 2025-06-04
+* [Commit] [Remove pay opcode for devnet 1 as it is target for devnet 2 (#8744)](https://github.com/hyperledger/besu/commit/30164b7807f14e339a8a229221e74a34ad27c6ec) - 2025-06-04
+* [Commit] [[fusaka-devnet-1] eip-7918 (#8743)](https://github.com/hyperledger/besu/commit/616e38eea84c8616a292d16caba2148b53fc650d) - 2025-06-04
+* [Pull Request] [[fusaka-devnet-1] Remove payopcode from devnet-1](https://github.com/hyperledger/besu/pull/8744) - 2025-06-04
+* [Pull Request] [[fusaka-devnet-1] eip-7918](https://github.com/hyperledger/besu/pull/8743) - 2025-06-04
+* [Pull Request] [[fusaka-devnet-1] eip-7918](https://github.com/hyperledger/besu/pull/8742) - 2025-06-04
+* [Commit] [[fusaka-devnet-1] - eip-7823 (#8741)](https://github.com/hyperledger/besu/commit/25546280932168837703b3e40cb82498cf253475) - 2025-06-04
+* [Pull Request] [[fusaka-devnet-1] - eip-7823](https://github.com/hyperledger/besu/pull/8741) - 2025-06-04
+* [Commit] [[fusaka-devnet-1] eip-7825 (#8740)](https://github.com/hyperledger/besu/commit/a988599fd0532915e16faa7a9a751d40253e4c3d) - 2025-06-04
+* [Pull Request] [[fusaka-devnet-1] eip-7825](https://github.com/hyperledger/besu/pull/8740) - 2025-06-04
+* [Commit] [chore: increase default gas cap to 100M (#8738)](https://github.com/hyperledger/besu/commit/711e0a7152df0a86d49bde09a6415157f08d793c) - 2025-06-04
+* [Pull Request] [chore: increase default gas cap to 100M](https://github.com/hyperledger/besu/pull/8738) - 2025-06-04
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

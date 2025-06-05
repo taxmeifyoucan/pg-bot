@@ -384,6 +384,12 @@ Team: Reth
 * [Commit] [refactor: relax `OpAddOns` trait bounds (#16582)](https://github.com/paradigmxyz/reth/commit/ca9f94cc7b024e8772b048578fcbc7542af2fada) - 2025-06-03
 * [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/16611) - 2025-06-03
 * [Commit] [docs(net): replace 404 link message.rs (#16597)](https://github.com/paradigmxyz/reth/commit/aab4d22786fbf48ae64ca2b48be76b44d24052f8) - 2025-06-03
+* [Pull Request] [chore: downgrade warn log](https://github.com/paradigmxyz/reth/pull/16649) - 2025-06-04
+* [Commit] [chore: make const](https://github.com/paradigmxyz/reth/commit/028168b88189ea691fc737bd1f4de1725b263728) - 2025-06-04
+* [Pull Request] [fix: check additional settings when enabling discv5](https://github.com/paradigmxyz/reth/pull/16643) - 2025-06-04
+* [Issue] [Include socketaddress in network discovery error](https://github.com/paradigmxyz/reth/issues/16642) - 2025-06-04
+* [Pull Request] [perf: use already recovered signer](https://github.com/paradigmxyz/reth/pull/16640) - 2025-06-04
+* [Issue] [Extend GasOracle implementation with a function that computes the median](https://github.com/paradigmxyz/reth/issues/16639) - 2025-06-04
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -56,3 +56,6 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Issue] [freezeblocks : panic: db closed](https://github.com/erigontech/erigon/issues/15427) - 2025-06-03
 * [Issue] [TestDump: failing on macOS](https://github.com/erigontech/erigon/issues/15425) - 2025-06-03
 * [Commit] [qa-tests: re-enable polygon tip tracking test (#15366)](https://github.com/erigontech/erigon/commit/e07e176c8d1a803b854b4c5457c6bf538eb6b855) - 2025-06-03
+* [Pull Request] [qa_tests: upgrade rpc-tests version 1.63.1](https://github.com/erigontech/erigon/pull/15441) - 2025-06-04
+* [Commit] [debug account at() debug account range()  reads hdr  (#15414)](https://github.com/erigontech/erigon/commit/98df2f64e01070db89a584ad4310d1fb3e7e836c) - 2025-06-04
+* [Commit] [ci: more automation for RPC Integration Tests (#15432)](https://github.com/erigontech/erigon/commit/bc29f3f55749a2d36454aa9e7693f59093d8b392) - 2025-06-04

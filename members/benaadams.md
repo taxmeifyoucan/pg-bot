@@ -275,6 +275,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Rename](https://github.com/NethermindEth/nethermind/commit/d6c8bcb932a96e2edb9715c8330b6962e834542b) - 2025-06-03
 * [Commit] [Surface acceptTx on sync via config (#8728)](https://github.com/NethermindEth/nethermind/commit/f4bd7c94c6689eb234938cfa3612b8f8cbe57a83) - 2025-06-03
 * [Pull Request] [Surface acceptTx on sync via config](https://github.com/NethermindEth/nethermind/pull/8728) - 2025-06-03
+* [Commit] [Increase Ethereum mainet gaslimit default to 60M (#8671)](https://github.com/NethermindEth/nethermind/commit/eceb6692ea78eeb7543c72f3f87a7a19e0e8e11c) - 2025-06-04
+* [Commit] [Benchmarks](https://github.com/NethermindEth/nethermind/commit/cbc5381a3337825ba1d61a5a93361fbcf2f8a63a) - 2025-06-04
+* [Pull Request] [Clean up method params passing](https://github.com/NethermindEth/nethermind/pull/8732) - 2025-06-04
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

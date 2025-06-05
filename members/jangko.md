@@ -81,3 +81,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [dang blob](https://github.com/status-im/nimbus-eth1/commit/789e30bbe2b90707509dc5d3abac3cd0f29247d1) - 2025-06-03
 * [Commit] [Oops](https://github.com/status-im/nimbus-eth1/commit/1d99c2eb923dfbb89e980dc42807ea7e2787c2ad) - 2025-06-03
 * [Commit] [Avoid blowing up the stack by converting blobs on heap](https://github.com/status-im/nimbus-eth1/commit/57c9568e1d7658b76121dfabcbed83831c74b46a) - 2025-06-03
+* [Commit] [applicable for bpos after osaka (#3366)](https://github.com/status-im/nimbus-eth1/commit/1e0094f0ef828c279070cec1d010a8a5259b91d9) - 2025-06-05
+* [Commit] [Portal client: Retry failed offers and make content queue size configurable (#3335)](https://github.com/status-im/nimbus-eth1/commit/98d8b78f00994478951cbf371207828eed5ef838) - 2025-06-04
+* [Commit] [Fusaka: Add engine_getBlobsV2 (#3362)](https://github.com/status-im/nimbus-eth1/commit/012b85d29aa1429ccc38e73a40a0f955cee98a5b) - 2025-06-04
+* [Commit] [Prevent txpool from crashing because of EIP-7594 blobs (#3361)](https://github.com/status-im/nimbus-eth1/commit/d3797ebf3f306c5d7c71dfe2accd830a73620e1d) - 2025-06-04
+* [Commit] [Return null in case of missing blob](https://github.com/status-im/nimbus-eth1/commit/c3281d3107f4be48bd15903ec6ee7c5bcfe23d73) - 2025-06-04
+* [Pull Request] [Fusaka: Add engine_getBlobsV2](https://github.com/status-im/nimbus-eth1/pull/3362) - 2025-06-04
+* [Pull Request] [Prevent txpool from crashing because of EIP-7594 blobs](https://github.com/status-im/nimbus-eth1/pull/3361) - 2025-06-04
+* [Commit] [Fix comment](https://github.com/status-im/nimbus-eth1/commit/68dccf33fc5803be9b7d66842e70a3bc369eba20) - 2025-06-04

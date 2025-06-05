@@ -26,6 +26,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Throttle muxer exceptions](https://github.com/Consensys/teku/pull/9507) - 2025-06-02
 * [Commit] [Update RustKZG with Deneb CKZG functions (#9510)](https://github.com/Consensys/teku/commit/52c088f93f1b2b7bfa7f8b4dbd5871f7d573ae47) - 2025-06-03
 * [Issue] [Consider switching to RustKZG as far as library provides complete implementation](https://github.com/Consensys/teku/issues/9511) - 2025-06-03
+* [Commit] [Rename BlobSchedule to BlobScheduleEntry (#9509)](https://github.com/Consensys/teku/commit/d30ebe9d7e8454971821f2f6b0a329641e898059) - 2025-06-04
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

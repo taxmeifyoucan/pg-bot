@@ -78,5 +78,10 @@ Team: Reth
 * [Commit] [add execution witness prover](https://github.com/paradigmxyz/reth/commit/e7d079ac0b16109844a13d36c58e1aca35d8386d) - 2025-05-30
 * [Pull Request] [release: v1.4.7](https://github.com/paradigmxyz/reth/pull/16606) - 2025-06-02
 * [Pull Request] [deps: revm `24.0.1`](https://github.com/paradigmxyz/reth/pull/16604) - 2025-06-02
+* [Commit] [rm unused imports](https://github.com/paradigmxyz/reth/commit/2e59c7a2de04de46a0f170151425401fb10d0978) - 2025-06-04
+* [Commit] [rm pre-exec check](https://github.com/paradigmxyz/reth/commit/7881e3310a39f54c0cc4665fcf27ed1817c2551c) - 2025-06-04
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/c965c9d7514564c4ea09566f6727db704ef78805) - 2025-06-04
+* [Commit] [unsaved changed](https://github.com/paradigmxyz/reth/commit/c71d6a4201c8f603d2efcf113790682879a0b163) - 2025-06-04
+* [Pull Request] [feat: EIP-7825](https://github.com/paradigmxyz/reth/pull/16648) - 2025-06-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16

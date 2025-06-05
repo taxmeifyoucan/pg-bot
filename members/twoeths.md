@@ -112,6 +112,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: track gossip AggregateAndProof error on Grafana (#7899)](https://github.com/ChainSafe/lodestar/commit/e8f6f5b52ff760f383e4b8a8027fc92b07966b95) - 2025-06-02
 * [Pull Request] [chore: track AggregatedAttestationPool metrics on Grafana](https://github.com/ChainSafe/lodestar/pull/7900) - 2025-06-02
 * [Pull Request] [chore: track gossip AggregateAndProof error on Grafana](https://github.com/ChainSafe/lodestar/pull/7899) - 2025-06-02
+* [Pull Request] [chore: track Packed Attestation metrics on Block Production dashboard](https://github.com/ChainSafe/lodestar/pull/7911) - 2025-06-04
+* [Pull Request] [feat: validate data column sidecar in batch](https://github.com/ChainSafe/lodestar/pull/7910) - 2025-06-04
+* [Commit] [chore: add blob schedule to each network config (#7858)](https://github.com/ChainSafe/lodestar/commit/2b5494153805e62342d612c56fb508282c16fa50) - 2025-06-04
+* [Commit] [chore: log sidecar count in batch](https://github.com/ChainSafe/lodestar/commit/5eba96f4e086af4f9e3a1343422e67a6e7df10ce) - 2025-06-04
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

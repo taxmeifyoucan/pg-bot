@@ -90,6 +90,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: remove arm check](https://github.com/ChainSafe/lodestar/pull/7897) - 2025-05-31
 * [Commit] [chore: check-types](https://github.com/ChainSafe/lodestar/commit/d70dab2e5727c123e0297748810d21ea24bde00a) - 2025-06-03
 * [Pull Request] [Mkeil/merge unstable to peer das june3](https://github.com/ChainSafe/lodestar/pull/7905) - 2025-06-03
+* [Commit] [fix: erigon getblobsv2 bug in response (#7912)](https://github.com/ChainSafe/lodestar/commit/0a673a00bb7e711817fcfb37ec5f315750716f3a) - 2025-06-04
+* [Commit] [chore: fix check-types](https://github.com/ChainSafe/lodestar/commit/8f3d1126fa701ff77e56af4a9acd4cc9d32ce2c1) - 2025-06-04
+* [Pull Request] [fix: erigon getblobsv2 bug in response](https://github.com/ChainSafe/lodestar/pull/7912) - 2025-06-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

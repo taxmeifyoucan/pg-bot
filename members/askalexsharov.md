@@ -2324,6 +2324,68 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/64535188e14a638e8112996040a8e4265249f970) - 2025-06-03
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0c155f984d45ac6435ad6822c41edc4a028211a9) - 2025-06-03
 * [Commit] [fix for heimdall integrity (#15381)](https://github.com/erigontech/erigon/commit/3c7d55c77516f538105dec391b1e1fe87ea43767) - 2025-06-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b9087305b796ce70848f2cb40f552fb594ee602e) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5db6a8292bf448f893fdcdd866a0b1a1ea77c0b5) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8eb8be44d97d30e4cd4b7e2468f913b938cf3834) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/578b3779f5a17694501e3e40738224b6ab30afc8) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2d723d793a485cfbc31cae7d9fadf36741ba6763) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/73629c1abea791acb82f89023c43f91e5cf8fc0c) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eb03fed8793df1ef73c0da4add238fe342a37787) - 2025-06-04
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/b49700da5a4cfabb678781a69f3061ab5dc5d97e) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1c79911b8ae2a77bca6dcc8db8793196583c2243) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a6d39fe35885f7cb0c497b3c0d3445bee8a7e020) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eb13a4b02820af6b8788c362a38200f3018adcae) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bcc7303005a0b8a2ab16db66c1386897aed04bf0) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cb31623dd5d6a084308b8e8f541ad4361b84f80f) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8e7eb223ffc8d941a7bde829eb5a173b4f7d5a76) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f18187d49637e4d73dbf2d4d683d34b683e9a595) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/583e46d82fe3a674eebfb97b60be251760ca3308) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c35c72edd4981aa20bc1c1bb2292a3444ce9217d) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bac418ec894e02487e500bb8af5dc9b1175d6b2b) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a85937d25d75ef97e40567973a12c356713c9c7a) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/81de10f9cba83d7ff4e007719a7ed05a84757af8) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/73ddfdbcca764fc66a12db799f5e5c272db3dd23) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3f9759df2f9c3f9a27c882dee869a125613a0a30) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bb91fdabe3066b915a6014d636717b5c4e103208) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/415efc07d15a885e3766816dcede14d02d4c5710) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/23d7036f1cf6d0f369320fa1bd4f73f0de19dc4d) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7cf5db619fc8a4328bad7fb249100337bdf90081) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/58e0b3a082b2bc9360e252ed4d18c618ce1b7837) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b3f5dd736ca7217ae353420e29a52d1080cbd5be) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/796f9b8aa839ce13a506fada182bb43d962c5455) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4c3ce9e276628e8fb075e8ed739b868d1d64048b) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a21a05426f068444114293e9d26c1445b045d0b3) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ccea0ded49d182fde02a58637b095a58fa4714ec) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/395c5874381fd6c7dbf71bed8e4b5df2f0cea4f1) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e99623cba59b3d186a6f14fb02950d2d49cce157) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7b064e85c49dc4250c00f0c18734dd918e319734) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/19fc8afb9674e750b3567ff0c8b084cf4b12fc02) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3ab92a595e2d6b7fe3190a75b246237bb56a0ff5) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/52c065fa7206baff80705f6455a58db8f26e350c) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/09042d67316d64ea4b7c3b376092699be75f9c42) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/41fcb3b9bfe1116671e89a8c9ae50e0134bdc78f) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1456d550cd64d58e901a7411eff8bd844cf3c20d) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f53869244de2ed2561427f19b9760730a9d64254) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/41530b568ec39c69d0a329166f7b9fdc7db6d991) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/551682c4582fe432a948029ae64c3f29b44b0022) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/034e7798700059f41fe30ec004907a27e5385799) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b5bc277feb87714641b0f6e1b4c90370eb2f892e) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fe9a1f77b4ebb54c08b72d6737ada3706774c298) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a86124eae57aae7d5de1810827efd15be80681ea) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b79f702dfc9961babea0ba30fd6817ad0ffd7610) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6c0ff9eef355e8ad0fcd28dfc9b2042681d4c4d5) - 2025-06-04
+* [Pull Request] [agg: add `dataReader` method - to incapsulate reader configs use](https://github.com/erigontech/erigon/pull/15436) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/11dcc667afbd9c7e1f9108bf54a5a7fb50503fab) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f70d79a5f6616cc47ba46db1fc4c3741cb241914) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e712eb84e8596354c11c917338f264d8531cb35e) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0d041e1ed6d3c4f92ca4ddd3f142357948945c00) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a2e1ac1873d0ce5b8dfa6e2732e709a5fb08e539) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7bc37f1fe5ff9f3664c72d69feeece3139445673) - 2025-06-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/144a50cdd576b6930f32cb6c50a4ffa8ff1bd10c) - 2025-06-04
+* [Commit] [Fix insufficient funds balance formatting  (#15417)](https://github.com/erigontech/erigon/commit/138120eea90bf1488ddd15442033cf97aa7872ea) - 2025-06-04
+* [Pull Request] [Update README.md](https://github.com/erigontech/erigon/pull/15435) - 2025-06-04
+* [Commit] [core/vm: implement eip-7610 has storage check on create (#14672)](https://github.com/erigontech/erigon/commit/f71d34f1046ea141f6bfd1d7eeab0c8699f558bf) - 2025-06-04
+* [Commit] [Fix for: Add error to GetHashFn & GetHeaderFn (#15434)](https://github.com/erigontech/erigon/commit/2efde7acfc94cca75d440ba4ba04f3cb5c72d03f) - 2025-06-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

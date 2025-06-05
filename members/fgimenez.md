@@ -170,6 +170,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/daedcab802a7c69b2550c68ac4d8f01ba91cd152) - 2025-06-03
 * [Commit] [test(e2e): set test_state_root_fallback for deep reorg test (#16573)](https://github.com/paradigmxyz/reth/commit/e19271b9ddd299aa9fa65d7a3d0a71ab05b05d11) - 2025-06-03
 * [Commit] [Apply suggestions from code review](https://github.com/paradigmxyz/reth/commit/5bdb41cdeacf993d6f78d9871456981a50273246) - 2025-06-03
+* [Pull Request] [feat: make RpcAddOns::launch_add_ons_with composable](https://github.com/paradigmxyz/reth/pull/16646) - 2025-06-04
+* [Commit] [feat: make RpcAddOns::launch_add_ons_with composable](https://github.com/paradigmxyz/reth/commit/9553fc829e68e788d7161867cb0babc2e32820f4) - 2025-06-04
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

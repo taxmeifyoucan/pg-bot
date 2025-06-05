@@ -34,6 +34,7 @@ Team: Geth
 * [Commit] [cmd/geth, cmd/utils: log prefunded account/key in ephemeral development mode (#31898)](https://github.com/ethereum/go-ethereum/commit/d821f7f297259b2ed5ab0d3c99c0e4aca9663ac8) - 2025-05-29
 
 * [Pull Request] [core/types:  add SSZ codec for BAL types from EIP 7928](https://github.com/ethereum/go-ethereum/pull/31948) - 2025-06-02
+* [Pull Request] [core/state:  implement optional BAL construction in statedb](https://github.com/ethereum/go-ethereum/pull/31959) - 2025-06-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [eip-7892: convert contract code field from union type to list of bytes](https://github.com/ethereum/EIPs/pull/9848) - 2025-06-02
 ## Q1 2025

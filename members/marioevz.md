@@ -143,6 +143,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [debug change](https://github.com/ethereum/execution-spec-tests/commit/49926d925962fd2efc525ff57846343c43e4df6b) - 2025-05-27
 * [Commit] [fix correct path](https://github.com/ethereum/execution-spec-tests/commit/37cea2d1f880f3ba25d0d8485b54fb9b413ce692) - 2025-06-02
 * [Issue] [Force fork methods to use keyword arguments](https://github.com/ethereum/execution-spec-tests/issues/1709) - 2025-06-03
+* [Commit] [refactor(forks): Make `Fork` Pydantic-Compatible (#1686)](https://github.com/ethereum/execution-spec-tests/commit/315d975360d565d73b9b38cafeaebeda020785d6) - 2025-06-04
+* [Commit] [feat(tests): eip-7883 & eip-7823 modexp cases  (#1579)](https://github.com/ethereum/execution-spec-tests/commit/feb669559eb930323b02bc52bf6b7faa7cb00281) - 2025-06-04
+* [Commit] [fix: tox](https://github.com/ethereum/execution-spec-tests/commit/94eb31a1f52a7fa73138bcb860d1fc7fa22cb27e) - 2025-06-04
+* [Commit] [docs: add `CONTRIBUTING.md` and improve coding standards (#1604)](https://github.com/ethereum/execution-spec-tests/commit/4a0fbf5d9e8603b50dd717a7dcdf535c1947d369) - 2025-06-04
+* [Commit] [fix: Folder rename, add __init__](https://github.com/ethereum/execution-spec-tests/commit/b1043fcfad58dcc9a6fd5809a05c524278236c86) - 2025-06-04
+* [Commit] [fix: typing](https://github.com/ethereum/execution-spec-tests/commit/104c3d7965087daa40d981e7f57fdbb7b4cd7e73) - 2025-06-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

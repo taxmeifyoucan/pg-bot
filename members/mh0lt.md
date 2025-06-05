@@ -180,6 +180,9 @@ Team: Erigon
 * [Commit] [remove unwanted](https://github.com/erigontech/erigon/commit/f9be62725b90b0136a44e9c4796cc5c515ad1e61) - 2025-06-03
 * [Commit] [use external tx](https://github.com/erigontech/erigon/commit/fe6d5b4db01675c67234988a83b6a3427b2014f6) - 2025-06-03
 * [Commit] [fix testdata](https://github.com/erigontech/erigon/commit/cb1e88d9b2f17a9bf1b16d86d7cffcf276c668eb) - 2025-06-03
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/91d1434343bc29b772dbeac7a265f0916f992af1) - 2025-06-04
+* [Commit] [update rlp to support +ve int values](https://github.com/erigontech/erigon/commit/0dad8380bc3d576c91b5a26946a594f27fed328c) - 2025-06-04
+* [Commit] [revert logging filter](https://github.com/erigontech/erigon/commit/3ea0ee6757bd6eabc6206e259705cb1a7fc4057f) - 2025-06-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

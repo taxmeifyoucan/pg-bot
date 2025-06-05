@@ -231,6 +231,9 @@ Team: Reth
 * [Commit] [do not skip trie updates for blocks that have them and use state root task only when no missing trie updates](https://github.com/paradigmxyz/reth/commit/bec1d231435f1c2047651e9c0dac8819e54f571c) - 2025-06-03
 * [Pull Request] [chore(storage): fix docs overindent](https://github.com/paradigmxyz/reth/pull/16612) - 2025-06-03
 * [Commit] [use state root task only when no missing trie updates](https://github.com/paradigmxyz/reth/commit/50b30c68bac7f2ecd368b79eab4294560a4f5a0f) - 2025-06-03
+* [Commit] [fixes after review](https://github.com/paradigmxyz/reth/commit/5acec8a596ebd2a6c8a44c5318e056b343a40064) - 2025-06-04
+* [Commit] [fixes after review](https://github.com/paradigmxyz/reth/commit/4b36a16cf76ca3376f6b14dfbfe2010aa8eea516) - 2025-06-04
+* [Commit] [fixes after review](https://github.com/paradigmxyz/reth/commit/bac014145496680bfa3f30eb498962acd53ee491) - 2025-06-04
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

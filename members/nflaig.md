@@ -190,6 +190,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Deduplicate "hasher" in warning message](https://github.com/ChainSafe/lodestar/commit/048c4d0517292a982ccd958ad3db85800082f020) - 2025-06-02
 * [Commit] [chore: add blob schedule to each network config (#7858)](https://github.com/ChainSafe/lodestar/commit/2b5494153805e62342d612c56fb508282c16fa50) - 2025-06-03
 * [Commit] [fix: do not throw error for non-hashtree hashers (#7896)](https://github.com/ChainSafe/lodestar/commit/141ab3625a0185b5664184a52294cd299aed5be5) - 2025-06-03
+* [Pull Request] [chore: add panel to track aggregate cache misses](https://github.com/ChainSafe/lodestar/pull/7914) - 2025-06-04
+* [Pull Request] [chore: add quic panels to libp2p dashboard](https://github.com/ChainSafe/lodestar/pull/7913) - 2025-06-04
+* [Commit] [chore: track Packed Attestation metrics on Block Production dashboard (#7911)](https://github.com/ChainSafe/lodestar/commit/8e542ab922dc5c5c6421386ea5b30c4d1db96ec2) - 2025-06-04
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

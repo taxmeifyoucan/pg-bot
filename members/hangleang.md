@@ -16,3 +16,5 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Print validator sync_commitee and attestation performance on each epoch](https://github.com/grandinetech/grandine/commit/6725ecc940f1e0f0faa3ba94f1450e1c2c5b1dde) - 2025-05-29
 * [Pull Request] [Fix missing blobs sync after fulu activated](https://github.com/grandinetech/grandine/pull/220) - 2025-06-03
 * [Pull Request] [Use `MAX_BLOBS_PER_BLOCK_ELECTRA` as default BPO blob schedule](https://github.com/grandinetech/grandine/pull/219) - 2025-06-03
+* [Pull Request] [Implement basic validator custody without backfill](https://github.com/grandinetech/grandine/pull/221) - 2025-06-04
+* [Commit] [Add `custody_group_count` to metadata in `node/identity` api response](https://github.com/grandinetech/grandine/commit/215e42a3226c0afb6c338949db94c843b877c355) - 2025-06-04

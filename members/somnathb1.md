@@ -177,6 +177,7 @@ Team: Erigon
 * [Commit] [engineapi, txpool: implement getBlobsV2](https://github.com/erigontech/erigon/commit/4623d0b4e4a3484ee2919137059c06974a1f2873) - 2025-06-03
 * [Commit] [Cleanup getblobsv2](https://github.com/erigontech/erigon/commit/a9762a00ce67381e6fa915c7f2294cb7f52cae5b) - 2025-06-03
 * [Pull Request] [Makefile: Add fusaka maker](https://github.com/erigontech/erigon/pull/15419) - 2025-06-03
+* [Commit] [E3: Fix receipts dangling from reorged blocks (#15401)](https://github.com/erigontech/erigon/commit/426ecc45ff630c9fc26d84d90495022d51bbb638) - 2025-06-04
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

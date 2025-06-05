@@ -193,6 +193,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix outdated metric visualisation section of README.md (#3341)](https://github.com/status-im/nimbus-eth1/commit/77609948bfc77c4ea009f9f5bc52a6fcae9f3bf6) - 2025-05-29
 * [Commit] [ariso: assorted cleanups (#3360)](https://github.com/status-im/nimbus-eth1/commit/f5db4e4b5ed34ba6a5ed37da848caf422735cad4) - 2025-06-02
 * [Commit] [hive: remove ubuntu 20.04 mention (#3344)](https://github.com/status-im/nimbus-eth1/commit/541377731e676a41055f3891bb47adf53098d706) - 2025-06-02
+* [Commit] [bpo for fusaka devnet (#3340)](https://github.com/status-im/nimbus-eth1/commit/31c143f218f7ea8e2c69f7a60034b7e4001fda6c) - 2025-06-04
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

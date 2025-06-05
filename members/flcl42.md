@@ -121,6 +121,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Reduce `Forward header starting block number did not changed.` exception to log. (#8683)](https://github.com/NethermindEth/nethermind/commit/0218daf633630706f14799c5729245baca8953ac) - 2025-06-02
 * [Commit] [Rollback "fix", all is ok](https://github.com/NethermindEth/nethermind/commit/b151f4863807cc46e7ede749db421da7b3179153) - 2025-06-03
 * [Commit] [Fix for nodes with bug](https://github.com/NethermindEth/nethermind/commit/a6c7701ddcc2b3351f0c547779a347824314dfe1) - 2025-06-03
+* [Commit] [Cleanup](https://github.com/NethermindEth/nethermind/commit/3b7b4b4dfba1f0a18a7c02fe420fa5724aa1cae6) - 2025-06-04
+* [Pull Request] [[WIP] Refactor; add EIPs to osaka](https://github.com/NethermindEth/nethermind/pull/8733) - 2025-06-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

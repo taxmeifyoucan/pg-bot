@@ -36,6 +36,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] [Remove x- and unhide prune-pre-merge-blocks subcommand](https://github.com/hyperledger/besu/pull/8715) - 2025-05-29
 * [Commit] [Rotate changelog for 25.6.0 (#8732)](https://github.com/hyperledger/besu/commit/fcf0f451b0fa730a6bf0f076d57bbb938ccf4b24) - 2025-06-03
 * [Pull Request] [Rotate changelog for 25.6.0](https://github.com/hyperledger/besu/pull/8732) - 2025-06-03
+* [Pull Request] [Archive CHANGELOG, split at start of 2024](https://github.com/hyperledger/besu/pull/8739) - 2025-06-04
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

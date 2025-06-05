@@ -112,6 +112,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-7788: Move to withdrawn](https://github.com/ethereum/EIPs/pull/9837) - 2025-05-28
 * [Pull Request] [Update EIP-7943: Move to review](https://github.com/ethereum/EIPs/pull/9836) - 2025-05-28
 * [Pull Request] [Update EIP-7805: Link Execution API specs](https://github.com/ethereum/EIPs/pull/9851) - 2025-06-02
+* [Pull Request] [Update EIP-7773: PFI Amsterdam EIP-7793 & EIP-7843](https://github.com/ethereum/EIPs/pull/9858) - 2025-06-04
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

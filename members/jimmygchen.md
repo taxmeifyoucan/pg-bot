@@ -53,6 +53,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Prevent `AvailabilityCheckError` when there's no new custody columns to import](https://github.com/sigp/lighthouse/pull/7533) - 2025-05-29
 * [Pull Request] [Fix unexpected blob error and duplicate import in fetch blobs](https://github.com/sigp/lighthouse/pull/7541) - 2025-05-30
 * [Commit] [Verify `getBlobsV2` response and avoid reprocessing imported data columns (#7493)](https://github.com/sigp/lighthouse/commit/e6ef644db4e88cdb5a8c4362d8037e6abfbb0abc) - 2025-06-03
+* [Pull Request] [Support for using existing jwt secret for mock-el](https://github.com/sigp/lighthouse/pull/7557) - 2025-06-04
+* [Commit] [Checkpoint sync without the blobs from Fulu (#7549)](https://github.com/sigp/lighthouse/commit/357a8ccbb9960fee499d1d57546ae764ffbc96ee) - 2025-06-04
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

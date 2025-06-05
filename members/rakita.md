@@ -18,6 +18,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat(database): Implement DatabaseRef for State (#2570)](https://github.com/bluealloy/revm/commit/28cbc81c2c90bfef0c22accfc8813507181fc138) - 2025-06-03
 * [Issue] [Add bencing capability to revm statetest](https://github.com/bluealloy/revm/issues/2573) - 2025-06-03
 * [Issue] [transact_multi bug with account status](https://github.com/bluealloy/revm/issues/2572) - 2025-06-03
+* [Pull Request] [fix(multitx): Add local flags for create and selfdestruct](https://github.com/bluealloy/revm/pull/2581) - 2025-06-05
+* [Commit] [chore: Avoid clone before converting ref BundleAccount to CacheAccount (#2574)](https://github.com/bluealloy/revm/commit/7ff7f2f9c675492d14cc73e8c1cc2a4d4c4fdb75) - 2025-06-04
+* [Commit] [chore(op-revm): impl type alias for Default OpEvm (#2576)](https://github.com/bluealloy/revm/commit/13de1d4acd8d21b97702ea5e2b4b596d5073d0f3) - 2025-06-04
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
