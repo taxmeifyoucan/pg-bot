@@ -278,6 +278,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Increase Ethereum mainet gaslimit default to 60M (#8671)](https://github.com/NethermindEth/nethermind/commit/eceb6692ea78eeb7543c72f3f87a7a19e0e8e11c) - 2025-06-04
 * [Commit] [Benchmarks](https://github.com/NethermindEth/nethermind/commit/cbc5381a3337825ba1d61a5a93361fbcf2f8a63a) - 2025-06-04
 * [Pull Request] [Clean up method params passing](https://github.com/NethermindEth/nethermind/pull/8732) - 2025-06-04
+* [Commit] [build](https://github.com/NethermindEth/nethermind/commit/e9597a3fb8af5b040bbacf5df5659ef6d9a1f104) - 2025-06-05
+* [Commit] [Build](https://github.com/NethermindEth/nethermind/commit/8af771447a385f9a09f214c806bbbd8dfed391a7) - 2025-06-05
+* [Commit] [Format](https://github.com/NethermindEth/nethermind/commit/44a2b25c6f9aba80895101cd825d3f32c8b74c3d) - 2025-06-05
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

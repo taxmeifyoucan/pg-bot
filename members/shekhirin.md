@@ -234,6 +234,16 @@ Team: Reth
 * [Commit] [fixes after review](https://github.com/paradigmxyz/reth/commit/5acec8a596ebd2a6c8a44c5318e056b343a40064) - 2025-06-04
 * [Commit] [fixes after review](https://github.com/paradigmxyz/reth/commit/4b36a16cf76ca3376f6b14dfbfe2010aa8eea516) - 2025-06-04
 * [Commit] [fixes after review](https://github.com/paradigmxyz/reth/commit/bac014145496680bfa3f30eb498962acd53ee491) - 2025-06-04
+* [Pull Request] [chore: revert docker compose volume renames](https://github.com/paradigmxyz/reth/pull/16688) - 2025-06-05
+* [Commit] [fix deprecated attr](https://github.com/paradigmxyz/reth/commit/79df9e7aea1ac00d61db7a0e312b1098f0dcb73a) - 2025-06-05
+* [Commit] [fix comment](https://github.com/paradigmxyz/reth/commit/95b003600f7057848c20852c188497c60fbeb7eb) - 2025-06-05
+* [Commit] [add deprecated attrs](https://github.com/paradigmxyz/reth/commit/c8b6e9cefc369c7bb5ba3561d388069b1563985e) - 2025-06-05
+* [Commit] [add deprecated attrs](https://github.com/paradigmxyz/reth/commit/9c2ae08698ec0a7c3aa99e8a84b2218a940816cd) - 2025-06-05
+* [Pull Request] [perf(engine): enable precompile cache by default](https://github.com/paradigmxyz/reth/pull/16685) - 2025-06-05
+* [Commit] [update book cli](https://github.com/paradigmxyz/reth/commit/f5250a71cd603a4a888a576df51da4132c02ea00) - 2025-06-05
+* [Pull Request] [ci: do not check version for release dry runs](https://github.com/paradigmxyz/reth/pull/16679) - 2025-06-05
+* [Commit] [add failing test for common prefix](https://github.com/paradigmxyz/reth/commit/0225338cfa16a8d44ed1c387729167080341d9a2) - 2025-06-05
+* [Commit] [various fixes](https://github.com/paradigmxyz/reth/commit/7d1aa7f48fe30744945890cad3158806f035f3e2) - 2025-06-05
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

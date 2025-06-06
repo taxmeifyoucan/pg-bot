@@ -229,6 +229,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Use a smaller dockerfile by default (#15364)](https://github.com/erigontech/erigon/commit/64226708a4bb256d0d5bede5ea1940b7fc006a8d) - 2025-06-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0340a469f08cdbae12a7ab3c359c5704df6ee421) - 2025-06-04
 * [Issue] [add support for CompressVals in seg.Reader](https://github.com/erigontech/erigon/issues/15438) - 2025-06-04
+* [Commit] [new mdbx-go bindings version (#14292)](https://github.com/erigontech/erigon/commit/92722c1cffa44385486f3f99ff853b1ce68f7568) - 2025-06-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1fcfe2e85d627e93ea67b6bbc8f9a1735edfa029) - 2025-06-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2e3636e59c998d6f02f44c504c9743c1712ea97c) - 2025-06-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1ea92bdea9c8f8336849f59ee302c255d8bad01e) - 2025-06-05
+* [Pull Request] [WIP Saveci3 debug1](https://github.com/erigontech/erigon/pull/15470) - 2025-06-05
+* [Issue] [remove DefaultTxBlockIndex and move logic to BlockReader](https://github.com/erigontech/erigon/issues/15469) - 2025-06-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d3e3f178f7019d5a568a7c415b8f23b5dd674b77) - 2025-06-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8200136fbde10271d6bfa26836f5ac0a5331be88) - 2025-06-05
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

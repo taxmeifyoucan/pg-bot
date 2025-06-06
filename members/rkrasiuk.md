@@ -85,3 +85,6 @@ Team: Reth
 * [Pull Request] [feat: EIP-7825](https://github.com/paradigmxyz/reth/pull/16648) - 2025-06-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [deps: explicitly bump `auto_impl`](https://github.com/bluealloy/revm/pull/2583) - 2025-06-05

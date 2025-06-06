@@ -53,6 +53,7 @@ Team: Reth
 * [Commit] [chore(trie): cargo fmt](https://github.com/paradigmxyz/reth/commit/4f665a451b2ad917ae69184074a62de37ff4fb3a) - 2025-05-15
 * [Issue] [Add info logs for beginning of newPayload requests](https://github.com/paradigmxyz/reth/issues/16448) - 2025-05-23
 * [Commit] [refactor: relax `OpAddOns`  (#16180)](https://github.com/paradigmxyz/reth/commit/b9e218343cb55f8985501ed238087e1c0687413c) - 2025-05-27
+* [Issue] [`reth stage run headers` fails with pruning error](https://github.com/paradigmxyz/reth/issues/16686) - 2025-06-05
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -110,6 +110,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [moving event channel and removing close channel there to prevent potential panic (#15359)](https://github.com/OffchainLabs/prysm/commit/711984d9428b3c721b90ff90a7106d78c36c66fe) - 2025-06-02
 * [Commit] [Validator: Remove early context cancellation. (#15369)](https://github.com/OffchainLabs/prysm/commit/91b44360fcd74bad41f38b79bb3b05094408a2d0) - 2025-06-03
 * [Commit] [removing redundant loop in computeOnChainAggregate (#15108)](https://github.com/OffchainLabs/prysm/commit/a50e981c7474b00fab67214f501f2e7c915b0028) - 2025-06-03
+* [Commit] [SSZ support for Attestation APIs Part 1 (#15377)](https://github.com/OffchainLabs/prysm/commit/265d84569c6b892d2e55185d065c24a4df9776c7) - 2025-06-05
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

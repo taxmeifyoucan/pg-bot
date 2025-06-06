@@ -18,3 +18,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Use `MAX_BLOBS_PER_BLOCK_ELECTRA` as default BPO blob schedule](https://github.com/grandinetech/grandine/pull/219) - 2025-06-03
 * [Pull Request] [Implement basic validator custody without backfill](https://github.com/grandinetech/grandine/pull/221) - 2025-06-04
 * [Commit] [Add `custody_group_count` to metadata in `node/identity` api response](https://github.com/grandinetech/grandine/commit/215e42a3226c0afb6c338949db94c843b877c355) - 2025-06-04
+* [Pull Request] [Add `GET /eth/v1/debug/beacon/data_column_sidecars/{block_id}` beacon api](https://github.com/grandinetech/grandine/pull/224) - 2025-06-05
+* [Commit] [Add `kzg_commitments` field in `DataColumnSidecarEvent` stream](https://github.com/grandinetech/grandine/commit/88ead44fc34d4bb09ad8870298cb0272da42f02c) - 2025-06-05
+* [Commit] [Implement EIP-7917: Deterministic proposer lookahead](https://github.com/grandinetech/grandine/commit/48f8ecb42369b712d2f674889fd6818c68e2d469) - 2025-06-05
+* [Pull Request] [Add `kzg_commitments` field in `DataColumnSidecarEvent` stream](https://github.com/grandinetech/grandine/pull/223) - 2025-06-05

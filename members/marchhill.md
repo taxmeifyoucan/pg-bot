@@ -102,6 +102,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Refactor/Consolidate ISealEngine. (#8705)](https://github.com/NethermindEth/nethermind/commit/df270c6607216465a05946e66a81d46c4a530c93) - 2025-06-03
 * [Commit] [move asOrdered](https://github.com/NethermindEth/nethermind/commit/fae7077e1827134e93c9d94978b2f8b986e638b4) - 2025-06-03
 * [Commit] [prewarm IL tx sender addresses](https://github.com/NethermindEth/nethermind/commit/9d0ecc70f71908e75fa920e905301c97f86aaf1d) - 2025-06-03
+* [Commit] [Secp256r1 precompile: switch to BoringSSL (#8437)](https://github.com/NethermindEth/nethermind/commit/a42b9c9cb657e82ca9e58efae06e90a8e57ab3ed) - 2025-06-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

@@ -390,6 +390,15 @@ Team: Reth
 * [Issue] [Include socketaddress in network discovery error](https://github.com/paradigmxyz/reth/issues/16642) - 2025-06-04
 * [Pull Request] [perf: use already recovered signer](https://github.com/paradigmxyz/reth/pull/16640) - 2025-06-04
 * [Issue] [Extend GasOracle implementation with a function that computes the median](https://github.com/paradigmxyz/reth/issues/16639) - 2025-06-04
+* [Commit] [test: add test case](https://github.com/paradigmxyz/reth/commit/ebb3231a81ac91dce2f918580063375c4571e39f) - 2025-06-05
+* [Pull Request] [fix: use correct sender_id_or_create as intended](https://github.com/paradigmxyz/reth/pull/16684) - 2025-06-05
+* [Issue] [Introduce Supported range to Peer info](https://github.com/paradigmxyz/reth/issues/16681) - 2025-06-05
+* [Issue] [add remaining snap request functions](https://github.com/paradigmxyz/reth/issues/16680) - 2025-06-05
+* [Issue] [Add experimental eth_sendrawtransaction endpoint that also awaits the receipt](https://github.com/paradigmxyz/reth/issues/16674) - 2025-06-05
+* [Issue] [Add example that demonstrates and documents --engine.persistence-threshold 0 and its impacts](https://github.com/paradigmxyz/reth/issues/16673) - 2025-06-05
+* [Issue] [Introduce historical rpc forwarder service](https://github.com/paradigmxyz/reth/issues/16672) - 2025-06-05
+* [Issue] [Use median prio for suggested fee for optimism](https://github.com/paradigmxyz/reth/issues/16669) - 2025-06-05
+* [Commit] [feat(GasOracle): new function to compute median (#16645)](https://github.com/paradigmxyz/reth/commit/717449b0766a20ec6be4d04f54bb1a44a91fa790) - 2025-06-05
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

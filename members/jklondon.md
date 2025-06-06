@@ -133,6 +133,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [domain.findMergeRange: unit-tests (#15394)](https://github.com/erigontech/erigon/commit/3cc201d3eaba6ec9fa6d0debfebf0d7ef2e7aa9d) - 2025-06-03
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/bf9e0a2b8285ff58c00ce0a08185c0b9582a68e9) - 2025-06-04
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/ae2e8c06b80518be18a14b67a76af3bee021b8eb) - 2025-06-04
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/b138cf50b67ce750b47dfa78f08143687d061db7) - 2025-06-05
+* [Pull Request] [[r3.0] add cmd to rename all files to 3.0 format](https://github.com/erigontech/erigon/pull/15468) - 2025-06-05
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/1300575f05f9f70f028a19eaed85e59df4c6c3ea) - 2025-06-05
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

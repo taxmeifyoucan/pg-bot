@@ -92,6 +92,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Use async batch explicitly](https://github.com/NethermindEth/nethermind/commit/b672a416208d34b001645ce9dea5dcd0c960e06f) - 2025-06-02
 * [Commit] [logging and retries](https://github.com/NethermindEth/nethermind/commit/aae498510f47e322376161c8fcfc3cae6ab4b9e0) - 2025-06-03
 * [Commit] [fix sorting](https://github.com/NethermindEth/nethermind/commit/896748a184235c45a7d25b1e4363a1a6f9f1a811) - 2025-06-04
+* [Commit] [more checks](https://github.com/NethermindEth/nethermind/commit/0ec97a1c969256e498b36b74f62aaac5cad57a37) - 2025-06-05
+* [Commit] [more resiliance](https://github.com/NethermindEth/nethermind/commit/8f758b056721754db8e2842387386562190ab84f) - 2025-06-05
+* [Commit] [ExecutionEnvironment pass Uint256 as in (#8736)](https://github.com/NethermindEth/nethermind/commit/b3145d78d6952416857ce20653e7b01e84b7dbb0) - 2025-06-05
+* [Commit] [more in](https://github.com/NethermindEth/nethermind/commit/3d0f636564844623e1ebae822a36446af85c3534) - 2025-06-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

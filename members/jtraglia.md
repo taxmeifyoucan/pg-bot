@@ -102,6 +102,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [EIP-7917: Deterministic proposer lookahead (#4190)](https://github.com/ethereum/consensus-specs/commit/43e716773d1829bfac2c4e82aeab8478fd27009d) - 2025-06-03
 * [Commit] [Add repo input to reftest generator action (#4356)](https://github.com/ethereum/consensus-specs/commit/1ff0d2728ec65e9ce63cfd1aa7e2f045d8146787) - 2025-06-03
 * [Pull Request] [Add repo input to reftest generator action](https://github.com/ethereum/consensus-specs/pull/4356) - 2025-06-03
+* [Commit] [Bump version to v1.6.0-alpha.2 (#4368)](https://github.com/ethereum/consensus-specs/commit/23e30671489c06ed3cc1d3662c16a09ef2f71176) - 2025-06-05
+* [Pull Request] [Bump version to v1.6.0-alpha.2](https://github.com/ethereum/consensus-specs/pull/4368) - 2025-06-05
+* [Pull Request] [Release v1.6.0-alpha.2](https://github.com/ethereum/consensus-specs/pull/4367) - 2025-06-05
+* [Commit] [Detect errors in reference test generator action (#4366)](https://github.com/ethereum/consensus-specs/commit/f106e045b73737bb7780cb380f5c9a604db148e0) - 2025-06-05
+* [Pull Request] [Detect errors in reference test generator action](https://github.com/ethereum/consensus-specs/pull/4366) - 2025-06-05
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 

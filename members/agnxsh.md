@@ -109,6 +109,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add peerDAS inclusion proof metric (#7153)](https://github.com/status-im/nimbus-eth2/commit/1ab7186e13c7e490052cecb21114bf1d9f6a4e9f) - 2025-06-03
 * [Commit] [Add peerDAS computation metric (#7205)](https://github.com/status-im/nimbus-eth2/commit/5ef6246156ca681fce66ae164e648ddb4a99c68c) - 2025-06-03
 * [Commit] [Add peerDAS kzg verification metrics (#7154)](https://github.com/status-im/nimbus-eth2/commit/39e49e1ea9def84588ada20849554bb3ef30c95d) - 2025-06-03
+* [Pull Request] [resolve custody columns to hashset](https://github.com/status-im/nimbus-eth2/pull/7210) - 2025-06-05
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

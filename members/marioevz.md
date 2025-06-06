@@ -149,6 +149,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: add `CONTRIBUTING.md` and improve coding standards (#1604)](https://github.com/ethereum/execution-spec-tests/commit/4a0fbf5d9e8603b50dd717a7dcdf535c1947d369) - 2025-06-04
 * [Commit] [fix: Folder rename, add __init__](https://github.com/ethereum/execution-spec-tests/commit/b1043fcfad58dcc9a6fd5809a05c524278236c86) - 2025-06-04
 * [Commit] [fix: typing](https://github.com/ethereum/execution-spec-tests/commit/104c3d7965087daa40d981e7f57fdbb7b4cd7e73) - 2025-06-04
+* [Commit] [feat(plugins,docs): EIP checklist generator plugin (#1679)](https://github.com/ethereum/execution-spec-tests/commit/d71dcc07c0bc6d5cd567171ac1c38a74044d684f) - 2025-06-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

@@ -183,6 +183,7 @@ Team: Erigon
 * [Commit] [fix lint](https://github.com/erigontech/erigon/commit/91d1434343bc29b772dbeac7a265f0916f992af1) - 2025-06-04
 * [Commit] [update rlp to support +ve int values](https://github.com/erigontech/erigon/commit/0dad8380bc3d576c91b5a26946a594f27fed328c) - 2025-06-04
 * [Commit] [revert logging filter](https://github.com/erigontech/erigon/commit/3ea0ee6757bd6eabc6206e259705cb1a7fc4057f) - 2025-06-04
+* [Commit] [Bhilai fork number update (#15459)](https://github.com/erigontech/erigon/commit/577b81b06d8d6a745150ce14bf72ed61b1af7686) - 2025-06-05
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -172,6 +172,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [Apply suggestions from code review](https://github.com/paradigmxyz/reth/commit/5bdb41cdeacf993d6f78d9871456981a50273246) - 2025-06-03
 * [Pull Request] [feat: make RpcAddOns::launch_add_ons_with composable](https://github.com/paradigmxyz/reth/pull/16646) - 2025-06-04
 * [Commit] [feat: make RpcAddOns::launch_add_ons_with composable](https://github.com/paradigmxyz/reth/commit/9553fc829e68e788d7161867cb0babc2e32820f4) - 2025-06-04
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/2694b71cc7a729ed9eb7ec8dbdf7ecbbb30912e9) - 2025-06-05
+* [Pull Request] [feat(test): rewrite test_engine_tree_fcu_canon_chain_insertion using e2e framework](https://github.com/paradigmxyz/reth/pull/16678) - 2025-06-05
+* [Pull Request] [chore: extract engine tests to separate file](https://github.com/paradigmxyz/reth/pull/16671) - 2025-06-05
+* [Pull Request] [chore(ci): unpin teku image for kurtosis-op ethereum-package](https://github.com/paradigmxyz/reth/pull/16670) - 2025-06-05
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

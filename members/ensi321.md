@@ -60,6 +60,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: correct labels of gossipsub_iwant_promise_delivery_seconds metrics (#7878)](https://github.com/ChainSafe/lodestar/commit/af282209374621bd7d28159ae0e45802a4a38814) - 2025-05-30
 * [Pull Request] [feat: add EIP-7917 deterministic proposer lookahead](https://github.com/ChainSafe/lodestar/pull/7902) - 2025-06-02
 * [Pull Request] [test: fusaka devnet-1 branch for testing only](https://github.com/ChainSafe/lodestar/pull/7904) - 2025-06-03
+* [Commit] [Temp workaround](https://github.com/ChainSafe/lodestar/commit/aa158ff5a6434a5426386a116406463ef8315daf) - 2025-06-05
+* [Commit] [fix: remove arm check (#7897)](https://github.com/ChainSafe/lodestar/commit/9f5ab00bab35c8d84ece5b184485aa13f81fab7c) - 2025-06-05
+* [Commit] [Fix proposer cache](https://github.com/ChainSafe/lodestar/commit/b9889fe06d9b5363a8ea09be48f1bc736f969c82) - 2025-06-05
+* [Commit] [chore: prepare for spec test v1.6.0-alpha.1 (#7919)](https://github.com/ChainSafe/lodestar/commit/9330899493f109fce8c3586e6c1f11d6e6f96884) - 2025-06-05
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

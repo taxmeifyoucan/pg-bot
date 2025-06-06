@@ -209,6 +209,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tests: more explicit make target names](https://github.com/erigontech/erigon/commit/23cb8d92cc11f62724f4086e8dcbd046cb621a5e) - 2025-06-04
 * [Commit] [MaxTxnGasLimit const](https://github.com/erigontech/erigon/commit/b8fc97b52c094c760da094e02a985ad9a181daed) - 2025-06-04
 * [Commit] [txpool: add Osaka](https://github.com/erigontech/erigon/commit/03f9efab7cd54674b2137c00998ec1c21b7241b9) - 2025-06-04
+* [Commit] [disable test incompatible with devnet-1](https://github.com/erigontech/erigon/commit/9f4f93d129e0bacb4d3c006e8e31ce75dcb640bf) - 2025-06-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

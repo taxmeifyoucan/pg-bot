@@ -40,6 +40,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: fix broken panels due to missing historical state worker metrics (#7826)](https://github.com/ChainSafe/lodestar/commit/cbebcdc0d5ce60fff2cc2c74d637092b3375557c) - 2025-05-14
 * [Commit] [chore: bump @chainsafe/threads to v1.11.2 (#7877)](https://github.com/ChainSafe/lodestar/commit/fa41ea44dedb9cd16a35eeaa8594abe158aa29b6) - 2025-05-27
 * [Commit] [chore: throw error if ssz types for fork are not defined (#7850)](https://github.com/ChainSafe/lodestar/commit/a35c3a3341fc964e224680d225456bc00cfef945) - 2025-05-27
+* [Commit] [chore: add quic panels to libp2p dashboard (#7913)](https://github.com/ChainSafe/lodestar/commit/5787f1f993e72397a39e8d9168edd0e55009e53d) - 2025-06-05
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

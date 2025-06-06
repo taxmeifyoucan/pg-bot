@@ -73,6 +73,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [EngineNewPayload - respond with error if params invalid](https://github.com/hyperledger/besu/pull/8729) - 2025-06-02
 * [Issue] [flaky test BlobProofBundleTest](https://github.com/hyperledger/besu/issues/8734) - 2025-06-03
 * [Commit] [final keyword (#8731)](https://github.com/hyperledger/besu/commit/fafa51555b34709eb11d3065146c9797a5c4347c) - 2025-06-03
+* [Pull Request] [add extra modexp benchmarks](https://github.com/hyperledger/besu/pull/8751) - 2025-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

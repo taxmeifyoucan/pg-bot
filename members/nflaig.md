@@ -193,6 +193,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: add panel to track aggregate cache misses](https://github.com/ChainSafe/lodestar/pull/7914) - 2025-06-04
 * [Pull Request] [chore: add quic panels to libp2p dashboard](https://github.com/ChainSafe/lodestar/pull/7913) - 2025-06-04
 * [Commit] [chore: track Packed Attestation metrics on Block Production dashboard (#7911)](https://github.com/ChainSafe/lodestar/commit/8e542ab922dc5c5c6421386ea5b30c4d1db96ec2) - 2025-06-04
+* [Commit] [feat: add metric to track consensus block value (#7921)](https://github.com/ChainSafe/lodestar/commit/a2ccd2896cb11395cd3a284a74cb0adf908bf616) - 2025-06-05
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

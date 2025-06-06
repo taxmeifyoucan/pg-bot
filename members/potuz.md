@@ -60,6 +60,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [EIP 7917 initial commit](https://github.com/OffchainLabs/prysm/commit/c346ccae7720ed7f1f6b29282a4fc3614a4607a8) - 2025-06-02
 * [Commit] [EIP 7917 initial commit](https://github.com/OffchainLabs/prysm/commit/e54808de9153886c3c1b1409981c927fbb29df0e) - 2025-06-02
 * [Commit] [migrates some helper functions from beacon API to apiutil (#15125)](https://github.com/OffchainLabs/prysm/commit/4a1c627f6fc92e9b0df7eb4c956240b16aa455b8) - 2025-06-02
+* [Commit] [Add epoch transition code](https://github.com/OffchainLabs/prysm/commit/df51cf9c1834e8705ed3ef993fc26dc76fa5e591) - 2025-06-05
+* [Commit] [validator client: adding in get duties v2 (#15380)](https://github.com/OffchainLabs/prysm/commit/8c324cc491e053642f36f6878c74e4c06902d273) - 2025-06-05
+* [Commit] [update spectests to 1.6.0-alpha.1](https://github.com/OffchainLabs/prysm/commit/087eb17ac23a4965711ac1f418ec415d92389231) - 2025-06-05
+* [Commit] [update spectests to 1.6.0-alpha.1](https://github.com/OffchainLabs/prysm/commit/b4751120dddee45106736bc9f05766638fa658bd) - 2025-06-05
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

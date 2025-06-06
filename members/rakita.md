@@ -21,6 +21,11 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [fix(multitx): Add local flags for create and selfdestruct](https://github.com/bluealloy/revm/pull/2581) - 2025-06-05
 * [Commit] [chore: Avoid clone before converting ref BundleAccount to CacheAccount (#2574)](https://github.com/bluealloy/revm/commit/7ff7f2f9c675492d14cc73e8c1cc2a4d4c4fdb75) - 2025-06-04
 * [Commit] [chore(op-revm): impl type alias for Default OpEvm (#2576)](https://github.com/bluealloy/revm/commit/13de1d4acd8d21b97702ea5e2b4b596d5073d0f3) - 2025-06-04
+* [Commit] [deps: explicitly bump `auto_impl` (#2583)](https://github.com/bluealloy/revm/commit/215f4e08e844995b60567a72325fbabab84bceff) - 2025-06-05
+* [Commit] [fix tests](https://github.com/bluealloy/revm/commit/ed45362d7672bdb9b59bb197e8709ab06a16c46a) - 2025-06-05
+* [Commit] [fix tests](https://github.com/bluealloy/revm/commit/9cdc77a8f495c52a17879ca6cf4038870034321d) - 2025-06-05
+* [Commit] [fix(multitx): Add local flags for create and selfdestruct](https://github.com/bluealloy/revm/commit/e9af0dc58dba36d0385d15cba64e90125e351698) - 2025-06-05
+* [Commit] [chore: support functions for eip7918 (#2579)](https://github.com/bluealloy/revm/commit/1817ad726f582b6c1de7b69c00b663a7f9b85288) - 2025-06-05
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
