@@ -42,6 +42,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Refresh transaction simulator tests](https://github.com/hyperledger/besu/pull/8736) - 2025-06-03
 * [Pull Request] [Rename besu subproject to main](https://github.com/hyperledger/besu/pull/8746) - 2025-06-04
 * [Commit] [EIP-7825: Transaction gas limit cap (#8700)](https://github.com/hyperledger/besu/commit/23c5e464a03d215ea9d22d7d460afa9233c37d49) - 2025-06-04
+* [Commit] [Workaround to force the txpool to be always on (#8755)](https://github.com/hyperledger/besu/commit/bf3c0bed7071d32e85eeea7e2138d8e9e1208aaa) - 2025-06-06
+* [Pull Request] [Workaround to force the txpool to be always on ](https://github.com/hyperledger/besu/pull/8755) - 2025-06-06
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

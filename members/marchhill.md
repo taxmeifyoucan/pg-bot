@@ -103,6 +103,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [move asOrdered](https://github.com/NethermindEth/nethermind/commit/fae7077e1827134e93c9d94978b2f8b986e638b4) - 2025-06-03
 * [Commit] [prewarm IL tx sender addresses](https://github.com/NethermindEth/nethermind/commit/9d0ecc70f71908e75fa920e905301c97f86aaf1d) - 2025-06-03
 * [Commit] [Secp256r1 precompile: switch to BoringSSL (#8437)](https://github.com/NethermindEth/nethermind/commit/a42b9c9cb657e82ca9e58efae06e90a8e57ab3ed) - 2025-06-05
+* [Commit] [Adjust block size to CL pessimistic block size (#8737)](https://github.com/NethermindEth/nethermind/commit/b7db4a140bdede1da9f5ad6b8a0db74ec1cf24f8) - 2025-06-06
+* [Commit] [prune on processing queue empty](https://github.com/NethermindEth/nethermind/commit/e4342ba368c92b8482bae61b2fbebc587cbbb562) - 2025-06-06
+* [Commit] [change to long](https://github.com/NethermindEth/nethermind/commit/b0761f2177a56947bbbe051b14138cfc3fe114ff) - 2025-06-06
+* [Commit] [move minhistoryretention to chainspec](https://github.com/NethermindEth/nethermind/commit/2a415cd74ad16ae352bad7316003c167f53368eb) - 2025-06-06
+* [Commit] [Update src/Nethermind/Nethermind.Config/IHistoryConfig.cs](https://github.com/NethermindEth/nethermind/commit/e5ebd42878093909c569d4d728430da48ebbd163) - 2025-06-06
+* [Commit] [pass history pruner to taiko](https://github.com/NethermindEth/nethermind/commit/a57b4469b970269525ea57ba01230b498b6cfea0) - 2025-06-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

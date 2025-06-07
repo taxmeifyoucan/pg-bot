@@ -2386,6 +2386,23 @@ Team: Erigon
 * [Pull Request] [Update README.md](https://github.com/erigontech/erigon/pull/15435) - 2025-06-04
 * [Commit] [core/vm: implement eip-7610 has storage check on create (#14672)](https://github.com/erigontech/erigon/commit/f71d34f1046ea141f6bfd1d7eeab0c8699f558bf) - 2025-06-04
 * [Commit] [Fix for: Add error to GetHashFn & GetHeaderFn (#15434)](https://github.com/erigontech/erigon/commit/2efde7acfc94cca75d440ba4ba04f3cb5c72d03f) - 2025-06-04
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/6358bbe1851cfc2815e7a670b8e0cba85c370102) - 2025-06-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/086c6afef098d29bafbbde77fada1751cb44c972) - 2025-06-06
+* [Commit] [Enable ERIGON_ASSERT: true in CI tests and on Syncing in CI (#15271)](https://github.com/erigontech/erigon/commit/1f13807abeee9d65b7f0775a047d7ca50c401067) - 2025-06-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1a6d0ba2423dfaf63c59bdfa5fd9c4255c37c5c2) - 2025-06-06
+* [Commit] [Makefile: Add fusaka maker (#15419)](https://github.com/erigontech/erigon/commit/889b3d4e55fdb370dcabe1ffee2e98f9f2762c13) - 2025-06-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/78946a20862fa3bfc9dbfe733cfa431fbb80134f) - 2025-06-06
+* [Pull Request] [no memstat env variable](https://github.com/erigontech/erigon/pull/15478) - 2025-06-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/053e5b87021914119fe8eba2900a251ba6e1c6e2) - 2025-06-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/38b70676fc173ce6fd501c96e835dc61bdb7f07c) - 2025-06-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/842d2c8974a3c8e4306fa31aa90378af388ea092) - 2025-06-06
+* [Pull Request] [diff: reduce len to avoid overflow pages on 4kb pagesize](https://github.com/erigontech/erigon/pull/15477) - 2025-06-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1a7f97e0c71eaf4a96a332a175dc1be34c25a0cb) - 2025-06-06
+* [Commit] [Fix step range in error returned from `rawLookupFileByRange` (#15446)](https://github.com/erigontech/erigon/commit/d303781fcecf198f629bf1e79824f2fc07aa46c8) - 2025-06-06
+* [Commit] [agg: reduce depth of `findMergeRange` loops (#15374)](https://github.com/erigontech/erigon/commit/e6b86e94227e147ee4e52ddb8fdb614cf25cf8f1) - 2025-06-06
+* [Commit] [build: update golangci-lint-action to v8 (#15475)](https://github.com/erigontech/erigon/commit/3ac319365ba18ef9a151a5f7fd4bb09538a4495a) - 2025-06-06
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/0cee2f9c26989bb817464448eaf20fd29f852268) - 2025-06-06
+* [Issue] [Improve commit log line](https://github.com/erigontech/erigon/issues/15476) - 2025-06-06
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -41,6 +41,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: bump @chainsafe/threads to v1.11.2 (#7877)](https://github.com/ChainSafe/lodestar/commit/fa41ea44dedb9cd16a35eeaa8594abe158aa29b6) - 2025-05-27
 * [Commit] [chore: throw error if ssz types for fork are not defined (#7850)](https://github.com/ChainSafe/lodestar/commit/a35c3a3341fc964e224680d225456bc00cfef945) - 2025-05-27
 * [Commit] [chore: add quic panels to libp2p dashboard (#7913)](https://github.com/ChainSafe/lodestar/commit/5787f1f993e72397a39e8d9168edd0e55009e53d) - 2025-06-05
+* [Commit] [chore: add panels for IDONTWANT metrics to gossipsub dashboard (#7924)](https://github.com/ChainSafe/lodestar/commit/7beba714e0fdc6a42ca6a94e5256c127c7256541) - 2025-06-06
+* [Commit] [fix: parent slot of produced block (#7927)](https://github.com/ChainSafe/lodestar/commit/6a4314ca053bbd38e805ae4a73688b6b82916e32) - 2025-06-06
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

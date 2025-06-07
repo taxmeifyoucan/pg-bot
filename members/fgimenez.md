@@ -176,6 +176,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [feat(test): rewrite test_engine_tree_fcu_canon_chain_insertion using e2e framework](https://github.com/paradigmxyz/reth/pull/16678) - 2025-06-05
 * [Pull Request] [chore: extract engine tests to separate file](https://github.com/paradigmxyz/reth/pull/16671) - 2025-06-05
 * [Pull Request] [chore(ci): unpin teku image for kurtosis-op ethereum-package](https://github.com/paradigmxyz/reth/pull/16670) - 2025-06-05
+* [Commit] [docs: Replace GitFlic URL with official GitHub repository for libmdbx (#16496)](https://github.com/paradigmxyz/reth/commit/e7d785663750179b1027581eba4f9626e12d4c5e) - 2025-06-06
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

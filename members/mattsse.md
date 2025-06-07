@@ -399,6 +399,7 @@ Team: Reth
 * [Issue] [Introduce historical rpc forwarder service](https://github.com/paradigmxyz/reth/issues/16672) - 2025-06-05
 * [Issue] [Use median prio for suggested fee for optimism](https://github.com/paradigmxyz/reth/issues/16669) - 2025-06-05
 * [Commit] [feat(GasOracle): new function to compute median (#16645)](https://github.com/paradigmxyz/reth/commit/717449b0766a20ec6be4d04f54bb1a44a91fa790) - 2025-06-05
+* [Issue] [Respect BlockRangeInfo when selecting peer for request](https://github.com/paradigmxyz/reth/issues/16697) - 2025-06-06
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

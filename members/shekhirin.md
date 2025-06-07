@@ -244,6 +244,13 @@ Team: Reth
 * [Pull Request] [ci: do not check version for release dry runs](https://github.com/paradigmxyz/reth/pull/16679) - 2025-06-05
 * [Commit] [add failing test for common prefix](https://github.com/paradigmxyz/reth/commit/0225338cfa16a8d44ed1c387729167080341d9a2) - 2025-06-05
 * [Commit] [various fixes](https://github.com/paradigmxyz/reth/commit/7d1aa7f48fe30744945890cad3158806f035f3e2) - 2025-06-05
+* [Commit] [chore: relax payloadtypes impl (#16507)](https://github.com/paradigmxyz/reth/commit/9089672839a7275c11a77408d3270f786437ff3f) - 2025-06-06
+* [Commit] [fix(trie): check bounds in from_nibbles](https://github.com/paradigmxyz/reth/commit/ce876f6880bb45709cfc747907817e3feff42c8d) - 2025-06-06
+* [Commit] [perf(trie): check if nibble is > 0 in push](https://github.com/paradigmxyz/reth/commit/96debdd44a5b4aea44216041fa85184e481a757f) - 2025-06-06
+* [Commit] [add a todo for common prefix length](https://github.com/paradigmxyz/reth/commit/24757db8119d129d268ddd6dd6af5c2f4f4b1d3d) - 2025-06-06
+* [Commit] [add a todo for common prefix length](https://github.com/paradigmxyz/reth/commit/5b29bda937865713f36450ae1e2efd8a072c3c93) - 2025-06-06
+* [Commit] [perf(trie): optimize Ord for PackedNibbles](https://github.com/paradigmxyz/reth/commit/3e0b3dcd094059be207ff972ec7b4618512839f5) - 2025-06-06
+* [Commit] [perf(trie): optimize Ord for PackedNibbles](https://github.com/paradigmxyz/reth/commit/b7fcf605eb1c396ee2906fe6c15b5de7dd17c201) - 2025-06-06
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

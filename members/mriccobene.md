@@ -56,6 +56,8 @@ Team: Erigon
 * [Commit] [tip-tracking: use different db for main and release/3](https://github.com/erigontech/erigon/commit/c07d4ae8974a109717183f412a7adb921713a06c) - 2025-05-16
 * [Commit] [tests: Increase `cmd/evm` tests  subprocess timeout to 30 sec (#15002)](https://github.com/erigontech/erigon/commit/912b495c436bfbca62fd19b63c20ff355740871c) - 2025-05-20
 * [Pull Request] [qa-tests: update rpc test bisection tool](https://github.com/erigontech/erigon/pull/15320) - 2025-05-29
+* [Commit] [dummy](https://github.com/erigontech/erigon/commit/15f253a4813cfdadefe3b35916cfbf2c44461be6) - 2025-06-06
+* [Commit] [dummy](https://github.com/erigontech/erigon/commit/67c447255e2e0cadf2635369bd3f387f3331368c) - 2025-06-06
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

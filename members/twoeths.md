@@ -116,6 +116,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: validate data column sidecar in batch](https://github.com/ChainSafe/lodestar/pull/7910) - 2025-06-04
 * [Commit] [chore: add blob schedule to each network config (#7858)](https://github.com/ChainSafe/lodestar/commit/2b5494153805e62342d612c56fb508282c16fa50) - 2025-06-04
 * [Commit] [chore: log sidecar count in batch](https://github.com/ChainSafe/lodestar/commit/5eba96f4e086af4f9e3a1343422e67a6e7df10ce) - 2025-06-04
+* [Issue] [c-kzg verifyCellKzgProofBatch high process_heap_bytes](https://github.com/ChainSafe/lodestar/issues/7930) - 2025-06-06
+* [Commit] [fix: produceBlockV3 unit test](https://github.com/ChainSafe/lodestar/commit/4859a6131afd3911447dc5489144a30bf15ca326) - 2025-06-06
+* [Pull Request] [fix: parent slot of produced block](https://github.com/ChainSafe/lodestar/pull/7927) - 2025-06-06
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

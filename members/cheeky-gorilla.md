@@ -39,6 +39,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Clarify ETH + ERC20](https://github.com/protocolguild/documentation/commit/80a3e1b7b0e9e54ecc2e5e7e9d61c0b1336e126f) - 2025-06-02
 * [Commit] [Update text for L2s for clarity](https://github.com/protocolguild/documentation/commit/5e5a1f6af00026fc6c02657499441e814cb66038) - 2025-06-02
 * [Commit] [Update mainnet claim multisig](https://github.com/protocolguild/documentation/commit/774d79e13280327bf7c9efbb61fbfa2a9a38b2bd) - 2025-06-02
+* [Commit] [Add all vesting, ptw and split contracts](https://github.com/protocolguild/documentation/commit/306929402f859970240c6046151c0ecef43b8828) - 2025-06-06
 ## Q1 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

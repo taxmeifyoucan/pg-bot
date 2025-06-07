@@ -74,6 +74,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [flaky test BlobProofBundleTest](https://github.com/hyperledger/besu/issues/8734) - 2025-06-03
 * [Commit] [final keyword (#8731)](https://github.com/hyperledger/besu/commit/fafa51555b34709eb11d3065146c9797a5c4347c) - 2025-06-03
 * [Pull Request] [add extra modexp benchmarks](https://github.com/hyperledger/besu/pull/8751) - 2025-06-05
+* [Commit] [add extra benchmarks (#8751)](https://github.com/hyperledger/besu/commit/057a9c7384347df3aba80fc8792e0b255d75b8ae) - 2025-06-06
+* [Commit] [EIP-7918 blob base fee bounded by execution cost (#8724)](https://github.com/hyperledger/besu/commit/b692d48825cea3efa474831b774e4e0838503af1) - 2025-06-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

@@ -91,6 +91,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [[fusaka-devnet-1] eip-7825](https://github.com/hyperledger/besu/pull/8740) - 2025-06-04
 * [Commit] [chore: increase default gas cap to 100M (#8738)](https://github.com/hyperledger/besu/commit/711e0a7152df0a86d49bde09a6415157f08d793c) - 2025-06-04
 * [Pull Request] [chore: increase default gas cap to 100M](https://github.com/hyperledger/besu/pull/8738) - 2025-06-04
+* [Commit] [devnet-1 referenceTests release (#8752)](https://github.com/hyperledger/besu/commit/4c70edbec5db73a61fc57bad4ae9331a5f106d0e) - 2025-06-06
+* [Commit] [[fusaka-devnet-1] Merge main into  fusaka-devnet-1 (#8754)](https://github.com/hyperledger/besu/commit/90a9a7e37699b87dc3287e2911800d04c1dba92f) - 2025-06-06
+* [Pull Request] [[fusaka-devnet-1] Merge main into  fusaka-devnet-1](https://github.com/hyperledger/besu/pull/8754) - 2025-06-06
+* [Commit] [Revert "feat: remove chain head check if peer supports eth/69 (#8725)" (#8753)](https://github.com/hyperledger/besu/commit/67b00408c073bb0866ed76ff0a239ad941d8699f) - 2025-06-06
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

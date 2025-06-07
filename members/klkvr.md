@@ -59,8 +59,14 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [feat: make NewBlock message generic](https://github.com/paradigmxyz/reth/commit/fda5f00bd2992d990e45ff84b56542a11117b45b) - 2025-06-03
 * [Pull Request] [chore: make `BuildOutcome::map_payload` pub](https://github.com/paradigmxyz/reth/pull/16636) - 2025-06-04
 
+* [Commit] [logs](https://github.com/paradigmxyz/reth/commit/84f899b69f8af7ee16673569a0e67fe80c3cc2d6) - 2025-06-06
+* [Commit] [logs](https://github.com/paradigmxyz/reth/commit/958623d1fad0220db85ecaa81bdc28edf935db24) - 2025-06-06
+* [Commit] [logs](https://github.com/paradigmxyz/reth/commit/675ebd05027e5e047dede239cf836f8c9e94907c) - 2025-06-06
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/92f0e0808d96698fa11b85ed739df397aa93718a) - 2025-06-06
+* [Pull Request] [fix: correctly set sync gap](https://github.com/paradigmxyz/reth/pull/16695) - 2025-06-06
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/a7ca04d56781d0c81d6378c7b5a6b24e3f99532f) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/12aae0ed7ebf2c8f8dff1f0fa2dad4602c743977) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/8c0536652a20c6073913b3ad88fd2963b7b8845b) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/63f53d4db7c42217e4b5f38db49475b8b937f99b) - 2025-06-05
+* [Commit] [fix](https://github.com/bluealloy/revm/commit/6062573a2d463a32d93f2d9c42037b9fd89507b2) - 2025-06-06

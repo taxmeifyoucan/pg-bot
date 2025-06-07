@@ -26,6 +26,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [fix tests](https://github.com/bluealloy/revm/commit/9cdc77a8f495c52a17879ca6cf4038870034321d) - 2025-06-05
 * [Commit] [fix(multitx): Add local flags for create and selfdestruct](https://github.com/bluealloy/revm/commit/e9af0dc58dba36d0385d15cba64e90125e351698) - 2025-06-05
 * [Commit] [chore: support functions for eip7918 (#2579)](https://github.com/bluealloy/revm/commit/1817ad726f582b6c1de7b69c00b663a7f9b85288) - 2025-06-05
+* [Commit] [fix(multitx): Add local flags for create and selfdestruct (#2581)](https://github.com/bluealloy/revm/commit/0d871680332b167a59453998c5bf7eef7a7d6e45) - 2025-06-06
+* [Commit] [fix zepter](https://github.com/bluealloy/revm/commit/a399d6a6028bf2c6c7580c4106693180f6a76a4f) - 2025-06-06
+* [Commit] [add selfdestruct crate test](https://github.com/bluealloy/revm/commit/c10a27303c35c672d5c480a240774a295a4514d6) - 2025-06-06
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -57,6 +57,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [Checkpoint sync without the blobs from Fulu (#7549)](https://github.com/sigp/lighthouse/commit/357a8ccbb9960fee499d1d57546ae764ffbc96ee) - 2025-06-04
 * [Commit] [Fulu EF tests v1.6.0-alpha.0 (#7540)](https://github.com/sigp/lighthouse/commit/2d9fc34d432698353bfd8599496bef73236984c8) - 2025-06-05
 * [Pull Request] [Update kurtosis config and EL images](https://github.com/sigp/lighthouse/pull/7570) - 2025-06-05
+* [Issue] [Benchmark `validate_data_column_sidecar_for_gossip ` for gossip verification performance](https://github.com/sigp/lighthouse/issues/7576) - 2025-06-06
+* [Pull Request] [Optimise parallelism in compute cells operations by zipping first](https://github.com/sigp/lighthouse/pull/7574) - 2025-06-06
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

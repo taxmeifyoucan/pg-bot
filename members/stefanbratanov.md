@@ -21,6 +21,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [QUIC support [DO NOT MERGE]](https://github.com/Consensys/teku/pull/9484) - 2025-05-23
 * [Commit] [Align config with specs (#9491)](https://github.com/Consensys/teku/commit/8900d44763ee371d861620250d991b2aa76f5dbc) - 2025-05-29
 * [Commit] [Remove Deneb/Electra from blob schedule and default to Electra limit (#9516)](https://github.com/Consensys/teku/commit/7ce9231c7f1e97a3a729842abb0a19edf0a57289) - 2025-06-05
+* [Commit] [[EIP-7917] Add deterministic proposer lookahead changes to Fulu (#9501)](https://github.com/Consensys/teku/commit/4632aa6dc1d4a46f79e41b0f726530d221605c65) - 2025-06-06
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -139,6 +139,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [PeerDAS: Implement DAS](https://github.com/OffchainLabs/prysm/commit/3ba0b8c53a776b5ce2772abe1a0d80e051a4784a) - 2025-06-03
 * [Commit] [PeerDAS: Implement DAS](https://github.com/OffchainLabs/prysm/commit/164a459afdfcd657ee5230b1612bc15bb9290cb9) - 2025-06-03
 * [Commit] [PeerDAS: Implement DAS](https://github.com/OffchainLabs/prysm/commit/97ba29511307aebecc126d3dc8548a03b9bf78ab) - 2025-06-03
+* [Commit] [PeerDAS: Implement DAS (#15367)](https://github.com/OffchainLabs/prysm/commit/f1288a18eca46ab3afc6202e37521e5c187d364d) - 2025-06-06
+* [Commit] [Fix `getEpochCommittees` when slot not in given epoch (#15356)](https://github.com/OffchainLabs/prysm/commit/472c5da49e2162b6dcf91aff601a884cd23a3882) - 2025-06-06
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/a94561f8dc5b006287e4d8c2fa972d5688302d15) - 2025-06-06
+* [Commit] [Peer das misc (#15384)](https://github.com/OffchainLabs/prysm/commit/af875b78c9abce048d8e517f3f4f18a5e75a54c3) - 2025-06-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 * [Pull Request] [Validator custody: Increase only and optional backfill.](https://github.com/ethereum/consensus-specs/pull/4357) - 2025-06-03

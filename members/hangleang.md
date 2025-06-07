@@ -22,3 +22,4 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Add `kzg_commitments` field in `DataColumnSidecarEvent` stream](https://github.com/grandinetech/grandine/commit/88ead44fc34d4bb09ad8870298cb0272da42f02c) - 2025-06-05
 * [Commit] [Implement EIP-7917: Deterministic proposer lookahead](https://github.com/grandinetech/grandine/commit/48f8ecb42369b712d2f674889fd6818c68e2d469) - 2025-06-05
 * [Pull Request] [Add `kzg_commitments` field in `DataColumnSidecarEvent` stream](https://github.com/grandinetech/grandine/pull/223) - 2025-06-05
+* [Pull Request] [Correctly place `data_column_sidecars_submitted_for_processing` metric](https://github.com/grandinetech/grandine/pull/225) - 2025-06-06

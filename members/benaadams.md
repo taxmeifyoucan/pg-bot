@@ -281,6 +281,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [build](https://github.com/NethermindEth/nethermind/commit/e9597a3fb8af5b040bbacf5df5659ef6d9a1f104) - 2025-06-05
 * [Commit] [Build](https://github.com/NethermindEth/nethermind/commit/8af771447a385f9a09f214c806bbbd8dfed391a7) - 2025-06-05
 * [Commit] [Format](https://github.com/NethermindEth/nethermind/commit/44a2b25c6f9aba80895101cd825d3f32c8b74c3d) - 2025-06-05
+* [Commit] [Improve performance of CALL opcodes (#8732)](https://github.com/NethermindEth/nethermind/commit/dd815a3a25cbccd8cef7155e185bab1f7b140cfe) - 2025-06-06
+* [Pull Request] [Add min memory rent size](https://github.com/NethermindEth/nethermind/pull/8740) - 2025-06-06
+* [Commit] [Add back other Memory Type](https://github.com/NethermindEth/nethermind/commit/b2c336810a3c504854aa8975ea7d74daacab3644) - 2025-06-06
+* [Commit] [Revert "Disconnect when connected"](https://github.com/NethermindEth/nethermind/commit/749f125c9b49867a7b7cfb930d4b61fcea8ff1bc) - 2025-06-06
+* [Commit] [Disconnect when connected](https://github.com/NethermindEth/nethermind/commit/bb527029026bb1e69290aff8c7a6cfebccf71276) - 2025-06-06
+* [Commit] [tests](https://github.com/NethermindEth/nethermind/commit/7989b8976087e03051645b51db9a573ad3b97be8) - 2025-06-06
+* [Commit] [tests](https://github.com/NethermindEth/nethermind/commit/e4ba7f59d274654e339d17601bbfcbe185e667c4) - 2025-06-06
+* [Commit] [test fix](https://github.com/NethermindEth/nethermind/commit/61671a55f38a956005dd71440822e67aba205efb) - 2025-06-06
+* [Commit] [tests](https://github.com/NethermindEth/nethermind/commit/bc1459fb87255f15efb58c153c9e560e969dc439) - 2025-06-06
+* [Commit] [tests](https://github.com/NethermindEth/nethermind/commit/0297649487fc9201e14e5f36a2034d54b8d1c957) - 2025-06-06
+* [Commit] [Build](https://github.com/NethermindEth/nethermind/commit/d7fe59e4f33c8a215ccdf821f5b466c953fd9294) - 2025-06-06
+* [Commit] [Clean up ordering](https://github.com/NethermindEth/nethermind/commit/3fceeedfa168e06c3d28785a8410265b1b7340f5) - 2025-06-06
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

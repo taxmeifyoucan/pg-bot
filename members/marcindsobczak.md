@@ -31,6 +31,9 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Issue] [Support EIP-7892 - Blob Parameter Only Hardforks](https://github.com/NethermindEth/nethermind/issues/8618) - 2025-05-12
 * [Issue] [Implement EIP-7823 - Set upper bounds for MODEXP](https://github.com/NethermindEth/nethermind/issues/8617) - 2025-05-12
 * [Commit] [add modexp vulnerability test cases](https://github.com/NethermindEth/nethermind/commit/4be132d62b68a2913d4dd1557ff7044eb7dc26f1) - 2025-06-05
+* [Commit] [cleaning](https://github.com/NethermindEth/nethermind/commit/ceb8d57b8530ce8181d7427c115ca593386909d6) - 2025-06-06
+* [Commit] [Cleanup/make sync test slightly faster (#7715)](https://github.com/NethermindEth/nethermind/commit/6409179a1e9844af21b697f0bd90f4c76248414f) - 2025-06-06
+* [Commit] [Improve JumpDest analysis (#8725)](https://github.com/NethermindEth/nethermind/commit/445670827c427ad21d4a174fbe42805c2ad654d2) - 2025-06-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7883: Add reference implementation](https://github.com/ethereum/EIPs/pull/9645) - 2025-04-15
 ## Q1 2025

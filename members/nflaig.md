@@ -194,6 +194,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: add quic panels to libp2p dashboard](https://github.com/ChainSafe/lodestar/pull/7913) - 2025-06-04
 * [Commit] [chore: track Packed Attestation metrics on Block Production dashboard (#7911)](https://github.com/ChainSafe/lodestar/commit/8e542ab922dc5c5c6421386ea5b30c4d1db96ec2) - 2025-06-04
 * [Commit] [feat: add metric to track consensus block value (#7921)](https://github.com/ChainSafe/lodestar/commit/a2ccd2896cb11395cd3a284a74cb0adf908bf616) - 2025-06-05
+* [Commit] [chore: do not create map entry if prev block root does not exist (#7928)](https://github.com/ChainSafe/lodestar/commit/329b9dc209d12bc7aed79eb4b8eded6c36e643e0) - 2025-06-06
+* [Pull Request] [chore: add panels to validator client dashboard to track aggregate participants](https://github.com/ChainSafe/lodestar/pull/7929) - 2025-06-06
+* [Commit] [chore: add panels for SyncContributionAndProofPool metrics (#7922)](https://github.com/ChainSafe/lodestar/commit/1813e51cee7a3a57599f20ead1dfa927449cbe5d) - 2025-06-06
+* [Pull Request] [chore: create empty Map if entry for prev block root does not exist](https://github.com/ChainSafe/lodestar/pull/7928) - 2025-06-06
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -289,6 +289,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs(forks): remove `blockchain_test_network_name` from docs](https://github.com/ethereum/execution-spec-tests/commit/d5b951ffb138052710bf6716589ff463444f7953) - 2025-06-04
 * [Commit] [Deployed ee9b84d9b0 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/96c0bc6f15f33a2d869c3625cf7d692e89d82018) - 2025-06-04
 * [Commit] [Deployed d71dcc07c0 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1f6c8fec54168845b1ae171cbfe73fdfeb799e88) - 2025-06-05
+* [Commit] [feat(plugins,docs): EIP checklist generator plugin (#1679)](https://github.com/ethereum/execution-spec-tests/commit/d71dcc07c0bc6d5cd567171ac1c38a74044d684f) - 2025-06-06
+* [Commit] [docs(consume): write some docs](https://github.com/ethereum/execution-spec-tests/commit/37319e42e6f2e61719429e20bbacc3ff2520f9d9) - 2025-06-06
+* [Commit] [Deployed 8c3cbd7a4e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/722ecbea3e1e4f160e281d1cc2097a12848bc4e0) - 2025-06-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

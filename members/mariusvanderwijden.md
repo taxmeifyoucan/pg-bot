@@ -50,6 +50,9 @@ Team: Geth
 * [Commit] [core/txpool: add explicit max blob count limit (#31837)](https://github.com/ethereum/go-ethereum/commit/20ad4f500e7fafab93f6d94fa171a5c0309de6ce) - 2025-06-04
 * [Commit] [core/txpool/blobpool: adjust slot size for cell proof transactions](https://github.com/ethereum/go-ethereum/commit/8af6023f06aa02fb133edc81ca58847cf4282ee5) - 2025-06-04
 * [Commit] [core/txpool/blobpool: adjust slot size for cell proof transactions](https://github.com/ethereum/go-ethereum/commit/55199fc440ac0d631e05b4f61de921264b0e6496) - 2025-06-04
+* [Pull Request] [Fusaka devnet 1](https://github.com/ethereum/go-ethereum/pull/31981) - 2025-06-06
+* [Commit] [core/vm: implement EIP 7825 - Transaction Gas Limit Cap](https://github.com/ethereum/go-ethereum/commit/fbd51127a283e6021516d7e770724802f779c7aa) - 2025-06-06
+* [Commit] [crypto/kzg4844: avoid copying blobs for marshaling (#31911)](https://github.com/ethereum/go-ethereum/commit/d675721276d126012faa264491d632689703ad3b) - 2025-06-06
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

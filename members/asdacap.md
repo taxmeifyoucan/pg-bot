@@ -222,6 +222,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Unnecessary comment](https://github.com/NethermindEth/nethermind/commit/c4721548ef097fd9830f4a7044d17d8e879b597b) - 2025-06-04
 * [Commit] [Separate neth dev to another file](https://github.com/NethermindEth/nethermind/commit/d002507bb31e0c0c2d1391d710b437d8ed2bb0a7) - 2025-06-04
 * [Commit] [Better name](https://github.com/NethermindEth/nethermind/commit/dfce6f6cc9cd39428994d6a06179b5e81d2b2c12) - 2025-06-04
+* [Commit] [Remove unnecessary code](https://github.com/NethermindEth/nethermind/commit/5259ee64deb421bc83633531e6aa870db40344f3) - 2025-06-06
+* [Commit] [More cleanup](https://github.com/NethermindEth/nethermind/commit/029ee52defe81a2c2c3c39484f86d500755e594e) - 2025-06-06
+* [Pull Request] [Refactor/Deduplicate Proof and Trace RPC](https://github.com/NethermindEth/nethermind/pull/8741) - 2025-06-06
+* [Commit] [Slight cleanup, fixed some test](https://github.com/NethermindEth/nethermind/commit/68cdc7401b2fd9b57a82e27eaae138e273534110) - 2025-06-06
+* [Commit] [Cleanup](https://github.com/NethermindEth/nethermind/commit/852acf9be8fce3a3b2bc43bc0c2cb38d5fd434ff) - 2025-06-06
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
