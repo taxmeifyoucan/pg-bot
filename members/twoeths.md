@@ -119,6 +119,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [c-kzg verifyCellKzgProofBatch high process_heap_bytes](https://github.com/ChainSafe/lodestar/issues/7930) - 2025-06-06
 * [Commit] [fix: produceBlockV3 unit test](https://github.com/ChainSafe/lodestar/commit/4859a6131afd3911447dc5489144a30bf15ca326) - 2025-06-06
 * [Pull Request] [fix: parent slot of produced block](https://github.com/ChainSafe/lodestar/pull/7927) - 2025-06-06
+* [Commit] [fix: firstDataColumn undefined](https://github.com/ChainSafe/lodestar/commit/ea9cbd180bed8b86e95e878e4cc19ad401fe9466) - 2025-06-07
+* [Commit] [fix: try new param population for recoverCellsAndKzgProofs()](https://github.com/ChainSafe/lodestar/commit/d84d9e164f8510351fc36f61f54046f7cdddbefd) - 2025-06-07
+* [Commit] [fix: sort columns before recover_matrix](https://github.com/ChainSafe/lodestar/commit/f76dbad6c0fe914b8e046416fdcad1cac87cb5e2) - 2025-06-07
+* [Commit] [fix: dedup resolveAvailabilitySource metric](https://github.com/ChainSafe/lodestar/commit/5236b2e479ced3e776c1f2c607cd7afd8e94d7ef) - 2025-06-07
+* [Issue] [PeerDAS: super node should only wait for the first 64 data_column_sidecars to process blocks](https://github.com/ChainSafe/lodestar/issues/7932) - 2025-06-07
+* [Issue] [PeerDAS: huge till become head](https://github.com/ChainSafe/lodestar/issues/7931) - 2025-06-07
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

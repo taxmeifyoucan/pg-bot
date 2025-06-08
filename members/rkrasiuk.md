@@ -83,6 +83,7 @@ Team: Reth
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/c965c9d7514564c4ea09566f6727db704ef78805) - 2025-06-04
 * [Commit] [unsaved changed](https://github.com/paradigmxyz/reth/commit/c71d6a4201c8f603d2efcf113790682879a0b163) - 2025-06-04
 * [Pull Request] [feat: EIP-7825](https://github.com/paradigmxyz/reth/pull/16648) - 2025-06-04
+* [Commit] [encode and return execution witness](https://github.com/paradigmxyz/reth/commit/7bb8a7b3f47aff94c6cdf3b883ae2008bf01e183) - 2025-06-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16
 

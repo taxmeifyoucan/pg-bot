@@ -151,6 +151,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix: typing](https://github.com/ethereum/execution-spec-tests/commit/104c3d7965087daa40d981e7f57fdbb7b4cd7e73) - 2025-06-04
 * [Commit] [feat(plugins,docs): EIP checklist generator plugin (#1679)](https://github.com/ethereum/execution-spec-tests/commit/d71dcc07c0bc6d5cd567171ac1c38a74044d684f) - 2025-06-05
 * [Commit] [chore(deps,tooling,ci): replace `pyspelling` with `codespell` in `tox` (#1715)](https://github.com/ethereum/execution-spec-tests/commit/8c3cbd7a4eef3967abd78db32ee45ef8f7cf8271) - 2025-06-06
+* [Commit] [fix: typing](https://github.com/ethereum/execution-spec-tests/commit/36ad5a4ffe9d593bffe0580a77b6530887345149) - 2025-06-07
+* [Pull Request] [feat(checklists): Add `EIPChecklist` enum to access EIP Checklist Items](https://github.com/ethereum/execution-spec-tests/pull/1718) - 2025-06-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

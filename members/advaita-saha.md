@@ -73,3 +73,5 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [Fusaka: add getPayloadV5 to engineAPI](https://github.com/status-im/nimbus-eth1/pull/3363) - 2025-06-04
 * [Commit] [meaningless bpo](https://github.com/status-im/nimbus-eth1/commit/bff33701f60d9fc4427f090083d0bd0e746f1dc0) - 2025-06-05
 * [Commit] [applicable for bpos after osaka (#3366)](https://github.com/status-im/nimbus-eth1/commit/1e0094f0ef828c279070cec1d010a8a5259b91d9) - 2025-06-05
+* [Commit] [fix excessblobgas calculation](https://github.com/status-im/nimbus-eth1/commit/1428da4f6f655fce525b1168cdf8eca9ad330ebc) - 2025-06-07
+* [Commit] [fix: spec mismatch](https://github.com/status-im/nimbus-eth1/commit/400acf105964affefcbedcfc9a03132a75724e22) - 2025-06-07

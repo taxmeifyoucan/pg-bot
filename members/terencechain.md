@@ -75,6 +75,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Fix minimal tests](https://github.com/OffchainLabs/prysm/commit/009263650cae56afdb427ca45f5982c25aa7840f) - 2025-06-06
 * [Commit] [Fix minimal tests](https://github.com/OffchainLabs/prysm/commit/d7691f106d93fad5755abfff8f8716fb94fcba45) - 2025-06-06
 * [Commit] [Fix minimal tests](https://github.com/OffchainLabs/prysm/commit/41dd130e5b63a3ab90c71385b72ae5a1a11e9c43) - 2025-06-06
+* [Pull Request] [Set subscribe all data subnets once](https://github.com/OffchainLabs/prysm/pull/15388) - 2025-06-07
+* [Commit] [beacon api: Stream event for data column sidecar](https://github.com/OffchainLabs/prysm/commit/79022a321cce0ade56c99afc12ec66b38e5190c9) - 2025-06-07
+* [Commit] [beacon api: Stream event for data column sidecar](https://github.com/OffchainLabs/prysm/commit/f8c403368187c697778ff36dfb1c5b4a8e610e15) - 2025-06-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Update fulu p2p spec for BPO](https://github.com/ethereum/consensus-specs/issues/4331) - 2025-05-19
 ## Q1 2025

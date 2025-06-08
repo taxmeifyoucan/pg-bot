@@ -400,6 +400,13 @@ Team: Reth
 * [Issue] [Use median prio for suggested fee for optimism](https://github.com/paradigmxyz/reth/issues/16669) - 2025-06-05
 * [Commit] [feat(GasOracle): new function to compute median (#16645)](https://github.com/paradigmxyz/reth/commit/717449b0766a20ec6be4d04f54bb1a44a91fa790) - 2025-06-05
 * [Issue] [Respect BlockRangeInfo when selecting peer for request](https://github.com/paradigmxyz/reth/issues/16697) - 2025-06-06
+* [Issue] [relax setup_without_evm helper fn](https://github.com/paradigmxyz/reth/issues/16717) - 2025-06-07
+* [Pull Request] [perf: remove redundant clones](https://github.com/paradigmxyz/reth/pull/16716) - 2025-06-07
+* [Pull Request] [chore: relax eth network builder](https://github.com/paradigmxyz/reth/pull/16714) - 2025-06-07
+* [Pull Request] [chore: make ethpool alias generic over tx](https://github.com/paradigmxyz/reth/pull/16713) - 2025-06-07
+* [Issue] [Add `Body::contains_transaction(&TxHash)`](https://github.com/paradigmxyz/reth/issues/16712) - 2025-06-07
+* [Commit] [chore: re-export all types in node mod (#16710)](https://github.com/paradigmxyz/reth/commit/f209048bee6c037039826e508055501c4680ad7a) - 2025-06-07
+* [Commit] [re-export](https://github.com/paradigmxyz/reth/commit/76bcc8660a6c6cf47a77de3d04275e4db910a5c6) - 2025-06-07
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

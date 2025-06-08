@@ -95,6 +95,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [[fusaka-devnet-1] Merge main into  fusaka-devnet-1 (#8754)](https://github.com/hyperledger/besu/commit/90a9a7e37699b87dc3287e2911800d04c1dba92f) - 2025-06-06
 * [Pull Request] [[fusaka-devnet-1] Merge main into  fusaka-devnet-1](https://github.com/hyperledger/besu/pull/8754) - 2025-06-06
 * [Commit] [Revert "feat: remove chain head check if peer supports eth/69 (#8725)" (#8753)](https://github.com/hyperledger/besu/commit/67b00408c073bb0866ed76ff0a239ad941d8699f) - 2025-06-06
+* [Issue] [EIP-7892: add max blobs per block to fork id](https://github.com/hyperledger/besu/issues/8764) - 2025-06-07
+* [Pull Request] [fix(engine): engine_getBlobsV2 missing from engine_exchangeCapabilities](https://github.com/hyperledger/besu/pull/8763) - 2025-06-07
+* [Issue] [EIP-7907: codehash => codesize index](https://github.com/hyperledger/besu/issues/8762) - 2025-06-07
+* [Pull Request] [feat: add max number of blob per transaction](https://github.com/hyperledger/besu/pull/8761) - 2025-06-07
+* [Issue] [Add blob count per tx limit via blobSchedule](https://github.com/hyperledger/besu/issues/8760) - 2025-06-07
+* [Commit] [Add engine_getblobsV2 to RpcMethod list (#8759)](https://github.com/hyperledger/besu/commit/327fe9c01ab96686c82f98ec219201a0f065eb64) - 2025-06-07
+* [Pull Request] [[fusaka-devnet-1] Add engine_getblobsV2 to RpcMethod list](https://github.com/hyperledger/besu/pull/8759) - 2025-06-07
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

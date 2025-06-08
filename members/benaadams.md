@@ -293,6 +293,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [tests](https://github.com/NethermindEth/nethermind/commit/0297649487fc9201e14e5f36a2034d54b8d1c957) - 2025-06-06
 * [Commit] [Build](https://github.com/NethermindEth/nethermind/commit/d7fe59e4f33c8a215ccdf821f5b466c953fd9294) - 2025-06-06
 * [Commit] [Clean up ordering](https://github.com/NethermindEth/nethermind/commit/3fceeedfa168e06c3d28785a8410265b1b7340f5) - 2025-06-06
+* [Commit] [Make `StateProvider` hot code in the common path (#8744)](https://github.com/NethermindEth/nethermind/commit/626a9e7d5bbcd25e188d8ff9858dacd9404615a3) - 2025-06-07
+* [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/2ed5b341e3e520f8890f528c6817b034f541bac3) - 2025-06-07
+* [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/71dedb3e6f4ef6351339a930e12203b9f168c34a) - 2025-06-07
+* [Pull Request] [Make `StateProvider` hot code in the common path](https://github.com/NethermindEth/nethermind/pull/8744) - 2025-06-07
+* [Commit] [Too far](https://github.com/NethermindEth/nethermind/commit/79179baff1aa99a6408b73a807e1c82a0de81275) - 2025-06-07
+* [Commit] [Tweaks](https://github.com/NethermindEth/nethermind/commit/755738d30c50d79b491374c461c43f171c73c801) - 2025-06-07
+* [Commit] [Adjust block size to CL pessimistic block size (#8737)](https://github.com/NethermindEth/nethermind/commit/b7db4a140bdede1da9f5ad6b8a0db74ec1cf24f8) - 2025-06-07
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025
