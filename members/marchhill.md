@@ -109,6 +109,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [move minhistoryretention to chainspec](https://github.com/NethermindEth/nethermind/commit/2a415cd74ad16ae352bad7316003c167f53368eb) - 2025-06-06
 * [Commit] [Update src/Nethermind/Nethermind.Config/IHistoryConfig.cs](https://github.com/NethermindEth/nethermind/commit/e5ebd42878093909c569d4d728430da48ebbd163) - 2025-06-06
 * [Commit] [pass history pruner to taiko](https://github.com/NethermindEth/nethermind/commit/a57b4469b970269525ea57ba01230b498b6cfea0) - 2025-06-06
+* [Commit] [chore(evm): fix 7918 blob gas calculator (#8743)](https://github.com/NethermindEth/nethermind/commit/81c91ca28c20eda23eb42c7e66129fc9f9c9823c) - 2025-06-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

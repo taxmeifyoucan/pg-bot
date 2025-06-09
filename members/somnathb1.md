@@ -180,6 +180,8 @@ Team: Erigon
 * [Commit] [E3: Fix receipts dangling from reorged blocks (#15401)](https://github.com/erigontech/erigon/commit/426ecc45ff630c9fc26d84d90495022d51bbb638) - 2025-06-04
 * [Commit] [Remove odd comment](https://github.com/erigontech/erigon/commit/74f7d41c86c1a551dba9b4b0390fbd3e057d135b) - 2025-06-05
 * [Commit] [Spelling fixes](https://github.com/erigontech/erigon/commit/a10645c5f419c0abc09e82127e0368f9f3ae8df2) - 2025-06-06
+* [Commit] [engineapi, txpool: implement getBlobsV2 (#15420)](https://github.com/erigontech/erigon/commit/824f3faaca4d2cb0d7fe85c5fa25165a3f54b68a) - 2025-06-08
+* [Commit] [require nil](https://github.com/erigontech/erigon/commit/f1fa10948f70c03cb2af84e67be569f9bd668bfc) - 2025-06-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

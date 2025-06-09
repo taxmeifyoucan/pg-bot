@@ -64,6 +64,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [logs](https://github.com/paradigmxyz/reth/commit/675ebd05027e5e047dede239cf836f8c9e94907c) - 2025-06-06
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/92f0e0808d96698fa11b85ed739df397aa93718a) - 2025-06-06
 * [Pull Request] [fix: correctly set sync gap](https://github.com/paradigmxyz/reth/pull/16695) - 2025-06-06
+* [Issue] [Make `EthEvmConfig` generic over chainspec](https://github.com/paradigmxyz/reth/issues/16722) - 2025-06-08
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/a7ca04d56781d0c81d6378c7b5a6b24e3f99532f) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/12aae0ed7ebf2c8f8dff1f0fa2dad4602c743977) - 2025-06-05

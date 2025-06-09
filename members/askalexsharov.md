@@ -2422,6 +2422,14 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/c9f0c80d6eac918c3a3c74c43cc0019bbc2b5e51) - 2025-06-07
 * [Commit] [sd: try remove Commitment calc from Flush: take 2 (#15454)](https://github.com/erigontech/erigon/commit/c6ebf66d6d9f720d429c94b2071286ad69a03515) - 2025-06-07
 * [Commit] [no memstat env variable (#15478)](https://github.com/erigontech/erigon/commit/99c7fee6e60de8b1ef5e10a163d5fc71ab4e843d) - 2025-06-07
+* [Commit] [cancel previous job runs in integration and qa-rpc (#14296)](https://github.com/erigontech/erigon/commit/d5863f5ddfb76c24021b7aac10c611a1d05bef2f) - 2025-06-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/47c30de2dbfdd92f6904dbc40dc88a955186e0ea) - 2025-06-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/76ada60c7c37da2611b2321dff6284220de59bb8) - 2025-06-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ef4c8a3672683b86b2ba9e1105c43a5646693566) - 2025-06-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/590f1afb0e0c6caa374c9e8bd3c7d20680accc5d) - 2025-06-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0fbc5b7768dfcd164445d310412af3e515a4036f) - 2025-06-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6fd1451f727b057b470557d110395536a7f3c760) - 2025-06-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ddcaf032ee5d9a7b9cf9e8d2beab561aea9bb9a6) - 2025-06-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

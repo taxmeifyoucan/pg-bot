@@ -292,6 +292,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(plugins,docs): EIP checklist generator plugin (#1679)](https://github.com/ethereum/execution-spec-tests/commit/d71dcc07c0bc6d5cd567171ac1c38a74044d684f) - 2025-06-06
 * [Commit] [docs(consume): write some docs](https://github.com/ethereum/execution-spec-tests/commit/37319e42e6f2e61719429e20bbacc3ff2520f9d9) - 2025-06-06
 * [Commit] [Deployed 8c3cbd7a4e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/722ecbea3e1e4f160e281d1cc2097a12848bc4e0) - 2025-06-06
+* [Commit] [docs: refactor to 'running tests' WIP](https://github.com/ethereum/execution-spec-tests/commit/89c19b2af6281d6945e1f11d86229d0e7daf2832) - 2025-06-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

@@ -29,6 +29,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [fix(multitx): Add local flags for create and selfdestruct (#2581)](https://github.com/bluealloy/revm/commit/0d871680332b167a59453998c5bf7eef7a7d6e45) - 2025-06-06
 * [Commit] [fix zepter](https://github.com/bluealloy/revm/commit/a399d6a6028bf2c6c7580c4106693180f6a76a4f) - 2025-06-06
 * [Commit] [add selfdestruct crate test](https://github.com/bluealloy/revm/commit/c10a27303c35c672d5c480a240774a295a4514d6) - 2025-06-06
+* [Commit] [feat: added instruction_result fn in LoopControl trait  (#2595)](https://github.com/bluealloy/revm/commit/3df63308f2ed7b4cdd62ad83feaf7c18ea7193ab) - 2025-06-08
+* [Commit] [feat: add optional priority fee check configuration (#2588)](https://github.com/bluealloy/revm/commit/0fe45f534b8e95b991d86aadb4efd41d3675ca56) - 2025-06-08
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

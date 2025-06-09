@@ -72,6 +72,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [polygon/sync: tweak fetch blocks backwards timeout (#15328)](https://github.com/erigontech/erigon/commit/0f969d1c3b33c3729d5911e66a7ab3419b82cb4e) - 2025-05-30
 * [Issue] [caplin forward sync stuck on Sepolia - Failed to send beacon blocks by range request err](https://github.com/erigontech/erigon/issues/15422) - 2025-06-03
 * [Issue] [core/state: no need to delete storage slots in CreateContract since we now have EIP-7610 implemented](https://github.com/erigontech/erigon/issues/15443) - 2025-06-04
+* [Commit] [fix: erigon init cmd now generating salt-state](https://github.com/erigontech/erigon/commit/b28a69136575081aa1192a439f152a212cac989e) - 2025-06-08
+* [Commit] [fix: EL block downloader causing extremely large chaindata size when doing large backward downloads](https://github.com/erigontech/erigon/commit/cd67359dd2fad7436c9911243fb44faf53979184) - 2025-06-08
+* [Commit] [fix: EL block downloader causing extremely large chaindata size when doing large backward downloads](https://github.com/erigontech/erigon/commit/40d7a017d484482514eaa49eebc2228a6647b944) - 2025-06-08
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -110,6 +110,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add peerDAS computation metric (#7205)](https://github.com/status-im/nimbus-eth2/commit/5ef6246156ca681fce66ae164e648ddb4a99c68c) - 2025-06-03
 * [Commit] [Add peerDAS kzg verification metrics (#7154)](https://github.com/status-im/nimbus-eth2/commit/39e49e1ea9def84588ada20849554bb3ef30c95d) - 2025-06-03
 * [Pull Request] [resolve custody columns to hashset](https://github.com/status-im/nimbus-eth2/pull/7210) - 2025-06-05
+* [Commit] [add beacon proposer indices fn](https://github.com/status-im/nimbus-eth2/commit/7daeba3e2b12dc08a9ccd71e7808a6e0cbacd707) - 2025-06-08
+* [Commit] [add initialize proposer lookahead](https://github.com/status-im/nimbus-eth2/commit/0a22620350373a913f0f1bc7a67115bed3f48c13) - 2025-06-08
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -125,6 +125,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: dedup resolveAvailabilitySource metric](https://github.com/ChainSafe/lodestar/commit/5236b2e479ced3e776c1f2c607cd7afd8e94d7ef) - 2025-06-07
 * [Issue] [PeerDAS: super node should only wait for the first 64 data_column_sidecars to process blocks](https://github.com/ChainSafe/lodestar/issues/7932) - 2025-06-07
 * [Issue] [PeerDAS: huge till become head](https://github.com/ChainSafe/lodestar/issues/7931) - 2025-06-07
+* [Issue] [PeerDAS: retry getBlobsV2](https://github.com/ChainSafe/lodestar/issues/7933) - 2025-06-08
+* [Commit] [feat: unit test recover_matrix](https://github.com/ChainSafe/lodestar/commit/16b1c390a3e16152a1170f4bdc459765fe95e714) - 2025-06-08
+* [Commit] [fix: unit test recoverDataColumnSidecars](https://github.com/ChainSafe/lodestar/commit/c04a32b01d863b38add93bbc3ed9564f2eb9bed8) - 2025-06-08
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

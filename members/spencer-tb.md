@@ -96,6 +96,18 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(forks|tests): some implementation fixes.](https://github.com/ethereum/execution-spec-tests/commit/70abcc0614b3571b6dd524dc7af147a9f5aebfdc) - 2025-06-03
 * [Commit] [chore(tests): fix filling, remove multi block test temp.](https://github.com/ethereum/execution-spec-tests/commit/64f065c516c40fcd7f41ffc0406d70d96efbd935) - 2025-06-05
 * [Commit] [feat(tests|forks): specific 7918 tests, other changes.](https://github.com/ethereum/execution-spec-tests/commit/f031211a742ca9372b6a7bd2033c9096fbcec7af) - 2025-06-05
+* [Commit] [chore: use latest eels resolver.](https://github.com/ethereum/execution-spec-tests/commit/c6ccc05119b15a3018db1039c922cdc4c0a0ab97) - 2025-06-08
+* [Pull Request] [chore: use latest eels resolver](https://github.com/ethereum/execution-spec-tests/pull/1722) - 2025-06-08
+* [Commit] [zkevm: add SELFDESTRUCT coverage (#1678)](https://github.com/ethereum/execution-spec-tests/commit/d6252aafec3553afe978432672971d7eadbeb8fe) - 2025-06-08
+* [Commit] [feat(tests): make execute blob tests client agnostic.](https://github.com/ethereum/execution-spec-tests/commit/12a87c33e1f1df0209871335f1ba7ffb031ba485) - 2025-06-08
+* [Commit] [chore: remove tx error.](https://github.com/ethereum/execution-spec-tests/commit/e1345116cdc7de199eaa6cc99b5fb82e4637faff) - 2025-06-08
+* [Commit] [chore: update tx blobs fixture.](https://github.com/ethereum/execution-spec-tests/commit/97ee8e8a35271d91932432916c37521d738a61b8) - 2025-06-08
+* [Commit] [chore: tweak fixture naming.](https://github.com/ethereum/execution-spec-tests/commit/366ed8022b3537aa58adc50cd210889cf7b35264) - 2025-06-08
+* [Commit] [feat(tests/port): convert stShiftCombinationsFiller (>30Mgas) (#1683)](https://github.com/ethereum/execution-spec-tests/commit/e5e3ebec5771e63fe4ac132a21d865353cbce784) - 2025-06-08
+* [Commit] [chore: fix spellcheck in filler eip checklist.](https://github.com/ethereum/execution-spec-tests/commit/cdb41fbc6808fad50b3b27f2c45baf1c74efab2d) - 2025-06-08
+* [Pull Request] [chore: fix spellcheck in filler eip checklist](https://github.com/ethereum/execution-spec-tests/pull/1721) - 2025-06-08
+* [Commit] [chore(docs): changelog.](https://github.com/ethereum/execution-spec-tests/commit/a9a328dfec59139b41618baadd3f34c70b019e89) - 2025-06-08
+* [Pull Request] [feat(tests): execute blob tests client agnostic](https://github.com/ethereum/execution-spec-tests/pull/1720) - 2025-06-08
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

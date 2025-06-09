@@ -17,6 +17,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Update EIP-6404: Add some suggestions or corrections](https://github.com/ethereum/EIPs/pull/9788) - 2025-05-17
 
 * [Pull Request] [Update EIP-7883: clarify using `diff`](https://github.com/ethereum/EIPs/pull/9828) - 2025-05-26
+* [Pull Request] [EIP-7928: Add note about linear scaling of BAL size w.r.t. `block.gasLimit`](https://github.com/ethereum/EIPs/pull/9873) - 2025-06-08
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Bench/worst bytecode raised max codes size](https://github.com/ethereum/execution-spec-tests/pull/1649) - 2025-05-25
 * [Commit] [feat(tests): Update benchmark test to query newly introduced `max_code_size()` from fork config (#1649)](https://github.com/ethereum/execution-spec-tests/commit/ee9b84d9b03de5711242edb26b774c69cbcde769) - 2025-06-04

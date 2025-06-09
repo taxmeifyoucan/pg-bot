@@ -177,6 +177,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [chore: extract engine tests to separate file](https://github.com/paradigmxyz/reth/pull/16671) - 2025-06-05
 * [Pull Request] [chore(ci): unpin teku image for kurtosis-op ethereum-package](https://github.com/paradigmxyz/reth/pull/16670) - 2025-06-05
 * [Commit] [docs: Replace GitFlic URL with official GitHub repository for libmdbx (#16496)](https://github.com/paradigmxyz/reth/commit/e7d785663750179b1027581eba4f9626e12d4c5e) - 2025-06-06
+* [Commit] [test: multie-node support in e2e testsuite](https://github.com/paradigmxyz/reth/commit/f0c7e1aaeb603626d0ce734b8ae81ab733f39efd) - 2025-06-08
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -32,3 +32,5 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [Engine-API: Faster recovery for the block downloader (#15389)](https://github.com/erigontech/erigon/commit/92b4cfb37c5a10ce55bd0a66eae1615ef7c5a915) - 2025-06-02
 * [Commit] [use new rpc-test version](https://github.com/erigontech/erigon/commit/ef95d37f661370470baea2ec49e4d81def194ccc) - 2025-06-02
 * [Pull Request] [rpcdaemon: ots_getContractCreator() add check on tracer.found()](https://github.com/erigontech/erigon/pull/15405) - 2025-06-02
+* [Pull Request] [rpcdaemon:  use api. header getter api](https://github.com/erigontech/erigon/pull/15496) - 2025-06-08
+* [Pull Request] [erigon: set default channel size to 8192](https://github.com/erigontech/erigon/pull/15495) - 2025-06-08

@@ -227,6 +227,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Refactor/Deduplicate Proof and Trace RPC](https://github.com/NethermindEth/nethermind/pull/8741) - 2025-06-06
 * [Commit] [Slight cleanup, fixed some test](https://github.com/NethermindEth/nethermind/commit/68cdc7401b2fd9b57a82e27eaae138e273534110) - 2025-06-06
 * [Commit] [Cleanup](https://github.com/NethermindEth/nethermind/commit/852acf9be8fce3a3b2bc43bc0c2cb38d5fd434ff) - 2025-06-06
+* [Commit] [Feature/Step dependents (#8734)](https://github.com/NethermindEth/nethermind/commit/c8e774d17073af3995779ac41fd8722082e041d7) - 2025-06-09
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
