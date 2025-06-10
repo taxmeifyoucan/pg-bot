@@ -198,6 +198,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: add panels to validator client dashboard to track aggregate participants](https://github.com/ChainSafe/lodestar/pull/7929) - 2025-06-06
 * [Commit] [chore: add panels for SyncContributionAndProofPool metrics (#7922)](https://github.com/ChainSafe/lodestar/commit/1813e51cee7a3a57599f20ead1dfa927449cbe5d) - 2025-06-06
 * [Pull Request] [chore: create empty Map if entry for prev block root does not exist](https://github.com/ChainSafe/lodestar/pull/7928) - 2025-06-06
+* [Commit] [chore: review EIP-7917 deterministic proposer lookahead](https://github.com/ChainSafe/lodestar/commit/be0474de84803340acc40cf39fa4ef930108d09d) - 2025-06-09
+* [Pull Request] [chore: review EIP-7917 deterministic proposer lookahead](https://github.com/ChainSafe/lodestar/pull/7937) - 2025-06-09
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

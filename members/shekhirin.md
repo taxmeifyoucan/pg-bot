@@ -251,6 +251,15 @@ Team: Reth
 * [Commit] [add a todo for common prefix length](https://github.com/paradigmxyz/reth/commit/5b29bda937865713f36450ae1e2efd8a072c3c93) - 2025-06-06
 * [Commit] [perf(trie): optimize Ord for PackedNibbles](https://github.com/paradigmxyz/reth/commit/3e0b3dcd094059be207ff972ec7b4618512839f5) - 2025-06-06
 * [Commit] [perf(trie): optimize Ord for PackedNibbles](https://github.com/paradigmxyz/reth/commit/b7fcf605eb1c396ee2906fe6c15b5de7dd17c201) - 2025-06-06
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/55c0d3f9d476ee308c006e2ad7595b4257869bc2) - 2025-06-09
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/a267640d3849304a0ecfea7308f7e0f9bc962334) - 2025-06-09
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/641493dcbbbcdc1337dc4936352138860beebf5e) - 2025-06-09
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/235d5ad7e8ed34fd2b370a322b80de3140e46622) - 2025-06-09
+* [Commit] [fix: use correct sender_id_or_create as intended (#16684)](https://github.com/paradigmxyz/reth/commit/285c1acb84eb794b5e6445b785204d73d0ccd373) - 2025-06-09
+* [Commit] [patch with github](https://github.com/paradigmxyz/reth/commit/8476ce494601bf6f545b50751ae463fa562d129d) - 2025-06-09
+* [Pull Request] [uint nybbles](https://github.com/paradigmxyz/reth/pull/16727) - 2025-06-09
+* [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/8fa63c532985b839c4ceff6f8b51f79e27473634) - 2025-06-09
+* [Commit] [perf(pipeline): speed up fork unwinding with exponential backoff (#16622)](https://github.com/paradigmxyz/reth/commit/faf6741a60b76b4ced74239d7fb6a60649a35876) - 2025-06-09
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

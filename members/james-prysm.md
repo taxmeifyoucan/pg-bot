@@ -111,6 +111,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Validator: Remove early context cancellation. (#15369)](https://github.com/OffchainLabs/prysm/commit/91b44360fcd74bad41f38b79bb3b05094408a2d0) - 2025-06-03
 * [Commit] [removing redundant loop in computeOnChainAggregate (#15108)](https://github.com/OffchainLabs/prysm/commit/a50e981c7474b00fab67214f501f2e7c915b0028) - 2025-06-03
 * [Commit] [SSZ support for Attestation APIs Part 1 (#15377)](https://github.com/OffchainLabs/prysm/commit/265d84569c6b892d2e55185d065c24a4df9776c7) - 2025-06-05
+* [Commit] [Reorganize processing of light client updates (#15383)](https://github.com/OffchainLabs/prysm/commit/f5a9394c77daf4950f8437fed795e17d30295397) - 2025-06-09
+* [Pull Request] [adding ssz for get block endpoint](https://github.com/OffchainLabs/prysm/pull/15390) - 2025-06-09
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

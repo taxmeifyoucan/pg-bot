@@ -29,6 +29,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [docs: add python distutils to faqs (#7835)](https://github.com/ChainSafe/lodestar/commit/d7a6cebf5da9c63f5756d366b9976d06d844d096) - 2025-05-16
 * [Issue] [blst submodule of c-kzg build: error: invalid CFI advance_loc expression](https://github.com/ChainSafe/lodestar/issues/7880) - 2025-05-27
 * [Commit] [chore: change remaining package licenses from LGPL-v3 to Apache-2.0 (#7915)](https://github.com/ChainSafe/lodestar/commit/672665e350ef533b9454ddb8c6bf040f1cd05de7) - 2025-06-05
+* [Issue] [Berlinterop Issues](https://github.com/ChainSafe/lodestar/issues/7934) - 2025-06-09
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -43,6 +43,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: add quic panels to libp2p dashboard (#7913)](https://github.com/ChainSafe/lodestar/commit/5787f1f993e72397a39e8d9168edd0e55009e53d) - 2025-06-05
 * [Commit] [chore: add panels for IDONTWANT metrics to gossipsub dashboard (#7924)](https://github.com/ChainSafe/lodestar/commit/7beba714e0fdc6a42ca6a94e5256c127c7256541) - 2025-06-06
 * [Commit] [fix: parent slot of produced block (#7927)](https://github.com/ChainSafe/lodestar/commit/6a4314ca053bbd38e805ae4a73688b6b82916e32) - 2025-06-06
+* [Commit] [fix: unit test](https://github.com/ChainSafe/lodestar/commit/d47f4d0b38f7db6ffebd6ea79d2188163ec94fc2) - 2025-06-09
+* [Commit] [chore: fix unit test](https://github.com/ChainSafe/lodestar/commit/7d604d4040bb187a3e6db4f38c09b9c6e6d5098e) - 2025-06-09
+* [Commit] [chore: remove final references to c-kzg](https://github.com/ChainSafe/lodestar/commit/616bf34c204aef63f164ff0786b3085c71fc9adb) - 2025-06-09
+* [Commit] [chore: remove c-kzg dependency and stray reference](https://github.com/ChainSafe/lodestar/commit/8f1a4f3dda674e075bc1e3ea4bf67dcfe8cb9317) - 2025-06-09
+* [Pull Request] [feat: async kzg proof verification](https://github.com/ChainSafe/lodestar/pull/7936) - 2025-06-09
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -112,6 +112,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [resolve custody columns to hashset](https://github.com/status-im/nimbus-eth2/pull/7210) - 2025-06-05
 * [Commit] [add beacon proposer indices fn](https://github.com/status-im/nimbus-eth2/commit/7daeba3e2b12dc08a9ccd71e7808a6e0cbacd707) - 2025-06-08
 * [Commit] [add initialize proposer lookahead](https://github.com/status-im/nimbus-eth2/commit/0a22620350373a913f0f1bc7a67115bed3f48c13) - 2025-06-08
+* [Commit] [Add engine_getBlobsV2 metrics (#7207)](https://github.com/status-im/nimbus-eth2/commit/4918a5118005dcaef64067763822735531261ae6) - 2025-06-09
+* [Commit] [updated tests](https://github.com/status-im/nimbus-eth2/commit/9ca703fd5f95546a82e770385bc86add3b9baa19) - 2025-06-09
+* [Commit] [other fixes](https://github.com/status-im/nimbus-eth2/commit/0957bd51bd4b4163eec61904c8c31cb96d27cb46) - 2025-06-09
+* [Commit] [fix process sync agg](https://github.com/status-im/nimbus-eth2/commit/61c029abb26187c5637cdb7aacbea9f7563cfe09) - 2025-06-09
+* [Commit] [fix Fulu ssz consensus object type](https://github.com/status-im/nimbus-eth2/commit/bf8874709aa7d0733ec85ba53608e27efa9728c1) - 2025-06-09
+* [Commit] [make other fixes + bump nim eth2 secanrios](https://github.com/status-im/nimbus-eth2/commit/18efd778f2e30b71752dae0e85669edf699a25fb) - 2025-06-09
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

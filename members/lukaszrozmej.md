@@ -96,6 +96,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [more resiliance](https://github.com/NethermindEth/nethermind/commit/8f758b056721754db8e2842387386562190ab84f) - 2025-06-05
 * [Commit] [ExecutionEnvironment pass Uint256 as in (#8736)](https://github.com/NethermindEth/nethermind/commit/b3145d78d6952416857ce20653e7b01e84b7dbb0) - 2025-06-05
 * [Commit] [more in](https://github.com/NethermindEth/nethermind/commit/3d0f636564844623e1ebae822a36446af85c3534) - 2025-06-05
+* [Commit] [Auto-update fast sync settings (#8745)](https://github.com/NethermindEth/nethermind/commit/370aeb3b17683d5a599fe39e16ff33f5c70da777) - 2025-06-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

@@ -54,6 +54,14 @@ Team: Reth
 * [Issue] [Add info logs for beginning of newPayload requests](https://github.com/paradigmxyz/reth/issues/16448) - 2025-05-23
 * [Commit] [refactor: relax `OpAddOns`  (#16180)](https://github.com/paradigmxyz/reth/commit/b9e218343cb55f8985501ed238087e1c0687413c) - 2025-05-27
 * [Issue] [`reth stage run headers` fails with pruning error](https://github.com/paradigmxyz/reth/issues/16686) - 2025-06-05
+* [Pull Request] [perf: use gmp branch for modexp](https://github.com/paradigmxyz/reth/pull/16735) - 2025-06-09
+* [Commit] [perf: use gmp branch for modexp](https://github.com/paradigmxyz/reth/commit/734f5b3a01a193068eefbe5d341bed3ce96b53d9) - 2025-06-09
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [feat: add basic tests for modexp](https://github.com/bluealloy/revm/pull/2603) - 2025-06-09
+* [Pull Request] [feat: add openssl based modexp impl](https://github.com/bluealloy/revm/pull/2599) - 2025-06-09
+* [Pull Request] [feat: add clz opcode](https://github.com/bluealloy/revm/pull/2598) - 2025-06-09
+* [Pull Request] [feat: rug/gmp-based powmod](https://github.com/bluealloy/revm/pull/2596) - 2025-06-09
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

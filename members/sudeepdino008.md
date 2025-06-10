@@ -238,6 +238,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d3e3f178f7019d5a568a7c415b8f23b5dd674b77) - 2025-06-05
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8200136fbde10271d6bfa26836f5ac0a5331be88) - 2025-06-05
 * [Pull Request] [WIP: forkable temporaldb integration](https://github.com/erigontech/erigon/pull/15479) - 2025-06-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d28111c906438d9550c75d96c1b0752b6649b8c5) - 2025-06-09
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

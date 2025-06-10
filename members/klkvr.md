@@ -65,9 +65,21 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/92f0e0808d96698fa11b85ed739df397aa93718a) - 2025-06-06
 * [Pull Request] [fix: correctly set sync gap](https://github.com/paradigmxyz/reth/pull/16695) - 2025-06-06
 * [Issue] [Make `EthEvmConfig` generic over chainspec](https://github.com/paradigmxyz/reth/issues/16722) - 2025-06-08
+* [Commit] [sort](https://github.com/paradigmxyz/reth/commit/99068d53a1d87f57d14ef6009de6304931ac3081) - 2025-06-09
+* [Commit] [feat: configure interval for trusted peer DNS resolution (#16647)](https://github.com/paradigmxyz/reth/commit/249fa364323509b92c8f163aab459c4e8b84d313) - 2025-06-09
+* [Commit] [add block builder check](https://github.com/paradigmxyz/reth/commit/e97a6195e1ec6d1f4121642d02788ae876485d8d) - 2025-06-09
+* [Commit] [add block builder check](https://github.com/paradigmxyz/reth/commit/ac214ab355e5ae29340cdb6d83cedc4d3f2ce1d3) - 2025-06-09
+* [Commit] [add block builder check](https://github.com/paradigmxyz/reth/commit/4ae93d334280ca026c9fc6ae4371c6f3206ff3c6) - 2025-06-09
+* [Commit] [add block builder check](https://github.com/paradigmxyz/reth/commit/eb9a069d83f43f553aa4214dd3c88219afd9256b) - 2025-06-09
+* [Commit] [add block builder check](https://github.com/paradigmxyz/reth/commit/a8e09d0e9d1ee9b0e362c56af4f65e478f97c433) - 2025-06-09
+* [Commit] [add block builder check](https://github.com/paradigmxyz/reth/commit/e08c1169aea98655ed26eef332308a066ea4c2ca) - 2025-06-09
+* [Pull Request] [feat: implement EIP-7934](https://github.com/paradigmxyz/reth/pull/16726) - 2025-06-09
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/a7ca04d56781d0c81d6378c7b5a6b24e3f99532f) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/12aae0ed7ebf2c8f8dff1f0fa2dad4602c743977) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/8c0536652a20c6073913b3ad88fd2963b7b8845b) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/63f53d4db7c42217e4b5f38db49475b8b937f99b) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/6062573a2d463a32d93f2d9c42037b9fd89507b2) - 2025-06-06
+* [Commit] [feat: enable P256 in Osaka](https://github.com/bluealloy/revm/commit/4581bbff31d1e5e0abab8de29d299471d827edba) - 2025-06-09
+* [Commit] [feat: enable P256 in Osaka](https://github.com/bluealloy/revm/commit/707b4cbe3c50d91378d75d50fb55451559ac38e0) - 2025-06-09
+* [Pull Request] [feat: enable P256 in Osaka](https://github.com/bluealloy/revm/pull/2601) - 2025-06-09

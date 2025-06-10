@@ -102,6 +102,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Issue] [Add blob count per tx limit via blobSchedule](https://github.com/hyperledger/besu/issues/8760) - 2025-06-07
 * [Commit] [Add engine_getblobsV2 to RpcMethod list (#8759)](https://github.com/hyperledger/besu/commit/327fe9c01ab96686c82f98ec219201a0f065eb64) - 2025-06-07
 * [Pull Request] [[fusaka-devnet-1] Add engine_getblobsV2 to RpcMethod list](https://github.com/hyperledger/besu/pull/8759) - 2025-06-07
+* [Commit] [Remove pay opcode from osaka (#8768)](https://github.com/hyperledger/besu/commit/4d06d18438f5faa2da9609eb07c3c8ee45ff2cc9) - 2025-06-09
+* [Pull Request] [feat: EIP-7939 Implement counting leading zero operation](https://github.com/hyperledger/besu/pull/8771) - 2025-06-09
+* [Issue] [EIP-7939: implement Count leading zeros (CLZ) opcode](https://github.com/hyperledger/besu/issues/8770) - 2025-06-09
+* [Pull Request] [feat: remove pay opcode from osaka](https://github.com/hyperledger/besu/pull/8768) - 2025-06-09
+* [Commit] [fix(engine): engine_getBlobsV2 missing from engine_exchangeCapabilities (#8763)](https://github.com/hyperledger/besu/commit/76da4f1e467e57196f17c46b7c42284b406fd3fa) - 2025-06-09
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

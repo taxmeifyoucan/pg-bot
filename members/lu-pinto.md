@@ -34,6 +34,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Issue] [ENR records with Base64 padding are not valid](https://github.com/hyperledger/besu/issues/8697) - 2025-05-26
 * [Pull Request] [Swap precedence order while parsing enr records](https://github.com/hyperledger/besu/pull/8696) - 2025-05-26
 * [Commit] [do not crash DNS daemon with invalid ENR nodes (#8690)](https://github.com/hyperledger/besu/commit/e14ba59486e1de72e9e306481b7112681108efb6) - 2025-05-26
+* [Commit] [enable ci on the performance branch (#8769)](https://github.com/hyperledger/besu/commit/0d10dc270e19d010f689065b2c31b7432acfa366) - 2025-06-09
+* [Pull Request] [enable ci on the performance branch](https://github.com/hyperledger/besu/pull/8769) - 2025-06-09
+* [Pull Request] [adjust modexp gas computation of eip-7883](https://github.com/hyperledger/besu/pull/8766) - 2025-06-09
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

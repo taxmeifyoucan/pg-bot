@@ -108,6 +108,22 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore: fix spellcheck in filler eip checklist](https://github.com/ethereum/execution-spec-tests/pull/1721) - 2025-06-08
 * [Commit] [chore(docs): changelog.](https://github.com/ethereum/execution-spec-tests/commit/a9a328dfec59139b41618baadd3f34c70b019e89) - 2025-06-08
 * [Pull Request] [feat(tests): execute blob tests client agnostic](https://github.com/ethereum/execution-spec-tests/pull/1720) - 2025-06-08
+* [Pull Request] [chore(filler): fix eip checklist marker warning.](https://github.com/ethereum/execution-spec-tests/pull/1728) - 2025-06-09
+* [Commit] [chore: fix spellcheck in filler eip checklist. (#1721)](https://github.com/ethereum/execution-spec-tests/commit/6be0f58a747173d51dcc20021f6a86c8fad93955) - 2025-06-09
+* [Commit] [zkevm: add SELFDESTRUCT coverage (#1678)](https://github.com/ethereum/execution-spec-tests/commit/d6252aafec3553afe978432672971d7eadbeb8fe) - 2025-06-09
+* [Commit] [feat(tests): EIP-7825: Transaction Gas Limit Cap (#1711)](https://github.com/ethereum/execution-spec-tests/commit/46d449077125d9887a886e9c398120275481a90f) - 2025-06-09
+* [Commit] [chore: fix coverage ci.](https://github.com/ethereum/execution-spec-tests/commit/1b3941597c8b9b8ca0f57f1b42b2b62fb046a6fb) - 2025-06-09
+* [Commit] [chore: try fix coverage script.](https://github.com/ethereum/execution-spec-tests/commit/4ff19becb565abccc51c068926bb72232f43fb48) - 2025-06-09
+* [Commit] [chore: spellcheck.](https://github.com/ethereum/execution-spec-tests/commit/4e09fe280bdff26f9c69f48e54773e70e2863fea) - 2025-06-09
+* [Commit] [chore(docs): changelog.](https://github.com/ethereum/execution-spec-tests/commit/9b39efe67750d15a80ba2c82341cfdc720592e27) - 2025-06-09
+* [Commit] [chore: add exceptions mapper, clean up, ci fix.](https://github.com/ethereum/execution-spec-tests/commit/68beae64e39933a9d817bc30be28e7449361f9f2) - 2025-06-09
+* [Commit] [feat(tests): Update benchmark test to query newly introduced `max_code_size()` from fork config (#1649)](https://github.com/ethereum/execution-spec-tests/commit/ee9b84d9b03de5711242edb26b774c69cbcde769) - 2025-06-09
+* [Commit] [chore: rename.](https://github.com/ethereum/execution-spec-tests/commit/f95538e87fcc9a6cf55332287fbd278b17f17e45) - 2025-06-09
+* [Commit] [chore: fix lint.](https://github.com/ethereum/execution-spec-tests/commit/cdb8402ba37f8b9274b456d2a2a392edc406121a) - 2025-06-09
+* [Commit] [chore(ci): try eels resolutions update.](https://github.com/ethereum/execution-spec-tests/commit/75cddf3b6d04084ac6256d0c71094263d24abbbe) - 2025-06-09
+* [Commit] [chore(tests): quick clean up.](https://github.com/ethereum/execution-spec-tests/commit/90c235b0714d4d0592f856df0cb576da6ecf0fd0) - 2025-06-09
+* [Commit] [chore: update exception for besu.](https://github.com/ethereum/execution-spec-tests/commit/4af6ab25cdac4ef00b678176e73b3cc050a45f32) - 2025-06-09
+* [Commit] [Update tests/osaka/eip7594_peerdas/test_get_blobs.py](https://github.com/ethereum/execution-spec-tests/commit/3927b3eeec2a0b6e2b654342aaef14ae97b5f6b1) - 2025-06-09
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

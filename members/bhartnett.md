@@ -101,3 +101,4 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Portal client: Create metric to track successful and failed offer validations for all sub-networks (#3352)](https://github.com/status-im/nimbus-eth1/commit/82dff06a6b09b5299a9831bf3e9b306bbfe927d7) - 2025-06-02
 * [Commit] [Rename metric.](https://github.com/status-im/nimbus-eth1/commit/180cb91dfbc811682542979497492678e67abd88) - 2025-06-02
 * [Commit] [Use EPOCH_SIZE constant.](https://github.com/status-im/nimbus-eth1/commit/4267363b44545dd794915db3a17f8120ba053881) - 2025-06-02
+* [Pull Request] [Update nim-rocksdb to v10.2.1.0](https://github.com/status-im/nimbus-eth1/pull/3370) - 2025-06-09

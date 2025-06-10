@@ -51,6 +51,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Defer block import while block production is in flight](https://github.com/Consensys/teku/issues/9488) - 2025-05-27
 * [Commit] [tiny simplification in BlockRewardCalculatorUtil (#9514)](https://github.com/Consensys/teku/commit/95a126e8cda4c628f0ac89d3f0ec66a2ec437d2b) - 2025-06-04
 * [Pull Request] [Tiny simplification in BlockRewardCalculatorUtil](https://github.com/Consensys/teku/pull/9514) - 2025-06-04
+* [Commit] [poolV2 info logs to debug (#9527)](https://github.com/Consensys/teku/commit/38f20bc1c7c9f9d5e440f014f9487de5c2fc6730) - 2025-06-09
+* [Pull Request] [PoolV2 info logs to debug](https://github.com/Consensys/teku/pull/9527) - 2025-06-09
+* [Commit] [Include SingleAtt in block flow aggregation, remove parallel flow (#9487)](https://github.com/Consensys/teku/commit/6f7de63e4e63c7ae373a24300c41b2f057a60c6b) - 2025-06-09
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

@@ -105,6 +105,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [retire: more merge threads (#15377)](https://github.com/erigontech/erigon/commit/3d22a3a9d250d194adcd182cb1130a2071017e8e) - 2025-06-03
 * [Commit] [merkle proof](https://github.com/erigontech/erigon/commit/a0c8256f516dc1efc938b68a0f631d7a0bed2d17) - 2025-06-03
 * [Commit] [gossip connectivity](https://github.com/erigontech/erigon/commit/d4b62cd945138c9e98c65fa1b7ad8a048cec0795) - 2025-06-06
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/dc5c55217def47ef32519a2e35f3ccba9f3fd345) - 2025-06-09
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/55694110672155dc3e48f95814edaafa0c551367) - 2025-06-09
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/81059274f3c20bd5ed5c54da71d62dc5b8dc44a5) - 2025-06-09
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/c33318f2d7fb55daf62d5945ca90239784df7244) - 2025-06-09
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/30c515d4c15a061eb8ccdf3d75328b0ecbc90957) - 2025-06-09
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/4fe1873bea1f6de1a8592e90b1ae6a6c5947e784) - 2025-06-09
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/9708efe0d0403173373989004bdd3923d65d9ecb) - 2025-06-09
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

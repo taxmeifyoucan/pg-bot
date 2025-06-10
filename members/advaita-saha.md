@@ -75,3 +75,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [applicable for bpos after osaka (#3366)](https://github.com/status-im/nimbus-eth1/commit/1e0094f0ef828c279070cec1d010a8a5259b91d9) - 2025-06-05
 * [Commit] [fix excessblobgas calculation](https://github.com/status-im/nimbus-eth1/commit/1428da4f6f655fce525b1168cdf8eca9ad330ebc) - 2025-06-07
 * [Commit] [fix: spec mismatch](https://github.com/status-im/nimbus-eth1/commit/400acf105964affefcbedcfc9a03132a75724e22) - 2025-06-07
+* [Commit] [hotfix](https://github.com/status-im/nimbus-eth1/commit/ca1c783807f8348e7969e07ad06a93a46fe226b0) - 2025-06-09
+* [Issue] [no blobs in nimbus produced blocks](https://github.com/status-im/nimbus-eth1/issues/3371) - 2025-06-09
+* [Issue] [Performance branch for perf testing / gas benchmarking](https://github.com/status-im/nimbus-eth1/issues/3369) - 2025-06-09
+* [Issue] [feat: block history pruner](https://github.com/status-im/nimbus-eth1/issues/3368) - 2025-06-09

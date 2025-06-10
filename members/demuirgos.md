@@ -44,6 +44,7 @@ Team: Nethermind
 * [Commit] [vm execution test that runs WrappedEth transaction](https://github.com/NethermindEth/nethermind/commit/f31686fd0a6cf6ddaadda9784a7044141562fe70) - 2025-06-03
 * [Commit] [added filters to playground test](https://github.com/NethermindEth/nethermind/commit/0c81cc524408abdf9d7e675d7997afc4a67fa60c) - 2025-06-03
 * [Commit] [fix failing weth tests](https://github.com/NethermindEth/nethermind/commit/11e71a89f2639e9428f8ea29e538a79f3ddf60f6) - 2025-06-04
+* [Commit] [Add whitelist contracts and Static mode to ILEVM](https://github.com/NethermindEth/nethermind/commit/58392315efd9a415ee736afc2fbeff8b109dba83) - 2025-06-09
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

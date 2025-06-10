@@ -128,6 +128,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [PeerDAS: retry getBlobsV2](https://github.com/ChainSafe/lodestar/issues/7933) - 2025-06-08
 * [Commit] [feat: unit test recover_matrix](https://github.com/ChainSafe/lodestar/commit/16b1c390a3e16152a1170f4bdc459765fe95e714) - 2025-06-08
 * [Commit] [fix: unit test recoverDataColumnSidecars](https://github.com/ChainSafe/lodestar/commit/c04a32b01d863b38add93bbc3ed9564f2eb9bed8) - 2025-06-08
+* [Commit] [fix: correct recover_time bucket](https://github.com/ChainSafe/lodestar/commit/e8d1d6dcd685c305af9225607e5401e7ee46bc4b) - 2025-06-09
+* [Pull Request] [Te/recover matrix](https://github.com/ChainSafe/lodestar/pull/7935) - 2025-06-09
+* [Commit] [feat: publish sampled data column after recover](https://github.com/ChainSafe/lodestar/commit/c99790fd7d7c606291e4b16429cbe30f1d2c2dde) - 2025-06-09
+* [Commit] [fix: pass serialized DataColumnSidecar array to worker thread](https://github.com/ChainSafe/lodestar/commit/59af8d951f8303a67d7caee16d649c599bd232b4) - 2025-06-09
+* [Commit] [fix: call recover once per block](https://github.com/ChainSafe/lodestar/commit/cae4a4a7bd0f484976f8d74dfd731f4f7f308b13) - 2025-06-09
+* [Commit] [fix: track metrics of data_column_recover worker](https://github.com/ChainSafe/lodestar/commit/9cc7297af7a1f0f65d7f70c5dd99f528fca59ff7) - 2025-06-09
+* [Commit] [fix: import expose from @chainsafe/threads/worker](https://github.com/ChainSafe/lodestar/commit/cea1c4785861c0e761993834da7022986995da61) - 2025-06-09
+* [Commit] [fix: import Worker from @chainsafe/threads](https://github.com/ChainSafe/lodestar/commit/0770dbca045432e02d862156d362ea70c31fc2ee) - 2025-06-09
+* [Commit] [feat: implement DataColumnRecover worker thread](https://github.com/ChainSafe/lodestar/commit/0cf282ef6a4d749b31c5977ddcd594c907df6831) - 2025-06-09
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

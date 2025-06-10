@@ -15,6 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Possible rocksDB compaction causing high I/O](https://github.com/hyperledger/besu/issues/8518) - 2025-04-04
 
 * [Pull Request] [Disable transaction indexing by default](https://github.com/hyperledger/besu/pull/8611) - 2025-05-09
+* [Pull Request] [EIP-7934 Validate block size](https://github.com/hyperledger/besu/pull/8765) - 2025-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Matilda Clerke from Besu](https://github.com/protocolguild/documentation/pull/338) - 2025-04-08
 ## Q1 2025

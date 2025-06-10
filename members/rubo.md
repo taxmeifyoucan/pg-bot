@@ -64,6 +64,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add workaround](https://github.com/NethermindEth/nethermind/commit/fb3732feebbad90b82dd707251d1b5c3289dfaaa) - 2025-06-02
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/b816e949d31681589dac4bce9ad2a5350974fcba) - 2025-06-02
 * [Commit] [Feature/Step dependents (#8734)](https://github.com/NethermindEth/nethermind/commit/c8e774d17073af3995779ac41fd8722082e041d7) - 2025-06-05
+* [Commit] [Revert "Perf/parallel block downloader" (#8574)](https://github.com/NethermindEth/nethermind/commit/b9a2a9345d4e5bbe1583258fe6f9c1e1de5ffe72) - 2025-06-09
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

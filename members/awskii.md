@@ -162,6 +162,7 @@ Team: Erigon
 * [Pull Request] [Revert "Less verbose go tests (ci too crowded) (#15238)"](https://github.com/erigontech/erigon/pull/15400) - 2025-06-02
 * [Commit] [added previously failing test](https://github.com/erigontech/erigon/commit/7e7262fa3e76391c6db2f2a517b49d8a62777b32) - 2025-06-05
 * [Commit] [save](https://github.com/erigontech/erigon/commit/38904565181f2cce5fd1ff8471231cd4701d01e8) - 2025-06-05
+* [Pull Request] [fix fcu error message](https://github.com/erigontech/erigon/pull/15508) - 2025-06-09
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

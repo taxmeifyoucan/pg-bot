@@ -75,6 +75,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix: erigon init cmd now generating salt-state](https://github.com/erigontech/erigon/commit/b28a69136575081aa1192a439f152a212cac989e) - 2025-06-08
 * [Commit] [fix: EL block downloader causing extremely large chaindata size when doing large backward downloads](https://github.com/erigontech/erigon/commit/cd67359dd2fad7436c9911243fb44faf53979184) - 2025-06-08
 * [Commit] [fix: EL block downloader causing extremely large chaindata size when doing large backward downloads](https://github.com/erigontech/erigon/commit/40d7a017d484482514eaa49eebc2228a6647b944) - 2025-06-08
+* [Commit] [debug: add more logs to body download loop](https://github.com/erigontech/erigon/commit/345665d73cc1f87de4734f8a44c2956e8832ffb7) - 2025-06-09
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

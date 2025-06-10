@@ -31,6 +31,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [add selfdestruct crate test](https://github.com/bluealloy/revm/commit/c10a27303c35c672d5c480a240774a295a4514d6) - 2025-06-06
 * [Commit] [feat: added instruction_result fn in LoopControl trait  (#2595)](https://github.com/bluealloy/revm/commit/3df63308f2ed7b4cdd62ad83feaf7c18ea7193ab) - 2025-06-08
 * [Commit] [feat: add optional priority fee check configuration (#2588)](https://github.com/bluealloy/revm/commit/0fe45f534b8e95b991d86aadb4efd41d3675ca56) - 2025-06-08
+* [Commit] [cleanup, support for extcodesize 5k gas](https://github.com/bluealloy/revm/commit/a07f7676fc22f77fde72830073cc76821eccfd57) - 2025-06-09
+* [Pull Request] [feat(Osaka): eip7907 Meter Contract Code Size And Increase Limit](https://github.com/bluealloy/revm/pull/2605) - 2025-06-09
+* [Commit] [feat: add basic tests for modexp (#2603)](https://github.com/bluealloy/revm/commit/b4516fa026a57b87f120e6907a800d3c7403d516) - 2025-06-09
+* [Commit] [feat: enable P256 in Osaka (#2601)](https://github.com/bluealloy/revm/commit/14c614ead3a4e884781bbdfa87889017d3b1a641) - 2025-06-09
+* [Issue] [EIP-7939: Count leading zeros (CLZ) opcode](https://github.com/bluealloy/revm/issues/2600) - 2025-06-09
+* [Issue] [origin opcode casts Address to U256 on every iteration](https://github.com/bluealloy/revm/issues/2597) - 2025-06-09
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

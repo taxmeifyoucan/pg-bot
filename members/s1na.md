@@ -27,6 +27,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [core/types: add timestamp to derived logs](https://github.com/ethereum/go-ethereum/pull/31887) - 2025-05-23
 * [Commit] [eth/filters: fix pruned history error for genesis block (#31941)](https://github.com/ethereum/go-ethereum/commit/778430a689af2ff9545ba69decbeb942243b2267) - 2025-06-03
 * [Pull Request] [eth/downloader: fix missing receipt](https://github.com/ethereum/go-ethereum/pull/31952) - 2025-06-03
+* [Commit] [params: enable osaka fork in MergedTestChainConfig (#31993)](https://github.com/ethereum/go-ethereum/commit/3cc0e7a31ab8d070dbacf77412f935b6bb789054) - 2025-06-09
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

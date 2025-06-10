@@ -123,6 +123,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix for nodes with bug](https://github.com/NethermindEth/nethermind/commit/a6c7701ddcc2b3351f0c547779a347824314dfe1) - 2025-06-03
 * [Commit] [Cleanup](https://github.com/NethermindEth/nethermind/commit/3b7b4b4dfba1f0a18a7c02fe420fa5724aa1cae6) - 2025-06-04
 * [Pull Request] [[WIP] Refactor; add EIPs to osaka](https://github.com/NethermindEth/nethermind/pull/8733) - 2025-06-04
+* [Commit] [Refactor/Move DiscoveryApp initialization to DI (#8624)](https://github.com/NethermindEth/nethermind/commit/97e3f52c88ee77082c162a4b60dfd0aabdeced9c) - 2025-06-09
+* [Commit] [Clean up](https://github.com/NethermindEth/nethermind/commit/c543ecd1568e8f87e5c2eacccb17084dca9564de) - 2025-06-09
+* [Pull Request] [[WIP] Ignore and decline gas intensive transactions when eip-7825 is activated](https://github.com/NethermindEth/nethermind/pull/8747) - 2025-06-09
+* [Commit] [Fix tx blob deserialization after PeerDAS (#8729)](https://github.com/NethermindEth/nethermind/commit/18f4b0e9dc4f8f863e6937d204c01e5e2c81bd16) - 2025-06-09
+* [Commit] [Fix typo](https://github.com/NethermindEth/nethermind/commit/db1162cafb6a4d9a87b4889a48051f7de1bda85c) - 2025-06-09
+* [Commit] [Improve JumpDest analysis (#8725)](https://github.com/NethermindEth/nethermind/commit/445670827c427ad21d4a174fbe42805c2ad654d2) - 2025-06-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

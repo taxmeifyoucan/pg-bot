@@ -59,3 +59,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [qa_tests: upgrade rpc-tests version 1.63.1](https://github.com/erigontech/erigon/pull/15441) - 2025-06-04
 * [Commit] [debug account at() debug account range()  reads hdr  (#15414)](https://github.com/erigontech/erigon/commit/98df2f64e01070db89a584ad4310d1fb3e7e836c) - 2025-06-04
 * [Commit] [ci: more automation for RPC Integration Tests (#15432)](https://github.com/erigontech/erigon/commit/bc29f3f55749a2d36454aa9e7693f59093d8b392) - 2025-06-04
+* [Pull Request] [[r30] history pruning: error for unexpected value length](https://github.com/erigontech/erigon/pull/15507) - 2025-06-09
+* [Commit] [history pruning: error for unexpected value length](https://github.com/erigontech/erigon/commit/5039e00591c8e5b94736ac08c2fd40aa88491193) - 2025-06-09
+* [Commit] [history pruning: error for unexpected value length](https://github.com/erigontech/erigon/commit/4a1cee58860c743a1afdc54d6d2adc98cc5b9295) - 2025-06-09
+* [Pull Request] [history pruning: error for unexpected value length](https://github.com/erigontech/erigon/pull/15503) - 2025-06-09
+* [Issue] [Panic during history pruning](https://github.com/erigontech/erigon/issues/15502) - 2025-06-09

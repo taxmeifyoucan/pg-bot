@@ -30,6 +30,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Issue] [Rework BatchSync for FULU](https://github.com/Consensys/teku/issues/9519) - 2025-06-05
 * [Pull Request] [Use byRange RPC for sync DataColumnSidecars in FULU](https://github.com/Consensys/teku/pull/9518) - 2025-06-05
 * [Issue] [Eventual consistency on block proposal checkDA in PeerDAS](https://github.com/Consensys/teku/issues/9517) - 2025-06-05
+* [Commit] [Update cgc in ENR using the data from CustodyGroupCountManager (#9525)](https://github.com/Consensys/teku/commit/f09c0be064435216397d81d608a1316f15b93237) - 2025-06-09
+* [Issue] [Implement smarter getBlobsV2 pull](https://github.com/Consensys/teku/issues/9526) - 2025-06-09
+* [Pull Request] [Update cgc in ENR using the data from CustodyGroupCountManager](https://github.com/Consensys/teku/pull/9525) - 2025-06-09
+* [Issue] [FULU verifications could be missed](https://github.com/Consensys/teku/issues/9524) - 2025-06-09
+* [Issue] [DataColumnSidecar verification is slow](https://github.com/Consensys/teku/issues/9523) - 2025-06-09
+* [Issue] [Set cgc (Custody group count) in advance](https://github.com/Consensys/teku/issues/9522) - 2025-06-09
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

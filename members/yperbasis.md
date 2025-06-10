@@ -210,6 +210,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [MaxTxnGasLimit const](https://github.com/erigontech/erigon/commit/b8fc97b52c094c760da094e02a985ad9a181daed) - 2025-06-04
 * [Commit] [txpool: add Osaka](https://github.com/erigontech/erigon/commit/03f9efab7cd54674b2137c00998ec1c21b7241b9) - 2025-06-04
 * [Commit] [disable test incompatible with devnet-1](https://github.com/erigontech/erigon/commit/9f4f93d129e0bacb4d3c006e8e31ce75dcb640bf) - 2025-06-05
+* [Issue] [EL: implement fusaka-devnet-2 changes](https://github.com/erigontech/erigon/issues/15500) - 2025-06-09
+* [Pull Request] [tests: update eest to fusaka-devnet-1@v1.0.0](https://github.com/erigontech/erigon/pull/15499) - 2025-06-09
+* [Commit] [tests: update eest to fusaka-devnet-1@v1.0.0](https://github.com/erigontech/erigon/commit/c26f204925a85a1bf93a256a97d0644673451b47) - 2025-06-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

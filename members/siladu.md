@@ -37,6 +37,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [Rotate changelog for 25.6.0 (#8732)](https://github.com/hyperledger/besu/commit/fcf0f451b0fa730a6bf0f076d57bbb938ccf4b24) - 2025-06-03
 * [Pull Request] [Rotate changelog for 25.6.0](https://github.com/hyperledger/besu/pull/8732) - 2025-06-03
 * [Pull Request] [Archive CHANGELOG, split at start of 2024](https://github.com/hyperledger/besu/pull/8739) - 2025-06-04
+* [Commit] [First native pass of ModExp precompile cacheing (#8767)](https://github.com/hyperledger/besu/commit/961234adebb704fedceead759d2291157a4f38da) - 2025-06-09
+* [Pull Request] [Workaround to force the txpool to be always on (#8755)](https://github.com/hyperledger/besu/pull/8767) - 2025-06-09
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

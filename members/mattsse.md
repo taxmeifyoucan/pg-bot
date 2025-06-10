@@ -407,6 +407,16 @@ Team: Reth
 * [Issue] [Add `Body::contains_transaction(&TxHash)`](https://github.com/paradigmxyz/reth/issues/16712) - 2025-06-07
 * [Commit] [chore: re-export all types in node mod (#16710)](https://github.com/paradigmxyz/reth/commit/f209048bee6c037039826e508055501c4680ad7a) - 2025-06-07
 * [Commit] [re-export](https://github.com/paradigmxyz/reth/commit/76bcc8660a6c6cf47a77de3d04275e4db910a5c6) - 2025-06-07
+* [Issue] [Set correct parent beacon block hash to zero for pending block for eth_simulateV1](https://github.com/paradigmxyz/reth/issues/16734) - 2025-06-09
+* [Pull Request] [chore: keep .git folder in docker](https://github.com/paradigmxyz/reth/pull/16733) - 2025-06-09
+* [Commit] [chore: keep .git folder in docker](https://github.com/paradigmxyz/reth/commit/75ffcdac32acd323e34b9ae97079b8beb570f0d3) - 2025-06-09
+* [Commit] [chore: rm mut (#16731)](https://github.com/paradigmxyz/reth/commit/accc49ac499359627c2ee81f83e35438623247d7) - 2025-06-09
+* [Issue] [Upgrade proptest to latest release](https://github.com/paradigmxyz/reth/issues/16732) - 2025-06-09
+* [Commit] [fix: warning](https://github.com/paradigmxyz/reth/commit/13e14cc5ced680979d50a27a69ba0536727c6e21) - 2025-06-09
+* [Commit] [fix: include bpo hardforks in forkid (#16730)](https://github.com/paradigmxyz/reth/commit/7050461d567bf6d80c0d640a09641f068b95ea0f) - 2025-06-09
+* [Pull Request] [chore: rm mut](https://github.com/paradigmxyz/reth/pull/16731) - 2025-06-09
+* [Pull Request] [fix: include bpo hardforks in forkid](https://github.com/paradigmxyz/reth/pull/16730) - 2025-06-09
+* [Issue] [Missing commit sha in docker](https://github.com/paradigmxyz/reth/issues/16728) - 2025-06-09
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
