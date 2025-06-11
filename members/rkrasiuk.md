@@ -87,6 +87,7 @@ Team: Reth
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/a3b6012020274c4e68d36848dfdc2ef4bf48da6a) - 2025-06-09
 * [Pull Request] [feat: remove preemptive excess blob gas check](https://github.com/paradigmxyz/reth/pull/16729) - 2025-06-09
 * [Commit] [remove extra excess blob gas check](https://github.com/paradigmxyz/reth/commit/7b205bd9d16d9352f8bd8dd6544e84bad49935dc) - 2025-06-09
+* [Commit] [deps: update alloy](https://github.com/paradigmxyz/reth/commit/6a702e8a4575344745131052f91dfd372b81c6c1) - 2025-06-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16
 

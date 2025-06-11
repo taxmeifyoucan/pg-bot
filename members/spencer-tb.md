@@ -124,6 +124,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): quick clean up.](https://github.com/ethereum/execution-spec-tests/commit/90c235b0714d4d0592f856df0cb576da6ecf0fd0) - 2025-06-09
 * [Commit] [chore: update exception for besu.](https://github.com/ethereum/execution-spec-tests/commit/4af6ab25cdac4ef00b678176e73b3cc050a45f32) - 2025-06-09
 * [Commit] [Update tests/osaka/eip7594_peerdas/test_get_blobs.py](https://github.com/ethereum/execution-spec-tests/commit/3927b3eeec2a0b6e2b654342aaef14ae97b5f6b1) - 2025-06-09
+
+* [Commit] [chore(deps): bump ethereum-evm-spec-resolver to latest version (#1722)](https://github.com/ethereum/execution-spec-tests/commit/0dfcd92bb4589783baef73fe03c50401eb0e2280) - 2025-06-10
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1275) - 2025-06-10
+* [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1274) - 2025-06-10
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

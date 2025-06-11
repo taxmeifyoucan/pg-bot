@@ -76,6 +76,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix: EL block downloader causing extremely large chaindata size when doing large backward downloads](https://github.com/erigontech/erigon/commit/cd67359dd2fad7436c9911243fb44faf53979184) - 2025-06-08
 * [Commit] [fix: EL block downloader causing extremely large chaindata size when doing large backward downloads](https://github.com/erigontech/erigon/commit/40d7a017d484482514eaa49eebc2228a6647b944) - 2025-06-08
 * [Commit] [debug: add more logs to body download loop](https://github.com/erigontech/erigon/commit/345665d73cc1f87de4734f8a44c2956e8832ffb7) - 2025-06-09
+* [Commit] [cherry-pick AlwaysGenerateChangesetsFlag](https://github.com/erigontech/erigon/commit/a74f5ecd0f9d50db46362debca1d9fa70fd0ca5d) - 2025-06-10
+* [Commit] [fix: erigon init cmd now generating salt-state](https://github.com/erigontech/erigon/commit/541f73a0ee9414dc8ecf24337943c2db114f9184) - 2025-06-10
+* [Commit] [fix: panic in batch ufc](https://github.com/erigontech/erigon/commit/865aa2303e1364f051440fc28a948b2c828d4d1c) - 2025-06-10
+* [Commit] [core: switch Bn256Add precompile to evmone](https://github.com/erigontech/erigon/commit/e8666f9554eefb233671ad98490078080377a120) - 2025-06-10
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

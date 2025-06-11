@@ -111,6 +111,17 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [pass history pruner to taiko](https://github.com/NethermindEth/nethermind/commit/a57b4469b970269525ea57ba01230b498b6cfea0) - 2025-06-06
 * [Commit] [chore(evm): fix 7918 blob gas calculator (#8743)](https://github.com/NethermindEth/nethermind/commit/81c91ca28c20eda23eb42c7e66129fc9f9c9823c) - 2025-06-08
 * [Pull Request] [Add boundary tests for EIP-7918](https://github.com/NethermindEth/nethermind/pull/8748) - 2025-06-09
+* [Commit] [add missing eip timestamp chainspecparams](https://github.com/NethermindEth/nethermind/commit/8175227587d7f42b25c0c8ea7eb9ff985276bb38) - 2025-06-10
+* [Commit] [copy to releasespec](https://github.com/NethermindEth/nethermind/commit/30f98bb08d507fc71a1b04fa6df3b0aa95a28ce2) - 2025-06-10
+* [Commit] [enable at timestamp](https://github.com/NethermindEth/nethermind/commit/0c302285ae98972acae04ac401397ccfa97e7e53) - 2025-06-10
+* [Pull Request] [Implement EIP-7934: RLP Execution Block Size Limit](https://github.com/NethermindEth/nethermind/pull/8757) - 2025-06-10
+* [Commit] [Auto-update fast sync settings (#8745)](https://github.com/NethermindEth/nethermind/commit/370aeb3b17683d5a599fe39e16ff33f5c70da777) - 2025-06-10
+* [Commit] [remove rip7212 name](https://github.com/NethermindEth/nethermind/commit/f08a3b0c769a5115151897f773e9ce3a8347bb20) - 2025-06-10
+* [Commit] [add test case](https://github.com/NethermindEth/nethermind/commit/bd2f545487d491f4afeee5f0f6cd787c68d44125) - 2025-06-10
+* [Commit] [error message](https://github.com/NethermindEth/nethermind/commit/574f892b77cab1c3b9863267aeb42f41aca1f9be) - 2025-06-10
+* [Pull Request] [Implement EIP-7951: Updated secp256r1](https://github.com/NethermindEth/nethermind/pull/8753) - 2025-06-10
+* [Commit] [tidy](https://github.com/NethermindEth/nethermind/commit/24a132ea5c6a9a2dec28936eff2ed963422935fa) - 2025-06-10
+* [Commit] [Improve performance of CALL opcodes (#8732)](https://github.com/NethermindEth/nethermind/commit/dd815a3a25cbccd8cef7155e185bab1f7b140cfe) - 2025-06-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

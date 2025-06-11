@@ -44,6 +44,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [EIP-7825: Transaction gas limit cap (#8700)](https://github.com/hyperledger/besu/commit/23c5e464a03d215ea9d22d7d460afa9233c37d49) - 2025-06-04
 * [Commit] [Workaround to force the txpool to be always on (#8755)](https://github.com/hyperledger/besu/commit/bf3c0bed7071d32e85eeea7e2138d8e9e1208aaa) - 2025-06-06
 * [Pull Request] [Workaround to force the txpool to be always on ](https://github.com/hyperledger/besu/pull/8755) - 2025-06-06
+* [Commit] [Remove BesuContext since deprecated in favor of ServiceManager since 24.12.0 (#8787)](https://github.com/hyperledger/besu/commit/3d56c67b7df2ad9903235af0181911a51df7e8bb) - 2025-06-10
+* [Pull Request] [Remove BesuContext since deprecated in favor of ServiceManager](https://github.com/hyperledger/besu/pull/8787) - 2025-06-10
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

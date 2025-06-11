@@ -53,6 +53,7 @@ Team: Geth
 * [Pull Request] [Fusaka devnet 1](https://github.com/ethereum/go-ethereum/pull/31981) - 2025-06-06
 * [Commit] [core/vm: implement EIP 7825 - Transaction Gas Limit Cap](https://github.com/ethereum/go-ethereum/commit/fbd51127a283e6021516d7e770724802f779c7aa) - 2025-06-06
 * [Commit] [crypto/kzg4844: avoid copying blobs for marshaling (#31911)](https://github.com/ethereum/go-ethereum/commit/d675721276d126012faa264491d632689703ad3b) - 2025-06-06
+* [Commit] [core/vm: add precompile cache](https://github.com/ethereum/go-ethereum/commit/e24017688f99b493cef056cc445fe46f84f236f8) - 2025-06-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

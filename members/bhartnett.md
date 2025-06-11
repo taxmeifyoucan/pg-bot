@@ -102,3 +102,5 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Rename metric.](https://github.com/status-im/nimbus-eth1/commit/180cb91dfbc811682542979497492678e67abd88) - 2025-06-02
 * [Commit] [Use EPOCH_SIZE constant.](https://github.com/status-im/nimbus-eth1/commit/4267363b44545dd794915db3a17f8120ba053881) - 2025-06-02
 * [Pull Request] [Update nim-rocksdb to v10.2.1.0](https://github.com/status-im/nimbus-eth1/pull/3370) - 2025-06-09
+* [Pull Request] [Verified Proxy: Pre-fetch state using eth_createAccessList and add caching to EVM calls ](https://github.com/status-im/nimbus-eth1/pull/3373) - 2025-06-10
+* [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/4957c96b2b4c8155fa9878242a1ed5ddd8a72108) - 2025-06-10

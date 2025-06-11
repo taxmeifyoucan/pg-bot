@@ -52,6 +52,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Potential flaky test LinkedObjectsDeliveryTest.testDeadLock](https://github.com/Consensys/teku/issues/9499) - 2025-05-30
 * [Issue] [[EIP-7917] Evaluate epoch-transition overhead](https://github.com/Consensys/teku/issues/9498) - 2025-05-30
 * [Issue] [[EIP-7917] Deterministic Proposer Lookahead](https://github.com/Consensys/teku/issues/9497) - 2025-05-30
+* [Commit] [Updated FuzzUtilTest for Fulu (#9532)](https://github.com/Consensys/teku/commit/20adc49dd925c61877ac8a8b03561497cc335bfa) - 2025-06-10
+* [Pull Request] [Remove FULU filter from AbstractRpcMethodIntegrationTest](https://github.com/Consensys/teku/pull/9533) - 2025-06-10
+* [Pull Request] [Updated FuzzUtilTest for Fulu](https://github.com/Consensys/teku/pull/9532) - 2025-06-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Added Teku team coordinators](https://github.com/ethereum/pm/pull/1468) - 2025-04-14
 * [Pull Request] [Minor typos protocol-upgrade.md](https://github.com/ethereum/pm/pull/1467) - 2025-04-14

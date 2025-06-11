@@ -229,6 +229,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Cleanup](https://github.com/NethermindEth/nethermind/commit/852acf9be8fce3a3b2bc43bc0c2cb38d5fd434ff) - 2025-06-06
 * [Commit] [Feature/Step dependents (#8734)](https://github.com/NethermindEth/nethermind/commit/c8e774d17073af3995779ac41fd8722082e041d7) - 2025-06-09
 * [Commit] [Fix proof rpc](https://github.com/NethermindEth/nethermind/commit/a52621407530baff72d105de7dc0e6e9c068bd73) - 2025-06-09
+* [Commit] [Slight comment cleanup](https://github.com/NethermindEth/nethermind/commit/13057e6a90cc1810843af725695d6b04d4ca6286) - 2025-06-10
+* [Commit] [Reduce code](https://github.com/NethermindEth/nethermind/commit/0b83bc9fc69f09709d448c8e12d387c1996301a3) - 2025-06-10
+* [Commit] [Try to reorder for clarity](https://github.com/NethermindEth/nethermind/commit/aa1cebc2af08092e723256c95448668f720aa658) - 2025-06-10
+* [Commit] [Cleanup](https://github.com/NethermindEth/nethermind/commit/3edabfd05a71c4b7ab574b38b70d69daafc3d6b2) - 2025-06-10
+* [Commit] [Cleanup](https://github.com/NethermindEth/nethermind/commit/f8b00793609e86adf84bdca1d3614b45bdf1b4a5) - 2025-06-10
+* [Commit] [Add boundary tests for EIP-7918 (#8748)](https://github.com/NethermindEth/nethermind/commit/9bf7b7fc322c961f59c14064216e0ec8fe1cee3c) - 2025-06-10
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/3c3720a98f1236865f1814c053c1b7ae7bd66369) - 2025-06-10
+* [Commit] [Missed a few override scope](https://github.com/NethermindEth/nethermind/commit/070d0267b36b3164b60e2ce6348871b94c84e475) - 2025-06-10
+* [Commit] [Extra comment](https://github.com/NethermindEth/nethermind/commit/d4ebe568bd2f9e1ea3733dd679716bf771c0f33c) - 2025-06-10
+* [Commit] [Adjust block size to CL pessimistic block size (#8737)](https://github.com/NethermindEth/nethermind/commit/b7db4a140bdede1da9f5ad6b8a0db74ec1cf24f8) - 2025-06-10
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/db605321695e6be914b43cc9c19979bafe03d7ef) - 2025-06-10
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/d2765181f46984926065ff4bf161941eea40d0cc) - 2025-06-10
+* [Pull Request] [Cleanup/make transaction executor always take adapter](https://github.com/NethermindEth/nethermind/pull/8750) - 2025-06-10
+* [Commit] [Fix tx blob deserialization after PeerDAS (#8729)](https://github.com/NethermindEth/nethermind/commit/18f4b0e9dc4f8f863e6937d204c01e5e2c81bd16) - 2025-06-10
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

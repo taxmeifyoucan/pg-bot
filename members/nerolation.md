@@ -18,3 +18,4 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7778: Overhaul](https://github.com/ethereum/EIPs/pull/9802) - 2025-05-21
 * [Pull Request] [Update EIP-7863 and EIP-7928 with small changes](https://github.com/ethereum/EIPs/pull/9846) - 2025-06-01
 * [Pull Request] [remove code field, add code diff](https://github.com/ethereum/EIPs/pull/9864) - 2025-06-06
+* [Pull Request] [EIP-7928: add header field for bal hash to block](https://github.com/ethereum/EIPs/pull/9885) - 2025-06-10

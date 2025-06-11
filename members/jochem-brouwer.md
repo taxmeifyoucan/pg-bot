@@ -21,6 +21,10 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Bench/worst bytecode raised max codes size](https://github.com/ethereum/execution-spec-tests/pull/1649) - 2025-05-25
 * [Commit] [feat(tests): Update benchmark test to query newly introduced `max_code_size()` from fork config (#1649)](https://github.com/ethereum/execution-spec-tests/commit/ee9b84d9b03de5711242edb26b774c69cbcde769) - 2025-06-04
+* [Commit] [feat(tests): add CLZ tests](https://github.com/ethereum/execution-spec-tests/commit/ac3c93e1e127b324511adf799b1980204504252b) - 2025-06-10
+* [Commit] [feat(tests): add CLZ tests](https://github.com/ethereum/execution-spec-tests/commit/e7b9c3edc48e68e8d522b1581d4c6428b247ef6c) - 2025-06-10
+* [Commit] [feat(tests): add CLZ tests](https://github.com/ethereum/execution-spec-tests/commit/157e2502f001270cf3e22ca3b5e1115e7a382022) - 2025-06-10
+* [Pull Request] [feat(tests): add CLZ (EIP 7939) tests](https://github.com/ethereum/execution-spec-tests/pull/1733) - 2025-06-10
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

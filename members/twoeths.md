@@ -137,6 +137,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: import expose from @chainsafe/threads/worker](https://github.com/ChainSafe/lodestar/commit/cea1c4785861c0e761993834da7022986995da61) - 2025-06-09
 * [Commit] [fix: import Worker from @chainsafe/threads](https://github.com/ChainSafe/lodestar/commit/0770dbca045432e02d862156d362ea70c31fc2ee) - 2025-06-09
 * [Commit] [feat: implement DataColumnRecover worker thread](https://github.com/ChainSafe/lodestar/commit/0cf282ef6a4d749b31c5977ddcd594c907df6831) - 2025-06-09
+* [Commit] [fix: only use the first 64 columns to recover](https://github.com/ChainSafe/lodestar/commit/366b3e4c8b0424e7c8ca9f9743f389f57cc52053) - 2025-06-10
+* [Commit] [feat: more RecoverResult enums](https://github.com/ChainSafe/lodestar/commit/f99b3b8a6b8fccb71c46bdc250269cb726c0895c) - 2025-06-10
+* [Pull Request] [feat: implement recover_matrix for peerDAS](https://github.com/ChainSafe/lodestar/pull/7940) - 2025-06-10
+* [Commit] [feat: async kzg proof verification (#7936)](https://github.com/ChainSafe/lodestar/commit/0536c19e4440048ad40fd714b29e5e7f74e4d34d) - 2025-06-10
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

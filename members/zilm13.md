@@ -36,6 +36,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Issue] [FULU verifications could be missed](https://github.com/Consensys/teku/issues/9524) - 2025-06-09
 * [Issue] [DataColumnSidecar verification is slow](https://github.com/Consensys/teku/issues/9523) - 2025-06-09
 * [Issue] [Set cgc (Custody group count) in advance](https://github.com/Consensys/teku/issues/9522) - 2025-06-09
+* [Commit] [Use finalized state for validator balance calculation in FULU (#9529)](https://github.com/Consensys/teku/commit/4fbce93cb5ad0817ed1e46d4cc9dbcb1915c7a7d) - 2025-06-10
+* [Pull Request] [Use finalized state for validator balance calculation in FULU](https://github.com/Consensys/teku/pull/9529) - 2025-06-10
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

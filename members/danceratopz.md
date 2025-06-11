@@ -296,6 +296,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 46d4490771 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/6b0d722019c8935d7e1f5ddbbb46490b9a1ad0f7) - 2025-06-09
 * [Commit] [Deployed d7055d5ba6 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/f168f0e10d05a5f41dd84fd7ed5b4143d953e69c) - 2025-06-09
 * [Commit] [Deployed 6be0f58a74 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/efe52e60b7d656afd0acc76cf0c5c0504f5fb431) - 2025-06-09
+* [Commit] [docs: fix title](https://github.com/ethereum/execution-spec-tests/commit/fd3034773f1b13d075a6072ec7f4c1074a0e87b6) - 2025-06-10
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/9ba76b153638bf58f6df45aa5754d817a13beea7) - 2025-06-10
+* [Commit] [docs: remove references to string EIP checklist notation](https://github.com/ethereum/execution-spec-tests/commit/2674aadf7e3e0c742d9754809c11eb6d8169dc4c) - 2025-06-10
+* [Commit] [Deployed 2f2c48fe17 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e9b091aa0805bc3f399d2528f7c338f372c1f8ab) - 2025-06-10
+* [Commit] [Deployed 0dfcd92bb4 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/76efc17a3e88ae2cd43a6b10a86dda017cf9d7c0) - 2025-06-10
+* [Commit] [chore(deps): bump ethereum-evm-spec-resolver to latest version](https://github.com/ethereum/execution-spec-tests/commit/85fc2256bce58509e84babedd6e626945a56be52) - 2025-06-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

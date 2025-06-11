@@ -213,6 +213,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [EL: implement fusaka-devnet-2 changes](https://github.com/erigontech/erigon/issues/15500) - 2025-06-09
 * [Pull Request] [tests: update eest to fusaka-devnet-1@v1.0.0](https://github.com/erigontech/erigon/pull/15499) - 2025-06-09
 * [Commit] [tests: update eest to fusaka-devnet-1@v1.0.0](https://github.com/erigontech/erigon/commit/c26f204925a85a1bf93a256a97d0644673451b47) - 2025-06-09
+* [Pull Request] [core: switch Bn256Add precompile to evmone](https://github.com/erigontech/erigon/pull/15513) - 2025-06-10
+* [Commit] [core: switch Bn256Add precompile to evmone](https://github.com/erigontech/erigon/commit/cb1578061a7fac329958fae494d667f107adc241) - 2025-06-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

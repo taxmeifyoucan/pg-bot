@@ -260,6 +260,10 @@ Team: Reth
 * [Pull Request] [uint nybbles](https://github.com/paradigmxyz/reth/pull/16727) - 2025-06-09
 * [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/8fa63c532985b839c4ceff6f8b51f79e27473634) - 2025-06-09
 * [Commit] [perf(pipeline): speed up fork unwinding with exponential backoff (#16622)](https://github.com/paradigmxyz/reth/commit/faf6741a60b76b4ced74239d7fb6a60649a35876) - 2025-06-09
+* [Commit] [feat: add sparse trie methods benchmark](https://github.com/paradigmxyz/reth/commit/b793f0d629eca51f2b6830cc906675f1456ae1c7) - 2025-06-10
+* [Commit] [feat: remove preemptive excess blob gas check (#16729)](https://github.com/paradigmxyz/reth/commit/19cac33830df7ac73c69a2dd79c542fd8a2a8b4d) - 2025-06-10
+* [Commit] [Update Dockerfile](https://github.com/paradigmxyz/reth/commit/c385a5b8592d8855e9ccd3ee275ffe90d1c9fe1f) - 2025-06-10
+* [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/55c5e9aba05991702d44653753a748f62c434daa) - 2025-06-10
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

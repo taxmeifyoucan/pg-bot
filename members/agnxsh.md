@@ -118,6 +118,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix process sync agg](https://github.com/status-im/nimbus-eth2/commit/61c029abb26187c5637cdb7aacbea9f7563cfe09) - 2025-06-09
 * [Commit] [fix Fulu ssz consensus object type](https://github.com/status-im/nimbus-eth2/commit/bf8874709aa7d0733ec85ba53608e27efa9728c1) - 2025-06-09
 * [Commit] [make other fixes + bump nim eth2 secanrios](https://github.com/status-im/nimbus-eth2/commit/18efd778f2e30b71752dae0e85669edf699a25fb) - 2025-06-09
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth2/commit/1c3544d72e93c1566783f64b87bcfef9c2221e68) - 2025-06-10
+* [Commit] [fix at process sync agg](https://github.com/status-im/nimbus-eth2/commit/c56fa527ce46ef4996d8322fe2c515c21942fb31) - 2025-06-10
+* [Commit] [fix get beacon proposer index code](https://github.com/status-im/nimbus-eth2/commit/47eb1a3a7e5104a088349857fb13c781ca00c145) - 2025-06-10
+* [Commit] [added new mechanism of getting proposer indices in fulu](https://github.com/status-im/nimbus-eth2/commit/3aed05162adf4c540f2118c08e440d46edf85e69) - 2025-06-10
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

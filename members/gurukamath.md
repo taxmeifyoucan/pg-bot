@@ -51,6 +51,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [port accessed address fix to osaka](https://github.com/ethereum/execution-specs/pull/1261) - 2025-06-03
 * [Commit] [add misisng y parity check on SetCodeTransaction (#1270)](https://github.com/ethereum/execution-specs/commit/3aabf4b9a1a8b74dec235b7d68283ae7c894dfc3) - 2025-06-09
 * [Issue] [Use optimised py_ecc code for BN128](https://github.com/ethereum/execution-specs/issues/1271) - 2025-06-09
+* [Commit] [Eip 7918 changes (#1273)](https://github.com/ethereum/execution-specs/commit/b6d35cc4768654e38d7b6c635bf819eff93ba6f7) - 2025-06-10
+* [Commit] [Optimized bls12 381 (#1268)](https://github.com/ethereum/execution-specs/commit/81ec8eee0c8657bcc45fc0f979a8bbdaf868ddb1) - 2025-06-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-spec-tests/issues/1461) - 2025-04-16
 * [Issue] [Address warmed on aborted call](https://github.com/ethereum/execution-spec-tests/issues/1474) - 2025-04-17

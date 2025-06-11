@@ -300,6 +300,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Too far](https://github.com/NethermindEth/nethermind/commit/79179baff1aa99a6408b73a807e1c82a0de81275) - 2025-06-07
 * [Commit] [Tweaks](https://github.com/NethermindEth/nethermind/commit/755738d30c50d79b491374c461c43f171c73c801) - 2025-06-07
 * [Commit] [Adjust block size to CL pessimistic block size (#8737)](https://github.com/NethermindEth/nethermind/commit/b7db4a140bdede1da9f5ad6b8a0db74ec1cf24f8) - 2025-06-07
+* [Commit] [Sync master (#8751)](https://github.com/NethermindEth/nethermind/commit/86dbafb69b0332f8acf5ba58f71f7975873e0101) - 2025-06-10
+* [Pull Request] [Sync master](https://github.com/NethermindEth/nethermind/pull/8751) - 2025-06-10
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

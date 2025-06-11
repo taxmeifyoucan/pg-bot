@@ -89,3 +89,6 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Fusaka: Add engine_getBlobsV2](https://github.com/status-im/nimbus-eth1/pull/3362) - 2025-06-04
 * [Pull Request] [Prevent txpool from crashing because of EIP-7594 blobs](https://github.com/status-im/nimbus-eth1/pull/3361) - 2025-06-04
 * [Commit] [Fix comment](https://github.com/status-im/nimbus-eth1/commit/68dccf33fc5803be9b7d66842e70a3bc369eba20) - 2025-06-04
+* [Commit] [bpo for fusaka devnet (#3340)](https://github.com/status-im/nimbus-eth1/commit/31c143f218f7ea8e2c69f7a60034b7e4001fda6c) - 2025-06-10
+* [Commit] [Transaction broadcast breakdown (#3372)](https://github.com/status-im/nimbus-eth1/commit/0ef2e8c9869b9831a94e2765068cb893ee09828f) - 2025-06-10
+* [Pull Request] [Transaction broadcast breakdown](https://github.com/status-im/nimbus-eth1/pull/3372) - 2025-06-10

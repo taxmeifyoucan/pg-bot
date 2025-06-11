@@ -24,6 +24,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Commit] [Refactor build scripts (#8601)](https://github.com/NethermindEth/nethermind/commit/ca008100a9ca620d7dc868c6f09a2dca7d9dff86) - 2025-05-26
 * [Commit] [Adjust block size to CL pessimistic block size (#8737)](https://github.com/NethermindEth/nethermind/commit/b7db4a140bdede1da9f5ad6b8a0db74ec1cf24f8) - 2025-06-05
 * [Pull Request] [Update EIP-7883: Assume minimal base/mod length of 32 ](https://github.com/NethermindEth/nethermind/pull/8749) - 2025-06-09
+* [Commit] [Update EIP-7883: Assume minimal base/mod length of 32  (#8749)](https://github.com/NethermindEth/nethermind/commit/79137d4c0d862a1db0629f3a2643542924063458) - 2025-06-10
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

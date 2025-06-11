@@ -109,6 +109,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Detect errors in reference test generator action](https://github.com/ethereum/consensus-specs/pull/4366) - 2025-06-05
 * [Pull Request] [Suggest using getBlobsV2 to get blobs/proofs](https://github.com/ethereum/consensus-specs/pull/4371) - 2025-06-09
 * [Pull Request] [Define requirements for the blob schedule](https://github.com/ethereum/consensus-specs/pull/4370) - 2025-06-09
+* [Commit] [Define requirements for the blob schedule (#4370)](https://github.com/ethereum/consensus-specs/commit/931f31cd66c1d933cd8265061931db1d12ec1a37) - 2025-06-10
+* [Commit] [Bump the actions group with 3 updates (#4372)](https://github.com/ethereum/consensus-specs/commit/ea7f185c9338e19c7642443f06c6963cd8398864) - 2025-06-10
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 

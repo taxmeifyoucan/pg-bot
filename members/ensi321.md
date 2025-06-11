@@ -65,6 +65,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix proposer cache](https://github.com/ChainSafe/lodestar/commit/b9889fe06d9b5363a8ea09be48f1bc736f969c82) - 2025-06-05
 * [Commit] [chore: prepare for spec test v1.6.0-alpha.1 (#7919)](https://github.com/ChainSafe/lodestar/commit/9330899493f109fce8c3586e6c1f11d6e6f96884) - 2025-06-05
 * [Commit] [chore: review EIP-7917 deterministic proposer lookahead (#7937)](https://github.com/ChainSafe/lodestar/commit/cb0e5abd0d7e5dcd7a3994128c09ae9c77bef7e2) - 2025-06-09
+* [Pull Request] [feat: validate blob schedule on startup](https://github.com/ChainSafe/lodestar/pull/7942) - 2025-06-10
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

@@ -57,11 +57,22 @@ Team: Reth
 * [Pull Request] [perf: use gmp branch for modexp](https://github.com/paradigmxyz/reth/pull/16735) - 2025-06-09
 * [Commit] [perf: use gmp branch for modexp](https://github.com/paradigmxyz/reth/commit/734f5b3a01a193068eefbe5d341bed3ce96b53d9) - 2025-06-09
 
+* [Pull Request] [fix: also rm asm keccak on performance branch](https://github.com/paradigmxyz/reth/pull/16747) - 2025-06-10
+* [Commit] [chore: update performance revm pin (#16746)](https://github.com/paradigmxyz/reth/commit/02659f2072194d92428259154190803f93db4488) - 2025-06-10
+* [Commit] [fix: don't use target-cpu=native in dockerfile (#16743)](https://github.com/paradigmxyz/reth/commit/b406d527fb3e78f1434bc722d3a73b18292109a5) - 2025-06-10
+* [Pull Request] [fix: don't use target-cpu=native in dockerfile](https://github.com/paradigmxyz/reth/pull/16743) - 2025-06-10
+* [Commit] [chore: use best perf flags by default in perf dockerfile (#16740)](https://github.com/paradigmxyz/reth/commit/356bc979dfae9f54ec587055ecc66321f04b900d) - 2025-06-10
+* [Pull Request] [chore: use best perf flags by default in perf dockerfile](https://github.com/paradigmxyz/reth/pull/16740) - 2025-06-10
+* [Commit] [perf: use gmp branch for modexp (#16735)](https://github.com/paradigmxyz/reth/commit/c94c04c749af63e8648da37621dded04b92adc30) - 2025-06-10
+* [Commit] [perf: use gmp branch for modexp](https://github.com/paradigmxyz/reth/commit/26094393c8de35a52f97997cb28f206cd7204b79) - 2025-06-10
+* [Commit] [perf: use gmp branch for modexp](https://github.com/paradigmxyz/reth/commit/79e805ccbbd5b53c8f908a98849be22781dd29fe) - 2025-06-10
+* [Issue] [Update proptest to 1.7.0](https://github.com/paradigmxyz/reth/issues/16738) - 2025-06-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add basic tests for modexp](https://github.com/bluealloy/revm/pull/2603) - 2025-06-09
 * [Pull Request] [feat: add openssl based modexp impl](https://github.com/bluealloy/revm/pull/2599) - 2025-06-09
 * [Pull Request] [feat: add clz opcode](https://github.com/bluealloy/revm/pull/2598) - 2025-06-09
 * [Pull Request] [feat: rug/gmp-based powmod](https://github.com/bluealloy/revm/pull/2596) - 2025-06-09
+* [Pull Request] [feat: add clz](https://github.com/bluealloy/revm/pull/2610) - 2025-06-10
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -107,6 +107,18 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Issue] [EIP-7939: implement Count leading zeros (CLZ) opcode](https://github.com/hyperledger/besu/issues/8770) - 2025-06-09
 * [Pull Request] [feat: remove pay opcode from osaka](https://github.com/hyperledger/besu/pull/8768) - 2025-06-09
 * [Commit] [fix(engine): engine_getBlobsV2 missing from engine_exchangeCapabilities (#8763)](https://github.com/hyperledger/besu/commit/76da4f1e467e57196f17c46b7c42284b406fd3fa) - 2025-06-09
+* [Commit] [devnet-2 release for EEST (#8788)](https://github.com/hyperledger/besu/commit/cc8c8ee6d1b5997458129bc136b01f6e1fb825c0) - 2025-06-10
+* [Pull Request] [[fusaka-devnet-2] max blob per transaction into devnet-2](https://github.com/hyperledger/besu/pull/8786) - 2025-06-10
+* [Commit] [[fusaka-devnet-2] max blob per transaction into devnet-2 (#8786)](https://github.com/hyperledger/besu/commit/bf31eaca8996cdce07db7e6d1e17f13a00f1af48) - 2025-06-10
+* [Pull Request] [[fusaka-devnet-2] peerdas max blobs per tx](https://github.com/hyperledger/besu/pull/8785) - 2025-06-10
+* [Commit] [adjust modexp gas computation of eip-7883 (#8783)](https://github.com/hyperledger/besu/commit/446d878093a306386bf7faaca00203d904efac10) - 2025-06-10
+* [Commit] [[fusaka-devnet-1] increase max blobs kept in the pool: 72 (#8784)](https://github.com/hyperledger/besu/commit/8e160a920bf3408357ced72cf5e451479fe204f8) - 2025-06-10
+* [Pull Request] [[fusaka-devnet-2] EIP-7883](https://github.com/hyperledger/besu/pull/8783) - 2025-06-10
+* [Commit] [[fusaka-devnet-2] EIP-7951 (#8782)](https://github.com/hyperledger/besu/commit/ac56827b32755e898551048ec7959f757c7bddc4) - 2025-06-10
+* [Pull Request] [[fusaka-devnet-2] EIP-7951](https://github.com/hyperledger/besu/pull/8782) - 2025-06-10
+* [Pull Request] [feat: increase code size and init code size](https://github.com/hyperledger/besu/pull/8780) - 2025-06-10
+* [Issue] [Increase Maximum Contract Size to 48KB](https://github.com/hyperledger/besu/issues/8778) - 2025-06-10
+* [Pull Request] [fix: fix is trusted setup loaded test](https://github.com/hyperledger/besu/pull/8777) - 2025-06-10
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

@@ -74,6 +74,14 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [add block builder check](https://github.com/paradigmxyz/reth/commit/a8e09d0e9d1ee9b0e362c56af4f65e478f97c433) - 2025-06-09
 * [Commit] [add block builder check](https://github.com/paradigmxyz/reth/commit/e08c1169aea98655ed26eef332308a066ea4c2ca) - 2025-06-09
 * [Pull Request] [feat: implement EIP-7934](https://github.com/paradigmxyz/reth/pull/16726) - 2025-06-09
+* [Pull Request] [fix: small networking fixes](https://github.com/paradigmxyz/reth/pull/16742) - 2025-06-10
+* [Pull Request] [feat: reintroduce generic executors](https://github.com/paradigmxyz/reth/pull/16741) - 2025-06-10
+* [Pull Request] [feat: integrate `max_blobs_per_tx`](https://github.com/paradigmxyz/reth/pull/16739) - 2025-06-10
+* [Commit] [max_blobs_per_tx](https://github.com/paradigmxyz/reth/commit/4118d3134a33814310208d44708f999f5908370b) - 2025-06-10
+* [Commit] [max_blobs_per_tx](https://github.com/paradigmxyz/reth/commit/9ff1381a8626a95b41663b8d979145fe3b695169) - 2025-06-10
+* [Commit] [max_blobs_per_tx](https://github.com/paradigmxyz/reth/commit/2bd85bb8071baa530d53c51ec51bb2406f823f02) - 2025-06-10
+* [Commit] [feat: implement EIP-7934](https://github.com/paradigmxyz/reth/commit/3cc07b4578a807c30c8bb3681e06a50cff4e3d75) - 2025-06-10
+* [Commit] [max_blobs_per_tx](https://github.com/paradigmxyz/reth/commit/ee5913a3cfb4da2552d020a458d59cf9990c4308) - 2025-06-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/a7ca04d56781d0c81d6378c7b5a6b24e3f99532f) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/12aae0ed7ebf2c8f8dff1f0fa2dad4602c743977) - 2025-06-05
@@ -83,3 +91,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [feat: enable P256 in Osaka](https://github.com/bluealloy/revm/commit/4581bbff31d1e5e0abab8de29d299471d827edba) - 2025-06-09
 * [Commit] [feat: enable P256 in Osaka](https://github.com/bluealloy/revm/commit/707b4cbe3c50d91378d75d50fb55451559ac38e0) - 2025-06-09
 * [Pull Request] [feat: enable P256 in Osaka](https://github.com/bluealloy/revm/pull/2601) - 2025-06-09
+* [Pull Request] [feat: change blob_max_count to max_blobs_per_tx](https://github.com/bluealloy/revm/pull/2612) - 2025-06-10
+* [Commit] [feat: change blob_max_count to max_blobs_per_tx (#2608)](https://github.com/bluealloy/revm/commit/092e9469d4a81e56a11fb5103af9b0ac394d1302) - 2025-06-10
+* [Commit] [feat: change blob_max_count to max_blobs_per_tx (#2608)](https://github.com/bluealloy/revm/commit/d6486dbd1308512d953f19a4c70eb715240b8192) - 2025-06-10
+* [Pull Request] [feat: change blob_max_count to max_blobs_per_tx](https://github.com/bluealloy/revm/pull/2608) - 2025-06-10

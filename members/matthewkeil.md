@@ -96,6 +96,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: erigon getblobsv2 bug in response (#7912)](https://github.com/ChainSafe/lodestar/commit/0a673a00bb7e711817fcfb37ec5f315750716f3a) - 2025-06-05
 * [Commit] [fix: columns by root request length (#7917)](https://github.com/ChainSafe/lodestar/commit/3807a44081a517f6f37caa041de7897fa53cdf97) - 2025-06-05
 * [Pull Request] [fix: columns by root request length](https://github.com/ChainSafe/lodestar/pull/7917) - 2025-06-05
+* [Pull Request] [feat: add data column reqresp methods and db repositories](https://github.com/ChainSafe/lodestar/pull/7947) - 2025-06-10
+* [Commit] [fix: update getBlobsV2 request duration metric (#7944)](https://github.com/ChainSafe/lodestar/commit/f685543d6cd4fa3e81f25c3eb3ae07e5643fee60) - 2025-06-10
+* [Commit] [chore: add engine_getBlobsV2 metrics (#7854)](https://github.com/ChainSafe/lodestar/commit/fbabed864b88b087c8975c97471621f0504a02b9) - 2025-06-10
+* [Pull Request] [fix: column announcement before fork transition](https://github.com/ChainSafe/lodestar/pull/7943) - 2025-06-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

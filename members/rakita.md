@@ -37,6 +37,18 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat: enable P256 in Osaka (#2601)](https://github.com/bluealloy/revm/commit/14c614ead3a4e884781bbdfa87889017d3b1a641) - 2025-06-09
 * [Issue] [EIP-7939: Count leading zeros (CLZ) opcode](https://github.com/bluealloy/revm/issues/2600) - 2025-06-09
 * [Issue] [origin opcode casts Address to U256 on every iteration](https://github.com/bluealloy/revm/issues/2597) - 2025-06-09
+* [Commit] [feat(devnet2): modexp assume minimal base/mod length of 32 (#2613)](https://github.com/bluealloy/revm/commit/9ce4bef59bff2cefc2f0cdc02084b1ffc57a61e2) - 2025-06-10
+* [Pull Request] [feat(devnet2): modexp assume minimal base/mod length of 32](https://github.com/bluealloy/revm/pull/2613) - 2025-06-10
+* [Commit] [feat(devnet2): double contract size limit (#2611)](https://github.com/bluealloy/revm/commit/6283427f12676c059105c51fd93cfe5d619270e8) - 2025-06-10
+* [Commit] [cleanup](https://github.com/bluealloy/revm/commit/9772be13b4b19c6a246aca9ab2fa4112efdd55c5) - 2025-06-10
+* [Commit] [add initcode limit of 73kb](https://github.com/bluealloy/revm/commit/8dc91a00636894525cfa8a6e1d0b7445183264eb) - 2025-06-10
+* [Commit] [tests](https://github.com/bluealloy/revm/commit/6d671c32a27bee4ec08b10c771887f261f6f4d85) - 2025-06-10
+* [Commit] [set double value](https://github.com/bluealloy/revm/commit/a9ebc45efa74c10be0ea13d525455b24f7743d3f) - 2025-06-10
+* [Commit] [feat: add clz (#2610)](https://github.com/bluealloy/revm/commit/e0f9ed9d3673d09a317ce8eca1103d9fab82f050) - 2025-06-10
+* [Pull Request] [feat(devnet2): double contract size limit](https://github.com/bluealloy/revm/pull/2611) - 2025-06-10
+* [Commit] [set double value](https://github.com/bluealloy/revm/commit/ae4184a685fc8a5b2f17c2db67c65a2e536ef53d) - 2025-06-10
+* [Commit] [refactor: unify calling of journal account loading (#2562)](https://github.com/bluealloy/revm/commit/e681cafe107aab60d0c62129e3c5c453d2493fe9) - 2025-06-10
+* [Pull Request] [feat(devnet2): eip7907 Meter Contract Code Size And Increase Limit](https://github.com/bluealloy/revm/pull/2606) - 2025-06-10
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

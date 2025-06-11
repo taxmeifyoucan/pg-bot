@@ -30,6 +30,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Remove unused assignments (#9496)](https://github.com/Consensys/teku/commit/42568a5a50678a4a6bff24e8b587f4ee0c216f1f) - 2025-05-30
 * [Commit] [Add SszUInt64Vector and schema (#9521)](https://github.com/Consensys/teku/commit/585add560037058e649d215d8a70f9031fd014f7) - 2025-06-06
 * [Pull Request] [Add SszUInt64Vector and schema](https://github.com/Consensys/teku/pull/9521) - 2025-06-06
+* [Issue] [beacon API: Add data_column_sidecar event to eventstream API](https://github.com/Consensys/teku/issues/9530) - 2025-06-10
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

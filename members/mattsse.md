@@ -417,6 +417,12 @@ Team: Reth
 * [Pull Request] [chore: rm mut](https://github.com/paradigmxyz/reth/pull/16731) - 2025-06-09
 * [Pull Request] [fix: include bpo hardforks in forkid](https://github.com/paradigmxyz/reth/pull/16730) - 2025-06-09
 * [Issue] [Missing commit sha in docker](https://github.com/paradigmxyz/reth/issues/16728) - 2025-06-09
+* [Pull Request] [fix: change some rpc response codes to eth invalid input](https://github.com/paradigmxyz/reth/pull/16745) - 2025-06-10
+* [Issue] [Change error codes for rpc errors](https://github.com/paradigmxyz/reth/issues/16744) - 2025-06-10
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
+* [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

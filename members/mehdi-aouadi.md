@@ -34,6 +34,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [deprecate unused validators-proposer-blinded-blocks-enabled option](https://github.com/Consensys/teku/pull/9512) - 2025-06-03
 * [Issue] [Remove the unused --validators-proposer-blinded-blocks-enabled option](https://github.com/Consensys/teku/issues/9513) - 2025-06-04
 * [Commit] [Convert the single attestations into aggregated ones when reporting the attestations performance (#9504)](https://github.com/Consensys/teku/commit/6dd1816d426abfc379145662e0eafc20e4b21abe) - 2025-06-05
+* [Issue] [Update the data_column_sidecars endpoint](https://github.com/Consensys/teku/issues/9535) - 2025-06-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add eip7805 presets](https://github.com/ethereum/consensus-specs/pull/4268) - 2025-04-14
 * [Pull Request] [move IL committee domain to constant](https://github.com/ethereum/consensus-specs/pull/4276) - 2025-04-17

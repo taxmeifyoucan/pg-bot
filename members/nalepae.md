@@ -147,6 +147,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 * [Pull Request] [Validator custody: Increase only and optional backfill.](https://github.com/ethereum/consensus-specs/pull/4357) - 2025-06-03
+* [Pull Request] [CGC: Update before Fulu](https://github.com/ethereum/consensus-specs/pull/4373) - 2025-06-10
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

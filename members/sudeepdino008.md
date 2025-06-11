@@ -239,6 +239,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8200136fbde10271d6bfa26836f5ac0a5331be88) - 2025-06-05
 * [Pull Request] [WIP: forkable temporaldb integration](https://github.com/erigontech/erigon/pull/15479) - 2025-06-06
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d28111c906438d9550c75d96c1b0752b6649b8c5) - 2025-06-09
+* [Pull Request] [skipping dependency log to debug](https://github.com/erigontech/erigon/pull/15515) - 2025-06-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f92f6080f476ab0c8223e5e80cd7d74028ac0c0e) - 2025-06-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/57252fbab0e02bca039f9703f7497f2c78b0bd60) - 2025-06-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2c8f05ba8a1551decdd51eb35f258a256d1718de) - 2025-06-10
+* [Commit] [ci: more automation for RPC Integration Tests (#15432)](https://github.com/erigontech/erigon/commit/bc29f3f55749a2d36454aa9e7693f59093d8b392) - 2025-06-10
+* [Issue] [add functionality to purge merged files entries from BlockTxNumLookupCache](https://github.com/erigontech/erigon/issues/15512) - 2025-06-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/330459a8279f8b19274bd63fa74aef2f078637f5) - 2025-06-10
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

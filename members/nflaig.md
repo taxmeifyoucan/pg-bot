@@ -200,6 +200,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: create empty Map if entry for prev block root does not exist](https://github.com/ChainSafe/lodestar/pull/7928) - 2025-06-06
 * [Commit] [chore: review EIP-7917 deterministic proposer lookahead](https://github.com/ChainSafe/lodestar/commit/be0474de84803340acc40cf39fa4ef930108d09d) - 2025-06-09
 * [Pull Request] [chore: review EIP-7917 deterministic proposer lookahead](https://github.com/ChainSafe/lodestar/pull/7937) - 2025-06-09
+* [Pull Request] [fix: query shuffling from cache to compute proposer lookahead](https://github.com/ChainSafe/lodestar/pull/7945) - 2025-06-10
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

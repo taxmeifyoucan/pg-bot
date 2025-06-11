@@ -129,9 +129,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix tx blob deserialization after PeerDAS (#8729)](https://github.com/NethermindEth/nethermind/commit/18f4b0e9dc4f8f863e6937d204c01e5e2c81bd16) - 2025-06-09
 * [Commit] [Fix typo](https://github.com/NethermindEth/nethermind/commit/db1162cafb6a4d9a87b4889a48051f7de1bda85c) - 2025-06-09
 * [Commit] [Improve JumpDest analysis (#8725)](https://github.com/NethermindEth/nethermind/commit/445670827c427ad21d4a174fbe42805c2ad654d2) - 2025-06-09
+* [Commit] [Clean up](https://github.com/NethermindEth/nethermind/commit/c4c9c43ad99c81722faecc6a820681ee9a341a99) - 2025-06-10
+* [Pull Request] [Add max blobs per tx limit taken from blob schedule](https://github.com/NethermindEth/nethermind/pull/8754) - 2025-06-10
+* [Commit] [Add tests](https://github.com/NethermindEth/nethermind/commit/41f80279427888ded9eb173bd57ec1520788edc9) - 2025-06-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 
+* [Pull Request] [EIP-7934: Fix? constant names](https://github.com/ethereum/EIPs/pull/9887) - 2025-06-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add errors for system contracts failures in Nethermind](https://github.com/ethereum/execution-spec-tests/pull/1542) - 2025-05-05
 * [Pull Request] [Add/correct error messages for Nethermind](https://github.com/ethereum/execution-spec-tests/pull/1602) - 2025-05-14

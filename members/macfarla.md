@@ -76,6 +76,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [add extra modexp benchmarks](https://github.com/hyperledger/besu/pull/8751) - 2025-06-05
 * [Commit] [add extra benchmarks (#8751)](https://github.com/hyperledger/besu/commit/057a9c7384347df3aba80fc8792e0b255d75b8ae) - 2025-06-06
 * [Commit] [EIP-7918 blob base fee bounded by execution cost (#8724)](https://github.com/hyperledger/besu/commit/b692d48825cea3efa474831b774e4e0838503af1) - 2025-06-06
+* [Pull Request] [[fusaka-devnet-2] EEST release for fusaka-devnet-2](https://github.com/hyperledger/besu/pull/8788) - 2025-06-10
+* [Pull Request] [[fusaka-devnet-1] increase max blobs kept in the pool: 72](https://github.com/hyperledger/besu/pull/8784) - 2025-06-10
+* [Commit] [disable flaky test NatOptionsTest (#8776)](https://github.com/hyperledger/besu/commit/96c06a9de644d06db2644f6660b4f5a7b37fd603) - 2025-06-10
+* [Commit] [fix KZG intermittent failures (#8781)](https://github.com/hyperledger/besu/commit/dd8b20237fdae81afc36f94c02a9180b0a5d171d) - 2025-06-10
+* [Pull Request] [disable flaky test NatOptionsTest](https://github.com/hyperledger/besu/pull/8776) - 2025-06-10
+* [Issue] [flaky test NatOptionsTest](https://github.com/hyperledger/besu/issues/8775) - 2025-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

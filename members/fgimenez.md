@@ -180,6 +180,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [test: multie-node support in e2e testsuite](https://github.com/paradigmxyz/reth/commit/f0c7e1aaeb603626d0ce734b8ae81ab733f39efd) - 2025-06-08
 * [Pull Request] [test: multi-node support in e2e testsuite](https://github.com/paradigmxyz/reth/pull/16725) - 2025-06-09
 * [Commit] [test: multi-node support in e2e testsuite](https://github.com/paradigmxyz/reth/commit/3006864639a6e3b932449a015dd666b69ed1d14c) - 2025-06-09
+* [Pull Request] [chore(ci): update hive expected failures](https://github.com/paradigmxyz/reth/pull/16737) - 2025-06-10
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

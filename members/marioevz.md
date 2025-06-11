@@ -156,6 +156,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(docs): links (#1727)](https://github.com/ethereum/execution-spec-tests/commit/d7055d5ba6aac3a324f040c350c9da6cf0c4a970) - 2025-06-09
 * [Pull Request] [fix(docs): links](https://github.com/ethereum/execution-spec-tests/pull/1727) - 2025-06-09
 * [Issue] [feat(tests): Fusaka Devnet-2 Tracking Issue](https://github.com/ethereum/execution-spec-tests/issues/1724) - 2025-06-09
+* [Commit] [chore(tests): update modexp eip-7883 to latest spec (#1729)](https://github.com/ethereum/execution-spec-tests/commit/2f2c48fe17e419de3f27d0aaff19ac4b818849f1) - 2025-06-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04
