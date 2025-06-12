@@ -132,6 +132,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Clean up](https://github.com/NethermindEth/nethermind/commit/c4c9c43ad99c81722faecc6a820681ee9a341a99) - 2025-06-10
 * [Pull Request] [Add max blobs per tx limit taken from blob schedule](https://github.com/NethermindEth/nethermind/pull/8754) - 2025-06-10
 * [Commit] [Add tests](https://github.com/NethermindEth/nethermind/commit/41f80279427888ded9eb173bd57ec1520788edc9) - 2025-06-10
+* [Commit] [Fix punctuation](https://github.com/NethermindEth/nethermind/commit/daf46e8318356653f6fa7a87aebcb98d16d7df40) - 2025-06-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

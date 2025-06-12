@@ -111,6 +111,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Define requirements for the blob schedule](https://github.com/ethereum/consensus-specs/pull/4370) - 2025-06-09
 * [Commit] [Define requirements for the blob schedule (#4370)](https://github.com/ethereum/consensus-specs/commit/931f31cd66c1d933cd8265061931db1d12ec1a37) - 2025-06-10
 * [Commit] [Bump the actions group with 3 updates (#4372)](https://github.com/ethereum/consensus-specs/commit/ea7f185c9338e19c7642443f06c6963cd8398864) - 2025-06-10
+* [Commit] [Introduce Status v2 with `earliest_available_slot` (#4374)](https://github.com/ethereum/consensus-specs/commit/d92c60c5051e2b1faab4b736757273f587219023) - 2025-06-11
+* [Commit] [Modify fork digest to distinguish BPO forks + add entry to ENR (#4354)](https://github.com/ethereum/consensus-specs/commit/ddbd1e30f2b8794286d04446fdc316c0b55b5609) - 2025-06-11
+* [Commit] [CGC: Update before Fulu (#4373)](https://github.com/ethereum/consensus-specs/commit/0c9ec2f9e680997b97767485cad3ae6a670e9fd7) - 2025-06-11
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 

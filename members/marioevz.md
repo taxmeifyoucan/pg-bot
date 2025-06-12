@@ -157,6 +157,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(docs): links](https://github.com/ethereum/execution-spec-tests/pull/1727) - 2025-06-09
 * [Issue] [feat(tests): Fusaka Devnet-2 Tracking Issue](https://github.com/ethereum/execution-spec-tests/issues/1724) - 2025-06-09
 * [Commit] [chore(tests): update modexp eip-7883 to latest spec (#1729)](https://github.com/ethereum/execution-spec-tests/commit/2f2c48fe17e419de3f27d0aaff19ac4b818849f1) - 2025-06-10
+* [Commit] [feat(fill): enable shared pre-allocation groups and add `BlockchainEngineReorgFixture` (#1706)](https://github.com/ethereum/execution-spec-tests/commit/971214c0832f656b7250eb71cf0b7bcba96c3f49) - 2025-06-11
+* [Commit] [fix: move pre](https://github.com/ethereum/execution-spec-tests/commit/b7219b125470db4ccc6fa52b23fd9ddb935ab30e) - 2025-06-11
+* [Commit] [zkevm: add temp memory opcodes (#1671)](https://github.com/ethereum/execution-spec-tests/commit/e91aba193f61d0d7e999c09cf6c009f493afb95b) - 2025-06-11
+* [Commit] [fix: tox](https://github.com/ethereum/execution-spec-tests/commit/98560fa00f40eefb26eaade4787139ea930bdd34) - 2025-06-11
+* [Commit] [feat: genesis header in pre_alloc files](https://github.com/ethereum/execution-spec-tests/commit/83608bd8f5bc1f5fd6d192bf8f5f4440e5476092) - 2025-06-11
+* [Commit] [fix: xdist](https://github.com/ethereum/execution-spec-tests/commit/dfe92e51150ff495a06a3bfe700323e3ad5333a0) - 2025-06-11
+* [Commit] [fix(cli): groupstats](https://github.com/ethereum/execution-spec-tests/commit/c701ca4637e588b4bb7d7bc8caaf25c18f6d5337) - 2025-06-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

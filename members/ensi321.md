@@ -66,6 +66,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: prepare for spec test v1.6.0-alpha.1 (#7919)](https://github.com/ChainSafe/lodestar/commit/9330899493f109fce8c3586e6c1f11d6e6f96884) - 2025-06-05
 * [Commit] [chore: review EIP-7917 deterministic proposer lookahead (#7937)](https://github.com/ChainSafe/lodestar/commit/cb0e5abd0d7e5dcd7a3994128c09ae9c77bef7e2) - 2025-06-09
 * [Pull Request] [feat: validate blob schedule on startup](https://github.com/ChainSafe/lodestar/pull/7942) - 2025-06-10
+* [Commit] [lint](https://github.com/ChainSafe/lodestar/commit/e5949a514609477e187c585a27fc907196f26eb8) - 2025-06-11
+* [Commit] [Subscribe/unsubscribe at blob schedule boundary](https://github.com/ChainSafe/lodestar/commit/dd940e2c6a910a6db9ade996f7a30313c52e9012) - 2025-06-11
+* [Commit] [Update ENR fork digest verification](https://github.com/ChainSafe/lodestar/commit/b5dd877584d5e05e8f703b684e54c586aa0329c2) - 2025-06-11
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

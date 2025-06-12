@@ -67,6 +67,7 @@ Team: Reth
 * [Commit] [perf: use gmp branch for modexp](https://github.com/paradigmxyz/reth/commit/26094393c8de35a52f97997cb28f206cd7204b79) - 2025-06-10
 * [Commit] [perf: use gmp branch for modexp](https://github.com/paradigmxyz/reth/commit/79e805ccbbd5b53c8f908a98849be22781dd29fe) - 2025-06-10
 * [Issue] [Update proptest to 1.7.0](https://github.com/paradigmxyz/reth/issues/16738) - 2025-06-10
+* [Commit] [Revert "perf: add profile-guided optimization (PGO) support (#16771)" (#16773)](https://github.com/paradigmxyz/reth/commit/a6a6103d13d92772183931b37528cf35b3b617f9) - 2025-06-11
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add basic tests for modexp](https://github.com/bluealloy/revm/pull/2603) - 2025-06-09
 * [Pull Request] [feat: add openssl based modexp impl](https://github.com/bluealloy/revm/pull/2599) - 2025-06-09

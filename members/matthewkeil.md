@@ -100,6 +100,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: update getBlobsV2 request duration metric (#7944)](https://github.com/ChainSafe/lodestar/commit/f685543d6cd4fa3e81f25c3eb3ae07e5643fee60) - 2025-06-10
 * [Commit] [chore: add engine_getBlobsV2 metrics (#7854)](https://github.com/ChainSafe/lodestar/commit/fbabed864b88b087c8975c97471621f0504a02b9) - 2025-06-10
 * [Pull Request] [fix: column announcement before fork transition](https://github.com/ChainSafe/lodestar/pull/7943) - 2025-06-10
+* [Commit] [chore: add rust-kzg](https://github.com/ChainSafe/lodestar/commit/cd4dd49192e6aa6f8a50de7ace73c2e6a6625038) - 2025-06-11
+* [Commit] [fix: update db bucket names with correct fork](https://github.com/ChainSafe/lodestar/commit/3a408e2384016a0c7b91db2d70cf7416d23d4e2e) - 2025-06-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

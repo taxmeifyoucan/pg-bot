@@ -25,6 +25,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Commit] [Adjust block size to CL pessimistic block size (#8737)](https://github.com/NethermindEth/nethermind/commit/b7db4a140bdede1da9f5ad6b8a0db74ec1cf24f8) - 2025-06-05
 * [Pull Request] [Update EIP-7883: Assume minimal base/mod length of 32 ](https://github.com/NethermindEth/nethermind/pull/8749) - 2025-06-09
 * [Commit] [Update EIP-7883: Assume minimal base/mod length of 32  (#8749)](https://github.com/NethermindEth/nethermind/commit/79137d4c0d862a1db0629f3a2643542924063458) - 2025-06-10
+* [Commit] [Invalid block experiment](https://github.com/NethermindEth/nethermind/commit/b17bdca9998cd099f0dbb5ce43d7ca2a19281ff2) - 2025-06-11
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

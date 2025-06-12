@@ -136,6 +136,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/b138cf50b67ce750b47dfa78f08143687d061db7) - 2025-06-05
 * [Pull Request] [[r3.0] add cmd to rename all files to 3.0 format](https://github.com/erigontech/erigon/pull/15468) - 2025-06-05
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/1300575f05f9f70f028a19eaed85e59df4c6c3ea) - 2025-06-05
+* [Commit] [lock agg.close() until files building (#15157)](https://github.com/erigontech/erigon/commit/952f7995e03da586041ebcaf2d20d6f26039bcd4) - 2025-06-11
+* [Pull Request] [Compatibility check](https://github.com/erigontech/erigon/pull/15537) - 2025-06-11
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/9a5775495672404ed80b62ca2b2dfef6cf6b8d0b) - 2025-06-11
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/e0a1db559645c2784e986b607b6df63f7cf7b1ef) - 2025-06-11
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/9573f12b9add5a6a274c28bc4c6d0df607c1bfa8) - 2025-06-11
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/d895f40a94d1058a952e6e45810049566fa3085b) - 2025-06-11
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

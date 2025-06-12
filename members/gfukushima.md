@@ -31,6 +31,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Add SszUInt64Vector and schema (#9521)](https://github.com/Consensys/teku/commit/585add560037058e649d215d8a70f9031fd014f7) - 2025-06-06
 * [Pull Request] [Add SszUInt64Vector and schema](https://github.com/Consensys/teku/pull/9521) - 2025-06-06
 * [Issue] [beacon API: Add data_column_sidecar event to eventstream API](https://github.com/Consensys/teku/issues/9530) - 2025-06-10
+* [Commit] [Add data column sidecar event stream (#9536)](https://github.com/Consensys/teku/commit/2aa29f3863e69e6ca381b7423a3ade0b78f9a374) - 2025-06-11
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

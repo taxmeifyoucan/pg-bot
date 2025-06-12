@@ -234,8 +234,12 @@ Team: Erigon
 * [Pull Request] [Giulio/add diffset gen flag](https://github.com/erigontech/erigon/pull/15424) - 2025-06-03
 * [Commit] [params: version 3.1.0-dev (#13782)](https://github.com/erigontech/erigon/commit/03ea71633743b193b96732bd94a3bdca4a75fe15) - 2025-06-03
 
+* [Pull Request] [Add CLZ opcode](https://github.com/erigontech/erigon/pull/15532) - 2025-06-11
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Add specific max message size to `GetReceipts` in DevP2P](https://github.com/ethereum/EIPs/pull/9892) - 2025-06-11
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -302,6 +302,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 2f2c48fe17 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e9b091aa0805bc3f399d2528f7c338f372c1f8ab) - 2025-06-10
 * [Commit] [Deployed 0dfcd92bb4 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/76efc17a3e88ae2cd43a6b10a86dda017cf9d7c0) - 2025-06-10
 * [Commit] [chore(deps): bump ethereum-evm-spec-resolver to latest version](https://github.com/ethereum/execution-spec-tests/commit/85fc2256bce58509e84babedd6e626945a56be52) - 2025-06-10
+* [Commit] [Deployed 971214c083 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/466cb83c5fa27643943210563224ba879d7e3669) - 2025-06-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

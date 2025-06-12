@@ -23,6 +23,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Commit] [More comments](https://github.com/sigp/lighthouse/commit/b383f7af536329ef99989fe3390b83659d47339c) - 2025-05-27
 * [Commit] [Fix finalized_sync_permanent_custody_peer_failure](https://github.com/sigp/lighthouse/commit/ae0ef8f92926e9c99189a271e23736f7cfa148d2) - 2025-06-05
 * [Issue] [Lookup sync: don't penalize peers that extend children of long chains](https://github.com/sigp/lighthouse/issues/7577) - 2025-06-07
+* [Commit] [Re-add NoPeers error](https://github.com/sigp/lighthouse/commit/82c8e82fe1a65eddcbb24734b2f1903e872fdc45) - 2025-06-11
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

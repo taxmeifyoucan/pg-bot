@@ -120,6 +120,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/72ea1f471ce4b92f11600d5a0594f1f57f6f0cec) - 2025-06-10
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/ce033437751e5f511941e7e624e53bbd69813118) - 2025-06-10
 * [Commit] [update](https://github.com/erigontech/erigon/commit/a8cc5a9ffcde480762c84b0280b70f2b1425128e) - 2025-06-10
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/c2bf542ced0389f7b33cde7b18f84bcd296fcf2e) - 2025-06-11
+* [Commit] [update](https://github.com/erigontech/erigon/commit/ed25c1b7d9795f2d01a1a403960d8d56c403b669) - 2025-06-11
+* [Commit] [update](https://github.com/erigontech/erigon/commit/8b45cca86b0c32fa58b0958bd0f09529e7928d53) - 2025-06-11
+* [Commit] [update](https://github.com/erigontech/erigon/commit/c16037e9053fdf36b4247d044ce8e6e0f51ee01f) - 2025-06-11
+* [Commit] [update](https://github.com/erigontech/erigon/commit/b120cf9e89b6d7c688da00ade48bd15fc421fc52) - 2025-06-11
+* [Commit] [update](https://github.com/erigontech/erigon/commit/669e57feb52e69be13c5cd7cc1daf86d11809c7e) - 2025-06-11
+* [Commit] [update](https://github.com/erigontech/erigon/commit/cccf6fc2e087d8c3302ef5bf267643a10c904338) - 2025-06-11
+* [Commit] [update](https://github.com/erigontech/erigon/commit/05c25404d6d9ff009674c304c88be3dcef2cca59) - 2025-06-11
+* [Commit] [update](https://github.com/erigontech/erigon/commit/76f36932c541b7e0fb956672388e7385000164a1) - 2025-06-11
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

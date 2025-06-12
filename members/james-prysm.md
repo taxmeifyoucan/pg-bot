@@ -113,6 +113,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [SSZ support for Attestation APIs Part 1 (#15377)](https://github.com/OffchainLabs/prysm/commit/265d84569c6b892d2e55185d065c24a4df9776c7) - 2025-06-05
 * [Commit] [Reorganize processing of light client updates (#15383)](https://github.com/OffchainLabs/prysm/commit/f5a9394c77daf4950f8437fed795e17d30295397) - 2025-06-09
 * [Pull Request] [adding ssz for get block endpoint](https://github.com/OffchainLabs/prysm/pull/15390) - 2025-06-09
+* [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/cc296d3ba6f232bafaae3becb8c7a134086bf3a8) - 2025-06-11
+* [Commit] [changelog](https://github.com/OffchainLabs/prysm/commit/51e26cb847eb5f56fada8b4f19edde6b01045610) - 2025-06-11
+* [Commit] [beacon api: Stream event for data column sidecar (#15387)](https://github.com/OffchainLabs/prysm/commit/6087875da526ac5e20df09881ad082048443db42) - 2025-06-11
+* [Commit] [fixing tests](https://github.com/OffchainLabs/prysm/commit/c19f6875db7e391ac94207f65230cc0bda774bb9) - 2025-06-11
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -33,6 +33,8 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [Auto-update fast sync settings (#8545)](https://github.com/NethermindEth/nethermind/commit/fdb0d5d08c57042b87ade33e0aa54109b463b736) - 2025-05-02
 * [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/7afffa2ebc77635cc2e7c5cdc1531c6350ec1d12) - 2025-05-02
 * [Commit] [more fixes](https://github.com/NethermindEth/nethermind/commit/8117ddbe5afec332dd1b6244ff2508e261cc03d8) - 2025-05-22
+* [Commit] [reorg visited nodes to visit storage first for the tranistion](https://github.com/NethermindEth/nethermind/commit/873795048cd3db200d9124669bbea09c4c65ede1) - 2025-06-11
+* [Commit] [add interface](https://github.com/NethermindEth/nethermind/commit/7e2548231b4b83a10580b0cb0e08269ddda0b145) - 2025-06-11
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

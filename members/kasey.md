@@ -33,6 +33,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Pull Request] [extend payload attribute deadline to proposal slot](https://github.com/OffchainLabs/prysm/pull/15230) - 2025-04-27
 * [Commit] [extend payload attribute deadline to proposal slot](https://github.com/OffchainLabs/prysm/commit/1032fb3f84eb90d5c7e19098ff30ce9fd55c9e25) - 2025-04-27
 * [Commit] [use latest unclog release](https://github.com/OffchainLabs/prysm/commit/7c639a839d53950b2dedad631fdb6652ad85ec01) - 2025-05-23
+* [Commit] [fix missed updates after sig change](https://github.com/OffchainLabs/prysm/commit/48dbb0b154ff3033b94267d4ac3e0096bb79392b) - 2025-06-11
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

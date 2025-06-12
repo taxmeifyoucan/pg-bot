@@ -93,3 +93,6 @@ Team: Reth
 
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [deps: explicitly bump `auto_impl`](https://github.com/bluealloy/revm/pull/2583) - 2025-06-05
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [fix(eip-7928): inconsistencies in SSZ structures](https://github.com/ethereum/EIPs/pull/9893) - 2025-06-11

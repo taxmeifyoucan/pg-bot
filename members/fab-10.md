@@ -46,6 +46,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Workaround to force the txpool to be always on ](https://github.com/hyperledger/besu/pull/8755) - 2025-06-06
 * [Commit] [Remove BesuContext since deprecated in favor of ServiceManager since 24.12.0 (#8787)](https://github.com/hyperledger/besu/commit/3d56c67b7df2ad9903235af0181911a51df7e8bb) - 2025-06-10
 * [Pull Request] [Remove BesuContext since deprecated in favor of ServiceManager](https://github.com/hyperledger/besu/pull/8787) - 2025-06-10
+* [Commit] [Introduce the `TransactionValidatorService` to allow plugins to add custom validation rules (#8793)](https://github.com/hyperledger/besu/commit/2783ebbd29977845465abb9f261ea207376d143b) - 2025-06-11
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

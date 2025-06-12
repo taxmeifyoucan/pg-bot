@@ -302,6 +302,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Adjust block size to CL pessimistic block size (#8737)](https://github.com/NethermindEth/nethermind/commit/b7db4a140bdede1da9f5ad6b8a0db74ec1cf24f8) - 2025-06-07
 * [Commit] [Sync master (#8751)](https://github.com/NethermindEth/nethermind/commit/86dbafb69b0332f8acf5ba58f71f7975873e0101) - 2025-06-10
 * [Pull Request] [Sync master](https://github.com/NethermindEth/nethermind/pull/8751) - 2025-06-10
+* [Commit] [Sync master (#8766)](https://github.com/NethermindEth/nethermind/commit/9add98005fb95d5cbdf5b9118c2c890b54ff70ed) - 2025-06-11
+* [Pull Request] [Sync master](https://github.com/NethermindEth/nethermind/pull/8766) - 2025-06-11
+* [Commit] [SpanSource for TrieNode rlp (#8719)](https://github.com/NethermindEth/nethermind/commit/c1dcc73f35e797c0cb30ddbaf05d9a39b33dc27c) - 2025-06-11
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

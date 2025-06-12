@@ -141,6 +141,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: more RecoverResult enums](https://github.com/ChainSafe/lodestar/commit/f99b3b8a6b8fccb71c46bdc250269cb726c0895c) - 2025-06-10
 * [Pull Request] [feat: implement recover_matrix for peerDAS](https://github.com/ChainSafe/lodestar/pull/7940) - 2025-06-10
 * [Commit] [feat: async kzg proof verification (#7936)](https://github.com/ChainSafe/lodestar/commit/0536c19e4440048ad40fd714b29e5e7f74e4d34d) - 2025-06-10
+* [Commit] [chore: bump package versions to 1.31.0](https://github.com/ChainSafe/lodestar/commit/8847b4a92b64ff49ade8c3953c65b359fa50becc) - 2025-06-11
+* [Commit] [chore: add panels to validator client dashboard to track aggregate participants (#7929)](https://github.com/ChainSafe/lodestar/commit/70c56033674908631b29306dd85d5598c69c91f7) - 2025-06-11
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

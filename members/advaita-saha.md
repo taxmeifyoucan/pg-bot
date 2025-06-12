@@ -81,3 +81,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Issue] [feat: block history pruner](https://github.com/status-im/nimbus-eth1/issues/3368) - 2025-06-09
 * [Commit] [spec fix](https://github.com/status-im/nimbus-eth1/commit/703a19bbec690a775e422bdd94e6e416c33fd4a9) - 2025-06-10
 * [Commit] [EIP-7825 : Transaction Gas Limit Cap (#3358)](https://github.com/status-im/nimbus-eth1/commit/ba3c725ceb2b0fef1b6cf582f160214b005940c4) - 2025-06-10
+* [Issue] [state root mismatch in mainnet block](https://github.com/status-im/nimbus-eth1/issues/3381) - 2025-06-11

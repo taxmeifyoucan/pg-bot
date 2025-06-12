@@ -144,6 +144,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/a94561f8dc5b006287e4d8c2fa972d5688302d15) - 2025-06-06
 * [Commit] [Peer das misc (#15384)](https://github.com/OffchainLabs/prysm/commit/af875b78c9abce048d8e517f3f4f18a5e75a54c3) - 2025-06-06
 * [Commit] [Set subscribe all data subnets once (#15388)](https://github.com/OffchainLabs/prysm/commit/c311e652eb867671131bb400f1433a8e3d5344d8) - 2025-06-08
+* [Commit] [Add PeerDAS reconstruction metrics (#14807)](https://github.com/OffchainLabs/prysm/commit/f86f76e447a9138c0e58ff272bc498c418fbde85) - 2025-06-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 * [Pull Request] [Validator custody: Increase only and optional backfill.](https://github.com/ethereum/consensus-specs/pull/4357) - 2025-06-03

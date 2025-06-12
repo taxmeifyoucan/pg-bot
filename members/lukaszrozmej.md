@@ -97,6 +97,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [ExecutionEnvironment pass Uint256 as in (#8736)](https://github.com/NethermindEth/nethermind/commit/b3145d78d6952416857ce20653e7b01e84b7dbb0) - 2025-06-05
 * [Commit] [more in](https://github.com/NethermindEth/nethermind/commit/3d0f636564844623e1ebae822a36446af85c3534) - 2025-06-05
 * [Commit] [Auto-update fast sync settings (#8745)](https://github.com/NethermindEth/nethermind/commit/370aeb3b17683d5a599fe39e16ff33f5c70da777) - 2025-06-09
+* [Commit] [increase delay in flaky test Test_task_that_is_scheduled_during_block_processing_will_continue_after](https://github.com/NethermindEth/nethermind/commit/d8fe5606ac418caef628a80e96382463cbfda0d1) - 2025-06-11
+* [Commit] [eip 7939 count leading zeros optimization (#8765)](https://github.com/NethermindEth/nethermind/commit/eeea59bb953b626ba3e8e00e9db68387df7bdeeb) - 2025-06-11
+* [Commit] [generate tests for every bit](https://github.com/NethermindEth/nethermind/commit/50c52edd4ccee001d459c11b4903717a0b340c88) - 2025-06-11
+* [Commit] [Update src/Nethermind/Nethermind.Evm/Instructions/EvmInstructions.Math1Param.cs](https://github.com/NethermindEth/nethermind/commit/5d4be585be817ab7fb7a2e9c39d0786d3a1f8a6d) - 2025-06-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

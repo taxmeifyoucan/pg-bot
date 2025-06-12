@@ -126,6 +126,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Update tests/osaka/eip7594_peerdas/test_get_blobs.py](https://github.com/ethereum/execution-spec-tests/commit/3927b3eeec2a0b6e2b654342aaef14ae97b5f6b1) - 2025-06-09
 
 * [Commit] [chore(deps): bump ethereum-evm-spec-resolver to latest version (#1722)](https://github.com/ethereum/execution-spec-tests/commit/0dfcd92bb4589783baef73fe03c50401eb0e2280) - 2025-06-10
+* [Commit] [feat(tests): block rlp size limit eip-7934 test cases.](https://github.com/ethereum/execution-spec-tests/commit/5702f2f74383769da2074eae16b3b9eddc15b66f) - 2025-06-11
+* [Commit] [chore(deps): bump ethereum-evm-spec-resolver to latest version (#1722)](https://github.com/ethereum/execution-spec-tests/commit/0dfcd92bb4589783baef73fe03c50401eb0e2280) - 2025-06-11
+* [Commit] [feat(tests): fix parameterization, update tests.](https://github.com/ethereum/execution-spec-tests/commit/2076d2956bd299f07374e2d03228fdcb251fc55f) - 2025-06-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1275) - 2025-06-10
 * [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1274) - 2025-06-10

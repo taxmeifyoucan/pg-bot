@@ -122,6 +122,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix at process sync agg](https://github.com/status-im/nimbus-eth2/commit/c56fa527ce46ef4996d8322fe2c515c21942fb31) - 2025-06-10
 * [Commit] [fix get beacon proposer index code](https://github.com/status-im/nimbus-eth2/commit/47eb1a3a7e5104a088349857fb13c781ca00c145) - 2025-06-10
 * [Commit] [added new mechanism of getting proposer indices in fulu](https://github.com/status-im/nimbus-eth2/commit/3aed05162adf4c540f2118c08e440d46edf85e69) - 2025-06-10
+* [Issue] [implement statusV2 in req/resp domain to notify `earliest_available_slot`](https://github.com/status-im/nimbus-eth2/issues/7225) - 2025-06-11
+* [Issue] [implement modify fork digest in bpo forks and add the entry to ENR](https://github.com/status-im/nimbus-eth2/issues/7224) - 2025-06-11
+* [Commit] [Fix _total for peerdas metrics (#7222)](https://github.com/status-im/nimbus-eth2/commit/25deba8dd44e306965ba4d397d9ae6d1f0dc4ce1) - 2025-06-11
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

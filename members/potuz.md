@@ -64,6 +64,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [validator client: adding in get duties v2 (#15380)](https://github.com/OffchainLabs/prysm/commit/8c324cc491e053642f36f6878c74e4c06902d273) - 2025-06-05
 * [Commit] [update spectests to 1.6.0-alpha.1](https://github.com/OffchainLabs/prysm/commit/087eb17ac23a4965711ac1f418ec415d92389231) - 2025-06-05
 * [Commit] [update spectests to 1.6.0-alpha.1](https://github.com/OffchainLabs/prysm/commit/b4751120dddee45106736bc9f05766638fa658bd) - 2025-06-05
+* [Commit] [review](https://github.com/OffchainLabs/prysm/commit/4323478a466550759b26dea2641a3f7a25560f24) - 2025-06-11
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

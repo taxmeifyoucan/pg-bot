@@ -119,6 +119,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [feat: increase code size and init code size](https://github.com/hyperledger/besu/pull/8780) - 2025-06-10
 * [Issue] [Increase Maximum Contract Size to 48KB](https://github.com/hyperledger/besu/issues/8778) - 2025-06-10
 * [Pull Request] [fix: fix is trusted setup loaded test](https://github.com/hyperledger/besu/pull/8777) - 2025-06-10
+* [Commit] [Move mbaxter to emeritus (#8710)](https://github.com/hyperledger/besu/commit/85caeb508959ceabf4e0b3516775324e26806515) - 2025-06-11
+* [Commit] [re add osaka to blob schedule (#8805)](https://github.com/hyperledger/besu/commit/5c154893b80a43bbc003e57dd340f93e8a287040) - 2025-06-11
+* [Pull Request] [[berlinterop-devnet-2] Fix for osaka blob schedule](https://github.com/hyperledger/besu/pull/8805) - 2025-06-11
+* [Commit] [use interop specific tests release (#8801)](https://github.com/hyperledger/besu/commit/ab439f1096107813535156d30d2c42c24970a2e2) - 2025-06-11
+* [Commit] [[berlinterop-devnet-2] add clz opcode (#8800)](https://github.com/hyperledger/besu/commit/3f691ef63af55076103b7114344416aace9f942e) - 2025-06-11
+* [Pull Request] [[berlinterop-devnet-2] add clz opcode](https://github.com/hyperledger/besu/pull/8800) - 2025-06-11
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

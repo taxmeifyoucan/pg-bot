@@ -55,6 +55,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [PoolV2 info logs to debug](https://github.com/Consensys/teku/pull/9527) - 2025-06-09
 * [Commit] [Include SingleAtt in block flow aggregation, remove parallel flow (#9487)](https://github.com/Consensys/teku/commit/6f7de63e4e63c7ae373a24300c41b2f057a60c6b) - 2025-06-09
 * [Pull Request] [Other info logs to debug](https://github.com/Consensys/teku/pull/9534) - 2025-06-10
+* [Pull Request] [Parallel ci propertyTests](https://github.com/Consensys/teku/pull/9552) - 2025-06-11
+* [Commit] [Property tests - Reduce execution and blobs rounds (#9549)](https://github.com/Consensys/teku/commit/99eeffdf78d5f23e308154896b42a70cc246e6d9) - 2025-06-11
+* [Pull Request] [Property tests - Reduce execution and blobs rounds](https://github.com/Consensys/teku/pull/9549) - 2025-06-11
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

@@ -264,6 +264,12 @@ Team: Reth
 * [Commit] [feat: remove preemptive excess blob gas check (#16729)](https://github.com/paradigmxyz/reth/commit/19cac33830df7ac73c69a2dd79c542fd8a2a8b4d) - 2025-06-10
 * [Commit] [Update Dockerfile](https://github.com/paradigmxyz/reth/commit/c385a5b8592d8855e9ccd3ee275ffe90d1c9fe1f) - 2025-06-10
 * [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/55c5e9aba05991702d44653753a748f62c434daa) - 2025-06-10
+* [Commit] [first delete the storage trie cache, then write](https://github.com/paradigmxyz/reth/commit/1a5e72c4495634e8323c0424d4519a28ee152a14) - 2025-06-11
+* [Commit] [perf: apply trie updates to cache instead of clearing](https://github.com/paradigmxyz/reth/commit/424d1d6ce25df6f95915535bab1d432eec36bf22) - 2025-06-11
+* [Commit] [move cache to a separate struct](https://github.com/paradigmxyz/reth/commit/73ba0493681448546c00c73793e6d4ddee6ca6ff) - 2025-06-11
+* [Commit] [use b256map](https://github.com/paradigmxyz/reth/commit/1d5db59180fe3cc582601a3435b430203fe16989) - 2025-06-11
+* [Commit] [increment metrics](https://github.com/paradigmxyz/reth/commit/28232ea1cedc42578640f5aa1c62b4d92bd301c9) - 2025-06-11
+* [Commit] [add metrics, use cache in proof task](https://github.com/paradigmxyz/reth/commit/d0c43bc2f16cde75ad909e1f45269b446b248699) - 2025-06-11
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
