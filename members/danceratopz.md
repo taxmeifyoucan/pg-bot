@@ -303,6 +303,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 0dfcd92bb4 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/76efc17a3e88ae2cd43a6b10a86dda017cf9d7c0) - 2025-06-10
 * [Commit] [chore(deps): bump ethereum-evm-spec-resolver to latest version](https://github.com/ethereum/execution-spec-tests/commit/85fc2256bce58509e84babedd6e626945a56be52) - 2025-06-10
 * [Commit] [Deployed 971214c083 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/466cb83c5fa27643943210563224ba879d7e3669) - 2025-06-11
+* [Commit] [Deployed 0c70094034 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/c680b651e09aab24e98ec87de92e29fdc1b266d2) - 2025-06-12
+* [Commit] [fix(filler): fix shared-pre-state generation (#1738)](https://github.com/ethereum/execution-spec-tests/commit/0c70094034175c9d253c71f3548d680d64ace818) - 2025-06-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

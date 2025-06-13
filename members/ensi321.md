@@ -69,6 +69,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [lint](https://github.com/ChainSafe/lodestar/commit/e5949a514609477e187c585a27fc907196f26eb8) - 2025-06-11
 * [Commit] [Subscribe/unsubscribe at blob schedule boundary](https://github.com/ChainSafe/lodestar/commit/dd940e2c6a910a6db9ade996f7a30313c52e9012) - 2025-06-11
 * [Commit] [Update ENR fork digest verification](https://github.com/ChainSafe/lodestar/commit/b5dd877584d5e05e8f703b684e54c586aa0329c2) - 2025-06-11
+* [Commit] [Add boundary to ContextBytesFactory. Use clock to determine context byte](https://github.com/ChainSafe/lodestar/commit/78bb936bd3d652dc30d2828c59c867518b36e4b8) - 2025-06-12
+* [Commit] [lint](https://github.com/ChainSafe/lodestar/commit/ab7c588a922dd43cfafbd2e7e81e118202bb5657) - 2025-06-12
+* [Commit] [Add fork to boundary](https://github.com/ChainSafe/lodestar/commit/59320b837bd76904d186273c275459c583ec1c73) - 2025-06-12
+* [Commit] [Add boundary](https://github.com/ChainSafe/lodestar/commit/2f64088a05fe08c6050b48117e34fe6ff4eeac97) - 2025-06-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

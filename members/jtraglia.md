@@ -114,6 +114,14 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Introduce Status v2 with `earliest_available_slot` (#4374)](https://github.com/ethereum/consensus-specs/commit/d92c60c5051e2b1faab4b736757273f587219023) - 2025-06-11
 * [Commit] [Modify fork digest to distinguish BPO forks + add entry to ENR (#4354)](https://github.com/ethereum/consensus-specs/commit/ddbd1e30f2b8794286d04446fdc316c0b55b5609) - 2025-06-11
 * [Commit] [CGC: Update before Fulu (#4373)](https://github.com/ethereum/consensus-specs/commit/0c9ec2f9e680997b97767485cad3ae6a670e9fd7) - 2025-06-11
+* [Commit] [Add workflow to run nightly mainnet tests (#4280)](https://github.com/ethereum/consensus-specs/commit/f65a82d5351717dfdb755a26f5972de793f86128) - 2025-06-12
+* [Issue] [Look into diff'd simpleserialize specs](https://github.com/ethereum/consensus-specs/issues/4381) - 2025-06-12
+* [Commit] [Do not wrap long lines in `config.yaml` files (#4379)](https://github.com/ethereum/consensus-specs/commit/0ea28c33a3a08543a5671a78d4f544b0c34d1fb6) - 2025-06-12
+* [Issue] [Identify/create good first issues](https://github.com/ethereum/consensus-specs/issues/4378) - 2025-06-12
+* [Issue] [Automate release](https://github.com/ethereum/consensus-specs/issues/4377) - 2025-06-12
+* [Commit] [Add fork version to compute fork digest test cases (#4376)](https://github.com/ethereum/consensus-specs/commit/83ce6d094521eb14cd97d7466872dba914594a8b) - 2025-06-12
+* [Pull Request] [Add fork version to compute fork digest test cases](https://github.com/ethereum/consensus-specs/pull/4376) - 2025-06-12
+* [Commit] [Release v1.6.0-alpha.2 (#4367)](https://github.com/ethereum/consensus-specs/commit/edb01eeb44a2034f92119100c16e250b694951ae) - 2025-06-12
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 

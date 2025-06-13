@@ -166,6 +166,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Bump tornado from 6.4.2 to 6.5.1 in /ncli (#7192)](https://github.com/status-im/nimbus-eth2/commit/796afdde94e2efd9636845ab427189880d37d6af) - 2025-05-31
 * [Commit] [Add ability for SyncOverseer to pause backfilling when sync distance is out of range. (#7191)](https://github.com/status-im/nimbus-eth2/commit/af2b356132d1b917b660b14ea459f43ef83cb287) - 2025-06-09
 * [Commit] [add: deterministic proposer lookahead + bump to consensus specs `v1.6.0-alpha.1` tests (#7215)](https://github.com/status-im/nimbus-eth2/commit/5f39db8f129f97e6c70cabb8c8d2c5db53e3e8df) - 2025-06-09
+* [Pull Request] [use EF consensus spec tests v1.6.0-alpha.2-hotfix.0](https://github.com/status-im/nimbus-eth2/pull/7229) - 2025-06-12
+* [Commit] [attempt to work around Ubuntu 22.04/recent AMD build issues related to secp256k1 (#7228)](https://github.com/status-im/nimbus-eth2/commit/a8f02a3d032d95e9199ac4e79217577f035d3449) - 2025-06-12
+* [Pull Request] [attempt to work around Ubuntu 22.04/recent AMD build issues related to secp256k1](https://github.com/status-im/nimbus-eth2/pull/7228) - 2025-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

@@ -243,6 +243,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/d2765181f46984926065ff4bf161941eea40d0cc) - 2025-06-10
 * [Pull Request] [Cleanup/make transaction executor always take adapter](https://github.com/NethermindEth/nethermind/pull/8750) - 2025-06-10
 * [Commit] [Fix tx blob deserialization after PeerDAS (#8729)](https://github.com/NethermindEth/nethermind/commit/18f4b0e9dc4f8f863e6937d204c01e5e2c81bd16) - 2025-06-10
+* [Commit] [EIP-7939 CLZ (#8759)](https://github.com/NethermindEth/nethermind/commit/c06fd5fc098da85d554d699b3177541437097c56) - 2025-06-12
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/a6271caea92d6cf27d8d9da1bf241ee7986edafb) - 2025-06-12
+* [Pull Request] [Fix/era import](https://github.com/NethermindEth/nethermind/pull/8774) - 2025-06-12
+* [Commit] [Add max blobs per tx limit taken from blob schedule (#8754)](https://github.com/NethermindEth/nethermind/commit/a37bd1d3c09f55ddb3f0991665e1474fa061b354) - 2025-06-12
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/db605321695e6be914b43cc9c19979bafe03d7ef) - 2025-06-12
+* [Commit] [Add boundary tests for EIP-7918 (#8748)](https://github.com/NethermindEth/nethermind/commit/9bf7b7fc322c961f59c14064216e0ec8fe1cee3c) - 2025-06-12
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/67f675cb2ddc621d438b0438aca4318b6aa600e1) - 2025-06-12
+* [Commit] [Activate devnet-1 in Osaka (#8733)](https://github.com/NethermindEth/nethermind/commit/7d5972b9f3ca63fe282b257a15369f0364b58c36) - 2025-06-12
+* [Pull Request] [Refactor/taiko extended eth module](https://github.com/NethermindEth/nethermind/pull/8769) - 2025-06-12
+* [Commit] [Remove unneccessary change](https://github.com/NethermindEth/nethermind/commit/cdb94eff28248c64db3b77fee610391692f4e259) - 2025-06-12
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

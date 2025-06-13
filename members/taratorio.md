@@ -82,6 +82,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [core: switch Bn256Add precompile to evmone](https://github.com/erigontech/erigon/commit/e8666f9554eefb233671ad98490078080377a120) - 2025-06-10
 * [Commit] [tests: add initial engine api test](https://github.com/erigontech/erigon/commit/9936092b810ff209e6e8cbf68c118e8a40b85608) - 2025-06-11
 * [Commit] [tests: add initial engine api test](https://github.com/erigontech/erigon/commit/bfe5a050f301c4c2abbc872f36e27f65e4e79a72) - 2025-06-11
+* [Issue] [invalid requests root hash in header with erigon and caplin](https://github.com/erigontech/erigon/issues/15544) - 2025-06-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -122,6 +122,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Implement EIP-7951: Updated secp256r1](https://github.com/NethermindEth/nethermind/pull/8753) - 2025-06-10
 * [Commit] [tidy](https://github.com/NethermindEth/nethermind/commit/24a132ea5c6a9a2dec28936eff2ed963422935fa) - 2025-06-10
 * [Commit] [Improve performance of CALL opcodes (#8732)](https://github.com/NethermindEth/nethermind/commit/dd815a3a25cbccd8cef7155e185bab1f7b140cfe) - 2025-06-10
+* [Commit] [don't block accepting new blocks](https://github.com/NethermindEth/nethermind/commit/b0c16832d77bed314edabb780853a5e28d0f33d9) - 2025-06-12
+* [Commit] [add block download strategy interface](https://github.com/NethermindEth/nethermind/commit/427d2fff783fe8e338c1a73c5d1b73ce057fcae4) - 2025-06-12
+* [Commit] [refactor download strategy](https://github.com/NethermindEth/nethermind/commit/d731cf14ce0a4d7a7cd19a62afd0949161706b6b) - 2025-06-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12

@@ -216,6 +216,22 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [core: switch Bn256Add precompile to evmone](https://github.com/erigontech/erigon/pull/15513) - 2025-06-10
 * [Commit] [core: switch Bn256Add precompile to evmone](https://github.com/erigontech/erigon/commit/cb1578061a7fac329958fae494d667f107adc241) - 2025-06-10
 * [Commit] [pick evmone/pull/800](https://github.com/erigontech/erigon/commit/707c8a0b09d70d6153ee65de5f87e7c618388fbe) - 2025-06-11
+* [Commit] [Use gmp for modexp (#15554)](https://github.com/erigontech/erigon/commit/0780aec4360361dac0e2ddabec22952616a68e2a) - 2025-06-12
+* [Commit] [make gmp only on linux](https://github.com/erigontech/erigon/commit/5caac9f4dc45167bd4569e66ef84dca075ca8d85) - 2025-06-12
+* [Commit] [install gmp](https://github.com/erigontech/erigon/commit/a8cf53d863e0295a254f7cfcd4239f4ec81825de) - 2025-06-12
+* [Commit] [fix docker](https://github.com/erigontech/erigon/commit/be1cc5b195087256c7a7022f6a5f89d8b234df7b) - 2025-06-12
+* [Pull Request] [Use gmp for modexp](https://github.com/erigontech/erigon/pull/15554) - 2025-06-12
+* [Commit] [install gmp](https://github.com/erigontech/erigon/commit/6dbb1f8bc76d7b6bf898db2bfaffe62732a8fa50) - 2025-06-12
+* [Issue] [Improve modexp performance by using gmp](https://github.com/erigontech/erigon/issues/15553) - 2025-06-12
+* [Commit] [try gmp](https://github.com/erigontech/erigon/commit/457480c082094536c8782b4b32899dcd42cfde7e) - 2025-06-12
+* [Commit] [deps: bump github.com/pion/interceptor to v0.1.40 (#15552)](https://github.com/erigontech/erigon/commit/7841fae2644ddf8b09439256ac1ba596de788511) - 2025-06-12
+* [Pull Request] [deps: bump github.com/pion/interceptor to v0.1.40](https://github.com/erigontech/erigon/pull/15552) - 2025-06-12
+* [Commit] [deps: bump github.com/pion/interceptor to v0.1.40](https://github.com/erigontech/erigon/commit/49f3ef544b6af7bb7094946cdc0a661854de36c6) - 2025-06-12
+* [Commit] [try cgo noescape & nocallback from go1.24 (#15547)](https://github.com/erigontech/erigon/commit/40f4eea5adc0c6c12c943bcc9e0de6f1aa20cda4) - 2025-06-12
+* [Pull Request] [try cgo noescape & nocallback from go1.24](https://github.com/erigontech/erigon/pull/15547) - 2025-06-12
+* [Commit] [evmone_precompiles/commit/ffeac80ad01062eb9d28169838ca2d3455cbc67c](https://github.com/erigontech/erigon/commit/cbf2b9b40fdb6117e3583546ac95765ccdcf489f) - 2025-06-12
+* [Commit] [add12 testcase](https://github.com/erigontech/erigon/commit/b8980f8972ab12b6f98b13035e77ab9b64b108ce) - 2025-06-12
+* [Commit] [benchmark failed](https://github.com/erigontech/erigon/commit/e2815ff88ad545c80c8edab2fcd9a3648517275a) - 2025-06-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

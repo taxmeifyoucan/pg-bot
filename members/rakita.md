@@ -49,6 +49,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [set double value](https://github.com/bluealloy/revm/commit/ae4184a685fc8a5b2f17c2db67c65a2e536ef53d) - 2025-06-10
 * [Commit] [refactor: unify calling of journal account loading (#2562)](https://github.com/bluealloy/revm/commit/e681cafe107aab60d0c62129e3c5c453d2493fe9) - 2025-06-10
 * [Pull Request] [feat(devnet2): eip7907 Meter Contract Code Size And Increase Limit](https://github.com/bluealloy/revm/pull/2606) - 2025-06-10
+* [Commit] [perf: optimize warm_preloaded_addresses reset (#2625)](https://github.com/bluealloy/revm/commit/34542d71692cc9b0abd3b3546f44e34761fde76f) - 2025-06-12
+* [Issue] [Mark account as None if NotExisting on cache.insert_accout_info](https://github.com/bluealloy/revm/issues/2626) - 2025-06-12
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

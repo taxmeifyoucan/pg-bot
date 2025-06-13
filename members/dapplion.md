@@ -24,6 +24,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Commit] [Fix finalized_sync_permanent_custody_peer_failure](https://github.com/sigp/lighthouse/commit/ae0ef8f92926e9c99189a271e23736f7cfa148d2) - 2025-06-05
 * [Issue] [Lookup sync: don't penalize peers that extend children of long chains](https://github.com/sigp/lighthouse/issues/7577) - 2025-06-07
 * [Commit] [Re-add NoPeers error](https://github.com/sigp/lighthouse/commit/82c8e82fe1a65eddcbb24734b2f1903e872fdc45) - 2025-06-11
+* [Commit] [Add genesis sync test to CI (#7561)](https://github.com/sigp/lighthouse/commit/7416d06dce8ed95f079bfd945887601f98e1fd3a) - 2025-06-12
+* [Commit] [Update kurtosis config and EL images (#7570)](https://github.com/sigp/lighthouse/commit/e098f667380cd09c0293d9d892a72e05c5398442) - 2025-06-12
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

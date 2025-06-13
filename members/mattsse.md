@@ -420,6 +420,12 @@ Team: Reth
 * [Pull Request] [fix: change some rpc response codes to eth invalid input](https://github.com/paradigmxyz/reth/pull/16745) - 2025-06-10
 * [Issue] [Change error codes for rpc errors](https://github.com/paradigmxyz/reth/issues/16744) - 2025-06-10
 
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/07dfb4ecb93813fe58d9041304aa418ed3cc8127) - 2025-06-12
+* [Commit] [chore: re-export network types](https://github.com/paradigmxyz/reth/commit/1f0c69a8c2adf13ec8cc5bc93910f4668a77b3ab) - 2025-06-12
+* [Pull Request] [chore: re-export network types](https://github.com/paradigmxyz/reth/pull/16789) - 2025-06-12
+* [Pull Request] [chore: re-export more op types](https://github.com/paradigmxyz/reth/pull/16788) - 2025-06-12
+* [Issue] [Use a sane timeout when resolving external ips via http](https://github.com/paradigmxyz/reth/issues/16785) - 2025-06-12
+* [Commit] [fix: use external](https://github.com/paradigmxyz/reth/commit/5c40a2b61e82de6fe98cfedbde738aba5f194c1b) - 2025-06-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

@@ -24,3 +24,6 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add `kzg_commitments` field in `DataColumnSidecarEvent` stream](https://github.com/grandinetech/grandine/pull/223) - 2025-06-05
 * [Pull Request] [Correctly place `data_column_sidecars_submitted_for_processing` metric](https://github.com/grandinetech/grandine/pull/225) - 2025-06-06
 * [Commit] [Fix missing blobs sync after fulu activated (#220)](https://github.com/grandinetech/grandine/commit/e53209454662e09336b5fec4a9f603d2b6277434) - 2025-06-09
+* [Commit] [Implement BPO fork digest](https://github.com/grandinetech/grandine/commit/918bb540b64252117eb85833e3b4fbe3cfc97c46) - 2025-06-12
+* [Commit] [Use proofs from `engine_getPayloadV5` to construct cells_proofs](https://github.com/grandinetech/grandine/commit/027a85a7ab12647d190bde73e0792f0c325319c1) - 2025-06-12
+* [Pull Request] [Implement BPO fork digest](https://github.com/grandinetech/grandine/pull/229) - 2025-06-12

@@ -55,6 +55,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update AllTests.](https://github.com/status-im/nimbus-eth2/commit/e8c61191efb27ff2bc1624831a542434c32f448e) - 2025-05-26
 * [Commit] [Recover proper test suite settings.](https://github.com/status-im/nimbus-eth2/commit/d19840783d97610f1b37b49bc2c69637809b5c88) - 2025-05-26
 * [Pull Request] [Fix VC should handle properly BLOB_SCHEDULE value.](https://github.com/status-im/nimbus-eth2/pull/7219) - 2025-06-10
+* [Commit] [Bump requests from 2.32.3 to 2.32.4 in /docs (#7218)](https://github.com/status-im/nimbus-eth2/commit/cacb7acdd1519b273f25df3b2af63f0769c52e3c) - 2025-06-12
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

@@ -133,6 +133,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Add max blobs per tx limit taken from blob schedule](https://github.com/NethermindEth/nethermind/pull/8754) - 2025-06-10
 * [Commit] [Add tests](https://github.com/NethermindEth/nethermind/commit/41f80279427888ded9eb173bd57ec1520788edc9) - 2025-06-10
 * [Commit] [Fix punctuation](https://github.com/NethermindEth/nethermind/commit/daf46e8318356653f6fa7a87aebcb98d16d7df40) - 2025-06-11
+* [Pull Request] [Add tx payload form bytes only](https://github.com/NethermindEth/nethermind/pull/8777) - 2025-06-12
+* [Commit] [Count non-mempool form](https://github.com/NethermindEth/nethermind/commit/70a2c127ce49ea32233a22e5d10b0a73937c153e) - 2025-06-12
+* [Commit] [fix even more tests](https://github.com/NethermindEth/nethermind/commit/eaa2a6cb091be9071114c9928cbd3a14b85515ff) - 2025-06-12
+* [Commit] [SpanSource for TrieNode rlp (#8719)](https://github.com/NethermindEth/nethermind/commit/c1dcc73f35e797c0cb30ddbaf05d9a39b33dc27c) - 2025-06-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

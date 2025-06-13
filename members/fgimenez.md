@@ -181,6 +181,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [test: multi-node support in e2e testsuite](https://github.com/paradigmxyz/reth/pull/16725) - 2025-06-09
 * [Commit] [test: multi-node support in e2e testsuite](https://github.com/paradigmxyz/reth/commit/3006864639a6e3b932449a015dd666b69ed1d14c) - 2025-06-09
 * [Pull Request] [chore(ci): update hive expected failures](https://github.com/paradigmxyz/reth/pull/16737) - 2025-06-10
+* [Pull Request] [chore: pin hive and add test to expected failures](https://github.com/paradigmxyz/reth/pull/16790) - 2025-06-12
+* [Commit] [chore: pin hive and add test to expected failures](https://github.com/paradigmxyz/reth/commit/d9ae1660e685573d64767ee457fb28a049505d97) - 2025-06-12
+* [Commit] [chore: pin hive and add test to expected failures](https://github.com/paradigmxyz/reth/commit/60551d4c1b3fa316af34ed444d85d54f4e6f647d) - 2025-06-12
+* [Commit] [chore: pin hive and add test to expected failures](https://github.com/paradigmxyz/reth/commit/fcc0c07ffa1ebfa3c82448ce7d3377d2509cdd77) - 2025-06-12
+* [Pull Request] [chore: fix hive unexpected test filter](https://github.com/paradigmxyz/reth/pull/16782) - 2025-06-12
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -189,6 +189,7 @@ Team: Erigon
 * [Commit] [add printer](https://github.com/erigontech/erigon/commit/6e2bc052a39a4c49d687168e5e5c0dc28d04cbf2) - 2025-06-07
 * [Commit] [added changes sets](https://github.com/erigontech/erigon/commit/3437a47a925ec6fa8f234c490d9d7aadff54ddf2) - 2025-06-08
 * [Commit] [diagnostics - sender info (#14794)](https://github.com/erigontech/erigon/commit/7a428435b4edf0256334adad635d8a984d5c6cd4) - 2025-06-09
+* [Commit] [fix compile error](https://github.com/erigontech/erigon/commit/3341b9ee3656366fd3a135dbf66615a1b0308edc) - 2025-06-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

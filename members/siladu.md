@@ -42,6 +42,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [Enable precompile caching by default for perfnet (#8774)](https://github.com/hyperledger/besu/commit/32020b2c396e3914a7ede09e241f974649a3d524) - 2025-06-10
 * [Commit] [Remove redundant serialization of params (#8807)](https://github.com/hyperledger/besu/commit/6e1beb45fd546fbf3c9d6b1309c5540a243f2160) - 2025-06-11
 * [Pull Request] [Remove redundant serialization of params](https://github.com/hyperledger/besu/pull/8807) - 2025-06-11
+* [Issue] [Review ModExp Code Post-Fusaka](https://github.com/hyperledger/besu/issues/8813) - 2025-06-12
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

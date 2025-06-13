@@ -35,6 +35,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [more fixes](https://github.com/NethermindEth/nethermind/commit/8117ddbe5afec332dd1b6244ff2508e261cc03d8) - 2025-05-22
 * [Commit] [reorg visited nodes to visit storage first for the tranistion](https://github.com/NethermindEth/nethermind/commit/873795048cd3db200d9124669bbea09c4c65ede1) - 2025-06-11
 * [Commit] [add interface](https://github.com/NethermindEth/nethermind/commit/7e2548231b4b83a10580b0cb0e08269ddda0b145) - 2025-06-11
+* [Commit] [Revert changes](https://github.com/NethermindEth/nethermind/commit/7371ed57a2f2003b5f1ff97112499b20d7b1ba44) - 2025-06-12
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

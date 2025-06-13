@@ -143,6 +143,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: async kzg proof verification (#7936)](https://github.com/ChainSafe/lodestar/commit/0536c19e4440048ad40fd714b29e5e7f74e4d34d) - 2025-06-10
 * [Commit] [chore: bump package versions to 1.31.0](https://github.com/ChainSafe/lodestar/commit/8847b4a92b64ff49ade8c3953c65b359fa50becc) - 2025-06-11
 * [Commit] [chore: add panels to validator client dashboard to track aggregate participants (#7929)](https://github.com/ChainSafe/lodestar/commit/70c56033674908631b29306dd85d5598c69c91f7) - 2025-06-11
+* [Issue] [Validate block before adding to SeenGossipBlockInput](https://github.com/ChainSafe/lodestar/issues/7957) - 2025-06-12
+* [Commit] [fix: remove unused imports](https://github.com/ChainSafe/lodestar/commit/4cc8fc9280057123aaef762024077d8b299df805) - 2025-06-12
+* [Pull Request] [fix: validate data_column_sidecar before add to cache](https://github.com/ChainSafe/lodestar/pull/7955) - 2025-06-12
+* [Commit] [fix: handle recover error in SeenGossipBlockInput](https://github.com/ChainSafe/lodestar/commit/0a2af3a9875ab7cf1407c407e0f3adb8584b5724) - 2025-06-12
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

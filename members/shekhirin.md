@@ -270,6 +270,33 @@ Team: Reth
 * [Commit] [use b256map](https://github.com/paradigmxyz/reth/commit/1d5db59180fe3cc582601a3435b430203fe16989) - 2025-06-11
 * [Commit] [increment metrics](https://github.com/paradigmxyz/reth/commit/28232ea1cedc42578640f5aa1c62b4d92bd301c9) - 2025-06-11
 * [Commit] [add metrics, use cache in proof task](https://github.com/paradigmxyz/reth/commit/d0c43bc2f16cde75ad909e1f45269b446b248699) - 2025-06-11
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/125bb9b5cd7ee397c1453519106ed3c1c13945c6) - 2025-06-12
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/b1e274e36dc74770d879c3f67ea9a71eabf97481) - 2025-06-12
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/3e7e4217a89f17af40f8f5982c5c058048534154) - 2025-06-12
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/5e3e994c3f934db704058d592123d35dd571a658) - 2025-06-12
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/8b039b54b04be3444df15fcca8bf9e5d09271982) - 2025-06-12
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/a247d98a85ebf9414b9e02174c5e3042ed70b34a) - 2025-06-12
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/80b8ce3db819e12fda72596f3df003c554c46c5b) - 2025-06-12
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/5491d1f5a1cfb036c4b2e8a4f76cad3466fdac2f) - 2025-06-12
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/e292a79e8daa39c0d646482500b8cf925e31df6a) - 2025-06-12
+* [Commit] [feat: add comprehensive CLAUDE.md guide for contributors](https://github.com/paradigmxyz/reth/commit/2840e046f70f34c2f62b292f812af2ab4ee650c6) - 2025-06-12
+* [Commit] [feat: add comprehensive CLAUDE.md guide for contributors](https://github.com/paradigmxyz/reth/commit/287944181b524039e2ed1121f533083c5098b201) - 2025-06-12
+* [Commit] [feat: ensure ETL data directory is cleared on launch (#16770)](https://github.com/paradigmxyz/reth/commit/af912c41f35954fc5ff99e7757f03b33d43a62a3) - 2025-06-12
+* [Commit] [pass rlp node cache to blinded providers too](https://github.com/paradigmxyz/reth/commit/030bb0b060986b95835287c0951aa702e5089018) - 2025-06-12
+* [Commit] [pass rlp node cache to blinded providers too](https://github.com/paradigmxyz/reth/commit/79e988fae222939b6fc01db45cb9223d0b7ec038) - 2025-06-12
+* [Commit] [pass rlp node cache to blinded providers too](https://github.com/paradigmxyz/reth/commit/1a13d9d39507c30906816b6a89c23069265f589c) - 2025-06-12
+* [Commit] [pass rlp node cache to blinded providers too](https://github.com/paradigmxyz/reth/commit/a09f74105177247c10895b236c54f7c9ee332e5f) - 2025-06-12
+* [Commit] [pass rlp node cache to blinded providers too](https://github.com/paradigmxyz/reth/commit/3afd50dcd94b260e0876faa994783b5658a5389f) - 2025-06-12
+* [Commit] [pass rlp node cache to blinded providers too](https://github.com/paradigmxyz/reth/commit/e9e56b46fb1629da782575e31366c9e7dfc841ae) - 2025-06-12
+* [Commit] [pass rlp node cache to blinded providers too](https://github.com/paradigmxyz/reth/commit/78f61c928126f958c9c4a8fef6347e174689c9cd) - 2025-06-12
+* [Commit] [bump alloy-trie, change dashmap version](https://github.com/paradigmxyz/reth/commit/e55d23bb595a64361f3c98c7542cd547777ae2d6) - 2025-06-12
+* [Commit] [bump alloy-trie, change dashmap version](https://github.com/paradigmxyz/reth/commit/33315ba0b491de25e92de02afab451f3dbd4e77a) - 2025-06-12
+* [Commit] [bump alloy-trie, change dashmap version](https://github.com/paradigmxyz/reth/commit/be1bc539abf0aa160e0a6d9e394ad4cde644c3e1) - 2025-06-12
+* [Commit] [downgrade dashmap](https://github.com/paradigmxyz/reth/commit/e78414bb777ce77549d4d3f742f71425dfa16dc2) - 2025-06-12
+* [Commit] [Revert "bump revm: rm selfbalance cache"](https://github.com/paradigmxyz/reth/commit/105bfc7fe665d9cb532170d709266c2a0e914b1a) - 2025-06-12
+* [Commit] [optional cache, bump alloy-trie](https://github.com/paradigmxyz/reth/commit/b50ff52a64b9e9a37349e28f6d4d2345a8cc960b) - 2025-06-12
+* [Commit] [optional cache, bump alloy-trie](https://github.com/paradigmxyz/reth/commit/9ef928dfca2f924a055c603748d1a04fab5fbf47) - 2025-06-12
+* [Commit] [optional cache, bump alloy-trie](https://github.com/paradigmxyz/reth/commit/25be031cf785ea2080b4a1344d66c8007b2a0898) - 2025-06-12
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

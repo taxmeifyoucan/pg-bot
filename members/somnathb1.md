@@ -182,6 +182,10 @@ Team: Erigon
 * [Commit] [Spelling fixes](https://github.com/erigontech/erigon/commit/a10645c5f419c0abc09e82127e0368f9f3ae8df2) - 2025-06-06
 * [Commit] [engineapi, txpool: implement getBlobsV2 (#15420)](https://github.com/erigontech/erigon/commit/824f3faaca4d2cb0d7fe85c5fa25165a3f54b68a) - 2025-06-08
 * [Commit] [require nil](https://github.com/erigontech/erigon/commit/f1fa10948f70c03cb2af84e67be569f9bd668bfc) - 2025-06-08
+* [Pull Request] [Use gnark for bn254 scalar mul](https://github.com/erigontech/erigon/pull/15556) - 2025-06-12
+* [Pull Request] [Change bn256 add to consensys gnark](https://github.com/erigontech/erigon/pull/15555) - 2025-06-12
+* [Commit] [Use gnark for bn254 scalar mul](https://github.com/erigontech/erigon/commit/f4990c37393029972f0d3b4a677e41ed451b526f) - 2025-06-12
+* [Commit] [Change bn256 add to consensys gnark](https://github.com/erigontech/erigon/commit/d38717567129c9ea9a9af72db7fe537c67d5feeb) - 2025-06-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

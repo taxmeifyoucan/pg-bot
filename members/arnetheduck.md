@@ -35,5 +35,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Support multiple wire protocol version and implement eth/68 + eth/69 (#3283)](https://github.com/status-im/nimbus-eth1/commit/443da8e7cb0f8c96fb0ac6468aa0f35c0755daf6) - 2025-06-02
 * [Pull Request] [ariso: assorted cleanups](https://github.com/status-im/nimbus-eth1/pull/3360) - 2025-06-02
 * [Issue] [Shut down when finalized block is invalid](https://github.com/status-im/nimbus-eth1/issues/3367) - 2025-06-07
+* [Pull Request] [defer gc during block processing](https://github.com/status-im/nimbus-eth1/pull/3384) - 2025-06-12
+* [Pull Request] [aristo: fold Adm column family into Vtx](https://github.com/status-im/nimbus-eth1/pull/3383) - 2025-06-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Old head sent in LC sync mode](https://github.com/status-im/nimbus-eth2/issues/7119) - 2025-05-04

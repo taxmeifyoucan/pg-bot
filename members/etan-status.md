@@ -57,6 +57,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Provide blocks / blobs regardless of payload validation status](https://github.com/status-im/nimbus-eth2/pull/7198) - 2025-05-27
 * [Pull Request] [Bump nim-nat-traversal to 981821197e839dc0544fe49c58e0da3f8a6104bf](https://github.com/status-im/nimbus-eth2/pull/7202) - 2025-05-28
 * [Pull Request] [Bump hoodi, chronicles, metrics, results (no functional changes)](https://github.com/status-im/nimbus-eth2/pull/7201) - 2025-05-28
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Do not wrap long lines in `config.yaml` files](https://github.com/ethereum/consensus-specs/pull/4379) - 2025-06-12
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

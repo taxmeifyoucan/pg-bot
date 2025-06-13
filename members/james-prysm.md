@@ -117,6 +117,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [changelog](https://github.com/OffchainLabs/prysm/commit/51e26cb847eb5f56fada8b4f19edde6b01045610) - 2025-06-11
 * [Commit] [beacon api: Stream event for data column sidecar (#15387)](https://github.com/OffchainLabs/prysm/commit/6087875da526ac5e20df09881ad082048443db42) - 2025-06-11
 * [Commit] [fixing tests](https://github.com/OffchainLabs/prysm/commit/c19f6875db7e391ac94207f65230cc0bda774bb9) - 2025-06-11
+* [Commit] [renaming json rest handler, and adding in usage of use ssz debug flag](https://github.com/OffchainLabs/prysm/commit/2c5f2afc1553cea1b63c4883eb3ecbe00d895989) - 2025-06-12
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

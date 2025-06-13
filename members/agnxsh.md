@@ -125,6 +125,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [implement statusV2 in req/resp domain to notify `earliest_available_slot`](https://github.com/status-im/nimbus-eth2/issues/7225) - 2025-06-11
 * [Issue] [implement modify fork digest in bpo forks and add the entry to ENR](https://github.com/status-im/nimbus-eth2/issues/7224) - 2025-06-11
 * [Commit] [Fix _total for peerdas metrics (#7222)](https://github.com/status-im/nimbus-eth2/commit/25deba8dd44e306965ba4d397d9ae6d1f0dc4ce1) - 2025-06-11
+* [Commit] [revert column quarantine to openArray and not hashsets](https://github.com/status-im/nimbus-eth2/commit/1fd96a03b34a91344751faeb3d2ffce0385ff002) - 2025-06-12
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth2/commit/1be1086efed53f8d713c5106b2bab6035b8888b1) - 2025-06-12
+* [Commit] [drop versioned hashes](https://github.com/status-im/nimbus-eth2/commit/3c8d88f35cb095d3b31e1153fd9087ce0ae823b4) - 2025-06-12
+* [Commit] [fix tests](https://github.com/status-im/nimbus-eth2/commit/7460b68a5adf5037cb9a25432aab1e5cbfa69d79) - 2025-06-12
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

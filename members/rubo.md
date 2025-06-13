@@ -66,6 +66,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Feature/Step dependents (#8734)](https://github.com/NethermindEth/nethermind/commit/c8e774d17073af3995779ac41fd8722082e041d7) - 2025-06-05
 * [Commit] [Revert "Perf/parallel block downloader" (#8574)](https://github.com/NethermindEth/nethermind/commit/b9a2a9345d4e5bbe1583258fe6f9c1e1de5ffe72) - 2025-06-09
 * [Commit] [Temporarily change the validator contract](https://github.com/NethermindEth/nethermind/commit/6a5f44ea7c6f9a58b96224036f22081179c612e9) - 2025-06-11
+* [Commit] [Fix null pointer exception](https://github.com/NethermindEth/nethermind/commit/019cb1425c0ebc272f59693f552e134e302c642b) - 2025-06-12
+* [Commit] [Fix null pointer exception](https://github.com/NethermindEth/nethermind/commit/6bdb424f7c12bae9c554abee8b88be0d308821cd) - 2025-06-12
+* [Commit] [Add missing `if` statement](https://github.com/NethermindEth/nethermind/commit/380ecc0ac605fe4f2f52bb033b8caa386ce53c03) - 2025-06-12
+* [Commit] [Embed debug symbols into distribution package](https://github.com/NethermindEth/nethermind/commit/c090d5330be03b5e08eccc1121ffa6cfa3b59fdb) - 2025-06-12
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/0e4f92b5ccb7f630926303458071d8b211a4db8c) - 2025-06-12
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

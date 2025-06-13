@@ -38,6 +38,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Issue] [Set cgc (Custody group count) in advance](https://github.com/Consensys/teku/issues/9522) - 2025-06-09
 * [Commit] [Use finalized state for validator balance calculation in FULU (#9529)](https://github.com/Consensys/teku/commit/4fbce93cb5ad0817ed1e46d4cc9dbcb1915c7a7d) - 2025-06-10
 * [Pull Request] [Use finalized state for validator balance calculation in FULU](https://github.com/Consensys/teku/pull/9529) - 2025-06-10
+* [Commit] [Bump reference tests to v1.6.0-alpha.2 (#9553)](https://github.com/Consensys/teku/commit/103425b7e2e873437b53596f3478d4f5def20fd2) - 2025-06-12
+* [Pull Request] [Bump reference tests to v1.6.0-alpha.2](https://github.com/Consensys/teku/pull/9553) - 2025-06-12
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

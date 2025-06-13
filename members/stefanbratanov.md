@@ -25,6 +25,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Refactor `compute_fork_digest` for Fulu (#9548)](https://github.com/Consensys/teku/commit/cf04808f4be66f2af3c9448331c8c94de47020e1) - 2025-06-11
 * [Commit] [Remove `get_max_blobs_per_block` from `MiscHelpersFulu` (#9547)](https://github.com/Consensys/teku/commit/3150d8c8307169d54579c3ede1fb012206bfc774) - 2025-06-11
 * [Pull Request] [Refactor compute_fork_digest for Fulu](https://github.com/Consensys/teku/pull/9548) - 2025-06-11
+* [Pull Request] [[SPIKE] Change gossip for BPO](https://github.com/Consensys/teku/pull/9555) - 2025-06-12
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

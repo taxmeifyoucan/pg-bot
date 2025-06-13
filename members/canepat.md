@@ -64,3 +64,4 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [history pruning: error for unexpected value length](https://github.com/erigontech/erigon/commit/4a1cee58860c743a1afdc54d6d2adc98cc5b9295) - 2025-06-09
 * [Pull Request] [history pruning: error for unexpected value length](https://github.com/erigontech/erigon/pull/15503) - 2025-06-09
 * [Issue] [Panic during history pruning](https://github.com/erigontech/erigon/issues/15502) - 2025-06-09
+* [Pull Request] [caplin: fix safe block hash in fork choice update](https://github.com/erigontech/erigon/pull/15557) - 2025-06-12

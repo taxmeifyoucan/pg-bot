@@ -82,6 +82,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [fix KZG intermittent failures (#8781)](https://github.com/hyperledger/besu/commit/dd8b20237fdae81afc36f94c02a9180b0a5d171d) - 2025-06-10
 * [Pull Request] [disable flaky test NatOptionsTest](https://github.com/hyperledger/besu/pull/8776) - 2025-06-10
 * [Issue] [flaky test NatOptionsTest](https://github.com/hyperledger/besu/issues/8775) - 2025-06-10
+* [Commit] [remove stratum mining options and services (#8802)](https://github.com/hyperledger/besu/commit/c82b3299356f11bf7b75a3adcc9d8bf8538b54e3) - 2025-06-12
+* [Commit] [[fusaka-devnet-2] run relevant GHA on fusaka-* branches (#8806)](https://github.com/hyperledger/besu/commit/a440687dbb246043968cdaf97ff25039df677ba7) - 2025-06-12
+* [Commit] [update ref tests version to 1.1.0 (#8810)](https://github.com/hyperledger/besu/commit/3a3e80eadee979f4c38b1138e4be7905cf46e880) - 2025-06-12
+* [Pull Request] [[berlininterop-devnet-2] Update refTests version to 1.1.0](https://github.com/hyperledger/besu/pull/8810) - 2025-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

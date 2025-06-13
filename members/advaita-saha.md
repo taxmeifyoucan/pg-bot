@@ -82,3 +82,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [spec fix](https://github.com/status-im/nimbus-eth1/commit/703a19bbec690a775e422bdd94e6e416c33fd4a9) - 2025-06-10
 * [Commit] [EIP-7825 : Transaction Gas Limit Cap (#3358)](https://github.com/status-im/nimbus-eth1/commit/ba3c725ceb2b0fef1b6cf582f160214b005940c4) - 2025-06-10
 * [Issue] [state root mismatch in mainnet block](https://github.com/status-im/nimbus-eth1/issues/3381) - 2025-06-11
+* [Commit] [improve performance](https://github.com/status-im/nimbus-eth1/commit/bb1bfad62f055a56ebbcfab7c0c814e0046928a9) - 2025-06-12
+* [Commit] [add complete test suite](https://github.com/status-im/nimbus-eth1/commit/b88979fb444f0f12a0d64f7e0817af1d656c8c9c) - 2025-06-12
+* [Commit] [remove commented code](https://github.com/status-im/nimbus-eth1/commit/d481c60611f55de510c5084771a0e9a741b89b2c) - 2025-06-12
+* [Commit] [fix double hashing](https://github.com/status-im/nimbus-eth1/commit/ab9569011ef1854abde61cd38ccf5de4f1d8f409) - 2025-06-12
+* [Commit] [remove unwanted stuff](https://github.com/status-im/nimbus-eth1/commit/0cae682e2f5d44500047a16846fcad5baa81a443) - 2025-06-12
+* [Pull Request] [secp256r1 precompile](https://github.com/status-im/nimbus-eth1/pull/3382) - 2025-06-12

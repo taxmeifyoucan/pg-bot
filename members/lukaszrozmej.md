@@ -101,6 +101,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [eip 7939 count leading zeros optimization (#8765)](https://github.com/NethermindEth/nethermind/commit/eeea59bb953b626ba3e8e00e9db68387df7bdeeb) - 2025-06-11
 * [Commit] [generate tests for every bit](https://github.com/NethermindEth/nethermind/commit/50c52edd4ccee001d459c11b4903717a0b340c88) - 2025-06-11
 * [Commit] [Update src/Nethermind/Nethermind.Evm/Instructions/EvmInstructions.Math1Param.cs](https://github.com/NethermindEth/nethermind/commit/5d4be585be817ab7fb7a2e9c39d0786d3a1f8a6d) - 2025-06-11
+* [Commit] [Perf/optimize precompiles (#8772)](https://github.com/NethermindEth/nethermind/commit/6cc7ede02da6fb42b13de4bd904ec87722c94f19) - 2025-06-12
+* [Pull Request] [Perf/optimize precompiles](https://github.com/NethermindEth/nethermind/pull/8772) - 2025-06-12
+* [Commit] [Add min memory rent size (#8740)](https://github.com/NethermindEth/nethermind/commit/79c0da0d9a79f90bf20334301ed49b7f4593e8d1) - 2025-06-12
+* [Commit] [move EthereumEcdsa to static](https://github.com/NethermindEth/nethermind/commit/bf501fd4b19e88e2889e3d0fb10bb530d3460d5c) - 2025-06-12
+* [Commit] [optimize stack](https://github.com/NethermindEth/nethermind/commit/7f0348734423646f74d6b35084179f9e1ed88800) - 2025-06-12
+* [Commit] [fix clearing first 12 bytes of ecrecover result](https://github.com/NethermindEth/nethermind/commit/a8a52bec933856e8e77070c3d87404dda98ac126) - 2025-06-12
+* [Commit] [fix recovery id](https://github.com/NethermindEth/nethermind/commit/3f462f6ddfde84e19e86d3269f585d127afdd1c1) - 2025-06-12
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/f21e89d527b7ec9870108974db3cc62a2fd6f08a) - 2025-06-12
+* [Pull Request] [optimize some precompiles](https://github.com/NethermindEth/nethermind/pull/8770) - 2025-06-12
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/fdf434fa22d81245fd0393dd33a1f1cc0ab794ba) - 2025-06-12
+* [Commit] [add in](https://github.com/NethermindEth/nethermind/commit/f7c4ba60659ed97dfd2406a62d2e8775cdb2f76a) - 2025-06-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

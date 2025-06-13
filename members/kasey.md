@@ -34,6 +34,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [extend payload attribute deadline to proposal slot](https://github.com/OffchainLabs/prysm/commit/1032fb3f84eb90d5c7e19098ff30ce9fd55c9e25) - 2025-04-27
 * [Commit] [use latest unclog release](https://github.com/OffchainLabs/prysm/commit/7c639a839d53950b2dedad631fdb6652ad85ec01) - 2025-05-23
 * [Commit] [fix missed updates after sig change](https://github.com/OffchainLabs/prysm/commit/48dbb0b154ff3033b94267d4ac3e0096bb79392b) - 2025-06-11
+* [Commit] [ci fixes](https://github.com/OffchainLabs/prysm/commit/aee1349fbfc0373d224b5fa985e3b4f3d173cbce) - 2025-06-12
+* [Commit] [wait for clock in code paths that need to compute digests](https://github.com/OffchainLabs/prysm/commit/e18e1a12de11128a201173e18124eddfcefe65f7) - 2025-06-12
+* [Commit] [fix test setup](https://github.com/OffchainLabs/prysm/commit/46a883fdf0e202370309aa95032bafbaab7e2475) - 2025-06-12
+* [Commit] [derp](https://github.com/OffchainLabs/prysm/commit/1b01218eb929ab244b202a840c54b3093f157f23) - 2025-06-12
+* [Commit] [e2e fix](https://github.com/OffchainLabs/prysm/commit/dfa945636f2d92fa39e41db5a8a70a77b2d6c3fe) - 2025-06-12
+* [Commit] [update digest->type handler for bpo](https://github.com/OffchainLabs/prysm/commit/fd6c1d88c4ab4d85056436134d962c612d07bf42) - 2025-06-12
+* [Pull Request] [Fulu bpo refactor](https://github.com/OffchainLabs/prysm/pull/15407) - 2025-06-12
+* [Commit] [fix tests, bugs and remove more network/forks methods](https://github.com/OffchainLabs/prysm/commit/196d26465d15336295dd705e817e1fc4fb7baefc) - 2025-06-12
+* [Pull Request] [Move network forks](https://github.com/OffchainLabs/prysm/pull/15406) - 2025-06-12
+* [Commit] [remove usages of params from proto packages (#15403)](https://github.com/OffchainLabs/prysm/commit/d12da8cbe0bdbb0f970fc98b827292019329cdba) - 2025-06-12
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

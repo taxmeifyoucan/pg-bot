@@ -28,6 +28,9 @@ Team: Reth
 * [Commit] [perf: selfbalance cache](https://github.com/bluealloy/revm/commit/c5a9f8547d8a9cb10fcee57c7e503d28a98c3775) - 2025-06-10
 * [Pull Request] [perf: pool Stack buffer allocations](https://github.com/bluealloy/revm/pull/2615) - 2025-06-10
 * [Pull Request] [perf: selfbalance cache](https://github.com/bluealloy/revm/pull/2609) - 2025-06-10
+* [Pull Request] [chore: build less benchmark binaries](https://github.com/bluealloy/revm/pull/2629) - 2025-06-12
+* [Issue] [perf: special case warming coinbase](https://github.com/bluealloy/revm/issues/2627) - 2025-06-12
+* [Pull Request] [perf: optimize warm_preloaded_addresses reset](https://github.com/bluealloy/revm/pull/2625) - 2025-06-12
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

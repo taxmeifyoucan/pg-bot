@@ -82,6 +82,14 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [max_blobs_per_tx](https://github.com/paradigmxyz/reth/commit/2bd85bb8071baa530d53c51ec51bb2406f823f02) - 2025-06-10
 * [Commit] [feat: implement EIP-7934](https://github.com/paradigmxyz/reth/commit/3cc07b4578a807c30c8bb3681e06a50cff4e3d75) - 2025-06-10
 * [Commit] [max_blobs_per_tx](https://github.com/paradigmxyz/reth/commit/ee5913a3cfb4da2552d020a458d59cf9990c4308) - 2025-06-10
+* [Commit] [update 7934 limit](https://github.com/paradigmxyz/reth/commit/f1b1e149069c5d28883b97590dc1bcf0e7f9677c) - 2025-06-12
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/31b974ab75fbfe66ed69f657b7663d57199f32a9) - 2025-06-12
+* [Commit] [commit](https://github.com/paradigmxyz/reth/commit/d9b67557559853fb61c2eb5de524a5bc564fe430) - 2025-06-12
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/127e5fadbdc157788feb843f8cd8f3a86832479e) - 2025-06-12
+* [Commit] [add fcu](https://github.com/paradigmxyz/reth/commit/23fdd91f4cb779fbbfc8f9f5aeb1af5862ef579e) - 2025-06-12
+* [Commit] [max_gas_limit](https://github.com/paradigmxyz/reth/commit/405c8517ec99a84629acd62dfe4abf21887f91e7) - 2025-06-12
+* [Commit] [fix estimateGas](https://github.com/paradigmxyz/reth/commit/d3ec9e9b089664e65a30faf8524d064053ad348e) - 2025-06-12
+* [Commit] [bump revm](https://github.com/paradigmxyz/reth/commit/400267b3c6e98495d83e1241d2942282a631dd54) - 2025-06-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/a7ca04d56781d0c81d6378c7b5a6b24e3f99532f) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/12aae0ed7ebf2c8f8dff1f0fa2dad4602c743977) - 2025-06-05

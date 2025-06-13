@@ -305,6 +305,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Sync master (#8766)](https://github.com/NethermindEth/nethermind/commit/9add98005fb95d5cbdf5b9118c2c890b54ff70ed) - 2025-06-11
 * [Pull Request] [Sync master](https://github.com/NethermindEth/nethermind/pull/8766) - 2025-06-11
 * [Commit] [SpanSource for TrieNode rlp (#8719)](https://github.com/NethermindEth/nethermind/commit/c1dcc73f35e797c0cb30ddbaf05d9a39b33dc27c) - 2025-06-11
+* [Pull Request] [trace_repeatBlock](https://github.com/NethermindEth/nethermind/pull/8778) - 2025-06-12
+* [Commit] [Sync with master (#8776)](https://github.com/NethermindEth/nethermind/commit/a2f0e9c27beb710c21b82bceb8388bd9d5be1042) - 2025-06-12
+* [Pull Request] [Sync with master](https://github.com/NethermindEth/nethermind/pull/8776) - 2025-06-12
+* [Commit] [Include debug symbols in distribution packages (#8773)](https://github.com/NethermindEth/nethermind/commit/c41abe18831e3f75923003727f17de312c4923f3) - 2025-06-12
+* [Commit] [Dispose EvmState on warmup (#8771) (#8775)](https://github.com/NethermindEth/nethermind/commit/7524a8e1c8daae87e49f63fad8cae06d154f3607) - 2025-06-12
+* [Pull Request] [Dispose EvmState on warmup (#8771)](https://github.com/NethermindEth/nethermind/pull/8775) - 2025-06-12
+* [Commit] [Dispose EvmState on warmup (#8771)](https://github.com/NethermindEth/nethermind/commit/eb4a682f62768ec3270aad05ce62f7087822ae07) - 2025-06-12
+* [Pull Request] [Include Debug Symbols](https://github.com/NethermindEth/nethermind/pull/8773) - 2025-06-12
+* [Pull Request] [Dispose EvmState on warmup](https://github.com/NethermindEth/nethermind/pull/8771) - 2025-06-12
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

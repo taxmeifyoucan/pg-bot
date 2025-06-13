@@ -20,6 +20,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Display each single FCU log (#8585)](https://github.com/hyperledger/besu/commit/14cdd1f618da9d31e70629c2707c0d2d47b28334) - 2025-05-06
 * [Commit] [Add more tests to VersionedHashTest class (#8628)](https://github.com/hyperledger/besu/commit/21da649abc81e682076a78a0da9992ccc7dc3711) - 2025-05-14
 * [Pull Request] [improve VersionedHash unit tests](https://github.com/hyperledger/besu/pull/8628) - 2025-05-14
+* [Commit] [Improve extcodehash perf (#8811)](https://github.com/hyperledger/besu/commit/dda58fd5c9fcefe358ee6cad361c4441b24a19ea) - 2025-06-12
+* [Pull Request] [Improve extcodehash perf](https://github.com/hyperledger/besu/pull/8811) - 2025-06-12
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

@@ -164,6 +164,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat: genesis header in pre_alloc files](https://github.com/ethereum/execution-spec-tests/commit/83608bd8f5bc1f5fd6d192bf8f5f4440e5476092) - 2025-06-11
 * [Commit] [fix: xdist](https://github.com/ethereum/execution-spec-tests/commit/dfe92e51150ff495a06a3bfe700323e3ad5333a0) - 2025-06-11
 * [Commit] [fix(cli): groupstats](https://github.com/ethereum/execution-spec-tests/commit/c701ca4637e588b4bb7d7bc8caaf25c18f6d5337) - 2025-06-11
+* [Commit] [fix: docs](https://github.com/ethereum/execution-spec-tests/commit/a124da11edc5be9774333b61489d771d6813879f) - 2025-06-12
+* [Pull Request] [feat(clis): `extract_config` command](https://github.com/ethereum/execution-spec-tests/pull/1740) - 2025-06-12
+* [Pull Request] [fix(filler): Fix shared-pre-state on xdist](https://github.com/ethereum/execution-spec-tests/pull/1738) - 2025-06-12
+* [Commit] [fix(fixtures): Fix SharedPreStateGroup model post init](https://github.com/ethereum/execution-spec-tests/commit/054be01af163e2ffcb4a96e522e221e5d99ba901) - 2025-06-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

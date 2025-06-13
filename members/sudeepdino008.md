@@ -246,6 +246,22 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: more automation for RPC Integration Tests (#15432)](https://github.com/erigontech/erigon/commit/bc29f3f55749a2d36454aa9e7693f59093d8b392) - 2025-06-10
 * [Issue] [add functionality to purge merged files entries from BlockTxNumLookupCache](https://github.com/erigontech/erigon/issues/15512) - 2025-06-10
 * [Commit] [save](https://github.com/erigontech/erigon/commit/330459a8279f8b19274bd63fa74aef2f078637f5) - 2025-06-10
+* [Pull Request] [wip: unwind and prune on forkable agg](https://github.com/erigontech/erigon/pull/15551) - 2025-06-12
+* [Issue] [explore kv interface for interacting with forkables...](https://github.com/erigontech/erigon/issues/15550) - 2025-06-12
+* [Issue] [add unwind and prune on forkable_agg](https://github.com/erigontech/erigon/issues/15549) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5993abc03e87041843fa053c4dbd21fe25eba5c4) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8ae0cd33d46729e092b5ae95d69a1ee4062d422c) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/302b9e0b552deb2bfc780e6f24c6517523eed3f1) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5f4490eb2760248732a96648770c695f11b6083d) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0bf1085e89a9f2ccd984dee82f052dcf5f7e76ff) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b2de195a9f5a8a2b4f9af9e74c2c5a1f7297e992) - 2025-06-12
+* [Commit] [lock agg.close() until files building (#15157)](https://github.com/erigontech/erigon/commit/952f7995e03da586041ebcaf2d20d6f26039bcd4) - 2025-06-12
+* [Commit] [lock agg.close() until files building (#15157)](https://github.com/erigontech/erigon/commit/26e1ecfc56100ef7a881679c3a33a5648537f9a3) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/046adf7b1fcdfd35560f6fd69be102bb6d0c6e56) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/226da312cf380499e9581d798c6d71b8c7ea3c52) - 2025-06-12
+* [Pull Request] [wip: save](https://github.com/erigontech/erigon/pull/15541) - 2025-06-12
+* [Commit] [optimise FindBlockNum (#15398) (#15529)](https://github.com/erigontech/erigon/commit/9d9caf98f12697e7c1014a02059f2ed90704a887) - 2025-06-12
+* [Commit] [rename purification to compaction (#15536)](https://github.com/erigontech/erigon/commit/d68df38930b3a12da9e549f39e2b5f7c8d7a163a) - 2025-06-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

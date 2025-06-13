@@ -145,6 +145,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Peer das misc (#15384)](https://github.com/OffchainLabs/prysm/commit/af875b78c9abce048d8e517f3f4f18a5e75a54c3) - 2025-06-06
 * [Commit] [Set subscribe all data subnets once (#15388)](https://github.com/OffchainLabs/prysm/commit/c311e652eb867671131bb400f1433a8e3d5344d8) - 2025-06-08
 * [Commit] [Add PeerDAS reconstruction metrics (#14807)](https://github.com/OffchainLabs/prysm/commit/f86f76e447a9138c0e58ff272bc498c418fbde85) - 2025-06-11
+* [Commit] [peerDAS: Implement `dataColumnSidecarByRootRPCHandler`.](https://github.com/OffchainLabs/prysm/commit/daabc87a68ee8408d9bcb2d4996a7c5bb9053771) - 2025-06-12
+* [Commit] [peerDAS: Implement `dataColumnSidecarByRootRPCHandler`.](https://github.com/OffchainLabs/prysm/commit/a1d8511f0eb5297e960070624e865c69711e6ddc) - 2025-06-12
+* [Commit] [peerDAS: Implement `dataColumnSidecarByRootRPCHandler`.](https://github.com/OffchainLabs/prysm/commit/9320f24ce4397de6bbdad67eae942a024a569232) - 2025-06-12
+* [Pull Request] [Berlinterop devnet 2](https://github.com/OffchainLabs/prysm/pull/15409) - 2025-06-12
+* [Pull Request] [Fulu devnet 2](https://github.com/OffchainLabs/prysm/pull/15408) - 2025-06-12
+* [Commit] [fix tests](https://github.com/OffchainLabs/prysm/commit/9c9278ea5bd381d1aba031110544ea17fc83e39b) - 2025-06-12
+* [Commit] [review](https://github.com/OffchainLabs/prysm/commit/738da6205c73d651b652b67468f3e2d98b7532a4) - 2025-06-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 * [Pull Request] [Validator custody: Increase only and optional backfill.](https://github.com/ethereum/consensus-specs/pull/4357) - 2025-06-03

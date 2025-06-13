@@ -125,6 +125,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [use interop specific tests release (#8801)](https://github.com/hyperledger/besu/commit/ab439f1096107813535156d30d2c42c24970a2e2) - 2025-06-11
 * [Commit] [[berlinterop-devnet-2] add clz opcode (#8800)](https://github.com/hyperledger/besu/commit/3f691ef63af55076103b7114344416aace9f942e) - 2025-06-11
 * [Pull Request] [[berlinterop-devnet-2] add clz opcode](https://github.com/hyperledger/besu/pull/8800) - 2025-06-11
+* [Commit] [Use UInt256 implementation (#8812)](https://github.com/hyperledger/besu/commit/43747263480d08a6c9a5ca9740b13d66e5783823) - 2025-06-12
+* [Pull Request] [[berlin-interop-devnet] Use UInt256 implementation](https://github.com/hyperledger/besu/pull/8812) - 2025-06-12
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

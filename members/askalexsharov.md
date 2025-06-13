@@ -2478,6 +2478,21 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/3605f35aaa674d8e90304f56598a92a80bfb737d) - 2025-06-11
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a7004ed1843e031d99f3070937c49042a91001e9) - 2025-06-11
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6d77c2277cd029d8cbb0c84096853766450954d5) - 2025-06-11
+* [Commit] [print_stages: print min/max step (or txnum) per each domain (#15533)](https://github.com/erigontech/erigon/commit/0e89d7fc8e4bfb8cf237116be4768d108cee5015) - 2025-06-12
+* [Pull Request] [exec: revert some removed `if` ](https://github.com/erigontech/erigon/pull/15546) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5789d94c8cc1a6878910c9bd10f3f353f570ade9) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/425e26a069edf034ccfc348d16ec8cd21f6eecb3) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/68ed323fee8414a2317bb58a0d9a94afebee0f07) - 2025-06-12
+* [Commit] [qa-tests: add bor-mainnet to sync-from-scratch (minimal node) test (#14815)](https://github.com/erigontech/erigon/commit/3e730b46d92646acd479750b5a700309e7a4c703) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/15e1a95d588daa410d9ac33862bfe48aa06a26c1) - 2025-06-12
+* [Pull Request] [`debug_setMemoryLimit`, `debug_setGCPercent`,`debug_freeOSMemory`, `debug_gcStats`, `debug_memStats`](https://github.com/erigontech/erigon/pull/15542) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/89148c828c859bb6e77f178f069ed728509bed64) - 2025-06-12
+* [Commit] [getWitness to use less direc api of trie (#15196)](https://github.com/erigontech/erigon/commit/88f81bb2d5645da7ca3adfa99bf33660b658bd92) - 2025-06-12
+* [Commit] [Implement EIP-7823: Set upper bounds for MODEXP (#15148)](https://github.com/erigontech/erigon/commit/fd43d30d5ff9fa01baa09c5f977e8a8c56d5184b) - 2025-06-12
+* [Commit] [Eastorski/cherry pick polyon miner commits (#15540)](https://github.com/erigontech/erigon/commit/fdb876f414dfc076ce0309e2048826fb45973f17) - 2025-06-12
+* [Commit] [[e30] ReceiptDomain: miss final txn  (#15527)](https://github.com/erigontech/erigon/commit/5bfe2398037695199e195a7c86932058819a1f20) - 2025-06-12
+* [Commit] [Supported heimdall v2 endpoints (#15538)](https://github.com/erigontech/erigon/commit/24dde7adba13273332884bfa489a869bc23d89fa) - 2025-06-12
+* [Commit] [ReceiptDomain: miss final txn  (#15528)](https://github.com/erigontech/erigon/commit/71e34bb26052e0596ba8931ebac747583e8a2911) - 2025-06-12
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

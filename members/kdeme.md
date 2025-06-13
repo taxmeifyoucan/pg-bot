@@ -68,6 +68,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Portal bridge: fixes and refactor beacon bridge](https://github.com/status-im/nimbus-eth1/commit/f8648166dcb70f2a36dcdaa779de3e6176aa6384) - 2025-05-26
 * [Commit] [Disable testutp CI job until it gets fixed (#3336)](https://github.com/status-im/nimbus-eth1/commit/60072e55538e81191fdd26b4bbfa0cc64700115c) - 2025-05-27
 * [Pull Request] [Disable testutp CI job until it gets fixed](https://github.com/status-im/nimbus-eth1/pull/3336) - 2025-05-27
+* [Commit] [Bump portal-mainnet for removal of unresponsive bootstrap nodes (#3386)](https://github.com/status-im/nimbus-eth1/commit/8572751619dd53d1146598d55b67ae153b0772f7) - 2025-06-12
+* [Commit] [Bump nim-eth for uTP logging improvements (#3385)](https://github.com/status-im/nimbus-eth1/commit/23f1606bed28670e17f4de89074c8ba5c4f38eec) - 2025-06-12
+* [Pull Request] [Bump portal-mainnet for removal of unresponsive bootstrap nodes](https://github.com/status-im/nimbus-eth1/pull/3386) - 2025-06-12
+* [Pull Request] [Bump nim-eth for uTP logging improvements](https://github.com/status-im/nimbus-eth1/pull/3385) - 2025-06-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28

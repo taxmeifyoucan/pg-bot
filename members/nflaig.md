@@ -201,6 +201,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: review EIP-7917 deterministic proposer lookahead](https://github.com/ChainSafe/lodestar/commit/be0474de84803340acc40cf39fa4ef930108d09d) - 2025-06-09
 * [Pull Request] [chore: review EIP-7917 deterministic proposer lookahead](https://github.com/ChainSafe/lodestar/pull/7937) - 2025-06-09
 * [Pull Request] [fix: query shuffling from cache to compute proposer lookahead](https://github.com/ChainSafe/lodestar/pull/7945) - 2025-06-10
+* [Commit] [Remove unused import](https://github.com/ChainSafe/lodestar/commit/e06c1b8e855a0e876c69829dcca529dec48c5396) - 2025-06-12
+* [Commit] [revert changes to blob sidecar event](https://github.com/ChainSafe/lodestar/commit/701f8a970a3f8d70747d5ed2528eec7fb069cd26) - 2025-06-12
+* [Commit] [Use correct block root](https://github.com/ChainSafe/lodestar/commit/36bad225955297409eb01b97b2ebcb73f7f4433d) - 2025-06-12
+* [Commit] [Emit data_column_sidecar event on gossip and api](https://github.com/ChainSafe/lodestar/commit/a01bf20e19c5ca8def02a37786c0600c0d3da0e5) - 2025-06-12
+* [Commit] [feat: add endpoint to retrieve data column sidecars (#7952)](https://github.com/ChainSafe/lodestar/commit/45bf84460781912fbe532d1f8d5d4b71a1b039a0) - 2025-06-12
+* [Commit] [chore: cleanup event handlers for import block (#7956)](https://github.com/ChainSafe/lodestar/commit/88a9af6ecdb917a9720c6c139eabfab72cf87f38) - 2025-06-12
+* [Commit] [feat: add endpoint to retrieve proposer lookahead from state (#7949)](https://github.com/ChainSafe/lodestar/commit/335a428aa9e86730011eade7d369523914828944) - 2025-06-12
+* [Commit] [chore: proposer lookahead follow-up changes (#7948)](https://github.com/ChainSafe/lodestar/commit/d01ed1576a1a604ab3c72797a8a4f2735d6f60cb) - 2025-06-12
+* [Commit] [Use toHex](https://github.com/ChainSafe/lodestar/commit/202222d905d98603565359a57a7f3f0136192695) - 2025-06-12
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
