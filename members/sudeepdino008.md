@@ -262,6 +262,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [wip: save](https://github.com/erigontech/erigon/pull/15541) - 2025-06-12
 * [Commit] [optimise FindBlockNum (#15398) (#15529)](https://github.com/erigontech/erigon/commit/9d9caf98f12697e7c1014a02059f2ed90704a887) - 2025-06-12
 * [Commit] [rename purification to compaction (#15536)](https://github.com/erigontech/erigon/commit/d68df38930b3a12da9e549f39e2b5f7c8d7a163a) - 2025-06-12
+* [Pull Request] [cp: cancel previous job runs in integration and qa-rpc](https://github.com/erigontech/erigon/pull/15566) - 2025-06-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1c55649b36a0dfffde2a05ee71043b44fa995c47) - 2025-06-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/864f77316e6153c1669941c9b349bddb5599d006) - 2025-06-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/29745e8850031c325debf669180c9f3d5b44381e) - 2025-06-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/39411eb436f976e07126b645282b540c3cd28737) - 2025-06-13
+* [Pull Request] [less agg/aggtx use where possible](https://github.com/erigontech/erigon/pull/15564) - 2025-06-13
+* [Commit] [qa_integration: update rpc integration (#15524)](https://github.com/erigontech/erigon/commit/32efafebebaf76c8f02a9d73399322298b9fe293) - 2025-06-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ef2c14882c7de5c67f74b2f4ef5f5fb08fdb5a67) - 2025-06-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5028329288595c5cc8d44e486ad6e1dceecabde1) - 2025-06-13
+* [Issue] [unit test: higher level ii/history integrity checker](https://github.com/erigontech/erigon/issues/15561) - 2025-06-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

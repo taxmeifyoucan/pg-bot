@@ -253,6 +253,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Activate devnet-1 in Osaka (#8733)](https://github.com/NethermindEth/nethermind/commit/7d5972b9f3ca63fe282b257a15369f0364b58c36) - 2025-06-12
 * [Pull Request] [Refactor/taiko extended eth module](https://github.com/NethermindEth/nethermind/pull/8769) - 2025-06-12
 * [Commit] [Remove unneccessary change](https://github.com/NethermindEth/nethermind/commit/cdb94eff28248c64db3b77fee610391692f4e259) - 2025-06-12
+* [Commit] [Remove taiko rpc modules](https://github.com/NethermindEth/nethermind/commit/95a98ed8ccbd39d9bc641b41e5795f5e751e0b72) - 2025-06-13
+* [Commit] [Add max blobs per tx limit taken from blob schedule (#8754)](https://github.com/NethermindEth/nethermind/commit/a37bd1d3c09f55ddb3f0991665e1474fa061b354) - 2025-06-13
+* [Commit] [Cleanup/make transaction executor always take adapter (#8750)](https://github.com/NethermindEth/nethermind/commit/811cde9c00d63b1210d1aa772063b2990a830dd0) - 2025-06-13
+* [Commit] [Refactor/taiko extended eth module (#8769)](https://github.com/NethermindEth/nethermind/commit/2c48d7ee8e311ea69c6caf17b4ae8178eb59a8ed) - 2025-06-13
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

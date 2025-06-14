@@ -57,6 +57,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Updated FuzzUtilTest for Fulu](https://github.com/Consensys/teku/pull/9532) - 2025-06-10
 * [Commit] [Add verifyDataColumnSidecarKzgProof benchmark (#9546)](https://github.com/Consensys/teku/commit/6424782fcd42ef6d326ae8faed16d48c74a69024) - 2025-06-11
 * [Pull Request] [Added versioning hierarchy to rpc Status msg](https://github.com/Consensys/teku/pull/9550) - 2025-06-11
+* [Commit] [bpo_hacky](https://github.com/Consensys/teku/commit/a5b11d96273402a1e0be044059759282cb9dc8b1) - 2025-06-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Added Teku team coordinators](https://github.com/ethereum/pm/pull/1468) - 2025-04-14
 * [Pull Request] [Minor typos protocol-upgrade.md](https://github.com/ethereum/pm/pull/1467) - 2025-04-14

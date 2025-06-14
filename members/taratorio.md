@@ -83,6 +83,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tests: add initial engine api test](https://github.com/erigontech/erigon/commit/9936092b810ff209e6e8cbf68c118e8a40b85608) - 2025-06-11
 * [Commit] [tests: add initial engine api test](https://github.com/erigontech/erigon/commit/bfe5a050f301c4c2abbc872f36e27f65e4e79a72) - 2025-06-11
 * [Issue] [invalid requests root hash in header with erigon and caplin](https://github.com/erigontech/erigon/issues/15544) - 2025-06-12
+* [Commit] [fix bad merge](https://github.com/erigontech/erigon/commit/e932e4b521ef6bdc18b37a50455b3080a6d027d6) - 2025-06-13
+* [Commit] [core/state: fix missed part in test, for failing linter (#15421)](https://github.com/erigontech/erigon/commit/c8b8921b2037e9eafc4f0da4cd045ad9927e7787) - 2025-06-13
+* [Commit] [Use gnark for bn254 scalar mul (#15556)](https://github.com/erigontech/erigon/commit/b8740a1dbf59ac57980db2f29f029677793d830e) - 2025-06-13
+* [Commit] [Change `bn256Add` to use consensys gnark-bn254 lib (#15555)](https://github.com/erigontech/erigon/commit/4043ae3ab95f552865f87321429faf1c09576aaa) - 2025-06-13
+* [Commit] [add EmptyPayload10M_10M](https://github.com/erigontech/erigon/commit/79e0cc7588db40f0ab36d6e372480bec2d031ea1) - 2025-06-13
+* [Commit] [fix: TxDataZero2txs200M_200M](https://github.com/erigontech/erigon/commit/2629cbe4a4bbb3cd651f4d43d131d052458a9921) - 2025-06-13
+* [Commit] [fix: TxDataZero](https://github.com/erigontech/erigon/commit/2cff1787ea8d67276a36a82c8a5b6f153c435cb6) - 2025-06-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

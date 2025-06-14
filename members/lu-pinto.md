@@ -38,6 +38,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [enable ci on the performance branch](https://github.com/hyperledger/besu/pull/8769) - 2025-06-09
 * [Pull Request] [adjust modexp gas computation of eip-7883](https://github.com/hyperledger/besu/pull/8766) - 2025-06-09
 * [Pull Request] [Change stack size growth strategy to 0.5 rate](https://github.com/hyperledger/besu/pull/8814) - 2025-06-12
+* [Commit] [Change stack size growth strategy to 0.5 rate (#8814)](https://github.com/hyperledger/besu/commit/514d27dae896fe3f12aa568faf4dc973b3f0d5ca) - 2025-06-13
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

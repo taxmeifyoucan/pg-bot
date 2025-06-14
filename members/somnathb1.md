@@ -186,6 +186,9 @@ Team: Erigon
 * [Pull Request] [Change bn256 add to consensys gnark](https://github.com/erigontech/erigon/pull/15555) - 2025-06-12
 * [Commit] [Use gnark for bn254 scalar mul](https://github.com/erigontech/erigon/commit/f4990c37393029972f0d3b4a677e41ed451b526f) - 2025-06-12
 * [Commit] [Change bn256 add to consensys gnark](https://github.com/erigontech/erigon/commit/d38717567129c9ea9a9af72db7fe537c67d5feeb) - 2025-06-12
+* [Commit] [Add CLZ opcode (#15532)](https://github.com/erigontech/erigon/commit/502af46efcd8b89fb4efcc8d4a7cf9b9d07dcca5) - 2025-06-13
+* [Commit] [Fix potential bug for expected withdrawals (#15525)](https://github.com/erigontech/erigon/commit/d78342cf37fbd48ba836267f72cb25dbf9ec2e40) - 2025-06-13
+* [Commit] [Add P256Verify for osaka and implement EIP-7951 (#15519)](https://github.com/erigontech/erigon/commit/1d5bbd65dfc8a7b457666379c86f17030371be34) - 2025-06-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

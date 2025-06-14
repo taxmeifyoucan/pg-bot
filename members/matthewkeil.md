@@ -103,6 +103,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: add rust-kzg](https://github.com/ChainSafe/lodestar/commit/cd4dd49192e6aa6f8a50de7ace73c2e6a6625038) - 2025-06-11
 * [Commit] [fix: update db bucket names with correct fork](https://github.com/ChainSafe/lodestar/commit/3a408e2384016a0c7b91db2d70cf7416d23d4e2e) - 2025-06-11
 * [Commit] [fix: column announcement before fork transition (#7943)](https://github.com/ChainSafe/lodestar/commit/23530b6726620b7fd3898016711399532c234e35) - 2025-06-12
+* [Commit] [chore: remove unused comment](https://github.com/ChainSafe/lodestar/commit/4cbba556fc3fad66ca1a41363e07972b9654882a) - 2025-06-13
+* [Pull Request] [feat: earliest available slot](https://github.com/ChainSafe/lodestar/pull/7959) - 2025-06-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

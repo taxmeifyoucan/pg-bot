@@ -426,6 +426,9 @@ Team: Reth
 * [Pull Request] [chore: re-export more op types](https://github.com/paradigmxyz/reth/pull/16788) - 2025-06-12
 * [Issue] [Use a sane timeout when resolving external ips via http](https://github.com/paradigmxyz/reth/issues/16785) - 2025-06-12
 * [Commit] [fix: use external](https://github.com/paradigmxyz/reth/commit/5c40a2b61e82de6fe98cfedbde738aba5f194c1b) - 2025-06-12
+* [Issue] [Implement alloy network for EthereumNode and OpNode](https://github.com/paradigmxyz/reth/issues/16798) - 2025-06-13
+* [Commit] [chore: re-export network types (#16789)](https://github.com/paradigmxyz/reth/commit/f01f31a40e1e1c85d3dd3031537534ee58cd2f6a) - 2025-06-13
+* [Pull Request] [chore: bump inspectors 0.24](https://github.com/paradigmxyz/reth/pull/16797) - 2025-06-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

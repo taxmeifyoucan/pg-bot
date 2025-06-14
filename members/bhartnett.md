@@ -104,3 +104,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Update nim-rocksdb to v10.2.1.0](https://github.com/status-im/nimbus-eth1/pull/3370) - 2025-06-09
 * [Pull Request] [Verified Proxy: Pre-fetch state using eth_createAccessList and add caching to EVM calls ](https://github.com/status-im/nimbus-eth1/pull/3373) - 2025-06-10
 * [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/4957c96b2b4c8155fa9878242a1ed5ddd8a72108) - 2025-06-10
+* [Commit] [Add tests.](https://github.com/status-im/nimbus-eth1/commit/57da40d298ef871542e116056ff081d32e2931fa) - 2025-06-13
+* [Commit] [Async EVM: Return ok when error message exists so that call output can be returned (#3391)](https://github.com/status-im/nimbus-eth1/commit/ee9139bfb66bbb53b1669826c319b5e0bc0b0241) - 2025-06-13
+* [Pull Request] [Nimbus EVM: Add revert reason to error string when EVM execution reverts](https://github.com/status-im/nimbus-eth1/pull/3392) - 2025-06-13
+* [Commit] [Return EVM output data in eth_call when EVM execution reverts.](https://github.com/status-im/nimbus-eth1/commit/2585bad9c34a49d4ba225852d1da3600b78db984) - 2025-06-13
+* [Pull Request] [Async EVM: Return ok when error message exists so that call output can be returned ](https://github.com/status-im/nimbus-eth1/pull/3391) - 2025-06-13

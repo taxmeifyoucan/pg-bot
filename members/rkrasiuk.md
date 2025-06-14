@@ -91,6 +91,8 @@ Team: Reth
 * [Commit] [log more](https://github.com/paradigmxyz/reth/commit/56cfa1580551fa1e17cb9369e187c7159d14c291) - 2025-06-12
 * [Commit] [log entire hashed state](https://github.com/paradigmxyz/reth/commit/a4a78ced09c359bde28911f9af12954733a6f68e) - 2025-06-12
 * [Commit] [add more logs](https://github.com/paradigmxyz/reth/commit/500888cfdf80acfb86dd036e364777193468c694) - 2025-06-12
+* [Commit] [ress `ExecutionWitness` -> `ExecutionStateWitness`](https://github.com/paradigmxyz/reth/commit/4fad2f01fad6a967e5826a03124a2c73d03fc443) - 2025-06-13
+* [Commit] [use original_bytes for bytecode](https://github.com/paradigmxyz/reth/commit/9460e88098cf0c3b44c9edfcbdd7e6654654cbbe) - 2025-06-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16
 

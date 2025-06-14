@@ -314,6 +314,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Dispose EvmState on warmup (#8771)](https://github.com/NethermindEth/nethermind/commit/eb4a682f62768ec3270aad05ce62f7087822ae07) - 2025-06-12
 * [Pull Request] [Include Debug Symbols](https://github.com/NethermindEth/nethermind/pull/8773) - 2025-06-12
 * [Pull Request] [Dispose EvmState on warmup](https://github.com/NethermindEth/nethermind/pull/8771) - 2025-06-12
+* [Commit] [Warmump evm (#8787)](https://github.com/NethermindEth/nethermind/commit/fe507f2316a0ca0e0397ad15b758690eeb27f30c) - 2025-06-13
+* [Pull Request] [Warmump evm](https://github.com/NethermindEth/nethermind/pull/8787) - 2025-06-13
+* [Pull Request] [Test/performance gmp bindings](https://github.com/NethermindEth/nethermind/pull/8784) - 2025-06-13
+* [Commit] [Sync master (#8783)](https://github.com/NethermindEth/nethermind/commit/e70ee589d49945074575b11841e784316278fbfc) - 2025-06-13
+* [Pull Request] [Sync master](https://github.com/NethermindEth/nethermind/pull/8783) - 2025-06-13
+* [Commit] [Fix exception on exit for incomplete nethermind startup. (#8717)](https://github.com/NethermindEth/nethermind/commit/08a5419eecc57ad5a114ec739d2a7bc7f46fa951) - 2025-06-13
+* [Commit] [Recover signer direct from keccak without intermediary array (#8781)](https://github.com/NethermindEth/nethermind/commit/50035018df77e55ebb8ec63d2e3f3003aa8606af) - 2025-06-13
+* [Commit] [Keccak rlp encode (#8782)](https://github.com/NethermindEth/nethermind/commit/9888439065a4964a1e5460a8bfe8ac0081e53f63) - 2025-06-13
+* [Pull Request] [Keccak rlp encode](https://github.com/NethermindEth/nethermind/pull/8782) - 2025-06-13
+* [Commit] [Skip hash via byte array](https://github.com/NethermindEth/nethermind/commit/26b87c996ee3008646a1c87f969315f30d7d8dfc) - 2025-06-13
+* [Pull Request] [Recover signer direct from keccak without intermediary array](https://github.com/NethermindEth/nethermind/pull/8781) - 2025-06-13
+* [Commit] [Sync with master (#8780)](https://github.com/NethermindEth/nethermind/commit/f91f4033284841d2f82682ef838dd198b6361677) - 2025-06-13
+* [Pull Request] [Sync with master](https://github.com/NethermindEth/nethermind/pull/8780) - 2025-06-13
+* [Commit] [Remove txPool contention from block validation (#8779)](https://github.com/NethermindEth/nethermind/commit/5a5e6f8f6af36135dd4ad15c94a6366a56ef83d4) - 2025-06-13
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

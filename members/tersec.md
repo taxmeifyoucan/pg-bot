@@ -169,6 +169,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [use EF consensus spec tests v1.6.0-alpha.2-hotfix.0](https://github.com/status-im/nimbus-eth2/pull/7229) - 2025-06-12
 * [Commit] [attempt to work around Ubuntu 22.04/recent AMD build issues related to secp256k1 (#7228)](https://github.com/status-im/nimbus-eth2/commit/a8f02a3d032d95e9199ac4e79217577f035d3449) - 2025-06-12
 * [Pull Request] [attempt to work around Ubuntu 22.04/recent AMD build issues related to secp256k1](https://github.com/status-im/nimbus-eth2/pull/7228) - 2025-06-12
+* [Commit] [re-enable builder API circuit breaker on all almost all networks (#7236)](https://github.com/status-im/nimbus-eth2/commit/295f99ca31c210ab3c082a73f29646a01e88db3c) - 2025-06-13
+* [Commit] [use EF consensus spec tests v1.6.0-alpha.2-hotfix.0 (#7229)](https://github.com/status-im/nimbus-eth2/commit/02029b68bc19da40dc26e19a8f0a962a69639318) - 2025-06-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

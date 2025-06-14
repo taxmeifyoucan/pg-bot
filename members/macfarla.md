@@ -86,6 +86,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [[fusaka-devnet-2] run relevant GHA on fusaka-* branches (#8806)](https://github.com/hyperledger/besu/commit/a440687dbb246043968cdaf97ff25039df677ba7) - 2025-06-12
 * [Commit] [update ref tests version to 1.1.0 (#8810)](https://github.com/hyperledger/besu/commit/3a3e80eadee979f4c38b1138e4be7905cf46e880) - 2025-06-12
 * [Pull Request] [[berlininterop-devnet-2] Update refTests version to 1.1.0](https://github.com/hyperledger/besu/pull/8810) - 2025-06-12
+* [Pull Request] [use sepolia genesis for ATs](https://github.com/hyperledger/besu/pull/8819) - 2025-06-13
+* [Pull Request] [[CHANGELOG] minor edits to changelog](https://github.com/hyperledger/besu/pull/8818) - 2025-06-13
+* [Pull Request] [Remove gas calculator cost methods deprecated since 24.2](https://github.com/hyperledger/besu/pull/8817) - 2025-06-13
+* [Commit] [Archive CHANGELOG, split at start of 2024 (#8739)](https://github.com/hyperledger/besu/commit/0abcee0efff560a4350bcc6af7e598b21070316e) - 2025-06-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

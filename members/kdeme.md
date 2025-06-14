@@ -72,6 +72,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Bump nim-eth for uTP logging improvements (#3385)](https://github.com/status-im/nimbus-eth1/commit/23f1606bed28670e17f4de89074c8ba5c4f38eec) - 2025-06-12
 * [Pull Request] [Bump portal-mainnet for removal of unresponsive bootstrap nodes](https://github.com/status-im/nimbus-eth1/pull/3386) - 2025-06-12
 * [Pull Request] [Bump nim-eth for uTP logging improvements](https://github.com/status-im/nimbus-eth1/pull/3385) - 2025-06-12
+* [Commit] [Improve utp testing readme](https://github.com/status-im/nimbus-eth1/commit/0b79c951dd8518aea7952dfd491b9ea3317ae929) - 2025-06-13
+* [Pull Request] [Improve utp testing readme](https://github.com/status-im/nimbus-eth1/pull/3398) - 2025-06-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28

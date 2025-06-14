@@ -142,6 +142,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/e0a1db559645c2784e986b607b6df63f7cf7b1ef) - 2025-06-11
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/9573f12b9add5a6a274c28bc4c6d0df607c1bfa8) - 2025-06-11
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/d895f40a94d1058a952e6e45810049566fa3085b) - 2025-06-11
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/f0e57131c66061f36167ad30045be82b430f334c) - 2025-06-13
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/80aaeaf58a8895113ea90c02f9ba93bfc8fa5647) - 2025-06-13
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/febf09e607738a45610d703bcd236678693e836c) - 2025-06-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -122,6 +122,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add fork version to compute fork digest test cases (#4376)](https://github.com/ethereum/consensus-specs/commit/83ce6d094521eb14cd97d7466872dba914594a8b) - 2025-06-12
 * [Pull Request] [Add fork version to compute fork digest test cases](https://github.com/ethereum/consensus-specs/pull/4376) - 2025-06-12
 * [Commit] [Release v1.6.0-alpha.2 (#4367)](https://github.com/ethereum/consensus-specs/commit/edb01eeb44a2034f92119100c16e250b694951ae) - 2025-06-12
+* [Commit] [Make more eip7732 updates](https://github.com/ethereum/consensus-specs/commit/602f5a54346e20468c05eb6456cca034322caa79) - 2025-06-13
+* [Commit] [Make more updates to eip7732 spec](https://github.com/ethereum/consensus-specs/commit/c2b5239fc3a0bb1520189b45d93761984de24be3) - 2025-06-13
+* [Commit] [Update eip7732 specs](https://github.com/ethereum/consensus-specs/commit/fd5b507d5c88bf89e7a2bc6fe653676023e62062) - 2025-06-13
+* [Issue] [Spec for unfinalized checkpoint sync](https://github.com/ethereum/consensus-specs/issues/4382) - 2025-06-13
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 

@@ -55,6 +55,8 @@ Team: Geth
 * [Commit] [crypto/kzg4844: avoid copying blobs for marshaling (#31911)](https://github.com/ethereum/go-ethereum/commit/d675721276d126012faa264491d632689703ad3b) - 2025-06-06
 * [Commit] [core/vm: add precompile cache](https://github.com/ethereum/go-ethereum/commit/e24017688f99b493cef056cc445fe46f84f236f8) - 2025-06-10
 * [Pull Request] [crypto/kzg4844: remove kzg initialization](https://github.com/ethereum/go-ethereum/pull/32017) - 2025-06-12
+* [Commit] [use gnark (#32026)](https://github.com/ethereum/go-ethereum/commit/dc17a38a5d36f66b6a5a80696174bf36e0be4f43) - 2025-06-13
+* [Pull Request] [use gnark](https://github.com/ethereum/go-ethereum/pull/32026) - 2025-06-13
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

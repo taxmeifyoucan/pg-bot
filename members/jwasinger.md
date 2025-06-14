@@ -37,6 +37,8 @@ Team: Geth
 * [Pull Request] [core/state:  implement optional BAL construction in statedb](https://github.com/ethereum/go-ethereum/pull/31959) - 2025-06-04
 * [Pull Request] [core,miner,params: implement EIP-7934 - RLP Execution Block Size Limit](https://github.com/ethereum/go-ethereum/pull/31990) - 2025-06-09
 * [Pull Request] [core/vm: implement updates to modexp gas cost changes in eip 7883](https://github.com/ethereum/go-ethereum/pull/32015) - 2025-06-12
+* [Pull Request] [crypto/bn256:  default to gnark implementation](https://github.com/ethereum/go-ethereum/pull/32025) - 2025-06-13
+* [Issue] [replace bn256 precompile implementation with Gnark](https://github.com/ethereum/go-ethereum/issues/32023) - 2025-06-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [eip-7892: convert contract code field from union type to list of bytes](https://github.com/ethereum/EIPs/pull/9848) - 2025-06-02
 * [Pull Request] [eip-7928: make explicit that the BAL is its own field in the block, remove SSZ encoding as a requirement for BAL verification](https://github.com/ethereum/EIPs/pull/9871) - 2025-06-08

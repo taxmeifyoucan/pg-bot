@@ -90,6 +90,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [max_gas_limit](https://github.com/paradigmxyz/reth/commit/405c8517ec99a84629acd62dfe4abf21887f91e7) - 2025-06-12
 * [Commit] [fix estimateGas](https://github.com/paradigmxyz/reth/commit/d3ec9e9b089664e65a30faf8524d064053ad348e) - 2025-06-12
 * [Commit] [bump revm](https://github.com/paradigmxyz/reth/commit/400267b3c6e98495d83e1241d2942282a631dd54) - 2025-06-12
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/61da1179b9dbb5078dd117578d4a82d03e036182) - 2025-06-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/a7ca04d56781d0c81d6378c7b5a6b24e3f99532f) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/12aae0ed7ebf2c8f8dff1f0fa2dad4602c743977) - 2025-06-05

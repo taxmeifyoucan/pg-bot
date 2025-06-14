@@ -93,3 +93,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Transaction broadcast breakdown (#3372)](https://github.com/status-im/nimbus-eth1/commit/0ef2e8c9869b9831a94e2765068cb893ee09828f) - 2025-06-10
 * [Pull Request] [Transaction broadcast breakdown](https://github.com/status-im/nimbus-eth1/pull/3372) - 2025-06-10
 * [Commit] [Remove unused gasEip7702CodeCheck (#3377)](https://github.com/status-im/nimbus-eth1/commit/71153b95910d4eafa5b9afeb7d74cfddff02d3af) - 2025-06-11
+* [Pull Request] [Add missing notification if something happened to era block loader](https://github.com/status-im/nimbus-eth1/pull/3393) - 2025-06-13

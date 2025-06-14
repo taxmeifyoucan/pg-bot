@@ -232,6 +232,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [evmone_precompiles/commit/ffeac80ad01062eb9d28169838ca2d3455cbc67c](https://github.com/erigontech/erigon/commit/cbf2b9b40fdb6117e3583546ac95765ccdcf489f) - 2025-06-12
 * [Commit] [add12 testcase](https://github.com/erigontech/erigon/commit/b8980f8972ab12b6f98b13035e77ab9b64b108ce) - 2025-06-12
 * [Commit] [benchmark failed](https://github.com/erigontech/erigon/commit/e2815ff88ad545c80c8edab2fcd9a3648517275a) - 2025-06-12
+* [Commit] [Revert "Use gmp for modexp (#15554)"](https://github.com/erigontech/erigon/commit/1c4c3042b7da31c674c9ed5f688254af163d79b7) - 2025-06-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 ## Q1 2025

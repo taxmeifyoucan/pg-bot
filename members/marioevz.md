@@ -168,6 +168,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(clis): `extract_config` command](https://github.com/ethereum/execution-spec-tests/pull/1740) - 2025-06-12
 * [Pull Request] [fix(filler): Fix shared-pre-state on xdist](https://github.com/ethereum/execution-spec-tests/pull/1738) - 2025-06-12
 * [Commit] [fix(fixtures): Fix SharedPreStateGroup model post init](https://github.com/ethereum/execution-spec-tests/commit/054be01af163e2ffcb4a96e522e221e5d99ba901) - 2025-06-12
+* [Commit] [fix(github): fix evmone building on same machine](https://github.com/ethereum/execution-spec-tests/commit/c2c5667cad0466012cfb393b208b42c71d9f8386) - 2025-06-13
+* [Pull Request] [fix(tests): Fix test_worst_selfdestruct_created](https://github.com/ethereum/execution-spec-tests/pull/1741) - 2025-06-13
+* [Commit] [fix(filler): fix shared-pre-state generation (#1738)](https://github.com/ethereum/execution-spec-tests/commit/0c70094034175c9d253c71f3548d680d64ace818) - 2025-06-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

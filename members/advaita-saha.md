@@ -88,3 +88,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix double hashing](https://github.com/status-im/nimbus-eth1/commit/ab9569011ef1854abde61cd38ccf5de4f1d8f409) - 2025-06-12
 * [Commit] [remove unwanted stuff](https://github.com/status-im/nimbus-eth1/commit/0cae682e2f5d44500047a16846fcad5baa81a443) - 2025-06-12
 * [Pull Request] [secp256r1 precompile](https://github.com/status-im/nimbus-eth1/pull/3382) - 2025-06-12
+* [Commit] [add gas and Prague](https://github.com/status-im/nimbus-eth1/commit/1b29c36795d720d2faeb09f34461d82a9bc96180) - 2025-06-13
+* [Commit] [fix weird EIP, no error but consume gas](https://github.com/status-im/nimbus-eth1/commit/70e09554931595d6e80d9ce40c3f51861aa2bb16) - 2025-06-13
+* [Issue] [Nimbus-eth1 fails to connect to bootstrap nodes due to encryption/decryption errors](https://github.com/status-im/nimbus-eth1/issues/3396) - 2025-06-13
+* [Commit] [fix unwanted ECC Points](https://github.com/status-im/nimbus-eth1/commit/8a3970b8dbb1c9e7a9c9bcffd687988a764d7f56) - 2025-06-13
+* [Pull Request] [add CLZ opcode](https://github.com/status-im/nimbus-eth1/pull/3394) - 2025-06-13

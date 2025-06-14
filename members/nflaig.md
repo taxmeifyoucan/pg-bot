@@ -210,6 +210,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add endpoint to retrieve proposer lookahead from state (#7949)](https://github.com/ChainSafe/lodestar/commit/335a428aa9e86730011eade7d369523914828944) - 2025-06-12
 * [Commit] [chore: proposer lookahead follow-up changes (#7948)](https://github.com/ChainSafe/lodestar/commit/d01ed1576a1a604ab3c72797a8a4f2735d6f60cb) - 2025-06-12
 * [Commit] [Use toHex](https://github.com/ChainSafe/lodestar/commit/202222d905d98603565359a57a7f3f0136192695) - 2025-06-12
+* [Commit] [feat: assert fork digest to match our current fork (#7950)](https://github.com/ChainSafe/lodestar/commit/d10eb2f74bc386b8ce9ec546ef3478c1281786f6) - 2025-06-13
+* [Commit] [chore: run beacon api spec tests against v4.0.0-alpha.0 (#7965)](https://github.com/ChainSafe/lodestar/commit/a2aa33ab943dc2a8cf11836ee253b94808fc1cf1) - 2025-06-13
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

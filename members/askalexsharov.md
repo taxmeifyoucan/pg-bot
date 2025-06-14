@@ -2493,6 +2493,14 @@ Team: Erigon
 * [Commit] [[e30] ReceiptDomain: miss final txn  (#15527)](https://github.com/erigontech/erigon/commit/5bfe2398037695199e195a7c86932058819a1f20) - 2025-06-12
 * [Commit] [Supported heimdall v2 endpoints (#15538)](https://github.com/erigontech/erigon/commit/24dde7adba13273332884bfa489a869bc23d89fa) - 2025-06-12
 * [Commit] [ReceiptDomain: miss final txn  (#15528)](https://github.com/erigontech/erigon/commit/71e34bb26052e0596ba8931ebac747583e8a2911) - 2025-06-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/09033795c43aad9ea4776a682414d6de4c7e6f90) - 2025-06-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a6dee650332a7c59dc52e27925efd3c91c99438f) - 2025-06-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4a0e2da742e0366fe18775b2f948c26bb24d76a2) - 2025-06-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ef3127d81c156b847da065e717f97b5095daba33) - 2025-06-13
+* [Commit] [[r3.0]Comp check (#15559)](https://github.com/erigontech/erigon/commit/f1a92b93ce696693306fb4b392525ba19df2c6ae) - 2025-06-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e7fa87cc472ca35c3b3d328c12b835f719b08617) - 2025-06-13
+* [Pull Request] [deps: up `x` deps](https://github.com/erigontech/erigon/pull/15562) - 2025-06-13
+* [Commit] [exec: revert some removed `if`  (#15546)](https://github.com/erigontech/erigon/commit/8162331048088bbd5941b9efbec80331679ab4b8) - 2025-06-13
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

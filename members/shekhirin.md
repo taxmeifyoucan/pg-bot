@@ -297,6 +297,7 @@ Team: Reth
 * [Commit] [optional cache, bump alloy-trie](https://github.com/paradigmxyz/reth/commit/b50ff52a64b9e9a37349e28f6d4d2345a8cc960b) - 2025-06-12
 * [Commit] [optional cache, bump alloy-trie](https://github.com/paradigmxyz/reth/commit/9ef928dfca2f924a055c603748d1a04fab5fbf47) - 2025-06-12
 * [Commit] [optional cache, bump alloy-trie](https://github.com/paradigmxyz/reth/commit/25be031cf785ea2080b4a1344d66c8007b2a0898) - 2025-06-12
+* [Commit] [query without insertion](https://github.com/paradigmxyz/reth/commit/e737b7f90892affd6a64524fc9b669f11227ca54) - 2025-06-13
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
