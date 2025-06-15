@@ -429,6 +429,12 @@ Team: Reth
 * [Issue] [Implement alloy network for EthereumNode and OpNode](https://github.com/paradigmxyz/reth/issues/16798) - 2025-06-13
 * [Commit] [chore: re-export network types (#16789)](https://github.com/paradigmxyz/reth/commit/f01f31a40e1e1c85d3dd3031537534ee58cd2f6a) - 2025-06-13
 * [Pull Request] [chore: bump inspectors 0.24](https://github.com/paradigmxyz/reth/pull/16797) - 2025-06-13
+* [Commit] [docs: document transaction flow into the pool (#16777)](https://github.com/paradigmxyz/reth/commit/82e99880491b8b7a6847995bd9769cc0b12ea138) - 2025-06-14
+* [Issue] [Remove BlockchainTreePendingStateProvider trait and impls](https://github.com/paradigmxyz/reth/issues/16813) - 2025-06-14
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/cec20c7f3cdf6ab5559e8d7998d519c9d999f951) - 2025-06-14
+* [Commit] [docs: add error type paths to transaction pool common errors section](https://github.com/paradigmxyz/reth/commit/da65ed4747237772640ac55900de21c989e4c112) - 2025-06-14
+* [Commit] [feat: add to_message convenience method to BlockRangeInfo (#16778)](https://github.com/paradigmxyz/reth/commit/f057ad5c135f994266ca35768f9e07388d53486e) - 2025-06-14
+* [Commit] [fix: typo in test comment (#16811)](https://github.com/paradigmxyz/reth/commit/4a401e18026c3d6307091693dbc8035948a3bf45) - 2025-06-14
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

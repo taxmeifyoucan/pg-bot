@@ -22,3 +22,4 @@ Team: Ipsilon
 * [Commit] [cmd/evm: Hotfix. Disable new tests `evm` for Windows built. (#14981)](https://github.com/erigontech/erigon/commit/1057dc741c4932aa1f3be5985ef5d6b263b27577) - 2025-05-14
 * [Commit] [fix indexing count (#15047)](https://github.com/erigontech/erigon/commit/21804ea77a411dd78b778df9e10a02bdcdd57218) - 2025-05-15
 * [Commit] [cmd/evm: Refactor evm test.](https://github.com/erigontech/erigon/commit/c4333f9ca45254a291a557ee1a0be395072c64bb) - 2025-05-15
+* [Commit] [Use affine coordinates for bn254 point addition.](https://github.com/erigontech/erigon/commit/38ac0d6c1e6ad13c990281aa5a51fe666a5a1203) - 2025-06-14

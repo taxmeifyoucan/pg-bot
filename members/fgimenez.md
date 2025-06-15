@@ -186,6 +186,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [chore: pin hive and add test to expected failures](https://github.com/paradigmxyz/reth/commit/60551d4c1b3fa316af34ed444d85d54f4e6f647d) - 2025-06-12
 * [Commit] [chore: pin hive and add test to expected failures](https://github.com/paradigmxyz/reth/commit/fcc0c07ffa1ebfa3c82448ce7d3377d2509cdd77) - 2025-06-12
 * [Pull Request] [chore: fix hive unexpected test filter](https://github.com/paradigmxyz/reth/pull/16782) - 2025-06-12
+* [Commit] [bump alloy](https://github.com/paradigmxyz/reth/commit/601672e756e64c9d8d76f994e860908673847b56) - 2025-06-14
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -80,6 +80,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [beacon api: Stream event for data column sidecar](https://github.com/OffchainLabs/prysm/commit/f8c403368187c697778ff36dfb1c5b4a8e610e15) - 2025-06-07
 * [Commit] [Add Light Client Mainnet Spec Tests (#15295)](https://github.com/OffchainLabs/prysm/commit/1dea6857d50484145af49fdbf9c82739e1d478dd) - 2025-06-09
 * [Commit] [moving web flag to feature (#15382)](https://github.com/OffchainLabs/prysm/commit/e569df5ebc21dac87cbbe3bd9bfbf1dea90295a3) - 2025-06-08
+* [Pull Request] [Fix blob topic peer count metric](https://github.com/OffchainLabs/prysm/pull/15412) - 2025-06-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Update fulu p2p spec for BPO](https://github.com/ethereum/consensus-specs/issues/4331) - 2025-05-19
 ## Q1 2025

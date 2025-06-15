@@ -34,3 +34,4 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpcdaemon: ots_getContractCreator() add check on tracer.found()](https://github.com/erigontech/erigon/pull/15405) - 2025-06-02
 * [Pull Request] [rpcdaemon:  use api. header getter api](https://github.com/erigontech/erigon/pull/15496) - 2025-06-08
 * [Pull Request] [erigon: set default channel size to 8192](https://github.com/erigontech/erigon/pull/15495) - 2025-06-08
+* [Pull Request] [qa-integration: Update rpc test to fix parity list storage keys fails](https://github.com/erigontech/erigon/pull/15573) - 2025-06-14

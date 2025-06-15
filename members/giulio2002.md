@@ -235,6 +235,9 @@ Team: Erigon
 * [Commit] [params: version 3.1.0-dev (#13782)](https://github.com/erigontech/erigon/commit/03ea71633743b193b96732bd94a3bdca4a75fe15) - 2025-06-03
 
 * [Pull Request] [Add CLZ opcode](https://github.com/erigontech/erigon/pull/15532) - 2025-06-11
+* [Pull Request] [E3: Use unbounded MDBX for Engine downloader](https://github.com/erigontech/erigon/pull/15575) - 2025-06-14
+* [Commit] [Fix potential bug for expected withdrawals (#15525)](https://github.com/erigontech/erigon/commit/d78342cf37fbd48ba836267f72cb25dbf9ec2e40) - 2025-06-14
+* [Commit] [[r30] caplin: fix safe block hash in fork choice update (#15563)](https://github.com/erigontech/erigon/commit/09ebf503f238dd4be7a06337e899014877d9e427) - 2025-06-14
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 

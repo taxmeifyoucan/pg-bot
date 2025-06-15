@@ -190,6 +190,13 @@ Team: Erigon
 * [Commit] [added changes sets](https://github.com/erigontech/erigon/commit/3437a47a925ec6fa8f234c490d9d7aadff54ddf2) - 2025-06-08
 * [Commit] [diagnostics - sender info (#14794)](https://github.com/erigontech/erigon/commit/7a428435b4edf0256334adad635d8a984d5c6cd4) - 2025-06-09
 * [Commit] [fix compile error](https://github.com/erigontech/erigon/commit/3341b9ee3656366fd3a135dbf66615a1b0308edc) - 2025-06-12
+* [Commit] [post merge fix](https://github.com/erigontech/erigon/commit/9c5416366faa2a778f116190ede4e4b242825d87) - 2025-06-14
+* [Commit] [reenable tracing](https://github.com/erigontech/erigon/commit/e95c93bc9646dadd70d13d7b4bb91be2d28ffca2) - 2025-06-14
+* [Commit] [core/state: fix missed part in test, for failing linter (#15421)](https://github.com/erigontech/erigon/commit/c8b8921b2037e9eafc4f0da4cd045ad9927e7787) - 2025-06-14
+* [Pull Request] [Remove hidden malloc calls](https://github.com/erigontech/erigon/pull/15579) - 2025-06-14
+* [Pull Request] [Cherry Pick: Set code signer to handle bhilai code signing](https://github.com/erigontech/erigon/pull/15578) - 2025-06-14
+* [Pull Request] [Set code signer bhilaiases to hanlde bhilai code signing](https://github.com/erigontech/erigon/pull/15577) - 2025-06-14
+* [Pull Request] [Set code signer bhilai](https://github.com/erigontech/erigon/pull/15576) - 2025-06-14
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

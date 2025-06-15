@@ -66,3 +66,4 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Issue] [Panic during history pruning](https://github.com/erigontech/erigon/issues/15502) - 2025-06-09
 * [Pull Request] [caplin: fix safe block hash in fork choice update](https://github.com/erigontech/erigon/pull/15557) - 2025-06-12
 * [Pull Request] [[r30] caplin: fix safe block hash in fork choice update](https://github.com/erigontech/erigon/pull/15563) - 2025-06-13
+* [Commit] [caplin: fix safe block hash in fork choice update (#15557)](https://github.com/erigontech/erigon/commit/0d1f7983fc35a94d7ab616e5fd788d40942489f1) - 2025-06-14

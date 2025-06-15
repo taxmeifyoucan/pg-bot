@@ -171,6 +171,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(github): fix evmone building on same machine](https://github.com/ethereum/execution-spec-tests/commit/c2c5667cad0466012cfb393b208b42c71d9f8386) - 2025-06-13
 * [Pull Request] [fix(tests): Fix test_worst_selfdestruct_created](https://github.com/ethereum/execution-spec-tests/pull/1741) - 2025-06-13
 * [Commit] [fix(filler): fix shared-pre-state generation (#1738)](https://github.com/ethereum/execution-spec-tests/commit/0c70094034175c9d253c71f3548d680d64ace818) - 2025-06-13
+* [Commit] [refactor: optimize jumpdest test case (#1732)](https://github.com/ethereum/execution-spec-tests/commit/43e710c34e40c9ac6ce3e22a8206571bfed2cdd7) - 2025-06-14
+* [Commit] [fix(tests): Fix test_worst_selfdestruct_created (#1741)](https://github.com/ethereum/execution-spec-tests/commit/9c75235581a4af8c3e12174b98c83cd9acc8df89) - 2025-06-14
+* [Commit] [Update tests/zkevm/test_worst_stateful_opcodes.py](https://github.com/ethereum/execution-spec-tests/commit/ede762f018c99cede5e07ac6f9c31b4ed097c3ad) - 2025-06-14
+* [Commit] [fix: test_worst_selfdestruct_existing](https://github.com/ethereum/execution-spec-tests/commit/e4cc4b8225ba22a57c8e5b8e816a83e8ddca509b) - 2025-06-14
+* [Commit] [fix: test_worst_selfdestruct_existing](https://github.com/ethereum/execution-spec-tests/commit/bd645affc48551f9f970ca004796a9b380532112) - 2025-06-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

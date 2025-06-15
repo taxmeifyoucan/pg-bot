@@ -93,3 +93,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Issue] [Nimbus-eth1 fails to connect to bootstrap nodes due to encryption/decryption errors](https://github.com/status-im/nimbus-eth1/issues/3396) - 2025-06-13
 * [Commit] [fix unwanted ECC Points](https://github.com/status-im/nimbus-eth1/commit/8a3970b8dbb1c9e7a9c9bcffd687988a764d7f56) - 2025-06-13
 * [Pull Request] [add CLZ opcode](https://github.com/status-im/nimbus-eth1/pull/3394) - 2025-06-13
+* [Issue] [Berlinterop Cleanup](https://github.com/status-im/nimbus-eth1/issues/3404) - 2025-06-14

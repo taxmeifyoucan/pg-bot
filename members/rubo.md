@@ -71,6 +71,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add missing `if` statement](https://github.com/NethermindEth/nethermind/commit/380ecc0ac605fe4f2f52bb033b8caa386ce53c03) - 2025-06-12
 * [Commit] [Embed debug symbols into distribution package](https://github.com/NethermindEth/nethermind/commit/c090d5330be03b5e08eccc1121ffa6cfa3b59fdb) - 2025-06-12
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/0e4f92b5ccb7f630926303458071d8b211a4db8c) - 2025-06-12
+* [Commit] [Update Nethermind.Crypto.SecP256k1 package](https://github.com/NethermindEth/nethermind/commit/fc8cd8772362d4663ece07955ef314e49645f5f1) - 2025-06-14
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
