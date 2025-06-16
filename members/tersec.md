@@ -171,6 +171,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [attempt to work around Ubuntu 22.04/recent AMD build issues related to secp256k1](https://github.com/status-im/nimbus-eth2/pull/7228) - 2025-06-12
 * [Commit] [re-enable builder API circuit breaker on all almost all networks (#7236)](https://github.com/status-im/nimbus-eth2/commit/295f99ca31c210ab3c082a73f29646a01e88db3c) - 2025-06-13
 * [Commit] [use EF consensus spec tests v1.6.0-alpha.2-hotfix.0 (#7229)](https://github.com/status-im/nimbus-eth2/commit/02029b68bc19da40dc26e19a8f0a962a69639318) - 2025-06-13
+* [Commit] [Bump nim-blscurve to bcfb3e77a2c5e1a02611ee4d03f3a655fe902eb1 (#7238)](https://github.com/status-im/nimbus-eth2/commit/564cdae96eb8cafbdb4660192a73e71ac47bff68) - 2025-06-15
+* [Commit] [Bump nim-sqlite3-abi to v3.50.1.0 (#7240)](https://github.com/status-im/nimbus-eth2/commit/a579bbbad076c8c9e1dbba5c84fe78f8716fa901) - 2025-06-15
+* [Commit] [Bump nim-testutils to v0.7.0 (#7239)](https://github.com/status-im/nimbus-eth2/commit/1041c846362051b941b908fa0a0635dcfd36a602) - 2025-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

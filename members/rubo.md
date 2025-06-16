@@ -72,6 +72,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Embed debug symbols into distribution package](https://github.com/NethermindEth/nethermind/commit/c090d5330be03b5e08eccc1121ffa6cfa3b59fdb) - 2025-06-12
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/0e4f92b5ccb7f630926303458071d8b211a4db8c) - 2025-06-12
 * [Commit] [Update Nethermind.Crypto.SecP256k1 package](https://github.com/NethermindEth/nethermind/commit/fc8cd8772362d4663ece07955ef314e49645f5f1) - 2025-06-14
+* [Commit] [Disable pacing](https://github.com/NethermindEth/nethermind/commit/447039fa52ca936b43a08d4c834712c7bb8479e7) - 2025-06-15
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

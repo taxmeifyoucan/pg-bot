@@ -189,6 +189,8 @@ Team: Erigon
 * [Commit] [Add CLZ opcode (#15532)](https://github.com/erigontech/erigon/commit/502af46efcd8b89fb4efcc8d4a7cf9b9d07dcca5) - 2025-06-13
 * [Commit] [Fix potential bug for expected withdrawals (#15525)](https://github.com/erigontech/erigon/commit/d78342cf37fbd48ba836267f72cb25dbf9ec2e40) - 2025-06-13
 * [Commit] [Add P256Verify for osaka and implement EIP-7951 (#15519)](https://github.com/erigontech/erigon/commit/1d5bbd65dfc8a7b457666379c86f17030371be34) - 2025-06-13
+* [Commit] [Clean](https://github.com/erigontech/erigon/commit/f79cebbce389e3a5c0a458abb5103776c94e3b3d) - 2025-06-15
+* [Commit] [Remove hidden malloc calls (#15579)](https://github.com/erigontech/erigon/commit/148cade2e87192aa634da44b3410776262ee45e3) - 2025-06-15
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

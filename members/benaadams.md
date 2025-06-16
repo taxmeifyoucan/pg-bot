@@ -328,6 +328,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Sync with master (#8780)](https://github.com/NethermindEth/nethermind/commit/f91f4033284841d2f82682ef838dd198b6361677) - 2025-06-13
 * [Pull Request] [Sync with master](https://github.com/NethermindEth/nethermind/pull/8780) - 2025-06-13
 * [Commit] [Remove txPool contention from block validation (#8779)](https://github.com/NethermindEth/nethermind/commit/5a5e6f8f6af36135dd4ad15c94a6366a56ef83d4) - 2025-06-13
+* [Pull Request] [Move high volume logs from Debug to Trace](https://github.com/NethermindEth/nethermind/pull/8789) - 2025-06-15
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

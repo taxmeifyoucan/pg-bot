@@ -162,6 +162,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/68bc0013e48d693375068218b8cbcce093746c0b) - 2025-06-14
 * [Commit] [update](https://github.com/erigontech/erigon/commit/e91972ea2887302ec44d75e75f6a4478f6560ae9) - 2025-06-14
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/b4e6bd893fa78bd380f489ff3e1cbc1f463b0aae) - 2025-06-14
+* [Commit] [update](https://github.com/erigontech/erigon/commit/a9e4dc39291cba33f51be523e247f19173ea1266) - 2025-06-15
+* [Commit] [Update cl/persistence/genesisdb/genesis_db.go](https://github.com/erigontech/erigon/commit/928b9111bfdafd6bfadf5062f84bf0a5486e9218) - 2025-06-15
+* [Commit] [update](https://github.com/erigontech/erigon/commit/98cb3b2c732e6b54512abbe229d9ed37aa7c63b5) - 2025-06-15
+* [Commit] [Change `bn256Add` to use consensys gnark-bn254 lib (#15555)](https://github.com/erigontech/erigon/commit/4043ae3ab95f552865f87321429faf1c09576aaa) - 2025-06-15
+* [Commit] [update naming](https://github.com/erigontech/erigon/commit/8aa6d07f2b82887936458081dd286d6c41e3068c) - 2025-06-15
+* [Commit] [update](https://github.com/erigontech/erigon/commit/025a466cb10c813d5cc6f1aab23fddd770390bf7) - 2025-06-15
+* [Commit] [update](https://github.com/erigontech/erigon/commit/93736fd2be9c634f6bb59b2fdf04b348efeb87ce) - 2025-06-15
+* [Commit] [fix test](https://github.com/erigontech/erigon/commit/8934ac272467cb388bdf0f970e0acde8af3a48bb) - 2025-06-15
+* [Commit] [update](https://github.com/erigontech/erigon/commit/44987205fa50eae07da46a23f585f59b088b1ed4) - 2025-06-15
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

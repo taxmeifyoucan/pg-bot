@@ -35,3 +35,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpcdaemon:  use api. header getter api](https://github.com/erigontech/erigon/pull/15496) - 2025-06-08
 * [Pull Request] [erigon: set default channel size to 8192](https://github.com/erigontech/erigon/pull/15495) - 2025-06-08
 * [Pull Request] [qa-integration: Update rpc test to fix parity list storage keys fails](https://github.com/erigontech/erigon/pull/15573) - 2025-06-14
+* [Commit] [lint fix](https://github.com/erigontech/erigon/commit/c6053ea31f1eb20d5107a4261518fb09963d3434) - 2025-06-15
+* [Commit] [combine two append](https://github.com/erigontech/erigon/commit/5731a0148d9342ff3ff02fe12e0940a94a97e910) - 2025-06-15
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/08cf177ada85972da2d91888a139e6a2b5afd484) - 2025-06-15
+* [Pull Request] [rpcdaemon/erigon modify compression default config](https://github.com/erigontech/erigon/pull/15583) - 2025-06-15
+* [Commit] [print_stages: print min/max step (or txnum) per each domain (#15533)](https://github.com/erigontech/erigon/commit/0e89d7fc8e4bfb8cf237116be4768d108cee5015) - 2025-06-15

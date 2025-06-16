@@ -58,6 +58,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-nat-traversal to 981821197e839dc0544fe49c58e0da3f8a6104bf](https://github.com/status-im/nimbus-eth2/pull/7202) - 2025-05-28
 * [Pull Request] [Bump hoodi, chronicles, metrics, results (no functional changes)](https://github.com/status-im/nimbus-eth2/pull/7201) - 2025-05-28
 
+* [Commit] [Add vanity log for Fulu transition and BPO update](https://github.com/status-im/nimbus-eth2/commit/db91b24701aac97f6bd9f2b963d9a920cc13cfc0) - 2025-06-15
+* [Pull Request] [Add vanity log for Fulu transition and BPO update](https://github.com/status-im/nimbus-eth2/pull/7241) - 2025-06-15
+* [Commit] [Add vanity log for Fulu transition and BPO update](https://github.com/status-im/nimbus-eth2/commit/18c1c9e35d5e49d962c6119846caad060905bc8d) - 2025-06-15
+* [Pull Request] [Bump nim-sqlite3-abi to v3.50.1.0](https://github.com/status-im/nimbus-eth2/pull/7240) - 2025-06-15
+* [Pull Request] [Bump nim-testutils to v0.7.0](https://github.com/status-im/nimbus-eth2/pull/7239) - 2025-06-15
+* [Pull Request] [Bump nim-blscurve to bcfb3e77a2c5e1a02611ee4d03f3a655fe902eb1](https://github.com/status-im/nimbus-eth2/pull/7238) - 2025-06-15
+* [Pull Request] [Add /eth/v1/debug/beacon/data_column_sidecars/{block_id}](https://github.com/status-im/nimbus-eth2/pull/7237) - 2025-06-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Do not wrap long lines in `config.yaml` files](https://github.com/ethereum/consensus-specs/pull/4379) - 2025-06-12
 ## Q1 2025

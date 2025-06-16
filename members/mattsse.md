@@ -435,6 +435,10 @@ Team: Reth
 * [Commit] [docs: add error type paths to transaction pool common errors section](https://github.com/paradigmxyz/reth/commit/da65ed4747237772640ac55900de21c989e4c112) - 2025-06-14
 * [Commit] [feat: add to_message convenience method to BlockRangeInfo (#16778)](https://github.com/paradigmxyz/reth/commit/f057ad5c135f994266ca35768f9e07388d53486e) - 2025-06-14
 * [Commit] [fix: typo in test comment (#16811)](https://github.com/paradigmxyz/reth/commit/4a401e18026c3d6307091693dbc8035948a3bf45) - 2025-06-14
+* [Commit] [chore: removed legacy.rs (#16817)](https://github.com/paradigmxyz/reth/commit/9dcea7c3fa2c1985db40388ea870fe7a3de92cb3) - 2025-06-15
+* [Commit] [feat(op): export OpEthApiBuilder from reth-optimism-rpc (#16815)](https://github.com/paradigmxyz/reth/commit/746e80c819b4e1d1d48dcaf4c422e30ac2ad99b0) - 2025-06-15
+* [Commit] [fix leftover](https://github.com/paradigmxyz/reth/commit/3433dd7045b20326236e2f8ac14904653a1f0720) - 2025-06-15
+* [Commit] [Remove deprecated trait implementations](https://github.com/paradigmxyz/reth/commit/129603e22eaf0a77eb684dfbf0f488143b0db2f7) - 2025-06-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

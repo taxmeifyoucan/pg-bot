@@ -2529,6 +2529,41 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9983d30dd14a0ec5708435947e4078323bba45a9) - 2025-06-14
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8143ab0fab961d8d9d00150ea467110cb09dd641) - 2025-06-14
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f9b012ca7b1fe9c8874c5442fb56229c420fe0d7) - 2025-06-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dfa1cc28142912e79dd61489a174c5215888d890) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8c758b25329040d5552ca70f1a154d97d9ffbcbb) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/19c72256eef913788c01b61018e51df07e3f9476) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f1c0e55f073faa6e29efa8710b4bcc78fde9af29) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1f57716ae238e9d381fc60478f9c6c9ea74b6e27) - 2025-06-15
+* [Issue] [add hoodi chain to `erigon-snapshots` and erigon's stage_snapshots](https://github.com/erigontech/erigon/issues/15586) - 2025-06-15
+* [Pull Request] [state: valTransform test - disable if need  ](https://github.com/erigontech/erigon/pull/15584) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9c6d58a7d80c423645bb1a636aa6f2cc71e2b86b) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/11cae61fb42fbe35e8ab9bef3dc20069ad62c8e1) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ea86855a724a77f9e016e899e2684967d3ee3381) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cae716a437751b5f7d721b65c0199e13f853553a) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7c2c49ff7ff9b6dbea36ed41d2ce1a8f1f489591) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6af8d2f135932da7ed6ab25f6c9a84a603282865) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f1f0138429ccb6e8bfd56cc6e86c7ba1cecb8a6a) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/596c4d96571fd2f57141399b1d693c5cbb3e0fb2) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/57bcb211959185e0c5e672809570eeed42dff67c) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/59c3b5d52b09e38b68e41ac699dcdaa9f7795de8) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b63bae167f50e7107694ac9792c6aa3646616b5e) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e69e0537ee7259a1cebfa559ce41ba325711298c) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ba5c202340b662539f04babf9da6ad9227ff793e) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eb5fb411e065669aeb24a52d50e2efabc88a3d2d) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2c8aea47651e7409c4cb85c311f7b762b1ddb319) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9361362185c48ce8312b7a29fad0b4a75e8aa1fd) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/debc88f2709ac1033dd89f00c48f2a7c2480c226) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/89fe2a0cc1a631162bff491c7924a410ab1b82b4) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/27881dc529cad312d712c77e8c7605f531d33f34) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0e6763d1f75599d947dcb6cd8c2387717220f957) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7d111c079db1c7afc481983e2a8a82d500587ebf) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ad7402c92e6588f50efdeb26abb72c161c2fd1d1) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3255556e6d3b3e031b1a4a1cf6adc6005a945da3) - 2025-06-15
+* [Pull Request] [Update README.md](https://github.com/erigontech/erigon/pull/15582) - 2025-06-15
+* [Commit] [engineapi, txpool: implement getBlobsV2 (#15420)](https://github.com/erigontech/erigon/commit/824f3faaca4d2cb0d7fe85c5fa25165a3f54b68a) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a3ca8f6436725c534ddbb1b04023bfb98b3d6843) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6fc56e9cb793591b5f0d0b7a95022924a755d08f) - 2025-06-15
+* [Commit] [rpc: return empty code for store out-of-gas in CREATE calls (#15581)](https://github.com/erigontech/erigon/commit/f8a78f07268d82071e878a5086be5d1316fec3be) - 2025-06-15
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

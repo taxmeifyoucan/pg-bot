@@ -176,6 +176,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Update tests/zkevm/test_worst_stateful_opcodes.py](https://github.com/ethereum/execution-spec-tests/commit/ede762f018c99cede5e07ac6f9c31b4ed097c3ad) - 2025-06-14
 * [Commit] [fix: test_worst_selfdestruct_existing](https://github.com/ethereum/execution-spec-tests/commit/e4cc4b8225ba22a57c8e5b8e816a83e8ddca509b) - 2025-06-14
 * [Commit] [fix: test_worst_selfdestruct_existing](https://github.com/ethereum/execution-spec-tests/commit/bd645affc48551f9f970ca004796a9b380532112) - 2025-06-14
+* [Commit] [fix(tests): Add coverage_missed_reason to identity precompile tests](https://github.com/ethereum/execution-spec-tests/commit/a1229d75cd2a62468d937a7f79c06cd1590d5d0e) - 2025-06-15
+* [Pull Request] [feat(filler): Add `coverage_missed_reason` keyword arguemtn to `ported_from` marker](https://github.com/ethereum/execution-spec-tests/pull/1746) - 2025-06-15
+* [Commit] [feat(ci): Add flag to coverage script](https://github.com/ethereum/execution-spec-tests/commit/7e794f14a533f8cd6e0f331c9ad542f65894973a) - 2025-06-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

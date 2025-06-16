@@ -238,6 +238,11 @@ Team: Erigon
 * [Pull Request] [E3: Use unbounded MDBX for Engine downloader](https://github.com/erigontech/erigon/pull/15575) - 2025-06-14
 * [Commit] [Fix potential bug for expected withdrawals (#15525)](https://github.com/erigontech/erigon/commit/d78342cf37fbd48ba836267f72cb25dbf9ec2e40) - 2025-06-14
 * [Commit] [[r30] caplin: fix safe block hash in fork choice update (#15563)](https://github.com/erigontech/erigon/commit/09ebf503f238dd4be7a06337e899014877d9e427) - 2025-06-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/84c95061a3b53ab0a922e9911fc6e483f9e85fbc) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8684922bb71e724320cd89984f7d1891f3649fad) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/787162efedc03b4f7e0e8ec7ac23ec195b49555d) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3f03f79df2bb0a4ea879233821b3bd7404f1188e) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/424df58a6740a7a60df0033908751e29e37b3f6d) - 2025-06-15
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 
