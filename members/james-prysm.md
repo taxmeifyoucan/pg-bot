@@ -118,6 +118,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [beacon api: Stream event for data column sidecar (#15387)](https://github.com/OffchainLabs/prysm/commit/6087875da526ac5e20df09881ad082048443db42) - 2025-06-11
 * [Commit] [fixing tests](https://github.com/OffchainLabs/prysm/commit/c19f6875db7e391ac94207f65230cc0bda774bb9) - 2025-06-11
 * [Commit] [renaming json rest handler, and adding in usage of use ssz debug flag](https://github.com/OffchainLabs/prysm/commit/2c5f2afc1553cea1b63c4883eb3ecbe00d895989) - 2025-06-12
+* [Commit] [fixing mistake on max health checks](https://github.com/OffchainLabs/prysm/commit/97c9d86c654d25d58d9ee92776b7443a0912a78d) - 2025-06-16
+* [Commit] [fixing name based on feedback](https://github.com/OffchainLabs/prysm/commit/3ee65736262666737fa9222c57b2c5cf07127357) - 2025-06-16
+* [Commit] [addressing some more feedback](https://github.com/OffchainLabs/prysm/commit/f917da033a3bd9bcad639778a8110e43c5c4f993) - 2025-06-16
+* [Commit] [addressing some feedback from radek](https://github.com/OffchainLabs/prysm/commit/12e80ecaa4321154b0e76ecece0e12ebc3422e0e) - 2025-06-16
+* [Commit] [Fix blob peer count metric (#15412)](https://github.com/OffchainLabs/prysm/commit/2a3876427faa1eda31eb70b1794f571a8aacde47) - 2025-06-16
+* [Commit] [Update validator/client/runner.go](https://github.com/OffchainLabs/prysm/commit/07f0457bbc8e61921ad28c83e495e314782ed744) - 2025-06-16
+* [Commit] [Update validator/client/runner.go](https://github.com/OffchainLabs/prysm/commit/b5b27e92724b2664e0720d1ea30b69010cebd747) - 2025-06-16
+* [Commit] [Update validator/client/service.go](https://github.com/OffchainLabs/prysm/commit/1b79e62a4412a2abe3924892e1bf6e6aa110866c) - 2025-06-16
+* [Commit] [Update validator/client/runner.go](https://github.com/OffchainLabs/prysm/commit/e0cc18728e6ba2719c8de9cd9d79f2a4704861bf) - 2025-06-16
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

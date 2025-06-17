@@ -299,6 +299,8 @@ Team: Reth
 * [Commit] [optional cache, bump alloy-trie](https://github.com/paradigmxyz/reth/commit/25be031cf785ea2080b4a1344d66c8007b2a0898) - 2025-06-12
 * [Commit] [query without insertion](https://github.com/paradigmxyz/reth/commit/e737b7f90892affd6a64524fc9b669f11227ca54) - 2025-06-13
 * [Commit] [perf(engine): prewarm transactions in descending gas limit order](https://github.com/paradigmxyz/reth/commit/6ee8ad083f8865150b5f84b96e5c545ec228786b) - 2025-06-14
+* [Commit] [chore: re-export more op types (#16788)](https://github.com/paradigmxyz/reth/commit/217289af6f58647af9011be01bd0592abdc5b844) - 2025-06-16
+* [Commit] [revertme: disable precompile cache](https://github.com/paradigmxyz/reth/commit/9c70216e0eae36965edeefbf05669f9a8f56c344) - 2025-06-16
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

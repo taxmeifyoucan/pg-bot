@@ -272,6 +272,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ef2c14882c7de5c67f74b2f4ef5f5fb08fdb5a67) - 2025-06-13
 * [Commit] [save](https://github.com/erigontech/erigon/commit/5028329288595c5cc8d44e486ad6e1dceecabde1) - 2025-06-13
 * [Issue] [unit test: higher level ii/history integrity checker](https://github.com/erigontech/erigon/issues/15561) - 2025-06-13
+* [Issue] [rpc tests for remote (relying on private api) configuration](https://github.com/erigontech/erigon/issues/15608) - 2025-06-16
+* [Commit] [state: valTransform test - disable if need   (#15584)](https://github.com/erigontech/erigon/commit/f0ec7157c49ba58c2a19e9aabcfc3b544acf4d34) - 2025-06-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/01169a1a6365d87124e3dd433395154d730822f4) - 2025-06-16
+* [Pull Request] [E3/findblocknum3](https://github.com/erigontech/erigon/pull/15599) - 2025-06-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ff7a09f4e8898c02c3b0f2f96574098665ace7fc) - 2025-06-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/83b058a24419d684641a7a9ea967e32cb72d5170) - 2025-06-16
+* [Issue] [DHII interface evolution](https://github.com/erigontech/erigon/issues/15598) - 2025-06-16
+* [Pull Request] [wip: findblocknum](https://github.com/erigontech/erigon/pull/15597) - 2025-06-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fc416175a100b0c2815a4924b241ac42de7767a5) - 2025-06-16
+* [Commit] [qa_integration: update rpc integration (#15524)](https://github.com/erigontech/erigon/commit/32efafebebaf76c8f02a9d73399322298b9fe293) - 2025-06-16
+* [Issue] [add TxBlockIndex as gettable from BlockReader interface](https://github.com/erigontech/erigon/issues/15593) - 2025-06-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

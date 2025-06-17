@@ -65,6 +65,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-testutils to v0.7.0](https://github.com/status-im/nimbus-eth2/pull/7239) - 2025-06-15
 * [Pull Request] [Bump nim-blscurve to bcfb3e77a2c5e1a02611ee4d03f3a655fe902eb1](https://github.com/status-im/nimbus-eth2/pull/7238) - 2025-06-15
 * [Pull Request] [Add /eth/v1/debug/beacon/data_column_sidecars/{block_id}](https://github.com/status-im/nimbus-eth2/pull/7237) - 2025-06-15
+* [Commit] [Fix compilation](https://github.com/status-im/nimbus-eth2/commit/20a8bf0c7d84a4ff6ead6cfa28e889cbfe5cd76c) - 2025-06-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Do not wrap long lines in `config.yaml` files](https://github.com/ethereum/consensus-specs/pull/4379) - 2025-06-12
 ## Q1 2025

@@ -59,6 +59,7 @@ Team: Erigon
 * [Commit] [dummy](https://github.com/erigontech/erigon/commit/15f253a4813cfdadefe3b35916cfbf2c44461be6) - 2025-06-06
 * [Commit] [dummy](https://github.com/erigontech/erigon/commit/67c447255e2e0cadf2635369bd3f387f3331368c) - 2025-06-06
 * [Pull Request] [qa-tests: avoid running clean-exit on the rpc specific runner](https://github.com/erigontech/erigon/pull/15545) - 2025-06-12
+* [Pull Request] [qa-tests: add test report implementation](https://github.com/erigontech/erigon/pull/15607) - 2025-06-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

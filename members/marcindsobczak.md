@@ -36,6 +36,7 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [Improve JumpDest analysis (#8725)](https://github.com/NethermindEth/nethermind/commit/445670827c427ad21d4a174fbe42805c2ad654d2) - 2025-06-06
 * [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/8be50023d649ff1d65bfeba4755bd1e561fbd779) - 2025-06-10
 * [Pull Request] [Add flag for persistent broadcast](https://github.com/NethermindEth/nethermind/pull/8752) - 2025-06-10
+* [Commit] [disable precompile cache](https://github.com/NethermindEth/nethermind/commit/9a657609b6885c6c5030b392b438c9d5c72db515) - 2025-06-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7883: Add reference implementation](https://github.com/ethereum/EIPs/pull/9645) - 2025-04-15
 ## Q1 2025

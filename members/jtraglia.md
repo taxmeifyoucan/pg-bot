@@ -126,6 +126,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Make more updates to eip7732 spec](https://github.com/ethereum/consensus-specs/commit/c2b5239fc3a0bb1520189b45d93761984de24be3) - 2025-06-13
 * [Commit] [Update eip7732 specs](https://github.com/ethereum/consensus-specs/commit/fd5b507d5c88bf89e7a2bc6fe653676023e62062) - 2025-06-13
 * [Issue] [Spec for unfinalized checkpoint sync](https://github.com/ethereum/consensus-specs/issues/4382) - 2025-06-13
+* [Issue] [Replace mypy with ty](https://github.com/ethereum/consensus-specs/issues/4383) - 2025-06-16
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 

@@ -187,6 +187,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [chore: pin hive and add test to expected failures](https://github.com/paradigmxyz/reth/commit/fcc0c07ffa1ebfa3c82448ce7d3377d2509cdd77) - 2025-06-12
 * [Pull Request] [chore: fix hive unexpected test filter](https://github.com/paradigmxyz/reth/pull/16782) - 2025-06-12
 * [Commit] [bump alloy](https://github.com/paradigmxyz/reth/commit/601672e756e64c9d8d76f994e860908673847b56) - 2025-06-14
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/11d74f3d7e2749db01fbdca108bc632194abb84d) - 2025-06-16
+* [Pull Request] [feat(test): rewrite test_engine_tree_buffered_blocks_are_eventually_connected using e2e framework](https://github.com/paradigmxyz/reth/pull/16830) - 2025-06-16
+* [Commit] [feat(test): rewrite test_engine_tree_buffered_blocks_are_eventually_connected using e2e framework](https://github.com/paradigmxyz/reth/commit/f22ea79ff512de40a3ec7d6d01fdcc1f26d187d2) - 2025-06-16
+* [Commit] [feat(test): rewrite test_engine_tree_buffered_blocks_are_eventually_connected using e2e framework](https://github.com/paradigmxyz/reth/commit/342b2159da4c75f9a3a01eac64a67dd09cc19221) - 2025-06-16
+* [Commit] [fix: small networking fixes (#16742)](https://github.com/paradigmxyz/reth/commit/1bef0092eedb6a1cd87fd181263fd47bcdcdf4de) - 2025-06-16
+* [Commit] [revert op changes](https://github.com/paradigmxyz/reth/commit/5b9df94bcf0bcb192c47b2fd5e4835114414091d) - 2025-06-16
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

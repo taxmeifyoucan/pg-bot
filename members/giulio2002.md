@@ -243,6 +243,7 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/787162efedc03b4f7e0e8ec7ac23ec195b49555d) - 2025-06-15
 * [Commit] [save](https://github.com/erigontech/erigon/commit/3f03f79df2bb0a4ea879233821b3bd7404f1188e) - 2025-06-15
 * [Commit] [save](https://github.com/erigontech/erigon/commit/424df58a6740a7a60df0033908751e29e37b3f6d) - 2025-06-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a26475201db0b47cf390889890617c548b18cc6a) - 2025-06-16
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 

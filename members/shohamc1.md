@@ -126,6 +126,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Remove Bor Heimdall stage (#15280)](https://github.com/erigontech/erigon/commit/7aaadf248c2acf6a7ce19bef202567b37e871fa2) - 2025-06-02
 * [Commit] [AnnounceBlockRangeLoop test](https://github.com/erigontech/erigon/commit/9bcf830f6dea0e621bc83a5b2f04891490239c85) - 2025-06-02
 * [Commit] [Add test](https://github.com/erigontech/erigon/commit/d255f1c9c8acc8e5bce4d3c2942826bce5b72019) - 2025-06-02
+* [Commit] [Fixed heimdall v2 responses (#15571)](https://github.com/erigontech/erigon/commit/710e747a405e90a9faf9798faee5869339cf7548) - 2025-06-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

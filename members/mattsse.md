@@ -439,6 +439,14 @@ Team: Reth
 * [Commit] [feat(op): export OpEthApiBuilder from reth-optimism-rpc (#16815)](https://github.com/paradigmxyz/reth/commit/746e80c819b4e1d1d48dcaf4c422e30ac2ad99b0) - 2025-06-15
 * [Commit] [fix leftover](https://github.com/paradigmxyz/reth/commit/3433dd7045b20326236e2f8ac14904653a1f0720) - 2025-06-15
 * [Commit] [Remove deprecated trait implementations](https://github.com/paradigmxyz/reth/commit/129603e22eaf0a77eb684dfbf0f488143b0db2f7) - 2025-06-15
+* [Issue] [Introduce `fn earliest_block_number` for BlockNumReader](https://github.com/paradigmxyz/reth/issues/16829) - 2025-06-16
+* [Commit] [feat(stages): Add ERA pre-merge history import stage (#16008)](https://github.com/paradigmxyz/reth/commit/3218b3c6371d669a7e5f3421bf4617f23b2bacf9) - 2025-06-16
+* [Commit] [add impl for extended](https://github.com/paradigmxyz/reth/commit/ca47d8b79ac188663b83be363c2c658fc878fe18) - 2025-06-16
+* [Commit] [chore: update op-alloy deps to 0.18.2 and use upstream OpTransaction trait](https://github.com/paradigmxyz/reth/commit/1bd5144252811f4f282baf199fdd4a2eb73a4a4e) - 2025-06-16
+* [Pull Request] [chore: update op-alloy deps to 0.18.2](https://github.com/paradigmxyz/reth/pull/16827) - 2025-06-16
+* [Commit] [fix alloc](https://github.com/paradigmxyz/reth/commit/864bee9fd69a931d453c41b090e91768de384694) - 2025-06-16
+* [Commit] [fix: validate BlockRangeUpdate message per devp2p spec](https://github.com/paradigmxyz/reth/commit/71d85d2a4e9e0e6365ae78eb02719096a65bfa2d) - 2025-06-16
+* [Pull Request] [fix: validate BlockRangeUpdate message per devp2p spec](https://github.com/paradigmxyz/reth/pull/16826) - 2025-06-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

@@ -2564,6 +2564,16 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a3ca8f6436725c534ddbb1b04023bfb98b3d6843) - 2025-06-15
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6fc56e9cb793591b5f0d0b7a95022924a755d08f) - 2025-06-15
 * [Commit] [rpc: return empty code for store out-of-gas in CREATE calls (#15581)](https://github.com/erigontech/erigon/commit/f8a78f07268d82071e878a5086be5d1316fec3be) - 2025-06-15
+* [Commit] [Backport: Fix datadir execution permissions for multi-user setups (#15594) (#15602)](https://github.com/erigontech/erigon/commit/29048c6a3855ca72d76c27d75fb4c3a893bec61c) - 2025-06-16
+* [Commit] [share and use txnumreader cache via blockreader (#15597)](https://github.com/erigontech/erigon/commit/47f89b1ca9a7b817e79653dfa28c3bf74fbc7e75) - 2025-06-16
+* [Commit] [[e30] rchache: don't download `.kv` file by default (#15591)](https://github.com/erigontech/erigon/commit/7f9ec856b9de0f376d0d0c283006b2e3ca7b5302) - 2025-06-16
+* [Commit] [ rchache: don't download `.kv` file by default (#15592)](https://github.com/erigontech/erigon/commit/73912afccb027453e6e0462f9147b372d19c13d6) - 2025-06-16
+* [Commit] [forkable temporaldb integration (#15479)](https://github.com/erigontech/erigon/commit/3af758ed809061053b739cf70bc4aefa1201f04d) - 2025-06-16
+* [Commit] [E3: Use unbounded MDBX for Engine downloader (#15575)](https://github.com/erigontech/erigon/commit/41fb0d9c61a10977752a104f0f199405d0b48653) - 2025-06-16
+* [Pull Request] [ rchache: don't download `.kv` file by default](https://github.com/erigontech/erigon/pull/15592) - 2025-06-16
+* [Pull Request] [[e30] rchache: don't download `.kv` file by default](https://github.com/erigontech/erigon/pull/15591) - 2025-06-16
+* [Issue] [re-visit stage_snapshots preverified logic: it must be white-list instead of black-list to be forward-compatible](https://github.com/erigontech/erigon/issues/15589) - 2025-06-16
+* [Commit] [[r30] madv: high-level (#15139)](https://github.com/erigontech/erigon/commit/3d6ae750c7d3378852872ab5d37a22512710c808) - 2025-06-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

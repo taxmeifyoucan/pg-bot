@@ -54,6 +54,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: build less benchmark binaries (#2629)](https://github.com/bluealloy/revm/commit/0f8081b009b02fc22b59ee1206ad80ad77e9c70c) - 2025-06-13
 * [Commit] [fix: change account state to None if NotExisting on insert_account_info (#2630)](https://github.com/bluealloy/revm/commit/be93995e45dc76065899b2bb9b82cac7a282d129) - 2025-06-13
 * [Commit] [feat(precompile): rug/gmp-based modexp (#2596)](https://github.com/bluealloy/revm/commit/c269d70066223422a34b8f031abe67e43be3b682) - 2025-06-13
+* [Commit] [perf: store coinbase address separately to avoid cloning warm addresses in the common case (#2634)](https://github.com/bluealloy/revm/commit/c66b841dca4c0f093fdb10ce4fccf1b4aa0b9995) - 2025-06-16
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

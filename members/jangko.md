@@ -94,3 +94,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Transaction broadcast breakdown](https://github.com/status-im/nimbus-eth1/pull/3372) - 2025-06-10
 * [Commit] [Remove unused gasEip7702CodeCheck (#3377)](https://github.com/status-im/nimbus-eth1/commit/71153b95910d4eafa5b9afeb7d74cfddff02d3af) - 2025-06-11
 * [Pull Request] [Add missing notification if something happened to era block loader](https://github.com/status-im/nimbus-eth1/pull/3393) - 2025-06-13
+* [Commit] [Copy comments from the spec](https://github.com/status-im/nimbus-eth1/commit/1dbc1f63f4f89767448c6186522d9fb8c825669a) - 2025-06-16
+* [Pull Request] [Rlpx handshake using the latest version of a protocol capabilities](https://github.com/status-im/nimbus-eth1/pull/3406) - 2025-06-16
+* [Commit] [Fix missing return value in addEthHandlerCapability (#3405)](https://github.com/status-im/nimbus-eth1/commit/3c572c49b867e66ebe5bb57992191b0c6ea43631) - 2025-06-16
+* [Pull Request] [Fix missing return value in addEthHandlerCapability](https://github.com/status-im/nimbus-eth1/pull/3405) - 2025-06-16

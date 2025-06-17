@@ -174,6 +174,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Bump nim-blscurve to bcfb3e77a2c5e1a02611ee4d03f3a655fe902eb1 (#7238)](https://github.com/status-im/nimbus-eth2/commit/564cdae96eb8cafbdb4660192a73e71ac47bff68) - 2025-06-15
 * [Commit] [Bump nim-sqlite3-abi to v3.50.1.0 (#7240)](https://github.com/status-im/nimbus-eth2/commit/a579bbbad076c8c9e1dbba5c84fe78f8716fa901) - 2025-06-15
 * [Commit] [Bump nim-testutils to v0.7.0 (#7239)](https://github.com/status-im/nimbus-eth2/commit/1041c846362051b941b908fa0a0635dcfd36a602) - 2025-06-15
+* [Commit] [version v25.6.0](https://github.com/status-im/nimbus-eth2/commit/381a80afe1720d7e43711b760052438c5963c90d) - 2025-06-16
+* [Commit] [nimp nim-ssz-serialization (#7085)](https://github.com/status-im/nimbus-eth2/commit/86a2aa89a423fd2313cb46047511faca2b2c79a0) - 2025-06-16
+* [Commit] [version v25.6.0 version.nim update](https://github.com/status-im/nimbus-eth2/commit/cb2d3b3c2f3b8509e6881ecf407dc1aaeecde9b7) - 2025-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 
@@ -204,6 +207,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [ariso: assorted cleanups (#3360)](https://github.com/status-im/nimbus-eth1/commit/f5db4e4b5ed34ba6a5ed37da848caf422735cad4) - 2025-06-02
 * [Commit] [hive: remove ubuntu 20.04 mention (#3344)](https://github.com/status-im/nimbus-eth1/commit/541377731e676a41055f3891bb47adf53098d706) - 2025-06-02
 * [Commit] [bpo for fusaka devnet (#3340)](https://github.com/status-im/nimbus-eth1/commit/31c143f218f7ea8e2c69f7a60034b7e4001fda6c) - 2025-06-04
+* [Commit] [Rlpx handshake using the latest version of a protocol capabilities (#3406)](https://github.com/status-im/nimbus-eth1/commit/90892ddeab70b68d50eaef20bd33f0f91b46ac8a) - 2025-06-16
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

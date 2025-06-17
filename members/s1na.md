@@ -29,6 +29,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [eth/downloader: fix missing receipt](https://github.com/ethereum/go-ethereum/pull/31952) - 2025-06-03
 * [Commit] [params: enable osaka fork in MergedTestChainConfig (#31993)](https://github.com/ethereum/go-ethereum/commit/3cc0e7a31ab8d070dbacf77412f935b6bb789054) - 2025-06-09
 * [Commit] [eth/filters: add timestamp to derived logs (#31887)](https://github.com/ethereum/go-ethereum/commit/0983cd789ee1905aedaed96f72793e5af8466f34) - 2025-06-10
+* [Commit] [tracers/prestate: always remove empty accounts from pre-state (#31427)](https://github.com/ethereum/go-ethereum/commit/e2007e513c1e2ea19fbfb5272fb2102467bd9d20) - 2025-06-16
+* [Commit] [eth/tracers: flag for empty acounts in prestateTracer (#31855)](https://github.com/ethereum/go-ethereum/commit/fd4e1f83cb70ac97285501ea990d721db47fd6b6) - 2025-06-16
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

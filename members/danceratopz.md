@@ -308,6 +308,25 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [WIP](https://github.com/ethereum/execution-spec-tests/commit/9e244259a61a0cb646c87330b44b5886db2ae8a3) - 2025-06-13
 * [Commit] [Deployed 43e710c34e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/c731d633b59228aebd57d246fd55e93557c2b1f8) - 2025-06-14
 * [Commit] [Deployed 9c75235581 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/695b1a70d728bd2c899f0c1bf2e76cae2e5c1c59) - 2025-06-14
+* [Commit] [Update HUMANS.md](https://github.com/ethereum/execution-spec-tests/commit/a55ad12c3bed7cc1060edf212627ecd515e2184e) - 2025-06-16
+* [Commit] [Deployed 97b54c6af9 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2ab4e350715a835e2342fc636c3b2649d27764f6) - 2025-06-16
+* [Commit] [Deployed b8da4af651 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3dfd677218ec7c04bd67b8fe496e368b1052e93a) - 2025-06-16
+* [Commit] [Apply suggestions from code review](https://github.com/ethereum/execution-spec-tests/commit/5204eedc0c8f27ed812fe3cb3bf82835b8af8fd7) - 2025-06-16
+* [Commit] [feat(fill): add `coverage_missed_reason` keyword argument to `ported_from` marker (#1746)](https://github.com/ethereum/execution-spec-tests/commit/cfb00e9f0940b724269b014c1670e6c3bb4d1057) - 2025-06-16
+* [Commit] [fix(docs): exclude generated fill help file from git-authors plugin](https://github.com/ethereum/execution-spec-tests/commit/b8da4af651c2832099641e821c80b88b2b452c38) - 2025-06-16
+* [Commit] [feat(fill): enable shared pre-allocation groups and add `BlockchainEngineReorgFixture` (#1706)](https://github.com/ethereum/execution-spec-tests/commit/971214c0832f656b7250eb71cf0b7bcba96c3f49) - 2025-06-16
+* [Commit] [chore(tooling): add back mkdocs check](https://github.com/ethereum/execution-spec-tests/commit/fc40a1b48695c2988f93cfecbc7a71b53aea8080) - 2025-06-16
+* [Commit] [chore(tooling): update CLAUDE.md following claude pr review](https://github.com/ethereum/execution-spec-tests/commit/776131f4dd3c2428fcf62ec0527264f8586c293c) - 2025-06-16
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/87443ce14f7a4a76a44fbc7949c6c6d0248d9df8) - 2025-06-16
+* [Pull Request] [chore(tooling): add CLAUDE.md](https://github.com/ethereum/execution-spec-tests/pull/1749) - 2025-06-16
+* [Pull Request] [feat(docs): auto-generate `fill` command-line options documentation](https://github.com/ethereum/execution-spec-tests/pull/1747) - 2025-06-16
+* [Commit] [Deployed cfb00e9f09 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2c4db6360bb28b440c88807b6515a7ec052bbb76) - 2025-06-16
+* [Commit] [docs: improve porting from ethereum/tests docs](https://github.com/ethereum/execution-spec-tests/commit/de0d27cf42751ac30a8a439f24a54a7b8dadf673) - 2025-06-16
+* [Commit] [chore(fill): improve docstring for `--skip-coverage-missed-reason`](https://github.com/ethereum/execution-spec-tests/commit/f7776e25213448d89e2c78d9e9c3cc84e1835655) - 2025-06-16
+* [Commit] [Deployed a23bf9b828 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/cf4c94cbee91167181e746b5788371eb8fa4e8f5) - 2025-06-16
+* [Commit] [feat(tooling,ci): add changelog formatting checks (#1691)](https://github.com/ethereum/execution-spec-tests/commit/a23bf9b828b3bb84fd41d2f59ca76fb5be93b814) - 2025-06-16
+* [Commit] [Deployed d6a14a212a to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/893ff898d25350dcaf1797ac25db6efc29712c8a) - 2025-06-16
+* [Commit] [fix(doc)s: fix misencoded newline in mermaid (#1723)](https://github.com/ethereum/execution-spec-tests/commit/d6a14a212a3ec47bd8ef4635efba4eda46651435) - 2025-06-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

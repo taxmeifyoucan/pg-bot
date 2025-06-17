@@ -212,6 +212,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Use toHex](https://github.com/ChainSafe/lodestar/commit/202222d905d98603565359a57a7f3f0136192695) - 2025-06-12
 * [Commit] [feat: assert fork digest to match our current fork (#7950)](https://github.com/ChainSafe/lodestar/commit/d10eb2f74bc386b8ce9ec546ef3478c1281786f6) - 2025-06-13
 * [Commit] [chore: run beacon api spec tests against v4.0.0-alpha.0 (#7965)](https://github.com/ChainSafe/lodestar/commit/a2aa33ab943dc2a8cf11836ee253b94808fc1cf1) - 2025-06-13
+* [Commit] [chore: do not create map entry if prev block root does not exist (#7928)](https://github.com/ChainSafe/lodestar/commit/329b9dc209d12bc7aed79eb4b8eded6c36e643e0) - 2025-06-16
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

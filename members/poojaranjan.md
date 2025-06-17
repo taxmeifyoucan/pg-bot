@@ -25,6 +25,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Issue] [EIP Editing Office Hour Meeting 62 (EIP + ERC) | May 27, 2025](https://github.com/ethereum/pm/issues/1557) - 2025-05-27
 * [Issue] [eth_simulate Implementers' | Meeting # 51 | June 02, 2025](https://github.com/ethereum/pm/issues/1563) - 2025-06-02
 * [Issue] [eth_simulate Implementers' | Meeting # 52 | June 09, 2025](https://github.com/ethereum/pm/issues/1568) - 2025-06-09
+* [Issue] [eth_simulate Implementers' | Meeting # 53 | June 16, 2025](https://github.com/ethereum/pm/issues/1574) - 2025-06-16
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

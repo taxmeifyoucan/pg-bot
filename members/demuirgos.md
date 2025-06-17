@@ -48,6 +48,8 @@ Team: Nethermind
 * [Commit] [remove magic string](https://github.com/NethermindEth/nethermind/commit/b960021db55646ce1f40b4d7d503e46d3d9b32af) - 2025-06-10
 * [Commit] [Add better handling of whitelists and Tests](https://github.com/NethermindEth/nethermind/commit/824891f707ba18d1e43804801a7d8aa54e15bfc7) - 2025-06-10
 * [Commit] [Add ilvm and evm comparaison option "evm-ilevm"](https://github.com/NethermindEth/nethermind/commit/42728483c539e40f9e66ed0bb0fe3f546ffae408) - 2025-06-12
+* [Commit] [fix getCodeFromCache not setting PrecompilationState correction](https://github.com/NethermindEth/nethermind/commit/ba46d58c4a5134e29b967023b29d41d9edc6248e) - 2025-06-16
+* [Commit] [Add fibb/isPrim equivalence tests to test suite](https://github.com/NethermindEth/nethermind/commit/a70ad2124083b3bb89d619a09a108cdb2af9b2fa) - 2025-06-16
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

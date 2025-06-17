@@ -137,6 +137,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Count non-mempool form](https://github.com/NethermindEth/nethermind/commit/70a2c127ce49ea32233a22e5d10b0a73937c153e) - 2025-06-12
 * [Commit] [fix even more tests](https://github.com/NethermindEth/nethermind/commit/eaa2a6cb091be9071114c9928cbd3a14b85515ff) - 2025-06-12
 * [Commit] [SpanSource for TrieNode rlp (#8719)](https://github.com/NethermindEth/nethermind/commit/c1dcc73f35e797c0cb30ddbaf05d9a39b33dc27c) - 2025-06-12
+* [Commit] [Fix one more place](https://github.com/NethermindEth/nethermind/commit/ab43913fd6f6af98c2d61fb85049e4241fdb5700) - 2025-06-16
+* [Commit] [Add length wrapper](https://github.com/NethermindEth/nethermind/commit/c3e1221ddd4845b5da8d2588546e941064159ebf) - 2025-06-16
+* [Commit] [optimize some precompiles (#8770)](https://github.com/NethermindEth/nethermind/commit/2809874394ae105cd65cec219762d07676f32621) - 2025-06-16
+* [Commit] [Add tests](https://github.com/NethermindEth/nethermind/commit/f204b37ee064d50593d960d6456f3c6b5bfc7c5c) - 2025-06-16
+* [Commit] [Add tests](https://github.com/NethermindEth/nethermind/commit/ca6a80e12395404b8dcb13d206089a7ce1b0c997) - 2025-06-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

@@ -74,6 +74,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add fork to boundary](https://github.com/ChainSafe/lodestar/commit/59320b837bd76904d186273c275459c583ec1c73) - 2025-06-12
 * [Commit] [Add boundary](https://github.com/ChainSafe/lodestar/commit/2f64088a05fe08c6050b48117e34fe6ff4eeac97) - 2025-06-12
 * [Commit] [Fix comparison bug](https://github.com/ChainSafe/lodestar/commit/b9935df409dd38463efe2839dfa8a56ef9964204) - 2025-06-13
+* [Pull Request] [feat: define `SubscribeBoundary`](https://github.com/ChainSafe/lodestar/pull/7968) - 2025-06-16
+* [Commit] [update comment](https://github.com/ChainSafe/lodestar/commit/fc5c3ae541c976d853f8e3776e61b9e84cb4508a) - 2025-06-16
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

@@ -235,6 +235,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Revert "Use gmp for modexp (#15554)"](https://github.com/erigontech/erigon/commit/1c4c3042b7da31c674c9ed5f688254af163d79b7) - 2025-06-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Daniel Lazarenko](https://github.com/protocolguild/documentation/pull/358) - 2025-06-16
+* [Pull Request] [Remove Jacek Glen](https://github.com/protocolguild/documentation/pull/357) - 2025-06-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

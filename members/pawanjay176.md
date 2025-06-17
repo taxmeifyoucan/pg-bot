@@ -17,6 +17,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Pull Request] [Implement basic validator custody framework](https://github.com/sigp/lighthouse/pull/7578) - 2025-06-07
 * [Pull Request] [Data column sidecar event](https://github.com/sigp/lighthouse/pull/7587) - 2025-06-11
 * [Pull Request] [Implement status v2 version](https://github.com/sigp/lighthouse/pull/7590) - 2025-06-12
+* [Pull Request] [Send byrange responses in the correct requested range](https://github.com/sigp/lighthouse/pull/7611) - 2025-06-16
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

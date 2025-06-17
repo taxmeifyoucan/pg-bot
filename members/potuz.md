@@ -65,6 +65,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [update spectests to 1.6.0-alpha.1](https://github.com/OffchainLabs/prysm/commit/087eb17ac23a4965711ac1f418ec415d92389231) - 2025-06-05
 * [Commit] [update spectests to 1.6.0-alpha.1](https://github.com/OffchainLabs/prysm/commit/b4751120dddee45106736bc9f05766638fa658bd) - 2025-06-05
 * [Commit] [review](https://github.com/OffchainLabs/prysm/commit/4323478a466550759b26dea2641a3f7a25560f24) - 2025-06-11
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [EIP-7732 Breakout Room | call #19 |  June 20, 2025](https://github.com/ethereum/pm/issues/1575) - 2025-06-16
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

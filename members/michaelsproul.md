@@ -99,6 +99,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Update `staking-deposit-cli` to `ethstaker-deposit-cli` (#7518)](https://github.com/sigp/lighthouse/commit/f67068e1ec539e37599acac1ef6fd52fae1f0957) - 2025-06-11
 * [Commit] [Metric for hdiff sizes](https://github.com/sigp/lighthouse/commit/9c8e58cc704a5823db37cf5fafc187022dcffee8) - 2025-06-13
 * [Commit] [Tweak hdiff size metric buckets](https://github.com/sigp/lighthouse/commit/629fa7346eae87286f988f6c87f04ba025f7c8e2) - 2025-06-14
+* [Pull Request] [Release v7.1.0 [staging branch]](https://github.com/sigp/lighthouse/pull/7609) - 2025-06-16
+* [Commit] [Remove all prod eth1 related code (#7133)](https://github.com/sigp/lighthouse/commit/c2a250c8f4416a9497c6ab99d730420b05fd6181) - 2025-06-16
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

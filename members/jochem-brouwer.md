@@ -25,6 +25,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [feat(tests): add CLZ tests](https://github.com/ethereum/execution-spec-tests/commit/e7b9c3edc48e68e8d522b1581d4c6428b247ef6c) - 2025-06-10
 * [Commit] [feat(tests): add CLZ tests](https://github.com/ethereum/execution-spec-tests/commit/157e2502f001270cf3e22ca3b5e1115e7a382022) - 2025-06-10
 * [Pull Request] [feat(tests): add CLZ (EIP 7939) tests](https://github.com/ethereum/execution-spec-tests/pull/1733) - 2025-06-10
+* [Pull Request] [fix(gentest): update imports to fix template](https://github.com/ethereum/execution-spec-tests/pull/1751) - 2025-06-16
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

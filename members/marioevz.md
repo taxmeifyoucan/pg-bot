@@ -179,6 +179,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(tests): Add coverage_missed_reason to identity precompile tests](https://github.com/ethereum/execution-spec-tests/commit/a1229d75cd2a62468d937a7f79c06cd1590d5d0e) - 2025-06-15
 * [Pull Request] [feat(filler): Add `coverage_missed_reason` keyword arguemtn to `ported_from` marker](https://github.com/ethereum/execution-spec-tests/pull/1746) - 2025-06-15
 * [Commit] [feat(ci): Add flag to coverage script](https://github.com/ethereum/execution-spec-tests/commit/7e794f14a533f8cd6e0f331c9ad542f65894973a) - 2025-06-15
+* [Commit] [fix(filler): fix shared-pre-state generation (#1738)](https://github.com/ethereum/execution-spec-tests/commit/0c70094034175c9d253c71f3548d680d64ace818) - 2025-06-16
+* [Commit] [feat(checklists): add `EIPChecklist` enum to specify EIP checklist items (#1718)](https://github.com/ethereum/execution-spec-tests/commit/97b54c6af92ba37bd285fcaebe36d99be4aa9278) - 2025-06-16
+* [Issue] [Allow static tests to have dynamic addresses in `pre`](https://github.com/ethereum/execution-spec-tests/issues/1750) - 2025-06-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

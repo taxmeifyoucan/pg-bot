@@ -69,3 +69,4 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [caplin: fix safe block hash in fork choice update (#15557)](https://github.com/erigontech/erigon/commit/0d1f7983fc35a94d7ab616e5fd788d40942489f1) - 2025-06-14
 * [Pull Request] [qa_tests: upgrade rpc-tests version 1.65.0](https://github.com/erigontech/erigon/pull/15587) - 2025-06-15
 * [Pull Request] [rpc: return empty code for store out-of-gas in CREATE calls](https://github.com/erigontech/erigon/pull/15585) - 2025-06-15
+* [Commit] [[r30] qa_tests: update rpc-tests to fix parity_listStorageKeys (#15573)](https://github.com/erigontech/erigon/commit/309ee1298cd2cec65bd7d19d2440da2f231d679a) - 2025-06-16

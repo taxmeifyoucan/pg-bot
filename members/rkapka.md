@@ -82,6 +82,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Issue] [Simplify and deduplicate prysm's type system](https://github.com/OffchainLabs/prysm/issues/15374) - 2025-06-03
 * [Issue] [Simplify engine API code with generated json methods](https://github.com/OffchainLabs/prysm/issues/15373) - 2025-06-03
 * [Issue] [Generate json ser/des code on methodical generated types](https://github.com/OffchainLabs/prysm/issues/15372) - 2025-06-03
+* [Commit] [fix TestStreamEvents_OperationsEvents](https://github.com/OffchainLabs/prysm/commit/f09b579a92576b96b652fc44775a0229667232e0) - 2025-06-16
+* [Commit] [move ErrOutOfBounds error from consensus types to mvslice](https://github.com/OffchainLabs/prysm/commit/ecf1254a974e2f724b330dc97025d3322d94f3b2) - 2025-06-16
+* [Commit] [fix tests, update native state code](https://github.com/OffchainLabs/prysm/commit/1b7d41b3ce44b709e4fde896302a77d6ed47e140) - 2025-06-16
+* [Pull Request] [Make the multi-value slice permanent](https://github.com/OffchainLabs/prysm/pull/15414) - 2025-06-16
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

@@ -257,6 +257,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add max blobs per tx limit taken from blob schedule (#8754)](https://github.com/NethermindEth/nethermind/commit/a37bd1d3c09f55ddb3f0991665e1474fa061b354) - 2025-06-13
 * [Commit] [Cleanup/make transaction executor always take adapter (#8750)](https://github.com/NethermindEth/nethermind/commit/811cde9c00d63b1210d1aa772063b2990a830dd0) - 2025-06-13
 * [Commit] [Refactor/taiko extended eth module (#8769)](https://github.com/NethermindEth/nethermind/commit/2c48d7ee8e311ea69c6caf17b4ae8178eb59a8ed) - 2025-06-13
+* [Commit] [Fix/era import (#8774)](https://github.com/NethermindEth/nethermind/commit/941a528aef4d61258c3432fcfa254950e0dadf40) - 2025-06-16
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

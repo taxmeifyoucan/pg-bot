@@ -90,6 +90,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [add EmptyPayload10M_10M](https://github.com/erigontech/erigon/commit/79e0cc7588db40f0ab36d6e372480bec2d031ea1) - 2025-06-13
 * [Commit] [fix: TxDataZero2txs200M_200M](https://github.com/erigontech/erigon/commit/2629cbe4a4bbb3cd651f4d43d131d052458a9921) - 2025-06-13
 * [Commit] [fix: TxDataZero](https://github.com/erigontech/erigon/commit/2cff1787ea8d67276a36a82c8a5b6f153c435cb6) - 2025-06-13
+* [Commit] [deps: up `x` deps (#15562)](https://github.com/erigontech/erigon/commit/9c45574d9caede08d65daf5846bf9b151a3a4c1b) - 2025-06-16
+* [Commit] [Revert "Remove hidden malloc calls (#15579)"](https://github.com/erigontech/erigon/commit/63dce6475ece10fe626e1a36b9df067125e85571) - 2025-06-16
+* [Commit] [cmd: fix erigon init cmd now generating salt-state (#15606)](https://github.com/erigontech/erigon/commit/0dc6ee0ab6346699a17783b99dce87bdd391467d) - 2025-06-16
+* [Commit] [tidy comment](https://github.com/erigontech/erigon/commit/d9524825e908f3fed49a25541b37fd7fb8b97c27) - 2025-06-16
+* [Pull Request] [cmd: fix erigon init cmd now generating salt-state](https://github.com/erigontech/erigon/pull/15606) - 2025-06-16
+* [Issue] [[fusaka] EIP-7907: Meter Contract Code Size And Increase Limit](https://github.com/erigontech/erigon/issues/15605) - 2025-06-16
+* [Issue] [[fusaka-devnet-2] EIP-7934: rlp block size limit](https://github.com/erigontech/erigon/issues/15604) - 2025-06-16
+* [Commit] [Revert "rpc: try out go-json"](https://github.com/erigontech/erigon/commit/96659e55752cbbf0b2dd5880685ec1b578c44b0d) - 2025-06-16
+* [Commit] [core/state: fix missed part in test, for failing linter (#15421)](https://github.com/erigontech/erigon/commit/c8b8921b2037e9eafc4f0da4cd045ad9927e7787) - 2025-06-16
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
