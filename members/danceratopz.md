@@ -327,6 +327,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tooling,ci): add changelog formatting checks (#1691)](https://github.com/ethereum/execution-spec-tests/commit/a23bf9b828b3bb84fd41d2f59ca76fb5be93b814) - 2025-06-16
 * [Commit] [Deployed d6a14a212a to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/893ff898d25350dcaf1797ac25db6efc29712c8a) - 2025-06-16
 * [Commit] [fix(doc)s: fix misencoded newline in mermaid (#1723)](https://github.com/ethereum/execution-spec-tests/commit/d6a14a212a3ec47bd8ef4635efba4eda46651435) - 2025-06-16
+* [Commit] [Deployed 0fc80c997a to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/7c3d0da200d2ccd5a0ae368ffea29e427dc72692) - 2025-06-17
+* [Commit] [Deployed 69a8e5b819 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/ebd993f7fbdeb925d401b98b1701ecc891170848) - 2025-06-17
+* [Commit] [Deployed ad7fc35dee to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/450c00721a11f5aae3aa8b7c5934fe03ec30918d) - 2025-06-17
+* [Commit] [Deployed f7ad3a1e37 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/41379fea4495bf7ea12212e85143624733afc559) - 2025-06-17
+* [Commit] [Deployed 4f1b4329e8 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d53dc49079c7c9ac2e949bc78856644e1656674e) - 2025-06-17
+* [Commit] [Deployed a7ea9af359 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/fe884349a773038d4d9634975883aed0bee874eb) - 2025-06-17
+* [Commit] [chore(tooling): add CLAUDE.md (#1749)](https://github.com/ethereum/execution-spec-tests/commit/a7ea9af3597836ba9a5b029d6cfcec228dee4b54) - 2025-06-17
+* [Issue] [feat(fill,docs,fw): improve `fill`'s test dev-ex](https://github.com/ethereum/execution-spec-tests/issues/1752) - 2025-06-17
+* [Commit] [Update HUMANS.md](https://github.com/ethereum/execution-spec-tests/commit/73b9a54c7e8000367f7f090df0eb1083f50c521d) - 2025-06-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

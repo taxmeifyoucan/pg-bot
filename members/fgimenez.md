@@ -193,6 +193,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [feat(test): rewrite test_engine_tree_buffered_blocks_are_eventually_connected using e2e framework](https://github.com/paradigmxyz/reth/commit/342b2159da4c75f9a3a01eac64a67dd09cc19221) - 2025-06-16
 * [Commit] [fix: small networking fixes (#16742)](https://github.com/paradigmxyz/reth/commit/1bef0092eedb6a1cd87fd181263fd47bcdcdf4de) - 2025-06-16
 * [Commit] [revert op changes](https://github.com/paradigmxyz/reth/commit/5b9df94bcf0bcb192c47b2fd5e4835114414091d) - 2025-06-16
+* [Pull Request] [chore(ci): pin kurtosis-op optimism package](https://github.com/paradigmxyz/reth/pull/16842) - 2025-06-17
+* [Commit] [feat: add always-process-payload-attributes-on-canonical-head config (#16676)](https://github.com/paradigmxyz/reth/commit/95c68ae584c9ada502f8c56dab85d4731611dd2b) - 2025-06-17
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

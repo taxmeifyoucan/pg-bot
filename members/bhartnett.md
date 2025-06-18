@@ -109,3 +109,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Nimbus EVM: Add revert reason to error string when EVM execution reverts](https://github.com/status-im/nimbus-eth1/pull/3392) - 2025-06-13
 * [Commit] [Return EVM output data in eth_call when EVM execution reverts.](https://github.com/status-im/nimbus-eth1/commit/2585bad9c34a49d4ba225852d1da3600b78db984) - 2025-06-13
 * [Pull Request] [Async EVM: Return ok when error message exists so that call output can be returned ](https://github.com/status-im/nimbus-eth1/pull/3391) - 2025-06-13
+* [Pull Request] [Bump nim-stint to 4992f27833104091fba75486d75f890312dff3d7](https://github.com/status-im/nimbus-eth1/pull/3413) - 2025-06-17
+* [Pull Request] [Bump nimcrypto to 19c41d6be4c00b4a2c8000583bd30cf8ceb5f4b1 (v0.6.3)](https://github.com/status-im/nimbus-eth1/pull/3412) - 2025-06-17
+* [Pull Request] [Bump nim-bearssl to 11e798b62b8e6beabe958e048e9e24c7e0f9ee63](https://github.com/status-im/nimbus-eth1/pull/3411) - 2025-06-17
+* [Pull Request] [Bump nim-kzg4844 to 644a19b9874516446411aa31a7747b81d21431e5](https://github.com/status-im/nimbus-eth1/pull/3410) - 2025-06-17
+* [Pull Request] [Bump nim-secp256k1 to latest](https://github.com/status-im/nimbus-eth1/pull/3409) - 2025-06-17
+* [Pull Request] [Bump nim-blscurve to latest](https://github.com/status-im/nimbus-eth1/pull/3408) - 2025-06-17

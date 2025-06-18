@@ -164,6 +164,12 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/38904565181f2cce5fd1ff8471231cd4701d01e8) - 2025-06-05
 * [Pull Request] [fix fcu error message](https://github.com/erigontech/erigon/pull/15508) - 2025-06-09
 * [Pull Request] [Arb: do not print legacy txn](https://github.com/erigontech/erigon/pull/15603) - 2025-06-16
+* [Commit] [Update README.md (#15582)](https://github.com/erigontech/erigon/commit/7f6a68ce870f13912c0031dc7b6588f6db335198) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cada2d3330508e2982dd2df8de0c8e58c8e07f88) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b7821e2f8d70843460ec81115db65a71a0a82ae2) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/543617061dff6140add446c759214c0c4ef7d78d) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fbd51c5ac6273db30a165eb873ec5e870f28382d) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f284158b354582e14159c9aa1241542b84e40e23) - 2025-06-17
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

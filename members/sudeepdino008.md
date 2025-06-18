@@ -283,6 +283,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/fc416175a100b0c2815a4924b241ac42de7767a5) - 2025-06-16
 * [Commit] [qa_integration: update rpc integration (#15524)](https://github.com/erigontech/erigon/commit/32efafebebaf76c8f02a9d73399322298b9fe293) - 2025-06-16
 * [Issue] [add TxBlockIndex as gettable from BlockReader interface](https://github.com/erigontech/erigon/issues/15593) - 2025-06-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6637904fdac7641e59e5e14b6e6711e2c9e05674) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0077d93b9981edad260b527c04ce634df3c2498e) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/970b0c5d9694353d531b38ebf01549a615771d50) - 2025-06-17
+* [Pull Request] [remote GetBlockNumberForTxNum](https://github.com/erigontech/erigon/pull/15617) - 2025-06-17
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

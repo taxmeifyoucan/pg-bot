@@ -101,6 +101,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Tweak hdiff size metric buckets](https://github.com/sigp/lighthouse/commit/629fa7346eae87286f988f6c87f04ba025f7c8e2) - 2025-06-14
 * [Pull Request] [Release v7.1.0 [staging branch]](https://github.com/sigp/lighthouse/pull/7609) - 2025-06-16
 * [Commit] [Remove all prod eth1 related code (#7133)](https://github.com/sigp/lighthouse/commit/c2a250c8f4416a9497c6ab99d730420b05fd6181) - 2025-06-16
+* [Pull Request] [Hot hdiff buffer cache](https://github.com/sigp/lighthouse/pull/7615) - 2025-06-17
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

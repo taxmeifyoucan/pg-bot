@@ -95,6 +95,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [chore: bump alloy](https://github.com/paradigmxyz/reth/pull/16828) - 2025-06-16
 * [Commit] [fix doc](https://github.com/paradigmxyz/reth/commit/8e0e8a98a9201099f797a66f27f17b5076f516b5) - 2025-06-16
 * [Commit] [fix(db): correct ClientVersion serialization size tracking (#16427)](https://github.com/paradigmxyz/reth/commit/0c7bd1e5dd59852e119b0ec6033d9f44888ae1c3) - 2025-06-16
+* [Commit] [bump](https://github.com/paradigmxyz/reth/commit/938c4551ef8465bf81ec790a03e9feae446acc75) - 2025-06-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/a7ca04d56781d0c81d6378c7b5a6b24e3f99532f) - 2025-06-05
 * [Commit] [fix](https://github.com/bluealloy/revm/commit/12aae0ed7ebf2c8f8dff1f0fa2dad4602c743977) - 2025-06-05

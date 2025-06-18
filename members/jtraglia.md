@@ -127,9 +127,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Update eip7732 specs](https://github.com/ethereum/consensus-specs/commit/fd5b507d5c88bf89e7a2bc6fe653676023e62062) - 2025-06-13
 * [Issue] [Spec for unfinalized checkpoint sync](https://github.com/ethereum/consensus-specs/issues/4382) - 2025-06-13
 * [Issue] [Replace mypy with ty](https://github.com/ethereum/consensus-specs/issues/4383) - 2025-06-16
+* [Commit] [Fix yields in new proposer lookahead test (#4386)](https://github.com/ethereum/consensus-specs/commit/443dd5bddd41230817871d0e877b86eb89b41581) - 2025-06-17
+* [Pull Request] [Fix yields in new proposer lookahead test](https://github.com/ethereum/consensus-specs/pull/4386) - 2025-06-17
+* [Commit] [Bump the actions group with 4 updates (#4385)](https://github.com/ethereum/consensus-specs/commit/192f6d2110528c90f0f48c1184edef1ffb9f48c5) - 2025-06-17
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 
+* [Issue] [Reference test is timing out](https://github.com/OffchainLabs/prysm/issues/15417) - 2025-06-17
 [consensys/teku](https://github.com/consensys/teku)
 * [Pull Request] [Rename BlobSchedule to BlobScheduleEntry](https://github.com/Consensys/teku/pull/9509) - 2025-06-02
 * [Pull Request] [Fix nits in fulu code](https://github.com/Consensys/teku/pull/9508) - 2025-06-02

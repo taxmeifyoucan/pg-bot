@@ -76,6 +76,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix comparison bug](https://github.com/ChainSafe/lodestar/commit/b9935df409dd38463efe2839dfa8a56ef9964204) - 2025-06-13
 * [Pull Request] [feat: define `SubscribeBoundary`](https://github.com/ChainSafe/lodestar/pull/7968) - 2025-06-16
 * [Commit] [update comment](https://github.com/ChainSafe/lodestar/commit/fc5c3ae541c976d853f8e3776e61b9e84cb4508a) - 2025-06-16
+* [Commit] [Add unit test](https://github.com/ChainSafe/lodestar/commit/b1d9965c19fe82061f6d89a5e2bbbae262fc9127) - 2025-06-17
+* [Commit] [Move importBlock code to appropriate place](https://github.com/ChainSafe/lodestar/commit/4112b2e0ca5b4986dae9af2b1e8e73d6fe55e4a8) - 2025-06-17
+* [Commit] [fix unit test](https://github.com/ChainSafe/lodestar/commit/0228ee9be2247446883d988e7a31db4eaede47b0) - 2025-06-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

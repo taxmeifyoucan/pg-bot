@@ -182,6 +182,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(filler): fix shared-pre-state generation (#1738)](https://github.com/ethereum/execution-spec-tests/commit/0c70094034175c9d253c71f3548d680d64ace818) - 2025-06-16
 * [Commit] [feat(checklists): add `EIPChecklist` enum to specify EIP checklist items (#1718)](https://github.com/ethereum/execution-spec-tests/commit/97b54c6af92ba37bd285fcaebe36d99be4aa9278) - 2025-06-16
 * [Issue] [Allow static tests to have dynamic addresses in `pre`](https://github.com/ethereum/execution-spec-tests/issues/1750) - 2025-06-16
+* [Issue] [Remove solc dependency on the main filler (python source code)](https://github.com/ethereum/execution-spec-tests/issues/1759) - 2025-06-17
+* [Commit] [✨ feat: Align TransactionHashByResponse to Transaction (#1755)](https://github.com/ethereum/execution-spec-tests/commit/0fc80c997a4d1438c3b3c9b257708ee48fb97123) - 2025-06-17
+* [Commit] [chore(tooling): better mypy config (#1756)](https://github.com/ethereum/execution-spec-tests/commit/69a8e5b819b18ea32f77430fc32614d6b4f4f90d) - 2025-06-17
+* [Commit] [refactor(zkevm): optimize the zero param opcode case (#1737)](https://github.com/ethereum/execution-spec-tests/commit/ad7fc35deeb056bd9afc6d543691ec02b469c6da) - 2025-06-17
+* [Commit] [feat(zkevm): create pure ether transfer worst case (#1742)](https://github.com/ethereum/execution-spec-tests/commit/618d3075a2f12df450a42e1a18a0125adc36f3c8) - 2025-06-17
+* [Commit] [feat(zkevm): add p256verify to worst compute tests (#1744)](https://github.com/ethereum/execution-spec-tests/commit/f7ad3a1e374aaba4b3930a5c0e12fcbe22e99c7e) - 2025-06-17
+* [Commit] [docs: changelog](https://github.com/ethereum/execution-spec-tests/commit/6a8b43236a1a30655c2f26ec850878be64c84272) - 2025-06-17
+* [Pull Request] [fix(types): Change block hashes key to ZeroPaddedHexNumber](https://github.com/ethereum/execution-spec-tests/pull/1754) - 2025-06-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

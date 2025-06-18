@@ -46,6 +46,7 @@ Team: Grandine
 * [Commit] [Skip participating in aggregation duty if chain head is not fully verified by execution engine](https://github.com/grandinetech/grandine/commit/38c4787ca401b5f70110f97db774acfabad36f88) - 2025-06-02
 * [Pull Request] [Skip participating in aggregation duty if chain head is not fully verified by execution engine](https://github.com/grandinetech/grandine/pull/218) - 2025-06-02
 * [Pull Request] [Fix forward sync trigger from back sync](https://github.com/grandinetech/grandine/pull/231) - 2025-06-16
+* [Commit] [Fix forward sync trigger from back sync](https://github.com/grandinetech/grandine/commit/58a5788e0cbaf273baa3c2821c09c1cd4233dec7) - 2025-06-17
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

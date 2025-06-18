@@ -82,6 +82,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [moving web flag to feature (#15382)](https://github.com/OffchainLabs/prysm/commit/e569df5ebc21dac87cbbe3bd9bfbf1dea90295a3) - 2025-06-08
 * [Pull Request] [Fix blob topic peer count metric](https://github.com/OffchainLabs/prysm/pull/15412) - 2025-06-14
 * [Commit] [epbs initial commit](https://github.com/OffchainLabs/prysm/commit/04c29eed63c65000f0992c519a65caebd2452601) - 2025-06-16
+* [Commit] [Fix blob peer count metric (#15412)](https://github.com/OffchainLabs/prysm/commit/2a3876427faa1eda31eb70b1794f571a8aacde47) - 2025-06-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Update fulu p2p spec for BPO](https://github.com/ethereum/consensus-specs/issues/4331) - 2025-05-19
 ## Q1 2025

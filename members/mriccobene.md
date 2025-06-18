@@ -60,6 +60,8 @@ Team: Erigon
 * [Commit] [dummy](https://github.com/erigontech/erigon/commit/67c447255e2e0cadf2635369bd3f387f3331368c) - 2025-06-06
 * [Pull Request] [qa-tests: avoid running clean-exit on the rpc specific runner](https://github.com/erigontech/erigon/pull/15545) - 2025-06-12
 * [Pull Request] [qa-tests: add test report implementation](https://github.com/erigontech/erigon/pull/15607) - 2025-06-16
+* [Pull Request] [qa-tests: cherry pick test report impl](https://github.com/erigontech/erigon/pull/15618) - 2025-06-17
+* [Commit] [qa-tests: add test report implementation (#15607)](https://github.com/erigontech/erigon/commit/331d49fd7325b12aa101e915373f748a99657ce6) - 2025-06-17
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

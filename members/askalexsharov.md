@@ -2574,6 +2574,38 @@ Team: Erigon
 * [Pull Request] [[e30] rchache: don't download `.kv` file by default](https://github.com/erigontech/erigon/pull/15591) - 2025-06-16
 * [Issue] [re-visit stage_snapshots preverified logic: it must be white-list instead of black-list to be forward-compatible](https://github.com/erigontech/erigon/issues/15589) - 2025-06-16
 * [Commit] [[r30] madv: high-level (#15139)](https://github.com/erigontech/erigon/commit/3d6ae750c7d3378852872ab5d37a22512710c808) - 2025-06-16
+* [Pull Request] [[r30] custom_trace: ensure optional feature enabled](https://github.com/erigontech/erigon/pull/15616) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/412ecb85cbfc2e728824b150b113ca31f4f34ea0) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/387ac0e9c7d30f4c8d3cb29a43b0183b393e9f88) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ffb520e66f68d3ea2bfb614fb0468604dede18a7) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9ffdcf59b2767912225988e6c26b6eb2f97a07a6) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/28d1c6e6e5301e66125dc529b953b26f3af8e548) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aeb1a423df174c636796c473595466d13ce24726) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e21438c2034bca4d9fb4f2950af1a4258a6f046a) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c667e41dfbe4ba52f3eb21a424f8d985ba365ea2) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0963e936ae8e391d2f0040e0aba1fbbf9b283a2b) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/66c201829306400d68949ce653610caea3ce316d) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/680e39173d910be86f053e0bac830095699c7689) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8f00870a05aa8d56dd60cf050f6bfbd7e2eb0ef7) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/23723fc036a538ee7ab4717838c3d958e61cff93) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9c84266611a1adf423f639aea5dd9b0aad689d05) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/063173b4f03cdee8ad3ee9b3df930950f9b4a497) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/41185cc408260af302ef739a9f50ae04c8fbe35b) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/10c062a3a6d2074e682db5642c3b3af9d8b8f703) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6484c13b726bdf63db98d683b2ced72495c486ac) - 2025-06-17
+* [Commit] [agg: revert `AggregatorSqueezeCommitmentValues` (#15611)](https://github.com/erigontech/erigon/commit/6b4fbd2d4fdd6f6cb0a69f7d5d3023ac5b449403) - 2025-06-17
+* [Pull Request] [custom_trace: ensure optional features are enabled](https://github.com/erigontech/erigon/pull/15613) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c037ea946ef308497d4117ebac378ee1e82a1d4b) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3d774d667ff1ae1df34bed8876d4906faf9a9eab) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d881ca4306b545039db7e39fed2bf6d34a1eb44e) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d932caa7746dd37ce715370a46e376c970cfd45a) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e659b0282fdb0fad3c89fd7b20e4ca73a924292d) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/baaef5af695dfb8b28b9896a972e3f5e4727e695) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e1b144a8e98b0ea382f947d95e8154c4d9b3bdf9) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/db14e90841333373be9b9795b171227927234f18) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/659337b90df8a809736c1015851d45eed7e39ac7) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/25aeab574d1ab3d33a5b765de150841ce9a4a9cf) - 2025-06-17
+* [Pull Request] [agg: revert `AggregatorSqueezeCommitmentValues`](https://github.com/erigontech/erigon/pull/15611) - 2025-06-17
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

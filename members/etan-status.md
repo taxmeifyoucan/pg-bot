@@ -66,6 +66,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-blscurve to bcfb3e77a2c5e1a02611ee4d03f3a655fe902eb1](https://github.com/status-im/nimbus-eth2/pull/7238) - 2025-06-15
 * [Pull Request] [Add /eth/v1/debug/beacon/data_column_sidecars/{block_id}](https://github.com/status-im/nimbus-eth2/pull/7237) - 2025-06-15
 * [Commit] [Fix compilation](https://github.com/status-im/nimbus-eth2/commit/20a8bf0c7d84a4ff6ead6cfa28e889cbfe5cd76c) - 2025-06-16
+* [Pull Request] [Use correct FULU_FORK_VERSION for Gnosis](https://github.com/status-im/nimbus-eth2/pull/7245) - 2025-06-17
+* [Commit] [Handle data column request while Fulu is not configured](https://github.com/status-im/nimbus-eth2/commit/f9f24784743dc101999ba76c6ad51ba8e061620c) - 2025-06-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Do not wrap long lines in `config.yaml` files](https://github.com/ethereum/consensus-specs/pull/4379) - 2025-06-12
 ## Q1 2025

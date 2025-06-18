@@ -58,6 +58,7 @@ Team: Consensus R&D (EF)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore!: Use gnark instead of cloudflare](https://github.com/ethereum/go-ethereum/pull/32024) - 2025-06-13
+* [Pull Request] [chore: fix gnark deserialisation](https://github.com/ethereum/go-ethereum/pull/32055) - 2025-06-17
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

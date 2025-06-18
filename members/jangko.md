@@ -98,3 +98,12 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Rlpx handshake using the latest version of a protocol capabilities](https://github.com/status-im/nimbus-eth1/pull/3406) - 2025-06-16
 * [Commit] [Fix missing return value in addEthHandlerCapability (#3405)](https://github.com/status-im/nimbus-eth1/commit/3c572c49b867e66ebe5bb57992191b0c6ea43631) - 2025-06-16
 * [Pull Request] [Fix missing return value in addEthHandlerCapability](https://github.com/status-im/nimbus-eth1/pull/3405) - 2025-06-16
+* [Commit] [Bump nim-stint to 4992f27833104091fba75486d75f890312dff3d7 (#3413)](https://github.com/status-im/nimbus-eth1/commit/8a5825f82de1e4929ae7e829f2784ef35ff9d06c) - 2025-06-17
+* [Commit] [Fix wire protocol ticker loop and txhash broadcast handling (#3407)](https://github.com/status-im/nimbus-eth1/commit/e49395e2f7b4c9ec595c342121459df10eae4a84) - 2025-06-17
+* [Commit] [Bump nim-kzg4844 to latest. (#3410)](https://github.com/status-im/nimbus-eth1/commit/3988a114541762515e4fbb26e9f60499840e6a0a) - 2025-06-17
+* [Commit] [Bump nim-blscurve to latest. (#3408)](https://github.com/status-im/nimbus-eth1/commit/34cf2ecc98e9682b2932226e6ee002e98ffda98a) - 2025-06-17
+* [Commit] [Bump nim-secp256k1 to latest. (#3409)](https://github.com/status-im/nimbus-eth1/commit/e6caa75a75dbb41e4ccfdd536044f808bb06fe80) - 2025-06-17
+* [Commit] [Bump nim-bearssl to 11e798b62b8e6beabe958e048e9e24c7e0f9ee63 (#3411)](https://github.com/status-im/nimbus-eth1/commit/1cacba3d4b0dde25a1134046f90d071d5bbaafac) - 2025-06-17
+* [Commit] [Bump nimcrypto to 19c41d6be4c00b4a2c8000583bd30cf8ceb5f4b1 (v0.6.3) (#3412)](https://github.com/status-im/nimbus-eth1/commit/1e6d8024fb7796b348685199a47d449332bf7c3d) - 2025-06-17
+* [Pull Request] [Fix wire protocol ticker loop and txhash broadcast handling](https://github.com/status-im/nimbus-eth1/pull/3407) - 2025-06-17
+* [Commit] [Remove unused spaces](https://github.com/status-im/nimbus-eth1/commit/26bfaef4145efe97da0c6ab9a9596c1d9bd1a7e8) - 2025-06-17

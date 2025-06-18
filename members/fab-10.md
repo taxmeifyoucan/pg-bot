@@ -49,6 +49,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Introduce the `TransactionValidatorService` to allow plugins to add custom validation rules (#8793)](https://github.com/hyperledger/besu/commit/2783ebbd29977845465abb9f261ea207376d143b) - 2025-06-11
 * [Commit] [Add a mapping from old to new Maven coordinates (#8809)](https://github.com/hyperledger/besu/commit/fce2c4f683313fd0c204daaecf93d5e3f07c0656) - 2025-06-12
 * [Pull Request] [Add a mapping from old to new Maven coordinates](https://github.com/hyperledger/besu/pull/8809) - 2025-06-12
+* [Commit] [More PoS block proposal logs (#8827)](https://github.com/hyperledger/besu/commit/5e1b9f030fb61b6db80d4e2fc68bda807d49fc3b) - 2025-06-17
+* [Pull Request] [More PoS block proposal logs](https://github.com/hyperledger/besu/pull/8827) - 2025-06-17
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

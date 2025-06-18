@@ -177,6 +177,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [version v25.6.0](https://github.com/status-im/nimbus-eth2/commit/381a80afe1720d7e43711b760052438c5963c90d) - 2025-06-16
 * [Commit] [nimp nim-ssz-serialization (#7085)](https://github.com/status-im/nimbus-eth2/commit/86a2aa89a423fd2313cb46047511faca2b2c79a0) - 2025-06-16
 * [Commit] [version v25.6.0 version.nim update](https://github.com/status-im/nimbus-eth2/commit/cb2d3b3c2f3b8509e6881ecf407dc1aaeecde9b7) - 2025-06-16
+* [Commit] [Add vanity log for Fulu transition and BPO update (#7241)](https://github.com/status-im/nimbus-eth2/commit/a58d0c571c685a9aa68a2145c60f65ff7affe4bf) - 2025-06-17
+* [Commit] [Add /eth/v1/debug/beacon/data_column_sidecars/{block_id} (#7237)](https://github.com/status-im/nimbus-eth2/commit/42e62ff6632a65881fbec3a81ffe8786db822f41) - 2025-06-17
+* [Commit] [automated consensus spec URL updating to v1.6.0-alpha.2 (#7243)](https://github.com/status-im/nimbus-eth2/commit/83fc484374a67cace2afe6964090738fdd9752e2) - 2025-06-17
+* [Pull Request] [automated consensus spec URL updating to v1.6.0-alpha.2](https://github.com/status-im/nimbus-eth2/pull/7243) - 2025-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

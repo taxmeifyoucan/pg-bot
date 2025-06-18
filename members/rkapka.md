@@ -86,6 +86,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [move ErrOutOfBounds error from consensus types to mvslice](https://github.com/OffchainLabs/prysm/commit/ecf1254a974e2f724b330dc97025d3322d94f3b2) - 2025-06-16
 * [Commit] [fix tests, update native state code](https://github.com/OffchainLabs/prysm/commit/1b7d41b3ce44b709e4fde896302a77d6ed47e140) - 2025-06-16
 * [Pull Request] [Make the multi-value slice permanent](https://github.com/OffchainLabs/prysm/pull/15414) - 2025-06-16
+* [Commit] [add missing gc to fuzz tests](https://github.com/OffchainLabs/prysm/commit/9dd8b9103006c3242a73c1eda8c7e6dc6cae4362) - 2025-06-17
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

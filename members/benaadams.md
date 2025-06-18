@@ -329,6 +329,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Sync with master](https://github.com/NethermindEth/nethermind/pull/8780) - 2025-06-13
 * [Commit] [Remove txPool contention from block validation (#8779)](https://github.com/NethermindEth/nethermind/commit/5a5e6f8f6af36135dd4ad15c94a6366a56ef83d4) - 2025-06-13
 * [Pull Request] [Move high volume logs from Debug to Trace](https://github.com/NethermindEth/nethermind/pull/8789) - 2025-06-15
+* [Pull Request] [Base prewarming on logical cores](https://github.com/NethermindEth/nethermind/pull/8796) - 2025-06-17
+* [Commit] [Max at 16](https://github.com/NethermindEth/nethermind/commit/e30e593d5ab80a74099dcbcb730b455f70e8412b) - 2025-06-17
+* [Commit] [Change Ethereum mainet gaslimit default to 45M (#8793)](https://github.com/NethermindEth/nethermind/commit/652b5a75ce6b279903771e56ee003594323b48d5) - 2025-06-17
+* [Pull Request] [Change Ethereum mainet gaslimit default to 45M](https://github.com/NethermindEth/nethermind/pull/8793) - 2025-06-17
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

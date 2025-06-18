@@ -447,6 +447,22 @@ Team: Reth
 * [Commit] [fix alloc](https://github.com/paradigmxyz/reth/commit/864bee9fd69a931d453c41b090e91768de384694) - 2025-06-16
 * [Commit] [fix: validate BlockRangeUpdate message per devp2p spec](https://github.com/paradigmxyz/reth/commit/71d85d2a4e9e0e6365ae78eb02719096a65bfa2d) - 2025-06-16
 * [Pull Request] [fix: validate BlockRangeUpdate message per devp2p spec](https://github.com/paradigmxyz/reth/pull/16826) - 2025-06-16
+* [Issue] [Use alloy envelope macro for custom node example](https://github.com/paradigmxyz/reth/issues/16856) - 2025-06-17
+* [Commit] [feat(rpc): Add `FromConsensusTx` and implement `IntoRpcTx` for generic RPC transaction (#16784)](https://github.com/paradigmxyz/reth/commit/d12a9788d9d58d18cb7fc9a6afa533fda9a97d17) - 2025-06-17
+* [Commit] [docs: update comment for is_eip7702() method (#16852)](https://github.com/paradigmxyz/reth/commit/a38428eb05517f7ff5992fa33b401b184d474019) - 2025-06-17
+* [Commit] [chore: bump alloy 1.0.11 (#16853)](https://github.com/paradigmxyz/reth/commit/41c93a1134fbd9bc66b16d9a41573e1954249eb1) - 2025-06-17
+* [Commit] [feat: add RlpBincode helper (#16849)](https://github.com/paradigmxyz/reth/commit/34ef2a27e0fbe9651b7ab2aceceb73b24cb55154) - 2025-06-17
+* [Commit] [chore: use earliest block number from provider (#16848)](https://github.com/paradigmxyz/reth/commit/7bc6939d538fd25ab6caadfa66a9b368c46158d3) - 2025-06-17
+* [Pull Request] [chore: bump alloy 1.0.11](https://github.com/paradigmxyz/reth/pull/16853) - 2025-06-17
+* [Issue] [Use new `fn earliest_block_number` for `::Earliest` tag](https://github.com/paradigmxyz/reth/issues/16851) - 2025-06-17
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/0b17afbf53255938ff2f1fc78217fa4234afe770) - 2025-06-17
+* [Pull Request] [feat: add RlpBincode helper](https://github.com/paradigmxyz/reth/pull/16849) - 2025-06-17
+* [Pull Request] [chore: use earliest block number from provider](https://github.com/paradigmxyz/reth/pull/16848) - 2025-06-17
+* [Commit] [chore: use earliest block number from provider](https://github.com/paradigmxyz/reth/commit/6fd2c36569789c46d574a75d82270db512460c89) - 2025-06-17
+* [Issue] [Use BlobParams.max_blobs_per_tx when validating 4844](https://github.com/paradigmxyz/reth/issues/16847) - 2025-06-17
+* [Pull Request] [perf: avoid duplicate peer lookup](https://github.com/paradigmxyz/reth/pull/16846) - 2025-06-17
+* [Pull Request] [fix: handle forced propagations](https://github.com/paradigmxyz/reth/pull/16845) - 2025-06-17
+* [Issue] [Announce support for eth69](https://github.com/paradigmxyz/reth/issues/16844) - 2025-06-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

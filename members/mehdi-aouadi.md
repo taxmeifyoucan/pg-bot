@@ -37,6 +37,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Issue] [Update the data_column_sidecars endpoint](https://github.com/Consensys/teku/issues/9535) - 2025-06-10
 * [Pull Request] [add get data column sidecars API](https://github.com/Consensys/teku/pull/9554) - 2025-06-12
 * [Commit] [add get data column sidecars API (#9554)](https://github.com/Consensys/teku/commit/53f4548b8f7c81ab2af8d153c381a89127e9e32b) - 2025-06-13
+* [Commit] [remove unused ILs gossip subscriptions (#9561)](https://github.com/Consensys/teku/commit/61a8cac04387f053d44d02fd69fa7bc987c7e324) - 2025-06-17
+* [Pull Request] [remove unused ILs gossip subscriptions](https://github.com/Consensys/teku/pull/9561) - 2025-06-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add eip7805 presets](https://github.com/ethereum/consensus-specs/pull/4268) - 2025-04-14
 * [Pull Request] [move IL committee domain to constant](https://github.com/ethereum/consensus-specs/pull/4276) - 2025-04-17

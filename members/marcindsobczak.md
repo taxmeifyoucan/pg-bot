@@ -37,6 +37,15 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/8be50023d649ff1d65bfeba4755bd1e561fbd779) - 2025-06-10
 * [Pull Request] [Add flag for persistent broadcast](https://github.com/NethermindEth/nethermind/pull/8752) - 2025-06-10
 * [Commit] [disable precompile cache](https://github.com/NethermindEth/nethermind/commit/9a657609b6885c6c5030b392b438c9d5c72db515) - 2025-06-16
+* [Commit] [Test/performance secp256k1 (#8795)](https://github.com/NethermindEth/nethermind/commit/7d3c1fc868fc68b30520da59a797c93d314780fd) - 2025-06-17
+* [Commit] [Dispose EvmState on warmup (#8771)](https://github.com/NethermindEth/nethermind/commit/eb4a682f62768ec3270aad05ce62f7087822ae07) - 2025-06-17
+* [Pull Request] [Test/performance secp256k1](https://github.com/NethermindEth/nethermind/pull/8795) - 2025-06-17
+* [Commit] [Test/performance gmp bindings (#8784)](https://github.com/NethermindEth/nethermind/commit/e2ce0769fa3687bdce2f1ebbd256e37be35e22cc) - 2025-06-17
+* [Pull Request] [[DO NOT MERGE] Performance](https://github.com/NethermindEth/nethermind/pull/8792) - 2025-06-17
+* [Commit] [fix now?](https://github.com/NethermindEth/nethermind/commit/c065df253cf3f6ae7a12ddff22b833cd3ba6a923) - 2025-06-17
+* [Commit] [fix build?](https://github.com/NethermindEth/nethermind/commit/d18c45f68bf1782a399a451118c9879b7dfb9718) - 2025-06-17
+* [Pull Request] [[DO NOT MERGE] Performance](https://github.com/NethermindEth/nethermind/pull/8791) - 2025-06-17
+* [Commit] [Replace GMP package](https://github.com/NethermindEth/nethermind/commit/1b744a65594ac541bed00ce40c06c45e68b4dbca) - 2025-06-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7883: Add reference implementation](https://github.com/ethereum/EIPs/pull/9645) - 2025-04-15
 ## Q1 2025

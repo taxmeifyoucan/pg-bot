@@ -99,6 +99,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [[fusaka-devnet-2] EIP-7934: rlp block size limit](https://github.com/erigontech/erigon/issues/15604) - 2025-06-16
 * [Commit] [Revert "rpc: try out go-json"](https://github.com/erigontech/erigon/commit/96659e55752cbbf0b2dd5880685ec1b578c44b0d) - 2025-06-16
 * [Commit] [core/state: fix missed part in test, for failing linter (#15421)](https://github.com/erigontech/erigon/commit/c8b8921b2037e9eafc4f0da4cd045ad9927e7787) - 2025-06-16
+* [Commit] [Revert "fix: TxDataZero2txs200M_200M"](https://github.com/erigontech/erigon/commit/e9e39bf6f3dbc452fc2f22a1c3daf405b163b8c3) - 2025-06-17
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -301,6 +301,18 @@ Team: Reth
 * [Commit] [perf(engine): prewarm transactions in descending gas limit order](https://github.com/paradigmxyz/reth/commit/6ee8ad083f8865150b5f84b96e5c545ec228786b) - 2025-06-14
 * [Commit] [chore: re-export more op types (#16788)](https://github.com/paradigmxyz/reth/commit/217289af6f58647af9011be01bd0592abdc5b844) - 2025-06-16
 * [Commit] [revertme: disable precompile cache](https://github.com/paradigmxyz/reth/commit/9c70216e0eae36965edeefbf05669f9a8f56c344) - 2025-06-16
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/734d60358b5bec9ac7bdb82b026c84432b7a1faa) - 2025-06-17
+* [Commit] [Merge origin/main into alexey/nybbles-uint](https://github.com/paradigmxyz/reth/commit/a1a77a738612906ba95acc211d1c922b75891de3) - 2025-06-17
+* [Commit] [chore: bump alloy (#16828)](https://github.com/paradigmxyz/reth/commit/5d754195a3a2484309ef85de1fec00e82292013e) - 2025-06-17
+* [Commit] [Update crates/trie/sparse/src/trie.rs](https://github.com/paradigmxyz/reth/commit/cc8c3e18a9f58af585998799c452f4649c8d8b11) - 2025-06-17
+* [Commit] [perf: reuse accounts trie in payload processing (#16836)](https://github.com/paradigmxyz/reth/commit/519cd3e3076d3b93913ee63145261d21bfa29c4c) - 2025-06-17
+* [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/68edca99b692b172ccad6c5673d09e9ebf782746) - 2025-06-17
+* [Commit] [fix tests](https://github.com/paradigmxyz/reth/commit/8def039485a7c849f8be09cd1358c6e4156bff15) - 2025-06-17
+* [Commit] [fix tests](https://github.com/paradigmxyz/reth/commit/8280ad0da02cf6ff01b6c18818b251af13c1df53) - 2025-06-17
+* [Commit] [fix tests](https://github.com/paradigmxyz/reth/commit/5b9396c00c9d23393f624aa15b12b1f52d3d2249) - 2025-06-17
+* [Commit] [fix tests](https://github.com/paradigmxyz/reth/commit/14480ac880dcaae49362634b9a234a729bad23f5) - 2025-06-17
+* [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/ee0b60e42533a93716ab74686e3d015460fe82cf) - 2025-06-17
+* [Commit] [feat(reth-bench): add CSV output format for benchmark results](https://github.com/paradigmxyz/reth/commit/b14f265683ff08c68bb7f011d9ec6c6f8b1f38cf) - 2025-06-17
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

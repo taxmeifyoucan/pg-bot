@@ -58,6 +58,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Parallel ci propertyTests](https://github.com/Consensys/teku/pull/9552) - 2025-06-11
 * [Commit] [Property tests - Reduce execution and blobs rounds (#9549)](https://github.com/Consensys/teku/commit/99eeffdf78d5f23e308154896b42a70cc246e6d9) - 2025-06-11
 * [Pull Request] [Property tests - Reduce execution and blobs rounds](https://github.com/Consensys/teku/pull/9549) - 2025-06-11
+* [Issue] [[VC] Improve timeout and error handling consuming duty production\publish endpoints](https://github.com/Consensys/teku/issues/9560) - 2025-06-17
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

@@ -55,6 +55,17 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [fix: change account state to None if NotExisting on insert_account_info (#2630)](https://github.com/bluealloy/revm/commit/be93995e45dc76065899b2bb9b82cac7a282d129) - 2025-06-13
 * [Commit] [feat(precompile): rug/gmp-based modexp (#2596)](https://github.com/bluealloy/revm/commit/c269d70066223422a34b8f031abe67e43be3b682) - 2025-06-13
 * [Commit] [perf: store coinbase address separately to avoid cloning warm addresses in the common case (#2634)](https://github.com/bluealloy/revm/commit/c66b841dca4c0f093fdb10ce4fccf1b4aa0b9995) - 2025-06-16
+* [Pull Request] [test: bump alloydb test](https://github.com/bluealloy/revm/pull/2640) - 2025-06-17
+* [Commit] [perf: store coinbase address separately to avoid cloning warm addresses in the common case (#2634)](https://github.com/bluealloy/revm/commit/c66b841dca4c0f093fdb10ce4fccf1b4aa0b9995) - 2025-06-17
+* [Pull Request] [chore: lints for revm-database](https://github.com/bluealloy/revm/pull/2639) - 2025-06-17
+* [Commit] [chore: claud.md (#2638)](https://github.com/bluealloy/revm/commit/14c8a30feae4f0097d81822f0d02dbc41a490743) - 2025-06-17
+* [Pull Request] [chore: claude.md](https://github.com/bluealloy/revm/pull/2638) - 2025-06-17
+* [Commit] [chore: claud.md](https://github.com/bluealloy/revm/commit/f0fca2949b1e11088a58b513079fd6a94a6958f5) - 2025-06-17
+* [Commit] [perf: re-use frame allocation (#2636)](https://github.com/bluealloy/revm/commit/77054da0bfd397482f5817987a49f67dab59c5c6) - 2025-06-17
+* [Commit] [renames](https://github.com/bluealloy/revm/commit/c9243fab30808eb8e94bf22c1827623d55b9c149) - 2025-06-17
+* [Commit] [cleaup, renames and moving of structs](https://github.com/bluealloy/revm/commit/b35d01c19b7e0c9f867dd4f80e3604f5acd5b46d) - 2025-06-17
+* [Commit] [cleaup, renames and moving of structs](https://github.com/bluealloy/revm/commit/f7539501d9a3e648a8e30dd38bc14bddc8c02ea1) - 2025-06-17
+* [Commit] [fix: compare_or_save_testdata sig (#2637)](https://github.com/bluealloy/revm/commit/f0b52cb0022ed4bb2a6ac46eca1877e673fb75d1) - 2025-06-17
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

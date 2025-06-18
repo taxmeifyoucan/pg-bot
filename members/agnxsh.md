@@ -129,6 +129,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fixes](https://github.com/status-im/nimbus-eth2/commit/1be1086efed53f8d713c5106b2bab6035b8888b1) - 2025-06-12
 * [Commit] [drop versioned hashes](https://github.com/status-im/nimbus-eth2/commit/3c8d88f35cb095d3b31e1153fd9087ce0ae823b4) - 2025-06-12
 * [Commit] [fix tests](https://github.com/status-im/nimbus-eth2/commit/7460b68a5adf5037cb9a25432aab1e5cbfa69d79) - 2025-06-12
+* [Pull Request] [patch in proposer lookahead fixes from berlinterop](https://github.com/status-im/nimbus-eth2/pull/7244) - 2025-06-17
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
