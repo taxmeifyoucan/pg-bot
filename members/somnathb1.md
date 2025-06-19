@@ -191,6 +191,7 @@ Team: Erigon
 * [Commit] [Add P256Verify for osaka and implement EIP-7951 (#15519)](https://github.com/erigontech/erigon/commit/1d5bbd65dfc8a7b457666379c86f17030371be34) - 2025-06-13
 * [Commit] [Clean](https://github.com/erigontech/erigon/commit/f79cebbce389e3a5c0a458abb5103776c94e3b3d) - 2025-06-15
 * [Commit] [Remove hidden malloc calls (#15579)](https://github.com/erigontech/erigon/commit/148cade2e87192aa634da44b3410776262ee45e3) - 2025-06-15
+* [Pull Request] [tests: Update eests to berlinterop-devnet-1 release](https://github.com/erigontech/erigon/pull/15642) - 2025-06-18
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -246,11 +246,14 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a26475201db0b47cf390889890617c548b18cc6a) - 2025-06-16
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8d16e0f5522759c07466d44f101732b728f63e2c) - 2025-06-17
 * [Pull Request] [Added chain-specific gas limit defaults](https://github.com/erigontech/erigon/pull/15619) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e8eeb2aa10d99681c46bed02be61521a4344243b) - 2025-06-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c2ce8d0910039098e3f5cf2ad60f7c12d8420690) - 2025-06-18
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add specific max message size to `GetReceipts` in DevP2P](https://github.com/ethereum/EIPs/pull/9892) - 2025-06-11
+* [Pull Request] [Update EIP7934](https://github.com/ethereum/EIPs/pull/9907) - 2025-06-18
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

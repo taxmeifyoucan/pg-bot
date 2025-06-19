@@ -79,6 +79,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add unit test](https://github.com/ChainSafe/lodestar/commit/b1d9965c19fe82061f6d89a5e2bbbae262fc9127) - 2025-06-17
 * [Commit] [Move importBlock code to appropriate place](https://github.com/ChainSafe/lodestar/commit/4112b2e0ca5b4986dae9af2b1e8e73d6fe55e4a8) - 2025-06-17
 * [Commit] [fix unit test](https://github.com/ChainSafe/lodestar/commit/0228ee9be2247446883d988e7a31db4eaede47b0) - 2025-06-17
+* [Commit] [Add subscribedBoundariesByEpoch](https://github.com/ChainSafe/lodestar/commit/61c38431d42cf58d8dbc6179e78688cd49bd7ae3) - 2025-06-18
+* [Commit] [Update comment](https://github.com/ChainSafe/lodestar/commit/d13c66bd8ed76da6fd256be1b1b102888a79ab09) - 2025-06-18
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

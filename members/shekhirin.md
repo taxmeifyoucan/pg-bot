@@ -313,6 +313,10 @@ Team: Reth
 * [Commit] [fix tests](https://github.com/paradigmxyz/reth/commit/14480ac880dcaae49362634b9a234a729bad23f5) - 2025-06-17
 * [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/ee0b60e42533a93716ab74686e3d015460fe82cf) - 2025-06-17
 * [Commit] [feat(reth-bench): add CSV output format for benchmark results](https://github.com/paradigmxyz/reth/commit/b14f265683ff08c68bb7f011d9ec6c6f8b1f38cf) - 2025-06-17
+* [Commit] [fix test](https://github.com/paradigmxyz/reth/commit/073336aa1ecaafed7414ca7942829a908459ebdf) - 2025-06-18
+* [Commit] [refactor(rpc): Delegate `FromConsensusTx` conversion for `EthereumTxEnvelope` to `alloy` (#16909)](https://github.com/paradigmxyz/reth/commit/f6ad01de4a19d6925fb4f7808557f200680edd7d) - 2025-06-18
+* [Commit] [parallel_trie.rs を更新](https://github.com/paradigmxyz/reth/commit/d13248bb71ebf227098a961e97036b975179c0f4) - 2025-06-18
+* [Commit] [prefix_set.rs を更新](https://github.com/paradigmxyz/reth/commit/d24b627eb39c5593f6b9c5f00a8a7fa2937b0f57) - 2025-06-18
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

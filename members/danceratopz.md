@@ -336,6 +336,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tooling): add CLAUDE.md (#1749)](https://github.com/ethereum/execution-spec-tests/commit/a7ea9af3597836ba9a5b029d6cfcec228dee4b54) - 2025-06-17
 * [Issue] [feat(fill,docs,fw): improve `fill`'s test dev-ex](https://github.com/ethereum/execution-spec-tests/issues/1752) - 2025-06-17
 * [Commit] [Update HUMANS.md](https://github.com/ethereum/execution-spec-tests/commit/73b9a54c7e8000367f7f090df0eb1083f50c521d) - 2025-06-17
+* [Commit] [Deployed 6e272b28e7 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/432bd0ded523c09705ee1a8c7333c53f690955fe) - 2025-06-18
+* [Commit] [Deployed 4533396a5c to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/201ad6c8acf049e7ec057b193c00a6f31cea61db) - 2025-06-18
+* [Pull Request] [feat(consume): add `consume enginex` simulator](https://github.com/ethereum/execution-spec-tests/pull/1765) - 2025-06-18
+* [Commit] [chore(tooling): better mypy config (#1756)](https://github.com/ethereum/execution-spec-tests/commit/69a8e5b819b18ea32f77430fc32614d6b4f4f90d) - 2025-06-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

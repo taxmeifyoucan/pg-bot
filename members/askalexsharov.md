@@ -2606,6 +2606,11 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/659337b90df8a809736c1015851d45eed7e39ac7) - 2025-06-17
 * [Commit] [save](https://github.com/erigontech/erigon/commit/25aeab574d1ab3d33a5b765de150841ce9a4a9cf) - 2025-06-17
 * [Pull Request] [agg: revert `AggregatorSqueezeCommitmentValues`](https://github.com/erigontech/erigon/pull/15611) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3d366d63b2a697c883dff85e35a0a48aacb07a3f) - 2025-06-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b9d1cf88200a61f649f9de61dcfffabb5600afaf) - 2025-06-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f0c7b4c9049a0cef054c4fd954bed71aba00ba07) - 2025-06-18
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/6b8afe13a2c38342ebb254e5c4dcf64863b86b5e) - 2025-06-18
+* [Commit] [agg: revert `AggregatorSqueezeCommitmentValues` (#15611)](https://github.com/erigontech/erigon/commit/6b4fbd2d4fdd6f6cb0a69f7d5d3023ac5b449403) - 2025-06-18
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

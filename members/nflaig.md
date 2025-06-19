@@ -218,6 +218,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix type checks](https://github.com/ChainSafe/lodestar/commit/cc69810c5ecf8912ed38d6a820a4ce2fd9694634) - 2025-06-17
 * [Commit] [Emit blob sidecar event on engine and req/resp response](https://github.com/ChainSafe/lodestar/commit/d63562b93423c03be3b7220288fb8be3e6796501) - 2025-06-17
 * [Commit] [chore: update query for `attestations_per_committee` metric (#7923)](https://github.com/ChainSafe/lodestar/commit/1b4cda38f56b75e9be94a9234cc8118d7deb5b02) - 2025-06-17
+* [Commit] [Update .env.test](https://github.com/ChainSafe/lodestar/commit/3e311a7142e540d105d8fcf70dc82a3d88dc1062) - 2025-06-18
+* [Pull Request] [test: run against stable lighthouse release in sim tests](https://github.com/ChainSafe/lodestar/pull/7973) - 2025-06-18
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

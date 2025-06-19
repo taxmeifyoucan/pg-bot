@@ -100,6 +100,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Revert "rpc: try out go-json"](https://github.com/erigontech/erigon/commit/96659e55752cbbf0b2dd5880685ec1b578c44b0d) - 2025-06-16
 * [Commit] [core/state: fix missed part in test, for failing linter (#15421)](https://github.com/erigontech/erigon/commit/c8b8921b2037e9eafc4f0da4cd045ad9927e7787) - 2025-06-16
 * [Commit] [Revert "fix: TxDataZero2txs200M_200M"](https://github.com/erigontech/erigon/commit/e9e39bf6f3dbc452fc2f22a1c3daf405b163b8c3) - 2025-06-17
+* [Commit] [Revert "Add Back "Use old fastexp"""](https://github.com/erigontech/erigon/commit/35c2ad647c37f4f4dc773277c9957e38d799ebe6) - 2025-06-18
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

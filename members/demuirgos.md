@@ -50,6 +50,8 @@ Team: Nethermind
 * [Commit] [Add ilvm and evm comparaison option "evm-ilevm"](https://github.com/NethermindEth/nethermind/commit/42728483c539e40f9e66ed0bb0fe3f546ffae408) - 2025-06-12
 * [Commit] [fix getCodeFromCache not setting PrecompilationState correction](https://github.com/NethermindEth/nethermind/commit/ba46d58c4a5134e29b967023b29d41d9edc6248e) - 2025-06-16
 * [Commit] [Add fibb/isPrim equivalence tests to test suite](https://github.com/NethermindEth/nethermind/commit/a70ad2124083b3bb89d619a09a108cdb2af9b2fa) - 2025-06-16
+* [Pull Request] [Feature/ilevm/segmented methods ](https://github.com/NethermindEth/nethermind/pull/8802) - 2025-06-18
+* [Commit] ["fix" weth benchmark txPair](https://github.com/NethermindEth/nethermind/commit/5f4c27a2f1558bd6626a6d1280e1d6932f3186af) - 2025-06-18
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

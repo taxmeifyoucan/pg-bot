@@ -44,6 +44,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Added error for genesis state not matching latest block header](https://github.com/Consensys/teku/pull/9482) - 2025-05-23
 
 * [Pull Request] [modified computeForkVersion](https://github.com/Consensys/teku/pull/9551) - 2025-06-11
+* [Pull Request] [cleanup some of the slot time methods](https://github.com/Consensys/teku/pull/9562) - 2025-06-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [added get_bpo_fork_version function](https://github.com/ethereum/consensus-specs/pull/4343) - 2025-05-29
 ## Q1 2025

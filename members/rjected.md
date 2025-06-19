@@ -69,6 +69,13 @@ Team: Reth
 * [Issue] [Update proptest to 1.7.0](https://github.com/paradigmxyz/reth/issues/16738) - 2025-06-10
 * [Commit] [Revert "perf: add profile-guided optimization (PGO) support (#16771)" (#16773)](https://github.com/paradigmxyz/reth/commit/a6a6103d13d92772183931b37528cf35b3b617f9) - 2025-06-11
 * [Commit] [chore: add tests for proof fetching](https://github.com/paradigmxyz/reth/commit/5564bcc414b0865b511b5c7370201b8b6af4e66e) - 2025-06-16
+* [Pull Request] [chore(net): document test_trusted_peer_only, fix incoming local_addr](https://github.com/paradigmxyz/reth/pull/16925) - 2025-06-18
+* [Pull Request] [chore(engine): add log showing which root algorithm is being used](https://github.com/paradigmxyz/reth/pull/16924) - 2025-06-18
+* [Commit] [chore(engine): add log showing which root algorithm is being used and why](https://github.com/paradigmxyz/reth/commit/5243a621402187406b1ae2563172d2fd6ee6ce1f) - 2025-06-18
+* [Issue] [Make `test_trusted_peer_only` less flaky](https://github.com/paradigmxyz/reth/issues/16921) - 2025-06-18
+* [Commit] [chore(trie): add more stubs for ParallelSparseTrie](https://github.com/paradigmxyz/reth/commit/8981f75a387c8c381c4e157276d596c3cd3c4294) - 2025-06-18
+* [Pull Request] [chore(trie): add more stubs for ParallelSparseTrie](https://github.com/paradigmxyz/reth/pull/16918) - 2025-06-18
+* [Pull Request] [docs(trie): mention that SparseSubtrie path is a full path](https://github.com/paradigmxyz/reth/pull/16917) - 2025-06-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add basic tests for modexp](https://github.com/bluealloy/revm/pull/2603) - 2025-06-09
 * [Pull Request] [feat: add openssl based modexp impl](https://github.com/bluealloy/revm/pull/2599) - 2025-06-09

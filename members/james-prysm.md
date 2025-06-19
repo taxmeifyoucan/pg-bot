@@ -127,6 +127,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Update validator/client/runner.go](https://github.com/OffchainLabs/prysm/commit/b5b27e92724b2664e0720d1ea30b69010cebd747) - 2025-06-16
 * [Commit] [Update validator/client/service.go](https://github.com/OffchainLabs/prysm/commit/1b79e62a4412a2abe3924892e1bf6e6aa110866c) - 2025-06-16
 * [Commit] [Update validator/client/runner.go](https://github.com/OffchainLabs/prysm/commit/e0cc18728e6ba2719c8de9cd9d79f2a4704861bf) - 2025-06-16
+* [Commit] [wip no unit test for recursive healthy host find](https://github.com/OffchainLabs/prysm/commit/74b64c6de98a390b01bf3b69858238384c2979e5) - 2025-06-18
+* [Commit] [Update flags.go](https://github.com/OffchainLabs/prysm/commit/868c4f6fb37aa2a5be77575abec9c343ed429ced) - 2025-06-18
+* [Commit] [reverting to not create more edgecases](https://github.com/OffchainLabs/prysm/commit/510995866cd320ac52d3960caf28c1dc8ce94244) - 2025-06-18
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

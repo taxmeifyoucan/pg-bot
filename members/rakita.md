@@ -66,6 +66,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [cleaup, renames and moving of structs](https://github.com/bluealloy/revm/commit/b35d01c19b7e0c9f867dd4f80e3604f5acd5b46d) - 2025-06-17
 * [Commit] [cleaup, renames and moving of structs](https://github.com/bluealloy/revm/commit/f7539501d9a3e648a8e30dd38bc14bddc8c02ea1) - 2025-06-17
 * [Commit] [fix: compare_or_save_testdata sig (#2637)](https://github.com/bluealloy/revm/commit/f0b52cb0022ed4bb2a6ac46eca1877e673fb75d1) - 2025-06-17
+* [Commit] [feat: add fallible conversion from OpHaltReason to HaltReason (#2649)](https://github.com/bluealloy/revm/commit/db61cc384a3a041e1c6a27988b5bcbcd6205962a) - 2025-06-18
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

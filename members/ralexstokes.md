@@ -15,6 +15,7 @@ Team: Applied Research Group (ARG)
 * [Issue] [All Core Devs - Consensus (ACDC) #155, April 17 2025](https://github.com/ethereum/pm/issues/1434) - 2025-04-05
 
 * [Issue] [All Core Devs - Consensus (ACDC) #156, May 1 2025](https://github.com/ethereum/pm/issues/1490) - 2025-04-18
+* [Issue] [All Core Devs - Consensus (ACDC) #159, June 26 2025](https://github.com/ethereum/pm/issues/1579) - 2025-06-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [update Fusaka CFI and SFI list](https://github.com/ethereum/EIPs/pull/9664) - 2025-04-18
 

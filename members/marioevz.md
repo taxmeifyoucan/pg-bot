@@ -190,6 +190,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(zkevm): add p256verify to worst compute tests (#1744)](https://github.com/ethereum/execution-spec-tests/commit/f7ad3a1e374aaba4b3930a5c0e12fcbe22e99c7e) - 2025-06-17
 * [Commit] [docs: changelog](https://github.com/ethereum/execution-spec-tests/commit/6a8b43236a1a30655c2f26ec850878be64c84272) - 2025-06-17
 * [Pull Request] [fix(types): Change block hashes key to ZeroPaddedHexNumber](https://github.com/ethereum/execution-spec-tests/pull/1754) - 2025-06-17
+* [Issue] [Adapt zkevm tests to account for `fork.transaction_gas_limit_cap` (EIP-7825)](https://github.com/ethereum/execution-spec-tests/issues/1770) - 2025-06-18
+* [Commit] [fix(tests/zkevm): update jump seq for valid dest (#1710)](https://github.com/ethereum/execution-spec-tests/commit/4533396a5cd16d4743de60639ae3454d4d96df23) - 2025-06-18
+* [Commit] [feat(forks): add stack limit in fork configuration (#1768)](https://github.com/ethereum/execution-spec-tests/commit/6e272b28e72635e6c0493be10426ecfce94472d5) - 2025-06-18
+* [Commit] [fix(github): Coverage scripts](https://github.com/ethereum/execution-spec-tests/commit/6cc46562351d3b0ec4e3415ed72a7473e25e353c) - 2025-06-18
+* [Commit] [refactor(fill,fixtures): rename "engine reorg" to "engine x"; improve pre-allocation group terminology (#1760)](https://github.com/ethereum/execution-spec-tests/commit/bb4289acb771702235c9427d72d1f1fc97cc666c) - 2025-06-18
+* [Issue] [Bump getPayload waiting time in consume if blob txs are involved](https://github.com/ethereum/execution-spec-tests/issues/1766) - 2025-06-18
+* [Issue] [Add a small delay to client stop on consume engine when the test failed](https://github.com/ethereum/execution-spec-tests/issues/1764) - 2025-06-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

@@ -127,6 +127,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [[berlinterop-devnet-2] add clz opcode](https://github.com/hyperledger/besu/pull/8800) - 2025-06-11
 * [Commit] [Use UInt256 implementation (#8812)](https://github.com/hyperledger/besu/commit/43747263480d08a6c9a5ca9740b13d66e5783823) - 2025-06-12
 * [Pull Request] [[berlin-interop-devnet] Use UInt256 implementation](https://github.com/hyperledger/besu/pull/8812) - 2025-06-12
+* [Commit] [Simplify parameters of BlockSelectionContext (#8828)](https://github.com/hyperledger/besu/commit/cc5f93a7ecb15c2e610af75ffaf7861b0b907f4d) - 2025-06-18
+* [Pull Request] [refactor: simplify parameters of BlockSelectionContext](https://github.com/hyperledger/besu/pull/8828) - 2025-06-18
+* [Commit] [feat(peerDAS): add max number of blob per transaction (#8761)](https://github.com/hyperledger/besu/commit/c0af167e13107704f9b6a6b65df7ce724943882e) - 2025-06-18
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

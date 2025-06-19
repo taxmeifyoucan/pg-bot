@@ -17,6 +17,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [execution-apis: Add EIP-7594 (PeerDAS) related changes (#630)](https://github.com/ethereum/execution-apis/commit/5d634063ccfd897a6974ea589c00e2c1d889abc9) - 2025-04-23
 * [Commit] [Remove execution requests definition from schema (#649)](https://github.com/ethereum/execution-apis/commit/aed9d04b94e59f5ac937a6618037562082760d88) - 2025-05-07
+* [Commit] [make engine_getBlobsV1 non-optional as of Pectra (#628)](https://github.com/ethereum/execution-apis/commit/bc5a37ee69a64769bd8d0a2056672361ef5f3839) - 2025-06-18
 ## Q1 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

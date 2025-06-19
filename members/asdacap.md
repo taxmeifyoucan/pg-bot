@@ -258,6 +258,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Cleanup/make transaction executor always take adapter (#8750)](https://github.com/NethermindEth/nethermind/commit/811cde9c00d63b1210d1aa772063b2990a830dd0) - 2025-06-13
 * [Commit] [Refactor/taiko extended eth module (#8769)](https://github.com/NethermindEth/nethermind/commit/2c48d7ee8e311ea69c6caf17b4ae8178eb59a8ed) - 2025-06-13
 * [Commit] [Fix/era import (#8774)](https://github.com/NethermindEth/nethermind/commit/941a528aef4d61258c3432fcfa254950e0dadf40) - 2025-06-16
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/572fed348d55dce8f934bc24fcd3cef0b1e4a0ee) - 2025-06-18
+* [Commit] [Auto-update fast sync settings (#8745)](https://github.com/NethermindEth/nethermind/commit/370aeb3b17683d5a599fe39e16ff33f5c70da777) - 2025-06-18
+* [Commit] [Update src/Nethermind/Nethermind.Trie/Pruning/TrieStore.cs](https://github.com/NethermindEth/nethermind/commit/bbc0fb3aa131e55e22c3906e1e0ea81c26748cbb) - 2025-06-18
+* [Commit] [Update src/Nethermind/Nethermind.Trie/Pruning/TrieStore.cs](https://github.com/NethermindEth/nethermind/commit/fd5f834405eee7c5cb6351b8c33760ecdcd03bb0) - 2025-06-18
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/aa2482c33ea56ddc7a72fb7503132ddadd21e0e4) - 2025-06-18
+* [Commit] [Auto-update fast sync settings (#8788)](https://github.com/NethermindEth/nethermind/commit/2bc3ad155d11b59790309f2420f74e50b9835d25) - 2025-06-18
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

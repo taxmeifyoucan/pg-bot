@@ -127,6 +127,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [AnnounceBlockRangeLoop test](https://github.com/erigontech/erigon/commit/9bcf830f6dea0e621bc83a5b2f04891490239c85) - 2025-06-02
 * [Commit] [Add test](https://github.com/erigontech/erigon/commit/d255f1c9c8acc8e5bce4d3c2942826bce5b72019) - 2025-06-02
 * [Commit] [Fixed heimdall v2 responses (#15571)](https://github.com/erigontech/erigon/commit/710e747a405e90a9faf9798faee5869339cf7548) - 2025-06-16
+* [Commit] [Updated config for bor-mainnet Bhilai fork (#15621)](https://github.com/erigontech/erigon/commit/d1fd9118a69acc802ef0787b5d0fe07348360173) - 2025-06-18
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

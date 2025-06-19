@@ -27,6 +27,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Refactor compute_fork_digest for Fulu](https://github.com/Consensys/teku/pull/9548) - 2025-06-11
 * [Pull Request] [[SPIKE] Change gossip for BPO](https://github.com/Consensys/teku/pull/9555) - 2025-06-12
 * [Pull Request] [Increase default gas limit to 45 million](https://github.com/Consensys/teku/pull/9559) - 2025-06-17
+* [Pull Request] [Use more efficient BlobSchedule helper class](https://github.com/Consensys/teku/pull/9563) - 2025-06-18
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

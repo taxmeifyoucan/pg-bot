@@ -333,6 +333,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Max at 16](https://github.com/NethermindEth/nethermind/commit/e30e593d5ab80a74099dcbcb730b455f70e8412b) - 2025-06-17
 * [Commit] [Change Ethereum mainet gaslimit default to 45M (#8793)](https://github.com/NethermindEth/nethermind/commit/652b5a75ce6b279903771e56ee003594323b48d5) - 2025-06-17
 * [Pull Request] [Change Ethereum mainet gaslimit default to 45M](https://github.com/NethermindEth/nethermind/pull/8793) - 2025-06-17
+* [Commit] [Fix timeout](https://github.com/NethermindEth/nethermind/commit/b144c6f24629d5baab4abf2f208012e7be131941) - 2025-06-18
+* [Commit] [Atomic block](https://github.com/NethermindEth/nethermind/commit/ee855d11cf552ec21f25a2e31a11ab8d02239408) - 2025-06-18
+* [Commit] [Perf/allow archive node to use prune cache (#8655)](https://github.com/NethermindEth/nethermind/commit/d5f289735315361508e97144d4e20084aceaa2bb) - 2025-06-18
+* [Commit] [tweak](https://github.com/NethermindEth/nethermind/commit/88973ece67ebf9ba9416aeb75f1371aba39cc36a) - 2025-06-18
+* [Commit] [Don't pass through synchnronously](https://github.com/NethermindEth/nethermind/commit/4b53ed42bb847f77158f87ff7992a8317484bfd4) - 2025-06-18
+* [Pull Request] [Skip recovery queue when no blocks queued](https://github.com/NethermindEth/nethermind/pull/8801) - 2025-06-18
+* [Commit] [PatriciaTree remove unused field (#8800)](https://github.com/NethermindEth/nethermind/commit/e9f2de5f7af174bfbc591f0a62827b0057c2b8cc) - 2025-06-18
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

@@ -463,6 +463,17 @@ Team: Reth
 * [Pull Request] [perf: avoid duplicate peer lookup](https://github.com/paradigmxyz/reth/pull/16846) - 2025-06-17
 * [Pull Request] [fix: handle forced propagations](https://github.com/paradigmxyz/reth/pull/16845) - 2025-06-17
 * [Issue] [Announce support for eth69](https://github.com/paradigmxyz/reth/issues/16844) - 2025-06-17
+* [Commit] [deps: update alloy dependencies to latest patch versions (#16922)](https://github.com/paradigmxyz/reth/commit/fea711e7ded158d26b23b291548b3fec1696aa13) - 2025-06-18
+* [Commit] [chore(engine): add log showing which root algorithm is being used (#16924)](https://github.com/paradigmxyz/reth/commit/8bcf1906f6929b1b4cc5b622d765594a689e6d4f) - 2025-06-18
+* [Commit] [chore: bump op-alloy](https://github.com/paradigmxyz/reth/commit/0837d381c99d8d454f4ddaf1ea6d69c9b6b8d035) - 2025-06-18
+* [Pull Request] [deps: update alloy dependencies to latest patch versions](https://github.com/paradigmxyz/reth/pull/16922) - 2025-06-18
+* [Commit] [fix: typos in documentation and source code (#16916)](https://github.com/paradigmxyz/reth/commit/5cbb1f650b0a8c960901376f50f94e60ba696604) - 2025-06-18
+* [Commit] [chore: add missing receipts69 handling (#16913)](https://github.com/paradigmxyz/reth/commit/de56409a5173d58e936a8ce82c50181e47667e1b) - 2025-06-18
+* [Commit] [docs: improve transaction-related trait documentation (#16920)](https://github.com/paradigmxyz/reth/commit/d9512e2ca6a7845977f8a98ee88bcd8959c0d4c6) - 2025-06-18
+* [Commit] [fix docs](https://github.com/paradigmxyz/reth/commit/7a5b13ca40bf1b68bdfaec7a194a5c908f8a34c7) - 2025-06-18
+* [Commit] [chore: rm more unused](https://github.com/paradigmxyz/reth/commit/bb52d33dae30ddff98caccd0978ab900f0beb20b) - 2025-06-18
+* [Commit] [docs: improve transaction-related trait documentation](https://github.com/paradigmxyz/reth/commit/a10361d4319d7c1e09b26a83eb17a5dd90f4719b) - 2025-06-18
+* [Pull Request] [docs: improve transaction-related trait documentation](https://github.com/paradigmxyz/reth/pull/16920) - 2025-06-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

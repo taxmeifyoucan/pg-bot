@@ -39,6 +39,7 @@ Team: Geth
 * [Pull Request] [core/vm: implement updates to modexp gas cost changes in eip 7883](https://github.com/ethereum/go-ethereum/pull/32015) - 2025-06-12
 * [Pull Request] [crypto/bn256:  default to gnark implementation](https://github.com/ethereum/go-ethereum/pull/32025) - 2025-06-13
 * [Issue] [replace bn256 precompile implementation with Gnark](https://github.com/ethereum/go-ethereum/issues/32023) - 2025-06-13
+* [Commit] [crypto/bn256/cloudflare: pull in upstream fix for R27 and R29 usage (#32057)](https://github.com/ethereum/go-ethereum/commit/0ce13346ce6ddf42e97aeaa8caf7aad051e43716) - 2025-06-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [eip-7892: convert contract code field from union type to list of bytes](https://github.com/ethereum/EIPs/pull/9848) - 2025-06-02
 * [Pull Request] [eip-7928: make explicit that the BAL is its own field in the block, remove SSZ encoding as a requirement for BAL verification](https://github.com/ethereum/EIPs/pull/9871) - 2025-06-08
