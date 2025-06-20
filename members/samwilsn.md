@@ -34,6 +34,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [improve MessageCallGas doc and naming](https://github.com/ethereum/execution-specs/commit/d8a436073f8667bf4d3513260315dcc090bddd05) - 2025-06-02
 * [Commit] [fix: type 4 transaction accessed address addition in wrong place (#1255)](https://github.com/ethereum/execution-specs/commit/fe1b7d1210f4a4f596dd905e3d2fb96e1c07dbd0) - 2025-06-03
 * [Pull Request] [Switch alt_bn128 to optimized curve implementation](https://github.com/ethereum/execution-specs/pull/1278) - 2025-06-13
+* [Commit] [Remove duplicate Cancun row from upgrades table (#1282)](https://github.com/ethereum/execution-specs/commit/0fa85f78fd2494e0b6973a274bc358beda7bef56) - 2025-06-19
+* [Commit] [Create a security document](https://github.com/ethereum/execution-specs/commit/2c3de1d34a92c7af008fe5c5533141f05c3af660) - 2025-06-19
+* [Commit] [add missing exceptions to prague](https://github.com/ethereum/execution-specs/commit/2be399c9eded441c2936ef0e5aac98f1fb90b403) - 2025-06-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 

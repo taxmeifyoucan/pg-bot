@@ -2611,6 +2611,11 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f0c7b4c9049a0cef054c4fd954bed71aba00ba07) - 2025-06-18
 * [Commit] [ci](https://github.com/erigontech/erigon/commit/6b8afe13a2c38342ebb254e5c4dcf64863b86b5e) - 2025-06-18
 * [Commit] [agg: revert `AggregatorSqueezeCommitmentValues` (#15611)](https://github.com/erigontech/erigon/commit/6b4fbd2d4fdd6f6cb0a69f7d5d3023ac5b449403) - 2025-06-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ef3aa5e5616bee2609092f58873e9c024f047eea) - 2025-06-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ffcf30b5eabdb633ac62048b3e9af1fd3e79a2f8) - 2025-06-19
+* [Commit] [optimize: reduce sortedAllocKeys memory allocations (#15628)](https://github.com/erigontech/erigon/commit/bb9ed875cfeb2ff2e5d06d7aed5ab34384d27acb) - 2025-06-19
+* [Commit] [E3: Use unbounded MDBX for Engine downloader (#15575)](https://github.com/erigontech/erigon/commit/41fb0d9c61a10977752a104f0f199405d0b48653) - 2025-06-19
+* [Commit] [deps: up `x` deps (#15562)](https://github.com/erigontech/erigon/commit/9c45574d9caede08d65daf5846bf9b151a3a4c1b) - 2025-06-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

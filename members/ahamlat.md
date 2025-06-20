@@ -22,6 +22,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [improve VersionedHash unit tests](https://github.com/hyperledger/besu/pull/8628) - 2025-05-14
 * [Commit] [Improve extcodehash perf (#8811)](https://github.com/hyperledger/besu/commit/dda58fd5c9fcefe358ee6cad361c4441b24a19ea) - 2025-06-12
 * [Pull Request] [Improve extcodehash perf](https://github.com/hyperledger/besu/pull/8811) - 2025-06-12
+* [Commit] [Fix a log issue in BlockRlpSizeTransactionSelector and transaction hash (#8834)](https://github.com/hyperledger/besu/commit/27b84a3550364a330e796888fba977fdfdd9f071) - 2025-06-19
+* [Pull Request] [Fix a log issue in BlockRlpSizeTransactionSelector](https://github.com/hyperledger/besu/pull/8834) - 2025-06-19
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

@@ -67,6 +67,16 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [cleaup, renames and moving of structs](https://github.com/bluealloy/revm/commit/f7539501d9a3e648a8e30dd38bc14bddc8c02ea1) - 2025-06-17
 * [Commit] [fix: compare_or_save_testdata sig (#2637)](https://github.com/bluealloy/revm/commit/f0b52cb0022ed4bb2a6ac46eca1877e673fb75d1) - 2025-06-17
 * [Commit] [feat: add fallible conversion from OpHaltReason to HaltReason (#2649)](https://github.com/bluealloy/revm/commit/db61cc384a3a041e1c6a27988b5bcbcd6205962a) - 2025-06-18
+* [Commit] [compile](https://github.com/bluealloy/revm/commit/b74f949266aabda3b544cdc68e58c6af78bd1436) - 2025-06-19
+* [Commit] [compile](https://github.com/bluealloy/revm/commit/99b39244ae007cd30579287dd4bf210452ff185c) - 2025-06-19
+* [Commit] [wip optx builder](https://github.com/bluealloy/revm/commit/49ce0b6bb8c84331fdd57224f370eb7dff512e87) - 2025-06-19
+* [Pull Request] [refactor: use TxEnv::builder](https://github.com/bluealloy/revm/pull/2652) - 2025-06-19
+* [Commit] [chore: bump v77 (#2651)](https://github.com/bluealloy/revm/commit/765ac0e812bb248a7ed67a7167ad1116c4685597) - 2025-06-19
+* [Pull Request] [chore: bump v77](https://github.com/bluealloy/revm/pull/2651) - 2025-06-19
+* [Commit] [chore: bump v77](https://github.com/bluealloy/revm/commit/ef7eeb40a6a496f118b6826c31a0121c21ecdd09) - 2025-06-19
+* [Commit] [chore: release (#2641)](https://github.com/bluealloy/revm/commit/ec1e22e7d5e62119bc071fb1129cfa5e18fd8867) - 2025-06-19
+* [Commit] [chore: lints for examples (#2650)](https://github.com/bluealloy/revm/commit/373bf7ab551930ce9908078d311097509710d3a0) - 2025-06-19
+* [Pull Request] [chore: lints for examples](https://github.com/bluealloy/revm/pull/2650) - 2025-06-19
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -474,6 +474,17 @@ Team: Reth
 * [Commit] [chore: rm more unused](https://github.com/paradigmxyz/reth/commit/bb52d33dae30ddff98caccd0978ab900f0beb20b) - 2025-06-18
 * [Commit] [docs: improve transaction-related trait documentation](https://github.com/paradigmxyz/reth/commit/a10361d4319d7c1e09b26a83eb17a5dd90f4719b) - 2025-06-18
 * [Pull Request] [docs: improve transaction-related trait documentation](https://github.com/paradigmxyz/reth/pull/16920) - 2025-06-18
+* [Pull Request] [chore: update codeowners](https://github.com/paradigmxyz/reth/pull/16957) - 2025-06-19
+* [Pull Request] [chore: remove duplicate callfees](https://github.com/paradigmxyz/reth/pull/16955) - 2025-06-19
+* [Pull Request] [perf: use try cache filter](https://github.com/paradigmxyz/reth/pull/16951) - 2025-06-19
+* [Issue] [Make RpcMiddleWare customizable when launching RPC server](https://github.com/paradigmxyz/reth/issues/16942) - 2025-06-19
+* [Pull Request] [feat: add --rollup.historicalrpc CLI argument for op-reth](https://github.com/paradigmxyz/reth/pull/16941) - 2025-06-19
+* [Issue] [Add --rollup.historicalrpc to op-reth](https://github.com/paradigmxyz/reth/issues/16940) - 2025-06-19
+* [Commit] [test: flaky connection test (#16939)](https://github.com/paradigmxyz/reth/commit/2f9c5ace378fa54d42f1440488e5f042b5c58e46) - 2025-06-19
+* [Commit] [chore: Expose payload_id (#16931)](https://github.com/paradigmxyz/reth/commit/2ebb519287ffc4dcfa75743337b10cd1d68aac2d) - 2025-06-19
+* [Pull Request] [test: flaky connection test](https://github.com/paradigmxyz/reth/pull/16939) - 2025-06-19
+* [Commit] [docs](https://github.com/paradigmxyz/reth/commit/435beb38736104bb638c239cbb00fd482e90629f) - 2025-06-19
+* [Pull Request] [docs: improve ConfigureEvm trait documentation](https://github.com/paradigmxyz/reth/pull/16937) - 2025-06-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

@@ -75,6 +75,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Disable pacing](https://github.com/NethermindEth/nethermind/commit/447039fa52ca936b43a08d4c834712c7bb8479e7) - 2025-06-15
 * [Commit] [Minor revision](https://github.com/NethermindEth/nethermind/commit/2aef86ad044f8ae02add074fa5eda9bc6c58f7a5) - 2025-06-18
 * [Commit] [Update Nethermind.GmpBindings package](https://github.com/NethermindEth/nethermind/commit/6d762ebbade8e3edb0ee332c4199dbefae01d593) - 2025-06-18
+* [Commit] [Revise modexp](https://github.com/NethermindEth/nethermind/commit/560d54f2ff1beee45eda19aa1f07a252ba7d2d20) - 2025-06-19
+* [Pull Request] [Update packages](https://github.com/NethermindEth/nethermind/pull/8811) - 2025-06-19
+* [Commit] [Change Ethereum mainet gaslimit default to 45M (#8793)](https://github.com/NethermindEth/nethermind/commit/652b5a75ce6b279903771e56ee003594323b48d5) - 2025-06-19
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

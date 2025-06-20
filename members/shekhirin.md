@@ -317,6 +317,51 @@ Team: Reth
 * [Commit] [refactor(rpc): Delegate `FromConsensusTx` conversion for `EthereumTxEnvelope` to `alloy` (#16909)](https://github.com/paradigmxyz/reth/commit/f6ad01de4a19d6925fb4f7808557f200680edd7d) - 2025-06-18
 * [Commit] [parallel_trie.rs を更新](https://github.com/paradigmxyz/reth/commit/d13248bb71ebf227098a961e97036b975179c0f4) - 2025-06-18
 * [Commit] [prefix_set.rs を更新](https://github.com/paradigmxyz/reth/commit/d24b627eb39c5593f6b9c5f00a8a7fa2937b0f57) - 2025-06-18
+* [Pull Request] [Revert "bench: disable sparse trie update bench as it's flaky (#16953)"](https://github.com/paradigmxyz/reth/pull/16954) - 2025-06-19
+* [Commit] [bench: disable sparse trie update bench as it's flaky (#16953)](https://github.com/paradigmxyz/reth/commit/ea5ffa51fc11021289ecf656f77001d95eb9b53e) - 2025-06-19
+* [Commit] [fix doc comment](https://github.com/paradigmxyz/reth/commit/f9e26f7a87cf1980b1a5ec3ab7662de3928421b6) - 2025-06-19
+* [Commit] [Merge remote-tracking branch 'origin/main' into alexey/sparse-subtrie-update-hashes](https://github.com/paradigmxyz/reth/commit/3ba13758c1d616c1361f121a0ba3246c4f6ca922) - 2025-06-19
+* [Commit] [feat: require only account & bytecode reader for tx validation (#16930)](https://github.com/paradigmxyz/reth/commit/6aa73f14808491aae77fc7c6eb4f0aa63bef7e6e) - 2025-06-19
+* [Pull Request] [bench: disable sparse trie update bench as it's flaky](https://github.com/paradigmxyz/reth/pull/16953) - 2025-06-19
+* [Commit] [fix doc comments](https://github.com/paradigmxyz/reth/commit/a8a39ff7a4a03613227e254019f516fbd707cbe4) - 2025-06-19
+* [Commit] [fix doc comments](https://github.com/paradigmxyz/reth/commit/522cf6079db712b52994879c730c090770eb5518) - 2025-06-19
+* [Commit] [Merge remote-tracking branch 'origin/main' into alexey/parallel-sparse-trie-update-subtries](https://github.com/paradigmxyz/reth/commit/bc2439ec347868982a5ff3df900da82d50587594) - 2025-06-19
+* [Commit] [chore: move parallel sparse trie to its own crate (#16950)](https://github.com/paradigmxyz/reth/commit/ad681775084da071749d45e12a6bbbaeaff90a5b) - 2025-06-19
+* [Commit] [remove unused deps](https://github.com/paradigmxyz/reth/commit/df4dd3446f7b7d6bc02c2307be98921b866585c5) - 2025-06-19
+* [Pull Request] [chore: move parallel sparse trie to its own crate](https://github.com/paradigmxyz/reth/pull/16950) - 2025-06-19
+* [Commit] [chore: move parallel sparse trie to its own crate](https://github.com/paradigmxyz/reth/commit/34261dce15eddd6e39cc9134460eda99a0d9d727) - 2025-06-19
+* [Commit] [remove clones in tests](https://github.com/paradigmxyz/reth/commit/d4061e1c210a9d41e46ee247037783ca18fa6f97) - 2025-06-19
+* [Commit] [remove clones in tests](https://github.com/paradigmxyz/reth/commit/c70f613be51b57763e736e904fd0497eedf51f61) - 2025-06-19
+* [Commit] [fix tests](https://github.com/paradigmxyz/reth/commit/6a835356d6343de5334939cf4ab2f0815e291caa) - 2025-06-19
+* [Commit] [introduce return struct, more tests](https://github.com/paradigmxyz/reth/commit/4dc87881115c55753fa6ab71376f0e3c43e982a8) - 2025-06-19
+* [Commit] [introduce return struct, more tests](https://github.com/paradigmxyz/reth/commit/af0cff1610992fabff2083de455835b721bb6949) - 2025-06-19
+* [Commit] [introduce return struct, more tests](https://github.com/paradigmxyz/reth/commit/ebee01e4007c9ed44dbff00910b691c938780f40) - 2025-06-19
+* [Commit] [introduce return struct, more tests](https://github.com/paradigmxyz/reth/commit/3914bc24f9f31299ec036f2cb9f90db1af11e249) - 2025-06-19
+* [Commit] [introduce return struct, more tests](https://github.com/paradigmxyz/reth/commit/d1ee7c109c8521f09008726c03e805b489e46409) - 2025-06-19
+* [Pull Request] [perf(trie): `ParallelSparseTrie::update_subtrie_hashes` boilerplate](https://github.com/paradigmxyz/reth/pull/16948) - 2025-06-19
+* [Commit] [introduce return struct, more tests](https://github.com/paradigmxyz/reth/commit/2ded833e4184e3397e215da09d33d58a3921f524) - 2025-06-19
+* [Commit] [get -> take](https://github.com/paradigmxyz/reth/commit/6ed9a2badb181bd41349afca4cd57a61185ffd5d) - 2025-06-19
+* [Commit] [box on creation](https://github.com/paradigmxyz/reth/commit/7fb68747059e2e537b5f639a9fa1f29c0c12d9b6) - 2025-06-19
+* [Commit] [Revert "dummy commit"](https://github.com/paradigmxyz/reth/commit/8e6d51481bf37124dd3731ed42c69f1e633e1c83) - 2025-06-19
+* [Commit] [dummy commit](https://github.com/paradigmxyz/reth/commit/12ddaaa4bfefefc095c22b5e9fad4202d8605c54) - 2025-06-19
+* [Commit] [feat: add Historical RPC Forwarder Service (#16724)](https://github.com/paradigmxyz/reth/commit/aa725dd0cf84462cd3bf13257f0aed8e1a9eebe4) - 2025-06-19
+* [Commit] [add bench conventional commit title](https://github.com/paradigmxyz/reth/commit/dd5dc6c331c7f024c68e487cc45919294f1093d8) - 2025-06-19
+* [Pull Request] [bench(trie): prepare trie outside of routine, use large input size](https://github.com/paradigmxyz/reth/pull/16945) - 2025-06-19
+* [Pull Request] [perf(trie): `SparseSubtrie::update_hashes`](https://github.com/paradigmxyz/reth/pull/16943) - 2025-06-19
+* [Commit] [option<box<subtrie>>](https://github.com/paradigmxyz/reth/commit/bbcfb1dbb3b9351dbfbc7440406c65a5827710bb) - 2025-06-19
+* [Commit] [fix lints](https://github.com/paradigmxyz/reth/commit/9cacbea9233f7f10aadf9239e5ef3f24065d91ac) - 2025-06-19
+* [Commit] [chore: add type alias for PayloadAttributes (#16933)](https://github.com/paradigmxyz/reth/commit/53cd4b2397c78286b4561116d8ce18c41d8edc50) - 2025-06-19
+* [Commit] [fix doc tests](https://github.com/paradigmxyz/reth/commit/961aa2787275d43f16ba5455b1c4ec4532d714d5) - 2025-06-19
+* [Commit] [fix doc tests](https://github.com/paradigmxyz/reth/commit/7927a5989fb0bde00a65844e32637792e07837a7) - 2025-06-19
+* [Commit] [bump nybbles](https://github.com/paradigmxyz/reth/commit/332729bd63e79ebd0f496cbb327e93d051cc34e0) - 2025-06-19
+* [Commit] [perf(trie): box subtries in parallel sparse trie](https://github.com/paradigmxyz/reth/commit/583a8198f6beb25eba5177c0d84f3bc1ec26e475) - 2025-06-19
+* [Pull Request] [perf(trie): box subtries in parallel sparse trie](https://github.com/paradigmxyz/reth/pull/16938) - 2025-06-19
+* [Commit] [Merge remote-tracking branch 'origin/main' into alexey/nybbles-uint](https://github.com/paradigmxyz/reth/commit/a296f2b1ccfe8136b11ef534aeee68a194ae6a1c) - 2025-06-19
+* [Commit] [Merge remote-tracking branch 'origin/main' into alexey/nybbles-uint](https://github.com/paradigmxyz/reth/commit/071cff55bae4aeed2f76f569f83e6dcaba886a38) - 2025-06-19
+* [Commit] [Merge remote-tracking branch 'origin/main' into alexey/nybbles-uint](https://github.com/paradigmxyz/reth/commit/0a9227596a216d3be3f8feea67ae56189690a298) - 2025-06-19
+* [Commit] [Merge remote-tracking branch 'origin/main' into alexey/nybbles-uint](https://github.com/paradigmxyz/reth/commit/9d022ea98da17fc7164bde9884abdeeb6c2e1204) - 2025-06-19
+* [Commit] [Merge remote-tracking branch 'origin/main' into alexey/nybbles-uint](https://github.com/paradigmxyz/reth/commit/a390f8aa6c547a9ea4a209dccd9da6cdb0818022) - 2025-06-19
+* [Commit] [perf: Reduce unnecessary memory copies in `compare_storage_trie_updates` (#16841)](https://github.com/paradigmxyz/reth/commit/71a057bcbe7f69ec37ea5528f7424f6c16885ef7) - 2025-06-19
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

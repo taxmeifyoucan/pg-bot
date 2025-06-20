@@ -181,6 +181,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add /eth/v1/debug/beacon/data_column_sidecars/{block_id} (#7237)](https://github.com/status-im/nimbus-eth2/commit/42e62ff6632a65881fbec3a81ffe8786db822f41) - 2025-06-17
 * [Commit] [automated consensus spec URL updating to v1.6.0-alpha.2 (#7243)](https://github.com/status-im/nimbus-eth2/commit/83fc484374a67cace2afe6964090738fdd9752e2) - 2025-06-17
 * [Pull Request] [automated consensus spec URL updating to v1.6.0-alpha.2](https://github.com/status-im/nimbus-eth2/pull/7243) - 2025-06-17
+* [Commit] [Bump urllib3 from 2.2.3 to 2.5.0 in /docs (#7251)](https://github.com/status-im/nimbus-eth2/commit/0ac367cc773cd1ebfeb277c946fc32272e17bbd5) - 2025-06-19
+* [Commit] [Do not create DB table with empty name when Fulu is not configured (#7250)](https://github.com/status-im/nimbus-eth2/commit/2c229b71e3202fe94f768359ad265301aaeb1364) - 2025-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

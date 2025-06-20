@@ -115,3 +115,4 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Bump nim-kzg4844 to 644a19b9874516446411aa31a7747b81d21431e5](https://github.com/status-im/nimbus-eth1/pull/3410) - 2025-06-17
 * [Pull Request] [Bump nim-secp256k1 to latest](https://github.com/status-im/nimbus-eth1/pull/3409) - 2025-06-17
 * [Pull Request] [Bump nim-blscurve to latest](https://github.com/status-im/nimbus-eth1/pull/3408) - 2025-06-17
+* [Issue] [Nimbus merkle stateless client & provider](https://github.com/status-im/nimbus-eth1/issues/3416) - 2025-06-19

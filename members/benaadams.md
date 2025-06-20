@@ -340,6 +340,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Don't pass through synchnronously](https://github.com/NethermindEth/nethermind/commit/4b53ed42bb847f77158f87ff7992a8317484bfd4) - 2025-06-18
 * [Pull Request] [Skip recovery queue when no blocks queued](https://github.com/NethermindEth/nethermind/pull/8801) - 2025-06-18
 * [Commit] [PatriciaTree remove unused field (#8800)](https://github.com/NethermindEth/nethermind/commit/e9f2de5f7af174bfbc591f0a62827b0057c2b8cc) - 2025-06-18
+* [Pull Request] [Use GetOrAdd for DirtyNodeCache](https://github.com/NethermindEth/nethermind/pull/8812) - 2025-06-19
+* [Commit] [Lighter Memory.Save (#8808)](https://github.com/NethermindEth/nethermind/commit/05ad5d07dc1f2b0a34b6b9cb638a655c67edc28b) - 2025-06-19
+* [Pull Request] [Lighter Memory.Save](https://github.com/NethermindEth/nethermind/pull/8808) - 2025-06-19
+* [Commit] [Add flag for persistent broadcast (#8752)](https://github.com/NethermindEth/nethermind/commit/e034f3b63fd18fba03e0de69fd068ea6a6d65694) - 2025-06-19
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

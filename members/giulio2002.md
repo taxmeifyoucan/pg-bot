@@ -248,6 +248,10 @@ Team: Erigon
 * [Pull Request] [Added chain-specific gas limit defaults](https://github.com/erigontech/erigon/pull/15619) - 2025-06-17
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e8eeb2aa10d99681c46bed02be61521a4344243b) - 2025-06-18
 * [Commit] [save](https://github.com/erigontech/erigon/commit/c2ce8d0910039098e3f5cf2ad60f7c12d8420690) - 2025-06-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/168648941a927b612248e682b8ac5d8ee3f1b63c) - 2025-06-19
+* [Commit] [Replace override.prague flag wth override.osaka (#15322)](https://github.com/erigontech/erigon/commit/af8a11ee6c511f9a0776a5f67c2f58deda003668) - 2025-06-19
+* [Pull Request] [History expiry phase 1 sepolia](https://github.com/erigontech/erigon/pull/15668) - 2025-06-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0994ee7fdd0da27393a26f8283c2c2e4c4f718af) - 2025-06-19
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 

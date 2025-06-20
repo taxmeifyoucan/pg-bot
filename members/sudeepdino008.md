@@ -287,6 +287,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0077d93b9981edad260b527c04ce634df3c2498e) - 2025-06-17
 * [Commit] [save](https://github.com/erigontech/erigon/commit/970b0c5d9694353d531b38ebf01549a615771d50) - 2025-06-17
 * [Pull Request] [remote GetBlockNumberForTxNum](https://github.com/erigontech/erigon/pull/15617) - 2025-06-17
+* [Commit] [unwind and prune on forkable agg (#15551)](https://github.com/erigontech/erigon/commit/dd57f05e3238890f94f3bf8071cac681a425e966) - 2025-06-19
+* [Commit] [Upload torrent client status artifact (#15292)](https://github.com/erigontech/erigon/commit/e89ee590c81e0d8db418d5222d648b14153c59a7) - 2025-06-19
+* [Pull Request] [save](https://github.com/erigontech/erigon/pull/15653) - 2025-06-19
+* [Issue] [make erigon start faster when snapshots present](https://github.com/erigontech/erigon/issues/15652) - 2025-06-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/249ee1bc1c50ccee79158ed6f99619937eb0f1ff) - 2025-06-19
+* [Pull Request] [share and use txnumreader cache via blockreader (#15597)](https://github.com/erigontech/erigon/pull/15645) - 2025-06-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9e9589a1bb0abcb72a984edf452dfba2ffc50153) - 2025-06-19
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/996677d525f280378b7a020f3db92115c9f1ce30) - 2025-06-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/80623c53c36bd5af016515718af9680ddf5a4fa6) - 2025-06-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -62,6 +62,13 @@ Team: Erigon
 * [Pull Request] [qa-tests: add test report implementation](https://github.com/erigontech/erigon/pull/15607) - 2025-06-16
 * [Pull Request] [qa-tests: cherry pick test report impl](https://github.com/erigontech/erigon/pull/15618) - 2025-06-17
 * [Commit] [qa-tests: add test report implementation (#15607)](https://github.com/erigontech/erigon/commit/331d49fd7325b12aa101e915373f748a99657ce6) - 2025-06-17
+* [Commit] [test end](https://github.com/erigontech/erigon/commit/ce55eba21fce595eb54e1038a83b7e2c4384fdda) - 2025-06-19
+* [Commit] [test](https://github.com/erigontech/erigon/commit/dbefc4ebd64aafb75427ee9cfeab007e26bdb58f) - 2025-06-19
+* [Commit] [keep the table header at the first row (2)](https://github.com/erigontech/erigon/commit/374427f77a16450eb8618b4b500cc98cf27248af) - 2025-06-19
+* [Commit] [keep the table header at the first row](https://github.com/erigontech/erigon/commit/3bd307cfa78e9af9f96e6bde95c6a169904e82be) - 2025-06-19
+* [Pull Request] [qa-tests: improve test report formatting](https://github.com/erigontech/erigon/pull/15660) - 2025-06-19
+* [Pull Request] [[r30] qa-tests: rename workflow jobs  (#15488) ](https://github.com/erigontech/erigon/pull/15649) - 2025-06-19
+* [Pull Request] [qa-tests: add torrent status file artifact to snap-download test](https://github.com/erigontech/erigon/pull/15648) - 2025-06-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

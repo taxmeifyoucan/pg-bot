@@ -130,6 +130,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [wip no unit test for recursive healthy host find](https://github.com/OffchainLabs/prysm/commit/74b64c6de98a390b01bf3b69858238384c2979e5) - 2025-06-18
 * [Commit] [Update flags.go](https://github.com/OffchainLabs/prysm/commit/868c4f6fb37aa2a5be77575abec9c343ed429ced) - 2025-06-18
 * [Commit] [reverting to not create more edgecases](https://github.com/OffchainLabs/prysm/commit/510995866cd320ac52d3960caf28c1dc8ce94244) - 2025-06-18
+* [Commit] [linting](https://github.com/OffchainLabs/prysm/commit/f4f6e7a21ec193e0f69718cbc656e25f9654cc6b) - 2025-06-19
+* [Commit] [fixing event stream check](https://github.com/OffchainLabs/prysm/commit/5ae0b4c1b41142654883fb245a71c16d17a4abbc) - 2025-06-19
+* [Commit] [removing health tracker, fixing runner tests, and adding placeholder for monitor tests](https://github.com/OffchainLabs/prysm/commit/a644a73f245c1664c66c5a5d79a05dfe3769d3aa) - 2025-06-19
+* [Commit] [rework healthcheck](https://github.com/OffchainLabs/prysm/commit/63fa7c56b1c401be2e60d09ef3afac6fd5acc1f9) - 2025-06-19
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

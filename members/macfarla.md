@@ -90,6 +90,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [[CHANGELOG] minor edits to changelog](https://github.com/hyperledger/besu/pull/8818) - 2025-06-13
 * [Pull Request] [Remove gas calculator cost methods deprecated since 24.2](https://github.com/hyperledger/besu/pull/8817) - 2025-06-13
 * [Commit] [Archive CHANGELOG, split at start of 2024 (#8739)](https://github.com/hyperledger/besu/commit/0abcee0efff560a4350bcc6af7e598b21070316e) - 2025-06-13
+* [Commit] [Remove gas calculator cost methods deprecated since 24.4 (#8817)](https://github.com/hyperledger/besu/commit/e2a799b54ed4e338ea234ab864beede2bc8d9b4b) - 2025-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

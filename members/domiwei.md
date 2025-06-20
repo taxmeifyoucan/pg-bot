@@ -183,6 +183,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/827226289909b27f82b3c32b3fa2d624b129f293) - 2025-06-18
 * [Commit] [update](https://github.com/erigontech/erigon/commit/5d7d78f1c4683becccac825dce1e0c0914e2ce7d) - 2025-06-18
 * [Commit] [update](https://github.com/erigontech/erigon/commit/46693dfd8f48252f7fe6dfa40a36367bad0f1a99) - 2025-06-18
+* [Commit] [tests: Update eests to berlinterop-devnet-1 release (#15642)](https://github.com/erigontech/erigon/commit/49c376d9185f718365d6bac2c98ac60c71c3b2d9) - 2025-06-19
+* [Commit] [use rlp StreamPool for tx decoding (#15626)](https://github.com/erigontech/erigon/commit/d72b2151e0af5c28c736363aa30e0d08db93fb4a) - 2025-06-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

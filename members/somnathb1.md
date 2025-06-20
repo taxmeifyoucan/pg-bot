@@ -192,6 +192,18 @@ Team: Erigon
 * [Commit] [Clean](https://github.com/erigontech/erigon/commit/f79cebbce389e3a5c0a458abb5103776c94e3b3d) - 2025-06-15
 * [Commit] [Remove hidden malloc calls (#15579)](https://github.com/erigontech/erigon/commit/148cade2e87192aa634da44b3410776262ee45e3) - 2025-06-15
 * [Pull Request] [tests: Update eests to berlinterop-devnet-1 release](https://github.com/erigontech/erigon/pull/15642) - 2025-06-18
+* [Pull Request] [txpool: Add higher tipThreshold for higher value replace txn](https://github.com/erigontech/erigon/pull/15667) - 2025-06-19
+* [Commit] [txpool: Add higher tipThreshold for higher value replace txn](https://github.com/erigontech/erigon/commit/901daeb34e3c4ffce64ecfe84a8ca4434f50e134) - 2025-06-19
+* [Commit] [fix typo](https://github.com/erigontech/erigon/commit/e026f0a4aa535eeae6b581be0d1d7d195eeb2fa8) - 2025-06-19
+* [Pull Request] [state: Better error message for snapshot mismatch](https://github.com/erigontech/erigon/pull/15666) - 2025-06-19
+* [Pull Request] [Makefile: add nosqlite to tags](https://github.com/erigontech/erigon/pull/15664) - 2025-06-19
+* [Commit] [vm: Use bn254 gnark-based pairing check (#15637)](https://github.com/erigontech/erigon/commit/e3ece5c8e6a0f4ada361ca58e32d13bc45cb3dd4) - 2025-06-19
+* [Issue] [Implement BALs for Erigon's state transition as an experimental feature](https://github.com/erigontech/erigon/issues/15657) - 2025-06-19
+* [Issue] [Analyze Block-Level Access Lists for Erigon's execution](https://github.com/erigontech/erigon/issues/15656) - 2025-06-19
+* [Issue] [Execution Parallelization](https://github.com/erigontech/erigon/issues/15655) - 2025-06-19
+* [Commit] [Use heap escaping local allocation for simplicity](https://github.com/erigontech/erigon/commit/e05a759764b852de9b6b731c234615046ccf728c) - 2025-06-19
+* [Commit] [crypto/bn256: Use 8-byte stride in zero comparison (#15634)](https://github.com/erigontech/erigon/commit/c61ca1b3b2122600c0797f50c6b7a42694170d10) - 2025-06-19
+* [Commit] [integration commitment_rebuild: re-visit command, add docs   (#15625)](https://github.com/erigontech/erigon/commit/afdd86ef1191f047b05654f9faf393e460b4ecd8) - 2025-06-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -233,6 +233,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [add12 testcase](https://github.com/erigontech/erigon/commit/b8980f8972ab12b6f98b13035e77ab9b64b108ce) - 2025-06-12
 * [Commit] [benchmark failed](https://github.com/erigontech/erigon/commit/e2815ff88ad545c80c8edab2fcd9a3648517275a) - 2025-06-12
 * [Commit] [Revert "Use gmp for modexp (#15554)"](https://github.com/erigontech/erigon/commit/1c4c3042b7da31c674c9ed5f688254af163d79b7) - 2025-06-13
+* [Commit] [rm systemcontracts](https://github.com/erigontech/erigon/commit/528f7625c7676903e6ef8bbcdcc4c9fd2dea8f72) - 2025-06-19
+* [Commit] [core/vm: avoid unnecessary malloc in opCLZ (#15661)](https://github.com/erigontech/erigon/commit/914ad9c3d3c0c1808d3f533787e21998f51c7d38) - 2025-06-19
+* [Pull Request] [core/vm: avoid unnecessary malloc in opCLZ](https://github.com/erigontech/erigon/pull/15661) - 2025-06-19
+* [Commit] [core/vm: avoid unnecessary malloc in opCLZ](https://github.com/erigontech/erigon/commit/fe0cb8a432a8de090a885d960aeae5ae5928c78a) - 2025-06-19
+* [Commit] [dir improvements: move `engineapi` to `execution` (#15659)](https://github.com/erigontech/erigon/commit/e49168a37d5a7b61cdde4414acbd77cca20ea9a2) - 2025-06-19
+* [Pull Request] [dir improvements: move `engineapi` to `execution`](https://github.com/erigontech/erigon/pull/15659) - 2025-06-19
+* [Commit] [dir improvements: move `engineapi` to `execution`](https://github.com/erigontech/erigon/commit/a727cd5d78a203faa0fc964783789e12cb100f2f) - 2025-06-19
+* [Commit] [Updated config for bor-mainnet Bhilai fork (#15636)](https://github.com/erigontech/erigon/commit/0cc430396520a7f1945b8f3e292802eaa3cb6c7c) - 2025-06-19
+* [Commit] [core/vm: harmonize comments of modExpMultComplexity (#15644)](https://github.com/erigontech/erigon/commit/3d6f5161244f9c9e1a4789dd19e11bc2aa3ee5f3) - 2025-06-19
+* [Pull Request] [core/vm: harmonize comments of modExpMultComplexity](https://github.com/erigontech/erigon/pull/15644) - 2025-06-19
+* [Commit] [core/vm: harmonize comments of modExpMultComplexity](https://github.com/erigontech/erigon/commit/b6845c62c924a0ea7faacdac488b1d2089ee3971) - 2025-06-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 

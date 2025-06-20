@@ -205,6 +205,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [build: Update EEST to v4.5.0](https://github.com/ethereum/go-ethereum/pull/31880) - 2025-05-22
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #41 | June 23 2025](https://github.com/ethereum/pm/issues/1583) - 2025-06-19
 ## Q1 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

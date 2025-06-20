@@ -125,6 +125,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update the metrics to use historical state transition metrics](https://github.com/ChainSafe/lodestar/commit/7ee4f920909fe92453848ec18c7ccd39b69daa0f) - 2025-06-02
 * [Commit] [Fix types](https://github.com/ChainSafe/lodestar/commit/fd10545dc30b54b765b2401d573589fbb7dece20) - 2025-06-03
 * [Pull Request] [chore: cleanup event handlers for import block](https://github.com/ChainSafe/lodestar/pull/7956) - 2025-06-12
+* [Commit] [refactor: add method to get ancestor & non-ancestor nodes in single traversal (#7528)](https://github.com/ChainSafe/lodestar/commit/a64ca247a006136e8aae5015f57d39370b421c23) - 2025-06-19
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

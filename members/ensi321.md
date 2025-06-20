@@ -81,6 +81,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix unit test](https://github.com/ChainSafe/lodestar/commit/0228ee9be2247446883d988e7a31db4eaede47b0) - 2025-06-17
 * [Commit] [Add subscribedBoundariesByEpoch](https://github.com/ChainSafe/lodestar/commit/61c38431d42cf58d8dbc6179e78688cd49bd7ae3) - 2025-06-18
 * [Commit] [Update comment](https://github.com/ChainSafe/lodestar/commit/d13c66bd8ed76da6fd256be1b1b102888a79ab09) - 2025-06-18
+* [Commit] [fix test](https://github.com/ChainSafe/lodestar/commit/3c45fecbfba181310919137e570dbbd7a3b1d40c) - 2025-06-19
+* [Commit] [fix: ignore `statuses` filter in validators api if `null` is passed (#7976)](https://github.com/ChainSafe/lodestar/commit/b5520d91873c3e8e7595c88598da96321869b024) - 2025-06-19
+* [Commit] [Fix doc](https://github.com/ChainSafe/lodestar/commit/a9fd1c6522609f6ae8afc9c8aaf46306e7bf4e4d) - 2025-06-19
+* [Pull Request] [feat: replace fork with boundary in reqresp's outgoing chunk](https://github.com/ChainSafe/lodestar/pull/7978) - 2025-06-19
+* [Pull Request] [feat: replace fork with boundary in gossip topic](https://github.com/ChainSafe/lodestar/pull/7975) - 2025-06-19
+* [Commit] [chore: proposer lookahead follow-up changes (#7948)](https://github.com/ChainSafe/lodestar/commit/d01ed1576a1a604ab3c72797a8a4f2735d6f60cb) - 2025-06-19
+* [Commit] [feat: define `SubscribeBoundary` (#7968)](https://github.com/ChainSafe/lodestar/commit/8123b07c2c51678e679072d7912b271e26429f88) - 2025-06-19
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

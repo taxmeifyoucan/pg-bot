@@ -28,6 +28,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [[SPIKE] Change gossip for BPO](https://github.com/Consensys/teku/pull/9555) - 2025-06-12
 * [Pull Request] [Increase default gas limit to 45 million](https://github.com/Consensys/teku/pull/9559) - 2025-06-17
 * [Pull Request] [Use more efficient BlobSchedule helper class](https://github.com/Consensys/teku/pull/9563) - 2025-06-18
+* [Commit] [fix unit test](https://github.com/Consensys/teku/commit/3c5589684a25363ec6c62ab2a260fb151af854b9) - 2025-06-19
+* [Commit] [fix assemble](https://github.com/Consensys/teku/commit/86c502dd048c9448da066a54f04da109f0073339) - 2025-06-19
+* [Commit] [fix assemble](https://github.com/Consensys/teku/commit/77503a9d4013a517bd51b576caf73c98c40c6603) - 2025-06-19
+* [Pull Request] [Change gossip for BPO (devnet-2)](https://github.com/Consensys/teku/pull/9578) - 2025-06-19
+* [Commit] [ConcurrentModificationException in AsyncStream (#9557)](https://github.com/Consensys/teku/commit/aff5680fbd459be00f28d1c8e72f20d5a59524a8) - 2025-06-19
+* [Pull Request] [Change gossip for BPO (devnet-2)](https://github.com/Consensys/teku/pull/9577) - 2025-06-19
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

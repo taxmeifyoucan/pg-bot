@@ -41,6 +41,9 @@ Team: Portal Network (EF)
 * [Pull Request] [feat: add support for validating multiple content items](https://github.com/ethereum/trin/pull/1868) - 2025-05-30
 * [Commit] [chore: update trusted block root to 0x4ffc29ffdf9979f6c81111c8b3a4a1a0535d623536ff47fdf5fa3bd15e5f4437 (#1871)](https://github.com/ethereum/trin/commit/ebc206702592f08d8174af9ea5d2f12bb6e1ae0c) - 2025-06-01
 * [Commit] [chore(deps): weekly `cargo update` (#1872)](https://github.com/ethereum/trin/commit/3002a02180b8a07491dfb48ac0f6d219de4ab52b) - 2025-06-01
+* [Pull Request] [docs: add "no longer supported" warning to readme](https://github.com/ethereum/trin/pull/1877) - 2025-06-19
+* [Commit] [feat: use batch validation (#1870)](https://github.com/ethereum/trin/commit/e1a066693107a827f467036b444fc04213243db1) - 2025-06-19
+* [Commit] [chore(deps): weekly `cargo update` (#1875)](https://github.com/ethereum/trin/commit/e7ec4372c3fd3e5d33065c6f9597083c14d74048) - 2025-06-19
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

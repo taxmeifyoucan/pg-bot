@@ -170,6 +170,10 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/543617061dff6140add446c759214c0c4ef7d78d) - 2025-06-17
 * [Commit] [save](https://github.com/erigontech/erigon/commit/fbd51c5ac6273db30a165eb873ec5e870f28382d) - 2025-06-17
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f284158b354582e14159c9aa1241542b84e40e23) - 2025-06-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fbd51c5ac6273db30a165eb873ec5e870f28382d) - 2025-06-19
+* [Commit] [Merge branch 'main' into arb0 (#15568)](https://github.com/erigontech/erigon/commit/8a321b3650cb5669ec130a0aafa61b664b175e4d) - 2025-06-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/19acb7d48671bc9666650ccd56bb6ec72677fc76) - 2025-06-19
+* [Pull Request] [Concurrent warmup for Commitment](https://github.com/erigontech/erigon/pull/15658) - 2025-06-19
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

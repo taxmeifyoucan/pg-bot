@@ -95,3 +95,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [add CLZ opcode](https://github.com/status-im/nimbus-eth1/pull/3394) - 2025-06-13
 * [Issue] [Berlinterop Cleanup](https://github.com/status-im/nimbus-eth1/issues/3404) - 2025-06-14
 * [Commit] [Update execution_chain/evm/precompiles.nim](https://github.com/status-im/nimbus-eth1/commit/96875dac7016ab410282cfedf44cc9d39a270edf) - 2025-06-16
+* [Issue] [Unknown block should fallback to syncer](https://github.com/status-im/nimbus-eth1/issues/3415) - 2025-06-19

@@ -264,6 +264,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update src/Nethermind/Nethermind.Trie/Pruning/TrieStore.cs](https://github.com/NethermindEth/nethermind/commit/fd5f834405eee7c5cb6351b8c33760ecdcd03bb0) - 2025-06-18
 * [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/aa2482c33ea56ddc7a72fb7503132ddadd21e0e4) - 2025-06-18
 * [Commit] [Auto-update fast sync settings (#8788)](https://github.com/NethermindEth/nethermind/commit/2bc3ad155d11b59790309f2420f74e50b9835d25) - 2025-06-18
+* [Commit] [Slightly reduce code](https://github.com/NethermindEth/nethermind/commit/d6f16f3d5607347879670a2d474b806d8df58d08) - 2025-06-19
+* [Commit] [Minor style change](https://github.com/NethermindEth/nethermind/commit/a745ae3a9c7795ac49f25edc34c5bf0a18c3ce20) - 2025-06-19
+* [Pull Request] [Fix wrong reward componets](https://github.com/NethermindEth/nethermind/pull/8805) - 2025-06-19
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/ada92567a03857a17a4bfe781488f4c51b82b0d5) - 2025-06-19
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/e1453fdf6d5b1bb7a7230d0c65c7584b56e31b70) - 2025-06-19
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

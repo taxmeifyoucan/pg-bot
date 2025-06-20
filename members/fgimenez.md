@@ -195,6 +195,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [revert op changes](https://github.com/paradigmxyz/reth/commit/5b9df94bcf0bcb192c47b2fd5e4835114414091d) - 2025-06-16
 * [Pull Request] [chore(ci): pin kurtosis-op optimism package](https://github.com/paradigmxyz/reth/pull/16842) - 2025-06-17
 * [Commit] [feat: add always-process-payload-attributes-on-canonical-head config (#16676)](https://github.com/paradigmxyz/reth/commit/95c68ae584c9ada502f8c56dab85d4731611dd2b) - 2025-06-17
+* [Pull Request] [feat(test): rewrite test_engine_tree_live_sync_fcu_extends_canon_chain using e2e framework](https://github.com/paradigmxyz/reth/pull/16949) - 2025-06-19
+* [Commit] [add adaptive mode selection based on bloom filter match count](https://github.com/paradigmxyz/reth/commit/1a13db3e45c4d9783038ffaa39c4c13689eee395) - 2025-06-19
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/122683540a7b530603ff751aec296221d6ad81a5) - 2025-06-19
+* [Commit] [optimize eth_getLogs caching to only cache blocks with matching logs](https://github.com/paradigmxyz/reth/commit/958d6ccf83a0091e29438e36ce6cf082e6eef32f) - 2025-06-19
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

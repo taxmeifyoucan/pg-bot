@@ -152,6 +152,24 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Fulu devnet 2](https://github.com/OffchainLabs/prysm/pull/15408) - 2025-06-12
 * [Commit] [fix tests](https://github.com/OffchainLabs/prysm/commit/9c9278ea5bd381d1aba031110544ea17fc83e39b) - 2025-06-12
 * [Commit] [review](https://github.com/OffchainLabs/prysm/commit/738da6205c73d651b652b67468f3e2d98b7532a4) - 2025-06-12
+* [Commit] [peerDAS: Implement `dataColumnSidecarByRangeRPCHandler`.](https://github.com/OffchainLabs/prysm/commit/118133192b5cbdc98da3b268677d6b67dd234d1c) - 2025-06-19
+* [Commit] [Proto: Remove unused `DataColumnIdentifier` and add new `StatusV2`.](https://github.com/OffchainLabs/prysm/commit/a09a325ee8f0aba15b255082fa193ae05cff73be) - 2025-06-19
+* [Commit] [Proto: Remove unused `DataColumnIdentifier` and add new `StatusV2`.](https://github.com/OffchainLabs/prysm/commit/c1afe3efeda741aa5b2af91a7e06f4c03067e895) - 2025-06-19
+* [Commit] [peerDAS: Implement `dataColumnSidecarByRootRPCHandler`. (#15405)](https://github.com/OffchainLabs/prysm/commit/559d02bf4db837f2863848056f2261f4e98e6b20) - 2025-06-19
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/760acffde10128b4b4168e7c7ccd59f993ae85af) - 2025-06-19
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/7e3a85562586cc2a295d813427085b6102bdb84b) - 2025-06-19
+* [Commit] [`rateLimitingAmount`:  Define out of the function.](https://github.com/OffchainLabs/prysm/commit/d325b676cfa2af210cf9eee7e95a6b0c593bab51) - 2025-06-19
+* [Commit] [Proto: Remove unused `DataColumnIdentifier` and add new `StatusV2`.](https://github.com/OffchainLabs/prysm/commit/986c9907ee3a4a356bf4502c853d3ddab46ece9d) - 2025-06-19
+* [Pull Request] [Peerdas various](https://github.com/OffchainLabs/prysm/pull/15423) - 2025-06-19
+* [Commit] [`earliest_available_slot` implementation (networking only).](https://github.com/OffchainLabs/prysm/commit/b2a26f2b62e5d99a6c0e3b0fb8670f9e9aa3b51d) - 2025-06-19
+* [Commit] [`earliest_available_slot` implementation (networking only).](https://github.com/OffchainLabs/prysm/commit/275413352747f78b9d3c130a071ef041636c4518) - 2025-06-19
+* [Commit] [`earliest_available_slot` implementation (networking only).](https://github.com/OffchainLabs/prysm/commit/a370bfdc03ca9bba8d2d516ed56d938a6755bd3c) - 2025-06-19
+* [Commit] [`earliest_available_slot` implementation (networking only).](https://github.com/OffchainLabs/prysm/commit/4c61645c8759cf9bc5087304642c76c0f9f9d24d) - 2025-06-19
+* [Commit] [`earliest_available_slot` implementation (networking only).](https://github.com/OffchainLabs/prysm/commit/92e8cacfb0fc918536abc17546b0d47e21cfae93) - 2025-06-19
+* [Commit] [`earliest_available_slot` implementation (networking only).](https://github.com/OffchainLabs/prysm/commit/8593f8f3f34749118a91eed9d5d65c7183b26687) - 2025-06-19
+* [Commit] [Reorganize processing of light client updates (#15383)](https://github.com/OffchainLabs/prysm/commit/f5a9394c77daf4950f8437fed795e17d30295397) - 2025-06-19
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/09659010f86bdb7bfc1488a732abdf00b9564fe6) - 2025-06-19
+* [Commit] [Set subscribe all data subnets once (#15388)](https://github.com/OffchainLabs/prysm/commit/c311e652eb867671131bb400f1433a8e3d5344d8) - 2025-06-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 * [Pull Request] [Validator custody: Increase only and optional backfill.](https://github.com/ethereum/consensus-specs/pull/4357) - 2025-06-03

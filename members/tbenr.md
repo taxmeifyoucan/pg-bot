@@ -61,6 +61,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [[VC] Improve timeout and error handling consuming duty production\publish endpoints](https://github.com/Consensys/teku/issues/9560) - 2025-06-17
 * [Issue] [Move from `SafeFuture::orTimeout` to proper `callTimeout` setting  on API calls](https://github.com/Consensys/teku/issues/9565) - 2025-06-18
 * [Issue] [Separate OkHttpClient for stream and OkHttpClient for rest calls](https://github.com/Consensys/teku/issues/9564) - 2025-06-18
+* [Commit] [Improve VC multiBN handling (#9567)](https://github.com/Consensys/teku/commit/04a0fc6a274b76c56888b9136bfae22bfed4da8d) - 2025-06-19
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025
