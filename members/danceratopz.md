@@ -347,6 +347,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 558a38c5b6 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/eca098b154f5eb1f2a49adf680ff5379c2833452) - 2025-06-19
 * [Commit] [Deployed 876ea0caf6 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2247363f471ed96b04db2c2192981087f1de8d83) - 2025-06-19
 * [Commit] [Deployed 0c33fa0e9d to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/a7a98b18fce6604285324f7dcef31befed2ff9e3) - 2025-06-19
+* [Commit] [fix(consume): recognize `--enginex-max-group-size` option in consume.consume](https://github.com/ethereum/execution-spec-tests/commit/7bacee445f99d40bf25f10a492b266e2548068ac) - 2025-06-20
+* [Commit] [feat(consume): create pre_hash subgroups w/max size for better xdist balancing](https://github.com/ethereum/execution-spec-tests/commit/7f29345f61928d7d53fa40188867a409f78e62bc) - 2025-06-20
+* [Commit] [feat(consume): append enginexfixture pre_hash field to testid if available](https://github.com/ethereum/execution-spec-tests/commit/d99ce2a07ab6f7df0c38390315f5c5483144d97d) - 2025-06-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

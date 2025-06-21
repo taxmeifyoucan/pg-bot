@@ -170,10 +170,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Reorganize processing of light client updates (#15383)](https://github.com/OffchainLabs/prysm/commit/f5a9394c77daf4950f8437fed795e17d30295397) - 2025-06-19
 * [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/09659010f86bdb7bfc1488a732abdf00b9564fe6) - 2025-06-19
 * [Commit] [Set subscribe all data subnets once (#15388)](https://github.com/OffchainLabs/prysm/commit/c311e652eb867671131bb400f1433a8e3d5344d8) - 2025-06-19
+* [Commit] [Remove deposit count from sync new block log (#15420)](https://github.com/OffchainLabs/prysm/commit/b9fd32dfff1e3f313912c10945b80e67108a8f9a) - 2025-06-20
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/e25497be3e7ccdbc28e47a670f69a670d1560b09) - 2025-06-20
+* [Commit] [peerDAS: Implement `dataColumnSidecarByRangeRPCHandler`.](https://github.com/OffchainLabs/prysm/commit/118133192b5cbdc98da3b268677d6b67dd234d1c) - 2025-06-20
+* [Commit] [`readChunkedDataColumnSideCar` ==> `readChunkedDataColumnSidecar`.](https://github.com/OffchainLabs/prysm/commit/8abe3931218e8d337dabd47fa331ebf4a1dfea97) - 2025-06-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 * [Pull Request] [Validator custody: Increase only and optional backfill.](https://github.com/ethereum/consensus-specs/pull/4357) - 2025-06-03
 * [Pull Request] [CGC: Update before Fulu](https://github.com/ethereum/consensus-specs/pull/4373) - 2025-06-10
+* [Pull Request] [`DataColumnSidecarsByRoot`: Serve for finalized epochs.](https://github.com/ethereum/consensus-specs/pull/4394) - 2025-06-20
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

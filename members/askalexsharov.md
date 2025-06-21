@@ -2616,6 +2616,7 @@ Team: Erigon
 * [Commit] [optimize: reduce sortedAllocKeys memory allocations (#15628)](https://github.com/erigontech/erigon/commit/bb9ed875cfeb2ff2e5d06d7aed5ab34384d27acb) - 2025-06-19
 * [Commit] [E3: Use unbounded MDBX for Engine downloader (#15575)](https://github.com/erigontech/erigon/commit/41fb0d9c61a10977752a104f0f199405d0b48653) - 2025-06-19
 * [Commit] [deps: up `x` deps (#15562)](https://github.com/erigontech/erigon/commit/9c45574d9caede08d65daf5846bf9b151a3a4c1b) - 2025-06-19
+* [Commit] [share and use txnumreader cache via blockreader (#15597) (#15645)](https://github.com/erigontech/erigon/commit/f46d7c6bbf18e6d4db01bd37a48e26c1d4a759c3) - 2025-06-20
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

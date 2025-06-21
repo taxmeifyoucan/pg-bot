@@ -105,6 +105,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: column announcement before fork transition (#7943)](https://github.com/ChainSafe/lodestar/commit/23530b6726620b7fd3898016711399532c234e35) - 2025-06-12
 * [Commit] [chore: remove unused comment](https://github.com/ChainSafe/lodestar/commit/4cbba556fc3fad66ca1a41363e07972b9654882a) - 2025-06-13
 * [Pull Request] [feat: earliest available slot](https://github.com/ChainSafe/lodestar/pull/7959) - 2025-06-13
+* [Commit] [feat: add buildDataColumnSidecarsDbWrapper but leave commented until needed](https://github.com/ChainSafe/lodestar/commit/26f684682f03f0cc484d4f6123fb58cf5097b55f) - 2025-06-20
+* [Commit] [refactor: move data column helpers to utils](https://github.com/ChainSafe/lodestar/commit/5bd1469e3ca35945c4599a0acd41dc691087ba10) - 2025-06-20
+* [Commit] [refactor: rename DataColumnSidecarsWrapper to DataColumnSidecarsDbWrapper](https://github.com/ChainSafe/lodestar/commit/8209aaa5001408178c3aa4c7a41301086956b59d) - 2025-06-20
+* [Commit] [fix: address PR comments](https://github.com/ChainSafe/lodestar/commit/1e86ad58858105fc0a3d0fff1ad011624d84d946) - 2025-06-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

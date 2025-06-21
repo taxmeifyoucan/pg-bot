@@ -116,3 +116,5 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Bump nim-secp256k1 to latest](https://github.com/status-im/nimbus-eth1/pull/3409) - 2025-06-17
 * [Pull Request] [Bump nim-blscurve to latest](https://github.com/status-im/nimbus-eth1/pull/3408) - 2025-06-17
 * [Issue] [Nimbus merkle stateless client & provider](https://github.com/status-im/nimbus-eth1/issues/3416) - 2025-06-19
+* [Commit] [Move usage of unpackRevertReason outside the evm.](https://github.com/status-im/nimbus-eth1/commit/181b27b5ec1e618a4644e972a2c164547ba77e6a) - 2025-06-20
+* [Pull Request] [Handle abi decoding failures when unpacking revert reason in EVM](https://github.com/status-im/nimbus-eth1/pull/3419) - 2025-06-20

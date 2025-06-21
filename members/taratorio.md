@@ -101,6 +101,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [core/state: fix missed part in test, for failing linter (#15421)](https://github.com/erigontech/erigon/commit/c8b8921b2037e9eafc4f0da4cd045ad9927e7787) - 2025-06-16
 * [Commit] [Revert "fix: TxDataZero2txs200M_200M"](https://github.com/erigontech/erigon/commit/e9e39bf6f3dbc452fc2f22a1c3daf405b163b8c3) - 2025-06-17
 * [Commit] [Revert "Add Back "Use old fastexp"""](https://github.com/erigontech/erigon/commit/35c2ad647c37f4f4dc773277c9957e38d799ebe6) - 2025-06-18
+* [Commit] [fix fmt.Errorf mistake](https://github.com/erigontech/erigon/commit/6b88972ada0ca1a61c5ebc33478fecebacedd323) - 2025-06-20
+* [Commit] ["Add Back "Use old fastexp""""](https://github.com/erigontech/erigon/commit/19c7fc884127d25bd363c4b38e0a9cfb66a36aa8) - 2025-06-20
+* [Pull Request] [[DO-NOT-MERGE] fusaka-devnet-2](https://github.com/erigontech/erigon/pull/15690) - 2025-06-20
+* [Commit] [optimise FindBlockNum (#15398)](https://github.com/erigontech/erigon/commit/1760f166462b148f13d843a5581008a1eff2f124) - 2025-06-20
+* [Commit] [fix missing extraCost==0 check](https://github.com/erigontech/erigon/commit/af05637efa38be8a36805603e59eeaac592ffc97) - 2025-06-20
+* [Commit] [unnecessary diff](https://github.com/erigontech/erigon/commit/14c1e67cf3509d8176eddd2c114490fb1223ab6d) - 2025-06-20
+* [Commit] [fix post merge](https://github.com/erigontech/erigon/commit/dd8db3363d214ef47a0d948d962cc372e148c0bf) - 2025-06-20
+* [Pull Request] [EIP-7907: Meter Contract Code Size And Increase Limit](https://github.com/erigontech/erigon/pull/15688) - 2025-06-20
+* [Commit] [update usages of max code size and max init code size](https://github.com/erigontech/erigon/commit/08f5e7aff3145210aac96eaa3f87bad6a74c0d34) - 2025-06-20
+* [Commit] [handle delegates in charge large code](https://github.com/erigontech/erigon/commit/4ef5ab150571dbffd85d012ae93fcbab76d8242d) - 2025-06-20
+* [Commit] [woops, fix missing / 32 in largeContractCost formula](https://github.com/erigontech/erigon/commit/4781ba44e98639d8c7cf2ce88b91f0d379fda186) - 2025-06-20
+* [Commit] [fix bad import post merge](https://github.com/erigontech/erigon/commit/2141f2ed152aaac74269551f2b8b1e44b4b6568a) - 2025-06-20
+* [Commit] [fix extcodecopy stack index 1, calls index 2](https://github.com/erigontech/erigon/commit/9d6988f6a235a4e0af7a4ebdb4773606fa080a83) - 2025-06-20
+* [Commit] [add code access inside create/create2](https://github.com/erigontech/erigon/commit/cfe97a190e1bd63b2d0931be270943240121031c) - 2025-06-20
+* [Commit] [add large code metering](https://github.com/erigontech/erigon/commit/8a9452d58bc528ae63bc51ec2e23aecf09de13fa) - 2025-06-20
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

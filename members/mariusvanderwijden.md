@@ -58,6 +58,7 @@ Team: Geth
 * [Commit] [use gnark (#32026)](https://github.com/ethereum/go-ethereum/commit/dc17a38a5d36f66b6a5a80696174bf36e0be4f43) - 2025-06-13
 * [Pull Request] [use gnark](https://github.com/ethereum/go-ethereum/pull/32026) - 2025-06-13
 * [Pull Request] [tests/fuzzers: added bn marshaling fuzzers](https://github.com/ethereum/go-ethereum/pull/32053) - 2025-06-17
+* [Pull Request] [crypto/bn256/gnark: align marshaling behavior](https://github.com/ethereum/go-ethereum/pull/32065) - 2025-06-20
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(geth): fixes geth error mappings](https://github.com/ethereum/execution-spec-tests/pull/1500) - 2025-04-28
 ## Q1 2025

@@ -362,6 +362,15 @@ Team: Reth
 * [Commit] [Merge remote-tracking branch 'origin/main' into alexey/nybbles-uint](https://github.com/paradigmxyz/reth/commit/9d022ea98da17fc7164bde9884abdeeb6c2e1204) - 2025-06-19
 * [Commit] [Merge remote-tracking branch 'origin/main' into alexey/nybbles-uint](https://github.com/paradigmxyz/reth/commit/a390f8aa6c547a9ea4a209dccd9da6cdb0818022) - 2025-06-19
 * [Commit] [perf: Reduce unnecessary memory copies in `compare_storage_trie_updates` (#16841)](https://github.com/paradigmxyz/reth/commit/71a057bcbe7f69ec37ea5528f7424f6c16885ef7) - 2025-06-19
+* [Commit] [perf(trie): update subtrie hashes in parallel in `ParallelSparseTrie::update_subtrie_hashes`](https://github.com/paradigmxyz/reth/commit/f35ce650ae74bd58e1f048bed37d2893155331fd) - 2025-06-20
+* [Commit] [also extension node](https://github.com/paradigmxyz/reth/commit/e22509be62ea0033fcc0af714eed8b3c1082540b) - 2025-06-20
+* [Commit] [fix lint](https://github.com/paradigmxyz/reth/commit/ad665da7e9a0d4ad2696cd3c89129956453ee6a1) - 2025-06-20
+* [Commit] [test(trie): assert trie updates](https://github.com/paradigmxyz/reth/commit/6682380f938973d3001c1971ebb5570ce395028e) - 2025-06-20
+* [Commit] [test(trie): `SparseSubtrie::update_hashes`](https://github.com/paradigmxyz/reth/commit/2bc82f3212744c1bc65d9312a841e5adea1ac1f3) - 2025-06-20
+* [Commit] [feat(test): rewrite test_engine_tree_live_sync_fcu_extends_canon_chain using e2e framework (#16949)](https://github.com/paradigmxyz/reth/commit/110cb84bdcffe311faf80ae11c1959de79367b52) - 2025-06-20
+* [Commit] [remove clones](https://github.com/paradigmxyz/reth/commit/da10c0cbc88dfbb9fe18a3171290a19400b63d6a) - 2025-06-20
+* [Commit] [chore: add type alias for PayloadAttributes (#16933)](https://github.com/paradigmxyz/reth/commit/53cd4b2397c78286b4561116d8ce18c41d8edc50) - 2025-06-20
+* [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/8fc2b9cf364d61232536836bf6ce1bb262e563fe) - 2025-06-20
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

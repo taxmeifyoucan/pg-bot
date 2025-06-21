@@ -49,6 +49,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: remove c-kzg dependency and stray reference](https://github.com/ChainSafe/lodestar/commit/8f1a4f3dda674e075bc1e3ea4bf67dcfe8cb9317) - 2025-06-09
 * [Pull Request] [feat: async kzg proof verification](https://github.com/ChainSafe/lodestar/pull/7936) - 2025-06-09
 * [Commit] [feat: add endpoint to retrieve data column sidecars (#7952)](https://github.com/ChainSafe/lodestar/commit/45bf84460781912fbe532d1f8d5d4b71a1b039a0) - 2025-06-11
+* [Commit] [chore: update quic](https://github.com/ChainSafe/lodestar/commit/50ab1667b3cfd897297bda04eb43182e1a8834b7) - 2025-06-20
+* [Commit] [chore: update quic](https://github.com/ChainSafe/lodestar/commit/93d66f5ca90ecef7e8a86b342f71d6cc63426fdc) - 2025-06-20
+* [Commit] [fix: quic6 bug](https://github.com/ChainSafe/lodestar/commit/c39d9b3dc1b672875c44180733bbff82c67cc710) - 2025-06-20
+* [Commit] [chore: bump quic lib](https://github.com/ChainSafe/lodestar/commit/b218ddd6907148896f5cb7827f72f4cdfa754c79) - 2025-06-20
+* [Commit] [fix: include skipped partial withdrawal to `partialWithdrawalsCount` (#7118)](https://github.com/ChainSafe/lodestar/commit/f2b96ff008bf201b0109bd5bac868b631f9a241b) - 2025-06-20
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

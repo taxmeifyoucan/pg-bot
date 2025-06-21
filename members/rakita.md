@@ -77,6 +77,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: release (#2641)](https://github.com/bluealloy/revm/commit/ec1e22e7d5e62119bc071fb1129cfa5e18fd8867) - 2025-06-19
 * [Commit] [chore: lints for examples (#2650)](https://github.com/bluealloy/revm/commit/373bf7ab551930ce9908078d311097509710d3a0) - 2025-06-19
 * [Pull Request] [chore: lints for examples](https://github.com/bluealloy/revm/pull/2650) - 2025-06-19
+* [Commit] [fix: implement `PartialEq` for `JumpTable` correctly (#2654)](https://github.com/bluealloy/revm/commit/e2ea527eb04d57b656f670ad099bbb1ce02df19a) - 2025-06-20
+* [Commit] [bump: tag v78 revm v26.0.1 (#2658)](https://github.com/bluealloy/revm/commit/8a5474cd0b05be31eef38e9b082eefd6f9690939) - 2025-06-20
+* [Pull Request] [bump: tag v78 revm v26.0.1](https://github.com/bluealloy/revm/pull/2658) - 2025-06-20
+* [Commit] [chore: release (#2657)](https://github.com/bluealloy/revm/commit/c54f1696f4fdf788af3beffec9ce53a1a48a1e06) - 2025-06-20
+* [Commit] [fix: call stack_frame.clear() at end (#2656)](https://github.com/bluealloy/revm/commit/c9cbdbc8e9a82803024b328959a94072f60ed92d) - 2025-06-20
+* [Pull Request] [fix: call stack_frame.clear() at end](https://github.com/bluealloy/revm/pull/2656) - 2025-06-20
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

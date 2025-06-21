@@ -199,6 +199,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [add adaptive mode selection based on bloom filter match count](https://github.com/paradigmxyz/reth/commit/1a13db3e45c4d9783038ffaa39c4c13689eee395) - 2025-06-19
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/122683540a7b530603ff751aec296221d6ad81a5) - 2025-06-19
 * [Commit] [optimize eth_getLogs caching to only cache blocks with matching logs](https://github.com/paradigmxyz/reth/commit/958d6ccf83a0091e29438e36ce6cf082e6eef32f) - 2025-06-19
+* [Pull Request] [chore: resolve unused import warning in reth RPC API subscription attribute](https://github.com/paradigmxyz/reth/pull/16975) - 2025-06-20
+* [Pull Request] [feat(test): rewrite test_engine_tree_live_sync_transition_eventually_canonical using e2e framework](https://github.com/paradigmxyz/reth/pull/16972) - 2025-06-20
+* [Commit] [feat(test): rewrite test_engine_tree_live_sync_transition_eventually_canonical using e2e framework](https://github.com/paradigmxyz/reth/commit/7207d8c87c6eafdcd3bfe5175b6959176be0e1ec) - 2025-06-20
+* [Commit] [refactor](https://github.com/paradigmxyz/reth/commit/6ef5bdfc406d3cfaee244b7ca545a18c11335045) - 2025-06-20
+* [Commit] [refactor](https://github.com/paradigmxyz/reth/commit/8750da43fab975ced640b6e9df730228b0588ced) - 2025-06-20
+* [Commit] [refactor](https://github.com/paradigmxyz/reth/commit/401eed423cbe8e123e666ccfef98da9d1d9d70d2) - 2025-06-20
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

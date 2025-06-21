@@ -52,6 +52,7 @@ Team: Nethermind
 * [Commit] [Add fibb/isPrim equivalence tests to test suite](https://github.com/NethermindEth/nethermind/commit/a70ad2124083b3bb89d619a09a108cdb2af9b2fa) - 2025-06-16
 * [Pull Request] [Feature/ilevm/segmented methods ](https://github.com/NethermindEth/nethermind/pull/8802) - 2025-06-18
 * [Commit] ["fix" weth benchmark txPair](https://github.com/NethermindEth/nethermind/commit/5f4c27a2f1558bd6626a6d1280e1d6932f3186af) - 2025-06-18
+* [Commit] [minor refactors and renames](https://github.com/NethermindEth/nethermind/commit/5208f11e927731fbbd632d97aa2c69f7935e6dfa) - 2025-06-20
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

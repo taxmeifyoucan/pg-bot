@@ -130,6 +130,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [drop versioned hashes](https://github.com/status-im/nimbus-eth2/commit/3c8d88f35cb095d3b31e1153fd9087ce0ae823b4) - 2025-06-12
 * [Commit] [fix tests](https://github.com/status-im/nimbus-eth2/commit/7460b68a5adf5037cb9a25432aab1e5cbfa69d79) - 2025-06-12
 * [Pull Request] [patch in proposer lookahead fixes from berlinterop](https://github.com/status-im/nimbus-eth2/pull/7244) - 2025-06-17
+
+* [Commit] [automated consensus spec URL updating to v1.6.0-alpha.2 (#7243)](https://github.com/status-im/nimbus-eth2/commit/83fc484374a67cace2afe6964090738fdd9752e2) - 2025-06-20
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth2/commit/1aed8d83f9e889bb0a4a48044a268c21a0fb1c84) - 2025-06-20
+* [Commit] [rework methods](https://github.com/status-im/nimbus-eth2/commit/3fb57d9d7172b5732a33310ba7949746b7a6d9bd) - 2025-06-20
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [drop peer sampling for Fusaka](https://github.com/ethereum/consensus-specs/pull/4393) - 2025-06-20
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

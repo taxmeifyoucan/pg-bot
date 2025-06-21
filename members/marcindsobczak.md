@@ -46,6 +46,10 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [fix build?](https://github.com/NethermindEth/nethermind/commit/d18c45f68bf1782a399a451118c9879b7dfb9718) - 2025-06-17
 * [Pull Request] [[DO NOT MERGE] Performance](https://github.com/NethermindEth/nethermind/pull/8791) - 2025-06-17
 * [Commit] [Replace GMP package](https://github.com/NethermindEth/nethermind/commit/1b744a65594ac541bed00ce40c06c45e68b4dbca) - 2025-06-17
+* [Commit] [one more nitpick](https://github.com/NethermindEth/nethermind/commit/1b2438cb1f1c45c6dd2cb86c0d955190b33c1629) - 2025-06-20
+* [Commit] [cosmetic](https://github.com/NethermindEth/nethermind/commit/c6b3106379910bd79ec07f0e0e2131f8ef1abb74) - 2025-06-20
+* [Commit] [Change Ethereum mainet gaslimit default to 45M (#8793)](https://github.com/NethermindEth/nethermind/commit/652b5a75ce6b279903771e56ee003594323b48d5) - 2025-06-20
+* [Commit] [enable 7883](https://github.com/NethermindEth/nethermind/commit/ff20968a413fb40f2f8119b499d5a17b621b8bc6) - 2025-06-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7883: Add reference implementation](https://github.com/ethereum/EIPs/pull/9645) - 2025-04-15
 ## Q1 2025

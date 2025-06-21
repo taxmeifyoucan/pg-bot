@@ -78,6 +78,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Revise modexp](https://github.com/NethermindEth/nethermind/commit/560d54f2ff1beee45eda19aa1f07a252ba7d2d20) - 2025-06-19
 * [Pull Request] [Update packages](https://github.com/NethermindEth/nethermind/pull/8811) - 2025-06-19
 * [Commit] [Change Ethereum mainet gaslimit default to 45M (#8793)](https://github.com/NethermindEth/nethermind/commit/652b5a75ce6b279903771e56ee003594323b48d5) - 2025-06-19
+* [Commit] [Update packages (#8811)](https://github.com/NethermindEth/nethermind/commit/f38cf91a332dc252a6e94e522dc0358a0b7dc669) - 2025-06-20
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -134,6 +134,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fixing event stream check](https://github.com/OffchainLabs/prysm/commit/5ae0b4c1b41142654883fb245a71c16d17a4abbc) - 2025-06-19
 * [Commit] [removing health tracker, fixing runner tests, and adding placeholder for monitor tests](https://github.com/OffchainLabs/prysm/commit/a644a73f245c1664c66c5a5d79a05dfe3769d3aa) - 2025-06-19
 * [Commit] [rework healthcheck](https://github.com/OffchainLabs/prysm/commit/63fa7c56b1c401be2e60d09ef3afac6fd5acc1f9) - 2025-06-19
+* [Commit] [missed fatal removal](https://github.com/OffchainLabs/prysm/commit/2b31590eb9d84e31f79d4a512a96999bb8bce329) - 2025-06-20
+* [Commit] [forgot to remove comment](https://github.com/OffchainLabs/prysm/commit/8bee0bd3e409626333377fee694041866660d10d) - 2025-06-20
+* [Commit] [removing some log.fatals](https://github.com/OffchainLabs/prysm/commit/033dc7949e7d025622b98241d69311fb14cbf140) - 2025-06-20
+* [Commit] [improving test](https://github.com/OffchainLabs/prysm/commit/eefac441c981689c09df132d2441b236f341dfa4) - 2025-06-20
+* [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/0b737bd0ee5bdfbd9e7b1fa9509bcf2dd9d54f68) - 2025-06-20
+* [Commit] [peerDAS: Implement `dataColumnSidecarByRootRPCHandler`. (#15405)](https://github.com/OffchainLabs/prysm/commit/559d02bf4db837f2863848056f2261f4e98e6b20) - 2025-06-20
+* [Commit] [adding in health monitor tests](https://github.com/OffchainLabs/prysm/commit/ef41cb1e3dbf37d57cd4d6c88e82fea537903904) - 2025-06-20
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

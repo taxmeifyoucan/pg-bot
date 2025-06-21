@@ -55,6 +55,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Optimized bls12 381 (#1268)](https://github.com/ethereum/execution-specs/commit/81ec8eee0c8657bcc45fc0f979a8bbdaf868ddb1) - 2025-06-10
 * [Pull Request] [Re-read account code after setting 7702 delegation](https://github.com/ethereum/execution-specs/pull/1281) - 2025-06-18
 * [Pull Request] [Draft: STEEL Merge](https://github.com/ethereum/execution-specs/pull/1280) - 2025-06-18
+* [Pull Request] [run osaka tests](https://github.com/ethereum/execution-specs/pull/1290) - 2025-06-20
+* [Pull Request] [Implement EIP-7934](https://github.com/ethereum/execution-specs/pull/1289) - 2025-06-20
+* [Issue] [Implement EIP-7934](https://github.com/ethereum/execution-specs/issues/1288) - 2025-06-20
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-spec-tests/issues/1461) - 2025-04-16
 * [Issue] [Address warmed on aborted call](https://github.com/ethereum/execution-spec-tests/issues/1474) - 2025-04-17

@@ -344,6 +344,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Lighter Memory.Save (#8808)](https://github.com/NethermindEth/nethermind/commit/05ad5d07dc1f2b0a34b6b9cb638a655c67edc28b) - 2025-06-19
 * [Pull Request] [Lighter Memory.Save](https://github.com/NethermindEth/nethermind/pull/8808) - 2025-06-19
 * [Commit] [Add flag for persistent broadcast (#8752)](https://github.com/NethermindEth/nethermind/commit/e034f3b63fd18fba03e0de69fd068ea6a6d65694) - 2025-06-19
+* [Commit] [Auto-update fast sync settings (#8788)](https://github.com/NethermindEth/nethermind/commit/2bc3ad155d11b59790309f2420f74e50b9835d25) - 2025-06-20
+* [Commit] [Use GetOrAdd for DirtyNodeCache (#8812)](https://github.com/NethermindEth/nethermind/commit/bd471100d9dca783b582c0089d28bf306824ce5c) - 2025-06-20
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

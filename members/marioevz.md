@@ -197,6 +197,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [refactor(fill,fixtures): rename "engine reorg" to "engine x"; improve pre-allocation group terminology (#1760)](https://github.com/ethereum/execution-spec-tests/commit/bb4289acb771702235c9427d72d1f1fc97cc666c) - 2025-06-18
 * [Issue] [Bump getPayload waiting time in consume if blob txs are involved](https://github.com/ethereum/execution-spec-tests/issues/1766) - 2025-06-18
 * [Issue] [Add a small delay to client stop on consume engine when the test failed](https://github.com/ethereum/execution-spec-tests/issues/1764) - 2025-06-18
+* [Commit] [fix(tools): CodeGasMeasure accepts bytecode as sstore_key](https://github.com/ethereum/execution-spec-tests/commit/7e8d9caa8281a8dee3e6db0dead6a4b68fe4fee0) - 2025-06-20
+* [Commit] [more tests](https://github.com/ethereum/execution-spec-tests/commit/0bde3ad7b51272a9ab704ed39a055408c333c984) - 2025-06-20
+* [Commit] [Base template](https://github.com/ethereum/execution-spec-tests/commit/8f85f227162bbaed3cc29452432f0670dcf88b26) - 2025-06-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

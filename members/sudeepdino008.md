@@ -296,6 +296,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9e9589a1bb0abcb72a984edf452dfba2ffc50153) - 2025-06-19
 * [Commit] [ci](https://github.com/erigontech/erigon/commit/996677d525f280378b7a020f3db92115c9f1ce30) - 2025-06-19
 * [Commit] [save](https://github.com/erigontech/erigon/commit/80623c53c36bd5af016515718af9680ddf5a4fa6) - 2025-06-19
+* [Commit] [state: Better error message for snapshot mismatch (#15666)](https://github.com/erigontech/erigon/commit/27fd9e969d6cab8659e83797244ef4b564e3c18c) - 2025-06-20
+* [Commit] [fix erigon-lib/go.mod (#15673)](https://github.com/erigontech/erigon/commit/7fbcb3b4b8a2a96f26733f5bd202f462847cf52d) - 2025-06-20
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

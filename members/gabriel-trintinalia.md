@@ -130,6 +130,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [Simplify parameters of BlockSelectionContext (#8828)](https://github.com/hyperledger/besu/commit/cc5f93a7ecb15c2e610af75ffaf7861b0b907f4d) - 2025-06-18
 * [Pull Request] [refactor: simplify parameters of BlockSelectionContext](https://github.com/hyperledger/besu/pull/8828) - 2025-06-18
 * [Commit] [feat(peerDAS): add max number of blob per transaction (#8761)](https://github.com/hyperledger/besu/commit/c0af167e13107704f9b6a6b65df7ce724943882e) - 2025-06-18
+* [Commit] [[fusaka-devnet-2] EIP-7907 (#8837)](https://github.com/hyperledger/besu/commit/416527bf166b6fbcca10464dc6fa80f3c0d9ba64) - 2025-06-20
+* [Pull Request] [[fusaka-devnet-2] EIP-7907](https://github.com/hyperledger/besu/pull/8837) - 2025-06-20
+* [Commit] [[fusaka-devnet-2] EIP-7939 (#8836)](https://github.com/hyperledger/besu/commit/90af58bede47bdc70d58d99039e21e22105df65d) - 2025-06-20
+* [Commit] [[fusaka-devnet-2] EIP-7951 (#8835)](https://github.com/hyperledger/besu/commit/a6d6a43f07c4a7616506b96d1725348df8c88257) - 2025-06-20
+* [Pull Request] [[fusaka-devnet-2] EIP-7939](https://github.com/hyperledger/besu/pull/8836) - 2025-06-20
+* [Pull Request] [[fusaka-devnet-2] EIP-7951](https://github.com/hyperledger/besu/pull/8835) - 2025-06-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

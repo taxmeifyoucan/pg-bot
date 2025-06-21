@@ -244,6 +244,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [core/vm: harmonize comments of modExpMultComplexity (#15644)](https://github.com/erigontech/erigon/commit/3d6f5161244f9c9e1a4789dd19e11bc2aa3ee5f3) - 2025-06-19
 * [Pull Request] [core/vm: harmonize comments of modExpMultComplexity](https://github.com/erigontech/erigon/pull/15644) - 2025-06-19
 * [Commit] [core/vm: harmonize comments of modExpMultComplexity](https://github.com/erigontech/erigon/commit/b6845c62c924a0ea7faacdac488b1d2089ee3971) - 2025-06-19
+* [Pull Request] [core: move Polygon genesis blocks to `polygon`](https://github.com/erigontech/erigon/pull/15687) - 2025-06-20
+* [Commit] [implement RegisterGenesisBlock](https://github.com/erigontech/erigon/commit/93c121d7cf5fe18c7def2b44b97ef89679b0a8cd) - 2025-06-20
+* [Commit] [start moving polygon genesis to polygon](https://github.com/erigontech/erigon/commit/3984e6e8a4eb88f632700c06bb8b08b1896efc1e) - 2025-06-20
+* [Issue] [Generalizations and extensions for Arbitrum](https://github.com/erigontech/erigon/issues/15684) - 2025-06-20
+* [Pull Request] [dir improvements: move stagesync to `execution`](https://github.com/erigontech/erigon/pull/15682) - 2025-06-20
+* [Commit] [mv stagedsync from eth to execution](https://github.com/erigontech/erigon/commit/ee793f07c279ba0fd3f81c57f3a010d3f6b84a64) - 2025-06-20
+* [Commit] [mv stages from turbo to execution](https://github.com/erigontech/erigon/commit/c2886cad495a998bce60f0973929c242e79a12eb) - 2025-06-20
+* [Commit] [mv dataflow into execution](https://github.com/erigontech/erigon/commit/357a66090576a066debbaa599f836f1bf2242889) - 2025-06-20
+* [Commit] [rm PoWMainnetChainConfig](https://github.com/erigontech/erigon/commit/c302920376fda6bae1ac95d80d21c8f2ebe4045b) - 2025-06-20
+* [Commit] [mv TestCreation back to p2p](https://github.com/erigontech/erigon/commit/89cd2daccc3778bc2ba714e514e8dc152bade9c2) - 2025-06-20
+* [Commit] [mv sentry_multi_client back to p2p](https://github.com/erigontech/erigon/commit/d7ae0a3bd852b89113af2b9bf1b5eb7eccb42ba5) - 2025-06-20
+* [Commit] [go.mod: merge indirect deps](https://github.com/erigontech/erigon/commit/b9b2696eadbf5e9838f3a63aabe2a62c158a517b) - 2025-06-20
+* [Commit] [mv interfaces back to turbo/services](https://github.com/erigontech/erigon/commit/cdbd6bc77e90604818ddb4093b0cd77b45af5a38) - 2025-06-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 

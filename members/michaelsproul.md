@@ -103,6 +103,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Remove all prod eth1 related code (#7133)](https://github.com/sigp/lighthouse/commit/c2a250c8f4416a9497c6ab99d730420b05fd6181) - 2025-06-16
 * [Pull Request] [Hot hdiff buffer cache](https://github.com/sigp/lighthouse/pull/7615) - 2025-06-17
 * [Commit] [Hot hdiff buffer cache (#7615)](https://github.com/sigp/lighthouse/commit/cb81f076a6aae773910778b9813738aaf9d86cf4) - 2025-06-19
+* [Commit] [Remove instrumenting log level (#7620)](https://github.com/sigp/lighthouse/commit/fc363703b55b2d001941e858ee2f5cc44fa4bcb6) - 2025-06-20
+* [Commit] [Hierarchical state diffs in hot DB (#6750)](https://github.com/sigp/lighthouse/commit/dd985341581ffbb7dfc5ec7744873b0be59c226b) - 2025-06-20
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

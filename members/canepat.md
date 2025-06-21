@@ -71,3 +71,6 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: return empty code for store out-of-gas in CREATE calls](https://github.com/erigontech/erigon/pull/15585) - 2025-06-15
 * [Commit] [[r30] qa_tests: update rpc-tests to fix parity_listStorageKeys (#15573)](https://github.com/erigontech/erigon/commit/309ee1298cd2cec65bd7d19d2440da2f231d679a) - 2025-06-16
 * [Pull Request] [rpcdaemon: same default WebSocket port as erigon](https://github.com/erigontech/erigon/pull/15643) - 2025-06-18
+* [Commit] [tests: more explicit make target names (#15442)](https://github.com/erigontech/erigon/commit/e4e1c99fe90707157de0bf3583f30e66f32c3ef1) - 2025-06-20
+* [Commit] [rpcdaemon: same default WebSocket port as erigon (#15643)](https://github.com/erigontech/erigon/commit/bd37b36b78352aebe5d8c9d86b447920f4dfcc97) - 2025-06-20
+* [Commit] [qa_tests: upgrade rpc-tests version 1.65.0 (#15587)](https://github.com/erigontech/erigon/commit/5c25098d1ca1e10ad0485bdc45b6d1b9945a7ac4) - 2025-06-20

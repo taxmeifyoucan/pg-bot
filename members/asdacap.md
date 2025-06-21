@@ -269,6 +269,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix wrong reward componets](https://github.com/NethermindEth/nethermind/pull/8805) - 2025-06-19
 * [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/ada92567a03857a17a4bfe781488f4c51b82b0d5) - 2025-06-19
 * [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/e1453fdf6d5b1bb7a7230d0c65c7584b56e31b70) - 2025-06-19
+* [Commit] [Add withdrawal processor to unit test](https://github.com/NethermindEth/nethermind/commit/6626d88cab3eae1bda64560121e71fa8879a0108) - 2025-06-20
+* [Commit] [Fix wrong sealer](https://github.com/NethermindEth/nethermind/commit/b72ea63d1d6c449177a1a48a96350e1ff709e320) - 2025-06-20
+* [Pull Request] [Cleanup/Deduplicate aura block processor.](https://github.com/NethermindEth/nethermind/pull/8814) - 2025-06-20
+* [Commit] [Fix error on block production](https://github.com/NethermindEth/nethermind/commit/6691e29d08fc1320a5821e0355e8b87f80946eb1) - 2025-06-20
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

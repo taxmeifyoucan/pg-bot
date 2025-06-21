@@ -69,6 +69,10 @@ Team: Erigon
 * [Pull Request] [qa-tests: improve test report formatting](https://github.com/erigontech/erigon/pull/15660) - 2025-06-19
 * [Pull Request] [[r30] qa-tests: rename workflow jobs  (#15488) ](https://github.com/erigontech/erigon/pull/15649) - 2025-06-19
 * [Pull Request] [qa-tests: add torrent status file artifact to snap-download test](https://github.com/erigontech/erigon/pull/15648) - 2025-06-19
+* [Pull Request] [[r30] qa-tests: Upload torrent client status artifact](https://github.com/erigontech/erigon/pull/15681) - 2025-06-20
+* [Pull Request] [[r30] qa-tests: temporarily disable bor-mainnet from sync-from-scratch test ](https://github.com/erigontech/erigon/pull/15680) - 2025-06-20
+* [Pull Request] [qa-tests: temporarily disable bor-mainnet from sync-from-scratch test](https://github.com/erigontech/erigon/pull/15679) - 2025-06-20
+* [Commit] [print_stages: print min/max step (or txnum) per each domain (#15533)](https://github.com/erigontech/erigon/commit/0e89d7fc8e4bfb8cf237116be4768d108cee5015) - 2025-06-20
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

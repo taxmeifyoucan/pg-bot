@@ -142,6 +142,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [optimize some precompiles (#8770)](https://github.com/NethermindEth/nethermind/commit/2809874394ae105cd65cec219762d07676f32621) - 2025-06-16
 * [Commit] [Add tests](https://github.com/NethermindEth/nethermind/commit/f204b37ee064d50593d960d6456f3c6b5bfc7c5c) - 2025-06-16
 * [Commit] [Add tests](https://github.com/NethermindEth/nethermind/commit/ca6a80e12395404b8dcb13d206089a7ce1b0c997) - 2025-06-16
+* [Commit] [Evict on new head, filter when providing txs for producer](https://github.com/NethermindEth/nethermind/commit/475793af3914e0ff8fec789d94c28be4ad2f15bd) - 2025-06-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

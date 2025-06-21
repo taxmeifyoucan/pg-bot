@@ -42,6 +42,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Issue] [Cache blocks that do not satisfy inclusion lists in the store](https://github.com/Consensys/teku/issues/9566) - 2025-06-18
 * [Commit] [cache unsatisfied ILs block roots (#9579)](https://github.com/Consensys/teku/commit/03b4d2bbf155be6346ec9ecf49db9cc27d2bd215) - 2025-06-19
 * [Pull Request] [cache unsatisfied ILs block roots](https://github.com/Consensys/teku/pull/9579) - 2025-06-19
+* [Commit] [mark unsatisfied inclusion list blocks as not validated (#9581)](https://github.com/Consensys/teku/commit/0956a962ac1b33713a6f7c68355f1d9afeb853b3) - 2025-06-20
+* [Pull Request] [mark unsatisfied inclusion list blocks as not validated](https://github.com/Consensys/teku/pull/9581) - 2025-06-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add eip7805 presets](https://github.com/ethereum/consensus-specs/pull/4268) - 2025-04-14
 * [Pull Request] [move IL committee domain to constant](https://github.com/ethereum/consensus-specs/pull/4276) - 2025-04-17

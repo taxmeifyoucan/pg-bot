@@ -174,6 +174,18 @@ Team: Erigon
 * [Commit] [Merge branch 'main' into arb0 (#15568)](https://github.com/erigontech/erigon/commit/8a321b3650cb5669ec130a0aafa61b664b175e4d) - 2025-06-19
 * [Commit] [save](https://github.com/erigontech/erigon/commit/19acb7d48671bc9666650ccd56bb6ec72677fc76) - 2025-06-19
 * [Pull Request] [Concurrent warmup for Commitment](https://github.com/erigontech/erigon/pull/15658) - 2025-06-19
+* [Commit] [SAVE](https://github.com/erigontech/erigon/commit/dbc89e6a9ab3d8e6270a5bbf9a9c739552c9fc1b) - 2025-06-20
+* [Commit] [SAVE](https://github.com/erigontech/erigon/commit/bd14000664841bca3b8e06b7f2fff6cf0e04080f) - 2025-06-20
+* [Commit] [SAVE](https://github.com/erigontech/erigon/commit/91458b5cb2b7d82758595e058ab3bdd7b12c100a) - 2025-06-20
+* [Commit] [SAVE](https://github.com/erigontech/erigon/commit/a246bf702e929cc8624056c193a66d87ff1dc85e) - 2025-06-20
+* [Commit] [SAVE](https://github.com/erigontech/erigon/commit/cfa9f9d81c7433ba8ef1459e792af9e1d1703262) - 2025-06-20
+* [Commit] [SAVE](https://github.com/erigontech/erigon/commit/5c99f34052afb5844c978d09125edc60c38ce959) - 2025-06-20
+* [Commit] [SAVE](https://github.com/erigontech/erigon/commit/31a497e8f06ef50e7ede9243ee11c021424d041e) - 2025-06-20
+* [Commit] [use rlp StreamPool for tx decoding (#15626)](https://github.com/erigontech/erigon/commit/d72b2151e0af5c28c736363aa30e0d08db93fb4a) - 2025-06-20
+* [Commit] [SAVE](https://github.com/erigontech/erigon/commit/87ad6247e2eae0af5819b33b345dc016dd317e6a) - 2025-06-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a2c20d68005cb33b87ced9f56c733c6ec9c1497d) - 2025-06-20
+* [Pull Request] [Additional info on `seg update-to-new-ver-format`](https://github.com/erigontech/erigon/pull/15685) - 2025-06-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/94bf457fa2bbe5e4f8666f18b94d44d9792ac670) - 2025-06-20
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

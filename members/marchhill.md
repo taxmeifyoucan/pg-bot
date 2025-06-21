@@ -125,6 +125,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [don't block accepting new blocks](https://github.com/NethermindEth/nethermind/commit/b0c16832d77bed314edabb780853a5e28d0f33d9) - 2025-06-12
 * [Commit] [add block download strategy interface](https://github.com/NethermindEth/nethermind/commit/427d2fff783fe8e338c1a73c5d1b73ce057fcae4) - 2025-06-12
 * [Commit] [refactor download strategy](https://github.com/NethermindEth/nethermind/commit/d731cf14ce0a4d7a7cd19a62afd0949161706b6b) - 2025-06-12
+* [Commit] [remove unused usings](https://github.com/NethermindEth/nethermind/commit/6ef972e65ec3d883ec18e615ff8cb6af195363a7) - 2025-06-20
+* [Commit] [Cleanup/Deduplicate aura block processor. (#8814)](https://github.com/NethermindEth/nethermind/commit/d3be1adf5579a7c83fb53138491f07c6770fbd80) - 2025-06-20
+* [Commit] [remove blockdecoder from constructore](https://github.com/NethermindEth/nethermind/commit/8f4b2616dae3adfb9440c05e5556f191375bed15) - 2025-06-20
+* [Pull Request] [Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/8817) - 2025-06-20
+* [Commit] [try adding block decoder to DI container](https://github.com/NethermindEth/nethermind/commit/d496cd5112e3d0cadc8bcf7f1b7c1c128888e0c8) - 2025-06-20
+* [Commit] [Dispose EvmState on warmup (#8771)](https://github.com/NethermindEth/nethermind/commit/eb4a682f62768ec3270aad05ce62f7087822ae07) - 2025-06-20
+* [Commit] [revert accidental change](https://github.com/NethermindEth/nethermind/commit/736a9cfb12256eba9bda3eb25e9b617a5a72521e) - 2025-06-20
+* [Commit] [revert accidental changes](https://github.com/NethermindEth/nethermind/commit/781c3fd81630ae9305c9944365e18d9cb1a0c1b9) - 2025-06-20
+* [Pull Request] [Implement EIP-7934: RLP Execution Block Size Limit #8757](https://github.com/NethermindEth/nethermind/pull/8815) - 2025-06-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7793: Change TXINDEX to ASSERTTXINDEX](https://github.com/ethereum/EIPs/pull/9762) - 2025-05-12
 * [Pull Request] [Update EIP-7843: change to instruction](https://github.com/ethereum/EIPs/pull/9761) - 2025-05-12
@@ -136,6 +145,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-7943: Move to review](https://github.com/ethereum/EIPs/pull/9836) - 2025-05-28
 * [Pull Request] [Update EIP-7805: Link Execution API specs](https://github.com/ethereum/EIPs/pull/9851) - 2025-06-02
 * [Pull Request] [Update EIP-7773: PFI Amsterdam EIP-7793 & EIP-7843](https://github.com/ethereum/EIPs/pull/9858) - 2025-06-04
+* [Pull Request] [TXHASH](https://github.com/ethereum/EIPs/pull/9915) - 2025-06-20
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

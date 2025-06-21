@@ -126,6 +126,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix types](https://github.com/ChainSafe/lodestar/commit/fd10545dc30b54b765b2401d573589fbb7dece20) - 2025-06-03
 * [Pull Request] [chore: cleanup event handlers for import block](https://github.com/ChainSafe/lodestar/pull/7956) - 2025-06-12
 * [Commit] [refactor: add method to get ancestor & non-ancestor nodes in single traversal (#7528)](https://github.com/ChainSafe/lodestar/commit/a64ca247a006136e8aae5015f57d39370b421c23) - 2025-06-19
+* [Commit] [Revert accidental committed changes](https://github.com/ChainSafe/lodestar/commit/5a25774036b0035a864666ddb66ad24b448855c3) - 2025-06-20
+* [Pull Request] [chore: upgrade @biomejs/biome to newer type aware version](https://github.com/ChainSafe/lodestar/pull/7982) - 2025-06-20
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -24,6 +24,7 @@ Team: Codex DAS
 * [Pull Request] [Stabilize tx peer selection](https://github.com/ethereum/go-ethereum/pull/31714) - 2025-04-25
 * [Pull Request] [cmd/utils: remove duplicate code for influxDB tags](https://github.com/ethereum/go-ethereum/pull/31854) - 2025-05-19
 * [Pull Request] [p2p: make dial faster by pre-fetching dial candidates](https://github.com/ethereum/go-ethereum/pull/31944) - 2025-06-01
+* [Pull Request] [core/state: improve the prefetcher concurrency allowance](https://github.com/ethereum/go-ethereum/pull/32071) - 2025-06-20
 ## Q1 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

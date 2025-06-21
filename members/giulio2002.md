@@ -252,6 +252,12 @@ Team: Erigon
 * [Commit] [Replace override.prague flag wth override.osaka (#15322)](https://github.com/erigontech/erigon/commit/af8a11ee6c511f9a0776a5f67c2f58deda003668) - 2025-06-19
 * [Pull Request] [History expiry phase 1 sepolia](https://github.com/erigontech/erigon/pull/15668) - 2025-06-19
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0994ee7fdd0da27393a26f8283c2c2e4c4f718af) - 2025-06-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/612876817fd2f48fb8703f62f4702e46125fe8c4) - 2025-06-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/86f665cd07279deb54ed647eaa72ad3b3f18562a) - 2025-06-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/67f79247947466342cebf5a098fe257f30bf6bc1) - 2025-06-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b50fa8a091643eb7c56dd86d78f03477f079f717) - 2025-06-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/296abe2aa7b52b3708705f12b7353093e558dede) - 2025-06-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f31abef68111c003b2c3bdd80201f66c9b4bb78d) - 2025-06-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 

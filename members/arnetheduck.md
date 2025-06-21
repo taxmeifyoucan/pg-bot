@@ -37,5 +37,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Shut down when finalized block is invalid](https://github.com/status-im/nimbus-eth1/issues/3367) - 2025-06-07
 * [Pull Request] [defer gc during block processing](https://github.com/status-im/nimbus-eth1/pull/3384) - 2025-06-12
 * [Pull Request] [aristo: fold Adm column family into Vtx](https://github.com/status-im/nimbus-eth1/pull/3383) - 2025-06-12
+* [Commit] [faststreams: bump (#3418)](https://github.com/status-im/nimbus-eth1/commit/341384792794fb8542054540405d58db2d2384a6) - 2025-06-20
+* [Commit] [also testutils](https://github.com/status-im/nimbus-eth1/commit/45c164beae497a8019d1b307aaeec120bf1efc29) - 2025-06-20
+* [Commit] [defer gc during block processing (#3384)](https://github.com/status-im/nimbus-eth1/commit/3a009158d3e381562cd4ff855033533dbeadd404) - 2025-06-20
+* [Pull Request] [faststreams: bump](https://github.com/status-im/nimbus-eth1/pull/3418) - 2025-06-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Old head sent in LC sync mode](https://github.com/status-im/nimbus-eth2/issues/7119) - 2025-05-04

@@ -88,6 +88,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: replace fork with boundary in gossip topic](https://github.com/ChainSafe/lodestar/pull/7975) - 2025-06-19
 * [Commit] [chore: proposer lookahead follow-up changes (#7948)](https://github.com/ChainSafe/lodestar/commit/d01ed1576a1a604ab3c72797a8a4f2735d6f60cb) - 2025-06-19
 * [Commit] [feat: define `SubscribeBoundary` (#7968)](https://github.com/ChainSafe/lodestar/commit/8123b07c2c51678e679072d7912b271e26429f88) - 2025-06-19
+* [Commit] [feat: replace fork with boundary in gossip topic (#7975)](https://github.com/ChainSafe/lodestar/commit/e65e01e81f1c167ba66921b71290b51dc1a5c08d) - 2025-06-20
+* [Commit] [feat: replace fork with boundary in reqresp's outgoing chunk (#7978)](https://github.com/ChainSafe/lodestar/commit/ea8c82564a61d0557c6281254e3a9f1980828b79) - 2025-06-20
+* [Commit] [Get fork through destructuring](https://github.com/ChainSafe/lodestar/commit/63ef1f9d3bc15c7748ec22ceda15121d9ccd81fc) - 2025-06-20
+* [Issue] [Track gossip metrics by boundary instead of by fork](https://github.com/ChainSafe/lodestar/issues/7983) - 2025-06-20
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025
