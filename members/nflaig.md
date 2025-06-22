@@ -220,6 +220,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: update query for `attestations_per_committee` metric (#7923)](https://github.com/ChainSafe/lodestar/commit/1b4cda38f56b75e9be94a9234cc8118d7deb5b02) - 2025-06-17
 * [Commit] [Update .env.test](https://github.com/ChainSafe/lodestar/commit/3e311a7142e540d105d8fcf70dc82a3d88dc1062) - 2025-06-18
 * [Pull Request] [test: run against stable lighthouse release in sim tests](https://github.com/ChainSafe/lodestar/pull/7973) - 2025-06-18
+* [Commit] [Fix type checks](https://github.com/ChainSafe/lodestar/commit/cbaaff158063306987164ffc14969a523862d825) - 2025-06-21
+* [Commit] [Add missing await](https://github.com/ChainSafe/lodestar/commit/3ca2199aff90e14a997242c7b0c6fddd20be953a) - 2025-06-21
+* [Pull Request] [feat: switch to rust kzg for async kzg proof verification](https://github.com/ChainSafe/lodestar/pull/7989) - 2025-06-21
+* [Commit] [Remove trusted setup files](https://github.com/ChainSafe/lodestar/commit/c1b15d3911056f634a54ee7c2ee7d035a2d26a8f) - 2025-06-21
+* [Commit] [Remove  trustedSetup flag](https://github.com/ChainSafe/lodestar/commit/7fa1bbf2d81a8fab60b5ff34c0e191bf7a36f049) - 2025-06-21
+* [Pull Request] [fix: query shuffling from cache to compute proposer lookahead](https://github.com/ChainSafe/lodestar/pull/7988) - 2025-06-21
+* [Commit] [feat: add validator activity metrics (#7634)](https://github.com/ChainSafe/lodestar/commit/7dfdb27fdccee5e730f4ba5607924f37d3907b79) - 2025-06-21
+* [Pull Request] [chore: review #7959](https://github.com/ChainSafe/lodestar/pull/7987) - 2025-06-21
+* [Commit] [Remove extra line](https://github.com/ChainSafe/lodestar/commit/214ba961b2b0b28f7570662f299b306d9d49e2d8) - 2025-06-21
+* [Commit] [Move Status to Metadata type](https://github.com/ChainSafe/lodestar/commit/ea07eed29fd4b0cf645f0c9b3a7df7b398d1ea48) - 2025-06-21
+* [Commit] [Remove unused imports](https://github.com/ChainSafe/lodestar/commit/4f84f35764b3dc2d1d1de3874e67520fb786b814) - 2025-06-21
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -40,3 +40,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix lint](https://github.com/erigontech/erigon/commit/08cf177ada85972da2d91888a139e6a2b5afd484) - 2025-06-15
 * [Pull Request] [rpcdaemon/erigon modify compression default config](https://github.com/erigontech/erigon/pull/15583) - 2025-06-15
 * [Commit] [print_stages: print min/max step (or txnum) per each domain (#15533)](https://github.com/erigontech/erigon/commit/0e89d7fc8e4bfb8cf237116be4768d108cee5015) - 2025-06-15
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/833af72d89e24a703f17e88c28b2b095cd0ba2c5) - 2025-06-21
+* [Commit] [fix unit test](https://github.com/erigontech/erigon/commit/1e9b3bdc7f0c7186c93e84486920baacf8df2d9c) - 2025-06-21
+* [Commit] [remove check on method and version](https://github.com/erigontech/erigon/commit/2cefad10be24b3fa10c811a4e28bfb1c8e1f50f7) - 2025-06-21
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/06ed442c03d55e21b4e3129af0566d66bd8db2eb) - 2025-06-21
+* [Commit] [E3: Use unbounded MDBX for Engine downloader (#15575)](https://github.com/erigontech/erigon/commit/41fb0d9c61a10977752a104f0f199405d0b48653) - 2025-06-21
+* [Pull Request] [rpcdaemon:  in case of ParseError set the HttpStatus to BadRequest as spec](https://github.com/erigontech/erigon/pull/15693) - 2025-06-21

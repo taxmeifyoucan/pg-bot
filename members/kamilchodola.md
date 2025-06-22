@@ -26,6 +26,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [[Hoodi] Increase gas limit to 60M (#8386)](https://github.com/NethermindEth/nethermind/commit/3189d6456f268dfa8a28d2108382fca958d2ad82) - 2025-05-21
 * [Commit] [Bump to 1.32.0](https://github.com/NethermindEth/nethermind/commit/8aff0600b5c0f70b359e931a018315ee3ea1b4f7) - 2025-06-04
 * [Commit] [Surface acceptTx on sync via config (#8728)](https://github.com/NethermindEth/nethermind/commit/10ae566a72c0f2cf887522ef6679e14d4ef8cf7a) - 2025-06-04
+* [Commit] [Drop pre-merge history for Ethereum Mainnet (#8764)](https://github.com/NethermindEth/nethermind/commit/be3e3840a882639ff1dcc7fe19bc24294df79633) - 2025-06-21
+* [Commit] [Drop pre-merge history for Ethereum Mainnet (#8764)](https://github.com/NethermindEth/nethermind/commit/8929ba31fa44edda9f958f044c8a00a1dbee8dcc) - 2025-06-21
+* [Commit] [Drop pre-merge history for Ethereum Mainnet (#8764)](https://github.com/NethermindEth/nethermind/commit/2eedb502fa3e18667b3419a288f9d9231ab602b8) - 2025-06-21
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

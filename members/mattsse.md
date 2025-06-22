@@ -485,6 +485,20 @@ Team: Reth
 * [Pull Request] [test: flaky connection test](https://github.com/paradigmxyz/reth/pull/16939) - 2025-06-19
 * [Commit] [docs](https://github.com/paradigmxyz/reth/commit/435beb38736104bb638c239cbb00fd482e90629f) - 2025-06-19
 * [Pull Request] [docs: improve ConfigureEvm trait documentation](https://github.com/paradigmxyz/reth/pull/16937) - 2025-06-19
+* [Commit] [docs](https://github.com/paradigmxyz/reth/commit/efe43936407f70716f33b63f6b82232c147a2a5f) - 2025-06-21
+* [Commit] [docs: remove framework language and engine API mentions from crate docs](https://github.com/paradigmxyz/reth/commit/adce77c4e9b84971489c2bd83deb55f70c8ce3e6) - 2025-06-21
+* [Pull Request] [docs: improve payload primitives documentation](https://github.com/paradigmxyz/reth/pull/16986) - 2025-06-21
+* [Pull Request] [chore: simplify test HttpClient implementations](https://github.com/paradigmxyz/reth/pull/16985) - 2025-06-21
+* [Commit] [fix: Improve comment in historical RPC tests (#16971)](https://github.com/paradigmxyz/reth/commit/83802249ea6a43777ff060ad61ee66f0318c4fe0) - 2025-06-21
+* [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/c00b8f70e99a3cd268fdfbe802ee195da5e37a21) - 2025-06-21
+* [Pull Request] [feat: add From impl for RecoveredBlock from blocks with recovered transactions](https://github.com/paradigmxyz/reth/pull/16983) - 2025-06-21
+* [Pull Request] [feat: add From impl for RecoveredBlock from blocks with recovered transactions](https://github.com/paradigmxyz/reth/pull/16982) - 2025-06-21
+* [Pull Request] [refactor: remove CallFees re-export and relocate tests](https://github.com/paradigmxyz/reth/pull/16981) - 2025-06-21
+* [Commit] [chore: remove unused features (#16963)](https://github.com/paradigmxyz/reth/commit/9939164d07b6b43eaa66a3834fa6ec3e4f0609d2) - 2025-06-21
+* [Commit] [chore: use revm tx trait directly (#16961)](https://github.com/paradigmxyz/reth/commit/24f0365340889630358f1577b1fe9d7b296530b0) - 2025-06-21
+* [Commit] [feat: bump to 1.4.6 (#16566)](https://github.com/paradigmxyz/reth/commit/7a59e135f796e015475af0f2b4cebe427d8f858b) - 2025-06-21
+* [Pull Request] [fix: use empty withdrawals if parent has withdrawals root](https://github.com/paradigmxyz/reth/pull/16980) - 2025-06-21
+* [Pull Request] [chore: relax localpending block bounds](https://github.com/paradigmxyz/reth/pull/16979) - 2025-06-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

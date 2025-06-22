@@ -134,6 +134,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [automated consensus spec URL updating to v1.6.0-alpha.2 (#7243)](https://github.com/status-im/nimbus-eth2/commit/83fc484374a67cace2afe6964090738fdd9752e2) - 2025-06-20
 * [Commit] [fixes](https://github.com/status-im/nimbus-eth2/commit/1aed8d83f9e889bb0a4a48044a268c21a0fb1c84) - 2025-06-20
 * [Commit] [rework methods](https://github.com/status-im/nimbus-eth2/commit/3fb57d9d7172b5732a33310ba7949746b7a6d9bd) - 2025-06-20
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth2/commit/f996d18bfb15d0370560e30b85728d23c680adcc) - 2025-06-22
+* [Pull Request] [init: Focil (EIP-7805)](https://github.com/status-im/nimbus-eth2/pull/7253) - 2025-06-22
+* [Commit] [add more helpers](https://github.com/status-im/nimbus-eth2/commit/5768aa74a48e8d0278c6d73b754c2869b935659b) - 2025-06-22
+* [Commit] [add links](https://github.com/status-im/nimbus-eth2/commit/17a674b8acf65558fd718e4257ae5b7ac3f0c69a) - 2025-06-21
+* [Commit] [make changes to cater to improved sidecar quarantine](https://github.com/status-im/nimbus-eth2/commit/b1dcac8d5ce6b30cc06d6462fc3655fa1c4518bd) - 2025-06-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [drop peer sampling for Fusaka](https://github.com/ethereum/consensus-specs/pull/4393) - 2025-06-20
 ## Q1 2025

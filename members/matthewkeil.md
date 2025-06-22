@@ -109,6 +109,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: move data column helpers to utils](https://github.com/ChainSafe/lodestar/commit/5bd1469e3ca35945c4599a0acd41dc691087ba10) - 2025-06-20
 * [Commit] [refactor: rename DataColumnSidecarsWrapper to DataColumnSidecarsDbWrapper](https://github.com/ChainSafe/lodestar/commit/8209aaa5001408178c3aa4c7a41301086956b59d) - 2025-06-20
 * [Commit] [fix: address PR comments](https://github.com/ChainSafe/lodestar/commit/1e86ad58858105fc0a3d0fff1ad011624d84d946) - 2025-06-20
+* [Commit] [fix: change log to verbose](https://github.com/ChainSafe/lodestar/commit/d51e1bfaf18a9156dd3420a0af3dc1e0d39efbcd) - 2025-06-21
+* [Commit] [chore: review #7959 (#7987)](https://github.com/ChainSafe/lodestar/commit/13b6f6f0341375e2e6de87f7e2b9e28bc3d79b02) - 2025-06-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

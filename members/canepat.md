@@ -74,3 +74,5 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [tests: more explicit make target names (#15442)](https://github.com/erigontech/erigon/commit/e4e1c99fe90707157de0bf3583f30e66f32c3ef1) - 2025-06-20
 * [Commit] [rpcdaemon: same default WebSocket port as erigon (#15643)](https://github.com/erigontech/erigon/commit/bd37b36b78352aebe5d8c9d86b447920f4dfcc97) - 2025-06-20
 * [Commit] [qa_tests: upgrade rpc-tests version 1.65.0 (#15587)](https://github.com/erigontech/erigon/commit/5c25098d1ca1e10ad0485bdc45b6d1b9945a7ac4) - 2025-06-20
+* [Commit] [rpc: enable stack-based json stream (#15452)](https://github.com/erigontech/erigon/commit/1fbb67420917e9a6fb38c068a32d9ab80efcb4dc) - 2025-06-21
+* [Commit] [Update qa-rpc-integration-tests.yml](https://github.com/erigontech/erigon/commit/38b0d976eb0f2ba8b8ad265726b8be6ef4f7229a) - 2025-06-21

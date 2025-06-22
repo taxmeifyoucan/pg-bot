@@ -197,6 +197,8 @@ Team: Erigon
 * [Pull Request] [Cherry Pick: Set code signer to handle bhilai code signing](https://github.com/erigontech/erigon/pull/15578) - 2025-06-14
 * [Pull Request] [Set code signer bhilaiases to hanlde bhilai code signing](https://github.com/erigontech/erigon/pull/15577) - 2025-06-14
 * [Pull Request] [Set code signer bhilai](https://github.com/erigontech/erigon/pull/15576) - 2025-06-14
+* [Commit] [add BorMaxSyncLookback](https://github.com/erigontech/erigon/commit/3c82110b29efd051898a89ec4f38b089cd939fbc) - 2025-06-21
+* [Commit] [dir improvements: revert turning `p2p` into a module (#15675)](https://github.com/erigontech/erigon/commit/166011068c6c4ffbc44036b18d23315e2a1dfcb5) - 2025-06-21
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

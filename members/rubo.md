@@ -79,6 +79,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Update packages](https://github.com/NethermindEth/nethermind/pull/8811) - 2025-06-19
 * [Commit] [Change Ethereum mainet gaslimit default to 45M (#8793)](https://github.com/NethermindEth/nethermind/commit/652b5a75ce6b279903771e56ee003594323b48d5) - 2025-06-19
 * [Commit] [Update packages (#8811)](https://github.com/NethermindEth/nethermind/commit/f38cf91a332dc252a6e94e522dc0358a0b7dc669) - 2025-06-20
+* [Commit] [Update Nethermind.GmpBindings package](https://github.com/NethermindEth/nethermind/commit/936a0d227c0e3e82e5e7a7c0c447321cebdd2530) - 2025-06-21
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

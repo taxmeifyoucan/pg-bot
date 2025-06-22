@@ -131,6 +131,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Fix yields in new proposer lookahead test](https://github.com/ethereum/consensus-specs/pull/4386) - 2025-06-17
 * [Commit] [Bump the actions group with 4 updates (#4385)](https://github.com/ethereum/consensus-specs/commit/192f6d2110528c90f0f48c1184edef1ffb9f48c5) - 2025-06-17
 * [Pull Request] [Replace ast.unparse() with custom parsing](https://github.com/ethereum/consensus-specs/pull/4387) - 2025-06-18
+* [Commit] [Fix test_effective_decrease_balance_updates_lookahead reftest (#4395)](https://github.com/ethereum/consensus-specs/commit/f51063fcfbacd76d319a9a9a4c4aaeba97d40721) - 2025-06-21
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 
