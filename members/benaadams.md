@@ -348,6 +348,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Use GetOrAdd for DirtyNodeCache (#8812)](https://github.com/NethermindEth/nethermind/commit/bd471100d9dca783b582c0089d28bf306824ce5c) - 2025-06-20
 * [Pull Request] [Don't broadcast txs while processing a block](https://github.com/NethermindEth/nethermind/pull/8820) - 2025-06-21
 * [Pull Request] [Only notify about main BlockchainProcessor shutdown](https://github.com/NethermindEth/nethermind/pull/8819) - 2025-06-21
+* [Commit] [Only notify about main BlockchainProcessor shutdown (#8819)](https://github.com/NethermindEth/nethermind/commit/2dd7bae359aad18de6b47c29a0367662261d2d73) - 2025-06-22
+* [Commit] [TransactionSubstate to readonly ref struct (#8825)](https://github.com/NethermindEth/nethermind/commit/c0864a58e586e55addc407e0901b6303c87489e7) - 2025-06-22
+* [Commit] [Faster generic logger lookup (#8822)](https://github.com/NethermindEth/nethermind/commit/031be82db87d0ce9371a0cd7c63b1966152e698f) - 2025-06-22
+* [Commit] [Apply suggestions from code review](https://github.com/NethermindEth/nethermind/commit/d303a6d261639d1f5dcb7af7cb1637e28d4c62de) - 2025-06-22
+* [Commit] [Allocate 96 bytes less per tx sender recovery (#8824)](https://github.com/NethermindEth/nethermind/commit/7904ddb40cc6ef673aaff70ca811546665233551) - 2025-06-22
+* [Commit] [Param type](https://github.com/NethermindEth/nethermind/commit/373894933ddd93dca78c6e5ee6a8fee3d47a6cf5) - 2025-06-22
+* [Commit] [Changed return types](https://github.com/NethermindEth/nethermind/commit/d960644b2003426d52c0fb3ddf468f9189193077) - 2025-06-22
+* [Commit] [build](https://github.com/NethermindEth/nethermind/commit/729fe43c8663612981276efefe880da634498d53) - 2025-06-22
+* [Commit] [Less allocations](https://github.com/NethermindEth/nethermind/commit/051fda18bc77e06fecdb2a66353aad14410903d8) - 2025-06-22
+* [Commit] [ref struct](https://github.com/NethermindEth/nethermind/commit/0658e7975b09abe1f354d565cb245fe2edcae706) - 2025-06-22
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

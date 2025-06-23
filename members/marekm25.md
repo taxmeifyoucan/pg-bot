@@ -26,6 +26,11 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Pull Request] [Update EIP-7883: Assume minimal base/mod length of 32 ](https://github.com/NethermindEth/nethermind/pull/8749) - 2025-06-09
 * [Commit] [Update EIP-7883: Assume minimal base/mod length of 32  (#8749)](https://github.com/NethermindEth/nethermind/commit/79137d4c0d862a1db0629f3a2643542924063458) - 2025-06-10
 * [Commit] [Invalid block experiment](https://github.com/NethermindEth/nethermind/commit/b17bdca9998cd099f0dbb5ce43d7ca2a19281ff2) - 2025-06-11
+* [Commit] [cosmetic](https://github.com/NethermindEth/nethermind/commit/3ee785e4e56cb0b6ecc62fddf1b4e990ef76e4c0) - 2025-06-22
+* [Commit] [cosmetic](https://github.com/NethermindEth/nethermind/commit/4ce6ac3c277ec8af09a75e16bfb8699f6a71f6e8) - 2025-06-22
+* [Commit] [cosmetic](https://github.com/NethermindEth/nethermind/commit/a9e359a76efb66b82daf49593b25f5f4d16afb12) - 2025-06-22
+* [Commit] [refactor](https://github.com/NethermindEth/nethermind/commit/f4df82eb3f698074c86ec3ac97c3bf31d49ed1ef) - 2025-06-22
+* [Commit] [Remove SkipLocalsInit to avoid garbage in first bytes of hash (#8634)](https://github.com/NethermindEth/nethermind/commit/0401d2dd2d7ffda648b69a2730b414212c7d9d38) - 2025-06-22
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

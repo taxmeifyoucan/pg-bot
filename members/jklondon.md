@@ -148,6 +148,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [kick ci](https://github.com/erigontech/erigon/commit/09f694153c6cbfa3a8ec4d61a66dc7c2ef2c71dd) - 2025-06-19
 * [Pull Request] [filename parser fix](https://github.com/erigontech/erigon/pull/15650) - 2025-06-19
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/c85276c03472d99a9c1867cd22a9bc7acb9fc420) - 2025-06-19
+* [Pull Request] [improved parser, added unit tests](https://github.com/erigontech/erigon/pull/15698) - 2025-06-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

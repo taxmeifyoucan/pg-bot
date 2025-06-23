@@ -83,6 +83,11 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: release (#2657)](https://github.com/bluealloy/revm/commit/c54f1696f4fdf788af3beffec9ce53a1a48a1e06) - 2025-06-20
 * [Commit] [fix: call stack_frame.clear() at end (#2656)](https://github.com/bluealloy/revm/commit/c9cbdbc8e9a82803024b328959a94072f60ed92d) - 2025-06-20
 * [Pull Request] [fix: call stack_frame.clear() at end](https://github.com/bluealloy/revm/pull/2656) - 2025-06-20
+* [Commit] [cleanup](https://github.com/bluealloy/revm/commit/69b788dbe74f7a1993e1f2aa1a56da674ce9f7ce) - 2025-06-23
+* [Commit] [fix tests, set tx gas limit cap](https://github.com/bluealloy/revm/commit/0e7013ac437d3327388bf3ab3498b13e5197db18) - 2025-06-22
+* [Commit] [feat(Osaka): eip7907 Meter Contract Code Size And Increase Limit](https://github.com/bluealloy/revm/commit/e844c2d05e6b76660017880f3e96a60b0348cc52) - 2025-06-22
+* [Commit] [feat(Osaka): eip7907 Meter Contract Code Size And Increase Limit](https://github.com/bluealloy/revm/commit/b83965caac808bc0ab01cae18c1deadbfa7c3da8) - 2025-06-22
+* [Commit] [feat: change blob_max_count to max_blobs_per_tx (#2608)](https://github.com/bluealloy/revm/commit/d6486dbd1308512d953f19a4c70eb715240b8192) - 2025-06-22
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

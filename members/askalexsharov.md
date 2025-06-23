@@ -2622,6 +2622,19 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7d165e5ae0e6a58295e264a1415a755d0d0b9700) - 2025-06-21
 * [Commit] [build(deps): bump github.com/go-chi/chi/v5 from 5.1.0 to 5.2.2 (#15689)](https://github.com/erigontech/erigon/commit/7fb0a202965c0fcd260ffede0da5789f2e14a09a) - 2025-06-21
 * [Commit] [Additional info on `seg update-to-new-ver-format` (#15685)](https://github.com/erigontech/erigon/commit/9b08ee922b747e633fa615ec3a635dd2e9e96acc) - 2025-06-21
+* [Commit] [improved parser, added unit tests (#15698)](https://github.com/erigontech/erigon/commit/c523f2d66df977d50f0552137788fcc3914bc5e9) - 2025-06-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/22ea6206e1e72e7f860523b152fb23e5949f563f) - 2025-06-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/434981de7a6200a3bcecfdab7e1ee613ea112b6b) - 2025-06-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e48dfc3265cf41d0f80fdb343cdcb216df46b768) - 2025-06-22
+* [Commit] [:](https://github.com/erigontech/erigon/commit/9103663e99d04e9cd08792a7f0d0a2e220ad48d6) - 2025-06-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aeef2b62f3f8755ffeea621785c55dac2ea50310) - 2025-06-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3f00714506b103bb1bb657f130498e13774a37a9) - 2025-06-22
+* [Pull Request] [[wip] existence filter for history](https://github.com/erigontech/erigon/pull/15695) - 2025-06-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/45460dc7992fd3bce6bbf57daad5f3129faa3dce) - 2025-06-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8c9ba5b87e9df3e650e0e45ec329adb7e2dd81e4) - 2025-06-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9c661b6b212e6188f80a849e53d7c30ec8457b52) - 2025-06-22
+* [Commit] [optimize: reduce sortedAllocKeys memory allocations (#15628)](https://github.com/erigontech/erigon/commit/bb9ed875cfeb2ff2e5d06d7aed5ab34384d27acb) - 2025-06-22
+* [Commit] [rpcdaemon:  in case of ParseError set the HttpStatus to BadRequest as spec (#15693)vv](https://github.com/erigontech/erigon/commit/d13eac1566bbf14bc0e92ff507a54367b1579d0f) - 2025-06-22
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

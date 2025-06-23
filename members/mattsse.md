@@ -499,6 +499,12 @@ Team: Reth
 * [Commit] [feat: bump to 1.4.6 (#16566)](https://github.com/paradigmxyz/reth/commit/7a59e135f796e015475af0f2b4cebe427d8f858b) - 2025-06-21
 * [Pull Request] [fix: use empty withdrawals if parent has withdrawals root](https://github.com/paradigmxyz/reth/pull/16980) - 2025-06-21
 * [Pull Request] [chore: relax localpending block bounds](https://github.com/paradigmxyz/reth/pull/16979) - 2025-06-21
+* [Commit] [chore: changed example command (#16993)](https://github.com/paradigmxyz/reth/commit/55fdebdc0efb75686a277bcc4c37dbca5ae0ef62) - 2025-06-22
+* [Commit] [docs: add `reth_fs_util` suggestion instead of `std::fs` to claude doc helper (#16992)](https://github.com/paradigmxyz/reth/commit/18cd06f306582d3d8a3dc0303d776f0bbd0e0b6e) - 2025-06-22
+* [Commit] [chore(deps): weekly `cargo update` (#16987)](https://github.com/paradigmxyz/reth/commit/0c862caa9129c6672d42449da4ed4abf3f4fe399) - 2025-06-22
+* [Pull Request] [chore: use from conversion for txkind](https://github.com/paradigmxyz/reth/pull/16990) - 2025-06-22
+* [Pull Request] [feat: add rpc header compat](https://github.com/paradigmxyz/reth/pull/16988) - 2025-06-22
+* [Commit] [docs](https://github.com/paradigmxyz/reth/commit/23f0966edd08d2d54deddfa6c6b694b1ab68ef17) - 2025-06-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

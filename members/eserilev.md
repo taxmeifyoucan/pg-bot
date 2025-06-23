@@ -24,6 +24,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Next sync committee branch bug](https://github.com/sigp/lighthouse/pull/7443) - 2025-05-12
 * [Issue] [`Box` inside `BeaconChainError`](https://github.com/sigp/lighthouse/issues/7473) - 2025-05-16
 * [Pull Request] [Rust clippy 1.87 lint fixes](https://github.com/sigp/lighthouse/pull/7471) - 2025-05-16
+* [Issue] [Add SSZ support to attestation API's](https://github.com/sigp/lighthouse/issues/7626) - 2025-06-22
+* [Pull Request] [Historical data column import and new channel to trigger custody backfill on CGC change](https://github.com/sigp/lighthouse/pull/7625) - 2025-06-22
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

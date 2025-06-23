@@ -22,3 +22,5 @@ Team: Nimbus
 * [Pull Request] [Beacon sync rewrote state handler fixed some assert after suspending](https://github.com/status-im/nimbus-eth1/pull/3325) - 2025-05-23
 * [Commit] [Update copyright year](https://github.com/status-im/nimbus-eth1/commit/3f0fd7846b49ddc2ba1daebe8620d4c41207d7ff) - 2025-06-02
 * [Pull Request] [Beacon sync reorg headers download processing](https://github.com/status-im/nimbus-eth1/pull/3359) - 2025-06-02
+* [Commit] [Beacon sync maint update (#3421)](https://github.com/status-im/nimbus-eth1/commit/60e98921b376fa92e5174919dda1adf1542462ed) - 2025-06-22
+* [Pull Request] [Beacon sync maint update](https://github.com/status-im/nimbus-eth1/pull/3421) - 2025-06-22

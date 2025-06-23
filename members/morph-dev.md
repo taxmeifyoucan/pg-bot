@@ -44,6 +44,7 @@ Team: Portal Network (EF)
 * [Pull Request] [docs: add "no longer supported" warning to readme](https://github.com/ethereum/trin/pull/1877) - 2025-06-19
 * [Commit] [feat: use batch validation (#1870)](https://github.com/ethereum/trin/commit/e1a066693107a827f467036b444fc04213243db1) - 2025-06-19
 * [Commit] [chore(deps): weekly `cargo update` (#1875)](https://github.com/ethereum/trin/commit/e7ec4372c3fd3e5d33065c6f9597083c14d74048) - 2025-06-19
+* [Commit] [chore(deps): weekly `cargo update` (#1878)](https://github.com/ethereum/trin/commit/0d6309b3408c34f13e1be6c909aff57c31450af2) - 2025-06-22
 ## Q1 2025
 
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)

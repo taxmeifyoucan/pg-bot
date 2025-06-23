@@ -92,6 +92,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: replace fork with boundary in reqresp's outgoing chunk (#7978)](https://github.com/ChainSafe/lodestar/commit/ea8c82564a61d0557c6281254e3a9f1980828b79) - 2025-06-20
 * [Commit] [Get fork through destructuring](https://github.com/ChainSafe/lodestar/commit/63ef1f9d3bc15c7748ec22ceda15121d9ccd81fc) - 2025-06-20
 * [Issue] [Track gossip metrics by boundary instead of by fork](https://github.com/ChainSafe/lodestar/issues/7983) - 2025-06-20
+* [Commit] [Rewrite getActiveSubscribeBoundaries](https://github.com/ChainSafe/lodestar/commit/2ece6e7393815a2cd5fce3d7ebe19d282680b3e7) - 2025-06-22
+* [Commit] [Address @nflaig's comment](https://github.com/ChainSafe/lodestar/commit/bcb4eece6f050d13914484342bb95c1a0394c236) - 2025-06-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 ## Q1 2025

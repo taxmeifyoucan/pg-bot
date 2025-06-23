@@ -136,6 +136,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [[fusaka-devnet-2] EIP-7951 (#8835)](https://github.com/hyperledger/besu/commit/a6d6a43f07c4a7616506b96d1725348df8c88257) - 2025-06-20
 * [Pull Request] [[fusaka-devnet-2] EIP-7939](https://github.com/hyperledger/besu/pull/8836) - 2025-06-20
 * [Pull Request] [[fusaka-devnet-2] EIP-7951](https://github.com/hyperledger/besu/pull/8835) - 2025-06-20
+* [Commit] [Add reference tests (#8839)](https://github.com/hyperledger/besu/commit/fa25231a577d46fcd0de860ca991106a52d8c69e) - 2025-06-23
+* [Pull Request] [[fusaka-devnet-2] referenceTests 1.2.0](https://github.com/hyperledger/besu/pull/8839) - 2025-06-23
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

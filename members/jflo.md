@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [RPC Standards # 5 | May 26th, 2025](https://github.com/ethereum/pm/issues/1546) - 2025-05-16
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1545) - 2025-05-16
 * [Issue] [RPC Standards # 5 | May 26th, 2025](https://github.com/ethereum/pm/issues/1544) - 2025-05-16
+* [Issue] [RPC Standards #7 | June 23rd, 2025](https://github.com/ethereum/pm/issues/1585) - 2025-06-22
 ## Q1 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)
