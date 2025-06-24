@@ -186,6 +186,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tests: Update eests to berlinterop-devnet-1 release (#15642)](https://github.com/erigontech/erigon/commit/49c376d9185f718365d6bac2c98ac60c71c3b2d9) - 2025-06-19
 * [Commit] [use rlp StreamPool for tx decoding (#15626)](https://github.com/erigontech/erigon/commit/d72b2151e0af5c28c736363aa30e0d08db93fb4a) - 2025-06-19
 * [Commit] [Added unlimited retry option to support HeimdallV2 migration downtime… (#15654)](https://github.com/erigontech/erigon/commit/d7b547e551a0a43ae54fdd9b775c75f795267bc0) - 2025-06-20
+* [Commit] [update](https://github.com/erigontech/erigon/commit/6ad14f99794682cf3087862170b6fd1e02967943) - 2025-06-23
+* [Commit] [validator custody](https://github.com/erigontech/erigon/commit/cff263cc6b7bd6e8ff6702f1bdc7ee585e67775d) - 2025-06-23
+* [Commit] [update](https://github.com/erigontech/erigon/commit/de29c9d5ac484097ea01b6c09fda21370eb7cdca) - 2025-06-23
+* [Commit] [conflict](https://github.com/erigontech/erigon/commit/416f28bdae82e9e9c98de1a73b0892453073028d) - 2025-06-23
+* [Commit] [conflict](https://github.com/erigontech/erigon/commit/73b6106b9ff9623281065cf490cdd62905f70f9a) - 2025-06-23
+* [Commit] [qa-tests: add torrent status file artifact to snap-download test (#15648)](https://github.com/erigontech/erigon/commit/b17730aea9e43d5a23c96399a8f5ef35f0af3402) - 2025-06-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

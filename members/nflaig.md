@@ -231,6 +231,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Remove extra line](https://github.com/ChainSafe/lodestar/commit/214ba961b2b0b28f7570662f299b306d9d49e2d8) - 2025-06-21
 * [Commit] [Move Status to Metadata type](https://github.com/ChainSafe/lodestar/commit/ea07eed29fd4b0cf645f0c9b3a7df7b398d1ea48) - 2025-06-21
 * [Commit] [Remove unused imports](https://github.com/ChainSafe/lodestar/commit/4f84f35764b3dc2d1d1de3874e67520fb786b814) - 2025-06-21
+* [Pull Request] [chore: merge unstable into peerDAS branch](https://github.com/ChainSafe/lodestar/pull/7994) - 2025-06-23
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -183,6 +183,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [automated consensus spec URL updating to v1.6.0-alpha.2](https://github.com/status-im/nimbus-eth2/pull/7243) - 2025-06-17
 * [Commit] [Bump urllib3 from 2.2.3 to 2.5.0 in /docs (#7251)](https://github.com/status-im/nimbus-eth2/commit/0ac367cc773cd1ebfeb277c946fc32272e17bbd5) - 2025-06-19
 * [Commit] [Do not create DB table with empty name when Fulu is not configured (#7250)](https://github.com/status-im/nimbus-eth2/commit/2c229b71e3202fe94f768359ad265301aaeb1364) - 2025-06-19
+* [Commit] [Fix incorrect getBlobForkCode for Fulu (#7258)](https://github.com/status-im/nimbus-eth2/commit/91789009d5f3fa772bdc7e634c8b36e7d19c5eee) - 2025-06-23
+* [Commit] [Bump nim-stew to v0.4.1 (#7256)](https://github.com/status-im/nimbus-eth2/commit/259a10799d55343d076eb03d377a0d5e6a138def) - 2025-06-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

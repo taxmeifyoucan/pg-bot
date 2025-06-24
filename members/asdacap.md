@@ -273,6 +273,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix wrong sealer](https://github.com/NethermindEth/nethermind/commit/b72ea63d1d6c449177a1a48a96350e1ff709e320) - 2025-06-20
 * [Pull Request] [Cleanup/Deduplicate aura block processor.](https://github.com/NethermindEth/nethermind/pull/8814) - 2025-06-20
 * [Commit] [Fix error on block production](https://github.com/NethermindEth/nethermind/commit/6691e29d08fc1320a5821e0355e8b87f80946eb1) - 2025-06-20
+* [Pull Request] [Validate parenthash is same as given parent](https://github.com/NethermindEth/nethermind/pull/8840) - 2025-06-23
+* [Commit] [Unit test header validator](https://github.com/NethermindEth/nethermind/commit/19fbb37ed6a57a85866360ff7f7d4f072a61127a) - 2025-06-23
+* [Commit] [Remove unused code](https://github.com/NethermindEth/nethermind/commit/c21c4cd8dfba42a0bb6ae32d9d85f6c01fb006a6) - 2025-06-23
+* [Commit] [Rename RIP-7212 to EIP-7951 & enable in Osaka (#8753)](https://github.com/NethermindEth/nethermind/commit/25c658901f452eddfd4ff781a8f7e086d0d66a83) - 2025-06-23
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

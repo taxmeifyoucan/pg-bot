@@ -200,6 +200,9 @@ Team: Erigon
 * [Commit] [add BorMaxSyncLookback](https://github.com/erigontech/erigon/commit/3c82110b29efd051898a89ec4f38b089cd939fbc) - 2025-06-21
 * [Commit] [dir improvements: revert turning `p2p` into a module (#15675)](https://github.com/erigontech/erigon/commit/166011068c6c4ffbc44036b18d23315e2a1dfcb5) - 2025-06-21
 * [Commit] [Cherry-pick Heimdall V2 related commits (#15697)](https://github.com/erigontech/erigon/commit/0c95cb5d26fffd786bc6561e4834dd60c525fe24) - 2025-06-22
+* [Commit] [Fix no valid record error on Bor Event Purge (#15717)](https://github.com/erigontech/erigon/commit/5feb81c78bc35853ad315a237e432baa1c93b161) - 2025-06-23
+* [Pull Request] [Fix no valid record error on Bor Event Purge](https://github.com/erigontech/erigon/pull/15717) - 2025-06-23
+* [Commit] [[30] Fixed issue with gaps in checkpoint snapshots when heimdall publish them too late (#15692)](https://github.com/erigontech/erigon/commit/28691659ec35c1fc6e8c3d6fe86366de6d3b30bc) - 2025-06-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

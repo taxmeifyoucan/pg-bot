@@ -186,6 +186,10 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a2c20d68005cb33b87ced9f56c733c6ec9c1497d) - 2025-06-20
 * [Pull Request] [Additional info on `seg update-to-new-ver-format`](https://github.com/erigontech/erigon/pull/15685) - 2025-06-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/94bf457fa2bbe5e4f8666f18b94d44d9792ac670) - 2025-06-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b30f37a3e1ba991cd0edca2d1b51bd59de47766a) - 2025-06-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bc630a0c6b7355a459da5fa71663515745332785) - 2025-06-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2d9d1c37c9821c057f55a1d705140dd82a925655) - 2025-06-23
+* [Commit] [mod tidy](https://github.com/erigontech/erigon/commit/9434cb86267f57ba40e05656632b6f72fb52e3d3) - 2025-06-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -358,6 +358,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [build](https://github.com/NethermindEth/nethermind/commit/729fe43c8663612981276efefe880da634498d53) - 2025-06-22
 * [Commit] [Less allocations](https://github.com/NethermindEth/nethermind/commit/051fda18bc77e06fecdb2a66353aad14410903d8) - 2025-06-22
 * [Commit] [ref struct](https://github.com/NethermindEth/nethermind/commit/0658e7975b09abe1f354d565cb245fe2edcae706) - 2025-06-22
+* [Commit] [Adjusted CL Block size - EIP 7934 (#8807)](https://github.com/NethermindEth/nethermind/commit/10e6ac2a8900fdd0eafca97f282e52ceebdd8401) - 2025-06-23
+* [Commit] [Warmump evm (#8836)](https://github.com/NethermindEth/nethermind/commit/2027063591babca3185244cb2573341a3cf93040) - 2025-06-23
+* [Commit] [Format](https://github.com/NethermindEth/nethermind/commit/2dfd49fbd533082bfa6d8d8efa8d0b630cf33361) - 2025-06-23
+* [Pull Request] [Warmump evm](https://github.com/NethermindEth/nethermind/pull/8836) - 2025-06-23
+* [Commit] [Improve](https://github.com/NethermindEth/nethermind/commit/8fb8b2c708d674d79216794ae1ec9b52134b3973) - 2025-06-23
+* [Commit] [Update packages (#8811)](https://github.com/NethermindEth/nethermind/commit/f38cf91a332dc252a6e94e522dc0358a0b7dc669) - 2025-06-23
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

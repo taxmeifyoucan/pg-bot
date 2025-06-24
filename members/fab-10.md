@@ -51,6 +51,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Add a mapping from old to new Maven coordinates](https://github.com/hyperledger/besu/pull/8809) - 2025-06-12
 * [Commit] [More PoS block proposal logs (#8827)](https://github.com/hyperledger/besu/commit/5e1b9f030fb61b6db80d4e2fc68bda807d49fc3b) - 2025-06-17
 * [Pull Request] [More PoS block proposal logs](https://github.com/hyperledger/besu/pull/8827) - 2025-06-17
+* [Commit] [Expose method to get blob gas price from plugins (#8843)](https://github.com/hyperledger/besu/commit/743ee9e028f9561a5577e8fd862f4ca8c46bd090) - 2025-06-23
+* [Pull Request] [Expose method to get blob gas price from plugins](https://github.com/hyperledger/besu/pull/8843) - 2025-06-23
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

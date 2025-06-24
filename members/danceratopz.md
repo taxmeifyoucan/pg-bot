@@ -350,6 +350,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(consume): recognize `--enginex-max-group-size` option in consume.consume](https://github.com/ethereum/execution-spec-tests/commit/7bacee445f99d40bf25f10a492b266e2548068ac) - 2025-06-20
 * [Commit] [feat(consume): create pre_hash subgroups w/max size for better xdist balancing](https://github.com/ethereum/execution-spec-tests/commit/7f29345f61928d7d53fa40188867a409f78e62bc) - 2025-06-20
 * [Commit] [feat(consume): append enginexfixture pre_hash field to testid if available](https://github.com/ethereum/execution-spec-tests/commit/d99ce2a07ab6f7df0c38390315f5c5483144d97d) - 2025-06-20
+* [Commit] [fix(consume): more bugfixes for creating pre_hash group subgroups & load balancing](https://github.com/ethereum/execution-spec-tests/commit/b2b0401577b69d8c660736b017c1e5c27c7a4069) - 2025-06-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

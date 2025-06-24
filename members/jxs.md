@@ -12,3 +12,4 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [update gossipsub to the latest upstream revision](https://github.com/sigp/lighthouse/pull/7284) - 2025-04-08
+* [Pull Request] [improve Rpc response logging](https://github.com/sigp/lighthouse/pull/7635) - 2025-06-23

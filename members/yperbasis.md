@@ -257,6 +257,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [mv sentry_multi_client back to p2p](https://github.com/erigontech/erigon/commit/d7ae0a3bd852b89113af2b9bf1b5eb7eccb42ba5) - 2025-06-20
 * [Commit] [go.mod: merge indirect deps](https://github.com/erigontech/erigon/commit/b9b2696eadbf5e9838f3a63aabe2a62c158a517b) - 2025-06-20
 * [Commit] [mv interfaces back to turbo/services](https://github.com/erigontech/erigon/commit/cdbd6bc77e90604818ddb4093b0cd77b45af5a38) - 2025-06-20
+* [Pull Request] [tests: revert inadvertent update of execution-spec-tests](https://github.com/erigontech/erigon/pull/15716) - 2025-06-23
+* [Commit] [tests: revert inadvertent update of execution-spec-tests](https://github.com/erigontech/erigon/commit/9ea8bf06e01310c0f6030a795b3da351aa8064f0) - 2025-06-23
+* [Issue] [Get rid of erigon-lib](https://github.com/erigontech/erigon/issues/15713) - 2025-06-23
+* [Pull Request] [dir improvements: move torrent downloader to `erigon-db`](https://github.com/erigontech/erigon/pull/15712) - 2025-06-23
+* [Commit] [mv downloader to erigon-db](https://github.com/erigontech/erigon/commit/6673be86b59cfaa5b87a0eaf2117f17b0188be15) - 2025-06-23
+* [Commit] [mv snaptype up](https://github.com/erigontech/erigon/commit/85cbc1dd1a91d17ad2cb2e929211c60c95f8e075) - 2025-06-23
+* [Commit] [Enable EIP-7823 & EIP-7883 in Dencun & Pectra](https://github.com/erigontech/erigon/commit/d694bdd1f4d2ce77d40346a195af904ad8f61f56) - 2025-06-23
+* [Commit] [dir improvements: move stagesync to `execution` (#15682)](https://github.com/erigontech/erigon/commit/50be686f518d8962959c3dd72b33026cf710b1d2) - 2025-06-23
+* [Commit] [dir improvements: revert turning `p2p` into a module (#15675)](https://github.com/erigontech/erigon/commit/166011068c6c4ffbc44036b18d23315e2a1dfcb5) - 2025-06-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 

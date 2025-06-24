@@ -143,6 +143,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Add tests](https://github.com/NethermindEth/nethermind/commit/f204b37ee064d50593d960d6456f3c6b5bfc7c5c) - 2025-06-16
 * [Commit] [Add tests](https://github.com/NethermindEth/nethermind/commit/ca6a80e12395404b8dcb13d206089a7ce1b0c997) - 2025-06-16
 * [Commit] [Evict on new head, filter when providing txs for producer](https://github.com/NethermindEth/nethermind/commit/475793af3914e0ff8fec789d94c28be4ad2f15bd) - 2025-06-20
+* [Commit] [Move types](https://github.com/NethermindEth/nethermind/commit/f167a2bf2fc8c1cceb44fe55c006f3f2aba8e2d5) - 2025-06-23
+* [Commit] [Merge master into ignore-big-txs](https://github.com/NethermindEth/nethermind/commit/a6e02d9f521abd4ed75fda046b0bf07e41554fd0) - 2025-06-23
+* [Commit] [Dispose EvmState on warmup (#8771)](https://github.com/NethermindEth/nethermind/commit/eb4a682f62768ec3270aad05ce62f7087822ae07) - 2025-06-23
+* [Commit] [Improve head filtering pipeline](https://github.com/NethermindEth/nethermind/commit/f83dd04b50bb8e6c068efcd09a9b6104ffca0fb2) - 2025-06-23
+* [Commit] [Some fixes for clef integration in RPC (#8626)](https://github.com/NethermindEth/nethermind/commit/9c25753baa81fb5a0d3d307c7ab00c769ce92a04) - 2025-06-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

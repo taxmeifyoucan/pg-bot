@@ -54,6 +54,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: quic6 bug](https://github.com/ChainSafe/lodestar/commit/c39d9b3dc1b672875c44180733bbff82c67cc710) - 2025-06-20
 * [Commit] [chore: bump quic lib](https://github.com/ChainSafe/lodestar/commit/b218ddd6907148896f5cb7827f72f4cdfa754c79) - 2025-06-20
 * [Commit] [fix: include skipped partial withdrawal to `partialWithdrawalsCount` (#7118)](https://github.com/ChainSafe/lodestar/commit/f2b96ff008bf201b0109bd5bac868b631f9a241b) - 2025-06-20
+* [Commit] [feat: persist orphaned blocks to disk (#7946)](https://github.com/ChainSafe/lodestar/commit/db77aaa8b69d98449d169c50bc5468fdddd0b6c6) - 2025-06-23
+* [Commit] [feat: resolve availability using recover_matrix for peerDAS (#7940)](https://github.com/ChainSafe/lodestar/commit/8f9401574c9f23bf3b446f17f2cb3e3a142a259e) - 2025-06-23
+* [Commit] [fix: emit `blob_sidecar` event as soon as we receive BlobSidecars (#7967)](https://github.com/ChainSafe/lodestar/commit/855e58594fd0383b7733f9e8723d9e084ff729c1) - 2025-06-23
+* [Commit] [feat: switch to rust kzg for async proof verification (#7989)](https://github.com/ChainSafe/lodestar/commit/4a12abd772ed15620fcba042855b61c74b26f5c6) - 2025-06-23
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

@@ -64,6 +64,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Improve VC multiBN handling (#9567)](https://github.com/Consensys/teku/commit/04a0fc6a274b76c56888b9136bfae22bfed4da8d) - 2025-06-19
 * [Commit] [fix flaky test (#9582)](https://github.com/Consensys/teku/commit/ae0c3753a925de20b6b329aaffb1ab10f2bda343) - 2025-06-20
 * [Pull Request] [Fix flaky test](https://github.com/Consensys/teku/pull/9582) - 2025-06-20
+* [Commit] [[PoolV2] Remove "early-drop-single-attestations" option and improve AggregationBits (#9589)](https://github.com/Consensys/teku/commit/178c98913c8b293b6b9b092718018ffaaaf60c7c) - 2025-06-23
+* [Pull Request] [remove-early-drop-single-attestations](https://github.com/Consensys/teku/pull/9589) - 2025-06-23
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

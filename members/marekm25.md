@@ -31,6 +31,9 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Commit] [cosmetic](https://github.com/NethermindEth/nethermind/commit/a9e359a76efb66b82daf49593b25f5f4d16afb12) - 2025-06-22
 * [Commit] [refactor](https://github.com/NethermindEth/nethermind/commit/f4df82eb3f698074c86ec3ac97c3bf31d49ed1ef) - 2025-06-22
 * [Commit] [Remove SkipLocalsInit to avoid garbage in first bytes of hash (#8634)](https://github.com/NethermindEth/nethermind/commit/0401d2dd2d7ffda648b69a2730b414212c7d9d38) - 2025-06-22
+* [Commit] [Remove AncientReceiptsBarrier and AncientBodiesBarrier from sepolia_archive.json (#8834)](https://github.com/NethermindEth/nethermind/commit/cc6187a3dbd0e0f643543e012b029c83be4e743b) - 2025-06-23
+* [Commit] [Update BlocksConfig.cs](https://github.com/NethermindEth/nethermind/commit/ae2f85762f17fcc6652d0f7061b8b82d21d4e91b) - 2025-06-23
+* [Commit] [Update OP Superchain chains (#8827)](https://github.com/NethermindEth/nethermind/commit/2ca7ec584b5054f9ec50f6e4195f978018da7374) - 2025-06-23
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

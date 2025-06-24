@@ -258,6 +258,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b50fa8a091643eb7c56dd86d78f03477f079f717) - 2025-06-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/296abe2aa7b52b3708705f12b7353093e558dede) - 2025-06-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f31abef68111c003b2c3bdd80201f66c9b4bb78d) - 2025-06-20
+* [Commit] [Fulu upgrade to support devnet1 (#14537)](https://github.com/erigontech/erigon/commit/b9f4252f267612125888ec7339c7fba8e6f8611c) - 2025-06-23
+* [Pull Request] [Tune historical proving and removed old versions of commitment history](https://github.com/erigontech/erigon/pull/15714) - 2025-06-23
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 

@@ -73,6 +73,12 @@ Team: Erigon
 * [Pull Request] [[r30] qa-tests: temporarily disable bor-mainnet from sync-from-scratch test ](https://github.com/erigontech/erigon/pull/15680) - 2025-06-20
 * [Pull Request] [qa-tests: temporarily disable bor-mainnet from sync-from-scratch test](https://github.com/erigontech/erigon/pull/15679) - 2025-06-20
 * [Commit] [print_stages: print min/max step (or txnum) per each domain (#15533)](https://github.com/erigontech/erigon/commit/0e89d7fc8e4bfb8cf237116be4768d108cee5015) - 2025-06-20
+* [Commit] [dummy commit](https://github.com/erigontech/erigon/commit/4503b453b7337b725c63368c7a4f6630c6d53417) - 2025-06-23
+* [Commit] [Cherry-pick Heimdall V2 related commits (#15697)](https://github.com/erigontech/erigon/commit/0c95cb5d26fffd786bc6561e4834dd60c525fe24) - 2025-06-23
+* [Pull Request] [qa-tests: fix and improve gnosis tip-tracking](https://github.com/erigontech/erigon/pull/15707) - 2025-06-23
+* [Pull Request] [[r30] qa-tests: fix and improve gnosis tip-tracking](https://github.com/erigontech/erigon/pull/15706) - 2025-06-23
+* [Commit] [qa-tests: temporarily disable bor-mainnet from sync-from-scratch test (#15679)](https://github.com/erigontech/erigon/commit/bdf0d53af18f17ac5887c3caa5de210721cbd719) - 2025-06-23
+* [Commit] [qa-tests: avoid running clean-exit test on the "rpc" runner (#15545)](https://github.com/erigontech/erigon/commit/3b5c01bb39350fd50d2cb296551ffc45450316eb) - 2025-06-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

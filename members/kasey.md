@@ -44,6 +44,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [fix tests, bugs and remove more network/forks methods](https://github.com/OffchainLabs/prysm/commit/196d26465d15336295dd705e817e1fc4fb7baefc) - 2025-06-12
 * [Pull Request] [Move network forks](https://github.com/OffchainLabs/prysm/pull/15406) - 2025-06-12
 * [Commit] [remove usages of params from proto packages (#15403)](https://github.com/OffchainLabs/prysm/commit/d12da8cbe0bdbb0f970fc98b827292019329cdba) - 2025-06-12
+* [Commit] [Reorganize processing of light client updates (#15383)](https://github.com/OffchainLabs/prysm/commit/f5a9394c77daf4950f8437fed795e17d30295397) - 2025-06-23
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

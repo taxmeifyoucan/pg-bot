@@ -174,6 +174,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/e25497be3e7ccdbc28e47a670f69a670d1560b09) - 2025-06-20
 * [Commit] [peerDAS: Implement `dataColumnSidecarByRangeRPCHandler`.](https://github.com/OffchainLabs/prysm/commit/118133192b5cbdc98da3b268677d6b67dd234d1c) - 2025-06-20
 * [Commit] [`readChunkedDataColumnSideCar` ==> `readChunkedDataColumnSidecar`.](https://github.com/OffchainLabs/prysm/commit/8abe3931218e8d337dabd47fa331ebf4a1dfea97) - 2025-06-20
+* [Pull Request] [Implement `SendDataColumnSidecarsByRangeRequest`.](https://github.com/OffchainLabs/prysm/pull/15430) - 2025-06-23
+* [Commit] [`disconnectFromPeerOnError`: Add peer agent in logs.](https://github.com/OffchainLabs/prysm/commit/f72d59b004c55ce7f13bae2556940bbb313f65f9) - 2025-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 * [Pull Request] [Validator custody: Increase only and optional backfill.](https://github.com/ethereum/consensus-specs/pull/4357) - 2025-06-03

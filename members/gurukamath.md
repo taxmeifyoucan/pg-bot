@@ -58,6 +58,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [run osaka tests](https://github.com/ethereum/execution-specs/pull/1290) - 2025-06-20
 * [Pull Request] [Implement EIP-7934](https://github.com/ethereum/execution-specs/pull/1289) - 2025-06-20
 * [Issue] [Implement EIP-7934](https://github.com/ethereum/execution-specs/issues/1288) - 2025-06-20
+* [Commit] [chore(osaka): update modexp eip-7883 (#1272)](https://github.com/ethereum/execution-specs/commit/c6d334e306aba75d6ba072902b27de8f50876fa5) - 2025-06-23
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-spec-tests/issues/1461) - 2025-04-16
 * [Issue] [Address warmed on aborted call](https://github.com/ethereum/execution-spec-tests/issues/1474) - 2025-04-17

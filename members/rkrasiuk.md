@@ -94,6 +94,7 @@ Team: Reth
 * [Commit] [ress `ExecutionWitness` -> `ExecutionStateWitness`](https://github.com/paradigmxyz/reth/commit/4fad2f01fad6a967e5826a03124a2c73d03fc443) - 2025-06-13
 * [Commit] [use original_bytes for bytecode](https://github.com/paradigmxyz/reth/commit/9460e88098cf0c3b44c9edfcbdd7e6654654cbbe) - 2025-06-13
 * [Commit] [fix: small networking fixes (#16742)](https://github.com/paradigmxyz/reth/commit/1bef0092eedb6a1cd87fd181263fd47bcdcdf4de) - 2025-06-21
+* [Commit] [perf(trie): `ParallelSparseTrie::reveal_node` (#16894)](https://github.com/paradigmxyz/reth/commit/ebd57f77bcdc3891c9d4960bed9af0fa88182e46) - 2025-06-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add reth Pectra coordinators](https://github.com/ethereum/pm/pull/1477) - 2025-04-16
 

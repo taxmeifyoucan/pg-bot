@@ -105,6 +105,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Hot hdiff buffer cache (#7615)](https://github.com/sigp/lighthouse/commit/cb81f076a6aae773910778b9813738aaf9d86cf4) - 2025-06-19
 * [Commit] [Remove instrumenting log level (#7620)](https://github.com/sigp/lighthouse/commit/fc363703b55b2d001941e858ee2f5cc44fa4bcb6) - 2025-06-20
 * [Commit] [Hierarchical state diffs in hot DB (#6750)](https://github.com/sigp/lighthouse/commit/dd985341581ffbb7dfc5ec7744873b0be59c226b) - 2025-06-20
+* [Commit] [Remove instrumenting log level (#7620)](https://github.com/sigp/lighthouse/commit/d50924677a34f63eb51cc45e1c356f492711ea77) - 2025-06-23
+* [Pull Request] [Un-ignore EF test for v1.6.0-alpha.1](https://github.com/sigp/lighthouse/pull/7632) - 2025-06-23
+* [Issue] [Flag to try syncing blobs/columns beyond DA window](https://github.com/sigp/lighthouse/issues/7628) - 2025-06-23
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

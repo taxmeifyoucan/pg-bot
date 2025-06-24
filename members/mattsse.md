@@ -505,6 +505,26 @@ Team: Reth
 * [Pull Request] [chore: use from conversion for txkind](https://github.com/paradigmxyz/reth/pull/16990) - 2025-06-22
 * [Pull Request] [feat: add rpc header compat](https://github.com/paradigmxyz/reth/pull/16988) - 2025-06-22
 * [Commit] [docs](https://github.com/paradigmxyz/reth/commit/23f0966edd08d2d54deddfa6c6b694b1ab68ef17) - 2025-06-22
+* [Commit] [feat(rpc): Add `TransactionRequest` into `RpcTypes` (#17017)](https://github.com/paradigmxyz/reth/commit/5eed5c6d73e767b3966e705366911db56ee0048a) - 2025-06-23
+* [Commit] [refactor(rpc): rename crate reth_rpc_types_compat → reth_rpc_convert (#17019)](https://github.com/paradigmxyz/reth/commit/2462eb2f6a75535b29613346fbc925f74b753a1f) - 2025-06-23
+* [Commit] [revert: test: special case for nibbles implementations of `Compact` (#17006) (#17012)](https://github.com/paradigmxyz/reth/commit/3916c8571c9d07b8bdf7f513b2dbd10233b3f2b7) - 2025-06-23
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/621d14785b2b9dfaeb1aaf1d336b96a9531e550e) - 2025-06-23
+* [Commit] [docs(rpc): Add documentation for `RpcConverter` (#17010)](https://github.com/paradigmxyz/reth/commit/3f3c2914ace52347156d3f34094dea734f79a913) - 2025-06-23
+* [Pull Request] [feat: add codec re-exports to reth-op and reth-ethereum](https://github.com/paradigmxyz/reth/pull/17020) - 2025-06-23
+* [Commit] [chore: allow ambigous export](https://github.com/paradigmxyz/reth/commit/6b444f09ea36fc752fb406e7ec3313b4a742734d) - 2025-06-23
+* [Commit] [chore: clippy](https://github.com/paradigmxyz/reth/commit/9de922edaa0bc95dd31bdc5e8324127410455533) - 2025-06-23
+* [Pull Request] [chore: re-export op hardforks from op chainspec](https://github.com/paradigmxyz/reth/pull/17018) - 2025-06-23
+* [Issue] [Add example for custom payload-builder/sequencer](https://github.com/paradigmxyz/reth/issues/17016) - 2025-06-23
+* [Issue] [Introduce custom fees for paymet tx example](https://github.com/paradigmxyz/reth/issues/17015) - 2025-06-23
+* [Issue] [Exposer more getters for EthTransactionValidator](https://github.com/paradigmxyz/reth/issues/17014) - 2025-06-23
+* [Commit] [chore: rm standalone fn (#17007)](https://github.com/paradigmxyz/reth/commit/dc67f0237ff01048e79aec2f6f346ad378dc3afc) - 2025-06-23
+* [Pull Request] [chore: rm standalone fn](https://github.com/paradigmxyz/reth/pull/17007) - 2025-06-23
+* [Pull Request] [docs: rephrase RpcNodeCore docs](https://github.com/paradigmxyz/reth/pull/17005) - 2025-06-23
+* [Issue] [Rename TransactionCompat to RpcConvert](https://github.com/paradigmxyz/reth/issues/17003) - 2025-06-23
+* [Pull Request] [chore: rm unused eof variant](https://github.com/paradigmxyz/reth/pull/17001) - 2025-06-23
+* [Issue] [Reuse new alloy-evm utils](https://github.com/paradigmxyz/reth/issues/17000) - 2025-06-23
+* [Commit] [docs: improve payload primitives documentation (#16986)](https://github.com/paradigmxyz/reth/commit/4f5ad18682ab332beb9c969fe29da6f3dee11da8) - 2025-06-23
+* [Commit] [fix test](https://github.com/paradigmxyz/reth/commit/6db7b1dcec0975aaa072fbea2224aa4f6957f688) - 2025-06-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

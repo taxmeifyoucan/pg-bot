@@ -138,6 +138,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [[fusaka-devnet-2] EIP-7951](https://github.com/hyperledger/besu/pull/8835) - 2025-06-20
 * [Commit] [Add reference tests (#8839)](https://github.com/hyperledger/besu/commit/fa25231a577d46fcd0de860ca991106a52d8c69e) - 2025-06-23
 * [Pull Request] [[fusaka-devnet-2] referenceTests 1.2.0](https://github.com/hyperledger/besu/pull/8839) - 2025-06-23
+* [Issue] [EIP-7918 Update BLOB_BASE_COST to 2**13](https://github.com/hyperledger/besu/issues/8844) - 2025-06-23
+* [Commit] [fix precompile range (#8842)](https://github.com/hyperledger/besu/commit/55110b099d8df6ae1734eaf94b6b3dd73adc8baf) - 2025-06-23
+* [Pull Request] [[fusaka-devnet-2] Fix osaka precompile range](https://github.com/hyperledger/besu/pull/8842) - 2025-06-23
+* [Commit] [[fusaka-devnet-2] EIP-7907 - Fix ExtCodeCopy cost (#8841)](https://github.com/hyperledger/besu/commit/6836c8824c9577ed133295165f14f2fa155648be) - 2025-06-23
+* [Pull Request] [[fusaka-devnet-2] EIP-7907 - Fix ExtCodeCopy cost](https://github.com/hyperledger/besu/pull/8841) - 2025-06-23
+* [Commit] [Fix extcodecopy cost (#8840)](https://github.com/hyperledger/besu/commit/1598a7f99013f5a89e5b98dab689390799118be0) - 2025-06-23
+* [Pull Request] [[fusaka-devnet-2] EIP7907 - Fix extcodecopy cost](https://github.com/hyperledger/besu/pull/8840) - 2025-06-23
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

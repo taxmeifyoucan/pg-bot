@@ -298,6 +298,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/80623c53c36bd5af016515718af9680ddf5a4fa6) - 2025-06-19
 * [Commit] [state: Better error message for snapshot mismatch (#15666)](https://github.com/erigontech/erigon/commit/27fd9e969d6cab8659e83797244ef4b564e3c18c) - 2025-06-20
 * [Commit] [fix erigon-lib/go.mod (#15673)](https://github.com/erigontech/erigon/commit/7fbcb3b4b8a2a96f26733f5bd202f462847cf52d) - 2025-06-20
+* [Commit] [handle case when manually triggered ci can cancel existing ci runs (#15700)](https://github.com/erigontech/erigon/commit/ba0e3365be5b213e5846a198164afd42cadeb8df) - 2025-06-23
+* [Pull Request] [wip](https://github.com/erigontech/erigon/pull/15711) - 2025-06-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e54f53a325c5491b15568cdbd99791bea963f822) - 2025-06-23
+* [Issue] [Also, remove forkable entity_checker, and use the one used in domains](https://github.com/erigontech/erigon/issues/15704) - 2025-06-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/703af873ee4ca96499a281cc93e58c6525814fd7) - 2025-06-23
+* [Pull Request] [snap_repo to use dependency_integrity_checker](https://github.com/erigontech/erigon/pull/15703) - 2025-06-23
+* [Issue] [increase blocks merge limit to 500k in 3.2](https://github.com/erigontech/erigon/issues/15701) - 2025-06-23
+* [Pull Request] [handle case when manually triggered ci can cancel existing ci runs](https://github.com/erigontech/erigon/pull/15700) - 2025-06-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4d6453906f0c0dfffa610250cad2949e89e4ddfa) - 2025-06-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

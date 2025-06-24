@@ -130,6 +130,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(deps): bump ethereum-evm-spec-resolver to latest version (#1722)](https://github.com/ethereum/execution-spec-tests/commit/0dfcd92bb4589783baef73fe03c50401eb0e2280) - 2025-06-11
 * [Commit] [feat(tests): fix parameterization, update tests.](https://github.com/ethereum/execution-spec-tests/commit/2076d2956bd299f07374e2d03228fdcb251fc55f) - 2025-06-11
 * [Commit] [chore(tests): update tests.](https://github.com/ethereum/execution-spec-tests/commit/2251c7712e2e172392b56517c378bc4de37e79b4) - 2025-06-12
+* [Commit] [Update docs/running_tests/hive/dev_mode.md](https://github.com/ethereum/execution-spec-tests/commit/b6e5f1f6297072b756149ea870f8b9c7144b5f7b) - 2025-06-23
+* [Commit] [chore(docs): changelog.](https://github.com/ethereum/execution-spec-tests/commit/d9eda82259cc40004ad534b90a102b56e7fb582e) - 2025-06-23
+* [Pull Request] [docs: add hive dev mode macos workaround](https://github.com/ethereum/execution-spec-tests/pull/1786) - 2025-06-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1275) - 2025-06-10
 * [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1274) - 2025-06-10

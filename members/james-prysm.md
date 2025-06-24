@@ -141,6 +141,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/0b737bd0ee5bdfbd9e7b1fa9509bcf2dd9d54f68) - 2025-06-20
 * [Commit] [peerDAS: Implement `dataColumnSidecarByRootRPCHandler`. (#15405)](https://github.com/OffchainLabs/prysm/commit/559d02bf4db837f2863848056f2261f4e98e6b20) - 2025-06-20
 * [Commit] [adding in health monitor tests](https://github.com/OffchainLabs/prysm/commit/ef41cb1e3dbf37d57cd4d6c88e82fea537903904) - 2025-06-20
+* [Commit] [doppleganger should exit the node safely now](https://github.com/OffchainLabs/prysm/commit/90b536a060d4b9cd265f39ca03f49643403970b8) - 2025-06-23
+* [Commit] [Revert "SSZ support for submitAttestationsV2 (#15422)" (#15426)](https://github.com/OffchainLabs/prysm/commit/e020907d2ad1a85f0b07aad8cdc6870eec8fe5c1) - 2025-06-23
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

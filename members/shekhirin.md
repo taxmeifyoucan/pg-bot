@@ -371,6 +371,25 @@ Team: Reth
 * [Commit] [remove clones](https://github.com/paradigmxyz/reth/commit/da10c0cbc88dfbb9fe18a3171290a19400b63d6a) - 2025-06-20
 * [Commit] [chore: add type alias for PayloadAttributes (#16933)](https://github.com/paradigmxyz/reth/commit/53cd4b2397c78286b4561116d8ce18c41d8edc50) - 2025-06-20
 * [Commit] [bump alloy-trie](https://github.com/paradigmxyz/reth/commit/8fc2b9cf364d61232536836bf6ce1bb262e563fe) - 2025-06-20
+* [Commit] [add debug assert for path prefix](https://github.com/paradigmxyz/reth/commit/5f78331084ae156a7a61b39f6d252669c216fa32) - 2025-06-23
+* [Commit] [fix: check if dir exists before removing (#16968)](https://github.com/paradigmxyz/reth/commit/b45f84d78c08b8078c962eed7d75b63f5e0c0560) - 2025-06-23
+* [Pull Request] [revert: test: special case for nibbles implementations of `Compact` (#17006)](https://github.com/paradigmxyz/reth/pull/17012) - 2025-06-23
+* [Commit] [use get_byte_unchecked](https://github.com/paradigmxyz/reth/commit/6cd85a6a07e413681ad3762424948a2655695146) - 2025-06-23
+* [Commit] [remove test_stored_nibbles_subkey_from_nibbles](https://github.com/paradigmxyz/reth/commit/86bbd69eb771b72cab6d81302b92b12dd96f1171) - 2025-06-23
+* [Commit] [chore: rm unused eof variant (#17001)](https://github.com/paradigmxyz/reth/commit/023c5d7d98ac1aee63907df76d2d2255f3912b18) - 2025-06-23
+* [Commit] [explain](https://github.com/paradigmxyz/reth/commit/bcdff9b2bab38ea913c5c3ba38d853f9bb22930c) - 2025-06-23
+* [Commit] [test: special case for `StoredNibbles` impl of `Compact`](https://github.com/paradigmxyz/reth/commit/d63ed69d91c09c1890ba97d4b57c38f19bc83e6c) - 2025-06-23
+* [Pull Request] [test: special case for `StoredNibbles` impl of `Compact`](https://github.com/paradigmxyz/reth/pull/17006) - 2025-06-23
+* [Commit] [test: special case for `StoredNibbles` impl of `Compact`](https://github.com/paradigmxyz/reth/commit/e02ecac90f1537688c9ce687ad03b978ed1f6c1c) - 2025-06-23
+* [Commit] [test: special case for `StoredNibbles` impl of `Compact`](https://github.com/paradigmxyz/reth/commit/0afa4233b9defeb45a7975796abe28c1092f2652) - 2025-06-23
+* [Commit] [fix book](https://github.com/paradigmxyz/reth/commit/bc250ba0596c468fb2ac4c5923782c0feed91202) - 2025-06-23
+* [Commit] [feat: bump revm v26 (#16969)](https://github.com/paradigmxyz/reth/commit/88edd5264937c8cc1f14c05cd0a92e9495d0b5aa) - 2025-06-23
+* [Commit] [bump alloy-trie, patch alloy](https://github.com/paradigmxyz/reth/commit/7c1afa08ae516e434b3e701b2a2684787fd1bd74) - 2025-06-23
+* [Commit] [bump alloy-trie, patch alloy](https://github.com/paradigmxyz/reth/commit/b60b53052e298e04a8e932a55b1853dca293d2e4) - 2025-06-23
+* [Commit] [patch alloy-trie](https://github.com/paradigmxyz/reth/commit/01f0f9a0c38e28efe381388dbd3d90b96d84ccf9) - 2025-06-23
+* [Commit] [patch alloy-trie](https://github.com/paradigmxyz/reth/commit/5281af313ba396c57c325f12f9cd6c37451892d2) - 2025-06-23
+* [Commit] [patch alloy-trie](https://github.com/paradigmxyz/reth/commit/f04a918de53683e92a0e404fb1602bbc719aadd6) - 2025-06-23
+* [Commit] [chore(trie): Replace magic numbers in ParallelSparseTrie code (#16960)](https://github.com/paradigmxyz/reth/commit/f9b4eba3b78408387a3bf9bbd14809955a08622f) - 2025-06-23
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

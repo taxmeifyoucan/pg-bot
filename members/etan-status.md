@@ -68,6 +68,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix compilation](https://github.com/status-im/nimbus-eth2/commit/20a8bf0c7d84a4ff6ead6cfa28e889cbfe5cd76c) - 2025-06-16
 * [Pull Request] [Use correct FULU_FORK_VERSION for Gnosis](https://github.com/status-im/nimbus-eth2/pull/7245) - 2025-06-17
 * [Commit] [Handle data column request while Fulu is not configured](https://github.com/status-im/nimbus-eth2/commit/f9f24784743dc101999ba76c6ad51ba8e061620c) - 2025-06-17
+* [Pull Request] [Fix incorrect getBlobForkCode for Fulu](https://github.com/status-im/nimbus-eth2/pull/7258) - 2025-06-23
+* [Commit] [Fix incorrect getBlobForkCode for Fulu](https://github.com/status-im/nimbus-eth2/commit/c78ebda74c7bfcdeba1a10f4480201fe9595f98a) - 2025-06-23
+* [Pull Request] [Reduce code duplication in beacon_chain_db](https://github.com/status-im/nimbus-eth2/pull/7257) - 2025-06-23
+* [Pull Request] [Bump nim-stew to v0.4.1](https://github.com/status-im/nimbus-eth2/pull/7256) - 2025-06-23
+* [Pull Request] [Bump nim-faststreams to v0.3.0](https://github.com/status-im/nimbus-eth2/pull/7254) - 2025-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Do not wrap long lines in `config.yaml` files](https://github.com/ethereum/consensus-specs/pull/4379) - 2025-06-12
 ## Q1 2025

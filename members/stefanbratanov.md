@@ -34,6 +34,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Change gossip for BPO (devnet-2)](https://github.com/Consensys/teku/pull/9578) - 2025-06-19
 * [Commit] [ConcurrentModificationException in AsyncStream (#9557)](https://github.com/Consensys/teku/commit/aff5680fbd459be00f28d1c8e72f20d5a59524a8) - 2025-06-19
 * [Pull Request] [Change gossip for BPO (devnet-2)](https://github.com/Consensys/teku/pull/9577) - 2025-06-19
+* [Commit] [Fixes](https://github.com/Consensys/teku/commit/6221741376573ddf8c7ea0524cfa0bb95aa573fc) - 2025-06-23
+* [Commit] [fix possible recursive update (#9580)](https://github.com/Consensys/teku/commit/37b61654d82185310b9a35230a9ec3c1c944abd1) - 2025-06-23
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -96,3 +96,19 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Issue] [Berlinterop Cleanup](https://github.com/status-im/nimbus-eth1/issues/3404) - 2025-06-14
 * [Commit] [Update execution_chain/evm/precompiles.nim](https://github.com/status-im/nimbus-eth1/commit/96875dac7016ab410282cfedf44cc9d39a270edf) - 2025-06-16
 * [Issue] [Unknown block should fallback to syncer](https://github.com/status-im/nimbus-eth1/issues/3415) - 2025-06-19
+* [Commit] [shift to stint](https://github.com/status-im/nimbus-eth1/commit/965842aa321e8fd432053adb8994673d6c581e47) - 2025-06-23
+* [Commit] [add tests for CLZ](https://github.com/status-im/nimbus-eth1/commit/750f005ad294080d4de39d19bdb0fbaffe4e546e) - 2025-06-23
+* [Commit] [revert docker debug](https://github.com/status-im/nimbus-eth1/commit/a70d2a451829e2a6ff9a14c65dd0d8bd54021247) - 2025-06-23
+* [Commit] [Async EVM: Return ok when error message exists so that call output can be returned (#3391)](https://github.com/status-im/nimbus-eth1/commit/ee9139bfb66bbb53b1669826c319b5e0bc0b0241) - 2025-06-23
+* [Commit] [secp256r1 precompile (#3382)](https://github.com/status-im/nimbus-eth1/commit/f8a60443700a0b8aaa93925558dfabcc8d116d6b) - 2025-06-23
+* [Commit] [some more unwanted code cleanup](https://github.com/status-im/nimbus-eth1/commit/d7bdac102103fb24564a9b06bdac0e4bbf8fe01b) - 2025-06-23
+* [Commit] [cleanup](https://github.com/status-im/nimbus-eth1/commit/32ababdf5f0f65e1b386642e3a7586d145c22a0c) - 2025-06-23
+* [Commit] [merge fixes](https://github.com/status-im/nimbus-eth1/commit/95f665b3ccc345d0bfa26866b7877a00742cc797) - 2025-06-23
+* [Pull Request] [add: CLZ opcode](https://github.com/status-im/nimbus-eth1/pull/3423) - 2025-06-23
+* [Commit] [initial impl of CLZ](https://github.com/status-im/nimbus-eth1/commit/69050193017cdb29edb9ac97763300649d7bc02b) - 2025-06-23
+* [Commit] [secp256r1 impl](https://github.com/status-im/nimbus-eth1/commit/e1711459ae1a83696cc37f9376402c80db556cb5) - 2025-06-23
+* [Commit] [eip7907](https://github.com/status-im/nimbus-eth1/commit/58d47483519efc6202baae15235a187b4206fe97) - 2025-06-23
+* [Commit] [increase default gas limit to 45M (#3402)](https://github.com/status-im/nimbus-eth1/commit/06917e7ed47a868a198aaacbc08542a1a465238f) - 2025-06-23
+* [Commit] [add eip-7883 changes (#3399)](https://github.com/status-im/nimbus-eth1/commit/19e4e063ce95c55d1d187612263d5da4d84751d8) - 2025-06-23
+* [Pull Request] [TESTING : Fusaka devnet 2](https://github.com/status-im/nimbus-eth1/pull/3422) - 2025-06-23
+* [Commit] [add the block validation check](https://github.com/status-im/nimbus-eth1/commit/a5c53622112777aea858190cfd6be6528406f71e) - 2025-06-23

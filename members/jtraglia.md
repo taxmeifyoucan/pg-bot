@@ -132,6 +132,19 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Bump the actions group with 4 updates (#4385)](https://github.com/ethereum/consensus-specs/commit/192f6d2110528c90f0f48c1184edef1ffb9f48c5) - 2025-06-17
 * [Pull Request] [Replace ast.unparse() with custom parsing](https://github.com/ethereum/consensus-specs/pull/4387) - 2025-06-18
 * [Commit] [Fix test_effective_decrease_balance_updates_lookahead reftest (#4395)](https://github.com/ethereum/consensus-specs/commit/f51063fcfbacd76d319a9a9a4c4aaeba97d40721) - 2025-06-21
+* [Commit] [Bump version to v1.6.0-alpha.3](https://github.com/ethereum/consensus-specs/commit/695762053b3b248d322feb6de6989b7038df1380) - 2025-06-23
+* [Pull Request] [Bump version to v1.6.0-alpha.3](https://github.com/ethereum/consensus-specs/pull/4404) - 2025-06-23
+* [Commit] [Add nightly workflow to deal with stale issues/PRs](https://github.com/ethereum/consensus-specs/commit/f1df0704d13c052f1b86ee2967b9107b8e5a6dd4) - 2025-06-23
+* [Pull Request] [Add nightly workflow to deal with stale issues/PRs](https://github.com/ethereum/consensus-specs/pull/4403) - 2025-06-23
+* [Issue] [Automate pruning of old issues/PRs](https://github.com/ethereum/consensus-specs/issues/4402) - 2025-06-23
+* [Commit] [Use get_blob_parameters in gossip block validation](https://github.com/ethereum/consensus-specs/commit/f05f2da2a91c5ac0bb093a4199eeafd5e03b7c10) - 2025-06-23
+* [Issue] [Switch default branch to master](https://github.com/ethereum/consensus-specs/issues/4400) - 2025-06-23
+* [Pull Request] [Release v1.6.0-alpha.3](https://github.com/ethereum/consensus-specs/pull/4399) - 2025-06-23
+* [Commit] [Delete unnecessary container comments (#4358)](https://github.com/ethereum/consensus-specs/commit/26bb70739ac7ab1ec1f6a9b47ca8e47db0c14848) - 2025-06-23
+* [Pull Request] [Align master with dev after v1.6.0-alpha.2 release mistake #2](https://github.com/ethereum/consensus-specs/pull/4398) - 2025-06-23
+* [Commit] [Align master with dev after v1.6.0-alpha.2 release mistake (#4397)](https://github.com/ethereum/consensus-specs/commit/9ff40e0d993b22703f77c0afbde2cac5a2e949a9) - 2025-06-23
+* [Pull Request] [Align master with dev after v1.6.0-alpha.2 release mistake](https://github.com/ethereum/consensus-specs/pull/4397) - 2025-06-23
+* [Commit] [Remove dead attestation generation code (#4396)](https://github.com/ethereum/consensus-specs/commit/19b90c5d7327cba40b0737472a668be4f39b6455) - 2025-06-23
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 

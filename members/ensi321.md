@@ -94,8 +94,20 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Track gossip metrics by boundary instead of by fork](https://github.com/ChainSafe/lodestar/issues/7983) - 2025-06-20
 * [Commit] [Rewrite getActiveSubscribeBoundaries](https://github.com/ChainSafe/lodestar/commit/2ece6e7393815a2cd5fce3d7ebe19d282680b3e7) - 2025-06-22
 * [Commit] [Address @nflaig's comment](https://github.com/ChainSafe/lodestar/commit/bcb4eece6f050d13914484342bb95c1a0394c236) - 2025-06-22
+* [Commit] [Clean up](https://github.com/ChainSafe/lodestar/commit/9011a1ba94540d8301a740be1a1b93b96ace7bb8) - 2025-06-23
+* [Commit] [Harmonize merge](https://github.com/ChainSafe/lodestar/commit/03f1f65801c3e161394b8de2f248adacd91e3f4a) - 2025-06-23
+* [Commit] [Init](https://github.com/ChainSafe/lodestar/commit/812bbcea4d9fe852d85e4e963ebc971120c31c80) - 2025-06-23
+* [Commit] [fix unit test](https://github.com/ChainSafe/lodestar/commit/65a64ae181796439b72a284b17c599f5d9c28d71) - 2025-06-23
+* [Commit] [Fix spec test](https://github.com/ChainSafe/lodestar/commit/4d5c2642dfc635846e05433a4cd9e7948c46d9b6) - 2025-06-23
+* [Commit] [Address @nflaig's comment](https://github.com/ChainSafe/lodestar/commit/e602c4163e2c4a6ac663ccce6f911fd1e2a7bd84) - 2025-06-23
+* [Commit] [Update packages/config/src/forkConfig/types.ts](https://github.com/ChainSafe/lodestar/commit/aa5edad159542923cf5ddabc6cede99b2fa0ddc4) - 2025-06-23
+* [Commit] [Update packages/beacon-node/test/unit/network/subscribeBoundary.test.ts](https://github.com/ChainSafe/lodestar/commit/5bdb0961febf6bcf0c2a7a28ec67ad042707ad03) - 2025-06-23
+* [Commit] [fix unit test](https://github.com/ChainSafe/lodestar/commit/a458f964a3679005054df07601767fa80355d2df) - 2025-06-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Use `get_blob_parameters` in gossip block validation](https://github.com/ethereum/consensus-specs/pull/4401) - 2025-06-23
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

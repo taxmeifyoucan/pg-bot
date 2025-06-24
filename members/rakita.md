@@ -88,6 +88,14 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat(Osaka): eip7907 Meter Contract Code Size And Increase Limit](https://github.com/bluealloy/revm/commit/e844c2d05e6b76660017880f3e96a60b0348cc52) - 2025-06-22
 * [Commit] [feat(Osaka): eip7907 Meter Contract Code Size And Increase Limit](https://github.com/bluealloy/revm/commit/b83965caac808bc0ab01cae18c1deadbfa7c3da8) - 2025-06-22
 * [Commit] [feat: change blob_max_count to max_blobs_per_tx (#2608)](https://github.com/bluealloy/revm/commit/d6486dbd1308512d953f19a4c70eb715240b8192) - 2025-06-22
+* [Commit] [feat: optional_eip3541 (#2661)](https://github.com/bluealloy/revm/commit/435153d1b3e708bf48100fd2bf73a07aa02e1f94) - 2025-06-23
+* [Commit] [chore: fix typo (#2660)](https://github.com/bluealloy/revm/commit/8534f8e878284abcc3decff8a4e242b98297e698) - 2025-06-23
+* [Commit] [mark  code as cold](https://github.com/bluealloy/revm/commit/4e2bf207e48bb59ccbd98e8439bb7a0a1ad0b731) - 2025-06-23
+* [Commit] [feat(Osaka): eip7907 Meter Contract Code Size And Increase Limit](https://github.com/bluealloy/revm/commit/0d20cb9a8df38386a444e5bec7f4ef225040eeef) - 2025-06-23
+* [Commit] [bump integration tests](https://github.com/bluealloy/revm/commit/757602cb8e92d37d5caaef8a8fb1d5df95a0685a) - 2025-06-23
+* [Commit] [add missing status for integration tests](https://github.com/bluealloy/revm/commit/924840cff55e5251727a6235bac79d6abb5960d4) - 2025-06-23
+* [Commit] [rm printlns](https://github.com/bluealloy/revm/commit/44640a084bdc9d534619cf067dbf6db15e2eac89) - 2025-06-23
+* [Commit] [fixes and cleanup](https://github.com/bluealloy/revm/commit/5dd78510f13697a34499bb0416b362733c6b6da3) - 2025-06-23
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

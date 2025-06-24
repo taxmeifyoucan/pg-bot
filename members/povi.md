@@ -47,6 +47,7 @@ Team: Grandine
 * [Pull Request] [Skip participating in aggregation duty if chain head is not fully verified by execution engine](https://github.com/grandinetech/grandine/pull/218) - 2025-06-02
 * [Pull Request] [Fix forward sync trigger from back sync](https://github.com/grandinetech/grandine/pull/231) - 2025-06-16
 * [Commit] [Fix forward sync trigger from back sync](https://github.com/grandinetech/grandine/commit/58a5788e0cbaf273baa3c2821c09c1cd4233dec7) - 2025-06-17
+* [Pull Request] [State at slot cache for caching finalized states by slot](https://github.com/grandinetech/grandine/pull/234) - 2025-06-23
 ## Q1 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

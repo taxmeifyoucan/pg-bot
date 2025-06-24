@@ -139,6 +139,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [add more helpers](https://github.com/status-im/nimbus-eth2/commit/5768aa74a48e8d0278c6d73b754c2869b935659b) - 2025-06-22
 * [Commit] [add links](https://github.com/status-im/nimbus-eth2/commit/17a674b8acf65558fd718e4257ae5b7ac3f0c69a) - 2025-06-21
 * [Commit] [make changes to cater to improved sidecar quarantine](https://github.com/status-im/nimbus-eth2/commit/b1dcac8d5ce6b30cc06d6462fc3655fa1c4518bd) - 2025-06-21
+* [Commit] [add message](https://github.com/status-im/nimbus-eth2/commit/4b57bb5497acb8fa6c1e06efe8d4b819560f91bd) - 2025-06-23
+* [Commit] [Bump nim-faststreams to v0.3.0 (#7254)](https://github.com/status-im/nimbus-eth2/commit/0b3878de60e22546266321071702a272f8bff0ff) - 2025-06-23
+* [Commit] [addressed review comments](https://github.com/status-im/nimbus-eth2/commit/df1a5249aa619f90bdbbd2ee42c8774d2a90078a) - 2025-06-23
+* [Commit] [refactored to fit new column quarantine](https://github.com/status-im/nimbus-eth2/commit/188fcc1911cf65f93d99101db9fd4d81a5ab86bd) - 2025-06-23
+* [Commit] [bump hoodi (#7120)](https://github.com/status-im/nimbus-eth2/commit/c94e4ddb1cad6596af471d2a26c3e8f3cef8bf34) - 2025-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [drop peer sampling for Fusaka](https://github.com/ethereum/consensus-specs/pull/4393) - 2025-06-20
 ## Q1 2025

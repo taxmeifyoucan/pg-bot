@@ -27,3 +27,4 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Implement BPO fork digest](https://github.com/grandinetech/grandine/commit/918bb540b64252117eb85833e3b4fbe3cfc97c46) - 2025-06-12
 * [Commit] [Use proofs from `engine_getPayloadV5` to construct cells_proofs](https://github.com/grandinetech/grandine/commit/027a85a7ab12647d190bde73e0792f0c325319c1) - 2025-06-12
 * [Pull Request] [Implement BPO fork digest](https://github.com/grandinetech/grandine/pull/229) - 2025-06-12
+* [Pull Request] [Fix compute_fork_digest pre fulu](https://github.com/grandinetech/grandine/pull/233) - 2025-06-23

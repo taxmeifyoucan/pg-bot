@@ -204,6 +204,7 @@ Team: Erigon
 * [Commit] [Use heap escaping local allocation for simplicity](https://github.com/erigontech/erigon/commit/e05a759764b852de9b6b731c234615046ccf728c) - 2025-06-19
 * [Commit] [crypto/bn256: Use 8-byte stride in zero comparison (#15634)](https://github.com/erigontech/erigon/commit/c61ca1b3b2122600c0797f50c6b7a42694170d10) - 2025-06-19
 * [Commit] [integration commitment_rebuild: re-visit command, add docs   (#15625)](https://github.com/erigontech/erigon/commit/afdd86ef1191f047b05654f9faf393e460b4ecd8) - 2025-06-19
+* [Commit] [txpool: Add higher tipThreshold for higher value replace txn (#15667)](https://github.com/erigontech/erigon/commit/fca1869d58d0de5491c6ab52ea1c885045a5568e) - 2025-06-23
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

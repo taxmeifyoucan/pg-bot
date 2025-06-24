@@ -29,6 +29,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Drop pre-merge history for Ethereum Mainnet (#8764)](https://github.com/NethermindEth/nethermind/commit/be3e3840a882639ff1dcc7fe19bc24294df79633) - 2025-06-21
 * [Commit] [Drop pre-merge history for Ethereum Mainnet (#8764)](https://github.com/NethermindEth/nethermind/commit/8929ba31fa44edda9f958f044c8a00a1dbee8dcc) - 2025-06-21
 * [Commit] [Drop pre-merge history for Ethereum Mainnet (#8764)](https://github.com/NethermindEth/nethermind/commit/2eedb502fa3e18667b3419a288f9d9231ab602b8) - 2025-06-21
+* [Commit] [disable warming](https://github.com/NethermindEth/nethermind/commit/c515b76a8d7173314dfe47c23b97138480bdc87a) - 2025-06-23
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

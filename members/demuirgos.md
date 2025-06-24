@@ -53,6 +53,13 @@ Team: Nethermind
 * [Pull Request] [Feature/ilevm/segmented methods ](https://github.com/NethermindEth/nethermind/pull/8802) - 2025-06-18
 * [Commit] ["fix" weth benchmark txPair](https://github.com/NethermindEth/nethermind/commit/5f4c27a2f1558bd6626a6d1280e1d6932f3186af) - 2025-06-18
 * [Commit] [minor refactors and renames](https://github.com/NethermindEth/nethermind/commit/5208f11e927731fbbd632d97aa2c69f7935e6dfa) - 2025-06-20
+* [Commit] [added more tests](https://github.com/NethermindEth/nethermind/commit/b2d947fe160c38cc5fc26c8625b8fd1ca5ab9fb5) - 2025-06-23
+* [Commit] [Faeture/ilevm/aot precompiler structarg (#8839)](https://github.com/NethermindEth/nethermind/commit/a360454c7488b52b1f8ef833cf6a7d6bb437866b) - 2025-06-23
+* [Commit] [Minor refactors](https://github.com/NethermindEth/nethermind/commit/c01ebb8dc2b608166a74a364650d8320acde109d) - 2025-06-23
+* [Commit] [Minor refactors](https://github.com/NethermindEth/nethermind/commit/8a762f0df88ea7a351210d4258fe2628d4a2a1de) - 2025-06-23
+* [Commit] [fix MOD opcode](https://github.com/NethermindEth/nethermind/commit/b39abf9a9c2c142ee9a7e0ba4694dc0ad6670071) - 2025-06-23
+* [Pull Request] [Faeture/ilevm/aot precompiler structarg](https://github.com/NethermindEth/nethermind/pull/8839) - 2025-06-23
+* [Commit] [addeds more assertions to the fibb/prim tests](https://github.com/NethermindEth/nethermind/commit/119d2757ac62347e4c0b453837547b21283c2236) - 2025-06-23
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
