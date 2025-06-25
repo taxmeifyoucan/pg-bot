@@ -103,6 +103,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update packages/config/src/forkConfig/types.ts](https://github.com/ChainSafe/lodestar/commit/aa5edad159542923cf5ddabc6cede99b2fa0ddc4) - 2025-06-23
 * [Commit] [Update packages/beacon-node/test/unit/network/subscribeBoundary.test.ts](https://github.com/ChainSafe/lodestar/commit/5bdb0961febf6bcf0c2a7a28ec67ad042707ad03) - 2025-06-23
 * [Commit] [fix unit test](https://github.com/ChainSafe/lodestar/commit/a458f964a3679005054df07601767fa80355d2df) - 2025-06-23
+* [Commit] [Fix check-types](https://github.com/ChainSafe/lodestar/commit/81f81ae7498ccddbe450564b3c7fede9632ff15c) - 2025-06-24
+* [Commit] [import correctly](https://github.com/ChainSafe/lodestar/commit/fa8eda9d8709246b347caeaa0dd78724898976c7) - 2025-06-24
+* [Commit] [Split export](https://github.com/ChainSafe/lodestar/commit/04db35828fb562a78e7ee3bdcba7bd226a0295bc) - 2025-06-24
+* [Commit] [reduce diff](https://github.com/ChainSafe/lodestar/commit/b512ef97319315346be58f238a2a1fecf5902810) - 2025-06-24
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Remove execution requests definition from schema](https://github.com/ethereum/execution-apis/pull/649) - 2025-05-05
 

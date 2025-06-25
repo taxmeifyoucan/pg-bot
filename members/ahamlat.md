@@ -24,6 +24,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Improve extcodehash perf](https://github.com/hyperledger/besu/pull/8811) - 2025-06-12
 * [Commit] [Fix a log issue in BlockRlpSizeTransactionSelector and transaction hash (#8834)](https://github.com/hyperledger/besu/commit/27b84a3550364a330e796888fba977fdfdd9f071) - 2025-06-19
 * [Pull Request] [Fix a log issue in BlockRlpSizeTransactionSelector](https://github.com/hyperledger/besu/pull/8834) - 2025-06-19
+* [Pull Request] [Only for performance benchmarking : change ModExp pricing for Cancun](https://github.com/hyperledger/besu/pull/8853) - 2025-06-24
+* [Commit] [fix KZG intermittent failures (#8781)](https://github.com/hyperledger/besu/commit/dd8b20237fdae81afc36f94c02a9180b0a5d171d) - 2025-06-24
+* [Pull Request] [Merge main into performance branch](https://github.com/hyperledger/besu/pull/8851) - 2025-06-24
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

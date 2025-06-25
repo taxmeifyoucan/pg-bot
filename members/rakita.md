@@ -96,6 +96,13 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [add missing status for integration tests](https://github.com/bluealloy/revm/commit/924840cff55e5251727a6235bac79d6abb5960d4) - 2025-06-23
 * [Commit] [rm printlns](https://github.com/bluealloy/revm/commit/44640a084bdc9d534619cf067dbf6db15e2eac89) - 2025-06-23
 * [Commit] [fixes and cleanup](https://github.com/bluealloy/revm/commit/5dd78510f13697a34499bb0416b362733c6b6da3) - 2025-06-23
+* [Commit] [chore: fix typo (#2660)](https://github.com/bluealloy/revm/commit/8534f8e878284abcc3decff8a4e242b98297e698) - 2025-06-24
+* [Commit] [refactor: use TxEnv::builder (#2652)](https://github.com/bluealloy/revm/commit/bce6778c9b5501835334227378404977bdfe9178) - 2025-06-24
+* [Commit] [fix clippy](https://github.com/bluealloy/revm/commit/f93a2e8806ef95dc234aed95547c994063c8ba82) - 2025-06-24
+* [Commit] [fix clippy](https://github.com/bluealloy/revm/commit/83c70e2a7fb0ee6464c1e8ce58421941929c5a97) - 2025-06-24
+* [Commit] [docs: fix copy-pasted inner doc comments (#2663)](https://github.com/bluealloy/revm/commit/e80a3a2be8cbae33d377912cb9f019b0fc0b60c8) - 2025-06-24
+* [Commit] [fix: call stack_frame.clear() at end (#2656)](https://github.com/bluealloy/revm/commit/c9cbdbc8e9a82803024b328959a94072f60ed92d) - 2025-06-24
+* [Commit] [feat: implement `Transaction` for `Either` (#2662)](https://github.com/bluealloy/revm/commit/ae0dcccf1a9984fcf046487a9eb739c1efc94352) - 2025-06-24
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

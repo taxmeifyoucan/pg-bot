@@ -307,6 +307,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [increase blocks merge limit to 500k in 3.2](https://github.com/erigontech/erigon/issues/15701) - 2025-06-23
 * [Pull Request] [handle case when manually triggered ci can cancel existing ci runs](https://github.com/erigontech/erigon/pull/15700) - 2025-06-23
 * [Commit] [save](https://github.com/erigontech/erigon/commit/4d6453906f0c0dfffa610250cad2949e89e4ddfa) - 2025-06-23
+* [Commit] [higher-level unit tests for dependency integrity checker (#15711)](https://github.com/erigontech/erigon/commit/b42a61ea5e2692ae09e808e036140ee42f5b457d) - 2025-06-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/75d6865c07d408e69f4bc695b4722a261402ec78) - 2025-06-24
+* [Pull Request] [save](https://github.com/erigontech/erigon/pull/15723) - 2025-06-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6faf1aedcd45b5c1e5796af55115b49dfe9e9861) - 2025-06-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6bc5d5f43e7ca9cedc23cf1467662bec8926c4e3) - 2025-06-24
+* [Commit] [dir improvements: move stagesync to `execution` (#15682)](https://github.com/erigontech/erigon/commit/50be686f518d8962959c3dd72b33026cf710b1d2) - 2025-06-24
+* [Commit] [snap_repo to use dependency_integrity_checker (#15703)](https://github.com/erigontech/erigon/commit/9ccb690a72e0333d60fff8725ea34d8687ac6df9) - 2025-06-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8f273b905b997824b608d3c1fb889191bbee8ae4) - 2025-06-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a9e28f51706b8578e9e32c055a0bb4b3231b3f40) - 2025-06-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/96c8d595053bec97f237355d344bd30f8029424e) - 2025-06-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/00db27322b0666aa87ca244dc52940d65fa48af8) - 2025-06-24
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

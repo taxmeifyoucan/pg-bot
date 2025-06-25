@@ -525,6 +525,10 @@ Team: Reth
 * [Issue] [Reuse new alloy-evm utils](https://github.com/paradigmxyz/reth/issues/17000) - 2025-06-23
 * [Commit] [docs: improve payload primitives documentation (#16986)](https://github.com/paradigmxyz/reth/commit/4f5ad18682ab332beb9c969fe29da6f3dee11da8) - 2025-06-23
 * [Commit] [fix test](https://github.com/paradigmxyz/reth/commit/6db7b1dcec0975aaa072fbea2224aa4f6957f688) - 2025-06-23
+* [Commit] [perf(trie): `ParallelSparseTrie::reveal_node` (#16894)](https://github.com/paradigmxyz/reth/commit/ebd57f77bcdc3891c9d4960bed9af0fa88182e46) - 2025-06-24
+* [Commit] [chore: update book](https://github.com/paradigmxyz/reth/commit/59213b7e75a832ce44283da2a443bb3ed2778d73) - 2025-06-24
+* [Commit] [chore: feature gate all op rpc types compat impl (#16964)](https://github.com/paradigmxyz/reth/commit/343983d0a17a816fbb7c450451ac8f52363bf18a) - 2025-06-24
+* [Commit] [rename](https://github.com/paradigmxyz/reth/commit/aa7bf739808235b0b2c014e6f030f070fbe651db) - 2025-06-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

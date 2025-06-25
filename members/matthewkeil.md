@@ -111,6 +111,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: address PR comments](https://github.com/ChainSafe/lodestar/commit/1e86ad58858105fc0a3d0fff1ad011624d84d946) - 2025-06-20
 * [Commit] [fix: change log to verbose](https://github.com/ChainSafe/lodestar/commit/d51e1bfaf18a9156dd3420a0af3dc1e0d39efbcd) - 2025-06-21
 * [Commit] [chore: review #7959 (#7987)](https://github.com/ChainSafe/lodestar/commit/13b6f6f0341375e2e6de87f7e2b9e28bc3d79b02) - 2025-06-21
+* [Commit] [feat: add next fork digest (nfd) entry to ENR (#8002)](https://github.com/ChainSafe/lodestar/commit/67ae8e25bdaecccf0f58f076872a9456bdf862d5) - 2025-06-24
+* [Commit] [feat: earliest available slot (#7959)](https://github.com/ChainSafe/lodestar/commit/5dbbaa420cb184caa12c39a87cf3f5a12977ee36) - 2025-06-24
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Update PeerDAS call info on calendar](https://github.com/ethereum/pm/issues/1474) - 2025-04-15
 ## Q1 2025

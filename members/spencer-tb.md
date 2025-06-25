@@ -133,6 +133,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Update docs/running_tests/hive/dev_mode.md](https://github.com/ethereum/execution-spec-tests/commit/b6e5f1f6297072b756149ea870f8b9c7144b5f7b) - 2025-06-23
 * [Commit] [chore(docs): changelog.](https://github.com/ethereum/execution-spec-tests/commit/d9eda82259cc40004ad534b90a102b56e7fb582e) - 2025-06-23
 * [Pull Request] [docs: add hive dev mode macos workaround](https://github.com/ethereum/execution-spec-tests/pull/1786) - 2025-06-23
+* [Commit] [chore(clis): add block rlp size limit errors (eip-7934). (#1789)](https://github.com/ethereum/execution-spec-tests/commit/64f949d08b58c3fa17cfc39a4d5b8b520785cf44) - 2025-06-24
+* [Commit] [chore(clis): add block rlp size limit errors (eip-7934).](https://github.com/ethereum/execution-spec-tests/commit/e729f5eb0366362cfe92a435e989bac66f925834) - 2025-06-24
+* [Commit] [chore(clis): hack for nimbus.](https://github.com/ethereum/execution-spec-tests/commit/1f5a8536c44eac3af283bfd0a4f3d14fbed14f0d) - 2025-06-24
+* [Pull Request] [chore(cli): add block rlp size limit exceptions](https://github.com/ethereum/execution-spec-tests/pull/1789) - 2025-06-24
+* [Commit] [docs(consume,execute): add hive dev mode macOS workaround (#1786)](https://github.com/ethereum/execution-spec-tests/commit/d1998f132112435990e61ff15b1f0cca02fa7e68) - 2025-06-24
+* [Commit] [chore(clis): add block rlp size limit errors (eip-7934).](https://github.com/ethereum/execution-spec-tests/commit/db83304064e7dda4286a652279599948dadf45b9) - 2025-06-24
+* [Commit] [chore(clis): add block rlp size limit errors (eip-7934).](https://github.com/ethereum/execution-spec-tests/commit/192f72740d305c9c47f33d6c9e75254b8b3104e6) - 2025-06-24
+* [Commit] [chore(clis): add block rlp size limit errors (eip-7934).](https://github.com/ethereum/execution-spec-tests/commit/c6435982d93198150bcf928bda45378e655eebd3) - 2025-06-24
+* [Commit] [chore(clis): add block rlp size limit errors (eip-7934).](https://github.com/ethereum/execution-spec-tests/commit/4bd41af543851918f3165119352ab6d5c0b9dbbc) - 2025-06-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1275) - 2025-06-10
 * [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1274) - 2025-06-10

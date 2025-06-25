@@ -192,6 +192,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [conflict](https://github.com/erigontech/erigon/commit/416f28bdae82e9e9c98de1a73b0892453073028d) - 2025-06-23
 * [Commit] [conflict](https://github.com/erigontech/erigon/commit/73b6106b9ff9623281065cf490cdd62905f70f9a) - 2025-06-23
 * [Commit] [qa-tests: add torrent status file artifact to snap-download test (#15648)](https://github.com/erigontech/erigon/commit/b17730aea9e43d5a23c96399a8f5ef35f0af3402) - 2025-06-23
+* [Commit] [update](https://github.com/erigontech/erigon/commit/24f6e6af53aabe89a751ba7a9609a5500f351294) - 2025-06-24
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

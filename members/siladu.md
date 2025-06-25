@@ -45,6 +45,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Issue] [Review ModExp Code Post-Fusaka](https://github.com/hyperledger/besu/issues/8813) - 2025-06-12
 * [Issue] [Implement EIP-4444](https://github.com/hyperledger/besu/issues/8832) - 2025-06-19
 * [Issue] [Prune sepolia and mainnet canaries](https://github.com/hyperledger/besu/issues/8830) - 2025-06-19
+* [Pull Request] [Enable decoding for large newPayloads](https://github.com/hyperledger/besu/pull/8848) - 2025-06-24
+* [Pull Request] [Remove redundant serialization of params (#8807)](https://github.com/hyperledger/besu/pull/8847) - 2025-06-24
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

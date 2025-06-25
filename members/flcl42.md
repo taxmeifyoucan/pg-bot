@@ -148,6 +148,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Dispose EvmState on warmup (#8771)](https://github.com/NethermindEth/nethermind/commit/eb4a682f62768ec3270aad05ce62f7087822ae07) - 2025-06-23
 * [Commit] [Improve head filtering pipeline](https://github.com/NethermindEth/nethermind/commit/f83dd04b50bb8e6c068efcd09a9b6104ffca0fb2) - 2025-06-23
 * [Commit] [Some fixes for clef integration in RPC (#8626)](https://github.com/NethermindEth/nethermind/commit/9c25753baa81fb5a0d3d307c7ab00c769ce92a04) - 2025-06-23
+* [Commit] [Clean up](https://github.com/NethermindEth/nethermind/commit/e7718f954e85b8300d1ceedd04596e04ea43cab2) - 2025-06-24
+* [Commit] [Clean up](https://github.com/NethermindEth/nethermind/commit/d8ac38bc764310cea821046e4f207c6901235564) - 2025-06-24
+* [Commit] [Clean up](https://github.com/NethermindEth/nethermind/commit/3747ed1d4e672b9346b542a9fc702ebb59dd345a) - 2025-06-24
+* [Commit] [Add length wrapper](https://github.com/NethermindEth/nethermind/commit/c3e1221ddd4845b5da8d2588546e941064159ebf) - 2025-06-24
+* [Commit] [Based on address](https://github.com/NethermindEth/nethermind/commit/1d73acf9d40555f5893688c468d6e0c2b55d3740) - 2025-06-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

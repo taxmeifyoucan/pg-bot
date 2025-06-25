@@ -47,6 +47,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [cleanup some of the slot time methods](https://github.com/Consensys/teku/pull/9562) - 2025-06-18
 * [Commit] [more slot timing cleanup (#9572)](https://github.com/Consensys/teku/commit/c35317de6bfaf2f9b198c528a35e4acecd60e25e) - 2025-06-19
 * [Pull Request] [more slot timing cleanup](https://github.com/Consensys/teku/pull/9572) - 2025-06-19
+* [Commit] [created local docker targets (#9592)](https://github.com/Consensys/teku/commit/66841968b95bdf292603b62e0bc7ce0a65c65e15) - 2025-06-24
+* [Issue] [remove peer sampling from fulu](https://github.com/Consensys/teku/issues/9593) - 2025-06-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [added get_bpo_fork_version function](https://github.com/ethereum/consensus-specs/pull/4343) - 2025-05-29
 ## Q1 2025

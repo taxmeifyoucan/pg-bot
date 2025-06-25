@@ -53,6 +53,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [More PoS block proposal logs](https://github.com/hyperledger/besu/pull/8827) - 2025-06-17
 * [Commit] [Expose method to get blob gas price from plugins (#8843)](https://github.com/hyperledger/besu/commit/743ee9e028f9561a5577e8fd862f4ca8c46bd090) - 2025-06-23
 * [Pull Request] [Expose method to get blob gas price from plugins](https://github.com/hyperledger/besu/pull/8843) - 2025-06-23
+* [Pull Request] [Update Tuweni dependency](https://github.com/hyperledger/besu/pull/8852) - 2025-06-24
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

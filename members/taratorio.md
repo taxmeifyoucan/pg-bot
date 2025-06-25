@@ -117,6 +117,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [add code access inside create/create2](https://github.com/erigontech/erigon/commit/cfe97a190e1bd63b2d0931be270943240121031c) - 2025-06-20
 * [Commit] [add large code metering](https://github.com/erigontech/erigon/commit/8a9452d58bc528ae63bc51ec2e23aecf09de13fa) - 2025-06-20
 * [Commit] [add ValidateMaxRlpSize check in InsertBlocks to pass tests](https://github.com/erigontech/erigon/commit/99a183ef5fd24715f2c6516bdf39754050e55ea0) - 2025-06-23
+* [Commit] [tidy](https://github.com/erigontech/erigon/commit/39e420f063627edbd3caead2bdd2678f717fe446) - 2025-06-24
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

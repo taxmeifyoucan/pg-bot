@@ -36,6 +36,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Change gossip for BPO (devnet-2)](https://github.com/Consensys/teku/pull/9577) - 2025-06-19
 * [Commit] [Fixes](https://github.com/Consensys/teku/commit/6221741376573ddf8c7ea0524cfa0bb95aa573fc) - 2025-06-23
 * [Commit] [fix possible recursive update (#9580)](https://github.com/Consensys/teku/commit/37b61654d82185310b9a35230a9ec3c1c944abd1) - 2025-06-23
+* [Commit] [Set next_fork_epoch in ENR in Teku](https://github.com/Consensys/teku/commit/254bcf2fcde7efc382422c3e798bc74bf5088aa3) - 2025-06-24
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

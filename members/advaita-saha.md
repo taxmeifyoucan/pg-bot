@@ -112,3 +112,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [add eip-7883 changes (#3399)](https://github.com/status-im/nimbus-eth1/commit/19e4e063ce95c55d1d187612263d5da4d84751d8) - 2025-06-23
 * [Pull Request] [TESTING : Fusaka devnet 2](https://github.com/status-im/nimbus-eth1/pull/3422) - 2025-06-23
 * [Commit] [add the block validation check](https://github.com/status-im/nimbus-eth1/commit/a5c53622112777aea858190cfd6be6528406f71e) - 2025-06-23
+* [Commit] [add: CLZ opcode (#3423)](https://github.com/status-im/nimbus-eth1/commit/e7c6971e476a253cca33731e1cca2c9f0dfdb617) - 2025-06-24

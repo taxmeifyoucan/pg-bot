@@ -145,6 +145,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Align master with dev after v1.6.0-alpha.2 release mistake (#4397)](https://github.com/ethereum/consensus-specs/commit/9ff40e0d993b22703f77c0afbde2cac5a2e949a9) - 2025-06-23
 * [Pull Request] [Align master with dev after v1.6.0-alpha.2 release mistake](https://github.com/ethereum/consensus-specs/pull/4397) - 2025-06-23
 * [Commit] [Remove dead attestation generation code (#4396)](https://github.com/ethereum/consensus-specs/commit/19b90c5d7327cba40b0737472a668be4f39b6455) - 2025-06-23
+* [Pull Request] [Add some fork digest clarifications](https://github.com/ethereum/consensus-specs/pull/4406) - 2025-06-24
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 

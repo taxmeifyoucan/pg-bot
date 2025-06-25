@@ -217,6 +217,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bpo for fusaka devnet (#3340)](https://github.com/status-im/nimbus-eth1/commit/31c143f218f7ea8e2c69f7a60034b7e4001fda6c) - 2025-06-04
 * [Commit] [Rlpx handshake using the latest version of a protocol capabilities (#3406)](https://github.com/status-im/nimbus-eth1/commit/90892ddeab70b68d50eaef20bd33f0f91b46ac8a) - 2025-06-16
 * [Commit] [Fix revert reason encoding (#3420)](https://github.com/status-im/nimbus-eth1/commit/a7d5ff3eac5b84e5ad061b469e1f13a784043b47) - 2025-06-22
+* [Commit] [Reduce declared/import but not used (#3424)](https://github.com/status-im/nimbus-eth1/commit/6228fb96026f2e8085d11abe372b1bd3020cd887) - 2025-06-24
 ## Q1 2025
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)

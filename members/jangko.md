@@ -109,3 +109,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Remove unused spaces](https://github.com/status-im/nimbus-eth1/commit/26bfaef4145efe97da0c6ab9a9596c1d9bd1a7e8) - 2025-06-17
 * [Pull Request] [Fix revert reason decoding without using exception](https://github.com/status-im/nimbus-eth1/pull/3420) - 2025-06-20
 * [Pull Request] [Increase rpc http server chunk size to 1 MBytes](https://github.com/status-im/nimbus-eth1/pull/3417) - 2025-06-20
+* [Pull Request] [Reduce declared/import but not used](https://github.com/status-im/nimbus-eth1/pull/3424) - 2025-06-24

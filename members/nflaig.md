@@ -232,6 +232,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Move Status to Metadata type](https://github.com/ChainSafe/lodestar/commit/ea07eed29fd4b0cf645f0c9b3a7df7b398d1ea48) - 2025-06-21
 * [Commit] [Remove unused imports](https://github.com/ChainSafe/lodestar/commit/4f84f35764b3dc2d1d1de3874e67520fb786b814) - 2025-06-21
 * [Pull Request] [chore: merge unstable into peerDAS branch](https://github.com/ChainSafe/lodestar/pull/7994) - 2025-06-23
+* [Pull Request] [feat: add next fork digest (nfd) entry to ENR](https://github.com/ChainSafe/lodestar/pull/8002) - 2025-06-24
+* [Commit] [Fix type checks](https://github.com/ChainSafe/lodestar/commit/74e2a788e47fdae5d80b28859d5beeefe9a2add8) - 2025-06-24
+* [Pull Request] [feat: fusaka devnet 2](https://github.com/ChainSafe/lodestar/pull/8001) - 2025-06-24
+* [Commit] [Merge #7954](https://github.com/ChainSafe/lodestar/commit/80725ed9f10a243756981804048a5ec6b752e8a9) - 2025-06-24
+* [Commit] [fix: validate data_column_sidecar before add to cache (#7955)](https://github.com/ChainSafe/lodestar/commit/82b142fc90de3c738d81a3ca7c397b401b12a289) - 2025-06-24
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

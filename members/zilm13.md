@@ -42,6 +42,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Bump reference tests to v1.6.0-alpha.2](https://github.com/Consensys/teku/pull/9553) - 2025-06-12
 * [Commit] [Use byRange RPC for sync DataColumnSidecars in FULU (#9518)](https://github.com/Consensys/teku/commit/ef5f9ee7113e9933b15f72015953db552a4cc1c8) - 2025-06-21
 * [Pull Request] [Use byRoot RPC for non-finalized DataColumnSidecars ](https://github.com/Consensys/teku/pull/9587) - 2025-06-21
+* [Commit] [add missing data column sidecar gossip rules (#9586)](https://github.com/Consensys/teku/commit/bac63f1a0f23eae5eeebb613bf7f618cbe121bd5) - 2025-06-24
+* [Commit] [Use byRoot RPC for non-finalized DataColumnSidecars  (#9587)](https://github.com/Consensys/teku/commit/6b3ac3f52265579416a3e1309dddc69105ee0d99) - 2025-06-24
+* [Issue] [DataColumnSidecars Sampler should sample 8 columns not 4](https://github.com/Consensys/teku/issues/9598) - 2025-06-24
+* [Pull Request] [Fix offline spotlessApply, assemble, tests etc for Teku](https://github.com/Consensys/teku/pull/9597) - 2025-06-24
+* [Pull Request] [Remove max request](https://github.com/Consensys/teku/pull/9596) - 2025-06-24
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

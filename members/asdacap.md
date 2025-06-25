@@ -277,6 +277,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Unit test header validator](https://github.com/NethermindEth/nethermind/commit/19fbb37ed6a57a85866360ff7f7d4f072a61127a) - 2025-06-23
 * [Commit] [Remove unused code](https://github.com/NethermindEth/nethermind/commit/c21c4cd8dfba42a0bb6ae32d9d85f6c01fb006a6) - 2025-06-23
 * [Commit] [Rename RIP-7212 to EIP-7951 & enable in Osaka (#8753)](https://github.com/NethermindEth/nethermind/commit/25c658901f452eddfd4ff781a8f7e086d0d66a83) - 2025-06-23
+* [Commit] [Take into account disconnected beacon chain](https://github.com/NethermindEth/nethermind/commit/6d0e6da890e6a17131d0daf1ef39dd4463e16348) - 2025-06-24
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

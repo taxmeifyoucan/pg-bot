@@ -148,6 +148,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: validate data_column_sidecar before add to cache](https://github.com/ChainSafe/lodestar/pull/7955) - 2025-06-12
 * [Commit] [fix: handle recover error in SeenGossipBlockInput](https://github.com/ChainSafe/lodestar/commit/0a2af3a9875ab7cf1407c407e0f3adb8584b5724) - 2025-06-12
 * [Commit] [feat: validate blob schedule on startup (#7942)](https://github.com/ChainSafe/lodestar/commit/6fa9960988a3a56675bc0edac2594c61b359a3fe) - 2025-06-23
+* [Commit] [feat: validate blob schedule on startup (#7942)](https://github.com/ChainSafe/lodestar/commit/6fa9960988a3a56675bc0edac2594c61b359a3fe) - 2025-06-24
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

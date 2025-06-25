@@ -81,6 +81,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update packages (#8811)](https://github.com/NethermindEth/nethermind/commit/f38cf91a332dc252a6e94e522dc0358a0b7dc669) - 2025-06-20
 * [Commit] [Update Nethermind.GmpBindings package](https://github.com/NethermindEth/nethermind/commit/936a0d227c0e3e82e5e7a7c0c447321cebdd2530) - 2025-06-21
 * [Commit] [Add boundary tests for EIP-7918 (#8748)](https://github.com/NethermindEth/nethermind/commit/9bf7b7fc322c961f59c14064216e0ec8fe1cee3c) - 2025-06-23
+* [Pull Request] [Disable block rewards for Volta](https://github.com/NethermindEth/nethermind/pull/8851) - 2025-06-24
+* [Commit] [Set Volta hard-fork block number](https://github.com/NethermindEth/nethermind/commit/31b326f0401f8ae40285dce00e52b64737858c3a) - 2025-06-24
+* [Commit] [Set initial updated GMP bindings](https://github.com/NethermindEth/nethermind/commit/24229d5a1cf5a72aa5bc37f46b7e4880ca5caebf) - 2025-06-24
+* [Commit] [Update GMP package](https://github.com/NethermindEth/nethermind/commit/37877e12325a9e71fc09a2bafdb2c0bf06b19b2e) - 2025-06-24
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

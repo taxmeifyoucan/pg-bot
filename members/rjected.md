@@ -78,6 +78,7 @@ Team: Reth
 * [Pull Request] [docs(trie): mention that SparseSubtrie path is a full path](https://github.com/paradigmxyz/reth/pull/16917) - 2025-06-18
 * [Commit] [feat(trie): add ParallelSparseTrie::update_leaf](https://github.com/paradigmxyz/reth/commit/62ed0e1129ca6090323ab7c541a71733c9ced4f9) - 2025-06-19
 * [Pull Request] [feat(trie): add SparseSubtrie::update_leaf ](https://github.com/paradigmxyz/reth/pull/16956) - 2025-06-19
+* [Commit] [refactor(trie): use next_node and shift nodes down](https://github.com/paradigmxyz/reth/commit/f7a7112330d3e36de99fe7b46e8850198682290c) - 2025-06-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add basic tests for modexp](https://github.com/bluealloy/revm/pull/2603) - 2025-06-09
 * [Pull Request] [feat: add openssl based modexp impl](https://github.com/bluealloy/revm/pull/2599) - 2025-06-09

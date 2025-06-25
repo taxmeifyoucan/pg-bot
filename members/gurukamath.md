@@ -59,9 +59,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Implement EIP-7934](https://github.com/ethereum/execution-specs/pull/1289) - 2025-06-20
 * [Issue] [Implement EIP-7934](https://github.com/ethereum/execution-specs/issues/1288) - 2025-06-20
 * [Commit] [chore(osaka): update modexp eip-7883 (#1272)](https://github.com/ethereum/execution-specs/commit/c6d334e306aba75d6ba072902b27de8f50876fa5) - 2025-06-23
+* [Commit] [feat(osaka): add eip-7939 count leading zeros opcode (#1275)](https://github.com/ethereum/execution-specs/commit/eee585e85bc3ebc86c23928feb7b90dbc865496d) - 2025-06-24
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-spec-tests/issues/1461) - 2025-04-16
 * [Issue] [Address warmed on aborted call](https://github.com/ethereum/execution-spec-tests/issues/1474) - 2025-04-17
+* [Pull Request] [STEEL Merga: Remove EELS dependency](https://github.com/ethereum/execution-spec-tests/pull/1787) - 2025-06-24
 ## Q1 2025
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)

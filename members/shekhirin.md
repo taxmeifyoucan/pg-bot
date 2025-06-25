@@ -390,6 +390,19 @@ Team: Reth
 * [Commit] [patch alloy-trie](https://github.com/paradigmxyz/reth/commit/5281af313ba396c57c325f12f9cd6c37451892d2) - 2025-06-23
 * [Commit] [patch alloy-trie](https://github.com/paradigmxyz/reth/commit/f04a918de53683e92a0e404fb1602bbc719aadd6) - 2025-06-23
 * [Commit] [chore(trie): Replace magic numbers in ParallelSparseTrie code (#16960)](https://github.com/paradigmxyz/reth/commit/f9b4eba3b78408387a3bf9bbd14809955a08622f) - 2025-06-23
+* [Commit] [accept stack item as argument to rlp_node](https://github.com/paradigmxyz/reth/commit/d25e1b2d96232879edf8c2f3e0db9807d38f594b) - 2025-06-24
+* [Commit] [move prefix_set_contains to a var](https://github.com/paradigmxyz/reth/commit/ccb7712e56cfb29ca815376aa85487fce68d4b08) - 2025-06-24
+* [Commit] [fix test](https://github.com/paradigmxyz/reth/commit/fcc216adcd0a8c1bc196badedd20a98f3f534059) - 2025-06-24
+* [Commit] [refactor(trie): introduce `SparseSubtrieInner::rlp_node` method (#17031)](https://github.com/paradigmxyz/reth/commit/e4281b345d04497487a32dcc08a64fad53835a93) - 2025-06-24
+* [Pull Request] [chore(trie): rephrase the log about storage proof task result sending](https://github.com/paradigmxyz/reth/pull/17032) - 2025-06-24
+* [Commit] [docs: update outdated validtor docs (#17027)](https://github.com/paradigmxyz/reth/commit/b719bb7d56286d3996b0dbcc3802dbcfc9bddc33) - 2025-06-24
+* [Pull Request] [refactor(trie): introduce `SparseSubtrieInner::rlp_node` method](https://github.com/paradigmxyz/reth/pull/17031) - 2025-06-24
+* [Commit] [remove test-utils feature from sparse-parallel](https://github.com/paradigmxyz/reth/commit/00d649544e44af7525fdb324a52bd8f28c8615f9) - 2025-06-24
+* [Pull Request] [feat: implement `ParallelSparseTrie::root` method](https://github.com/paradigmxyz/reth/pull/17030) - 2025-06-24
+* [Commit] [remove useless checks in the test](https://github.com/paradigmxyz/reth/commit/1fd2eade94947b511211e9322d3dd6176ad6585a) - 2025-06-24
+* [Commit] [call prefix_set_contains only when needed](https://github.com/paradigmxyz/reth/commit/d2eb0488f96d3bd4a378e0e364abe166e5d9e257) - 2025-06-24
+* [Commit] [simplify update_subtrie_hashes](https://github.com/paradigmxyz/reth/commit/b7bd989274c4881b89dfde26338f3520376eab4c) - 2025-06-24
+* [Commit] [docs: add comprehensive documentation for parallel sparse trie rlp_node](https://github.com/paradigmxyz/reth/commit/cea4cac71ef19c1647189b88983c310b077a8dff) - 2025-06-24
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
