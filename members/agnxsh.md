@@ -144,6 +144,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [addressed review comments](https://github.com/status-im/nimbus-eth2/commit/df1a5249aa619f90bdbbd2ee42c8774d2a90078a) - 2025-06-23
 * [Commit] [refactored to fit new column quarantine](https://github.com/status-im/nimbus-eth2/commit/188fcc1911cf65f93d99101db9fd4d81a5ab86bd) - 2025-06-23
 * [Commit] [bump hoodi (#7120)](https://github.com/status-im/nimbus-eth2/commit/c94e4ddb1cad6596af471d2a26c3e8f3cef8bf34) - 2025-06-23
+* [Commit] [nextForkDigest is part of ENR, but not Metadata (#7261)](https://github.com/status-im/nimbus-eth2/commit/8814c39f63728027f9b21558939f9069d26ad49c) - 2025-06-25
+* [Commit] [add earliestAvailableSlot logic to DAG](https://github.com/status-im/nimbus-eth2/commit/e84727973f5b4f4f0f485dc90b3932f4917c64ca) - 2025-06-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [drop peer sampling for Fusaka](https://github.com/ethereum/consensus-specs/pull/4393) - 2025-06-20
 ## Q1 2025

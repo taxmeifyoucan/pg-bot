@@ -47,6 +47,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Issue] [Prune sepolia and mainnet canaries](https://github.com/hyperledger/besu/issues/8830) - 2025-06-19
 * [Pull Request] [Enable decoding for large newPayloads](https://github.com/hyperledger/besu/pull/8848) - 2025-06-24
 * [Pull Request] [Remove redundant serialization of params (#8807)](https://github.com/hyperledger/besu/pull/8847) - 2025-06-24
+* [Issue] [EcAdd precompile](https://github.com/hyperledger/besu/issues/8856) - 2025-06-25
+* [Issue] [Warm up state-tests](https://github.com/hyperledger/besu/issues/8855) - 2025-06-25
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

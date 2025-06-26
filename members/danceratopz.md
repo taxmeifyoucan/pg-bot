@@ -353,6 +353,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(consume): more bugfixes for creating pre_hash group subgroups & load balancing](https://github.com/ethereum/execution-spec-tests/commit/b2b0401577b69d8c660736b017c1e5c27c7a4069) - 2025-06-23
 * [Pull Request] [feat(consume): add `--no-api-calls` to avoid using the Github API with release URL inputs](https://github.com/ethereum/execution-spec-tests/pull/1788) - 2025-06-24
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/25e462a7595a24c5e05175b4a152482f44e0d6ca) - 2025-06-24
+* [Commit] [refactor(consume): move test execution files to shared hive_tests directory](https://github.com/ethereum/execution-spec-tests/commit/f959d236948eefb4902bba61d5bb800b9203a745) - 2025-06-25
+* [Pull Request] [refactor(consume): create explicit pytest plugin structure](https://github.com/ethereum/execution-spec-tests/pull/1801) - 2025-06-25
+* [Commit] [fix(tests/zkevm): update jump seq for valid dest (#1710)](https://github.com/ethereum/execution-spec-tests/commit/4533396a5cd16d4743de60639ae3454d4d96df23) - 2025-06-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

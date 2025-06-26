@@ -39,6 +39,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [add missing exceptions to prague](https://github.com/ethereum/execution-specs/commit/2be399c9eded441c2936ef0e5aac98f1fb90b403) - 2025-06-19
 * [Commit] [Switch alt_bn128 to optimized curve implementation (#1278)](https://github.com/ethereum/execution-specs/commit/e33bb9a8b4b6a4898bd19f731685e38c366817cc) - 2025-06-20
 * [Commit] [run osaka tests (#1290)](https://github.com/ethereum/execution-specs/commit/20bdb2d2268a2578d9625531ce650cc44a599bb6) - 2025-06-20
+* [Commit] [Re-read account code after setting 7702 delegation](https://github.com/ethereum/execution-specs/commit/2158f331fb18eb95ce765f2bc1b4dc8cf1caadff) - 2025-06-25
+* [Pull Request] [Re-read account code after setting 7702 delegation](https://github.com/ethereum/execution-specs/pull/1296) - 2025-06-25
+* [Commit] [Update test.yaml](https://github.com/ethereum/execution-specs/commit/d6d2e46e8929210af15540b793a1d6aeb55f3f8b) - 2025-06-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 

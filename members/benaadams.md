@@ -367,6 +367,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Move Div32Ceiling](https://github.com/NethermindEth/nethermind/commit/4fbfc1e52429b61814d7c4834f4267d48257eee9) - 2025-06-24
 * [Commit] [Rename code sizes](https://github.com/NethermindEth/nethermind/commit/85f6600dee63f47b11201cf6b57b9bb57f9c36f7) - 2025-06-24
 * [Commit] [Remove EvmState from interface](https://github.com/NethermindEth/nethermind/commit/f53f5abc4543d14956315ddaa33008c730c5c860) - 2025-06-24
+* [Commit] [Test fix](https://github.com/NethermindEth/nethermind/commit/e43fd18e414fdfdb3236f57a12adfb3e46f29679) - 2025-06-26
+* [Pull Request] [Optimize opcodes](https://github.com/NethermindEth/nethermind/pull/8864) - 2025-06-26
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

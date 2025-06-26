@@ -149,6 +149,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [filename parser fix](https://github.com/erigontech/erigon/pull/15650) - 2025-06-19
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/c85276c03472d99a9c1867cd22a9bc7acb9fc420) - 2025-06-19
 * [Pull Request] [improved parser, added unit tests](https://github.com/erigontech/erigon/pull/15698) - 2025-06-22
+* [Commit] [improved serial "Committed" log (#15727)](https://github.com/erigontech/erigon/commit/d3ea03e6dd2b80aebe79c004dcf6859fcfcd7372) - 2025-06-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -28,6 +28,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Historical data column import and new channel to trigger custody backfill on CGC change](https://github.com/sigp/lighthouse/pull/7625) - 2025-06-22
 * [Pull Request] [Remove instrumenting log level ](https://github.com/sigp/lighthouse/pull/7636) - 2025-06-23
 * [Issue] [Construct `SingleAttestation` in the validators attestation service](https://github.com/sigp/lighthouse/issues/7634) - 2025-06-23
+* [Pull Request] [Data column custody info](https://github.com/sigp/lighthouse/pull/7648) - 2025-06-25
+* [Issue] [Earliest available data column](https://github.com/sigp/lighthouse/issues/7647) - 2025-06-25
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

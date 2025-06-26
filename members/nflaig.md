@@ -237,6 +237,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: fusaka devnet 2](https://github.com/ChainSafe/lodestar/pull/8001) - 2025-06-24
 * [Commit] [Merge #7954](https://github.com/ChainSafe/lodestar/commit/80725ed9f10a243756981804048a5ec6b752e8a9) - 2025-06-24
 * [Commit] [fix: validate data_column_sidecar before add to cache (#7955)](https://github.com/ChainSafe/lodestar/commit/82b142fc90de3c738d81a3ca7c397b401b12a289) - 2025-06-24
+* [Issue] [Peer data `earliestAvailableSlot` is undefined](https://github.com/ChainSafe/lodestar/issues/8007) - 2025-06-25
+* [Issue] [invalid requestMetadata response - stream reset](https://github.com/ChainSafe/lodestar/issues/8006) - 2025-06-25
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

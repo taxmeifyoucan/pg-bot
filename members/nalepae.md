@@ -177,6 +177,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Implement `SendDataColumnSidecarsByRangeRequest`.](https://github.com/OffchainLabs/prysm/pull/15430) - 2025-06-23
 * [Commit] [`disconnectFromPeerOnError`: Add peer agent in logs.](https://github.com/OffchainLabs/prysm/commit/f72d59b004c55ce7f13bae2556940bbb313f65f9) - 2025-06-23
 * [Commit] [SSZ support for submitAttestationsV2 (#15422)](https://github.com/OffchainLabs/prysm/commit/9927cea35a0d12300fce98147bad316970f58ec0) - 2025-06-24
+* [Commit] [Update beacon-chain/rpc/lookup/blocker.go](https://github.com/OffchainLabs/prysm/commit/bc99856266be45ad96f9d5e2cd280ef0c0242502) - 2025-06-25
+* [Commit] [Fix Radek's comment.](https://github.com/OffchainLabs/prysm/commit/b84697ed188fc8b1442154681a352a7e449c54b0) - 2025-06-25
+* [Commit] [Update beacon-chain/rpc/lookup/blocker.go](https://github.com/OffchainLabs/prysm/commit/f9537ee07895f20d96fb8e66e078483f6bb46d94) - 2025-06-25
+* [Commit] [Fix Radek's comment.](https://github.com/OffchainLabs/prysm/commit/028991b07df38e7576a315aa0aeaa9d95c3fd368) - 2025-06-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 * [Pull Request] [Validator custody: Increase only and optional backfill.](https://github.com/ethereum/consensus-specs/pull/4357) - 2025-06-03

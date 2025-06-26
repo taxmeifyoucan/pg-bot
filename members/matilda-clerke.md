@@ -20,3 +20,5 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Modify era1blockimporter to mimic full import](https://github.com/hyperledger/besu/pull/8733) - 2025-06-03
 * [Pull Request] [[History Expiry] Return null when block data isn't found](https://github.com/hyperledger/besu/pull/8833) - 2025-06-19
 * [Issue] [Clean up RPC responses for pruned blocks](https://github.com/hyperledger/besu/issues/8831) - 2025-06-19
+* [Pull Request] [Use eth69 in unit tests](https://github.com/hyperledger/besu/pull/8859) - 2025-06-25
+* [Pull Request] [Reset eth max capability to latest](https://github.com/hyperledger/besu/pull/8858) - 2025-06-25

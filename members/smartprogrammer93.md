@@ -19,3 +19,5 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [filter poolContent by basefee](https://github.com/NethermindEth/nethermind/commit/3b5d568ca05f4fe4e12f439e676324c6a8b7e7fa) - 2025-06-24
 * [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/56c733761a5931efb21dffcfb343b681ac4aa416) - 2025-06-24
 * [Commit] [TaikoInboxAddress is set to null by default](https://github.com/NethermindEth/nethermind/commit/9d43f00d4877d2a4dc4d87bebd508d7e12103386) - 2025-06-24
+* [Commit] [Update Sepolia AncientBarriers to 1450409 per EIP-3675 for pre-merge PoW history expiry (#8835)](https://github.com/NethermindEth/nethermind/commit/abfeb3e1358cb43e18238e5045baa7c9d9064955) - 2025-06-25
+* [Commit] [add sharing percentage adjustment to base fee](https://github.com/NethermindEth/nethermind/commit/388e41d00f71367b1f874404dd40f688affa6144) - 2025-06-25

@@ -42,6 +42,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Set shard_count to optimal value... one!](https://github.com/OffchainLabs/prysm/commit/c6b4cc8575a283fa865c31e24ba4781379857b7f) - 2025-05-23
 * [Commit] [Add a section about nightly tests to the spectest readme. Ref https://github.com/OffchainLabs/prysm/pull/15312](https://github.com/OffchainLabs/prysm/commit/71f375dd4211f5ff08f29805ea348d3bd7948465) - 2025-05-23
 * [Pull Request] [Validator: Remove early context cancellation](https://github.com/OffchainLabs/prysm/pull/15369) - 2025-06-02
+* [Commit] [Revert beacon-chain/blockchain/receive_block_test.go from 1b7844de](https://github.com/OffchainLabs/prysm/commit/32a0f12a4f4c6e4421eac05f65f710e507e00acd) - 2025-06-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Prysm team contact info](https://github.com/ethereum/pm/pull/1484) - 2025-04-17
 ## Q1 2025

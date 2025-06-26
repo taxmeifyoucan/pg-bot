@@ -529,6 +529,10 @@ Team: Reth
 * [Commit] [chore: update book](https://github.com/paradigmxyz/reth/commit/59213b7e75a832ce44283da2a443bb3ed2778d73) - 2025-06-24
 * [Commit] [chore: feature gate all op rpc types compat impl (#16964)](https://github.com/paradigmxyz/reth/commit/343983d0a17a816fbb7c450451ac8f52363bf18a) - 2025-06-24
 * [Commit] [rename](https://github.com/paradigmxyz/reth/commit/aa7bf739808235b0b2c014e6f030f070fbe651db) - 2025-06-24
+* [Issue] [Move recover_signer_unchecked_with_buf to alloy SignedTransaction trait](https://github.com/paradigmxyz/reth/issues/17068) - 2025-06-25
+* [Pull Request] [chore: bump alloy patches](https://github.com/paradigmxyz/reth/pull/17067) - 2025-06-25
+* [Pull Request] [fix(cli): propagate max-tx-input-bytes setting](https://github.com/paradigmxyz/reth/pull/17066) - 2025-06-25
+* [Issue] [Introduce helper type for Payload -> Helper -> block](https://github.com/paradigmxyz/reth/issues/17061) - 2025-06-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

@@ -403,6 +403,7 @@ Team: Reth
 * [Commit] [call prefix_set_contains only when needed](https://github.com/paradigmxyz/reth/commit/d2eb0488f96d3bd4a378e0e364abe166e5d9e257) - 2025-06-24
 * [Commit] [simplify update_subtrie_hashes](https://github.com/paradigmxyz/reth/commit/b7bd989274c4881b89dfde26338f3520376eab4c) - 2025-06-24
 * [Commit] [docs: add comprehensive documentation for parallel sparse trie rlp_node](https://github.com/paradigmxyz/reth/commit/cea4cac71ef19c1647189b88983c310b077a8dff) - 2025-06-24
+* [Pull Request] [docs: add libmdbx restriction to CLAUDE.md](https://github.com/paradigmxyz/reth/pull/17060) - 2025-06-25
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

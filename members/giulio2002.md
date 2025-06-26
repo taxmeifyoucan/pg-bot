@@ -261,6 +261,14 @@ Team: Erigon
 * [Commit] [Fulu upgrade to support devnet1 (#14537)](https://github.com/erigontech/erigon/commit/b9f4252f267612125888ec7339c7fba8e6f8611c) - 2025-06-23
 * [Pull Request] [Tune historical proving and removed old versions of commitment history](https://github.com/erigontech/erigon/pull/15714) - 2025-06-23
 * [Pull Request] [[DO NOT MERGE] remove canonical chain hack](https://github.com/erigontech/erigon/pull/15725) - 2025-06-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e755a8bd0ece31238f72b92767397dc86c5f8dd4) - 2025-06-25
+* [Pull Request] [[Do not merge] Add limiter](https://github.com/erigontech/erigon/pull/15751) - 2025-06-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0ae413a166531566e0e4db2c66a3bfd65100ac5d) - 2025-06-25
+* [Pull Request] [[WIP] Rate limit expeirment](https://github.com/erigontech/erigon/pull/15750) - 2025-06-25
+* [Pull Request] [E3: remove `fixCanonicalChain` + noSync](https://github.com/erigontech/erigon/pull/15749) - 2025-06-25
+* [Commit] [E3: Add snap downloader support to hoodi (#15721)](https://github.com/erigontech/erigon/commit/416fdead87d3036e3bd05855de5fa82ceff3307c) - 2025-06-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f43df992e3918e1897240c3693820e1fb924523d) - 2025-06-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a63b535c18d0846151c6f3cde04ac1e69d31750a) - 2025-06-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 

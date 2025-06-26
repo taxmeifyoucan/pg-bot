@@ -2635,6 +2635,9 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9c661b6b212e6188f80a849e53d7c30ec8457b52) - 2025-06-22
 * [Commit] [optimize: reduce sortedAllocKeys memory allocations (#15628)](https://github.com/erigontech/erigon/commit/bb9ed875cfeb2ff2e5d06d7aed5ab34384d27acb) - 2025-06-22
 * [Commit] [rpcdaemon:  in case of ParseError set the HttpStatus to BadRequest as spec (#15693)vv](https://github.com/erigontech/erigon/commit/d13eac1566bbf14bc0e92ff507a54367b1579d0f) - 2025-06-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/846785972040f4de595cd63c30a32295fd4330ea) - 2025-06-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/782c025d541c5ab5c3b97008d2d5bd00b371c87a) - 2025-06-25
+* [Commit] [Fixed heimdall milestone v2 endpoint (#15691)](https://github.com/erigontech/erigon/commit/2eb642e27ae91411538ef13dbd7c5f6119b4f4f9) - 2025-06-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

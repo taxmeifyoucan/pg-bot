@@ -85,6 +85,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Set Volta hard-fork block number](https://github.com/NethermindEth/nethermind/commit/31b326f0401f8ae40285dce00e52b64737858c3a) - 2025-06-24
 * [Commit] [Set initial updated GMP bindings](https://github.com/NethermindEth/nethermind/commit/24229d5a1cf5a72aa5bc37f46b7e4880ca5caebf) - 2025-06-24
 * [Commit] [Update GMP package](https://github.com/NethermindEth/nethermind/commit/37877e12325a9e71fc09a2bafdb2c0bf06b19b2e) - 2025-06-24
+* [Commit] [Update struct initializations](https://github.com/NethermindEth/nethermind/commit/2e1f9cbab815488013c8fecb34479b382ce0e231) - 2025-06-25
+* [Commit] [Change package feed](https://github.com/NethermindEth/nethermind/commit/8ad499ded48a647e4551d02af9d94e1a3bca51e5) - 2025-06-25
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

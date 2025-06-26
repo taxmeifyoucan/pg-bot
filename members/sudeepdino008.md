@@ -318,6 +318,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a9e28f51706b8578e9e32c055a0bb4b3231b3f40) - 2025-06-24
 * [Commit] [save](https://github.com/erigontech/erigon/commit/96c8d595053bec97f237355d344bd30f8029424e) - 2025-06-24
 * [Commit] [save](https://github.com/erigontech/erigon/commit/00db27322b0666aa87ca244dc52940d65fa48af8) - 2025-06-24
+* [Commit] [simplify populateFiles* (#15731)](https://github.com/erigontech/erigon/commit/c17405fda3918ccc1bc28aab4019e04fc4bc0df7) - 2025-06-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

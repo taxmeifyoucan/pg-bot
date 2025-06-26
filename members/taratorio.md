@@ -118,6 +118,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [add large code metering](https://github.com/erigontech/erigon/commit/8a9452d58bc528ae63bc51ec2e23aecf09de13fa) - 2025-06-20
 * [Commit] [add ValidateMaxRlpSize check in InsertBlocks to pass tests](https://github.com/erigontech/erigon/commit/99a183ef5fd24715f2c6516bdf39754050e55ea0) - 2025-06-23
 * [Commit] [tidy](https://github.com/erigontech/erigon/commit/39e420f063627edbd3caead2bdd2678f717fe446) - 2025-06-24
+* [Pull Request] [execution: fix potential limitedBigJump calc uint underflow in update ForkChoice](https://github.com/erigontech/erigon/pull/15748) - 2025-06-25
+* [Commit] [revert change](https://github.com/erigontech/erigon/commit/b87bd725f1513a238d42a65438bb99b48695c34f) - 2025-06-25
+* [Commit] [fix dependency test on windows (#15726)](https://github.com/erigontech/erigon/commit/6d7739563a96cd33860e71b6a25edd37e59e685f) - 2025-06-25
+* [Commit] [fix tests](https://github.com/erigontech/erigon/commit/791b5eaf1c3a27827b635fcf0a96aa98793b0790) - 2025-06-25
+* [Commit] [fix tests](https://github.com/erigontech/erigon/commit/ca8d0c7832b6f788de9af6518a4a55c9dcde7356) - 2025-06-25
+* [Commit] [fix lint and compilation](https://github.com/erigontech/erigon/commit/8a9a81e712948546787e45468bd773752740e2e2) - 2025-06-25
+* [Commit] [reduce diffs](https://github.com/erigontech/erigon/commit/d9f2c2053771021041e62e2c3904631e26c21146) - 2025-06-25
+* [Commit] [reduce diffs](https://github.com/erigontech/erigon/commit/bd184bb4f1cd30903596e841e592a1a61cbe83c1) - 2025-06-25
+* [Commit] [reduce diffs](https://github.com/erigontech/erigon/commit/6205e94eeedc2ca05d3303bf9a634ca54594603c) - 2025-06-25
+* [Commit] [execution: fix potential limitedBigJump calc uint underflow in updateForkChoice (#15746)](https://github.com/erigontech/erigon/commit/29378d42dfb874d88bf91ce84b924b47253ff13e) - 2025-06-25
+* [Pull Request] [log: add LogLvl api to loggers and log handlers](https://github.com/erigontech/erigon/pull/15747) - 2025-06-25
+* [Commit] [add parenthesis for clarity](https://github.com/erigontech/erigon/commit/238233881095bf270255a9e7b65b0a61b470054c) - 2025-06-25
+* [Pull Request] [execution: fix potential limitedBigJump calc uint underflow in updateForkChoice](https://github.com/erigontech/erigon/pull/15746) - 2025-06-25
+* [Commit] [execution: fix potential limitedBigJump calc uint underflow](https://github.com/erigontech/erigon/commit/88f905ca1599dda8980a71d9d96b73e7e69331bc) - 2025-06-25
+* [Commit] [execution: fix potential limitedBigJump calc uint underflow](https://github.com/erigontech/erigon/commit/3bc6b7dd37754ac27d8b02e3b58912fc5aa6a610) - 2025-06-25
+* [Commit] [execution: fix potential limitedBigJump calc uint underflow](https://github.com/erigontech/erigon/commit/14fa6f3dd52e8ed6f2c3b8383cbd69c88967949c) - 2025-06-25
+* [Commit] [execution: fix potential limitedBigJump calc uint underflow](https://github.com/erigontech/erigon/commit/12c29690c046a45df396ed2a296a6b3c41424f2f) - 2025-06-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

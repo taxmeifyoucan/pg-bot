@@ -204,6 +204,9 @@ Team: Erigon
 * [Pull Request] [Fix no valid record error on Bor Event Purge](https://github.com/erigontech/erigon/pull/15717) - 2025-06-23
 * [Commit] [[30] Fixed issue with gaps in checkpoint snapshots when heimdall publish them too late (#15692)](https://github.com/erigontech/erigon/commit/28691659ec35c1fc6e8c3d6fe86366de6d3b30bc) - 2025-06-23
 * [Commit] [Fixed offset in pagination request (#15715)](https://github.com/erigontech/erigon/commit/052efb25c874844f562de4f8dd8ba8b40cec7cf4) - 2025-06-24
+* [Commit] [add small prune timeout (not 10 mins) (#15744)](https://github.com/erigontech/erigon/commit/836fce7535e1af44173cdb99030c11d00f64a392) - 2025-06-25
+* [Pull Request] [add small prune timeout (not 10 mins)](https://github.com/erigontech/erigon/pull/15744) - 2025-06-25
+* [Pull Request] [Set exec prune timeout](https://github.com/erigontech/erigon/pull/15743) - 2025-06-25
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -185,6 +185,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Do not create DB table with empty name when Fulu is not configured (#7250)](https://github.com/status-im/nimbus-eth2/commit/2c229b71e3202fe94f768359ad265301aaeb1364) - 2025-06-19
 * [Commit] [Fix incorrect getBlobForkCode for Fulu (#7258)](https://github.com/status-im/nimbus-eth2/commit/91789009d5f3fa772bdc7e634c8b36e7d19c5eee) - 2025-06-23
 * [Commit] [Bump nim-stew to v0.4.1 (#7256)](https://github.com/status-im/nimbus-eth2/commit/259a10799d55343d076eb03d377a0d5e6a138def) - 2025-06-23
+* [Commit] [show reason for failed payload-preparation fCU in logs (#7263)](https://github.com/status-im/nimbus-eth2/commit/b067c6604ce8d20765213cfb275982f43f3526fe) - 2025-06-26
+* [Commit] [add statusV2 (#7262)](https://github.com/status-im/nimbus-eth2/commit/ff3ed9f9cf68333ea7c35847564a8d4009db130e) - 2025-06-25
+* [Pull Request] [show reason for failed payload-preparation fCU in logs](https://github.com/status-im/nimbus-eth2/pull/7263) - 2025-06-25
+* [Commit] [add missing finalized field to getStateV2 (#7248)](https://github.com/status-im/nimbus-eth2/commit/f0d2c4fae9111e4246c7de2f88e939e7a52f49a8) - 2025-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

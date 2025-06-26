@@ -266,6 +266,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Enable EIP-7823 & EIP-7883 in Dencun & Pectra](https://github.com/erigontech/erigon/commit/d694bdd1f4d2ce77d40346a195af904ad8f61f56) - 2025-06-23
 * [Commit] [dir improvements: move stagesync to `execution` (#15682)](https://github.com/erigontech/erigon/commit/50be686f518d8962959c3dd72b33026cf710b1d2) - 2025-06-23
 * [Commit] [dir improvements: revert turning `p2p` into a module (#15675)](https://github.com/erigontech/erigon/commit/166011068c6c4ffbc44036b18d23315e2a1dfcb5) - 2025-06-23
+* [Commit] [rm unused code](https://github.com/erigontech/erigon/commit/0f5c50c8612c4f9e4aa42593d045fba9f88a3f8b) - 2025-06-25
+* [Commit] [cosmetics](https://github.com/erigontech/erigon/commit/33b7e8a93d4b38ba488c484e6a4f7e9780072427) - 2025-06-25
+* [Commit] [fix KnownDNSNetwork for  BorMainnet](https://github.com/erigontech/erigon/commit/0f2e7f6b1b585edce8786a6fb7e00df5da454195) - 2025-06-25
+* [Commit] [protocol is always all for KnownDNSNetwork](https://github.com/erigontech/erigon/commit/cd5f8da3ce318c49d493ce687acf0e470af687fd) - 2025-06-25
+* [Commit] [revert LookupBootnodeURLsFunc/LookupDNSNetworkFunc](https://github.com/erigontech/erigon/commit/fcdff0fe52d9162679fb81cb86e3807bc3a04ce4) - 2025-06-25
+* [Commit] [mv defaultBlockGasLimit to chain config](https://github.com/erigontech/erigon/commit/d9829f23e4d35b2f3c917277d964e6d2e119e76e) - 2025-06-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 

@@ -63,6 +63,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Advertise false CGC for testing PeerDAS](https://github.com/sigp/lighthouse/pull/7593) - 2025-06-12
 * [Pull Request] [Add data columns sidecars debug beacon API](https://github.com/sigp/lighthouse/pull/7591) - 2025-06-12
 * [Pull Request] [omg so broken](https://github.com/sigp/lighthouse/pull/7596) - 2025-06-13
+* [Pull Request] [Update fulu network configs and add `MIN_EPOCHS_FOR_DATA_COLUMN_SIDECARS_REQUESTS`](https://github.com/sigp/lighthouse/pull/7646) - 2025-06-25
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
