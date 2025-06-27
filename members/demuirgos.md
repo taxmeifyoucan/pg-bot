@@ -60,6 +60,7 @@ Team: Nethermind
 * [Commit] [fix MOD opcode](https://github.com/NethermindEth/nethermind/commit/b39abf9a9c2c142ee9a7e0ba4694dc0ad6670071) - 2025-06-23
 * [Pull Request] [Faeture/ilevm/aot precompiler structarg](https://github.com/NethermindEth/nethermind/pull/8839) - 2025-06-23
 * [Commit] [addeds more assertions to the fibb/prim tests](https://github.com/NethermindEth/nethermind/commit/119d2757ac62347e4c0b453837547b21283c2236) - 2025-06-23
+* [Commit] [Cap block build size in bytes (#8486)](https://github.com/NethermindEth/nethermind/commit/d9588610f0fe7ff3ecaf3bafd827a2d1b034bd7a) - 2025-06-26
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

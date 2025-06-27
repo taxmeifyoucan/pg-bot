@@ -150,6 +150,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/c85276c03472d99a9c1867cd22a9bc7acb9fc420) - 2025-06-19
 * [Pull Request] [improved parser, added unit tests](https://github.com/erigontech/erigon/pull/15698) - 2025-06-22
 * [Commit] [improved serial "Committed" log (#15727)](https://github.com/erigontech/erigon/commit/d3ea03e6dd2b80aebe79c004dcf6859fcfcd7372) - 2025-06-25
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/756a7e76da141a306ca5ae5f7ba6a89042d98a4d) - 2025-06-26
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/aa841a4695cf7fd78b8906c2490020d40967bfd2) - 2025-06-26
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/9f13e8657afe77c36b6d1e42efe0ea226e223825) - 2025-06-26
+* [Pull Request] [added venv to wf](https://github.com/erigontech/erigon/pull/15759) - 2025-06-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

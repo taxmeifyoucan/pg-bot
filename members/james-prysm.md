@@ -143,6 +143,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [adding in health monitor tests](https://github.com/OffchainLabs/prysm/commit/ef41cb1e3dbf37d57cd4d6c88e82fea537903904) - 2025-06-20
 * [Commit] [doppleganger should exit the node safely now](https://github.com/OffchainLabs/prysm/commit/90b536a060d4b9cd265f39ca03f49643403970b8) - 2025-06-23
 * [Commit] [Revert "SSZ support for submitAttestationsV2 (#15422)" (#15426)](https://github.com/OffchainLabs/prysm/commit/e020907d2ad1a85f0b07aad8cdc6870eec8fe5c1) - 2025-06-23
+* [Commit] [radek feedback](https://github.com/OffchainLabs/prysm/commit/8164d721de71c0dd82c8329f00c34f38f1f5c889) - 2025-06-26
+* [Commit] [Implement `SendDataColumnSidecarsByRangeRequest` and `SendDataColumnSidecarsByRootRequest`. (#15430)](https://github.com/OffchainLabs/prysm/commit/121914d0d7a98e7e346a16f96193cef818c1e69a) - 2025-06-26
+* [Commit] [`dataColumnSidecarByRootRPCHandler`: Do not rely any more on map iteration, which does not produce reproducible output order. (#15441)](https://github.com/OffchainLabs/prysm/commit/97f416b3a7c3a9854ab020ccb2068e5d4c0708e2) - 2025-06-26
+* [Commit] [Update validator/client/validator.go](https://github.com/OffchainLabs/prysm/commit/2113dc9e2bf5378854b40f9388eeb29a393310e1) - 2025-06-26
+* [Commit] [Update validator/client/health_monitor.go](https://github.com/OffchainLabs/prysm/commit/e876f936fb1f77da11f76dbf3e8565bca001c968) - 2025-06-26
+* [Commit] [Update validator/client/health_monitor.go](https://github.com/OffchainLabs/prysm/commit/15e033973446ac46964d4873e240d0d2ce2012f8) - 2025-06-26
+* [Commit] [Update validator/client/health_monitor.go](https://github.com/OffchainLabs/prysm/commit/62fdeaa73b8dd48813e6e72e932320188c441cce) - 2025-06-26
+* [Commit] [Update validator/client/validator.go](https://github.com/OffchainLabs/prysm/commit/72fd3683832455202a6a473f3eed3d169b82ed11) - 2025-06-26
+* [Commit] [Update validator/client/validator.go](https://github.com/OffchainLabs/prysm/commit/86794a17db253f900a5801b5fa6644e9b74bf890) - 2025-06-26
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

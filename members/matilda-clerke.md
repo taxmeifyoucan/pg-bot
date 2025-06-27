@@ -22,3 +22,5 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Issue] [Clean up RPC responses for pruned blocks](https://github.com/hyperledger/besu/issues/8831) - 2025-06-19
 * [Pull Request] [Use eth69 in unit tests](https://github.com/hyperledger/besu/pull/8859) - 2025-06-25
 * [Pull Request] [Reset eth max capability to latest](https://github.com/hyperledger/besu/pull/8858) - 2025-06-25
+* [Commit] [Reset eth max capability to latest (#8858)](https://github.com/hyperledger/besu/commit/ab130a34cc0672a190e383d1f9560362b3210bd5) - 2025-06-26
+* [Issue] [Address flakiness in CliqueMiningAcceptanceTest.shouldMineTransactionsOnMultipleNodes](https://github.com/hyperledger/besu/issues/8862) - 2025-06-26

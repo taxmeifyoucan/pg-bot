@@ -66,6 +66,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-spec-tests/issues/1461) - 2025-04-16
 * [Issue] [Address warmed on aborted call](https://github.com/ethereum/execution-spec-tests/issues/1474) - 2025-04-17
 * [Pull Request] [STEEL Merga: Remove EELS dependency](https://github.com/ethereum/execution-spec-tests/pull/1787) - 2025-06-24
+* [Pull Request] [chore(deps): create eels t8n transition tool](https://github.com/ethereum/execution-spec-tests/pull/1807) - 2025-06-26
 ## Q1 2025
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)

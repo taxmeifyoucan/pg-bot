@@ -269,6 +269,9 @@ Team: Erigon
 * [Commit] [E3: Add snap downloader support to hoodi (#15721)](https://github.com/erigontech/erigon/commit/416fdead87d3036e3bd05855de5fa82ceff3307c) - 2025-06-25
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f43df992e3918e1897240c3693820e1fb924523d) - 2025-06-25
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a63b535c18d0846151c6f3cde04ac1e69d31750a) - 2025-06-25
+* [Commit] [E3: Tune commitment history paging compression (#15762)](https://github.com/erigontech/erigon/commit/17a525fdbf560e43929fe5eec44b8d84beca4977) - 2025-06-26
+* [Pull Request] [E3: Tune commitment history paging compression](https://github.com/erigontech/erigon/pull/15762) - 2025-06-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/30be7dafc232d8beb12e11099780eff705c0088e) - 2025-06-26
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 

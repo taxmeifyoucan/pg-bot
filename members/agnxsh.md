@@ -146,6 +146,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump hoodi (#7120)](https://github.com/status-im/nimbus-eth2/commit/c94e4ddb1cad6596af471d2a26c3e8f3cef8bf34) - 2025-06-23
 * [Commit] [nextForkDigest is part of ENR, but not Metadata (#7261)](https://github.com/status-im/nimbus-eth2/commit/8814c39f63728027f9b21558939f9069d26ad49c) - 2025-06-25
 * [Commit] [add earliestAvailableSlot logic to DAG](https://github.com/status-im/nimbus-eth2/commit/e84727973f5b4f4f0f485dc90b3932f4917c64ca) - 2025-06-25
+* [Pull Request] [some clarifications](https://github.com/status-im/nimbus-eth2/pull/7269) - 2025-06-26
+* [Commit] [update nfd field in ENR (#7268)](https://github.com/status-im/nimbus-eth2/commit/c63b43f366e94507c858b501762fc62328083806) - 2025-06-26
+* [Commit] [Bump urllib3 from 2.2.3 to 2.5.0 in /docs (#7266)](https://github.com/status-im/nimbus-eth2/commit/d0e9606e54e0710b741638d0174a683d25814f0d) - 2025-06-26
+* [Commit] [follow gossip also for BPOs (#7267)](https://github.com/status-im/nimbus-eth2/commit/780852567354afb3e92b55c4285c1d7e32163fee) - 2025-06-26
+* [Commit] [vcus changes](https://github.com/status-im/nimbus-eth2/commit/72f242d922be595cc01b37b33c44beb67160bdfe) - 2025-06-26
+* [Commit] [Bump nim-faststreams to v0.3.0 (#7254)](https://github.com/status-im/nimbus-eth2/commit/0b3878de60e22546266321071702a272f8bff0ff) - 2025-06-26
+* [Commit] [resolve conflicts](https://github.com/status-im/nimbus-eth2/commit/bc286cb20c541c8c283e8a9d8aa193b0b1b687eb) - 2025-06-26
+* [Commit] [adjust nextForkEpochAtEpoch() to work with BPOs (#7265)](https://github.com/status-im/nimbus-eth2/commit/bf772332ebc6855a531f7d1c7b01658c4908c640) - 2025-06-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [drop peer sampling for Fusaka](https://github.com/ethereum/consensus-specs/pull/4393) - 2025-06-20
 ## Q1 2025

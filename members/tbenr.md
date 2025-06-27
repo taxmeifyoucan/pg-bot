@@ -70,6 +70,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Revisit singleOrAggregateAttestationChecks](https://github.com/Consensys/teku/pull/9595) - 2025-06-24
 * [Pull Request] [Dedicated api executors for RemoteBeaconNodeApi](https://github.com/Consensys/teku/pull/9605) - 2025-06-25
 * [Issue] [Rewrite RemoteValidatorHandler\typeDefClient using a async API calls](https://github.com/Consensys/teku/issues/9604) - 2025-06-25
+* [Commit] [Add VC beaconAPI pools CLI params (#9611)](https://github.com/Consensys/teku/commit/765e1275ce0da6e495d766ffe8ee52839f2b0beb) - 2025-06-26
+* [Commit] [Fix peer disconnection (#9614)](https://github.com/Consensys/teku/commit/ccefe6accc9b4e769065a50bdeca33f6afc1aed7) - 2025-06-26
+* [Pull Request] [Fix peer disconnection](https://github.com/Consensys/teku/pull/9614) - 2025-06-26
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

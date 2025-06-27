@@ -47,6 +47,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [Reorganize processing of light client updates (#15383)](https://github.com/OffchainLabs/prysm/commit/f5a9394c77daf4950f8437fed795e17d30295397) - 2025-06-23
 * [Commit] [set nfd=0x00000000 at schedule end](https://github.com/OffchainLabs/prysm/commit/38cf0e9e94908c3e5074fc01ed08e708e1197527) - 2025-06-25
 * [Commit] [next epoch bug fix](https://github.com/OffchainLabs/prysm/commit/be14c4c3d162c7c021f3783aa078f323b9766a7a) - 2025-06-25
+* [Commit] [fix next_fork_epoch in enr](https://github.com/OffchainLabs/prysm/commit/788af59823c11d4463b2dee63685f395ac6c6d4b) - 2025-06-26
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

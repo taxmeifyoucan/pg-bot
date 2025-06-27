@@ -189,6 +189,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [add statusV2 (#7262)](https://github.com/status-im/nimbus-eth2/commit/ff3ed9f9cf68333ea7c35847564a8d4009db130e) - 2025-06-25
 * [Pull Request] [show reason for failed payload-preparation fCU in logs](https://github.com/status-im/nimbus-eth2/pull/7263) - 2025-06-25
 * [Commit] [add missing finalized field to getStateV2 (#7248)](https://github.com/status-im/nimbus-eth2/commit/f0d2c4fae9111e4246c7de2f88e939e7a52f49a8) - 2025-06-25
+* [Pull Request] [use correct forkdigest pre-BPO in Fulu](https://github.com/status-im/nimbus-eth2/pull/7270) - 2025-06-26
+* [Pull Request] [update nfd field in ENR](https://github.com/status-im/nimbus-eth2/pull/7268) - 2025-06-26
+* [Commit] [fix nimbus_light_client build](https://github.com/status-im/nimbus-eth2/commit/dafb30066445cd70b681ae6980b682b213f279e7) - 2025-06-26
+* [Pull Request] [follow gossip also for BPOs](https://github.com/status-im/nimbus-eth2/pull/7267) - 2025-06-26
+* [Commit] [add statusV2 (#7262)](https://github.com/status-im/nimbus-eth2/commit/ff3ed9f9cf68333ea7c35847564a8d4009db130e) - 2025-06-26
+* [Pull Request] [adjust nextForkEpochAtEpoch() to work with BPOs](https://github.com/status-im/nimbus-eth2/pull/7265) - 2025-06-26
+* [Commit] [add BPO forkdigest tests (#7264)](https://github.com/status-im/nimbus-eth2/commit/d3559fbb72c56426e7137d7dbb660238ca81dc64) - 2025-06-26
+* [Commit] [add BPO forkdigest tests](https://github.com/status-im/nimbus-eth2/commit/5adb0c6b6469d8026a49bc39dab7445f57824586) - 2025-06-26
+* [Pull Request] [add BPO forkdigest tests](https://github.com/status-im/nimbus-eth2/pull/7264) - 2025-06-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

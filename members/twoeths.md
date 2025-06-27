@@ -149,6 +149,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: handle recover error in SeenGossipBlockInput](https://github.com/ChainSafe/lodestar/commit/0a2af3a9875ab7cf1407c407e0f3adb8584b5724) - 2025-06-12
 * [Commit] [feat: validate blob schedule on startup (#7942)](https://github.com/ChainSafe/lodestar/commit/6fa9960988a3a56675bc0edac2594c61b359a3fe) - 2025-06-23
 * [Commit] [feat: validate blob schedule on startup (#7942)](https://github.com/ChainSafe/lodestar/commit/6fa9960988a3a56675bc0edac2594c61b359a3fe) - 2025-06-24
+* [Commit] [fix: check-types](https://github.com/ChainSafe/lodestar/commit/a34c4ce3fa46819108baee747ec988c6e1693d50) - 2025-06-26
+* [Commit] [fix: use persistent-merkle-tree v1.1.0 (#7621)](https://github.com/ChainSafe/lodestar/commit/706f45e8155ecb4fb6cd501c85b95873ea1b1747) - 2025-06-26
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

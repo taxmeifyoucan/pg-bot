@@ -272,6 +272,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [protocol is always all for KnownDNSNetwork](https://github.com/erigontech/erigon/commit/cd5f8da3ce318c49d493ce687acf0e470af687fd) - 2025-06-25
 * [Commit] [revert LookupBootnodeURLsFunc/LookupDNSNetworkFunc](https://github.com/erigontech/erigon/commit/fcdff0fe52d9162679fb81cb86e3807bc3a04ce4) - 2025-06-25
 * [Commit] [mv defaultBlockGasLimit to chain config](https://github.com/erigontech/erigon/commit/d9829f23e4d35b2f3c917277d964e6d2e119e76e) - 2025-06-25
+* [Pull Request] [[DO NOT MERGE] arb0 -> main](https://github.com/erigontech/erigon/pull/15761) - 2025-06-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 

@@ -2638,6 +2638,19 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/846785972040f4de595cd63c30a32295fd4330ea) - 2025-06-25
 * [Commit] [save](https://github.com/erigontech/erigon/commit/782c025d541c5ab5c3b97008d2d5bd00b371c87a) - 2025-06-25
 * [Commit] [Fixed heimdall milestone v2 endpoint (#15691)](https://github.com/erigontech/erigon/commit/2eb642e27ae91411538ef13dbd7c5f6119b4f4f9) - 2025-06-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6b33d3a206594795809a7f12c675801bd0a65bcc) - 2025-06-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/95bd8b5d208ae8a7b1b595b701cb692fe839aca6) - 2025-06-26
+* [Commit] [qa-tests: fix and improve gnosis tip-tracking (#15707)](https://github.com/erigontech/erigon/commit/ac3d99a1f15a1b1c1b4943f63a073859637344d0) - 2025-06-26
+* [Issue] [reduce output size of rpm-test when "everything failed"](https://github.com/erigontech/erigon/issues/15758) - 2025-06-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/41967c4c26e7c6275069ede7d399e714b7df7e3a) - 2025-06-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/efc245d6f21fdb11d68b3f4fb9849da0881cc99a) - 2025-06-26
+* [Commit] [Use same receiver name for `IntraBlockState` (#15737)](https://github.com/erigontech/erigon/commit/caa291d9072d7c299796e020cb85df9a4251c1e4) - 2025-06-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2c169787be7f1b0f8a33f9434ca67f3c34ce5241) - 2025-06-26
+* [Issue] [rpc-tests: make it easier to run manually on server - and add 1-liner to readme](https://github.com/erigontech/erigon/issues/15755) - 2025-06-26
+* [Issue] [`rpc-tests`: add gnosis eth_getLogs](https://github.com/erigontech/erigon/issues/15754) - 2025-06-26
+* [Issue] [rpctest invariantsEthGetLogs: speedup](https://github.com/erigontech/erigon/issues/15753) - 2025-06-26
+* [Issue] [seg integrity: pick recent changes to 3.0 and speedup](https://github.com/erigontech/erigon/issues/15752) - 2025-06-26
+* [Commit] [Add `[Inc,Dec]Depth` methods to allow change contract stack depth outside of interpreter (#15739)](https://github.com/erigontech/erigon/commit/cf9160783f1e32ab81c7262de32fc645de732ed0) - 2025-06-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

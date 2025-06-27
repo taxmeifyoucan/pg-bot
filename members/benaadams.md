@@ -369,6 +369,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Remove EvmState from interface](https://github.com/NethermindEth/nethermind/commit/f53f5abc4543d14956315ddaa33008c730c5c860) - 2025-06-24
 * [Commit] [Test fix](https://github.com/NethermindEth/nethermind/commit/e43fd18e414fdfdb3236f57a12adfb3e46f29679) - 2025-06-26
 * [Pull Request] [Optimize opcodes](https://github.com/NethermindEth/nethermind/pull/8864) - 2025-06-26
+* [Commit] [Optimise OpOrigin](https://github.com/NethermindEth/nethermind/commit/fa94dffa9cd372a38dbfb8a34707d024051505ed) - 2025-06-26
+* [Pull Request] [Optimise OpOrigin](https://github.com/NethermindEth/nethermind/pull/8867) - 2025-06-26
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

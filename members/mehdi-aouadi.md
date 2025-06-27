@@ -47,6 +47,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Issue] [engine_getBlobsV2: add partialResponse flag to enable partial hits](https://github.com/Consensys/teku/issues/9590) - 2025-06-23
 * [Commit] [Enforce kzg commitments size in beacon_block gossip topic (#9584)](https://github.com/Consensys/teku/commit/54fb9daeab7bacfcf75175475977eb4e412e3b7e) - 2025-06-23
 * [Issue] [FOCIL improvements](https://github.com/Consensys/teku/issues/9603) - 2025-06-25
+* [Issue] [Connected peers exceed the upper bound peer limit](https://github.com/Consensys/teku/issues/9612) - 2025-06-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add eip7805 presets](https://github.com/ethereum/consensus-specs/pull/4268) - 2025-04-14
 * [Pull Request] [move IL committee domain to constant](https://github.com/ethereum/consensus-specs/pull/4276) - 2025-04-17

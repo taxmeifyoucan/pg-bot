@@ -190,6 +190,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/bc630a0c6b7355a459da5fa71663515745332785) - 2025-06-23
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2d9d1c37c9821c057f55a1d705140dd82a925655) - 2025-06-23
 * [Commit] [mod tidy](https://github.com/erigontech/erigon/commit/9434cb86267f57ba40e05656632b6f72fb52e3d3) - 2025-06-23
+* [Pull Request] [[draft] gather chain specs and allocs into one type](https://github.com/erigontech/erigon/pull/15760) - 2025-06-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e6a5cdcbb4061f98ebe209a12865276363568ad9) - 2025-06-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

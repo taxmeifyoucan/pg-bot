@@ -154,6 +154,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Add length wrapper](https://github.com/NethermindEth/nethermind/commit/c3e1221ddd4845b5da8d2588546e941064159ebf) - 2025-06-24
 * [Commit] [Based on address](https://github.com/NethermindEth/nethermind/commit/1d73acf9d40555f5893688c468d6e0c2b55d3740) - 2025-06-24
 * [Commit] [Clean up](https://github.com/NethermindEth/nethermind/commit/5b7af1b20148babfe831efca2303fc7a4cf6c9b2) - 2025-06-25
+* [Commit] [Refactor/Slight reduction in duplicated block producer code (#8865)](https://github.com/NethermindEth/nethermind/commit/daffeb5cd502c5b3d30de652fa3b05325fe7105b) - 2025-06-26
+* [Commit] [Fix compile](https://github.com/NethermindEth/nethermind/commit/2c9c55240e951d50cdec44df7678264043ebf52f) - 2025-06-26
+* [Commit] [Cleanup/Deduplicate aura block processor. (#8814)](https://github.com/NethermindEth/nethermind/commit/d3be1adf5579a7c83fb53138491f07c6770fbd80) - 2025-06-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

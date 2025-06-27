@@ -47,6 +47,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Issue] [DataColumnSidecars Sampler should sample 8 columns not 4](https://github.com/Consensys/teku/issues/9598) - 2025-06-24
 * [Pull Request] [Fix offline spotlessApply, assemble, tests etc for Teku](https://github.com/Consensys/teku/pull/9597) - 2025-06-24
 * [Pull Request] [Remove max request](https://github.com/Consensys/teku/pull/9596) - 2025-06-24
+* [Pull Request] [Remove synchronization from SimpleSidecarRetriever](https://github.com/Consensys/teku/pull/9613) - 2025-06-26
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -206,6 +206,7 @@ Team: Erigon
 * [Commit] [integration commitment_rebuild: re-visit command, add docs   (#15625)](https://github.com/erigontech/erigon/commit/afdd86ef1191f047b05654f9faf393e460b4ecd8) - 2025-06-19
 * [Commit] [txpool: Add higher tipThreshold for higher value replace txn (#15667)](https://github.com/erigontech/erigon/commit/fca1869d58d0de5491c6ab52ea1c885045a5568e) - 2025-06-23
 * [Commit] [cherry-pick changes from feature/lystopad/issue-7893  (#15724)](https://github.com/erigontech/erigon/commit/ad64e6192cc787639e1faff5cca84faa80a9c858) - 2025-06-24
+* [Pull Request] [txpool: Bump default txpool blob limits](https://github.com/erigontech/erigon/pull/15763) - 2025-06-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

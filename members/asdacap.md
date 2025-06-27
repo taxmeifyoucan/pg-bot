@@ -284,6 +284,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/42dc5524bab67ecfe4d0ea3fa375bad5c6df92a3) - 2025-06-25
 * [Pull Request] [Remove INethermindPlugin.GetSteps](https://github.com/NethermindEth/nethermind/pull/8858) - 2025-06-25
 * [Commit] [Dont change unnecessary code](https://github.com/NethermindEth/nethermind/commit/ab176283314af747da59bde3e77f083a35c3dfe6) - 2025-06-25
+* [Commit] [Validate parenthash is same as given parent (#8840)](https://github.com/NethermindEth/nethermind/commit/7c9190774f86119687246857481e43eec66a4e5c) - 2025-06-26
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

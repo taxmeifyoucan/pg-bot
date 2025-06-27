@@ -135,6 +135,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: fix potential limitedBigJump calc uint underflow](https://github.com/erigontech/erigon/commit/3bc6b7dd37754ac27d8b02e3b58912fc5aa6a610) - 2025-06-25
 * [Commit] [execution: fix potential limitedBigJump calc uint underflow](https://github.com/erigontech/erigon/commit/14fa6f3dd52e8ed6f2c3b8383cbd69c88967949c) - 2025-06-25
 * [Commit] [execution: fix potential limitedBigJump calc uint underflow](https://github.com/erigontech/erigon/commit/12c29690c046a45df396ed2a296a6b3c41424f2f) - 2025-06-25
+* [Commit] [execution: fix potential limitedBigJump calc uint underflow in update ForkChoice (#15748)](https://github.com/erigontech/erigon/commit/4672a9c23978a1edba21d036db82eae7e9a07ff6) - 2025-06-26
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

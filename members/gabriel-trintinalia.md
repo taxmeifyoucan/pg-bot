@@ -145,6 +145,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [[fusaka-devnet-2] EIP-7907 - Fix ExtCodeCopy cost](https://github.com/hyperledger/besu/pull/8841) - 2025-06-23
 * [Commit] [Fix extcodecopy cost (#8840)](https://github.com/hyperledger/besu/commit/1598a7f99013f5a89e5b98dab689390799118be0) - 2025-06-23
 * [Pull Request] [[fusaka-devnet-2] EIP7907 - Fix extcodecopy cost](https://github.com/hyperledger/besu/pull/8840) - 2025-06-23
+* [Pull Request] [Adds an optional code size to the flat db account](https://github.com/hyperledger/besu/pull/8860) - 2025-06-26
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

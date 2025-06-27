@@ -181,6 +181,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix Radek's comment.](https://github.com/OffchainLabs/prysm/commit/b84697ed188fc8b1442154681a352a7e449c54b0) - 2025-06-25
 * [Commit] [Update beacon-chain/rpc/lookup/blocker.go](https://github.com/OffchainLabs/prysm/commit/f9537ee07895f20d96fb8e66e078483f6bb46d94) - 2025-06-25
 * [Commit] [Fix Radek's comment.](https://github.com/OffchainLabs/prysm/commit/028991b07df38e7576a315aa0aeaa9d95c3fd368) - 2025-06-25
+* [Commit] [PeerDAS: Implement beacon API blob sidecar endpoint for Fulu (#15436)](https://github.com/OffchainLabs/prysm/commit/1c1e0f38bbf7f24d35a19cc3bff04816caea299d) - 2025-06-26
+* [Issue] [Blobs by-epoch layout: Empty directories remain](https://github.com/OffchainLabs/prysm/issues/15442) - 2025-06-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [`compute_columns_for_custody_group`: Remove `sorted`](https://github.com/ethereum/consensus-specs/pull/4289) - 2025-04-28
 * [Pull Request] [Validator custody: Increase only and optional backfill.](https://github.com/ethereum/consensus-specs/pull/4357) - 2025-06-03

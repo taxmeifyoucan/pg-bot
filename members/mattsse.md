@@ -533,6 +533,19 @@ Team: Reth
 * [Pull Request] [chore: bump alloy patches](https://github.com/paradigmxyz/reth/pull/17067) - 2025-06-25
 * [Pull Request] [fix(cli): propagate max-tx-input-bytes setting](https://github.com/paradigmxyz/reth/pull/17066) - 2025-06-25
 * [Issue] [Introduce helper type for Payload -> Helper -> block](https://github.com/paradigmxyz/reth/issues/17061) - 2025-06-25
+* [Issue] [Move holocene next block base fee handling into opChainspec](https://github.com/paradigmxyz/reth/issues/17090) - 2025-06-26
+* [Issue] [Make bench command operate on PayloadTypes](https://github.com/paradigmxyz/reth/issues/17087) - 2025-06-26
+* [Issue] [Integrate rpc_middleware setters in ethereumAddons](https://github.com/paradigmxyz/reth/issues/17086) - 2025-06-26
+* [Commit] [chore: bump version in docs (#17085)](https://github.com/paradigmxyz/reth/commit/3c2ef0e28f056347f936a5b4d655ae66ff5bd9cb) - 2025-06-26
+* [Pull Request] [chore: bump version in docs](https://github.com/paradigmxyz/reth/pull/17085) - 2025-06-26
+* [Pull Request] [chore: bump version 1.5.0](https://github.com/paradigmxyz/reth/pull/17083) - 2025-06-26
+* [Pull Request] [feat: add blanket impl for Receipt trait](https://github.com/paradigmxyz/reth/pull/17082) - 2025-06-26
+* [Issue] [Make receipt generic over TxType](https://github.com/paradigmxyz/reth/issues/17081) - 2025-06-26
+* [Issue] [Add guid for custom transaction envelope types](https://github.com/paradigmxyz/reth/issues/17080) - 2025-06-26
+* [Commit] [chore: bump alloy 1.0.13 (#17072)](https://github.com/paradigmxyz/reth/commit/f9e6b10730a546a33185e82fc69024b6a1e25bfc) - 2025-06-26
+* [Commit] [lint](https://github.com/paradigmxyz/reth/commit/c60a3e50fa8d549236bdbca9e619444e6d504ba6) - 2025-06-26
+* [Pull Request] [chore: bump alloy 1.0.13](https://github.com/paradigmxyz/reth/pull/17072) - 2025-06-26
+* [Pull Request] [feat: include eth_sendRawTransactionSync in eth namesapce](https://github.com/paradigmxyz/reth/pull/17070) - 2025-06-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

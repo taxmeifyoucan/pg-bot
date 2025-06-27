@@ -110,3 +110,4 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Fix revert reason decoding without using exception](https://github.com/status-im/nimbus-eth1/pull/3420) - 2025-06-20
 * [Pull Request] [Increase rpc http server chunk size to 1 MBytes](https://github.com/status-im/nimbus-eth1/pull/3417) - 2025-06-20
 * [Pull Request] [Reduce declared/import but not used](https://github.com/status-im/nimbus-eth1/pull/3424) - 2025-06-24
+* [Pull Request] [eth_sendRawTransaction return inner tx hash and not the pooled tx hash](https://github.com/status-im/nimbus-eth1/pull/3430) - 2025-06-26

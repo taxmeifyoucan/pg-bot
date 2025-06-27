@@ -404,6 +404,21 @@ Team: Reth
 * [Commit] [simplify update_subtrie_hashes](https://github.com/paradigmxyz/reth/commit/b7bd989274c4881b89dfde26338f3520376eab4c) - 2025-06-24
 * [Commit] [docs: add comprehensive documentation for parallel sparse trie rlp_node](https://github.com/paradigmxyz/reth/commit/cea4cac71ef19c1647189b88983c310b077a8dff) - 2025-06-24
 * [Pull Request] [docs: add libmdbx restriction to CLAUDE.md](https://github.com/paradigmxyz/reth/pull/17060) - 2025-06-25
+* [Commit] [feat: implement graceful node shutdown with process ID logging](https://github.com/paradigmxyz/reth/commit/f43e60417ac734d6e8a502d4825ec24f50aa55ef) - 2025-06-26
+* [Commit] [Implement nix-based graceful shutdown for reth node](https://github.com/paradigmxyz/reth/commit/217d6d72371ecb59d60f92bec579d3f917d57631) - 2025-06-26
+* [Commit] [Revert "feat: implement robust graceful shutdown with timeout fallback"](https://github.com/paradigmxyz/reth/commit/17d93dd13e8554bd6759ee3b2257641e588e94f2) - 2025-06-26
+* [Commit] [feat: implement robust graceful shutdown with timeout fallback](https://github.com/paradigmxyz/reth/commit/e086e617a7f88f7d73e8b07300bc31d97bb4f6bc) - 2025-06-26
+* [Commit] [fix: revert to libc signal handling for reliable node stopping](https://github.com/paradigmxyz/reth/commit/819e0f01c341dd1996afa7570ca54b1dd04c1d7d) - 2025-06-26
+* [Commit] [refactor: simplify node stopping with external kill command](https://github.com/paradigmxyz/reth/commit/9b9324058a8634764d402e57b99998c40bd210d3) - 2025-06-26
+* [Commit] [refactor: simplify node stopping with external kill command](https://github.com/paradigmxyz/reth/commit/426848ea3dd5e035790513f14c3504511ffee4fb) - 2025-06-26
+* [Commit] [fix: remove --baseline argument from reth-bench calls](https://github.com/paradigmxyz/reth/commit/3219ed0ed77a8caddb98067c80f593c75de181ff) - 2025-06-26
+* [Commit] [feat: implement graceful shutdown with SIGINT](https://github.com/paradigmxyz/reth/commit/1d3482465fbd37a855e8dec1685c4bda13ce8d05) - 2025-06-26
+* [Commit] [chore: update line colors to orange for baseline, green for comparison](https://github.com/paradigmxyz/reth/commit/c9a7bc191dd99d1e336e32c4a91021db675048b4) - 2025-06-26
+* [Commit] [refactor: simplify node stopping to use child.kill()](https://github.com/paradigmxyz/reth/commit/4ffc98ac9f90433d354505ee02a4fc54946986d8) - 2025-06-26
+* [Pull Request] [feat: convert reth-bench scripts to use uv script format](https://github.com/paradigmxyz/reth/pull/17078) - 2025-06-26
+* [Commit] [feat: skip reth-bench compilation by default for faster execution](https://github.com/paradigmxyz/reth/commit/60746fd12654c1ebd58580187664dae24a8d4771) - 2025-06-26
+* [Commit] [feat: add --sudo option to run reth with elevated privileges](https://github.com/paradigmxyz/reth/commit/072fbcea91dafd5bbfca0f1c08ee5021862638f1) - 2025-06-26
+* [Commit] [chore: remove --baseline argument from reth-bench](https://github.com/paradigmxyz/reth/commit/71088f315dc26e3bce3a3287912d7790527b853b) - 2025-06-26
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -103,6 +103,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [docs: fix copy-pasted inner doc comments (#2663)](https://github.com/bluealloy/revm/commit/e80a3a2be8cbae33d377912cb9f019b0fc0b60c8) - 2025-06-24
 * [Commit] [fix: call stack_frame.clear() at end (#2656)](https://github.com/bluealloy/revm/commit/c9cbdbc8e9a82803024b328959a94072f60ed92d) - 2025-06-24
 * [Commit] [feat: implement `Transaction` for `Either` (#2662)](https://github.com/bluealloy/revm/commit/ae0dcccf1a9984fcf046487a9eb739c1efc94352) - 2025-06-24
+* [Pull Request] [feat: blake2 avx2](https://github.com/bluealloy/revm/pull/2670) - 2025-06-26
+* [Commit] [now decoding fixture](https://github.com/bluealloy/revm/commit/2a98ae6f21e5bab86f56a4bf2d36cad05f2c8659) - 2025-06-26
+* [Commit] [test(op/handler): verify caller account is touched by zero value transfer (#2669)](https://github.com/bluealloy/revm/commit/0815115d4705c879aeda1de61a292ab16365c1bf) - 2025-06-26
+* [Issue] [blake2b avx2 impl](https://github.com/bluealloy/revm/issues/2667) - 2025-06-26
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

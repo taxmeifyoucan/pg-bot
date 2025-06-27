@@ -46,3 +46,4 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix lint](https://github.com/erigontech/erigon/commit/06ed442c03d55e21b4e3129af0566d66bd8db2eb) - 2025-06-21
 * [Commit] [E3: Use unbounded MDBX for Engine downloader (#15575)](https://github.com/erigontech/erigon/commit/41fb0d9c61a10977752a104f0f199405d0b48653) - 2025-06-21
 * [Pull Request] [rpcdaemon:  in case of ParseError set the HttpStatus to BadRequest as spec](https://github.com/erigontech/erigon/pull/15693) - 2025-06-21
+* [Pull Request] [[R3.0] rpcdaemon: Fix debug trace call many with state overrides](https://github.com/erigontech/erigon/pull/15768) - 2025-06-26

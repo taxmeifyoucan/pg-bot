@@ -34,6 +34,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Add data column sidecar event stream (#9536)](https://github.com/Consensys/teku/commit/2aa29f3863e69e6ca381b7423a3ade0b78f9a374) - 2025-06-11
 * [Commit] [parallel-ci-propertyTests (#9552)](https://github.com/Consensys/teku/commit/1e21b69d9b6264fdb8645bb8f4719279073ccfa9) - 2025-06-12
 * [Pull Request] [Update jblst and other dependencies](https://github.com/Consensys/teku/pull/9601) - 2025-06-25
+* [Pull Request] [Add dataColumnsidecars publish metric](https://github.com/Consensys/teku/pull/9609) - 2025-06-26
+* [Pull Request] [Update error prone](https://github.com/Consensys/teku/pull/9608) - 2025-06-26
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

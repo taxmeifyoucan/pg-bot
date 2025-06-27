@@ -142,6 +142,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(clis): add block rlp size limit errors (eip-7934).](https://github.com/ethereum/execution-spec-tests/commit/192f72740d305c9c47f33d6c9e75254b8b3104e6) - 2025-06-24
 * [Commit] [chore(clis): add block rlp size limit errors (eip-7934).](https://github.com/ethereum/execution-spec-tests/commit/c6435982d93198150bcf928bda45378e655eebd3) - 2025-06-24
 * [Commit] [chore(clis): add block rlp size limit errors (eip-7934).](https://github.com/ethereum/execution-spec-tests/commit/4bd41af543851918f3165119352ab6d5c0b9dbbc) - 2025-06-24
+* [Commit] [chore: small tweak.](https://github.com/ethereum/execution-spec-tests/commit/6a36932cbdb26d85b521b988a5ba9c219b0a7357) - 2025-06-26
+* [Commit] [chore: small tweak.](https://github.com/ethereum/execution-spec-tests/commit/fdd814065ea03ace79c5178747b5f1ed9e1ad70b) - 2025-06-26
+* [Commit] [refactor(cli,exceptions): small update and clean up (#1803)](https://github.com/ethereum/execution-spec-tests/commit/d5f545fa0b0a3c0e718595f1ba89dd7ba8b0f579) - 2025-06-26
+* [Commit] [Update .github/PULL_REQUEST_TEMPLATE.md](https://github.com/ethereum/execution-spec-tests/commit/df342974a945c0a5e8396936e8611f5269d07daa) - 2025-06-26
+* [Commit] [Update .github/PULL_REQUEST_TEMPLATE.md](https://github.com/ethereum/execution-spec-tests/commit/772c5f9b5d5017e9ae831f9093fe262f54563ea0) - 2025-06-26
+* [Commit] [chore(docs): align changelog docs for future releases.](https://github.com/ethereum/execution-spec-tests/commit/3c07fcacc4c33ec4b4db3c8f4f58be2b9d8ed592) - 2025-06-26
+* [Commit] [chore(ci|docs): rename zkevm releases to benchmark.](https://github.com/ethereum/execution-spec-tests/commit/c49eb319b7233f6d5ed9cbb2b85406f0327d96dc) - 2025-06-26
+* [Commit] [test(zkevm): add extra test case for ecAdd, ecMul and ecPairing (#1799)](https://github.com/ethereum/execution-spec-tests/commit/6ee9787d55cb6449c35a2a105a02afcd884cb9d3) - 2025-06-26
+* [Commit] [Update .github/PULL_REQUEST_TEMPLATE.md](https://github.com/ethereum/execution-spec-tests/commit/9ebccb2e8c515ba32c0b90909046cc755c3f6eb4) - 2025-06-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1275) - 2025-06-10
 * [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1274) - 2025-06-10

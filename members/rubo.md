@@ -87,6 +87,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update GMP package](https://github.com/NethermindEth/nethermind/commit/37877e12325a9e71fc09a2bafdb2c0bf06b19b2e) - 2025-06-24
 * [Commit] [Update struct initializations](https://github.com/NethermindEth/nethermind/commit/2e1f9cbab815488013c8fecb34479b382ce0e231) - 2025-06-25
 * [Commit] [Change package feed](https://github.com/NethermindEth/nethermind/commit/8ad499ded48a647e4551d02af9d94e1a3bca51e5) - 2025-06-25
+* [Pull Request] [Improve package publishing workflow](https://github.com/NethermindEth/nethermind/pull/8869) - 2025-06-26
+* [Commit] [Move env var from job to step level](https://github.com/NethermindEth/nethermind/commit/c9dfe055900c428a0d8f4e94052c74a7f61b6a76) - 2025-06-26
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/df73da58147030bee8ac2af6ba6cc49f51207975) - 2025-06-26
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/b0e58b8c86c0478f74bf48de8789b8611bff2161) - 2025-06-26
+* [Commit] [Replace Nethermind.Gmp with Nethermind.GmpBindings (#8799)](https://github.com/NethermindEth/nethermind/commit/55fe750c2217762c3f4b682ab163e5214a78edfc) - 2025-06-26
+* [Commit] [Only create Spec once per block (#8855)](https://github.com/NethermindEth/nethermind/commit/cc953a1e1375d1d8133b92655211597336709412) - 2025-06-26
+* [Commit] [Replace Nethermind.Gmp with Nethermind.GmpBindings (#8799)](https://github.com/NethermindEth/nethermind/commit/418bdca5732b45c69f4cc2baa56587aaa00cc514) - 2025-06-26
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -111,6 +111,11 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [remove unused import](https://github.com/ethereum/execution-spec-tests/commit/edaa0346ba3b2d1aaf6b92dd0420759b819d32fd) - 2025-06-04
 * [Commit] [feat(tests/zkevm): memory opcodes (#1668)](https://github.com/ethereum/execution-spec-tests/commit/41a30cac5375211ef88c0a41d99212f4fc6aa718) - 2025-06-04
 * [Commit] [ fix(tests,eof): Specify Env(gas_limit) (#1677)](https://github.com/ethereum/execution-spec-tests/commit/43cbaac6f1efc3c641d5dd06eee90d3cc2edf90c) - 2025-06-04
+* [Commit] [nit](https://github.com/ethereum/execution-spec-tests/commit/e5914a2c23d7554487d2409dc4501c485bb5149f) - 2025-06-26
+* [Commit] [Update tests/zkevm/test_worst_memory.py](https://github.com/ethereum/execution-spec-tests/commit/6b8e2da25106c4a4749b8ec6041ffd9315acd6d6) - 2025-06-26
+* [Commit] [nit](https://github.com/ethereum/execution-spec-tests/commit/640b6875221ec5495546348b67da48e451e5c1d2) - 2025-06-26
+* [Commit] [add comment](https://github.com/ethereum/execution-spec-tests/commit/06e413527c7eff7912059772864f3d53bf8fc177) - 2025-06-26
+* [Commit] [Apply suggestions from code review](https://github.com/ethereum/execution-spec-tests/commit/2b042ea48511598d262f26d0aa01b45f33fcb4d3) - 2025-06-26
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)
