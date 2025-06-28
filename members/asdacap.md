@@ -285,6 +285,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Remove INethermindPlugin.GetSteps](https://github.com/NethermindEth/nethermind/pull/8858) - 2025-06-25
 * [Commit] [Dont change unnecessary code](https://github.com/NethermindEth/nethermind/commit/ab176283314af747da59bde3e77f083a35c3dfe6) - 2025-06-25
 * [Commit] [Validate parenthash is same as given parent (#8840)](https://github.com/NethermindEth/nethermind/commit/7c9190774f86119687246857481e43eec66a4e5c) - 2025-06-26
+* [Commit] [Update src/Nethermind/Nethermind.Merge.Plugin.Test/BaseEngineModuleTests.cs](https://github.com/NethermindEth/nethermind/commit/f1a36f75c1dad1306a13bc2e83ccbcf97cbe5450) - 2025-06-27
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/d44d719f37a1e2c7f4dc7f6dd362bb0bcd600a06) - 2025-06-27
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/ebab60a34a89c804ef37034e740741514c500218) - 2025-06-27
+* [Pull Request] [Feature/enable prewarm for rpc and block producer](https://github.com/NethermindEth/nethermind/pull/8872) - 2025-06-27
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/721a3b9929c81de3dc277106f47e41b9c5934d91) - 2025-06-27
+* [Commit] [Remove unused class](https://github.com/NethermindEth/nethermind/commit/63cbbb2f309b62637b1497f0957ab97444ffc502) - 2025-06-27
+* [Pull Request] [Refactor/deduplicate block producer env](https://github.com/NethermindEth/nethermind/pull/8871) - 2025-06-27
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

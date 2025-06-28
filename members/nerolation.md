@@ -21,3 +21,5 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [EIP-7928: add header field for bal hash to block](https://github.com/ethereum/EIPs/pull/9885) - 2025-06-10
 * [Pull Request] [add ordering details and pre-tx nonces](https://github.com/ethereum/EIPs/pull/9896) - 2025-06-13
 * [Pull Request] [EIP-7805: Add IL sidecar](https://github.com/ethereum/EIPs/pull/9925) - 2025-06-23
+* [Pull Request] [EIP-XXXX: Add AL repricing EIP](https://github.com/ethereum/EIPs/pull/9946) - 2025-06-27
+* [Pull Request] [More compact structure](https://github.com/ethereum/EIPs/pull/9944) - 2025-06-27

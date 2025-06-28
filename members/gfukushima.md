@@ -36,6 +36,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Update jblst and other dependencies](https://github.com/Consensys/teku/pull/9601) - 2025-06-25
 * [Pull Request] [Add dataColumnsidecars publish metric](https://github.com/Consensys/teku/pull/9609) - 2025-06-26
 * [Pull Request] [Update error prone](https://github.com/Consensys/teku/pull/9608) - 2025-06-26
+* [Commit] [Update error prone (#9608)](https://github.com/Consensys/teku/commit/6361c5cac0933dd87bf9800a615202fe4fc966c8) - 2025-06-27
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

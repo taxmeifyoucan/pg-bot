@@ -371,6 +371,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Optimize opcodes](https://github.com/NethermindEth/nethermind/pull/8864) - 2025-06-26
 * [Commit] [Optimise OpOrigin](https://github.com/NethermindEth/nethermind/commit/fa94dffa9cd372a38dbfb8a34707d024051505ed) - 2025-06-26
 * [Pull Request] [Optimise OpOrigin](https://github.com/NethermindEth/nethermind/pull/8867) - 2025-06-26
+* [Commit] [Optimise OpOrigin (#8867)](https://github.com/NethermindEth/nethermind/commit/23938395f61e248a349176b31259c0042c144131) - 2025-06-27
+* [Commit] [Add BuilderNet to highlighted log brands (#8870)](https://github.com/NethermindEth/nethermind/commit/067ce10b8a7ef6653ed6c4efa29fd5a46d4935b0) - 2025-06-27
+* [Pull Request] [Add BuilderNet to highlighted log brands](https://github.com/NethermindEth/nethermind/pull/8870) - 2025-06-27
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

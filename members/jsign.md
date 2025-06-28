@@ -116,6 +116,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [nit](https://github.com/ethereum/execution-spec-tests/commit/640b6875221ec5495546348b67da48e451e5c1d2) - 2025-06-26
 * [Commit] [add comment](https://github.com/ethereum/execution-spec-tests/commit/06e413527c7eff7912059772864f3d53bf8fc177) - 2025-06-26
 * [Commit] [Apply suggestions from code review](https://github.com/ethereum/execution-spec-tests/commit/2b042ea48511598d262f26d0aa01b45f33fcb4d3) - 2025-06-26
+* [Commit] [nit](https://github.com/ethereum/execution-spec-tests/commit/a983e60521b6ff2fc9bd630670cedd0bffa04754) - 2025-06-27
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

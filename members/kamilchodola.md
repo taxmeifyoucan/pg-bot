@@ -32,6 +32,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [disable warming](https://github.com/NethermindEth/nethermind/commit/c515b76a8d7173314dfe47c23b97138480bdc87a) - 2025-06-23
 * [Commit] [Take into account disconnected beacon chain](https://github.com/NethermindEth/nethermind/commit/5820d1f5c68b0288b4b562f82e6f2cfb9db0c3d5) - 2025-06-24
 * [Commit] [Validate parenthash is same as given parent (#8840)](https://github.com/NethermindEth/nethermind/commit/441f21e2be7e52e7240366d95d59cad6fc1acd42) - 2025-06-26
+* [Commit] [switch branch](https://github.com/NethermindEth/nethermind/commit/41674d96b8352d3400db6059b2da0afecc1e0e75) - 2025-06-27
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -320,6 +320,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/00db27322b0666aa87ca244dc52940d65fa48af8) - 2025-06-24
 * [Commit] [simplify populateFiles* (#15731)](https://github.com/erigontech/erigon/commit/c17405fda3918ccc1bc28aab4019e04fc4bc0df7) - 2025-06-25
 * [Pull Request] [Edb/snap repo3](https://github.com/erigontech/erigon/pull/15764) - 2025-06-26
+* [Commit] [fix concurrency groups (CG) for workflow jobs (#15723)](https://github.com/erigontech/erigon/commit/2ebd1c38b07bc491774d0f5cb28d7338423aa3aa) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/54ea6c81ec6eee01576ef4f9e22e17d79a8b6667) - 2025-06-27
+* [Commit] [higher-level unit tests for dependency integrity checker (#15711)](https://github.com/erigontech/erigon/commit/b42a61ea5e2692ae09e808e036140ee42f5b457d) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/33c5df40ebb6449331ce8210e09b64a414a0fee7) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7b224248b884c6110f87bc638b476750a5a4fc07) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1769ebd9b27c23b7f56e465376d6aba861a4d9a8) - 2025-06-27
+* [Pull Request] [cp: rpc: use pre-configured txNumReader (it's thread-safe)](https://github.com/erigontech/erigon/pull/15782) - 2025-06-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

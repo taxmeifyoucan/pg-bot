@@ -272,6 +272,8 @@ Team: Erigon
 * [Commit] [E3: Tune commitment history paging compression (#15762)](https://github.com/erigontech/erigon/commit/17a525fdbf560e43929fe5eec44b8d84beca4977) - 2025-06-26
 * [Pull Request] [E3: Tune commitment history paging compression](https://github.com/erigontech/erigon/pull/15762) - 2025-06-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/30be7dafc232d8beb12e11099780eff705c0088e) - 2025-06-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2b701fc78923d1254450cb84441879450409c19c) - 2025-06-27
+* [Pull Request] [Caplin: Fix holesky/hoodi startup on develop](https://github.com/erigontech/erigon/pull/15797) - 2025-06-27
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 

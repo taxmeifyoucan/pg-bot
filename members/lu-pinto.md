@@ -41,6 +41,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [Change stack size growth strategy to 0.5 rate (#8814)](https://github.com/hyperledger/besu/commit/514d27dae896fe3f12aa568faf4dc973b3f0d5ca) - 2025-06-13
 * [Pull Request] [Split EVM executor from EvmSpec](https://github.com/hyperledger/besu/pull/8825) - 2025-06-16
 * [Commit] [Split EVM executor from EvmSpec (#8825)](https://github.com/hyperledger/besu/commit/2c87eac11cc3d0656e82eba5079bfa6a9dcef287) - 2025-06-21
+* [Pull Request] [Change stack size growth strategy to 0.5 rate](https://github.com/hyperledger/besu/pull/8869) - 2025-06-27
+* [Pull Request] [Route ModExp precompile in certain conditions](https://github.com/hyperledger/besu/pull/8868) - 2025-06-27
+* [Pull Request] [Migrate all benchmarks to evmtool](https://github.com/hyperledger/besu/pull/8867) - 2025-06-27
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

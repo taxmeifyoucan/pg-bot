@@ -157,6 +157,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Refactor/Slight reduction in duplicated block producer code (#8865)](https://github.com/NethermindEth/nethermind/commit/daffeb5cd502c5b3d30de652fa3b05325fe7105b) - 2025-06-26
 * [Commit] [Fix compile](https://github.com/NethermindEth/nethermind/commit/2c9c55240e951d50cdec44df7678264043ebf52f) - 2025-06-26
 * [Commit] [Cleanup/Deduplicate aura block processor. (#8814)](https://github.com/NethermindEth/nethermind/commit/d3be1adf5579a7c83fb53138491f07c6770fbd80) - 2025-06-26
+* [Commit] [Fix encoding](https://github.com/NethermindEth/nethermind/commit/ddcf5876c2e183f6e71a183b0f29c57df10c194a) - 2025-06-27
+* [Commit] [Fix tests compilation](https://github.com/NethermindEth/nethermind/commit/3f37ed93b3258a13d1f73136b7fedd76eba83491) - 2025-06-27
+* [Commit] [Fix formatting](https://github.com/NethermindEth/nethermind/commit/747b5ce12444904e080e5ca5dd3f2c8988223ea4) - 2025-06-27
+* [Pull Request] [Add taikoAuth_setHeadL1Origin, taikoAuth_updateL1Origin, BuildPayloadArgsId](https://github.com/NethermindEth/nethermind/pull/8874) - 2025-06-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

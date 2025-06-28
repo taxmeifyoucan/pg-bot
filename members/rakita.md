@@ -107,6 +107,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [now decoding fixture](https://github.com/bluealloy/revm/commit/2a98ae6f21e5bab86f56a4bf2d36cad05f2c8659) - 2025-06-26
 * [Commit] [test(op/handler): verify caller account is touched by zero value transfer (#2669)](https://github.com/bluealloy/revm/commit/0815115d4705c879aeda1de61a292ab16365c1bf) - 2025-06-26
 * [Issue] [blake2b avx2 impl](https://github.com/bluealloy/revm/issues/2667) - 2025-06-26
+* [Commit] [cleanup](https://github.com/bluealloy/revm/commit/cc23caba445b48f9ee839be3b3e1cd39d3b80b4f) - 2025-06-27
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

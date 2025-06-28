@@ -94,6 +94,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [minor edits to changelog (#8818)](https://github.com/hyperledger/besu/commit/f6372d6e0493dd3d5bfbdb9bfe65693025914ada) - 2025-06-24
 * [Pull Request] [[DO NOT MERGE] revert final keyword to check errorprone behavior](https://github.com/hyperledger/besu/pull/8846) - 2025-06-24
 * [Pull Request] [remove deprecated Xsnapsync-bft-enabled option](https://github.com/hyperledger/besu/pull/8861) - 2025-06-26
+* [Pull Request] [disable flaky CliqueMining test shouldStillMineWhenANodeFails](https://github.com/hyperledger/besu/pull/8866) - 2025-06-27
+* [Commit] [remove deprecated Xsnapsync-bft-enabled option (#8861)](https://github.com/hyperledger/besu/commit/592d6adeec8ca6e8df88327718f726f0e0cd21aa) - 2025-06-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

@@ -116,6 +116,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Removed SpanSecP256k1](https://github.com/NethermindEth/nethermind/commit/11ed14139f178f00d66cb2e22b2cc621420ddc43) - 2025-06-16
 * [Commit] [Auto-update fast sync settings (#8788)](https://github.com/NethermindEth/nethermind/commit/2bc3ad155d11b59790309f2420f74e50b9835d25) - 2025-06-16
 * [Commit] [Update OP Superchain chains (#8827)](https://github.com/NethermindEth/nethermind/commit/2ca7ec584b5054f9ec50f6e4195f978018da7374) - 2025-06-22
+* [Commit] [Json serializing doubles - decimal part optional for round numbers (#8873)](https://github.com/NethermindEth/nethermind/commit/a412f80bcb9b68a277636056c50747753052fb51) - 2025-06-27
+* [Commit] [adjust tests](https://github.com/NethermindEth/nethermind/commit/f5a9e76004329f3f1c054bfbdc2d19def0e15de6) - 2025-06-27
+* [Pull Request] [Json serializing doubles - decimal part optional for round numbers](https://github.com/NethermindEth/nethermind/pull/8873) - 2025-06-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

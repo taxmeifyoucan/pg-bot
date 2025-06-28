@@ -136,6 +136,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: fix potential limitedBigJump calc uint underflow](https://github.com/erigontech/erigon/commit/14fa6f3dd52e8ed6f2c3b8383cbd69c88967949c) - 2025-06-25
 * [Commit] [execution: fix potential limitedBigJump calc uint underflow](https://github.com/erigontech/erigon/commit/12c29690c046a45df396ed2a296a6b3c41424f2f) - 2025-06-25
 * [Commit] [execution: fix potential limitedBigJump calc uint underflow in update ForkChoice (#15748)](https://github.com/erigontech/erigon/commit/4672a9c23978a1edba21d036db82eae7e9a07ff6) - 2025-06-26
+* [Commit] [execution: fix bad log for limited big jump (#15796)](https://github.com/erigontech/erigon/commit/5a8491bdeb36ab774ffe4ddb0e32785113b4aeaa) - 2025-06-27
+* [Pull Request] [execution: fix bad log for limited big jump](https://github.com/erigontech/erigon/pull/15796) - 2025-06-27
+* [Commit] [txnprovider/shutter: prevent panic in TestShutterBlockBuilding (#15792)](https://github.com/erigontech/erigon/commit/cee82f96d63042fdd4095040ccd369428369ac4b) - 2025-06-27
+* [Pull Request] [txnprovider/shutter: prevent panic in TestShutterBlockBuilding](https://github.com/erigontech/erigon/pull/15792) - 2025-06-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

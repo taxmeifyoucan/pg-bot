@@ -240,6 +240,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Peer data `earliestAvailableSlot` is undefined](https://github.com/ChainSafe/lodestar/issues/8007) - 2025-06-25
 * [Issue] [invalid requestMetadata response - stream reset](https://github.com/ChainSafe/lodestar/issues/8006) - 2025-06-25
 * [Pull Request] [feat: score attestations for block by profitability](https://github.com/ChainSafe/lodestar/pull/8016) - 2025-06-26
+* [Commit] [Move log to debug](https://github.com/ChainSafe/lodestar/commit/bba4b042f815b75531b89dc3f27fffd8efab7487) - 2025-06-27
+* [Commit] [Add is_proposing_on_time helper from spec](https://github.com/ChainSafe/lodestar/commit/52c06370ae5877b9c07a272d0ba1e72f0b9e7638) - 2025-06-27
+* [Commit] [Fix type](https://github.com/ChainSafe/lodestar/commit/20ddf04b22f6ee2d6236c2302872a6dddfc66c16) - 2025-06-27
+* [Pull Request] [chore: add should_override_forkchoice_update spec test check](https://github.com/ChainSafe/lodestar/pull/8020) - 2025-06-27
+* [Commit] [chore: add should_override_forkchoice_update spec test check](https://github.com/ChainSafe/lodestar/commit/d01071c1485140d9f2c61533cd3aac315b8956c9) - 2025-06-27
+* [Commit] [feat: define `SubscribeBoundary` (#7968)](https://github.com/ChainSafe/lodestar/commit/8123b07c2c51678e679072d7912b271e26429f88) - 2025-06-27
+* [Issue] [Sort attestations for block by profitability](https://github.com/ChainSafe/lodestar/issues/8019) - 2025-06-27
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

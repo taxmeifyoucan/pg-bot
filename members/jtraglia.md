@@ -146,6 +146,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Align master with dev after v1.6.0-alpha.2 release mistake](https://github.com/ethereum/consensus-specs/pull/4397) - 2025-06-23
 * [Commit] [Remove dead attestation generation code (#4396)](https://github.com/ethereum/consensus-specs/commit/19b90c5d7327cba40b0737472a668be4f39b6455) - 2025-06-23
 * [Pull Request] [Add some fork digest clarifications](https://github.com/ethereum/consensus-specs/pull/4406) - 2025-06-24
+* [Commit] [Clarify peering expectations when `nfd` values are different (#4407)](https://github.com/ethereum/consensus-specs/commit/342b270f9ad89bccd9b29acb09f36156442ae604) - 2025-06-27
+* [Commit] [Add some clarifications around new ENR changes (#4406)](https://github.com/ethereum/consensus-specs/commit/c62751c37a14a286f97e2452d8202bcde928842d) - 2025-06-27
+* [Commit] [Remove peer sampling in Fulu (#4393)](https://github.com/ethereum/consensus-specs/commit/8df5d119ba9ed547c826d29bcb1783eb8c86474f) - 2025-06-27
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 

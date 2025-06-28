@@ -273,6 +273,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [revert LookupBootnodeURLsFunc/LookupDNSNetworkFunc](https://github.com/erigontech/erigon/commit/fcdff0fe52d9162679fb81cb86e3807bc3a04ce4) - 2025-06-25
 * [Commit] [mv defaultBlockGasLimit to chain config](https://github.com/erigontech/erigon/commit/d9829f23e4d35b2f3c917277d964e6d2e119e76e) - 2025-06-25
 * [Pull Request] [[DO NOT MERGE] arb0 -> main](https://github.com/erigontech/erigon/pull/15761) - 2025-06-26
+* [Pull Request] [deps: upgrade pion/interceptor to v0.1.40](https://github.com/erigontech/erigon/pull/15785) - 2025-06-27
+* [Commit] [deps: upgrade pion/interceptor to v0.1.40](https://github.com/erigontech/erigon/commit/ae57b4131457e75bb88ad46f50507687f502c506) - 2025-06-27
+* [Commit] [Chore: Batch fmt after dir changes (#15772)](https://github.com/erigontech/erigon/commit/a0033880780ba306317c947aa1ba24dd27e495ad) - 2025-06-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 

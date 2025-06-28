@@ -2651,6 +2651,38 @@ Team: Erigon
 * [Issue] [rpctest invariantsEthGetLogs: speedup](https://github.com/erigontech/erigon/issues/15753) - 2025-06-26
 * [Issue] [seg integrity: pick recent changes to 3.0 and speedup](https://github.com/erigontech/erigon/issues/15752) - 2025-06-26
 * [Commit] [Add `[Inc,Dec]Depth` methods to allow change contract stack depth outside of interpreter (#15739)](https://github.com/erigontech/erigon/commit/cf9160783f1e32ab81c7262de32fc645de732ed0) - 2025-06-26
+* [Commit] [[r3.0] manual exec of rpc tests with venv (#15783)](https://github.com/erigontech/erigon/commit/22e009547ddd690d073b3332ba707bc1c9252425) - 2025-06-27
+* [Commit] [[r30] rpctest: concurrent invariantGetLogs, print blk/s (#15779)](https://github.com/erigontech/erigon/commit/a35db6201c059aa8b4596b920fffc6b0dc328cfe) - 2025-06-27
+* [Commit] [[r31] rpctest: concurrent  invariantGetLogs, print blk/s  (#15781)](https://github.com/erigontech/erigon/commit/07a46fb7977585439be4b30ecd6297a282e92211) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/642ac27259041e3c83a7bbc81b8870fc349d71c2) - 2025-06-27
+* [Pull Request] [[r31] rpctest: concurrent  invariantGetLogs, print blk/s ](https://github.com/erigontech/erigon/pull/15781) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/54fa48749adb0bb59858850bbbafab254367cd67) - 2025-06-27
+* [Issue] [up linter (in main and 3.0), firs local run](https://github.com/erigontech/erigon/issues/15780) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4fc993518b82fc657002f08a9d683a5f41ee2fd5) - 2025-06-27
+* [Commit] [# This is a combination of 18 commits.](https://github.com/erigontech/erigon/commit/06263a8b3d43ded15170b14aa8ea53009f60888a) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/77ffaaf1c4d216e6dda3131dbb16a3c05e9ef025) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/437c6d63ca53f4e970dea0f782b771d0b207b318) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/58e061f8d033037dce32fd0b95f86898410a3b62) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8e7f218ff1f1da93b732a10173cde09a4633ebfc) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9ec0b7a2217197ae760edce654fde43573d27556) - 2025-06-27
+* [Pull Request] [[r30] make `rpctest invariant` concurrent, print blk/s](https://github.com/erigontech/erigon/pull/15779) - 2025-06-27
+* [Issue] [ensureLookup is a bottleneck](https://github.com/erigontech/erigon/issues/15778) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5afd0c824c3168e6f0832ee7891f1d0ccd7d5406) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0e10b5c6be3ed8b60f1c2209e828872d5801bbfd) - 2025-06-27
+* [Commit] [BodyOnlyTxn: for when only TxCount and BaseDataID is needed from blocks (#15599)](https://github.com/erigontech/erigon/commit/a094945ce024e0cf44997f9b9f912033168c816a) - 2025-06-27
+* [Pull Request] [[r30] pick body rlp only txNum](https://github.com/erigontech/erigon/pull/15777) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3b93b33c910e6dd74450c5116cea708f7095fe2f) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/712ba66ce72ef4a15369486d6be6ebddb3915478) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/256df6091353d8ae198b4529af418a935e2cb470) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4eaab0754b71b67cb2a80990fceb83d5ffc84357) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4dcc609fcd0cc1e3eeaa99ce88ea5bde53a89d8e) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2f3b584d5d73b06c3296f682b4111dc7d1a77dc6) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4387ebce500afe96439ffbc29fc2bfc665c5aedb) - 2025-06-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0e99b7fcf96038093553fa627df831a024b0c734) - 2025-06-27
+* [Issue] [run integrity check and rpctest invariant on all staging snapshotters](https://github.com/erigontech/erigon/issues/15776) - 2025-06-27
+* [Commit] [kick ci](https://github.com/erigontech/erigon/commit/0bcd2d31fa2dfb7b27b48b467f875fad09a6cfe3) - 2025-06-27
+* [Issue] [TestShutterBlockBuilding: flaky](https://github.com/erigontech/erigon/issues/15775) - 2025-06-27
+* [Commit] [[R3.0] rpcdaemon: Fix debug trace call many with state overrides (#15768)](https://github.com/erigontech/erigon/commit/e70b4a0841bea1801f69c68def1fcb163c0eef4f) - 2025-06-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

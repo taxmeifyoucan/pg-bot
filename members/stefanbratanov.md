@@ -38,6 +38,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [fix possible recursive update (#9580)](https://github.com/Consensys/teku/commit/37b61654d82185310b9a35230a9ec3c1c944abd1) - 2025-06-23
 * [Commit] [Set next_fork_epoch in ENR in Teku](https://github.com/Consensys/teku/commit/254bcf2fcde7efc382422c3e798bc74bf5088aa3) - 2025-06-24
 * [Commit] [Refactor passing of fork digest in gossip (#9607)](https://github.com/Consensys/teku/commit/bcc140dee18eb0af45726c7ab9c0506bb933d05f) - 2025-06-26
+* [Commit] [Refactor passing of fork digest in gossip (#9607)](https://github.com/Consensys/teku/commit/1f71828bd10381a9c3670cfbc73b21ed13dfbdc3) - 2025-06-27
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -192,6 +192,9 @@ Team: Erigon
 * [Commit] [mod tidy](https://github.com/erigontech/erigon/commit/9434cb86267f57ba40e05656632b6f72fb52e3d3) - 2025-06-23
 * [Pull Request] [[draft] gather chain specs and allocs into one type](https://github.com/erigontech/erigon/pull/15760) - 2025-06-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e6a5cdcbb4061f98ebe209a12865276363568ad9) - 2025-06-26
+* [Commit] [sdave go.work](https://github.com/erigontech/erigon/commit/ac1b7dc914067e60131931da1548369c3e9456f4) - 2025-06-27
+* [Pull Request] [Backward-compatible `--experimental.commitment-history` flag](https://github.com/erigontech/erigon/pull/15787) - 2025-06-27
+* [Pull Request] [Arb: fix bind template](https://github.com/erigontech/erigon/pull/15786) - 2025-06-27
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
