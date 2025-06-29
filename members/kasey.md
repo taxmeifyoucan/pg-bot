@@ -50,6 +50,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [fix next_fork_epoch in enr](https://github.com/OffchainLabs/prysm/commit/788af59823c11d4463b2dee63685f395ac6c6d4b) - 2025-06-26
 * [Commit] [generic ssz list encoding](https://github.com/OffchainLabs/prysm/commit/1d25da229eae7810f5c3b9476e1553868a505f99) - 2025-06-27
 * [Pull Request] [generic ssz list encoding](https://github.com/OffchainLabs/prysm/pull/15447) - 2025-06-27
+* [Pull Request] [Wrapper around generic serdes methods](https://github.com/OffchainLabs/prysm/pull/15451) - 2025-06-28
+* [Commit] [remove unused var](https://github.com/OffchainLabs/prysm/commit/7ee6985a6753810be9eb82a24c868d7c8ba4a4e1) - 2025-06-28
 ## Q1 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

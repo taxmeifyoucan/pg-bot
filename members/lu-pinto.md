@@ -44,6 +44,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [Change stack size growth strategy to 0.5 rate](https://github.com/hyperledger/besu/pull/8869) - 2025-06-27
 * [Pull Request] [Route ModExp precompile in certain conditions](https://github.com/hyperledger/besu/pull/8868) - 2025-06-27
 * [Pull Request] [Migrate all benchmarks to evmtool](https://github.com/hyperledger/besu/pull/8867) - 2025-06-27
+* [Commit] [Route ModExp precompile in certain conditions (#8868)](https://github.com/hyperledger/besu/commit/9915379a9e7c61700d0cb44e58206c11627b7e8b) - 2025-06-28
+* [Commit] [Migrate all benchmarks to evmtool (#8867)](https://github.com/hyperledger/besu/commit/1cb201f396220c339ed49765f09ede78a931ff94) - 2025-06-28
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

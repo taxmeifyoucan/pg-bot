@@ -193,6 +193,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [conflict](https://github.com/erigontech/erigon/commit/73b6106b9ff9623281065cf490cdd62905f70f9a) - 2025-06-23
 * [Commit] [qa-tests: add torrent status file artifact to snap-download test (#15648)](https://github.com/erigontech/erigon/commit/b17730aea9e43d5a23c96399a8f5ef35f0af3402) - 2025-06-23
 * [Commit] [update](https://github.com/erigontech/erigon/commit/24f6e6af53aabe89a751ba7a9609a5500f351294) - 2025-06-24
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/5623c6776aa62b5b53e9191a18068969c56c3b28) - 2025-06-28
+* [Commit] [update](https://github.com/erigontech/erigon/commit/43ea59aac92afd0517fb5d018098e6877762036b) - 2025-06-28
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/0bd39dad6526d90cc7d476ff116bb5d6d857d01c) - 2025-06-28
+* [Commit] [update](https://github.com/erigontech/erigon/commit/49d2529a239f78ae87d9094aabd311d079ade8a9) - 2025-06-28
+* [Commit] [update](https://github.com/erigontech/erigon/commit/39feb9514837a2f74a7ef3d34c959638f813e603) - 2025-06-28
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/5c5f832922c0cf0116e68c50fd9bc307c464f190) - 2025-06-28
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/048ef87d73374d801df229693970dc5e3115ed40) - 2025-06-28
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/b4395ad5bbfafb2f0b5ae4582509e0a9d5b962b0) - 2025-06-28
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/f5614745e8482be74a13962ded248b3bdd89fc2e) - 2025-06-28
+* [Commit] [Fix/txpool params (#15718)](https://github.com/erigontech/erigon/commit/99c5168077d16f5d17d4d62503789637d558713b) - 2025-06-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

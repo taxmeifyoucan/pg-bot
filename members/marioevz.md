@@ -201,6 +201,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [more tests](https://github.com/ethereum/execution-spec-tests/commit/0bde3ad7b51272a9ab704ed39a055408c333c984) - 2025-06-20
 * [Commit] [Base template](https://github.com/ethereum/execution-spec-tests/commit/8f85f227162bbaed3cc29452432f0670dcf88b26) - 2025-06-20
 * [Commit] [refactor(cli,exceptions): small update and clean up (#1803)](https://github.com/ethereum/execution-spec-tests/commit/d5f545fa0b0a3c0e718595f1ba89dd7ba8b0f579) - 2025-06-25
+* [Commit] [chore(deps): create eels t8n transition tool (#1807)](https://github.com/ethereum/execution-spec-tests/commit/df014bf76be563b157a665abafb4885bea99071b) - 2025-06-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [T8N daemon clears *.json files in current working directory](https://github.com/ethereum/execution-specs/issues/1178) - 2025-04-03
 * [Pull Request] [Invalid block if system contract is empty on call or call fails](https://github.com/ethereum/execution-specs/pull/1183) - 2025-04-04

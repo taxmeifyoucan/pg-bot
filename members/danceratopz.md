@@ -363,6 +363,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [docs: add a page to help users get started with the EEST opcode minilang](https://github.com/ethereum/execution-spec-tests/issues/1809) - 2025-06-27
 * [Commit] [Deployed 851f9f5bc8 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/84c694df3e50e49a83785f9377d7fd8f54813a9f) - 2025-06-27
 * [Commit] [chore(ci): update pr template (#1805)](https://github.com/ethereum/execution-spec-tests/commit/851f9f5bc88d25f869a7fcd7798b10b9c5bceb7e) - 2025-06-27
+* [Commit] [Deployed df014bf76b to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/5f14650b31f9f1bd57d3ccfbdc93daa2b6f6b880) - 2025-06-28
+* [Commit] [Deployed cc5fc26aec to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e2aa2828cedfd2b2c1ca2895c3a73cdbe624c19d) - 2025-06-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

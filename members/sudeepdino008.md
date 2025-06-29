@@ -327,6 +327,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7b224248b884c6110f87bc638b476750a5a4fc07) - 2025-06-27
 * [Commit] [save](https://github.com/erigontech/erigon/commit/1769ebd9b27c23b7f56e465376d6aba861a4d9a8) - 2025-06-27
 * [Pull Request] [cp: rpc: use pre-configured txNumReader (it's thread-safe)](https://github.com/erigontech/erigon/pull/15782) - 2025-06-27
+* [Pull Request] [cp: workflow fixes to release](https://github.com/erigontech/erigon/pull/15818) - 2025-06-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e626434e78a5d5fddc58f1c9defa52faf062b13a) - 2025-06-28
+* [Pull Request] [rpctest invariantsEthGetLogs: speedup](https://github.com/erigontech/erigon/pull/15817) - 2025-06-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

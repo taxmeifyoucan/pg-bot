@@ -140,6 +140,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: fix bad log for limited big jump](https://github.com/erigontech/erigon/pull/15796) - 2025-06-27
 * [Commit] [txnprovider/shutter: prevent panic in TestShutterBlockBuilding (#15792)](https://github.com/erigontech/erigon/commit/cee82f96d63042fdd4095040ccd369428369ac4b) - 2025-06-27
 * [Pull Request] [txnprovider/shutter: prevent panic in TestShutterBlockBuilding](https://github.com/erigontech/erigon/pull/15792) - 2025-06-27
+* [Commit] [Added chain-specific gas limit defaults (#15619) (#15802)](https://github.com/erigontech/erigon/commit/61dd0cb5ffa170b2370d972d34977e17940048c4) - 2025-06-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

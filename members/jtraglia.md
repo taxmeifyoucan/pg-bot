@@ -149,6 +149,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Clarify peering expectations when `nfd` values are different (#4407)](https://github.com/ethereum/consensus-specs/commit/342b270f9ad89bccd9b29acb09f36156442ae604) - 2025-06-27
 * [Commit] [Add some clarifications around new ENR changes (#4406)](https://github.com/ethereum/consensus-specs/commit/c62751c37a14a286f97e2452d8202bcde928842d) - 2025-06-27
 * [Commit] [Remove peer sampling in Fulu (#4393)](https://github.com/ethereum/consensus-specs/commit/8df5d119ba9ed547c826d29bcb1783eb8c86474f) - 2025-06-27
+* [Commit] [Test proposer lookahead initialization uses active validator set at fork (#4413)](https://github.com/ethereum/consensus-specs/commit/50e2cc586747cb9a70c30f8b5ee2c56226bb268d) - 2025-06-28
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 

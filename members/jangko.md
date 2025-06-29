@@ -111,3 +111,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Increase rpc http server chunk size to 1 MBytes](https://github.com/status-im/nimbus-eth1/pull/3417) - 2025-06-20
 * [Pull Request] [Reduce declared/import but not used](https://github.com/status-im/nimbus-eth1/pull/3424) - 2025-06-24
 * [Pull Request] [eth_sendRawTransaction return inner tx hash and not the pooled tx hash](https://github.com/status-im/nimbus-eth1/pull/3430) - 2025-06-26
+* [Commit] [Add fallback to old withdrawals format](https://github.com/status-im/nimbus-eth1/commit/2aa61ada749e92fce1758adc331ed7ca2975851f) - 2025-06-28
+* [Pull Request] [Optimize getPayloadBodiesByHash/ByRange](https://github.com/status-im/nimbus-eth1/pull/3433) - 2025-06-28
+* [Commit] [Optimize getPayloadBodiesByHash/ByRange](https://github.com/status-im/nimbus-eth1/commit/ce240eeea6a24e4db4080c1f14e39080044051fe) - 2025-06-28
+* [Commit] [Fix](https://github.com/status-im/nimbus-eth1/commit/5ec361ea828f5cd30cb669d666effb8565c338de) - 2025-06-28
+* [Pull Request] [Transaction hashes broadcast handler: use inner tx hash + PooledTransaction size](https://github.com/status-im/nimbus-eth1/pull/3432) - 2025-06-28

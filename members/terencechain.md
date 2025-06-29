@@ -86,6 +86,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Remove invalid from logs for blob sidecars missing parent or out of range](https://github.com/OffchainLabs/prysm/commit/e59be2825d707532ed46cba5412ccb3d3eeb7cbb) - 2025-06-22
 * [Pull Request] [Refine blob sidecar logging for IGNORE cases](https://github.com/OffchainLabs/prysm/pull/15428) - 2025-06-22
 * [Commit] [Remove invalid from logs for blob sidecars missing parent or out of range](https://github.com/OffchainLabs/prysm/commit/f3743a1ccf654cde8cc5043dc9107b55ded73700) - 2025-06-22
+* [Commit] [Add log capitalization analyzer and apply fixes across codebase](https://github.com/OffchainLabs/prysm/commit/c202eb4c0872d9b650e643a88164634f69850b95) - 2025-06-28
+* [Commit] [Add log capitalization analyzer and apply fixes across codebase](https://github.com/OffchainLabs/prysm/commit/99b810e5365d303c3dcb2949d856b07aa89744f8) - 2025-06-28
+* [Commit] [Add log capitalization analyzer and apply fixes across codebase](https://github.com/OffchainLabs/prysm/commit/1189687db384f4d9d5a28772176a9c6804303678) - 2025-06-28
+* [Commit] [Add log capitalization analyzer and apply fixes across codebase](https://github.com/OffchainLabs/prysm/commit/5a671af1c3e1494db900fe816b9a675580fa5687) - 2025-06-28
+* [Commit] [Add log capitalization analyzer and apply fixes across codebase](https://github.com/OffchainLabs/prysm/commit/bbc369e1b2ba34918d4f680f2225393107ae47f0) - 2025-06-28
+* [Commit] [Add log capitalization analyzer and apply fixes across codebase](https://github.com/OffchainLabs/prysm/commit/b21176bd45d22c25637e782a5cabec258ebdb06f) - 2025-06-28
+* [Commit] [Add log capitalization analyzer and apply fixes across codebase](https://github.com/OffchainLabs/prysm/commit/37e1c04f8ab19b9d6cb13ae40c44f0a7c63fedec) - 2025-06-28
+* [Commit] [Add log capitalization analyzer and apply fixes across codebase](https://github.com/OffchainLabs/prysm/commit/5008fbd81eb7fb1d78ae371d712ba22037d79a02) - 2025-06-28
+* [Commit] [Add log capitalization analyzer and apply fixes across codebase](https://github.com/OffchainLabs/prysm/commit/a8d4473b26dcd3fdf60cafb28f850685bcac2036) - 2025-06-28
+* [Pull Request] [Add log capitalization analyzer and apply changes](https://github.com/OffchainLabs/prysm/pull/15452) - 2025-06-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Update fulu p2p spec for BPO](https://github.com/ethereum/consensus-specs/issues/4331) - 2025-05-19
 ## Q1 2025

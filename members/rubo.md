@@ -94,6 +94,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Replace Nethermind.Gmp with Nethermind.GmpBindings (#8799)](https://github.com/NethermindEth/nethermind/commit/55fe750c2217762c3f4b682ab163e5214a78edfc) - 2025-06-26
 * [Commit] [Only create Spec once per block (#8855)](https://github.com/NethermindEth/nethermind/commit/cc953a1e1375d1d8133b92655211597336709412) - 2025-06-26
 * [Commit] [Replace Nethermind.Gmp with Nethermind.GmpBindings (#8799)](https://github.com/NethermindEth/nethermind/commit/418bdca5732b45c69f4cc2baa56587aaa00cc514) - 2025-06-26
+* [Commit] [Bump up version](https://github.com/NethermindEth/nethermind/commit/146bdb6cdef68744c8efa2df6f42451962c2b74d) - 2025-06-28
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

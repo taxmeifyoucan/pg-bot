@@ -23,3 +23,4 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [EIP-7805: Add IL sidecar](https://github.com/ethereum/EIPs/pull/9925) - 2025-06-23
 * [Pull Request] [EIP-XXXX: Add AL repricing EIP](https://github.com/ethereum/EIPs/pull/9946) - 2025-06-27
 * [Pull Request] [More compact structure](https://github.com/ethereum/EIPs/pull/9944) - 2025-06-27
+* [Pull Request] [EIP-7928: Add assets folder with analysis](https://github.com/ethereum/EIPs/pull/9948) - 2025-06-28

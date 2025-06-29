@@ -247,6 +247,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: add should_override_forkchoice_update spec test check](https://github.com/ChainSafe/lodestar/commit/d01071c1485140d9f2c61533cd3aac315b8956c9) - 2025-06-27
 * [Commit] [feat: define `SubscribeBoundary` (#7968)](https://github.com/ChainSafe/lodestar/commit/8123b07c2c51678e679072d7912b271e26429f88) - 2025-06-27
 * [Issue] [Sort attestations for block by profitability](https://github.com/ChainSafe/lodestar/issues/8019) - 2025-06-27
+* [Commit] [Add var for proposalSlot](https://github.com/ChainSafe/lodestar/commit/cf61d7dfad188d1930f6617ea80b55a8cd3e5f09) - 2025-06-28
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

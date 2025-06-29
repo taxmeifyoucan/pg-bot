@@ -292,6 +292,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/721a3b9929c81de3dc277106f47e41b9c5934d91) - 2025-06-27
 * [Commit] [Remove unused class](https://github.com/NethermindEth/nethermind/commit/63cbbb2f309b62637b1497f0957ab97444ffc502) - 2025-06-27
 * [Pull Request] [Refactor/deduplicate block producer env](https://github.com/NethermindEth/nethermind/pull/8871) - 2025-06-27
+* [Commit] [Reduce use of InitializeNetworkProtocol and review step dependencies (#8859)](https://github.com/NethermindEth/nethermind/commit/531fb12dca6bcd1e5c39b876ca3b7ae1bc5ebd5a) - 2025-06-28
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/bfe5e2aafbbdbc78efa7b7b9399649f32bc9937b) - 2025-06-28
+* [Commit] [Remove unnecessary code](https://github.com/NethermindEth/nethermind/commit/9510fbd20937d8b1fd265b7de341c3cb6f840221) - 2025-06-28
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/68fb96d14be78fa77dd45ea2d349bd0246c2b8c5) - 2025-06-28
+* [Commit] [Remove init](https://github.com/NethermindEth/nethermind/commit/ec6472aa6b09842824b26255ebb06189e865566c) - 2025-06-28
+* [Commit] [Don't broadcast txs while processing a block (#8820)](https://github.com/NethermindEth/nethermind/commit/e859bd71e7051f0ad776560e20f195bd66ac43f2) - 2025-06-28
+* [Commit] [Refactor/deduplicate block producer env (#8871)](https://github.com/NethermindEth/nethermind/commit/a81b23fa7b67d2a0cb827e819c40809651ba669d) - 2025-06-28
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

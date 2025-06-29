@@ -35,6 +35,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Commit] [Update BlocksConfig.cs](https://github.com/NethermindEth/nethermind/commit/ae2f85762f17fcc6652d0f7061b8b82d21d4e91b) - 2025-06-23
 * [Commit] [Update OP Superchain chains (#8827)](https://github.com/NethermindEth/nethermind/commit/2ca7ec584b5054f9ec50f6e4195f978018da7374) - 2025-06-23
 * [Commit] [Update Sepolia AncientBarriers to 1450409 per EIP-3675 for pre-merge PoW history expiry (#8835)](https://github.com/NethermindEth/nethermind/commit/abfeb3e1358cb43e18238e5045baa7c9d9064955) - 2025-06-24
+* [Commit] [Update remove-unused-usings.yml](https://github.com/NethermindEth/nethermind/commit/d4d914e947645931b36ab7753bc8e6b25c24666a) - 2025-06-28
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

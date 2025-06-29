@@ -274,6 +274,7 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/30be7dafc232d8beb12e11099780eff705c0088e) - 2025-06-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2b701fc78923d1254450cb84441879450409c19c) - 2025-06-27
 * [Pull Request] [Caplin: Fix holesky/hoodi startup on develop](https://github.com/erigontech/erigon/pull/15797) - 2025-06-27
+* [Commit] [Tune historical proving and removed old versions of commitment history (#15714)](https://github.com/erigontech/erigon/commit/76e9c9a55a1b2b2d00eccb1cca413c49ab714ab4) - 2025-06-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 

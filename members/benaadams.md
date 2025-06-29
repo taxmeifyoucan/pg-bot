@@ -374,6 +374,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Optimise OpOrigin (#8867)](https://github.com/NethermindEth/nethermind/commit/23938395f61e248a349176b31259c0042c144131) - 2025-06-27
 * [Commit] [Add BuilderNet to highlighted log brands (#8870)](https://github.com/NethermindEth/nethermind/commit/067ce10b8a7ef6653ed6c4efa29fd5a46d4935b0) - 2025-06-27
 * [Pull Request] [Add BuilderNet to highlighted log brands](https://github.com/NethermindEth/nethermind/pull/8870) - 2025-06-27
+* [Commit] [Trim JsonRpc Webhost](https://github.com/NethermindEth/nethermind/commit/dfebebc101932207aaaab550da6ff4101c77973d) - 2025-06-28
+* [Commit] [Trim JsonRpc Webhost](https://github.com/NethermindEth/nethermind/commit/53f645a4b2e0eba6e8425e4c963fd0fe498b6e06) - 2025-06-28
+* [Commit] [Update src/Nethermind/Nethermind.Runner/JsonRpc/NullDiagnosticListener.cs](https://github.com/NethermindEth/nethermind/commit/86ff9ddd8c6263e2e91a09aad1753c6e8c990ca6) - 2025-06-28
+* [Commit] [Add BuilderNet to highlighted log brands (#8870)](https://github.com/NethermindEth/nethermind/commit/067ce10b8a7ef6653ed6c4efa29fd5a46d4935b0) - 2025-06-28
+* [Commit] [Trim JsonRpc Webhost](https://github.com/NethermindEth/nethermind/commit/d3a0faa6a16f24044e4d7d0a2f483e1a05cd3e8d) - 2025-06-28
+* [Commit] [Trim JsonRpc Webhost](https://github.com/NethermindEth/nethermind/commit/ff8005bd08b8f51b5b979696b443aac9b7b47c54) - 2025-06-28
+* [Pull Request] [Trim JsonRpc Webhost](https://github.com/NethermindEth/nethermind/pull/8879) - 2025-06-28
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

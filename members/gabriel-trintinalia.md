@@ -148,6 +148,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [Adds an optional code size to the flat db account](https://github.com/hyperledger/besu/pull/8860) - 2025-06-26
 * [Commit] [[fusaka-devnet-2] Add codesize index (#8865)](https://github.com/hyperledger/besu/commit/5f0695b45e1b6a47a8ec5c607d795aeeb863620e) - 2025-06-27
 * [Pull Request] [[fusaka-devnet-2] Add codesize index](https://github.com/hyperledger/besu/pull/8865) - 2025-06-27
+* [Commit] [Ignore codesize for pmt (#8873)](https://github.com/hyperledger/besu/commit/075415995188480ce58126bf5d790d5a9d192878) - 2025-06-28
+* [Pull Request] [[fusaka-devnet-2] fix: Ignore codesize for pmt](https://github.com/hyperledger/besu/pull/8873) - 2025-06-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

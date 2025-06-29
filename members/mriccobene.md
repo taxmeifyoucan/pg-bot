@@ -79,6 +79,8 @@ Team: Erigon
 * [Pull Request] [[r30] qa-tests: fix and improve gnosis tip-tracking](https://github.com/erigontech/erigon/pull/15706) - 2025-06-23
 * [Commit] [qa-tests: temporarily disable bor-mainnet from sync-from-scratch test (#15679)](https://github.com/erigontech/erigon/commit/bdf0d53af18f17ac5887c3caa5de210721cbd719) - 2025-06-23
 * [Commit] [qa-tests: avoid running clean-exit test on the "rpc" runner (#15545)](https://github.com/erigontech/erigon/commit/3b5c01bb39350fd50d2cb296551ffc45450316eb) - 2025-06-23
+* [Commit] [remove invalid import](https://github.com/erigontech/erigon/commit/d548ca650efa525d0e93a40cfa717fd06d712c16) - 2025-06-28
+* [Commit] [txpool: Add higher tipThreshold for higher value replace txn (#15667)](https://github.com/erigontech/erigon/commit/fca1869d58d0de5491c6ab52ea1c885045a5568e) - 2025-06-28
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

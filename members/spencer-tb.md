@@ -151,6 +151,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(ci|docs): rename zkevm releases to benchmark.](https://github.com/ethereum/execution-spec-tests/commit/c49eb319b7233f6d5ed9cbb2b85406f0327d96dc) - 2025-06-26
 * [Commit] [test(zkevm): add extra test case for ecAdd, ecMul and ecPairing (#1799)](https://github.com/ethereum/execution-spec-tests/commit/6ee9787d55cb6449c35a2a105a02afcd884cb9d3) - 2025-06-26
 * [Commit] [Update .github/PULL_REQUEST_TEMPLATE.md](https://github.com/ethereum/execution-spec-tests/commit/9ebccb2e8c515ba32c0b90909046cc755c3f6eb4) - 2025-06-26
+* [Commit] [fix(github): Coverage check for modified files (#1817)](https://github.com/ethereum/execution-spec-tests/commit/cc5fc26aec80b9055303830bb2cf4c5641d68373) - 2025-06-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1275) - 2025-06-10
 * [Pull Request] [feat(osaka): add eip-7939 count leading zeros opcode](https://github.com/ethereum/execution-specs/pull/1274) - 2025-06-10

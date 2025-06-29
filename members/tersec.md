@@ -198,6 +198,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [add BPO forkdigest tests (#7264)](https://github.com/status-im/nimbus-eth2/commit/d3559fbb72c56426e7137d7dbb660238ca81dc64) - 2025-06-26
 * [Commit] [add BPO forkdigest tests](https://github.com/status-im/nimbus-eth2/commit/5adb0c6b6469d8026a49bc39dab7445f57824586) - 2025-06-26
 * [Pull Request] [add BPO forkdigest tests](https://github.com/status-im/nimbus-eth2/pull/7264) - 2025-06-26
+* [Commit] [bump nim-eth to `92a02b672f60e6b5e5ea570d684904c289b495fa` (#7209)](https://github.com/status-im/nimbus-eth2/commit/33037542d78ac2b6a03c5abb2e516706a61cb24d) - 2025-06-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Andri Lim](https://github.com/protocolguild/documentation/pull/348) - 2025-04-12
 

@@ -115,3 +115,6 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [add: CLZ opcode (#3423)](https://github.com/status-im/nimbus-eth1/commit/e7c6971e476a253cca33731e1cca2c9f0dfdb617) - 2025-06-24
 * [Commit] [secp256r1 precompile (#3382)](https://github.com/status-im/nimbus-eth1/commit/f8a60443700a0b8aaa93925558dfabcc8d116d6b) - 2025-06-26
 * [Commit] [remove usage of results and log for more details on getPayloadBodies](https://github.com/status-im/nimbus-eth1/commit/477f653250fd8496ec2a7d72aaaf69478a31e86d) - 2025-06-27
+* [Commit] [Increase rpc http server chunk size to 1 MBytes (#3417)](https://github.com/status-im/nimbus-eth1/commit/fae85d9342b620eeaa382612aaf574d9d8f64b43) - 2025-06-28
+* [Commit] [Improves logging](https://github.com/status-im/nimbus-eth1/commit/da0dbb2d658a743ce9bccd6a9f31db2a7e91bcb0) - 2025-06-28
+* [Commit] [eth_sendRawTransaction return inner tx hash and not the pooled tx hash (#3430)](https://github.com/status-im/nimbus-eth1/commit/25ad87b573b49eeff520dbb4750028f067f6b4e1) - 2025-06-28
