@@ -248,6 +248,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: define `SubscribeBoundary` (#7968)](https://github.com/ChainSafe/lodestar/commit/8123b07c2c51678e679072d7912b271e26429f88) - 2025-06-27
 * [Issue] [Sort attestations for block by profitability](https://github.com/ChainSafe/lodestar/issues/8019) - 2025-06-27
 * [Commit] [Add var for proposalSlot](https://github.com/ChainSafe/lodestar/commit/cf61d7dfad188d1930f6617ea80b55a8cd3e5f09) - 2025-06-28
+* [Commit] [Update logs](https://github.com/ChainSafe/lodestar/commit/3bceed2b2543d803704f3d753cb9b606a0597868) - 2025-06-29
+* [Pull Request] [feat: increase default gas limit to 45M](https://github.com/ChainSafe/lodestar/pull/8024) - 2025-06-29
+* [Commit] [Fix unit tests](https://github.com/ChainSafe/lodestar/commit/bfb6d48ec56453858926b8433d37517aecc601a0) - 2025-06-29
+* [Commit] [Fix default config imports](https://github.com/ChainSafe/lodestar/commit/30dab95603ef0921cc912cf1ac096d33fe251fd4) - 2025-06-29
+* [Commit] [feat: modify fork digest to distinguish BPO forks](https://github.com/ChainSafe/lodestar/commit/8d7058222280d3f16c9341c76b8789cec00bdc15) - 2025-06-29
+* [Pull Request] [feat: add next fork digest (nfd) entry to ENR](https://github.com/ChainSafe/lodestar/pull/8023) - 2025-06-29
+* [Pull Request] [feat: modify fork digest to distinguish BPO forks](https://github.com/ChainSafe/lodestar/pull/8022) - 2025-06-29
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

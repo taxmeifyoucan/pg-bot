@@ -40,6 +40,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Update text for L2s for clarity](https://github.com/protocolguild/documentation/commit/5e5a1f6af00026fc6c02657499441e814cb66038) - 2025-06-02
 * [Commit] [Update mainnet claim multisig](https://github.com/protocolguild/documentation/commit/774d79e13280327bf7c9efbb61fbfa2a9a38b2bd) - 2025-06-02
 * [Commit] [Add all vesting, ptw and split contracts](https://github.com/protocolguild/documentation/commit/306929402f859970240c6046151c0ecef43b8828) - 2025-06-06
+* [Commit] [Remove Daniel Lazarenko](https://github.com/protocolguild/documentation/commit/8d30b2cdf251108b984e8b3aa0521a1ccf93c3f6) - 2025-06-29
+* [Commit] [remove jacob kaufmann](https://github.com/protocolguild/documentation/commit/4f7add6eac4f2233e44e1415f41708bc148a4cad) - 2025-06-29
+* [Commit] [Remove Jacek Glen](https://github.com/protocolguild/documentation/commit/21bde32b10a71efefc50dc7755c281f5bc96b759) - 2025-06-29
+* [Commit] [Update project for bzawisto](https://github.com/protocolguild/documentation/commit/98b7d10fd4da375c66230aea402668ab82d7ebd0) - 2025-06-29
+* [Commit] [Update 02-membership.md](https://github.com/protocolguild/documentation/commit/058ef47e82c5149ff3a9166d806da4e74a7469c7) - 2025-06-29
 ## Q1 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

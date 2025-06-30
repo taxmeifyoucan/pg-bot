@@ -203,6 +203,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/b4395ad5bbfafb2f0b5ae4582509e0a9d5b962b0) - 2025-06-28
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/f5614745e8482be74a13962ded248b3bdd89fc2e) - 2025-06-28
 * [Commit] [Fix/txpool params (#15718)](https://github.com/erigontech/erigon/commit/99c5168077d16f5d17d4d62503789637d558713b) - 2025-06-28
+* [Commit] [update](https://github.com/erigontech/erigon/commit/26d1d75482718624e917a89eff76b1fb5b44a441) - 2025-06-29
+* [Commit] [update](https://github.com/erigontech/erigon/commit/1b13f1912659f9615d7c5a4a78dfc4d65c61b661) - 2025-06-29
+* [Commit] [update](https://github.com/erigontech/erigon/commit/861cd0313a885c2c6261998168cea91041a06b79) - 2025-06-29
+* [Commit] [lint warning](https://github.com/erigontech/erigon/commit/22083f07f7de4457913a11c5b7b28feea782ecba) - 2025-06-29
+* [Commit] [update](https://github.com/erigontech/erigon/commit/c1cc4fa38c1a969cc66014c0bbd82cf12ab08c24) - 2025-06-29
+* [Commit] [update](https://github.com/erigontech/erigon/commit/4db29fe8cdb765b8b6b8ce669b98c69a75266236) - 2025-06-29
+* [Commit] [update](https://github.com/erigontech/erigon/commit/46f1b97a49b7baa33dc1a0351097ee60d7d870f8) - 2025-06-29
+* [Commit] [[r31] integrity ReceiptsNoDupsRange: parallel  (#15820)](https://github.com/erigontech/erigon/commit/b14c41fa5bd461565a47c7439f3483fc123d27c8) - 2025-06-29
+* [Pull Request] [WIP: fulu devnet2](https://github.com/erigontech/erigon/pull/15824) - 2025-06-29
+* [Commit] [enode id](https://github.com/erigontech/erigon/commit/fb980543a0aec96c209a5a770c1d7266cd36aab9) - 2025-06-29
+* [Commit] [Tune historical proving and removed old versions of commitment history (#15714)](https://github.com/erigontech/erigon/commit/76e9c9a55a1b2b2d00eccb1cca413c49ab714ab4) - 2025-06-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

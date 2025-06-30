@@ -108,6 +108,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Remove instrumenting log level (#7620)](https://github.com/sigp/lighthouse/commit/d50924677a34f63eb51cc45e1c356f492711ea77) - 2025-06-23
 * [Pull Request] [Un-ignore EF test for v1.6.0-alpha.1](https://github.com/sigp/lighthouse/pull/7632) - 2025-06-23
 * [Issue] [Flag to try syncing blobs/columns beyond DA window](https://github.com/sigp/lighthouse/issues/7628) - 2025-06-23
+* [Commit] [Implement `validator_identities` Beacon API endpoint (#7462)](https://github.com/sigp/lighthouse/commit/cef04ee2ee480100269d1b94baf1c72279a5606b) - 2025-06-29
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

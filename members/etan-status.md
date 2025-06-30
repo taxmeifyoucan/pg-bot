@@ -20,6 +20,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update EIP-7916: Extend tests with nested progressive lists](https://github.com/ethereum/EIPs/pull/9879) - 2025-06-09
 * [Pull Request] [Update EIP-7916: Tree grows left / Added ProgressiveBitlist](https://github.com/ethereum/EIPs/pull/9931) - 2025-06-24
 * [Pull Request] [Update EIP-7495: Use progressive tree shape / Drop optionals](https://github.com/ethereum/EIPs/pull/9942) - 2025-06-26
+* [Pull Request] [Update EIP-6404: Use SSZ `ProgressiveContainer` / `Union`](https://github.com/ethereum/EIPs/pull/9950) - 2025-06-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Cleanup libunwind remnants](https://github.com/status-im/nimbus-eth2/pull/7097) - 2025-04-22
 * [Commit] [Cleanup libunwind remnants](https://github.com/status-im/nimbus-eth2/commit/0bb4691a4893ccfc3068eb463bf25fe59b46ea43) - 2025-04-22

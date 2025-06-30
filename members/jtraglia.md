@@ -150,6 +150,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add some clarifications around new ENR changes (#4406)](https://github.com/ethereum/consensus-specs/commit/c62751c37a14a286f97e2452d8202bcde928842d) - 2025-06-27
 * [Commit] [Remove peer sampling in Fulu (#4393)](https://github.com/ethereum/consensus-specs/commit/8df5d119ba9ed547c826d29bcb1783eb8c86474f) - 2025-06-27
 * [Commit] [Test proposer lookahead initialization uses active validator set at fork (#4413)](https://github.com/ethereum/consensus-specs/commit/50e2cc586747cb9a70c30f8b5ee2c56226bb268d) - 2025-06-28
+* [Commit] [Add PeerDAS tests (#4391)](https://github.com/ethereum/consensus-specs/commit/815751ecb3debc11c47aa67ffbf2ecde1c941c4e) - 2025-06-29
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Nightly tests](https://github.com/OffchainLabs/prysm/pull/15312) - 2025-05-22
 

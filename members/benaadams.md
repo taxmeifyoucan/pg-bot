@@ -381,6 +381,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Trim JsonRpc Webhost](https://github.com/NethermindEth/nethermind/commit/d3a0faa6a16f24044e4d7d0a2f483e1a05cd3e8d) - 2025-06-28
 * [Commit] [Trim JsonRpc Webhost](https://github.com/NethermindEth/nethermind/commit/ff8005bd08b8f51b5b979696b443aac9b7b47c54) - 2025-06-28
 * [Pull Request] [Trim JsonRpc Webhost](https://github.com/NethermindEth/nethermind/pull/8879) - 2025-06-28
+* [Pull Request] [Optimize BlockForRpc for eth_getBlockByNumber](https://github.com/NethermindEth/nethermind/pull/8883) - 2025-06-30
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Default ExtraData to "besu vM.m.p" rather than empty](https://github.com/hyperledger/besu/pull/8536) - 2025-04-09
 ## Q1 2025

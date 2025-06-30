@@ -59,6 +59,9 @@ Team: Consensus R&D (EF)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore!: Use gnark instead of cloudflare](https://github.com/ethereum/go-ethereum/pull/32024) - 2025-06-13
 * [Pull Request] [chore: fix gnark deserialisation](https://github.com/ethereum/go-ethereum/pull/32055) - 2025-06-17
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [chore(DONOTMERGE): Example of allowing downstream users to override certain precompile methods using extern C](https://github.com/bluealloy/revm/pull/2675) - 2025-06-29
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

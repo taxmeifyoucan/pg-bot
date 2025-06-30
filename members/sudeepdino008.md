@@ -330,6 +330,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cp: workflow fixes to release](https://github.com/erigontech/erigon/pull/15818) - 2025-06-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e626434e78a5d5fddc58f1c9defa52faf062b13a) - 2025-06-28
 * [Pull Request] [rpctest invariantsEthGetLogs: speedup](https://github.com/erigontech/erigon/pull/15817) - 2025-06-28
+* [Commit] [cp: workflow fixes to release (#15818)](https://github.com/erigontech/erigon/commit/b89bdc48df27dadb733ae462c25eac6ef46f4959) - 2025-06-29
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/c37f7a598f4c399e6a7153fc01f62a2ff711c174) - 2025-06-29
+* [Commit] [fix concurrency groups (CG) for workflow jobs (#15723)](https://github.com/erigontech/erigon/commit/2ebd1c38b07bc491774d0f5cb28d7338423aa3aa) - 2025-06-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

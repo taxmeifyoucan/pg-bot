@@ -2766,6 +2766,47 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/fc2a6d31166168681757364c6e1099bbc439a0e1) - 2025-06-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d0883eaa2d9c950865f0fed33dd187acc540eedf) - 2025-06-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b128026b9d7f15dd0ea9f7fff9b79ddb04903ce5) - 2025-06-28
+* [Commit] [chore: Fix hyperlinks across (#15832)](https://github.com/erigontech/erigon/commit/2632f2c8e2c103bb04e94ccaa790dfd5f0cd3413) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/96fc4f6266be55a4dcff5c2047b164230804541d) - 2025-06-29
+* [Commit] [rpctest invariantsEthGetLogs: speedup (#15817)](https://github.com/erigontech/erigon/commit/9c41e081347a7f4dc2b68f59f94e69536feebc47) - 2025-06-29
+* [Pull Request] [receipts: AssertLogIndex](https://github.com/erigontech/erigon/pull/15831) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e6c434e30793b01fa4900c9ce6066dd511ad87f0) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/863c886581391ea68db9bf3f9a1b44324f9dd0cb) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2fa746d4307cce9cc78d888b64f8500ee9f0491e) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/23f41543c284923bd6092b8c7f2f3704f3c05b53) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c567b04f2fb15432452c7eca47be3cdace921df8) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/78f0031b0d0538086b82d4e85be85dac7e56959d) - 2025-06-29
+* [Commit] [chore: Mass fix spellings and grammar (#15830)](https://github.com/erigontech/erigon/commit/4e807726ec7e3da7b8a12a176723aa3b2f737d2c) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4e43a9c04063e7328d2aaf4d590d96c2b156d551) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cb9dce8dc73b9a4d332a39dc952884bc44e1aaff) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/62f5c341333a80bc15906cf9a45c6201fe8d010f) - 2025-06-29
+* [Commit] [Revert "Caplin: Fix holesky/hoodi startup on develop" with the correct fix :) (#15826)](https://github.com/erigontech/erigon/commit/b634383f135fc31487b0d562d88b3d874fcf8147) - 2025-06-29
+* [Commit] [Cherry-Pick: Caplin: skip DA checks on long distances  (#15806) (#15828)](https://github.com/erigontech/erigon/commit/428c5a0a06c36b67971ff5e01e5a33066730cc06) - 2025-06-29
+* [Commit] [Cherry-Pick: removed failsafe hack in fcu (#15829)](https://github.com/erigontech/erigon/commit/6400077953e3f1bb280faf9475a7999f24a3b868) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/389f1e9a64a141ab414e09e400ebce934e9e0ccd) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/db7816a5e0845555554d82b0ba7b9bd4c82c2d51) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b32566ec2c3c154a466d22ea6abe1fadda2168be) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/40766dbaee8e031cd1ed90c6998daf18297be7a1) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c1c9cc72db5287671a7366e86f3e5d6811a17ab1) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/72b0c2d32dfc1ea37cbe4961060b3c2ba9ba49c9) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/87ef43cdb077a0977a8e6b89d2c6d88ba0a4115d) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e5caf74816ca4b1555af6c9a1c97de2b9f566246) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f4679795413934ba0aa5b85ec3aa297f78937705) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8fceac515976d18f9c542cbed979b408258b44f5) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/97497a530734ee71b8ebf55472d4f71e715f62fd) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3a6048c4ee0531cf1080bafdb390bfcdf9952f0a) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b708579687f7301abaae4b799e21117b503db04e) - 2025-06-29
+* [Commit] [[r30] rpctest invariantsEthGetLogs: speedup (#15825)](https://github.com/erigontech/erigon/commit/ea5d721dfc04dd7854f7070e9c109cbe0d2a9fd8) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c993506a634dfe7db252b18401b321e1647b01ff) - 2025-06-29
+* [Pull Request] [[r30] rpctest invariantsEthGetLogs: speedup](https://github.com/erigontech/erigon/pull/15825) - 2025-06-29
+* [Issue] [ReceiptGenerator: print more info when dbg enabled](https://github.com/erigontech/erigon/issues/15823) - 2025-06-29
+* [Issue] [Investigate `128 steps` merge limit of state history segments](https://github.com/erigontech/erigon/issues/15822) - 2025-06-29
+* [Issue] [increase merge limit of e2 files to 500K](https://github.com/erigontech/erigon/issues/15821) - 2025-06-29
+* [Pull Request] [[r31] integrity ReceiptsNoDupsRange: parallel ](https://github.com/erigontech/erigon/pull/15820) - 2025-06-29
+* [Commit] [[r30] integrity ReceiptsNoDupsRange: parallel  (#15816)](https://github.com/erigontech/erigon/commit/dafe274d6f1ce7f3642623ffc373f686c1e1ef1f) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b9f409d3a7a04de86d9e30f0f4bc2bab4a72faf8) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b83b42e9f46d72dc2295553c759dcdd7643d1c6f) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/afaec1708500ead611643804baf1b69e9bf220d9) - 2025-06-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

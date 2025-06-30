@@ -96,6 +96,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add log capitalization analyzer and apply fixes across codebase](https://github.com/OffchainLabs/prysm/commit/5008fbd81eb7fb1d78ae371d712ba22037d79a02) - 2025-06-28
 * [Commit] [Add log capitalization analyzer and apply fixes across codebase](https://github.com/OffchainLabs/prysm/commit/a8d4473b26dcd3fdf60cafb28f850685bcac2036) - 2025-06-28
 * [Pull Request] [Add log capitalization analyzer and apply changes](https://github.com/OffchainLabs/prysm/pull/15452) - 2025-06-28
+* [Commit] [Increase mainnet default builder gas limit to 45M](https://github.com/OffchainLabs/prysm/commit/dc80b1ec4f4c7f79d1a15c31c860b8d0dd8e4064) - 2025-06-29
+* [Commit] [Increase mainnet default builder gas limit to 45M](https://github.com/OffchainLabs/prysm/commit/c5a7d9fe3fe5d98e2c992a70c77bc56d740a43cf) - 2025-06-29
+* [Pull Request] [Increase mainnet default builder gas limit to 45M](https://github.com/OffchainLabs/prysm/pull/15455) - 2025-06-29
+* [Commit] [Increase mainnet default builder gas limit to 45M](https://github.com/OffchainLabs/prysm/commit/e396a2126a8d1a782358663f683ed1705480419d) - 2025-06-29
+* [Commit] [Use 1000 for verifier limit](https://github.com/OffchainLabs/prysm/commit/54a34b5ed91e2ca53931c0d0d6edfbe574a1b64a) - 2025-06-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Update fulu p2p spec for BPO](https://github.com/ethereum/consensus-specs/issues/4331) - 2025-05-19
 ## Q1 2025

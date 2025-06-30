@@ -95,6 +95,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Only create Spec once per block (#8855)](https://github.com/NethermindEth/nethermind/commit/cc953a1e1375d1d8133b92655211597336709412) - 2025-06-26
 * [Commit] [Replace Nethermind.Gmp with Nethermind.GmpBindings (#8799)](https://github.com/NethermindEth/nethermind/commit/418bdca5732b45c69f4cc2baa56587aaa00cc514) - 2025-06-26
 * [Commit] [Bump up version](https://github.com/NethermindEth/nethermind/commit/146bdb6cdef68744c8efa2df6f42451962c2b74d) - 2025-06-28
+* [Commit] [Fix CPU compatibility issues (#8882)](https://github.com/NethermindEth/nethermind/commit/7182551996b8f668ac0c8973abd9b75fa01bf001) - 2025-06-29
+* [Commit] [Trim JsonRpc Webhost for lower latency (#8879)](https://github.com/NethermindEth/nethermind/commit/1f9b16a96b5203d830bd817c1954568669edb3d4) - 2025-06-29
+* [Commit] [Fix CPU compatibility issues (#8882)](https://github.com/NethermindEth/nethermind/commit/d3e7eb98b28d0b9c7b58a9fb45e83b640b2e17e6) - 2025-06-29
+* [Commit] [Fix CPU compatibility issues (#8882)](https://github.com/NethermindEth/nethermind/commit/cb102c2f794fd3c5c66c20367c7cce76ad105169) - 2025-06-29
+* [Pull Request] [Fix CPU compatibility issues](https://github.com/NethermindEth/nethermind/pull/8882) - 2025-06-29
+* [Commit] [Add new line](https://github.com/NethermindEth/nethermind/commit/f7c9ed9becd647aa9e208b3fa050a0078785ca78) - 2025-06-29
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

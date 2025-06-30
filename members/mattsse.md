@@ -546,6 +546,8 @@ Team: Reth
 * [Commit] [lint](https://github.com/paradigmxyz/reth/commit/c60a3e50fa8d549236bdbca9e619444e6d504ba6) - 2025-06-26
 * [Pull Request] [chore: bump alloy 1.0.13](https://github.com/paradigmxyz/reth/pull/17072) - 2025-06-26
 * [Pull Request] [feat: include eth_sendRawTransactionSync in eth namesapce](https://github.com/paradigmxyz/reth/pull/17070) - 2025-06-26
+* [Pull Request] [feat(optimism): add debug namespace endpoints to historical RPC forwarding](https://github.com/paradigmxyz/reth/pull/17133) - 2025-06-29
+* [Commit] [feat(optimism): add debug namespace endpoints to historical RPC forwarding](https://github.com/paradigmxyz/reth/commit/375d80e3369c34bb52077de325eec6d5f98e3fbd) - 2025-06-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

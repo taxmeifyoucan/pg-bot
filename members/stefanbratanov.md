@@ -39,6 +39,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Set next_fork_epoch in ENR in Teku](https://github.com/Consensys/teku/commit/254bcf2fcde7efc382422c3e798bc74bf5088aa3) - 2025-06-24
 * [Commit] [Refactor passing of fork digest in gossip (#9607)](https://github.com/Consensys/teku/commit/bcc140dee18eb0af45726c7ab9c0506bb933d05f) - 2025-06-26
 * [Commit] [Refactor passing of fork digest in gossip (#9607)](https://github.com/Consensys/teku/commit/1f71828bd10381a9c3670cfbc73b21ed13dfbdc3) - 2025-06-27
+* [Commit] [revert cherry picking](https://github.com/Consensys/teku/commit/1628c348d7581e9693ad752d8cacdcb19ce17c73) - 2025-06-29
 ## Q1 2025
 
 [consensys/teku](https://github.com/consensys/teku)

@@ -275,6 +275,25 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2b701fc78923d1254450cb84441879450409c19c) - 2025-06-27
 * [Pull Request] [Caplin: Fix holesky/hoodi startup on develop](https://github.com/erigontech/erigon/pull/15797) - 2025-06-27
 * [Commit] [Tune historical proving and removed old versions of commitment history (#15714)](https://github.com/erigontech/erigon/commit/76e9c9a55a1b2b2d00eccb1cca413c49ab714ab4) - 2025-06-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a3012b7437e7c5db9b9bd479122c5d4b110ab9bf) - 2025-06-29
+* [Pull Request] [Cherry-picking genesis reader fixes](https://github.com/erigontech/erigon/pull/15837) - 2025-06-29
+* [Pull Request] [E3: History expiry was not working](https://github.com/erigontech/erigon/pull/15836) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1c119f74edd2a4b6a035f5bdf710e96aced9a969) - 2025-06-29
+* [Commit] [params: version 3.1.0-dev (#13782)](https://github.com/erigontech/erigon/commit/03ea71633743b193b96732bd94a3bdca4a75fe15) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1ee6ca5e634b589ddc4f43ca9c592bc3a22ae157) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/127d5074c560886b4504d57e71e1665724a4b511) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5ce33ad7f507d7a7b263b926172b84fc82b017dc) - 2025-06-29
+* [Commit] [Cherry-Pick: History-expiry phase1 (#15827)](https://github.com/erigontech/erigon/commit/23a957a896788b1291068017361fc8f21e7dc9c6) - 2025-06-29
+* [Pull Request] [Caplin: demote logs in Electra state transition function](https://github.com/erigontech/erigon/pull/15835) - 2025-06-29
+* [Pull Request] [Caplin: Enable Recover panic in gossip handling](https://github.com/erigontech/erigon/pull/15834) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e193b754bdf3ee83d076aa09fb288dc91effc715) - 2025-06-29
+* [Pull Request] [Cherry-Pick: removed failsafe hack in fcu](https://github.com/erigontech/erigon/pull/15829) - 2025-06-29
+* [Pull Request] [Cherry-Pick: Caplin: skip DA checks on long distances  (#15806)](https://github.com/erigontech/erigon/pull/15828) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/63823575038c9fe0ef49670cb1c54754c7fad775) - 2025-06-29
+* [Pull Request] [Cherry-Pick: History-expiry phase1](https://github.com/erigontech/erigon/pull/15827) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/df685fc8921643542a6f68f3a6a810acaa7f9129) - 2025-06-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e499ec2e55c4e0a89a27de2d712f7c5a0f67fde8) - 2025-06-29
+* [Pull Request] [Revert "Caplin: Fix holesky/hoodi startup on develop" with the correct fix :)](https://github.com/erigontech/erigon/pull/15826) - 2025-06-29
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 

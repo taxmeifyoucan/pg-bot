@@ -207,6 +207,12 @@ Team: Erigon
 * [Commit] [txpool: Add higher tipThreshold for higher value replace txn (#15667)](https://github.com/erigontech/erigon/commit/fca1869d58d0de5491c6ab52ea1c885045a5568e) - 2025-06-23
 * [Commit] [cherry-pick changes from feature/lystopad/issue-7893  (#15724)](https://github.com/erigontech/erigon/commit/ad64e6192cc787639e1faff5cca84faa80a9c858) - 2025-06-24
 * [Pull Request] [txpool: Bump default txpool blob limits](https://github.com/erigontech/erigon/pull/15763) - 2025-06-26
+* [Commit] [Fix link](https://github.com/erigontech/erigon/commit/406b27469768485014aa3d88e8d023bb3e5b9fc8) - 2025-06-29
+* [Commit] [Fix stagedsync link](https://github.com/erigontech/erigon/commit/93f2a42b5c99f9c83e11addbc7177bad946e76e9) - 2025-06-29
+* [Pull Request] [chore: Fix hyperlinks across](https://github.com/erigontech/erigon/pull/15832) - 2025-06-29
+* [Commit] [Fix logger](https://github.com/erigontech/erigon/commit/cbd8fe5e395f1c85cba4122c919132577e49fab4) - 2025-06-29
+* [Pull Request] [chore: Mass fix spellings and grammar](https://github.com/erigontech/erigon/pull/15830) - 2025-06-29
+* [Commit] [chore: Mass fix spellings and grammar](https://github.com/erigontech/erigon/commit/bc311c253dd05a1c2c1bf2402bbd05306c0a892f) - 2025-06-29
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
