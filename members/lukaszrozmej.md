@@ -119,6 +119,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Json serializing doubles - decimal part optional for round numbers (#8873)](https://github.com/NethermindEth/nethermind/commit/a412f80bcb9b68a277636056c50747753052fb51) - 2025-06-27
 * [Commit] [adjust tests](https://github.com/NethermindEth/nethermind/commit/f5a9e76004329f3f1c054bfbdc2d19def0e15de6) - 2025-06-27
 * [Pull Request] [Json serializing doubles - decimal part optional for round numbers](https://github.com/NethermindEth/nethermind/pull/8873) - 2025-06-27
+* [Commit] [Auto-update fast sync settings (#8881)](https://github.com/NethermindEth/nethermind/commit/10b6dc957c4f3eb1c5a5dbf4e7814e3093c34e7f) - 2025-06-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Add Nethermind Pectra coordinators](https://github.com/ethereum/pm/pull/1496) - 2025-04-22
 ## Q1 2025

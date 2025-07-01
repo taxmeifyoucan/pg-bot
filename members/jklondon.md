@@ -160,6 +160,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/8b4ca864acfa24adf9626ec968dd7da3efd86a9c) - 2025-06-29
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/4810bf8f9105b5e573692d69f07cce9777bbc97b) - 2025-06-29
 * [Pull Request] [[DON'T MERGE][r3.0] linter fixes](https://github.com/erigontech/erigon/pull/15833) - 2025-06-29
+* [Pull Request] [[r3.1] integrity speedup](https://github.com/erigontech/erigon/pull/15853) - 2025-06-30
+* [Pull Request] [[r3.0] integrity speedup](https://github.com/erigontech/erigon/pull/15852) - 2025-06-30
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/4f72c24f3469214d04b87e0ab41f1851016b3629) - 2025-06-30
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/2d5975641c7a66d5e8a97cd6467c4e2313c0021b) - 2025-06-30
+* [Pull Request] [added dbg logs for receipt generator](https://github.com/erigontech/erigon/pull/15846) - 2025-06-30
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

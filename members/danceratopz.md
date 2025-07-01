@@ -365,6 +365,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(ci): update pr template (#1805)](https://github.com/ethereum/execution-spec-tests/commit/851f9f5bc88d25f869a7fcd7798b10b9c5bceb7e) - 2025-06-27
 * [Commit] [Deployed df014bf76b to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/5f14650b31f9f1bd57d3ccfbdc93daa2b6f6b880) - 2025-06-28
 * [Commit] [Deployed cc5fc26aec to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e2aa2828cedfd2b2c1ca2895c3a73cdbe624c19d) - 2025-06-28
+* [Commit] [style(consume): fix-up simulator init file docstrings](https://github.com/ethereum/execution-spec-tests/commit/743e6f79cd7bdb3eeceeea3fb47d062d8f638eae) - 2025-06-30
+* [Commit] [style(consume): remove file that was unintentionally added in #1718](https://github.com/ethereum/execution-spec-tests/commit/0e42468f88999e65aca8e24c1a659102a94655f1) - 2025-06-30
+* [Commit] [style(consume): remove unused import; fix ruff](https://github.com/ethereum/execution-spec-tests/commit/13b309a2261f58ff65508fc7e376af3f8099c908) - 2025-06-30
+* [Commit] [chore(deps): fix-up ethereum-execution deps post rebase](https://github.com/ethereum/execution-spec-tests/commit/2ac3e4b7865c8138943155bf1183f931932b287c) - 2025-06-30
+* [Commit] [chore(clis): add block rlp size limit errors (eip-7934). (#1789)](https://github.com/ethereum/execution-spec-tests/commit/64f949d08b58c3fa17cfc39a4d5b8b520785cf44) - 2025-06-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): return the receipts list](https://github.com/ethereum/execution-specs/pull/1233) - 2025-05-19
 * [Issue] [bug: t8n doesn't return the expected receipts](https://github.com/ethereum/execution-specs/issues/1235) - 2025-05-20

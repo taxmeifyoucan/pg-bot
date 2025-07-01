@@ -97,6 +97,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [disable flaky CliqueMining test shouldStillMineWhenANodeFails](https://github.com/hyperledger/besu/pull/8866) - 2025-06-27
 * [Commit] [remove deprecated Xsnapsync-bft-enabled option (#8861)](https://github.com/hyperledger/besu/commit/592d6adeec8ca6e8df88327718f726f0e0cd21aa) - 2025-06-27
 * [Commit] [disable flaky test (#8866)](https://github.com/hyperledger/besu/commit/bd7cecbb212e8f15d1120402b7a7832f9f5dfdd1) - 2025-06-29
+* [Pull Request] [verify docker container on develop workflow](https://github.com/hyperledger/besu/pull/8876) - 2025-06-30
+* [Commit] [Deprecate snap server experimental option and add stable option (#8512)](https://github.com/hyperledger/besu/commit/7ae858d45e9744cc7f787f8522fb341f5ce543b5) - 2025-06-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [add Kanchan Kaur partial weight](https://github.com/protocolguild/documentation/pull/345) - 2025-04-11
 ## Q1 2025

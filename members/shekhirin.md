@@ -419,6 +419,29 @@ Team: Reth
 * [Commit] [feat: skip reth-bench compilation by default for faster execution](https://github.com/paradigmxyz/reth/commit/60746fd12654c1ebd58580187664dae24a8d4771) - 2025-06-26
 * [Commit] [feat: add --sudo option to run reth with elevated privileges](https://github.com/paradigmxyz/reth/commit/072fbcea91dafd5bbfca0f1c08ee5021862638f1) - 2025-06-26
 * [Commit] [chore: remove --baseline argument from reth-bench](https://github.com/paradigmxyz/reth/commit/71088f315dc26e3bce3a3287912d7790527b853b) - 2025-06-26
+* [Commit] [fix remove leaf test](https://github.com/paradigmxyz/reth/commit/e66455c452a50f3c750e23561d1d4a2063f69078) - 2025-06-30
+* [Pull Request] [test(trie): copy serial sparse trie tests to parallel sparse trie](https://github.com/paradigmxyz/reth/pull/17148) - 2025-06-30
+* [Commit] [chore: update Cargo.lock for TLS dependencies](https://github.com/paradigmxyz/reth/commit/21c455e4f7363ca489f5d0e1bd725d9bd4faa7fa) - 2025-06-30
+* [Commit] [remove update tests as they don't pass yet](https://github.com/paradigmxyz/reth/commit/a7435f75fb3fd2edb88ef2675521f07154d0f11a) - 2025-06-30
+* [Commit] [feat: add empty root node to ParallelSparseTrie default implementation](https://github.com/paradigmxyz/reth/commit/c51d78e9d5d8c6f5787630699ce700310fbdd16a) - 2025-06-30
+* [Commit] [refactor: migrate RPC chain ID validation from raw JSON-RPC to Alloy](https://github.com/paradigmxyz/reth/commit/d6661376ba71e1cb098d79bd127ae65653e7c0c5) - 2025-06-30
+* [Commit] [refactor: remove redundant Default impl for SparseSubtrie](https://github.com/paradigmxyz/reth/commit/ce196272d3b33c8bdfb85e0e2c51fb516160b451) - 2025-06-30
+* [Commit] [Revert "fix: replace HashMap::from_iter with manual insertion in RevealedSparseTrie"](https://github.com/paradigmxyz/reth/commit/e42dd35da78359da4e0fa29e1bde708846da2780) - 2025-06-30
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/61443e84c8be376b0126a9243e28ba9c90f1a73e) - 2025-06-30
+* [Commit] [refactor: migrate RPC chain ID validation from raw JSON-RPC to Alloy](https://github.com/paradigmxyz/reth/commit/de61f34cc74d82f4ecc5c4c4fffe506831af8533) - 2025-06-30
+* [Commit] [feat: add RPC chain ID validation to prevent network mismatches](https://github.com/paradigmxyz/reth/commit/68919f64dca0f87a080dd962b317c55766f320a7) - 2025-06-30
+* [Commit] [feat: improve command logging format for better readability](https://github.com/paradigmxyz/reth/commit/4d12a137d16c7e9aabc512b32b2dc49fe6800aae) - 2025-06-30
+* [Commit] [refactor: simplify handling of `NetworkPrimitives` in CLI (#17112)](https://github.com/paradigmxyz/reth/commit/fae433319c446fb62c73396eefd2a68c8fb1cd2c) - 2025-06-30
+* [Commit] [fix: add --force flag to git fetch to handle existing tags](https://github.com/paradigmxyz/reth/commit/7fe451425bd88af90b1431f6be60b47dca8e5af6) - 2025-06-30
+* [Commit] [fix: improve git fetch output handling and reduce noise](https://github.com/paradigmxyz/reth/commit/8a8463cd5de8986a8e7f0abd7749ca5f5e7c874c) - 2025-06-30
+* [Commit] [feat: capture and display all command output on failures](https://github.com/paradigmxyz/reth/commit/49686f44d65abee194c1ed27de3a5e8a5cbfeb7c) - 2025-06-30
+* [Commit] [feat: add automatic git fetch before ref validation](https://github.com/paradigmxyz/reth/commit/823979379e3cefcbb5f8e7fe51ce19f4f5defb06) - 2025-06-30
+* [Commit] [refactor: separate compilation logic from GitManager](https://github.com/paradigmxyz/reth/commit/9b77a5e24e7ee527a1d43f9ce6610d19eeef5fcf) - 2025-06-30
+* [Commit] [feat: use Chain type for chain CLI argument instead of string](https://github.com/paradigmxyz/reth/commit/15be069fe352b99fb515bb29d79e46eef778b43a) - 2025-06-30
+* [Commit] [docs: update README.md with latest features and changes](https://github.com/paradigmxyz/reth/commit/bc99f2c0ab169709831f05ed0d20ab29a7496533) - 2025-06-30
+* [Commit] [feat: use log levels instead of custom quiet flag](https://github.com/paradigmxyz/reth/commit/edf259025a2e87c828edea4fd6cc8dac28f4a898) - 2025-06-30
+* [Commit] [fix: rename --quiet to --suppress-output to avoid flag conflict](https://github.com/paradigmxyz/reth/commit/2f51e001b5f92fd4e4527099e590bc12e99256bd) - 2025-06-30
+* [Commit] [fix(`docs`): redo system reqs, fix links, rebrand to docs (#17071)](https://github.com/paradigmxyz/reth/commit/471f6a375eefc116480bf0ec828ff1ac3286c940) - 2025-06-30
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

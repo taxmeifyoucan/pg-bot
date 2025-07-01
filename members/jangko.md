@@ -116,3 +116,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Optimize getPayloadBodiesByHash/ByRange](https://github.com/status-im/nimbus-eth1/commit/ce240eeea6a24e4db4080c1f14e39080044051fe) - 2025-06-28
 * [Commit] [Fix](https://github.com/status-im/nimbus-eth1/commit/5ec361ea828f5cd30cb669d666effb8565c338de) - 2025-06-28
 * [Pull Request] [Transaction hashes broadcast handler: use inner tx hash + PooledTransaction size](https://github.com/status-im/nimbus-eth1/pull/3432) - 2025-06-28
+* [Commit] [Add export marker](https://github.com/status-im/nimbus-eth1/commit/d33d1111fb19f9f06171b6270684a1aeb633c5c5) - 2025-06-30
+* [Pull Request] [feat: add admin_peers and admin ns (#3431)](https://github.com/status-im/nimbus-eth1/pull/3437) - 2025-06-30
+* [Commit] [feat: add admin_peers and admin ns (#3431)](https://github.com/status-im/nimbus-eth1/commit/5e93ccfdcb924d270d4a83f12a301ced17cae703) - 2025-06-30
+* [Pull Request] [Revert: don't call extra stateroot computation in procesBlock](https://github.com/status-im/nimbus-eth1/pull/3435) - 2025-06-30
+* [Commit] [Optimize getPayloadBodiesByHash/ByRange (#3433)](https://github.com/status-im/nimbus-eth1/commit/40233e5873ee6417099449eafdb81871eadafbb7) - 2025-06-30
+* [Commit] [Transaction hashes broadcast handler: use inner tx hash + PooledTransaction size (#3432)](https://github.com/status-im/nimbus-eth1/commit/0491e0e644767ad8a2e60f67a86f88fc6daca4bd) - 2025-06-30
+* [Commit] [Cosmetics](https://github.com/status-im/nimbus-eth1/commit/65092b673e20af17bd1eea0d08d400dabf0757ef) - 2025-06-30

@@ -161,6 +161,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix tests compilation](https://github.com/NethermindEth/nethermind/commit/3f37ed93b3258a13d1f73136b7fedd76eba83491) - 2025-06-27
 * [Commit] [Fix formatting](https://github.com/NethermindEth/nethermind/commit/747b5ce12444904e080e5ca5dd3f2c8988223ea4) - 2025-06-27
 * [Pull Request] [Add taikoAuth_setHeadL1Origin, taikoAuth_updateL1Origin, BuildPayloadArgsId](https://github.com/NethermindEth/nethermind/pull/8874) - 2025-06-27
+* [Commit] [Fix forkids (#8895)](https://github.com/NethermindEth/nethermind/commit/a7af84ddfbba84c0ad00763dca06d656faabad96) - 2025-06-30
+* [Pull Request] [Fix forkids](https://github.com/NethermindEth/nethermind/pull/8895) - 2025-06-30
+* [Commit] [Add test](https://github.com/NethermindEth/nethermind/commit/b05b241209a1939dc8c5af28f23b0fc2b6fbcbf6) - 2025-06-30
+* [Commit] [Fix forkids](https://github.com/NethermindEth/nethermind/commit/561132643c1bc7a8d0c29fedfdbd755bcae08d69) - 2025-06-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Limit blob count per transaction via blob schedule](https://github.com/ethereum/EIPs/pull/9621) - 2025-04-10
 

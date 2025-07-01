@@ -214,6 +214,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [WIP: fulu devnet2](https://github.com/erigontech/erigon/pull/15824) - 2025-06-29
 * [Commit] [enode id](https://github.com/erigontech/erigon/commit/fb980543a0aec96c209a5a770c1d7266cd36aab9) - 2025-06-29
 * [Commit] [Tune historical proving and removed old versions of commitment history (#15714)](https://github.com/erigontech/erigon/commit/76e9c9a55a1b2b2d00eccb1cca413c49ab714ab4) - 2025-06-29
+* [Commit] [update](https://github.com/erigontech/erigon/commit/af210bf2ea4ed13bffffc6e6cd672c6396d3695f) - 2025-06-30
+* [Commit] [update](https://github.com/erigontech/erigon/commit/8c7c0403c9714ce5d2c965b34580b323bcb6e612) - 2025-06-30
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/3f9fcaac64bf57f317e52bfee3188ffabe7b810f) - 2025-06-30
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

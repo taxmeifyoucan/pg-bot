@@ -49,3 +49,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[R3.0] rpcdaemon: Fix debug trace call many with state overrides](https://github.com/erigontech/erigon/pull/15768) - 2025-06-26
 * [Pull Request] [rpcdaemon: fix eth_call without BlockNum](https://github.com/erigontech/erigon/pull/15814) - 2025-06-28
 * [Commit] [added venv to wf (#15759)](https://github.com/erigontech/erigon/commit/f1f065774e4e9a0f84ea4c40efcc1bfd1a0524f8) - 2025-06-28
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/983de97ef2d54fbc2b00092c0eaa6d0a1b167726) - 2025-06-30
+* [Pull Request] [rpcdaemon: use header instead of blockWithSenders() and align de](https://github.com/erigontech/erigon/pull/15851) - 2025-06-30
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/dccaa55d39f637968bbfa5f93cb10ec676ee3c16) - 2025-06-30
+* [Pull Request] [rpcademon: use header instead of blockWithTxs (trace_call and trace_callMany)](https://github.com/erigontech/erigon/pull/15841) - 2025-06-30

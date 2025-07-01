@@ -2807,6 +2807,50 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b9f409d3a7a04de86d9e30f0f4bc2bab4a72faf8) - 2025-06-29
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b83b42e9f46d72dc2295553c759dcdd7643d1c6f) - 2025-06-29
 * [Commit] [save](https://github.com/erigontech/erigon/commit/afaec1708500ead611643804baf1b69e9bf220d9) - 2025-06-29
+* [Commit] [Add benchmark flag to state test run command. (#15458)](https://github.com/erigontech/erigon/commit/10f101caf497f0aba2becd3e37bf03f951f632e5) - 2025-06-30
+* [Commit] [[r30] fix for ReceiptsNoDupsRange #15847 (#15848)](https://github.com/erigontech/erigon/commit/4681cf42735c7a7b63ad4e16e1b6c044700c6228) - 2025-06-30
+* [Commit] [[r30] stage_custom_trace: fix bad batchSize use (#15842)](https://github.com/erigontech/erigon/commit/6c6cda0f1d010052f956dc672ab6c477e7a2e363) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6d0573599564cf28934c515297cbb7f696fba4ff) - 2025-06-30
+* [Commit] [[r30] receipts: AssertLogIndex (#15840)](https://github.com/erigontech/erigon/commit/fd9daa8dff0f5828adf628bf57523a37f8212b50) - 2025-06-30
+* [Commit] [receipts: AssertLogIndex (#15831)](https://github.com/erigontech/erigon/commit/0ac20bbae860acae0e6b6137340adc7213421de4) - 2025-06-30
+* [Pull Request] [[r31] stage_custom_trace: fix bad batchSize use](https://github.com/erigontech/erigon/pull/15843) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8f0823c742a79cb78ac66160496ad5cb1ec939cf) - 2025-06-30
+* [Pull Request] [[r30] stage_custom_trace: fix bad batchSize use](https://github.com/erigontech/erigon/pull/15842) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1e92a6357aec72f4f7a7d454126b53161933485a) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f3fda35869332cfa7ea18a74f5a6226c10b6d2d1) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6f8493f34f2156ed894213828e7d8a00460844b8) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f159e86efa1d775e3f85d00c88daedd52f19ae30) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a81f427e451fa7386bb508b1c39ccea289886d2a) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1dfb7e5ca7ec4030352308ba91653edbdf28ad22) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/becf5481823cebe4855cd15a7ce293ca18a5c65d) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/01f94cff3d7ea8a7fd7a95dd3b75f16bba42ecde) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/77f7472fcf332bfd792429797031da2e8dc32f05) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d4737427b24fa7f516e801e72d81bc0d0da839be) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a58987a4e497b8b2d64d9b829a74e4ff557317d9) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1718b9b2d712e94b610593e407f52f7c48f4a8e7) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f82d660ac0e161069f497555151c580a45c6920a) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/96cc33099ff642163d2670fb49584df493e94d07) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fa31dd2e2de0b9ae8aa8b412c8a07172b8d84a87) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4a750afa4df02c2332ab56478fe5143c436d35e0) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6db37ef7ead5188fe19fb99e003c97dd2759d136) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dd59613e9003bbec51b20430b9f5327003b9a0e8) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/72d9b9dee68694ac61bc067deccbe7935c38a41d) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d70ce4b0c24909870ba0d354665bb18d1ef80ceb) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9b5604682620962b89fd7a5474b3627d2eecb9c2) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/71109f8411d97796578db4f56b9b3cfb0a13cc57) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9afbe1d4816d7f43712fbc5f20cc31d1e8ba50bb) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9d73237253b1aecc63d95ea68bf9264799d52bec) - 2025-06-30
+* [Pull Request] [[r30] receipts: AssertLogIndex](https://github.com/erigontech/erigon/pull/15840) - 2025-06-30
+* [Commit] [E3: History expiry was not working (#15836)](https://github.com/erigontech/erigon/commit/74bfa63ff1494342c44da11aecaee67125c66620) - 2025-06-30
+* [Pull Request] [[r30] receipts: AssertLogIndex ](https://github.com/erigontech/erigon/pull/15839) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/366f07404c32a976c9477fcde7f7e77aaeceb380) - 2025-06-30
+* [Commit] [Cherry-picking genesis reader fixes (#15837)](https://github.com/erigontech/erigon/commit/e7c99e03c94d4ecdd1336ff0eec3276a3ab537bf) - 2025-06-30
+* [Issue] [`stage_custom_trace`: producing receipts with log.index=0](https://github.com/erigontech/erigon/issues/15838) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/abeeb08aac1db070ac4520dac14274931a9606b5) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8b136057bba67b0811136c8a092913c5b0fce99a) - 2025-06-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0bead6a421b0430e0a75c0241d6993de22ad5f49) - 2025-06-30
+* [Commit] [Added chain-specific gas limit defaults (#15619) (#15802)](https://github.com/erigontech/erigon/commit/61dd0cb5ffa170b2370d972d34977e17940048c4) - 2025-06-30
+* [Commit] [chore: Fix hyperlinks across (#15832)](https://github.com/erigontech/erigon/commit/2632f2c8e2c103bb04e94ccaa790dfd5f0cd3413) - 2025-06-30
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

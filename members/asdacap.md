@@ -299,6 +299,19 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Remove init](https://github.com/NethermindEth/nethermind/commit/ec6472aa6b09842824b26255ebb06189e865566c) - 2025-06-28
 * [Commit] [Don't broadcast txs while processing a block (#8820)](https://github.com/NethermindEth/nethermind/commit/e859bd71e7051f0ad776560e20f195bd66ac43f2) - 2025-06-28
 * [Commit] [Refactor/deduplicate block producer env (#8871)](https://github.com/NethermindEth/nethermind/commit/a81b23fa7b67d2a0cb827e819c40809651ba669d) - 2025-06-28
+* [Pull Request] [Feature/Flashbots auto RPC](https://github.com/NethermindEth/nethermind/pull/8893) - 2025-06-30
+* [Commit] [Optimize BlockForRpc for eth_getBlockByNumber (#8883)](https://github.com/NethermindEth/nethermind/commit/5237ccea325502794755bd4fccc0426839ca4a49) - 2025-06-30
+* [Commit] [Move simulate logic in newpayloadhandler](https://github.com/NethermindEth/nethermind/commit/bad91d00848ab4ef27bca6e6a4ee17f43f60d280) - 2025-06-30
+* [Commit] [Further isolate overridable env (#8806)](https://github.com/NethermindEth/nethermind/commit/ab02291cae34606a5ae137c8323e4a3ece38f93e) - 2025-06-30
+* [Commit] [Reduce use of InitializeNetworkProtocol and review step dependencies (#8859)](https://github.com/NethermindEth/nethermind/commit/531fb12dca6bcd1e5c39b876ca3b7ae1bc5ebd5a) - 2025-06-30
+* [Commit] [Optimize opcodes (#8864)](https://github.com/NethermindEth/nethermind/commit/f6a31c4f35b5344e8f57a64a804b350e3596a011) - 2025-06-30
+* [Commit] [Test/Call block producer directly in test (#8885)](https://github.com/NethermindEth/nethermind/commit/2c54fb363110b72a29011e7f6a673df335b782bf) - 2025-06-30
+* [Commit] [Use util function for arg resolver](https://github.com/NethermindEth/nethermind/commit/87af3012dc77cc3bd7d1d9e5bf33b8d9b720acc7) - 2025-06-30
+* [Pull Request] [Test/Call block producer directly in test](https://github.com/NethermindEth/nethermind/pull/8885) - 2025-06-30
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/3ef8653a4e3b0984d5fb1f09369ba886d6fc9f21) - 2025-06-30
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/100e2945fb69931841cc117b28b6e73c86782718) - 2025-06-30
+* [Commit] [Slightly smaller code](https://github.com/NethermindEth/nethermind/commit/69f7093ec37f60ced735851713ff0f0c8298fbbe) - 2025-06-30
+* [Pull Request] [Refactor/separate payload preparation service](https://github.com/NethermindEth/nethermind/pull/8884) - 2025-06-30
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

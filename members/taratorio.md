@@ -141,6 +141,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [txnprovider/shutter: prevent panic in TestShutterBlockBuilding (#15792)](https://github.com/erigontech/erigon/commit/cee82f96d63042fdd4095040ccd369428369ac4b) - 2025-06-27
 * [Pull Request] [txnprovider/shutter: prevent panic in TestShutterBlockBuilding](https://github.com/erigontech/erigon/pull/15792) - 2025-06-27
 * [Commit] [Added chain-specific gas limit defaults (#15619) (#15802)](https://github.com/erigontech/erigon/commit/61dd0cb5ffa170b2370d972d34977e17940048c4) - 2025-06-28
+* [Pull Request] [tests: disable non-compatible tests with race detector only when race mode is enabled](https://github.com/erigontech/erigon/pull/15855) - 2025-06-30
+* [Commit] [fix compilation](https://github.com/erigontech/erigon/commit/e5b5e9f0abcafc621c6be4ee8c29b697a4bb8079) - 2025-06-30
+* [Commit] [E3: Add snap downloader support to hoodi (#15721)](https://github.com/erigontech/erigon/commit/416fdead87d3036e3bd05855de5fa82ceff3307c) - 2025-06-30
+* [Commit] [add default gas change for eth mainnet to changelog for 3.0.11 (#15850)](https://github.com/erigontech/erigon/commit/ed339e1d85dbe8d752ff0b5878b860f55d45dac1) - 2025-06-30
+* [Pull Request] [add default gas change for eth mainnet to changelog for 3.0.11](https://github.com/erigontech/erigon/pull/15850) - 2025-06-30
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

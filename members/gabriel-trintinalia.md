@@ -150,6 +150,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [[fusaka-devnet-2] Add codesize index](https://github.com/hyperledger/besu/pull/8865) - 2025-06-27
 * [Commit] [Ignore codesize for pmt (#8873)](https://github.com/hyperledger/besu/commit/075415995188480ce58126bf5d790d5a9d192878) - 2025-06-28
 * [Pull Request] [[fusaka-devnet-2] fix: Ignore codesize for pmt](https://github.com/hyperledger/besu/pull/8873) - 2025-06-28
+* [Commit] [[fusaka-devnet-2] Add exception to log (#8881)](https://github.com/hyperledger/besu/commit/3770f9fbc41d4a58b27a0ebb97adceb57fa90fad) - 2025-06-30
+* [Pull Request] [[fusaka-devnet-2] Add exception to log](https://github.com/hyperledger/besu/pull/8881) - 2025-06-30
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: fail execution if system call fails to execute](https://github.com/ethereum/go-ethereum/pull/31639) - 2025-04-15
 ## Q1 2025

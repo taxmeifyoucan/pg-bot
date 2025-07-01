@@ -548,6 +548,11 @@ Team: Reth
 * [Pull Request] [feat: include eth_sendRawTransactionSync in eth namesapce](https://github.com/paradigmxyz/reth/pull/17070) - 2025-06-26
 * [Pull Request] [feat(optimism): add debug namespace endpoints to historical RPC forwarding](https://github.com/paradigmxyz/reth/pull/17133) - 2025-06-29
 * [Commit] [feat(optimism): add debug namespace endpoints to historical RPC forwarding](https://github.com/paradigmxyz/reth/commit/375d80e3369c34bb52077de325eec6d5f98e3fbd) - 2025-06-29
+* [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/d413b4cb73b946b72336b721bc2b2b2460812451) - 2025-06-30
+* [Pull Request] [chore: promote trace to debug](https://github.com/paradigmxyz/reth/pull/17144) - 2025-06-30
+* [Issue] [Use etherscan V2 endpoints for --debug.etherscan](https://github.com/paradigmxyz/reth/issues/17142) - 2025-06-30
+* [Commit] [docs: fix typos across documentation (#17102)](https://github.com/paradigmxyz/reth/commit/40e8fb6d4d5ab8bd3cebb076aa4ead87ae1adfc3) - 2025-06-30
+* [Commit] [docs: add comprehensive documentation for LaunchContext type system (#17120)](https://github.com/paradigmxyz/reth/commit/772c65eab857a21999be922347f8ccae6c3c3f50) - 2025-06-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add Inspector implementation for either::Either](https://github.com/bluealloy/revm/pull/2614) - 2025-06-10
 * [Issue] [Implement Inspector for either::Either](https://github.com/bluealloy/revm/issues/2607) - 2025-06-10

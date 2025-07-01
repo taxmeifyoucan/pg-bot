@@ -66,6 +66,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Update fulu network configs and add `MIN_EPOCHS_FOR_DATA_COLUMN_SIDECARS_REQUESTS`](https://github.com/sigp/lighthouse/pull/7646) - 2025-06-25
 * [Pull Request] [Fix Rust 1.88 clippy errors](https://github.com/sigp/lighthouse/pull/7657) - 2025-06-27
 * [Pull Request] [Fix incorrect `waker` update condition](https://github.com/sigp/lighthouse/pull/7656) - 2025-06-27
+* [Pull Request] [Increase http client default timeout to 2s in `http-api` tests.](https://github.com/sigp/lighthouse/pull/7673) - 2025-06-30
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)

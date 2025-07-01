@@ -101,6 +101,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix CPU compatibility issues (#8882)](https://github.com/NethermindEth/nethermind/commit/cb102c2f794fd3c5c66c20367c7cce76ad105169) - 2025-06-29
 * [Pull Request] [Fix CPU compatibility issues](https://github.com/NethermindEth/nethermind/pull/8882) - 2025-06-29
 * [Commit] [Add new line](https://github.com/NethermindEth/nethermind/commit/f7c9ed9becd647aa9e208b3fa050a0078785ca78) - 2025-06-29
+* [Commit] [Update Volta bootnode (#8888)](https://github.com/NethermindEth/nethermind/commit/5d187282c767b351679f91d45772e34782f8f3cb) - 2025-06-30
+* [Commit] [Fix NuGet feeds](https://github.com/NethermindEth/nethermind/commit/4ab0bb8e6bb242336cf2e53b6978ca89c75879df) - 2025-06-30
+* [Pull Request] [Update Volta bootnode](https://github.com/NethermindEth/nethermind/pull/8888) - 2025-06-30
 ## Q1 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Pull Request] [Fix KZG intermittent failures](https://github.com/hyperledger/besu/pull/8781) - 2025-06-10
 * [Pull Request] [Transactions: add size and hash if easy](https://github.com/hyperledger/besu/pull/8816) - 2025-06-13
 
+* [Commit] [Sync block body (#8242)](https://github.com/hyperledger/besu/commit/2fb25ce667ff01fae016f1de416234c98c59941c) - 2025-06-30
 [consensys/teku](https://github.com/consensys/teku)
 * [Commit] [fix possible recursive update (#9580)](https://github.com/Consensys/teku/commit/37b61654d82185310b9a35230a9ec3c1c944abd1) - 2025-06-20
 * [Pull Request] [fix possible recursive update](https://github.com/Consensys/teku/pull/9580) - 2025-06-20

@@ -24,3 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Reset eth max capability to latest](https://github.com/hyperledger/besu/pull/8858) - 2025-06-25
 * [Commit] [Reset eth max capability to latest (#8858)](https://github.com/hyperledger/besu/commit/ab130a34cc0672a190e383d1f9560362b3210bd5) - 2025-06-26
 * [Issue] [Address flakiness in CliqueMiningAcceptanceTest.shouldMineTransactionsOnMultipleNodes](https://github.com/hyperledger/besu/issues/8862) - 2025-06-26
+* [Commit] [Adjust history expiry related flags (#8875)](https://github.com/hyperledger/besu/commit/b4efe30f494ea25ea5774387f9b162211047da9a) - 2025-06-30
+* [Commit] [[History Expiry] Return null when block data isn't found (#8833)](https://github.com/hyperledger/besu/commit/a81af6016b112252b792dcc5de7bc96180792da3) - 2025-06-30
+* [Pull Request] [Adjust history expiry related flags](https://github.com/hyperledger/besu/pull/8875) - 2025-06-30
+* [Issue] [Fix exceptions due to missing blocks in eth_getLogs](https://github.com/hyperledger/besu/issues/8874) - 2025-06-30

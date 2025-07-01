@@ -27,6 +27,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Only for performance benchmarking : change ModExp pricing for Cancun](https://github.com/hyperledger/besu/pull/8853) - 2025-06-24
 * [Commit] [fix KZG intermittent failures (#8781)](https://github.com/hyperledger/besu/commit/dd8b20237fdae81afc36f94c02a9180b0a5d171d) - 2025-06-24
 * [Pull Request] [Merge main into performance branch](https://github.com/hyperledger/besu/pull/8851) - 2025-06-24
+* [Issue] [Investigate Java built-in warmup technics](https://github.com/hyperledger/besu/issues/8883) - 2025-06-30
+* [Commit] [Rotate changelog for release 25.7.0 (#8880)](https://github.com/hyperledger/besu/commit/a65e02e707aacbaa0eb1902ecac49e92620f3bf6) - 2025-06-30
+* [Pull Request] [Rotate changelog for release 25.7.0](https://github.com/hyperledger/besu/pull/8880) - 2025-06-30
+* [Issue] [Release 25.7.0](https://github.com/hyperledger/besu/issues/8879) - 2025-06-30
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

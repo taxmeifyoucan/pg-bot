@@ -16,3 +16,4 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Issue] [FOCIL Breakout #10](https://github.com/ethereum/pm/issues/1523) - 2025-05-05
 * [Issue] [FOCIL Breakout #11](https://github.com/ethereum/pm/issues/1551) - 2025-05-19
 * [Issue] [FOCIL Breakout #12](https://github.com/ethereum/pm/issues/1564) - 2025-06-02
+* [Issue] [FOCIL Breakout #14](https://github.com/ethereum/pm/issues/1600) - 2025-06-30

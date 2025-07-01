@@ -294,6 +294,7 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/df685fc8921643542a6f68f3a6a810acaa7f9129) - 2025-06-29
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e499ec2e55c4e0a89a27de2d712f7c5a0f67fde8) - 2025-06-29
 * [Pull Request] [Revert "Caplin: Fix holesky/hoodi startup on develop" with the correct fix :)](https://github.com/erigontech/erigon/pull/15826) - 2025-06-29
+* [Pull Request] [E3: History expiry was not working (#15836)](https://github.com/erigontech/erigon/pull/15854) - 2025-06-30
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [Implement CLZ](https://github.com/ethereum/go-ethereum/pull/31989) - 2025-06-09
 

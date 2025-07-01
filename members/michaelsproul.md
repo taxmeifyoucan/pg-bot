@@ -109,6 +109,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Un-ignore EF test for v1.6.0-alpha.1](https://github.com/sigp/lighthouse/pull/7632) - 2025-06-23
 * [Issue] [Flag to try syncing blobs/columns beyond DA window](https://github.com/sigp/lighthouse/issues/7628) - 2025-06-23
 * [Commit] [Implement `validator_identities` Beacon API endpoint (#7462)](https://github.com/sigp/lighthouse/commit/cef04ee2ee480100269d1b94baf1c72279a5606b) - 2025-06-29
+* [Pull Request] [Test database schema stability](https://github.com/sigp/lighthouse/pull/7669) - 2025-06-30
+* [Pull Request] [Add Michael as codeowner for store crate](https://github.com/sigp/lighthouse/pull/7667) - 2025-06-30
+* [Pull Request] [Bump DB schema to v25](https://github.com/sigp/lighthouse/pull/7666) - 2025-06-30
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [Caplin propagates aggregate attestations with empty committees](https://github.com/erigontech/erigon/issues/14830) - 2025-05-01
 ## Q1 2025

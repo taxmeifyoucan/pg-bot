@@ -80,6 +80,7 @@ Team: Reth
 * [Pull Request] [feat(trie): add SparseSubtrie::update_leaf ](https://github.com/paradigmxyz/reth/pull/16956) - 2025-06-19
 * [Commit] [refactor(trie): use next_node and shift nodes down](https://github.com/paradigmxyz/reth/commit/f7a7112330d3e36de99fe7b46e8850198682290c) - 2025-06-24
 * [Commit] [chore: re-export op hardforks from op chainspec (#17018)](https://github.com/paradigmxyz/reth/commit/2563a168eed9e6e311bc9d10fec0127514e9db2c) - 2025-06-26
+* [Commit] [chore(trie): use full_path for update_leaf argument](https://github.com/paradigmxyz/reth/commit/ac269c62aed2e07839abc72bc1ac2856fb70677c) - 2025-06-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: add basic tests for modexp](https://github.com/bluealloy/revm/pull/2603) - 2025-06-09
 * [Pull Request] [feat: add openssl based modexp impl](https://github.com/bluealloy/revm/pull/2599) - 2025-06-09

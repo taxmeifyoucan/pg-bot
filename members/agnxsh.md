@@ -154,6 +154,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Bump nim-faststreams to v0.3.0 (#7254)](https://github.com/status-im/nimbus-eth2/commit/0b3878de60e22546266321071702a272f8bff0ff) - 2025-06-26
 * [Commit] [resolve conflicts](https://github.com/status-im/nimbus-eth2/commit/bc286cb20c541c8c283e8a9d8aa193b0b1b687eb) - 2025-06-26
 * [Commit] [adjust nextForkEpochAtEpoch() to work with BPOs (#7265)](https://github.com/status-im/nimbus-eth2/commit/bf772332ebc6855a531f7d1c7b01658c4908c640) - 2025-06-26
+* [Commit] [increase vcus poll interval](https://github.com/status-im/nimbus-eth2/commit/7ce4e15718b49384ccf07bfb6d7ade049f68c88d) - 2025-06-30
+* [Commit] [prevent inhibiting validator custody](https://github.com/status-im/nimbus-eth2/commit/738e228be6e50a705472b9d80d1491834b75a892) - 2025-06-30
+* [Commit] [push event topic update for data column sidecar](https://github.com/status-im/nimbus-eth2/commit/84ad7953a7f788b8b78c57402d8778cea6fc0065) - 2025-06-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [drop peer sampling for Fusaka](https://github.com/ethereum/consensus-specs/pull/4393) - 2025-06-20
 ## Q1 2025

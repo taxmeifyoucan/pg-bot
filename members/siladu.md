@@ -49,6 +49,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] [Remove redundant serialization of params (#8807)](https://github.com/hyperledger/besu/pull/8847) - 2025-06-24
 * [Issue] [EcAdd precompile](https://github.com/hyperledger/besu/issues/8856) - 2025-06-25
 * [Issue] [Warm up state-tests](https://github.com/hyperledger/besu/issues/8855) - 2025-06-25
+* [Pull Request] [Enable decoding for large engine api requests](https://github.com/hyperledger/besu/pull/8877) - 2025-06-30
+* [Commit] [Remove redundant serialization of params (#8847)](https://github.com/hyperledger/besu/commit/c1e0ccacbc9caf7f6566b7d224db3d7b7864371b) - 2025-06-30
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

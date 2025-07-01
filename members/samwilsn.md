@@ -44,6 +44,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Update test.yaml](https://github.com/ethereum/execution-specs/commit/d6d2e46e8929210af15540b793a1d6aeb55f3f8b) - 2025-06-25
 * [Commit] [Implement EIP-7907](https://github.com/ethereum/execution-specs/commit/f069e08affc03b1f2069a2ee633f6c8cce40603f) - 2025-06-26
 * [Commit] [add documentation for blocks, txs](https://github.com/ethereum/execution-specs/commit/19b73461973dd49fc7c6a6741c9343284c3fd45d) - 2025-06-26
+* [Commit] [add documentation for blocks, txs](https://github.com/ethereum/execution-specs/commit/19b73461973dd49fc7c6a6741c9343284c3fd45d) - 2025-06-30
+* [Commit] [Bump version to 2.18.0rc2](https://github.com/ethereum/execution-specs/commit/f947ab1744aaf12f652a85e28ac5d155af26dd25) - 2025-06-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [call name | call # | call date](https://github.com/ethereum/pm/issues/1479) - 2025-04-16
 

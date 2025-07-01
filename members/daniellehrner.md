@@ -19,6 +19,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Fix gas estimation after EIP-7623](https://github.com/hyperledger/besu/pull/8645) - 2025-05-19
 * [Pull Request] [Enable parallel tx processing by default](https://github.com/hyperledger/besu/pull/8668) - 2025-05-22
 * [Pull Request] [Add codesize index](https://github.com/hyperledger/besu/pull/8779) - 2025-06-10
+* [Pull Request] [Add option to optionally trace reference tests](https://github.com/hyperledger/besu/pull/8878) - 2025-06-30
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

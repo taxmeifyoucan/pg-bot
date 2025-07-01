@@ -276,6 +276,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [deps: upgrade pion/interceptor to v0.1.40](https://github.com/erigontech/erigon/pull/15785) - 2025-06-27
 * [Commit] [deps: upgrade pion/interceptor to v0.1.40](https://github.com/erigontech/erigon/commit/ae57b4131457e75bb88ad46f50507687f502c506) - 2025-06-27
 * [Commit] [Chore: Batch fmt after dir changes (#15772)](https://github.com/erigontech/erigon/commit/a0033880780ba306317c947aa1ba24dd27e495ad) - 2025-06-27
+* [Commit] [restore erigon/erigon-db/rawdb/targets.go](https://github.com/erigontech/erigon/commit/15443f07ae92a8b212bc3ea09513ce0520e37cc2) - 2025-06-30
+* [Commit] [restore changes to erigon/rpc/ethapi](https://github.com/erigontech/erigon/commit/1178c9fb855fd46ffa3b820d5d05508a167f837e) - 2025-06-30
+* [Commit] [small fix](https://github.com/erigontech/erigon/commit/3ce4b49fa6be69e0b5ad9a407e92f52550f82212) - 2025-06-30
+* [Commit] [fix for ReceiptsNoDupsRange  (#15847)](https://github.com/erigontech/erigon/commit/5cfae367bbb41581cbed58994b2a32dc447f866d) - 2025-06-30
+* [Commit] [Remove Verkle (#15849)](https://github.com/erigontech/erigon/commit/eb99df00a28b8dd6dd2c23762c7b5373f668af3c) - 2025-06-30
+* [Commit] [fix merge of genesis_write](https://github.com/erigontech/erigon/commit/f172f857ed9c3f5676666cd5b81ed916306edf16) - 2025-06-30
+* [Commit] [amend go.mod](https://github.com/erigontech/erigon/commit/6a248bf34abdae99cdee4ff973010eaf1892f3a9) - 2025-06-30
+* [Pull Request] [Remove Verkle](https://github.com/erigontech/erigon/pull/15849) - 2025-06-30
+* [Commit] [Remove Verkle](https://github.com/erigontech/erigon/commit/3603d1462c0fe2f2ce0f4afdae714218ffeadec7) - 2025-06-30
+* [Commit] [execution: fix bad log for limited big jump (#15796)](https://github.com/erigontech/erigon/commit/5a8491bdeb36ab774ffe4ddb0e32785113b4aeaa) - 2025-06-30
+* [Commit] [more compilation fixes](https://github.com/erigontech/erigon/commit/aed28918611475f4cc17c5f6620c77e5ab22c341) - 2025-06-30
+* [Commit] [Arb: fix bind template (#15786)](https://github.com/erigontech/erigon/commit/a8fe826ec09d790ee93d55ec2fd8cc5f477211b4) - 2025-06-30
+* [Commit] [couple of compilation fixes](https://github.com/erigontech/erigon/commit/beed22a98aa7681cb520c233863aa51362daaaec) - 2025-06-30
+* [Commit] [Remove Verkle](https://github.com/erigontech/erigon/commit/9cf81f031d5c3e231f0bc5f376d4a9d9bc101c1f) - 2025-06-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Pectra coordinators for Erigon](https://github.com/ethereum/pm/pull/1420) - 2025-04-01
 

@@ -74,6 +74,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Fix peer disconnection (#9614)](https://github.com/Consensys/teku/commit/ccefe6accc9b4e769065a50bdeca33f6afc1aed7) - 2025-06-26
 * [Pull Request] [Fix peer disconnection](https://github.com/Consensys/teku/pull/9614) - 2025-06-26
 * [Pull Request] [Poolv2 skip sorting when not needed](https://github.com/Consensys/teku/pull/9617) - 2025-06-27
+* [Commit] [Increase default gas limit to 45 million (#9559)](https://github.com/Consensys/teku/commit/a8234e507e6060ff312ecdd657f4fdbf4c80723a) - 2025-06-30
+* [Commit] [25.6.0 cleanup (#9619)](https://github.com/Consensys/teku/commit/387231bcf4fdd10cf58a29acacd1cfcb026798c2) - 2025-06-30
+* [Pull Request] [25.6.0 cleanup](https://github.com/Consensys/teku/pull/9619) - 2025-06-30
+* [Issue] [PostElectra - call attestationData once](https://github.com/Consensys/teku/issues/9618) - 2025-06-30
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Occasional performance degradation](https://github.com/paradigmxyz/reth/issues/16296) - 2025-05-16
 ## Q1 2025

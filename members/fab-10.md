@@ -55,6 +55,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Expose method to get blob gas price from plugins](https://github.com/hyperledger/besu/pull/8843) - 2025-06-23
 * [Pull Request] [Update Tuweni dependency](https://github.com/hyperledger/besu/pull/8852) - 2025-06-24
 * [Pull Request] [Support new blob type when estimating the memory size of a pending transaction](https://github.com/hyperledger/besu/pull/8857) - 2025-06-25
+* [Commit] [Support new blob type when estimating the memory size of a pending transaction (#8857)](https://github.com/hyperledger/besu/commit/ef1260c0d09786a15a5df4e6a841dc18e0dc9cee) - 2025-06-30
 ## Q1 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

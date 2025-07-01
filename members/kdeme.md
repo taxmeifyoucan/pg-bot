@@ -77,6 +77,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Portal: default disable the Portal state network (#3387)](https://github.com/status-im/nimbus-eth1/commit/54943cbc82ed455adc7253c98be16f354c11f10a) - 2025-06-19
 * [Pull Request] [Portal: Implementation of finalized history network WIP](https://github.com/status-im/nimbus-eth1/pull/3427) - 2025-06-25
 * [Commit] [Bump nim-eth module (#3426)](https://github.com/status-im/nimbus-eth1/commit/5775210dfbd71d375acd588681f23edce5d6f50c) - 2025-06-25
+* [Commit] [Enable finalized history network to portal client](https://github.com/status-im/nimbus-eth1/commit/a6bab7732950af472e2f654ac4c799d24cedd56b) - 2025-06-30
+* [Commit] [eth_sendRawTransaction return inner tx hash and not the pooled tx hash (#3430)](https://github.com/status-im/nimbus-eth1/commit/25ad87b573b49eeff520dbb4750028f067f6b4e1) - 2025-06-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [add signing node Electra block tests (#6981)](https://github.com/status-im/nimbus-eth2/commit/3ddcab5a7f750b85c864fdf83d9e2dd0f6d19de2) - 2025-04-26
 * [Commit] [Introduce HistoricalSummariesFork](https://github.com/status-im/nimbus-eth2/commit/c3166c5f041bec72c7145532ed6b5f414505eae8) - 2025-04-28

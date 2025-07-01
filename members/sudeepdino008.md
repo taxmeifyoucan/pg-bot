@@ -333,6 +333,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cp: workflow fixes to release (#15818)](https://github.com/erigontech/erigon/commit/b89bdc48df27dadb733ae462c25eac6ef46f4959) - 2025-06-29
 * [Commit] [ci](https://github.com/erigontech/erigon/commit/c37f7a598f4c399e6a7153fc01f62a2ff711c174) - 2025-06-29
 * [Commit] [fix concurrency groups (CG) for workflow jobs (#15723)](https://github.com/erigontech/erigon/commit/2ebd1c38b07bc491774d0f5cb28d7338423aa3aa) - 2025-06-29
+* [Pull Request] [EthInvariant wait for pending work](https://github.com/erigontech/erigon/pull/15856) - 2025-06-30
+* [Pull Request] [[r30] fix for ReceiptsNoDupsRange #15847](https://github.com/erigontech/erigon/pull/15848) - 2025-06-30
+* [Pull Request] [fix for ReceiptsNoDupsRange ](https://github.com/erigontech/erigon/pull/15847) - 2025-06-30
 ## Q1 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -108,6 +108,18 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [test(op/handler): verify caller account is touched by zero value transfer (#2669)](https://github.com/bluealloy/revm/commit/0815115d4705c879aeda1de61a292ab16365c1bf) - 2025-06-26
 * [Issue] [blake2b avx2 impl](https://github.com/bluealloy/revm/issues/2667) - 2025-06-26
 * [Commit] [cleanup](https://github.com/bluealloy/revm/commit/cc23caba445b48f9ee839be3b3e1cd39d3b80b4f) - 2025-06-27
+* [Pull Request] [[DO NOT MERGE] measure uni swap exec](https://github.com/bluealloy/revm/pull/2679) - 2025-06-30
+* [Commit] [follow up](https://github.com/bluealloy/revm/commit/6b67a2ce6f643b5d098c97bccff12ce8f8d51f44) - 2025-06-30
+* [Commit] [feat: blake2 avx2 (#2670)](https://github.com/bluealloy/revm/commit/ef0175beba421bfb6c3e7bc8253d10208a38c761) - 2025-06-30
+* [Pull Request] [feat: add custom precompile with journal access example](https://github.com/bluealloy/revm/pull/2677) - 2025-06-30
+* [Commit] [cleanup](https://github.com/bluealloy/revm/commit/193f677a5dff95a7b5ec0ce7ed4192f211ba6eb6) - 2025-06-30
+* [Commit] [fix compilation](https://github.com/bluealloy/revm/commit/f30fdfc0e83cf9ce5e987053558f312d043d97fe) - 2025-06-30
+* [Commit] [test](https://github.com/bluealloy/revm/commit/227658f16eebe596a829ea37262c5632ff86efbd) - 2025-06-30
+* [Commit] [test](https://github.com/bluealloy/revm/commit/5f3afefbe29090f9d877579596a63a68701d3713) - 2025-06-30
+* [Commit] [test](https://github.com/bluealloy/revm/commit/dfcbd2f2f1b23ef9b6dc53ae9bb4e0e92034ea34) - 2025-06-30
+* [Commit] [test](https://github.com/bluealloy/revm/commit/fcc7c27e4aaf9f494c10c36f869a650da0db8616) - 2025-06-30
+* [Commit] [runtime check](https://github.com/bluealloy/revm/commit/629b98347865aa316aa529c8835a7fe97fc699fc) - 2025-06-30
+* [Commit] [feat: implement Database traits for either::Either (#2673)](https://github.com/bluealloy/revm/commit/89f40a0255a5bb295c218ed949bda6789bd6e7bb) - 2025-06-30
 ## Q1 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

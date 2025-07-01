@@ -41,5 +41,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [also testutils](https://github.com/status-im/nimbus-eth1/commit/45c164beae497a8019d1b307aaeec120bf1efc29) - 2025-06-20
 * [Commit] [defer gc during block processing (#3384)](https://github.com/status-im/nimbus-eth1/commit/3a009158d3e381562cd4ff855033533dbeadd404) - 2025-06-20
 * [Pull Request] [faststreams: bump](https://github.com/status-im/nimbus-eth1/pull/3418) - 2025-06-20
+* [Commit] [Revert: don't call extra stateroot computation in procesBlock (#3435)](https://github.com/status-im/nimbus-eth1/commit/fcc219987c688ff5f5391f44ae1aa75c97e91314) - 2025-06-30
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/e34a920dc79b187b2d6c87638181b3dc13dd47fa) - 2025-06-30
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/d23bacabf4885376d74399a6709434ec739ecd56) - 2025-06-30
+* [Pull Request] [json: bump for new array writer](https://github.com/status-im/nimbus-eth1/pull/3436) - 2025-06-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Old head sent in LC sync mode](https://github.com/status-im/nimbus-eth2/issues/7119) - 2025-05-04

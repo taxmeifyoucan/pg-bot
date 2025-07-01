@@ -255,6 +255,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: modify fork digest to distinguish BPO forks](https://github.com/ChainSafe/lodestar/commit/8d7058222280d3f16c9341c76b8789cec00bdc15) - 2025-06-29
 * [Pull Request] [feat: add next fork digest (nfd) entry to ENR](https://github.com/ChainSafe/lodestar/pull/8023) - 2025-06-29
 * [Pull Request] [feat: modify fork digest to distinguish BPO forks](https://github.com/ChainSafe/lodestar/pull/8022) - 2025-06-29
+* [Commit] [fix: consider BPO forks when subscribing to gossip topics (#8025)](https://github.com/ChainSafe/lodestar/commit/6e9a931d6405737a3dd16c78a4fcbee2e5b2d57e) - 2025-06-30
+* [Commit] [fix: use correct epoch when parsing gossip topic (#8026)](https://github.com/ChainSafe/lodestar/commit/00795a4181d29d8b20b26f89b71b329aa9ba7948) - 2025-06-30
+* [Pull Request] [fix: use correct epoch when parsing gossip topic](https://github.com/ChainSafe/lodestar/pull/8026) - 2025-06-30
+* [Pull Request] [fix: consider BPO forks when subscribing to gossip topics](https://github.com/ChainSafe/lodestar/pull/8025) - 2025-06-30
 ## Q1 2025
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)

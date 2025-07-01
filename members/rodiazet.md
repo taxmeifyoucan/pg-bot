@@ -23,3 +23,5 @@ Team: Ipsilon
 * [Commit] [fix indexing count (#15047)](https://github.com/erigontech/erigon/commit/21804ea77a411dd78b778df9e10a02bdcdd57218) - 2025-05-15
 * [Commit] [cmd/evm: Refactor evm test.](https://github.com/erigontech/erigon/commit/c4333f9ca45254a291a557ee1a0be395072c64bb) - 2025-05-15
 * [Commit] [Use affine coordinates for bn254 point addition.](https://github.com/erigontech/erigon/commit/38ac0d6c1e6ad13c990281aa5a51fe666a5a1203) - 2025-06-14
+* [Commit] [[r31] stage_custom_trace: fix bad batchSize use (#15843)](https://github.com/erigontech/erigon/commit/9b4fe01dbb592ad0c207fe380a003b3f7ad3679c) - 2025-06-30
+* [Commit] [`debug_setMemoryLimit`, `debug_setGCPercent`,`debug_freeOSMemory`, `debug_gcStats`, `debug_memStats` (#15542)](https://github.com/erigontech/erigon/commit/deb2449268ad02b4e210d737b2b5215aaeb11ab1) - 2025-06-30

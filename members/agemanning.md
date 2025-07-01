@@ -19,6 +19,7 @@ Team: Lighthouse
 * [Pull Request] [Siren installation improvement](https://github.com/sigp/lighthouse/pull/7404) - 2025-05-06
 * [Commit] [update script for new mergify syntax (#6597)](https://github.com/sigp/lighthouse/commit/dc73791f35dff0484a35ddedba4b58c6ca34c3c9) - 2025-05-12
 * [Pull Request] [Remove instrumenting log level](https://github.com/sigp/lighthouse/pull/7620) - 2025-06-19
+* [Pull Request] [Transition network key to hex format](https://github.com/sigp/lighthouse/pull/7665) - 2025-06-30
 ## Q1 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
