@@ -8,6 +8,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Commit] [bug(tests): enforce transaction gas limit in Osaka (#1830)](https://github.com/ethereum/execution-spec-tests/commit/dd83fba10492e6f63453b1a35608900b3aee1a87) - 2025-07-01
+* [Commit] [bug(forks): add valid opcodes for Osaka (#1827)](https://github.com/ethereum/execution-spec-tests/commit/84cc036475e9b277e908fc04125c870291ae25db) - 2025-07-01
 ## Q2 2025
 
 

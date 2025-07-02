@@ -8,6 +8,11 @@ Team: Geth
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core/types: block timestamp in log should encode as hex](https://github.com/ethereum/go-ethereum/pull/32129) - 2025-07-01
 ## Q2 2025
 
 

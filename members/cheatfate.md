@@ -8,6 +8,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q3 2025
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [Add soft timeouts to VC, after which VC will use any successful response as the best one.](https://github.com/status-im/nimbus-eth2/pull/7276) - 2025-07-01
+* [Pull Request] [Fix sync requests should be returned to SyncQueue as failed on failure.](https://github.com/status-im/nimbus-eth2/pull/7275) - 2025-07-01
 ## Q2 2025
 
 

@@ -8,6 +8,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [Big Beautiful Speedup](https://github.com/erigontech/erigon/pull/15872) - 2025-07-01
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/b842000a1ecc7c553505a786a2031bc9851e8568) - 2025-07-01
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/1feb26031de045bcad44993b48f5a043afbe9e7a) - 2025-07-01
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/ac5f9106191b9a63b6ffba32ea8e6f8181f94647) - 2025-07-01
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/bdb665557298124850c84a64143501abbf4de127) - 2025-07-01
+* [Commit] [rlp: remove duplicate code in rlphacks packge (#15857)](https://github.com/erigontech/erigon/commit/e1d4df37ec7db73ccf2ede86e76b8b4bef83b7fd) - 2025-07-01
 ## Q2 2025
 
 

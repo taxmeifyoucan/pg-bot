@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [Cherry-pick: E3: History expiry was not working (#15836) (#15854)](https://github.com/erigontech/erigon/commit/576cbef8ef5c948cddb869189d82f0e81183f22f) - 2025-07-01
 ## Q2 2025
 
 

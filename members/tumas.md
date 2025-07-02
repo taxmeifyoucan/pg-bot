@@ -8,6 +8,11 @@ Team: Grandine
 
 ## Contributions
 
+## Q3 2025
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [Add `PubkeyCache` that stores decompressed pubkey bytes:](https://github.com/grandinetech/grandine/pull/243) - 2025-07-01
 ## Q2 2025
 
 

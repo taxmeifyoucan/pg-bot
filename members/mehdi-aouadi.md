@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 
 ## Contributions
 
+## Q3 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Commit] [remove unused --validators-proposer-blinded-blocks-enabled option (#9505)](https://github.com/Consensys/teku/commit/75d869d6f01444224c87abb564b60a3126da1395) - 2025-07-01
 ## Q2 2025
 
 

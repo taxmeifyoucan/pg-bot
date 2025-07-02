@@ -8,6 +8,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q3 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Pull Request] [feat: improve range sync in fulu](https://github.com/ChainSafe/lodestar/pull/8029) - 2025-07-01
+* [Commit] [fix: undefined syncInfo](https://github.com/ChainSafe/lodestar/commit/6495479be3a5941ed1dece4bd273c71b3f3129ea) - 2025-07-01
+* [Commit] [fix: handle error of getConnectedPeerSyncMeta() call](https://github.com/ChainSafe/lodestar/commit/be90fb02f0c0ccf09da9ce5d8ef906d83b2a8d02) - 2025-07-01
+* [Commit] [fix: undefined syncInfo](https://github.com/ChainSafe/lodestar/commit/1a697682c168cb86079f7d27c4ec1fe78ebf3546) - 2025-07-01
+* [Issue] [Include SingleAttestation when producing block](https://github.com/ChainSafe/lodestar/issues/8028) - 2025-07-01
 ## Q2 2025
 
 

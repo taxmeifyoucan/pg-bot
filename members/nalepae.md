@@ -8,6 +8,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 ## Contributions
 
+## Q3 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [PeerDAS: Implement reconstruct.](https://github.com/OffchainLabs/prysm/commit/fc433c50d244fd4c067f1a03ffbd492ce7d50d80) - 2025-07-01
+* [Commit] [PeerDAS: Implement reconstruct.](https://github.com/OffchainLabs/prysm/commit/6b5d2552a9fcdabeb0a478d7a1a671cc666381cf) - 2025-07-01
+* [Commit] [PeerDAS: Implement reconstruct.](https://github.com/OffchainLabs/prysm/commit/e3ba85ce876c598381cfce51a2ff575f373c6ccc) - 2025-07-01
+* [Commit] [`dataColumnSidecarByRootRPCHandler`: Do not rely any more on map iteration, which does not produce reproducible output order. (#15441)](https://github.com/OffchainLabs/prysm/commit/97f416b3a7c3a9854ab020ccb2068e5d4c0708e2) - 2025-07-01
 ## Q2 2025
 
 

@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 
 ## Contributions
 
+## Q3 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Update `SAMPLES_PER_SLOT` to be number of custody groups instead of data columns](https://github.com/sigp/lighthouse/pull/7683) - 2025-07-01
 ## Q2 2025
 
 

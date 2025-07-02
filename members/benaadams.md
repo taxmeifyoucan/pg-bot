@@ -8,6 +8,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Auto-update fast sync settings (#8881)](https://github.com/NethermindEth/nethermind/commit/10b6dc957c4f3eb1c5a5dbf4e7814e3093c34e7f) - 2025-07-01
+* [Commit] [Drop async where just pass through and return Task directly (#8906)](https://github.com/NethermindEth/nethermind/commit/905b61a562ee0b7d04386711acdced4ec6c64e52) - 2025-07-01
+* [Commit] [Update single node directly rather than creating array (#8907)](https://github.com/NethermindEth/nethermind/commit/21c8b2af8aa773c43168a3b199c6b357435f93e3) - 2025-07-01
+* [Pull Request] [Update single node directly rather than creating array](https://github.com/NethermindEth/nethermind/pull/8907) - 2025-07-01
+* [Pull Request] [Drop async where just pass through and return Task directly](https://github.com/NethermindEth/nethermind/pull/8906) - 2025-07-01
 ## Q2 2025
 
 

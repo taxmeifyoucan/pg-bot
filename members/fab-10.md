@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 
 ## Contributions
 
+## Q3 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Improve gas estimation when no gas pricing is present](https://github.com/hyperledger/besu/pull/8888) - 2025-07-01
 ## Q2 2025
 
 

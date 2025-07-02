@@ -8,6 +8,27 @@ Team: Reth
 
 ## Contributions
 
+## Q3 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Commit] [feat: auto-compile and install reth-bench when not available](https://github.com/paradigmxyz/reth/commit/7910d06afca67a772d5ea1666c32e2bcaff8ba71) - 2025-07-01
+* [Commit] [always fetch all for git](https://github.com/paradigmxyz/reth/commit/074ade9e7d10dad151a3005401b85abf674726f9) - 2025-07-01
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/ce25a514f2af3f027ef45c0a6daf33889a6511d4) - 2025-07-01
+* [Commit] [remove more dead code](https://github.com/paradigmxyz/reth/commit/d4bc1456f504e9669fd391cf8860d16d541918b1) - 2025-07-01
+* [Commit] [feat: integrate DatadirArgs and auto-derive JWT secret in reth-bench-compare](https://github.com/paradigmxyz/reth/commit/a3240f225324cd6980afb61a4a888b156d90cebd) - 2025-07-01
+* [Commit] [remove dead code](https://github.com/paradigmxyz/reth/commit/4c896c174dd8fd0299e0de4a269392761545c016) - 2025-07-01
+* [Commit] [refactor: remove redundant run_benchmark_with_baseline method](https://github.com/paradigmxyz/reth/commit/eb895bc7682d1fd174c5c19556b5ca38e90b77dc) - 2025-07-01
+* [Commit] [remove unused deps](https://github.com/paradigmxyz/reth/commit/0f8e7f1852c6e48ecaf3592976b3c67fe90721ea) - 2025-07-01
+* [Issue] [Rename `BlindedProvider` to `TrieNodeProvider`](https://github.com/paradigmxyz/reth/issues/17155) - 2025-07-01
+* [Commit] [chore(trie): use full_path for update_leaf argument](https://github.com/paradigmxyz/reth/commit/ac269c62aed2e07839abc72bc1ac2856fb70677c) - 2025-07-01
+* [Commit] [feat: remove redundant generic from `EthereumEngineValidatorBuilder` (#17108)](https://github.com/paradigmxyz/reth/commit/bdb3debdf1f0081a4135b7bc61ba87275317f073) - 2025-07-01
+* [Commit] [fix: update format strings and documentation in parallel sparse trie tests](https://github.com/paradigmxyz/reth/commit/aae9e19393e7a0013aaf708e30dcc4a965a7703e) - 2025-07-01
+* [Commit] [update wasm.sh exceptions](https://github.com/paradigmxyz/reth/commit/bc78606e55224db9df3428ab96a12c4879d82306) - 2025-07-01
+* [Commit] [switch to rustls](https://github.com/paradigmxyz/reth/commit/6d9cb89b146492ed9ef2fa90f3ab7920d47334ca) - 2025-07-01
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/05b61f91075e67399d755951bea68ec4db937b7b) - 2025-07-01
+* [Commit] [fix: update format strings to use inline syntax for clippy compliance](https://github.com/paradigmxyz/reth/commit/105ceb3d1221a0b889cab27b374c364fac700be4) - 2025-07-01
+* [Pull Request] [Claude/add baseline comparison](https://github.com/paradigmxyz/reth/pull/17154) - 2025-07-01
 ## Q2 2025
 
 

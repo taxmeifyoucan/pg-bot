@@ -8,6 +8,11 @@ Team: Portal Network (EF)
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/trin](https://github.com/ethereum/trin)
+* [Commit] [chore: update trusted block root to 0x3f054b3d4e2f3909baa0ebec5fe8f3d83c500a2723ac595180a75d955e4ce5a2 (#1880)](https://github.com/ethereum/trin/commit/1564d7e18645bbb01f6df1138a72b4a07ff207f2) - 2025-07-01
 ## Q2 2025
 
 

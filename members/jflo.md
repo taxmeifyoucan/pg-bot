@@ -8,6 +8,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 ## Contributions
 
+## Q3 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Eliminate AbstractRLPOutput abstraction to reduce technical debt](https://github.com/hyperledger/besu/pull/8890) - 2025-07-01
+* [Issue] [Eliminate AbstractRLPOutput abstraction to reduce technical debt](https://github.com/hyperledger/besu/issues/8889) - 2025-07-01
 ## Q2 2025
 
 

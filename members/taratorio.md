@@ -8,6 +8,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [execution/consensus: simplify Finalize/FinalizeAndAssemble interfaces to not return txns and receipts](https://github.com/erigontech/erigon/pull/15871) - 2025-07-01
+* [Commit] [EIP-7934: RLP Execution Block Size Limit (#15609)](https://github.com/erigontech/erigon/commit/294ee01463512a55a227705b9e991a93c668a847) - 2025-07-01
+* [Commit] [Caplin: Fix holesky/hoodi startup on develop (#15797)](https://github.com/erigontech/erigon/commit/2b0d28014b7a8e3b8cd916ea401e4fab5773f6a8) - 2025-07-01
+* [Commit] [log: add logger.Enabled api to loggers and log handlers (#15747)](https://github.com/erigontech/erigon/commit/7fb6586cafe3903eec1731fa0008cac328b5b6a7) - 2025-07-01
+* [Commit] [tests: disable non-compatible tests with race detector only when race mode is enabled (#15855)](https://github.com/erigontech/erigon/commit/dbf209b4c028a9c64f42b04fe1c37da66bf12d5d) - 2025-07-01
 ## Q2 2025
 
 

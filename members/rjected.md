@@ -8,6 +8,14 @@ Team: Reth
 
 ## Contributions
 
+## Q3 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Commit] [chore(trie): fix indents in docs](https://github.com/paradigmxyz/reth/commit/08a4adb9172760abdfdf1c7b11c13f54a9b9f98f) - 2025-07-01
+* [Commit] [chore(trie): remove prefix set language from subtrie update_leaf](https://github.com/paradigmxyz/reth/commit/50f6593805ec30487e2d3c0969772ef96e8dc13c) - 2025-07-01
+* [Commit] [chore(trie): remove prefix set language from subtrie update_leaf](https://github.com/paradigmxyz/reth/commit/7c6f27501fd43a19505ec9295c1746482a05ed98) - 2025-07-01
+* [Commit] [chore(trie): make debug assert for path check, remove value clone](https://github.com/paradigmxyz/reth/commit/14a4bed24c247948d13d1030bfabf84eafad67b5) - 2025-07-01
 ## Q2 2025
 
 

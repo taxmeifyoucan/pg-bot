@@ -8,6 +8,12 @@ Team: Erigon
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [Move bhilai fork to bor config and fix fork id tests (#15867)](https://github.com/erigontech/erigon/pull/15870) - 2025-07-01
+* [Pull Request] [cherry pick: forkid_test fix from release/3.0.10](https://github.com/erigontech/erigon/pull/15869) - 2025-07-01
 ## Q2 2025
 
 

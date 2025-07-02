@@ -8,6 +8,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [add depositContractAddress](https://github.com/NethermindEth/nethermind/commit/76b4952109012c647e145c1e29cce2e9494e0aaa) - 2025-07-01
+* [Pull Request] [Update spaceneth to mainnet spec](https://github.com/NethermindEth/nethermind/pull/8901) - 2025-07-01
 ## Q2 2025
 
 

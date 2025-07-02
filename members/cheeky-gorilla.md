@@ -8,6 +8,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 
 ## Contributions
 
+## Q3 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Commit] [Fix: remove Daniel Lazarenko](https://github.com/protocolguild/documentation/commit/cecb7450a3e297e07c49215915036368881e9b0c) - 2025-07-01
 ## Q2 2025
 
 

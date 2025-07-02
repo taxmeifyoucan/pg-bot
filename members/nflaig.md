@@ -8,6 +8,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q3 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Commit] [Use GENESIS_EPOCH in config](https://github.com/ChainSafe/lodestar/commit/6542a4f130c6fcf968d23990949febb93d395dbf) - 2025-07-01
+* [Commit] [Use getForkBoundaryAtEpoch to get info](https://github.com/ChainSafe/lodestar/commit/e325e67eb9791876181f32c7736231571f452e1c) - 2025-07-01
+* [Commit] [Use getForkBoundaryAtEpoch instead of fork info](https://github.com/ChainSafe/lodestar/commit/b6a43b2411f15b9f5a737f283038659aa232dbf0) - 2025-07-01
+* [Commit] [Fix req/resp unit tests](https://github.com/ChainSafe/lodestar/commit/f582a0e4ac7f11f1a1ea74e334fc28c70c186c77) - 2025-07-01
+* [Commit] [feat: track on chain proposer rewards per block (#8018)](https://github.com/ChainSafe/lodestar/commit/2fdd3fa446964d8f1f5c88c822cdbb88920090ca) - 2025-07-01
+* [Commit] [Let caller resolve fork boundary](https://github.com/ChainSafe/lodestar/commit/12ccd71e43158f2558f34cbcda9c4d0627ce328e) - 2025-07-01
 ## Q2 2025
 
 

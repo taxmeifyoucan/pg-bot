@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Update spaceneth to mainnet spec (#8901)](https://github.com/NethermindEth/nethermind/commit/f4e5baea4a78c0c495661eb96f81bd8f6602b9d7) - 2025-07-01
 ## Q2 2025
 
 

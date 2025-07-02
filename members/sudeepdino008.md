@@ -8,6 +8,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [[r30] EthGetLogsInvariants: wait for pending work (#15860)](https://github.com/erigontech/erigon/commit/8f995820333abd36d7ff3681614bd4ae1d07deec) - 2025-07-01
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/440baf11e1dafa3feda4866d957f3d335049f77a) - 2025-07-01
+* [Pull Request] [[r30] EthGetLogsInvariants: wait for pending work](https://github.com/erigontech/erigon/pull/15860) - 2025-07-01
 ## Q2 2025
 
 

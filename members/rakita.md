@@ -8,6 +8,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 ## Contributions
 
+## Q3 2025
+
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Commit] [feat: add custom precompile with journal access example (#2677)](https://github.com/bluealloy/revm/commit/48853c9cf53073309392d7406842368f307d3509) - 2025-07-01
+* [Commit] [docs: fix in pre_execution.rs about nonce bump for CREATE (#2684)](https://github.com/bluealloy/revm/commit/59066f017b88c7c342f721cf67afef5d2015bfe6) - 2025-07-01
 ## Q2 2025
 
 

@@ -8,6 +8,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 
 ## Contributions
 
+## Q3 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/46c5a5dcee3024efc067674fb447aaf5d2625038) - 2025-07-01
 ## Q2 2025
 
 

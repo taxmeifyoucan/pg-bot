@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 
 ## Contributions
 
+## Q3 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Use prepare_beacon_proposer endpoint for validator custody registration](https://github.com/sigp/lighthouse/pull/7681) - 2025-07-01
 ## Q2 2025
 
 

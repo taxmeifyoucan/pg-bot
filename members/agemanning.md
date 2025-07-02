@@ -8,6 +8,12 @@ Team: Lighthouse
 
 ## Contributions
 
+## Q3 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Commit] [Mallory - Single commit](https://github.com/sigp/lighthouse/commit/8c74f4c9c90a1ffaef22fd6876e824068f005815) - 2025-07-01
+* [Commit] [Mallory - Single commit](https://github.com/sigp/lighthouse/commit/9e23b14621d65136ecea2b50a0ceafb70372308a) - 2025-07-01
 ## Q2 2025
 
 

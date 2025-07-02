@@ -8,6 +8,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [Fixes for arbos related tracing (#15861)](https://github.com/erigontech/erigon/commit/b745aa0595235b36123377009f13f9f0e71486ba) - 2025-07-01
+* [Pull Request] [params: move bhilai fork to bor config](https://github.com/erigontech/erigon/pull/15865) - 2025-07-01
+* [Commit] [params: move bhilai fork to bor config (#15864)](https://github.com/erigontech/erigon/commit/c5cc724473ffffcd0d17b696c3ca01983922abc1) - 2025-07-01
+* [Commit] [params: move bhilai fork to bor config (#15864)](https://github.com/erigontech/erigon/commit/924287108d9506f0a5cdce178471a58de9c17117) - 2025-07-01
 ## Q2 2025
 
 

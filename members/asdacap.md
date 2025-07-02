@@ -8,6 +8,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Update src/Nethermind/Nethermind.Serialization.Rlp/HeaderDecoder.cs](https://github.com/NethermindEth/nethermind/commit/0fec83b958cd5b12405602153bda2cc6752ddef5) - 2025-07-01
+* [Commit] [Update src/Nethermind/Nethermind.Serialization.Rlp/HeaderDecoder.cs](https://github.com/NethermindEth/nethermind/commit/da4b4aab6605417fbca92b33b89eb7a0c9c47b14) - 2025-07-01
+* [Commit] [Unwrap invalid configuation exception (#8898)](https://github.com/NethermindEth/nethermind/commit/deadfe00c4a8e620a678f64986281654e6e1106b) - 2025-07-01
+* [Commit] [Change flashbots expected hash](https://github.com/NethermindEth/nethermind/commit/0fa8e77670bbccf0584586fd87571ae83e824844) - 2025-07-01
+* [Commit] [Making sure blob and excess blob goes the same](https://github.com/NethermindEth/nethermind/commit/5429a9d9c5d1c754b2c0d3e031755bddb5999bc7) - 2025-07-01
+* [Pull Request] [Fix/unencodable header](https://github.com/NethermindEth/nethermind/pull/8899) - 2025-07-01
 ## Q2 2025
 
 

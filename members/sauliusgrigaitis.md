@@ -8,6 +8,11 @@ Team: Grandine
 
 ## Contributions
 
+## Q3 2025
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [Increase HTTP API timeout to 1000s because state fetch with default a…](https://github.com/grandinetech/grandine/pull/242) - 2025-07-01
 ## Q2 2025
 
 

@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q3 2025
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [fix: add missing max_pending_deposits_per_epoch preset value](https://github.com/grandinetech/grandine/pull/245) - 2025-07-01
 ## Q2 2025
 
 

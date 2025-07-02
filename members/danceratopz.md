@@ -8,6 +8,18 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Commit] [Deployed 5097bf73ef to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1c3d003c020164f53f0cae4fb845e1bc1390e7cc) - 2025-07-01
+* [Commit] [refactor(benchmark): don't mark the BLS12-381 tests for benchmarking (#1822)](https://github.com/ethereum/execution-spec-tests/commit/5097bf73ef1cb6baa23c062aee47c3b1e409f4b3) - 2025-07-01
+* [Commit] [Deployed dd83fba104 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/d5ae7b1efce3de384810bad6ac380c4d71978c4c) - 2025-07-01
+* [Commit] [Deployed 84cc036475 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/db4816bce3ddb77e28004a42624dd15b42aa1aff) - 2025-07-01
+* [Commit] [Deployed c9b54e396c to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e910dec70a0980ad3c7753f87ed4c228b5f31d27) - 2025-07-01
+* [Commit] [refactor(all): modernize codebase with python 3.11 features (#1812)](https://github.com/ethereum/execution-spec-tests/commit/c9b54e396cb86ee67816e6d3a7087f8b6bf56ccc) - 2025-07-01
+* [Commit] [refactor(cli): remove unnecessary Docker wrapper functions](https://github.com/ethereum/execution-spec-tests/commit/156e6ebda4983e2d17aa87290813e05646b229a7) - 2025-07-01
+* [Commit] [feat(consume): add initial implementation of consume enginex](https://github.com/ethereum/execution-spec-tests/commit/7e2cd298724c3965e70321be05864356d770ac64) - 2025-07-01
 ## Q2 2025
 
 

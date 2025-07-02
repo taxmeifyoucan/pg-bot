@@ -8,6 +8,12 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 
 ## Contributions
 
+## Q3 2025
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Commit] [oops](https://github.com/status-im/nimbus-eth1/commit/21292018a9c9ee0f46a3c2fea4a27bceb246123b) - 2025-07-01
+* [Commit] [Chicken and egg](https://github.com/status-im/nimbus-eth1/commit/d84cfaf9986a114e2bec558424c9089a6f079a95) - 2025-07-01
 ## Q2 2025
 
 

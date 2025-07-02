@@ -8,6 +8,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Fully use ethkzg](https://github.com/NethermindEth/nethermind/commit/70a671d0a7b73dd69971a9f159634547d1b8ac6b) - 2025-07-01
+* [Commit] [Fix dep](https://github.com/NethermindEth/nethermind/commit/bc349a40a0e99456016cc782456e2e9fb716eac9) - 2025-07-01
 ## Q2 2025
 
 

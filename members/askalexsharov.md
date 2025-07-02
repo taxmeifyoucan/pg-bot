@@ -8,6 +8,25 @@ Team: Erigon
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [[r3.1] integrity speedup (#15853)](https://github.com/erigontech/erigon/commit/f5eff381bfc3de3d0f80d812aa99a7049a5d3bae) - 2025-07-01
+* [Commit] [rpc: prealloc map to avoid map growing (#15862)](https://github.com/erigontech/erigon/commit/bc303e2fe46df2e8b6faa972ddf1b9d7231b0f8f) - 2025-07-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/58a364fefcdd38f3413ee09c0fad2b8bc54fb1f6) - 2025-07-01
+* [Commit] [E3: Tune commitment history paging compression (#15762)](https://github.com/erigontech/erigon/commit/17a525fdbf560e43929fe5eec44b8d84beca4977) - 2025-07-01
+* [Commit] [fix for heimdall integrity (#15381)](https://github.com/erigontech/erigon/commit/3c7d55c77516f538105dec391b1e1fe87ea43767) - 2025-07-01
+* [Commit] [Use same receiver name for `IntraBlockState` (#15737)](https://github.com/erigontech/erigon/commit/caa291d9072d7c299796e020cb85df9a4251c1e4) - 2025-07-01
+* [Commit] [rpcademon: use header instead of blockWithTxs (trace_call and trace_callMany) (#15841)](https://github.com/erigontech/erigon/commit/7e1811f205b950d10047f6c58596f29c7fc998c7) - 2025-07-01
+* [Commit] [rpcdaemon: use header instead of blockWithSenders() (debug_traceCall() debug_traceCallMany()) (#15851)](https://github.com/erigontech/erigon/commit/effc8ae27087afc9e644512fb8850c0b16345e1c) - 2025-07-01
+* [Commit] [EthGetLogsInvariants: wait for pending work (#15856)](https://github.com/erigontech/erigon/commit/ec04aee3e11329c87d05991af85cfb88022bd6c6) - 2025-07-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/14d5d46bf16442de0cbe34fc2264f94f443b58db) - 2025-07-01
+* [Pull Request] [BenchmarkDecompress: on 0.5mb words](https://github.com/erigontech/erigon/pull/15858) - 2025-07-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8950b5c6993fe1e1091c657dedf81a2f096ddde9) - 2025-07-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e55138e7a78347f8c2d693e06f60904146c32cbf) - 2025-07-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dc46efd7c523e8413e1abac830ab21b2d78d4201) - 2025-07-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/435b4c7a46509660780d8af95d6b537955ba01ae) - 2025-07-01
 ## Q2 2025
 
 
