@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 
 ## Contributions
 
+## Q3 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] [Add data column sidecars by root handler test + fix bugs](https://github.com/Consensys/teku/pull/9629) - 2025-07-02
 ## Q2 2025
 
 

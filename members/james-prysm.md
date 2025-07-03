@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 
 ## Contributions
 
+## Q3 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [PeerDAS: Implement reconstruct. (#15454)](https://github.com/OffchainLabs/prysm/commit/b1ac8209b2c7f518726085537c42161027dd5e14) - 2025-07-02
 ## Q2 2025
 
 

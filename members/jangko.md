@@ -14,6 +14,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [oops](https://github.com/status-im/nimbus-eth1/commit/21292018a9c9ee0f46a3c2fea4a27bceb246123b) - 2025-07-01
 * [Commit] [Chicken and egg](https://github.com/status-im/nimbus-eth1/commit/d84cfaf9986a114e2bec558424c9089a6f079a95) - 2025-07-01
+* [Commit] [no changes to chain_private](https://github.com/status-im/nimbus-eth1/commit/b464d61a1f40576a1ad3107653dbe217cfdc2d87) - 2025-07-02
+* [Commit] [Optimize updateFinalized](https://github.com/status-im/nimbus-eth1/commit/5d1fcad04d499631813929810fbd6cdc8573a3d9) - 2025-07-02
+* [Commit] [fix: string -> int for ports.discovery and listener (#3438)](https://github.com/status-im/nimbus-eth1/commit/e528f5fc598ab05d84965e10cac2ec636c6b9b96) - 2025-07-02
 ## Q2 2025
 
 

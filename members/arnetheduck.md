@@ -14,6 +14,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [aristo: fold Adm column family into Vtx (#3383)](https://github.com/status-im/nimbus-eth1/commit/f268688da8d296f91d518bcc6ec7c66c85723fd1) - 2025-07-01
 * [Commit] [Query and store blob transactions into txpool (#3375)](https://github.com/status-im/nimbus-eth1/commit/6ce4568e628ea33b9e3d55e035e5e68df7417a39) - 2025-07-01
+
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/c01a25e6c7a9a1ce8a383dd54acab9e0ba172612) - 2025-07-02
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

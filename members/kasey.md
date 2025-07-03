@@ -8,6 +8,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 
 ## Contributions
 
+## Q3 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [potuz' feedback (redundant check) + for range](https://github.com/OffchainLabs/prysm/commit/1693245c3369669286dc8c8537ac35ac438bef55) - 2025-07-02
+* [Commit] [comment cleanup re potuz' feedback](https://github.com/OffchainLabs/prysm/commit/8a87a1a8756cf42278c05c7c0f3c92b87a5c63c9) - 2025-07-02
 ## Q2 2025
 
 

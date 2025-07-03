@@ -17,6 +17,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Caplin: Fix holesky/hoodi startup on develop (#15797)](https://github.com/erigontech/erigon/commit/2b0d28014b7a8e3b8cd916ea401e4fab5773f6a8) - 2025-07-01
 * [Commit] [log: add logger.Enabled api to loggers and log handlers (#15747)](https://github.com/erigontech/erigon/commit/7fb6586cafe3903eec1731fa0008cac328b5b6a7) - 2025-07-01
 * [Commit] [tests: disable non-compatible tests with race detector only when race mode is enabled (#15855)](https://github.com/erigontech/erigon/commit/dbf209b4c028a9c64f42b04fe1c37da66bf12d5d) - 2025-07-01
+* [Pull Request] [p2p/sentry: improve logging around header and body requests](https://github.com/erigontech/erigon/pull/15911) - 2025-07-02
+* [Pull Request] [txnprovider/shutter: fix flaky integration test failure due to jwt secret creation race](https://github.com/erigontech/erigon/pull/15909) - 2025-07-02
 ## Q2 2025
 
 

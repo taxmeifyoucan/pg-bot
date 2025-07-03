@@ -8,6 +8,12 @@ Team: Geth
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Commit] [accounts/abi: generate TryPack* methods for abigen v2 bindings (#31692)](https://github.com/ethereum/go-ethereum/commit/bc67e7dd487189b828d63927b453f4af2e67f2ff) - 2025-07-02
+* [Commit] [eth/catalyst: fix edge case in simulated backend (#31871)](https://github.com/ethereum/go-ethereum/commit/3fb6499fc975eb55a26098d93b7a5154e700ec5b) - 2025-07-02
 ## Q2 2025
 
 

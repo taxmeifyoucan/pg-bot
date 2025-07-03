@@ -13,6 +13,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Update `SAMPLES_PER_SLOT` to be number of custody groups instead of data columns](https://github.com/sigp/lighthouse/pull/7683) - 2025-07-01
+* [Pull Request] [Record v2 beacon blocks http api metrics separately](https://github.com/sigp/lighthouse/pull/7692) - 2025-07-02
+* [Commit] [Fix and test checkpoint sync from genesis (#7689)](https://github.com/sigp/lighthouse/commit/a459a9af98c9da7dbdf11e36ab2472a11cac4c52) - 2025-07-02
+* [Commit] [Update `SAMPLES_PER_SLOT` to be number of custody groups instead of data columns (#7683)](https://github.com/sigp/lighthouse/commit/41742ce2bde924e4dc6684b430815ca1895ae225) - 2025-07-02
 ## Q2 2025
 
 

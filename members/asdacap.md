@@ -18,6 +18,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Change flashbots expected hash](https://github.com/NethermindEth/nethermind/commit/0fa8e77670bbccf0584586fd87571ae83e824844) - 2025-07-01
 * [Commit] [Making sure blob and excess blob goes the same](https://github.com/NethermindEth/nethermind/commit/5429a9d9c5d1c754b2c0d3e031755bddb5999bc7) - 2025-07-01
 * [Pull Request] [Fix/unencodable header](https://github.com/NethermindEth/nethermind/pull/8899) - 2025-07-01
+* [Pull Request] [Ensure produced block have expected transaction in test](https://github.com/NethermindEth/nethermind/pull/8913) - 2025-07-02
+* [Commit] [Condense](https://github.com/NethermindEth/nethermind/commit/0696d7b5d0b82b940df39bf8fc91f06ac550cf4e) - 2025-07-02
+* [Commit] [How does this feel?](https://github.com/NethermindEth/nethermind/commit/e31a3300fdb33924a5919b8d40885944d80e72f6) - 2025-07-02
+* [Commit] [Aha...](https://github.com/NethermindEth/nethermind/commit/acad56860995d2e72999797f9ac3adbf5392e2b0) - 2025-07-02
+* [Commit] [Tell me what ills you](https://github.com/NethermindEth/nethermind/commit/5888846048bf8f898d61d9634c102c9f6e718894) - 2025-07-02
+* [Commit] [Forgot to actually set the trace](https://github.com/NethermindEth/nethermind/commit/a3f24e077382f366783f013d9050b02a0fa598ca) - 2025-07-02
+* [Commit] [More log](https://github.com/NethermindEth/nethermind/commit/d61d9d4181472b9a022438bb3b21e3f3f5eda1e3) - 2025-07-02
+* [Commit] [Is it this?](https://github.com/NethermindEth/nethermind/commit/1fa94121f9b3b18d6fbe07ac25d6c9ab0d668f10) - 2025-07-02
+* [Pull Request] [Test/the ci json](https://github.com/NethermindEth/nethermind/pull/8912) - 2025-07-02
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/46e3bd44908fc86618fa5ae47ed463fb078b5acb) - 2025-07-02
+* [Commit] [Just removes the timeout in tests when debugging an rpc call (#8904)](https://github.com/NethermindEth/nethermind/commit/408863a0f4ac5d67e2322d694a55ed251f592fc7) - 2025-07-02
+* [Pull Request] [Feature/Address state by block header](https://github.com/NethermindEth/nethermind/pull/8911) - 2025-07-02
+* [Commit] [Read only tx scope special case](https://github.com/NethermindEth/nethermind/commit/f29fb82993f2b55db1d4f3bafc4c9ea7a0df8e91) - 2025-07-02
+* [Commit] [State reader](https://github.com/NethermindEth/nethermind/commit/84ec53e97352d3d7004e9d1000ae6714178cb50f) - 2025-07-02
 ## Q2 2025
 
 

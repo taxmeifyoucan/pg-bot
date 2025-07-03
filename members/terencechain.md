@@ -8,6 +8,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 ## Contributions
 
+## Q3 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [Add batch verifier limit](https://github.com/OffchainLabs/prysm/commit/a4587d83a7aed0d96757ae14f0b096c58d5f70c1) - 2025-07-02
+* [Commit] [Fix LC versioning bug (#15400)](https://github.com/OffchainLabs/prysm/commit/bddcc158e4551a2d673ce3ebd693f48d78961dc2) - 2025-07-02
+* [Commit] [Add batch verifier limit](https://github.com/OffchainLabs/prysm/commit/fd9171168dc3847e7ff530b0a93c28a265f2c8ee) - 2025-07-02
+* [Commit] [Add batch verifier limit](https://github.com/OffchainLabs/prysm/commit/ecc7e1e223e4d951f49ad2da29a0f6676b418276) - 2025-07-02
+* [Pull Request] [Add configurable batch verifier limit for attestation signature verification](https://github.com/OffchainLabs/prysm/pull/15467) - 2025-07-02
 ## Q2 2025
 
 

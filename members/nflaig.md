@@ -18,6 +18,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix req/resp unit tests](https://github.com/ChainSafe/lodestar/commit/f582a0e4ac7f11f1a1ea74e334fc28c70c186c77) - 2025-07-01
 * [Commit] [feat: track on chain proposer rewards per block (#8018)](https://github.com/ChainSafe/lodestar/commit/2fdd3fa446964d8f1f5c88c822cdbb88920090ca) - 2025-07-01
 * [Commit] [Let caller resolve fork boundary](https://github.com/ChainSafe/lodestar/commit/12ccd71e43158f2558f34cbcda9c4d0627ce328e) - 2025-07-01
+* [Commit] [Fix next boundary epoch when registering protocols](https://github.com/ChainSafe/lodestar/commit/708575c8694bbb1256c4165f4581a77be3ac850e) - 2025-07-02
 ## Q2 2025
 
 

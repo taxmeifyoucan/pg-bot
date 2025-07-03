@@ -20,6 +20,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [refactor(all): modernize codebase with python 3.11 features (#1812)](https://github.com/ethereum/execution-spec-tests/commit/c9b54e396cb86ee67816e6d3a7087f8b6bf56ccc) - 2025-07-01
 * [Commit] [refactor(cli): remove unnecessary Docker wrapper functions](https://github.com/ethereum/execution-spec-tests/commit/156e6ebda4983e2d17aa87290813e05646b229a7) - 2025-07-01
 * [Commit] [feat(consume): add initial implementation of consume enginex](https://github.com/ethereum/execution-spec-tests/commit/7e2cd298724c3965e70321be05864356d770ac64) - 2025-07-01
+* [Issue] [feat(consume): add a `--extract-to` flag to `consume cache`](https://github.com/ethereum/execution-spec-tests/issues/1835) - 2025-07-02
+* [Issue] [bug(consume): `consume cache`'s `--cache-folder` flag is broken; it has no effect](https://github.com/ethereum/execution-spec-tests/issues/1834) - 2025-07-02
 ## Q2 2025
 
 

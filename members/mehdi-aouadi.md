@@ -13,6 +13,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 
 [consensys/teku](https://github.com/consensys/teku)
 * [Commit] [remove unused --validators-proposer-blinded-blocks-enabled option (#9505)](https://github.com/Consensys/teku/commit/75d869d6f01444224c87abb564b60a3126da1395) - 2025-07-01
+* [Pull Request] [ignore blob sidecars by range requests after FULU](https://github.com/Consensys/teku/pull/9624) - 2025-07-02
 ## Q2 2025
 
 

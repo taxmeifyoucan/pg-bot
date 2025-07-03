@@ -14,6 +14,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Eliminate AbstractRLPOutput abstraction to reduce technical debt](https://github.com/hyperledger/besu/pull/8890) - 2025-07-01
 * [Issue] [Eliminate AbstractRLPOutput abstraction to reduce technical debt](https://github.com/hyperledger/besu/issues/8889) - 2025-07-01
+* [Pull Request] [[WIP] Refactor ForkId implementation to reduce technical debt](https://github.com/hyperledger/besu/pull/8904) - 2025-07-02
+* [Issue] [Technical Debt: ForkId implementation is unnecessarily convoluted and brittle](https://github.com/hyperledger/besu/issues/8903) - 2025-07-02
+* [Issue] [Evaluate PathBasedWorldStateProvider abstraction consolidation](https://github.com/hyperledger/besu/issues/8902) - 2025-07-02
+* [Issue] [Consolidate FlatDbStrategyProvider abstraction](https://github.com/hyperledger/besu/issues/8901) - 2025-07-02
+* [Issue] [Consolidate PathBasedWorldStateKeyValueStorage abstraction](https://github.com/hyperledger/besu/issues/8900) - 2025-07-02
+* [Issue] [Eliminate unnecessary abstractions with single implementations (batch 1)](https://github.com/hyperledger/besu/issues/8899) - 2025-07-02
+* [Issue] [Test issue created via Claude Code MCP](https://github.com/hyperledger/besu/issues/8897) - 2025-07-02
+* [Issue] [Test Issue - MCP Integration Verification](https://github.com/hyperledger/besu/issues/8896) - 2025-07-02
 ## Q2 2025
 
 

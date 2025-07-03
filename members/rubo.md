@@ -8,6 +8,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Fix a few Hive tests of `eth_simulatev1` (#8862)](https://github.com/NethermindEth/nethermind/commit/a2f5354d8029ed31c37bd6843e2693919b3ba9c8) - 2025-07-02
+* [Commit] [Disable Docker build summary](https://github.com/NethermindEth/nethermind/commit/8f07370a489440aa098beb7407509be763a6d885) - 2025-07-02
+* [Commit] [Update `docker/build-push-action` version](https://github.com/NethermindEth/nethermind/commit/dce8988bcfbf376d6b2e689ee3e010aea09c56de) - 2025-07-02
 ## Q2 2025
 
 

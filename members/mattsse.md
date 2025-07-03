@@ -15,6 +15,7 @@ Team: Reth
 * [Pull Request] [chore: add debug for forkid mismatch](https://github.com/paradigmxyz/reth/pull/17157) - 2025-07-01
 * [Pull Request] [chore: bump revm](https://github.com/paradigmxyz/reth/pull/17153) - 2025-07-01
 * [Commit] [add bounds](https://github.com/paradigmxyz/reth/commit/b48bc815f0b46e28520ff3c0506c2b69c27ef032) - 2025-07-01
+* [Issue] [reuse encoded txs when doing the payload to RecoveredBlock conversion](https://github.com/paradigmxyz/reth/issues/17186) - 2025-07-02
 ## Q2 2025
 
 

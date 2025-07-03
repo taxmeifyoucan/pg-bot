@@ -7,6 +7,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q3 2025
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Commit] [rman hack 2](https://github.com/status-im/nimbus-eth2/commit/919af2a986f6967b1c108d15bbbf8059edf51b3b) - 2025-07-02
+* [Commit] [rework validator custody counting logic and remove another assertion](https://github.com/status-im/nimbus-eth2/commit/71cf073961d63020664a9f5d05bf6609fe458c1a) - 2025-07-02
+* [Commit] [cancel blob loop post fulu fork epoch](https://github.com/status-im/nimbus-eth2/commit/549d54b6a22be7630e5b2b19181104e18138a4a8) - 2025-07-02
+* [Commit] [add more logging and reduce getblobs timeout](https://github.com/status-im/nimbus-eth2/commit/c21af83178e5bdb46e18c59b8bcb84f37c3ff13a) - 2025-07-02
 ## Q2 2025
 
 

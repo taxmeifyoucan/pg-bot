@@ -13,6 +13,11 @@ Team: Portal Network (EF)
 
 [ethereum/trin](https://github.com/ethereum/trin)
 * [Commit] [chore: update trusted block root to 0x3f054b3d4e2f3909baa0ebec5fe8f3d83c500a2723ac595180a75d955e4ce5a2 (#1880)](https://github.com/ethereum/trin/commit/1564d7e18645bbb01f6df1138a72b4a07ff207f2) - 2025-07-01
+
+* [Commit] [chore(deps): weekly `cargo update` (#1879)](https://github.com/ethereum/trin/commit/e62cf2843f887aa09c948b8b39e9672196191289) - 2025-07-02
+* [Commit] [docs: add warning to readme (#1877)](https://github.com/ethereum/trin/commit/7be53657185220d01c42c81fd4e180ba2da0f056) - 2025-07-02
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add "Prototyping" working group](https://github.com/protocolguild/documentation/pull/363) - 2025-07-02
 ## Q2 2025
 
 

@@ -27,6 +27,14 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e55138e7a78347f8c2d693e06f60904146c32cbf) - 2025-07-01
 * [Commit] [save](https://github.com/erigontech/erigon/commit/dc46efd7c523e8413e1abac830ab21b2d78d4201) - 2025-07-01
 * [Commit] [save](https://github.com/erigontech/erigon/commit/435b4c7a46509660780d8af95d6b537955ba01ae) - 2025-07-01
+* [Issue] [integrity: can't finish](https://github.com/erigontech/erigon/issues/15887) - 2025-07-02
+* [Issue] [`IntegrityInvertedIndexAllValuesAreInRange` make parallel](https://github.com/erigontech/erigon/issues/15886) - 2025-07-02
+* [Issue] [`tracefrom` index - implement as native feature of `ibs` instead of tracer/hook](https://github.com/erigontech/erigon/issues/15885) - 2025-07-02
+* [Issue] [`History.Put` idempotency](https://github.com/erigontech/erigon/issues/15884) - 2025-07-02
+* [Issue] [`stage_custom_trace`: can't run if state snapshots are ahead of block snapshots](https://github.com/erigontech/erigon/issues/15883) - 2025-07-02
+* [Commit] [params: move bhilai fork to bor config (#15863)](https://github.com/erigontech/erigon/commit/80948d06c731d9e605cc54fad195572d4095daf8) - 2025-07-02
+* [Commit] [BenchmarkDecompress: on 0.5mb words (#15858)](https://github.com/erigontech/erigon/commit/e95b5d8e5bae7b662da9ddde3a1df611d905531d) - 2025-07-02
+* [Commit] [kick ci](https://github.com/erigontech/erigon/commit/e4f50f91d73ef42afe9f708cb03e7871cf3cfbd5) - 2025-07-02
 ## Q2 2025
 
 

@@ -17,6 +17,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update single node directly rather than creating array (#8907)](https://github.com/NethermindEth/nethermind/commit/21c8b2af8aa773c43168a3b199c6b357435f93e3) - 2025-07-01
 * [Pull Request] [Update single node directly rather than creating array](https://github.com/NethermindEth/nethermind/pull/8907) - 2025-07-01
 * [Pull Request] [Drop async where just pass through and return Task directly](https://github.com/NethermindEth/nethermind/pull/8906) - 2025-07-01
+* [Pull Request] [Reduce tx requests](https://github.com/NethermindEth/nethermind/pull/8918) - 2025-07-02
+* [Commit] [Clone txs](https://github.com/NethermindEth/nethermind/commit/1eef094d69f9ee0f6e575a2a76e5a4c8d9bcb978) - 2025-07-02
 ## Q2 2025
 
 

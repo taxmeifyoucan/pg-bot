@@ -8,6 +8,11 @@ Team: [ethereum/pm](https://github.com/ethereum/pm)
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Move previously CFI'd Glamsterdam EIPs to PFI](https://github.com/ethereum/EIPs/pull/9970) - 2025-07-02
 ## Q2 2025
 
 

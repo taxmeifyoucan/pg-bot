@@ -29,6 +29,10 @@ Team: Reth
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/05b61f91075e67399d755951bea68ec4db937b7b) - 2025-07-01
 * [Commit] [fix: update format strings to use inline syntax for clippy compliance](https://github.com/paradigmxyz/reth/commit/105ceb3d1221a0b889cab27b374c364fac700be4) - 2025-07-01
 * [Pull Request] [Claude/add baseline comparison](https://github.com/paradigmxyz/reth/pull/17154) - 2025-07-01
+* [Commit] [more methods, fix comments](https://github.com/paradigmxyz/reth/commit/b021f9f644ed0020c4ad06f7d1a02dc6c9701464) - 2025-07-02
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/671cf2223816d1bc97590c97a8f653fcc19a0109) - 2025-07-02
+* [Commit] [fix clippy](https://github.com/paradigmxyz/reth/commit/96539076ffa8933a66aa86fd7e89c705165c9ff6) - 2025-07-02
+* [Pull Request] [perf(trie): sparse trie trait](https://github.com/paradigmxyz/reth/pull/17181) - 2025-07-02
 ## Q2 2025
 
 
