@@ -14,6 +14,20 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat: add custom precompile with journal access example (#2677)](https://github.com/bluealloy/revm/commit/48853c9cf53073309392d7406842368f307d3509) - 2025-07-01
 * [Commit] [docs: fix in pre_execution.rs about nonce bump for CREATE (#2684)](https://github.com/bluealloy/revm/commit/59066f017b88c7c342f721cf67afef5d2015bfe6) - 2025-07-01
+* [Commit] [docs: bump changelog for v81 (#2691)](https://github.com/bluealloy/revm/commit/d9f5cb87347f094d73b76d3583ec23484d4a3267) - 2025-07-03
+* [Pull Request] [docs: bump changelog for v81](https://github.com/bluealloy/revm/pull/2691) - 2025-07-03
+* [Commit] [docs: fix minor typo (#2672)](https://github.com/bluealloy/revm/commit/937457cceea601ab388647817fa7eb6164f35470) - 2025-07-03
+* [Commit] [cargo fmt](https://github.com/bluealloy/revm/commit/70c61105471f8269196b135ff03b2ec939f87f19) - 2025-07-03
+* [Pull Request] [test: add comprehensive tests for TxEnvBuilder](https://github.com/bluealloy/revm/pull/2690) - 2025-07-03
+* [Commit] [bump: tag v81 revm v27.0.1 (#2689)](https://github.com/bluealloy/revm/commit/7013583b3316aa77460076f10b9e23a5f37edd50) - 2025-07-03
+* [Pull Request] [bump: tag v81 revm v27.0.1](https://github.com/bluealloy/revm/pull/2689) - 2025-07-03
+* [Commit] [fix(inspector): revert pointer before calling step_end (#2687)](https://github.com/bluealloy/revm/commit/4a7be593551a5579aee21a5810d095a3040c010d) - 2025-07-03
+* [Commit] [test that opcode will not panic](https://github.com/bluealloy/revm/commit/0be1aa3760cd7329bca1d993d8fd522943c48ae7) - 2025-07-03
+* [Commit] [test that opcode will not panic](https://github.com/bluealloy/revm/commit/3adf185a766f1ca77f7578ecb6588eab0c2b578a) - 2025-07-03
+* [Commit] [chore: add PartialEq u8 (#2688)](https://github.com/bluealloy/revm/commit/320338ab6bfb95428536a63bc2231424468f9176) - 2025-07-03
+* [Pull Request] [fix(inspector): revert pointer before calling step_end](https://github.com/bluealloy/revm/pull/2687) - 2025-07-03
+* [Commit] [docs: document external state transitions for EIP-4788 and EIP-2935 (#2678)](https://github.com/bluealloy/revm/commit/c3385e358b121755538734aff2581263c3d20408) - 2025-07-03
+* [Commit] [docs: minor fixes (#2686)](https://github.com/bluealloy/revm/commit/7f0f7eff086e753246e8f162d9389c4dea0e4a12) - 2025-07-03
 ## Q2 2025
 
 

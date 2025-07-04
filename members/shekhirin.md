@@ -33,6 +33,30 @@ Team: Reth
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/671cf2223816d1bc97590c97a8f653fcc19a0109) - 2025-07-02
 * [Commit] [fix clippy](https://github.com/paradigmxyz/reth/commit/96539076ffa8933a66aa86fd7e89c705165c9ff6) - 2025-07-02
 * [Pull Request] [perf(trie): sparse trie trait](https://github.com/paradigmxyz/reth/pull/17181) - 2025-07-02
+* [Commit] [return update subtrie hashes parallel behaviour](https://github.com/paradigmxyz/reth/commit/3a805d5865f9ff6309b619ae1e8e355bef2a08f0) - 2025-07-03
+* [Commit] [docs: fix typo in trie test comment (#17199)](https://github.com/paradigmxyz/reth/commit/a550025a8fd061a4b63d3d1cc6f0d46194bf4054) - 2025-07-03
+* [Commit] [docs: update snapshot URL from downloads.merkle.io to snapshots.merkle.io (#17190)](https://github.com/paradigmxyz/reth/commit/c2737957d7d3663f995d54f1c42049301e4a3947) - 2025-07-03
+* [Commit] [fix: update reveal_node tests to use ParallelSparseTrieTestContext](https://github.com/paradigmxyz/reth/commit/b5e2b797ccab063387d56e4810952eed6d4e3bd7) - 2025-07-03
+* [Commit] [fix fmt & clippy](https://github.com/paradigmxyz/reth/commit/5b082f58826a7681198b8cae4f89dc7a4dbd8e14) - 2025-07-03
+* [Commit] [docs: typos (#17168)](https://github.com/paradigmxyz/reth/commit/c6e6a54d5bce914467b04b33b3322ad6d4112788) - 2025-07-03
+* [Commit] [add find_leaf trait method](https://github.com/paradigmxyz/reth/commit/b1fbbd1aa6490b8276d0d691b973bce5951fe434) - 2025-07-03
+* [Pull Request] [Alexey/parallel sparse trie tests rebased](https://github.com/paradigmxyz/reth/pull/17194) - 2025-07-03
+* [Commit] [fix subtrie_for_path comment](https://github.com/paradigmxyz/reth/commit/13562afe542637152b3f8a9e747c053e10c087b8) - 2025-07-03
+* [Commit] [fix reserve_nodes unused argument](https://github.com/paradigmxyz/reth/commit/065acbe437b454382e994dbbae8d1755f1401832) - 2025-07-03
+* [Pull Request] [perf(trie): implement `SparseTrieInterface` for `ParallelSparseTrie`](https://github.com/paradigmxyz/reth/pull/17192) - 2025-07-03
+* [Commit] [implement wipe](https://github.com/paradigmxyz/reth/commit/68a0d2383f0004c484fd616a9c8270d632010e25) - 2025-07-03
+* [Commit] [remove Clone bound](https://github.com/paradigmxyz/reth/commit/77db3108e78740dcd66fe15daab7fd9a9abd7f51) - 2025-07-03
+* [Commit] [custom from_root impl](https://github.com/paradigmxyz/reth/commit/bb42bf866f77cd78ca7726472414dbc6d1b966e5) - 2025-07-03
+* [Commit] [custom from_root impl](https://github.com/paradigmxyz/reth/commit/5cd40830e3f3169d1a292645933a3719eee5395f) - 2025-07-03
+* [Commit] [remove Display bound](https://github.com/paradigmxyz/reth/commit/0ebf42df6fcfe3116a00e5b9f8ac8324cb12aa3a) - 2025-07-03
+* [Commit] [clarify panic condition for with_root](https://github.com/paradigmxyz/reth/commit/581613616a8432c7a043299aa9f6ab83945a3aa3) - 2025-07-03
+* [Commit] [implement clear](https://github.com/paradigmxyz/reth/commit/c4dc444e3bd65b7e31646160be58abb69a6cb4de) - 2025-07-03
+* [Commit] [remove reserve_nodes](https://github.com/paradigmxyz/reth/commit/64d76c61d9c6e2e1f504cdf653abde0e228ea69c) - 2025-07-03
+* [Commit] [implement get_leaf_value](https://github.com/paradigmxyz/reth/commit/9880fc136e5b3ca55cdd249ec608b7de01006bc0) - 2025-07-03
+* [Pull Request] [perf(trie): implement `SparseTrieInterface` for `RevealedSparseTrie`](https://github.com/paradigmxyz/reth/pull/17191) - 2025-07-03
+* [Commit] [perf(trie): implement `SparseTrieInterface` for `RevealedSparseTrie`](https://github.com/paradigmxyz/reth/commit/db08525e2d8c3439f90ebb941e3688d384eeb3ca) - 2025-07-03
+* [Commit] [more arguments/returns comments](https://github.com/paradigmxyz/reth/commit/1e043c938f188b82634a9604fbd76d25fe5d48c9) - 2025-07-03
+* [Commit] [feat: expose chain_spec field in LocalPayloadAttributesBuilder (#17151)](https://github.com/paradigmxyz/reth/commit/40fd91a06861f58ad2df54975115b5e220cef2e8) - 2025-07-03
 ## Q2 2025
 
 

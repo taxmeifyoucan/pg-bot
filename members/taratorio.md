@@ -19,6 +19,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tests: disable non-compatible tests with race detector only when race mode is enabled (#15855)](https://github.com/erigontech/erigon/commit/dbf209b4c028a9c64f42b04fe1c37da66bf12d5d) - 2025-07-01
 * [Pull Request] [p2p/sentry: improve logging around header and body requests](https://github.com/erigontech/erigon/pull/15911) - 2025-07-02
 * [Pull Request] [txnprovider/shutter: fix flaky integration test failure due to jwt secret creation race](https://github.com/erigontech/erigon/pull/15909) - 2025-07-02
+* [Commit] [unblock docker image ci/cd](https://github.com/erigontech/erigon/commit/06a49948c337c874a741cb63287084b97191573a) - 2025-07-03
+* [Commit] [execution/stagedsync: add debug timing logs to exec prune steps](https://github.com/erigontech/erigon/commit/54c6d8df92b7b2831d3bed3120dc5a54792db2db) - 2025-07-03
+* [Commit] [txnprovider/shutter: fix flaky integration test failure due to jwt secret creation race (#15909)](https://github.com/erigontech/erigon/commit/a397f20ee82b65ed849ece30647bfd8064a88e37) - 2025-07-03
+* [Commit] [p2p/sentry: improve logging around header and body requests (#15911)](https://github.com/erigontech/erigon/commit/1e6e11972ce03e9446963b206d1010c17d089abd) - 2025-07-03
 ## Q2 2025
 
 

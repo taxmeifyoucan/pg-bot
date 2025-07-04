@@ -32,6 +32,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Feature/Address state by block header](https://github.com/NethermindEth/nethermind/pull/8911) - 2025-07-02
 * [Commit] [Read only tx scope special case](https://github.com/NethermindEth/nethermind/commit/f29fb82993f2b55db1d4f3bafc4c9ea7a0df8e91) - 2025-07-02
 * [Commit] [State reader](https://github.com/NethermindEth/nethermind/commit/84ec53e97352d3d7004e9d1000ae6714178cb50f) - 2025-07-02
+* [Commit] [Shareable tx processing source (#8920)](https://github.com/NethermindEth/nethermind/commit/ee0ef8af97f6669e0b8d710475e8d59c0ccdf216) - 2025-07-03
+* [Commit] [Use blockheader to address state](https://github.com/NethermindEth/nethermind/commit/ccb78fdaf542ba471090b1892396cd5337d64569) - 2025-07-03
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/ba63ed2bcac8e845d4bcfb768561bfb9bf7b427d) - 2025-07-03
+* [Commit] [Remove State from Evm dependencies (#8866)](https://github.com/NethermindEth/nethermind/commit/977f864dcbcb94149d36fd943c38ad240be860af) - 2025-07-03
 ## Q2 2025
 
 

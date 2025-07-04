@@ -13,6 +13,9 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [Update spaceneth to mainnet spec (#8901)](https://github.com/NethermindEth/nethermind/commit/f4e5baea4a78c0c495661eb96f81bd8f6602b9d7) - 2025-07-01
+* [Issue] [Add NewPayloadTimeoutMs in the testing pipeline](https://github.com/NethermindEth/nethermind/issues/8930) - 2025-07-03
+* [Pull Request] [NewPayloadTimeout in miliseconds](https://github.com/NethermindEth/nethermind/pull/8929) - 2025-07-03
+* [Commit] [NewPayloadTimeout in miliseconds](https://github.com/NethermindEth/nethermind/commit/d71cc7841d7711e5085c24c9eb953b518e34e542) - 2025-07-03
 ## Q2 2025
 
 

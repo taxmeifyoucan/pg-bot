@@ -8,6 +8,11 @@ Team: Geth
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [EIP-7951: update gas costs for R1 verification](https://github.com/ethereum/EIPs/pull/9978) - 2025-07-03
 ## Q2 2025
 
 

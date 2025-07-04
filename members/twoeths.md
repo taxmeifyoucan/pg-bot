@@ -18,6 +18,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: undefined syncInfo](https://github.com/ChainSafe/lodestar/commit/1a697682c168cb86079f7d27c4ec1fe78ebf3546) - 2025-07-01
 * [Issue] [Include SingleAttestation when producing block](https://github.com/ChainSafe/lodestar/issues/8028) - 2025-07-01
 * [Commit] [feat: improve range sync in fulu (#7746)](https://github.com/ChainSafe/lodestar/commit/e99f094d77fa5d162d64108ce0a6f637496bbfe6) - 2025-07-02
+* [Commit] [feat: improve range sync in fulu (#7746) (#8031)](https://github.com/ChainSafe/lodestar/commit/791764fbf8133836100b7a510e8d37ea8d60d08e) - 2025-07-03
+* [Pull Request] [feat: improve range sync in fulu (#7746)](https://github.com/ChainSafe/lodestar/pull/8031) - 2025-07-03
 ## Q2 2025
 
 

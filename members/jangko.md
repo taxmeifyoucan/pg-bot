@@ -17,6 +17,13 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [no changes to chain_private](https://github.com/status-im/nimbus-eth1/commit/b464d61a1f40576a1ad3107653dbe217cfdc2d87) - 2025-07-02
 * [Commit] [Optimize updateFinalized](https://github.com/status-im/nimbus-eth1/commit/5d1fcad04d499631813929810fbd6cdc8573a3d9) - 2025-07-02
 * [Commit] [fix: string -> int for ports.discovery and listener (#3438)](https://github.com/status-im/nimbus-eth1/commit/e528f5fc598ab05d84965e10cac2ec636c6b9b96) - 2025-07-02
+* [Pull Request] [Add txFrame id to FC.validateBlock log](https://github.com/status-im/nimbus-eth1/pull/3443) - 2025-07-03
+* [Commit] [Fix fCU log too](https://github.com/status-im/nimbus-eth1/commit/9a4fd90e3df9b91a3bc89a090d2672435a924d17) - 2025-07-03
+* [Commit] [More tuning to getPayloadBodiesByRange (#3442)](https://github.com/status-im/nimbus-eth1/commit/117b4494b1562ec14c6d1ae08237405ddc9d99de) - 2025-07-03
+* [Commit] [Update nim-rocksdb to v10.2.1.0 (#3370)](https://github.com/status-im/nimbus-eth1/commit/4c3e7295445b6923e0429d62677f0d4a04485372) - 2025-07-03
+* [Pull Request] [More tuning to getPayloadBodiesByRange](https://github.com/status-im/nimbus-eth1/pull/3442) - 2025-07-03
+* [Commit] [Transform FC module internals into DAG (#3441)](https://github.com/status-im/nimbus-eth1/commit/8a6877d4b8d5dd1e5e5b3b2b62d7e2ddea5a454f) - 2025-07-03
+* [Commit] [More tuning](https://github.com/status-im/nimbus-eth1/commit/5f158e45ab2af85487ed9b7d427b3ae92f711d8e) - 2025-07-03
 ## Q2 2025
 
 

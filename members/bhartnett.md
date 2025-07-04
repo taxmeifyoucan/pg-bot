@@ -8,6 +8,12 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 
 ## Contributions
 
+## Q3 2025
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Commit] [Stateless: Simplify the witness table data structure (#3446)](https://github.com/status-im/nimbus-eth1/commit/1b1f07e23bd97ba5d2cab5cf2cec24099012a7c9) - 2025-07-03
+* [Pull Request] [Stateless: Simplify the witness table data structure](https://github.com/status-im/nimbus-eth1/pull/3446) - 2025-07-03
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

@@ -14,6 +14,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [Fix spellcheck (#672)](https://github.com/ethereum/execution-apis/commit/f1ea4623e07516ece737e89a2a713dcdea9b8100) - 2025-07-01
 * [Pull Request] [Fix spellcheck](https://github.com/ethereum/execution-apis/pull/672) - 2025-07-01
+* [Commit] [engine_getBlobsV2: Don't prohibit partial responses (#671)](https://github.com/ethereum/execution-apis/commit/d41fdf10fabbb73c4d126fb41809785d830acace) - 2025-07-03
 ## Q2 2025
 
 

@@ -16,6 +16,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [params: move bhilai fork to bor config](https://github.com/erigontech/erigon/pull/15865) - 2025-07-01
 * [Commit] [params: move bhilai fork to bor config (#15864)](https://github.com/erigontech/erigon/commit/c5cc724473ffffcd0d17b696c3ca01983922abc1) - 2025-07-01
 * [Commit] [params: move bhilai fork to bor config (#15864)](https://github.com/erigontech/erigon/commit/924287108d9506f0a5cdce178471a58de9c17117) - 2025-07-01
+* [Commit] [mv arbitrum chain specs to erigon](https://github.com/erigontech/erigon/commit/9e9f0a5e7dee370d6a5e05d29844bf5c2050846a) - 2025-07-03
+* [Pull Request] [merge main eb4d291](https://github.com/erigontech/erigon/pull/15919) - 2025-07-03
+* [Commit] [IntegrityInvertedIndexAllValuesAreInRange make parallel  (#15895)](https://github.com/erigontech/erigon/commit/6c7cbf5b60c407b442541b89a4287328f4f686ae) - 2025-07-03
+* [Commit] [core: move Polygon chain specs to `polygon` (#15687)](https://github.com/erigontech/erigon/commit/eb4d291003f57baed1365343df07b39b85e6f879) - 2025-07-03
+* [Commit] [small improvements re. DefaultBlockGasLimit](https://github.com/erigontech/erigon/commit/5ea2edc51f9f11df73b40e3a1630f837adee09e5) - 2025-07-03
+* [Commit] [Single DefaultBlockGasLimit](https://github.com/erigontech/erigon/commit/603a1fbdab4500d79b6bc1b3e0cbbccbacef401e) - 2025-07-03
+* [Commit] [qa-tests: fix and improve gnosis tip-tracking (#15707)](https://github.com/erigontech/erigon/commit/ac3d99a1f15a1b1c1b4943f63a073859637344d0) - 2025-07-03
 ## Q2 2025
 
 

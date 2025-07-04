@@ -14,6 +14,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Commit] [potuz' feedback (redundant check) + for range](https://github.com/OffchainLabs/prysm/commit/1693245c3369669286dc8c8537ac35ac438bef55) - 2025-07-02
 * [Commit] [comment cleanup re potuz' feedback](https://github.com/OffchainLabs/prysm/commit/8a87a1a8756cf42278c05c7c0f3c92b87a5c63c9) - 2025-07-02
+* [Commit] [Implement the new Fulu Metadata. (#15440)](https://github.com/OffchainLabs/prysm/commit/bc7664321b477f159ad92559ddfb9de62e95d718) - 2025-07-03
+* [Commit] [potuz' feedback (redundant check) + for range](https://github.com/OffchainLabs/prysm/commit/b51b06bba857013ab7a7bf3f38a5f3b91ac8b2ba) - 2025-07-03
+* [Commit] [potuz' feedback (redundant check) + for range](https://github.com/OffchainLabs/prysm/commit/ba7d971d8da8281e12f5f8eb2e9b07945b655b68) - 2025-07-03
 ## Q2 2025
 
 

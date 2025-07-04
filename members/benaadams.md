@@ -19,6 +19,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Drop async where just pass through and return Task directly](https://github.com/NethermindEth/nethermind/pull/8906) - 2025-07-01
 * [Pull Request] [Reduce tx requests](https://github.com/NethermindEth/nethermind/pull/8918) - 2025-07-02
 * [Commit] [Clone txs](https://github.com/NethermindEth/nethermind/commit/1eef094d69f9ee0f6e575a2a76e5a4c8d9bcb978) - 2025-07-02
+* [Commit] [Remove lock in PersistentStorageProvider (#8927)](https://github.com/NethermindEth/nethermind/commit/ffb34c473969c93544a9eb1d3a60948e96b68519) - 2025-07-03
+* [Commit] [feedback](https://github.com/NethermindEth/nethermind/commit/c9a6f366ed4ec739b39f8432e0b0f929531e0f85) - 2025-07-03
+* [Pull Request] [Remove lock in PersistentStorageProvider](https://github.com/NethermindEth/nethermind/pull/8927) - 2025-07-03
+* [Commit] [set nonce to current, ignoring all nonce check on CallAndRestore (#8897)](https://github.com/NethermindEth/nethermind/commit/b448db46971aef706725f0da51bb48901f51429b) - 2025-07-03
+* [Commit] [Reintroduce ThreadBoost for main Processing thread (#8926)](https://github.com/NethermindEth/nethermind/commit/2726fcc72458ed2931904a56501aa123e4b4e0b1) - 2025-07-03
+* [Pull Request] [Reintroduce ThreadBoost for main Processing thread](https://github.com/NethermindEth/nethermind/pull/8926) - 2025-07-03
 ## Q2 2025
 
 

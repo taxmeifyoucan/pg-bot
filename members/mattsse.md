@@ -16,6 +16,19 @@ Team: Reth
 * [Pull Request] [chore: bump revm](https://github.com/paradigmxyz/reth/pull/17153) - 2025-07-01
 * [Commit] [add bounds](https://github.com/paradigmxyz/reth/commit/b48bc815f0b46e28520ff3c0506c2b69c27ef032) - 2025-07-01
 * [Issue] [reuse encoded txs when doing the payload to RecoveredBlock conversion](https://github.com/paradigmxyz/reth/issues/17186) - 2025-07-02
+* [Pull Request] [chore: bump evm 0.14](https://github.com/paradigmxyz/reth/pull/17206) - 2025-07-03
+* [Commit] [chore: bump evm 0.14](https://github.com/paradigmxyz/reth/commit/14b7249b9cf8774220cee4c953f3755effb15b60) - 2025-07-03
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/519b3a3d95ebec2535b10d15dacc37ef668df67c) - 2025-07-03
+* [Pull Request] [fix: dont double serialize resp](https://github.com/paradigmxyz/reth/pull/17204) - 2025-07-03
+* [Pull Request] [include bpo in forkfilter](https://github.com/paradigmxyz/reth/pull/17201) - 2025-07-03
+* [Commit] [chore: bump inspectors (#17198)](https://github.com/paradigmxyz/reth/commit/d949061fc02390ee28ae098de5e915e12968f60a) - 2025-07-03
+* [Commit] [bump](https://github.com/paradigmxyz/reth/commit/9cd11bb87ef6f40b993f799b8266deb551cda12a) - 2025-07-03
+* [Commit] [bump](https://github.com/paradigmxyz/reth/commit/282d541d79adcb571a02184ec54525dfbce3db27) - 2025-07-03
+* [Commit] [bump](https://github.com/paradigmxyz/reth/commit/fccaebe3d7ad9c1666f0855d89ab300e895570b0) - 2025-07-03
+* [Pull Request] [chore: bump inspectors](https://github.com/paradigmxyz/reth/pull/17198) - 2025-07-03
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025
 
 

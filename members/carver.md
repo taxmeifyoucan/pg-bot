@@ -8,6 +8,11 @@ Team: Portal Network (EF)
 
 ## Contributions
 
+## Q3 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove @carver and @ogenev](https://github.com/protocolguild/documentation/pull/365) - 2025-07-03
 ## Q2 2025
 
 [ethereum/glados](https://github.com/ethereum/glados)

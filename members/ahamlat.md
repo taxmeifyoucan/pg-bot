@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 
 ## Contributions
 
+## Q3 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Fix verify_artifacts step in Draft Release github process](https://github.com/hyperledger/besu/pull/8907) - 2025-07-03
 ## Q2 2025
 
 

@@ -35,6 +35,7 @@ Team: Erigon
 * [Commit] [params: move bhilai fork to bor config (#15863)](https://github.com/erigontech/erigon/commit/80948d06c731d9e605cc54fad195572d4095daf8) - 2025-07-02
 * [Commit] [BenchmarkDecompress: on 0.5mb words (#15858)](https://github.com/erigontech/erigon/commit/e95b5d8e5bae7b662da9ddde3a1df611d905531d) - 2025-07-02
 * [Commit] [kick ci](https://github.com/erigontech/erigon/commit/e4f50f91d73ef42afe9f708cb03e7871cf3cfbd5) - 2025-07-02
+* [Pull Request] [db.pageSize: 16kb](https://github.com/erigontech/erigon/pull/15915) - 2025-07-03
 ## Q2 2025
 
 

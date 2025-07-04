@@ -8,6 +8,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 
 ## Contributions
 
+## Q3 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [Add E2E Test Infrastructure for RPC Methods](https://github.com/paradigmxyz/reth/issues/17197) - 2025-07-03
+* [Commit] [avoid calculating hash when blocks are consecutive after bloom filter](https://github.com/paradigmxyz/reth/commit/dd4db50ee714ba6a45a1d018797969a29ea65766) - 2025-07-03
 ## Q2 2025
 
 

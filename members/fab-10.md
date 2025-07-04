@@ -13,6 +13,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Improve gas estimation when no gas pricing is present](https://github.com/hyperledger/besu/pull/8888) - 2025-07-01
+* [Pull Request] [Expose methods to query the hardfork in the Plugin API](https://github.com/hyperledger/besu/pull/8909) - 2025-07-03
 ## Q2 2025
 
 

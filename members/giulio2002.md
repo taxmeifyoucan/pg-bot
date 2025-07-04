@@ -13,6 +13,7 @@ Team: Erigon
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Commit] [Cherry-pick: E3: History expiry was not working (#15836) (#15854)](https://github.com/erigontech/erigon/commit/576cbef8ef5c948cddb869189d82f0e81183f22f) - 2025-07-01
+* [Issue] [historical `eth_getProof` fails on some requests on hoodi](https://github.com/erigontech/erigon/issues/15924) - 2025-07-03
 ## Q2 2025
 
 

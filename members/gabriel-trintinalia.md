@@ -8,6 +8,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 ## Contributions
 
+## Q3 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [[fusaka-devnet-2] fix: include missing BPOs to ForkIds (#8906)](https://github.com/hyperledger/besu/commit/93682699dd4ebbd7a56b86e258eb3d0d547e426e) - 2025-07-03
+* [Pull Request] [[fusaka-devnet-2] fix: include missing BPOs to ForkIds](https://github.com/hyperledger/besu/pull/8906) - 2025-07-03
+* [Commit] [Fix missing forkIds for BPOs (#8905)](https://github.com/hyperledger/besu/commit/9abaf4a87bf907e64f8def47d4c20cbda1e5345d) - 2025-07-03
+* [Pull Request] [fix: add BPOs to block timestamps list (Fix wrong forkId)](https://github.com/hyperledger/besu/pull/8905) - 2025-07-03
 ## Q2 2025
 
 

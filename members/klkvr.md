@@ -13,6 +13,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/46c5a5dcee3024efc067674fb447aaf5d2625038) - 2025-07-01
+* [Commit] [fix: prevent invalid range in fee_history when newest_block is pending (#16910)](https://github.com/paradigmxyz/reth/commit/da42c0c5820f86ae385b0d898f4e58428fc902e3) - 2025-07-03
 ## Q2 2025
 
 

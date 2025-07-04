@@ -16,6 +16,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Query and store blob transactions into txpool (#3375)](https://github.com/status-im/nimbus-eth1/commit/6ce4568e628ea33b9e3d55e035e5e68df7417a39) - 2025-07-01
 
 * [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/c01a25e6c7a9a1ce8a383dd54acab9e0ba172612) - 2025-07-02
+* [Pull Request] [aristo: switch to vector memtable](https://github.com/status-im/nimbus-eth1/pull/3447) - 2025-07-03
+* [Commit] [aristo: switch to vector memtable](https://github.com/status-im/nimbus-eth1/commit/d93e2fe035b4aef1a35e8a406e438270db0ae4a5) - 2025-07-03
+* [Commit] [proxy: add blocks support (#3338)](https://github.com/status-im/nimbus-eth1/commit/8923504a6b9d6b9c3399dd7509f2ab9cf5db034e) - 2025-07-03
+* [Commit] [aristo: switch to vector memtable](https://github.com/status-im/nimbus-eth1/commit/e07873178d57f481e14ebcd4b54c5c508e612de5) - 2025-07-03
+* [Commit] [feat: add admin_peers and admin ns (#3431) (#3437)](https://github.com/status-im/nimbus-eth1/commit/f88c6fe929e2a94b9265cb3a4744dfd918fac80d) - 2025-07-03
+* [Pull Request] [Revert "defer gc during block processing (#3384)"](https://github.com/status-im/nimbus-eth1/pull/3445) - 2025-07-03
+* [Pull Request] [reuse VertexRef instance on update](https://github.com/status-im/nimbus-eth1/pull/3444) - 2025-07-03
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 ## Q2 2025

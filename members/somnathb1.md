@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [Interim](https://github.com/erigontech/erigon/commit/347530c87997bae05e96d8d2803456d220314561) - 2025-07-03
 ## Q2 2025
 
 

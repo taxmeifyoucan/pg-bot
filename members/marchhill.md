@@ -7,6 +7,13 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/ef67ff8307f00417036f437df7ce60d8694d1982) - 2025-07-03
+* [Commit] [check config in historypruner constructore](https://github.com/NethermindEth/nethermind/commit/6efebf8eb6bfa6a92ee027978ac099cefaea4d61) - 2025-07-03
+* [Commit] [SpanSource for TrieNode rlp (#8719)](https://github.com/NethermindEth/nethermind/commit/c1dcc73f35e797c0cb30ddbaf05d9a39b33dc27c) - 2025-07-03
 ## Q2 2025
 
 

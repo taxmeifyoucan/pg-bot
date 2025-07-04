@@ -16,6 +16,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [PeerDAS: Implement reconstruct.](https://github.com/OffchainLabs/prysm/commit/6b5d2552a9fcdabeb0a478d7a1a671cc666381cf) - 2025-07-01
 * [Commit] [PeerDAS: Implement reconstruct.](https://github.com/OffchainLabs/prysm/commit/e3ba85ce876c598381cfce51a2ff575f373c6ccc) - 2025-07-01
 * [Commit] [`dataColumnSidecarByRootRPCHandler`: Do not rely any more on map iteration, which does not produce reproducible output order. (#15441)](https://github.com/OffchainLabs/prysm/commit/97f416b3a7c3a9854ab020ccb2068e5d4c0708e2) - 2025-07-01
+* [Commit] [`blocker_test.go`: Remove unused functions.](https://github.com/OffchainLabs/prysm/commit/41f109aa5bff60062b3cd08db3cb7f3533512fb9) - 2025-07-03
+* [Commit] [PeerDAS execution: Implement engine method `GetBlobsV2` and `ReconstructDataColumnSidecars`.](https://github.com/OffchainLabs/prysm/commit/da42df623c45611f744bd7184d800f8c344e7930) - 2025-07-03
+* [Pull Request] [PeerDAS: Implement reconstruction of data column sidecars retrieved from the execution client.](https://github.com/OffchainLabs/prysm/pull/15469) - 2025-07-03
 ## Q2 2025
 
 

@@ -16,6 +16,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [bug(tests): enforce transaction gas limit in Osaka](https://github.com/ethereum/execution-spec-tests/issues/1828) - 2025-07-01
 * [Pull Request] [add valid opcodes for Osaka](https://github.com/ethereum/execution-spec-tests/pull/1827) - 2025-07-01
 * [Issue] [bug(fork): Osaka fork does not define valid_opcodes](https://github.com/ethereum/execution-spec-tests/issues/1826) - 2025-07-01
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [STEEL Merge: Harmonize code standards](https://github.com/ethereum/execution-specs/issues/1301) - 2025-07-03
 ## Q2 2025
 
 

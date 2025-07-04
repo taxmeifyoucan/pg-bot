@@ -14,6 +14,10 @@ Team: Geth
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Commit] [accounts/abi: generate TryPack* methods for abigen v2 bindings (#31692)](https://github.com/ethereum/go-ethereum/commit/bc67e7dd487189b828d63927b453f4af2e67f2ff) - 2025-07-02
 * [Commit] [eth/catalyst: fix edge case in simulated backend (#31871)](https://github.com/ethereum/go-ethereum/commit/3fb6499fc975eb55a26098d93b7a5154e700ec5b) - 2025-07-02
+
+* [Commit] [params: fix 7934 size limit.](https://github.com/ethereum/go-ethereum/commit/b326264d4b5e1d818d882c7650c36c69fd510053) - 2025-07-03
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [eip-7928:  don't enclose individual storage reads in a container](https://github.com/ethereum/EIPs/pull/9977) - 2025-07-03
 ## Q2 2025
 
 

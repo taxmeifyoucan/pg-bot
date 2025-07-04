@@ -16,6 +16,12 @@ Team: Portal Network (EF)
 
 * [Commit] [chore(deps): weekly `cargo update` (#1879)](https://github.com/ethereum/trin/commit/e62cf2843f887aa09c948b8b39e9672196191289) - 2025-07-02
 * [Commit] [docs: add warning to readme (#1877)](https://github.com/ethereum/trin/commit/7be53657185220d01c42c81fd4e180ba2da0f056) - 2025-07-02
+* [Commit] [refactor: rename trin-history crate to trin-legacy-history (#1883)](https://github.com/ethereum/trin/commit/6cae58c8419a3eb91fe811ed190858ec2215460b) - 2025-07-03
+* [Pull Request] [refactor: rename trin-history crate to trin-legacy-history](https://github.com/ethereum/trin/pull/1883) - 2025-07-03
+* [Commit] [feat: rename history network to "legacy_history" (#1882)](https://github.com/ethereum/trin/commit/39c1c45d20c6d3d6259e487f58eb39a617c557cf) - 2025-07-03
+* [Pull Request] [feat: rename history network to "legacy_history"](https://github.com/ethereum/trin/pull/1882) - 2025-07-03
+* [Commit] [fix: typo in README (#1881)](https://github.com/ethereum/trin/commit/c3cfe96e5462d349e9d1bfe37a3f696771bff465) - 2025-07-03
+* [Pull Request] [fix: typo in README](https://github.com/ethereum/trin/pull/1881) - 2025-07-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add "Prototyping" working group](https://github.com/protocolguild/documentation/pull/363) - 2025-07-02
 ## Q2 2025

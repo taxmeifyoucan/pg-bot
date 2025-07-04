@@ -8,6 +8,14 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [label restructuring](https://github.com/erigontech/erigon/commit/ef85b7ba1c33d4c0937b74e4c891a4fcbfdc0143) - 2025-07-03
+* [Commit] [label restructuring](https://github.com/erigontech/erigon/commit/d2e78fb97f158d232879d24310cb3f74e84a6840) - 2025-07-03
+* [Pull Request] [qa_tests: RPC perf tests require long-running](https://github.com/erigontech/erigon/pull/15913) - 2025-07-03
+* [Commit] [qa_tests: save/restore chaindata in Polygon RPC Integration Tests (#15906)](https://github.com/erigontech/erigon/commit/457aa0851bea2f2d29104c42a50f5fe54fe7452f) - 2025-07-03
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

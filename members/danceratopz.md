@@ -22,6 +22,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(consume): add initial implementation of consume enginex](https://github.com/ethereum/execution-spec-tests/commit/7e2cd298724c3965e70321be05864356d770ac64) - 2025-07-01
 * [Issue] [feat(consume): add a `--extract-to` flag to `consume cache`](https://github.com/ethereum/execution-spec-tests/issues/1835) - 2025-07-02
 * [Issue] [bug(consume): `consume cache`'s `--cache-folder` flag is broken; it has no effect](https://github.com/ethereum/execution-spec-tests/issues/1834) - 2025-07-02
+* [Commit] [Deployed 0f77f07a85 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/a0260f6287412e16d6029f01aa9a7d23096b356e) - 2025-07-03
+* [Commit] [Deployed 9915a25a2d to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8b5e0345b37aa384366eda86a1045c3c585142a3) - 2025-07-03
+* [Commit] [chore(ci): bump markdownlint action to use `markdownlint-cli2@v0.17.2` (#1850)](https://github.com/ethereum/execution-spec-tests/commit/0f77f07a8537c447e1113547975fe9b9b4378baf) - 2025-07-03
+* [Commit] [fix(consume): fix consume cache's `--cache-folder` flag (#1851)](https://github.com/ethereum/execution-spec-tests/commit/9915a25a2d047cee383bc8d03d61f2ac6d0b96da) - 2025-07-03
+* [Commit] [Deployed 5d02253465 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2c2e0b85941ac561d15bd1b04cf783cc4df6a9b6) - 2025-07-03
+* [Commit] [refactor(tests): use relative imports in `./tests` (#1848)](https://github.com/ethereum/execution-spec-tests/commit/5d02253465b53c27cca3f9392fa6bafa62a64736) - 2025-07-03
+* [Issue] [chore(fill): decide on an "opcode count" `t8n` interface](https://github.com/ethereum/execution-spec-tests/issues/1852) - 2025-07-03
+* [Commit] [Deployed a15263ea15 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1db17a0562fee589dcb375dd652d17d26333f1d6) - 2025-07-03
+* [Commit] [docs(all): misc clean-up and add a navigation footer (#1846)](https://github.com/ethereum/execution-spec-tests/commit/a15263ea154a3eb8b06b1d5b66a7dde907f33be2) - 2025-07-03
+* [Commit] [docs(tooling): update `markdownlint-cli2` docs to install 0.17.2](https://github.com/ethereum/execution-spec-tests/commit/1553b0eecf96ce74b5eeec17f6fc2d705c264a67) - 2025-07-03
+* [Pull Request] [chore(ci): bump markdownlint action to get `markdownlint-cli2@v0.17.2`](https://github.com/ethereum/execution-spec-tests/pull/1850) - 2025-07-03
 ## Q2 2025
 
 

@@ -13,6 +13,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Commit] [PeerDAS: Implement reconstruct. (#15454)](https://github.com/OffchainLabs/prysm/commit/b1ac8209b2c7f518726085537c42161027dd5e14) - 2025-07-02
+* [Commit] [Fix LC versioning bug (#15400)](https://github.com/OffchainLabs/prysm/commit/bddcc158e4551a2d673ce3ebd693f48d78961dc2) - 2025-07-03
+* [Commit] [PeerDAS: Implement reconstruct. (#15454)](https://github.com/OffchainLabs/prysm/commit/b1ac8209b2c7f518726085537c42161027dd5e14) - 2025-07-03
 ## Q2 2025
 
 

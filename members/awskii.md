@@ -8,6 +8,13 @@ Team: Erigon
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [arb: chain params](https://github.com/erigontech/erigon/pull/15922) - 2025-07-03
+* [Pull Request] [arb: extract libraries ](https://github.com/erigontech/erigon/pull/15920) - 2025-07-03
+* [Commit] [arbitrum: remove `go.work.sum` (#15908)](https://github.com/erigontech/erigon/commit/c6c0bd50e7adf1b94a2db32791f5f6a90b64f7a6) - 2025-07-03
 ## Q2 2025
 
 

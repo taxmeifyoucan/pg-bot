@@ -13,6 +13,7 @@ Team: Geth
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core/types: block timestamp in log should encode as hex](https://github.com/ethereum/go-ethereum/pull/32129) - 2025-07-01
+* [Commit] [eth/tracers: prestate lookup EIP7702 delegation account (#32080)](https://github.com/ethereum/go-ethereum/commit/0b21c4a63300ec883fb1a56c39adca1291794253) - 2025-07-03
 ## Q2 2025
 
 

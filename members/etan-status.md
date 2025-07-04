@@ -14,6 +14,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7688: Adopt `ProgressiveContainer` / `ProgressiveList`](https://github.com/ethereum/EIPs/pull/9960) - 2025-07-01
 * [Pull Request] [Update EIP-6466: Adopt `ProgressiveContainer`](https://github.com/ethereum/EIPs/pull/9966) - 2025-07-02
+* [Pull Request] [Update EIP-7807: Adopt `ProgerssiveContainer`](https://github.com/ethereum/EIPs/pull/9976) - 2025-07-03
+* [Pull Request] [Update EIP-7799: Adopt `ProgressiveList`](https://github.com/ethereum/EIPs/pull/9975) - 2025-07-03
+* [Pull Request] [Update EIP-6465: Adopt `ProgressiveContainer` / `ProgressiveList`](https://github.com/ethereum/EIPs/pull/9974) - 2025-07-03
 ## Q2 2025
 
 
