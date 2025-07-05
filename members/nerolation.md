@@ -8,6 +8,11 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 ## Contributions
 
+## Q3 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Rahul](https://github.com/protocolguild/documentation/pull/368) - 2025-07-04
 ## Q2 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

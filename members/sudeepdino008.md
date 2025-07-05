@@ -16,6 +16,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci](https://github.com/erigontech/erigon/commit/440baf11e1dafa3feda4866d957f3d335049f77a) - 2025-07-01
 * [Pull Request] [[r30] EthGetLogsInvariants: wait for pending work](https://github.com/erigontech/erigon/pull/15860) - 2025-07-01
 * [Pull Request] [WIP: duplicated log_index fix; DO NOT MERGE](https://github.com/erigontech/erigon/pull/15918) - 2025-07-03
+* [Issue] [tracker for rpc tests failure in staging ethmainnet](https://github.com/erigontech/erigon/issues/15938) - 2025-07-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/69daf6a89b33bd82abe9032669b5e5f74ab91729) - 2025-07-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5ae14808a24b0d6984158ce70e6278ac3675e306) - 2025-07-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ec54b72756af225e3718792bbdccecc798ed7fa3) - 2025-07-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ce8f484f1e3e40c51c93479a146cd20e0511b279) - 2025-07-04
+* [Pull Request] [[r30] derive bloom for cached receipt](https://github.com/erigontech/erigon/pull/15936) - 2025-07-04
+* [Pull Request] [derive bloom for cached receipt](https://github.com/erigontech/erigon/pull/15935) - 2025-07-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/37fa75a059de098802a62567fcc8f75b2a0a4f9f) - 2025-07-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b3d7f12743620d6791e38e19d8bae496428a82c2) - 2025-07-04
+* [Commit] [refactor](https://github.com/erigontech/erigon/commit/a04e620548b5a7f9ea4928464d27777117336081) - 2025-07-04
+* [Commit] [sure](https://github.com/erigontech/erigon/commit/998d6a975c5c5aa8b99f3679ceb2fcc0d98aca00) - 2025-07-04
 ## Q2 2025
 
 

@@ -36,6 +36,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Use blockheader to address state](https://github.com/NethermindEth/nethermind/commit/ccb78fdaf542ba471090b1892396cd5337d64569) - 2025-07-03
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/ba63ed2bcac8e845d4bcfb768561bfb9bf7b427d) - 2025-07-03
 * [Commit] [Remove State from Evm dependencies (#8866)](https://github.com/NethermindEth/nethermind/commit/977f864dcbcb94149d36fd943c38ad240be860af) - 2025-07-03
+* [Commit] [Remove strange](https://github.com/NethermindEth/nethermind/commit/f013df688886869842f3f11b6cfc7c4b9d5c37ce) - 2025-07-04
+* [Commit] [Ensure exception in block downloader is caught (#8931)](https://github.com/NethermindEth/nethermind/commit/55f7950321d4bd7db7076d050d0a7837edc4cc58) - 2025-07-04
+* [Commit] [Address comment](https://github.com/NethermindEth/nethermind/commit/32922dd9469eda279b3779f68c1db3e2c9e87e2c) - 2025-07-04
+* [Commit] [Make the node lookup generic](https://github.com/NethermindEth/nethermind/commit/0d9509c90d7ab3132e38929a5b147d45ba9f789a) - 2025-07-04
+* [Commit] [Use static SHA256.HashData (#8673)](https://github.com/NethermindEth/nethermind/commit/1c8707c5a8bef50966aaa5cda0787671ca14499a) - 2025-07-04
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/04957669dd89693cd4ad86462517f6ef3a4ed14f) - 2025-07-04
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/ffecd938f3cfe0aa3897f6075a9122cc62693d79) - 2025-07-04
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/d7f7d86ecf1c589f12b473c0710e0a72659521f3) - 2025-07-04
+* [Pull Request] [Fix/Aura hive test](https://github.com/NethermindEth/nethermind/pull/8932) - 2025-07-04
+* [Commit] [Add the modifier in test](https://github.com/NethermindEth/nethermind/commit/ee98cfcb9b7c4f12ae3eb4d966fbb113e8ed075c) - 2025-07-04
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/55853c3d489ec33fa51b6807edbb11fe2d27fbee) - 2025-07-04
 ## Q2 2025
 
 

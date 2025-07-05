@@ -28,6 +28,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [fix(inspector): revert pointer before calling step_end](https://github.com/bluealloy/revm/pull/2687) - 2025-07-03
 * [Commit] [docs: document external state transitions for EIP-4788 and EIP-2935 (#2678)](https://github.com/bluealloy/revm/commit/c3385e358b121755538734aff2581263c3d20408) - 2025-07-03
 * [Commit] [docs: minor fixes (#2686)](https://github.com/bluealloy/revm/commit/7f0f7eff086e753246e8f162d9389c4dea0e4a12) - 2025-07-03
+* [Commit] [docs: fix in pre_execution.rs about nonce bump for CREATE (#2684)](https://github.com/bluealloy/revm/commit/59066f017b88c7c342f721cf67afef5d2015bfe6) - 2025-07-04
+* [Commit] [test: add comprehensive tests for TxEnvBuilder (#2690)](https://github.com/bluealloy/revm/commit/08badc0d0500c80e44a5d3890942229c3d4894f1) - 2025-07-04
+* [Commit] [fix typo: Rename is_created_globaly to is_created_globally (#2692)](https://github.com/bluealloy/revm/commit/c431f2c3201996c4d86fddabf29ba1fb6debe695) - 2025-07-04
 ## Q2 2025
 
 

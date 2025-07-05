@@ -33,6 +33,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs(all): misc clean-up and add a navigation footer (#1846)](https://github.com/ethereum/execution-spec-tests/commit/a15263ea154a3eb8b06b1d5b66a7dde907f33be2) - 2025-07-03
 * [Commit] [docs(tooling): update `markdownlint-cli2` docs to install 0.17.2](https://github.com/ethereum/execution-spec-tests/commit/1553b0eecf96ce74b5eeec17f6fc2d705c264a67) - 2025-07-03
 * [Pull Request] [chore(ci): bump markdownlint action to get `markdownlint-cli2@v0.17.2`](https://github.com/ethereum/execution-spec-tests/pull/1850) - 2025-07-03
+* [Issue] [chore(fill): don't write to `./logs.` resp. enable `--evm-dump-dir` by default](https://github.com/ethereum/execution-spec-tests/issues/1860) - 2025-07-04
+* [Commit] [refactor(fill): extract helper methods in FillCommand](https://github.com/ethereum/execution-spec-tests/commit/64a4e233ec16d5e8e1e4e69b460c2cd96a457490) - 2025-07-04
 ## Q2 2025
 
 

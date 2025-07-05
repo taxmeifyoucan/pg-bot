@@ -8,6 +8,14 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [disable temporary test on erigon_getHeaderByNumber and erigon_getHeaderByHash](https://github.com/erigontech/erigon/commit/bf5e9b08cc3a23ebf95ba25a5ecbae4fe5da473e) - 2025-07-04
+* [Pull Request] [integration-CI: fix return RPC failed test to the caller](https://github.com/erigontech/erigon/pull/15940) - 2025-07-04
+* [Pull Request] [[3.0]: rpcdaemon: Remove check on pruning ](https://github.com/erigontech/erigon/pull/15934) - 2025-07-04
+* [Pull Request] [rpcdaemon: remove check to avoid panic when access to Debug() method of KV remote](https://github.com/erigontech/erigon/pull/15933) - 2025-07-04
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

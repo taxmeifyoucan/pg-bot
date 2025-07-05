@@ -57,6 +57,10 @@ Team: Reth
 * [Commit] [perf(trie): implement `SparseTrieInterface` for `RevealedSparseTrie`](https://github.com/paradigmxyz/reth/commit/db08525e2d8c3439f90ebb941e3688d384eeb3ca) - 2025-07-03
 * [Commit] [more arguments/returns comments](https://github.com/paradigmxyz/reth/commit/1e043c938f188b82634a9604fbd76d25fe5d48c9) - 2025-07-03
 * [Commit] [feat: expose chain_spec field in LocalPayloadAttributesBuilder (#17151)](https://github.com/paradigmxyz/reth/commit/40fd91a06861f58ad2df54975115b5e220cef2e8) - 2025-07-03
+* [Commit] [fix: handle already-exited processes gracefully in stop_node](https://github.com/paradigmxyz/reth/commit/cd4274230095b63c24a4814f22776dff4f153008) - 2025-07-04
+* [Commit] [feat: allow untracked files in git working directory](https://github.com/paradigmxyz/reth/commit/cc40b31580b8ba515f5f00f53dd9c126fe369164) - 2025-07-04
+* [Commit] [docs: simplify reth-bench-compare README](https://github.com/paradigmxyz/reth/commit/ab0f155b37521d7b9f0b8b208dc557bb599c000e) - 2025-07-04
+* [Commit] [fix: restore new_payload_only.rs to main branch version](https://github.com/paradigmxyz/reth/commit/7c5285fb7d1820b67067ca9ce184746d35914491) - 2025-07-04
 ## Q2 2025
 
 

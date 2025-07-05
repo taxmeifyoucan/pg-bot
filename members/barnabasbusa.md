@@ -13,6 +13,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [fix: add missing max_pending_deposits_per_epoch preset value](https://github.com/grandinetech/grandine/pull/245) - 2025-07-01
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Pull Request] [fix: rework admin peers response](https://github.com/NethermindEth/nethermind/pull/8937) - 2025-07-04
+* [Issue] [Non uniform json-rpc request for admin_peers](https://github.com/NethermindEth/nethermind/issues/8936) - 2025-07-04
 ## Q2 2025
 
 

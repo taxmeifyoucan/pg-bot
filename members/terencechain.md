@@ -17,6 +17,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add batch verifier limit](https://github.com/OffchainLabs/prysm/commit/fd9171168dc3847e7ff530b0a93c28a265f2c8ee) - 2025-07-02
 * [Commit] [Add batch verifier limit](https://github.com/OffchainLabs/prysm/commit/ecc7e1e223e4d951f49ad2da29a0f6676b418276) - 2025-07-02
 * [Pull Request] [Add configurable batch verifier limit for attestation signature verification](https://github.com/OffchainLabs/prysm/pull/15467) - 2025-07-02
+* [Commit] [Optimize BuildBlobSidecars Merkle proof computation by pre-computing subtrees](https://github.com/OffchainLabs/prysm/commit/d93d06db781ec62835c8ff82d37202c899a62d17) - 2025-07-04
+* [Pull Request] [Optimize `BuildBlobSidecars` Merkle proof computation by pre-computing subtrees](https://github.com/OffchainLabs/prysm/pull/15473) - 2025-07-04
+* [Commit] [Optimize BuildBlobSidecars Merkle proof computation by pre-computing subtrees](https://github.com/OffchainLabs/prysm/commit/7ea3cf4e1c36adde9f1ff2d298628238bf469b39) - 2025-07-04
+* [Commit] [Optimize BuildBlobSidecars Merkle proof computation by pre-computing subtrees](https://github.com/OffchainLabs/prysm/commit/efd2c8b6478521d4cc54e83fb760600171ff0eb4) - 2025-07-04
+* [Commit] [Optimize BuildBlobSidecars Merkle proof computation by pre-computing subtrees](https://github.com/OffchainLabs/prysm/commit/19bdb6e5738196c8f7930e40850ae4b9f17ce747) - 2025-07-04
 ## Q2 2025
 
 

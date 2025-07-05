@@ -14,6 +14,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [Fully use ethkzg](https://github.com/NethermindEth/nethermind/commit/70a671d0a7b73dd69971a9f159634547d1b8ac6b) - 2025-07-01
 * [Commit] [Fix dep](https://github.com/NethermindEth/nethermind/commit/bc349a40a0e99456016cc782456e2e9fb716eac9) - 2025-07-01
+
+* [Commit] [WS](https://github.com/NethermindEth/nethermind/commit/4ccc9c237e98fce46576e01595cec167380747dc) - 2025-07-04
+* [Commit] [WS](https://github.com/NethermindEth/nethermind/commit/a03ed6550b377410a3108d1962499e23aa868bc7) - 2025-07-04
+* [Pull Request] [Const maxBlobsPerTx](https://github.com/NethermindEth/nethermind/pull/8940) - 2025-07-04
+* [Commit] [Const maxBlobsPerTx](https://github.com/NethermindEth/nethermind/commit/0a56628cbc3bfa9b852aab8b977009110b076618) - 2025-07-04
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025
 
 

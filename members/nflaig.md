@@ -19,6 +19,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: track on chain proposer rewards per block (#8018)](https://github.com/ChainSafe/lodestar/commit/2fdd3fa446964d8f1f5c88c822cdbb88920090ca) - 2025-07-01
 * [Commit] [Let caller resolve fork boundary](https://github.com/ChainSafe/lodestar/commit/12ccd71e43158f2558f34cbcda9c4d0627ce328e) - 2025-07-01
 * [Commit] [Fix next boundary epoch when registering protocols](https://github.com/ChainSafe/lodestar/commit/708575c8694bbb1256c4165f4581a77be3ac850e) - 2025-07-02
+* [Commit] [feat: improve range sync in fulu (#7746)](https://github.com/ChainSafe/lodestar/commit/e99f094d77fa5d162d64108ce0a6f637496bbfe6) - 2025-07-04
+* [Commit] [fix: only process chain segment with a success downloaded batch (#8032)](https://github.com/ChainSafe/lodestar/commit/c400fc4df977a86e94f908d1f2d8b91461048eca) - 2025-07-04
+* [Issue] [engine_getBlobsV2 handle partial responses](https://github.com/ChainSafe/lodestar/issues/8034) - 2025-07-04
 ## Q2 2025
 
 

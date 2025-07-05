@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 ## Contributions
 
+## Q3 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [Add parallel tx to startup summary](https://github.com/hyperledger/besu/issues/8911) - 2025-07-04
 ## Q2 2025
 
 

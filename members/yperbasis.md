@@ -23,6 +23,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [small improvements re. DefaultBlockGasLimit](https://github.com/erigontech/erigon/commit/5ea2edc51f9f11df73b40e3a1630f837adee09e5) - 2025-07-03
 * [Commit] [Single DefaultBlockGasLimit](https://github.com/erigontech/erigon/commit/603a1fbdab4500d79b6bc1b3e0cbbccbacef401e) - 2025-07-03
 * [Commit] [qa-tests: fix and improve gnosis tip-tracking (#15707)](https://github.com/erigontech/erigon/commit/ac3d99a1f15a1b1c1b4943f63a073859637344d0) - 2025-07-03
+* [Commit] [IntegrityInvertedIndexAllValuesAreInRange make parallel  (#15895)](https://github.com/erigontech/erigon/commit/6c7cbf5b60c407b442541b89a4287328f4f686ae) - 2025-07-04
 ## Q2 2025
 
 

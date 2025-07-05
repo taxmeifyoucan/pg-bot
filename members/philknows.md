@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q3 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove g11tech from Lodestar](https://github.com/protocolguild/documentation/pull/367) - 2025-07-04
 ## Q2 2025
 
 

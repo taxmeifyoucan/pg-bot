@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 
 ## Contributions
 
+## Q3 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Make getTransactions and getReceipts return empty lists when blocks aren't found](https://github.com/hyperledger/besu/pull/8910) - 2025-07-04
 ## Q2 2025
 
 

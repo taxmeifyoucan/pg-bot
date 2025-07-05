@@ -14,6 +14,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/ef67ff8307f00417036f437df7ce60d8694d1982) - 2025-07-03
 * [Commit] [check config in historypruner constructore](https://github.com/NethermindEth/nethermind/commit/6efebf8eb6bfa6a92ee027978ac099cefaea4d61) - 2025-07-03
 * [Commit] [SpanSource for TrieNode rlp (#8719)](https://github.com/NethermindEth/nethermind/commit/c1dcc73f35e797c0cb30ddbaf05d9a39b33dc27c) - 2025-07-03
+* [Pull Request] [Implement sharded blob mempool](https://github.com/NethermindEth/nethermind/pull/8941) - 2025-07-04
+* [Pull Request] [Reprice EIP-7951](https://github.com/NethermindEth/nethermind/pull/8938) - 2025-07-04
+* [Commit] [EIP-7918 Blob Base cost constant change (#8935)](https://github.com/NethermindEth/nethermind/commit/4dc0b0b2516037f962a39e20b571ab9edde0d7bc) - 2025-07-04
+* [Pull Request] [EIP-7918 Blob Base cost constant change](https://github.com/NethermindEth/nethermind/pull/8935) - 2025-07-04
+* [Commit] [don't download old blocks](https://github.com/NethermindEth/nethermind/commit/2535f9c098f6999a8fdf657769c18b382ab87d2e) - 2025-07-04
 ## Q2 2025
 
 

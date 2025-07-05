@@ -8,6 +8,14 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Commit] [lints](https://github.com/ethereum/execution-spec-tests/commit/d43a32c1b6f608157008c5b7cc4682de61ebc8b7) - 2025-07-04
+* [Commit] [improvements](https://github.com/ethereum/execution-spec-tests/commit/b337749fbd76e06e77ce6a3e8b53769c4770ca1d) - 2025-07-04
+* [Commit] [improvements](https://github.com/ethereum/execution-spec-tests/commit/02c6d4ef51ed63c3954df64553e4bd2544c50a9a) - 2025-07-04
+* [Commit] [improvements](https://github.com/ethereum/execution-spec-tests/commit/850910c6b2018ef05bfafa45bacd3015251f8ac0) - 2025-07-04
 ## Q2 2025
 
 

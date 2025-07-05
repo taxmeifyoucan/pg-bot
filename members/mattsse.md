@@ -27,6 +27,17 @@ Team: Reth
 * [Commit] [bump](https://github.com/paradigmxyz/reth/commit/fccaebe3d7ad9c1666f0855d89ab300e895570b0) - 2025-07-03
 * [Pull Request] [chore: bump inspectors](https://github.com/paradigmxyz/reth/pull/17198) - 2025-07-03
 
+* [Commit] [chore: use alloy traits for build receipt (#17211)](https://github.com/paradigmxyz/reth/commit/a46d0c02736c9c8aac638ad5045c3261b78d5ddc) - 2025-07-04
+* [Issue] [Make build_receipt infallible](https://github.com/paradigmxyz/reth/issues/17231) - 2025-07-04
+* [Issue] [Expire pre-merge data on demand](https://github.com/paradigmxyz/reth/issues/17230) - 2025-07-04
+* [Issue] [Arc PendingBlock internals](https://github.com/paradigmxyz/reth/issues/17229) - 2025-07-04
+* [Commit] [Update metrics documentation link to new official Reth docs (#17220)](https://github.com/paradigmxyz/reth/commit/d101fb7b900ca998cb117a1bd52c92c1e134c211) - 2025-07-04
+* [Issue] [Add Middleware generic to AuthServerConfig](https://github.com/paradigmxyz/reth/issues/17228) - 2025-07-04
+* [Commit] [docs: improve NodeAddOns trait documentation (#17178)](https://github.com/paradigmxyz/reth/commit/62b1d574e1cd56aa5c8217ff484353d8861890d2) - 2025-07-04
+* [Issue] [Remove txhash from PoolUpdate](https://github.com/paradigmxyz/reth/issues/17226) - 2025-07-04
+* [Pull Request] [chore: load kzg settings in background](https://github.com/paradigmxyz/reth/pull/17224) - 2025-07-04
+* [Commit] [lint](https://github.com/paradigmxyz/reth/commit/9fc910dd5875a0e4e9733e8b896c962c23b24c75) - 2025-07-04
+* [Commit] [chore: make clippy happy (#17219)](https://github.com/paradigmxyz/reth/commit/345735888070050f0f08bff8b708c40d35930524) - 2025-07-04
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

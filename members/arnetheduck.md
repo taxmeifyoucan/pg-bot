@@ -23,6 +23,17 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [feat: add admin_peers and admin ns (#3431) (#3437)](https://github.com/status-im/nimbus-eth1/commit/f88c6fe929e2a94b9265cb3a4744dfd918fac80d) - 2025-07-03
 * [Pull Request] [Revert "defer gc during block processing (#3384)"](https://github.com/status-im/nimbus-eth1/pull/3445) - 2025-07-03
 * [Pull Request] [reuse VertexRef instance on update](https://github.com/status-im/nimbus-eth1/pull/3444) - 2025-07-03
+* [Commit] [nimbus-eth2: bump (#3450)](https://github.com/status-im/nimbus-eth1/commit/82d827c817783b9b257e9108722aaf29931f3015) - 2025-07-04
+* [Commit] [vendor: maintenance bumps](https://github.com/status-im/nimbus-eth1/commit/4d4505a3f00b536b99756841751404e46a6db21c) - 2025-07-04
+* [Pull Request] [vendor: maintenance bumps](https://github.com/status-im/nimbus-eth1/pull/3451) - 2025-07-04
+* [Commit] [vendor: maintenance bumps](https://github.com/status-im/nimbus-eth1/commit/7d6df32227338808543ae5fe3798bb982fda5c86) - 2025-07-04
+* [Pull Request] [nimbus-eth2: bump](https://github.com/status-im/nimbus-eth1/pull/3450) - 2025-07-04
+* [Commit] [reuse VertexRef instance on update (#3444)](https://github.com/status-im/nimbus-eth1/commit/00d2ad4e7a772ed27b2656ea4fd96fdc5564c049) - 2025-07-04
+* [Commit] [aristo: switch to vector memtable (#3447)](https://github.com/status-im/nimbus-eth1/commit/0eea2fa99451c9353dec7fca5546124e0a20c6be) - 2025-07-04
+* [Commit] [Revert "defer gc during block processing (#3384)" (#3445)](https://github.com/status-im/nimbus-eth1/commit/2f02b67971b96f03cef7b4a637e58d60fe7059ab) - 2025-07-04
+* [Issue] [Simplify `updateBase`](https://github.com/status-im/nimbus-eth1/issues/3449) - 2025-07-04
+* [Commit] [merge noise](https://github.com/status-im/nimbus-eth1/commit/f38189970226afdf5323277fcbd1ef18b8daabca) - 2025-07-04
+* [Commit] [simplify key updates](https://github.com/status-im/nimbus-eth1/commit/3455983c2a27251a1b8a318bf7478457377011fa) - 2025-07-04
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 ## Q2 2025

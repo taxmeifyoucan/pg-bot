@@ -16,6 +16,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Record v2 beacon blocks http api metrics separately](https://github.com/sigp/lighthouse/pull/7692) - 2025-07-02
 * [Commit] [Fix and test checkpoint sync from genesis (#7689)](https://github.com/sigp/lighthouse/commit/a459a9af98c9da7dbdf11e36ab2472a11cac4c52) - 2025-07-02
 * [Commit] [Update `SAMPLES_PER_SLOT` to be number of custody groups instead of data columns (#7683)](https://github.com/sigp/lighthouse/commit/41742ce2bde924e4dc6684b430815ca1895ae225) - 2025-07-02
+* [Issue] [Skip KZG proof verification for blobs and proofs returned from the EL](https://github.com/sigp/lighthouse/issues/7700) - 2025-07-04
+* [Issue] [Queue and batch verify gossip data columns](https://github.com/sigp/lighthouse/issues/7699) - 2025-07-04
+* [Issue] [Switch VC <> BN block production call to SSZ (`eth/v3/validator/blocks`)](https://github.com/sigp/lighthouse/issues/7698) - 2025-07-04
+* [Commit] [Bump fusaka devnet version.](https://github.com/sigp/lighthouse/commit/6114bf60a4128469a0d10e70c56cb098268b9bfc) - 2025-07-04
 ## Q2 2025
 
 

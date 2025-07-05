@@ -20,6 +20,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: improve range sync in fulu (#7746)](https://github.com/ChainSafe/lodestar/commit/e99f094d77fa5d162d64108ce0a6f637496bbfe6) - 2025-07-02
 * [Commit] [feat: improve range sync in fulu (#7746) (#8031)](https://github.com/ChainSafe/lodestar/commit/791764fbf8133836100b7a510e8d37ea8d60d08e) - 2025-07-03
 * [Pull Request] [feat: improve range sync in fulu (#7746)](https://github.com/ChainSafe/lodestar/pull/8031) - 2025-07-03
+* [Issue] [PeerDAS: rate limit when syncing](https://github.com/ChainSafe/lodestar/issues/8033) - 2025-07-04
+* [Commit] [chore: log downloading batch](https://github.com/ChainSafe/lodestar/commit/092bb09003290bea2d17c3634c65960e092bd5a6) - 2025-07-04
+* [Pull Request] [fix: only process chain segment with a success downloaded batch](https://github.com/ChainSafe/lodestar/pull/8032) - 2025-07-04
 ## Q2 2025
 
 

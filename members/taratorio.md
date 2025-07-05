@@ -23,6 +23,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/stagedsync: add debug timing logs to exec prune steps](https://github.com/erigontech/erigon/commit/54c6d8df92b7b2831d3bed3120dc5a54792db2db) - 2025-07-03
 * [Commit] [txnprovider/shutter: fix flaky integration test failure due to jwt secret creation race (#15909)](https://github.com/erigontech/erigon/commit/a397f20ee82b65ed849ece30647bfd8064a88e37) - 2025-07-03
 * [Commit] [p2p/sentry: improve logging around header and body requests (#15911)](https://github.com/erigontech/erigon/commit/1e6e11972ce03e9446963b206d1010c17d089abd) - 2025-07-03
+* [Commit] [simplify and fix](https://github.com/erigontech/erigon/commit/26c0a840a66865f1042da732ba9da487835b75c6) - 2025-07-04
+* [Commit] [db.pageSize: 16kb (#15915)](https://github.com/erigontech/erigon/commit/b5dbc41fc4e10838db1ff8cf9bd4675e8fbbc3a1) - 2025-07-04
+* [Commit] [execution/stagedsync: add debug timing logs to exec prune steps (#15923)](https://github.com/erigontech/erigon/commit/aa73cff061134341f29f2a72baffb5e3dcbe510f) - 2025-07-04
+* [Issue] [Flaky TestState/stEIP1559 panic: test timed out after 1h0m0s](https://github.com/erigontech/erigon/issues/15939) - 2025-07-04
+* [Commit] [execution/stagedsync: add debug timing logs to exec prune steps](https://github.com/erigontech/erigon/commit/9c481f1cdaa24d3c254c8ba41c12db4c9f59a81f) - 2025-07-04
+* [Pull Request] [execution/stagedsync: add debug timing logs to exec prune steps](https://github.com/erigontech/erigon/pull/15937) - 2025-07-04
+* [Commit] [move comment](https://github.com/erigontech/erigon/commit/5ac6135ae9dddbe16b89d2d84602294a7f48654e) - 2025-07-04
 ## Q2 2025
 
 

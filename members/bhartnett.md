@@ -14,6 +14,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Stateless: Simplify the witness table data structure (#3446)](https://github.com/status-im/nimbus-eth1/commit/1b1f07e23bd97ba5d2cab5cf2cec24099012a7c9) - 2025-07-03
 * [Pull Request] [Stateless: Simplify the witness table data structure](https://github.com/status-im/nimbus-eth1/pull/3446) - 2025-07-03
+* [Commit] [Transform FC module internals into DAG (#3441)](https://github.com/status-im/nimbus-eth1/commit/8a6877d4b8d5dd1e5e5b3b2b62d7e2ddea5a454f) - 2025-07-04
+* [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/049d92fc79ac94b487b60eb69f7b49fe07391a92) - 2025-07-04
+* [Pull Request] [Stateless: Make collection of witness keys in ledger configurable at runtime](https://github.com/status-im/nimbus-eth1/pull/3448) - 2025-07-04
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

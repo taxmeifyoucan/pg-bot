@@ -16,6 +16,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [[fusaka-devnet-2] fix: include missing BPOs to ForkIds](https://github.com/hyperledger/besu/pull/8906) - 2025-07-03
 * [Commit] [Fix missing forkIds for BPOs (#8905)](https://github.com/hyperledger/besu/commit/9abaf4a87bf907e64f8def47d4c20cbda1e5345d) - 2025-07-03
 * [Pull Request] [fix: add BPOs to block timestamps list (Fix wrong forkId)](https://github.com/hyperledger/besu/pull/8905) - 2025-07-03
+* [Issue] [getBlobsV2: Don't prohibit partial responses](https://github.com/hyperledger/besu/issues/8916) - 2025-07-04
+* [Issue] [EIP-7951 - Double the gas cost of the p256verify precompile](https://github.com/hyperledger/besu/issues/8915) - 2025-07-04
+* [Issue] [Increase the modExp gas cost with this PR](https://github.com/hyperledger/besu/issues/8914) - 2025-07-04
+* [Issue] [EIP-7594 Remove maxBlobsPerTx from from BPO and hard a constant limit of 6 blobs/txn](https://github.com/hyperledger/besu/issues/8913) - 2025-07-04
+* [Issue] [EIP-7907 - Devnet 3 changes](https://github.com/hyperledger/besu/issues/8912) - 2025-07-04
 ## Q2 2025
 
 

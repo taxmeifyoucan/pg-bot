@@ -18,6 +18,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/e798c80ed6d0c3718d44360a4fa09289313ee49f) - 2025-07-03
 * [Commit] [have validator custody detection and custody backfill on separate loops](https://github.com/status-im/nimbus-eth2/commit/7cb7cd3896f65e3f7244bd7e696ce7c9a9de86c7) - 2025-07-03
 * [Commit] [reduce validator custody polling duration](https://github.com/status-im/nimbus-eth2/commit/116aea2ec831d0317e52a74661af37a78daa2c46) - 2025-07-03
+* [Commit] [some more rework on getBlobsV2](https://github.com/status-im/nimbus-eth2/commit/45d0b86674048dd079a55c45b5d18a131b4291ee) - 2025-07-04
+* [Commit] [use total attached balance instead of active balance](https://github.com/status-im/nimbus-eth2/commit/55da1e6f9c1735ab166ecbd3d5b60e9132fe293a) - 2025-07-04
+* [Commit] [added extra logging for clarity](https://github.com/status-im/nimbus-eth2/commit/98dc196e71769994b1ae9e3f83fef17d5cac66c8) - 2025-07-04
 ## Q2 2025
 
 

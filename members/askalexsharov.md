@@ -36,6 +36,10 @@ Team: Erigon
 * [Commit] [BenchmarkDecompress: on 0.5mb words (#15858)](https://github.com/erigontech/erigon/commit/e95b5d8e5bae7b662da9ddde3a1df611d905531d) - 2025-07-02
 * [Commit] [kick ci](https://github.com/erigontech/erigon/commit/e4f50f91d73ef42afe9f708cb03e7871cf3cfbd5) - 2025-07-02
 * [Pull Request] [db.pageSize: 16kb](https://github.com/erigontech/erigon/pull/15915) - 2025-07-03
+* [Commit] [stage_custom_trace: no BorSpan method fix (#15927)](https://github.com/erigontech/erigon/commit/d84b5e78274db3fb4b9971b26b31fc5b6df219bd) - 2025-07-04
+* [Pull Request] [[r30] db.pageSize: 16kb](https://github.com/erigontech/erigon/pull/15928) - 2025-07-04
+* [Commit] [db.pageSize: 16kb (#15915)](https://github.com/erigontech/erigon/commit/d84ea89a75612d958fd3a897895fb49113eda5cb) - 2025-07-04
+* [Pull Request] [stage_custom_trace: no BorSpan method fix](https://github.com/erigontech/erigon/pull/15927) - 2025-07-04
 ## Q2 2025
 
 

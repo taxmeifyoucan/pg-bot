@@ -14,6 +14,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [update tips](https://github.com/status-im/nimbus-eth2/commit/01964af446ed8b0c2d43b979c63f6703899bd4a3) - 2025-07-02
 * [Pull Request] [update nimbus eth1 documentation](https://github.com/status-im/nimbus-eth2/pull/7279) - 2025-07-02
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Commit] [Revert: don't call extra stateroot computation in procesBlock (#3435)](https://github.com/status-im/nimbus-eth1/commit/fcc219987c688ff5f5391f44ae1aa75c97e91314) - 2025-07-04
+* [Commit] [Add txFrame id to FC.validateBlock log (#3443)](https://github.com/status-im/nimbus-eth1/commit/65af60139b69dee4b87eef12e079cebea02fb88a) - 2025-07-04
 ## Q2 2025
 
 

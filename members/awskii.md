@@ -15,6 +15,7 @@ Team: Erigon
 * [Pull Request] [arb: chain params](https://github.com/erigontech/erigon/pull/15922) - 2025-07-03
 * [Pull Request] [arb: extract libraries ](https://github.com/erigontech/erigon/pull/15920) - 2025-07-03
 * [Commit] [arbitrum: remove `go.work.sum` (#15908)](https://github.com/erigontech/erigon/commit/c6c0bd50e7adf1b94a2db32791f5f6a90b64f7a6) - 2025-07-03
+* [Commit] [arb: extract libraries  (#15920)](https://github.com/erigontech/erigon/commit/527811aa9917366a779623140b1a1cd292535237) - 2025-07-04
 ## Q2 2025
 
 

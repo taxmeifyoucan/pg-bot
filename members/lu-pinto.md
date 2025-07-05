@@ -7,6 +7,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 
 ## Contributions
 
+## Q3 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Fix JMH integration and add in AsyncProfiler option](https://github.com/hyperledger/besu/pull/8920) - 2025-07-04
 ## Q2 2025
 
 
