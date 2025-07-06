@@ -13,6 +13,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove g11tech from Lodestar](https://github.com/protocolguild/documentation/pull/367) - 2025-07-04
+* [Pull Request] [Rename twoeths (Lodestar)](https://github.com/protocolguild/documentation/pull/369) - 2025-07-05
 ## Q2 2025
 
 

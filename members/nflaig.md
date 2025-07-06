@@ -22,6 +22,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: improve range sync in fulu (#7746)](https://github.com/ChainSafe/lodestar/commit/e99f094d77fa5d162d64108ce0a6f637496bbfe6) - 2025-07-04
 * [Commit] [fix: only process chain segment with a success downloaded batch (#8032)](https://github.com/ChainSafe/lodestar/commit/c400fc4df977a86e94f908d1f2d8b91461048eca) - 2025-07-04
 * [Issue] [engine_getBlobsV2 handle partial responses](https://github.com/ChainSafe/lodestar/issues/8034) - 2025-07-04
+* [Commit] [Use GENESIS_EPOCH in onMetadata](https://github.com/ChainSafe/lodestar/commit/f089b8923c3f4b829a6674d64e6ebecb928fb740) - 2025-07-05
+* [Commit] [Fix README type check](https://github.com/ChainSafe/lodestar/commit/cb57514336df178fdc6d93413b2fc0691069f72e) - 2025-07-05
+* [Commit] [Add note about adding BPO forks after normal hard-forks to fork boundaries](https://github.com/ChainSafe/lodestar/commit/db050192ca75035ecbfe760d6596ff3762688009) - 2025-07-05
+* [Commit] [Fix build](https://github.com/ChainSafe/lodestar/commit/ed2b5598b878d7251f2a493d5696f9cc0e49b159) - 2025-07-05
+* [Commit] [Keep  getForkInfo in getMaxBlobsPerBlock to reduce diff](https://github.com/ChainSafe/lodestar/commit/a2b64887301350603d53183eca7a86fdf85779f8) - 2025-07-05
+* [Commit] [Keep unscheduled fork boundaries](https://github.com/ChainSafe/lodestar/commit/1ae569c5a258987b7121649c2b38edd96f8cc6ec) - 2025-07-05
+* [Commit] [Use GENESIS_EPOCH consistently](https://github.com/ChainSafe/lodestar/commit/f2e50e3a1ea6aff2ec47aa25ef1c809719831dd1) - 2025-07-05
+* [Commit] [Apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/300f11b829a569f8f037aac1ffe23d31ebe4f75f) - 2025-07-05
 ## Q2 2025
 
 

@@ -20,6 +20,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Queue and batch verify gossip data columns](https://github.com/sigp/lighthouse/issues/7699) - 2025-07-04
 * [Issue] [Switch VC <> BN block production call to SSZ (`eth/v3/validator/blocks`)](https://github.com/sigp/lighthouse/issues/7698) - 2025-07-04
 * [Commit] [Bump fusaka devnet version.](https://github.com/sigp/lighthouse/commit/6114bf60a4128469a0d10e70c56cb098268b9bfc) - 2025-07-04
+* [Issue] [Self rate limiting due to number of concurrent requests for `data_column_sidecars_by_range`](https://github.com/sigp/lighthouse/issues/7704) - 2025-07-05
 ## Q2 2025
 
 

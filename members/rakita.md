@@ -31,6 +31,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [docs: fix in pre_execution.rs about nonce bump for CREATE (#2684)](https://github.com/bluealloy/revm/commit/59066f017b88c7c342f721cf67afef5d2015bfe6) - 2025-07-04
 * [Commit] [test: add comprehensive tests for TxEnvBuilder (#2690)](https://github.com/bluealloy/revm/commit/08badc0d0500c80e44a5d3890942229c3d4894f1) - 2025-07-04
 * [Commit] [fix typo: Rename is_created_globaly to is_created_globally (#2692)](https://github.com/bluealloy/revm/commit/c431f2c3201996c4d86fddabf29ba1fb6debe695) - 2025-07-04
+* [Commit] [test fixtures, and fix few EIP-7907 tests](https://github.com/bluealloy/revm/commit/3184d8b8e9acccc9c4caf6823b32313a415672a1) - 2025-07-05
+* [Commit] [test fixtures, and fix few EIP-7907 tests](https://github.com/bluealloy/revm/commit/26286ee62daf08336dfad3449a5cf7cdb5a580e2) - 2025-07-05
 ## Q2 2025
 
 

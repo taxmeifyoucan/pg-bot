@@ -17,6 +17,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Transform FC module internals into DAG (#3441)](https://github.com/status-im/nimbus-eth1/commit/8a6877d4b8d5dd1e5e5b3b2b62d7e2ddea5a454f) - 2025-07-04
 * [Commit] [Run nph.](https://github.com/status-im/nimbus-eth1/commit/049d92fc79ac94b487b60eb69f7b49fe07391a92) - 2025-07-04
 * [Pull Request] [Stateless: Make collection of witness keys in ledger configurable at runtime](https://github.com/status-im/nimbus-eth1/pull/3448) - 2025-07-04
+* [Commit] [Fix tests.](https://github.com/status-im/nimbus-eth1/commit/5b92048c4622ec473ebe313e63c2b9e4bd9d0850) - 2025-07-05
+* [Commit] [Update execution_chain/common/common.nim](https://github.com/status-im/nimbus-eth1/commit/16a8165c38001354d73cda74c9989a209f3317b3) - 2025-07-05
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

@@ -15,6 +15,9 @@ Team: Erigon
 * [Pull Request] [Move bhilai fork to bor config and fix fork id tests (#15867)](https://github.com/erigontech/erigon/pull/15870) - 2025-07-01
 * [Pull Request] [cherry pick: forkid_test fix from release/3.0.10](https://github.com/erigontech/erigon/pull/15869) - 2025-07-01
 * [Pull Request] [Add bor init to txpool configuration](https://github.com/erigontech/erigon/pull/15941) - 2025-07-04
+* [Commit] [err not string](https://github.com/erigontech/erigon/commit/cb4dcdadc45612185d12f1820ac6657407d61340) - 2025-07-05
+* [Commit] [remove missing var](https://github.com/erigontech/erigon/commit/88e8b589866c9a617a11de039d1cdbafd9cbc75b) - 2025-07-05
+* [Pull Request] [Lookup last receipt if not present](https://github.com/erigontech/erigon/pull/15947) - 2025-07-05
 ## Q2 2025
 
 

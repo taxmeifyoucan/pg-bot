@@ -24,6 +24,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [More tuning to getPayloadBodiesByRange](https://github.com/status-im/nimbus-eth1/pull/3442) - 2025-07-03
 * [Commit] [Transform FC module internals into DAG (#3441)](https://github.com/status-im/nimbus-eth1/commit/8a6877d4b8d5dd1e5e5b3b2b62d7e2ddea5a454f) - 2025-07-03
 * [Commit] [More tuning](https://github.com/status-im/nimbus-eth1/commit/5f158e45ab2af85487ed9b7d427b3ae92f711d8e) - 2025-07-03
+* [Commit] [vendor: maintenance bumps (#3451)](https://github.com/status-im/nimbus-eth1/commit/9f37bd5420d589e26404fde6b2279c3145100d31) - 2025-07-05
+* [Commit] [FC serializer use txFrame as replay indicator](https://github.com/status-im/nimbus-eth1/commit/ec7895a1697c79e78f03f01965d166935307ef58) - 2025-07-05
 ## Q2 2025
 
 

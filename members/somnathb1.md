@@ -13,6 +13,14 @@ Team: Erigon
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Commit] [Interim](https://github.com/erigontech/erigon/commit/347530c87997bae05e96d8d2803456d220314561) - 2025-07-03
+* [Commit] [Use strconv](https://github.com/erigontech/erigon/commit/f1361e7f40c57258e8b23a59ba4b48816111c07d) - 2025-07-05
+* [Commit] [Yes, fix lint](https://github.com/erigontech/erigon/commit/f299ab8b2160c8c5b36f5aa2535493114de7e3e0) - 2025-07-05
+* [Commit] [Fix lint?](https://github.com/erigontech/erigon/commit/adb7edb99afaabaed5a8699c0051bbf41bbedd98) - 2025-07-05
+* [Commit] [core: move Polygon chain specs to `polygon` (#15687)](https://github.com/erigontech/erigon/commit/eb4d291003f57baed1365343df07b39b85e6f879) - 2025-07-05
+* [Commit] [core: move Polygon chain specs to `polygon` (#15687)](https://github.com/erigontech/erigon/commit/0b4677cd8e55fc5f5e8dd1b25465404e0b59f377) - 2025-07-05
+* [Commit] [Fix err](https://github.com/erigontech/erigon/commit/2438507fe13ba0be8dc960ea7b3ac7ee559ebdfc) - 2025-07-05
+* [Pull Request] [ jsonrpc: implement eth_config ](https://github.com/erigontech/erigon/pull/15948) - 2025-07-05
+* [Commit] [jsonrpc: implement `eth_config`](https://github.com/erigontech/erigon/commit/c9aac89a4ef7f5b822269459113dbd2101215545) - 2025-07-05
 ## Q2 2025
 
 

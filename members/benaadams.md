@@ -25,6 +25,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [set nonce to current, ignoring all nonce check on CallAndRestore (#8897)](https://github.com/NethermindEth/nethermind/commit/b448db46971aef706725f0da51bb48901f51429b) - 2025-07-03
 * [Commit] [Reintroduce ThreadBoost for main Processing thread (#8926)](https://github.com/NethermindEth/nethermind/commit/2726fcc72458ed2931904a56501aa123e4b4e0b1) - 2025-07-03
 * [Pull Request] [Reintroduce ThreadBoost for main Processing thread](https://github.com/NethermindEth/nethermind/pull/8926) - 2025-07-03
+* [Commit] [Don't cache only hashes](https://github.com/NethermindEth/nethermind/commit/7dd8211487e79013f974002a5c5aecdfc64396c0) - 2025-07-05
 ## Q2 2025
 
 

@@ -18,6 +18,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/ac5f9106191b9a63b6ffba32ea8e6f8181f94647) - 2025-07-01
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/bdb665557298124850c84a64143501abbf4de127) - 2025-07-01
 * [Commit] [rlp: remove duplicate code in rlphacks packge (#15857)](https://github.com/erigontech/erigon/commit/e1d4df37ec7db73ccf2ede86e76b8b4bef83b7fd) - 2025-07-01
+* [Pull Request] [added perms](https://github.com/erigontech/erigon/pull/15950) - 2025-07-05
+* [Pull Request] [rm state snapshots flag mixer](https://github.com/erigontech/erigon/pull/15949) - 2025-07-05
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/4dd61e6ac3bf733cea5b53050c8a7f3ed7dc93b4) - 2025-07-05
 ## Q2 2025
 
 

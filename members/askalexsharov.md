@@ -40,6 +40,19 @@ Team: Erigon
 * [Pull Request] [[r30] db.pageSize: 16kb](https://github.com/erigontech/erigon/pull/15928) - 2025-07-04
 * [Commit] [db.pageSize: 16kb (#15915)](https://github.com/erigontech/erigon/commit/d84ea89a75612d958fd3a897895fb49113eda5cb) - 2025-07-04
 * [Pull Request] [stage_custom_trace: no BorSpan method fix](https://github.com/erigontech/erigon/pull/15927) - 2025-07-04
+* [Issue] [integrity: NoGapsInBorEvents optimize](https://github.com/erigontech/erigon/issues/15951) - 2025-07-05
+* [Commit] [Update Documentation Links  (#15925)](https://github.com/erigontech/erigon/commit/e0eaab378451e5e85e2c25291701acb7fa7d8456) - 2025-07-05
+* [Commit] [Updated ETL framework documentation link in README.md (#15910)](https://github.com/erigontech/erigon/commit/bbe7a301576b96d4e6156b2085abc01bb2d3dc3c) - 2025-07-05
+* [Issue] [integrity: InvertedIndex unclear which file broken](https://github.com/erigontech/erigon/issues/15946) - 2025-07-05
+* [Issue] [publishable: improve error messages](https://github.com/erigontech/erigon/issues/15945) - 2025-07-05
+* [Pull Request] [[r31] integrity: bor event faster. check](https://github.com/erigontech/erigon/pull/15944) - 2025-07-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d24c99585c80fa137510bf54dea169bcfccb7d09) - 2025-07-05
+* [Pull Request] [[r30] integrity: bor event faster check](https://github.com/erigontech/erigon/pull/15943) - 2025-07-05
+* [Issue] [Sepolia archive Caplin: can't finish stage_snapshots](https://github.com/erigontech/erigon/issues/15942) - 2025-07-05
+* [Commit] [rpcdaemon: remove check to avoid panic when access to Debug() method of KV remote (#15933)](https://github.com/erigontech/erigon/commit/91aba48801a74a9f9f80ee690a3f60f9ee051b44) - 2025-07-05
+* [Commit] [derive bloom for cached receipt (#15935)](https://github.com/erigontech/erigon/commit/a6845dce2a58ed470c9491b44804f0a8cb37443e) - 2025-07-05
+* [Commit] [integration-CI: fix return RPC failed test to the caller (#15940)](https://github.com/erigontech/erigon/commit/ce7c31c3580e027b380be04856c205886ea69dc2) - 2025-07-05
+* [Commit] [cherry pick: forkid_test fix from release/3.0.10 (#15869)](https://github.com/erigontech/erigon/commit/afbc00319e628a2359ff54e7b7aaa968236f1d43) - 2025-07-05
 ## Q2 2025
 
 

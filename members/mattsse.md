@@ -38,6 +38,7 @@ Team: Reth
 * [Pull Request] [chore: load kzg settings in background](https://github.com/paradigmxyz/reth/pull/17224) - 2025-07-04
 * [Commit] [lint](https://github.com/paradigmxyz/reth/commit/9fc910dd5875a0e4e9733e8b896c962c23b24c75) - 2025-07-04
 * [Commit] [chore: make clippy happy (#17219)](https://github.com/paradigmxyz/reth/commit/345735888070050f0f08bff8b708c40d35930524) - 2025-07-04
+* [Pull Request] [chore: update size metrics once](https://github.com/paradigmxyz/reth/pull/17242) - 2025-07-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025
