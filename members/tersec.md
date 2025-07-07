@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q3 2025
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Commit] [fix: variable name (#7278)](https://github.com/status-im/nimbus-eth2/commit/d43386cbbcf351ddd4d67994b004d5a03e37f906) - 2025-07-06
 ## Q2 2025
 
 

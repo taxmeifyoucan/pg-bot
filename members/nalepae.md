@@ -19,6 +19,17 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [`blocker_test.go`: Remove unused functions.](https://github.com/OffchainLabs/prysm/commit/41f109aa5bff60062b3cd08db3cb7f3533512fb9) - 2025-07-03
 * [Commit] [PeerDAS execution: Implement engine method `GetBlobsV2` and `ReconstructDataColumnSidecars`.](https://github.com/OffchainLabs/prysm/commit/da42df623c45611f744bd7184d800f8c344e7930) - 2025-07-03
 * [Pull Request] [PeerDAS: Implement reconstruction of data column sidecars retrieved from the execution client.](https://github.com/OffchainLabs/prysm/pull/15469) - 2025-07-03
+* [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/1739262409e1df98c7bea9d2dcee43c2b599de29) - 2025-07-07
+* [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/bd236baff44058ea243b1eaf3302d2f87d66ca58) - 2025-07-06
+* [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/3f211908eaca3960e60144cbf114a85864f14ea7) - 2025-07-06
+* [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/9d4cc6475f425c752b002a491c876fa46f1c1607) - 2025-07-06
+* [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/a67d2a08ddd31c0be5d1f4f75390770705001ede) - 2025-07-06
+* [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/441a8ff1f50260b4a4f34bd8cf4fde82c0b825a9) - 2025-07-06
+* [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/d89ed7863abde9bc18b73fc47cdc0714eb188dff) - 2025-07-06
+* [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/26d153cff431a0035519a6d168eea7dd7f399356) - 2025-07-06
+* [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/08fc07b28d0d3212933329dae10c3e32e41eaba2) - 2025-07-06
+* [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/56bc508501e2b395c7f9ed5f4ac07733afbe0468) - 2025-07-06
+* [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/765a7d8617973debbba59db3eae182973888dc74) - 2025-07-06
 ## Q2 2025
 
 

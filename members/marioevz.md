@@ -8,6 +8,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [feat(execute): `execute eth-config` command](https://github.com/ethereum/execution-spec-tests/pull/1863) - 2025-07-06
+* [Commit] [feat(benchmark): add coverage for CREATE and CREATE2 (#1847)](https://github.com/ethereum/execution-spec-tests/commit/2a7a6d72aa5b4b0a1dda17ae79d0ae421040e2d5) - 2025-07-06
+* [Commit] [fix(tests): fix invalid log opcode keyword 7702 fails (#1856)](https://github.com/ethereum/execution-spec-tests/commit/0fe4295f1832abeb39f72097bbb177e59598b3b1) - 2025-07-06
 ## Q2 2025
 
 

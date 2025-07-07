@@ -22,6 +22,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Eliminate unnecessary abstractions with single implementations (batch 1)](https://github.com/hyperledger/besu/issues/8899) - 2025-07-02
 * [Issue] [Test issue created via Claude Code MCP](https://github.com/hyperledger/besu/issues/8897) - 2025-07-02
 * [Issue] [Test Issue - MCP Integration Verification](https://github.com/hyperledger/besu/issues/8896) - 2025-07-02
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [# RPC Standards # 8 | July 7th, 2025](https://github.com/ethereum/pm/issues/1605) - 2025-07-06
 ## Q2 2025
 
 

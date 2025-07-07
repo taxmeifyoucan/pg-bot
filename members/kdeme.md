@@ -8,6 +8,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q3 2025
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Commit] [Adjust content id derivation to differentiate body and receipts](https://github.com/status-im/nimbus-eth1/commit/2b5cebcee778d7343b71c8479281f96938d44d1d) - 2025-07-06
+* [Commit] [aristo: fold Adm column family into Vtx (#3383)](https://github.com/status-im/nimbus-eth1/commit/f268688da8d296f91d518bcc6ec7c66c85723fd1) - 2025-07-06
 ## Q2 2025
 
 

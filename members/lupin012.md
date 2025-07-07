@@ -16,6 +16,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration-CI: fix return RPC failed test to the caller](https://github.com/erigontech/erigon/pull/15940) - 2025-07-04
 * [Pull Request] [[3.0]: rpcdaemon: Remove check on pruning ](https://github.com/erigontech/erigon/pull/15934) - 2025-07-04
 * [Pull Request] [rpcdaemon: remove check to avoid panic when access to Debug() method of KV remote](https://github.com/erigontech/erigon/pull/15933) - 2025-07-04
+* [Pull Request] [Fix regression on failure ci](https://github.com/erigontech/erigon/pull/15955) - 2025-07-06
+* [Pull Request] [integration-CI: Fix regression on failure CI](https://github.com/erigontech/erigon/pull/15954) - 2025-07-06
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -19,6 +19,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Stateless: Make collection of witness keys in ledger configurable at runtime](https://github.com/status-im/nimbus-eth1/pull/3448) - 2025-07-04
 * [Commit] [Fix tests.](https://github.com/status-im/nimbus-eth1/commit/5b92048c4622ec473ebe313e63c2b9e4bd9d0850) - 2025-07-05
 * [Commit] [Update execution_chain/common/common.nim](https://github.com/status-im/nimbus-eth1/commit/16a8165c38001354d73cda74c9989a209f3317b3) - 2025-07-05
+* [Commit] [Stateless: Make collection of witness keys in ledger configurable at runtime (#3448)](https://github.com/status-im/nimbus-eth1/commit/379b4ff72f17616f36a61df92a602b89580fb39d) - 2025-07-06
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

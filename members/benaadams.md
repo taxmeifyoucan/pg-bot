@@ -26,6 +26,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reintroduce ThreadBoost for main Processing thread (#8926)](https://github.com/NethermindEth/nethermind/commit/2726fcc72458ed2931904a56501aa123e4b4e0b1) - 2025-07-03
 * [Pull Request] [Reintroduce ThreadBoost for main Processing thread](https://github.com/NethermindEth/nethermind/pull/8926) - 2025-07-03
 * [Commit] [Don't cache only hashes](https://github.com/NethermindEth/nethermind/commit/7dd8211487e79013f974002a5c5aecdfc64396c0) - 2025-07-05
+* [Commit] [Use reference equals in clock cache](https://github.com/NethermindEth/nethermind/commit/56467882ea7e69348e588ade15facee67f6681a0) - 2025-07-06
+* [Commit] [Add number cache](https://github.com/NethermindEth/nethermind/commit/f5a9a286ed28d85a8cb607fb898d631d0f84de39) - 2025-07-06
+* [Commit] [Maximise header caching](https://github.com/NethermindEth/nethermind/commit/ff97c2d088e691f4ac511ad4103235330873c158) - 2025-07-06
+* [Commit] [Cleanup/reduce use of specific simulate pattern (#8921)](https://github.com/NethermindEth/nethermind/commit/5e69d14fe033146fa5fbffebda32bdef84e54e98) - 2025-07-06
 ## Q2 2025
 
 

@@ -35,6 +35,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(ci): bump markdownlint action to get `markdownlint-cli2@v0.17.2`](https://github.com/ethereum/execution-spec-tests/pull/1850) - 2025-07-03
 * [Issue] [chore(fill): don't write to `./logs.` resp. enable `--evm-dump-dir` by default](https://github.com/ethereum/execution-spec-tests/issues/1860) - 2025-07-04
 * [Commit] [refactor(fill): extract helper methods in FillCommand](https://github.com/ethereum/execution-spec-tests/commit/64a4e233ec16d5e8e1e4e69b460c2cd96a457490) - 2025-07-04
+* [Commit] [Deployed 0fe4295f18 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/79517b3f2ddef5806d67222583517dbac5849aa2) - 2025-07-06
 ## Q2 2025
 
 

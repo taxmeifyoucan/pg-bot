@@ -53,6 +53,93 @@ Team: Erigon
 * [Commit] [derive bloom for cached receipt (#15935)](https://github.com/erigontech/erigon/commit/a6845dce2a58ed470c9491b44804f0a8cb37443e) - 2025-07-05
 * [Commit] [integration-CI: fix return RPC failed test to the caller (#15940)](https://github.com/erigontech/erigon/commit/ce7c31c3580e027b380be04856c205886ea69dc2) - 2025-07-05
 * [Commit] [cherry pick: forkid_test fix from release/3.0.10 (#15869)](https://github.com/erigontech/erigon/commit/afbc00319e628a2359ff54e7b7aaa968236f1d43) - 2025-07-05
+* [Pull Request] [[wip] new existence filter inside recsplit](https://github.com/erigontech/erigon/pull/15960) - 2025-07-07
+* [Commit] [qa_tests: add Gnosis RPC Integration Tests (#15907)](https://github.com/erigontech/erigon/commit/9903ef6cac308dbfafbc7a9b0cfe98371335cc17) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aca0ca93225becb1f31874a99f8294040c2e48ab) - 2025-07-06
+* [Commit] [rm state snapshots flag mixer (#15949)](https://github.com/erigontech/erigon/commit/9e605a63a8058f26e8e45bee25f17ce3109db0f5) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cbb36320cf5727afed4fafd42e750811d5aeece6) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d01bf25a5f9e3d2e84342f891c422fa69f68061e) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0823b3af78d308f693fa96077174fd56cdf9a250) - 2025-07-06
+* [Commit] [# This is a combination of 2 commits.](https://github.com/erigontech/erigon/commit/d7c8cd61104a6908574d6c6b98301497146d4425) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8cdeeefa138a3035503e57a5c9693314688f6d20) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/08381a11aa4d6f217dcef529b1433be77507d0e7) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/672ff559e3c919cd78d26847c2b2ff67ce523756) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/62c2615a4286522584af52d83f38eeefabf8ebc2) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/072597d5dc208b035613b77ae0d4621f464d8928) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cf4a28f003b89efb69c4bb98c96050fbb8586cba) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f2a7f7a46e7c0a8f8e22572cb4072c17f4f01a68) - 2025-07-06
+* [Pull Request] [recsplit: add version inside file header](https://github.com/erigontech/erigon/pull/15959) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/87db3eba84eb28237618e8ced39ebcc98f263797) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e6230b48cb28f52c0a4f4240859e60bd40a98101) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/13b22112b12c5a4f5f56562eb35bb08dc602d750) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/47bcb1e1fa032ae5e3b8b4bb98f1f18609fa2f80) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5d48e95620b26ad861fa7fdb33bc9a06117e6673) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7df652ee666d6cf62d6e88a7722a21d626d96ad0) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9882a185fcbd610c010e2a0d0f3e780a53e24cd1) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/abd8cc4e7fae28d38d9853f33826642d905ef9b6) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/947b1faee62960bf92b0e6acfda745f30d0c40d8) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5b1f370f3e76ae82dcfcf5b567613872237fc890) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4a462f3d03c9c5ae8e7ca755298bf7c8e5527810) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b21d1df2ff52a9726508bdbb368ae4c201244dc2) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/864e6afc426e21f7b4a1bb5e31cfbf75892635c3) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e8f6de0b10a959f9e2b5160c57da712cd6c42f12) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7128b4dc0385be8f158c83d8174f2f0cd96f4109) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/87ed2ec8ac961285552417f5d1cbc344b6408dc3) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/66c93968f8a583ddd8e6f1b2efa9d6dec192a65c) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/df9ddd5a78e7a05bb4984f0159349a71800dc58a) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c3af4c1e53c1e5f3afbcc4f4823f797ecd5d8b24) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c5c57ede5df5afddc3781fffb0557ca8cb790d17) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/31df01c4e58d33b6ff70bec46f48389c1f432b08) - 2025-07-06
+* [Pull Request] [rpc: replace `interface{}` by `any` ](https://github.com/erigontech/erigon/pull/15958) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b47d28e80237dbdfe65886b30a6df40aeaaaeabc) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5bd1528cd4a32f3bd366bb34632740542936b77a) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bc5b215b2fb69dff2bf1e9b69f1dcf4be6acf168) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a7effb5f40d43013519eb0780873f994bf0f03bd) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d1a9c6b4558ea54c638b25fa4e0f29573d6f4adc) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aae45b9d212c6ee3c708eb69cc9548a645b765e0) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/73228939f130b1c3450fbd2d061fb78389591f0a) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/309fb4e89425c75b9d5dcc7c72466923f29a9c5c) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/75f287b3646ad5ffabfb26aa885a7a2cfaf12863) - 2025-07-06
+* [Pull Request] [rpctest: proof flags](https://github.com/erigontech/erigon/pull/15957) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1adb79ff94432a0112d4680e252b40eed07acef6) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e4a8cf3e7d12e70cd58d4ff95001df4d72845826) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8d6f9639735fabc9e9fdfeee2844c31e5dab8422) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ea8a1bd098af80a93eb28425ecdc06607975adcb) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/47972bccb115fd3ac8829f006e6bc0f0ce31cc98) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4207ab3a0df0351c7c4a7af27f315ea08e0cf9c9) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bdfa1dcbaacb4a959495be778ad9ba96f63204fb) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7aedcba060837ac7d377eb012751f66abb30f9f3) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bb377a6ec0c3e787bfe2c6fdfc4255ebee89c940) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e3e41148753968af4280bde51bf8a345b165c46f) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3769d70d4cf4db105db4b11749c6e7e52bbf760b) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2503bbd459c79cde5d1ada22cf0e0a86bddd6fb1) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6c88110730370777b963814894b400259dcf56f8) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7bd091640e41b9a88d58607f3b6010b39104e46e) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/02a1049753d8e5f642bcaf87511d961a04cd868e) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e3d28b38dc20499b270a570e8d6921524df03682) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6ae23714e40f0ae6ceec107ae8a722578ae85a79) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/906af597ea9b830e7e6369542c08f2b841d5c269) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6dc21854f49070ea697e83564a39e13e933d5c7a) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3fbd197474371ece9545c40a225d665fde150955) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2d0342fc91553c1b4d30685c19442c707186646b) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/37a97a71f52989605e577cc353db361d88cb346b) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d946799e7c2cf668aa191644d6ad15ac5d8b3127) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f355af76341294e99969e61863b2309607aca5f8) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/206ad386125addb63014e39e93acb03506760c4e) - 2025-07-06
+* [Commit] [rpc: prealloc map to avoid map growing (#15862)](https://github.com/erigontech/erigon/commit/bc303e2fe46df2e8b6faa972ddf1b9d7231b0f8f) - 2025-07-06
+* [Pull Request] [stage_custom_trace: move tx.Hash() out of reducer](https://github.com/erigontech/erigon/pull/15952) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8a1c09e605d252bf05a6ebb70bd6f4ecf4db0125) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/48bcd11e84a9b1a31544281fa36567108f4617da) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4685cbe87176690524dfd03b94336abcad51d441) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/34bea7665b6b7a82b3863746e771e10df87259d6) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/db5c5813d29bc57bae59b9c86a263ea9bdd12190) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/74296391ede0b70ceb3fcc3e1a1421be376e4021) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f30481351984a2f1ca5af151ee28f2f0ac80f9e2) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c0c58021d36f760e011c3eb38d6c26d8020c19e8) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1f04e72f948ac003d7b71acf6eee68060533f242) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/09133a5451385cbb87c81e5b78a66e0e1ce40a14) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c983fd0b32cfad4545070eab48c702cf0030af96) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/709cd0248c097b2018d7eb3d439039ecd7616e55) - 2025-07-06
 ## Q2 2025
 
 
