@@ -22,6 +22,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [use total attached balance instead of active balance](https://github.com/status-im/nimbus-eth2/commit/55da1e6f9c1735ab166ecbd3d5b60e9132fe293a) - 2025-07-04
 * [Commit] [added extra logging for clarity](https://github.com/status-im/nimbus-eth2/commit/98dc196e71769994b1ae9e3f83fef17d5cac66c8) - 2025-07-04
 * [Commit] [make the BN pass min DA requirements to catch missing blocks](https://github.com/status-im/nimbus-eth2/commit/c7504645beaea5a06a7df2140a539ee1c6890b03) - 2025-07-05
+* [Commit] [reword peer filtering and scoring](https://github.com/status-im/nimbus-eth2/commit/4da94cf25ddce9a6e6a848179ee7d6707e569023) - 2025-07-07
+* [Commit] [some fixes to rman](https://github.com/status-im/nimbus-eth2/commit/78f1149d85681ff945366cd6bd86cefe0e0d4551) - 2025-07-07
 ## Q2 2025
 
 

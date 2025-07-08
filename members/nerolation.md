@@ -16,6 +16,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Transaction Gas Limit Cap at 2^24](https://github.com/ethereum/EIPs/pull/9984) - 2025-07-06
+* [Pull Request] [Modify EIP-7825: Lower Gas Limit Cap](https://github.com/ethereum/EIPs/pull/9986) - 2025-07-07
 ## Q2 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

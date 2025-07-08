@@ -16,6 +16,8 @@ Team: Grandine
 * [Pull Request] [HTTP API: allow to query validator duties for old epochs](https://github.com/grandinetech/grandine/pull/244) - 2025-07-01
 * [Commit] [Increase HTTP API timeout to 1000s because state fetch with default archival period of 32 epochs takes multiple minutes](https://github.com/grandinetech/grandine/commit/97c8eff762a8326bdfdf0d5710019256f721eee2) - 2025-07-01
 * [Commit] [fix: add missing max_pending_deposits_per_epoch preset value](https://github.com/grandinetech/grandine/commit/2bb1fc6c7f69de945b1500ba5979565423f0ec9f) - 2025-07-02
+* [Commit] [Remove restriction that requires each slot tick to start at the beginning of a second](https://github.com/grandinetech/grandine/commit/a85d34e79d110af2b74d6de8f5e1ff68b635c32e) - 2025-07-07
+* [Pull Request] [Remove restriction that requires each slot tick to start at the beginning of a second](https://github.com/grandinetech/grandine/pull/248) - 2025-07-07
 ## Q2 2025
 
 

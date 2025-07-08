@@ -21,6 +21,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [added perms](https://github.com/erigontech/erigon/pull/15950) - 2025-07-05
 * [Pull Request] [rm state snapshots flag mixer](https://github.com/erigontech/erigon/pull/15949) - 2025-07-05
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/4dd61e6ac3bf733cea5b53050c8a7f3ed7dc93b4) - 2025-07-05
+* [Pull Request] [purify parse files fix](https://github.com/erigontech/erigon/pull/15973) - 2025-07-07
+* [Commit] [kick ci](https://github.com/erigontech/erigon/commit/8ac69fd6b413d2d3aa83dce4ff17f026cc8923a2) - 2025-07-07
+* [Pull Request] [fix of bor db opening on non-bor chains](https://github.com/erigontech/erigon/pull/15972) - 2025-07-07
+* [Pull Request] [added 'latest' flag to invGetLogs + log msg if blockTo > latest](https://github.com/erigontech/erigon/pull/15969) - 2025-07-07
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/958a476efeedf3be24e7f3808ec3c3f9a017c7cf) - 2025-07-07
+* [Pull Request] [invariantGetLogs failfast](https://github.com/erigontech/erigon/pull/15966) - 2025-07-07
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/c34287d4e6878a796e7ccd3214f25d906c3e692a) - 2025-07-07
+* [Pull Request] [[CI TEST] MDBX-14](https://github.com/erigontech/erigon/pull/15965) - 2025-07-07
 ## Q2 2025
 
 

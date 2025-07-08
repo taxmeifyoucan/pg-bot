@@ -18,6 +18,13 @@ Team: Erigon
 * [Commit] [err not string](https://github.com/erigontech/erigon/commit/cb4dcdadc45612185d12f1820ac6657407d61340) - 2025-07-05
 * [Commit] [remove missing var](https://github.com/erigontech/erigon/commit/88e8b589866c9a617a11de039d1cdbafd9cbc75b) - 2025-07-05
 * [Pull Request] [Lookup last receipt if not present](https://github.com/erigontech/erigon/pull/15947) - 2025-07-05
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/39427348a8ed9e49103654a40a896fef8bf21422) - 2025-07-07
+* [Pull Request] [Misc async testing refactors](https://github.com/erigontech/erigon/pull/15977) - 2025-07-07
+* [Commit] [sync submodule to main](https://github.com/erigontech/erigon/commit/e4851fd2b69cc745c0098cb5237172f0a08137a7) - 2025-07-07
+* [Commit] [Lookup last receipt if not present (#15947)](https://github.com/erigontech/erigon/commit/5ca5cf28a44b9b37374d354640cda630acc29faf) - 2025-07-07
+* [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/6684ed7ecd908b2a6672c75100b3a427c03da3b4) - 2025-07-07
+* [Commit] [fix concurrency groups (CG) for workflow jobs (#15723)](https://github.com/erigontech/erigon/commit/2ebd1c38b07bc491774d0f5cb28d7338423aa3aa) - 2025-07-07
+* [Pull Request] [Add versioning check for recovery](https://github.com/erigontech/erigon/pull/15968) - 2025-07-07
 ## Q2 2025
 
 

@@ -14,6 +14,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [bug(tests): enforce transaction gas limit in Osaka (#1830)](https://github.com/ethereum/execution-spec-tests/commit/dd83fba10492e6f63453b1a35608900b3aee1a87) - 2025-07-01
 * [Commit] [bug(forks): add valid opcodes for Osaka (#1827)](https://github.com/ethereum/execution-spec-tests/commit/84cc036475e9b277e908fc04125c870291ae25db) - 2025-07-01
+
+* [Commit] [feat(tests): add test for CLZ opcode with varying gas costs (#1859)](https://github.com/ethereum/execution-spec-tests/commit/e88a2113f6d93ded665a15e8e4de448c03453175) - 2025-07-07
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
+* [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07
 ## Q2 2025
 
 

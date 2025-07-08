@@ -26,6 +26,21 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [More tuning](https://github.com/status-im/nimbus-eth1/commit/5f158e45ab2af85487ed9b7d427b3ae92f711d8e) - 2025-07-03
 * [Commit] [vendor: maintenance bumps (#3451)](https://github.com/status-im/nimbus-eth1/commit/9f37bd5420d589e26404fde6b2279c3145100d31) - 2025-07-05
 * [Commit] [FC serializer use txFrame as replay indicator](https://github.com/status-im/nimbus-eth1/commit/ec7895a1697c79e78f03f01965d166935307ef58) - 2025-07-05
+* [Commit] [Fix updateBase scheduler](https://github.com/status-im/nimbus-eth1/commit/591ce40753fd3cfd04c1b2036a1a8ec7bcbd15f7) - 2025-07-07
+* [Commit] [queueUpdateBase tuning](https://github.com/status-im/nimbus-eth1/commit/2aea345dade431188dedd0c8b58c99d3fd3d71b7) - 2025-07-07
+* [Commit] [fix tests](https://github.com/status-im/nimbus-eth1/commit/ad23596723561143fae4ffc204a18a7b6f865dfc) - 2025-07-07
+* [Commit] [Remove persistBatchQueue and keep persistBatchSize](https://github.com/status-im/nimbus-eth1/commit/39ef28a3179a8bf2edf5b1a5b2132a2ddc542edf) - 2025-07-07
+* [Pull Request] [Restore conditional setupRpcAdmin activation](https://github.com/status-im/nimbus-eth1/pull/3456) - 2025-07-07
+* [Pull Request] [Schedule `updateBase` to asynchronous worker.](https://github.com/status-im/nimbus-eth1/pull/3455) - 2025-07-07
+* [Commit] [Schedule orphan block processing to the async worker (#3453)](https://github.com/status-im/nimbus-eth1/commit/b3d3f91216b68a60095bbc04b8ea8c24ce09eee5) - 2025-07-07
+* [Commit] [Simplify FC node coloring/updateFinalized (#3452)](https://github.com/status-im/nimbus-eth1/commit/49c907cbe9ceb8493b04555fc25f0ae7dd195797) - 2025-07-07
+* [Commit] [existedBlock to existingBlock](https://github.com/status-im/nimbus-eth1/commit/143c77dcd185f45352188fae2d96fb84fa5583b2) - 2025-07-07
+* [Pull Request] [Schedule orphan block processing to the async worker](https://github.com/status-im/nimbus-eth1/pull/3453) - 2025-07-07
+* [Commit] [update processQueue](https://github.com/status-im/nimbus-eth1/commit/9aa73637f1c014b4ba93a9de631b44504cf0bdd2) - 2025-07-07
+* [Pull Request] [Simplify FC node coloring/updateFinalized](https://github.com/status-im/nimbus-eth1/pull/3452) - 2025-07-07
+* [Commit] [Optimize updateFinalized](https://github.com/status-im/nimbus-eth1/commit/7df166f854c4ceec0b382a00384de7094eb91eaa) - 2025-07-07
+* [Commit] [Simplify FC node coloring](https://github.com/status-im/nimbus-eth1/commit/a85e9c2fafca3a018ec7456a928e51adcc3ea530) - 2025-07-07
+* [Commit] [Stateless: Make collection of witness keys in ledger configurable at runtime (#3448)](https://github.com/status-im/nimbus-eth1/commit/379b4ff72f17616f36a61df92a602b89580fb39d) - 2025-07-07
 ## Q2 2025
 
 

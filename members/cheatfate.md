@@ -14,6 +14,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Add soft timeouts to VC, after which VC will use any successful response as the best one.](https://github.com/status-im/nimbus-eth2/pull/7276) - 2025-07-01
 * [Pull Request] [Fix sync requests should be returned to SyncQueue as failed on failure.](https://github.com/status-im/nimbus-eth2/pull/7275) - 2025-07-01
+* [Commit] [Address review comments.](https://github.com/status-im/nimbus-eth2/commit/5b80656dc87f0cbfb6cd00939b0af145cb499509) - 2025-07-07
+* [Commit] [Update copyright year.](https://github.com/status-im/nimbus-eth2/commit/c439d5a578dbf9afede5c7e33d8fdde270ba20c2) - 2025-07-07
+* [Commit] [Update AllTests.](https://github.com/status-im/nimbus-eth2/commit/c2c6e561204b5a5dcaf69b96ae2ffa874489cf16) - 2025-07-07
+* [Commit] [Bump urllib3 from 2.2.3 to 2.5.0 in /docs (#7277)](https://github.com/status-im/nimbus-eth2/commit/822364338af513b17e9a428e638b61b12afd774d) - 2025-07-07
+* [Commit] [Fix VC test.](https://github.com/status-im/nimbus-eth2/commit/b89d03ac3a172285a8ffa46761525d6038cc850f) - 2025-07-07
 ## Q2 2025
 
 

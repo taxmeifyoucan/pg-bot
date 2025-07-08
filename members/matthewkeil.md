@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q3 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Issue] [Peer selection issue in ByRange requests](https://github.com/ChainSafe/lodestar/issues/8039) - 2025-07-07
 ## Q2 2025
 
 

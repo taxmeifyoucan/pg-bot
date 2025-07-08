@@ -15,6 +15,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Issue] [Add E2E Test Infrastructure for RPC Methods](https://github.com/paradigmxyz/reth/issues/17197) - 2025-07-03
 * [Commit] [avoid calculating hash when blocks are consecutive after bloom filter](https://github.com/paradigmxyz/reth/commit/dd4db50ee714ba6a45a1d018797969a29ea65766) - 2025-07-03
 * [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/17219) - 2025-07-04
+* [Pull Request] [feat(test): add apply_with_import method to e2e Setup](https://github.com/paradigmxyz/reth/pull/17263) - 2025-07-07
+* [Pull Request] [feat(test): spin up e2e test nodes with imported data](https://github.com/paradigmxyz/reth/pull/17261) - 2025-07-07
+* [Pull Request] [feat(test): allow to create testing nodes with specific datadir](https://github.com/paradigmxyz/reth/pull/17260) - 2025-07-07
+* [Pull Request] [refactor: extract import functionality to separate module](https://github.com/paradigmxyz/reth/pull/17253) - 2025-07-07
+* [Commit] [refactor: extract import functionality to separate module](https://github.com/paradigmxyz/reth/commit/1e96d790d7f7a0267b1e69166b5a39c8daece1e1) - 2025-07-07
 ## Q2 2025
 
 

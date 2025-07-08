@@ -16,6 +16,14 @@ Team: Erigon
 * [Pull Request] [arb: extract libraries ](https://github.com/erigontech/erigon/pull/15920) - 2025-07-03
 * [Commit] [arbitrum: remove `go.work.sum` (#15908)](https://github.com/erigontech/erigon/commit/c6c0bd50e7adf1b94a2db32791f5f6a90b64f7a6) - 2025-07-03
 * [Commit] [arb: extract libraries  (#15920)](https://github.com/erigontech/erigon/commit/527811aa9917366a779623140b1a1cd292535237) - 2025-07-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/95621071eb954b8967a9c084dddbd0fc79c5c49d) - 2025-07-07
+* [Pull Request] [ChainSpec: all and everything at once](https://github.com/erigontech/erigon/pull/15974) - 2025-07-07
+* [Commit] [`hexutil` add `ToUint256` method (#15970)](https://github.com/erigontech/erigon/commit/732abffafbf3913fb033f5500a45e7e419b0776b) - 2025-07-07
+* [Commit] [`Arb`: dedup `SaturatingUAdd` function (#15971)](https://github.com/erigontech/erigon/commit/e629acb51e848b09975d82192ae74dd87b735711) - 2025-07-07
+* [Pull Request] [`Arb`: dedup `SaturatingUAdd` function](https://github.com/erigontech/erigon/pull/15971) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/096263633d78ff492f5985fa541aa2f65c91e003) - 2025-07-07
+* [Pull Request] [`hexutil` add `ToUint256` method](https://github.com/erigontech/erigon/pull/15970) - 2025-07-07
+* [Pull Request] [`common`: added 2 constants](https://github.com/erigontech/erigon/pull/15967) - 2025-07-07
 ## Q2 2025
 
 

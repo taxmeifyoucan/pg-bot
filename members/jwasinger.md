@@ -16,6 +16,7 @@ Team: Geth
 * [Commit] [eth/catalyst: fix edge case in simulated backend (#31871)](https://github.com/ethereum/go-ethereum/commit/3fb6499fc975eb55a26098d93b7a5154e700ec5b) - 2025-07-02
 
 * [Commit] [params: fix 7934 size limit.](https://github.com/ethereum/go-ethereum/commit/b326264d4b5e1d818d882c7650c36c69fd510053) - 2025-07-03
+* [Pull Request] [all:  introduce `debug_syncTarget`](https://github.com/ethereum/go-ethereum/pull/32159) - 2025-07-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [eip-7928:  don't enclose individual storage reads in a container](https://github.com/ethereum/EIPs/pull/9977) - 2025-07-03
 ## Q2 2025

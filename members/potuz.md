@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Remove broken link from README](https://github.com/ethereum/consensus-specs/pull/4431) - 2025-07-07
 ## Q2 2025
 
 

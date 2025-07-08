@@ -16,6 +16,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [label restructuring](https://github.com/erigontech/erigon/commit/d2e78fb97f158d232879d24310cb3f74e84a6840) - 2025-07-03
 * [Pull Request] [qa_tests: RPC perf tests require long-running](https://github.com/erigontech/erigon/pull/15913) - 2025-07-03
 * [Commit] [qa_tests: save/restore chaindata in Polygon RPC Integration Tests (#15906)](https://github.com/erigontech/erigon/commit/457aa0851bea2f2d29104c42a50f5fe54fe7452f) - 2025-07-03
+* [Commit] [[3.0] integration-CI: Fix regression on failure on execution run_tests script (#15954)](https://github.com/erigontech/erigon/commit/576d04cc1ef297a777b344781409cf05266d6aac) - 2025-07-07
+* [Commit] [[3.0]: rpcdaemon: Remove check on pruning  (#15934)](https://github.com/erigontech/erigon/commit/79b7bfed21f769c3c2c535e9a7eaa4b4feea3097) - 2025-07-07
+* [Pull Request] [qa_tests: fix rpc-tests version in Gnosis RPC Integration Tests](https://github.com/erigontech/erigon/pull/15979) - 2025-07-07
+* [Pull Request] [[DO NOT MERGE] qa_tests: one-liner for RPC Integration Tests](https://github.com/erigontech/erigon/pull/15978) - 2025-07-07
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

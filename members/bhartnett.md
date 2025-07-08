@@ -20,6 +20,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Fix tests.](https://github.com/status-im/nimbus-eth1/commit/5b92048c4622ec473ebe313e63c2b9e4bd9d0850) - 2025-07-05
 * [Commit] [Update execution_chain/common/common.nim](https://github.com/status-im/nimbus-eth1/commit/16a8165c38001354d73cda74c9989a209f3317b3) - 2025-07-05
 * [Commit] [Stateless: Make collection of witness keys in ledger configurable at runtime (#3448)](https://github.com/status-im/nimbus-eth1/commit/379b4ff72f17616f36a61df92a602b89580fb39d) - 2025-07-06
+* [Commit] [Add functions to persist and get witness by block hash.](https://github.com/status-im/nimbus-eth1/commit/82054d089f77d4a1d21931df05495c15812be3e5) - 2025-07-07
+* [Commit] [Clear witness keys in ledger after processing each block.](https://github.com/status-im/nimbus-eth1/commit/59af02ef36e7f74c9f2953519beb3268b669e48b) - 2025-07-07
+* [Commit] [Revert "defer gc during block processing (#3384)" (#3445)](https://github.com/status-im/nimbus-eth1/commit/2f02b67971b96f03cef7b4a637e58d60fe7059ab) - 2025-07-07
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

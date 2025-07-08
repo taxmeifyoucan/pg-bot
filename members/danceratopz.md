@@ -36,6 +36,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [chore(fill): don't write to `./logs.` resp. enable `--evm-dump-dir` by default](https://github.com/ethereum/execution-spec-tests/issues/1860) - 2025-07-04
 * [Commit] [refactor(fill): extract helper methods in FillCommand](https://github.com/ethereum/execution-spec-tests/commit/64a4e233ec16d5e8e1e4e69b460c2cd96a457490) - 2025-07-04
 * [Commit] [Deployed 0fe4295f18 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/79517b3f2ddef5806d67222583517dbac5849aa2) - 2025-07-06
+* [Commit] [Deployed 99720a42c0e to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8f3c20d7067863cb651a772c2cd1be557ae2956e) - 2025-07-07
+* [Commit] [docs: add getting started guide for EEST opcode minilang (#1818)](https://github.com/ethereum/execution-spec-tests/commit/99720a42c0ecfffbe35d7c2f8880548e0e250d45) - 2025-07-07
+* [Commit] [Deployed e88a2113f6 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/5d32a530a19938452d67234a53045ca78994eab9) - 2025-07-07
+* [Commit] [Deployed f62890fe35 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/83b8b42f80a60778d3638f4a848858f804e25948) - 2025-07-07
+* [Commit] [refactor(fill,deps): forbid yul code in python tests; remove `solc-select` dependency](https://github.com/ethereum/execution-spec-tests/commit/f62890fe35e2da4b36d8586522567f4d28227813) - 2025-07-07
 ## Q2 2025
 
 

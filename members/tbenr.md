@@ -8,6 +8,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 ## Contributions
 
+## Q3 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Issue] [Sync stalls](https://github.com/Consensys/teku/issues/9635) - 2025-07-07
+* [Issue] [Sync error - `Unexpected rejected execution due to full task queue in storage_query-async`](https://github.com/Consensys/teku/issues/9634) - 2025-07-07
+* [Issue] [Sync error `Block slot not in range`](https://github.com/Consensys/teku/issues/9633) - 2025-07-07
 ## Q2 2025
 
 

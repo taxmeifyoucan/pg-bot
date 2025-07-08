@@ -30,6 +30,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/stagedsync: add debug timing logs to exec prune steps](https://github.com/erigontech/erigon/commit/9c481f1cdaa24d3c254c8ba41c12db4c9f59a81f) - 2025-07-04
 * [Pull Request] [execution/stagedsync: add debug timing logs to exec prune steps](https://github.com/erigontech/erigon/pull/15937) - 2025-07-04
 * [Commit] [move comment](https://github.com/erigontech/erigon/commit/5ac6135ae9dddbe16b89d2d84602294a7f48654e) - 2025-07-04
+* [Commit] [core/vm: tripple modexp general price](https://github.com/erigontech/erigon/commit/2ae88181a93f86827560b0ff2d84366fd2cbd624) - 2025-07-07
+* [Commit] [ jsonrpc: implement eth_config  (#15948)](https://github.com/erigontech/erigon/commit/bd566f2d32e8a6f0bed69ebd32fa1fafca7aa7bb) - 2025-07-07
+* [Commit] [execution/stagedsync: add debug timing logs to exec prune steps (#15937)](https://github.com/erigontech/erigon/commit/ec01fb13cd4e878f4fa22d23b79f029ec6a76039) - 2025-07-07
+* [Issue] [TestSetupGenesis is flaky due to state salt being 0 bytes](https://github.com/erigontech/erigon/issues/15976) - 2025-07-07
 ## Q2 2025
 
 

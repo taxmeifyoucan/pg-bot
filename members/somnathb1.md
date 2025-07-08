@@ -21,6 +21,7 @@ Team: Erigon
 * [Commit] [Fix err](https://github.com/erigontech/erigon/commit/2438507fe13ba0be8dc960ea7b3ac7ee559ebdfc) - 2025-07-05
 * [Pull Request] [ jsonrpc: implement eth_config ](https://github.com/erigontech/erigon/pull/15948) - 2025-07-05
 * [Commit] [jsonrpc: implement `eth_config`](https://github.com/erigontech/erigon/commit/c9aac89a4ef7f5b822269459113dbd2101215545) - 2025-07-05
+* [Commit] [Use Unix time](https://github.com/erigontech/erigon/commit/67405d4dbcd022b5634f780b8c4ecd6e8c0a6106) - 2025-07-07
 ## Q2 2025
 
 

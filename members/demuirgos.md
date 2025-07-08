@@ -8,6 +8,11 @@ Team: Nethermind
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [extract executionRequests from receipts](https://github.com/NethermindEth/nethermind/commit/566246d734255090c07d838d7c9588d048730ac6) - 2025-07-07
 ## Q2 2025
 
 

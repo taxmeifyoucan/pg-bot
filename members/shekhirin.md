@@ -61,6 +61,32 @@ Team: Reth
 * [Commit] [feat: allow untracked files in git working directory](https://github.com/paradigmxyz/reth/commit/cc40b31580b8ba515f5f00f53dd9c126fe369164) - 2025-07-04
 * [Commit] [docs: simplify reth-bench-compare README](https://github.com/paradigmxyz/reth/commit/ab0f155b37521d7b9f0b8b208dc557bb599c000e) - 2025-07-04
 * [Commit] [fix: restore new_payload_only.rs to main branch version](https://github.com/paradigmxyz/reth/commit/7c5285fb7d1820b67067ca9ce184746d35914491) - 2025-07-04
+* [Commit] [clarify the comment](https://github.com/paradigmxyz/reth/commit/10bb5f890f38f6e14d1ec2d9c523b42fb43e1de3) - 2025-07-07
+* [Commit] [handle absent leaf values](https://github.com/paradigmxyz/reth/commit/5478533cd0243d48a56733114e9aa6bbc0f7a84c) - 2025-07-07
+* [Commit] [also add leaf nodes](https://github.com/paradigmxyz/reth/commit/223f6a08e88cd5c2200057cb76514829a9b364e0) - 2025-07-07
+* [Commit] [also add leaf nodes](https://github.com/paradigmxyz/reth/commit/e7d21f073064357d7c7a649d28b3ef2048a363fe) - 2025-07-07
+* [Commit] [refactor: extract import functionality to separate module (#17253)](https://github.com/paradigmxyz/reth/commit/e70f6871b8447e2f0931ec0d919259eaebf4d7c8) - 2025-07-07
+* [Pull Request] [fix(trie): add lower subtrie root paths to upper subtrie prefix set](https://github.com/paradigmxyz/reth/pull/17262) - 2025-07-07
+* [Commit] [fix(trie): add lower subtrie root nodes to upper subtrie prefix set](https://github.com/paradigmxyz/reth/commit/2614c5a36bdd3183e3aa0ac276a96fc2952342af) - 2025-07-07
+* [Commit] [use ctx more](https://github.com/paradigmxyz/reth/commit/d77dd02dd4eb98c28d9b46c115b8c97448baad42) - 2025-07-07
+* [Commit] [perf(trie): implement remove_leaf for ParallelSparseTrie (#17035)](https://github.com/paradigmxyz/reth/commit/cfdd173afc6c05b280f0dd6aa3449be59d572849) - 2025-07-07
+* [Commit] [use ctx more](https://github.com/paradigmxyz/reth/commit/c0815a8d15eef530315178e8744883b5d3cd5666) - 2025-07-07
+* [Commit] [use alloc::borrow](https://github.com/paradigmxyz/reth/commit/4d1eb320e4eec4d552a905711f8e17c09aca8f2a) - 2025-07-07
+* [Commit] [use alloc::borrow](https://github.com/paradigmxyz/reth/commit/490cf84cf587b9b199704352b8410cbe6f2eda16) - 2025-07-07
+* [Commit] [use alloc::borrow](https://github.com/paradigmxyz/reth/commit/dfc8036842044f9344d26110252165a7b086d11c) - 2025-07-07
+* [Pull Request] [test(trie): add sparse trie tests to parallel sparse trie](https://github.com/paradigmxyz/reth/pull/17258) - 2025-07-07
+* [Commit] [fix(trie): `ParallelSparseTrie::default` should have an empty root node (#17256)](https://github.com/paradigmxyz/reth/commit/a64dafdb5491125a9db89b62e1a02fa6d7a456e9) - 2025-07-07
+* [Pull Request] [fix(trie): `ParallelSparseTrie::default` should have an empty root node](https://github.com/paradigmxyz/reth/pull/17256) - 2025-07-07
+* [Commit] [feat: add comprehensive test suite for ParallelSparseTrie](https://github.com/paradigmxyz/reth/commit/0550ffc5901b1fc91af041781e45783eb6e8a89e) - 2025-07-07
+* [Commit] [chore: bump inspectors (#17198)](https://github.com/paradigmxyz/reth/commit/d949061fc02390ee28ae098de5e915e12968f60a) - 2025-07-07
+* [Commit] [refactor: use Alloy for RPC calls and improve syncing check](https://github.com/paradigmxyz/reth/commit/59935571ec7e552dfeebbf2ffafbb4422451bfc5) - 2025-07-07
+* [Commit] [refactor: use Alloy for RPC calls and improve syncing check](https://github.com/paradigmxyz/reth/commit/214cb241491e3b530ae1452b3d8b854f0d9ce296) - 2025-07-07
+* [Commit] [feat: check eth_syncing when waiting for node readiness](https://github.com/paradigmxyz/reth/commit/6198d20baea487de4c3b0b8924a268a0a5911db6) - 2025-07-07
+* [Commit] [feat: show samply server output when debug logging is enabled](https://github.com/paradigmxyz/reth/commit/9dbb6619d1e2505be5f4a247549bd5e1c6856e80) - 2025-07-07
+* [Commit] [refactor: simplify switch_ref by moving common checkout logic outside conditionals](https://github.com/paradigmxyz/reth/commit/824834977950fd6adc10ef3309ba2e68c4e08f15) - 2025-07-07
+* [Commit] [Revert "feat: update fetch_all to pull latest changes for local branches"](https://github.com/paradigmxyz/reth/commit/68bfc56e2ed50495579f356f303c3c6c4d3d3954) - 2025-07-07
+* [Commit] [feat: update fetch_all to pull latest changes for local branches](https://github.com/paradigmxyz/reth/commit/995685cc1fe536decc7bd98a475d583ca91ff9d9) - 2025-07-07
+* [Commit] [fetch git before initializing compilation manager](https://github.com/paradigmxyz/reth/commit/ac2761fa16da13222c60da327003879f3c201254) - 2025-07-07
 ## Q2 2025
 
 

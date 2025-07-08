@@ -8,6 +8,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [convert create suicide store test](https://github.com/ethereum/execution-spec-tests/pull/1867) - 2025-07-07
 ## Q2 2025
 
 

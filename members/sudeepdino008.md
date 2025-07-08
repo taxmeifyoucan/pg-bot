@@ -27,6 +27,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b3d7f12743620d6791e38e19d8bae496428a82c2) - 2025-07-04
 * [Commit] [refactor](https://github.com/erigontech/erigon/commit/a04e620548b5a7f9ea4928464d27777117336081) - 2025-07-04
 * [Commit] [sure](https://github.com/erigontech/erigon/commit/998d6a975c5c5aa8b99f3679ceb2fcc0d98aca00) - 2025-07-04
+* [Commit] [[r30] derive bloom for cached receipt (#15936)](https://github.com/erigontech/erigon/commit/965701cd147ab6271e41b9fe1755589683d7f166) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/081e6a6ba52be63f99275b735ff93eae80bac9c2) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9d2b92b684012a8e096fd0ed3da1d236965b3e86) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4ef8c8487648f150e03af1b79e48f2916a0d7b28) - 2025-07-07
+* [Commit] [fix](https://github.com/erigontech/erigon/commit/ec416f757e91d0f85b17b0f32b2fe6174c5a16ad) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/26895c4d6df421e1ef1409dd9fc8fa7f91796bb1) - 2025-07-07
+* [Pull Request] [rcache integrity](https://github.com/erigontech/erigon/pull/15964) - 2025-07-07
 ## Q2 2025
 
 

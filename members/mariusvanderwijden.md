@@ -13,6 +13,12 @@ Team: Geth
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7951: update gas costs for R1 verification](https://github.com/ethereum/EIPs/pull/9978) - 2025-07-03
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Commit] [core/vm: triple modexp cost post-cancun](https://github.com/ethereum/go-ethereum/commit/e2cea89dc47fef42d4d63ecb09b5abe1f26b482e) - 2025-07-07
+* [Commit] [core/txpool/blobpool: lower log level for warnings (#32142)](https://github.com/ethereum/go-ethereum/commit/f0741e6dfef63a7c1344ae45c993b57f2af037a3) - 2025-07-07
+* [Issue] [Flakey test: TestDeploymentWithOverrides](https://github.com/ethereum/go-ethereum/issues/32158) - 2025-07-07
+* [Commit] [core/vm: move nil-check out of the interpreter loop (#32068)](https://github.com/ethereum/go-ethereum/commit/bdf47f4557bb39b35ac274d341bbf317dc8d858c) - 2025-07-07
 ## Q2 2025
 
 

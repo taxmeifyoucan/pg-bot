@@ -8,6 +8,12 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [fix(tests): fixes EXTCODECOPY bench test](https://github.com/ethereum/execution-spec-tests/pull/1865) - 2025-07-07
+* [Pull Request] [feat(tests): add EIP-7907 big-code-size payment evasion benchmark test](https://github.com/ethereum/execution-spec-tests/pull/1864) - 2025-07-07
 ## Q2 2025
 
 

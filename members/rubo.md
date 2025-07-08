@@ -18,6 +18,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Replace eth_pairings with mcl](https://github.com/NethermindEth/nethermind/commit/7e975be7247eeedf25ff5e4c29f06c2e02ef4216) - 2025-07-05
 * [Commit] [Replace eth_pairings with mcl](https://github.com/NethermindEth/nethermind/commit/36d375ce78062be788c35bd0d2a6a44b1560561c) - 2025-07-05
 * [Commit] [Replace eth_pairings with mcl](https://github.com/NethermindEth/nethermind/commit/27377e7a7f14d1681b808769868de64a564c7e19) - 2025-07-06
+* [Commit] [Replace eth_pairings with mcl](https://github.com/NethermindEth/nethermind/commit/e4f8e1ea5ca065692a7ba975bb119313bf61d7ec) - 2025-07-07
 ## Q2 2025
 
 

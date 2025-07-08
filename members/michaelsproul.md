@@ -14,6 +14,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Commit] [Fix beacon_chain metrics descriptions (#6576)](https://github.com/sigp/lighthouse/commit/2d759f78be6ce4432d20e802d7e8c3bead82ade8) - 2025-07-01
 * [Commit] [Custody persist fix (#7661)](https://github.com/sigp/lighthouse/commit/e305cb1b921f544dfd05f769aeb7e37cd482933f) - 2025-07-03
+* [Issue] [Try dropping expired messages from the reprocess](https://github.com/sigp/lighthouse/issues/7710) - 2025-07-07
+* [Pull Request] [Update LH book for v7.1.0](https://github.com/sigp/lighthouse/pull/7706) - 2025-07-07
+* [Pull Request] [Refine delayed head block logging](https://github.com/sigp/lighthouse/pull/7705) - 2025-07-07
 ## Q2 2025
 
 

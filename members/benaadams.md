@@ -30,6 +30,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add number cache](https://github.com/NethermindEth/nethermind/commit/f5a9a286ed28d85a8cb607fb898d631d0f84de39) - 2025-07-06
 * [Commit] [Maximise header caching](https://github.com/NethermindEth/nethermind/commit/ff97c2d088e691f4ac511ad4103235330873c158) - 2025-07-06
 * [Commit] [Cleanup/reduce use of specific simulate pattern (#8921)](https://github.com/NethermindEth/nethermind/commit/5e69d14fe033146fa5fbffebda32bdef84e54e98) - 2025-07-06
+* [Commit] [Revert "Use reference equals in clock cache (#8947)"](https://github.com/NethermindEth/nethermind/commit/c0289c61760118849abf1c34bc0d58d53f113e2d) - 2025-07-07
+* [Pull Request] [Update tx gas cap for devnet3](https://github.com/NethermindEth/nethermind/pull/8954) - 2025-07-07
+* [Pull Request] [Update CLZ gas cost for devnet3](https://github.com/NethermindEth/nethermind/pull/8953) - 2025-07-07
+* [Commit] [Account for large contracts as tx entry point](https://github.com/NethermindEth/nethermind/commit/19dfdb0f9923054af9e32f3755d487245d1c1568) - 2025-07-07
+* [Commit] [Refactor/deduplicate engine rpc (#8919)](https://github.com/NethermindEth/nethermind/commit/d6a7203bccca767235c89ce968e5ff7884ce0a2b) - 2025-07-07
+* [Commit] [Use reference equals in clock cache (#8947)](https://github.com/NethermindEth/nethermind/commit/d57ec78a07a7d86dcac3f86b76ed28c6a1725f13) - 2025-07-07
+* [Commit] [Use reference equals in clock cache (#8947)](https://github.com/NethermindEth/nethermind/commit/e772fe471da5ef2bb3639adf992a5c14f30d1ff0) - 2025-07-07
+* [Pull Request] [Eip7907 devnet3](https://github.com/NethermindEth/nethermind/pull/8952) - 2025-07-07
+* [Issue] [EIP-7907: Devnet 3 changes](https://github.com/NethermindEth/nethermind/issues/8949) - 2025-07-07
+* [Pull Request] [Use reference equals in clock cache](https://github.com/NethermindEth/nethermind/pull/8947) - 2025-07-07
 ## Q2 2025
 
 

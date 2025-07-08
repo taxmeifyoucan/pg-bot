@@ -15,6 +15,32 @@ Team: Erigon
 * [Commit] [Cherry-pick: E3: History expiry was not working (#15836) (#15854)](https://github.com/erigontech/erigon/commit/576cbef8ef5c948cddb869189d82f0e81183f22f) - 2025-07-01
 * [Issue] [historical `eth_getProof` fails on some requests on hoodi](https://github.com/erigontech/erigon/issues/15924) - 2025-07-03
 * [Pull Request] [Caplin: Implement peerdas's blob backfilling for archive blob nodes](https://github.com/erigontech/erigon/pull/15956) - 2025-07-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/625d9d87e2933495b0bb378bf55305ff53d879e0) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8d387aed7dce19ef9a422d23243c3b6b52832ea8) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/09790cd406ce4e985ee554c9feea3c0e044f5c7d) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/74593be4b9ece309b71e49d047eba0bf35a5ac51) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5338fe5f8d1195982a02c38ee6df4420363fdcb3) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b030800f89473e6fea558410e5edbc574a2f1d45) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7292070d205b6203572ae2d9581c84801a6a8c59) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8b4d16e27f5c41d1051b9e098b9ba6f865176026) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/14c24fc4385852813a3e790a10fed76d9c809bac) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/929b428b45dec00c4d87e978f49a13bda0573e81) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2dfb747f84ea6707b6a7171a665dc937e8af7fb8) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/24e8b904099eb43335345a6b6997a5528a907514) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/934dc93d3e50420201f1b37216dda7f0feea4e54) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/94a8e28e007493d98c62b191246ccc7488c425e5) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/506c0d5b0f1781a5a751bdc6ec5c5499a2e18918) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b02628bd43c34b92c289d1ced7814fcbec920d2d) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1b2fdd1a66f70acc81896902b21c68de50c5f05f) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8fc49e9e90871554e94870137ee0719a131ac50e) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bf0741e5cf5bd6c2c88b07053508e9b73dd109ff) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3b5f603251809a48322c04443db5c27ea93e13a4) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f68e6df57abf12c2fc1673ed8bedd8559d5a9edc) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/08d06fcf81df69b52d2dae7490c3b9c3429fd866) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c672a242c00321b596980af2318558ebb2bdd5a1) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/04e263d874f0d5f31b84c013d46b85812548fd51) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d32973cb7b923ca5f9f76a95c5bf502430b50725) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ef0e33d9aac053c799e54555547085bd5e96bc7d) - 2025-07-07
 ## Q2 2025
 
 

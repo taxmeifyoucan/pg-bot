@@ -47,6 +47,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix/Aura hive test](https://github.com/NethermindEth/nethermind/pull/8932) - 2025-07-04
 * [Commit] [Add the modifier in test](https://github.com/NethermindEth/nethermind/commit/ee98cfcb9b7c4f12ae3eb4d966fbb113e8ed075c) - 2025-07-04
 * [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/55853c3d489ec33fa51b6807edbb11fe2d27fbee) - 2025-07-04
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/ced19c9cc02e7064a49b430036b598be319e0bad) - 2025-07-07
+* [Pull Request] [Refactor/Move aura block processor to DI.](https://github.com/NethermindEth/nethermind/pull/8950) - 2025-07-07
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/2430c2d9aed92e85cea247953a2a2b77e22435d1) - 2025-07-07
+* [Commit] [Ensure exception in block downloader is caught (#8931)](https://github.com/NethermindEth/nethermind/commit/55f7950321d4bd7db7076d050d0a7837edc4cc58) - 2025-07-07
+* [Commit] [Feature/convert simulate to di (#8923)](https://github.com/NethermindEth/nethermind/commit/23d1929ce945d5f7ed7236d1e65af4cae30b5880) - 2025-07-07
+* [Commit] [Feature/Address state by block header (#8911)](https://github.com/NethermindEth/nethermind/commit/f5e6c9cd4e60178f225071f0aaa453623e163b7f) - 2025-07-07
+* [Commit] [Remove a comment](https://github.com/NethermindEth/nethermind/commit/1f7b49ab6aa4e7afe09c6ce8d3f2582a281fe0b9) - 2025-07-07
+* [Commit] [Reintroduce ThreadBoost for main Processing thread (#8926)](https://github.com/NethermindEth/nethermind/commit/2726fcc72458ed2931904a56501aa123e4b4e0b1) - 2025-07-07
+* [Commit] [Shareable tx processing source (#8920)](https://github.com/NethermindEth/nethermind/commit/ee0ef8af97f6669e0b8d710475e8d59c0ccdf216) - 2025-07-07
+* [Pull Request] [Refactor/rename to add instance](https://github.com/NethermindEth/nethermind/pull/8946) - 2025-07-07
 ## Q2 2025
 
 

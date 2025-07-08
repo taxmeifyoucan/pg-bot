@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [add 3x pricing](https://github.com/NethermindEth/nethermind/commit/4dc7e5b9f738d498e4608e8b33028064e8544cfd) - 2025-07-07
 ## Q2 2025
 
 

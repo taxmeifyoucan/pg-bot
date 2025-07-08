@@ -13,6 +13,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix verify_artifacts step in Draft Release github process](https://github.com/hyperledger/besu/pull/8907) - 2025-07-03
+* [Pull Request] [Triple the general price of ModExp to reflect the last change in EIP-7883](https://github.com/hyperledger/besu/pull/8922) - 2025-07-07
+* [Commit] [Triple the general price to reflect the last change in EIP-7883](https://github.com/hyperledger/besu/commit/2026f87a39fad69f297df78a93ee7e801e7c5a1f) - 2025-07-07
+* [Pull Request] [Make precompile benchmarks more accurate](https://github.com/hyperledger/besu/pull/8921) - 2025-07-07
 ## Q2 2025
 
 

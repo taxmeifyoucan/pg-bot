@@ -23,6 +23,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [PeerDAS: rate limit when syncing](https://github.com/ChainSafe/lodestar/issues/8033) - 2025-07-04
 * [Commit] [chore: log downloading batch](https://github.com/ChainSafe/lodestar/commit/092bb09003290bea2d17c3634c65960e092bd5a6) - 2025-07-04
 * [Pull Request] [fix: only process chain segment with a success downloaded batch](https://github.com/ChainSafe/lodestar/pull/8032) - 2025-07-04
+* [Pull Request] [fix: increase MAX_BATCH_PROCESSING_ATTEMPTS](https://github.com/ChainSafe/lodestar/pull/8037) - 2025-07-07
+* [Issue] [PeerDAS - beacon node requests downloaded columns in range sync](https://github.com/ChainSafe/lodestar/issues/8036) - 2025-07-07
 ## Q2 2025
 
 

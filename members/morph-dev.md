@@ -25,6 +25,7 @@ Team: Portal Network (EF)
 * [Commit] [fix: typo in README (#1881)](https://github.com/ethereum/trin/commit/c3cfe96e5462d349e9d1bfe37a3f696771bff465) - 2025-07-05
 * [Commit] [feat: add new history network types (#1884)](https://github.com/ethereum/trin/commit/bc14ab0718623b9471c8769f6e74f78d9f2afd8a) - 2025-07-05
 * [Pull Request] [feat: add new history network types](https://github.com/ethereum/trin/pull/1884) - 2025-07-05
+* [Commit] [chore(deps): weekly `cargo update` (#1885)](https://github.com/ethereum/trin/commit/ba9a7f0358101bdcba7198f23c7d83f750c80b8b) - 2025-07-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add "Prototyping" working group](https://github.com/protocolguild/documentation/pull/363) - 2025-07-02
 ## Q2 2025
