@@ -15,6 +15,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Make workflows agnostic to default branch name](https://github.com/ethereum/execution-specs/commit/56146861a576095d2aff40d389094782f0746b07) - 2025-07-03
 * [Pull Request] [Make workflows agnostic to default branch name](https://github.com/ethereum/execution-specs/pull/1302) - 2025-07-03
 * [Commit] [Refactor transaction validation to use MAX_INIT_CODE_SIZE instead of MAX_CODE_SIZE across multiple modules](https://github.com/ethereum/execution-specs/commit/1fb3704da97f78654e5987868840c5683679f31e) - 2025-07-03
+* [Issue] [Forward-port commits from `master` to `forks/osaka`](https://github.com/ethereum/execution-specs/issues/1311) - 2025-07-08
 ## Q2 2025
 
 

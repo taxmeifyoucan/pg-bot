@@ -25,6 +25,10 @@ Team: Erigon
 * [Commit] [post merge fixes](https://github.com/erigontech/erigon/commit/6684ed7ecd908b2a6672c75100b3a427c03da3b4) - 2025-07-07
 * [Commit] [fix concurrency groups (CG) for workflow jobs (#15723)](https://github.com/erigontech/erigon/commit/2ebd1c38b07bc491774d0f5cb28d7338423aa3aa) - 2025-07-07
 * [Pull Request] [Add versioning check for recovery](https://github.com/erigontech/erigon/pull/15968) - 2025-07-07
+* [Commit] [Misc async testing refactors (#15977)](https://github.com/erigontech/erigon/commit/c3c2f384ed0bfa027af3bb051c268a01b3b8e313) - 2025-07-08
+* [Commit] [Add bor init to txpool configuration (#15941)](https://github.com/erigontech/erigon/commit/992007f88f4ac9af7f390638fbf07c39764db2d4) - 2025-07-08
+* [Commit] [Add versioning check for recovery (#15968)](https://github.com/erigontech/erigon/commit/b810e9847cbe04400824e22db6efaa10c69f5ab2) - 2025-07-08
+* [Commit] [Expose debug mux to downstream components (#15982)](https://github.com/erigontech/erigon/commit/b7ab135e80f629eb945b836a75ab372a3e291d27) - 2025-07-08
 ## Q2 2025
 
 

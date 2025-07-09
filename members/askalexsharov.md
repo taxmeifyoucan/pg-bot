@@ -191,6 +191,16 @@ Team: Erigon
 * [Issue] [bor-mainnet staging fix cumGasUsed field](https://github.com/erigontech/erigon/issues/15963) - 2025-07-07
 * [Issue] [re-gen 3.1 files](https://github.com/erigontech/erigon/issues/15962) - 2025-07-07
 * [Issue] [bor-mainnet staging fix store history file](https://github.com/erigontech/erigon/issues/15961) - 2025-07-07
+* [Commit] [Optimised snapshot read operations for BorEvents (#15993)](https://github.com/erigontech/erigon/commit/fd074bab1b9fe3b0b9f840fa1854cef0a52b8545) - 2025-07-08
+* [Commit] [Pull finishing webseed tweaks from anacrolix/torrent (#15896)](https://github.com/erigontech/erigon/commit/f3d058f522e5fad77dcb643f7c398a86706d9ff6) - 2025-07-08
+* [Commit] [recsplit: internal existence filter based on `fuse_filter`. only `.efi` and `.kvi` files (#15960)](https://github.com/erigontech/erigon/commit/ffa51b478df58056e3234288bb0000339e7bda83) - 2025-07-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fac43bb209b412fec06cd3544abc614944b432e4) - 2025-07-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4cb4d97f522a61a1904414caf31d7356338ba27e) - 2025-07-08
+* [Pull Request] [block files: 500k merge limit](https://github.com/erigontech/erigon/pull/15984) - 2025-07-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a8d06e10ecf9d51d8fa3376f43f82dc003467fdf) - 2025-07-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aa4dafe170169a9d8d31f97328e139cd064f5ce7) - 2025-07-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ea813048c6401e800ac0ab4bb720be236322be23) - 2025-07-08
+* [Commit] [`common`: added 2 constants (#15967)](https://github.com/erigontech/erigon/commit/090927c5f1f1ead2cdf36725dc32fe372784ebf7) - 2025-07-08
 ## Q2 2025
 
 

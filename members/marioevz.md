@@ -15,6 +15,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(execute): `execute eth-config` command](https://github.com/ethereum/execution-spec-tests/pull/1863) - 2025-07-06
 * [Commit] [feat(benchmark): add coverage for CREATE and CREATE2 (#1847)](https://github.com/ethereum/execution-spec-tests/commit/2a7a6d72aa5b4b0a1dda17ae79d0ae421040e2d5) - 2025-07-06
 * [Commit] [fix(tests): fix invalid log opcode keyword 7702 fails (#1856)](https://github.com/ethereum/execution-spec-tests/commit/0fe4295f1832abeb39f72097bbb177e59598b3b1) - 2025-07-06
+* [Commit] [fix(filler): type fix](https://github.com/ethereum/execution-spec-tests/commit/a1818da681835a13c49314c7910999f484ddd57f) - 2025-07-08
+* [Commit] [fix(consume): fix consume cache's `--cache-folder` flag (#1851)](https://github.com/ethereum/execution-spec-tests/commit/9915a25a2d047cee383bc8d03d61f2ac6d0b96da) - 2025-07-08
 ## Q2 2025
 
 

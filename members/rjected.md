@@ -17,6 +17,9 @@ Team: Reth
 * [Commit] [chore(trie): remove prefix set language from subtrie update_leaf](https://github.com/paradigmxyz/reth/commit/7c6f27501fd43a19505ec9295c1746482a05ed98) - 2025-07-01
 * [Commit] [chore(trie): make debug assert for path check, remove value clone](https://github.com/paradigmxyz/reth/commit/14a4bed24c247948d13d1030bfabf84eafad67b5) - 2025-07-01
 * [Commit] [chore: add expect explaining why ext child must exist](https://github.com/paradigmxyz/reth/commit/a5c7a0bc0ef493fcdc3e9c2f08af0e49836bfec3) - 2025-07-02
+* [Commit] [chore(trie): remove Default bound from SparseTrieInterface](https://github.com/paradigmxyz/reth/commit/46194e49712182db8441a99b484fb46c6cecc12b) - 2025-07-08
+* [Commit] [perf: remove block cloning from `is_descendant` check (#17286)](https://github.com/paradigmxyz/reth/commit/038ddd6614326882236e28f964be2cf83c56a770) - 2025-07-08
+* [Commit] [deps: bump revm patch for modexp price increase](https://github.com/paradigmxyz/reth/commit/29f7aa6fe801afd042ed1e63027796ac86a5650a) - 2025-07-08
 ## Q2 2025
 
 

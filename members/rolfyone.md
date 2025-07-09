@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 
 ## Contributions
 
+## Q3 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Issue] [set default gas limit to 45M gas](https://github.com/Consensys/teku/issues/9636) - 2025-07-08
 ## Q2 2025
 
 

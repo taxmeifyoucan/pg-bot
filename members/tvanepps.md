@@ -20,6 +20,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Update 01-membership.md](https://github.com/protocolguild/documentation/commit/629ea555d977a93a60bb51735709a9f0a14a88ba) - 2025-07-02
 * [Commit] [Update README.md](https://github.com/protocolguild/documentation/commit/c5d8fa9540e524f2479d57f7001f21f451667f89) - 2025-07-02
 * [Commit] [Update index.rst](https://github.com/protocolguild/documentation/commit/7a342e07808be2a7972e2dc3a23c736cbf213688) - 2025-07-02
+* [Pull Request] [Proposal: add Snarkification working group](https://github.com/protocolguild/documentation/pull/372) - 2025-07-08
 ## Q2 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

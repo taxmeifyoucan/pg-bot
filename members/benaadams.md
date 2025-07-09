@@ -40,6 +40,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Eip7907 devnet3](https://github.com/NethermindEth/nethermind/pull/8952) - 2025-07-07
 * [Issue] [EIP-7907: Devnet 3 changes](https://github.com/NethermindEth/nethermind/issues/8949) - 2025-07-07
 * [Pull Request] [Use reference equals in clock cache](https://github.com/NethermindEth/nethermind/pull/8947) - 2025-07-07
+* [Commit] [Early cache](https://github.com/NethermindEth/nethermind/commit/0211e4575e9188bcc7cd8f2077708c16aed1a3df) - 2025-07-08
+* [Commit] [Early cache](https://github.com/NethermindEth/nethermind/commit/167694fd22e5942ea855f115748f225f652c89a4) - 2025-07-08
+* [Commit] [Reduce cache size](https://github.com/NethermindEth/nethermind/commit/86c470fc9ffa02cce42657389937514ce1ee45b6) - 2025-07-08
+* [Commit] [Reduce allocations from cleaning up receipts](https://github.com/NethermindEth/nethermind/commit/94d701d8c5957e601789785860e643bb49ff202a) - 2025-07-08
 ## Q2 2025
 
 

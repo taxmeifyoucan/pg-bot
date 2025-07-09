@@ -33,6 +33,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [fix typo: Rename is_created_globaly to is_created_globally (#2692)](https://github.com/bluealloy/revm/commit/c431f2c3201996c4d86fddabf29ba1fb6debe695) - 2025-07-04
 * [Commit] [test fixtures, and fix few EIP-7907 tests](https://github.com/bluealloy/revm/commit/3184d8b8e9acccc9c4caf6823b32313a415672a1) - 2025-07-05
 * [Commit] [test fixtures, and fix few EIP-7907 tests](https://github.com/bluealloy/revm/commit/26286ee62daf08336dfad3449a5cf7cdb5a580e2) - 2025-07-05
+* [Commit] [chore: use c-kzg precompute value 8 (#2698)](https://github.com/bluealloy/revm/commit/b3cb18118fc03585e6d93d39cc35812829c93687) - 2025-07-08
 ## Q2 2025
 
 

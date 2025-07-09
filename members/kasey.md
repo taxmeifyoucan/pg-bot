@@ -17,6 +17,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [Implement the new Fulu Metadata. (#15440)](https://github.com/OffchainLabs/prysm/commit/bc7664321b477f159ad92559ddfb9de62e95d718) - 2025-07-03
 * [Commit] [potuz' feedback (redundant check) + for range](https://github.com/OffchainLabs/prysm/commit/b51b06bba857013ab7a7bf3f38a5f3b91ac8b2ba) - 2025-07-03
 * [Commit] [potuz' feedback (redundant check) + for range](https://github.com/OffchainLabs/prysm/commit/ba7d971d8da8281e12f5f8eb2e9b07945b655b68) - 2025-07-03
+* [Commit] [more test fixes / support](https://github.com/OffchainLabs/prysm/commit/c282e9d8b8a2bba7cdc29120db57aec94ac02983) - 2025-07-08
+* [Commit] [more test fixes / support](https://github.com/OffchainLabs/prysm/commit/00b6a873d905a988bb626f42019adf3dc316374f) - 2025-07-08
+* [Commit] [more test fixes / support](https://github.com/OffchainLabs/prysm/commit/870f5e735d121e1e6b15c6fcc0f09fd449375def) - 2025-07-08
+* [Commit] [initialize genesis data asap at node start](https://github.com/OffchainLabs/prysm/commit/f8ff79fa74b087147489734f7e1697ad4fb8246f) - 2025-07-08
+* [Commit] [initialize genesis data asap at node start](https://github.com/OffchainLabs/prysm/commit/3956450e13a46243110e9e26f197c0cf4aa29af5) - 2025-07-08
+* [Commit] [initialize genesis data asap at node start](https://github.com/OffchainLabs/prysm/commit/096d5f8863ceda21aacb49ae9ae4caf27bbcb86e) - 2025-07-08
+* [Commit] [initialize genesis data asap at node start](https://github.com/OffchainLabs/prysm/commit/dc76f32a711931a86b65166da5aea42ef6600efe) - 2025-07-08
+* [Commit] [initialize genesis data asap at node start](https://github.com/OffchainLabs/prysm/commit/1e7827c739adf62fa2761e6abee9b21680061b27) - 2025-07-08
 ## Q2 2025
 
 

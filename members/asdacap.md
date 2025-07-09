@@ -57,6 +57,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reintroduce ThreadBoost for main Processing thread (#8926)](https://github.com/NethermindEth/nethermind/commit/2726fcc72458ed2931904a56501aa123e4b4e0b1) - 2025-07-07
 * [Commit] [Shareable tx processing source (#8920)](https://github.com/NethermindEth/nethermind/commit/ee0ef8af97f6669e0b8d710475e8d59c0ccdf216) - 2025-07-07
 * [Pull Request] [Refactor/rename to add instance](https://github.com/NethermindEth/nethermind/pull/8946) - 2025-07-07
+* [Commit] [Update src/Nethermind/Nethermind.Facade/Simulate/SimulateReadOnlyBlocksProcessingEnvFactory.cs](https://github.com/NethermindEth/nethermind/commit/5f7d5c4c4546e9269d41b8077014d0ae6b0e8f2d) - 2025-07-08
+* [Pull Request] [Make simulate env lazy](https://github.com/NethermindEth/nethermind/pull/8957) - 2025-07-08
+* [Commit] [Make simulate env lazy](https://github.com/NethermindEth/nethermind/commit/8b91797b3b30506ac86b4c43d9dae1b61b7808a2) - 2025-07-08
 ## Q2 2025
 
 

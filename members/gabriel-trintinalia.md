@@ -21,6 +21,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Issue] [Increase the modExp gas cost with this PR](https://github.com/hyperledger/besu/issues/8914) - 2025-07-04
 * [Issue] [EIP-7594 Remove maxBlobsPerTx from from BPO and hard a constant limit of 6 blobs/txn](https://github.com/hyperledger/besu/issues/8913) - 2025-07-04
 * [Issue] [EIP-7907 - Devnet 3 changes](https://github.com/hyperledger/besu/issues/8912) - 2025-07-04
+* [Issue] [engine_getBlobsV2 metrics](https://github.com/hyperledger/besu/issues/8927) - 2025-07-08
+* [Pull Request] [chore: update blob base cost](https://github.com/hyperledger/besu/pull/8926) - 2025-07-08
+* [Pull Request] [chore: double P256VERIFY cost](https://github.com/hyperledger/besu/pull/8925) - 2025-07-08
+* [Pull Request] [feat: getBlobsV2 devnet 3 changes](https://github.com/hyperledger/besu/pull/8924) - 2025-07-08
 ## Q2 2025
 
 

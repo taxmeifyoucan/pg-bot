@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 
 ## Contributions
 
+## Q3 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [eth_config prototype (#8417)](https://github.com/hyperledger/besu/commit/4b82d2fce88664be25415190329425fbbf54453b) - 2025-07-08
 ## Q2 2025
 
 

@@ -20,6 +20,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [feat(test): allow to create testing nodes with specific datadir](https://github.com/paradigmxyz/reth/pull/17260) - 2025-07-07
 * [Pull Request] [refactor: extract import functionality to separate module](https://github.com/paradigmxyz/reth/pull/17253) - 2025-07-07
 * [Commit] [refactor: extract import functionality to separate module](https://github.com/paradigmxyz/reth/commit/1e96d790d7f7a0267b1e69166b5a39c8daece1e1) - 2025-07-07
+* [Pull Request] [feat: reorganize e2e tests with dedicated nextest filter and CI workflow](https://github.com/paradigmxyz/reth/pull/17290) - 2025-07-08
+* [Commit] [feat(stateless): simplify `Database` implementation for `WitnessDatabase` (#16820)](https://github.com/paradigmxyz/reth/commit/0b2336ddb626abd94f5caeee305f89f7d972fa5c) - 2025-07-08
+* [Commit] [test_eth_get_logs_compat multi thread](https://github.com/paradigmxyz/reth/commit/8633331ca9f13c4c674ae8bba6220e7a3df5067b) - 2025-07-08
 ## Q2 2025
 
 

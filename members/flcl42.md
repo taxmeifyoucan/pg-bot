@@ -22,6 +22,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Add HeadTxValidator via DI](https://github.com/NethermindEth/nethermind/commit/93a573894197bd29ab19b437265e7ace89fd82f9) - 2025-07-07
 * [Commit] [Fix more](https://github.com/NethermindEth/nethermind/commit/4905832a786744cddb759f364f5deb3842738ae4) - 2025-07-07
 * [Commit] [Validate parenthash is same as given parent (#8840)](https://github.com/NethermindEth/nethermind/commit/7c9190774f86119687246857481e43eec66a4e5c) - 2025-07-07
+* [Commit] [Add eth_config](https://github.com/NethermindEth/nethermind/commit/eed729af3bd2ce556e0a5532be3082876e7c97a1) - 2025-07-08
+* [Pull Request] [Add EIP-7910: Add eth_config](https://github.com/NethermindEth/nethermind/pull/8956) - 2025-07-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

@@ -23,6 +23,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Self rate limiting due to number of concurrent requests for `data_column_sidecars_by_range`](https://github.com/sigp/lighthouse/issues/7704) - 2025-07-05
 * [Issue] [Revisit and improve existing tracing spans](https://github.com/sigp/lighthouse/issues/7709) - 2025-07-07
 * [Pull Request] [Remove unneeded spans that caused debug logs to appear when level is set to `info`](https://github.com/sigp/lighthouse/pull/7707) - 2025-07-07
+* [Pull Request] [Improve data column KZG verification buckets](https://github.com/sigp/lighthouse/pull/7717) - 2025-07-08
+* [Pull Request] [Remove KZG verification from local block production and blobs fetched from the EL](https://github.com/sigp/lighthouse/pull/7713) - 2025-07-08
 ## Q2 2025
 
 

@@ -17,6 +17,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Try dropping expired messages from the reprocess](https://github.com/sigp/lighthouse/issues/7710) - 2025-07-07
 * [Pull Request] [Update LH book for v7.1.0](https://github.com/sigp/lighthouse/pull/7706) - 2025-07-07
 * [Pull Request] [Refine delayed head block logging](https://github.com/sigp/lighthouse/pull/7705) - 2025-07-07
+* [Pull Request] [Fix description of DB read bytes metric](https://github.com/sigp/lighthouse/pull/7716) - 2025-07-08
 ## Q2 2025
 
 

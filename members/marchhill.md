@@ -19,6 +19,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [EIP-7918 Blob Base cost constant change (#8935)](https://github.com/NethermindEth/nethermind/commit/4dc0b0b2516037f962a39e20b571ab9edde0d7bc) - 2025-07-04
 * [Pull Request] [EIP-7918 Blob Base cost constant change](https://github.com/NethermindEth/nethermind/pull/8935) - 2025-07-04
 * [Commit] [don't download old blocks](https://github.com/NethermindEth/nethermind/commit/2535f9c098f6999a8fdf657769c18b382ab87d2e) - 2025-07-04
+* [Commit] [Update src/Nethermind/Nethermind.Consensus/Validators/TxValidator.cs](https://github.com/NethermindEth/nethermind/commit/8b37c5b4c57dbec7d3f666f0a0e822ed89239c2f) - 2025-07-08
+* [Commit] [Reprice EIP-7951 (#8938)](https://github.com/NethermindEth/nethermind/commit/8c7b4cf1fecde121231f27f89f8995b88cab6943) - 2025-07-08
 ## Q2 2025
 
 

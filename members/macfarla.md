@@ -13,6 +13,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Add parallel tx to startup summary](https://github.com/hyperledger/besu/issues/8911) - 2025-07-04
+* [Commit] [fixed incorrect number of log params (#8928)](https://github.com/hyperledger/besu/commit/42c44687df2c16f7e546563e0ce086282709b8b3) - 2025-07-08
+* [Commit] [build: Update custom errorprone checks library (#8923)](https://github.com/hyperledger/besu/commit/457d07480e07b51224e5aa11362c4ac7909a36b1) - 2025-07-08
+* [Pull Request] [[MINOR] fix incorrect number of log params](https://github.com/hyperledger/besu/pull/8928) - 2025-07-08
 ## Q2 2025
 
 

@@ -16,6 +16,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Fix LC versioning bug (#15400)](https://github.com/OffchainLabs/prysm/commit/bddcc158e4551a2d673ce3ebd693f48d78961dc2) - 2025-07-03
 * [Commit] [PeerDAS: Implement reconstruct. (#15454)](https://github.com/OffchainLabs/prysm/commit/b1ac8209b2c7f518726085537c42161027dd5e14) - 2025-07-03
 * [Commit] [PeerDAS: Implement reconstruction of data column sidecars retrieved from the execution client. (#15469)](https://github.com/OffchainLabs/prysm/commit/4be8de2476daf8a4e6d837d8877d410e27c323dc) - 2025-07-07
+* [Commit] [Allow SSZ requests for pending deposits, partial withdrawals and consolidations (#15474)](https://github.com/OffchainLabs/prysm/commit/961ea054543adcf68a84c0c198e9ef2d841a8ee4) - 2025-07-08
+* [Commit] [converted to using an event feed instead of my own channel publishing implementation, adding relevant logs](https://github.com/OffchainLabs/prysm/commit/cfb8a00621cd930b6544e2ebfef2013d04e1c505) - 2025-07-08
 ## Q2 2025
 
 

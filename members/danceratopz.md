@@ -41,6 +41,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed e88a2113f6 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/5d32a530a19938452d67234a53045ca78994eab9) - 2025-07-07
 * [Commit] [Deployed f62890fe35 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/83b8b42f80a60778d3638f4a848858f804e25948) - 2025-07-07
 * [Commit] [refactor(fill,deps): forbid yul code in python tests; remove `solc-select` dependency](https://github.com/ethereum/execution-spec-tests/commit/f62890fe35e2da4b36d8586522567f4d28227813) - 2025-07-07
+* [Pull Request] [chore(cli): show sub-command help string in `execute --help` output](https://github.com/ethereum/execution-spec-tests/pull/1878) - 2025-07-08
+* [Commit] [test(execute): add framework tests for missing help](https://github.com/ethereum/execution-spec-tests/commit/961b0548ab651949ff14f46d920446a78026541d) - 2025-07-08
+* [Commit] [chore(cli): make sub-command help strings good one-liners](https://github.com/ethereum/execution-spec-tests/commit/25bef4daa570ae3e10919124639a0536eb5987b6) - 2025-07-08
+* [Commit] [Deployed a2449bf6197 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/fe560cc46636cf5390808179683aab7861a609fb) - 2025-07-08
 ## Q2 2025
 
 

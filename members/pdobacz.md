@@ -8,6 +8,11 @@ Team: Ipsilon
 
 ## Contributions
 
+## Q3 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Piotr Dobaczewski](https://github.com/protocolguild/documentation/pull/371) - 2025-07-08
 ## Q2 2025
 
 

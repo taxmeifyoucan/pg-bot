@@ -34,6 +34,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ jsonrpc: implement eth_config  (#15948)](https://github.com/erigontech/erigon/commit/bd566f2d32e8a6f0bed69ebd32fa1fafca7aa7bb) - 2025-07-07
 * [Commit] [execution/stagedsync: add debug timing logs to exec prune steps (#15937)](https://github.com/erigontech/erigon/commit/ec01fb13cd4e878f4fa22d23b79f029ec6a76039) - 2025-07-07
 * [Issue] [TestSetupGenesis is flaky due to state salt being 0 bytes](https://github.com/erigontech/erigon/issues/15976) - 2025-07-07
+* [Commit] [txnprovider/shutter: fix missing return on err in connectBootstrapNodes (#15995)](https://github.com/erigontech/erigon/commit/6b9bce091234ffc5006905798324acf00efac83e) - 2025-07-08
 ## Q2 2025
 
 

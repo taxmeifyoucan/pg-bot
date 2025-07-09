@@ -87,6 +87,12 @@ Team: Reth
 * [Commit] [Revert "feat: update fetch_all to pull latest changes for local branches"](https://github.com/paradigmxyz/reth/commit/68bfc56e2ed50495579f356f303c3c6c4d3d3954) - 2025-07-07
 * [Commit] [feat: update fetch_all to pull latest changes for local branches](https://github.com/paradigmxyz/reth/commit/995685cc1fe536decc7bd98a475d583ca91ff9d9) - 2025-07-07
 * [Commit] [fetch git before initializing compilation manager](https://github.com/paradigmxyz/reth/commit/ac2761fa16da13222c60da327003879f3c201254) - 2025-07-07
+* [Issue] [Recover signers for 7702 transactions ahead of time](https://github.com/paradigmxyz/reth/issues/17294) - 2025-07-08
+* [Issue] [Do not calculate the transactions root in `insert_block_inner`](https://github.com/paradigmxyz/reth/issues/17293) - 2025-07-08
+* [Issue] [Reuse `TrieInput` to reduce allocations](https://github.com/paradigmxyz/reth/issues/17292) - 2025-07-08
+* [Issue] [Start executing transactions ASAP on `engine_newPayload`](https://github.com/paradigmxyz/reth/issues/17291) - 2025-07-08
+* [Issue] [Rename `RevealedSparseTrie` for type names consistency](https://github.com/paradigmxyz/reth/issues/17289) - 2025-07-08
+* [Issue] [Spawn `StorageRoot` in tokio blocking task, not rayon](https://github.com/paradigmxyz/reth/issues/17288) - 2025-07-08
 ## Q2 2025
 
 

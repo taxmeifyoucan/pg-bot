@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [add trace filter](https://github.com/NethermindEth/nethermind/commit/066cf49a2222ed2e8079fec4cd2f63db04f2f9de) - 2025-07-08
 ## Q2 2025
 
 

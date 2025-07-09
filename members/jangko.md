@@ -41,6 +41,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Optimize updateFinalized](https://github.com/status-im/nimbus-eth1/commit/7df166f854c4ceec0b382a00384de7094eb91eaa) - 2025-07-07
 * [Commit] [Simplify FC node coloring](https://github.com/status-im/nimbus-eth1/commit/a85e9c2fafca3a018ec7456a928e51adcc3ea530) - 2025-07-07
 * [Commit] [Stateless: Make collection of witness keys in ledger configurable at runtime (#3448)](https://github.com/status-im/nimbus-eth1/commit/379b4ff72f17616f36a61df92a602b89580fb39d) - 2025-07-07
+* [Commit] [Schedule `updateBase` to asynchronous worker. (#3455)](https://github.com/status-im/nimbus-eth1/commit/7f36a2f13d7d092dd66ef788e8303608faa51a42) - 2025-07-08
+* [Commit] [Optimize a bit updateBase and queueUpdateBase](https://github.com/status-im/nimbus-eth1/commit/b6e8963cdb636c3234a812c4112483c7e994df75) - 2025-07-08
 ## Q2 2025
 
 
