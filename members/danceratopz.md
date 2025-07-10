@@ -45,6 +45,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [test(execute): add framework tests for missing help](https://github.com/ethereum/execution-spec-tests/commit/961b0548ab651949ff14f46d920446a78026541d) - 2025-07-08
 * [Commit] [chore(cli): make sub-command help strings good one-liners](https://github.com/ethereum/execution-spec-tests/commit/25bef4daa570ae3e10919124639a0536eb5987b6) - 2025-07-08
 * [Commit] [Deployed a2449bf6197 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/fe560cc46636cf5390808179683aab7861a609fb) - 2025-07-08
+* [Commit] [Deployed 73e2d89fc8c to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/ed0751e50ca5a615b2e74a91741323e5b2420cc0) - 2025-07-09
+* [Commit] [Deployed 196ae81e744 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/47db26483bf128968435dd61a4962721bed5c5ae) - 2025-07-09
+* [Commit] [Deployed e203df790cc to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8b9cabc077e0c2f411290a46166cafd5e9026d9a) - 2025-07-09
+* [Issue] [chore(pytest,packaging): reorganize pytest ini files](https://github.com/ethereum/execution-spec-tests/issues/1885) - 2025-07-09
+* [Pull Request] [chore(deps): use ethereum-hive package in favor of git+hive.py](https://github.com/ethereum/execution-spec-tests/pull/1883) - 2025-07-09
+* [Commit] [Deployed dac366d60c2 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/dfe7299b4d70c0f84cc438eb4145c6583b3d125c) - 2025-07-09
+* [Commit] [Deployed b453f41f2bd to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/7d87c9d20d3c05c838354f4a85a0ff0ee7fbb983) - 2025-07-09
+* [Commit] [Deployed a0bc8121594 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2bab46501efe50489471d5669a5787780d076873) - 2025-07-09
 ## Q2 2025
 
 

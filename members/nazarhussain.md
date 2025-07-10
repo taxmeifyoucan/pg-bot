@@ -8,6 +8,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q3 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Commit] [Fix the browwer config](https://github.com/ChainSafe/lodestar/commit/c932a7f9fd23d45477b8ad76b64b2398616c8ef0) - 2025-07-09
+* [Commit] [Remove commented code](https://github.com/ChainSafe/lodestar/commit/4761d0f2f01999a8a91a10c9f1bc40779b496e18) - 2025-07-09
 ## Q2 2025
 
 

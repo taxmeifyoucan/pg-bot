@@ -14,6 +14,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 [consensys/teku](https://github.com/consensys/teku)
 * [Commit] [remove unused --validators-proposer-blinded-blocks-enabled option (#9505)](https://github.com/Consensys/teku/commit/75d869d6f01444224c87abb564b60a3126da1395) - 2025-07-01
 * [Pull Request] [ignore blob sidecars by range requests after FULU](https://github.com/Consensys/teku/pull/9624) - 2025-07-02
+* [Pull Request] [refactor blob sidecars by range](https://github.com/Consensys/teku/pull/9647) - 2025-07-09
+* [Pull Request] [add request approval for data column sidecars by range](https://github.com/Consensys/teku/pull/9645) - 2025-07-09
+* [Issue] [Refactor data column sidecars by range](https://github.com/Consensys/teku/issues/9644) - 2025-07-09
 ## Q2 2025
 
 

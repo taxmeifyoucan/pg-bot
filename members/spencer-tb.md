@@ -16,6 +16,22 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [bug(forks): add valid opcodes for Osaka (#1827)](https://github.com/ethereum/execution-spec-tests/commit/84cc036475e9b277e908fc04125c870291ae25db) - 2025-07-01
 
 * [Commit] [feat(tests): add test for CLZ opcode with varying gas costs (#1859)](https://github.com/ethereum/execution-spec-tests/commit/e88a2113f6d93ded665a15e8e4de448c03453175) - 2025-07-07
+* [Commit] [chore(tests): update gas cost configuration for clz (#1887)](https://github.com/ethereum/execution-spec-tests/commit/73e2d89fc8cc6d6f2493f2db09233122fd0766f2) - 2025-07-09
+* [Commit] [feat(tests): update eip-4844 spec for blob per tx limit.](https://github.com/ethereum/execution-spec-tests/commit/dba59befd67c805f1ed3695e6c9dbc6b08121111) - 2025-07-09
+* [Commit] [chore(tests): update gas field in eip-7951 r1 vectors (#1888)](https://github.com/ethereum/execution-spec-tests/commit/196ae81e7441eacddf97cb09af0e9f118fe4290f) - 2025-07-09
+* [Pull Request] [chore(tests): update gas field in eip-7951 r1 vectors](https://github.com/ethereum/execution-spec-tests/pull/1888) - 2025-07-09
+* [Commit] [chore(tests|forks): fix tx gas limit change.](https://github.com/ethereum/execution-spec-tests/commit/3c562c6163eea77df329947356f470aae6a71762) - 2025-07-09
+* [Commit] [feat(tests): add codecopy and extcodecopy for clz opcode (#1858)](https://github.com/ethereum/execution-spec-tests/commit/e203df790cc0300322a76e51e246b595a7714aae) - 2025-07-09
+* [Commit] [chore(tests): update modexp eip-7883 vectors.](https://github.com/ethereum/execution-spec-tests/commit/0fca655108baab35e13c5d49dce34a51b37ed7f0) - 2025-07-09
+* [Commit] [chore(forks): bug fix - move max per tx to osaka.](https://github.com/ethereum/execution-spec-tests/commit/2c6cff5a33ccaa5ce60659e820cf833eed91ac04) - 2025-07-09
+* [Commit] [chore(forks): fix typecheck for `max_blobs_per_tx()`.](https://github.com/ethereum/execution-spec-tests/commit/dec85c8dc8329d8a4edf5712086d956613df7dab) - 2025-07-09
+* [Pull Request] [chore(tests|forks): add max blobs per tx limit](https://github.com/ethereum/execution-spec-tests/pull/1884) - 2025-07-09
+* [Pull Request] [chore(tests): set tx gas limit to 2^24](https://github.com/ethereum/execution-spec-tests/pull/1882) - 2025-07-09
+* [Pull Request] [chore(tests): triple modexp gas price.](https://github.com/ethereum/execution-spec-tests/pull/1881) - 2025-07-09
+* [Issue] [feat(tests): block access list test ideas](https://github.com/ethereum/execution-spec-tests/issues/1880) - 2025-07-09
+* [Commit] [feat(osaka): Update EIP-7939 - update CLZ gas cost (#1879)](https://github.com/ethereum/execution-spec-tests/commit/dac366d60c2fa5a2f3f5b0dbd2b722109c301f1f) - 2025-07-09
+* [Commit] [Add/correct error messages for Nethermind (#1875)](https://github.com/ethereum/execution-spec-tests/commit/b453f41f2bd63373cf437eb14d7e2bd0b4406492) - 2025-07-09
+* [Commit] [chore(cli): show sub-command help string in `execute --help` output (#1878)](https://github.com/ethereum/execution-spec-tests/commit/a0bc8121594daae6bab0584537d61b89fd3f87bf) - 2025-07-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

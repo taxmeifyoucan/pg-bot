@@ -24,6 +24,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Validate parenthash is same as given parent (#8840)](https://github.com/NethermindEth/nethermind/commit/7c9190774f86119687246857481e43eec66a4e5c) - 2025-07-07
 * [Commit] [Add eth_config](https://github.com/NethermindEth/nethermind/commit/eed729af3bd2ce556e0a5532be3082876e7c97a1) - 2025-07-08
 * [Pull Request] [Add EIP-7910: Add eth_config](https://github.com/NethermindEth/nethermind/pull/8956) - 2025-07-08
+* [Commit] [Simplify](https://github.com/NethermindEth/nethermind/commit/a08e9a721febd32e77b6296ddbfeeeb770a52554) - 2025-07-09
+* [Commit] [Update systemContracts, refactor](https://github.com/NethermindEth/nethermind/commit/e4eaa3902010a235860023f228573f2f4c802b08) - 2025-07-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

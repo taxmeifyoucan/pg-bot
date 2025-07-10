@@ -14,6 +14,8 @@ Team: Reth
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Commit] [fix: include bpo in forkfilter (#17201)](https://github.com/paradigmxyz/reth/commit/fce4cc1c51df9bda7c4abf1079c83fa0b4935786) - 2025-07-03
 * [Commit] [rm noop test](https://github.com/paradigmxyz/reth/commit/b5c6a03bef92a9c68d9e04b55808096873a95389) - 2025-07-03
+* [Commit] [rename](https://github.com/paradigmxyz/reth/commit/3745b1a90bbf998c633a6b46ab787fc63c4bacb0) - 2025-07-09
+* [Pull Request] [feat(sync): track time spent in stages](https://github.com/paradigmxyz/reth/pull/17321) - 2025-07-09
 ## Q2 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

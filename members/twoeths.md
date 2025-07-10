@@ -25,6 +25,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: only process chain segment with a success downloaded batch](https://github.com/ChainSafe/lodestar/pull/8032) - 2025-07-04
 * [Pull Request] [fix: increase MAX_BATCH_PROCESSING_ATTEMPTS](https://github.com/ChainSafe/lodestar/pull/8037) - 2025-07-07
 * [Issue] [PeerDAS - beacon node requests downloaded columns in range sync](https://github.com/ChainSafe/lodestar/issues/8036) - 2025-07-07
+* [Pull Request] [fix: remove getAttestationsForBlockPreElectra](https://github.com/ChainSafe/lodestar/pull/8048) - 2025-07-09
+* [Issue] [PeerDAS: schedule recover_matrix time](https://github.com/ChainSafe/lodestar/issues/8047) - 2025-07-09
+* [Pull Request] [fix: remove only connect flags](https://github.com/ChainSafe/lodestar/pull/8046) - 2025-07-09
 ## Q2 2025
 
 

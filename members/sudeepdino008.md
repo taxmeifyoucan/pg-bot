@@ -34,6 +34,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix](https://github.com/erigontech/erigon/commit/ec416f757e91d0f85b17b0f32b2fe6174c5a16ad) - 2025-07-07
 * [Commit] [save](https://github.com/erigontech/erigon/commit/26895c4d6df421e1ef1409dd9fc8fa7f91796bb1) - 2025-07-07
 * [Pull Request] [rcache integrity](https://github.com/erigontech/erigon/pull/15964) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a6b954dd434d0ffa28530bce6099c1edd450588c) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3d0c19098976e38cd40239418cb5f8b8fbb3c0d2) - 2025-07-09
+* [Pull Request] [allow download of history files needed for receipt fallback](https://github.com/erigontech/erigon/pull/16010) - 2025-07-09
+* [Pull Request] [improve publishable error messages](https://github.com/erigontech/erigon/pull/16008) - 2025-07-09
+* [Issue] [spawn_custom_trace panic in amoy](https://github.com/erigontech/erigon/issues/16003) - 2025-07-09
 ## Q2 2025
 
 

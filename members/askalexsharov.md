@@ -201,6 +201,37 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/aa4dafe170169a9d8d31f97328e139cd064f5ce7) - 2025-07-08
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ea813048c6401e800ac0ab4bb720be236322be23) - 2025-07-08
 * [Commit] [`common`: added 2 constants (#15967)](https://github.com/erigontech/erigon/commit/090927c5f1f1ead2cdf36725dc32fe372784ebf7) - 2025-07-08
+* [Commit] [[r30] stage_custom_trace: move tx.Hash() out of reducer  (#16001)](https://github.com/erigontech/erigon/commit/6d2af6fc540a618e876590b6043cc68a692501cc) - 2025-07-09
+* [Commit] [[r30] memstat showing zeros  (#16000)](https://github.com/erigontech/erigon/commit/b9a14239084f54cf9f7b9e415a01122eb805d56e) - 2025-07-09
+* [Commit] [[r30] r_lru: no clone (#15998)](https://github.com/erigontech/erigon/commit/c4541603ef308cf8f79b0485007ddc38ef3b2ed6) - 2025-07-09
+* [Commit] [kick ci](https://github.com/erigontech/erigon/commit/3a0d7e63a994036bfe5ac911fcf0b5ced4fd2b1f) - 2025-07-09
+* [Commit] [[r30] receipt_generator: to use lru even if `rcache` enabled   (#15997)](https://github.com/erigontech/erigon/commit/cfe011b573a0358b1207c52087cd13d2e41f3c41) - 2025-07-09
+* [Commit] [CreateReceipt: add more info to assert message (#16002)](https://github.com/erigontech/erigon/commit/21dea323d81489e0b60c986de8f884f5972c0d88) - 2025-07-09
+* [Commit] [kick ci](https://github.com/erigontech/erigon/commit/c175c82af939818dcdf56c21f587c85bb927841d) - 2025-07-09
+* [Pull Request] [[wip] [r30] block files: 500k merge limit](https://github.com/erigontech/erigon/pull/16007) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8d99259ef669c21f3a5a1db785f5e70a998e11db) - 2025-07-09
+* [Issue] [Flaky test `TestDump`](https://github.com/erigontech/erigon/issues/16005) - 2025-07-09
+* [Issue] [ReceiptDomain FullNode](https://github.com/erigontech/erigon/issues/16004) - 2025-07-09
+* [Pull Request] [CreateReceipt: add more info to assert message](https://github.com/erigontech/erigon/pull/16002) - 2025-07-09
+* [Commit] [recsplit: internal existence filter based on `fuse_filter`. only `.efi` and `.kvi` files (#15960)](https://github.com/erigontech/erigon/commit/ffa51b478df58056e3234288bb0000339e7bda83) - 2025-07-09
+* [Commit] [Remove unused duplicate of common/debug (#15987)](https://github.com/erigontech/erigon/commit/0649c8331258475c07c8289e54413dd34cdb10c9) - 2025-07-09
+* [Commit] [rpcdaemon: Re enable test on pruning  (#15994)](https://github.com/erigontech/erigon/commit/9aefcc667fcf258550bc0122fc89b56f2c491fc2) - 2025-07-09
+* [Pull Request] [[r30] stage_custom_trace: move tx.Hash() out of reducer ](https://github.com/erigontech/erigon/pull/16001) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9aa2f5a354c0dcb4ebf2acd86fe4a259308ec115) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2f6772b0110ab322abca8417896123e5b07fd751) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b97f54d037ed34d5a96acf74f5a7b8bcf409a2cf) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ce2fcfa2a6636ca8aeb1fe60270f294f15579a68) - 2025-07-09
+* [Pull Request] [[30] memstat showing zeros ](https://github.com/erigontech/erigon/pull/16000) - 2025-07-09
+* [Pull Request] [[r30] blockReader: add `RPC_HEADER_BY_NUM_LRU` on ancient files only ](https://github.com/erigontech/erigon/pull/15999) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f43bb7e6c7621f6c5f7d881aae0a6c62f61198d3) - 2025-07-09
+* [Pull Request] [[r30] r_lru: no clone](https://github.com/erigontech/erigon/pull/15998) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b5bdca309d1f09eff813176a98669350d693f392) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9139a3b25aa30b02a7c66857c82e18adc78e6b05) - 2025-07-09
+* [Pull Request] [[r30] receipt_generator: to use lru even if `rcache` enabled  ](https://github.com/erigontech/erigon/pull/15997) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/095894e26c4d4fbfa2fbde5c9aa5a0911f966fd6) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d1e012a4199a56a7689020cc095cf64cd1471359) - 2025-07-09
+* [Pull Request] [[r30] bor: `BOR_AUTHOR_LRU` env variable ](https://github.com/erigontech/erigon/pull/15996) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/99a8cd868feda198a6618a14980f29dc936c28bf) - 2025-07-09
 ## Q2 2025
 
 

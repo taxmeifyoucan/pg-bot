@@ -34,6 +34,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tidy up](https://github.com/erigontech/erigon/commit/49b5e37022ceaa3cffd6e5ee33446ef5ae64d279) - 2025-07-03
 * [Commit] [update](https://github.com/erigontech/erigon/commit/ae8e4feb45c417bafdc349634eb3321181e3eec0) - 2025-07-04
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/7ba7351719d96886fad3ce787b789f7d95c0d227) - 2025-07-07
+* [Commit] [update](https://github.com/erigontech/erigon/commit/76f8bea1651e45a5257a1e71ff578a467de029a8) - 2025-07-09
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/149698940639f2a1b3df1ae98f10e2321522b6c8) - 2025-07-09
+* [Commit] [update](https://github.com/erigontech/erigon/commit/9bfe9ace277e1687551a071bbac03ed2dfcc3fc8) - 2025-07-09
+* [Commit] [update](https://github.com/erigontech/erigon/commit/6c5b3543aa6c3f0432ca099f1fd812b70065fedc) - 2025-07-09
+* [Commit] [update](https://github.com/erigontech/erigon/commit/10086b643bc7b6d001ec5487b1065f365676cfb7) - 2025-07-09
+* [Commit] [gossip service](https://github.com/erigontech/erigon/commit/c632ca7b536ef9923aa8ba3166d68e52189a6bf9) - 2025-07-09
+* [Commit] [update](https://github.com/erigontech/erigon/commit/afb37ae0beb14b98d48d42765e009925cf38c89d) - 2025-07-09
+* [Commit] [update](https://github.com/erigontech/erigon/commit/9635a92725f4fa456775efce83ba6e9c21fac0d9) - 2025-07-09
+* [Commit] [DownloadOnlyCustodyColumns](https://github.com/erigontech/erigon/commit/196dbb8953952ce9af4671a1076fc22f973ccf8e) - 2025-07-09
 ## Q2 2025
 
 

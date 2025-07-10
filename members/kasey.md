@@ -25,6 +25,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [initialize genesis data asap at node start](https://github.com/OffchainLabs/prysm/commit/096d5f8863ceda21aacb49ae9ae4caf27bbcb86e) - 2025-07-08
 * [Commit] [initialize genesis data asap at node start](https://github.com/OffchainLabs/prysm/commit/dc76f32a711931a86b65166da5aea42ef6600efe) - 2025-07-08
 * [Commit] [initialize genesis data asap at node start](https://github.com/OffchainLabs/prysm/commit/1e7827c739adf62fa2761e6abee9b21680061b27) - 2025-07-08
+* [Commit] [skip flaky committe tests and remove start from execution](https://github.com/OffchainLabs/prysm/commit/b71d49e042a714c0901b02553dfefd3f8e0837b2) - 2025-07-09
+* [Commit] [set custom genesis in tests where needed](https://github.com/OffchainLabs/prysm/commit/792c259b19b9966f1897a70a1fa4a64b8353f05a) - 2025-07-09
+* [Commit] [don't try to use db to save genesis in test](https://github.com/OffchainLabs/prysm/commit/0e4a1b6f405d0f16de37a5847d6b37e43dafa1ef) - 2025-07-09
+* [Commit] [more test patches](https://github.com/OffchainLabs/prysm/commit/82aa67415e044373b148abe847a24918bb10b0a6) - 2025-07-09
 ## Q2 2025
 
 

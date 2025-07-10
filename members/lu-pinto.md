@@ -12,6 +12,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix JMH integration and add in AsyncProfiler option](https://github.com/hyperledger/besu/pull/8920) - 2025-07-04
+* [Commit] [Move Keccak256 benchmark to JMH and fix JMH integration (#8920)](https://github.com/hyperledger/besu/commit/c1a04f6947f01e29cc09d50fcd6c0512c6ecd1c7) - 2025-07-09
 ## Q2 2025
 
 

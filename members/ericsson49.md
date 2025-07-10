@@ -8,6 +8,12 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 
 ## Contributions
 
+## Q3 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Move Anton Nashatyrev and Alex Vlasov to other working groups](https://github.com/protocolguild/documentation/pull/375) - 2025-07-09
+* [Pull Request] [Fix number of contributors in Wayfinding WG](https://github.com/protocolguild/documentation/pull/374) - 2025-07-09
 ## Q2 2025
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

@@ -17,8 +17,16 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [add valid opcodes for Osaka](https://github.com/ethereum/execution-spec-tests/pull/1827) - 2025-07-01
 * [Issue] [bug(fork): Osaka fork does not define valid_opcodes](https://github.com/ethereum/execution-spec-tests/issues/1826) - 2025-07-01
 
+* [Pull Request] [feat(osaka): Update EIP-7939 - update CLZ gas cost](https://github.com/ethereum/execution-spec-tests/pull/1879) - 2025-07-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [STEEL Merge: Harmonize code standards](https://github.com/ethereum/execution-specs/issues/1301) - 2025-07-03
+* [Issue] [Implement EIP-7594](https://github.com/ethereum/execution-specs/issues/1319) - 2025-07-09
+* [Pull Request] [Update EIP-7883: Change modexp gas calculation](https://github.com/ethereum/execution-specs/pull/1318) - 2025-07-09
+* [Pull Request] [Update EIP-7825: update tx gas limit](https://github.com/ethereum/execution-specs/pull/1317) - 2025-07-09
+* [Issue] [Update EIP-7883](https://github.com/ethereum/execution-specs/issues/1316) - 2025-07-09
+* [Issue] [Update EIP-7825](https://github.com/ethereum/execution-specs/issues/1315) - 2025-07-09
+* [Pull Request] [Update EIP-7939: Update CLZ gas cost](https://github.com/ethereum/execution-specs/pull/1314) - 2025-07-09
+* [Pull Request] [Update CLZ gas cost](https://github.com/ethereum/execution-specs/pull/1313) - 2025-07-09
 ## Q2 2025
 
 

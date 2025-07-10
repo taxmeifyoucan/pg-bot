@@ -21,6 +21,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [qa_tests: fix rpc-tests version in Gnosis RPC Integration Tests](https://github.com/erigontech/erigon/pull/15979) - 2025-07-07
 * [Pull Request] [[DO NOT MERGE] qa_tests: one-liner for RPC Integration Tests](https://github.com/erigontech/erigon/pull/15978) - 2025-07-07
 * [Commit] [qa_tests: one-liner for Gnosis+Polygon RPC Integration Tests (#15991)](https://github.com/erigontech/erigon/commit/b8afc24045a6e949e48e57da61ea922ef6e0005b) - 2025-07-08
+* [Pull Request] [qa_tests: adjust runner labels in RPC Integration Tests](https://github.com/erigontech/erigon/pull/16009) - 2025-07-09
+* [Commit] [qa_tests: move RPC perf tests to dedicated runner (#15913)](https://github.com/erigontech/erigon/commit/3c062cb616a96d55adb49969a90555019f673911) - 2025-07-09
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

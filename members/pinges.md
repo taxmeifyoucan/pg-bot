@@ -15,6 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Commit] [Revert "Sync block body (#8242)" (#8887)](https://github.com/hyperledger/besu/commit/4e2efab6a4709346e26d694f7e345e2c0d6a23d7) - 2025-07-01
 * [Pull Request] [Revert "Sync block body (#8242)"](https://github.com/hyperledger/besu/pull/8887) - 2025-07-01
 * [Pull Request] [fix noisy log message and add CHANGELOG entry](https://github.com/hyperledger/besu/pull/8886) - 2025-07-01
+* [Pull Request] [Revert revert sync bodies](https://github.com/hyperledger/besu/pull/8939) - 2025-07-09
 ## Q2 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

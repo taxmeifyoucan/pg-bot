@@ -93,6 +93,8 @@ Team: Reth
 * [Issue] [Start executing transactions ASAP on `engine_newPayload`](https://github.com/paradigmxyz/reth/issues/17291) - 2025-07-08
 * [Issue] [Rename `RevealedSparseTrie` for type names consistency](https://github.com/paradigmxyz/reth/issues/17289) - 2025-07-08
 * [Issue] [Spawn `StorageRoot` in tokio blocking task, not rayon](https://github.com/paradigmxyz/reth/issues/17288) - 2025-07-08
+* [Pull Request] [fix(trie): duplicate hash mask check in sparse trie implementations](https://github.com/paradigmxyz/reth/pull/17316) - 2025-07-09
+* [Commit] [fix: correct duplicate hash mask check in sparse trie implementations](https://github.com/paradigmxyz/reth/commit/21c09f62c56887c290eb820d76f576914c43c08d) - 2025-07-09
 ## Q2 2025
 
 

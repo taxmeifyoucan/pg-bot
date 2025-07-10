@@ -24,6 +24,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [make the BN pass min DA requirements to catch missing blocks](https://github.com/status-im/nimbus-eth2/commit/c7504645beaea5a06a7df2140a539ee1c6890b03) - 2025-07-05
 * [Commit] [reword peer filtering and scoring](https://github.com/status-im/nimbus-eth2/commit/4da94cf25ddce9a6e6a848179ee7d6707e569023) - 2025-07-07
 * [Commit] [some fixes to rman](https://github.com/status-im/nimbus-eth2/commit/78f1149d85681ff945366cd6bd86cefe0e0d4551) - 2025-07-07
+* [Commit] [bump nim-eth to `92a02b672f60e6b5e5ea570d684904c289b495fa` (#7209)](https://github.com/status-im/nimbus-eth2/commit/33037542d78ac2b6a03c5abb2e516706a61cb24d) - 2025-07-09
+* [Commit] [fix beacon block broadcast not using BPO forkdigests (#7285)](https://github.com/status-im/nimbus-eth2/commit/0ff59817bac39745d229d3c4a62e96b8a7912aa5) - 2025-07-09
 ## Q2 2025
 
 

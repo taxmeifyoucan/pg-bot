@@ -16,6 +16,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [fixed incorrect number of log params (#8928)](https://github.com/hyperledger/besu/commit/42c44687df2c16f7e546563e0ce086282709b8b3) - 2025-07-08
 * [Commit] [build: Update custom errorprone checks library (#8923)](https://github.com/hyperledger/besu/commit/457d07480e07b51224e5aa11362c4ac7909a36b1) - 2025-07-08
 * [Pull Request] [[MINOR] fix incorrect number of log params](https://github.com/hyperledger/besu/pull/8928) - 2025-07-08
+* [Commit] [remove privacy benchmarking config (#8941)](https://github.com/hyperledger/besu/commit/f52c0b117e1fbfd00f33c497ddc19838dfb0f05b) - 2025-07-09
+* [Pull Request] [remove privacy benchmarking config - caliper](https://github.com/hyperledger/besu/pull/8941) - 2025-07-09
+* [Pull Request] [remove deprecated PoAMetricsService and IbftQueryService](https://github.com/hyperledger/besu/pull/8940) - 2025-07-09
+* [Pull Request] [[GHA] update checkout action to 4.2.2](https://github.com/hyperledger/besu/pull/8938) - 2025-07-09
+* [Pull Request] [make explicit the voting for emeritus process](https://github.com/hyperledger/besu/pull/8937) - 2025-07-09
+* [Commit] [add breaking change for 25.7 (#8935)](https://github.com/hyperledger/besu/commit/624e29d1000b6f52d974404a16a5935673b51844) - 2025-07-09
 ## Q2 2025
 
 

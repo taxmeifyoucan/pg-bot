@@ -18,6 +18,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [PeerDAS: Implement reconstruction of data column sidecars retrieved from the execution client. (#15469)](https://github.com/OffchainLabs/prysm/commit/4be8de2476daf8a4e6d837d8877d410e27c323dc) - 2025-07-07
 * [Commit] [Allow SSZ requests for pending deposits, partial withdrawals and consolidations (#15474)](https://github.com/OffchainLabs/prysm/commit/961ea054543adcf68a84c0c198e9ef2d841a8ee4) - 2025-07-08
 * [Commit] [converted to using an event feed instead of my own channel publishing implementation, adding relevant logs](https://github.com/OffchainLabs/prysm/commit/cfb8a00621cd930b6544e2ebfef2013d04e1c505) - 2025-07-08
+* [Commit] [preston log suggestion](https://github.com/OffchainLabs/prysm/commit/d852e03c3443fc1f7cffb0d2e27a156e8a78f345) - 2025-07-09
 ## Q2 2025
 
 

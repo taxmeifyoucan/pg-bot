@@ -43,6 +43,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Stateless: Make collection of witness keys in ledger configurable at runtime (#3448)](https://github.com/status-im/nimbus-eth1/commit/379b4ff72f17616f36a61df92a602b89580fb39d) - 2025-07-07
 * [Commit] [Schedule `updateBase` to asynchronous worker. (#3455)](https://github.com/status-im/nimbus-eth1/commit/7f36a2f13d7d092dd66ef788e8303608faa51a42) - 2025-07-08
 * [Commit] [Optimize a bit updateBase and queueUpdateBase](https://github.com/status-im/nimbus-eth1/commit/b6e8963cdb636c3234a812c4112483c7e994df75) - 2025-07-08
+* [Commit] [Fix missing ptx.](https://github.com/status-im/nimbus-eth1/commit/d88aa7588f106d0c11fb546cffcf536817f6d72c) - 2025-07-09
+* [Commit] [Keep the space separator of log topics](https://github.com/status-im/nimbus-eth1/commit/f7070dffdadb00651a2bbadfff5cee2fb9692a69) - 2025-07-09
+* [Pull Request] [Improves logging: short topics and remove duplicate log for same event](https://github.com/status-im/nimbus-eth1/pull/3462) - 2025-07-09
+* [Commit] [Tx-broadcast handler: abort operation if peer become unresponsive](https://github.com/status-im/nimbus-eth1/commit/b1728d4d75fea2506e8d061d34a1794640cbf447) - 2025-07-09
 ## Q2 2025
 
 

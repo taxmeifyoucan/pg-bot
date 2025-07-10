@@ -44,6 +44,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Early cache](https://github.com/NethermindEth/nethermind/commit/167694fd22e5942ea855f115748f225f652c89a4) - 2025-07-08
 * [Commit] [Reduce cache size](https://github.com/NethermindEth/nethermind/commit/86c470fc9ffa02cce42657389937514ce1ee45b6) - 2025-07-08
 * [Commit] [Reduce allocations from cleaning up receipts](https://github.com/NethermindEth/nethermind/commit/94d701d8c5957e601789785860e643bb49ff202a) - 2025-07-08
+* [Commit] [Use in more calls](https://github.com/NethermindEth/nethermind/commit/4b220fc3c81218baaa6db66cabb8d46fdd2a3de4) - 2025-07-09
+* [Commit] [Reduce delayed hash size](https://github.com/NethermindEth/nethermind/commit/c0d0e0635fe3eb7f8fa5f0299f0b7fddc2c1d7d8) - 2025-07-09
+* [Commit] [Reduce delayed hash size](https://github.com/NethermindEth/nethermind/commit/ca600f30c674bce947c99382a90d2c8007b6577f) - 2025-07-09
+* [Commit] [Use only hashes in eth_getBlockBy..](https://github.com/NethermindEth/nethermind/commit/38837613d969463670d7741cf2adb896479f7e8e) - 2025-07-09
 ## Q2 2025
 
 

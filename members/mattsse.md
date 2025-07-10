@@ -40,6 +40,13 @@ Team: Reth
 * [Commit] [chore: make clippy happy (#17219)](https://github.com/paradigmxyz/reth/commit/345735888070050f0f08bff8b708c40d35930524) - 2025-07-04
 * [Pull Request] [chore: update size metrics once](https://github.com/paradigmxyz/reth/pull/17242) - 2025-07-05
 * [Issue] [debug_transaction onlyTopCall does not include the revert reason](https://github.com/paradigmxyz/reth/issues/17255) - 2025-07-07
+* [Pull Request] [docs: add section for enabling pre-merge history expiry](https://github.com/paradigmxyz/reth/pull/17320) - 2025-07-09
+* [Issue] [remove RpcNodeCoreExt trait](https://github.com/paradigmxyz/reth/issues/17319) - 2025-07-09
+* [Pull Request] [chore: bump vdocs version](https://github.com/paradigmxyz/reth/pull/17318) - 2025-07-09
+* [Commit] [docs: fix typo in section of node-components.mdx (#17105)](https://github.com/paradigmxyz/reth/commit/0a8a4ac2ca5f9c081559af70d55e0233f3ae0474) - 2025-07-09
+* [Pull Request] [chore: replace CacheDb with trait bounds](https://github.com/paradigmxyz/reth/pull/17315) - 2025-07-09
+* [Commit] [chore: relax era export bounds (#17312)](https://github.com/paradigmxyz/reth/commit/162568b297e4e20cd95530d78d2c0ed9ef26c124) - 2025-07-09
+* [Pull Request] [chore: relax era export bounds](https://github.com/paradigmxyz/reth/pull/17312) - 2025-07-09
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

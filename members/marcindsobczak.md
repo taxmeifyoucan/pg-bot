@@ -13,6 +13,12 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [add 3x pricing](https://github.com/NethermindEth/nethermind/commit/4dc7e5b9f738d498e4608e8b33028064e8544cfd) - 2025-07-07
+* [Commit] [review comment](https://github.com/NethermindEth/nethermind/commit/9c51d448d83be9dca0bb8fc7dff42c2435c81d0b) - 2025-07-09
+* [Commit] [cosmetics](https://github.com/NethermindEth/nethermind/commit/25ba24fa2b454483ef6c317b9d6617156a0d568d) - 2025-07-09
+* [Commit] [whitespaces](https://github.com/NethermindEth/nethermind/commit/1079eaf007f54e8d5c2aae56c7fedd15ae1f45d2) - 2025-07-09
+* [Commit] [adjust test cases and add new ones](https://github.com/NethermindEth/nethermind/commit/3d56c62637aa724cfda26f72dde28e23572f17c8) - 2025-07-09
+* [Pull Request] [Update `ModExp` precompile to the newest version of EIP-7883 (triple pricing)](https://github.com/NethermindEth/nethermind/pull/8964) - 2025-07-09
+* [Issue] [Update EIP-7883 to the newest version (triple modexp pricing)](https://github.com/NethermindEth/nethermind/issues/8963) - 2025-07-09
 ## Q2 2025
 
 

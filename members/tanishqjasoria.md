@@ -13,6 +13,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [add trace filter](https://github.com/NethermindEth/nethermind/commit/066cf49a2222ed2e8079fec4cd2f63db04f2f9de) - 2025-07-08
+* [Commit] [make it possible to extend tracers (#8955)](https://github.com/NethermindEth/nethermind/commit/10bb626a72078f3edde4fb01653a719e2d891712) - 2025-07-09
 ## Q2 2025
 
 

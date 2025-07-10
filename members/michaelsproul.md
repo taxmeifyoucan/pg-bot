@@ -18,6 +18,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Update LH book for v7.1.0](https://github.com/sigp/lighthouse/pull/7706) - 2025-07-07
 * [Pull Request] [Refine delayed head block logging](https://github.com/sigp/lighthouse/pull/7705) - 2025-07-07
 * [Pull Request] [Fix description of DB read bytes metric](https://github.com/sigp/lighthouse/pull/7716) - 2025-07-08
+* [Pull Request] [Reintroduce `--logfile` with deprecation warning](https://github.com/sigp/lighthouse/pull/7723) - 2025-07-09
+* [Commit] [Change default state cache size back to 128 (#7364)](https://github.com/sigp/lighthouse/commit/6c8770e80d0339e037407cd59e3c41464f1ad385) - 2025-07-09
 ## Q2 2025
 
 

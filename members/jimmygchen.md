@@ -25,6 +25,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Remove unneeded spans that caused debug logs to appear when level is set to `info`](https://github.com/sigp/lighthouse/pull/7707) - 2025-07-07
 * [Pull Request] [Improve data column KZG verification buckets](https://github.com/sigp/lighthouse/pull/7717) - 2025-07-08
 * [Pull Request] [Remove KZG verification from local block production and blobs fetched from the EL](https://github.com/sigp/lighthouse/pull/7713) - 2025-07-08
+* [Pull Request] [`fusaksa-devnet-2` clean up and fixes](https://github.com/sigp/lighthouse/pull/7722) - 2025-07-09
+* [Pull Request] [Add multi-worker work support to BeaconProcessor](https://github.com/sigp/lighthouse/pull/7720) - 2025-07-09
 ## Q2 2025
 
 

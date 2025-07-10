@@ -24,6 +24,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/096263633d78ff492f5985fa541aa2f65c91e003) - 2025-07-07
 * [Pull Request] [`hexutil` add `ToUint256` method](https://github.com/erigontech/erigon/pull/15970) - 2025-07-07
 * [Pull Request] [`common`: added 2 constants](https://github.com/erigontech/erigon/pull/15967) - 2025-07-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f8e3b29492a9d5390db3a0a1d29014e3d12bb0aa) - 2025-07-09
+* [Pull Request] [fix `eth_getProof`: corner case when account have a singletone storage slot](https://github.com/erigontech/erigon/pull/16011) - 2025-07-09
 ## Q2 2025
 
 
