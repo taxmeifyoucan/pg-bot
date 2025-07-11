@@ -17,6 +17,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] [fix: rework admin peers response](https://github.com/NethermindEth/nethermind/pull/8937) - 2025-07-04
 * [Issue] [Non uniform json-rpc request for admin_peers](https://github.com/NethermindEth/nethermind/issues/8936) - 2025-07-04
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Pull Request] [feat: add support for num of columns and data colum sidecar subnet count](https://github.com/ChainSafe/lodestar/pull/8053) - 2025-07-10
 ## Q2 2025
 
 

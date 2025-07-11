@@ -14,6 +14,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 [consensys/teku](https://github.com/consensys/teku)
 * [Issue] [set default gas limit to 45M gas](https://github.com/Consensys/teku/issues/9636) - 2025-07-08
 * [Pull Request] [fix return code for optimistic aggregates](https://github.com/Consensys/teku/pull/9643) - 2025-07-09
+* [Commit] [cleanup deprecation warnings (#9650)](https://github.com/Consensys/teku/commit/213a67cb9e30cea55bb17dabc4b53737f5b24f42) - 2025-07-10
+* [Pull Request] [filter out null blocks in sampler](https://github.com/Consensys/teku/pull/9651) - 2025-07-10
 ## Q2 2025
 
 

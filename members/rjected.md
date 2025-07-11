@@ -20,6 +20,9 @@ Team: Reth
 * [Commit] [chore(trie): remove Default bound from SparseTrieInterface](https://github.com/paradigmxyz/reth/commit/46194e49712182db8441a99b484fb46c6cecc12b) - 2025-07-08
 * [Commit] [perf: remove block cloning from `is_descendant` check (#17286)](https://github.com/paradigmxyz/reth/commit/038ddd6614326882236e28f964be2cf83c56a770) - 2025-07-08
 * [Commit] [deps: bump revm patch for modexp price increase](https://github.com/paradigmxyz/reth/commit/29f7aa6fe801afd042ed1e63027796ac86a5650a) - 2025-07-08
+* [Commit] [chore(trie): impl SparseTrieInterface for either::Either](https://github.com/paradigmxyz/reth/commit/eedd6116d1f03322625cf5036e1bc6dac9db44fb) - 2025-07-10
+* [Commit] [chore(trie): impl SparseTrieInterface for either::Either](https://github.com/paradigmxyz/reth/commit/8eac53fd8816ce08588382afaa6e0b7c06143610) - 2025-07-10
+* [Commit] [feat(test): add rpc e2e tests (#17284)](https://github.com/paradigmxyz/reth/commit/3ba16128affa7467d41d1489abe1eb8cade262ae) - 2025-07-10
 ## Q2 2025
 
 

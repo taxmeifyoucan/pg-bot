@@ -21,6 +21,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [don't download old blocks](https://github.com/NethermindEth/nethermind/commit/2535f9c098f6999a8fdf657769c18b382ab87d2e) - 2025-07-04
 * [Commit] [Update src/Nethermind/Nethermind.Consensus/Validators/TxValidator.cs](https://github.com/NethermindEth/nethermind/commit/8b37c5b4c57dbec7d3f666f0a0e822ed89239c2f) - 2025-07-08
 * [Commit] [Reprice EIP-7951 (#8938)](https://github.com/NethermindEth/nethermind/commit/8c7b4cf1fecde121231f27f89f8995b88cab6943) - 2025-07-08
+* [Commit] [tidy](https://github.com/NethermindEth/nethermind/commit/6e32fb1c61fd9ba3091c257dd8ae12155c8724ba) - 2025-07-10
+* [Commit] [update delete pointer to first block number found](https://github.com/NethermindEth/nethermind/commit/e98c4ffcbc085f62eff30691e200958912866455) - 2025-07-10
 ## Q2 2025
 
 

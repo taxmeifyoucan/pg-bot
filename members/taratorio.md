@@ -35,6 +35,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/stagedsync: add debug timing logs to exec prune steps (#15937)](https://github.com/erigontech/erigon/commit/ec01fb13cd4e878f4fa22d23b79f029ec6a76039) - 2025-07-07
 * [Issue] [TestSetupGenesis is flaky due to state salt being 0 bytes](https://github.com/erigontech/erigon/issues/15976) - 2025-07-07
 * [Commit] [txnprovider/shutter: fix missing return on err in connectBootstrapNodes (#15995)](https://github.com/erigontech/erigon/commit/6b9bce091234ffc5006905798324acf00efac83e) - 2025-07-08
+* [Commit] [fixes](https://github.com/erigontech/erigon/commit/cf25f481516e6a2e674f2ba1f5c826e202cc5b4c) - 2025-07-10
+* [Commit] [qa-tests: use 1.67 rpc-test version and enable erigon_getHeaderByHash and number (#16019)](https://github.com/erigontech/erigon/commit/f5e7723aeb94cbea0a350fcbc5796f57834289d9) - 2025-07-10
 ## Q2 2025
 
 

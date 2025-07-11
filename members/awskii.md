@@ -26,6 +26,9 @@ Team: Erigon
 * [Pull Request] [`common`: added 2 constants](https://github.com/erigontech/erigon/pull/15967) - 2025-07-07
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f8e3b29492a9d5390db3a0a1d29014e3d12bb0aa) - 2025-07-09
 * [Pull Request] [fix `eth_getProof`: corner case when account have a singletone storage slot](https://github.com/erigontech/erigon/pull/16011) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fe962ea1bbd92975ad5d801b056d2824c5d62d96) - 2025-07-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b6445cc0043dc1a33d0bc5c584aa1ad7a600eb6e) - 2025-07-10
+* [Commit] [added test](https://github.com/erigontech/erigon/commit/808e009830042706bf2c025811556177b049cd9e) - 2025-07-10
 ## Q2 2025
 
 

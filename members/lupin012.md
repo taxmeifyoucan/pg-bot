@@ -19,6 +19,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [Fix regression on failure ci](https://github.com/erigontech/erigon/pull/15955) - 2025-07-06
 * [Pull Request] [integration-CI: Fix regression on failure CI](https://github.com/erigontech/erigon/pull/15954) - 2025-07-06
 * [Pull Request] [CI: enable 44 gnosis integration test](https://github.com/erigontech/erigon/pull/15985) - 2025-07-08
+* [Pull Request] [rpcdaemon: eth_getLogs(): add check on pruning](https://github.com/erigontech/erigon/pull/16042) - 2025-07-10
+* [Pull Request] [rpcdaemon: align response (block not found) in case remote conf with local one (embedded or stand-alone) ](https://github.com/erigontech/erigon/pull/16029) - 2025-07-10
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

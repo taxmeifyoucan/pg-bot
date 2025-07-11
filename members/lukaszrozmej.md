@@ -17,6 +17,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Auto-update fast sync settings (#8945)](https://github.com/NethermindEth/nethermind/commit/8442c9d743021ad9ce01b12d820f1fb2781e04ed) - 2025-07-06
 * [Commit] [Update OP Superchain chains (#8944)](https://github.com/NethermindEth/nethermind/commit/a0c70ce5c197584a38b27da93d104c3d3be7da9e) - 2025-07-07
 * [Commit] [Only return peers in admin_peers that match the network id (#8915)](https://github.com/NethermindEth/nethermind/commit/25d24411720591e015bd9c587261916b81f27817) - 2025-07-07
+* [Commit] [fix test](https://github.com/NethermindEth/nethermind/commit/0de10b696523f5f28141d30b58044504733a07c7) - 2025-07-10
+* [Pull Request] [Better null-ckecks in TryGetCanonicalTransaction](https://github.com/NethermindEth/nethermind/pull/8969) - 2025-07-10
 ## Q2 2025
 
 

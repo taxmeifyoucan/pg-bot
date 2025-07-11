@@ -48,6 +48,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reduce delayed hash size](https://github.com/NethermindEth/nethermind/commit/c0d0e0635fe3eb7f8fa5f0299f0b7fddc2c1d7d8) - 2025-07-09
 * [Commit] [Reduce delayed hash size](https://github.com/NethermindEth/nethermind/commit/ca600f30c674bce947c99382a90d2c8007b6577f) - 2025-07-09
 * [Commit] [Use only hashes in eth_getBlockBy..](https://github.com/NethermindEth/nethermind/commit/38837613d969463670d7741cf2adb896479f7e8e) - 2025-07-09
+* [Commit] [Only warn about 4444 once](https://github.com/NethermindEth/nethermind/commit/84b3060015e1535a5b0a8319e16be2791ada2de4) - 2025-07-10
+* [Pull Request] [Only warn about 4444 once](https://github.com/NethermindEth/nethermind/pull/8973) - 2025-07-10
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/a1408d92a1c52e8f3f9750660def277cb50f20c8) - 2025-07-10
+* [Commit] [Update src/Nethermind/Nethermind.Consensus/Scheduler/BackgroundTaskScheduler.cs](https://github.com/NethermindEth/nethermind/commit/f4551c4de1ec1419b6d868eebc357e92cbdbe730) - 2025-07-10
 ## Q2 2025
 
 

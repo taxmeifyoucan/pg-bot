@@ -19,6 +19,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Allow SSZ requests for pending deposits, partial withdrawals and consolidations (#15474)](https://github.com/OffchainLabs/prysm/commit/961ea054543adcf68a84c0c198e9ef2d841a8ee4) - 2025-07-08
 * [Commit] [converted to using an event feed instead of my own channel publishing implementation, adding relevant logs](https://github.com/OffchainLabs/prysm/commit/cfb8a00621cd930b6544e2ebfef2013d04e1c505) - 2025-07-08
 * [Commit] [preston log suggestion](https://github.com/OffchainLabs/prysm/commit/d852e03c3443fc1f7cffb0d2e27a156e8a78f345) - 2025-07-09
+* [Commit] [adding in a unit test](https://github.com/OffchainLabs/prysm/commit/fcb1c01f8c9a23aa8b1cd60b9de3f26ce8a837c9) - 2025-07-10
+* [Commit] [switching enable to disable for duties (#15445)](https://github.com/OffchainLabs/prysm/commit/bc7e4f7751e7bbf7ea5b72d4215c4d9b01576e7e) - 2025-07-10
 ## Q2 2025
 
 

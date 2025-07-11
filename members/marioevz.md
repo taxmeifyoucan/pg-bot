@@ -17,6 +17,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(tests): fix invalid log opcode keyword 7702 fails (#1856)](https://github.com/ethereum/execution-spec-tests/commit/0fe4295f1832abeb39f72097bbb177e59598b3b1) - 2025-07-06
 * [Commit] [fix(filler): type fix](https://github.com/ethereum/execution-spec-tests/commit/a1818da681835a13c49314c7910999f484ddd57f) - 2025-07-08
 * [Commit] [fix(consume): fix consume cache's `--cache-folder` flag (#1851)](https://github.com/ethereum/execution-spec-tests/commit/9915a25a2d047cee383bc8d03d61f2ac6d0b96da) - 2025-07-08
+* [Commit] [docs: Changelog](https://github.com/ethereum/execution-spec-tests/commit/cf56ceac294958c9500e68bc444d959edc6bd2fe) - 2025-07-10
+* [Commit] [feat(forks|tests): add tx wrapper version on per fork basis. (#1892)](https://github.com/ethereum/execution-spec-tests/commit/8f516ce082c978543f270a45709e17ba339fed9a) - 2025-07-10
+* [Commit] [fix: tox](https://github.com/ethereum/execution-spec-tests/commit/97032d638c8ca7d55973a5e63df405d30e9dbe60) - 2025-07-10
+* [Commit] [fix: review comments](https://github.com/ethereum/execution-spec-tests/commit/7edc141d80d08c79aca8b9f2c8323c71dd64bf16) - 2025-07-10
 ## Q2 2025
 
 

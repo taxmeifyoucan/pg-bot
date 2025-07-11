@@ -16,6 +16,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix: prevent invalid range in fee_history when newest_block is pending (#16910)](https://github.com/paradigmxyz/reth/commit/da42c0c5820f86ae385b0d898f4e58428fc902e3) - 2025-07-03
 * [Commit] [chore: make receipt root mismatch log more useful](https://github.com/paradigmxyz/reth/commit/07dccd73d16f8f86e93192760d31a3be155a91a9) - 2025-07-04
 * [Pull Request] [chore: make receipt root mismatch log more useful](https://github.com/paradigmxyz/reth/pull/17225) - 2025-07-04
+* [Commit] [method_name helper](https://github.com/paradigmxyz/reth/commit/75ab97476716cf93ae5f70524d34cbf6095c21af) - 2025-07-10
+* [Pull Request] [feat: support isthmus in reth-bench](https://github.com/paradigmxyz/reth/pull/17351) - 2025-07-10
 ## Q2 2025
 
 

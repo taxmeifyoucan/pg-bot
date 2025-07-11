@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Sync error - `Unexpected rejected execution due to full task queue in storage_query-async`](https://github.com/Consensys/teku/issues/9634) - 2025-07-07
 * [Issue] [Sync error `Block slot not in range`](https://github.com/Consensys/teku/issues/9633) - 2025-07-07
 * [Issue] [`NullPointerException ... because "block" is null`](https://github.com/Consensys/teku/issues/9646) - 2025-07-09
+* [Pull Request] [Refactor ExternalSigner](https://github.com/Consensys/teku/pull/9656) - 2025-07-10
 ## Q2 2025
 
 

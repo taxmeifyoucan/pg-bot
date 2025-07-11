@@ -22,6 +22,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Optimize BuildBlobSidecars Merkle proof computation by pre-computing subtrees](https://github.com/OffchainLabs/prysm/commit/7ea3cf4e1c36adde9f1ff2d298628238bf469b39) - 2025-07-04
 * [Commit] [Optimize BuildBlobSidecars Merkle proof computation by pre-computing subtrees](https://github.com/OffchainLabs/prysm/commit/efd2c8b6478521d4cc54e83fb760600171ff0eb4) - 2025-07-04
 * [Commit] [Optimize BuildBlobSidecars Merkle proof computation by pre-computing subtrees](https://github.com/OffchainLabs/prysm/commit/19bdb6e5738196c8f7930e40850ae4b9f17ce747) - 2025-07-04
+* [Commit] [Builder: handle fulu submit blind block return](https://github.com/OffchainLabs/prysm/commit/08472072f0f00d8120fca10cf3a40c15718e4ae3) - 2025-07-10
+* [Commit] [Numbers should be string instead of float](https://github.com/OffchainLabs/prysm/commit/1389c80736c779602ffd887fefb91510db5da776) - 2025-07-10
+* [Commit] [Numbers should be string instead of float](https://github.com/OffchainLabs/prysm/commit/1bc9c58da1a827c994f3b98f360c7713e32f26a1) - 2025-07-10
+* [Commit] [Numbers should be string instead of float](https://github.com/OffchainLabs/prysm/commit/a234bd5cad272b9abcfed229c3641942e79354a6) - 2025-07-10
+* [Commit] [Numbers should be string instead of float](https://github.com/OffchainLabs/prysm/commit/54ea14c39a70f9db486104a58cd20e6d981bdb9e) - 2025-07-10
 ## Q2 2025
 
 

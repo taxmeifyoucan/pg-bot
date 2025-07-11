@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [crypto(experiment): outline modexp RequiredGas functionality](https://github.com/ethereum/go-ethereum/pull/32184) - 2025-07-10
 ## Q2 2025
 
 

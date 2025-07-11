@@ -16,6 +16,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add soft timeouts to VC, after which VC will use any successful response as the best one. (#7276)](https://github.com/status-im/nimbus-eth2/commit/95370e4c686911cb25dd565959fdce3b077101c1) - 2025-07-07
 
 * [Pull Request] [fix beacon block broadcast not using BPO forkdigests](https://github.com/status-im/nimbus-eth2/pull/7285) - 2025-07-09
+* [Commit] [version v25.7.0](https://github.com/status-im/nimbus-eth2/commit/7a0c310eaa284b7c13592c262b9fbbc011a01117) - 2025-07-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 ## Q2 2025

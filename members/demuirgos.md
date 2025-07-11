@@ -13,6 +13,8 @@ Team: Nethermind
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [extract executionRequests from receipts](https://github.com/NethermindEth/nethermind/commit/566246d734255090c07d838d7c9588d048730ac6) - 2025-07-07
+* [Pull Request] [Feature/debug engine execution payload endpoints](https://github.com/NethermindEth/nethermind/pull/8970) - 2025-07-10
+* [Commit] [Add tests for EngineDebugRpcModule](https://github.com/NethermindEth/nethermind/commit/4c1bcbe8a50ae41ea6a67f65936867e209941753) - 2025-07-10
 ## Q2 2025
 
 

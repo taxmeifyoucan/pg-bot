@@ -20,6 +20,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Fix description of DB read bytes metric](https://github.com/sigp/lighthouse/pull/7716) - 2025-07-08
 * [Pull Request] [Reintroduce `--logfile` with deprecation warning](https://github.com/sigp/lighthouse/pull/7723) - 2025-07-09
 * [Commit] [Change default state cache size back to 128 (#7364)](https://github.com/sigp/lighthouse/commit/6c8770e80d0339e037407cd59e3c41464f1ad385) - 2025-07-09
+* [Commit] [Change default state cache size back to 128 (#7364)](https://github.com/sigp/lighthouse/commit/6c8770e80d0339e037407cd59e3c41464f1ad385) - 2025-07-10
+* [Commit] [Add more range sync tests (#6872)](https://github.com/sigp/lighthouse/commit/d5a03c9d86bf9e68cf6ef93c4cc427e3f8482178) - 2025-07-10
 ## Q2 2025
 
 

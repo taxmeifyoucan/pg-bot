@@ -232,6 +232,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d1e012a4199a56a7689020cc095cf64cd1471359) - 2025-07-09
 * [Pull Request] [[r30] bor: `BOR_AUTHOR_LRU` env variable ](https://github.com/erigontech/erigon/pull/15996) - 2025-07-09
 * [Commit] [save](https://github.com/erigontech/erigon/commit/99a8cd868feda198a6618a14980f29dc936c28bf) - 2025-07-09
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/18a82bfd109f3daf08da1bf63e7b5b0691e2b958) - 2025-07-10
+* [Commit] [rpc: prealloc map to avoid map growing (#15862)](https://github.com/erigontech/erigon/commit/bc303e2fe46df2e8b6faa972ddf1b9d7231b0f8f) - 2025-07-10
 ## Q2 2025
 
 
