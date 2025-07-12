@@ -60,6 +60,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update src/Nethermind/Nethermind.Facade/Simulate/SimulateReadOnlyBlocksProcessingEnvFactory.cs](https://github.com/NethermindEth/nethermind/commit/5f7d5c4c4546e9269d41b8077014d0ae6b0e8f2d) - 2025-07-08
 * [Pull Request] [Make simulate env lazy](https://github.com/NethermindEth/nethermind/pull/8957) - 2025-07-08
 * [Commit] [Make simulate env lazy](https://github.com/NethermindEth/nethermind/commit/8b91797b3b30506ac86b4c43d9dae1b61b7808a2) - 2025-07-08
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/979b6abd7aab579e07bb8022558538cbc16076fd) - 2025-07-11
+* [Commit] [Use reference equals in clock cache (#8947)](https://github.com/NethermindEth/nethermind/commit/e772fe471da5ef2bb3639adf992a5c14f30d1ff0) - 2025-07-11
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/33341c2e72eb8c6cfccf41b589aedb5a90ef5609) - 2025-07-11
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/18311bab0dcf6f373f597780a85cbbd5398c00a7) - 2025-07-11
+* [Commit] [Add unit test](https://github.com/NethermindEth/nethermind/commit/bde51b14c2c86eb85714544fe85a2113df0ea6c6) - 2025-07-11
+* [Commit] [Fix Taiko Engine Api (#8974)](https://github.com/NethermindEth/nethermind/commit/2ae971c6a8b615dfb43d90b648328d197feb56b6) - 2025-07-11
+* [Pull Request] [Fix/blockdownloader download too fast](https://github.com/NethermindEth/nethermind/pull/8975) - 2025-07-11
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/08ed340620b2800903efeb9aeda267f38d01c1d8) - 2025-07-11
+* [Pull Request] [Fix Taiko Engine Api](https://github.com/NethermindEth/nethermind/pull/8974) - 2025-07-11
 ## Q2 2025
 
 

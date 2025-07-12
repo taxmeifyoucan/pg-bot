@@ -52,6 +52,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Only warn about 4444 once](https://github.com/NethermindEth/nethermind/pull/8973) - 2025-07-10
 * [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/a1408d92a1c52e8f3f9750660def277cb50f20c8) - 2025-07-10
 * [Commit] [Update src/Nethermind/Nethermind.Consensus/Scheduler/BackgroundTaskScheduler.cs](https://github.com/NethermindEth/nethermind/commit/f4551c4de1ec1419b6d868eebc357e92cbdbe730) - 2025-07-10
+* [Commit] [merge conflict](https://github.com/NethermindEth/nethermind/commit/2bcb0ef1f6e5318a90ff0903e15d9d087f58628e) - 2025-07-11
+* [Commit] [Reduce `Forward header starting block number did not changed.` exception to log. (#8683)](https://github.com/NethermindEth/nethermind/commit/0218daf633630706f14799c5729245baca8953ac) - 2025-07-11
 ## Q2 2025
 
 

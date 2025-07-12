@@ -39,6 +39,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [allow download of history files needed for receipt fallback](https://github.com/erigontech/erigon/pull/16010) - 2025-07-09
 * [Pull Request] [improve publishable error messages](https://github.com/erigontech/erigon/pull/16008) - 2025-07-09
 * [Issue] [spawn_custom_trace panic in amoy](https://github.com/erigontech/erigon/issues/16003) - 2025-07-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9269691c2d201fa6a083cf624deaa66826332a55) - 2025-07-11
+* [Pull Request] [cp: optimize visibleIdxAvailability](https://github.com/erigontech/erigon/pull/16066) - 2025-07-11
+* [Commit] [optimize visibleIdxAvailability (#16055)](https://github.com/erigontech/erigon/commit/503a509ce384797609a9784c4f82b0e42a68ee84) - 2025-07-11
+* [Pull Request] [set zstd decoder concurrency to 1 (because pool of decoder is already used)](https://github.com/erigontech/erigon/pull/16065) - 2025-07-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/396c0af8f63756aebf652878bdec3d059437878b) - 2025-07-11
+* [Pull Request] [throw error if check name is wrong](https://github.com/erigontech/erigon/pull/16059) - 2025-07-11
+* [Pull Request] [optimize visibleIdxAvailability](https://github.com/erigontech/erigon/pull/16055) - 2025-07-11
 ## Q2 2025
 
 

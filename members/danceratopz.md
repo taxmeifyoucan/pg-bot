@@ -54,6 +54,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed b453f41f2bd to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/7d87c9d20d3c05c838354f4a85a0ff0ee7fbb983) - 2025-07-09
 * [Commit] [Deployed a0bc8121594 to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2bab46501efe50489471d5669a5787780d076873) - 2025-07-09
 * [Commit] [Deployed 8f516ce082c to main with MkDocs 1.6.0 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/177dfba127d8365fde75a4c327e55c1a5c16e690) - 2025-07-10
+* [Commit] [Deployed 646ce0328bc to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/394d0fd2fce6dc66adfb102fe40acc3d9dc2f585) - 2025-07-11
+* [Commit] [Deployed c631bf48405 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2ac55b5e02a902fb806f8488491ab7772ad16338) - 2025-07-11
+* [Commit] [chore(fill): disable writing evm debug information to `./logs/` by default (#1874)](https://github.com/ethereum/execution-spec-tests/commit/c631bf484054b08f4d49af05bcfe2f470f1ad9d7) - 2025-07-11
+* [Commit] [docs(execute): minor improvements to docs](https://github.com/ethereum/execution-spec-tests/commit/7d6309e5222d715288bb4565de514e0c1635b635) - 2025-07-11
 ## Q2 2025
 
 

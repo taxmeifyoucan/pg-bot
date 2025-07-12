@@ -32,6 +32,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(osaka): Update EIP-7939 - update CLZ gas cost (#1879)](https://github.com/ethereum/execution-spec-tests/commit/dac366d60c2fa5a2f3f5b0dbd2b722109c301f1f) - 2025-07-09
 * [Commit] [Add/correct error messages for Nethermind (#1875)](https://github.com/ethereum/execution-spec-tests/commit/b453f41f2bd63373cf437eb14d7e2bd0b4406492) - 2025-07-09
 * [Commit] [chore(cli): show sub-command help string in `execute --help` output (#1878)](https://github.com/ethereum/execution-spec-tests/commit/a0bc8121594daae6bab0584537d61b89fd3f87bf) - 2025-07-09
+* [Commit] [chore(cli): show sub-command help string in `execute --help` output (#1878)](https://github.com/ethereum/execution-spec-tests/commit/a0bc8121594daae6bab0584537d61b89fd3f87bf) - 2025-07-11
+* [Commit] [chore: bump eels ref in github ci again.](https://github.com/ethereum/execution-spec-tests/commit/defaad7363f350c5884d9be781f83cd08d75f1c8) - 2025-07-11
+* [Commit] [chore: fix `test_types` framework test.](https://github.com/ethereum/execution-spec-tests/commit/30d3a1db7226b5ff2f236a3926aafacbc329ad65) - 2025-07-11
+* [Commit] [chore: update eels in ci again.](https://github.com/ethereum/execution-spec-tests/commit/26818c4f0406bcfb2eb445449556d26e36ce2335) - 2025-07-11
+* [Commit] [chore: temp fix for BLS timeouts.](https://github.com/ethereum/execution-spec-tests/commit/55f1151be36d96e116d44916bd02f00c0cd6d4db) - 2025-07-11
+* [Issue] [chore(cli): reduce `NORMAL_SERVER_TIMEOUT` once BLS timeout is fixed](https://github.com/ethereum/execution-spec-tests/issues/1894) - 2025-07-11
+* [Commit] [chore(ci): temp osaka eels res in config 2 (sry).](https://github.com/ethereum/execution-spec-tests/commit/f16348a2c538c57c5de0ecc24ecac40550c07e70) - 2025-07-11
+* [Commit] [chore: bump eels ref in github ci.](https://github.com/ethereum/execution-spec-tests/commit/d9905bd0e1909628d2eb93da96f891bf2503cade) - 2025-07-11
+* [Commit] [chore(tests): small clarifactions.](https://github.com/ethereum/execution-spec-tests/commit/b22ab67a4d8345dd7870c89668747087f1e52175) - 2025-07-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

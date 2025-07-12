@@ -28,6 +28,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Update systemContracts, refactor](https://github.com/NethermindEth/nethermind/commit/e4eaa3902010a235860023f228573f2f4c802b08) - 2025-07-09
 * [Commit] [Add taikoAuth_setHeadL1Origin, taikoAuth_updateL1Origin, BuildPayloadArgsId (#8874)](https://github.com/NethermindEth/nethermind/commit/e6218a8865c9e6f5c03d0e396f88bf3c4810d435) - 2025-07-10
 * [Commit] [Use reference equals in clock cache (#8947)](https://github.com/NethermindEth/nethermind/commit/e772fe471da5ef2bb3639adf992a5c14f30d1ff0) - 2025-07-10
+* [Commit] [Rename blob metrics (#8972)](https://github.com/NethermindEth/nethermind/commit/af748bd20051b4577f0dabcb3f74cd2793488f19) - 2025-07-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

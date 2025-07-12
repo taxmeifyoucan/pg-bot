@@ -18,6 +18,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [chore: make receipt root mismatch log more useful](https://github.com/paradigmxyz/reth/pull/17225) - 2025-07-04
 * [Commit] [method_name helper](https://github.com/paradigmxyz/reth/commit/75ab97476716cf93ae5f70524d34cbf6095c21af) - 2025-07-10
 * [Pull Request] [feat: support isthmus in reth-bench](https://github.com/paradigmxyz/reth/pull/17351) - 2025-07-10
+* [Commit] [fix: small networking fixes (#16742)](https://github.com/paradigmxyz/reth/commit/1bef0092eedb6a1cd87fd181263fd47bcdcdf4de) - 2025-07-11
 ## Q2 2025
 
 

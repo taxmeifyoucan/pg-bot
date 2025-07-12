@@ -37,6 +37,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [txnprovider/shutter: fix missing return on err in connectBootstrapNodes (#15995)](https://github.com/erigontech/erigon/commit/6b9bce091234ffc5006905798324acf00efac83e) - 2025-07-08
 * [Commit] [fixes](https://github.com/erigontech/erigon/commit/cf25f481516e6a2e674f2ba1f5c826e202cc5b4c) - 2025-07-10
 * [Commit] [qa-tests: use 1.67 rpc-test version and enable erigon_getHeaderByHash and number (#16019)](https://github.com/erigontech/erigon/commit/f5e7723aeb94cbea0a350fcbc5796f57834289d9) - 2025-07-10
+* [Commit] [rip: Log.DecodeRLP method (#16036)](https://github.com/erigontech/erigon/commit/dd2e5c07c738fb72d760afb0a557b6e4d3baac83) - 2025-07-11
+* [Commit] [fixes](https://github.com/erigontech/erigon/commit/4e8ad642620e54a2445ec47d8d4b4cf660653b07) - 2025-07-11
 ## Q2 2025
 
 

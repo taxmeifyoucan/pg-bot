@@ -21,6 +21,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(forks|tests): add tx wrapper version on per fork basis. (#1892)](https://github.com/ethereum/execution-spec-tests/commit/8f516ce082c978543f270a45709e17ba339fed9a) - 2025-07-10
 * [Commit] [fix: tox](https://github.com/ethereum/execution-spec-tests/commit/97032d638c8ca7d55973a5e63df405d30e9dbe60) - 2025-07-10
 * [Commit] [fix: review comments](https://github.com/ethereum/execution-spec-tests/commit/7edc141d80d08c79aca8b9f2c8323c71dd64bf16) - 2025-07-10
+* [Commit] [fix(plugins/consume): rename folder (#1897)](https://github.com/ethereum/execution-spec-tests/commit/0f7c73a7e177abf58cdba116a3b4275e9be9a61b) - 2025-07-11
+* [Pull Request] [fix(plugins/consume): Rename `hive_tests` to `simulator_logic`](https://github.com/ethereum/execution-spec-tests/pull/1897) - 2025-07-11
+* [Commit] [feat(clis,pytest-plugins): allow pytest commands from package, add`execute eth-config` command (#1863)](https://github.com/ethereum/execution-spec-tests/commit/646ce0328bc55269a2d8d96eabf7c620659d0010) - 2025-07-11
+* [Commit] [chore(tests): set tx gas limit to 2^24 (#1882)](https://github.com/ethereum/execution-spec-tests/commit/d53769f9527891a435195246b21ca15badbd1e40) - 2025-07-11
 ## Q2 2025
 
 

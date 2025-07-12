@@ -8,6 +8,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Agumb
 
 ## Contributions
 
+## Q3 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Andrei Maiboroda](https://github.com/protocolguild/documentation/pull/377) - 2025-07-11
 ## Q2 2025
 
 

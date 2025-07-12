@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [feat: add prometheus metrics consumer and configuration options](https://github.com/NethermindEth/nethermind/commit/788d75b6db7889f253fe99348804d345fd9545eb) - 2025-07-11
 ## Q2 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

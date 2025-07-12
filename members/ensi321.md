@@ -13,6 +13,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Commit] [Address @nflaig's comment](https://github.com/ChainSafe/lodestar/commit/7e2db14acac1d92cb6eaabce47969e874c774210) - 2025-07-01
+* [Commit] [feat: track on chain proposer rewards per block (#8018)](https://github.com/ChainSafe/lodestar/commit/2fdd3fa446964d8f1f5c88c822cdbb88920090ca) - 2025-07-11
 ## Q2 2025
 
 

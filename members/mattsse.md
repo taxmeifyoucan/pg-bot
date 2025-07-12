@@ -47,6 +47,10 @@ Team: Reth
 * [Pull Request] [chore: replace CacheDb with trait bounds](https://github.com/paradigmxyz/reth/pull/17315) - 2025-07-09
 * [Commit] [chore: relax era export bounds (#17312)](https://github.com/paradigmxyz/reth/commit/162568b297e4e20cd95530d78d2c0ed9ef26c124) - 2025-07-09
 * [Pull Request] [chore: relax era export bounds](https://github.com/paradigmxyz/reth/pull/17312) - 2025-07-09
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/f605ab9a7344dbc492fad95ada5899f2b19c24b3) - 2025-07-11
+* [Commit] [fix: update bitflag functions to respect generics in Compact derive](https://github.com/paradigmxyz/reth/commit/9b4704f63ab73590dc8eb42435721359647265a7) - 2025-07-11
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/ac0bf3be3e5ff1563056e17951ddb110560fe83e) - 2025-07-11
+* [Pull Request] [feat: add generic type parameter support to Compact derive macro](https://github.com/paradigmxyz/reth/pull/17366) - 2025-07-11
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

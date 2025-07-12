@@ -49,6 +49,10 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/11bfd41b76784c45c5094ac30207c5eca4710ce0) - 2025-07-09
 * [Commit] [save](https://github.com/erigontech/erigon/commit/c2d2978576220c77d0d2461ad1c1e88958e58070) - 2025-07-09
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9286c9d4b2b13f0d666a0ce79142d73b2b0403c7) - 2025-07-10
+* [Commit] [fulu devnet2 (#15824)](https://github.com/erigontech/erigon/commit/95af2e27d678a3de56867fe4b6ce07da7c0c54af) - 2025-07-11
+* [Commit] [Erigon 3: Made --persist.receipt default for all node types except archive (#16040)](https://github.com/erigontech/erigon/commit/dfbc45bc9b387d2f21bb5a09a6af325b330c53f7) - 2025-07-11
+* [Commit] [integrity recover to check filename (#16033)](https://github.com/erigontech/erigon/commit/b97a267f62029a0ee5b3b954090b09356379cfb6) - 2025-07-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e45e5255260707184d992d2468571c8115a41580) - 2025-07-11
 ## Q2 2025
 
 

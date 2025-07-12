@@ -24,6 +24,20 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [feat(stateless): simplify `Database` implementation for `WitnessDatabase` (#16820)](https://github.com/paradigmxyz/reth/commit/0b2336ddb626abd94f5caeee305f89f7d972fa5c) - 2025-07-08
 * [Commit] [test_eth_get_logs_compat multi thread](https://github.com/paradigmxyz/reth/commit/8633331ca9f13c4c674ae8bba6220e7a3df5067b) - 2025-07-08
 * [Commit] [simplify block_has_matching_logs to use TxReceipt trait bound directly](https://github.com/paradigmxyz/reth/commit/7447f264d605710162b6240bba1f423007c3e930) - 2025-07-10
+* [Pull Request] [chore(ci): unpin hive](https://github.com/paradigmxyz/reth/pull/17370) - 2025-07-11
+* [Commit] [trigger CI](https://github.com/paradigmxyz/reth/commit/9716d238d872b07656be0e17bcd39029a13e418e) - 2025-07-11
+* [Commit] [debug](https://github.com/paradigmxyz/reth/commit/a70bbde7a0e75362894a8d9a81be006c8ff1b876) - 2025-07-11
+* [Commit] [set cache targets](https://github.com/paradigmxyz/reth/commit/f92afd97a22b0ab90993babe7d3bf7d87621fb18) - 2025-07-11
+* [Commit] [bump rust-cache](https://github.com/paradigmxyz/reth/commit/7b0cde193d98c2dfbb413bc4e297d705ace30bbe) - 2025-07-11
+* [Commit] [cache workspace crates](https://github.com/paradigmxyz/reth/commit/0186e5998f26b83955b32a7c1c24011143a98a04) - 2025-07-11
+* [Commit] [trigger CI](https://github.com/paradigmxyz/reth/commit/2ea5760edfd89f62a4882cebb9f65bd6717f9e60) - 2025-07-11
+* [Commit] [save cache after build completes](https://github.com/paradigmxyz/reth/commit/9f5c5419939cde0599e9a804d72707134e795df7) - 2025-07-11
+* [Commit] [trigger CI](https://github.com/paradigmxyz/reth/commit/23770362cb32252372ca3f97fe678963dc6b78f4) - 2025-07-11
+* [Commit] [fix shared keys](https://github.com/paradigmxyz/reth/commit/817ad705f4b7257f0092aba34affd0c2777b9d50) - 2025-07-11
+* [Commit] [shared-key specific to workflow and common prefix-key](https://github.com/paradigmxyz/reth/commit/f5e42a40f0c6c086d2305159eee14712650e8bcb) - 2025-07-11
+* [Commit] [trigger CI](https://github.com/paradigmxyz/reth/commit/7ac6fd34b0590adcffd9f143a4bd2983d56197d1) - 2025-07-11
+* [Pull Request] [feat(ci): use shared cache key for all nextest actions](https://github.com/paradigmxyz/reth/pull/17364) - 2025-07-11
+* [Commit] [feat(ci): use shared cache key for all nextest actions](https://github.com/paradigmxyz/reth/commit/e4d7b57f2e472581e90bb551ded69db9a563454d) - 2025-07-11
 ## Q2 2025
 
 

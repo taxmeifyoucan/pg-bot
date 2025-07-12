@@ -15,6 +15,7 @@ Team: Grandine
 * [Pull Request] [Add `PubkeyCache` that stores decompressed pubkey bytes:](https://github.com/grandinetech/grandine/pull/243) - 2025-07-01
 * [Commit] [Add `PubkeyCache` that stores decompressed pubkey bytes:](https://github.com/grandinetech/grandine/commit/9d7fa42d998f4fe135c3c5218e7341da912102ca) - 2025-07-03
 * [Commit] [HTTP API: allow to query validator duties for old epochs](https://github.com/grandinetech/grandine/commit/4e9bc0163f566baf4f4d1cb9f451572b736648e0) - 2025-07-03
+* [Pull Request] [Preprocess state for late blocks if imported before attesting interval](https://github.com/grandinetech/grandine/pull/253) - 2025-07-11
 ## Q2 2025
 
 

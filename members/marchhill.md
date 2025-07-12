@@ -23,6 +23,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Reprice EIP-7951 (#8938)](https://github.com/NethermindEth/nethermind/commit/8c7b4cf1fecde121231f27f89f8995b88cab6943) - 2025-07-08
 * [Commit] [tidy](https://github.com/NethermindEth/nethermind/commit/6e32fb1c61fd9ba3091c257dd8ae12155c8724ba) - 2025-07-10
 * [Commit] [update delete pointer to first block number found](https://github.com/NethermindEth/nethermind/commit/e98c4ffcbc085f62eff30691e200958912866455) - 2025-07-10
+* [Commit] [start fixing tests](https://github.com/NethermindEth/nethermind/commit/1e8050c4338cccc33dbcf05d043e81f8f5b5f964) - 2025-07-11
+* [Commit] [Renable targeted GC cleanup (#8961)](https://github.com/NethermindEth/nethermind/commit/79b5d17981735c63b5776004fe1da43ac99cddbf) - 2025-07-11
 ## Q2 2025
 
 

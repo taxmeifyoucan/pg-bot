@@ -30,6 +30,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/08fc07b28d0d3212933329dae10c3e32e41eaba2) - 2025-07-06
 * [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/56bc508501e2b395c7f9ed5f4ac07733afbe0468) - 2025-07-06
 * [Commit] [`subscribeWithParameters`: Use struct to avoid too many function parameters (no functional changes).](https://github.com/OffchainLabs/prysm/commit/765a7d8617973debbba59db3eae182973888dc74) - 2025-07-06
+* [Commit] [Add batch verifier limit (#15467)](https://github.com/OffchainLabs/prysm/commit/f4bbe5ca40eee27eafdb743c454357022a4f9693) - 2025-07-11
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/f055d6903efa12896da557d23c65e1954466a5da) - 2025-07-11
+* [Commit] [Fix build.](https://github.com/OffchainLabs/prysm/commit/a16e09e85ea17529a86dca8548325fa64499c169) - 2025-07-11
 ## Q2 2025
 
 

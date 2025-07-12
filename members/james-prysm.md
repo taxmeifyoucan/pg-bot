@@ -21,6 +21,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [preston log suggestion](https://github.com/OffchainLabs/prysm/commit/d852e03c3443fc1f7cffb0d2e27a156e8a78f345) - 2025-07-09
 * [Commit] [adding in a unit test](https://github.com/OffchainLabs/prysm/commit/fcb1c01f8c9a23aa8b1cd60b9de3f26ce8a837c9) - 2025-07-10
 * [Commit] [switching enable to disable for duties (#15445)](https://github.com/OffchainLabs/prysm/commit/bc7e4f7751e7bbf7ea5b72d4215c4d9b01576e7e) - 2025-07-10
+* [Commit] [validator client: removing need to call canonical head api (#15480)](https://github.com/OffchainLabs/prysm/commit/83943b5dd83da33a617433d8b0247b6a52c10859) - 2025-07-11
+* [Commit] [adding additional log for debugging](https://github.com/OffchainLabs/prysm/commit/f2659c092d84b52f43d47f92dafc2d709dbc2ee0) - 2025-07-11
+* [Commit] [removing redundant switch fields](https://github.com/OffchainLabs/prysm/commit/a2660f76a5f4e9c12547919d81339cd3bf083e19) - 2025-07-11
+* [Commit] [fixing linting](https://github.com/OffchainLabs/prysm/commit/40cd4a7fa106e53b6a7cb70989118d6eddd87c82) - 2025-07-11
+* [Commit] [`VerifiedROBlobFromDisk` and `VerifiedRODataColumnFromDisk`: Add tests. (#15484)](https://github.com/OffchainLabs/prysm/commit/02f8726e460332232598a2e8eaf3cb4f1f772502) - 2025-07-11
+* [Commit] [removing unused function](https://github.com/OffchainLabs/prysm/commit/92649ead7af40a3a9e242ea9817e41aeddec14d5) - 2025-07-11
+* [Commit] [more generalized implementation for nested objects](https://github.com/OffchainLabs/prysm/commit/ca403f4f7694654370f6bab81b8da3a883bb5384) - 2025-07-11
 ## Q2 2025
 
 

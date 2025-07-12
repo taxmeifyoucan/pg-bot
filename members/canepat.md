@@ -23,6 +23,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [qa_tests: one-liner for Gnosis+Polygon RPC Integration Tests (#15991)](https://github.com/erigontech/erigon/commit/b8afc24045a6e949e48e57da61ea922ef6e0005b) - 2025-07-08
 * [Pull Request] [qa_tests: adjust runner labels in RPC Integration Tests](https://github.com/erigontech/erigon/pull/16009) - 2025-07-09
 * [Commit] [qa_tests: move RPC perf tests to dedicated runner (#15913)](https://github.com/erigontech/erigon/commit/3c062cb616a96d55adb49969a90555019f673911) - 2025-07-09
+* [Commit] [Temporarily disabled erigon_getHeaderBy tests for Gnosis](https://github.com/erigontech/erigon/commit/2ac2f9114ee11929737743fd4579519233eeb853) - 2025-07-11
+* [Commit] [qa-tests: fix TEST_RESULT_DIR in RPC Integration workflows (#16068)](https://github.com/erigontech/erigon/commit/56d0a3de0f08b8c2d7f291cb4760f2daa27a4ad8) - 2025-07-11
+* [Pull Request] [qa-tests: fix TEST_RESULT_DIR in RPC Integration workflows](https://github.com/erigontech/erigon/pull/16068) - 2025-07-11
+* [Commit] [fix TEST_RESULT_DIR env var](https://github.com/erigontech/erigon/commit/1ab73abeca0bb4f1a2d1d497c0f9f39e7f86015c) - 2025-07-11
+* [Commit] [fix TEST_RESULT_DIR env var](https://github.com/erigontech/erigon/commit/c4584a258d1fde4a22ecf599a27a5aea1863843f) - 2025-07-11
+* [Commit] [enable erigon_getHeaderBy tests in Ethereum mainnet](https://github.com/erigontech/erigon/commit/cd297da3e4e0301011a0aaacb36b7663dd2e91f9) - 2025-07-11
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -234,6 +234,30 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/99a8cd868feda198a6618a14980f29dc936c28bf) - 2025-07-09
 * [Commit] [merge main](https://github.com/erigontech/erigon/commit/18a82bfd109f3daf08da1bf63e7b5b0691e2b958) - 2025-07-10
 * [Commit] [rpc: prealloc map to avoid map growing (#15862)](https://github.com/erigontech/erigon/commit/bc303e2fe46df2e8b6faa972ddf1b9d7231b0f8f) - 2025-07-10
+* [Commit] [remove redundant AppendReceipt call (#16031)](https://github.com/erigontech/erigon/commit/2e55ea5b0816ebbe4084b3702cef048222955803) - 2025-07-11
+* [Pull Request] [rlp: use .ReadBytes() in other places](https://github.com/erigontech/erigon/pull/16067) - 2025-07-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/579eb7c34e7c0c31469a52b8c187673ffd04ff5c) - 2025-07-11
+* [Commit] [cp: optimize visibleIdxAvailability (#16066)](https://github.com/erigontech/erigon/commit/8b2846bb3fdf57a427f4b72007c97b334d676ad7) - 2025-07-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5705fcba5e484a7920b9661d4505052cf2708a72) - 2025-07-11
+* [Commit] [[r30] reduce immutability limit - to speedup TxLookup table prune (#16051)](https://github.com/erigontech/erigon/commit/a1cdb2839aee180927978249a51eaaf658d4779a) - 2025-07-11
+* [Commit] [[r30] reduce prune state batch size - to make it more time-determenistic (#16058)](https://github.com/erigontech/erigon/commit/adb8f9f04009c675d2e3474501a0243f3ef4328a) - 2025-07-11
+* [Commit] [Update version.go (#16053)](https://github.com/erigontech/erigon/commit/57c6de5da65517cd329f39b319f6c643b0bbb038) - 2025-07-11
+* [Commit] [Fix endId calculation logic (#16044)](https://github.com/erigontech/erigon/commit/cd2fbed828635ccf3affc89cd799bcf11386a112) - 2025-07-11
+* [Commit] [[r30] stage_senders: to use less RAM (#16061)](https://github.com/erigontech/erigon/commit/97bdd8a369bb7af3460bf28c103a87199003f08c) - 2025-07-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a2946ffdeff1be7bdc48ae404cd01ef1a746f776) - 2025-07-11
+* [Commit] [throw error if integrity check name is wrong (#16059)](https://github.com/erigontech/erigon/commit/2fd0194f2a22d7e6d950cfe0619c31cee45ecc0c) - 2025-07-11
+* [Commit] [disable rcache integrity check for system tx (#16054)](https://github.com/erigontech/erigon/commit/df6ce743dd599086a2b625e079a0553d8cf373fa) - 2025-07-11
+* [Commit] [Add WebSeed download rate flag (#15912)](https://github.com/erigontech/erigon/commit/f3c53a54ebe62944633369862204570373dc5a3d) - 2025-07-11
+* [Issue] [rpcd: to not call `server.Snapshots()` - scan datadir by self](https://github.com/erigontech/erigon/issues/16064) - 2025-07-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8a28c58cc170f50b40e4e0f843578c176970eecf) - 2025-07-11
+* [Issue] [fix TestService_ProcessNewBlocksWithOverride in `3.0`](https://github.com/erigontech/erigon/issues/16062) - 2025-07-11
+* [Commit] [[r31] PagedWriter: zstd buf reset (#16023)](https://github.com/erigontech/erigon/commit/0d3337a8091cfe04734e5166e94654c872488397) - 2025-07-11
+* [Pull Request] [[r30] stage_senders: to use less RAM](https://github.com/erigontech/erigon/pull/16061) - 2025-07-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cecefdf9b1b3f3a50b38ed56312e88cf7081bc32) - 2025-07-11
+* [Commit] [[r30] blocks pruning hard-timeout (#16050)](https://github.com/erigontech/erigon/commit/a6de85621e8a028fadfa091b0f5e9155b931b9b5) - 2025-07-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/594039706e994b3950927cd9652d4d36e82fcfd1) - 2025-07-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/82f56d200cec98a46d9cae882380cacd9d9c2f96) - 2025-07-11
+* [Pull Request] [[r30] reduce prune state batch size - to make it more time-determenistic](https://github.com/erigontech/erigon/pull/16058) - 2025-07-11
 ## Q2 2025
 
 

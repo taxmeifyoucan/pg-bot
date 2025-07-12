@@ -95,6 +95,12 @@ Team: Reth
 * [Issue] [Spawn `StorageRoot` in tokio blocking task, not rayon](https://github.com/paradigmxyz/reth/issues/17288) - 2025-07-08
 * [Pull Request] [fix(trie): duplicate hash mask check in sparse trie implementations](https://github.com/paradigmxyz/reth/pull/17316) - 2025-07-09
 * [Commit] [fix: correct duplicate hash mask check in sparse trie implementations](https://github.com/paradigmxyz/reth/commit/21c09f62c56887c290eb820d76f576914c43c08d) - 2025-07-09
+* [Commit] [move to inner function](https://github.com/paradigmxyz/reth/commit/00eb1f155e4b8cd9bca27a0e282d43446c4493c6) - 2025-07-11
+* [Commit] [move to inner function](https://github.com/paradigmxyz/reth/commit/e45f4a54855eff8aa6fde30eff638dfcc50c27db) - 2025-07-11
+* [Commit] [move to inner function](https://github.com/paradigmxyz/reth/commit/5b1b378007ba3036f0b6b59da1270d0eac3b5f8d) - 2025-07-11
+* [Commit] [move to inner function](https://github.com/paradigmxyz/reth/commit/39bfbc9e20d134c6e3c3d681ce415753760e49b5) - 2025-07-11
+* [Commit] [perf(engine): clear accounts trie in background to not block state root result](https://github.com/paradigmxyz/reth/commit/ed6fe55aeeeb68319b38e17b07dbe0869b64d700) - 2025-07-11
+* [Pull Request] [perf(engine): clear accounts trie in background to not block state root](https://github.com/paradigmxyz/reth/pull/17369) - 2025-07-11
 ## Q2 2025
 
 

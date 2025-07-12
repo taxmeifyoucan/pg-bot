@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [chore: update blob base cost](https://github.com/hyperledger/besu/pull/8926) - 2025-07-08
 * [Pull Request] [chore: double P256VERIFY cost](https://github.com/hyperledger/besu/pull/8925) - 2025-07-08
 * [Pull Request] [feat: getBlobsV2 devnet 3 changes](https://github.com/hyperledger/besu/pull/8924) - 2025-07-08
+* [Pull Request] [feat: use codeSize from flatdb for extcodesize](https://github.com/hyperledger/besu/pull/8950) - 2025-07-11
 ## Q2 2025
 
 

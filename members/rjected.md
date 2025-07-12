@@ -23,6 +23,7 @@ Team: Reth
 * [Commit] [chore(trie): impl SparseTrieInterface for either::Either](https://github.com/paradigmxyz/reth/commit/eedd6116d1f03322625cf5036e1bc6dac9db44fb) - 2025-07-10
 * [Commit] [chore(trie): impl SparseTrieInterface for either::Either](https://github.com/paradigmxyz/reth/commit/8eac53fd8816ce08588382afaa6e0b7c06143610) - 2025-07-10
 * [Commit] [feat(test): add rpc e2e tests (#17284)](https://github.com/paradigmxyz/reth/commit/3ba16128affa7467d41d1489abe1eb8cade262ae) - 2025-07-10
+* [Commit] [chore(trie): collapse match arms with is_revealed](https://github.com/paradigmxyz/reth/commit/d5f42f8dede9a4164d25184ea5d805b5589896a6) - 2025-07-11
 ## Q2 2025
 
 

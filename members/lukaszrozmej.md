@@ -19,6 +19,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Only return peers in admin_peers that match the network id (#8915)](https://github.com/NethermindEth/nethermind/commit/25d24411720591e015bd9c587261916b81f27817) - 2025-07-07
 * [Commit] [fix test](https://github.com/NethermindEth/nethermind/commit/0de10b696523f5f28141d30b58044504733a07c7) - 2025-07-10
 * [Pull Request] [Better null-ckecks in TryGetCanonicalTransaction](https://github.com/NethermindEth/nethermind/pull/8969) - 2025-07-10
+* [Commit] [Better null-ckecks in TryGetCanonicalTransaction (#8969)](https://github.com/NethermindEth/nethermind/commit/f41549984556c974977d7d8d8b3bc4cd2c36c211) - 2025-07-11
 ## Q2 2025
 
 
