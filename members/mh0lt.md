@@ -30,6 +30,8 @@ Team: Erigon
 * [Commit] [Add versioning check for recovery (#15968)](https://github.com/erigontech/erigon/commit/b810e9847cbe04400824e22db6efaa10c69f5ab2) - 2025-07-08
 * [Commit] [Expose debug mux to downstream components (#15982)](https://github.com/erigontech/erigon/commit/b7ab135e80f629eb945b836a75ab372a3e291d27) - 2025-07-08
 * [Commit] [purify parse files fix (#15973)](https://github.com/erigontech/erigon/commit/c8d86cc4f8d5704d41b4b9f04a5b41bd509c70ee) - 2025-07-09
+* [Commit] [remove polygonSync](https://github.com/erigontech/erigon/commit/a2988ec1d26c2be3a874cee8128e98a8600f03d3) - 2025-07-12
+* [Commit] [Cherry pick state sync overrides (#16063)](https://github.com/erigontech/erigon/commit/3b206481c595bb1aea4aa410eca5d1667fee0405) - 2025-07-12
 ## Q2 2025
 
 

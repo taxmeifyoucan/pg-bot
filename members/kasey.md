@@ -29,6 +29,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [set custom genesis in tests where needed](https://github.com/OffchainLabs/prysm/commit/792c259b19b9966f1897a70a1fa4a64b8353f05a) - 2025-07-09
 * [Commit] [don't try to use db to save genesis in test](https://github.com/OffchainLabs/prysm/commit/0e4a1b6f405d0f16de37a5847d6b37e43dafa1ef) - 2025-07-09
 * [Commit] [more test patches](https://github.com/OffchainLabs/prysm/commit/82aa67415e044373b148abe847a24918bb10b0a6) - 2025-07-09
+* [Commit] [lint](https://github.com/OffchainLabs/prysm/commit/0d957ee530d72fd7d18e41b69612d60c7b20bcfd) - 2025-07-12
+* [Commit] [test setup fixes](https://github.com/OffchainLabs/prysm/commit/529dbb88cc0e443abe93c230a7644dd11f5be0d6) - 2025-07-12
+* [Commit] [test setup fixes](https://github.com/OffchainLabs/prysm/commit/580f97265eb4695a5726d64586e2da8b85548c92) - 2025-07-12
+* [Commit] [limit direct uses of signing.ComputeForkDigest](https://github.com/OffchainLabs/prysm/commit/528d644cb01fddfe7c2215b3d9dca27ca6decd19) - 2025-07-12
+* [Commit] [fix pubsub topic tests](https://github.com/OffchainLabs/prysm/commit/17bb8d1c4d244821f046b812724dba64f1d271dc) - 2025-07-12
+* [Commit] [rewrite signing domain tests](https://github.com/OffchainLabs/prysm/commit/a6dd9f2311b5110e789ad3546be4a2b9914b0614) - 2025-07-12
+* [Commit] [rewrite signing domain tests](https://github.com/OffchainLabs/prysm/commit/74283d5bb7079ef895efb9b78af918deb101da6b) - 2025-07-12
 ## Q2 2025
 
 

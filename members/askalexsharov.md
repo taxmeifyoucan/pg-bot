@@ -258,6 +258,18 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/594039706e994b3950927cd9652d4d36e82fcfd1) - 2025-07-11
 * [Commit] [save](https://github.com/erigontech/erigon/commit/82f56d200cec98a46d9cae882380cacd9d9c2f96) - 2025-07-11
 * [Pull Request] [[r30] reduce prune state batch size - to make it more time-determenistic](https://github.com/erigontech/erigon/pull/16058) - 2025-07-11
+* [Commit] [double register url in hot-fix (#16076)](https://github.com/erigontech/erigon/commit/04c6d1b39add919c240e317881103ae25ea659b9) - 2025-07-12
+* [Commit] [more deterministic prune (#16069)](https://github.com/erigontech/erigon/commit/3b4bb45bfb8bd722ac0d8a75a5988f4233434808) - 2025-07-12
+* [Commit] [Makefile: Add fusaka maker (#15419)](https://github.com/erigontech/erigon/commit/889b3d4e55fdb370dcabe1ffee2e98f9f2762c13) - 2025-07-12
+* [Commit] [recsplit: internal existence filter based on `fuse_filter`. only `.efi` and `.kvi` files (#15960)](https://github.com/erigontech/erigon/commit/ffa51b478df58056e3234288bb0000339e7bda83) - 2025-07-12
+* [Commit] [txpool: Bump default txpool blob limits (#15763)](https://github.com/erigontech/erigon/commit/f8d2cb287391d9b361e8ee9187d295d3890df701) - 2025-07-12
+* [Commit] [optimize: reduce sortedAllocKeys memory allocations (#15628)](https://github.com/erigontech/erigon/commit/bb9ed875cfeb2ff2e5d06d7aed5ab34384d27acb) - 2025-07-12
+* [Commit] [rip: Log.DecodeRLP method (#16036)](https://github.com/erigontech/erigon/commit/dd2e5c07c738fb72d760afb0a557b6e4d3baac83) - 2025-07-12
+* [Commit] [qa_tests: move RPC perf tests to dedicated runner (#15913)](https://github.com/erigontech/erigon/commit/3c062cb616a96d55adb49969a90555019f673911) - 2025-07-12
+* [Commit] [[r30] r_lru: no clone (#15998)](https://github.com/erigontech/erigon/commit/c4541603ef308cf8f79b0485007ddc38ef3b2ed6) - 2025-07-12
+* [Pull Request] [double register url in hot-fix](https://github.com/erigontech/erigon/pull/16076) - 2025-07-12
+* [Commit] [Fix broken file paths in stagedsync docs (#16056)](https://github.com/erigontech/erigon/commit/11a7d86327bfa035cf8708f552f127d27d816ad8) - 2025-07-12
+* [Issue] [time-deterministic prune. step 2](https://github.com/erigontech/erigon/issues/16075) - 2025-07-12
 ## Q2 2025
 
 

@@ -54,6 +54,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update src/Nethermind/Nethermind.Consensus/Scheduler/BackgroundTaskScheduler.cs](https://github.com/NethermindEth/nethermind/commit/f4551c4de1ec1419b6d868eebc357e92cbdbe730) - 2025-07-10
 * [Commit] [merge conflict](https://github.com/NethermindEth/nethermind/commit/2bcb0ef1f6e5318a90ff0903e15d9d087f58628e) - 2025-07-11
 * [Commit] [Reduce `Forward header starting block number did not changed.` exception to log. (#8683)](https://github.com/NethermindEth/nethermind/commit/0218daf633630706f14799c5729245baca8953ac) - 2025-07-11
+* [Commit] [Fix/OOM when downloading from genesis. (#8975)](https://github.com/NethermindEth/nethermind/commit/3efda4c86822fe2b24bedb0373278371a4938bfb) - 2025-07-12
+* [Commit] [Remove use of Linq.Sum from hot paths](https://github.com/NethermindEth/nethermind/commit/e3253853a20f508bdf4a907546ad125ae14d6f7c) - 2025-07-12
+* [Commit] [Reapply "Use reference equals in clock cache (#8947)"](https://github.com/NethermindEth/nethermind/commit/0f3cdf8093721a913d446e63ad0de27d27b91ea4) - 2025-07-12
+* [Commit] [Cache PropertyInfo lookups for JsonRpc (#8976)](https://github.com/NethermindEth/nethermind/commit/5ff551190c60c8fe17ce8252f797baa9f80aaff7) - 2025-07-12
+* [Commit] [Fix/OOM when downloading from genesis. (#8975)](https://github.com/NethermindEth/nethermind/commit/99e52db57d3450d0326788d5e0351745c1a19547) - 2025-07-12
+* [Pull Request] [Remove use of Linq.Sum from hot paths](https://github.com/NethermindEth/nethermind/pull/8977) - 2025-07-12
+* [Pull Request] [Cache PropertyInfo lookups for JsonRpc](https://github.com/NethermindEth/nethermind/pull/8976) - 2025-07-12
+* [Commit] [Cache PropertyInfo lookups for JsonRpc](https://github.com/NethermindEth/nethermind/commit/c9e12873e072c2188f947169b1f5e4de1644f142) - 2025-07-12
 ## Q2 2025
 
 

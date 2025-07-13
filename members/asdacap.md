@@ -69,6 +69,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix/blockdownloader download too fast](https://github.com/NethermindEth/nethermind/pull/8975) - 2025-07-11
 * [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/08ed340620b2800903efeb9aeda267f38d01c1d8) - 2025-07-11
 * [Pull Request] [Fix Taiko Engine Api](https://github.com/NethermindEth/nethermind/pull/8974) - 2025-07-11
+* [Pull Request] [Separate branch and block processor](https://github.com/NethermindEth/nethermind/pull/8980) - 2025-07-13
+* [Commit] [Separate branch and block processor](https://github.com/NethermindEth/nethermind/commit/13eab8bb01436b97955d1fb22b6e15527bd3a477) - 2025-07-13
+* [Commit] [Rename and move](https://github.com/NethermindEth/nethermind/commit/1a73d2df3ddb7e1c279ce5c2a46baf61918a7e9e) - 2025-07-13
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/6214f028837760a0e8e253f04161163ae813ee57) - 2025-07-12
+* [Commit] [Whitesace](https://github.com/NethermindEth/nethermind/commit/e87b3df170338ae7abc730773f4173f6a7071330) - 2025-07-12
 ## Q2 2025
 
 

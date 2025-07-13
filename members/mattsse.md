@@ -51,6 +51,7 @@ Team: Reth
 * [Commit] [fix: update bitflag functions to respect generics in Compact derive](https://github.com/paradigmxyz/reth/commit/9b4704f63ab73590dc8eb42435721359647265a7) - 2025-07-11
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/ac0bf3be3e5ff1563056e17951ddb110560fe83e) - 2025-07-11
 * [Pull Request] [feat: add generic type parameter support to Compact derive macro](https://github.com/paradigmxyz/reth/pull/17366) - 2025-07-11
+* [Commit] [docs: fix link to installation (#17375)](https://github.com/paradigmxyz/reth/commit/e9389dc640f464e5366da6255b5daaa8b48e778e) - 2025-07-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

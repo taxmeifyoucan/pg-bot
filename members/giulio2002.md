@@ -53,6 +53,12 @@ Team: Erigon
 * [Commit] [Erigon 3: Made --persist.receipt default for all node types except archive (#16040)](https://github.com/erigontech/erigon/commit/dfbc45bc9b387d2f21bb5a09a6af325b330c53f7) - 2025-07-11
 * [Commit] [integrity recover to check filename (#16033)](https://github.com/erigontech/erigon/commit/b97a267f62029a0ee5b3b954090b09356379cfb6) - 2025-07-11
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e45e5255260707184d992d2468571c8115a41580) - 2025-07-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1523535fef1c27db0249304771048c055ef101d3) - 2025-07-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3b34f327bc7cae14065690882805482d5b1445a0) - 2025-07-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/97827186abe5b6feb7068060ee50a223f3d6c022) - 2025-07-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/90362750ae39b9bc67364ab8e9d503d2c1929b63) - 2025-07-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/610b7ee8e07f748eb02790544179547d747e63e2) - 2025-07-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/af1bf6098e04217301506608cae7359db28fd8a0) - 2025-07-12
 ## Q2 2025
 
 

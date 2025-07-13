@@ -13,6 +13,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [convert create suicide store test](https://github.com/ethereum/execution-spec-tests/pull/1867) - 2025-07-07
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove winsvega](https://github.com/protocolguild/documentation/pull/378) - 2025-07-12
 ## Q2 2025
 
 

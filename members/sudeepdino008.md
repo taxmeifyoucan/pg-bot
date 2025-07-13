@@ -46,6 +46,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/396c0af8f63756aebf652878bdec3d059437878b) - 2025-07-11
 * [Pull Request] [throw error if check name is wrong](https://github.com/erigontech/erigon/pull/16059) - 2025-07-11
 * [Pull Request] [optimize visibleIdxAvailability](https://github.com/erigontech/erigon/pull/16055) - 2025-07-11
+* [Commit] [disable mainnet-rpc-integ-tests workflow](https://github.com/erigontech/erigon/commit/c6e842b783c4f12eff34ea767c987e2650e39930) - 2025-07-12
+* [Pull Request] [experiment](https://github.com/erigontech/erigon/pull/16074) - 2025-07-12
 ## Q2 2025
 
 

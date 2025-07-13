@@ -38,6 +38,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [trigger CI](https://github.com/paradigmxyz/reth/commit/7ac6fd34b0590adcffd9f143a4bd2983d56197d1) - 2025-07-11
 * [Pull Request] [feat(ci): use shared cache key for all nextest actions](https://github.com/paradigmxyz/reth/pull/17364) - 2025-07-11
 * [Commit] [feat(ci): use shared cache key for all nextest actions](https://github.com/paradigmxyz/reth/commit/e4d7b57f2e472581e90bb551ded69db9a563454d) - 2025-07-11
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/d0cd10600757e88350897c8ef9c6dd010e1ea756) - 2025-07-12
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/e1b2f27fe4bc1dc8b6e20fab919fd2ed4b5e6fbb) - 2025-07-12
+* [Commit] [perf(engine): clear accounts trie in background to not block state root (#17369)](https://github.com/paradigmxyz/reth/commit/80767f1f3016d0298bd0646a78618f0b740c8089) - 2025-07-12
 ## Q2 2025
 
 

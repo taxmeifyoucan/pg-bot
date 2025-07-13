@@ -29,6 +29,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix TEST_RESULT_DIR env var](https://github.com/erigontech/erigon/commit/1ab73abeca0bb4f1a2d1d497c0f9f39e7f86015c) - 2025-07-11
 * [Commit] [fix TEST_RESULT_DIR env var](https://github.com/erigontech/erigon/commit/c4584a258d1fde4a22ecf599a27a5aea1863843f) - 2025-07-11
 * [Commit] [enable erigon_getHeaderBy tests in Ethereum mainnet](https://github.com/erigontech/erigon/commit/cd297da3e4e0301011a0aaacb36b7663dd2e91f9) - 2025-07-11
+* [Commit] [[r30] qa-tests: enable RPC Integration Tests for Polygon (#16072)](https://github.com/erigontech/erigon/commit/9bfaf989f9a441a35e91f48ac5c451da9df5026d) - 2025-07-12
+* [Commit] [disable tests because of pruned node](https://github.com/erigontech/erigon/commit/7db064cb5a97beee67c416dcdb00a2e743537d7c) - 2025-07-12
+* [Commit] [Update qa-rpc-integration-tests-polygon.yml](https://github.com/erigontech/erigon/commit/731b7c71babee33b09930b992a50dc5a320300c0) - 2025-07-12
+* [Commit] [fix reference datadir for release 3.0](https://github.com/erigontech/erigon/commit/118e6664244645bbb32ba06a4bba3bc485205c9c) - 2025-07-12
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
