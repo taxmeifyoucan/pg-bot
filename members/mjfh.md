@@ -8,6 +8,12 @@ Team: Nimbus
 
 ## Contributions
 
+## Q3 2025
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Jordan free parking](https://github.com/status-im/nimbus-eth1/pull/3469) - 2025-07-13
+* [Pull Request] [Jordan](https://github.com/status-im/nimbus-eth1/pull/3468) - 2025-07-13
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

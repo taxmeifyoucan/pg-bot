@@ -270,6 +270,7 @@ Team: Erigon
 * [Pull Request] [double register url in hot-fix](https://github.com/erigontech/erigon/pull/16076) - 2025-07-12
 * [Commit] [Fix broken file paths in stagedsync docs (#16056)](https://github.com/erigontech/erigon/commit/11a7d86327bfa035cf8708f552f127d27d816ad8) - 2025-07-12
 * [Issue] [time-deterministic prune. step 2](https://github.com/erigontech/erigon/issues/16075) - 2025-07-12
+* [Issue] [bor-mainnet producing bad bocheckpoint files](https://github.com/erigontech/erigon/issues/16085) - 2025-07-14
 ## Q2 2025
 
 

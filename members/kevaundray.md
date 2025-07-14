@@ -13,6 +13,10 @@ Team: Consensus R&D (EF)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [crypto(experiment): outline modexp RequiredGas functionality](https://github.com/ethereum/go-ethereum/pull/32184) - 2025-07-10
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [chore(experiment): Add dynamic crypto provider](https://github.com/bluealloy/revm/pull/2706) - 2025-07-14
+* [Pull Request] [chore(experiment): Use bytes API for underlying precompile library APIs](https://github.com/bluealloy/revm/pull/2705) - 2025-07-14
 ## Q2 2025
 
 

@@ -26,8 +26,17 @@ Team: Portal Network (EF)
 * [Commit] [feat: add new history network types (#1884)](https://github.com/ethereum/trin/commit/bc14ab0718623b9471c8769f6e74f78d9f2afd8a) - 2025-07-05
 * [Pull Request] [feat: add new history network types](https://github.com/ethereum/trin/pull/1884) - 2025-07-05
 * [Commit] [chore(deps): weekly `cargo update` (#1885)](https://github.com/ethereum/trin/commit/ba9a7f0358101bdcba7198f23c7d83f750c80b8b) - 2025-07-07
+* [Commit] [chore(deps): weekly `cargo update` (#1886)](https://github.com/ethereum/trin/commit/45241a3621efc0ee00c6c22f8211dc76caac6b9c) - 2025-07-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add "Prototyping" working group](https://github.com/protocolguild/documentation/pull/363) - 2025-07-02
+
+[ethereum/glados](https://github.com/ethereum/glados)
+* [Commit] [feat: remove support for beacon network (#440)](https://github.com/ethereum/glados/commit/8aec126c29a73134c0ee179f3d7b790a1099ab5f) - 2025-07-13
+* [Pull Request] [feat: remove support for beacon network](https://github.com/ethereum/glados/pull/440) - 2025-07-13
+* [Commit] [fix: protocol id calculation in is_content_in_deadzone (#439)](https://github.com/ethereum/glados/commit/2d84f669991f0c2b768ab728a328429705431eb6) - 2025-07-13
+* [Pull Request] [fix: protocol id calculation in is_content_in_deadzone](https://github.com/ethereum/glados/pull/439) - 2025-07-13
+* [Commit] [feat: remove support for state network (#438)](https://github.com/ethereum/glados/commit/f37f33b7ae3b771e6c4e2f3484135540937e8fe6) - 2025-07-13
+* [Pull Request] [feat: remove support for state network](https://github.com/ethereum/glados/pull/438) - 2025-07-13
 ## Q2 2025
 
 

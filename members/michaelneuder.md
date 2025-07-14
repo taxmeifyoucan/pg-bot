@@ -8,6 +8,11 @@ Team: Applied Research Group (ARG)
 
 ## Contributions
 
+## Q3 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [remove mikeneuder](https://github.com/protocolguild/documentation/pull/380) - 2025-07-13
 ## Q1 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

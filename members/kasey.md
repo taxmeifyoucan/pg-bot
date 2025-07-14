@@ -36,6 +36,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [fix pubsub topic tests](https://github.com/OffchainLabs/prysm/commit/17bb8d1c4d244821f046b812724dba64f1d271dc) - 2025-07-12
 * [Commit] [rewrite signing domain tests](https://github.com/OffchainLabs/prysm/commit/a6dd9f2311b5110e789ad3546be4a2b9914b0614) - 2025-07-12
 * [Commit] [rewrite signing domain tests](https://github.com/OffchainLabs/prysm/commit/74283d5bb7079ef895efb9b78af918deb101da6b) - 2025-07-12
+* [Commit] [refactor electra attestation test](https://github.com/OffchainLabs/prysm/commit/fa858833888e5b392959018de1f19be916cf52e2) - 2025-07-13
 ## Q2 2025
 
 

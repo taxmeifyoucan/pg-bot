@@ -62,6 +62,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Remove use of Linq.Sum from hot paths](https://github.com/NethermindEth/nethermind/pull/8977) - 2025-07-12
 * [Pull Request] [Cache PropertyInfo lookups for JsonRpc](https://github.com/NethermindEth/nethermind/pull/8976) - 2025-07-12
 * [Commit] [Cache PropertyInfo lookups for JsonRpc](https://github.com/NethermindEth/nethermind/commit/c9e12873e072c2188f947169b1f5e4de1644f142) - 2025-07-12
+* [Pull Request] [Only access "warmup" hashtable once per warmup](https://github.com/NethermindEth/nethermind/pull/8983) - 2025-07-13
+* [Pull Request] [More hot code in ConnectNodes](https://github.com/NethermindEth/nethermind/pull/8982) - 2025-07-13
+* [Commit] [More hot code in ConnectNodes](https://github.com/NethermindEth/nethermind/commit/0e684b1b6fada38dcf9c3d07644d538eaa501790) - 2025-07-13
+* [Commit] [More hot code in ConnectNodes](https://github.com/NethermindEth/nethermind/commit/143e6337c4f9bb2770e83c253619a377a9350eed) - 2025-07-13
+* [Commit] [Remove use of Linq.Sum from hot paths (#8977)](https://github.com/NethermindEth/nethermind/commit/72debe8177ab0ebb88f5a0d266de1cd055ae0bb6) - 2025-07-13
+* [Commit] [Merge conflict fix (in test)](https://github.com/NethermindEth/nethermind/commit/c4523dda502cbc8afa70c04799ed378f4d5d7f9d) - 2025-07-13
+* [Commit] [merge conflict fix](https://github.com/NethermindEth/nethermind/commit/96bdcd6bee7880640e39ab65d552a28e1e978202) - 2025-07-13
+* [Commit] [Simplify](https://github.com/NethermindEth/nethermind/commit/4175f828686e9655ec4f279e466c1d23fefebe54) - 2025-07-13
 ## Q2 2025
 
 

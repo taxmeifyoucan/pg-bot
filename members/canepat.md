@@ -33,6 +33,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [disable tests because of pruned node](https://github.com/erigontech/erigon/commit/7db064cb5a97beee67c416dcdb00a2e743537d7c) - 2025-07-12
 * [Commit] [Update qa-rpc-integration-tests-polygon.yml](https://github.com/erigontech/erigon/commit/731b7c71babee33b09930b992a50dc5a320300c0) - 2025-07-12
 * [Commit] [fix reference datadir for release 3.0](https://github.com/erigontech/erigon/commit/118e6664244645bbb32ba06a4bba3bc485205c9c) - 2025-07-12
+* [Commit] [[r30] qa-tests: fix tip tracking Gnosis datadir (#16080)](https://github.com/erigontech/erigon/commit/eba39be8b2a3b3da4e0f3e837afb96e260e4f140) - 2025-07-13
+* [Pull Request] [erigon-lib: fix gRPC generation](https://github.com/erigontech/erigon/pull/16081) - 2025-07-13
+* [Pull Request] [[r30] qa-tests: fix tip tracking Gnosis datadir](https://github.com/erigontech/erigon/pull/16080) - 2025-07-13
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

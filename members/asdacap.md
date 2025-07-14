@@ -74,6 +74,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Rename and move](https://github.com/NethermindEth/nethermind/commit/1a73d2df3ddb7e1c279ce5c2a46baf61918a7e9e) - 2025-07-13
 * [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/6214f028837760a0e8e253f04161163ae813ee57) - 2025-07-12
 * [Commit] [Whitesace](https://github.com/NethermindEth/nethermind/commit/e87b3df170338ae7abc730773f4173f6a7071330) - 2025-07-12
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/f8feecdb522e404f0783229bd5b85dbbb35167b4) - 2025-07-14
+* [Commit] [Move dump state to state reader](https://github.com/NethermindEth/nethermind/commit/b7c5f7c7c2794cdf781d931f11395af75c7e3a36) - 2025-07-13
+* [Pull Request] [Isolate Tracer in Proof Module and remove IVisitingWorldState](https://github.com/NethermindEth/nethermind/pull/8981) - 2025-07-13
 ## Q2 2025
 
 

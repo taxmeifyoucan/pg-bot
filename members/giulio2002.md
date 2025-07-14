@@ -59,6 +59,13 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/90362750ae39b9bc67364ab8e9d503d2c1929b63) - 2025-07-12
 * [Commit] [save](https://github.com/erigontech/erigon/commit/610b7ee8e07f748eb02790544179547d747e63e2) - 2025-07-12
 * [Commit] [save](https://github.com/erigontech/erigon/commit/af1bf6098e04217301506608cae7359db28fd8a0) - 2025-07-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4687347fcb6c5ce613d2793eac9c6391b79ab100) - 2025-07-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b652e18fc004c198a433127e83df61f5b1cb2460) - 2025-07-13
+* [Pull Request] [Caplin: Added validator depositing tooling](https://github.com/erigontech/erigon/pull/16084) - 2025-07-13
+* [Pull Request] [Caplin: fully-working peerdas rpc](https://github.com/erigontech/erigon/pull/16083) - 2025-07-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b264857c94a4117883805a8ebe5f60adf041ff25) - 2025-07-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c69449651f3a380f6c39d810cf3f1fb4fd03b1f8) - 2025-07-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5712710de51798f3f78ee9c8070cbb0fbf38110c) - 2025-07-13
 ## Q2 2025
 
 

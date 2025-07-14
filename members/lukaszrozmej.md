@@ -20,6 +20,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix test](https://github.com/NethermindEth/nethermind/commit/0de10b696523f5f28141d30b58044504733a07c7) - 2025-07-10
 * [Pull Request] [Better null-ckecks in TryGetCanonicalTransaction](https://github.com/NethermindEth/nethermind/pull/8969) - 2025-07-10
 * [Commit] [Better null-ckecks in TryGetCanonicalTransaction (#8969)](https://github.com/NethermindEth/nethermind/commit/f41549984556c974977d7d8d8b3bc4cd2c36c211) - 2025-07-11
+* [Commit] [Update OP Superchain chains (#8979)](https://github.com/NethermindEth/nethermind/commit/8ee7c3f0a6177a99f18c3db51a2bde458cec591b) - 2025-07-13
+* [Commit] [Auto-update fast sync settings (#8978)](https://github.com/NethermindEth/nethermind/commit/f9d769249cd4bf0d133acaf565b9e0b708bea97c) - 2025-07-13
 ## Q2 2025
 
 

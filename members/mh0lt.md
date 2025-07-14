@@ -32,6 +32,7 @@ Team: Erigon
 * [Commit] [purify parse files fix (#15973)](https://github.com/erigontech/erigon/commit/c8d86cc4f8d5704d41b4b9f04a5b41bd509c70ee) - 2025-07-09
 * [Commit] [remove polygonSync](https://github.com/erigontech/erigon/commit/a2988ec1d26c2be3a874cee8128e98a8600f03d3) - 2025-07-12
 * [Commit] [Cherry pick state sync overrides (#16063)](https://github.com/erigontech/erigon/commit/3b206481c595bb1aea4aa410eca5d1667fee0405) - 2025-07-12
+* [Commit] [proposerPriority from VotingPower to ProposerPriority (#15595)](https://github.com/erigontech/erigon/commit/88e9152686f820eff04760192e843bf2b3e87443) - 2025-07-13
 ## Q2 2025
 
 
