@@ -25,6 +25,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [refresh the mainnet.json used for blockchain util tests (#8947)](https://github.com/hyperledger/besu/commit/e5f37a372c6fec2e7c962fe2f747c5ebc6343112) - 2025-07-10
 * [Pull Request] [refresh the mainnet.json used for blockchain util tests](https://github.com/hyperledger/besu/pull/8947) - 2025-07-10
 * [Pull Request] [added getLast and forkId to eth_config](https://github.com/hyperledger/besu/pull/8946) - 2025-07-10
+* [Commit] [added getLast and forkId to eth_config (#8946)](https://github.com/hyperledger/besu/commit/6212b0b71f6a51c3a48e9cf3ce30c6ff81be0798) - 2025-07-14
+* [Pull Request] [update setup-java action to 4.7.1](https://github.com/hyperledger/besu/pull/8953) - 2025-07-14
 ## Q2 2025
 
 

@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Test Issue - MCP Integration Verification](https://github.com/hyperledger/besu/issues/8896) - 2025-07-02
 
 * [Issue] [Besu bandwidth usage outlier](https://github.com/hyperledger/besu/issues/8932) - 2025-07-08
+* [Issue] [Enhanced Metrics for Sync Performance and DB Compaction Tracking (BloatNet Preparation)](https://github.com/hyperledger/besu/issues/8955) - 2025-07-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [# RPC Standards # 8 | July 7th, 2025](https://github.com/ethereum/pm/issues/1605) - 2025-07-06
 ## Q2 2025

@@ -15,6 +15,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Fix compute_fork_digest (#233)](https://github.com/grandinetech/grandine/commit/e377561d2ff02f5faaa3999bf0487fca6e3f74ea) - 2025-07-07
 * [Commit] [Skip participating in aggregation duty if chain head is not fully verified by execution engine](https://github.com/grandinetech/grandine/commit/38c4787ca401b5f70110f97db774acfabad36f88) - 2025-07-07
 * [Commit] [Skip participating in aggregation duty if chain head is not fully verified by execution engine](https://github.com/grandinetech/grandine/commit/38c4787ca401b5f70110f97db774acfabad36f88) - 2025-07-09
+* [Pull Request] [Batch data column by root requests](https://github.com/grandinetech/grandine/pull/255) - 2025-07-14
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

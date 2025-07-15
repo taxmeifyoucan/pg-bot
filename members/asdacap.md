@@ -77,6 +77,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/f8feecdb522e404f0783229bd5b85dbbb35167b4) - 2025-07-14
 * [Commit] [Move dump state to state reader](https://github.com/NethermindEth/nethermind/commit/b7c5f7c7c2794cdf781d931f11395af75c7e3a36) - 2025-07-13
 * [Pull Request] [Isolate Tracer in Proof Module and remove IVisitingWorldState](https://github.com/NethermindEth/nethermind/pull/8981) - 2025-07-13
+* [Commit] [Isolate Tracer in Proof Module and remove IVisitingWorldState (#8981)](https://github.com/NethermindEth/nethermind/commit/979b2652d17f424753aa53e38079f2c6d4b4ed4c) - 2025-07-14
 ## Q2 2025
 
 

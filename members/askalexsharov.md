@@ -271,6 +271,7 @@ Team: Erigon
 * [Commit] [Fix broken file paths in stagedsync docs (#16056)](https://github.com/erigontech/erigon/commit/11a7d86327bfa035cf8708f552f127d27d816ad8) - 2025-07-12
 * [Issue] [time-deterministic prune. step 2](https://github.com/erigontech/erigon/issues/16075) - 2025-07-12
 * [Issue] [bor-mainnet producing bad bocheckpoint files](https://github.com/erigontech/erigon/issues/16085) - 2025-07-14
+* [Commit] [Fix a few misc mux and webseed issues spotted by Alex (#16087)](https://github.com/erigontech/erigon/commit/f991f8ed3f64e6e5345b1cdcf6e6542ff61fe912) - 2025-07-14
 ## Q2 2025
 
 

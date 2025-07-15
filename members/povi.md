@@ -18,6 +18,8 @@ Team: Grandine
 * [Commit] [fix: add missing max_pending_deposits_per_epoch preset value](https://github.com/grandinetech/grandine/commit/2bb1fc6c7f69de945b1500ba5979565423f0ec9f) - 2025-07-02
 * [Commit] [Remove restriction that requires each slot tick to start at the beginning of a second](https://github.com/grandinetech/grandine/commit/a85d34e79d110af2b74d6de8f5e1ff68b635c32e) - 2025-07-07
 * [Pull Request] [Remove restriction that requires each slot tick to start at the beginning of a second](https://github.com/grandinetech/grandine/pull/248) - 2025-07-07
+* [Commit] [Increase preferred execution gas limit to 45M](https://github.com/grandinetech/grandine/commit/4d300d588cabe8c824cbb87ecbc826006933ad15) - 2025-07-14
+* [Pull Request] [Increase preferred execution gas limit to 45M](https://github.com/grandinetech/grandine/pull/256) - 2025-07-14
 ## Q2 2025
 
 

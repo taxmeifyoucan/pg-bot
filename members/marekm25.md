@@ -18,6 +18,8 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Commit] [NewPayloadTimeout in miliseconds](https://github.com/NethermindEth/nethermind/commit/d71cc7841d7711e5085c24c9eb953b518e34e542) - 2025-07-03
 * [Commit] [review comments](https://github.com/NethermindEth/nethermind/commit/6a9ffed5507ab964fb3e5861a4bbfdc01ff2885b) - 2025-07-04
 * [Commit] [Update src/Nethermind/Nethermind.Merge.Plugin/IMergeConfig.cs](https://github.com/NethermindEth/nethermind/commit/964d75348f3d98b58d2d1a41f6f87a24c6a125f1) - 2025-07-04
+* [Commit] [Allocate 96 bytes less per tx sender recovery (#8824)](https://github.com/NethermindEth/nethermind/commit/7904ddb40cc6ef673aaff70ca811546665233551) - 2025-07-14
+* [Commit] [Ensure exception in block downloader is caught (#8931)](https://github.com/NethermindEth/nethermind/commit/55f7950321d4bd7db7076d050d0a7837edc4cc58) - 2025-07-14
 ## Q2 2025
 
 

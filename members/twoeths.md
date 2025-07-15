@@ -28,6 +28,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: remove getAttestationsForBlockPreElectra](https://github.com/ChainSafe/lodestar/pull/8048) - 2025-07-09
 * [Issue] [PeerDAS: schedule recover_matrix time](https://github.com/ChainSafe/lodestar/issues/8047) - 2025-07-09
 * [Pull Request] [fix: remove only connect flags](https://github.com/ChainSafe/lodestar/pull/8046) - 2025-07-09
+* [Commit] [chore: more test case for priorization.test.ts](https://github.com/ChainSafe/lodestar/commit/3998c0f4b8ad81804b9f5dd9a1fa19b582516b9b) - 2025-07-14
+* [Commit] [fix: lint](https://github.com/ChainSafe/lodestar/commit/d7eac4dd2afe393035189988f07ed11b3a03305f) - 2025-07-14
+* [Pull Request] [feat: ensure enough peers on all subnets](https://github.com/ChainSafe/lodestar/pull/8057) - 2025-07-14
 ## Q2 2025
 
 

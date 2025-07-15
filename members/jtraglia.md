@@ -8,6 +8,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 ## Contributions
 
+## Q3 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] [Make various small fixes for Fulu code](https://github.com/Consensys/teku/pull/9662) - 2025-07-14
 ## Q2 2025
 
 

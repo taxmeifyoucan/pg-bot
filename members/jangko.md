@@ -47,6 +47,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Keep the space separator of log topics](https://github.com/status-im/nimbus-eth1/commit/f7070dffdadb00651a2bbadfff5cee2fb9692a69) - 2025-07-09
 * [Pull Request] [Improves logging: short topics and remove duplicate log for same event](https://github.com/status-im/nimbus-eth1/pull/3462) - 2025-07-09
 * [Commit] [Tx-broadcast handler: abort operation if peer become unresponsive](https://github.com/status-im/nimbus-eth1/commit/b1728d4d75fea2506e8d061d34a1794640cbf447) - 2025-07-09
+* [Pull Request] [Increase rpc server request body limit to 26MB](https://github.com/status-im/nimbus-eth1/pull/3472) - 2025-07-14
+* [Pull Request] [Remove p2p DSL macro ](https://github.com/status-im/nimbus-eth1/pull/3471) - 2025-07-14
+* [Commit] [Add sub protocol flag to protocol definition](https://github.com/status-im/nimbus-eth1/commit/26dad713cea780ab0d655752470c75a82ecbbb5c) - 2025-07-14
 ## Q2 2025
 
 

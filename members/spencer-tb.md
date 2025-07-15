@@ -41,6 +41,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(ci): temp osaka eels res in config 2 (sry).](https://github.com/ethereum/execution-spec-tests/commit/f16348a2c538c57c5de0ecc24ecac40550c07e70) - 2025-07-11
 * [Commit] [chore: bump eels ref in github ci.](https://github.com/ethereum/execution-spec-tests/commit/d9905bd0e1909628d2eb93da96f891bf2503cade) - 2025-07-11
 * [Commit] [chore(tests): small clarifactions.](https://github.com/ethereum/execution-spec-tests/commit/b22ab67a4d8345dd7870c89668747087f1e52175) - 2025-07-11
+* [Commit] [feat(github): add benchmarks releases for 1M and 10M gas limit (#1876)](https://github.com/ethereum/execution-spec-tests/commit/6a518bf7105750ee38f152cd6a524ce73638d7f9) - 2025-07-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

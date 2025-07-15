@@ -25,6 +25,14 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [update delete pointer to first block number found](https://github.com/NethermindEth/nethermind/commit/e98c4ffcbc085f62eff30691e200958912866455) - 2025-07-10
 * [Commit] [start fixing tests](https://github.com/NethermindEth/nethermind/commit/1e8050c4338cccc33dbcf05d043e81f8f5b5f964) - 2025-07-11
 * [Commit] [Renable targeted GC cleanup (#8961)](https://github.com/NethermindEth/nethermind/commit/79b5d17981735c63b5776004fe1da43ac99cddbf) - 2025-07-11
+* [Commit] [always init history pruner](https://github.com/NethermindEth/nethermind/commit/92a23de0f7b8835b8f1863768ed410faa7d64407) - 2025-07-14
+* [Commit] [set min history retention epochs in first fork](https://github.com/NethermindEth/nethermind/commit/f9b2152c3056f48a181a35dbf6fec907f58b9b37) - 2025-07-14
+* [Commit] [fix ethereumrunnertests](https://github.com/NethermindEth/nethermind/commit/498f2f0cdf421ff35858de0d261decf0bb96c054) - 2025-07-14
+* [Commit] [add history pruner to e2e sync container](https://github.com/NethermindEth/nethermind/commit/8f8671bc9fb59d7768f6a4900c2de3455104b4ea) - 2025-07-14
+* [Commit] [add history pruner to test container](https://github.com/NethermindEth/nethermind/commit/0a8b461b318cd3e3148e0897830bd63642e2a4cd) - 2025-07-14
+* [Commit] [prune to sync pivto test](https://github.com/NethermindEth/nethermind/commit/2e2b6a12a594e3c14617a645e65cf4aefe39479a) - 2025-07-14
+* [Commit] [Revise JSON-RPC docs generation (#8967)](https://github.com/NethermindEth/nethermind/commit/31bbbeefd22b8c80d05a45a4e342ef04590ef3e9) - 2025-07-14
+* [Commit] [types](https://github.com/NethermindEth/nethermind/commit/e763bb149e420997b790c2ecb5907c6411897054) - 2025-07-14
 ## Q2 2025
 
 

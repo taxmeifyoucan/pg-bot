@@ -19,6 +19,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update AllTests.](https://github.com/status-im/nimbus-eth2/commit/c2c6e561204b5a5dcaf69b96ae2ffa874489cf16) - 2025-07-07
 * [Commit] [Bump urllib3 from 2.2.3 to 2.5.0 in /docs (#7277)](https://github.com/status-im/nimbus-eth2/commit/822364338af513b17e9a428e638b61b12afd774d) - 2025-07-07
 * [Commit] [Fix VC test.](https://github.com/status-im/nimbus-eth2/commit/b89d03ac3a172285a8ffa46761525d6038cc850f) - 2025-07-07
+* [Commit] [Add one more fix.](https://github.com/status-im/nimbus-eth2/commit/cfbed9fbd32a7237051320059134c89abd17d55d) - 2025-07-14
+* [Commit] [Fix tests.](https://github.com/status-im/nimbus-eth2/commit/fce33fab3dc3272ea8993d13c58e4258b61636e7) - 2025-07-14
+* [Commit] [Add Quarantine events.](https://github.com/status-im/nimbus-eth2/commit/511afa91459dee4ac63ee0070c0689ef040cb832) - 2025-07-14
 ## Q2 2025
 
 

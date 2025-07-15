@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 
 ## Contributions
 
+## Q3 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Commit] [Added OrbStack thank you note :) (#9658)](https://github.com/Consensys/teku/commit/437b3cda9690785bb8e8534f8cbf2a37494af6b1) - 2025-07-14
+* [Pull Request] [Added OrbStack thank you note :)](https://github.com/Consensys/teku/pull/9658) - 2025-07-14
 ## Q2 2025
 
 

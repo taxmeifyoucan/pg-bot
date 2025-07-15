@@ -20,6 +20,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Replace eth_pairings with mcl](https://github.com/NethermindEth/nethermind/commit/27377e7a7f14d1681b808769868de64a564c7e19) - 2025-07-06
 * [Commit] [Replace eth_pairings with mcl](https://github.com/NethermindEth/nethermind/commit/e4f8e1ea5ca065692a7ba975bb119313bf61d7ec) - 2025-07-07
 * [Commit] [Revise JSON-RPC docs generation (#8967)](https://github.com/NethermindEth/nethermind/commit/31bbbeefd22b8c80d05a45a4e342ef04590ef3e9) - 2025-07-11
+* [Commit] [Refactor, rename precompiles, and rewrite tests](https://github.com/NethermindEth/nethermind/commit/f7c4de0fc8412f96364e8ea7521c071e4aed42af) - 2025-07-14
+* [Pull Request] [Configure EWC Zurich hard fork](https://github.com/NethermindEth/nethermind/pull/8985) - 2025-07-14
 ## Q2 2025
 
 

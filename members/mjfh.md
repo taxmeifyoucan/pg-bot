@@ -14,6 +14,7 @@ Team: Nimbus
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Jordan free parking](https://github.com/status-im/nimbus-eth1/pull/3469) - 2025-07-13
 * [Pull Request] [Jordan](https://github.com/status-im/nimbus-eth1/pull/3468) - 2025-07-13
+* [Commit] [no global `envID`, use `frameID`](https://github.com/status-im/nimbus-eth1/commit/c8c040618a5dd16c98b5b24ff0e781cc60fa6c72) - 2025-07-14
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

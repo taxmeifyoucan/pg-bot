@@ -16,6 +16,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [build fix](https://github.com/OffchainLabs/prysm/commit/8f76408f39d00132e28b5c243d80b8c2d03613d8) - 2025-07-11
 * [Commit] [fixes after rebasing](https://github.com/OffchainLabs/prysm/commit/e757f687adbd64cc81733131e8da1f99cf6a4101) - 2025-07-11
 * [Commit] [fixing e2e builder gas limit (#15025)](https://github.com/OffchainLabs/prysm/commit/4e41d5c61088f6d28d46c028f1b4d4ae00f20d98) - 2025-07-11
+* [Commit] [review](https://github.com/OffchainLabs/prysm/commit/ab829629bb896e5d97c6d810166fd9f3cc291e67) - 2025-07-14
+* [Commit] [move validator run slot ticker (#15479)](https://github.com/OffchainLabs/prysm/commit/78f8411ad22d8bc792242bf2fc897eaacc97607e) - 2025-07-14
 ## Q2 2025
 
 

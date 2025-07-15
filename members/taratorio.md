@@ -39,6 +39,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [qa-tests: use 1.67 rpc-test version and enable erigon_getHeaderByHash and number (#16019)](https://github.com/erigontech/erigon/commit/f5e7723aeb94cbea0a350fcbc5796f57834289d9) - 2025-07-10
 * [Commit] [rip: Log.DecodeRLP method (#16036)](https://github.com/erigontech/erigon/commit/dd2e5c07c738fb72d760afb0a557b6e4d3baac83) - 2025-07-11
 * [Commit] [fixes](https://github.com/erigontech/erigon/commit/4e8ad642620e54a2445ec47d8d4b4cf660653b07) - 2025-07-11
+* [Commit] [Remove unused polygon sync flags (#16035)](https://github.com/erigontech/erigon/commit/dded8635b3744f564a554e10cd7bb739bae7eac1) - 2025-07-14
+* [Commit] [qa-tests: fix tip tracking Gnosis datadir (#16088)](https://github.com/erigontech/erigon/commit/aa1c102cf8ed502ba4f2148abaacde9a98b17e16) - 2025-07-14
+* [Commit] [fix tests](https://github.com/erigontech/erigon/commit/9e21e537243b38765c7ba4199de674442789d378) - 2025-07-14
+* [Commit] [txnprovider/shutter: fix missing return on err in connectBootstrapNodes (#15995)](https://github.com/erigontech/erigon/commit/6b9bce091234ffc5006905798324acf00efac83e) - 2025-07-14
+* [Commit] [lock datadir for some snapshot commands (#16092)](https://github.com/erigontech/erigon/commit/92012b03f6c0832c0b0eee555d38dda048a63cbb) - 2025-07-14
+* [Commit] [polygon/bridge: re-enable TestService_ProcessNewBlocksWithOverride (#16091)](https://github.com/erigontech/erigon/commit/18b2c90c3cb6218b3313afff9877859a50710c1a) - 2025-07-14
+* [Commit] [erigon-db/rawdb: fix prune table periodic log (#16095)](https://github.com/erigontech/erigon/commit/3c4cc5e54d8094b856393e8dabd53f8d6662a055) - 2025-07-14
+* [Pull Request] [erigon-db/rawdb: fix prune table periodic log](https://github.com/erigontech/erigon/pull/16095) - 2025-07-14
+* [Commit] [more deterministic prune (#16069)](https://github.com/erigontech/erigon/commit/3b4bb45bfb8bd722ac0d8a75a5988f4233434808) - 2025-07-14
+* [Commit] [resolve flaky TestSetupGenesis: different tmpdir for each parallel test (#16090)](https://github.com/erigontech/erigon/commit/0dea62d878299a6df1d101f975def39cb67de639) - 2025-07-14
+* [Pull Request] [polygon/bridge: re-enable TestService_ProcessNewBlocksWithOverride](https://github.com/erigontech/erigon/pull/16091) - 2025-07-14
+* [Commit] [qa-tests: use 1.67 rpc-test version and enable erigon_getHeaderByHash and number (#16019)](https://github.com/erigontech/erigon/commit/f5e7723aeb94cbea0a350fcbc5796f57834289d9) - 2025-07-14
 ## Q2 2025
 
 

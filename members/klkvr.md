@@ -19,6 +19,17 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [method_name helper](https://github.com/paradigmxyz/reth/commit/75ab97476716cf93ae5f70524d34cbf6095c21af) - 2025-07-10
 * [Pull Request] [feat: support isthmus in reth-bench](https://github.com/paradigmxyz/reth/pull/17351) - 2025-07-10
 * [Commit] [fix: small networking fixes (#16742)](https://github.com/paradigmxyz/reth/commit/1bef0092eedb6a1cd87fd181263fd47bcdcdf4de) - 2025-07-11
+* [Commit] [bump](https://github.com/paradigmxyz/reth/commit/25732248d1cd4197b5b1875a6e749ecd570aedb3) - 2025-07-14
+* [Commit] [chore(deps): weekly `cargo update` (#17386)](https://github.com/paradigmxyz/reth/commit/b19b1b07907b8929265c119df70dabd4e9f730c8) - 2025-07-14
+* [Commit] [refactor: relax rpc types bounds  (#17401)](https://github.com/paradigmxyz/reth/commit/2fe8e21f03acaedff906ee19f291ac3b3de0a061) - 2025-07-14
+* [Commit] [exclude wasm](https://github.com/paradigmxyz/reth/commit/71dc1aec5068addda92ea13b31bf695523e08de8) - 2025-07-14
+* [Commit] [bump](https://github.com/paradigmxyz/reth/commit/9879773f4a77550b45e1aa2618d5e15ca8240b9d) - 2025-07-14
+* [Commit] [bump](https://github.com/paradigmxyz/reth/commit/4c507a2f5587d19ca10de870eacd9214d6cfe73a) - 2025-07-14
+* [Commit] [bump](https://github.com/paradigmxyz/reth/commit/2854ad3bf56a11da21b37d6d378f61e036e5a1d3) - 2025-07-14
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/d2f409ac486ae30b07be9eab673fd1baaeddce40) - 2025-07-14
+* [Commit] [fix(`docs`): rustdocs search functionality (#17367)](https://github.com/paradigmxyz/reth/commit/f6839ac352d0ae40d3a9810576d32a60cac100c1) - 2025-07-14
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/c4381c41da293ccdf6ec61c46797e755f3ba4287) - 2025-07-14
+* [Pull Request] [refactor: relax rpc types bounds ](https://github.com/paradigmxyz/reth/pull/17401) - 2025-07-14
 ## Q2 2025
 
 

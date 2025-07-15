@@ -53,6 +53,10 @@ Team: Reth
 * [Pull Request] [feat: add generic type parameter support to Compact derive macro](https://github.com/paradigmxyz/reth/pull/17366) - 2025-07-11
 * [Commit] [docs: fix link to installation (#17375)](https://github.com/paradigmxyz/reth/commit/e9389dc640f464e5366da6255b5daaa8b48e778e) - 2025-07-12
 * [Pull Request] [chore: consolidate typo fixes from multiple PRs](https://github.com/paradigmxyz/reth/pull/17387) - 2025-07-13
+* [Pull Request] [perf: release listner lock early](https://github.com/paradigmxyz/reth/pull/17400) - 2025-07-14
+* [Commit] [chore: make clippy happy](https://github.com/paradigmxyz/reth/commit/55ddeae7993372928f167f2e7614e7f39178689a) - 2025-07-14
+* [Commit] [chore: make clippy happy](https://github.com/paradigmxyz/reth/commit/75372057e40f03dd6c5f67c79832ffdeed556cf4) - 2025-07-14
+* [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/17399) - 2025-07-14
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

@@ -17,6 +17,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Sync error `Block slot not in range`](https://github.com/Consensys/teku/issues/9633) - 2025-07-07
 * [Issue] [`NullPointerException ... because "block" is null`](https://github.com/Consensys/teku/issues/9646) - 2025-07-09
 * [Pull Request] [Refactor ExternalSigner](https://github.com/Consensys/teku/pull/9656) - 2025-07-10
+* [Pull Request] [poolv2 wait warmup before full packing](https://github.com/Consensys/teku/pull/9661) - 2025-07-14
+* [Pull Request] [Improve attestation sorter](https://github.com/Consensys/teku/pull/9660) - 2025-07-14
 ## Q2 2025
 
 

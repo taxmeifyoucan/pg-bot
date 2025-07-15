@@ -37,6 +37,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [rewrite signing domain tests](https://github.com/OffchainLabs/prysm/commit/a6dd9f2311b5110e789ad3546be4a2b9914b0614) - 2025-07-12
 * [Commit] [rewrite signing domain tests](https://github.com/OffchainLabs/prysm/commit/74283d5bb7079ef895efb9b78af918deb101da6b) - 2025-07-12
 * [Commit] [refactor electra attestation test](https://github.com/OffchainLabs/prysm/commit/fa858833888e5b392959018de1f19be916cf52e2) - 2025-07-13
+* [Commit] [more test fixes](https://github.com/OffchainLabs/prysm/commit/0e7d2d07fd8f379f6410b6b8bfa150a2d58a3b37) - 2025-07-14
+* [Commit] [more test fixes](https://github.com/OffchainLabs/prysm/commit/2ef2e6b95456253cb264444774fdd31fb46e5dbd) - 2025-07-14
+* [Commit] [more test fixes](https://github.com/OffchainLabs/prysm/commit/538e44d8861dd9dfcff3b3db2025a0c3ecd4d2d0) - 2025-07-14
+* [Commit] [more test fixes](https://github.com/OffchainLabs/prysm/commit/b11cc6e0112132e00da2aa99e3376eaf9fcf60f2) - 2025-07-14
+* [Commit] [refactor electra attestation test](https://github.com/OffchainLabs/prysm/commit/fcff9b535adb8c9f77c68b2d67f35a8e0002421e) - 2025-07-14
 ## Q2 2025
 
 

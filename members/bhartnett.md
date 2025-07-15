@@ -26,6 +26,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Stateless:  Witness generation, clearing of witness keys and db persist and get helpers](https://github.com/status-im/nimbus-eth1/pull/3458) - 2025-07-08
 * [Commit] [Add witness generation unit tests and fixes.](https://github.com/status-im/nimbus-eth1/commit/9876071e6869c5327fba17f7b5924684b4d23122) - 2025-07-08
 * [Commit] [Directly use ledger to fetch the pre-state when building the witness.](https://github.com/status-im/nimbus-eth1/commit/a02674c5662a87525ef3ad5c4a2710fd1bf1b1ef) - 2025-07-12
+* [Commit] [Use parent txFrame instead of base txFrame.](https://github.com/status-im/nimbus-eth1/commit/9b0c8a1e999c27058e5e482dbe100dae88285d4d) - 2025-07-14
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

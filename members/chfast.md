@@ -8,6 +8,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [evm: use evmone for ModExp](https://github.com/erigontech/erigon/commit/d217157958af3a95d405576d539bb327360422b2) - 2025-07-14
 ## Q2 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

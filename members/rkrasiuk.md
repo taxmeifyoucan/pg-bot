@@ -16,6 +16,8 @@ Team: Reth
 * [Commit] [rm noop test](https://github.com/paradigmxyz/reth/commit/b5c6a03bef92a9c68d9e04b55808096873a95389) - 2025-07-03
 * [Commit] [rename](https://github.com/paradigmxyz/reth/commit/3745b1a90bbf998c633a6b46ab787fc63c4bacb0) - 2025-07-09
 * [Pull Request] [feat(sync): track time spent in stages](https://github.com/paradigmxyz/reth/pull/17321) - 2025-07-09
+* [Commit] [bump alloy](https://github.com/paradigmxyz/reth/commit/fa71a1d2830d45c714d543c7151d9090f4756adc) - 2025-07-14
+* [Pull Request] [feat: update EIP-7825 max transaction gas limit](https://github.com/paradigmxyz/reth/pull/17397) - 2025-07-14
 ## Q2 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

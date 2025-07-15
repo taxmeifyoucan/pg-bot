@@ -58,6 +58,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed c631bf48405 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2ac55b5e02a902fb806f8488491ab7772ad16338) - 2025-07-11
 * [Commit] [chore(fill): disable writing evm debug information to `./logs/` by default (#1874)](https://github.com/ethereum/execution-spec-tests/commit/c631bf484054b08f4d49af05bcfe2f470f1ad9d7) - 2025-07-11
 * [Commit] [docs(execute): minor improvements to docs](https://github.com/ethereum/execution-spec-tests/commit/7d6309e5222d715288bb4565de514e0c1635b635) - 2025-07-11
+* [Commit] [Deployed bfe359d3c25 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/af866dd45b6a1a5a99287cecb6558d251a933855) - 2025-07-14
+* [Commit] [Deployed 7cdf4a3b98d to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/f04f235938ded1cd4596c71f9eca4f8023840269) - 2025-07-14
+* [Commit] [docs(tooling): bump required `uv` version in docs](https://github.com/ethereum/execution-spec-tests/commit/d7fe7f25ec6e5ecbd8865e0eb5b741cd63133c70) - 2025-07-14
+* [Pull Request] [chore(tooling,deps): require minimum `uv` version](https://github.com/ethereum/execution-spec-tests/pull/1904) - 2025-07-14
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/617521e259abc468d00c128189fc1bc80ac231fd) - 2025-07-14
+* [Pull Request] [chore(deps): restore `uv.lock` revision to v2; upgrade `certifi`](https://github.com/ethereum/execution-spec-tests/pull/1903) - 2025-07-14
+* [Issue] [feat(benchmark,fill): add JIT warm-up sequences as EEST tests](https://github.com/ethereum/execution-spec-tests/issues/1900) - 2025-07-14
+* [Pull Request] [chore(tooling): move unit test config from `pytest-framework.ini` to `pyproject.toml`](https://github.com/ethereum/execution-spec-tests/pull/1898) - 2025-07-14
 ## Q2 2025
 
 

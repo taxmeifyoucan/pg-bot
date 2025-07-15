@@ -70,6 +70,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Merge conflict fix (in test)](https://github.com/NethermindEth/nethermind/commit/c4523dda502cbc8afa70c04799ed378f4d5d7f9d) - 2025-07-13
 * [Commit] [merge conflict fix](https://github.com/NethermindEth/nethermind/commit/96bdcd6bee7880640e39ab65d552a28e1e978202) - 2025-07-13
 * [Commit] [Simplify](https://github.com/NethermindEth/nethermind/commit/4175f828686e9655ec4f279e466c1d23fefebe54) - 2025-07-13
+* [Commit] [Fail fast on Db corruption (#8986)](https://github.com/NethermindEth/nethermind/commit/760a65d8504a42b5a682712588609a54812ee883) - 2025-07-14
+* [Commit] [Fail fast on Db corruption (#8986)](https://github.com/NethermindEth/nethermind/commit/f05894fb8b64a8f4f2b8d77794c23c04921a4062) - 2025-07-14
+* [Commit] [Update src/Nethermind/Nethermind.Db.Rocks/DbOnTheRocks.cs](https://github.com/NethermindEth/nethermind/commit/4a9b7bb303d2b5b87c32e7845ccb361ee63da123) - 2025-07-14
+* [Commit] [Fix tests](https://github.com/NethermindEth/nethermind/commit/f7f9a60419c4cc4d4d677ad33eb6dda1d477a847) - 2025-07-14
+* [Pull Request] [Fail fast on Db corruption](https://github.com/NethermindEth/nethermind/pull/8986) - 2025-07-14
+* [Commit] [Only access "warmup" hashtable once per warmup (#8983)](https://github.com/NethermindEth/nethermind/commit/2b0e8382ba16be327fb825267409f95818f98b71) - 2025-07-14
+* [Commit] [Update src/Nethermind/Nethermind.Evm/Instructions/EvmInstructions.cs](https://github.com/NethermindEth/nethermind/commit/e617fa4947076fcaa57dc0a8e6671ab741918ad4) - 2025-07-14
+* [Commit] [More hot code in ConnectNodes (#8982)](https://github.com/NethermindEth/nethermind/commit/ac37e35231613fc99deccc47344e77066c9ce459) - 2025-07-14
 ## Q2 2025
 
 

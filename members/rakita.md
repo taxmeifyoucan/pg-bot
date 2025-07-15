@@ -34,6 +34,15 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [test fixtures, and fix few EIP-7907 tests](https://github.com/bluealloy/revm/commit/3184d8b8e9acccc9c4caf6823b32313a415672a1) - 2025-07-05
 * [Commit] [test fixtures, and fix few EIP-7907 tests](https://github.com/bluealloy/revm/commit/26286ee62daf08336dfad3449a5cf7cdb5a580e2) - 2025-07-05
 * [Commit] [chore: use c-kzg precompute value 8 (#2698)](https://github.com/bluealloy/revm/commit/b3cb18118fc03585e6d93d39cc35812829c93687) - 2025-07-08
+
+* [Commit] [bump: tag v82 revm v27.0.3 (#2710)](https://github.com/bluealloy/revm/commit/356b138a53c9208fb9f26658207aac6719bcb17d) - 2025-07-14
+* [Pull Request] [bump: tag v82 revm v27.0.3](https://github.com/bluealloy/revm/pull/2710) - 2025-07-14
+* [Commit] [chore: release (#2682)](https://github.com/bluealloy/revm/commit/051c3a849a17e6b73501d6cfc0b59cad3b1790fd) - 2025-07-14
+* [Commit] [refactor: simplify gas calculations by introducing a used() method (#2703)](https://github.com/bluealloy/revm/commit/360e248cd50630c872289ad06d2554d9ecd93a25) - 2025-07-14
+* [Commit] [chore: incorrect StorageKey and StorageValue parameter order in burntpix benchmark (#2704)](https://github.com/bluealloy/revm/commit/0ba0d33c6b26c9c65b20944478c43b7b460a9ec1) - 2025-07-14
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
+* [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14
 ## Q2 2025
 
 

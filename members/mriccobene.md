@@ -8,6 +8,14 @@ Team: Erigon
 
 ## Contributions
 
+## Q3 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [order jobs by date and run-id](https://github.com/erigontech/erigon/commit/196ac57c5371754527ac6f4032b7a28b9866e479) - 2025-07-14
+* [Commit] [add a script for local debugging](https://github.com/erigontech/erigon/commit/08eb929a755db483e06f05151ec29c8f52bb0396) - 2025-07-14
+* [Commit] [order run by date](https://github.com/erigontech/erigon/commit/a71a64304ac664956709845cb62a89b25baeb914) - 2025-07-14
+* [Pull Request] [qa-tests: update test report](https://github.com/erigontech/erigon/pull/16093) - 2025-07-14
 ## Q2 2025
 
 

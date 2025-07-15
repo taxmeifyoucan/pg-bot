@@ -25,6 +25,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(plugins/consume): Rename `hive_tests` to `simulator_logic`](https://github.com/ethereum/execution-spec-tests/pull/1897) - 2025-07-11
 * [Commit] [feat(clis,pytest-plugins): allow pytest commands from package, add`execute eth-config` command (#1863)](https://github.com/ethereum/execution-spec-tests/commit/646ce0328bc55269a2d8d96eabf7c620659d0010) - 2025-07-11
 * [Commit] [chore(tests): set tx gas limit to 2^24 (#1882)](https://github.com/ethereum/execution-spec-tests/commit/d53769f9527891a435195246b21ca15badbd1e40) - 2025-07-11
+* [Commit] [chore(tooling): move config from pytest-framework.ini to pyproject.toml (#1898)](https://github.com/ethereum/execution-spec-tests/commit/bfe359d3c251daa670eee1e6947cf56c5de7bfb3) - 2025-07-14
+* [Commit] [chore(tooling,deps): require minimum `uv` version (#1904)](https://github.com/ethereum/execution-spec-tests/commit/7cdf4a3b98de07b9978be378b6aa35268de45799) - 2025-07-14
+* [Commit] [chore(tooling): bump uv.lock revision back from 1 to 2 (#1903)](https://github.com/ethereum/execution-spec-tests/commit/a78d80e09ada0ca1938893738c7671bc638d6489) - 2025-07-14
 ## Q2 2025
 
 

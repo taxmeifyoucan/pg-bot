@@ -13,6 +13,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [introduce word256 and use it in add, and & sub op codes](https://github.com/hyperledger/besu/pull/8917) - 2025-07-04
+* [Commit] [Introduce global code cache (#8815)](https://github.com/hyperledger/besu/commit/fef64107ac8a44741e38755c25359872d578a058) - 2025-07-14
 ## Q2 2025
 
 

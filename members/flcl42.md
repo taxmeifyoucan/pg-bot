@@ -29,6 +29,18 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Add taikoAuth_setHeadL1Origin, taikoAuth_updateL1Origin, BuildPayloadArgsId (#8874)](https://github.com/NethermindEth/nethermind/commit/e6218a8865c9e6f5c03d0e396f88bf3c4810d435) - 2025-07-10
 * [Commit] [Use reference equals in clock cache (#8947)](https://github.com/NethermindEth/nethermind/commit/e772fe471da5ef2bb3639adf992a5c14f30d1ff0) - 2025-07-10
 * [Commit] [Rename blob metrics (#8972)](https://github.com/NethermindEth/nethermind/commit/af748bd20051b4577f0dabcb3f74cd2793488f19) - 2025-07-11
+* [Commit] [Don't block background tasks when syncing (#8971)](https://github.com/NethermindEth/nethermind/commit/113f22faff0611b148926a59f6be73d324b81fbc) - 2025-07-14
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/46d711706735c33cd8775156d2c41700bc9ffa03) - 2025-07-14
+* [Commit] [Fix dict; genesis time; options](https://github.com/NethermindEth/nethermind/commit/75b4315bc9dbbfe1741020bb83f6797c974afce0) - 2025-07-14
+* [Commit] [EIP-7594: Constant maxBlobsPerTx  (#8940)](https://github.com/NethermindEth/nethermind/commit/5993011f66295eafbb4bde46fd57f76c11c44751) - 2025-07-14
+* [Commit] [Fix compilation](https://github.com/NethermindEth/nethermind/commit/beed31a1255a0f5299dca83f110800e9d379a401) - 2025-07-14
+* [Commit] [Fix compilation](https://github.com/NethermindEth/nethermind/commit/ebb525ccd742602923487ee22605f513b08554d8) - 2025-07-14
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/5030f9cd1e300d7b614e1762a31ef55bea668c55) - 2025-07-14
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/b5d22bb1217e103bf11ea49e732bd991ebb59ebf) - 2025-07-14
+* [Commit] [Use reference equals in clock cache (#8947)](https://github.com/NethermindEth/nethermind/commit/e772fe471da5ef2bb3639adf992a5c14f30d1ff0) - 2025-07-14
+* [Commit] [Improve readability](https://github.com/NethermindEth/nethermind/commit/26300d688e9d7de1075895e119aa2c65d1b5f0f9) - 2025-07-14
+* [Commit] [Add tests(improve for the Gnosis case); add link](https://github.com/NethermindEth/nethermind/commit/17612adf04f659bfdca9a45069913ef8ef72611a) - 2025-07-14
+* [Commit] [Move names to precompiles](https://github.com/NethermindEth/nethermind/commit/a74e002c845b1455d8439c9d7edc48e2be17e0f3) - 2025-07-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

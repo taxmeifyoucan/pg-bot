@@ -36,6 +36,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [[r30] qa-tests: fix tip tracking Gnosis datadir (#16080)](https://github.com/erigontech/erigon/commit/eba39be8b2a3b3da4e0f3e837afb96e260e4f140) - 2025-07-13
 * [Pull Request] [erigon-lib: fix gRPC generation](https://github.com/erigontech/erigon/pull/16081) - 2025-07-13
 * [Pull Request] [[r30] qa-tests: fix tip tracking Gnosis datadir](https://github.com/erigontech/erigon/pull/16080) - 2025-07-13
+* [Pull Request] [rpcdaemon: check BridgeBackend version only on Bor network](https://github.com/erigontech/erigon/pull/16101) - 2025-07-14
+* [Pull Request] [qa-tests: fix tip tracking Gnosis datadir](https://github.com/erigontech/erigon/pull/16088) - 2025-07-14
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

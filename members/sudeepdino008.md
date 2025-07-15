@@ -48,6 +48,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [optimize visibleIdxAvailability](https://github.com/erigontech/erigon/pull/16055) - 2025-07-11
 * [Commit] [disable mainnet-rpc-integ-tests workflow](https://github.com/erigontech/erigon/commit/c6e842b783c4f12eff34ea767c987e2650e39930) - 2025-07-12
 * [Pull Request] [experiment](https://github.com/erigontech/erigon/pull/16074) - 2025-07-12
+* [Commit] [fix kurtosis failure for missing required field in Log (#16096)](https://github.com/erigontech/erigon/commit/0fd478910639d32abe065456e6e1de8d9e9eceb3) - 2025-07-14
+* [Pull Request] [kurtosis failure: missing required field 'topics' for Log](https://github.com/erigontech/erigon/pull/16096) - 2025-07-14
+* [Pull Request] [lock datadir for some snapshot commands](https://github.com/erigontech/erigon/pull/16092) - 2025-07-14
+* [Pull Request] [resolve flaky TestSetupGenesis: different tmpdir for each parallel test](https://github.com/erigontech/erigon/pull/16090) - 2025-07-14
+* [Issue] [add caplin snapshots to publishable command](https://github.com/erigontech/erigon/issues/16086) - 2025-07-14
 ## Q2 2025
 
 

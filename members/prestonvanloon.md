@@ -8,6 +8,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 
 ## Contributions
 
+## Q3 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [Convert genesis times from seconds to time.Time](https://github.com/OffchainLabs/prysm/commit/017e6edbf168e7f9e3953e30b647e10d25ac854a) - 2025-07-14
+* [Commit] [Allow SSZ requests for pending deposits, partial withdrawals and consolidations (#15474)](https://github.com/OffchainLabs/prysm/commit/961ea054543adcf68a84c0c198e9ef2d841a8ee4) - 2025-07-14
 ## Q2 2025
 
 

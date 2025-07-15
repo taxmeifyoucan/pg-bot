@@ -14,6 +14,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 [consensys/teku](https://github.com/consensys/teku)
 * [Commit] [bump ref tests (#9630)](https://github.com/Consensys/teku/commit/ff7c72232b68eed31dc1e9e264c58f56d5d1361f) - 2025-07-10
 * [Issue] [Revisit StubDataColumnSidecarManager validation](https://github.com/Consensys/teku/issues/9652) - 2025-07-10
+* [Pull Request] [Remove todo](https://github.com/Consensys/teku/pull/9659) - 2025-07-14
 ## Q2 2025
 
 

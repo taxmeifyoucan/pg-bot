@@ -43,6 +43,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/afb37ae0beb14b98d48d42765e009925cf38c89d) - 2025-07-09
 * [Commit] [update](https://github.com/erigontech/erigon/commit/9635a92725f4fa456775efce83ba6e9c21fac0d9) - 2025-07-09
 * [Commit] [DownloadOnlyCustodyColumns](https://github.com/erigontech/erigon/commit/196dbb8953952ce9af4671a1076fc22f973ccf8e) - 2025-07-09
+* [Commit] [udpate](https://github.com/erigontech/erigon/commit/449617cfe4b312f10908299bc283e0b3ed8a42f4) - 2025-07-14
+* [Commit] [inclusion proof](https://github.com/erigontech/erigon/commit/6c2b5cf4c644bfed96f6c8884349d17a95db27e9) - 2025-07-14
+* [Commit] [update](https://github.com/erigontech/erigon/commit/22e78d4c013796adf6b4cbb018950aad6e375a86) - 2025-07-14
+* [Commit] [update](https://github.com/erigontech/erigon/commit/140f8292f63bdcb18a11bdbf1e07ca72c37aa31a) - 2025-07-14
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/ec3a8a6e31fa0c4bbb1dda72613fae552d7829d1) - 2025-07-14
+* [Commit] [update](https://github.com/erigontech/erigon/commit/8d68c6a09c6b9b8ac369faa75a93b80047765301) - 2025-07-14
 ## Q2 2025
 
 

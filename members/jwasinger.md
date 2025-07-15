@@ -18,6 +18,7 @@ Team: Geth
 * [Commit] [params: fix 7934 size limit.](https://github.com/ethereum/go-ethereum/commit/b326264d4b5e1d818d882c7650c36c69fd510053) - 2025-07-03
 * [Pull Request] [all:  introduce `debug_syncTarget`](https://github.com/ethereum/go-ethereum/pull/32159) - 2025-07-07
 * [Pull Request] [accounts/abi:  fix abigen v1 bindings for deployment of library dependencies](https://github.com/ethereum/go-ethereum/pull/32164) - 2025-07-08
+* [Commit] [ethclient/gethclient: remove race condition in tests (#32206)](https://github.com/ethereum/go-ethereum/commit/90a098904f552ee722b0d0d5eccb3500d90a85a8) - 2025-07-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [eip-7928:  don't enclose individual storage reads in a container](https://github.com/ethereum/EIPs/pull/9977) - 2025-07-03
 ## Q2 2025
