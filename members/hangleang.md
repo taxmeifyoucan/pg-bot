@@ -16,6 +16,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Skip participating in aggregation duty if chain head is not fully verified by execution engine](https://github.com/grandinetech/grandine/commit/38c4787ca401b5f70110f97db774acfabad36f88) - 2025-07-07
 * [Commit] [Skip participating in aggregation duty if chain head is not fully verified by execution engine](https://github.com/grandinetech/grandine/commit/38c4787ca401b5f70110f97db774acfabad36f88) - 2025-07-09
 * [Pull Request] [Batch data column by root requests](https://github.com/grandinetech/grandine/pull/255) - 2025-07-14
+* [Pull Request] [Subscribe or unsubscribe subnet gossip topics with current fork digest](https://github.com/grandinetech/grandine/pull/259) - 2025-07-15
+* [Pull Request] [Fetch blobs from EL when receiving any data column sidecar](https://github.com/grandinetech/grandine/pull/258) - 2025-07-15
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

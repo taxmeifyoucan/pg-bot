@@ -18,6 +18,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Forward-port commits from `master` to `forks/osaka`](https://github.com/ethereum/execution-specs/issues/1311) - 2025-07-08
 * [Commit] [chore: fix some minor issues](https://github.com/ethereum/execution-specs/commit/5bab4dace60bfd797e4a3cdb9a026446067f657b) - 2025-07-10
 * [Pull Request] [Don't depend on a particular branch name when fetching tests](https://github.com/ethereum/execution-specs/pull/1320) - 2025-07-10
+* [Commit] [bls12_381: Cache point generation from raw bytes](https://github.com/ethereum/execution-specs/commit/4905908fd6a36d26d52add27157d2a64d2e841e1) - 2025-07-15
+* [Commit] [update clz gas cost](https://github.com/ethereum/execution-specs/commit/07bd1f149f85d5da89ab26bc8708c3c61873c8b7) - 2025-07-15
+* [Commit] [update eip7918](https://github.com/ethereum/execution-specs/commit/2171f03a1f47e7a792e03ad0d0143d459405fe68) - 2025-07-15
+* [Commit] [update eip7951 gas](https://github.com/ethereum/execution-specs/commit/a91a505fabb60da82063afa6f5b9fcfb8436f3b9) - 2025-07-15
 ## Q2 2025
 
 

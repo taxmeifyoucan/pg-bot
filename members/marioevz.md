@@ -28,6 +28,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tooling): move config from pytest-framework.ini to pyproject.toml (#1898)](https://github.com/ethereum/execution-spec-tests/commit/bfe359d3c251daa670eee1e6947cf56c5de7bfb3) - 2025-07-14
 * [Commit] [chore(tooling,deps): require minimum `uv` version (#1904)](https://github.com/ethereum/execution-spec-tests/commit/7cdf4a3b98de07b9978be378b6aa35268de45799) - 2025-07-14
 * [Commit] [chore(tooling): bump uv.lock revision back from 1 to 2 (#1903)](https://github.com/ethereum/execution-spec-tests/commit/a78d80e09ada0ca1938893738c7671bc638d6489) - 2025-07-14
+* [Pull Request] [fix(specs): Fix State Tests Genesis Environment](https://github.com/ethereum/execution-spec-tests/pull/1912) - 2025-07-15
 ## Q2 2025
 
 

@@ -78,6 +78,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Only access "warmup" hashtable once per warmup (#8983)](https://github.com/NethermindEth/nethermind/commit/2b0e8382ba16be327fb825267409f95818f98b71) - 2025-07-14
 * [Commit] [Update src/Nethermind/Nethermind.Evm/Instructions/EvmInstructions.cs](https://github.com/NethermindEth/nethermind/commit/e617fa4947076fcaa57dc0a8e6671ab741918ad4) - 2025-07-14
 * [Commit] [More hot code in ConnectNodes (#8982)](https://github.com/NethermindEth/nethermind/commit/ac37e35231613fc99deccc47344e77066c9ce459) - 2025-07-14
+* [Commit] [Own policy](https://github.com/NethermindEth/nethermind/commit/ab508e943fb8d67ab09b1d679a04d56d5ead51bc) - 2025-07-15
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/3db29091ab8163ba707c09602e1d6c9c1ce81e5a) - 2025-07-15
 ## Q2 2025
 
 

@@ -38,6 +38,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[r30] qa-tests: fix tip tracking Gnosis datadir](https://github.com/erigontech/erigon/pull/16080) - 2025-07-13
 * [Pull Request] [rpcdaemon: check BridgeBackend version only on Bor network](https://github.com/erigontech/erigon/pull/16101) - 2025-07-14
 * [Pull Request] [qa-tests: fix tip tracking Gnosis datadir](https://github.com/erigontech/erigon/pull/16088) - 2025-07-14
+* [Commit] [qa-tests: update test report (#16093)](https://github.com/erigontech/erigon/commit/09e27915ce430fe737a8d30df9eabcf6176a227a) - 2025-07-15
+* [Commit] [qa-tests: temporarily disable RPC Integration Tests after 15918 (#16112)](https://github.com/erigontech/erigon/commit/4c809c01c4d711311517c72deac1a8cb65189d01) - 2025-07-15
+* [Commit] [Update qa-rpc-integration-tests.yml](https://github.com/erigontech/erigon/commit/3036821e4634740236f01c0b8aaaa6acf896e956) - 2025-07-15
+* [Commit] [Update qa-rpc-integration-tests-polygon.yml](https://github.com/erigontech/erigon/commit/2f0df4eb1d45fa37eb31e2284f204858dba3ec55) - 2025-07-15
+* [Pull Request] [qa-tests: temporarily disable RPC Integration Tests](https://github.com/erigontech/erigon/pull/16112) - 2025-07-15
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

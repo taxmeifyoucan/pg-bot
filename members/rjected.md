@@ -24,6 +24,15 @@ Team: Reth
 * [Commit] [chore(trie): impl SparseTrieInterface for either::Either](https://github.com/paradigmxyz/reth/commit/8eac53fd8816ce08588382afaa6e0b7c06143610) - 2025-07-10
 * [Commit] [feat(test): add rpc e2e tests (#17284)](https://github.com/paradigmxyz/reth/commit/3ba16128affa7467d41d1489abe1eb8cade262ae) - 2025-07-10
 * [Commit] [chore(trie): collapse match arms with is_revealed](https://github.com/paradigmxyz/reth/commit/d5f42f8dede9a4164d25184ea5d805b5589896a6) - 2025-07-11
+* [Commit] [feat: add generic database support for Receipt<T> (#17409)](https://github.com/paradigmxyz/reth/commit/253721d22604850180a1af07f7f3e7657dea25c8) - 2025-07-15
+* [Commit] [feat(trie): add ParallelSparseTrieMetrics](https://github.com/paradigmxyz/reth/commit/e2439be5d64198b7fe57e6da7a54ff6509118867) - 2025-07-15
+* [Commit] [feat(trie): add ParallelSparseTrieMetrics](https://github.com/paradigmxyz/reth/commit/6f551703d57f59d7aa603133908cdac036af1354) - 2025-07-15
+* [Commit] [chore(consensus): refactor fork and ommers check into standalone fn](https://github.com/paradigmxyz/reth/commit/06cab3b9e7d88a9c694de7aa08c3159462bcf993) - 2025-07-15
+* [Issue] [Reveal decoded storage multiproofs in parallel](https://github.com/paradigmxyz/reth/issues/17430) - 2025-07-15
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [chore(interpreter): update docs for slice_mut and slice_range](https://github.com/bluealloy/revm/pull/2714) - 2025-07-15
+* [Pull Request] [feat: expose sha3-keccak in revm and revm-primitives](https://github.com/bluealloy/revm/pull/2713) - 2025-07-15
 ## Q2 2025
 
 

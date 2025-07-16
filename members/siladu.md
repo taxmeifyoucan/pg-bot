@@ -15,6 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [eth_config prototype (#8417)](https://github.com/hyperledger/besu/commit/4b82d2fce88664be25415190329425fbbf54453b) - 2025-07-08
 * [Pull Request] [Copy eip196_g1_add cases and run with benchmark subcommand](https://github.com/hyperledger/besu/pull/8942) - 2025-07-09
 * [Commit] [Make precompile benchmarks more accurate (#8921)](https://github.com/hyperledger/besu/commit/0a34ffeccaeac90c03ef5fcc5f9f2622a5cb85d6) - 2025-07-09
+* [Issue] [RLPx Handshake consumes a lot of resources despite full peers](https://github.com/hyperledger/besu/issues/8957) - 2025-07-15
 ## Q2 2025
 
 

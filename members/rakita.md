@@ -40,6 +40,14 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: release (#2682)](https://github.com/bluealloy/revm/commit/051c3a849a17e6b73501d6cfc0b59cad3b1790fd) - 2025-07-14
 * [Commit] [refactor: simplify gas calculations by introducing a used() method (#2703)](https://github.com/bluealloy/revm/commit/360e248cd50630c872289ad06d2554d9ecd93a25) - 2025-07-14
 * [Commit] [chore: incorrect StorageKey and StorageValue parameter order in burntpix benchmark (#2704)](https://github.com/bluealloy/revm/commit/0ba0d33c6b26c9c65b20944478c43b7b460a9ec1) - 2025-07-14
+* [Commit] [chore: change gas parameter to immutable reference (#2702)](https://github.com/bluealloy/revm/commit/bb3cbf0f87ef36e055567257f841805faad1253a) - 2025-07-15
+* [Commit] [feat: add a way for precompiles to revert (#2711)](https://github.com/bluealloy/revm/commit/2eea4e945a9325ee0109fb7eae1a3fdfab1e2365) - 2025-07-15
+* [Commit] [docs: add release safety section for SharedMemory fn (#2718)](https://github.com/bluealloy/revm/commit/1a6e3c6b4048ce8300a8c4d5dc018bb0539cde2c) - 2025-07-15
+* [Pull Request] [docs: add release sefety section for SharedMemory fn](https://github.com/bluealloy/revm/pull/2718) - 2025-07-15
+* [Commit] [feat: expose sha3-keccak in revm and revm-primitives (#2713)](https://github.com/bluealloy/revm/commit/a583ecf7dedc419157626ffbbc7563ebbde4856b) - 2025-07-15
+* [Commit] [perf: add asm-sha2 feature for sha2 precompile (#2712)](https://github.com/bluealloy/revm/commit/eb14fbf3def86f84799654799abef9136b49e8a8) - 2025-07-15
+* [Commit] [chore(interpreter): update docs for slice_mut and slice_range (#2714)](https://github.com/bluealloy/revm/commit/57da8726170b04722e6ea9216806354171eee5f0) - 2025-07-15
+* [Commit] [chore: remove State bound from JournalTr in Handler::Evm (#2715)](https://github.com/bluealloy/revm/commit/2f58cbc3a207c67cc4115c2cf9d6c6938ae6c927) - 2025-07-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

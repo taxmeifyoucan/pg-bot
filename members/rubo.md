@@ -22,6 +22,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Revise JSON-RPC docs generation (#8967)](https://github.com/NethermindEth/nethermind/commit/31bbbeefd22b8c80d05a45a4e342ef04590ef3e9) - 2025-07-11
 * [Commit] [Refactor, rename precompiles, and rewrite tests](https://github.com/NethermindEth/nethermind/commit/f7c4de0fc8412f96364e8ea7521c071e4aed42af) - 2025-07-14
 * [Pull Request] [Configure EWC Zurich hard fork](https://github.com/NethermindEth/nethermind/pull/8985) - 2025-07-14
+* [Commit] [Configure EWC Zurich hard fork (#8985)](https://github.com/NethermindEth/nethermind/commit/9bb8edb394f042605efcbff358ff06b64e52c611) - 2025-07-15
 ## Q2 2025
 
 

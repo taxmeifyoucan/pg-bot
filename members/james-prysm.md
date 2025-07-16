@@ -28,6 +28,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [`VerifiedROBlobFromDisk` and `VerifiedRODataColumnFromDisk`: Add tests. (#15484)](https://github.com/OffchainLabs/prysm/commit/02f8726e460332232598a2e8eaf3cb4f1f772502) - 2025-07-11
 * [Commit] [removing unused function](https://github.com/OffchainLabs/prysm/commit/92649ead7af40a3a9e242ea9817e41aeddec14d5) - 2025-07-11
 * [Commit] [more generalized implementation for nested objects](https://github.com/OffchainLabs/prysm/commit/ca403f4f7694654370f6bab81b8da3a883bb5384) - 2025-07-11
+* [Commit] [simplying if statement](https://github.com/OffchainLabs/prysm/commit/09e9cda0d7924a7bc6d9871852238b53772fc40b) - 2025-07-15
+* [Pull Request] [update validator healthz endpoint](https://github.com/OffchainLabs/prysm/pull/15495) - 2025-07-15
 ## Q2 2025
 
 

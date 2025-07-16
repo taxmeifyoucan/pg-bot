@@ -33,6 +33,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [prune to sync pivto test](https://github.com/NethermindEth/nethermind/commit/2e2b6a12a594e3c14617a645e65cf4aefe39479a) - 2025-07-14
 * [Commit] [Revise JSON-RPC docs generation (#8967)](https://github.com/NethermindEth/nethermind/commit/31bbbeefd22b8c80d05a45a4e342ef04590ef3e9) - 2025-07-14
 * [Commit] [types](https://github.com/NethermindEth/nethermind/commit/e763bb149e420997b790c2ecb5907c6411897054) - 2025-07-14
+* [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/603efa51c058c083334487fc785c62db911b5c93) - 2025-07-15
+* [Commit] [tidy](https://github.com/NethermindEth/nethermind/commit/40af0cc8cc2935334682d84a35b93dee8b617ca8) - 2025-07-15
+* [Commit] [fix syncstatuslisttests](https://github.com/NethermindEth/nethermind/commit/2f110b32cd4764c47824a98460136f2b7ad2f545) - 2025-07-15
 ## Q2 2025
 
 

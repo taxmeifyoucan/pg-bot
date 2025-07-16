@@ -8,6 +8,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core/stateless, eth: add debug_executionWitnessByHash](https://github.com/ethereum/go-ethereum/pull/32216) - 2025-07-15
 ## Q2 2025
 
 

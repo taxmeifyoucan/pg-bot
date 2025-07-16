@@ -20,6 +20,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: add support for num of columns and data colum sidecar subnet count](https://github.com/ChainSafe/lodestar/pull/8053) - 2025-07-10
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Fulu validator custody: Use current state instead of finalized state](https://github.com/ethereum/consensus-specs/pull/4443) - 2025-07-15
 ## Q2 2025
 
 

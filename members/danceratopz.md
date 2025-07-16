@@ -66,6 +66,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(deps): restore `uv.lock` revision to v2; upgrade `certifi`](https://github.com/ethereum/execution-spec-tests/pull/1903) - 2025-07-14
 * [Issue] [feat(benchmark,fill): add JIT warm-up sequences as EEST tests](https://github.com/ethereum/execution-spec-tests/issues/1900) - 2025-07-14
 * [Pull Request] [chore(tooling): move unit test config from `pytest-framework.ini` to `pyproject.toml`](https://github.com/ethereum/execution-spec-tests/pull/1898) - 2025-07-14
+* [Commit] [no, but this really should be the last commit](https://github.com/ethereum/execution-spec-tests/commit/79b44c54f00f72f07fbb384bf089bc2c1d236d25) - 2025-07-15
+* [Commit] [fix(plugins/consume): rename folder (#1897)](https://github.com/ethereum/execution-spec-tests/commit/0f7c73a7e177abf58cdba116a3b4275e9be9a61b) - 2025-07-15
 ## Q2 2025
 
 

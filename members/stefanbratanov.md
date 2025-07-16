@@ -8,6 +8,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 
 ## Contributions
 
+## Q3 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Commit] [Added OrbStack thank you note :) (#9658)](https://github.com/Consensys/teku/commit/437b3cda9690785bb8e8534f8cbf2a37494af6b1) - 2025-07-15
+* [Commit] [fusaka-devnet-2 cleanup from master refactor](https://github.com/Consensys/teku/commit/919f0eb485e87d77b56042f4c5df342da9c6901f) - 2025-07-15
+* [Pull Request] [fusaka-devnet-2 cleanup](https://github.com/Consensys/teku/pull/9664) - 2025-07-15
 ## Q2 2025
 
 

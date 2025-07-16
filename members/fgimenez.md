@@ -41,6 +41,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/d0cd10600757e88350897c8ef9c6dd010e1ea756) - 2025-07-12
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/e1b2f27fe4bc1dc8b6e20fab919fd2ed4b5e6fbb) - 2025-07-12
 * [Commit] [perf(engine): clear accounts trie in background to not block state root (#17369)](https://github.com/paradigmxyz/reth/commit/80767f1f3016d0298bd0646a78618f0b740c8089) - 2025-07-12
+* [Commit] [add PayloadValidationOutcome to return block as part of the Ok Result](https://github.com/paradigmxyz/reth/commit/48b5476bde5d9c5c64c7b074b69f96fc0eed3ae6) - 2025-07-15
+* [Pull Request] [feat(engine): add validate_payload and validate_block methods to PayloadValidator trait](https://github.com/paradigmxyz/reth/pull/17429) - 2025-07-15
+* [Commit] [feat(engine): add validate_payload and validate_block methods to PayloadValidator trait](https://github.com/paradigmxyz/reth/commit/00ab06801ac12532eb275f7fcfeebfe491ee1bd2) - 2025-07-15
+* [Commit] [trigger CI](https://github.com/paradigmxyz/reth/commit/a8dbeb638a2ea1187f0f42ae95f706deb426947e) - 2025-07-15
+* [Commit] [feat(rpc): specialise contiguous receipt queries for logs (#16441)](https://github.com/paradigmxyz/reth/commit/f148cb31990bf69ebfac353f21f0468b86254b82) - 2025-07-15
 ## Q2 2025
 
 

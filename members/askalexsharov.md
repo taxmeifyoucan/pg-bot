@@ -272,6 +272,15 @@ Team: Erigon
 * [Issue] [time-deterministic prune. step 2](https://github.com/erigontech/erigon/issues/16075) - 2025-07-12
 * [Issue] [bor-mainnet producing bad bocheckpoint files](https://github.com/erigontech/erigon/issues/16085) - 2025-07-14
 * [Commit] [Fix a few misc mux and webseed issues spotted by Alex (#16087)](https://github.com/erigontech/erigon/commit/f991f8ed3f64e6e5345b1cdcf6e6542ff61fe912) - 2025-07-14
+* [Commit] [[e31] Exec3 small prune timeout  (#16109)](https://github.com/erigontech/erigon/commit/bdc7b63d7468eb8c2fd1f74c83ccbb4c67ec8e2d) - 2025-07-15
+* [Commit] [more deterministic prune (#16069)](https://github.com/erigontech/erigon/commit/3b4bb45bfb8bd722ac0d8a75a5988f4233434808) - 2025-07-15
+* [Commit] [change format of receipt files to fix "duplicated log_index" (#15918)](https://github.com/erigontech/erigon/commit/7228a9977c510d5f44ca27e6c9b3f8f4a19e6252) - 2025-07-15
+* [Pull Request] [prune: switch back to commit with fsync](https://github.com/erigontech/erigon/pull/16110) - 2025-07-15
+* [Commit] [rpcdaemon: check BridgeBackend version only on Bor network (#16101)](https://github.com/erigontech/erigon/commit/cac9e3c6374bb28f8d3919f333cd598e6cea83fd) - 2025-07-15
+* [Commit] [kv: add periodic table size metrics and logs (#16104)](https://github.com/erigontech/erigon/commit/1ad76113fced3da10470a0ab127b587d6e234db0) - 2025-07-15
+* [Commit] [dbg: configure threshold and frequency for peridic heap profile save (#16106)](https://github.com/erigontech/erigon/commit/cd5984729c697479b9a71d87d4a261b144916b2b) - 2025-07-15
+* [Commit] [execution: add metric for prune duration (#16107)](https://github.com/erigontech/erigon/commit/408e44949054061988d3b7bbad0fbeb0b50ecd65) - 2025-07-15
+* [Pull Request] [[e31] Exec3 small prune timeout ](https://github.com/erigontech/erigon/pull/16109) - 2025-07-15
 ## Q2 2025
 
 

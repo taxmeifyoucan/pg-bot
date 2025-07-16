@@ -21,6 +21,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13
+* [Commit] [Update Dockerfile to supported OS (#3467)](https://github.com/status-im/nimbus-eth1/commit/efe68d2a81cf2865a441fddef81c64d6193651a8) - 2025-07-15
 ## Q2 2025
 
 

@@ -27,6 +27,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Update EIP-7825](https://github.com/ethereum/execution-specs/issues/1315) - 2025-07-09
 * [Pull Request] [Update EIP-7939: Update CLZ gas cost](https://github.com/ethereum/execution-specs/pull/1314) - 2025-07-09
 * [Pull Request] [Update CLZ gas cost](https://github.com/ethereum/execution-specs/pull/1313) - 2025-07-09
+* [Commit] [feat: Process `state.reward` in T8N (#1312)](https://github.com/ethereum/execution-specs/commit/e13d33ab21ef1fdd2f073c96a3346e23eb7727f6) - 2025-07-15
 ## Q2 2025
 
 

@@ -19,6 +19,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Refactor ExternalSigner](https://github.com/Consensys/teku/pull/9656) - 2025-07-10
 * [Pull Request] [poolv2 wait warmup before full packing](https://github.com/Consensys/teku/pull/9661) - 2025-07-14
 * [Pull Request] [Improve attestation sorter](https://github.com/Consensys/teku/pull/9660) - 2025-07-14
+* [Commit] [Make various small fixes for Fulu code (#9662)](https://github.com/Consensys/teku/commit/97d4d1b25d63489f06e07668d3d81ba3ce763ad0) - 2025-07-15
+* [Commit] [Make KZG precompute value configurable (#9663)](https://github.com/Consensys/teku/commit/8941e9ffb528a6bbea7b7ac24499b914db127d40) - 2025-07-15
 ## Q2 2025
 
 

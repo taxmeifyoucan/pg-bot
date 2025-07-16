@@ -22,6 +22,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add one more fix.](https://github.com/status-im/nimbus-eth2/commit/cfbed9fbd32a7237051320059134c89abd17d55d) - 2025-07-14
 * [Commit] [Fix tests.](https://github.com/status-im/nimbus-eth2/commit/fce33fab3dc3272ea8993d13c58e4258b61636e7) - 2025-07-14
 * [Commit] [Add Quarantine events.](https://github.com/status-im/nimbus-eth2/commit/511afa91459dee4ac63ee0070c0689ef040cb832) - 2025-07-14
+* [Pull Request] [Blobless quarantine improvements.](https://github.com/status-im/nimbus-eth2/pull/7294) - 2025-07-15
 ## Q2 2025
 
 

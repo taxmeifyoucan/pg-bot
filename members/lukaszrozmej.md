@@ -22,6 +22,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Better null-ckecks in TryGetCanonicalTransaction (#8969)](https://github.com/NethermindEth/nethermind/commit/f41549984556c974977d7d8d8b3bc4cd2c36c211) - 2025-07-11
 * [Commit] [Update OP Superchain chains (#8979)](https://github.com/NethermindEth/nethermind/commit/8ee7c3f0a6177a99f18c3db51a2bde458cec591b) - 2025-07-13
 * [Commit] [Auto-update fast sync settings (#8978)](https://github.com/NethermindEth/nethermind/commit/f9d769249cd4bf0d133acaf565b9e0b708bea97c) - 2025-07-13
+* [Commit] [feat: Add RegexOptions.Compiled flag to NewPayloadJsonRpcValidator (#8984)](https://github.com/NethermindEth/nethermind/commit/c9fe29c1fd7ace1f7669c093033268c523e51105) - 2025-07-15
 ## Q2 2025
 
 

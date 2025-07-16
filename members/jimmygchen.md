@@ -29,6 +29,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Add multi-worker work support to BeaconProcessor](https://github.com/sigp/lighthouse/pull/7720) - 2025-07-09
 * [Pull Request] [Add release helper script to list PRs and breaking changes](https://github.com/sigp/lighthouse/pull/7737) - 2025-07-11
 * [Commit] [Sync peer attribution (#7733)](https://github.com/sigp/lighthouse/commit/34378285c0204f3a8694ec4edaddf57e40301c19) - 2025-07-11
+* [Issue] [Address #7733 review comments: Sync peer attribution](https://github.com/sigp/lighthouse/issues/7744) - 2025-07-15
 ## Q2 2025
 
 

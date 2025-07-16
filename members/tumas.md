@@ -19,6 +19,7 @@ Team: Grandine
 * [Commit] [Add `PubkeyCache` that stores decompressed pubkey bytes:](https://github.com/grandinetech/grandine/commit/78bb608e36177e027fc423a7977bf5811f67c5a0) - 2025-07-14
 * [Commit] [Process blocks in `ad_hoc_bench` in batches.](https://github.com/grandinetech/grandine/commit/24d8a950a4ea25a6ca82fa88fb96708c474e1dbc) - 2025-07-14
 * [Commit] [Preprocess state for late blocks if imported before attesting interval](https://github.com/grandinetech/grandine/commit/06bdb7cfefe85af499a8b4ffdcfd23ea588bca80) - 2025-07-14
+* [Commit] [Add EL/CL versions in default graffiti:](https://github.com/grandinetech/grandine/commit/b340033c4e0888d032707200246e89403237044b) - 2025-07-15
 ## Q2 2025
 
 

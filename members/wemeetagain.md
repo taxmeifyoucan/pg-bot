@@ -14,6 +14,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [chore: bump libp2p](https://github.com/ChainSafe/lodestar/pull/8049) - 2025-07-09
 * [Commit] [fix: remove only connect flags (#8046)](https://github.com/ChainSafe/lodestar/commit/498123da6e1e9ec07a4ee6167e7624a7bd21795c) - 2025-07-09
+* [Commit] [chore: bump package versions to 1.32.0](https://github.com/ChainSafe/lodestar/commit/36dbfb2cfe9d3b70801d905cf1e3d00a049787ed) - 2025-07-15
 ## Q2 2025
 
 

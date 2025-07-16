@@ -51,6 +51,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [resolve flaky TestSetupGenesis: different tmpdir for each parallel test (#16090)](https://github.com/erigontech/erigon/commit/0dea62d878299a6df1d101f975def39cb67de639) - 2025-07-14
 * [Pull Request] [polygon/bridge: re-enable TestService_ProcessNewBlocksWithOverride](https://github.com/erigontech/erigon/pull/16091) - 2025-07-14
 * [Commit] [qa-tests: use 1.67 rpc-test version and enable erigon_getHeaderByHash and number (#16019)](https://github.com/erigontech/erigon/commit/f5e7723aeb94cbea0a350fcbc5796f57834289d9) - 2025-07-14
+* [Pull Request] [execution/stagedsync: add stage metrics](https://github.com/erigontech/erigon/pull/16127) - 2025-07-15
+* [Commit] [backend: create new salt file if unknown snap cfg for chain name (#16102)](https://github.com/erigontech/erigon/commit/9261f70fdbe7fd256d92fa9e609504efb7579af4) - 2025-07-15
 ## Q2 2025
 
 

@@ -31,6 +31,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[CI TEST] MDBX-14](https://github.com/erigontech/erigon/pull/15965) - 2025-07-07
 * [Commit] [[r30] blockReader: add `RPC_HEADER_BY_NUM_LRU` on ancient files only  (#15999)](https://github.com/erigontech/erigon/commit/01c1adf05bb9bcedfdb461995e4c9b621d8bd371) - 2025-07-09
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/4eca9165addb891f670aa62b242227703795e937) - 2025-07-14
+* [Commit] [[r30] receipt_generator: follow `--rpc.evmtimeout` (#16116)](https://github.com/erigontech/erigon/commit/8fac83fd6f10054e8c125fd727777570ae5ae8cb) - 2025-07-15
 ## Q2 2025
 
 
