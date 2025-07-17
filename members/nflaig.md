@@ -30,6 +30,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Keep unscheduled fork boundaries](https://github.com/ChainSafe/lodestar/commit/1ae569c5a258987b7121649c2b38edd96f8cc6ec) - 2025-07-05
 * [Commit] [Use GENESIS_EPOCH consistently](https://github.com/ChainSafe/lodestar/commit/f2e50e3a1ea6aff2ec47aa25ef1c809719831dd1) - 2025-07-05
 * [Commit] [Apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/300f11b829a569f8f037aac1ffe23d31ebe4f75f) - 2025-07-05
+* [Commit] [fix: await builder header response before capturing timing metric (#8058)](https://github.com/ChainSafe/lodestar/commit/1d9f4aaa5812d4883afe575f0a4822b4530c059f) - 2025-07-16
 ## Q2 2025
 
 

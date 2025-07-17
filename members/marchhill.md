@@ -36,6 +36,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/603efa51c058c083334487fc785c62db911b5c93) - 2025-07-15
 * [Commit] [tidy](https://github.com/NethermindEth/nethermind/commit/40af0cc8cc2935334682d84a35b93dee8b617ca8) - 2025-07-15
 * [Commit] [fix syncstatuslisttests](https://github.com/NethermindEth/nethermind/commit/2f110b32cd4764c47824a98460136f2b7ad2f545) - 2025-07-15
+* [Commit] [handle blocktree head being null](https://github.com/NethermindEth/nethermind/commit/da6c0df3b6e5631fcd4d64b8f0515770df2fae76) - 2025-07-16
+* [Commit] [use cutoff pointer to start cutoff search](https://github.com/NethermindEth/nethermind/commit/4c14d27b39623708a622d9747d4bbb4f0cb31291) - 2025-07-16
+* [Commit] [don't change syncconfigbarriercalc if history pruner disabled](https://github.com/NethermindEth/nethermind/commit/89ce2b612aa8d036c0245ac2437b1205051b2d96) - 2025-07-16
 ## Q2 2025
 
 

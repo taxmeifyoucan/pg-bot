@@ -46,6 +46,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [feat(engine): add validate_payload and validate_block methods to PayloadValidator trait](https://github.com/paradigmxyz/reth/commit/00ab06801ac12532eb275f7fcfeebfe491ee1bd2) - 2025-07-15
 * [Commit] [trigger CI](https://github.com/paradigmxyz/reth/commit/a8dbeb638a2ea1187f0f42ae95f706deb426947e) - 2025-07-15
 * [Commit] [feat(rpc): specialise contiguous receipt queries for logs (#16441)](https://github.com/paradigmxyz/reth/commit/f148cb31990bf69ebfac353f21f0468b86254b82) - 2025-07-15
+* [Commit] [feat: add generic database support for Receipt<T> (#17409)](https://github.com/paradigmxyz/reth/commit/253721d22604850180a1af07f7f3e7657dea25c8) - 2025-07-16
 ## Q2 2025
 
 

@@ -101,6 +101,7 @@ Team: Reth
 * [Commit] [move to inner function](https://github.com/paradigmxyz/reth/commit/39bfbc9e20d134c6e3c3d681ce415753760e49b5) - 2025-07-11
 * [Commit] [perf(engine): clear accounts trie in background to not block state root result](https://github.com/paradigmxyz/reth/commit/ed6fe55aeeeb68319b38e17b07dbe0869b64d700) - 2025-07-11
 * [Pull Request] [perf(engine): clear accounts trie in background to not block state root](https://github.com/paradigmxyz/reth/pull/17369) - 2025-07-11
+* [Pull Request] [chore(bin): reth-bench missing --jwt-secret message](https://github.com/paradigmxyz/reth/pull/17443) - 2025-07-16
 ## Q2 2025
 
 

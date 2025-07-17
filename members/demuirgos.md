@@ -15,6 +15,9 @@ Team: Nethermind
 * [Commit] [extract executionRequests from receipts](https://github.com/NethermindEth/nethermind/commit/566246d734255090c07d838d7c9588d048730ac6) - 2025-07-07
 * [Pull Request] [Feature/debug engine execution payload endpoints](https://github.com/NethermindEth/nethermind/pull/8970) - 2025-07-10
 * [Commit] [Add tests for EngineDebugRpcModule](https://github.com/NethermindEth/nethermind/commit/4c1bcbe8a50ae41ea6a67f65936867e209941753) - 2025-07-10
+* [Commit] [CLZ tests](https://github.com/NethermindEth/nethermind/commit/e3b1e091f1e88edbaf02745d6378566b9f4a234f) - 2025-07-16
+* [Commit] [Add CLZ opcode](https://github.com/NethermindEth/nethermind/commit/558db06d65990caa00153e1ac49c8358b99373b1) - 2025-07-16
+* [Commit] [Fixes to ilevm (ethereum tests) (#8988)](https://github.com/NethermindEth/nethermind/commit/e6b9ff8c147fb79e5ce6bb97ebc7120edbb5fc2c) - 2025-07-16
 ## Q2 2025
 
 

@@ -27,6 +27,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Numbers should be string instead of float](https://github.com/OffchainLabs/prysm/commit/1bc9c58da1a827c994f3b98f360c7713e32f26a1) - 2025-07-10
 * [Commit] [Numbers should be string instead of float](https://github.com/OffchainLabs/prysm/commit/a234bd5cad272b9abcfed229c3641942e79354a6) - 2025-07-10
 * [Commit] [Numbers should be string instead of float](https://github.com/OffchainLabs/prysm/commit/54ea14c39a70f9db486104a58cd20e6d981bdb9e) - 2025-07-10
+* [Commit] [Add bundle v2 support for submit blind block (#15198)](https://github.com/OffchainLabs/prysm/commit/f8abf0565f8f54280d7b4eeca22d449601645407) - 2025-07-16
 ## Q2 2025
 
 

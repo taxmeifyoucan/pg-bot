@@ -53,6 +53,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [lock datadir for some snapshot commands](https://github.com/erigontech/erigon/pull/16092) - 2025-07-14
 * [Pull Request] [resolve flaky TestSetupGenesis: different tmpdir for each parallel test](https://github.com/erigontech/erigon/pull/16090) - 2025-07-14
 * [Issue] [add caplin snapshots to publishable command](https://github.com/erigontech/erigon/issues/16086) - 2025-07-14
+* [Pull Request] [wip: major version update for receipt/rcache](https://github.com/erigontech/erigon/pull/16131) - 2025-07-16
+* [Pull Request] [fix kurtosis failure: nil topic in log](https://github.com/erigontech/erigon/pull/16130) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a0e05fc07e23ae59a28b45c3482188b1cc83e76c) - 2025-07-16
 ## Q2 2025
 
 

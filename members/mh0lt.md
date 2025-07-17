@@ -33,6 +33,8 @@ Team: Erigon
 * [Commit] [remove polygonSync](https://github.com/erigontech/erigon/commit/a2988ec1d26c2be3a874cee8128e98a8600f03d3) - 2025-07-12
 * [Commit] [Cherry pick state sync overrides (#16063)](https://github.com/erigontech/erigon/commit/3b206481c595bb1aea4aa410eca5d1667fee0405) - 2025-07-12
 * [Commit] [proposerPriority from VotingPower to ProposerPriority (#15595)](https://github.com/erigontech/erigon/commit/88e9152686f820eff04760192e843bf2b3e87443) - 2025-07-13
+* [Commit] [revert set max checkpoints to 1000 (new heimdall limit)](https://github.com/erigontech/erigon/commit/b960d55a7b618bbb42104420ad66150bcc4b05ca) - 2025-07-16
+* [Commit] [set max checkpoints to 1000 (new heimdall limit)](https://github.com/erigontech/erigon/commit/21463d702acca696d33d32774ce3bce9c755b436) - 2025-07-16
 ## Q2 2025
 
 

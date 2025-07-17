@@ -41,6 +41,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Improve readability](https://github.com/NethermindEth/nethermind/commit/26300d688e9d7de1075895e119aa2c65d1b5f0f9) - 2025-07-14
 * [Commit] [Add tests(improve for the Gnosis case); add link](https://github.com/NethermindEth/nethermind/commit/17612adf04f659bfdca9a45069913ef8ef72611a) - 2025-07-14
 * [Commit] [Move names to precompiles](https://github.com/NethermindEth/nethermind/commit/a74e002c845b1455d8439c9d7edc48e2be17e0f3) - 2025-07-14
+* [Commit] [Add EIP-7910: Add eth_config (#8956)](https://github.com/NethermindEth/nethermind/commit/4540a7fe32f37ed57d19a443b06a20d440303441) - 2025-07-16
+* [Commit] [Merge master into add-eth-config](https://github.com/NethermindEth/nethermind/commit/19a10b6d36a8aec7a43f790a1ed0b30351c04f30) - 2025-07-16
+* [Commit] [EIP-7594: Constant maxBlobsPerTx  (#8940)](https://github.com/NethermindEth/nethermind/commit/5993011f66295eafbb4bde46fd57f76c11c44751) - 2025-07-16
+* [Commit] [Fix next/last hash to be null](https://github.com/NethermindEth/nethermind/commit/c4020a6751ea9213a7517c92a7f9e4f192a327d7) - 2025-07-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

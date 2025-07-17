@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Issue] [Revisit StubDataColumnSidecarManager validation](https://github.com/Consensys/teku/issues/9652) - 2025-07-10
 * [Pull Request] [Remove todo](https://github.com/Consensys/teku/pull/9659) - 2025-07-14
 * [Commit] [remove todo, method is currently taking (#9659)](https://github.com/Consensys/teku/commit/6985a86829acb526356bcd7ec3c5f35366e6ff1d) - 2025-07-15
+* [Issue] [Implement logic to handle getBlobsV3 responses](https://github.com/Consensys/teku/issues/9668) - 2025-07-16
 ## Q2 2025
 
 

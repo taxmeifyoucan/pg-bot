@@ -20,6 +20,7 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Pull Request] [Update `ModExp` precompile to the newest version of EIP-7883 (triple pricing)](https://github.com/NethermindEth/nethermind/pull/8964) - 2025-07-09
 * [Issue] [Update EIP-7883 to the newest version (triple modexp pricing)](https://github.com/NethermindEth/nethermind/issues/8963) - 2025-07-09
 
+* [Pull Request] [Fix naming of data cost in ExecutePrecompile](https://github.com/NethermindEth/nethermind/pull/8994) - 2025-07-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7883: Fix typo in pricing of one test case](https://github.com/ethereum/EIPs/pull/10005) - 2025-07-14
 ## Q2 2025

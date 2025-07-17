@@ -13,6 +13,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [Peer selection issue in ByRange requests](https://github.com/ChainSafe/lodestar/issues/8039) - 2025-07-07
+* [Commit] [fix: bug reading enum](https://github.com/ChainSafe/lodestar/commit/619649b59775c4b524fcd25ec41d1de16eaeb06f) - 2025-07-16
+* [Commit] [feat: use boundary.fork](https://github.com/ChainSafe/lodestar/commit/480d5565c5d5825f460782c969103a0eb8b31e03) - 2025-07-16
+* [Pull Request] [chore: merge unstable july 16](https://github.com/ChainSafe/lodestar/pull/8064) - 2025-07-16
+* [Commit] [feat: broken status get peers (#8063)](https://github.com/ChainSafe/lodestar/commit/67ca1e1955adf08124cbaa6733edfdbc650f7b5b) - 2025-07-16
+* [Pull Request] [feat: broken status get peers](https://github.com/ChainSafe/lodestar/pull/8063) - 2025-07-16
+* [Commit] [feat: remove advertised custody (#8059)](https://github.com/ChainSafe/lodestar/commit/eb543b6d3cb55d11297eb9e2b62fd2c1d16bbcf4) - 2025-07-16
 ## Q2 2025
 
 

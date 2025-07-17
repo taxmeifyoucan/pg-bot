@@ -15,6 +15,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Adjust content id derivation to differentiate body and receipts](https://github.com/status-im/nimbus-eth1/commit/2b5cebcee778d7343b71c8479281f96938d44d1d) - 2025-07-06
 * [Commit] [aristo: fold Adm column family into Vtx (#3383)](https://github.com/status-im/nimbus-eth1/commit/f268688da8d296f91d518bcc6ec7c66c85723fd1) - 2025-07-06
 * [Commit] [Delete deprecated content values as no longer used (#3473)](https://github.com/status-im/nimbus-eth1/commit/95c3f7af74af516b426ecdc1308d642ed3218fdb) - 2025-07-15
+* [Commit] [Add getHeader callback for finalized history network](https://github.com/status-im/nimbus-eth1/commit/bab43084e548467a07dd4d75f5b39d7feafb0eb5) - 2025-07-16
+* [Commit] [Add getHeader callback for finalized history network](https://github.com/status-im/nimbus-eth1/commit/279592df8889f1be2bf786b34b8a2826917636cc) - 2025-07-16
+* [Issue] [Portal legacy / abandoned code removal plan](https://github.com/status-im/nimbus-eth1/issues/3475) - 2025-07-16
+* [Commit] [Simplify FC node coloring/updateFinalized (#3452)](https://github.com/status-im/nimbus-eth1/commit/49c907cbe9ceb8493b04555fc25f0ae7dd195797) - 2025-07-16
 ## Q2 2025
 
 

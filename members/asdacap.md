@@ -79,6 +79,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Isolate Tracer in Proof Module and remove IVisitingWorldState](https://github.com/NethermindEth/nethermind/pull/8981) - 2025-07-13
 * [Commit] [Isolate Tracer in Proof Module and remove IVisitingWorldState (#8981)](https://github.com/NethermindEth/nethermind/commit/979b2652d17f424753aa53e38079f2c6d4b4ed4c) - 2025-07-14
 * [Pull Request] [Fix/some simulate call](https://github.com/NethermindEth/nethermind/pull/8989) - 2025-07-15
+* [Commit] [Move eth simulate from branch processor to block processor](https://github.com/NethermindEth/nethermind/commit/beac11af35e57a2fda22c07fadc32b3c9ef4d9cf) - 2025-07-16
+* [Commit] [Further cleanup](https://github.com/NethermindEth/nethermind/commit/078a8829a1e21c20cf07fbcd4cd7fd01326bc6fd) - 2025-07-16
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/ae9e146e4e9399b37ef0aeb63a48bc24f659aac9) - 2025-07-16
+* [Commit] [Cleanup](https://github.com/NethermindEth/nethermind/commit/429c40850e637a7fc70c10626c4c4934baf4504d) - 2025-07-16
+* [Commit] [Use gascap from jsonrpc config](https://github.com/NethermindEth/nethermind/commit/fc1a9859bf38357a5fce4c54f5c6271d31f1b15b) - 2025-07-16
+* [Commit] [Fix another test](https://github.com/NethermindEth/nethermind/commit/619dfe037f575d67d23417dff5abd0c3cbe19cc4) - 2025-07-16
 ## Q2 2025
 
 

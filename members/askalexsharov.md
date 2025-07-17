@@ -281,6 +281,53 @@ Team: Erigon
 * [Commit] [dbg: configure threshold and frequency for peridic heap profile save (#16106)](https://github.com/erigontech/erigon/commit/cd5984729c697479b9a71d87d4a261b144916b2b) - 2025-07-15
 * [Commit] [execution: add metric for prune duration (#16107)](https://github.com/erigontech/erigon/commit/408e44949054061988d3b7bbad0fbeb0b50ecd65) - 2025-07-15
 * [Pull Request] [[e31] Exec3 small prune timeout ](https://github.com/erigontech/erigon/pull/16109) - 2025-07-15
+* [Commit] [Fixed race between block pruning and block retiring in Bor (#16132)](https://github.com/erigontech/erigon/commit/3ae67efb059ec65f873c51da0f88991ce75a95a8) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c6aeb2219e9a14f86db2639e79a0b1875871ecaa) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bf30b73b0face9752d5de052619ad213d17c4156) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cd9218bff51ebdf6fd54dd0903fd5cec23ecc4f1) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ffaae1f73af2c6d3c24d96d0303b941ad6b4190c) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/097a0a5600e187f6ad1940a16c92823809c00776) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/681a5c985554d4346efad84cc618e25bf1e5e164) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c7ffe81dd2f7e6d8d7ecf68ff2c728be8cd6eb17) - 2025-07-16
+* [Commit] [Remove unused polygon sync flags (#16035)](https://github.com/erigontech/erigon/commit/dded8635b3744f564a554e10cd7bb739bae7eac1) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f790413dbcbd77f1929af06abafa0c4049ed053e) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ae9f2b47670bda3f48aa79253e1b6ffa75a89a4b) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/83b57f8f4bc8694ecac69363d637311c0085f36b) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cf7bf511440833fe841f386636d94c322df1ed36) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9158eecdc38d7813593029c838a2654493fc6cad) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6b053920aef5a22972a033e12023467f5d4529f1) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/19601ff2d7be6e3b5f0226115e6b291f4ffd8bc3) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/65e210406212f0838bbb2b1d4b36fba6f39659fc) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b07fdeae447b7c925da6ac1a779686d74e7dfff5) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/426c669f0a434d60c4c71b8502377908bd25754e) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a8370062d4952074c4a1c0b9a0c499d0e2377191) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e445d77f951348123a479f2201bc27dc1d8be177) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2bcaa11ab825544653f16cb9215525b0c757198d) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/313946bfe1615c8ba2a3ddb86427c87d7b5edb09) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c34679a3ed9673e69f801a9c18b012079de32cc6) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fbc46d185b74bcfae8574ec9489a0bc7df64f2b7) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7282569bfd299e14bb6d45f7482fc673d4025196) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c6768420d3e6feda61aa16244637e887d79abf30) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a28144233c88b5e0d8949a85f1c41ee3530c0219) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1d25652a5e843aa26fe7a6c371a89fe5548e953e) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aa55ab04b4c854e33b0670c1652c5c1195580413) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4f6bdbf4531d6d857765fc8c0d5452cd0b7a4c27) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fc69c8e65caf58cab321abbda708c7b2e6071a6c) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/51c1e24a5ff92016771190cd9c457354ca0d1bd0) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dbfc50e15d0d8dd226648eafe48280d5d5292b65) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6f8ab1cf6fdc0a3183991816594ed28dbbd3b6f7) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cd53f5e19b001b353819253d55ed616565169797) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2f40f8b91f3bda6b8d3cb9dc2b71e7c3e885940c) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8790f05795d01b6f883db90fd35d86e9c70978f5) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b89e94f3622d37b64e4b36f67dc989f94830c094) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/72b7ce0bf122730e4ca2e0ea0b833ffc02aff621) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/55b12f28374436daba23b8ff4fc6e51bfb27bc43) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b16aaf2a085aa3d12f077e3f2222997b4fc2507c) - 2025-07-16
+* [Pull Request] [[r31] InvertedIndex.Prune: follow `limit` parameter](https://github.com/erigontech/erigon/pull/16129) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4e918b6a824765be7cb7cdc98373f8d3f5da9523) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/822d39a23e862714cc9fc354060db9909bb06656) - 2025-07-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/120ce16bdb56620a590cd07c80a0a5bf8f4aa7b7) - 2025-07-16
+* [Pull Request] [InvertedIndex.Prune: follow `limit` parameter](https://github.com/erigontech/erigon/pull/16128) - 2025-07-16
 ## Q2 2025
 
 

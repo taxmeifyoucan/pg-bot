@@ -37,6 +37,7 @@ Team: Portal Network (EF)
 * [Pull Request] [fix: protocol id calculation in is_content_in_deadzone](https://github.com/ethereum/glados/pull/439) - 2025-07-13
 * [Commit] [feat: remove support for state network (#438)](https://github.com/ethereum/glados/commit/f37f33b7ae3b771e6c4e2f3484135540937e8fe6) - 2025-07-13
 * [Pull Request] [feat: remove support for state network](https://github.com/ethereum/glados/pull/438) - 2025-07-13
+* [Pull Request] [feat: implement sync strategy](https://github.com/ethereum/glados/pull/442) - 2025-07-16
 ## Q2 2025
 
 

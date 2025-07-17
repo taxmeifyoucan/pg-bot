@@ -57,6 +57,10 @@ Team: Reth
 * [Commit] [chore: make clippy happy](https://github.com/paradigmxyz/reth/commit/55ddeae7993372928f167f2e7614e7f39178689a) - 2025-07-14
 * [Commit] [chore: make clippy happy](https://github.com/paradigmxyz/reth/commit/75372057e40f03dd6c5f67c79832ffdeed556cf4) - 2025-07-14
 * [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/17399) - 2025-07-14
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/1b7d89eedd93ca0fdc7f7c0b8e0f29d4cedd0710) - 2025-07-16
+* [Pull Request] [docs: add code example to extend_rpc_modules method](https://github.com/paradigmxyz/reth/pull/17446) - 2025-07-16
+* [Pull Request] [docs: enhance direct database access documentation](https://github.com/paradigmxyz/reth/pull/17445) - 2025-07-16
+* [Commit] [chore: bump revm 273 (#17412)](https://github.com/paradigmxyz/reth/commit/26433246682431aba070b5771f90e454296f5e8d) - 2025-07-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

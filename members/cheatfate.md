@@ -23,6 +23,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix tests.](https://github.com/status-im/nimbus-eth2/commit/fce33fab3dc3272ea8993d13c58e4258b61636e7) - 2025-07-14
 * [Commit] [Add Quarantine events.](https://github.com/status-im/nimbus-eth2/commit/511afa91459dee4ac63ee0070c0689ef040cb832) - 2025-07-14
 * [Pull Request] [Blobless quarantine improvements.](https://github.com/status-im/nimbus-eth2/pull/7294) - 2025-07-15
+* [Pull Request] [Use Nimbus agent string for Builder API calls BN performs.](https://github.com/status-im/nimbus-eth2/pull/7300) - 2025-07-16
 ## Q2 2025
 
 

@@ -15,6 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Make getTransactions and getReceipts return empty lists when blocks aren't found](https://github.com/hyperledger/besu/pull/8910) - 2025-07-04
 * [Commit] [Use eth69 in unit tests (#8859)](https://github.com/hyperledger/besu/commit/c58fff24418fc9018a576342c0be9f7dffb34588) - 2025-07-11
 * [Pull Request] [Era1 import prepipeline for FULL sync](https://github.com/hyperledger/besu/pull/8958) - 2025-07-15
+* [Pull Request] [Era1 import prepipeline qol improvements](https://github.com/hyperledger/besu/pull/8964) - 2025-07-16
 ## Q2 2025
 
 

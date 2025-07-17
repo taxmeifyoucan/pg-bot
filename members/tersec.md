@@ -18,6 +18,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [fix beacon block broadcast not using BPO forkdigests](https://github.com/status-im/nimbus-eth2/pull/7285) - 2025-07-09
 * [Commit] [version v25.7.0](https://github.com/status-im/nimbus-eth2/commit/7a0c310eaa284b7c13592c262b9fbbc011a01117) - 2025-07-10
 * [Pull Request] [automated consensus spec URL updating to v1.6.0-alpha.3](https://github.com/status-im/nimbus-eth2/pull/7291) - 2025-07-12
+* [Commit] [nix: update hash for checksums and nimble (#7296)](https://github.com/status-im/nimbus-eth2/commit/b854d67270ba9400f471e0d2a4dfe5bd127b43f2) - 2025-07-16
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

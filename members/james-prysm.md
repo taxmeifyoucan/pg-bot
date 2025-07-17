@@ -30,6 +30,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [more generalized implementation for nested objects](https://github.com/OffchainLabs/prysm/commit/ca403f4f7694654370f6bab81b8da3a883bb5384) - 2025-07-11
 * [Commit] [simplying if statement](https://github.com/OffchainLabs/prysm/commit/09e9cda0d7924a7bc6d9871852238b53772fc40b) - 2025-07-15
 * [Pull Request] [update validator healthz endpoint](https://github.com/OffchainLabs/prysm/pull/15495) - 2025-07-15
+* [Pull Request] [adding remote singer changes for fulu](https://github.com/OffchainLabs/prysm/pull/15498) - 2025-07-16
+* [Commit] [Implement the new Fulu Metadata. (#15440)](https://github.com/OffchainLabs/prysm/commit/bc7664321b477f159ad92559ddfb9de62e95d718) - 2025-07-16
 ## Q2 2025
 
 

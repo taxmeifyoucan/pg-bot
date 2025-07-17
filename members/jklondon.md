@@ -32,6 +32,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [[r30] blockReader: add `RPC_HEADER_BY_NUM_LRU` on ancient files only  (#15999)](https://github.com/erigontech/erigon/commit/01c1adf05bb9bcedfdb461995e4c9b621d8bd371) - 2025-07-09
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/4eca9165addb891f670aa62b242227703795e937) - 2025-07-14
 * [Commit] [[r30] receipt_generator: follow `--rpc.evmtimeout` (#16116)](https://github.com/erigontech/erigon/commit/8fac83fd6f10054e8c125fd727777570ae5ae8cb) - 2025-07-15
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/054ab1dec948c37b550466459e773e35a29d3ae4) - 2025-07-16
+* [Pull Request] [[r30] fix hoodi](https://github.com/erigontech/erigon/pull/16133) - 2025-07-16
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/78e71428accca32d3c665f819770510268b9ce3d) - 2025-07-16
 ## Q2 2025
 
 

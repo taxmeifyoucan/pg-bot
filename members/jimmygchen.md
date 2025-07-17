@@ -30,6 +30,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Add release helper script to list PRs and breaking changes](https://github.com/sigp/lighthouse/pull/7737) - 2025-07-11
 * [Commit] [Sync peer attribution (#7733)](https://github.com/sigp/lighthouse/commit/34378285c0204f3a8694ec4edaddf57e40301c19) - 2025-07-11
 * [Issue] [Address #7733 review comments: Sync peer attribution](https://github.com/sigp/lighthouse/issues/7744) - 2025-07-15
+* [Issue] [Error "Not all columns consumed for block" on `fusaka-devnet-2`](https://github.com/sigp/lighthouse/issues/7747) - 2025-07-16
+* [Pull Request] [Add `jemalloc-profilg` feature](https://github.com/sigp/lighthouse/pull/7746) - 2025-07-16
+* [Commit] [Sync peer attribution (#7733)](https://github.com/sigp/lighthouse/commit/90ff64381e894728e26447bb866047b6cc90dd15) - 2025-07-16
 ## Q2 2025
 
 

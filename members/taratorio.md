@@ -53,6 +53,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [qa-tests: use 1.67 rpc-test version and enable erigon_getHeaderByHash and number (#16019)](https://github.com/erigontech/erigon/commit/f5e7723aeb94cbea0a350fcbc5796f57834289d9) - 2025-07-14
 * [Pull Request] [execution/stagedsync: add stage metrics](https://github.com/erigontech/erigon/pull/16127) - 2025-07-15
 * [Commit] [backend: create new salt file if unknown snap cfg for chain name (#16102)](https://github.com/erigontech/erigon/commit/9261f70fdbe7fd256d92fa9e609504efb7579af4) - 2025-07-15
+* [Commit] [execution/stagedsync: add stage metrics (#16127)](https://github.com/erigontech/erigon/commit/881d17cca82c460472e850f14c743c9a4cd89ee3) - 2025-07-16
+* [Commit] [re-use ErrChainLengthExceedsLimit](https://github.com/erigontech/erigon/commit/2dc7d710b71e75ac14bdd63890354a2cd61a42fe) - 2025-07-16
+* [Commit] [fix kurtosis failure: nil topic in log (#16130)](https://github.com/erigontech/erigon/commit/c57314a43dfac8df27c78e886770f59b00aac341) - 2025-07-16
 ## Q2 2025
 
 

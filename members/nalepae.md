@@ -40,6 +40,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix James' commnet.](https://github.com/OffchainLabs/prysm/commit/43ca3bf7da853b2bb824938c21a481fae3a092f2) - 2025-07-15
 * [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/8305280202172873bc0e049a055980670d118431) - 2025-07-15
 * [Commit] [Fix James' commnet.](https://github.com/OffchainLabs/prysm/commit/0f6e463140200d31ef1c38311acc52056b0d09aa) - 2025-07-15
+* [Commit] [Revert "Fixes server ignores request to gzip data  (#14982)"](https://github.com/OffchainLabs/prysm/commit/6f8a654874a0c6dc91cdc684e8f6aca1185af053) - 2025-07-16
+* [Commit] [move validator run slot ticker (#15479)](https://github.com/OffchainLabs/prysm/commit/78f8411ad22d8bc792242bf2fc897eaacc97607e) - 2025-07-16
+* [Commit] [Log: Add milliseconds to log timestamps](https://github.com/OffchainLabs/prysm/commit/ce4fdb307ec8dfe823c5025637a871efcd0d5e08) - 2025-07-16
+* [Commit] [Log: Add milliseconds to log timestamps](https://github.com/OffchainLabs/prysm/commit/e63392daecd0ed175622f85fcf864e86fc134cf2) - 2025-07-16
+* [Pull Request] [Log: Add back milliseconds to log timestamps](https://github.com/OffchainLabs/prysm/pull/15496) - 2025-07-16
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/a015ae6a29797319376d66469109c7e181f7e19e) - 2025-07-16
+* [Commit] [Add batch verifier limit (#15467)](https://github.com/OffchainLabs/prysm/commit/f4bbe5ca40eee27eafdb743c454357022a4f9693) - 2025-07-16
 ## Q2 2025
 
 

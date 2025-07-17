@@ -20,6 +20,9 @@ Team: Grandine
 * [Commit] [Process blocks in `ad_hoc_bench` in batches.](https://github.com/grandinetech/grandine/commit/24d8a950a4ea25a6ca82fa88fb96708c474e1dbc) - 2025-07-14
 * [Commit] [Preprocess state for late blocks if imported before attesting interval](https://github.com/grandinetech/grandine/commit/06bdb7cfefe85af499a8b4ffdcfd23ea588bca80) - 2025-07-14
 * [Commit] [Add EL/CL versions in default graffiti:](https://github.com/grandinetech/grandine/commit/b340033c4e0888d032707200246e89403237044b) - 2025-07-15
+* [Commit] [Improve `pubkey_cache` info messages](https://github.com/grandinetech/grandine/commit/f57f5fc92f0568c6a35ae25761c21796d24c528c) - 2025-07-16
+* [Commit] [Add `GET /eth/v1/beacon/blinded_blocks/{block_id}` endpoint](https://github.com/grandinetech/grandine/commit/cc9632ffcca012f8b47a74fd4f29dd02661df9c8) - 2025-07-16
+* [Pull Request] [Improve `pubkey_cache` info messages](https://github.com/grandinetech/grandine/pull/262) - 2025-07-16
 ## Q2 2025
 
 

@@ -27,6 +27,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [added getLast and forkId to eth_config](https://github.com/hyperledger/besu/pull/8946) - 2025-07-10
 * [Commit] [added getLast and forkId to eth_config (#8946)](https://github.com/hyperledger/besu/commit/6212b0b71f6a51c3a48e9cf3ce30c6ff81be0798) - 2025-07-14
 * [Pull Request] [update setup-java action to 4.7.1](https://github.com/hyperledger/besu/pull/8953) - 2025-07-14
+* [Commit] [[CONTRIBUTING] move trivial clause to bottom (#8956)](https://github.com/hyperledger/besu/commit/2b6cae0a1026ed5ab07011e53530f967b5eec31c) - 2025-07-16
+* [Pull Request] [[GHA] remove separate QBFT AT task](https://github.com/hyperledger/besu/pull/8962) - 2025-07-16
 ## Q2 2025
 
 

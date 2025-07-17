@@ -43,6 +43,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [Update qa-rpc-integration-tests.yml](https://github.com/erigontech/erigon/commit/3036821e4634740236f01c0b8aaaa6acf896e956) - 2025-07-15
 * [Commit] [Update qa-rpc-integration-tests-polygon.yml](https://github.com/erigontech/erigon/commit/2f0df4eb1d45fa37eb31e2284f204858dba3ec55) - 2025-07-15
 * [Pull Request] [qa-tests: temporarily disable RPC Integration Tests](https://github.com/erigontech/erigon/pull/16112) - 2025-07-15
+* [Pull Request] [tests: fix panic db closed in TestDump](https://github.com/erigontech/erigon/pull/16135) - 2025-07-16
+* [Commit] [tests: fix panic db closed in TestDump](https://github.com/erigontech/erigon/commit/3fccda1795201bc26fd4b1b79e5d9a1b50514679) - 2025-07-16
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -26,6 +26,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [chore: double P256VERIFY cost](https://github.com/hyperledger/besu/pull/8925) - 2025-07-08
 * [Pull Request] [feat: getBlobsV2 devnet 3 changes](https://github.com/hyperledger/besu/pull/8924) - 2025-07-08
 * [Pull Request] [feat: use codeSize from flatdb for extcodesize](https://github.com/hyperledger/besu/pull/8950) - 2025-07-11
+* [Commit] [Start with eth/69 (#8963)](https://github.com/hyperledger/besu/commit/99be034a5347836f2cb5d83b73a1cf1c7d8b4d30) - 2025-07-16
+* [Pull Request] [[fusaka-devnet-2] Start with eth/69](https://github.com/hyperledger/besu/pull/8963) - 2025-07-16
+* [Commit] [Prometheus Metrics for engine_getBlobsV2 RPC Method (#8951)](https://github.com/hyperledger/besu/commit/ea3f5e107e4d4af76135fe065f962f1e03bd2396) - 2025-07-16
 ## Q2 2025
 
 

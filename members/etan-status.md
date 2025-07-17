@@ -17,6 +17,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update EIP-7807: Adopt `ProgerssiveContainer`](https://github.com/ethereum/EIPs/pull/9976) - 2025-07-03
 * [Pull Request] [Update EIP-7799: Adopt `ProgressiveList`](https://github.com/ethereum/EIPs/pull/9975) - 2025-07-03
 * [Pull Request] [Update EIP-6465: Adopt `ProgressiveContainer` / `ProgressiveList`](https://github.com/ethereum/EIPs/pull/9974) - 2025-07-03
+* [Pull Request] [Update EIP-7916: Move reference implementation to ethereum/remerkleable](https://github.com/ethereum/EIPs/pull/10016) - 2025-07-16
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Add EIP-7916 ProgressiveList specs and tests](https://github.com/ethereum/consensus-specs/pull/4445) - 2025-07-16
 ## Q2 2025
 
 

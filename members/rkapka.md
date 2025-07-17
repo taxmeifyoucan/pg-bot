@@ -18,6 +18,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [fixing e2e builder gas limit (#15025)](https://github.com/OffchainLabs/prysm/commit/4e41d5c61088f6d28d46c028f1b4d4ae00f20d98) - 2025-07-11
 * [Commit] [review](https://github.com/OffchainLabs/prysm/commit/ab829629bb896e5d97c6d810166fd9f3cc291e67) - 2025-07-14
 * [Commit] [move validator run slot ticker (#15479)](https://github.com/OffchainLabs/prysm/commit/78f8411ad22d8bc792242bf2fc897eaacc97607e) - 2025-07-14
+* [Commit] [Log: Add milliseconds to log timestamps (#15496)](https://github.com/OffchainLabs/prysm/commit/9e014da0b91e696976edec05982573aa4f335547) - 2025-07-16
+* [Pull Request] [Write gzip header properly](https://github.com/OffchainLabs/prysm/pull/15499) - 2025-07-16
+* [Commit] [changelog](https://github.com/OffchainLabs/prysm/commit/b56a0620e9d409b03418a95b23f6d201e8cd1ddd) - 2025-07-16
+* [Commit] [Write gzip header properly](https://github.com/OffchainLabs/prysm/commit/f78558d44eaf99365c4ef8dd2f7911df6c2c3649) - 2025-07-16
 ## Q2 2025
 
 

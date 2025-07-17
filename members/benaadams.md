@@ -80,6 +80,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [More hot code in ConnectNodes (#8982)](https://github.com/NethermindEth/nethermind/commit/ac37e35231613fc99deccc47344e77066c9ce459) - 2025-07-14
 * [Commit] [Own policy](https://github.com/NethermindEth/nethermind/commit/ab508e943fb8d67ab09b1d679a04d56d5ead51bc) - 2025-07-15
 * [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/3db29091ab8163ba707c09602e1d6c9c1ce81e5a) - 2025-07-15
+* [Commit] [reverse pivot](https://github.com/NethermindEth/nethermind/commit/31672dd16d09e23cf975c5503c12dcf5edc1671b) - 2025-07-16
+* [Commit] [Revise JSON-RPC docs generation (#8967)](https://github.com/NethermindEth/nethermind/commit/31bbbeefd22b8c80d05a45a4e342ef04590ef3e9) - 2025-07-16
+* [Commit] [Ensure exception in block downloader is caught (#8931)](https://github.com/NethermindEth/nethermind/commit/55f7950321d4bd7db7076d050d0a7837edc4cc58) - 2025-07-16
 ## Q2 2025
 
 

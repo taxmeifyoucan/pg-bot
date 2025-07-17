@@ -23,6 +23,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Refactor, rename precompiles, and rewrite tests](https://github.com/NethermindEth/nethermind/commit/f7c4de0fc8412f96364e8ea7521c071e4aed42af) - 2025-07-14
 * [Pull Request] [Configure EWC Zurich hard fork](https://github.com/NethermindEth/nethermind/pull/8985) - 2025-07-14
 * [Commit] [Configure EWC Zurich hard fork (#8985)](https://github.com/NethermindEth/nethermind/commit/9bb8edb394f042605efcbff358ff06b64e52c611) - 2025-07-15
+* [Commit] [Fix naming of data cost in ExecutePrecompile (#8994)](https://github.com/NethermindEth/nethermind/commit/6ba2255face100a65aab7984e0f33ee6f5de9010) - 2025-07-16
 ## Q2 2025
 
 

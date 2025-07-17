@@ -58,6 +58,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [try 200ms](https://github.com/erigontech/erigon/commit/fef681fbf31c9dc166a4ae8f22708e9a2597365b) - 2025-07-15
 * [Commit] [earliest available slot](https://github.com/erigontech/erigon/commit/5e2434599aa85a546dd003de19beabe32d64b830) - 2025-07-15
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/3ca58e3b1765901440d299cbef01ade42a29e26e) - 2025-07-15
+* [Commit] [update](https://github.com/erigontech/erigon/commit/21f33ae78e860be3478efc3138e8edd6f6fda4af) - 2025-07-16
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/dcb42b8a977a55ed12a44c57fca207d8eea930e0) - 2025-07-16
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/de78249c1017da3d3ad68c84f57e0226b71ccac1) - 2025-07-16
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/593fc35a534d740d82d5e545b072e8e308974910) - 2025-07-16
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/a92ed01d927b4686a09e836c8f03e9fec38668b4) - 2025-07-16
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/caf227759c46e13ee1d431436c7eb2dc0202b46d) - 2025-07-16
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/837334c491dfca3aede8768d1d5fbdc4bbf77eca) - 2025-07-16
 ## Q2 2025
 
 
