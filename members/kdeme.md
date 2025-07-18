@@ -19,6 +19,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add getHeader callback for finalized history network](https://github.com/status-im/nimbus-eth1/commit/279592df8889f1be2bf786b34b8a2826917636cc) - 2025-07-16
 * [Issue] [Portal legacy / abandoned code removal plan](https://github.com/status-im/nimbus-eth1/issues/3475) - 2025-07-16
 * [Commit] [Simplify FC node coloring/updateFinalized (#3452)](https://github.com/status-im/nimbus-eth1/commit/49c907cbe9ceb8493b04555fc25f0ae7dd195797) - 2025-07-16
+* [Commit] [Rename finalized history network to history network](https://github.com/status-im/nimbus-eth1/commit/e3a0bbb1cdba5e89158fe3fd64c1f252a6e9522f) - 2025-07-17
+* [Commit] [proxy: mock transport (#3463)](https://github.com/status-im/nimbus-eth1/commit/97795b4c823289c846901d321d0ff3fa56ca5d6e) - 2025-07-17
+* [Commit] [Portal: rename history network to legacy history network for now (#3476)](https://github.com/status-im/nimbus-eth1/commit/52271f67de703059e2ae1f661794a13f5f1319ad) - 2025-07-17
+* [Commit] [Portal: default disable beacon network (#3478)](https://github.com/status-im/nimbus-eth1/commit/1be3e02dcfb2d1a3ac9cbd7505ef7e1fde130ae1) - 2025-07-17
 ## Q2 2025
 
 

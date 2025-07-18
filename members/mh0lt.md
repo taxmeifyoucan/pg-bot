@@ -35,6 +35,17 @@ Team: Erigon
 * [Commit] [proposerPriority from VotingPower to ProposerPriority (#15595)](https://github.com/erigontech/erigon/commit/88e9152686f820eff04760192e843bf2b3e87443) - 2025-07-13
 * [Commit] [revert set max checkpoints to 1000 (new heimdall limit)](https://github.com/erigontech/erigon/commit/b960d55a7b618bbb42104420ad66150bcc4b05ca) - 2025-07-16
 * [Commit] [set max checkpoints to 1000 (new heimdall limit)](https://github.com/erigontech/erigon/commit/21463d702acca696d33d32774ce3bce9c755b436) - 2025-07-16
+* [Commit] [wrt](https://github.com/erigontech/erigon/commit/febd081c46d844f6b731afa47e7d214a00d95171) - 2025-07-17
+* [Commit] [print](https://github.com/erigontech/erigon/commit/b3be07facdd81c99f32763cd8af5138572c8ddc2) - 2025-07-17
+* [Commit] [print cb](https://github.com/erigontech/erigon/commit/eee4a29e6711c77a6459aa57fb3cd1adf99173fd) - 2025-07-17
+* [Commit] [print cb](https://github.com/erigontech/erigon/commit/1c1cb265070cdfbc061cef9aedaa3759e241b219) - 2025-07-17
+* [Commit] [reace finalize](https://github.com/erigontech/erigon/commit/3303fbd171e64079b6424fe6dadf6cc34eacbac2) - 2025-07-17
+* [Commit] [no dirty](https://github.com/erigontech/erigon/commit/81d37f45f3614ed97711fd83876fcfa4c7a9a042) - 2025-07-17
+* [Commit] [print vr](https://github.com/erigontech/erigon/commit/bad1e65869f7cd7cc312dc432faf28f7c2bfb520) - 2025-07-17
+* [Commit] [print vr](https://github.com/erigontech/erigon/commit/ecce42f4636b6edaa2a4d4741e8e87e8fee4ba4e) - 2025-07-17
+* [Commit] [add stats update](https://github.com/erigontech/erigon/commit/b053c1e39a6f8a02f8d7748a5f6abe17016b340d) - 2025-07-17
+* [Commit] [flush index-1 writes](https://github.com/erigontech/erigon/commit/1b125e50623e63997d0db122842ab63ca1434ec2) - 2025-07-17
+* [Commit] [add printers](https://github.com/erigontech/erigon/commit/1ed8fd408c87d4319d8023d31f0292ea6a898e80) - 2025-07-17
 ## Q2 2025
 
 

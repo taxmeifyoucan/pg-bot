@@ -44,6 +44,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(github): add benchmarks releases for 1M and 10M gas limit (#1876)](https://github.com/ethereum/execution-spec-tests/commit/6a518bf7105750ee38f152cd6a524ce73638d7f9) - 2025-07-14
 * [Commit] [is this the last commit?](https://github.com/ethereum/execution-spec-tests/commit/7c7ea909c32d64b700abda87e43743a386aff7b2) - 2025-07-15
 * [Commit] [chore: more eels bumps.](https://github.com/ethereum/execution-spec-tests/commit/5f59f2a48ae3eed99f1966593d8795d9abc15eec) - 2025-07-15
+* [Commit] [eip-7918: update blob_base_cost (#1915)](https://github.com/ethereum/execution-spec-tests/commit/6cf5107cee0eae1c2d4dd6a5ef5bc729aea6c379) - 2025-07-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

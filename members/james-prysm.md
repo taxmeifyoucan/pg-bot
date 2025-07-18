@@ -32,6 +32,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [update validator healthz endpoint](https://github.com/OffchainLabs/prysm/pull/15495) - 2025-07-15
 * [Pull Request] [adding remote singer changes for fulu](https://github.com/OffchainLabs/prysm/pull/15498) - 2025-07-16
 * [Commit] [Implement the new Fulu Metadata. (#15440)](https://github.com/OffchainLabs/prysm/commit/bc7664321b477f159ad92559ddfb9de62e95d718) - 2025-07-16
+* [Commit] [adding test](https://github.com/OffchainLabs/prysm/commit/51b5f13261bf6a3f163dc1d7a717169f69371af4) - 2025-07-17
+* [Commit] [adding kasey and radek's suggestions](https://github.com/OffchainLabs/prysm/commit/a839701b0a6d38af3b7966f74a7d0785cf2ad630) - 2025-07-17
+* [Commit] [Write `Content-Encoding` header in the response properly when gzip encoding is requested (#15499)](https://github.com/OffchainLabs/prysm/commit/8623a144d92659ed89f8830eb4d7f4c3000be724) - 2025-07-17
+* [Commit] [Abstract validation logic for saving LC updates into the store function (#15504)](https://github.com/OffchainLabs/prysm/commit/f3314d2d24c3f8e52be9ce593ee3538f36e49d6e) - 2025-07-17
 ## Q2 2025
 
 

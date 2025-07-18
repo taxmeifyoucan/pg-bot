@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Pull Request] [Fix surge average gas usage estimation](https://github.com/NethermindEth/nethermind/pull/8998) - 2025-07-17
 ## Q2 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

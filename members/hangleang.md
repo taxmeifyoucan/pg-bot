@@ -19,6 +19,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Subscribe or unsubscribe subnet gossip topics with current fork digest](https://github.com/grandinetech/grandine/pull/259) - 2025-07-15
 * [Pull Request] [Fetch blobs from EL when receiving any data column sidecar](https://github.com/grandinetech/grandine/pull/258) - 2025-07-15
 * [Pull Request] [Prioritize statusv2](https://github.com/grandinetech/grandine/pull/261) - 2025-07-16
+* [Commit] [Batch data column by root requests](https://github.com/grandinetech/grandine/commit/b8b204803133af68da345e40262e49d6eaf5b5e4) - 2025-07-17
+* [Commit] [Update consensus-spec-tests to v1.6.0-alpha.3](https://github.com/grandinetech/grandine/commit/76aad4e1c0dbba943eb3de821bf936efee9c55e7) - 2025-07-17
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

@@ -24,6 +24,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Configure EWC Zurich hard fork](https://github.com/NethermindEth/nethermind/pull/8985) - 2025-07-14
 * [Commit] [Configure EWC Zurich hard fork (#8985)](https://github.com/NethermindEth/nethermind/commit/9bb8edb394f042605efcbff358ff06b64e52c611) - 2025-07-15
 * [Commit] [Fix naming of data cost in ExecutePrecompile (#8994)](https://github.com/NethermindEth/nethermind/commit/6ba2255face100a65aab7984e0f33ee6f5de9010) - 2025-07-16
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 ## Q2 2025
 
 

@@ -42,6 +42,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [more test fixes](https://github.com/OffchainLabs/prysm/commit/538e44d8861dd9dfcff3b3db2025a0c3ecd4d2d0) - 2025-07-14
 * [Commit] [more test fixes](https://github.com/OffchainLabs/prysm/commit/b11cc6e0112132e00da2aa99e3376eaf9fcf60f2) - 2025-07-14
 * [Commit] [refactor electra attestation test](https://github.com/OffchainLabs/prysm/commit/fcff9b535adb8c9f77c68b2d67f35a8e0002421e) - 2025-07-14
+* [Commit] [fork refactor test fix](https://github.com/OffchainLabs/prysm/commit/9d8e00ebd45a92982c28de4ab42abd5ed944135e) - 2025-07-17
+* [Commit] [Beacon api: fix get config blob schedule](https://github.com/OffchainLabs/prysm/commit/cfbb24514a7bf1f333156d84dda6be07638a511e) - 2025-07-17
+* [Commit] [Beacon api: fix get config blob schedule](https://github.com/OffchainLabs/prysm/commit/17432845f2b74d4776c1a947714a9f1d411d1ada) - 2025-07-17
+* [Commit] [test fix](https://github.com/OffchainLabs/prysm/commit/06b350ce7c3451b38fc9af434bdd2ac65e7c47ee) - 2025-07-17
+* [Commit] [overhaul fork schedule management for bpos](https://github.com/OffchainLabs/prysm/commit/0ff0f4855433873f29b3fc43f1d87941880b33a9) - 2025-07-17
+* [Commit] [fusaka fork digest enr changes](https://github.com/OffchainLabs/prysm/commit/e727f7a029d5443ef13f01fe7b7e0f7774a8f330) - 2025-07-17
+* [Commit] [overhaul fork schedule management for bpos](https://github.com/OffchainLabs/prysm/commit/554e7862d9ad04d4253d9ae59300b7d1f9bf8f58) - 2025-07-17
+* [Pull Request] [Fusaka devnet 3 + bpo code](https://github.com/OffchainLabs/prysm/pull/15507) - 2025-07-17
+* [Commit] [move validator run slot ticker (#15479)](https://github.com/OffchainLabs/prysm/commit/78f8411ad22d8bc792242bf2fc897eaacc97607e) - 2025-07-17
 ## Q2 2025
 
 

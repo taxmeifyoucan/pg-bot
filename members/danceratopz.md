@@ -70,6 +70,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(plugins/consume): rename folder (#1897)](https://github.com/ethereum/execution-spec-tests/commit/0f7c73a7e177abf58cdba116a3b4275e9be9a61b) - 2025-07-15
 * [Issue] [feat(fill,benchmark): add new contract-only fixture format for spamoor](https://github.com/ethereum/execution-spec-tests/issues/1913) - 2025-07-16
 * [Commit] [fix(consume,cli): fix plugin path after rebase](https://github.com/ethereum/execution-spec-tests/commit/e91d29b8b81fa765cbee75a6ac19adf8c57bf1ba) - 2025-07-16
+* [Commit] [Deployed 6cf5107cee0 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2977ae8fa0d1f40c9af8fdd6e12312e79a6bb8d3) - 2025-07-17
 ## Q2 2025
 
 

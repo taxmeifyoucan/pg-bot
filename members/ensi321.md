@@ -14,6 +14,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Commit] [Address @nflaig's comment](https://github.com/ChainSafe/lodestar/commit/7e2db14acac1d92cb6eaabce47969e874c774210) - 2025-07-01
 * [Commit] [feat: track on chain proposer rewards per block (#8018)](https://github.com/ChainSafe/lodestar/commit/2fdd3fa446964d8f1f5c88c822cdbb88920090ca) - 2025-07-11
+* [Commit] [feat: add next fork digest (nfd) entry to ENR (#8023)](https://github.com/ChainSafe/lodestar/commit/417cd4b766857d6db50986517b6df59d58df7fb0) - 2025-07-17
+* [Commit] [Fix merge](https://github.com/ChainSafe/lodestar/commit/ab4bbb1071b12ce1e5a857e15a96d2edc6cfbace) - 2025-07-17
+* [Commit] [chore: add electra fork constants to unscheduled networks (#7401)](https://github.com/ChainSafe/lodestar/commit/5b8e82138896a1dc6c688624fe64901366532dd4) - 2025-07-17
 ## Q2 2025
 
 

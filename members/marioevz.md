@@ -30,6 +30,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tooling): bump uv.lock revision back from 1 to 2 (#1903)](https://github.com/ethereum/execution-spec-tests/commit/a78d80e09ada0ca1938893738c7671bc638d6489) - 2025-07-14
 * [Pull Request] [fix(specs): Fix State Tests Genesis Environment](https://github.com/ethereum/execution-spec-tests/pull/1912) - 2025-07-15
 
+* [Pull Request] [feat(fixtures,specs,types): Verify address collisions during pre-alloc grouping phase](https://github.com/ethereum/execution-spec-tests/pull/1922) - 2025-07-17
+* [Commit] [feat(fill): implement address tag resolution for static test fillers (#1781)](https://github.com/ethereum/execution-spec-tests/commit/fd34ad01540e21fdb3945d821fe2279594d642cb) - 2025-07-17
+* [Commit] [feat(tests): Additional EIP-7934 test cases (#1890)](https://github.com/ethereum/execution-spec-tests/commit/5064c1ce28849f305bbb35ff526757a25146bb09) - 2025-07-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 ## Q2 2025

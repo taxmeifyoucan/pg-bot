@@ -19,6 +19,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: broken status get peers (#8063)](https://github.com/ChainSafe/lodestar/commit/67ca1e1955adf08124cbaa6733edfdbc650f7b5b) - 2025-07-16
 * [Pull Request] [feat: broken status get peers](https://github.com/ChainSafe/lodestar/pull/8063) - 2025-07-16
 * [Commit] [feat: remove advertised custody (#8059)](https://github.com/ChainSafe/lodestar/commit/eb543b6d3cb55d11297eb9e2b62fd2c1d16bbcf4) - 2025-07-16
+* [Commit] [fix: increase MAX_BATCH_PROCESSING_ATTEMPTS (#8037)](https://github.com/ChainSafe/lodestar/commit/adb684580d8210d69859370ea21efae295e8288c) - 2025-07-17
 ## Q2 2025
 
 

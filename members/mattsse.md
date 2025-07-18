@@ -61,6 +61,7 @@ Team: Reth
 * [Pull Request] [docs: add code example to extend_rpc_modules method](https://github.com/paradigmxyz/reth/pull/17446) - 2025-07-16
 * [Pull Request] [docs: enhance direct database access documentation](https://github.com/paradigmxyz/reth/pull/17445) - 2025-07-16
 * [Commit] [chore: bump revm 273 (#17412)](https://github.com/paradigmxyz/reth/commit/26433246682431aba070b5771f90e454296f5e8d) - 2025-07-16
+* [Pull Request] [feat: add envelope conversion for op](https://github.com/paradigmxyz/reth/pull/17469) - 2025-07-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

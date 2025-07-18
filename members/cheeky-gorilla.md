@@ -13,6 +13,14 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Commit] [Fix: remove Daniel Lazarenko](https://github.com/protocolguild/documentation/commit/cecb7450a3e297e07c49215915036368881e9b0c) - 2025-07-01
+* [Commit] [Marek Moraczyński 1 -> 0.5](https://github.com/protocolguild/documentation/commit/604f7bb5b5748e2b9189aa7a919493ff2aa92236) - 2025-07-17
+* [Commit] [Remove Andrei Maiboroda](https://github.com/protocolguild/documentation/commit/1b6dbfc74eae5c85583793831662a82362eac12e) - 2025-07-17
+* [Commit] [Remove Piotr Dobaczewski](https://github.com/protocolguild/documentation/commit/8a9dcff8cbf380700ad7ffce5cc7623b61d62fc1) - 2025-07-17
+* [Commit] [Update 01-membership.md](https://github.com/protocolguild/documentation/commit/f085d97a9849f7fe9e91bf1ed9ebeaf340780470) - 2025-07-17
+* [Commit] [Remove @carver and @ogenev ](https://github.com/protocolguild/documentation/commit/010b26df5a99a6f44cddb6d452e4aa696062454f) - 2025-07-17
+* [Commit] [Remove Hugo De la cruz](https://github.com/protocolguild/documentation/commit/5fa4fa8715b8f3fc08707a75a3a1c7c8126bde6b) - 2025-07-17
+* [Commit] [remove g11tech from Lodestar](https://github.com/protocolguild/documentation/commit/798bf4cbf5d4e0ffdedd6cae8a49814aca4dc945) - 2025-07-17
+* [Commit] [rename twoeths](https://github.com/protocolguild/documentation/commit/8d68f31ac411ec9a1145bb0efaf89651dde7359a) - 2025-07-17
 ## Q2 2025
 
 

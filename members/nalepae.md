@@ -47,6 +47,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Log: Add back milliseconds to log timestamps](https://github.com/OffchainLabs/prysm/pull/15496) - 2025-07-16
 * [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/a015ae6a29797319376d66469109c7e181f7e19e) - 2025-07-16
 * [Commit] [Add batch verifier limit (#15467)](https://github.com/OffchainLabs/prysm/commit/f4bbe5ca40eee27eafdb743c454357022a4f9693) - 2025-07-16
+* [Commit] [Add bundle v2 support for submit blind block (#15503)](https://github.com/OffchainLabs/prysm/commit/09485c20622471105185f2dd8c4e8d274d8cb889) - 2025-07-17
+* [Commit] [`validateSequenceNumber`: Downscore peer in function, clarify and add logs](https://github.com/OffchainLabs/prysm/commit/585066d135e82688d4787c2e6c6e7e464714c5c0) - 2025-07-17
+* [Commit] [Update beacon-chain/p2p/subnets.go](https://github.com/OffchainLabs/prysm/commit/5029c5eb2b6aba05b2d1b19bc53075c51183e410) - 2025-07-17
+* [Commit] [Log when downscoring a peer.](https://github.com/OffchainLabs/prysm/commit/1d22b236d5b344d9210d077f3b91249885b83e08) - 2025-07-17
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/6ab6e4b2c29b26057a532028bdb09cc71eee6644) - 2025-07-17
+* [Commit] [`TestService_BroadcastDataColumn`: Re-add sleep 50 ms.](https://github.com/OffchainLabs/prysm/commit/0826f575e65b1b59d197e9f3c9b9d1e2b448fd6a) - 2025-07-17
 ## Q2 2025
 
 

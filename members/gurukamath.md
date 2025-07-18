@@ -18,6 +18,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [bug(fork): Osaka fork does not define valid_opcodes](https://github.com/ethereum/execution-spec-tests/issues/1826) - 2025-07-01
 
 * [Pull Request] [feat(osaka): Update EIP-7939 - update CLZ gas cost](https://github.com/ethereum/execution-spec-tests/pull/1879) - 2025-07-09
+* [Pull Request] [feat(tests): update blob_base_cost](https://github.com/ethereum/execution-spec-tests/pull/1915) - 2025-07-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [STEEL Merge: Harmonize code standards](https://github.com/ethereum/execution-specs/issues/1301) - 2025-07-03
 * [Issue] [Implement EIP-7594](https://github.com/ethereum/execution-specs/issues/1319) - 2025-07-09

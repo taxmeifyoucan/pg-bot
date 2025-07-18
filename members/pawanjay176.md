@@ -15,6 +15,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Pull Request] [Use prepare_beacon_proposer endpoint for validator custody registration](https://github.com/sigp/lighthouse/pull/7681) - 2025-07-01
 * [Pull Request] [Bump default gas limit](https://github.com/sigp/lighthouse/pull/7695) - 2025-07-02
 * [Pull Request] [Sync peer attribution](https://github.com/sigp/lighthouse/pull/7726) - 2025-07-10
+* [Pull Request] [Fix enr loading from disk with cgc](https://github.com/sigp/lighthouse/pull/7754) - 2025-07-17
+* [Pull Request] [Serialize bpo schedule in asending order](https://github.com/sigp/lighthouse/pull/7753) - 2025-07-17
 ## Q2 2025
 
 

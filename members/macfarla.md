@@ -29,6 +29,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [update setup-java action to 4.7.1](https://github.com/hyperledger/besu/pull/8953) - 2025-07-14
 * [Commit] [[CONTRIBUTING] move trivial clause to bottom (#8956)](https://github.com/hyperledger/besu/commit/2b6cae0a1026ed5ab07011e53530f967b5eec31c) - 2025-07-16
 * [Pull Request] [[GHA] remove separate QBFT AT task](https://github.com/hyperledger/besu/pull/8962) - 2025-07-16
+* [Commit] [Revert "verify docker container on develop workflow (#8876)" (#8969)](https://github.com/hyperledger/besu/commit/44a1412351d77a26c565452f1f0ae70b4ab1d9f4) - 2025-07-17
+* [Commit] [verify docker container on develop workflow take 2 (#8970)](https://github.com/hyperledger/besu/commit/45f57d0740b35c1e8338d17ac4591ce236bd2685) - 2025-07-17
+* [Pull Request] [verify docker container on develop workflow take 2](https://github.com/hyperledger/besu/pull/8970) - 2025-07-17
+* [Pull Request] [Revert "verify docker container on develop workflow (#8876)"](https://github.com/hyperledger/besu/pull/8969) - 2025-07-17
+* [Pull Request] [remove deprecated method Quantity.getValue](https://github.com/hyperledger/besu/pull/8968) - 2025-07-17
 ## Q2 2025
 
 

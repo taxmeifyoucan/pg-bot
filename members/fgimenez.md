@@ -47,6 +47,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [trigger CI](https://github.com/paradigmxyz/reth/commit/a8dbeb638a2ea1187f0f42ae95f706deb426947e) - 2025-07-15
 * [Commit] [feat(rpc): specialise contiguous receipt queries for logs (#16441)](https://github.com/paradigmxyz/reth/commit/f148cb31990bf69ebfac353f21f0468b86254b82) - 2025-07-15
 * [Commit] [feat: add generic database support for Receipt<T> (#17409)](https://github.com/paradigmxyz/reth/commit/253721d22604850180a1af07f7f3e7657dea25c8) - 2025-07-16
+* [Commit] [doc](https://github.com/paradigmxyz/reth/commit/e0f2b3406a777db73d0b90405c71270d1521d6aa) - 2025-07-17
+* [Commit] [validate_payload: execute block](https://github.com/paradigmxyz/reth/commit/51a5b9b16e491b7f447a4c995b655ffb1546c9ba) - 2025-07-17
+* [Commit] [validate_payload: convert to block and call validate_block](https://github.com/paradigmxyz/reth/commit/bccf2108d69d1c0c60ef99e69e1fd1323b248a13) - 2025-07-17
 ## Q2 2025
 
 

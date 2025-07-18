@@ -14,6 +14,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 [consensys/teku](https://github.com/consensys/teku)
 * [Pull Request] [Make various small fixes for Fulu code](https://github.com/Consensys/teku/pull/9662) - 2025-07-14
 * [Pull Request] [Simplify `generate*RangeRequests` for data columns](https://github.com/Consensys/teku/pull/9667) - 2025-07-15
+* [Pull Request] [Add a hidden flag for configuring data column sidecar recovery delay](https://github.com/Consensys/teku/pull/9678) - 2025-07-17
 ## Q2 2025
 
 

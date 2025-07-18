@@ -328,6 +328,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/822d39a23e862714cc9fc354060db9909bb06656) - 2025-07-16
 * [Commit] [save](https://github.com/erigontech/erigon/commit/120ce16bdb56620a590cd07c80a0a5bf8f4aa7b7) - 2025-07-16
 * [Pull Request] [InvertedIndex.Prune: follow `limit` parameter](https://github.com/erigontech/erigon/pull/16128) - 2025-07-16
+* [Pull Request] [prune blocks: less logs](https://github.com/erigontech/erigon/pull/16139) - 2025-07-17
+* [Commit] [ethstats: optimize regex compilation by moving it to package level (#16103)](https://github.com/erigontech/erigon/commit/ecded5269edd54f2a49e2ccf4656d6fa92874f0c) - 2025-07-17
 ## Q2 2025
 
 

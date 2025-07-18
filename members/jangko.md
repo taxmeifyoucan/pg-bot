@@ -52,6 +52,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Add sub protocol flag to protocol definition](https://github.com/status-im/nimbus-eth1/commit/26dad713cea780ab0d655752470c75a82ecbbb5c) - 2025-07-14
 * [Commit] [Remove p2p DSL macro  (#3471)](https://github.com/status-im/nimbus-eth1/commit/98dfee4360d0fcc50d89e1be9a72f1c402fe890f) - 2025-07-15
 * [Commit] [Fix test](https://github.com/status-im/nimbus-eth1/commit/7ac9d3339b007b9d46ba8482d24f675294cfa5c7) - 2025-07-16
+* [Pull Request] [p2p and rlpx code cleanup](https://github.com/status-im/nimbus-eth1/pull/3485) - 2025-07-17
+* [Commit] [p2p and rlpx code cleanup](https://github.com/status-im/nimbus-eth1/commit/1c3114feeef87110755e1570060faf95b838ef7f) - 2025-07-17
 ## Q2 2025
 
 

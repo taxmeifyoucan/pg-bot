@@ -85,6 +85,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Cleanup](https://github.com/NethermindEth/nethermind/commit/429c40850e637a7fc70c10626c4c4934baf4504d) - 2025-07-16
 * [Commit] [Use gascap from jsonrpc config](https://github.com/NethermindEth/nethermind/commit/fc1a9859bf38357a5fce4c54f5c6271d31f1b15b) - 2025-07-16
 * [Commit] [Fix another test](https://github.com/NethermindEth/nethermind/commit/619dfe037f575d67d23417dff5abd0c3cbe19cc4) - 2025-07-16
+* [Pull Request] [Cleanup/Remove unnecessary SetBaseBlock](https://github.com/NethermindEth/nethermind/pull/9006) - 2025-07-18
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/823dec84cfd5107f091640b79e47df7d65d9a78b) - 2025-07-18
+* [Commit] [Fix naming of data cost in ExecutePrecompile (#8994)](https://github.com/NethermindEth/nethermind/commit/6ba2255face100a65aab7984e0f33ee6f5de9010) - 2025-07-17
+* [Pull Request] [Refactor/Move init DB to DI](https://github.com/NethermindEth/nethermind/pull/8997) - 2025-07-17
+* [Commit] [Slight comment](https://github.com/NethermindEth/nethermind/commit/77fa2f9099ab4d7055f95f4c4738d377e42eff62) - 2025-07-17
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/a7234ed693f7ba64e15f421033f253cf38aa74ff) - 2025-07-17
+* [Commit] [Smaller](https://github.com/NethermindEth/nethermind/commit/07a2f3916fcec7048cb826ca4f01cd53cd91414a) - 2025-07-17
+* [Commit] [Test keyed mapper](https://github.com/NethermindEth/nethermind/commit/96cb5ace196d5fd4a180af588854e85687910406) - 2025-07-17
+* [Commit] [Change namespace](https://github.com/NethermindEth/nethermind/commit/b4e40f7fb7d78182ab7f8eb8c759228525fb65b0) - 2025-07-17
 ## Q2 2025
 
 
