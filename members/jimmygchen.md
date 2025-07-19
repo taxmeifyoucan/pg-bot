@@ -33,6 +33,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Error "Not all columns consumed for block" on `fusaka-devnet-2`](https://github.com/sigp/lighthouse/issues/7747) - 2025-07-16
 * [Pull Request] [Add `jemalloc-profilg` feature](https://github.com/sigp/lighthouse/pull/7746) - 2025-07-16
 * [Commit] [Sync peer attribution (#7733)](https://github.com/sigp/lighthouse/commit/90ff64381e894728e26447bb866047b6cc90dd15) - 2025-07-16
+* [Commit] [Add additional broadcast validation tests for Fulu/PeerDAS  (#7325)](https://github.com/sigp/lighthouse/commit/d6de8a7484777f3653dcfdd4b3b7c26d43c127ca) - 2025-07-18
 ## Q2 2025
 
 

@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [Post tree-states PM](https://github.com/sigp/lighthouse/issues/7748) - 2025-07-16
+* [Issue] [Slim down PersistedForkChoice](https://github.com/sigp/lighthouse/issues/7760) - 2025-07-18
 ## Q2 2025
 
 

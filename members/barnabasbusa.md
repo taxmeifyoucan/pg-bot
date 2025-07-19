@@ -23,6 +23,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fulu validator custody: Use current state instead of finalized state](https://github.com/ethereum/consensus-specs/pull/4443) - 2025-07-15
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [fix: allow BLOB_SCHEDULE: [] field](https://github.com/sigp/lighthouse/pull/7758) - 2025-07-18
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] [Genesis cgc fix](https://github.com/Consensys/teku/pull/9684) - 2025-07-18
 ## Q2 2025
 
 

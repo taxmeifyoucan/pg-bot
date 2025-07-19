@@ -14,6 +14,10 @@ Team: Geth
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core/types: block timestamp in log should encode as hex](https://github.com/ethereum/go-ethereum/pull/32129) - 2025-07-01
 * [Commit] [eth/tracers: prestate lookup EIP7702 delegation account (#32080)](https://github.com/ethereum/go-ethereum/commit/0b21c4a63300ec883fb1a56c39adca1291794253) - 2025-07-03
+* [Commit] [params,internal: add eth_config](https://github.com/ethereum/go-ethereum/commit/294e1b599dc04b429c06b542bcaf5e46f1a1675f) - 2025-07-18
+* [Pull Request] [Add `eth_config`](https://github.com/ethereum/go-ethereum/pull/32239) - 2025-07-18
+* [Pull Request] [Fusaka devnet 3 tracker](https://github.com/ethereum/go-ethereum/pull/32238) - 2025-07-18
+* [Commit] [core/vm: triple modexp cost post-cancun](https://github.com/ethereum/go-ethereum/commit/9f9f2d39fa655a5cf008e95e235a6e93cf4f2308) - 2025-07-18
 ## Q2 2025
 
 

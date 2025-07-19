@@ -83,6 +83,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [reverse pivot](https://github.com/NethermindEth/nethermind/commit/31672dd16d09e23cf975c5503c12dcf5edc1671b) - 2025-07-16
 * [Commit] [Revise JSON-RPC docs generation (#8967)](https://github.com/NethermindEth/nethermind/commit/31bbbeefd22b8c80d05a45a4e342ef04590ef3e9) - 2025-07-16
 * [Commit] [Ensure exception in block downloader is caught (#8931)](https://github.com/NethermindEth/nethermind/commit/55f7950321d4bd7db7076d050d0a7837edc4cc58) - 2025-07-16
+* [Commit] [Optimize ModExp](https://github.com/NethermindEth/nethermind/commit/04ab81f386efff3a44bd458574297279c2004c68) - 2025-07-18
+* [Commit] [Optimize ModExp](https://github.com/NethermindEth/nethermind/commit/9ffaf10eb1f2fb96eb5ac9a838b8ea19664e9491) - 2025-07-18
+* [Commit] [Optimize ModExp](https://github.com/NethermindEth/nethermind/commit/a146d133a69907b0aa6dfcf1a434388144d4dc29) - 2025-07-18
+* [Pull Request] [Optimize ModExp](https://github.com/NethermindEth/nethermind/pull/9008) - 2025-07-18
 ## Q2 2025
 
 

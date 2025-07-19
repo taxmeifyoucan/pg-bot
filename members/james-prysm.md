@@ -36,6 +36,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [adding kasey and radek's suggestions](https://github.com/OffchainLabs/prysm/commit/a839701b0a6d38af3b7966f74a7d0785cf2ad630) - 2025-07-17
 * [Commit] [Write `Content-Encoding` header in the response properly when gzip encoding is requested (#15499)](https://github.com/OffchainLabs/prysm/commit/8623a144d92659ed89f8830eb4d7f4c3000be724) - 2025-07-17
 * [Commit] [Abstract validation logic for saving LC updates into the store function (#15504)](https://github.com/OffchainLabs/prysm/commit/f3314d2d24c3f8e52be9ce593ee3538f36e49d6e) - 2025-07-17
+* [Commit] [radek advice with new headers and tests](https://github.com/OffchainLabs/prysm/commit/5992c02759273ee912cad3244a5e1dcebe4ff328) - 2025-07-18
 ## Q2 2025
 
 

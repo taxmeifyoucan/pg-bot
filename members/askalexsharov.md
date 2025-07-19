@@ -330,6 +330,27 @@ Team: Erigon
 * [Pull Request] [InvertedIndex.Prune: follow `limit` parameter](https://github.com/erigontech/erigon/pull/16128) - 2025-07-16
 * [Pull Request] [prune blocks: less logs](https://github.com/erigontech/erigon/pull/16139) - 2025-07-17
 * [Commit] [ethstats: optimize regex compilation by moving it to package level (#16103)](https://github.com/erigontech/erigon/commit/ecded5269edd54f2a49e2ccf4656d6fa92874f0c) - 2025-07-17
+* [Commit] [Add bor init to txpool configuration [main] (#16160)](https://github.com/erigontech/erigon/commit/93878928132bc4b6bd3885f5856eea9458bd5823) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d046440dc29ec289dbac5044fff0cf16118a1c3d) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0114cc8ba851f6f215c0dd01e9fd5fa36d027e9b) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/37cd52df148e3a3557bf38f9dea34f55fcb95cd6) - 2025-07-18
+* [Commit] [Snapshot reset tool (#16098)](https://github.com/erigontech/erigon/commit/a1237ab7bd670c4cae90df23f7c99758a7f6e53a) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/93b5ce33f91b7c8f769f23c0884632d2eb181d17) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5c709f4538334c4d17319b83de988b824c58b5a8) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b5a6abc920f598ea6a886d7a1574549af65b070f) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2e94d1c25a2ed9d1dc4ed0e53c9beb0830ae320c) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8d1b52a8ca5a3732767574fe80b0dd8df20b28c7) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7fdd0878f389694bcc2c8ead431bcf05fd0c992e) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f8ed5b142206daa62c2b9225cf8269c4976a062e) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/14e5fb3669617239d7e4d2697868c64b1b969e3d) - 2025-07-18
+* [Issue] [downloader: `no metadata yet              files=1`](https://github.com/erigontech/erigon/issues/16153) - 2025-07-18
+* [Issue] [downloader: reproducible rate-limiting warnings on bor-mainnet](https://github.com/erigontech/erigon/issues/16152) - 2025-07-18
+* [Issue] [downloader follow up](https://github.com/erigontech/erigon/issues/16151) - 2025-07-18
+* [Commit] [Cherry-pick Fix bor_getAuthor by hash (#16121) (#16144)](https://github.com/erigontech/erigon/commit/6c52fe50cf841b5e208113c239e27dbe60c973a2) - 2025-07-18
+* [Issue] [TestEvmRun: fix test](https://github.com/erigontech/erigon/issues/16150) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6981064c2dc042da29139826ab392806cc5fe80b) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b4e421174289fa8105b4bf0e181fe423880a8379) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a074acb7c88210f40beec1ca26d8fb01eac9e6c7) - 2025-07-18
 ## Q2 2025
 
 

@@ -48,6 +48,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [perf: add asm-sha2 feature for sha2 precompile (#2712)](https://github.com/bluealloy/revm/commit/eb14fbf3def86f84799654799abef9136b49e8a8) - 2025-07-15
 * [Commit] [chore(interpreter): update docs for slice_mut and slice_range (#2714)](https://github.com/bluealloy/revm/commit/57da8726170b04722e6ea9216806354171eee5f0) - 2025-07-15
 * [Commit] [chore: remove State bound from JournalTr in Handler::Evm (#2715)](https://github.com/bluealloy/revm/commit/2f58cbc3a207c67cc4115c2cf9d6c6938ae6c927) - 2025-07-15
+* [Commit] [feat: count inspector and bench test (#2730)](https://github.com/bluealloy/revm/commit/a494e389df59a245d296acbe9fcbdaf75265658e) - 2025-07-18
+* [Pull Request] [feat: simplify inspector interpreter loop](https://github.com/bluealloy/revm/pull/2731) - 2025-07-18
+* [Pull Request] [feat: count inspector and bench test](https://github.com/bluealloy/revm/pull/2730) - 2025-07-18
+* [Commit] [count inspector and test](https://github.com/bluealloy/revm/commit/b020a83dba91c627a5595835a5f2e97483e3b395) - 2025-07-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

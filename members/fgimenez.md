@@ -50,6 +50,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [doc](https://github.com/paradigmxyz/reth/commit/e0f2b3406a777db73d0b90405c71270d1521d6aa) - 2025-07-17
 * [Commit] [validate_payload: execute block](https://github.com/paradigmxyz/reth/commit/51a5b9b16e491b7f447a4c995b655ffb1546c9ba) - 2025-07-17
 * [Commit] [validate_payload: convert to block and call validate_block](https://github.com/paradigmxyz/reth/commit/bccf2108d69d1c0c60ef99e69e1fd1323b248a13) - 2025-07-17
+* [Commit] [validate_payload: update state provider creation](https://github.com/paradigmxyz/reth/commit/42aadf417af2eb79d720c2a0025ea846fd0de919) - 2025-07-18
+* [Commit] [validate_payload: fork detection](https://github.com/paradigmxyz/reth/commit/cc96b397c2170c3b4f8100eac5931db3f49cd6ab) - 2025-07-18
+* [Commit] [validate_payload: enhanced error handling](https://github.com/paradigmxyz/reth/commit/66f39fd44354da2b30ab4b1890dba402766ca7bf) - 2025-07-18
+* [Commit] [validate_payload: add persistence-aware parallel state root computation](https://github.com/paradigmxyz/reth/commit/a0dfb7e57bc91a9b47484590096af05069822bac) - 2025-07-18
+* [Commit] [add PersistenceInfo to TreeCtx](https://github.com/paradigmxyz/reth/commit/0e21001a2ab8273bd5c2848333928c8174798d67) - 2025-07-18
+* [Commit] [validate_payload: state hook](https://github.com/paradigmxyz/reth/commit/0142764e820cddbf5d35c70ab8ba88307a34f313) - 2025-07-18
+* [Commit] [chore: bump revm 273 (#17412)](https://github.com/paradigmxyz/reth/commit/26433246682431aba070b5771f90e454296f5e8d) - 2025-07-18
 ## Q2 2025
 
 

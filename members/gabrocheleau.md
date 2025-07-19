@@ -8,6 +8,11 @@ Team: EthereumJS
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Stateless Implementers Call #39 | July 28, 2025](https://github.com/ethereum/pm/issues/1627) - 2025-07-18
 ## Q2 2025
 
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)

@@ -45,6 +45,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [is this the last commit?](https://github.com/ethereum/execution-spec-tests/commit/7c7ea909c32d64b700abda87e43743a386aff7b2) - 2025-07-15
 * [Commit] [chore: more eels bumps.](https://github.com/ethereum/execution-spec-tests/commit/5f59f2a48ae3eed99f1966593d8795d9abc15eec) - 2025-07-15
 * [Commit] [eip-7918: update blob_base_cost (#1915)](https://github.com/ethereum/execution-spec-tests/commit/6cf5107cee0eae1c2d4dd6a5ef5bc729aea6c379) - 2025-07-17
+* [Commit] [feat(github): add benchmarks releases for 1M and 10M gas limit (#1876)](https://github.com/ethereum/execution-spec-tests/commit/6a518bf7105750ee38f152cd6a524ce73638d7f9) - 2025-07-18
+* [Commit] [chore(tests): nit.](https://github.com/ethereum/execution-spec-tests/commit/35711741a4a7fd17b72f0e794be7a7f7381fd507) - 2025-07-18
+* [Commit] [feat(tests): multi tx excess blob gas transition tests.](https://github.com/ethereum/execution-spec-tests/commit/222435adb842376b0f8a7dbb6047767d649b8e24) - 2025-07-18
+* [Commit] [feat(tests): multi tx excess blob gas eip4844 tests.](https://github.com/ethereum/execution-spec-tests/commit/6b7a7bd4ec953089fb22b6779f4d8db136effa84) - 2025-07-18
+* [Commit] [chore(benchmark): change to collection level only.](https://github.com/ethereum/execution-spec-tests/commit/9998edcc75ecac14f7a25af28f8410b37702cfb4) - 2025-07-18
+* [Commit] [fix(fixtures,specs): Fix Engine X Env->Genesis Conversion (#1914)](https://github.com/ethereum/execution-spec-tests/commit/cb969b664eae97ae0173492e0148225da1ce6ec2) - 2025-07-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

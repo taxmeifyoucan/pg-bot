@@ -94,6 +94,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Smaller](https://github.com/NethermindEth/nethermind/commit/07a2f3916fcec7048cb826ca4f01cd53cd91414a) - 2025-07-17
 * [Commit] [Test keyed mapper](https://github.com/NethermindEth/nethermind/commit/96cb5ace196d5fd4a180af588854e85687910406) - 2025-07-17
 * [Commit] [Change namespace](https://github.com/NethermindEth/nethermind/commit/b4e40f7fb7d78182ab7f8eb8c759228525fb65b0) - 2025-07-17
+* [Commit] [Refactor/Move init DB to DI (#8997)](https://github.com/NethermindEth/nethermind/commit/763442dff456f16c14c0b995a63e49be859d78c1) - 2025-07-18
+* [Commit] [Update src/Nethermind/Nethermind.Db.Rocks/Config/RocksDbConfigFactory.cs](https://github.com/NethermindEth/nethermind/commit/27971114286868dddd380d24b9e129b9ee275bbb) - 2025-07-18
+* [Commit] [Update src/Nethermind/Nethermind.Init/Modules/ContainerBuilderExtensions.cs](https://github.com/NethermindEth/nethermind/commit/8bee6a1c3723ecc5b2406d07c65fddf7da0351e2) - 2025-07-18
+* [Commit] [Update src/Nethermind/Nethermind.JsonRpc.TraceStore/TraceStorePruner.cs](https://github.com/NethermindEth/nethermind/commit/98ab26b8f1735b8f4bc2e4a67bc40b73f67d4ad6) - 2025-07-18
+* [Commit] [Update src/Nethermind/Nethermind.Init/Modules/DbModule.cs](https://github.com/NethermindEth/nethermind/commit/8e87b2c5a3e374b9e4146455053340a4e27eeda3) - 2025-07-18
+* [Commit] [Update src/Nethermind/Nethermind.Init/Modules/DbModule.cs](https://github.com/NethermindEth/nethermind/commit/3157410ccefe489d8d9da106e8d0d2300eb73e51) - 2025-07-18
 ## Q2 2025
 
 

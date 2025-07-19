@@ -30,6 +30,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Update CLZ gas cost](https://github.com/ethereum/execution-specs/pull/1313) - 2025-07-09
 * [Commit] [feat: Process `state.reward` in T8N (#1312)](https://github.com/ethereum/execution-specs/commit/e13d33ab21ef1fdd2f073c96a3346e23eb7727f6) - 2025-07-15
 * [Pull Request] [feat(Osaka): Implement EIP-7594](https://github.com/ethereum/execution-specs/pull/1325) - 2025-07-16
+* [Pull Request] [Re-structure CI post merge](https://github.com/ethereum/execution-specs/pull/1336) - 2025-07-18
+* [Issue] [Re-structure CI post merge](https://github.com/ethereum/execution-specs/issues/1335) - 2025-07-18
+* [Pull Request] [feat(osaka): Remove EIP-7907 from Osaka](https://github.com/ethereum/execution-specs/pull/1333) - 2025-07-18
+* [Commit] [feat(weld): add eest tests as a submodule](https://github.com/ethereum/execution-specs/commit/951e054061f3a646b1a3f3505cb15b1ea2005212) - 2025-07-18
 ## Q2 2025
 
 

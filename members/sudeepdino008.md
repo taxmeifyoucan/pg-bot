@@ -56,6 +56,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [wip: major version update for receipt/rcache](https://github.com/erigontech/erigon/pull/16131) - 2025-07-16
 * [Pull Request] [fix kurtosis failure: nil topic in log](https://github.com/erigontech/erigon/pull/16130) - 2025-07-16
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a0e05fc07e23ae59a28b45c3482188b1cc83e76c) - 2025-07-16
+* [Pull Request] [Revert "possible fix for testdump flakiness"](https://github.com/erigontech/erigon/pull/16162) - 2025-07-18
+* [Commit] [possible fix for testdump flakiness (#16155)](https://github.com/erigontech/erigon/commit/6f14e647d70fd1044f88bae0873039286e9846f1) - 2025-07-18
+* [Pull Request] [wip: save](https://github.com/erigontech/erigon/pull/16156) - 2025-07-18
+* [Pull Request] [wip: testdump fix](https://github.com/erigontech/erigon/pull/16155) - 2025-07-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1658e0f058ec65602ac4e54f9d953523b9c269b3) - 2025-07-18
+* [Pull Request] [cp: borEvent optimization](https://github.com/erigontech/erigon/pull/16154) - 2025-07-18
 ## Q2 2025
 
 

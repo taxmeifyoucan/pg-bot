@@ -24,6 +24,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [upgrade to latest netty](https://github.com/Consensys/teku/pull/9669) - 2025-07-16
 * [Commit] [poolv2 wait warmup before full packing + default timeout lowering (#9661)](https://github.com/Consensys/teku/commit/1081fd248c638a4dec119ee944f15ef237ab6f36) - 2025-07-16
 * [Issue] [Check rate limit on serving RPC data columns](https://github.com/Consensys/teku/issues/9677) - 2025-07-17
+* [Commit] [Add a hidden flag for configuring data column sidecar recovery delay (#9678)](https://github.com/Consensys/teku/commit/f5f694bf7dad0edbfa5c501cfa4f2e0d4481aeed) - 2025-07-18
+* [Commit] [fix-fix-misleading-sync-error (#9681)](https://github.com/Consensys/teku/commit/d29842e4d78a0427058ce6a1a038775bfd6925a7) - 2025-07-18
+* [Commit] [Dependency sweep (#9683)](https://github.com/Consensys/teku/commit/3f31a217637480935449898c1a0e2d7cd23f7f0e) - 2025-07-18
+* [Pull Request] [Dep sweep](https://github.com/Consensys/teku/pull/9683) - 2025-07-18
+* [Issue] [Migrate to okHttp 5.x](https://github.com/Consensys/teku/issues/9682) - 2025-07-18
+* [Pull Request] [Fix misleading sync error reason](https://github.com/Consensys/teku/pull/9681) - 2025-07-18
+* [Issue] [DSA custody advertisement out of sync](https://github.com/Consensys/teku/issues/9680) - 2025-07-18
 ## Q2 2025
 
 

@@ -30,6 +30,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix(`docs`): rustdocs search functionality (#17367)](https://github.com/paradigmxyz/reth/commit/f6839ac352d0ae40d3a9810576d32a60cac100c1) - 2025-07-14
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/c4381c41da293ccdf6ec61c46797e755f3ba4287) - 2025-07-14
 * [Pull Request] [refactor: relax rpc types bounds ](https://github.com/paradigmxyz/reth/pull/17401) - 2025-07-14
+* [Pull Request] [feat: `HeaderConverter`](https://github.com/paradigmxyz/reth/pull/17490) - 2025-07-18
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/8ec1b270c928cb27cc17fc48d5139d00b423a5c8) - 2025-07-18
 ## Q2 2025
 
 

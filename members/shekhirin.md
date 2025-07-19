@@ -102,6 +102,8 @@ Team: Reth
 * [Commit] [perf(engine): clear accounts trie in background to not block state root result](https://github.com/paradigmxyz/reth/commit/ed6fe55aeeeb68319b38e17b07dbe0869b64d700) - 2025-07-11
 * [Pull Request] [perf(engine): clear accounts trie in background to not block state root](https://github.com/paradigmxyz/reth/pull/17369) - 2025-07-11
 * [Pull Request] [chore(bin): reth-bench missing --jwt-secret message](https://github.com/paradigmxyz/reth/pull/17443) - 2025-07-16
+* [Commit] [revert fixtures pin, pin hive repo](https://github.com/paradigmxyz/reth/commit/751966c73063bd6571434242a163a92869d16d03) - 2025-07-18
+* [Commit] [revert fixtures pin, pin hive repo](https://github.com/paradigmxyz/reth/commit/ad7737af166801be1d4c083c115cfa6281f82bdb) - 2025-07-18
 ## Q2 2025
 
 

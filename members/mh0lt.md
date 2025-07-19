@@ -46,6 +46,17 @@ Team: Erigon
 * [Commit] [add stats update](https://github.com/erigontech/erigon/commit/b053c1e39a6f8a02f8d7748a5f6abe17016b340d) - 2025-07-17
 * [Commit] [flush index-1 writes](https://github.com/erigontech/erigon/commit/1b125e50623e63997d0db122842ab63ca1434ec2) - 2025-07-17
 * [Commit] [add printers](https://github.com/erigontech/erigon/commit/1ed8fd408c87d4319d8023d31f0292ea6a898e80) - 2025-07-17
+* [Commit] [fix update stats](https://github.com/erigontech/erigon/commit/df1620cc3d85dce04c856d351b9cae8867c6ea82) - 2025-07-18
+* [Commit] [print commitment trace header](https://github.com/erigontech/erigon/commit/571b2db33646028f60ac260f8e685dfab72182fe) - 2025-07-18
+* [Commit] [remove prints](https://github.com/erigontech/erigon/commit/a4491bdc0082e4a11296bf5e8a23838c268ea47f) - 2025-07-18
+* [Commit] [retain state writer](https://github.com/erigontech/erigon/commit/7a52fdfe21c62333b66a2c473ed5367ac2dc3504) - 2025-07-18
+* [Pull Request] [Add bor init to txpool configuration [main]](https://github.com/erigontech/erigon/pull/16160) - 2025-07-18
+* [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/e1ca393044021187d637de2bc050167127fbb1fe) - 2025-07-18
+* [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/12da5ef58b3eb36e4acf7d1ae91dd4b7720c64ea) - 2025-07-18
+* [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/b32b41988dd7ba010834b26200b9bb5e64484857) - 2025-07-18
+* [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/2f3e8f65fc3d23a44b5a2646975749c25013321b) - 2025-07-18
+* [Commit] [add prints](https://github.com/erigontech/erigon/commit/afd719abffac7444067090090f612ef459260327) - 2025-07-18
+* [Commit] [add prints](https://github.com/erigontech/erigon/commit/9baafb17ab83ae4ea9d3992cf4b112d1295ef52f) - 2025-07-18
 ## Q2 2025
 
 

@@ -22,6 +22,12 @@ Team: Erigon
 * [Pull Request] [ jsonrpc: implement eth_config ](https://github.com/erigontech/erigon/pull/15948) - 2025-07-05
 * [Commit] [jsonrpc: implement `eth_config`](https://github.com/erigontech/erigon/commit/c9aac89a4ef7f5b822269459113dbd2101215545) - 2025-07-05
 * [Commit] [Use Unix time](https://github.com/erigontech/erigon/commit/67405d4dbcd022b5634f780b8c4ecd6e8c0a6106) - 2025-07-07
+* [Pull Request] [workflows: Remove hive parallelism from hive-eest ](https://github.com/erigontech/erigon/pull/16163) - 2025-07-18
+* [Commit] [Remove parallelism](https://github.com/erigontech/erigon/commit/0864facd70a6288976996998162da1c1f20fd8a2) - 2025-07-18
+* [Commit] [Default runner parallelism 2](https://github.com/erigontech/erigon/commit/9e80eb34d3d8a951dfff624bbf936b064aa4ee47) - 2025-07-18
+* [Commit] [Use devops-large runner add parallel](https://github.com/erigontech/erigon/commit/72b29a99b2ce26ae626b1fc83864e26332e2a7d2) - 2025-07-18
+* [Commit] [Add ref](https://github.com/erigontech/erigon/commit/d25621554da92b0dbc3409f74db95a5de72bdda4) - 2025-07-18
+* [Commit] [Try older ubuntu](https://github.com/erigontech/erigon/commit/37be7011c69298d7058000c0f2873b9fff39966e) - 2025-07-18
 ## Q2 2025
 
 

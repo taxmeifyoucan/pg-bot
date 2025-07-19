@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [refactor blob sidecars by range (#9647)](https://github.com/Consensys/teku/commit/f92b699f512379d595fbcf6d916157880ee79eef) - 2025-07-11
 * [Commit] [Created async runner for das tasks (#9657)](https://github.com/Consensys/teku/commit/d9e1a4be905d6dfa5d259ab15d869755c555d9e9) - 2025-07-11
 * [Pull Request] [Created async runner for das tasks](https://github.com/Consensys/teku/pull/9657) - 2025-07-11
+* [Issue] [log builder gas limit on startup ](https://github.com/Consensys/teku/issues/9679) - 2025-07-18
 ## Q2 2025
 
 

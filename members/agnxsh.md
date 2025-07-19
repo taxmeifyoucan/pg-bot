@@ -27,6 +27,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump nim-eth to `92a02b672f60e6b5e5ea570d684904c289b495fa` (#7209)](https://github.com/status-im/nimbus-eth2/commit/33037542d78ac2b6a03c5abb2e516706a61cb24d) - 2025-07-09
 * [Commit] [fix beacon block broadcast not using BPO forkdigests (#7285)](https://github.com/status-im/nimbus-eth2/commit/0ff59817bac39745d229d3c4a62e96b8a7912aa5) - 2025-07-09
 * [Pull Request] [prevent double verification of data column sidecar kzg proofs](https://github.com/status-im/nimbus-eth2/pull/7301) - 2025-07-16
+* [Commit] [oops bug](https://github.com/status-im/nimbus-eth2/commit/73a88a13552b4ea0c6f9fae141b3286b9ca00360) - 2025-07-18
 ## Q2 2025
 
 

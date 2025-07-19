@@ -71,6 +71,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [feat(fill,benchmark): add new contract-only fixture format for spamoor](https://github.com/ethereum/execution-spec-tests/issues/1913) - 2025-07-16
 * [Commit] [fix(consume,cli): fix plugin path after rebase](https://github.com/ethereum/execution-spec-tests/commit/e91d29b8b81fa765cbee75a6ac19adf8c57bf1ba) - 2025-07-16
 * [Commit] [Deployed 6cf5107cee0 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2977ae8fa0d1f40c9af8fdd6e12312e79a6bb8d3) - 2025-07-17
+* [Commit] [Deployed 0fdd974b096 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/9cc6b9009e8f9459a979e96486465eef2c43109a) - 2025-07-18
+* [Commit] [Deployed d906a140ba5 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/136b658feaf20d9b01b17c7d48920ef7eb5e2b5f) - 2025-07-18
 ## Q2 2025
 
 

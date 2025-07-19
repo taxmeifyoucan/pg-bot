@@ -53,6 +53,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Log when downscoring a peer.](https://github.com/OffchainLabs/prysm/commit/1d22b236d5b344d9210d077f3b91249885b83e08) - 2025-07-17
 * [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/6ab6e4b2c29b26057a532028bdb09cc71eee6644) - 2025-07-17
 * [Commit] [`TestService_BroadcastDataColumn`: Re-add sleep 50 ms.](https://github.com/OffchainLabs/prysm/commit/0826f575e65b1b59d197e9f3c9b9d1e2b448fd6a) - 2025-07-17
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/1e47b61dbd7080759430a6f70de5a6e3e89edd70) - 2025-07-18
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/fee14cfcd21d18f4942353bd55b8d2ad8519aa5c) - 2025-07-18
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/3391d0132b5f354954698a437db6b9782c09c822) - 2025-07-18
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/9d2bc52231ce7fd0a0e22b09add06fc95b38aefd) - 2025-07-18
 ## Q2 2025
 
 

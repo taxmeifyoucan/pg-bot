@@ -15,6 +15,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Make various small fixes for Fulu code](https://github.com/Consensys/teku/pull/9662) - 2025-07-14
 * [Pull Request] [Simplify `generate*RangeRequests` for data columns](https://github.com/Consensys/teku/pull/9667) - 2025-07-15
 * [Pull Request] [Add a hidden flag for configuring data column sidecar recovery delay](https://github.com/Consensys/teku/pull/9678) - 2025-07-17
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Commit] [Fix `KZG_COMMITMENT_INCLUSION_PROOF_DEPTH_EIP7732` (#4451)](https://github.com/ethereum/consensus-specs/commit/adc514a1c29532ebc1a67c71dc8741a2fdac5ed4) - 2025-07-18
+* [Pull Request] [Fix `KZG_COMMITMENT_INCLUSION_PROOF_DEPTH_EIP7732`](https://github.com/ethereum/consensus-specs/pull/4451) - 2025-07-18
+* [Commit] [Add script to check for inconsistent fork comments (#4448)](https://github.com/ethereum/consensus-specs/commit/87696fbe94664212069c66108c98dbd2cb3e34da) - 2025-07-18
+* [Commit] [Align section headers in `fork-choice.md` for EIP-7805 (#4449)](https://github.com/ethereum/consensus-specs/commit/a0f12bf7d8ba7390da67d4fe173241b5471769f8) - 2025-07-18
+* [Commit] [Make several updates to EIP-7732 spec (#4438)](https://github.com/ethereum/consensus-specs/commit/e0d2005bd57b135d3e0d6f9874a454cc9a2741a6) - 2025-07-18
 ## Q2 2025
 
 

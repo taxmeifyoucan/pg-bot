@@ -59,6 +59,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [erigon-db/rawdb: fix prune table periodic log (#16095) (#16147)](https://github.com/erigontech/erigon/commit/171ac96053f702185e89e30a9e539511d0dfcd45) - 2025-07-17
 * [Pull Request] [erigon-db/rawdb: fix prune table periodic log (#16095)](https://github.com/erigontech/erigon/pull/16147) - 2025-07-17
 * [Commit] [cmd/prometheus: update erigon_internals with new dashboards (#16145)](https://github.com/erigontech/erigon/commit/16e19803c720fd4edde45d3a4bb5e2f24876b3cb) - 2025-07-17
+* [Commit] [Revert "execution/bbd: el backward block downloader v2 (#16073)" (#16159)](https://github.com/erigontech/erigon/commit/f7d800569b48adfe77bda79a8487e63862ca2e52) - 2025-07-18
+* [Commit] [cp: borEvent optimization (#16154)](https://github.com/erigontech/erigon/commit/b94f477c4980e2429ddcdfa62723cf14487a8dd4) - 2025-07-18
+* [Pull Request] [Revert "execution/bbd: el backward block downloader v2 (#16073)"](https://github.com/erigontech/erigon/pull/16159) - 2025-07-18
+* [Commit] [ctx](https://github.com/erigontech/erigon/commit/469b583e14d497dad6f48d51e5d78761a531bb63) - 2025-07-18
+* [Pull Request] [execution/engineapi: fix failing hive tests due to block downloader statuses](https://github.com/erigontech/erigon/pull/16157) - 2025-07-18
 ## Q2 2025
 
 

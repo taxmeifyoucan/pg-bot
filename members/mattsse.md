@@ -62,6 +62,11 @@ Team: Reth
 * [Pull Request] [docs: enhance direct database access documentation](https://github.com/paradigmxyz/reth/pull/17445) - 2025-07-16
 * [Commit] [chore: bump revm 273 (#17412)](https://github.com/paradigmxyz/reth/commit/26433246682431aba070b5771f90e454296f5e8d) - 2025-07-16
 * [Pull Request] [feat: add envelope conversion for op](https://github.com/paradigmxyz/reth/pull/17469) - 2025-07-17
+* [Issue] [Reuse evm tracing utils for trace_call_many](https://github.com/paradigmxyz/reth/issues/17484) - 2025-07-18
+* [Pull Request] [chore: downgrade threadpool init error](https://github.com/paradigmxyz/reth/pull/17483) - 2025-07-18
+* [Pull Request] [chore: extend exex ethapi example](https://github.com/paradigmxyz/reth/pull/17481) - 2025-07-18
+* [Commit] [Update examples/node-custom-rpc/src/main.rs](https://github.com/paradigmxyz/reth/commit/45022809a685683060aefe754eab86f4f27a5dfd) - 2025-07-18
+* [Commit] [chore: expose chainspec getter (#17461)](https://github.com/paradigmxyz/reth/commit/87000e33594e93aeaad3c4f96d38ca38c469cb2e) - 2025-07-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

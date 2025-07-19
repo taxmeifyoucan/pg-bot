@@ -47,6 +47,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [tests: fix panic db closed in TestDump](https://github.com/erigontech/erigon/commit/3fccda1795201bc26fd4b1b79e5d9a1b50514679) - 2025-07-16
 * [Commit] [qa-tests: re-enable Gnosis RPC Integration Tests after 15918 (#16146)](https://github.com/erigontech/erigon/commit/2aa022c841eea94d9e6a34f6018e9b3e9879ecde) - 2025-07-17
 * [Commit] [tests: fix panic db closed in TestDump](https://github.com/erigontech/erigon/commit/864affd34b0c5fbab4a48cba387637034c5bddb1) - 2025-07-17
+* [Commit] [tests: fix panic db closed in TestDump](https://github.com/erigontech/erigon/commit/3662b017739807898a7147b12d3634fddc0dd50d) - 2025-07-18
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
