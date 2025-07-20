@@ -100,6 +100,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update src/Nethermind/Nethermind.JsonRpc.TraceStore/TraceStorePruner.cs](https://github.com/NethermindEth/nethermind/commit/98ab26b8f1735b8f4bc2e4a67bc40b73f67d4ad6) - 2025-07-18
 * [Commit] [Update src/Nethermind/Nethermind.Init/Modules/DbModule.cs](https://github.com/NethermindEth/nethermind/commit/8e87b2c5a3e374b9e4146455053340a4e27eeda3) - 2025-07-18
 * [Commit] [Update src/Nethermind/Nethermind.Init/Modules/DbModule.cs](https://github.com/NethermindEth/nethermind/commit/3157410ccefe489d8d9da106e8d0d2300eb73e51) - 2025-07-18
+* [Commit] [Remove last orphan readonly tx processing scope. (#9005)](https://github.com/NethermindEth/nethermind/commit/0a5591d4a68c45b6cc8be81e7d07d2469f1f4eae) - 2025-07-19
 ## Q2 2025
 
 

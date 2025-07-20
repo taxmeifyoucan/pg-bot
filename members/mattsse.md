@@ -67,6 +67,9 @@ Team: Reth
 * [Pull Request] [chore: extend exex ethapi example](https://github.com/paradigmxyz/reth/pull/17481) - 2025-07-18
 * [Commit] [Update examples/node-custom-rpc/src/main.rs](https://github.com/paradigmxyz/reth/commit/45022809a685683060aefe754eab86f4f27a5dfd) - 2025-07-18
 * [Commit] [chore: expose chainspec getter (#17461)](https://github.com/paradigmxyz/reth/commit/87000e33594e93aeaad3c4f96d38ca38c469cb2e) - 2025-07-18
+* [Commit] [lint toml](https://github.com/paradigmxyz/reth/commit/112a6d56e9a8df7808ae71ebeb133c2c508a1f1f) - 2025-07-19
+* [Commit] [update success](https://github.com/paradigmxyz/reth/commit/a51ea070a2bbdfd02bff30aec8a9f5b420a8efd6) - 2025-07-19
+* [Pull Request] [chore: migrate from codespell to typos](https://github.com/paradigmxyz/reth/pull/17501) - 2025-07-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

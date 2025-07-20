@@ -79,6 +79,7 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6335f9371c88496cf6a87fbb5ab95a1d803c3377) - 2025-07-16
 * [Commit] [Caplin: fully-working peerdas rpc (#16083)](https://github.com/erigontech/erigon/commit/1e1a4d440fe84640dda09a7de2267da75be8f62e) - 2025-07-18
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b938eea4613b742dc75391571a5488db8890a872) - 2025-07-18
+* [Pull Request] [Restore flag's default value](https://github.com/erigontech/erigon/pull/16169) - 2025-07-19
 ## Q2 2025
 
 

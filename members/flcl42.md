@@ -45,6 +45,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Merge master into add-eth-config](https://github.com/NethermindEth/nethermind/commit/19a10b6d36a8aec7a43f790a1ed0b30351c04f30) - 2025-07-16
 * [Commit] [EIP-7594: Constant maxBlobsPerTx  (#8940)](https://github.com/NethermindEth/nethermind/commit/5993011f66295eafbb4bde46fd57f76c11c44751) - 2025-07-16
 * [Commit] [Fix next/last hash to be null](https://github.com/NethermindEth/nethermind/commit/c4020a6751ea9213a7517c92a7f9e4f192a327d7) - 2025-07-16
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/4d7a8f154932d67890bf995ae509e26a028c6823) - 2025-07-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

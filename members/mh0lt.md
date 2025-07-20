@@ -57,6 +57,12 @@ Team: Erigon
 * [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/2f3e8f65fc3d23a44b5a2646975749c25013321b) - 2025-07-18
 * [Commit] [add prints](https://github.com/erigontech/erigon/commit/afd719abffac7444067090090f612ef459260327) - 2025-07-18
 * [Commit] [add prints](https://github.com/erigontech/erigon/commit/9baafb17ab83ae4ea9d3992cf4b112d1295ef52f) - 2025-07-18
+* [Commit] [add tx logging](https://github.com/erigontech/erigon/commit/0c568f81a837d4b3221be6d7cb1b725ce631b8ee) - 2025-07-19
+* [Commit] [add tx logging](https://github.com/erigontech/erigon/commit/f0fd71e0d110d9b1d738056c443f6d9968bca7af) - 2025-07-19
+* [Commit] [add tx logging](https://github.com/erigontech/erigon/commit/cb17c11997c3f2b1bb559b0efc1d18c80dfcecbf) - 2025-07-19
+* [Commit] [add gas logging](https://github.com/erigontech/erigon/commit/7a9394f793acc1ffd703e90225a6ce988a04b8a3) - 2025-07-19
+* [Commit] [fix apply panics](https://github.com/erigontech/erigon/commit/0f0f9621e0d32e24dda99728a06ab807bd63824d) - 2025-07-19
+* [Commit] [refactor write set](https://github.com/erigontech/erigon/commit/5d28c04c7518800ea8244f30787013dea0da3f13) - 2025-07-19
 ## Q2 2025
 
 

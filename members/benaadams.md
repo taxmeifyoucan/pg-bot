@@ -87,6 +87,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Optimize ModExp](https://github.com/NethermindEth/nethermind/commit/9ffaf10eb1f2fb96eb5ac9a838b8ea19664e9491) - 2025-07-18
 * [Commit] [Optimize ModExp](https://github.com/NethermindEth/nethermind/commit/a146d133a69907b0aa6dfcf1a434388144d4dc29) - 2025-07-18
 * [Pull Request] [Optimize ModExp](https://github.com/NethermindEth/nethermind/pull/9008) - 2025-07-18
+* [Commit] [.ConfigureAwait(false)](https://github.com/NethermindEth/nethermind/commit/8a465ea281dbacb57649881fb8ba3e21128be79a) - 2025-07-19
+* [Pull Request] [Grab bag](https://github.com/NethermindEth/nethermind/pull/9010) - 2025-07-19
+* [Commit] [Grab bag](https://github.com/NethermindEth/nethermind/commit/e2b73af82b242b1c0b3ad3fe92e9108f06aace3c) - 2025-07-19
+* [Commit] [Fix BN254 point deserialization (#9009)](https://github.com/NethermindEth/nethermind/commit/71ed14f64a767fbf04830a6d0a9b65c82cedc6d9) - 2025-07-19
 ## Q2 2025
 
 

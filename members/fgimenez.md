@@ -57,6 +57,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [add PersistenceInfo to TreeCtx](https://github.com/paradigmxyz/reth/commit/0e21001a2ab8273bd5c2848333928c8174798d67) - 2025-07-18
 * [Commit] [validate_payload: state hook](https://github.com/paradigmxyz/reth/commit/0142764e820cddbf5d35c70ab8ba88307a34f313) - 2025-07-18
 * [Commit] [chore: bump revm 273 (#17412)](https://github.com/paradigmxyz/reth/commit/26433246682431aba070b5771f90e454296f5e8d) - 2025-07-18
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/6557d8d9f0722f866bd0aac47ed570b5f93df30f) - 2025-07-19
+* [Commit] [cleanup trait bounds](https://github.com/paradigmxyz/reth/commit/b15797219fb758828493665e984cc9ba0f8433dd) - 2025-07-19
 ## Q2 2025
 
 

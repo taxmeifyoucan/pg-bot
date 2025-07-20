@@ -55,6 +55,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [p2p and rlpx code cleanup](https://github.com/status-im/nimbus-eth1/pull/3485) - 2025-07-17
 * [Commit] [p2p and rlpx code cleanup](https://github.com/status-im/nimbus-eth1/commit/1c3114feeef87110755e1570060faf95b838ef7f) - 2025-07-17
 * [Commit] [p2p and rlpx code cleanup (#3485)](https://github.com/status-im/nimbus-eth1/commit/5b798fe11e4c8e4350a5623aa20be92546849bcc) - 2025-07-18
+* [Commit] [Fix tests](https://github.com/status-im/nimbus-eth1/commit/df2591e03346683ee2fcccdcfca63c8084a8fb69) - 2025-07-19
 ## Q2 2025
 
 
