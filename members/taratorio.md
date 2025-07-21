@@ -64,6 +64,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Revert "execution/bbd: el backward block downloader v2 (#16073)"](https://github.com/erigontech/erigon/pull/16159) - 2025-07-18
 * [Commit] [ctx](https://github.com/erigontech/erigon/commit/469b583e14d497dad6f48d51e5d78761a531bb63) - 2025-07-18
 * [Pull Request] [execution/engineapi: fix failing hive tests due to block downloader statuses](https://github.com/erigontech/erigon/pull/16157) - 2025-07-18
+* [Commit] [tests/execution-spec-tests: update to fusaka-devnet-3 release](https://github.com/erigontech/erigon/commit/e016ff2ea61025d47348c3575a1369691113904f) - 2025-07-20
+* [Issue] [[fusaka-devnet-3] re-enable execution-spec-tests on main after all PRs are merged](https://github.com/erigontech/erigon/issues/16195) - 2025-07-20
 ## Q2 2025
 
 

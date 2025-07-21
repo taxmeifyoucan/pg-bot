@@ -23,6 +23,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Change default state cache size back to 128 (#7364)](https://github.com/sigp/lighthouse/commit/6c8770e80d0339e037407cd59e3c41464f1ad385) - 2025-07-10
 * [Commit] [Add more range sync tests (#6872)](https://github.com/sigp/lighthouse/commit/d5a03c9d86bf9e68cf6ef93c4cc427e3f8482178) - 2025-07-10
 * [Issue] [Update LH to use Rust Edition 2024](https://github.com/sigp/lighthouse/issues/7749) - 2025-07-17
+* [Pull Request] [Add heaptrack support](https://github.com/sigp/lighthouse/pull/7764) - 2025-07-21
 ## Q2 2025
 
 

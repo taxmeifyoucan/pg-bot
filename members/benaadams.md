@@ -91,6 +91,32 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Grab bag](https://github.com/NethermindEth/nethermind/pull/9010) - 2025-07-19
 * [Commit] [Grab bag](https://github.com/NethermindEth/nethermind/commit/e2b73af82b242b1c0b3ad3fe92e9108f06aace3c) - 2025-07-19
 * [Commit] [Fix BN254 point deserialization (#9009)](https://github.com/NethermindEth/nethermind/commit/71ed14f64a767fbf04830a6d0a9b65c82cedc6d9) - 2025-07-19
+* [Commit] [Add GetAwaiter](https://github.com/NethermindEth/nethermind/commit/aebbc6e7b6f0ca776eaae106fb027833cb058364) - 2025-07-20
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/db7a69d0fe479539bebb33d6468811de82f6132f) - 2025-07-20
+* [Commit] [fx](https://github.com/NethermindEth/nethermind/commit/97e4d17e013d06904ee2e9b5d7f0a5bfb3da4266) - 2025-07-20
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/72d0ad935151efbd67395e137e9214ad77bce3dc) - 2025-07-20
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/07a428c84b2abcb28aae943984774d54fae8f532) - 2025-07-20
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/c9cc2682b42c6f1f0f97830a231cb10077a4b7c3) - 2025-07-20
+* [Commit] [fail blocks](https://github.com/NethermindEth/nethermind/commit/0f04d5fc7f67d1d561198e9b8853c68973e3178a) - 2025-07-20
+* [Commit] [Change waiting](https://github.com/NethermindEth/nethermind/commit/34a43ac07f96b2df547e3d23d257e0e9a7a70db7) - 2025-07-20
+* [Commit] [Change waiting](https://github.com/NethermindEth/nethermind/commit/6eb00b8a46ea09ac597300e07779c0c632dddca0) - 2025-07-20
+* [Commit] [Add dispose](https://github.com/NethermindEth/nethermind/commit/439d64cb9772a751b158cb1f279d3db699fa0ac5) - 2025-07-20
+* [Commit] [commit roots](https://github.com/NethermindEth/nethermind/commit/8c5e895b65a55d55b97b78cbedf198a61a128fec) - 2025-07-20
+* [Commit] [pyspec](https://github.com/NethermindEth/nethermind/commit/beb44036e03b0bc4540c6505535004ec16d7d600) - 2025-07-20
+* [Commit] [Comment out EOF tests](https://github.com/NethermindEth/nethermind/commit/88ded560b30f0c1950741dc0901fca2eb08963f0) - 2025-07-20
+* [Commit] [Make test logs more readable](https://github.com/NethermindEth/nethermind/commit/6d403320fc76215f324d3c7a8635fc5a479d3c3c) - 2025-07-20
+* [Commit] [Make test logs readable](https://github.com/NethermindEth/nethermind/commit/b59aa249763e0a1f8c5c4ae5140a1a8051e8535a) - 2025-07-20
+* [Commit] [fix tests](https://github.com/NethermindEth/nethermind/commit/c4a7c82bd92816e5ab658e8634e74377dbbd4f59) - 2025-07-20
+* [Commit] [fix tests](https://github.com/NethermindEth/nethermind/commit/ff05a41aaabab510a38b13e73e36833e8ada532e) - 2025-07-20
+* [Commit] [Make BlockChain test logs readable](https://github.com/NethermindEth/nethermind/commit/b5eb93f6a7b5fb89a3575ef85eb4f8ff2d0d993c) - 2025-07-20
+* [Commit] [Fix some tests](https://github.com/NethermindEth/nethermind/commit/5896ffbe2aa066634881e82b6da2176021adcf98) - 2025-07-20
+* [Commit] [Fix some tests](https://github.com/NethermindEth/nethermind/commit/4ef4a9ca58102e95d725f229daeb50f6c37ca9c3) - 2025-07-20
+* [Commit] [Fix and make test async](https://github.com/NethermindEth/nethermind/commit/493344f1796651ca11c63b68c7c3645aa6838723) - 2025-07-20
+* [Commit] [Fix and make test async](https://github.com/NethermindEth/nethermind/commit/762fedfc7ec4e7791324bc47c3044738486b2c85) - 2025-07-20
+* [Commit] [Fix and make test async](https://github.com/NethermindEth/nethermind/commit/39917068e828bbf2ce147ff9c771bb524e534d88) - 2025-07-20
+* [Commit] [async code commit](https://github.com/NethermindEth/nethermind/commit/d6e35c95ee9d02cff460754c7a3069b93a300231) - 2025-07-20
+* [Commit] [async code commit](https://github.com/NethermindEth/nethermind/commit/11e715cf7cfdb96f66d32c9a49d7835215fd5515) - 2025-07-20
+* [Commit] [Tidy up ecdsa overloads (#9015)](https://github.com/NethermindEth/nethermind/commit/dc7276fcadd3d07388e1b386a92a440055c6ca82) - 2025-07-20
 ## Q2 2025
 
 

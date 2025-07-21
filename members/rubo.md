@@ -26,6 +26,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix naming of data cost in ExecutePrecompile (#8994)](https://github.com/NethermindEth/nethermind/commit/6ba2255face100a65aab7984e0f33ee6f5de9010) - 2025-07-16
 
 * [Commit] [Revise tests](https://github.com/NethermindEth/nethermind/commit/a7273ea576dcebb38e1d5933edb32403908a9aca) - 2025-07-18
+* [Commit] [Update OP Superchain chains (#9014)](https://github.com/NethermindEth/nethermind/commit/f4c1c9f55f380c217a32b5e60c875d0ca3610740) - 2025-07-20
+* [Commit] [Auto-update fast sync settings (#9013)](https://github.com/NethermindEth/nethermind/commit/d2230a01a95016baa336a51e330e17b15f4b55cd) - 2025-07-20
+* [Commit] [Update winget command (#9011)](https://github.com/NethermindEth/nethermind/commit/8075f5f90ec357d467cf18094afac0bcdbe63972) - 2025-07-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 ## Q2 2025

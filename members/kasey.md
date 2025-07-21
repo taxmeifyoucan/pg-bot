@@ -51,6 +51,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [overhaul fork schedule management for bpos](https://github.com/OffchainLabs/prysm/commit/554e7862d9ad04d4253d9ae59300b7d1f9bf8f58) - 2025-07-17
 * [Pull Request] [Fusaka devnet 3 + bpo code](https://github.com/OffchainLabs/prysm/pull/15507) - 2025-07-17
 * [Commit] [move validator run slot ticker (#15479)](https://github.com/OffchainLabs/prysm/commit/78f8411ad22d8bc792242bf2fc897eaacc97607e) - 2025-07-17
+* [Commit] [overhaul fork schedule management for bpos](https://github.com/OffchainLabs/prysm/commit/a680e9d2a0f0c038afea6bc60e42ef89c4811ff8) - 2025-07-20
+* [Commit] [overhaul fork schedule management for bpos](https://github.com/OffchainLabs/prysm/commit/44f8d455395b410bd523c82dbe65d1e46a8ea431) - 2025-07-20
+* [Pull Request] [WIP: Rebase pending PRs onto develop / fusaka-devnet-3](https://github.com/OffchainLabs/prysm/pull/15512) - 2025-07-20
+* [Commit] [initialize genesis data asap at node start](https://github.com/OffchainLabs/prysm/commit/2955f1c663c2529561a2ab2d3f71e3e6eb0e53d6) - 2025-07-20
 ## Q2 2025
 
 

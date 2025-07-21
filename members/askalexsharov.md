@@ -351,6 +351,41 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6981064c2dc042da29139826ab392806cc5fe80b) - 2025-07-18
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b4e421174289fa8105b4bf0e181fe423880a8379) - 2025-07-18
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a074acb7c88210f40beec1ca26d8fb01eac9e6c7) - 2025-07-18
+* [Commit] [Cherry-pick Fix bor_getAuthor by hash (#16121) (#16144)](https://github.com/erigontech/erigon/commit/6c52fe50cf841b5e208113c239e27dbe60c973a2) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9a7991a2d656ce56cc9bc67316aba00546acee82) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/23fc37bcd9dd52823f0e92edc6cfd06a769a6f83) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0496a025a50bbe31157bada11eb3121cdcc12837) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/13a357048e341fb7d71336500189b36668cd5751) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7984f04ad3166f2c6166e6da1df58b123a538900) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a1233689bddb281fbaa1bc82dd5d0ca1e8c6db16) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7060c3350603850d7f9de34eab4eae1bf84e1642) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f73ff99b11d03ebbc338127929de31f1a3951ce4) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8b400898976925e05ec9846dd963f5712b39dd60) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3fc270e7ef6f8a7eda34f6c2ad60b5057902f1e0) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1b77528f31f47d775639b5a457f65cb7de912e9a) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e25a8ecc59778e1fd25e6b34dd1dc99132692d7a) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d7e38bbc5dc18ee5a3dbebc04c6ce92450c6966c) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/42ea8128ac5e41a5a809942a969e9eb80233ea65) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a20562a786031e4deb023434212cb94baf21304e) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b957ac01373f73f1eaebdf33e7b716988509865d) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ee4b6ee0ca1ad0913ccd4dd36aba340c603c7cbb) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/da0cab1843b64c545209160b665c0a0612320daf) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/260198da725260767af86eb79e88ecc815a53edc) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/56584749ef919eb08257c15d437c4e048b16d94f) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a6e9e645b9be4c570eb341f62424a1f062ca2366) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/32ba6780077a264f934d792545da06e438132472) - 2025-07-20
+* [Pull Request] [[r31] downloader: inverse verify flag use](https://github.com/erigontech/erigon/pull/16191) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cba4b334dfe63c97f7a3b469e247a66cfe7a7b83) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ee001ef943ebfff3609ec98a99fc7d3ea22f9e2d) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ebaa873002ff981e9ecc62b2c912209ec4ae66b3) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0bd89de4c8c1a0fa935adcd05b0c589237bc401e) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/60605c68a62b194264b60d4f4c664718207eb433) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0b0a53037bb5ca38e06b593ade1f6191cc642bde) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bd12591d40827d5ce90e114b9a18cd14fb18da9b) - 2025-07-20
+* [Commit] [Set webseed package debug var correctly](https://github.com/erigontech/erigon/commit/f0facbbcf68141a590c83fabea4c7db38b1cc9a5) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d0c1e09ce2524ada8c4a290b4c35d6bd5e04ed49) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4a235023d8b7731cce4c2567abacca87b1587202) - 2025-07-20
+* [Pull Request] [IterateFrozenBodies: don't deserialize withdrawals and uncles](https://github.com/erigontech/erigon/pull/16190) - 2025-07-20
 ## Q2 2025
 
 

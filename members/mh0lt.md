@@ -63,6 +63,21 @@ Team: Erigon
 * [Commit] [add gas logging](https://github.com/erigontech/erigon/commit/7a9394f793acc1ffd703e90225a6ce988a04b8a3) - 2025-07-19
 * [Commit] [fix apply panics](https://github.com/erigontech/erigon/commit/0f0f9621e0d32e24dda99728a06ab807bd63824d) - 2025-07-19
 * [Commit] [refactor write set](https://github.com/erigontech/erigon/commit/5d28c04c7518800ea8244f30787013dea0da3f13) - 2025-07-19
+* [Commit] [eport correct error block](https://github.com/erigontech/erigon/commit/6dfbdd511032258b3d6616a3e61c9582a3c6c64a) - 2025-07-20
+* [Commit] [print apply trace](https://github.com/erigontech/erigon/commit/fe3c012704cc25812620e66a56951b99fb0d762e) - 2025-07-20
+* [Commit] [one result per tx](https://github.com/erigontech/erigon/commit/56bbd7ad8e5b9d1c0413f36fa50286ab31f16cb8) - 2025-07-20
+* [Commit] [reset context for blocks](https://github.com/erigontech/erigon/commit/b76b0a679da1476ece50199fdf527f0df73fa833) - 2025-07-20
+* [Commit] [print update stack](https://github.com/erigontech/erigon/commit/95bc6e99b57f19c63c978c70238db4035baa3fc2) - 2025-07-20
+* [Commit] [make state updates ordered](https://github.com/erigontech/erigon/commit/b85a67e74b41f4745d9c0a6077856be130f6224b) - 2025-07-20
+* [Commit] [make state updates ordered](https://github.com/erigontech/erigon/commit/85b5f980b4e124b86589a2f1b20be824488773ae) - 2025-07-20
+* [Commit] [make state updates ordered](https://github.com/erigontech/erigon/commit/c331e33422e4f132f9ec6ed6e2d7ca97c3c3ff30) - 2025-07-20
+* [Commit] [make state updates ordered](https://github.com/erigontech/erigon/commit/eebda6b9b0cd04957d005d9fe9b4b351b0fd4935) - 2025-07-20
+* [Commit] [update couunt printers](https://github.com/erigontech/erigon/commit/950345c0cecf431da9f220be0fc2861dcc21e875) - 2025-07-20
+* [Commit] [apply print accounts content](https://github.com/erigontech/erigon/commit/d86c3c92d05494eb860ba3e1bd76ca1702ff5dd6) - 2025-07-20
+* [Commit] [add account to storage trace](https://github.com/erigontech/erigon/commit/d76d1b969bc65801d9da8070e6334273781403e3) - 2025-07-20
+* [Commit] [add blobgas processing](https://github.com/erigontech/erigon/commit/d5a9767e129e0bede5bb941ed46fe3e1dfa3a554) - 2025-07-20
+* [Commit] [always trace apply](https://github.com/erigontech/erigon/commit/67514e9cde7e7686c73d61746035fc1881e14b43) - 2025-07-20
+* [Commit] [log exec loop apply progress](https://github.com/erigontech/erigon/commit/1e821181b7fcdc0d93ed72931c66110b7a797e74) - 2025-07-20
 ## Q2 2025
 
 

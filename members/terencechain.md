@@ -28,6 +28,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Numbers should be string instead of float](https://github.com/OffchainLabs/prysm/commit/a234bd5cad272b9abcfed229c3641942e79354a6) - 2025-07-10
 * [Commit] [Numbers should be string instead of float](https://github.com/OffchainLabs/prysm/commit/54ea14c39a70f9db486104a58cd20e6d981bdb9e) - 2025-07-10
 * [Commit] [Add bundle v2 support for submit blind block (#15198)](https://github.com/OffchainLabs/prysm/commit/f8abf0565f8f54280d7b4eeca22d449601645407) - 2025-07-16
+* [Commit] [Only update safe head if the highest block slot is current slot](https://github.com/OffchainLabs/prysm/commit/e72004f51d5df728fe82d5987e7c977f017d1a8c) - 2025-07-20
+* [Commit] [Remove unused variables, functions and more (#15264)](https://github.com/OffchainLabs/prysm/commit/93a5fdd8f35b0e9fa55b05bc06b8a45b38ae0093) - 2025-07-20
 ## Q2 2025
 
 

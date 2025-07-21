@@ -56,6 +56,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [p2p and rlpx code cleanup](https://github.com/status-im/nimbus-eth1/commit/1c3114feeef87110755e1570060faf95b838ef7f) - 2025-07-17
 * [Commit] [p2p and rlpx code cleanup (#3485)](https://github.com/status-im/nimbus-eth1/commit/5b798fe11e4c8e4350a5623aa20be92546849bcc) - 2025-07-18
 * [Commit] [Fix tests](https://github.com/status-im/nimbus-eth1/commit/df2591e03346683ee2fcccdcfca63c8084a8fb69) - 2025-07-19
+
+* [Commit] [Improves logging](https://github.com/status-im/nimbus-eth1/commit/a839a67b53eba7299fd9ceac42b36d24529e51bb) - 2025-07-20
+* [Commit] [Fix test](https://github.com/status-im/nimbus-eth1/commit/6e73920988545f523f658fba2f7336ac179e1941) - 2025-07-20
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 ## Q2 2025
 
 

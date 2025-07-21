@@ -27,6 +27,7 @@ Team: Portal Network (EF)
 * [Pull Request] [feat: add new history network types](https://github.com/ethereum/trin/pull/1884) - 2025-07-05
 * [Commit] [chore(deps): weekly `cargo update` (#1885)](https://github.com/ethereum/trin/commit/ba9a7f0358101bdcba7198f23c7d83f750c80b8b) - 2025-07-07
 * [Commit] [chore(deps): weekly `cargo update` (#1886)](https://github.com/ethereum/trin/commit/45241a3621efc0ee00c6c22f8211dc76caac6b9c) - 2025-07-13
+* [Commit] [chore(deps): weekly `cargo update` (#1887)](https://github.com/ethereum/trin/commit/eda2666dd0e17d1d84b28a2f1528d317fe4ca700) - 2025-07-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add "Prototyping" working group](https://github.com/protocolguild/documentation/pull/363) - 2025-07-02
 
@@ -38,6 +39,10 @@ Team: Portal Network (EF)
 * [Commit] [feat: remove support for state network (#438)](https://github.com/ethereum/glados/commit/f37f33b7ae3b771e6c4e2f3484135540937e8fe6) - 2025-07-13
 * [Pull Request] [feat: remove support for state network](https://github.com/ethereum/glados/pull/438) - 2025-07-13
 * [Pull Request] [feat: implement sync strategy](https://github.com/ethereum/glados/pull/442) - 2025-07-16
+
+[ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
+* [Commit] [Add spec for new History network (#410)](https://github.com/ethereum/portal-network-specs/commit/e9d7ba8ef01714471d6b2358ca8a0be5989bd7ed) - 2025-07-20
+* [Commit] [Move network specs into legacy folder (#409)](https://github.com/ethereum/portal-network-specs/commit/0bf9995eb39983e2bcc34f1cf40d0ea01b078e2d) - 2025-07-20
 ## Q2 2025
 
 

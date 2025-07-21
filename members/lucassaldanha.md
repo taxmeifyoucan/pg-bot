@@ -15,6 +15,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Added OrbStack thank you note :) (#9658)](https://github.com/Consensys/teku/commit/437b3cda9690785bb8e8534f8cbf2a37494af6b1) - 2025-07-14
 * [Pull Request] [Added OrbStack thank you note :)](https://github.com/Consensys/teku/pull/9658) - 2025-07-14
 * [Commit] [Simplify generate*RangeRequests for data columns (#9667)](https://github.com/Consensys/teku/commit/25b43b33d9013de05370df985bd332f306663a8a) - 2025-07-16
+* [Commit] [Update consensus-specs links to point to master (#9685)](https://github.com/Consensys/teku/commit/6faba5e5406548739c3edf158987cc7598b49f70) - 2025-07-20
 ## Q2 2025
 
 

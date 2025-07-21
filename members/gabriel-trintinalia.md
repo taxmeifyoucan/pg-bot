@@ -29,6 +29,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [Start with eth/69 (#8963)](https://github.com/hyperledger/besu/commit/99be034a5347836f2cb5d83b73a1cf1c7d8b4d30) - 2025-07-16
 * [Pull Request] [[fusaka-devnet-2] Start with eth/69](https://github.com/hyperledger/besu/pull/8963) - 2025-07-16
 * [Commit] [Prometheus Metrics for engine_getBlobsV2 RPC Method (#8951)](https://github.com/hyperledger/besu/commit/ea3f5e107e4d4af76135fe065f962f1e03bd2396) - 2025-07-16
+* [Commit] [Update ref tests (#8980)](https://github.com/hyperledger/besu/commit/92ab53abf3cb228c4710c9fc74832051881ef379) - 2025-07-20
+* [Pull Request] [[fusaka-devnet-3] Update ref tests](https://github.com/hyperledger/besu/pull/8980) - 2025-07-20
 ## Q2 2025
 
 
