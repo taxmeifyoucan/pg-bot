@@ -34,6 +34,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Add `jemalloc-profilg` feature](https://github.com/sigp/lighthouse/pull/7746) - 2025-07-16
 * [Commit] [Sync peer attribution (#7733)](https://github.com/sigp/lighthouse/commit/90ff64381e894728e26447bb866047b6cc90dd15) - 2025-07-16
 * [Commit] [Add additional broadcast validation tests for Fulu/PeerDAS  (#7325)](https://github.com/sigp/lighthouse/commit/d6de8a7484777f3653dcfdd4b3b7c26d43c127ca) - 2025-07-18
+* [Pull Request] [Fix leak in range sync `components_by_range_requests`](https://github.com/sigp/lighthouse/pull/7767) - 2025-07-21
 ## Q2 2025
 
 

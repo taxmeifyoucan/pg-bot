@@ -19,6 +19,16 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Modify EIP-7825: Lower Gas Limit Cap](https://github.com/ethereum/EIPs/pull/9986) - 2025-07-07
 * [Pull Request] [EIP-7928: Modify CodeChanges List to allow a max of 1](https://github.com/ethereum/EIPs/pull/9994) - 2025-07-09
 * [Pull Request] [EIP-7928: Add statically inferrable nonce changes back](https://github.com/ethereum/EIPs/pull/10031) - 2025-07-18
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [Add Specs: EIP-7928: Block-level Access Lists](https://github.com/ethereum/execution-specs/pull/1338) - 2025-07-21
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [test: add max block size test using access lists](https://github.com/ethereum/execution-spec-tests/pull/1932) - 2025-07-21
+
+[nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation)
+* [Commit] [Add files via upload](https://github.com/nerolation/pglanding-nerolation/commit/786b203ac20efd6b4d1ea59eb6db1da458798094) - 2025-07-21
+* [Commit] [Add files via upload](https://github.com/nerolation/pglanding-nerolation/commit/397356c59291489a34e0981a0b7fb975660e8dbd) - 2025-07-21
 ## Q2 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

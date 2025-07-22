@@ -23,6 +23,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [proxy: mock transport (#3463)](https://github.com/status-im/nimbus-eth1/commit/97795b4c823289c846901d321d0ff3fa56ca5d6e) - 2025-07-17
 * [Commit] [Portal: rename history network to legacy history network for now (#3476)](https://github.com/status-im/nimbus-eth1/commit/52271f67de703059e2ae1f661794a13f5f1319ad) - 2025-07-17
 * [Commit] [Portal: default disable beacon network (#3478)](https://github.com/status-im/nimbus-eth1/commit/1be3e02dcfb2d1a3ac9cbd7505ef7e1fde130ae1) - 2025-07-17
+* [Commit] [Add Discovery V5 alongside V4 (#3489)](https://github.com/status-im/nimbus-eth1/commit/e29e529b752082557e7405947bee295378e84587) - 2025-07-21
+* [Commit] [Portal: default disable beacon network (#3478)](https://github.com/status-im/nimbus-eth1/commit/1be3e02dcfb2d1a3ac9cbd7505ef7e1fde130ae1) - 2025-07-21
 ## Q2 2025
 
 

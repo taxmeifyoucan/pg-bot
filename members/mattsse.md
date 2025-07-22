@@ -70,6 +70,21 @@ Team: Reth
 * [Commit] [lint toml](https://github.com/paradigmxyz/reth/commit/112a6d56e9a8df7808ae71ebeb133c2c508a1f1f) - 2025-07-19
 * [Commit] [update success](https://github.com/paradigmxyz/reth/commit/a51ea070a2bbdfd02bff30aec8a9f5b420a8efd6) - 2025-07-19
 * [Pull Request] [chore: migrate from codespell to typos](https://github.com/paradigmxyz/reth/pull/17501) - 2025-07-19
+* [Issue] [Add config setting for pending lock behaviour](https://github.com/paradigmxyz/reth/issues/17535) - 2025-07-21
+* [Pull Request] [chore: use parkinglot mutext](https://github.com/paradigmxyz/reth/pull/17531) - 2025-07-21
+* [Commit] [chore: simplify trait fn](https://github.com/paradigmxyz/reth/commit/138d54739e4508fab4f9ce552330d34922f4cda2) - 2025-07-21
+* [Pull Request] [chore: bump alloy-evm 015](https://github.com/paradigmxyz/reth/pull/17528) - 2025-07-21
+* [Commit] [chore: extend exex ethapi example (#17481)](https://github.com/paradigmxyz/reth/commit/5bc8589162b6e23b07919d82a57eee14353f2862) - 2025-07-21
+* [Commit] [chore: sanity secp256k1+rayon activations (#17527)](https://github.com/paradigmxyz/reth/commit/84387f7c97236281e17e2719b325b7809d520260) - 2025-07-21
+* [Commit] [chore: sanity rayon activation](https://github.com/paradigmxyz/reth/commit/824e3b72ea8a7fe0adac55106351f06307c858fc) - 2025-07-21
+* [Pull Request] [chore: sanity secp256k1 activations](https://github.com/paradigmxyz/reth/pull/17527) - 2025-07-21
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/444fbacafc5acdde1e3beceb5781f548100c5f54) - 2025-07-21
+* [Pull Request] [fix: ensure required revm features are activated](https://github.com/paradigmxyz/reth/pull/17526) - 2025-07-21
+* [Issue] [Add dedicated functions for reading the blockbody](https://github.com/paradigmxyz/reth/issues/17522) - 2025-07-21
+* [Commit] [fix: `logIndex` in `getBlockReceipts` (#17519)](https://github.com/paradigmxyz/reth/commit/0b1f25e56e375ad7b90183b778dfa54f693a42b5) - 2025-07-21
+* [Commit] [chore: migrate from codespell to typos (#17501)](https://github.com/paradigmxyz/reth/commit/bec451026df4c811231fd421a80e2d3f16482caa) - 2025-07-21
+* [Commit] [ci: dont expect callenv to fail (#17516)](https://github.com/paradigmxyz/reth/commit/2c62cd8b46b4869cce6772acda8179816041e49b) - 2025-07-21
+* [Pull Request] [ci: dont expect callenv to fail](https://github.com/paradigmxyz/reth/pull/17516) - 2025-07-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

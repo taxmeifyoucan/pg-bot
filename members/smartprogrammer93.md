@@ -13,6 +13,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] [Fix surge average gas usage estimation](https://github.com/NethermindEth/nethermind/pull/8998) - 2025-07-17
+* [Commit] [Fix naming of data cost in ExecutePrecompile (#8994)](https://github.com/NethermindEth/nethermind/commit/6ba2255face100a65aab7984e0f33ee6f5de9010) - 2025-07-21
 ## Q2 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

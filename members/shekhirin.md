@@ -104,6 +104,7 @@ Team: Reth
 * [Pull Request] [chore(bin): reth-bench missing --jwt-secret message](https://github.com/paradigmxyz/reth/pull/17443) - 2025-07-16
 * [Commit] [revert fixtures pin, pin hive repo](https://github.com/paradigmxyz/reth/commit/751966c73063bd6571434242a163a92869d16d03) - 2025-07-18
 * [Commit] [revert fixtures pin, pin hive repo](https://github.com/paradigmxyz/reth/commit/ad7737af166801be1d4c083c115cfa6281f82bdb) - 2025-07-18
+* [Pull Request] [feat(reth-bench): auto-create output directory](https://github.com/paradigmxyz/reth/pull/17541) - 2025-07-21
 ## Q2 2025
 
 

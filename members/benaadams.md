@@ -117,6 +117,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [async code commit](https://github.com/NethermindEth/nethermind/commit/d6e35c95ee9d02cff460754c7a3069b93a300231) - 2025-07-20
 * [Commit] [async code commit](https://github.com/NethermindEth/nethermind/commit/11e715cf7cfdb96f66d32c9a49d7835215fd5515) - 2025-07-20
 * [Commit] [Tidy up ecdsa overloads (#9015)](https://github.com/NethermindEth/nethermind/commit/dc7276fcadd3d07388e1b386a92a440055c6ca82) - 2025-07-20
+* [Commit] [Update winget command (#9011)](https://github.com/NethermindEth/nethermind/commit/8075f5f90ec357d467cf18094afac0bcdbe63972) - 2025-07-21
+* [Commit] [Update `ModExp` precompile to the newest version of EIP-7883 (triple pricing) (#8964)](https://github.com/NethermindEth/nethermind/commit/78fbe4576cf4a5e4a9a3049ba075a1c40ab07120) - 2025-07-21
+* [Commit] [Fix surge average gas usage estimation (#8998)](https://github.com/NethermindEth/nethermind/commit/347b34875d969017743bd3c3bf948f7731addae5) - 2025-07-21
+* [Commit] [Make Ethereum.Blockchain test logs more readable (#9018)](https://github.com/NethermindEth/nethermind/commit/9085d7e3af0ab358c78d4a5e017ba028f3cec173) - 2025-07-21
+* [Pull Request] [Make test logs more readable](https://github.com/NethermindEth/nethermind/pull/9018) - 2025-07-21
+* [Commit] [Update chain sizes test (#9016)](https://github.com/NethermindEth/nethermind/commit/e9d365c5d37a1e63ab5073c2a7a0e0de02c76063) - 2025-07-21
+* [Commit] [Fix tests](https://github.com/NethermindEth/nethermind/commit/1478a28f7225fec67ea762d7ca2ca77bc71c67f6) - 2025-07-21
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/1355a96015d94e615d3e49848c7de8acbc20c505) - 2025-07-21
+* [Pull Request] [Update chain sizes test](https://github.com/NethermindEth/nethermind/pull/9016) - 2025-07-21
+* [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/fc0255b391b7653b37c51f97d350ed05aa14e1f1) - 2025-07-21
 ## Q2 2025
 
 

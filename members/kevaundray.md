@@ -17,6 +17,10 @@ Team: Consensus R&D (EF)
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(experiment): Add dynamic crypto provider](https://github.com/bluealloy/revm/pull/2706) - 2025-07-14
 * [Pull Request] [chore(experiment): Use bytes API for underlying precompile library APIs](https://github.com/bluealloy/revm/pull/2705) - 2025-07-14
+* [Pull Request] [chore: Copy Dragan benchmarking code into criterion](https://github.com/bluealloy/revm/pull/2744) - 2025-07-21
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Pull Request] [chore: add scripts to laucnh up local kurtosis testnet](https://github.com/ChainSafe/lodestar/pull/8070) - 2025-07-21
 ## Q2 2025
 
 

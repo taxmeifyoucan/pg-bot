@@ -37,6 +37,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add missing finalized marker to updateBase (#3459)](https://github.com/status-im/nimbus-eth1/commit/b5e5b5e16e1a4fa3f8a21df0e7c78ba5bc5b5634) - 2025-07-08
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
+* [Pull Request] [log: formatting for PubKey0x](https://github.com/status-im/nimbus-eth2/pull/7307) - 2025-07-21
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

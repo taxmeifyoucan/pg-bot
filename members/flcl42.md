@@ -46,6 +46,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [EIP-7594: Constant maxBlobsPerTx  (#8940)](https://github.com/NethermindEth/nethermind/commit/5993011f66295eafbb4bde46fd57f76c11c44751) - 2025-07-16
 * [Commit] [Fix next/last hash to be null](https://github.com/NethermindEth/nethermind/commit/c4020a6751ea9213a7517c92a7f9e4f192a327d7) - 2025-07-16
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/4d7a8f154932d67890bf995ae509e26a028c6823) - 2025-07-19
+* [Commit] [Fix devnet 3 (#9022)](https://github.com/NethermindEth/nethermind/commit/2fd4f27ff9546184188f617f56993d9f084a1313) - 2025-07-21
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/4d7ebc32252e6c24d4aabe982957d69827f1daa1) - 2025-07-21
+* [Pull Request] [Fix devnet 3](https://github.com/NethermindEth/nethermind/pull/9022) - 2025-07-21
+* [Commit] [Use only one blob count validator](https://github.com/NethermindEth/nethermind/commit/15cf2a492ac70b655518c8e33baa1c58acbd7156) - 2025-07-21
+* [Commit] [Fix CLZ cost](https://github.com/NethermindEth/nethermind/commit/80247e3bb7442986c2480c248415edec59f58bd7) - 2025-07-21
+* [Commit] [Improve error messages](https://github.com/NethermindEth/nethermind/commit/17c23b38b39015a700666f866360dac5be8701cd) - 2025-07-21
+* [Commit] [Fix CLZ cost](https://github.com/NethermindEth/nethermind/commit/61aae390e9ce21674c0c33a02501f44e9195c53e) - 2025-07-21
+* [Commit] [Don't block background tasks when syncing (#8971)](https://github.com/NethermindEth/nethermind/commit/113f22faff0611b148926a59f6be73d324b81fbc) - 2025-07-21
+* [Commit] [Replace `eth_pairings` with `mcl` (#8992)](https://github.com/NethermindEth/nethermind/commit/9864df97f80c0e65fd92898e94ccebd838582918) - 2025-07-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

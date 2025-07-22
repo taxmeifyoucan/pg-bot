@@ -62,6 +62,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [wip: testdump fix](https://github.com/erigontech/erigon/pull/16155) - 2025-07-18
 * [Commit] [save](https://github.com/erigontech/erigon/commit/1658e0f058ec65602ac4e54f9d953523b9c269b3) - 2025-07-18
 * [Pull Request] [cp: borEvent optimization](https://github.com/erigontech/erigon/pull/16154) - 2025-07-18
+* [Pull Request] [skip SyncSnapshots when preverified is local](https://github.com/erigontech/erigon/pull/16208) - 2025-07-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ee8b7641a2676766e74bd44e5e00b8181e32b111) - 2025-07-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cc202f3da21d23298ce98b5275d3f7229be240af) - 2025-07-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9d472ae032ba66d8ea38052d1ffbf383703bca88) - 2025-07-21
+* [Pull Request] [wip: back compac re/rc](https://github.com/erigontech/erigon/pull/16204) - 2025-07-21
 ## Q2 2025
 
 

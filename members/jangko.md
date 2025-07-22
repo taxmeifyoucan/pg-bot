@@ -59,6 +59,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 
 * [Commit] [Improves logging](https://github.com/status-im/nimbus-eth1/commit/a839a67b53eba7299fd9ceac42b36d24529e51bb) - 2025-07-20
 * [Commit] [Fix test](https://github.com/status-im/nimbus-eth1/commit/6e73920988545f523f658fba2f7336ac179e1941) - 2025-07-20
+* [Pull Request] [Fix race condition between FC.processingQueue and FC.serialize](https://github.com/status-im/nimbus-eth1/pull/3494) - 2025-07-21
+* [Commit] [Cosmetic changes](https://github.com/status-im/nimbus-eth1/commit/b60291d354e94e06a626e638b2a52a35ba4ed324) - 2025-07-21
+* [Commit] [Fix missing return ok()](https://github.com/status-im/nimbus-eth1/commit/250970bc26950aec6b8c5284b6fd9661a778d3a9) - 2025-07-21
+* [Commit] [Refine discovery V4 error handling](https://github.com/status-im/nimbus-eth1/commit/e77804d03f9d3880c99f0d900c2b548ba5e34b12) - 2025-07-21
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 ## Q2 2025

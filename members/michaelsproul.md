@@ -24,6 +24,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Add more range sync tests (#6872)](https://github.com/sigp/lighthouse/commit/d5a03c9d86bf9e68cf6ef93c4cc427e3f8482178) - 2025-07-10
 * [Issue] [Update LH to use Rust Edition 2024](https://github.com/sigp/lighthouse/issues/7749) - 2025-07-17
 * [Pull Request] [Add heaptrack support](https://github.com/sigp/lighthouse/pull/7764) - 2025-07-21
+* [Pull Request] [Remove tracing instrumentation](https://github.com/sigp/lighthouse/pull/7765) - 2025-07-21
+* [Commit] [Fix cargo sort](https://github.com/sigp/lighthouse/commit/dd009fbb4f848ce9de8f7a3c055699e42c0ca7fe) - 2025-07-21
+* [Commit] [Rename profile to release-debug](https://github.com/sigp/lighthouse/commit/1e207b12f0a55461aea16696295ed2374ba86841) - 2025-07-21
 ## Q2 2025
 
 

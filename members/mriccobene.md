@@ -16,6 +16,14 @@ Team: Erigon
 * [Commit] [add a script for local debugging](https://github.com/erigontech/erigon/commit/08eb929a755db483e06f05151ec29c8f52bb0396) - 2025-07-14
 * [Commit] [order run by date](https://github.com/erigontech/erigon/commit/a71a64304ac664956709845cb62a89b25baeb914) - 2025-07-14
 * [Pull Request] [qa-tests: update test report](https://github.com/erigontech/erigon/pull/16093) - 2025-07-14
+* [Commit] [add migration also to Gnosis and Polygon tip-tracking](https://github.com/erigontech/erigon/commit/2005546ca860caea8b889c37fcfa5dfcb9d41104) - 2025-07-21
+* [Commit] [add migration procedure to the tip-tracking test](https://github.com/erigontech/erigon/commit/c5bf1e9c674a0ad584dd966a7721273e57f38e5b) - 2025-07-21
+* [Pull Request] [qa-tests: de-schedule tip-tracking](https://github.com/erigontech/erigon/pull/16205) - 2025-07-21
+* [Commit] [deschedule tip-tracking](https://github.com/erigontech/erigon/commit/359bade794ffa580fd011ed5385064335899ebcc) - 2025-07-21
+* [Commit] [qa-tests: fix tip-tracking scheduling (#16201)](https://github.com/erigontech/erigon/commit/73cf3c6236cf0dde9a88bb4a3ee27d7cbfd9d3da) - 2025-07-21
+* [Pull Request] [qa-tests: update test report and tip-tracking workflows ](https://github.com/erigontech/erigon/pull/16203) - 2025-07-21
+* [Pull Request] [qa-tests: fix tip-tracking scheduling](https://github.com/erigontech/erigon/pull/16202) - 2025-07-21
+* [Pull Request] [qa-tests: fix tip-tracking scheduling](https://github.com/erigontech/erigon/pull/16201) - 2025-07-21
 ## Q2 2025
 
 

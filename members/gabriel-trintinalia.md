@@ -31,6 +31,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [Prometheus Metrics for engine_getBlobsV2 RPC Method (#8951)](https://github.com/hyperledger/besu/commit/ea3f5e107e4d4af76135fe065f962f1e03bd2396) - 2025-07-16
 * [Commit] [Update ref tests (#8980)](https://github.com/hyperledger/besu/commit/92ab53abf3cb228c4710c9fc74832051881ef379) - 2025-07-20
 * [Pull Request] [[fusaka-devnet-3] Update ref tests](https://github.com/hyperledger/besu/pull/8980) - 2025-07-20
+* [Pull Request] [Use system call for beacon root](https://github.com/hyperledger/besu/pull/8982) - 2025-07-21
+* [Pull Request] [Add world view to trace start block](https://github.com/hyperledger/besu/pull/8981) - 2025-07-21
 ## Q2 2025
 
 

@@ -8,6 +8,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Increase the machine size for op-mainnet (#9017)](https://github.com/NethermindEth/nethermind/commit/ce9bf7d7e1ae328421c3c503fd3f9d27828c801c) - 2025-07-21
+* [Commit] [Bump the version](https://github.com/NethermindEth/nethermind/commit/080637edc24c43fbc9f9fde153f73a240a602163) - 2025-07-21
+* [Pull Request] [Increase the machine size for op-mainnet](https://github.com/NethermindEth/nethermind/pull/9017) - 2025-07-21
 ## Q2 2025
 
 

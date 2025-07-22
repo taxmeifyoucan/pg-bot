@@ -39,6 +39,16 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [handle blocktree head being null](https://github.com/NethermindEth/nethermind/commit/da6c0df3b6e5631fcd4d64b8f0515770df2fae76) - 2025-07-16
 * [Commit] [use cutoff pointer to start cutoff search](https://github.com/NethermindEth/nethermind/commit/4c14d27b39623708a622d9747d4bbb4f0cb31291) - 2025-07-16
 * [Commit] [don't change syncconfigbarriercalc if history pruner disabled](https://github.com/NethermindEth/nethermind/commit/89ce2b612aa8d036c0245ac2437b1205051b2d96) - 2025-07-16
+* [Commit] [don't block accepting new blocks, use chainlevelinforepo to delete](https://github.com/NethermindEth/nethermind/commit/7ac21e2360e6a3a6fcafe6e6c2f9815f16cbe999) - 2025-07-21
+* [Commit] [refactor tryprunehistory](https://github.com/NethermindEth/nethermind/commit/8f70a65b0a99dbe64a8955d63ec3a2809ab253e4) - 2025-07-21
+* [Commit] [use background task scheduler](https://github.com/NethermindEth/nethermind/commit/a165341d6202bfcc91eb17738777a60d2c333bae) - 2025-07-21
+* [Commit] [move metrics to history](https://github.com/NethermindEth/nethermind/commit/45d439eb822fcef3619e610101249264de3305fb) - 2025-07-21
+* [Commit] [refactor history to new namespace](https://github.com/NethermindEth/nethermind/commit/818aab054a8a39427e401caad45d7d0694d8d777) - 2025-07-21
+* [Commit] [use proccessexitsource](https://github.com/NethermindEth/nethermind/commit/bf4165d4a9081d0bbcbf0fab96fad0ff86fc646c) - 2025-07-21
+* [Commit] [fix history pruner test](https://github.com/NethermindEth/nethermind/commit/4131c9c68db32a14daacb2a7a22402d8f35e0f76) - 2025-07-21
+* [Commit] [use blocktree in historypruner instead of blockstore](https://github.com/NethermindEth/nethermind/commit/8922905b9c8fa61107ce1dd82d0e754f510a236c) - 2025-07-21
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/5379e5178757e7eec15f6750d864cc53d6f08bdd) - 2025-07-21
+* [Commit] [Only access "warmup" hashtable once per warmup (#8983)](https://github.com/NethermindEth/nethermind/commit/2b0e8382ba16be327fb825267409f95818f98b71) - 2025-07-21
 ## Q2 2025
 
 

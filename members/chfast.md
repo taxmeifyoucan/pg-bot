@@ -14,6 +14,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Commit] [evm: use evmone for ModExp](https://github.com/erigontech/erigon/commit/d217157958af3a95d405576d539bb327360422b2) - 2025-07-14
 * [Commit] [Revert "evm: use evmone for ModExp"](https://github.com/erigontech/erigon/commit/7ab8d58b2b7cb5060e8f6144e6ded9af89cd40fb) - 2025-07-16
+
+[ethereum/evmone](https://github.com/ethereum/evmone)
+* [Commit] [ci: Speed up the clang-tidy build (#1272)](https://github.com/ipsilon/evmone/commit/b5f77d6f6e4fae55ae9a027c4bc3d203766d1ec3) - 2025-07-21
+* [Pull Request] [ci: Speed up the clang-tidy build](https://github.com/ipsilon/evmone/pull/1272) - 2025-07-21
+* [Commit] [ci: Switch code coverage to clang/LLVM](https://github.com/ipsilon/evmone/commit/f4872859c5edbdcbb3046d3e119106f86f25d476) - 2025-07-21
+* [Commit] [cmake: Fixup LLVM_PROFILE_FILE for integration tests (#1270)](https://github.com/ipsilon/evmone/commit/eae6d958cd477a70dc3a5f31cc940aa6f2aee0ca) - 2025-07-21
+* [Pull Request] [ci: Use Ninja CMake generator](https://github.com/ipsilon/evmone/pull/1271) - 2025-07-21
 ## Q2 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

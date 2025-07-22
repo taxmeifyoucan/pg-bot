@@ -66,6 +66,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/engineapi: fix failing hive tests due to block downloader statuses](https://github.com/erigontech/erigon/pull/16157) - 2025-07-18
 * [Commit] [tests/execution-spec-tests: update to fusaka-devnet-3 release](https://github.com/erigontech/erigon/commit/e016ff2ea61025d47348c3575a1369691113904f) - 2025-07-20
 * [Issue] [[fusaka-devnet-3] re-enable execution-spec-tests on main after all PRs are merged](https://github.com/erigontech/erigon/issues/16195) - 2025-07-20
+* [Commit] [tests: re-enable TestExecutionSpecBlockchain after devnet-3 changes (#16206)](https://github.com/erigontech/erigon/commit/a8c2718e1b9f9824feb99101160ba1431245240a) - 2025-07-21
+* [Pull Request] [tests: re-enable TestExecutionSpecBlockchain after devnet-3 changes](https://github.com/erigontech/erigon/pull/16206) - 2025-07-21
+* [Commit] [EIP-7825: Update txn gas lim to 16,777,216 (#16184)](https://github.com/erigontech/erigon/commit/11f456d935bc08ff6573f17f89286ac0acaf9b5b) - 2025-07-21
+* [Commit] [EIP-7883: triple modexp gas price (#16187)](https://github.com/erigontech/erigon/commit/07bafc5d09cc5d068c96ef1e299cf9a4cfa90713) - 2025-07-21
+* [Commit] [EIP-7951: update p256Verify gas cost to 6900 (#16186)](https://github.com/erigontech/erigon/commit/079f14c358723b6d220ae4bb45d2ced7307433b5) - 2025-07-21
+* [Commit] [EIP-7918: change BlobBaseCost to 2^13 (#16185)](https://github.com/erigontech/erigon/commit/2cf17c0948d6cf049bc16d7141be967db0fb4e31) - 2025-07-21
+* [Commit] [EIP-7939: update CLZ gas cost to 5 (#16183)](https://github.com/erigontech/erigon/commit/3c77c893fa3dacef69fca1e3311a353323300b21) - 2025-07-21
+* [Commit] [Revert "EIP-7907: Meter Contract Code Size And Increase Limit (#15688)" (#16182)](https://github.com/erigontech/erigon/commit/3e98ea31e84bbd19edfe52ba112f3b61a44588b3) - 2025-07-21
+* [Commit] [experiment without KeepRecentTxnsOfHistoriesWithDisabledSnapshots](https://github.com/erigontech/erigon/commit/adc3895c34e7bf921fa512146d8d4e6645da2cfb) - 2025-07-21
+* [Commit] [Feat/txpool improve error reporting (#15799)](https://github.com/erigontech/erigon/commit/6c3c8d21d2d0fdd9b4a7c582422048ed8ab85b89) - 2025-07-21
+* [Commit] [tests/execution-spec-tests: update to fusaka-devnet-3 release (#16188)](https://github.com/erigontech/erigon/commit/1792fb201b812f91ff1415b2fdd2991e2ed08599) - 2025-07-21
+* [Commit] [update with new eest-fixtures](https://github.com/erigontech/erigon/commit/7db383aafe66ec3b88236dcaa403f3768987ce4e) - 2025-07-21
 ## Q2 2025
 
 

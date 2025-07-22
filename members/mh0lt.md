@@ -78,6 +78,19 @@ Team: Erigon
 * [Commit] [add blobgas processing](https://github.com/erigontech/erigon/commit/d5a9767e129e0bede5bb941ed46fe3e1dfa3a554) - 2025-07-20
 * [Commit] [always trace apply](https://github.com/erigontech/erigon/commit/67514e9cde7e7686c73d61746035fc1881e14b43) - 2025-07-20
 * [Commit] [log exec loop apply progress](https://github.com/erigontech/erigon/commit/1e821181b7fcdc0d93ed72931c66110b7a797e74) - 2025-07-20
+* [Commit] [updated submodule](https://github.com/erigontech/erigon/commit/6ffec823642b98dfc04a6732d5466080b8b03ed8) - 2025-07-21
+* [Commit] [execution/stagedsync: add stage metrics (#16127)](https://github.com/erigontech/erigon/commit/881d17cca82c460472e850f14c743c9a4cd89ee3) - 2025-07-21
+* [Commit] [move flush to executer](https://github.com/erigontech/erigon/commit/a0f6047f313543cfb60032dcfb4867954067b1e7) - 2025-07-21
+* [Commit] [clear trace printers](https://github.com/erigontech/erigon/commit/db38cd747586aaecdd94752b2282e16f9c2d8eff) - 2025-07-21
+* [Commit] [clear trace printers](https://github.com/erigontech/erigon/commit/26110efc10302628d52afe71741f714d2b42bc34) - 2025-07-21
+* [Commit] [clear trace printers](https://github.com/erigontech/erigon/commit/3909eef66d56e01e6b53e80e88eab0b1b50634e8) - 2025-07-21
+* [Commit] [no commit](https://github.com/erigontech/erigon/commit/113cf995274c79014928e70263d56e4eb7bf4557) - 2025-07-21
+* [Commit] [log touch](https://github.com/erigontech/erigon/commit/2ec529a93af8314a4febfdeec3875f55aaa5be32) - 2025-07-21
+* [Commit] [log touch](https://github.com/erigontech/erigon/commit/4b6519af626eebb183bc775eeff1b9d395533f96) - 2025-07-21
+* [Commit] [log touch](https://github.com/erigontech/erigon/commit/8628702d65543d2e3735d98fd54f3e82e628c21c) - 2025-07-21
+* [Commit] [log touch](https://github.com/erigontech/erigon/commit/064b133ccbc4837c45715639bb79c9100d7f0b54) - 2025-07-21
+* [Commit] [don't reset commitement on clear ram](https://github.com/erigontech/erigon/commit/16ccf0632f9481bcaa35e6d9af4507172738942f) - 2025-07-21
+* [Commit] [log touch](https://github.com/erigontech/erigon/commit/8baffb0ddf85c06e07e590106cb0fb7df4c26891) - 2025-07-21
 ## Q2 2025
 
 

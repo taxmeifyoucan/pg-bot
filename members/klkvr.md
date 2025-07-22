@@ -32,6 +32,15 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [refactor: relax rpc types bounds ](https://github.com/paradigmxyz/reth/pull/17401) - 2025-07-14
 * [Pull Request] [feat: `HeaderConverter`](https://github.com/paradigmxyz/reth/pull/17490) - 2025-07-18
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/8ec1b270c928cb27cc17fc48d5139d00b423a5c8) - 2025-07-18
+* [Pull Request] [feat: `ComponentsFor` type alias](https://github.com/paradigmxyz/reth/pull/17533) - 2025-07-21
+* [Pull Request] [feat: `EthApiCtx::eth_api_builder` ](https://github.com/paradigmxyz/reth/pull/17532) - 2025-07-21
+* [Commit] [relax](https://github.com/paradigmxyz/reth/commit/8222a036bf4ab91db5474b78bdb0ef138ab822a3) - 2025-07-21
+* [Commit] [feat: continue opchainspec support (#17422)](https://github.com/paradigmxyz/reth/commit/537ffeacaca4fad4ebc26031382b350cc0f581d6) - 2025-07-21
+* [Commit] [refactor: stronger bounds on `RpcNodeCore` (#17494)](https://github.com/paradigmxyz/reth/commit/adc19f653f0d3922f7ab7bf9ecd0d84566727711) - 2025-07-21
+* [Commit] [review fixes](https://github.com/paradigmxyz/reth/commit/8b4fde9f9a0d47dc4f562126a5106d9a03ccee36) - 2025-07-21
+* [Commit] [fix doc](https://github.com/paradigmxyz/reth/commit/18426c05252c23ea143c74c7366afb50ad865278) - 2025-07-21
+* [Commit] [fix compilation](https://github.com/paradigmxyz/reth/commit/c714e48d6e6e9bd48283b04be16cb345850c2175) - 2025-07-21
+* [Pull Request] [fix: `logIndex` in `getBlockReceipts`](https://github.com/paradigmxyz/reth/pull/17519) - 2025-07-21
 ## Q2 2025
 
 

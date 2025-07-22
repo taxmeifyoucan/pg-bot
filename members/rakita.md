@@ -52,6 +52,25 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat: simplify inspector interpreter loop](https://github.com/bluealloy/revm/pull/2731) - 2025-07-18
 * [Pull Request] [feat: count inspector and bench test](https://github.com/bluealloy/revm/pull/2730) - 2025-07-18
 * [Commit] [count inspector and test](https://github.com/bluealloy/revm/commit/b020a83dba91c627a5595835a5f2e97483e3b395) - 2025-07-18
+* [Commit] [Fix typo in EIP-7702 bytecode format comment (magic byte) (#2733)](https://github.com/bluealloy/revm/commit/3e52715d6273c53b3b3f85d6b116e94fbaa4f96f) - 2025-07-21
+* [Commit] [chore: Add blake2 benchmarks (#2735)](https://github.com/bluealloy/revm/commit/f4f4c38584585009b1830e0af24dcea11dfef007) - 2025-07-21
+* [Commit] [feat(precompiles): Use bytes API for underlying precompile library APIs (#2705)](https://github.com/bluealloy/revm/commit/066fc3090f37c46bb082632a4cf9510c7d30aeb2) - 2025-07-21
+* [Commit] [refactor: discard generic host implementation (#2738)](https://github.com/bluealloy/revm/commit/55c59dd95cb73330da99b3736e544f5ce2ed9620) - 2025-07-21
+* [Commit] [feat(interpreter): update CLZ cost (#2739)](https://github.com/bluealloy/revm/commit/25b46e83e38d6193f62516a9c91bed8eba7fdd1e) - 2025-07-21
+* [Commit] [feat(precompile): update osaka modexp gas divisor (#2740)](https://github.com/bluealloy/revm/commit/98b96b4eb109df995eced5cef3927b3969579d71) - 2025-07-21
+* [Commit] [feat(precompile): update p256 verify osaka gas cost (#2741)](https://github.com/bluealloy/revm/commit/a6dfd556dfa74a79a3fcb18971f0cc19ab0ace94) - 2025-07-21
+* [Commit] [fix: improve legacytests repository cloning logic](https://github.com/bluealloy/revm/commit/e44551246c038762f1e365e05e72613d20ad05a6) - 2025-07-21
+* [Commit] [test(op-revm): test for optional balance check (#2746)](https://github.com/bluealloy/revm/commit/6e78eb4a91201acf16dc98b412dda86809c47987) - 2025-07-21
+* [Pull Request] [test(op-revm): test for optional balance check](https://github.com/bluealloy/revm/pull/2746) - 2025-07-21
+* [Commit] [test(op-revm): test for optional balance check](https://github.com/bluealloy/revm/commit/3a0e765c7d0535ace89afc0c7d577390db272333) - 2025-07-21
+* [Commit] [refactor: move legacytests directory inside test-fixtures](https://github.com/bluealloy/revm/commit/db33deca5dbd93577e23379ea5465e9d8d416117) - 2025-07-21
+* [Commit] [fix: gas deduction with `disable_balance_check` (#2699)](https://github.com/bluealloy/revm/commit/6f1d029bf722f332b1598c1524bed3bccb7638b5) - 2025-07-21
+* [Commit] [chore: remove legacytests submodule and download dynamically](https://github.com/bluealloy/revm/commit/2912686042b57feee46da9d7a060a3094a1fe27e) - 2025-07-21
+* [Pull Request] [chore: remove legacytests submodule and download dynamically](https://github.com/bluealloy/revm/pull/2745) - 2025-07-21
+* [Commit] [chore: add clz_50 codspeed (#2743)](https://github.com/bluealloy/revm/commit/59164536f033fc42cc20ffbdb535a3287a6fdde4) - 2025-07-21
+* [Pull Request] [chore: add clz_50 codspeed](https://github.com/bluealloy/revm/pull/2743) - 2025-07-21
+* [Pull Request] [chore: bench clz](https://github.com/bluealloy/revm/pull/2742) - 2025-07-21
+* [Commit] [feat: count inspector and bench test (#2730)](https://github.com/bluealloy/revm/commit/a494e389df59a245d296acbe9fcbdaf75265658e) - 2025-07-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

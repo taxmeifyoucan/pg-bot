@@ -37,6 +37,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Write `Content-Encoding` header in the response properly when gzip encoding is requested (#15499)](https://github.com/OffchainLabs/prysm/commit/8623a144d92659ed89f8830eb4d7f4c3000be724) - 2025-07-17
 * [Commit] [Abstract validation logic for saving LC updates into the store function (#15504)](https://github.com/OffchainLabs/prysm/commit/f3314d2d24c3f8e52be9ce593ee3538f36e49d6e) - 2025-07-17
 * [Commit] [radek advice with new headers and tests](https://github.com/OffchainLabs/prysm/commit/5992c02759273ee912cad3244a5e1dcebe4ff328) - 2025-07-18
+* [Commit] [another unit test](https://github.com/OffchainLabs/prysm/commit/01d78df573809f6c646f4c1654d43731e9a70f54) - 2025-07-21
+* [Commit] [adding another failing case based on radek's suggestion](https://github.com/OffchainLabs/prysm/commit/d8186765e83d5947137407aa3e973246c1e04d41) - 2025-07-21
+* [Commit] [radek's comments](https://github.com/OffchainLabs/prysm/commit/183a7c97d636dd4cb19342932546b2b54781bc7e) - 2025-07-21
+* [Commit] [Abstract away LC update validation rules into the LC store (#15508)](https://github.com/OffchainLabs/prysm/commit/a4ca6355d03119edaa5657e95d775cd1ae6d8cef) - 2025-07-21
+* [Commit] [Update api/apiutil/header.go](https://github.com/OffchainLabs/prysm/commit/4a5122b88b26ac6bb45a0b756543b53dffc99021) - 2025-07-21
+* [Commit] [Update api/apiutil/header.go](https://github.com/OffchainLabs/prysm/commit/346aa40eb38437c35a17faeb9118bf9ecb7f4348) - 2025-07-21
+* [Commit] [Update validator/client/beacon-api/rest_handler_client.go](https://github.com/OffchainLabs/prysm/commit/b05729c76c4651a5f25a983f9a6a412903cedfcc) - 2025-07-21
 ## Q2 2025
 
 

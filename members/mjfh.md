@@ -15,6 +15,8 @@ Team: Nimbus
 * [Pull Request] [Jordan free parking](https://github.com/status-im/nimbus-eth1/pull/3469) - 2025-07-13
 * [Pull Request] [Jordan](https://github.com/status-im/nimbus-eth1/pull/3468) - 2025-07-13
 * [Commit] [no global `envID`, use `frameID`](https://github.com/status-im/nimbus-eth1/commit/c8c040618a5dd16c98b5b24ff0e781cc60fa6c72) - 2025-07-14
+* [Commit] [Capture `antecedent` with trace environment (contd.)](https://github.com/status-im/nimbus-eth1/commit/7e859f9ea4b78c291dce9af9383a09fdad771caf) - 2025-07-21
+* [Commit] [Resove generic async functiona as templates](https://github.com/status-im/nimbus-eth1/commit/dfb50680481a279827799f5814a176c7f856d4bb) - 2025-07-21
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

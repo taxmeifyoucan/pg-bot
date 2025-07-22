@@ -35,6 +35,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(osaka): Remove EIP-7907 from Osaka](https://github.com/ethereum/execution-specs/pull/1333) - 2025-07-18
 * [Commit] [feat(weld): add eest tests as a submodule](https://github.com/ethereum/execution-specs/commit/951e054061f3a646b1a3f3505cb15b1ea2005212) - 2025-07-18
 * [Commit] [feat(weld): parallelize CI post merge](https://github.com/ethereum/execution-specs/commit/9de289dd285e6c971811e078b0ea6876b3ed9216) - 2025-07-19
+* [Commit] [eip(Osaka): Implement EIP-7594 (#1325)](https://github.com/ethereum/execution-specs/commit/0ebf96a0b8a69efcc694d9b1ff54e0c621edd8b6) - 2025-07-21
+* [Issue] [Miscellaneous CI/Test updates](https://github.com/ethereum/execution-specs/issues/1339) - 2025-07-21
 ## Q2 2025
 
 

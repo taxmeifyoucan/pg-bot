@@ -8,6 +8,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ash
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [fix/(forks): Use BN254 for precompile names in eth_config instead of BN256](https://github.com/ethereum/execution-spec-tests/pull/1933) - 2025-07-21
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Change precompile name in eth_config](https://github.com/hyperledger/besu/pull/8986) - 2025-07-21
 ## Q2 2025
 
 

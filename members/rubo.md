@@ -29,8 +29,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update OP Superchain chains (#9014)](https://github.com/NethermindEth/nethermind/commit/f4c1c9f55f380c217a32b5e60c875d0ca3610740) - 2025-07-20
 * [Commit] [Auto-update fast sync settings (#9013)](https://github.com/NethermindEth/nethermind/commit/d2230a01a95016baa336a51e330e17b15f4b55cd) - 2025-07-20
 * [Commit] [Update winget command (#9011)](https://github.com/NethermindEth/nethermind/commit/8075f5f90ec357d467cf18094afac0bcdbe63972) - 2025-07-20
+* [Pull Request] [Revise BN254 precompile names](https://github.com/NethermindEth/nethermind/pull/9023) - 2025-07-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
+* [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21
 ## Q2 2025
 
 

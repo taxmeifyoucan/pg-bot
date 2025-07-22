@@ -55,6 +55,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [overhaul fork schedule management for bpos](https://github.com/OffchainLabs/prysm/commit/44f8d455395b410bd523c82dbe65d1e46a8ea431) - 2025-07-20
 * [Pull Request] [WIP: Rebase pending PRs onto develop / fusaka-devnet-3](https://github.com/OffchainLabs/prysm/pull/15512) - 2025-07-20
 * [Commit] [initialize genesis data asap at node start](https://github.com/OffchainLabs/prysm/commit/2955f1c663c2529561a2ab2d3f71e3e6eb0e53d6) - 2025-07-20
+* [Commit] [Beacon api: fix get config blob schedule](https://github.com/OffchainLabs/prysm/commit/e00e7232ce37cedae314d0f1262d7a8a51a545c3) - 2025-07-21
 ## Q2 2025
 
 

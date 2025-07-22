@@ -14,6 +14,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Commit] [Fix the browwer config](https://github.com/ChainSafe/lodestar/commit/c932a7f9fd23d45477b8ad76b64b2398616c8ef0) - 2025-07-09
 * [Commit] [Remove commented code](https://github.com/ChainSafe/lodestar/commit/4761d0f2f01999a8a91a10c9f1bc40779b496e18) - 2025-07-09
+* [Commit] [test: setup unit tests for bun runtime (#7971)](https://github.com/ChainSafe/lodestar/commit/ce27087f3464f7771f7b26a7eac5c39328a93ba6) - 2025-07-21
+* [Commit] [Update the log message](https://github.com/ChainSafe/lodestar/commit/d406105e54e4a253c9397ec9ee2a6ccdd3e6fe66) - 2025-07-21
+* [Commit] [Update code with given feedback](https://github.com/ChainSafe/lodestar/commit/694ad36cc7b4f3eee16912cf8b9164429e494bea) - 2025-07-21
+* [Commit] [Add comments for the tests cases](https://github.com/ChainSafe/lodestar/commit/8302f8f9c1b48262a4ff328e4e76ab1976b455fc) - 2025-07-21
+* [Commit] [Skip the test only for bun](https://github.com/ChainSafe/lodestar/commit/0a25a32ec171138900790899745f203387f4965e) - 2025-07-21
 ## Q2 2025
 
 

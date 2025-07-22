@@ -18,6 +18,14 @@ Team: Nethermind
 * [Commit] [CLZ tests](https://github.com/NethermindEth/nethermind/commit/e3b1e091f1e88edbaf02745d6378566b9f4a234f) - 2025-07-16
 * [Commit] [Add CLZ opcode](https://github.com/NethermindEth/nethermind/commit/558db06d65990caa00153e1ac49c8358b99373b1) - 2025-07-16
 * [Commit] [Fixes to ilevm (ethereum tests) (#8988)](https://github.com/NethermindEth/nethermind/commit/e6b9ff8c147fb79e5ce6bb97ebc7120edbb5fc2c) - 2025-07-16
+* [Commit] [reprice CLZ gas](https://github.com/NethermindEth/nethermind/commit/ea2b5428c3b9aef960c3fc80bdff30d068f485d6) - 2025-07-21
+* [Commit] [ensure setting ILedContract when found in CodeInfoFactory](https://github.com/NethermindEth/nethermind/commit/7644113b1e2f3ba90fcdf601a4a43cfc83769d5f) - 2025-07-21
+* [Commit] [Update CLZ gas cost for devnet3 (#8953)](https://github.com/NethermindEth/nethermind/commit/8eb2df2c7f5e610b13d07dbe70c457f24f463e01) - 2025-07-21
+* [Commit] [better error handling in the Analyzing Loop](https://github.com/NethermindEth/nethermind/commit/02d3401369b488dddcccef31cd1506a470a1b294) - 2025-07-21
+* [Commit] [fix akk failing tests](https://github.com/NethermindEth/nethermind/commit/09841e458de802c34b71d15969b5b1a83a7e35e4) - 2025-07-21
+* [Commit] [fix all failing tests](https://github.com/NethermindEth/nethermind/commit/070078acba807cda45efa1fb6f33bcb46fd72f04) - 2025-07-21
+* [Commit] [more fixes to CLZ and EXP](https://github.com/NethermindEth/nethermind/commit/6d3e1b6223a86ec29be7a4e624eaa1b9d9cfbcdb) - 2025-07-21
+* [Commit] [Fix worker loop (#9007)](https://github.com/NethermindEth/nethermind/commit/6083e36a2b5f5fa2442c2abdb97bbb127d233a84) - 2025-07-21
 ## Q2 2025
 
 

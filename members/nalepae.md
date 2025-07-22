@@ -57,6 +57,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/fee14cfcd21d18f4942353bd55b8d2ad8519aa5c) - 2025-07-18
 * [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/3391d0132b5f354954698a437db6b9782c09c822) - 2025-07-18
 * [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/9d2bc52231ce7fd0a0e22b09add06fc95b38aefd) - 2025-07-18
+* [Pull Request] [Workaround `TestHostIsResolved` by using "more reliable" DNS resolver.](https://github.com/OffchainLabs/prysm/pull/15515) - 2025-07-21
+* [Commit] [`AddDisconnectionHandler`: Handle multiple close calls to `DisconnectedF` for the same peer.](https://github.com/OffchainLabs/prysm/commit/e49a580cbcda72dcb627c8877c16aea019354b36) - 2025-07-21
 ## Q2 2025
 
 

@@ -36,6 +36,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r30] fix hoodi](https://github.com/erigontech/erigon/pull/16133) - 2025-07-16
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/78e71428accca32d3c665f819770510268b9ce3d) - 2025-07-16
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/3a3fcc439c22a8543875979ac1bc9f2961622731) - 2025-07-17
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/bfb4b7c146f4799c087a1b0098f24ecc358443eb) - 2025-07-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/4b9ed6d79d2be07c0d9760856c3510b9ace512a6) - 2025-07-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/78125417764d37b031c66749227e16fe016d6d65) - 2025-07-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/8685eecb2135a0579985ca7bc9e20bdc5889bf1c) - 2025-07-21
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/abc58043cd016ff9e5dd09449dc5796868210db7) - 2025-07-21
 ## Q2 2025
 
 

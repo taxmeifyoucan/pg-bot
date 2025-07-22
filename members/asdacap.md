@@ -101,6 +101,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update src/Nethermind/Nethermind.Init/Modules/DbModule.cs](https://github.com/NethermindEth/nethermind/commit/8e87b2c5a3e374b9e4146455053340a4e27eeda3) - 2025-07-18
 * [Commit] [Update src/Nethermind/Nethermind.Init/Modules/DbModule.cs](https://github.com/NethermindEth/nethermind/commit/3157410ccefe489d8d9da106e8d0d2300eb73e51) - 2025-07-18
 * [Commit] [Remove last orphan readonly tx processing scope. (#9005)](https://github.com/NethermindEth/nethermind/commit/0a5591d4a68c45b6cc8be81e7d07d2469f1f4eae) - 2025-07-19
+* [Pull Request] [Remove use of blockchain processor in RPC](https://github.com/NethermindEth/nethermind/pull/9021) - 2025-07-21
+* [Commit] [More hot code in ConnectNodes (#8982)](https://github.com/NethermindEth/nethermind/commit/ac37e35231613fc99deccc47344e77066c9ce459) - 2025-07-21
+* [Commit] [Fix error on exit (#9019)](https://github.com/NethermindEth/nethermind/commit/16a77d910796f6a55d87784d69e1c862a4925e68) - 2025-07-21
+* [Pull Request] [Fix error on exit](https://github.com/NethermindEth/nethermind/pull/9019) - 2025-07-21
+* [Commit] [Lower memory threshold to 20GB](https://github.com/NethermindEth/nethermind/commit/2289d5775fe44764d7faadf0f08019f01048afe7) - 2025-07-21
+* [Commit] [Unify BN254 naming (#9004)](https://github.com/NethermindEth/nethermind/commit/c7366456e049790368b51bf0e82fc55cc144e3e5) - 2025-07-21
+* [Commit] [Cleanup/Remove unnecessary SetBaseBlock (#9006)](https://github.com/NethermindEth/nethermind/commit/88b3007b5cf7881b1fb8b9a62361931e36addcd2) - 2025-07-21
 ## Q2 2025
 
 

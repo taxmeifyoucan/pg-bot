@@ -18,6 +18,15 @@ Team: Reth
 * [Pull Request] [feat(sync): track time spent in stages](https://github.com/paradigmxyz/reth/pull/17321) - 2025-07-09
 * [Commit] [bump alloy](https://github.com/paradigmxyz/reth/commit/fa71a1d2830d45c714d543c7151d9090f4756adc) - 2025-07-14
 * [Pull Request] [feat: update EIP-7825 max transaction gas limit](https://github.com/paradigmxyz/reth/pull/17397) - 2025-07-14
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Commit] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/commit/536eef29cf8bb1f641c4e9209f4320bc4f69785e) - 2025-07-21
+* [Commit] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/commit/4c5d7022afc381fd38db1dd90072c8356e44cf45) - 2025-07-21
+* [Commit] [use a separate gas cost for Osaka](https://github.com/bluealloy/revm/commit/e47080f4bb76eb0ff5296cd249ca52799c6a74da) - 2025-07-21
+* [Commit] [chore(tests): update expected osaka gas cost](https://github.com/bluealloy/revm/commit/acd225b15c4d22d3a06d90d6a9b08b97cf49ee9f) - 2025-07-21
+* [Pull Request] [feat(precompile): update p256 verify gas cost](https://github.com/bluealloy/revm/pull/2741) - 2025-07-21
+* [Pull Request] [feat(precompile): update osaka modexp gas divisor](https://github.com/bluealloy/revm/pull/2740) - 2025-07-21
+* [Pull Request] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/pull/2739) - 2025-07-21
 ## Q2 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

@@ -18,6 +18,15 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Revert: don't call extra stateroot computation in procesBlock (#3435)](https://github.com/status-im/nimbus-eth1/commit/fcc219987c688ff5f5391f44ae1aa75c97e91314) - 2025-07-04
 * [Commit] [Add txFrame id to FC.validateBlock log (#3443)](https://github.com/status-im/nimbus-eth1/commit/65af60139b69dee4b87eef12e079cebea02fb88a) - 2025-07-04
+* [Commit] [Portal: Remove all state network related code and documentation (#3481)](https://github.com/status-im/nimbus-eth1/commit/a4745060feade4286465e1b8be0b913f8be944ab) - 2025-07-21
+* [Commit] [fix: tests](https://github.com/status-im/nimbus-eth1/commit/c5f5d899bc43dc865f5ca31189dddec8f6635aac) - 2025-07-21
+* [Pull Request] [update eip-7951: increase gas cost to 6900](https://github.com/status-im/nimbus-eth1/pull/3493) - 2025-07-21
+* [Pull Request] [update eip-7939: increase clz gas cost to prevent DoS](https://github.com/status-im/nimbus-eth1/pull/3492) - 2025-07-21
+* [Pull Request] [update eip-7918 to reduce blob base cost](https://github.com/status-im/nimbus-eth1/pull/3491) - 2025-07-21
+* [Pull Request] [update EIP-7825](https://github.com/status-im/nimbus-eth1/pull/3490) - 2025-07-21
+* [Commit] [EIP-7934 : 10MB limit to block size (#3376)](https://github.com/status-im/nimbus-eth1/commit/b279f4ab8684e5e0f0604f5ca179067168edf49c) - 2025-07-21
+* [Commit] [fix docker formatting](https://github.com/status-im/nimbus-eth1/commit/62ec4ebc79851bac9057f7e27718d8866d43712e) - 2025-07-21
+* [Commit] [add eip-7883 changes (#3399)](https://github.com/status-im/nimbus-eth1/commit/19e4e063ce95c55d1d187612263d5da4d84751d8) - 2025-07-21
 ## Q2 2025
 
 

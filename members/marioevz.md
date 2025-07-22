@@ -37,6 +37,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(tests): Update test_scenarios.py with coveraged missed reason](https://github.com/ethereum/execution-spec-tests/commit/c421b8ca1fb7a6faba7e176fd42a2e26abb430b6) - 2025-07-18
 * [Pull Request] [fix(tests): Mark slowest deployed tests as slow](https://github.com/ethereum/execution-spec-tests/pull/1925) - 2025-07-18
 * [Commit] [style(tools): convert absolute to relative imports across codebase (#1907)](https://github.com/ethereum/execution-spec-tests/commit/d906a140ba546e0281c9a585c98c6b4306fe03dc) - 2025-07-18
+* [Commit] [fix(tests): fixes EXTCODECOPY bench test (#1865)](https://github.com/ethereum/execution-spec-tests/commit/75911e308f5188c6c4bca9dd33a2793ee380761a) - 2025-07-21
+* [Commit] [feat(benchmark): add jumpi-intense test case (#1693)](https://github.com/ethereum/execution-spec-tests/commit/7f1a99faba2383030aeebde0e4a296970e94388c) - 2025-07-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 ## Q2 2025

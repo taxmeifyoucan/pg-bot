@@ -22,6 +22,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Pull Request] [Write gzip header properly](https://github.com/OffchainLabs/prysm/pull/15499) - 2025-07-16
 * [Commit] [changelog](https://github.com/OffchainLabs/prysm/commit/b56a0620e9d409b03418a95b23f6d201e8cd1ddd) - 2025-07-16
 * [Commit] [Write gzip header properly](https://github.com/OffchainLabs/prysm/commit/f78558d44eaf99365c4ef8dd2f7911df6c2c3649) - 2025-07-16
+* [Commit] [James' review](https://github.com/OffchainLabs/prysm/commit/a4cdd6e93b0df448cb0651a494cc42bb41544743) - 2025-07-21
+* [Commit] [Rework DV aggregation selection proofs (#15156)](https://github.com/OffchainLabs/prysm/commit/56e8881bc19f4dd8b20ccdfb66abd80b196a0f7c) - 2025-07-21
+* [Commit] [Move data col reconstruction log to after reconstruction / save complete (#15475)](https://github.com/OffchainLabs/prysm/commit/da5525096c3388599d1303545ac614e4fb506669) - 2025-07-21
+* [Commit] [James' review](https://github.com/OffchainLabs/prysm/commit/0ffdc921ba386d54bd1b3e5c8b1e6697c7053b67) - 2025-07-21
+* [Commit] [pre-calculate total active balance](https://github.com/OffchainLabs/prysm/commit/c61768d05f67a843405558b78a1a98d421d71f2a) - 2025-07-21
+* [Commit] [pre-calculate total active balance](https://github.com/OffchainLabs/prysm/commit/3b2c8e7743cb53ea7f47413bf87ab30b3864ad2f) - 2025-07-21
+* [Commit] [pre-calculate total active balance](https://github.com/OffchainLabs/prysm/commit/67860292556a79ba387371492f50409046bfb76d) - 2025-07-21
+* [Commit] [pre-calculate total active balance](https://github.com/OffchainLabs/prysm/commit/9ee4804343f3fe1464cf34602dde71cdc0b8a98b) - 2025-07-21
 ## Q2 2025
 
 

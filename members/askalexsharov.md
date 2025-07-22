@@ -386,6 +386,17 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d0c1e09ce2524ada8c4a290b4c35d6bd5e04ed49) - 2025-07-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/4a235023d8b7731cce4c2567abacca87b1587202) - 2025-07-20
 * [Pull Request] [IterateFrozenBodies: don't deserialize withdrawals and uncles](https://github.com/erigontech/erigon/pull/16190) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/699f31f56761317d301a16db707886133b72cfaf) - 2025-07-21
+* [Commit] [added perms (#15950)](https://github.com/erigontech/erigon/commit/785e0c4f76378178cfb38179df136b9ab945fa0b) - 2025-07-21
+* [Commit] [[r30] qa: improve RPC Integration Tests + add Gnosis/Polygon workflows (#16017)](https://github.com/erigontech/erigon/commit/b1003c98b170dae562d48cdcb5a103ffbe1e5305) - 2025-07-21
+* [Commit] [Various snapshot improvements (#16193)](https://github.com/erigontech/erigon/commit/dfd036cb86dabc060930843e8799fc5e52597cea) - 2025-07-21
+* [Issue] [BeaconState: spamming logs](https://github.com/erigontech/erigon/issues/16197) - 2025-07-21
+* [Issue] [BeaconState: increment fail on sepolia](https://github.com/erigontech/erigon/issues/16196) - 2025-07-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/43ef354ed1df4ea384f82d5f2a874cdeda742037) - 2025-07-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5c4a6af983becd572a584b3037023cfd9f5bec33) - 2025-07-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2659a9bf320251c87305946e7f4b68e3ccfbeb6a) - 2025-07-21
+* [Commit] [execution/stagedsync: measure time spent in initial cycle (#16137)](https://github.com/erigontech/erigon/commit/320a22f2baa49b393047919931b17fba5c714249) - 2025-07-21
+* [Commit] [fix kurtosis failure: nil topic in log (#16130)](https://github.com/erigontech/erigon/commit/c57314a43dfac8df27c78e886770f59b00aac341) - 2025-07-21
 ## Q2 2025
 
 
