@@ -67,6 +67,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/cc202f3da21d23298ce98b5275d3f7229be240af) - 2025-07-21
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9d472ae032ba66d8ea38052d1ffbf383703bca88) - 2025-07-21
 * [Pull Request] [wip: back compac re/rc](https://github.com/erigontech/erigon/pull/16204) - 2025-07-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b5533da577dbd6ed59f743f48c23b1e2282fc4dd) - 2025-07-22
 ## Q2 2025
 
 

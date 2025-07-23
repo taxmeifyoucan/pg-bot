@@ -61,6 +61,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [cleanup trait bounds](https://github.com/paradigmxyz/reth/commit/b15797219fb758828493665e984cc9ba0f8433dd) - 2025-07-19
 * [Commit] [fix: set correct timestamp when calculating basefee (#17493)](https://github.com/paradigmxyz/reth/commit/623920c63d1b386efdce2b65c746093990adf115) - 2025-07-20
 * [Commit] [remove is_fork](https://github.com/paradigmxyz/reth/commit/d9ed0269109d4ff7ed5d7fa2eb489444b0cbc82f) - 2025-07-21
+* [Commit] [feat: implement DatabaseProviderFactory for NoopProvider (#17134)](https://github.com/paradigmxyz/reth/commit/58e6113584046d5d5e0c931f7a3d4ac555f69cc5) - 2025-07-22
+* [Commit] [feat: introduce validation engine primitives](https://github.com/paradigmxyz/reth/commit/e3b67de5d1ded96374196898480ba1f908016c2f) - 2025-07-22
+* [Commit] [fix crate check](https://github.com/paradigmxyz/reth/commit/e8d32eadacd3f105e58f5ec657e05dfab050160d) - 2025-07-22
+* [Pull Request] [feat: introduce validation engine primitives](https://github.com/paradigmxyz/reth/pull/17559) - 2025-07-22
+* [Commit] [fix(`docs`): rustdocs module and nested links  (#17478)](https://github.com/paradigmxyz/reth/commit/6927afac16a986f3ca0135cc135058777a76b55e) - 2025-07-22
 ## Q2 2025
 
 

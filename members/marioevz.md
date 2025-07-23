@@ -41,6 +41,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(benchmark): add jumpi-intense test case (#1693)](https://github.com/ethereum/execution-spec-tests/commit/7f1a99faba2383030aeebde0e4a296970e94388c) - 2025-07-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Commit] [clients/nimbus-el: activate admin rpc (#1321)](https://github.com/ethereum/hive/commit/bcb100028e695cf4eddabaec48d8be7d430ca978) - 2025-07-22
 ## Q2 2025
 
 

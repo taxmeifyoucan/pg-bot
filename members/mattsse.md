@@ -85,6 +85,11 @@ Team: Reth
 * [Commit] [chore: migrate from codespell to typos (#17501)](https://github.com/paradigmxyz/reth/commit/bec451026df4c811231fd421a80e2d3f16482caa) - 2025-07-21
 * [Commit] [ci: dont expect callenv to fail (#17516)](https://github.com/paradigmxyz/reth/commit/2c62cd8b46b4869cce6772acda8179816041e49b) - 2025-07-21
 * [Pull Request] [ci: dont expect callenv to fail](https://github.com/paradigmxyz/reth/pull/17516) - 2025-07-21
+* [Commit] [feat: add `AddOns` for custom node example (#17544)](https://github.com/paradigmxyz/reth/commit/53df3b803ad97fd692e2e0b79540556bffee8248) - 2025-07-22
+* [Commit] [ci: mark system eest tests as passing (#17542)](https://github.com/paradigmxyz/reth/commit/48617dc33c5f1564e0e7f4f3abf15e7c383dc15b) - 2025-07-22
+* [Commit] [chore: bump deps (#17554)](https://github.com/paradigmxyz/reth/commit/3ab5bac40c3dc06384abf3778cd5c1608deb225d) - 2025-07-22
+* [Pull Request] [chore: bump version v1.6.0](https://github.com/paradigmxyz/reth/pull/17556) - 2025-07-22
+* [Pull Request] [chore: bump deps](https://github.com/paradigmxyz/reth/pull/17554) - 2025-07-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

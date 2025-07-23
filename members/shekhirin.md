@@ -105,6 +105,8 @@ Team: Reth
 * [Commit] [revert fixtures pin, pin hive repo](https://github.com/paradigmxyz/reth/commit/751966c73063bd6571434242a163a92869d16d03) - 2025-07-18
 * [Commit] [revert fixtures pin, pin hive repo](https://github.com/paradigmxyz/reth/commit/ad7737af166801be1d4c083c115cfa6281f82bdb) - 2025-07-18
 * [Pull Request] [feat(reth-bench): auto-create output directory](https://github.com/paradigmxyz/reth/pull/17541) - 2025-07-21
+* [Pull Request] [fix: convert latency to milliseconds in reth-bench script](https://github.com/paradigmxyz/reth/pull/17555) - 2025-07-22
+* [Commit] [docs: fix typo in OpReceiptBuilder comment (#17540)](https://github.com/paradigmxyz/reth/commit/1eff10d871b494e650ac06e69a76519209bdfe40) - 2025-07-22
 ## Q2 2025
 
 

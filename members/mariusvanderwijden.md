@@ -22,6 +22,7 @@ Team: Geth
 * [Pull Request] [ethclient/gethclient: remove race condition in tests](https://github.com/ethereum/go-ethereum/pull/32206) - 2025-07-14
 * [Commit] [accounts/keystore: update links to documenation (#32194)](https://github.com/ethereum/go-ethereum/commit/a9061cfd77a26634d459f824793335ea73be14da) - 2025-07-14
 * [Commit] [signer/core/apitypes: require blob txs to have tx.to set (#32197)](https://github.com/ethereum/go-ethereum/commit/055e1e6291e8420eeec53a81664a36cddbc64246) - 2025-07-14
+* [Pull Request] [eth/protocols/snap: add healing and syncing metrics](https://github.com/ethereum/go-ethereum/pull/32258) - 2025-07-22
 ## Q2 2025
 
 

@@ -21,6 +21,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Switch code coverage to clang/LLVM](https://github.com/ipsilon/evmone/commit/f4872859c5edbdcbb3046d3e119106f86f25d476) - 2025-07-21
 * [Commit] [cmake: Fixup LLVM_PROFILE_FILE for integration tests (#1270)](https://github.com/ipsilon/evmone/commit/eae6d958cd477a70dc3a5f31cc940aa6f2aee0ca) - 2025-07-21
 * [Pull Request] [ci: Use Ninja CMake generator](https://github.com/ipsilon/evmone/pull/1271) - 2025-07-21
+* [Pull Request] [cmake: Upgrade nlohmann_json to v3.12.0](https://github.com/ipsilon/evmone/pull/1278) - 2025-07-22
+* [Commit] [cmake: Upgrade CLI11 to v2.5.0 (#1277)](https://github.com/ipsilon/evmone/commit/abb817ff0f8b480c34bd9b3027d5ac09f710ff21) - 2025-07-22
+* [Pull Request] [cmake: Upgrade CLI11 to v2.5.0](https://github.com/ipsilon/evmone/pull/1277) - 2025-07-22
+* [Pull Request] [ci: Upgrade Xcode to 16.0 (min) and 16.4](https://github.com/ipsilon/evmone/pull/1276) - 2025-07-22
+* [Commit] [Implement CLZ instruction (EIP-7939) for Osaka (#1264)](https://github.com/ipsilon/evmone/commit/c3cee78f0730beebd014f4317bec9786e4146fd6) - 2025-07-22
+* [Commit] [ci: Enable Ninja CMake generator in many jobs (#1275)](https://github.com/ipsilon/evmone/commit/5aabcf0bf6851de7046cacc24871dc955b8175ff) - 2025-07-22
+* [Pull Request] [ci: Enable Ninja CMake generator in many jobs](https://github.com/ipsilon/evmone/pull/1275) - 2025-07-22
 ## Q2 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

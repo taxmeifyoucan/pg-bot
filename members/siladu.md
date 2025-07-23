@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [Make precompile benchmarks more accurate (#8921)](https://github.com/hyperledger/besu/commit/0a34ffeccaeac90c03ef5fcc5f9f2622a5cb85d6) - 2025-07-09
 * [Issue] [RLPx Handshake consumes a lot of resources despite full peers](https://github.com/hyperledger/besu/issues/8957) - 2025-07-15
 * [Pull Request] [Add --attempt-cache-bust to evmtool benchmark subcommand](https://github.com/hyperledger/besu/pull/8985) - 2025-07-21
+* [Issue] [Limit Trie Log Config Tweaks](https://github.com/hyperledger/besu/issues/8990) - 2025-07-22
 ## Q2 2025
 
 

@@ -33,6 +33,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: await builder header response before capturing timing metric (#8058)](https://github.com/ChainSafe/lodestar/commit/1d9f4aaa5812d4883afe575f0a4822b4530c059f) - 2025-07-16
 * [Commit] [feat: switch to rust kzg for async proof verification (#7989)](https://github.com/ChainSafe/lodestar/commit/4a12abd772ed15620fcba042855b61c74b26f5c6) - 2025-07-20
 * [Commit] [Update not override fcu reason if we are not proposer of next slot](https://github.com/ChainSafe/lodestar/commit/b16f27aa83ae8cc489ff0543f2188c5ba5f50a86) - 2025-07-20
+* [Commit] [Revise comments](https://github.com/ChainSafe/lodestar/commit/5a559590f64dbd1d9e24c5526f3a994a742bc2f7) - 2025-07-22
+* [Commit] [test: setup unit tests for bun runtime (#7971)](https://github.com/ChainSafe/lodestar/commit/ce27087f3464f7771f7b26a7eac5c39328a93ba6) - 2025-07-22
+* [Commit] [Avoid calling getActiveValidatorIndices](https://github.com/ChainSafe/lodestar/commit/b1b4e174df44eb8ec92bd92a658df13dd8966887) - 2025-07-22
+* [Commit] [chore: bump package versions to 1.32.0](https://github.com/ChainSafe/lodestar/commit/36dbfb2cfe9d3b70801d905cf1e3d00a049787ed) - 2025-07-22
 ## Q2 2025
 
 

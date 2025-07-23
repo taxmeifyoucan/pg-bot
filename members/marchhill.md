@@ -49,6 +49,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [use blocktree in historypruner instead of blockstore](https://github.com/NethermindEth/nethermind/commit/8922905b9c8fa61107ce1dd82d0e754f510a236c) - 2025-07-21
 * [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/5379e5178757e7eec15f6750d864cc53d6f08bdd) - 2025-07-21
 * [Commit] [Only access "warmup" hashtable once per warmup (#8983)](https://github.com/NethermindEth/nethermind/commit/2b0e8382ba16be327fb825267409f95818f98b71) - 2025-07-21
+* [Commit] [format](https://github.com/NethermindEth/nethermind/commit/46d349b5ea6c122fb4bf67d900faa0c300b6ec1b) - 2025-07-22
+* [Commit] [IBackgroundTaskSheduler mock](https://github.com/NethermindEth/nethermind/commit/39596a08f7d5d724cbc608520763e8192198b862) - 2025-07-22
+* [Commit] [tidy](https://github.com/NethermindEth/nethermind/commit/7b5785ba27e8458a8084d250e8a0f82e2e3d6dec) - 2025-07-22
+* [Commit] [fix DI error](https://github.com/NethermindEth/nethermind/commit/1825186ec4c30df7eaa9797cf61953340eb2ab06) - 2025-07-22
+* [Commit] [tidy & add initializeblockchain to startmonitoring dependencies](https://github.com/NethermindEth/nethermind/commit/bd08a570859a44462cff9d2b40aa00c9368c170b) - 2025-07-22
 ## Q2 2025
 
 

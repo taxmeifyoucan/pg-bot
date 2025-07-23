@@ -35,10 +35,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [merge noise](https://github.com/status-im/nimbus-eth1/commit/f38189970226afdf5323277fcbd1ef18b8daabca) - 2025-07-04
 * [Commit] [simplify key updates](https://github.com/status-im/nimbus-eth1/commit/3455983c2a27251a1b8a318bf7478457377011fa) - 2025-07-04
 * [Commit] [Add missing finalized marker to updateBase (#3459)](https://github.com/status-im/nimbus-eth1/commit/b5e5b5e16e1a4fa3f8a21df0e7c78ba5bc5b5634) - 2025-07-08
+* [Pull Request] [faststreams: bump](https://github.com/status-im/nimbus-eth1/pull/3498) - 2025-07-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
 * [Pull Request] [log: formatting for PubKey0x](https://github.com/status-im/nimbus-eth2/pull/7307) - 2025-07-21
+* [Pull Request] [faststreams: bump](https://github.com/status-im/nimbus-eth2/pull/7310) - 2025-07-22
+* [Commit] [update Fulu builder API (#7308)](https://github.com/status-im/nimbus-eth2/commit/22cce7a6f21612be931331b0dc6f1e922b460cd3) - 2025-07-22
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

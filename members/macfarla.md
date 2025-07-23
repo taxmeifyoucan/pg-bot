@@ -34,6 +34,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [verify docker container on develop workflow take 2](https://github.com/hyperledger/besu/pull/8970) - 2025-07-17
 * [Pull Request] [Revert "verify docker container on develop workflow (#8876)"](https://github.com/hyperledger/besu/pull/8969) - 2025-07-17
 * [Pull Request] [remove deprecated method Quantity.getValue](https://github.com/hyperledger/besu/pull/8968) - 2025-07-17
+* [Commit] [remove deprecated PoAMetricsService and IbftQueryService (#8940)](https://github.com/hyperledger/besu/commit/04756c4291167e05c9d1dd42cdb016a74b2d19f5) - 2025-07-22
+* [Commit] [remove deprecated method Quantity.getValue (#8968)](https://github.com/hyperledger/besu/commit/a12eaf960aed7d187076cf4896dfa25ec1bc2c0a) - 2025-07-22
+* [Commit] [remove separate qbft ATs gradle task and workflow (#8962)](https://github.com/hyperledger/besu/commit/131e36ea02eff7cf32c1b6ef41a10ee712f9bdca) - 2025-07-22
+* [Commit] [Change precompile name in eth_config (#8986)](https://github.com/hyperledger/besu/commit/8dff8d913f6248344c2eb962766e8f32f74d1a7d) - 2025-07-22
 ## Q2 2025
 
 

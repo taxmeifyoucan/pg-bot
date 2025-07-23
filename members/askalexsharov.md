@@ -397,6 +397,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2659a9bf320251c87305946e7f4b68e3ccfbeb6a) - 2025-07-21
 * [Commit] [execution/stagedsync: measure time spent in initial cycle (#16137)](https://github.com/erigontech/erigon/commit/320a22f2baa49b393047919931b17fba5c714249) - 2025-07-21
 * [Commit] [fix kurtosis failure: nil topic in log (#16130)](https://github.com/erigontech/erigon/commit/c57314a43dfac8df27c78e886770f59b00aac341) - 2025-07-21
+* [Commit] [removed leftover datadir (#16192)](https://github.com/erigontech/erigon/commit/be1a1d3e72b91d59347030a188782785d899250e) - 2025-07-22
+* [Commit] [backwards compatibility for receipt data (#16204)](https://github.com/erigontech/erigon/commit/a3c9a5cdea7a8a7f52cdcf128fcab2d3e09b7b40) - 2025-07-22
 ## Q2 2025
 
 

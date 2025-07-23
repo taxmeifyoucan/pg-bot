@@ -71,6 +71,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [chore: add clz_50 codspeed](https://github.com/bluealloy/revm/pull/2743) - 2025-07-21
 * [Pull Request] [chore: bench clz](https://github.com/bluealloy/revm/pull/2742) - 2025-07-21
 * [Commit] [feat: count inspector and bench test (#2730)](https://github.com/bluealloy/revm/commit/a494e389df59a245d296acbe9fcbdaf75265658e) - 2025-07-21
+* [Pull Request] [chore: bump develop to devnet-3](https://github.com/bluealloy/revm/pull/2754) - 2025-07-22
+* [Commit] [chore: bump develop to devnet-3](https://github.com/bluealloy/revm/commit/9006321e3a7a1368a334fe21cae66f66959af303) - 2025-07-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

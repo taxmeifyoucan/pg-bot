@@ -81,6 +81,9 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b938eea4613b742dc75391571a5488db8890a872) - 2025-07-18
 * [Pull Request] [Restore flag's default value](https://github.com/erigontech/erigon/pull/16169) - 2025-07-19
 * [Pull Request] [removed leftover datadir](https://github.com/erigontech/erigon/pull/16192) - 2025-07-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5e8f779e6650aba38372b028cf58dedf3d7f4631) - 2025-07-22
+* [Pull Request] [Caplin: added new queue endpoints for deposit lists](https://github.com/erigontech/erigon/pull/16219) - 2025-07-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a9a6baf584bf043f03679e2321033ee364d8d84a) - 2025-07-22
 ## Q2 2025
 
 

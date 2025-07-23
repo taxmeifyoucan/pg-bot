@@ -33,6 +33,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [[fusaka-devnet-3] Update ref tests](https://github.com/hyperledger/besu/pull/8980) - 2025-07-20
 * [Pull Request] [Use system call for beacon root](https://github.com/hyperledger/besu/pull/8982) - 2025-07-21
 * [Pull Request] [Add world view to trace start block](https://github.com/hyperledger/besu/pull/8981) - 2025-07-21
+* [Commit] [getBlobsV2: prohibit partial responses (#8989)](https://github.com/hyperledger/besu/commit/55523581c33b93e10176de3bd52120e18ba41a2c) - 2025-07-22
 ## Q2 2025
 
 

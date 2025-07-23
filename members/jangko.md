@@ -63,6 +63,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Cosmetic changes](https://github.com/status-im/nimbus-eth1/commit/b60291d354e94e06a626e638b2a52a35ba4ed324) - 2025-07-21
 * [Commit] [Fix missing return ok()](https://github.com/status-im/nimbus-eth1/commit/250970bc26950aec6b8c5284b6fd9661a778d3a9) - 2025-07-21
 * [Commit] [Refine discovery V4 error handling](https://github.com/status-im/nimbus-eth1/commit/e77804d03f9d3880c99f0d900c2b548ba5e34b12) - 2025-07-21
+* [Pull Request] [Update EIP-7883: Remove GasQuadDivisor from gasCalc equation](https://github.com/status-im/nimbus-eth1/pull/3496) - 2025-07-22
+* [Commit] [Update EIP-7883: Remove GasQuadDivisor from gacCalc equation](https://github.com/status-im/nimbus-eth1/commit/85c8bebd29eb2b275c4a08f6f596d320118a3a78) - 2025-07-22
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 ## Q2 2025

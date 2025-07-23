@@ -68,6 +68,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/78e0ec64a0f5288b70f944fc8de4e5642a181ae5) - 2025-07-17
 * [Pull Request] [WIP: blob archive & enr updates for fulu](https://github.com/erigontech/erigon/pull/16207) - 2025-07-21
 * [Commit] [enr](https://github.com/erigontech/erigon/commit/8f71fedb34150ca13c0af268b7a454bfc5ac7f82) - 2025-07-21
+* [Commit] [try](https://github.com/erigontech/erigon/commit/ed7c0cb7d12e99f673cc66905f5f78c4bfe71b04) - 2025-07-22
+* [Commit] [try](https://github.com/erigontech/erigon/commit/347ab306a83013366916e48e8e1f70173b41acac) - 2025-07-22
+* [Commit] [try](https://github.com/erigontech/erigon/commit/deeecb83f8319c03972545cef4ac5b2404168175) - 2025-07-22
+* [Commit] [try](https://github.com/erigontech/erigon/commit/499a6372bffc421f5c72e3331a43e2be4211b4fd) - 2025-07-22
+* [Commit] [try](https://github.com/erigontech/erigon/commit/aacbf8b9bad324257076117975c7cbae1b736171) - 2025-07-22
+* [Commit] [try](https://github.com/erigontech/erigon/commit/62cff2d3074b51bded48d6ecd6cdee143e8c8a1b) - 2025-07-22
+* [Commit] [try](https://github.com/erigontech/erigon/commit/3a9895acf9811f0cc75fca9743fd0dfea0276b79) - 2025-07-22
+* [Pull Request] [Remove spamming logs for requesting blobs not exist](https://github.com/erigontech/erigon/pull/16210) - 2025-07-22
+* [Commit] [qa-tests: fix tip tracking Gnosis datadir (#16088)](https://github.com/erigontech/erigon/commit/aa1c102cf8ed502ba4f2148abaacde9a98b17e16) - 2025-07-22
 ## Q2 2025
 
 

@@ -19,6 +19,29 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update code with given feedback](https://github.com/ChainSafe/lodestar/commit/694ad36cc7b4f3eee16912cf8b9164429e494bea) - 2025-07-21
 * [Commit] [Add comments for the tests cases](https://github.com/ChainSafe/lodestar/commit/8302f8f9c1b48262a4ff328e4e76ab1976b455fc) - 2025-07-21
 * [Commit] [Skip the test only for bun](https://github.com/ChainSafe/lodestar/commit/0a25a32ec171138900790899745f203387f4965e) - 2025-07-21
+* [Commit] [Add bunfig.toml for registry](https://github.com/ChainSafe/lodestar/commit/255d6fe8a09a249c59982147ed50b3864bffedb3) - 2025-07-22
+* [Commit] [Add bunfig.toml for registry](https://github.com/ChainSafe/lodestar/commit/020bfd1030b5b4e6dbd7839035041414cb313206) - 2025-07-22
+* [Commit] [Add bunfig.toml for registry](https://github.com/ChainSafe/lodestar/commit/927a15c9315789a21ceb7f0592d66b0f15bc6250) - 2025-07-22
+* [Commit] [Add bunfig.toml for registry](https://github.com/ChainSafe/lodestar/commit/34254c534093646c7832697992b68556e26b57a6) - 2025-07-22
+* [Commit] [Add bunfig.toml for registry](https://github.com/ChainSafe/lodestar/commit/3521cb786600e532f43f03825443f02b4ad9e05b) - 2025-07-22
+* [Commit] [Add bunfig.toml for registry](https://github.com/ChainSafe/lodestar/commit/4445e3cbd057f9c91f683e60d123d809ba6909f9) - 2025-07-22
+* [Commit] [Add bunfig.toml for registry](https://github.com/ChainSafe/lodestar/commit/267ee457c48ae5b7faea6a98afcfc30c99a00666) - 2025-07-22
+* [Commit] [Add bunfig.toml for registry](https://github.com/ChainSafe/lodestar/commit/a8a1a7fd62169dee229ffdb51ef730b43a92b3f8) - 2025-07-22
+* [Commit] [Pass flags to the yarn](https://github.com/ChainSafe/lodestar/commit/e4e9389719cb92754e7b182866fca438cda3eb97) - 2025-07-22
+* [Commit] [Pass flags to the yarn](https://github.com/ChainSafe/lodestar/commit/680f1818affff30984bdbab943e5dc94854d2bdd) - 2025-07-22
+* [Commit] [Pass flags to the yarn](https://github.com/ChainSafe/lodestar/commit/f9d2a7b32fab2db9a92c30a35c7ee08146f6d55c) - 2025-07-22
+* [Commit] [Pass flags to the yarn](https://github.com/ChainSafe/lodestar/commit/4e2fb9885aeb8b2ce5f326b400a2e60a0250c941) - 2025-07-22
+* [Commit] [Pass flags to the yarn](https://github.com/ChainSafe/lodestar/commit/ca81f2358906cb11f7decbf7dad9ed07e4fd9136) - 2025-07-22
+* [Commit] [Use registry as cli flag at install time](https://github.com/ChainSafe/lodestar/commit/58e4558160e81da95f25f8bd9a7170b3f9cbf4b8) - 2025-07-22
+* [Commit] [Setup yarn registry before installing](https://github.com/ChainSafe/lodestar/commit/d40b2858ebfbd407c9c2b0fb495ae21e0bbc4247) - 2025-07-22
+* [Commit] [Setup yarn registry before installing](https://github.com/ChainSafe/lodestar/commit/5d8c3db3bede895f5281b5d84a4261afba8dbe9e) - 2025-07-22
+* [Commit] [Set the npm registry for yarn install](https://github.com/ChainSafe/lodestar/commit/4395512ae334d12951d11bf1a5d058051cf24d51) - 2025-07-22
+* [Commit] [Fix workflow for node version](https://github.com/ChainSafe/lodestar/commit/8607aa53183ca55e53eff4295229819071ec27d2) - 2025-07-22
+* [Commit] [Fix workflow for node version](https://github.com/ChainSafe/lodestar/commit/1e0c0ca6cd14ff32f9bdc47dab03893fb3070c5b) - 2025-07-22
+* [Commit] [Fix workflow for node version](https://github.com/ChainSafe/lodestar/commit/5499ab8ecbf39c54c1ef0981e5946876caa797bb) - 2025-07-22
+* [Commit] [Update workflow with exact node version](https://github.com/ChainSafe/lodestar/commit/9611b8777ecaea376a96f24ab1cfa1fc4d30df49) - 2025-07-22
+* [Pull Request] [test: update bun test workflow to remove any nodejs dependency](https://github.com/ChainSafe/lodestar/pull/8072) - 2025-07-22
+* [Issue] [Package manager compatibility issues with Bun](https://github.com/ChainSafe/lodestar/issues/8071) - 2025-07-22
 ## Q2 2025
 
 

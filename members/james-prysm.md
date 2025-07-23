@@ -44,6 +44,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Update api/apiutil/header.go](https://github.com/OffchainLabs/prysm/commit/4a5122b88b26ac6bb45a0b756543b53dffc99021) - 2025-07-21
 * [Commit] [Update api/apiutil/header.go](https://github.com/OffchainLabs/prysm/commit/346aa40eb38437c35a17faeb9118bf9ecb7f4348) - 2025-07-21
 * [Commit] [Update validator/client/beacon-api/rest_handler_client.go](https://github.com/OffchainLabs/prysm/commit/b05729c76c4651a5f25a983f9a6a412903cedfcc) - 2025-07-21
+* [Commit] [Update beacon-chain/p2p/discovery_test.go](https://github.com/OffchainLabs/prysm/commit/43e94308ba03cea3bdf2d7db47fd5d2771550e21) - 2025-07-22
+* [Commit] [Update changelog/James-prysm_persistent-seq-number.md](https://github.com/OffchainLabs/prysm/commit/80f455ce8f1372fb4c86a9138f744c2e567a875a) - 2025-07-22
+* [Commit] [fixing typo](https://github.com/OffchainLabs/prysm/commit/3de05a58230c46128c6c9f1f66a9c3a41225090d) - 2025-07-22
+* [Pull Request] [persistent enode db to persist seq number](https://github.com/OffchainLabs/prysm/pull/15519) - 2025-07-22
 ## Q2 2025
 
 

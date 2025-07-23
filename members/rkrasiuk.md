@@ -19,6 +19,7 @@ Team: Reth
 * [Commit] [bump alloy](https://github.com/paradigmxyz/reth/commit/fa71a1d2830d45c714d543c7151d9090f4756adc) - 2025-07-14
 * [Pull Request] [feat: update EIP-7825 max transaction gas limit](https://github.com/paradigmxyz/reth/pull/17397) - 2025-07-14
 
+* [Commit] [osaka: update revm deps with tx gas limit fix](https://github.com/paradigmxyz/reth/commit/5b45d7bfe6c0947af1c2ce1147645e4ee1ef7789) - 2025-07-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/commit/536eef29cf8bb1f641c4e9209f4320bc4f69785e) - 2025-07-21
 * [Commit] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/commit/4c5d7022afc381fd38db1dd90072c8356e44cf45) - 2025-07-21
@@ -27,6 +28,8 @@ Team: Reth
 * [Pull Request] [feat(precompile): update p256 verify gas cost](https://github.com/bluealloy/revm/pull/2741) - 2025-07-21
 * [Pull Request] [feat(precompile): update osaka modexp gas divisor](https://github.com/bluealloy/revm/pull/2740) - 2025-07-21
 * [Pull Request] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/pull/2739) - 2025-07-21
+* [Commit] [feat(osaka): update EIP-7825 constant](https://github.com/bluealloy/revm/commit/d5292dda70a21784d1cf9fcfca957445376e91f0) - 2025-07-22
+* [Pull Request] [feat(osaka): update EIP-7825 constant](https://github.com/bluealloy/revm/pull/2753) - 2025-07-22
 ## Q2 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

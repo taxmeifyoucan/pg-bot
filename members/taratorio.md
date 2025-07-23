@@ -78,6 +78,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Feat/txpool improve error reporting (#15799)](https://github.com/erigontech/erigon/commit/6c3c8d21d2d0fdd9b4a7c582422048ed8ab85b89) - 2025-07-21
 * [Commit] [tests/execution-spec-tests: update to fusaka-devnet-3 release (#16188)](https://github.com/erigontech/erigon/commit/1792fb201b812f91ff1415b2fdd2991e2ed08599) - 2025-07-21
 * [Commit] [update with new eest-fixtures](https://github.com/erigontech/erigon/commit/7db383aafe66ec3b88236dcaa403f3768987ce4e) - 2025-07-21
+* [Commit] [tidy](https://github.com/erigontech/erigon/commit/6a88889cc8e2e951a1aa8794167edea3a7176eb4) - 2025-07-22
+* [Pull Request] [Eip 7910 v2](https://github.com/erigontech/erigon/pull/16218) - 2025-07-22
 ## Q2 2025
 
 

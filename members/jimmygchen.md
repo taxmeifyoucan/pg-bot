@@ -35,6 +35,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [Sync peer attribution (#7733)](https://github.com/sigp/lighthouse/commit/90ff64381e894728e26447bb866047b6cc90dd15) - 2025-07-16
 * [Commit] [Add additional broadcast validation tests for Fulu/PeerDAS  (#7325)](https://github.com/sigp/lighthouse/commit/d6de8a7484777f3653dcfdd4b3b7c26d43c127ca) - 2025-07-18
 * [Pull Request] [Fix leak in range sync `components_by_range_requests`](https://github.com/sigp/lighthouse/pull/7767) - 2025-07-21
+* [Pull Request] [Remove KZG verification on blobs fetched from the EL](https://github.com/sigp/lighthouse/pull/7771) - 2025-07-22
+* [Pull Request] [Grafana metrics dashboard generator for all Lighthouse metrics](https://github.com/sigp/lighthouse/pull/7769) - 2025-07-22
+* [Pull Request] [Remove peer sampling code.](https://github.com/sigp/lighthouse/pull/7768) - 2025-07-22
 ## Q2 2025
 
 

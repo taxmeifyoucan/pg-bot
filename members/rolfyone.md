@@ -20,6 +20,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Created async runner for das tasks (#9657)](https://github.com/Consensys/teku/commit/d9e1a4be905d6dfa5d259ab15d869755c555d9e9) - 2025-07-11
 * [Pull Request] [Created async runner for das tasks](https://github.com/Consensys/teku/pull/9657) - 2025-07-11
 * [Issue] [log builder gas limit on startup ](https://github.com/Consensys/teku/issues/9679) - 2025-07-18
+* [Commit] [Make small improvements to blob reconstruction class (#9672)](https://github.com/Consensys/teku/commit/db9688f4995c14db0cb22ad416b15abdd59fc8cd) - 2025-07-22
+* [Commit] [Find/replace indexes with indices (#9670)](https://github.com/Consensys/teku/commit/87ef74c4eb743d810adca35be16f2f305d133b4b) - 2025-07-22
+* [Commit] [Clean up DataColumnSidecarCustodyImpl (#9690)](https://github.com/Consensys/teku/commit/034ab4ef43ed59cb94dbddc6cdb56f1f31be826f) - 2025-07-22
+* [Commit] [Improved testing for ThrottlingTaskQueue (#9694)](https://github.com/Consensys/teku/commit/1978ce573139b62d67baba2f06770587679f16cb) - 2025-07-22
+* [Commit] [Default to a higher kzg-precompute value for supernodes (#9691)](https://github.com/Consensys/teku/commit/030820d24e191ea022b42106210ef8a621bf7a40) - 2025-07-22
+* [Pull Request] [Improved testing for ThrottlingTaskQueue](https://github.com/Consensys/teku/pull/9694) - 2025-07-22
 ## Q2 2025
 
 

@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Fix integration test](https://github.com/Consensys/teku/commit/8d0565a1cee83632180b10e98eb28879b05ffb15) - 2025-07-16
 * [Commit] [Make KZG precompute value configurable (#9663)](https://github.com/Consensys/teku/commit/8941e9ffb528a6bbea7b7ac24499b914db127d40) - 2025-07-16
 * [Pull Request] [Limit the number of concurrent requests to historical data (RPC)](https://github.com/Consensys/teku/pull/9689) - 2025-07-21
+* [Commit] [Dependency sweep (#9683)](https://github.com/Consensys/teku/commit/3f31a217637480935449898c1a0e2d7cd23f7f0e) - 2025-07-22
 ## Q2 2025
 
 

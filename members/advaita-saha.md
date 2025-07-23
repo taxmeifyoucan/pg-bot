@@ -27,6 +27,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [EIP-7934 : 10MB limit to block size (#3376)](https://github.com/status-im/nimbus-eth1/commit/b279f4ab8684e5e0f0604f5ca179067168edf49c) - 2025-07-21
 * [Commit] [fix docker formatting](https://github.com/status-im/nimbus-eth1/commit/62ec4ebc79851bac9057f7e27718d8866d43712e) - 2025-07-21
 * [Commit] [add eip-7883 changes (#3399)](https://github.com/status-im/nimbus-eth1/commit/19e4e063ce95c55d1d187612263d5da4d84751d8) - 2025-07-21
+* [Commit] [shift to a cleaner approach](https://github.com/status-im/nimbus-eth1/commit/014596b5c9f4904058bac71162b12643d6ec65a1) - 2025-07-22
+* [Pull Request] [add max blobs per tx](https://github.com/status-im/nimbus-eth1/pull/3495) - 2025-07-22
 ## Q2 2025
 
 

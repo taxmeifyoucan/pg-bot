@@ -25,6 +25,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Subscribe or unsubscribe subnet gossip topics with current fork digest](https://github.com/grandinetech/grandine/commit/01de5194e4d5fa84c56b2913c95156a2af3c6311) - 2025-07-18
 * [Commit] [Prioritize statusv2](https://github.com/grandinetech/grandine/commit/8f5abaf2e78685218f4beb2db388315bad62d81c) - 2025-07-18
 * [Pull Request] [Remove redundant received data column sidecars store](https://github.com/grandinetech/grandine/pull/266) - 2025-07-21
+* [Commit] [Add support for `eth/v2/builder/blinded_blocks` builder API](https://github.com/grandinetech/grandine/commit/c3be7e42b481a76ba0ac39767f902d6bd6597c13) - 2025-07-22
+* [Pull Request] [Add support for `eth/v2/builder/blinded_blocks` builder API](https://github.com/grandinetech/grandine/pull/267) - 2025-07-22
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

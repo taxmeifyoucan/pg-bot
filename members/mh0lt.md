@@ -91,6 +91,7 @@ Team: Erigon
 * [Commit] [log touch](https://github.com/erigontech/erigon/commit/064b133ccbc4837c45715639bb79c9100d7f0b54) - 2025-07-21
 * [Commit] [don't reset commitement on clear ram](https://github.com/erigontech/erigon/commit/16ccf0632f9481bcaa35e6d9af4507172738942f) - 2025-07-21
 * [Commit] [log touch](https://github.com/erigontech/erigon/commit/8baffb0ddf85c06e07e590106cb0fb7df4c26891) - 2025-07-21
+* [Commit] [no system tx on genesis](https://github.com/erigontech/erigon/commit/370e55b08df1f0f8c11f06ad32403e0f8aae075a) - 2025-07-22
 ## Q2 2025
 
 

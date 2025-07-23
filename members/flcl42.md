@@ -55,6 +55,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix CLZ cost](https://github.com/NethermindEth/nethermind/commit/61aae390e9ce21674c0c33a02501f44e9195c53e) - 2025-07-21
 * [Commit] [Don't block background tasks when syncing (#8971)](https://github.com/NethermindEth/nethermind/commit/113f22faff0611b148926a59f6be73d324b81fbc) - 2025-07-21
 * [Commit] [Replace `eth_pairings` with `mcl` (#8992)](https://github.com/NethermindEth/nethermind/commit/9864df97f80c0e65fd92898e94ccebd838582918) - 2025-07-21
+* [Commit] [Ignore and decline transactions with new rules from eips 7825/7954 (#8747)](https://github.com/NethermindEth/nethermind/commit/102c7b51c0f7d425be52eac36019a6ca4ca76e43) - 2025-07-22
+* [Commit] [Fix aura](https://github.com/NethermindEth/nethermind/commit/d14abaedac8c7f57fc9a5d573c4271c32ce39f85) - 2025-07-22
+* [Commit] [Reuse validation logic; fix an error message; remove a call with context](https://github.com/NethermindEth/nethermind/commit/7361ab4208154dc50282946ed9bac0a78a2759ea) - 2025-07-22
+* [Commit] [Fix names, usings, optimize syntax](https://github.com/NethermindEth/nethermind/commit/091abc59e018425f9a4c8a6079b80ef3db680d94) - 2025-07-22
+* [Commit] [Fix names, usings, optimize syntax](https://github.com/NethermindEth/nethermind/commit/76e30f4d5c993f37d1eefc6238a92b4d995cbec6) - 2025-07-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

@@ -24,6 +24,8 @@ Team: Erigon
 * [Pull Request] [qa-tests: update test report and tip-tracking workflows ](https://github.com/erigontech/erigon/pull/16203) - 2025-07-21
 * [Pull Request] [qa-tests: fix tip-tracking scheduling](https://github.com/erigontech/erigon/pull/16202) - 2025-07-21
 * [Pull Request] [qa-tests: fix tip-tracking scheduling](https://github.com/erigontech/erigon/pull/16201) - 2025-07-21
+* [Pull Request] [qa-tests: add "Tip tracking & migration" to Test Report](https://github.com/erigontech/erigon/pull/16215) - 2025-07-22
+* [Pull Request] [[r31] qa-tests: add "Tip tracking & migration" to Test Report](https://github.com/erigontech/erigon/pull/16214) - 2025-07-22
 ## Q2 2025
 
 
