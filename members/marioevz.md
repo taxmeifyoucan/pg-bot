@@ -39,6 +39,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [style(tools): convert absolute to relative imports across codebase (#1907)](https://github.com/ethereum/execution-spec-tests/commit/d906a140ba546e0281c9a585c98c6b4306fe03dc) - 2025-07-18
 * [Commit] [fix(tests): fixes EXTCODECOPY bench test (#1865)](https://github.com/ethereum/execution-spec-tests/commit/75911e308f5188c6c4bca9dd33a2793ee380761a) - 2025-07-21
 * [Commit] [feat(benchmark): add jumpi-intense test case (#1693)](https://github.com/ethereum/execution-spec-tests/commit/7f1a99faba2383030aeebde0e4a296970e94388c) - 2025-07-21
+* [Pull Request] [fix(plugins): Remove cwd change before running pytest](https://github.com/ethereum/execution-spec-tests/pull/1943) - 2025-07-23
+* [Commit] [fix(plugins): Remove cwd change before running pytest](https://github.com/ethereum/execution-spec-tests/commit/a3c53e684764da87cb97b48da818ddfa629173cb) - 2025-07-23
+* [Issue] [bug(types): Intermitent failure during `src/ethereum_test_types/tests/test_blob_types.py`](https://github.com/ethereum/execution-spec-tests/issues/1942) - 2025-07-23
+* [Commit] [feat(ci): pypy3.11 support (#1854)](https://github.com/ethereum/execution-spec-tests/commit/9184a0350bb7e64ec882f2c4203e1cb993c9febb) - 2025-07-23
+* [Issue] [bug: Pypy3.11 filling timeouts](https://github.com/ethereum/execution-spec-tests/issues/1940) - 2025-07-23
+* [Pull Request] [fix(github): Remove `--solc-version` flag from fixture building action](https://github.com/ethereum/execution-spec-tests/pull/1937) - 2025-07-23
+* [Commit] [fix(github): Remove `solc` from all features](https://github.com/ethereum/execution-spec-tests/commit/95a33a70f84129b94eaa3ffd3e94b9b92364be5a) - 2025-07-23
+* [Commit] [fix(tox): tests-deployed-benchmark command line](https://github.com/ethereum/execution-spec-tests/commit/0e966d4a46997a1c77b8ccbcf87e8d6e1a7cb82c) - 2025-07-23
+* [Pull Request] [fix(plugins): Don't copy test list during collection](https://github.com/ethereum/execution-spec-tests/pull/1936) - 2025-07-23
+* [Commit] [docs: Changelog](https://github.com/ethereum/execution-spec-tests/commit/6fcfbe0667f1422430b4b5b5a71564255109f720) - 2025-07-23
+* [Commit] [fix: tox](https://github.com/ethereum/execution-spec-tests/commit/eadb84e58df3d7a943cb6fa6df5c79b4090dd596) - 2025-07-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

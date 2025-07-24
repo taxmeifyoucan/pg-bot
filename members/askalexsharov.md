@@ -399,6 +399,10 @@ Team: Erigon
 * [Commit] [fix kurtosis failure: nil topic in log (#16130)](https://github.com/erigontech/erigon/commit/c57314a43dfac8df27c78e886770f59b00aac341) - 2025-07-21
 * [Commit] [removed leftover datadir (#16192)](https://github.com/erigontech/erigon/commit/be1a1d3e72b91d59347030a188782785d899250e) - 2025-07-22
 * [Commit] [backwards compatibility for receipt data (#16204)](https://github.com/erigontech/erigon/commit/a3c9a5cdea7a8a7f52cdcf128fcab2d3e09b7b40) - 2025-07-22
+* [Commit] [save - broken but better](https://github.com/erigontech/erigon/commit/722eacde18dee742467afb45dc8c41a9ec9ac272) - 2025-07-23
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/c988c6765b29e68c208381239d855c7762e53fcb) - 2025-07-23
+* [Commit] [Fix eth_getProof on hisotry values (#16220)](https://github.com/erigontech/erigon/commit/aa037cf433764d8281b7fd3ef64294644c6a30ef) - 2025-07-23
+* [Commit] [[r31] receipt_generator: follow `--rpc.evmtimeout` (#16118)](https://github.com/erigontech/erigon/commit/b1ab89c178c1af65d35db218047cfdfea8aa7996) - 2025-07-23
 ## Q2 2025
 
 

@@ -24,6 +24,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add Quarantine events.](https://github.com/status-im/nimbus-eth2/commit/511afa91459dee4ac63ee0070c0689ef040cb832) - 2025-07-14
 * [Pull Request] [Blobless quarantine improvements.](https://github.com/status-im/nimbus-eth2/pull/7294) - 2025-07-15
 * [Pull Request] [Use Nimbus agent string for Builder API calls BN performs.](https://github.com/status-im/nimbus-eth2/pull/7300) - 2025-07-16
+* [Pull Request] [Move Electra fork from VC optional to required forks.](https://github.com/status-im/nimbus-eth2/pull/7321) - 2025-07-23
 ## Q2 2025
 
 

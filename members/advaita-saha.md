@@ -29,6 +29,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [add eip-7883 changes (#3399)](https://github.com/status-im/nimbus-eth1/commit/19e4e063ce95c55d1d187612263d5da4d84751d8) - 2025-07-21
 * [Commit] [shift to a cleaner approach](https://github.com/status-im/nimbus-eth1/commit/014596b5c9f4904058bac71162b12643d6ec65a1) - 2025-07-22
 * [Pull Request] [add max blobs per tx](https://github.com/status-im/nimbus-eth1/pull/3495) - 2025-07-22
+* [Commit] [txpool hotfix experimental](https://github.com/status-im/nimbus-eth1/commit/560e01060880cfdfc325c37bda544224051e5632) - 2025-07-23
 ## Q2 2025
 
 

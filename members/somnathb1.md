@@ -28,6 +28,11 @@ Team: Erigon
 * [Commit] [Use devops-large runner add parallel](https://github.com/erigontech/erigon/commit/72b29a99b2ce26ae626b1fc83864e26332e2a7d2) - 2025-07-18
 * [Commit] [Add ref](https://github.com/erigontech/erigon/commit/d25621554da92b0dbc3409f74db95a5de72bdda4) - 2025-07-18
 * [Commit] [Try older ubuntu](https://github.com/erigontech/erigon/commit/37be7011c69298d7058000c0f2873b9fff39966e) - 2025-07-18
+* [Commit] [Try 16x parallelism](https://github.com/erigontech/erigon/commit/2254829f842a84403b9fa584efa35ccf38a5e3a1) - 2025-07-23
+* [Commit] [Rename libbn254](https://github.com/erigontech/erigon/commit/4301b34861127568912c255a1aa936a8a1a49a99) - 2025-07-23
+* [Commit] [Update eest](https://github.com/erigontech/erigon/commit/388cab6970dbe494134225f8da199d7d5e568e36) - 2025-07-23
+* [Commit] [Use 2 --sim.buildarg](https://github.com/erigontech/erigon/commit/d0521b0ea29b926688a0ecb8a60c2eb4411635c2) - 2025-07-23
+* [Pull Request] [crypto, vm: Rename "BN256" to "BN254"](https://github.com/erigontech/erigon/pull/16250) - 2025-07-23
 ## Q2 2025
 
 

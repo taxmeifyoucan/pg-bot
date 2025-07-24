@@ -30,6 +30,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Stateless: Correctly order keys when building witness](https://github.com/status-im/nimbus-eth1/pull/3487) - 2025-07-18
 * [Commit] [Stateless: Use correct pre-state when building witness during import (#3486)](https://github.com/status-im/nimbus-eth1/commit/4b319243ea48661e2edd50903be57b9dfa3d3c4b) - 2025-07-18
 * [Pull Request] [Stateless: Use correct pre-state when building witness during import](https://github.com/status-im/nimbus-eth1/pull/3486) - 2025-07-18
+* [Commit] [Move block hashes cache into ledger and use a LruCache instead of a Table.](https://github.com/status-im/nimbus-eth1/commit/50aa756fd6c2b0b084606b728dcb2ecc7b97d933) - 2025-07-23
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

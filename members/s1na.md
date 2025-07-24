@@ -8,6 +8,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Issue] [eth_getLogs configurable address limit](https://github.com/ethereum/go-ethereum/issues/32264) - 2025-07-23
 ## Q2 2025
 
 

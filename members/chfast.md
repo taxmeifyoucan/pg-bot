@@ -28,6 +28,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Implement CLZ instruction (EIP-7939) for Osaka (#1264)](https://github.com/ipsilon/evmone/commit/c3cee78f0730beebd014f4317bec9786e4146fd6) - 2025-07-22
 * [Commit] [ci: Enable Ninja CMake generator in many jobs (#1275)](https://github.com/ipsilon/evmone/commit/5aabcf0bf6851de7046cacc24871dc955b8175ff) - 2025-07-22
 * [Pull Request] [ci: Enable Ninja CMake generator in many jobs](https://github.com/ipsilon/evmone/pull/1275) - 2025-07-22
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 ## Q2 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

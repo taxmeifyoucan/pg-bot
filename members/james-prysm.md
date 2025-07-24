@@ -48,6 +48,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Update changelog/James-prysm_persistent-seq-number.md](https://github.com/OffchainLabs/prysm/commit/80f455ce8f1372fb4c86a9138f744c2e567a875a) - 2025-07-22
 * [Commit] [fixing typo](https://github.com/OffchainLabs/prysm/commit/3de05a58230c46128c6c9f1f66a9c3a41225090d) - 2025-07-22
 * [Pull Request] [persistent enode db to persist seq number](https://github.com/OffchainLabs/prysm/pull/15519) - 2025-07-22
+* [Pull Request] [implements the proposer lookahead api](https://github.com/OffchainLabs/prysm/pull/15525) - 2025-07-23
+* [Commit] [Update links to consensus-specs to point to master branch (#15523)](https://github.com/OffchainLabs/prysm/commit/856742ff68a896d0ca1f825ca2ee5992319f82ca) - 2025-07-23
 ## Q2 2025
 
 

@@ -21,6 +21,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [CI: enable 44 gnosis integration test](https://github.com/erigontech/erigon/pull/15985) - 2025-07-08
 * [Pull Request] [rpcdaemon: eth_getLogs(): add check on pruning](https://github.com/erigontech/erigon/pull/16042) - 2025-07-10
 * [Pull Request] [rpcdaemon: align response (block not found) in case remote conf with local one (embedded or stand-alone) ](https://github.com/erigontech/erigon/pull/16029) - 2025-07-10
+* [Pull Request] [rpcdaemon/kvserver: Add tx id to history start from](https://github.com/erigontech/erigon/pull/16254) - 2025-07-23
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

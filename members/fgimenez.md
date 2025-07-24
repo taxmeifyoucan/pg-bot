@@ -66,6 +66,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fix crate check](https://github.com/paradigmxyz/reth/commit/e8d32eadacd3f105e58f5ec657e05dfab050160d) - 2025-07-22
 * [Pull Request] [feat: introduce validation engine primitives](https://github.com/paradigmxyz/reth/pull/17559) - 2025-07-22
 * [Commit] [fix(`docs`): rustdocs module and nested links  (#17478)](https://github.com/paradigmxyz/reth/commit/6927afac16a986f3ca0135cc135058777a76b55e) - 2025-07-22
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/91aeed5c4065e3ba0a73efcadfb48e80b749d794) - 2025-07-23
+* [Pull Request] [feat: add Op EngineValidator impl](https://github.com/paradigmxyz/reth/pull/17585) - 2025-07-23
+* [Commit] [feat: add Op EngineValidator impl](https://github.com/paradigmxyz/reth/commit/1eba32ece4c277d2515a70439495938e9073ab91) - 2025-07-23
+* [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/eedd62061e3c0684a6bc202adef5c80b9d81d388) - 2025-07-23
+* [Commit] [refactor bounds](https://github.com/paradigmxyz/reth/commit/ae815f8e98fd98fcfda47eed14887268c7682a1d) - 2025-07-23
+* [Pull Request] [feat: add Eth EngineValidator impl](https://github.com/paradigmxyz/reth/pull/17583) - 2025-07-23
+* [Commit] [feat: make CompactEnvelope trait public for external crate usage (#17576)](https://github.com/paradigmxyz/reth/commit/752637a5d7c2adbca3c061d9631516074bd44bcf) - 2025-07-23
 ## Q2 2025
 
 

@@ -30,6 +30,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add bundle v2 support for submit blind block (#15198)](https://github.com/OffchainLabs/prysm/commit/f8abf0565f8f54280d7b4eeca22d449601645407) - 2025-07-16
 * [Commit] [Only update safe head if the highest block slot is current slot](https://github.com/OffchainLabs/prysm/commit/e72004f51d5df728fe82d5987e7c977f017d1a8c) - 2025-07-20
 * [Commit] [Remove unused variables, functions and more (#15264)](https://github.com/OffchainLabs/prysm/commit/93a5fdd8f35b0e9fa55b05bc06b8a45b38ae0093) - 2025-07-20
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
+* [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23
+* [Pull Request] [eip7732: add becoming builder section](https://github.com/ethereum/consensus-specs/pull/4456) - 2025-07-23
 ## Q2 2025
 
 

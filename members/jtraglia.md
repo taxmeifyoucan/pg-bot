@@ -22,6 +22,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add script to check for inconsistent fork comments (#4448)](https://github.com/ethereum/consensus-specs/commit/87696fbe94664212069c66108c98dbd2cb3e34da) - 2025-07-18
 * [Commit] [Align section headers in `fork-choice.md` for EIP-7805 (#4449)](https://github.com/ethereum/consensus-specs/commit/a0f12bf7d8ba7390da67d4fe173241b5471769f8) - 2025-07-18
 * [Commit] [Make several updates to EIP-7732 spec (#4438)](https://github.com/ethereum/consensus-specs/commit/e0d2005bd57b135d3e0d6f9874a454cc9a2741a6) - 2025-07-18
+* [Pull Request] [In `get_custody_groups`, skip computation if all groups are custodied](https://github.com/ethereum/consensus-specs/pull/4459) - 2025-07-23
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 ## Q2 2025
 
 

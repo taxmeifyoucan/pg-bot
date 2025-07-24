@@ -20,6 +20,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: broken status get peers](https://github.com/ChainSafe/lodestar/pull/8063) - 2025-07-16
 * [Commit] [feat: remove advertised custody (#8059)](https://github.com/ChainSafe/lodestar/commit/eb543b6d3cb55d11297eb9e2b62fd2c1d16bbcf4) - 2025-07-16
 * [Commit] [fix: increase MAX_BATCH_PROCESSING_ATTEMPTS (#8037)](https://github.com/ChainSafe/lodestar/commit/adb684580d8210d69859370ea21efae295e8288c) - 2025-07-17
+* [Commit] [chore: update peerDAS kzg library to v0.8 (#8075)](https://github.com/ChainSafe/lodestar/commit/a1bd6430ee9d79bc1d40f95e6114eac6d3c5f308) - 2025-07-23
+* [Pull Request] [chore: upgrade node-eth-kzg for portable build](https://github.com/ChainSafe/lodestar/pull/8077) - 2025-07-23
 ## Q2 2025
 
 

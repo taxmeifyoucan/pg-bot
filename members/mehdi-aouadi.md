@@ -18,6 +18,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [add request approval for data column sidecars by range](https://github.com/Consensys/teku/pull/9645) - 2025-07-09
 * [Issue] [Refactor data column sidecars by range](https://github.com/Consensys/teku/issues/9644) - 2025-07-09
 * [Commit] [refactor blob sidecars by range (#9647)](https://github.com/Consensys/teku/commit/f92b699f512379d595fbcf6d916157880ee79eef) - 2025-07-10
+* [Commit] [add request approval for data column sidecars by range (#9645)](https://github.com/Consensys/teku/commit/1fcdc7478a889330e0a971a4a7cbd043dfca7b80) - 2025-07-23
 ## Q2 2025
 
 

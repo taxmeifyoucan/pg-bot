@@ -36,12 +36,22 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [simplify key updates](https://github.com/status-im/nimbus-eth1/commit/3455983c2a27251a1b8a318bf7478457377011fa) - 2025-07-04
 * [Commit] [Add missing finalized marker to updateBase (#3459)](https://github.com/status-im/nimbus-eth1/commit/b5e5b5e16e1a4fa3f8a21df0e7c78ba5bc5b5634) - 2025-07-08
 * [Pull Request] [faststreams: bump](https://github.com/status-im/nimbus-eth1/pull/3498) - 2025-07-22
+* [Pull Request] [chronicles: bump and logging updates](https://github.com/status-im/nimbus-eth1/pull/3504) - 2025-07-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
 * [Pull Request] [log: formatting for PubKey0x](https://github.com/status-im/nimbus-eth2/pull/7307) - 2025-07-21
 * [Pull Request] [faststreams: bump](https://github.com/status-im/nimbus-eth2/pull/7310) - 2025-07-22
 * [Commit] [update Fulu builder API (#7308)](https://github.com/status-im/nimbus-eth2/commit/22cce7a6f21612be931331b0dc6f1e922b460cd3) - 2025-07-22
+* [Commit] [setup logging before file limits](https://github.com/status-im/nimbus-eth2/commit/54aa6557619c031881093f38daab69677930030e) - 2025-07-23
+* [Commit] [move import](https://github.com/status-im/nimbus-eth2/commit/47d0d2988503ffb8a983f86203164a7d6757b3f2) - 2025-07-23
+* [Commit] [move nooutput back](https://github.com/status-im/nimbus-eth2/commit/70d0bf31c842e8ad2e645ac48a3865007a0e83fa) - 2025-07-23
+* [Commit] [move nooutput back](https://github.com/status-im/nimbus-eth2/commit/23dface418facca855d30b81ef41342e88f0433f) - 2025-07-23
+* [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/1b1eeda7a54146b135d11ed7951ae1e3a3d85da5) - 2025-07-23
+* [Commit] [better](https://github.com/status-im/nimbus-eth2/commit/e85c3bff87c91b7701480bf49b8f1cde6d7b8e35) - 2025-07-23
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/99eb1fa9884531c42ea863b91f5b4bb1edcec1e3) - 2025-07-23
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/71e58efb7716721ea56764f478678738379a17fb) - 2025-07-23
+* [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/8b80e8c79cf6dc1d8a4c735201ccc80db40ae47c) - 2025-07-23
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

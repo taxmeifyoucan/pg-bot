@@ -73,6 +73,16 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat: count inspector and bench test (#2730)](https://github.com/bluealloy/revm/commit/a494e389df59a245d296acbe9fcbdaf75265658e) - 2025-07-21
 * [Pull Request] [chore: bump develop to devnet-3](https://github.com/bluealloy/revm/pull/2754) - 2025-07-22
 * [Commit] [chore: bump develop to devnet-3](https://github.com/bluealloy/revm/commit/9006321e3a7a1368a334fe21cae66f66959af303) - 2025-07-22
+* [Commit] [chore: Add dyn Crypto trait to PrecompileFn (#2772)](https://github.com/bluealloy/revm/commit/e6a25a3f9e30672418a23f30fa1cf3c8070f5a11) - 2025-07-23
+* [Commit] [fix: swapped comments for db and db_mut methods in JournalTr trait (#2774)](https://github.com/bluealloy/revm/commit/a46aa4abed552a5f4b26383591be1067315ae6ca) - 2025-07-23
+* [Commit] [chore: bump v83 revm v27.1.0 (#2773)](https://github.com/bluealloy/revm/commit/7d0545dbc8087b524ef34e707a944c7898705d10) - 2025-07-23
+* [Pull Request] [chore: bump v83 revm v27.1.0](https://github.com/bluealloy/revm/pull/2773) - 2025-07-23
+* [Commit] [chore: release (#2771)](https://github.com/bluealloy/revm/commit/19922d847ded13f81b54dc8320af84590a9e0ed2) - 2025-07-23
+* [Commit] [chore: add clz_50 codspeed (#2743)](https://github.com/bluealloy/revm/commit/59164536f033fc42cc20ffbdb535a3287a6fdde4) - 2025-07-23
+* [Commit] [chore: use `EncodedPoint` to decode uncompressed public key (#2736)](https://github.com/bluealloy/revm/commit/f8a8f18f629203e16d240fb61f89c2dc51947f22) - 2025-07-23
+* [Commit] [chore: back to hashbrown map in revme (#2770)](https://github.com/bluealloy/revm/commit/a48f5664bc20d70c2d3b7e421bcce0faa44dd23a) - 2025-07-23
+* [Commit] [fix: features and check in ci (#2766)](https://github.com/bluealloy/revm/commit/6635d6e290c724c54bfbd43245ae5d3972b6ce16) - 2025-07-23
+* [Commit] [perf: un-Box frames (#2761)](https://github.com/bluealloy/revm/commit/f501d003d291234274f5935cf6dd25b460f35104) - 2025-07-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

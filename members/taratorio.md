@@ -80,6 +80,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update with new eest-fixtures](https://github.com/erigontech/erigon/commit/7db383aafe66ec3b88236dcaa403f3768987ce4e) - 2025-07-21
 * [Commit] [tidy](https://github.com/erigontech/erigon/commit/6a88889cc8e2e951a1aa8794167edea3a7176eb4) - 2025-07-22
 * [Pull Request] [Eip 7910 v2](https://github.com/erigontech/erigon/pull/16218) - 2025-07-22
+* [Commit] [execution/stagedsync: handle sync loop block limit exhaustion - improved logging](https://github.com/erigontech/erigon/commit/9146587036430720817178d79ed02706d1a29c8b) - 2025-07-23
 ## Q2 2025
 
 

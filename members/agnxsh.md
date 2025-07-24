@@ -30,6 +30,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [oops bug](https://github.com/status-im/nimbus-eth2/commit/73a88a13552b4ea0c6f9fae141b3286b9ca00360) - 2025-07-18
 * [Commit] [update nimbus eth1 documentation (#7279)](https://github.com/status-im/nimbus-eth2/commit/44ac176614e011a8b32a7f4a82292f19903c9555) - 2025-07-22
 * [Commit] [address review](https://github.com/status-im/nimbus-eth2/commit/42fd74def43f7e44f216c6d72165425a0528966f) - 2025-07-22
+* [Commit] [refactor approach](https://github.com/status-im/nimbus-eth2/commit/4da79c09105fcd3fdc11d560ae078800ad1213b1) - 2025-07-23
+* [Pull Request] [fusaka devnet 3 branch](https://github.com/status-im/nimbus-eth2/pull/7320) - 2025-07-23
+* [Commit] [reinit of vcus detection](https://github.com/status-im/nimbus-eth2/commit/298e8635afe563995809ac71de9d436a762f0495) - 2025-07-23
 ## Q2 2025
 
 

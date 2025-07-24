@@ -37,6 +37,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: setup unit tests for bun runtime (#7971)](https://github.com/ChainSafe/lodestar/commit/ce27087f3464f7771f7b26a7eac5c39328a93ba6) - 2025-07-22
 * [Commit] [Avoid calling getActiveValidatorIndices](https://github.com/ChainSafe/lodestar/commit/b1b4e174df44eb8ec92bd92a658df13dd8966887) - 2025-07-22
 * [Commit] [chore: bump package versions to 1.32.0](https://github.com/ChainSafe/lodestar/commit/36dbfb2cfe9d3b70801d905cf1e3d00a049787ed) - 2025-07-22
+* [Pull Request] [feat: enable proposer boost reorg by default](https://github.com/ChainSafe/lodestar/pull/8080) - 2025-07-23
+* [Pull Request] [fix: detect weak head when predicting proposer head](https://github.com/ChainSafe/lodestar/pull/8079) - 2025-07-23
 ## Q2 2025
 
 

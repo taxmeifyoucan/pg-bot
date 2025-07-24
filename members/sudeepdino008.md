@@ -68,6 +68,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9d472ae032ba66d8ea38052d1ffbf383703bca88) - 2025-07-21
 * [Pull Request] [wip: back compac re/rc](https://github.com/erigontech/erigon/pull/16204) - 2025-07-21
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b5533da577dbd6ed59f743f48c23b1e2282fc4dd) - 2025-07-22
+* [Commit] [cp: skip SyncSnapshots when preverified is local (#16208) (#16242)](https://github.com/erigontech/erigon/commit/d0c6777b15704d1069142e79e618233144310304) - 2025-07-23
 ## Q2 2025
 
 

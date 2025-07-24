@@ -127,6 +127,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/1355a96015d94e615d3e49848c7de8acbc20c505) - 2025-07-21
 * [Pull Request] [Update chain sizes test](https://github.com/NethermindEth/nethermind/pull/9016) - 2025-07-21
 * [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/fc0255b391b7653b37c51f97d350ed05aa14e1f1) - 2025-07-21
+* [Commit] [Also move stateprovider.Reset to background](https://github.com/NethermindEth/nethermind/commit/5f4f847b445b852f4bfcb0994af9fe695102662b) - 2025-07-23
+* [Commit] [Remove Linq from Block Processing (#9025)](https://github.com/NethermindEth/nethermind/commit/be03dcfe14e1b8912b1b6898d21419e877062bf5) - 2025-07-23
+* [Commit] [Fix devnet 3 (#9022)](https://github.com/NethermindEth/nethermind/commit/2fd4f27ff9546184188f617f56993d9f084a1313) - 2025-07-23
 ## Q2 2025
 
 

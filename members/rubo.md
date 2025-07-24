@@ -30,6 +30,19 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Auto-update fast sync settings (#9013)](https://github.com/NethermindEth/nethermind/commit/d2230a01a95016baa336a51e330e17b15f4b55cd) - 2025-07-20
 * [Commit] [Update winget command (#9011)](https://github.com/NethermindEth/nethermind/commit/8075f5f90ec357d467cf18094afac0bcdbe63972) - 2025-07-20
 * [Pull Request] [Revise BN254 precompile names](https://github.com/NethermindEth/nethermind/pull/9023) - 2025-07-21
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/d33f9c54dcb30070fb80771e8d0c82df7992a5d8) - 2025-07-23
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/ef466c90078d68d1f87fdedd90b64ea21fc84b41) - 2025-07-23
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/5740d8e425216acba190aa2c478dc792c65163ba) - 2025-07-23
+* [Commit] [Add packages lock](https://github.com/NethermindEth/nethermind/commit/89483869cbee428f555abd5a9ded5215ba622324) - 2025-07-23
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/8c09341e39c81c732a96f03dd9983ec6b14a34a3) - 2025-07-23
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/7ea207960ed8f8f8f57e1d051420cb46896f5967) - 2025-07-23
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/f3423c9008ce8df92d077e9c47ab529fee74bc5c) - 2025-07-23
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/6e993178751689ae22bd62585739543ea6cd1c48) - 2025-07-23
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/6ca0ac8d80f948739c1f86a5e7dcf8893461109e) - 2025-07-23
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/ffc297fa7504b859d3d08aa1345e6902de502d86) - 2025-07-23
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/15837e352183eb43efad7e0034337a6fd7115e1c) - 2025-07-23
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/0508f946fca3f7b9d856af4aab953f396fd6ff51) - 2025-07-23
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/30bdfe6be9d4b4f492fee2e07be60f8012279ee9) - 2025-07-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21

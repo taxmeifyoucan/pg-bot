@@ -8,6 +8,17 @@ Team: Reth
 
 ## Contributions
 
+## Q3 2025
+
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [perf: improve inspector loop](https://github.com/bluealloy/revm/pull/2776) - 2025-07-23
+* [Pull Request] [chore: back to hashbrown map in revme](https://github.com/bluealloy/revm/pull/2770) - 2025-07-23
+* [Commit] [chore: back to better map (#2768)](https://github.com/bluealloy/revm/commit/5857fc44256f2ca4f4a4845efb781819448f36a5) - 2025-07-23
+* [Pull Request] [chore: back to better map](https://github.com/bluealloy/revm/pull/2768) - 2025-07-23
+* [Commit] [fix: fully deprecate serde-json (#2767)](https://github.com/bluealloy/revm/commit/975071db304c02dc512151317f59c59d0162062e) - 2025-07-23
+* [Pull Request] [fix: fully deprecate serde-json](https://github.com/bluealloy/revm/pull/2767) - 2025-07-23
+* [Pull Request] [fix: features and check in ci](https://github.com/bluealloy/revm/pull/2766) - 2025-07-23
 ## Q2 2025
 
 

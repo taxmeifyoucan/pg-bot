@@ -32,6 +32,16 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2940241c9939187498dde1a984ca17f7a01900ce) - 2025-07-11
 * [Commit] [save](https://github.com/erigontech/erigon/commit/cc24c520e9e36c9a6209d1516ae0edd52b11a0be) - 2025-07-11
 * [Commit] [save](https://github.com/erigontech/erigon/commit/16804fd2d995f6518ddd1e91d56e6367ea92b81b) - 2025-07-22
+* [Pull Request] [Chain tip arbitrum testnet](https://github.com/erigontech/erigon/pull/16256) - 2025-07-23
+* [Commit] [correctly parse l2rpc flag](https://github.com/erigontech/erigon/commit/ab4d7bdaeea53f9538f4c7c95a24e0c2ab6eddad) - 2025-07-23
+* [Commit] [Adding missing arbitrum table names (#16238)](https://github.com/erigontech/erigon/commit/455d3ad68d5599a0722b3a7fa4415accdeb1c89a) - 2025-07-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2468f037ee57fa1f4a26be2c518c43c4481558f9) - 2025-07-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f4c4c7654f2244ca526121322fae00afca2ee8d8) - 2025-07-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9d53851625d9b8a919ecfae822ec5a0ead4f7969) - 2025-07-23
+* [Commit] [disabled proof tracing](https://github.com/erigontech/erigon/commit/75f89b2d9b4232e916c815b417fd82cdb7fec3d8) - 2025-07-23
+* [Commit] [added commented test](https://github.com/erigontech/erigon/commit/e3514cb5bd606c60be5b90a2c9643f470931764e) - 2025-07-23
+* [Pull Request] [Fix `getProof` edge cases correctly](https://github.com/erigontech/erigon/pull/16251) - 2025-07-23
+* [Commit] [cp: Optimised snapshot read operations for BorEvents (#15993) (#16140)](https://github.com/erigontech/erigon/commit/ab7ac769fbf836981b869ccdd299ba1ae42bece6) - 2025-07-23
 ## Q2 2025
 
 

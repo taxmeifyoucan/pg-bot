@@ -54,6 +54,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [tidy](https://github.com/NethermindEth/nethermind/commit/7b5785ba27e8458a8084d250e8a0f82e2e3d6dec) - 2025-07-22
 * [Commit] [fix DI error](https://github.com/NethermindEth/nethermind/commit/1825186ec4c30df7eaa9797cf61953340eb2ab06) - 2025-07-22
 * [Commit] [tidy & add initializeblockchain to startmonitoring dependencies](https://github.com/NethermindEth/nethermind/commit/bd08a570859a44462cff9d2b40aa00c9368c170b) - 2025-07-22
+* [Commit] [fix metrics for pre-merge only drop](https://github.com/NethermindEth/nethermind/commit/b8caae894836a14840e7d8ae9f5531676e8a7634) - 2025-07-23
+* [Commit] [add metrics](https://github.com/NethermindEth/nethermind/commit/eb6710daf0d39313121933d4a975ce508712acd3) - 2025-07-23
+* [Commit] [add metrics](https://github.com/NethermindEth/nethermind/commit/b0fae2a8613a3ce9132ecdc5214388cf9b2bf3b8) - 2025-07-23
+* [Commit] [add more logging](https://github.com/NethermindEth/nethermind/commit/5bf832a178659c3ee2fa9bf8af91bd4c5d1e6e84) - 2025-07-23
+* [Commit] [improve log](https://github.com/NethermindEth/nethermind/commit/0a0d130d9ab0d7265c7deadbf88f192c0da1f7d0) - 2025-07-23
+* [Commit] [Test/Disambiguate TxPool Constructor (#9027)](https://github.com/NethermindEth/nethermind/commit/0ac6feee59e8e775c0145abc3fc0cc961bec2ecc) - 2025-07-23
+* [Commit] [fix pruning task scheduling, compiler error](https://github.com/NethermindEth/nethermind/commit/ce7c63dff178593e2fbe21eb7e98932f34217aeb) - 2025-07-23
+* [Commit] [pass configs in test](https://github.com/NethermindEth/nethermind/commit/f3cc3ceeba73d26dd76f9dc9102a947c9c1c564a) - 2025-07-23
+* [Commit] [add history test to CI](https://github.com/NethermindEth/nethermind/commit/7a55f4eadae2ea6939e5aca9a67d5dec601f2705) - 2025-07-23
 ## Q2 2025
 
 

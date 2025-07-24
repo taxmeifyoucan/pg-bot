@@ -90,6 +90,11 @@ Team: Reth
 * [Commit] [chore: bump deps (#17554)](https://github.com/paradigmxyz/reth/commit/3ab5bac40c3dc06384abf3778cd5c1608deb225d) - 2025-07-22
 * [Pull Request] [chore: bump version v1.6.0](https://github.com/paradigmxyz/reth/pull/17556) - 2025-07-22
 * [Pull Request] [chore: bump deps](https://github.com/paradigmxyz/reth/pull/17554) - 2025-07-22
+* [Issue] [Track State for local pending block](https://github.com/paradigmxyz/reth/issues/17584) - 2025-07-23
+* [Commit] [chore: fix bounds](https://github.com/paradigmxyz/reth/commit/f2f3af43d4f4a3ad8ab03ff6a3ab13cc3a33d906) - 2025-07-23
+* [Pull Request] [chore: move validation to standalone fns](https://github.com/paradigmxyz/reth/pull/17582) - 2025-07-23
+* [Pull Request] [fix(txpool): enforce encoded length check](https://github.com/paradigmxyz/reth/pull/17581) - 2025-07-23
+* [Commit] [fix(txpool): enforce encoded length check](https://github.com/paradigmxyz/reth/commit/545b9f3f984d4cfd02a085d618e38de5961a9fba) - 2025-07-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

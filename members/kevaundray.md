@@ -19,6 +19,8 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore(experiment): Use bytes API for underlying precompile library APIs](https://github.com/bluealloy/revm/pull/2705) - 2025-07-14
 * [Pull Request] [chore: Copy Dragan benchmarking code into criterion](https://github.com/bluealloy/revm/pull/2744) - 2025-07-21
 
+* [Pull Request] [feat: Add bn128 to CryptoTrait](https://github.com/bluealloy/revm/pull/2777) - 2025-07-23
+* [Pull Request] [chore: Add dyn Crypto trait to PrecompileFn](https://github.com/bluealloy/revm/pull/2772) - 2025-07-23
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [chore: add scripts to laucnh up local kurtosis testnet](https://github.com/ChainSafe/lodestar/pull/8070) - 2025-07-21
 ## Q2 2025

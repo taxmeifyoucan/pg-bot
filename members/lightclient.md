@@ -18,6 +18,9 @@ Team: Geth
 * [Pull Request] [Add `eth_config`](https://github.com/ethereum/go-ethereum/pull/32239) - 2025-07-18
 * [Pull Request] [Fusaka devnet 3 tracker](https://github.com/ethereum/go-ethereum/pull/32238) - 2025-07-18
 * [Commit] [core/vm: triple modexp cost post-cancun](https://github.com/ethereum/go-ethereum/commit/9f9f2d39fa655a5cf008e95e235a6e93cf4f2308) - 2025-07-18
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Commit] [Minor cleanup to EthSimulateResult (#677)](https://github.com/ethereum/execution-apis/commit/bbf817f7f6404fc0d270f66a3c96f8737e6d7176) - 2025-07-23
 ## Q2 2025
 
 

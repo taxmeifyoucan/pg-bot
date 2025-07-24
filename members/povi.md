@@ -23,6 +23,7 @@ Team: Grandine
 * [Commit] [HTTP API: requested post-Electra attestation data always has its index set to zero](https://github.com/grandinetech/grandine/commit/cc74efbc6a3ec555d10dbf278bf710cbbe1060cb) - 2025-07-21
 * [Pull Request] [HTTP API: requested post-Electra attestation data always has its index set to zero](https://github.com/grandinetech/grandine/pull/265) - 2025-07-21
 * [Pull Request] [HTTP API: fallback to JSON content-type](https://github.com/grandinetech/grandine/pull/268) - 2025-07-22
+* [Pull Request] [Allow to compute states one epoch further in the future if current slot is the last slot in the epoch](https://github.com/grandinetech/grandine/pull/269) - 2025-07-23
 ## Q2 2025
 
 

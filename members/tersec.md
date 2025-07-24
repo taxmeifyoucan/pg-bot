@@ -29,6 +29,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13
 * [Commit] [Update Dockerfile to supported OS (#3467)](https://github.com/status-im/nimbus-eth1/commit/efe68d2a81cf2865a441fddef81c64d6193651a8) - 2025-07-15
 * [Issue] [remove EIP-7907](https://github.com/status-im/nimbus-eth1/issues/3484) - 2025-07-17
+* [Issue] [implement `eth_maxPriorityFeePerGas`](https://github.com/status-im/nimbus-eth1/issues/3505) - 2025-07-23
 ## Q2 2025
 
 
