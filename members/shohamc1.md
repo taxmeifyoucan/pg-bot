@@ -13,6 +13,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Commit] [Revert "Less verbose go tests (ci too crowded) (#15238)" (#15400)](https://github.com/erigontech/erigon/commit/60aff5f92727c57fc0da818c87338243bb4e1068) - 2025-07-22
+* [Commit] [lint](https://github.com/erigontech/erigon/commit/86393c7e37f436d121b707bec058ca7661909b4a) - 2025-07-24
+* [Commit] [serve post-merge blocks](https://github.com/erigontech/erigon/commit/84fdcceab1c4cf2ac67600405ca3416770a4947b) - 2025-07-24
 ## Q2 2025
 
 

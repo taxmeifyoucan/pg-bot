@@ -52,6 +52,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/99eb1fa9884531c42ea863b91f5b4bb1edcec1e3) - 2025-07-23
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/71e58efb7716721ea56764f478678738379a17fb) - 2025-07-23
 * [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/8b80e8c79cf6dc1d8a4c735201ccc80db40ae47c) - 2025-07-23
+* [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/ada7bc6f620679cc14f97554e7e47f6a1c8dd648) - 2025-07-24
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

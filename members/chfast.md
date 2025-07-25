@@ -29,6 +29,15 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Enable Ninja CMake generator in many jobs (#1275)](https://github.com/ipsilon/evmone/commit/5aabcf0bf6851de7046cacc24871dc955b8175ff) - 2025-07-22
 * [Pull Request] [ci: Enable Ninja CMake generator in many jobs](https://github.com/ipsilon/evmone/pull/1275) - 2025-07-22
 
+* [Pull Request] [Introduce BlobSchedule (EIP-7840)](https://github.com/ipsilon/evmone/pull/1284) - 2025-07-24
+* [Commit] [Expose GAS_PER_BLOB constant (#1282)](https://github.com/ipsilon/evmone/commit/92d791f3469abfaca237d69b5b380ecffa4e6a77) - 2025-07-24
+* [Commit] [Expose GAS_PER_BLOB constant](https://github.com/ipsilon/evmone/commit/41b615ebc412224763eb7bfbb4fc4b5a7c0ac548) - 2025-07-24
+* [Issue] [Introduce "blob schedule" (EIP-7840)](https://github.com/ipsilon/evmone/issues/1283) - 2025-07-24
+* [Pull Request] [Expose GAS_PER_BLOB constant](https://github.com/ipsilon/evmone/pull/1282) - 2025-07-24
+* [Pull Request] [Mofidy blob base fee calculation for Osaka (EIP-7918)](https://github.com/ipsilon/evmone/pull/1281) - 2025-07-24
+* [Commit] [ci: Configure codecov components (#1280)](https://github.com/ipsilon/evmone/commit/64feb7df00c38d23c9532d8f07ed37442c7f72f8) - 2025-07-24
+* [Commit] [ci: Configure codecov components](https://github.com/ipsilon/evmone/commit/e34d9ec84e8d9a32962324be31462c0a3e02757e) - 2025-07-24
+* [Commit] [ci: Configure codecov components](https://github.com/ipsilon/evmone/commit/762902186e24603c70d05692c3c673e3bc0f37ae) - 2025-07-24
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 ## Q2 2025

@@ -108,6 +108,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Lower memory threshold to 20GB](https://github.com/NethermindEth/nethermind/commit/2289d5775fe44764d7faadf0f08019f01048afe7) - 2025-07-21
 * [Commit] [Unify BN254 naming (#9004)](https://github.com/NethermindEth/nethermind/commit/c7366456e049790368b51bf0e82fc55cc144e3e5) - 2025-07-21
 * [Commit] [Cleanup/Remove unnecessary SetBaseBlock (#9006)](https://github.com/NethermindEth/nethermind/commit/88b3007b5cf7881b1fb8b9a62361931e36addcd2) - 2025-07-21
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/c78afe18f497b2c88bb68c9c873a8d153b11f096) - 2025-07-24
+* [Commit] [Extra log](https://github.com/NethermindEth/nethermind/commit/10031dd908a56374bc0052844a9637a5bb498dd0) - 2025-07-24
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/5f39e29e906bf1816ae7d9b55992c6adf505e9ff) - 2025-07-24
+* [Commit] [Minor cleanup](https://github.com/NethermindEth/nethermind/commit/a8b90a1534587e6c2cd32784402c7fab28f8965c) - 2025-07-24
 ## Q2 2025
 
 

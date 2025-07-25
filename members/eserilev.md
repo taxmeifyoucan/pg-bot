@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 
 ## Contributions
 
+## Q3 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Allocate multiple threads to column reconstruction task](https://github.com/sigp/lighthouse/pull/7789) - 2025-07-24
 ## Q2 2025
 
 

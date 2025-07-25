@@ -35,6 +35,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [Add world view to trace start block](https://github.com/hyperledger/besu/pull/8981) - 2025-07-21
 * [Commit] [getBlobsV2: prohibit partial responses (#8989)](https://github.com/hyperledger/besu/commit/55523581c33b93e10176de3bd52120e18ba41a2c) - 2025-07-22
 * [Commit] [feat: add world view to traceStartBlock hook (#8981)](https://github.com/hyperledger/besu/commit/a25c2419f15caffb434bb548707cff935856d947) - 2025-07-23
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025
 
 

@@ -42,6 +42,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix compilation](https://github.com/paradigmxyz/reth/commit/c714e48d6e6e9bd48283b04be16cb345850c2175) - 2025-07-21
 * [Pull Request] [fix: `logIndex` in `getBlockReceipts`](https://github.com/paradigmxyz/reth/pull/17519) - 2025-07-21
 * [Pull Request] [refactor: small simplifications for tree types](https://github.com/paradigmxyz/reth/pull/17589) - 2025-07-23
+* [Pull Request] [refactor: reorder engine steps](https://github.com/paradigmxyz/reth/pull/17598) - 2025-07-24
 ## Q2 2025
 
 

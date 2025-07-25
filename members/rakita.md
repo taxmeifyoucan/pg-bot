@@ -83,6 +83,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: back to hashbrown map in revme (#2770)](https://github.com/bluealloy/revm/commit/a48f5664bc20d70c2d3b7e421bcce0faa44dd23a) - 2025-07-23
 * [Commit] [fix: features and check in ci (#2766)](https://github.com/bluealloy/revm/commit/6635d6e290c724c54bfbd43245ae5d3972b6ce16) - 2025-07-23
 * [Commit] [perf: un-Box frames (#2761)](https://github.com/bluealloy/revm/commit/f501d003d291234274f5935cf6dd25b460f35104) - 2025-07-23
+* [Commit] [chore: collapse debug info for interpreter macros (#2780)](https://github.com/bluealloy/revm/commit/1ad68df196b3441588de935e8eb28a58849e487a) - 2025-07-24
+* [Commit] [chore: add gas_limit to revme evm (#2779)](https://github.com/bluealloy/revm/commit/76787ffb58593df7584d1716300e6a2db97170fd) - 2025-07-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

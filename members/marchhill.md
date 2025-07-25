@@ -63,6 +63,17 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix pruning task scheduling, compiler error](https://github.com/NethermindEth/nethermind/commit/ce7c63dff178593e2fbe21eb7e98932f34217aeb) - 2025-07-23
 * [Commit] [pass configs in test](https://github.com/NethermindEth/nethermind/commit/f3cc3ceeba73d26dd76f9dc9102a947c9c1c564a) - 2025-07-23
 * [Commit] [add history test to CI](https://github.com/NethermindEth/nethermind/commit/7a55f4eadae2ea6939e5aca9a67d5dec601f2705) - 2025-07-23
+* [Commit] [search latest blocks when calculating cutoff](https://github.com/NethermindEth/nethermind/commit/6e3af4baad3c03ab47fdf7b9d3da95c3e7012027) - 2025-07-24
+* [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/6f86bd8e4b1a8ca5b85862e08b57d58d5b01f422) - 2025-07-24
+* [Commit] [improve logging](https://github.com/NethermindEth/nethermind/commit/0c7e369f383f2e938f95b3bcdedc15f80b1b97d7) - 2025-07-24
+* [Commit] [fix oldest & cutoff block search, add tests](https://github.com/NethermindEth/nethermind/commit/4482d16b63788982c30bac82cd6da49638134c59) - 2025-07-24
+* [Commit] [add metrics](https://github.com/NethermindEth/nethermind/commit/eb6710daf0d39313121933d4a975ce508712acd3) - 2025-07-24
+* [Commit] [don't use configprovider](https://github.com/NethermindEth/nethermind/commit/f6d72ac70ad45547bcb5dd6a39ffbb34888ece8a) - 2025-07-24
+* [Commit] [improve DI](https://github.com/NethermindEth/nethermind/commit/f748aa13efc7a40ccdaa7d72c3f4e5df758975f0) - 2025-07-24
+* [Commit] [rename config option to RetentionEpochs](https://github.com/NethermindEth/nethermind/commit/9ff16277a6d491705c15c9232e131e02450c1f63) - 2025-07-24
+* [Commit] [fix block tree implementers](https://github.com/NethermindEth/nethermind/commit/284da4d622c48075bf1f1110f4e938f01e0627d2) - 2025-07-24
+* [Commit] [use new deleteoldblock method](https://github.com/NethermindEth/nethermind/commit/4ea4a7fd375d42d3c24eef69ab5249cf5520779a) - 2025-07-24
+* [Commit] [reduce deleteblock params](https://github.com/NethermindEth/nethermind/commit/968729093e19108e156c43a4204b63d22332ff68) - 2025-07-24
 ## Q2 2025
 
 

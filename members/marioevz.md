@@ -50,6 +50,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(plugins): Don't copy test list during collection](https://github.com/ethereum/execution-spec-tests/pull/1936) - 2025-07-23
 * [Commit] [docs: Changelog](https://github.com/ethereum/execution-spec-tests/commit/6fcfbe0667f1422430b4b5b5a71564255109f720) - 2025-07-23
 * [Commit] [fix: tox](https://github.com/ethereum/execution-spec-tests/commit/eadb84e58df3d7a943cb6fa6df5c79b4090dd596) - 2025-07-23
+* [Issue] [chore(tests): Port all `stTimeConsuming` to benchmark tests folder](https://github.com/ethereum/execution-spec-tests/issues/1947) - 2025-07-24
+* [Commit] [Map TYPE_3_TX_BLOB_COUNT_EXCEEDED (#1944)](https://github.com/ethereum/execution-spec-tests/commit/5515a70106341a37dd8611dde85f6f5f5e83eede) - 2025-07-24
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

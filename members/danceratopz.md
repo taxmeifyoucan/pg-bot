@@ -75,6 +75,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed d906a140ba5 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/136b658feaf20d9b01b17c7d48920ef7eb5e2b5f) - 2025-07-18
 * [Commit] [Deployed 7f1a99faba2 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/9c6ab3f6c28df8bbed27b109e7c85bb316aa564d) - 2025-07-21
 * [Commit] [Deployed 9184a0350bb to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/b6bb674be9048d578b377b43b4f39cdf8eee4fbd) - 2025-07-23
+* [Commit] [Deployed 5515a701063 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/da514312fdd4d76e89e3289d24535e4b30d9097e) - 2025-07-24
+* [Commit] [Deployed 57eee322d8c to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/ba94c588c2c4a323b381cc62d446e1722f52764f) - 2025-07-24
 ## Q2 2025
 
 

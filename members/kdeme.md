@@ -26,6 +26,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add Discovery V5 alongside V4 (#3489)](https://github.com/status-im/nimbus-eth1/commit/e29e529b752082557e7405947bee295378e84587) - 2025-07-21
 * [Commit] [Portal: default disable beacon network (#3478)](https://github.com/status-im/nimbus-eth1/commit/1be3e02dcfb2d1a3ac9cbd7505ef7e1fde130ae1) - 2025-07-21
 * [Pull Request] [Adjust for authList v field change to yParity name](https://github.com/status-im/nimbus-eth1/pull/3497) - 2025-07-22
+* [Commit] [eth_data_exporter: Export StoredReceipts instead of Receipts (#3503)](https://github.com/status-im/nimbus-eth1/commit/9a7f81ac2a67b6595b116217b43d9e6fc0d7c7ac) - 2025-07-24
 ## Q2 2025
 
 

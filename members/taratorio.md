@@ -81,6 +81,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tidy](https://github.com/erigontech/erigon/commit/6a88889cc8e2e951a1aa8794167edea3a7176eb4) - 2025-07-22
 * [Pull Request] [Eip 7910 v2](https://github.com/erigontech/erigon/pull/16218) - 2025-07-22
 * [Commit] [execution/stagedsync: handle sync loop block limit exhaustion - improved logging](https://github.com/erigontech/erigon/commit/9146587036430720817178d79ed02706d1a29c8b) - 2025-07-23
+* [Commit] [workflows: Use --sim.buildarg twice in Hive-EEST (#16258)](https://github.com/erigontech/erigon/commit/422d01c33f030bb46b2a73143d12cc6491979f30) - 2025-07-24
 ## Q2 2025
 
 

@@ -24,6 +24,9 @@ Team: Grandine
 * [Pull Request] [HTTP API: requested post-Electra attestation data always has its index set to zero](https://github.com/grandinetech/grandine/pull/265) - 2025-07-21
 * [Pull Request] [HTTP API: fallback to JSON content-type](https://github.com/grandinetech/grandine/pull/268) - 2025-07-22
 * [Pull Request] [Allow to compute states one epoch further in the future if current slot is the last slot in the epoch](https://github.com/grandinetech/grandine/pull/269) - 2025-07-23
+* [Commit] [Show more detailed information in port in use error](https://github.com/grandinetech/grandine/commit/79a4ad298e30c3a9aba0f192f12a916ae51edae3) - 2025-07-24
+* [Pull Request] [Show more detailed information in port in use error](https://github.com/grandinetech/grandine/pull/271) - 2025-07-24
+* [Commit] [Allow to compute states one epoch further in the future if current slot is the last slot in the epoch](https://github.com/grandinetech/grandine/commit/668116b056241ccc860fe857ab4158aad2fd662a) - 2025-07-24
 ## Q2 2025
 
 

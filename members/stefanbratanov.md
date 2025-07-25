@@ -20,6 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Make KZG precompute value configurable (#9663)](https://github.com/Consensys/teku/commit/8941e9ffb528a6bbea7b7ac24499b914db127d40) - 2025-07-16
 * [Pull Request] [Limit the number of concurrent requests to historical data (RPC)](https://github.com/Consensys/teku/pull/9689) - 2025-07-21
 * [Commit] [Dependency sweep (#9683)](https://github.com/Consensys/teku/commit/3f31a217637480935449898c1a0e2d7cd23f7f0e) - 2025-07-22
+* [Pull Request] [[EIP-7892] BPO changes (fusaka-devnet-2)](https://github.com/Consensys/teku/pull/9706) - 2025-07-24
 ## Q2 2025
 
 

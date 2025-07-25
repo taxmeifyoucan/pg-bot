@@ -77,6 +77,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [try](https://github.com/erigontech/erigon/commit/3a9895acf9811f0cc75fca9743fd0dfea0276b79) - 2025-07-22
 * [Pull Request] [Remove spamming logs for requesting blobs not exist](https://github.com/erigontech/erigon/pull/16210) - 2025-07-22
 * [Commit] [qa-tests: fix tip tracking Gnosis datadir (#16088)](https://github.com/erigontech/erigon/commit/aa1c102cf8ed502ba4f2148abaacde9a98b17e16) - 2025-07-22
+* [Commit] [update](https://github.com/erigontech/erigon/commit/3b066e1ca90acfecb66e061f8316a5bd69c8833f) - 2025-07-24
+* [Commit] [Revert "debug"](https://github.com/erigontech/erigon/commit/52516ebd4319c9e876eb2564f6a054f17e9cab92) - 2025-07-24
 ## Q2 2025
 
 

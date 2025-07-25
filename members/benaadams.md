@@ -130,6 +130,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Also move stateprovider.Reset to background](https://github.com/NethermindEth/nethermind/commit/5f4f847b445b852f4bfcb0994af9fe695102662b) - 2025-07-23
 * [Commit] [Remove Linq from Block Processing (#9025)](https://github.com/NethermindEth/nethermind/commit/be03dcfe14e1b8912b1b6898d21419e877062bf5) - 2025-07-23
 * [Commit] [Fix devnet 3 (#9022)](https://github.com/NethermindEth/nethermind/commit/2fd4f27ff9546184188f617f56993d9f084a1313) - 2025-07-23
+* [Commit] [Let caches clear in background](https://github.com/NethermindEth/nethermind/commit/9a92ec528d6782788357a4f1046c43799830930c) - 2025-07-24
 ## Q2 2025
 
 

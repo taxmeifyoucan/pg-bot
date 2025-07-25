@@ -403,6 +403,10 @@ Team: Erigon
 * [Commit] [merge main](https://github.com/erigontech/erigon/commit/c988c6765b29e68c208381239d855c7762e53fcb) - 2025-07-23
 * [Commit] [Fix eth_getProof on hisotry values (#16220)](https://github.com/erigontech/erigon/commit/aa037cf433764d8281b7fd3ef64294644c6a30ef) - 2025-07-23
 * [Commit] [[r31] receipt_generator: follow `--rpc.evmtimeout` (#16118)](https://github.com/erigontech/erigon/commit/b1ab89c178c1af65d35db218047cfdfea8aa7996) - 2025-07-23
+* [Commit] [Caplin: fixed `CaplinTypeString` parsing for v3.1 (#16221)](https://github.com/erigontech/erigon/commit/f57742b927656c3c92d7bdc34abda4744b6aade6) - 2025-07-24
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/ebf133b1d512dd8bc2bc52389fdf6f08143a7f8b) - 2025-07-24
+* [Commit] [more deterministic prune (#16069)](https://github.com/erigontech/erigon/commit/3b4bb45bfb8bd722ac0d8a75a5988f4233434808) - 2025-07-24
+* [Commit] [rpcdaemon/kvserver: impl HistoryStartFrom on KvServer (#16254)](https://github.com/erigontech/erigon/commit/e0e1147a53b7499100ef5812b2f562d1aee9a54e) - 2025-07-24
 ## Q2 2025
 
 

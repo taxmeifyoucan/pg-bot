@@ -19,6 +19,14 @@ Team: Reth
 * [Commit] [fix: fully deprecate serde-json (#2767)](https://github.com/bluealloy/revm/commit/975071db304c02dc512151317f59c59d0162062e) - 2025-07-23
 * [Pull Request] [fix: fully deprecate serde-json](https://github.com/bluealloy/revm/pull/2767) - 2025-07-23
 * [Pull Request] [fix: features and check in ci](https://github.com/bluealloy/revm/pull/2766) - 2025-07-23
+* [Commit] [perf: improve inspector loop (#2776)](https://github.com/bluealloy/revm/commit/e42a93a86580da9c861e568f24d86482532f3560) - 2025-07-24
+* [Pull Request] [chore: rename custom-precompile-journal](https://github.com/bluealloy/revm/pull/2792) - 2025-07-24
+* [Pull Request] [ci: unpin typos](https://github.com/bluealloy/revm/pull/2790) - 2025-07-24
+* [Pull Request] [chore: add rust-version and note about MSRV](https://github.com/bluealloy/revm/pull/2789) - 2025-07-24
+* [Pull Request] [ci: unpin typos](https://github.com/bluealloy/revm/pull/2788) - 2025-07-24
+* [Pull Request] [chore: add OnceLock re-export with no_std support](https://github.com/bluealloy/revm/pull/2787) - 2025-07-24
+* [Commit] [chore: fix clippy (#2785)](https://github.com/bluealloy/revm/commit/9c0a3d2f42c919b570ad8aa3aba0d537dc563063) - 2025-07-24
+* [Pull Request] [chore: fix clippy](https://github.com/bluealloy/revm/pull/2785) - 2025-07-24
 ## Q2 2025
 
 

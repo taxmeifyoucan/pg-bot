@@ -32,6 +32,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: lint](https://github.com/ChainSafe/lodestar/commit/d7eac4dd2afe393035189988f07ed11b3a03305f) - 2025-07-14
 * [Pull Request] [feat: ensure enough peers on all subnets](https://github.com/ChainSafe/lodestar/pull/8057) - 2025-07-14
 * [Issue] [Cannot track rate limited error](https://github.com/ChainSafe/lodestar/issues/8065) - 2025-07-17
+* [Commit] [fix: avoid showing stale metrics on grafana](https://github.com/ChainSafe/lodestar/commit/682701d4c669fe4af5da60e664ef0cdb8ac23715) - 2025-07-24
+* [Commit] [fix: track packed attestations by buckets](https://github.com/ChainSafe/lodestar/commit/7bc016d0888597a2b2eaf267b72fb3e423785f96) - 2025-07-24
+* [Commit] [fix: increase max consolidations](https://github.com/ChainSafe/lodestar/commit/16d24459955b357cc8b2c1f856ef8676b1d4dd83) - 2025-07-24
 ## Q2 2025
 
 

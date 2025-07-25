@@ -24,6 +24,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [update Fulu builder API](https://github.com/status-im/nimbus-eth2/commit/7b6aa63a6b40c1b8bfcaa99985ee2eca3d56676c) - 2025-07-21
 * [Pull Request] [update Fulu builder API](https://github.com/status-im/nimbus-eth2/pull/7308) - 2025-07-21
 * [Commit] [log: formatting for PubKey0x (#7307)](https://github.com/status-im/nimbus-eth2/commit/9e3be731bf03254df5fe8613edbce7c7f129b94a) - 2025-07-22
+* [Commit] [import datatypes/bellatrix as single package (#7325)](https://github.com/status-im/nimbus-eth2/commit/0f8ec2d2293a5dd4e637ce4dfbf663212f2e5900) - 2025-07-24
+* [Pull Request] [import datatypes/bellatrix as single package](https://github.com/status-im/nimbus-eth2/pull/7325) - 2025-07-24
+* [Commit] [move Electra fork from optional to required fork for deposits (#7322)](https://github.com/status-im/nimbus-eth2/commit/34c1f91b3b79fd08764aa2ed3e56adeb2f78d7a4) - 2025-07-24
+* [Pull Request] [move Electra fork from optional to required fork for deposits](https://github.com/status-im/nimbus-eth2/pull/7322) - 2025-07-24
+* [Commit] [Remove Electra fork from optional forks VC supports. (#7321)](https://github.com/status-im/nimbus-eth2/commit/2a7c918db1850b9359d8868f1af4b26caf3b674b) - 2025-07-24
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

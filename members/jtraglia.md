@@ -24,6 +24,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Make several updates to EIP-7732 spec (#4438)](https://github.com/ethereum/consensus-specs/commit/e0d2005bd57b135d3e0d6f9874a454cc9a2741a6) - 2025-07-18
 * [Pull Request] [In `get_custody_groups`, skip computation if all groups are custodied](https://github.com/ethereum/consensus-specs/pull/4459) - 2025-07-23
 
+* [Commit] [eip7732: add becoming builder section (#4456)](https://github.com/ethereum/consensus-specs/commit/73eb5c8fbd04ea2ea449ffada68fdf11f90e71b8) - 2025-07-24
+* [Commit] [Fix duplicate function call (#4460)](https://github.com/ethereum/consensus-specs/commit/1232edcbe892363e8c54b7e65a19ab21fb009582) - 2025-07-24
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 ## Q2 2025

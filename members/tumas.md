@@ -23,6 +23,7 @@ Team: Grandine
 * [Commit] [Improve `pubkey_cache` info messages](https://github.com/grandinetech/grandine/commit/f57f5fc92f0568c6a35ae25761c21796d24c528c) - 2025-07-16
 * [Commit] [Add `GET /eth/v1/beacon/blinded_blocks/{block_id}` endpoint](https://github.com/grandinetech/grandine/commit/cc9632ffcca012f8b47a74fd4f29dd02661df9c8) - 2025-07-16
 * [Pull Request] [Improve `pubkey_cache` info messages](https://github.com/grandinetech/grandine/pull/262) - 2025-07-16
+* [Pull Request] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/270) - 2025-07-24
 ## Q2 2025
 
 

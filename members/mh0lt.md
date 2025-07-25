@@ -93,6 +93,7 @@ Team: Erigon
 * [Commit] [log touch](https://github.com/erigontech/erigon/commit/8baffb0ddf85c06e07e590106cb0fb7df4c26891) - 2025-07-21
 * [Commit] [no system tx on genesis](https://github.com/erigontech/erigon/commit/370e55b08df1f0f8c11f06ad32403e0f8aae075a) - 2025-07-22
 * [Commit] [close in on map exit](https://github.com/erigontech/erigon/commit/1bb27aa8aae1b30bd1f94dd6fd40fc2e460074d7) - 2025-07-23
+* [Commit] [out close back to map](https://github.com/erigontech/erigon/commit/77d663fc33f0cf5efd2a8442235d38e2101abb78) - 2025-07-24
 ## Q2 2025
 
 

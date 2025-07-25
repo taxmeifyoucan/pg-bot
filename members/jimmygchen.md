@@ -38,6 +38,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Remove KZG verification on blobs fetched from the EL](https://github.com/sigp/lighthouse/pull/7771) - 2025-07-22
 * [Pull Request] [Grafana metrics dashboard generator for all Lighthouse metrics](https://github.com/sigp/lighthouse/pull/7769) - 2025-07-22
 * [Pull Request] [Remove peer sampling code.](https://github.com/sigp/lighthouse/pull/7768) - 2025-07-22
+* [Commit] [Change default state cache size back to 128 (#7364)](https://github.com/sigp/lighthouse/commit/6c8770e80d0339e037407cd59e3c41464f1ad385) - 2025-07-24
+* [Pull Request] [Bump Rust version to 1.88](https://github.com/sigp/lighthouse/pull/7787) - 2025-07-24
+* [Commit] [Backfill peer attribution (#7762)](https://github.com/sigp/lighthouse/commit/3610fb5c660ee88ed47a0b45217e9fb7418fb54a) - 2025-07-24
 ## Q2 2025
 
 

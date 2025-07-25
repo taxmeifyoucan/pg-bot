@@ -24,6 +24,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [update eip7951 gas](https://github.com/ethereum/execution-specs/commit/a91a505fabb60da82063afa6f5b9fcfb8436f3b9) - 2025-07-15
 
 * [Issue] [CI doesn't produce useful stacktraces when pypy3 finishes first.](https://github.com/ethereum/execution-specs/issues/1331) - 2025-07-17
+* [Pull Request] [Fix typing between bytes and bytearray](https://github.com/ethereum/execution-specs/pull/1344) - 2025-07-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-7932: Fix some typos (#10011)](https://github.com/ethereum/EIPs/commit/9e953a254861cf86dc6d55f1f90a54807cfecdb1) - 2025-07-16
 ## Q2 2025

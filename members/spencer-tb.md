@@ -51,6 +51,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): multi tx excess blob gas eip4844 tests.](https://github.com/ethereum/execution-spec-tests/commit/6b7a7bd4ec953089fb22b6779f4d8db136effa84) - 2025-07-18
 * [Commit] [chore(benchmark): change to collection level only.](https://github.com/ethereum/execution-spec-tests/commit/9998edcc75ecac14f7a25af28f8410b37702cfb4) - 2025-07-18
 * [Commit] [fix(fixtures,specs): Fix Engine X Env->Genesis Conversion (#1914)](https://github.com/ethereum/execution-spec-tests/commit/cb969b664eae97ae0173492e0148225da1ce6ec2) - 2025-07-18
+* [Commit] [fix(plugins): remove cwd change before running pytest (#1943)](https://github.com/ethereum/execution-spec-tests/commit/57eee322d8c71cf3d1b41e02ff8e0c020597c47a) - 2025-07-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07
