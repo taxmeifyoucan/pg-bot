@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Triple the general price to reflect the last change in EIP-7883](https://github.com/hyperledger/besu/commit/2026f87a39fad69f297df78a93ee7e801e7c5a1f) - 2025-07-07
 * [Pull Request] [Make precompile benchmarks more accurate](https://github.com/hyperledger/besu/pull/8921) - 2025-07-07
 * [Pull Request] [Improve BENCHMARKING.md documentation](https://github.com/hyperledger/besu/pull/9001) - 2025-07-24
+* [Issue] [Add gas used metric on eth_call](https://github.com/hyperledger/besu/issues/9004) - 2025-07-25
 ## Q2 2025
 
 

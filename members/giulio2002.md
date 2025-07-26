@@ -84,6 +84,14 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/5e8f779e6650aba38372b028cf58dedf3d7f4631) - 2025-07-22
 * [Pull Request] [Caplin: added new queue endpoints for deposit lists](https://github.com/erigontech/erigon/pull/16219) - 2025-07-22
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a9a6baf584bf043f03679e2321033ee364d8d84a) - 2025-07-22
+* [Pull Request] [Erigon v3: do not terminate `exec3` after pruning unless batch is full](https://github.com/erigontech/erigon/pull/16295) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0d936049394258abe33e3c19e0e5d2f16f0f3caf) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2e97ad5a2c98868fb50c7d560ff70ced8d80b657) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/037106b7a8b31213d1acb3c6bab342be3b7e22aa) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f9719c9fef8db483ef7b6fb7a2284616d3d32ae9) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fde7bd6250a5690486e8dad41df6a3234e73115e) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a433d471153a4ea81536c5148df026eb19dd2bc7) - 2025-07-25
+* [Commit] [Fix Integration tests after turning p2p into a module (#15270)](https://github.com/erigontech/erigon/commit/14a6a089e28f5f7e7da11cfca8488281cfb179a2) - 2025-07-25
 ## Q2 2025
 
 

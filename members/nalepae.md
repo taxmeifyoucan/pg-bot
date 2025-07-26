@@ -62,6 +62,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [clean](https://github.com/OffchainLabs/prysm/commit/1e1c3417c8b8c3864991507a7ece57a7fff274e8) - 2025-07-22
 * [Commit] [clean](https://github.com/OffchainLabs/prysm/commit/7061c7d86cb9cf2ccc12de5ab4ab4c6c7e5f9a68) - 2025-07-22
 * [Commit] [`/eth/v1/node/identity`: Add `syncnets` and `custody_group_count`.](https://github.com/OffchainLabs/prysm/commit/53614540f8f54b75410a07bb4260bea528f0f0db) - 2025-07-22
+* [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/c986836357c35fc7a61d6fbc8e4320211c0af200) - 2025-07-25
+* [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/64c07080382a19b4bae367b24071dc0fc20825c4) - 2025-07-25
 ## Q2 2025
 
 

@@ -34,6 +34,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix duplicate function call](https://github.com/ethereum/consensus-specs/pull/4460) - 2025-07-24
+* [Pull Request] [eip-7732: Fix quorum calc](https://github.com/ethereum/consensus-specs/pull/4465) - 2025-07-25
 ## Q2 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

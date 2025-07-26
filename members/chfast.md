@@ -15,6 +15,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [evm: use evmone for ModExp](https://github.com/erigontech/erigon/commit/d217157958af3a95d405576d539bb327360422b2) - 2025-07-14
 * [Commit] [Revert "evm: use evmone for ModExp"](https://github.com/erigontech/erigon/commit/7ab8d58b2b7cb5060e8f6144e6ded9af89cd40fb) - 2025-07-16
 
+* [Commit] [upgrade evmone_precompiles for better modexp performance](https://github.com/erigontech/erigon/commit/e8944928048a0ec9ecd62d75d926cf0c10783728) - 2025-07-25
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Commit] [ci: Speed up the clang-tidy build (#1272)](https://github.com/ipsilon/evmone/commit/b5f77d6f6e4fae55ae9a027c4bc3d203766d1ec3) - 2025-07-21
 * [Pull Request] [ci: Speed up the clang-tidy build](https://github.com/ipsilon/evmone/pull/1272) - 2025-07-21

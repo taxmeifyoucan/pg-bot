@@ -28,6 +28,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Fix duplicate function call (#4460)](https://github.com/ethereum/consensus-specs/commit/1232edcbe892363e8c54b7e65a19ab21fb009582) - 2025-07-24
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
+
+[ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
+* [Pull Request] [Remove point-at-infinity filter in g1_lincomb_fast](https://github.com/ethereum/c-kzg-4844/pull/588) - 2025-07-25
 ## Q2 2025
 
 

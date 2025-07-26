@@ -33,6 +33,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [refactor approach](https://github.com/status-im/nimbus-eth2/commit/4da79c09105fcd3fdc11d560ae078800ad1213b1) - 2025-07-23
 * [Pull Request] [fusaka devnet 3 branch](https://github.com/status-im/nimbus-eth2/pull/7320) - 2025-07-23
 * [Commit] [reinit of vcus detection](https://github.com/status-im/nimbus-eth2/commit/298e8635afe563995809ac71de9d436a762f0495) - 2025-07-23
+* [Commit] [bump down sidecarless](https://github.com/status-im/nimbus-eth2/commit/8b9bf287c898c4aafa19804e46c5b7ee673679c2) - 2025-07-25
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth2/commit/636d95a01156bb3a903227de9494bf96f82e393c) - 2025-07-25
+* [Commit] [use EF consensus spec v1.6.0-alpha.3 test vectors (#7287)](https://github.com/status-im/nimbus-eth2/commit/97ed32ad9a0c8ce5e54fd22f59b8f663e46c7cbc) - 2025-07-25
 ## Q2 2025
 
 

@@ -42,6 +42,14 @@ Team: Erigon
 * [Commit] [added commented test](https://github.com/erigontech/erigon/commit/e3514cb5bd606c60be5b90a2c9643f470931764e) - 2025-07-23
 * [Pull Request] [Fix `getProof` edge cases correctly](https://github.com/erigontech/erigon/pull/16251) - 2025-07-23
 * [Commit] [cp: Optimised snapshot read operations for BorEvents (#15993) (#16140)](https://github.com/erigontech/erigon/commit/ab7ac769fbf836981b869ccdd299ba1ae42bece6) - 2025-07-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ae2375320a7a0322ba55d1b017fcf5313fdb4b70) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/50f71c0d5737994c2bed454a4e91d393b00d1a1d) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b8def0f39094187e38e9baf6030bcf2ea5c7c2cf) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4ffe08491a9bb90386d0031c4ea6465127d72efe) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9f6ea7cfcbf0a0a089554fb76c7cec6414f81a73) - 2025-07-25
+* [Commit] [Fix: RpcTx after merge (#16284)](https://github.com/erigontech/erigon/commit/a223ca17c43424b549dd900904e35cde115080bd) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/94065b3cf56ebf441988a8a52be930f64f9f00e3) - 2025-07-25
+* [Pull Request] [skip flaky test for prooving storage subtrie with common prefix](https://github.com/erigontech/erigon/pull/16290) - 2025-07-25
 ## Q2 2025
 
 

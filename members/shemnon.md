@@ -16,6 +16,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ash
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Change precompile name in eth_config](https://github.com/hyperledger/besu/pull/8986) - 2025-07-21
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [Add eth_config API definitions for EIP-7910](https://github.com/ethereum/execution-apis/pull/678) - 2025-07-25
 ## Q2 2025
 
 

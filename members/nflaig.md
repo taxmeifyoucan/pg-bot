@@ -41,6 +41,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: detect weak head when predicting proposer head](https://github.com/ChainSafe/lodestar/pull/8079) - 2025-07-23
 * [Pull Request] [fix: call `afterProcessEpoch` after upgrading state to next fork](https://github.com/ChainSafe/lodestar/pull/8082) - 2025-07-24
 * [Commit] [fix: detect weak head when predicting proposer head (#8079)](https://github.com/ChainSafe/lodestar/commit/ea1977daefa669ebf17d639feb4d8d462ba20db6) - 2025-07-24
+* [Commit] [fix: query shuffling from cache to compute proposer lookahead (#7988)](https://github.com/ChainSafe/lodestar/commit/fb2621434ecb9fd786a66ea6dba2abd4e7be38f5) - 2025-07-25
 ## Q2 2025
 
 

@@ -42,6 +42,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/8685eecb2135a0579985ca7bc9e20bdc5889bf1c) - 2025-07-21
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/abc58043cd016ff9e5dd09449dc5796868210db7) - 2025-07-21
 * [Pull Request] [More info in dbug torrent progess](https://github.com/erigontech/erigon/pull/16249) - 2025-07-23
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/9fa6ec2d015ec97d52cde4d35a1b33ad2cac8788) - 2025-07-25
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/b1d92a18799fbcedbcfd76cd1948141f7db45af4) - 2025-07-25
+* [Pull Request] [[r3.1] auto upgrade snapshots](https://github.com/erigontech/erigon/pull/16288) - 2025-07-25
+* [Pull Request] [[r3.2] auto upgrade](https://github.com/erigontech/erigon/pull/16287) - 2025-07-25
 ## Q2 2025
 
 

@@ -52,6 +52,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix: tox](https://github.com/ethereum/execution-spec-tests/commit/eadb84e58df3d7a943cb6fa6df5c79b4090dd596) - 2025-07-23
 * [Issue] [chore(tests): Port all `stTimeConsuming` to benchmark tests folder](https://github.com/ethereum/execution-spec-tests/issues/1947) - 2025-07-24
 * [Commit] [Map TYPE_3_TX_BLOB_COUNT_EXCEEDED (#1944)](https://github.com/ethereum/execution-spec-tests/commit/5515a70106341a37dd8611dde85f6f5f5e83eede) - 2025-07-24
+* [Commit] [fix: minor fix](https://github.com/ethereum/execution-spec-tests/commit/ecb5c5ee0f83ee280fbc371bc70ddcee85a77677) - 2025-07-25
+* [Commit] [chore(benchmark): don't fill benchmark tests by default (#1920)](https://github.com/ethereum/execution-spec-tests/commit/4939c1c5c6619763d1039c9e7bddb0f40fee7ba4) - 2025-07-25
+* [Commit] [feat(consume): add --extract-to parameter for direct fixture extraction (#1861)](https://github.com/ethereum/execution-spec-tests/commit/ebfd451f1e9c8881c2a203008905a4f01d47f244) - 2025-07-25
+* [Commit] [fix(static_tests): adjusted gasLimit to only allow gasLimit of up to 30mil (#1924)](https://github.com/ethereum/execution-spec-tests/commit/292095372304622207fca794ce39dbd54f7e6819) - 2025-07-25
+* [Commit] [feat(tests): remove the static performance test calling SHA256 5000x (#1949)](https://github.com/ethereum/execution-spec-tests/commit/59084a7983254d3c5773fe41bf6de77f22289057) - 2025-07-25
+* [Commit] [fix(unit_tests): fixed blob unit tests when run with xdist (#1946)](https://github.com/ethereum/execution-spec-tests/commit/f287901969439798674904f1e94ca6daf34fa66f) - 2025-07-25
+* [Commit] [chore(tests): remove slow/zkevm markers from benchmark tests. (#1953)](https://github.com/ethereum/execution-spec-tests/commit/50fdf396b127ae57e5ef24c8cf9768478c648b73) - 2025-07-25
+* [Commit] [fix(plugins): Don't copy test list during collection (#1936)](https://github.com/ethereum/execution-spec-tests/commit/e88cd81bf719a067b39512e72852d3ed67d9f7f5) - 2025-07-25
+* [Commit] [chore: bump eels resolver (#1950)](https://github.com/ethereum/execution-spec-tests/commit/9ad9f5b93d8e1bd231e23ca29fd80b9ea6f5716f) - 2025-07-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

@@ -30,6 +30,12 @@ Team: Reth
 * [Commit] [chore(consensus): refactor fork and ommers check into standalone fn](https://github.com/paradigmxyz/reth/commit/06cab3b9e7d88a9c694de7aa08c3159462bcf993) - 2025-07-15
 * [Issue] [Reveal decoded storage multiproofs in parallel](https://github.com/paradigmxyz/reth/issues/17430) - 2025-07-15
 
+* [Commit] [chore(merkle): encoding fixes](https://github.com/paradigmxyz/reth/commit/4f8e3147260390e126e9edf2a7179e385ca5adde) - 2025-07-25
+* [Commit] [chore(merkle): encoding fixes](https://github.com/paradigmxyz/reth/commit/9ee111bd1c7ef4696d3d9e8dff8edab1a1d0c1de) - 2025-07-25
+* [Commit] [chore(merkle): encoding fixes](https://github.com/paradigmxyz/reth/commit/f39f9e98cb03fa55926af9eee0b10fbdb36249ff) - 2025-07-25
+* [Commit] [chore(merkle): encoding fixes](https://github.com/paradigmxyz/reth/commit/949462fa84612630d9166820f3375f5f148a991c) - 2025-07-25
+* [Commit] [chore(merkle): encoding fixes](https://github.com/paradigmxyz/reth/commit/60e993a6c352186e84945d022962e6740c10b56e) - 2025-07-25
+* [Commit] [chore(merkle): encoding fixes](https://github.com/paradigmxyz/reth/commit/0d8a3611646f705a0b5ae08f858d4fbdd665dae6) - 2025-07-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(interpreter): update docs for slice_mut and slice_range](https://github.com/bluealloy/revm/pull/2714) - 2025-07-15
 * [Pull Request] [feat: expose sha3-keccak in revm and revm-primitives](https://github.com/bluealloy/revm/pull/2713) - 2025-07-15

@@ -112,6 +112,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Extra log](https://github.com/NethermindEth/nethermind/commit/10031dd908a56374bc0052844a9637a5bb498dd0) - 2025-07-24
 * [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/5f39e29e906bf1816ae7d9b55992c6adf505e9ff) - 2025-07-24
 * [Commit] [Minor cleanup](https://github.com/NethermindEth/nethermind/commit/a8b90a1534587e6c2cd32784402c7fab28f8965c) - 2025-07-24
+* [Commit] [Addressing comment](https://github.com/NethermindEth/nethermind/commit/6261c79173a0ab68642653f873a76291b3214c57) - 2025-07-25
+* [Pull Request] [Fix/Orphaned block error on freshly restarted node](https://github.com/NethermindEth/nethermind/pull/9034) - 2025-07-25
 ## Q2 2025
 
 

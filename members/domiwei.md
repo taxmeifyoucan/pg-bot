@@ -79,6 +79,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [qa-tests: fix tip tracking Gnosis datadir (#16088)](https://github.com/erigontech/erigon/commit/aa1c102cf8ed502ba4f2148abaacde9a98b17e16) - 2025-07-22
 * [Commit] [update](https://github.com/erigontech/erigon/commit/3b066e1ca90acfecb66e061f8316a5bd69c8833f) - 2025-07-24
 * [Commit] [Revert "debug"](https://github.com/erigontech/erigon/commit/52516ebd4319c9e876eb2564f6a054f17e9cab92) - 2025-07-24
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/1e94ad919df328b121dd824cba297158ae837888) - 2025-07-25
+* [Commit] [verify blobs](https://github.com/erigontech/erigon/commit/fe91d6f3d6f812ed3033ed36afc0dee6576414f0) - 2025-07-25
+* [Commit] [rm unused dir](https://github.com/erigontech/erigon/commit/409ec48396856380d7393b449454d19623c4f047) - 2025-07-25
+* [Commit] [rm unused dir](https://github.com/erigontech/erigon/commit/a4c6ddf842b2b73ec127578d3b1623d689168e70) - 2025-07-25
+* [Commit] [rm unused dir](https://github.com/erigontech/erigon/commit/fc21537089c91a187b487cae40c3d4be3a27bf60) - 2025-07-25
+* [Commit] [verify blobs](https://github.com/erigontech/erigon/commit/b7750899b06690ed9a23674d7534efb5888ea1c6) - 2025-07-25
+* [Commit] [Remove spamming logs for requesting blobs not exist (#16210)](https://github.com/erigontech/erigon/commit/fc6d3702e64c82c5b8a4d64f5bf7a942728e2443) - 2025-07-25
 ## Q2 2025
 
 

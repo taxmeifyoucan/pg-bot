@@ -43,6 +43,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [fix: `logIndex` in `getBlockReceipts`](https://github.com/paradigmxyz/reth/pull/17519) - 2025-07-21
 * [Pull Request] [refactor: small simplifications for tree types](https://github.com/paradigmxyz/reth/pull/17589) - 2025-07-23
 * [Pull Request] [refactor: reorder engine steps](https://github.com/paradigmxyz/reth/pull/17598) - 2025-07-24
+* [Commit] [rm bad block hook from tree](https://github.com/paradigmxyz/reth/commit/40e192de488f290bbb721571675e463e0e2cb2ef) - 2025-07-25
+* [Commit] [chore: some validator docs (#17606)](https://github.com/paradigmxyz/reth/commit/13154fbef04794c018ca4cc239f74f0003987223) - 2025-07-25
+* [Commit] [validate_payload_attributes_against_header](https://github.com/paradigmxyz/reth/commit/a9ec0cecc974cc0b5d12da145a22a744c02258f2) - 2025-07-25
 ## Q2 2025
 
 

@@ -35,6 +35,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: avoid showing stale metrics on grafana](https://github.com/ChainSafe/lodestar/commit/682701d4c669fe4af5da60e664ef0cdb8ac23715) - 2025-07-24
 * [Commit] [fix: track packed attestations by buckets](https://github.com/ChainSafe/lodestar/commit/7bc016d0888597a2b2eaf267b72fb3e423785f96) - 2025-07-24
 * [Commit] [fix: increase max consolidations](https://github.com/ChainSafe/lodestar/commit/16d24459955b357cc8b2c1f856ef8676b1d4dd83) - 2025-07-24
+* [Commit] [fix: validate aggregateAndProof unit test](https://github.com/ChainSafe/lodestar/commit/3ad04bf1e75ac05ce983b6ba06c9ffdbbffab888) - 2025-07-25
+* [Pull Request] [feat: store more SingleAttestation slots](https://github.com/ChainSafe/lodestar/pull/8084) - 2025-07-25
+* [Commit] [fix: also call seenAggregatedAttestation from api](https://github.com/ChainSafe/lodestar/commit/49b30e31dce7e1e5b67760be25a22abcb426f6e1) - 2025-07-25
 ## Q2 2025
 
 

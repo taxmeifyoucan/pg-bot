@@ -14,6 +14,12 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [add trace filter](https://github.com/NethermindEth/nethermind/commit/066cf49a2222ed2e8079fec4cd2f63db04f2f9de) - 2025-07-08
 * [Commit] [make it possible to extend tracers (#8955)](https://github.com/NethermindEth/nethermind/commit/10bb626a72078f3edde4fb01653a719e2d891712) - 2025-07-09
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/20b5eea53b906e8a60a10bbf45cf7a00920a8f77) - 2025-07-25
+* [Commit] [refactor(init): replace fixed delay with event-driven block processing readiness (#8948)](https://github.com/NethermindEth/nethermind/commit/3e549ad2da9a87e3ab37779a7394f0de5c1d7113) - 2025-07-25
+* [Pull Request] [Sync with master](https://github.com/NethermindEth/nethermind/pull/9035) - 2025-07-25
+* [Commit] [merge master](https://github.com/NethermindEth/nethermind/commit/002f0e38d637477e7c1e929aa6a8a1cd289afd12) - 2025-07-25
+* [Commit] [Merge feature/arbitrum-setup](https://github.com/NethermindEth/nethermind/commit/eb728975dd69f3a2cd1300b35ffbba42fa2d3cd9) - 2025-07-25
+* [Commit] [keep VirtualMachineBase in the same file (#9033)](https://github.com/NethermindEth/nethermind/commit/70a269eeb34126a01a2a7d34955721aa5386a4b9) - 2025-07-25
 ## Q2 2025
 
 

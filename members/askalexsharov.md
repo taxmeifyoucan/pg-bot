@@ -407,6 +407,42 @@ Team: Erigon
 * [Commit] [merge main](https://github.com/erigontech/erigon/commit/ebf133b1d512dd8bc2bc52389fdf6f08143a7f8b) - 2025-07-24
 * [Commit] [more deterministic prune (#16069)](https://github.com/erigontech/erigon/commit/3b4bb45bfb8bd722ac0d8a75a5988f4233434808) - 2025-07-24
 * [Commit] [rpcdaemon/kvserver: impl HistoryStartFrom on KvServer (#16254)](https://github.com/erigontech/erigon/commit/e0e1147a53b7499100ef5812b2f562d1aee9a54e) - 2025-07-24
+* [Commit] [[r3.2] auto upgrade snapshots (#16287)](https://github.com/erigontech/erigon/commit/55abbceb52be8a1b14745722f73c6a6eaa7114e2) - 2025-07-25
+* [Commit] [create dedicated file for `dirty_files` concept  (#16275)](https://github.com/erigontech/erigon/commit/379efa47f151fe1caac5ccba57923d1e4a35f9a9) - 2025-07-25
+* [Commit] [[r3.1] auto upgrade snapshots (#16288)](https://github.com/erigontech/erigon/commit/ca5511390481ec6bd9abacac5d151d4206784268) - 2025-07-25
+* [Commit] [[r32] recsplit: backward compatibility  (#16282)](https://github.com/erigontech/erigon/commit/45685b2eacbdf7dd1014c012c790e5f59e9e5408) - 2025-07-25
+* [Commit] [[release/3.0][rpctest]: BenchTraceTransaction (#14729)](https://github.com/erigontech/erigon/commit/b89b7f5fe5966bd6bae7f4b2b5de4ca51e45b7b5) - 2025-07-25
+* [Commit] [fix TestDump flakiness (#16279)](https://github.com/erigontech/erigon/commit/2c7b0b153f709e60519fe46ac2dd8ced3e5e1342) - 2025-07-25
+* [Commit] [Update downloader related READMEs (#16248)](https://github.com/erigontech/erigon/commit/538d7b8c101199cb823c954b67083807445648ef) - 2025-07-25
+* [Commit] [[r3.1] recsplit: backward compatibility fix (#16281)](https://github.com/erigontech/erigon/commit/90172d1bc8a78ac93fd8aab54e285f233c6a8137) - 2025-07-25
+* [Commit] [Revert heimdallv2 upgrade temprorary commits (#16200) (#16265)](https://github.com/erigontech/erigon/commit/642027c75947dda42aded9ccdb30b5fc85cd0bcf) - 2025-07-25
+* [Pull Request] [[r32] recsplit: backward compatibility ](https://github.com/erigontech/erigon/pull/16282) - 2025-07-25
+* [Pull Request] [recsplit: backward compatibility fix](https://github.com/erigontech/erigon/pull/16281) - 2025-07-25
+* [Pull Request] [recsplit: backward compatible fix](https://github.com/erigontech/erigon/pull/16280) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9d7724d3f711b02ee305e0606da6614a8f403694) - 2025-07-25
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/f9932238b0533667e50f36630a3b13d18476051b) - 2025-07-25
+* [Pull Request] [Caplin: use etl's sync.Pool of sortable buffers](https://github.com/erigontech/erigon/pull/16276) - 2025-07-25
+* [Commit] [Fix `getProof` edge cases correctly (#16251)](https://github.com/erigontech/erigon/commit/e902c3dab34d754d13c115ed559dfb4e1b49d473) - 2025-07-25
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/3e0a1436e20d5caa6605110ba4a0a02aae7a9cda) - 2025-07-25
+* [Commit] [Refactor: Update bn256 Fuzzers to bn254 in oss-fuzz.sh (#16261)](https://github.com/erigontech/erigon/commit/56baeb70fd109f15880cd3ef5aca5d5635efcf7d) - 2025-07-25
+* [Pull Request] [create dedicated file for `dirty_files` concept ](https://github.com/erigontech/erigon/pull/16275) - 2025-07-25
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/21e53f1ff99553843e59d26d4503de00823e4881) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f2699b6c3ee7ee97d1b02479ae8c8516b281bcf1) - 2025-07-25
+* [Commit] [Properly handle file close errors when writing LLDB script (#16260)](https://github.com/erigontech/erigon/commit/76e11370e99346b09b71513d8bb706e2d23bde74) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/df994c7aba68e9bfc265d51edb9ef1f989de0377) - 2025-07-25
+* [Commit] [Added validation of ordering and consistency for state sync events inside the scraper (#16226)](https://github.com/erigontech/erigon/commit/1e4fb663ba61858da81bb29dee87c89f39dd319f) - 2025-07-25
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/966bcaba19335dd4eda04ba85bf28a66b88dd350) - 2025-07-25
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/e56351788454cc5993cc4a45aefa7476ade2456a) - 2025-07-25
+* [Commit] [execution/stagedsync: measure time spent in initial cycle (#16137)](https://github.com/erigontech/erigon/commit/320a22f2baa49b393047919931b17fba5c714249) - 2025-07-25
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/873111e8d1958017f969137a40e88a3bc7e7d072) - 2025-07-25
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/f07c050114e00b48b76d60aa311925ebdef8cc86) - 2025-07-25
+* [Commit] [rm state snapshots flag mixer (#15949)](https://github.com/erigontech/erigon/commit/9e605a63a8058f26e8e45bee25f17ce3109db0f5) - 2025-07-25
+* [Commit] [Revert "Added unlimited retry option to support HeimdallV2 migration … (#16264)](https://github.com/erigontech/erigon/commit/5b582bddc158e68a0bc6d1a1d176db77333321e1) - 2025-07-25
+* [Commit] [qa-tests: add "Tip tracking & migration" to Test Report (#16215)](https://github.com/erigontech/erigon/commit/3b29a71adac080818f8c8527a87951b76b4fb12e) - 2025-07-25
+* [Commit] [[3.2] more info in dbg trrent progress (#16271)](https://github.com/erigontech/erigon/commit/b878155c38997c37f2d7523aeee0522a18d46ee6) - 2025-07-25
+* [Commit] [tests: re-enable TestExecutionSpecBlockchain after devnet-3 changes (#16206)](https://github.com/erigontech/erigon/commit/a8c2718e1b9f9824feb99101160ba1431245240a) - 2025-07-25
+* [Commit] [rpc: Apply batch limit to WebSocket/IPC connections (#16255)](https://github.com/erigontech/erigon/commit/afbb53a307c60a748a60d7d64764509ea44e66bc) - 2025-07-25
+* [Commit] [qa-tests: re-enable Polygon sync-from-scratch test (minimal node) (#16269)](https://github.com/erigontech/erigon/commit/0edf810b10605be1c7ff98cbb0267c2ea2b3262d) - 2025-07-25
 ## Q2 2025
 
 

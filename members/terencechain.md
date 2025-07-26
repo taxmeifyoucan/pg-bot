@@ -31,10 +31,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Only update safe head if the highest block slot is current slot](https://github.com/OffchainLabs/prysm/commit/e72004f51d5df728fe82d5987e7c977f017d1a8c) - 2025-07-20
 * [Commit] [Remove unused variables, functions and more (#15264)](https://github.com/OffchainLabs/prysm/commit/93a5fdd8f35b0e9fa55b05bc06b8a45b38ae0093) - 2025-07-20
 
+* [Pull Request] [Fix builder bid version compatibility to support Electra bids with Fulu blocks](https://github.com/OffchainLabs/prysm/pull/15536) - 2025-07-25
+* [Commit] [Beacon api: fix proposer duty computation for fulu](https://github.com/OffchainLabs/prysm/commit/8c3375d87c7e1e29c49ec5d58fcd71c777817cc7) - 2025-07-25
+* [Pull Request] [Beacon api: fix proposer duty computation for fulu](https://github.com/OffchainLabs/prysm/pull/15534) - 2025-07-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23
 * [Pull Request] [eip7732: add becoming builder section](https://github.com/ethereum/consensus-specs/pull/4456) - 2025-07-23
+* [Pull Request] [eip7732: update self builder condition](https://github.com/ethereum/consensus-specs/pull/4464) - 2025-07-25
 ## Q2 2025
 
 

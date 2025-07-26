@@ -66,6 +66,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Update EIP-7883: Remove GasQuadDivisor from gasCalc equation](https://github.com/status-im/nimbus-eth1/pull/3496) - 2025-07-22
 * [Commit] [Update EIP-7883: Remove GasQuadDivisor from gacCalc equation](https://github.com/status-im/nimbus-eth1/commit/85c8bebd29eb2b275c4a08f6f596d320118a3a78) - 2025-07-22
 * [Commit] [Beacon sync maint update (#3464)](https://github.com/status-im/nimbus-eth1/commit/eefd7c48aacecb43bf3c048bf0b04aa18975576c) - 2025-07-24
+* [Commit] [debug log](https://github.com/status-im/nimbus-eth1/commit/0c64f7e728885f2ce54b2e87941a2e807821c652) - 2025-07-25
+* [Pull Request] [Fix peering issue](https://github.com/status-im/nimbus-eth1/pull/3511) - 2025-07-25
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 ## Q2 2025

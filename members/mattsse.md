@@ -95,6 +95,10 @@ Team: Reth
 * [Pull Request] [chore: move validation to standalone fns](https://github.com/paradigmxyz/reth/pull/17582) - 2025-07-23
 * [Pull Request] [fix(txpool): enforce encoded length check](https://github.com/paradigmxyz/reth/pull/17581) - 2025-07-23
 * [Commit] [fix(txpool): enforce encoded length check](https://github.com/paradigmxyz/reth/commit/545b9f3f984d4cfd02a085d618e38de5961a9fba) - 2025-07-23
+* [Issue] [Use Stream for fetching receipts chunks](https://github.com/paradigmxyz/reth/issues/17610) - 2025-07-25
+* [Issue] [Add debug_storageRangeAt support](https://github.com/paradigmxyz/reth/issues/17609) - 2025-07-25
+* [Pull Request] [chore: some validator docs](https://github.com/paradigmxyz/reth/pull/17606) - 2025-07-25
+* [Commit] [feat: integrate `EngineValidator` into `EngineApiTreeHandler` (#17603)](https://github.com/paradigmxyz/reth/commit/acc0fa674ccc6e053fa218231b31d306055ed310) - 2025-07-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

@@ -29,6 +29,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [move Electra fork from optional to required fork for deposits (#7322)](https://github.com/status-im/nimbus-eth2/commit/34c1f91b3b79fd08764aa2ed3e56adeb2f78d7a4) - 2025-07-24
 * [Pull Request] [move Electra fork from optional to required fork for deposits](https://github.com/status-im/nimbus-eth2/pull/7322) - 2025-07-24
 * [Commit] [Remove Electra fork from optional forks VC supports. (#7321)](https://github.com/status-im/nimbus-eth2/commit/2a7c918db1850b9359d8868f1af4b26caf3b674b) - 2025-07-24
+* [Commit] [allow fewer blobs than would match blocks per Electra validation update (#7332)](https://github.com/status-im/nimbus-eth2/commit/77fb37835b584b2e53e16cecfa34ab3ebd7b1199) - 2025-07-25
+* [Pull Request] [allow fewer blobs than would match blocks per Electra validation update](https://github.com/status-im/nimbus-eth2/pull/7332) - 2025-07-25
+* [Commit] [always mark next fork epoch (#7331)](https://github.com/status-im/nimbus-eth2/commit/08ee3791b38c51d7896d817c4e9e92ccafffe5b3) - 2025-07-25
+* [Commit] [always mark next fork epoch](https://github.com/status-im/nimbus-eth2/commit/6d9b247791b9c85430d8fc92c732696b3181c8ad) - 2025-07-25
+* [Pull Request] [always mark next fork epoch](https://github.com/status-im/nimbus-eth2/pull/7331) - 2025-07-25
+* [Commit] [Update SSZ test runner for new directory name (#7328)](https://github.com/status-im/nimbus-eth2/commit/6d2e1b69e80cfd557cb5c0e46bcf01782d13d185) - 2025-07-25
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

@@ -27,6 +27,7 @@ Team: Grandine
 * [Commit] [Show more detailed information in port in use error](https://github.com/grandinetech/grandine/commit/79a4ad298e30c3a9aba0f192f12a916ae51edae3) - 2025-07-24
 * [Pull Request] [Show more detailed information in port in use error](https://github.com/grandinetech/grandine/pull/271) - 2025-07-24
 * [Commit] [Allow to compute states one epoch further in the future if current slot is the last slot in the epoch](https://github.com/grandinetech/grandine/commit/668116b056241ccc860fe857ab4158aad2fd662a) - 2025-07-24
+* [Pull Request] [Backfill custody group columns](https://github.com/grandinetech/grandine/pull/274) - 2025-07-25
 ## Q2 2025
 
 

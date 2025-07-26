@@ -23,9 +23,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpcdaemon: align response (block not found) in case remote conf with local one (embedded or stand-alone) ](https://github.com/erigontech/erigon/pull/16029) - 2025-07-10
 * [Pull Request] [rpcdaemon/kvserver: Add tx id to history start from](https://github.com/erigontech/erigon/pull/16254) - 2025-07-23
 
+* [Pull Request] [rpcdaemon: impl admin_RemovePeer](https://github.com/erigontech/erigon/pull/16292) - 2025-07-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
+* [Commit] [add test on latest](https://github.com/erigontech/rpc-tests/commit/de239c6cd221bc78725404d87ad3b25b7bd07e74) - 2025-07-25
+* [Commit] [add eth_blockNumber method in the latest test & fix on api_under_test](https://github.com/erigontech/rpc-tests/commit/cadb0d4d7724be742596e3b89bd9b907383bb30d) - 2025-07-25
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

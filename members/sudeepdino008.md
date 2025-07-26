@@ -69,6 +69,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [wip: back compac re/rc](https://github.com/erigontech/erigon/pull/16204) - 2025-07-21
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b5533da577dbd6ed59f743f48c23b1e2282fc4dd) - 2025-07-22
 * [Commit] [cp: skip SyncSnapshots when preverified is local (#16208) (#16242)](https://github.com/erigontech/erigon/commit/d0c6777b15704d1069142e79e618233144310304) - 2025-07-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6511f0f9c68f89c00406089597951ca5020f2946) - 2025-07-25
+* [Pull Request] [cp [rpctest]: BenchTraceTransaction (#14729)](https://github.com/erigontech/erigon/pull/16285) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f6e6930e2e78f669833f03bf445a1e9798c5c22b) - 2025-07-25
+* [Commit] [[release/3.0][rpctest]: BenchBlockReceipts fix (#14778)](https://github.com/erigontech/erigon/commit/cddd7e3a201089f3776206b625a89d8a8dd74aef) - 2025-07-25
+* [Pull Request] [cp: fix for TestDump flakiness](https://github.com/erigontech/erigon/pull/16283) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/faedba67e0a87aab3a9dd6e0b880efeebefc68aa) - 2025-07-25
+* [Commit] [Cherry-picked disabling peerdas code pre-peerDAS (#16232)](https://github.com/erigontech/erigon/commit/33c0dfd5164892cfec5dd7a5373c5b1e240679cb) - 2025-07-25
+* [Pull Request] [fix TestDump flakiness](https://github.com/erigontech/erigon/pull/16279) - 2025-07-25
 ## Q2 2025
 
 

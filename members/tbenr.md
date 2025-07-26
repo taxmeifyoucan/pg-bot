@@ -31,6 +31,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Migrate to okHttp 5.x](https://github.com/Consensys/teku/issues/9682) - 2025-07-18
 * [Pull Request] [Fix misleading sync error reason](https://github.com/Consensys/teku/pull/9681) - 2025-07-18
 * [Issue] [DSA custody advertisement out of sync](https://github.com/Consensys/teku/issues/9680) - 2025-07-18
+* [Commit] [Fix slow sync outside DA (#9713)](https://github.com/Consensys/teku/commit/fba8125b636f8694ed05ff7f0157b6b81ea49043) - 2025-07-25
+* [Pull Request] [Fix slow sync outside DA](https://github.com/Consensys/teku/pull/9713) - 2025-07-25
 ## Q2 2025
 
 

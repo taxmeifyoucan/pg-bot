@@ -21,6 +21,17 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add EIP-7916 ProgressiveList specs and tests](https://github.com/ethereum/consensus-specs/pull/4445) - 2025-07-16
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/8ae1a04d0a47f89002a42687e631c96345ca99fc) - 2025-07-25
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/06cb044f6a6a2041935e95ec951c50765cd6f1dc) - 2025-07-25
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/062e24108ec192f7783a3949d98565a8bd05048b) - 2025-07-25
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/bc613fbcadee6cd9e73adcf439a6e531ffca819a) - 2025-07-25
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/25c1db169d5bc30da99053952c9655bde5ec69c9) - 2025-07-25
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/ba07baf610ae7f14f45bf2a85761ff1e61dafee6) - 2025-07-25
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/63907c3bdbec040c6129a3b3ac33c0aa9104fda6) - 2025-07-25
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/1ba482c52c474dcc18fe106774327835c45a3825) - 2025-07-25
+* [Commit] [update Fulu builder API (#7308)](https://github.com/status-im/nimbus-eth2/commit/22cce7a6f21612be931331b0dc6f1e922b460cd3) - 2025-07-25
 ## Q2 2025
 
 

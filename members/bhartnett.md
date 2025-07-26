@@ -32,6 +32,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Stateless: Use correct pre-state when building witness during import](https://github.com/status-im/nimbus-eth1/pull/3486) - 2025-07-18
 * [Commit] [Move block hashes cache into ledger and use a LruCache instead of a Table.](https://github.com/status-im/nimbus-eth1/commit/50aa756fd6c2b0b084606b728dcb2ecc7b97d933) - 2025-07-23
 * [Commit] [Add tests.](https://github.com/status-im/nimbus-eth1/commit/37b21447d108545f6028c3a772940c9c41abac47) - 2025-07-24
+* [Commit] [Always cache fetched block hash.](https://github.com/status-im/nimbus-eth1/commit/284e1deba4fd50a6459ed5af46843f4cf8e0f929) - 2025-07-25
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

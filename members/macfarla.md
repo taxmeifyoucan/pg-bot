@@ -40,6 +40,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Change precompile name in eth_config (#8986)](https://github.com/hyperledger/besu/commit/8dff8d913f6248344c2eb962766e8f32f74d1a7d) - 2025-07-22
 * [Pull Request] [ignore 4 failing tests which are failing locally at least on mac](https://github.com/hyperledger/besu/pull/9000) - 2025-07-24
 * [Commit] [Remove PoW ATs which were replaced by QBFT miner based ATs (#8949)](https://github.com/hyperledger/besu/commit/ad3b7c954f40c8ed9589c6cd61436c2e5ba231a3) - 2025-07-24
+* [Pull Request] [Backward sync - check we have peers before starting](https://github.com/hyperledger/besu/pull/9003) - 2025-07-25
 ## Q2 2025
 
 

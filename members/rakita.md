@@ -85,6 +85,14 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [perf: un-Box frames (#2761)](https://github.com/bluealloy/revm/commit/f501d003d291234274f5935cf6dd25b460f35104) - 2025-07-23
 * [Commit] [chore: collapse debug info for interpreter macros (#2780)](https://github.com/bluealloy/revm/commit/1ad68df196b3441588de935e8eb28a58849e487a) - 2025-07-24
 * [Commit] [chore: add gas_limit to revme evm (#2779)](https://github.com/bluealloy/revm/commit/76787ffb58593df7584d1716300e6a2db97170fd) - 2025-07-24
+* [Commit] [chore: fix inspector, cleanup loop (#2797)](https://github.com/bluealloy/revm/commit/6a736b39e039200dbb6f254aa641875235b37e32) - 2025-07-25
+* [Commit] [chore: fix run-tests.sh (#2801)](https://github.com/bluealloy/revm/commit/1477307e9ba3bb7dfb5403475ea226410bbf5354) - 2025-07-25
+* [Commit] [chore: start InstructionResult at 1 (#2802)](https://github.com/bluealloy/revm/commit/560d728d443609562e61cde47a585ab8fa62395d) - 2025-07-25
+* [Commit] [fix: nonce changed is not reverted in journal if fail due to insufficient balance (#2805)](https://github.com/bluealloy/revm/commit/6c6676aaeee521fbf89dbeb30a00d05ec4c37a23) - 2025-07-25
+* [Pull Request] [fix: nonce change not reverted on invalid tx with insufficient balance](https://github.com/bluealloy/revm/pull/2805) - 2025-07-25
+* [Commit] [chore: add rust-version and note about MSRV (#2789)](https://github.com/bluealloy/revm/commit/c2a069d16391cc4f5c113f9c61ed42e6e733c130) - 2025-07-25
+* [Commit] [docs: fix typos (#2800)](https://github.com/bluealloy/revm/commit/ccdbcc05d14ec02a2dd616015b8e918c1950a746) - 2025-07-25
+* [Commit] [chore: reuse global crypto provide idea (#2786)](https://github.com/bluealloy/revm/commit/665f524c3d3eff418e86969bddc417049303bfc8) - 2025-07-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

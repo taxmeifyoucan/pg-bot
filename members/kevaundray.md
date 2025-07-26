@@ -21,6 +21,7 @@ Team: Consensus R&D (EF)
 
 * [Pull Request] [feat: Add bn128 to CryptoTrait](https://github.com/bluealloy/revm/pull/2777) - 2025-07-23
 * [Pull Request] [chore: Add dyn Crypto trait to PrecompileFn](https://github.com/bluealloy/revm/pull/2772) - 2025-07-23
+* [Pull Request] [feat: Reuse bls12-381 codepaths to implement kzg point evaluation precompile](https://github.com/bluealloy/revm/pull/2809) - 2025-07-25
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [chore: add scripts to laucnh up local kurtosis testnet](https://github.com/ChainSafe/lodestar/pull/8070) - 2025-07-21
 ## Q2 2025

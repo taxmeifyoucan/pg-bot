@@ -33,6 +33,11 @@ Team: Erigon
 * [Commit] [Update eest](https://github.com/erigontech/erigon/commit/388cab6970dbe494134225f8da199d7d5e568e36) - 2025-07-23
 * [Commit] [Use 2 --sim.buildarg](https://github.com/erigontech/erigon/commit/d0521b0ea29b926688a0ecb8a60c2eb4411635c2) - 2025-07-23
 * [Pull Request] [crypto, vm: Rename "BN256" to "BN254"](https://github.com/erigontech/erigon/pull/16250) - 2025-07-23
+* [Commit] [Add pre-cleaning step](https://github.com/erigontech/erigon/commit/91454bc3b39eab6b89a8ae4d4d9cd131eb7fed52) - 2025-07-25
+* [Commit] [Add separate result printer](https://github.com/erigontech/erigon/commit/5ed39eee70f9692254526ca7d7f668d3126e18f9) - 2025-07-25
+* [Commit] [Make 12x again](https://github.com/erigontech/erigon/commit/f41380cb8287d88b41068861497bc4c62165ee74) - 2025-07-25
+* [Commit] [Add container force removal](https://github.com/erigontech/erigon/commit/dc620aee8af3774b839335aa92660e0cc9d66f74) - 2025-07-25
+* [Commit] [Use only 6x parallelism](https://github.com/erigontech/erigon/commit/41c16143b27154ffdde833e1cc780ccc66714076) - 2025-07-25
 ## Q2 2025
 
 

@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Pull Request] [fix noisy log message and add CHANGELOG entry](https://github.com/hyperledger/besu/pull/8886) - 2025-07-01
 * [Pull Request] [Revert revert sync bodies](https://github.com/hyperledger/besu/pull/8939) - 2025-07-09
 * [Pull Request] [Fix the problem we found with #8242](https://github.com/hyperledger/besu/pull/8959) - 2025-07-15
+* [Commit] [No RLP decoding of Bodies during the sync (fix #8242) (#8959)](https://github.com/hyperledger/besu/commit/5bdb2d97bfa05819da89675209402428edcd805c) - 2025-07-25
 ## Q2 2025
 
 [hyperledger/besu](https://github.com/hyperledger/besu)

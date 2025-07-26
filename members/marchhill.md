@@ -74,6 +74,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix block tree implementers](https://github.com/NethermindEth/nethermind/commit/284da4d622c48075bf1f1110f4e938f01e0627d2) - 2025-07-24
 * [Commit] [use new deleteoldblock method](https://github.com/NethermindEth/nethermind/commit/4ea4a7fd375d42d3c24eef69ab5249cf5520779a) - 2025-07-24
 * [Commit] [reduce deleteblock params](https://github.com/NethermindEth/nethermind/commit/968729093e19108e156c43a4204b63d22332ff68) - 2025-07-24
+* [Commit] [check 2 levels](https://github.com/NethermindEth/nethermind/commit/35eb3b98528726a8717d052c3dd3e554ec41adec) - 2025-07-25
+* [Commit] [NewPayloadTimeout in miliseconds (#8929)](https://github.com/NethermindEth/nethermind/commit/8cdb82cd5d2e12201af764ef2fec366b37c516e3) - 2025-07-25
 ## Q2 2025
 
 

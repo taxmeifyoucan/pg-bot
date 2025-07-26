@@ -20,6 +20,9 @@ Team: Reth
 * [Pull Request] [feat: update EIP-7825 max transaction gas limit](https://github.com/paradigmxyz/reth/pull/17397) - 2025-07-14
 
 * [Commit] [osaka: update revm deps with tx gas limit fix](https://github.com/paradigmxyz/reth/commit/5b45d7bfe6c0947af1c2ce1147645e4ee1ef7789) - 2025-07-22
+* [Commit] [remove comments](https://github.com/paradigmxyz/reth/commit/a84e88d7107c55e893f6c57be432b6058e8b9a32) - 2025-07-25
+* [Commit] [make it less painful](https://github.com/paradigmxyz/reth/commit/b2bcd9d30d2eeeefd463c364d00d13d28e78bf25) - 2025-07-25
+* [Commit] [kinda finish](https://github.com/paradigmxyz/reth/commit/be86f2c5a0f8fbbe5b73bddac557d1df4585c2ac) - 2025-07-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/commit/536eef29cf8bb1f641c4e9209f4320bc4f69785e) - 2025-07-21
 * [Commit] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/commit/4c5d7022afc381fd38db1dd90072c8356e44cf45) - 2025-07-21
