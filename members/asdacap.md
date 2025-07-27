@@ -114,6 +114,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Minor cleanup](https://github.com/NethermindEth/nethermind/commit/a8b90a1534587e6c2cd32784402c7fab28f8965c) - 2025-07-24
 * [Commit] [Addressing comment](https://github.com/NethermindEth/nethermind/commit/6261c79173a0ab68642653f873a76291b3214c57) - 2025-07-25
 * [Pull Request] [Fix/Orphaned block error on freshly restarted node](https://github.com/NethermindEth/nethermind/pull/9034) - 2025-07-25
+* [Commit] [Exit on invalid block flag (#9036)](https://github.com/NethermindEth/nethermind/commit/5aa6d6a2b890540f1f978b7dda987d7d88061eed) - 2025-07-26
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/6dfce1618cea179ea28244ac9727295a5b777f9b) - 2025-07-26
+* [Commit] [Refactor/Move block processor in test to DI. (#8959)](https://github.com/NethermindEth/nethermind/commit/6d90021e4bf4590c1cf89aaf7dc09fd8af363abc) - 2025-07-26
 ## Q2 2025
 
 

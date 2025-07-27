@@ -92,6 +92,23 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/fde7bd6250a5690486e8dad41df6a3234e73115e) - 2025-07-25
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a433d471153a4ea81536c5148df026eb19dd2bc7) - 2025-07-25
 * [Commit] [Fix Integration tests after turning p2p into a module (#15270)](https://github.com/erigontech/erigon/commit/14a6a089e28f5f7e7da11cfca8488281cfb179a2) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/02f7e77f70952bc151eee2b794739fa74e810d0a) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4eed7ee07fdaf757ab73d3d442bfed57ea6ec6b0) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c86df0d2bd35618abffd6fe9d7dc8b0bda5ded86) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/63e570d72e201334079984b02bdae63341b7e2db) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6ed3d302b84f6163b702eba78ddc0afdeb84ef31) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/083acc81b45829e1da0c360612a7a34acad1592b) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dc9154c554c553c170803dc96f16f04f3c0e97d8) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a2b5e5de8610bf50d84d90b18246b92ca5323572) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/83cc950355f6cf297890870f8c4ce2558be70d89) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e4a7b7bb6467cbde505ca2d13b7120d767667456) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7011a0c948fc78b0ab2d8d524cf7f48da01b9642) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/af3b8b25e7abae157002fc7ce8903f207550f9fb) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/efc8ca1437e6c581747a008173d544fae644b8c9) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/80d16b819dfb13a40f6b3791d491a319bf077600) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a6c271fa712341c2ee70b81e4b28b8175ad7a443) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e90609dffcf5a314a1215279c3e2240705036fd7) - 2025-07-26
+* [Commit] [[r30] increase default `--db.pageSize` to 16kb (#16297)](https://github.com/erigontech/erigon/commit/d150c74406c571724b8ca3c09499295021bbae83) - 2025-07-26
 ## Q2 2025
 
 

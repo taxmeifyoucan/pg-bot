@@ -61,6 +61,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): remove slow/zkevm markers from benchmark tests. (#1953)](https://github.com/ethereum/execution-spec-tests/commit/50fdf396b127ae57e5ef24c8cf9768478c648b73) - 2025-07-25
 * [Commit] [fix(plugins): Don't copy test list during collection (#1936)](https://github.com/ethereum/execution-spec-tests/commit/e88cd81bf719a067b39512e72852d3ed67d9f7f5) - 2025-07-25
 * [Commit] [chore: bump eels resolver (#1950)](https://github.com/ethereum/execution-spec-tests/commit/9ad9f5b93d8e1bd231e23ca29fd80b9ea6f5716f) - 2025-07-25
+* [Pull Request] [feat(t8n): Support evmone's `--opcode.count` option](https://github.com/ethereum/execution-spec-tests/pull/1956) - 2025-07-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

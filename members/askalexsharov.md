@@ -443,6 +443,24 @@ Team: Erigon
 * [Commit] [tests: re-enable TestExecutionSpecBlockchain after devnet-3 changes (#16206)](https://github.com/erigontech/erigon/commit/a8c2718e1b9f9824feb99101160ba1431245240a) - 2025-07-25
 * [Commit] [rpc: Apply batch limit to WebSocket/IPC connections (#16255)](https://github.com/erigontech/erigon/commit/afbb53a307c60a748a60d7d64764509ea44e66bc) - 2025-07-25
 * [Commit] [qa-tests: re-enable Polygon sync-from-scratch test (minimal node) (#16269)](https://github.com/erigontech/erigon/commit/0edf810b10605be1c7ff98cbb0267c2ea2b3262d) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/06bea0c2c08372718f445b3b03c94ff5bf8029c5) - 2025-07-26
+* [Commit] [add dns to chainspec defaults (#16246)](https://github.com/erigontech/erigon/commit/4f5906f8499c7ede3a76e0c4e42cb37ad0d87ed7) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ae7f9a952ccf71b509875a63b0413465ff59d70c) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9e2b03e1afd84cf574543ae628cbece152125b55) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b364600d7c7eb9947c2ae22d85d7d0dd80d1a33e) - 2025-07-26
+* [Pull Request] [[r32] up x deps ](https://github.com/erigontech/erigon/pull/16300) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d35a6cea32e95fc5896d13faf091deb2512450a2) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/78ffe51884f1c272b84196720b9923f708377277) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/350e7a9611dc9a05d78dd241f65909aaf36c2435) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0926a3d581b50c8deb44df6d51d951995a580cf2) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/26be4cf22eb5842798433debaac18d0586892837) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7889c1ca856ff20cec46816d48d6aa44d4e79fd8) - 2025-07-26
+* [Commit] [Fix `getProof` edge cases correctly (#16251)](https://github.com/erigontech/erigon/commit/e902c3dab34d754d13c115ed559dfb4e1b49d473) - 2025-07-26
+* [Commit] [Properly handle file close errors when writing LLDB script (#16260)](https://github.com/erigontech/erigon/commit/76e11370e99346b09b71513d8bb706e2d23bde74) - 2025-07-26
+* [Issue] [Snapshot releases: move maintenance tasks after Github PR rising](https://github.com/erigontech/erigon/issues/16299) - 2025-07-26
+* [Commit] [Cherry-pick: fix `eth_getProof` for historical values (#16296)](https://github.com/erigontech/erigon/commit/efb48aa5b697c7e866de6e3afe5e63d2cb6950d9) - 2025-07-26
+* [Issue] [Add runtime check when building `bodies.seg`](https://github.com/erigontech/erigon/issues/16298) - 2025-07-26
+* [Pull Request] [[r30] increase default `--db.pageSize` to 16kb](https://github.com/erigontech/erigon/pull/16297) - 2025-07-26
 ## Q2 2025
 
 

@@ -50,6 +50,7 @@ Team: Erigon
 * [Commit] [Fix: RpcTx after merge (#16284)](https://github.com/erigontech/erigon/commit/a223ca17c43424b549dd900904e35cde115080bd) - 2025-07-25
 * [Commit] [save](https://github.com/erigontech/erigon/commit/94065b3cf56ebf441988a8a52be930f64f9f00e3) - 2025-07-25
 * [Pull Request] [skip flaky test for prooving storage subtrie with common prefix](https://github.com/erigontech/erigon/pull/16290) - 2025-07-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f5e0227e7986a247598587def23126856d7b1ed7) - 2025-07-26
 ## Q2 2025
 
 

@@ -77,6 +77,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/faedba67e0a87aab3a9dd6e0b880efeebefc68aa) - 2025-07-25
 * [Commit] [Cherry-picked disabling peerdas code pre-peerDAS (#16232)](https://github.com/erigontech/erigon/commit/33c0dfd5164892cfec5dd7a5373c5b1e240679cb) - 2025-07-25
 * [Pull Request] [fix TestDump flakiness](https://github.com/erigontech/erigon/pull/16279) - 2025-07-25
+* [Commit] [Update config.go - remove holesky.beaconstate.ethstaker.cc (#16244)](https://github.com/erigontech/erigon/commit/80e349fe5cf5561868331d7d7b71824558a4ce1a) - 2025-07-26
+* [Commit] [skip flaky test for prooving storage subtrie with common prefix (#16290)](https://github.com/erigontech/erigon/commit/a4e36a4b437dced2a03d8f780c8e60b2bdce7454) - 2025-07-26
 ## Q2 2025
 
 

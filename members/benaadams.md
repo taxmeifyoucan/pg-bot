@@ -131,6 +131,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Remove Linq from Block Processing (#9025)](https://github.com/NethermindEth/nethermind/commit/be03dcfe14e1b8912b1b6898d21419e877062bf5) - 2025-07-23
 * [Commit] [Fix devnet 3 (#9022)](https://github.com/NethermindEth/nethermind/commit/2fd4f27ff9546184188f617f56993d9f084a1313) - 2025-07-23
 * [Commit] [Let caches clear in background](https://github.com/NethermindEth/nethermind/commit/9a92ec528d6782788357a4f1046c43799830930c) - 2025-07-24
+* [Commit] [better still](https://github.com/NethermindEth/nethermind/commit/4921190790493e8a941dbddf3195e688ab53bae4) - 2025-07-26
+* [Commit] [better](https://github.com/NethermindEth/nethermind/commit/72a3975b10e137415ad2c33e84da2717659d2e26) - 2025-07-26
+* [Commit] [better](https://github.com/NethermindEth/nethermind/commit/40c5dc58ef79475e91b4f6593755da854a82d582) - 2025-07-26
+* [Commit] [better](https://github.com/NethermindEth/nethermind/commit/d165d6384247637b719e92f624655cad1e881abb) - 2025-07-26
+* [Commit] [better](https://github.com/NethermindEth/nethermind/commit/c3407fe5a24bcdb160f85e7d2ae1f07b862638c5) - 2025-07-26
+* [Commit] [better](https://github.com/NethermindEth/nethermind/commit/1c7430503a64edf4c41c9ef0813ac795d01364f9) - 2025-07-26
+* [Pull Request] [Reduce exceptions in ZeroProtocolHandlerBase.HandleResponse](https://github.com/NethermindEth/nethermind/pull/9037) - 2025-07-26
 ## Q2 2025
 
 

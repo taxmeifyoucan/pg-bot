@@ -64,6 +64,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [`/eth/v1/node/identity`: Add `syncnets` and `custody_group_count`.](https://github.com/OffchainLabs/prysm/commit/53614540f8f54b75410a07bb4260bea528f0f0db) - 2025-07-22
 * [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/c986836357c35fc7a61d6fbc8e4320211c0af200) - 2025-07-25
 * [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/64c07080382a19b4bae367b24071dc0fc20825c4) - 2025-07-25
+* [Commit] [fix(beacon-api): return syncnets and cgc in Metadata. (#15506)](https://github.com/OffchainLabs/prysm/commit/6ddf2716880ef1fbc95a6e8caf5ac3917da7cb27) - 2025-07-26
 ## Q2 2025
 
 

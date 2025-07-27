@@ -38,6 +38,13 @@ Team: Erigon
 * [Commit] [Make 12x again](https://github.com/erigontech/erigon/commit/f41380cb8287d88b41068861497bc4c62165ee74) - 2025-07-25
 * [Commit] [Add container force removal](https://github.com/erigontech/erigon/commit/dc620aee8af3774b839335aa92660e0cc9d66f74) - 2025-07-25
 * [Commit] [Use only 6x parallelism](https://github.com/erigontech/erigon/commit/41c16143b27154ffdde833e1cc780ccc66714076) - 2025-07-25
+* [Commit] [Fmt](https://github.com/erigontech/erigon/commit/d82ef64fcf85da0040408082a9cbf5d79413f366) - 2025-07-26
+* [Pull Request] [tests: Use separate eest fixtures folder for devnets ](https://github.com/erigontech/erigon/pull/16303) - 2025-07-26
+* [Commit] [Use separate eest fixtures folder for devnets](https://github.com/erigontech/erigon/commit/6a3c48e348b84d742e59fde4df5c31ec9301de5d) - 2025-07-26
+* [Commit] [Use 4x](https://github.com/erigontech/erigon/commit/16af33b63fc263969eb61cdb9c7538f56126159d) - 2025-07-26
+* [Commit] [Add a docker ps just before launching](https://github.com/erigontech/erigon/commit/cfd5782fd4f41bf98cfac0bbce396574f3977e50) - 2025-07-26
+* [Commit] [Use 8x now](https://github.com/erigontech/erigon/commit/c205bb01c15c58c994c7138b7ed25171e6b7d19f) - 2025-07-26
+* [Commit] [fix](https://github.com/erigontech/erigon/commit/2ff0abac2340e952faecfc525e7ec8f9b08e153a) - 2025-07-26
 ## Q2 2025
 
 

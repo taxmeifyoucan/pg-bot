@@ -34,6 +34,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Fix builder bid version compatibility to support Electra bids with Fulu blocks](https://github.com/OffchainLabs/prysm/pull/15536) - 2025-07-25
 * [Commit] [Beacon api: fix proposer duty computation for fulu](https://github.com/OffchainLabs/prysm/commit/8c3375d87c7e1e29c49ec5d58fcd71c777817cc7) - 2025-07-25
 * [Pull Request] [Beacon api: fix proposer duty computation for fulu](https://github.com/OffchainLabs/prysm/pull/15534) - 2025-07-25
+* [Commit] [Fix builder bid version compatibility to support Electra bids with Fulu blocks](https://github.com/OffchainLabs/prysm/commit/042721082f93e6e5967f1859c9ce3e43edbc1bf2) - 2025-07-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

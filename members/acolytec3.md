@@ -8,6 +8,11 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [Dx upgrade](https://github.com/ethereum/execution-apis/pull/679) - 2025-07-26
 ## Q2 2025
 
 

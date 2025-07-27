@@ -38,6 +38,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: validate aggregateAndProof unit test](https://github.com/ChainSafe/lodestar/commit/3ad04bf1e75ac05ce983b6ba06c9ffdbbffab888) - 2025-07-25
 * [Pull Request] [feat: store more SingleAttestation slots](https://github.com/ChainSafe/lodestar/pull/8084) - 2025-07-25
 * [Commit] [fix: also call seenAggregatedAttestation from api](https://github.com/ChainSafe/lodestar/commit/49b30e31dce7e1e5b67760be25a22abcb426f6e1) - 2025-07-25
+* [Pull Request] [feat: introduce finalProcessEpoch()](https://github.com/ChainSafe/lodestar/pull/8086) - 2025-07-26
 ## Q2 2025
 
 

@@ -73,6 +73,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [refactor bounds](https://github.com/paradigmxyz/reth/commit/ae815f8e98fd98fcfda47eed14887268c7682a1d) - 2025-07-23
 * [Pull Request] [feat: add Eth EngineValidator impl](https://github.com/paradigmxyz/reth/pull/17583) - 2025-07-23
 * [Commit] [feat: make CompactEnvelope trait public for external crate usage (#17576)](https://github.com/paradigmxyz/reth/commit/752637a5d7c2adbca3c061d9631516074bd44bcf) - 2025-07-23
+* [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/17620) - 2025-07-26
 ## Q2 2025
 
 
