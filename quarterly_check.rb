@@ -8,23 +8,24 @@ class QuarterlyAudit
   end
   
   def run_audit
-    puts "Running quarterly audit for #{@current_quarter}..."
+    puts "Running quarterly audit for #{@current_quarter} and previous quarter..."
     members = get_all_members
     inactive_members = []
+    previous_quarter = get_previous_quarter
     
     members.each do |username|
       file_path = File.join(@members_dir, "#{username.downcase}.md")
       next unless File.exist?(file_path)
       
       content = File.read(file_path)
-      if !has_contributions_in_quarter?(content, @current_quarter)
+      if !has_contributions_in_quarter?(content, @current_quarter) && !has_contributions_in_quarter?(content, previous_quarter)
         inactive_members << username
       end
     end
     
     puts "Total members: #{members.size}"
-    puts "Active members this quarter: #{members.size - inactive_members.size}"
-    puts "Inactive members this quarter: #{inactive_members.size}"
+    puts "Active members this or previous quarter: #{members.size - inactive_members.size}"
+    puts "Inactive members this and previous quarter: #{inactive_members.size}"
     
     if !inactive_members.empty?
       print_inactive_members(inactive_members)
@@ -49,11 +50,25 @@ class QuarterlyAudit
   
   def has_contributions_in_quarter?(content, quarter)
     return false unless content.include?("## #{quarter}")
-    quarter_content = content.split("## #{quarter}")[1]
-    
+    quarter_content = content.split("## #{quarter}", 2)[1]
+    return false unless quarter_content
     next_section_index = quarter_content.index(/^## /)
     quarter_content = quarter_content[0...next_section_index] if next_section_index
-    quarter_content.match?(/^\* \[/)
+    # Consider any line with a link (http or https) as a contribution
+    quarter_content.lines.any? { |line| line =~ /https?:\/\// }
+  end
+  
+  def get_previous_quarter
+    now = Date.today
+    quarter = ((now.month - 1) / 3) + 1
+    year = now.year
+    if quarter == 1
+      prev_quarter = 4
+      year -= 1
+    else
+      prev_quarter = quarter - 1
+    end
+    "Q#{prev_quarter} #{year}"
   end
   
   def print_inactive_members(inactive_members)
