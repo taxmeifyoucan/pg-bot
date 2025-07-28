@@ -461,6 +461,9 @@ Team: Erigon
 * [Commit] [Cherry-pick: fix `eth_getProof` for historical values (#16296)](https://github.com/erigontech/erigon/commit/efb48aa5b697c7e866de6e3afe5e63d2cb6950d9) - 2025-07-26
 * [Issue] [Add runtime check when building `bodies.seg`](https://github.com/erigontech/erigon/issues/16298) - 2025-07-26
 * [Pull Request] [[r30] increase default `--db.pageSize` to 16kb](https://github.com/erigontech/erigon/pull/16297) - 2025-07-26
+* [Commit] [Properly handle file close errors when writing LLDB script (#16260)](https://github.com/erigontech/erigon/commit/76e11370e99346b09b71513d8bb706e2d23bde74) - 2025-07-27
+* [Commit] [add dns to chainspec defaults (#16246)](https://github.com/erigontech/erigon/commit/4f5906f8499c7ede3a76e0c4e42cb37ad0d87ed7) - 2025-07-27
+* [Commit] [Update erigon-lib interface generation for Downloader changes (#16272)](https://github.com/erigontech/erigon/commit/98489e3e89a26fb22d1e9d98605185b4a30120ba) - 2025-07-27
 ## Q2 2025
 
 

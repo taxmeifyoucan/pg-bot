@@ -95,6 +95,10 @@ Team: Erigon
 * [Commit] [close in on map exit](https://github.com/erigontech/erigon/commit/1bb27aa8aae1b30bd1f94dd6fd40fc2e460074d7) - 2025-07-23
 * [Commit] [out close back to map](https://github.com/erigontech/erigon/commit/77d663fc33f0cf5efd2a8442235d38e2101abb78) - 2025-07-24
 * [Commit] [parent check doesn't fail - fixed with maps](https://github.com/erigontech/erigon/commit/89de4615b042fcda80c70ecac7dd271f41427019) - 2025-07-25
+* [Commit] [trace reciepts flag](https://github.com/erigontech/erigon/commit/5b6db6a45495da674e92c7d3301ab8f1d70b7831) - 2025-07-27
+* [Commit] [panic on end block](https://github.com/erigontech/erigon/commit/a1e8bedcda04b574b4d0283da85ca1e8918dc0e3) - 2025-07-27
+* [Commit] [add log tracing](https://github.com/erigontech/erigon/commit/e70cd0b2cd349f610afd4a3e2a25939e159e8547) - 2025-07-27
+* [Commit] [add log tracing](https://github.com/erigontech/erigon/commit/1ffdba19f76c1948f008e2c6f6bcaec05257838e) - 2025-07-27
 ## Q2 2025
 
 

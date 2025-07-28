@@ -46,6 +46,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/b1d92a18799fbcedbcfd76cd1948141f7db45af4) - 2025-07-25
 * [Pull Request] [[r3.1] auto upgrade snapshots](https://github.com/erigontech/erigon/pull/16288) - 2025-07-25
 * [Pull Request] [[r3.2] auto upgrade](https://github.com/erigontech/erigon/pull/16287) - 2025-07-25
+* [Pull Request] [hashes check for release fix](https://github.com/erigontech/erigon/pull/16307) - 2025-07-27
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/6680aec19be08d7c10adf1f3a180a4f5fd837f07) - 2025-07-27
 ## Q2 2025
 
 

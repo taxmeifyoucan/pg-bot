@@ -60,6 +60,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Reuse validation logic; fix an error message; remove a call with context](https://github.com/NethermindEth/nethermind/commit/7361ab4208154dc50282946ed9bac0a78a2759ea) - 2025-07-22
 * [Commit] [Fix names, usings, optimize syntax](https://github.com/NethermindEth/nethermind/commit/091abc59e018425f9a4c8a6079b80ef3db680d94) - 2025-07-22
 * [Commit] [Fix names, usings, optimize syntax](https://github.com/NethermindEth/nethermind/commit/76e30f4d5c993f37d1eefc6238a92b4d995cbec6) - 2025-07-22
+* [Commit] [Reduce exceptions in ZeroProtocolHandlerBase.HandleResponse (#9037)](https://github.com/NethermindEth/nethermind/commit/91a5ad96458d174dca6c7127ac133208893d41c5) - 2025-07-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

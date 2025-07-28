@@ -46,6 +46,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [rm bad block hook from tree](https://github.com/paradigmxyz/reth/commit/40e192de488f290bbb721571675e463e0e2cb2ef) - 2025-07-25
 * [Commit] [chore: some validator docs (#17606)](https://github.com/paradigmxyz/reth/commit/13154fbef04794c018ca4cc239f74f0003987223) - 2025-07-25
 * [Commit] [validate_payload_attributes_against_header](https://github.com/paradigmxyz/reth/commit/a9ec0cecc974cc0b5d12da145a22a744c02258f2) - 2025-07-25
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/363e80105b0d1dc32048cdd31da351fc69bde4cb) - 2025-07-27
+* [Pull Request] [chore: relax `Cli::run_with_components`](https://github.com/paradigmxyz/reth/pull/17630) - 2025-07-27
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/864351177031683d402f5978649566442870c717) - 2025-07-27
+* [Commit] [test(era1): add more `Receipt` tests to verify decoding (#17592)](https://github.com/paradigmxyz/reth/commit/de5cbfe4cc53c12894a68b0b528a4e062499de81) - 2025-07-27
 ## Q2 2025
 
 

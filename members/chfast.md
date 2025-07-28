@@ -41,6 +41,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Configure codecov components](https://github.com/ipsilon/evmone/commit/762902186e24603c70d05692c3c673e3bc0f37ae) - 2025-07-24
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Move Paweł Bylica to Erigon](https://github.com/protocolguild/documentation/pull/389) - 2025-07-27
 ## Q2 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

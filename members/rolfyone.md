@@ -26,6 +26,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Improved testing for ThrottlingTaskQueue (#9694)](https://github.com/Consensys/teku/commit/1978ce573139b62d67baba2f06770587679f16cb) - 2025-07-22
 * [Commit] [Default to a higher kzg-precompute value for supernodes (#9691)](https://github.com/Consensys/teku/commit/030820d24e191ea022b42106210ef8a621bf7a40) - 2025-07-22
 * [Pull Request] [Improved testing for ThrottlingTaskQueue](https://github.com/Consensys/teku/pull/9694) - 2025-07-22
+* [Issue] [consider removing support for windows](https://github.com/Consensys/teku/issues/9714) - 2025-07-28
 ## Q2 2025
 
 

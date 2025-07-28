@@ -138,6 +138,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [better](https://github.com/NethermindEth/nethermind/commit/c3407fe5a24bcdb160f85e7d2ae1f07b862638c5) - 2025-07-26
 * [Commit] [better](https://github.com/NethermindEth/nethermind/commit/1c7430503a64edf4c41c9ef0813ac795d01364f9) - 2025-07-26
 * [Pull Request] [Reduce exceptions in ZeroProtocolHandlerBase.HandleResponse](https://github.com/NethermindEth/nethermind/pull/9037) - 2025-07-26
+
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/6018acdccad9cc3091274145dd27db79a56615b5) - 2025-07-28
+* [Commit] [Use constants](https://github.com/NethermindEth/nethermind/commit/828cfe71d7af1216f47aa3ade2fc4e3de2d96e2f) - 2025-07-28
+* [Commit] [nullable](https://github.com/NethermindEth/nethermind/commit/e21ae20bcc619d955de2c4ccca20923008f235ef) - 2025-07-28
+* [Commit] [Also include not validated at end](https://github.com/NethermindEth/nethermind/commit/6014c80a6c59584bd4260698a7362689e068e9d2) - 2025-07-28
+* [Pull Request] [Only gossip nodes as neighbours if on same fork](https://github.com/NethermindEth/nethermind/pull/9043) - 2025-07-27
+* [Commit] [Include peer count in both peer reports (#9042)](https://github.com/NethermindEth/nethermind/commit/f3df8b6c1ea56144741d26bc439df937e123f19f) - 2025-07-27
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/9f3a837a4022bc76e1ada32c2df193f2121aa16f) - 2025-07-27
+* [Pull Request] [Include peer count in both peer reports](https://github.com/NethermindEth/nethermind/pull/9042) - 2025-07-27
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025
 
 

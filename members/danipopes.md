@@ -29,6 +29,7 @@ Team: Reth
 * [Pull Request] [chore: fix clippy](https://github.com/bluealloy/revm/pull/2785) - 2025-07-24
 * [Pull Request] [chore: start InstructionResult at 1](https://github.com/bluealloy/revm/pull/2802) - 2025-07-25
 * [Pull Request] [chore: fix run-tests.sh](https://github.com/bluealloy/revm/pull/2801) - 2025-07-25
+* [Pull Request] [chore(deps): bump ruint](https://github.com/bluealloy/revm/pull/2811) - 2025-07-27
 ## Q2 2025
 
 

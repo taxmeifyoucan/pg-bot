@@ -55,6 +55,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/ada7bc6f620679cc14f97554e7e47f6a1c8dd648) - 2025-07-24
 * [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/b9cd72340fbbc0ff727780884ff5cedd9cf328f2) - 2025-07-25
 * [Commit] [fixes](https://github.com/status-im/nimbus-eth2/commit/4a1e862b049d8fd153afc0699ed72f1e5395348a) - 2025-07-25
+* [Pull Request] [work around lfs download issue on windows](https://github.com/status-im/nimbus-eth2/pull/7333) - 2025-07-27
+* [Commit] [work around lfs download issue on windows](https://github.com/status-im/nimbus-eth2/commit/866cb364cc9cdf2f285b26fc7c8821764ef89a0a) - 2025-07-27
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

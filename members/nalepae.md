@@ -65,6 +65,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/c986836357c35fc7a61d6fbc8e4320211c0af200) - 2025-07-25
 * [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/64c07080382a19b4bae367b24071dc0fc20825c4) - 2025-07-25
 * [Commit] [fix(beacon-api): return syncnets and cgc in Metadata. (#15506)](https://github.com/OffchainLabs/prysm/commit/6ddf2716880ef1fbc95a6e8caf5ac3917da7cb27) - 2025-07-26
+* [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/e725cc4193d7afaf950d9c78bc10f6471c4e2203) - 2025-07-27
+* [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/fab57be15d0bc0ae297dc908779c012fb951141f) - 2025-07-27
+* [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/958181c6869707619bd42ddffba15fb78e921f96) - 2025-07-27
 ## Q2 2025
 
 

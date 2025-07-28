@@ -87,6 +87,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [verify blobs](https://github.com/erigontech/erigon/commit/b7750899b06690ed9a23674d7534efb5888ea1c6) - 2025-07-25
 * [Commit] [Remove spamming logs for requesting blobs not exist (#16210)](https://github.com/erigontech/erigon/commit/fc6d3702e64c82c5b8a4d64f5bf7a942728e2443) - 2025-07-25
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/4c6ba0c17df62c73636beb41fd90e31d5fb7099d) - 2025-07-26
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/34f96752e41fa3db24fb244d5de87415c3425e74) - 2025-07-27
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/a41df1b6c40c42173372b4b46840a3586e185d2c) - 2025-07-27
+* [Commit] [debug](https://github.com/erigontech/erigon/commit/4fa3a88f77bce783b23485983a90cc46e405db53) - 2025-07-27
 ## Q2 2025
 
 

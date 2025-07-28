@@ -99,6 +99,11 @@ Team: Reth
 * [Issue] [Add debug_storageRangeAt support](https://github.com/paradigmxyz/reth/issues/17609) - 2025-07-25
 * [Pull Request] [chore: some validator docs](https://github.com/paradigmxyz/reth/pull/17606) - 2025-07-25
 * [Commit] [feat: integrate `EngineValidator` into `EngineApiTreeHandler` (#17603)](https://github.com/paradigmxyz/reth/commit/acc0fa674ccc6e053fa218231b31d306055ed310) - 2025-07-25
+* [Commit] [perf: box larger futures](https://github.com/paradigmxyz/reth/commit/f8d71ee189a5617f7a8463758d28e66e80918d8b) - 2025-07-27
+* [Commit] [perf: box larger futures](https://github.com/paradigmxyz/reth/commit/ac61179be47a0799bf40955a9daa05ee54e5ad40) - 2025-07-27
+* [Commit] [perf: box larger futures](https://github.com/paradigmxyz/reth/commit/bd6c56ae504aa89fe377db6f596b9ef987d71e9a) - 2025-07-27
+* [Pull Request] [perf: box larger futures](https://github.com/paradigmxyz/reth/pull/17633) - 2025-07-27
+* [Commit] [chore: bump evm](https://github.com/paradigmxyz/reth/commit/167a42b199149069d75f9422073b9a7f9cbe25f5) - 2025-07-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

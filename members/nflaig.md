@@ -42,6 +42,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: call `afterProcessEpoch` after upgrading state to next fork](https://github.com/ChainSafe/lodestar/pull/8082) - 2025-07-24
 * [Commit] [fix: detect weak head when predicting proposer head (#8079)](https://github.com/ChainSafe/lodestar/commit/ea1977daefa669ebf17d639feb4d8d462ba20db6) - 2025-07-24
 * [Commit] [fix: query shuffling from cache to compute proposer lookahead (#7988)](https://github.com/ChainSafe/lodestar/commit/fb2621434ecb9fd786a66ea6dba2abd4e7be38f5) - 2025-07-25
+* [Commit] [Improve cells to blob](https://github.com/ChainSafe/lodestar/commit/918ffff1ba768e7bf19bf0ab4ee065000ae95875) - 2025-07-27
+* [Commit] [Reconstruct blobs from data columns](https://github.com/ChainSafe/lodestar/commit/4ee8143ae900489c137d9cbb091f7440abbff04a) - 2025-07-27
 ## Q2 2025
 
 

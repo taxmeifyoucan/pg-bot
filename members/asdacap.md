@@ -117,6 +117,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Exit on invalid block flag (#9036)](https://github.com/NethermindEth/nethermind/commit/5aa6d6a2b890540f1f978b7dda987d7d88061eed) - 2025-07-26
 * [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/6dfce1618cea179ea28244ac9727295a5b777f9b) - 2025-07-26
 * [Commit] [Refactor/Move block processor in test to DI. (#8959)](https://github.com/NethermindEth/nethermind/commit/6d90021e4bf4590c1cf89aaf7dc09fd8af363abc) - 2025-07-26
+* [Commit] [Update src/Nethermind/Nethermind.Facade/Simulate/SimulateTransactionProcessorAdapter.cs](https://github.com/NethermindEth/nethermind/commit/0b148183b1d06e7c90e7816eabcb5166c00b25a6) - 2025-07-27
 ## Q2 2025
 
 
