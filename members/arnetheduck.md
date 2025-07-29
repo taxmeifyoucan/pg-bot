@@ -37,6 +37,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add missing finalized marker to updateBase (#3459)](https://github.com/status-im/nimbus-eth1/commit/b5e5b5e16e1a4fa3f8a21df0e7c78ba5bc5b5634) - 2025-07-08
 * [Pull Request] [faststreams: bump](https://github.com/status-im/nimbus-eth1/pull/3498) - 2025-07-22
 * [Pull Request] [chronicles: bump and logging updates](https://github.com/status-im/nimbus-eth1/pull/3504) - 2025-07-23
+* [Commit] [Transaction hashes broadcast handler: use inner tx hash + PooledTransaction size (#3432)](https://github.com/status-im/nimbus-eth1/commit/0491e0e644767ad8a2e60f67a86f88fc6daca4bd) - 2025-07-28
+* [Commit] [add missing fc reset (#3509)](https://github.com/status-im/nimbus-eth1/commit/a2aa4a07da29eb154f3bc75219fbfccbf648596c) - 2025-07-28
+* [Pull Request] [fix slow startup during sync](https://github.com/status-im/nimbus-eth1/pull/3514) - 2025-07-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -57,6 +60,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fixes](https://github.com/status-im/nimbus-eth2/commit/4a1e862b049d8fd153afc0699ed72f1e5395348a) - 2025-07-25
 * [Pull Request] [work around lfs download issue on windows](https://github.com/status-im/nimbus-eth2/pull/7333) - 2025-07-27
 * [Commit] [work around lfs download issue on windows](https://github.com/status-im/nimbus-eth2/commit/866cb364cc9cdf2f285b26fc7c8821764ef89a0a) - 2025-07-27
+* [Commit] [also faststreams](https://github.com/status-im/nimbus-eth2/commit/eee7f7f54ad96225aef594762847a98ce65f9990) - 2025-07-28
+* [Commit] [also nim-ser](https://github.com/status-im/nimbus-eth2/commit/8cd31255ae8ea49e8736a07292cf9ce2a9ba35c6) - 2025-07-28
+* [Pull Request] [stew: bump](https://github.com/status-im/nimbus-eth2/pull/7336) - 2025-07-28
+* [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/3560d8ee241429a1d5e359b8031bf407745afb1e) - 2025-07-28
+* [Commit] [Add soft timeouts to VC, after which VC will use any successful response as the best one. (#7276)](https://github.com/status-im/nimbus-eth2/commit/95370e4c686911cb25dd565959fdce3b077101c1) - 2025-07-28
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

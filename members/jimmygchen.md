@@ -41,6 +41,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [Change default state cache size back to 128 (#7364)](https://github.com/sigp/lighthouse/commit/6c8770e80d0339e037407cd59e3c41464f1ad385) - 2025-07-24
 * [Pull Request] [Bump Rust version to 1.88](https://github.com/sigp/lighthouse/pull/7787) - 2025-07-24
 * [Commit] [Backfill peer attribution (#7762)](https://github.com/sigp/lighthouse/commit/3610fb5c660ee88ed47a0b45217e9fb7418fb54a) - 2025-07-24
+* [Pull Request] [Use unique enclave names for CI Kurtosis tests on self hosted runners](https://github.com/sigp/lighthouse/pull/7804) - 2025-07-28
 ## Q2 2025
 
 

@@ -33,6 +33,8 @@ Team: Reth
 * [Pull Request] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/pull/2739) - 2025-07-21
 * [Commit] [feat(osaka): update EIP-7825 constant](https://github.com/bluealloy/revm/commit/d5292dda70a21784d1cf9fcfca957445376e91f0) - 2025-07-22
 * [Pull Request] [feat(osaka): update EIP-7825 constant](https://github.com/bluealloy/revm/pull/2753) - 2025-07-22
+* [Pull Request] [feat: precompile id](https://github.com/bluealloy/revm/pull/2819) - 2025-07-28
+* [Commit] [more docs](https://github.com/bluealloy/revm/commit/a3a6f3370964792826e2620923163ef20c4634e4) - 2025-07-28
 ## Q2 2025
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)

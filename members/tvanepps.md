@@ -21,6 +21,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Update README.md](https://github.com/protocolguild/documentation/commit/c5d8fa9540e524f2479d57f7001f21f451667f89) - 2025-07-02
 * [Commit] [Update index.rst](https://github.com/protocolguild/documentation/commit/7a342e07808be2a7972e2dc3a23c736cbf213688) - 2025-07-02
 * [Pull Request] [Proposal: add Snarkification working group](https://github.com/protocolguild/documentation/pull/372) - 2025-07-08
+* [Commit] [Move Anton Nashatyrev to Wayfinding/Networking](https://github.com/protocolguild/documentation/commit/0b50c5665aeb61455e7b4682e91de5e2b31de7c5) - 2025-07-28
 ## Q2 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

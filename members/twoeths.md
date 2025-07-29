@@ -39,6 +39,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: store more SingleAttestation slots](https://github.com/ChainSafe/lodestar/pull/8084) - 2025-07-25
 * [Commit] [fix: also call seenAggregatedAttestation from api](https://github.com/ChainSafe/lodestar/commit/49b30e31dce7e1e5b67760be25a22abcb426f6e1) - 2025-07-25
 * [Pull Request] [feat: introduce finalProcessEpoch()](https://github.com/ChainSafe/lodestar/pull/8086) - 2025-07-26
+* [Commit] [chore: unit tests for AggregatedAttestationPool](https://github.com/ChainSafe/lodestar/commit/750c8e51bcb1314fc49d0058e4ef43e1fceaa9d6) - 2025-07-28
+* [Commit] [chore: unit tests for SinleAttestationPool](https://github.com/ChainSafe/lodestar/commit/5e3b572523e8026127901ed025d1ed842c4e331d) - 2025-07-28
+* [Commit] [fix: resolve TODOs of eip-7917](https://github.com/ChainSafe/lodestar/commit/58d84ec777c1caa25428904f1d83436514235430) - 2025-07-28
 ## Q2 2025
 
 

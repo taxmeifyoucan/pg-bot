@@ -93,6 +93,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: add rust-version and note about MSRV (#2789)](https://github.com/bluealloy/revm/commit/c2a069d16391cc4f5c113f9c61ed42e6e733c130) - 2025-07-25
 * [Commit] [docs: fix typos (#2800)](https://github.com/bluealloy/revm/commit/ccdbcc05d14ec02a2dd616015b8e918c1950a746) - 2025-07-25
 * [Commit] [chore: reuse global crypto provide idea (#2786)](https://github.com/bluealloy/revm/commit/665f524c3d3eff418e86969bddc417049303bfc8) - 2025-07-25
+* [Commit] [fix compilation](https://github.com/bluealloy/revm/commit/7690cc3ff63988eb48839a9cfdcacc28ded8143d) - 2025-07-28
+* [Pull Request] [feat: Align naming of SystemCallEvm function to ExecuteEvm](https://github.com/bluealloy/revm/pull/2814) - 2025-07-28
+* [Pull Request] [feat: refactor test utils](https://github.com/bluealloy/revm/pull/2813) - 2025-07-28
+* [Commit] [feat: rename bn128 to bn254 for Ethereum standard consistency (#2810)](https://github.com/bluealloy/revm/commit/9bc0c04fda0891e0e8d2e2a6dfd0af81c2af18c4) - 2025-07-28
+* [Issue] [Align naming of `SystemCallEvm` function to `ExecuteEvm` convention](https://github.com/bluealloy/revm/issues/2812) - 2025-07-28
+* [Commit] [fix(op-revm): system tx not enveloped (#2807)](https://github.com/bluealloy/revm/commit/80e09f643665f4154726bbcb2542fa5388634331) - 2025-07-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

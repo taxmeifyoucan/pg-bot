@@ -90,6 +90,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/34f96752e41fa3db24fb244d5de87415c3425e74) - 2025-07-27
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/a41df1b6c40c42173372b4b46840a3586e185d2c) - 2025-07-27
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/4fa3a88f77bce783b23485983a90cc46e405db53) - 2025-07-27
+* [Commit] [[3.2] more info in dbg trrent progress (#16271)](https://github.com/erigontech/erigon/commit/b878155c38997c37f2d7523aeee0522a18d46ee6) - 2025-07-28
 ## Q2 2025
 
 

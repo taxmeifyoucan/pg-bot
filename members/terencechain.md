@@ -40,6 +40,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23
 * [Pull Request] [eip7732: add becoming builder section](https://github.com/ethereum/consensus-specs/pull/4456) - 2025-07-23
 * [Pull Request] [eip7732: update self builder condition](https://github.com/ethereum/consensus-specs/pull/4464) - 2025-07-25
+* [Pull Request] [eip7732: add tests for process_withdrawals block processing](https://github.com/ethereum/consensus-specs/pull/4468) - 2025-07-28
 ## Q2 2025
 
 

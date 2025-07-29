@@ -118,6 +118,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/6dfce1618cea179ea28244ac9727295a5b777f9b) - 2025-07-26
 * [Commit] [Refactor/Move block processor in test to DI. (#8959)](https://github.com/NethermindEth/nethermind/commit/6d90021e4bf4590c1cf89aaf7dc09fd8af363abc) - 2025-07-26
 * [Commit] [Update src/Nethermind/Nethermind.Facade/Simulate/SimulateTransactionProcessorAdapter.cs](https://github.com/NethermindEth/nethermind/commit/0b148183b1d06e7c90e7816eabcb5166c00b25a6) - 2025-07-27
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/e4f31cb7a653bdfcc762d9fe387b8090b2e9b889) - 2025-07-28
+* [Commit] [Update src/Nethermind/Nethermind.State/WorldState.cs](https://github.com/NethermindEth/nethermind/commit/9cf43c4c90769267c175326414f6cadca59f12f0) - 2025-07-28
+* [Commit] [Remove TODO](https://github.com/NethermindEth/nethermind/commit/50c001502cd8934977485ea038870ddd57917c7b) - 2025-07-28
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/9e40f1907ee7ff0b3987fe07a6f382c29da5706f) - 2025-07-28
+* [Pull Request] [Hardening/Separate buffer allocator](https://github.com/NethermindEth/nethermind/pull/9044) - 2025-07-28
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/85363b188b458919435fa56b15a2587ff4bb397e) - 2025-07-28
+* [Commit] [Use the util function](https://github.com/NethermindEth/nethermind/commit/64fa35808dcdb68fcd114396dd622ca9b99fa329) - 2025-07-28
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/a47dafccd48d4ac3f861805fe0429f83c19613d6) - 2025-07-28
 ## Q2 2025
 
 

@@ -44,6 +44,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: query shuffling from cache to compute proposer lookahead (#7988)](https://github.com/ChainSafe/lodestar/commit/fb2621434ecb9fd786a66ea6dba2abd4e7be38f5) - 2025-07-25
 * [Commit] [Improve cells to blob](https://github.com/ChainSafe/lodestar/commit/918ffff1ba768e7bf19bf0ab4ee065000ae95875) - 2025-07-27
 * [Commit] [Reconstruct blobs from data columns](https://github.com/ChainSafe/lodestar/commit/4ee8143ae900489c137d9cbb091f7440abbff04a) - 2025-07-27
+* [Commit] [print out registrations](https://github.com/ChainSafe/lodestar/commit/1f645ead773bf72819e2715d5f97a428021537aa) - 2025-07-28
+* [Commit] [Use CELLS_PER_EXT_BLOB constant](https://github.com/ChainSafe/lodestar/commit/76826dec72d012dc4c798202d8aa4ad27a9f5a6a) - 2025-07-28
+* [Commit] [Fix cells to blob](https://github.com/ChainSafe/lodestar/commit/32f02d8a88cfd4dd8b90bf496f64a4c6a45cffdc) - 2025-07-28
 ## Q2 2025
 
 

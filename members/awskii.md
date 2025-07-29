@@ -52,6 +52,9 @@ Team: Erigon
 * [Pull Request] [skip flaky test for prooving storage subtrie with common prefix](https://github.com/erigontech/erigon/pull/16290) - 2025-07-25
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f5e0227e7986a247598587def23126856d7b1ed7) - 2025-07-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/10ba902b79e9340a639c5ce69efce5c0d2dc6a12) - 2025-07-27
+* [Commit] [print stage log when >1 headers/blocks](https://github.com/erigontech/erigon/commit/efc390a9a9d95ae580b8198b656e654131b9a8bc) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b9efb3eef3d84c5d25617837fe2557475c08462a) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dbb65a1b3ff94be614b8df23c0bd297278817339) - 2025-07-28
 ## Q2 2025
 
 

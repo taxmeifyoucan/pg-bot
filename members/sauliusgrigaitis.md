@@ -15,6 +15,7 @@ Team: Grandine
 * [Pull Request] [Increase HTTP API timeout to 1000s because state fetch with default a…](https://github.com/grandinetech/grandine/pull/242) - 2025-07-01
 * [Pull Request] [Improve keystore loading](https://github.com/grandinetech/grandine/pull/252) - 2025-07-11
 * [Commit] [Improve keystore loading](https://github.com/grandinetech/grandine/commit/fd640b3d23bcfeb074fa74c41882e15e93c9de50) - 2025-07-14
+* [Commit] [Correctly report timed out execution engine responses](https://github.com/grandinetech/grandine/commit/bbc1dd72d7dca644861c8eb8daea027b7eac888f) - 2025-07-28
 ## Q2 2025
 
 

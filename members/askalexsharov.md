@@ -464,6 +464,17 @@ Team: Erigon
 * [Commit] [Properly handle file close errors when writing LLDB script (#16260)](https://github.com/erigontech/erigon/commit/76e11370e99346b09b71513d8bb706e2d23bde74) - 2025-07-27
 * [Commit] [add dns to chainspec defaults (#16246)](https://github.com/erigontech/erigon/commit/4f5906f8499c7ede3a76e0c4e42cb37ad0d87ed7) - 2025-07-27
 * [Commit] [Update erigon-lib interface generation for Downloader changes (#16272)](https://github.com/erigontech/erigon/commit/98489e3e89a26fb22d1e9d98605185b4a30120ba) - 2025-07-27
+* [Pull Request] [[r31] downloader: inverse verify flag use (#16191)](https://github.com/erigontech/erigon/pull/16330) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6395bc01493bbff4331101a265301a706760b56b) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/199cf5f06536a5e7f3dd9d12ce7bf5e953c14a2e) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ec681a931460d0ef6d27e6ac171ec8c2e8105c06) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8964826b5a83df6e03a37b1b90b72002aea4d6d4) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6c7a476124ba5ae25b68021efaed095e4b0b6cb3) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8c315a1281cc3d0eb4661e1d69c2dda258ae2980) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d2cc8089faec6d52af1eff754df04061f9bb2981) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2eec3a6679cdeb495bc786c2a9e50c292f425d5c) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/98b32f4dadc90313c805c8b15b21f707fe45f592) - 2025-07-28
+* [Commit] [[r3.1] `TRACE_DELETION ` (#16326)](https://github.com/erigontech/erigon/commit/55b4f150df8410da6fa389a7c3cb6efefa6b27ba) - 2025-07-28
 ## Q2 2025
 
 

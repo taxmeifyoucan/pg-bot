@@ -29,6 +29,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Forks osaka 2025 07 25](https://github.com/ethereum/execution-specs/pull/1346) - 2025-07-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-7932: Fix some typos (#10011)](https://github.com/ethereum/EIPs/commit/9e953a254861cf86dc6d55f1f90a54807cfecdb1) - 2025-07-16
+* [Commit] [Website: Add missing favicon (#9963)](https://github.com/ethereum/EIPs/commit/719769bd61033e9bcd4de7b647bdc927981b6195) - 2025-07-28
 ## Q2 2025
 
 

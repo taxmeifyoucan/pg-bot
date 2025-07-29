@@ -28,6 +28,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Fix cargo sort](https://github.com/sigp/lighthouse/commit/dd009fbb4f848ce9de8f7a3c055699e42c0ca7fe) - 2025-07-21
 * [Commit] [Rename profile to release-debug](https://github.com/sigp/lighthouse/commit/1e207b12f0a55461aea16696295ed2374ba86841) - 2025-07-21
 * [Pull Request] [Attempt to fix malloc_utils features](https://github.com/sigp/lighthouse/pull/7770) - 2025-07-22
+* [Pull Request] [Shrink persisted fork choice data](https://github.com/sigp/lighthouse/pull/7805) - 2025-07-28
 ## Q2 2025
 
 

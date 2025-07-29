@@ -79,6 +79,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [fix TestDump flakiness](https://github.com/erigontech/erigon/pull/16279) - 2025-07-25
 * [Commit] [Update config.go - remove holesky.beaconstate.ethstaker.cc (#16244)](https://github.com/erigontech/erigon/commit/80e349fe5cf5561868331d7d7b71824558a4ce1a) - 2025-07-26
 * [Commit] [skip flaky test for prooving storage subtrie with common prefix (#16290)](https://github.com/erigontech/erigon/commit/a4e36a4b437dced2a03d8f780c8e60b2bdce7454) - 2025-07-26
+* [Commit] [save](https://github.com/erigontech/erigon/commit/086347a56b7ecd7f50700d87f9e454bc8da83165) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4f9ca6ffa75ce14955a614211b5311385a879a4d) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8b9a13438660fc275e69566b9c69a05c5e2a9b07) - 2025-07-28
+* [Pull Request] [save](https://github.com/erigontech/erigon/pull/16327) - 2025-07-28
+* [Commit] [[r31] add HeaderNoGaps to integrity check (#16319)](https://github.com/erigontech/erigon/commit/e53bbd8a8620d22f91994c94c89f05e884023b0c) - 2025-07-28
 ## Q2 2025
 
 

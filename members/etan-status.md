@@ -32,6 +32,28 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/63907c3bdbec040c6129a3b3ac33c0aa9104fda6) - 2025-07-25
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/1ba482c52c474dcc18fe106774327835c45a3825) - 2025-07-25
 * [Commit] [update Fulu builder API (#7308)](https://github.com/status-im/nimbus-eth2/commit/22cce7a6f21612be931331b0dc6f1e922b460cd3) - 2025-07-25
+* [Pull Request] [Bump nim-stint to v0.8.2](https://github.com/status-im/nimbus-eth2/pull/7339) - 2025-07-28
+* [Commit] [Fulu v1.6.0-alpha.3 helpers (#7306)](https://github.com/status-im/nimbus-eth2/commit/d549f706799cbe62bee05e5e6f27599e7a8a93dd) - 2025-07-28
+* [Commit] [Update SSZ test runner for new directory name (#7328)](https://github.com/status-im/nimbus-eth2/commit/6d2e1b69e80cfd557cb5c0e46bcf01782d13d185) - 2025-07-28
+* [Commit] [update Fulu builder API (#7308)](https://github.com/status-im/nimbus-eth2/commit/22cce7a6f21612be931331b0dc6f1e922b460cd3) - 2025-07-28
+* [Commit] [Bump nimbus-build-system to e6c2c9da39c2d368d9cf420ac22692e99715d22c (#7337)](https://github.com/status-im/nimbus-eth2/commit/74289bf6cd5962b3d53a112892067a06e7396fd6) - 2025-07-28
+* [Commit] [Delete Jenkinsfile.benchmarks](https://github.com/status-im/nimbus-eth2/commit/82d1b6b91cf0f1315600ec26e034c54586589440) - 2025-07-28
+* [Commit] [Bump nimbus-build-system to e6c2c9da39c2d368d9cf420ac22692e99715d22c](https://github.com/status-im/nimbus-eth2/commit/1e3330418dfefce8429a26e04474421f8c857a77) - 2025-07-28
+* [Commit] [Bump nimbus-build-system to e6c2c9da39c2d368d9cf420ac22692e99715d22c](https://github.com/status-im/nimbus-eth2/commit/9bc117b135e856306f4a22b4c7def0dffd497c4d) - 2025-07-28
+* [Pull Request] [Bump nimbus-build-system to e6c2c9da39c2d368d9cf420ac22692e99715d22c](https://github.com/status-im/nimbus-eth2/pull/7337) - 2025-07-28
+* [Commit] [Bump nimbus-build-system to e6c2c9da39c2d368d9cf420ac22692e99715d22c](https://github.com/status-im/nimbus-eth2/commit/3bf7751e7c1766c965959336ea219130c97d700e) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/22d60809690f6c08e89b4565978fc57a797dfba0) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/eff0024b9910d6e67390e74853b608747e9a9cd4) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/5ff727215c89e5e5ee5f283a36a7cd425030de8a) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/1413b85fcb7a9dc8e924362fdf82f08fdc6bb603) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/4744f8ae89faa823466a1cae56f77c33a8f44953) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/95570b036f63095c94c1f787e19c5ed4700c6ede) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/8c4b68f9e4f40db3a8777ae06a4dc954ef311143) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/1c045b199aa54b24a5cdf8be164f0b9e6de93ffd) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/6c54b05bb5d52797da7812d8f8e55d51689cefce) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/328a5e4298f7cb7255fc11f1a4a0f2c9bb482a18) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/550384971a11bb8881755c55289dde1a8f492da3) - 2025-07-28
+* [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/d4a330148ce75471b90f9359e3578b9db5ed7507) - 2025-07-28
 ## Q2 2025
 
 

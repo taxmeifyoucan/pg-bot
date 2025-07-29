@@ -24,6 +24,7 @@ Team: Grandine
 * [Commit] [Add `GET /eth/v1/beacon/blinded_blocks/{block_id}` endpoint](https://github.com/grandinetech/grandine/commit/cc9632ffcca012f8b47a74fd4f29dd02661df9c8) - 2025-07-16
 * [Pull Request] [Improve `pubkey_cache` info messages](https://github.com/grandinetech/grandine/pull/262) - 2025-07-16
 * [Pull Request] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/270) - 2025-07-24
+* [Pull Request] [Feature/bump rust and crates](https://github.com/grandinetech/grandine/pull/276) - 2025-07-28
 ## Q2 2025
 
 

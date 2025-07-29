@@ -84,6 +84,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 50fdf396b12 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3f35676fe9fd912332cff74d786e38f631f30efe) - 2025-07-25
 * [Commit] [Deployed 9ad9f5b93d8 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/92511e7a595355bd5fde64a81bf980745148ffb7) - 2025-07-25
 * [Commit] [Deployed 8f2a856b261 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/ec840a689d1fd34a2a87168c43af350c275b43cd) - 2025-07-25
+* [Commit] [Deployed 9285bd7f127 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/24dd27f714be7d8e43b475700607614231bdc46a) - 2025-07-28
+* [Commit] [Deployed 135f6e729c8 to v5.0.0 with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e66187eb27d79f307966600394c13b38094dc2dd) - 2025-07-28
+* [Issue] [feat(benchmark): add opcode count field to fixture formats for relative opcode benchmarking](https://github.com/ethereum/execution-spec-tests/issues/1961) - 2025-07-28
+* [Commit] [Deployed e2d9b2f0406 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8c2a1b81d27ff957f78ea37b2ca013c35346fd73) - 2025-07-28
 ## Q2 2025
 
 

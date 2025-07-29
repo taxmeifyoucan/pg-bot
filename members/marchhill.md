@@ -76,6 +76,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [reduce deleteblock params](https://github.com/NethermindEth/nethermind/commit/968729093e19108e156c43a4204b63d22332ff68) - 2025-07-24
 * [Commit] [check 2 levels](https://github.com/NethermindEth/nethermind/commit/35eb3b98528726a8717d052c3dd3e554ec41adec) - 2025-07-25
 * [Commit] [NewPayloadTimeout in miliseconds (#8929)](https://github.com/NethermindEth/nethermind/commit/8cdb82cd5d2e12201af764ef2fec366b37c516e3) - 2025-07-25
+* [Commit] [try inverting shouldDownload hasBlock](https://github.com/NethermindEth/nethermind/commit/6550bdb920629959690a645ca624db71788dedaf) - 2025-07-28
+* [Commit] [check different block infos](https://github.com/NethermindEth/nethermind/commit/bc5bf329ff451786f2594161f9b1a429e95005d3) - 2025-07-28
+* [Commit] [change sync feed should downlaod](https://github.com/NethermindEth/nethermind/commit/59f98100e8165b52fff3aee34083977fbbe1ce4b) - 2025-07-28
+* [Commit] [add more cutoff logs](https://github.com/NethermindEth/nethermind/commit/1f179d98319312715417d553085e37b571a6f092) - 2025-07-28
+* [Commit] [add logs for cutoff search](https://github.com/NethermindEth/nethermind/commit/5a22ad407bc9ab424cc718cb71b2de27847b86fa) - 2025-07-28
+* [Commit] [ensure download up to pivot](https://github.com/NethermindEth/nethermind/commit/0f4fcbddd20830b8dc6a11880169783ff27a2409) - 2025-07-28
+* [Commit] [fix prune skip](https://github.com/NethermindEth/nethermind/commit/7d527bd1acb4136ea100c42bdfe03c935e8473fe) - 2025-07-28
+* [Commit] [add prune to logs, don't save delete pointer before found](https://github.com/NethermindEth/nethermind/commit/8a62ddb277ea007c27d4e108c29f65aab5ddb2d1) - 2025-07-28
+* [Commit] [only prune once oldest discovered](https://github.com/NethermindEth/nethermind/commit/7a99d4a12fa74bd4d15b2ac3b8c6b37b552b988b) - 2025-07-28
 ## Q2 2025
 
 

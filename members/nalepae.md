@@ -68,6 +68,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/e725cc4193d7afaf950d9c78bc10f6471c4e2203) - 2025-07-27
 * [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/fab57be15d0bc0ae297dc908779c012fb951141f) - 2025-07-27
 * [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/958181c6869707619bd42ddffba15fb78e921f96) - 2025-07-27
+* [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/1a8ad4315e62c3c3bbcec394fc87f79cf66967a5) - 2025-07-28
+* [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/965fbe27c02eb46b4219fb6232700515307e52c6) - 2025-07-28
+* [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/99ad4b21359df3a57094ded8ab1fb23736e0b52e) - 2025-07-28
+* [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/9257fb2968befa8c76610dfffa7255ce44154af6) - 2025-07-28
+* [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/b632efcc8743f685c4e3d227c9fd657ec10c28b0) - 2025-07-28
+* [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/81cd2675219abdf36612eb3e02dfc42b5d708914) - 2025-07-28
 ## Q2 2025
 
 

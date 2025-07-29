@@ -41,6 +41,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [ignore 4 failing tests which are failing locally at least on mac](https://github.com/hyperledger/besu/pull/9000) - 2025-07-24
 * [Commit] [Remove PoW ATs which were replaced by QBFT miner based ATs (#8949)](https://github.com/hyperledger/besu/commit/ad3b7c954f40c8ed9589c6cd61436c2e5ba231a3) - 2025-07-24
 * [Pull Request] [Backward sync - check we have peers before starting](https://github.com/hyperledger/besu/pull/9003) - 2025-07-25
+* [Issue] [SnapServerTests failing for bonsai archive mode](https://github.com/hyperledger/besu/issues/9013) - 2025-07-28
+* [Pull Request] [SnapServerTest: add dry-run method so tests get picked up](https://github.com/hyperledger/besu/pull/9011) - 2025-07-28
+* [Commit] [TransactionDecoder: handle empty bytes (#8997)](https://github.com/hyperledger/besu/commit/bf6d2b4bec017cb826eacf18d1f1ecb57ca38f82) - 2025-07-28
 ## Q2 2025
 
 

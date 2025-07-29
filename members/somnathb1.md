@@ -45,6 +45,9 @@ Team: Erigon
 * [Commit] [Add a docker ps just before launching](https://github.com/erigontech/erigon/commit/cfd5782fd4f41bf98cfac0bbce396574f3977e50) - 2025-07-26
 * [Commit] [Use 8x now](https://github.com/erigontech/erigon/commit/c205bb01c15c58c994c7138b7ed25171e6b7d19f) - 2025-07-26
 * [Commit] [fix](https://github.com/erigontech/erigon/commit/2ff0abac2340e952faecfc525e7ec8f9b08e153a) - 2025-07-26
+* [Commit] [Spell fix](https://github.com/erigontech/erigon/commit/af50a6c662eb359cca1ce25feeadfe313ca3e384) - 2025-07-28
+* [Commit] [remove non-existent skip](https://github.com/erigontech/erigon/commit/1f48e15ac397eb43c9404c4888f6077d9922738b) - 2025-07-28
+* [Commit] [Update sub repo](https://github.com/erigontech/erigon/commit/c751c81ee5a57d8d38c4dd2547a63abf1112acde) - 2025-07-28
 ## Q2 2025
 
 

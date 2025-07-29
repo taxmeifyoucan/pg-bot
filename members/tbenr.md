@@ -33,6 +33,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [DSA custody advertisement out of sync](https://github.com/Consensys/teku/issues/9680) - 2025-07-18
 * [Commit] [Fix slow sync outside DA (#9713)](https://github.com/Consensys/teku/commit/fba8125b636f8694ed05ff7f0157b6b81ea49043) - 2025-07-25
 * [Pull Request] [Fix slow sync outside DA](https://github.com/Consensys/teku/pull/9713) - 2025-07-25
+* [Pull Request] [genesis-cgc-initialization](https://github.com/Consensys/teku/pull/9717) - 2025-07-28
+* [Commit] [call create attestationData once for all committees (#9620)](https://github.com/Consensys/teku/commit/b7178fa03a37c464336c77264c4a37159b7b1ab5) - 2025-07-28
 ## Q2 2025
 
 

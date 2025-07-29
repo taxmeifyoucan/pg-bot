@@ -147,6 +147,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Include peer count in both peer reports (#9042)](https://github.com/NethermindEth/nethermind/commit/f3df8b6c1ea56144741d26bc439df937e123f19f) - 2025-07-27
 * [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/9f3a837a4022bc76e1ada32c2df193f2121aa16f) - 2025-07-27
 * [Pull Request] [Include peer count in both peer reports](https://github.com/NethermindEth/nethermind/pull/9042) - 2025-07-27
+* [Pull Request] [Rollback Snappier version](https://github.com/NethermindEth/nethermind/pull/9045) - 2025-07-28
+* [Commit] [Prefer gossiping nodes as neighbours if on same fork (#9043)](https://github.com/NethermindEth/nethermind/commit/e1857d7ca6613ccdc40973899290f565f367e235) - 2025-07-28
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

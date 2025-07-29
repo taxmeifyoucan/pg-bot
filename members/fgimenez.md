@@ -74,6 +74,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [feat: add Eth EngineValidator impl](https://github.com/paradigmxyz/reth/pull/17583) - 2025-07-23
 * [Commit] [feat: make CompactEnvelope trait public for external crate usage (#17576)](https://github.com/paradigmxyz/reth/commit/752637a5d7c2adbca3c061d9631516074bd44bcf) - 2025-07-23
 * [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/17620) - 2025-07-26
+* [Commit] [feat: separate EngineValidator from PayloadValidator](https://github.com/paradigmxyz/reth/commit/c143280ef9bb5cd01c0f5d8082665880adb09a9f) - 2025-07-28
+* [Pull Request] [feat: separate EngineValidator from PayloadValidator](https://github.com/paradigmxyz/reth/pull/17641) - 2025-07-28
 ## Q2 2025
 
 

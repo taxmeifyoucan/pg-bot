@@ -30,6 +30,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [pre-calculate total active balance](https://github.com/OffchainLabs/prysm/commit/3b2c8e7743cb53ea7f47413bf87ab30b3864ad2f) - 2025-07-21
 * [Commit] [pre-calculate total active balance](https://github.com/OffchainLabs/prysm/commit/67860292556a79ba387371492f50409046bfb76d) - 2025-07-21
 * [Commit] [pre-calculate total active balance](https://github.com/OffchainLabs/prysm/commit/9ee4804343f3fe1464cf34602dde71cdc0b8a98b) - 2025-07-21
+* [Commit] [remove `slashValidatorFunc` closure](https://github.com/OffchainLabs/prysm/commit/e0e8cb0152cf90891947c283fefffc24f51781fa) - 2025-07-28
 ## Q2 2025
 
 

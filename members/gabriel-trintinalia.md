@@ -37,6 +37,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [feat: add world view to traceStartBlock hook (#8981)](https://github.com/hyperledger/besu/commit/a25c2419f15caffb434bb548707cff935856d947) - 2025-07-23
 
 * [Pull Request] [chore: remove support for eth/67](https://github.com/hyperledger/besu/pull/9008) - 2025-07-28
+* [Commit] [Add a message for disconnect message reasons (#9014)](https://github.com/hyperledger/besu/commit/c4e52b10c8b7376a08a725c5037bf1555a17da04) - 2025-07-28
+* [Pull Request] [choreAdd a message for disconnect message reasons](https://github.com/hyperledger/besu/pull/9014) - 2025-07-28
+* [Commit] [Bump default max peers to 50 (#9010)](https://github.com/hyperledger/besu/commit/c3d573bb4306720a392bcd7e73c9a3231fc3a98b) - 2025-07-28
+* [Pull Request] [[fusala-devnet-3] Bump default max peers to 50](https://github.com/hyperledger/besu/pull/9010) - 2025-07-28
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025

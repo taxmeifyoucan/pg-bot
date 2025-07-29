@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Era1 import prepipeline qol improvements](https://github.com/hyperledger/besu/pull/8964) - 2025-07-16
 * [Pull Request] [Clean up production of the fastSyncFactory in DefaultSynchronizer](https://github.com/hyperledger/besu/pull/8975) - 2025-07-18
 * [Commit] [Clean up production of the fastSyncFactory in DefaultSynchronizer (#8975)](https://github.com/hyperledger/besu/commit/011dd30569288fd6c8f50badae35380869c367b2) - 2025-07-22
+* [Pull Request] [Add metrics to peer task executor usage to better compare directly with old system](https://github.com/hyperledger/besu/pull/9009) - 2025-07-28
 ## Q2 2025
 
 

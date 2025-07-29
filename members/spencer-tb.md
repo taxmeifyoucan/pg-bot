@@ -55,6 +55,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tooling): add mypy ignore comments and rules](https://github.com/ethereum/execution-spec-tests/commit/8f2a856b2613ebfa296a2ea4cfbf9d8e81c12520) - 2025-07-25
 * [Commit] [chore: bump eels resolutions.](https://github.com/ethereum/execution-spec-tests/commit/81007ee2fec3da21a92ad2b8b8d58f31d4c21a53) - 2025-07-25
 * [Commit] [chore: bump eels resolver.](https://github.com/ethereum/execution-spec-tests/commit/e5660fd2c1d5071e565daf31e112624cfac3e7b0) - 2025-07-25
+* [Commit] [chore(docs): add benchmark marker to test case reference (#1960)](https://github.com/ethereum/execution-spec-tests/commit/9285bd7f1270283511c482ea75404c6ab28243e5) - 2025-07-28
+* [Commit] [chore(tests): fix peerdas transition tests (bump nonce).](https://github.com/ethereum/execution-spec-tests/commit/60661864bd603cdbba27ec0150cdd87a1d01d4e8) - 2025-07-28
+* [Pull Request] [feat(tests): extra clz param for scenarios test case](https://github.com/ethereum/execution-spec-tests/pull/1965) - 2025-07-28
+* [Pull Request] [chore(fill): remove fill warnings](https://github.com/ethereum/execution-spec-tests/pull/1964) - 2025-07-28
+* [Pull Request] [chore(ci): bump to use latest eels `forks/osaka`](https://github.com/ethereum/execution-spec-tests/pull/1962) - 2025-07-28
+* [Commit] [chore(docs): update benchmark conftest instead.](https://github.com/ethereum/execution-spec-tests/commit/e07c165375680b5f1fa69bb9d674e4ec6f5e94fb) - 2025-07-28
+* [Commit] [chore: bump eels resolver (#1950)](https://github.com/ethereum/execution-spec-tests/commit/9ad9f5b93d8e1bd231e23ca29fd80b9ea6f5716f) - 2025-07-28
+* [Pull Request] [chore(docs): add benchmark marker to test case reference](https://github.com/ethereum/execution-spec-tests/pull/1960) - 2025-07-28
+* [Commit] [chore(clis): update geth exception mapper for `TYPE_3_TX_BLOB_COUNT_EXCEEDED` (#1958)](https://github.com/ethereum/execution-spec-tests/commit/e2d9b2f040667183b6215e86a9146f9b7f2393d6) - 2025-07-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

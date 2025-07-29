@@ -50,6 +50,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [chore: relax `Cli::run_with_components`](https://github.com/paradigmxyz/reth/pull/17630) - 2025-07-27
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/864351177031683d402f5978649566442870c717) - 2025-07-27
 * [Commit] [test(era1): add more `Receipt` tests to verify decoding (#17592)](https://github.com/paradigmxyz/reth/commit/de5cbfe4cc53c12894a68b0b528a4e062499de81) - 2025-07-27
+* [Issue] [Remove `From<Header>` bound from CLI](https://github.com/paradigmxyz/reth/issues/17642) - 2025-07-28
+* [Issue] [Introduce evm-aware `PayloadValidator` for execution optimizations](https://github.com/paradigmxyz/reth/issues/17640) - 2025-07-28
 ## Q2 2025
 
 

@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Expose methods to query the hardfork in the Plugin API (#8909)](https://github.com/hyperledger/besu/commit/8ddf9f0bb274703bda1266879d331d193aacab78) - 2025-07-11
 * [Pull Request] [Generate distribution dependencies report](https://github.com/hyperledger/besu/pull/8987) - 2025-07-21
 * [Pull Request] [Remove the possibility to create block before Byzantium hard-fork](https://github.com/hyperledger/besu/pull/9005) - 2025-07-25
+* [Commit] [Remove the possibility to create block before Byzantium hard-fork (#9005)](https://github.com/hyperledger/besu/commit/719659a65cbeba1099c00cd634a2350fd8776063) - 2025-07-28
 ## Q2 2025
 
 
