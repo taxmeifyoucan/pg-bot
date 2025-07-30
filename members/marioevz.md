@@ -62,6 +62,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(plugins): Don't copy test list during collection (#1936)](https://github.com/ethereum/execution-spec-tests/commit/e88cd81bf719a067b39512e72852d3ed67d9f7f5) - 2025-07-25
 * [Commit] [chore: bump eels resolver (#1950)](https://github.com/ethereum/execution-spec-tests/commit/9ad9f5b93d8e1bd231e23ca29fd80b9ea6f5716f) - 2025-07-25
 * [Pull Request] [feat(t8n): Support evmone's `--opcode.count` option](https://github.com/ethereum/execution-spec-tests/pull/1956) - 2025-07-26
+* [Issue] [Create opcode test cases generator](https://github.com/ethereum/execution-spec-tests/issues/1966) - 2025-07-29
+* [Commit] [feat(tests): add call memory expansion with no return size test (#1952)](https://github.com/ethereum/execution-spec-tests/commit/c46c46a5e49f1fc63fa50df881c1f97ff5651075) - 2025-07-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

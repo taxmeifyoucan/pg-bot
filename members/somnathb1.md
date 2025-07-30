@@ -48,6 +48,11 @@ Team: Erigon
 * [Commit] [Spell fix](https://github.com/erigontech/erigon/commit/af50a6c662eb359cca1ce25feeadfe313ca3e384) - 2025-07-28
 * [Commit] [remove non-existent skip](https://github.com/erigontech/erigon/commit/1f48e15ac397eb43c9404c4888f6077d9922738b) - 2025-07-28
 * [Commit] [Update sub repo](https://github.com/erigontech/erigon/commit/c751c81ee5a57d8d38c4dd2547a63abf1112acde) - 2025-07-28
+* [Pull Request] [workflows: Use 12x after new fix for hive eest](https://github.com/erigontech/erigon/pull/16355) - 2025-07-29
+* [Pull Request] [[r31] workflows: re-enable parallelism](https://github.com/erigontech/erigon/pull/16352) - 2025-07-29
+* [Commit] [downloader: avoid loading snapshot hashes for unsupported networks (#16351)](https://github.com/erigontech/erigon/commit/6871a1a4448c475b0d634016465187e1c8784b10) - 2025-07-29
+* [Commit] [Use 12x after Andrew's snapshot bor network fix](https://github.com/erigontech/erigon/commit/3cc58bb016c5a2d4f6de89f1a2cc6a52f9066acc) - 2025-07-29
+* [Commit] [downloader: avoid loading snapshot hashes for unsupported networks (#16348)](https://github.com/erigontech/erigon/commit/82dff46055d78215e7b7c6af778d42404acaac97) - 2025-07-29
 ## Q2 2025
 
 

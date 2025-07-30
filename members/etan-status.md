@@ -54,6 +54,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/328a5e4298f7cb7255fc11f1a4a0f2c9bb482a18) - 2025-07-28
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/550384971a11bb8881755c55289dde1a8f492da3) - 2025-07-28
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/d4a330148ce75471b90f9359e3578b9db5ed7507) - 2025-07-28
+* [Pull Request] [Automate updating network configs](https://github.com/status-im/nimbus-eth2/pull/7342) - 2025-07-29
+* [Commit] [Automate updating network configs](https://github.com/status-im/nimbus-eth2/commit/673d324f82d819a68d9e1f558300e4d4d96141af) - 2025-07-29
 ## Q2 2025
 
 

@@ -8,6 +8,11 @@ Team: Protocol Support (EF)
 
 ## Contributions
 
+## Q3 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Update Amir's GH handle](https://github.com/protocolguild/documentation/pull/391) - 2025-07-29
 ## Q2 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

@@ -49,6 +49,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [hashes check for release fix](https://github.com/erigontech/erigon/pull/16307) - 2025-07-27
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/6680aec19be08d7c10adf1f3a180a4f5fd837f07) - 2025-07-27
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/214c5d82715a9c8cefce2fd5040c1424158e10f7) - 2025-07-28
+* [Commit] [[r3.0] TRACE_DELETION  (#16335)](https://github.com/erigontech/erigon/commit/5a3d5758ded3866d1f10e2b9b7d7e17ed19c9ab2) - 2025-07-29
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/a225a8e382261c8f5b046beaf40478fed3704c3f) - 2025-07-29
 ## Q2 2025
 
 

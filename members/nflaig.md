@@ -47,6 +47,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [print out registrations](https://github.com/ChainSafe/lodestar/commit/1f645ead773bf72819e2715d5f97a428021537aa) - 2025-07-28
 * [Commit] [Use CELLS_PER_EXT_BLOB constant](https://github.com/ChainSafe/lodestar/commit/76826dec72d012dc4c798202d8aa4ad27a9f5a6a) - 2025-07-28
 * [Commit] [Fix cells to blob](https://github.com/ChainSafe/lodestar/commit/32f02d8a88cfd4dd8b90bf496f64a4c6a45cffdc) - 2025-07-28
+* [Commit] [feat: enable proposer boost reorg by default (#8080)](https://github.com/ChainSafe/lodestar/commit/dea6b945c2a258c9739d279a3140d9f19c2b5583) - 2025-07-29
 ## Q2 2025
 
 

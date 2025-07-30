@@ -30,6 +30,7 @@ Team: Erigon
 * [Commit] [[r31] qa-tests: update tx-pool performance workflow (#16294)](https://github.com/erigontech/erigon/commit/f7814efb241587917971bfa2c6f784e72a012a9a) - 2025-07-25
 * [Pull Request] [[r31] qa-tests: update tx-pool performance workflow](https://github.com/erigontech/erigon/pull/16294) - 2025-07-25
 * [Pull Request] [qa-tests: tip-tracking test without explicit migration](https://github.com/erigontech/erigon/pull/16286) - 2025-07-25
+* [Pull Request] [qa-tests: tip tracking with downgrade](https://github.com/erigontech/erigon/pull/16354) - 2025-07-29
 ## Q2 2025
 
 

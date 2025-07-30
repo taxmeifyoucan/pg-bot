@@ -84,6 +84,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/8b9a13438660fc275e69566b9c69a05c5e2a9b07) - 2025-07-28
 * [Pull Request] [save](https://github.com/erigontech/erigon/pull/16327) - 2025-07-28
 * [Commit] [[r31] add HeaderNoGaps to integrity check (#16319)](https://github.com/erigontech/erigon/commit/e53bbd8a8620d22f91994c94c89f05e884023b0c) - 2025-07-28
+* [Commit] [qa-tests: enable rpc integration tests on Polygon (#16349)](https://github.com/erigontech/erigon/commit/d0a2ef2fa647d084aa5ceee7950967766740f00f) - 2025-07-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/70315584540cc69c5c6fffbb52764f0e1a77b658) - 2025-07-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cb9256c28ebbb4e8841ed9de442c499ad36240a1) - 2025-07-29
+* [Pull Request] [[r31] duplicate logIndex fix on bor for system txs](https://github.com/erigontech/erigon/pull/16353) - 2025-07-29
 ## Q2 2025
 
 

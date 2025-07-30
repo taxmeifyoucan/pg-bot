@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 
 ## Contributions
 
+## Q3 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Commit] [gloas fixes (#7810)](https://github.com/sigp/lighthouse/commit/723724a8222e0ff17792435be135a56fae9875e5) - 2025-07-29
 ## Q2 2025
 
 

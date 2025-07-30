@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Allocate multiple threads to column reconstruction task](https://github.com/sigp/lighthouse/pull/7789) - 2025-07-24
+* [Issue] [Add new step in CI to verify light client API responses across multiple client implementations](https://github.com/sigp/lighthouse/issues/7811) - 2025-07-29
 ## Q2 2025
 
 

@@ -25,6 +25,7 @@ Team: Grandine
 * [Pull Request] [Improve `pubkey_cache` info messages](https://github.com/grandinetech/grandine/pull/262) - 2025-07-16
 * [Pull Request] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/270) - 2025-07-24
 * [Pull Request] [Feature/bump rust and crates](https://github.com/grandinetech/grandine/pull/276) - 2025-07-28
+* [Commit] [Fix graffiti in builder blocks](https://github.com/grandinetech/grandine/commit/a43a9fdca2eeeb735eebc9079cb46a7f53215876) - 2025-07-29
 ## Q2 2025
 
 

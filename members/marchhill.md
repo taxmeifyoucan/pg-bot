@@ -85,6 +85,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix prune skip](https://github.com/NethermindEth/nethermind/commit/7d527bd1acb4136ea100c42bdfe03c935e8473fe) - 2025-07-28
 * [Commit] [add prune to logs, don't save delete pointer before found](https://github.com/NethermindEth/nethermind/commit/8a62ddb277ea007c27d4e108c29f65aab5ddb2d1) - 2025-07-28
 * [Commit] [only prune once oldest discovered](https://github.com/NethermindEth/nethermind/commit/7a99d4a12fa74bd4d15b2ac3b8c6b37b552b988b) - 2025-07-28
+* [Commit] [ensure optimistic search happens, delete headers and infos](https://github.com/NethermindEth/nethermind/commit/ecd18bda4c1101fcea990d0e27c5c7e032c186bd) - 2025-07-29
+* [Commit] [optimistic search logs](https://github.com/NethermindEth/nethermind/commit/4268276b053f871ca97e969953fbb21ea22430a5) - 2025-07-29
+* [Commit] [reenable optimstic cutoff search](https://github.com/NethermindEth/nethermind/commit/7239bacb3840d9e19b7bebc9a461f9d3ff8f2f1d) - 2025-07-29
+* [Commit] [don't use blockInfo number for cutoff](https://github.com/NethermindEth/nethermind/commit/a945fca22946f2a9d436b767f6c4ffbc4f288be2) - 2025-07-29
+* [Commit] [ignore blockInfo number](https://github.com/NethermindEth/nethermind/commit/411251942666f2fa6e98aa82cac5710d4550cd2f) - 2025-07-29
 ## Q2 2025
 
 

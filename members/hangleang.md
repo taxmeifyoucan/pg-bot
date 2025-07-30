@@ -28,6 +28,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Add support for `eth/v2/builder/blinded_blocks` builder API](https://github.com/grandinetech/grandine/commit/c3be7e42b481a76ba0ac39767f902d6bd6597c13) - 2025-07-22
 * [Pull Request] [Add support for `eth/v2/builder/blinded_blocks` builder API](https://github.com/grandinetech/grandine/pull/267) - 2025-07-22
 * [Pull Request] [Add more PeerDAS metrics](https://github.com/grandinetech/grandine/pull/272) - 2025-07-24
+* [Pull Request] [Do not publish data after submitted blinded block if fulu fork is](https://github.com/grandinetech/grandine/pull/278) - 2025-07-29
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

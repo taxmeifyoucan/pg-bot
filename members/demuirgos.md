@@ -26,6 +26,8 @@ Team: Nethermind
 * [Commit] [fix all failing tests](https://github.com/NethermindEth/nethermind/commit/070078acba807cda45efa1fb6f33bcb46fd72f04) - 2025-07-21
 * [Commit] [more fixes to CLZ and EXP](https://github.com/NethermindEth/nethermind/commit/6d3e1b6223a86ec29be7a4e624eaa1b9d9cfbcdb) - 2025-07-21
 * [Commit] [Fix worker loop (#9007)](https://github.com/NethermindEth/nethermind/commit/6083e36a2b5f5fa2442c2abdb97bbb127d233a84) - 2025-07-21
+* [Commit] [rename EngineDebugModule to DebugModule](https://github.com/NethermindEth/nethermind/commit/e76c468b6f3c1f8ecf2138b1adc350db2d9ec39c) - 2025-07-29
+* [Commit] [Run background tasks at BelowNormal priority (#8968)](https://github.com/NethermindEth/nethermind/commit/fb8d06a386b95f5ce9d457daebac6240d06347a9) - 2025-07-29
 ## Q2 2025
 
 

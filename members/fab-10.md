@@ -19,6 +19,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Generate distribution dependencies report](https://github.com/hyperledger/besu/pull/8987) - 2025-07-21
 * [Pull Request] [Remove the possibility to create block before Byzantium hard-fork](https://github.com/hyperledger/besu/pull/9005) - 2025-07-25
 * [Commit] [Remove the possibility to create block before Byzantium hard-fork (#9005)](https://github.com/hyperledger/besu/commit/719659a65cbeba1099c00cd634a2350fd8776063) - 2025-07-28
+* [Pull Request] [Improve info logs during block creation](https://github.com/hyperledger/besu/pull/9020) - 2025-07-29
 ## Q2 2025
 
 

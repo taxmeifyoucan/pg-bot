@@ -52,6 +52,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [test(era1): add more `Receipt` tests to verify decoding (#17592)](https://github.com/paradigmxyz/reth/commit/de5cbfe4cc53c12894a68b0b528a4e062499de81) - 2025-07-27
 * [Issue] [Remove `From<Header>` bound from CLI](https://github.com/paradigmxyz/reth/issues/17642) - 2025-07-28
 * [Issue] [Introduce evm-aware `PayloadValidator` for execution optimizations](https://github.com/paradigmxyz/reth/issues/17640) - 2025-07-28
+* [Commit] [error](https://github.com/paradigmxyz/reth/commit/ad275be885a34a6ddf331ec87375a69983775ee9) - 2025-07-29
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/15406a6e9329fb7cff02002367b15bc7950f7133) - 2025-07-29
+* [Pull Request] [refactor: stream transactions while executing payload](https://github.com/paradigmxyz/reth/pull/17661) - 2025-07-29
+* [Commit] [fm trait](https://github.com/paradigmxyz/reth/commit/51ec97d00e464235bd2c764f4d7f607a001f02e0) - 2025-07-29
 ## Q2 2025
 
 

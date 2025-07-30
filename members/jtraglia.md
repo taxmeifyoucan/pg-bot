@@ -26,6 +26,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 * [Commit] [eip7732: add becoming builder section (#4456)](https://github.com/ethereum/consensus-specs/commit/73eb5c8fbd04ea2ea449ffada68fdf11f90e71b8) - 2025-07-24
 * [Commit] [Fix duplicate function call (#4460)](https://github.com/ethereum/consensus-specs/commit/1232edcbe892363e8c54b7e65a19ab21fb009582) - 2025-07-24
+* [Pull Request] [Improve some eip7732 p2p gossip validations](https://github.com/ethereum/consensus-specs/pull/4474) - 2025-07-29
+* [Commit] [eip7732: fix builder pending withdrawals processing (#4470)](https://github.com/ethereum/consensus-specs/commit/f1d7eb2a54347e1baab1aa6e4b3fd8cc728a5661) - 2025-07-29
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

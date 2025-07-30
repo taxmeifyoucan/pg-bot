@@ -64,6 +64,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore: bump eels resolver (#1950)](https://github.com/ethereum/execution-spec-tests/commit/9ad9f5b93d8e1bd231e23ca29fd80b9ea6f5716f) - 2025-07-28
 * [Pull Request] [chore(docs): add benchmark marker to test case reference](https://github.com/ethereum/execution-spec-tests/pull/1960) - 2025-07-28
 * [Commit] [chore(clis): update geth exception mapper for `TYPE_3_TX_BLOB_COUNT_EXCEEDED` (#1958)](https://github.com/ethereum/execution-spec-tests/commit/e2d9b2f040667183b6215e86a9146f9b7f2393d6) - 2025-07-28
+* [Commit] [feat(cli): resolve updated eels exceptions (#1784)](https://github.com/ethereum/execution-spec-tests/commit/b16701daa5d614bb8d5a9b472dbea6607592d778) - 2025-07-29
+* [Commit] [chore(tests): try reduce coverage to pass coverage.](https://github.com/ethereum/execution-spec-tests/commit/51cb578834ee04b2591981767eab30ff77902c7f) - 2025-07-29
+* [Commit] [feat(tests): extra clz param for scenarios test case (#1965)](https://github.com/ethereum/execution-spec-tests/commit/e4859609796c58cc833d695cca9863d35a4c8c25) - 2025-07-29
+* [Commit] [feat: resolve updated execution_spec exceptions](https://github.com/ethereum/execution-spec-tests/commit/a0a0bbbd5599d3b8c40d7b09a47e1c624c20123d) - 2025-07-29
+* [Commit] [chore(fill): remove fill warnings (#1964)](https://github.com/ethereum/execution-spec-tests/commit/2c2c11770b514789ceb3d09c37fbcaaece1ec9f7) - 2025-07-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

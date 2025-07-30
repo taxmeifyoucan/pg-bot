@@ -27,6 +27,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [add RemovePeer](https://github.com/erigontech/erigon/commit/52fbab355a497d5132e1d7a083f7a27a1232e723) - 2025-07-26
 * [Commit] [Fix up interface gen tool installation (#16305)](https://github.com/erigontech/erigon/commit/cc5eb2bcb41ef0ddd994bd09046c62502450ee24) - 2025-07-27
 * [Commit] [kv/mdbx: revert nosync periodic flusher (#16262)](https://github.com/erigontech/erigon/commit/ec721c7ad1d2561642798f2ded4e6df5f3955f89) - 2025-07-27
+* [Pull Request] [rpcdaemon: add blockTimestamp to the eth_getBlockReceipts](https://github.com/erigontech/erigon/pull/16356) - 2025-07-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
@@ -38,6 +39,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [updated](https://github.com/erigontech/rpc-tests/commit/dfeae019d41878969a97d3fa0f96079e2e3dad8f) - 2025-07-27
 * [Commit] [updated](https://github.com/erigontech/rpc-tests/commit/4dba7816d8fd990a220f807613a82861fd7c0bab) - 2025-07-27
 * [Commit] [inforce check](https://github.com/erigontech/rpc-tests/commit/a6cbcfb61b95d95d9f3637eb5009d47718d787e4) - 2025-07-27
+* [Pull Request] [integration_test: eth_getBlockReceipts with blockTimestamp](https://github.com/erigontech/rpc-tests/pull/422) - 2025-07-29
+* [Pull Request] [rpcdaemon: poligon chain debug_tarceTransaction returnValue with 0x](https://github.com/erigontech/rpc-tests/pull/421) - 2025-07-29
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

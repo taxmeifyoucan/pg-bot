@@ -99,6 +99,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat: rename bn128 to bn254 for Ethereum standard consistency (#2810)](https://github.com/bluealloy/revm/commit/9bc0c04fda0891e0e8d2e2a6dfd0af81c2af18c4) - 2025-07-28
 * [Issue] [Align naming of `SystemCallEvm` function to `ExecuteEvm` convention](https://github.com/bluealloy/revm/issues/2812) - 2025-07-28
 * [Commit] [fix(op-revm): system tx not enveloped (#2807)](https://github.com/bluealloy/revm/commit/80e09f643665f4154726bbcb2542fa5388634331) - 2025-07-28
+* [Pull Request] [feat: small perf rm b.lo instr](https://github.com/bluealloy/revm/pull/2823) - 2025-07-29
+* [Commit] [test(op-revm): Adds caller nonce assertion to op-revm intergation tests (#2815)](https://github.com/bluealloy/revm/commit/df467931c4b1b8b620ff2cb9f62501c7abc3ea03) - 2025-07-29
+* [Pull Request] [(experimental) gastable](https://github.com/bluealloy/revm/pull/2822) - 2025-07-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

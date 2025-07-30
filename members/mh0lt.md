@@ -100,6 +100,9 @@ Team: Erigon
 * [Commit] [add log tracing](https://github.com/erigontech/erigon/commit/e70cd0b2cd349f610afd4a3e2a25939e159e8547) - 2025-07-27
 * [Commit] [add log tracing](https://github.com/erigontech/erigon/commit/1ffdba19f76c1948f008e2c6f6bcaec05257838e) - 2025-07-27
 * [Commit] [log stack](https://github.com/erigontech/erigon/commit/cd21e8bd089b22d5ba17ab096f642720de0f6a1d) - 2025-07-28
+* [Commit] [fix gas trace calc](https://github.com/erigontech/erigon/commit/4e1b9cff87f9acc3cfb351611159c60d6fb3f894) - 2025-07-29
+* [Commit] [add gas printer](https://github.com/erigontech/erigon/commit/e96e8a50fd649bec43d9b9cf15fad8aa995e6d73) - 2025-07-29
+* [Commit] [trace gas](https://github.com/erigontech/erigon/commit/180627810a6a2783e8ede46bf813f716c37fb005) - 2025-07-29
 ## Q2 2025
 
 

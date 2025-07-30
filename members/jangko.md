@@ -75,6 +75,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [bump njs](https://github.com/status-im/nimbus-eth1/commit/a4f4d022af16d2bec064a0750d27d78c2ef143cc) - 2025-07-28
 * [Commit] [bump serialization](https://github.com/status-im/nimbus-eth1/commit/d7d6709346f47a29ce94200bc7b1531ad376b4ea) - 2025-07-28
 * [Pull Request] [NJS: Add option to disable automatic serialization of primitive types](https://github.com/status-im/nimbus-eth1/pull/3515) - 2025-07-28
+* [Commit] [fix t8n_debug](https://github.com/status-im/nimbus-eth1/commit/77a24d85d1fe78d2d00e9dfb7ce4488311bcb7fe) - 2025-07-29
+* [Commit] [Switch on automatic serialization](https://github.com/status-im/nimbus-eth1/commit/3c4023e6e86e949a85d67914cf7420125cf0c530) - 2025-07-29
+* [Commit] [Bump submodules](https://github.com/status-im/nimbus-eth1/commit/144b7ab2b6b4668b0f391eb5b1bfe25e0d298e6d) - 2025-07-29
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 
@@ -85,6 +88,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Bump serialization](https://github.com/status-im/nimbus-eth2/commit/96bb70f3ffc8eef37f516543e19bda9ab38ebb76) - 2025-07-28
 * [Commit] [Bump nim-web3](https://github.com/status-im/nimbus-eth2/commit/52dcfb4ea7a6a5e56c1434822fc4612bf4c21400) - 2025-07-28
 * [Pull Request] [NJS: Add option to disable automatic serialization of primitive types](https://github.com/status-im/nimbus-eth2/pull/7334) - 2025-07-28
+* [Commit] [bump web3](https://github.com/status-im/nimbus-eth2/commit/5737d7335599232cd43781257d1dc872b41870c5) - 2025-07-29
+* [Commit] [Update e2store.md (#7314)](https://github.com/status-im/nimbus-eth2/commit/a1a28a3920d9d87d7a7b31320dcfd981ece49a6b) - 2025-07-29
+* [Commit] [Bump submodules](https://github.com/status-im/nimbus-eth2/commit/33a5a448d688e340b40f7d52f681bb2708f92ec4) - 2025-07-29
 ## Q2 2025
 
 

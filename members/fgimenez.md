@@ -76,6 +76,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/17620) - 2025-07-26
 * [Commit] [feat: separate EngineValidator from PayloadValidator](https://github.com/paradigmxyz/reth/commit/c143280ef9bb5cd01c0f5d8082665880adb09a9f) - 2025-07-28
 * [Pull Request] [feat: separate EngineValidator from PayloadValidator](https://github.com/paradigmxyz/reth/pull/17641) - 2025-07-28
+* [Commit] [fix doc](https://github.com/paradigmxyz/reth/commit/90af10670b06a9af7830c8f786a52db98dc716ac) - 2025-07-29
+* [Pull Request] [refactor: move BasicEngineValidator creation into EngineApiValidatorBuilder trait](https://github.com/paradigmxyz/reth/pull/17664) - 2025-07-29
+* [Commit] [refactor: move BasicEngineValidator creation into EngineApiValidatorBuilder trait](https://github.com/paradigmxyz/reth/commit/a27339ef0aa459f08db5e1185d10a0649ad6f2ad) - 2025-07-29
+* [Commit] [refactor: move BasicEngineValidator creation into EngineApiValidatorBuilder trait](https://github.com/paradigmxyz/reth/commit/bfe3bc0a95f3c6afc9ccee95fa1f807cb5042cfd) - 2025-07-29
 ## Q2 2025
 
 

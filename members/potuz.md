@@ -13,6 +13,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Remove broken link from README](https://github.com/ethereum/consensus-specs/pull/4431) - 2025-07-07
+* [Pull Request] [Add boolean to PayloadAttestationData](https://github.com/ethereum/consensus-specs/pull/4473) - 2025-07-29
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [Add hashtree library integration as alternative to gohashtree](https://github.com/OffchainLabs/prysm/commit/1b98d8c202a57a39a639c703bab7190c967943db) - 2025-07-29
+* [Commit] [Add hashtree library integration as alternative to gohashtree](https://github.com/OffchainLabs/prysm/commit/d28138298a3931e05baab345992be894dc264eb2) - 2025-07-29
+* [Commit] [Add hashtree library integration as alternative to gohashtree](https://github.com/OffchainLabs/prysm/commit/b3ab7b8be5980d5c218c8228e5499574bdce092a) - 2025-07-29
+* [Commit] [Add hashtree library integration as alternative to gohashtree](https://github.com/OffchainLabs/prysm/commit/9ee32cc241e58a52c3aa4a218bdb236c1c96c619) - 2025-07-29
+* [Commit] [Add hashtree library integration as alternative to gohashtree](https://github.com/OffchainLabs/prysm/commit/8edc762f750a6d78fd2557318f23008d8b62afe1) - 2025-07-29
+* [Commit] [Add hashtree library integration as alternative to gohashtree](https://github.com/OffchainLabs/prysm/commit/b84c383a2532d1508ae7d0ba4b586b566cafe87d) - 2025-07-29
 ## Q2 2025
 
 

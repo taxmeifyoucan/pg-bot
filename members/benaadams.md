@@ -149,6 +149,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Include peer count in both peer reports](https://github.com/NethermindEth/nethermind/pull/9042) - 2025-07-27
 * [Pull Request] [Rollback Snappier version](https://github.com/NethermindEth/nethermind/pull/9045) - 2025-07-28
 * [Commit] [Prefer gossiping nodes as neighbours if on same fork (#9043)](https://github.com/NethermindEth/nethermind/commit/e1857d7ca6613ccdc40973899290f565f367e235) - 2025-07-28
+* [Commit] [PR Review Comments](https://github.com/NethermindEth/nethermind/commit/bcce0d9bb53c3bb6102eececad350bcc69eac1be) - 2025-07-29
+* [Commit] [Revert "Set default pruning boundary to 128 (#8863)" (#9052)](https://github.com/NethermindEth/nethermind/commit/8ff941251069485fb9d95c6791b06ccde35a2989) - 2025-07-29
+* [Pull Request] [Revert "Set default pruning boundary to 128 (#8863)"](https://github.com/NethermindEth/nethermind/pull/9052) - 2025-07-29
+* [Commit] [Merge conflict](https://github.com/NethermindEth/nethermind/commit/ecf870815f584308f807a9e6ec2793fd1608131c) - 2025-07-29
+* [Commit] [Merge conflict](https://github.com/NethermindEth/nethermind/commit/c6d58d7f91ce799ad8031206b2ca8956e2f6f2de) - 2025-07-29
+* [Commit] [Merge conflict](https://github.com/NethermindEth/nethermind/commit/cbf2bdfdb18edb7b37e23c5b56679f8ea226aeeb) - 2025-07-29
+* [Commit] [Explicit unsafe](https://github.com/NethermindEth/nethermind/commit/b9224f0b6ada716ef4e436533b19e2bc3db29abb) - 2025-07-29
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

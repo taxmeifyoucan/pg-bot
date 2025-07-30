@@ -25,6 +25,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [qa-tests: fix and improve gnosis tip-tracking (#15707)](https://github.com/erigontech/erigon/commit/ac3d99a1f15a1b1c1b4943f63a073859637344d0) - 2025-07-03
 * [Commit] [IntegrityInvertedIndexAllValuesAreInRange make parallel  (#15895)](https://github.com/erigontech/erigon/commit/6c7cbf5b60c407b442541b89a4287328f4f686ae) - 2025-07-04
 * [Issue] [Rename `v1.0` snapshots that changed in 3.1 compared to 3.0 to `v1.1`](https://github.com/erigontech/erigon/issues/16293) - 2025-07-25
+* [Pull Request] [downloader: avoid loading snapshot hashes for unsupported networks](https://github.com/erigontech/erigon/pull/16351) - 2025-07-29
+* [Commit] [downloader: avoid loading snapshot hashes for unsupported networks](https://github.com/erigontech/erigon/commit/d07195e9999739255810caf8f7af7ae7d9161375) - 2025-07-29
 ## Q2 2025
 
 
