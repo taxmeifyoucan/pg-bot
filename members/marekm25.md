@@ -21,6 +21,8 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Commit] [Allocate 96 bytes less per tx sender recovery (#8824)](https://github.com/NethermindEth/nethermind/commit/7904ddb40cc6ef673aaff70ca811546665233551) - 2025-07-14
 * [Commit] [Ensure exception in block downloader is caught (#8931)](https://github.com/NethermindEth/nethermind/commit/55f7950321d4bd7db7076d050d0a7837edc4cc58) - 2025-07-14
 * [Commit] [NewPayloadTimeout in miliseconds (#8929)](https://github.com/NethermindEth/nethermind/commit/8cdb82cd5d2e12201af764ef2fec366b37c516e3) - 2025-07-23
+* [Issue] [Extending trace_ endpoints with fork as a parameter](https://github.com/NethermindEth/nethermind/issues/9056) - 2025-07-30
+* [Issue] [Monitoring hardfork effects on application layer](https://github.com/NethermindEth/nethermind/issues/9055) - 2025-07-30
 ## Q2 2025
 
 

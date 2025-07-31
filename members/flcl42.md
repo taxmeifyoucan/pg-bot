@@ -63,6 +63,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Reduce exceptions in ZeroProtocolHandlerBase.HandleResponse (#9037)](https://github.com/NethermindEth/nethermind/commit/91a5ad96458d174dca6c7127ac133208893d41c5) - 2025-07-27
 * [Commit] [Fix Discv4 / ENR response / request-hash (#9046)](https://github.com/NethermindEth/nethermind/commit/d223491b2ffe4834220d82adbea828b9b9157cd3) - 2025-07-29
 * [Commit] [Log exception](https://github.com/NethermindEth/nethermind/commit/80910ae7b0636df140bb7dfa0e5dae75f2865a7a) - 2025-07-29
+* [Commit] [Merge branch 'fusaka-devnet-3' of github.com:NethermindEth/nethermind into fusaka-devnet-3](https://github.com/NethermindEth/nethermind/commit/27f2025513ee7713e82af47a7eaa6c4495f19f0e) - 2025-07-30
+* [Commit] [Update eth_config format](https://github.com/NethermindEth/nethermind/commit/7552f16c66871b588a1158060ff5eccabce9a046) - 2025-07-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

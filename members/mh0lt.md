@@ -103,6 +103,11 @@ Team: Erigon
 * [Commit] [fix gas trace calc](https://github.com/erigontech/erigon/commit/4e1b9cff87f9acc3cfb351611159c60d6fb3f894) - 2025-07-29
 * [Commit] [add gas printer](https://github.com/erigontech/erigon/commit/e96e8a50fd649bec43d9b9cf15fad8aa995e6d73) - 2025-07-29
 * [Commit] [trace gas](https://github.com/erigontech/erigon/commit/180627810a6a2783e8ede46bf813f716c37fb005) - 2025-07-29
+* [Commit] [dont print fees](https://github.com/erigontech/erigon/commit/34d68f5ce5be43a5e7894e0f48cc11ceb91ca118) - 2025-07-30
+* [Commit] [don't revert non writeset reads](https://github.com/erigontech/erigon/commit/aa15136d111c3801ff243b50a4c0326246fee673) - 2025-07-30
+* [Commit] [don't revert non writeset reads](https://github.com/erigontech/erigon/commit/4edf1f7bcf5fd19a59d56a1081e97436a030749c) - 2025-07-30
+* [Commit] [don't revert non writeset reads](https://github.com/erigontech/erigon/commit/a2c881b9b9d19437a2da60677313a28e0c2e1b61) - 2025-07-30
+* [Commit] [don't revert storage read](https://github.com/erigontech/erigon/commit/6587e647dd47d136c251dc0d3f5ae2f4c1ee7e99) - 2025-07-30
 ## Q2 2025
 
 

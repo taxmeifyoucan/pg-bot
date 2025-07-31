@@ -74,6 +74,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/9257fb2968befa8c76610dfffa7255ce44154af6) - 2025-07-28
 * [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/b632efcc8743f685c4e3d227c9fd657ec10c28b0) - 2025-07-28
 * [Commit] [Validator custody: Update to the latest specfication.](https://github.com/OffchainLabs/prysm/commit/81cd2675219abdf36612eb3e02dfc42b5d708914) - 2025-07-28
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/466538f700e694b15ab96f2330804b71129c95bd) - 2025-07-30
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/2877bb8bf3e41aeba4cca3a161bc6f6d655777f7) - 2025-07-30
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/f55631688ca33f4bc715c6569aec79810ebf73c2) - 2025-07-30
 ## Q2 2025
 
 

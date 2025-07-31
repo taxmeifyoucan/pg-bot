@@ -69,6 +69,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): extra clz param for scenarios test case (#1965)](https://github.com/ethereum/execution-spec-tests/commit/e4859609796c58cc833d695cca9863d35a4c8c25) - 2025-07-29
 * [Commit] [feat: resolve updated execution_spec exceptions](https://github.com/ethereum/execution-spec-tests/commit/a0a0bbbd5599d3b8c40d7b09a47e1c624c20123d) - 2025-07-29
 * [Commit] [chore(fill): remove fill warnings (#1964)](https://github.com/ethereum/execution-spec-tests/commit/2c2c11770b514789ceb3d09c37fbcaaece1ec9f7) - 2025-07-29
+* [Commit] [feat(cli): resolve updated eels exceptions (#1784)](https://github.com/ethereum/execution-spec-tests/commit/b16701daa5d614bb8d5a9b472dbea6607592d778) - 2025-07-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

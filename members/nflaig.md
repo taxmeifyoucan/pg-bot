@@ -48,6 +48,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Use CELLS_PER_EXT_BLOB constant](https://github.com/ChainSafe/lodestar/commit/76826dec72d012dc4c798202d8aa4ad27a9f5a6a) - 2025-07-28
 * [Commit] [Fix cells to blob](https://github.com/ChainSafe/lodestar/commit/32f02d8a88cfd4dd8b90bf496f64a4c6a45cffdc) - 2025-07-28
 * [Commit] [feat: enable proposer boost reorg by default (#8080)](https://github.com/ChainSafe/lodestar/commit/dea6b945c2a258c9739d279a3140d9f19c2b5583) - 2025-07-29
+* [Commit] [Reconstruct full data matrix if less than 128 columns are provided](https://github.com/ChainSafe/lodestar/commit/f4186ecf2e3c85019e87a8123e69d650b7b163f2) - 2025-07-30
 ## Q2 2025
 
 

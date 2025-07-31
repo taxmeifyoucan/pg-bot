@@ -111,6 +111,7 @@ Team: Erigon
 * [Commit] [[r30] increase default `--db.pageSize` to 16kb (#16297)](https://github.com/erigontech/erigon/commit/d150c74406c571724b8ca3c09499295021bbae83) - 2025-07-26
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9dfc34e1a11bcb23798aa3b86e224b495d23cf59) - 2025-07-27
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d9af309d87d147febf710571e0b16401ce7b6202) - 2025-07-27
+* [Pull Request] [Do not merge: cherry pick a fix for science](https://github.com/erigontech/erigon/pull/16367) - 2025-07-30
 ## Q2 2025
 
 

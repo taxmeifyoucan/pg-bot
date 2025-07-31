@@ -39,6 +39,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Configure codecov components (#1280)](https://github.com/ipsilon/evmone/commit/64feb7df00c38d23c9532d8f07ed37442c7f72f8) - 2025-07-24
 * [Commit] [ci: Configure codecov components](https://github.com/ipsilon/evmone/commit/e34d9ec84e8d9a32962324be31462c0a3e02757e) - 2025-07-24
 * [Commit] [ci: Configure codecov components](https://github.com/ipsilon/evmone/commit/762902186e24603c70d05692c3c673e3bc0f37ae) - 2025-07-24
+* [Commit] [precompiles: Provide and benchmark GMP-only modexp](https://github.com/ipsilon/evmone/commit/99a4ddf1f37312c6a09d1e68322c01d5620cc52f) - 2025-07-30
+* [Pull Request] [Provide and benchmark GMP-only modexp](https://github.com/ipsilon/evmone/pull/1290) - 2025-07-30
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 

@@ -156,6 +156,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Merge conflict](https://github.com/NethermindEth/nethermind/commit/c6d58d7f91ce799ad8031206b2ca8956e2f6f2de) - 2025-07-29
 * [Commit] [Merge conflict](https://github.com/NethermindEth/nethermind/commit/cbf2bdfdb18edb7b37e23c5b56679f8ea226aeeb) - 2025-07-29
 * [Commit] [Explicit unsafe](https://github.com/NethermindEth/nethermind/commit/b9224f0b6ada716ef4e436533b19e2bc3db29abb) - 2025-07-29
+* [Commit] [Merge conflict](https://github.com/NethermindEth/nethermind/commit/b7196e727313cdab30050a256ae2fa0ad7d0daa4) - 2025-07-30
+* [Commit] [Vectorize Node distance (#9054)](https://github.com/NethermindEth/nethermind/commit/38a6cb2b03ea88e0321cc692d03bcea1c18eaa14) - 2025-07-30
+* [Commit] [Vectorize Node distance (#9054)](https://github.com/NethermindEth/nethermind/commit/5e00a3f5879ef8b109c72d1a576a393518c5fc46) - 2025-07-30
+* [Pull Request] [Vectorize Node distance](https://github.com/NethermindEth/nethermind/pull/9054) - 2025-07-30
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

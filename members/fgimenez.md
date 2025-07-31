@@ -80,6 +80,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [refactor: move BasicEngineValidator creation into EngineApiValidatorBuilder trait](https://github.com/paradigmxyz/reth/pull/17664) - 2025-07-29
 * [Commit] [refactor: move BasicEngineValidator creation into EngineApiValidatorBuilder trait](https://github.com/paradigmxyz/reth/commit/a27339ef0aa459f08db5e1185d10a0649ad6f2ad) - 2025-07-29
 * [Commit] [refactor: move BasicEngineValidator creation into EngineApiValidatorBuilder trait](https://github.com/paradigmxyz/reth/commit/bfe3bc0a95f3c6afc9ccee95fa1f807cb5042cfd) - 2025-07-29
+* [Commit] [decouple engine validator type from builder in node add-ons](https://github.com/paradigmxyz/reth/commit/84555ffbb5bc9a0385b45bd4ab2a732e2df4861c) - 2025-07-30
 ## Q2 2025
 
 

@@ -94,6 +94,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/ad4203d3aed0df8c434ad3443d97e2c007164565) - 2025-07-29
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/2b4039476fd7ab639ecbdde01bddd18ec0c0c95b) - 2025-07-29
 * [Commit] [debug](https://github.com/erigontech/erigon/commit/f7693eccb0f6e65e634739f030013e5e4570fc4d) - 2025-07-29
+* [Commit] [workflows: Reduce parallelism and clean before run with Hive EEST (#16322)](https://github.com/erigontech/erigon/commit/fbf1501249d3a3592f8365f94cc31133388b4543) - 2025-07-30
+* [Commit] [update](https://github.com/erigontech/erigon/commit/6658622c8ba009188d8d53bfc37431b08e269329) - 2025-07-30
+* [Commit] [update](https://github.com/erigontech/erigon/commit/013138a90bd480dc2acf664c59503c0649e42ad2) - 2025-07-30
 ## Q2 2025
 
 

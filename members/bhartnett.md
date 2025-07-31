@@ -35,6 +35,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Always cache fetched block hash.](https://github.com/status-im/nimbus-eth1/commit/284e1deba4fd50a6459ed5af46843f4cf8e0f929) - 2025-07-25
 * [Pull Request] [Support BLOCKHASH opcode in Async EVM](https://github.com/status-im/nimbus-eth1/pull/3512) - 2025-07-26
 * [Commit] [Stateless: Populate chain of headers in execution witness (#3502)](https://github.com/status-im/nimbus-eth1/commit/d8ab171cc4ce18b86a165d43b2369d6a69eb7308) - 2025-07-26
+* [Commit] [Support BLOCKHASH opcode in Async EVM (#3512)](https://github.com/status-im/nimbus-eth1/commit/a30ff4a84afb6b5d30fb7bfc6f7af10086131b41) - 2025-07-30
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

@@ -105,6 +105,7 @@ Team: Reth
 * [Pull Request] [perf: box larger futures](https://github.com/paradigmxyz/reth/pull/17633) - 2025-07-27
 * [Commit] [chore: bump evm](https://github.com/paradigmxyz/reth/commit/167a42b199149069d75f9422073b9a7f9cbe25f5) - 2025-07-27
 * [Issue] [Separate `EngineValidator` from `PayloadValidator`](https://github.com/paradigmxyz/reth/issues/17639) - 2025-07-28
+* [Pull Request] [chore: rm clone for witness](https://github.com/paradigmxyz/reth/pull/17684) - 2025-07-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

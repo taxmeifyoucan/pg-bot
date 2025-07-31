@@ -18,6 +18,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Update consensus-specs links to point to master (#9685)](https://github.com/Consensys/teku/commit/6faba5e5406548739c3edf158987cc7598b49f70) - 2025-07-20
 * [Commit] [Cleanup 25.7.1 (#9715)](https://github.com/Consensys/teku/commit/2bd86b84f9bcad9859e90163619701ce26ff9645) - 2025-07-28
 * [Pull Request] [Cleanup 25.7.1](https://github.com/Consensys/teku/pull/9715) - 2025-07-28
+* [Commit] [add cla check via github (#9729)](https://github.com/Consensys/teku/commit/b35305c1cdff25b1c3b85c148bb33009c9ba8107) - 2025-07-30
 ## Q2 2025
 
 

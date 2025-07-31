@@ -36,6 +36,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump down sidecarless](https://github.com/status-im/nimbus-eth2/commit/8b9bf287c898c4aafa19804e46c5b7ee673679c2) - 2025-07-25
 * [Commit] [fixes](https://github.com/status-im/nimbus-eth2/commit/636d95a01156bb3a903227de9494bf96f82e393c) - 2025-07-25
 * [Commit] [use EF consensus spec v1.6.0-alpha.3 test vectors (#7287)](https://github.com/status-im/nimbus-eth2/commit/97ed32ad9a0c8ce5e54fd22f59b8f663e46c7cbc) - 2025-07-25
+* [Commit] [further fulu builder api clarifications](https://github.com/status-im/nimbus-eth2/commit/2414203fa0a25e0d640f43f9381390653aa76848) - 2025-07-30
+* [Commit] [resolved merge conflict](https://github.com/status-im/nimbus-eth2/commit/3dfe6e284e10735b900dbe90190dc331d74966ec) - 2025-07-30
+* [Commit] [fix fulu builder api changes](https://github.com/status-im/nimbus-eth2/commit/709725dd13c6d3933ba10ac46c382657e1d0b59c) - 2025-07-30
 ## Q2 2025
 
 

@@ -88,6 +88,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/70315584540cc69c5c6fffbb52764f0e1a77b658) - 2025-07-29
 * [Commit] [save](https://github.com/erigontech/erigon/commit/cb9256c28ebbb4e8841ed9de442c499ad36240a1) - 2025-07-29
 * [Pull Request] [[r31] duplicate logIndex fix on bor for system txs](https://github.com/erigontech/erigon/pull/16353) - 2025-07-29
+* [Pull Request] [Trace hooks systx](https://github.com/erigontech/erigon/pull/16360) - 2025-07-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5eb6b91aa575d48066ed8c204fe6c45aceda54da) - 2025-07-30
 ## Q2 2025
 
 

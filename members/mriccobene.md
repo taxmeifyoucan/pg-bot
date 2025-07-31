@@ -31,6 +31,9 @@ Team: Erigon
 * [Pull Request] [[r31] qa-tests: update tx-pool performance workflow](https://github.com/erigontech/erigon/pull/16294) - 2025-07-25
 * [Pull Request] [qa-tests: tip-tracking test without explicit migration](https://github.com/erigontech/erigon/pull/16286) - 2025-07-25
 * [Pull Request] [qa-tests: tip tracking with downgrade](https://github.com/erigontech/erigon/pull/16354) - 2025-07-29
+* [Commit] [[r3.1] auto upgrade snapshots (#16288)](https://github.com/erigontech/erigon/commit/ca5511390481ec6bd9abacac5d151d4206784268) - 2025-07-30
+* [Commit] [re-enable snapshot upgrade procedure](https://github.com/erigontech/erigon/commit/030d99eb3c72601fdf0e12ae837d05940b228366) - 2025-07-30
+* [Commit] [save prev erigon version](https://github.com/erigontech/erigon/commit/3edde147c31e826ac9380b544c4493c5c92b97b0) - 2025-07-30
 ## Q2 2025
 
 

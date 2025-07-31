@@ -26,6 +26,7 @@ Team: Grandine
 * [Pull Request] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/270) - 2025-07-24
 * [Pull Request] [Feature/bump rust and crates](https://github.com/grandinetech/grandine/pull/276) - 2025-07-28
 * [Commit] [Fix graffiti in builder blocks](https://github.com/grandinetech/grandine/commit/a43a9fdca2eeeb735eebc9079cb46a7f53215876) - 2025-07-29
+* [Commit] [Update rust version to 1.87.0](https://github.com/grandinetech/grandine/commit/ed15762dbaa96b5d8c1ed6616bbb356561531fc5) - 2025-07-30
 ## Q2 2025
 
 

@@ -78,6 +78,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [fix t8n_debug](https://github.com/status-im/nimbus-eth1/commit/77a24d85d1fe78d2d00e9dfb7ce4488311bcb7fe) - 2025-07-29
 * [Commit] [Switch on automatic serialization](https://github.com/status-im/nimbus-eth1/commit/3c4023e6e86e949a85d67914cf7420125cf0c530) - 2025-07-29
 * [Commit] [Bump submodules](https://github.com/status-im/nimbus-eth1/commit/144b7ab2b6b4668b0f391eb5b1bfe25e0d298e6d) - 2025-07-29
+* [Commit] [Fix](https://github.com/status-im/nimbus-eth1/commit/7e1c6d6590fb00ad02883cdc67e70a6253ff93c7) - 2025-07-30
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

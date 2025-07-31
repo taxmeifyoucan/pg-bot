@@ -90,6 +90,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [reenable optimstic cutoff search](https://github.com/NethermindEth/nethermind/commit/7239bacb3840d9e19b7bebc9a461f9d3ff8f2f1d) - 2025-07-29
 * [Commit] [don't use blockInfo number for cutoff](https://github.com/NethermindEth/nethermind/commit/a945fca22946f2a9d436b767f6c4ffbc4f288be2) - 2025-07-29
 * [Commit] [ignore blockInfo number](https://github.com/NethermindEth/nethermind/commit/411251942666f2fa6e98aa82cac5710d4550cd2f) - 2025-07-29
+* [Commit] [prevent unneeded db write of delete pointeer](https://github.com/NethermindEth/nethermind/commit/57feeb3847f09577bf59c9116a131c8ecd26eb26) - 2025-07-30
+* [Commit] [don't reload delete pointer](https://github.com/NethermindEth/nethermind/commit/5205eac9930741d7ac85609362c4ca0ddb0f8b63) - 2025-07-30
+* [Commit] [check if delete pointer already loaded](https://github.com/NethermindEth/nethermind/commit/ca33ad4bbb23930cf9e86583b0f42a42b0be279f) - 2025-07-30
+* [Commit] [Fix/Orphaned block error on freshly restarted node (#9034)](https://github.com/NethermindEth/nethermind/commit/69ed9f83803c14969b78600eade001d72faf929a) - 2025-07-30
+* [Pull Request] [Feature/auto history cleaner test](https://github.com/NethermindEth/nethermind/pull/9058) - 2025-07-30
 ## Q2 2025
 
 

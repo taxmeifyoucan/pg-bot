@@ -102,6 +102,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat: small perf rm b.lo instr](https://github.com/bluealloy/revm/pull/2823) - 2025-07-29
 * [Commit] [test(op-revm): Adds caller nonce assertion to op-revm intergation tests (#2815)](https://github.com/bluealloy/revm/commit/df467931c4b1b8b620ff2cb9f62501c7abc3ea03) - 2025-07-29
 * [Pull Request] [(experimental) gastable](https://github.com/bluealloy/revm/pull/2822) - 2025-07-29
+* [Commit] [feat: removed padding in case last opcode is terminating or unknown (#2816)](https://github.com/bluealloy/revm/commit/5f67c14ab9402ef896a725c348187c34afde5201) - 2025-07-30
+* [Commit] [feat: fix renamed functions for system_call (#2824)](https://github.com/bluealloy/revm/commit/ee6e7cd58a373b6b1591a29a4309daa3b0824ca7) - 2025-07-30
+* [Pull Request] [feat: fix renamed function for system_call](https://github.com/bluealloy/revm/pull/2824) - 2025-07-30
+* [Commit] [always inline step fn](https://github.com/bluealloy/revm/commit/f4639c83dce19e88c1e82de4c4874046e13fc75e) - 2025-07-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

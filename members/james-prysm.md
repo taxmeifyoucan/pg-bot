@@ -51,6 +51,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [implements the proposer lookahead api](https://github.com/OffchainLabs/prysm/pull/15525) - 2025-07-23
 * [Commit] [Update links to consensus-specs to point to master branch (#15523)](https://github.com/OffchainLabs/prysm/commit/856742ff68a896d0ca1f825ca2ee5992319f82ca) - 2025-07-23
 * [Commit] [fix(beacon-api): return syncnets and cgc in Metadata. (#15506)](https://github.com/OffchainLabs/prysm/commit/6ddf2716880ef1fbc95a6e8caf5ac3917da7cb27) - 2025-07-25
+* [Commit] [Fix builder bid version compatibility to support Electra bids with Fulu blocks (#15536)](https://github.com/OffchainLabs/prysm/commit/57e27199bdb9b3ef1af14c3374999aba5e0788a3) - 2025-07-30
+* [Commit] [fixing requirement](https://github.com/OffchainLabs/prysm/commit/375aedcadd088848f3cec142dd7a70019a8893b2) - 2025-07-30
 ## Q2 2025
 
 

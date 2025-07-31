@@ -42,6 +42,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: unit tests for AggregatedAttestationPool](https://github.com/ChainSafe/lodestar/commit/750c8e51bcb1314fc49d0058e4ef43e1fceaa9d6) - 2025-07-28
 * [Commit] [chore: unit tests for SinleAttestationPool](https://github.com/ChainSafe/lodestar/commit/5e3b572523e8026127901ed025d1ed842c4e331d) - 2025-07-28
 * [Commit] [fix: resolve TODOs of eip-7917](https://github.com/ChainSafe/lodestar/commit/58d84ec777c1caa25428904f1d83436514235430) - 2025-07-28
+* [Pull Request] [feat: enhance AggregatedAttestationPool](https://github.com/ChainSafe/lodestar/pull/8095) - 2025-07-30
+* [Commit] [fix: set MAX_ATTESTATIONS_RETAINED to 150k and track attestation count per slot](https://github.com/ChainSafe/lodestar/commit/af31d5e8c33322909bdca9ecbc6737a0f00b138b) - 2025-07-30
 ## Q2 2025
 
 

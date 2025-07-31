@@ -22,6 +22,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: increase MAX_BATCH_PROCESSING_ATTEMPTS (#8037)](https://github.com/ChainSafe/lodestar/commit/adb684580d8210d69859370ea21efae295e8288c) - 2025-07-17
 * [Commit] [chore: update peerDAS kzg library to v0.8 (#8075)](https://github.com/ChainSafe/lodestar/commit/a1bd6430ee9d79bc1d40f95e6114eac6d3c5f308) - 2025-07-23
 * [Pull Request] [chore: upgrade node-eth-kzg for portable build](https://github.com/ChainSafe/lodestar/pull/8077) - 2025-07-23
+* [Commit] [fix: use .subarray instead of .slice](https://github.com/ChainSafe/lodestar/commit/379f791a22511ae7234d048453362df25ca2d97a) - 2025-07-30
+* [Commit] [fix: add isCoolingDown to MaxScore](https://github.com/ChainSafe/lodestar/commit/86ac8d22c4754b3ccb5a276b42efde4aa03bf88a) - 2025-07-30
+* [Commit] [refactor: rename to GoodByeReasonCode.INBOUND_DISCONNECT](https://github.com/ChainSafe/lodestar/commit/f35483026ea7acdb13684b3cb057a2899380e53f) - 2025-07-30
+* [Commit] [refactor: move isCoolingDown to RealScore](https://github.com/ChainSafe/lodestar/commit/3f64363907c493458af91fe3e3d93d6df168d52a) - 2025-07-30
+* [Commit] [fix: update cool down times per PR comments](https://github.com/ChainSafe/lodestar/commit/3ac170d567600c8b545c00978580c03704418815) - 2025-07-30
 ## Q2 2025
 
 

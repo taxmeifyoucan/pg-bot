@@ -28,6 +28,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Improved testing for ThrottlingTaskQueue](https://github.com/Consensys/teku/pull/9694) - 2025-07-22
 * [Issue] [consider removing support for windows](https://github.com/Consensys/teku/issues/9714) - 2025-07-28
 * [Pull Request] [Added exception reporting to recover sidecars](https://github.com/Consensys/teku/pull/9716) - 2025-07-28
+* [Pull Request] [moves kzg benchmarks to JMH tests](https://github.com/Consensys/teku/pull/9727) - 2025-07-30
+* [Pull Request] [proof of concept for alternative to ifExceptionGetsHereRaiseABug](https://github.com/Consensys/teku/pull/9726) - 2025-07-30
 ## Q2 2025
 
 
