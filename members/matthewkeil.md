@@ -27,6 +27,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: rename to GoodByeReasonCode.INBOUND_DISCONNECT](https://github.com/ChainSafe/lodestar/commit/f35483026ea7acdb13684b3cb057a2899380e53f) - 2025-07-30
 * [Commit] [refactor: move isCoolingDown to RealScore](https://github.com/ChainSafe/lodestar/commit/3f64363907c493458af91fe3e3d93d6df168d52a) - 2025-07-30
 * [Commit] [fix: update cool down times per PR comments](https://github.com/ChainSafe/lodestar/commit/3ac170d567600c8b545c00978580c03704418815) - 2025-07-30
+* [Commit] [fix: dont reduce cgc (#8096)](https://github.com/ChainSafe/lodestar/commit/f124be0a30833918146d0123e5b92658166fdc84) - 2025-07-31
+* [Issue] [Need to persist CGC across restarts so it does not decrease for a given ENR](https://github.com/ChainSafe/lodestar/issues/8097) - 2025-07-31
+* [Pull Request] [feat: dont reduce cgc](https://github.com/ChainSafe/lodestar/pull/8096) - 2025-07-31
+* [Commit] [docs: update comment](https://github.com/ChainSafe/lodestar/commit/babad223502e7bc8f1a7d779853c6e4a23ff1692) - 2025-07-31
 ## Q2 2025
 
 

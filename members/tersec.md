@@ -38,6 +38,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix(action_tracker): always compute stability subnets regardless of known validators (#7324)](https://github.com/status-im/nimbus-eth2/commit/256a7fe00dc1995c7759bcbb819d2a913d28abce) - 2025-07-26
 * [Commit] [remove moduletests (#7329)](https://github.com/status-im/nimbus-eth2/commit/53bf5b50971412d56153f8f0e0fefeb4ba9786e2) - 2025-07-28
 * [Commit] [Automate updating network configs (#7342)](https://github.com/status-im/nimbus-eth2/commit/37b8d41f8ba0bc2ab82c322027871baffbcd0dc4) - 2025-07-30
+* [Commit] [version v25.7.1](https://github.com/status-im/nimbus-eth2/commit/92defe0fe6c67255cef3687514c1ba80b197f3b3) - 2025-07-31
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

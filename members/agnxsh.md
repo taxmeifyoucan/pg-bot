@@ -39,6 +39,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [further fulu builder api clarifications](https://github.com/status-im/nimbus-eth2/commit/2414203fa0a25e0d640f43f9381390653aa76848) - 2025-07-30
 * [Commit] [resolved merge conflict](https://github.com/status-im/nimbus-eth2/commit/3dfe6e284e10735b900dbe90190dc331d74966ec) - 2025-07-30
 * [Commit] [fix fulu builder api changes](https://github.com/status-im/nimbus-eth2/commit/709725dd13c6d3933ba10ac46c382657e1d0b59c) - 2025-07-30
+* [Commit] [fix: block_pools_types (#7348)](https://github.com/status-im/nimbus-eth2/commit/1163599a2d80443b53ba8895ba2efae06fe0ec20) - 2025-07-31
+* [Commit] [update Fulu builder API (#7308)](https://github.com/status-im/nimbus-eth2/commit/22cce7a6f21612be931331b0dc6f1e922b460cd3) - 2025-07-31
+* [Commit] [add configurable balance per additional cus group](https://github.com/status-im/nimbus-eth2/commit/bf2f4b048200dd0162341bdee556bc68a1ed46cd) - 2025-07-31
+* [Commit] [another fix](https://github.com/status-im/nimbus-eth2/commit/6baa905b1267f25686c6986cc7095c62252fea36) - 2025-07-31
+* [Commit] [eas fix](https://github.com/status-im/nimbus-eth2/commit/f7e285c7c6444c182c5f026f8823c0d346ca6a9a) - 2025-07-31
 ## Q2 2025
 
 

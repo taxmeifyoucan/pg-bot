@@ -29,6 +29,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [consensys/teku](https://github.com/consensys/teku)
 * [Pull Request] [Genesis cgc fix](https://github.com/Consensys/teku/pull/9684) - 2025-07-18
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [fix: block_pools_types](https://github.com/status-im/nimbus-eth2/pull/7348) - 2025-07-31
 ## Q2 2025
 
 

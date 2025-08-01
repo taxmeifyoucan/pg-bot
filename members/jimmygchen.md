@@ -42,6 +42,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Bump Rust version to 1.88](https://github.com/sigp/lighthouse/pull/7787) - 2025-07-24
 * [Commit] [Backfill peer attribution (#7762)](https://github.com/sigp/lighthouse/commit/3610fb5c660ee88ed47a0b45217e9fb7418fb54a) - 2025-07-24
 * [Pull Request] [Use unique enclave names for CI Kurtosis tests on self hosted runners](https://github.com/sigp/lighthouse/pull/7804) - 2025-07-28
+* [Issue] [Unexpected batch state when `--genesis-backfill` flag is used](https://github.com/sigp/lighthouse/issues/7818) - 2025-07-31
+* [Issue] [Add support for storing traces to JSON file for debugging](https://github.com/sigp/lighthouse/issues/7817) - 2025-07-31
 ## Q2 2025
 
 

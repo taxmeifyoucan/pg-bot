@@ -106,6 +106,10 @@ Team: Reth
 * [Commit] [chore: bump evm](https://github.com/paradigmxyz/reth/commit/167a42b199149069d75f9422073b9a7f9cbe25f5) - 2025-07-27
 * [Issue] [Separate `EngineValidator` from `PayloadValidator`](https://github.com/paradigmxyz/reth/issues/17639) - 2025-07-28
 * [Pull Request] [chore: rm clone for witness](https://github.com/paradigmxyz/reth/pull/17684) - 2025-07-30
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/3854cb1196d8bbc814fab5d309e74200fa5c1a9b) - 2025-07-31
+* [Pull Request] [fix(txpool): also emit promoted pending tx on pool drift](https://github.com/paradigmxyz/reth/pull/17695) - 2025-07-31
+* [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/89ec2cc430032a481193a86e4a8db5003f15bc97) - 2025-07-31
+* [Pull Request] [fix: use primitive header type for fetching header](https://github.com/paradigmxyz/reth/pull/17691) - 2025-07-31
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

@@ -493,6 +493,27 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2f668b8719300433a4d028e6908b21ac1a7259dc) - 2025-07-30
 * [Commit] [save](https://github.com/erigontech/erigon/commit/33bef6781ad3db2db50f7fef9357d24726bcd666) - 2025-07-30
 * [Commit] [save](https://github.com/erigontech/erigon/commit/c02dcbdc35abedb3fe94c5b205ed0b2988bc4854) - 2025-07-30
+* [Commit] [unstuck CI: TestBatchLimit_WebSocket_Exceeded (#16383)](https://github.com/erigontech/erigon/commit/11ec55cfbf30e5988d80a3745c89bbaf9d350546) - 2025-07-31
+* [Issue] [Hoodi: can't pass `publishable` check](https://github.com/erigontech/erigon/issues/16387) - 2025-07-31
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/993538214b91298787acb30b2046f06c2d547233) - 2025-07-31
+* [Commit] [Caplin: use etl's sync.Pool of sortable buffers (#16276)](https://github.com/erigontech/erigon/commit/808e6c97f3b0ac8ba89b486d6c0d7776118cd7d0) - 2025-07-31
+* [Commit] [rpcdaemon: impl admin_RemovePeer (#16292)](https://github.com/erigontech/erigon/commit/045439bb9908fda30c6d2744d951cf188712be9b) - 2025-07-31
+* [Pull Request] [history: describe semantic](https://github.com/erigontech/erigon/pull/16385) - 2025-07-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4d6a2479ac5a1a967732773db647e7cb695a17d1) - 2025-07-31
+* [Commit] [cp: fix reqId use in traceTransaction (#16374)](https://github.com/erigontech/erigon/commit/f6233a87314faf64653f6ea86578809e094cdc21) - 2025-07-31
+* [Commit] [cp: add runtime check when DumpBlocks erroneously uses lastTxNum=0 (#16373)](https://github.com/erigontech/erigon/commit/2d1db76ad650e89d16f80cf95e170967ee28b322) - 2025-07-31
+* [Commit] [kick ci](https://github.com/erigontech/erigon/commit/0ade4715468428d9ca0e29a1e5b292d2be529949) - 2025-07-31
+* [Commit] [kick ci](https://github.com/erigontech/erigon/commit/eb5d9cfafff298737dfa8eff946994fa963ce7e4) - 2025-07-31
+* [Commit] [fix polygon's ii and receipt values for system tx (#16360)](https://github.com/erigontech/erigon/commit/890f8aec388328e4dc478a250aa65f9496d09a97) - 2025-07-31
+* [Commit] [cp: add HeaderNoGaps to integrity check (#16375)](https://github.com/erigontech/erigon/commit/b5d27889e270efd2ef031623f79f0e3497ec4f08) - 2025-07-31
+* [Issue] [EthMainnet: download stuck](https://github.com/erigontech/erigon/issues/16384) - 2025-07-31
+* [Pull Request] [unstuck CI: TestBatchLimit_WebSocket_Exceeded](https://github.com/erigontech/erigon/pull/16383) - 2025-07-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eab5ab1b820f1cb373d1945705199d645b9d00c5) - 2025-07-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1c69971bc23729ed64d8f837e6c18b6fef4f2430) - 2025-07-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5353b2a2348de5650127d68ed74deea4c7321f6e) - 2025-07-31
+* [Issue] [`TestBatchLimit_WebSocket_Exceeded` timeout on Mac CI](https://github.com/erigontech/erigon/issues/16382) - 2025-07-31
+* [Issue] [r3.1 brevets followup](https://github.com/erigontech/erigon/issues/16381) - 2025-07-31
+* [Issue] [Existing files version bump tooling](https://github.com/erigontech/erigon/issues/16380) - 2025-07-31
 ## Q2 2025
 
 

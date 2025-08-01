@@ -42,6 +42,8 @@ Team: Portal Network (EF)
 
 * [Commit] [feat: remove glados_monitor crate (#445)](https://github.com/ethereum/glados/commit/3ca8be3b836a7cd44b2e46a76d3f34c820bc923a) - 2025-07-25
 * [Pull Request] [feat: remove glados_monitor crate](https://github.com/ethereum/glados/pull/445) - 2025-07-25
+* [Commit] [feat: use subprotocol instead of network as url param (#449)](https://github.com/ethereum/glados/commit/8d4ff645daa90ee202086d098c313179d35635bb) - 2025-07-31
+* [Pull Request] [feat: use subprotocol instead of network as url param](https://github.com/ethereum/glados/pull/449) - 2025-07-31
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Commit] [Add spec for new History network (#410)](https://github.com/ethereum/portal-network-specs/commit/e9d7ba8ef01714471d6b2358ca8a0be5989bd7ed) - 2025-07-20
 * [Commit] [Move network specs into legacy folder (#409)](https://github.com/ethereum/portal-network-specs/commit/0bf9995eb39983e2bcc34f1cf40d0ea01b078e2d) - 2025-07-20

@@ -36,6 +36,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Support BLOCKHASH opcode in Async EVM](https://github.com/status-im/nimbus-eth1/pull/3512) - 2025-07-26
 * [Commit] [Stateless: Populate chain of headers in execution witness (#3502)](https://github.com/status-im/nimbus-eth1/commit/d8ab171cc4ce18b86a165d43b2369d6a69eb7308) - 2025-07-26
 * [Commit] [Support BLOCKHASH opcode in Async EVM (#3512)](https://github.com/status-im/nimbus-eth1/commit/a30ff4a84afb6b5d30fb7bfc6f7af10086131b41) - 2025-07-30
+* [Commit] [Fix storage slots test.](https://github.com/status-im/nimbus-eth1/commit/92d2aea259c6d7bd96e519efe76c0ab198850e4e) - 2025-07-31
+* [Pull Request] [Fix stateroot mismatch caused by stale db cache when using checkpoints](https://github.com/status-im/nimbus-eth1/pull/3527) - 2025-07-31
+* [Commit] [Add tests which reproduce the issue.](https://github.com/status-im/nimbus-eth1/commit/1ee0ca33cb051484e4a162581461fdb71fe8d6d7) - 2025-07-31
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

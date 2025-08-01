@@ -56,6 +56,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/15406a6e9329fb7cff02002367b15bc7950f7133) - 2025-07-29
 * [Pull Request] [refactor: stream transactions while executing payload](https://github.com/paradigmxyz/reth/pull/17661) - 2025-07-29
 * [Commit] [fm trait](https://github.com/paradigmxyz/reth/commit/51ec97d00e464235bd2c764f4d7f607a001f02e0) - 2025-07-29
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/7832c3673f8f46346bdc15fff420ae872cc2120d) - 2025-07-31
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/56ff9081ffaba81eaed9f8fe6dbb95d22ec3ba80) - 2025-07-31
+* [Commit] [impl for op](https://github.com/paradigmxyz/reth/commit/3d73c6e921d2d59bb4b71e0cbd1ee8f7b8d80e0d) - 2025-07-31
+* [Commit] [impl for eth](https://github.com/paradigmxyz/reth/commit/b4b1cb096c1f52fb0bca6c7c192ca059573c1d81) - 2025-07-31
+* [Commit] [docs: fix doc comments: clarify downloaded bytes and builder return condition (#17566)](https://github.com/paradigmxyz/reth/commit/b1f1e9d71174a8e6456825a59f40c3103ed2d7e8) - 2025-07-31
+* [Commit] [rm todo](https://github.com/paradigmxyz/reth/commit/66d9ebf81de3db5f2f83732cbea09e29167ff440) - 2025-07-31
 ## Q2 2025
 
 

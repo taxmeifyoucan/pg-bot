@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 * [Issue] [Besu bandwidth usage outlier](https://github.com/hyperledger/besu/issues/8932) - 2025-07-08
 * [Issue] [Enhanced Metrics for Sync Performance and DB Compaction Tracking (BloatNet Preparation)](https://github.com/hyperledger/besu/issues/8955) - 2025-07-14
+* [Commit] [Eliminate AbstractRLPInput abstraction to reduce technical debt (#8885)](https://github.com/hyperledger/besu/commit/f9fd86365e595d9275f2bfb3538e28d342e4979f) - 2025-07-31
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [# RPC Standards # 8 | July 7th, 2025](https://github.com/ethereum/pm/issues/1605) - 2025-07-06
 ## Q2 2025

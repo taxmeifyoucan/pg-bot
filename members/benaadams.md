@@ -160,6 +160,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Vectorize Node distance (#9054)](https://github.com/NethermindEth/nethermind/commit/38a6cb2b03ea88e0321cc692d03bcea1c18eaa14) - 2025-07-30
 * [Commit] [Vectorize Node distance (#9054)](https://github.com/NethermindEth/nethermind/commit/5e00a3f5879ef8b109c72d1a576a393518c5fc46) - 2025-07-30
 * [Pull Request] [Vectorize Node distance](https://github.com/NethermindEth/nethermind/pull/9054) - 2025-07-30
+* [Commit] [Fix/Orphaned block error on freshly restarted node (#9034)](https://github.com/NethermindEth/nethermind/commit/69ed9f83803c14969b78600eade001d72faf929a) - 2025-07-31
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

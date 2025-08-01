@@ -79,6 +79,22 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Switch on automatic serialization](https://github.com/status-im/nimbus-eth1/commit/3c4023e6e86e949a85d67914cf7420125cf0c530) - 2025-07-29
 * [Commit] [Bump submodules](https://github.com/status-im/nimbus-eth1/commit/144b7ab2b6b4668b0f391eb5b1bfe25e0d298e6d) - 2025-07-29
 * [Commit] [Fix](https://github.com/status-im/nimbus-eth1/commit/7e1c6d6590fb00ad02883cdc67e70a6253ff93c7) - 2025-07-30
+* [Commit] [Fix target repository](https://github.com/status-im/nimbus-eth1/commit/f3097cdea4b73cb4c1864a0e40fa6211834f0830) - 2025-07-31
+* [Commit] [Add copyright year](https://github.com/status-im/nimbus-eth1/commit/38126c1d9531cddbe1d3d96d6050e799699028dd) - 2025-07-31
+* [Commit] [Adjust for authList v field change to yParity name (#3497)](https://github.com/status-im/nimbus-eth1/commit/a5ba304100b2d993af51ba142448882b2b03a01c) - 2025-07-31
+* [Commit] [Adjust for authList v field change to yParity name](https://github.com/status-im/nimbus-eth1/commit/a60f9c57277390a7b8e799a34d99c79e7c8cad7a) - 2025-07-31
+* [Commit] [nph formatting](https://github.com/status-im/nimbus-eth1/commit/7912ea2f941830615b17ff0529ab938a5f2043dd) - 2025-07-31
+* [Commit] [VerifierError to LightClientVerifierError](https://github.com/status-im/nimbus-eth1/commit/e336e2d7b214904f2e4d7518305a84a34faeec6b) - 2025-07-31
+* [Commit] [Fix portal beacon network addObject's future](https://github.com/status-im/nimbus-eth1/commit/e64f29736f709b029462481c70d5502c638e4fd6) - 2025-07-31
+* [Commit] [eth_data_exporter: Export StoredReceipts instead of Receipts (#3503)](https://github.com/status-im/nimbus-eth1/commit/9a7f81ac2a67b6595b116217b43d9e6fc0d7c7ac) - 2025-07-31
+* [Commit] [Lfs quota issue with dockerfile (#3521)](https://github.com/status-im/nimbus-eth1/commit/37891f7bc2d376fe69d10d431675cd8c3a7e2f89) - 2025-07-31
+* [Commit] [update kurtosis docker file](https://github.com/status-im/nimbus-eth1/commit/fcd4435d8c8f3a545a2e54c44e02e6fc82a9b783) - 2025-07-31
+* [Issue] [Add support for EEST test vectors for both local test and CI test](https://github.com/status-im/nimbus-eth1/issues/3523) - 2025-07-31
+* [Issue] [The CI not caching rocksdb binary](https://github.com/status-im/nimbus-eth1/issues/3522) - 2025-07-31
+* [Pull Request] [Lfs quota issue with dockerfile](https://github.com/status-im/nimbus-eth1/pull/3521) - 2025-07-31
+* [Commit] [fix portal.yml](https://github.com/status-im/nimbus-eth1/commit/fefb0ef10233a6e2aebc04c0317acdc9ff6f0b33) - 2025-07-31
+* [Commit] [use make update instead of make update-from-ci](https://github.com/status-im/nimbus-eth1/commit/3ce8d338ab3d7dc79b678ef59463d9e314803fd4) - 2025-07-31
+* [Commit] [Merge update-from-ci into update](https://github.com/status-im/nimbus-eth1/commit/f788c1cce9091a3441f8148f9e33b80cd8c6515f) - 2025-07-31
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

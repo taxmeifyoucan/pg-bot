@@ -95,6 +95,14 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [check if delete pointer already loaded](https://github.com/NethermindEth/nethermind/commit/ca33ad4bbb23930cf9e86583b0f42a42b0be279f) - 2025-07-30
 * [Commit] [Fix/Orphaned block error on freshly restarted node (#9034)](https://github.com/NethermindEth/nethermind/commit/69ed9f83803c14969b78600eade001d72faf929a) - 2025-07-30
 * [Pull Request] [Feature/auto history cleaner test](https://github.com/NethermindEth/nethermind/pull/9058) - 2025-07-30
+* [Commit] [refactor updating delete pointer](https://github.com/NethermindEth/nethermind/commit/24c84890fe8edc536325c430b04ac734939d78cc) - 2025-07-31
+* [Commit] [global locks for db intensive background tasks](https://github.com/NethermindEth/nethermind/commit/460807aeb9feeea3227adbfeb1768f658c01c664) - 2025-07-31
+* [Commit] [lowercase hex](https://github.com/NethermindEth/nethermind/commit/58993fa48ecab25d421f23de40edb3dd1e6342b8) - 2025-07-31
+* [Commit] [clarify deletion progress lgos](https://github.com/NethermindEth/nethermind/commit/eb8aec825e772d289d053300933f38ac8a3e61ed) - 2025-07-31
+* [Commit] [move event registration](https://github.com/NethermindEth/nethermind/commit/cef0240eb3b32ea0b87d35412561140383855f15) - 2025-07-31
+* [Commit] [run key registration as background task](https://github.com/NethermindEth/nethermind/commit/afc3b615f790aea64379ab9256c7a6dd1b5864e1) - 2025-07-31
+* [Commit] [check key registration on processing queue empty](https://github.com/NethermindEth/nethermind/commit/b17bd9961540d7d39370afb0dfadfe1689c1075f) - 2025-07-31
+* [Pull Request] [Fix slow key registration check](https://github.com/NethermindEth/nethermind/pull/9063) - 2025-07-31
 ## Q2 2025
 
 

@@ -65,6 +65,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Log exception](https://github.com/NethermindEth/nethermind/commit/80910ae7b0636df140bb7dfa0e5dae75f2865a7a) - 2025-07-29
 * [Commit] [Merge branch 'fusaka-devnet-3' of github.com:NethermindEth/nethermind into fusaka-devnet-3](https://github.com/NethermindEth/nethermind/commit/27f2025513ee7713e82af47a7eaa6c4495f19f0e) - 2025-07-30
 * [Commit] [Update eth_config format](https://github.com/NethermindEth/nethermind/commit/7552f16c66871b588a1158060ff5eccabce9a046) - 2025-07-30
+* [Commit] [Add logs; add dotnetty](https://github.com/NethermindEth/nethermind/commit/0df6e7b9b48d66249006300a798fff72bedb3c89) - 2025-07-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

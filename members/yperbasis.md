@@ -27,6 +27,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Rename `v1.0` snapshots that changed in 3.1 compared to 3.0 to `v1.1`](https://github.com/erigontech/erigon/issues/16293) - 2025-07-25
 * [Pull Request] [downloader: avoid loading snapshot hashes for unsupported networks](https://github.com/erigontech/erigon/pull/16351) - 2025-07-29
 * [Commit] [downloader: avoid loading snapshot hashes for unsupported networks](https://github.com/erigontech/erigon/commit/d07195e9999739255810caf8f7af7ae7d9161375) - 2025-07-29
+* [Commit] [Add blob per tx limit (#16391)](https://github.com/erigontech/erigon/commit/425e9e20ad065a119a6f33a7e84e5a2e1272f708) - 2025-07-31
+* [Commit] [fix TestExecutionSpecBlockchainDevnet](https://github.com/erigontech/erigon/commit/5f7e61f7e4b787ed0674b7745104aff5f25d2571) - 2025-07-31
+* [Pull Request] [Add blob per tx limit](https://github.com/erigontech/erigon/pull/16391) - 2025-07-31
+* [Commit] [Add blob per tx limit](https://github.com/erigontech/erigon/commit/e412b86df3bae72ad9a931292f7ab0142d9cb48d) - 2025-07-31
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025
 
 

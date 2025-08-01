@@ -40,6 +40,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Transaction hashes broadcast handler: use inner tx hash + PooledTransaction size (#3432)](https://github.com/status-im/nimbus-eth1/commit/0491e0e644767ad8a2e60f67a86f88fc6daca4bd) - 2025-07-28
 * [Commit] [add missing fc reset (#3509)](https://github.com/status-im/nimbus-eth1/commit/a2aa4a07da29eb154f3bc75219fbfccbf648596c) - 2025-07-28
 * [Pull Request] [fix slow startup during sync](https://github.com/status-im/nimbus-eth1/pull/3514) - 2025-07-28
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/bb796478d12dcd1527ce2d3b1420b857de31d0f2) - 2025-07-31
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/923211138fe62195b0c9acfbc5446a0752cb0a87) - 2025-07-31
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/deced61edcd1aceca5648811a5ac9429eedf7c8b) - 2025-07-31
+* [Pull Request] [serialization: more bumps](https://github.com/status-im/nimbus-eth1/pull/3524) - 2025-07-31
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -65,6 +69,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stew: bump](https://github.com/status-im/nimbus-eth2/pull/7336) - 2025-07-28
 * [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/3560d8ee241429a1d5e359b8031bf407745afb1e) - 2025-07-28
 * [Commit] [Add soft timeouts to VC, after which VC will use any successful response as the best one. (#7276)](https://github.com/status-im/nimbus-eth2/commit/95370e4c686911cb25dd565959fdce3b077101c1) - 2025-07-28
+* [Commit] [serialization: bump (#7345)](https://github.com/status-im/nimbus-eth2/commit/930effbc995c7d05082049608ef70e75d11ca75c) - 2025-07-31
+* [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/5756c72b88e2df6edf360a68ce38e1f93bc216a6) - 2025-07-31
+* [Commit] [gnosis too](https://github.com/status-im/nimbus-eth2/commit/3f7375b05a3ed2a6525286fa0c72bd06091c0fa2) - 2025-07-31
+* [Commit] [how did this work before??](https://github.com/status-im/nimbus-eth2/commit/bfc29cc79526122d374c6d1297b4f7aafe736d3b) - 2025-07-31
+* [Commit] [Update SSZ test runner for new directory name (#7328)](https://github.com/status-im/nimbus-eth2/commit/6d2e1b69e80cfd557cb5c0e46bcf01782d13d185) - 2025-07-31
+* [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/f41d072a59937c9e2a361a1e878966fb8f65439f) - 2025-07-31
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

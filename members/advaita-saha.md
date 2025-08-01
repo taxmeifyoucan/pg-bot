@@ -33,6 +33,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [reduce sync error threshold](https://github.com/status-im/nimbus-eth1/pull/3510) - 2025-07-25
 * [Commit] [Fix peering issue (#3511)](https://github.com/status-im/nimbus-eth1/commit/c5ad7b2034222ac113aba4f85f589c8efb557174) - 2025-07-26
 * [Issue] [CI doesn't work for external contributors](https://github.com/status-im/nimbus-eth1/issues/3518) - 2025-07-29
+* [Issue] [Crash during sync](https://github.com/status-im/nimbus-eth1/issues/3526) - 2025-07-31
+* [Issue] [TxPool unable to fetch pooled txs](https://github.com/status-im/nimbus-eth1/issues/3525) - 2025-07-31
 ## Q2 2025
 
 

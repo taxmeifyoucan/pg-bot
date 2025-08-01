@@ -81,6 +81,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [refactor: move BasicEngineValidator creation into EngineApiValidatorBuilder trait](https://github.com/paradigmxyz/reth/commit/a27339ef0aa459f08db5e1185d10a0649ad6f2ad) - 2025-07-29
 * [Commit] [refactor: move BasicEngineValidator creation into EngineApiValidatorBuilder trait](https://github.com/paradigmxyz/reth/commit/bfe3bc0a95f3c6afc9ccee95fa1f807cb5042cfd) - 2025-07-29
 * [Commit] [decouple engine validator type from builder in node add-ons](https://github.com/paradigmxyz/reth/commit/84555ffbb5bc9a0385b45bd4ab2a732e2df4861c) - 2025-07-30
+* [Commit] [move provider bounds to FullProvider](https://github.com/paradigmxyz/reth/commit/c8a929ed9f629bfb91f201c4b4039140925aad9f) - 2025-07-31
+* [Commit] [adapt reorg functionality to use EngineValidator trait](https://github.com/paradigmxyz/reth/commit/c69e34b4f56afd980c517a7b34b7d409f7834e63) - 2025-07-31
+* [Commit] [updated EngineApiValidatorBuilder to build EngineApiValidator instead of PayloadValidator, added TreeValidator associated type, and moved provider bounds from trait to implementations](https://github.com/paradigmxyz/reth/commit/19e8eebdcdf99b026298bc5056508aabf9ab144f) - 2025-07-31
 ## Q2 2025
 
 

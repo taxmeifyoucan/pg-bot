@@ -34,6 +34,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [remove balance parameter from slashing functions](https://github.com/OffchainLabs/prysm/commit/c18155716b0b8b339a9ed6fdd9589216490ce367) - 2025-07-30
 * [Commit] [remove balance parameter from slashing functions](https://github.com/OffchainLabs/prysm/commit/c2c9f77c918f31205b8060cb5bc53dece8191885) - 2025-07-30
 * [Commit] [remove balance parameter from slashing functions](https://github.com/OffchainLabs/prysm/commit/19bd452fb17e5709b9d1f95b98559f8cc0c6e12a) - 2025-07-30
+* [Commit] [Trigger payload attribute event on early blocks (#15541)](https://github.com/OffchainLabs/prysm/commit/d7d8764a916dc9c4a43d46c5b5ffbefec2a56507) - 2025-07-31
+* [Pull Request] [Do not compare liveness response with LH](https://github.com/OffchainLabs/prysm/pull/15556) - 2025-07-31
+* [Commit] [changelog <3](https://github.com/OffchainLabs/prysm/commit/07a0b97205fc5f97a7e5db905520cff7098f1a79) - 2025-07-31
 ## Q2 2025
 
 

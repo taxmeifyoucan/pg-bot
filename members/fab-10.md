@@ -21,6 +21,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Remove the possibility to create block before Byzantium hard-fork (#9005)](https://github.com/hyperledger/besu/commit/719659a65cbeba1099c00cd634a2350fd8776063) - 2025-07-28
 * [Pull Request] [Improve info logs during block creation](https://github.com/hyperledger/besu/pull/9020) - 2025-07-29
 * [Commit] [Improve info logs during block creation (#9020)](https://github.com/hyperledger/besu/commit/f784ebfa189aa89cbfea9e4f832758273ce2cd5e) - 2025-07-30
+* [Commit] [Add WorldStateService to the plugin API (#9024)](https://github.com/hyperledger/besu/commit/2ffd464540978f4cb41593296d2e5f2f5279f38b) - 2025-07-31
 ## Q2 2025
 
 

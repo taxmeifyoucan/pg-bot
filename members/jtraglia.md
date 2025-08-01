@@ -16,6 +16,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Simplify `generate*RangeRequests` for data columns](https://github.com/Consensys/teku/pull/9667) - 2025-07-15
 * [Pull Request] [Add a hidden flag for configuring data column sidecar recovery delay](https://github.com/Consensys/teku/pull/9678) - 2025-07-17
 
+* [Pull Request] [Add spec references, a mapping of spec to implementation](https://github.com/Consensys/teku/pull/9731) - 2025-07-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Fix `KZG_COMMITMENT_INCLUSION_PROOF_DEPTH_EIP7732` (#4451)](https://github.com/ethereum/consensus-specs/commit/adc514a1c29532ebc1a67c71dc8741a2fdac5ed4) - 2025-07-18
 * [Pull Request] [Fix `KZG_COMMITMENT_INCLUSION_PROOF_DEPTH_EIP7732`](https://github.com/ethereum/consensus-specs/pull/4451) - 2025-07-18
@@ -29,11 +30,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Improve some eip7732 p2p gossip validations](https://github.com/ethereum/consensus-specs/pull/4474) - 2025-07-29
 * [Commit] [eip7732: fix builder pending withdrawals processing (#4470)](https://github.com/ethereum/consensus-specs/commit/f1d7eb2a54347e1baab1aa6e4b3fd8cc728a5661) - 2025-07-29
 * [Pull Request] [Replace INTERVALS_PER_SLOT with explicit slot component times](https://github.com/ethereum/consensus-specs/pull/4476) - 2025-07-30
+* [Commit] [Add EIP-7916 ProgressiveList specs and tests (#4445)](https://github.com/ethereum/consensus-specs/commit/224a91a45bd203b89b9733d8e597b9b327bf41a7) - 2025-07-31
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Remove point-at-infinity filter in g1_lincomb_fast](https://github.com/ethereum/c-kzg-4844/pull/588) - 2025-07-25
+* [Pull Request] [In Java bindings, delete more local references](https://github.com/ethereum/c-kzg-4844/pull/589) - 2025-07-31
 ## Q2 2025
 
 

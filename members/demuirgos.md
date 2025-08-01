@@ -28,6 +28,7 @@ Team: Nethermind
 * [Commit] [Fix worker loop (#9007)](https://github.com/NethermindEth/nethermind/commit/6083e36a2b5f5fa2442c2abdb97bbb127d233a84) - 2025-07-21
 * [Commit] [rename EngineDebugModule to DebugModule](https://github.com/NethermindEth/nethermind/commit/e76c468b6f3c1f8ecf2138b1adc350db2d9ec39c) - 2025-07-29
 * [Commit] [Run background tasks at BelowNormal priority (#8968)](https://github.com/NethermindEth/nethermind/commit/fb8d06a386b95f5ce9d457daebac6240d06347a9) - 2025-07-29
+* [Commit] [fix fullPrunning referencing wrong dbFolder (#9060)](https://github.com/NethermindEth/nethermind/commit/f7f691a4bce5569e844ba359c34985d5e0e0b6f0) - 2025-07-31
 ## Q2 2025
 
 

@@ -44,6 +44,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [SnapServerTests failing for bonsai archive mode](https://github.com/hyperledger/besu/issues/9013) - 2025-07-28
 * [Pull Request] [SnapServerTest: add dry-run method so tests get picked up](https://github.com/hyperledger/besu/pull/9011) - 2025-07-28
 * [Commit] [TransactionDecoder: handle empty bytes (#8997)](https://github.com/hyperledger/besu/commit/bf6d2b4bec017cb826eacf18d1f1ecb57ca38f82) - 2025-07-28
+* [Commit] [Chore: Prevent repeated cli boolean flags for being accepted (#8898)](https://github.com/hyperledger/besu/commit/50842112cb73ed4739a780c0053bd17c8c2dd74c) - 2025-07-31
 ## Q2 2025
 
 

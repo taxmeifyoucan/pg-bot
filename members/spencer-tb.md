@@ -70,6 +70,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat: resolve updated execution_spec exceptions](https://github.com/ethereum/execution-spec-tests/commit/a0a0bbbd5599d3b8c40d7b09a47e1c624c20123d) - 2025-07-29
 * [Commit] [chore(fill): remove fill warnings (#1964)](https://github.com/ethereum/execution-spec-tests/commit/2c2c11770b514789ceb3d09c37fbcaaece1ec9f7) - 2025-07-29
 * [Commit] [feat(cli): resolve updated eels exceptions (#1784)](https://github.com/ethereum/execution-spec-tests/commit/b16701daa5d614bb8d5a9b472dbea6607592d778) - 2025-07-30
+* [Commit] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXCEEDED (#1974)](https://github.com/ethereum/execution-spec-tests/commit/33caa45aec463bdac3e66311275218fb3ad7b1a1) - 2025-07-31
+* [Pull Request] [chore(tests): fix pre alloc grouping remaining fails](https://github.com/ethereum/execution-spec-tests/pull/1975) - 2025-07-31
+* [Commit] [chore(tests): temp skip for type 4 txs for pre alloc grouping eip7934.](https://github.com/ethereum/execution-spec-tests/commit/e6037c444d55c96b4108bd5b13692a1521f1acdb) - 2025-07-31
+* [Commit] [chore(tests): fix pre alloc grouping eip6110.](https://github.com/ethereum/execution-spec-tests/commit/c4a2ae25010b339ebb009a61275cee42b2c17da2) - 2025-07-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

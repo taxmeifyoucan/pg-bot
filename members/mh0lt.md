@@ -108,6 +108,13 @@ Team: Erigon
 * [Commit] [don't revert non writeset reads](https://github.com/erigontech/erigon/commit/4edf1f7bcf5fd19a59d56a1081e97436a030749c) - 2025-07-30
 * [Commit] [don't revert non writeset reads](https://github.com/erigontech/erigon/commit/a2c881b9b9d19437a2da60677313a28e0c2e1b61) - 2025-07-30
 * [Commit] [don't revert storage read](https://github.com/erigontech/erigon/commit/6587e647dd47d136c251dc0d3f5ae2f4c1ee7e99) - 2025-07-30
+* [Commit] [use hash from result](https://github.com/erigontech/erigon/commit/1cc9ddfcd39924c2e14436ac4a9a8e63e6bf781e) - 2025-07-31
+* [Commit] [no F](https://github.com/erigontech/erigon/commit/5dd6742bdbfe6a4779c0b63cc15f56cc7f478806) - 2025-07-31
+* [Commit] [tidy prints](https://github.com/erigontech/erigon/commit/41aa125a6705a0a18d9bdbb00e9cdf85eb27ebee) - 2025-07-31
+* [Commit] [finalize inline with validation](https://github.com/erigontech/erigon/commit/faf43b48dc6dda2a1c0bc054fda7e7491e0aeea3) - 2025-07-31
+* [Commit] [print finalize](https://github.com/erigontech/erigon/commit/73b0d3e69a2d3ca8176895e667975bfca70106fa) - 2025-07-31
+* [Commit] [print finalize](https://github.com/erigontech/erigon/commit/a4adc6bcf9032915ab89aede9876a076fdf366c3) - 2025-07-31
+* [Commit] [trace coinbase writes](https://github.com/erigontech/erigon/commit/c32f564a8464e8b6db743aaa86e6d3cea54a9c7f) - 2025-07-31
 ## Q2 2025
 
 

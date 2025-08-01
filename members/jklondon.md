@@ -51,6 +51,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/214c5d82715a9c8cefce2fd5040c1424158e10f7) - 2025-07-28
 * [Commit] [[r3.0] TRACE_DELETION  (#16335)](https://github.com/erigontech/erigon/commit/5a3d5758ded3866d1f10e2b9b7d7e17ed19c9ab2) - 2025-07-29
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/a225a8e382261c8f5b046beaf40478fed3704c3f) - 2025-07-29
+* [Pull Request] [[r3.1] fix of flocking on 3.1 integrity](https://github.com/erigontech/erigon/pull/16390) - 2025-07-31
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/f90b38bd0df137d05dfc6e15e27bc6e3ef6ab88a) - 2025-07-31
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/f6e83ddc1eda69870f7155b3b6c69f98f5928f8d) - 2025-07-31
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/5e4cecbe4fd03172f4ee98fe16bba82a778b1fe3) - 2025-07-31
+* [Pull Request] [1.1zation (cp from 3.1)](https://github.com/erigontech/erigon/pull/16389) - 2025-07-31
 ## Q2 2025
 
 

@@ -90,6 +90,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r31] duplicate logIndex fix on bor for system txs](https://github.com/erigontech/erigon/pull/16353) - 2025-07-29
 * [Pull Request] [Trace hooks systx](https://github.com/erigontech/erigon/pull/16360) - 2025-07-30
 * [Commit] [save](https://github.com/erigontech/erigon/commit/5eb6b91aa575d48066ed8c204fe6c45aceda54da) - 2025-07-30
+* [Pull Request] [cp: fix polygon's ii and receipt values for system tx (#16360)](https://github.com/erigontech/erigon/pull/16386) - 2025-07-31
 ## Q2 2025
 
 

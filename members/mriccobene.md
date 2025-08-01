@@ -34,6 +34,13 @@ Team: Erigon
 * [Commit] [[r3.1] auto upgrade snapshots (#16288)](https://github.com/erigontech/erigon/commit/ca5511390481ec6bd9abacac5d151d4206784268) - 2025-07-30
 * [Commit] [re-enable snapshot upgrade procedure](https://github.com/erigontech/erigon/commit/030d99eb3c72601fdf0e12ae837d05940b228366) - 2025-07-30
 * [Commit] [save prev erigon version](https://github.com/erigontech/erigon/commit/3edde147c31e826ac9380b544c4493c5c92b97b0) - 2025-07-30
+* [Commit] [fix (2)](https://github.com/erigontech/erigon/commit/0561876700f27d50b71de0f773fc0c7ccacc08f3) - 2025-07-31
+* [Commit] [fix](https://github.com/erigontech/erigon/commit/b148f8e0f15c41126058d1101f7514b83ed8bf80) - 2025-07-31
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Commit] [blockTimetsamp is on log info not header (#423)](https://github.com/erigontech/rpc-tests/commit/4155a0cd4fd99bc6e47a81d0aa08f19386d61b0b) - 2025-07-31
+* [Commit] [eth_getBlockRrceipts - fix exp resp with blockTimestamp (#422)](https://github.com/erigontech/rpc-tests/commit/a0bb773bf04ab4e4e3784c4052a147021b576211) - 2025-07-31
+* [Commit] [Polygon - debug_TraceTransaction - change returnValue to 0x (#421)](https://github.com/erigontech/rpc-tests/commit/166e777f4a29d8550b94856474976278502485c8) - 2025-07-31
 ## Q2 2025
 
 

@@ -49,6 +49,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix cells to blob](https://github.com/ChainSafe/lodestar/commit/32f02d8a88cfd4dd8b90bf496f64a4c6a45cffdc) - 2025-07-28
 * [Commit] [feat: enable proposer boost reorg by default (#8080)](https://github.com/ChainSafe/lodestar/commit/dea6b945c2a258c9739d279a3140d9f19c2b5583) - 2025-07-29
 * [Commit] [Reconstruct full data matrix if less than 128 columns are provided](https://github.com/ChainSafe/lodestar/commit/f4186ecf2e3c85019e87a8123e69d650b7b163f2) - 2025-07-30
+* [Commit] [Move comment](https://github.com/ChainSafe/lodestar/commit/9df9fa21d48e9b3ed4976f1acb87ed7c3097f435) - 2025-07-31
+* [Commit] [Remove unused import](https://github.com/ChainSafe/lodestar/commit/ce0755ca8e2867ea696eccbf8c0693eefba3ded1) - 2025-07-31
+* [Pull Request] [fix: move node custody requirement from config to options](https://github.com/ChainSafe/lodestar/pull/8099) - 2025-07-31
+* [Commit] [fix: move node custody requirement from config to options](https://github.com/ChainSafe/lodestar/commit/fcccae80469219c8b769a8f3d98c42ee6814af40) - 2025-07-31
+* [Issue] [Dynamically subscribe to data column subnets](https://github.com/ChainSafe/lodestar/issues/8098) - 2025-07-31
+* [Commit] [feat: add getBlobs endpoint (#8087)](https://github.com/ChainSafe/lodestar/commit/2d6369691d910c03b2ca378817019acf4ecce7ed) - 2025-07-31
 ## Q2 2025
 
 

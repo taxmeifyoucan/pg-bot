@@ -35,6 +35,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Beacon api: fix proposer duty computation for fulu](https://github.com/OffchainLabs/prysm/commit/8c3375d87c7e1e29c49ec5d58fcd71c777817cc7) - 2025-07-25
 * [Pull Request] [Beacon api: fix proposer duty computation for fulu](https://github.com/OffchainLabs/prysm/pull/15534) - 2025-07-25
 * [Commit] [Fix builder bid version compatibility to support Electra bids with Fulu blocks](https://github.com/OffchainLabs/prysm/commit/042721082f93e6e5967f1859c9ce3e43edbc1bf2) - 2025-07-26
+* [Issue] [POST `/eth/v1/validator/duties/sync/{epoch_number}` fails](https://github.com/OffchainLabs/prysm/issues/15552) - 2025-07-31
+* [Issue] [POST /eth/v1/validator/duties/attester/{epoch_number} fails](https://github.com/OffchainLabs/prysm/issues/15551) - 2025-07-31
+* [Issue] [POST `/eth/v1/beacon/states/head/validators` fails](https://github.com/OffchainLabs/prysm/issues/15550) - 2025-07-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

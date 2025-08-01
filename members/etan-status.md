@@ -22,6 +22,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add EIP-7916 ProgressiveList specs and tests](https://github.com/ethereum/consensus-specs/pull/4445) - 2025-07-16
 
+* [Pull Request] [Add EIP-7916 ProgressiveBitlist specs and tests](https://github.com/ethereum/consensus-specs/pull/4480) - 2025-07-31
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/8ae1a04d0a47f89002a42687e631c96345ca99fc) - 2025-07-25
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/06cb044f6a6a2041935e95ec951c50765cd6f1dc) - 2025-07-25
@@ -56,6 +57,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/d4a330148ce75471b90f9359e3578b9db5ed7507) - 2025-07-28
 * [Pull Request] [Automate updating network configs](https://github.com/status-im/nimbus-eth2/pull/7342) - 2025-07-29
 * [Commit] [Automate updating network configs](https://github.com/status-im/nimbus-eth2/commit/673d324f82d819a68d9e1f558300e4d4d96141af) - 2025-07-29
+* [Pull Request] [Extend SSZ generic tests with ProgressiveBitlist tests](https://github.com/status-im/nimbus-eth2/pull/7347) - 2025-07-31
+* [Pull Request] [Bump nim-ssz-serialization to 983dc145ec66beb474887b9f08de0959dbda3c9d](https://github.com/status-im/nimbus-eth2/pull/7346) - 2025-07-31
 ## Q2 2025
 
 

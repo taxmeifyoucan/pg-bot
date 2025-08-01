@@ -19,6 +19,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Cleanup 25.7.1 (#9715)](https://github.com/Consensys/teku/commit/2bd86b84f9bcad9859e90163619701ce26ff9645) - 2025-07-28
 * [Pull Request] [Cleanup 25.7.1](https://github.com/Consensys/teku/pull/9715) - 2025-07-28
 * [Commit] [add cla check via github (#9729)](https://github.com/Consensys/teku/commit/b35305c1cdff25b1c3b85c148bb33009c9ba8107) - 2025-07-30
+* [Commit] [Update CONTRIBUTING.md (#9732)](https://github.com/Consensys/teku/commit/fff7c69b06756d6d0c6aa6eb64e22f17a78188fa) - 2025-07-31
+* [Pull Request] [Update CONTRIBUTING.md](https://github.com/Consensys/teku/pull/9732) - 2025-07-31
 ## Q2 2025
 
 

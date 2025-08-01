@@ -56,6 +56,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Pull Request] [WIP: Rebase pending PRs onto develop / fusaka-devnet-3](https://github.com/OffchainLabs/prysm/pull/15512) - 2025-07-20
 * [Commit] [initialize genesis data asap at node start](https://github.com/OffchainLabs/prysm/commit/2955f1c663c2529561a2ab2d3f71e3e6eb0e53d6) - 2025-07-20
 * [Commit] [Beacon api: fix get config blob schedule](https://github.com/OffchainLabs/prysm/commit/e00e7232ce37cedae314d0f1262d7a8a51a545c3) - 2025-07-21
+* [Commit] [a couple tweaks based on the release draft markdown preview](https://github.com/OffchainLabs/prysm/commit/d9363050cb120ae80a39519e8d624d299a4b856d) - 2025-07-31
+* [Commit] [edits based on feedback](https://github.com/OffchainLabs/prysm/commit/29a6c4239ef78e35723703e6c6650adab620be8a) - 2025-07-31
 ## Q2 2025
 
 

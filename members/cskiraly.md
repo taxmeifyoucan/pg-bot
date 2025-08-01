@@ -8,6 +8,11 @@ Team: Codex DAS
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Issue] [set extra --bootnodes without overriding defaults?](https://github.com/ethereum/go-ethereum/issues/32312) - 2025-07-31
 ## Q2 2025
 
 

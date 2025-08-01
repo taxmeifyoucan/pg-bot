@@ -64,6 +64,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(t8n): Support evmone's `--opcode.count` option](https://github.com/ethereum/execution-spec-tests/pull/1956) - 2025-07-26
 * [Issue] [Create opcode test cases generator](https://github.com/ethereum/execution-spec-tests/issues/1966) - 2025-07-29
 * [Commit] [feat(tests): add call memory expansion with no return size test (#1952)](https://github.com/ethereum/execution-spec-tests/commit/c46c46a5e49f1fc63fa50df881c1f97ff5651075) - 2025-07-29
+* [Issue] [feat(execute): Support stubbed contract addresses](https://github.com/ethereum/execution-spec-tests/issues/1976) - 2025-07-31
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

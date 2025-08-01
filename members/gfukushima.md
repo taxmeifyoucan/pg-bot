@@ -18,6 +18,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [remove todo, method is currently taking (#9659)](https://github.com/Consensys/teku/commit/6985a86829acb526356bcd7ec3c5f35366e6ff1d) - 2025-07-15
 * [Issue] [Implement logic to handle getBlobsV3 responses](https://github.com/Consensys/teku/issues/9668) - 2025-07-16
 * [Commit] [Add sampling eligibility check to forkchoice ref test executor (#9701)](https://github.com/Consensys/teku/commit/a4179d1f3e7a6cb4b5d6c4e316ddf66d6163c06e) - 2025-07-24
+* [Pull Request] [Add dedicated data column pruner](https://github.com/Consensys/teku/pull/9733) - 2025-07-31
 ## Q2 2025
 
 

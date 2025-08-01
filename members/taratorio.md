@@ -82,6 +82,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Eip 7910 v2](https://github.com/erigontech/erigon/pull/16218) - 2025-07-22
 * [Commit] [execution/stagedsync: handle sync loop block limit exhaustion - improved logging](https://github.com/erigontech/erigon/commit/9146587036430720817178d79ed02706d1a29c8b) - 2025-07-23
 * [Commit] [workflows: Use --sim.buildarg twice in Hive-EEST (#16258)](https://github.com/erigontech/erigon/commit/422d01c33f030bb46b2a73143d12cc6491979f30) - 2025-07-24
+* [Commit] [tidy](https://github.com/erigontech/erigon/commit/3bbcd1c329ab6e35eb142713bd710ea8d35e56c5) - 2025-07-31
+* [Commit] [Update downloader related READMEs (#16248)](https://github.com/erigontech/erigon/commit/538d7b8c101199cb823c954b67083807445648ef) - 2025-07-31
+* [Commit] [downloader: avoid loading snapshot hashes for unsupported networks (#16348)](https://github.com/erigontech/erigon/commit/7060771afe2fef959ab675e7f7476dcc4a2aa64f) - 2025-07-31
+* [Commit] [update erigon-snapshot version to extract correct webseed for perfnets](https://github.com/erigontech/erigon/commit/07d8a7c0dc5da71495e310f1b3f59c596582b07d) - 2025-07-31
+* [Commit] [update erigon-snapshot version to extract correct webseed for perfnets](https://github.com/erigontech/erigon/commit/81ce585e1e998964fdcd9d400a3454679cc90963) - 2025-07-31
 ## Q2 2025
 
 

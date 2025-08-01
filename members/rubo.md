@@ -43,6 +43,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/15837e352183eb43efad7e0034337a6fd7115e1c) - 2025-07-23
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/0508f946fca3f7b9d856af4aab953f396fd6ff51) - 2025-07-23
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/30bdfe6be9d4b4f492fee2e07be60f8012279ee9) - 2025-07-23
+* [Commit] [Downgrade PierTwo.Lantern.Discv5.WireProtocol package](https://github.com/NethermindEth/nethermind/commit/7dd5b854339d9b1b0f2866c2dd56948439b28f17) - 2025-07-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21

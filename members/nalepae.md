@@ -77,6 +77,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/466538f700e694b15ab96f2330804b71129c95bd) - 2025-07-30
 * [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/2877bb8bf3e41aeba4cca3a161bc6f6d655777f7) - 2025-07-30
 * [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/f55631688ca33f4bc715c6569aec79810ebf73c2) - 2025-07-30
+* [Commit] [wrapping goodbye messages in goroutine to speed up node shutdown (#15542)](https://github.com/OffchainLabs/prysm/commit/bd6b4ecd5bbbd5c541329913216a8aee0fefd512) - 2025-07-31
+* [Commit] [Add timing metric for PublishBlockV2 endpoint (#15539)](https://github.com/OffchainLabs/prysm/commit/11ca766ed629723ad185817070604f96db89e9ac) - 2025-07-31
+* [Commit] [Fix tests.](https://github.com/OffchainLabs/prysm/commit/cd5fbedaf402693213b42baaaa41b98237f6940b) - 2025-07-31
+* [Commit] [Use `MinEpochsForDataColumnSidecarsRequest` in `WithinDAPeriod` for Fulu (#15522)](https://github.com/OffchainLabs/prysm/commit/bc209cadabbedbefc31f0a9846cd95d2039b971b) - 2025-07-31
 ## Q2 2025
 
 

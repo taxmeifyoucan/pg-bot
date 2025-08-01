@@ -16,6 +16,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: remove only connect flags (#8046)](https://github.com/ChainSafe/lodestar/commit/498123da6e1e9ec07a4ee6167e7624a7bd21795c) - 2025-07-09
 * [Commit] [chore: bump package versions to 1.32.0](https://github.com/ChainSafe/lodestar/commit/36dbfb2cfe9d3b70801d905cf1e3d00a049787ed) - 2025-07-15
 * [Commit] [chore: add warning ignore](https://github.com/ChainSafe/lodestar/commit/be739661407b84bbabbd4624053cf5b1581eba36) - 2025-07-29
+* [Commit] [feat: add cool down period for reconnection of peers (#8067)](https://github.com/ChainSafe/lodestar/commit/d73c2d188f816ae614c62c195c32fb35d9b01c08) - 2025-07-31
 ## Q2 2025
 
 
