@@ -31,6 +31,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix empty logs in case blockWithTimestamp is False](https://github.com/erigontech/erigon/commit/7bca0eee2c3a80752c1617a8b2f33c44418dcc25) - 2025-07-31
 * [Commit] [fix on null log](https://github.com/erigontech/erigon/commit/ff07930a6daea33aab295ef8adec9a1738f02edc) - 2025-07-31
 * [Commit] [blockTimestamp in log info](https://github.com/erigontech/erigon/commit/95265ae87aae97d04becea622be40826e218a503) - 2025-07-31
+* [Pull Request] [rpcdaemon: fix debug_traceCall () put structLogs only on success](https://github.com/erigontech/erigon/pull/16414) - 2025-08-01
+* [Commit] [disable test temporary](https://github.com/erigontech/erigon/commit/9eacff43d09513e1ef5b7c05baa0c3288a81b96d) - 2025-08-01
+* [Commit] [align rpc-test vs](https://github.com/erigontech/erigon/commit/38cde1827ecaba1f92ad0f6fe32f4a0223d02414) - 2025-08-01
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24

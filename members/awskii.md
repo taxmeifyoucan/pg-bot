@@ -55,6 +55,8 @@ Team: Erigon
 * [Commit] [print stage log when >1 headers/blocks](https://github.com/erigontech/erigon/commit/efc390a9a9d95ae580b8198b656e654131b9a8bc) - 2025-07-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b9efb3eef3d84c5d25617837fe2557475c08462a) - 2025-07-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/dbb65a1b3ff94be614b8df23c0bd297278817339) - 2025-07-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f983c631e482a57a694892c71711f69e112c1fa1) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c3abd410b0960ca7909d3f7121df9e1c9ee2b90b) - 2025-08-02
 ## Q2 2025
 
 

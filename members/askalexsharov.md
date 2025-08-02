@@ -514,6 +514,12 @@ Team: Erigon
 * [Issue] [`TestBatchLimit_WebSocket_Exceeded` timeout on Mac CI](https://github.com/erigontech/erigon/issues/16382) - 2025-07-31
 * [Issue] [r3.1 brevets followup](https://github.com/erigontech/erigon/issues/16381) - 2025-07-31
 * [Issue] [Existing files version bump tooling](https://github.com/erigontech/erigon/issues/16380) - 2025-07-31
+* [Commit] [core: add more test cases for modexp (#16395)](https://github.com/erigontech/erigon/commit/630170b87a19275bbfd0c4685fd9253752fd2ae5) - 2025-08-01
+* [Commit] [history: describe semantic (#16385)](https://github.com/erigontech/erigon/commit/44f9889052d8320d26109f83590a5038bae5272b) - 2025-08-01
+* [Commit] [adds debug tool `seg txnum` tool for block <-> txNum conversions (#16392)](https://github.com/erigontech/erigon/commit/14ac32584be75d19353b5d49f9c9c0946ba9870b) - 2025-08-01
+* [Commit] [adds debug tool seg txnum tool for block <-> txNum conversions (#16393)](https://github.com/erigontech/erigon/commit/e0569b35e98946b389c0f3575f8b209c09394bfc) - 2025-08-01
+* [Commit] [[r31] add inverted_index in printStages (#16394)](https://github.com/erigontech/erigon/commit/ee8f58932562ad739ec75c425c2cb08244103b9b) - 2025-08-01
+* [Commit] [unstuck CI: TestBatchLimit_WebSocket_Exceeded (#16383)](https://github.com/erigontech/erigon/commit/11ec55cfbf30e5988d80a3745c89bbaf9d350546) - 2025-08-01
 ## Q2 2025
 
 

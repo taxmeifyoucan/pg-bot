@@ -112,6 +112,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9dfc34e1a11bcb23798aa3b86e224b495d23cf59) - 2025-07-27
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d9af309d87d147febf710571e0b16401ce7b6202) - 2025-07-27
 * [Pull Request] [Do not merge: cherry pick a fix for science](https://github.com/erigontech/erigon/pull/16367) - 2025-07-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0792e14d620b6f3a46db62a72510e8d10b60d30d) - 2025-08-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b6cf9c539e8c27e1ce374a220c2a244f332cffa9) - 2025-08-01
 ## Q2 2025
 
 

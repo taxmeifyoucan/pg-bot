@@ -126,6 +126,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/85363b188b458919435fa56b15a2587ff4bb397e) - 2025-07-28
 * [Commit] [Use the util function](https://github.com/NethermindEth/nethermind/commit/64fa35808dcdb68fcd114396dd622ca9b99fa329) - 2025-07-28
 * [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/a47dafccd48d4ac3f861805fe0429f83c19613d6) - 2025-07-28
+* [Commit] [Fix/some simulate call (#8989)](https://github.com/NethermindEth/nethermind/commit/932648e882510173211e373da3e1455f73381b40) - 2025-08-01
+* [Commit] [Hardening/Separate buffer allocator (#9044)](https://github.com/NethermindEth/nethermind/commit/7644d1cbcf218d3cb88c3ee6a6ad5f4167ac967c) - 2025-08-01
+* [Pull Request] [Remove storage cell hash representation](https://github.com/NethermindEth/nethermind/pull/9067) - 2025-08-01
+* [Commit] [fix: Replace mutable TxReceipt.SkipStateAndStatusInRlp with constructor-based approach (#9057)](https://github.com/NethermindEth/nethermind/commit/8ba70c6ae393fb9df093e519cb52bdf52d859ec5) - 2025-08-01
+* [Commit] [Revert "Update src/Nethermind/Nethermind.Facade/Simulate/SimulateTransactionProcessorAdapter.cs"](https://github.com/NethermindEth/nethermind/commit/a6697373796cd4bd1038e89bf56726788cc0be02) - 2025-08-01
+* [Commit] [Update src/Nethermind/Nethermind.Facade/Simulate/SimulateBlockMutatorTracer.cs](https://github.com/NethermindEth/nethermind/commit/f200f6cd1873cb727178e22fdc46e82658f4d40a) - 2025-08-01
 ## Q2 2025
 
 

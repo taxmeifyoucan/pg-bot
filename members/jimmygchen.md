@@ -44,6 +44,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Use unique enclave names for CI Kurtosis tests on self hosted runners](https://github.com/sigp/lighthouse/pull/7804) - 2025-07-28
 * [Issue] [Unexpected batch state when `--genesis-backfill` flag is used](https://github.com/sigp/lighthouse/issues/7818) - 2025-07-31
 * [Issue] [Add support for storing traces to JSON file for debugging](https://github.com/sigp/lighthouse/issues/7817) - 2025-07-31
+* [Pull Request] [Update fetch blobs metrics buckets](https://github.com/sigp/lighthouse/pull/7823) - 2025-08-01
 ## Q2 2025
 
 

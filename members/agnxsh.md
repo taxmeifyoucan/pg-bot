@@ -44,6 +44,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [add configurable balance per additional cus group](https://github.com/status-im/nimbus-eth2/commit/bf2f4b048200dd0162341bdee556bc68a1ed46cd) - 2025-07-31
 * [Commit] [another fix](https://github.com/status-im/nimbus-eth2/commit/6baa905b1267f25686c6986cc7095c62252fea36) - 2025-07-31
 * [Commit] [eas fix](https://github.com/status-im/nimbus-eth2/commit/f7e285c7c6444c182c5f026f8823c0d346ca6a9a) - 2025-07-31
+* [Commit] [address review comments](https://github.com/status-im/nimbus-eth2/commit/2ef6c0b5450ba56d79ac4c86eb95909a9681a40d) - 2025-08-01
+* [Commit] [avoid repititions of request in req/resp domain](https://github.com/status-im/nimbus-eth2/commit/ce3778902e8c820a2fc6f1f09f2e4a556b9b7700) - 2025-08-01
+* [Commit] [update URL](https://github.com/status-im/nimbus-eth2/commit/96e3488c78c97448e94699838e5f437cdfbeefe6) - 2025-08-01
+* [Pull Request] [some validator custody improvements](https://github.com/status-im/nimbus-eth2/pull/7349) - 2025-08-01
 ## Q2 2025
 
 

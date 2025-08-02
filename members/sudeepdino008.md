@@ -91,6 +91,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Trace hooks systx](https://github.com/erigontech/erigon/pull/16360) - 2025-07-30
 * [Commit] [save](https://github.com/erigontech/erigon/commit/5eb6b91aa575d48066ed8c204fe6c45aceda54da) - 2025-07-30
 * [Pull Request] [cp: fix polygon's ii and receipt values for system tx (#16360)](https://github.com/erigontech/erigon/pull/16386) - 2025-07-31
+* [Issue] [snap name schema](https://github.com/erigontech/erigon/issues/16398) - 2025-08-01
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025
 
 

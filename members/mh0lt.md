@@ -115,6 +115,8 @@ Team: Erigon
 * [Commit] [print finalize](https://github.com/erigontech/erigon/commit/73b0d3e69a2d3ca8176895e667975bfca70106fa) - 2025-07-31
 * [Commit] [print finalize](https://github.com/erigontech/erigon/commit/a4adc6bcf9032915ab89aede9876a076fdf366c3) - 2025-07-31
 * [Commit] [trace coinbase writes](https://github.com/erigontech/erigon/commit/c32f564a8464e8b6db743aaa86e6d3cea54a9c7f) - 2025-07-31
+* [Commit] [remove coinbase printer](https://github.com/erigontech/erigon/commit/84fd8d3591b2da82dd3621ed95e3f831171dca5b) - 2025-08-01
+* [Commit] [include storage version check](https://github.com/erigontech/erigon/commit/b2ae0050c60960dc2c26126c8540613b1dcacdda) - 2025-08-01
 ## Q2 2025
 
 

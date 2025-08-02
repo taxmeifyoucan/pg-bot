@@ -30,6 +30,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Added exception reporting to recover sidecars](https://github.com/Consensys/teku/pull/9716) - 2025-07-28
 * [Pull Request] [moves kzg benchmarks to JMH tests](https://github.com/Consensys/teku/pull/9727) - 2025-07-30
 * [Pull Request] [proof of concept for alternative to ifExceptionGetsHereRaiseABug](https://github.com/Consensys/teku/pull/9726) - 2025-07-30
+* [Commit] [moves kzg benchmarks to JMH tests (#9727)](https://github.com/Consensys/teku/commit/ae27fd0aac952ba5ffa3d76fbe529b21019b5731) - 2025-08-01
 ## Q2 2025
 
 

@@ -106,6 +106,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat: fix renamed functions for system_call (#2824)](https://github.com/bluealloy/revm/commit/ee6e7cd58a373b6b1591a29a4309daa3b0824ca7) - 2025-07-30
 * [Pull Request] [feat: fix renamed function for system_call](https://github.com/bluealloy/revm/pull/2824) - 2025-07-30
 * [Commit] [always inline step fn](https://github.com/bluealloy/revm/commit/f4639c83dce19e88c1e82de4c4874046e13fc75e) - 2025-07-30
+* [Commit] [revert chaned to bytecode opcode info](https://github.com/bluealloy/revm/commit/fc960ee7acefebefc3451306392f8b6d185a3620) - 2025-08-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

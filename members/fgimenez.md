@@ -84,6 +84,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [move provider bounds to FullProvider](https://github.com/paradigmxyz/reth/commit/c8a929ed9f629bfb91f201c4b4039140925aad9f) - 2025-07-31
 * [Commit] [adapt reorg functionality to use EngineValidator trait](https://github.com/paradigmxyz/reth/commit/c69e34b4f56afd980c517a7b34b7d409f7834e63) - 2025-07-31
 * [Commit] [updated EngineApiValidatorBuilder to build EngineApiValidator instead of PayloadValidator, added TreeValidator associated type, and moved provider bounds from trait to implementations](https://github.com/paradigmxyz/reth/commit/19e8eebdcdf99b026298bc5056508aabf9ab144f) - 2025-07-31
+* [Commit] [relax PVB bounds for node ethereum](https://github.com/paradigmxyz/reth/commit/ca40d704f0ce234727e256e96dbef7125107caa5) - 2025-08-01
+* [Commit] [remove redundant EV generic parameter from node add-ons](https://github.com/paradigmxyz/reth/commit/3a6c8a412cf9e72276cebe36e4f10e377cdb6293) - 2025-08-01
 ## Q2 2025
 
 

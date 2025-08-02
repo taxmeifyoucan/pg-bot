@@ -37,6 +37,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Remove point-at-infinity filter in g1_lincomb_fast](https://github.com/ethereum/c-kzg-4844/pull/588) - 2025-07-25
 * [Pull Request] [In Java bindings, delete more local references](https://github.com/ethereum/c-kzg-4844/pull/589) - 2025-07-31
+* [Commit] [Bump erlef/setup-beam from 1.20.1 to 1.20.4 in the actions group (#591)](https://github.com/ethereum/c-kzg-4844/commit/4e434532b9115d9b32939ab415834914c7d79c65) - 2025-08-01
 ## Q2 2025
 
 

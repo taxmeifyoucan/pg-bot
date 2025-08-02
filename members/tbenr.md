@@ -37,6 +37,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [call create attestationData once for all committees (#9620)](https://github.com/Consensys/teku/commit/b7178fa03a37c464336c77264c4a37159b7b1ab5) - 2025-07-28
 * [Commit] [Genesis cgc initialization (#9717)](https://github.com/Consensys/teku/commit/1107d9762bdbbabb8c8ae403dd53f2d213db7274) - 2025-07-29
 * [Commit] [Enable poolV2 by default (#9721)](https://github.com/Consensys/teku/commit/f749a3c11938bcd6e4705a35dc42759c0c39d424) - 2025-07-29
+* [Commit] [Limit the number of concurrent requests to historical data (RPC) (#9689)](https://github.com/Consensys/teku/commit/09ad649bb8bc2ed07ffaff3f4e5158827ec0cc2b) - 2025-08-01
 ## Q2 2025
 
 

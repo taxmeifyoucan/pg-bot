@@ -110,6 +110,7 @@ Team: Reth
 * [Pull Request] [fix(txpool): also emit promoted pending tx on pool drift](https://github.com/paradigmxyz/reth/pull/17695) - 2025-07-31
 * [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/89ec2cc430032a481193a86e4a8db5003f15bc97) - 2025-07-31
 * [Pull Request] [fix: use primitive header type for fetching header](https://github.com/paradigmxyz/reth/pull/17691) - 2025-07-31
+* [Pull Request] [fix: forward unknown hashes pre bedrock](https://github.com/paradigmxyz/reth/pull/17709) - 2025-08-01
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

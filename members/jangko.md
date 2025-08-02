@@ -95,6 +95,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [fix portal.yml](https://github.com/status-im/nimbus-eth1/commit/fefb0ef10233a6e2aebc04c0317acdc9ff6f0b33) - 2025-07-31
 * [Commit] [use make update instead of make update-from-ci](https://github.com/status-im/nimbus-eth1/commit/3ce8d338ab3d7dc79b678ef59463d9e314803fd4) - 2025-07-31
 * [Commit] [Merge update-from-ci into update](https://github.com/status-im/nimbus-eth1/commit/f788c1cce9091a3441f8148f9e33b80cd8c6515f) - 2025-07-31
+* [Commit] [Add CI script for docker base image builder (#3528)](https://github.com/status-im/nimbus-eth1/commit/85f0e55296cb4f88758b975e545ec23017873729) - 2025-08-01
+* [Pull Request] [Fix simulator CI script: rename rule from update-from-ci to update](https://github.com/status-im/nimbus-eth1/pull/3529) - 2025-08-01
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

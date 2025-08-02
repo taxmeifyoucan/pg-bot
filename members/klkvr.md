@@ -62,6 +62,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [impl for eth](https://github.com/paradigmxyz/reth/commit/b4b1cb096c1f52fb0bca6c7c192ca059573c1d81) - 2025-07-31
 * [Commit] [docs: fix doc comments: clarify downloaded bytes and builder return condition (#17566)](https://github.com/paradigmxyz/reth/commit/b1f1e9d71174a8e6456825a59f40c3103ed2d7e8) - 2025-07-31
 * [Commit] [rm todo](https://github.com/paradigmxyz/reth/commit/66d9ebf81de3db5f2f83732cbea09e29167ff440) - 2025-07-31
+* [Commit] [rayon](https://github.com/paradigmxyz/reth/commit/673442231b091ac5cb1fb966e3c9a34ab9183237) - 2025-08-01
+* [Commit] [rayon](https://github.com/paradigmxyz/reth/commit/26c43d6b24015595fe67eb94c33bb9bc2c291233) - 2025-08-01
 ## Q2 2025
 
 

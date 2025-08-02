@@ -19,6 +19,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Issue] [Implement logic to handle getBlobsV3 responses](https://github.com/Consensys/teku/issues/9668) - 2025-07-16
 * [Commit] [Add sampling eligibility check to forkchoice ref test executor (#9701)](https://github.com/Consensys/teku/commit/a4179d1f3e7a6cb4b5d6c4e316ddf66d6163c06e) - 2025-07-24
 * [Pull Request] [Add dedicated data column pruner](https://github.com/Consensys/teku/pull/9733) - 2025-07-31
+* [Commit] [Clean up beacon state schemas (#9737)](https://github.com/Consensys/teku/commit/27733915e7cfeacfd0380655188dff1f9f33b1e5) - 2025-08-01
+* [Pull Request] [Clean up beacon state schemas](https://github.com/Consensys/teku/pull/9737) - 2025-08-01
+* [Commit] [Add `get-earliest-available-data-column-slot` to the debug db cmd (#9736)](https://github.com/Consensys/teku/commit/804ca4292dc21cb0012fdb2ab9dae81788d63c4f) - 2025-08-01
 ## Q2 2025
 
 

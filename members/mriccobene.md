@@ -37,6 +37,9 @@ Team: Erigon
 * [Commit] [fix (2)](https://github.com/erigontech/erigon/commit/0561876700f27d50b71de0f773fc0c7ccacc08f3) - 2025-07-31
 * [Commit] [fix](https://github.com/erigontech/erigon/commit/b148f8e0f15c41126058d1101f7514b83ed8bf80) - 2025-07-31
 
+* [Pull Request] [Demote wrong trie root log level](https://github.com/erigontech/erigon/pull/16400) - 2025-08-01
+* [Commit] [fix dir in downgrade section, uncomment explicit upgrade section](https://github.com/erigontech/erigon/commit/f47d2b866c9239a2f676cfbc18717a6eba7e9dc9) - 2025-08-01
+* [Commit] [bump rpc-test version](https://github.com/erigontech/erigon/commit/ee24d786bf70e9da0ad5f1c1b6e3e63966f59b49) - 2025-08-01
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [blockTimetsamp is on log info not header (#423)](https://github.com/erigontech/rpc-tests/commit/4155a0cd4fd99bc6e47a81d0aa08f19386d61b0b) - 2025-07-31
 * [Commit] [eth_getBlockRrceipts - fix exp resp with blockTimestamp (#422)](https://github.com/erigontech/rpc-tests/commit/a0bb773bf04ab4e4e3784c4052a147021b576211) - 2025-07-31

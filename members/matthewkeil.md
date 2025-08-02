@@ -31,6 +31,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Need to persist CGC across restarts so it does not decrease for a given ENR](https://github.com/ChainSafe/lodestar/issues/8097) - 2025-07-31
 * [Pull Request] [feat: dont reduce cgc](https://github.com/ChainSafe/lodestar/pull/8096) - 2025-07-31
 * [Commit] [docs: update comment](https://github.com/ChainSafe/lodestar/commit/babad223502e7bc8f1a7d779853c6e4a23ff1692) - 2025-07-31
+* [Commit] [docs: add comment and TOD for BlockErrorCode.EXECUTION_ENGINE_ERROR](https://github.com/ChainSafe/lodestar/commit/7bd4812186ea941db9c2d03acbd3bb091dd2f7ca) - 2025-08-01
+* [Commit] [fix: logged string in triggerUnknownBlockSearch](https://github.com/ChainSafe/lodestar/commit/8f6230b1a9313319ea93479685f9438c2793c083) - 2025-08-01
+* [Commit] [refactor: change name of class](https://github.com/ChainSafe/lodestar/commit/10d3ba5fccdfb54a94b72217e402d8b042fa53fc) - 2025-08-01
+* [Commit] [fix: remove placeholder error type](https://github.com/ChainSafe/lodestar/commit/4823f532d1b94a91b25b9e329f099e711edca5bb) - 2025-08-01
 ## Q2 2025
 
 

@@ -19,6 +19,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ash
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Add eth_config API definitions for EIP-7910](https://github.com/ethereum/execution-apis/pull/678) - 2025-07-25
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [feat: Execute execution-apis-tests in e2e tests](https://github.com/paradigmxyz/reth/pull/17708) - 2025-08-01
 ## Q2 2025
 
 
