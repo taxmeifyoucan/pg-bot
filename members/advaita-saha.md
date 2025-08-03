@@ -35,6 +35,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Issue] [CI doesn't work for external contributors](https://github.com/status-im/nimbus-eth1/issues/3518) - 2025-07-29
 * [Issue] [Crash during sync](https://github.com/status-im/nimbus-eth1/issues/3526) - 2025-07-31
 * [Issue] [TxPool unable to fetch pooled txs](https://github.com/status-im/nimbus-eth1/issues/3525) - 2025-07-31
+* [Commit] [fix crash](https://github.com/status-im/nimbus-eth1/commit/3a85cba31b28309b4b46dc69497c9858c1c68974) - 2025-08-02
+* [Commit] [Restore 'make update' and introduce 'make init' (#3532)](https://github.com/status-im/nimbus-eth1/commit/9ccffee3c6dab75ce6b0550383d500722c8d314e) - 2025-08-02
+* [Pull Request] [eth_config impl](https://github.com/status-im/nimbus-eth1/pull/3534) - 2025-08-02
 ## Q2 2025
 
 

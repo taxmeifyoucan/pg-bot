@@ -97,6 +97,23 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Merge update-from-ci into update](https://github.com/status-im/nimbus-eth1/commit/f788c1cce9091a3441f8148f9e33b80cd8c6515f) - 2025-07-31
 * [Commit] [Add CI script for docker base image builder (#3528)](https://github.com/status-im/nimbus-eth1/commit/85f0e55296cb4f88758b975e545ec23017873729) - 2025-08-01
 * [Pull Request] [Fix simulator CI script: rename rule from update-from-ci to update](https://github.com/status-im/nimbus-eth1/pull/3529) - 2025-08-01
+* [Pull Request] [Bundle rocksdb prebuilt binary into docker base images](https://github.com/status-im/nimbus-eth1/pull/3536) - 2025-08-02
+* [Pull Request] [Cache rocksdb binary in CI](https://github.com/status-im/nimbus-eth1/pull/3535) - 2025-08-02
+* [Commit] [bump rocksdb](https://github.com/status-im/nimbus-eth1/commit/78c7793361758c50299f8ccec8bf73a3ac5e4998) - 2025-08-02
+* [Commit] [Fix stateroot mismatch caused by stale db cache when using checkpoints (#3527)](https://github.com/status-im/nimbus-eth1/commit/3f6b570fb081afe930a58cb00fef129becc5a605) - 2025-08-02
+* [Commit] [Simplify simulator CI (#3533)](https://github.com/status-im/nimbus-eth1/commit/5bb60d743d8848a66014d5fcf03de1b58ff44bc9) - 2025-08-02
+* [Commit] [Fix file cleanup in portal CI](https://github.com/status-im/nimbus-eth1/commit/2ba4ac5fc73c654f30b27011f9a792ea7a9390fe) - 2025-08-02
+* [Commit] [add workflow dispatch to portal.yml](https://github.com/status-im/nimbus-eth1/commit/a3d3f0f9e6703f620330bfd63d0a0afc503c97f5) - 2025-08-02
+* [Commit] [add path creation](https://github.com/status-im/nimbus-eth1/commit/3201b2b0be4b65b8877dc20ebf58d79f03123b59) - 2025-08-02
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/79653dd1a43551a46fdd1bf8c7eb683b33837dd5) - 2025-08-02
+* [Commit] [Fix](https://github.com/status-im/nimbus-eth1/commit/6f43c9c78d181463e8d7535bcf2337bf5b00105b) - 2025-08-02
+* [Pull Request] [Simplify simulator CI](https://github.com/status-im/nimbus-eth1/pull/3533) - 2025-08-02
+* [Commit] [fix](https://github.com/status-im/nimbus-eth1/commit/be9cff1d12f3687a8c45ca2570d41cf7ddd1212b) - 2025-08-02
+* [Commit] [Fix script](https://github.com/status-im/nimbus-eth1/commit/33c7bc4d89d19e394c1d5130b3ccb3bd4803e5f4) - 2025-08-02
+* [Commit] [fix](https://github.com/status-im/nimbus-eth1/commit/24438b37550f4980c4fb9391304b1efbf99f80fa) - 2025-08-02
+* [Commit] [Fixes](https://github.com/status-im/nimbus-eth1/commit/3b5dc21ddb7f9b976617333a5a5d25c823c0eccd) - 2025-08-02
+* [Commit] [Add missing fi](https://github.com/status-im/nimbus-eth1/commit/68a57e0cb9c872f6b0751e1dac77772a21ea2b9e) - 2025-08-02
+* [Pull Request] [Restore 'make update' and introduce 'make init'](https://github.com/status-im/nimbus-eth1/pull/3532) - 2025-08-02
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

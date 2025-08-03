@@ -41,6 +41,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [choreAdd a message for disconnect message reasons](https://github.com/hyperledger/besu/pull/9014) - 2025-07-28
 * [Commit] [Bump default max peers to 50 (#9010)](https://github.com/hyperledger/besu/commit/c3d573bb4306720a392bcd7e73c9a3231fc3a98b) - 2025-07-28
 * [Pull Request] [[fusala-devnet-3] Bump default max peers to 50](https://github.com/hyperledger/besu/pull/9010) - 2025-07-28
+* [Commit] [[fusaka-devnet-3] Merge main (#9028)](https://github.com/hyperledger/besu/commit/947ec723056eaf48f536ff32e0be3d399a0b1a7e) - 2025-08-02
+* [Pull Request] [[fusaka-devnet-3] Merge main](https://github.com/hyperledger/besu/pull/9028) - 2025-08-02
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025

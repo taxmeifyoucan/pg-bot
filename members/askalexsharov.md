@@ -520,6 +520,12 @@ Team: Erigon
 * [Commit] [adds debug tool seg txnum tool for block <-> txNum conversions (#16393)](https://github.com/erigontech/erigon/commit/e0569b35e98946b389c0f3575f8b209c09394bfc) - 2025-08-01
 * [Commit] [[r31] add inverted_index in printStages (#16394)](https://github.com/erigontech/erigon/commit/ee8f58932562ad739ec75c425c2cb08244103b9b) - 2025-08-01
 * [Commit] [unstuck CI: TestBatchLimit_WebSocket_Exceeded (#16383)](https://github.com/erigontech/erigon/commit/11ec55cfbf30e5988d80a3745c89bbaf9d350546) - 2025-08-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6273b75f405941e59e0850c85cf40274570ee690) - 2025-08-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eab52aad517a0d47f58c1756d2ccf55348aa84db) - 2025-08-03
+* [Commit] [[main] publishable small fix (#16403) (#16422)](https://github.com/erigontech/erigon/commit/de26ef5b0339dc9ee5052f6a0e4f5cc424cd6b2f) - 2025-08-03
+* [Commit] [integrity check: consider that rcache might be atmost 1 ahead of account progress (#16407)](https://github.com/erigontech/erigon/commit/b4433f42954f7fe31af86a899d3575ea0c97a5bf) - 2025-08-02
+* [Commit] [integrity check: consider that rcache might be atmost 1 ahead of account progress (#16406)](https://github.com/erigontech/erigon/commit/c9d26569350afc842b757ce857973e4897230094) - 2025-08-02
+* [Commit] [Added timeout for bor snapshots if data is not ready (#16359)](https://github.com/erigontech/erigon/commit/07c3860aaef823a63581820ec674315862754f2f) - 2025-08-02
 ## Q2 2025
 
 

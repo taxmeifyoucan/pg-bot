@@ -46,6 +46,12 @@ Team: Portal Network (EF)
 * [Pull Request] [feat: remove glados_monitor crate](https://github.com/ethereum/glados/pull/445) - 2025-07-25
 * [Commit] [feat: use subprotocol instead of network as url param (#449)](https://github.com/ethereum/glados/commit/8d4ff645daa90ee202086d098c313179d35635bb) - 2025-07-31
 * [Pull Request] [feat: use subprotocol instead of network as url param](https://github.com/ethereum/glados/pull/449) - 2025-07-31
+* [Commit] [feat: audit bodies and receipts (#453)](https://github.com/ethereum/glados/commit/573fd5317be6556967ee9cd33ae5e800c394a907) - 2025-08-02
+* [Commit] [feat: show content type instead of protocol in audit table (#452)](https://github.com/ethereum/glados/commit/f86fa8ff0c8dcadf0638b9c349f5f98858837623) - 2025-08-02
+* [Pull Request] [feat: audit bodies and receipts](https://github.com/ethereum/glados/pull/453) - 2025-08-02
+* [Pull Request] [feat: show content type instead of protocol in audit table](https://github.com/ethereum/glados/pull/452) - 2025-08-02
+* [Commit] [feat: implement retention background tasks (#451)](https://github.com/ethereum/glados/commit/98f493ab6c3c202e3da3819bea996743c8462755) - 2025-08-02
+* [Pull Request] [feat: implement retention background tasks](https://github.com/ethereum/glados/pull/451) - 2025-08-02
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Commit] [Add spec for new History network (#410)](https://github.com/ethereum/portal-network-specs/commit/e9d7ba8ef01714471d6b2358ca8a0be5989bd7ed) - 2025-07-20
 * [Commit] [Move network specs into legacy folder (#409)](https://github.com/ethereum/portal-network-specs/commit/0bf9995eb39983e2bcc34f1cf40d0ea01b078e2d) - 2025-07-20

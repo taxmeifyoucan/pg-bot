@@ -56,6 +56,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/f6e83ddc1eda69870f7155b3b6c69f98f5928f8d) - 2025-07-31
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/5e4cecbe4fd03172f4ee98fe16bba82a778b1fe3) - 2025-07-31
 * [Pull Request] [1.1zation (cp from 3.1)](https://github.com/erigontech/erigon/pull/16389) - 2025-07-31
+* [Pull Request] [[main] publishable small fix (#16403)](https://github.com/erigontech/erigon/pull/16422) - 2025-08-02
+* [Commit] [[r3.1] Sup multiple versions & refactor publishable (#16419)](https://github.com/erigontech/erigon/commit/d842f50359722211d884a2ff5ef17a5637efa886) - 2025-08-02
+* [Pull Request] [[r3.1] Sup multiple versions & refactor publishable](https://github.com/erigontech/erigon/pull/16419) - 2025-08-02
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/08866fa48883a799a69ea29a0b4fc145e8fee120) - 2025-08-02
 ## Q2 2025
 
 

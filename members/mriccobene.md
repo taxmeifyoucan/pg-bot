@@ -44,6 +44,7 @@ Team: Erigon
 * [Commit] [blockTimetsamp is on log info not header (#423)](https://github.com/erigontech/rpc-tests/commit/4155a0cd4fd99bc6e47a81d0aa08f19386d61b0b) - 2025-07-31
 * [Commit] [eth_getBlockRrceipts - fix exp resp with blockTimestamp (#422)](https://github.com/erigontech/rpc-tests/commit/a0bb773bf04ab4e4e3784c4052a147021b576211) - 2025-07-31
 * [Commit] [Polygon - debug_TraceTransaction - change returnValue to 0x (#421)](https://github.com/erigontech/rpc-tests/commit/166e777f4a29d8550b94856474976278502485c8) - 2025-07-31
+* [Commit] [integration: add tests on latest (#425)](https://github.com/erigontech/rpc-tests/commit/54c2ca5dc069a67c59d3516733cc5d9e50791b5f) - 2025-08-02
 ## Q2 2025
 
 

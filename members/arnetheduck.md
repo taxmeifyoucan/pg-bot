@@ -44,6 +44,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/923211138fe62195b0c9acfbc5446a0752cb0a87) - 2025-07-31
 * [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/deced61edcd1aceca5648811a5ac9429eedf7c8b) - 2025-07-31
 * [Pull Request] [serialization: more bumps](https://github.com/status-im/nimbus-eth1/pull/3524) - 2025-07-31
+* [Commit] [Adjust for authList v field change to yParity name (#3497)](https://github.com/status-im/nimbus-eth1/commit/a5ba304100b2d993af51ba142448882b2b03a01c) - 2025-08-02
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/85aaf4195db1b1bd308fb5a70706791e8778c2a2) - 2025-08-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21

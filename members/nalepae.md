@@ -81,6 +81,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Add timing metric for PublishBlockV2 endpoint (#15539)](https://github.com/OffchainLabs/prysm/commit/11ca766ed629723ad185817070604f96db89e9ac) - 2025-07-31
 * [Commit] [Fix tests.](https://github.com/OffchainLabs/prysm/commit/cd5fbedaf402693213b42baaaa41b98237f6940b) - 2025-07-31
 * [Commit] [Use `MinEpochsForDataColumnSidecarsRequest` in `WithinDAPeriod` for Fulu (#15522)](https://github.com/OffchainLabs/prysm/commit/bc209cadabbedbefc31f0a9846cd95d2039b971b) - 2025-07-31
+* [Commit] [Do not compare liveness response with LH (#15556)](https://github.com/OffchainLabs/prysm/commit/f3300217858b0c6400fc63073dce3a9c88c84643) - 2025-08-02
+* [Commit] [Clean](https://github.com/OffchainLabs/prysm/commit/d3763d56cf8f9f7acad08d5d038d4b76c9a04cb7) - 2025-08-02
+* [Commit] [Clean](https://github.com/OffchainLabs/prysm/commit/4fb997ddf43fa5e2fbe8147d4fa7c34b6aa04ff5) - 2025-08-02
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/461fa50c34b8b218a98b0bcf6c862db5080591b3) - 2025-08-02
+* [Commit] [wrapping goodbye messages in goroutine to speed up node shutdown (#15542)](https://github.com/OffchainLabs/prysm/commit/bd6b4ecd5bbbd5c541329913216a8aee0fefd512) - 2025-08-02
 ## Q2 2025
 
 

@@ -114,6 +114,29 @@ Team: Erigon
 * [Pull Request] [Do not merge: cherry pick a fix for science](https://github.com/erigontech/erigon/pull/16367) - 2025-07-30
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0792e14d620b6f3a46db62a72510e8d10b60d30d) - 2025-08-01
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b6cf9c539e8c27e1ce374a220c2a244f332cffa9) - 2025-08-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e2a80c80462495597685553bf05276a6969a1d54) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/55e69a27bf5d520514c088772744fb7c78ae29d2) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a398e5faaff0b108656c32e395e3be93da497390) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8d536e81d6440123eba9fc211e94fc5c98ef695f) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/001654f670b9a016a03c7bbdb918d32cdfa9ec70) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e7c506bda52ca6a2664b155ae6c48673a6cb22a3) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d9707c72c86479a73f4182c10c2f1dcb6418c883) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ef6c3e4fa4e1ede8932a3634f2612ad8c14a348a) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/70bc021ddd1ba2084d1926562f20c44d332fabe8) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8009a42806e64cefda7a7245f2a239955d40e598) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1fc6a117b42f239ca77864b2bfd16767e34fa919) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/102adfd808087c6c90f6c1dcc07a8d1157b428c5) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/719a5e45b2cb693860d921788af7bbf700be0835) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/876dab85e813692083b69a5604d7b0d7cc11a697) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/01323f6eb096c1fb43e627ff68e4085aa74d2cb4) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f8eb95fad398f72f359bb0e1389b67f5e249fb2c) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/935f515aa92b65430047c9ae08ae61bd193783a7) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b90fa27cb33fe0988cf92c566027a6b9e83c7aab) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d13c26e77d76b72c9a5f646bfedea16a574e297e) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/45747bf17ed19ae804cf49525f4ab218b7b067a9) - 2025-08-02
+* [Pull Request] [Caplin: implemented mev-boost for Fulu](https://github.com/erigontech/erigon/pull/16420) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/20b91233b360b122a878689fa5d1d43ae6fb90c8) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/87aa93df86e64a2b0e6247e4ce0a342ca9cd3b7f) - 2025-08-02
 ## Q2 2025
 
 

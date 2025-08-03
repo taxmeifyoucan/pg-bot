@@ -39,6 +39,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Issue] [POST /eth/v1/validator/duties/attester/{epoch_number} fails](https://github.com/OffchainLabs/prysm/issues/15551) - 2025-07-31
 * [Issue] [POST `/eth/v1/beacon/states/head/validators` fails](https://github.com/OffchainLabs/prysm/issues/15550) - 2025-07-31
 * [Commit] [Optimize validator assignment lookups with O(1) reverse index map](https://github.com/OffchainLabs/prysm/commit/7a621fb05f1a5783b8a0c01f13824ab26ca01f39) - 2025-08-01
+* [Commit] [switching enable to disable for duties (#15445)](https://github.com/OffchainLabs/prysm/commit/bc7e4f7751e7bbf7ea5b72d4215c4d9b01576e7e) - 2025-08-02
+* [Commit] [Trigger payload attribute event on early blocks (#15541)](https://github.com/OffchainLabs/prysm/commit/d7d8764a916dc9c4a43d46c5b5ffbefec2a56507) - 2025-08-02
+* [Commit] [beacon api: optimize val assignment lookup](https://github.com/OffchainLabs/prysm/commit/61a9bcca41a2638f8b8127fb98d879e04244ad98) - 2025-08-02
+* [Pull Request] [Optimize validator assignment lookups with hybrid O(1) approach for large requests](https://github.com/OffchainLabs/prysm/pull/15558) - 2025-08-02
+* [Commit] [beacon api: optimize val assignment lookup](https://github.com/OffchainLabs/prysm/commit/5d4bbfc8c93c126f6e8cf8c4355130c20109a8bb) - 2025-08-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

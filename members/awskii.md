@@ -57,6 +57,9 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/dbb65a1b3ff94be614b8df23c0bd297278817339) - 2025-07-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f983c631e482a57a694892c71711f69e112c1fa1) - 2025-08-02
 * [Commit] [save](https://github.com/erigontech/erigon/commit/c3abd410b0960ca7909d3f7121df9e1c9ee2b90b) - 2025-08-02
+* [Commit] [Arbitrum: bump erigon-snapshot rev (#16423)](https://github.com/erigontech/erigon/commit/e4a60ed0c3d588363983bab55baa567c2e1a8850) - 2025-08-02
+* [Pull Request] [Arbitrum: bump erigon-snapshot rev](https://github.com/erigontech/erigon/pull/16423) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bebebb15723215e22284d604cdc27133567a2622) - 2025-08-02
 ## Q2 2025
 
 

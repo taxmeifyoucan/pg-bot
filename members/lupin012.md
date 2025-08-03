@@ -34,6 +34,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpcdaemon: fix debug_traceCall () put structLogs only on success](https://github.com/erigontech/erigon/pull/16414) - 2025-08-01
 * [Commit] [disable test temporary](https://github.com/erigontech/erigon/commit/9eacff43d09513e1ef5b7c05baa0c3288a81b96d) - 2025-08-01
 * [Commit] [align rpc-test vs](https://github.com/erigontech/erigon/commit/38cde1827ecaba1f92ad0f6fe32f4a0223d02414) - 2025-08-01
+* [Pull Request] [rpcademon: update rpc test version to 1.72 (includes some extra test on latest)](https://github.com/erigontech/erigon/pull/16418) - 2025-08-02
+* [Pull Request] [rpcdaemon: add blockTimestamp field on Log for eth_getLogs](https://github.com/erigontech/erigon/pull/16417) - 2025-08-02
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24

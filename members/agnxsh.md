@@ -48,6 +48,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [avoid repititions of request in req/resp domain](https://github.com/status-im/nimbus-eth2/commit/ce3778902e8c820a2fc6f1f09f2e4a556b9b7700) - 2025-08-01
 * [Commit] [update URL](https://github.com/status-im/nimbus-eth2/commit/96e3488c78c97448e94699838e5f437cdfbeefe6) - 2025-08-01
 * [Pull Request] [some validator custody improvements](https://github.com/status-im/nimbus-eth2/pull/7349) - 2025-08-01
+* [Commit] [fixed maxBlobsPerBlockDeneb](https://github.com/status-im/nimbus-eth2/commit/c55cbd5267173a8c1f4c73d1a41a00c7bf8ecf3d) - 2025-08-02
+* [Commit] [added some fixes](https://github.com/status-im/nimbus-eth2/commit/cc306fb09a61f87c53d06ba5eb6dc88105849db3) - 2025-08-02
 ## Q2 2025
 
 
