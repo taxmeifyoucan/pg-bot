@@ -35,6 +35,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: logged string in triggerUnknownBlockSearch](https://github.com/ChainSafe/lodestar/commit/8f6230b1a9313319ea93479685f9438c2793c083) - 2025-08-01
 * [Commit] [refactor: change name of class](https://github.com/ChainSafe/lodestar/commit/10d3ba5fccdfb54a94b72217e402d8b042fa53fc) - 2025-08-01
 * [Commit] [fix: remove placeholder error type](https://github.com/ChainSafe/lodestar/commit/4823f532d1b94a91b25b9e329f099e711edca5bb) - 2025-08-01
+* [Commit] [fix: updates from merging unstable](https://github.com/ChainSafe/lodestar/commit/ed0cd651c182530e42f072a738b58d43f5f61cb9) - 2025-08-03
+* [Commit] [chore: bump package versions to 1.30.0](https://github.com/ChainSafe/lodestar/commit/123eb2d9fb71dd10076a47bc7787bf4ec40343da) - 2025-08-03
+* [Commit] [docs: add comment about unknown error processing](https://github.com/ChainSafe/lodestar/commit/a17716b03475be9fed54d5ffe67911b5c348e795) - 2025-08-03
 ## Q2 2025
 
 

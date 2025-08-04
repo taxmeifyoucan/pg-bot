@@ -526,6 +526,16 @@ Team: Erigon
 * [Commit] [integrity check: consider that rcache might be atmost 1 ahead of account progress (#16407)](https://github.com/erigontech/erigon/commit/b4433f42954f7fe31af86a899d3575ea0c97a5bf) - 2025-08-02
 * [Commit] [integrity check: consider that rcache might be atmost 1 ahead of account progress (#16406)](https://github.com/erigontech/erigon/commit/c9d26569350afc842b757ce857973e4897230094) - 2025-08-02
 * [Commit] [Added timeout for bor snapshots if data is not ready (#16359)](https://github.com/erigontech/erigon/commit/07c3860aaef823a63581820ec674315862754f2f) - 2025-08-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dd3b8c257f049a9717e2909e6b80dbc78e8f547a) - 2025-08-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c89a6fc8370a0aae8383083b28a02579a706590f) - 2025-08-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5e3372085ab5b83ce319c7fad108110ef948aa3f) - 2025-08-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b3f96779f66dcdb65a43e9efb50786730ece04b5) - 2025-08-03
+* [Commit] [[r31] add inverted_index in printStages (#16394)](https://github.com/erigontech/erigon/commit/ee8f58932562ad739ec75c425c2cb08244103b9b) - 2025-08-03
+* [Commit] [rpcademon: update rpc test version to 1.72 (includes some extra test on latest) (#16418)](https://github.com/erigontech/erigon/commit/a11e812d4f756265745f2edb7c7ec35a3ae17c24) - 2025-08-03
+* [Issue] [Erigon loops on “diffset not found” and flood logs](https://github.com/erigontech/erigon/issues/16427) - 2025-08-03
+* [Issue] [—sync.blocks.lool.limit better support (Chaindaata grow cases)](https://github.com/erigontech/erigon/issues/16426) - 2025-08-03
+* [Issue] [Polygon to call eth1ExecutionServer.Start](https://github.com/erigontech/erigon/issues/16425) - 2025-08-03
+* [Issue] [ExternalCL: preserve —sync.blocks.limit](https://github.com/erigontech/erigon/issues/16424) - 2025-08-03
 ## Q2 2025
 
 

@@ -31,6 +31,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [eip7732: fix builder pending withdrawals processing (#4470)](https://github.com/ethereum/consensus-specs/commit/f1d7eb2a54347e1baab1aa6e4b3fd8cc728a5661) - 2025-07-29
 * [Pull Request] [Replace INTERVALS_PER_SLOT with explicit slot component times](https://github.com/ethereum/consensus-specs/pull/4476) - 2025-07-30
 * [Commit] [Add EIP-7916 ProgressiveList specs and tests (#4445)](https://github.com/ethereum/consensus-specs/commit/224a91a45bd203b89b9733d8e597b9b327bf41a7) - 2025-07-31
+* [Commit] [eip7732: fix quorum calc to avoid double-counting (#4481)](https://github.com/ethereum/consensus-specs/commit/01454a2afc442a32644df45deb8f81687e461785) - 2025-08-03
+* [Commit] [eip7732: fix a typo in builder.md (#4483)](https://github.com/ethereum/consensus-specs/commit/78b2b93af48f08a15d8b9ccfe0dfa9b66715345c) - 2025-08-03
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

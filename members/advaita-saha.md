@@ -38,6 +38,13 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix crash](https://github.com/status-im/nimbus-eth1/commit/3a85cba31b28309b4b46dc69497c9858c1c68974) - 2025-08-02
 * [Commit] [Restore 'make update' and introduce 'make init' (#3532)](https://github.com/status-im/nimbus-eth1/commit/9ccffee3c6dab75ce6b0550383d500722c8d314e) - 2025-08-02
 * [Pull Request] [eth_config impl](https://github.com/status-im/nimbus-eth1/pull/3534) - 2025-08-02
+* [Commit] [fix: system contracts forking](https://github.com/status-im/nimbus-eth1/commit/81becbfc12890635a446d5a08792bf462dcd6280) - 2025-08-03
+* [Commit] [shift to timestamp](https://github.com/status-im/nimbus-eth1/commit/81a8411c85c28df8366aa2968802a5e3d1e597d1) - 2025-08-03
+* [Commit] [shift to JsonNumber](https://github.com/status-im/nimbus-eth1/commit/35884df423e4409f61cea1d8d08c77faed1ebf2b) - 2025-08-03
+* [Commit] [fix crashes due to nil pointer](https://github.com/status-im/nimbus-eth1/commit/47b25482d84b2f32e64d62e337ee4da628bf3f9c) - 2025-08-03
+* [Commit] [more debug logs with fixes](https://github.com/status-im/nimbus-eth1/commit/ca971308c81e81e3dc9f9633c3e95928ffcd052d) - 2025-08-03
+* [Commit] [add debug points](https://github.com/status-im/nimbus-eth1/commit/fc2ceb07f7d19b0215e48dfa03c41874321e1278) - 2025-08-03
+* [Commit] [shift to header](https://github.com/status-im/nimbus-eth1/commit/7e514aa8d042c7f0b8880ca2266349a29bc5d900) - 2025-08-03
 ## Q2 2025
 
 

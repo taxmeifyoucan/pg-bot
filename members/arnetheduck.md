@@ -77,6 +77,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [how did this work before??](https://github.com/status-im/nimbus-eth2/commit/bfc29cc79526122d374c6d1297b4f7aafe736d3b) - 2025-07-31
 * [Commit] [Update SSZ test runner for new directory name (#7328)](https://github.com/status-im/nimbus-eth2/commit/6d2e1b69e80cfd557cb5c0e46bcf01782d13d185) - 2025-07-31
 * [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/f41d072a59937c9e2a361a1e878966fb8f65439f) - 2025-07-31
+* [Pull Request] [Block production revamp](https://github.com/status-im/nimbus-eth2/pull/7353) - 2025-08-03
+* [Commit] [Block production revamp](https://github.com/status-im/nimbus-eth2/commit/7878e0a27b8a2f7ddda17b79e83c61c41dcc4fab) - 2025-08-03
+* [Commit] [mev tests](https://github.com/status-im/nimbus-eth2/commit/065d6404ea0a1d2f411a6c4733a9ed2c2e539614) - 2025-08-03
+* [Commit] [fix vc](https://github.com/status-im/nimbus-eth2/commit/458c6f93dcd4fa9ddb824305cddd80a954d84605) - 2025-08-03
+* [Pull Request] [fork cleanups](https://github.com/status-im/nimbus-eth2/pull/7352) - 2025-08-03
+* [Commit] [fork cleanups](https://github.com/status-im/nimbus-eth2/commit/e112456d554a0c6a16bf902540fde196e2329394) - 2025-08-03
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

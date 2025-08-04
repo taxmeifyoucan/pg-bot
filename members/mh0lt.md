@@ -117,6 +117,7 @@ Team: Erigon
 * [Commit] [trace coinbase writes](https://github.com/erigontech/erigon/commit/c32f564a8464e8b6db743aaa86e6d3cea54a9c7f) - 2025-07-31
 * [Commit] [remove coinbase printer](https://github.com/erigontech/erigon/commit/84fd8d3591b2da82dd3621ed95e3f831171dca5b) - 2025-08-01
 * [Commit] [include storage version check](https://github.com/erigontech/erigon/commit/b2ae0050c60960dc2c26126c8540613b1dcacdda) - 2025-08-01
+* [Commit] [fixed version validation + deleted account buffering](https://github.com/erigontech/erigon/commit/9b7c6d1e9a85f940180542d242516a73a53c0a92) - 2025-08-03
 ## Q2 2025
 
 

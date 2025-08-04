@@ -25,6 +25,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [feat: Add RegexOptions.Compiled flag to NewPayloadJsonRpcValidator (#8984)](https://github.com/NethermindEth/nethermind/commit/c9fe29c1fd7ace1f7669c093033268c523e51105) - 2025-07-15
 * [Commit] [Auto-update fast sync settings (#9039)](https://github.com/NethermindEth/nethermind/commit/8aa11037fb3ca822cf5304bb9d5f5282324f5686) - 2025-07-27
 * [Commit] [Update OP Superchain chains (#9038)](https://github.com/NethermindEth/nethermind/commit/94f3407b448d86e049fd2167fa10c4c7f7717337) - 2025-07-27
+* [Commit] [Update OP Superchain chains (#9080)](https://github.com/NethermindEth/nethermind/commit/3816e9a35421de2a07638a5bacc84bd770fc7853) - 2025-08-03
+* [Commit] [Auto-update fast sync settings (#9079)](https://github.com/NethermindEth/nethermind/commit/f2c20b172f089d37dc8420897cf6087cb0f27c38) - 2025-08-03
 ## Q2 2025
 
 

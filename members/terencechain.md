@@ -44,6 +44,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [beacon api: optimize val assignment lookup](https://github.com/OffchainLabs/prysm/commit/61a9bcca41a2638f8b8127fb98d879e04244ad98) - 2025-08-02
 * [Pull Request] [Optimize validator assignment lookups with hybrid O(1) approach for large requests](https://github.com/OffchainLabs/prysm/pull/15558) - 2025-08-02
 * [Commit] [beacon api: optimize val assignment lookup](https://github.com/OffchainLabs/prysm/commit/5d4bbfc8c93c126f6e8cf8c4355130c20109a8bb) - 2025-08-02
+* [Pull Request] [Add performance profiling for slow `GetDutiesV2` operations](https://github.com/OffchainLabs/prysm/pull/15560) - 2025-08-03
+* [Commit] [Add performance profiling to capture GetDutiesV2 operations taking over 2s](https://github.com/OffchainLabs/prysm/commit/f16e4600a856c74d86608ef3153c855d827886c0) - 2025-08-03
+* [Commit] [Turn gossip param](https://github.com/OffchainLabs/prysm/commit/5f781a7df6b67c2def069e2962ce15b771ed1d25) - 2025-08-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

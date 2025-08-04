@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Spec 6s slot times (EIP-7782)](https://github.com/ethereum/consensus-specs/pull/4484) - 2025-08-04
 ## Q2 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

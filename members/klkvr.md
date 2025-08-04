@@ -64,6 +64,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [rm todo](https://github.com/paradigmxyz/reth/commit/66d9ebf81de3db5f2f83732cbea09e29167ff440) - 2025-07-31
 * [Commit] [rayon](https://github.com/paradigmxyz/reth/commit/673442231b091ac5cb1fb966e3c9a34ab9183237) - 2025-08-01
 * [Commit] [rayon](https://github.com/paradigmxyz/reth/commit/26c43d6b24015595fe67eb94c33bb9bc2c291233) - 2025-08-01
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/6be03567c7ca09024bbf169864bbdfcd9606081c) - 2025-08-03
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/f01edc9d6a8fc094dd1ba0a1f1075241090c140c) - 2025-08-03
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/3964e52d6c7aeb2ce3b135f3a6b02a2fe4888ee9) - 2025-08-03
 ## Q2 2025
 
 

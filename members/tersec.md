@@ -39,6 +39,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [remove moduletests (#7329)](https://github.com/status-im/nimbus-eth2/commit/53bf5b50971412d56153f8f0e0fefeb4ba9786e2) - 2025-07-28
 * [Commit] [Automate updating network configs (#7342)](https://github.com/status-im/nimbus-eth2/commit/37b8d41f8ba0bc2ab82c322027871baffbcd0dc4) - 2025-07-30
 * [Commit] [version v25.7.1](https://github.com/status-im/nimbus-eth2/commit/92defe0fe6c67255cef3687514c1ba80b197f3b3) - 2025-07-31
+* [Commit] [some validator custody improvements (#7349)](https://github.com/status-im/nimbus-eth2/commit/33a9a22a53e7b58f65d9df24838b85f05b158688) - 2025-08-03
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

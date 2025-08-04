@@ -162,6 +162,21 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Vectorize Node distance](https://github.com/NethermindEth/nethermind/pull/9054) - 2025-07-30
 * [Commit] [Fix/Orphaned block error on freshly restarted node (#9034)](https://github.com/NethermindEth/nethermind/commit/69ed9f83803c14969b78600eade001d72faf929a) - 2025-07-31
 * [Pull Request] [Throw less exceptions during peer connection](https://github.com/NethermindEth/nethermind/pull/9068) - 2025-08-01
+* [Commit] [Apply RlpxHost options in correct place (#9085)](https://github.com/NethermindEth/nethermind/commit/e5063fbb730030cc9b803a86c2c8f2a857dcc68a) - 2025-08-03
+* [Commit] [Move to option](https://github.com/NethermindEth/nethermind/commit/dd16d592c34cd0a071fd5ec1f439ed75dcdbcabe) - 2025-08-03
+* [Pull Request] [Remove incorrect RlpxHost options](https://github.com/NethermindEth/nethermind/pull/9085) - 2025-08-03
+* [Commit] [Fix naming of data cost in ExecutePrecompile (#8994)](https://github.com/NethermindEth/nethermind/commit/6ba2255face100a65aab7984e0f33ee6f5de9010) - 2025-08-03
+* [Commit] [Optimize unused logging from Diagnostics, Activity and Metrics (#9082)](https://github.com/NethermindEth/nethermind/commit/0fd553569f63d31f0af2d672125a0e27f6485ae5) - 2025-08-03
+* [Commit] [Optimize Peer Range Broadcast (#9083)](https://github.com/NethermindEth/nethermind/commit/ad4e2b2e43cb3154addf6bb6245bc75096944026) - 2025-08-03
+* [Commit] [Optimize EthereumIesEngine (#9081)](https://github.com/NethermindEth/nethermind/commit/3aa33da4ca92b125633c6bb23ef843dba788edae) - 2025-08-03
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/b8a925554d0c6401f2787e6150e22ca805d8f60a) - 2025-08-03
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/03a4731ba7cbce97ecaa8869bd4409ed559751a2) - 2025-08-03
+* [Commit] [Test](https://github.com/NethermindEth/nethermind/commit/1641ede315ed4b299701c586e2fa52927b39e26a) - 2025-08-03
+* [Pull Request] [Optimize Peer Range Broadcast](https://github.com/NethermindEth/nethermind/pull/9083) - 2025-08-03
+* [Commit] [Remove duplicated code](https://github.com/NethermindEth/nethermind/commit/401b003e49955179d1f5909d1bea0aab0228d9b1) - 2025-08-03
+* [Pull Request] [Optimize unused logging from Diagnostics, Activity and Metrics](https://github.com/NethermindEth/nethermind/pull/9082) - 2025-08-03
+* [Commit] [Move span slicing near rent](https://github.com/NethermindEth/nethermind/commit/ff609ddc05e66fdcefc8ef954f9c0f6e65351098) - 2025-08-03
+* [Pull Request] [Optimize EthereumIesEngine](https://github.com/NethermindEth/nethermind/pull/9081) - 2025-08-03
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

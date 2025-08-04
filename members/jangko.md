@@ -114,6 +114,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fixes](https://github.com/status-im/nimbus-eth1/commit/3b5dc21ddb7f9b976617333a5a5d25c823c0eccd) - 2025-08-02
 * [Commit] [Add missing fi](https://github.com/status-im/nimbus-eth1/commit/68a57e0cb9c872f6b0751e1dac77772a21ea2b9e) - 2025-08-02
 * [Pull Request] [Restore 'make update' and introduce 'make init'](https://github.com/status-im/nimbus-eth1/pull/3532) - 2025-08-02
+* [Commit] [Trigger interop test](https://github.com/status-im/nimbus-eth1/commit/a39fee96c5226afa8c5f722fb34f94a96e4c70ec) - 2025-08-03
+* [Commit] [Cache rocksdb binary in CI (#3535)](https://github.com/status-im/nimbus-eth1/commit/517b1d03a217b7ffc7415156f6340fbc529ecd6c) - 2025-08-03
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 
