@@ -45,6 +45,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [SnapServerTest: add dry-run method so tests get picked up](https://github.com/hyperledger/besu/pull/9011) - 2025-07-28
 * [Commit] [TransactionDecoder: handle empty bytes (#8997)](https://github.com/hyperledger/besu/commit/bf6d2b4bec017cb826eacf18d1f1ecb57ca38f82) - 2025-07-28
 * [Commit] [Chore: Prevent repeated cli boolean flags for being accepted (#8898)](https://github.com/hyperledger/besu/commit/50842112cb73ed4739a780c0053bd17c8c2dd74c) - 2025-07-31
+* [Pull Request] [use dummy coinbase in simulation if not defined](https://github.com/hyperledger/besu/pull/9031) - 2025-08-04
+* [Commit] [[CHANGELOG] consolidate upcoming breaking changes (#9030)](https://github.com/hyperledger/besu/commit/b76ea18057a5e1e267e54ed6a1878f7b874df82d) - 2025-08-04
+* [Pull Request] [[CHANGELOG] consolidate upcoming breaking changes](https://github.com/hyperledger/besu/pull/9030) - 2025-08-04
+* [Commit] [[BESU-8973] Display configured target-gas-limit in startup logs (#8998)](https://github.com/hyperledger/besu/commit/333951232e0237b911386817ac80bad87ca5d33b) - 2025-08-04
 ## Q2 2025
 
 

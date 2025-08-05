@@ -55,6 +55,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: move node custody requirement from config to options](https://github.com/ChainSafe/lodestar/commit/fcccae80469219c8b769a8f3d98c42ee6814af40) - 2025-07-31
 * [Issue] [Dynamically subscribe to data column subnets](https://github.com/ChainSafe/lodestar/issues/8098) - 2025-07-31
 * [Commit] [feat: add getBlobs endpoint (#8087)](https://github.com/ChainSafe/lodestar/commit/2d6369691d910c03b2ca378817019acf4ecce7ed) - 2025-07-31
+* [Commit] [Use same ordering](https://github.com/ChainSafe/lodestar/commit/d5ec81fd99c9748c0d5ff52ad6588623fd171e13) - 2025-08-04
+* [Pull Request] [feat: move constants to config to be spec compliant](https://github.com/ChainSafe/lodestar/pull/8103) - 2025-08-04
+* [Pull Request] [fix: use state slot instead of clock slot before gathering electra metrcis](https://github.com/ChainSafe/lodestar/pull/8102) - 2025-08-04
 ## Q2 2025
 
 

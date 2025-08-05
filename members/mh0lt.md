@@ -118,6 +118,21 @@ Team: Erigon
 * [Commit] [remove coinbase printer](https://github.com/erigontech/erigon/commit/84fd8d3591b2da82dd3621ed95e3f831171dca5b) - 2025-08-01
 * [Commit] [include storage version check](https://github.com/erigontech/erigon/commit/b2ae0050c60960dc2c26126c8540613b1dcacdda) - 2025-08-01
 * [Commit] [fixed version validation + deleted account buffering](https://github.com/erigontech/erigon/commit/9b7c6d1e9a85f940180542d242516a73a53c0a92) - 2025-08-03
+* [Commit] [pribt gas fail](https://github.com/erigontech/erigon/commit/1fa03ff628d2ebe2463c184d07e6dd196a55adcd) - 2025-08-04
+* [Commit] [remove validate printer](https://github.com/erigontech/erigon/commit/cb15dddda61e00be1cfe039bc3029c1acf06cae2) - 2025-08-04
+* [Commit] [validate printer](https://github.com/erigontech/erigon/commit/9c5aef029a0a4f5ce5c00e8426556b76e257074d) - 2025-08-04
+* [Commit] [validate printer](https://github.com/erigontech/erigon/commit/a789a17f34cd1a18c75ce655359912bab682422d) - 2025-08-04
+* [Commit] [use tx not tx index for too early check](https://github.com/erigontech/erigon/commit/4e353411ff6a305d950c362e74f9c25bd01363b9) - 2025-08-04
+* [Commit] [use tx not tx index for too early check](https://github.com/erigontech/erigon/commit/6607a5a40f729b16d63304be00d6036e23ed6782) - 2025-08-04
+* [Commit] [validate printer](https://github.com/erigontech/erigon/commit/04f89cfe8f90dcaed735b11411f9104c5b38b813) - 2025-08-04
+* [Commit] [validate printer](https://github.com/erigontech/erigon/commit/f1e7c2b36ce0cf89fcbe4453d0d841e76791ccf0) - 2025-08-04
+* [Commit] [validate printer](https://github.com/erigontech/erigon/commit/0fa6fa955745ac25606aa2cbfd083791a19b91fd) - 2025-08-04
+* [Commit] [validate printer](https://github.com/erigontech/erigon/commit/fd3143bfa6013c8e6e2d2d621b4b7c8985e594be) - 2025-08-04
+* [Commit] [lock queue close](https://github.com/erigontech/erigon/commit/b818a20c3a2a40868c1f43ea7c1d0892583d3ae2) - 2025-08-04
+* [Commit] [validate printer](https://github.com/erigontech/erigon/commit/a558aad65eb3a1915974e217fd202813c3294ab4) - 2025-08-04
+* [Commit] [validate printer](https://github.com/erigontech/erigon/commit/130bea4493e4c199add8ee7bacaabfa183a2d8b3) - 2025-08-04
+* [Commit] [add heaer time test flag](https://github.com/erigontech/erigon/commit/69cf9bf39d31d1ab8301bb64c7f6def66ee8a851) - 2025-08-04
+* [Commit] [remove redundant change set add](https://github.com/erigontech/erigon/commit/996a8b9f04e3903016b325e97ce3063a616fa059) - 2025-08-04
 ## Q2 2025
 
 

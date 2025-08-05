@@ -19,6 +19,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update EIP-6465: Adopt `ProgressiveContainer` / `ProgressiveList`](https://github.com/ethereum/EIPs/pull/9974) - 2025-07-03
 * [Pull Request] [Update EIP-7916: Move reference implementation to ethereum/remerkleable](https://github.com/ethereum/EIPs/pull/10016) - 2025-07-16
 
+* [Pull Request] [Update EIP-6404: Use correct Python syntax for active_fields](https://github.com/ethereum/EIPs/pull/10097) - 2025-08-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add EIP-7916 ProgressiveList specs and tests](https://github.com/ethereum/consensus-specs/pull/4445) - 2025-07-16
 
@@ -59,6 +60,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Automate updating network configs](https://github.com/status-im/nimbus-eth2/commit/673d324f82d819a68d9e1f558300e4d4d96141af) - 2025-07-29
 * [Pull Request] [Extend SSZ generic tests with ProgressiveBitlist tests](https://github.com/status-im/nimbus-eth2/pull/7347) - 2025-07-31
 * [Pull Request] [Bump nim-ssz-serialization to 983dc145ec66beb474887b9f08de0959dbda3c9d](https://github.com/status-im/nimbus-eth2/pull/7346) - 2025-07-31
+* [Commit] [serialization: bump (#7345)](https://github.com/status-im/nimbus-eth2/commit/930effbc995c7d05082049608ef70e75d11ca75c) - 2025-08-04
 ## Q2 2025
 
 

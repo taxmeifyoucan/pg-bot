@@ -22,6 +22,8 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [remove g11tech from Lodestar](https://github.com/protocolguild/documentation/commit/798bf4cbf5d4e0ffdedd6cae8a49814aca4dc945) - 2025-07-17
 * [Commit] [rename twoeths](https://github.com/protocolguild/documentation/commit/8d68f31ac411ec9a1145bb0efaf89651dde7359a) - 2025-07-17
 * [Commit] [Update 01-membership.md](https://github.com/protocolguild/documentation/commit/c795bbbe363b258bfc1189566cf39e031a200d50) - 2025-07-25
+* [Commit] [Move Paweł Bylica to Erigon](https://github.com/protocolguild/documentation/commit/0864895e9ca4b86cd61bd138e33cafdc0255de95) - 2025-08-04
+* [Commit] [update Amir's GH handle](https://github.com/protocolguild/documentation/commit/f28e719fdb5d86af30ec28f4ffcfb2a288bb876e) - 2025-08-04
 ## Q2 2025
 
 

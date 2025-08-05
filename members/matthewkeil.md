@@ -38,6 +38,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: updates from merging unstable](https://github.com/ChainSafe/lodestar/commit/ed0cd651c182530e42f072a738b58d43f5f61cb9) - 2025-08-03
 * [Commit] [chore: bump package versions to 1.30.0](https://github.com/ChainSafe/lodestar/commit/123eb2d9fb71dd10076a47bc7787bf4ec40343da) - 2025-08-03
 * [Commit] [docs: add comment about unknown error processing](https://github.com/ChainSafe/lodestar/commit/a17716b03475be9fed54d5ffe67911b5c348e795) - 2025-08-03
+* [Commit] [fix: typo](https://github.com/ChainSafe/lodestar/commit/a2ca1f9fc3818b969fedb937e4e8d8550100e34d) - 2025-08-04
+* [Commit] [fix: use toRootHex](https://github.com/ChainSafe/lodestar/commit/6e2282c251b23d718837566774fcfbeddb0d4534) - 2025-08-04
+* [Commit] [fix: use state slot instead of clock slot before gathering electra metrics (#8102)](https://github.com/ChainSafe/lodestar/commit/3626b6ada054099c2592e848c23d381260f220ce) - 2025-08-04
+* [Commit] [fix: remove node custody requirement (#8099)](https://github.com/ChainSafe/lodestar/commit/5bc821a0904b110d8de9d1c497bf5c2be4a04b05) - 2025-08-04
+* [Commit] [fix: prevent serialization of BlockInput across worker boundary](https://github.com/ChainSafe/lodestar/commit/55299b899dd20fabb9586dab54e1ac6308a3b7c1) - 2025-08-04
 ## Q2 2025
 
 

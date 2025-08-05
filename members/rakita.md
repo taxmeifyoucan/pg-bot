@@ -108,6 +108,28 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [always inline step fn](https://github.com/bluealloy/revm/commit/f4639c83dce19e88c1e82de4c4874046e13fc75e) - 2025-07-30
 * [Commit] [revert chaned to bytecode opcode info](https://github.com/bluealloy/revm/commit/fc960ee7acefebefc3451306392f8b6d185a3620) - 2025-08-01
 * [Commit] [cleanup](https://github.com/bluealloy/revm/commit/45cfbb1d90ede8639fe3801a8a36e48f6738076d) - 2025-08-04
+* [Commit] [chore: improve link formatting and fix grammar in revme.md documentation (#2843)](https://github.com/bluealloy/revm/commit/bc2be1946635666d3d90d47d22dce5252e9c59ce) - 2025-08-04
+* [Commit] [chore: specialize halt, making instruction code very slightly smaller (#2840)](https://github.com/bluealloy/revm/commit/fd52a1fb531f4627ea7e69780aab56536533269d) - 2025-08-04
+* [Commit] [chore: update README.md (#2842)](https://github.com/bluealloy/revm/commit/f0233379f627c4f414ce6fbcfbacecfdcc11ece7) - 2025-08-04
+* [Pull Request] [chore: specialize halt, making instruction code very slightly smaller](https://github.com/bluealloy/revm/pull/2840) - 2025-08-04
+* [Commit] [chore: rm commented code (#2839)](https://github.com/bluealloy/revm/commit/8cee9588f2f1c8eb5f38ee3ce5b9736dde773ac4) - 2025-08-04
+* [Commit] [chore: remove unused commented code](https://github.com/bluealloy/revm/commit/b32102512400dca93212981b418cf29a78f9d605) - 2025-08-04
+* [Commit] [feat: gastable, record static gas in Interpreter loop (#2822)](https://github.com/bluealloy/revm/commit/3354dc175e16e0428eb55b5e8e49e0f5d553e250) - 2025-08-04
+* [Pull Request] [chore: rm commented code](https://github.com/bluealloy/revm/pull/2839) - 2025-08-04
+* [Commit] [use halt_oog](https://github.com/bluealloy/revm/commit/61100e34dbfd345586e91f531954d0382917da6c) - 2025-08-04
+* [Commit] [use wrapped_sub and halt_oog](https://github.com/bluealloy/revm/commit/018117748da0da0c7383846678f9b4d2fde955e8) - 2025-08-04
+* [Commit] [chore: Update awesome.md (#2827)](https://github.com/bluealloy/revm/commit/8bdbd70db99bef46c0c7cd286a3c133c4ed02a83) - 2025-08-04
+* [Commit] [Merge remote-tracking branch 'origin/main' into gastab](https://github.com/bluealloy/revm/commit/6390cd5f80037f05cff8bb542c67d9bea183fa2e) - 2025-08-04
+* [Commit] [docs: improve primitives crate documentation and consistency (#2829)](https://github.com/bluealloy/revm/commit/a0b7fe9e88235f02d277883d5d72f9cbc8860c79) - 2025-08-04
+* [Commit] [fix: manally implementation PartialOrd and Ord for AccountInfo (#2835)](https://github.com/bluealloy/revm/commit/d4e48932dab36a1826622d2ba29db8921ec9f941) - 2025-08-04
+* [Commit] [Merge remote-tracking branch 'origin/main' into gastab](https://github.com/bluealloy/revm/commit/5b26a0a3637877cd6d3cb60a0d32c22f78d45b42) - 2025-08-04
+* [Commit] [Merge remote-tracking branch 'origin/main' into gastab](https://github.com/bluealloy/revm/commit/340634750b097e0219f04465f736ebca824dd4a2) - 2025-08-04
+* [Commit] [Merge remote-tracking branch 'origin/main' into gastab](https://github.com/bluealloy/revm/commit/a7e040208f09e16a834650de3e0b489123f1bcd3) - 2025-08-04
+* [Commit] [chore: simplify the ecrecover test (#2836)](https://github.com/bluealloy/revm/commit/2abd7a788d3b7674572dbd4f7ba45f73aa51024b) - 2025-08-04
+* [Commit] [chore: add debug assertions to set_action (#2832)](https://github.com/bluealloy/revm/commit/428ad974f7473384cb568c941a0dd3064d8f19fe) - 2025-08-04
+* [Commit] [chore(benches): rename anaysis-inspector to snailtracer-inspect (#2834)](https://github.com/bluealloy/revm/commit/7a18ac3f0ab48596b665045c7aa2dd49e21a1845) - 2025-08-04
+* [Commit] [chore(benches): clean up criterion callsites (#2833)](https://github.com/bluealloy/revm/commit/158356c0ce3e9889966533d2d10149c742116f17) - 2025-08-04
+* [Commit] [simplify record_cost](https://github.com/bluealloy/revm/commit/4f2ea1059722f3d9eb9e0c4234ad5c2c25b9687d) - 2025-08-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

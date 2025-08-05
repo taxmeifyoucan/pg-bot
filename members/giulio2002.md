@@ -166,6 +166,7 @@ Team: Erigon
 * [Commit] [[main] publishable small fix (#16403) (#16422)](https://github.com/erigontech/erigon/commit/de26ef5b0339dc9ee5052f6a0e4f5cc424cd6b2f) - 2025-08-03
 * [Commit] [blob archive & enr updates for fulu (#16207)](https://github.com/erigontech/erigon/commit/99d041558e4ae241f3dd4e0396622252e91a40ef) - 2025-08-03
 * [Pull Request] [Caplin: simplified column store](https://github.com/erigontech/erigon/pull/16428) - 2025-08-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ac12bf74cb2c3760962da218753f32bbbc8330f5) - 2025-08-04
 ## Q2 2025
 
 

@@ -45,6 +45,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [more debug logs with fixes](https://github.com/status-im/nimbus-eth1/commit/ca971308c81e81e3dc9f9633c3e95928ffcd052d) - 2025-08-03
 * [Commit] [add debug points](https://github.com/status-im/nimbus-eth1/commit/fc2ceb07f7d19b0215e48dfa03c41874321e1278) - 2025-08-03
 * [Commit] [shift to header](https://github.com/status-im/nimbus-eth1/commit/7e514aa8d042c7f0b8880ca2266349a29bc5d900) - 2025-08-03
+* [Commit] [fix forkId calculation](https://github.com/status-im/nimbus-eth1/commit/408fd579c5cdc13a98dca72f3e17bf0a9e55fd80) - 2025-08-04
+* [Commit] [shift to numbers](https://github.com/status-im/nimbus-eth1/commit/9533714cd3281a8a7daf60e985acba8b0a84aaa2) - 2025-08-04
 ## Q2 2025
 
 

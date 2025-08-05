@@ -93,6 +93,33 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cp: fix polygon's ii and receipt values for system tx (#16360)](https://github.com/erigontech/erigon/pull/16386) - 2025-07-31
 * [Issue] [snap name schema](https://github.com/erigontech/erigon/issues/16398) - 2025-08-01
 
+* [Commit] [save](https://github.com/erigontech/erigon/commit/174be7250fd9b811f097595a48894a63514eb36b) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9355e542d5995d6a985e0ebc66d0764eeb2f38f3) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e250dc655b43b7fc7d56e4197c590961a4aa5e92) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7b3e2c6cc5790b23e65b3c20c968cf4f4db591c4) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/37ceefa094c890bf49d3ea2709001405cfe1adf5) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/24f14ed6af3887457964faeeafcaa66ea0592655) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c98ecae003b69e499045a41d108e138ab99beda1) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b8357b267caf6062bfa73bc94c28f7acc0905e50) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/40ca9adfd0e56c8974de31070a9bb542504803a6) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dc172a9d59c81e2a389b5a194a38102a70eccc96) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3b90b3749e1905665882ac9ba0840a410a1e6dd0) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d8ac5c4e535c51740366970fc886b5ac9189c1d4) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/746dfb345f534709e029c7a1a0acca8330b38b03) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1c32ff82a84d1e384359f16edfa4eb3321d0fb14) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e7308ee6205d0e3d85eeaf548051fd42c384c062) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/095b1c75ac61f97fc74143536c9547c85193521a) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/574982515e4b49d6256fccef489c73db7270f405) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2bf7e1718e196d97c676be31897aebc5e731742d) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0155a61fbfd43daebcf56bc131630a83a78b476d) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a043121878e1ca042793add6a9744b6e004384f1) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/13fb47f9cbc4cde384592f2551949df688b0b08c) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/02ff71889278e128cda8d899d25d4d8cb47ac0a8) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/925469a8f8abc982c0d0ae7f63e8ee8c2f173e40) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7856482c4b101777a3a78027dad17f858fc4fe1b) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/02a56bf1b83d144212e6c17e247c1e56cb8d4339) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/645bd8d2ec598da5b17527d823f7dea1907d21ff) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b166d28cf3e351abcd703f0bb4ad8c03e1af8209) - 2025-08-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

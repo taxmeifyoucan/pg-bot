@@ -536,6 +536,35 @@ Team: Erigon
 * [Issue] [—sync.blocks.lool.limit better support (Chaindaata grow cases)](https://github.com/erigontech/erigon/issues/16426) - 2025-08-03
 * [Issue] [Polygon to call eth1ExecutionServer.Start](https://github.com/erigontech/erigon/issues/16425) - 2025-08-03
 * [Issue] [ExternalCL: preserve —sync.blocks.limit](https://github.com/erigontech/erigon/issues/16424) - 2025-08-03
+* [Commit] [enable `--persist.receipts` by default (#16429)](https://github.com/erigontech/erigon/commit/986f9a6938dae793e6ee7c1f911c7f7f40f08cea) - 2025-08-04
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/b9ed6e88401c0d6d55d4e99a1a35817041a5a01c) - 2025-08-04
+* [Commit] [less direct agg use in backend.go (#16312)](https://github.com/erigontech/erigon/commit/4bb2c8e4bafc106e3f23380bf735ceee41e83103) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/41785e29dbbe23c9f079443934f35b19b6a5dea2) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/89f1891e60be562a09cc0c5ed7ef751b08a55e37) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a8cb39ba581a7a8618800f46f22b04a59fc3c6e1) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6aa66e03c5889e3961106b670a7371580bcfcacf) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/49d2ae96fa7bcd55663cc5ee3679364213aed412) - 2025-08-04
+* [Commit] [Update dirs.go](https://github.com/erigontech/erigon/commit/af0a739b9235ebcf590263504d867391b8dff9bd) - 2025-08-04
+* [Commit] [Update dirs.go](https://github.com/erigontech/erigon/commit/576fa1eb936e95fee55dd734c1622572e765a1e6) - 2025-08-04
+* [Commit] [Update dirs.go](https://github.com/erigontech/erigon/commit/3a87c1212f4a682690d89e3ff007491b16e2992e) - 2025-08-04
+* [Pull Request] [[r30] more robust if 1 file missed or incomplete ](https://github.com/erigontech/erigon/pull/16442) - 2025-08-04
+* [Pull Request] [[r31] more robust if 1 file missed or incomplete ](https://github.com/erigontech/erigon/pull/16440) - 2025-08-04
+* [Pull Request] [[r31] more robust if 1 file missed or incomplete ](https://github.com/erigontech/erigon/pull/16439) - 2025-08-04
+* [Pull Request] [more robust if 1 file missed or incomplete](https://github.com/erigontech/erigon/pull/16438) - 2025-08-04
+* [Pull Request] [[wip] page-level compress experiment for .kv files ](https://github.com/erigontech/erigon/pull/16436) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6cd178a93c74fd29f7777f348b5e214d820a27ce) - 2025-08-04
+* [Commit] [[r31] enable `--persist.receipts` by default (#16430)](https://github.com/erigontech/erigon/commit/ce142619fd0656415488125b7e211093028e23bb) - 2025-08-04
+* [Commit] [[r3.1] recsplit: backward compatibility fix (#16281)](https://github.com/erigontech/erigon/commit/90172d1bc8a78ac93fd8aab54e285f233c6a8137) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/09e0dcd9eca94e18f30f76a193147765f1e4f00b) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a8654b7459a0dd834f297a388bfdbe6bbba5f222) - 2025-08-04
+* [Pull Request] [[r31] enable `--persist.receipts` by default](https://github.com/erigontech/erigon/pull/16430) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2948e9c047b1c5e28780948d9a402fa7e8e9617c) - 2025-08-04
+* [Pull Request] [enable `--persist.receipts` by default](https://github.com/erigontech/erigon/pull/16429) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0e3efbc77a4485729c7ed53c46c5ec2cfe2f0ae2) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8a732557f3f510308e306fbbc186eccc1660ee88) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d68b83f3f245f000cdfcb00db75089bcf33e904e) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b9e43adcca0ec5fa7a599a12eba07b8710538019) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4a418e460b750e16623d801c79e4302c3a15c9d2) - 2025-08-04
 ## Q2 2025
 
 

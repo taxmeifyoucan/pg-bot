@@ -27,6 +27,8 @@ Team: Grandine
 * [Pull Request] [Feature/bump rust and crates](https://github.com/grandinetech/grandine/pull/276) - 2025-07-28
 * [Commit] [Fix graffiti in builder blocks](https://github.com/grandinetech/grandine/commit/a43a9fdca2eeeb735eebc9079cb46a7f53215876) - 2025-07-29
 * [Commit] [Update rust version to 1.87.0](https://github.com/grandinetech/grandine/commit/ed15762dbaa96b5d8c1ed6616bbb356561531fc5) - 2025-07-30
+* [Pull Request] [Upgrade `libmdbx` to 0.13.6](https://github.com/grandinetech/grandine/pull/286) - 2025-08-04
+* [Pull Request] [Deserialize JSON from Phase in HTTP API](https://github.com/grandinetech/grandine/pull/285) - 2025-08-04
 ## Q2 2025
 
 

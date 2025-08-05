@@ -111,6 +111,11 @@ Team: Reth
 * [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/89ec2cc430032a481193a86e4a8db5003f15bc97) - 2025-07-31
 * [Pull Request] [fix: use primitive header type for fetching header](https://github.com/paradigmxyz/reth/pull/17691) - 2025-07-31
 * [Pull Request] [fix: forward unknown hashes pre bedrock](https://github.com/paradigmxyz/reth/pull/17709) - 2025-08-01
+* [Issue] [Persists propagate setting when backing up pooled tx on shotdown](https://github.com/paradigmxyz/reth/issues/17721) - 2025-08-04
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/5666a86ef7fb35d4719ec4d2c2d5727413a1ad9c) - 2025-08-04
+* [Commit] [Update crates/transaction-pool/src/pool/mod.rs](https://github.com/paradigmxyz/reth/commit/7e765d6c6e4472d108454260d6825690307efa43) - 2025-08-04
+* [Pull Request] [fix: enforce propagate on getpooledtx](https://github.com/paradigmxyz/reth/pull/17720) - 2025-08-04
+* [Commit] [test: add ordering test (#17703)](https://github.com/paradigmxyz/reth/commit/d5f59070bb0be1cf9bba94e01b895fede1ae7078) - 2025-08-04
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

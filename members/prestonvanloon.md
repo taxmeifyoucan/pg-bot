@@ -16,6 +16,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Allow SSZ requests for pending deposits, partial withdrawals and consolidations (#15474)](https://github.com/OffchainLabs/prysm/commit/961ea054543adcf68a84c0c198e9ef2d841a8ee4) - 2025-07-14
 * [Commit] [Remove SecondsPerSlot](https://github.com/OffchainLabs/prysm/commit/0fad6505982918b2a182cbad0d6a81eb038840bf) - 2025-07-23
 * [Commit] [Allow SSZ requests for pending deposits, partial withdrawals and consolidations (#15474)](https://github.com/OffchainLabs/prysm/commit/961ea054543adcf68a84c0c198e9ef2d841a8ee4) - 2025-07-23
+* [Pull Request] [Update go to v1.24.5](https://github.com/OffchainLabs/prysm/pull/15561) - 2025-08-04
 ## Q2 2025
 
 

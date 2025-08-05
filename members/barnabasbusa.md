@@ -35,6 +35,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Commit] [Rename hive-devnet-0.yaml to hive-devnet-0.yaml.no_run](https://github.com/ethpandaops/template-devnets/commit/ddd771f305a693651e4f25c532243f1d768f49be) - 2025-08-02
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Commit] [fix go fmt](https://github.com/ethpandaops/dora/commit/15708132cc1c9e5bf1000766b5a7076e22819a00) - 2025-08-04
+* [Commit] [fixes](https://github.com/ethpandaops/dora/commit/d05bca8af70ae490a6a2bc7f8a0847209f4a2003) - 2025-08-04
+* [Commit] [fixes](https://github.com/ethpandaops/dora/commit/f8041a3e093ee260a19259c3bca4561256d36103) - 2025-08-04
+* [Commit] [go fmt](https://github.com/ethpandaops/dora/commit/5bc738890ea62c9e3d3808eb05bac6a7c0bc7373) - 2025-08-04
+* [Commit] [refactoring](https://github.com/ethpandaops/dora/commit/8f386a0537d021b361a2515947962a18b85c8a59) - 2025-08-04
+* [Commit] [fulu cleanup](https://github.com/ethpandaops/dora/commit/21cc40271dbb56556543196bfe1a39aa188c4600) - 2025-08-04
 ## Q2 2025
 
 

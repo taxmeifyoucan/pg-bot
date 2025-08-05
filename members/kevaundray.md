@@ -24,6 +24,9 @@ Team: Consensus R&D (EF)
 * [Pull Request] [feat: Reuse bls12-381 codepaths to implement kzg point evaluation precompile](https://github.com/bluealloy/revm/pull/2809) - 2025-07-25
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [chore: add scripts to laucnh up local kurtosis testnet](https://github.com/ChainSafe/lodestar/pull/8070) - 2025-07-21
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [feat: enable `crypto-backend` for signer recovery](https://github.com/paradigmxyz/reth/pull/17723) - 2025-08-04
 ## Q2 2025
 
 

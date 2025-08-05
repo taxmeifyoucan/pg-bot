@@ -87,6 +87,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [downloader: avoid loading snapshot hashes for unsupported networks (#16348)](https://github.com/erigontech/erigon/commit/7060771afe2fef959ab675e7f7476dcc4a2aa64f) - 2025-07-31
 * [Commit] [update erigon-snapshot version to extract correct webseed for perfnets](https://github.com/erigontech/erigon/commit/07d8a7c0dc5da71495e310f1b3f59c596582b07d) - 2025-07-31
 * [Commit] [update erigon-snapshot version to extract correct webseed for perfnets](https://github.com/erigontech/erigon/commit/81ce585e1e998964fdcd9d400a3454679cc90963) - 2025-07-31
+* [Commit] [polygon/bor: cleanup unnecessary Start func (#16437)](https://github.com/erigontech/erigon/commit/fc63ad841545132851514f9296a4ca9a13df9b31) - 2025-08-04
+* [Commit] [rpc/jsonrpc: eth_config spec v3 (#16410)](https://github.com/erigontech/erigon/commit/064da4ebdf8bb02af9eee09b6ff58c59201f3375) - 2025-08-04
+* [Commit] [execution/builder: keep polling dry txnpool for txns until we are interrupted (#16412)](https://github.com/erigontech/erigon/commit/4e4f700e87dfb68b2ff8c779d3ef539715e66985) - 2025-08-04
+* [Pull Request] [polygon/bor: cleanup unnecessary Start func](https://github.com/erigontech/erigon/pull/16437) - 2025-08-04
+* [Commit] [rpc/jsonrpc: eth_config spec v3](https://github.com/erigontech/erigon/commit/ffdd8c15d1f31d600724817589066a001cba8721) - 2025-08-04
 ## Q2 2025
 
 

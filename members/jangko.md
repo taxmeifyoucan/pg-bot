@@ -116,6 +116,22 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Restore 'make update' and introduce 'make init'](https://github.com/status-im/nimbus-eth1/pull/3532) - 2025-08-02
 * [Commit] [Trigger interop test](https://github.com/status-im/nimbus-eth1/commit/a39fee96c5226afa8c5f722fb34f94a96e4c70ec) - 2025-08-03
 * [Commit] [Cache rocksdb binary in CI (#3535)](https://github.com/status-im/nimbus-eth1/commit/517b1d03a217b7ffc7415156f6340fbc529ecd6c) - 2025-08-03
+* [Commit] [Fixes](https://github.com/status-im/nimbus-eth1/commit/1d223757b1f67cb2c5bb9b5d12608addc55f184d) - 2025-08-04
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/1af596b44621c3415e004668735d206fd4b193f4) - 2025-08-04
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/a2283790633f443ae97c242e28037eb5b1d07e14) - 2025-08-04
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/086c34dbfed6b09fd3e5ee8927974a1b1b86080b) - 2025-08-04
+* [Commit] [Fixes](https://github.com/status-im/nimbus-eth1/commit/d3990ad8ff2217fc986a174bdd86a8a3100313f8) - 2025-08-04
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/5d145a82833e839d90dd976bd6ad78cb762d8783) - 2025-08-04
+* [Commit] [Fixes](https://github.com/status-im/nimbus-eth1/commit/90c4b3687f692a979926be27f7889909614ada72) - 2025-08-04
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/1f22987f45184689a7d720fcd560a1e07c243528) - 2025-08-04
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/541d4045e4fbe11ba849d3da2981eaa44e897bbc) - 2025-08-04
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/b6751735ac0c48c80d09f24f0270f84822d7b3e1) - 2025-08-04
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/a05576bfeca023a7e9c942233a05b714e3e08dcb) - 2025-08-04
+* [Commit] [Don't clone submodules](https://github.com/status-im/nimbus-eth1/commit/6aa194f743c44e2ef3e494c13450502f5a886073) - 2025-08-04
+* [Commit] [Remove patch](https://github.com/status-im/nimbus-eth1/commit/f98913f4b2bfe670df32c240bc94d797c731f232) - 2025-08-04
+* [Commit] [try fix](https://github.com/status-im/nimbus-eth1/commit/cbaac6fbda56bf54bf8101a8f09d7ff1e9d30e77) - 2025-08-04
+* [Commit] [Fix macos dockerfile](https://github.com/status-im/nimbus-eth1/commit/4fe466da4d4d9a80e6f135f23747974b44e7ced6) - 2025-08-04
+* [Commit] [Bundle rocksdb prebuilt binary into docker base images (#3536)](https://github.com/status-im/nimbus-eth1/commit/d34dc1a99e59eb7a8406f8465f43a49af5467866) - 2025-08-04
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

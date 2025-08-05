@@ -132,6 +132,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: Replace mutable TxReceipt.SkipStateAndStatusInRlp with constructor-based approach (#9057)](https://github.com/NethermindEth/nethermind/commit/8ba70c6ae393fb9df093e519cb52bdf52d859ec5) - 2025-08-01
 * [Commit] [Revert "Update src/Nethermind/Nethermind.Facade/Simulate/SimulateTransactionProcessorAdapter.cs"](https://github.com/NethermindEth/nethermind/commit/a6697373796cd4bd1038e89bf56726788cc0be02) - 2025-08-01
 * [Commit] [Update src/Nethermind/Nethermind.Facade/Simulate/SimulateBlockMutatorTracer.cs](https://github.com/NethermindEth/nethermind/commit/f200f6cd1873cb727178e22fdc46e82658f4d40a) - 2025-08-01
+
+* [Commit] [Fix/TrieException due to persisted parent but not child. (#9086)](https://github.com/NethermindEth/nethermind/commit/884afc88456b39439a42d5e5efd328164aa571ac) - 2025-08-04
+* [Commit] [Hardening/Separate buffer allocator (#9044)](https://github.com/NethermindEth/nethermind/commit/7644d1cbcf218d3cb88c3ee6a6ad5f4167ac967c) - 2025-08-04
+* [Commit] [Throw less exceptions during peer connection (#9068)](https://github.com/NethermindEth/nethermind/commit/f6758f41bf33f2f8b8d73d0369ce96cb5b069916) - 2025-08-04
+* [Pull Request] [Fix/TrieException due to persisted parent but not child.](https://github.com/NethermindEth/nethermind/pull/9086) - 2025-08-04
+* [Commit] [Comment](https://github.com/NethermindEth/nethermind/commit/af92cef0f22085d5b23ac018ec79b810f8ca910f) - 2025-08-04
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025
 
 

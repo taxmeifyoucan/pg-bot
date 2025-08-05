@@ -13,6 +13,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core/stateless, eth: add debug_executionWitnessByHash](https://github.com/ethereum/go-ethereum/pull/32216) - 2025-07-15
+
+[gballet/go-ethereum](https://github.com/gballet/go-ethereum)
+* [Commit] [make LoadTransitionState cacheless and move it to the overlay pkg](https://github.com/gballet/go-ethereum/commit/0f37c99d3457791f97995b08c2f6d53f4a5b37c6) - 2025-08-04
+* [Commit] [move transition state to its own file](https://github.com/gballet/go-ethereum/commit/f0f51d1ef458c1593e908741180615ad83fd07eb) - 2025-08-04
+* [Commit] [don't store conversion state in genesis db in this PR](https://github.com/gballet/go-ethereum/commit/a483135b2b5d39d47a783c9409b44fd08e62306d) - 2025-08-04
 ## Q2 2025
 
 

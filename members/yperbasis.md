@@ -32,6 +32,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Add blob per tx limit](https://github.com/erigontech/erigon/pull/16391) - 2025-07-31
 * [Commit] [Add blob per tx limit](https://github.com/erigontech/erigon/commit/e412b86df3bae72ad9a931292f7ab0142d9cb48d) - 2025-07-31
 
+* [Pull Request] [mv types from erigon-lib to execution](https://github.com/erigontech/erigon/pull/16443) - 2025-08-04
+* [Commit] [mv types from erigon-lib to execution](https://github.com/erigontech/erigon/commit/074166c114eede4d552bc7e43bbaa5389504910c) - 2025-08-04
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

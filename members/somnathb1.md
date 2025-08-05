@@ -53,6 +53,8 @@ Team: Erigon
 * [Commit] [downloader: avoid loading snapshot hashes for unsupported networks (#16351)](https://github.com/erigontech/erigon/commit/6871a1a4448c475b0d634016465187e1c8784b10) - 2025-07-29
 * [Commit] [Use 12x after Andrew's snapshot bor network fix](https://github.com/erigontech/erigon/commit/3cc58bb016c5a2d4f6de89f1a2cc6a52f9066acc) - 2025-07-29
 * [Commit] [downloader: avoid loading snapshot hashes for unsupported networks (#16348)](https://github.com/erigontech/erigon/commit/82dff46055d78215e7b7c6af778d42404acaac97) - 2025-07-29
+* [Commit] [Faster even](https://github.com/erigontech/erigon/commit/427a51574381184b808af15ab0f2a6baabe1315d) - 2025-08-04
+* [Pull Request] [core/vm: Use 8-byte strides for `allZero`](https://github.com/erigontech/erigon/pull/16441) - 2025-08-04
 ## Q2 2025
 
 

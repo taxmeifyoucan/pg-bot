@@ -103,6 +103,14 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [run key registration as background task](https://github.com/NethermindEth/nethermind/commit/afc3b615f790aea64379ab9256c7a6dd1b5864e1) - 2025-07-31
 * [Commit] [check key registration on processing queue empty](https://github.com/NethermindEth/nethermind/commit/b17bd9961540d7d39370afb0dfadfe1689c1075f) - 2025-07-31
 * [Pull Request] [Fix slow key registration check](https://github.com/NethermindEth/nethermind/pull/9063) - 2025-07-31
+* [Commit] [Fix independent build of the solutions (#9073)](https://github.com/NethermindEth/nethermind/commit/cb516a8226be3cbf77d5d0a5703097f0bfa64d78) - 2025-08-04
+* [Commit] [more logging](https://github.com/NethermindEth/nethermind/commit/0bd0f34bbc164c06fba73b70cc6e01bb359e6124) - 2025-08-04
+* [Commit] [don't reload delete pointer](https://github.com/NethermindEth/nethermind/commit/5205eac9930741d7ac85609362c4ca0ddb0f8b63) - 2025-08-04
+* [Commit] [use PivotNumber for ancient barriers](https://github.com/NethermindEth/nethermind/commit/5a004b6ae2e87e2b77c9807fb5720de18d3fa279) - 2025-08-04
+* [Commit] [fix history pruning & tests](https://github.com/NethermindEth/nethermind/commit/58b2a8ed942b5827709ce0f1c508bcb13edfaef4) - 2025-08-04
+* [Commit] [extra line](https://github.com/NethermindEth/nethermind/commit/c9acf1bed638ed68f3577f62fec1ef2ba0207ec5) - 2025-08-04
+* [Commit] [Add support for Prometheus (#9048)](https://github.com/NethermindEth/nethermind/commit/794d4475c87e2c9e36038b2acfdf4ac2136ae433) - 2025-08-04
+* [Commit] [alert eth69 protocol of new oldest block stored](https://github.com/NethermindEth/nethermind/commit/5d95a42cdb014f1297ac45f7629f650d2fb6008f) - 2025-08-04
 ## Q2 2025
 
 

@@ -30,6 +30,7 @@ Team: Portal Network (EF)
 * [Commit] [chore(deps): weekly `cargo update` (#1887)](https://github.com/ethereum/trin/commit/eda2666dd0e17d1d84b28a2f1528d317fe4ca700) - 2025-07-20
 * [Commit] [feat: implement HistoryContentValue type (#1892)](https://github.com/ethereum/trin/commit/00be3fcc6a2176dd92cd4e731d5fd87dda48f1cd) - 2025-08-01
 * [Pull Request] [feat: implement HistoryContentValue](https://github.com/ethereum/trin/pull/1892) - 2025-08-01
+* [Commit] [chore(deps): weekly `cargo update` (#1893)](https://github.com/ethereum/trin/commit/c355f409405837d40da0126050b922616d9e0fe7) - 2025-08-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add "Prototyping" working group](https://github.com/protocolguild/documentation/pull/363) - 2025-07-02
 

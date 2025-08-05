@@ -60,6 +60,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [[r3.1] Sup multiple versions & refactor publishable (#16419)](https://github.com/erigontech/erigon/commit/d842f50359722211d884a2ff5ef17a5637efa886) - 2025-08-02
 * [Pull Request] [[r3.1] Sup multiple versions & refactor publishable](https://github.com/erigontech/erigon/pull/16419) - 2025-08-02
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/08866fa48883a799a69ea29a0b4fc145e8fee120) - 2025-08-02
+* [Pull Request] [[r3.1] warn for using old snapshots](https://github.com/erigontech/erigon/pull/16435) - 2025-08-04
 ## Q2 2025
 
 

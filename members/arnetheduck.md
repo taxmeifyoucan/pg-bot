@@ -83,6 +83,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix vc](https://github.com/status-im/nimbus-eth2/commit/458c6f93dcd4fa9ddb824305cddd80a954d84605) - 2025-08-03
 * [Pull Request] [fork cleanups](https://github.com/status-im/nimbus-eth2/pull/7352) - 2025-08-03
 * [Commit] [fork cleanups](https://github.com/status-im/nimbus-eth2/commit/e112456d554a0c6a16bf902540fde196e2329394) - 2025-08-03
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/69f30dbfccd8973d66cc9dbe90a16e395e5b34dd) - 2025-08-04
+* [Commit] [include](https://github.com/status-im/nimbus-eth2/commit/f9a2d5d1c2381027ebe4adb274ce945b895892e8) - 2025-08-04
+* [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/4b69fd3afc7d9466f1b40711d688ed851cb7655b) - 2025-08-04
+* [Commit] [tests](https://github.com/status-im/nimbus-eth2/commit/105e0c9982930b00b7d2dac0af91b9691602dee1) - 2025-08-04
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
