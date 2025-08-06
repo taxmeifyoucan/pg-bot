@@ -565,6 +565,11 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d68b83f3f245f000cdfcb00db75089bcf33e904e) - 2025-08-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b9e43adcca0ec5fa7a599a12eba07b8710538019) - 2025-08-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/4a418e460b750e16623d801c79e4302c3a15c9d2) - 2025-08-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/edf65edc2020807f9af1b96cb6a5e66f109847c8) - 2025-08-05
+* [Issue] [`--downloader.verify` shows 0 hash-rate](https://github.com/erigontech/erigon/issues/16448) - 2025-08-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/a886c77ee0c79356de219431123a57cc5247c0d6) - 2025-08-05
+* [Commit] [Some quick debug stuff from anacrolix/torrent for CF caching](https://github.com/erigontech/erigon/commit/c4324cd5ed0db71f4e3ddcda4a397572b8b8e6fc) - 2025-08-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/a27eb4dc76828d0bda52cec6ebdb0b6f3f38dc19) - 2025-08-05
 ## Q2 2025
 
 

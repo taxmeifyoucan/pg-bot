@@ -107,6 +107,8 @@ Team: Reth
 * [Pull Request] [feat(reth-bench): auto-create output directory](https://github.com/paradigmxyz/reth/pull/17541) - 2025-07-21
 * [Pull Request] [fix: convert latency to milliseconds in reth-bench script](https://github.com/paradigmxyz/reth/pull/17555) - 2025-07-22
 * [Commit] [docs: fix typo in OpReceiptBuilder comment (#17540)](https://github.com/paradigmxyz/reth/commit/1eff10d871b494e650ac06e69a76519209bdfe40) - 2025-07-22
+* [Commit] [add metrics](https://github.com/paradigmxyz/reth/commit/8f0f4136b914954f51f59edd1625f7427e9282b3) - 2025-08-05
+* [Commit] [patch alloy-evm](https://github.com/paradigmxyz/reth/commit/00ffacde430144e881621c997850e1fcf927a75a) - 2025-08-05
 ## Q2 2025
 
 

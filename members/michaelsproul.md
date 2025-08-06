@@ -29,6 +29,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Rename profile to release-debug](https://github.com/sigp/lighthouse/commit/1e207b12f0a55461aea16696295ed2374ba86841) - 2025-07-21
 * [Pull Request] [Attempt to fix malloc_utils features](https://github.com/sigp/lighthouse/pull/7770) - 2025-07-22
 * [Pull Request] [Shrink persisted fork choice data](https://github.com/sigp/lighthouse/pull/7805) - 2025-07-28
+* [Pull Request] [Fix Clippy for Rust 1.90 beta](https://github.com/sigp/lighthouse/pull/7826) - 2025-08-05
+* [Commit] [Fix duplication of compression code](https://github.com/sigp/lighthouse/commit/6548b686e9af805df59d0880d6edfd2fc3ccefb7) - 2025-08-05
 ## Q2 2025
 
 

@@ -17,6 +17,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Implement Builder's blinded_blocks V2](https://github.com/Consensys/teku/pull/9724) - 2025-07-29
 * [Commit] [Implement Builder's blinded_blocks V2 (#9724)](https://github.com/Consensys/teku/commit/7b283aa2d9fa7953a5d10022475e6e0d940c7b98) - 2025-07-30
 * [Pull Request] [Add `Eth-Consensus-Version` in builder's getPayloadV2 request + tests](https://github.com/Consensys/teku/pull/9735) - 2025-07-31
+* [Issue] [PeerDAS backfilling on cgc increase sometimes fails to backfill](https://github.com/Consensys/teku/issues/9746) - 2025-08-05
+* [Issue] [Bandwidth usage is too high for PeerDAS supernode](https://github.com/Consensys/teku/issues/9745) - 2025-08-05
 ## Q2 2025
 
 

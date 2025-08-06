@@ -92,6 +92,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/builder: keep polling dry txnpool for txns until we are interrupted (#16412)](https://github.com/erigontech/erigon/commit/4e4f700e87dfb68b2ff8c779d3ef539715e66985) - 2025-08-04
 * [Pull Request] [polygon/bor: cleanup unnecessary Start func](https://github.com/erigontech/erigon/pull/16437) - 2025-08-04
 * [Commit] [rpc/jsonrpc: eth_config spec v3](https://github.com/erigontech/erigon/commit/ffdd8c15d1f31d600724817589066a001cba8721) - 2025-08-04
+* [Commit] [wip](https://github.com/erigontech/erigon/commit/87d15e627919deac62fcfbbc9d0103d03b9e0016) - 2025-08-05
 ## Q2 2025
 
 

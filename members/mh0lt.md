@@ -133,6 +133,9 @@ Team: Erigon
 * [Commit] [validate printer](https://github.com/erigontech/erigon/commit/130bea4493e4c199add8ee7bacaabfa183a2d8b3) - 2025-08-04
 * [Commit] [add heaer time test flag](https://github.com/erigontech/erigon/commit/69cf9bf39d31d1ab8301bb64c7f6def66ee8a851) - 2025-08-04
 * [Commit] [remove redundant change set add](https://github.com/erigontech/erigon/commit/996a8b9f04e3903016b325e97ce3063a616fa059) - 2025-08-04
+* [Commit] [any map change triggers a dep panic](https://github.com/erigontech/erigon/commit/f2a4f1a688ffdc36522db9ed38fe1138edbc7c8f) - 2025-08-05
+* [Commit] [adjust start & end block processing](https://github.com/erigontech/erigon/commit/7ad2bab891c4b8b3b9dafbdfd886e606e62e19df) - 2025-08-05
+* [Commit] [adjust start & end block processing](https://github.com/erigontech/erigon/commit/b1a91dcb392f19321f1b373516d88f9a5c3c542f) - 2025-08-05
 ## Q2 2025
 
 

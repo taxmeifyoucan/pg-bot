@@ -67,6 +67,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [wip](https://github.com/paradigmxyz/reth/commit/6be03567c7ca09024bbf169864bbdfcd9606081c) - 2025-08-03
 * [Commit] [wip](https://github.com/paradigmxyz/reth/commit/f01edc9d6a8fc094dd1ba0a1f1075241090c140c) - 2025-08-03
 * [Commit] [wip](https://github.com/paradigmxyz/reth/commit/3964e52d6c7aeb2ce3b135f3a6b02a2fe4888ee9) - 2025-08-03
+* [Commit] [rm payload-primitives dep](https://github.com/paradigmxyz/reth/commit/e2f8faaa4ca3db1d8a5494d99daf17826dd50632) - 2025-08-05
+* [Commit] [bump alloy-evm](https://github.com/paradigmxyz/reth/commit/f92d168cf6cb8883c5fa39d0f64e6154d8d99201) - 2025-08-05
+* [Commit] [bump alloy-evm](https://github.com/paradigmxyz/reth/commit/befae47c5021b588f64d971d2d9e8ab1ffcd3efd) - 2025-08-05
+* [Commit] [engine feature](https://github.com/paradigmxyz/reth/commit/3e52d4835dbeff6e730c718437a709d991f84f7c) - 2025-08-05
 ## Q2 2025
 
 

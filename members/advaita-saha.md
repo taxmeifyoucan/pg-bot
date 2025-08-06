@@ -47,6 +47,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [shift to header](https://github.com/status-im/nimbus-eth1/commit/7e514aa8d042c7f0b8880ca2266349a29bc5d900) - 2025-08-03
 * [Commit] [fix forkId calculation](https://github.com/status-im/nimbus-eth1/commit/408fd579c5cdc13a98dca72f3e17bf0a9e55fd80) - 2025-08-04
 * [Commit] [shift to numbers](https://github.com/status-im/nimbus-eth1/commit/9533714cd3281a8a7daf60e985acba8b0a84aaa2) - 2025-08-04
+* [Commit] [remove unwanted logscope](https://github.com/status-im/nimbus-eth1/commit/b4bb73779565c8b402b933729a7275594513709c) - 2025-08-05
+* [Commit] [Fix stateroot mismatch caused by stale db cache when using checkpoints (#3527)](https://github.com/status-im/nimbus-eth1/commit/3f6b570fb081afe930a58cb00fef129becc5a605) - 2025-08-05
 ## Q2 2025
 
 

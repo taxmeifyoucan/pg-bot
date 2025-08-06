@@ -138,6 +138,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Throw less exceptions during peer connection (#9068)](https://github.com/NethermindEth/nethermind/commit/f6758f41bf33f2f8b8d73d0369ce96cb5b069916) - 2025-08-04
 * [Pull Request] [Fix/TrieException due to persisted parent but not child.](https://github.com/NethermindEth/nethermind/pull/9086) - 2025-08-04
 * [Commit] [Comment](https://github.com/NethermindEth/nethermind/commit/af92cef0f22085d5b23ac018ec79b810f8ca910f) - 2025-08-04
+* [Commit] [Add small test](https://github.com/NethermindEth/nethermind/commit/5c8beb20689d13ebf78e144382052fa90f3a87b6) - 2025-08-05
+* [Commit] [Fix check failure](https://github.com/NethermindEth/nethermind/commit/0c45a2c4f398a907b4b006dc43d8715527dba8db) - 2025-08-05
+* [Pull Request] [Feature/Worldstate backend](https://github.com/NethermindEth/nethermind/pull/9089) - 2025-08-05
+* [Pull Request] [Per contract state](https://github.com/NethermindEth/nethermind/pull/9088) - 2025-08-05
+* [Commit] [WorldState backend](https://github.com/NethermindEth/nethermind/commit/9e0f47160ec86ecc58b0ab3e84a1c5c31daca4f8) - 2025-08-05
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

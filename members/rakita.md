@@ -130,6 +130,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore(benches): rename anaysis-inspector to snailtracer-inspect (#2834)](https://github.com/bluealloy/revm/commit/7a18ac3f0ab48596b665045c7aa2dd49e21a1845) - 2025-08-04
 * [Commit] [chore(benches): clean up criterion callsites (#2833)](https://github.com/bluealloy/revm/commit/158356c0ce3e9889966533d2d10149c742116f17) - 2025-08-04
 * [Commit] [simplify record_cost](https://github.com/bluealloy/revm/commit/4f2ea1059722f3d9eb9e0c4234ad5c2c25b9687d) - 2025-08-04
+* [Commit] [all all_short_address flag](https://github.com/bluealloy/revm/commit/0823edd51505f2d479dd3680b89b06821f149eaa) - 2025-08-05
+* [Commit] [all all_short_address flag](https://github.com/bluealloy/revm/commit/278df4ea4adc827a57bee0aeec1ac8fce7184839) - 2025-08-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

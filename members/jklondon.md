@@ -61,6 +61,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.1] Sup multiple versions & refactor publishable](https://github.com/erigontech/erigon/pull/16419) - 2025-08-02
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/08866fa48883a799a69ea29a0b4fc145e8fee120) - 2025-08-02
 * [Pull Request] [[r3.1] warn for using old snapshots](https://github.com/erigontech/erigon/pull/16435) - 2025-08-04
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/0c0c23beac2051ada8599332eb57220d6453e00c) - 2025-08-05
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/fd3ffcd0de5d8339b141b5a517407a43b6fd10e2) - 2025-08-05
+* [Commit] [Caplin: cherry-pick changes in 3.1 to main (#16231)](https://github.com/erigontech/erigon/commit/d15cb85a4a1bcd9430f46911addfea4dd8073973) - 2025-08-05
+* [Pull Request] [[wip] versioner](https://github.com/erigontech/erigon/pull/16466) - 2025-08-05
 ## Q2 2025
 
 

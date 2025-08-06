@@ -116,6 +116,9 @@ Team: Reth
 * [Commit] [Update crates/transaction-pool/src/pool/mod.rs](https://github.com/paradigmxyz/reth/commit/7e765d6c6e4472d108454260d6825690307efa43) - 2025-08-04
 * [Pull Request] [fix: enforce propagate on getpooledtx](https://github.com/paradigmxyz/reth/pull/17720) - 2025-08-04
 * [Commit] [test: add ordering test (#17703)](https://github.com/paradigmxyz/reth/commit/d5f59070bb0be1cf9bba94e01b895fede1ae7078) - 2025-08-04
+* [Issue] [Introduce helper for IndexedTx](https://github.com/paradigmxyz/reth/issues/17735) - 2025-08-05
+* [Pull Request] [chore: feature gate async](https://github.com/paradigmxyz/reth/pull/17734) - 2025-08-05
+* [Pull Request] [chore: rm trie dep](https://github.com/paradigmxyz/reth/pull/17732) - 2025-08-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

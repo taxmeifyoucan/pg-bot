@@ -65,6 +65,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Create opcode test cases generator](https://github.com/ethereum/execution-spec-tests/issues/1966) - 2025-07-29
 * [Commit] [feat(tests): add call memory expansion with no return size test (#1952)](https://github.com/ethereum/execution-spec-tests/commit/c46c46a5e49f1fc63fa50df881c1f97ff5651075) - 2025-07-29
 * [Issue] [feat(execute): Support stubbed contract addresses](https://github.com/ethereum/execution-spec-tests/issues/1976) - 2025-07-31
+* [Commit] [feat(test): add test for memory expansion on early revert in CALL (#1967)](https://github.com/ethereum/execution-spec-tests/commit/10b00449bcc497b7d41cf628ca031250f9b7b110) - 2025-08-05
+* [Issue] [tracker(release): v5.0.0](https://github.com/ethereum/execution-spec-tests/issues/1991) - 2025-08-05
+* [Commit] [fix(cli): Improve `modify_static_test_gas_limits` comments](https://github.com/ethereum/execution-spec-tests/commit/1da044d12c90b87c5996d3d1fbfaaf24209aa7aa) - 2025-08-05
+* [Commit] [chore(tests): fix pre alloc grouping remaining fails (#1975)](https://github.com/ethereum/execution-spec-tests/commit/646149c763a94de12322d322a11b3e1d5ac13ffe) - 2025-08-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

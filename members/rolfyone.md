@@ -32,6 +32,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [proof of concept for alternative to ifExceptionGetsHereRaiseABug](https://github.com/Consensys/teku/pull/9726) - 2025-07-30
 * [Commit] [moves kzg benchmarks to JMH tests (#9727)](https://github.com/Consensys/teku/commit/ae27fd0aac952ba5ffa3d76fbe529b21019b5731) - 2025-08-01
 * [Pull Request] [changed rate tracker to be thread safe](https://github.com/Consensys/teku/pull/9740) - 2025-08-02
+* [Commit] [Moved altair epoch variables to the genesis spec (#9744)](https://github.com/Consensys/teku/commit/c4220932d8d8bb64ee3ae1c8d0859d347ed39827) - 2025-08-05
+* [Commit] [Add spec references, a mapping of spec to implementation (#9731)](https://github.com/Consensys/teku/commit/169c4b71d3384bfbf86d9ef72afc2468a0d68a0b) - 2025-08-05
 ## Q2 2025
 
 

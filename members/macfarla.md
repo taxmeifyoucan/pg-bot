@@ -49,6 +49,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [[CHANGELOG] consolidate upcoming breaking changes (#9030)](https://github.com/hyperledger/besu/commit/b76ea18057a5e1e267e54ed6a1878f7b874df82d) - 2025-08-04
 * [Pull Request] [[CHANGELOG] consolidate upcoming breaking changes](https://github.com/hyperledger/besu/pull/9030) - 2025-08-04
 * [Commit] [[BESU-8973] Display configured target-gas-limit in startup logs (#8998)](https://github.com/hyperledger/besu/commit/333951232e0237b911386817ac80bad87ca5d33b) - 2025-08-04
+* [Commit] [Feat: add gas usage metric on eth_call (#9019)](https://github.com/hyperledger/besu/commit/23d7919c5bdacea710cf6feb201ff7a53c4e0247) - 2025-08-05
+* [Commit] [use dummy coinbase in simulation if not defined (#9031)](https://github.com/hyperledger/besu/commit/2a0b0ddc98d8614aad9bb1db99a29642d4764f61) - 2025-08-05
 ## Q2 2025
 
 

@@ -23,6 +23,11 @@ Team: Reth
 * [Commit] [remove comments](https://github.com/paradigmxyz/reth/commit/a84e88d7107c55e893f6c57be432b6058e8b9a32) - 2025-07-25
 * [Commit] [make it less painful](https://github.com/paradigmxyz/reth/commit/b2bcd9d30d2eeeefd463c364d00d13d28e78bf25) - 2025-07-25
 * [Commit] [kinda finish](https://github.com/paradigmxyz/reth/commit/be86f2c5a0f8fbbe5b73bddac557d1df4585c2ac) - 2025-07-25
+* [Commit] [feat(rpc): `eth_config` (#17733)](https://github.com/paradigmxyz/reth/commit/1444fe49c85df849e8f1c8a804353afeef0f7d00) - 2025-08-05
+* [Pull Request] [feat(rpc): `eth_config`](https://github.com/paradigmxyz/reth/pull/17733) - 2025-08-05
+* [Commit] [bump alloy](https://github.com/paradigmxyz/reth/commit/2e2c23b53e1fd295a60a7445b0d5c0b4b6fe462c) - 2025-08-05
+* [Commit] [chore: add flag to disable txpool gossip (#17724)](https://github.com/paradigmxyz/reth/commit/d8ccf82a60933ff70c066d0bbcef09d181fbf316) - 2025-08-05
+* [Commit] [new eth_config structure](https://github.com/paradigmxyz/reth/commit/aa08e505a7b5a88692738a299bc97cca88504620) - 2025-08-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/commit/536eef29cf8bb1f641c4e9209f4320bc4f69785e) - 2025-07-21
 * [Commit] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/commit/4c5d7022afc381fd38db1dd90072c8356e44cf45) - 2025-07-21

@@ -74,6 +74,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(tests): fix pre alloc grouping remaining fails](https://github.com/ethereum/execution-spec-tests/pull/1975) - 2025-07-31
 * [Commit] [chore(tests): temp skip for type 4 txs for pre alloc grouping eip7934.](https://github.com/ethereum/execution-spec-tests/commit/e6037c444d55c96b4108bd5b13692a1521f1acdb) - 2025-07-31
 * [Commit] [chore(tests): fix pre alloc grouping eip6110.](https://github.com/ethereum/execution-spec-tests/commit/c4a2ae25010b339ebb009a61275cee42b2c17da2) - 2025-07-31
+* [Commit] [fix(tests/static): Fix all static tests for Osaka fork (#1980)](https://github.com/ethereum/execution-spec-tests/commit/66db99dca7965dc42885652bdfaed59c7d63551b) - 2025-08-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

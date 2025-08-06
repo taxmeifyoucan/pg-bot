@@ -18,6 +18,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [make LoadTransitionState cacheless and move it to the overlay pkg](https://github.com/gballet/go-ethereum/commit/0f37c99d3457791f97995b08c2f6d53f4a5b37c6) - 2025-08-04
 * [Commit] [move transition state to its own file](https://github.com/gballet/go-ethereum/commit/f0f51d1ef458c1593e908741180615ad83fd07eb) - 2025-08-04
 * [Commit] [don't store conversion state in genesis db in this PR](https://github.com/gballet/go-ethereum/commit/a483135b2b5d39d47a783c9409b44fd08e62306d) - 2025-08-04
+* [Commit] [fix: further key computation fixes](https://github.com/gballet/go-ethereum/commit/2c3814687e88ce0c0f490cce481e85082a343ffd) - 2025-08-05
 ## Q2 2025
 
 

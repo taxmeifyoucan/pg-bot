@@ -37,6 +37,8 @@ Team: Reth
 * [Commit] [chore(merkle): encoding fixes](https://github.com/paradigmxyz/reth/commit/60e993a6c352186e84945d022962e6740c10b56e) - 2025-07-25
 * [Commit] [chore(merkle): encoding fixes](https://github.com/paradigmxyz/reth/commit/0d8a3611646f705a0b5ae08f858d4fbdd665dae6) - 2025-07-25
 * [Pull Request] [feat(trie): add blinded node metrics in ProofTaskManager](https://github.com/paradigmxyz/reth/pull/17685) - 2025-07-31
+* [Commit] [fix(db-common): compute state root when initializing from genesis](https://github.com/paradigmxyz/reth/commit/e20907dd9af9e010af29196de12649585bf1578d) - 2025-08-05
+* [Pull Request] [fix(db-common): compute state root when initializing from genesis](https://github.com/paradigmxyz/reth/pull/17731) - 2025-08-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(interpreter): update docs for slice_mut and slice_range](https://github.com/bluealloy/revm/pull/2714) - 2025-07-15
 * [Pull Request] [feat: expose sha3-keccak in revm and revm-primitives](https://github.com/bluealloy/revm/pull/2713) - 2025-07-15
