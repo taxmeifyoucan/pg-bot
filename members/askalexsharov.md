@@ -570,6 +570,24 @@ Team: Erigon
 * [Commit] [merge main](https://github.com/erigontech/erigon/commit/a886c77ee0c79356de219431123a57cc5247c0d6) - 2025-08-05
 * [Commit] [Some quick debug stuff from anacrolix/torrent for CF caching](https://github.com/erigontech/erigon/commit/c4324cd5ed0db71f4e3ddcda4a397572b8b8e6fc) - 2025-08-05
 * [Commit] [merge main](https://github.com/erigontech/erigon/commit/a27eb4dc76828d0bda52cec6ebdb0b6f3f38dc19) - 2025-08-05
+* [Commit] [[r31] enable `--persist.receipts` by default (#16430)](https://github.com/erigontech/erigon/commit/ce142619fd0656415488125b7e211093028e23bb) - 2025-08-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ac34031987371eaf2939b60888ba78801126d36d) - 2025-08-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/25bbf10bc0f25549a1b9992c08d57df121417294) - 2025-08-06
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/1f111fe5d2a6b48691243cfb9b3d3d677d196aba) - 2025-08-06
+* [Commit] [Update advised max memory regions/process (#16473)](https://github.com/erigontech/erigon/commit/a2c14c1cd4cb7496efe3b6a8fe6c5f708513ae96) - 2025-08-06
+* [Issue] [linux: detect and recommend overcommit](https://github.com/erigontech/erigon/issues/16470) - 2025-08-06
+* [Commit] [Run CI tests with `-race` only after PR is merged (#16445)](https://github.com/erigontech/erigon/commit/5bd051081d4b908eb01868a65dec539719d53e32) - 2025-08-06
+* [Commit] [agg: use existing api method in test (#16467)](https://github.com/erigontech/erigon/commit/e406f178d991c09d3cf3107fbb7d766ace68af81) - 2025-08-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7b80ae9617e6375ae2208154d99f53125eb3ee1f) - 2025-08-06
+* [Commit] [linter](https://github.com/erigontech/erigon/commit/599fadeeadef0219d3e124221ca181800dabf120) - 2025-08-06
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/644e0c7af089b3d68ced5a503794d021f1559cf9) - 2025-08-06
+* [Commit] [Remove heimdall and polygon-bridge from datadir on reset (#16434)](https://github.com/erigontech/erigon/commit/bbfb0104b81902686a4f6e87b1d3c1165583b679) - 2025-08-06
+* [Pull Request] [agg: use existing api method in test](https://github.com/erigontech/erigon/pull/16467) - 2025-08-06
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/663b41421f60f72b6e1f4e29ba7509a8bf3e86ec) - 2025-08-06
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/a9bf8f8f90ba5ed7bf2dc57870562fe1cc0f8a60) - 2025-08-06
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/ecb5164aff693bb434d28dc88b9fcd8b027960bb) - 2025-08-06
+* [Commit] [adds idx_optimize2: idx_optimize but for a specific file (#16461)](https://github.com/erigontech/erigon/commit/8752445b0736a0c3c5e6fae06c8c9c8c1f3a296c) - 2025-08-06
+* [Commit] [execution/stagedsync: handle sync loop block limit exhaustion (#16268)](https://github.com/erigontech/erigon/commit/dc3413d32211c7d00b046d0d97e70da2688cb1a6) - 2025-08-06
 ## Q2 2025
 
 

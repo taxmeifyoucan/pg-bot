@@ -132,6 +132,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [simplify record_cost](https://github.com/bluealloy/revm/commit/4f2ea1059722f3d9eb9e0c4234ad5c2c25b9687d) - 2025-08-04
 * [Commit] [all all_short_address flag](https://github.com/bluealloy/revm/commit/0823edd51505f2d479dd3680b89b06821f149eaa) - 2025-08-05
 * [Commit] [all all_short_address flag](https://github.com/bluealloy/revm/commit/278df4ea4adc827a57bee0aeec1ac8fce7184839) - 2025-08-05
+* [Commit] [fix: map new once and for all (+ci) (#2852)](https://github.com/bluealloy/revm/commit/33c9eb2316fe891e8fc78d4774a5729eea3836a3) - 2025-08-06
+* [Commit] [fix: correct various typos in documentation and comments (#2855)](https://github.com/bluealloy/revm/commit/74e7969bc9085e78a2732a6021331970ded86a13) - 2025-08-06
+* [Commit] [feat: short address for journal cold/warm check (#2849)](https://github.com/bluealloy/revm/commit/ac7d01f3344d40a30edc8e6f6b269892ae15fba9) - 2025-08-06
+* [Commit] [chore: remove obsolete RJUMPV comments](https://github.com/bluealloy/revm/commit/7049c578f86063cd95ede824f0b02c5df7fd6d2c) - 2025-08-06
+* [Pull Request] [fix: correct various typos in documentation and comments](https://github.com/bluealloy/revm/pull/2855) - 2025-08-06
+* [Commit] [chore: rm redundant lifetime constraints (#2850)](https://github.com/bluealloy/revm/commit/36e700594b480b075ee394ee7028184ad9135415) - 2025-08-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

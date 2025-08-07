@@ -93,6 +93,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [polygon/bor: cleanup unnecessary Start func](https://github.com/erigontech/erigon/pull/16437) - 2025-08-04
 * [Commit] [rpc/jsonrpc: eth_config spec v3](https://github.com/erigontech/erigon/commit/ffdd8c15d1f31d600724817589066a001cba8721) - 2025-08-04
 * [Commit] [wip](https://github.com/erigontech/erigon/commit/87d15e627919deac62fcfbbc9d0103d03b9e0016) - 2025-08-05
+* [Commit] [dir improvements: move `state` from `erigon-lib` to `db` (#16471)](https://github.com/erigontech/erigon/commit/2245975769f98d971332266ed19cc503b2fd8dcc) - 2025-08-06
+* [Commit] [wip](https://github.com/erigontech/erigon/commit/dcc3af5ee6f2b043e517210c7e14dc60c6ea9803) - 2025-08-06
+* [Commit] [polygon/bor: cleanup dead remnants post recent cleanup (#16444)](https://github.com/erigontech/erigon/commit/df5af922e05eb7d5dd76f0d45395444a8655cec3) - 2025-08-06
 ## Q2 2025
 
 

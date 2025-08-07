@@ -34,6 +34,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 * [Pull Request] [mv types from erigon-lib to execution](https://github.com/erigontech/erigon/pull/16443) - 2025-08-04
 * [Commit] [mv types from erigon-lib to execution](https://github.com/erigontech/erigon/commit/074166c114eede4d552bc7e43bbaa5389504910c) - 2025-08-04
+* [Commit] [more small fixes](https://github.com/erigontech/erigon/commit/8c977423c80604dd53011a0e185d027625b60150) - 2025-08-06
+* [Commit] [more post-merge fixes](https://github.com/erigontech/erigon/commit/547d720d7792c061480be09ce6fa551faf72a569) - 2025-08-06
+* [Commit] [small fixes](https://github.com/erigontech/erigon/commit/97f3c5ba5dc339a1ed16c8566c7a7bde2382eb1f) - 2025-08-06
+* [Pull Request] [[DO NOT SQUAH MERGE] merge main@2245975 into arb0](https://github.com/erigontech/erigon/pull/16475) - 2025-08-06
+* [Commit] [db.pageSize: 16kb (#15915)](https://github.com/erigontech/erigon/commit/b5dbc41fc4e10838db1ff8cf9bd4675e8fbbc3a1) - 2025-08-06
+* [Commit] [even more lint](https://github.com/erigontech/erigon/commit/4143da03214c51e395a26ab4c74fee9d053d4113) - 2025-08-06
+* [Commit] [moar lint](https://github.com/erigontech/erigon/commit/c37677a1243f9d771e068c48fc288be8e2488051) - 2025-08-06
+* [Commit] [more lint](https://github.com/erigontech/erigon/commit/2214da549aff94ea7161c1f8fdc5599177d42215) - 2025-08-06
+* [Commit] [lint](https://github.com/erigontech/erigon/commit/9254c30788fb0a4864b9b94ea550a7d9f704a6fe) - 2025-08-06
+* [Commit] [cosmetics](https://github.com/erigontech/erigon/commit/9a4657d509fe8549da29d98e5586d3c23a4f6ab4) - 2025-08-06
+* [Commit] [go mod tidy](https://github.com/erigontech/erigon/commit/d196b35866ddb4028dec16bfe253e611acdf1dc2) - 2025-08-06
+* [Commit] [mv state to db](https://github.com/erigontech/erigon/commit/e8ae6edbcd5fbf3ce269adbd1251e40e1c64523d) - 2025-08-06
+* [Commit] [mv temporal to db](https://github.com/erigontech/erigon/commit/e0f6822f6e2a3e936a1084be49ce1cbe81b9f2ff) - 2025-08-06
+* [Commit] [mv membatchwithdb to db](https://github.com/erigontech/erigon/commit/37a56fe3ba4ed9ebafd61bd20baa5004c3319efd) - 2025-08-06
+* [Pull Request] [Yperbasis/dirs7](https://github.com/erigontech/erigon/pull/16471) - 2025-08-06
+* [Commit] [mv kvcache to db](https://github.com/erigontech/erigon/commit/b20f95f2a5111bd186d06d29c9a31d59ecda3089) - 2025-08-06
+* [Commit] [mv wrap to db](https://github.com/erigontech/erigon/commit/76af910b5477392eb70acd9f91aa3805b51e487c) - 2025-08-06
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

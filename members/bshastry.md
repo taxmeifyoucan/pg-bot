@@ -7,3 +7,8 @@ Github: [@bshastry](https://github.com/bshastry)
 Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security/)
 
 ## Contributions
+
+## Q3 2025
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [test(osaka): add edge case test vectors for EIP-7883 MODEXP gas calculation](https://github.com/ethereum/execution-spec-tests/pull/1993) - 2025-08-06

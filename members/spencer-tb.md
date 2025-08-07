@@ -75,6 +75,18 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): temp skip for type 4 txs for pre alloc grouping eip7934.](https://github.com/ethereum/execution-spec-tests/commit/e6037c444d55c96b4108bd5b13692a1521f1acdb) - 2025-07-31
 * [Commit] [chore(tests): fix pre alloc grouping eip6110.](https://github.com/ethereum/execution-spec-tests/commit/c4a2ae25010b339ebb009a61275cee42b2c17da2) - 2025-07-31
 * [Commit] [fix(tests/static): Fix all static tests for Osaka fork (#1980)](https://github.com/ethereum/execution-spec-tests/commit/66db99dca7965dc42885652bdfaed59c7d63551b) - 2025-08-05
+* [Commit] [chore(ci): tweaks.](https://github.com/ethereum/execution-spec-tests/commit/f8db54e16c1d1cfa91d517e3bb6ea08d5e8d1932) - 2025-08-06
+* [Commit] [fix(github): Set x-dist to auto for all evm impl (#1996)](https://github.com/ethereum/execution-spec-tests/commit/58849adc263f4bc2aa59d09f54e10b77d3a59fe6) - 2025-08-06
+* [Pull Request] [chore(tests): update max blob per tx test errors](https://github.com/ethereum/execution-spec-tests/pull/1997) - 2025-08-06
+* [Commit] [Update .github/configs/feature.yaml](https://github.com/ethereum/execution-spec-tests/commit/d5ebcd3a3a9a0057f4b6d25093e0f529f0302d2f) - 2025-08-06
+* [Commit] [Update .github/configs/feature.yaml](https://github.com/ethereum/execution-spec-tests/commit/1782b88246d395c567f5a26ba4796ff05052543a) - 2025-08-06
+* [Commit] [chore(tests): remove temp fix for block rlp type 4. (#1995)](https://github.com/ethereum/execution-spec-tests/commit/0c4822c0d7177c8dc03f99643928ab8ee6cf4640) - 2025-08-06
+* [Commit] [chore(ci): clean featuer/evm-impl config.](https://github.com/ethereum/execution-spec-tests/commit/6f51a476dfdf11df667ba72b2f82ded4ac4892e2) - 2025-08-06
+* [Commit] [chore(benchmark): update gas limit configuration (#1983)](https://github.com/ethereum/execution-spec-tests/commit/1b43e7afa89d77e5420d1c3c591d8a7961be3645) - 2025-08-06
+* [Commit] [chore: align gas limit with mainnet (#1994)](https://github.com/ethereum/execution-spec-tests/commit/ad392393cf26f724cb2b9d760b5fac0b3bf3d5c7) - 2025-08-06
+* [Commit] [fix(fill): allow lowercase fork declaration in fill command (#1969)](https://github.com/ethereum/execution-spec-tests/commit/810ff42c8373a1d5f317f1740655ed4e04b7e25d) - 2025-08-06
+* [Commit] [chore(ci): update feature/evm configs.](https://github.com/ethereum/execution-spec-tests/commit/3eccee749e1fde3b3eff9f1e6392ce7433fc6e45) - 2025-08-06
+* [Pull Request] [chore(tests): remove temp fix for block rlp type 4](https://github.com/ethereum/execution-spec-tests/pull/1995) - 2025-08-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

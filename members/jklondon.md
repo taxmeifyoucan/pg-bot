@@ -65,6 +65,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/fd3ffcd0de5d8339b141b5a517407a43b6fd10e2) - 2025-08-05
 * [Commit] [Caplin: cherry-pick changes in 3.1 to main (#16231)](https://github.com/erigontech/erigon/commit/d15cb85a4a1bcd9430f46911addfea4dd8073973) - 2025-08-05
 * [Pull Request] [[wip] versioner](https://github.com/erigontech/erigon/pull/16466) - 2025-08-05
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/5f01691aaa593e1ddbdf275afee603abe545e221) - 2025-08-06
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/21a6f5049cb4d237310d40f3e235ed0dc067f5ed) - 2025-08-06
+* [Commit] [[r3.0] fix of bor db opening on non-bor chains (CP)  (#16343)](https://github.com/erigontech/erigon/commit/291e0a321f86b512220e9d85bb8203ad66702871) - 2025-08-06
+* [Commit] [[r30] qa-tests: disable rpc integration tests on polygon  (#16347)](https://github.com/erigontech/erigon/commit/0729fb513cc54aa6ab7f96a786bfd9fce90cf0a5) - 2025-08-06
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/77aa241567d45d9830fa28ce13f274ce97661859) - 2025-08-06
+* [Commit] [[r31] move RCacheNoDups into default integrity (#16465)u](https://github.com/erigontech/erigon/commit/1cbd305ec3b36c07b06d98d2b558a192f1d966a3) - 2025-08-06
+* [Commit] [remove milestones from integrity check (#16453)](https://github.com/erigontech/erigon/commit/5a6e24ace813f0d7d42196744c78600e1cbad5bc) - 2025-08-06
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/ecea2a74cc0515cf4c485145175aa8217e0478bc) - 2025-08-06
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/4f80007eaba5352ce870824cea1c3e1a360f89c9) - 2025-08-06
+* [Pull Request] [Partial torrentfiles ignoring + more ctx to logs](https://github.com/erigontech/erigon/pull/16474) - 2025-08-06
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/fedd0d38b43a5b09b3f9e10955bc8a4e0fea7b3a) - 2025-08-06
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/df19e5ac926cd43a7f442b2e03cb77254a078932) - 2025-08-06
 ## Q2 2025
 
 

@@ -49,6 +49,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [shift to numbers](https://github.com/status-im/nimbus-eth1/commit/9533714cd3281a8a7daf60e985acba8b0a84aaa2) - 2025-08-04
 * [Commit] [remove unwanted logscope](https://github.com/status-im/nimbus-eth1/commit/b4bb73779565c8b402b933729a7275594513709c) - 2025-08-05
 * [Commit] [Fix stateroot mismatch caused by stale db cache when using checkpoints (#3527)](https://github.com/status-im/nimbus-eth1/commit/3f6b570fb081afe930a58cb00fef129becc5a605) - 2025-08-05
+* [Commit] [Fix memory usage regression caused by stateroot mismatch fix (#3540)](https://github.com/status-im/nimbus-eth1/commit/39d70443032400108f55d8e763353d5e9e935627) - 2025-08-06
+* [Commit] [bump nim-web4 to 81ee8ce479d86acb73be7c4f365328e238d9b4a3](https://github.com/status-im/nimbus-eth1/commit/0db7b068ab157d128d2377d4e85a6a206692d366) - 2025-08-06
 ## Q2 2025
 
 

@@ -58,6 +58,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Use same ordering](https://github.com/ChainSafe/lodestar/commit/d5ec81fd99c9748c0d5ff52ad6588623fd171e13) - 2025-08-04
 * [Pull Request] [feat: move constants to config to be spec compliant](https://github.com/ChainSafe/lodestar/pull/8103) - 2025-08-04
 * [Pull Request] [fix: use state slot instead of clock slot before gathering electra metrcis](https://github.com/ChainSafe/lodestar/pull/8102) - 2025-08-04
+* [Pull Request] [fix: select status response container based on version](https://github.com/ChainSafe/lodestar/pull/8119) - 2025-08-06
+* [Commit] [fix: select status response container based on version](https://github.com/ChainSafe/lodestar/commit/0c523c088fb49b2dfa2adbf1fe8875b33f5262aa) - 2025-08-06
+* [Commit] [Remove useless comments in tests](https://github.com/ChainSafe/lodestar/commit/84bc17e3cb9cc9c3e9540a32c1222540fc0afd45) - 2025-08-06
+* [Commit] [fix: detect weak head when predicting proposer head (#8079)](https://github.com/ChainSafe/lodestar/commit/ea1977daefa669ebf17d639feb4d8d462ba20db6) - 2025-08-06
 ## Q2 2025
 
 

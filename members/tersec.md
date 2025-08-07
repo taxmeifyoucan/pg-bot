@@ -41,6 +41,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [version v25.7.1](https://github.com/status-im/nimbus-eth2/commit/92defe0fe6c67255cef3687514c1ba80b197f3b3) - 2025-07-31
 * [Commit] [some validator custody improvements (#7349)](https://github.com/status-im/nimbus-eth2/commit/33a9a22a53e7b58f65d9df24838b85f05b158688) - 2025-08-03
 * [Commit] [Extend SSZ generic tests with ProgressiveBitlist tests (#7347)](https://github.com/status-im/nimbus-eth2/commit/f422842ff5c5af9d46f671861ba4fc8bb8a14f53) - 2025-08-05
+* [Commit] [support getBlobsV2; use getPayloadV5; verify BPO sortedness (#7365)](https://github.com/status-im/nimbus-eth2/commit/2a778206da7dd8943e0484d8371b145dae8d288d) - 2025-08-06
+* [Pull Request] [support getBlobsV2; use getPayloadV5; verify BPO sortedness](https://github.com/status-im/nimbus-eth2/pull/7365) - 2025-08-06
+* [Commit] [add PeerDAS presets (#7359)](https://github.com/status-im/nimbus-eth2/commit/a7dc844962a73b9b8cabcb4a4c41af0a102cde95) - 2025-08-06
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

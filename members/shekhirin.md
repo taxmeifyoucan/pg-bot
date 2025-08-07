@@ -109,6 +109,9 @@ Team: Reth
 * [Commit] [docs: fix typo in OpReceiptBuilder comment (#17540)](https://github.com/paradigmxyz/reth/commit/1eff10d871b494e650ac06e69a76519209bdfe40) - 2025-07-22
 * [Commit] [add metrics](https://github.com/paradigmxyz/reth/commit/8f0f4136b914954f51f59edd1625f7427e9282b3) - 2025-08-05
 * [Commit] [patch alloy-evm](https://github.com/paradigmxyz/reth/commit/00ffacde430144e881621c997850e1fcf927a75a) - 2025-08-05
+* [Commit] [fix: execution-apis eth_syncing should return false (#17730)](https://github.com/paradigmxyz/reth/commit/944a5fc19f70ae409a6ac1fcb380991c6d0a3b67) - 2025-08-06
+* [Commit] [std::mem::take recorded_traces](https://github.com/paradigmxyz/reth/commit/31d3c80997f3036c375a9bcf46d4edff5f5f0cc7) - 2025-08-06
+* [Commit] [do not check if coinbase storage was read](https://github.com/paradigmxyz/reth/commit/7c71f71717731f8e919039924a2b02af42f78657) - 2025-08-06
 ## Q2 2025
 
 

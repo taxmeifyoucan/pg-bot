@@ -22,6 +22,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Add hashtree library integration as alternative to gohashtree](https://github.com/OffchainLabs/prysm/commit/9ee32cc241e58a52c3aa4a218bdb236c1c96c619) - 2025-07-29
 * [Commit] [Add hashtree library integration as alternative to gohashtree](https://github.com/OffchainLabs/prysm/commit/8edc762f750a6d78fd2557318f23008d8b62afe1) - 2025-07-29
 * [Commit] [Add hashtree library integration as alternative to gohashtree](https://github.com/OffchainLabs/prysm/commit/b84c383a2532d1508ae7d0ba4b586b566cafe87d) - 2025-07-29
+* [Commit] [Fix lint](https://github.com/OffchainLabs/prysm/commit/8beab2928a4b3359749b6f8a328b64882c862e64) - 2025-08-06
+* [Pull Request] [Fix race on ReceibeBlock](https://github.com/OffchainLabs/prysm/pull/15565) - 2025-08-06
 ## Q2 2025
 
 

@@ -44,6 +44,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: resolve TODOs of eip-7917](https://github.com/ChainSafe/lodestar/commit/58d84ec777c1caa25428904f1d83436514235430) - 2025-07-28
 * [Pull Request] [feat: enhance AggregatedAttestationPool](https://github.com/ChainSafe/lodestar/pull/8095) - 2025-07-30
 * [Commit] [fix: set MAX_ATTESTATIONS_RETAINED to 150k and track attestation count per slot](https://github.com/ChainSafe/lodestar/commit/af31d5e8c33322909bdca9ecbc6737a0f00b138b) - 2025-07-30
+* [Commit] [fix: remove unused import](https://github.com/ChainSafe/lodestar/commit/01675daeb6f283efe043ce08b70ac907c3e5b6b1) - 2025-08-06
+* [Pull Request] [fix: decode p2p error message](https://github.com/ChainSafe/lodestar/pull/8116) - 2025-08-06
+* [Commit] [feat: detect and track REQUEST_RATE_LIMITED error](https://github.com/ChainSafe/lodestar/commit/37fedbc2de2b72f52c324f07253df65b9fb5ab79) - 2025-08-06
 ## Q2 2025
 
 

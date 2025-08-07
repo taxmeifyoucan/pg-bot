@@ -29,6 +29,7 @@ Team: Grandine
 * [Commit] [Update rust version to 1.87.0](https://github.com/grandinetech/grandine/commit/ed15762dbaa96b5d8c1ed6616bbb356561531fc5) - 2025-07-30
 * [Pull Request] [Upgrade `libmdbx` to 0.13.6](https://github.com/grandinetech/grandine/pull/286) - 2025-08-04
 * [Pull Request] [Deserialize JSON from Phase in HTTP API](https://github.com/grandinetech/grandine/pull/285) - 2025-08-04
+* [Commit] [Deserialize JSON from Phase in HTTP API](https://github.com/grandinetech/grandine/commit/53ae1670cc9ce51e4a913bbaa379985087f35c10) - 2025-08-06
 ## Q2 2025
 
 

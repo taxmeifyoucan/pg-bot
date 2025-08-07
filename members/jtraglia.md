@@ -33,6 +33,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add EIP-7916 ProgressiveList specs and tests (#4445)](https://github.com/ethereum/consensus-specs/commit/224a91a45bd203b89b9733d8e597b9b327bf41a7) - 2025-07-31
 * [Commit] [eip7732: fix quorum calc to avoid double-counting (#4481)](https://github.com/ethereum/consensus-specs/commit/01454a2afc442a32644df45deb8f81687e461785) - 2025-08-03
 * [Commit] [eip7732: fix a typo in builder.md (#4483)](https://github.com/ethereum/consensus-specs/commit/78b2b93af48f08a15d8b9ccfe0dfa9b66715345c) - 2025-08-03
+* [Commit] [eip7805: fix cutoff config typo (#4490)](https://github.com/ethereum/consensus-specs/commit/35f8191a923706e5f702267b555be65593613d59) - 2025-08-06
+* [Commit] [Add EIP-7916 ProgressiveBitlist specs and tests (#4480)](https://github.com/ethereum/consensus-specs/commit/3ea53df2b939c95e338cac41f0ea4c871b62cdc9) - 2025-08-06
+* [Commit] [eip7805: remove unnecessary equivocation filter (#4492)](https://github.com/ethereum/consensus-specs/commit/d92b1b9fdcd782c36df1e40a19924362a85383ee) - 2025-08-06
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

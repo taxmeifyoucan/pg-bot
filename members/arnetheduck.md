@@ -46,6 +46,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [serialization: more bumps](https://github.com/status-im/nimbus-eth1/pull/3524) - 2025-07-31
 * [Commit] [Adjust for authList v field change to yParity name (#3497)](https://github.com/status-im/nimbus-eth1/commit/a5ba304100b2d993af51ba142448882b2b03a01c) - 2025-08-02
 * [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/85aaf4195db1b1bd308fb5a70706791e8778c2a2) - 2025-08-02
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/07f8e577dbb718b51c6f4659ddffa2dc04b310ba) - 2025-08-06
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/41cac7f860b9081653f33798c9e37668a54a87d6) - 2025-08-06
+* [Pull Request] [serialization: bump](https://github.com/status-im/nimbus-eth1/pull/3544) - 2025-08-06
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -87,6 +90,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [include](https://github.com/status-im/nimbus-eth2/commit/f9a2d5d1c2381027ebe4adb274ce945b895892e8) - 2025-08-04
 * [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/4b69fd3afc7d9466f1b40711d688ed851cb7655b) - 2025-08-04
 * [Commit] [tests](https://github.com/status-im/nimbus-eth2/commit/105e0c9982930b00b7d2dac0af91b9691602dee1) - 2025-08-04
+* [Commit] [serialization: bump (#7361)](https://github.com/status-im/nimbus-eth2/commit/43e189fba8f088fd3ee01cfc7944c62699bbe1f2) - 2025-08-06
+* [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/8b97f93397233d41d9cc5e6ef583652f0bf86c3b) - 2025-08-06
+* [Commit] [comment](https://github.com/status-im/nimbus-eth2/commit/bc2880cf6d86f0118701bc944f2c72aa30e694a8) - 2025-08-06
+* [Pull Request] [use `Address` from `eth` throughout](https://github.com/status-im/nimbus-eth2/pull/7364) - 2025-08-06
+* [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/75c9d924c0d39107d8234a18bf942136576e0023) - 2025-08-06
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

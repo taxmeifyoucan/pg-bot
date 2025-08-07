@@ -31,6 +31,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Shrink persisted fork choice data](https://github.com/sigp/lighthouse/pull/7805) - 2025-07-28
 * [Pull Request] [Fix Clippy for Rust 1.90 beta](https://github.com/sigp/lighthouse/pull/7826) - 2025-08-05
 * [Commit] [Fix duplication of compression code](https://github.com/sigp/lighthouse/commit/6548b686e9af805df59d0880d6edfd2fc3ccefb7) - 2025-08-05
+* [Issue] [Extend fork choice debug endpoint with extra data](https://github.com/sigp/lighthouse/issues/7829) - 2025-08-06
 ## Q2 2025
 
 

@@ -86,6 +86,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Clean](https://github.com/OffchainLabs/prysm/commit/4fb997ddf43fa5e2fbe8147d4fa7c34b6aa04ff5) - 2025-08-02
 * [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/461fa50c34b8b218a98b0bcf6c862db5080591b3) - 2025-08-02
 * [Commit] [wrapping goodbye messages in goroutine to speed up node shutdown (#15542)](https://github.com/OffchainLabs/prysm/commit/bd6b4ecd5bbbd5c541329913216a8aee0fefd512) - 2025-08-02
+* [Commit] [PeerDAS: Implement sync](https://github.com/OffchainLabs/prysm/commit/3e7a1c7da211c55ca796fdc1e0332e761b5bf790) - 2025-08-06
+* [Commit] [rrr](https://github.com/OffchainLabs/prysm/commit/a0d63445102936f7debfe2d7dd2c8bbbbeb177ba) - 2025-08-06
+* [Pull Request] [peerdas-sync](https://github.com/OffchainLabs/prysm/pull/15564) - 2025-08-06
+* [Commit] [Implement `fetchDataColumnSidecars`.](https://github.com/OffchainLabs/prysm/commit/bebe4e435eaa32d811467a25f87d4f5902933682) - 2025-08-06
+* [Commit] [Implement `fetchDataColumnSidecars`.](https://github.com/OffchainLabs/prysm/commit/beae4473258dc01b76e16b387430208728ee59e9) - 2025-08-06
+* [Commit] [Implement `fetchDataColumnSidecars`.](https://github.com/OffchainLabs/prysm/commit/c7b657613d5161ab0dcdb0c2f4b5d13745d89d4d) - 2025-08-06
+* [Commit] [Implement `fetchDataColumnSidecars`.](https://github.com/OffchainLabs/prysm/commit/c8a9944ff2dd91018c77952c3b7d218a83462b14) - 2025-08-06
 ## Q2 2025
 
 

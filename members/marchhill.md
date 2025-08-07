@@ -111,6 +111,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [extra line](https://github.com/NethermindEth/nethermind/commit/c9acf1bed638ed68f3577f62fec1ef2ba0207ec5) - 2025-08-04
 * [Commit] [Add support for Prometheus (#9048)](https://github.com/NethermindEth/nethermind/commit/794d4475c87e2c9e36038b2acfdf4ac2136ae433) - 2025-08-04
 * [Commit] [alert eth69 protocol of new oldest block stored](https://github.com/NethermindEth/nethermind/commit/5d95a42cdb014f1297ac45f7629f650d2fb6008f) - 2025-08-04
+* [Commit] [try disabling block processing queue pruning](https://github.com/NethermindEth/nethermind/commit/4e491f4689dd89a04551704bdc0d9b78e8d09f2b) - 2025-08-06
+* [Commit] [add back some stuff](https://github.com/NethermindEth/nethermind/commit/e2aeae30703811b7cc5abb912ee1e5c138e489d1) - 2025-08-06
+* [Commit] [Fix eth_config (#9071)](https://github.com/NethermindEth/nethermind/commit/f23ce0026788eee9a231cf1ea792421f2e0d4f0f) - 2025-08-06
+* [Commit] [reenable some stuff](https://github.com/NethermindEth/nethermind/commit/075cbc840bb65adf0cfb9801934a9c8b6aa1ad25) - 2025-08-06
+* [Commit] [update barrier tests](https://github.com/NethermindEth/nethermind/commit/c6d2610b40fd124d458aadf02c0f504462c6c0d3) - 2025-08-06
+* [Pull Request] [Drop pre-merge data on Gnosis](https://github.com/NethermindEth/nethermind/pull/9093) - 2025-08-06
+* [Commit] [update peerinfo](https://github.com/NethermindEth/nethermind/commit/9623817b7746ea2213c2698578819134f143334e) - 2025-08-06
+* [Commit] [update sync server to latest master](https://github.com/NethermindEth/nethermind/commit/de853f14fb472f3394ed3f4665b4ea0b75cf5cdb) - 2025-08-06
+* [Commit] [add back bit of test](https://github.com/NethermindEth/nethermind/commit/d56da8e5af422614be67573f7f6e1145c4e3714f) - 2025-08-06
 ## Q2 2025
 
 

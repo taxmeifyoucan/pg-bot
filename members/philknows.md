@@ -14,6 +14,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove g11tech from Lodestar](https://github.com/protocolguild/documentation/pull/367) - 2025-07-04
 * [Pull Request] [Rename twoeths (Lodestar)](https://github.com/protocolguild/documentation/pull/369) - 2025-07-05
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Commit] [chore: bump package versions to 1.33.0](https://github.com/ChainSafe/lodestar/commit/7afce97ce38225407806b711746275b53f110595) - 2025-08-06
+* [Pull Request] [chore: merge v1.33.0 stable back to unstable](https://github.com/ChainSafe/lodestar/pull/8118) - 2025-08-06
+* [Commit] [chore: merge v1.32.0 stable back to unstable (#8061)](https://github.com/ChainSafe/lodestar/commit/edc35e4b78ea493dadb4a27be74339d3e1a967dc) - 2025-08-06
+* [Issue] [Gossipsub tracking more peers than required](https://github.com/ChainSafe/lodestar/issues/8115) - 2025-08-06
 ## Q2 2025
 
 

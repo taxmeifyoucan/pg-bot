@@ -136,6 +136,14 @@ Team: Erigon
 * [Commit] [any map change triggers a dep panic](https://github.com/erigontech/erigon/commit/f2a4f1a688ffdc36522db9ed38fe1138edbc7c8f) - 2025-08-05
 * [Commit] [adjust start & end block processing](https://github.com/erigontech/erigon/commit/7ad2bab891c4b8b3b9dafbdfd886e606e62e19df) - 2025-08-05
 * [Commit] [adjust start & end block processing](https://github.com/erigontech/erigon/commit/b1a91dcb392f19321f1b373516d88f9a5c3c542f) - 2025-08-05
+* [Commit] [remove printer](https://github.com/erigontech/erigon/commit/2cfa8731424a91e136dce3c70332dd6652c94754) - 2025-08-06
+* [Commit] [fix last receipt index](https://github.com/erigontech/erigon/commit/a9fcc475bab000bf142482fc2014b24782efd964) - 2025-08-06
+* [Commit] [fix last receipt index](https://github.com/erigontech/erigon/commit/a947df9d1e13a29a16ccf51c2f14fff7e15acfc4) - 2025-08-06
+* [Commit] [fix last receipt index](https://github.com/erigontech/erigon/commit/ba5b34b861d30611f64a7ccad755f50c536e562a) - 2025-08-06
+* [Commit] [check printer](https://github.com/erigontech/erigon/commit/41b034ba57aafd36e3098ccbeb501f25944b00bc) - 2025-08-06
+* [Commit] [check printer](https://github.com/erigontech/erigon/commit/ab58d77ca5de183277ade00b4513a8684e74ca65) - 2025-08-06
+* [Commit] [check printer](https://github.com/erigontech/erigon/commit/817af62591aaa0eeecf6bff9509a9c4c235b34cc) - 2025-08-06
+* [Commit] [any map change triggers a dep panic](https://github.com/erigontech/erigon/commit/0fd2a9f9d379da4eb20473f272f546f6ccd64548) - 2025-08-06
 ## Q2 2025
 
 

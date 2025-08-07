@@ -39,6 +39,8 @@ Team: Reth
 * [Pull Request] [feat(trie): add blinded node metrics in ProofTaskManager](https://github.com/paradigmxyz/reth/pull/17685) - 2025-07-31
 * [Commit] [fix(db-common): compute state root when initializing from genesis](https://github.com/paradigmxyz/reth/commit/e20907dd9af9e010af29196de12649585bf1578d) - 2025-08-05
 * [Pull Request] [fix(db-common): compute state root when initializing from genesis](https://github.com/paradigmxyz/reth/pull/17731) - 2025-08-05
+* [Commit] [fix(db-common): compute state root when initializing from genesis (#17731)](https://github.com/paradigmxyz/reth/commit/af0e2d0f0135f074da3237a61375a142ab70b610) - 2025-08-06
+* [Commit] [fix(db-common): compute state root when initializing from genesis (#17731)](https://github.com/paradigmxyz/reth/commit/b964934d5689b10685fc44704a344911d47c7649) - 2025-08-06
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(interpreter): update docs for slice_mut and slice_range](https://github.com/bluealloy/revm/pull/2714) - 2025-07-15
 * [Pull Request] [feat: expose sha3-keccak in revm and revm-primitives](https://github.com/bluealloy/revm/pull/2713) - 2025-07-15

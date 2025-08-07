@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Clean up beacon state schemas (#9737)](https://github.com/Consensys/teku/commit/27733915e7cfeacfd0380655188dff1f9f33b1e5) - 2025-08-01
 * [Pull Request] [Clean up beacon state schemas](https://github.com/Consensys/teku/pull/9737) - 2025-08-01
 * [Commit] [Add `get-earliest-available-data-column-slot` to the debug db cmd (#9736)](https://github.com/Consensys/teku/commit/804ca4292dc21cb0012fdb2ab9dae81788d63c4f) - 2025-08-01
+* [Pull Request] [update fulu presets ](https://github.com/Consensys/teku/pull/9749) - 2025-08-06
 ## Q2 2025
 
 

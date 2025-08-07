@@ -43,6 +43,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: use state slot instead of clock slot before gathering electra metrics (#8102)](https://github.com/ChainSafe/lodestar/commit/3626b6ada054099c2592e848c23d381260f220ce) - 2025-08-04
 * [Commit] [fix: remove node custody requirement (#8099)](https://github.com/ChainSafe/lodestar/commit/5bc821a0904b110d8de9d1c497bf5c2be4a04b05) - 2025-08-04
 * [Commit] [fix: prevent serialization of BlockInput across worker boundary](https://github.com/ChainSafe/lodestar/commit/55299b899dd20fabb9586dab54e1ac6308a3b7c1) - 2025-08-04
+* [Pull Request] [fix: update publish block/column order](https://github.com/ChainSafe/lodestar/pull/8121) - 2025-08-06
+* [Commit] [refactor: earliestSlotAvailable -> earliestAvailableSlot (#8120)](https://github.com/ChainSafe/lodestar/commit/00a7126d44df9a70ec0717e4e3dd99d6feea13da) - 2025-08-06
+* [Pull Request] [refactor: earliestSlotAvailable -> earliestAvailableSlot](https://github.com/ChainSafe/lodestar/pull/8120) - 2025-08-06
+* [Commit] [fix: select status response container based on version (#8119)](https://github.com/ChainSafe/lodestar/commit/b6ddc3914ca2a6c01dab9efd367bdb34c181f9dc) - 2025-08-06
 ## Q2 2025
 
 

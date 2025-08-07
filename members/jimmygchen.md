@@ -46,6 +46,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Add support for storing traces to JSON file for debugging](https://github.com/sigp/lighthouse/issues/7817) - 2025-07-31
 * [Pull Request] [Update fetch blobs metrics buckets](https://github.com/sigp/lighthouse/pull/7823) - 2025-08-01
 * [Pull Request] [Adjust DA checker cache size](https://github.com/sigp/lighthouse/pull/7825) - 2025-08-04
+* [Pull Request] [Implement tracing spans for data columm RPC requests and respones](https://github.com/sigp/lighthouse/pull/7831) - 2025-08-06
+* [Issue] [Instrument tracing spans for RPC data columns requests and responeses](https://github.com/sigp/lighthouse/issues/7830) - 2025-08-06
 ## Q2 2025
 
 

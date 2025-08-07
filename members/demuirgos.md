@@ -29,6 +29,11 @@ Team: Nethermind
 * [Commit] [rename EngineDebugModule to DebugModule](https://github.com/NethermindEth/nethermind/commit/e76c468b6f3c1f8ecf2138b1adc350db2d9ec39c) - 2025-07-29
 * [Commit] [Run background tasks at BelowNormal priority (#8968)](https://github.com/NethermindEth/nethermind/commit/fb8d06a386b95f5ce9d457daebac6240d06347a9) - 2025-07-29
 * [Commit] [fix fullPrunning referencing wrong dbFolder (#9060)](https://github.com/NethermindEth/nethermind/commit/f7f691a4bce5569e844ba359c34985d5e0e0b6f0) - 2025-07-31
+* [Commit] [Revise BN254 precompile names (#9023)](https://github.com/NethermindEth/nethermind/commit/93592837f69c99af06a9c472c73fa0bdf9be347a) - 2025-08-06
+* [Commit] [revert back unneccessary changes](https://github.com/NethermindEth/nethermind/commit/50b60196b313dc523797b0c85dcf08e60bfbc985) - 2025-08-06
+* [Commit] [revert JsonRpcRecorder settings to default](https://github.com/NethermindEth/nethermind/commit/a946678523e7e199f8932d91ad222599ea9a0391) - 2025-08-06
+* [Commit] [refactor](https://github.com/NethermindEth/nethermind/commit/bb0a5f498e9e140a329c4787fc8d4fb0b9cd1e37) - 2025-08-06
+* [Commit] [L1SLOAD Precompile for Surge (#9030)](https://github.com/NethermindEth/nethermind/commit/fbcf58ba1d739133f3cff5b19a42b015f7d89cb5) - 2025-08-06
 ## Q2 2025
 
 

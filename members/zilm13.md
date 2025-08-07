@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Add `Eth-Consensus-Version` in builder's getPayloadV2 request + tests](https://github.com/Consensys/teku/pull/9735) - 2025-07-31
 * [Issue] [PeerDAS backfilling on cgc increase sometimes fails to backfill](https://github.com/Consensys/teku/issues/9746) - 2025-08-05
 * [Issue] [Bandwidth usage is too high for PeerDAS supernode](https://github.com/Consensys/teku/issues/9745) - 2025-08-05
+* [Commit] [Allow BPO forks at fork epoch (#9742)](https://github.com/Consensys/teku/commit/38b6a81a5c1ae6ae1a8f1db1dbf35021af54b1d2) - 2025-08-06
 ## Q2 2025
 
 

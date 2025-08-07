@@ -103,6 +103,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/f747538e622b7ec9c457c896d508d52c3a46bc5d) - 2025-07-31
 * [Commit] [missing column data](https://github.com/erigontech/erigon/commit/fd3a00c414654f07bc13fafc13d3114f7d17d8c9) - 2025-08-04
 * [Commit] [update](https://github.com/erigontech/erigon/commit/4d80e843f7059fa6102803e8358cc5c7cf4898de) - 2025-08-04
+* [Commit] [update](https://github.com/erigontech/erigon/commit/ed91d5bc645af3454a71ffbdefc8dfc2f87e350e) - 2025-08-06
+* [Commit] [update](https://github.com/erigontech/erigon/commit/6ad1d088b4aec22e396e17d156558721e3bfa1d0) - 2025-08-06
 ## Q2 2025
 
 

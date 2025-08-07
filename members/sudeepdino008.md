@@ -120,6 +120,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/02a56bf1b83d144212e6c17e247c1e56cb8d4339) - 2025-08-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/645bd8d2ec598da5b17527d823f7dea1907d21ff) - 2025-08-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b166d28cf3e351abcd703f0bb4ad8c03e1af8209) - 2025-08-04
+* [Issue] [corrupt kv on staging bor](https://github.com/erigontech/erigon/issues/16477) - 2025-08-06
+* [Pull Request] [wip receipt check faster...](https://github.com/erigontech/erigon/pull/16476) - 2025-08-06
+* [Commit] [cp: move RCacheNoDups into default integrity (#16469)](https://github.com/erigontech/erigon/commit/816f223267308233f96df75e8930f53bacf0228a) - 2025-08-06
+* [Commit] [cp: remove milestones from integrity check (#16468)](https://github.com/erigontech/erigon/commit/66c4b659b4d721eb34664f02537ffe461f9f901f) - 2025-08-06
+* [Pull Request] [cp: move RCacheNoDups into default integrity](https://github.com/erigontech/erigon/pull/16469) - 2025-08-06
+* [Pull Request] [cp: remove milestones from integrity check](https://github.com/erigontech/erigon/pull/16468) - 2025-08-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

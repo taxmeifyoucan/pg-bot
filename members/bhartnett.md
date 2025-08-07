@@ -39,6 +39,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Fix storage slots test.](https://github.com/status-im/nimbus-eth1/commit/92d2aea259c6d7bd96e519efe76c0ab198850e4e) - 2025-07-31
 * [Pull Request] [Fix stateroot mismatch caused by stale db cache when using checkpoints](https://github.com/status-im/nimbus-eth1/pull/3527) - 2025-07-31
 * [Commit] [Add tests which reproduce the issue.](https://github.com/status-im/nimbus-eth1/commit/1ee0ca33cb051484e4a162581461fdb71fe8d6d7) - 2025-07-31
+* [Commit] [Stateless: Minor improvement to witness building (#3547)](https://github.com/status-im/nimbus-eth1/commit/670e6893948755307b8c3b43eab696c0e1677b94) - 2025-08-06
+* [Pull Request] [Stateless: Build witnesses when executing blocks in forked chain](https://github.com/status-im/nimbus-eth1/pull/3548) - 2025-08-06
+* [Pull Request] [Minor improvement to witness building](https://github.com/status-im/nimbus-eth1/pull/3547) - 2025-08-06
+* [Pull Request] [Set the default rocksdb cache location to the build directory](https://github.com/status-im/nimbus-eth1/pull/3546) - 2025-08-06
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

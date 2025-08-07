@@ -132,6 +132,17 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [try fix](https://github.com/status-im/nimbus-eth1/commit/cbaac6fbda56bf54bf8101a8f09d7ff1e9d30e77) - 2025-08-04
 * [Commit] [Fix macos dockerfile](https://github.com/status-im/nimbus-eth1/commit/4fe466da4d4d9a80e6f135f23747974b44e7ced6) - 2025-08-04
 * [Commit] [Bundle rocksdb prebuilt binary into docker base images (#3536)](https://github.com/status-im/nimbus-eth1/commit/d34dc1a99e59eb7a8406f8465f43a49af5467866) - 2025-08-04
+* [Commit] [proxy: txs, rxs and logs (#3457)](https://github.com/status-im/nimbus-eth1/commit/0a3cf9dd25465af99be0a1beff62072b6f70d422) - 2025-08-06
+* [Commit] [Nightly build comeback after broken for years (#3545)](https://github.com/status-im/nimbus-eth1/commit/230e18fcce929c0fb55204a63fce235e599a7d4f) - 2025-08-06
+* [Commit] [Set the default rocksdb cache location to the build directory. (#3546)](https://github.com/status-im/nimbus-eth1/commit/340099c160865d67e5291ed54612b350a285b426) - 2025-08-06
+* [Pull Request] [Nightly build comeback after broken for years](https://github.com/status-im/nimbus-eth1/pull/3545) - 2025-08-06
+* [Commit] [Nightly build comeback after broken for years](https://github.com/status-im/nimbus-eth1/commit/d12b2433e56d9ec15fd5161e7a9231adf86c2371) - 2025-08-06
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/54768e7aad717a4dc3c705e0a76f6faeb2d23774) - 2025-08-06
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/283b6d4e9c862d95434b2116f68ee523d37e30f1) - 2025-08-06
+* [Commit] [Fixxes](https://github.com/status-im/nimbus-eth1/commit/38fa75a34494e3792c6a8db1305e173f4b3231d8) - 2025-08-06
+* [Commit] [update entry point](https://github.com/status-im/nimbus-eth1/commit/ba2d244860466fe6eaff5af49f71ccb0d65e0f53) - 2025-08-06
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/42855b0176f9643607dea01384a214006ca906e4) - 2025-08-06
+* [Commit] [Docker base image rework (#3541)](https://github.com/status-im/nimbus-eth1/commit/58009090041183e7c940f68d372250863dbc610a) - 2025-08-06
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

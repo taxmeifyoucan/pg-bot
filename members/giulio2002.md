@@ -167,6 +167,8 @@ Team: Erigon
 * [Commit] [blob archive & enr updates for fulu (#16207)](https://github.com/erigontech/erigon/commit/99d041558e4ae241f3dd4e0396622252e91a40ef) - 2025-08-03
 * [Pull Request] [Caplin: simplified column store](https://github.com/erigontech/erigon/pull/16428) - 2025-08-03
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ac12bf74cb2c3760962da218753f32bbbc8330f5) - 2025-08-04
+* [Commit] [Caplin: simplified column store and `peerDAS` object (#16428)](https://github.com/erigontech/erigon/commit/166e5e300f25c57320b6731f44de08c0660026e3) - 2025-08-06
+* [Commit] [Caplin: implemented mev-boost for Fulu (#16420)](https://github.com/erigontech/erigon/commit/bd92311ade552cb281cd603e0edc3a1e1abcc3df) - 2025-08-06
 ## Q2 2025
 
 

@@ -34,6 +34,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [changed rate tracker to be thread safe](https://github.com/Consensys/teku/pull/9740) - 2025-08-02
 * [Commit] [Moved altair epoch variables to the genesis spec (#9744)](https://github.com/Consensys/teku/commit/c4220932d8d8bb64ee3ae1c8d0859d347ed39827) - 2025-08-05
 * [Commit] [Add spec references, a mapping of spec to implementation (#9731)](https://github.com/Consensys/teku/commit/169c4b71d3384bfbf86d9ef72afc2468a0d68a0b) - 2025-08-05
+* [Commit] [changed rate tracker to be thread safe (#9740)](https://github.com/Consensys/teku/commit/491d204f3486d070cffe5e2da27784ae95a62937) - 2025-08-06
+* [Pull Request] [moved bellatrix epoch and version to base spec config](https://github.com/Consensys/teku/pull/9750) - 2025-08-06
+* [Pull Request] [Added performance test for rate tracker](https://github.com/Consensys/teku/pull/9748) - 2025-08-06
+* [Pull Request] [added documentation to safe future finishes](https://github.com/Consensys/teku/pull/9747) - 2025-08-06
+* [Commit] [proof of concept for alternative to ifExceptionGetsHereRaiseABug (#9726)](https://github.com/Consensys/teku/commit/a481442ddab9399149381b67bff5494461103313) - 2025-08-06
 ## Q2 2025
 
 

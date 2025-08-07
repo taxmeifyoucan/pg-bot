@@ -60,6 +60,7 @@ Team: Erigon
 * [Commit] [Arbitrum: bump erigon-snapshot rev (#16423)](https://github.com/erigontech/erigon/commit/e4a60ed0c3d588363983bab55baa567c2e1a8850) - 2025-08-02
 * [Pull Request] [Arbitrum: bump erigon-snapshot rev](https://github.com/erigontech/erigon/pull/16423) - 2025-08-02
 * [Commit] [save](https://github.com/erigontech/erigon/commit/bebebb15723215e22284d604cdc27133567a2622) - 2025-08-02
+* [Commit] [Fix `getProof` edge cases correctly (#16251)](https://github.com/erigontech/erigon/commit/e902c3dab34d754d13c115ed559dfb4e1b49d473) - 2025-08-06
 ## Q2 2025
 
 

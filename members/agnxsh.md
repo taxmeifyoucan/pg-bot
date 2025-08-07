@@ -51,6 +51,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fixed maxBlobsPerBlockDeneb](https://github.com/status-im/nimbus-eth2/commit/c55cbd5267173a8c1f4c73d1a41a00c7bf8ecf3d) - 2025-08-02
 * [Commit] [added some fixes](https://github.com/status-im/nimbus-eth2/commit/cc306fb09a61f87c53d06ba5eb6dc88105849db3) - 2025-08-02
 * [Commit] [initialize er and ea slot with local head slot](https://github.com/status-im/nimbus-eth2/commit/95a9f0c437049e666d9ef64dc2936e4b6e006fb9) - 2025-08-04
+* [Commit] [Bump nimbus-build-system to e6c2c9da39c2d368d9cf420ac22692e99715d22c (#7337)](https://github.com/status-im/nimbus-eth2/commit/74289bf6cd5962b3d53a112892067a06e7396fd6) - 2025-08-06
 ## Q2 2025
 
 
