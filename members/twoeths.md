@@ -47,6 +47,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: remove unused import](https://github.com/ChainSafe/lodestar/commit/01675daeb6f283efe043ce08b70ac907c3e5b6b1) - 2025-08-06
 * [Pull Request] [fix: decode p2p error message](https://github.com/ChainSafe/lodestar/pull/8116) - 2025-08-06
 * [Commit] [feat: detect and track REQUEST_RATE_LIMITED error](https://github.com/ChainSafe/lodestar/commit/37fedbc2de2b72f52c324f07253df65b9fb5ab79) - 2025-08-06
+* [Issue] [Apply network action for peers responding mismatch DatacolumnSidecars](https://github.com/ChainSafe/lodestar/issues/8133) - 2025-08-07
+* [Commit] [fix: new RESP_RATE_LIMITED error code](https://github.com/ChainSafe/lodestar/commit/3d1b5b565ffa800ae8f51d4aaf1632754a89ff89) - 2025-08-07
+* [Commit] [fix: remove unused import](https://github.com/ChainSafe/lodestar/commit/01675daeb6f283efe043ce08b70ac907c3e5b6b1) - 2025-08-07
+* [Commit] [fix: handle wait error message](https://github.com/ChainSafe/lodestar/commit/a6d90a67f3a248851b9d9f9c71a5107f094132f2) - 2025-08-07
 ## Q2 2025
 
 

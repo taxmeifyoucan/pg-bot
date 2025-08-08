@@ -588,6 +588,23 @@ Team: Erigon
 * [Commit] [merge main](https://github.com/erigontech/erigon/commit/ecb5164aff693bb434d28dc88b9fcd8b027960bb) - 2025-08-06
 * [Commit] [adds idx_optimize2: idx_optimize but for a specific file (#16461)](https://github.com/erigontech/erigon/commit/8752445b0736a0c3c5e6fae06c8c9c8c1f3a296c) - 2025-08-06
 * [Commit] [execution/stagedsync: handle sync loop block limit exhaustion (#16268)](https://github.com/erigontech/erigon/commit/dc3413d32211c7d00b046d0d97e70da2688cb1a6) - 2025-08-06
+* [Pull Request] [[r31] `rm-state`: support versions, `--dry-run`](https://github.com/erigontech/erigon/pull/16486) - 2025-08-07
+* [Issue] [multiple versions](https://github.com/erigontech/erigon/issues/16483) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5f713122407059d723750799f668d82af569dbee) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b2f4f3677a88e704b54ea713ec58fe9859aecc39) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8ca67e406aca31ec25f94990fe082dde431b8794) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/751889c333fdfd2ca00d9defa91469f1d042f61e) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/78ae98a92c9d9abcffea6102918bd53d8449e224) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0bd0ffbdde8ccedf637725e4c2d60ec46cebd287) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/726cd0b1b3e7a4d7dfa292575d21bd27338ebd80) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d1c01aa188916883c661138d2ec0790678970004) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3219038905b8789949385d812ae2670bcae622e1) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6eba2fa809761579608f82bdbb7f2bcc45e326ac) - 2025-08-07
+* [Pull Request] [revive `--verify.failfast`](https://github.com/erigontech/erigon/pull/16482) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fa047c2d4333daaf760402f938577d922e4c7ec9) - 2025-08-07
+* [Issue] [can't add new files (created on chain-tip) to downloader](https://github.com/erigontech/erigon/issues/16481) - 2025-08-07
+* [Issue] [help qa to write downgrade test](https://github.com/erigontech/erigon/issues/16480) - 2025-08-07
+* [Issue] [follow up: `.kv` not found](https://github.com/erigontech/erigon/issues/16479) - 2025-08-07
 ## Q2 2025
 
 

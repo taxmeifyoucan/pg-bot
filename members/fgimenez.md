@@ -86,6 +86,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [updated EngineApiValidatorBuilder to build EngineApiValidator instead of PayloadValidator, added TreeValidator associated type, and moved provider bounds from trait to implementations](https://github.com/paradigmxyz/reth/commit/19e8eebdcdf99b026298bc5056508aabf9ab144f) - 2025-07-31
 * [Commit] [relax PVB bounds for node ethereum](https://github.com/paradigmxyz/reth/commit/ca40d704f0ce234727e256e96dbef7125107caa5) - 2025-08-01
 * [Commit] [remove redundant EV generic parameter from node add-ons](https://github.com/paradigmxyz/reth/commit/3a6c8a412cf9e72276cebe36e4f10e377cdb6293) - 2025-08-01
+* [Commit] [book](https://github.com/paradigmxyz/reth/commit/7c0cd10b15b56b5c03d312a2d87acc9e05235469) - 2025-08-08
+* [Commit] [book](https://github.com/paradigmxyz/reth/commit/634edcd3b4157c8ce10b07ef65779efd8db31341) - 2025-08-08
+* [Pull Request] [feat(rpc): add Other(String) variant to RethRpcModule for custom RPC modules](https://github.com/paradigmxyz/reth/pull/17758) - 2025-08-08
 ## Q2 2025
 
 

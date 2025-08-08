@@ -21,6 +21,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [add cla check via github (#9729)](https://github.com/Consensys/teku/commit/b35305c1cdff25b1c3b85c148bb33009c9ba8107) - 2025-07-30
 * [Commit] [Update CONTRIBUTING.md (#9732)](https://github.com/Consensys/teku/commit/fff7c69b06756d6d0c6aa6eb64e22f17a78188fa) - 2025-07-31
 * [Pull Request] [Update CONTRIBUTING.md](https://github.com/Consensys/teku/pull/9732) - 2025-07-31
+* [Commit] [Added p2p-discovery-bootnodes-url option (#9752)](https://github.com/Consensys/teku/commit/cf325bd40b3fcda83daf853e3dea6dd01c5f8df1) - 2025-08-07
 ## Q2 2025
 
 

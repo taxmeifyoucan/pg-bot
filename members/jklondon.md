@@ -77,6 +77,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Partial torrentfiles ignoring + more ctx to logs](https://github.com/erigontech/erigon/pull/16474) - 2025-08-06
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/fedd0d38b43a5b09b3f9e10955bc8a4e0fea7b3a) - 2025-08-06
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/df19e5ac926cd43a7f442b2e03cb77254a078932) - 2025-08-06
+* [Commit] [Cherry-Pick: Fulu devnet-3 in Caplin (#16492)](https://github.com/erigontech/erigon/commit/f36e550b5f73002aa4419bd2ace055abc2ced00a) - 2025-08-07
 ## Q2 2025
 
 

@@ -105,6 +105,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/4d80e843f7059fa6102803e8358cc5c7cf4898de) - 2025-08-04
 * [Commit] [update](https://github.com/erigontech/erigon/commit/ed91d5bc645af3454a71ffbdefc8dfc2f87e350e) - 2025-08-06
 * [Commit] [update](https://github.com/erigontech/erigon/commit/6ad1d088b4aec22e396e17d156558721e3bfa1d0) - 2025-08-06
+* [Commit] [update](https://github.com/erigontech/erigon/commit/15cfbdda427502dc18dbca83cba5af9c3095cf12) - 2025-08-07
+* [Commit] [remove milestones from integrity check (#16453)](https://github.com/erigontech/erigon/commit/5a6e24ace813f0d7d42196744c78600e1cbad5bc) - 2025-08-07
 ## Q2 2025
 
 

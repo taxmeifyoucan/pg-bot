@@ -25,6 +25,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Move Paweł Bylica to Erigon](https://github.com/protocolguild/documentation/commit/0864895e9ca4b86cd61bd138e33cafdc0255de95) - 2025-08-04
 * [Commit] [update Amir's GH handle](https://github.com/protocolguild/documentation/commit/f28e719fdb5d86af30ec28f4ffcfb2a288bb876e) - 2025-08-04
 * [Commit] [Add "Prototyping" working group](https://github.com/protocolguild/documentation/commit/1cb237e1ed67ebee26d58b75965e1c97ee325b54) - 2025-08-05
+* [Commit] [Add bridge 2/3 multisigs for Polygon, Shape and Zora](https://github.com/protocolguild/documentation/commit/a21280b2a9bdb19d406df3aa75b4a608aec20538) - 2025-08-07
 ## Q2 2025
 
 

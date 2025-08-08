@@ -24,6 +24,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [EIP-7928: Fix missing nonce change in Concrete Example](https://github.com/ethereum/EIPs/pull/10043) - 2025-07-22
 * [Pull Request] [EIP-7825: Add empirical analysis](https://github.com/ethereum/EIPs/pull/10042) - 2025-07-22
 * [Pull Request] [add system contract logic](https://github.com/ethereum/EIPs/pull/10082) - 2025-07-31
+* [Pull Request] [Update EIP-7862: Add Exec Specs](https://github.com/ethereum/EIPs/pull/10116) - 2025-08-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add Specs: EIP-7928: Block-level Access Lists](https://github.com/ethereum/execution-specs/pull/1338) - 2025-07-21
 

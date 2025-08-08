@@ -55,6 +55,8 @@ Team: Erigon
 * [Commit] [downloader: avoid loading snapshot hashes for unsupported networks (#16348)](https://github.com/erigontech/erigon/commit/82dff46055d78215e7b7c6af778d42404acaac97) - 2025-07-29
 * [Commit] [Faster even](https://github.com/erigontech/erigon/commit/427a51574381184b808af15ab0f2a6baabe1315d) - 2025-08-04
 * [Pull Request] [core/vm: Use 8-byte strides for `allZero`](https://github.com/erigontech/erigon/pull/16441) - 2025-08-04
+* [Pull Request] [ txpool: Add max hashes limit to new_txn_hashes_66 ](https://github.com/erigontech/erigon/pull/16506) - 2025-08-07
+* [Commit] [Fmt](https://github.com/erigontech/erigon/commit/c4a4ed75d95b1010ea14ea265dbeb2086497f286) - 2025-08-07
 ## Q2 2025
 
 

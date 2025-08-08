@@ -62,6 +62,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: select status response container based on version](https://github.com/ChainSafe/lodestar/commit/0c523c088fb49b2dfa2adbf1fe8875b33f5262aa) - 2025-08-06
 * [Commit] [Remove useless comments in tests](https://github.com/ChainSafe/lodestar/commit/84bc17e3cb9cc9c3e9540a32c1222540fc0afd45) - 2025-08-06
 * [Commit] [fix: detect weak head when predicting proposer head (#8079)](https://github.com/ChainSafe/lodestar/commit/ea1977daefa669ebf17d639feb4d8d462ba20db6) - 2025-08-06
+* [Commit] [Fix event name](https://github.com/ChainSafe/lodestar/commit/27230f7de99de743989a5c781c767bf6393a750b) - 2025-08-07
+* [Commit] [fix: select status response container based on version (#8119)](https://github.com/ChainSafe/lodestar/commit/b6ddc3914ca2a6c01dab9efd367bdb34c181f9dc) - 2025-08-07
+* [Commit] [Extract effective balances given a list of validator indices](https://github.com/ChainSafe/lodestar/commit/8c305ebc78141ec102ac5803db3ea6bcb8482439) - 2025-08-07
+* [Commit] [Pass in a list of effective balances](https://github.com/ChainSafe/lodestar/commit/1b27218c21f4bd2fb2c5b0604bebcc68b824a8f7) - 2025-08-07
 ## Q2 2025
 
 

@@ -47,6 +47,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: earliestSlotAvailable -> earliestAvailableSlot (#8120)](https://github.com/ChainSafe/lodestar/commit/00a7126d44df9a70ec0717e4e3dd99d6feea13da) - 2025-08-06
 * [Pull Request] [refactor: earliestSlotAvailable -> earliestAvailableSlot](https://github.com/ChainSafe/lodestar/pull/8120) - 2025-08-06
 * [Commit] [fix: select status response container based on version (#8119)](https://github.com/ChainSafe/lodestar/commit/b6ddc3914ca2a6c01dab9efd367bdb34c181f9dc) - 2025-08-06
+* [Commit] [fix: use deneb for a couple aliased electra types](https://github.com/ChainSafe/lodestar/commit/0fc5c7eec87208e4c46131a9916b3b4b47591859) - 2025-08-07
+* [Pull Request] [feat: clean up fulu types](https://github.com/ChainSafe/lodestar/pull/8146) - 2025-08-07
+* [Pull Request] [fix: peerdas fix interop config](https://github.com/ChainSafe/lodestar/pull/8145) - 2025-08-07
+* [Pull Request] [fix: clean up ReqRespBeaconNode fulu changes](https://github.com/ChainSafe/lodestar/pull/8144) - 2025-08-07
+* [Pull Request] [feat: add extra protocols to exportENRToJSON](https://github.com/ChainSafe/lodestar/pull/8143) - 2025-08-07
+* [Pull Request] [fix: use minimum custody in log](https://github.com/ChainSafe/lodestar/pull/8142) - 2025-08-07
+* [Pull Request] [refactor: update enr comment for cgc](https://github.com/ChainSafe/lodestar/pull/8141) - 2025-08-07
+* [Commit] [fix: remove invalid enr comment](https://github.com/ChainSafe/lodestar/commit/3443699b12237cae185c789e8021a366b7a7c586) - 2025-08-07
 ## Q2 2025
 
 

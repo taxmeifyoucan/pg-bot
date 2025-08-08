@@ -43,6 +43,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Stateless: Build witnesses when executing blocks in forked chain](https://github.com/status-im/nimbus-eth1/pull/3548) - 2025-08-06
 * [Pull Request] [Minor improvement to witness building](https://github.com/status-im/nimbus-eth1/pull/3547) - 2025-08-06
 * [Pull Request] [Set the default rocksdb cache location to the build directory](https://github.com/status-im/nimbus-eth1/pull/3546) - 2025-08-06
+* [Commit] [Update default rocksdb cache dir (#3551)](https://github.com/status-im/nimbus-eth1/commit/ee411adc6063f18138454b759b75892a2521e3a7) - 2025-08-07
+* [Pull Request] [Update default rocksdb cache dir](https://github.com/status-im/nimbus-eth1/pull/3551) - 2025-08-07
+* [Commit] [CI using shared workflow to generate matrix (#3549)](https://github.com/status-im/nimbus-eth1/commit/e12873cec175bed74bacfd4c19177b5b0da704be) - 2025-08-07
+* [Pull Request] [Delete stale values from the shared database LRU caches in persist](https://github.com/status-im/nimbus-eth1/pull/3550) - 2025-08-07
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

@@ -143,6 +143,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Feature/Worldstate backend](https://github.com/NethermindEth/nethermind/pull/9089) - 2025-08-05
 * [Pull Request] [Per contract state](https://github.com/NethermindEth/nethermind/pull/9088) - 2025-08-05
 * [Commit] [WorldState backend](https://github.com/NethermindEth/nethermind/commit/9e0f47160ec86ecc58b0ab3e84a1c5c31daca4f8) - 2025-08-05
+* [Commit] [allow disabling by setting to 0](https://github.com/NethermindEth/nethermind/commit/6c777e27956c9f800b34ff3ea567eb882935800b) - 2025-08-07
+* [Pull Request] [Perf/Non blocking memory pruning](https://github.com/NethermindEth/nethermind/pull/9096) - 2025-08-07
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

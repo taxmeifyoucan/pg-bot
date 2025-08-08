@@ -178,6 +178,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Move span slicing near rent](https://github.com/NethermindEth/nethermind/commit/ff609ddc05e66fdcefc8ef954f9c0f6e65351098) - 2025-08-03
 * [Pull Request] [Optimize EthereumIesEngine](https://github.com/NethermindEth/nethermind/pull/9081) - 2025-08-03
 * [Commit] [Fix eth_config (#9071)](https://github.com/NethermindEth/nethermind/commit/f23ce0026788eee9a231cf1ea792421f2e0d4f0f) - 2025-08-05
+* [Commit] [Parse method](https://github.com/NethermindEth/nethermind/commit/393857acc58ec9d3c97043e18ef2520b9cb7d7a1) - 2025-08-07
+* [Commit] [Explicit types](https://github.com/NethermindEth/nethermind/commit/a0e6a6cbe0ca69443b370b680d6da161481d7a31) - 2025-08-07
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

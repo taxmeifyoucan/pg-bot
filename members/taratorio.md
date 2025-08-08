@@ -96,6 +96,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [dir improvements: move `state` from `erigon-lib` to `db` (#16471)](https://github.com/erigontech/erigon/commit/2245975769f98d971332266ed19cc503b2fd8dcc) - 2025-08-06
 * [Commit] [wip](https://github.com/erigontech/erigon/commit/dcc3af5ee6f2b043e517210c7e14dc60c6ea9803) - 2025-08-06
 * [Commit] [polygon/bor: cleanup dead remnants post recent cleanup (#16444)](https://github.com/erigontech/erigon/commit/df5af922e05eb7d5dd76f0d45395444a8655cec3) - 2025-08-06
+* [Commit] [linter](https://github.com/erigontech/erigon/commit/9e2c2faa3ad5afa0d4b5f72becbfb99393032c76) - 2025-08-07
+* [Pull Request] [txnprovider/shutter: additional tests and fixes for pool cleanup and options handling](https://github.com/erigontech/erigon/pull/16505) - 2025-08-07
+* [Commit] [[main] `TRACE_DELETION ` (#16326) (#16334)](https://github.com/erigontech/erigon/commit/cee4295697522efa83bdeffcba1743f6112a3ef8) - 2025-08-07
+* [Commit] [execution/stagedsync: handle sync loop block limit exhaustion (#16268) (#16484)](https://github.com/erigontech/erigon/commit/7b0ffc3624887bec04abbd0a02b476cf022e9a16) - 2025-08-07
+* [Pull Request] [polygon: use execution server start](https://github.com/erigontech/erigon/pull/16485) - 2025-08-07
+* [Pull Request] [execution/stagedsync: handle sync loop block limit exhaustion (#16268)](https://github.com/erigontech/erigon/pull/16484) - 2025-08-07
 ## Q2 2025
 
 

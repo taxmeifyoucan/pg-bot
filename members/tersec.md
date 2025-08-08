@@ -44,6 +44,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [support getBlobsV2; use getPayloadV5; verify BPO sortedness (#7365)](https://github.com/status-im/nimbus-eth2/commit/2a778206da7dd8943e0484d8371b145dae8d288d) - 2025-08-06
 * [Pull Request] [support getBlobsV2; use getPayloadV5; verify BPO sortedness](https://github.com/status-im/nimbus-eth2/pull/7365) - 2025-08-06
 * [Commit] [add PeerDAS presets (#7359)](https://github.com/status-im/nimbus-eth2/commit/a7dc844962a73b9b8cabcb4a4c41af0a102cde95) - 2025-08-06
+* [Commit] [ensure CStringConv warning is an error (#7370)](https://github.com/status-im/nimbus-eth2/commit/1fd4beeb597c3f575428d9e4fc427f3c88fcec71) - 2025-08-07
+* [Commit] [prune datacolumns (#7369)](https://github.com/status-im/nimbus-eth2/commit/ddb77bd239bf8f651be2161aef324470bddf9c83) - 2025-08-07
+* [Commit] [update nfd ENR field for BPOs (#7368)](https://github.com/status-im/nimbus-eth2/commit/93f3aaeaeea4a070f3c92241a2d8efd47761f384) - 2025-08-07
+* [Pull Request] [ensure CStringConv warning is an error](https://github.com/status-im/nimbus-eth2/pull/7370) - 2025-08-07
+* [Pull Request] [prune datacolumns](https://github.com/status-im/nimbus-eth2/pull/7369) - 2025-08-07
+* [Pull Request] [update nfd ENR field for BPOs](https://github.com/status-im/nimbus-eth2/pull/7368) - 2025-08-07
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

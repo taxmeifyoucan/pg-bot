@@ -112,6 +112,8 @@ Team: Reth
 * [Commit] [fix: execution-apis eth_syncing should return false (#17730)](https://github.com/paradigmxyz/reth/commit/944a5fc19f70ae409a6ac1fcb380991c6d0a3b67) - 2025-08-06
 * [Commit] [std::mem::take recorded_traces](https://github.com/paradigmxyz/reth/commit/31d3c80997f3036c375a9bcf46d4edff5f5f0cc7) - 2025-08-06
 * [Commit] [do not check if coinbase storage was read](https://github.com/paradigmxyz/reth/commit/7c71f71717731f8e919039924a2b02af42f78657) - 2025-08-06
+* [Commit] [stuffssssssss](https://github.com/paradigmxyz/reth/commit/1453ff7158c54c0503442113675069a940bcef8f) - 2025-08-07
+* [Commit] [stuff](https://github.com/paradigmxyz/reth/commit/f59a9ab6e836becfb74961ab917b02937c56c87c) - 2025-08-07
 ## Q2 2025
 
 

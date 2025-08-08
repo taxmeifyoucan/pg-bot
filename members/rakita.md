@@ -138,6 +138,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: remove obsolete RJUMPV comments](https://github.com/bluealloy/revm/commit/7049c578f86063cd95ede824f0b02c5df7fd6d2c) - 2025-08-06
 * [Pull Request] [fix: correct various typos in documentation and comments](https://github.com/bluealloy/revm/pull/2855) - 2025-08-06
 * [Commit] [chore: rm redundant lifetime constraints (#2850)](https://github.com/bluealloy/revm/commit/36e700594b480b075ee394ee7028184ad9135415) - 2025-08-06
+* [Commit] [docs: update outdated opcode memory reference link (#2859)](https://github.com/bluealloy/revm/commit/64ac080bac404f08f118fb07f42c56de1aabb31d) - 2025-08-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

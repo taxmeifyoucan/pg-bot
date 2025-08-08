@@ -20,6 +20,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [don't store conversion state in genesis db in this PR](https://github.com/gballet/go-ethereum/commit/a483135b2b5d39d47a783c9409b44fd08e62306d) - 2025-08-04
 * [Commit] [fix: further key computation fixes](https://github.com/gballet/go-ethereum/commit/2c3814687e88ce0c0f490cce481e85082a343ffd) - 2025-08-05
 * [Commit] [fix sha256 hashing](https://github.com/gballet/go-ethereum/commit/ba1ad7f846dd155e049a181348ab8468782c77c8) - 2025-08-06
+* [Commit] [fix: don't try to load empty nodes](https://github.com/gballet/go-ethereum/commit/baea4d89eece681a0af3c492a27c3b3456cc5ac6) - 2025-08-07
 ## Q2 2025
 
 

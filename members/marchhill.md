@@ -120,6 +120,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [update peerinfo](https://github.com/NethermindEth/nethermind/commit/9623817b7746ea2213c2698578819134f143334e) - 2025-08-06
 * [Commit] [update sync server to latest master](https://github.com/NethermindEth/nethermind/commit/de853f14fb472f3394ed3f4665b4ea0b75cf5cdb) - 2025-08-06
 * [Commit] [add back bit of test](https://github.com/NethermindEth/nethermind/commit/d56da8e5af422614be67573f7f6e1145c4e3714f) - 2025-08-06
+* [Commit] [remove BlockAcceptingNewBlocks](https://github.com/NethermindEth/nethermind/commit/29208a570d4aa993858f26095627f3eebd3f244e) - 2025-08-07
+* [Commit] [Fix eth_config (#9071)](https://github.com/NethermindEth/nethermind/commit/f23ce0026788eee9a231cf1ea792421f2e0d4f0f) - 2025-08-07
+* [Commit] [try fix sync tests](https://github.com/NethermindEth/nethermind/commit/7b146f71fc81a8a76ccb1178278cd97c41c8b4b4) - 2025-08-07
 ## Q2 2025
 
 

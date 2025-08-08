@@ -20,6 +20,8 @@ Team: Geth
 * [Pull Request] [accounts/abi:  fix abigen v1 bindings for deployment of library dependencies](https://github.com/ethereum/go-ethereum/pull/32164) - 2025-07-08
 * [Commit] [ethclient/gethclient: remove race condition in tests (#32206)](https://github.com/ethereum/go-ethereum/commit/90a098904f552ee722b0d0d5eccb3500d90a85a8) - 2025-07-14
 * [Pull Request] [Block access list changes - BAL construction, execution and validation](https://github.com/ethereum/go-ethereum/pull/32263) - 2025-07-23
+* [Pull Request] [core/vm: modexp fix for 7823](https://github.com/ethereum/go-ethereum/pull/32363) - 2025-08-07
+* [Commit] [go.mod: upgraded github.com/golang-jwt/jwt/v4 v4.5.1 => v4.5.2 (#32356)](https://github.com/ethereum/go-ethereum/commit/e7189b59871931cb15747db376ce7dcc595f7f9a) - 2025-08-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [eip-7928:  don't enclose individual storage reads in a container](https://github.com/ethereum/EIPs/pull/9977) - 2025-07-03
 ## Q2 2025

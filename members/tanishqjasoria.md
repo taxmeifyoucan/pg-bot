@@ -20,6 +20,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [merge master](https://github.com/NethermindEth/nethermind/commit/002f0e38d637477e7c1e929aa6a8a1cd289afd12) - 2025-07-25
 * [Commit] [Merge feature/arbitrum-setup](https://github.com/NethermindEth/nethermind/commit/eb728975dd69f3a2cd1300b35ffbba42fa2d3cd9) - 2025-07-25
 * [Commit] [keep VirtualMachineBase in the same file (#9033)](https://github.com/NethermindEth/nethermind/commit/70a269eeb34126a01a2a7d34955721aa5386a4b9) - 2025-07-25
+* [Commit] [add make file](https://github.com/NethermindEth/nethermind/commit/23e80b53e988683206338abe17fc57af1d8ca4f8) - 2025-08-07
 ## Q2 2025
 
 

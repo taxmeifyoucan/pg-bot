@@ -39,6 +39,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Added performance test for rate tracker](https://github.com/Consensys/teku/pull/9748) - 2025-08-06
 * [Pull Request] [added documentation to safe future finishes](https://github.com/Consensys/teku/pull/9747) - 2025-08-06
 * [Commit] [proof of concept for alternative to ifExceptionGetsHereRaiseABug (#9726)](https://github.com/Consensys/teku/commit/a481442ddab9399149381b67bff5494461103313) - 2025-08-06
+* [Commit] [Moved capella fork epoch and version to specConfigPhase0 (#9754)](https://github.com/Consensys/teku/commit/472175a9e9ff2713761e17e1bb8be8819c8c4b15) - 2025-08-07
+* [Commit] [added documentation to safe future finishes (#9747)](https://github.com/Consensys/teku/commit/dfd3435030d6911485fe5e18daca0bc76d0cf4c6) - 2025-08-07
+* [Pull Request] [Moved capella fork epoch and version to specConfigPhase0](https://github.com/Consensys/teku/pull/9754) - 2025-08-07
+* [Commit] [moved bellatrix epoch and version to base spec config (#9750)](https://github.com/Consensys/teku/commit/7dea3be094f9f7deaf0abdabdca4ad6715bd6939) - 2025-08-07
 ## Q2 2025
 
 

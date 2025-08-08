@@ -51,6 +51,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [[BESU-8973] Display configured target-gas-limit in startup logs (#8998)](https://github.com/hyperledger/besu/commit/333951232e0237b911386817ac80bad87ca5d33b) - 2025-08-04
 * [Commit] [Feat: add gas usage metric on eth_call (#9019)](https://github.com/hyperledger/besu/commit/23d7919c5bdacea710cf6feb201ff7a53c4e0247) - 2025-08-05
 * [Commit] [use dummy coinbase in simulation if not defined (#9031)](https://github.com/hyperledger/besu/commit/2a0b0ddc98d8614aad9bb1db99a29642d4764f61) - 2025-08-05
+* [Commit] [sonarcloud failing due to deprecated actions/cache version (#9036)](https://github.com/hyperledger/besu/commit/7ad38866298dc510932d82ce0412b085c4c64ade) - 2025-08-07
+* [Issue] [Release 25.8.0](https://github.com/hyperledger/besu/issues/9041) - 2025-08-07
+* [Commit] [Removed BlockExplorer and AbstractBlockScheduler due single implementation. (#9026)](https://github.com/hyperledger/besu/commit/2ae348dbbfd559263b4496255ef600a42f8258d4) - 2025-08-07
 ## Q2 2025
 
 

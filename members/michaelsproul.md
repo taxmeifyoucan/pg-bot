@@ -32,6 +32,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Fix Clippy for Rust 1.90 beta](https://github.com/sigp/lighthouse/pull/7826) - 2025-08-05
 * [Commit] [Fix duplication of compression code](https://github.com/sigp/lighthouse/commit/6548b686e9af805df59d0880d6edfd2fc3ccefb7) - 2025-08-05
 * [Issue] [Extend fork choice debug endpoint with extra data](https://github.com/sigp/lighthouse/issues/7829) - 2025-08-06
+* [Commit] [Add metric for SSZ encoding time](https://github.com/sigp/lighthouse/commit/4f8c76f7a5e4c124e282a646afca67fa913cd080) - 2025-08-07
+* [Issue] [Attestation verification access of `fork_choice` lock is racey](https://github.com/sigp/lighthouse/issues/7839) - 2025-08-07
+* [Commit] [Add metric for compression time](https://github.com/sigp/lighthouse/commit/d0613bacdd64c70c36983ee543a7bca11b95587b) - 2025-08-07
+* [Commit] [Filter dependencies from SSE logging (#7819)](https://github.com/sigp/lighthouse/commit/2f59d5208a1f5d89ea8b09a0c5fbbd5988d991d7) - 2025-08-07
 ## Q2 2025
 
 

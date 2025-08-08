@@ -32,6 +32,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Backport `eth2_libp2p` related to PeerDAS](https://github.com/grandinetech/grandine/pull/283) - 2025-07-31
 * [Pull Request] [Fix rpc_blob_limits](https://github.com/grandinetech/grandine/pull/284) - 2025-08-01
 * [Commit] [Add more PeerDAS metrics](https://github.com/grandinetech/grandine/commit/99c609a1e264f2ecb98d3540ff3534d2b6f5ecb5) - 2025-08-04
+* [Pull Request] [Fix incorrect data columns by root requests](https://github.com/grandinetech/grandine/pull/288) - 2025-08-07
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

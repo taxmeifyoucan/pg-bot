@@ -44,6 +44,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [[fusaka-devnet-3] Merge main (#9028)](https://github.com/hyperledger/besu/commit/947ec723056eaf48f536ff32e0be3d399a0b1a7e) - 2025-08-02
 * [Pull Request] [[fusaka-devnet-3] Merge main](https://github.com/hyperledger/besu/pull/9028) - 2025-08-02
 * [Commit] [Use system call for beacon root (#8982)](https://github.com/hyperledger/besu/commit/a007852fd0b050d2599ef9586c1d09fca517857f) - 2025-08-05
+* [Pull Request] [feat(plugins): Expose P2P network events ](https://github.com/hyperledger/besu/pull/9039) - 2025-08-07
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025

@@ -68,6 +68,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Add logs; add dotnetty](https://github.com/NethermindEth/nethermind/commit/0df6e7b9b48d66249006300a798fff72bedb3c89) - 2025-07-31
 * [Commit] [Add test](https://github.com/NethermindEth/nethermind/commit/d67b52c82676ebc609ae7956a1e7a7406b9c4a59) - 2025-08-04
 * [Commit] [Feature/worldstate benchmark (#9051)](https://github.com/NethermindEth/nethermind/commit/b509176242b60736a2449030aa86d169f9ab2d0c) - 2025-08-04
+* [Commit] [Test/Disambiguate TxPool Constructor (#9027)](https://github.com/NethermindEth/nethermind/commit/0ac6feee59e8e775c0145abc3fc0cc961bec2ecc) - 2025-08-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

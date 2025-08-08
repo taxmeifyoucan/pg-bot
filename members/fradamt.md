@@ -16,6 +16,7 @@ Team: Consensus R&D (EF)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Update EIP-7732 fork-choice](https://github.com/ethereum/consensus-specs/pull/4450) - 2025-07-18
+* [Pull Request] [Do not deduplicate indexed_payload_attestations](https://github.com/ethereum/consensus-specs/pull/4496) - 2025-08-07
 ## Q2 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

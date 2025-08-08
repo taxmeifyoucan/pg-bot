@@ -37,6 +37,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpcademon: update rpc test version to 1.72 (includes some extra test on latest)](https://github.com/erigontech/erigon/pull/16418) - 2025-08-02
 * [Pull Request] [rpcdaemon: add blockTimestamp field on Log for eth_getLogs](https://github.com/erigontech/erigon/pull/16417) - 2025-08-02
 * [Commit] [update rpc test version](https://github.com/erigontech/erigon/commit/6498a2ee69746ec71fafc795235eb8983c508205) - 2025-08-05
+* [Commit] [update rpc-test to 1.75](https://github.com/erigontech/erigon/commit/484850337ac32aafbe0c95d22176a568a75bd3db) - 2025-08-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
@@ -51,6 +52,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration_test: eth_getBlockReceipts with blockTimestamp](https://github.com/erigontech/rpc-tests/pull/422) - 2025-07-29
 * [Pull Request] [rpcdaemon: poligon chain debug_tarceTransaction returnValue with 0x](https://github.com/erigontech/rpc-tests/pull/421) - 2025-07-29
 * [Pull Request] [integration_test: blockTimetsamp is on log info not header](https://github.com/erigontech/rpc-tests/pull/423) - 2025-07-31
+* [Commit] [fix reghression on filename format (#429)](https://github.com/erigontech/rpc-tests/commit/1df707cb77179e286be91916014a56f3e746abd1) - 2025-08-07
+* [Pull Request] [integration_test: fix regression on filename format](https://github.com/erigontech/rpc-tests/pull/429) - 2025-08-07
+* [Commit] [integration_test: Add refund field on debug_ (#428)](https://github.com/erigontech/rpc-tests/commit/9a56cade881b286a5e4701e7c2cc3050fcc1e0f5) - 2025-08-07
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -143,6 +143,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [update entry point](https://github.com/status-im/nimbus-eth1/commit/ba2d244860466fe6eaff5af49f71ccb0d65e0f53) - 2025-08-06
 * [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/42855b0176f9643607dea01384a214006ca906e4) - 2025-08-06
 * [Commit] [Docker base image rework (#3541)](https://github.com/status-im/nimbus-eth1/commit/58009090041183e7c940f68d372250863dbc610a) - 2025-08-06
+* [Commit] [Return of tagged release CI (#3552)](https://github.com/status-im/nimbus-eth1/commit/71959d4984a2e151ff1bfbb874b8b876aaa8f23b) - 2025-08-07
+* [Commit] [Fixes](https://github.com/status-im/nimbus-eth1/commit/fb77b985a3cb568be401a17b5d645e6b6347846c) - 2025-08-07
+* [Commit] [Fixes](https://github.com/status-im/nimbus-eth1/commit/63ee3f508605c5de6726569ae3745f64fed910e1) - 2025-08-07
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/42aeb2acc12eb0db6f77bb27e8c9348bdc8df85d) - 2025-08-07
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

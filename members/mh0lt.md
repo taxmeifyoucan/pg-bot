@@ -144,6 +144,10 @@ Team: Erigon
 * [Commit] [check printer](https://github.com/erigontech/erigon/commit/ab58d77ca5de183277ade00b4513a8684e74ca65) - 2025-08-06
 * [Commit] [check printer](https://github.com/erigontech/erigon/commit/817af62591aaa0eeecf6bff9509a9c4c235b34cc) - 2025-08-06
 * [Commit] [any map change triggers a dep panic](https://github.com/erigontech/erigon/commit/0fd2a9f9d379da4eb20473f272f546f6ccd64548) - 2025-08-06
+* [Commit] [print commited  block](https://github.com/erigontech/erigon/commit/9b759361550098065e4e4c9214aa04c018e7f9d8) - 2025-08-07
+* [Commit] [print dom block](https://github.com/erigontech/erigon/commit/9166ae347528a4d9b55e4cf246c26fa1cf5b2f2a) - 2025-08-07
+* [Commit] [tracer: fix prestates for EIP7702 transactions (#16016)](https://github.com/erigontech/erigon/commit/9fd2fc8efa7a9207f8b3a3a5b33c2bb0169ed3cb) - 2025-08-07
+* [Commit] [flushed block no](https://github.com/erigontech/erigon/commit/26d6f3cd982dd70af9557903389145ddefcafd16) - 2025-08-07
 ## Q2 2025
 
 

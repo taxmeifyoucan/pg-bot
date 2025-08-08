@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 ## Contributions
 
+## Q3 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Skip header validation if the chain is POS](https://github.com/hyperledger/besu/pull/9038) - 2025-08-07
 ## Q2 2025
 
 

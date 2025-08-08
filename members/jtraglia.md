@@ -36,6 +36,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [eip7805: fix cutoff config typo (#4490)](https://github.com/ethereum/consensus-specs/commit/35f8191a923706e5f702267b555be65593613d59) - 2025-08-06
 * [Commit] [Add EIP-7916 ProgressiveBitlist specs and tests (#4480)](https://github.com/ethereum/consensus-specs/commit/3ea53df2b939c95e338cac41f0ea4c871b62cdc9) - 2025-08-06
 * [Commit] [eip7805: remove unnecessary equivocation filter (#4492)](https://github.com/ethereum/consensus-specs/commit/d92b1b9fdcd782c36df1e40a19924362a85383ee) - 2025-08-06
+* [Commit] [Disable payload attestation tests on mainnet (#4495)](https://github.com/ethereum/consensus-specs/commit/ad36024441cf910d428d03f87f331fbbd2b3e5f1) - 2025-08-07
+* [Pull Request] [Disable payload attestation tests on mainnet](https://github.com/ethereum/consensus-specs/pull/4495) - 2025-08-07
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

@@ -17,6 +17,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add next fork digest (nfd) entry to ENR (#8023)](https://github.com/ChainSafe/lodestar/commit/417cd4b766857d6db50986517b6df59d58df7fb0) - 2025-07-17
 * [Commit] [Fix merge](https://github.com/ChainSafe/lodestar/commit/ab4bbb1071b12ce1e5a857e15a96d2edc6cfbace) - 2025-07-17
 * [Commit] [chore: add electra fork constants to unscheduled networks (#7401)](https://github.com/ChainSafe/lodestar/commit/5b8e82138896a1dc6c688624fe64901366532dd4) - 2025-07-17
+* [Commit] [fix: handle case if engine or builder is pending with the other disabled (#8113)](https://github.com/ChainSafe/lodestar/commit/af1f74c2cd4af67a1c46d4e01e7377b381e72603) - 2025-08-07
 ## Q2 2025
 
 
