@@ -47,6 +47,11 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Update default rocksdb cache dir](https://github.com/status-im/nimbus-eth1/pull/3551) - 2025-08-07
 * [Commit] [CI using shared workflow to generate matrix (#3549)](https://github.com/status-im/nimbus-eth1/commit/e12873cec175bed74bacfd4c19177b5b0da704be) - 2025-08-07
 * [Pull Request] [Delete stale values from the shared database LRU caches in persist](https://github.com/status-im/nimbus-eth1/pull/3550) - 2025-08-07
+* [Commit] [Use array instead of seq as NodesCache value.](https://github.com/status-im/nimbus-eth1/commit/6883ef4de270f507cfe6b800a1fa802a7ec0738a) - 2025-08-08
+* [Commit] [Return of tagged release CI (#3552)](https://github.com/status-im/nimbus-eth1/commit/71959d4984a2e151ff1bfbb874b8b876aaa8f23b) - 2025-08-08
+* [Pull Request] [Stateless: Improve performance of building witnesses by caching rlp nodes when building proofs](https://github.com/status-im/nimbus-eth1/pull/3553) - 2025-08-08
+* [Commit] [Set the default rocksdb cache location to the build directory. (#3546)](https://github.com/status-im/nimbus-eth1/commit/340099c160865d67e5291ed54612b350a285b426) - 2025-08-08
+* [Commit] [Refactor so that only one boolean check is required.](https://github.com/status-im/nimbus-eth1/commit/b08ad8d06882ee2a275a56033b3a642f3344cfbb) - 2025-08-08
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

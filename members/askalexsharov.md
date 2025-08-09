@@ -605,6 +605,19 @@ Team: Erigon
 * [Issue] [can't add new files (created on chain-tip) to downloader](https://github.com/erigontech/erigon/issues/16481) - 2025-08-07
 * [Issue] [help qa to write downgrade test](https://github.com/erigontech/erigon/issues/16480) - 2025-08-07
 * [Issue] [follow up: `.kv` not found](https://github.com/erigontech/erigon/issues/16479) - 2025-08-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d31ec55242901b602e1abcf6c24048754c515912) - 2025-08-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ae7e62eef8ac99e34f717fb43c0ba252eb29766c) - 2025-08-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a328315bc506ba69097d0111a64f2efce32f006e) - 2025-08-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2611f54278233272876f8f46a59b513b34687533) - 2025-08-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/87674b1dd18098fc4ec0af58cd1567688f739d8c) - 2025-08-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/84e385c71e510975647db55b0eceb77274cf2e25) - 2025-08-08
+* [Commit] [Log  Erigon Startup command (#16513)](https://github.com/erigontech/erigon/commit/e65a9b5ac127587de9d456be91da7c204fb6eab1) - 2025-08-08
+* [Commit] [Run CI tests with `-race` only after PR is merged (#16445)](https://github.com/erigontech/erigon/commit/5bd051081d4b908eb01868a65dec539719d53e32) - 2025-08-08
+* [Commit] [[main] `TRACE_DELETION ` (#16326) (#16334)](https://github.com/erigontech/erigon/commit/cee4295697522efa83bdeffcba1743f6112a3ef8) - 2025-08-08
+* [Commit] [[r3.1] downgrade now remove new version unsupported files (#16493)](https://github.com/erigontech/erigon/commit/193a2f4e73e46394caaf77d76055151df8b122e9) - 2025-08-08
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/a67b1f3b2e800633622b1ff38755dac3680ccc41) - 2025-08-08
+* [Commit] [dir improvements: move `snaptype` from `erigon-lib` to `db` (#16501)](https://github.com/erigontech/erigon/commit/e8998d28ef9ed2d7f2115bf7c1bd46eeecedc972) - 2025-08-08
+* [Commit] [ChainSpec: all and everything at once (#15974)](https://github.com/erigontech/erigon/commit/dffc9ebc9b708c484c6df06c36af7bb2bac8d588) - 2025-08-08
 ## Q2 2025
 
 

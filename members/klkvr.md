@@ -71,6 +71,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [bump alloy-evm](https://github.com/paradigmxyz/reth/commit/f92d168cf6cb8883c5fa39d0f64e6154d8d99201) - 2025-08-05
 * [Commit] [bump alloy-evm](https://github.com/paradigmxyz/reth/commit/befae47c5021b588f64d971d2d9e8ab1ffcd3efd) - 2025-08-05
 * [Commit] [engine feature](https://github.com/paradigmxyz/reth/commit/3e52d4835dbeff6e730c718437a709d991f84f7c) - 2025-08-05
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [feat: impl inspector for tuple](https://github.com/bluealloy/revm/pull/2871) - 2025-08-08
 ## Q2 2025
 
 

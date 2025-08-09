@@ -78,6 +78,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/fedd0d38b43a5b09b3f9e10955bc8a4e0fea7b3a) - 2025-08-06
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/df19e5ac926cd43a7f442b2e03cb77254a078932) - 2025-08-06
 * [Commit] [Cherry-Pick: Fulu devnet-3 in Caplin (#16492)](https://github.com/erigontech/erigon/commit/f36e550b5f73002aa4419bd2ace055abc2ced00a) - 2025-08-07
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/93b75f6a052a0cb12f0fbc35e646996ec0d172c5) - 2025-08-08
+* [Commit] [remove milestones from integrity check (#16453)](https://github.com/erigontech/erigon/commit/5a6e24ace813f0d7d42196744c78600e1cbad5bc) - 2025-08-08
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/60c8ccef22089251e9008bfc3f52e6389cab0b23) - 2025-08-08
 ## Q2 2025
 
 

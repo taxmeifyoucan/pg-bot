@@ -52,6 +52,18 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [added some fixes](https://github.com/status-im/nimbus-eth2/commit/cc306fb09a61f87c53d06ba5eb6dc88105849db3) - 2025-08-02
 * [Commit] [initialize er and ea slot with local head slot](https://github.com/status-im/nimbus-eth2/commit/95a9f0c437049e666d9ef64dc2936e4b6e006fb9) - 2025-08-04
 * [Commit] [Bump nimbus-build-system to e6c2c9da39c2d368d9cf420ac22692e99715d22c (#7337)](https://github.com/status-im/nimbus-eth2/commit/74289bf6cd5962b3d53a112892067a06e7396fd6) - 2025-08-06
+* [Commit] [rm unused var](https://github.com/status-im/nimbus-eth2/commit/eb230403b9ab91454d4a2ceba33c93151701ca01) - 2025-08-08
+* [Commit] [replace with bpo blob count getter](https://github.com/status-im/nimbus-eth2/commit/422e8bc40a9424214bb42e744e89db911b49f99d) - 2025-08-08
+* [Commit] [nodeId](https://github.com/status-im/nimbus-eth2/commit/50d3f985c9c3837a0b56ed34ddcbd1567109c74e) - 2025-08-08
+* [Commit] [epochSlot](https://github.com/status-im/nimbus-eth2/commit/439a804a2ac1e00e79bf44ff546ff7b253e9a37f) - 2025-08-08
+* [Commit] [remove unused start slot](https://github.com/status-im/nimbus-eth2/commit/d314228b6d15afac0cefe6b97b520730db61b81d) - 2025-08-08
+* [Commit] [remove minDa](https://github.com/status-im/nimbus-eth2/commit/62bdc7f4be05735597772ae653a5b7a61df7aa41) - 2025-08-08
+* [Commit] [custodyColumns](https://github.com/status-im/nimbus-eth2/commit/0b5fedb7be6644c316e28c6fb67f8ad512d56cc0) - 2025-08-08
+* [Commit] [fix some debugEchos](https://github.com/status-im/nimbus-eth2/commit/882fe1a7430bead33b822f7d695101822138ac19) - 2025-08-08
+* [Commit] [fix indent](https://github.com/status-im/nimbus-eth2/commit/325e6203d2e5f1c5b000a17185d06ead6d549538) - 2025-08-08
+* [Commit] [more cfork < fulu fixes](https://github.com/status-im/nimbus-eth2/commit/5d30716c273d5f1b1499b4477223b6d7ab66b74f) - 2025-08-08
+* [Commit] [removed redundant whitespaces from eth2processor](https://github.com/status-im/nimbus-eth2/commit/cabe9cbf65f428a36991417b48982ba6e81834f8) - 2025-08-08
+* [Commit] [resolve wss sim review](https://github.com/status-im/nimbus-eth2/commit/fc5cd14bf73bc74b1cc376f112889ae3c1963c7b) - 2025-08-08
 ## Q2 2025
 
 

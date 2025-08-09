@@ -148,6 +148,9 @@ Team: Erigon
 * [Commit] [print dom block](https://github.com/erigontech/erigon/commit/9166ae347528a4d9b55e4cf246c26fa1cf5b2f2a) - 2025-08-07
 * [Commit] [tracer: fix prestates for EIP7702 transactions (#16016)](https://github.com/erigontech/erigon/commit/9fd2fc8efa7a9207f8b3a3a5b33c2bb0169ed3cb) - 2025-08-07
 * [Commit] [flushed block no](https://github.com/erigontech/erigon/commit/26d6f3cd982dd70af9557903389145ddefcafd16) - 2025-08-07
+* [Commit] [print commited  block](https://github.com/erigontech/erigon/commit/303913e0185f24310c6dca59830a180594530c27) - 2025-08-08
+* [Commit] [print commited  block](https://github.com/erigontech/erigon/commit/ccfa69e13ad12ce96c30ccba5fb996b8dfc688da) - 2025-08-08
+* [Commit] [print commited  block](https://github.com/erigontech/erigon/commit/4d422c73f706482c9bad93abea3d87848ee16464) - 2025-08-08
 ## Q2 2025
 
 

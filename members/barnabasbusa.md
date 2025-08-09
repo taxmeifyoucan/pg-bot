@@ -39,6 +39,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Update mev-relay-1.yaml](https://github.com/ethpandaops/template-devnets/commit/9d8308496e7afaf87947b0156711eead6e25d972) - 2025-08-05
 * [Commit] [Update reth.yaml](https://github.com/ethpandaops/template-devnets/commit/a9108b661699d9ff1f45df9dea906a188e0693c8) - 2025-08-05
 * [Commit] [Update geth.yaml](https://github.com/ethpandaops/template-devnets/commit/af08803981d417dd863e13d6e2dbbd07e756f5b7) - 2025-08-05
+* [Commit] [Update firewall.tf](https://github.com/ethpandaops/template-devnets/commit/90a965d6144a5f679bd7018ada012e06d9dc130b) - 2025-08-08
+* [Commit] [Update digitalocean.tf](https://github.com/ethpandaops/template-devnets/commit/d29e1c0f14a1101c031f98e677962e2b892b6c0c) - 2025-08-08
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Commit] [fix go fmt](https://github.com/ethpandaops/dora/commit/15708132cc1c9e5bf1000766b5a7076e22819a00) - 2025-08-04
 * [Commit] [fixes](https://github.com/ethpandaops/dora/commit/d05bca8af70ae490a6a2bc7f8a0847209f4a2003) - 2025-08-04

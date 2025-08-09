@@ -13,6 +13,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [eth_getLogs configurable address limit](https://github.com/ethereum/go-ethereum/issues/32264) - 2025-07-23
+* [Issue] [EIP-6780 selfdestruct tracing behaviour](https://github.com/ethereum/go-ethereum/issues/32376) - 2025-08-08
 ## Q2 2025
 
 

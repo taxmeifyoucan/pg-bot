@@ -55,6 +55,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: use minimum custody in log](https://github.com/ChainSafe/lodestar/pull/8142) - 2025-08-07
 * [Pull Request] [refactor: update enr comment for cgc](https://github.com/ChainSafe/lodestar/pull/8141) - 2025-08-07
 * [Commit] [fix: remove invalid enr comment](https://github.com/ChainSafe/lodestar/commit/3443699b12237cae185c789e8021a366b7a7c586) - 2025-08-07
+* [Issue] [[Descriptive title] Investigate how to better track attached validators for custody](https://github.com/ChainSafe/lodestar/issues/8156) - 2025-08-08
+* [Commit] [fix: use correct case for log object prop](https://github.com/ChainSafe/lodestar/commit/f51e198ea390ef79102536d0e033f7eef127e289) - 2025-08-08
+* [Commit] [fix: return type](https://github.com/ChainSafe/lodestar/commit/93ba023b864e7a1e9b95c8ac52468a9129d2979f) - 2025-08-08
+* [Commit] [fix: log pre fulu archive (#8137)](https://github.com/ChainSafe/lodestar/commit/70a92149079654d6e0cc6537dc54b84898d453c7) - 2025-08-08
+* [Commit] [fix: comment and log statement](https://github.com/ChainSafe/lodestar/commit/1ddec9e08ffed0229bad6c34847e1c6a82e8caa6) - 2025-08-08
+* [Commit] [fix: explicit type](https://github.com/ChainSafe/lodestar/commit/2ab1f03cf88def1b32dc751563558f94093b4e8e) - 2025-08-08
 ## Q2 2025
 
 

@@ -18,6 +18,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix correct TaikoL2Address for hekla and surge-hoodi](https://github.com/NethermindEth/nethermind/commit/919b7414b227244ec95521a3850e9ec8b0743620) - 2025-08-06
 * [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/937e86d0f9dc5905ddc9e22662be1de721a44b47) - 2025-08-06
 * [Commit] [fix anchor not being verified correctly](https://github.com/NethermindEth/nethermind/commit/e9643f7f9e367ecdc0e2246eaa2a13b3f106195b) - 2025-08-06
+* [Commit] [Fix Taiko Anchor Transaction Validation (#9092)](https://github.com/NethermindEth/nethermind/commit/d4bd1a27a3a67fabb2155fe06e303b35e31cf839) - 2025-08-08
+* [Commit] [minor](https://github.com/NethermindEth/nethermind/commit/92db2f533040ce94ff6a20098ddbadecd4d24254) - 2025-08-08
+* [Commit] [better solution to the sender problem](https://github.com/NethermindEth/nethermind/commit/01c1bb470761a0778cce8181c7d0cd8e17ba10a5) - 2025-08-08
 ## Q2 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

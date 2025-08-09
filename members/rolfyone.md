@@ -43,6 +43,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [added documentation to safe future finishes (#9747)](https://github.com/Consensys/teku/commit/dfd3435030d6911485fe5e18daca0bc76d0cf4c6) - 2025-08-07
 * [Pull Request] [Moved capella fork epoch and version to specConfigPhase0](https://github.com/Consensys/teku/pull/9754) - 2025-08-07
 * [Commit] [moved bellatrix epoch and version to base spec config (#9750)](https://github.com/Consensys/teku/commit/7dea3be094f9f7deaf0abdabdca4ad6715bd6939) - 2025-08-07
+* [Issue] [remove basic auth stripping from the VC](https://github.com/Consensys/teku/issues/9755) - 2025-08-08
+* [Commit] [refactored out ApprovedRequest (#9753)](https://github.com/Consensys/teku/commit/8562dc40c935e92d33d3604b2ea159bfe9bd1f93) - 2025-08-08
 ## Q2 2025
 
 

@@ -57,6 +57,8 @@ Team: Erigon
 * [Pull Request] [core/vm: Use 8-byte strides for `allZero`](https://github.com/erigontech/erigon/pull/16441) - 2025-08-04
 * [Pull Request] [ txpool: Add max hashes limit to new_txn_hashes_66 ](https://github.com/erigontech/erigon/pull/16506) - 2025-08-07
 * [Commit] [Fmt](https://github.com/erigontech/erigon/commit/c4a4ed75d95b1010ea14ea265dbeb2086497f286) - 2025-08-07
+* [Commit] [ txpool: Add max hashes limit to new_txn_hashes_66  (#16506)](https://github.com/erigontech/erigon/commit/051005d3dc68ace52c0838cb6d8e7ed102e97ab1) - 2025-08-08
+* [Commit] [Update limit](https://github.com/erigontech/erigon/commit/56016f364c1002327a774c08a2f2d7d1da0db186) - 2025-08-08
 ## Q2 2025
 
 

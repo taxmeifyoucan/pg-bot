@@ -123,6 +123,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [remove BlockAcceptingNewBlocks](https://github.com/NethermindEth/nethermind/commit/29208a570d4aa993858f26095627f3eebd3f244e) - 2025-08-07
 * [Commit] [Fix eth_config (#9071)](https://github.com/NethermindEth/nethermind/commit/f23ce0026788eee9a231cf1ea792421f2e0d4f0f) - 2025-08-07
 * [Commit] [try fix sync tests](https://github.com/NethermindEth/nethermind/commit/7b146f71fc81a8a76ccb1178278cd97c41c8b4b4) - 2025-08-07
+* [Commit] [don't use blockstore directly](https://github.com/NethermindEth/nethermind/commit/4c5c6308a3708b19cdd4fc812acd663dc3e4f3d4) - 2025-08-08
+* [Commit] [don't use blockstore directly](https://github.com/NethermindEth/nethermind/commit/57c75fb5af60edf06388014e36f7dffaefa82e3c) - 2025-08-08
+* [Commit] [keep blockinfos and headers](https://github.com/NethermindEth/nethermind/commit/2d87038db1182924bbb3bb09e6ca6cf9bdd16ecd) - 2025-08-08
 ## Q2 2025
 
 

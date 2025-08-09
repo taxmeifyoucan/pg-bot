@@ -29,6 +29,8 @@ Team: Grandine
 * [Commit] [Allow to compute states one epoch further in the future if current slot is the last slot in the epoch](https://github.com/grandinetech/grandine/commit/668116b056241ccc860fe857ab4158aad2fd662a) - 2025-07-24
 * [Pull Request] [Backfill custody group columns](https://github.com/grandinetech/grandine/pull/274) - 2025-07-25
 * [Pull Request] [HTTP API waiting for block events](https://github.com/grandinetech/grandine/pull/289) - 2025-08-07
+* [Pull Request] [Wait for head to become fully verified before starting local validator attest duty](https://github.com/grandinetech/grandine/pull/291) - 2025-08-08
+* [Commit] [Modified fork choice event broadcast mechanism (that is used in beacon node events endpoint) to be more generic](https://github.com/grandinetech/grandine/commit/a9c4315fbd1eec64f1c49a5ed0bfe91ba84773bb) - 2025-08-08
 ## Q2 2025
 
 

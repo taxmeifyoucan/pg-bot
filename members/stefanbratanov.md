@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Dependency sweep (#9683)](https://github.com/Consensys/teku/commit/3f31a217637480935449898c1a0e2d7cd23f7f0e) - 2025-07-22
 * [Pull Request] [[EIP-7892] BPO changes (fusaka-devnet-2)](https://github.com/Consensys/teku/pull/9706) - 2025-07-24
 * [Pull Request] [Adapt testFixtures for Fulu](https://github.com/Consensys/teku/pull/9751) - 2025-08-06
+* [Commit] [Adapt testFixtures for Fulu + integration tests (#9751)](https://github.com/Consensys/teku/commit/b15588cb8070ffe373de3f8be8f721ed65051aa3) - 2025-08-08
 ## Q2 2025
 
 

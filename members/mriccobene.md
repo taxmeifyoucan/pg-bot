@@ -41,6 +41,8 @@ Team: Erigon
 * [Commit] [fix dir in downgrade section, uncomment explicit upgrade section](https://github.com/erigontech/erigon/commit/f47d2b866c9239a2f676cfbc18717a6eba7e9dc9) - 2025-08-01
 * [Commit] [bump rpc-test version](https://github.com/erigontech/erigon/commit/ee24d786bf70e9da0ad5f1c1b6e3e63966f59b49) - 2025-08-01
 * [Commit] [move datadir listing to specific tasks](https://github.com/erigontech/erigon/commit/25df2b53170d24613e36ca0def2c89ebd0673233) - 2025-08-06
+* [Commit] [qa-tests: tip tracking with downgrade (#16354)](https://github.com/erigontech/erigon/commit/0fd1cca89226698723cd12988c0f2880c3c8092c) - 2025-08-08
+* [Commit] [[workflow]: Port test-hive-eest with 12x parallelism and new self-hosted runners to release/3.1 (#16362)](https://github.com/erigontech/erigon/commit/bd8c775d3a71c035bdfbb226ccc4fa8d59f36cb0) - 2025-08-08
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [blockTimetsamp is on log info not header (#423)](https://github.com/erigontech/rpc-tests/commit/4155a0cd4fd99bc6e47a81d0aa08f19386d61b0b) - 2025-07-31
 * [Commit] [eth_getBlockRrceipts - fix exp resp with blockTimestamp (#422)](https://github.com/erigontech/rpc-tests/commit/a0bb773bf04ab4e4e3784c4052a147021b576211) - 2025-07-31

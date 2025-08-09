@@ -37,6 +37,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [Trigger payload attribute event on early blocks (#15541)](https://github.com/OffchainLabs/prysm/commit/d7d8764a916dc9c4a43d46c5b5ffbefec2a56507) - 2025-07-31
 * [Pull Request] [Do not compare liveness response with LH](https://github.com/OffchainLabs/prysm/pull/15556) - 2025-07-31
 * [Commit] [changelog <3](https://github.com/OffchainLabs/prysm/commit/07a0b97205fc5f97a7e5db905520cff7098f1a79) - 2025-07-31
+* [Pull Request] [Don't submit duplicate `SignedContributionAndProof` messages](https://github.com/OffchainLabs/prysm/pull/15571) - 2025-08-08
+* [Commit] [Don't submit duplicate aggregated `SignedContributionAndProof` messages](https://github.com/OffchainLabs/prysm/commit/7d640d5c693d75ec4e6ea44cf2d8c66d4ec1a05a) - 2025-08-08
+* [Commit] [Don't submit duplicate aggregated `SignedContributionAndProof` messages](https://github.com/OffchainLabs/prysm/commit/7c3f2c6144a3b5d281e37a1ed9f3c9edefb68776) - 2025-08-08
 ## Q2 2025
 
 

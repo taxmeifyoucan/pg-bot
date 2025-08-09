@@ -21,6 +21,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [fix: further key computation fixes](https://github.com/gballet/go-ethereum/commit/2c3814687e88ce0c0f490cce481e85082a343ffd) - 2025-08-05
 * [Commit] [fix sha256 hashing](https://github.com/gballet/go-ethereum/commit/ba1ad7f846dd155e049a181348ab8468782c77c8) - 2025-08-06
 * [Commit] [fix: don't try to load empty nodes](https://github.com/gballet/go-ethereum/commit/baea4d89eece681a0af3c492a27c3b3456cc5ac6) - 2025-08-07
+* [Commit] [use correct copyright date, and remove some TODOs](https://github.com/gballet/go-ethereum/commit/b7c4d3c1b5238430b500e16e6b74b55c5db16531) - 2025-08-08
 ## Q2 2025
 
 

@@ -46,6 +46,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Downgrade PierTwo.Lantern.Discv5.WireProtocol package](https://github.com/NethermindEth/nethermind/commit/7dd5b854339d9b1b0f2866c2dd56948439b28f17) - 2025-07-31
 * [Commit] [Fix Hive tests default parameters (#9087)](https://github.com/NethermindEth/nethermind/commit/26f6c8b02a8dd680e675423f0442f9cff243cb53) - 2025-08-04
 * [Pull Request] [Fix Hive tests default parameters](https://github.com/NethermindEth/nethermind/pull/9087) - 2025-08-04
+* [Commit] [Update RocksDB to v10 (#9059)](https://github.com/NethermindEth/nethermind/commit/6d4cbf5c79c7eab299961611a1b406c3d1326b70) - 2025-08-08
+* [Commit] [Validate account and slot order and boundaries in `SnapProviderHelper` (#8551)](https://github.com/NethermindEth/nethermind/commit/aff5133b5191f1553e485a6deaeb877b68b82ed0) - 2025-08-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21

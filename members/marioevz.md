@@ -70,6 +70,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(cli): Improve `modify_static_test_gas_limits` comments](https://github.com/ethereum/execution-spec-tests/commit/1da044d12c90b87c5996d3d1fbfaaf24209aa7aa) - 2025-08-05
 * [Commit] [chore(tests): fix pre alloc grouping remaining fails (#1975)](https://github.com/ethereum/execution-spec-tests/commit/646149c763a94de12322d322a11b3e1d5ac13ffe) - 2025-08-05
 * [Pull Request] [fix(github): Set x-dist to auto for all evm impl](https://github.com/ethereum/execution-spec-tests/pull/1996) - 2025-08-06
+* [Commit] [refactor(fill): extract phase management into testable components (#2010)](https://github.com/ethereum/execution-spec-tests/commit/f47a08d7962e6d7760088456c703ea4e8bcb9299) - 2025-08-08
+* [Commit] [fix: docs issue](https://github.com/ethereum/execution-spec-tests/commit/30def0be7db9eeec060a432afd1686a237b23c4b) - 2025-08-08
+* [Commit] [refactor: typing](https://github.com/ethereum/execution-spec-tests/commit/4682817f3aee391ccfb7fcc064d6714740616e6a) - 2025-08-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

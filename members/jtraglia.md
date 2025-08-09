@@ -17,6 +17,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Add a hidden flag for configuring data column sidecar recovery delay](https://github.com/Consensys/teku/pull/9678) - 2025-07-17
 
 * [Pull Request] [Add spec references, a mapping of spec to implementation](https://github.com/Consensys/teku/pull/9731) - 2025-07-31
+* [Pull Request] [Add support for v1.6.0-alpha.4](https://github.com/Consensys/teku/pull/9756) - 2025-08-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Fix `KZG_COMMITMENT_INCLUSION_PROOF_DEPTH_EIP7732` (#4451)](https://github.com/ethereum/consensus-specs/commit/adc514a1c29532ebc1a67c71dc8741a2fdac5ed4) - 2025-07-18
 * [Pull Request] [Fix `KZG_COMMITMENT_INCLUSION_PROOF_DEPTH_EIP7732`](https://github.com/ethereum/consensus-specs/pull/4451) - 2025-07-18

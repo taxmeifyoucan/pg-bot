@@ -100,6 +100,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 0c4822c0d71 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/4843c54863ef07c970f8e1bd3fce4317c356b24a) - 2025-08-06
 * [Commit] [Deployed 260c7922f6c to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/4e7673b9cdda6497e628b1c07eb378c23c641f62) - 2025-08-07
 * [Commit] [Deployed 880f8d8ada2 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/017086ca7453b0d234d3319e4f6c837a6f7b51cc) - 2025-08-07
+* [Commit] [Deployed 32876116bfb to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e32641d7a94e835db8c4ccb87dd6156e945a8d14) - 2025-08-08
+* [Commit] [Deployed 75f51bc6d07 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3db735b7e03b792586470f8cc513e2730a32acbd) - 2025-08-08
+* [Commit] [refactor(filler): Remove global session and use config-based approach](https://github.com/ethereum/execution-spec-tests/commit/d976f76654b0a00c17019149f33e8a1986b4bc8f) - 2025-08-08
 ## Q2 2025
 
 

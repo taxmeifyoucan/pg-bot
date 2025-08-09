@@ -23,6 +23,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: remove stray event handler on network close (#8127)](https://github.com/ChainSafe/lodestar/commit/317e397fbfae6130664573743d7c0f729e41c0b2) - 2025-08-07
 * [Commit] [fix: update cgc during genesis and use finalized state (#8105)](https://github.com/ChainSafe/lodestar/commit/a60f61c6943e5b739b5c0ea3121c821ade4dc7a4) - 2025-08-07
 * [Commit] [refactor: remove stale peerdas lines and simple renamings (#8128)](https://github.com/ChainSafe/lodestar/commit/16e67f1abb6839c52a67703bf6e7f1c0b77151d6) - 2025-08-07
+* [Pull Request] [refactor: block proposal](https://github.com/ChainSafe/lodestar/pull/8155) - 2025-08-08
+* [Issue] [IPv6 Issue in fusaka-devnet-4](https://github.com/ChainSafe/lodestar/issues/8153) - 2025-08-08
 ## Q2 2025
 
 

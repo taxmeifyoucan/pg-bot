@@ -139,6 +139,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [fix: correct various typos in documentation and comments](https://github.com/bluealloy/revm/pull/2855) - 2025-08-06
 * [Commit] [chore: rm redundant lifetime constraints (#2850)](https://github.com/bluealloy/revm/commit/36e700594b480b075ee394ee7028184ad9135415) - 2025-08-06
 * [Commit] [docs: update outdated opcode memory reference link (#2859)](https://github.com/bluealloy/revm/commit/64ac080bac404f08f118fb07f42c56de1aabb31d) - 2025-08-07
+* [Commit] [continued transition work](https://github.com/bluealloy/revm/commit/43232cbb732bbb59e1e04071f7e9b35ae9cad6dd) - 2025-08-08
+* [Commit] [continue work on transition to address and id](https://github.com/bluealloy/revm/commit/fd57eebfcce344b440e1005d1a0fd016cb9cf048) - 2025-08-08
+* [Pull Request] [perf: small performance and safety improvements](https://github.com/bluealloy/revm/pull/2868) - 2025-08-08
+* [Commit] [perf: small performance and safety improvements](https://github.com/bluealloy/revm/commit/7bafb878e0bb10634180e6f7bb36f252311f903e) - 2025-08-08
+* [Commit] [perf: small performance and safety improvements](https://github.com/bluealloy/revm/commit/5d5a8e10a30791b31ea55d0307356d79391cc28b) - 2025-08-08
+* [Commit] [perf: small performance and safety improvements](https://github.com/bluealloy/revm/commit/85acca9db0eb010dc714a2c9084d683b75b5e3c5) - 2025-08-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [Fix JMH integration and add in AsyncProfiler option](https://github.com/hyperledger/besu/pull/8920) - 2025-07-04
 * [Commit] [Move Keccak256 benchmark to JMH and fix JMH integration (#8920)](https://github.com/hyperledger/besu/commit/c1a04f6947f01e29cc09d50fcd6c0512c6ecd1c7) - 2025-07-09
 * [Commit] [Remove CLI options for JMH and adapt benchmarks (#9025)](https://github.com/hyperledger/besu/commit/498e1c77db842d3058465313cc31928cdbbe2e0b) - 2025-08-06
+* [Commit] [Invalid jump dest not charged (#9027)](https://github.com/hyperledger/besu/commit/f0f2aefff42a9e1d2c6faea1592f2a697704cec2) - 2025-08-08
 ## Q2 2025
 
 

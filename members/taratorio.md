@@ -102,6 +102,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/stagedsync: handle sync loop block limit exhaustion (#16268) (#16484)](https://github.com/erigontech/erigon/commit/7b0ffc3624887bec04abbd0a02b476cf022e9a16) - 2025-08-07
 * [Pull Request] [polygon: use execution server start](https://github.com/erigontech/erigon/pull/16485) - 2025-08-07
 * [Pull Request] [execution/stagedsync: handle sync loop block limit exhaustion (#16268)](https://github.com/erigontech/erigon/pull/16484) - 2025-08-07
+* [Commit] [try to fix lint](https://github.com/erigontech/erigon/commit/592b15e6fbb7e1daa88bc5972d8f4d31d4931199) - 2025-08-08
+* [Commit] [try to fix lint](https://github.com/erigontech/erigon/commit/2005f0c9f14265a64e9947d59d9b92d08ea00897) - 2025-08-08
+* [Commit] [try to fix lint](https://github.com/erigontech/erigon/commit/ea626a64d362359c9a0c1de07175357d310f9f0b) - 2025-08-08
+* [Commit] [workflows: remove sonarcloud and coverprofile from test-all-race - it is done in test-all (#16517)](https://github.com/erigontech/erigon/commit/15f02ea4eec818e1bfe2bb47a26a368b88b84abe) - 2025-08-08
+* [Commit] [rpcdaemon: add refund field on debug_ as geth (#16478)](https://github.com/erigontech/erigon/commit/60a4ad2fccd57d4947582f9de591e0807e0808f6) - 2025-08-08
+* [Pull Request] [workflows: remote sonarcloud and coverprofile from test-all-race - it is done in test-all](https://github.com/erigontech/erigon/pull/16517) - 2025-08-08
 ## Q2 2025
 
 

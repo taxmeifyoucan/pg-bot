@@ -51,6 +51,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Yperbasis/dirs7](https://github.com/erigontech/erigon/pull/16471) - 2025-08-06
 * [Commit] [mv kvcache to db](https://github.com/erigontech/erigon/commit/b20f95f2a5111bd186d06d29c9a31d59ecda3089) - 2025-08-06
 * [Commit] [mv wrap to db](https://github.com/erigontech/erigon/commit/76af910b5477392eb70acd9f91aa3805b51e487c) - 2025-08-06
+* [Commit] [dir improvements: move `trie` from `erigon-lib` to `execution` (#16519)](https://github.com/erigontech/erigon/commit/23896fb154dba904c4ffdea9ef103f138ff5fa64) - 2025-08-08
+* [Pull Request] [dir improvements: move `trie` from `erigon-lib` to `execution`](https://github.com/erigontech/erigon/pull/16519) - 2025-08-08
+* [Commit] [mv types/accounts to execution](https://github.com/erigontech/erigon/commit/674906abfd9c26b073d5aacff06c0c09019c1667) - 2025-08-08
+* [Commit] [mv types/witness to execution](https://github.com/erigontech/erigon/commit/912b29701b22592bf9bd58045b9ad25fd0b6b13f) - 2025-08-08
+* [Commit] [mv trie to execution](https://github.com/erigontech/erigon/commit/adc41681afe6f00d83d8af55b447322df7f9cb14) - 2025-08-08
+* [Commit] [dir improvements: move `recsplit` & `etl` from `erigon-lib` to `db` (#16511)](https://github.com/erigontech/erigon/commit/8c2b4a110a5a00a5039ae308084e226fde66b7d1) - 2025-08-08
+* [Commit] [try to fix test on Win](https://github.com/erigontech/erigon/commit/21910f5be32b10cf41abe1e3c2d321014cbda9d8) - 2025-08-08
+* [Pull Request] [dir improvements: move `recsplit` & `etl` from `erigon-lib` to `db`](https://github.com/erigontech/erigon/pull/16511) - 2025-08-08
+* [Commit] [go mod tidy](https://github.com/erigontech/erigon/commit/fe315b38a29dc13bbaa65578bb354ee7394a06a7) - 2025-08-08
+* [Commit] [mv etl to db](https://github.com/erigontech/erigon/commit/7d9d58c2412f10fdd2332f81193a14971627660d) - 2025-08-08
+* [Commit] [mv recsplit to db](https://github.com/erigontech/erigon/commit/ba1c01e4520f340731cbc6ae956ef998f8a8e540) - 2025-08-08
+* [Commit] [mv commitment to execution](https://github.com/erigontech/erigon/commit/ff62920a7bb617027563a78363195ae60404b692) - 2025-08-08
+* [Commit] [mv seg to db](https://github.com/erigontech/erigon/commit/84b3ee1ca2a680c0ade5f33e201acd9e83f20354) - 2025-08-08
+* [Commit] [fix comment](https://github.com/erigontech/erigon/commit/8d413010432ee6e154ec93963083ac2d5361a379) - 2025-08-08
+* [Commit] [[r3.1] rpc: fix evm timeout in GetReceipts (#16496) (#16498)](https://github.com/erigontech/erigon/commit/70d995fed4af25f6663a3537fdf999abb52d6403) - 2025-08-08
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

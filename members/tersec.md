@@ -50,6 +50,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [ensure CStringConv warning is an error](https://github.com/status-im/nimbus-eth2/pull/7370) - 2025-08-07
 * [Pull Request] [prune datacolumns](https://github.com/status-im/nimbus-eth2/pull/7369) - 2025-08-07
 * [Pull Request] [update nfd ENR field for BPOs](https://github.com/status-im/nimbus-eth2/pull/7368) - 2025-08-07
+* [Commit] [fix data_column_sidecar SSE (#7373)](https://github.com/status-im/nimbus-eth2/commit/a946d618a8e8eff947312200c1b40a064a0071f9) - 2025-08-08
+* [Pull Request] [fix data_column_sidecar SSE](https://github.com/status-im/nimbus-eth2/pull/7373) - 2025-08-08
+* [Commit] [synchronize slightly with unstable branch](https://github.com/status-im/nimbus-eth2/commit/1cc0b57a437604555b3d306323d54d8b31911c33) - 2025-08-08
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

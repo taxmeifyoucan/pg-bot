@@ -180,6 +180,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix eth_config (#9071)](https://github.com/NethermindEth/nethermind/commit/f23ce0026788eee9a231cf1ea792421f2e0d4f0f) - 2025-08-05
 * [Commit] [Parse method](https://github.com/NethermindEth/nethermind/commit/393857acc58ec9d3c97043e18ef2520b9cb7d7a1) - 2025-08-07
 * [Commit] [Explicit types](https://github.com/NethermindEth/nethermind/commit/a0e6a6cbe0ca69443b370b680d6da161481d7a31) - 2025-08-07
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/c4269d36503c6177fe1232c0e8cad9857f5aa3a3) - 2025-08-08
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/89ebcde12080f82b06c419cf6467d76838d26736) - 2025-08-08
+* [Commit] [Seal handler](https://github.com/NethermindEth/nethermind/commit/beb15d1262208c36380085f47f6b2884450d324c) - 2025-08-08
+* [Commit] [Use single event subscription](https://github.com/NethermindEth/nethermind/commit/f1a92a6386b00c9e2ad10056d6eb3aa210c07acc) - 2025-08-08
+* [Commit] [Update Copilot instructions (#9099)](https://github.com/NethermindEth/nethermind/commit/7706fe6f76d40ab25ca0a9a1075dd813e52b5455) - 2025-08-08
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

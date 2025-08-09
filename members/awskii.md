@@ -61,6 +61,7 @@ Team: Erigon
 * [Pull Request] [Arbitrum: bump erigon-snapshot rev](https://github.com/erigontech/erigon/pull/16423) - 2025-08-02
 * [Commit] [save](https://github.com/erigontech/erigon/commit/bebebb15723215e22284d604cdc27133567a2622) - 2025-08-02
 * [Commit] [Fix `getProof` edge cases correctly (#16251)](https://github.com/erigontech/erigon/commit/e902c3dab34d754d13c115ed559dfb4e1b49d473) - 2025-08-06
+* [Commit] [do not receive snapshots through privateApiAddr (#16516)](https://github.com/erigontech/erigon/commit/dbff334456899c5f9c7e6fa71f43623859bc8150) - 2025-08-08
 ## Q2 2025
 
 

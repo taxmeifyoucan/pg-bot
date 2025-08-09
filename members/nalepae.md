@@ -94,6 +94,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Implement `fetchDataColumnSidecars`.](https://github.com/OffchainLabs/prysm/commit/c7b657613d5161ab0dcdb0c2f4b5d13745d89d4d) - 2025-08-06
 * [Commit] [Implement `fetchDataColumnSidecars`.](https://github.com/OffchainLabs/prysm/commit/c8a9944ff2dd91018c77952c3b7d218a83462b14) - 2025-08-06
 * [Commit] [PeerDAS: Implement sync](https://github.com/OffchainLabs/prysm/commit/ad83e66eb5c8b2e03bb1d03f2394e8cd80ed6a2e) - 2025-08-07
+* [Commit] [PeerDAS: Implement sync](https://github.com/OffchainLabs/prysm/commit/d2ed26966928711050fc530d2e318e77ffa2f963) - 2025-08-08
+* [Commit] [PeerDAS: Implement sync](https://github.com/OffchainLabs/prysm/commit/b1f9c9a5750b3174d5500951be0d6d028bfb869d) - 2025-08-08
 ## Q2 2025
 
 

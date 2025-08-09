@@ -175,6 +175,9 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/3c85d30fae049c5e819dc68c3b9c4b4520e6bc83) - 2025-08-07
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e1064cbadeb66adb764aea942819eb790aedbc5e) - 2025-08-07
 * [Pull Request] [Cherry-Pick: Fulu in Caplin](https://github.com/erigontech/erigon/pull/16492) - 2025-08-07
+* [Pull Request] [Update readme.md](https://github.com/erigontech/erigon/pull/16510) - 2025-08-08
+* [Pull Request] [Cherry-Pick: revert receipts persistence](https://github.com/erigontech/erigon/pull/16509) - 2025-08-08
+* [Pull Request] [Cherry-Pick: Caplin: fixed running lighthouse vc alongside it (#16495)](https://github.com/erigontech/erigon/pull/16508) - 2025-08-08
 ## Q2 2025
 
 

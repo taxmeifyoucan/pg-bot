@@ -126,6 +126,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cp: remove milestones from integrity check (#16468)](https://github.com/erigontech/erigon/commit/66c4b659b4d721eb34664f02537ffe461f9f901f) - 2025-08-06
 * [Pull Request] [cp: move RCacheNoDups into default integrity](https://github.com/erigontech/erigon/pull/16469) - 2025-08-06
 * [Pull Request] [cp: remove milestones from integrity check](https://github.com/erigontech/erigon/pull/16468) - 2025-08-06
+* [Pull Request] [add some fixes in seg retire](https://github.com/erigontech/erigon/pull/16515) - 2025-08-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/24bf5025759d9596db70e613bad4885e9084a79c) - 2025-08-08
+* [Issue] [seg retire operates only on read db](https://github.com/erigontech/erigon/issues/16512) - 2025-08-08
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

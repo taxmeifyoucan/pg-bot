@@ -20,6 +20,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Issue] [Limit Trie Log Config Tweaks](https://github.com/hyperledger/besu/issues/8990) - 2025-07-22
 * [Commit] [Enable decoding for large RPC requests (#8877)](https://github.com/hyperledger/besu/commit/e051c95be51d6afe5c1dba097f5b7f39925d856d) - 2025-07-25
 * [Pull Request] [Improve P256Verify precompile performance](https://github.com/hyperledger/besu/pull/9035) - 2025-08-06
+* [Commit] [Improve P256Verify precompile performance (#9035)](https://github.com/hyperledger/besu/commit/c5e1d1f7179629d880484a8be933cb2dccf8d39c) - 2025-08-08
+* [Pull Request] [[DO NOT MERGE] triggering CI ](https://github.com/hyperledger/besu/pull/9045) - 2025-08-08
+* [Pull Request] [Workaround to force the txpool to be always on (#8755)](https://github.com/hyperledger/besu/pull/9044) - 2025-08-08
 ## Q2 2025
 
 

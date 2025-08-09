@@ -42,6 +42,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update workflow with exact node version](https://github.com/ChainSafe/lodestar/commit/9611b8777ecaea376a96f24ab1cfa1fc4d30df49) - 2025-07-22
 * [Pull Request] [test: update bun test workflow to remove any nodejs dependency](https://github.com/ChainSafe/lodestar/pull/8072) - 2025-07-22
 * [Issue] [Package manager compatibility issues with Bun](https://github.com/ChainSafe/lodestar/issues/8071) - 2025-07-22
+* [Commit] [feat: run `lodestar` root binary from any directory (#8154)](https://github.com/ChainSafe/lodestar/commit/d5a4e7a09c3ff3da106caaf41b99b23317c2b275) - 2025-08-08
+* [Pull Request] [feat: run `lodestar` root binary from any directory](https://github.com/ChainSafe/lodestar/pull/8154) - 2025-08-08
+* [Pull Request] [fix: do not dial identify on dying connections](https://github.com/ChainSafe/lodestar/pull/8152) - 2025-08-08
 ## Q2 2025
 
 

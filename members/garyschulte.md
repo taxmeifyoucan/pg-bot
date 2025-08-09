@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 
 ## Contributions
 
+## Q3 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Feature/add trielog to eth simulate v1](https://github.com/hyperledger/besu/pull/9048) - 2025-08-08
 ## Q2 2025
 
 

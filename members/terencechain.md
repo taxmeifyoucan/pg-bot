@@ -50,6 +50,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Add Capella-Bellatrix bid compatibility to proposer version check](https://github.com/OffchainLabs/prysm/pull/15567) - 2025-08-07
 * [Commit] [Add Capella-Bellatrix bid compatibility to proposer version check](https://github.com/OffchainLabs/prysm/commit/126ddd875bd6c66fcb11e05611ba9aafcd410f82) - 2025-08-07
 * [Commit] [Add Capella-Bellatrix bid compatibility to proposer version check](https://github.com/OffchainLabs/prysm/commit/832166c6fb1fc989de2bf1b9d9ec79d7f961d09a) - 2025-08-07
+* [Commit] [add genesis validation tests with embedded state verification](https://github.com/OffchainLabs/prysm/commit/9af63840802dedac4def4a9886daedea9cb5b936) - 2025-08-08
+* [Commit] [add genesis validation tests with embedded state verification](https://github.com/OffchainLabs/prysm/commit/e969bd6f76726ef78baed951a303306a4cfb20be) - 2025-08-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

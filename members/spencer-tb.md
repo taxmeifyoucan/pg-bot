@@ -87,6 +87,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(fill): allow lowercase fork declaration in fill command (#1969)](https://github.com/ethereum/execution-spec-tests/commit/810ff42c8373a1d5f317f1740655ed4e04b7e25d) - 2025-08-06
 * [Commit] [chore(ci): update feature/evm configs.](https://github.com/ethereum/execution-spec-tests/commit/3eccee749e1fde3b3eff9f1e6392ce7433fc6e45) - 2025-08-06
 * [Pull Request] [chore(tests): remove temp fix for block rlp type 4](https://github.com/ethereum/execution-spec-tests/pull/1995) - 2025-08-06
+* [Pull Request] [chore(ci): fix coverage when modifying existing ported tests](https://github.com/ethereum/execution-spec-tests/pull/2013) - 2025-08-08
+* [Commit] [chore(tests): exception hotfix (#2011)](https://github.com/ethereum/execution-spec-tests/commit/75f51bc6d07dfe6d2cd5833d1f21a206662edc77) - 2025-08-08
+* [Commit] [chore(ci): fix coverage when modifying existing ported tests.](https://github.com/ethereum/execution-spec-tests/commit/b8a34495548e5cc32174bc7225aef09b475bbf4b) - 2025-08-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

@@ -33,6 +33,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Fix rpc_blob_limits](https://github.com/grandinetech/grandine/pull/284) - 2025-08-01
 * [Commit] [Add more PeerDAS metrics](https://github.com/grandinetech/grandine/commit/99c609a1e264f2ecb98d3540ff3534d2b6f5ecb5) - 2025-08-04
 * [Pull Request] [Fix incorrect data columns by root requests](https://github.com/grandinetech/grandine/pull/288) - 2025-08-07
+* [Commit] [Fix incorrect data columns by root requests](https://github.com/grandinetech/grandine/commit/9aaf1b154ef3a76a19fcfa6ba7ed2c00a7b7ddc1) - 2025-08-08
+* [Commit] [Skip `get_custody_groups` computation for super node](https://github.com/grandinetech/grandine/commit/99d84990874771d4bb103dde99c53a1fc88d4237) - 2025-08-08
+* [Commit] [Fix incorrect data columns by root requests](https://github.com/grandinetech/grandine/commit/725faac4354d2516f2c2f2bf02e06a5f93723661) - 2025-08-08
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
