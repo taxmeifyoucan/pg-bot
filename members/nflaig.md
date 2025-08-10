@@ -66,6 +66,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: select status response container based on version (#8119)](https://github.com/ChainSafe/lodestar/commit/b6ddc3914ca2a6c01dab9efd367bdb34c181f9dc) - 2025-08-07
 * [Commit] [Extract effective balances given a list of validator indices](https://github.com/ChainSafe/lodestar/commit/8c305ebc78141ec102ac5803db3ea6bcb8482439) - 2025-08-07
 * [Commit] [Pass in a list of effective balances](https://github.com/ChainSafe/lodestar/commit/1b27218c21f4bd2fb2c5b0604bebcc68b824a8f7) - 2025-08-07
+* [Commit] [Use MetdataV3 pre fulu again](https://github.com/ChainSafe/lodestar/commit/fb04aef740568bc6fc3514721e4b055cb0888505) - 2025-08-09
+* [Commit] [Remove unused import](https://github.com/ChainSafe/lodestar/commit/766dc98a4660117a05bb239ce8f8b2f1929cac9c) - 2025-08-09
+* [Commit] [Remove stray import](https://github.com/ChainSafe/lodestar/commit/1191e9f656cf2a5679d5eedb09bd6dfef5fc2b38) - 2025-08-09
+* [Pull Request] [fix: only start sending StatusV2 and MetadataV3 request after fulu](https://github.com/ChainSafe/lodestar/pull/8169) - 2025-08-09
+* [Commit] [make tests pass](https://github.com/ChainSafe/lodestar/commit/5506d6b19ecddf4a8a40e32c81fdaa3b3a08f2bd) - 2025-08-09
+* [Commit] [Fix readme](https://github.com/ChainSafe/lodestar/commit/7b416a69411bd5d802f55fb55e82aedbd2860747) - 2025-08-09
+* [Commit] [Separate request and response type](https://github.com/ChainSafe/lodestar/commit/7934ed8a632bec7ebe22f3c80330e04cd27cadcf) - 2025-08-09
+* [Pull Request] [fix: select StatusV2 and MetadataV3 type by version instead of fork](https://github.com/ChainSafe/lodestar/pull/8168) - 2025-08-09
+* [Commit] [fix: use minimum custody in log (#8142)](https://github.com/ChainSafe/lodestar/commit/960dee0236631732f44e1e64ce23607760028eb5) - 2025-08-09
 ## Q2 2025
 
 

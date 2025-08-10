@@ -51,6 +51,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: new RESP_RATE_LIMITED error code](https://github.com/ChainSafe/lodestar/commit/3d1b5b565ffa800ae8f51d4aaf1632754a89ff89) - 2025-08-07
 * [Commit] [fix: remove unused import](https://github.com/ChainSafe/lodestar/commit/01675daeb6f283efe043ce08b70ac907c3e5b6b1) - 2025-08-07
 * [Commit] [fix: handle wait error message](https://github.com/ChainSafe/lodestar/commit/a6d90a67f3a248851b9d9f9c71a5107f094132f2) - 2025-08-07
+* [Pull Request] [feat: reduce peer score if they send mismatch DataColumnSidecars](https://github.com/ChainSafe/lodestar/pull/8167) - 2025-08-09
+* [Pull Request] [feat: avoid rate limit syncing](https://github.com/ChainSafe/lodestar/pull/8166) - 2025-08-09
 ## Q2 2025
 
 

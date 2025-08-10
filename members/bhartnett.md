@@ -52,6 +52,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Stateless: Improve performance of building witnesses by caching rlp nodes when building proofs](https://github.com/status-im/nimbus-eth1/pull/3553) - 2025-08-08
 * [Commit] [Set the default rocksdb cache location to the build directory. (#3546)](https://github.com/status-im/nimbus-eth1/commit/340099c160865d67e5291ed54612b350a285b426) - 2025-08-08
 * [Commit] [Refactor so that only one boolean check is required.](https://github.com/status-im/nimbus-eth1/commit/b08ad8d06882ee2a275a56033b3a642f3344cfbb) - 2025-08-08
+* [Commit] [Only fetch storage proofs when account exists.](https://github.com/status-im/nimbus-eth1/commit/46f2e307b0f923e001ca3bb1bd70f533d09c2cca) - 2025-08-09
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

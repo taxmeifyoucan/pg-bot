@@ -53,6 +53,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix data_column_sidecar SSE (#7373)](https://github.com/status-im/nimbus-eth2/commit/a946d618a8e8eff947312200c1b40a064a0071f9) - 2025-08-08
 * [Pull Request] [fix data_column_sidecar SSE](https://github.com/status-im/nimbus-eth2/pull/7373) - 2025-08-08
 * [Commit] [synchronize slightly with unstable branch](https://github.com/status-im/nimbus-eth2/commit/1cc0b57a437604555b3d306323d54d8b31911c33) - 2025-08-08
+* [Commit] [increase maxblobless in block quarantine](https://github.com/status-im/nimbus-eth2/commit/3e7332d8424871a8d8575b4c0dcf68bdd2fffe9c) - 2025-08-09
+* [Commit] [replace datacolumnquarantine with generic blob quarantine; adapt rman to use it (#7374)](https://github.com/status-im/nimbus-eth2/commit/ea042dc3c340c95aa5bc9f5c9b0a315682e915f1) - 2025-08-09
+* [Commit] [rest config api changes (#7367)](https://github.com/status-im/nimbus-eth2/commit/2b5416bae4f7cfab49f25303d96f327603126193) - 2025-08-09
+* [Pull Request] [replace datacolumnquarantine with generic blob quarantine; adapt rman to use it](https://github.com/status-im/nimbus-eth2/pull/7374) - 2025-08-09
+* [Commit] [replace datacolumnquarantine with generic blob quarantine; adapt rman to use it](https://github.com/status-im/nimbus-eth2/commit/89a6a79b9eb21ffb0c4dc1c54879324a4f41cedf) - 2025-08-09
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

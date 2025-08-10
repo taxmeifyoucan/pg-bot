@@ -618,6 +618,9 @@ Team: Erigon
 * [Commit] [merge main](https://github.com/erigontech/erigon/commit/a67b1f3b2e800633622b1ff38755dac3680ccc41) - 2025-08-08
 * [Commit] [dir improvements: move `snaptype` from `erigon-lib` to `db` (#16501)](https://github.com/erigontech/erigon/commit/e8998d28ef9ed2d7f2115bf7c1bd46eeecedc972) - 2025-08-08
 * [Commit] [ChainSpec: all and everything at once (#15974)](https://github.com/erigontech/erigon/commit/dffc9ebc9b708c484c6df06c36af7bb2bac8d588) - 2025-08-08
+* [Issue] [set defaults to rate flags](https://github.com/erigontech/erigon/issues/16524) - 2025-08-09
+* [Issue] [`how to upgrade` section is wrong](https://github.com/erigontech/erigon/issues/16523) - 2025-08-09
+* [Commit] [ txpool: Add max hashes limit to new_txn_hashes_66  (#16506)](https://github.com/erigontech/erigon/commit/051005d3dc68ace52c0838cb6d8e7ed102e97ab1) - 2025-08-09
 ## Q2 2025
 
 

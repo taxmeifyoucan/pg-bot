@@ -17,6 +17,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Remove SecondsPerSlot](https://github.com/OffchainLabs/prysm/commit/0fad6505982918b2a182cbad0d6a81eb038840bf) - 2025-07-23
 * [Commit] [Allow SSZ requests for pending deposits, partial withdrawals and consolidations (#15474)](https://github.com/OffchainLabs/prysm/commit/961ea054543adcf68a84c0c198e9ef2d841a8ee4) - 2025-07-23
 * [Pull Request] [Update go to v1.24.5](https://github.com/OffchainLabs/prysm/pull/15561) - 2025-08-04
+* [Commit] [Gazelle / BUILD fix](https://github.com/OffchainLabs/prysm/commit/1ad0c93b24c4b1058bd7801b40e3acb960c01a90) - 2025-08-09
+* [Commit] [Move genesis/embedded to genesis/internal/embedded](https://github.com/OffchainLabs/prysm/commit/f3b88dcc10ed4c41bee001aac75141b8f8e256f7) - 2025-08-09
 ## Q2 2025
 
 

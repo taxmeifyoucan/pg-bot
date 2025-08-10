@@ -185,6 +185,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Seal handler](https://github.com/NethermindEth/nethermind/commit/beb15d1262208c36380085f47f6b2884450d324c) - 2025-08-08
 * [Commit] [Use single event subscription](https://github.com/NethermindEth/nethermind/commit/f1a92a6386b00c9e2ad10056d6eb3aa210c07acc) - 2025-08-08
 * [Commit] [Update Copilot instructions (#9099)](https://github.com/NethermindEth/nethermind/commit/7706fe6f76d40ab25ca0a9a1075dd813e52b5455) - 2025-08-08
+* [Commit] [Compare Flattened hashes without Linq (#9101)](https://github.com/NethermindEth/nethermind/commit/0bc80c2fe7f6966a95c03cf1f7b4632cf0f95b96) - 2025-08-09
+* [Commit] [Make private](https://github.com/NethermindEth/nethermind/commit/092ffedaa0b84dda2ae27027fa31cc3cd5855ec4) - 2025-08-09
+* [Pull Request] [Compare Flattened hashes without Linq](https://github.com/NethermindEth/nethermind/pull/9101) - 2025-08-09
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025
