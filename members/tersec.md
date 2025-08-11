@@ -58,6 +58,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rest config api changes (#7367)](https://github.com/status-im/nimbus-eth2/commit/2b5416bae4f7cfab49f25303d96f327603126193) - 2025-08-09
 * [Pull Request] [replace datacolumnquarantine with generic blob quarantine; adapt rman to use it](https://github.com/status-im/nimbus-eth2/pull/7374) - 2025-08-09
 * [Commit] [replace datacolumnquarantine with generic blob quarantine; adapt rman to use it](https://github.com/status-im/nimbus-eth2/commit/89a6a79b9eb21ffb0c4dc1c54879324a4f41cedf) - 2025-08-09
+* [Commit] [find what's adding unviables](https://github.com/status-im/nimbus-eth2/commit/bb1be88a491fb7e8d8e3d842ab1310c74a2ab386) - 2025-08-10
+* [Commit] [log some block things](https://github.com/status-im/nimbus-eth2/commit/22f978c8875f862f3597e30a5ab1fd53ab5f5c3d) - 2025-08-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

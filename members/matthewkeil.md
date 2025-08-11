@@ -61,6 +61,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: log pre fulu archive (#8137)](https://github.com/ChainSafe/lodestar/commit/70a92149079654d6e0cc6537dc54b84898d453c7) - 2025-08-08
 * [Commit] [fix: comment and log statement](https://github.com/ChainSafe/lodestar/commit/1ddec9e08ffed0229bad6c34847e1c6a82e8caa6) - 2025-08-08
 * [Commit] [fix: explicit type](https://github.com/ChainSafe/lodestar/commit/2ab1f03cf88def1b32dc751563558f94093b4e8e) - 2025-08-08
+* [Issue] [Use sha commit to docs for spec references](https://github.com/ChainSafe/lodestar/issues/8171) - 2025-08-10
 ## Q2 2025
 
 

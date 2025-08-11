@@ -621,6 +621,8 @@ Team: Erigon
 * [Issue] [set defaults to rate flags](https://github.com/erigontech/erigon/issues/16524) - 2025-08-09
 * [Issue] [`how to upgrade` section is wrong](https://github.com/erigontech/erigon/issues/16523) - 2025-08-09
 * [Commit] [ txpool: Add max hashes limit to new_txn_hashes_66  (#16506)](https://github.com/erigontech/erigon/commit/051005d3dc68ace52c0838cb6d8e7ed102e97ab1) - 2025-08-09
+* [Commit] [rpcdaemon: add rpc-test on latest  (#16521)](https://github.com/erigontech/erigon/commit/b5663534f537804a57f62d47a303f80a52348e4f) - 2025-08-10
+* [Issue] [ethmainnet 3.0  snapshotter gap in block files](https://github.com/erigontech/erigon/issues/16525) - 2025-08-10
 ## Q2 2025
 
 

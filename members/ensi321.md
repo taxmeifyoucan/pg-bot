@@ -20,6 +20,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: handle case if engine or builder is pending with the other disabled (#8113)](https://github.com/ChainSafe/lodestar/commit/af1f74c2cd4af67a1c46d4e01e7377b381e72603) - 2025-08-07
 * [Commit] [fix: peer id check in `initPrivateKeyAndEnr` (#8165)](https://github.com/ChainSafe/lodestar/commit/60e037958ac5a26af0c221bffe9915c4f146d16a) - 2025-08-09
 * [Commit] [Address @nflaig's comment](https://github.com/ChainSafe/lodestar/commit/835fa170e0d8448df76ea42b937b5cf0baa16b33) - 2025-08-09
+* [Commit] [Skip progressive list](https://github.com/ChainSafe/lodestar/commit/0a45648ce9d0d8aa8c264dce53d8ae600211fec0) - 2025-08-10
+* [Pull Request] [feat: bump spec test to `v1.6.0-alpha.4`. Add data columns to fork-choice spec test](https://github.com/ChainSafe/lodestar/pull/8170) - 2025-08-10
 ## Q2 2025
 
 

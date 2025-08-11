@@ -188,6 +188,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Compare Flattened hashes without Linq (#9101)](https://github.com/NethermindEth/nethermind/commit/0bc80c2fe7f6966a95c03cf1f7b4632cf0f95b96) - 2025-08-09
 * [Commit] [Make private](https://github.com/NethermindEth/nethermind/commit/092ffedaa0b84dda2ae27027fa31cc3cd5855ec4) - 2025-08-09
 * [Pull Request] [Compare Flattened hashes without Linq](https://github.com/NethermindEth/nethermind/pull/9101) - 2025-08-09
+* [Commit] [Lower allocation ByteArrayConverter for large hex strings (#9105)](https://github.com/NethermindEth/nethermind/commit/67b3d98be108ccf5a0d6d7c6bf07d7f793763ed6) - 2025-08-11
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/c4ff43f897d3a394fda5a5499dd52c531c5459fd) - 2025-08-11
+* [Commit] [Add comments](https://github.com/NethermindEth/nethermind/commit/84fc0b3124f3294a2131aaf362e398b72eebeacb) - 2025-08-10
+* [Commit] [Use less stack in short path](https://github.com/NethermindEth/nethermind/commit/78d9a9c3ae8b52e460c362e710dda430dae5a1c5) - 2025-08-10
+* [Commit] [Add tests](https://github.com/NethermindEth/nethermind/commit/79fd76a7a422a46a3541f013e5ba89ccd2c16f8a) - 2025-08-10
+* [Pull Request] [Improve ByteArrayConverter for hex string handling](https://github.com/NethermindEth/nethermind/pull/9105) - 2025-08-10
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

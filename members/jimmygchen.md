@@ -48,6 +48,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Adjust DA checker cache size](https://github.com/sigp/lighthouse/pull/7825) - 2025-08-04
 * [Pull Request] [Implement tracing spans for data columm RPC requests and respones](https://github.com/sigp/lighthouse/pull/7831) - 2025-08-06
 * [Issue] [Instrument tracing spans for RPC data columns requests and responeses](https://github.com/sigp/lighthouse/issues/7830) - 2025-08-06
+* [Pull Request] [Initial Claude.md draft](https://github.com/sigp/lighthouse/pull/7848) - 2025-08-11
 ## Q2 2025
 
 

@@ -75,6 +75,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Separate request and response type](https://github.com/ChainSafe/lodestar/commit/7934ed8a632bec7ebe22f3c80330e04cd27cadcf) - 2025-08-09
 * [Pull Request] [fix: select StatusV2 and MetadataV3 type by version instead of fork](https://github.com/ChainSafe/lodestar/pull/8168) - 2025-08-09
 * [Commit] [fix: use minimum custody in log (#8142)](https://github.com/ChainSafe/lodestar/commit/960dee0236631732f44e1e64ce23607760028eb5) - 2025-08-09
+* [Commit] [refactor: fulu hex helpers (#8163)](https://github.com/ChainSafe/lodestar/commit/7ef1b87ebca7d70b93d3178af412420a457cb844) - 2025-08-10
+* [Commit] [fix: remove git from Dockerfile (#8160)](https://github.com/ChainSafe/lodestar/commit/d487465d1262146a841f09d2ef7d9aea04577cf5) - 2025-08-10
+* [Pull Request] [fix: skip custody groups computation if all groups are custodied](https://github.com/ChainSafe/lodestar/pull/8172) - 2025-08-10
+* [Commit] [chore: fulu nits (#8164)](https://github.com/ChainSafe/lodestar/commit/f2a1ea03cf2ebbb46855a89b9d118399e416c56b) - 2025-08-10
+* [Commit] [Remove unused imports](https://github.com/ChainSafe/lodestar/commit/58d373385d74d6c6860e7758729f5a9ec57e30fc) - 2025-08-10
+* [Commit] [Fix metric type inference, remove unused this.metrics](https://github.com/ChainSafe/lodestar/commit/6dbf8875e389c39d42eb3147e3df91de2d98ec7b) - 2025-08-10
+* [Commit] [Use tag in spec references](https://github.com/ChainSafe/lodestar/commit/291776af9c182ba911c179292194fbb0dd16dcf7) - 2025-08-10
+* [Commit] [docs: add note to `--persistNetworkIdentity` for resetting ENR and cgc (#8159)](https://github.com/ChainSafe/lodestar/commit/da2490329b09282b3d760009f9301a80de81b7be) - 2025-08-10
+* [Commit] [Tweak description](https://github.com/ChainSafe/lodestar/commit/55d3f830c080677bc6dd56a365a9242be3cd4cd5) - 2025-08-10
 ## Q2 2025
 
 

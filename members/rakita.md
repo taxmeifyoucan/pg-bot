@@ -146,6 +146,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [perf: small performance and safety improvements](https://github.com/bluealloy/revm/commit/5d5a8e10a30791b31ea55d0307356d79391cc28b) - 2025-08-08
 * [Commit] [perf: small performance and safety improvements](https://github.com/bluealloy/revm/commit/85acca9db0eb010dc714a2c9084d683b75b5e3c5) - 2025-08-08
 * [Commit] [more transitions to account_id](https://github.com/bluealloy/revm/commit/d70afcd9e713e95e5b9403d7135860c58c4767a0) - 2025-08-09
+* [Commit] [Aggregate changes from PRs #2866, #2867, and #2874 (#2876)](https://github.com/bluealloy/revm/commit/012aacedd6f64cb1e0ad651eace25a3bd3cb0191) - 2025-08-10
+* [Pull Request] [Aggregate cleanup changes from PRs #2866, #2867, and #2874](https://github.com/bluealloy/revm/pull/2876) - 2025-08-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

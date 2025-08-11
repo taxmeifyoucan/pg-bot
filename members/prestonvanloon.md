@@ -19,6 +19,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Update go to v1.24.5](https://github.com/OffchainLabs/prysm/pull/15561) - 2025-08-04
 * [Commit] [Gazelle / BUILD fix](https://github.com/OffchainLabs/prysm/commit/1ad0c93b24c4b1058bd7801b40e3acb960c01a90) - 2025-08-09
 * [Commit] [Move genesis/embedded to genesis/internal/embedded](https://github.com/OffchainLabs/prysm/commit/f3b88dcc10ed4c41bee001aac75141b8f8e256f7) - 2025-08-09
+* [Commit] [removing ssz-only flag ( reverting feature) and fix accept header middleware (#15433)](https://github.com/OffchainLabs/prysm/commit/77958022e7a6af74196855f053498d4a7172ea78) - 2025-08-10
 ## Q2 2025
 
 

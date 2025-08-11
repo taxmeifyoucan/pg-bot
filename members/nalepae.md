@@ -96,6 +96,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [PeerDAS: Implement sync](https://github.com/OffchainLabs/prysm/commit/ad83e66eb5c8b2e03bb1d03f2394e8cd80ed6a2e) - 2025-08-07
 * [Commit] [PeerDAS: Implement sync](https://github.com/OffchainLabs/prysm/commit/d2ed26966928711050fc530d2e318e77ffa2f963) - 2025-08-08
 * [Commit] [PeerDAS: Implement sync](https://github.com/OffchainLabs/prysm/commit/b1f9c9a5750b3174d5500951be0d6d028bfb869d) - 2025-08-08
+* [Commit] [Add tests for `sendDataColumnSidecarsRequest`.](https://github.com/OffchainLabs/prysm/commit/978ffa47802ab0bcdea0efbb2711c83f8f67477c) - 2025-08-10
+* [Commit] [Add tests for `sendDataColumnSidecarsRequest`.](https://github.com/OffchainLabs/prysm/commit/ce389f27d632d0708709a9584c2675702c46db66) - 2025-08-10
+* [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/407bf6785ff5895a807eeacb9e1dd0a875cd1a1b) - 2025-08-10
+* [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/c45230b45509b989bdfbc104a4d486c3416c4781) - 2025-08-10
+* [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/0af6591001fd7b7d2be422fdc9355573bfa9791f) - 2025-08-10
+* [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/65007c34f19786fa865b0712a84889896f2ae560) - 2025-08-10
+* [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/1af249da31d0e3464516bc1b6df36e02a4e21c78) - 2025-08-10
+* [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/901f6b6e6cac93999a2276a87a8145698f48c90e) - 2025-08-10
+* [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/a3cdda56d9773ed6dbd1a6b80a36ed2f457a5845) - 2025-08-10
+* [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/cf3200fa06642a3965c392cb3e4c2cd776e58fdf) - 2025-08-10
+* [Commit] [Partially fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/04cafa195977319e0358e40ae568c4aad7627cb0) - 2025-08-10
+* [Commit] [Fix Satyajit's comment.](https://github.com/OffchainLabs/prysm/commit/498b945a612119e712b5455179697a85ce17aff7) - 2025-08-10
 ## Q2 2025
 
 

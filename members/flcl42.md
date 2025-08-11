@@ -71,6 +71,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Test/Disambiguate TxPool Constructor (#9027)](https://github.com/NethermindEth/nethermind/commit/0ac6feee59e8e775c0145abc3fc0cc961bec2ecc) - 2025-08-07
 * [Commit] [Debug te](https://github.com/NethermindEth/nethermind/commit/df4b4084e56269fea3bf4f41709905ddbdc5fee6) - 2025-08-08
 * [Commit] [Debug te](https://github.com/NethermindEth/nethermind/commit/b65999e78fc195775379bc343aadd8f1a997baad) - 2025-08-08
+* [Commit] [Rollback discv5 update (#9026)](https://github.com/NethermindEth/nethermind/commit/e38aa171e3d9928a39aa0d532f5ecb956e18aab3) - 2025-08-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 ## Q2 2025

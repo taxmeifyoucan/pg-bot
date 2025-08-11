@@ -57,6 +57,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Fix lint](https://github.com/OffchainLabs/prysm/commit/55c14a601153da5674209b0ffe6fb8153f9c18cd) - 2025-08-09
 * [Commit] [James feedback](https://github.com/OffchainLabs/prysm/commit/15d3472752abbc876d852db4041e951d581760ad) - 2025-08-09
 * [Commit] [removing ssz-only flag ( reverting feature) and fix accept header middleware (#15433)](https://github.com/OffchainLabs/prysm/commit/77958022e7a6af74196855f053498d4a7172ea78) - 2025-08-09
+* [Commit] [Unify log](https://github.com/OffchainLabs/prysm/commit/f12c7efe744edc080fc81baafed9ad70ca0342d1) - 2025-08-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

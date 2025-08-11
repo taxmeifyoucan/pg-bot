@@ -152,6 +152,9 @@ Team: Erigon
 * [Commit] [print commited  block](https://github.com/erigontech/erigon/commit/ccfa69e13ad12ce96c30ccba5fb996b8dfc688da) - 2025-08-08
 * [Commit] [print commited  block](https://github.com/erigontech/erigon/commit/4d422c73f706482c9bad93abea3d87848ee16464) - 2025-08-08
 * [Commit] [compiling - untested](https://github.com/erigontech/erigon/commit/7749382b7c7047f1a2972dbfb32e4085188fa4a0) - 2025-08-09
+* [Commit] [remove commit printers](https://github.com/erigontech/erigon/commit/43226c24604e97c376a279e800aa867747168546) - 2025-08-10
+* [Commit] [remove commit printers](https://github.com/erigontech/erigon/commit/8513dadd5ae1d7d2dd9fdb885ba02e43cca6971b) - 2025-08-10
+* [Commit] [initial twigfile testing](https://github.com/erigontech/erigon/commit/4ecec129e21be99b6cf1efdfa55e88bd5bb93258) - 2025-08-10
 ## Q2 2025
 
 

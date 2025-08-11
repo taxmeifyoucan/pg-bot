@@ -119,6 +119,8 @@ Team: Reth
 * [Issue] [Introduce helper for IndexedTx](https://github.com/paradigmxyz/reth/issues/17735) - 2025-08-05
 * [Pull Request] [chore: feature gate async](https://github.com/paradigmxyz/reth/pull/17734) - 2025-08-05
 * [Pull Request] [chore: rm trie dep](https://github.com/paradigmxyz/reth/pull/17732) - 2025-08-05
+* [Pull Request] [chore: msrv 1.88](https://github.com/paradigmxyz/reth/pull/17782) - 2025-08-10
+* [Commit] [chore: msrv](https://github.com/paradigmxyz/reth/commit/ac54ee0c998253184d81adc74e9340e7a587d494) - 2025-08-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025
