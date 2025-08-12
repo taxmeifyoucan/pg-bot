@@ -62,6 +62,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: comment and log statement](https://github.com/ChainSafe/lodestar/commit/1ddec9e08ffed0229bad6c34847e1c6a82e8caa6) - 2025-08-08
 * [Commit] [fix: explicit type](https://github.com/ChainSafe/lodestar/commit/2ab1f03cf88def1b32dc751563558f94093b4e8e) - 2025-08-08
 * [Issue] [Use sha commit to docs for spec references](https://github.com/ChainSafe/lodestar/issues/8171) - 2025-08-10
+* [Commit] [feat: incorporate EL client research findings to clean up methods and remove timeout/retry](https://github.com/ChainSafe/lodestar/commit/b3e9a0b61d347f214822c7452282d54e14ed2a1e) - 2025-08-11
+* [Commit] [fix: remove git from Dockerfile (#8160)](https://github.com/ChainSafe/lodestar/commit/d487465d1262146a841f09d2ef7d9aea04577cf5) - 2025-08-11
+* [Commit] [fix: import names](https://github.com/ChainSafe/lodestar/commit/0ad0b4bf4d0876687ffc4a7d690895c5b4cbda8e) - 2025-08-11
+* [Commit] [fix: update groupSequentialIndices to handle non-sequential indices](https://github.com/ChainSafe/lodestar/commit/e45ec7280ee4459a6723927be8af34cd9ca8a759) - 2025-08-11
+* [Pull Request] [fix: revert blob metric](https://github.com/ChainSafe/lodestar/pull/8175) - 2025-08-11
+* [Issue] [Review metrics for blobs and columns](https://github.com/ChainSafe/lodestar/issues/8174) - 2025-08-11
+* [Commit] [refactor: clean up fulu fork guards  (#8162)](https://github.com/ChainSafe/lodestar/commit/22f8a0935ed0ee93692b8ad607f7b2c9baa255cb) - 2025-08-11
+* [Commit] [feat: add blob metric for consistency](https://github.com/ChainSafe/lodestar/commit/c1203f15275eb6c664407260b7dfed2b8b55e9ea) - 2025-08-11
 ## Q2 2025
 
 

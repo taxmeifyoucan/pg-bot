@@ -49,6 +49,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/07f8e577dbb718b51c6f4659ddffa2dc04b310ba) - 2025-08-06
 * [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/41cac7f860b9081653f33798c9e37668a54a87d6) - 2025-08-06
 * [Pull Request] [serialization: bump](https://github.com/status-im/nimbus-eth1/pull/3544) - 2025-08-06
+* [Commit] [stew: bump to master (#3555)](https://github.com/status-im/nimbus-eth1/commit/bbefd408cd25c18512a38ecb52f2b0549e06c2ce) - 2025-08-11
+* [Pull Request] [stew: bump to master](https://github.com/status-im/nimbus-eth1/pull/3555) - 2025-08-11
+* [Commit] [serialization: more bumps (#3524)](https://github.com/status-im/nimbus-eth1/commit/5286def0b0bf14a509734196fd9742ed91e55085) - 2025-08-11
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/76818a5f8aa19cd9dd2bfa9f28c60f969f49b30d) - 2025-08-11
+* [Commit] [more](https://github.com/status-im/nimbus-eth1/commit/2baf86a069a57d9d4bfc1e59f38dd07e43ec039f) - 2025-08-11
+* [Commit] [Fix stateroot mismatch caused by stale db cache when using checkpoints (#3527)](https://github.com/status-im/nimbus-eth1/commit/3f6b570fb081afe930a58cb00fef129becc5a605) - 2025-08-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -95,6 +101,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [comment](https://github.com/status-im/nimbus-eth2/commit/bc2880cf6d86f0118701bc944f2c72aa30e694a8) - 2025-08-06
 * [Pull Request] [use `Address` from `eth` throughout](https://github.com/status-im/nimbus-eth2/pull/7364) - 2025-08-06
 * [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/75c9d924c0d39107d8234a18bf942136576e0023) - 2025-08-06
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/43cec2d058c0a42a6eb2505a09d6bdb28d88dceb) - 2025-08-11
+* [Commit] [stale comment](https://github.com/status-im/nimbus-eth2/commit/40276a956f1768e18f11db17c5ecdde767cf03fd) - 2025-08-11
+* [Commit] [serialization: bump (#7361)](https://github.com/status-im/nimbus-eth2/commit/43e189fba8f088fd3ee01cfc7944c62699bbe1f2) - 2025-08-11
+* [Commit] [gnosis](https://github.com/status-im/nimbus-eth2/commit/41399f0759aea3d5dab098688beb5a93353ae170) - 2025-08-11
+* [Commit] [ncli_testnet too](https://github.com/status-im/nimbus-eth2/commit/9ed2959c4994ca475ca1af1f0cd0dae5f2fc09cc) - 2025-08-11
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

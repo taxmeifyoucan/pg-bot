@@ -36,6 +36,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Fix incorrect data columns by root requests](https://github.com/grandinetech/grandine/commit/9aaf1b154ef3a76a19fcfa6ba7ed2c00a7b7ddc1) - 2025-08-08
 * [Commit] [Skip `get_custody_groups` computation for super node](https://github.com/grandinetech/grandine/commit/99d84990874771d4bb103dde99c53a1fc88d4237) - 2025-08-08
 * [Commit] [Fix incorrect data columns by root requests](https://github.com/grandinetech/grandine/commit/725faac4354d2516f2c2f2bf02e06a5f93723661) - 2025-08-08
+* [Pull Request] [Update consensus-spec-tests to v1.6.0-alpha.4](https://github.com/grandinetech/grandine/pull/294) - 2025-08-11
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

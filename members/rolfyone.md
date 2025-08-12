@@ -45,6 +45,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [moved bellatrix epoch and version to base spec config (#9750)](https://github.com/Consensys/teku/commit/7dea3be094f9f7deaf0abdabdca4ad6715bd6939) - 2025-08-07
 * [Issue] [remove basic auth stripping from the VC](https://github.com/Consensys/teku/issues/9755) - 2025-08-08
 * [Commit] [refactored out ApprovedRequest (#9753)](https://github.com/Consensys/teku/commit/8562dc40c935e92d33d3604b2ea159bfe9bd1f93) - 2025-08-08
+* [Pull Request] [Moved fulu fork version and epoch](https://github.com/Consensys/teku/pull/9760) - 2025-08-11
+* [Commit] [Moved electra fork version and epoch to specConfigPhase0 (#9759)](https://github.com/Consensys/teku/commit/f59d212135f210e36515ce6f09bddd71ad558341) - 2025-08-11
+* [Pull Request] [Moved electra fork version and epoch to specConfigPhase0](https://github.com/Consensys/teku/pull/9759) - 2025-08-11
 ## Q2 2025
 
 

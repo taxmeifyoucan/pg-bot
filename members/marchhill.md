@@ -126,6 +126,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [don't use blockstore directly](https://github.com/NethermindEth/nethermind/commit/4c5c6308a3708b19cdd4fc812acd663dc3e4f3d4) - 2025-08-08
 * [Commit] [don't use blockstore directly](https://github.com/NethermindEth/nethermind/commit/57c75fb5af60edf06388014e36f7dffaefa82e3c) - 2025-08-08
 * [Commit] [keep blockinfos and headers](https://github.com/NethermindEth/nethermind/commit/2d87038db1182924bbb3bb09e6ca6cf9bdd16ecd) - 2025-08-08
+* [Pull Request] [Block Level Access Lists](https://github.com/NethermindEth/nethermind/pull/9114) - 2025-08-11
+* [Commit] [Use lighter GetBlockNumber for OnForkChoiceUpdated (#9112)](https://github.com/NethermindEth/nethermind/commit/7f0eb6caaafcd842da7f7adfe2e5d540635e7f93) - 2025-08-11
+* [Commit] [fix typo](https://github.com/NethermindEth/nethermind/commit/9ded82d27896e550ac726e434e76a281ae7c4b9d) - 2025-08-11
+* [Commit] [Drop pre-merge data on Gnosis (#9093)](https://github.com/NethermindEth/nethermind/commit/b7f74ff730b23a56635fa036fe85de06293e6ab0) - 2025-08-11
+* [Commit] [remove db intensive task lock](https://github.com/NethermindEth/nethermind/commit/eb4abff7d8f7708f5745c3dc81c19c0d4899bf5e) - 2025-08-11
 ## Q2 2025
 
 

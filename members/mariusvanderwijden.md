@@ -25,6 +25,8 @@ Team: Geth
 * [Pull Request] [eth/protocols/snap: add healing and syncing metrics](https://github.com/ethereum/go-ethereum/pull/32258) - 2025-07-22
 
 * [Commit] [all: replace fmt.Errorf with errors.New (#32286)](https://github.com/ethereum/go-ethereum/commit/32d537cd588efe31e70ad3333cdaaed35f041a21) - 2025-07-28
+* [Commit] [downloader: fix comment (#32382)](https://github.com/ethereum/go-ethereum/commit/2485d096f33d1b073230ff9f53c5b5ebf9c293b5) - 2025-08-11
+* [Commit] [miner: remove todo comment (#32389)](https://github.com/ethereum/go-ethereum/commit/6238effeff1ef0f20f4b57188d6c021d7393a6e8) - 2025-08-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Map TYPE_3_TX_BLOB_COUNT_EXCEEDED](https://github.com/ethereum/execution-spec-tests/pull/1958) - 2025-07-28
 ## Q2 2025

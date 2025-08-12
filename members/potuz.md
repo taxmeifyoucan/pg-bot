@@ -26,6 +26,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Fix race on ReceibeBlock](https://github.com/OffchainLabs/prysm/pull/15565) - 2025-08-06
 * [Commit] [fix mac os X](https://github.com/OffchainLabs/prysm/commit/6f89cb533008bf8e999ba045bb8d7a4e8ea7f0f9) - 2025-08-08
 * [Commit] [fix windows compilation](https://github.com/OffchainLabs/prysm/commit/e315f78b97e5921c28ec85d1e6817398d8f4658a) - 2025-08-08
+* [Commit] [add testcase](https://github.com/OffchainLabs/prysm/commit/ab80865286e23a28da1adbc317d5ecafb4d62e31) - 2025-08-11
 ## Q2 2025
 
 

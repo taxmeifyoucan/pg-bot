@@ -58,6 +58,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [James feedback](https://github.com/OffchainLabs/prysm/commit/15d3472752abbc876d852db4041e951d581760ad) - 2025-08-09
 * [Commit] [removing ssz-only flag ( reverting feature) and fix accept header middleware (#15433)](https://github.com/OffchainLabs/prysm/commit/77958022e7a6af74196855f053498d4a7172ea78) - 2025-08-09
 * [Commit] [Unify log](https://github.com/OffchainLabs/prysm/commit/f12c7efe744edc080fc81baafed9ad70ca0342d1) - 2025-08-11
+* [Commit] [Builder: consolidate HTTP request methods and improve status code validation](https://github.com/OffchainLabs/prysm/commit/ed9c6d72bfcd563bac21abb4d36201c50ea50a99) - 2025-08-11
+* [Pull Request] [gofmt: fix formatting issues in test files](https://github.com/OffchainLabs/prysm/pull/15577) - 2025-08-11
+* [Commit] [Unskip TestServer_GetBeaconConfig](https://github.com/OffchainLabs/prysm/commit/e98ef86efe258057e5191507c09d1fc26f43fbf7) - 2025-08-11
+* [Commit] [Reuse ErrInvalidTopic from p2p package](https://github.com/OffchainLabs/prysm/commit/7e849be3a86c32d268ce674b830af3ca87dbf057) - 2025-08-11
+* [Commit] [Remove VerifyBlockHeaderSignatureUsingCurrentFork](https://github.com/OffchainLabs/prysm/commit/9c3061f6e57f8f72af3f23dbb958e3ad59346f8f) - 2025-08-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

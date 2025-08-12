@@ -53,6 +53,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: handle wait error message](https://github.com/ChainSafe/lodestar/commit/a6d90a67f3a248851b9d9f9c71a5107f094132f2) - 2025-08-07
 * [Pull Request] [feat: reduce peer score if they send mismatch DataColumnSidecars](https://github.com/ChainSafe/lodestar/pull/8167) - 2025-08-09
 * [Pull Request] [feat: avoid rate limit syncing](https://github.com/ChainSafe/lodestar/pull/8166) - 2025-08-09
+* [Commit] [Revert "feat: update local status cache with post-fulu earliestAvailableSlot status"](https://github.com/ChainSafe/lodestar/commit/6aa3e19317955260d1f4ae6f6fb2bf8635296d18) - 2025-08-11
+* [Commit] [fix: spec tests](https://github.com/ChainSafe/lodestar/commit/73006956878f739e38dcc85f9158a130f456816f) - 2025-08-11
+* [Commit] [feat: update local status cache with post-fulu earliestAvailableSlot status](https://github.com/ChainSafe/lodestar/commit/35abca0d171b7b762448eef479ccef3f15637252) - 2025-08-11
+* [Commit] [fix: blockArchiver unit tests](https://github.com/ChainSafe/lodestar/commit/57705f33831d5296a64a0629aa2490ff25118ac6) - 2025-08-11
+* [Pull Request] [fix: fork-aware version when sending status message](https://github.com/ChainSafe/lodestar/pull/8173) - 2025-08-11
+* [Commit] [fix: throw error if byRange returns 0 block for out-of-range BlockInput](https://github.com/ChainSafe/lodestar/commit/77ebba7f98c3ead523dc2df9b78c849d04be01b2) - 2025-08-11
+* [Commit] [fix: throw error if byRange returns 0 block for out-of-range BlockInput](https://github.com/ChainSafe/lodestar/commit/53d52baff23e18bb198c030cae4174f03808b300) - 2025-08-11
 ## Q2 2025
 
 

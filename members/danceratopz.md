@@ -103,6 +103,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 32876116bfb to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e32641d7a94e835db8c4ccb87dd6156e945a8d14) - 2025-08-08
 * [Commit] [Deployed 75f51bc6d07 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3db735b7e03b792586470f8cc513e2730a32acbd) - 2025-08-08
 * [Commit] [refactor(filler): Remove global session and use config-based approach](https://github.com/ethereum/execution-spec-tests/commit/d976f76654b0a00c17019149f33e8a1986b4bc8f) - 2025-08-08
+* [Commit] [Deployed 43270a2b091 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e7a757a1cd83da0bc2a63c519ebc5ef81be81160) - 2025-08-11
+* [Commit] [chore(tooling): remove unused tenacity dependency (#2019)](https://github.com/ethereum/execution-spec-tests/commit/43270a2b091e2588e454310972574197b012fb36) - 2025-08-11
+* [Commit] [chore(ci): bump prague to stable and osaka to develop (#1573)](https://github.com/ethereum/execution-spec-tests/commit/575eb8ab6228b5918600868bba5c1e8b1cd2ebb2) - 2025-08-11
 ## Q2 2025
 
 

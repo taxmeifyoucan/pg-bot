@@ -148,6 +148,13 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [more transitions to account_id](https://github.com/bluealloy/revm/commit/d70afcd9e713e95e5b9403d7135860c58c4767a0) - 2025-08-09
 * [Commit] [Aggregate changes from PRs #2866, #2867, and #2874 (#2876)](https://github.com/bluealloy/revm/commit/012aacedd6f64cb1e0ad651eace25a3bd3cb0191) - 2025-08-10
 * [Pull Request] [Aggregate cleanup changes from PRs #2866, #2867, and #2874](https://github.com/bluealloy/revm/pull/2876) - 2025-08-10
+* [Commit] [Revert "inline never some functions"](https://github.com/bluealloy/revm/commit/3b804f383eb21ad8585150ea59ce00bc206a9e18) - 2025-08-11
+* [Commit] [inline never some functions](https://github.com/bluealloy/revm/commit/7a18695a73b8d496888cf76ec6d92252fb94bc3d) - 2025-08-11
+* [Commit] [use new EvmState](https://github.com/bluealloy/revm/commit/8ab1352308577891d4d14a52e4e9015c8b8187b9) - 2025-08-11
+* [Commit] [make load inline never](https://github.com/bluealloy/revm/commit/569b4b7017b459a08ba794c6f19a8d36fc94d552) - 2025-08-11
+* [Commit] [chore: release (#2854)](https://github.com/bluealloy/revm/commit/efb7bb11d0d33782a0094e2ad7732881f1378936) - 2025-08-11
+* [Pull Request] [wip feat(Jurnal): Accounts saved in index map.](https://github.com/bluealloy/revm/pull/2878) - 2025-08-11
+* [Commit] [journal entry, and integration](https://github.com/bluealloy/revm/commit/4f081804209ac2a93751e4fab98c8e6e2f6a1fa2) - 2025-08-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

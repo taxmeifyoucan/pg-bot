@@ -155,6 +155,11 @@ Team: Erigon
 * [Commit] [remove commit printers](https://github.com/erigontech/erigon/commit/43226c24604e97c376a279e800aa867747168546) - 2025-08-10
 * [Commit] [remove commit printers](https://github.com/erigontech/erigon/commit/8513dadd5ae1d7d2dd9fdb885ba02e43cca6971b) - 2025-08-10
 * [Commit] [initial twigfile testing](https://github.com/erigontech/erigon/commit/4ecec129e21be99b6cf1efdfa55e88bd5bb93258) - 2025-08-10
+* [Commit] [add comittement check for last output tx](https://github.com/erigontech/erigon/commit/cd598dc396e6051dee6a7fdef1b6e06d7f9fae31) - 2025-08-11
+* [Commit] [add comittement check for last output tx](https://github.com/erigontech/erigon/commit/09b9e4d0a59c23cbc013c526e546f62765687276) - 2025-08-11
+* [Commit] [add steps in files report to temporal getters](https://github.com/erigontech/erigon/commit/023d0c672fba9c743e38721bcb810b921ac9715b) - 2025-08-11
+* [Commit] [twigfile tests passing](https://github.com/erigontech/erigon/commit/b865a5df9fa41af45e9f284d40437ad0dbcb416f) - 2025-08-11
+* [Commit] [rpcdaemon: Estimate gas align to geth (#16397)](https://github.com/erigontech/erigon/commit/cee3f4af2e1c8e3fbd0081558177b899e5c73784) - 2025-08-11
 ## Q2 2025
 
 

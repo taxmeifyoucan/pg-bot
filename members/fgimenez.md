@@ -91,6 +91,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [feat(rpc): add Other(String) variant to RethRpcModule for custom RPC modules](https://github.com/paradigmxyz/reth/pull/17758) - 2025-08-08
 
 * [Commit] [add validation warnings for configured but unregistered RPC modules](https://github.com/paradigmxyz/reth/commit/4c8b6a3e1a68ba65f4bee83a6dc583c1d13579bd) - 2025-08-08
+* [Commit] [reorder impls](https://github.com/paradigmxyz/reth/commit/7326c4651656709428159510a651b00a32b8375b) - 2025-08-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add blob per tx limit for reth](https://github.com/ethereum/execution-spec-tests/pull/2016) - 2025-08-08
 ## Q2 2025

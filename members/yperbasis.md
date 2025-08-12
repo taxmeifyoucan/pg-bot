@@ -66,6 +66,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [mv seg to db](https://github.com/erigontech/erigon/commit/84b3ee1ca2a680c0ade5f33e201acd9e83f20354) - 2025-08-08
 * [Commit] [fix comment](https://github.com/erigontech/erigon/commit/8d413010432ee6e154ec93963083ac2d5361a379) - 2025-08-08
 * [Commit] [[r3.1] rpc: fix evm timeout in GetReceipts (#16496) (#16498)](https://github.com/erigontech/erigon/commit/70d995fed4af25f6663a3537fdf999abb52d6403) - 2025-08-08
+* [Commit] [Move `polygon/bor/valset` to `polygon/heimdall` and flatten (#16556)](https://github.com/erigontech/erigon/commit/82b961a86efcd3343ddad0b2a080cb99b737a098) - 2025-08-11
+* [Commit] [small fix](https://github.com/erigontech/erigon/commit/ebf8b1fd038be0d8d777939953986acfdd37a210) - 2025-08-11
+* [Pull Request] [dir improvements: move `chain` from `erigon-lib` to `execution`](https://github.com/erigontech/erigon/pull/16557) - 2025-08-11
+* [Commit] [Remove Bor-related interfaces from FullBlockReader (#16520)](https://github.com/erigontech/erigon/commit/226c64a9416fcba13227bdacbe24c9e29158bc8e) - 2025-08-11
+* [Commit] [chainspec -> chain/spec](https://github.com/erigontech/erigon/commit/39a7a7a6b9d17f69e6be73251709c07a660d1d3c) - 2025-08-11
+* [Commit] [mv chain to execution](https://github.com/erigontech/erigon/commit/d121689a8d27830542b1cc3ab9cf7b70f6efd48a) - 2025-08-11
+* [Commit] [mv paths to node](https://github.com/erigontech/erigon/commit/b3ed633ed353363fd296e06b752165c9edb2a432) - 2025-08-11
+* [Commit] [mv fixedgas to execution](https://github.com/erigontech/erigon/commit/27739fe8c314795ff4c5b29b1941412796d5dc51) - 2025-08-11
+* [Commit] [rm pedersen hash](https://github.com/erigontech/erigon/commit/81e870ef6aca5ca55ef9a0bdee73b53bc738158d) - 2025-08-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

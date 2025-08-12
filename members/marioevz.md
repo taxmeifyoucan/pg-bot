@@ -73,6 +73,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [refactor(fill): extract phase management into testable components (#2010)](https://github.com/ethereum/execution-spec-tests/commit/f47a08d7962e6d7760088456c703ea4e8bcb9299) - 2025-08-08
 * [Commit] [fix: docs issue](https://github.com/ethereum/execution-spec-tests/commit/30def0be7db9eeec060a432afd1686a237b23c4b) - 2025-08-08
 * [Commit] [refactor: typing](https://github.com/ethereum/execution-spec-tests/commit/4682817f3aee391ccfb7fcc064d6714740616e6a) - 2025-08-08
+* [Commit] [fix(tests): Remove duplicates from tests/osaka/eip7951_p256verify_precompiles/vectors/secp256r1_test.json (#2017)](https://github.com/ethereum/execution-spec-tests/commit/41c9057ae3f5d6c13bfba3c2fcb41c6f6ec4ab81) - 2025-08-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

@@ -55,6 +55,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [Release 25.8.0](https://github.com/hyperledger/besu/issues/9041) - 2025-08-07
 * [Commit] [Removed BlockExplorer and AbstractBlockScheduler due single implementation. (#9026)](https://github.com/hyperledger/besu/commit/2ae348dbbfd559263b4496255ef600a42f8258d4) - 2025-08-07
 * [Pull Request] [[MINOR] deduplicated `JsonRpcHttpServiceTlsMisconfigurationTest`](https://github.com/hyperledger/besu/pull/9042) - 2025-08-08
+* [Commit] [EngineNewPayload - respond with error if params invalid (#8729)](https://github.com/hyperledger/besu/commit/7a3ca6b7ce17ab9e298159878ea3bf6c38a79fce) - 2025-08-11
+* [Commit] [update checkout action to 4.2.2 (#9052)](https://github.com/hyperledger/besu/commit/de88eae7111b31aa3e31e35cf36bb41c7fac352e) - 2025-08-11
+* [Pull Request] [update checkout action to 4.2.2](https://github.com/hyperledger/besu/pull/9052) - 2025-08-11
 ## Q2 2025
 
 

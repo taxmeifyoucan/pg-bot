@@ -31,6 +31,8 @@ Team: Grandine
 * [Pull Request] [HTTP API waiting for block events](https://github.com/grandinetech/grandine/pull/289) - 2025-08-07
 * [Pull Request] [Wait for head to become fully verified before starting local validator attest duty](https://github.com/grandinetech/grandine/pull/291) - 2025-08-08
 * [Commit] [Modified fork choice event broadcast mechanism (that is used in beacon node events endpoint) to be more generic](https://github.com/grandinetech/grandine/commit/a9c4315fbd1eec64f1c49a5ed0bfe91ba84773bb) - 2025-08-08
+* [Commit] [Fix wait for fully verified head for sync committee duties in local validator](https://github.com/grandinetech/grandine/commit/d4158ee4f08e4b92abbefc9987024e7784cc809a) - 2025-08-11
+* [Pull Request] [Fix wait for fully verified head for sync committee duties in local validator](https://github.com/grandinetech/grandine/pull/293) - 2025-08-11
 ## Q2 2025
 
 

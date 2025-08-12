@@ -25,6 +25,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: remove stale peerdas lines and simple renamings (#8128)](https://github.com/ChainSafe/lodestar/commit/16e67f1abb6839c52a67703bf6e7f1c0b77151d6) - 2025-08-07
 * [Pull Request] [refactor: block proposal](https://github.com/ChainSafe/lodestar/pull/8155) - 2025-08-08
 * [Issue] [IPv6 Issue in fusaka-devnet-4](https://github.com/ChainSafe/lodestar/issues/8153) - 2025-08-08
+* [Commit] [test: unit tests and e2e tests of peerDAS branch (#8173)](https://github.com/ChainSafe/lodestar/commit/ee2a43108d791952a43996eed59253195165deea) - 2025-08-11
+* [Commit] [fix: sync tests assume non-zero processing error retry](https://github.com/ChainSafe/lodestar/commit/af1ba59ebbe7c6f5530eb6e3abbdee37e0aecabb) - 2025-08-11
+* [Commit] [feat: clean up fulu peer connected event (#8157)](https://github.com/ChainSafe/lodestar/commit/90130530b8a8d71b6dfc4ee15f6995e82948f421) - 2025-08-11
+* [Commit] [fix: handle bad response of 0 block from peer (#8150)](https://github.com/ChainSafe/lodestar/commit/1d608c58ddd15feb9f0bb98faa7bd29ed4fe6441) - 2025-08-11
+* [Issue] [Concider retrying the batch with a different peer](https://github.com/ChainSafe/lodestar/issues/8176) - 2025-08-11
+* [Commit] [fix: only start sending StatusV2 requests after fulu (#8169)](https://github.com/ChainSafe/lodestar/commit/6a45c480e76da6cc15f2a6889d544d71206b594a) - 2025-08-11
+* [Commit] [feat: avoid rate limit syncing (#8166)](https://github.com/ChainSafe/lodestar/commit/38889e2b2c7941176749f55ca7c391575a0aafa7) - 2025-08-11
+* [Commit] [Update packages/beacon-node/src/sync/range/utils/peerBalancer.ts](https://github.com/ChainSafe/lodestar/commit/8345f317b33998384b49495724f50f50db156ea4) - 2025-08-11
+* [Commit] [fix: fulu logs peer manager (#8158)](https://github.com/ChainSafe/lodestar/commit/4edf4c6b52cebb39a22a1d451d40a845cd33a753) - 2025-08-11
+* [Commit] [feat: bump spec test to `v1.6.0-alpha.4`. Add data columns to fork-choice spec test (#8170)](https://github.com/ChainSafe/lodestar/commit/6aab6cb13fc068f7ae55750c0bca9c7c7d06f3e5) - 2025-08-11
+* [Commit] [feat: reduce peer score if they send mismatch DataColumnSidecars (#8167)](https://github.com/ChainSafe/lodestar/commit/a1c6aa6bc2c7e79210024e7c253d1f1d1bd98705) - 2025-08-11
+* [Commit] [Update packages/beacon-node/src/network/reqresp/beaconBlocksMaybeBlobsByRange.ts](https://github.com/ChainSafe/lodestar/commit/6621de17408e0e010bace2d89e3b7f2612d8bc5d) - 2025-08-11
 ## Q2 2025
 
 

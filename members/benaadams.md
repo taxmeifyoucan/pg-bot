@@ -194,6 +194,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Use less stack in short path](https://github.com/NethermindEth/nethermind/commit/78d9a9c3ae8b52e460c362e710dda430dae5a1c5) - 2025-08-10
 * [Commit] [Add tests](https://github.com/NethermindEth/nethermind/commit/79fd76a7a422a46a3541f013e5ba89ccd2c16f8a) - 2025-08-10
 * [Pull Request] [Improve ByteArrayConverter for hex string handling](https://github.com/NethermindEth/nethermind/pull/9105) - 2025-08-10
+* [Pull Request] [Use lighter GetBlockNumber for OnForkChoiceUpdated](https://github.com/NethermindEth/nethermind/pull/9112) - 2025-08-11
+* [Pull Request] [Use single event subscription for NewPayload](https://github.com/NethermindEth/nethermind/pull/9107) - 2025-08-11
+* [Commit] [fix: Replace mutable TxReceipt.SkipStateAndStatusInRlp with constructor-based approach (#9057)](https://github.com/NethermindEth/nethermind/commit/8ba70c6ae393fb9df093e519cb52bdf52d859ec5) - 2025-08-11
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/22dcdd72adc9151edf7e59835e375cff9507511a) - 2025-08-11
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

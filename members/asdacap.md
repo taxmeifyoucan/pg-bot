@@ -146,6 +146,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [allow disabling by setting to 0](https://github.com/NethermindEth/nethermind/commit/6c777e27956c9f800b34ff3ea567eb882935800b) - 2025-08-07
 * [Pull Request] [Perf/Non blocking memory pruning](https://github.com/NethermindEth/nethermind/pull/9096) - 2025-08-07
 * [Pull Request] [Remove readonly trie store read with custom node storage.](https://github.com/NethermindEth/nethermind/pull/9102) - 2025-08-09
+* [Commit] [Fix eth_config (#9071)](https://github.com/NethermindEth/nethermind/commit/f23ce0026788eee9a231cf1ea792421f2e0d4f0f) - 2025-08-11
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/38aeb694f6b173cafe758a3ed336b119db0bc818) - 2025-08-11
+* [Commit] [Nethermind UI (initial) (#9090)](https://github.com/NethermindEth/nethermind/commit/2a7f0973bc89a52e2504e724e83079065697fce9) - 2025-08-11
+* [Commit] [Fix crash on after db dispose and concurrent full pruning start (#9111)](https://github.com/NethermindEth/nethermind/commit/d48a52bce106a60f8c66eaa90f88b8cbf5961265) - 2025-08-11
+* [Pull Request] [Fix crash on after db dispose and concurrent full pruning start](https://github.com/NethermindEth/nethermind/pull/9111) - 2025-08-11
+* [Commit] [Remove use of blockchain processor in RPC (#9021)](https://github.com/NethermindEth/nethermind/commit/037fe3c841a8532f2f710853d0fb2ac2a7186dba) - 2025-08-11
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

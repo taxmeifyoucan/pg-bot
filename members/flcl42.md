@@ -72,8 +72,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Debug te](https://github.com/NethermindEth/nethermind/commit/df4b4084e56269fea3bf4f41709905ddbdc5fee6) - 2025-08-08
 * [Commit] [Debug te](https://github.com/NethermindEth/nethermind/commit/b65999e78fc195775379bc343aadd8f1a997baad) - 2025-08-08
 * [Commit] [Rollback discv5 update (#9026)](https://github.com/NethermindEth/nethermind/commit/e38aa171e3d9928a39aa0d532f5ecb956e18aab3) - 2025-08-10
+* [Pull Request] [Fix discv5](https://github.com/NethermindEth/nethermind/pull/9113) - 2025-08-11
+* [Pull Request] [Make Kademlia generic](https://github.com/NethermindEth/nethermind/pull/9109) - 2025-08-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [fix(consume): Swap nethermind blob limit related messages](https://github.com/ethereum/execution-spec-tests/pull/2022) - 2025-08-11
 ## Q2 2025
 
 

@@ -45,6 +45,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: run `lodestar` root binary from any directory (#8154)](https://github.com/ChainSafe/lodestar/commit/d5a4e7a09c3ff3da106caaf41b99b23317c2b275) - 2025-08-08
 * [Pull Request] [feat: run `lodestar` root binary from any directory](https://github.com/ChainSafe/lodestar/pull/8154) - 2025-08-08
 * [Pull Request] [fix: do not dial identify on dying connections](https://github.com/ChainSafe/lodestar/pull/8152) - 2025-08-08
+* [Commit] [fix: log pre fulu archive (#8137)](https://github.com/ChainSafe/lodestar/commit/70a92149079654d6e0cc6537dc54b84898d453c7) - 2025-08-11
+* [Commit] [Update the onPeerConnect to much safer identification](https://github.com/ChainSafe/lodestar/commit/3494bbed9b1a8d9b9ae878a2c9cf44b5333fcd6a) - 2025-08-11
 ## Q2 2025
 
 

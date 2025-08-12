@@ -40,6 +40,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Pull Request] [Don't submit duplicate `SignedContributionAndProof` messages](https://github.com/OffchainLabs/prysm/pull/15571) - 2025-08-08
 * [Commit] [Don't submit duplicate aggregated `SignedContributionAndProof` messages](https://github.com/OffchainLabs/prysm/commit/7d640d5c693d75ec4e6ea44cf2d8c66d4ec1a05a) - 2025-08-08
 * [Commit] [Don't submit duplicate aggregated `SignedContributionAndProof` messages](https://github.com/OffchainLabs/prysm/commit/7c3f2c6144a3b5d281e37a1ed9f3c9edefb68776) - 2025-08-08
+* [Commit] [remove Copy()](https://github.com/OffchainLabs/prysm/commit/1091bc25416040b6018efe161c402d739c616a07) - 2025-08-11
+* [Commit] [cosmetic changes](https://github.com/OffchainLabs/prysm/commit/7755cd6f3e4ef87b3384e660f8eada545c0ff4aa) - 2025-08-11
+* [Commit] [Radek's comments](https://github.com/OffchainLabs/prysm/commit/3b01a5649d341a2d3f11216b04a34308bc15cf83) - 2025-08-11
 ## Q2 2025
 
 

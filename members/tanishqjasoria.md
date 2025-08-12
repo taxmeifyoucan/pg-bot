@@ -21,6 +21,11 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [Merge feature/arbitrum-setup](https://github.com/NethermindEth/nethermind/commit/eb728975dd69f3a2cd1300b35ffbba42fa2d3cd9) - 2025-07-25
 * [Commit] [keep VirtualMachineBase in the same file (#9033)](https://github.com/NethermindEth/nethermind/commit/70a269eeb34126a01a2a7d34955721aa5386a4b9) - 2025-07-25
 * [Commit] [add make file](https://github.com/NethermindEth/nethermind/commit/23e80b53e988683206338abe17fc57af1d8ca4f8) - 2025-08-07
+* [Commit] [fix more issues](https://github.com/NethermindEth/nethermind/commit/61594eeacbdf17d723679cb061c6423174a0d9c1) - 2025-08-11
+* [Pull Request] [Tanishq/feature/stateless execv2](https://github.com/NethermindEth/nethermind/pull/9110) - 2025-08-11
+* [Commit] [add more options](https://github.com/NethermindEth/nethermind/commit/6a95445c69e571c417a250d340cb9cc3a165320e) - 2025-08-11
+* [Commit] [another type exception fix](https://github.com/NethermindEth/nethermind/commit/1d94c191c681ddd4ded633a6788c135172b17985) - 2025-08-11
+* [Commit] [temp change](https://github.com/NethermindEth/nethermind/commit/0b1686a53ef26c63f1e9330638d7d99d057933dc) - 2025-08-11
 ## Q2 2025
 
 

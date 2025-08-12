@@ -623,6 +623,40 @@ Team: Erigon
 * [Commit] [ txpool: Add max hashes limit to new_txn_hashes_66  (#16506)](https://github.com/erigontech/erigon/commit/051005d3dc68ace52c0838cb6d8e7ed102e97ab1) - 2025-08-09
 * [Commit] [rpcdaemon: add rpc-test on latest  (#16521)](https://github.com/erigontech/erigon/commit/b5663534f537804a57f62d47a303f80a52348e4f) - 2025-08-10
 * [Issue] [ethmainnet 3.0  snapshotter gap in block files](https://github.com/erigontech/erigon/issues/16525) - 2025-08-10
+* [Commit] [[r31] remove os.truncate (#16552)](https://github.com/erigontech/erigon/commit/a00ee549f22c62c78305efa9ab1c6904b2b79afe) - 2025-08-11
+* [Commit] [[r32] remove os.truncate (#16553)](https://github.com/erigontech/erigon/commit/378e4da5043f41302369d2f2193f8f29ddd0d027) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dc725e87e52bad64a7c06b6e6a32934557b555fc) - 2025-08-11
+* [Commit] [edit publishable to find gaps at start (#16548)](https://github.com/erigontech/erigon/commit/d7d856464acffb0568d5e0cf2898d1f98c8d3d34) - 2025-08-11
+* [Commit] [snapshots reset, torrent logging and upgrade docs (#16507)](https://github.com/erigontech/erigon/commit/7a28009f5e03dddf7976dbcf5fcd67202f2c76ed) - 2025-08-11
+* [Commit] [edit publishable to find gaps at start (#16550)](https://github.com/erigontech/erigon/commit/03d9fd0c615904f8b55a09d66ca596ce46d2f7ea) - 2025-08-11
+* [Pull Request] [[r32] remove os.truncate](https://github.com/erigontech/erigon/pull/16553) - 2025-08-11
+* [Commit] [Torrent performance and misc downloader tweaks (#16328)](https://github.com/erigontech/erigon/commit/d0112e7c8c26ae1b06926913275cb7b8ab333600) - 2025-08-11
+* [Pull Request] [[r31] remove os.truncate](https://github.com/erigontech/erigon/pull/16552) - 2025-08-11
+* [Commit] [enable trace deletion (#16546)](https://github.com/erigontech/erigon/commit/a55357cf6da0284b7cb0f209fbc51c84e659495d) - 2025-08-11
+* [Commit] [edit publishable to find gaps at start (#16549)](https://github.com/erigontech/erigon/commit/d08769693e642780cdac6ba8a545c38bb3079245) - 2025-08-11
+* [Commit] [enable trace deletion  (#16545)](https://github.com/erigontech/erigon/commit/23632788ae772241f81e277fd6a8131b72a6b901) - 2025-08-11
+* [Commit] [cp: get publishable to report exact gaps rather than sum and max (#16541)](https://github.com/erigontech/erigon/commit/19a833b0d81077d70d776699787ff1c35293272d) - 2025-08-11
+* [Commit] [txnprovider/shutter: additional tests and fixes for pool cleanup and options handling (#16505)](https://github.com/erigontech/erigon/commit/c87704bcd4630a008d48e68406a7cf3b1d2e2942) - 2025-08-11
+* [Commit] [ensure bor dbs are opened in seg retire (#16515)](https://github.com/erigontech/erigon/commit/3520e758206de4af61a046bf029f2cfdd20eb84e) - 2025-08-11
+* [Commit] [`kv` package improve docs (#16539)](https://github.com/erigontech/erigon/commit/dd82e62fcb23c91e351d1a3d209b017c7a534651) - 2025-08-11
+* [Commit] [get publishable to report exact gaps rather than sum and max (#16540)](https://github.com/erigontech/erigon/commit/6ee6cd5cfc6f799567430b0c53abb5b1b66da753) - 2025-08-11
+* [Commit] [[r31] add publishable to integrity checks (#16535)](https://github.com/erigontech/erigon/commit/8496154727ba4f60af01c7f769794db190044d44) - 2025-08-11
+* [Commit] [add publishable to integrity checks (#16536)](https://github.com/erigontech/erigon/commit/a19e3c12b50b8273a0e0e6e1a686804134826e53) - 2025-08-11
+* [Commit] [add publishable to integrity checks (#16534)](https://github.com/erigontech/erigon/commit/ec53ccef6e4fdfe280a509927c2c7dac4c755d59) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f0034477bb7db9eef65c29937764a297cb3a8bb9) - 2025-08-11
+* [Pull Request] [`kv` package improve docs](https://github.com/erigontech/erigon/pull/16539) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6349d8ef3d2678d3eeebdb82bc04b8b6c02c3b32) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/291c80ecb46f85448fbb0427910e148680f2b71b) - 2025-08-11
+* [Issue] [review files release timings](https://github.com/erigontech/erigon/issues/16533) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3edbb182495a0825508ef471224de4f3f013b2c6) - 2025-08-11
+* [Issue] [downloader: re-visit validate method](https://github.com/erigontech/erigon/issues/16532) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aa86b93971e394c52fe2b482de42e632f794d6e9) - 2025-08-11
+* [Issue] [downloader dx logs: print torrent status command in logs - ready to copy paste](https://github.com/erigontech/erigon/issues/16531) - 2025-08-11
+* [Issue] [downloader: can't finish after `reset`](https://github.com/erigontech/erigon/issues/16530) - 2025-08-11
+* [Issue] [downloader: ux of logs](https://github.com/erigontech/erigon/issues/16529) - 2025-08-11
+* [Commit] [3.1 default rate flags (#16526)](https://github.com/erigontech/erigon/commit/ee25a007025d46bd59968730bc4930b56ce23850) - 2025-08-11
+* [Commit] [Don't skip Downloader complete check (#16527)](https://github.com/erigontech/erigon/commit/9ff78dd935a65b36627100a5d5c8c2bdb6bd7b15) - 2025-08-11
+* [Commit] [AddNewSeedableFile was skipping lock and bypassing checks (#16528)](https://github.com/erigontech/erigon/commit/77559f5c7247b321b28dbab4ba4d2314fd44b29b) - 2025-08-11
 ## Q2 2025
 
 

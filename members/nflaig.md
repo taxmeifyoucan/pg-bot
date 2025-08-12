@@ -84,6 +84,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Use tag in spec references](https://github.com/ChainSafe/lodestar/commit/291776af9c182ba911c179292194fbb0dd16dcf7) - 2025-08-10
 * [Commit] [docs: add note to `--persistNetworkIdentity` for resetting ENR and cgc (#8159)](https://github.com/ChainSafe/lodestar/commit/da2490329b09282b3d760009f9301a80de81b7be) - 2025-08-10
 * [Commit] [Tweak description](https://github.com/ChainSafe/lodestar/commit/55d3f830c080677bc6dd56a365a9242be3cd4cd5) - 2025-08-10
+* [Commit] [fix: skip custody groups computation if all groups are custodied (#8172)](https://github.com/ChainSafe/lodestar/commit/bf3740f8d6f3430c5c7c9b3d08f2ad817b4f24cc) - 2025-08-11
+* [Issue] [Support req/resp request type selection based on negotiated version](https://github.com/ChainSafe/lodestar/issues/8177) - 2025-08-11
+* [Commit] [Address todo](https://github.com/ChainSafe/lodestar/commit/9ee2844fb26f1663b7b74edd92d97adb40ac9ba0) - 2025-08-11
+* [Commit] [Add comment](https://github.com/ChainSafe/lodestar/commit/a5bdf4e589036a31433cbb296cd1c0386bfafd1e) - 2025-08-11
+* [Commit] [Only register Status V2 after fulu](https://github.com/ChainSafe/lodestar/commit/9c5daf3528c6ebaaa5ee6ea4d986df6a98d9969f) - 2025-08-11
+* [Commit] [Remove unused import](https://github.com/ChainSafe/lodestar/commit/68a0cfb442ed204764a6f98af2e726f72c5dc2ce) - 2025-08-11
+* [Commit] [Always set earliestAvailableSlot irrespective of fork](https://github.com/ChainSafe/lodestar/commit/3ce73513f314636f2af9e9fce1a5cf4871feaa70) - 2025-08-11
+* [Commit] [fix: revert blob metric changes (#8175)](https://github.com/ChainSafe/lodestar/commit/98bc5e0effedadb81b2053979c8b4028924bff59) - 2025-08-11
 ## Q2 2025
 
 

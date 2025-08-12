@@ -62,6 +62,11 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/bebebb15723215e22284d604cdc27133567a2622) - 2025-08-02
 * [Commit] [Fix `getProof` edge cases correctly (#16251)](https://github.com/erigontech/erigon/commit/e902c3dab34d754d13c115ed559dfb4e1b49d473) - 2025-08-06
 * [Commit] [do not receive snapshots through privateApiAddr (#16516)](https://github.com/erigontech/erigon/commit/dbff334456899c5f9c7e6fa71f43623859bc8150) - 2025-08-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0b5e36c310ec2dad41a2e5a6f8acc7b202ae6181) - 2025-08-11
+* [Commit] [dir improvements: move `chain` from `erigon-lib` to `execution` (#16557)](https://github.com/erigontech/erigon/commit/46fd177f9258bace153369d8358ca308249b28fa) - 2025-08-11
+* [Commit] [[main] `TRACE_DELETION ` (#16326) (#16334)](https://github.com/erigontech/erigon/commit/cee4295697522efa83bdeffcba1743f6112a3ef8) - 2025-08-11
+* [Pull Request] [ChainSpec: gathering of all chain configurations into one spec; v2](https://github.com/erigontech/erigon/pull/16560) - 2025-08-11
+* [Pull Request] [[r3.1] revert readme change ](https://github.com/erigontech/erigon/pull/16547) - 2025-08-11
 ## Q2 2025
 
 

@@ -121,6 +121,12 @@ Team: Reth
 * [Pull Request] [chore: rm trie dep](https://github.com/paradigmxyz/reth/pull/17732) - 2025-08-05
 * [Pull Request] [chore: msrv 1.88](https://github.com/paradigmxyz/reth/pull/17782) - 2025-08-10
 * [Commit] [chore: msrv](https://github.com/paradigmxyz/reth/commit/ac54ee0c998253184d81adc74e9340e7a587d494) - 2025-08-10
+* [Commit] [chore: remove redundant words in comment (#17753)](https://github.com/paradigmxyz/reth/commit/3ba2370a5765a53c5c3add625b2559367c118d71) - 2025-08-11
+* [Pull Request] [feat: add op db access example](https://github.com/paradigmxyz/reth/pull/17796) - 2025-08-11
+* [Issue] [Add helper for inserting `Vec<(origin, tx)>` to poll](https://github.com/paradigmxyz/reth/issues/17794) - 2025-08-11
+* [Commit] [chore(deps): weekly `cargo update` (#17777)](https://github.com/paradigmxyz/reth/commit/6260c10c529542f70c710e5c45dfd46d6420a5e0) - 2025-08-11
+* [Commit] [update book](https://github.com/paradigmxyz/reth/commit/6cb4a2d79af28b05c654de6a262a2c6efcf27bfb) - 2025-08-11
+* [Commit] [chore: msrv 1.88 (#17782)](https://github.com/paradigmxyz/reth/commit/5f0d33425e230d54084ac5d52064694d75c1ce1a) - 2025-08-11
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

@@ -36,6 +36,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Attestation verification access of `fork_choice` lock is racey](https://github.com/sigp/lighthouse/issues/7839) - 2025-08-07
 * [Commit] [Add metric for compression time](https://github.com/sigp/lighthouse/commit/d0613bacdd64c70c36983ee543a7bca11b95587b) - 2025-08-07
 * [Commit] [Filter dependencies from SSE logging (#7819)](https://github.com/sigp/lighthouse/commit/2f59d5208a1f5d89ea8b09a0c5fbbd5988d991d7) - 2025-08-07
+* [Pull Request] [Fix bugs in rebasing of states prior to finalization](https://github.com/sigp/lighthouse/pull/7849) - 2025-08-11
+* [Commit] [Avoid invalid rebase_on_finalized calls altogether](https://github.com/sigp/lighthouse/commit/0370472286853c29726c4957d4e811fce995df7d) - 2025-08-11
 ## Q2 2025
 
 

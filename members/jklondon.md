@@ -86,6 +86,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/2964521d4e660e904bd0cff1572ef9afe823a865) - 2025-08-09
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/e45705781e111e84c1742bdb5fc6fc58adbdb3c5) - 2025-08-09
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/32e10c273633ace2d584d234ea60f528330d4efa) - 2025-08-09
+* [Commit] [recsplit inner version 1 incompatible fix (#16543)](https://github.com/erigontech/erigon/commit/924d365001e25c2c8baedad5d3b19d61dc364f7f) - 2025-08-11
+* [Pull Request] [recsplit inner version 1 incompatible fix](https://github.com/erigontech/erigon/pull/16543) - 2025-08-11
 ## Q2 2025
 
 

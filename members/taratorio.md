@@ -108,6 +108,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [workflows: remove sonarcloud and coverprofile from test-all-race - it is done in test-all (#16517)](https://github.com/erigontech/erigon/commit/15f02ea4eec818e1bfe2bb47a26a368b88b84abe) - 2025-08-08
 * [Commit] [rpcdaemon: add refund field on debug_ as geth (#16478)](https://github.com/erigontech/erigon/commit/60a4ad2fccd57d4947582f9de591e0807e0808f6) - 2025-08-08
 * [Pull Request] [workflows: remote sonarcloud and coverprofile from test-all-race - it is done in test-all](https://github.com/erigontech/erigon/pull/16517) - 2025-08-08
+* [Pull Request] [txnprovider/shutter: add back accidentally dropped log line](https://github.com/erigontech/erigon/pull/16561) - 2025-08-11
+* [Commit] [fix go mod tidy](https://github.com/erigontech/erigon/commit/aeec88c85eaf6649f275d18d1b77a800cf0169dd) - 2025-08-11
+* [Commit] [fix tests](https://github.com/erigontech/erigon/commit/54268b7757d937695ce8dda7287f83f10bd6fce3) - 2025-08-11
+* [Pull Request] [[DO-NOT-MERGE] performance-modexp](https://github.com/erigontech/erigon/pull/16559) - 2025-08-11
+* [Commit] [fixed serialisation for chain id field in heimdall span v2 (#15662)](https://github.com/erigontech/erigon/commit/fdf4b54188fcea26cc83dfae75d11fc8fbb82884) - 2025-08-11
+* [Commit] [Remove BorSeparate table (#16411)](https://github.com/erigontech/erigon/commit/ae7e31d376a7f1770855f8d92cb53126b30bf9e1) - 2025-08-11
+* [Commit] [txnprovider/shutter: additional tests and fixes for pool cleanup and options handling + follow up - avoid using a 2nd copy and re-use signed copy (#16558)](https://github.com/erigontech/erigon/commit/06959967d722e30fc6c877a9ffe1291ecba94bed) - 2025-08-11
+* [Pull Request] [txnprovider/shutter: additional tests and fixes for pool cleanup and options handling + follow up - avoid using a 2nd copy and re-use signed copy](https://github.com/erigontech/erigon/pull/16558) - 2025-08-11
+* [Commit] [txnprovider/shutter: follow up - avoid using a 2nd copy and re-use signed copy  (#16554)](https://github.com/erigontech/erigon/commit/c7695dccd35c96f0f5d378fd855227e4abe8cb1b) - 2025-08-11
+* [Commit] [tracer: fix prestates for EIP7702 transactions (#16497) (#16555)](https://github.com/erigontech/erigon/commit/06b4b447905bc79548aa6450fcae16e8d9f51ff8) - 2025-08-11
+* [Pull Request] [tracer: fix prestates for EIP7702 transactions (#16497)](https://github.com/erigontech/erigon/pull/16555) - 2025-08-11
+* [Commit] [tracer: fix prestates for EIP7702 transactions (#16497)](https://github.com/erigontech/erigon/commit/d8e62228db920ea134ee9f9353999c444ad0c2f0) - 2025-08-11
+* [Pull Request] [txnprovider/shutter: follow up - avoid using a 2nd copy and re-use signed copy ](https://github.com/erigontech/erigon/pull/16554) - 2025-08-11
+* [Commit] [rpcdaemon: add rpc-test on latest  (#16521)](https://github.com/erigontech/erigon/commit/b5663534f537804a57f62d47a303f80a52348e4f) - 2025-08-11
 ## Q2 2025
 
 

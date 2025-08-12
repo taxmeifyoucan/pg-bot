@@ -40,6 +40,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [update rpc-test to 1.75](https://github.com/erigontech/erigon/commit/484850337ac32aafbe0c95d22176a568a75bd3db) - 2025-08-07
 * [Pull Request] [rpcdaemon: Add creation method on trace_](https://github.com/erigontech/erigon/pull/16518) - 2025-08-08
 * [Commit] [lint fix](https://github.com/erigontech/erigon/commit/548a039c4250746bd553a8f966b46f6ff948b811) - 2025-08-08
+* [Commit] [1.1zation (cp from 3.1) (#16389)](https://github.com/erigontech/erigon/commit/24f46cb46e0a0d029627547ed11d0f4698521136) - 2025-08-11
+* [Commit] [update rpc-test](https://github.com/erigontech/erigon/commit/b76f188808a2ec3c710594bffbf1b1215c44d215) - 2025-08-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
@@ -59,6 +61,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration_test: Add refund field on debug_ (#428)](https://github.com/erigontech/rpc-tests/commit/9a56cade881b286a5e4701e7c2cc3050fcc1e0f5) - 2025-08-07
 * [Commit] [integration_test: Add extra test on latest (#430)](https://github.com/erigontech/rpc-tests/commit/ab25a5c37e5e5579b4c0d72895d10122b42dd0e9) - 2025-08-08
 * [Pull Request] [integration_test: Add creation method on trace](https://github.com/erigontech/rpc-tests/pull/431) - 2025-08-08
+* [Commit] [integration_test: Add creation method on trace (#431)](https://github.com/erigontech/rpc-tests/commit/38fd2db9aae6f51204d0f635877c082b22559852) - 2025-08-11
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

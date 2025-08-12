@@ -19,6 +19,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [getBlockWitnesses](https://github.com/erigontech/erigon/commit/f0da858573a8ca7b12e177d8798c90b5ffd360f6) - 2025-08-04
 * [Commit] [bugz](https://github.com/erigontech/erigon/commit/9298fcb494ba6ce89600e2c4d9478017f1a407fa) - 2025-08-04
 * [Commit] [server](https://github.com/erigontech/erigon/commit/a06eacdeaeed923335b36b1ceeba6875783bc113) - 2025-08-04
+* [Commit] [Fix eth_getProof on hisotry values (#16220)](https://github.com/erigontech/erigon/commit/aa037cf433764d8281b7fd3ef64294644c6a30ef) - 2025-08-11
 ## Q2 2025
 
 

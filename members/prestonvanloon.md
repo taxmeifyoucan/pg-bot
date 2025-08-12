@@ -20,6 +20,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Gazelle / BUILD fix](https://github.com/OffchainLabs/prysm/commit/1ad0c93b24c4b1058bd7801b40e3acb960c01a90) - 2025-08-09
 * [Commit] [Move genesis/embedded to genesis/internal/embedded](https://github.com/OffchainLabs/prysm/commit/f3b88dcc10ed4c41bee001aac75141b8f8e256f7) - 2025-08-09
 * [Commit] [removing ssz-only flag ( reverting feature) and fix accept header middleware (#15433)](https://github.com/OffchainLabs/prysm/commit/77958022e7a6af74196855f053498d4a7172ea78) - 2025-08-10
+* [Commit] [Update log field to spell out 'nfd' as 'NextForkDigest'](https://github.com/OffchainLabs/prysm/commit/42fb56e4986ce8bce968880e37fe6d40d03d5d9c) - 2025-08-11
+* [Commit] [Add tests for fulu NFD key](https://github.com/OffchainLabs/prysm/commit/57d44bd33d73e5a9e9649d7dc3ec596b42929dbd) - 2025-08-11
+* [Commit] [gofmt: fix formatting issues in test files (#15577)](https://github.com/OffchainLabs/prysm/commit/f7f992c256a27d92a7c25f6f833edc46a6899dfd) - 2025-08-11
+* [Commit] [removing ssz-only flag ( reverting feature) and fix accept header middleware (#15433)](https://github.com/OffchainLabs/prysm/commit/77958022e7a6af74196855f053498d4a7172ea78) - 2025-08-11
+* [Commit] [Resolve TODO about forkwatcher in local mode](https://github.com/OffchainLabs/prysm/commit/c1df312949e5b1538d80bfaa4f19281c53c1a023) - 2025-08-11
+* [Commit] [Remove unnecessary copy. entryWithForkDigest passes by value, not by pointer so it shold be fine](https://github.com/OffchainLabs/prysm/commit/c1bf8c6fa4f7f418b2a78ad4b34a4107760ffed5) - 2025-08-11
+* [Commit] [Continuation of previous commit: Remove unnecessary NewClock. @potuz feedback](https://github.com/OffchainLabs/prysm/commit/67041970b4de947fb1c6cb1f69a8a13e76598a25) - 2025-08-11
+* [Commit] [Remove unnecessary NewClock. @potuz feedback](https://github.com/OffchainLabs/prysm/commit/8d31ed5c4a0b916026479bf9e4e51ad8e2773291) - 2025-08-11
+* [Commit] [Use arg config to determine previous epoch, with regression test](https://github.com/OffchainLabs/prysm/commit/1a100dfe1648bc658392ee457722528702ee1a8d) - 2025-08-11
 ## Q2 2025
 
 

@@ -46,6 +46,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [Use system call for beacon root (#8982)](https://github.com/hyperledger/besu/commit/a007852fd0b050d2599ef9586c1d09fca517857f) - 2025-08-05
 * [Pull Request] [feat(plugins): Expose P2P network events ](https://github.com/hyperledger/besu/pull/9039) - 2025-08-07
 * [Commit] [Include authorization list in the transaction call object and use it when building transaction during simulation (#8984)](https://github.com/hyperledger/besu/commit/1491b0a489bbd8aa9c980ccb1aa01913416baaf8) - 2025-08-08
+* [Commit] [fix(modexp): Fix gas cost when base and modulus length are zero (#9054)](https://github.com/hyperledger/besu/commit/9a8a0327e9c3db9b62c9b5e04eddf1aba3a36c1f) - 2025-08-11
+* [Commit] [[fusaka-devnet-3] Fix edge case for modexp gas calculator (#9056)](https://github.com/hyperledger/besu/commit/7311a29fe03b59ee8658a3135d990eb2ecc353a6) - 2025-08-11
+* [Pull Request] [[fusaka-devnet-3] Fix edge case for modexp gas calculator](https://github.com/hyperledger/besu/pull/9056) - 2025-08-11
+* [Commit] [[fusaka-devnet-3] Merge main (#9055)](https://github.com/hyperledger/besu/commit/ada02bccd760de835bc94e9b10088381d24f6784) - 2025-08-11
+* [Pull Request] [[fusaka-devnet-3] Merge main](https://github.com/hyperledger/besu/pull/9055) - 2025-08-11
+* [Pull Request] [fix(osaka): Fix gas cost when base and modulus length are zero](https://github.com/hyperledger/besu/pull/9054) - 2025-08-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025

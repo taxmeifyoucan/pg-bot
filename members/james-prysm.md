@@ -53,6 +53,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fix(beacon-api): return syncnets and cgc in Metadata. (#15506)](https://github.com/OffchainLabs/prysm/commit/6ddf2716880ef1fbc95a6e8caf5ac3917da7cb27) - 2025-07-25
 * [Commit] [Fix builder bid version compatibility to support Electra bids with Fulu blocks (#15536)](https://github.com/OffchainLabs/prysm/commit/57e27199bdb9b3ef1af14c3374999aba5e0788a3) - 2025-07-30
 * [Commit] [fixing requirement](https://github.com/OffchainLabs/prysm/commit/375aedcadd088848f3cec142dd7a70019a8893b2) - 2025-07-30
+* [Commit] [Don't submit duplicate aggregated `SignedContributionAndProof` messages (#15571)](https://github.com/OffchainLabs/prysm/commit/87235fb3847a86636b0b60af8083fef3d1ca5a9e) - 2025-08-11
+* [Pull Request] [Fix find peers regression](https://github.com/OffchainLabs/prysm/pull/15578) - 2025-08-11
 ## Q2 2025
 
 

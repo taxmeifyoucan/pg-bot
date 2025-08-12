@@ -21,6 +21,7 @@ Team: Geth
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [Minor cleanup to EthSimulateResult (#677)](https://github.com/ethereum/execution-apis/commit/bbf817f7f6404fc0d270f66a3c96f8737e6d7176) - 2025-07-23
+* [Commit] [Change eth_simulateV1 to use generic log object (#681)](https://github.com/ethereum/execution-apis/commit/b050556ffb7d69d9281af8d2ffd4096192715b7c) - 2025-08-11
 ## Q2 2025
 
 

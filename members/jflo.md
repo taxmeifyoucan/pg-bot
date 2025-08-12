@@ -26,6 +26,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Besu bandwidth usage outlier](https://github.com/hyperledger/besu/issues/8932) - 2025-07-08
 * [Issue] [Enhanced Metrics for Sync Performance and DB Compaction Tracking (BloatNet Preparation)](https://github.com/hyperledger/besu/issues/8955) - 2025-07-14
 * [Commit] [Eliminate AbstractRLPInput abstraction to reduce technical debt (#8885)](https://github.com/hyperledger/besu/commit/f9fd86365e595d9275f2bfb3538e28d342e4979f) - 2025-07-31
+* [Issue] [EVM Reference Tests](https://github.com/hyperledger/besu/issues/9065) - 2025-08-11
+* [Issue] [Hive Tests](https://github.com/hyperledger/besu/issues/9064) - 2025-08-11
+* [Issue] [Sealed Tx EL Prototype](https://github.com/hyperledger/besu/issues/9063) - 2025-08-11
+* [Issue] [Demo Kurtosis Stack](https://github.com/hyperledger/besu/issues/9062) - 2025-08-11
+* [Issue] [Sealed Tx CL Prototype](https://github.com/hyperledger/besu/issues/9061) - 2025-08-11
+* [Issue] [Sealed Tx EIP](https://github.com/hyperledger/besu/issues/9060) - 2025-08-11
+* [Issue] [FOCIL to allow ABB](https://github.com/hyperledger/besu/issues/9059) - 2025-08-11
+* [Issue] [Explainer Site](https://github.com/hyperledger/besu/issues/9058) - 2025-08-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [# RPC Standards # 8 | July 7th, 2025](https://github.com/ethereum/pm/issues/1605) - 2025-07-06
 ## Q2 2025

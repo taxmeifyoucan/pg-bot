@@ -129,6 +129,37 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [add some fixes in seg retire](https://github.com/erigontech/erigon/pull/16515) - 2025-08-08
 * [Commit] [save](https://github.com/erigontech/erigon/commit/24bf5025759d9596db70e613bad4885e9084a79c) - 2025-08-08
 * [Issue] [seg retire operates only on read db](https://github.com/erigontech/erigon/issues/16512) - 2025-08-08
+* [Pull Request] [ensure bor dbs are opened in seg retire (#16515)](https://github.com/erigontech/erigon/pull/16551) - 2025-08-11
+* [Pull Request] [edit publishable to find gaps at start](https://github.com/erigontech/erigon/pull/16550) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/581b2c2948b67f1eb227d9f5bdda24008da35bf7) - 2025-08-11
+* [Pull Request] [edit publishable to find gaps at start](https://github.com/erigontech/erigon/pull/16549) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d21d9193f9d9ab2b094671a7bccd0574b1604bb2) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c1aa391dfcc14f9a3104c64db2b6f3b393119dde) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b5cff03636e0db93390d7d8984c93ff03d96712a) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c26e38c8a566d3764549e9d7e7ab581103e67a87) - 2025-08-11
+* [Pull Request] [edit publishable to find gaps at start](https://github.com/erigontech/erigon/pull/16548) - 2025-08-11
+* [Pull Request] [enable trace deletion](https://github.com/erigontech/erigon/pull/16546) - 2025-08-11
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/7c3540e6b9487f1a12d93ebb32a1fa36dbaaebf0) - 2025-08-11
+* [Pull Request] [enable trace deletion ](https://github.com/erigontech/erigon/pull/16545) - 2025-08-11
+* [Pull Request] [cp: get publishable to report exact gaps rather than sum and max](https://github.com/erigontech/erigon/pull/16542) - 2025-08-11
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/ca51c309dee601c64e523447f98d61acbe3b556e) - 2025-08-11
+* [Pull Request] [cp: get publishable to report exact gaps rather than sum and max](https://github.com/erigontech/erigon/pull/16541) - 2025-08-11
+* [Pull Request] [get publishable to report exact gaps rather than sum and max](https://github.com/erigontech/erigon/pull/16540) - 2025-08-11
+* [Pull Request] [add helper log to get torrent client status](https://github.com/erigontech/erigon/pull/16538) - 2025-08-11
+* [Pull Request] [add helper log to get torrent client status](https://github.com/erigontech/erigon/pull/16537) - 2025-08-11
+* [Pull Request] [add publishable to integrity checks](https://github.com/erigontech/erigon/pull/16536) - 2025-08-11
+* [Commit] [ci](https://github.com/erigontech/erigon/commit/cba5244635a407e0a845a3749b3f3f4bc44c44e4) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ce5035c2ae8f236122e198f178dc2312568195f2) - 2025-08-11
+* [Pull Request] [[r31] add publishable to integrity checks](https://github.com/erigontech/erigon/pull/16535) - 2025-08-11
+* [Pull Request] [add publishable to integrity checks](https://github.com/erigontech/erigon/pull/16534) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9ebf6d4661e7376a492ec764bfa84c250c29173d) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/39f1bb17fb50bcda5036066c974d1ad56efea269) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/884369b820da8d6066528d1625ae9f196f3607af) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1e594d4f97a136df01a0d9b5a02e4af538d1a1de) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d0d250817c436e8aaa50451aee0a788985c51dca) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/25eca8657a589248c389ed1f48cf13cf4c8ea5d0) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b8dafdab49c4f012273381c3f7d447248f7617b6) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/56b9f8fd4a02fc3e9d7046308a3f0378dd22bee3) - 2025-08-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025
