@@ -37,6 +37,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: bump spec test to `v1.6.0-alpha.4`. Add data columns to fork-choice spec test (#8170)](https://github.com/ChainSafe/lodestar/commit/6aab6cb13fc068f7ae55750c0bca9c7c7d06f3e5) - 2025-08-11
 * [Commit] [feat: reduce peer score if they send mismatch DataColumnSidecars (#8167)](https://github.com/ChainSafe/lodestar/commit/a1c6aa6bc2c7e79210024e7c253d1f1d1bd98705) - 2025-08-11
 * [Commit] [Update packages/beacon-node/src/network/reqresp/beaconBlocksMaybeBlobsByRange.ts](https://github.com/ChainSafe/lodestar/commit/6621de17408e0e010bace2d89e3b7f2612d8bc5d) - 2025-08-11
+* [Pull Request] [fix: support dual stack on same port](https://github.com/ChainSafe/lodestar/pull/8190) - 2025-08-12
+* [Pull Request] [fix: return correct multiaddrs in getNetworkIdentity endpoint](https://github.com/ChainSafe/lodestar/pull/8189) - 2025-08-12
+* [Commit] [fix: return correct multiaddrs in getNetworkIdentity endpoint](https://github.com/ChainSafe/lodestar/commit/563188cf8ebe9c3227c5b88c1005643790f9d51f) - 2025-08-12
+* [Commit] [chore: update the logs during identify (#8188)](https://github.com/ChainSafe/lodestar/commit/ee99d3fa203bd6f94533ef30d5402f0adafcc886) - 2025-08-12
 ## Q2 2025
 
 

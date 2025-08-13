@@ -152,6 +152,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix crash on after db dispose and concurrent full pruning start (#9111)](https://github.com/NethermindEth/nethermind/commit/d48a52bce106a60f8c66eaa90f88b8cbf5961265) - 2025-08-11
 * [Pull Request] [Fix crash on after db dispose and concurrent full pruning start](https://github.com/NethermindEth/nethermind/pull/9111) - 2025-08-11
 * [Commit] [Remove use of blockchain processor in RPC (#9021)](https://github.com/NethermindEth/nethermind/commit/037fe3c841a8532f2f710853d0fb2ac2a7186dba) - 2025-08-11
+* [Commit] [PreGenesis marker](https://github.com/NethermindEth/nethermind/commit/463436bb26c3a03d550005936e5492a7c064691a) - 2025-08-13
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

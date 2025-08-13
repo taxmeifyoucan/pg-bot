@@ -60,6 +60,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: fork-aware version when sending status message](https://github.com/ChainSafe/lodestar/pull/8173) - 2025-08-11
 * [Commit] [fix: throw error if byRange returns 0 block for out-of-range BlockInput](https://github.com/ChainSafe/lodestar/commit/77ebba7f98c3ead523dc2df9b78c849d04be01b2) - 2025-08-11
 * [Commit] [fix: throw error if byRange returns 0 block for out-of-range BlockInput](https://github.com/ChainSafe/lodestar/commit/53d52baff23e18bb198c030cae4174f03808b300) - 2025-08-11
+* [Issue] [[fulu] Error processing block from unknown parent sync BLOCK_ERROR_DATA_UNAVAILABLE](https://github.com/ChainSafe/lodestar/issues/8184) - 2025-08-12
+* [Issue] [[fulu] Node falled out of sync multiple times](https://github.com/ChainSafe/lodestar/issues/8183) - 2025-08-12
+* [Issue] [[fulu] Track active requests in UnknownBlockSync](https://github.com/ChainSafe/lodestar/issues/8182) - 2025-08-12
+* [Pull Request] [fix: only subscribe to sampled subnets](https://github.com/ChainSafe/lodestar/pull/8181) - 2025-08-12
+* [Pull Request] [fix: misleading comment in MAX_BATCH_PROCESSING_ATTEMPTS](https://github.com/ChainSafe/lodestar/pull/8180) - 2025-08-12
 ## Q2 2025
 
 

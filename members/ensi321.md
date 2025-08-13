@@ -22,6 +22,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Address @nflaig's comment](https://github.com/ChainSafe/lodestar/commit/835fa170e0d8448df76ea42b937b5cf0baa16b33) - 2025-08-09
 * [Commit] [Skip progressive list](https://github.com/ChainSafe/lodestar/commit/0a45648ce9d0d8aa8c264dce53d8ae600211fec0) - 2025-08-10
 * [Pull Request] [feat: bump spec test to `v1.6.0-alpha.4`. Add data columns to fork-choice spec test](https://github.com/ChainSafe/lodestar/pull/8170) - 2025-08-10
+* [Commit] [Fix timing](https://github.com/ChainSafe/lodestar/commit/d6cc2738375413ff54812ca7edcdd00072b99ade) - 2025-08-12
 ## Q2 2025
 
 

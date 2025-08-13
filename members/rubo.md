@@ -48,6 +48,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix Hive tests default parameters](https://github.com/NethermindEth/nethermind/pull/9087) - 2025-08-04
 * [Commit] [Update RocksDB to v10 (#9059)](https://github.com/NethermindEth/nethermind/commit/6d4cbf5c79c7eab299961611a1b406c3d1326b70) - 2025-08-08
 * [Commit] [Validate account and slot order and boundaries in `SnapProviderHelper` (#8551)](https://github.com/NethermindEth/nethermind/commit/aff5133b5191f1553e485a6deaeb877b68b82ed0) - 2025-08-08
+* [Commit] [Reference Microsoft.Testing.Platform explicitly](https://github.com/NethermindEth/nethermind/commit/b02e128775b9066f10ac9dc9b05738f940b193f3) - 2025-08-12
+* [Commit] [Update packages](https://github.com/NethermindEth/nethermind/commit/50df737ad5ad899538b275290d0d337e469d3866) - 2025-08-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21

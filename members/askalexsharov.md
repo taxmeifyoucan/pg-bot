@@ -657,6 +657,29 @@ Team: Erigon
 * [Commit] [3.1 default rate flags (#16526)](https://github.com/erigontech/erigon/commit/ee25a007025d46bd59968730bc4930b56ce23850) - 2025-08-11
 * [Commit] [Don't skip Downloader complete check (#16527)](https://github.com/erigontech/erigon/commit/9ff78dd935a65b36627100a5d5c8c2bdb6bd7b15) - 2025-08-11
 * [Commit] [AddNewSeedableFile was skipping lock and bypassing checks (#16528)](https://github.com/erigontech/erigon/commit/77559f5c7247b321b28dbab4ba4d2314fd44b29b) - 2025-08-11
+* [Pull Request] [[r31] start on broken files ](https://github.com/erigontech/erigon/pull/16569) - 2025-08-12
+* [Pull Request] [[r31] start on broken files ](https://github.com/erigontech/erigon/pull/16568) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e4e70daba7d2589065bcec641154a58c75c701da) - 2025-08-12
+* [Pull Request] [[r31] start on broken files](https://github.com/erigontech/erigon/pull/16567) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b6a5718818bb392d977d09bf0f84941b864f7418) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1850ef54b01442b9f1ad0d781c7f0bb4050b7815) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bc95ab306b842e951d0e5ae65eb2cc9537d11e39) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ca3f8fb70c3eac60473e33311636472a8d07508b) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/51db290d9f6ba6e84577094cc359562235325823) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f067f80dacfa774def71413950c326a179498e9e) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2cf17bdb37100396c36195cd8b27420bd916f28d) - 2025-08-12
+* [Commit] [rpcdaemon: Add creation method on trace_ (#16518)](https://github.com/erigontech/erigon/commit/3fea9e76007a7c882c3a9f154db1f9be36043f62) - 2025-08-12
+* [Commit] [ensure bor dbs are opened in seg retire (#16515) (#16551)](https://github.com/erigontech/erigon/commit/a4f47a2400e0eac14a9cd6ca8d4ed79a7400a787) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3d3eed328d3b1af3acba6a30b063ccbc5d9404b9) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/246f23d113de915c6ee1dd0219b22ebf8087f4c5) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9b0165c9a32f9f3c28a856cc47e73d50fc30187d) - 2025-08-12
+* [Commit] [1.1zation (cp from 3.1) (#16389)](https://github.com/erigontech/erigon/commit/24f46cb46e0a0d029627547ed11d0f4698521136) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/081ae9f9fb3b8322b3c37fde773264ef21fabbb7) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f6fa4a1a125446d1275abfe9058f9db30d780853) - 2025-08-12
+* [Pull Request] [[r31] up x deps](https://github.com/erigontech/erigon/pull/16566) - 2025-08-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bda92cbbd446fc49fbc28bc0b646f0995811b542) - 2025-08-12
+* [Commit] [add publishable to integrity checks (#16534)](https://github.com/erigontech/erigon/commit/ec53ccef6e4fdfe280a509927c2c7dac4c755d59) - 2025-08-12
+* [Commit] [[r3.1] revert readme change  (#16547)](https://github.com/erigontech/erigon/commit/0a9d58b1332bbca6372fd58c920a77876c13a98b) - 2025-08-12
 ## Q2 2025
 
 

@@ -34,6 +34,9 @@ Team: Reth
 * [Pull Request] [chore(benches): clean up criterion callsites](https://github.com/bluealloy/revm/pull/2833) - 2025-08-01
 * [Pull Request] [chore: add debug assertions to set_action](https://github.com/bluealloy/revm/pull/2832) - 2025-08-01
 * [Pull Request] [fix: map new once and for all (+ci)](https://github.com/bluealloy/revm/pull/2852) - 2025-08-05
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [perf: avoid allocation when storing nibbles](https://github.com/paradigmxyz/reth/issues/17810) - 2025-08-12
 ## Q2 2025
 
 

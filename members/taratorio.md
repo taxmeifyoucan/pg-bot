@@ -122,6 +122,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tracer: fix prestates for EIP7702 transactions (#16497)](https://github.com/erigontech/erigon/commit/d8e62228db920ea134ee9f9353999c444ad0c2f0) - 2025-08-11
 * [Pull Request] [txnprovider/shutter: follow up - avoid using a 2nd copy and re-use signed copy ](https://github.com/erigontech/erigon/pull/16554) - 2025-08-11
 * [Commit] [rpcdaemon: add rpc-test on latest  (#16521)](https://github.com/erigontech/erigon/commit/b5663534f537804a57f62d47a303f80a52348e4f) - 2025-08-11
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/801fea101edb3aae12a07da1f4d11afc619fc7a1) - 2025-08-12
+* [Commit] [tidy](https://github.com/erigontech/erigon/commit/56b3d48004d42ac034c3393b675ce73b70d5ca1f) - 2025-08-12
+* [Pull Request] [txnprovider/shutter: add cmd for checking validator registrations](https://github.com/erigontech/erigon/pull/16590) - 2025-08-12
 ## Q2 2025
 
 

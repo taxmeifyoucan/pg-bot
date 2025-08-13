@@ -20,6 +20,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [bugz](https://github.com/erigontech/erigon/commit/9298fcb494ba6ce89600e2c4d9478017f1a407fa) - 2025-08-04
 * [Commit] [server](https://github.com/erigontech/erigon/commit/a06eacdeaeed923335b36b1ceeba6875783bc113) - 2025-08-04
 * [Commit] [Fix eth_getProof on hisotry values (#16220)](https://github.com/erigontech/erigon/commit/aa037cf433764d8281b7fd3ef64294644c6a30ef) - 2025-08-11
+* [Commit] [Fix discovery crash](https://github.com/erigontech/erigon/commit/17193e8b4d41e0279c03ba6f636017bbff83b378) - 2025-08-12
+* [Pull Request] [p2p: Support witness protocol](https://github.com/erigontech/erigon/pull/16570) - 2025-08-12
+* [Commit] [Flag, handle reorgs and prune DB](https://github.com/erigontech/erigon/commit/b268dce615a621b725c5426798aaad4d76594353) - 2025-08-12
+* [Commit] [Flag, handle reorgs and prune DB](https://github.com/erigontech/erigon/commit/edc3e56de7012a0023722d4ec7da37a4bfe51ac2) - 2025-08-12
+* [Commit] [test wip](https://github.com/erigontech/erigon/commit/c0f9dd03dbf46a96e47dd5ebbdc5245ce9e95e10) - 2025-08-12
 ## Q2 2025
 
 

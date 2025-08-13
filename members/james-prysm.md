@@ -55,6 +55,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fixing requirement](https://github.com/OffchainLabs/prysm/commit/375aedcadd088848f3cec142dd7a70019a8893b2) - 2025-07-30
 * [Commit] [Don't submit duplicate aggregated `SignedContributionAndProof` messages (#15571)](https://github.com/OffchainLabs/prysm/commit/87235fb3847a86636b0b60af8083fef3d1ca5a9e) - 2025-08-11
 * [Pull Request] [Fix find peers regression](https://github.com/OffchainLabs/prysm/pull/15578) - 2025-08-11
+* [Commit] [fixing test import](https://github.com/OffchainLabs/prysm/commit/af3d1db8ac66a045cbaa60146cc6657ca2767738) - 2025-08-12
+* [Commit] [Update changelog/james-prysm_fix-find-peers.md](https://github.com/OffchainLabs/prysm/commit/68cc3b64cbdccb0a03a027c21e62bc2da7ec5241) - 2025-08-12
+* [Commit] [Update beacon-chain/p2p/discovery_test.go](https://github.com/OffchainLabs/prysm/commit/d27811232522557dc8aef924edf6e8746d8e61f5) - 2025-08-12
+* [Commit] [Fusaka ENR changes (#15501)](https://github.com/OffchainLabs/prysm/commit/fa71a6e117fa6f11d980a73e75009152f402bb1c) - 2025-08-12
+* [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/06403be4b97e5e20ee10f5fc0b44e6f753c95a6e) - 2025-08-12
+* [Commit] [linting](https://github.com/OffchainLabs/prysm/commit/fc3f4a6111ad503a34cb0db97f5f9341f26e9207) - 2025-08-12
 ## Q2 2025
 
 

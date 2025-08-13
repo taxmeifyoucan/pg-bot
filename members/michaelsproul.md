@@ -38,6 +38,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Filter dependencies from SSE logging (#7819)](https://github.com/sigp/lighthouse/commit/2f59d5208a1f5d89ea8b09a0c5fbbd5988d991d7) - 2025-08-07
 * [Pull Request] [Fix bugs in rebasing of states prior to finalization](https://github.com/sigp/lighthouse/pull/7849) - 2025-08-11
 * [Commit] [Avoid invalid rebase_on_finalized calls altogether](https://github.com/sigp/lighthouse/commit/0370472286853c29726c4957d4e811fce995df7d) - 2025-08-11
+* [Commit] [Fix: RPC test failures (#7734)](https://github.com/sigp/lighthouse/commit/9c972201bcce642a3dadaa6c98958cf6b440a4e2) - 2025-08-12
 ## Q2 2025
 
 

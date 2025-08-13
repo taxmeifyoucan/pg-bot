@@ -64,6 +64,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [more cfork < fulu fixes](https://github.com/status-im/nimbus-eth2/commit/5d30716c273d5f1b1499b4477223b6d7ab66b74f) - 2025-08-08
 * [Commit] [removed redundant whitespaces from eth2processor](https://github.com/status-im/nimbus-eth2/commit/cabe9cbf65f428a36991417b48982ba6e81834f8) - 2025-08-08
 * [Commit] [resolve wss sim review](https://github.com/status-im/nimbus-eth2/commit/fc5cd14bf73bc74b1cc376f112889ae3c1963c7b) - 2025-08-08
+* [Commit] [get in some vcus reviews](https://github.com/status-im/nimbus-eth2/commit/a0dc078fe1fe9d3bcce4bd1b345b5e30febfa7e8) - 2025-08-12
 ## Q2 2025
 
 

@@ -155,6 +155,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: release (#2854)](https://github.com/bluealloy/revm/commit/efb7bb11d0d33782a0094e2ad7732881f1378936) - 2025-08-11
 * [Pull Request] [wip feat(Jurnal): Accounts saved in index map.](https://github.com/bluealloy/revm/pull/2878) - 2025-08-11
 * [Commit] [journal entry, and integration](https://github.com/bluealloy/revm/commit/4f081804209ac2a93751e4fab98c8e6e2f6a1fa2) - 2025-08-11
+* [Commit] [clippy and rm tests](https://github.com/bluealloy/revm/commit/0e1a58f968bda949d73a933ad05cc3a7c9e51a0a) - 2025-08-12
+* [Pull Request] [Revert "feat: removed padding in case last opcode is terminal (#2816)"](https://github.com/bluealloy/revm/pull/2883) - 2025-08-12
+* [Commit] [rename state_new to state](https://github.com/bluealloy/revm/commit/279491d434e10b4b4b28dd3aa436d02d6a8b84d7) - 2025-08-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

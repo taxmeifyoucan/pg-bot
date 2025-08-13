@@ -13,6 +13,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Skip header validation if the chain is POS](https://github.com/hyperledger/besu/pull/9038) - 2025-08-07
+* [Issue] [Reduce verbosity of chain syncing logging](https://github.com/hyperledger/besu/issues/9067) - 2025-08-12
 ## Q2 2025
 
 

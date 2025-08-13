@@ -29,6 +29,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Continuation of previous commit: Remove unnecessary NewClock. @potuz feedback](https://github.com/OffchainLabs/prysm/commit/67041970b4de947fb1c6cb1f69a8a13e76598a25) - 2025-08-11
 * [Commit] [Remove unnecessary NewClock. @potuz feedback](https://github.com/OffchainLabs/prysm/commit/8d31ed5c4a0b916026479bf9e4e51ad8e2773291) - 2025-08-11
 * [Commit] [Use arg config to determine previous epoch, with regression test](https://github.com/OffchainLabs/prysm/commit/1a100dfe1648bc658392ee457722528702ee1a8d) - 2025-08-11
+* [Pull Request] [Fix panic in blob cache when scs array is empty or shorter than commitments](https://github.com/OffchainLabs/prysm/pull/15581) - 2025-08-12
 ## Q2 2025
 
 

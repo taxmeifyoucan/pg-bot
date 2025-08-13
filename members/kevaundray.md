@@ -27,6 +27,7 @@ Team: Consensus R&D (EF)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [feat: enable `crypto-backend` for signer recovery](https://github.com/paradigmxyz/reth/pull/17723) - 2025-08-04
+* [Issue] [Introducing a stateless host crate](https://github.com/paradigmxyz/reth/issues/17837) - 2025-08-12
 ## Q2 2025
 
 

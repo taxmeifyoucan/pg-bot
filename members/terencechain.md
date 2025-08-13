@@ -63,6 +63,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Unskip TestServer_GetBeaconConfig](https://github.com/OffchainLabs/prysm/commit/e98ef86efe258057e5191507c09d1fc26f43fbf7) - 2025-08-11
 * [Commit] [Reuse ErrInvalidTopic from p2p package](https://github.com/OffchainLabs/prysm/commit/7e849be3a86c32d268ce674b830af3ca87dbf057) - 2025-08-11
 * [Commit] [Remove VerifyBlockHeaderSignatureUsingCurrentFork](https://github.com/OffchainLabs/prysm/commit/9c3061f6e57f8f72af3f23dbb958e3ad59346f8f) - 2025-08-11
+* [Commit] [Add disable-get-blobs flag to skip data column sidecars from execution layer](https://github.com/OffchainLabs/prysm/commit/cdd44dd0b4cd142b08c6be0a21e59a307909cb04) - 2025-08-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

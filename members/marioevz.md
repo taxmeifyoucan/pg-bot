@@ -74,6 +74,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix: docs issue](https://github.com/ethereum/execution-spec-tests/commit/30def0be7db9eeec060a432afd1686a237b23c4b) - 2025-08-08
 * [Commit] [refactor: typing](https://github.com/ethereum/execution-spec-tests/commit/4682817f3aee391ccfb7fcc064d6714740616e6a) - 2025-08-08
 * [Commit] [fix(tests): Remove duplicates from tests/osaka/eip7951_p256verify_precompiles/vectors/secp256r1_test.json (#2017)](https://github.com/ethereum/execution-spec-tests/commit/41c9057ae3f5d6c13bfba3c2fcb41c6f6ec4ab81) - 2025-08-11
+* [Commit] [fix(tests): fixed `test_push.py::test_stack_overflow` test by reducing contract size to below allowed max (#2002)](https://github.com/ethereum/execution-spec-tests/commit/d0ee7384c24144cfbf838b8bcea1b712dd03042e) - 2025-08-12
+* [Commit] [feat(fill): Improve mem usage by: fixture collector flush + lazy loading pre-alloc groups (#2032)](https://github.com/ethereum/execution-spec-tests/commit/dec75c9155498aae13315758df8cca7135081d6a) - 2025-08-12
+* [Commit] [chore(ci): fix coverage when modifying existing ported tests. (#2013)](https://github.com/ethereum/execution-spec-tests/commit/54003b0d83e9656c3a2b49875ec0eee6a83f078e) - 2025-08-12
+* [Issue] [Improve ported-from update detection in the coverage script](https://github.com/ethereum/execution-spec-tests/issues/2033) - 2025-08-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

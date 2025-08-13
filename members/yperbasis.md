@@ -75,6 +75,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [mv paths to node](https://github.com/erigontech/erigon/commit/b3ed633ed353363fd296e06b752165c9edb2a432) - 2025-08-11
 * [Commit] [mv fixedgas to execution](https://github.com/erigontech/erigon/commit/27739fe8c314795ff4c5b29b1941412796d5dc51) - 2025-08-11
 * [Commit] [rm pedersen hash](https://github.com/erigontech/erigon/commit/81e870ef6aca5ca55ef9a0bdee73b53bc738158d) - 2025-08-11
+* [Commit] [rm unused cryptozerocopy](https://github.com/erigontech/erigon/commit/3249c0bb5a7e6c263203cb92d2f311c652df0cbd) - 2025-08-12
+* [Commit] [mv compress to db](https://github.com/erigontech/erigon/commit/de965b650827e721e9c0626d8ac6af37d085b419) - 2025-08-12
+* [Commit] [go mod tidy](https://github.com/erigontech/erigon/commit/a32045982f6ab175bf5a0aca3bf69f5aac68643c) - 2025-08-12
+* [Commit] [mv version to db](https://github.com/erigontech/erigon/commit/e699f7d6e2933595ce2da7e0f72fdaefc0536753) - 2025-08-12
+* [Commit] [mv datastruct to db](https://github.com/erigontech/erigon/commit/c9b284d512257966e27e5569919086bc91e90a5d) - 2025-08-12
+* [Commit] [mv config3 to db](https://github.com/erigontech/erigon/commit/73d58a9d47ed1b91cd83fba93f69cd9356a01752) - 2025-08-12
+* [Commit] [dir improvements: move `kv` from `erigon-lib` to `db` (#16585)](https://github.com/erigontech/erigon/commit/d7512a00ac596edb4e5da57a1ff8daa3dbf75f79) - 2025-08-12
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

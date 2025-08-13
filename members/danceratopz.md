@@ -106,6 +106,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 43270a2b091 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e7a757a1cd83da0bc2a63c519ebc5ef81be81160) - 2025-08-11
 * [Commit] [chore(tooling): remove unused tenacity dependency (#2019)](https://github.com/ethereum/execution-spec-tests/commit/43270a2b091e2588e454310972574197b012fb36) - 2025-08-11
 * [Commit] [chore(ci): bump prague to stable and osaka to develop (#1573)](https://github.com/ethereum/execution-spec-tests/commit/575eb8ab6228b5918600868bba5c1e8b1cd2ebb2) - 2025-08-11
+* [Commit] [Deployed 54003b0d83e to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/050f3bff5f3e6d04243e8aedeabbec6908506e18) - 2025-08-12
 ## Q2 2025
 
 

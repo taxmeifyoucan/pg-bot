@@ -108,6 +108,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/cf3200fa06642a3965c392cb3e4c2cd776e58fdf) - 2025-08-10
 * [Commit] [Partially fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/04cafa195977319e0358e40ae568c4aad7627cb0) - 2025-08-10
 * [Commit] [Fix Satyajit's comment.](https://github.com/OffchainLabs/prysm/commit/498b945a612119e712b5455179697a85ce17aff7) - 2025-08-10
+* [Commit] [Fix race on ReceibeBlock (#15565)](https://github.com/OffchainLabs/prysm/commit/0f6070a866341ea53f1536b64a07b366a3bedc2c) - 2025-08-12
+* [Commit] [Fix flakiness in `TestSelectPeers`.](https://github.com/OffchainLabs/prysm/commit/f521948b4dac2de9dff140766defdab00cbee425) - 2025-08-12
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/a3f919205a0ff2c7ffb96246a130d82e0bd18b7f) - 2025-08-12
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/474f4588346bf9d184b620e7183f2e3ada40f5d4) - 2025-08-12
+* [Commit] [Fix James' commit.](https://github.com/OffchainLabs/prysm/commit/bd17dfefb9773bf2778157b8878088b902e62907) - 2025-08-12
+* [Commit] [Fix James's comment.](https://github.com/OffchainLabs/prysm/commit/3f361a79a08c0aef7afe058b9355a9126cee6ac3) - 2025-08-12
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/09b7fa6bc9a0da746069b96e0a40fa8d3cfd0a33) - 2025-08-12
 ## Q2 2025
 
 

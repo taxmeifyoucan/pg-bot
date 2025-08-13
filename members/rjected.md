@@ -41,6 +41,10 @@ Team: Reth
 * [Pull Request] [fix(db-common): compute state root when initializing from genesis](https://github.com/paradigmxyz/reth/pull/17731) - 2025-08-05
 * [Commit] [fix(db-common): compute state root when initializing from genesis (#17731)](https://github.com/paradigmxyz/reth/commit/af0e2d0f0135f074da3237a61375a142ab70b610) - 2025-08-06
 * [Commit] [fix(db-common): compute state root when initializing from genesis (#17731)](https://github.com/paradigmxyz/reth/commit/b964934d5689b10685fc44704a344911d47c7649) - 2025-08-06
+* [Issue] [Experiment with pointer-based sparse trie](https://github.com/paradigmxyz/reth/issues/17834) - 2025-08-12
+* [Issue] [Reuse transaction prewarming results](https://github.com/paradigmxyz/reth/issues/17833) - 2025-08-12
+* [Commit] [fix: handle variable-length nibbles in BranchNodeCompact decoding](https://github.com/paradigmxyz/reth/commit/abe89f8c84ff32fb289068c45a8d8081c78e56c9) - 2025-08-12
+* [Commit] [fix: fix encoding for branch nodes](https://github.com/paradigmxyz/reth/commit/ca2fa6004180d3d95d365cd9441f46aada11b918) - 2025-08-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(interpreter): update docs for slice_mut and slice_range](https://github.com/bluealloy/revm/pull/2714) - 2025-07-15
 * [Pull Request] [feat: expose sha3-keccak in revm and revm-primitives](https://github.com/bluealloy/revm/pull/2713) - 2025-07-15
