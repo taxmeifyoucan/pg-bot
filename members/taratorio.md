@@ -125,6 +125,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix lint](https://github.com/erigontech/erigon/commit/801fea101edb3aae12a07da1f4d11afc619fc7a1) - 2025-08-12
 * [Commit] [tidy](https://github.com/erigontech/erigon/commit/56b3d48004d42ac034c3393b675ce73b70d5ca1f) - 2025-08-12
 * [Pull Request] [txnprovider/shutter: add cmd for checking validator registrations](https://github.com/erigontech/erigon/pull/16590) - 2025-08-12
+* [Commit] [txnprovider/shutter: add cmd for checking validator registrations (#16590) (#16611)](https://github.com/erigontech/erigon/commit/05d418868a4460525ac4655407f63af96f1d3148) - 2025-08-13
+* [Commit] [txnprovider/shutter: add README with general info and run instructions (#16592) (#16610)](https://github.com/erigontech/erigon/commit/3f08d4054e9900084175ac7233bf7fcc6f1d8ee3) - 2025-08-13
+* [Commit] [erigon-lib/common/math: remove unused FastExp (#16612)](https://github.com/erigontech/erigon/commit/a697bb55948a83d07697178d443dc16738513d46) - 2025-08-13
+* [Pull Request] [erigon-lib/common/math: remove unused FastExp](https://github.com/erigontech/erigon/pull/16612) - 2025-08-13
+* [Pull Request] [txnprovider/shutter: add cmd for checking validator registrations (#16590)](https://github.com/erigontech/erigon/pull/16611) - 2025-08-13
+* [Pull Request] [txnprovider/shutter: add README with general info and run instructions (#16592)](https://github.com/erigontech/erigon/pull/16610) - 2025-08-13
+* [Commit] [txnprovider/shutter: add cmd for checking validator registrations (#16590)](https://github.com/erigontech/erigon/commit/602bc217fe30ddf2853d1b2bc9eb86a615fff512) - 2025-08-13
+* [Commit] [tidy](https://github.com/erigontech/erigon/commit/ef36f118b261a8df4ba45acdf69371cb929651f4) - 2025-08-13
 ## Q2 2025
 
 

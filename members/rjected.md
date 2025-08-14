@@ -45,6 +45,10 @@ Team: Reth
 * [Issue] [Reuse transaction prewarming results](https://github.com/paradigmxyz/reth/issues/17833) - 2025-08-12
 * [Commit] [fix: handle variable-length nibbles in BranchNodeCompact decoding](https://github.com/paradigmxyz/reth/commit/abe89f8c84ff32fb289068c45a8d8081c78e56c9) - 2025-08-12
 * [Commit] [fix: fix encoding for branch nodes](https://github.com/paradigmxyz/reth/commit/ca2fa6004180d3d95d365cd9441f46aada11b918) - 2025-08-12
+* [Pull Request] [perf(engine): cache prewarming execution results](https://github.com/paradigmxyz/reth/pull/17844) - 2025-08-13
+* [Issue] [Use packed representation for StoredNibbles and StoredNibblesSubkey](https://github.com/paradigmxyz/reth/issues/17843) - 2025-08-13
+* [Commit] [fix(db): make db get --raw work with DupSort tables](https://github.com/paradigmxyz/reth/commit/f6ffeacbbbb3cb6ee8f099ab6cbd2665f6028051) - 2025-08-13
+* [Pull Request] [fix(db): make db get --raw work with DupSort tables](https://github.com/paradigmxyz/reth/pull/17842) - 2025-08-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(interpreter): update docs for slice_mut and slice_range](https://github.com/bluealloy/revm/pull/2714) - 2025-07-15
 * [Pull Request] [feat: expose sha3-keccak in revm and revm-primitives](https://github.com/bluealloy/revm/pull/2713) - 2025-07-15

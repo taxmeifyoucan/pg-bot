@@ -160,6 +160,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/25eca8657a589248c389ed1f48cf13cf4c8ea5d0) - 2025-08-11
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b8dafdab49c4f012273381c3f7d447248f7617b6) - 2025-08-11
 * [Commit] [save](https://github.com/erigontech/erigon/commit/56b9f8fd4a02fc3e9d7046308a3f0378dd22bee3) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/254c84c1aac0dce92bc427a148cf963fbad83930) - 2025-08-13
+* [Commit] [core/vm: avoid big.Int to get lengths in modexp (#16579)](https://github.com/erigontech/erigon/commit/8bb7c6ca14f87d3a7159c7bcb33c33c583fe99e3) - 2025-08-13
+* [Commit] [add publishable to integrity checks (#16534)](https://github.com/erigontech/erigon/commit/ec53ccef6e4fdfe280a509927c2c7dac4c755d59) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/75b66a5ef9c2ecfd06b13176d43954c0816e6938) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/295e4d1b3d9d99e56eb6a41e2d75631bd374180a) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/948d3df410dc8dee3552e8850f1c74612339cf81) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5693f9fd5744c2308129a7110073e9ea240dd93e) - 2025-08-13
+* [Commit] [measure](https://github.com/erigontech/erigon/commit/7032e70bc8245936c4ecfbb5fb28449ed5584c68) - 2025-08-13
+* [Commit] [measure](https://github.com/erigontech/erigon/commit/eb3e91bfaac4262ea2eef87cb9073c72d5fdb1a0) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2d6991b21d6b1604e224b391099f07f19a51700d) - 2025-08-13
+* [Pull Request] [wip](https://github.com/erigontech/erigon/pull/16594) - 2025-08-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

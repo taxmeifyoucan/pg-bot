@@ -90,9 +90,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(ci): fix coverage when modifying existing ported tests](https://github.com/ethereum/execution-spec-tests/pull/2013) - 2025-08-08
 * [Commit] [chore(tests): exception hotfix (#2011)](https://github.com/ethereum/execution-spec-tests/commit/75f51bc6d07dfe6d2cd5833d1f21a206662edc77) - 2025-08-08
 * [Commit] [chore(ci): fix coverage when modifying existing ported tests.](https://github.com/ethereum/execution-spec-tests/commit/b8a34495548e5cc32174bc7225aef09b475bbf4b) - 2025-08-08
+* [Commit] [feat(src): add bpo forks and transition forks updated.](https://github.com/ethereum/execution-spec-tests/commit/5d654aeab106b8297e9f306698320ec839eb6c6e) - 2025-08-13
+* [Pull Request] [feat(tests|forks|pytest): temporary BPO x EIP-7918 test (WIP)](https://github.com/ethereum/execution-spec-tests/pull/2035) - 2025-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients: add bpo1 time to client mappers](https://github.com/ethereum/hive/pull/1329) - 2025-08-13
 ## Q2 2025
 
 

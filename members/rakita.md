@@ -158,6 +158,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [clippy and rm tests](https://github.com/bluealloy/revm/commit/0e1a58f968bda949d73a933ad05cc3a7c9e51a0a) - 2025-08-12
 * [Pull Request] [Revert "feat: removed padding in case last opcode is terminal (#2816)"](https://github.com/bluealloy/revm/pull/2883) - 2025-08-12
 * [Commit] [rename state_new to state](https://github.com/bluealloy/revm/commit/279491d434e10b4b4b28dd3aa436d02d6a8b84d7) - 2025-08-12
+* [Commit] [chore: use core::fmt and remove unused Debug import (#2887)](https://github.com/bluealloy/revm/commit/6697f70dd3165e5149a0342b29d6f23f7b082cac) - 2025-08-13
+* [Commit] [no_std support](https://github.com/bluealloy/revm/commit/64c00919373f3cf171cfa9d3c7d1f69021e068cf) - 2025-08-13
+* [Commit] [chore(database): remove unused dependencies (#2885)](https://github.com/bluealloy/revm/commit/c59916a499fac64acd02782b60389378bacadc34) - 2025-08-13
+* [Commit] [test: add AccountStatus unit test (#2869)](https://github.com/bluealloy/revm/commit/aaff4e6bc8a9338c9a3166582d1a1257ffbb7121) - 2025-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

@@ -39,6 +39,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Fix bugs in rebasing of states prior to finalization](https://github.com/sigp/lighthouse/pull/7849) - 2025-08-11
 * [Commit] [Avoid invalid rebase_on_finalized calls altogether](https://github.com/sigp/lighthouse/commit/0370472286853c29726c4957d4e811fce995df7d) - 2025-08-11
 * [Commit] [Fix: RPC test failures (#7734)](https://github.com/sigp/lighthouse/commit/9c972201bcce642a3dadaa6c98958cf6b440a4e2) - 2025-08-12
+* [Pull Request] [Yeet env_logger into the sun](https://github.com/sigp/lighthouse/pull/7872) - 2025-08-13
+* [Commit] [Backfill peer attribution (#7762)](https://github.com/sigp/lighthouse/commit/80ba0b169bb0371287211a79abcf377e0378b474) - 2025-08-13
+* [Issue] [Re-enable sccache](https://github.com/sigp/lighthouse/issues/7869) - 2025-08-13
+* [Issue] [Consider `derive(Encode)` for `LightClientUpdateResponseChunk`](https://github.com/sigp/lighthouse/issues/7868) - 2025-08-13
 ## Q2 2025
 
 

@@ -23,6 +23,7 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Pull Request] [Fix naming of data cost in ExecutePrecompile](https://github.com/NethermindEth/nethermind/pull/8994) - 2025-07-16
 * [Commit] [Fix/Aura hive test (#8932)](https://github.com/NethermindEth/nethermind/commit/3d08d7cca49146962e76b6f3dee620005f9065a9) - 2025-07-18
 * [Issue] [Fix unsafe pivot updator](https://github.com/NethermindEth/nethermind/issues/9031) - 2025-07-24
+* [Commit] [fix a bug](https://github.com/NethermindEth/nethermind/commit/d452ada3689ab600f914ad79d483fa7ba46b3bd9) - 2025-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7883: Fix typo in pricing of one test case](https://github.com/ethereum/EIPs/pull/10005) - 2025-07-14
 ## Q2 2025

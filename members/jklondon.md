@@ -88,6 +88,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/32e10c273633ace2d584d234ea60f528330d4efa) - 2025-08-09
 * [Commit] [recsplit inner version 1 incompatible fix (#16543)](https://github.com/erigontech/erigon/commit/924d365001e25c2c8baedad5d3b19d61dc364f7f) - 2025-08-11
 * [Pull Request] [recsplit inner version 1 incompatible fix](https://github.com/erigontech/erigon/pull/16543) - 2025-08-11
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/59d46414268d4bafbb2787bcf1d44e78fece1a7a) - 2025-08-13
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/e3d0907ec1f69c3996c9a027532ad0e7cd8edcc5) - 2025-08-13
+* [Pull Request] [[r3.1] schema of domains should be unchanged](https://github.com/erigontech/erigon/pull/16603) - 2025-08-13
 ## Q2 2025
 
 

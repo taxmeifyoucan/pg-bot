@@ -53,6 +53,11 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Set the default rocksdb cache location to the build directory. (#3546)](https://github.com/status-im/nimbus-eth1/commit/340099c160865d67e5291ed54612b350a285b426) - 2025-08-08
 * [Commit] [Refactor so that only one boolean check is required.](https://github.com/status-im/nimbus-eth1/commit/b08ad8d06882ee2a275a56033b3a642f3344cfbb) - 2025-08-08
 * [Commit] [Only fetch storage proofs when account exists.](https://github.com/status-im/nimbus-eth1/commit/46f2e307b0f923e001ca3bb1bd70f533d09c2cca) - 2025-08-09
+* [Commit] [Stateless: Add multiproof function and use when building witnesses (#3556)](https://github.com/status-im/nimbus-eth1/commit/2ea90ab04b6ec4241877bc5f91c533c97496aa68) - 2025-08-13
+* [Pull Request] [Set parent header when starting block import](https://github.com/status-im/nimbus-eth1/pull/3559) - 2025-08-13
+* [Commit] [Fix possible underflow when processing block hashes.](https://github.com/status-im/nimbus-eth1/commit/985eb9ad6c7e7feb1cf4d1964e3c036418dcfce9) - 2025-08-13
+* [Commit] [Use separate account and storage preimages tables.](https://github.com/status-im/nimbus-eth1/commit/11cb9e3c550a7e39ebd3abd319e435792576804c) - 2025-08-13
+* [Commit] [Use var parameters to return proofs to reduce seq copies and create a multiStorageProof function.](https://github.com/status-im/nimbus-eth1/commit/b31c024a7a3da03f416ac6c4e5b2cc4ede59f702) - 2025-08-13
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

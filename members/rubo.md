@@ -50,6 +50,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Validate account and slot order and boundaries in `SnapProviderHelper` (#8551)](https://github.com/NethermindEth/nethermind/commit/aff5133b5191f1553e485a6deaeb877b68b82ed0) - 2025-08-08
 * [Commit] [Reference Microsoft.Testing.Platform explicitly](https://github.com/NethermindEth/nethermind/commit/b02e128775b9066f10ac9dc9b05738f940b193f3) - 2025-08-12
 * [Commit] [Update packages](https://github.com/NethermindEth/nethermind/commit/50df737ad5ad899538b275290d0d337e469d3866) - 2025-08-12
+* [Commit] [Update packages (#9062)](https://github.com/NethermindEth/nethermind/commit/72b225282dbea474e72caa4fe620a9375f1b8a01) - 2025-08-13
+* [Commit] [Compare Flattened hashes without Linq (#9101)](https://github.com/NethermindEth/nethermind/commit/0bc80c2fe7f6966a95c03cf1f7b4632cf0f95b96) - 2025-08-13
+* [Commit] [Update Nethermind.MclBindings package](https://github.com/NethermindEth/nethermind/commit/a66c83ddd420662d41c3f8f6156ed784c5d55446) - 2025-08-13
+* [Commit] [Update packages](https://github.com/NethermindEth/nethermind/commit/9410a88a4e6e190517eaeeb0e9c62186cabdcd59) - 2025-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21

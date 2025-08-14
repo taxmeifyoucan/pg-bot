@@ -25,6 +25,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Flag, handle reorgs and prune DB](https://github.com/erigontech/erigon/commit/b268dce615a621b725c5426798aaad4d76594353) - 2025-08-12
 * [Commit] [Flag, handle reorgs and prune DB](https://github.com/erigontech/erigon/commit/edc3e56de7012a0023722d4ec7da37a4bfe51ac2) - 2025-08-12
 * [Commit] [test wip](https://github.com/erigontech/erigon/commit/c0f9dd03dbf46a96e47dd5ebbdc5245ce9e95e10) - 2025-08-12
+* [Commit] [Fix lint](https://github.com/erigontech/erigon/commit/6c35932e0e2c18d10f62a97391d7adf9e7fc4613) - 2025-08-13
+* [Commit] [Fix tests](https://github.com/erigontech/erigon/commit/8b67e0864a546389938088f9ea556407e12be105) - 2025-08-13
+* [Commit] [Fix build](https://github.com/erigontech/erigon/commit/c65c99521260559cdfe8b74117a385811301c227) - 2025-08-13
+* [Commit] [Dedeuplicate requests](https://github.com/erigontech/erigon/commit/e58eba88f25d26b050a674835fdd134d09de7e5b) - 2025-08-13
+* [Commit] [Change log levels](https://github.com/erigontech/erigon/commit/e13cd5bb5b5c5ad095b53c5dc7f5990506f77cfb) - 2025-08-13
+* [Commit] [Change log levels](https://github.com/erigontech/erigon/commit/b9a99a8f23093b7e7651526b0728c8f8bfbfe8cd) - 2025-08-13
+* [Commit] [Move to stage_execute](https://github.com/erigontech/erigon/commit/b4d4e5daec95ac363c277f5f070273a2d795e6a1) - 2025-08-13
 ## Q2 2025
 
 

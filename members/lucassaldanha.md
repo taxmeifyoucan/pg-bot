@@ -25,6 +25,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Add support for v1.6.0-alpha.4 (consensus-spec)](https://github.com/Consensys/teku/issues/9758) - 2025-08-10
 * [Commit] [moved deneb fork version and epoch to specConfigPhase0 (#9757)](https://github.com/Consensys/teku/commit/623fd5796c6760384ff7c8fa709be0ed6075bbe2) - 2025-08-10
 * [Pull Request] [Update earliest_available_slot for StatusV2](https://github.com/Consensys/teku/pull/9762) - 2025-08-12
+* [Commit] [Update earliest_available_slot for StatusV2 (#9762)](https://github.com/Consensys/teku/commit/db7cd3e4c029a1cac83085a32cecf1f89305c955) - 2025-08-13
 ## Q2 2025
 
 

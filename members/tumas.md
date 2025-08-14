@@ -30,6 +30,7 @@ Team: Grandine
 * [Pull Request] [Upgrade `libmdbx` to 0.13.6](https://github.com/grandinetech/grandine/pull/286) - 2025-08-04
 * [Pull Request] [Deserialize JSON from Phase in HTTP API](https://github.com/grandinetech/grandine/pull/285) - 2025-08-04
 * [Commit] [Deserialize JSON from Phase in HTTP API](https://github.com/grandinetech/grandine/commit/53ae1670cc9ce51e4a913bbaa379985087f35c10) - 2025-08-06
+* [Pull Request] [Avoid using `initial_forward_sync` flag in `Store::is_forward_synced`](https://github.com/grandinetech/grandine/pull/298) - 2025-08-13
 ## Q2 2025
 
 

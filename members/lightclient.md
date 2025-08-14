@@ -20,6 +20,7 @@ Team: Geth
 * [Commit] [core/vm: triple modexp cost post-cancun](https://github.com/ethereum/go-ethereum/commit/9f9f2d39fa655a5cf008e95e235a6e93cf4f2308) - 2025-07-18
 
 * [Commit] [cmd: fix inconsistent function name in comment (#32411)](https://github.com/ethereum/go-ethereum/commit/56edd21453bf9f055202a7bd8c56aa36aa87dab0) - 2025-08-12
+* [Commit] [eth/syncer: fix typo (#32427)](https://github.com/ethereum/go-ethereum/commit/3ff99ae52c420477020ae957a61c5c216ac7e7f5) - 2025-08-13
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [Minor cleanup to EthSimulateResult (#677)](https://github.com/ethereum/execution-apis/commit/bbf817f7f6404fc0d270f66a3c96f8737e6d7176) - 2025-07-23
 * [Commit] [Change eth_simulateV1 to use generic log object (#681)](https://github.com/ethereum/execution-apis/commit/b050556ffb7d69d9281af8d2ffd4096192715b7c) - 2025-08-11

@@ -41,6 +41,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: return correct multiaddrs in getNetworkIdentity endpoint](https://github.com/ChainSafe/lodestar/pull/8189) - 2025-08-12
 * [Commit] [fix: return correct multiaddrs in getNetworkIdentity endpoint](https://github.com/ChainSafe/lodestar/commit/563188cf8ebe9c3227c5b88c1005643790f9d51f) - 2025-08-12
 * [Commit] [chore: update the logs during identify (#8188)](https://github.com/ChainSafe/lodestar/commit/ee99d3fa203bd6f94533ef30d5402f0adafcc886) - 2025-08-12
+* [Commit] [chore: tweak log message](https://github.com/ChainSafe/lodestar/commit/9e0996814cebbd16c7f2aaa2d6a7aa2a2e98c81a) - 2025-08-13
+* [Commit] [chore: add more to log context](https://github.com/ChainSafe/lodestar/commit/8f52862bbffde9cc357007be6b5f75dfc78549de) - 2025-08-13
+* [Commit] [feat: self rate limiter (#8185)](https://github.com/ChainSafe/lodestar/commit/7ec91704f24a9e678753bb176e0fd98970dc89ed) - 2025-08-13
+* [Commit] [fix: support dual stack on same port (#8190)](https://github.com/ChainSafe/lodestar/commit/b42f83b4e0bd9f4277c236f1c667017da23904ea) - 2025-08-13
+* [Commit] [chore: remove stray contents variable name](https://github.com/ChainSafe/lodestar/commit/b37c04078b4275a9fa09b9f4ea565e4541700279) - 2025-08-13
+* [Commit] [chore: clean up computeBlobSidecars](https://github.com/ChainSafe/lodestar/commit/61daee66fbbcd649bb43a403fc3edd38c81bd06e) - 2025-08-13
+* [Commit] [chore: fix stray name](https://github.com/ChainSafe/lodestar/commit/921e26c2b9743b27fee58ea6276590339a7a8efc) - 2025-08-13
+* [Commit] [test: disable DEBUG logs by default when running sim tests (#8186)](https://github.com/ChainSafe/lodestar/commit/d5be46d90d68263e7a3dddb42a1c98f1ac626cce) - 2025-08-13
+* [Commit] [chore: rename DAContents and block reconstruction typesafety](https://github.com/ChainSafe/lodestar/commit/b5cf97e2d88ac5b12996b1b2a20652ce4dcb3594) - 2025-08-13
+* [Pull Request] [feat: log when publishing to 0 data column peers](https://github.com/ChainSafe/lodestar/pull/8195) - 2025-08-13
+* [Commit] [chore: fix build issues](https://github.com/ChainSafe/lodestar/commit/cc88b875c3ec27a90397c5e6cdd7c66de00f63a5) - 2025-08-13
+* [Commit] [fix: return correct multiaddrs in getNetworkIdentity endpoint (#8189)](https://github.com/ChainSafe/lodestar/commit/10917064f52721b97ba5c844bb0dbe5462913880) - 2025-08-13
+* [Commit] [fix: only subscribe to sampled subnets (#8181)](https://github.com/ChainSafe/lodestar/commit/7e739c1a8e368cad1ccf32b96df7aa5187a2a936) - 2025-08-13
 ## Q2 2025
 
 

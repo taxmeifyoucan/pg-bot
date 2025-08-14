@@ -40,6 +40,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Disable payload attestation tests on mainnet (#4495)](https://github.com/ethereum/consensus-specs/commit/ad36024441cf910d428d03f87f331fbbd2b3e5f1) - 2025-08-07
 * [Pull Request] [Disable payload attestation tests on mainnet](https://github.com/ethereum/consensus-specs/pull/4495) - 2025-08-07
 * [Commit] [Replace INTERVALS_PER_SLOT with explicit slot component times (#4476)](https://github.com/ethereum/consensus-specs/commit/516251adb3e28aa70b55df1d4632f1b670033c43) - 2025-08-11
+* [Pull Request] [eip7732: rebase spec onto fulu](https://github.com/ethereum/consensus-specs/pull/4503) - 2025-08-13
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

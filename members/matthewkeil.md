@@ -70,6 +70,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Review metrics for blobs and columns](https://github.com/ChainSafe/lodestar/issues/8174) - 2025-08-11
 * [Commit] [refactor: clean up fulu fork guards  (#8162)](https://github.com/ChainSafe/lodestar/commit/22f8a0935ed0ee93692b8ad607f7b2c9baa255cb) - 2025-08-11
 * [Commit] [feat: add blob metric for consistency](https://github.com/ChainSafe/lodestar/commit/c1203f15275eb6c664407260b7dfed2b8b55e9ea) - 2025-08-11
+* [Issue] [Need to move PR comments from #7947 over to unstable](https://github.com/ChainSafe/lodestar/issues/8196) - 2025-08-13
 ## Q2 2025
 
 

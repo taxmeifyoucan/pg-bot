@@ -74,11 +74,16 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Rollback discv5 update (#9026)](https://github.com/NethermindEth/nethermind/commit/e38aa171e3d9928a39aa0d532f5ecb956e18aab3) - 2025-08-10
 * [Pull Request] [Fix discv5](https://github.com/NethermindEth/nethermind/pull/9113) - 2025-08-11
 * [Pull Request] [Make Kademlia generic](https://github.com/NethermindEth/nethermind/pull/9109) - 2025-08-11
+* [Commit] [Fix tests](https://github.com/NethermindEth/nethermind/commit/3aa9e2ebbc5bdbd8be60c03e5fe9817cd7ccd952) - 2025-08-13
+* [Pull Request] [De-optimize txs requesting to handle corner cases properly](https://github.com/NethermindEth/nethermind/pull/9128) - 2025-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(consume): Swap nethermind blob limit related messages](https://github.com/ethereum/execution-spec-tests/pull/2022) - 2025-08-11
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Issue] [devp2p rlpx eth-test TestBlobTxWithoutSidecar gets stuck](https://github.com/ethereum/go-ethereum/issues/32422) - 2025-08-13
 ## Q2 2025
 
 

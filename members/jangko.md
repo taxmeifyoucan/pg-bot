@@ -147,6 +147,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fixes](https://github.com/status-im/nimbus-eth1/commit/fb77b985a3cb568be401a17b5d645e6b6347846c) - 2025-08-07
 * [Commit] [Fixes](https://github.com/status-im/nimbus-eth1/commit/63ee3f508605c5de6726569ae3745f64fed910e1) - 2025-08-07
 * [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/42aeb2acc12eb0db6f77bb27e8c9348bdc8df85d) - 2025-08-07
+* [Issue] [Nimbus EL spam Lodestar with failed connection attempts](https://github.com/status-im/nimbus-eth1/issues/3557) - 2025-08-13
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

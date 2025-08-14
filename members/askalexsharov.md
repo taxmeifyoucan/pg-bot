@@ -680,6 +680,38 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/bda92cbbd446fc49fbc28bc0b646f0995811b542) - 2025-08-12
 * [Commit] [add publishable to integrity checks (#16534)](https://github.com/erigontech/erigon/commit/ec53ccef6e4fdfe280a509927c2c7dac4c755d59) - 2025-08-12
 * [Commit] [[r3.1] revert readme change  (#16547)](https://github.com/erigontech/erigon/commit/0a9d58b1332bbca6372fd58c920a77876c13a98b) - 2025-08-12
+* [Commit] [Defer to torrent lib to manage data and lower log levels for ux (#16605)](https://github.com/erigontech/erigon/commit/2ceaee80ede276ac4f2985dfed7a614305907332) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9dfdc396615aff56f74ebefdffddea6832a427e4) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4c5478f196eb469b528f5b03a3f1cf8bdebea81d) - 2025-08-13
+* [Pull Request] [[wip] call downloader.Delete() for state files](https://github.com/erigontech/erigon/pull/16609) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/89529c2efb5ac48ba323db13f7cae19f70c395b4) - 2025-08-13
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/6ddc2e62311a78bb1a69838b3530dd44b2bea9ba) - 2025-08-13
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/afe752bc6c33dd63bbbfd82e072ff8a8dd5992ac) - 2025-08-13
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/cbb9c9b036349ed6638ed787cc714d6e803ab6e6) - 2025-08-13
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/1bfa30a7def5d1aa104262702a11dad5ceab52cb) - 2025-08-13
+* [Commit] [cp: get publishable to report exact gaps rather than sum and max (#16542)](https://github.com/erigontech/erigon/commit/275bf04db507f2ffc10c5488b8853cab32f7f2f2) - 2025-08-13
+* [Commit] [[r3.0] catchinn panic in index lookup (#16591)](https://github.com/erigontech/erigon/commit/767298cfe2d32023a95931dd8010a53ad57ea7e1) - 2025-08-13
+* [Commit] [[r3.1] schema of domains should be unchanged (#16603)](https://github.com/erigontech/erigon/commit/c7d20082adfe05320ec284795e6c41aee1f61d55) - 2025-08-13
+* [Commit] [Revert "Fix TestSentinelStatusRequest: remove skip and fix unreachable code" (#16602)](https://github.com/erigontech/erigon/commit/0a38cf6de7573c84a0be77e995c4653874063a20) - 2025-08-13
+* [Commit] [add helper log to get torrent client status (#16538)](https://github.com/erigontech/erigon/commit/54ac9d24c2060c17a88160e558ac0ab569c5da23) - 2025-08-13
+* [Commit] [refactor: replace context.WithCancel with t.Context (#16601)](https://github.com/erigontech/erigon/commit/3fc3f2271ada50b4d2707d18ae9834482ee75a57) - 2025-08-13
+* [Pull Request] [Revert "Fix TestSentinelStatusRequest: remove skip and fix unreachable code"](https://github.com/erigontech/erigon/pull/16602) - 2025-08-13
+* [Commit] [Cherry pick Downloader improvements needed for 3.1 (#16600)](https://github.com/erigontech/erigon/commit/f31dd0fa2e375ee6354831e3e7ed7c06bea87562) - 2025-08-13
+* [Commit] [Fix TestSentinelStatusRequest: remove skip and fix unreachable code (#16446)](https://github.com/erigontech/erigon/commit/81e7109bcc865f443b7526d994699c877e0f2449) - 2025-08-13
+* [Commit] [Support overriding remote preverified hashes and clobbering webseeds (#16598)](https://github.com/erigontech/erigon/commit/b2ee7689163ec6bd12ca3770391c20926cfcee13) - 2025-08-13
+* [Commit] [[r32] introduce `kv.Step` type (#16581)](https://github.com/erigontech/erigon/commit/9fff398c4f0d7d35490000be328650db4ca07554) - 2025-08-13
+* [Commit] [core/vm: fix a corner case in EIP-7823 (#16494)](https://github.com/erigontech/erigon/commit/aaf47b39cd937b599418c7e88a6aa6d6b023b5c4) - 2025-08-13
+* [Pull Request] [[r31] ci golang 1.24](https://github.com/erigontech/erigon/pull/16599) - 2025-08-13
+* [Commit] [fix 500k file deletion on snapshotters (#16572)](https://github.com/erigontech/erigon/commit/6cde9742c6f94760cc20698e40353addc16809ce) - 2025-08-13
+* [Commit] [build(deps): bump actions/download-artifact from 4 to 5 (#16597)](https://github.com/erigontech/erigon/commit/28499c4147f301617f9bf6e488cc6f9aa3b78855) - 2025-08-13
+* [Commit] [build(deps): bump actions/checkout from 4 to 5 (#16596)](https://github.com/erigontech/erigon/commit/ac9d3e837f75e332eedc901c722b4cb807ad4c5f) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/235f4465d3ab8803277ca51ed81182f742203615) - 2025-08-13
+* [Commit] [[r31] start on broken files  (#16569)](https://github.com/erigontech/erigon/commit/df8fcfcec9114e592e70e621afe6af86b98814db) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f8d3b4b3b1e8d7752a3276a73abde16de1ae8342) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2384d12bba459d3b0be7886f9c9416fd403dbe50) - 2025-08-13
+* [Issue] [Fix `main` CI](https://github.com/erigontech/erigon/issues/16593) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1d5c021fd9fbb7a27a13fc479a5e77b3f6c34744) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e45bce96c089fea6ae40e786b1a5e0f66c84887a) - 2025-08-13
 ## Q2 2025
 
 

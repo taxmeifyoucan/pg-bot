@@ -106,6 +106,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [serialization: bump (#7361)](https://github.com/status-im/nimbus-eth2/commit/43e189fba8f088fd3ee01cfc7944c62699bbe1f2) - 2025-08-11
 * [Commit] [gnosis](https://github.com/status-im/nimbus-eth2/commit/41399f0759aea3d5dab098688beb5a93353ae170) - 2025-08-11
 * [Commit] [ncli_testnet too](https://github.com/status-im/nimbus-eth2/commit/9ed2959c4994ca475ca1af1f0cd0dae5f2fc09cc) - 2025-08-11
+* [Pull Request] [builder: use empty fork throughout](https://github.com/status-im/nimbus-eth2/pull/7383) - 2025-08-13
+* [Commit] [use `Address` from `eth` throughout (#7364)](https://github.com/status-im/nimbus-eth2/commit/c15ad82c0162c84e9e3c24783026e81008c0b29b) - 2025-08-13
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

@@ -115,6 +115,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix James' commit.](https://github.com/OffchainLabs/prysm/commit/bd17dfefb9773bf2778157b8878088b902e62907) - 2025-08-12
 * [Commit] [Fix James's comment.](https://github.com/OffchainLabs/prysm/commit/3f361a79a08c0aef7afe058b9355a9126cee6ac3) - 2025-08-12
 * [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/09b7fa6bc9a0da746069b96e0a40fa8d3cfd0a33) - 2025-08-12
+* [Commit] [Fix Preston's comment.](https://github.com/OffchainLabs/prysm/commit/d36875332d9f4f2f2425e343f736065ece38200d) - 2025-08-13
+* [Commit] [Revert "Fix Potuz's comment."](https://github.com/OffchainLabs/prysm/commit/51e465d6906fb7f001b4287f0e8eddf3642b8d48) - 2025-08-13
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/0a9ff2dc8b8fdeb15a71563280058b6ecbc1e87d) - 2025-08-13
+* [Commit] [Revert "Fix James' comment."](https://github.com/OffchainLabs/prysm/commit/cc8a5fc42202e92690f9e64682df7b4d117ae025) - 2025-08-13
+* [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/9dcb8be2df799ea3476d86cbc92ba6bc93ccc1e8) - 2025-08-13
+* [Commit] [Update go to v1.24.5 (#15561)](https://github.com/OffchainLabs/prysm/commit/181df3995eaaf9a7d3bbab1aa25756ac0d8ec5b6) - 2025-08-13
 ## Q2 2025
 
 

@@ -42,6 +42,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [precompiles: Provide and benchmark GMP-only modexp](https://github.com/ipsilon/evmone/commit/99a4ddf1f37312c6a09d1e68322c01d5620cc52f) - 2025-07-30
 * [Pull Request] [Provide and benchmark GMP-only modexp](https://github.com/ipsilon/evmone/pull/1290) - 2025-07-30
 * [Commit] [Provide and benchmark GMP-only modexp (#1290)](https://github.com/ipsilon/evmone/commit/2cbfad3d5eda9bd920f1174088fe48d41f9edcd7) - 2025-07-31
+* [Pull Request] [modexp: Skip the leading zeros in the exponent](https://github.com/ipsilon/evmone/pull/1292) - 2025-08-13
+* [Commit] [MTP: Extension node is a lie! (#703)](https://github.com/ipsilon/evmone/commit/ce78921dee51e7e07cc850ca7b2016f0ef176ee9) - 2025-08-13
+* [Commit] [ci: Downgrade the clang-tidy job runner (#1291)](https://github.com/ipsilon/evmone/commit/6b942153596b87d4b650237b5c8c97cf71d80927) - 2025-08-13
+* [Pull Request] [ci: Downgrade the clang-tidy job runner](https://github.com/ipsilon/evmone/pull/1291) - 2025-08-13
+* [Commit] [mpt: Remove explicit extended node kind](https://github.com/ipsilon/evmone/commit/20cfd4272a624fe036f664507098f9cd5a028120) - 2025-08-13
+* [Commit] [ci: Upgrade EEST EOF tests to v1.0.8 (#974)](https://github.com/ipsilon/evmone/commit/85ded6123fec27f8d79df5913ce75ccf06f63b32) - 2025-08-13
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 

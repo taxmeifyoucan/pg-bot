@@ -82,6 +82,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [mv datastruct to db](https://github.com/erigontech/erigon/commit/c9b284d512257966e27e5569919086bc91e90a5d) - 2025-08-12
 * [Commit] [mv config3 to db](https://github.com/erigontech/erigon/commit/73d58a9d47ed1b91cd83fba93f69cd9356a01752) - 2025-08-12
 * [Commit] [dir improvements: move `kv` from `erigon-lib` to `db` (#16585)](https://github.com/erigontech/erigon/commit/d7512a00ac596edb4e5da57a1ff8daa3dbf75f79) - 2025-08-12
+* [Commit] [mv MiningConfig to execution](https://github.com/erigontech/erigon/commit/0c63699b3e6a555a93d8504ebfccc5043ec2fc1e) - 2025-08-13
+* [Commit] [dir improvements: move remaining db bits from `erigon-lib` to `db` (#16608)](https://github.com/erigontech/erigon/commit/410c3e370b525fc69ddd1ec4c3a9623951d6d104) - 2025-08-13
+* [Commit] [txnprovider/shutter: add README with general info and run instructions (#16592)](https://github.com/erigontech/erigon/commit/4dd54f875c57148b7a6b3a2e37b958f259162887) - 2025-08-13
+* [Pull Request] [dir improvements: move remaining db bits from `erigon-lib` to `db`](https://github.com/erigontech/erigon/pull/16608) - 2025-08-13
+* [Commit] [rm prque](https://github.com/erigontech/erigon/commit/b84026ab70ac34455ee41afc14b87f1d10f2b358) - 2025-08-13
+* [Commit] [Enable dependabot for github actions (#16589)](https://github.com/erigontech/erigon/commit/6d6d6428ac77fd8331252b7d10f8abd61b52800d) - 2025-08-13
+* [Commit] [[3.1] fix historical values on `eth_getProof` (#16587)](https://github.com/erigontech/erigon/commit/0f96e4b8ef853ae707a18840191c86867b20f0f9) - 2025-08-13
+* [Commit] [go mod tidy](https://github.com/erigontech/erigon/commit/5d51a061c221a195749c1f9a668c7ad7f461f40b) - 2025-08-13
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

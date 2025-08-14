@@ -61,6 +61,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Fusaka ENR changes (#15501)](https://github.com/OffchainLabs/prysm/commit/fa71a6e117fa6f11d980a73e75009152f402bb1c) - 2025-08-12
 * [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/06403be4b97e5e20ee10f5fc0b44e6f753c95a6e) - 2025-08-12
 * [Commit] [linting](https://github.com/OffchainLabs/prysm/commit/fc3f4a6111ad503a34cb0db97f5f9341f26e9207) - 2025-08-12
+* [Commit] [accidently checked in files](https://github.com/OffchainLabs/prysm/commit/75884cc89643ec9ab73dcbb84ad140413e3a8c73) - 2025-08-13
+* [Commit] [manu feedback](https://github.com/OffchainLabs/prysm/commit/8697ac23406d13dd177a641109a253a337f390d3) - 2025-08-13
 ## Q2 2025
 
 

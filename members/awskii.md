@@ -67,6 +67,10 @@ Team: Erigon
 * [Commit] [[main] `TRACE_DELETION ` (#16326) (#16334)](https://github.com/erigontech/erigon/commit/cee4295697522efa83bdeffcba1743f6112a3ef8) - 2025-08-11
 * [Pull Request] [ChainSpec: gathering of all chain configurations into one spec; v2](https://github.com/erigontech/erigon/pull/16560) - 2025-08-11
 * [Pull Request] [[r3.1] revert readme change ](https://github.com/erigontech/erigon/pull/16547) - 2025-08-11
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ad7c861af796bcb154aa9c0fef43e5be563e6848) - 2025-08-13
+* [Pull Request] [[31] Trie: unified access to domains, fixing getProof](https://github.com/erigontech/erigon/pull/16607) - 2025-08-13
+* [Commit] [dir improvements: move `kv` from `erigon-lib` to `db` (#16585)](https://github.com/erigontech/erigon/commit/d7512a00ac596edb4e5da57a1ff8daa3dbf75f79) - 2025-08-13
+* [Pull Request] [Trie: unified access to domains, fixing `getProof`](https://github.com/erigontech/erigon/pull/16606) - 2025-08-13
 ## Q2 2025
 
 

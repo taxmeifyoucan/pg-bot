@@ -65,6 +65,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[fulu] Track active requests in UnknownBlockSync](https://github.com/ChainSafe/lodestar/issues/8182) - 2025-08-12
 * [Pull Request] [fix: only subscribe to sampled subnets](https://github.com/ChainSafe/lodestar/pull/8181) - 2025-08-12
 * [Pull Request] [fix: misleading comment in MAX_BATCH_PROCESSING_ATTEMPTS](https://github.com/ChainSafe/lodestar/pull/8180) - 2025-08-12
+* [Commit] [fix: also delete disconnected peer from lastSeenRequestsByPeer](https://github.com/ChainSafe/lodestar/commit/1fc39406e843830178aaad98794cd1504ba7d0da) - 2025-08-13
+* [Commit] [fix: throw REQUEST_SELF_RATE_LIMITED in case of not allowing a request](https://github.com/ChainSafe/lodestar/commit/820bb40d0d966eb98a63af3bc5672d251ab209de) - 2025-08-13
+* [Commit] [chore: remove TODO comment](https://github.com/ChainSafe/lodestar/commit/6bfd0bd93e5ca6f2dcb4206ef39af8247a9cf153) - 2025-08-13
+* [Issue] [[fulu] Unknown Block Sync failed due to Error fetching UnavailableBlockInput after 5: unknown error](https://github.com/ChainSafe/lodestar/issues/8194) - 2025-08-13
+* [Issue] [[fulu] head sync failed due to  Missing or mismatching dataColumnSidecars](https://github.com/ChainSafe/lodestar/issues/8193) - 2025-08-13
+* [Issue] [[fulu] head sync failed due to Unmatched dataColumnSidecars](https://github.com/ChainSafe/lodestar/issues/8192) - 2025-08-13
+* [Issue] [[fulu] Rate limited on head sync chain](https://github.com/ChainSafe/lodestar/issues/8191) - 2025-08-13
 ## Q2 2025
 
 

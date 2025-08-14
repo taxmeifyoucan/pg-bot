@@ -78,6 +78,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(fill): Improve mem usage by: fixture collector flush + lazy loading pre-alloc groups (#2032)](https://github.com/ethereum/execution-spec-tests/commit/dec75c9155498aae13315758df8cca7135081d6a) - 2025-08-12
 * [Commit] [chore(ci): fix coverage when modifying existing ported tests. (#2013)](https://github.com/ethereum/execution-spec-tests/commit/54003b0d83e9656c3a2b49875ec0eee6a83f078e) - 2025-08-12
 * [Issue] [Improve ported-from update detection in the coverage script](https://github.com/ethereum/execution-spec-tests/issues/2033) - 2025-08-12
+* [Commit] [Update src/ethereum_test_forks/forks/transition.py](https://github.com/ethereum/execution-spec-tests/commit/38e477f86cdf86c38bdd8e34db6c46447fd16b7d) - 2025-08-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

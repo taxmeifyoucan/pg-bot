@@ -92,6 +92,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Remove unused import](https://github.com/ChainSafe/lodestar/commit/68a0cfb442ed204764a6f98af2e726f72c5dc2ce) - 2025-08-11
 * [Commit] [Always set earliestAvailableSlot irrespective of fork](https://github.com/ChainSafe/lodestar/commit/3ce73513f314636f2af9e9fce1a5cf4871feaa70) - 2025-08-11
 * [Commit] [fix: revert blob metric changes (#8175)](https://github.com/ChainSafe/lodestar/commit/98bc5e0effedadb81b2053979c8b4028924bff59) - 2025-08-11
+* [Commit] [Update packages/beacon-node/src/api/impl/beacon/blocks/index.ts](https://github.com/ChainSafe/lodestar/commit/5ed213b12447629c47bd1c9366d01648b07453bf) - 2025-08-13
 ## Q2 2025
 
 

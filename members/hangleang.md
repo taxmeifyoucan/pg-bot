@@ -37,6 +37,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Skip `get_custody_groups` computation for super node](https://github.com/grandinetech/grandine/commit/99d84990874771d4bb103dde99c53a1fc88d4237) - 2025-08-08
 * [Commit] [Fix incorrect data columns by root requests](https://github.com/grandinetech/grandine/commit/725faac4354d2516f2c2f2bf02e06a5f93723661) - 2025-08-08
 * [Pull Request] [Update consensus-spec-tests to v1.6.0-alpha.4](https://github.com/grandinetech/grandine/pull/294) - 2025-08-11
+* [Commit] [Fix formatting, remove unused code](https://github.com/grandinetech/grandine/commit/369d09e91f21c96721d0898c196ec0e56168ff58) - 2025-08-13
+* [Commit] [Fix formatting, remove unused code](https://github.com/grandinetech/grandine/commit/8582aa6cbceb8ab162016ba63b2e8b39f0f7d123) - 2025-08-13
+* [Commit] [Implement PeerDAS with Fulu fork activation](https://github.com/grandinetech/grandine/commit/999a3df19d860660a8ec8950915a555bf1994c94) - 2025-08-13
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
