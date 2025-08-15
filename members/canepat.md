@@ -49,6 +49,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [tests: fix panic db closed in TestDump](https://github.com/erigontech/erigon/commit/864affd34b0c5fbab4a48cba387637034c5bddb1) - 2025-07-17
 * [Commit] [tests: fix panic db closed in TestDump](https://github.com/erigontech/erigon/commit/3662b017739807898a7147b12d3634fddc0dd50d) - 2025-07-18
 * [Pull Request] [[r3.1] qa-tests: tip-tracking test with automatic upgrade](https://github.com/erigontech/erigon/pull/16604) - 2025-08-13
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
+* [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14
+* [Commit] [performance: add eth_getProof pattern (#432)](https://github.com/erigontech/rpc-tests/commit/8a2ee5cbb257db4472a2cab6444083520174ea49) - 2025-08-14
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

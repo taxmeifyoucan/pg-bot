@@ -51,6 +51,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Initial Claude.md draft](https://github.com/sigp/lighthouse/pull/7848) - 2025-08-11
 * [Commit] [Skip serializing blob_schedule before Fulu (#7779)](https://github.com/sigp/lighthouse/commit/b9049560748ab65e1807b1491bc87d0ff9b62332) - 2025-08-13
 * [Pull Request] [Upgrade rust-eth-kzg to `0.8.0`](https://github.com/sigp/lighthouse/pull/7870) - 2025-08-13
+* [Pull Request] [Sync fixes for `fusaka-devnet-4`](https://github.com/sigp/lighthouse/pull/7876) - 2025-08-14
 ## Q2 2025
 
 

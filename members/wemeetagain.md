@@ -54,6 +54,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: fix build issues](https://github.com/ChainSafe/lodestar/commit/cc88b875c3ec27a90397c5e6cdd7c66de00f63a5) - 2025-08-13
 * [Commit] [fix: return correct multiaddrs in getNetworkIdentity endpoint (#8189)](https://github.com/ChainSafe/lodestar/commit/10917064f52721b97ba5c844bb0dbe5462913880) - 2025-08-13
 * [Commit] [fix: only subscribe to sampled subnets (#8181)](https://github.com/ChainSafe/lodestar/commit/7e739c1a8e368cad1ccf32b96df7aa5187a2a936) - 2025-08-13
+* [Commit] [fix: support dual stack on same port (#8190)](https://github.com/ChainSafe/lodestar/commit/b42f83b4e0bd9f4277c236f1c667017da23904ea) - 2025-08-14
 ## Q2 2025
 
 

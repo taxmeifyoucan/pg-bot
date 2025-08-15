@@ -44,6 +44,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 
+* [Pull Request] [Add spec references, a mapping of spec to implementation](https://github.com/OffchainLabs/prysm/pull/15592) - 2025-08-14
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Remove point-at-infinity filter in g1_lincomb_fast](https://github.com/ethereum/c-kzg-4844/pull/588) - 2025-07-25
 * [Pull Request] [In Java bindings, delete more local references](https://github.com/ethereum/c-kzg-4844/pull/589) - 2025-07-31

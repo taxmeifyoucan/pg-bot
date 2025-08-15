@@ -58,6 +58,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [Beacon api: fix get config blob schedule](https://github.com/OffchainLabs/prysm/commit/e00e7232ce37cedae314d0f1262d7a8a51a545c3) - 2025-07-21
 * [Commit] [a couple tweaks based on the release draft markdown preview](https://github.com/OffchainLabs/prysm/commit/d9363050cb120ae80a39519e8d624d299a4b856d) - 2025-07-31
 * [Commit] [edits based on feedback](https://github.com/OffchainLabs/prysm/commit/29a6c4239ef78e35723703e6c6650adab620be8a) - 2025-07-31
+* [Commit] [DataColumnSidecar backfill](https://github.com/OffchainLabs/prysm/commit/e3f9617ecf554056f42cefee9bf157cb0e591909) - 2025-08-14
+* [Commit] [fix inverted inequality](https://github.com/OffchainLabs/prysm/commit/8634cee11c40402f4ff0e508e6b1332ff704b2f6) - 2025-08-14
+* [Commit] [removing ssz-only flag ( reverting feature) and fix accept header middleware (#15433)](https://github.com/OffchainLabs/prysm/commit/77958022e7a6af74196855f053498d4a7172ea78) - 2025-08-14
+* [Commit] [Add disable-get-blobs flag to skip data column sidecars from execution layer](https://github.com/OffchainLabs/prysm/commit/cdd44dd0b4cd142b08c6be0a21e59a307909cb04) - 2025-08-14
+* [Commit] [various linter nits](https://github.com/OffchainLabs/prysm/commit/532bd0262f228d710499f6684fafab9396328cd7) - 2025-08-14
 ## Q2 2025
 
 

@@ -72,6 +72,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[fulu] head sync failed due to  Missing or mismatching dataColumnSidecars](https://github.com/ChainSafe/lodestar/issues/8193) - 2025-08-13
 * [Issue] [[fulu] head sync failed due to Unmatched dataColumnSidecars](https://github.com/ChainSafe/lodestar/issues/8192) - 2025-08-13
 * [Issue] [[fulu] Rate limited on head sync chain](https://github.com/ChainSafe/lodestar/issues/8191) - 2025-08-13
+* [Issue] [[fulu] head sync to handle forky condition](https://github.com/ChainSafe/lodestar/issues/8204) - 2025-08-14
+* [Pull Request] [fix: head sync](https://github.com/ChainSafe/lodestar/pull/8203) - 2025-08-14
+* [Issue] [[fulu] head sync to retry with compatible chain only](https://github.com/ChainSafe/lodestar/issues/8202) - 2025-08-14
+* [Pull Request] [fix: do not pick out-of-date peer to retry head sync](https://github.com/ChainSafe/lodestar/pull/8201) - 2025-08-14
 ## Q2 2025
 
 

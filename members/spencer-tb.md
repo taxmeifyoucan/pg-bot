@@ -92,6 +92,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(ci): fix coverage when modifying existing ported tests.](https://github.com/ethereum/execution-spec-tests/commit/b8a34495548e5cc32174bc7225aef09b475bbf4b) - 2025-08-08
 * [Commit] [feat(src): add bpo forks and transition forks updated.](https://github.com/ethereum/execution-spec-tests/commit/5d654aeab106b8297e9f306698320ec839eb6c6e) - 2025-08-13
 * [Pull Request] [feat(tests|forks|pytest): temporary BPO x EIP-7918 test (WIP)](https://github.com/ethereum/execution-spec-tests/pull/2035) - 2025-08-13
+* [Commit] [feat(tests): Add more cases for EIP-7951 (#2023)](https://github.com/ethereum/execution-spec-tests/commit/bf117bf2e9e4491197e8b1e9502cdcc54868f0cd) - 2025-08-15
+* [Commit] [feat(tests): new case.](https://github.com/ethereum/execution-spec-tests/commit/71a588f83c0d1ce2088a89c6f2cf46af25dfab40) - 2025-08-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

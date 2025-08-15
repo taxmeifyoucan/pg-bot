@@ -62,6 +62,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration_test: Add extra test on latest (#430)](https://github.com/erigontech/rpc-tests/commit/ab25a5c37e5e5579b4c0d72895d10122b42dd0e9) - 2025-08-08
 * [Pull Request] [integration_test: Add creation method on trace](https://github.com/erigontech/rpc-tests/pull/431) - 2025-08-08
 * [Commit] [integration_test: Add creation method on trace (#431)](https://github.com/erigontech/rpc-tests/commit/38fd2db9aae6f51204d0f635877c082b22559852) - 2025-08-11
+* [Pull Request] [integration_test: add eth_getProf test on latest](https://github.com/erigontech/rpc-tests/pull/433) - 2025-08-14
+* [Pull Request] [perf_test: add eth_getProof pattern](https://github.com/erigontech/rpc-tests/pull/432) - 2025-08-14
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -162,6 +162,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [no_std support](https://github.com/bluealloy/revm/commit/64c00919373f3cf171cfa9d3c7d1f69021e068cf) - 2025-08-13
 * [Commit] [chore(database): remove unused dependencies (#2885)](https://github.com/bluealloy/revm/commit/c59916a499fac64acd02782b60389378bacadc34) - 2025-08-13
 * [Commit] [test: add AccountStatus unit test (#2869)](https://github.com/bluealloy/revm/commit/aaff4e6bc8a9338c9a3166582d1a1257ffbb7121) - 2025-08-13
+* [Commit] [docs: inline documentation of revm top modules (#2666)](https://github.com/bluealloy/revm/commit/803261837a134d0ca6cf5d376830c781c827a030) - 2025-08-14
+* [Commit] [inline host functions](https://github.com/bluealloy/revm/commit/eeb693845a6ce77afc399a430d11ea3fe86c2748) - 2025-08-14
+* [Commit] [skip loading caller account in create](https://github.com/bluealloy/revm/commit/4c03a04394f1d1c02921ff467a18235d7e44cccd) - 2025-08-14
+* [Commit] [fix eip7702](https://github.com/bluealloy/revm/commit/c7e7ca13fd87c5b3fb4e1114d5e443a30abee984) - 2025-08-14
+* [Commit] [some fixes](https://github.com/bluealloy/revm/commit/71c91ca581e0629489ddf68c1db8a6d39394288a) - 2025-08-14
+* [Commit] [paging first page, tests](https://github.com/bluealloy/revm/commit/1ef32b1d9670fef089c407137e8716d6f392bdca) - 2025-08-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

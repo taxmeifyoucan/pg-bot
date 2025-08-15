@@ -121,6 +121,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Revert "Fix James' comment."](https://github.com/OffchainLabs/prysm/commit/cc8a5fc42202e92690f9e64682df7b4d117ae025) - 2025-08-13
 * [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/9dcb8be2df799ea3476d86cbc92ba6bc93ccc1e8) - 2025-08-13
 * [Commit] [Update go to v1.24.5 (#15561)](https://github.com/OffchainLabs/prysm/commit/181df3995eaaf9a7d3bbab1aa25756ac0d8ec5b6) - 2025-08-13
+* [Commit] [Add extra flags](https://github.com/OffchainLabs/prysm/commit/22a6820edeb80eb26556645e7a8ae0f185504d45) - 2025-08-14
+* [Commit] [ee](https://github.com/OffchainLabs/prysm/commit/3d459b87b7ea78811b5caf59ee4cf60f3c98c817) - 2025-08-14
+* [Commit] [Add DataColumnStorage and SubscribeAllDataSubnets flag.](https://github.com/OffchainLabs/prysm/commit/00ab5a10515d41bb242200f847728a3e99ccae35) - 2025-08-14
+* [Commit] [Add DataColumnStorage and SubscribeAllDataSubnets flag.](https://github.com/OffchainLabs/prysm/commit/af2dc9afdcdc1e388b840e0c222498eb8bce684a) - 2025-08-14
 ## Q2 2025
 
 

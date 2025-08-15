@@ -71,6 +71,7 @@ Team: Erigon
 * [Pull Request] [[31] Trie: unified access to domains, fixing getProof](https://github.com/erigontech/erigon/pull/16607) - 2025-08-13
 * [Commit] [dir improvements: move `kv` from `erigon-lib` to `db` (#16585)](https://github.com/erigontech/erigon/commit/d7512a00ac596edb4e5da57a1ff8daa3dbf75f79) - 2025-08-13
 * [Pull Request] [Trie: unified access to domains, fixing `getProof`](https://github.com/erigontech/erigon/pull/16606) - 2025-08-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ea1aea1822d1414f6dbb580913636e9bce8da3cb) - 2025-08-14
 ## Q2 2025
 
 

@@ -63,6 +63,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [linting](https://github.com/OffchainLabs/prysm/commit/fc3f4a6111ad503a34cb0db97f5f9341f26e9207) - 2025-08-12
 * [Commit] [accidently checked in files](https://github.com/OffchainLabs/prysm/commit/75884cc89643ec9ab73dcbb84ad140413e3a8c73) - 2025-08-13
 * [Commit] [manu feedback](https://github.com/OffchainLabs/prysm/commit/8697ac23406d13dd177a641109a253a337f390d3) - 2025-08-13
+* [Commit] [adding user agent validator beacon client (#15574)](https://github.com/OffchainLabs/prysm/commit/7d528c75bbed6300c11ad1114265f555c476e567) - 2025-08-14
 ## Q2 2025
 
 

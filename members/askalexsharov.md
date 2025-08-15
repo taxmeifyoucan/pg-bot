@@ -712,6 +712,10 @@ Team: Erigon
 * [Issue] [Fix `main` CI](https://github.com/erigontech/erigon/issues/16593) - 2025-08-13
 * [Commit] [save](https://github.com/erigontech/erigon/commit/1d5c021fd9fbb7a27a13fc479a5e77b3f6c34744) - 2025-08-13
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e45bce96c089fea6ae40e786b1a5e0f66c84887a) - 2025-08-13
+* [Pull Request] [[r31] rm-state simplify](https://github.com/erigontech/erigon/pull/16620) - 2025-08-14
+* [Commit] [[r32] introduce `kv.Step` type (#16581)](https://github.com/erigontech/erigon/commit/9fff398c4f0d7d35490000be328650db4ca07554) - 2025-08-14
+* [Issue] [prevent creation of empty `.kv` files](https://github.com/erigontech/erigon/issues/16619) - 2025-08-14
+* [Issue] [add small docs to Version type](https://github.com/erigontech/erigon/issues/16618) - 2025-08-14
 ## Q2 2025
 
 

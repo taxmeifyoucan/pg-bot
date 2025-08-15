@@ -153,6 +153,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix crash on after db dispose and concurrent full pruning start](https://github.com/NethermindEth/nethermind/pull/9111) - 2025-08-11
 * [Commit] [Remove use of blockchain processor in RPC (#9021)](https://github.com/NethermindEth/nethermind/commit/037fe3c841a8532f2f710853d0fb2ac2a7186dba) - 2025-08-11
 * [Commit] [PreGenesis marker](https://github.com/NethermindEth/nethermind/commit/463436bb26c3a03d550005936e5492a7c064691a) - 2025-08-13
+* [Commit] [Remove readonly trie store read with custom node storage. (#9102)](https://github.com/NethermindEth/nethermind/commit/84cd65240eb6da027fa18cd6438c3908de272c03) - 2025-08-14
+* [Commit] [BBetter name](https://github.com/NethermindEth/nethermind/commit/daa2c686906947e9b8ed36b3087b6ce9e18e6fd2) - 2025-08-14
+* [Commit] [Remove console log](https://github.com/NethermindEth/nethermind/commit/8f4b82ff2c0400d9d45f11933df3ce35a255c452) - 2025-08-14
+* [Commit] [Fix/TrieException due to persisted parent but not child. (#9086)](https://github.com/NethermindEth/nethermind/commit/884afc88456b39439a42d5e5efd328164aa571ac) - 2025-08-14
+* [Commit] [Use lighter GetBlockNumber for OnForkChoiceUpdated (#9112)](https://github.com/NethermindEth/nethermind/commit/7f0eb6caaafcd842da7f7adfe2e5d540635e7f93) - 2025-08-14
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/dd3df6f0a1d624278bd27ea7698fad033e454b40) - 2025-08-14
+* [Commit] [Scoped WorldState (#9028)](https://github.com/NethermindEth/nethermind/commit/cf526eeadce1cbf5c21f80e529af0b627a88ecd5) - 2025-08-14
+* [Commit] [PreGenesis marker](https://github.com/NethermindEth/nethermind/commit/463436bb26c3a03d550005936e5492a7c064691a) - 2025-08-14
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

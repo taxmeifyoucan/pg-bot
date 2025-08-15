@@ -148,6 +148,19 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fixes](https://github.com/status-im/nimbus-eth1/commit/63ee3f508605c5de6726569ae3745f64fed910e1) - 2025-08-07
 * [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/42aeb2acc12eb0db6f77bb27e8c9348bdc8df85d) - 2025-08-07
 * [Issue] [Nimbus EL spam Lodestar with failed connection attempts](https://github.com/status-im/nimbus-eth1/issues/3557) - 2025-08-13
+* [Commit] [Use composite action for CI (#3561)](https://github.com/status-im/nimbus-eth1/commit/0946ffb33f5a3b580d3af1d65ed0d86348c08b0c) - 2025-08-14
+* [Commit] [Cleanup tests](https://github.com/status-im/nimbus-eth1/commit/f1e143c618e713930b3f5f43e29ab508aac9e09a) - 2025-08-14
+* [Pull Request] [Use composite action for CI](https://github.com/status-im/nimbus-eth1/pull/3561) - 2025-08-14
+* [Commit] [Use composite action for CI](https://github.com/status-im/nimbus-eth1/commit/b969e3a05a13cc9788f23f258d01f585762ac044) - 2025-08-14
+* [Commit] [Update proxy, portal, and simulators CI](https://github.com/status-im/nimbus-eth1/commit/271805a89552631e8fb2a19dc3e6b31eeae39cae) - 2025-08-14
+* [Commit] [fix shell](https://github.com/status-im/nimbus-eth1/commit/de5ae6e05260bbb9282ce98ae99f6e5e1ef1989f) - 2025-08-14
+* [Commit] [Fixes](https://github.com/status-im/nimbus-eth1/commit/bbd307e238ad9e0dfbc8efc2ff1d3547ab8151f9) - 2025-08-14
+* [Commit] [eth_data_exporter: Export StoredReceipts instead of Receipts (#3503)](https://github.com/status-im/nimbus-eth1/commit/9a7f81ac2a67b6595b116217b43d9e6fc0d7c7ac) - 2025-08-14
+* [Commit] [Replace eth_test with EEST test vectors (#3560)](https://github.com/status-im/nimbus-eth1/commit/8c5b5975e250a5da6336ed8bffaa5971792a2f82) - 2025-08-14
+* [Commit] [Lint](https://github.com/status-im/nimbus-eth1/commit/1fe9e02c4581a238d7990d0947708359aec0e1c3) - 2025-08-14
+* [Pull Request] [Replace eth_test with EEST test vectors](https://github.com/status-im/nimbus-eth1/pull/3560) - 2025-08-14
+* [Commit] [Replace eth_test with EEST test vectors](https://github.com/status-im/nimbus-eth1/commit/ab4282399f56966af0b1d3a781bf539e858ce01d) - 2025-08-14
+* [Commit] [Fix test](https://github.com/status-im/nimbus-eth1/commit/bc684d5825554d115240a8b31feaacac3a593d27) - 2025-08-14
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

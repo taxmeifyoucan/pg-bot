@@ -65,6 +65,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [removed redundant whitespaces from eth2processor](https://github.com/status-im/nimbus-eth2/commit/cabe9cbf65f428a36991417b48982ba6e81834f8) - 2025-08-08
 * [Commit] [resolve wss sim review](https://github.com/status-im/nimbus-eth2/commit/fc5cd14bf73bc74b1cc376f112889ae3c1963c7b) - 2025-08-08
 * [Commit] [get in some vcus reviews](https://github.com/status-im/nimbus-eth2/commit/a0dc078fe1fe9d3bcce4bd1b345b5e30febfa7e8) - 2025-08-12
+* [Commit] [Block production revamp (#7353)](https://github.com/status-im/nimbus-eth2/commit/d74a9622009a538c29b92b2d1b3aa97b4f1d5b6b) - 2025-08-14
+* [Commit] [refactor](https://github.com/status-im/nimbus-eth2/commit/c69f2f3a0bc95b82782d3886022550772b0f309a) - 2025-08-14
+* [Commit] [review comments](https://github.com/status-im/nimbus-eth2/commit/405a6967762b0bd81a2f3b3b882e6eae6462098e) - 2025-08-14
 ## Q2 2025
 
 

@@ -21,6 +21,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Add metrics to peer task executor usage to better compare directly with old system](https://github.com/hyperledger/besu/pull/9009) - 2025-07-28
 * [Commit] [Era1 import prepipeline qol improvements (#8964)](https://github.com/hyperledger/besu/commit/bb0182468740bd4851d7e53150570de0fd2ef320) - 2025-08-01
 * [Pull Request] [Remove peertask feature flag](https://github.com/hyperledger/besu/pull/9032) - 2025-08-05
+* [Commit] [Make improvements to Peer Task Executor system to match performance of old system (#9009)](https://github.com/hyperledger/besu/commit/0a37b9c148b296cf82900fb7c481afcbb0fc4cdb) - 2025-08-14
+* [Pull Request] [Implement era1 file export](https://github.com/hyperledger/besu/pull/9081) - 2025-08-14
 ## Q2 2025
 
 

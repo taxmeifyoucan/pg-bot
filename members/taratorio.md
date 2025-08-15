@@ -133,6 +133,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [txnprovider/shutter: add README with general info and run instructions (#16592)](https://github.com/erigontech/erigon/pull/16610) - 2025-08-13
 * [Commit] [txnprovider/shutter: add cmd for checking validator registrations (#16590)](https://github.com/erigontech/erigon/commit/602bc217fe30ddf2853d1b2bc9eb86a615fff512) - 2025-08-13
 * [Commit] [tidy](https://github.com/erigontech/erigon/commit/ef36f118b261a8df4ba45acdf69371cb929651f4) - 2025-08-13
+* [Commit] [workflows: test-hive and readme update to go 1.24 (#16616)](https://github.com/erigontech/erigon/commit/962c8f939dbdb923f041a973087745ea5c3b01db) - 2025-08-14
+* [Pull Request] [tests: add more debug info to TestMiningBenchmark](https://github.com/erigontech/erigon/pull/16652) - 2025-08-14
 ## Q2 2025
 
 

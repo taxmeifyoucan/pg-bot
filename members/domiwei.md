@@ -108,6 +108,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/15cfbdda427502dc18dbca83cba5af9c3095cf12) - 2025-08-07
 * [Commit] [remove milestones from integrity check (#16453)](https://github.com/erigontech/erigon/commit/5a6e24ace813f0d7d42196744c78600e1cbad5bc) - 2025-08-07
 * [Commit] [update](https://github.com/erigontech/erigon/commit/6ca813fdbfc3276e3dd63e9b83291e5d822324a8) - 2025-08-09
+* [Pull Request] [wip: Adjust Beacon API](https://github.com/erigontech/erigon/pull/16651) - 2025-08-14
+* [Commit] [update](https://github.com/erigontech/erigon/commit/480bef6fbf12929e93efd49c9399b4c7848910a6) - 2025-08-14
 ## Q2 2025
 
 

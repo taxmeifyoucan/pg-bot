@@ -107,6 +107,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tooling): remove unused tenacity dependency (#2019)](https://github.com/ethereum/execution-spec-tests/commit/43270a2b091e2588e454310972574197b012fb36) - 2025-08-11
 * [Commit] [chore(ci): bump prague to stable and osaka to develop (#1573)](https://github.com/ethereum/execution-spec-tests/commit/575eb8ab6228b5918600868bba5c1e8b1cd2ebb2) - 2025-08-11
 * [Commit] [Deployed 54003b0d83e to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/050f3bff5f3e6d04243e8aedeabbec6908506e18) - 2025-08-12
+* [Commit] [fix(consume): fix `consume_direct.sh` by quoting the testid passed to `--filter` (#1987)](https://github.com/ethereum/execution-spec-tests/commit/5220d21ba64a9a4cbdc7e4025a7f1a032a957c78) - 2025-08-14
+* [Pull Request] [chore(fill): delete output directory if no tests were ran](https://github.com/ethereum/execution-spec-tests/pull/2037) - 2025-08-14
+* [Commit] [chore(fill): delete output dir after pytest-html sessionfinish runs](https://github.com/ethereum/execution-spec-tests/commit/42cf9a1abcc7e5e1409e0170fa28cade66796e37) - 2025-08-14
+* [Commit] [Deployed bf67cb7b700 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/51f354df58ba98d540e84ef3f2bf3717d754fee3) - 2025-08-14
+* [Commit] [Deployed cfd83387efa to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/71d11e8a82dfebb49d795b899865dcad4ec26957) - 2025-08-14
+* [Commit] [chore(consume): remove `consume hive` command (#2008)](https://github.com/ethereum/execution-spec-tests/commit/bf67cb7b7007616f36d32db0fab5267841be8383) - 2025-08-14
+* [Commit] [chores(fill): remove --flat-output and all logic associated with it (#2018)](https://github.com/ethereum/execution-spec-tests/commit/cfd83387efab95876de839a69554fba347ef37c7) - 2025-08-14
 ## Q2 2025
 
 

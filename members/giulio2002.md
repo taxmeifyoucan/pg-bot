@@ -179,6 +179,7 @@ Team: Erigon
 * [Pull Request] [Cherry-Pick: revert receipts persistence](https://github.com/erigontech/erigon/pull/16509) - 2025-08-08
 * [Pull Request] [Cherry-Pick: Caplin: fixed running lighthouse vc alongside it (#16495)](https://github.com/erigontech/erigon/pull/16508) - 2025-08-08
 * [Commit] [Trie: unified access to domains, fixing `getProof` (#16606)](https://github.com/erigontech/erigon/commit/65dc369fd80464d4e972a8af8c12991edaab0bde) - 2025-08-13
+* [Pull Request] [Erigon 3: Download `logaddr` and `logtopic` indicies](https://github.com/erigontech/erigon/pull/16648) - 2025-08-14
 ## Q2 2025
 
 
