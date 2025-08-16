@@ -76,6 +76,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Make Kademlia generic](https://github.com/NethermindEth/nethermind/pull/9109) - 2025-08-11
 * [Commit] [Fix tests](https://github.com/NethermindEth/nethermind/commit/3aa9e2ebbc5bdbd8be60c03e5fe9817cd7ccd952) - 2025-08-13
 * [Pull Request] [De-optimize txs requesting to handle corner cases properly](https://github.com/NethermindEth/nethermind/pull/9128) - 2025-08-13
+* [Commit] [Fix verify trie](https://github.com/NethermindEth/nethermind/commit/aa3bbf124d528f9c28f8e57d915a869000d1cf4d) - 2025-08-15
+* [Commit] [Fix ENR building; use improved discv5](https://github.com/NethermindEth/nethermind/commit/e2615bc8e1dfb3a0e2274faccc87fac8d76c5af0) - 2025-08-15
+* [Commit] [Drop pre-merge data on Gnosis (#9093)](https://github.com/NethermindEth/nethermind/commit/b7f74ff730b23a56635fa036fe85de06293e6ab0) - 2025-08-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

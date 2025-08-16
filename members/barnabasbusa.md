@@ -48,6 +48,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [go fmt](https://github.com/ethpandaops/dora/commit/5bc738890ea62c9e3d3808eb05bac6a7c0bc7373) - 2025-08-04
 * [Commit] [refactoring](https://github.com/ethpandaops/dora/commit/8f386a0537d021b361a2515947962a18b85c8a59) - 2025-08-04
 * [Commit] [fulu cleanup](https://github.com/ethpandaops/dora/commit/21cc40271dbb56556543196bfe1a39aa188c4600) - 2025-08-04
+* [Commit] [update print](https://github.com/ethpandaops/dora/commit/fd5aa2b805434d19930bafc23d429c3c6ced0238) - 2025-08-15
+* [Pull Request] [feat: add blob count next to tx count on mev page](https://github.com/ethpandaops/dora/pull/457) - 2025-08-15
+* [Commit] [feat: add regex search for validator activity tab](https://github.com/ethpandaops/dora/commit/b05288b5bc0e8e406259e47141517828f6b60f3f) - 2025-08-15
+* [Commit] [fix fmt](https://github.com/ethpandaops/dora/commit/e64ef26c44b60c9a19068a217a9b3761aea1fcee) - 2025-08-15
+* [Pull Request] [feat: add regex search for validator activity tab](https://github.com/ethpandaops/dora/pull/456) - 2025-08-15
 ## Q2 2025
 
 

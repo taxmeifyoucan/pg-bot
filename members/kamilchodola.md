@@ -17,6 +17,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Increase the machine size for op-mainnet](https://github.com/NethermindEth/nethermind/pull/9017) - 2025-07-21
 * [Commit] [Bump version to 1.32.4](https://github.com/NethermindEth/nethermind/commit/1c4c7c0a67894635c4f95c26009ad84323fc1591) - 2025-07-30
 * [Issue] [Rerunning hanged at certain block (fixes after restart)](https://github.com/NethermindEth/nethermind/issues/9070) - 2025-08-01
+* [Commit] [Fix verify trie (#9135)](https://github.com/NethermindEth/nethermind/commit/e3a827339ebb95468690154a25ebf235b4c77294) - 2025-08-15
+* [Pull Request] [Fix verify trie](https://github.com/NethermindEth/nethermind/pull/9135) - 2025-08-15
 ## Q2 2025
 
 

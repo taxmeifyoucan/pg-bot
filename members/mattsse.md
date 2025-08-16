@@ -127,6 +127,12 @@ Team: Reth
 * [Commit] [chore(deps): weekly `cargo update` (#17777)](https://github.com/paradigmxyz/reth/commit/6260c10c529542f70c710e5c45dfd46d6420a5e0) - 2025-08-11
 * [Commit] [update book](https://github.com/paradigmxyz/reth/commit/6cb4a2d79af28b05c654de6a262a2c6efcf27bfb) - 2025-08-11
 * [Commit] [chore: msrv 1.88 (#17782)](https://github.com/paradigmxyz/reth/commit/5f0d33425e230d54084ac5d52064694d75c1ce1a) - 2025-08-11
+* [Issue] [Forward revm features from reth-revm](https://github.com/paradigmxyz/reth/issues/17895) - 2025-08-15
+* [Pull Request] [test: add tests for fetching header,body ranges](https://github.com/paradigmxyz/reth/pull/17893) - 2025-08-15
+* [Commit] [fix(network): off by one error in getting next header (#17889)](https://github.com/paradigmxyz/reth/commit/87c29027b85c6ba34536d0c9b294ec7477f298da) - 2025-08-15
+* [Commit] [chore: clippy happy (#17892)](https://github.com/paradigmxyz/reth/commit/0de24935c2255b373dcfd34377527dd75ec913e3) - 2025-08-15
+* [Commit] [chore(tx-pool): Rm redundant async block (#17891)](https://github.com/paradigmxyz/reth/commit/7744ee9e74a48821e2a5b5f61ffc458e373fda8f) - 2025-08-15
+* [Pull Request] [chore: clippy happy](https://github.com/paradigmxyz/reth/pull/17892) - 2025-08-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

@@ -76,6 +76,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: head sync](https://github.com/ChainSafe/lodestar/pull/8203) - 2025-08-14
 * [Issue] [[fulu] head sync to retry with compatible chain only](https://github.com/ChainSafe/lodestar/issues/8202) - 2025-08-14
 * [Pull Request] [fix: do not pick out-of-date peer to retry head sync](https://github.com/ChainSafe/lodestar/pull/8201) - 2025-08-14
+* [Pull Request] [chore: remove redundant unknownBlockParent event emit](https://github.com/ChainSafe/lodestar/pull/8213) - 2025-08-15
+* [Commit] [fix: download descendant block before process](https://github.com/ChainSafe/lodestar/commit/f9c8b32bc436437db11d299fd9b1520672ea07f6) - 2025-08-15
+* [Pull Request] [fix: correct pending block status in unknownBlockParent event handler](https://github.com/ChainSafe/lodestar/pull/8211) - 2025-08-15
 ## Q2 2025
 
 

@@ -23,6 +23,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Commit] [NewPayloadTimeout in miliseconds (#8929)](https://github.com/NethermindEth/nethermind/commit/8cdb82cd5d2e12201af764ef2fec366b37c516e3) - 2025-07-23
 * [Issue] [Extending trace_ endpoints with fork as a parameter](https://github.com/NethermindEth/nethermind/issues/9056) - 2025-07-30
 * [Issue] [Monitoring hardfork effects on application layer](https://github.com/NethermindEth/nethermind/issues/9055) - 2025-07-30
+* [Issue] [json http port and websocket port don't open till after syncing](https://github.com/NethermindEth/nethermind/issues/9138) - 2025-08-15
 ## Q2 2025
 
 

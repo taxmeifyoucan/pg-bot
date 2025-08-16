@@ -64,6 +64,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [accidently checked in files](https://github.com/OffchainLabs/prysm/commit/75884cc89643ec9ab73dcbb84ad140413e3a8c73) - 2025-08-13
 * [Commit] [manu feedback](https://github.com/OffchainLabs/prysm/commit/8697ac23406d13dd177a641109a253a337f390d3) - 2025-08-13
 * [Commit] [adding user agent validator beacon client (#15574)](https://github.com/OffchainLabs/prysm/commit/7d528c75bbed6300c11ad1114265f555c476e567) - 2025-08-14
+* [Commit] [memory optimization](https://github.com/OffchainLabs/prysm/commit/217971a7921fb89521dc3112f050c0e50e46ee52) - 2025-08-15
+* [Commit] [rollback introduced too much complication as well as a new bug so we are removing it](https://github.com/OffchainLabs/prysm/commit/36738fe4e2b354999cfb9b1e3a5bfa76bc94aed5) - 2025-08-15
+* [Commit] [omit NetworkScheduleEntry fields that are not part of BlobScheduleEntry (#15557)](https://github.com/OffchainLabs/prysm/commit/26cec9d9c7a6cc5e8d9f308964030f9c87120fcb) - 2025-08-15
+* [Commit] [manu's recommendations on defective subnet rollback edge case](https://github.com/OffchainLabs/prysm/commit/1a30ac08a7435aeee390765029ce864d966f1810) - 2025-08-15
 ## Q2 2025
 
 

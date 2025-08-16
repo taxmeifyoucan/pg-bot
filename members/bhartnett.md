@@ -58,6 +58,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Fix possible underflow when processing block hashes.](https://github.com/status-im/nimbus-eth1/commit/985eb9ad6c7e7feb1cf4d1964e3c036418dcfce9) - 2025-08-13
 * [Commit] [Use separate account and storage preimages tables.](https://github.com/status-im/nimbus-eth1/commit/11cb9e3c550a7e39ebd3abd319e435792576804c) - 2025-08-13
 * [Commit] [Use var parameters to return proofs to reduce seq copies and create a multiStorageProof function.](https://github.com/status-im/nimbus-eth1/commit/b31c024a7a3da03f416ac6c4e5b2cc4ede59f702) - 2025-08-13
+* [Commit] [Fix verify proof function in aristo proof module (#3562)](https://github.com/status-im/nimbus-eth1/commit/166d9dc744f56ac4c8c5bced5762dee0201b2951) - 2025-08-15
+* [Commit] [Fix copyright year.](https://github.com/status-im/nimbus-eth1/commit/8d9e6a8253a7ec16cf86e700d0453bfb8bf5c44d) - 2025-08-15
+* [Commit] [Return error when proof is empty and add aristo proof test.](https://github.com/status-im/nimbus-eth1/commit/803318fd39b93103a13d0a1bbaa3ba46b5c2dd9f) - 2025-08-15
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

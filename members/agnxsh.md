@@ -68,6 +68,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Block production revamp (#7353)](https://github.com/status-im/nimbus-eth2/commit/d74a9622009a538c29b92b2d1b3aa97b4f1d5b6b) - 2025-08-14
 * [Commit] [refactor](https://github.com/status-im/nimbus-eth2/commit/c69f2f3a0bc95b82782d3886022550772b0f309a) - 2025-08-14
 * [Commit] [review comments](https://github.com/status-im/nimbus-eth2/commit/405a6967762b0bd81a2f3b3b882e6eae6462098e) - 2025-08-14
+* [Commit] [bump up sidecarless](https://github.com/status-im/nimbus-eth2/commit/71ca571a8dd4055375ea1172e109d3161112e36f) - 2025-08-15
+* [Commit] [bump up max sidecarless](https://github.com/status-im/nimbus-eth2/commit/7a5248e973ee5f8bf2dec268835dd1fd9d824289) - 2025-08-15
+* [Commit] [fix](https://github.com/status-im/nimbus-eth2/commit/29ce95b1069b302911bda4e6bfc940e1e2201e3a) - 2025-08-15
 ## Q2 2025
 
 

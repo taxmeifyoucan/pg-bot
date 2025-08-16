@@ -114,6 +114,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed cfd83387efa to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/71d11e8a82dfebb49d795b899865dcad4ec26957) - 2025-08-14
 * [Commit] [chore(consume): remove `consume hive` command (#2008)](https://github.com/ethereum/execution-spec-tests/commit/bf67cb7b7007616f36d32db0fab5267841be8383) - 2025-08-14
 * [Commit] [chores(fill): remove --flat-output and all logic associated with it (#2018)](https://github.com/ethereum/execution-spec-tests/commit/cfd83387efab95876de839a69554fba347ef37c7) - 2025-08-14
+* [Commit] [Deployed 9765b911068 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/613b2c40a2d16cef3e82644af59408b0cc6ff524) - 2025-08-15
+* [Commit] [Deployed 1e4ec685a43 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/dde4ceeaf96e5326b791127cfa0861d43e894da3) - 2025-08-15
+* [Pull Request] [feat(cli): add `filter_fixtures` cli command](https://github.com/ethereum/execution-spec-tests/pull/2045) - 2025-08-15
+* [Commit] [tests: add unit tests for `filter_fixtures`](https://github.com/ethereum/execution-spec-tests/commit/e3ba7b46a0721179edafc054f14ce1f6f6ed7e22) - 2025-08-15
+* [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/0920abe6e8948edf69e5efb2beacdb0dee625a17) - 2025-08-15
 ## Q2 2025
 
 

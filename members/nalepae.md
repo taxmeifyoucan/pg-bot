@@ -125,6 +125,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [ee](https://github.com/OffchainLabs/prysm/commit/3d459b87b7ea78811b5caf59ee4cf60f3c98c817) - 2025-08-14
 * [Commit] [Add DataColumnStorage and SubscribeAllDataSubnets flag.](https://github.com/OffchainLabs/prysm/commit/00ab5a10515d41bb242200f847728a3e99ccae35) - 2025-08-14
 * [Commit] [Add DataColumnStorage and SubscribeAllDataSubnets flag.](https://github.com/OffchainLabs/prysm/commit/af2dc9afdcdc1e388b840e0c222498eb8bce684a) - 2025-08-14
+* [Commit] [`randomPeer`: Deterministic randomness.](https://github.com/OffchainLabs/prysm/commit/27c0f1a481debc3c166bd9bc2acb2fa7b9ac8b3a) - 2025-08-15
+* [Commit] [`FetchDataColumnSidecars`: If possible, try to reconstruct after retrieving sidecars from peers if not some are still missing.](https://github.com/OffchainLabs/prysm/commit/1ea1b5704fd128b58a123095cba8c68d29cba86a) - 2025-08-15
+* [Pull Request] [`FetchDataColumnSidecars`: If possible, try to reconstruct after retrieving sidecars from peers if not some are still missing.](https://github.com/OffchainLabs/prysm/pull/15593) - 2025-08-15
+* [Commit] [Add rate limiter check.](https://github.com/OffchainLabs/prysm/commit/6e02170881efefefa4aeb2ff8a14d140a18a1d8d) - 2025-08-15
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/41cf0ec59e458a503a6adc09856b0359b09b7321) - 2025-08-15
+* [Commit] [Fix Potuz's and Preston's comment.](https://github.com/OffchainLabs/prysm/commit/bf6007c5f0d1870106acbc64baf2e61b942c9dd5) - 2025-08-15
 ## Q2 2025
 
 

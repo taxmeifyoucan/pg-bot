@@ -55,6 +55,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: return correct multiaddrs in getNetworkIdentity endpoint (#8189)](https://github.com/ChainSafe/lodestar/commit/10917064f52721b97ba5c844bb0dbe5462913880) - 2025-08-13
 * [Commit] [fix: only subscribe to sampled subnets (#8181)](https://github.com/ChainSafe/lodestar/commit/7e739c1a8e368cad1ccf32b96df7aa5187a2a936) - 2025-08-13
 * [Commit] [fix: support dual stack on same port (#8190)](https://github.com/ChainSafe/lodestar/commit/b42f83b4e0bd9f4277c236f1c667017da23904ea) - 2025-08-14
+* [Commit] [chore: remove stray function](https://github.com/ChainSafe/lodestar/commit/3fe3851026549bc8859229d1a21d459df6e7358e) - 2025-08-15
+* [Commit] [chore: finish updating gossip handlers](https://github.com/ChainSafe/lodestar/commit/4d97aafc1654d2e8cc3a408064ca6d5ca975c9be) - 2025-08-15
+* [Commit] [chore: halfway thru gossip handlers](https://github.com/ChainSafe/lodestar/commit/17846cb575b5252a6497099eb3b5c4f4cedbdd40) - 2025-08-15
+* [Commit] [chore: fix up src/api](https://github.com/ChainSafe/lodestar/commit/c1bf66bbd234f3c24dccf365b14333223e3052bb) - 2025-08-15
+* [Commit] [fix: do not pick out-of-date peer to retry head sync (#8201)](https://github.com/ChainSafe/lodestar/commit/552110f0bac504f7f731b5f6607f7a92bb29db2b) - 2025-08-15
+* [Commit] [chore: remove redundant unknownBlockParent event emit (#8213)](https://github.com/ChainSafe/lodestar/commit/b17b511121d9fd13ec2c9373b81927c5111dc7ca) - 2025-08-15
+* [Commit] [fix: correct pending block status in unknownBlockParent event handler (#8211)](https://github.com/ChainSafe/lodestar/commit/be4dc6bdcd72beae444c1f6f5068d81d055b0e05) - 2025-08-15
+* [Commit] [refactor: block proposal cleanup (#8155)](https://github.com/ChainSafe/lodestar/commit/ece38879ec8c289d6a35caa9931f81f47795b894) - 2025-08-15
 ## Q2 2025
 
 

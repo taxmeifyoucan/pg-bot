@@ -161,6 +161,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Replace eth_test with EEST test vectors](https://github.com/status-im/nimbus-eth1/pull/3560) - 2025-08-14
 * [Commit] [Replace eth_test with EEST test vectors](https://github.com/status-im/nimbus-eth1/commit/ab4282399f56966af0b1d3a781bf539e858ce01d) - 2025-08-14
 * [Commit] [Fix test](https://github.com/status-im/nimbus-eth1/commit/bc684d5825554d115240a8b31feaacac3a593d27) - 2025-08-14
+* [Pull Request] [Execute EEST engine api test vectors in CI/local](https://github.com/status-im/nimbus-eth1/pull/3564) - 2025-08-15
+* [Commit] [Exclude CALLBlake2f_MaxRounds.json](https://github.com/status-im/nimbus-eth1/commit/87275b5cdf9c7492ef857e59788157f6ecd17188) - 2025-08-15
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

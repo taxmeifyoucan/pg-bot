@@ -16,6 +16,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Revert "evm: use evmone for ModExp"](https://github.com/erigontech/erigon/commit/7ab8d58b2b7cb5060e8f6144e6ded9af89cd40fb) - 2025-07-16
 
 * [Commit] [upgrade evmone_precompiles for better modexp performance](https://github.com/erigontech/erigon/commit/e8944928048a0ec9ecd62d75d926cf0c10783728) - 2025-07-25
+* [Commit] [use uint256](https://github.com/erigontech/erigon/commit/d38c53bef011c14b1c00ba7df0c87dad8b7c9f34) - 2025-08-15
+* [Commit] [dir improvements: move `kv` from `erigon-lib` to `db` (#16585)](https://github.com/erigontech/erigon/commit/d7512a00ac596edb4e5da57a1ff8daa3dbf75f79) - 2025-08-15
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Commit] [ci: Speed up the clang-tidy build (#1272)](https://github.com/ipsilon/evmone/commit/b5f77d6f6e4fae55ae9a027c4bc3d203766d1ec3) - 2025-07-21
 * [Pull Request] [ci: Speed up the clang-tidy build](https://github.com/ipsilon/evmone/pull/1272) - 2025-07-21
@@ -48,9 +50,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [ci: Downgrade the clang-tidy job runner](https://github.com/ipsilon/evmone/pull/1291) - 2025-08-13
 * [Commit] [mpt: Remove explicit extended node kind](https://github.com/ipsilon/evmone/commit/20cfd4272a624fe036f664507098f9cd5a028120) - 2025-08-13
 * [Commit] [ci: Upgrade EEST EOF tests to v1.0.8 (#974)](https://github.com/ipsilon/evmone/commit/85ded6123fec27f8d79df5913ce75ccf06f63b32) - 2025-08-13
+* [Commit] [Fix modexp exponent EIP-7823 limit check (#1294)](https://github.com/ipsilon/evmone/commit/cd9b1a29ea5fc7250ce7325f0dbb0117d920da0d) - 2025-08-15
+* [Commit] [Fix modexp exponent EIP-7823 limit check](https://github.com/ipsilon/evmone/commit/eff73d70f205c9cb9776d69d716abef855d2d4c8) - 2025-08-15
+* [Pull Request] [Fix modexp exponent EIP-7823 limit check](https://github.com/ipsilon/evmone/pull/1294) - 2025-08-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 
+* [Pull Request] [feat(tests): add more EIP-7823 modexp limit tests](https://github.com/ethereum/execution-spec-tests/pull/2042) - 2025-08-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Paweł Bylica to Erigon](https://github.com/protocolguild/documentation/pull/389) - 2025-07-27
 ## Q2 2025

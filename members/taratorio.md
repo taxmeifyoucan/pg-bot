@@ -135,6 +135,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tidy](https://github.com/erigontech/erigon/commit/ef36f118b261a8df4ba45acdf69371cb929651f4) - 2025-08-13
 * [Commit] [workflows: test-hive and readme update to go 1.24 (#16616)](https://github.com/erigontech/erigon/commit/962c8f939dbdb923f041a973087745ea5c3b01db) - 2025-08-14
 * [Pull Request] [tests: add more debug info to TestMiningBenchmark](https://github.com/erigontech/erigon/pull/16652) - 2025-08-14
+* [Commit] [txnprovider/shutter: add a err retry to sendtxns test cmd (#16668)](https://github.com/erigontech/erigon/commit/13a2544aa40a92385f39dab8da277c5994243436) - 2025-08-15
+* [Commit] [txnprovider: align txns id filter behaviour between devp2p pool and shutter (#16646)](https://github.com/erigontech/erigon/commit/2437ffaf8b5cd2725fc1993adac2553aa4ec46ea) - 2025-08-15
+* [Commit] [txnprovider/txpool: fix deadlock (#16680)](https://github.com/erigontech/erigon/commit/019f5f4c5603a8389a09a95d52c21ebe2cd26c62) - 2025-08-15
+* [Commit] [Revert "polygon: use execution server start (#16485)" (#16676) (#16681)](https://github.com/erigontech/erigon/commit/fce4bb6c90b428ae86b55abc5b7aa5311a635223) - 2025-08-15
+* [Pull Request] [Revert "polygon: use execution server start (#16485)" (#16676)](https://github.com/erigontech/erigon/pull/16681) - 2025-08-15
+* [Pull Request] [txnprovider/txpool: fix deadlock](https://github.com/erigontech/erigon/pull/16680) - 2025-08-15
+* [Pull Request] [Revert "polygon: use execution server start (#16485)"](https://github.com/erigontech/erigon/pull/16676) - 2025-08-15
+* [Commit] [remove todo](https://github.com/erigontech/erigon/commit/5977077a9cabf7a4a8dac3c0d007ecf660516bb7) - 2025-08-15
+* [Commit] [txnprovider: align txns id filter behaviour between devp2p pool and shutter (#16646) (#16670)](https://github.com/erigontech/erigon/commit/81aa76104d1f43ae8875ef81136fa6fcfd74700c) - 2025-08-15
+* [Pull Request] [[DO-NOT-MERGE] execution/engineapi: enable bbd v2](https://github.com/erigontech/erigon/pull/16673) - 2025-08-15
+* [Pull Request] [txnprovider: align txns id filter behaviour between devp2p pool and shutter (#16646)](https://github.com/erigontech/erigon/pull/16670) - 2025-08-15
+* [Pull Request] [txnprovider/shutter: add a err retry to sendtxns test cmd](https://github.com/erigontech/erigon/pull/16668) - 2025-08-15
+* [Commit] [tests: add more debug info to TestMiningBenchmark (#16652)](https://github.com/erigontech/erigon/commit/a149cbf53fd674a354bc3b5f0e1e8a79eb38cb85) - 2025-08-15
 ## Q2 2025
 
 

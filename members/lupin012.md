@@ -42,6 +42,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [lint fix](https://github.com/erigontech/erigon/commit/548a039c4250746bd553a8f966b46f6ff948b811) - 2025-08-08
 * [Commit] [1.1zation (cp from 3.1) (#16389)](https://github.com/erigontech/erigon/commit/24f46cb46e0a0d029627547ed11d0f4698521136) - 2025-08-11
 * [Commit] [update rpc-test](https://github.com/erigontech/erigon/commit/b76f188808a2ec3c710594bffbf1b1215c44d215) - 2025-08-11
+* [Pull Request] [CI: update rpc-test version with eth_getProf tests on latest](https://github.com/erigontech/erigon/pull/16682) - 2025-08-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24

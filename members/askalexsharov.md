@@ -716,6 +716,61 @@ Team: Erigon
 * [Commit] [[r32] introduce `kv.Step` type (#16581)](https://github.com/erigontech/erigon/commit/9fff398c4f0d7d35490000be328650db4ca07554) - 2025-08-14
 * [Issue] [prevent creation of empty `.kv` files](https://github.com/erigontech/erigon/issues/16619) - 2025-08-14
 * [Issue] [add small docs to Version type](https://github.com/erigontech/erigon/issues/16618) - 2025-08-14
+* [Commit] [Revert "polygon: use execution server start (#16485)" (#16676)](https://github.com/erigontech/erigon/commit/542aacd20f4365ec063e05268f970f56f1ddd176) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b70e0c5831e5bab6f430285476a20599cb5347ff) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e5421ab32613bbe417c59bb163a0c714c68bf65f) - 2025-08-15
+* [Pull Request] [[r31] assert: deleted files revive  ](https://github.com/erigontech/erigon/pull/16675) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/31f5b99f8dd8de6a6eccf926fbf2286832e268f4) - 2025-08-15
+* [Issue] [FullNode: prevent merge if not enough files](https://github.com/erigontech/erigon/issues/16672) - 2025-08-15
+* [Commit] [[r31] dl: skip "file not exists error" (#16669)](https://github.com/erigontech/erigon/commit/a0f453ae7fb0a9d85af080fa65cb0c11636ef3a5) - 2025-08-15
+* [Pull Request] [[r31] dl: skip "file not exists error"](https://github.com/erigontech/erigon/pull/16669) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bf79435492560cb7916ce2a8d4d0525af4fb0967) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/16a733a364c80c31327f5876ae213c277bc703fc) - 2025-08-15
+* [Commit] [[main] Domain Schema should remain unchanged (#16667)](https://github.com/erigontech/erigon/commit/8017a549309ad619bba9c1bbd7486004218fc017) - 2025-08-15
+* [Commit] [[r31] skip disappeared files in .Walk (#16663)](https://github.com/erigontech/erigon/commit/13f7aef52b27eca021a92f0e69d4ba6455c91b3d) - 2025-08-15
+* [Commit] [`downloader.Delete`: `.idx` files are missed (#16661)](https://github.com/erigontech/erigon/commit/75d5be654077c222651442e22135b5a2e0c25e28) - 2025-08-15
+* [Commit] [Move key dereferencing logic into `AggregatorRoTx` (#16638)](https://github.com/erigontech/erigon/commit/7d7155c32345126b21f8dd6ecc795e60caf27d83) - 2025-08-15
+* [Pull Request] [[wip] filepath.Walk ruleguard](https://github.com/erigontech/erigon/pull/16664) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f01b50ae9caf3966a00511d4b1e16b3462b6b638) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e73c7e93504aa032e3b01574e2e46dac2ade42ae) - 2025-08-15
+* [Commit] [Delete torrent file before dropping (#16657)](https://github.com/erigontech/erigon/commit/d038d448b6cc5f5cda39d6b3b254bb551f7b96cc) - 2025-08-15
+* [Commit] [kick ci](https://github.com/erigontech/erigon/commit/e2a38c282ccb7a6efea1ac62eafa03daafbfaf4c) - 2025-08-15
+* [Pull Request] [[r31] skip disappeared files in .Walk](https://github.com/erigontech/erigon/pull/16663) - 2025-08-15
+* [Commit] [Require torrents added from disk to complete on `downloader.verify` (#16655)](https://github.com/erigontech/erigon/commit/5edcbf9aa467f6d48e94a8b16c36ac6022fa056d) - 2025-08-15
+* [Commit] [Cherry pick Downloader improvements from 3.1 (#16659)](https://github.com/erigontech/erigon/commit/c767c4b14afb43c4b690217cd74792ee8f77226b) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/df3f4f189f1d655fabd2f3c1e8565f3596fe8f8a) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/df3b201835114b5b59df4196347be97e60487d32) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0fd0137d635e225af0aa2a7ead298242dba13e07) - 2025-08-15
+* [Pull Request] [`downloader.Delete`: `.idx` files are missed](https://github.com/erigontech/erigon/pull/16661) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f8898470f8cf875571a7f0777b610375b69c853e) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b21152f4a18cb5b8f68bfbe3cbb63f5cb8a34351) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/212e0eb3cb15fdb5b6166f0aedf27daeb50468d8) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f59f3b109929bae6415213c3a395674b426730f5) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/75e9a761e382aa388d5096a7316e5402b117d31e) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e41f8cda597365146eac7786e063fc2ca5a4b019) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0de42e45dc1158d1f21af96b4442169d212b176e) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/07bb5b63ee42a46301679b1db91ea5ea64e7533b) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/24b27feca791d9999d405b2d89b06fc922b2bb0a) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4afd89ba1a0f3b9c8da403aa89712536df2e066a) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b90f3ef66d2e820a027338d010acc460ab954883) - 2025-08-15
+* [Commit] [Fix snapshot overriding (#16624)](https://github.com/erigontech/erigon/commit/5a80eab9f1747c4209293468fc6151572ca7ce53) - 2025-08-15
+* [Commit] [[r31] block files lost onDelete (#16642)](https://github.com/erigontech/erigon/commit/04277069944f4cc342a52c25b36677e99f334e97) - 2025-08-15
+* [Issue] [blocks dl.Del calls do not include .idx files](https://github.com/erigontech/erigon/issues/16658) - 2025-08-15
+* [Issue] [Downloader.Add: follow up](https://github.com/erigontech/erigon/issues/16654) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ed87357bf48bc28efbdf7b523f4f0b7907f3ff9f) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/63b950a7e4771dc17a6cfb08bb0699ecfbde4212) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3194a564ed4b2211c44c0301dfbc6cdf3088d8ae) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4e6e70c7287f0ddd451bb94767b57ad9c0359e9a) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/187bfcfc37ecb39934ae2583f789af43a711564d) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b78d68a9b10307a28757f4e246ec632273ce5642) - 2025-08-15
+* [Commit] [[r31] rm-state simplify (#16620)](https://github.com/erigontech/erigon/commit/4b61f44b37c98694c8520039da1a8c835d65d85a) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/35f86e26dad1e4f5a0bd92cab24d51515fc0aa4a) - 2025-08-15
+* [Commit] [Torrent disk flushing and webseed requesting optimizations (#16653)](https://github.com/erigontech/erigon/commit/7cde5475c2cbd6e5f525efbc06aa82bf25c590b4) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/679e65ebaa19e77f6a4810b402af9c788410e279) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2e7b730c022d7b062110f114857d76f632b3138d) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/db2e1e91604813d3733ac510682ce92362640d39) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e320d9263d9617af7a1dca9ca4edcde1df4a4e7b) - 2025-08-15
+* [Commit] [Erigon 3: Download `logaddr` and `logtopic` indicies (#16648)](https://github.com/erigontech/erigon/commit/9adb2815e0b559b064f2e1631ecb46132a06460b) - 2025-08-15
 ## Q2 2025
 
 

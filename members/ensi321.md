@@ -24,6 +24,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: bump spec test to `v1.6.0-alpha.4`. Add data columns to fork-choice spec test](https://github.com/ChainSafe/lodestar/pull/8170) - 2025-08-10
 * [Commit] [Fix timing](https://github.com/ChainSafe/lodestar/commit/d6cc2738375413ff54812ca7edcdd00072b99ade) - 2025-08-12
 * [Commit] [test: disable DEBUG logs by default when running sim tests (#8186)](https://github.com/ChainSafe/lodestar/commit/d5be46d90d68263e7a3dddb42a1c98f1ac626cce) - 2025-08-14
+* [Pull Request] [feat: implement EIP-7732 ePBS](https://github.com/ChainSafe/lodestar/pull/8212) - 2025-08-15
 ## Q2 2025
 
 

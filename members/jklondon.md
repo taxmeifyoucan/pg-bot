@@ -91,6 +91,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/59d46414268d4bafbb2787bcf1d44e78fece1a7a) - 2025-08-13
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/e3d0907ec1f69c3996c9a027532ad0e7cd8edcc5) - 2025-08-13
 * [Pull Request] [[r3.1] schema of domains should be unchanged](https://github.com/erigontech/erigon/pull/16603) - 2025-08-13
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/47e88fc7e648552d13b7972f515140d5fed3bc4b) - 2025-08-15
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/96a87d1472f6668c96ba4c2b8a2281906ec03f4e) - 2025-08-15
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/5ea7b1cf4bc1857da27fa0cd8104e643d17053f9) - 2025-08-15
+* [Commit] [adjust receipt data files version (#16677)](https://github.com/erigontech/erigon/commit/6dd17aae776120f80b6b6ff91a264bf41a2e0fef) - 2025-08-15
+* [Commit] [[r31] assert: deleted files revive   (#16675)](https://github.com/erigontech/erigon/commit/78e4189762ad55f21b141880e5516f33e62c600f) - 2025-08-15
+* [Commit] [rpcdaemon: add rpc-test on latest  (#16521)](https://github.com/erigontech/erigon/commit/b5663534f537804a57f62d47a303f80a52348e4f) - 2025-08-15
+* [Pull Request] [[main] Domain Schema should remain unchanged](https://github.com/erigontech/erigon/pull/16667) - 2025-08-15
 ## Q2 2025
 
 

@@ -160,6 +160,10 @@ Team: Erigon
 * [Commit] [add steps in files report to temporal getters](https://github.com/erigontech/erigon/commit/023d0c672fba9c743e38721bcb810b921ac9715b) - 2025-08-11
 * [Commit] [twigfile tests passing](https://github.com/erigontech/erigon/commit/b865a5df9fa41af45e9f284d40437ad0dbcb416f) - 2025-08-11
 * [Commit] [rpcdaemon: Estimate gas align to geth (#16397)](https://github.com/erigontech/erigon/commit/cee3f4af2e1c8e3fbd0081558177b899e5c73784) - 2025-08-11
+* [Commit] [add pretty printers](https://github.com/erigontech/erigon/commit/b58d25fbf4200ac8268288f7af4f59a9812b21d8) - 2025-08-15
+* [Commit] [log trie metrics](https://github.com/erigontech/erigon/commit/06dd25901e822abddc8b8ef41903bff3c9469de3) - 2025-08-15
+* [Commit] [init state object on zero](https://github.com/erigontech/erigon/commit/fdf02b8d1b77713b98355d93584af39defef3cdc) - 2025-08-15
+* [Commit] [log trie metrics](https://github.com/erigontech/erigon/commit/60a6b68cdb6a8bc02b02c30781dc93f98b7c118d) - 2025-08-15
 ## Q2 2025
 
 

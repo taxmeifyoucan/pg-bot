@@ -174,6 +174,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci](https://github.com/erigontech/erigon/commit/5c81e784a32432c76fb75d96c026477ad54a6f1e) - 2025-08-14
 * [Pull Request] [revert "enable trace deletion"](https://github.com/erigontech/erigon/pull/16650) - 2025-08-14
 * [Pull Request] [revert "enable trace deletion" ](https://github.com/erigontech/erigon/pull/16649) - 2025-08-14
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0708048dfeff5136e6b172e2d611c73aeb5915e5) - 2025-08-15
+* [Pull Request] [save](https://github.com/erigontech/erigon/pull/16677) - 2025-08-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

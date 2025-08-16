@@ -55,6 +55,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/76818a5f8aa19cd9dd2bfa9f28c60f969f49b30d) - 2025-08-11
 * [Commit] [more](https://github.com/status-im/nimbus-eth1/commit/2baf86a069a57d9d4bfc1e59f38dd07e43ec039f) - 2025-08-11
 * [Commit] [Fix stateroot mismatch caused by stale db cache when using checkpoints (#3527)](https://github.com/status-im/nimbus-eth1/commit/3f6b570fb081afe930a58cb00fef129becc5a605) - 2025-08-11
+* [Pull Request] [move database directory to top-level (fixes #1348)](https://github.com/status-im/nimbus-eth1/pull/3566) - 2025-08-15
+* [Issue] [`--network` should allow specifying a folder directly](https://github.com/status-im/nimbus-eth1/issues/3565) - 2025-08-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -108,6 +110,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [ncli_testnet too](https://github.com/status-im/nimbus-eth2/commit/9ed2959c4994ca475ca1af1f0cd0dae5f2fc09cc) - 2025-08-11
 * [Pull Request] [builder: use empty fork throughout](https://github.com/status-im/nimbus-eth2/pull/7383) - 2025-08-13
 * [Commit] [use `Address` from `eth` throughout (#7364)](https://github.com/status-im/nimbus-eth2/commit/c15ad82c0162c84e9e3c24783026e81008c0b29b) - 2025-08-13
+* [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/e69530c5f28e283bfa670dd92be59f0b1a976b63) - 2025-08-15
+* [Commit] [hardcode some fork versions](https://github.com/status-im/nimbus-eth2/commit/8321010237593ea0375d6eb9e6d258f61644dbb8) - 2025-08-15
+* [Commit] [pass network to signer](https://github.com/status-im/nimbus-eth2/commit/342045cbcfda851b8639919a6e9581f5e91ce962) - 2025-08-15
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/3f8752ee0b344400792332e4df4fa0b12228a4f9) - 2025-08-15
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/01704f1afdf15ac1841ba5905a8503dd6f46e3ff) - 2025-08-15
+* [Commit] [Fix withdrawable graph in Grafana dashboard to display correct metrics (#6837)](https://github.com/status-im/nimbus-eth2/commit/b21ba83e3874b1a4925e811503d8cefc6a89f65f) - 2025-08-15
+* [Commit] [use mainnet version in tests](https://github.com/status-im/nimbus-eth2/commit/b59555b987dca4a5d1414ebd4cbf09c80751dbce) - 2025-08-15
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

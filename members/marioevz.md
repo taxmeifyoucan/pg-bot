@@ -82,6 +82,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(filler,tests): Fix failing static tests](https://github.com/ethereum/execution-spec-tests/pull/2041) - 2025-08-14
 * [Commit] [fix](https://github.com/ethereum/execution-spec-tests/commit/c5ac90f44e809c8f55c0ab440d7106a3b57471e6) - 2025-08-14
 * [Commit] [fix](https://github.com/ethereum/execution-spec-tests/commit/8d8b934786ebb2b8c6d4388d50afaf0a807b7780) - 2025-08-14
+* [Commit] [feat(forks): Add BPO2, BPO3](https://github.com/ethereum/execution-spec-tests/commit/9a789d67aef69e56d2efaba7a3f6d36fa6312390) - 2025-08-15
+* [Commit] [fix(filler,tests): Fix failing static tests (#2041)](https://github.com/ethereum/execution-spec-tests/commit/9765b9110689ab3f25ba8d46bd223d9553e746f6) - 2025-08-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

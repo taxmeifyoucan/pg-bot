@@ -90,6 +90,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Enable dependabot for github actions (#16589)](https://github.com/erigontech/erigon/commit/6d6d6428ac77fd8331252b7d10f8abd61b52800d) - 2025-08-13
 * [Commit] [[3.1] fix historical values on `eth_getProof` (#16587)](https://github.com/erigontech/erigon/commit/0f96e4b8ef853ae707a18840191c86867b20f0f9) - 2025-08-13
 * [Commit] [go mod tidy](https://github.com/erigontech/erigon/commit/5d51a061c221a195749c1f9a668c7ad7f461f40b) - 2025-08-13
+* [Commit] [some post-merge fixes](https://github.com/erigontech/erigon/commit/eecaccfd928d89d672cac4f451086dd9a42b81d2) - 2025-08-15
+* [Pull Request] [[DO NOT SQUASH MERGE] merge main@aa12297 to arb0](https://github.com/erigontech/erigon/pull/16679) - 2025-08-15
+* [Commit] [unify config_arbitrum](https://github.com/erigontech/erigon/commit/26de4c685f82b9ce9bfc97046a484f9e70992e90) - 2025-08-15
+* [Commit] [some post-merge fixes](https://github.com/erigontech/erigon/commit/62bd39e33d59bb2feaaf8d9172c572d525e747e7) - 2025-08-15
+* [Commit] [[main] `TRACE_DELETION ` (#16326) (#16334)](https://github.com/erigontech/erigon/commit/cee4295697522efa83bdeffcba1743f6112a3ef8) - 2025-08-15
+* [Commit] [[r31] set version modifier to rc1 (#16674)](https://github.com/erigontech/erigon/commit/7664c9e4297726fa6e4e640cd05c25d07649aa24) - 2025-08-15
+* [Pull Request] [[r31] set version modifier to rc1](https://github.com/erigontech/erigon/pull/16674) - 2025-08-15
+* [Commit] [[r31] set version modifier to rc1](https://github.com/erigontech/erigon/commit/5994253e17c18ae57a0da3d12d89267eb22ec908) - 2025-08-15
+* [Commit] [rpcdaemon: eth_getProof force 0 padding in short hash keys (#16632)](https://github.com/erigontech/erigon/commit/784a2f8c31379a85fdb066c59231e2657805a2f0) - 2025-08-15
+* [Commit] [execution: make `Rules` a function of `BlockContext` (#16645)](https://github.com/erigontech/erigon/commit/3b90b61228a357daf38571f3511ecfabe44730c8) - 2025-08-15
+* [Commit] [kill NewEVMBlockContextHelper as it was only appropriate for sys calls](https://github.com/erigontech/erigon/commit/0c8cafdb24a705c4ecbf95b2876be921d1c2b09b) - 2025-08-15
+* [Commit] [[EIP-7918] patch fusaka-devnet-4 issue (#16644)](https://github.com/erigontech/erigon/commit/c408de5cb6cf7917992f2da6846ec0231bd33895) - 2025-08-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

@@ -62,6 +62,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [log some block things](https://github.com/status-im/nimbus-eth2/commit/22f978c8875f862f3597e30a5ab1fd53ab5f5c3d) - 2025-08-10
 * [Commit] [should plug the last logging holes in what can add to unviables](https://github.com/status-im/nimbus-eth2/commit/d6cb6c2e5f7f89dde926939ba75769b4869d8436) - 2025-08-11
 * [Commit] [Make SyncQueue to be aware of fork boundary. (#7379)](https://github.com/status-im/nimbus-eth2/commit/e339594a04ee666dd943bb9a320a873813e9108b) - 2025-08-13
+* [Commit] [fit columns to block processor (#7386)](https://github.com/status-im/nimbus-eth2/commit/68e355bd8520d11270f34d8a0ac41fdf05ae8655) - 2025-08-15
+* [Pull Request] [refactor storeBackfillBlock](https://github.com/status-im/nimbus-eth2/pull/7387) - 2025-08-15
+* [Commit] [refactor storeBackfillBlock](https://github.com/status-im/nimbus-eth2/commit/076fb19352b9189f70f14e5de6fea5e352ccfdc6) - 2025-08-15
+* [Commit] [replace datacolumnquarantine with generic blob quarantine; adapt rman to use it (#7374)](https://github.com/status-im/nimbus-eth2/commit/ea042dc3c340c95aa5bc9f5c9b0a315682e915f1) - 2025-08-15
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

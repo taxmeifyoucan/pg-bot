@@ -32,6 +32,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Change log levels](https://github.com/erigontech/erigon/commit/e13cd5bb5b5c5ad095b53c5dc7f5990506f77cfb) - 2025-08-13
 * [Commit] [Change log levels](https://github.com/erigontech/erigon/commit/b9a99a8f23093b7e7651526b0728c8f8bfbfe8cd) - 2025-08-13
 * [Commit] [Move to stage_execute](https://github.com/erigontech/erigon/commit/b4d4e5daec95ac363c277f5f070273a2d795e6a1) - 2025-08-13
+* [Pull Request] [workflows: Run `run_migrations` before running RPC tests](https://github.com/erigontech/erigon/pull/16678) - 2025-08-15
+* [Commit] [Fix message ID](https://github.com/erigontech/erigon/commit/0867ccc976461a7a64d0f386bb834ceace2c32cd) - 2025-08-15
+* [Commit] [Set protocol lengths](https://github.com/erigontech/erigon/commit/c2ec4edebd5251b2562e461860dbbce353235e09) - 2025-08-15
+* [Commit] [backwards compatibility for receipt data (#16204)](https://github.com/erigontech/erigon/commit/a3c9a5cdea7a8a7f52cdcf128fcab2d3e09b7b40) - 2025-08-15
+* [Commit] [p2p: Support witness protocol (#16570)](https://github.com/erigontech/erigon/commit/aa1229719994cca746d9224658e4faf66cafec97) - 2025-08-15
+* [Commit] [Create witnessBuffer when enabled](https://github.com/erigontech/erigon/commit/3cba47501e9fbc4be5c0fe0fc359520e7265f51e) - 2025-08-15
+* [Commit] [append instead of slices.Insert](https://github.com/erigontech/erigon/commit/74242366f9cdce55dfbc6380d055c2ac504b5762) - 2025-08-15
+* [Commit] [revert migration](https://github.com/erigontech/erigon/commit/0474ccfb38d22e7061b8aaed1196c85d7c600955) - 2025-08-15
+* [Commit] [migration](https://github.com/erigontech/erigon/commit/00614310f06d90607048a3d296deecdae61dd0db) - 2025-08-15
+* [Commit] [Fix crash on non-Polygon chains](https://github.com/erigontech/erigon/commit/4de7f4c96f8e12f1f1ba90dbac70a3a9230e8f4c) - 2025-08-15
+* [Commit] [fix tests](https://github.com/erigontech/erigon/commit/67f45dd249c6b4cd27120f704f70d084ac56554f) - 2025-08-15
+* [Commit] [refactor: replace context.WithCancel with t.Context (#16601)](https://github.com/erigontech/erigon/commit/3fc3f2271ada50b4d2707d18ae9834482ee75a57) - 2025-08-15
+* [Commit] [clean up](https://github.com/erigontech/erigon/commit/61d17401f405a75c1e86fec0bb890e96abc9dc00) - 2025-08-15
+* [Commit] [Make stage](https://github.com/erigontech/erigon/commit/47aa74f436e72486187527b8f9940ac8dc85a59b) - 2025-08-15
 ## Q2 2025
 
 

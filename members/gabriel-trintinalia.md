@@ -52,6 +52,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [[fusaka-devnet-3] Merge main (#9055)](https://github.com/hyperledger/besu/commit/ada02bccd760de835bc94e9b10088381d24f6784) - 2025-08-11
 * [Pull Request] [[fusaka-devnet-3] Merge main](https://github.com/hyperledger/besu/pull/9055) - 2025-08-11
 * [Pull Request] [fix(osaka): Fix gas cost when base and modulus length are zero](https://github.com/hyperledger/besu/pull/9054) - 2025-08-11
+* [Commit] [feat(plugins): expose P2P network events  (#9039)](https://github.com/hyperledger/besu/commit/e82358b490b9288fef59b6c02c87ec69e95a2d02) - 2025-08-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025

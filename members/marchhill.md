@@ -131,6 +131,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix typo](https://github.com/NethermindEth/nethermind/commit/9ded82d27896e550ac726e434e76a281ae7c4b9d) - 2025-08-11
 * [Commit] [Drop pre-merge data on Gnosis (#9093)](https://github.com/NethermindEth/nethermind/commit/b7f74ff730b23a56635fa036fe85de06293e6ab0) - 2025-08-11
 * [Commit] [remove db intensive task lock](https://github.com/NethermindEth/nethermind/commit/eb4abff7d8f7708f5745c3dc81c19c0d4899bf5e) - 2025-08-11
+* [Commit] [call byte encode, move BAL to core](https://github.com/NethermindEth/nethermind/commit/ec347c17d64b33c0eac8f36f3fd2a13e63bc67c7) - 2025-08-15
+* [Commit] [set BAL at end of processing](https://github.com/NethermindEth/nethermind/commit/db756e64e28c7fd58f997cb1b92c967f0a8ee111) - 2025-08-15
 ## Q2 2025
 
 

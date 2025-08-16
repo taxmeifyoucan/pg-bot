@@ -26,6 +26,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [use correct copyright date, and remove some TODOs](https://github.com/gballet/go-ethereum/commit/b7c4d3c1b5238430b500e16e6b74b55c5db16531) - 2025-08-08
 * [Commit] [feedback: move the trie to its own package](https://github.com/gballet/go-ethereum/commit/93417ea660bba6a3d0ce68521bbac2f858b83728) - 2025-08-11
 * [Commit] [give comment headers to all TransitionTrie methods](https://github.com/gballet/go-ethereum/commit/8658f9152e5538061170670f5264bda4218b74e1) - 2025-08-12
+* [Commit] [more review feedback fixes](https://github.com/gballet/go-ethereum/commit/0a9b14af728e0a94e6a72eaebcc8c7967e617fcb) - 2025-08-15
+* [Commit] [some review feedback and extra fixes](https://github.com/gballet/go-ethereum/commit/cdaf64c78044a766abb8239183fbd242d08659fd) - 2025-08-15
 ## Q2 2025
 
 

@@ -39,6 +39,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Miscellaneous CI/Test updates](https://github.com/ethereum/execution-specs/issues/1339) - 2025-07-21
 * [Commit] [refactor(weld): move current tests to json_infra  (#1360)](https://github.com/ethereum/execution-specs/commit/a7b8712dabd7b005963c8cf22fa756e6d83f2f22) - 2025-08-14
 * [Issue] [tool(refactor): Refactor the json infra test constants](https://github.com/ethereum/execution-specs/issues/1367) - 2025-08-14
+* [Pull Request] [bug(Osaka): TARGET_BLOB_GAS_PER_BLOCK should not be an independent constant](https://github.com/ethereum/execution-specs/pull/1370) - 2025-08-15
+* [Issue] [bug(Osaka): `TARGET_BLOB_GAS_PER_BLOCK` should not be an independent constant](https://github.com/ethereum/execution-specs/issues/1369) - 2025-08-15
 ## Q2 2025
 
 

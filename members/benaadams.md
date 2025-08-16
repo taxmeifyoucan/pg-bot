@@ -198,6 +198,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Use single event subscription for NewPayload](https://github.com/NethermindEth/nethermind/pull/9107) - 2025-08-11
 * [Commit] [fix: Replace mutable TxReceipt.SkipStateAndStatusInRlp with constructor-based approach (#9057)](https://github.com/NethermindEth/nethermind/commit/8ba70c6ae393fb9df093e519cb52bdf52d859ec5) - 2025-08-11
 * [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/22dcdd72adc9151edf7e59835e375cff9507511a) - 2025-08-11
+* [Commit] [Wrap sync](https://github.com/NethermindEth/nethermind/commit/658a11e6949ab796cda37fdca4af9b532e0be266) - 2025-08-15
+* [Pull Request] [Correctly Wrap PrepareRequest exeception](https://github.com/NethermindEth/nethermind/pull/9144) - 2025-08-15
+* [Pull Request] [Only update metrics if not already updating metrics](https://github.com/NethermindEth/nethermind/pull/9142) - 2025-08-15
+* [Commit] [Add OutputCache to metrics endpoint (#9139)](https://github.com/NethermindEth/nethermind/commit/026fa2bed0f0ec331944263daa15e8322466d440) - 2025-08-15
+* [Pull Request] [Add OutputCache to metrics endpoint](https://github.com/NethermindEth/nethermind/pull/9139) - 2025-08-15
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

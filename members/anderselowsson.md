@@ -8,6 +8,12 @@ Team: Robust Incentives Group (RIG)
 
 ## Contributions
 
+## Q3 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Updated Figures 2-5 to reflect BLOB_BASE_COST=2**13 and adjusted the rationale to improve clarity](https://github.com/ethereum/EIPs/pull/10155) - 2025-08-15
+* [Pull Request] [Improved clarity in the Motivation, Specification, and Rationale, and updated Figure 1](https://github.com/ethereum/EIPs/pull/10151) - 2025-08-15
 ## Q2 2025
 
 
