@@ -203,6 +203,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Only update metrics if not already updating metrics](https://github.com/NethermindEth/nethermind/pull/9142) - 2025-08-15
 * [Commit] [Add OutputCache to metrics endpoint (#9139)](https://github.com/NethermindEth/nethermind/commit/026fa2bed0f0ec331944263daa15e8322466d440) - 2025-08-15
 * [Pull Request] [Add OutputCache to metrics endpoint](https://github.com/NethermindEth/nethermind/pull/9139) - 2025-08-15
+* [Commit] [Only update metrics if not already updating metrics (#9142)](https://github.com/NethermindEth/nethermind/commit/a8ecee94fa8368dc76406d045d5160442ff5b335) - 2025-08-16
+* [Commit] [Only update metrics if not already updating metrics (#9142)](https://github.com/NethermindEth/nethermind/commit/49169bf61241f8ad39f091d85a09edd7ab1c4c72) - 2025-08-16
+* [Commit] [Correctly Wrap PrepareRequest exeception (#9144)](https://github.com/NethermindEth/nethermind/commit/b4a8c2a91b69334ead63ffa82565f90cdbc8deed) - 2025-08-16
+* [Commit] [Only update metrics if not already updating metrics](https://github.com/NethermindEth/nethermind/commit/e59f6c0e50d262b622d7376a941e0a94cd2fb8e5) - 2025-08-16
+* [Commit] [Correctly Wrap PrepareRequest exeception (#9144)](https://github.com/NethermindEth/nethermind/commit/a30c67e8591e1cfb5b868651a94149b615b4494e) - 2025-08-16
+* [Commit] [Also name other compiled Expressions](https://github.com/NethermindEth/nethermind/commit/7d26a302ec461df2c9a2ad11775f7e595be3dd3d) - 2025-08-16
+* [Commit] [Max update db metrics once per minute](https://github.com/NethermindEth/nethermind/commit/b0db3c9ff79bdd5d6c78fb24ba4959df3fd3ab3f) - 2025-08-16
+* [Commit] [Fast Reflection Accessor](https://github.com/NethermindEth/nethermind/commit/1e69a03e43d480942cd412e47d5dfc509ddbb0e0) - 2025-08-16
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

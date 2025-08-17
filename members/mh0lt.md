@@ -164,6 +164,12 @@ Team: Erigon
 * [Commit] [log trie metrics](https://github.com/erigontech/erigon/commit/06dd25901e822abddc8b8ef41903bff3c9469de3) - 2025-08-15
 * [Commit] [init state object on zero](https://github.com/erigontech/erigon/commit/fdf02b8d1b77713b98355d93584af39defef3cdc) - 2025-08-15
 * [Commit] [log trie metrics](https://github.com/erigontech/erigon/commit/60a6b68cdb6a8bc02b02c30781dc93f98b7c118d) - 2025-08-15
+* [Commit] [consolidate metrics](https://github.com/erigontech/erigon/commit/cbbee592ed6377a52f87ca2800afacae765545f5) - 2025-08-16
+* [Commit] [aways record read on create](https://github.com/erigontech/erigon/commit/28f848f5a1836ccd12c3f8e567a91f2e6bf2ad29) - 2025-08-16
+* [Commit] [adjust account logic](https://github.com/erigontech/erigon/commit/bb6923d7d7527ffcb12b45d3cc31d0abc97c8450) - 2025-08-16
+* [Commit] [log trie metrics](https://github.com/erigontech/erigon/commit/cdbb67b1709854ddb4e6560f7d9e7248db082f4f) - 2025-08-16
+* [Commit] [log trie metrics](https://github.com/erigontech/erigon/commit/23ee704ebff32b5550b049cbac074fc2c707b99c) - 2025-08-16
+* [Commit] [log trie metrics](https://github.com/erigontech/erigon/commit/c07efe85e589324f26ef8f32ddcc63eec0f5891f) - 2025-08-16
 ## Q2 2025
 
 

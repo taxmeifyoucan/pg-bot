@@ -771,6 +771,58 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/db2e1e91604813d3733ac510682ce92362640d39) - 2025-08-15
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e320d9263d9617af7a1dca9ca4edcde1df4a4e7b) - 2025-08-15
 * [Commit] [Erigon 3: Download `logaddr` and `logtopic` indicies (#16648)](https://github.com/erigontech/erigon/commit/9adb2815e0b559b064f2e1631ecb46132a06460b) - 2025-08-15
+* [Commit] [[r3.1] warn for using old snapshots (#16435)](https://github.com/erigontech/erigon/commit/939ae8648ebdc6c940fc4ed57e4315f10ae00e76) - 2025-08-16
+* [Pull Request] [[r31] dl.Del call from `pruneBlockSnapshots`](https://github.com/erigontech/erigon/pull/16690) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e347cd40a5b47d9857c26a5e6737fb78bab6273a) - 2025-08-16
+* [Pull Request] [missed `downloader.Delete()` calls](https://github.com/erigontech/erigon/pull/16689) - 2025-08-16
+* [Commit] [use filepath.WalkDir instead of filepath.Walk](https://github.com/erigontech/erigon/commit/e6518cfc3750c782df8c5c5229c1203d32530f66) - 2025-08-16
+* [Commit] [retire blocks - call dl.Del() for .idx files](https://github.com/erigontech/erigon/commit/e55d2811106d0ca18e293640d52597c92c78faa4) - 2025-08-16
+* [Commit] [retire blocks - call dl.Del() for .idx files](https://github.com/erigontech/erigon/commit/ca0194893d86dd05f18f55c1fdbb8712b2b3eb12) - 2025-08-16
+* [Commit] [retire blocks - call dl.Del()](https://github.com/erigontech/erigon/commit/7c7a5818d46eaadf46687cdd0a5fe19c3302dbc4) - 2025-08-16
+* [Commit] [missing accessors - see all versions](https://github.com/erigontech/erigon/commit/1bba797e4b3941d78d5a9752c71039afbeebddd8) - 2025-08-16
+* [Commit] [missing accessors - see all versions](https://github.com/erigontech/erigon/commit/ca0f9ca300c7148e4b3c37f8bf17178314145fe6) - 2025-08-16
+* [Commit] [missing accessors - see all versions](https://github.com/erigontech/erigon/commit/a644a0fddbc761d3b01191024db382253b51f59b) - 2025-08-16
+* [Commit] [use filepath.WalkDir instead of `filepath.Walk`  (#16664)](https://github.com/erigontech/erigon/commit/05dbed4ffe16424750bd036896334e8d912b341f) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6a8ed77df2b1796c580b8e58496122dbfb999905) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c14b2c5ea4ff6df080aa4c11cae591d3166e3459) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f4e75d8a6541fa38f1303ce4c4bf25d2b72c4f59) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/765b4c4984bcf85164a65963d1e009ebee7023d1) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/97a4fffa932b455a884df9d30e2ae48c364cf0ba) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/43293438caffc74be950cb53b57e55519685a5f1) - 2025-08-16
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/ee017751515ff3892c8ad2a4cd9831358d1eff24) - 2025-08-16
+* [Commit] [ensure bor dbs are opened in seg retire (#16515) (#16551)](https://github.com/erigontech/erigon/commit/a4f47a2400e0eac14a9cd6ca8d4ed79a7400a787) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3a254494b020a94951066529ce707eb721e137db) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/354ca5c84f43c4bdac17b9d34a84ab30a96b5802) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/eca590d8c03de188b218f97f51b6606a12d03e1e) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/696b6b54a56540a64806038034979277c9d599d9) - 2025-08-16
+* [Commit] [[r3.1] qa-tests: improve tip-tracking timeout and error reporting  (#16686)](https://github.com/erigontech/erigon/commit/ec7a800dee0183799c95ad22eda00d6deea2727c) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f44921edfeb8661665831c92e2eea2f88641e2df) - 2025-08-16
+* [Commit] [kick ci](https://github.com/erigontech/erigon/commit/cc755a89abdd28f1fce272a1f1cd0287b2cd42fa) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6bda51e552d1ad0479ea86c648679ed79be6974f) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5057936c52dbf24d15ea60fe46c47d66caf4161c) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bae12e073fb401c2294e081d899a28f081bedad5) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0fde1240c135d0c821b234d119ec5e1e29da4f5f) - 2025-08-16
+* [Issue] [downloader: to not touch network in unit-tests](https://github.com/erigontech/erigon/issues/16685) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/14a0c75bffb4571ea057ed828962b1577e57871c) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/90ab7870f54bd4d7b65edf337dad6e8fd169c44b) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/48ead98c7c90318b9c306783657a4b340da8f714) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/97507e97481635165c11e79ba7fce7276e06e200) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/345c1a695a5e5687e1ba8db19e298881967d3a0a) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2ded1cee2b322d22f9e71efc48cfd7dbb69fc477) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cd90193ccd7f9ef46a8fc102214d1bb0ffb49cdd) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/899be69d6363bf855496030898d3adb5880f187a) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2f79fb08e96011135af17d3cc344daa187a11b14) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/95fbc7f99e00e0faff4db176dc0be523fb62961d) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4df3c8fde921f423e76c5929c7c6b72703f0f938) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2fc6d1a06fcc841c4324a77ab201bb0b1e00dcf0) - 2025-08-16
+* [Commit] [Cherry pick snapshot overriding and downloader.verify fixes from 3.1 (#16662)](https://github.com/erigontech/erigon/commit/10de105eeb572625fc0f81a2c5fd3cdacb1b9e8c) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1a5c03138070d6980d4321431a8ea636ffe20bd9) - 2025-08-16
+* [Issue] [filepath.WalkDir: doesn't follow symlinks while our readme recommending symlinks](https://github.com/erigontech/erigon/issues/16684) - 2025-08-16
+* [Commit] [Delete torrent file before dropping (#16657)](https://github.com/erigontech/erigon/commit/d038d448b6cc5f5cda39d6b3b254bb551f7b96cc) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e6644ff6b4d6a67391fcf6fbacc935bf3bae59bf) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a7be20369a946b098bb79c9e3697fbdb5028513e) - 2025-08-16
+* [Commit] [save](https://github.com/erigontech/erigon/commit/973bc53a8a59afe1396d59d752b76b923bd98edc) - 2025-08-16
+* [Commit] [qa-tests: less strict error handling in RPC Performance Tests (#16671)](https://github.com/erigontech/erigon/commit/46d3a4d44adce671ce661a50b6eed6262969775f) - 2025-08-16
 ## Q2 2025
 
 

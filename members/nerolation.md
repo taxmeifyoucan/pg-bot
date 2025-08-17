@@ -29,6 +29,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [EIP-7928: Clarify 7702 delegation indicators](https://github.com/ethereum/EIPs/pull/10128) - 2025-08-11
 * [Pull Request] [EIP-7883: Add empirical analysis](https://github.com/ethereum/EIPs/pull/10127) - 2025-08-11
 * [Pull Request] [EIP-7928: Update System Contract Handling](https://github.com/ethereum/EIPs/pull/10144) - 2025-08-14
+* [Pull Request] [EIP-7928: Update system contract handling and move from ssz to rlp](https://github.com/ethereum/EIPs/pull/10161) - 2025-08-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add Specs: EIP-7928: Block-level Access Lists](https://github.com/ethereum/execution-specs/pull/1338) - 2025-07-21
 

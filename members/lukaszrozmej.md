@@ -27,6 +27,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Update OP Superchain chains (#9038)](https://github.com/NethermindEth/nethermind/commit/94f3407b448d86e049fd2167fa10c4c7f7717337) - 2025-07-27
 * [Commit] [Update OP Superchain chains (#9080)](https://github.com/NethermindEth/nethermind/commit/3816e9a35421de2a07638a5bacc84bd770fc7853) - 2025-08-03
 * [Commit] [Auto-update fast sync settings (#9079)](https://github.com/NethermindEth/nethermind/commit/f2c20b172f089d37dc8420897cf6087cb0f27c38) - 2025-08-03
+* [Commit] [fix: BlockReceiptsTracer not forwarding stateRoot to inner tracers (#9129)](https://github.com/NethermindEth/nethermind/commit/7997bb8abaf77b03030973496a3fd64ead3dcdf1) - 2025-08-16
 ## Q2 2025
 
 

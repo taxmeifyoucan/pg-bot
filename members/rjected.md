@@ -50,6 +50,7 @@ Team: Reth
 * [Commit] [fix(db): make db get --raw work with DupSort tables](https://github.com/paradigmxyz/reth/commit/f6ffeacbbbb3cb6ee8f099ab6cbd2665f6028051) - 2025-08-13
 * [Pull Request] [fix(db): make db get --raw work with DupSort tables](https://github.com/paradigmxyz/reth/pull/17842) - 2025-08-13
 * [Commit] [chore: remove redundant word in comment (#17728)](https://github.com/paradigmxyz/reth/commit/49f7543aa2d68927e3ac8a7bdbd34f60b1fda440) - 2025-08-14
+* [Issue] [Document on-disk assumptions in TrieWalker and TrieNodeIter](https://github.com/paradigmxyz/reth/issues/17905) - 2025-08-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(interpreter): update docs for slice_mut and slice_range](https://github.com/bluealloy/revm/pull/2714) - 2025-07-15
 * [Pull Request] [feat: expose sha3-keccak in revm and revm-primitives](https://github.com/bluealloy/revm/pull/2713) - 2025-07-15

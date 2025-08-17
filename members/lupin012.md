@@ -43,6 +43,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [1.1zation (cp from 3.1) (#16389)](https://github.com/erigontech/erigon/commit/24f46cb46e0a0d029627547ed11d0f4698521136) - 2025-08-11
 * [Commit] [update rpc-test](https://github.com/erigontech/erigon/commit/b76f188808a2ec3c710594bffbf1b1215c44d215) - 2025-08-11
 * [Pull Request] [CI: update rpc-test version with eth_getProf tests on latest](https://github.com/erigontech/erigon/pull/16682) - 2025-08-15
+* [Commit] [disable again the test](https://github.com/erigontech/erigon/commit/33ca26ed7a4dbe6c366a82442640464a505ad299) - 2025-08-16
+* [Commit] [txnprovider/txpool: fix deadlock (#16680)](https://github.com/erigontech/erigon/commit/019f5f4c5603a8389a09a95d52c21ebe2cd26c62) - 2025-08-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
@@ -65,6 +67,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration_test: Add creation method on trace (#431)](https://github.com/erigontech/rpc-tests/commit/38fd2db9aae6f51204d0f635877c082b22559852) - 2025-08-11
 * [Pull Request] [integration_test: add eth_getProf test on latest](https://github.com/erigontech/rpc-tests/pull/433) - 2025-08-14
 * [Pull Request] [perf_test: add eth_getProof pattern](https://github.com/erigontech/rpc-tests/pull/432) - 2025-08-14
+* [Pull Request] [performance: add eth_call pattern on latest reading data from 23M](https://github.com/erigontech/rpc-tests/pull/435) - 2025-08-16
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

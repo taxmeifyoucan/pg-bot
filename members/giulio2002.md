@@ -180,6 +180,7 @@ Team: Erigon
 * [Pull Request] [Cherry-Pick: Caplin: fixed running lighthouse vc alongside it (#16495)](https://github.com/erigontech/erigon/pull/16508) - 2025-08-08
 * [Commit] [Trie: unified access to domains, fixing `getProof` (#16606)](https://github.com/erigontech/erigon/commit/65dc369fd80464d4e972a8af8c12991edaab0bde) - 2025-08-13
 * [Pull Request] [Erigon 3: Download `logaddr` and `logtopic` indicies](https://github.com/erigontech/erigon/pull/16648) - 2025-08-14
+* [Commit] [Fix execution after `getProof` (#16687)](https://github.com/erigontech/erigon/commit/4a118f559b5853b44122201274b89b7f7718260b) - 2025-08-16
 ## Q2 2025
 
 

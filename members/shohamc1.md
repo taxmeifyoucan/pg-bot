@@ -46,6 +46,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [refactor: replace context.WithCancel with t.Context (#16601)](https://github.com/erigontech/erigon/commit/3fc3f2271ada50b4d2707d18ae9834482ee75a57) - 2025-08-15
 * [Commit] [clean up](https://github.com/erigontech/erigon/commit/61d17401f405a75c1e86fec0bb890e96abc9dc00) - 2025-08-15
 * [Commit] [Make stage](https://github.com/erigontech/erigon/commit/47aa74f436e72486187527b8f9940ac8dc85a59b) - 2025-08-15
+* [Commit] [workflows: Run `run_migrations` before running RPC tests (#16678)](https://github.com/erigontech/erigon/commit/777214145b642cf40d6ce0b4a3c1caa75515daa2) - 2025-08-16
 ## Q2 2025
 
 

@@ -98,6 +98,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [[r31] assert: deleted files revive   (#16675)](https://github.com/erigontech/erigon/commit/78e4189762ad55f21b141880e5516f33e62c600f) - 2025-08-15
 * [Commit] [rpcdaemon: add rpc-test on latest  (#16521)](https://github.com/erigontech/erigon/commit/b5663534f537804a57f62d47a303f80a52348e4f) - 2025-08-15
 * [Pull Request] [[main] Domain Schema should remain unchanged](https://github.com/erigontech/erigon/pull/16667) - 2025-08-15
+* [Issue] [add linter to prevent os.Remove(all) usage](https://github.com/erigontech/erigon/issues/16688) - 2025-08-16
 ## Q2 2025
 
 
