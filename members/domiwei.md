@@ -110,6 +110,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/6ca813fdbfc3276e3dd63e9b83291e5d822324a8) - 2025-08-09
 * [Pull Request] [wip: Adjust Beacon API](https://github.com/erigontech/erigon/pull/16651) - 2025-08-14
 * [Commit] [update](https://github.com/erigontech/erigon/commit/480bef6fbf12929e93efd49c9399b4c7848910a6) - 2025-08-14
+* [Commit] [update](https://github.com/erigontech/erigon/commit/99a577a33009d009b9f6c4b3946761ee575cf9d0) - 2025-08-17
+* [Commit] [update](https://github.com/erigontech/erigon/commit/d158d0550d5e84df9acad24fdb5801d15343e878) - 2025-08-17
+* [Commit] [update](https://github.com/erigontech/erigon/commit/792e7c83056812e6f9fdd416d23ef551aaf17a73) - 2025-08-17
+* [Commit] [[r31] start on broken files  (#16569)](https://github.com/erigontech/erigon/commit/df8fcfcec9114e592e70e621afe6af86b98814db) - 2025-08-17
 ## Q2 2025
 
 

@@ -99,6 +99,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [rpcdaemon: add rpc-test on latest  (#16521)](https://github.com/erigontech/erigon/commit/b5663534f537804a57f62d47a303f80a52348e4f) - 2025-08-15
 * [Pull Request] [[main] Domain Schema should remain unchanged](https://github.com/erigontech/erigon/pull/16667) - 2025-08-15
 * [Issue] [add linter to prevent os.Remove(all) usage](https://github.com/erigontech/erigon/issues/16688) - 2025-08-16
+* [Commit] [revert submodule tests/execution-spec-tests to 3014de6 (match origin/main)](https://github.com/erigontech/erigon/commit/81784ed46d0b0ee0036b132d475eea27cf41de62) - 2025-08-17
+* [Pull Request] [added rule to prevent os.Remove](https://github.com/erigontech/erigon/pull/16694) - 2025-08-17
 ## Q2 2025
 
 

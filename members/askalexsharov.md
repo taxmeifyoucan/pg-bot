@@ -823,6 +823,21 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a7be20369a946b098bb79c9e3697fbdb5028513e) - 2025-08-16
 * [Commit] [save](https://github.com/erigontech/erigon/commit/973bc53a8a59afe1396d59d752b76b923bd98edc) - 2025-08-16
 * [Commit] [qa-tests: less strict error handling in RPC Performance Tests (#16671)](https://github.com/erigontech/erigon/commit/46d3a4d44adce671ce661a50b6eed6262969775f) - 2025-08-16
+* [Issue] [improve `erigon snapshots reset --help`](https://github.com/erigontech/erigon/issues/16693) - 2025-08-17
+* [Pull Request] [[r31] grpc ](https://github.com/erigontech/erigon/pull/16692) - 2025-08-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/81beee6ef62c18bbf1737200ddabe17305695ab1) - 2025-08-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/470b7d06ecbaa2d7412bcdc683b6bc8c2ff2c1d8) - 2025-08-17
+* [Commit] [missed `downloader.Delete()` calls (#16689)](https://github.com/erigontech/erigon/commit/ae822d3016e5d4b7967e210a62efd270ad59eb74) - 2025-08-17
+* [Commit] [call del for state files](https://github.com/erigontech/erigon/commit/8d56cd23e3b67521b92fda67f763ae6fcba692f7) - 2025-08-17
+* [Commit] [rpcdaemon: add rpc-test on latest  (#16521)](https://github.com/erigontech/erigon/commit/b5663534f537804a57f62d47a303f80a52348e4f) - 2025-08-17
+* [Commit] [kick ci](https://github.com/erigontech/erigon/commit/c555f60a7d100dd634df4da66ccfa6872ac4e75a) - 2025-08-17
+* [Commit] [[r31] dl.Del call from `pruneBlockSnapshots` (#16690)](https://github.com/erigontech/erigon/commit/aaa6cee29b735951fd6fed474fb179f7c6c97908) - 2025-08-17
+* [Commit] [rpcd to reload files on its own (#16625)](https://github.com/erigontech/erigon/commit/4bcfada7ac46762a08fef55a0a41331980b44547) - 2025-08-17
+* [Commit] [dir improvements: kill `params` (#16633)](https://github.com/erigontech/erigon/commit/71e4db6a616ab69df7573c6dfbbe2192344f5e11) - 2025-08-17
+* [Commit] [ txpool: Add max hashes limit to new_txn_hashes_66  (#16506)](https://github.com/erigontech/erigon/commit/051005d3dc68ace52c0838cb6d8e7ed102e97ab1) - 2025-08-17
+* [Commit] [rpcdaemon: impl admin_RemovePeer (#16292)](https://github.com/erigontech/erigon/commit/045439bb9908fda30c6d2744d951cf188712be9b) - 2025-08-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cf0e4f97e5bce27d974608267e8a2cff94d32c75) - 2025-08-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aa60d77951d3defef4a30b5753d240408cfb9fa8) - 2025-08-17
 ## Q2 2025
 
 

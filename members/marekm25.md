@@ -24,6 +24,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Issue] [Extending trace_ endpoints with fork as a parameter](https://github.com/NethermindEth/nethermind/issues/9056) - 2025-07-30
 * [Issue] [Monitoring hardfork effects on application layer](https://github.com/NethermindEth/nethermind/issues/9055) - 2025-07-30
 * [Issue] [json http port and websocket port don't open till after syncing](https://github.com/NethermindEth/nethermind/issues/9138) - 2025-08-15
+* [Issue] [Support Long Reorgs by Dynamically Pausing/Resuming In-Memory Pruning](https://github.com/NethermindEth/nethermind/issues/9149) - 2025-08-17
 ## Q2 2025
 
 

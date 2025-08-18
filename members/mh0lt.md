@@ -170,6 +170,9 @@ Team: Erigon
 * [Commit] [log trie metrics](https://github.com/erigontech/erigon/commit/cdbb67b1709854ddb4e6560f7d9e7248db082f4f) - 2025-08-16
 * [Commit] [log trie metrics](https://github.com/erigontech/erigon/commit/23ee704ebff32b5550b049cbac074fc2c707b99c) - 2025-08-16
 * [Commit] [log trie metrics](https://github.com/erigontech/erigon/commit/c07efe85e589324f26ef8f32ddcc63eec0f5891f) - 2025-08-16
+* [Commit] [fixed create balance versioning](https://github.com/erigontech/erigon/commit/6ab7c307400a7712c61d6b2ea565590e54e3adda) - 2025-08-17
+* [Commit] [add unknown version](https://github.com/erigontech/erigon/commit/b8e413ff583e5cb80a18b3d3d2f88350b0ed4ec7) - 2025-08-17
+* [Commit] [add unknown version](https://github.com/erigontech/erigon/commit/4b521a814836b8e5b87ae5cda17aabf0268b5555) - 2025-08-17
 ## Q2 2025
 
 

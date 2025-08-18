@@ -71,6 +71,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump up sidecarless](https://github.com/status-im/nimbus-eth2/commit/71ca571a8dd4055375ea1172e109d3161112e36f) - 2025-08-15
 * [Commit] [bump up max sidecarless](https://github.com/status-im/nimbus-eth2/commit/7a5248e973ee5f8bf2dec268835dd1fd9d824289) - 2025-08-15
 * [Commit] [fix](https://github.com/status-im/nimbus-eth2/commit/29ce95b1069b302911bda4e6bfc940e1e2201e3a) - 2025-08-15
+* [Commit] [fix copyright year](https://github.com/status-im/nimbus-eth2/commit/254b790c4df9d6b8b6e2839e549fc507f1b7a6a6) - 2025-08-17
+* [Pull Request] [merge in eth2processor with columns](https://github.com/status-im/nimbus-eth2/pull/7390) - 2025-08-17
 ## Q2 2025
 
 

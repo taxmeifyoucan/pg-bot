@@ -114,6 +114,7 @@ Team: Reth
 * [Commit] [do not check if coinbase storage was read](https://github.com/paradigmxyz/reth/commit/7c71f71717731f8e919039924a2b02af42f78657) - 2025-08-06
 * [Commit] [stuffssssssss](https://github.com/paradigmxyz/reth/commit/1453ff7158c54c0503442113675069a940bcef8f) - 2025-08-07
 * [Commit] [stuff](https://github.com/paradigmxyz/reth/commit/f59a9ab6e836becfb74961ab917b02937c56c87c) - 2025-08-07
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/23b22c07445fc76cc39cc1efc637c1976af1f625) - 2025-08-17
 ## Q2 2025
 
 

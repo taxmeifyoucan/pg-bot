@@ -211,6 +211,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Also name other compiled Expressions](https://github.com/NethermindEth/nethermind/commit/7d26a302ec461df2c9a2ad11775f7e595be3dd3d) - 2025-08-16
 * [Commit] [Max update db metrics once per minute](https://github.com/NethermindEth/nethermind/commit/b0db3c9ff79bdd5d6c78fb24ba4959df3fd3ab3f) - 2025-08-16
 * [Commit] [Fast Reflection Accessor](https://github.com/NethermindEth/nethermind/commit/1e69a03e43d480942cd412e47d5dfc509ddbb0e0) - 2025-08-16
+* [Pull Request] [Don't serialize UI events when no subscribers](https://github.com/NethermindEth/nethermind/pull/9150) - 2025-08-17
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

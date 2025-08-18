@@ -133,6 +133,7 @@ Team: Reth
 * [Commit] [chore: clippy happy (#17892)](https://github.com/paradigmxyz/reth/commit/0de24935c2255b373dcfd34377527dd75ec913e3) - 2025-08-15
 * [Commit] [chore(tx-pool): Rm redundant async block (#17891)](https://github.com/paradigmxyz/reth/commit/7744ee9e74a48821e2a5b5f61ffc458e373fda8f) - 2025-08-15
 * [Pull Request] [chore: clippy happy](https://github.com/paradigmxyz/reth/pull/17892) - 2025-08-15
+* [Commit] [bump core](https://github.com/paradigmxyz/reth/commit/34e626ace46459efd6be37481c5d6481fabd1a85) - 2025-08-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 ## Q2 2025

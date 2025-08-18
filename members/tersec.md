@@ -66,6 +66,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [refactor storeBackfillBlock](https://github.com/status-im/nimbus-eth2/pull/7387) - 2025-08-15
 * [Commit] [refactor storeBackfillBlock](https://github.com/status-im/nimbus-eth2/commit/076fb19352b9189f70f14e5de6fea5e352ccfdc6) - 2025-08-15
 * [Commit] [replace datacolumnquarantine with generic blob quarantine; adapt rman to use it (#7374)](https://github.com/status-im/nimbus-eth2/commit/ea042dc3c340c95aa5bc9f5c9b0a315682e915f1) - 2025-08-15
+* [Pull Request] [rm pre-Electra builder API remnants](https://github.com/status-im/nimbus-eth2/pull/7391) - 2025-08-18
+* [Commit] [prefer the variations with RuntimeConfig](https://github.com/status-im/nimbus-eth2/commit/43bed93e507324d49f5c649a91cce8fd9408b819) - 2025-08-17
+* [Pull Request] [rm redundant PeerDAS helper functions](https://github.com/status-im/nimbus-eth2/pull/7389) - 2025-08-17
+* [Commit] [fit columns to block processor (#7386)](https://github.com/status-im/nimbus-eth2/commit/68e355bd8520d11270f34d8a0ac41fdf05ae8655) - 2025-08-17
+* [Commit] [test gossip transitions with a BPO (#7388)](https://github.com/status-im/nimbus-eth2/commit/ca3a6d6cbc1baa5b4a7fbef383f944dca138129e) - 2025-08-17
+* [Commit] [test gossip transitions with a BPO](https://github.com/status-im/nimbus-eth2/commit/7ee0813f7998cda039eaf47ff1a962edc4ea798c) - 2025-08-17
+* [Pull Request] [test gossip transitions with a BPO](https://github.com/status-im/nimbus-eth2/pull/7388) - 2025-08-17
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13
