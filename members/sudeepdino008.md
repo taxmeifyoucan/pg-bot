@@ -176,6 +176,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [revert "enable trace deletion" ](https://github.com/erigontech/erigon/pull/16649) - 2025-08-14
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0708048dfeff5136e6b172e2d611c73aeb5915e5) - 2025-08-15
 * [Pull Request] [save](https://github.com/erigontech/erigon/pull/16677) - 2025-08-15
+* [Commit] [save](https://github.com/erigontech/erigon/commit/43072803c473e213957ba6fc60dc9b4fac38a8d4) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1aab1720dc4467b0475d2fbfb42748db96a10b6d) - 2025-08-18
+* [Pull Request] [wip: save](https://github.com/erigontech/erigon/pull/16706) - 2025-08-18
+* [Pull Request] [e3: make salt reload part of `OpenFolder`](https://github.com/erigontech/erigon/pull/16704) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/82d024df4cb0568d59fb714e0a352779edac229e) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/084bccdf64b28486877f305ebef95114ecb93ed0) - 2025-08-18
+* [Pull Request] [readme fix for "dbg: true" feature](https://github.com/erigontech/erigon/pull/16702) - 2025-08-18
+* [Pull Request] [cp: reuse already prepared heimdall store in integrity check (#16634)](https://github.com/erigontech/erigon/pull/16701) - 2025-08-18
+* [Pull Request] [cp: adjust receipt data files version (#16677)](https://github.com/erigontech/erigon/pull/16700) - 2025-08-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

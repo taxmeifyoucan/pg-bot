@@ -51,6 +51,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[r3.1] qa-tests: tip-tracking test with automatic upgrade](https://github.com/erigontech/erigon/pull/16604) - 2025-08-13
 
 * [Pull Request] [qa-tests: less strict error handling in RPC Performance Tests](https://github.com/erigontech/erigon/pull/16671) - 2025-08-15
+* [Commit] [double job timeout](https://github.com/erigontech/erigon/commit/c37fb1a82f0153883f02e6a135b761f06811790f) - 2025-08-18
+* [Commit] [[r3.1] qa-tests: extend timeout for tip tracking & migration (#16703)](https://github.com/erigontech/erigon/commit/6cafac80e756629280dd112c325920154c9dcd08) - 2025-08-18
+* [Pull Request] [[r3.1] qa-tests: add upgrade/downgrade in Gnosis tip tracking](https://github.com/erigontech/erigon/pull/16705) - 2025-08-18
+* [Pull Request] [qa-tests: extend timeout for tip tracking & migration](https://github.com/erigontech/erigon/pull/16703) - 2025-08-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14

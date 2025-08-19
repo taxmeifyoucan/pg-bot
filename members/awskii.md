@@ -73,6 +73,9 @@ Team: Erigon
 * [Pull Request] [Trie: unified access to domains, fixing `getProof`](https://github.com/erigontech/erigon/pull/16606) - 2025-08-13
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ea1aea1822d1414f6dbb580913636e9bce8da3cb) - 2025-08-14
 * [Pull Request] [Fix execution after `getProof`](https://github.com/erigontech/erigon/pull/16687) - 2025-08-16
+* [Commit] [trigger](https://github.com/erigontech/erigon/commit/ea95495a3698fe50f10c03bcc50e75746f38e1bd) - 2025-08-18
+* [Pull Request] [[r31] fixes for `getProof`](https://github.com/erigontech/erigon/pull/16707) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7c5ed43b2c634a6ca1d7323b76513ab14d1209f0) - 2025-08-18
 ## Q2 2025
 
 

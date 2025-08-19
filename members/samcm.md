@@ -23,6 +23,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(deps): update holiman/uint256 to v1.3.2](https://github.com/ethpandaops/xatu/commit/d5b330a90a1bf9bb21839a808950428cde9ea38c) - 2025-08-07
 * [Commit] [feat: add TraceEventFuluBlock handling and pin uint256 to specific commit](https://github.com/ethpandaops/xatu/commit/88c651377d56bb485d2d746e4ab09843eae54921) - 2025-08-07
 * [Pull Request] [feat(cl-mimicry): Support fulu](https://github.com/ethpandaops/xatu/pull/620) - 2025-08-07
+* [Pull Request] [feat(relay-monitor): Add persistence and backfill](https://github.com/ethpandaops/xatu/pull/625) - 2025-08-18
 ## Q2 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

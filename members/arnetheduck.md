@@ -117,6 +117,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/01704f1afdf15ac1841ba5905a8503dd6f46e3ff) - 2025-08-15
 * [Commit] [Fix withdrawable graph in Grafana dashboard to display correct metrics (#6837)](https://github.com/status-im/nimbus-eth2/commit/b21ba83e3874b1a4925e811503d8cefc6a89f65f) - 2025-08-15
 * [Commit] [use mainnet version in tests](https://github.com/status-im/nimbus-eth2/commit/b59555b987dca4a5d1414ebd4cbf09c80751dbce) - 2025-08-15
+* [Pull Request] [Block production revamp, part 2](https://github.com/status-im/nimbus-eth2/pull/7396) - 2025-08-18
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

@@ -838,6 +838,24 @@ Team: Erigon
 * [Commit] [rpcdaemon: impl admin_RemovePeer (#16292)](https://github.com/erigontech/erigon/commit/045439bb9908fda30c6d2744d951cf188712be9b) - 2025-08-17
 * [Commit] [save](https://github.com/erigontech/erigon/commit/cf0e4f97e5bce27d974608267e8a2cff94d32c75) - 2025-08-17
 * [Commit] [save](https://github.com/erigontech/erigon/commit/aa60d77951d3defef4a30b5753d240408cfb9fa8) - 2025-08-17
+* [Commit] [ruleguard against `filepath.Walk` (#16706)](https://github.com/erigontech/erigon/commit/891cbf9c0ac795999008845de0684ded93b0fc49) - 2025-08-18
+* [Commit] [e3: make salt reload part of `OpenFolder` (#16704)](https://github.com/erigontech/erigon/commit/019580d67bc13367460c4b1405940fc4a5f2eb8f) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/65497af7070af9ce4ce5e462e69b63b8ba3b8a4a) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fd776367df5646e43044373fb4651d630ffdfe13) - 2025-08-18
+* [Commit] [add alias for `http.dbg.single` (#16702)](https://github.com/erigontech/erigon/commit/94bee595d1490db26eaf0820cc8b092daa3603f3) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4060f5a903c985330ab8176791001cca2c69e2b1) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/111b94663ccd63288eb1b9237c699f7b6dcf5db4) - 2025-08-18
+* [Commit] [cp: reuse already prepared heimdall store in integrity check (#16634) (#16701)](https://github.com/erigontech/erigon/commit/ff01f08b7f20773e56ac1d76a5ecc05ce90216f5) - 2025-08-18
+* [Commit] [cp: adjust receipt data files version (#16677) (#16700)](https://github.com/erigontech/erigon/commit/6e9f3b6751e9ea0cc459d2fc64d4d6f48e2eef8d) - 2025-08-18
+* [Pull Request] [commitment: to use `etl.OldestEnryBuffer` instead of `map`](https://github.com/erigontech/erigon/pull/16697) - 2025-08-18
+* [Commit] [Fix execution after `getProof` (#16687)](https://github.com/erigontech/erigon/commit/4a118f559b5853b44122201274b89b7f7718260b) - 2025-08-18
+* [Pull Request] [[r31] rebuild_commitment: add `--squeeze=false`, improve logs](https://github.com/erigontech/erigon/pull/16696) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d81db1fa2f88c86e6d942be08c0a4f8b62d18b2e) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4ad6bf67d0669b88b71a4d5f197c13c1c626c5e6) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d08ee9ffd0fb4e7d7fca1e86fb6ebd58e4ef9ff9) - 2025-08-18
+* [Commit] [[r31] grpc  (#16692)](https://github.com/erigontech/erigon/commit/b9e1546ef24191ee9d7bf9eb4a7f5e3b314970ae) - 2025-08-18
+* [Commit] [kick ci](https://github.com/erigontech/erigon/commit/63e4b6c4eaf16ec1cacd4f1047086db51e9e7557) - 2025-08-18
+* [Commit] [added rule to prevent os.Remove (#16694)](https://github.com/erigontech/erigon/commit/caed109ac47acef0c6861a8082cacd51e885c10b) - 2025-08-18
 ## Q2 2025
 
 

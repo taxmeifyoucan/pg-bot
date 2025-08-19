@@ -52,6 +52,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [Skip serializing blob_schedule before Fulu (#7779)](https://github.com/sigp/lighthouse/commit/b9049560748ab65e1807b1491bc87d0ff9b62332) - 2025-08-13
 * [Pull Request] [Upgrade rust-eth-kzg to `0.8.0`](https://github.com/sigp/lighthouse/pull/7870) - 2025-08-13
 * [Pull Request] [Sync fixes for `fusaka-devnet-4`](https://github.com/sigp/lighthouse/pull/7876) - 2025-08-14
+* [Pull Request] [`fusaka-devnet-3` test branch](https://github.com/sigp/lighthouse/pull/7893) - 2025-08-18
+* [Commit] [Use devnet-3 kurtosis config for sync tests.](https://github.com/sigp/lighthouse/commit/54a3b3fbafee92fdf171faf0f15500f5362f2359) - 2025-08-18
+* [Commit] [Allow for sync state where batch is unknown (#7391)](https://github.com/sigp/lighthouse/commit/ee1b0ae2ffade4e74ce77e68b3d7cfe72f64b8ec) - 2025-08-18
+* [Pull Request] [Fulu update to spec v1.6.0-alpha.4](https://github.com/sigp/lighthouse/pull/7890) - 2025-08-18
+* [Pull Request] [Revise data column rpc limits and queue sizes](https://github.com/sigp/lighthouse/pull/7887) - 2025-08-18
 ## Q2 2025
 
 

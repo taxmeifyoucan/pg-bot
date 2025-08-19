@@ -30,6 +30,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [EIP-7883: Add empirical analysis](https://github.com/ethereum/EIPs/pull/10127) - 2025-08-11
 * [Pull Request] [EIP-7928: Update System Contract Handling](https://github.com/ethereum/EIPs/pull/10144) - 2025-08-14
 * [Pull Request] [EIP-7928: Update system contract handling and move from ssz to rlp](https://github.com/ethereum/EIPs/pull/10161) - 2025-08-16
+* [Pull Request] [EIP-7928: Fix sys contract address in example](https://github.com/ethereum/EIPs/pull/10180) - 2025-08-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add Specs: EIP-7928: Block-level Access Lists](https://github.com/ethereum/execution-specs/pull/1338) - 2025-07-21
 
@@ -44,6 +45,9 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Fix duplicate function call](https://github.com/ethereum/consensus-specs/pull/4460) - 2025-07-24
 * [Pull Request] [eip-7732: Fix quorum calc](https://github.com/ethereum/consensus-specs/pull/4465) - 2025-07-25
 * [Pull Request] [eip-7732: Fix quorum calc to avoid double-counting](https://github.com/ethereum/consensus-specs/pull/4481) - 2025-08-01
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [EIP-7928 Breakout #1, August 27, 2025](https://github.com/ethereum/pm/issues/1691) - 2025-08-18
 ## Q2 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

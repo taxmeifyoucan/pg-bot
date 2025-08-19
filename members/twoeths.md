@@ -79,6 +79,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: remove redundant unknownBlockParent event emit](https://github.com/ChainSafe/lodestar/pull/8213) - 2025-08-15
 * [Commit] [fix: download descendant block before process](https://github.com/ChainSafe/lodestar/commit/f9c8b32bc436437db11d299fd9b1520672ea07f6) - 2025-08-15
 * [Pull Request] [fix: correct pending block status in unknownBlockParent event handler](https://github.com/ChainSafe/lodestar/pull/8211) - 2025-08-15
+* [Commit] [fix: check-types](https://github.com/ChainSafe/lodestar/commit/03e196663e5ccc1dfe1ed675aa64f89a86c4714a) - 2025-08-18
+* [Pull Request] [feat: implement PeerBalancer for UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/8219) - 2025-08-18
+* [Pull Request] [fix: typo in serializeBlobsBundle()](https://github.com/ChainSafe/lodestar/pull/8218) - 2025-08-18
 ## Q2 2025
 
 

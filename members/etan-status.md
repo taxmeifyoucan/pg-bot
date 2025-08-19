@@ -64,6 +64,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-ssz-serialization to 983dc145ec66beb474887b9f08de0959dbda3c9d](https://github.com/status-im/nimbus-eth2/pull/7346) - 2025-07-31
 * [Commit] [serialization: bump (#7345)](https://github.com/status-im/nimbus-eth2/commit/930effbc995c7d05082049608ef70e75d11ca75c) - 2025-08-04
 * [Commit] [Extend bitlist / bitarray available sizes](https://github.com/status-im/nimbus-eth2/commit/ccd53f375e80c6707ea66820514e2d11cd325283) - 2025-08-05
+* [Issue] [Sync gets stuck after ~a day](https://github.com/status-im/nimbus-eth2/issues/7394) - 2025-08-18
 ## Q2 2025
 
 

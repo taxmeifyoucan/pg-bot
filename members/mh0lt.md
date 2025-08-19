@@ -173,6 +173,9 @@ Team: Erigon
 * [Commit] [fixed create balance versioning](https://github.com/erigontech/erigon/commit/6ab7c307400a7712c61d6b2ea565590e54e3adda) - 2025-08-17
 * [Commit] [add unknown version](https://github.com/erigontech/erigon/commit/b8e413ff583e5cb80a18b3d3d2f88350b0ed4ec7) - 2025-08-17
 * [Commit] [add unknown version](https://github.com/erigontech/erigon/commit/4b521a814836b8e5b87ae5cda17aabf0268b5555) - 2025-08-17
+* [Commit] [-1 is valid tx index](https://github.com/erigontech/erigon/commit/3c533df0cc0fa5df3da2965d73fc764265f04228) - 2025-08-18
+* [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/b998147999db2674689296be3b5ddc74825bbb81) - 2025-08-18
+* [Commit] [fix nonce wascommitted](https://github.com/erigontech/erigon/commit/f53428507f3cf08197733d658ced625ff2f0db52) - 2025-08-18
 ## Q2 2025
 
 

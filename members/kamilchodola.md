@@ -19,6 +19,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Issue] [Rerunning hanged at certain block (fixes after restart)](https://github.com/NethermindEth/nethermind/issues/9070) - 2025-08-01
 * [Commit] [Fix verify trie (#9135)](https://github.com/NethermindEth/nethermind/commit/e3a827339ebb95468690154a25ebf235b4c77294) - 2025-08-15
 * [Pull Request] [Fix verify trie](https://github.com/NethermindEth/nethermind/pull/9135) - 2025-08-15
+* [Commit] [Base mainnet bigger machine (#9158)](https://github.com/NethermindEth/nethermind/commit/b5d9812c70796d222b559d342be20f2013a213b7) - 2025-08-18
+* [Pull Request] [Base mainnet bigger machine](https://github.com/NethermindEth/nethermind/pull/9158) - 2025-08-18
 ## Q2 2025
 
 

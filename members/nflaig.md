@@ -93,6 +93,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Always set earliestAvailableSlot irrespective of fork](https://github.com/ChainSafe/lodestar/commit/3ce73513f314636f2af9e9fce1a5cf4871feaa70) - 2025-08-11
 * [Commit] [fix: revert blob metric changes (#8175)](https://github.com/ChainSafe/lodestar/commit/98bc5e0effedadb81b2053979c8b4028924bff59) - 2025-08-11
 * [Commit] [Update packages/beacon-node/src/api/impl/beacon/blocks/index.ts](https://github.com/ChainSafe/lodestar/commit/5ed213b12447629c47bd1c9366d01648b07453bf) - 2025-08-13
+* [Commit] [fix: typo in serializeBlobsBundle() (#8218)](https://github.com/ChainSafe/lodestar/commit/61783cf265bb884447add6a4647aadd4be0aa2ab) - 2025-08-18
 ## Q2 2025
 
 

@@ -162,6 +162,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Scoped WorldState (#9028)](https://github.com/NethermindEth/nethermind/commit/cf526eeadce1cbf5c21f80e529af0b627a88ecd5) - 2025-08-14
 * [Commit] [PreGenesis marker](https://github.com/NethermindEth/nethermind/commit/463436bb26c3a03d550005936e5492a7c064691a) - 2025-08-14
 * [Issue] [Make CLI show default value](https://github.com/NethermindEth/nethermind/issues/9151) - 2025-08-18
+* [Commit] [Update src/Nethermind/Nethermind.Trie/PatriciaTree.cs](https://github.com/NethermindEth/nethermind/commit/4eeb76d6fdc7fa1b57b631ae89613cf4e387dec4) - 2025-08-18
+* [Commit] [Fix mistake](https://github.com/NethermindEth/nethermind/commit/3a47d78ab475b9318084a9313107b6b12c0dc651) - 2025-08-18
+* [Pull Request] [Cleanup/remove nodecommit info](https://github.com/NethermindEth/nethermind/pull/9155) - 2025-08-18
+* [Commit] [Slight comment](https://github.com/NethermindEth/nethermind/commit/7a89f13851c594f9ef5a21c068e3780eb17d0086) - 2025-08-18
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/fe3e90a7923e92d41a49daefdf6c703056a38a9b) - 2025-08-18
+* [Pull Request] [Fix storage range not retried on wrong order](https://github.com/NethermindEth/nethermind/pull/9154) - 2025-08-18
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

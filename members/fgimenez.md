@@ -94,6 +94,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [reorder impls](https://github.com/paradigmxyz/reth/commit/7326c4651656709428159510a651b00a32b8375b) - 2025-08-11
 * [Commit] [remove unused RpcAddOnsWithHooks](https://github.com/paradigmxyz/reth/commit/ae5f2deb1de64e5ddf75d9ea4b39544c926916e7) - 2025-08-13
 * [Commit] [restore RPC hooks functionality by wrapping addons with hooks at launch time](https://github.com/paradigmxyz/reth/commit/7066030ed60cd76ba157e328c19c6916805088f8) - 2025-08-13
+* [Issue] [Evaluate Database abstraction](https://github.com/paradigmxyz/reth/issues/17915) - 2025-08-18
+* [Commit] [refactor: migrate RPC hooks from build-time storage to launch-time parameters](https://github.com/paradigmxyz/reth/commit/466e891221d0d09cbc7743ec921423baae155a33) - 2025-08-18
+* [Commit] [refactor: migrate RPC hooks from build-time storage to launch-time parameters](https://github.com/paradigmxyz/reth/commit/635e340940f4337faea694f24495dc7caa9b776d) - 2025-08-18
+* [Commit] [feat: nix flake (#17757)](https://github.com/paradigmxyz/reth/commit/82bbed979511f54baa3299d7dce0150b96997c0a) - 2025-08-18
+* [Commit] [feat(txpool): Batch insertions into the Tx Pool (#17670)](https://github.com/paradigmxyz/reth/commit/e12e6c0d04a3e2af8e9ef98923768ea9477f9cba) - 2025-08-18
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add blob per tx limit for reth](https://github.com/ethereum/execution-spec-tests/pull/2016) - 2025-08-08
 ## Q2 2025

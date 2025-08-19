@@ -24,6 +24,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fulu validator custody: Use current state instead of finalized state](https://github.com/ethereum/consensus-specs/pull/4443) - 2025-07-15
 
+* [Pull Request] [update MAX_BLOB_COMMITMENTS_PER_BLOCK minimal preset to 4096](https://github.com/ethereum/consensus-specs/pull/4508) - 2025-08-18
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [fix: allow BLOB_SCHEDULE: [] field](https://github.com/sigp/lighthouse/pull/7758) - 2025-07-18
 
@@ -53,6 +54,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: add regex search for validator activity tab](https://github.com/ethpandaops/dora/commit/b05288b5bc0e8e406259e47141517828f6b60f3f) - 2025-08-15
 * [Commit] [fix fmt](https://github.com/ethpandaops/dora/commit/e64ef26c44b60c9a19068a217a9b3761aea1fcee) - 2025-08-15
 * [Pull Request] [feat: add regex search for validator activity tab](https://github.com/ethpandaops/dora/pull/456) - 2025-08-15
+* [Commit] [feat: add blob count next to tx count on mev page](https://github.com/ethpandaops/dora/commit/3230904d06f75993e4a5521fb74b7f1847cd85f7) - 2025-08-18
 ## Q2 2025
 
 

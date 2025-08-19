@@ -31,6 +31,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-7932: Fix some typos (#10011)](https://github.com/ethereum/EIPs/commit/9e953a254861cf86dc6d55f1f90a54807cfecdb1) - 2025-07-16
 * [Commit] [Website: Add missing favicon (#9963)](https://github.com/ethereum/EIPs/commit/719769bd61033e9bcd4de7b647bdc927981b6195) - 2025-07-28
+* [Commit] [Update EIP-2938: Move to Withdrawn (#10179)](https://github.com/ethereum/EIPs/commit/5deba10782d33b239267c9143d08ff6c11c9fbc6) - 2025-08-18
+* [Pull Request] [Withdraw EIP-2938](https://github.com/ethereum/EIPs/pull/10179) - 2025-08-18
 ## Q2 2025
 
 

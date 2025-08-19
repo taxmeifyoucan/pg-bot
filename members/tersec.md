@@ -73,6 +73,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [test gossip transitions with a BPO (#7388)](https://github.com/status-im/nimbus-eth2/commit/ca3a6d6cbc1baa5b4a7fbef383f944dca138129e) - 2025-08-17
 * [Commit] [test gossip transitions with a BPO](https://github.com/status-im/nimbus-eth2/commit/7ee0813f7998cda039eaf47ff1a962edc4ea798c) - 2025-08-17
 * [Pull Request] [test gossip transitions with a BPO](https://github.com/status-im/nimbus-eth2/pull/7388) - 2025-08-17
+* [Commit] [merge in eth2processor with columns (#7390)](https://github.com/status-im/nimbus-eth2/commit/52b9a1ccaeea3192b3609ec3384f9254c2955d33) - 2025-08-18
+* [Commit] [rm notional pre-Fulu BPO schedules (#7395)](https://github.com/status-im/nimbus-eth2/commit/9a001a26af519752031fbfac6773df1daa0b9cee) - 2025-08-18
+* [Commit] [elide a copy](https://github.com/status-im/nimbus-eth2/commit/29d057bccfe3a5c7c94bf98547521706a64b8a30) - 2025-08-18
+* [Commit] [test gossip transitions with a BPO (#7388)](https://github.com/status-im/nimbus-eth2/commit/ca3a6d6cbc1baa5b4a7fbef383f944dca138129e) - 2025-08-18
+* [Pull Request] [rm notional pre-Fulu BPO schedules](https://github.com/status-im/nimbus-eth2/pull/7395) - 2025-08-18
+* [Commit] [Apply suggestions from code review](https://github.com/status-im/nimbus-eth2/commit/aa857ccd1c460dd0c8ceb3122944602ca09b5ff5) - 2025-08-18
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

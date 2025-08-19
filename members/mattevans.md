@@ -22,3 +22,6 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [refactor(network.go): remove blank line after function signature in c…](https://github.com/ethpandaops/cartographoor/pull/12) - 2025-07-28
 * [Commit] [chore: add dependabot config for weekly updates of github-actions and go modules](https://github.com/ethpandaops/cartographoor/commit/ce2e24b67fb480dad534c35bec981274d62a7a05) - 2025-07-28
 * [Pull Request] [chore: add dependabot config for weekly updates of github-actions and go modules](https://github.com/ethpandaops/cartographoor/pull/11) - 2025-07-28
+
+[ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
+* [Pull Request] [docs: remove stray "test" line from README](https://github.com/ethpandaops/contributoor/pull/138) - 2025-08-18

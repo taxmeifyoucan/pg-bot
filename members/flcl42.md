@@ -79,6 +79,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix verify trie](https://github.com/NethermindEth/nethermind/commit/aa3bbf124d528f9c28f8e57d915a869000d1cf4d) - 2025-08-15
 * [Commit] [Fix ENR building; use improved discv5](https://github.com/NethermindEth/nethermind/commit/e2615bc8e1dfb3a0e2274faccc87fac8d76c5af0) - 2025-08-15
 * [Commit] [Drop pre-merge data on Gnosis (#9093)](https://github.com/NethermindEth/nethermind/commit/b7f74ff730b23a56635fa036fe85de06293e6ab0) - 2025-08-15
+* [Commit] [Improve logs and config autocompletion (#9159)](https://github.com/NethermindEth/nethermind/commit/c3b89e0f32a956b32c7907a94484e86744b96594) - 2025-08-18
+* [Commit] [.](https://github.com/NethermindEth/nethermind/commit/ce5a07b4a2fdfc7c478317c243dafd3134580578) - 2025-08-18
+* [Commit] [Fix schema generator deps; include more stuff for configs autocompletion](https://github.com/NethermindEth/nethermind/commit/1062c308878a288e20d73991b9b966f6d2c572c1) - 2025-08-18
+* [Pull Request] [Flatten log level](https://github.com/NethermindEth/nethermind/pull/9159) - 2025-08-18
+* [Commit] [Flatten log level](https://github.com/NethermindEth/nethermind/commit/412ec233ee61910099e73d4d05fe9a4562405064) - 2025-08-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

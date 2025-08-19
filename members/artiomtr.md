@@ -8,3 +8,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 
 ## Contributions
 
+## Q3 2025
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [Add R0 and SP1 zkvm guest programs](https://github.com/grandinetech/grandine/pull/304) - 2025-08-18

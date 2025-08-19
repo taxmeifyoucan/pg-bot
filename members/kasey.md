@@ -64,6 +64,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [Add disable-get-blobs flag to skip data column sidecars from execution layer](https://github.com/OffchainLabs/prysm/commit/cdd44dd0b4cd142b08c6be0a21e59a307909cb04) - 2025-08-14
 * [Commit] [various linter nits](https://github.com/OffchainLabs/prysm/commit/532bd0262f228d710499f6684fafab9396328cd7) - 2025-08-14
 * [Commit] [Do not compare liveness response with LH (#15556)](https://github.com/OffchainLabs/prysm/commit/f3300217858b0c6400fc63073dce3a9c88c84643) - 2025-08-16
+* [Commit] [omit NetworkScheduleEntry fields that are not part of BlobScheduleEntry (#15557)](https://github.com/OffchainLabs/prysm/commit/26cec9d9c7a6cc5e8d9f308964030f9c87120fcb) - 2025-08-18
 ## Q2 2025
 
 

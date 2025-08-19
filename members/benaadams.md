@@ -212,6 +212,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Max update db metrics once per minute](https://github.com/NethermindEth/nethermind/commit/b0db3c9ff79bdd5d6c78fb24ba4959df3fd3ab3f) - 2025-08-16
 * [Commit] [Fast Reflection Accessor](https://github.com/NethermindEth/nethermind/commit/1e69a03e43d480942cd412e47d5dfc509ddbb0e0) - 2025-08-16
 * [Pull Request] [Don't serialize UI events when no subscribers](https://github.com/NethermindEth/nethermind/pull/9150) - 2025-08-17
+* [Commit] [Don't crash process in debug for Disposal warning messages (#9157)](https://github.com/NethermindEth/nethermind/commit/6cddd4e333118f3a64d726c4bec57665deaf1613) - 2025-08-18
+* [Pull Request] [Don't crash process in debug for Disposal warning messages](https://github.com/NethermindEth/nethermind/pull/9157) - 2025-08-18
+* [Commit] [Reduce log noise from bad behaving peers (#9156)](https://github.com/NethermindEth/nethermind/commit/e2c17c4c40c3cba13c3eebd96bbfa75218699562) - 2025-08-18
+* [Commit] [Reduce log noise from bad behaving peers (#9156)](https://github.com/NethermindEth/nethermind/commit/765cef4135bbf29af63ef97a59e3ca894f67f7c9) - 2025-08-18
+* [Pull Request] [Reduce log noise from bad behaving peers](https://github.com/NethermindEth/nethermind/pull/9156) - 2025-08-18
+* [Commit] [Fix storage range not retried on wrong order (#9154)](https://github.com/NethermindEth/nethermind/commit/b20fee436eb61be53d1004ef56e6fae1b4cf5825) - 2025-08-18
+* [Commit] [Fix storage range not retried on wrong order (#9154)](https://github.com/NethermindEth/nethermind/commit/fb82efb12fb93529ed796c48398d02f8d5067fb9) - 2025-08-18
+* [Commit] [Don't serialize UI events when no subscribers (#9150)](https://github.com/NethermindEth/nethermind/commit/02897eaa1a55fcd859607870f84ff4e4c6ffbac8) - 2025-08-18
+* [Commit] [Don't serialize UI events when no subscribers (#9150)](https://github.com/NethermindEth/nethermind/commit/18c15ec2297897e24f60723e7e351738330d8366) - 2025-08-18
+* [Commit] [Make CLI show default values in help output (#9152)](https://github.com/NethermindEth/nethermind/commit/b191fb5c4689fb5fcb1d821b5a2e2daa920ccd14) - 2025-08-18
+* [Pull Request] [Add Vector256 nibble conversion](https://github.com/NethermindEth/nethermind/pull/9153) - 2025-08-18
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

@@ -181,6 +181,8 @@ Team: Erigon
 * [Commit] [Trie: unified access to domains, fixing `getProof` (#16606)](https://github.com/erigontech/erigon/commit/65dc369fd80464d4e972a8af8c12991edaab0bde) - 2025-08-13
 * [Pull Request] [Erigon 3: Download `logaddr` and `logtopic` indicies](https://github.com/erigontech/erigon/pull/16648) - 2025-08-14
 * [Commit] [Fix execution after `getProof` (#16687)](https://github.com/erigontech/erigon/commit/4a118f559b5853b44122201274b89b7f7718260b) - 2025-08-16
+* [Commit] [more unittests and spectests for fulu (#16623)](https://github.com/erigontech/erigon/commit/c4058fd23157427007efae4ea80ee8dd75ad8f6d) - 2025-08-18
+* [Commit] [Restore flag's default value (#16169)](https://github.com/erigontech/erigon/commit/7eca9d3179333a5d0a8bad561a9ab6aa7957fcad) - 2025-08-18
 ## Q2 2025
 
 

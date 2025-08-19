@@ -43,6 +43,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Backfill peer attribution (#7762)](https://github.com/sigp/lighthouse/commit/80ba0b169bb0371287211a79abcf377e0378b474) - 2025-08-13
 * [Issue] [Re-enable sccache](https://github.com/sigp/lighthouse/issues/7869) - 2025-08-13
 * [Issue] [Consider `derive(Encode)` for `LightClientUpdateResponseChunk`](https://github.com/sigp/lighthouse/issues/7868) - 2025-08-13
+* [Pull Request] [Add rustfmt config with edition 2024](https://github.com/sigp/lighthouse/pull/7888) - 2025-08-18
+* [Commit] [Fix typo](https://github.com/sigp/lighthouse/commit/5a0c595d39eea9fcb30f7154b6afb17cef5ee380) - 2025-08-18
 ## Q2 2025
 
 

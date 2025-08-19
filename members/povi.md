@@ -33,6 +33,8 @@ Team: Grandine
 * [Commit] [Modified fork choice event broadcast mechanism (that is used in beacon node events endpoint) to be more generic](https://github.com/grandinetech/grandine/commit/a9c4315fbd1eec64f1c49a5ed0bfe91ba84773bb) - 2025-08-08
 * [Commit] [Fix wait for fully verified head for sync committee duties in local validator](https://github.com/grandinetech/grandine/commit/d4158ee4f08e4b92abbefc9987024e7784cc809a) - 2025-08-11
 * [Pull Request] [Fix wait for fully verified head for sync committee duties in local validator](https://github.com/grandinetech/grandine/pull/293) - 2025-08-11
+* [Commit] [Fix block event send after delayed payload is applied to block during block import](https://github.com/grandinetech/grandine/commit/81677fc893b90c8341e9998fca65d0229988adcd) - 2025-08-18
+* [Pull Request] [Fix block event send after delayed payload is applied to block during block import](https://github.com/grandinetech/grandine/pull/305) - 2025-08-18
 ## Q2 2025
 
 

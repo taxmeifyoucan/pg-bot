@@ -31,6 +31,8 @@ Team: Grandine
 * [Pull Request] [Deserialize JSON from Phase in HTTP API](https://github.com/grandinetech/grandine/pull/285) - 2025-08-04
 * [Commit] [Deserialize JSON from Phase in HTTP API](https://github.com/grandinetech/grandine/commit/53ae1670cc9ce51e4a913bbaa379985087f35c10) - 2025-08-06
 * [Pull Request] [Avoid using `initial_forward_sync` flag in `Store::is_forward_synced`](https://github.com/grandinetech/grandine/pull/298) - 2025-08-13
+* [Commit] [Don't combine `ValidatorBlindedBlock::BlindedBeaconBlock` with local payload.](https://github.com/grandinetech/grandine/commit/73304a71af4646f1b0f327c7b462fb90e753ebfc) - 2025-08-18
+* [Commit] [Avoid using `initial_forward_sync` flag in `Store::is_forward_synced`](https://github.com/grandinetech/grandine/commit/32039d82eebff7efa1ec806bada68b3a918bc7b9) - 2025-08-18
 ## Q2 2025
 
 

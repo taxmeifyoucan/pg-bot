@@ -41,6 +41,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Fix formatting, remove unused code](https://github.com/grandinetech/grandine/commit/8582aa6cbceb8ab162016ba63b2e8b39f0f7d123) - 2025-08-13
 * [Commit] [Implement PeerDAS with Fulu fork activation](https://github.com/grandinetech/grandine/commit/999a3df19d860660a8ec8950915a555bf1994c94) - 2025-08-13
 * [Pull Request] [Builder: fallback to V1 if builder does not support V2](https://github.com/grandinetech/grandine/pull/300) - 2025-08-14
+* [Commit] [Builder: fallback to V1 if builder does not support V2](https://github.com/grandinetech/grandine/commit/a1f39a67ec77ea9085636b7dea6e350f7ca7a802) - 2025-08-18
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
