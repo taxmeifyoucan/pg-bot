@@ -97,6 +97,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore: ruleset tweak.](https://github.com/ethereum/execution-spec-tests/commit/dc1114dfbcf78c730ea1674c7d767c6c645ab544) - 2025-08-15
 * [Commit] [chore: fix fill develop tox.](https://github.com/ethereum/execution-spec-tests/commit/c19e30baa8ab89109a865c16fdf5200fa20a9dad) - 2025-08-15
 * [Commit] [feat(tests): add more EIP-7823 modexp limit tests (#2042)](https://github.com/ethereum/execution-spec-tests/commit/1e4ec685a4311bb4d609f4700d9ffdb77c0635f4) - 2025-08-15
+* [Commit] [feat(forks|consume): bpo framework requirements (#2050)](https://github.com/ethereum/execution-spec-tests/commit/6fd90a8b6de374635ff8d5d75efd77476d72e019) - 2025-08-19
+* [Commit] [chores(fill): remove --flat-output and all logic associated with it (#2018)](https://github.com/ethereum/execution-spec-tests/commit/cfd83387efab95876de839a69554fba347ef37c7) - 2025-08-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

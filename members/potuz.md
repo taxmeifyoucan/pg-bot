@@ -15,6 +15,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Remove broken link from README](https://github.com/ethereum/consensus-specs/pull/4431) - 2025-07-07
 * [Pull Request] [Add boolean to PayloadAttestationData](https://github.com/ethereum/consensus-specs/pull/4473) - 2025-07-29
 
+* [Pull Request] [Consider builder pending payments for pending balance to withdraw](https://github.com/ethereum/consensus-specs/pull/4513) - 2025-08-19
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Commit] [Add hashtree library integration as alternative to gohashtree](https://github.com/OffchainLabs/prysm/commit/1b98d8c202a57a39a639c703bab7190c967943db) - 2025-07-29
 * [Commit] [Add hashtree library integration as alternative to gohashtree](https://github.com/OffchainLabs/prysm/commit/d28138298a3931e05baab345992be894dc264eb2) - 2025-07-29

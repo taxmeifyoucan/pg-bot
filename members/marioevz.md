@@ -89,6 +89,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(github): Add fusaka-devnet-5](https://github.com/ethereum/execution-spec-tests/commit/9c7eb33a6de6581a193fb4eb7d6d5e96d0b173b8) - 2025-08-18
 * [Commit] [feat(github): Add devnet-5](https://github.com/ethereum/execution-spec-tests/commit/7ef92220c3224125e2b8338d8359823cfa97f385) - 2025-08-18
 * [Commit] [fix(forks): Fix marker, add unit test](https://github.com/ethereum/execution-spec-tests/commit/78724a54b94214280d8ad77e41bbfdbadc828134) - 2025-08-18
+* [Commit] [refactor(execute): update `eth_config` implementation (#2047)](https://github.com/ethereum/execution-spec-tests/commit/42da1229f6693ff6f48762b08d77cf8bda18197e) - 2025-08-19
+* [Commit] [fix: apply tx gas limit cap to template (#2046)](https://github.com/ethereum/execution-spec-tests/commit/8234e909896daf4aa8f4670884e52f20b3ef99a2) - 2025-08-19
+* [Commit] [feat(tests): add bpo blob reserve price transition tests. (#2035)](https://github.com/ethereum/execution-spec-tests/commit/429079c50d2bd29707ca72fadaf788d206237a97) - 2025-08-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

@@ -28,6 +28,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fix: update EIP-7610 link to official EIP page](https://github.com/ethereum/execution-specs/commit/344955c24324aa311c48f5db655d7332d3fe47fe) - 2025-07-25
 * [Pull Request] [Forks osaka 2025 07 25](https://github.com/ethereum/execution-specs/pull/1346) - 2025-07-25
 * [Commit] [Remove traces array from TxEnv (#909)](https://github.com/ethereum/execution-specs/commit/d619d102bd0ce40fe70990c794d9cb241614fb87) - 2025-08-06
+* [Issue] [`Hardfork` doesn't respect `base` when importing sub-modules](https://github.com/ethereum/execution-specs/issues/1373) - 2025-08-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-7932: Fix some typos (#10011)](https://github.com/ethereum/EIPs/commit/9e953a254861cf86dc6d55f1f90a54807cfecdb1) - 2025-07-16
 * [Commit] [Website: Add missing favicon (#9963)](https://github.com/ethereum/EIPs/commit/719769bd61033e9bcd4de7b647bdc927981b6195) - 2025-07-28

@@ -18,6 +18,9 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Issue] [eth_simulate Implementers' | Meeting #57 | July 28, 2025](https://github.com/ethereum/pm/issues/1645) - 2025-07-28
 * [Issue] [eth_simulate Implementers' | Meeting #58 | Aug 04, 2025](https://github.com/ethereum/pm/issues/1656) - 2025-08-04
 * [Issue] [EIP Editing Office Hour (EIP Only) Meeting #68, Aug 05, 2025](https://github.com/ethereum/pm/issues/1660) - 2025-08-05
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update eip-7607.md](https://github.com/ethereum/EIPs/pull/10191) - 2025-08-19
 ## Q2 2025
 
 

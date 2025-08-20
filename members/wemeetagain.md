@@ -64,6 +64,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: correct pending block status in unknownBlockParent event handler (#8211)](https://github.com/ChainSafe/lodestar/commit/be4dc6bdcd72beae444c1f6f5068d81d055b0e05) - 2025-08-15
 * [Commit] [refactor: block proposal cleanup (#8155)](https://github.com/ChainSafe/lodestar/commit/ece38879ec8c289d6a35caa9931f81f47795b894) - 2025-08-15
 * [Commit] [fix: move fulu constants to preset/config to be spec compliant (#8217)](https://github.com/ChainSafe/lodestar/commit/1968319c71046ec0d2526f9387be088b5ac553ac) - 2025-08-18
+* [Commit] [feat: add warning log if slots are skipped by validator client (#8224)](https://github.com/ChainSafe/lodestar/commit/e082a5188a011f1cec031eb441b7421fb1691761) - 2025-08-19
+* [Issue] [Syncing strategy](https://github.com/ChainSafe/lodestar/issues/8225) - 2025-08-19
 ## Q2 2025
 
 

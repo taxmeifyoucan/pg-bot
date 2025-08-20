@@ -134,6 +134,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [call byte encode, move BAL to core](https://github.com/NethermindEth/nethermind/commit/ec347c17d64b33c0eac8f36f3fd2a13e63bc67c7) - 2025-08-15
 * [Commit] [set BAL at end of processing](https://github.com/NethermindEth/nethermind/commit/db756e64e28c7fd58f997cb1b92c967f0a8ee111) - 2025-08-15
 * [Commit] [block access tracer improvements & tests](https://github.com/NethermindEth/nethermind/commit/675485ce18ed7cec398e1d03d9e13d2fac7b78b8) - 2025-08-18
+* [Commit] [use bal as state provider](https://github.com/NethermindEth/nethermind/commit/8ac6add81a8c891af64b05b26f9fb47f030de25a) - 2025-08-19
 ## Q2 2025
 
 

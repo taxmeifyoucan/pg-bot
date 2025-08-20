@@ -34,6 +34,8 @@ Team: Nethermind
 * [Commit] [revert JsonRpcRecorder settings to default](https://github.com/NethermindEth/nethermind/commit/a946678523e7e199f8932d91ad222599ea9a0391) - 2025-08-06
 * [Commit] [refactor](https://github.com/NethermindEth/nethermind/commit/bb0a5f498e9e140a329c4787fc8d4fb0b9cd1e37) - 2025-08-06
 * [Commit] [L1SLOAD Precompile for Surge (#9030)](https://github.com/NethermindEth/nethermind/commit/fbcf58ba1d739133f3cff5b19a42b015f7d89cb5) - 2025-08-06
+* [Commit] [Fix snap sync edge case due to unnecessary proof (#9166)](https://github.com/NethermindEth/nethermind/commit/feebdb907222696775fdb0f22901ff52a580c072) - 2025-08-19
+* [Commit] [Drop pre-merge data on Gnosis (#9093)](https://github.com/NethermindEth/nethermind/commit/b7f74ff730b23a56635fa036fe85de06293e6ab0) - 2025-08-19
 ## Q2 2025
 
 

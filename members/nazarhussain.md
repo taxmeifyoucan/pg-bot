@@ -49,6 +49,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update the onPeerConnect to much safer identification](https://github.com/ChainSafe/lodestar/commit/3494bbed9b1a8d9b9ae878a2c9cf44b5333fcd6a) - 2025-08-11
 * [Commit] [fix: correctly parse validator indices when querying state balances (#7951)](https://github.com/ChainSafe/lodestar/commit/c018377ad36d60d3b8bfeb30c14482d05d9b1c4b) - 2025-08-18
 * [Commit] [fix: do not pick out-of-date peer to retry head sync (#8201)](https://github.com/ChainSafe/lodestar/commit/552110f0bac504f7f731b5f6607f7a92bb29db2b) - 2025-08-18
+* [Commit] [Add missing await for few functions](https://github.com/ChainSafe/lodestar/commit/e411718502c563acea2b437c644f301c24179b6a) - 2025-08-19
 ## Q2 2025
 
 

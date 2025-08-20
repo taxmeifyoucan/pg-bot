@@ -21,6 +21,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [add request approval for data column sidecars by range (#9645)](https://github.com/Consensys/teku/commit/1fcdc7478a889330e0a971a4a7cbd043dfca7b80) - 2025-07-23
 * [Pull Request] [update custody group count](https://github.com/Consensys/teku/pull/9723) - 2025-07-29
 * [Commit] [retry blobs fetching from local EL (#9739)](https://github.com/Consensys/teku/commit/4bb7faa8fc076480c8aeee21185fe586fa88235d) - 2025-08-11
+* [Pull Request] [remove custody late initialisation](https://github.com/Consensys/teku/pull/9781) - 2025-08-19
 ## Q2 2025
 
 

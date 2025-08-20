@@ -57,6 +57,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Commit] [Allow for sync state where batch is unknown (#7391)](https://github.com/sigp/lighthouse/commit/ee1b0ae2ffade4e74ce77e68b3d7cfe72f64b8ec) - 2025-08-18
 * [Pull Request] [Fulu update to spec v1.6.0-alpha.4](https://github.com/sigp/lighthouse/pull/7890) - 2025-08-18
 * [Pull Request] [Revise data column rpc limits and queue sizes](https://github.com/sigp/lighthouse/pull/7887) - 2025-08-18
+* [Pull Request] [Add tempo to local testnet config and update fulu kurtosis config files](https://github.com/sigp/lighthouse/pull/7898) - 2025-08-19
 ## Q2 2025
 
 

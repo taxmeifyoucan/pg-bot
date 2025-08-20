@@ -101,6 +101,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [add linter to prevent os.Remove(all) usage](https://github.com/erigontech/erigon/issues/16688) - 2025-08-16
 * [Commit] [revert submodule tests/execution-spec-tests to 3014de6 (match origin/main)](https://github.com/erigontech/erigon/commit/81784ed46d0b0ee0036b132d475eea27cf41de62) - 2025-08-17
 * [Pull Request] [added rule to prevent os.Remove](https://github.com/erigontech/erigon/pull/16694) - 2025-08-17
+* [Commit] [rework bumper with Version instead of float](https://github.com/erigontech/erigon/commit/3272ca9f56c4d20424d57dd0e3cc0a1a60337ad3) - 2025-08-19
+* [Commit] [added gofmt to gen file](https://github.com/erigontech/erigon/commit/bdc5385854f482f013750d2407c2d25558189120) - 2025-08-19
+* [Commit] [[r32] rebuild_commitment: add `--squeeze=false`, improve logs (#16696)](https://github.com/erigontech/erigon/commit/801d8182ffc17e6e4628541d6203038617fdf562) - 2025-08-19
 ## Q2 2025
 
 

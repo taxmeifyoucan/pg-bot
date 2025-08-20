@@ -73,6 +73,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix](https://github.com/status-im/nimbus-eth2/commit/29ce95b1069b302911bda4e6bfc940e1e2201e3a) - 2025-08-15
 * [Commit] [fix copyright year](https://github.com/status-im/nimbus-eth2/commit/254b790c4df9d6b8b6e2839e549fc507f1b7a6a6) - 2025-08-17
 * [Pull Request] [merge in eth2processor with columns](https://github.com/status-im/nimbus-eth2/pull/7390) - 2025-08-17
+* [Commit] [adjust addBlock](https://github.com/status-im/nimbus-eth2/commit/225802d0f2bd007dc13e4280dd830c1a385934dc) - 2025-08-19
 ## Q2 2025
 
 

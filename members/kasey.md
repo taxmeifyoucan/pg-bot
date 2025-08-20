@@ -65,6 +65,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [various linter nits](https://github.com/OffchainLabs/prysm/commit/532bd0262f228d710499f6684fafab9396328cd7) - 2025-08-14
 * [Commit] [Do not compare liveness response with LH (#15556)](https://github.com/OffchainLabs/prysm/commit/f3300217858b0c6400fc63073dce3a9c88c84643) - 2025-08-16
 * [Commit] [omit NetworkScheduleEntry fields that are not part of BlobScheduleEntry (#15557)](https://github.com/OffchainLabs/prysm/commit/26cec9d9c7a6cc5e8d9f308964030f9c87120fcb) - 2025-08-18
+* [Commit] [enforce schedule alignment when next_fork_epoch matches](https://github.com/OffchainLabs/prysm/commit/60f2c4e50f9dc99457e491707fafd21e9fe024a3) - 2025-08-19
+* [Commit] [enforce schedule alignment when next_fork_epoch matches](https://github.com/OffchainLabs/prysm/commit/6293381d8eb73b70740a307be0eef75ff1f581ae) - 2025-08-19
+* [Pull Request] [enforce schedule alignment when next_fork_epoch matches](https://github.com/OffchainLabs/prysm/pull/15604) - 2025-08-19
+* [Commit] [enforce schedule alignment when next_fork_epoch matches](https://github.com/OffchainLabs/prysm/commit/0f588c0a0521eed686911719371da58b3c35d57f) - 2025-08-19
 ## Q2 2025
 
 

@@ -38,6 +38,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Genesis cgc initialization (#9717)](https://github.com/Consensys/teku/commit/1107d9762bdbbabb8c8ae403dd53f2d213db7274) - 2025-07-29
 * [Commit] [Enable poolV2 by default (#9721)](https://github.com/Consensys/teku/commit/f749a3c11938bcd6e4705a35dc42759c0c39d424) - 2025-07-29
 * [Commit] [Limit the number of concurrent requests to historical data (RPC) (#9689)](https://github.com/Consensys/teku/commit/09ad649bb8bc2ed07ffaff3f4e5158827ec0cc2b) - 2025-08-01
+* [Commit] [Avoid builder validator registration calls potentially delaying calls on critical path (#9780)](https://github.com/Consensys/teku/commit/18b5553f6303f167032a6bb077a942403eb593c4) - 2025-08-19
+* [Pull Request] [Avoid builder validator registration calls potentially delaying calls on critical path](https://github.com/Consensys/teku/pull/9780) - 2025-08-19
 ## Q2 2025
 
 

@@ -223,6 +223,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Don't serialize UI events when no subscribers (#9150)](https://github.com/NethermindEth/nethermind/commit/18c15ec2297897e24f60723e7e351738330d8366) - 2025-08-18
 * [Commit] [Make CLI show default values in help output (#9152)](https://github.com/NethermindEth/nethermind/commit/b191fb5c4689fb5fcb1d821b5a2e2daa920ccd14) - 2025-08-18
 * [Pull Request] [Add Vector256 nibble conversion](https://github.com/NethermindEth/nethermind/pull/9153) - 2025-08-18
+* [Commit] [Fix snap sync edge case due to unnecessary proof (#9166)](https://github.com/NethermindEth/nethermind/commit/0bc7a05742766cf45ab3e91e2005195c8b239288) - 2025-08-19
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

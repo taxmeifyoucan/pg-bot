@@ -73,6 +73,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Need to move PR comments from #7947 over to unstable](https://github.com/ChainSafe/lodestar/issues/8196) - 2025-08-13
 * [Commit] [Revert "chore: fix some test build issues"](https://github.com/ChainSafe/lodestar/commit/ec8727f5dda3861ed92aea007b014c22a819babc) - 2025-08-14
 * [Commit] [chore: merge unstable into fusaka-devnet-4 (#8208)](https://github.com/ChainSafe/lodestar/commit/9a5b60b98496ad787065ef08e151c4c6ac928e1e) - 2025-08-15
+* [Commit] [chore: merge unstable to fusaka-devnet-3 (#8227)](https://github.com/ChainSafe/lodestar/commit/224e77af7823eb6a508eb348e43334947d38334f) - 2025-08-19
+* [Pull Request] [chore: merge unstable to fusaka-devnet-3](https://github.com/ChainSafe/lodestar/pull/8227) - 2025-08-19
 ## Q2 2025
 
 

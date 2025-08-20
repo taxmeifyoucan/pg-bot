@@ -76,6 +76,13 @@ Team: Erigon
 * [Commit] [trigger](https://github.com/erigontech/erigon/commit/ea95495a3698fe50f10c03bcc50e75746f38e1bd) - 2025-08-18
 * [Pull Request] [[r31] fixes for `getProof`](https://github.com/erigontech/erigon/pull/16707) - 2025-08-18
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7c5ed43b2c634a6ca1d7323b76513ab14d1209f0) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2d0a542c2cbe0296f8ba648bbc54bd4351628d3a) - 2025-08-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f84921614c4556daf8364be519046cd41af36a47) - 2025-08-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6f2d2ee8ce1312801f564dd5a95d8f953e6992a3) - 2025-08-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/307ab198896b889505c4c812a5b2dbf6c463f157) - 2025-08-19
+* [Commit] [e3: make salt reload part of `OpenFolder` (#16704)](https://github.com/erigontech/erigon/commit/019580d67bc13367460c4b1405940fc4a5f2eb8f) - 2025-08-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2738304d96a00e90f28c62a2f7e95aaf8299696b) - 2025-08-19
+* [Pull Request] [`integration commitment_rebuild` clarifications and fixes](https://github.com/erigontech/erigon/pull/16726) - 2025-08-19
 ## Q2 2025
 
 

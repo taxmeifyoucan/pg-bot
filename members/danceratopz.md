@@ -119,6 +119,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(cli): add `filter_fixtures` cli command](https://github.com/ethereum/execution-spec-tests/pull/2045) - 2025-08-15
 * [Commit] [tests: add unit tests for `filter_fixtures`](https://github.com/ethereum/execution-spec-tests/commit/e3ba7b46a0721179edafc054f14ce1f6f6ed7e22) - 2025-08-15
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/0920abe6e8948edf69e5efb2beacdb0dee625a17) - 2025-08-15
+* [Commit] [Deployed 42da1229f66 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/7f3dc6ade64cf119c605190f9101d4b5b245ef78) - 2025-08-19
+* [Commit] [Deployed 429079c50d2 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/444629ea75a5b11cd92af5e28a76ecc628c0cf51) - 2025-08-19
+* [Commit] [Deployed 6fd90a8b6de to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/b3c887cd7f11d3e5502f118beb808cefb1d92804) - 2025-08-19
 ## Q2 2025
 
 

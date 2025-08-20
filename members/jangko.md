@@ -163,6 +163,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fix test](https://github.com/status-im/nimbus-eth1/commit/bc684d5825554d115240a8b31feaacac3a593d27) - 2025-08-14
 * [Pull Request] [Execute EEST engine api test vectors in CI/local](https://github.com/status-im/nimbus-eth1/pull/3564) - 2025-08-15
 * [Commit] [Exclude CALLBlake2f_MaxRounds.json](https://github.com/status-im/nimbus-eth1/commit/87275b5cdf9c7492ef857e59788157f6ecd17188) - 2025-08-15
+* [Commit] [txpool constants reconfiguring (#3570)](https://github.com/status-im/nimbus-eth1/commit/ecf67fe964108a945777458a752c96336845b6a1) - 2025-08-19
+* [Commit] [Deprecate '--custom-network' and merge it's functionality to '--network'  (#3567)](https://github.com/status-im/nimbus-eth1/commit/13954e240ba3cdcc9548b6cddd73251af704d22f) - 2025-08-19
+* [Commit] [move database directory to top-level (fixes #1348) (#3566)](https://github.com/status-im/nimbus-eth1/commit/eae763d5df539e69fd917733900ebcb0f26bf252) - 2025-08-19
+* [Commit] [Execute EEST engine api test vectors in CI/local (#3564)](https://github.com/status-im/nimbus-eth1/commit/ec19ebe3ef5cd5a65e5443e0644df4defb269260) - 2025-08-19
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

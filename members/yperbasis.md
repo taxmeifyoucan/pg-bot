@@ -102,6 +102,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: make `Rules` a function of `BlockContext` (#16645)](https://github.com/erigontech/erigon/commit/3b90b61228a357daf38571f3511ecfabe44730c8) - 2025-08-15
 * [Commit] [kill NewEVMBlockContextHelper as it was only appropriate for sys calls](https://github.com/erigontech/erigon/commit/0c8cafdb24a705c4ecbf95b2876be921d1c2b09b) - 2025-08-15
 * [Commit] [[EIP-7918] patch fusaka-devnet-4 issue (#16644)](https://github.com/erigontech/erigon/commit/c408de5cb6cf7917992f2da6846ec0231bd33895) - 2025-08-15
+* [Commit] [switch to eest-fixtures main](https://github.com/erigontech/erigon/commit/edb352fefe1f1eaf959461eb7188613b4620f00c) - 2025-08-19
+* [Pull Request] [Update EEST devnet tests to fusaka-devnet-5@v1.0.0](https://github.com/erigontech/erigon/pull/16725) - 2025-08-19
+* [Commit] [Update EEST devnet tests to fusaka-devnet-5@v1.0.0](https://github.com/erigontech/erigon/commit/e29505a38c3407363a49b964d9f928db67511bcc) - 2025-08-19
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

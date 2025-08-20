@@ -185,6 +185,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [readme fix for "dbg: true" feature](https://github.com/erigontech/erigon/pull/16702) - 2025-08-18
 * [Pull Request] [cp: reuse already prepared heimdall store in integrity check (#16634)](https://github.com/erigontech/erigon/pull/16701) - 2025-08-18
 * [Pull Request] [cp: adjust receipt data files version (#16677)](https://github.com/erigontech/erigon/pull/16700) - 2025-08-18
+* [Pull Request] [nil fix in `FilePaths`](https://github.com/erigontech/erigon/pull/16728) - 2025-08-19
+* [Pull Request] [nil fix in `FilePaths`](https://github.com/erigontech/erigon/pull/16727) - 2025-08-19
+* [Issue] [rm-state-snapshots: successive calls removing same step range](https://github.com/erigontech/erigon/issues/16724) - 2025-08-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

@@ -170,6 +170,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [paging first page, tests](https://github.com/bluealloy/revm/commit/1ef32b1d9670fef089c407137e8716d6f392bdca) - 2025-08-14
 * [Commit] [fix(interpreter): correct CreateContractStartingWithEF halt mapping (#2890)](https://github.com/bluealloy/revm/commit/129b5ef2e7569d87c3c3c3f8933eaba4f88e2ca4) - 2025-08-17
 * [Commit] [fix(handler): correct transaction ID decrement logic (#2892)](https://github.com/bluealloy/revm/commit/38c7e0063705f98c665dfdb48b06c01df2933cb6) - 2025-08-17
+* [Commit] [fix: EIP-7702 target check to return correct error (#2896)](https://github.com/bluealloy/revm/commit/7482d2100fcde82283cfe69229d2dfa29e50fcee) - 2025-08-19
+* [Commit] [feat: add generic state to ResultAndState (#2897)](https://github.com/bluealloy/revm/commit/8073236d357474272d146babfc9fe13b001c8c28) - 2025-08-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

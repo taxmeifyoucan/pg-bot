@@ -28,6 +28,7 @@ Team: Reth
 * [Commit] [bump alloy](https://github.com/paradigmxyz/reth/commit/2e2c23b53e1fd295a60a7445b0d5c0b4b6fe462c) - 2025-08-05
 * [Commit] [chore: add flag to disable txpool gossip (#17724)](https://github.com/paradigmxyz/reth/commit/d8ccf82a60933ff70c066d0bbcef09d181fbf316) - 2025-08-05
 * [Commit] [new eth_config structure](https://github.com/paradigmxyz/reth/commit/aa08e505a7b5a88692738a299bc97cca88504620) - 2025-08-05
+* [Commit] [deps: bump revm](https://github.com/paradigmxyz/reth/commit/c39ae544aea02be29abd0f6df3412b875bee36fa) - 2025-08-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/commit/536eef29cf8bb1f641c4e9209f4320bc4f69785e) - 2025-07-21
 * [Commit] [feat(interpreter): update CLZ cost](https://github.com/bluealloy/revm/commit/4c5d7022afc381fd38db1dd90072c8356e44cf45) - 2025-07-21
