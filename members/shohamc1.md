@@ -47,6 +47,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [clean up](https://github.com/erigontech/erigon/commit/61d17401f405a75c1e86fec0bb890e96abc9dc00) - 2025-08-15
 * [Commit] [Make stage](https://github.com/erigontech/erigon/commit/47aa74f436e72486187527b8f9940ac8dc85a59b) - 2025-08-15
 * [Commit] [workflows: Run `run_migrations` before running RPC tests (#16678)](https://github.com/erigontech/erigon/commit/777214145b642cf40d6ce0b4a3c1caa75515daa2) - 2025-08-16
+* [Commit] [integration: execute run_migrations also on consensus db (#16711)](https://github.com/erigontech/erigon/commit/ef65dcd4bc5f716466b6c6796299cddda0677a9c) - 2025-08-20
 ## Q2 2025
 
 

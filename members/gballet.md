@@ -29,6 +29,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [more review feedback fixes](https://github.com/gballet/go-ethereum/commit/0a9b14af728e0a94e6a72eaebcc8c7967e617fcb) - 2025-08-15
 * [Commit] [some review feedback and extra fixes](https://github.com/gballet/go-ethereum/commit/cdaf64c78044a766abb8239183fbd242d08659fd) - 2025-08-15
 * [Commit] [fix tests in https://github.com/ethereum/go-ethereum/pull/32445 (#548)](https://github.com/gballet/go-ethereum/commit/a56b754ffbe22952f0453799046efb921ec2a365) - 2025-08-19
+* [Commit] [fix tests in https://github.com/ethereum/go-ethereum/pull/32445 (#548)](https://github.com/gballet/go-ethereum/commit/694b6a1df05e8d79031ccad1f7a6abb1ca351227) - 2025-08-20
+* [Commit] [eth/catalyst:  in tests, manually sync txpool after initial chain insertion to prevent race between txpool head reset and promotion of txs that will be subsequently added (#31595)](https://github.com/gballet/go-ethereum/commit/9b4eab6a29704f55fa7b4b92e296094f0dbcee22) - 2025-08-20
 ## Q2 2025
 
 

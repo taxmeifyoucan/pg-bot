@@ -79,6 +79,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [test gossip transitions with a BPO (#7388)](https://github.com/status-im/nimbus-eth2/commit/ca3a6d6cbc1baa5b4a7fbef383f944dca138129e) - 2025-08-18
 * [Pull Request] [rm notional pre-Fulu BPO schedules](https://github.com/status-im/nimbus-eth2/pull/7395) - 2025-08-18
 * [Commit] [Apply suggestions from code review](https://github.com/status-im/nimbus-eth2/commit/aa857ccd1c460dd0c8ceb3122944602ca09b5ff5) - 2025-08-18
+* [Commit] [addBlock changes for columns (#7398)](https://github.com/status-im/nimbus-eth2/commit/e4c8d11a220cd094696279e8b356e24588633a34) - 2025-08-20
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

@@ -92,6 +92,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [refactor(execute): update `eth_config` implementation (#2047)](https://github.com/ethereum/execution-spec-tests/commit/42da1229f6693ff6f48762b08d77cf8bda18197e) - 2025-08-19
 * [Commit] [fix: apply tx gas limit cap to template (#2046)](https://github.com/ethereum/execution-spec-tests/commit/8234e909896daf4aa8f4670884e52f20b3ef99a2) - 2025-08-19
 * [Commit] [feat(tests): add bpo blob reserve price transition tests. (#2035)](https://github.com/ethereum/execution-spec-tests/commit/429079c50d2bd29707ca72fadaf788d206237a97) - 2025-08-19
+* [Pull Request] [fix(test): Fix tests/cancun/eip4844_blobs/test_excess_blob_gas_fork_transition.py](https://github.com/ethereum/execution-spec-tests/pull/2059) - 2025-08-20
+* [Pull Request] [Add id to sent txs](https://github.com/ethereum/execution-spec-tests/pull/2056) - 2025-08-20
+* [Pull Request] [refactor(forks): Refactor extract fork until from logic, add BPO forks by default](https://github.com/ethereum/execution-spec-tests/pull/2051) - 2025-08-20
+* [Commit] [fix: tox](https://github.com/ethereum/execution-spec-tests/commit/6f29123619abc376959fde8b89d75f66330d0a39) - 2025-08-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

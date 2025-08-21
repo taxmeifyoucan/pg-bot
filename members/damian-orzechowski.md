@@ -14,6 +14,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] [Make gas price and premium gas calculation overridable](https://github.com/NethermindEth/nethermind/pull/8993) - 2025-07-15
 * [Commit] [Make gas price and premium gas calculation overridable (#8993)](https://github.com/NethermindEth/nethermind/commit/8a711fc1a35a27020c55a47dfb020ca232c9715e) - 2025-07-21
+* [Pull Request] [Re-create empty account](https://github.com/NethermindEth/nethermind/pull/9180) - 2025-08-20
 ## Q2 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

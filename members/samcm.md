@@ -28,6 +28,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: resolve linting issues for CI](https://github.com/ethpandaops/xatu/commit/e5d065304b151b891a534cb1798c74d6142f2f7c) - 2025-08-19
 * [Commit] [refactor: remove deprecated backfill_slot field from relay monitor](https://github.com/ethpandaops/xatu/commit/239899aaed124733eab82d22891d39c0db256ea3) - 2025-08-19
 * [Commit] [refactor: replace regex with string replacement for peer_id extraction](https://github.com/ethpandaops/xatu/commit/66bb8f4c32932454f381f2e1346a08dca9dd5be9) - 2025-08-19
+* [Commit] [refactor(vector): improve agent version parsing and storage for libp2p heartbeats](https://github.com/ethpandaops/xatu/commit/6f3cb6f6c67baad1afacba73f4b5d0879d051784) - 2025-08-20
+* [Commit] [cook](https://github.com/ethpandaops/xatu/commit/2c013af0b5a4b476df916c38899a010beedb254f) - 2025-08-20
 ## Q2 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

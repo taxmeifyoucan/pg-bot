@@ -25,3 +25,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Pull Request] [docs: remove stray "test" line from README](https://github.com/ethpandaops/contributoor/pull/138) - 2025-08-18
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Commit] [feat(libp2p): heartbeat](https://github.com/ethpandaops/xatu/commit/e0b608e1bc89e515df25b8954cf64fc9be20f2a1) - 2025-08-20
+* [Commit] [fix(vector): ensure libp2p heartbeat fields match ClickHouse schema](https://github.com/ethpandaops/xatu/commit/c50696bfd15f0566025dcc716e77c1ff5c8a1575) - 2025-08-20
+* [Pull Request] [feat(libp2p): heartbeat](https://github.com/ethpandaops/xatu/pull/629) - 2025-08-20

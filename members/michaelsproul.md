@@ -45,6 +45,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Consider `derive(Encode)` for `LightClientUpdateResponseChunk`](https://github.com/sigp/lighthouse/issues/7868) - 2025-08-13
 * [Pull Request] [Add rustfmt config with edition 2024](https://github.com/sigp/lighthouse/pull/7888) - 2025-08-18
 * [Commit] [Fix typo](https://github.com/sigp/lighthouse/commit/5a0c595d39eea9fcb30f7154b6afb17cef5ee380) - 2025-08-18
+* [Issue] [Consider flag for making VC `first_success` parallel](https://github.com/sigp/lighthouse/issues/7908) - 2025-08-20
 ## Q2 2025
 
 

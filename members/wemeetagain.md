@@ -66,6 +66,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: move fulu constants to preset/config to be spec compliant (#8217)](https://github.com/ChainSafe/lodestar/commit/1968319c71046ec0d2526f9387be088b5ac553ac) - 2025-08-18
 * [Commit] [feat: add warning log if slots are skipped by validator client (#8224)](https://github.com/ChainSafe/lodestar/commit/e082a5188a011f1cec031eb441b7421fb1691761) - 2025-08-19
 * [Issue] [Syncing strategy](https://github.com/ChainSafe/lodestar/issues/8225) - 2025-08-19
+* [Commit] [fix: use async variant of verifyCellKzgProofBatch (#8234)](https://github.com/ChainSafe/lodestar/commit/4b9dc6c0585ee29a7e0d3e901d226ab19179abea) - 2025-08-20
+* [Commit] [Update packages/beacon-node/src/chain/validation/dataColumnSidecar.ts](https://github.com/ChainSafe/lodestar/commit/0dc494ba9b43a2ee84496c171cb8c6cbf0ae83cb) - 2025-08-20
 ## Q2 2025
 
 

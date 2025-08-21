@@ -43,6 +43,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [remove Copy()](https://github.com/OffchainLabs/prysm/commit/1091bc25416040b6018efe161c402d739c616a07) - 2025-08-11
 * [Commit] [cosmetic changes](https://github.com/OffchainLabs/prysm/commit/7755cd6f3e4ef87b3384e660f8eada545c0ff4aa) - 2025-08-11
 * [Commit] [Radek's comments](https://github.com/OffchainLabs/prysm/commit/3b01a5649d341a2d3f11216b04a34308bc15cf83) - 2025-08-11
+* [Commit] [test](https://github.com/OffchainLabs/prysm/commit/13f77a16bab61b0f5bbb784b12fe304fcb3b4c11) - 2025-08-20
+* [Commit] [test](https://github.com/OffchainLabs/prysm/commit/d03e6ac76246807d405e40c4040b3af4e2bccfcd) - 2025-08-20
+* [Pull Request] [Aggregate and pack sync committee messages](https://github.com/OffchainLabs/prysm/pull/15608) - 2025-08-20
+* [Commit] [Aggregate and pack sync committee messages](https://github.com/OffchainLabs/prysm/commit/f1227d280458d1f4fea500b531d26b4fde275f60) - 2025-08-20
 ## Q2 2025
 
 

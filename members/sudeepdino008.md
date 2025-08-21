@@ -188,6 +188,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [nil fix in `FilePaths`](https://github.com/erigontech/erigon/pull/16728) - 2025-08-19
 * [Pull Request] [nil fix in `FilePaths`](https://github.com/erigontech/erigon/pull/16727) - 2025-08-19
 * [Issue] [rm-state-snapshots: successive calls removing same step range](https://github.com/erigontech/erigon/issues/16724) - 2025-08-19
+* [Commit] [move salt not found error to `GetIndexSalt` (#16746)](https://github.com/erigontech/erigon/commit/25b6ffc6972a4968a6d6a0773743624d4d4c0f21) - 2025-08-20
+* [Commit] [save](https://github.com/erigontech/erigon/commit/611a923e56bf5082a8628e8d3c25b3b11308293c) - 2025-08-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

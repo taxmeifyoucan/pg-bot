@@ -60,6 +60,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [update checkout action to 4.2.2](https://github.com/hyperledger/besu/pull/9052) - 2025-08-11
 * [Commit] [rotate changelog for 25.8.0 (#9074)](https://github.com/hyperledger/besu/commit/78fdb9beb4838d35edbfa05b6811c5fe250e1b07) - 2025-08-13
 * [Pull Request] [Release - rotate changelog for 25.8.0](https://github.com/hyperledger/besu/pull/9074) - 2025-08-13
+* [Commit] [Fix log level (#9087)](https://github.com/hyperledger/besu/commit/79fffb56adc5f07e2053a82dedc7fd2ed3e8d2ee) - 2025-08-20
 ## Q2 2025
 
 

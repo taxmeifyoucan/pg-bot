@@ -48,6 +48,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Moved fulu fork version and epoch](https://github.com/Consensys/teku/pull/9760) - 2025-08-11
 * [Commit] [Moved electra fork version and epoch to specConfigPhase0 (#9759)](https://github.com/Consensys/teku/commit/f59d212135f210e36515ce6f09bddd71ad558341) - 2025-08-11
 * [Pull Request] [Moved electra fork version and epoch to specConfigPhase0](https://github.com/Consensys/teku/pull/9759) - 2025-08-11
+* [Pull Request] [Updated the voluntary exit validation to allow a slow retry](https://github.com/Consensys/teku/pull/9785) - 2025-08-20
+* [Commit] [Added some testing and use-cases for loading bootnode from file (#9783)](https://github.com/Consensys/teku/commit/375dcfe97e8f3c15f09f9c2c2262f93617c89d76) - 2025-08-20
+* [Pull Request] [Added some testing and use-cases for loading bootnode from file](https://github.com/Consensys/teku/pull/9783) - 2025-08-20
 ## Q2 2025
 
 

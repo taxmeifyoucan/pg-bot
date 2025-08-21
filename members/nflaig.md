@@ -95,6 +95,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update packages/beacon-node/src/api/impl/beacon/blocks/index.ts](https://github.com/ChainSafe/lodestar/commit/5ed213b12447629c47bd1c9366d01648b07453bf) - 2025-08-13
 * [Commit] [fix: typo in serializeBlobsBundle() (#8218)](https://github.com/ChainSafe/lodestar/commit/61783cf265bb884447add6a4647aadd4be0aa2ab) - 2025-08-18
 * [Issue] [Set MAX_BLOB_COMMITMENTS_PER_BLOCK minimal preset to 4096](https://github.com/ChainSafe/lodestar/issues/8226) - 2025-08-19
+* [Commit] [fix: return subcommittee assignments from state sync committees endpoint (#8231)](https://github.com/ChainSafe/lodestar/commit/f0e804ef10ea10eaa4f8e1343a50b97eae9012e7) - 2025-08-20
 ## Q2 2025
 
 

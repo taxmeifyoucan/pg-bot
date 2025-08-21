@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q3 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Issue] [static-nodes.json should live within the data dir](https://github.com/NethermindEth/nethermind/issues/9181) - 2025-08-20
 ## Q2 2025
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/)

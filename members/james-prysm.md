@@ -68,6 +68,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [rollback introduced too much complication as well as a new bug so we are removing it](https://github.com/OffchainLabs/prysm/commit/36738fe4e2b354999cfb9b1e3a5bfa76bc94aed5) - 2025-08-15
 * [Commit] [omit NetworkScheduleEntry fields that are not part of BlobScheduleEntry (#15557)](https://github.com/OffchainLabs/prysm/commit/26cec9d9c7a6cc5e8d9f308964030f9c87120fcb) - 2025-08-15
 * [Commit] [manu's recommendations on defective subnet rollback edge case](https://github.com/OffchainLabs/prysm/commit/1a30ac08a7435aeee390765029ce864d966f1810) - 2025-08-15
+* [Commit] [linting](https://github.com/OffchainLabs/prysm/commit/02e30a35690303bd8077000eb5f7aebb64e8afad) - 2025-08-20
+* [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/46bab54ce631cfbcc87bc1803fb6efccef800b53) - 2025-08-20
+* [Pull Request] [Get blob fulu](https://github.com/OffchainLabs/prysm/pull/15610) - 2025-08-20
 ## Q2 2025
 
 

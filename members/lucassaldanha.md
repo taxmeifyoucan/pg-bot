@@ -28,6 +28,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Update earliest_available_slot for StatusV2 (#9762)](https://github.com/Consensys/teku/commit/db7cd3e4c029a1cac83085a32cecf1f89305c955) - 2025-08-13
 * [Commit] [Add support for v1.6.0-alpha.4 (#9756)](https://github.com/Consensys/teku/commit/6fd9d20428b63d422c8dec27b51c05ed2c9e7b45) - 2025-08-14
 * [Pull Request] [Dependencies update](https://github.com/Consensys/teku/pull/9775) - 2025-08-17
+* [Issue] [Can't re-submit a signed_voluntary_exit after it fails gossiping the message the first time](https://github.com/Consensys/teku/issues/9784) - 2025-08-20
 ## Q2 2025
 
 

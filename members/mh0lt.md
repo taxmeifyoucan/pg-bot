@@ -176,6 +176,8 @@ Team: Erigon
 * [Commit] [-1 is valid tx index](https://github.com/erigontech/erigon/commit/3c533df0cc0fa5df3da2965d73fc764265f04228) - 2025-08-18
 * [Commit] [adjust printers](https://github.com/erigontech/erigon/commit/b998147999db2674689296be3b5ddc74825bbb81) - 2025-08-18
 * [Commit] [fix nonce wascommitted](https://github.com/erigontech/erigon/commit/f53428507f3cf08197733d658ced625ff2f0db52) - 2025-08-18
+* [Commit] [reset gauges](https://github.com/erigontech/erigon/commit/eea507d7685f8c64a0dde87027393ed9bd899987) - 2025-08-20
+* [Commit] [metrics upadtes](https://github.com/erigontech/erigon/commit/21266a9f542e2c60cd31e9e758422267d7ec1131) - 2025-08-20
 ## Q2 2025
 
 

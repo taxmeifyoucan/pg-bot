@@ -148,6 +148,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [txnprovider: align txns id filter behaviour between devp2p pool and shutter (#16646)](https://github.com/erigontech/erigon/pull/16670) - 2025-08-15
 * [Pull Request] [txnprovider/shutter: add a err retry to sendtxns test cmd](https://github.com/erigontech/erigon/pull/16668) - 2025-08-15
 * [Commit] [tests: add more debug info to TestMiningBenchmark (#16652)](https://github.com/erigontech/erigon/commit/a149cbf53fd674a354bc3b5f0e1e8a79eb38cb85) - 2025-08-15
+* [Commit] [txnprovider/txpool: unblock p.lastSeenCond.Wait on shutdown (#16750) (#16751)](https://github.com/erigontech/erigon/commit/d41a00bb582bd01546be9f76291c780b7512da08) - 2025-08-20
+* [Pull Request] [txnprovider/txpool: unblock p.lastSeenCond.Wait on shutdown (#16750)](https://github.com/erigontech/erigon/pull/16751) - 2025-08-20
+* [Commit] [txnprovider/txpool: unblock p.lastSeenCond.Wait on shutdown (#16750)](https://github.com/erigontech/erigon/commit/93b616169b7c8b918ba883c3a2f143ecc63fcb7a) - 2025-08-20
+* [Commit] [use lock](https://github.com/erigontech/erigon/commit/83b62df915b4b953c626b51c8fb75de58b0a56f9) - 2025-08-20
+* [Pull Request] [txnprovider/txpool: unblock p.lastSeenCond.Wait on shutdown](https://github.com/erigontech/erigon/pull/16750) - 2025-08-20
 ## Q2 2025
 
 

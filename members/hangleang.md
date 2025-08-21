@@ -42,6 +42,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Implement PeerDAS with Fulu fork activation](https://github.com/grandinetech/grandine/commit/999a3df19d860660a8ec8950915a555bf1994c94) - 2025-08-13
 * [Pull Request] [Builder: fallback to V1 if builder does not support V2](https://github.com/grandinetech/grandine/pull/300) - 2025-08-14
 * [Commit] [Builder: fallback to V1 if builder does not support V2](https://github.com/grandinetech/grandine/commit/a1f39a67ec77ea9085636b7dea6e350f7ca7a802) - 2025-08-18
+* [Pull Request] [Remove `NumberOfColumns` as constant](https://github.com/grandinetech/grandine/pull/308) - 2025-08-20
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

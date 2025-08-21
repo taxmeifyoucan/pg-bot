@@ -224,6 +224,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Make CLI show default values in help output (#9152)](https://github.com/NethermindEth/nethermind/commit/b191fb5c4689fb5fcb1d821b5a2e2daa920ccd14) - 2025-08-18
 * [Pull Request] [Add Vector256 nibble conversion](https://github.com/NethermindEth/nethermind/pull/9153) - 2025-08-18
 * [Commit] [Fix snap sync edge case due to unnecessary proof (#9166)](https://github.com/NethermindEth/nethermind/commit/0bc7a05742766cf45ab3e91e2005195c8b239288) - 2025-08-19
+* [Pull Request] [Always output logs for processed blocks](https://github.com/NethermindEth/nethermind/pull/9170) - 2025-08-20
+* [Commit] [Use single event subscription for NewPayload (#9107)](https://github.com/NethermindEth/nethermind/commit/e6d249b370376d7047b42f225b0605cfc8751746) - 2025-08-20
+* [Commit] [Use single event subscription for NewPayload (#9107)](https://github.com/NethermindEth/nethermind/commit/27e90c1e4340d1b07d18264dcac24bdbb552d617) - 2025-08-20
+* [Commit] [Make CLI show default values in help output (#9152)](https://github.com/NethermindEth/nethermind/commit/b191fb5c4689fb5fcb1d821b5a2e2daa920ccd14) - 2025-08-20
+* [Commit] [Auto-update fast sync settings (#9147)](https://github.com/NethermindEth/nethermind/commit/6ebe4cf79c62c067be952b705a0e08dd19808b3e) - 2025-08-20
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

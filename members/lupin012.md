@@ -68,6 +68,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration_test: add eth_getProf test on latest](https://github.com/erigontech/rpc-tests/pull/433) - 2025-08-14
 * [Pull Request] [perf_test: add eth_getProof pattern](https://github.com/erigontech/rpc-tests/pull/432) - 2025-08-14
 * [Pull Request] [performance: add eth_call pattern on latest reading data from 23M](https://github.com/erigontech/rpc-tests/pull/435) - 2025-08-16
+* [Pull Request] [inetgeration: Fix expected get proof on latest](https://github.com/erigontech/rpc-tests/pull/439) - 2025-08-20
+* [Pull Request] [integration: fix in case of failed json-diff](https://github.com/erigontech/rpc-tests/pull/438) - 2025-08-20
+* [Pull Request] [integration: Fix in case of  failed jsondiff](https://github.com/erigontech/rpc-tests/pull/437) - 2025-08-20
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

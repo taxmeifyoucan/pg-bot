@@ -168,6 +168,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Slight comment](https://github.com/NethermindEth/nethermind/commit/7a89f13851c594f9ef5a21c068e3780eb17d0086) - 2025-08-18
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/fe3e90a7923e92d41a49daefdf6c703056a38a9b) - 2025-08-18
 * [Pull Request] [Fix storage range not retried on wrong order](https://github.com/NethermindEth/nethermind/pull/9154) - 2025-08-18
+* [Pull Request] [Extra validation in case `IForwardHeaderProvider` skip header.](https://github.com/NethermindEth/nethermind/pull/9171) - 2025-08-20
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/c13b1c9775aee396983b8ea54ddd72979fa0bcb0) - 2025-08-20
+* [Pull Request] [Cleanup/remove MaybeParent.](https://github.com/NethermindEth/nethermind/pull/9169) - 2025-08-20
+* [Pull Request] [Explicitly pass parent header in header validator](https://github.com/NethermindEth/nethermind/pull/9168) - 2025-08-20
+* [Commit] [Prepare stable state](https://github.com/NethermindEth/nethermind/commit/1e3b4477c42f2e7fa8c1ad225446aa22c933bb8f) - 2025-08-20
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

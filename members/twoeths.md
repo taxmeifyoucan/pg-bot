@@ -82,6 +82,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: check-types](https://github.com/ChainSafe/lodestar/commit/03e196663e5ccc1dfe1ed675aa64f89a86c4714a) - 2025-08-18
 * [Pull Request] [feat: implement PeerBalancer for UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/8219) - 2025-08-18
 * [Pull Request] [fix: typo in serializeBlobsBundle()](https://github.com/ChainSafe/lodestar/pull/8218) - 2025-08-18
+* [Pull Request] [fix: handle NullBlockInput full data columns in UnknownBlockPeerBalancer](https://github.com/ChainSafe/lodestar/pull/8229) - 2025-08-20
 ## Q2 2025
 
 
