@@ -19,6 +19,8 @@ Team: Nimbus
 * [Commit] [Resove generic async functiona as templates](https://github.com/status-im/nimbus-eth1/commit/dfb50680481a279827799f5814a176c7f856d4bb) - 2025-07-21
 * [Commit] [Beacon sync maint update (#3520)](https://github.com/status-im/nimbus-eth1/commit/66153731741edbc46f4996f5d320d7371fe540a8) - 2025-07-29
 * [Pull Request] [Beacon sync maint update](https://github.com/status-im/nimbus-eth1/pull/3520) - 2025-07-29
+* [Commit] [Beacon sync manual target by hash (#3575)](https://github.com/status-im/nimbus-eth1/commit/f1b64fc9798407aca3d50ecc26747a83477fc7ec) - 2025-08-21
+* [Pull Request] [Beacon sync manual target by hash](https://github.com/status-im/nimbus-eth1/pull/3575) - 2025-08-21
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

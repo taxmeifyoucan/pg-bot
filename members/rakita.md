@@ -172,6 +172,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [fix(handler): correct transaction ID decrement logic (#2892)](https://github.com/bluealloy/revm/commit/38c7e0063705f98c665dfdb48b06c01df2933cb6) - 2025-08-17
 * [Commit] [fix: EIP-7702 target check to return correct error (#2896)](https://github.com/bluealloy/revm/commit/7482d2100fcde82283cfe69229d2dfa29e50fcee) - 2025-08-19
 * [Commit] [feat: add generic state to ResultAndState (#2897)](https://github.com/bluealloy/revm/commit/8073236d357474272d146babfc9fe13b001c8c28) - 2025-08-19
+* [Commit] [feat(fusaka): Add PrecompileId (#2904)](https://github.com/bluealloy/revm/commit/ae1655da953356fa6707e529bec09f80dd88abde) - 2025-08-21
+* [Commit] [chore: skip drain if checkpoing is incosistent](https://github.com/bluealloy/revm/commit/409c2b3b1a905de148f3cf21bbefabbe6014e561) - 2025-08-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

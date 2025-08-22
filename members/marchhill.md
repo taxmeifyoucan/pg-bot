@@ -135,6 +135,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [set BAL at end of processing](https://github.com/NethermindEth/nethermind/commit/db756e64e28c7fd58f997cb1b92c967f0a8ee111) - 2025-08-15
 * [Commit] [block access tracer improvements & tests](https://github.com/NethermindEth/nethermind/commit/675485ce18ed7cec398e1d03d9e13d2fac7b78b8) - 2025-08-18
 * [Commit] [use bal as state provider](https://github.com/NethermindEth/nethermind/commit/8ac6add81a8c891af64b05b26f9fb47f030de25a) - 2025-08-19
+* [Commit] [execute txs in parallel](https://github.com/NethermindEth/nethermind/commit/a84593b7677262241884e5ed8da3f986c54863df) - 2025-08-21
+* [Commit] [fix compilation](https://github.com/NethermindEth/nethermind/commit/6dea6952a2f00552231ee64d3b6e4a609b1ff93a) - 2025-08-21
 ## Q2 2025
 
 

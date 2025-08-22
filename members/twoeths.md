@@ -83,6 +83,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: implement PeerBalancer for UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/8219) - 2025-08-18
 * [Pull Request] [fix: typo in serializeBlobsBundle()](https://github.com/ChainSafe/lodestar/pull/8218) - 2025-08-18
 * [Pull Request] [fix: handle NullBlockInput full data columns in UnknownBlockPeerBalancer](https://github.com/ChainSafe/lodestar/pull/8229) - 2025-08-20
+* [Commit] [fix: options for Eth1ForBlockProductionMock](https://github.com/ChainSafe/lodestar/commit/46984249b4f9cd759243db8f4e623379704b50de) - 2025-08-21
+* [Commit] [fix: cli check-types](https://github.com/ChainSafe/lodestar/commit/42bae4bdfdd2d1b195e116b33a7568efca824da2) - 2025-08-21
+* [Pull Request] [feat: implement mock Eth1ForBlockProduction](https://github.com/ChainSafe/lodestar/pull/8237) - 2025-08-21
 ## Q2 2025
 
 

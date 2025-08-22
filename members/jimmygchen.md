@@ -58,6 +58,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Fulu update to spec v1.6.0-alpha.4](https://github.com/sigp/lighthouse/pull/7890) - 2025-08-18
 * [Pull Request] [Revise data column rpc limits and queue sizes](https://github.com/sigp/lighthouse/pull/7887) - 2025-08-18
 * [Pull Request] [Add tempo to local testnet config and update fulu kurtosis config files](https://github.com/sigp/lighthouse/pull/7898) - 2025-08-19
+* [Pull Request] [Only send lookup requests to peers that are synced or advacned](https://github.com/sigp/lighthouse/pull/7913) - 2025-08-21
+* [Pull Request] [Prioritise `StatusV2` over `StatusV1` RPC protocol](https://github.com/sigp/lighthouse/pull/7912) - 2025-08-21
 ## Q2 2025
 
 

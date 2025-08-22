@@ -61,6 +61,12 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Fix verify proof function in aristo proof module (#3562)](https://github.com/status-im/nimbus-eth1/commit/166d9dc744f56ac4c8c5bced5762dee0201b2951) - 2025-08-15
 * [Commit] [Fix copyright year.](https://github.com/status-im/nimbus-eth1/commit/8d9e6a8253a7ec16cf86e700d0453bfb8bf5c44d) - 2025-08-15
 * [Commit] [Return error when proof is empty and add aristo proof test.](https://github.com/status-im/nimbus-eth1/commit/803318fd39b93103a13d0a1bbaa3ba46b5c2dd9f) - 2025-08-15
+* [Commit] [Persist the witness after validation.](https://github.com/status-im/nimbus-eth1/commit/3d2e8c4c83e21dcc0b727b9513fc7a275763e3c5) - 2025-08-21
+* [Commit] [Add witness keys validation check in block import.](https://github.com/status-im/nimbus-eth1/commit/3add06ce0e7a674a5eb5713cc3ded5cbe7a36ec1) - 2025-08-21
+* [Pull Request] [Stateless: Execution witness validation](https://github.com/status-im/nimbus-eth1/pull/3574) - 2025-08-21
+* [Commit] [Call witness validation after building witnesses.](https://github.com/status-im/nimbus-eth1/commit/39633f0da654fef10f03bec21c4582e0af59174b) - 2025-08-21
+* [Commit] [Add parameter to enabled witness validation.](https://github.com/status-im/nimbus-eth1/commit/70c0b7e5839b4bf81ebb0fcd386f400f8dd67091) - 2025-08-21
+* [Commit] [Update default rocksdb cache dir (#3551)](https://github.com/status-im/nimbus-eth1/commit/ee411adc6063f18138454b759b75892a2521e3a7) - 2025-08-21
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

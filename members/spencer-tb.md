@@ -102,6 +102,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(tests): add modexp length mismatch functionality](https://github.com/ethereum/execution-spec-tests/pull/2058) - 2025-08-20
 * [Commit] [refactor(forks): refactor extract fork until from logic (#2051)](https://github.com/ethereum/execution-spec-tests/commit/510e3b81ef1fe0230737cf38477df363d3ba9fe3) - 2025-08-20
 * [Commit] [chore(docs): update changelog.](https://github.com/ethereum/execution-spec-tests/commit/9efc0363fd6c836dbfc63b9dd55a022b6ca5ffac) - 2025-08-20
+* [Commit] [chore(ci): bump coverage to use Prague.](https://github.com/ethereum/execution-spec-tests/commit/0362b78a76ef93eb40573cc21ec305904e2d5db8) - 2025-08-21
+* [Pull Request] [chore(ci): fix fill prepatched coverage script fork compatibility](https://github.com/ethereum/execution-spec-tests/pull/2062) - 2025-08-21
+* [Commit] [chore(ci): update fill prepatched script.](https://github.com/ethereum/execution-spec-tests/commit/945df51afe25f64b43779132ead5025b9eb9af4e) - 2025-08-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

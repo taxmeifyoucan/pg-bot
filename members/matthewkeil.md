@@ -75,6 +75,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: merge unstable into fusaka-devnet-4 (#8208)](https://github.com/ChainSafe/lodestar/commit/9a5b60b98496ad787065ef08e151c4c6ac928e1e) - 2025-08-15
 * [Commit] [chore: merge unstable to fusaka-devnet-3 (#8227)](https://github.com/ChainSafe/lodestar/commit/224e77af7823eb6a508eb348e43334947d38334f) - 2025-08-19
 * [Pull Request] [chore: merge unstable to fusaka-devnet-3](https://github.com/ChainSafe/lodestar/pull/8227) - 2025-08-19
+* [Commit] [test: rough out unit tests for downloadByRoot](https://github.com/ChainSafe/lodestar/commit/4c248a3a47a6249e240f3cd0e21ef70f99d488c8) - 2025-08-22
+* [Commit] [feat: modify ColumnMeta to support getBlobsV2](https://github.com/ChainSafe/lodestar/commit/511d9f6f758c67f799dcf5b4e9af621fee57d7cf) - 2025-08-21
 ## Q2 2025
 
 

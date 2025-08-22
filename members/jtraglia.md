@@ -44,6 +44,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Rename eip7732 specs to gloas](https://github.com/ethereum/consensus-specs/pull/4506) - 2025-08-15
 * [Commit] [Set MAX_BLOB_COMMITMENTS_PER_BLOCK minimal preset to 4096 (#4508)](https://github.com/ethereum/consensus-specs/commit/133c2e4b78a897e6bf1e51a6592bec7b651a26e9) - 2025-08-19
 * [Commit] [eip7732: add process execution payload envelope tests (#4458)](https://github.com/ethereum/consensus-specs/commit/62d253d6262eb7e6ea00f902466fd8002833b93b) - 2025-08-20
+* [Commit] [Bump version to v1.6.0-alpha.5 (#4515)](https://github.com/ethereum/consensus-specs/commit/d237704ce954f1a86b1da1b961684d0687201ac4) - 2025-08-21
+* [Pull Request] [Bump version to v1.6.0-alpha.5](https://github.com/ethereum/consensus-specs/pull/4515) - 2025-08-21
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

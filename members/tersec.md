@@ -80,6 +80,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm notional pre-Fulu BPO schedules](https://github.com/status-im/nimbus-eth2/pull/7395) - 2025-08-18
 * [Commit] [Apply suggestions from code review](https://github.com/status-im/nimbus-eth2/commit/aa857ccd1c460dd0c8ceb3122944602ca09b5ff5) - 2025-08-18
 * [Commit] [addBlock changes for columns (#7398)](https://github.com/status-im/nimbus-eth2/commit/e4c8d11a220cd094696279e8b356e24588633a34) - 2025-08-20
+* [Commit] [Make SyncQueue to be aware of fork boundary. (#7379)](https://github.com/status-im/nimbus-eth2/commit/e339594a04ee666dd943bb9a320a873813e9108b) - 2025-08-21
+* [Commit] [Block production revamp (#7353)](https://github.com/status-im/nimbus-eth2/commit/d74a9622009a538c29b92b2d1b3aa97b4f1d5b6b) - 2025-08-21
+* [Commit] [Block production revamp, part 2 (#7396)](https://github.com/status-im/nimbus-eth2/commit/8f1e91a684c1d7858481e9295eaa512bd109aa8f) - 2025-08-21
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

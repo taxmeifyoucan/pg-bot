@@ -178,6 +178,7 @@ Team: Erigon
 * [Commit] [fix nonce wascommitted](https://github.com/erigontech/erigon/commit/f53428507f3cf08197733d658ced625ff2f0db52) - 2025-08-18
 * [Commit] [reset gauges](https://github.com/erigontech/erigon/commit/eea507d7685f8c64a0dde87027393ed9bd899987) - 2025-08-20
 * [Commit] [metrics upadtes](https://github.com/erigontech/erigon/commit/21266a9f542e2c60cd31e9e758422267d7ec1131) - 2025-08-20
+* [Commit] [monitor comit progress in exec](https://github.com/erigontech/erigon/commit/0d7a31896d588b21d37bdd51cc5fcf60eab1f602) - 2025-08-21
 ## Q2 2025
 
 

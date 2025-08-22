@@ -22,6 +22,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [update custody group count](https://github.com/Consensys/teku/pull/9723) - 2025-07-29
 * [Commit] [retry blobs fetching from local EL (#9739)](https://github.com/Consensys/teku/commit/4bb7faa8fc076480c8aeee21185fe586fa88235d) - 2025-08-11
 * [Pull Request] [remove custody late initialisation](https://github.com/Consensys/teku/pull/9781) - 2025-08-19
+* [Pull Request] [fix api description](https://github.com/Consensys/teku/pull/9789) - 2025-08-21
+* [Commit] [Trim doppelganger log at epoch (#9288)](https://github.com/Consensys/teku/commit/664995336b4aad61e1f24e149e220727b0e6a016) - 2025-08-21
 ## Q2 2025
 
 

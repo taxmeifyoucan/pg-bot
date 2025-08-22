@@ -51,6 +51,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Updated the voluntary exit validation to allow a slow retry](https://github.com/Consensys/teku/pull/9785) - 2025-08-20
 * [Commit] [Added some testing and use-cases for loading bootnode from file (#9783)](https://github.com/Consensys/teku/commit/375dcfe97e8f3c15f09f9c2c2262f93617c89d76) - 2025-08-20
 * [Pull Request] [Added some testing and use-cases for loading bootnode from file](https://github.com/Consensys/teku/pull/9783) - 2025-08-20
+* [Commit] [Updated the voluntary exit validation to allow a slow retry (#9785)](https://github.com/Consensys/teku/commit/3d64ab9d4ae1d82758a0ea790062b3ecd1ca28f7) - 2025-08-21
 ## Q2 2025
 
 

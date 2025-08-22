@@ -101,6 +101,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [feat(txpool): Batch insertions into the Tx Pool (#17670)](https://github.com/paradigmxyz/reth/commit/e12e6c0d04a3e2af8e9ef98923768ea9477f9cba) - 2025-08-18
 * [Commit] [perf: reduce cycles on indexing (#17916)](https://github.com/paradigmxyz/reth/commit/b81e133fbc02009118237b37fb689e0025059fa3) - 2025-08-19
 * [Commit] [validate RPC modules after CLI parsing](https://github.com/paradigmxyz/reth/commit/658b10f781b760605d2e2ae850f48e1598c04444) - 2025-08-19
+* [Commit] [refactor](https://github.com/paradigmxyz/reth/commit/881617794bd35c6a15d8d2d33e66891785d30420) - 2025-08-21
+* [Pull Request] [fix(optimism): add debug_traceTransaction support for pre-bedrock blocks](https://github.com/paradigmxyz/reth/pull/17971) - 2025-08-21
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add blob per tx limit for reth](https://github.com/ethereum/execution-spec-tests/pull/2016) - 2025-08-08
 ## Q2 2025

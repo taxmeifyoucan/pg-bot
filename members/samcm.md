@@ -30,6 +30,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [refactor: replace regex with string replacement for peer_id extraction](https://github.com/ethpandaops/xatu/commit/66bb8f4c32932454f381f2e1346a08dca9dd5be9) - 2025-08-19
 * [Commit] [refactor(vector): improve agent version parsing and storage for libp2p heartbeats](https://github.com/ethpandaops/xatu/commit/6f3cb6f6c67baad1afacba73f4b5d0879d051784) - 2025-08-20
 * [Commit] [cook](https://github.com/ethpandaops/xatu/commit/2c013af0b5a4b476df916c38899a010beedb254f) - 2025-08-20
+* [Commit] [fix: enable decoupled sharding for child libp2p events](https://github.com/ethpandaops/xatu/commit/7054abbd20d25d59d118317aa24a850db76a5cc2) - 2025-08-21
+* [Pull Request] [feat(cl-mimicry): decouple parent/child event sharding](https://github.com/ethpandaops/xatu/pull/633) - 2025-08-21
+* [Commit] [fix: downgrade actions/checkout to v4.2.2 to fix node24 error (#632)](https://github.com/ethpandaops/xatu/commit/cb9f0ba24221398bc641495735a666b2beaa0ee9) - 2025-08-21
+* [Pull Request] [fix: downgrade actions/checkout to v4.2.2 to fix node24 error](https://github.com/ethpandaops/xatu/pull/632) - 2025-08-21
+* [Commit] [fix: downgrade actions/checkout to v4.2.2 to fix node24 error](https://github.com/ethpandaops/xatu/commit/f446d545ecd88d2d0df8e9f1225295f1a24f104c) - 2025-08-21
+* [Commit] [fix: update GitHub Actions to supported versions](https://github.com/ethpandaops/xatu/commit/5bd66286eb06d6e316be8100b40fda400f6b8f80) - 2025-08-21
+* [Commit] [feat(libp2p): heartbeat (#629)](https://github.com/ethpandaops/xatu/commit/a20a1efb59ac35ca04a904541bfd394bfdffcee2) - 2025-08-21
 ## Q2 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

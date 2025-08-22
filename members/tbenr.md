@@ -41,6 +41,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Avoid builder validator registration calls potentially delaying calls on critical path (#9780)](https://github.com/Consensys/teku/commit/18b5553f6303f167032a6bb077a942403eb593c4) - 2025-08-19
 * [Pull Request] [Avoid builder validator registration calls potentially delaying calls on critical path](https://github.com/Consensys/teku/pull/9780) - 2025-08-19
 * [Pull Request] [early prepare block production](https://github.com/Consensys/teku/pull/9787) - 2025-08-20
+* [Pull Request] [Refactor ValidatorIsConnected](https://github.com/Consensys/teku/pull/9788) - 2025-08-21
 ## Q2 2025
 
 

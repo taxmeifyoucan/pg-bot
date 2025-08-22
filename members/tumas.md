@@ -33,6 +33,7 @@ Team: Grandine
 * [Pull Request] [Avoid using `initial_forward_sync` flag in `Store::is_forward_synced`](https://github.com/grandinetech/grandine/pull/298) - 2025-08-13
 * [Commit] [Don't combine `ValidatorBlindedBlock::BlindedBeaconBlock` with local payload.](https://github.com/grandinetech/grandine/commit/73304a71af4646f1b0f327c7b462fb90e753ebfc) - 2025-08-18
 * [Commit] [Avoid using `initial_forward_sync` flag in `Store::is_forward_synced`](https://github.com/grandinetech/grandine/commit/32039d82eebff7efa1ec806bada68b3a918bc7b9) - 2025-08-18
+* [Commit] [Reuse `proposer_lookahead` in `accessors::get_beacon_proposer_index_at_slot`](https://github.com/grandinetech/grandine/commit/1b6cd138cab310767e1de2cc2f1984598ecb02f2) - 2025-08-21
 ## Q2 2025
 
 

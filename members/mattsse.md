@@ -136,6 +136,7 @@ Team: Reth
 * [Commit] [bump core](https://github.com/paradigmxyz/reth/commit/34e626ace46459efd6be37481c5d6481fabd1a85) - 2025-08-17
 * [Commit] [chore: fix clippy in nix flake (#17918)](https://github.com/paradigmxyz/reth/commit/97763ff7dd60400153e5872fe5d9388551e9e06f) - 2025-08-19
 * [Issue] [Support tokio handle in CliRunner](https://github.com/paradigmxyz/reth/issues/17965) - 2025-08-20
+* [Commit] [feat(optimism): Add `FlashBlockWsStream` for streaming flashblocks from a websocket connection (#17987)](https://github.com/paradigmxyz/reth/commit/a4dd305ee968566ab542abab5f036e3ec2bd8d7a) - 2025-08-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

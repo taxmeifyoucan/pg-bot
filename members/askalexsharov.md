@@ -856,6 +856,30 @@ Team: Erigon
 * [Commit] [[r31] grpc  (#16692)](https://github.com/erigontech/erigon/commit/b9e1546ef24191ee9d7bf9eb4a7f5e3b314970ae) - 2025-08-18
 * [Commit] [kick ci](https://github.com/erigontech/erigon/commit/63e4b6c4eaf16ec1cacd4f1047086db51e9e7557) - 2025-08-18
 * [Commit] [added rule to prevent os.Remove (#16694)](https://github.com/erigontech/erigon/commit/caed109ac47acef0c6861a8082cacd51e885c10b) - 2025-08-18
+* [Commit] [`erigon snapshots meta`: to print keys_size/vals_size (#16756)](https://github.com/erigontech/erigon/commit/c3ca8849ce18e9117e981e0240bca2099c2f0fb8) - 2025-08-22
+* [Issue] [`checkIfStateSnapshotsPublishable` does check not all domains](https://github.com/erigontech/erigon/issues/16759) - 2025-08-21
+* [Commit] [Fix regression in hashing file holes in snapshots (#16758)](https://github.com/erigontech/erigon/commit/c01e26476d3d7da80995f3291d7c479c0a970373) - 2025-08-21
+* [Commit] [Add missing timeouts to metainfo fetching HTTP transport (#16757)](https://github.com/erigontech/erigon/commit/40ea287b3a43404eaff2559ec9f1b1150b4f2529) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/583a6a6c44d750c6ea9e6e6856f4ef2ba4207063) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8c7274c4f81b65b703c6cae34eb2791578d999d9) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/90b406c6361ded5c8731354aada219519840cc8c) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1754915f3529089d8035c8bcb10dfc391b5e95a4) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b9c50b618402c40153c7187947420e3b023d23bd) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/898bf03c02a40a523b831216e05bfdfef25278a3) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/39f87098580a0f65f155eb093e61276eee67fc50) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d46328468c9b909fdb23bad489b3578c4a1fcc5b) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a403cf7b709270be393e1d105813de7683e524b6) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b724f44e3ab48f7ddd8c51b4d9d018ab12dffaa4) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6e1f855fcd60e2847a1626679d928c1af8c223bf) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f4fb767c0d8a5da3e1e2ce38055ae59fb752e6ec) - 2025-08-21
+* [Pull Request] [`erigon snapshots meta`: to print keys_size/vals_size](https://github.com/erigontech/erigon/pull/16756) - 2025-08-21
+* [Issue] [rebuild_commitment: choosing wrong `shardSteps` on ethmainnet](https://github.com/erigontech/erigon/issues/16755) - 2025-08-21
+* [Issue] [rebuild_commitment chiado: wrong trie root](https://github.com/erigontech/erigon/issues/16754) - 2025-08-21
+* [Issue] [cli tools using wrong logs folder](https://github.com/erigontech/erigon/issues/16753) - 2025-08-21
+* [Commit] [cp: adjust receipt data files version (#16677) (#16700)](https://github.com/erigontech/erigon/commit/6e9f3b6751e9ea0cc459d2fc64d4d6f48e2eef8d) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5338fa82ebee3c0ba3b6010ed534534a00a72c1d) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9ffbd866e7d9f68fe244398822a05e167726ba70) - 2025-08-21
+* [Commit] [refactor: use slices.Sort where appropriate (#16630)](https://github.com/erigontech/erigon/commit/d2ae284d1a49f7f0de147d42df697215eb224a76) - 2025-08-21
 ## Q2 2025
 
 

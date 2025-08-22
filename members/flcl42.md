@@ -84,6 +84,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix schema generator deps; include more stuff for configs autocompletion](https://github.com/NethermindEth/nethermind/commit/1062c308878a288e20d73991b9b966f6d2c572c1) - 2025-08-18
 * [Pull Request] [Flatten log level](https://github.com/NethermindEth/nethermind/pull/9159) - 2025-08-18
 * [Commit] [Flatten log level](https://github.com/NethermindEth/nethermind/commit/412ec233ee61910099e73d4d05fe9a4562405064) - 2025-08-18
+* [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/084562134b7680175ee92015c3f79a4f90ef5ff1) - 2025-08-21
+* [Pull Request] [Enable passing args to Nethermind when using sync chains pipeline](https://github.com/NethermindEth/nethermind/pull/9184) - 2025-08-21
+* [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/5678f6e18eeffc09768663cc38033dfc4b49f008) - 2025-08-21
+* [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/1c584bfb95a3a1eb53753ba3c4da6958a530716f) - 2025-08-21
+* [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/33ee854dcc47f17ce0fcc0f2ae8d77b10cbe66de) - 2025-08-21
+* [Commit] [Test](https://github.com/NethermindEth/nethermind/commit/d980c42438842cbe6f5eb3090388789abfe01dbe) - 2025-08-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

@@ -68,6 +68,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Syncing strategy](https://github.com/ChainSafe/lodestar/issues/8225) - 2025-08-19
 * [Commit] [fix: use async variant of verifyCellKzgProofBatch (#8234)](https://github.com/ChainSafe/lodestar/commit/4b9dc6c0585ee29a7e0d3e901d226ab19179abea) - 2025-08-20
 * [Commit] [Update packages/beacon-node/src/chain/validation/dataColumnSidecar.ts](https://github.com/ChainSafe/lodestar/commit/0dc494ba9b43a2ee84496c171cb8c6cbf0ae83cb) - 2025-08-20
+* [Commit] [chore: move peer id file error due to file not found to debug (#8230)](https://github.com/ChainSafe/lodestar/commit/c1c459466f80f1251bf3be0983d82477b26ea655) - 2025-08-21
 ## Q2 2025
 
 

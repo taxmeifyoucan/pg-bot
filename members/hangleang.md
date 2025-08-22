@@ -43,6 +43,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Builder: fallback to V1 if builder does not support V2](https://github.com/grandinetech/grandine/pull/300) - 2025-08-14
 * [Commit] [Builder: fallback to V1 if builder does not support V2](https://github.com/grandinetech/grandine/commit/a1f39a67ec77ea9085636b7dea6e350f7ca7a802) - 2025-08-18
 * [Pull Request] [Remove `NumberOfColumns` as constant](https://github.com/grandinetech/grandine/pull/308) - 2025-08-20
+* [Pull Request] [HTTP API: reconstruct for blob sidecars if more than half columns are available](https://github.com/grandinetech/grandine/pull/314) - 2025-08-21
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

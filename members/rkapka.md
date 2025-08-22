@@ -47,6 +47,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [test](https://github.com/OffchainLabs/prysm/commit/d03e6ac76246807d405e40c4040b3af4e2bccfcd) - 2025-08-20
 * [Pull Request] [Aggregate and pack sync committee messages](https://github.com/OffchainLabs/prysm/pull/15608) - 2025-08-20
 * [Commit] [Aggregate and pack sync committee messages](https://github.com/OffchainLabs/prysm/commit/f1227d280458d1f4fea500b531d26b4fde275f60) - 2025-08-20
+* [Commit] [fix assert import](https://github.com/OffchainLabs/prysm/commit/8a0deaf5be4dd8b15a873248cfb3edc2e7d0db2e) - 2025-08-21
+* [Commit] [provide data column storage to rpc handlers (#15606)](https://github.com/OffchainLabs/prysm/commit/08fb3812b7aac4cd68fb66793ec266ee099fd5c1) - 2025-08-21
+* [Commit] [changelog <3](https://github.com/OffchainLabs/prysm/commit/014075a8156c740c98569ccddcdc7740a9785834) - 2025-08-21
+* [Commit] [test](https://github.com/OffchainLabs/prysm/commit/ba431967b1b290d4f4d723cd1010aae28735c071) - 2025-08-21
 ## Q2 2025
 
 

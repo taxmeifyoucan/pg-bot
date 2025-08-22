@@ -52,6 +52,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [Fix memory usage regression caused by stateroot mismatch fix (#3540)](https://github.com/status-im/nimbus-eth1/commit/39d70443032400108f55d8e763353d5e9e935627) - 2025-08-06
 * [Commit] [bump nim-web4 to 81ee8ce479d86acb73be7c4f365328e238d9b4a3](https://github.com/status-im/nimbus-eth1/commit/0db7b068ab157d128d2377d4e85a6a206692d366) - 2025-08-06
 * [Pull Request] [devnet EEST tests in local](https://github.com/status-im/nimbus-eth1/pull/3563) - 2025-08-15
+* [Pull Request] [fix crash in invalid fc state](https://github.com/status-im/nimbus-eth1/pull/3577) - 2025-08-21
+* [Issue] [Unable to load chain, and crash in fusaka-devnet-3](https://github.com/status-im/nimbus-eth1/issues/3576) - 2025-08-21
 ## Q2 2025
 
 

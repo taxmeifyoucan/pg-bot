@@ -173,6 +173,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Cleanup/remove MaybeParent.](https://github.com/NethermindEth/nethermind/pull/9169) - 2025-08-20
 * [Pull Request] [Explicitly pass parent header in header validator](https://github.com/NethermindEth/nethermind/pull/9168) - 2025-08-20
 * [Commit] [Prepare stable state](https://github.com/NethermindEth/nethermind/commit/1e3b4477c42f2e7fa8c1ad225446aa22c933bb8f) - 2025-08-20
+* [Commit] [Fix randomly faailing test](https://github.com/NethermindEth/nethermind/commit/ccb42379eb83180d3ae4ab8a3912fc9d9ed73c15) - 2025-08-21
+* [Commit] [Fix concurrent ensure storage tree](https://github.com/NethermindEth/nethermind/commit/f05af518b77c4fd83d4fb78e7daad20d64e9dcb9) - 2025-08-21
+* [Commit] [Cleanup/remove MaybeParent. (#9169)](https://github.com/NethermindEth/nethermind/commit/fae3d39b07d6d24f432b02647364491e275aab5f) - 2025-08-21
+* [Commit] [Explicitly pass parent header in header validator (#9168)](https://github.com/NethermindEth/nethermind/commit/48e8a47e763c03338bd14fdeabe6b5e9b8d67585) - 2025-08-21
+* [Commit] [Remove readonly trie store read with custom node storage. (#9102)](https://github.com/NethermindEth/nethermind/commit/84cd65240eb6da027fa18cd6438c3908de272c03) - 2025-08-21
+* [Commit] [Update src/Nethermind/Nethermind.State/PersistentStorageProvider.cs](https://github.com/NethermindEth/nethermind/commit/bcb285d94273fd9dbf09db27027995776088f547) - 2025-08-21
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

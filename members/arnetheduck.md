@@ -57,6 +57,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix stateroot mismatch caused by stale db cache when using checkpoints (#3527)](https://github.com/status-im/nimbus-eth1/commit/3f6b570fb081afe930a58cb00fef129becc5a605) - 2025-08-11
 * [Pull Request] [move database directory to top-level (fixes #1348)](https://github.com/status-im/nimbus-eth1/pull/3566) - 2025-08-15
 * [Issue] [`--network` should allow specifying a folder directly](https://github.com/status-im/nimbus-eth1/issues/3565) - 2025-08-15
+* [Issue] [Discoveryv5 implementation should not use include](https://github.com/status-im/nimbus-eth1/issues/3573) - 2025-08-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21

@@ -17,6 +17,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [Improve header rule validation logging (#9073)](https://github.com/hyperledger/besu/commit/9d48ee201b901c33aea7b98388428e9b825da46d) - 2025-08-13
 * [Commit] [Skip header validation if the chain is POS (#9038)](https://github.com/hyperledger/besu/commit/15f28f51dc217aabb7bb01447c45497f2d88b116) - 2025-08-13
 * [Pull Request] [Improve header validation logging](https://github.com/hyperledger/besu/pull/9073) - 2025-08-13
+* [Pull Request] [cherry-pick 9085 into 25.8.0-RC2](https://github.com/hyperledger/besu/pull/9095) - 2025-08-21
+* [Commit] [log system call address and frame state when system call fails (#9094)](https://github.com/hyperledger/besu/commit/a5e78fec0bdba3665e84f3c93ad9a6480cb8566e) - 2025-08-21
+* [Commit] [Make the Bft expiry time algorithm configurable (#9085)](https://github.com/hyperledger/besu/commit/b2c579a117dbe377b2e98acd4f1dca6384266dd6) - 2025-08-21
 ## Q2 2025
 
 
