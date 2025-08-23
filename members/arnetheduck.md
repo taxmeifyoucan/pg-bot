@@ -120,6 +120,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [use mainnet version in tests](https://github.com/status-im/nimbus-eth2/commit/b59555b987dca4a5d1414ebd4cbf09c80751dbce) - 2025-08-15
 * [Pull Request] [Block production revamp, part 2](https://github.com/status-im/nimbus-eth2/pull/7396) - 2025-08-18
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/83da573c5446e2be1417d4d36cb114fc306e2a81) - 2025-08-20
+* [Commit] [more hacks](https://github.com/status-im/nimbus-eth2/commit/0d858612181b85b30137fcac54965b98dfb1062f) - 2025-08-22
+* [Commit] [kqueue](https://github.com/status-im/nimbus-eth2/commit/ecf94d4e3b925d4c3a4ddb043d39ab388222aebc) - 2025-08-22
+* [Commit] [more oops](https://github.com/status-im/nimbus-eth2/commit/156b830053ee91eee65a251f8b433ef1aef0cb6f) - 2025-08-22
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/ea7707e0ea98ecc2df3d6d117d6e7c0eea008bc8) - 2025-08-22
+* [Commit] [raise instead of pthread_kill](https://github.com/status-im/nimbus-eth2/commit/16c9e9d815ed1bf36598d0838d0ba703db05d142) - 2025-08-22
+* [Commit] [raise chronos signal also](https://github.com/status-im/nimbus-eth2/commit/0c68a5f3fa2f893b23178cbcd12786a860daf7c2) - 2025-08-22
+* [Commit] [logging](https://github.com/status-im/nimbus-eth2/commit/21815629fcf9a75e709f1f519a60f46b5be23883) - 2025-08-22
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

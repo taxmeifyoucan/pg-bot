@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Commit] [gloas fixes (#7810)](https://github.com/sigp/lighthouse/commit/723724a8222e0ff17792435be135a56fae9875e5) - 2025-07-29
+* [Pull Request] [Gloas(EIP-7732): Containers / Constants](https://github.com/sigp/lighthouse/pull/7923) - 2025-08-22
 ## Q2 2025
 
 

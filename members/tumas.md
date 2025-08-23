@@ -34,6 +34,10 @@ Team: Grandine
 * [Commit] [Don't combine `ValidatorBlindedBlock::BlindedBeaconBlock` with local payload.](https://github.com/grandinetech/grandine/commit/73304a71af4646f1b0f327c7b462fb90e753ebfc) - 2025-08-18
 * [Commit] [Avoid using `initial_forward_sync` flag in `Store::is_forward_synced`](https://github.com/grandinetech/grandine/commit/32039d82eebff7efa1ec806bada68b3a918bc7b9) - 2025-08-18
 * [Commit] [Reuse `proposer_lookahead` in `accessors::get_beacon_proposer_index_at_slot`](https://github.com/grandinetech/grandine/commit/1b6cd138cab310767e1de2cc2f1984598ecb02f2) - 2025-08-21
+* [Pull Request] [Add `beacon_clock_slot` metric (#317)](https://github.com/grandinetech/grandine/pull/318) - 2025-08-22
+* [Commit] [Bumped Grandine to 1.1.4](https://github.com/grandinetech/grandine/commit/7e48b27f50e2a4842b6a3f666e9a81554ec07bf7) - 2025-08-22
+* [Commit] [Add `GET /eth/v1/beacon/states/{state_id}/proposer_lookahead`](https://github.com/grandinetech/grandine/commit/23446b8f99a77a920b138dcee30258b9412d5d10) - 2025-08-22
+* [Pull Request] [Add `GET /eth/v1/beacon/states/{state_id}/proposer_lookahead`](https://github.com/grandinetech/grandine/pull/316) - 2025-08-22
 ## Q2 2025
 
 

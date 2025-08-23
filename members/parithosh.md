@@ -16,6 +16,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Pull Request] [Refactor package to separate bintrie out](https://github.com/gballet/go-ethereum/pull/547) - 2025-08-13
+
+[ethpandaops/pandafuzz](https://github.com/ethpandaops/pandafuzz)
+* [Commit] [chore: clean up temporary test and debug scripts](https://github.com/ethpandaops/pandafuzz/commit/97b71310baf6725e4a98c737742b225e2715fdb7) - 2025-08-22
+* [Commit] [feat: implement raw-only coverage for AFL++ fuzzer](https://github.com/ethpandaops/pandafuzz/commit/352bca996de6eb6be961684e5c730deb0838b62a) - 2025-08-22
+* [Commit] [working example with just the raw coverage report](https://github.com/ethpandaops/pandafuzz/commit/850cb9ca4418567dbfb48b478f40994218f40fbb) - 2025-08-22
+* [Commit] [only update real data](https://github.com/ethpandaops/pandafuzz/commit/077b4e7a4cad337bf1532a8b890bf55898a8eac2) - 2025-08-22
+* [Commit] [update afl raw coverate reports](https://github.com/ethpandaops/pandafuzz/commit/0f7eba58373299d96c34a187d31efe6a05fca380) - 2025-08-22
 ## Q2 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

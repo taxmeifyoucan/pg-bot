@@ -62,6 +62,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [Release - rotate changelog for 25.8.0](https://github.com/hyperledger/besu/pull/9074) - 2025-08-13
 * [Commit] [Fix log level (#9087)](https://github.com/hyperledger/besu/commit/79fffb56adc5f07e2053a82dedc7fd2ed3e8d2ee) - 2025-08-20
 * [Pull Request] [[CHANGELOG] explicit message about gasPrice=0](https://github.com/hyperledger/besu/pull/9099) - 2025-08-21
+* [Pull Request] [RC2 cherry-pick ](https://github.com/hyperledger/besu/pull/9102) - 2025-08-22
+* [Pull Request] [[gradle] don't use space assignment](https://github.com/hyperledger/besu/pull/9101) - 2025-08-22
+* [Commit] [explicit message about gasPrice=0 (#9099)](https://github.com/hyperledger/besu/commit/87ee6f0015d71e41d3f8f8e5df3bb9c620f6cabb) - 2025-08-22
+* [Issue] [Java 25 investigation](https://github.com/hyperledger/besu/issues/9100) - 2025-08-22
 ## Q2 2025
 
 

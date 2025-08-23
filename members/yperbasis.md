@@ -105,6 +105,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [switch to eest-fixtures main](https://github.com/erigontech/erigon/commit/edb352fefe1f1eaf959461eb7188613b4620f00c) - 2025-08-19
 * [Pull Request] [Update EEST devnet tests to fusaka-devnet-5@v1.0.0](https://github.com/erigontech/erigon/pull/16725) - 2025-08-19
 * [Commit] [Update EEST devnet tests to fusaka-devnet-5@v1.0.0](https://github.com/erigontech/erigon/commit/e29505a38c3407363a49b964d9f928db67511bcc) - 2025-08-19
+* [Pull Request] [dir improvements: mv `compiler` to `execution/abi`](https://github.com/erigontech/erigon/pull/16783) - 2025-08-22
+* [Commit] [mv compiler to execution/abi](https://github.com/erigontech/erigon/commit/0eedc6f626da7bd01317717212e504e0027fe641) - 2025-08-22
+* [Commit] [remove solc/vyper compiler integration](https://github.com/erigontech/erigon/commit/2e57c1343547c83ec85ccabcef910f5b9dbc6c67) - 2025-08-22
+* [Commit] [[main] Domain Schema should remain unchanged (#16667)](https://github.com/erigontech/erigon/commit/8017a549309ad619bba9c1bbd7486004218fc017) - 2025-08-22
+* [Commit] [dir improvements: move `diskutils` & `sysutils` from `erigon-lib` to `diagnostics` (#16777)](https://github.com/erigontech/erigon/commit/980e40fb59a3759e4e0094919b1c79a5b512fdf3) - 2025-08-22
+* [Pull Request] [dir improvements: move `diskutils` & `sysutils` from `erigon-lib` to `diagnostics`](https://github.com/erigontech/erigon/pull/16777) - 2025-08-22
+* [Commit] [go mod tidy](https://github.com/erigontech/erigon/commit/2f9248af013054ecd5610d1f245ab70e123fd4b5) - 2025-08-22
+* [Commit] [mv sysutils to diagnostics](https://github.com/erigontech/erigon/commit/456c245b0bd2efc6424aa9996ff04cf0fc95109e) - 2025-08-22
+* [Commit] [mv diskutils to diagnostics](https://github.com/erigontech/erigon/commit/d1cc570f8dfbc5d4034329fd2b3a3c2981a3a9a7) - 2025-08-22
+* [Commit] [dir improvements: move `rlp` from `erigon-lib` to `execution` (#16772)](https://github.com/erigontech/erigon/commit/b1ffc44748bfc8668a70064df09994882a83903a) - 2025-08-22
+* [Pull Request] [dir improvements: move `rlp` from `erigon-lib` to `execution`](https://github.com/erigontech/erigon/pull/16772) - 2025-08-22
+* [Commit] [rpcdaemon:  modify Error in case of result = nil to avoid panic (#16766)](https://github.com/erigontech/erigon/commit/274c2ab864fc9265e2e8f043323ec55a760b0e19) - 2025-08-22
+* [Commit] [mv rlp to execution](https://github.com/erigontech/erigon/commit/30aea19277746c03fabb97401ae3910714d2c08a) - 2025-08-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

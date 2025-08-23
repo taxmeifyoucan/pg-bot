@@ -69,6 +69,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: use async variant of verifyCellKzgProofBatch (#8234)](https://github.com/ChainSafe/lodestar/commit/4b9dc6c0585ee29a7e0d3e901d226ab19179abea) - 2025-08-20
 * [Commit] [Update packages/beacon-node/src/chain/validation/dataColumnSidecar.ts](https://github.com/ChainSafe/lodestar/commit/0dc494ba9b43a2ee84496c171cb8c6cbf0ae83cb) - 2025-08-20
 * [Commit] [chore: move peer id file error due to file not found to debug (#8230)](https://github.com/ChainSafe/lodestar/commit/c1c459466f80f1251bf3be0983d82477b26ea655) - 2025-08-21
+* [Commit] [fix: choose more profitable block only based on execution payload value (#8246)](https://github.com/ChainSafe/lodestar/commit/4641b565d55a6ea1982c083fefebf7c71be9ebb9) - 2025-08-22
+* [Commit] [fix: apply correct count limit in blob sidecars by range (#8248)](https://github.com/ChainSafe/lodestar/commit/5cbb0ad7d4fe0cff911188016d1e5482de70a7e2) - 2025-08-22
 ## Q2 2025
 
 

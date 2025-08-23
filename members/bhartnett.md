@@ -67,6 +67,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Call witness validation after building witnesses.](https://github.com/status-im/nimbus-eth1/commit/39633f0da654fef10f03bec21c4582e0af59174b) - 2025-08-21
 * [Commit] [Add parameter to enabled witness validation.](https://github.com/status-im/nimbus-eth1/commit/70c0b7e5839b4bf81ebb0fcd386f400f8dd67091) - 2025-08-21
 * [Commit] [Update default rocksdb cache dir (#3551)](https://github.com/status-im/nimbus-eth1/commit/ee411adc6063f18138454b759b75892a2521e3a7) - 2025-08-21
+* [Pull Request] [Fix rlp encoding of HashKey type](https://github.com/status-im/nimbus-eth1/pull/3578) - 2025-08-22
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

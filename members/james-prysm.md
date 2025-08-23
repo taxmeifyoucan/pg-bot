@@ -71,6 +71,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [linting](https://github.com/OffchainLabs/prysm/commit/02e30a35690303bd8077000eb5f7aebb64e8afad) - 2025-08-20
 * [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/46bab54ce631cfbcc87bc1803fb6efccef800b53) - 2025-08-20
 * [Pull Request] [Get blob fulu](https://github.com/OffchainLabs/prysm/pull/15610) - 2025-08-20
+* [Pull Request] [fix proposer duties fulu](https://github.com/OffchainLabs/prysm/pull/15624) - 2025-08-22
 ## Q2 2025
 
 

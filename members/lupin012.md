@@ -45,6 +45,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [CI: update rpc-test version with eth_getProf tests on latest](https://github.com/erigontech/erigon/pull/16682) - 2025-08-15
 * [Commit] [disable again the test](https://github.com/erigontech/erigon/commit/33ca26ed7a4dbe6c366a82442640464a505ad299) - 2025-08-16
 * [Commit] [txnprovider/txpool: fix deadlock (#16680)](https://github.com/erigontech/erigon/commit/019f5f4c5603a8389a09a95d52c21ebe2cd26c62) - 2025-08-16
+* [Pull Request] [CI: RPC integration test on Latest](https://github.com/erigontech/erigon/pull/16785) - 2025-08-22
+* [Commit] [updated version](https://github.com/erigontech/erigon/commit/9420bc6b506af0bffa631f328da6be655a148b91) - 2025-08-22
+* [Commit] [update](https://github.com/erigontech/erigon/commit/6f945a0042880bbcf8b05871ba84c06fe5d67420) - 2025-08-22
+* [Commit] [updated version](https://github.com/erigontech/erigon/commit/b27138334330ddc6c76d5c7a920e1aa9e16446cf) - 2025-08-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24

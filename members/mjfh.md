@@ -21,6 +21,11 @@ Team: Nimbus
 * [Pull Request] [Beacon sync maint update](https://github.com/status-im/nimbus-eth1/pull/3520) - 2025-07-29
 * [Commit] [Beacon sync manual target by hash (#3575)](https://github.com/status-im/nimbus-eth1/commit/f1b64fc9798407aca3d50ecc26747a83477fc7ec) - 2025-08-21
 * [Pull Request] [Beacon sync manual target by hash](https://github.com/status-im/nimbus-eth1/pull/3575) - 2025-08-21
+* [Commit] [Always start the syncer when a manual target is set (#3581)](https://github.com/status-im/nimbus-eth1/commit/d5535a246352901c34d5f7c09633a80fe6b810cf) - 2025-08-22
+* [Pull Request] [Always start the syncer when a manual target is set](https://github.com/status-im/nimbus-eth1/pull/3581) - 2025-08-22
+* [Commit] [Add command line option for marking a manual sync target finalised (#3580)](https://github.com/status-im/nimbus-eth1/commit/f000b802475f92ccd1b6ddd0152c28182425637e) - 2025-08-22
+* [Commit] [Hide manual target options](https://github.com/status-im/nimbus-eth1/commit/a0ddec7589cdb933dcf5ddc1f0e395fb1d740442) - 2025-08-22
+* [Pull Request] [Add command line option for marking a manual sync target finalised](https://github.com/status-im/nimbus-eth1/pull/3580) - 2025-08-22
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

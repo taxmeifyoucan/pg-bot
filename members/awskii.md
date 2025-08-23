@@ -83,6 +83,12 @@ Team: Erigon
 * [Commit] [e3: make salt reload part of `OpenFolder` (#16704)](https://github.com/erigontech/erigon/commit/019580d67bc13367460c4b1405940fc4a5f2eb8f) - 2025-08-19
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2738304d96a00e90f28c62a2f7e95aaf8299696b) - 2025-08-19
 * [Pull Request] [`integration commitment_rebuild` clarifications and fixes](https://github.com/erigontech/erigon/pull/16726) - 2025-08-19
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2155977bc4e9e68f190724fb2b8fb2a2cef2d9a2) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d864a93cde4d06325e7eb5b19035b53af77bc785) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/713058a69af5f5230c0197301102199c2639c735) - 2025-08-22
+* [Commit] [`erigon snapshots meta`: to print keys_size/vals_size (#16756)](https://github.com/erigontech/erigon/commit/c3ca8849ce18e9117e981e0240bca2099c2f0fb8) - 2025-08-22
+* [Pull Request] [fix rebuilding commitment by smaller shards](https://github.com/erigontech/erigon/pull/16779) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7f02d3be3fada897d481e8635e07dbf0cc99a46c) - 2025-08-22
 ## Q2 2025
 
 

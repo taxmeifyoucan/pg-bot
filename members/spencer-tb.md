@@ -105,6 +105,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(ci): bump coverage to use Prague.](https://github.com/ethereum/execution-spec-tests/commit/0362b78a76ef93eb40573cc21ec305904e2d5db8) - 2025-08-21
 * [Pull Request] [chore(ci): fix fill prepatched coverage script fork compatibility](https://github.com/ethereum/execution-spec-tests/pull/2062) - 2025-08-21
 * [Commit] [chore(ci): update fill prepatched script.](https://github.com/ethereum/execution-spec-tests/commit/945df51afe25f64b43779132ead5025b9eb9af4e) - 2025-08-21
+* [Commit] [feat(tests): enhance eip7883 test coverage (#1929)](https://github.com/ethereum/execution-spec-tests/commit/4e754c42df5c5292f2511c1b01cb8c368aba5982) - 2025-08-22
+* [Commit] [chore(ci): fix fill prepatched coverage script fork compatibility (#2062)](https://github.com/ethereum/execution-spec-tests/commit/f9bfe4d28c20f82597a0c7dcb6de3929951737b6) - 2025-08-22
+* [Commit] [chore(ci): update fill prepatched script.](https://github.com/ethereum/execution-spec-tests/commit/cb2295cf06e935c96c5cb685ecd6c4441f01cb33) - 2025-08-22
+* [Commit] [feat(execute): Add identifiers to sent txs (#2056)](https://github.com/ethereum/execution-spec-tests/commit/961cdc8d4d214d70621e677b988b436014c75cb6) - 2025-08-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

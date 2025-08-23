@@ -50,6 +50,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: correctly parse validator indices when querying state balances (#7951)](https://github.com/ChainSafe/lodestar/commit/c018377ad36d60d3b8bfeb30c14482d05d9b1c4b) - 2025-08-18
 * [Commit] [fix: do not pick out-of-date peer to retry head sync (#8201)](https://github.com/ChainSafe/lodestar/commit/552110f0bac504f7f731b5f6607f7a92bb29db2b) - 2025-08-18
 * [Commit] [Add missing await for few functions](https://github.com/ChainSafe/lodestar/commit/e411718502c563acea2b437c644f301c24179b6a) - 2025-08-19
+* [Commit] [Fix types](https://github.com/ChainSafe/lodestar/commit/351ef8c57618096d6a858765ab1a8614c50721ca) - 2025-08-22
+* [Commit] [Update the request handler to not throw error](https://github.com/ChainSafe/lodestar/commit/104f2e279d86bd6af52d4206d359100f51175f64) - 2025-08-22
+* [Pull Request] [fix: the dataColumnSidecarsByRoot request empty check ](https://github.com/ChainSafe/lodestar/pull/8251) - 2025-08-22
 ## Q2 2025
 
 

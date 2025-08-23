@@ -30,11 +30,16 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Remove traces array from TxEnv (#909)](https://github.com/ethereum/execution-specs/commit/d619d102bd0ce40fe70990c794d9cb241614fb87) - 2025-08-06
 * [Issue] [`Hardfork` doesn't respect `base` when importing sub-modules](https://github.com/ethereum/execution-specs/issues/1373) - 2025-08-19
 * [Issue] [Investigate weirdly unnecessary `try`/`catch`](https://github.com/ethereum/execution-specs/issues/1379) - 2025-08-20
+* [Issue] [Support tests in `ethereum-spec-new-fork`](https://github.com/ethereum/execution-specs/issues/1382) - 2025-08-22
+* [Commit] [Add flag to count opcodes during execution](https://github.com/ethereum/execution-specs/commit/38e45e58d4372835ef7320ab8214acb0993bdcbb) - 2025-08-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-7932: Fix some typos (#10011)](https://github.com/ethereum/EIPs/commit/9e953a254861cf86dc6d55f1f90a54807cfecdb1) - 2025-07-16
 * [Commit] [Website: Add missing favicon (#9963)](https://github.com/ethereum/EIPs/commit/719769bd61033e9bcd4de7b647bdc927981b6195) - 2025-07-28
 * [Commit] [Update EIP-2938: Move to Withdrawn (#10179)](https://github.com/ethereum/EIPs/commit/5deba10782d33b239267c9143d08ff6c11c9fbc6) - 2025-08-18
 * [Pull Request] [Withdraw EIP-2938](https://github.com/ethereum/EIPs/pull/10179) - 2025-08-18
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [AllWalletDevs, call #36, September 17, 2025](https://github.com/ethereum/pm/issues/1697) - 2025-08-22
 ## Q2 2025
 
 

@@ -23,6 +23,8 @@ Team: Geth
 * [Commit] [eth/syncer: fix typo (#32427)](https://github.com/ethereum/go-ethereum/commit/3ff99ae52c420477020ae957a61c5c216ac7e7f5) - 2025-08-13
 * [Commit] [website: added volume mapping to cli command (#32469)](https://github.com/ethereum/go-ethereum/commit/ee42b9d4bf5523e8740de46e7535624437fedcaa) - 2025-08-20
 * [Commit] [internal/ethapi, miner: fix GetBlockReceipts for pending (#32461)](https://github.com/ethereum/go-ethereum/commit/9ce40d19a8240844be24b9692c639dff45d13d68) - 2025-08-20
+* [Commit] [p2p/discover: add discv5 invalid findnodes result test cases (#32481)](https://github.com/ethereum/go-ethereum/commit/276ed4848c59958cc7051a34f54d6d1763b479fa) - 2025-08-22
+* [Issue] [Convert existing legacy sidecars to new proof format](https://github.com/ethereum/go-ethereum/issues/32485) - 2025-08-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [Minor cleanup to EthSimulateResult (#677)](https://github.com/ethereum/execution-apis/commit/bbf817f7f6404fc0d270f66a3c96f8737e6d7176) - 2025-07-23
 * [Commit] [Change eth_simulateV1 to use generic log object (#681)](https://github.com/ethereum/execution-apis/commit/b050556ffb7d69d9281af8d2ffd4096192715b7c) - 2025-08-11

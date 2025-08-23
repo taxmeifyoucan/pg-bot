@@ -96,6 +96,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: typo in serializeBlobsBundle() (#8218)](https://github.com/ChainSafe/lodestar/commit/61783cf265bb884447add6a4647aadd4be0aa2ab) - 2025-08-18
 * [Issue] [Set MAX_BLOB_COMMITMENTS_PER_BLOCK minimal preset to 4096](https://github.com/ChainSafe/lodestar/issues/8226) - 2025-08-19
 * [Commit] [fix: return subcommittee assignments from state sync committees endpoint (#8231)](https://github.com/ChainSafe/lodestar/commit/f0e804ef10ea10eaa4f8e1343a50b97eae9012e7) - 2025-08-20
+* [Pull Request] [chore: remove skipped fulu constants in config test](https://github.com/ChainSafe/lodestar/pull/8252) - 2025-08-22
+* [Commit] [Remove redundant check](https://github.com/ChainSafe/lodestar/commit/635a24dfceab01959c2abd2b79dc88e250c809f9) - 2025-08-22
+* [Pull Request] [feat: serve data columns by root for finalized epochs](https://github.com/ChainSafe/lodestar/pull/8250) - 2025-08-22
+* [Commit] [feat: serve data columns by root for finalized epochs](https://github.com/ChainSafe/lodestar/commit/2131116d2ed37cfef1ceae1389e290b4858d48fe) - 2025-08-22
 ## Q2 2025
 
 

@@ -24,6 +24,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Adapt testFixtures for Fulu](https://github.com/Consensys/teku/pull/9751) - 2025-08-06
 * [Commit] [Adapt testFixtures for Fulu + integration tests (#9751)](https://github.com/Consensys/teku/commit/b15588cb8070ffe373de3f8be8f721ed65051aa3) - 2025-08-08
 * [Pull Request] [Remove banNode method from DataColumnPeerManager](https://github.com/Consensys/teku/pull/9782) - 2025-08-19
+* [Pull Request] [Remove TODO from DasCustodySyncTest](https://github.com/Consensys/teku/pull/9797) - 2025-08-22
 ## Q2 2025
 
 

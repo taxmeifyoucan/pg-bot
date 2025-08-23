@@ -37,6 +37,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: downgrade actions/checkout to v4.2.2 to fix node24 error](https://github.com/ethpandaops/xatu/commit/f446d545ecd88d2d0df8e9f1225295f1a24f104c) - 2025-08-21
 * [Commit] [fix: update GitHub Actions to supported versions](https://github.com/ethpandaops/xatu/commit/5bd66286eb06d6e316be8100b40fda400f6b8f80) - 2025-08-21
 * [Commit] [feat(libp2p): heartbeat (#629)](https://github.com/ethpandaops/xatu/commit/a20a1efb59ac35ca04a904541bfd394bfdffcee2) - 2025-08-21
+* [Commit] [test(pkg/clmimicry): refactor sharding tests for GroupC events to use event-type-only patterns](https://github.com/ethpandaops/xatu/commit/3e15d6d3153b0e9d22b5972f10fcb5366efe1c90) - 2025-08-22
+* [Pull Request] [fix(sharding): Configure sharding for Group C events by eve…](https://github.com/ethpandaops/xatu/pull/634) - 2025-08-22
 ## Q2 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

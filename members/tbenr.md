@@ -42,6 +42,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Avoid builder validator registration calls potentially delaying calls on critical path](https://github.com/Consensys/teku/pull/9780) - 2025-08-19
 * [Pull Request] [early prepare block production](https://github.com/Consensys/teku/pull/9787) - 2025-08-20
 * [Pull Request] [Refactor ValidatorIsConnected](https://github.com/Consensys/teku/pull/9788) - 2025-08-21
+* [Issue] [Remove `AggregatingAttestationPoolV1` and related classes and CLI](https://github.com/Consensys/teku/issues/9799) - 2025-08-22
+* [Commit] [Early prepare block production (#9787)](https://github.com/Consensys/teku/commit/917caacd3ab6b781d8b905cfa69898bbfc4f91d1) - 2025-08-22
+* [Commit] [fix blob db tests (#9798)](https://github.com/Consensys/teku/commit/5a2aa76cfa1030ca9c3383e5e6ece7807a249889) - 2025-08-22
+* [Pull Request] [Fix blob db tests](https://github.com/Consensys/teku/pull/9798) - 2025-08-22
+* [Issue] [[SPIKE] Remove Quartz Scheduler in favor of our `RepeatingTaskScheduler`](https://github.com/Consensys/teku/issues/9796) - 2025-08-22
 ## Q2 2025
 
 

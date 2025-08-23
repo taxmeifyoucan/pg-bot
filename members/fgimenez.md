@@ -103,6 +103,15 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [validate RPC modules after CLI parsing](https://github.com/paradigmxyz/reth/commit/658b10f781b760605d2e2ae850f48e1598c04444) - 2025-08-19
 * [Commit] [refactor](https://github.com/paradigmxyz/reth/commit/881617794bd35c6a15d8d2d33e66891785d30420) - 2025-08-21
 * [Pull Request] [fix(optimism): add debug_traceTransaction support for pre-bedrock blocks](https://github.com/paradigmxyz/reth/pull/17971) - 2025-08-21
+* [Commit] [map error](https://github.com/paradigmxyz/reth/commit/f0a01a364abc6e829c13987b0f5e046208296a7d) - 2025-08-22
+* [Commit] [refactor](https://github.com/paradigmxyz/reth/commit/62c7fee3a9b29efee5bd4e2cf06dc36ef472ece2) - 2025-08-22
+* [Commit] [expect valid](https://github.com/paradigmxyz/reth/commit/3c2f76fc8c9b0d5c306ddd45d08af0a403b1b6a1) - 2025-08-22
+* [Pull Request] [test(engine): add e2e tests for forkchoice update with finalized blocks](https://github.com/paradigmxyz/reth/pull/18004) - 2025-08-22
+* [Commit] [test(engine): add e2e tests for forkchoice update with finalized blocks](https://github.com/paradigmxyz/reth/commit/f92fff33601a62854828950c68357f3dd326e7b6) - 2025-08-22
+* [Commit] [test(engine): add e2e tests for forkchoice update with finalized blocks](https://github.com/paradigmxyz/reth/commit/56d25935a9b07d637204b301eacef4f62fe10648) - 2025-08-22
+* [Commit] [test(engine): add e2e tests for forkchoice update with finalized blocks](https://github.com/paradigmxyz/reth/commit/8293989fb0856172ffc5d25f1e71ac98a8e70956) - 2025-08-22
+* [Commit] [test(engine): add e2e tests for forkchoice update with finalized blocks](https://github.com/paradigmxyz/reth/commit/d1c41fc4b50f5879649f71cc06ad54802c23c338) - 2025-08-22
+* [Commit] [check header validity before transactions](https://github.com/paradigmxyz/reth/commit/549a97104fdf2f4d910f63f4d9e60422c3123210) - 2025-08-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add blob per tx limit for reth](https://github.com/ethereum/execution-spec-tests/pull/2016) - 2025-08-08
 ## Q2 2025

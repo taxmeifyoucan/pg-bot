@@ -86,6 +86,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: options for Eth1ForBlockProductionMock](https://github.com/ChainSafe/lodestar/commit/46984249b4f9cd759243db8f4e623379704b50de) - 2025-08-21
 * [Commit] [fix: cli check-types](https://github.com/ChainSafe/lodestar/commit/42bae4bdfdd2d1b195e116b33a7568efca824da2) - 2025-08-21
 * [Pull Request] [feat: implement mock Eth1ForBlockProduction](https://github.com/ChainSafe/lodestar/pull/8237) - 2025-08-21
+* [Issue] [No finalized dataColumnSidecar found for slot=8, index=0](https://github.com/ChainSafe/lodestar/issues/8247) - 2025-08-22
 ## Q2 2025
 
 

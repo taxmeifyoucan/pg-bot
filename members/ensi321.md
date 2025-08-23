@@ -26,6 +26,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: disable DEBUG logs by default when running sim tests (#8186)](https://github.com/ChainSafe/lodestar/commit/d5be46d90d68263e7a3dddb42a1c98f1ac626cce) - 2025-08-14
 * [Pull Request] [feat: implement EIP-7732 ePBS](https://github.com/ChainSafe/lodestar/pull/8212) - 2025-08-15
 * [Commit] [fix: use correct self fate limited request error code (#8228)](https://github.com/ChainSafe/lodestar/commit/91df6658d512c5bee0744a6baff8bf572e272f8a) - 2025-08-20
+* [Commit] [chore: remove skipped fulu constants in config test (#8252)](https://github.com/ChainSafe/lodestar/commit/9ed83170648e6d1bf2935b33b7cef2e04519303f) - 2025-08-22
 ## Q2 2025
 
 

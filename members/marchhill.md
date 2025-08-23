@@ -137,6 +137,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [use bal as state provider](https://github.com/NethermindEth/nethermind/commit/8ac6add81a8c891af64b05b26f9fb47f030de25a) - 2025-08-19
 * [Commit] [execute txs in parallel](https://github.com/NethermindEth/nethermind/commit/a84593b7677262241884e5ed8da3f986c54863df) - 2025-08-21
 * [Commit] [fix compilation](https://github.com/NethermindEth/nethermind/commit/6dea6952a2f00552231ee64d3b6e4a609b1ff93a) - 2025-08-21
+* [Commit] [don't encode/decode for testing](https://github.com/NethermindEth/nethermind/commit/7c31e87c10e47e9acf8fb646ded8f9027646d92d) - 2025-08-22
+* [Commit] [move RLP decoding](https://github.com/NethermindEth/nethermind/commit/15bbab12c60dc3137cf7be21a6d4021886573c67) - 2025-08-22
+* [Commit] [add block processing test](https://github.com/NethermindEth/nethermind/commit/9d1d9ffa958d74cb8ee4aafa7b5f8352ae3e55d9) - 2025-08-22
 ## Q2 2025
 
 

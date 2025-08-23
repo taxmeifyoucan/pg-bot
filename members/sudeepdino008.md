@@ -190,6 +190,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [rm-state-snapshots: successive calls removing same step range](https://github.com/erigontech/erigon/issues/16724) - 2025-08-19
 * [Commit] [move salt not found error to `GetIndexSalt` (#16746)](https://github.com/erigontech/erigon/commit/25b6ffc6972a4968a6d6a0773743624d4d4c0f21) - 2025-08-20
 * [Commit] [save](https://github.com/erigontech/erigon/commit/611a923e56bf5082a8628e8d3c25b3b11308293c) - 2025-08-20
+* [Pull Request] [cp: fix for bor events prune](https://github.com/erigontech/erigon/pull/16784) - 2025-08-22
+* [Commit] [[r31] fix for bor events prune (#16778)](https://github.com/erigontech/erigon/commit/ce4d6e871763cb2776a8e14db68591dee3aebee6) - 2025-08-22
+* [Pull Request] [fix for bor events prune](https://github.com/erigontech/erigon/pull/16778) - 2025-08-22
+* [Pull Request] [cp: `rm-state`: support versions, `--dry-run` (#16486)](https://github.com/erigontech/erigon/pull/16773) - 2025-08-22
+* [Pull Request] [avoid extraneous commitment logs in rm-state](https://github.com/erigontech/erigon/pull/16771) - 2025-08-22
+* [Pull Request] [[r31] allow list of checks to be passed in publishable command](https://github.com/erigontech/erigon/pull/16770) - 2025-08-22
+* [Pull Request] [add rcache/receipt/ii to publishable checks](https://github.com/erigontech/erigon/pull/16768) - 2025-08-22
+* [Issue] [rm-state command on rcache/receipt/ii doesn't need to touch commitment](https://github.com/erigontech/erigon/issues/16767) - 2025-08-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

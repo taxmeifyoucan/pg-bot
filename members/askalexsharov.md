@@ -880,6 +880,42 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/5338fa82ebee3c0ba3b6010ed534534a00a72c1d) - 2025-08-21
 * [Commit] [save](https://github.com/erigontech/erigon/commit/9ffbd866e7d9f68fe244398822a05e167726ba70) - 2025-08-21
 * [Commit] [refactor: use slices.Sort where appropriate (#16630)](https://github.com/erigontech/erigon/commit/d2ae284d1a49f7f0de147d42df697215eb224a76) - 2025-08-21
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2738304d96a00e90f28c62a2f7e95aaf8299696b) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5446c6c4c8ede779ac18df531e2c3a869178b7a7) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/76f89909c81e018376d17f17dc8e8e53721678aa) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6812ff054f19e78f6043c2208d5f17a039e0c8d0) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ec57d2ffd60d0a9fb0662062d1ef6aaf177ce4a5) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6da0d24e1c23ca64284e8cca266613b29fa6aee4) - 2025-08-22
+* [Commit] [integration: fix database not initialized in run_migrations (#16762)](https://github.com/erigontech/erigon/commit/8f7571cfb49d17c7088ada25fc9c9d53f3193731) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9f5164cc9fda63f386cc1bcd1b13c43aef83cd20) - 2025-08-22
+* [Commit] [rebuild correct+ print_commitment](https://github.com/erigontech/erigon/commit/149995ad89773725548cbcd7a7f3b65fe7c0290f) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5c6d22c0ae569c4454f0fb2b6f1e85af15114b26) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fe17873d6a4eb49b034665b142ddfcbb054e140f) - 2025-08-22
+* [Pull Request] [[r31] kv/mdbx: revert nosync periodic flusher](https://github.com/erigontech/erigon/pull/16781) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8fbc73f453b4c7cbd88363c7210c39d1a5e2c949) - 2025-08-22
+* [Issue] [eth_getProof: nil-ptr when block not found](https://github.com/erigontech/erigon/issues/16776) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5f24ed155cb900ee44448885efa3aaae352ff579) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/29c3afa745798303b7cdb225ee10674d4fc471f4) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/abeaa75f0ee33b7013eb62c85c273b825d4bed1c) - 2025-08-22
+* [Commit] [fix: align error messages with function name in InsertBlocks (#16774)](https://github.com/erigontech/erigon/commit/f3906fcbf31402c5900647e41390ef33c4c31b6b) - 2025-08-22
+* [Commit] [cp: `rm-state`: support versions, `--dry-run` (#16486) (#16773)](https://github.com/erigontech/erigon/commit/ae9a11fc028947f850e4098123521f1b6e95f5aa) - 2025-08-22
+* [Commit] [[r31] add rcache/receipt/ii to publishable checks (#16768)](https://github.com/erigontech/erigon/commit/d3d32be12db680a853bcf606c56f4f185bdd92a7) - 2025-08-22
+* [Commit] [[r31] allow list of checks to be passed in publishable command (#16770)](https://github.com/erigontech/erigon/commit/778799b474394fdaf9f0407442f3ad633bee4c7c) - 2025-08-22
+* [Commit] [[r31] avoid extraneous commitment logs in rm-state (#16771)](https://github.com/erigontech/erigon/commit/d72d0f174f94903b0eb31078d8a6a4e15b3afaf6) - 2025-08-22
+* [Pull Request] [agg: move high-level shared domains tests (rebuild/sqeeze) outside of state package](https://github.com/erigontech/erigon/pull/16769) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b6f6f39c8776537d8b1ce112eae1f0d573db2b4f) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9f52ced002fb404b0700728232bdfc19bced26c0) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b3207c3334b6fb678be25e5db05a01c1e6ac17c7) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/56cb1094a2094a0719751e1c924360d23f6108d0) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5e667421f90e42cd682a1b4708d841a547c0c7c2) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/784225bd4383bc6dbf7061c141436f6e6886130a) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/489930dee5cba8fed8f4db01fbd9c580ad64776d) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/14846469cb139c1e8c2adc8738424419eb14a88e) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8d83affd8ee9ccd2585f255c81c280c4193e3be0) - 2025-08-22
+* [Commit] [moved sqeeze_test to own pkg](https://github.com/erigontech/erigon/commit/a4bd406743cf38c9eebe21dec81b7ef6a69ce49c) - 2025-08-22
+* [Commit] [moved sqeeze_test to own pkg](https://github.com/erigontech/erigon/commit/ba1c5cc9289214fa378d8e63b071385b2d7d253c) - 2025-08-22
+* [Commit] [Fix execution after `getProof` (#16687)](https://github.com/erigontech/erigon/commit/4a118f559b5853b44122201274b89b7f7718260b) - 2025-08-22
+* [Commit] [build(deps): bump github.com/go-viper/mapstructure/v2 from 2.3.0 to 2.4.0 (#16763)](https://github.com/erigontech/erigon/commit/36b87045269c71cbb2697dcf412ec03b9a257702) - 2025-08-22
 ## Q2 2025
 
 

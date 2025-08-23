@@ -28,6 +28,8 @@ Team: Geth
 * [Commit] [downloader: fix comment (#32382)](https://github.com/ethereum/go-ethereum/commit/2485d096f33d1b073230ff9f53c5b5ebf9c293b5) - 2025-08-11
 * [Commit] [miner: remove todo comment (#32389)](https://github.com/ethereum/go-ethereum/commit/6238effeff1ef0f20f4b57188d6c021d7393a6e8) - 2025-08-11
 * [Pull Request] [eth/syncer: fix typo](https://github.com/ethereum/go-ethereum/pull/32427) - 2025-08-13
+* [Commit] [eth, triedb/pathdb: permit write buffer allowance in PBSS archive mode (#32091)](https://github.com/ethereum/go-ethereum/commit/ce63bba361f9b76c326dfeb078872839a8aef06c) - 2025-08-22
+* [Commit] [eth/tracers: Improve test coverage for toWord (#31846)](https://github.com/ethereum/go-ethereum/commit/0287666b7d9beffb93f5a7c6500d242d00dbd085) - 2025-08-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Map TYPE_3_TX_BLOB_COUNT_EXCEEDED](https://github.com/ethereum/execution-spec-tests/pull/1958) - 2025-07-28
 ## Q2 2025

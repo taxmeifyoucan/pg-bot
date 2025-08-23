@@ -67,6 +67,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Fix block type in publish block during equivocation check](https://github.com/OffchainLabs/prysm/pull/15595) - 2025-08-15
 * [Commit] [Fix NewSignedBeaconBlock calls to use Block field for equivocation handling](https://github.com/OffchainLabs/prysm/commit/a2f53f0944cb32f0c92cd06766b61ee2c4eae047) - 2025-08-15
 * [Pull Request] [Implement KZG proof batch verification for data column gossip validation](https://github.com/OffchainLabs/prysm/pull/15609) - 2025-08-20
+* [Commit] [Update consensus spec to v1.6.0-alpha.5 and adjust minimal config](https://github.com/OffchainLabs/prysm/commit/7d39dc6abf5ac85259d7b99c5aa3b27396d74d0b) - 2025-08-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

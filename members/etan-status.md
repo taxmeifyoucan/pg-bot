@@ -21,6 +21,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] [Update EIP-6404: Use correct Python syntax for active_fields](https://github.com/ethereum/EIPs/pull/10097) - 2025-08-04
 * [Pull Request] [Update EIP-7495: Drop 256 entry limit in ProgressiveContainer](https://github.com/ethereum/EIPs/pull/10120) - 2025-08-08
+* [Pull Request] [Update EIP-7495: Reinstate 256 field limit for ProgressiveContainer](https://github.com/ethereum/EIPs/pull/10212) - 2025-08-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add EIP-7916 ProgressiveList specs and tests](https://github.com/ethereum/consensus-specs/pull/4445) - 2025-07-16
 

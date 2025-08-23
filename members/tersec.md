@@ -83,6 +83,18 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Make SyncQueue to be aware of fork boundary. (#7379)](https://github.com/status-im/nimbus-eth2/commit/e339594a04ee666dd943bb9a320a873813e9108b) - 2025-08-21
 * [Commit] [Block production revamp (#7353)](https://github.com/status-im/nimbus-eth2/commit/d74a9622009a538c29b92b2d1b3aa97b4f1d5b6b) - 2025-08-21
 * [Commit] [Block production revamp, part 2 (#7396)](https://github.com/status-im/nimbus-eth2/commit/8f1e91a684c1d7858481e9295eaa512bd109aa8f) - 2025-08-21
+* [Commit] [rm PeerDAS helper functions applying to Electra blocks (#7408)](https://github.com/status-im/nimbus-eth2/commit/51558c2833be314fc77e7c9df3b60f5974e28dbd) - 2025-08-22
+* [Pull Request] [set up gossip validation on BPO forkdigests](https://github.com/status-im/nimbus-eth2/pull/7409) - 2025-08-22
+* [Pull Request] [rm PeerDAS helper functions applying to Electra blocks](https://github.com/status-im/nimbus-eth2/pull/7408) - 2025-08-22
+* [Commit] [rm PeerDAS helper functions applying to Electra blocks](https://github.com/status-im/nimbus-eth2/commit/1480a8578af6dfa173b1f08716514940131284bc) - 2025-08-22
+* [Commit] [don't shadow variable](https://github.com/status-im/nimbus-eth2/commit/68725e8df067aaabb3f832bd8d28be653b7d73d6) - 2025-08-22
+* [Commit] [Block production revamp, part 2 (#7396)](https://github.com/status-im/nimbus-eth2/commit/8f1e91a684c1d7858481e9295eaa512bd109aa8f) - 2025-08-22
+* [Commit] [addBlock changes for columns (#7398)](https://github.com/status-im/nimbus-eth2/commit/e4c8d11a220cd094696279e8b356e24588633a34) - 2025-08-22
+* [Commit] [rm unused remoteFork vars (#7402)](https://github.com/status-im/nimbus-eth2/commit/ffcba0bf1dcdba97b38ae02c1a99ca497d6467a2) - 2025-08-22
+* [Commit] [refactor storeBackfillBlock (#7393)](https://github.com/status-im/nimbus-eth2/commit/dfa9de5b41c55ac95c8b25c2505e543320b943fd) - 2025-08-22
+* [Commit] [use v1.6.0-alpha.5 consensus reference tests (#7407)](https://github.com/status-im/nimbus-eth2/commit/88fce1f29a61865a64869e3e5ee213c0bebed1bb) - 2025-08-22
+* [Commit] [merge in eth2processor with columns (#7390)](https://github.com/status-im/nimbus-eth2/commit/52b9a1ccaeea3192b3609ec3384f9254c2955d33) - 2025-08-22
+* [Pull Request] [use v1.6.0-alpha.5 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/7407) - 2025-08-22
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

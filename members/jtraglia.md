@@ -46,6 +46,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [eip7732: add process execution payload envelope tests (#4458)](https://github.com/ethereum/consensus-specs/commit/62d253d6262eb7e6ea00f902466fd8002833b93b) - 2025-08-20
 * [Commit] [Bump version to v1.6.0-alpha.5 (#4515)](https://github.com/ethereum/consensus-specs/commit/d237704ce954f1a86b1da1b961684d0687201ac4) - 2025-08-21
 * [Pull Request] [Bump version to v1.6.0-alpha.5](https://github.com/ethereum/consensus-specs/pull/4515) - 2025-08-21
+* [Commit] [Improve mkdocs documentation page (#4521)](https://github.com/ethereum/consensus-specs/commit/f05f2d61810b8ff4e1ab64a8241192df3d4a1c22) - 2025-08-22
+* [Pull Request] [Improve mkdocs documentation page](https://github.com/ethereum/consensus-specs/pull/4521) - 2025-08-22
+* [Commit] [Generate spec index pages in mkdocs (#4514)](https://github.com/ethereum/consensus-specs/commit/94e900754fa5f10d0ff6cfb3a1db92556ed3989c) - 2025-08-22
+* [Pull Request] [Add support for shuffled inputs to `recover_cells_and_kzg_proofs`](https://github.com/ethereum/consensus-specs/pull/4519) - 2025-08-22
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 
@@ -54,6 +58,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Remove point-at-infinity filter in g1_lincomb_fast](https://github.com/ethereum/c-kzg-4844/pull/588) - 2025-07-25
 * [Pull Request] [In Java bindings, delete more local references](https://github.com/ethereum/c-kzg-4844/pull/589) - 2025-07-31
 * [Commit] [Bump erlef/setup-beam from 1.20.1 to 1.20.4 in the actions group (#591)](https://github.com/ethereum/c-kzg-4844/commit/4e434532b9115d9b32939ab415834914c7d79c65) - 2025-08-01
+* [Pull Request] [Fix `recover_cells_and_kzg_proofs` to support shuffled indices](https://github.com/ethereum/c-kzg-4844/pull/594) - 2025-08-22
 ## Q2 2025
 
 

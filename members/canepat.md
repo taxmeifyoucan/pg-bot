@@ -57,6 +57,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [qa-tests: extend timeout for tip tracking & migration](https://github.com/erigontech/erigon/pull/16703) - 2025-08-18
 * [Commit] [workaround to fix run_migrations for Polygon Bor](https://github.com/erigontech/erigon/commit/6485c148ccbb7ee834905e21b792722a016a9827) - 2025-08-19
 * [Commit] [[r3.1] qa-tests: stabilise tip tracking & migration (#16718)](https://github.com/erigontech/erigon/commit/8d26a7d2a4570875f556fcbf0fa6344238a2bd42) - 2025-08-21
+* [Commit] [CI: update rpc-tests version with eth_getProof tests on latest (#16682)](https://github.com/erigontech/erigon/commit/7f77a156be324dd3f7ae08068053553c4c67d55c) - 2025-08-22
+* [Commit] [simplify code](https://github.com/erigontech/erigon/commit/d0c4f9926bdd1b31798fe192fe67a3f3cd331efb) - 2025-08-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14

@@ -51,6 +51,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [provide data column storage to rpc handlers (#15606)](https://github.com/OffchainLabs/prysm/commit/08fb3812b7aac4cd68fb66793ec266ee099fd5c1) - 2025-08-21
 * [Commit] [changelog <3](https://github.com/OffchainLabs/prysm/commit/014075a8156c740c98569ccddcdc7740a9785834) - 2025-08-21
 * [Commit] [test](https://github.com/OffchainLabs/prysm/commit/ba431967b1b290d4f4d723cd1010aae28735c071) - 2025-08-21
+* [Pull Request] [Update Github bug template](https://github.com/OffchainLabs/prysm/pull/15623) - 2025-08-22
+* [Issue] [test](https://github.com/OffchainLabs/prysm/issues/15622) - 2025-08-22
 ## Q2 2025
 
 

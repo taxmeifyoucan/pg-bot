@@ -96,6 +96,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Add id to sent txs](https://github.com/ethereum/execution-spec-tests/pull/2056) - 2025-08-20
 * [Pull Request] [refactor(forks): Refactor extract fork until from logic, add BPO forks by default](https://github.com/ethereum/execution-spec-tests/pull/2051) - 2025-08-20
 * [Commit] [fix: tox](https://github.com/ethereum/execution-spec-tests/commit/6f29123619abc376959fde8b89d75f66330d0a39) - 2025-08-20
+* [Commit] [docs: changelog](https://github.com/ethereum/execution-spec-tests/commit/51538c2e50e800511994b41bda1a9ba0af3630af) - 2025-08-22
+* [Commit] [chore(tests): Disable full `HISTORY_SERVE_WINDOW` EIP-2935 Test (#2065)](https://github.com/ethereum/execution-spec-tests/commit/f1d66acc530889a6f05c4fc38c83ccbdffa5ac68) - 2025-08-22
+* [Commit] [feat(tests): enhance eip7825 test coverage for checklist (#2034)](https://github.com/ethereum/execution-spec-tests/commit/3642b2095d05092f84b3ccd39c7cadba546058ea) - 2025-08-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 
