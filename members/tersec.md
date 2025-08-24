@@ -95,6 +95,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [use v1.6.0-alpha.5 consensus reference tests (#7407)](https://github.com/status-im/nimbus-eth2/commit/88fce1f29a61865a64869e3e5ee213c0bebed1bb) - 2025-08-22
 * [Commit] [merge in eth2processor with columns (#7390)](https://github.com/status-im/nimbus-eth2/commit/52b9a1ccaeea3192b3609ec3384f9254c2955d33) - 2025-08-22
 * [Pull Request] [use v1.6.0-alpha.5 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/7407) - 2025-08-22
+* [Commit] [reset some files with unnecessary changes to unstable branch versions](https://github.com/status-im/nimbus-eth2/commit/e14a248790753fe1ed26f1562d7ebcab7975ad6d) - 2025-08-23
+* [Commit] [reset more files with unnecessary changes to unstable branch versions](https://github.com/status-im/nimbus-eth2/commit/ff0a8239bed6e9b8e1c7f2de934848c820893535) - 2025-08-23
+* [Commit] [Refactor fetchMissingColumnsByRoot() and add tests. (#7410)](https://github.com/status-im/nimbus-eth2/commit/d207850e483d6df48b287262f317333be4549928) - 2025-08-23
+* [Commit] [rm PeerDAS helper functions applying to Electra blocks (#7408)](https://github.com/status-im/nimbus-eth2/commit/51558c2833be314fc77e7c9df3b60f5974e28dbd) - 2025-08-23
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

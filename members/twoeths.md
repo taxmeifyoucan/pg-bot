@@ -87,6 +87,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: cli check-types](https://github.com/ChainSafe/lodestar/commit/42bae4bdfdd2d1b195e116b33a7568efca824da2) - 2025-08-21
 * [Pull Request] [feat: implement mock Eth1ForBlockProduction](https://github.com/ChainSafe/lodestar/pull/8237) - 2025-08-21
 * [Issue] [No finalized dataColumnSidecar found for slot=8, index=0](https://github.com/ChainSafe/lodestar/issues/8247) - 2025-08-22
+* [Issue] [[fulu] Self rate limiter failed to track completed errored response](https://github.com/ChainSafe/lodestar/issues/8256) - 2025-08-23
+* [Pull Request] [feat: finalized sync e2e post electra only](https://github.com/ChainSafe/lodestar/pull/8255) - 2025-08-23
+* [Commit] [fix: support 0 to 3 transactions for fulu](https://github.com/ChainSafe/lodestar/commit/86d606e8c045537c2d4d08dc72fa4b453f06b9d0) - 2025-08-23
 ## Q2 2025
 
 

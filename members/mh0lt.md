@@ -180,6 +180,7 @@ Team: Erigon
 * [Commit] [metrics upadtes](https://github.com/erigontech/erigon/commit/21266a9f542e2c60cd31e9e758422267d7ec1131) - 2025-08-20
 * [Commit] [monitor comit progress in exec](https://github.com/erigontech/erigon/commit/0d7a31896d588b21d37bdd51cc5fcf60eab1f602) - 2025-08-21
 * [Commit] [spelling](https://github.com/erigontech/erigon/commit/1124fc6ea1b002ee97e55d22ef40ebea3b688059) - 2025-08-22
+* [Commit] [update printers](https://github.com/erigontech/erigon/commit/ee2e0fff444c3b26e27ab2520def3e4efe426058) - 2025-08-23
 ## Q2 2025
 
 

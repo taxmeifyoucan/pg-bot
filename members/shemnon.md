@@ -22,6 +22,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ash
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [feat: Execute execution-apis-tests in e2e tests](https://github.com/paradigmxyz/reth/pull/17708) - 2025-08-01
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [remove shemnon](https://github.com/protocolguild/documentation/pull/393) - 2025-08-23
 ## Q2 2025
 
 

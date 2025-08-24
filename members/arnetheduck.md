@@ -58,6 +58,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [move database directory to top-level (fixes #1348)](https://github.com/status-im/nimbus-eth1/pull/3566) - 2025-08-15
 * [Issue] [`--network` should allow specifying a folder directly](https://github.com/status-im/nimbus-eth1/issues/3565) - 2025-08-15
 * [Issue] [Discoveryv5 implementation should not use include](https://github.com/status-im/nimbus-eth1/issues/3573) - 2025-08-21
+* [Commit] [add ugly todo for inconsistent state in FC (#3579)](https://github.com/status-im/nimbus-eth1/commit/eed24e942f7372a71d516af477514ef9c650b7a1) - 2025-08-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -127,6 +128,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [raise instead of pthread_kill](https://github.com/status-im/nimbus-eth2/commit/16c9e9d815ed1bf36598d0838d0ba703db05d142) - 2025-08-22
 * [Commit] [raise chronos signal also](https://github.com/status-im/nimbus-eth2/commit/0c68a5f3fa2f893b23178cbcd12786a860daf7c2) - 2025-08-22
 * [Commit] [logging](https://github.com/status-im/nimbus-eth2/commit/21815629fcf9a75e709f1f519a60f46b5be23883) - 2025-08-22
+* [Commit] [restore signal state after waitSignal](https://github.com/status-im/nimbus-eth2/commit/7d5f45ccc8e9767667d5f94b34d8c06b7a914d66) - 2025-08-23
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

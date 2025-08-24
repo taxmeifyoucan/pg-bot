@@ -41,6 +41,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Add files via upload](https://github.com/nerolation/pglanding-nerolation/commit/786b203ac20efd6b4d1ea59eb6db1da458798094) - 2025-07-21
 * [Commit] [Add files via upload](https://github.com/nerolation/pglanding-nerolation/commit/397356c59291489a34e0981a0b7fb975660e8dbd) - 2025-07-21
 
+* [Commit] [Update work.json](https://github.com/nerolation/pglanding-nerolation/commit/c43716b51f693481d03d65cc8ba24f2a03d4592a) - 2025-08-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix duplicate function call](https://github.com/ethereum/consensus-specs/pull/4460) - 2025-07-24
 * [Pull Request] [eip-7732: Fix quorum calc](https://github.com/ethereum/consensus-specs/pull/4465) - 2025-07-25

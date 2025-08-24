@@ -118,6 +118,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [dir improvements: move `rlp` from `erigon-lib` to `execution`](https://github.com/erigontech/erigon/pull/16772) - 2025-08-22
 * [Commit] [rpcdaemon:  modify Error in case of result = nil to avoid panic (#16766)](https://github.com/erigontech/erigon/commit/274c2ab864fc9265e2e8f043323ec55a760b0e19) - 2025-08-22
 * [Commit] [mv rlp to execution](https://github.com/erigontech/erigon/commit/30aea19277746c03fabb97401ae3910714d2c08a) - 2025-08-22
+* [Commit] [dir improvements: mv `compiler` to `execution/abi` (#16783)](https://github.com/erigontech/erigon/commit/a505b82795a1bf0a755e34514bc0788b46d0620e) - 2025-08-23
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

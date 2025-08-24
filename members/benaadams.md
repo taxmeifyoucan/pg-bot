@@ -229,6 +229,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Use single event subscription for NewPayload (#9107)](https://github.com/NethermindEth/nethermind/commit/27e90c1e4340d1b07d18264dcac24bdbb552d617) - 2025-08-20
 * [Commit] [Make CLI show default values in help output (#9152)](https://github.com/NethermindEth/nethermind/commit/b191fb5c4689fb5fcb1d821b5a2e2daa920ccd14) - 2025-08-20
 * [Commit] [Auto-update fast sync settings (#9147)](https://github.com/NethermindEth/nethermind/commit/6ebe4cf79c62c067be952b705a0e08dd19808b3e) - 2025-08-20
+* [Commit] [Optimize Blooms (#9191)](https://github.com/NethermindEth/nethermind/commit/095a4f6c0e3456738365a3b4a3cb49fb32da2f7e) - 2025-08-23
+* [Commit] [Make combined method public](https://github.com/NethermindEth/nethermind/commit/c3f839ed2cb620907b12968caff1c226615136c7) - 2025-08-23
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/075d501b4cb1500d262150a3184fd4ebf0616377) - 2025-08-23
+* [Commit] [bleh](https://github.com/NethermindEth/nethermind/commit/42dce7f1f9395406c0dd86a14c21fb23c6957d9b) - 2025-08-23
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/17061ef9b730d01bb817a667c995153158e1b9ec) - 2025-08-23
+* [Commit] [Apply suggestions from code review](https://github.com/NethermindEth/nethermind/commit/7455109c8524c3e079c7da0016aa5f043c6e9bbb) - 2025-08-23
+* [Pull Request] [Optimize Blooms](https://github.com/NethermindEth/nethermind/pull/9191) - 2025-08-23
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 ## Q2 2025

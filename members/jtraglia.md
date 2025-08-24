@@ -50,6 +50,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Improve mkdocs documentation page](https://github.com/ethereum/consensus-specs/pull/4521) - 2025-08-22
 * [Commit] [Generate spec index pages in mkdocs (#4514)](https://github.com/ethereum/consensus-specs/commit/94e900754fa5f10d0ff6cfb3a1db92556ed3989c) - 2025-08-22
 * [Pull Request] [Add support for shuffled inputs to `recover_cells_and_kzg_proofs`](https://github.com/ethereum/consensus-specs/pull/4519) - 2025-08-22
+* [Commit] [Fix typo in new configuration variable (#4524)](https://github.com/ethereum/consensus-specs/commit/08066798d2f144b4ae63222cc0537c512ae00c00) - 2025-08-23
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

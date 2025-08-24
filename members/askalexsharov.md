@@ -916,6 +916,28 @@ Team: Erigon
 * [Commit] [moved sqeeze_test to own pkg](https://github.com/erigontech/erigon/commit/ba1c5cc9289214fa378d8e63b071385b2d7d253c) - 2025-08-22
 * [Commit] [Fix execution after `getProof` (#16687)](https://github.com/erigontech/erigon/commit/4a118f559b5853b44122201274b89b7f7718260b) - 2025-08-22
 * [Commit] [build(deps): bump github.com/go-viper/mapstructure/v2 from 2.3.0 to 2.4.0 (#16763)](https://github.com/erigontech/erigon/commit/36b87045269c71cbb2697dcf412ec03b9a257702) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6a3dc36d4725491ce1a2c467959d65b9da356c31) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/edae41e0a3c3bd70d49a4acbda13a148b01d8c8c) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6a9d4b0f05f43ab3275945b35d0508c13850dbc5) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c9aefb63f0cd48f498edcb3ccfadba0a073ca7c2) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d84f9d2f5408f962c4468419f945de3bba675f16) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/19ed60479ea72d45935cc6fe8cfbe9e4b0add169) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c0c6ffc4da5ffc70703a3fc955f1cd96308e4799) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7a21e0da357e780d30bafeb9f69d367a56fac28e) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/17cf947407ba2a0ad6af4f54622d76cfee5ec7ec) - 2025-08-23
+* [Commit] [Fix execution after `getProof` (#16687)](https://github.com/erigontech/erigon/commit/4a118f559b5853b44122201274b89b7f7718260b) - 2025-08-23
+* [Commit] [[r31] avoid extraneous commitment logs in rm-state (#16771)](https://github.com/erigontech/erigon/commit/d72d0f174f94903b0eb31078d8a6a4e15b3afaf6) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/743130713628851bc603f21db99b26c24606cef1) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4c6ff47bd262fbde73cfc8fe44a19552f733985a) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d06c91c14f3ac44ae078a30fa11e47dd0870793d) - 2025-08-23
+* [Issue] [`bt` index: speed of `.Get` method](https://github.com/erigontech/erigon/issues/16789) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a0cbc639cffaca797ad8dff4e8e14807fcc0fac8) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/95673b8ed697acd7670691de975e2cddbe81c338) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1a9161b1a71f18723fc9e55f1808b91472a95a03) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/87060b8ee469dbea7ec6fdd5e3aefa9ecec87bbd) - 2025-08-23
+* [Commit] [integration: fix database not initialized in run_migrations (#16762)](https://github.com/erigontech/erigon/commit/8f7571cfb49d17c7088ada25fc9c9d53f3193731) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5a787600b08181bd607ee307cde59b5a78732cf7) - 2025-08-23
+* [Commit] [save](https://github.com/erigontech/erigon/commit/580e5967536e8e28b9675c5296549e1d0104057e) - 2025-08-23
 ## Q2 2025
 
 

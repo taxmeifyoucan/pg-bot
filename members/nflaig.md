@@ -100,6 +100,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Remove redundant check](https://github.com/ChainSafe/lodestar/commit/635a24dfceab01959c2abd2b79dc88e250c809f9) - 2025-08-22
 * [Pull Request] [feat: serve data columns by root for finalized epochs](https://github.com/ChainSafe/lodestar/pull/8250) - 2025-08-22
 * [Commit] [feat: serve data columns by root for finalized epochs](https://github.com/ChainSafe/lodestar/commit/2131116d2ed37cfef1ceae1389e290b4858d48fe) - 2025-08-22
+* [Commit] [Update spec reference](https://github.com/ChainSafe/lodestar/commit/1bfa3da76e56162a9aec67215e474aaac61bc627) - 2025-08-23
+* [Pull Request] [fix: select correct type when persisting invalid attestations](https://github.com/ChainSafe/lodestar/pull/8257) - 2025-08-23
+* [Commit] [Fix type](https://github.com/ChainSafe/lodestar/commit/74bd98e99083d19dc7d830f5cc00ab964ef51341) - 2025-08-23
+* [Commit] [Update packages/beacon-node/src/chain/blocks/verifyBlock.ts](https://github.com/ChainSafe/lodestar/commit/87c7c1d9ea903b433db8a83726476275805106f7) - 2025-08-23
+* [Commit] [Update packages/beacon-node/src/chain/blocks/verifyBlock.ts](https://github.com/ChainSafe/lodestar/commit/10c9ec0a85fa28342936c89dff0f59e5a52c51bf) - 2025-08-23
 ## Q2 2025
 
 

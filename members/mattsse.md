@@ -143,6 +143,7 @@ Team: Reth
 * [Pull Request] [fix: rlp encoding for sealedblock](https://github.com/paradigmxyz/reth/pull/18003) - 2025-08-22
 * [Issue] [SealedBlock encodable only encodes the body](https://github.com/paradigmxyz/reth/issues/18002) - 2025-08-22
 * [Commit] [fix(revm-inspectors): update revm-inspectors to fix js tracer opcode gas calculation (#17986)](https://github.com/paradigmxyz/reth/commit/e9d40200573e5a00bb404319f1cb9a68c9bb27a3) - 2025-08-22
+* [Pull Request] [feat: add accessor methods for RPC handle types](https://github.com/paradigmxyz/reth/pull/18016) - 2025-08-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19
