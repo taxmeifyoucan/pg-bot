@@ -61,6 +61,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Only send lookup requests to peers that are synced or advacned](https://github.com/sigp/lighthouse/pull/7913) - 2025-08-21
 * [Pull Request] [Prioritise `StatusV2` over `StatusV1` RPC protocol](https://github.com/sigp/lighthouse/pull/7912) - 2025-08-21
 * [Pull Request] [Use scoped rayon pool for backfill chain segment processing](https://github.com/sigp/lighthouse/pull/7924) - 2025-08-22
+* [Pull Request] [Fix RPC blocks not getting fully KZG verified](https://github.com/sigp/lighthouse/pull/7927) - 2025-08-25
+* [Issue] [Seeing immediate stream terminations on `DataColumnsByRoot` messages](https://github.com/sigp/lighthouse/issues/7926) - 2025-08-24
 ## Q2 2025
 
 

@@ -175,6 +175,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat(fusaka): Add PrecompileId (#2904)](https://github.com/bluealloy/revm/commit/ae1655da953356fa6707e529bec09f80dd88abde) - 2025-08-21
 * [Commit] [chore: skip drain if checkpoing is incosistent](https://github.com/bluealloy/revm/commit/409c2b3b1a905de148f3cf21bbefabbe6014e561) - 2025-08-21
 * [Commit] [wip](https://github.com/bluealloy/revm/commit/83f3c30d8d214fb82efcdc7822b677a8d7e3d652) - 2025-08-23
+* [Commit] [bump: tag v86 revm v29.0.0 (#2912)](https://github.com/bluealloy/revm/commit/191fa780c76e452b2eae482f9a08873056590fbe) - 2025-08-24
+* [Pull Request] [bump: tag v86 revm v29.0.0](https://github.com/bluealloy/revm/pull/2912) - 2025-08-24
+* [Commit] [chore: release (#2899)](https://github.com/bluealloy/revm/commit/d0c8b255cb1d0145b96688ee3b1278123f8ac047) - 2025-08-24
+* [Commit] [calls instruction load and calc target gas](https://github.com/bluealloy/revm/commit/939fd7f11cde754883a309d5d5766782e693fe4c) - 2025-08-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

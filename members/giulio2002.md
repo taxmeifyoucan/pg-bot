@@ -183,6 +183,20 @@ Team: Erigon
 * [Commit] [Fix execution after `getProof` (#16687)](https://github.com/erigontech/erigon/commit/4a118f559b5853b44122201274b89b7f7718260b) - 2025-08-16
 * [Commit] [more unittests and spectests for fulu (#16623)](https://github.com/erigontech/erigon/commit/c4058fd23157427007efae4ea80ee8dd75ad8f6d) - 2025-08-18
 * [Commit] [Restore flag's default value (#16169)](https://github.com/erigontech/erigon/commit/7eca9d3179333a5d0a8bad561a9ab6aa7957fcad) - 2025-08-18
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0229ae5c9cc14d3a6fb8f337ecebf27d084104dc) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3f103f42e386f10d6067e08e408d098395a0c72d) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7783ed36136f64240019f51b4beb3f2a59df115d) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ed02dee5e91bbe53a30db0b247ca42835a9960b1) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b12769bfe5902d624ae8bbb4f686eeaccef82726) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e9bd1072eeeb1a8aa623f895c87144b64b0834f4) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0849a2f71ff5b5f74d2f03a02bbcdf5468e7820f) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fa82eca93c0583d32531a429b2d180da661827a1) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/507fcc8a5a71f1eee07d96aeee515a137e99eedf) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bae1dfb4a7faf1388bcbed50527650ebee417f3f) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c6c5f6c58034bd847689be08e54a567d10a58569) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/41a914a288175bdad1a14c6666ab29b1ee82b7a3) - 2025-08-24
+* [Pull Request] [WIP: History dedup optimization](https://github.com/erigontech/erigon/pull/16791) - 2025-08-24
+* [Commit] [Revert "rpcd: do txpool version compat check only when txpool is needed" (#16747)](https://github.com/erigontech/erigon/commit/f0f08211da759b498006f6299e1489e0c09e622a) - 2025-08-24
 ## Q2 2025
 
 

@@ -99,6 +99,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [reset more files with unnecessary changes to unstable branch versions](https://github.com/status-im/nimbus-eth2/commit/ff0a8239bed6e9b8e1c7f2de934848c820893535) - 2025-08-23
 * [Commit] [Refactor fetchMissingColumnsByRoot() and add tests. (#7410)](https://github.com/status-im/nimbus-eth2/commit/d207850e483d6df48b287262f317333be4549928) - 2025-08-23
 * [Commit] [rm PeerDAS helper functions applying to Electra blocks (#7408)](https://github.com/status-im/nimbus-eth2/commit/51558c2833be314fc77e7c9df3b60f5974e28dbd) - 2025-08-23
+* [Commit] [rm no-op type conversion](https://github.com/status-im/nimbus-eth2/commit/897c5cccca4f02b3a8b44b7c31d058e4adcd0909) - 2025-08-24
+* [Pull Request] [create_blob_sidecars() likely doesn't work properly with Fulu/columns](https://github.com/status-im/nimbus-eth2/pull/7413) - 2025-08-24
+* [Commit] [create_blob_sidecars() likely doesn't work properly with Fulu/columns](https://github.com/status-im/nimbus-eth2/commit/deaddef2902ca489490dc45d8b53773ecac3796a) - 2025-08-24
+* [Commit] [consolidate blobsBundle and blobsBundleV2 fields](https://github.com/status-im/nimbus-eth2/commit/a5bc9e751514bb937b74a740ad92f30a8558ce2a) - 2025-08-24
+* [Commit] [add fulu.KzgProofs/fulu.BlobsBundle and disambiguate elsewhere (#7412)](https://github.com/status-im/nimbus-eth2/commit/1be318565a36f98cc2c8af79b84f958272ce83c5) - 2025-08-24
+* [Commit] [Apply suggestions from code review](https://github.com/status-im/nimbus-eth2/commit/83706353043d38def1cbec998c5a8d20cf19206a) - 2025-08-24
+* [Commit] [Update beacon_chain/spec/datatypes/fulu.nim](https://github.com/status-im/nimbus-eth2/commit/d0136b2ce1ef2f3c1280ca7becd78f72f4cd6d20) - 2025-08-24
+* [Pull Request] [add fulu.KzgProofs/fulu.BlobsBundle and disambiguate elsewhere](https://github.com/status-im/nimbus-eth2/pull/7412) - 2025-08-24
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

@@ -131,6 +131,24 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Add rate limiter check.](https://github.com/OffchainLabs/prysm/commit/6e02170881efefefa4aeb2ff8a14d140a18a1d8d) - 2025-08-15
 * [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/41cf0ec59e458a503a6adc09856b0359b09b7321) - 2025-08-15
 * [Commit] [Fix Potuz's and Preston's comment.](https://github.com/OffchainLabs/prysm/commit/bf6007c5f0d1870106acbc64baf2e61b942c9dd5) - 2025-08-15
+* [Commit] [Update go to v1.24.5 (#15561)](https://github.com/OffchainLabs/prysm/commit/181df3995eaaf9a7d3bbab1aa25756ac0d8ec5b6) - 2025-08-25
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/cfe29850b2821aa646ec31ae7523674ff5fe8228) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/ed6aab5e16ffee7ae6f3d60c8433ae817a38d203) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/78ec0f46033c2320960b3605e32f0218dc9e68d6) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/6d04364993a4f06b62eed1be255ad420ac4d54cc) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/e87a138f98a955be7309e8fb323a0f1587b2a598) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/a5e722167b4ea9ffd5725b641339682ae31dc89a) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/17175b9d31585746107eb5d6cfad5e6bbf6126a2) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/c66e9fb7649adead47882af89fa330e01fbfba14) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/7e680bdc5b076f7371e1b912c7864678a6862062) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/398deaed3774bcddf8444651b52c501e7f64cc29) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/47d13eb86c4383459fd2e0517cd487ebe032cdbc) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/626cc483e79e40f8e9225f1e5c1d1dfdfc8b5559) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/93eab2ef2fe3628565e8453d3260be45a47a1d5e) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/8cb29702bf48dd0d88a7671f5f5733d70445f12f) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/17f4883ffc1e356016e54ff298ccfdb8119debc9) - 2025-08-24
+* [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/0692b1e60af8efb365fd7e7aa76146d4eab7c5c5) - 2025-08-24
+* [Commit] [Update endpoint to return 404 after isOptimistic check (#15559)](https://github.com/OffchainLabs/prysm/commit/acf35e849e93e17ba0868a772cf02fa7376b9aec) - 2025-08-24
 ## Q2 2025
 
 

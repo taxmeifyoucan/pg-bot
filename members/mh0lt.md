@@ -181,6 +181,8 @@ Team: Erigon
 * [Commit] [monitor comit progress in exec](https://github.com/erigontech/erigon/commit/0d7a31896d588b21d37bdd51cc5fcf60eab1f602) - 2025-08-21
 * [Commit] [spelling](https://github.com/erigontech/erigon/commit/1124fc6ea1b002ee97e55d22ef40ebea3b688059) - 2025-08-22
 * [Commit] [update printers](https://github.com/erigontech/erigon/commit/ee2e0fff444c3b26e27ab2520def3e4efe426058) - 2025-08-23
+* [Commit] [add trace prefix](https://github.com/erigontech/erigon/commit/904b64596839f5c774de28ff81adc3373555e534) - 2025-08-24
+* [Commit] [update printers](https://github.com/erigontech/erigon/commit/1669e5d4300586840d2b9299affc72b8ad55a729) - 2025-08-24
 ## Q2 2025
 
 

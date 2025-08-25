@@ -72,6 +72,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/46bab54ce631cfbcc87bc1803fb6efccef800b53) - 2025-08-20
 * [Pull Request] [Get blob fulu](https://github.com/OffchainLabs/prysm/pull/15610) - 2025-08-20
 * [Pull Request] [fix proposer duties fulu](https://github.com/OffchainLabs/prysm/pull/15624) - 2025-08-22
+* [Commit] [file changes from peerdas branch](https://github.com/OffchainLabs/prysm/commit/fac3a3361906f5fb0b7343f35689b2ccca5b4a52) - 2025-08-24
+* [Commit] [Update consensus spec to v1.6.0-alpha.5 and adjust minimal config (#15621)](https://github.com/OffchainLabs/prysm/commit/d48ed44c4c75d31a5b6389627e9cbc4b4f79ec2f) - 2025-08-24
+* [Pull Request] [fulu block proposals with datacolumn broadcast](https://github.com/OffchainLabs/prysm/pull/15628) - 2025-08-24
 ## Q2 2025
 
 

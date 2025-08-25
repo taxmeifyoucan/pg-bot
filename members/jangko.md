@@ -167,6 +167,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Deprecate '--custom-network' and merge it's functionality to '--network'  (#3567)](https://github.com/status-im/nimbus-eth1/commit/13954e240ba3cdcc9548b6cddd73251af704d22f) - 2025-08-19
 * [Commit] [move database directory to top-level (fixes #1348) (#3566)](https://github.com/status-im/nimbus-eth1/commit/eae763d5df539e69fd917733900ebcb0f26bf252) - 2025-08-19
 * [Commit] [Execute EEST engine api test vectors in CI/local (#3564)](https://github.com/status-im/nimbus-eth1/commit/ec19ebe3ef5cd5a65e5443e0644df4defb269260) - 2025-08-19
+* [Commit] [evmstate_test also use new skip rules](https://github.com/status-im/nimbus-eth1/commit/6acb788d6caba02a8d23dc6cd85814e9dd9059f1) - 2025-08-24
+* [Commit] [Skip only time consuming tests](https://github.com/status-im/nimbus-eth1/commit/096b8533386a000aa198e539f284ea8623758983) - 2025-08-24
+* [Commit] [Fix EIP-7702 transaction validation: destination must not be empty](https://github.com/status-im/nimbus-eth1/commit/750a43a3bd6df93117a6ccc368cb227ac48658c7) - 2025-08-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

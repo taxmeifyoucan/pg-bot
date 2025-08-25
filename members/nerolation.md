@@ -31,9 +31,11 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [EIP-7928: Update System Contract Handling](https://github.com/ethereum/EIPs/pull/10144) - 2025-08-14
 * [Pull Request] [EIP-7928: Update system contract handling and move from ssz to rlp](https://github.com/ethereum/EIPs/pull/10161) - 2025-08-16
 * [Pull Request] [EIP-7928: Fix sys contract address in example](https://github.com/ethereum/EIPs/pull/10180) - 2025-08-18
+* [Pull Request] [Update EIP-7981: Add EELS spec implementation](https://github.com/ethereum/EIPs/pull/10225) - 2025-08-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add Specs: EIP-7928: Block-level Access Lists](https://github.com/ethereum/execution-specs/pull/1338) - 2025-07-21
 
+* [Pull Request] [Add EIP-7981 Implementation](https://github.com/ethereum/execution-specs/pull/1384) - 2025-08-24
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [test: add max block size test using access lists](https://github.com/ethereum/execution-spec-tests/pull/1932) - 2025-07-21
 

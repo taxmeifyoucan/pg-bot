@@ -30,6 +30,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix: BlockReceiptsTracer not forwarding stateRoot to inner tracers (#9129)](https://github.com/NethermindEth/nethermind/commit/7997bb8abaf77b03030973496a3fd64ead3dcdf1) - 2025-08-16
 * [Commit] [Update OP Superchain chains (#9148)](https://github.com/NethermindEth/nethermind/commit/adffae82243b419493652f6784f3f8defc4583c2) - 2025-08-21
 * [Commit] [Handle Cancellation in SyncPeerPool.Allocate (#9173)](https://github.com/NethermindEth/nethermind/commit/d58615f8b6649eadd2d246693687eebc090190bb) - 2025-08-21
+* [Commit] [Update OP Superchain chains (#9194)](https://github.com/NethermindEth/nethermind/commit/4a07d664ef980d0ccea10a79e2124b84744ebbf4) - 2025-08-24
+* [Commit] [Auto-update fast sync settings (#9193)](https://github.com/NethermindEth/nethermind/commit/bac5b2a63cc38cbf172fb24aee00c3e6a2ed4ea4) - 2025-08-24
 ## Q2 2025
 
 

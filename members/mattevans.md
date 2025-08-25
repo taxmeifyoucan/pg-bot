@@ -32,6 +32,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Pull Request] [docs: remove stray "test" line from README](https://github.com/ethpandaops/contributoor/pull/138) - 2025-08-18
 
+* [Commit] [ci: add fusaka integration test workflow and update kurtosis config](https://github.com/ethpandaops/contributoor/commit/a3613ff7a0c8fc72e028ce741f2c9b28d59a7c3e) - 2025-08-24
+* [Pull Request] [ci: add fusaka integration test workflow and update kurtosis config](https://github.com/ethpandaops/contributoor/pull/139) - 2025-08-24
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Commit] [feat(libp2p): heartbeat](https://github.com/ethpandaops/xatu/commit/e0b608e1bc89e515df25b8954cf64fc9be20f2a1) - 2025-08-20
 * [Commit] [fix(vector): ensure libp2p heartbeat fields match ClickHouse schema](https://github.com/ethpandaops/xatu/commit/c50696bfd15f0566025dcc716e77c1ff5c8a1575) - 2025-08-20
