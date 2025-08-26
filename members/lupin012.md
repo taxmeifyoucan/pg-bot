@@ -50,6 +50,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [update](https://github.com/erigontech/erigon/commit/6f945a0042880bbcf8b05871ba84c06fe5d67420) - 2025-08-22
 * [Commit] [updated version](https://github.com/erigontech/erigon/commit/b27138334330ddc6c76d5c7a920e1aa9e16446cf) - 2025-08-22
 * [Commit] [run integration tests script](https://github.com/erigontech/erigon/commit/344e7bd83729cd94681330cd84246e2daaf8262d) - 2025-08-23
+* [Commit] [modify Usage](https://github.com/erigontech/erigon/commit/d6092a0e2e796c1c5d1a79176dea770fc43b8e7a) - 2025-08-25
+* [Commit] [modify the comment](https://github.com/erigontech/erigon/commit/79d071c5aa67d7df9f7a409e549a37519a7d03ae) - 2025-08-25
+* [Commit] [modify PARAM name](https://github.com/erigontech/erigon/commit/b99c4081a2b3061764954f9eede0dcebe3c8f7b6) - 2025-08-25
+* [Commit] [update end point](https://github.com/erigontech/erigon/commit/a578a09900639c7e11b3da2da011c38ea3fbe1d9) - 2025-08-25
+* [Commit] [add loop on retries and fixes](https://github.com/erigontech/erigon/commit/979b5d02f3c323f56c1c31d57e5f60280c23461b) - 2025-08-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
@@ -76,6 +81,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [inetgeration: Fix expected get proof on latest](https://github.com/erigontech/rpc-tests/pull/439) - 2025-08-20
 * [Pull Request] [integration: fix in case of failed json-diff](https://github.com/erigontech/rpc-tests/pull/438) - 2025-08-20
 * [Pull Request] [integration: Fix in case of  failed jsondiff](https://github.com/erigontech/rpc-tests/pull/437) - 2025-08-20
+* [Pull Request] [run_test: fix on option verify_external-provider](https://github.com/erigontech/rpc-tests/pull/442) - 2025-08-25
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

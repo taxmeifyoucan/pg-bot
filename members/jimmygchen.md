@@ -63,6 +63,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Use scoped rayon pool for backfill chain segment processing](https://github.com/sigp/lighthouse/pull/7924) - 2025-08-22
 * [Pull Request] [Fix RPC blocks not getting fully KZG verified](https://github.com/sigp/lighthouse/pull/7927) - 2025-08-25
 * [Issue] [Seeing immediate stream terminations on `DataColumnsByRoot` messages](https://github.com/sigp/lighthouse/issues/7926) - 2025-08-24
+* [Pull Request] [Fix race condition causing data columns getting inserted into DA checker after block is imported](https://github.com/sigp/lighthouse/pull/7931) - 2025-08-25
+* [Pull Request] [Run sync tests on CI by default.](https://github.com/sigp/lighthouse/pull/7929) - 2025-08-25
+* [Pull Request] [Fix `DataColumnsByRoot` request limit validation bug](https://github.com/sigp/lighthouse/pull/7928) - 2025-08-25
 ## Q2 2025
 
 

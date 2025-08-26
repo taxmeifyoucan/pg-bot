@@ -53,6 +53,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix types](https://github.com/ChainSafe/lodestar/commit/351ef8c57618096d6a858765ab1a8614c50721ca) - 2025-08-22
 * [Commit] [Update the request handler to not throw error](https://github.com/ChainSafe/lodestar/commit/104f2e279d86bd6af52d4206d359100f51175f64) - 2025-08-22
 * [Pull Request] [fix: the dataColumnSidecarsByRoot request empty check ](https://github.com/ChainSafe/lodestar/pull/8251) - 2025-08-22
+* [Commit] [Fix building step](https://github.com/ChainSafe/lodestar/commit/28c20de56f836aa8a17075bda7a54514f7d4830d) - 2025-08-25
+* [Commit] [Revert changes for comments](https://github.com/ChainSafe/lodestar/commit/ae1ec4f2d39adac5f2e40f3cfea77c7c32a6c083) - 2025-08-25
+* [Commit] [Update yarn.lock file](https://github.com/ChainSafe/lodestar/commit/aacded79afba1120f5f01e1a5d2daa593bda0cd4) - 2025-08-25
+* [Commit] [deps: upgrade @chainsafe/biomejs-config version](https://github.com/ChainSafe/lodestar/commit/3c8de56273e142605a7631a6c7912f07ecc47b99) - 2025-08-25
+* [Commit] [Remove unused overrides](https://github.com/ChainSafe/lodestar/commit/4c95a3750933a37bdc218dd4869eda932ad558a3) - 2025-08-25
+* [Commit] [Fix sorting attributes and imports](https://github.com/ChainSafe/lodestar/commit/15e4749876ada6cd3bef40a3323474308f765339) - 2025-08-25
+* [Commit] [Squashed commit of the following:](https://github.com/ChainSafe/lodestar/commit/5c24ff62a4151479bee74896664ed30237e341d7) - 2025-08-25
+* [Commit] [Update the package version for biome](https://github.com/ChainSafe/lodestar/commit/56e0afa01f7ac0d0e241485c0fc23ed7b36b72ea) - 2025-08-25
+* [Pull Request] [refactor: remove cpu features direct dependency](https://github.com/ChainSafe/lodestar/pull/8261) - 2025-08-25
+* [Commit] [Add filter for data column indexes](https://github.com/ChainSafe/lodestar/commit/87bb4580beb0455aa916a20cca9aa02768b1d588) - 2025-08-25
+* [Commit] [Update the request logging for data column sidecars](https://github.com/ChainSafe/lodestar/commit/e74fe1e87414332d59c97e4e6f74ad3e5f8715ef) - 2025-08-25
 ## Q2 2025
 
 

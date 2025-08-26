@@ -37,6 +37,7 @@ Team: Reth
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [perf: avoid allocation when storing nibbles](https://github.com/paradigmxyz/reth/issues/17810) - 2025-08-12
+* [Pull Request] [chore: remove msrv from clippy.toml](https://github.com/paradigmxyz/reth/pull/18034) - 2025-08-25
 ## Q2 2025
 
 

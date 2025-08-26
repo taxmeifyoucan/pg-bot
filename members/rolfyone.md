@@ -54,6 +54,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Updated the voluntary exit validation to allow a slow retry (#9785)](https://github.com/Consensys/teku/commit/3d64ab9d4ae1d82758a0ea790062b3ecd1ca28f7) - 2025-08-21
 * [Commit] [updated reference tests to alpha.5 (#9792)](https://github.com/Consensys/teku/commit/c4e7185250fb81d7256db12eb043667e36c0541f) - 2025-08-22
 * [Pull Request] [draft addition of config for gloas](https://github.com/Consensys/teku/pull/9800) - 2025-08-23
+* [Pull Request] [reduced integration test container](https://github.com/Consensys/teku/pull/9802) - 2025-08-25
+* [Commit] [added config for gloas and basis points (#9800)](https://github.com/Consensys/teku/commit/8b4cecfc7ea1e9ce5c7dbed6dc940b9609b56090) - 2025-08-25
 ## Q2 2025
 
 

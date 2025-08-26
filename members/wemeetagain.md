@@ -71,6 +71,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: move peer id file error due to file not found to debug (#8230)](https://github.com/ChainSafe/lodestar/commit/c1c459466f80f1251bf3be0983d82477b26ea655) - 2025-08-21
 * [Commit] [fix: choose more profitable block only based on execution payload value (#8246)](https://github.com/ChainSafe/lodestar/commit/4641b565d55a6ea1982c083fefebf7c71be9ebb9) - 2025-08-22
 * [Commit] [fix: apply correct count limit in blob sidecars by range (#8248)](https://github.com/ChainSafe/lodestar/commit/5cbb0ad7d4fe0cff911188016d1e5482de70a7e2) - 2025-08-22
+* [Issue] [Node slow to sync](https://github.com/ChainSafe/lodestar/issues/8263) - 2025-08-25
+* [Commit] [feat: print out blob parameters if BPO fork is activated (#8253)](https://github.com/ChainSafe/lodestar/commit/cc8c1ac67e7515f824c54e8fd782d3d6ad1913ca) - 2025-08-25
+* [Commit] [chore: track DataColumnSidecar errors on Grafana (#8259)](https://github.com/ChainSafe/lodestar/commit/58a8297a161c0def525929fc90587cef8b1939d4) - 2025-08-25
 ## Q2 2025
 
 

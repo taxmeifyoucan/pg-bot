@@ -59,11 +59,14 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [[r3.1] qa-tests: stabilise tip tracking & migration (#16718)](https://github.com/erigontech/erigon/commit/8d26a7d2a4570875f556fcbf0fa6344238a2bd42) - 2025-08-21
 * [Commit] [CI: update rpc-tests version with eth_getProof tests on latest (#16682)](https://github.com/erigontech/erigon/commit/7f77a156be324dd3f7ae08068053553c4c67d55c) - 2025-08-22
 * [Commit] [simplify code](https://github.com/erigontech/erigon/commit/d0c4f9926bdd1b31798fe192fe67a3f3cd331efb) - 2025-08-22
+* [Pull Request] [qa-tests: sync-from-scratch for Hoodi network](https://github.com/erigontech/erigon/pull/16809) - 2025-08-25
+* [Commit] [CI: RPC integration test on Latest (#16785)](https://github.com/erigontech/erigon/commit/8fdb172c8d679226b7b6fd44cbd789290bbd2cba) - 2025-08-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14
 * [Commit] [performance: add eth_getProof pattern (#432)](https://github.com/erigontech/rpc-tests/commit/8a2ee5cbb257db4472a2cab6444083520174ea49) - 2025-08-14
 * [Commit] [integration: add arbitrum suite for sepolia (#436)](https://github.com/erigontech/rpc-tests/commit/0de13334912ef3b63b7b37567388ab8368df6c16) - 2025-08-21
+* [Commit] [integration: fix verify-external-provider option in test runner (#442)](https://github.com/erigontech/rpc-tests/commit/eef8fee0feb180b6d4119a0ea1c065c0e925d2b0) - 2025-08-25
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

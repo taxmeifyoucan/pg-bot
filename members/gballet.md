@@ -17,6 +17,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [cmd/evm/internal/t8ntool: support for verkle-at-genesis](https://github.com/ethereum/go-ethereum/pull/32445) - 2025-08-14
 * [Pull Request] [cmd/evm: use PathScheme in blockrunner](https://github.com/ethereum/go-ethereum/pull/32444) - 2025-08-14
 * [Commit] [fixes missing protection of nil pointer dereference in scwallet (#32186)](https://github.com/ethereum/go-ethereum/commit/39ab721992e634f3b0adb3e08b16fb0c4d8a379c) - 2025-08-21
+* [Commit] [.github/workflows: naive PR format checker (#32480)](https://github.com/ethereum/go-ethereum/commit/a9ac2755886299eb200e9725c6412f7bfca83246) - 2025-08-25
+* [Commit] [core,trie: fix typo in TransitionTrie (#32491)](https://github.com/ethereum/go-ethereum/commit/d0602ba45a651e5a3d40ecd7cc4deab8a8625e76) - 2025-08-25
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Commit] [make LoadTransitionState cacheless and move it to the overlay pkg](https://github.com/gballet/go-ethereum/commit/0f37c99d3457791f97995b08c2f6d53f4a5b37c6) - 2025-08-04
 * [Commit] [move transition state to its own file](https://github.com/gballet/go-ethereum/commit/f0f51d1ef458c1593e908741180615ad83fd07eb) - 2025-08-04
@@ -33,6 +35,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [fix tests in https://github.com/ethereum/go-ethereum/pull/32445 (#548)](https://github.com/gballet/go-ethereum/commit/694b6a1df05e8d79031ccad1f7a6abb1ca351227) - 2025-08-20
 * [Commit] [eth/catalyst:  in tests, manually sync txpool after initial chain insertion to prevent race between txpool head reset and promotion of txs that will be subsequently added (#31595)](https://github.com/gballet/go-ethereum/commit/9b4eab6a29704f55fa7b4b92e296094f0dbcee22) - 2025-08-20
 * [Commit] [comment out the milestone check](https://github.com/gballet/go-ethereum/commit/0647bdb5559d97fd882012f985ada2d8bb7884d1) - 2025-08-22
+* [Commit] [log stuff to the console](https://github.com/gballet/go-ethereum/commit/0847f5b31b8d134b5b43401c367e5f83303b09d1) - 2025-08-25
+* [Commit] [switch blake3 -> sha256](https://github.com/gballet/go-ethereum/commit/1fe759c98567344af5cfb4315cfe782ddebf2d53) - 2025-08-25
+* [Commit] [switch blake3 -> sha256](https://github.com/gballet/go-ethereum/commit/295fd383efc34377ce2e45c299d973ee74a2e033) - 2025-08-25
+* [Commit] [push missing verkle iterator files (#550)](https://github.com/gballet/go-ethereum/commit/5130362a9efd806e75760d25265b9f4e9be7c056) - 2025-08-25
+* [Commit] [remove commented out code](https://github.com/gballet/go-ethereum/commit/12e6a796c68b033fb1a71afe74760ef6ac2a1a82) - 2025-08-25
 ## Q2 2025
 
 

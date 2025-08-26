@@ -75,6 +75,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [file changes from peerdas branch](https://github.com/OffchainLabs/prysm/commit/fac3a3361906f5fb0b7343f35689b2ccca5b4a52) - 2025-08-24
 * [Commit] [Update consensus spec to v1.6.0-alpha.5 and adjust minimal config (#15621)](https://github.com/OffchainLabs/prysm/commit/d48ed44c4c75d31a5b6389627e9cbc4b4f79ec2f) - 2025-08-24
 * [Pull Request] [fulu block proposals with datacolumn broadcast](https://github.com/OffchainLabs/prysm/pull/15628) - 2025-08-24
+* [Commit] [propose block changes from peerdas branch](https://github.com/OffchainLabs/prysm/commit/93695eefc4cc8a537ec576fe18219cb28cda8d56) - 2025-08-25
+* [Commit] [Update consensus spec to v1.6.0-alpha.5 and adjust minimal config (#15621)](https://github.com/OffchainLabs/prysm/commit/d48ed44c4c75d31a5b6389627e9cbc4b4f79ec2f) - 2025-08-25
+* [Commit] [propose block changes from peerdas branch](https://github.com/OffchainLabs/prysm/commit/8dadd56423815d4ccacbfe2802ff0363dfc42693) - 2025-08-25
+* [Commit] [propose block changes from peerdas branch](https://github.com/OffchainLabs/prysm/commit/88d729c0907a7a87f70cf62a8fd5ee0e494053ac) - 2025-08-25
+* [Commit] [propose block changes from peerdas branch](https://github.com/OffchainLabs/prysm/commit/e63e5af8ec5b1d370e25c1d400d7c1d2e3dfd216) - 2025-08-25
+* [Commit] [propose block changes from peerdas branch](https://github.com/OffchainLabs/prysm/commit/cea9503b14765f428906c4ad587b8b5c8077a847) - 2025-08-25
 ## Q2 2025
 
 

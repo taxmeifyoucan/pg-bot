@@ -109,12 +109,19 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(ci): fix fill prepatched coverage script fork compatibility (#2062)](https://github.com/ethereum/execution-spec-tests/commit/f9bfe4d28c20f82597a0c7dcb6de3929951737b6) - 2025-08-22
 * [Commit] [chore(ci): update fill prepatched script.](https://github.com/ethereum/execution-spec-tests/commit/cb2295cf06e935c96c5cb685ecd6c4441f01cb33) - 2025-08-22
 * [Commit] [feat(execute): Add identifiers to sent txs (#2056)](https://github.com/ethereum/execution-spec-tests/commit/961cdc8d4d214d70621e677b988b436014c75cb6) - 2025-08-22
+* [Commit] [activate logging in execute, execute-eth-config and fill (#2060)](https://github.com/ethereum/execution-spec-tests/commit/318f0d152ec32340d51587434c98f1a43305eca5) - 2025-08-25
+* [Commit] [chore(docs): remove erroneous section for exception mapper usage (#2078)](https://github.com/ethereum/execution-spec-tests/commit/bbeb044320974a2ef7a12df57af8fd719b8cfd70) - 2025-08-25
+* [Commit] [chore(consume): fix consume cache for python 3.11 (#2077)](https://github.com/ethereum/execution-spec-tests/commit/42a800a52fede96b4484fa5b3ca738d9d46c6a01) - 2025-08-25
+* [Pull Request] [chore(docs): remove erroneous section for exception mapper usage](https://github.com/ethereum/execution-spec-tests/pull/2078) - 2025-08-25
+* [Pull Request] [chore(consume): fix consume cache for python 3.11](https://github.com/ethereum/execution-spec-tests/pull/2077) - 2025-08-25
+* [Commit] [chore(tests): use relative imports in tests (#2075)](https://github.com/ethereum/execution-spec-tests/commit/b65891ef2ce928998e4f83006ccc086700f277a9) - 2025-08-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients: add bpo1 time to client mappers](https://github.com/ethereum/hive/pull/1329) - 2025-08-13
+* [Pull Request] [simulators/eest/consume-engine: disable exception mapper for nimbus-el](https://github.com/ethereum/hive/pull/1332) - 2025-08-25
 ## Q2 2025
 
 

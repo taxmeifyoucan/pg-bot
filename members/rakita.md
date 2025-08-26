@@ -179,6 +179,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [bump: tag v86 revm v29.0.0](https://github.com/bluealloy/revm/pull/2912) - 2025-08-24
 * [Commit] [chore: release (#2899)](https://github.com/bluealloy/revm/commit/d0c8b255cb1d0145b96688ee3b1278123f8ac047) - 2025-08-24
 * [Commit] [calls instruction load and calc target gas](https://github.com/bluealloy/revm/commit/939fd7f11cde754883a309d5d5766782e693fe4c) - 2025-08-24
+* [Commit] [chore: add Precompil::into_precompile (#2913)](https://github.com/bluealloy/revm/commit/d8fd92f4914a35a8773535cbe7e6861dd1cad844) - 2025-08-25
+* [Commit] [fix tests, clippy/fmt](https://github.com/bluealloy/revm/commit/e2977dfe92d0342d63689786e0db30225207a335) - 2025-08-25
+* [Commit] [wip](https://github.com/bluealloy/revm/commit/e4cee773fac3e9ec54bbbd6011c7e427abb25564) - 2025-08-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

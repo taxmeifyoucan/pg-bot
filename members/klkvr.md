@@ -72,6 +72,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [bump alloy-evm](https://github.com/paradigmxyz/reth/commit/befae47c5021b588f64d971d2d9e8ab1ffcd3efd) - 2025-08-05
 * [Commit] [engine feature](https://github.com/paradigmxyz/reth/commit/3e52d4835dbeff6e730c718437a709d991f84f7c) - 2025-08-05
 
+* [Pull Request] [Klkvr/use bpo hardfork](https://github.com/paradigmxyz/reth/pull/18043) - 2025-08-25
+* [Commit] [test](https://github.com/paradigmxyz/reth/commit/17900679ad8982dd09b8a89b83ab323e669cc72a) - 2025-08-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: impl inspector for tuple](https://github.com/bluealloy/revm/pull/2871) - 2025-08-08
 ## Q2 2025

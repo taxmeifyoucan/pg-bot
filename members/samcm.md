@@ -39,6 +39,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(libp2p): heartbeat (#629)](https://github.com/ethpandaops/xatu/commit/a20a1efb59ac35ca04a904541bfd394bfdffcee2) - 2025-08-21
 * [Commit] [test(pkg/clmimicry): refactor sharding tests for GroupC events to use event-type-only patterns](https://github.com/ethpandaops/xatu/commit/3e15d6d3153b0e9d22b5972f10fcb5366efe1c90) - 2025-08-22
 * [Pull Request] [fix(sharding): Configure sharding for Group C events by eve…](https://github.com/ethpandaops/xatu/pull/634) - 2025-08-22
+* [Commit] [feat(relay-monitor): Add persistence and backfill (#625)](https://github.com/ethpandaops/xatu/commit/31664f19c9610fb4228274bcf3a948938cd3b4ac) - 2025-08-25
+* [Commit] [fix(sharding): Configure sharding for Group C events by eve… (#634)](https://github.com/ethpandaops/xatu/commit/cf6636ef169ca28bf1e81576686316aecb423299) - 2025-08-25
 ## Q2 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

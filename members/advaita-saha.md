@@ -56,6 +56,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Issue] [Unable to load chain, and crash in fusaka-devnet-3](https://github.com/status-im/nimbus-eth1/issues/3576) - 2025-08-21
 * [Pull Request] [add ugly todo for inconsistent state in FC](https://github.com/status-im/nimbus-eth1/pull/3579) - 2025-08-22
 * [Commit] [fix crash in invalid fc state (#3577)](https://github.com/status-im/nimbus-eth1/commit/d584afb9925d059cde163800d538d48fd168cb2f) - 2025-08-22
+* [Commit] [devnet EEST tests in local (#3563)](https://github.com/status-im/nimbus-eth1/commit/e54fca4f6fa651740ce8e825ef7b1f7f0aa08448) - 2025-08-25
+* [Commit] [update comment](https://github.com/status-im/nimbus-eth1/commit/8e097a9cf7141d6ee69d48616610b47ba6a1ce81) - 2025-08-25
+* [Commit] [add state tests](https://github.com/status-im/nimbus-eth1/commit/29cc46d9db66e9cb30041049b2ec610f33ccd71b) - 2025-08-25
+* [Commit] [fix crash in invalid fc state (#3577)](https://github.com/status-im/nimbus-eth1/commit/d584afb9925d059cde163800d538d48fd168cb2f) - 2025-08-25
+* [Commit] [increase new test fixtures devnet 5](https://github.com/status-im/nimbus-eth1/commit/92f2b7ef3b31f862861c091ace267f9601605295) - 2025-08-25
 ## Q2 2025
 
 

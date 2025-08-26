@@ -76,6 +76,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [adjust addBlock](https://github.com/status-im/nimbus-eth2/commit/225802d0f2bd007dc13e4280dd830c1a385934dc) - 2025-08-19
 * [Commit] [create_blob_sidecars() likely doesn't work properly with Fulu/columns (#7413)](https://github.com/status-im/nimbus-eth2/commit/a92517b3cfdad5279f4c83e3e771a6b18b51c31e) - 2025-08-24
 * [Pull Request] [make message router + engineBid fulu compliant](https://github.com/status-im/nimbus-eth2/pull/7414) - 2025-08-24
+* [Commit] [fix](https://github.com/status-im/nimbus-eth2/commit/9e1f13e1d444ce4790725974568fe528fbf19581) - 2025-08-25
+* [Pull Request] [adjust fulu mev unblind condition](https://github.com/status-im/nimbus-eth2/pull/7415) - 2025-08-25
+* [Commit] [resolve message router issues](https://github.com/status-im/nimbus-eth2/commit/668e589bbd21e59af7a5162be9c250618fc68847) - 2025-08-25
 ## Q2 2025
 
 

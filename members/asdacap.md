@@ -180,6 +180,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Remove readonly trie store read with custom node storage. (#9102)](https://github.com/NethermindEth/nethermind/commit/84cd65240eb6da027fa18cd6438c3908de272c03) - 2025-08-21
 * [Commit] [Update src/Nethermind/Nethermind.State/PersistentStorageProvider.cs](https://github.com/NethermindEth/nethermind/commit/bcb285d94273fd9dbf09db27027995776088f547) - 2025-08-21
 * [Commit] [Add OutputCache to metrics endpoint (#9139)](https://github.com/NethermindEth/nethermind/commit/026fa2bed0f0ec331944263daa15e8322466d440) - 2025-08-22
+* [Commit] [Per contract state (#9088)](https://github.com/NethermindEth/nethermind/commit/93068c83bf1dd32eaadfa7dd3f18f79e2252a171) - 2025-08-25
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

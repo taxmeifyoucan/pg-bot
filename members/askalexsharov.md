@@ -938,6 +938,14 @@ Team: Erigon
 * [Commit] [integration: fix database not initialized in run_migrations (#16762)](https://github.com/erigontech/erigon/commit/8f7571cfb49d17c7088ada25fc9c9d53f3193731) - 2025-08-23
 * [Commit] [save](https://github.com/erigontech/erigon/commit/5a787600b08181bd607ee307cde59b5a78732cf7) - 2025-08-23
 * [Commit] [save](https://github.com/erigontech/erigon/commit/580e5967536e8e28b9675c5296549e1d0104057e) - 2025-08-23
+* [Pull Request] [[r32] ViewSingleFile: don't allocate closer](https://github.com/erigontech/erigon/pull/16804) - 2025-08-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/843667a0b0863e58f7c468c3ed1a40f6815b76b6) - 2025-08-25
+* [Commit] [faster HistoryNoSystemTxs integrity check (#16802)](https://github.com/erigontech/erigon/commit/6cc7320d73dec1dfe9e994a25d6683fee3418750) - 2025-08-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0e99b959a41540e70a7afd901d6072288daa3dc5) - 2025-08-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aae403e90d1915fd76efd6156cba33dc4ae40e24) - 2025-08-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b8605d94b07548fc2879b7700dbbd0bbbed34129) - 2025-08-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b4203bb167196845e5c0a7ee8e70db8ca4051cdb) - 2025-08-25
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cc4ae02fba8f29f210e582b8f874b9f8c8fc5da1) - 2025-08-25
 ## Q2 2025
 
 

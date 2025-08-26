@@ -183,6 +183,9 @@ Team: Erigon
 * [Commit] [update printers](https://github.com/erigontech/erigon/commit/ee2e0fff444c3b26e27ab2520def3e4efe426058) - 2025-08-23
 * [Commit] [add trace prefix](https://github.com/erigontech/erigon/commit/904b64596839f5c774de28ff81adc3373555e534) - 2025-08-24
 * [Commit] [update printers](https://github.com/erigontech/erigon/commit/1669e5d4300586840d2b9299affc72b8ad55a729) - 2025-08-24
+* [Commit] [fix forkid test](https://github.com/erigontech/erigon/commit/d28df02db03b676b7192074e9972127f73ebd406) - 2025-08-25
+* [Commit] [updated boot node](https://github.com/erigontech/erigon/commit/46b540b97924426a87a8a5664ea5e03b6290cb02) - 2025-08-25
+* [Commit] [gofmt](https://github.com/erigontech/erigon/commit/ba66ec9f0afc06a5219792dee9c56fc54063ccd9) - 2025-08-25
 ## Q2 2025
 
 

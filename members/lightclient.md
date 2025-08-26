@@ -28,6 +28,9 @@ Team: Geth
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [Minor cleanup to EthSimulateResult (#677)](https://github.com/ethereum/execution-apis/commit/bbf817f7f6404fc0d270f66a3c96f8737e6d7176) - 2025-07-23
 * [Commit] [Change eth_simulateV1 to use generic log object (#681)](https://github.com/ethereum/execution-apis/commit/b050556ffb7d69d9281af8d2ffd4096192715b7c) - 2025-08-11
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Commit] [Update EIP-2696: Remove redundant word (#10168)](https://github.com/ethereum/EIPs/commit/08632276d736e9d9dd76cc9d78917d40092c51e5) - 2025-08-25
 ## Q2 2025
 
 

@@ -25,6 +25,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Issue] [Monitoring hardfork effects on application layer](https://github.com/NethermindEth/nethermind/issues/9055) - 2025-07-30
 * [Issue] [json http port and websocket port don't open till after syncing](https://github.com/NethermindEth/nethermind/issues/9138) - 2025-08-15
 * [Issue] [Support Long Reorgs by Dynamically Pausing/Resuming In-Memory Pruning](https://github.com/NethermindEth/nethermind/issues/9149) - 2025-08-17
+* [Issue] [eth_simulateV1 Hive tests "0 failed with error gas limit below intrinsic gas"](https://github.com/NethermindEth/nethermind/issues/9197) - 2025-08-25
 ## Q2 2025
 
 

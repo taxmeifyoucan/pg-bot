@@ -198,6 +198,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r31] allow list of checks to be passed in publishable command](https://github.com/erigontech/erigon/pull/16770) - 2025-08-22
 * [Pull Request] [add rcache/receipt/ii to publishable checks](https://github.com/erigontech/erigon/pull/16768) - 2025-08-22
 * [Issue] [rm-state command on rcache/receipt/ii doesn't need to touch commitment](https://github.com/erigontech/erigon/issues/16767) - 2025-08-22
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a473ec7cfdce3cd0932a18d84214b68320eea0fe) - 2025-08-25
+* [Commit] [less direct agg use in backend.go (#16312)](https://github.com/erigontech/erigon/commit/4bb2c8e4bafc106e3f23380bf735ceee41e83103) - 2025-08-25
+* [Pull Request] [faster HistoryNoSystemTxs integrity check](https://github.com/erigontech/erigon/pull/16802) - 2025-08-25
+* [Pull Request] [faster HistoryNoSystemTxs integrity check](https://github.com/erigontech/erigon/pull/16801) - 2025-08-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

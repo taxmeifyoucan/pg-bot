@@ -149,6 +149,21 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/17f4883ffc1e356016e54ff298ccfdb8119debc9) - 2025-08-24
 * [Commit] [Merge branch 'develop' into peerDAS](https://github.com/OffchainLabs/prysm/commit/0692b1e60af8efb365fd7e7aa76146d4eab7c5c5) - 2025-08-24
 * [Commit] [Update endpoint to return 404 after isOptimistic check (#15559)](https://github.com/OffchainLabs/prysm/commit/acf35e849e93e17ba0868a772cf02fa7376b9aec) - 2025-08-24
+* [Commit] [PeerDAS: Add various missing items (#15629)](https://github.com/OffchainLabs/prysm/commit/92c359456eddae4a40381605b9ec1e63b99597e5) - 2025-08-25
+* [Commit] [Merge branch 'develop' into peerDAS-do-not-merge](https://github.com/OffchainLabs/prysm/commit/6d7cc7dcbc4bf4fab914b01f661e2cb3bcad373e) - 2025-08-25
+* [Commit] [enforce schedule alignment when next_fork_epoch matches (#15604)](https://github.com/OffchainLabs/prysm/commit/c5135f699535c3a8d958e02f691a679fbd957a6a) - 2025-08-25
+* [Commit] [`tryReconstructFromStorageAndPeers`: Improve godoc.](https://github.com/OffchainLabs/prysm/commit/97b7ea5e5c2733a91757b67b3258c584f205105c) - 2025-08-25
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/2521b466e51c2bde90c6c24ac134bfb31fd73a05) - 2025-08-25
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/ab044e379017e0b4e08c35497d67194ebadb6a8e) - 2025-08-25
+* [Commit] [Fix Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/d49b48b50e2371328549fb3721fc30a96ab93254) - 2025-08-25
+* [Commit] [`ProposeBeaconBlock`: Factorize.](https://github.com/OffchainLabs/prysm/commit/3e1a15a9d98247d6f79b4ae9a785feae8bd81c81) - 2025-08-25
+* [Commit] [`ProposeBeaconBlock`: Factorize.](https://github.com/OffchainLabs/prysm/commit/9d75b8963157ef3ea9bcd0f734d068c09075bcb0) - 2025-08-25
+* [Pull Request] [PeerDAS: Add various missing items](https://github.com/OffchainLabs/prysm/pull/15629) - 2025-08-25
+* [Commit] [Remove unused code.](https://github.com/OffchainLabs/prysm/commit/e97005c7272b6dd4bcafd08be8d26957def8b771) - 2025-08-25
+* [Commit] [Remove unused code.](https://github.com/OffchainLabs/prysm/commit/5e97dc7a1f6da3cb34e5e9deb9ab7239c853af34) - 2025-08-25
+* [Commit] [Remove unused code.](https://github.com/OffchainLabs/prysm/commit/f2d8b8cd6d940af8a70184881c3b41053789acb5) - 2025-08-25
+* [Commit] [Remove unused code.](https://github.com/OffchainLabs/prysm/commit/9a4a470a68d298ce6a5709b09debef3d81f00fcc) - 2025-08-25
+* [Commit] [Remove unused code.](https://github.com/OffchainLabs/prysm/commit/e9351d408733a07793a1cadb4cb46b6d827c21ce) - 2025-08-25
 ## Q2 2025
 
 

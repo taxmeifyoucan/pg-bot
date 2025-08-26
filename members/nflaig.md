@@ -105,6 +105,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix type](https://github.com/ChainSafe/lodestar/commit/74bd98e99083d19dc7d830f5cc00ab964ef51341) - 2025-08-23
 * [Commit] [Update packages/beacon-node/src/chain/blocks/verifyBlock.ts](https://github.com/ChainSafe/lodestar/commit/87c7c1d9ea903b433db8a83726476275805106f7) - 2025-08-23
 * [Commit] [Update packages/beacon-node/src/chain/blocks/verifyBlock.ts](https://github.com/ChainSafe/lodestar/commit/10c9ec0a85fa28342936c89dff0f59e5a52c51bf) - 2025-08-23
+* [Commit] [Fix build & lint](https://github.com/ChainSafe/lodestar/commit/4650c0cc25bafe22a3c09c6b11636fe9af6ff791) - 2025-08-25
+* [Pull Request] [fix: move `MAX_REQUEST_BLOCKS` constants to config](https://github.com/ChainSafe/lodestar/pull/8262) - 2025-08-25
+* [Commit] [fix: move MAX_REQUEST_BLOCKS constants to config](https://github.com/ChainSafe/lodestar/commit/d1381aca2f863bfcc4a6effd49d75593e927a997) - 2025-08-25
+* [Commit] [chore: fix focil checks (#8242)](https://github.com/ChainSafe/lodestar/commit/07c6818f6a9038bf39f3090c9a513a04ecd46625) - 2025-08-25
+* [Commit] [Implement remove duties for key](https://github.com/ChainSafe/lodestar/commit/af9e65f99037fd13d6b08f6f3f18da8461d33782) - 2025-08-25
 ## Q2 2025
 
 

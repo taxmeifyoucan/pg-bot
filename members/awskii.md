@@ -89,6 +89,10 @@ Team: Erigon
 * [Commit] [`erigon snapshots meta`: to print keys_size/vals_size (#16756)](https://github.com/erigontech/erigon/commit/c3ca8849ce18e9117e981e0240bca2099c2f0fb8) - 2025-08-22
 * [Pull Request] [fix rebuilding commitment by smaller shards](https://github.com/erigontech/erigon/pull/16779) - 2025-08-22
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7f02d3be3fada897d481e8635e07dbf0cc99a46c) - 2025-08-22
+* [Commit] [[r32] ViewSingleFile: don't allocate closer (#16804)](https://github.com/erigontech/erigon/commit/43ab6b8ca1944708213179949d05b2d549e3eb81) - 2025-08-25
+* [Commit] [disable state override in eth_call now, because it brakes execution (#16806)](https://github.com/erigontech/erigon/commit/74504f43787dfa095a6bd091a2c715e78d70105c) - 2025-08-25
+* [Commit] [make arbitrum header sync respect `sync.loop.block.limit` (#16799)](https://github.com/erigontech/erigon/commit/62fefa6f4dd0560a62b200e203a5dccf4588ed0a) - 2025-08-25
+* [Pull Request] [make arbitrum header sync respect `sync.loop.block.limit`](https://github.com/erigontech/erigon/pull/16799) - 2025-08-25
 ## Q2 2025
 
 

@@ -107,6 +107,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Apply suggestions from code review](https://github.com/status-im/nimbus-eth2/commit/83706353043d38def1cbec998c5a8d20cf19206a) - 2025-08-24
 * [Commit] [Update beacon_chain/spec/datatypes/fulu.nim](https://github.com/status-im/nimbus-eth2/commit/d0136b2ce1ef2f3c1280ca7becd78f72f4cd6d20) - 2025-08-24
 * [Pull Request] [add fulu.KzgProofs/fulu.BlobsBundle and disambiguate elsewhere](https://github.com/status-im/nimbus-eth2/pull/7412) - 2025-08-24
+* [Commit] [make test_block_processor identical to in unstable](https://github.com/status-im/nimbus-eth2/commit/2b3a157adb9610ad887b3f71ebb8d52adaf6703c) - 2025-08-25
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

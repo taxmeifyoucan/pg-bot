@@ -90,6 +90,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/1c584bfb95a3a1eb53753ba3c4da6958a530716f) - 2025-08-21
 * [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/33ee854dcc47f17ce0fcc0f2ae8d77b10cbe66de) - 2025-08-21
 * [Commit] [Test](https://github.com/NethermindEth/nethermind/commit/d980c42438842cbe6f5eb3090388789abfe01dbe) - 2025-08-21
+* [Issue] [Add RequiredBlocks mapping to simplify peering for shadowforks](https://github.com/NethermindEth/nethermind/issues/9204) - 2025-08-25
+* [Pull Request] [Use genesis as the parent for the first block](https://github.com/NethermindEth/nethermind/pull/9203) - 2025-08-25
+* [Commit] [Use genesis as the parent for the first block](https://github.com/NethermindEth/nethermind/commit/7baaf7bcf80f9ccbe572df83fd040b688b1a27bf) - 2025-08-25
+* [Pull Request] [Improve deposit request fields validation](https://github.com/NethermindEth/nethermind/pull/9199) - 2025-08-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

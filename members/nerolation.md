@@ -49,6 +49,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [eip-7732: Fix quorum calc](https://github.com/ethereum/consensus-specs/pull/4465) - 2025-07-25
 * [Pull Request] [eip-7732: Fix quorum calc to avoid double-counting](https://github.com/ethereum/consensus-specs/pull/4481) - 2025-08-01
 
+* [Pull Request] [Eip7928 block access lists](https://github.com/ethereum/consensus-specs/pull/4526) - 2025-08-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP-7928 Breakout #1, August 27, 2025](https://github.com/ethereum/pm/issues/1691) - 2025-08-18
 ## Q2 2025

@@ -26,6 +26,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Remove banNode method from DataColumnPeerManager](https://github.com/Consensys/teku/pull/9782) - 2025-08-19
 * [Pull Request] [Remove TODO from DasCustodySyncTest](https://github.com/Consensys/teku/pull/9797) - 2025-08-22
 * [Pull Request] [Barebones `Gloas` fork](https://github.com/Consensys/teku/pull/9801) - 2025-08-24
+* [Commit] [Bare-bones `Gloas` fork + fix `Fulu` fork upgrade bug (#9801)](https://github.com/Consensys/teku/commit/59a2621730c9749499e7c7dcd6808b7502381de8) - 2025-08-25
+* [Issue] [Investigate heavy memory usage in DataColumnSidecars*IntegrationTests](https://github.com/Consensys/teku/issues/9803) - 2025-08-25
 ## Q2 2025
 
 

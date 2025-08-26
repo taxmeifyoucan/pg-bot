@@ -119,6 +119,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [rpcdaemon:  modify Error in case of result = nil to avoid panic (#16766)](https://github.com/erigontech/erigon/commit/274c2ab864fc9265e2e8f043323ec55a760b0e19) - 2025-08-22
 * [Commit] [mv rlp to execution](https://github.com/erigontech/erigon/commit/30aea19277746c03fabb97401ae3910714d2c08a) - 2025-08-22
 * [Commit] [dir improvements: mv `compiler` to `execution/abi` (#16783)](https://github.com/erigontech/erigon/commit/a505b82795a1bf0a755e34514bc0788b46d0620e) - 2025-08-23
+* [Commit] [integration: fix database not initialized in run_migrations (#16762)](https://github.com/erigontech/erigon/commit/8f7571cfb49d17c7088ada25fc9c9d53f3193731) - 2025-08-25
+* [Pull Request] [dir improvements: move `jsonstream` from `erigon-lib` to `rpc`](https://github.com/erigontech/erigon/pull/16807) - 2025-08-25
+* [Commit] [dir improvements: move `jsonstream` from `erigon-lib` to `rpc`](https://github.com/erigontech/erigon/commit/a4d7e9350ac9162dc7569ec90d44cd1f2fee6f70) - 2025-08-25
+* [Commit] [Update EEST devnet tests to fusaka-devnet-5@v1.1.0 (#16725)](https://github.com/erigontech/erigon/commit/f711e72e8fd584ac956123a7a5a134d2d8445676) - 2025-08-25
+* [Commit] [re-enable failing test](https://github.com/erigontech/erigon/commit/406cc2aaf7585dac0183d3f6230174cd97bce596) - 2025-08-25
+* [Commit] [nil fix in `FilePaths` (#16727)](https://github.com/erigontech/erigon/commit/7632b06fd40339f2a1123dab42047bb528b46ff6) - 2025-08-25
+* [Commit] [Update devnet tests to fusaka-devnet-5@@v1.1.0](https://github.com/erigontech/erigon/commit/b39c3782c8f065901a757fe5eb3100b361fbda58) - 2025-08-25
+* [Commit] [deps: bump gnark-crypto to v0.19.0 (#16798)](https://github.com/erigontech/erigon/commit/b7b5356b0fa06e98ed3a7e9bc01206e055da972f) - 2025-08-25
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

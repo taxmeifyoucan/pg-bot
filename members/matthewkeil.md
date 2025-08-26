@@ -77,6 +77,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: merge unstable to fusaka-devnet-3](https://github.com/ChainSafe/lodestar/pull/8227) - 2025-08-19
 * [Commit] [test: rough out unit tests for downloadByRoot](https://github.com/ChainSafe/lodestar/commit/4c248a3a47a6249e240f3cd0e21ef70f99d488c8) - 2025-08-22
 * [Commit] [feat: modify ColumnMeta to support getBlobsV2](https://github.com/ChainSafe/lodestar/commit/511d9f6f758c67f799dcf5b4e9af621fee57d7cf) - 2025-08-21
+* [Issue] [Clean-up and deduplicate blobs and columns helpers](https://github.com/ChainSafe/lodestar/issues/8258) - 2025-08-25
 ## Q2 2025
 
 

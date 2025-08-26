@@ -38,6 +38,9 @@ Team: Grandine
 * [Commit] [Bumped Grandine to 1.1.4](https://github.com/grandinetech/grandine/commit/7e48b27f50e2a4842b6a3f666e9a81554ec07bf7) - 2025-08-22
 * [Commit] [Add `GET /eth/v1/beacon/states/{state_id}/proposer_lookahead`](https://github.com/grandinetech/grandine/commit/23446b8f99a77a920b138dcee30258b9412d5d10) - 2025-08-22
 * [Pull Request] [Add `GET /eth/v1/beacon/states/{state_id}/proposer_lookahead`](https://github.com/grandinetech/grandine/pull/316) - 2025-08-22
+* [Commit] [chore: update minimal_config to latest spec ](https://github.com/grandinetech/grandine/commit/4739cfd5b3081b94fa9e57c98ce45b55df6f7e4d) - 2025-08-25
+* [Pull Request] [Feature/consensus specs v1.6.0 alpha.5](https://github.com/grandinetech/grandine/pull/320) - 2025-08-25
+* [Commit] [Add `beacon_clock_slot` metric (#317)](https://github.com/grandinetech/grandine/commit/b273c9f78f3568ecb9cd7cbd9e8589257ca8574f) - 2025-08-25
 ## Q2 2025
 
 

@@ -35,6 +35,8 @@ Team: Grandine
 * [Pull Request] [Fix wait for fully verified head for sync committee duties in local validator](https://github.com/grandinetech/grandine/pull/293) - 2025-08-11
 * [Commit] [Fix block event send after delayed payload is applied to block during block import](https://github.com/grandinetech/grandine/commit/81677fc893b90c8341e9998fca65d0229988adcd) - 2025-08-18
 * [Pull Request] [Fix block event send after delayed payload is applied to block during block import](https://github.com/grandinetech/grandine/pull/305) - 2025-08-18
+* [Commit] [Fix head event sending issues](https://github.com/grandinetech/grandine/commit/54db7c0c5a630cd40c687b8b4c3d8ecc659d66fb) - 2025-08-25
+* [Pull Request] [Fix head event sending issues](https://github.com/grandinetech/grandine/pull/321) - 2025-08-25
 ## Q2 2025
 
 

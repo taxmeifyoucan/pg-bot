@@ -27,6 +27,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] [Add EIP-7916 ProgressiveBitlist specs and tests](https://github.com/ethereum/consensus-specs/pull/4480) - 2025-07-31
 * [Pull Request] [Simplify p2p-interface specs for handling ForkDigest](https://github.com/ethereum/consensus-specs/pull/4491) - 2025-08-06
+* [Pull Request] [eip7495: add ProgressiveContainer specs and tests](https://github.com/ethereum/consensus-specs/pull/4529) - 2025-08-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/8ae1a04d0a47f89002a42687e631c96345ca99fc) - 2025-07-25
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/06cb044f6a6a2041935e95ec951c50765cd6f1dc) - 2025-07-25
@@ -66,6 +67,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [serialization: bump (#7345)](https://github.com/status-im/nimbus-eth2/commit/930effbc995c7d05082049608ef70e75d11ca75c) - 2025-08-04
 * [Commit] [Extend bitlist / bitarray available sizes](https://github.com/status-im/nimbus-eth2/commit/ccd53f375e80c6707ea66820514e2d11cd325283) - 2025-08-05
 * [Issue] [Sync gets stuck after ~a day](https://github.com/status-im/nimbus-eth2/issues/7394) - 2025-08-18
+* [Pull Request] [Extend SSZ generic tests with ProgressiveContainer tests](https://github.com/status-im/nimbus-eth2/pull/7417) - 2025-08-25
+* [Pull Request] [Bump nim-ssz-serialization](https://github.com/status-im/nimbus-eth2/pull/7416) - 2025-08-25
 ## Q2 2025
 
 

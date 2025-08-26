@@ -105,6 +105,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [All Core Devs - Testing (ACDT) #47 | August 4 2025](https://github.com/ethereum/pm/issues/1648) - 2025-07-30
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [clients/nimbus-el: activate admin rpc (#1321)](https://github.com/ethereum/hive/commit/bcb100028e695cf4eddabaec48d8be7d430ca978) - 2025-07-22
+* [Commit] [simulators/eest/consume-engine: disable exception mapper for nimbus-el (#1332)](https://github.com/ethereum/hive/commit/e79c00d4dd04fcddb96b26f5d3a626c55413db1c) - 2025-08-25
 ## Q2 2025
 
 

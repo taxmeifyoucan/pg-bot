@@ -19,6 +19,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 * [Pull Request] [feat(osaka): Update EIP-7939 - update CLZ gas cost](https://github.com/ethereum/execution-spec-tests/pull/1879) - 2025-07-09
 * [Pull Request] [feat(tests): update blob_base_cost](https://github.com/ethereum/execution-spec-tests/pull/1915) - 2025-07-17
+* [Pull Request] [chore(tests): use relative imports in tests](https://github.com/ethereum/execution-spec-tests/pull/2075) - 2025-08-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [STEEL Merge: Harmonize code standards](https://github.com/ethereum/execution-specs/issues/1301) - 2025-07-03
 * [Issue] [Implement EIP-7594](https://github.com/ethereum/execution-specs/issues/1319) - 2025-07-09
