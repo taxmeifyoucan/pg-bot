@@ -45,6 +45,8 @@ Team: Erigon
 * [Commit] [[workflow]: Port test-hive-eest with 12x parallelism and new self-hosted runners to release/3.1 (#16362)](https://github.com/erigontech/erigon/commit/bd8c775d3a71c035bdfbb226ccc4fa8d59f36cb0) - 2025-08-08
 * [Commit] [trigger ci](https://github.com/erigontech/erigon/commit/f8547b98a5fc3068ddeb4b843473a9e6f3385757) - 2025-08-16
 * [Pull Request] [[r3.1] qa-tests: improve tip-tracking timeout and error reporting ](https://github.com/erigontech/erigon/pull/16686) - 2025-08-16
+* [Commit] [qa-test: improve test report (handle canceled with steps status) (#16831)](https://github.com/erigontech/erigon/commit/e3ab083d8a5c21aa0d9206fc253343cd0de2a1b4) - 2025-08-26
+* [Pull Request] [qa-test: improve test report ](https://github.com/erigontech/erigon/pull/16831) - 2025-08-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [blockTimetsamp is on log info not header (#423)](https://github.com/erigontech/rpc-tests/commit/4155a0cd4fd99bc6e47a81d0aa08f19386d61b0b) - 2025-07-31
 * [Commit] [eth_getBlockRrceipts - fix exp resp with blockTimestamp (#422)](https://github.com/erigontech/rpc-tests/commit/a0bb773bf04ab4e4e3784c4052a147021b576211) - 2025-07-31

@@ -24,6 +24,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [remove custody late initialisation](https://github.com/Consensys/teku/pull/9781) - 2025-08-19
 * [Pull Request] [fix api description](https://github.com/Consensys/teku/pull/9789) - 2025-08-21
 * [Commit] [Trim doppelganger log at epoch (#9288)](https://github.com/Consensys/teku/commit/664995336b4aad61e1f24e149e220727b0e6a016) - 2025-08-21
+* [Pull Request] [Focil gloas](https://github.com/Consensys/teku/pull/9812) - 2025-08-26
+* [Commit] [remove custody late initialisation (#9781)](https://github.com/Consensys/teku/commit/764d29eb5dc12aa13d47ecc4659f611ef43f169b) - 2025-08-26
 ## Q2 2025
 
 

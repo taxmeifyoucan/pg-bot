@@ -164,6 +164,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Remove unused code.](https://github.com/OffchainLabs/prysm/commit/f2d8b8cd6d940af8a70184881c3b41053789acb5) - 2025-08-25
 * [Commit] [Remove unused code.](https://github.com/OffchainLabs/prysm/commit/9a4a470a68d298ce6a5709b09debef3d81f00fcc) - 2025-08-25
 * [Commit] [Remove unused code.](https://github.com/OffchainLabs/prysm/commit/e9351d408733a07793a1cadb4cb46b6d827c21ce) - 2025-08-25
+* [Commit] [Update beacon-chain/sync/initial-sync/service.go](https://github.com/OffchainLabs/prysm/commit/4592c298fc40f7f6e49185256a3d0bd597f1c23d) - 2025-08-26
+* [Commit] [`custodyGroupCountFromPeerENR`: Add agent on error messages.](https://github.com/OffchainLabs/prysm/commit/7e7fa6069f7d1f1f0b072be05747fd405c3cad29) - 2025-08-26
+* [Commit] [Fix Preston comment.](https://github.com/OffchainLabs/prysm/commit/d19f790cefdaa515444310a4ef17e2fe48d9f574) - 2025-08-26
+* [Commit] [Fix Preston comment.](https://github.com/OffchainLabs/prysm/commit/8d604ade4cd47b2471c50b3127986c6ab34a153a) - 2025-08-26
 ## Q2 2025
 
 

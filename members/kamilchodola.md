@@ -21,6 +21,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix verify trie](https://github.com/NethermindEth/nethermind/pull/9135) - 2025-08-15
 * [Commit] [Base mainnet bigger machine (#9158)](https://github.com/NethermindEth/nethermind/commit/b5d9812c70796d222b559d342be20f2013a213b7) - 2025-08-18
 * [Pull Request] [Base mainnet bigger machine](https://github.com/NethermindEth/nethermind/pull/9158) - 2025-08-18
+* [Commit] [mock](https://github.com/NethermindEth/nethermind/commit/728ef44c46d912525b05043500e4bcfc210f6f09) - 2025-08-26
 ## Q2 2025
 
 

@@ -61,6 +61,16 @@ Team: Erigon
 * [Commit] [Update limit](https://github.com/erigontech/erigon/commit/56016f364c1002327a774c08a2f2d7d1da0db186) - 2025-08-08
 * [Commit] [core/vm: Use 8-byte strides for `allZero` (#16441)](https://github.com/erigontech/erigon/commit/d1d605807747f70daea123595ec3d71194694e8b) - 2025-08-11
 * [Commit] [mining: use explicit comments about built block](https://github.com/erigontech/erigon/commit/1263fbad31b01748e9fbf21377996b6d0296341d) - 2025-08-25
+* [Commit] [fix 'em both](https://github.com/erigontech/erigon/commit/de1f45fe917a4d7b10c7f1c97857a564c40e066f) - 2025-08-26
+* [Commit] [chore: gofmt (#16835)](https://github.com/erigontech/erigon/commit/da1bee83dffba19072525dce2025297ad54854cf) - 2025-08-26
+* [Commit] [use branch master](https://github.com/erigontech/erigon/commit/345ffbfd77b7dbf0ef29160bc14afe08ff1190a0) - 2025-08-26
+* [Commit] [try upstream hive](https://github.com/erigontech/erigon/commit/d966e6963d3f79c6814fcbb1fee9b55c22780cad) - 2025-08-26
+* [Pull Request] [workflows: Add devnet eest hive](https://github.com/erigontech/erigon/pull/16837) - 2025-08-26
+* [Pull Request] [workflows: use fixed teku version](https://github.com/erigontech/erigon/pull/16836) - 2025-08-26
+* [Pull Request] [chore: gofmt](https://github.com/erigontech/erigon/pull/16835) - 2025-08-26
+* [Commit] [workflows: use fixed teku version](https://github.com/erigontech/erigon/commit/eb9052e87d5c8360b7d0326647d4f74e5c569061) - 2025-08-26
+* [Commit] [mining: use explicit comments about built block (#16811)](https://github.com/erigontech/erigon/commit/5480a0746bddf159cd0d63a49d9a81c0e7522986) - 2025-08-26
+* [Commit] [use transactionsCount](https://github.com/erigontech/erigon/commit/66cbbcde8b90c3dcb1d9760b76665f173f5c1698) - 2025-08-26
 ## Q2 2025
 
 

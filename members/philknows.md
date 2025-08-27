@@ -20,6 +20,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: merge v1.33.0 stable back to unstable](https://github.com/ChainSafe/lodestar/pull/8118) - 2025-08-06
 * [Commit] [chore: merge v1.32.0 stable back to unstable (#8061)](https://github.com/ChainSafe/lodestar/commit/edc35e4b78ea493dadb4a27be74339d3e1a967dc) - 2025-08-06
 * [Issue] [Gossipsub tracking more peers than required](https://github.com/ChainSafe/lodestar/issues/8115) - 2025-08-06
+* [Pull Request] [feat: increase target peers by default to 200](https://github.com/ChainSafe/lodestar/pull/8272) - 2025-08-26
+* [Commit] [increase target peers by default to 200](https://github.com/ChainSafe/lodestar/commit/14dc4722367716e6715788ca087d340a8bd8676e) - 2025-08-26
 ## Q2 2025
 
 

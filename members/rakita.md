@@ -182,6 +182,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: add Precompil::into_precompile (#2913)](https://github.com/bluealloy/revm/commit/d8fd92f4914a35a8773535cbe7e6861dd1cad844) - 2025-08-25
 * [Commit] [fix tests, clippy/fmt](https://github.com/bluealloy/revm/commit/e2977dfe92d0342d63689786e0db30225207a335) - 2025-08-25
 * [Commit] [wip](https://github.com/bluealloy/revm/commit/e4cee773fac3e9ec54bbbd6011c7e427abb25564) - 2025-08-25
+* [Commit] [cleanup](https://github.com/bluealloy/revm/commit/b8b8a58eb0833696611b98a488787408cc4c3edc) - 2025-08-26
+* [Commit] [check without loading of accounts](https://github.com/bluealloy/revm/commit/2c207611274decb1df6a6437632b80ad33260a27) - 2025-08-26
+* [Commit] [ret ref of account info](https://github.com/bluealloy/revm/commit/4a983895cf2a1ade57f424fd9c684188e99643f5) - 2025-08-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

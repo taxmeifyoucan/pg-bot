@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Allow BPO forks at fork epoch (#9742)](https://github.com/Consensys/teku/commit/38b6a81a5c1ae6ae1a8f1db1dbf35021af54b1d2) - 2025-08-06
 * [Pull Request] [SszBoolean (1 byte) implementation + reference tests support](https://github.com/Consensys/teku/pull/9766) - 2025-08-12
 * [Pull Request] [Drop peers with false ENR subnet advertising [WIP]](https://github.com/Consensys/teku/pull/9773) - 2025-08-14
+* [Issue] [Teku is requesting sidecars out of retention period](https://github.com/Consensys/teku/issues/9813) - 2025-08-26
 ## Q2 2025
 
 

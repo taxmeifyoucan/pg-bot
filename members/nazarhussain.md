@@ -64,6 +64,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: remove cpu features direct dependency](https://github.com/ChainSafe/lodestar/pull/8261) - 2025-08-25
 * [Commit] [Add filter for data column indexes](https://github.com/ChainSafe/lodestar/commit/87bb4580beb0455aa916a20cca9aa02768b1d588) - 2025-08-25
 * [Commit] [Update the request logging for data column sidecars](https://github.com/ChainSafe/lodestar/commit/e74fe1e87414332d59c97e4e6f74ad3e5f8715ef) - 2025-08-25
+* [Commit] [Update workflow](https://github.com/ChainSafe/lodestar/commit/37314a4891f03fdc4e9e584e7cbc5dfc08b1afdc) - 2025-08-26
+* [Commit] [Fix vitest binary install](https://github.com/ChainSafe/lodestar/commit/df4dc831d62c30a8ab91aa1845af0cdca11bf997) - 2025-08-26
+* [Commit] [Fix vitest binary install](https://github.com/ChainSafe/lodestar/commit/55e9aea0a2fd2bf6d422b184ee20803288eeb9ce) - 2025-08-26
+* [Commit] [Update the package.json](https://github.com/ChainSafe/lodestar/commit/4366e2c8189a31f73d5b386576b4c94e975a4643) - 2025-08-26
+* [Commit] [Fix missing types for a dependency](https://github.com/ChainSafe/lodestar/commit/08c68bef5a130713c8679e692b1e806386152a9b) - 2025-08-26
 ## Q2 2025
 
 

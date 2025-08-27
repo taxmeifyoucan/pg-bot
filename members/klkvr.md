@@ -74,6 +74,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 
 * [Pull Request] [Klkvr/use bpo hardfork](https://github.com/paradigmxyz/reth/pull/18043) - 2025-08-25
 * [Commit] [test](https://github.com/paradigmxyz/reth/commit/17900679ad8982dd09b8a89b83ab323e669cc72a) - 2025-08-25
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/a89168a088d5bac0dde1689beee686dcbdac6fe5) - 2025-08-26
+* [Commit] [doc](https://github.com/paradigmxyz/reth/commit/74dce9e2b72ae33ab35017728bd12bfe5ace73d6) - 2025-08-26
+* [Commit] [bump](https://github.com/paradigmxyz/reth/commit/1a9963aca4df3d1ae4a9935de11b7c7666e049da) - 2025-08-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: impl inspector for tuple](https://github.com/bluealloy/revm/pull/2871) - 2025-08-08
 ## Q2 2025

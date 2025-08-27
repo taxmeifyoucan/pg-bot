@@ -23,6 +23,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [working example with just the raw coverage report](https://github.com/ethpandaops/pandafuzz/commit/850cb9ca4418567dbfb48b478f40994218f40fbb) - 2025-08-22
 * [Commit] [only update real data](https://github.com/ethpandaops/pandafuzz/commit/077b4e7a4cad337bf1532a8b890bf55898a8eac2) - 2025-08-22
 * [Commit] [update afl raw coverate reports](https://github.com/ethpandaops/pandafuzz/commit/0f7eba58373299d96c34a187d31efe6a05fca380) - 2025-08-22
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Pull Request] [ansible go vroom](https://github.com/ethpandaops/template-devnets/pull/110) - 2025-08-26
 ## Q2 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

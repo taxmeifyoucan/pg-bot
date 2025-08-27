@@ -149,6 +149,7 @@ Team: Reth
 * [Pull Request] [chore: apply spelling and typo fixes from closed PRs](https://github.com/paradigmxyz/reth/pull/18041) - 2025-08-25
 * [Commit] [chore: remove msrv from clippy.toml (#18034)](https://github.com/paradigmxyz/reth/commit/c3d211c6f7bf9461dafc64743406f4659b564f2f) - 2025-08-25
 * [Commit] [Update README.md (#18021)](https://github.com/paradigmxyz/reth/commit/f3c2a3dc2706bb9ace87b130cf13730301135a0f) - 2025-08-25
+* [Issue] [Remove PendingEnvBuilder from Flashblockservice](https://github.com/paradigmxyz/reth/issues/18074) - 2025-08-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

@@ -93,6 +93,7 @@ Team: Erigon
 * [Commit] [disable state override in eth_call now, because it brakes execution (#16806)](https://github.com/erigontech/erigon/commit/74504f43787dfa095a6bd091a2c715e78d70105c) - 2025-08-25
 * [Commit] [make arbitrum header sync respect `sync.loop.block.limit` (#16799)](https://github.com/erigontech/erigon/commit/62fefa6f4dd0560a62b200e203a5dccf4588ed0a) - 2025-08-25
 * [Pull Request] [make arbitrum header sync respect `sync.loop.block.limit`](https://github.com/erigontech/erigon/pull/16799) - 2025-08-25
+* [Pull Request] [update sepolia snapshots to 187M](https://github.com/erigontech/erigon/pull/16830) - 2025-08-26
 ## Q2 2025
 
 

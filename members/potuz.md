@@ -29,6 +29,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [fix mac os X](https://github.com/OffchainLabs/prysm/commit/6f89cb533008bf8e999ba045bb8d7a4e8ea7f0f9) - 2025-08-08
 * [Commit] [fix windows compilation](https://github.com/OffchainLabs/prysm/commit/e315f78b97e5921c28ec85d1e6817398d8f4658a) - 2025-08-08
 * [Commit] [add testcase](https://github.com/OffchainLabs/prysm/commit/ab80865286e23a28da1adbc317d5ecafb4d62e31) - 2025-08-11
+* [Commit] [Start from Justified checkpoint by default](https://github.com/OffchainLabs/prysm/commit/4b7282957406999f51c3bd8876fa11f9df623da1) - 2025-08-26
+* [Commit] [Start from Justified checkpoint by default](https://github.com/OffchainLabs/prysm/commit/73f911a9181120ac8868f744d7929ca40d1e1853) - 2025-08-26
+* [Pull Request] [Start from Justified checkpoint by default](https://github.com/OffchainLabs/prysm/pull/15636) - 2025-08-26
+* [Pull Request] [Change error message](https://github.com/OffchainLabs/prysm/pull/15635) - 2025-08-26
 ## Q2 2025
 
 

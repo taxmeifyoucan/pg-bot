@@ -27,6 +27,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: implement EIP-7732 ePBS](https://github.com/ChainSafe/lodestar/pull/8212) - 2025-08-15
 * [Commit] [fix: use correct self fate limited request error code (#8228)](https://github.com/ChainSafe/lodestar/commit/91df6658d512c5bee0744a6baff8bf572e272f8a) - 2025-08-20
 * [Commit] [chore: remove skipped fulu constants in config test (#8252)](https://github.com/ChainSafe/lodestar/commit/9ed83170648e6d1bf2935b33b7cef2e04519303f) - 2025-08-22
+* [Commit] [Update PayloadAttributes](https://github.com/ChainSafe/lodestar/commit/946be3b441eb7713d97fc2132eb480705d9b740a) - 2025-08-26
+* [Commit] [Update ExecutionPayloadStatus](https://github.com/ChainSafe/lodestar/commit/fede5820973b423f257947165e390beb93ef3944) - 2025-08-26
 ## Q2 2025
 
 

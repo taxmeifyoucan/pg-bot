@@ -69,6 +69,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Implement KZG proof batch verification for data column gossip validation](https://github.com/OffchainLabs/prysm/pull/15609) - 2025-08-20
 * [Commit] [Update consensus spec to v1.6.0-alpha.5 and adjust minimal config](https://github.com/OffchainLabs/prysm/commit/7d39dc6abf5ac85259d7b99c5aa3b27396d74d0b) - 2025-08-22
 * [Commit] [Implement PeerDAS sync (#15564)](https://github.com/OffchainLabs/prysm/commit/00cf1f25078f20f133ca3c050b0400ac39670f4d) - 2025-08-24
+* [Commit] [Initialize SSZ-QL package with support for fixed-size types (#15588)](https://github.com/OffchainLabs/prysm/commit/26d8b6b7869d0c1ee4cb6de27d7c9779b380c6b5) - 2025-08-26
+* [Commit] [Add Gloas state fields to beacon state implementation](https://github.com/OffchainLabs/prysm/commit/442588a1a61037e7d242e7310fc308759d2a32df) - 2025-08-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

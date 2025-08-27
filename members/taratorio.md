@@ -153,6 +153,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [txnprovider/txpool: unblock p.lastSeenCond.Wait on shutdown (#16750)](https://github.com/erigontech/erigon/commit/93b616169b7c8b918ba883c3a2f143ecc63fcb7a) - 2025-08-20
 * [Commit] [use lock](https://github.com/erigontech/erigon/commit/83b62df915b4b953c626b51c8fb75de58b0a56f9) - 2025-08-20
 * [Pull Request] [txnprovider/txpool: unblock p.lastSeenCond.Wait on shutdown](https://github.com/erigontech/erigon/pull/16750) - 2025-08-20
+* [Commit] [workflows: use fixed teku version in kurtosis test (#16836)](https://github.com/erigontech/erigon/commit/0da742f46e88a1da0d4334b96d7b6605fe8b227a) - 2025-08-26
 ## Q2 2025
 
 

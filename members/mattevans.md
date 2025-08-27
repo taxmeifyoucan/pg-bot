@@ -47,3 +47,6 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [test(event_categorizer_test.go): correct expected event count in assertion message from 27 to 28](https://github.com/ethpandaops/xatu/commit/db768dcc9148495f34d33c398f230f669c7c0128) - 2025-08-21
 * [Commit] [test(event_categorizer_test.go): update expected event counts from 27 to 28 and group D minimum from 9 to 10](https://github.com/ethpandaops/xatu/commit/b05e3bcaefb53418ed09b3c15643a653d80cb403) - 2025-08-21
 * [Commit] [feat(libp2p): rename heartbeat event to synthetic heartbeat](https://github.com/ethpandaops/xatu/commit/393b88ec33e710153249ddfbb5ed6db97b67810f) - 2025-08-21
+* [Commit] [chore(deps): bump Go to 1.24.5 and upgrade all direct/indirect deps](https://github.com/ethpandaops/xatu/commit/7fc134ce1472fcd742dcd8634ab2374445af02ae) - 2025-08-26
+* [Commit] [feat(example-cl-mimicry.yaml): add data column sidecar sampling config](https://github.com/ethpandaops/xatu/commit/4206651a6b204d2bcf18c1fe1f281c426f7b951d) - 2025-08-26
+* [Commit] [feat: add support for data column sidecar gossipsub events](https://github.com/ethpandaops/xatu/commit/1bcdbaaad3d66b914995374259ad650ad805ced8) - 2025-08-26

@@ -55,6 +55,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [modify PARAM name](https://github.com/erigontech/erigon/commit/b99c4081a2b3061764954f9eede0dcebe3c8f7b6) - 2025-08-25
 * [Commit] [update end point](https://github.com/erigontech/erigon/commit/a578a09900639c7e11b3da2da011c38ea3fbe1d9) - 2025-08-25
 * [Commit] [add loop on retries and fixes](https://github.com/erigontech/erigon/commit/979b5d02f3c323f56c1c31d57e5f60280c23461b) - 2025-08-25
+* [Commit] [fix minimal_mode](https://github.com/erigontech/erigon/commit/12532823fa3fe38b181a6fb9709b370fdee30785) - 2025-08-26
+* [Commit] [fix chain-data dir on TipTracking](https://github.com/erigontech/erigon/commit/f22a46cdc7764bb4d033ac8e962bc65a34a39213) - 2025-08-26
+* [Commit] [modified job name](https://github.com/erigontech/erigon/commit/e90087f3ee9dfd2ca267c9030959ed4239d7dc70) - 2025-08-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24

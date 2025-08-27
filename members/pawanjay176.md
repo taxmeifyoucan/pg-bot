@@ -18,6 +18,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Pull Request] [Fix enr loading from disk with cgc](https://github.com/sigp/lighthouse/pull/7754) - 2025-07-17
 * [Pull Request] [Serialize bpo schedule in asending order](https://github.com/sigp/lighthouse/pull/7753) - 2025-07-17
 * [Issue] [Use the events api to attest on a head event](https://github.com/sigp/lighthouse/issues/7820) - 2025-07-31
+* [Pull Request] [Fix data columns by range returning all columns](https://github.com/sigp/lighthouse/pull/7942) - 2025-08-26
 ## Q2 2025
 
 

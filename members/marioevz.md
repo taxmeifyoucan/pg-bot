@@ -99,10 +99,18 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: changelog](https://github.com/ethereum/execution-spec-tests/commit/51538c2e50e800511994b41bda1a9ba0af3630af) - 2025-08-22
 * [Commit] [chore(tests): Disable full `HISTORY_SERVE_WINDOW` EIP-2935 Test (#2065)](https://github.com/ethereum/execution-spec-tests/commit/f1d66acc530889a6f05c4fc38c83ccbdffa5ac68) - 2025-08-22
 * [Commit] [feat(tests): enhance eip7825 test coverage for checklist (#2034)](https://github.com/ethereum/execution-spec-tests/commit/3642b2095d05092f84b3ccd39c7cadba546058ea) - 2025-08-22
+* [Commit] [feat(execute): Allow to specify an Engine RPC endpoint to drive the chain](https://github.com/ethereum/execution-spec-tests/commit/52a00cf0f8be2b5575a7b87238a29afac10f3164) - 2025-08-26
+* [Commit] [chore(tests): use relative imports in tests (#2075)](https://github.com/ethereum/execution-spec-tests/commit/b65891ef2ce928998e4f83006ccc086700f277a9) - 2025-08-26
+* [Commit] [feat(tests): Add contract creation tests for 7951 (#2068)](https://github.com/ethereum/execution-spec-tests/commit/9a73432d08988ec050c26130fd226e6957b4bbba) - 2025-08-26
+* [Commit] [fix(plugins/forks): Fix forks plugin dependency on `--evm-bin` (#2080)](https://github.com/ethereum/execution-spec-tests/commit/056415cb6ce0b8be5d84579babb00ea33dcba7d8) - 2025-08-26
+* [Commit] [fix(github): Update `develop` feature to use BPO4](https://github.com/ethereum/execution-spec-tests/commit/2351332cfb16b7746157205aad7c0950b867d416) - 2025-08-26
+* [Commit] [fix(plugins/forks): Remove autouse from session_fork](https://github.com/ethereum/execution-spec-tests/commit/5fe2caaa53a40c9ad36d82c4924acd1931826068) - 2025-08-26
+* [Commit] [Update src/pytest_plugins/forks/forks.py](https://github.com/ethereum/execution-spec-tests/commit/d6cbeef94ab6c709593b9b7a5ec0cdbc31c5f177) - 2025-08-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 
 * [Issue] [All Core Devs - Testing (ACDT) #47 | August 4 2025](https://github.com/ethereum/pm/issues/1648) - 2025-07-30
+* [Issue] [All Core Devs - Testing (ACDT) #51 | Sep 1 2025](https://github.com/ethereum/pm/issues/1703) - 2025-08-26
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [clients/nimbus-el: activate admin rpc (#1321)](https://github.com/ethereum/hive/commit/bcb100028e695cf4eddabaec48d8be7d430ca978) - 2025-07-22
 * [Commit] [simulators/eest/consume-engine: disable exception mapper for nimbus-el (#1332)](https://github.com/ethereum/hive/commit/e79c00d4dd04fcddb96b26f5d3a626c55413db1c) - 2025-08-25

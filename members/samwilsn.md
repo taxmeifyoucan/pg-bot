@@ -32,6 +32,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Investigate weirdly unnecessary `try`/`catch`](https://github.com/ethereum/execution-specs/issues/1379) - 2025-08-20
 * [Issue] [Support tests in `ethereum-spec-new-fork`](https://github.com/ethereum/execution-specs/issues/1382) - 2025-08-22
 * [Commit] [Add flag to count opcodes during execution](https://github.com/ethereum/execution-specs/commit/38e45e58d4372835ef7320ab8214acb0993bdcbb) - 2025-08-22
+* [Commit] [fix: grammar corrections and minor formatting cleanup (#1374)](https://github.com/ethereum/execution-specs/commit/fab59d2466539f0a96063f0936f5073367ad81eb) - 2025-08-26
+* [Commit] [fix: correct typos in proposed opcode names](https://github.com/ethereum/execution-specs/commit/1e1a4be0370443fceb7978cc5fd96a015c51afe4) - 2025-08-26
+* [Commit] [fix tx parsing on sync](https://github.com/ethereum/execution-specs/commit/6637827305df5777d0bb01d157e61ef7eccc311b) - 2025-08-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-7932: Fix some typos (#10011)](https://github.com/ethereum/EIPs/commit/9e953a254861cf86dc6d55f1f90a54807cfecdb1) - 2025-07-16
 * [Commit] [Website: Add missing favicon (#9963)](https://github.com/ethereum/EIPs/commit/719769bd61033e9bcd4de7b647bdc927981b6195) - 2025-07-28

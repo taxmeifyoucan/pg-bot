@@ -129,6 +129,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [raise chronos signal also](https://github.com/status-im/nimbus-eth2/commit/0c68a5f3fa2f893b23178cbcd12786a860daf7c2) - 2025-08-22
 * [Commit] [logging](https://github.com/status-im/nimbus-eth2/commit/21815629fcf9a75e709f1f519a60f46b5be23883) - 2025-08-22
 * [Commit] [restore signal state after waitSignal](https://github.com/status-im/nimbus-eth2/commit/7d5f45ccc8e9767667d5f94b34d8c06b7a914d66) - 2025-08-23
+* [Commit] [use v1.6.0-alpha.5 consensus reference tests (#7407)](https://github.com/status-im/nimbus-eth2/commit/88fce1f29a61865a64869e3e5ee213c0bebed1bb) - 2025-08-26
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

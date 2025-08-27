@@ -946,6 +946,7 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b8605d94b07548fc2879b7700dbbd0bbbed34129) - 2025-08-25
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b4203bb167196845e5c0a7ee8e70db8ca4051cdb) - 2025-08-25
 * [Commit] [save](https://github.com/erigontech/erigon/commit/cc4ae02fba8f29f210e582b8f874b9f8c8fc5da1) - 2025-08-25
+* [Commit] [[r32] CreateBloom: stack-allocated buf (#16795)](https://github.com/erigontech/erigon/commit/5451cb52e0ec8f357c12367ac393f0017ffdfad4) - 2025-08-26
 ## Q2 2025
 
 

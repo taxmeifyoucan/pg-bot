@@ -53,6 +53,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Fix modexp exponent EIP-7823 limit check (#1294)](https://github.com/ipsilon/evmone/commit/cd9b1a29ea5fc7250ce7325f0dbb0117d920da0d) - 2025-08-15
 * [Commit] [Fix modexp exponent EIP-7823 limit check](https://github.com/ipsilon/evmone/commit/eff73d70f205c9cb9776d69d716abef855d2d4c8) - 2025-08-15
 * [Pull Request] [Fix modexp exponent EIP-7823 limit check](https://github.com/ipsilon/evmone/pull/1294) - 2025-08-15
+* [Pull Request] [crypto: Upgrade ProjPoint to use FieldElement](https://github.com/ipsilon/evmone/pull/1302) - 2025-08-26
+* [Commit] [crypto: Remove special case checks from point multiplication (#1301)](https://github.com/ipsilon/evmone/commit/63db606bbef2fdf793f9fec55e45dd21c6cc06fa) - 2025-08-26
+* [Pull Request] [crypto: Remove special case checks from point multiplication](https://github.com/ipsilon/evmone/pull/1301) - 2025-08-26
+* [Commit] [crypto: Improve bn254 point "on curve" check (#1300)](https://github.com/ipsilon/evmone/commit/f6612f00225a8e453716a910aee54fa7da8c80f2) - 2025-08-26
+* [Pull Request] [crypto: Improve bn254 point "on curve" check](https://github.com/ipsilon/evmone/pull/1300) - 2025-08-26
+* [Commit] [crypto: Remove some unneeded code in ProjPoint (#1299)](https://github.com/ipsilon/evmone/commit/bdcd6f7cc0a22bfd45b4729a6d1f5dcaf8877e63) - 2025-08-26
+* [Pull Request] [crypto: Remove some unneeded code in ProjPoint](https://github.com/ipsilon/evmone/pull/1299) - 2025-08-26
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 

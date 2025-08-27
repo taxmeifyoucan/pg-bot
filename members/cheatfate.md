@@ -29,6 +29,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix copyright year.](https://github.com/status-im/nimbus-eth2/commit/d132bed004134fc910dd2204b7f6404485bb29db) - 2025-08-21
 * [Pull Request] [VC: Remove timeoffset check function.](https://github.com/status-im/nimbus-eth2/pull/7406) - 2025-08-21
 * [Pull Request] [Refactor fetchMissingColumnsByRoot() with tests.](https://github.com/status-im/nimbus-eth2/pull/7410) - 2025-08-22
+* [Commit] [Update events implementation.](https://github.com/status-im/nimbus-eth2/commit/f7f297c18601a4ef2fe40096679ba36eb61df809) - 2025-08-26
 ## Q2 2025
 
 

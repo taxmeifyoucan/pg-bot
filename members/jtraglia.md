@@ -51,6 +51,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Generate spec index pages in mkdocs (#4514)](https://github.com/ethereum/consensus-specs/commit/94e900754fa5f10d0ff6cfb3a1db92556ed3989c) - 2025-08-22
 * [Pull Request] [Add support for shuffled inputs to `recover_cells_and_kzg_proofs`](https://github.com/ethereum/consensus-specs/pull/4519) - 2025-08-22
 * [Commit] [Fix typo in new configuration variable (#4524)](https://github.com/ethereum/consensus-specs/commit/08066798d2f144b4ae63222cc0537c512ae00c00) - 2025-08-23
+* [Commit] [Add reference tests for KZG compute challenge functions (#4516)](https://github.com/ethereum/consensus-specs/commit/267625b21bc36750159c33451db3dbe6e8212089) - 2025-08-26
+* [Issue] [Fully populate state fields in `randomize_state`](https://github.com/ethereum/consensus-specs/issues/4535) - 2025-08-26
+* [Commit] [Update `randomize_state` to include pending operations (#4531)](https://github.com/ethereum/consensus-specs/commit/b06228c5d3c430318169752750b7788f2504393b) - 2025-08-26
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

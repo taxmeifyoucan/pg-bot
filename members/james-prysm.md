@@ -81,6 +81,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [propose block changes from peerdas branch](https://github.com/OffchainLabs/prysm/commit/88d729c0907a7a87f70cf62a8fd5ee0e494053ac) - 2025-08-25
 * [Commit] [propose block changes from peerdas branch](https://github.com/OffchainLabs/prysm/commit/e63e5af8ec5b1d370e25c1d400d7c1d2e3dfd216) - 2025-08-25
 * [Commit] [propose block changes from peerdas branch](https://github.com/OffchainLabs/prysm/commit/cea9503b14765f428906c4ad587b8b5c8077a847) - 2025-08-25
+* [Commit] [Return zero value for `Eth-Consensus-Block-Value` on error (#15526)](https://github.com/OffchainLabs/prysm/commit/385c2224e8c031bf79666fe29e671d26f2e9973f) - 2025-08-26
+* [Commit] [Change error message (#15635)](https://github.com/OffchainLabs/prysm/commit/4a1ab709296366822dd12552e13f70eb27b19a56) - 2025-08-26
+* [Commit] [adding data column receiver initialization](https://github.com/OffchainLabs/prysm/commit/0fd759a0ba6ca9d7221d545f8150e1bf8c3e938a) - 2025-08-26
+* [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/4434e5377b85d4ac71c7c5d609c4ebe83f8e298c) - 2025-08-26
+* [Commit] [fixing more tests](https://github.com/OffchainLabs/prysm/commit/0f471c150f7ea8ddad69e83a4ede56523ab3d85f) - 2025-08-26
+* [Commit] [fixing test](https://github.com/OffchainLabs/prysm/commit/ceca53d0ba0f57862c444d08097802c61a84023d) - 2025-08-26
+* [Commit] [missing dependencies](https://github.com/OffchainLabs/prysm/commit/f6a7550447a5fd1192474c751dc439f7d8680b94) - 2025-08-26
+* [Commit] [fixing linting issues and adding some proposer tests](https://github.com/OffchainLabs/prysm/commit/a21f153769f0cbe83a12d126f720787d4d12b39f) - 2025-08-26
+* [Commit] [linting and other small fixes](https://github.com/OffchainLabs/prysm/commit/8b993a428646c8e56534404a0b505cf28e82d6b6) - 2025-08-26
+* [Commit] [adding kzg tests, moving new kzg functions to validation.go](https://github.com/OffchainLabs/prysm/commit/c53fd2548dafb721dc8c0e09d9ff0d78c2a75159) - 2025-08-26
 ## Q2 2025
 
 

@@ -110,6 +110,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: move MAX_REQUEST_BLOCKS constants to config](https://github.com/ChainSafe/lodestar/commit/d1381aca2f863bfcc4a6effd49d75593e927a997) - 2025-08-25
 * [Commit] [chore: fix focil checks (#8242)](https://github.com/ChainSafe/lodestar/commit/07c6818f6a9038bf39f3090c9a513a04ecd46625) - 2025-08-25
 * [Commit] [Implement remove duties for key](https://github.com/ChainSafe/lodestar/commit/af9e65f99037fd13d6b08f6f3f18da8461d33782) - 2025-08-25
+* [Commit] [chore: remove per committee attestation routine (#8266)](https://github.com/ChainSafe/lodestar/commit/098ff4253fbc35d7c1cb2665d5f7c24bbb1bdc66) - 2025-08-26
 ## Q2 2025
 
 
