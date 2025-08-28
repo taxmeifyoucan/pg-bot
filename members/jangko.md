@@ -170,6 +170,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [evmstate_test also use new skip rules](https://github.com/status-im/nimbus-eth1/commit/6acb788d6caba02a8d23dc6cd85814e9dd9059f1) - 2025-08-24
 * [Commit] [Skip only time consuming tests](https://github.com/status-im/nimbus-eth1/commit/096b8533386a000aa198e539f284ea8623758983) - 2025-08-24
 * [Commit] [Fix EIP-7702 transaction validation: destination must not be empty](https://github.com/status-im/nimbus-eth1/commit/750a43a3bd6df93117a6ccc368cb227ac48658c7) - 2025-08-24
+* [Commit] [Disable docker login for external contributor (#3588)](https://github.com/status-im/nimbus-eth1/commit/d6bb3dbdb85a78dc3dddde033e7ae632bd236b1f) - 2025-08-27
+* [Pull Request] [Discovery: Filter out non 'eth' nodes and regularly update 'eth' field.](https://github.com/status-im/nimbus-eth1/pull/3593) - 2025-08-27
+* [Commit] [Avoid using include in DiscoveryV5 implementation (#3586)](https://github.com/status-im/nimbus-eth1/commit/de8585cbe76a9ea3a95c4b32b3695dd62362e0cb) - 2025-08-27
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

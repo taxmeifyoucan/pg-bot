@@ -111,6 +111,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: fix focil checks (#8242)](https://github.com/ChainSafe/lodestar/commit/07c6818f6a9038bf39f3090c9a513a04ecd46625) - 2025-08-25
 * [Commit] [Implement remove duties for key](https://github.com/ChainSafe/lodestar/commit/af9e65f99037fd13d6b08f6f3f18da8461d33782) - 2025-08-25
 * [Commit] [chore: remove per committee attestation routine (#8266)](https://github.com/ChainSafe/lodestar/commit/098ff4253fbc35d7c1cb2665d5f7c24bbb1bdc66) - 2025-08-26
+* [Commit] [feat: score attestations for block by profitability (#8016)](https://github.com/ChainSafe/lodestar/commit/dc288bce454e7718783ca71f8d96f4b314df830b) - 2025-08-27
+* [Pull Request] [fix: do not create data column sidecars if there block has no blobs](https://github.com/ChainSafe/lodestar/pull/8277) - 2025-08-27
+* [Issue] [Cannot produce blocks with 0 blobs post-fulu](https://github.com/ChainSafe/lodestar/issues/8276) - 2025-08-27
 ## Q2 2025
 
 

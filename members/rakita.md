@@ -185,6 +185,11 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [cleanup](https://github.com/bluealloy/revm/commit/b8b8a58eb0833696611b98a488787408cc4c3edc) - 2025-08-26
 * [Commit] [check without loading of accounts](https://github.com/bluealloy/revm/commit/2c207611274decb1df6a6437632b80ad33260a27) - 2025-08-26
 * [Commit] [ret ref of account info](https://github.com/bluealloy/revm/commit/4a983895cf2a1ade57f424fd9c684188e99643f5) - 2025-08-26
+* [Pull Request] [tests(eest): run static and develop from v4.5.0 version](https://github.com/bluealloy/revm/pull/2924) - 2025-08-27
+* [Commit] [chore(eest): bump stable v4.5.0 (hradcany) and fusaka-devnet5 v1.1.0 (#2923)](https://github.com/bluealloy/revm/commit/b3741aa0be1f8d0eb46966a54a99d0ffa631aad1) - 2025-08-27
+* [Pull Request] [chore(eest): bump stable v4.5.0 (hradcany) and fusaka-devnet5 v1.1.0](https://github.com/bluealloy/revm/pull/2923) - 2025-08-27
+* [Commit] [sstore and selfdestruct](https://github.com/bluealloy/revm/commit/b638bb5d2b2c71a6f409e74a0f13fd68c008b90e) - 2025-08-27
+* [Commit] [refactor(precompile): add new specific `PrecompileError` variants (#2907)](https://github.com/bluealloy/revm/commit/a736048d116a76344857b5bf5ea8a0a8010fe74d) - 2025-08-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

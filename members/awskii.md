@@ -94,6 +94,13 @@ Team: Erigon
 * [Commit] [make arbitrum header sync respect `sync.loop.block.limit` (#16799)](https://github.com/erigontech/erigon/commit/62fefa6f4dd0560a62b200e203a5dccf4588ed0a) - 2025-08-25
 * [Pull Request] [make arbitrum header sync respect `sync.loop.block.limit`](https://github.com/erigontech/erigon/pull/16799) - 2025-08-25
 * [Pull Request] [update sepolia snapshots to 187M](https://github.com/erigontech/erigon/pull/16830) - 2025-08-26
+* [Commit] [implement some rpc adjustments after testing (#16821)](https://github.com/erigontech/erigon/commit/dcf2b9aa32ffc1e3539cc2d667bfb8d39059659f) - 2025-08-27
+* [Commit] [update sepolia snapshots to 187M (#16830)](https://github.com/erigontech/erigon/commit/fda95ecae2a7728445b9f0fad444703f001cff37) - 2025-08-27
+* [Pull Request] [Rely on schema for key referencing in commitment branches](https://github.com/erigontech/erigon/pull/16858) - 2025-08-27
+* [Issue] [Commit downloaded history once in a while](https://github.com/erigontech/erigon/issues/16856) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/39ba8eada8ff58cdd117f0a4b29c44bbeb9d37d6) - 2025-08-27
+* [Commit] [do not pass ptr ovr chan](https://github.com/erigontech/erigon/commit/bceb74bda71b8bd973b14bb64b0fad76a0966d5f) - 2025-08-27
+* [Commit] [txnprovider/shutter: add back accidentally dropped log line (#16561)](https://github.com/erigontech/erigon/commit/f948142df8f241d367faa205db7fe6f7aa05a7ab) - 2025-08-27
 ## Q2 2025
 
 

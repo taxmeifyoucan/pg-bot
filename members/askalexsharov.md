@@ -947,6 +947,78 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b4203bb167196845e5c0a7ee8e70db8ca4051cdb) - 2025-08-25
 * [Commit] [save](https://github.com/erigontech/erigon/commit/cc4ae02fba8f29f210e582b8f874b9f8c8fc5da1) - 2025-08-25
 * [Commit] [[r32] CreateBloom: stack-allocated buf (#16795)](https://github.com/erigontech/erigon/commit/5451cb52e0ec8f357c12367ac393f0017ffdfad4) - 2025-08-26
+* [Commit] [Rely on schema for key referencing in commitment branches (#16858)](https://github.com/erigontech/erigon/commit/572471d8d47a674d8e9deae41a4ced13453b07f8) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/30e5e20d551b59dd5b03ef612b02fb2bc8ea0dfd) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/7dbffc118f9a7c4eaca3e89b79b5871aa41e04e2) - 2025-08-27
+* [Commit] [dir improvements: mv `compiler` to `execution/abi` (#16783)](https://github.com/erigontech/erigon/commit/a505b82795a1bf0a755e34514bc0788b46d0620e) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/af09cd34c19f2e044a8c94917b5f11e8fe181a55) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5c3be313231ad4510a62e6235f9676d23a9b4895) - 2025-08-27
+* [Pull Request] [rlpdump: update from upstream](https://github.com/erigontech/erigon/pull/16859) - 2025-08-27
+* [Pull Request] [drop `observer` component ](https://github.com/erigontech/erigon/pull/16857) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ad09ae2fe66ace46c748eee3400a932166aabc92) - 2025-08-27
+* [Commit] [remove `uploader` (#16828)](https://github.com/erigontech/erigon/commit/a77d3f3ffbb5b54e1fc41f48d6399c5f33ad58a0) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/5c505d0271244ec1f0964a92cd3e6f46cd86bf9c) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/086de2203b48cdbb0a294e3add0ee091819e97f1) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/2015c38a0eefd5784ec446c5f687368217190125) - 2025-08-27
+* [Commit] [move `TotalMemory` method from `mmap` to `estimate` package. merge `debug` to `dbg` package (#16849)](https://github.com/erigontech/erigon/commit/c3d94e28b90b088b518522cf48d9eb2926a8bcca) - 2025-08-27
+* [Commit] [agg: move `iiCfg`/`Schema`/`RegisterDomain calls` to `statecfg` (#16848)](https://github.com/erigontech/erigon/commit/6b6b65143df5ea1325e4798e37ec4c23953c2694) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f790413dbcbd77f1929af06abafa0c4049ed053e) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/cdbde0f8e39ba4e6235befd4adc8a342e33970a8) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/89df99f0b3869cff0d02b26e15b3422a54bfe21a) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/89cba8cacde8c09fbab0553e7b37b1abddb6ed07) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/ac2974965d114b3d8ce2d92bc92cf191f8f2b0f0) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/da76d8b3bdae64627ae3f86877bf3ce6dbc2620b) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/e4876417859e1b8d1829741dcef8bcfd645ae299) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/34ff87f7178380fdd78e42a2811c1f80920446b7) - 2025-08-27
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/7b1bb220e512f1221bca1a17754d27dc706da1d0) - 2025-08-27
+* [Commit] [Run CI tests with `-race` only after PR is merged (#16445)](https://github.com/erigontech/erigon/commit/5bd051081d4b908eb01868a65dec539719d53e32) - 2025-08-27
+* [Commit] [[r31] avoid extraneous commitment logs in rm-state (#16771)](https://github.com/erigontech/erigon/commit/d72d0f174f94903b0eb31078d8a6a4e15b3afaf6) - 2025-08-27
+* [Commit] [agg: configs immutability (#16844)](https://github.com/erigontech/erigon/commit/71baf8dc150c35a83035d16ad02f61a6f7ce3d6a) - 2025-08-27
+* [Pull Request] [up `mock`, `grpc`, `goja` version ](https://github.com/erigontech/erigon/pull/16851) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/42140cbf8dde6b35855772bc2f5cd76692de9cee) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ae7ded304f9b16c808872744e7366c55666c69ee) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2ede92d1a540c14c3f2dd5b31f9cdf1319e69acb) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/265482a8e0ed0ba351c91962df03223dc926d29d) - 2025-08-27
+* [Commit] [fix wrong header used in getLogsV3 (#16845)](https://github.com/erigontech/erigon/commit/59c8da43601debbf1b6c827f798f58e041cc009e) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0c682bf8fe674d0810074765b6980b8e2f383206) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/77ffa8cca8d517a70da9b20c42d2107994b40c93) - 2025-08-27
+* [Pull Request] [move `TotalMemory` method from `mmap` to `estimate` package. merge `debug` to `dbg` package](https://github.com/erigontech/erigon/pull/16849) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f329ce0bf8334a312b54f9ab93d4d93ba8e46247) - 2025-08-27
+* [Pull Request] [agg: move `iiCfg`/`Schema`/`RegisterDomain calls` to `statecfg`](https://github.com/erigontech/erigon/pull/16848) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8efe186e7f4908b8a52749a4633d82187c2d6ad8) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9510497df2664e4abbb2055043d65c194e334b8b) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/051a83211e598a1db21082e7f0915e1397337361) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3dc73b613ae108054059b9bdb9e40189404aaeca) - 2025-08-27
+* [Commit] [Move `WriteGenesis` to own package (#16825)](https://github.com/erigontech/erigon/commit/2b7c7b1aa640f74462fbbef4311af0c7c621f2ae) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c867de3a5f7641465db09d4ababba149e98e56e3) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/874a6e0da57e5efce960219f473e3640ac3e0f6b) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b156623e767269ac1945d725930ab16a13e3a5f8) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fb5aba45a5c0eab2e712440c611bf2ae4d06173a) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e756af19358792f3ec81b75316905ab15a82ecc8) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cc9e16ac027347530fa6632117b7e7aa631d0f50) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/86bc1b8d999de4c8e9246ac0151fa26b892fe641) - 2025-08-27
+* [Pull Request] [agg: configs immutability](https://github.com/erigontech/erigon/pull/16844) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/97542672b7d9fd292d75b93b6ad525a35d8d3fd7) - 2025-08-27
+* [Issue] [to fix bor files on 3.0 snapshotter](https://github.com/erigontech/erigon/issues/16842) - 2025-08-27
+* [Issue] [logs rotate improve](https://github.com/erigontech/erigon/issues/16841) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bf8e58aef7cb31526936fe7b736eee11a7959504) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8388a1dd6c9bac802fc49790367a6fa228fa65b3) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3e1473472f5fcf49e6cedf9d7b1ae542c9755eb9) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/09b30885ebdacab5692a1e517c24f72718dc94db) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9ce9a8c511719dceefdb019a8fb668cda6812ad7) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1f53a9cf8789962ce730e8c416cee85145897ef0) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/55337ba289ffba6c4eb41775f6cc3557f4e11849) - 2025-08-27
+* [Issue] [Optimize: `rpctest invariantsEthGetLogs` part about `topics` filters](https://github.com/erigontech/erigon/issues/16840) - 2025-08-27
+* [Pull Request] [[r31] restore topic invariant check in rpctest](https://github.com/erigontech/erigon/pull/16839) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/988d7d3063b6f0fc13447305b0af9201f42feb85) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/02bea2e7ab520490380808efb3568751ddda6f90) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e4e0a625b20977b2758d38858c8d1bfc555d276a) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7fa0e5adaa6f1050c70453aaef4deac7681b1467) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3aaf53c9ad86ea8edca06a611f2b8895368db102) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4b201d726be1093aeaa569ec6800bb57a0e7621d) - 2025-08-27
+* [Issue] [mdbx version up in `3.3.0`](https://github.com/erigontech/erigon/issues/16838) - 2025-08-27
+* [Commit] [qa-tests: improve test reporting (#16822)](https://github.com/erigontech/erigon/commit/d9de4ff48d07108fac8465c119b4277fe6769b5a) - 2025-08-27
+* [Commit] [dir improvements: move `jsonstream` from `erigon-lib` to `rpc` (#16807)](https://github.com/erigontech/erigon/commit/8c1f621c7f3344a73f9867dc323558158e7b5ca8) - 2025-08-27
 ## Q2 2025
 
 

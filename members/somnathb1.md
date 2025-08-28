@@ -71,6 +71,7 @@ Team: Erigon
 * [Commit] [workflows: use fixed teku version](https://github.com/erigontech/erigon/commit/eb9052e87d5c8360b7d0326647d4f74e5c569061) - 2025-08-26
 * [Commit] [mining: use explicit comments about built block (#16811)](https://github.com/erigontech/erigon/commit/5480a0746bddf159cd0d63a49d9a81c0e7522986) - 2025-08-26
 * [Commit] [use transactionsCount](https://github.com/erigontech/erigon/commit/66cbbcde8b90c3dcb1d9760b76665f173f5c1698) - 2025-08-26
+* [Pull Request] [workflows: use fixed teku version in kurtosis test (#16836)](https://github.com/erigontech/erigon/pull/16853) - 2025-08-27
 ## Q2 2025
 
 

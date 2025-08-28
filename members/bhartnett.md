@@ -68,6 +68,11 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Add parameter to enabled witness validation.](https://github.com/status-im/nimbus-eth1/commit/70c0b7e5839b4bf81ebb0fcd386f400f8dd67091) - 2025-08-21
 * [Commit] [Update default rocksdb cache dir (#3551)](https://github.com/status-im/nimbus-eth1/commit/ee411adc6063f18138454b759b75892a2521e3a7) - 2025-08-21
 * [Pull Request] [Fix rlp encoding of HashKey type](https://github.com/status-im/nimbus-eth1/pull/3578) - 2025-08-22
+* [Pull Request] [Update nim-rocksdb to v10.4.2.0](https://github.com/status-im/nimbus-eth1/pull/3594) - 2025-08-27
+* [Commit] [Add test covering HashKey rlp encoding when data contains embedded trie node (#3578)](https://github.com/status-im/nimbus-eth1/commit/d3a00ebf53c6a635605400df674b8e30f57abcee) - 2025-08-27
+* [Commit] [Revert change to Hashkey type.](https://github.com/status-im/nimbus-eth1/commit/b254482c0ba2ea64e2888362f5be191fd23c09df) - 2025-08-27
+* [Commit] [Add test which covers trie root calculations for embedded trie node in HashKey scenario.](https://github.com/status-im/nimbus-eth1/commit/dc205271a22541ece5568425eeffb107fc491ebb) - 2025-08-27
+* [Commit] [Add command line option for marking a manual sync target finalised (#3580)](https://github.com/status-im/nimbus-eth1/commit/f000b802475f92ccd1b6ddd0152c28182425637e) - 2025-08-27
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

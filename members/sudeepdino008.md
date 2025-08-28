@@ -202,6 +202,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [less direct agg use in backend.go (#16312)](https://github.com/erigontech/erigon/commit/4bb2c8e4bafc106e3f23380bf735ceee41e83103) - 2025-08-25
 * [Pull Request] [faster HistoryNoSystemTxs integrity check](https://github.com/erigontech/erigon/pull/16802) - 2025-08-25
 * [Pull Request] [faster HistoryNoSystemTxs integrity check](https://github.com/erigontech/erigon/pull/16801) - 2025-08-25
+* [Commit] [faster HistoryNoSystemTxs integrity check (#16802)](https://github.com/erigontech/erigon/commit/6cc7320d73dec1dfe9e994a25d6683fee3418750) - 2025-08-27
+* [Commit] [working unmarked buffered writer for rcache!](https://github.com/erigontech/erigon/commit/8d880dac6e79dd08046a712ad671305a4b953f95) - 2025-08-27
+* [Commit] [[r30] p2p: Support witness protocol (#16732)](https://github.com/erigontech/erigon/commit/faa1c7bf0da890d2258ba3c070df4c885c0bee96) - 2025-08-27
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c5c5f2bf4faa7adadadcfbd33cd98dfad2085fd7) - 2025-08-27
+* [Pull Request] [cp: fix wrong header used in getLogsV3](https://github.com/erigontech/erigon/pull/16846) - 2025-08-27
+* [Pull Request] [fix wrong header used in getLogsV3](https://github.com/erigontech/erigon/pull/16845) - 2025-08-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

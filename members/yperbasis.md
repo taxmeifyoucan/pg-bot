@@ -127,6 +127,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [nil fix in `FilePaths` (#16727)](https://github.com/erigontech/erigon/commit/7632b06fd40339f2a1123dab42047bb528b46ff6) - 2025-08-25
 * [Commit] [Update devnet tests to fusaka-devnet-5@@v1.1.0](https://github.com/erigontech/erigon/commit/b39c3782c8f065901a757fe5eb3100b361fbda58) - 2025-08-25
 * [Commit] [deps: bump gnark-crypto to v0.19.0 (#16798)](https://github.com/erigontech/erigon/commit/b7b5356b0fa06e98ed3a7e9bc01206e055da972f) - 2025-08-25
+* [Commit] [workflows: use fixed teku version in kurtosis test (#16836) (#16853)](https://github.com/erigontech/erigon/commit/dfe6d5d840872a61a8b0d7f35e582bbad3465c0a) - 2025-08-27
+* [Issue] [OtterSync ignores prune.mode and tries to download all snapshot](https://github.com/erigontech/erigon/issues/16852) - 2025-08-27
+* [Commit] [go-kzg-4844: pass blobs by pointer to VerifyBlobKZGProofBatch(Par) (#16826)](https://github.com/erigontech/erigon/commit/26cc682298ee7b09d2ade1c0f7129859c7213495) - 2025-08-27
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

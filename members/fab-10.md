@@ -22,6 +22,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Improve info logs during block creation](https://github.com/hyperledger/besu/pull/9020) - 2025-07-29
 * [Commit] [Improve info logs during block creation (#9020)](https://github.com/hyperledger/besu/commit/f784ebfa189aa89cbfea9e4f832758273ce2cd5e) - 2025-07-30
 * [Commit] [Add WorldStateService to the plugin API (#9024)](https://github.com/hyperledger/besu/commit/2ffd464540978f4cb41593296d2e5f2f5279f38b) - 2025-07-31
+* [Pull Request] [Add get hardforkId by block number to Blockchain service](https://github.com/hyperledger/besu/pull/9115) - 2025-08-27
+* [Commit] [Block transaction selector performance (#9023)](https://github.com/hyperledger/besu/commit/7870344c61395905a6a750b65a29f3f4961c4106) - 2025-08-27
 ## Q2 2025
 
 

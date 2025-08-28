@@ -60,6 +60,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Improve bn254 point "on curve" check](https://github.com/ipsilon/evmone/pull/1300) - 2025-08-26
 * [Commit] [crypto: Remove some unneeded code in ProjPoint (#1299)](https://github.com/ipsilon/evmone/commit/bdcd6f7cc0a22bfd45b4729a6d1f5dcaf8877e63) - 2025-08-26
 * [Pull Request] [crypto: Remove some unneeded code in ProjPoint](https://github.com/ipsilon/evmone/pull/1299) - 2025-08-26
+* [Commit] [crypto: Avoid to/from Montgomery conversion of y in secp256k1 (#1303)](https://github.com/ipsilon/evmone/commit/6debfd4d015560526edff0840b50692c91932d79) - 2025-08-27
+* [Pull Request] [crypto: Avoid to/from Montgomery conversion of y in secp256k1](https://github.com/ipsilon/evmone/pull/1303) - 2025-08-27
+* [Commit] [crypto: Upgrade ProjPoint to use FieldElement (#1302)](https://github.com/ipsilon/evmone/commit/401ce72e7f86e3e7ac5c0a568fe58082123ad6f6) - 2025-08-27
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 

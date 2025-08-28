@@ -109,6 +109,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add fulu.KzgProofs/fulu.BlobsBundle and disambiguate elsewhere](https://github.com/status-im/nimbus-eth2/pull/7412) - 2025-08-24
 * [Commit] [make test_block_processor identical to in unstable](https://github.com/status-im/nimbus-eth2/commit/2b3a157adb9610ad887b3f71ebb8d52adaf6703c) - 2025-08-25
 * [Commit] [adjust fulu mev unblind condition (#7415)](https://github.com/status-im/nimbus-eth2/commit/4afc1ddc8f45e77b8a3d6628f53cd520dd24090b) - 2025-08-26
+* [Commit] [Speed up and simplify json serialization (#7385)](https://github.com/status-im/nimbus-eth2/commit/5593ec368f5f833a619a473ffb7581d2ebfe99bc) - 2025-08-27
+* [Commit] [validator custody and related changes (#7420)](https://github.com/status-im/nimbus-eth2/commit/9daea6236f398912881b13e216804175d6c3d4ee) - 2025-08-27
+* [Commit] [refill 3 epochs at a time (#7419)](https://github.com/status-im/nimbus-eth2/commit/ea18f434279e5bb6d1d561efe253daca2d85d0a4) - 2025-08-27
+* [Commit] [use let instead of var](https://github.com/status-im/nimbus-eth2/commit/fae2a70fce0fa07e4b1988ad0df827678ab5100e) - 2025-08-27
+* [Commit] [use if expression rather than statement](https://github.com/status-im/nimbus-eth2/commit/0036c5118bc170634726f2bb41713023ae1e40a6) - 2025-08-27
+* [Commit] [add missing Epoch type conversion](https://github.com/status-im/nimbus-eth2/commit/1e47a45cb969e41f9207395adf53631eb70eda35) - 2025-08-27
+* [Commit] [add uint64 to Epoch conversion](https://github.com/status-im/nimbus-eth2/commit/c9a28ce07f5ab13d56a22f3f0eb1608037c45b92) - 2025-08-27
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

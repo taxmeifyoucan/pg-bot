@@ -80,6 +80,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Add test_fork_random_filled_state to Fulu fork tests](https://github.com/ethereum/consensus-specs/pull/4530) - 2025-08-25
 * [Pull Request] [Remove header and inclusion proof from data column sidecar in Gloas](https://github.com/ethereum/consensus-specs/pull/4527) - 2025-08-25
 * [Pull Request] [Rename execution payload header to execution payload bid](https://github.com/ethereum/consensus-specs/pull/4525) - 2025-08-25
+* [Pull Request] [Fix Gloas self build test to use correct proposer](https://github.com/ethereum/consensus-specs/pull/4537) - 2025-08-27
 ## Q2 2025
 
 

@@ -13,3 +13,4 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [test(osaka): add edge case test vectors for EIP-7883 MODEXP gas calculation](https://github.com/ethereum/execution-spec-tests/pull/1993) - 2025-08-06
 * [Pull Request] [test(osaka): add p256 precompile edge case test](https://github.com/ethereum/execution-spec-tests/pull/2079) - 2025-08-25
+* [Pull Request] [test(eip7951): add invalid curve attack test case for P256VERIFY](https://github.com/ethereum/execution-spec-tests/pull/2082) - 2025-08-27

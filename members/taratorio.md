@@ -154,6 +154,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [use lock](https://github.com/erigontech/erigon/commit/83b62df915b4b953c626b51c8fb75de58b0a56f9) - 2025-08-20
 * [Pull Request] [txnprovider/txpool: unblock p.lastSeenCond.Wait on shutdown](https://github.com/erigontech/erigon/pull/16750) - 2025-08-20
 * [Commit] [workflows: use fixed teku version in kurtosis test (#16836)](https://github.com/erigontech/erigon/commit/0da742f46e88a1da0d4334b96d7b6605fe8b227a) - 2025-08-26
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/38bacfe402fb8a576f2f6c11f1a0c26dc76afd3b) - 2025-08-27
+* [Commit] [dir improvements: move `direct` and `p2p` out of `erigon-lib` (#16818)](https://github.com/erigontech/erigon/commit/1b643f3797336c0f4a027833c15af072f47f23dc) - 2025-08-27
 ## Q2 2025
 
 

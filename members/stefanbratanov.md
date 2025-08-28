@@ -28,6 +28,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Barebones `Gloas` fork](https://github.com/Consensys/teku/pull/9801) - 2025-08-24
 * [Commit] [Bare-bones `Gloas` fork + fix `Fulu` fork upgrade bug (#9801)](https://github.com/Consensys/teku/commit/59a2621730c9749499e7c7dcd6808b7502381de8) - 2025-08-25
 * [Issue] [Investigate heavy memory usage in DataColumnSidecars*IntegrationTests](https://github.com/Consensys/teku/issues/9803) - 2025-08-25
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Commit] [[QUIC] Set muxer session and secure session on connection (#413)](https://github.com/libp2p/jvm-libp2p/commit/3d4b05fa1315e9af90a50d1d3204d0717d7f90ae) - 2025-08-27
 ## Q2 2025
 
 

@@ -61,6 +61,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [add state tests](https://github.com/status-im/nimbus-eth1/commit/29cc46d9db66e9cb30041049b2ec610f33ccd71b) - 2025-08-25
 * [Commit] [fix crash in invalid fc state (#3577)](https://github.com/status-im/nimbus-eth1/commit/d584afb9925d059cde163800d538d48fd168cb2f) - 2025-08-25
 * [Commit] [increase new test fixtures devnet 5](https://github.com/status-im/nimbus-eth1/commit/92f2b7ef3b31f862861c091ace267f9601605295) - 2025-08-25
+* [Commit] [add ecAdd](https://github.com/status-im/nimbus-eth1/commit/714333fc25de2fd50b5d59e22addd4b5e7f85790) - 2025-08-27
 ## Q2 2025
 
 

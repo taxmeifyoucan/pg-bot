@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] [Workaround to force the txpool to be always on (#8755)](https://github.com/hyperledger/besu/pull/9044) - 2025-08-08
 * [Commit] [Refactor ECRECPrecompiledContract to prepare for wiring in LibSecp256k1JNI](https://github.com/hyperledger/besu/commit/2695516863294b03f2d0558fe966b373fe3c13ad) - 2025-08-11
 * [Pull Request] [Improve EcRecover precompile performance](https://github.com/hyperledger/besu/pull/9053) - 2025-08-11
+* [Commit] [Add some compute Opcode benchmarks (#9069)](https://github.com/hyperledger/besu/commit/0601909ca87ef9c5ba99cb0da2ad8a03fef988ae) - 2025-08-27
 ## Q2 2025
 
 

@@ -59,6 +59,25 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [`--network` should allow specifying a folder directly](https://github.com/status-im/nimbus-eth1/issues/3565) - 2025-08-15
 * [Issue] [Discoveryv5 implementation should not use include](https://github.com/status-im/nimbus-eth1/issues/3573) - 2025-08-21
 * [Commit] [add ugly todo for inconsistent state in FC (#3579)](https://github.com/status-im/nimbus-eth1/commit/eed24e942f7372a71d516af477514ef9c650b7a1) - 2025-08-23
+* [Pull Request] [bump: *-serialization](https://github.com/status-im/nimbus-eth1/pull/3597) - 2025-08-27
+* [Commit] [imports](https://github.com/status-im/nimbus-eth1/commit/b3d15d1db41cdcb03e370624ca8998887559a918) - 2025-08-27
+* [Pull Request] [Update data directory defaults to include namespace, network](https://github.com/status-im/nimbus-eth1/pull/3596) - 2025-08-27
+* [Commit] [Update data directory defaults to include namespace, network](https://github.com/status-im/nimbus-eth1/commit/10db476c64b48650f484e4696f0abaf17641c106) - 2025-08-27
+* [Commit] [Update data directory defaults to include namespace, network](https://github.com/status-im/nimbus-eth1/commit/3e0a3f6ba3ca3025e4cdaadc4b9b757d20ba6932) - 2025-08-27
+* [Commit] [Update data directory defaults to include namespace, network](https://github.com/status-im/nimbus-eth1/commit/4edd893802fe30983fdeb5018892d30899063fdf) - 2025-08-27
+* [Commit] [more bumps](https://github.com/status-im/nimbus-eth1/commit/10f16eee6a19aae7df09f3c2dff3f3d4438cf411) - 2025-08-27
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/2e71f988be486f8f47ba7f7a3fde4ae4b252d4b7) - 2025-08-27
+* [Commit] [oops](https://github.com/status-im/nimbus-eth1/commit/b4015e76c6d80de0395090cf3c15a2eb4abcb83d) - 2025-08-27
+* [Commit] [disambiguate running](https://github.com/status-im/nimbus-eth1/commit/6490b29291ce09a831f7309359b24ee8788d8703) - 2025-08-27
+* [Commit] [Fix crash when processOrphan's parent.txFrame is nil (#3584)](https://github.com/status-im/nimbus-eth1/commit/2077499ead89a76c055abc5ae7693d0da4664920) - 2025-08-27
+* [Commit] [lint](https://github.com/status-im/nimbus-eth1/commit/27420cff7736714fe9cdacf0a9830ea7684c366a) - 2025-08-27
+* [Commit] [fulu forkdigests changed](https://github.com/status-im/nimbus-eth1/commit/cddfb996e5073e1d8dee3f72671e14f3cf3864c7) - 2025-08-27
+* [Commit] [vp updates](https://github.com/status-im/nimbus-eth1/commit/eb10d8fed22ff53866baef3377db80101fa80a87) - 2025-08-27
+* [Pull Request] [Adopt `ProcessState` for terminating application](https://github.com/status-im/nimbus-eth1/pull/3592) - 2025-08-27
+* [Commit] [Adopt `ProcessState` for terminating application](https://github.com/status-im/nimbus-eth1/commit/76cb4a301d706d1b2cd11c26233f9064735918d8) - 2025-08-27
+* [Commit] [Adopt `ProcessState` for terminating application](https://github.com/status-im/nimbus-eth1/commit/f7ae1154f9537a73b4c5a731b5423d9e33faedd4) - 2025-08-27
+* [Commit] [Adopt `ProcessState` for terminating application](https://github.com/status-im/nimbus-eth1/commit/3511b14ba282eb0048ae86a12b0848058f51cdd1) - 2025-08-27
+* [Issue] [TOML config file support](https://github.com/status-im/nimbus-eth1/issues/3591) - 2025-08-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -130,6 +149,19 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [logging](https://github.com/status-im/nimbus-eth2/commit/21815629fcf9a75e709f1f519a60f46b5be23883) - 2025-08-22
 * [Commit] [restore signal state after waitSignal](https://github.com/status-im/nimbus-eth2/commit/7d5f45ccc8e9767667d5f94b34d8c06b7a914d66) - 2025-08-23
 * [Commit] [use v1.6.0-alpha.5 consensus reference tests (#7407)](https://github.com/status-im/nimbus-eth2/commit/88fce1f29a61865a64869e3e5ee213c0bebed1bb) - 2025-08-26
+* [Commit] [rm help texts](https://github.com/status-im/nimbus-eth2/commit/f0acc72b45992e216c63f42b51eda7c5ac91a6d4) - 2025-08-27
+* [Commit] [export](https://github.com/status-im/nimbus-eth2/commit/a193258723c9461bde31f6d1279f343a7ab523c0) - 2025-08-27
+* [Commit] [split](https://github.com/status-im/nimbus-eth2/commit/2e538b400ac926349f2be8a5b73c849bcd3c75e3) - 2025-08-27
+* [Commit] [dohgit add beacon_chain/nimbus_beacon_node.nim](https://github.com/status-im/nimbus-eth2/commit/ed30063688a0a0997a13b6eab6945140816e5005) - 2025-08-27
+* [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/6c5e35b8b39767bdf86b9158ba320657c482d50f) - 2025-08-27
+* [Pull Request] [Update data directory defaults to include namespace, network](https://github.com/status-im/nimbus-eth2/pull/7422) - 2025-08-27
+* [Commit] [doh](https://github.com/status-im/nimbus-eth2/commit/4948adaa677d09e4e61440bf3bf4a1e63377cbc4) - 2025-08-27
+* [Commit] [Rework process shutdown, simplified (fixes #3235) (#7418)](https://github.com/status-im/nimbus-eth2/commit/8009c72e6f3501a0da0ec59a337c42b885c14fb6) - 2025-08-27
+* [Commit] [0xHex](https://github.com/status-im/nimbus-eth2/commit/df58655c475745b61b2dd3f3cedd055e3fca22c5) - 2025-08-27
+* [Pull Request] [bump: *-serialization](https://github.com/status-im/nimbus-eth2/pull/7421) - 2025-08-27
+* [Commit] [simplified syntax for stopping](https://github.com/status-im/nimbus-eth2/commit/007c348e9a4bb75730872e708946e03db1b0980a) - 2025-08-27
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/ca0a634e828b0bbcecf68be594670a1fe8dbb44e) - 2025-08-27
+* [Commit] [also light client](https://github.com/status-im/nimbus-eth2/commit/2d12ee25968ce99816c360ed525c044fdf330be3) - 2025-08-27
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

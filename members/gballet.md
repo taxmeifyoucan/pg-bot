@@ -40,6 +40,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [switch blake3 -> sha256](https://github.com/gballet/go-ethereum/commit/295fd383efc34377ce2e45c299d973ee74a2e033) - 2025-08-25
 * [Commit] [push missing verkle iterator files (#550)](https://github.com/gballet/go-ethereum/commit/5130362a9efd806e75760d25265b9f4e9be7c056) - 2025-08-25
 * [Commit] [remove commented out code](https://github.com/gballet/go-ethereum/commit/12e6a796c68b033fb1a71afe74760ef6ac2a1a82) - 2025-08-25
+* [Commit] [fix linter](https://github.com/gballet/go-ethereum/commit/931b8fb13ed5ed3e0c6d227d64297930f5d16c2d) - 2025-08-27
 ## Q2 2025
 
 

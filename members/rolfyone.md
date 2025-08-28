@@ -56,6 +56,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [draft addition of config for gloas](https://github.com/Consensys/teku/pull/9800) - 2025-08-23
 * [Pull Request] [reduced integration test container](https://github.com/Consensys/teku/pull/9802) - 2025-08-25
 * [Commit] [added config for gloas and basis points (#9800)](https://github.com/Consensys/teku/commit/8b4cecfc7ea1e9ce5c7dbed6dc940b9609b56090) - 2025-08-25
+* [Pull Request] [removed ttfb_timeout and resp_timeout from configuration](https://github.com/Consensys/teku/pull/9815) - 2025-08-27
 ## Q2 2025
 
 

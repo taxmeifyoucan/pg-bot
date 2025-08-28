@@ -168,6 +168,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [`custodyGroupCountFromPeerENR`: Add agent on error messages.](https://github.com/OffchainLabs/prysm/commit/7e7fa6069f7d1f1f0b072be05747fd405c3cad29) - 2025-08-26
 * [Commit] [Fix Preston comment.](https://github.com/OffchainLabs/prysm/commit/d19f790cefdaa515444310a4ef17e2fe48d9f574) - 2025-08-26
 * [Commit] [Fix Preston comment.](https://github.com/OffchainLabs/prysm/commit/8d604ade4cd47b2471c50b3127986c6ab34a153a) - 2025-08-26
+* [Commit] [Change error message (#15635)](https://github.com/OffchainLabs/prysm/commit/4a1ab709296366822dd12552e13f70eb27b19a56) - 2025-08-27
+* [Commit] [Fix `TestCustodyGroupCountFromPeer`.](https://github.com/OffchainLabs/prysm/commit/bdd9767393dde29209d2f51128f271339d3f31c9) - 2025-08-27
+* [Commit] [`s.fetchOriginColumns`: Use `maxAttempts` and `delay` as parameters to ease unit testing.](https://github.com/OffchainLabs/prysm/commit/80c240bdeb5cd4826c929df1061c6756cabbcef3) - 2025-08-27
+* [Commit] [Fix `TestCustodyGroupCountFromPeer`.](https://github.com/OffchainLabs/prysm/commit/12410452ac90e563fc42c6c5e9b71cec5d85eea0) - 2025-08-27
 ## Q2 2025
 
 

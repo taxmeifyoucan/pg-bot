@@ -90,6 +90,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[fulu] Self rate limiter failed to track completed errored response](https://github.com/ChainSafe/lodestar/issues/8256) - 2025-08-23
 * [Pull Request] [feat: finalized sync e2e post electra only](https://github.com/ChainSafe/lodestar/pull/8255) - 2025-08-23
 * [Commit] [fix: support 0 to 3 transactions for fulu](https://github.com/ChainSafe/lodestar/commit/86d606e8c045537c2d4d08dc72fa4b453f06b9d0) - 2025-08-23
+* [Commit] [fix: validate char code](https://github.com/ChainSafe/lodestar/commit/28f76ee7d143df38113c6c9c25f83f95437cffeb) - 2025-08-27
+* [Commit] [chore: fix unit test preallocated Uint8Array](https://github.com/ChainSafe/lodestar/commit/73b679cb4d75bccf2f38c9cdf394134785d53a9a) - 2025-08-27
+* [Pull Request] [feat: fromHexInto() api](https://github.com/ChainSafe/lodestar/pull/8275) - 2025-08-27
+* [Commit] [fix: blob test data](https://github.com/ChainSafe/lodestar/commit/8fbf66a4c1079242989be5869425d978e28b3a15) - 2025-08-27
+* [Commit] [fix: move nodejs fromHexInto() to benchmark test bytes.test.ts](https://github.com/ChainSafe/lodestar/commit/a658d2a8c95175c6ee16a4873fbe6fa577859a31) - 2025-08-27
+* [Commit] [fix: centralize routeId definition to single place](https://github.com/ChainSafe/lodestar/commit/e172d845937b1fa75c56285e808fe612e50990d3) - 2025-08-27
+* [Commit] [fix: also track for other routes](https://github.com/ChainSafe/lodestar/commit/f3c28e71a63a734c7dc80df8669388fb7bcc3895) - 2025-08-27
+* [Commit] [fix: lint](https://github.com/ChainSafe/lodestar/commit/700a2e5c8ddeee9b812ccb3e4c25f5a5d2f4be51) - 2025-08-27
+* [Pull Request] [fix: track execution engine getBlobs requests](https://github.com/ChainSafe/lodestar/pull/8274) - 2025-08-27
 ## Q2 2025
 
 

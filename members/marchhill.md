@@ -141,6 +141,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [move RLP decoding](https://github.com/NethermindEth/nethermind/commit/15bbab12c60dc3137cf7be21a6d4021886573c67) - 2025-08-22
 * [Commit] [add block processing test](https://github.com/NethermindEth/nethermind/commit/9d1d9ffa958d74cb8ee4aafa7b5f8352ae3e55d9) - 2025-08-22
 * [Commit] [account changes rlp+](https://github.com/NethermindEth/nethermind/commit/87dc02c45175b74ce02621b1a132d7085ebf7754) - 2025-08-26
+* [Commit] [always start new sequence rlp](https://github.com/NethermindEth/nethermind/commit/3223680e8241e3aa03e41189c4fe48326cced66e) - 2025-08-27
+* [Commit] [bal encoding / decoding](https://github.com/NethermindEth/nethermind/commit/a9f0e93c04de88ec3541c7185c92d7bb2c2bed32) - 2025-08-27
 ## Q2 2025
 
 

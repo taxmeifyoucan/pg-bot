@@ -68,6 +68,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [Java 25 investigation](https://github.com/hyperledger/besu/issues/9100) - 2025-08-22
 * [Pull Request] [RC3 changelog - 8869 included 25.8.0](https://github.com/hyperledger/besu/pull/9106) - 2025-08-25
 * [Issue] [AbstractRetryingSwitchingPeerTask.selectNextPeer IllegalArg - Comparison method violates contract](https://github.com/hyperledger/besu/issues/9105) - 2025-08-25
+* [Commit] [update commons dependencies (#9114)](https://github.com/hyperledger/besu/commit/ede86e40024a7086ba7f0c444a70f1cebd6dd4d6) - 2025-08-27
+* [Commit] [Reset ws before retrying block processing (#9113)](https://github.com/hyperledger/besu/commit/f1957a2b4b83335828bef9f20451da365c1a2c22) - 2025-08-27
+* [Commit] [upgrade netty version (#9112)](https://github.com/hyperledger/besu/commit/095da6c1fd7b470b27a3b759e8687b64052444be) - 2025-08-27
+* [Pull Request] [update commons and log4j dependencies](https://github.com/hyperledger/besu/pull/9114) - 2025-08-27
+* [Pull Request] [upgrade netty version to 4.2.4](https://github.com/hyperledger/besu/pull/9112) - 2025-08-27
 ## Q2 2025
 
 

@@ -22,6 +22,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Base mainnet bigger machine (#9158)](https://github.com/NethermindEth/nethermind/commit/b5d9812c70796d222b559d342be20f2013a213b7) - 2025-08-18
 * [Pull Request] [Base mainnet bigger machine](https://github.com/NethermindEth/nethermind/pull/9158) - 2025-08-18
 * [Commit] [mock](https://github.com/NethermindEth/nethermind/commit/728ef44c46d912525b05043500e4bcfc210f6f09) - 2025-08-26
+* [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/ad77bc20ba01eec3a5a6b2e34b489bfacd304908) - 2025-08-27
+* [Commit] [fixes](https://github.com/NethermindEth/nethermind/commit/59d72ce4e3e29f80424e9bde6f940604ec69a540) - 2025-08-27
+* [Commit] [Update Pyroscope .NET agent version in Dockerfile](https://github.com/NethermindEth/nethermind/commit/28db0494c5c6edcb0b83cfeef4fc731751ec52cf) - 2025-08-27
+* [Commit] [Update Pyroscope binaries to version 0.10.0](https://github.com/NethermindEth/nethermind/commit/2720b98b0842756f638f0c345cd117d1c8515b50) - 2025-08-27
+* [Commit] [Enhance Dockerfile for Pyroscope CLR profiling](https://github.com/NethermindEth/nethermind/commit/9bcdfbfdde760926a5c801f9dad933eb4e7c91d4) - 2025-08-27
+* [Commit] [Update Pyroscope agent binaries to x86_64 version](https://github.com/NethermindEth/nethermind/commit/2a0e86357da7660ad6c1b806be24389a6bacbc97) - 2025-08-27
+* [Commit] [Update Dockerfile](https://github.com/NethermindEth/nethermind/commit/2775b632d81f3b46237e40db0d235c93252a16a8) - 2025-08-27
+* [Commit] [Update Dockerfile](https://github.com/NethermindEth/nethermind/commit/b15767c625a0271e9eba20b9621c87a1df1985a1) - 2025-08-27
+* [Commit] [Remove Pyroscope package reference](https://github.com/NethermindEth/nethermind/commit/22d564bceacf414920b90c13066ae6fb5da6b948) - 2025-08-27
+* [Commit] [Remove Pyroscope package version](https://github.com/NethermindEth/nethermind/commit/37eca9a4282f6b72984908b4d67adcc1632895ae) - 2025-08-27
 ## Q2 2025
 
 

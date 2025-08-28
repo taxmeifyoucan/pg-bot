@@ -74,6 +74,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Node slow to sync](https://github.com/ChainSafe/lodestar/issues/8263) - 2025-08-25
 * [Commit] [feat: print out blob parameters if BPO fork is activated (#8253)](https://github.com/ChainSafe/lodestar/commit/cc8c1ac67e7515f824c54e8fd782d3d6ad1913ca) - 2025-08-25
 * [Commit] [chore: track DataColumnSidecar errors on Grafana (#8259)](https://github.com/ChainSafe/lodestar/commit/58a8297a161c0def525929fc90587cef8b1939d4) - 2025-08-25
+* [Commit] [feat: fromHexInto() api (#8275)](https://github.com/ChainSafe/lodestar/commit/afdf325ebf258fc7240fae4e3f7e180d1631eded) - 2025-08-27
+* [Commit] [feat: track kzg proofs verification time (#8267)](https://github.com/ChainSafe/lodestar/commit/14a6f737fdda5221708e22332d2851f7de8c7125) - 2025-08-27
 ## Q2 2025
 
 
