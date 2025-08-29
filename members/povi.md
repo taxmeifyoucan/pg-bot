@@ -37,6 +37,9 @@ Team: Grandine
 * [Pull Request] [Fix block event send after delayed payload is applied to block during block import](https://github.com/grandinetech/grandine/pull/305) - 2025-08-18
 * [Commit] [Fix head event sending issues](https://github.com/grandinetech/grandine/commit/54db7c0c5a630cd40c687b8b4c3d8ecc659d66fb) - 2025-08-25
 * [Pull Request] [Fix head event sending issues](https://github.com/grandinetech/grandine/pull/321) - 2025-08-25
+* [Pull Request] [HTTP API: allow to produce beacon blocks when beacon node is out of sync](https://github.com/grandinetech/grandine/pull/328) - 2025-08-28
+* [Commit] [Allow to processing long empty slot distances when preparing beacon state for block production](https://github.com/grandinetech/grandine/commit/e25e60297555d490ecdc1d1174f83eb76e4696ec) - 2025-08-28
+* [Pull Request] [Allow to processing long empty slot distances when preparing beacon state for block production](https://github.com/grandinetech/grandine/pull/326) - 2025-08-28
 ## Q2 2025
 
 

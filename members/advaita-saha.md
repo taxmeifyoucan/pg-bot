@@ -62,6 +62,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix crash in invalid fc state (#3577)](https://github.com/status-im/nimbus-eth1/commit/d584afb9925d059cde163800d538d48fd168cb2f) - 2025-08-25
 * [Commit] [increase new test fixtures devnet 5](https://github.com/status-im/nimbus-eth1/commit/92f2b7ef3b31f862861c091ace267f9601605295) - 2025-08-25
 * [Commit] [add ecAdd](https://github.com/status-im/nimbus-eth1/commit/714333fc25de2fd50b5d59e22addd4b5e7f85790) - 2025-08-27
+* [Commit] [add blsG1Add](https://github.com/status-im/nimbus-eth1/commit/ca5d607272f2c6cb405f009d7462a2dbfe052f09) - 2025-08-28
+* [Commit] [add ripemd160](https://github.com/status-im/nimbus-eth1/commit/b398cf9fcc3da49344496a52696f8fe8a9d10cd5) - 2025-08-28
 ## Q2 2025
 
 

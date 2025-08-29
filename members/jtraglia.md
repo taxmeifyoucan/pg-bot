@@ -55,6 +55,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [Fully populate state fields in `randomize_state`](https://github.com/ethereum/consensus-specs/issues/4535) - 2025-08-26
 * [Commit] [Update `randomize_state` to include pending operations (#4531)](https://github.com/ethereum/consensus-specs/commit/b06228c5d3c430318169752750b7788f2504393b) - 2025-08-26
 * [Commit] [Fix Gloas self build test to use correct proposer (#4537)](https://github.com/ethereum/consensus-specs/commit/9e05f7fe0d6c869bfaaeff8e15d1a63cd46e310e) - 2025-08-27
+* [Issue] [Execution payload spec test issue in gloas](https://github.com/ethereum/consensus-specs/issues/4545) - 2025-08-28
+* [Pull Request] [Add central `get_duration_ms` function with identifiers](https://github.com/ethereum/consensus-specs/pull/4542) - 2025-08-28
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

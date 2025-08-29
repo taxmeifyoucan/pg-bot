@@ -79,6 +79,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix](https://github.com/status-im/nimbus-eth2/commit/9e1f13e1d444ce4790725974568fe528fbf19581) - 2025-08-25
 * [Pull Request] [adjust fulu mev unblind condition](https://github.com/status-im/nimbus-eth2/pull/7415) - 2025-08-25
 * [Commit] [resolve message router issues](https://github.com/status-im/nimbus-eth2/commit/668e589bbd21e59af7a5162be9c250618fc68847) - 2025-08-25
+* [Commit] [Update data directory defaults to include namespace, network (#7422)](https://github.com/status-im/nimbus-eth2/commit/14d54b0af2ceb19ace015d40455174b36a88c63b) - 2025-08-28
 ## Q2 2025
 
 

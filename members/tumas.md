@@ -41,6 +41,9 @@ Team: Grandine
 * [Commit] [chore: update minimal_config to latest spec ](https://github.com/grandinetech/grandine/commit/4739cfd5b3081b94fa9e57c98ce45b55df6f7e4d) - 2025-08-25
 * [Pull Request] [Feature/consensus specs v1.6.0 alpha.5](https://github.com/grandinetech/grandine/pull/320) - 2025-08-25
 * [Commit] [Add `beacon_clock_slot` metric (#317)](https://github.com/grandinetech/grandine/commit/b273c9f78f3568ecb9cd7cbd9e8589257ca8574f) - 2025-08-25
+* [Commit] [WIP: persist then prune data columns](https://github.com/grandinetech/grandine/commit/6a0a98bb01142eb4e7a9717ec8b368b7c5541334) - 2025-08-28
+* [Pull Request] [Feature/persist then prune data columns](https://github.com/grandinetech/grandine/pull/327) - 2025-08-28
+* [Pull Request] [Use `versioned_hashes` instead of `indices` in blobs endpoint](https://github.com/grandinetech/grandine/pull/325) - 2025-08-28
 ## Q2 2025
 
 

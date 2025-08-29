@@ -76,6 +76,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: track DataColumnSidecar errors on Grafana (#8259)](https://github.com/ChainSafe/lodestar/commit/58a8297a161c0def525929fc90587cef8b1939d4) - 2025-08-25
 * [Commit] [feat: fromHexInto() api (#8275)](https://github.com/ChainSafe/lodestar/commit/afdf325ebf258fc7240fae4e3f7e180d1631eded) - 2025-08-27
 * [Commit] [feat: track kzg proofs verification time (#8267)](https://github.com/ChainSafe/lodestar/commit/14a6f737fdda5221708e22332d2851f7de8c7125) - 2025-08-27
+* [Commit] [chore: fix batch update when there are skip slots](https://github.com/ChainSafe/lodestar/commit/d50165508fcc321a4ffa65dd1a31d2427f26cc5b) - 2025-08-28
+* [Commit] [chore: fix typo](https://github.com/ChainSafe/lodestar/commit/fbe6919d28e1bce37c289d58c418f6f55e07ffd4) - 2025-08-28
+* [Commit] [chore: improve log](https://github.com/ChainSafe/lodestar/commit/6073afc78aa7b95461a5702fdd51d398e1fd5652) - 2025-08-28
+* [Commit] [chore: dedupe blobsRequestBlocks](https://github.com/ChainSafe/lodestar/commit/cd68138762ef1891ab73dde39bc343f3db9cb18a) - 2025-08-28
+* [Commit] [chore: fix broken types for `datastore-level` (#8287)](https://github.com/ChainSafe/lodestar/commit/c9507c76b233fa93075022d3e6a7a1c72b9663ab) - 2025-08-28
+* [Commit] [chore: fix some bugs](https://github.com/ChainSafe/lodestar/commit/11582b33ab02d90988e826d78d76985a092bf2ad) - 2025-08-28
+* [Commit] [chore: track req/resp outgoing request error reason (#8283)](https://github.com/ChainSafe/lodestar/commit/2ac5250665e7dbe784733673440809b462e5c2b9) - 2025-08-28
+* [Commit] [Update dashboards/lodestar_networking.json](https://github.com/ChainSafe/lodestar/commit/5c00932f8ec659e0d1e3a6e05a7cbf02b11aab63) - 2025-08-28
 ## Q2 2025
 
 

@@ -29,8 +29,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Bare-bones `Gloas` fork + fix `Fulu` fork upgrade bug (#9801)](https://github.com/Consensys/teku/commit/59a2621730c9749499e7c7dcd6808b7502381de8) - 2025-08-25
 * [Issue] [Investigate heavy memory usage in DataColumnSidecars*IntegrationTests](https://github.com/Consensys/teku/issues/9803) - 2025-08-25
 
+* [Commit] [Bring back `getBeaconProposerIndex` validation for Fulu (#9823)](https://github.com/Consensys/teku/commit/50be3d3e316b03088c40a5a2d95ed6a1141fa6ce) - 2025-08-28
+* [Pull Request] [Bring back getBeaconProposerIndex validation for Fulu](https://github.com/Consensys/teku/pull/9823) - 2025-08-28
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Commit] [[QUIC] Set muxer session and secure session on connection (#413)](https://github.com/libp2p/jvm-libp2p/commit/3d4b05fa1315e9af90a50d1d3204d0717d7f90ae) - 2025-08-27
+* [Commit] [Apply InboundTrafficLimitHandler only if max bytes > 0 (#416)](https://github.com/libp2p/jvm-libp2p/commit/25dd797a57715ab32ac4b3431bc98a997383f2f4) - 2025-08-28
+* [Commit] [Use netty core instead of incubator artifact for QUIC (#412)](https://github.com/libp2p/jvm-libp2p/commit/33ffc1ac03b7c69df995a7316b1bf0d116f4c8eb) - 2025-08-28
 ## Q2 2025
 
 

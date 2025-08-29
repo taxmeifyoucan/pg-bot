@@ -81,6 +81,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Remove header and inclusion proof from data column sidecar in Gloas](https://github.com/ethereum/consensus-specs/pull/4527) - 2025-08-25
 * [Pull Request] [Rename execution payload header to execution payload bid](https://github.com/ethereum/consensus-specs/pull/4525) - 2025-08-25
 * [Pull Request] [Fix Gloas self build test to use correct proposer](https://github.com/ethereum/consensus-specs/pull/4537) - 2025-08-27
+* [Pull Request] [Enable payload attestation tests for mainnet](https://github.com/ethereum/consensus-specs/pull/4544) - 2025-08-28
 ## Q2 2025
 
 

@@ -190,6 +190,13 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [chore(eest): bump stable v4.5.0 (hradcany) and fusaka-devnet5 v1.1.0](https://github.com/bluealloy/revm/pull/2923) - 2025-08-27
 * [Commit] [sstore and selfdestruct](https://github.com/bluealloy/revm/commit/b638bb5d2b2c71a6f409e74a0f13fd68c008b90e) - 2025-08-27
 * [Commit] [refactor(precompile): add new specific `PrecompileError` variants (#2907)](https://github.com/bluealloy/revm/commit/a736048d116a76344857b5bf5ea8a0a8010fe74d) - 2025-08-27
+* [Commit] [fix(handler): correct transaction ID decrement logic (#2892)](https://github.com/bluealloy/revm/commit/38c7e0063705f98c665dfdb48b06c01df2933cb6) - 2025-08-28
+* [Commit] [chore: cargo update (#2930)](https://github.com/bluealloy/revm/commit/a8916288952ca65ead1b0fd7aae20341e396b1c6) - 2025-08-28
+* [Commit] [fix: FrameStack mark push/end_init as unsafe (#2929)](https://github.com/bluealloy/revm/commit/85927e317e353a7bb13d71012c82eced58250719) - 2025-08-28
+* [Commit] [clippy](https://github.com/bluealloy/revm/commit/e8535721f8a3acf84c449fd04036af0f11766d4d) - 2025-08-28
+* [Pull Request] [chore: cargo update](https://github.com/bluealloy/revm/pull/2930) - 2025-08-28
+* [Commit] [chore: cargo update](https://github.com/bluealloy/revm/commit/a8fe021b6b528fea5a31dc6ac2c72122ef998da3) - 2025-08-28
+* [Pull Request] [fix: FrameStack mark push/end_init as unsafe](https://github.com/bluealloy/revm/pull/2929) - 2025-08-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

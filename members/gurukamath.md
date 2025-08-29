@@ -44,6 +44,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [bug(Osaka): `TARGET_BLOB_GAS_PER_BLOCK` should not be an independent constant](https://github.com/ethereum/execution-specs/issues/1369) - 2025-08-15
 * [Issue] [Re-enable all static checks](https://github.com/ethereum/execution-specs/issues/1378) - 2025-08-20
 * [Pull Request] [refactor(weld): Full WELD](https://github.com/ethereum/execution-specs/pull/1377) - 2025-08-20
+* [Pull Request] [chore(tests): run latest json_infra tests](https://github.com/ethereum/execution-specs/pull/1388) - 2025-08-28
+* [Commit] [refactor(weld): Full WELD (#1377)](https://github.com/ethereum/execution-specs/commit/c71e5aa3494271742927b372490b514f3c370696) - 2025-08-28
 ## Q2 2025
 
 

@@ -22,6 +22,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update EIP-6404: Use correct Python syntax for active_fields](https://github.com/ethereum/EIPs/pull/10097) - 2025-08-04
 * [Pull Request] [Update EIP-7495: Drop 256 entry limit in ProgressiveContainer](https://github.com/ethereum/EIPs/pull/10120) - 2025-08-08
 * [Pull Request] [Update EIP-7495: Reinstate 256 field limit for ProgressiveContainer](https://github.com/ethereum/EIPs/pull/10212) - 2025-08-22
+* [Pull Request] [Update EIP-7773: Propose EIP-7688 for Glamsterdam](https://github.com/ethereum/EIPs/pull/10238) - 2025-08-28
+* [Pull Request] [Add EIP: Split CompatibleUnion from EIP-7495](https://github.com/ethereum/EIPs/pull/10234) - 2025-08-28
+* [Pull Request] [Update EIP-7495: Mix-in selector for CompatibleUnion](https://github.com/ethereum/EIPs/pull/10233) - 2025-08-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add EIP-7916 ProgressiveList specs and tests](https://github.com/ethereum/consensus-specs/pull/4445) - 2025-07-16
 
@@ -69,6 +72,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Sync gets stuck after ~a day](https://github.com/status-im/nimbus-eth2/issues/7394) - 2025-08-18
 * [Pull Request] [Extend SSZ generic tests with ProgressiveContainer tests](https://github.com/status-im/nimbus-eth2/pull/7417) - 2025-08-25
 * [Pull Request] [Bump nim-ssz-serialization](https://github.com/status-im/nimbus-eth2/pull/7416) - 2025-08-25
+* [Commit] [make message router + engineBid fulu compliant (#7414)](https://github.com/status-im/nimbus-eth2/commit/cf32a6c958fba11bb845526134f832d737699a48) - 2025-08-28
+* [Pull Request] [Bump nim-ssz-serialization](https://github.com/status-im/nimbus-eth2/pull/7425) - 2025-08-28
 ## Q2 2025
 
 

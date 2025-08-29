@@ -55,6 +55,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [feat(plugins): expose P2P network events  (#9039)](https://github.com/hyperledger/besu/commit/e82358b490b9288fef59b6c02c87ec69e95a2d02) - 2025-08-15
 * [Commit] [Use Uint256 instead of long to avoid overflow (#9093)](https://github.com/hyperledger/besu/commit/2cff7d226a2da882860261c6187bed5a49eda7dc) - 2025-08-21
 * [Pull Request] [fix: reset ws before retrying block processing](https://github.com/hyperledger/besu/pull/9113) - 2025-08-27
+* [Pull Request] [Fix tracing world updater chain](https://github.com/hyperledger/besu/pull/9133) - 2025-08-28
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025

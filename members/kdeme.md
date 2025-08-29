@@ -28,6 +28,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Adjust for authList v field change to yParity name](https://github.com/status-im/nimbus-eth1/pull/3497) - 2025-07-22
 * [Commit] [eth_data_exporter: Export StoredReceipts instead of Receipts (#3503)](https://github.com/status-im/nimbus-eth1/commit/9a7f81ac2a67b6595b116217b43d9e6fc0d7c7ac) - 2025-07-24
 * [Pull Request] [bump nimbus-eth2 and remove old fulu field in Portal beacon test](https://github.com/status-im/nimbus-eth1/pull/3595) - 2025-08-27
+* [Commit] [portal: cleanup of block proof tests (#3600)](https://github.com/status-im/nimbus-eth1/commit/1cfc89ff261f51c42884aa63cad706cdb05ea867) - 2025-08-28
+* [Pull Request] [portal: cleanup of block proof tests](https://github.com/status-im/nimbus-eth1/pull/3600) - 2025-08-28
+* [Commit] [Portal: mv accumulator based block proof code out of history_legacy (#3599)](https://github.com/status-im/nimbus-eth1/commit/91ee0279ead82d826a9babbbd992b1e8fc8ad446) - 2025-08-28
+* [Pull Request] [Portal: mv accumulator based block proof code out of history_legacy](https://github.com/status-im/nimbus-eth1/pull/3599) - 2025-08-28
+* [Commit] [Portal: mv accumulator based block proof code out of history_legacy](https://github.com/status-im/nimbus-eth1/commit/a55672c092c6d651b326739ee0b5e0b50b48bcd5) - 2025-08-28
 ## Q2 2025
 
 

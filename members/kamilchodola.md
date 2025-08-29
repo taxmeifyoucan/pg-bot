@@ -32,6 +32,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update Dockerfile](https://github.com/NethermindEth/nethermind/commit/b15767c625a0271e9eba20b9621c87a1df1985a1) - 2025-08-27
 * [Commit] [Remove Pyroscope package reference](https://github.com/NethermindEth/nethermind/commit/22d564bceacf414920b90c13066ae6fb5da6b948) - 2025-08-27
 * [Commit] [Remove Pyroscope package version](https://github.com/NethermindEth/nethermind/commit/37eca9a4282f6b72984908b4d67adcc1632895ae) - 2025-08-27
+* [Commit] [More money](https://github.com/NethermindEth/nethermind/commit/9a7f97a0c05f3b183c3d9be66ddcf2a8038670fe) - 2025-08-28
+* [Commit] [Emptyu withdrawal list](https://github.com/NethermindEth/nethermind/commit/3be7e734112e3857fa900bfdffb286486ff83f7b) - 2025-08-28
 ## Q2 2025
 
 

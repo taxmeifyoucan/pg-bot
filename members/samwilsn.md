@@ -35,6 +35,12 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fix: grammar corrections and minor formatting cleanup (#1374)](https://github.com/ethereum/execution-specs/commit/fab59d2466539f0a96063f0936f5073367ad81eb) - 2025-08-26
 * [Commit] [fix: correct typos in proposed opcode names](https://github.com/ethereum/execution-specs/commit/1e1a4be0370443fceb7978cc5fd96a015c51afe4) - 2025-08-26
 * [Commit] [fix tx parsing on sync](https://github.com/ethereum/execution-specs/commit/6637827305df5777d0bb01d157e61ef7eccc311b) - 2025-08-26
+* [Pull Request] [Grab latest osaka tests](https://github.com/ethereum/execution-specs/pull/1392) - 2025-08-28
+* [Commit] [Cancel running workflows on push](https://github.com/ethereum/execution-specs/commit/f5d2763a9d12f844e617a66ea77f3cc1adf441b7) - 2025-08-28
+* [Pull Request] [Cancel running workflows on push](https://github.com/ethereum/execution-specs/pull/1390) - 2025-08-28
+* [Commit] [Remove resolver](https://github.com/ethereum/execution-specs/commit/60fb6b7e6b1f81ae2d9e267f0e4db08ffa8204b8) - 2025-08-28
+* [Pull Request] [Remove resolver](https://github.com/ethereum/execution-specs/pull/1389) - 2025-08-28
+* [Commit] [new(tests): EIP-6110: Supply validator deposits on chain](https://github.com/ethereum/execution-specs/commit/c4eab33fda21403c6e48a05f79bcdf45a422e197) - 2025-08-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-7932: Fix some typos (#10011)](https://github.com/ethereum/EIPs/commit/9e953a254861cf86dc6d55f1f90a54807cfecdb1) - 2025-07-16
 * [Commit] [Website: Add missing favicon (#9963)](https://github.com/ethereum/EIPs/commit/719769bd61033e9bcd4de7b647bdc927981b6195) - 2025-07-28

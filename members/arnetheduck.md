@@ -78,6 +78,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Adopt `ProcessState` for terminating application](https://github.com/status-im/nimbus-eth1/commit/f7ae1154f9537a73b4c5a731b5423d9e33faedd4) - 2025-08-27
 * [Commit] [Adopt `ProcessState` for terminating application](https://github.com/status-im/nimbus-eth1/commit/3511b14ba282eb0048ae86a12b0848058f51cdd1) - 2025-08-27
 * [Issue] [TOML config file support](https://github.com/status-im/nimbus-eth1/issues/3591) - 2025-08-27
+* [Commit] [bump: *-serialization (#3597)](https://github.com/status-im/nimbus-eth1/commit/b9e01e2a183d049c09911d9e767172590f5f2c42) - 2025-08-28
+* [Commit] [Add test covering HashKey rlp encoding when data contains embedded trie node (#3578)](https://github.com/status-im/nimbus-eth1/commit/d3a00ebf53c6a635605400df674b8e30f57abcee) - 2025-08-28
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/58b7abe17829fb98431d817ec09f8397a8efdf37) - 2025-08-28
+* [Commit] [Update nim-rocksdb to v10.4.2.0 (#3594)](https://github.com/status-im/nimbus-eth1/commit/015ec444857f628bdb867e8efa20e66fe79165b3) - 2025-08-28
+* [Commit] [Update data directory defaults to include namespace, network (#3596)](https://github.com/status-im/nimbus-eth1/commit/a66349afaa58a38936703e7daa5c8609e18829a4) - 2025-08-28
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/38acfcbda6abb5a0fb44ff0f907c3e1706dc90e5) - 2025-08-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -162,6 +168,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [simplified syntax for stopping](https://github.com/status-im/nimbus-eth2/commit/007c348e9a4bb75730872e708946e03db1b0980a) - 2025-08-27
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/ca0a634e828b0bbcecf68be594670a1fe8dbb44e) - 2025-08-27
 * [Commit] [also light client](https://github.com/status-im/nimbus-eth2/commit/2d12ee25968ce99816c360ed525c044fdf330be3) - 2025-08-27
+* [Commit] [set up fulu gossip environment (#7423)](https://github.com/status-im/nimbus-eth2/commit/6f359e5d81bfd93b2913f436270665c9af3c6da5) - 2025-08-28
+* [Commit] [bump: *-serialization (#7421)](https://github.com/status-im/nimbus-eth2/commit/19d7529e374e7a84f54da39ff4b12f34fa9e14c3) - 2025-08-28
+* [Commit] [Bump nim-ssz-serialization (#7425)](https://github.com/status-im/nimbus-eth2/commit/e31713887042b555e7002900a35dd7f501d5f532) - 2025-08-28
+* [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/aebc314eb92dfd0180a50389e3d231012f4af1d7) - 2025-08-28
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

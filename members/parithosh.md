@@ -26,6 +26,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [ansible go vroom](https://github.com/ethpandaops/template-devnets/pull/110) - 2025-08-26
+* [Commit] [ansible go vroom (#110)](https://github.com/ethpandaops/template-devnets/commit/0ce7ae1d775e4340306fb5df9f4c6700820a572d) - 2025-08-28
 ## Q2 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

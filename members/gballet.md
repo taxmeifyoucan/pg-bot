@@ -19,6 +19,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [fixes missing protection of nil pointer dereference in scwallet (#32186)](https://github.com/ethereum/go-ethereum/commit/39ab721992e634f3b0adb3e08b16fb0c4d8a379c) - 2025-08-21
 * [Commit] [.github/workflows: naive PR format checker (#32480)](https://github.com/ethereum/go-ethereum/commit/a9ac2755886299eb200e9725c6412f7bfca83246) - 2025-08-25
 * [Commit] [core,trie: fix typo in TransitionTrie (#32491)](https://github.com/ethereum/go-ethereum/commit/d0602ba45a651e5a3d40ecd7cc4deab8a8625e76) - 2025-08-25
+* [Pull Request] [core/stateless: only report leaf stats](https://github.com/ethereum/go-ethereum/pull/32507) - 2025-08-28
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Commit] [make LoadTransitionState cacheless and move it to the overlay pkg](https://github.com/gballet/go-ethereum/commit/0f37c99d3457791f97995b08c2f6d53f4a5b37c6) - 2025-08-04
 * [Commit] [move transition state to its own file](https://github.com/gballet/go-ethereum/commit/f0f51d1ef458c1593e908741180615ad83fd07eb) - 2025-08-04
@@ -41,6 +42,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [push missing verkle iterator files (#550)](https://github.com/gballet/go-ethereum/commit/5130362a9efd806e75760d25265b9f4e9be7c056) - 2025-08-25
 * [Commit] [remove commented out code](https://github.com/gballet/go-ethereum/commit/12e6a796c68b033fb1a71afe74760ef6ac2a1a82) - 2025-08-25
 * [Commit] [fix linter](https://github.com/gballet/go-ethereum/commit/931b8fb13ed5ed3e0c6d227d64297930f5d16c2d) - 2025-08-27
+* [Commit] [params: fix history serve window for verkle test (#32127)](https://github.com/gballet/go-ethereum/commit/42467f13705db85ee86d0e1d6eabe9eb5a6875c8) - 2025-08-28
 ## Q2 2025
 
 

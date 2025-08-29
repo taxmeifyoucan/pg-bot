@@ -114,6 +114,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: score attestations for block by profitability (#8016)](https://github.com/ChainSafe/lodestar/commit/dc288bce454e7718783ca71f8d96f4b314df830b) - 2025-08-27
 * [Pull Request] [fix: do not create data column sidecars if there block has no blobs](https://github.com/ChainSafe/lodestar/pull/8277) - 2025-08-27
 * [Issue] [Cannot produce blocks with 0 blobs post-fulu](https://github.com/ChainSafe/lodestar/issues/8276) - 2025-08-27
+* [Commit] [Add error message to context](https://github.com/ChainSafe/lodestar/commit/85e5837150fd09f168c81319e3799dd93f880e3d) - 2025-08-28
+* [Pull Request] [chore: remove error from peer disconnected during identify protocol logs](https://github.com/ChainSafe/lodestar/pull/8289) - 2025-08-28
+* [Pull Request] [feat: add panels to track consensus block value](https://github.com/ChainSafe/lodestar/pull/8286) - 2025-08-28
+* [Commit] [Tweak comment](https://github.com/ChainSafe/lodestar/commit/a6c33984bd1a4a6d0571447b49719a5d2a53bfd2) - 2025-08-28
+* [Commit] [Use setImmediate](https://github.com/ChainSafe/lodestar/commit/1dde24e597cd074dc643f4f40660755a8a76bd89) - 2025-08-28
+* [Pull Request] [fix: defer call to produce common block body to next event loop](https://github.com/ChainSafe/lodestar/pull/8285) - 2025-08-28
 ## Q2 2025
 
 

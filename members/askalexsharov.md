@@ -1019,6 +1019,36 @@ Team: Erigon
 * [Issue] [mdbx version up in `3.3.0`](https://github.com/erigontech/erigon/issues/16838) - 2025-08-27
 * [Commit] [qa-tests: improve test reporting (#16822)](https://github.com/erigontech/erigon/commit/d9de4ff48d07108fac8465c119b4277fe6769b5a) - 2025-08-27
 * [Commit] [dir improvements: move `jsonstream` from `erigon-lib` to `rpc` (#16807)](https://github.com/erigontech/erigon/commit/8c1f621c7f3344a73f9867dc323558158e7b5ca8) - 2025-08-27
+* [Pull Request] [remove `nofuzz` build tag](https://github.com/erigontech/erigon/pull/16886) - 2025-08-28
+* [Commit] [cherry-pick: VeBlop: change span scraper timeout to 200 ms (#16877) (#16880)](https://github.com/erigontech/erigon/commit/bf79256679c2473e7d044be8338b90c22465c4a7) - 2025-08-28
+* [Commit] [integrity: fix descending block boundary reset in HistoryNoSystemTxs (#16823)](https://github.com/erigontech/erigon/commit/fd6e4bff5a08f647b94d9d8ceac1bc6a0ccc0e14) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/884c18c3785cd6c894c9a377476f6f2dba4bb4a8) - 2025-08-28
+* [Pull Request] [drop `devnet` component in favour of kurtosis](https://github.com/erigontech/erigon/pull/16885) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dfc50233a02fdc674f125f4d466953e9459d6ba5) - 2025-08-28
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/c18f22d8fbb80f8515f7b5b905ecce76c03bdc9f) - 2025-08-28
+* [Commit] [drop `observer` component  (#16857)](https://github.com/erigontech/erigon/commit/5e82286ff5c5e5a8bff7e9df7b8de20c3b593888) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b0ab701372dcec87ae65b4c8975ef780da61cbcb) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d91d4fda51184f96265632ce7684541d3b16a427) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/29684cc9112b6c22c4c1634293ed2f0dc2783aa4) - 2025-08-28
+* [Commit] [drop  `gopkg.in/check.v1` (#16881)](https://github.com/erigontech/erigon/commit/718a225f625f1b77c76b89d20ed7e59af1d5bffb) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/03f318d54f8f51a85f48a8d3a5892d85bae5b3aa) - 2025-08-28
+* [Pull Request] [tests: remove `agg scandir` bottleneck](https://github.com/erigontech/erigon/pull/16884) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/45f09018d55011d79e13fcfca88554fa61e29d12) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7c2159df276c3dc0a1853037627e113fe4fdf330) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/92cafd0772fc0a3036e013baaea8e92dda24891c) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aae7e968fb33bdf1a5373ed167ff18ce3f739e9b) - 2025-08-28
+* [Commit] [disable flaky `TestWebsocketLargeCall` on mac (#16876)](https://github.com/erigontech/erigon/commit/35c7c26966b65c4d7359ac1e8735e619b4eba5cd) - 2025-08-28
+* [Pull Request] [drop  `gopkg.in/check.v1`](https://github.com/erigontech/erigon/pull/16881) - 2025-08-28
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/272c6f1c66d4260ee78c59be857eda25518ccb7a) - 2025-08-28
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/8be324d1b66d684a5e02ea17d977bc1a3494e4b3) - 2025-08-28
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/fb7624c68e8dfd5d257834d05b19e98884f4f66b) - 2025-08-28
+* [Commit] [[r32] GenerateChain: to use `rotx` (#16872)](https://github.com/erigontech/erigon/commit/bb1ca1be2b912161a847a09d7bc08d120bb7f925) - 2025-08-28
+* [Commit] [cp: Optimised snapshot read operations for BorEvents (#15993) (#16140)](https://github.com/erigontech/erigon/commit/ab7ac769fbf836981b869ccdd299ba1ae42bece6) - 2025-08-28
+* [Commit] [Rely on schema for key referencing in commitment branches (#16858)](https://github.com/erigontech/erigon/commit/572471d8d47a674d8e9deae41a4ced13453b07f8) - 2025-08-28
+* [Commit] [remove `uploader` (#16828)](https://github.com/erigontech/erigon/commit/a77d3f3ffbb5b54e1fc41f48d6399c5f33ad58a0) - 2025-08-28
+* [Commit] [up `mock`, `grpc`, `goja` version  (#16851)](https://github.com/erigontech/erigon/commit/723eac1fde8472ac7130cb6f6e3078eecb554490) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/40078c95c28989683122856e504ec0b2d44c9195) - 2025-08-28
+* [Commit] [rlpdump: update from upstream (#16859)](https://github.com/erigontech/erigon/commit/07b935f5f4911fa51293c55103d5341072132fd8) - 2025-08-28
 ## Q2 2025
 
 

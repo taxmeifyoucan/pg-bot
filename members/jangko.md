@@ -176,6 +176,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 
+* [Pull Request] [clients/nimbus-el: change --custom-network to --network](https://github.com/ethereum/hive/pull/1337) - 2025-08-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [bump serialization](https://github.com/status-im/nimbus-eth2/commit/6b41239cae789e971ca19fcec5647b99abc074ba) - 2025-07-28
 * [Commit] [Bump njs](https://github.com/status-im/nimbus-eth2/commit/90135572e739524f763d547c9df17f126c496f31) - 2025-07-28

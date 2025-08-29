@@ -156,6 +156,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [workflows: use fixed teku version in kurtosis test (#16836)](https://github.com/erigontech/erigon/commit/0da742f46e88a1da0d4334b96d7b6605fe8b227a) - 2025-08-26
 * [Commit] [fix lint](https://github.com/erigontech/erigon/commit/38bacfe402fb8a576f2f6c11f1a0c26dc76afd3b) - 2025-08-27
 * [Commit] [dir improvements: move `direct` and `p2p` out of `erigon-lib` (#16818)](https://github.com/erigontech/erigon/commit/1b643f3797336c0f4a027833c15af072f47f23dc) - 2025-08-27
+* [Commit] [remove targets](https://github.com/erigontech/erigon/commit/ac8cb1d4e7f3f977deadccb72d45fdcd7d684d9a) - 2025-08-28
+* [Pull Request] [cmd/devnet: sunset](https://github.com/erigontech/erigon/pull/16882) - 2025-08-28
 ## Q2 2025
 
 

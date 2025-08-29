@@ -187,6 +187,10 @@ Team: Erigon
 * [Commit] [updated boot node](https://github.com/erigontech/erigon/commit/46b540b97924426a87a8a5664ea5e03b6290cb02) - 2025-08-25
 * [Commit] [gofmt](https://github.com/erigontech/erigon/commit/ba66ec9f0afc06a5219792dee9c56fc54063ccd9) - 2025-08-25
 * [Commit] [add commit logging](https://github.com/erigontech/erigon/commit/58aef5ad9b4933611c2cbc1aba6878b37e6b8a86) - 2025-08-26
+* [Commit] [metrics on timer](https://github.com/erigontech/erigon/commit/416caaa15b39f7754d50e5e12ac8a6cb6d634c97) - 2025-08-28
+* [Commit] [add buf as cachesize  to commit](https://github.com/erigontech/erigon/commit/2de35ac62e671014fa192fd4b9e5b3a513670c6f) - 2025-08-28
+* [Commit] [add progress to commit log](https://github.com/erigontech/erigon/commit/03c0e895d17e24b94ecdbdcf6a48071bb248bd94) - 2025-08-28
+* [Commit] [[r32] rebuild_commitment: add `--squeeze=false`, improve logs (#16696)](https://github.com/erigontech/erigon/commit/801d8182ffc17e6e4628541d6203038617fdf562) - 2025-08-28
 ## Q2 2025
 
 

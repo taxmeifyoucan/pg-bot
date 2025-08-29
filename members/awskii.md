@@ -101,6 +101,9 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/39ba8eada8ff58cdd117f0a4b29c44bbeb9d37d6) - 2025-08-27
 * [Commit] [do not pass ptr ovr chan](https://github.com/erigontech/erigon/commit/bceb74bda71b8bd973b14bb64b0fad76a0966d5f) - 2025-08-27
 * [Commit] [txnprovider/shutter: add back accidentally dropped log line (#16561)](https://github.com/erigontech/erigon/commit/f948142df8f241d367faa205db7fe6f7aa05a7ab) - 2025-08-27
+* [Commit] [cmd/devnet: sunset (#16882)](https://github.com/erigontech/erigon/commit/6fe802742eaaf419f2f75760dccc086be4d6595b) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/47d807233a6e0a475197d0f28abf34d8d46cfa9c) - 2025-08-28
+* [Commit] [agg: move `iiCfg`/`Schema`/`RegisterDomain calls` to `statecfg` (#16848)](https://github.com/erigontech/erigon/commit/6b6b65143df5ea1325e4798e37ec4c23953c2694) - 2025-08-28
 ## Q2 2025
 
 

@@ -91,6 +91,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fixing linting issues and adding some proposer tests](https://github.com/OffchainLabs/prysm/commit/a21f153769f0cbe83a12d126f720787d4d12b39f) - 2025-08-26
 * [Commit] [linting and other small fixes](https://github.com/OffchainLabs/prysm/commit/8b993a428646c8e56534404a0b505cf28e82d6b6) - 2025-08-26
 * [Commit] [adding kzg tests, moving new kzg functions to validation.go](https://github.com/OffchainLabs/prysm/commit/c53fd2548dafb721dc8c0e09d9ff0d78c2a75159) - 2025-08-26
+* [Commit] [adding missed test](https://github.com/OffchainLabs/prysm/commit/8c593582325594a1cc8d11515234b73a3833d1a9) - 2025-08-28
+* [Commit] [radek's review changes](https://github.com/OffchainLabs/prysm/commit/6504c6ee23308a49228fbbab02c00e6f0efe0887) - 2025-08-28
+* [Commit] [Update beacon-chain/blockchain/kzg/validation.go](https://github.com/OffchainLabs/prysm/commit/9d885fd240607334047f1fafd12b1bbb1fb0ac79) - 2025-08-28
+* [Commit] [Update beacon-chain/rpc/eth/beacon/handlers.go](https://github.com/OffchainLabs/prysm/commit/96ad09429e64378bf1fb33f039bb00e20cd1388a) - 2025-08-28
 ## Q2 2025
 
 

@@ -69,6 +69,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix vitest binary install](https://github.com/ChainSafe/lodestar/commit/55e9aea0a2fd2bf6d422b184ee20803288eeb9ce) - 2025-08-26
 * [Commit] [Update the package.json](https://github.com/ChainSafe/lodestar/commit/4366e2c8189a31f73d5b386576b4c94e975a4643) - 2025-08-26
 * [Commit] [Fix missing types for a dependency](https://github.com/ChainSafe/lodestar/commit/08c68bef5a130713c8679e692b1e806386152a9b) - 2025-08-26
+* [Commit] [Override bun types](https://github.com/ChainSafe/lodestar/commit/e06c6cb2a97e3624cc1dd6811ad2f3a008cd96f7) - 2025-08-28
+* [Pull Request] [feat: add type support for Bun](https://github.com/ChainSafe/lodestar/pull/8288) - 2025-08-28
+* [Pull Request] [chore: fix broken types for `datastore-level`](https://github.com/ChainSafe/lodestar/pull/8287) - 2025-08-28
+* [Commit] [chore: remove skipped fulu constants in config test (#8252)](https://github.com/ChainSafe/lodestar/commit/9ed83170648e6d1bf2935b33b7cef2e04519303f) - 2025-08-28
+* [Commit] [Add ssz bytes helper for blob count](https://github.com/ChainSafe/lodestar/commit/142f1fdf81c82512218aaeadef008e58dc1233a7) - 2025-08-28
 ## Q2 2025
 
 
