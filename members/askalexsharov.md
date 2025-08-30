@@ -1049,6 +1049,37 @@ Team: Erigon
 * [Commit] [up `mock`, `grpc`, `goja` version  (#16851)](https://github.com/erigontech/erigon/commit/723eac1fde8472ac7130cb6f6e3078eecb554490) - 2025-08-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/40078c95c28989683122856e504ec0b2d44c9195) - 2025-08-28
 * [Commit] [rlpdump: update from upstream (#16859)](https://github.com/erigontech/erigon/commit/07b935f5f4911fa51293c55103d5341072132fd8) - 2025-08-28
+* [Commit] [Fixes a race using Downloader.startTime in logging (#16895)](https://github.com/erigontech/erigon/commit/58f88763316c7b8142314a1f6fe68103a6af28b1) - 2025-08-29
+* [Issue] [dl: mutex and stats follow-up](https://github.com/erigontech/erigon/issues/16897) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ff1ae19e7e285715b11fe0a63b9d33578b983714) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c1787ae98bec3f5b18031ec005513b88c8ec79a8) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/48c2050ee1ccad5af633b60c27d98fdaa71d41f6) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8c0aecca10a54b960bbac70038a639c41a58a842) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/02462828dfc11a8ac75cafc80331596af3f048fa) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b4da934cdb851a3f6068e938232810c96a968a96) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4ff2047afcb018cc8e72a3e4e38d26e8ee2b5d20) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b03765ec10f9e63c9c66ebeb03f5bbcc72af1440) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0558532e2db51c170b7adcc35fadacf542a1c1f9) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c481a6e9bb1c627529067b5cc1bc34cdb851773f) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5fe6a91f9b84831c618dabd169b2ac40ae6d4dba) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/586327d71df3bf984607a6c51ade6b842378c6d0) - 2025-08-29
+* [Commit] [refactor: replace HasPrefix+TrimPrefix with CutPrefix (#16168)](https://github.com/erigontech/erigon/commit/1f29174ef9d9ea4308851425a4ec9dd467c6270f) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9482bd7d6738f53c301cd17e2539f6fe82c4ab95) - 2025-08-29
+* [Issue] [`integration stage_exec`](https://github.com/erigontech/erigon/issues/16894) - 2025-08-29
+* [Commit] [SimulatedBackend: to use external `network mock` instead of creating own (#16873)](https://github.com/erigontech/erigon/commit/c1ebe47947b04165768e69ca4c98979760d9e6e5) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7ce72b5ba6c343cde83a75c7c63ad5030abeb44b) - 2025-08-29
+* [Commit] [cherry-pick: VeBlop: change span scraper timeout to 200 ms (#16877) (#16880)](https://github.com/erigontech/erigon/commit/bf79256679c2473e7d044be8338b90c22465c4a7) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/018a560a99f9838a61a91896b4ce27e2867970d4) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1822f200ef7ff3bdfbee794e63b7c22994bae6b3) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c7eeaea1d10c90ccf653146597113dd35218261f) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/54dfaafbce63d6ff69aa65311275a1c408845433) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0b9635e00735d2c95f437e54bda17fe462e11543) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3411f9950c0ee3e705bee72ad71639f487878bb5) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ecc48988881fcddf11ee07b648e6fd0655de40f7) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e33716fdf6023a6810514deed92b8c5c65d2519c) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/07eefa7d17009e48041dded2c1567683be410060) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a4d65d76968d8b7e25965c9dd3cd9b712e4839c1) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2dcb534d2089b8516cb10df8cbff8fe5b2d775e1) - 2025-08-29
 ## Q2 2025
 
 

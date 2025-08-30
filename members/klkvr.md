@@ -79,6 +79,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [bump](https://github.com/paradigmxyz/reth/commit/1a9963aca4df3d1ae4a9935de11b7c7666e049da) - 2025-08-26
 * [Pull Request] [chore: make `caller_gas_allowance` an RPC trait method](https://github.com/paradigmxyz/reth/pull/18101) - 2025-08-27
 * [Pull Request] [refactor: merge `EthTransactionValidator` and `EthTransactionValidatorInner`](https://github.com/paradigmxyz/reth/pull/18129) - 2025-08-28
+* [Pull Request] [feat: support customizable RPC namespace parsers](https://github.com/paradigmxyz/reth/pull/18160) - 2025-08-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: impl inspector for tuple](https://github.com/bluealloy/revm/pull/2871) - 2025-08-08
 ## Q2 2025

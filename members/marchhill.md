@@ -143,6 +143,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [account changes rlp+](https://github.com/NethermindEth/nethermind/commit/87dc02c45175b74ce02621b1a132d7085ebf7754) - 2025-08-26
 * [Commit] [always start new sequence rlp](https://github.com/NethermindEth/nethermind/commit/3223680e8241e3aa03e41189c4fe48326cced66e) - 2025-08-27
 * [Commit] [bal encoding / decoding](https://github.com/NethermindEth/nethermind/commit/a9f0e93c04de88ec3541c7185c92d7bb2c2bed32) - 2025-08-27
+* [Commit] [use encodearray](https://github.com/NethermindEth/nethermind/commit/19bafac725a9d88983221cbb2382687fe91394ea) - 2025-08-29
+* [Commit] [fix storagechange and slotchanges encodings](https://github.com/NethermindEth/nethermind/commit/c49c33cc0f8a4e27f62ddf25e9cdd527c3726cd7) - 2025-08-29
 ## Q2 2025
 
 

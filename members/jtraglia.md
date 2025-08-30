@@ -57,6 +57,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Fix Gloas self build test to use correct proposer (#4537)](https://github.com/ethereum/consensus-specs/commit/9e05f7fe0d6c869bfaaeff8e15d1a63cd46e310e) - 2025-08-27
 * [Issue] [Execution payload spec test issue in gloas](https://github.com/ethereum/consensus-specs/issues/4545) - 2025-08-28
 * [Pull Request] [Add central `get_duration_ms` function with identifiers](https://github.com/ethereum/consensus-specs/pull/4542) - 2025-08-28
+* [Commit] [Clean up old references to make pyspec (#4549)](https://github.com/ethereum/consensus-specs/commit/fe5b3886fe1ee0b95a265e8ea03913e75596e6dd) - 2025-08-29
+* [Pull Request] [Clean up old references to make pyspec](https://github.com/ethereum/consensus-specs/pull/4549) - 2025-08-29
+* [Commit] [Remove unnecessary make rules (#4548)](https://github.com/ethereum/consensus-specs/commit/3080ccb22515ac0f15c7502b4b63318cb9cd04b0) - 2025-08-29
+* [Pull Request] [Remove unnecessary make rules](https://github.com/ethereum/consensus-specs/pull/4548) - 2025-08-29
+* [Commit] [Add extended help option in Makefile (#4547)](https://github.com/ethereum/consensus-specs/commit/371b096aa4ea5397fa07488205dc3ff037dd6fe0) - 2025-08-29
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

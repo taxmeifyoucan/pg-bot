@@ -100,6 +100,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: lint](https://github.com/ChainSafe/lodestar/commit/700a2e5c8ddeee9b812ccb3e4c25f5a5d2f4be51) - 2025-08-27
 * [Pull Request] [fix: track execution engine getBlobs requests](https://github.com/ChainSafe/lodestar/pull/8274) - 2025-08-27
 * [Commit] [fix: lint](https://github.com/ChainSafe/lodestar/commit/9cbfc2ba1d152326274c556cf4cb2b4aa5e19066) - 2025-08-28
+* [Commit] [fix: deduplicate check](https://github.com/ChainSafe/lodestar/commit/06bc58c7d1743baf6717f993c14ecd8b4d1a01fa) - 2025-08-29
+* [Pull Request] [fix: wait for data before writing to db](https://github.com/ChainSafe/lodestar/pull/8291) - 2025-08-29
+* [Issue] [[blockinput-refactor] Cannot get all blobs. DA status is not complete](https://github.com/ChainSafe/lodestar/issues/8290) - 2025-08-29
 ## Q2 2025
 
 

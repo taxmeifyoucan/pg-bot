@@ -84,6 +84,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: fix some bugs](https://github.com/ChainSafe/lodestar/commit/11582b33ab02d90988e826d78d76985a092bf2ad) - 2025-08-28
 * [Commit] [chore: track req/resp outgoing request error reason (#8283)](https://github.com/ChainSafe/lodestar/commit/2ac5250665e7dbe784733673440809b462e5c2b9) - 2025-08-28
 * [Commit] [Update dashboards/lodestar_networking.json](https://github.com/ChainSafe/lodestar/commit/5c00932f8ec659e0d1e3a6e05a7cbf02b11aab63) - 2025-08-28
+* [Commit] [refactor: optimize event listener count checks (#8293)](https://github.com/ChainSafe/lodestar/commit/26ea9fa05b98bebeed502d0bb6667a869d19ba12) - 2025-08-29
+* [Commit] [fix: wait for data before writing to db (#8291)](https://github.com/ChainSafe/lodestar/commit/97b9426df79da557b8909ed64e1a78b7e2ff5817) - 2025-08-29
 ## Q2 2025
 
 

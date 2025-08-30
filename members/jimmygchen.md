@@ -68,6 +68,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Fix `DataColumnsByRoot` request limit validation bug](https://github.com/sigp/lighthouse/pull/7928) - 2025-08-25
 * [Issue] [Remove data column gossip verification during data column publishing](https://github.com/sigp/lighthouse/issues/7950) - 2025-08-27
 * [Pull Request] [Instrument `publish_block` code path ](https://github.com/sigp/lighthouse/pull/7945) - 2025-08-27
+* [Pull Request] [Avoid serving validator endpoints while the node is far behind syncing head](https://github.com/sigp/lighthouse/pull/7962) - 2025-08-29
 ## Q2 2025
 
 

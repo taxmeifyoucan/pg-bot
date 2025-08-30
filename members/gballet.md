@@ -43,6 +43,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [remove commented out code](https://github.com/gballet/go-ethereum/commit/12e6a796c68b033fb1a71afe74760ef6ac2a1a82) - 2025-08-25
 * [Commit] [fix linter](https://github.com/gballet/go-ethereum/commit/931b8fb13ed5ed3e0c6d227d64297930f5d16c2d) - 2025-08-27
 * [Commit] [params: fix history serve window for verkle test (#32127)](https://github.com/gballet/go-ethereum/commit/42467f13705db85ee86d0e1d6eabe9eb5a6875c8) - 2025-08-28
+* [Commit] [review feedback](https://github.com/gballet/go-ethereum/commit/e99e19a0d942a1744743558093f4164a3ac97bd8) - 2025-08-29
+* [Commit] [Polish binary tree implementations (#551)](https://github.com/gballet/go-ethereum/commit/123723b9da31624a10668165a54cf15922aba1af) - 2025-08-29
 ## Q2 2025
 
 

@@ -106,6 +106,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [[r32] rebuild_commitment: add `--squeeze=false`, improve logs (#16696)](https://github.com/erigontech/erigon/commit/801d8182ffc17e6e4628541d6203038617fdf562) - 2025-08-19
 * [Commit] [nil fix in `FilePaths` (#16727)](https://github.com/erigontech/erigon/commit/7632b06fd40339f2a1123dab42047bb528b46ff6) - 2025-08-22
 * [Pull Request] [added and improved help to bumper](https://github.com/erigontech/erigon/pull/16889) - 2025-08-28
+* [Pull Request] [[DO NOT MERGE] Test of libmdbx master CI](https://github.com/erigontech/erigon/pull/16910) - 2025-08-29
 ## Q2 2025
 
 

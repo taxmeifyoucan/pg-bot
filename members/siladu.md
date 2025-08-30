@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [Refactor ECRECPrecompiledContract to prepare for wiring in LibSecp256k1JNI](https://github.com/hyperledger/besu/commit/2695516863294b03f2d0558fe966b373fe3c13ad) - 2025-08-11
 * [Pull Request] [Improve EcRecover precompile performance](https://github.com/hyperledger/besu/pull/9053) - 2025-08-11
 * [Commit] [Add some compute Opcode benchmarks (#9069)](https://github.com/hyperledger/besu/commit/0601909ca87ef9c5ba99cb0da2ad8a03fef988ae) - 2025-08-27
+* [Commit] [Improve EcRecover precompile performance (#9053)](https://github.com/hyperledger/besu/commit/c80e23f56ba3b01f873dfe9eb3e859cfeecec1da) - 2025-08-29
 ## Q2 2025
 
 

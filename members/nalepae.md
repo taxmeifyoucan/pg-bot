@@ -172,6 +172,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Fix `TestCustodyGroupCountFromPeer`.](https://github.com/OffchainLabs/prysm/commit/bdd9767393dde29209d2f51128f271339d3f31c9) - 2025-08-27
 * [Commit] [`s.fetchOriginColumns`: Use `maxAttempts` and `delay` as parameters to ease unit testing.](https://github.com/OffchainLabs/prysm/commit/80c240bdeb5cd4826c929df1061c6756cabbcef3) - 2025-08-27
 * [Commit] [Fix `TestCustodyGroupCountFromPeer`.](https://github.com/OffchainLabs/prysm/commit/12410452ac90e563fc42c6c5e9b71cec5d85eea0) - 2025-08-27
+* [Pull Request] [Implement Perfect PeerDAS](https://github.com/OffchainLabs/prysm/pull/15644) - 2025-08-29
+* [Commit] [omit NetworkScheduleEntry fields that are not part of BlobScheduleEntry (#15557)](https://github.com/OffchainLabs/prysm/commit/26cec9d9c7a6cc5e8d9f308964030f9c87120fcb) - 2025-08-29
+* [Commit] [Change error message (#15635)](https://github.com/OffchainLabs/prysm/commit/4a1ab709296366822dd12552e13f70eb27b19a56) - 2025-08-29
+* [Commit] [Initialize SSZ-QL package with support for fixed-size types (#15588)](https://github.com/OffchainLabs/prysm/commit/26d8b6b7869d0c1ee4cb6de27d7c9779b380c6b5) - 2025-08-29
 ## Q2 2025
 
 

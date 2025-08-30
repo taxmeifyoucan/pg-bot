@@ -120,6 +120,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Tweak comment](https://github.com/ChainSafe/lodestar/commit/a6c33984bd1a4a6d0571447b49719a5d2a53bfd2) - 2025-08-28
 * [Commit] [Use setImmediate](https://github.com/ChainSafe/lodestar/commit/1dde24e597cd074dc643f4f40660755a8a76bd89) - 2025-08-28
 * [Pull Request] [fix: defer call to produce common block body to next event loop](https://github.com/ChainSafe/lodestar/pull/8285) - 2025-08-28
+* [Commit] [Remove check](https://github.com/ChainSafe/lodestar/commit/7e40c909b98766715a67e4a6b4538bc4c00cec9d) - 2025-08-29
+* [Commit] [Remove single attestation check](https://github.com/ChainSafe/lodestar/commit/d409c6737f5e263e70adc8e1dddcbb1d26b8f2bd) - 2025-08-29
+* [Issue] [Bad sync aggregates in small devnets](https://github.com/ChainSafe/lodestar/issues/8294) - 2025-08-29
+* [Commit] [refactor: add missing listener count checks for expensive operations](https://github.com/ChainSafe/lodestar/commit/0c2c289696a7820830e79702cf40e2125d9752eb) - 2025-08-29
+* [Commit] [Remove some AI slop code](https://github.com/ChainSafe/lodestar/commit/08e4b4f9b73fdece6173e31178ee63b6e766d3f7) - 2025-08-29
+* [Pull Request] [refactor: optimize event listener count checks](https://github.com/ChainSafe/lodestar/pull/8293) - 2025-08-29
+* [Commit] [Add single batch benchmarks](https://github.com/ChainSafe/lodestar/commit/dc0d5370e12dcd1198ecb0681b47970ff7f7f349) - 2025-08-29
+* [Commit] [Use callInNextEventLoop again](https://github.com/ChainSafe/lodestar/commit/d281b8d24d68943296724ef7dd9c7975d1fda47a) - 2025-08-29
+* [Issue] [Use `prettyPrintIndices` more consistenly](https://github.com/ChainSafe/lodestar/issues/8292) - 2025-08-29
+* [Commit] [feat: add panels to track consensus block value (#8286)](https://github.com/ChainSafe/lodestar/commit/74da098ba75f88472588596f3d76a40836c8fadb) - 2025-08-29
 ## Q2 2025
 
 

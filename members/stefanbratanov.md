@@ -35,6 +35,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [[QUIC] Set muxer session and secure session on connection (#413)](https://github.com/libp2p/jvm-libp2p/commit/3d4b05fa1315e9af90a50d1d3204d0717d7f90ae) - 2025-08-27
 * [Commit] [Apply InboundTrafficLimitHandler only if max bytes > 0 (#416)](https://github.com/libp2p/jvm-libp2p/commit/25dd797a57715ab32ac4b3431bc98a997383f2f4) - 2025-08-28
 * [Commit] [Use netty core instead of incubator artifact for QUIC (#412)](https://github.com/libp2p/jvm-libp2p/commit/33ffc1ac03b7c69df995a7316b1bf0d116f4c8eb) - 2025-08-28
+* [Commit] [docs: add build path to README (#419)](https://github.com/libp2p/jvm-libp2p/commit/1419d27e87951ec7d94fd6baa62a97ffd83b5ad8) - 2025-08-29
+* [Commit] [Apply TotalTimeoutHandler only if duration seconds > 0 (#415)](https://github.com/libp2p/jvm-libp2p/commit/63d74d0166e9f64cb49129e154c60e69d1cc557c) - 2025-08-29
 ## Q2 2025
 
 

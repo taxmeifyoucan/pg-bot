@@ -74,6 +74,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: fix broken types for `datastore-level`](https://github.com/ChainSafe/lodestar/pull/8287) - 2025-08-28
 * [Commit] [chore: remove skipped fulu constants in config test (#8252)](https://github.com/ChainSafe/lodestar/commit/9ed83170648e6d1bf2935b33b7cef2e04519303f) - 2025-08-28
 * [Commit] [Add ssz bytes helper for blob count](https://github.com/ChainSafe/lodestar/commit/142f1fdf81c82512218aaeadef008e58dc1233a7) - 2025-08-28
+* [Commit] [Add relative types root for workspace packages](https://github.com/ChainSafe/lodestar/commit/fc5c5fad158660882a0c92a8f8b85ef370a4702e) - 2025-08-29
 ## Q2 2025
 
 

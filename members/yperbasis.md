@@ -134,6 +134,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [post-merge fixes](https://github.com/erigontech/erigon/commit/02b6dad16093b445f4c1ae2d75264b310352c67c) - 2025-08-28
 * [Commit] [rpcdaemon:  modify Error in case of result = nil to avoid panic (#16766)](https://github.com/erigontech/erigon/commit/274c2ab864fc9265e2e8f043323ec55a760b0e19) - 2025-08-28
 * [Commit] [make arbitrum header sync respect `sync.loop.block.limit` (#16799)](https://github.com/erigontech/erigon/commit/62fefa6f4dd0560a62b200e203a5dccf4588ed0a) - 2025-08-28
+* [Issue] ["missing entities: snap" in 3.1 bormainnet snapshots](https://github.com/erigontech/erigon/issues/16900) - 2025-08-29
+* [Pull Request] ["missing entities: snap" in bormainnet 3.1 snapshot](https://github.com/erigontech/erigon/pull/16899) - 2025-08-29
+* [Commit] [Pull torrent fix for webseed cancellation and webseedUniqueRequestKey panic (#16879)](https://github.com/erigontech/erigon/commit/01bbee282717557ea79a7fdd803c8dfd38e8aaca) - 2025-08-29
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

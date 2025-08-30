@@ -116,6 +116,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [use if expression rather than statement](https://github.com/status-im/nimbus-eth2/commit/0036c5118bc170634726f2bb41713023ae1e40a6) - 2025-08-27
 * [Commit] [add missing Epoch type conversion](https://github.com/status-im/nimbus-eth2/commit/1e47a45cb969e41f9207395adf53631eb70eda35) - 2025-08-27
 * [Commit] [add uint64 to Epoch conversion](https://github.com/status-im/nimbus-eth2/commit/c9a28ce07f5ab13d56a22f3f0eb1608037c45b92) - 2025-08-27
+* [Commit] [fix BeaconBlock constructor](https://github.com/status-im/nimbus-eth2/commit/35762e0cf153579b4f839dcfb19e12848457743f) - 2025-08-29
+* [Commit] [tweaked how test summaries are made](https://github.com/status-im/nimbus-eth2/commit/b1e0f4bee23cd4d428b5df10475d63349980e64e) - 2025-08-29
+* [Commit] [don't run gloas in light client processor test, either](https://github.com/status-im/nimbus-eth2/commit/08c0e6a64f2f65e247d282731c27517451a18cb8) - 2025-08-29
+* [Commit] [exclude gloas merkle proof tests](https://github.com/status-im/nimbus-eth2/commit/c230be7c1ddb0ff8c7d94272164eac07444905e0) - 2025-08-29
+* [Commit] [fix Gnosis build](https://github.com/status-im/nimbus-eth2/commit/544faf54eba899ed6fac9f111eaf1c843287046a) - 2025-08-29
+* [Pull Request] [initial Gloas fork infrastructure](https://github.com/status-im/nimbus-eth2/pull/7426) - 2025-08-29
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

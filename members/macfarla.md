@@ -73,6 +73,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [upgrade netty version (#9112)](https://github.com/hyperledger/besu/commit/095da6c1fd7b470b27a3b759e8687b64052444be) - 2025-08-27
 * [Pull Request] [update commons and log4j dependencies](https://github.com/hyperledger/besu/pull/9114) - 2025-08-27
 * [Pull Request] [upgrade netty version to 4.2.4](https://github.com/hyperledger/besu/pull/9112) - 2025-08-27
+* [Commit] [add CVEs to changelog (#9135)](https://github.com/hyperledger/besu/commit/327ebd81e195455a38cdb7424a0a1bdcdfc17a79) - 2025-08-29
+* [Pull Request] [[CHANGELOG] add fixed CVEs to changelog](https://github.com/hyperledger/besu/pull/9135) - 2025-08-29
+* [Commit] [switched ref tests](https://github.com/hyperledger/besu/commit/c6c2a9c05fc2cccc1a6342f43f6dfb50418f6fba) - 2025-08-29
 ## Q2 2025
 
 

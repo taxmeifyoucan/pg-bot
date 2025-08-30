@@ -73,6 +73,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Revert change to Hashkey type.](https://github.com/status-im/nimbus-eth1/commit/b254482c0ba2ea64e2888362f5be191fd23c09df) - 2025-08-27
 * [Commit] [Add test which covers trie root calculations for embedded trie node in HashKey scenario.](https://github.com/status-im/nimbus-eth1/commit/dc205271a22541ece5568425eeffb107fc491ebb) - 2025-08-27
 * [Commit] [Add command line option for marking a manual sync target finalised (#3580)](https://github.com/status-im/nimbus-eth1/commit/f000b802475f92ccd1b6ddd0152c28182425637e) - 2025-08-27
+* [Commit] [Update nim-minilru to master branch.](https://github.com/status-im/nimbus-eth1/commit/faceb444276923f4fe19774916ad2ee3a930fa05) - 2025-08-29
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

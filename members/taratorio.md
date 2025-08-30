@@ -158,6 +158,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [dir improvements: move `direct` and `p2p` out of `erigon-lib` (#16818)](https://github.com/erigontech/erigon/commit/1b643f3797336c0f4a027833c15af072f47f23dc) - 2025-08-27
 * [Commit] [remove targets](https://github.com/erigontech/erigon/commit/ac8cb1d4e7f3f977deadccb72d45fdcd7d684d9a) - 2025-08-28
 * [Pull Request] [cmd/devnet: sunset](https://github.com/erigontech/erigon/pull/16882) - 2025-08-28
+* [Commit] [drop `observer` component  (#16857)](https://github.com/erigontech/erigon/commit/5e82286ff5c5e5a8bff7e9df7b8de20c3b593888) - 2025-08-29
 ## Q2 2025
 
 

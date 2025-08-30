@@ -173,6 +173,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Disable docker login for external contributor (#3588)](https://github.com/status-im/nimbus-eth1/commit/d6bb3dbdb85a78dc3dddde033e7ae632bd236b1f) - 2025-08-27
 * [Pull Request] [Discovery: Filter out non 'eth' nodes and regularly update 'eth' field.](https://github.com/status-im/nimbus-eth1/pull/3593) - 2025-08-27
 * [Commit] [Avoid using include in DiscoveryV5 implementation (#3586)](https://github.com/status-im/nimbus-eth1/commit/de8585cbe76a9ea3a95c4b32b3695dd62362e0cb) - 2025-08-27
+* [Commit] [oops again](https://github.com/status-im/nimbus-eth1/commit/0dff76c4d0080fa1711b760ef3a9b8fb3f49401d) - 2025-08-30
+* [Commit] [oops](https://github.com/status-im/nimbus-eth1/commit/8a65627f9088d35587892fd48da4afe96ef360d3) - 2025-08-29
+* [Pull Request] [NimbusVersion in one place for all version related code](https://github.com/status-im/nimbus-eth1/pull/3609) - 2025-08-29
+* [Commit] [Fix WAL file buildup (#3603)](https://github.com/status-im/nimbus-eth1/commit/9591d66c7a2ceea64f57ea5a69bc04d317394350) - 2025-08-29
+* [Commit] [Fix test_helpers.nim](https://github.com/status-im/nimbus-eth1/commit/d5f44590a96ef90d82b23bd7da50eabdb36d8fdd) - 2025-08-29
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

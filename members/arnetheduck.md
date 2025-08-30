@@ -84,6 +84,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update nim-rocksdb to v10.4.2.0 (#3594)](https://github.com/status-im/nimbus-eth1/commit/015ec444857f628bdb867e8efa20e66fe79165b3) - 2025-08-28
 * [Commit] [Update data directory defaults to include namespace, network (#3596)](https://github.com/status-im/nimbus-eth1/commit/a66349afaa58a38936703e7daa5c8609e18829a4) - 2025-08-28
 * [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/38acfcbda6abb5a0fb44ff0f907c3e1706dc90e5) - 2025-08-28
+* [Commit] [Fix WAL file buildup](https://github.com/status-im/nimbus-eth1/commit/4056fe865024ab1145de8aa5dc81f97461c5077d) - 2025-08-29
+* [Pull Request] [Fix WAL file buildup](https://github.com/status-im/nimbus-eth1/pull/3603) - 2025-08-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21

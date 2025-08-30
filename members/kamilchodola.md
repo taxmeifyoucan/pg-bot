@@ -34,6 +34,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Remove Pyroscope package version](https://github.com/NethermindEth/nethermind/commit/37eca9a4282f6b72984908b4d67adcc1632895ae) - 2025-08-27
 * [Commit] [More money](https://github.com/NethermindEth/nethermind/commit/9a7f97a0c05f3b183c3d9be66ddcf2a8038670fe) - 2025-08-28
 * [Commit] [Emptyu withdrawal list](https://github.com/NethermindEth/nethermind/commit/3be7e734112e3857fa900bfdffb286486ff83f7b) - 2025-08-28
+* [Commit] [bump moneyz](https://github.com/NethermindEth/nethermind/commit/3ad554a50e469af937de5fc5757e75ca3b94c56a) - 2025-08-29
+* [Commit] [Bump credits](https://github.com/NethermindEth/nethermind/commit/049b30f9d67eae6f1bce2655c0200c3f92d8d99b) - 2025-08-29
 ## Q2 2025
 
 

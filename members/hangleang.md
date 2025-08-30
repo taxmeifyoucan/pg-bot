@@ -47,6 +47,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [HTTP API: add `/eth/v1/beacon/blobs/{block_id}` endpoint](https://github.com/grandinetech/grandine/commit/69306725a8cf33d34110ba4697d24e1dcd9146e1) - 2025-08-25
 * [Pull Request] [HTTP API: add `/eth/v1/beacon/blobs/{block_id}` endpoint](https://github.com/grandinetech/grandine/pull/319) - 2025-08-25
 * [Commit] [Spawn persist task for each data column sidecar](https://github.com/grandinetech/grandine/commit/0fd0048f4f56cd267cb9b6e096f83c923ee5f131) - 2025-08-28
+* [Pull Request] [Column syncing with minimal peers](https://github.com/grandinetech/grandine/pull/329) - 2025-08-29
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

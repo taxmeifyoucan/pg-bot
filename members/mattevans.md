@@ -34,6 +34,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Commit] [ci: add fusaka integration test workflow and update kurtosis config](https://github.com/ethpandaops/contributoor/commit/a3613ff7a0c8fc72e028ce741f2c9b28d59a7c3e) - 2025-08-24
 * [Pull Request] [ci: add fusaka integration test workflow and update kurtosis config](https://github.com/ethpandaops/contributoor/pull/139) - 2025-08-24
+* [Commit] [build(deps): bump the actions group with 2 updates](https://github.com/ethpandaops/contributoor/commit/21ff73953c0333a88bddc569f389dedc8f4c50e9) - 2025-08-29
+* [Commit] [build(deps): bump github.com/ulikunitz/xz from 0.5.11 to 0.5.14](https://github.com/ethpandaops/contributoor/commit/55968c9feba3e4cdff92fdce95bd45b111aabcb1) - 2025-08-29
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Commit] [feat(libp2p): heartbeat](https://github.com/ethpandaops/xatu/commit/e0b608e1bc89e515df25b8954cf64fc9be20f2a1) - 2025-08-20
 * [Commit] [fix(vector): ensure libp2p heartbeat fields match ClickHouse schema](https://github.com/ethpandaops/xatu/commit/c50696bfd15f0566025dcc716e77c1ff5c8a1575) - 2025-08-20

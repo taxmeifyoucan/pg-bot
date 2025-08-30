@@ -124,6 +124,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients: add bpo1 time to client mappers](https://github.com/ethereum/hive/pull/1329) - 2025-08-13
 * [Pull Request] [simulators/eest/consume-engine: disable exception mapper for nimbus-el](https://github.com/ethereum/hive/pull/1332) - 2025-08-25
+* [Commit] [clients/nimbus-el: change `--custom-network` to `--network` (#1337)](https://github.com/ethereum/hive/commit/76400854dbcac62e19752c5242fbc39c1c8f82c8) - 2025-08-29
 ## Q2 2025
 
 
