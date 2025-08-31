@@ -44,6 +44,9 @@ Team: Grandine
 * [Commit] [WIP: persist then prune data columns](https://github.com/grandinetech/grandine/commit/6a0a98bb01142eb4e7a9717ec8b368b7c5541334) - 2025-08-28
 * [Pull Request] [Feature/persist then prune data columns](https://github.com/grandinetech/grandine/pull/327) - 2025-08-28
 * [Pull Request] [Use `versioned_hashes` instead of `indices` in blobs endpoint](https://github.com/grandinetech/grandine/pull/325) - 2025-08-28
+* [Pull Request] [Optimize `BlockDataColumnAvailability::AnyPending` check](https://github.com/grandinetech/grandine/pull/331) - 2025-08-30
+* [Commit] [Column syncing with minimal peers](https://github.com/grandinetech/grandine/commit/7391d66fa2d08baaf7541c33b03d771efd4051fd) - 2025-08-30
+* [Commit] [Group and sort matrix entries in `construct_cells_and_kzg_proofs`](https://github.com/grandinetech/grandine/commit/8dc8b025843aecdda3f0e7685499b2ec8ccd7fde) - 2025-08-30
 ## Q2 2025
 
 

@@ -197,6 +197,9 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/41a914a288175bdad1a14c6666ab29b1ee82b7a3) - 2025-08-24
 * [Pull Request] [WIP: History dedup optimization](https://github.com/erigontech/erigon/pull/16791) - 2025-08-24
 * [Commit] [Revert "rpcd: do txpool version compat check only when txpool is needed" (#16747)](https://github.com/erigontech/erigon/commit/f0f08211da759b498006f6299e1489e0c09e622a) - 2025-08-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d7c0dda2309907d6101d2f4ce41d4bfab2907e92) - 2025-08-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7b14749ef40261f5a4c5acc7aa5ff8687cda6842) - 2025-08-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/092462e8f79c1cef68407daa0673efb85fc03d9b) - 2025-08-30
 ## Q2 2025
 
 

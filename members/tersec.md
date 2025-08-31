@@ -122,6 +122,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [exclude gloas merkle proof tests](https://github.com/status-im/nimbus-eth2/commit/c230be7c1ddb0ff8c7d94272164eac07444905e0) - 2025-08-29
 * [Commit] [fix Gnosis build](https://github.com/status-im/nimbus-eth2/commit/544faf54eba899ed6fac9f111eaf1c843287046a) - 2025-08-29
 * [Pull Request] [initial Gloas fork infrastructure](https://github.com/status-im/nimbus-eth2/pull/7426) - 2025-08-29
+* [Commit] [more logging](https://github.com/status-im/nimbus-eth2/commit/0352a350adca5b569e829edbccd0bacf9d013ed4) - 2025-08-30
+* [Commit] [what are the withdrwaals, indeed](https://github.com/status-im/nimbus-eth2/commit/93f3e12434134d334274459136063ac532aad258) - 2025-08-30
+* [Commit] [testing](https://github.com/status-im/nimbus-eth2/commit/9dc33d9b051b6fc9f930efa1e753838c8c69a8bd) - 2025-08-30
+* [Commit] [...](https://github.com/status-im/nimbus-eth2/commit/288ebab794c124bee27675c88731582c413cfcf7) - 2025-08-30
+* [Commit] [no local block builder boost](https://github.com/status-im/nimbus-eth2/commit/9cb19c92eb135be67919c1090141c723d3876b27) - 2025-08-30
+* [Commit] [don't pass fulu blocks to blobquarantine](https://github.com/status-im/nimbus-eth2/commit/97e5b6a3a0a03e3f40b98bf6bffa31ab51c10ae5) - 2025-08-30
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

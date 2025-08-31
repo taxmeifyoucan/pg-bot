@@ -181,6 +181,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update src/Nethermind/Nethermind.State/PersistentStorageProvider.cs](https://github.com/NethermindEth/nethermind/commit/bcb285d94273fd9dbf09db27027995776088f547) - 2025-08-21
 * [Commit] [Add OutputCache to metrics endpoint (#9139)](https://github.com/NethermindEth/nethermind/commit/026fa2bed0f0ec331944263daa15e8322466d440) - 2025-08-22
 * [Commit] [Per contract state (#9088)](https://github.com/NethermindEth/nethermind/commit/93068c83bf1dd32eaadfa7dd3f18f79e2252a171) - 2025-08-25
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/5b9a9754497217f3da9642aef6ed20188a818d97) - 2025-08-30
+* [Pull Request] [Perf/bulk set](https://github.com/NethermindEth/nethermind/pull/9215) - 2025-08-30
+* [Commit] [Remove is root](https://github.com/NethermindEth/nethermind/commit/9977c3fc92d34bab993e1c25e487d67a0c02e54b) - 2025-08-30
+* [Commit] [Reduce log noise from bad behaving peers (#9156)](https://github.com/NethermindEth/nethermind/commit/765cef4135bbf29af63ef97a59e3ca894f67f7c9) - 2025-08-30
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

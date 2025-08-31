@@ -1080,6 +1080,17 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/07eefa7d17009e48041dded2c1567683be410060) - 2025-08-29
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a4d65d76968d8b7e25965c9dd3cd9b712e4839c1) - 2025-08-29
 * [Commit] [save](https://github.com/erigontech/erigon/commit/2dcb534d2089b8516cb10df8cbff8fe5b2d775e1) - 2025-08-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/60f17aff90ce3f7efac4ab1482ded41425f74ae0) - 2025-08-30
+* [Issue] [mdbx.NoSubdir: seems creating](https://github.com/erigontech/erigon/issues/16914) - 2025-08-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/610921d4278747c342d664029fa2bb240bd394ab) - 2025-08-30
+* [Pull Request] [remove `ibs.SetIncarnation` method](https://github.com/erigontech/erigon/pull/16913) - 2025-08-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5d4f1ce08defb3608aa6c7db72747b1ffc990435) - 2025-08-30
+* [Pull Request] [tests: don't run `testdata` submodule when do `-race`](https://github.com/erigontech/erigon/pull/16912) - 2025-08-30
+* [Pull Request] [tests: reduce concurrency to coroutine per-file rather than per-test-case](https://github.com/erigontech/erigon/pull/16911) - 2025-08-30
+* [Commit] [tests: parallel per-file, not per-test-case](https://github.com/erigontech/erigon/commit/1931ad6e60416383cfb8c854bb1a63d2236c3d45) - 2025-08-30
+* [Commit] [tests: parallel per-file, not per-test-case](https://github.com/erigontech/erigon/commit/d49b5b67aa0e6dee55844e8795258f1c6416c2b2) - 2025-08-30
+* [Commit] [Fixed calculation of start block number in snapshot retirement (#16902)](https://github.com/erigontech/erigon/commit/769d388010a5354eaf5f79ee513967e6713a8443) - 2025-08-30
+* [Commit] [drop `observer` component  (#16857)](https://github.com/erigontech/erigon/commit/5e82286ff5c5e5a8bff7e9df7b8de20c3b593888) - 2025-08-30
 ## Q2 2025
 
 

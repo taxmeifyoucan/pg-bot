@@ -104,6 +104,7 @@ Team: Erigon
 * [Commit] [cmd/devnet: sunset (#16882)](https://github.com/erigontech/erigon/commit/6fe802742eaaf419f2f75760dccc086be4d6595b) - 2025-08-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/47d807233a6e0a475197d0f28abf34d8d46cfa9c) - 2025-08-28
 * [Commit] [agg: move `iiCfg`/`Schema`/`RegisterDomain calls` to `statecfg` (#16848)](https://github.com/erigontech/erigon/commit/6b6b65143df5ea1325e4798e37ec4c23953c2694) - 2025-08-28
+* [Commit] [save](https://github.com/erigontech/erigon/commit/809ea1a295f733e301a67c19f66971963c063398) - 2025-08-30
 ## Q2 2025
 
 

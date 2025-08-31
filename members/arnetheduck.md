@@ -86,6 +86,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/38acfcbda6abb5a0fb44ff0f907c3e1706dc90e5) - 2025-08-28
 * [Commit] [Fix WAL file buildup](https://github.com/status-im/nimbus-eth1/commit/4056fe865024ab1145de8aa5dc81f97461c5077d) - 2025-08-29
 * [Pull Request] [Fix WAL file buildup](https://github.com/status-im/nimbus-eth1/pull/3603) - 2025-08-29
+* [Commit] [Unified Nimbus node](https://github.com/status-im/nimbus-eth1/commit/01b9f79ae968e34db4a1e462fc7449d53f374659) - 2025-08-30
+* [Commit] [Unified Nimbus node](https://github.com/status-im/nimbus-eth1/commit/d9e20d942cf0825daca88d83dc9d61d377f277bd) - 2025-08-30
+* [Commit] [Unified Nimbus node](https://github.com/status-im/nimbus-eth1/commit/a29673617ba85fbec0f27ed9c7d7375b418c8acc) - 2025-08-30
+* [Commit] [Unified Nimbus node](https://github.com/status-im/nimbus-eth1/commit/24e03e83bf4fab2ecd01e0877118bb6ea2c2580d) - 2025-08-30
+* [Commit] [Unified Nimbus node](https://github.com/status-im/nimbus-eth1/commit/641025880af46c0a998c2002326a52a242c589ca) - 2025-08-30
+* [Issue] [Inaccurate log for shared discovery port](https://github.com/status-im/nimbus-eth1/issues/3610) - 2025-08-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21

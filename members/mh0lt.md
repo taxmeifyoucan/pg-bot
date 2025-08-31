@@ -191,6 +191,8 @@ Team: Erigon
 * [Commit] [add buf as cachesize  to commit](https://github.com/erigontech/erigon/commit/2de35ac62e671014fa192fd4b9e5b3a513670c6f) - 2025-08-28
 * [Commit] [add progress to commit log](https://github.com/erigontech/erigon/commit/03c0e895d17e24b94ecdbdcf6a48071bb248bd94) - 2025-08-28
 * [Commit] [[r32] rebuild_commitment: add `--squeeze=false`, improve logs (#16696)](https://github.com/erigontech/erigon/commit/801d8182ffc17e6e4628541d6203038617fdf562) - 2025-08-28
+* [Commit] [disble get cache](https://github.com/erigontech/erigon/commit/de5bf15bcecb54718e75fe929c8fa439ec784541) - 2025-08-30
+* [Commit] [exteded account component validation](https://github.com/erigontech/erigon/commit/04f36094a5e87bdb3651857311720f48f559ade6) - 2025-08-30
 ## Q2 2025
 
 

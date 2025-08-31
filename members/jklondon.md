@@ -107,6 +107,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [nil fix in `FilePaths` (#16727)](https://github.com/erigontech/erigon/commit/7632b06fd40339f2a1123dab42047bb528b46ff6) - 2025-08-22
 * [Pull Request] [added and improved help to bumper](https://github.com/erigontech/erigon/pull/16889) - 2025-08-28
 * [Pull Request] [[DO NOT MERGE] Test of libmdbx master CI](https://github.com/erigontech/erigon/pull/16910) - 2025-08-29
+* [Commit] [fix: TestPythonIntegration to sign the intended 32-byte msg1 (#16814)](https://github.com/erigontech/erigon/commit/2865b473e9be5d7dfcb5517a34494ad954cc3b66) - 2025-08-30
 ## Q2 2025
 
 

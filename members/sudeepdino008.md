@@ -209,6 +209,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cp: fix wrong header used in getLogsV3](https://github.com/erigontech/erigon/pull/16846) - 2025-08-27
 * [Pull Request] [fix wrong header used in getLogsV3](https://github.com/erigontech/erigon/pull/16845) - 2025-08-27
 * [Commit] [finding progress of forkables](https://github.com/erigontech/erigon/commit/07fe495ba0c57cf0e0dfbfa7ab0766f0df2c64e7) - 2025-08-28
+* [Commit] [remove dirs,indexTags out of registry](https://github.com/erigontech/erigon/commit/18252115afd0a94077ce2b84be4738262efc5339) - 2025-08-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

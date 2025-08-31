@@ -197,6 +197,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [chore: cargo update](https://github.com/bluealloy/revm/pull/2930) - 2025-08-28
 * [Commit] [chore: cargo update](https://github.com/bluealloy/revm/commit/a8fe021b6b528fea5a31dc6ac2c72122ef998da3) - 2025-08-28
 * [Pull Request] [fix: FrameStack mark push/end_init as unsafe](https://github.com/bluealloy/revm/pull/2929) - 2025-08-28
+* [Commit] [chore: add amsterdam in spec id (#2934)](https://github.com/bluealloy/revm/commit/f9ebc5f6b923f2bbf5a363934605e80629c1cad7) - 2025-08-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14
