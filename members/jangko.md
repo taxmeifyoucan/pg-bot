@@ -181,6 +181,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fix check_version.sh](https://github.com/status-im/nimbus-eth1/commit/8326207621ee7db1bd393d35a92bcb3252b2a632) - 2025-08-30
 * [Commit] [Add version linter](https://github.com/status-im/nimbus-eth1/commit/23ba32c7724c01b6334f5deb66438563faf8ddd6) - 2025-08-30
 * [Commit] [Fix test_rpc](https://github.com/status-im/nimbus-eth1/commit/f65b5e7739e93fb4b2088f636421b7e919432966) - 2025-08-30
+* [Commit] [Link to specific commit](https://github.com/status-im/nimbus-eth1/commit/205e9639c6e31331afc444adb726a6e790eb08ae) - 2025-08-31
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

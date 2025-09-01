@@ -37,6 +37,7 @@ Team: Nethermind
 * [Commit] [Fix snap sync edge case due to unnecessary proof (#9166)](https://github.com/NethermindEth/nethermind/commit/feebdb907222696775fdb0f22901ff52a580c072) - 2025-08-19
 * [Commit] [Drop pre-merge data on Gnosis (#9093)](https://github.com/NethermindEth/nethermind/commit/b7f74ff730b23a56635fa036fe85de06293e6ab0) - 2025-08-19
 * [Commit] [Auto-update fast sync settings (#9147)](https://github.com/NethermindEth/nethermind/commit/6ebe4cf79c62c067be952b705a0e08dd19808b3e) - 2025-08-25
+* [Pull Request] [XDC : add extra needed types ](https://github.com/NethermindEth/nethermind/pull/9219) - 2025-09-01
 ## Q2 2025
 
 

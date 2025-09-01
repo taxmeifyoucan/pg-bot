@@ -47,6 +47,7 @@ Team: Grandine
 * [Pull Request] [Optimize `BlockDataColumnAvailability::AnyPending` check](https://github.com/grandinetech/grandine/pull/331) - 2025-08-30
 * [Commit] [Column syncing with minimal peers](https://github.com/grandinetech/grandine/commit/7391d66fa2d08baaf7541c33b03d771efd4051fd) - 2025-08-30
 * [Commit] [Group and sort matrix entries in `construct_cells_and_kzg_proofs`](https://github.com/grandinetech/grandine/commit/8dc8b025843aecdda3f0e7685499b2ec8ccd7fde) - 2025-08-30
+* [Commit] [if reconstruction started, retry block only if all sampled columns are accepted](https://github.com/grandinetech/grandine/commit/dbf37c77e7dcc0facbd6ae768a9933d267978f33) - 2025-08-31
 ## Q2 2025
 
 

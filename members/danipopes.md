@@ -38,6 +38,8 @@ Team: Reth
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [perf: avoid allocation when storing nibbles](https://github.com/paradigmxyz/reth/issues/17810) - 2025-08-12
 * [Pull Request] [chore: remove msrv from clippy.toml](https://github.com/paradigmxyz/reth/pull/18034) - 2025-08-25
+* [Commit] [chore: avoid using hashmap hashers directly](https://github.com/paradigmxyz/reth/commit/f752c0b35736ea9ae7071170df9940ad69fb468c) - 2025-08-31
+* [Pull Request] [chore: avoid using hashmap hashers directly](https://github.com/paradigmxyz/reth/pull/18176) - 2025-08-31
 ## Q2 2025
 
 

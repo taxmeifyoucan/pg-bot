@@ -34,6 +34,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Start from Justified checkpoint by default](https://github.com/OffchainLabs/prysm/pull/15636) - 2025-08-26
 * [Pull Request] [Change error message](https://github.com/OffchainLabs/prysm/pull/15635) - 2025-08-26
 * [Pull Request] [Fix next epoch proposer duties](https://github.com/OffchainLabs/prysm/pull/15642) - 2025-08-28
+
+[prysmaticlabs/hashtree](https://github.com/prysmaticlabs/hashtree)
+* [Commit] [add HashByteSlice (#51)](https://github.com/OffchainLabs/hashtree/commit/f733b7698511b5498b722421a30ddf7e5066497c) - 2025-08-31
 ## Q2 2025
 
 

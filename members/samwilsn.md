@@ -49,6 +49,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs, call #36, September 17, 2025](https://github.com/ethereum/pm/issues/1697) - 2025-08-22
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Remove dependency on target_info.](https://github.com/sigp/lighthouse/pull/7964) - 2025-09-01
 ## Q2 2025
 
 

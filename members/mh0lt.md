@@ -193,6 +193,9 @@ Team: Erigon
 * [Commit] [[r32] rebuild_commitment: add `--squeeze=false`, improve logs (#16696)](https://github.com/erigontech/erigon/commit/801d8182ffc17e6e4628541d6203038617fdf562) - 2025-08-28
 * [Commit] [disble get cache](https://github.com/erigontech/erigon/commit/de5bf15bcecb54718e75fe929c8fa439ec784541) - 2025-08-30
 * [Commit] [exteded account component validation](https://github.com/erigontech/erigon/commit/04f36094a5e87bdb3651857311720f48f559ade6) - 2025-08-30
+* [Commit] [drop `observer` component  (#16857)](https://github.com/erigontech/erigon/commit/5e82286ff5c5e5a8bff7e9df7b8de20c3b593888) - 2025-08-31
+* [Commit] [remove counter](https://github.com/erigontech/erigon/commit/456f60db7a39e771d59a77ed3534e5f5be69f243) - 2025-08-31
+* [Pull Request] [Parallel ExecV3 Processing](https://github.com/erigontech/erigon/pull/16922) - 2025-08-31
 ## Q2 2025
 
 

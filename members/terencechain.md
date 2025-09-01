@@ -71,6 +71,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Implement PeerDAS sync (#15564)](https://github.com/OffchainLabs/prysm/commit/00cf1f25078f20f133ca3c050b0400ac39670f4d) - 2025-08-24
 * [Commit] [Initialize SSZ-QL package with support for fixed-size types (#15588)](https://github.com/OffchainLabs/prysm/commit/26d8b6b7869d0c1ee4cb6de27d7c9779b380c6b5) - 2025-08-26
 * [Commit] [Add Gloas state fields to beacon state implementation](https://github.com/OffchainLabs/prysm/commit/442588a1a61037e7d242e7310fc308759d2a32df) - 2025-08-26
+* [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/8d3d54b7b81163755bfa7350153ff98d1f5e09eb) - 2025-08-31
+* [Commit] [Implement Gloas fork support in consensus-types/blocks](https://github.com/OffchainLabs/prysm/commit/8bbcf1f63c804978c26cee0a2e760c222a948483) - 2025-08-31
+* [Commit] [Add Gloas state fields to beacon state implementation](https://github.com/OffchainLabs/prysm/commit/0d06b2ff7ca6231d4a518a6b1c33931748656ed3) - 2025-08-31
+* [Commit] [Add Gloas state fields to beacon state implementation](https://github.com/OffchainLabs/prysm/commit/a02c7b6620d8ce5ca8d100a33690d343ea88e07f) - 2025-08-31
+* [Commit] [Implement PeerDAS sync (#15564)](https://github.com/OffchainLabs/prysm/commit/00cf1f25078f20f133ca3c050b0400ac39670f4d) - 2025-08-31
+* [Commit] [PeerDAS: Add various missing items (#15629)](https://github.com/OffchainLabs/prysm/commit/92c359456eddae4a40381605b9ec1e63b99597e5) - 2025-08-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

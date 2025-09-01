@@ -1091,6 +1091,19 @@ Team: Erigon
 * [Commit] [tests: parallel per-file, not per-test-case](https://github.com/erigontech/erigon/commit/d49b5b67aa0e6dee55844e8795258f1c6416c2b2) - 2025-08-30
 * [Commit] [Fixed calculation of start block number in snapshot retirement (#16902)](https://github.com/erigontech/erigon/commit/769d388010a5354eaf5f79ee513967e6713a8443) - 2025-08-30
 * [Commit] [drop `observer` component  (#16857)](https://github.com/erigontech/erigon/commit/5e82286ff5c5e5a8bff7e9df7b8de20c3b593888) - 2025-08-30
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3d2603f84dbf3c6d983f6eb6a00bb429b4317a82) - 2025-08-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/06b0a96ff0e746d3b9fc5bd6b5daa1ebdea2eacd) - 2025-08-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d5fffae7051d1bdb533988bc4425647a3a22b383) - 2025-08-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/98c686c023cfc3ff7eb431ef4f134ad729ae36c0) - 2025-08-31
+* [Commit] [testdata: skip slow tests (#16898)](https://github.com/erigontech/erigon/commit/ed277b9a309f5ae4f308ee16a23df3efafa3a180) - 2025-08-31
+* [Commit] [tests: reduce concurrency to coroutine per-file rather than per-test-case (#16911)](https://github.com/erigontech/erigon/commit/54e343a3e87a42cbd8617e944b405c5f0b95502b) - 2025-08-31
+* [Commit] [Cherrypick fixes from 3.1 (#16920)](https://github.com/erigontech/erigon/commit/475b2d213fe3010a5e40037b4c82ed843829f630) - 2025-08-31
+* [Commit] [remove `kv.IncarnationMap` table (#16913)](https://github.com/erigontech/erigon/commit/c1d6644b4c1b615c587f547de2aef349a8399d6e) - 2025-08-31
+* [Commit] [fix: TestPythonIntegration to sign the intended 32-byte msg1 (#16814)](https://github.com/erigontech/erigon/commit/2865b473e9be5d7dfcb5517a34494ad954cc3b66) - 2025-08-31
+* [Commit] [Fixed calculation of start block number in snapshot retirement (#16902)](https://github.com/erigontech/erigon/commit/769d388010a5354eaf5f79ee513967e6713a8443) - 2025-08-31
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e9854f211cdbece0b42701214ccf5deed9072b29) - 2025-08-31
+* [Issue] [Pruning: seems we keep 2 steps in DB before start pruning](https://github.com/erigontech/erigon/issues/16918) - 2025-08-31
+* [Issue] [TestPool timing-out on linux CI](https://github.com/erigontech/erigon/issues/16917) - 2025-08-31
 ## Q2 2025
 
 

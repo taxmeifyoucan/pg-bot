@@ -128,6 +128,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [...](https://github.com/status-im/nimbus-eth2/commit/288ebab794c124bee27675c88731582c413cfcf7) - 2025-08-30
 * [Commit] [no local block builder boost](https://github.com/status-im/nimbus-eth2/commit/9cb19c92eb135be67919c1090141c723d3876b27) - 2025-08-30
 * [Commit] [don't pass fulu blocks to blobquarantine](https://github.com/status-im/nimbus-eth2/commit/97e5b6a3a0a03e3f40b98bf6bffa31ab51c10ae5) - 2025-08-30
+* [Pull Request] [rm even more debugGloasComments](https://github.com/status-im/nimbus-eth2/pull/7437) - 2025-09-01
+* [Commit] [rm yet more debugGloasComments (#7434)](https://github.com/status-im/nimbus-eth2/commit/7e8cb8edf53f7e1548ac579e0e3cb318c557947c) - 2025-08-31
+* [Pull Request] [rm yet more debugGloasComments](https://github.com/status-im/nimbus-eth2/pull/7434) - 2025-08-31
+* [Commit] [rm more debugGloasComments (#7433)](https://github.com/status-im/nimbus-eth2/commit/fcd73b25a4eea62bd3181810db09ed2a86f45427) - 2025-08-31
+* [Commit] [adjust correct expected_withdrawals SSZ container](https://github.com/status-im/nimbus-eth2/commit/8e4a36f2545678ada19bf4421cc2022405274ace) - 2025-08-31
+* [Commit] [other one](https://github.com/status-im/nimbus-eth2/commit/0b41e97e002f67791b5f96fed30176dc9f18b608) - 2025-08-31
+* [Pull Request] [rm more debugGloasComments](https://github.com/status-im/nimbus-eth2/pull/7433) - 2025-08-31
+* [Commit] [Remove Electra fork from optional forks VC supports. (#7321)](https://github.com/status-im/nimbus-eth2/commit/2a7c918db1850b9359d8868f1af4b26caf3b674b) - 2025-08-31
+* [Commit] [fix htr of expected withdrawals](https://github.com/status-im/nimbus-eth2/commit/78a0f6ef6f11533ca8c8a5badcf64c1d1733a061) - 2025-08-31
+* [Commit] [fix htr of expected withdrawals](https://github.com/status-im/nimbus-eth2/commit/c8ed7ddb0ebe441e9d43731363a1da6be9a55ad1) - 2025-08-31
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13
@@ -135,6 +145,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [remove EIP-7907](https://github.com/status-im/nimbus-eth1/issues/3484) - 2025-07-17
 * [Issue] [implement `eth_maxPriorityFeePerGas`](https://github.com/status-im/nimbus-eth1/issues/3505) - 2025-07-23
 * [Commit] [Discovery: Filter out non 'eth' nodes and regularly update 'eth' field. (#3593)](https://github.com/status-im/nimbus-eth1/commit/71de4402cf4e45f44618bb99c1ef726572247693) - 2025-08-28
+* [Commit] [NimbusVersion in one place for all version related code (#3609)](https://github.com/status-im/nimbus-eth1/commit/1ae79dc6034a6d11fceffcee8e8e5c76f62a5517) - 2025-08-31
 ## Q2 2025
 
 
