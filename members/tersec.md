@@ -138,6 +138,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Remove Electra fork from optional forks VC supports. (#7321)](https://github.com/status-im/nimbus-eth2/commit/2a7c918db1850b9359d8868f1af4b26caf3b674b) - 2025-08-31
 * [Commit] [fix htr of expected withdrawals](https://github.com/status-im/nimbus-eth2/commit/78a0f6ef6f11533ca8c8a5badcf64c1d1733a061) - 2025-08-31
 * [Commit] [fix htr of expected withdrawals](https://github.com/status-im/nimbus-eth2/commit/c8ed7ddb0ebe441e9d43731363a1da6be9a55ad1) - 2025-08-31
+* [Commit] [fill in some ncli_db and state_transition_epoch gloas implementations (#7430)](https://github.com/status-im/nimbus-eth2/commit/ed9648b66fadd5e32a13659355583373d273962a) - 2025-09-01
+* [Pull Request] [stop using deprecated /eth/v1/beacon/blocks / publishBlock(V1) beacon API endpoint](https://github.com/status-im/nimbus-eth2/pull/7438) - 2025-09-01
+* [Commit] [rm even more debugGloasComments (#7437)](https://github.com/status-im/nimbus-eth2/commit/9e906b11ac653ed6cac30be433ce929b7cf3a49e) - 2025-09-01
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

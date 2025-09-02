@@ -30,6 +30,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Dependencies update](https://github.com/Consensys/teku/pull/9775) - 2025-08-17
 * [Issue] [Can't re-submit a signed_voluntary_exit after it fails gossiping the message the first time](https://github.com/Consensys/teku/issues/9784) - 2025-08-20
 
+* [Pull Request] [Remove compileReferenceTestJava dependency on generateReferenceTestClasses](https://github.com/Consensys/teku/pull/9834) - 2025-09-01
+* [Issue] [Remove unit test flag to ignore Gloas](https://github.com/Consensys/teku/issues/9833) - 2025-09-01
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add support for libp2p interop tests](https://github.com/libp2p/jvm-libp2p/pull/421) - 2025-08-25
 ## Q2 2025

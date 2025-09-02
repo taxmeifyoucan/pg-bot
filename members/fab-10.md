@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Add get hardforkId by block number to Blockchain service](https://github.com/hyperledger/besu/pull/9115) - 2025-08-27
 * [Commit] [Block transaction selector performance (#9023)](https://github.com/hyperledger/besu/commit/7870344c61395905a6a750b65a29f3f4961c4106) - 2025-08-27
 * [Commit] [uprev log4j dependency (#9131)](https://github.com/hyperledger/besu/commit/50bcc0280a1db56a267040c4eb368d106540d1b5) - 2025-08-29
+* [Commit] [Support multiple transaction selector plugins (#9139)](https://github.com/hyperledger/besu/commit/29f35161d3442dc0b7a0d098e8a50a1acd227971) - 2025-09-01
 ## Q2 2025
 
 

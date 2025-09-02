@@ -137,6 +137,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] ["missing entities: snap" in 3.1 bormainnet snapshots](https://github.com/erigontech/erigon/issues/16900) - 2025-08-29
 * [Pull Request] ["missing entities: snap" in bormainnet 3.1 snapshot](https://github.com/erigontech/erigon/pull/16899) - 2025-08-29
 * [Commit] [Pull torrent fix for webseed cancellation and webseedUniqueRequestKey panic (#16879)](https://github.com/erigontech/erigon/commit/01bbee282717557ea79a7fdd803c8dfd38e8aaca) - 2025-08-29
+* [Commit] [cosmetics](https://github.com/erigontech/erigon/commit/fd89b8f3a238eb21c6d9d09e77d4f8438e02d75f) - 2025-09-01
+* [Pull Request] [dir improvements: move `snapshotsync` from `turbo` to `db`](https://github.com/erigontech/erigon/pull/16933) - 2025-09-01
+* [Commit] [dir improvements: move `snapshotsync` from `turbo` to `db`](https://github.com/erigontech/erigon/commit/17461c3615ee739be1fd1e3a182291cda2a776d4) - 2025-09-01
+* [Commit] [cp: snapshots_cmd related PRs from main (#16930)](https://github.com/erigontech/erigon/commit/36ea30f3f813f09ed8bf9dd0f3c6faf029cecae6) - 2025-09-01
+* [Commit] [fix(eth_getLogs): handle "latest" range correctly to avoid empty results (#16901) (#16926)](https://github.com/erigontech/erigon/commit/e92eb9e8810f4884c0ca21db094fcdedb000d0d6) - 2025-09-01
+* [Commit] [Fixed calculation of start block number in snapshot retirement (#16902) (#16904)](https://github.com/erigontech/erigon/commit/e9df3333e8618e6582058457ee7cdf51e38cc923) - 2025-09-01
+* [Commit] [deps: switch from go-kzg-4844 to go-eth-kzg (#16931)](https://github.com/erigontech/erigon/commit/71f192de9294006832355210469f88746efc3184) - 2025-09-01
+* [Commit] [more lint](https://github.com/erigontech/erigon/commit/328ecc73ddb50dda2d93f7a10421bc5104aa4e3f) - 2025-09-01
+* [Commit] [lint](https://github.com/erigontech/erigon/commit/03c4e85a2932097a86667133ef2ab1f8cd82febb) - 2025-09-01
+* [Commit] [Engine API: more robust engine_getBlobsV2 (#16928)](https://github.com/erigontech/erigon/commit/5e560d3c9cb0dc3b47e265efb023b0947203e062) - 2025-09-01
+* [Pull Request] [deps: switch from go-kzg-4844 to go-eth-kzg](https://github.com/erigontech/erigon/pull/16931) - 2025-09-01
+* [Commit] [Switch from go-kzg-4844 to go-eth-kzg](https://github.com/erigontech/erigon/commit/ecb665cfcf43266b71dd5a6813a422dd3eb4262b) - 2025-09-01
+* [Commit] [deps: upgrade go-eth-kzg to v1.4.0](https://github.com/erigontech/erigon/commit/0ee03207b3974333f8a67e1523deb7657de88109) - 2025-09-01
+* [Pull Request] [Engine API: more robust engine_getBlobsV2](https://github.com/erigontech/erigon/pull/16928) - 2025-09-01
+* [Commit] [Engine API: more robust engine_getBlobsV2](https://github.com/erigontech/erigon/commit/9ef76d0dc688af41d584b95ce002e720559f9e9b) - 2025-09-01
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

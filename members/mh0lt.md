@@ -196,6 +196,14 @@ Team: Erigon
 * [Commit] [drop `observer` component  (#16857)](https://github.com/erigontech/erigon/commit/5e82286ff5c5e5a8bff7e9df7b8de20c3b593888) - 2025-08-31
 * [Commit] [remove counter](https://github.com/erigontech/erigon/commit/456f60db7a39e771d59a77ed3534e5f5be69f243) - 2025-08-31
 * [Pull Request] [Parallel ExecV3 Processing](https://github.com/erigontech/erigon/pull/16922) - 2025-08-31
+* [Commit] [add commit counters](https://github.com/erigontech/erigon/commit/6b7546ae40185d91f86e99d294bf7d15adcac528) - 2025-09-01
+* [Commit] [update B->G for 'gigagas'](https://github.com/erigontech/erigon/commit/b6f378ae78ee799cc1ff4c851b27315b69e4cc8b) - 2025-09-01
+* [Commit] [fix compile error](https://github.com/erigontech/erigon/commit/8fb9e4441d47e661c2cc6a3d8cb69c42963bab83) - 2025-09-01
+* [Commit] [fix compile error](https://github.com/erigontech/erigon/commit/a61d943ab82d1e6b56674316d834d1850a1062cc) - 2025-09-01
+* [Commit] [fix compile error](https://github.com/erigontech/erigon/commit/9d52ef65b121bc89c94ad1c5fffe4b53f11d4bcd) - 2025-09-01
+* [Commit] [updated to main version + wasCommited](https://github.com/erigontech/erigon/commit/8d4e6b83f42ceae681f4c32a5008f03362063a17) - 2025-09-01
+* [Commit] [rpcdaemon: fix to avoid panic()  on receipts log index when ASSERT_ERIGON is enabled (#16908)](https://github.com/erigontech/erigon/commit/02bf5dc30abd4325586241ed7fa5f44f3fa321a8) - 2025-09-01
+* [Commit] [env: simplify and support non-lower-case (#16923)](https://github.com/erigontech/erigon/commit/4f7b81680821dd1405ae2c961594c17dcc478137) - 2025-09-01
 ## Q2 2025
 
 

@@ -135,6 +135,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fill: update witness-filler ref as requested by jsign](https://github.com/ethereum/execution-spec-tests/commit/4bb601933abe64c8b2b89e1996ab4b743ab58f1f) - 2025-08-28
 * [Commit] [Deployed 54d20505cab to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/f5a875bfb1625ae1af78ffd4ce31ba575407c0a1) - 2025-08-28
 * [Commit] [Deployed 232e08f19d7 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8238a0d2ea95334170f245b7fd66c1ae99257cc0) - 2025-08-29
+* [Commit] [chore(tooling): remove unused tenacity dependency (#2019)](https://github.com/ethereum/execution-spec-tests/commit/43270a2b091e2588e454310972574197b012fb36) - 2025-09-01
 ## Q2 2025
 
 

@@ -35,6 +35,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [GasEstimator refactor post #9064](https://github.com/NethermindEth/nethermind/pull/9210) - 2025-08-27
 * [Commit] [Update OP Superchain chains (#9218)](https://github.com/NethermindEth/nethermind/commit/bf83c5bad52817de7ebce0d21eb92ba86a3f682e) - 2025-08-31
 * [Commit] [Auto-update fast sync settings (#9217)](https://github.com/NethermindEth/nethermind/commit/2f80a6c9a331a7978f118d2407bee4d9d5dfee04) - 2025-08-31
+* [Commit] [Bit of refactors](https://github.com/NethermindEth/nethermind/commit/bd486b571d30f252a9938eb73c43446788ffea65) - 2025-09-01
 ## Q2 2025
 
 

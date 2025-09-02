@@ -94,6 +94,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Use genesis as the parent for the first block](https://github.com/NethermindEth/nethermind/pull/9203) - 2025-08-25
 * [Commit] [Use genesis as the parent for the first block](https://github.com/NethermindEth/nethermind/commit/7baaf7bcf80f9ccbe572df83fd040b688b1a27bf) - 2025-08-25
 * [Pull Request] [Improve deposit request fields validation](https://github.com/NethermindEth/nethermind/pull/9199) - 2025-08-25
+* [Commit] [Reuse a loop](https://github.com/NethermindEth/nethermind/commit/a8a1ef08700beb28017bd83b5f786d4acc04b35b) - 2025-09-01
+* [Pull Request] [Update tests to fix missing test jsons](https://github.com/NethermindEth/nethermind/pull/9225) - 2025-09-01
+* [Commit] [Only optional deps are not required](https://github.com/NethermindEth/nethermind/commit/724e5b3cce39fc5a0291fdec6219a84d87a25f56) - 2025-09-01
+* [Commit] [Do not load inactive deps](https://github.com/NethermindEth/nethermind/commit/7bddaf5a6aefbcb5603e830d5e7e07cca108c246) - 2025-09-01
+* [Pull Request] [Hive to load blocks before RPC start](https://github.com/NethermindEth/nethermind/pull/9224) - 2025-09-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

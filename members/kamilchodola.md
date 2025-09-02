@@ -36,6 +36,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Emptyu withdrawal list](https://github.com/NethermindEth/nethermind/commit/3be7e734112e3857fa900bfdffb286486ff83f7b) - 2025-08-28
 * [Commit] [bump moneyz](https://github.com/NethermindEth/nethermind/commit/3ad554a50e469af937de5fc5757e75ca3b94c56a) - 2025-08-29
 * [Commit] [Bump credits](https://github.com/NethermindEth/nethermind/commit/049b30f9d67eae6f1bce2655c0200c3f92d8d99b) - 2025-08-29
+* [Commit] [Remove rc tag from build version](https://github.com/NethermindEth/nethermind/commit/e586d6207de9e16609648271db6f442887b31992) - 2025-09-01
 ## Q2 2025
 
 

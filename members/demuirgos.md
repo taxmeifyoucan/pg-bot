@@ -38,6 +38,11 @@ Team: Nethermind
 * [Commit] [Drop pre-merge data on Gnosis (#9093)](https://github.com/NethermindEth/nethermind/commit/b7f74ff730b23a56635fa036fe85de06293e6ab0) - 2025-08-19
 * [Commit] [Auto-update fast sync settings (#9147)](https://github.com/NethermindEth/nethermind/commit/6ebe4cf79c62c067be952b705a0e08dd19808b3e) - 2025-08-25
 * [Pull Request] [XDC : add extra needed types ](https://github.com/NethermindEth/nethermind/pull/9219) - 2025-09-01
+* [Commit] [ws fixes](https://github.com/NethermindEth/nethermind/commit/8b7b94f05d414f1df7bcbeea46075cd278c33be5) - 2025-09-01
+* [Commit] [change signature type from byte[] to Signature class](https://github.com/NethermindEth/nethermind/commit/1b75b72bd00895b10ae69448133313d23822a2c5) - 2025-09-01
+* [Commit] [add missing ';'](https://github.com/NethermindEth/nethermind/commit/d716a048bae97a168e3d60dd5341edeced17a314) - 2025-09-01
+* [Commit] [fix build issue : wrong references in BlockInfo, coupling in ExpCountDown](https://github.com/NethermindEth/nethermind/commit/a08f76a76cb68084cc32a603f4d5e39d851d556d) - 2025-09-01
+* [Commit] [fix build issiue, missing identifier in SignFn delegate definition](https://github.com/NethermindEth/nethermind/commit/f6bf6ffccff0ccebe6b0a30eb50bc9533b9906fa) - 2025-09-01
 ## Q2 2025
 
 

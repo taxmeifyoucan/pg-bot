@@ -185,6 +185,21 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Perf/bulk set](https://github.com/NethermindEth/nethermind/pull/9215) - 2025-08-30
 * [Commit] [Remove is root](https://github.com/NethermindEth/nethermind/commit/9977c3fc92d34bab993e1c25e487d67a0c02e54b) - 2025-08-30
 * [Commit] [Reduce log noise from bad behaving peers (#9156)](https://github.com/NethermindEth/nethermind/commit/765cef4135bbf29af63ef97a59e3ca894f67f7c9) - 2025-08-30
+* [Commit] [Conditional parllel hash](https://github.com/NethermindEth/nethermind/commit/46c6a3e5c5558f3ea2c999054e45d8d4675dd5ca) - 2025-09-01
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/4d441d0b5b5503c5fb300575a45f557e73b1e809) - 2025-09-01
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/9386c7374f7371e48eb84dadd9fa107ec0ed63ec) - 2025-09-01
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/69c982a41c93c1e9628cec637be573199d653bac) - 2025-09-01
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/71edcfacc9fb4306bcfde197a355bd4f69c01552) - 2025-09-01
+* [Commit] [Update src/Nethermind/Nethermind.Trie/PatriciaTree.cs](https://github.com/NethermindEth/nethermind/commit/26bf7e4537f85574452c9cb024cc39f19172062d) - 2025-09-01
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/0df986c6eae8648e92f8c82cb60ae22ac74ac998) - 2025-09-01
+* [Commit] [Update src/Nethermind/Nethermind.Core/Buffers/SpanSource.cs](https://github.com/NethermindEth/nethermind/commit/1d000bc24418458c8bd820ea77dd93d85ee9a7c0) - 2025-09-01
+* [Commit] [Update src/Nethermind/Nethermind.Trie/PatriciaTree.cs](https://github.com/NethermindEth/nethermind/commit/0548f0943601cb1899316ddd07419d821e9a52d5) - 2025-09-01
+* [Commit] [Update src/Nethermind/Nethermind.Trie/PatriciaTree.cs](https://github.com/NethermindEth/nethermind/commit/9048367493c106c99f161ee8daababf09d9af6f7) - 2025-09-01
+* [Pull Request] [Perf/Update Patricia.Get](https://github.com/NethermindEth/nethermind/pull/9221) - 2025-09-01
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/1a35a62ab992193c0ced767b8045a7571501c84c) - 2025-09-01
+* [Pull Request] [Perf/Patricia set](https://github.com/NethermindEth/nethermind/pull/9220) - 2025-09-01
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/b7cc97f544723f13f97001759f2b07698e5ba0d4) - 2025-09-01
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/85b6a0f7e61877988373bbf03ea2be156ae8d5db) - 2025-09-01
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

@@ -32,6 +32,7 @@ Team: Geth
 * [Commit] [eth/tracers: Improve test coverage for toWord (#31846)](https://github.com/ethereum/go-ethereum/commit/0287666b7d9beffb93f5a7c6500d242d00dbd085) - 2025-08-22
 * [Commit] [p2p: use slices.Clone (#32428)](https://github.com/ethereum/go-ethereum/commit/9b2e8e7ce3772bde521740c4b4c5459927511d2e) - 2025-08-25
 * [Pull Request] [core/vm: switch gas computation to uint256](https://github.com/ethereum/go-ethereum/pull/32508) - 2025-08-28
+* [Pull Request] [core/vm: switch modexp gas computation to uint64](https://github.com/ethereum/go-ethereum/pull/32527) - 2025-09-01
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Map TYPE_3_TX_BLOB_COUNT_EXCEEDED](https://github.com/ethereum/execution-spec-tests/pull/1958) - 2025-07-28
 ## Q2 2025

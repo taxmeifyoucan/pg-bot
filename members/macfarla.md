@@ -76,6 +76,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [add CVEs to changelog (#9135)](https://github.com/hyperledger/besu/commit/327ebd81e195455a38cdb7424a0a1bdcdfc17a79) - 2025-08-29
 * [Pull Request] [[CHANGELOG] add fixed CVEs to changelog](https://github.com/hyperledger/besu/pull/9135) - 2025-08-29
 * [Commit] [switched ref tests](https://github.com/hyperledger/besu/commit/c6c2a9c05fc2cccc1a6342f43f6dfb50418f6fba) - 2025-08-29
+
+* [Pull Request] [remove deprecated option bonsai-maximum-back-layers-to-load](https://github.com/hyperledger/besu/pull/9141) - 2025-09-01
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [fix(clis/besu): blob allowance exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2089) - 2025-09-01
 ## Q2 2025
 
 

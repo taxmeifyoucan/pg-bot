@@ -16,6 +16,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Add new step in CI to verify light client API responses across multiple client implementations](https://github.com/sigp/lighthouse/issues/7811) - 2025-07-29
 * [Issue] [Upgrade Redb file format to v3](https://github.com/sigp/lighthouse/issues/7911) - 2025-08-20
 * [Pull Request] [Custody backfill sync](https://github.com/sigp/lighthouse/pull/7907) - 2025-08-20
+* [Pull Request] [Update to `1.6.0 alpha.6` spec](https://github.com/sigp/lighthouse/pull/7967) - 2025-09-01
+* [Issue] [Backfill Sync error logs due to insufficient synced custody peers](https://github.com/sigp/lighthouse/issues/7966) - 2025-09-01
 ## Q2 2025
 
 

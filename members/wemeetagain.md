@@ -87,6 +87,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: optimize event listener count checks (#8293)](https://github.com/ChainSafe/lodestar/commit/26ea9fa05b98bebeed502d0bb6667a869d19ba12) - 2025-08-29
 * [Commit] [fix: wait for data before writing to db (#8291)](https://github.com/ChainSafe/lodestar/commit/97b9426df79da557b8909ed64e1a78b7e2ff5817) - 2025-08-29
 * [Commit] [chore: remove unnecessary sidecar validation step](https://github.com/ChainSafe/lodestar/commit/6d225a259be38c30a3a2a79564448d3463df4f00) - 2025-08-31
+* [Commit] [fix: add disconnectThreshold for e2e tests (#8301)](https://github.com/ChainSafe/lodestar/commit/453c87f226f9aa401fe4714d657f7b961ffb3364) - 2025-09-01
 ## Q2 2025
 
 

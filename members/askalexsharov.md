@@ -1104,6 +1104,32 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e9854f211cdbece0b42701214ccf5deed9072b29) - 2025-08-31
 * [Issue] [Pruning: seems we keep 2 steps in DB before start pruning](https://github.com/erigontech/erigon/issues/16918) - 2025-08-31
 * [Issue] [TestPool timing-out on linux CI](https://github.com/erigontech/erigon/issues/16917) - 2025-08-31
+* [Commit] [dir improvements: move `snapshotsync` from `turbo` to `db` (#16933)](https://github.com/erigontech/erigon/commit/e984d7b484ace2d82be88cfcfbc5f5fabc280333) - 2025-09-01
+* [Commit] [[r3.0] added same renaming functionality to 3.0 (#16932)](https://github.com/erigontech/erigon/commit/e2e1ecbe9d7424ccf73f7008f832cae22c045d19) - 2025-09-01
+* [Commit] [[r32] prune: print `initialCycle` variable (#16924)](https://github.com/erigontech/erigon/commit/d712fa57168271c1cff8607205badddf42a69b97) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/96bddd4f8085698fede031fa13c83a1211a5feb1) - 2025-09-01
+* [Pull Request] [[r31] prune: print initialCycle variable ](https://github.com/erigontech/erigon/pull/16925) - 2025-09-01
+* [Pull Request] [[r32] prune: print `initialCycle` variable](https://github.com/erigontech/erigon/pull/16924) - 2025-09-01
+* [Commit] [Cherrypick fixes from 3.1 (#16920)](https://github.com/erigontech/erigon/commit/475b2d213fe3010a5e40037b4c82ed843829f630) - 2025-09-01
+* [Commit] [Fixed calculation of start block number in snapshot retirement (#16902)](https://github.com/erigontech/erigon/commit/769d388010a5354eaf5f79ee513967e6713a8443) - 2025-09-01
+* [Commit] [fix: TestPythonIntegration to sign the intended 32-byte msg1 (#16814)](https://github.com/erigontech/erigon/commit/2865b473e9be5d7dfcb5517a34494ad954cc3b66) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7130a9f4b4ea98bc64129c2ae75d6eb8487b01ee) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/054ff4d5a73e8e1ae076f7ed0574e05779cb56e8) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d5e40fa3f5e15f35f5c38bfd6dc410e25170f314) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d72a8e22f14cfd3a3c1f7071e07f1f3648a9e7ea) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8b5542e3a1cfe5192a8d5b6354b9467abc96eee0) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c17d7d955b82f49375ab2e441deb7dc12d389608) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2417103e614681e3660bb7723f404f5e7db3b581) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8fc9fc5df8ac8ff6bda6454adb774fb0be2b2c14) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bf04968f67c0267b9a67efcc03e881784c734488) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/efedde039ee40d15601dab745b61c3efb8544d0d) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2cab1abfef12ae1219f60e7b977a23a075f45f54) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b1619eeec47a4f32c6bc5ddc9b588da37414aaf2) - 2025-09-01
+* [Pull Request] [env: simplify and support non-lower-case](https://github.com/erigontech/erigon/pull/16923) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/67b447aaea0d24ef22043844293ba114d8186238) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1ab9db4a53faca6638d490a5c529ea499db3ba84) - 2025-09-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a7e92c1573599a4bedb46348edb5604ec6c4e36d) - 2025-09-01
+* [Commit] [tests: reduce concurrency to coroutine per-file rather than per-test-case (#16911)](https://github.com/erigontech/erigon/commit/54e343a3e87a42cbd8617e944b405c5f0b95502b) - 2025-09-01
 ## Q2 2025
 
 

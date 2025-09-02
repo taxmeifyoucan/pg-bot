@@ -210,6 +210,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [fix wrong header used in getLogsV3](https://github.com/erigontech/erigon/pull/16845) - 2025-08-27
 * [Commit] [finding progress of forkables](https://github.com/erigontech/erigon/commit/07fe495ba0c57cf0e0dfbfa7ab0766f0df2c64e7) - 2025-08-28
 * [Commit] [remove dirs,indexTags out of registry](https://github.com/erigontech/erigon/commit/18252115afd0a94077ce2b84be4738262efc5339) - 2025-08-30
+* [Commit] [exposing relevant apis for forkables](https://github.com/erigontech/erigon/commit/5134367a6c64666e53e40d60d7eb05e976e1cd25) - 2025-09-01
+* [Pull Request] [cp: snapshots_cmd related PRs from main](https://github.com/erigontech/erigon/pull/16930) - 2025-09-01
+* [Pull Request] [cp 2 commits related to HistoryNoSystemTxs](https://github.com/erigontech/erigon/pull/16927) - 2025-09-01
+* [Pull Request] [fix(eth_getLogs): handle "latest" range correctly to avoid empty results (#16901)](https://github.com/erigontech/erigon/pull/16926) - 2025-09-01
+* [Commit] [fix(eth_getLogs): handle "latest" range correctly to avoid empty results (#16901)](https://github.com/erigontech/erigon/commit/271ffaeed59d9a0be10914162f243c6fad9929b0) - 2025-09-01
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

@@ -198,6 +198,11 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: cargo update](https://github.com/bluealloy/revm/commit/a8fe021b6b528fea5a31dc6ac2c72122ef998da3) - 2025-08-28
 * [Pull Request] [fix: FrameStack mark push/end_init as unsafe](https://github.com/bluealloy/revm/pull/2929) - 2025-08-28
 * [Commit] [chore: add amsterdam in spec id (#2934)](https://github.com/bluealloy/revm/commit/f9ebc5f6b923f2bbf5a363934605e80629c1cad7) - 2025-08-30
+* [Commit] [fix tests](https://github.com/bluealloy/revm/commit/1b0061f8f3456960c6fb02b63bea06e92ee66cdd) - 2025-09-01
+* [Commit] [add missing forks](https://github.com/bluealloy/revm/commit/0f1f2058d7e5e4ff01a37bd15265e493a9aaada7) - 2025-09-01
+* [Commit] [ fixes for blockchain statetest and valid blocks](https://github.com/bluealloy/revm/commit/336b4e0ab87716e747aef82b835e4382b57ad786) - 2025-09-01
+* [Pull Request] [feat(revme): ef blockchain tests cli](https://github.com/bluealloy/revm/pull/2935) - 2025-09-01
+* [Commit] [ fixes for blockchain statetest and valid blocks](https://github.com/bluealloy/revm/commit/b037cc31d6c736b4ac97d2d2d282f95112a0d861) - 2025-09-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

@@ -75,6 +75,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: remove skipped fulu constants in config test (#8252)](https://github.com/ChainSafe/lodestar/commit/9ed83170648e6d1bf2935b33b7cef2e04519303f) - 2025-08-28
 * [Commit] [Add ssz bytes helper for blob count](https://github.com/ChainSafe/lodestar/commit/142f1fdf81c82512218aaeadef008e58dc1233a7) - 2025-08-28
 * [Commit] [Add relative types root for workspace packages](https://github.com/ChainSafe/lodestar/commit/fc5c5fad158660882a0c92a8f8b85ef370a4702e) - 2025-08-29
+* [Commit] [Update timeout](https://github.com/ChainSafe/lodestar/commit/a1c1832a828ca21b00c431394b5cc26d2fb362f6) - 2025-09-01
+* [Commit] [refactor: remove cpu features direct dependency (#8261)](https://github.com/ChainSafe/lodestar/commit/b9950594aa7be02700a9671e78d187ae81042865) - 2025-09-01
+* [Commit] [Fix withdrawl assertion](https://github.com/ChainSafe/lodestar/commit/384eeb68d4f3fcebe2642de32c9dc12bb2057ac8) - 2025-09-01
+* [Commit] [Fix liting](https://github.com/ChainSafe/lodestar/commit/2029efb8c6f2d81d41130b0a3fc375b051b73975) - 2025-09-01
+* [Commit] [Update code with feedback](https://github.com/ChainSafe/lodestar/commit/f968dd6c51b323085b35655822e3ecef26b7d35f) - 2025-09-01
+* [Commit] [Update the sending tx flow](https://github.com/ChainSafe/lodestar/commit/b777779a9128968672fd39f7a6751f28e6b39077) - 2025-09-01
+* [Commit] [Update the assertions for balance check](https://github.com/ChainSafe/lodestar/commit/24fdf33b4712fe0a8e5d19a3ff6fc775f08bd08a) - 2025-09-01
+* [Commit] [feat: add type support for Bun (#8288)](https://github.com/ChainSafe/lodestar/commit/93489491e0fdebaf68a02e693fb5f1267c165bf2) - 2025-09-01
+* [Pull Request] [test: upgrade sim tests to use post-electra images](https://github.com/ChainSafe/lodestar/pull/8303) - 2025-09-01
 ## Q2 2025
 
 

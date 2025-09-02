@@ -180,6 +180,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump: *-serialization (#7421)](https://github.com/status-im/nimbus-eth2/commit/19d7529e374e7a84f54da39ff4b12f34fa9e14c3) - 2025-08-28
 * [Commit] [Bump nim-ssz-serialization (#7425)](https://github.com/status-im/nimbus-eth2/commit/e31713887042b555e7002900a35dd7f501d5f532) - 2025-08-28
 * [Commit] [bump](https://github.com/status-im/nimbus-eth2/commit/aebc314eb92dfd0180a50389e3d231012f4af1d7) - 2025-08-28
+* [Commit] [tests and more deletions](https://github.com/status-im/nimbus-eth2/commit/88a94eb169690e52169c80075c94a3ce3473726e) - 2025-09-01
+* [Commit] [fixups](https://github.com/status-im/nimbus-eth2/commit/c806893876a093fd62d81801e67b8b9cf890d78d) - 2025-09-01
+* [Pull Request] [Add metric for last seen execution block number](https://github.com/status-im/nimbus-eth2/pull/7440) - 2025-09-01
+* [Pull Request] [el_manager: clean up some engine encoding code](https://github.com/status-im/nimbus-eth2/pull/7439) - 2025-09-01
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

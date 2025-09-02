@@ -108,6 +108,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [added and improved help to bumper](https://github.com/erigontech/erigon/pull/16889) - 2025-08-28
 * [Pull Request] [[DO NOT MERGE] Test of libmdbx master CI](https://github.com/erigontech/erigon/pull/16910) - 2025-08-29
 * [Commit] [fix: TestPythonIntegration to sign the intended 32-byte msg1 (#16814)](https://github.com/erigontech/erigon/commit/2865b473e9be5d7dfcb5517a34494ad954cc3b66) - 2025-08-30
+* [Pull Request] [[r3.0] added same renaming functionality to 3.0](https://github.com/erigontech/erigon/pull/16932) - 2025-09-01
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/d693a10edfbe852848d8c612fe6f695ecb8bb989) - 2025-09-01
 ## Q2 2025
 
 

@@ -58,6 +58,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [added config for gloas and basis points (#9800)](https://github.com/Consensys/teku/commit/8b4cecfc7ea1e9ce5c7dbed6dc940b9609b56090) - 2025-08-25
 * [Pull Request] [removed ttfb_timeout and resp_timeout from configuration](https://github.com/Consensys/teku/pull/9815) - 2025-08-27
 * [Issue] [fusaka ref tests v1.6.0-alpha.6](https://github.com/Consensys/teku/issues/9830) - 2025-08-31
+* [Commit] [updated reference tests to 1.6.0-alpha.6 (#9831)](https://github.com/Consensys/teku/commit/49ea13b94db623fa2c83feaf4d446eee3656bbbc) - 2025-09-01
+* [Issue] [re-enable `recover_cells_and_kzg_proofs_case_invalid_shuffled` ref tests](https://github.com/Consensys/teku/issues/9832) - 2025-09-01
+* [Pull Request] [updated reference tests to 1.6.0-alpha.6](https://github.com/Consensys/teku/pull/9831) - 2025-09-01
 ## Q2 2025
 
 

@@ -65,6 +65,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [improve the workflow name for Gnosis](https://github.com/erigontech/erigon/commit/f11e43052bef326e28f1d1aa5dabb0980702aa81) - 2025-08-27
 * [Pull Request] [[r3.1] qa-tests: less strict error handling in RPC Performance Tests](https://github.com/erigontech/erigon/pull/16906) - 2025-08-29
 * [Commit] [Chore: Batch fmt after dir changes (#15772)](https://github.com/erigontech/erigon/commit/a0033880780ba306317c947aa1ba24dd27e495ad) - 2025-08-29
+* [Commit] [integration: fix database not initialized in run_migrations](https://github.com/erigontech/erigon/commit/3689945cffdfc24221f7838580bbd906194a9e28) - 2025-09-01
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14

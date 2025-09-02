@@ -20,6 +20,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [.github/workflows: naive PR format checker (#32480)](https://github.com/ethereum/go-ethereum/commit/a9ac2755886299eb200e9725c6412f7bfca83246) - 2025-08-25
 * [Commit] [core,trie: fix typo in TransitionTrie (#32491)](https://github.com/ethereum/go-ethereum/commit/d0602ba45a651e5a3d40ecd7cc4deab8a8625e76) - 2025-08-25
 * [Pull Request] [core/stateless: only report leaf stats](https://github.com/ethereum/go-ethereum/pull/32507) - 2025-08-28
+* [Commit] [version: release v1.16.3 (#32528)](https://github.com/ethereum/go-ethereum/commit/0978604196e5949cf83b45d1a08d175f0cbe4f73) - 2025-09-01
+* [Pull Request] [version: begin v1.16.4 release cycle](https://github.com/ethereum/go-ethereum/pull/32529) - 2025-09-01
+* [Commit] [version: begin v1.16.3 release cycle (#32345)](https://github.com/ethereum/go-ethereum/commit/073e7ec4b0e99aba1b1f16e3556e1f261a0136f4) - 2025-09-01
+* [Pull Request] [version: release v1.16.3](https://github.com/ethereum/go-ethereum/pull/32528) - 2025-09-01
+* [Commit] [internal/ethapi,params: add `eth_config` (#32239)](https://github.com/ethereum/go-ethereum/commit/ffe758c7a783ef2f4fefbb72200a740adce015c1) - 2025-09-01
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Commit] [make LoadTransitionState cacheless and move it to the overlay pkg](https://github.com/gballet/go-ethereum/commit/0f37c99d3457791f97995b08c2f6d53f4a5b37c6) - 2025-08-04
 * [Commit] [move transition state to its own file](https://github.com/gballet/go-ethereum/commit/f0f51d1ef458c1593e908741180615ad83fd07eb) - 2025-08-04
@@ -45,6 +50,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [params: fix history serve window for verkle test (#32127)](https://github.com/gballet/go-ethereum/commit/42467f13705db85ee86d0e1d6eabe9eb5a6875c8) - 2025-08-28
 * [Commit] [review feedback](https://github.com/gballet/go-ethereum/commit/e99e19a0d942a1744743558093f4164a3ac97bd8) - 2025-08-29
 * [Commit] [Polish binary tree implementations (#551)](https://github.com/gballet/go-ethereum/commit/123723b9da31624a10668165a54cf15922aba1af) - 2025-08-29
+
+* [Commit] [review feedback](https://github.com/gballet/go-ethereum/commit/e99e19a0d942a1744743558093f4164a3ac97bd8) - 2025-09-01
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [test(benchmark): implement CREATE2 addressing for bloatnet tests](https://github.com/ethereum/execution-spec-tests/pull/2090) - 2025-09-01
 ## Q2 2025
 
 

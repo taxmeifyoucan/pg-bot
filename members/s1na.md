@@ -17,6 +17,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [eth/tracers: Adds codeHash to prestateTracer's response (#32391)](https://github.com/ethereum/go-ethereum/commit/51342136fadf2972320cd70badb1336efe3259e1) - 2025-08-13
 * [Commit] [internal/ethapi: fix precompile override for eth_estimateGas (#31795)](https://github.com/ethereum/go-ethereum/commit/7db6c91254379e83aa9b9b201ca72b0a7fb5b654) - 2025-08-27
 * [Commit] [README: add twitter badge to documentation (#32516)](https://github.com/ethereum/go-ethereum/commit/3aeccadd04aee2d18bdb77826f86b1ca000d3b67) - 2025-08-29
+* [Pull Request] [core/tracing: fix selfdestruct 6780 balance change emit](https://github.com/ethereum/go-ethereum/pull/32526) - 2025-09-01
+* [Pull Request] [core/tracing: add code change reason](https://github.com/ethereum/go-ethereum/pull/32525) - 2025-09-01
 ## Q2 2025
 
 

@@ -103,6 +103,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: deduplicate check](https://github.com/ChainSafe/lodestar/commit/06bc58c7d1743baf6717f993c14ecd8b4d1a01fa) - 2025-08-29
 * [Pull Request] [fix: wait for data before writing to db](https://github.com/ChainSafe/lodestar/pull/8291) - 2025-08-29
 * [Issue] [[blockinput-refactor] Cannot get all blobs. DA status is not complete](https://github.com/ChainSafe/lodestar/issues/8290) - 2025-08-29
+* [Pull Request] [fix: add disconnectThreshold for e2e tests](https://github.com/ChainSafe/lodestar/pull/8301) - 2025-09-01
+* [Issue] [Peer disconnected during identify protocol](https://github.com/ChainSafe/lodestar/issues/8300) - 2025-09-01
+* [Commit] [fix: also resolve blockPromise](https://github.com/ChainSafe/lodestar/commit/edc874c8e2b3ad08e95b3d6d072d01347ee19729) - 2025-09-01
+* [Pull Request] [fix: resolve data promise for BlockInputPreData](https://github.com/ChainSafe/lodestar/pull/8299) - 2025-09-01
 ## Q2 2025
 
 

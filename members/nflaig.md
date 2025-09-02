@@ -130,6 +130,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Use callInNextEventLoop again](https://github.com/ChainSafe/lodestar/commit/d281b8d24d68943296724ef7dd9c7975d1fda47a) - 2025-08-29
 * [Issue] [Use `prettyPrintIndices` more consistenly](https://github.com/ChainSafe/lodestar/issues/8292) - 2025-08-29
 * [Commit] [feat: add panels to track consensus block value (#8286)](https://github.com/ChainSafe/lodestar/commit/74da098ba75f88472588596f3d76a40836c8fadb) - 2025-08-29
+* [Issue] [uncaughtException: Point of length 294 was invalid. Expected 33 compressed bytes or 65 uncompressed bytes](https://github.com/ChainSafe/lodestar/issues/8302) - 2025-09-01
+* [Commit] [refactor: move fork-choice metrics to fork-choice package (#8265)](https://github.com/ChainSafe/lodestar/commit/6398efaba54fde1e9fd2e8ea091f8e27e46e5e9a) - 2025-09-01
+* [Commit] [fix: defer common block body production until next event loop (#8285)](https://github.com/ChainSafe/lodestar/commit/ac704f28d2af850a2e11d41324e8788d2aa0dc84) - 2025-09-01
 ## Q2 2025
 
 

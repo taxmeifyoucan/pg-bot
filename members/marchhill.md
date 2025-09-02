@@ -145,6 +145,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [bal encoding / decoding](https://github.com/NethermindEth/nethermind/commit/a9f0e93c04de88ec3541c7185c92d7bb2c2bed32) - 2025-08-27
 * [Commit] [use encodearray](https://github.com/NethermindEth/nethermind/commit/19bafac725a9d88983221cbb2382687fe91394ea) - 2025-08-29
 * [Commit] [fix storagechange and slotchanges encodings](https://github.com/NethermindEth/nethermind/commit/c49c33cc0f8a4e27f62ddf25e9cdd527c3726cd7) - 2025-08-29
+* [Commit] [refactor test to use testblockchain](https://github.com/NethermindEth/nethermind/commit/7d40f7eaf3a613285a69e6b9b35aec949c2c6777) - 2025-09-01
+* [Commit] [Report processing log for reorg'd blocks (#9116)](https://github.com/NethermindEth/nethermind/commit/d592843e00ac7999e77d15064aa252e424e7472a) - 2025-09-01
+* [Commit] [fix decoding & test](https://github.com/NethermindEth/nethermind/commit/723eacaff58424ba4e83dbcb09bb3241531207df) - 2025-09-01
 ## Q2 2025
 
 

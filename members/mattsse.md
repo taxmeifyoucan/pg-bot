@@ -154,6 +154,10 @@ Team: Reth
 * [Pull Request] [feat: add NoopNetwork example](https://github.com/paradigmxyz/reth/pull/18093) - 2025-08-27
 * [Commit] [ci: Fix .PHONY declaration for install-reth-bench target in Makefile (#18152)](https://github.com/paradigmxyz/reth/commit/339f18c48f829a2f2fca440fb255995e23c7161f) - 2025-08-30
 * [Pull Request] [chore: simplify dev signed tx conversions](https://github.com/paradigmxyz/reth/pull/18171) - 2025-08-30
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/811c00265ba3523d841df91d4b68051d2698adb3) - 2025-09-01
+* [Pull Request] [chore: simplify flashblocks poll logic](https://github.com/paradigmxyz/reth/pull/18194) - 2025-09-01
+* [Commit] [perf(optimism): use cached db in `FlashblockService` (#18125)](https://github.com/paradigmxyz/reth/commit/61b8015c848a12cf1c819e2038e85bba31a674a0) - 2025-09-01
+* [Issue] [use prepared Txenv for flashblocks](https://github.com/paradigmxyz/reth/issues/18181) - 2025-09-01
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

@@ -79,6 +79,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: modify ColumnMeta to support getBlobsV2](https://github.com/ChainSafe/lodestar/commit/511d9f6f758c67f799dcf5b4e9af621fee57d7cf) - 2025-08-21
 * [Issue] [Clean-up and deduplicate blobs and columns helpers](https://github.com/ChainSafe/lodestar/issues/8258) - 2025-08-25
 * [Commit] [test: rough out MockBlockInput for testing](https://github.com/ChainSafe/lodestar/commit/fa83ae1f143040d77fbadbd7f2224d73c91dac7e) - 2025-08-26
+* [Commit] [fix: return subcommittee assignments from state sync committees endpoint (#8231)](https://github.com/ChainSafe/lodestar/commit/f0e804ef10ea10eaa4f8e1343a50b97eae9012e7) - 2025-09-01
 ## Q2 2025
 
 

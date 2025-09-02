@@ -29,6 +29,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(deps): bump the go-dependencies group with 3 updates](https://github.com/ethpandaops/cartographoor/commit/78b9eba13b4b9c647b24a5f78f51854a4491c129) - 2025-08-21
 * [Commit] [chore(deps): bump the actions group across 1 directory with 2 updates](https://github.com/ethpandaops/cartographoor/commit/bf1beaf6b365fe2da8aee77bf9a2071470bb2acf) - 2025-08-21
 * [Pull Request] [feat: add automated inventory generation for network clients](https://github.com/ethpandaops/cartographoor/pull/20) - 2025-08-21
+* [Commit] [build: upgrade golangci-lint to v2.4.0 and migrate wsl to wsl_v5](https://github.com/ethpandaops/cartographoor/commit/9c69c57ec9a0cecd60d156a384e23c0982b16856) - 2025-09-01
+* [Pull Request] [build: upgrade golangci-lint to v2.4.0 and migrate wsl to wsl_v5](https://github.com/ethpandaops/cartographoor/pull/26) - 2025-09-01
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Pull Request] [docs: remove stray "test" line from README](https://github.com/ethpandaops/contributoor/pull/138) - 2025-08-18
 
@@ -36,6 +38,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [ci: add fusaka integration test workflow and update kurtosis config](https://github.com/ethpandaops/contributoor/pull/139) - 2025-08-24
 * [Commit] [build(deps): bump the actions group with 2 updates](https://github.com/ethpandaops/contributoor/commit/21ff73953c0333a88bddc569f389dedc8f4c50e9) - 2025-08-29
 * [Commit] [build(deps): bump github.com/ulikunitz/xz from 0.5.11 to 0.5.14](https://github.com/ethpandaops/contributoor/commit/55968c9feba3e4cdff92fdce95bd45b111aabcb1) - 2025-08-29
+* [Commit] [chore(.golangci.yml): rename wsl to wsl_v5 and add its settings](https://github.com/ethpandaops/contributoor/commit/c4d88e7c65c1e026cf8cc797d49c286e79fa2ea7) - 2025-09-01
+* [Commit] [style: add blank lines for readability and group variable declarations](https://github.com/ethpandaops/contributoor/commit/7a6be41b714770e9b7ebd60aa516262371f79b8d) - 2025-09-01
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Commit] [feat(libp2p): heartbeat](https://github.com/ethpandaops/xatu/commit/e0b608e1bc89e515df25b8954cf64fc9be20f2a1) - 2025-08-20
 * [Commit] [fix(vector): ensure libp2p heartbeat fields match ClickHouse schema](https://github.com/ethpandaops/xatu/commit/c50696bfd15f0566025dcc716e77c1ff5c8a1575) - 2025-08-20
@@ -52,3 +56,5 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(deps): bump Go to 1.24.5 and upgrade all direct/indirect deps](https://github.com/ethpandaops/xatu/commit/7fc134ce1472fcd742dcd8634ab2374445af02ae) - 2025-08-26
 * [Commit] [feat(example-cl-mimicry.yaml): add data column sidecar sampling config](https://github.com/ethpandaops/xatu/commit/4206651a6b204d2bcf18c1fe1f281c426f7b951d) - 2025-08-26
 * [Commit] [feat: add support for data column sidecar gossipsub events](https://github.com/ethpandaops/xatu/commit/1bcdbaaad3d66b914995374259ad650ad805ced8) - 2025-08-26
+* [Commit] [ci: bump golangci-lint to v2.4.0 and migrate wsl to wsl_v5](https://github.com/ethpandaops/xatu/commit/9958c4d9d926b357259d55bf2f2739be4af7498e) - 2025-09-01
+* [Commit] [chore(.tool-versions): bump golangci-lint from 2.1.6 to 2.4.0](https://github.com/ethpandaops/xatu/commit/9522af3f19884a53b9c1efbc022dc321c267fe2f) - 2025-09-01

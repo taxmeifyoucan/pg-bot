@@ -64,6 +64,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [add ecAdd](https://github.com/status-im/nimbus-eth1/commit/714333fc25de2fd50b5d59e22addd4b5e7f85790) - 2025-08-27
 * [Commit] [add blsG1Add](https://github.com/status-im/nimbus-eth1/commit/ca5d607272f2c6cb405f009d7462a2dbfe052f09) - 2025-08-28
 * [Commit] [add ripemd160](https://github.com/status-im/nimbus-eth1/commit/b398cf9fcc3da49344496a52696f8fe8a9d10cd5) - 2025-08-28
+* [Pull Request] [fix consolidation request pre-deploy address](https://github.com/status-im/nimbus-eth1/pull/3612) - 2025-09-01
 ## Q2 2025
 
 
