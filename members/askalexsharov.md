@@ -1130,6 +1130,19 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/1ab9db4a53faca6638d490a5c529ea499db3ba84) - 2025-09-01
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a7e92c1573599a4bedb46348edb5604ec6c4e36d) - 2025-09-01
 * [Commit] [tests: reduce concurrency to coroutine per-file rather than per-test-case (#16911)](https://github.com/erigontech/erigon/commit/54e343a3e87a42cbd8617e944b405c5f0b95502b) - 2025-09-01
+* [Commit] [Fixed calculation of start block number in snapshot retirement (#16902)](https://github.com/erigontech/erigon/commit/769d388010a5354eaf5f79ee513967e6713a8443) - 2025-09-02
+* [Commit] [fix(eth_getLogs): handle "latest" range correctly to avoid empty results (#16901)](https://github.com/erigontech/erigon/commit/271ffaeed59d9a0be10914162f243c6fad9929b0) - 2025-09-02
+* [Commit] [Cherrypick fixes from 3.1 (#16920)](https://github.com/erigontech/erigon/commit/475b2d213fe3010a5e40037b4c82ed843829f630) - 2025-09-02
+* [Commit] [fix: correct error handling in CachedReader3.ReadAccountCode (#16934)](https://github.com/erigontech/erigon/commit/2037535218af7086785149f874f284fae5af1be8) - 2025-09-02
+* [Pull Request] [less calls of `doms.TxNum()`/`doms.BlockNum()`](https://github.com/erigontech/erigon/pull/16939) - 2025-09-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/79cef6c02dbbbc8ce086a74775f567622ab84a72) - 2025-09-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dc9f13ac6696d4a4c137f67a8f82384933d6aa27) - 2025-09-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/396a6c3cb5a883ae5625953155211bfe3c1aed1a) - 2025-09-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ef55e80ee2468cd9e3705b337e7c28886c32edad) - 2025-09-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/98418f79a8906fa8a822c86e5877e548c4daa7c8) - 2025-09-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d4acf7e7e634134b48f4b600a91e71f99c99c129) - 2025-09-02
+* [Commit] [[r3.0] qa-tests: add run_migrations in RPC Integration Tests + fixes (#16935)](https://github.com/erigontech/erigon/commit/4901bc086d02ecac98e6cef99e1f9ef9ad2727c3) - 2025-09-02
+* [Commit] [snapshotsync: add support for --snap.download.to.block (shadow.fork.block) (#16938)](https://github.com/erigontech/erigon/commit/96bcab4d8c427c1b88848d1466e0f2f7a2ebf27c) - 2025-09-02
 ## Q2 2025
 
 

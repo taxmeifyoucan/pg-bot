@@ -60,6 +60,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [modified job name](https://github.com/erigontech/erigon/commit/e90087f3ee9dfd2ca267c9030959ed4239d7dc70) - 2025-08-26
 * [Commit] [disable temporary ERIGON_ASSERT](https://github.com/erigontech/erigon/commit/b005df319c6e9c5e94f63ff7810c5b1336802c30) - 2025-08-28
 * [Commit] [change rpctest version](https://github.com/erigontech/erigon/commit/a607e1a3e5552a6860fb7a17a6e5872c66e62c92) - 2025-08-28
+* [Pull Request] [QA-rpc: Enable test on latest on CI](https://github.com/erigontech/erigon/pull/16964) - 2025-09-02
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24

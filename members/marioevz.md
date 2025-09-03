@@ -110,6 +110,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(execute): Allow `execute eth-config` to parse geth genesis.json files (#2083)](https://github.com/ethereum/execution-spec-tests/commit/54d20505cab4ea11dd133c40352be661b5d9c1a7) - 2025-08-28
 * [Commit] [apply review suggestions](https://github.com/ethereum/execution-spec-tests/commit/6b95a0d0edde1bd9f0972a6216f4389875881a67) - 2025-08-28
 * [Commit] [chore(forks): revert fork fixture change. (#2087)](https://github.com/ethereum/execution-spec-tests/commit/232e08f19d752459e3079073659499267008cf4b) - 2025-08-29
+* [Pull Request] [fix(tests): Incorrect expected exception on `test_tx_intrinsic_gas.py`](https://github.com/ethereum/execution-spec-tests/pull/2096) - 2025-09-02
+* [Commit] [fix: typing](https://github.com/ethereum/execution-spec-tests/commit/b02358852cbf2bad27ed6f7f02b84cc6532eb33b) - 2025-09-02
+* [Commit] [src(eth_config): added eth_config simulator prototype (#2054)](https://github.com/ethereum/execution-spec-tests/commit/61f8ac90841770d9fc407f1498ec0e5229b27508) - 2025-09-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

@@ -105,6 +105,7 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/47d807233a6e0a475197d0f28abf34d8d46cfa9c) - 2025-08-28
 * [Commit] [agg: move `iiCfg`/`Schema`/`RegisterDomain calls` to `statecfg` (#16848)](https://github.com/erigontech/erigon/commit/6b6b65143df5ea1325e4798e37ec4c23953c2694) - 2025-08-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/809ea1a295f733e301a67c19f66971963c063398) - 2025-08-30
+* [Commit] [update genesis write](https://github.com/erigontech/erigon/commit/a8e537c0fc405ef453df7d12b2917e43dd83d5b4) - 2025-09-02
 ## Q2 2025
 
 

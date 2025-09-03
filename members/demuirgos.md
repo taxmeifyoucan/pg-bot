@@ -43,6 +43,8 @@ Team: Nethermind
 * [Commit] [add missing ';'](https://github.com/NethermindEth/nethermind/commit/d716a048bae97a168e3d60dd5341edeced17a314) - 2025-09-01
 * [Commit] [fix build issue : wrong references in BlockInfo, coupling in ExpCountDown](https://github.com/NethermindEth/nethermind/commit/a08f76a76cb68084cc32a603f4d5e39d851d556d) - 2025-09-01
 * [Commit] [fix build issiue, missing identifier in SignFn delegate definition](https://github.com/NethermindEth/nethermind/commit/f6bf6ffccff0ccebe6b0a30eb50bc9533b9906fa) - 2025-09-01
+* [Commit] [ENR Support on admin_peers (#9228)](https://github.com/NethermindEth/nethermind/commit/77cffab09ea0b781bb93bdcfa6d54ee20dd7102a) - 2025-09-02
+* [Commit] [ws fxies](https://github.com/NethermindEth/nethermind/commit/fee17020be867917eb992082bc072402228ae2e8) - 2025-09-02
 ## Q2 2025
 
 

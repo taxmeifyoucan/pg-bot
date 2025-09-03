@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Make precompile benchmarks more accurate](https://github.com/hyperledger/besu/pull/8921) - 2025-07-07
 * [Pull Request] [Improve BENCHMARKING.md documentation](https://github.com/hyperledger/besu/pull/9001) - 2025-07-24
 * [Issue] [Add gas used metric on eth_call](https://github.com/hyperledger/besu/issues/9004) - 2025-07-25
+* [Commit] [refactor log parsing to make tests more robust (#9143)](https://github.com/hyperledger/besu/commit/a3a11af16c0b73a90f8a27d0c6ecdd128418ca8c) - 2025-09-02
 ## Q2 2025
 
 

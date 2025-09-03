@@ -52,6 +52,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Remove dependency on target_info.](https://github.com/sigp/lighthouse/pull/7964) - 2025-09-01
+* [Issue] [Release a tarball of vendored sources alongside binaries](https://github.com/sigp/lighthouse/issues/7978) - 2025-09-02
 ## Q2 2025
 
 

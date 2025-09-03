@@ -52,6 +52,13 @@ Team: Reth
 * [Commit] [chore: remove redundant word in comment (#17728)](https://github.com/paradigmxyz/reth/commit/49f7543aa2d68927e3ac8a7bdbd34f60b1fda440) - 2025-08-14
 * [Issue] [Document on-disk assumptions in TrieWalker and TrieNodeIter](https://github.com/paradigmxyz/reth/issues/17905) - 2025-08-16
 * [Issue] [Make default `MEMORY_BLOCK_BUFFER_TARGET` zero](https://github.com/paradigmxyz/reth/issues/17945) - 2025-08-19
+* [Commit] [feat(download): support zst archives in reth download](https://github.com/paradigmxyz/reth/commit/123aa1585056f9b9af251e3781648d433212cd17) - 2025-09-02
+* [Pull Request] [feat(download): support zst archives in reth download](https://github.com/paradigmxyz/reth/pull/18237) - 2025-09-02
+* [Commit] [feat(download): support zst archives in reth download](https://github.com/paradigmxyz/reth/commit/8a49b037478b5bc240001a0b66e71bad0ef26d6d) - 2025-09-02
+* [Commit] [feat(download): support zst archives in reth download](https://github.com/paradigmxyz/reth/commit/f891f01b823f03df5492aba868e98b135791c048) - 2025-09-02
+* [Commit] [feat(download): support zst archives in reth download](https://github.com/paradigmxyz/reth/commit/3d8bbebd0335407ea22957184e1aee5435260474) - 2025-09-02
+* [Pull Request] [fix(download): use updated merkle base URL](https://github.com/paradigmxyz/reth/pull/18236) - 2025-09-02
+* [Issue] [Support zst snapshots in `reth download`](https://github.com/paradigmxyz/reth/issues/18235) - 2025-09-02
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(interpreter): update docs for slice_mut and slice_range](https://github.com/bluealloy/revm/pull/2714) - 2025-07-15
 * [Pull Request] [feat: expose sha3-keccak in revm and revm-primitives](https://github.com/bluealloy/revm/pull/2713) - 2025-07-15

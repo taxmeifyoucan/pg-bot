@@ -148,6 +148,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [refactor test to use testblockchain](https://github.com/NethermindEth/nethermind/commit/7d40f7eaf3a613285a69e6b9b35aec949c2c6777) - 2025-09-01
 * [Commit] [Report processing log for reorg'd blocks (#9116)](https://github.com/NethermindEth/nethermind/commit/d592843e00ac7999e77d15064aa252e424e7472a) - 2025-09-01
 * [Commit] [fix decoding & test](https://github.com/NethermindEth/nethermind/commit/723eacaff58424ba4e83dbcb09bb3241531207df) - 2025-09-01
+* [Commit] [eip 7002 & 7251](https://github.com/NethermindEth/nethermind/commit/45923a0eb60ef45a141efa2ce9ce3bea72b20e9d) - 2025-09-02
+* [Commit] [improve test](https://github.com/NethermindEth/nethermind/commit/158359f36d5c45d5d8170270f9205944f66d3dd8) - 2025-09-02
 ## Q2 2025
 
 

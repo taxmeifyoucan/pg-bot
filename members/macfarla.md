@@ -78,6 +78,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [switched ref tests](https://github.com/hyperledger/besu/commit/c6c2a9c05fc2cccc1a6342f43f6dfb50418f6fba) - 2025-08-29
 
 * [Pull Request] [remove deprecated option bonsai-maximum-back-layers-to-load](https://github.com/hyperledger/besu/pull/9141) - 2025-09-01
+* [Pull Request] [[TESTS] refactor log parsing to make tests more robust](https://github.com/hyperledger/besu/pull/9143) - 2025-09-02
+* [Commit] [remove deprecated option bonsai-maximum-back-layers-to-load (#9141)](https://github.com/hyperledger/besu/commit/d987985987570506932b88fe0b9edcd1773833f3) - 2025-09-02
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob allowance exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2089) - 2025-09-01
 ## Q2 2025

@@ -116,6 +116,7 @@ Team: Reth
 * [Commit] [stuff](https://github.com/paradigmxyz/reth/commit/f59a9ab6e836becfb74961ab917b02937c56c87c) - 2025-08-07
 * [Commit] [wip](https://github.com/paradigmxyz/reth/commit/23b22c07445fc76cc39cc1efc637c1976af1f625) - 2025-08-17
 * [Issue] [Tracking: Performance Experimentations](https://github.com/paradigmxyz/reth/issues/17920) - 2025-08-18
+* [Issue] [Peer reputation change logs are too noisy](https://github.com/paradigmxyz/reth/issues/18234) - 2025-09-02
 ## Q2 2025
 
 

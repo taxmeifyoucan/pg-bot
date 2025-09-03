@@ -15,6 +15,7 @@ Team: Stateless Consensus
 * [Issue] [L2 Interop Working Group Call #11 - July 9, 2025](https://github.com/ethereum/pm/issues/1608) - 2025-07-09
 * [Issue] [L2 Interop Working Group Call #12 - July 23, 2025](https://github.com/ethereum/pm/issues/1626) - 2025-07-17
 * [Issue] [L2 Interop Working Group Call #12 - Aug 20, 2025](https://github.com/ethereum/pm/issues/1694) - 2025-08-19
+* [Issue] [L2 Interop Working Group Call #13 - Sept 3, 2025](https://github.com/ethereum/pm/issues/1713) - 2025-09-02
 ## Q2 2025
 
 

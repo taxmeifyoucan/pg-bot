@@ -48,6 +48,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Make stage](https://github.com/erigontech/erigon/commit/47aa74f436e72486187527b8f9940ac8dc85a59b) - 2025-08-15
 * [Commit] [workflows: Run `run_migrations` before running RPC tests (#16678)](https://github.com/erigontech/erigon/commit/777214145b642cf40d6ce0b4a3c1caa75515daa2) - 2025-08-16
 * [Commit] [integration: execute run_migrations also on consensus db (#16711)](https://github.com/erigontech/erigon/commit/ef65dcd4bc5f716466b6c6796299cddda0677a9c) - 2025-08-20
+* [Commit] [Revert "polygon: use execution server start (#16485)" (#16676)](https://github.com/erigontech/erigon/commit/542aacd20f4365ec063e05268f970f56f1ddd176) - 2025-09-02
 ## Q2 2025
 
 

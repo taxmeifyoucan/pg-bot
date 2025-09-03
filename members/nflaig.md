@@ -133,6 +133,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [uncaughtException: Point of length 294 was invalid. Expected 33 compressed bytes or 65 uncompressed bytes](https://github.com/ChainSafe/lodestar/issues/8302) - 2025-09-01
 * [Commit] [refactor: move fork-choice metrics to fork-choice package (#8265)](https://github.com/ChainSafe/lodestar/commit/6398efaba54fde1e9fd2e8ea091f8e27e46e5e9a) - 2025-09-01
 * [Commit] [fix: defer common block body production until next event loop (#8285)](https://github.com/ChainSafe/lodestar/commit/ac704f28d2af850a2e11d41324e8788d2aa0dc84) - 2025-09-01
+* [Commit] [chore: update minimal_config to latest spec (#8232)](https://github.com/ChainSafe/lodestar/commit/7f2271a1e2506bf30378da98a0f548290441bdc5) - 2025-09-02
+* [Commit] [test: upgrade sim tests to use post-electra images (#8303)](https://github.com/ChainSafe/lodestar/commit/11ca515d52fc4c7b8b07d33c83e670d01041441e) - 2025-09-02
+* [Commit] [fix: defer common block body production until next event loop (#8285)](https://github.com/ChainSafe/lodestar/commit/ac704f28d2af850a2e11d41324e8788d2aa0dc84) - 2025-09-02
 ## Q2 2025
 
 

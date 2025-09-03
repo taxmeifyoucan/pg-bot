@@ -158,6 +158,12 @@ Team: Reth
 * [Pull Request] [chore: simplify flashblocks poll logic](https://github.com/paradigmxyz/reth/pull/18194) - 2025-09-01
 * [Commit] [perf(optimism): use cached db in `FlashblockService` (#18125)](https://github.com/paradigmxyz/reth/commit/61b8015c848a12cf1c819e2038e85bba31a674a0) - 2025-09-01
 * [Issue] [use prepared Txenv for flashblocks](https://github.com/paradigmxyz/reth/issues/18181) - 2025-09-01
+* [Commit] [test(optimism): Test that sequence stops before a gap (#18228)](https://github.com/paradigmxyz/reth/commit/44caf60afd4b717ef899b426625d8097d474fec8) - 2025-09-02
+* [Commit] [feat(optimism): Warn if `FlashBlockService` has stopped (#18227)](https://github.com/paradigmxyz/reth/commit/298a7cb5ea1483aaee5b6049b936bca510e65061) - 2025-09-02
+* [Commit] [add elapsed info](https://github.com/paradigmxyz/reth/commit/abdf07220abbe9e01e3c9ef00c2a82824b3ca7b3) - 2025-09-02
+* [Issue] [Don't clear current block if new canonical is parent](https://github.com/paradigmxyz/reth/issues/18233) - 2025-09-02
+* [Pull Request] [chore: improve flashblock logs](https://github.com/paradigmxyz/reth/pull/18232) - 2025-09-02
+* [Pull Request] [chore: safe None check](https://github.com/paradigmxyz/reth/pull/18225) - 2025-09-02
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

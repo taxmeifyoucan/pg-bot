@@ -18,6 +18,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [upgrade evmone_precompiles for better modexp performance](https://github.com/erigontech/erigon/commit/e8944928048a0ec9ecd62d75d926cf0c10783728) - 2025-07-25
 * [Commit] [use uint256](https://github.com/erigontech/erigon/commit/d38c53bef011c14b1c00ba7df0c87dad8b7c9f34) - 2025-08-15
 * [Commit] [dir improvements: move `kv` from `erigon-lib` to `db` (#16585)](https://github.com/erigontech/erigon/commit/d7512a00ac596edb4e5da57a1ff8daa3dbf75f79) - 2025-08-15
+* [Commit] [core/vm: add one more modexp benchmark (#16950)](https://github.com/erigontech/erigon/commit/b24c80641f67adb9cf781e1071eb9685df0959b8) - 2025-09-02
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Commit] [ci: Speed up the clang-tidy build (#1272)](https://github.com/ipsilon/evmone/commit/b5f77d6f6e4fae55ae9a027c4bc3d203766d1ec3) - 2025-07-21
 * [Pull Request] [ci: Speed up the clang-tidy build](https://github.com/ipsilon/evmone/pull/1272) - 2025-07-21

@@ -141,6 +141,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fill in some ncli_db and state_transition_epoch gloas implementations (#7430)](https://github.com/status-im/nimbus-eth2/commit/ed9648b66fadd5e32a13659355583373d273962a) - 2025-09-01
 * [Pull Request] [stop using deprecated /eth/v1/beacon/blocks / publishBlock(V1) beacon API endpoint](https://github.com/status-im/nimbus-eth2/pull/7438) - 2025-09-01
 * [Commit] [rm even more debugGloasComments (#7437)](https://github.com/status-im/nimbus-eth2/commit/9e906b11ac653ed6cac30be433ce929b7cf3a49e) - 2025-09-01
+* [Commit] [version v25.9.0](https://github.com/status-im/nimbus-eth2/commit/660ebeee3aa25c236b5c1fd358dd8a8d3b50d32e) - 2025-09-02
+* [Commit] [Add metric for last seen execution block number (#7440)](https://github.com/status-im/nimbus-eth2/commit/41d0c481f4a4b7666f398610759303b4e511fa8b) - 2025-09-02
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

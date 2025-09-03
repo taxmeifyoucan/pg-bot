@@ -51,6 +51,7 @@ Team: Grandine
 * [Commit] [Retry block when all accepted while syncing](https://github.com/grandinetech/grandine/commit/33551c9b1f0b7826ab5260db7bc4a69b47c12899) - 2025-09-01
 * [Commit] [Prioritize fewer custody columns for peers assignment](https://github.com/grandinetech/grandine/commit/e59891ce283493bc0b1551db149002e625f5be4f) - 2025-09-01
 * [Commit] [Optimize `BlockDataColumnAvailability::AnyPending` check](https://github.com/grandinetech/grandine/commit/90a2fcf5c4fd00ffb7d824503e72eb5809fd389d) - 2025-09-01
+* [Pull Request] [Update consensus-spec-tests to v1.6.0-alpha.6 (#335)](https://github.com/grandinetech/grandine/pull/339) - 2025-09-02
 ## Q2 2025
 
 

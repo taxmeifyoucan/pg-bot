@@ -32,6 +32,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 
 * [Pull Request] [Remove compileReferenceTestJava dependency on generateReferenceTestClasses](https://github.com/Consensys/teku/pull/9834) - 2025-09-01
 * [Issue] [Remove unit test flag to ignore Gloas](https://github.com/Consensys/teku/issues/9833) - 2025-09-01
+* [Commit] [Cleanup post 25.9.0 release (#9837)](https://github.com/Consensys/teku/commit/070b4b66e7dc292fd82d8c18f724155978139af7) - 2025-09-02
+* [Pull Request] [Cleanup post 25.9.0 release](https://github.com/Consensys/teku/pull/9837) - 2025-09-02
+* [Commit] [Containers required for Gloas' BeaconBlockBody (#9806)](https://github.com/Consensys/teku/commit/31709ce63aa52582d47234c50549b9650cad82ca) - 2025-09-02
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add support for libp2p interop tests](https://github.com/libp2p/jvm-libp2p/pull/421) - 2025-08-25
 ## Q2 2025

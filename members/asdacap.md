@@ -200,6 +200,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Perf/Patricia set](https://github.com/NethermindEth/nethermind/pull/9220) - 2025-09-01
 * [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/b7cc97f544723f13f97001759f2b07698e5ba0d4) - 2025-09-01
 * [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/85b6a0f7e61877988373bbf03ea2be156ae8d5db) - 2025-09-01
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/2e271800c236285bd2b14755ba556cfb1027ebfb) - 2025-09-02
+* [Pull Request] [Refactor/move blocktree to di](https://github.com/NethermindEth/nethermind/pull/9230) - 2025-09-02
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/90e36f5005c6e18beb23aa45d5d1ec9deb1e00ee) - 2025-09-02
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

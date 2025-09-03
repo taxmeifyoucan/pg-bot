@@ -88,6 +88,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: wait for data before writing to db (#8291)](https://github.com/ChainSafe/lodestar/commit/97b9426df79da557b8909ed64e1a78b7e2ff5817) - 2025-08-29
 * [Commit] [chore: remove unnecessary sidecar validation step](https://github.com/ChainSafe/lodestar/commit/6d225a259be38c30a3a2a79564448d3463df4f00) - 2025-08-31
 * [Commit] [fix: add disconnectThreshold for e2e tests (#8301)](https://github.com/ChainSafe/lodestar/commit/453c87f226f9aa401fe4714d657f7b961ffb3364) - 2025-09-01
+* [Commit] [chore: fix more tests](https://github.com/ChainSafe/lodestar/commit/e1916623faa7eb78335068a60801c9992b598fc9) - 2025-09-02
+* [Commit] [chore: fix another unit test](https://github.com/ChainSafe/lodestar/commit/10977365192a790d631008f230c87f7fd5bb1f6d) - 2025-09-02
+* [Commit] [chore: fix unit test](https://github.com/ChainSafe/lodestar/commit/d3000a804cc57079985a553f0e86bd77725a675f) - 2025-09-02
+* [Commit] [chore: fix an e2e test](https://github.com/ChainSafe/lodestar/commit/8a9c8dfa3e422cbf8ecabdd7d492541b93019aac) - 2025-09-02
+* [Commit] [chore: simplify validation (use same validation functions everywhere)](https://github.com/ChainSafe/lodestar/commit/805a201902f02dc1217e8d72928a2f85111a342c) - 2025-09-02
+* [Commit] [chore: update `payload_attributes` event test data (#8308)](https://github.com/ChainSafe/lodestar/commit/ac245ef6cb315c619156c5958db495751448589e) - 2025-09-02
 ## Q2 2025
 
 

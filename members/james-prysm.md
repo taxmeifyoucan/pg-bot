@@ -95,6 +95,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [radek's review changes](https://github.com/OffchainLabs/prysm/commit/6504c6ee23308a49228fbbab02c00e6f0efe0887) - 2025-08-28
 * [Commit] [Update beacon-chain/blockchain/kzg/validation.go](https://github.com/OffchainLabs/prysm/commit/9d885fd240607334047f1fafd12b1bbb1fb0ac79) - 2025-08-28
 * [Commit] [Update beacon-chain/rpc/eth/beacon/handlers.go](https://github.com/OffchainLabs/prysm/commit/96ad09429e64378bf1fb33f039bb00e20cd1388a) - 2025-08-28
+* [Commit] [Fix next epoch proposer duties (#15642)](https://github.com/OffchainLabs/prysm/commit/278b796e431f33b984ad53996f1375c6fde87f87) - 2025-09-02
+* [Commit] [changelog](https://github.com/OffchainLabs/prysm/commit/607dba6f0b235f457968a3c4875e7ccc0678f577) - 2025-09-02
+* [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/419ed74ab1cab61dec45881a8ed6ec5b689495e4) - 2025-09-02
+* [Commit] [updating unit tests for coverage](https://github.com/OffchainLabs/prysm/commit/ee1d1a81fd30edb6546e0d8099105b4021200011) - 2025-09-02
 ## Q2 2025
 
 

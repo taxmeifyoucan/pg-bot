@@ -31,6 +31,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Refactor fetchMissingColumnsByRoot() with tests.](https://github.com/status-im/nimbus-eth2/pull/7410) - 2025-08-22
 * [Commit] [Update events implementation.](https://github.com/status-im/nimbus-eth2/commit/f7f297c18601a4ef2fe40096679ba36eb61df809) - 2025-08-26
 * [Commit] [Fix some issues and add some more debug logging.](https://github.com/status-im/nimbus-eth2/commit/f6d3616277a301894aecc9e5b147c74ee45107f9) - 2025-08-27
+* [Commit] [Fix compilation issues.](https://github.com/status-im/nimbus-eth2/commit/f5d0b525c37b063d031f926180e252d98afc3c22) - 2025-09-02
+* [Commit] [Fix assertion crash.](https://github.com/status-im/nimbus-eth2/commit/93403c0893de91307b283cb229db436ab4ebbe21) - 2025-09-02
 ## Q2 2025
 
 

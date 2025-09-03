@@ -30,6 +30,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Remove unnecessary NewClock. @potuz feedback](https://github.com/OffchainLabs/prysm/commit/8d31ed5c4a0b916026479bf9e4e51ad8e2773291) - 2025-08-11
 * [Commit] [Use arg config to determine previous epoch, with regression test](https://github.com/OffchainLabs/prysm/commit/1a100dfe1648bc658392ee457722528702ee1a8d) - 2025-08-11
 * [Pull Request] [Fix panic in blob cache when scs array is empty or shorter than commitments](https://github.com/OffchainLabs/prysm/pull/15581) - 2025-08-12
+* [Commit] [Beacon api: fix proposer duty computation for fulu (#15534)](https://github.com/OffchainLabs/prysm/commit/d012ab653c056692cb3747acf827f9a443c01169) - 2025-09-02
 ## Q2 2025
 
 

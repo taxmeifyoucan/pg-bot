@@ -110,6 +110,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix: TestPythonIntegration to sign the intended 32-byte msg1 (#16814)](https://github.com/erigontech/erigon/commit/2865b473e9be5d7dfcb5517a34494ad954cc3b66) - 2025-08-30
 * [Pull Request] [[r3.0] added same renaming functionality to 3.0](https://github.com/erigontech/erigon/pull/16932) - 2025-09-01
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/d693a10edfbe852848d8c612fe6f695ecb8bb989) - 2025-09-01
+* [Issue] [create minimal version of tui](https://github.com/erigontech/erigon/issues/16956) - 2025-09-02
+* [Issue] [research for a lib to create TUI (maybe come up with diff lang)](https://github.com/erigontech/erigon/issues/16955) - 2025-09-02
+* [Issue] [TUI for Erigon](https://github.com/erigontech/erigon/issues/16954) - 2025-09-02
 ## Q2 2025
 
 

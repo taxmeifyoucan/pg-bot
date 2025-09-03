@@ -215,6 +215,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cp 2 commits related to HistoryNoSystemTxs](https://github.com/erigontech/erigon/pull/16927) - 2025-09-01
 * [Pull Request] [fix(eth_getLogs): handle "latest" range correctly to avoid empty results (#16901)](https://github.com/erigontech/erigon/pull/16926) - 2025-09-01
 * [Commit] [fix(eth_getLogs): handle "latest" range correctly to avoid empty results (#16901)](https://github.com/erigontech/erigon/commit/271ffaeed59d9a0be10914162f243c6fad9929b0) - 2025-09-01
+* [Commit] [crash fix + some logs and progress](https://github.com/erigontech/erigon/commit/3852823ee409ead38fb4bf488aeff701182b7888) - 2025-09-02
+* [Commit] [fix pruning](https://github.com/erigontech/erigon/commit/67535d907da64a28defa1fd374eb1f34bbceaa94) - 2025-09-02
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

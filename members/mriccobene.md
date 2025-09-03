@@ -49,6 +49,7 @@ Team: Erigon
 * [Pull Request] [qa-test: improve test report ](https://github.com/erigontech/erigon/pull/16831) - 2025-08-26
 * [Commit] [[r3.1] qa-tests: extend timeout for tip tracking & migration (#16703)](https://github.com/erigontech/erigon/commit/6cafac80e756629280dd112c325920154c9dcd08) - 2025-08-27
 * [Pull Request] [qa-tests: use last lighthouse version in the sync-with-externalcl test](https://github.com/erigontech/erigon/pull/16905) - 2025-08-29
+* [Pull Request] [[r3.1] qa-tests: use last lighthouse version in the sync-with-externalcl test](https://github.com/erigontech/erigon/pull/16947) - 2025-09-02
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [blockTimetsamp is on log info not header (#423)](https://github.com/erigontech/rpc-tests/commit/4155a0cd4fd99bc6e47a81d0aa08f19386d61b0b) - 2025-07-31
 * [Commit] [eth_getBlockRrceipts - fix exp resp with blockTimestamp (#422)](https://github.com/erigontech/rpc-tests/commit/a0bb773bf04ab4e4e3784c4052a147021b576211) - 2025-07-31

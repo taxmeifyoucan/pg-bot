@@ -50,6 +50,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Column syncing with minimal peers](https://github.com/grandinetech/grandine/pull/329) - 2025-08-29
 * [Pull Request] [Retry block when all accepted while syncing](https://github.com/grandinetech/grandine/pull/333) - 2025-09-01
 * [Pull Request] [Prioritize fewer custody columns for peers assignment](https://github.com/grandinetech/grandine/pull/332) - 2025-09-01
+* [Pull Request] [Feature/add sync with reconstruction flag](https://github.com/grandinetech/grandine/pull/334) - 2025-09-02
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

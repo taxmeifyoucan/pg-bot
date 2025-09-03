@@ -159,6 +159,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [remove targets](https://github.com/erigontech/erigon/commit/ac8cb1d4e7f3f977deadccb72d45fdcd7d684d9a) - 2025-08-28
 * [Pull Request] [cmd/devnet: sunset](https://github.com/erigontech/erigon/pull/16882) - 2025-08-28
 * [Commit] [drop `observer` component  (#16857)](https://github.com/erigontech/erigon/commit/5e82286ff5c5e5a8bff7e9df7b8de20c3b593888) - 2025-08-29
+* [Commit] [add GOEXPERIMENT=synctest to GOTEST for erigon-lib](https://github.com/erigontech/erigon/commit/5b9a257fa52b6e27a414fe55b077410ddd4624ae) - 2025-09-02
+* [Pull Request] [txnprovider/shutter: fix synctest issues with go1.25](https://github.com/erigontech/erigon/pull/16965) - 2025-09-02
+* [Pull Request] [txnprovider/txpool: move tests/txpool to txnprovider/txnpool/tests](https://github.com/erigontech/erigon/pull/16963) - 2025-09-02
+* [Pull Request] [polygon/tests: move mining bench from tests to polygon/tests](https://github.com/erigontech/erigon/pull/16962) - 2025-09-02
+* [Commit] [tidy up proto imports](https://github.com/erigontech/erigon/commit/e2599accbe8e269b594bf6a1d58e6e4e4b274e8d) - 2025-09-02
+* [Pull Request] [tidy up proto imports](https://github.com/erigontech/erigon/pull/16960) - 2025-09-02
 ## Q2 2025
 
 

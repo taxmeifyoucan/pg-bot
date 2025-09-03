@@ -186,6 +186,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [fix consolidation request pre-deploy address (#3612)](https://github.com/status-im/nimbus-eth1/commit/52c0dfa739b6fe051299cd46756e5b11c9b2d753) - 2025-09-01
 * [Commit] [Import readValue from confutils/toml/defs](https://github.com/status-im/nimbus-eth1/commit/e05f38bfdcf10324b30439f2e7ff50bf689604ca) - 2025-09-01
 * [Pull Request] [Add support for TOML config file](https://github.com/status-im/nimbus-eth1/pull/3611) - 2025-09-01
+* [Commit] [bump nim-confutils](https://github.com/status-im/nimbus-eth1/commit/272688595b02b9b0758e8c2e266615e01e0ecdd0) - 2025-09-02
+* [Commit] [Fix cmp in test_configuration](https://github.com/status-im/nimbus-eth1/commit/bbdc371548697a630f6898c586b9a280f58e5142) - 2025-09-02
+* [Commit] [Disable --custom-network](https://github.com/status-im/nimbus-eth1/commit/ffa3559cb28d704c54804cc62ddac14a93ffe2e8) - 2025-09-02
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 
