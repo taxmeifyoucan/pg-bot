@@ -65,6 +65,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [add blsG1Add](https://github.com/status-im/nimbus-eth1/commit/ca5d607272f2c6cb405f009d7462a2dbfe052f09) - 2025-08-28
 * [Commit] [add ripemd160](https://github.com/status-im/nimbus-eth1/commit/b398cf9fcc3da49344496a52696f8fe8a9d10cd5) - 2025-08-28
 * [Pull Request] [fix consolidation request pre-deploy address](https://github.com/status-im/nimbus-eth1/pull/3612) - 2025-09-01
+* [Commit] [rename P256_VERIFY to P256VERIFY (#3616)](https://github.com/status-im/nimbus-eth1/commit/1571b6224d094229adc061e5814ffceffd1abbe0) - 2025-09-03
+* [Commit] [remove the simulator workflow (#3617)](https://github.com/status-im/nimbus-eth1/commit/4e2f9819cf3b600bf47ec9f6c43441bf69b76aca) - 2025-09-03
+* [Commit] [Add support for TOML config file (#3611)](https://github.com/status-im/nimbus-eth1/commit/01b5dcadc43669be39a1c8ca14b4e47a258b82d7) - 2025-09-03
 ## Q2 2025
 
 

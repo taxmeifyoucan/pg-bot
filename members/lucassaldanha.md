@@ -35,6 +35,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Cleanup post 25.9.0 release (#9837)](https://github.com/Consensys/teku/commit/070b4b66e7dc292fd82d8c18f724155978139af7) - 2025-09-02
 * [Pull Request] [Cleanup post 25.9.0 release](https://github.com/Consensys/teku/pull/9837) - 2025-09-02
 * [Commit] [Containers required for Gloas' BeaconBlockBody (#9806)](https://github.com/Consensys/teku/commit/31709ce63aa52582d47234c50549b9650cad82ca) - 2025-09-02
+* [Commit] [Remove downgrade note for snappy library (#9842)](https://github.com/Consensys/teku/commit/5f7f1d23f0ee594582cbc55cecc3f66d48a43652) - 2025-09-03
+* [Pull Request] [Remove downgrade note for snappy library](https://github.com/Consensys/teku/pull/9842) - 2025-09-03
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add support for libp2p interop tests](https://github.com/libp2p/jvm-libp2p/pull/421) - 2025-08-25
 ## Q2 2025

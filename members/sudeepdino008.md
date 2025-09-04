@@ -217,6 +217,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix(eth_getLogs): handle "latest" range correctly to avoid empty results (#16901)](https://github.com/erigontech/erigon/commit/271ffaeed59d9a0be10914162f243c6fad9929b0) - 2025-09-01
 * [Commit] [crash fix + some logs and progress](https://github.com/erigontech/erigon/commit/3852823ee409ead38fb4bf488aeff701182b7888) - 2025-09-02
 * [Commit] [fix pruning](https://github.com/erigontech/erigon/commit/67535d907da64a28defa1fd374eb1f34bbceaa94) - 2025-09-02
+* [Pull Request] [wip](https://github.com/erigontech/erigon/pull/16981) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ae33c566ec2c5494fbc5b920d6cd0c2fbb22b953) - 2025-09-03
+* [Pull Request] [fix bumper file generator](https://github.com/erigontech/erigon/pull/16980) - 2025-09-03
+* [Commit] [BuildMissedAccessors](https://github.com/erigontech/erigon/commit/926fd6eea7108594daa439ade9a1eafdde7b11bf) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2e88c81a2cf453229caa250e337a45ea8a981d77) - 2025-09-03
+* [Pull Request] [handles a bug in receipt values when there's only 1 tx in the block (query only)](https://github.com/erigontech/erigon/pull/16972) - 2025-09-03
+* [Pull Request] [wip: handles a bug in receipt values when there's only 1 tx in the block (query + gen)](https://github.com/erigontech/erigon/pull/16971) - 2025-09-03
+* [Commit] [BuildMissedAccessors](https://github.com/erigontech/erigon/commit/7ce0ba04011f2a280113c3b0984405587899fcc4) - 2025-09-03
+* [Commit] [BuildMissedAccessors](https://github.com/erigontech/erigon/commit/a6b65d8838e0c499950f60326c7525d14e9e062e) - 2025-09-03
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

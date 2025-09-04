@@ -26,6 +26,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [update Amir's GH handle](https://github.com/protocolguild/documentation/commit/f28e719fdb5d86af30ec28f4ffcfb2a288bb876e) - 2025-08-04
 * [Commit] [Add "Prototyping" working group](https://github.com/protocolguild/documentation/commit/1cb237e1ed67ebee26d58b75965e1c97ee325b54) - 2025-08-05
 * [Commit] [Add bridge 2/3 multisigs for Polygon, Shape and Zora](https://github.com/protocolguild/documentation/commit/a21280b2a9bdb19d406df3aa75b4a608aec20538) - 2025-08-07
+* [Commit] [Fix extra bracket](https://github.com/protocolguild/documentation/commit/89644a7e2bd6ee275a5373e0b7accce80cea445d) - 2025-09-03
+* [Commit] [Add Jihoon Song](https://github.com/protocolguild/documentation/commit/e6e5b630130d0798c10593cd968f0114003664dd) - 2025-09-03
+* [Commit] [remove shemnon](https://github.com/protocolguild/documentation/commit/2f59ddac2468cd09856aa46fdada3c329daf7673) - 2025-09-03
 ## Q2 2025
 
 

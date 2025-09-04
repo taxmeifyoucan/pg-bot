@@ -117,6 +117,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): use relative imports in tests (#2075)](https://github.com/ethereum/execution-spec-tests/commit/b65891ef2ce928998e4f83006ccc086700f277a9) - 2025-08-25
 * [Commit] [fix(tests,forks): Implement Base-Fee-Per-Gas calculation methods in `Fork`, fix BPO4 tests (#2074)](https://github.com/ethereum/execution-spec-tests/commit/857c41ebaae2fd24e62c828be115acfddad0b511) - 2025-08-26
 * [Commit] [feat(execute): Add Engine RPC option to `execute remote` (#2070)](https://github.com/ethereum/execution-spec-tests/commit/5a51af9fbb0f6d21d48182641c6c26db85e11032) - 2025-08-28
+* [Commit] [chore(tests): add modexp length mismatch functionality (#2058)](https://github.com/ethereum/execution-spec-tests/commit/5c5167bf396539dafc89a68b39e169783e7be56a) - 2025-09-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

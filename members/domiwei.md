@@ -114,6 +114,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/d158d0550d5e84df9acad24fdb5801d15343e878) - 2025-08-17
 * [Commit] [update](https://github.com/erigontech/erigon/commit/792e7c83056812e6f9fdd416d23ef551aaf17a73) - 2025-08-17
 * [Commit] [[r31] start on broken files  (#16569)](https://github.com/erigontech/erigon/commit/df8fcfcec9114e592e70e621afe6af86b98814db) - 2025-08-17
+* [Commit] [update](https://github.com/erigontech/erigon/commit/2b9e7925fa2bfc598665b2bafe9d6911b1fb416f) - 2025-09-03
+* [Pull Request] [misc updates for fulu](https://github.com/erigontech/erigon/pull/16989) - 2025-09-03
+* [Commit] [update](https://github.com/erigontech/erigon/commit/d3b03aabcdd8fb90c58f99ea26a6a2d4a5693121) - 2025-09-03
+* [Commit] [fix unittest](https://github.com/erigontech/erigon/commit/a2e34ee3f291a1ded48a86edf6d569a188206ac0) - 2025-09-03
 ## Q2 2025
 
 

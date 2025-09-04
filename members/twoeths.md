@@ -108,6 +108,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: also resolve blockPromise](https://github.com/ChainSafe/lodestar/commit/edc874c8e2b3ad08e95b3d6d072d01347ee19729) - 2025-09-01
 * [Pull Request] [fix: resolve data promise for BlockInputPreData](https://github.com/ChainSafe/lodestar/pull/8299) - 2025-09-01
 * [Commit] [feat: track libp2p streams (#8304)](https://github.com/ChainSafe/lodestar/commit/4703d1c27eeaf540e32030c14d68636ea45fd34c) - 2025-09-02
+* [Issue] [performance issue of getBlobsV1](https://github.com/ChainSafe/lodestar/issues/8309) - 2025-09-03
+* [Commit] [refactor: name types and metrics](https://github.com/ChainSafe/lodestar/commit/b9307b5a782f5c65993704ee7b52b8dfee142508) - 2025-09-03
 ## Q2 2025
 
 

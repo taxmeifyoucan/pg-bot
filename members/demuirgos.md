@@ -45,6 +45,7 @@ Team: Nethermind
 * [Commit] [fix build issiue, missing identifier in SignFn delegate definition](https://github.com/NethermindEth/nethermind/commit/f6bf6ffccff0ccebe6b0a30eb50bc9533b9906fa) - 2025-09-01
 * [Commit] [ENR Support on admin_peers (#9228)](https://github.com/NethermindEth/nethermind/commit/77cffab09ea0b781bb93bdcfa6d54ee20dd7102a) - 2025-09-02
 * [Commit] [ws fxies](https://github.com/NethermindEth/nethermind/commit/fee17020be867917eb992082bc072402228ae2e8) - 2025-09-02
+* [Commit] [Ensure ForkInfo is initialized (#9233)](https://github.com/NethermindEth/nethermind/commit/2f018d3078dddbb6369b78136943ed47fda9098d) - 2025-09-03
 ## Q2 2025
 
 

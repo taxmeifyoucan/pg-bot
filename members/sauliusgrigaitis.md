@@ -17,6 +17,10 @@ Team: Grandine
 * [Commit] [Improve keystore loading](https://github.com/grandinetech/grandine/commit/fd640b3d23bcfeb074fa74c41882e15e93c9de50) - 2025-07-14
 * [Commit] [Correctly report timed out execution engine responses](https://github.com/grandinetech/grandine/commit/bbc1dd72d7dca644861c8eb8daea027b7eac888f) - 2025-07-28
 * [Commit] [Wait for head to become fully verified before starting local validator attest duty](https://github.com/grandinetech/grandine/commit/e1752944032e67ad0d3803bed88beaacc2b25e7b) - 2025-08-08
+* [Commit] [Bumped version to 1.1.5](https://github.com/grandinetech/grandine/commit/803bd51108e71527ee711c2b7f79462189f8d3d2) - 2025-09-03
+* [Pull Request] [Bumped version to 1.1.5](https://github.com/grandinetech/grandine/pull/346) - 2025-09-03
+* [Commit] [Temporary ignore RUSTSEC-2025-0055](https://github.com/grandinetech/grandine/commit/13f5b69b925a0a42be5de8705c2b10b963170d68) - 2025-09-03
+* [Pull Request] [Temporary ignore RUSTSEC-2025-0055](https://github.com/grandinetech/grandine/pull/345) - 2025-09-03
 ## Q2 2025
 
 

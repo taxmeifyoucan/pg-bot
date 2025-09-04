@@ -204,6 +204,11 @@ Team: Erigon
 * [Commit] [updated to main version + wasCommited](https://github.com/erigontech/erigon/commit/8d4e6b83f42ceae681f4c32a5008f03362063a17) - 2025-09-01
 * [Commit] [rpcdaemon: fix to avoid panic()  on receipts log index when ASSERT_ERIGON is enabled (#16908)](https://github.com/erigontech/erigon/commit/02bf5dc30abd4325586241ed7fa5f44f3fa321a8) - 2025-09-01
 * [Commit] [env: simplify and support non-lower-case (#16923)](https://github.com/erigontech/erigon/commit/4f7b81680821dd1405ae2c961594c17dcc478137) - 2025-09-01
+* [Commit] [agg: writers to not create etl collectors if `discard = true`  (#16974)](https://github.com/erigontech/erigon/commit/1041d49d740c68e0b412839fea839e098b261b42) - 2025-09-03
+* [Commit] [fix task logger and q locks](https://github.com/erigontech/erigon/commit/384e057f280d6709bbf8c27a86027381d404b87c) - 2025-09-03
+* [Commit] [fix compile errors](https://github.com/erigontech/erigon/commit/05902f06eb2a916c1fd1a8413c01efadfb5c1c12) - 2025-09-03
+* [Commit] [core/vm: add one more modexp benchmark (#16950)](https://github.com/erigontech/erigon/commit/b24c80641f67adb9cf781e1071eb9685df0959b8) - 2025-09-03
+* [Commit] [add state root to files](https://github.com/erigontech/erigon/commit/3391b0efe76806ca4f3c22b6e11750684672ac26) - 2025-09-03
 ## Q2 2025
 
 

@@ -26,6 +26,9 @@ Team: Nimbus
 * [Commit] [Add command line option for marking a manual sync target finalised (#3580)](https://github.com/status-im/nimbus-eth1/commit/f000b802475f92ccd1b6ddd0152c28182425637e) - 2025-08-22
 * [Commit] [Hide manual target options](https://github.com/status-im/nimbus-eth1/commit/a0ddec7589cdb933dcf5ddc1f0e395fb1d740442) - 2025-08-22
 * [Pull Request] [Add command line option for marking a manual sync target finalised](https://github.com/status-im/nimbus-eth1/pull/3580) - 2025-08-22
+* [Commit] [Beacon sync remove some test options (#3619)](https://github.com/status-im/nimbus-eth1/commit/c672d6e67dd2a9c52c1c81ab7a7be6de8ba855ed) - 2025-09-03
+* [Commit] [proxy: fee-based methods (#3613)](https://github.com/status-im/nimbus-eth1/commit/1c0af6fa45cdd458bc183907520db959f584ccbb) - 2025-09-03
+* [Pull Request] [Beacon sync remove some test options](https://github.com/status-im/nimbus-eth1/pull/3619) - 2025-09-03
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

@@ -143,6 +143,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rm even more debugGloasComments (#7437)](https://github.com/status-im/nimbus-eth2/commit/9e906b11ac653ed6cac30be433ce929b7cf3a49e) - 2025-09-01
 * [Commit] [version v25.9.0](https://github.com/status-im/nimbus-eth2/commit/660ebeee3aa25c236b5c1fd358dd8a8d3b50d32e) - 2025-09-02
 * [Commit] [Add metric for last seen execution block number (#7440)](https://github.com/status-im/nimbus-eth2/commit/41d0c481f4a4b7666f398610759303b4e511fa8b) - 2025-09-02
+* [Commit] [make publish-book 660ebeee3](https://github.com/status-im/nimbus-eth2/commit/52b544f94f498839ce62a7a76f6a5ab3277c269c) - 2025-09-03
+* [Commit] [Parallel reconstruction of columns (#7351)](https://github.com/status-im/nimbus-eth2/commit/c767e5f96731cb076a4685ccade0ac747aa7e33e) - 2025-09-03
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13
@@ -151,6 +153,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [implement `eth_maxPriorityFeePerGas`](https://github.com/status-im/nimbus-eth1/issues/3505) - 2025-07-23
 * [Commit] [Discovery: Filter out non 'eth' nodes and regularly update 'eth' field. (#3593)](https://github.com/status-im/nimbus-eth1/commit/71de4402cf4e45f44618bb99c1ef726572247693) - 2025-08-28
 * [Commit] [NimbusVersion in one place for all version related code (#3609)](https://github.com/status-im/nimbus-eth1/commit/1ae79dc6034a6d11fceffcee8e8e5c76f62a5517) - 2025-08-31
+* [Commit] [Initial Amsterdam fork infrastructure (#3604)](https://github.com/status-im/nimbus-eth1/commit/77fce92bb8ab41082a2a0dc6ebe82a095134b255) - 2025-09-03
 ## Q2 2025
 
 

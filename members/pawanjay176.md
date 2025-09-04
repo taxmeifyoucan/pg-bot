@@ -20,6 +20,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Issue] [Use the events api to attest on a head event](https://github.com/sigp/lighthouse/issues/7820) - 2025-07-31
 * [Pull Request] [Fix data columns by range returning all columns](https://github.com/sigp/lighthouse/pull/7942) - 2025-08-26
 * [Pull Request] [Forward sync columns by root](https://github.com/sigp/lighthouse/pull/7946) - 2025-08-27
+* [Pull Request] [Allow AwaitingDownload to be a valid in-between state](https://github.com/sigp/lighthouse/pull/7984) - 2025-09-03
 ## Q2 2025
 
 

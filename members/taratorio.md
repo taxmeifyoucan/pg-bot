@@ -165,6 +165,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [polygon/tests: move mining bench from tests to polygon/tests](https://github.com/erigontech/erigon/pull/16962) - 2025-09-02
 * [Commit] [tidy up proto imports](https://github.com/erigontech/erigon/commit/e2599accbe8e269b594bf6a1d58e6e4e4b274e8d) - 2025-09-02
 * [Pull Request] [tidy up proto imports](https://github.com/erigontech/erigon/pull/16960) - 2025-09-02
+* [Commit] [tests: fix issue with eest/consume-rlp due to usage of outdated code](https://github.com/erigontech/erigon/commit/e1ae75ff6e46b8cd08825f672a1ee6fdc6dcc762) - 2025-09-03
+* [Pull Request] [tests: fix issue with eest/consume-rlp due to usage of outdated code](https://github.com/erigontech/erigon/pull/16987) - 2025-09-03
+* [Commit] [tests: fix issue with eest/consume-rlp due to usage of outdated code](https://github.com/erigontech/erigon/commit/6a16cc314140116a5ef72970a605358a45317ab1) - 2025-09-03
+* [Commit] [polygon/tests: move mining bench from tests to polygon/tests (#16962)](https://github.com/erigontech/erigon/commit/5e6aa95e9e353e5192bf0d363dc800ce8a7d30f2) - 2025-09-03
+* [Commit] [txnprovider/txpool: move tests/txpool to txnprovider/txnpool/tests (#16963)](https://github.com/erigontech/erigon/commit/a93658aee545b7fa895ae7c311388189dbe9fe72) - 2025-09-03
+* [Commit] [tidy up proto imports (#16960)](https://github.com/erigontech/erigon/commit/f4ede66dba09bfdccab786a81417fde1ccd7ff4f) - 2025-09-03
 ## Q2 2025
 
 

@@ -37,6 +37,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [bump moneyz](https://github.com/NethermindEth/nethermind/commit/3ad554a50e469af937de5fc5757e75ca3b94c56a) - 2025-08-29
 * [Commit] [Bump credits](https://github.com/NethermindEth/nethermind/commit/049b30f9d67eae6f1bce2655c0200c3f92d8d99b) - 2025-08-29
 * [Commit] [Remove rc tag from build version](https://github.com/NethermindEth/nethermind/commit/e586d6207de9e16609648271db6f442887b31992) - 2025-09-01
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/816e5e20804506e7adabdf7bc77558e4f1067572) - 2025-09-03
+* [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/47f7b1620c528cb2f9eb9d870239ad525c012c18) - 2025-09-03
+* [Commit] [Add reorg possibility](https://github.com/NethermindEth/nethermind/commit/756035eae475894ba2944c9641f43b104c710b1e) - 2025-09-03
+* [Commit] [Remove logs](https://github.com/NethermindEth/nethermind/commit/18b8575fbc74e8af1de971dd6eef2bd31afdb990) - 2025-09-03
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/926676be9aed6d9de15eb71ae8cf6f1c4492dc18) - 2025-09-03
+* [Commit] [Fixes](https://github.com/NethermindEth/nethermind/commit/412240bb87b300d38d0450f238cb74f7f30ba2c6) - 2025-09-03
+* [Commit] [Extra check for txpool contains](https://github.com/NethermindEth/nethermind/commit/82f5222207c8e97ec8793fefc5b85c7f675591f4) - 2025-09-03
+* [Commit] [Add mutliple tx support](https://github.com/NethermindEth/nethermind/commit/28bba9bae2f09f84049703337b4f3b12e2196c8b) - 2025-09-03
 ## Q2 2025
 
 

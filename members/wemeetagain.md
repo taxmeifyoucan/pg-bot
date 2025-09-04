@@ -94,6 +94,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: fix an e2e test](https://github.com/ChainSafe/lodestar/commit/8a9c8dfa3e422cbf8ecabdd7d492541b93019aac) - 2025-09-02
 * [Commit] [chore: simplify validation (use same validation functions everywhere)](https://github.com/ChainSafe/lodestar/commit/805a201902f02dc1217e8d72928a2f85111a342c) - 2025-09-02
 * [Commit] [chore: update `payload_attributes` event test data (#8308)](https://github.com/ChainSafe/lodestar/commit/ac245ef6cb315c619156c5958db495751448589e) - 2025-09-02
+* [Commit] [chore: downscore peers appropriately](https://github.com/ChainSafe/lodestar/commit/4d2ad9b5955e4955080895fad22f2df1faa96eca) - 2025-09-03
 ## Q2 2025
 
 

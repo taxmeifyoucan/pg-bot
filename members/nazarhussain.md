@@ -84,6 +84,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update the assertions for balance check](https://github.com/ChainSafe/lodestar/commit/24fdf33b4712fe0a8e5d19a3ff6fc775f08bd08a) - 2025-09-01
 * [Commit] [feat: add type support for Bun (#8288)](https://github.com/ChainSafe/lodestar/commit/93489491e0fdebaf68a02e693fb5f1267c165bf2) - 2025-09-01
 * [Pull Request] [test: upgrade sim tests to use post-electra images](https://github.com/ChainSafe/lodestar/pull/8303) - 2025-09-01
+* [Commit] [Fix the linting for tests](https://github.com/ChainSafe/lodestar/commit/bb129850b71dfdf47c3c005e71601f37c2442129) - 2025-09-03
+* [Pull Request] [fix: deserialization of db repository keys](https://github.com/ChainSafe/lodestar/pull/8310) - 2025-09-03
 ## Q2 2025
 
 

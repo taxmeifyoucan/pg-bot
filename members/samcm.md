@@ -42,6 +42,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(relay-monitor): Add persistence and backfill (#625)](https://github.com/ethpandaops/xatu/commit/31664f19c9610fb4228274bcf3a948938cd3b4ac) - 2025-08-25
 * [Commit] [fix(sharding): Configure sharding for Group C events by eve… (#634)](https://github.com/ethpandaops/xatu/commit/cf6636ef169ca28bf1e81576686316aecb423299) - 2025-08-25
 * [Commit] [refactor(relay-monitor.go): move defaults.Set call after reading config file to ensure defaults are applied correctly](https://github.com/ethpandaops/xatu/commit/5f866e46c31a45762ee1366235b39c60ec4e0956) - 2025-08-27
+* [Commit] [feat(relaymonitor): add forward fill configuration and logic (#639)](https://github.com/ethpandaops/xatu/commit/92a816e04c419b4b283ed7519c4df405cdde0241) - 2025-09-03
 ## Q2 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

@@ -49,6 +49,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [workflows: Run `run_migrations` before running RPC tests (#16678)](https://github.com/erigontech/erigon/commit/777214145b642cf40d6ce0b4a3c1caa75515daa2) - 2025-08-16
 * [Commit] [integration: execute run_migrations also on consensus db (#16711)](https://github.com/erigontech/erigon/commit/ef65dcd4bc5f716466b6c6796299cddda0677a9c) - 2025-08-20
 * [Commit] [Revert "polygon: use execution server start (#16485)" (#16676)](https://github.com/erigontech/erigon/commit/542aacd20f4365ec063e05268f970f56f1ddd176) - 2025-09-02
+* [Commit] [remove duplicate](https://github.com/erigontech/erigon/commit/9d17a230d0933e0ad18aec0f314b1e50b068d9bb) - 2025-09-03
+* [Commit] [fix build](https://github.com/erigontech/erigon/commit/58a2166697b5bf1720e36f4a8a34f6288094e262) - 2025-09-03
+* [Commit] [Revert "log"](https://github.com/erigontech/erigon/commit/13699947b33deffa4db2ed25e231a140beb5c6f6) - 2025-09-03
+* [Commit] [fix tests](https://github.com/erigontech/erigon/commit/15e12220dda5a168e2c1e7e55a1df7f96ac18aac) - 2025-09-03
+* [Commit] [fix build](https://github.com/erigontech/erigon/commit/7389b2a047bf33b0c99f463e2dd2870cb6bf3853) - 2025-09-03
+* [Commit] [get salt-blocks load/create logic parity with salt-state (#16714)](https://github.com/erigontech/erigon/commit/151e3737f7306bedf4824e1d32783a3a20c9a6cc) - 2025-09-03
 ## Q2 2025
 
 

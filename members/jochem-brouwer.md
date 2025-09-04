@@ -14,6 +14,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(tests): fixes EXTCODECOPY bench test](https://github.com/ethereum/execution-spec-tests/pull/1865) - 2025-07-07
 * [Pull Request] [feat(tests): add EIP-7907 big-code-size payment evasion benchmark test](https://github.com/ethereum/execution-spec-tests/pull/1864) - 2025-07-07
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7773: PFI EIP-7778 Block Gas Accounting without Refunds](https://github.com/ethereum/EIPs/pull/10273) - 2025-09-03
 ## Q2 2025
 
 

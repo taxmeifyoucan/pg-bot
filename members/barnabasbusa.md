@@ -49,6 +49,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Update cleanup_ethereum.yaml (#112)](https://github.com/ethpandaops/template-devnets/commit/acb856293d28e26163021680e8ee0edeaff039a4) - 2025-08-28
 * [Commit] [fix wildcard_cert_issuer_publish_psk property (#111)](https://github.com/ethpandaops/template-devnets/commit/d5fce14bb3c1eb7b951069d59f09fe82210428ea) - 2025-08-28
 * [Pull Request] [Update cleanup_ethereum.yaml](https://github.com/ethpandaops/template-devnets/pull/112) - 2025-08-28
+* [Commit] [Update images.yaml](https://github.com/ethpandaops/template-devnets/commit/bc0c019cde3ac7a8937d7d59c5d607893076b6ce) - 2025-09-03
+* [Commit] [Update images.yaml](https://github.com/ethpandaops/template-devnets/commit/65b4aaf5e1960c768ee6e9c2b49febfe8a187d06) - 2025-09-03
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Commit] [fix go fmt](https://github.com/ethpandaops/dora/commit/15708132cc1c9e5bf1000766b5a7076e22819a00) - 2025-08-04
 * [Commit] [fixes](https://github.com/ethpandaops/dora/commit/d05bca8af70ae490a6a2bc7f8a0847209f4a2003) - 2025-08-04

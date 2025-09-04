@@ -152,6 +152,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [deps: upgrade go-eth-kzg to v1.4.0](https://github.com/erigontech/erigon/commit/0ee03207b3974333f8a67e1523deb7657de88109) - 2025-09-01
 * [Pull Request] [Engine API: more robust engine_getBlobsV2](https://github.com/erigontech/erigon/pull/16928) - 2025-09-01
 * [Commit] [Engine API: more robust engine_getBlobsV2](https://github.com/erigontech/erigon/commit/9ef76d0dc688af41d584b95ce002e720559f9e9b) - 2025-09-01
+* [Commit] [Update devnet tests to fusaka-devnet-5@v2.0.0 (#16975)](https://github.com/erigontech/erigon/commit/cffa1249757cddc2993f84eb32f16560724e9008) - 2025-09-03
+* [Commit] [switch eest-fixtures to main branch](https://github.com/erigontech/erigon/commit/c292b0d9fc62d0ce98d9bbc777405eecf93ad19e) - 2025-09-03
+* [Pull Request] [Update devnet tests to fusaka-devnet-5@v2.0.0](https://github.com/erigontech/erigon/pull/16975) - 2025-09-03
+* [Commit] [Update devnet tests to fusaka-devnet-5@v2.0.0](https://github.com/erigontech/erigon/commit/aa900600c20a3a10bda4b7ad0611a21b9a8220b5) - 2025-09-03
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

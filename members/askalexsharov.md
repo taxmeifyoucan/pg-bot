@@ -1143,6 +1143,46 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d4acf7e7e634134b48f4b600a91e71f99c99c129) - 2025-09-02
 * [Commit] [[r3.0] qa-tests: add run_migrations in RPC Integration Tests + fixes (#16935)](https://github.com/erigontech/erigon/commit/4901bc086d02ecac98e6cef99e1f9ef9ad2727c3) - 2025-09-02
 * [Commit] [snapshotsync: add support for --snap.download.to.block (shadow.fork.block) (#16938)](https://github.com/erigontech/erigon/commit/96bcab4d8c427c1b88848d1466e0f2f7a2ebf27c) - 2025-09-02
+* [Pull Request] [break dependency from `datadir` package to `kv` package](https://github.com/erigontech/erigon/pull/16986) - 2025-09-03
+* [Pull Request] [break dependency from `datadir` package to `kv` package](https://github.com/erigontech/erigon/pull/16985) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8594a9fd16bb361db86c04eefad1b006fb0c582f) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0dc1f664affe6a0f1e246d39d85a04d781d62677) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b358565e354a3ad5d1b0524c0243326b48dce83b) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e1b3d96f5cb1ef0eecbb93919cce2e0098c35d91) - 2025-09-03
+* [Commit] [[r32] fuse_filter: keep in app's memory instead of mmap (#16966)](https://github.com/erigontech/erigon/commit/79ded9d671c10b3c742bf591f74befe68ad411d6) - 2025-09-03
+* [Pull Request] [SharedDomains: split object to 2 parts](https://github.com/erigontech/erigon/pull/16983) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1c03f31a066ef35afe8d1fe6cd284922fc248094) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/dfcd89cb588044b06c445486c6c20b7a3cd74748) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/23c4d11417ac3260104a3030b6ef923b05bc549b) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f32d21675a7d42cb6696b471fd18e13438e5c6de) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/20bb48aa708c3ed792d889f5c5820e571bc6b28b) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f37861f9b9fba392e916cce85d0baec8ee32eb70) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/18a87d773dfc0ce4f302fff6d199b14655523317) - 2025-09-03
+* [Commit] [fix bumper file generator (#16980)](https://github.com/erigontech/erigon/commit/d85ab93141987c84497fedd46411b93568e7dd22) - 2025-09-03
+* [Commit] [in_mem_db: reduce dirty space limit (#16968)](https://github.com/erigontech/erigon/commit/006f2118a50992c325dede8e6837bac2cc63b8c1) - 2025-09-03
+* [Pull Request] [remove `Code` table](https://github.com/erigontech/erigon/pull/16978) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b59c8b4c6eaf7db75300f073a958713411bbfb25) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/668e20c276d776fb4bff1429cf9f54c366aed06e) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c15162eec2a8e996fb0bfe39ee71ae77412a7ce3) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9796de349b893c627821f53ec16e38cb02e7bdfd) - 2025-09-03
+* [Pull Request] [genesis: don't need create goroutine (because we using temporary db)](https://github.com/erigontech/erigon/pull/16976) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/45648a0154c8f9b973c9abfc900978af3fda6014) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c701941da4edab96bdb31c9476ef69e41c2d3e57) - 2025-09-03
+* [Pull Request] [agg: writers to not create etl collectors if `discard = true` ](https://github.com/erigontech/erigon/pull/16974) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9e15ffd52f06ef7858433783f6fb1b4c3d29d171) - 2025-09-03
+* [Commit] [agg: move high-level shared domains tests (rebuild/sqeeze) outside of state package (#16769)](https://github.com/erigontech/erigon/commit/01f059e918a0c8d3cf51fc36c929f5fd28012865) - 2025-09-03
+* [Issue] [evm: remove `ContractRef`](https://github.com/erigontech/erigon/issues/16970) - 2025-09-03
+* [Pull Request] [in_mem_db: reduce dirty space limit](https://github.com/erigontech/erigon/pull/16968) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a6cd0e9a0fc13fc7b6f4f64a88e78a1e29c4b4ed) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/01634dbda6a9dfe4c90039bdf7b0225ffe023ecb) - 2025-09-03
+* [Commit] [[r311] fix rm-state: for successive calls trying to remove same step range (#16942)](https://github.com/erigontech/erigon/commit/4f5b9a805dfc5186788ec4d96f5b45b103a7d8b4) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b0a5db25e1e5fb6e7ce6cbde9d1755ca043648bd) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a377bbbf60e7649cb959024043a1ef904234cb74) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/53970becb139fa3413c84835590e12f0c92c7a28) - 2025-09-03
+* [Pull Request] [SharedDomains: less interface conversions of `tx` object](https://github.com/erigontech/erigon/pull/16967) - 2025-09-03
+* [Commit] [fix(etl): use correct buffer size when creating new buffer in background flush (#16957)](https://github.com/erigontech/erigon/commit/d9f8d7414e5b7206356f27a65c441cba442d95c4) - 2025-09-03
+* [Pull Request] [[r32] fuse_filter: keep in app's memory instead of mmap](https://github.com/erigontech/erigon/pull/16966) - 2025-09-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e1b016b2976fbf3643246cbaa8b9480cf05dcfb0) - 2025-09-03
 ## Q2 2025
 
 

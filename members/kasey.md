@@ -69,6 +69,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [enforce schedule alignment when next_fork_epoch matches](https://github.com/OffchainLabs/prysm/commit/6293381d8eb73b70740a307be0eef75ff1f581ae) - 2025-08-19
 * [Pull Request] [enforce schedule alignment when next_fork_epoch matches](https://github.com/OffchainLabs/prysm/pull/15604) - 2025-08-19
 * [Commit] [enforce schedule alignment when next_fork_epoch matches](https://github.com/OffchainLabs/prysm/commit/0f588c0a0521eed686911719371da58b3c35d57f) - 2025-08-19
+* [Commit] [override linter](https://github.com/OffchainLabs/prysm/commit/d222b02b91f6d077939379b7abd8773e4f96326f) - 2025-09-03
+* [Commit] [more verbose field names](https://github.com/OffchainLabs/prysm/commit/09634d2eb5453a4393642f116729d6fa7936705d) - 2025-09-03
+* [Commit] [revert dlv experiment](https://github.com/OffchainLabs/prysm/commit/ccee2e4df41a78f81f5636d43f57607f1a1a2e06) - 2025-09-03
+* [Commit] [provide data column storage to rpc handlers (#15606)](https://github.com/OffchainLabs/prysm/commit/08fb3812b7aac4cd68fb66793ec266ee099fd5c1) - 2025-09-03
 ## Q2 2025
 
 

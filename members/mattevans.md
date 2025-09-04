@@ -58,3 +58,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: add support for data column sidecar gossipsub events](https://github.com/ethpandaops/xatu/commit/1bcdbaaad3d66b914995374259ad650ad805ced8) - 2025-08-26
 * [Commit] [ci: bump golangci-lint to v2.4.0 and migrate wsl to wsl_v5](https://github.com/ethpandaops/xatu/commit/9958c4d9d926b357259d55bf2f2739be4af7498e) - 2025-09-01
 * [Commit] [chore(.tool-versions): bump golangci-lint from 2.1.6 to 2.4.0](https://github.com/ethpandaops/xatu/commit/9522af3f19884a53b9c1efbc022dc321c267fe2f) - 2025-09-01
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Pull Request] [feat: adds baseline cbt support](https://github.com/ethpandaops/lab/pull/53) - 2025-09-03
+* [Commit] [chore: bump Go version to 1.24.5 in .tool-versions](https://github.com/ethpandaops/lab/commit/0d597fba5122b2989ae1e37ede69ea984bcb7261) - 2025-09-03
+* [Commit] [chore(gitignore): ignore test coverage and test artifacts](https://github.com/ethpandaops/lab/commit/57b0bf28a70796b9bad1ce14d3c33aa0bfac264d) - 2025-09-03
+* [Commit] [feat(cache): add SetNX and SetIfMatch atomic operations to cache interface](https://github.com/ethpandaops/lab/commit/3aab54fb11b9203c9295e7ec14f19586bdd16553) - 2025-09-03
+* [Commit] [test: remove early return after failed unlock in distributed lock test](https://github.com/ethpandaops/lab/commit/313afdd4f44950cb557c0b918e28b6c341539684) - 2025-09-03

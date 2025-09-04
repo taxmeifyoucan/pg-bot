@@ -31,6 +31,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Use arg config to determine previous epoch, with regression test](https://github.com/OffchainLabs/prysm/commit/1a100dfe1648bc658392ee457722528702ee1a8d) - 2025-08-11
 * [Pull Request] [Fix panic in blob cache when scs array is empty or shorter than commitments](https://github.com/OffchainLabs/prysm/pull/15581) - 2025-08-12
 * [Commit] [Beacon api: fix proposer duty computation for fulu (#15534)](https://github.com/OffchainLabs/prysm/commit/d012ab653c056692cb3747acf827f9a443c01169) - 2025-09-02
+* [Commit] [Simplify for range expression](https://github.com/OffchainLabs/prysm/commit/a8cd221a48eea9fa8039d0498287fdb97ce4f713) - 2025-09-03
 ## Q2 2025
 
 

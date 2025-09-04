@@ -33,6 +33,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Portal: mv accumulator based block proof code out of history_legacy (#3599)](https://github.com/status-im/nimbus-eth1/commit/91ee0279ead82d826a9babbbd992b1e8fc8ad446) - 2025-08-28
 * [Pull Request] [Portal: mv accumulator based block proof code out of history_legacy](https://github.com/status-im/nimbus-eth1/pull/3599) - 2025-08-28
 * [Commit] [Portal: mv accumulator based block proof code out of history_legacy](https://github.com/status-im/nimbus-eth1/commit/a55672c092c6d651b326739ee0b5e0b50b48bcd5) - 2025-08-28
+* [Pull Request] [Portal: Update data dir and version code by using buildinfo](https://github.com/status-im/nimbus-eth1/pull/3621) - 2025-09-03
+* [Commit] [Remove legacy history network and activate new history network (#3615)](https://github.com/status-im/nimbus-eth1/commit/61fb64c3df227ca44ccaac4ea8ba3cb8eeb0b6ac) - 2025-09-03
+* [Commit] [proxy: state tests (#3589)](https://github.com/status-im/nimbus-eth1/commit/03023eeb2b43337f6c8a833ef086ff2539e5f6f5) - 2025-09-03
 ## Q2 2025
 
 

@@ -51,6 +51,11 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Retry block when all accepted while syncing](https://github.com/grandinetech/grandine/pull/333) - 2025-09-01
 * [Pull Request] [Prioritize fewer custody columns for peers assignment](https://github.com/grandinetech/grandine/pull/332) - 2025-09-01
 * [Pull Request] [Feature/add sync with reconstruction flag](https://github.com/grandinetech/grandine/pull/334) - 2025-09-02
+* [Pull Request] [Only store `sampling_columns` in `fork_choice_store`](https://github.com/grandinetech/grandine/pull/344) - 2025-09-03
+* [Issue] [Refactor `SyncBatch` to Enum](https://github.com/grandinetech/grandine/issues/343) - 2025-09-03
+* [Issue] [Store `sampling_columns` in one place](https://github.com/grandinetech/grandine/issues/342) - 2025-09-03
+* [Issue] [Optimize `data_columns_by_range` request](https://github.com/grandinetech/grandine/issues/341) - 2025-09-03
+* [Pull Request] [Don't take delayed block when retry block](https://github.com/grandinetech/grandine/pull/340) - 2025-09-03
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

@@ -113,6 +113,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [create minimal version of tui](https://github.com/erigontech/erigon/issues/16956) - 2025-09-02
 * [Issue] [research for a lib to create TUI (maybe come up with diff lang)](https://github.com/erigontech/erigon/issues/16955) - 2025-09-02
 * [Issue] [TUI for Erigon](https://github.com/erigontech/erigon/issues/16954) - 2025-09-02
+* [Pull Request] [[WIP do not merge] building indexes on old files if have some](https://github.com/erigontech/erigon/pull/16984) - 2025-09-03
+* [Issue] [Invalid payload validator error on teku](https://github.com/erigontech/erigon/issues/16973) - 2025-09-03
 ## Q2 2025
 
 

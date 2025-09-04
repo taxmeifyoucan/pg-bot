@@ -33,6 +33,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix some issues and add some more debug logging.](https://github.com/status-im/nimbus-eth2/commit/f6d3616277a301894aecc9e5b147c74ee45107f9) - 2025-08-27
 * [Commit] [Fix compilation issues.](https://github.com/status-im/nimbus-eth2/commit/f5d0b525c37b063d031f926180e252d98afc3c22) - 2025-09-02
 * [Commit] [Fix assertion crash.](https://github.com/status-im/nimbus-eth2/commit/93403c0893de91307b283cb229db436ab4ebbe21) - 2025-09-02
+* [Commit] [Actively reload how columns/blobs are logged.](https://github.com/status-im/nimbus-eth2/commit/b69edba50c83117cc6c9a53716ebd9a04e8b12cd) - 2025-09-03
+* [Commit] [Make blobs and columns lists in logs smaller.](https://github.com/status-im/nimbus-eth2/commit/d1f32afcfaca645fdd0b9e19846a3ef035ca6bec) - 2025-09-03
+* [Commit] [Fix incremental math.](https://github.com/status-im/nimbus-eth2/commit/b0feed09847810d28364293476c13a765d39a144) - 2025-09-03
+* [Commit] [Add loop pause when there is no work to do.](https://github.com/status-im/nimbus-eth2/commit/a5ebad9ecce93e2fee5bc8a99a905d7296de13d5) - 2025-09-03
 ## Q2 2025
 
 

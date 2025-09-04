@@ -47,6 +47,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [fix blob db tests (#9798)](https://github.com/Consensys/teku/commit/5a2aa76cfa1030ca9c3383e5e6ece7807a249889) - 2025-08-22
 * [Pull Request] [Fix blob db tests](https://github.com/Consensys/teku/pull/9798) - 2025-08-22
 * [Issue] [[SPIKE] Remove Quartz Scheduler in favor of our `RepeatingTaskScheduler`](https://github.com/Consensys/teku/issues/9796) - 2025-08-22
+* [Pull Request] [Being more conservative in RPC peer rate limiting](https://github.com/Consensys/teku/pull/9841) - 2025-09-03
 ## Q2 2025
 
 

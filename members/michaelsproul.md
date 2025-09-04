@@ -48,6 +48,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Consider flag for making VC `first_success` parallel](https://github.com/sigp/lighthouse/issues/7908) - 2025-08-20
 * [Pull Request] [Delete `RuntimeVariableList::from_vec`](https://github.com/sigp/lighthouse/pull/7930) - 2025-08-25
 * [Issue] [Reconsider stack-allocated `Blob`/`Cell`](https://github.com/sigp/lighthouse/issues/7952) - 2025-08-27
+* [Pull Request] [Simplify length methods on BeaconBlockBody](https://github.com/sigp/lighthouse/pull/7989) - 2025-09-03
+* [Pull Request] [Simplify some fork-variant boilerplate](https://github.com/sigp/lighthouse/pull/7988) - 2025-09-03
+* [Issue] [De-duplicate sync selection proof logic (distributed vs non-distributed)](https://github.com/sigp/lighthouse/issues/7983) - 2025-09-03
 ## Q2 2025
 
 

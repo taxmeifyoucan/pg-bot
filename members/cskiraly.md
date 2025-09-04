@@ -15,6 +15,8 @@ Team: Codex DAS
 * [Issue] [set extra --bootnodes without overriding defaults?](https://github.com/ethereum/go-ethereum/issues/32312) - 2025-07-31
 
 * [Pull Request] [p2p/discover: remove delay from iterator init](https://github.com/ethereum/go-ethereum/pull/32517) - 2025-08-29
+* [Pull Request] [eth/catalyst: log errors returned on the API locally (trace level)](https://github.com/ethereum/go-ethereum/pull/32539) - 2025-09-03
+* [Pull Request] [core/txpool/blobpool: Fix getblobs errors](https://github.com/ethereum/go-ethereum/pull/32538) - 2025-09-03
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [go-ethereum: localbuild: reduce overhead of local development](https://github.com/ethereum/hive/pull/1336) - 2025-08-28
 
