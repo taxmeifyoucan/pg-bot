@@ -48,6 +48,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Fix blob db tests](https://github.com/Consensys/teku/pull/9798) - 2025-08-22
 * [Issue] [[SPIKE] Remove Quartz Scheduler in favor of our `RepeatingTaskScheduler`](https://github.com/Consensys/teku/issues/9796) - 2025-08-22
 * [Pull Request] [Being more conservative in RPC peer rate limiting](https://github.com/Consensys/teku/pull/9841) - 2025-09-03
+* [Pull Request] [Rewrite throttling task queue](https://github.com/Consensys/teku/pull/9848) - 2025-09-04
+* [Commit] [Fix deadlock and another bug in TaskQueue (#9846)](https://github.com/Consensys/teku/commit/7569ff25f4facc4b6a434bc9ea4877c55cebc6ee) - 2025-09-04
 ## Q2 2025
 
 

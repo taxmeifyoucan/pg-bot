@@ -200,6 +200,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d7c0dda2309907d6101d2f4ce41d4bfab2907e92) - 2025-08-30
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7b14749ef40261f5a4c5acc7aa5ff8687cda6842) - 2025-08-30
 * [Commit] [save](https://github.com/erigontech/erigon/commit/092462e8f79c1cef68407daa0673efb85fc03d9b) - 2025-08-30
+* [Pull Request] [Cherry-pick: pick Caplin fixes for Fusaka and block downloader](https://github.com/erigontech/erigon/pull/17016) - 2025-09-04
+* [Commit] [Caplin: improvement and simplification on peer selection (#16995)](https://github.com/erigontech/erigon/commit/131448ec641152436790939371a93b67ce730188) - 2025-09-04
 ## Q2 2025
 
 

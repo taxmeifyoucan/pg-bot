@@ -240,6 +240,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Use switch expression](https://github.com/NethermindEth/nethermind/commit/354c51c28374a639e634c4617a959736ad73ba04) - 2025-08-24
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7773: Propose 2780](https://github.com/ethereum/EIPs/pull/10280) - 2025-09-04
 ## Q2 2025
 
 

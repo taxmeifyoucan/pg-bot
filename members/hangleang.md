@@ -56,6 +56,13 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Store `sampling_columns` in one place](https://github.com/grandinetech/grandine/issues/342) - 2025-09-03
 * [Issue] [Optimize `data_columns_by_range` request](https://github.com/grandinetech/grandine/issues/341) - 2025-09-03
 * [Pull Request] [Don't take delayed block when retry block](https://github.com/grandinetech/grandine/pull/340) - 2025-09-03
+* [Commit] [HTTP API: return error on data column sidecars for pre-fulu block](https://github.com/grandinetech/grandine/commit/ccf2c564791597b224d7bedbe69f6344fae5a71a) - 2025-09-04
+* [Commit] [Count accepted data column sidecars by block header, instead of slot](https://github.com/grandinetech/grandine/commit/e6e9cd7eeea5f1933b4f529cba14aa184ac1c7ff) - 2025-09-04
+* [Commit] [Add `--sync-with-reconstruction` option for greedy sync (#334)](https://github.com/grandinetech/grandine/commit/20745db99488c6f1768df5fe524dcea1d042893b) - 2025-09-04
+* [Commit] [Clean up codebase and temp fix CI pipeline (#322)](https://github.com/grandinetech/grandine/commit/b5ad441b399a32fe7f0651da1eeac9955f21cc00) - 2025-09-04
+* [Pull Request] [HTTP API: return error on data column sidecars for pre-fulu block](https://github.com/grandinetech/grandine/pull/349) - 2025-09-04
+* [Pull Request] [Count accepted data column sidecars by block header](https://github.com/grandinetech/grandine/pull/348) - 2025-09-04
+* [Issue] [Count `accepted_data_column_sidecars` by `slot` and `block_root`](https://github.com/grandinetech/grandine/issues/347) - 2025-09-04
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

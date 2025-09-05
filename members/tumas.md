@@ -54,6 +54,7 @@ Team: Grandine
 * [Pull Request] [Update consensus-spec-tests to v1.6.0-alpha.6 (#335)](https://github.com/grandinetech/grandine/pull/339) - 2025-09-02
 * [Commit] [Use versioned_hashes instead of indices in blobs endpoint](https://github.com/grandinetech/grandine/commit/b00d04178b107b15e9d5c45b91a45dab3125a67c) - 2025-09-03
 * [Commit] [Don't take delayed block when retry block](https://github.com/grandinetech/grandine/commit/aedbb9e1ead4d26f0adb19ef9f7f4570836a62d7) - 2025-09-03
+* [Pull Request] [Add `Store::is_reconstruction_enabled`](https://github.com/grandinetech/grandine/pull/350) - 2025-09-04
 ## Q2 2025
 
 

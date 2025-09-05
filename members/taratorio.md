@@ -171,6 +171,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [polygon/tests: move mining bench from tests to polygon/tests (#16962)](https://github.com/erigontech/erigon/commit/5e6aa95e9e353e5192bf0d363dc800ce8a7d30f2) - 2025-09-03
 * [Commit] [txnprovider/txpool: move tests/txpool to txnprovider/txnpool/tests (#16963)](https://github.com/erigontech/erigon/commit/a93658aee545b7fa895ae7c311388189dbe9fe72) - 2025-09-03
 * [Commit] [tidy up proto imports (#16960)](https://github.com/erigontech/erigon/commit/f4ede66dba09bfdccab786a81417fde1ccd7ff4f) - 2025-09-03
+* [Commit] [break dependency from `datadir` package to `kv` package (#16986)](https://github.com/erigontech/erigon/commit/537dc53458eb4c42aa770a9b34f5973de0a20cc5) - 2025-09-04
+* [Commit] [Do not mark snapshots download complete prematurely when using `--no-downloader` (#17014)](https://github.com/erigontech/erigon/commit/9f06f35c6a14b596814137550198d964ac3b0142) - 2025-09-04
+* [Pull Request] [txnprovider/shutter: fix synctest issues with go1.25 (#16965)](https://github.com/erigontech/erigon/pull/17015) - 2025-09-04
+* [Pull Request] [tests: update teku to 25.9.1 to fix failing kurtosis ci (#17012)](https://github.com/erigontech/erigon/pull/17013) - 2025-09-04
+* [Commit] [[DO-NOT-MERGE] tests: update teku to 25.9.1 to fix failing kurtosis ci (#17012)](https://github.com/erigontech/erigon/commit/33555a0257e4986d283b566977c3e2fd605c5005) - 2025-09-04
+* [Pull Request] [[DO-NOT-MERGE] tests: update teku to 25.9.1 to fix failing kurtosis ci](https://github.com/erigontech/erigon/pull/17012) - 2025-09-04
 ## Q2 2025
 
 

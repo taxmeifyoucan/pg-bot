@@ -170,6 +170,10 @@ Team: Reth
 * [Commit] [chore: convert panic into warn](https://github.com/paradigmxyz/reth/commit/fa83c20d7f132166d85ef9aff405737d6042f1b9) - 2025-09-03
 * [Pull Request] [docs: update urls in docs](https://github.com/paradigmxyz/reth/pull/18245) - 2025-09-03
 * [Issue] [Add broadcast channel for all received flashblocksequences](https://github.com/paradigmxyz/reth/issues/18244) - 2025-09-03
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/ccfe792a0af14ca0e38f2afeb3e37731c8921968) - 2025-09-04
+* [Pull Request] [perf: build local pending block without updates](https://github.com/paradigmxyz/reth/pull/18271) - 2025-09-04
+* [Pull Request] [chore: log prune settings on unwind](https://github.com/paradigmxyz/reth/pull/18270) - 2025-09-04
+* [Issue] [Install correct dev accounts for devmode](https://github.com/paradigmxyz/reth/issues/18265) - 2025-09-04
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

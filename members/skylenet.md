@@ -13,6 +13,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Issue] [static-nodes.json should live within the data dir](https://github.com/NethermindEth/nethermind/issues/9181) - 2025-08-20
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Commit] [feat: update ethereum-metrics-exporter config (#116)](https://github.com/ethpandaops/template-devnets/commit/675911215893bf302242f561316973cf352b7335) - 2025-09-04
+* [Pull Request] [feat: update ethereum-metrics-exporter config](https://github.com/ethpandaops/template-devnets/pull/116) - 2025-09-04
 ## Q2 2025
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/)

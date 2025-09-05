@@ -83,6 +83,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: partial update of batch.test.ts](https://github.com/ChainSafe/lodestar/commit/1a4303507e3fd0927b3778e729e70f37c885c4e7) - 2025-09-02
 * [Commit] [fix: sort ascending](https://github.com/ChainSafe/lodestar/commit/de11b44dfee752b4315c70d49e338ed167c24e7b) - 2025-09-03
 * [Commit] [feat: add AI analysis and unit test cases for downloadByRange](https://github.com/ChainSafe/lodestar/commit/604f0cad21f41b3e6ecb7dda92aad1eea62ae4fc) - 2025-09-03
+* [Commit] [refactor: rename related to sync committee indices (#8313)](https://github.com/ChainSafe/lodestar/commit/e53169f3a9d65c894b223f2a5f2885ea49ea3609) - 2025-09-04
+* [Commit] [fix: put back supressed rule](https://github.com/ChainSafe/lodestar/commit/8df743962b6f96a5fcd1faa37fef52601d3a19d1) - 2025-09-04
+* [Pull Request] [chore: fix lint](https://github.com/ChainSafe/lodestar/pull/8323) - 2025-09-04
+* [Commit] [fix: remove stale commented code](https://github.com/ChainSafe/lodestar/commit/a6d28a03576a79417f5af4a18673d97bfebc22d3) - 2025-09-04
 ## Q2 2025
 
 

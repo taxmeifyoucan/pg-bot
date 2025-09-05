@@ -36,6 +36,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Portal: Update data dir and version code by using buildinfo](https://github.com/status-im/nimbus-eth1/pull/3621) - 2025-09-03
 * [Commit] [Remove legacy history network and activate new history network (#3615)](https://github.com/status-im/nimbus-eth1/commit/61fb64c3df227ca44ccaac4ea8ba3cb8eeb0b6ac) - 2025-09-03
 * [Commit] [proxy: state tests (#3589)](https://github.com/status-im/nimbus-eth1/commit/03023eeb2b43337f6c8a833ef086ff2539e5f6f5) - 2025-09-03
+* [Commit] [Revert "Re-enable uTP test job on Portal CI (#3625)" (#3629)](https://github.com/status-im/nimbus-eth1/commit/2b8a6ce4df73cd53dacb461f785e20710af20ab3) - 2025-09-04
+* [Pull Request] [Revert "Re-enable uTP test job on Portal CI (#3625)"](https://github.com/status-im/nimbus-eth1/pull/3629) - 2025-09-04
+* [Pull Request] [Avoid requesting the header from the db twice for getEthBlock()](https://github.com/status-im/nimbus-eth1/pull/3626) - 2025-09-04
+* [Commit] [Re-enable uTP test job on Portal CI (#3625)](https://github.com/status-im/nimbus-eth1/commit/302fef538e4469b4603f68f91a85676c9bca07bc) - 2025-09-04
 ## Q2 2025
 
 

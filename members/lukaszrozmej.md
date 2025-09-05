@@ -37,6 +37,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Auto-update fast sync settings (#9217)](https://github.com/NethermindEth/nethermind/commit/2f80a6c9a331a7978f118d2407bee4d9d5dfee04) - 2025-08-31
 * [Commit] [Bit of refactors](https://github.com/NethermindEth/nethermind/commit/bd486b571d30f252a9938eb73c43446788ffea65) - 2025-09-01
 * [Commit] [feat(block-validator): add debug logging message for MaxRlpBlockSize (#9236)](https://github.com/NethermindEth/nethermind/commit/48e9eacaf7042c3072255529729718e432784f8d) - 2025-09-03
+* [Commit] [simplify](https://github.com/NethermindEth/nethermind/commit/5b709f1075f6c36ebd453c9a464c3df55f056b46) - 2025-09-04
+* [Pull Request] [Feature/issue 8454 add filenames to accumulator checksum refactor](https://github.com/NethermindEth/nethermind/pull/9247) - 2025-09-04
 ## Q2 2025
 
 

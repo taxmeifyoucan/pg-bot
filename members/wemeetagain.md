@@ -95,6 +95,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: simplify validation (use same validation functions everywhere)](https://github.com/ChainSafe/lodestar/commit/805a201902f02dc1217e8d72928a2f85111a342c) - 2025-09-02
 * [Commit] [chore: update `payload_attributes` event test data (#8308)](https://github.com/ChainSafe/lodestar/commit/ac245ef6cb315c619156c5958db495751448589e) - 2025-09-02
 * [Commit] [chore: downscore peers appropriately](https://github.com/ChainSafe/lodestar/commit/4d2ad9b5955e4955080895fad22f2df1faa96eca) - 2025-09-03
+* [Pull Request] [chore: bump some dev dependencies](https://github.com/ChainSafe/lodestar/pull/8322) - 2025-09-04
+* [Commit] [fix: use prettyPrintIndices for logging (#8298)](https://github.com/ChainSafe/lodestar/commit/0aff2f62ffa3d1f527b3f7acb554b3f6cc179038) - 2025-09-04
+* [Commit] [fix: add slot and epoch validation to epoch committees endpoint (#7941)](https://github.com/ChainSafe/lodestar/commit/3795e32bb1870a13574db57d6eb420de8342d834) - 2025-09-04
+* [Commit] [fix: do not throw error when archive 0-blob block (#8319)](https://github.com/ChainSafe/lodestar/commit/9c2e6e097be5d23e787a72293255b5a66a1fad25) - 2025-09-04
+* [Commit] [fix: do not attempt to reconstruct builder blocks (#8317)](https://github.com/ChainSafe/lodestar/commit/9623b3e10e0cc6b95256af0537eb429f69435021) - 2025-09-04
 ## Q2 2025
 
 

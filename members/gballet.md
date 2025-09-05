@@ -27,6 +27,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [internal/ethapi,params: add `eth_config` (#32239)](https://github.com/ethereum/go-ethereum/commit/ffe758c7a783ef2f4fefbb72200a740adce015c1) - 2025-09-01
 * [Commit] [core/tracing: update changelog (#32535)](https://github.com/ethereum/go-ethereum/commit/e6884ccccfac51f9528953275769ba8a72bf18c6) - 2025-09-03
 * [Commit] [core/txpool/blobpool, eth/catalyst: place null for missing blob (#32536)](https://github.com/ethereum/go-ethereum/commit/00516c71fbc4781f345806cdc684c6c223159029) - 2025-09-03
+* [Pull Request] [cmd/keeper: add the keeper zkvm guest program](https://github.com/ethereum/go-ethereum/pull/32543) - 2025-09-04
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Commit] [make LoadTransitionState cacheless and move it to the overlay pkg](https://github.com/gballet/go-ethereum/commit/0f37c99d3457791f97995b08c2f6d53f4a5b37c6) - 2025-08-04
 * [Commit] [move transition state to its own file](https://github.com/gballet/go-ethereum/commit/f0f51d1ef458c1593e908741180615ad83fd07eb) - 2025-08-04

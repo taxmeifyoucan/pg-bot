@@ -113,6 +113,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(tests): Incorrect expected exception on `test_tx_intrinsic_gas.py`](https://github.com/ethereum/execution-spec-tests/pull/2096) - 2025-09-02
 * [Commit] [fix: typing](https://github.com/ethereum/execution-spec-tests/commit/b02358852cbf2bad27ed6f7f02b84cc6532eb33b) - 2025-09-02
 * [Commit] [src(eth_config): added eth_config simulator prototype (#2054)](https://github.com/ethereum/execution-spec-tests/commit/61f8ac90841770d9fc407f1498ec0e5229b27508) - 2025-09-02
+* [Commit] [fix(tests): Restrict extra args being passed to `BaseTest`; fix valid BAL tests (#2102)](https://github.com/ethereum/execution-spec-tests/commit/14ed88d2e00eaf0b137a0c65ed6131c25ab5cc90) - 2025-09-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

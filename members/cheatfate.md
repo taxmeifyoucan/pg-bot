@@ -37,6 +37,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Make blobs and columns lists in logs smaller.](https://github.com/status-im/nimbus-eth2/commit/d1f32afcfaca645fdd0b9e19846a3ef035ca6bec) - 2025-09-03
 * [Commit] [Fix incremental math.](https://github.com/status-im/nimbus-eth2/commit/b0feed09847810d28364293476c13a765d39a144) - 2025-09-03
 * [Commit] [Add loop pause when there is no work to do.](https://github.com/status-im/nimbus-eth2/commit/a5ebad9ecce93e2fee5bc8a99a905d7296de13d5) - 2025-09-03
+* [Commit] [Fix performance counter issues.](https://github.com/status-im/nimbus-eth2/commit/b92abd3aedfcbc4eb5017178c02f5c88332a3d52) - 2025-09-04
+* [Commit] [Add performance meters.](https://github.com/status-im/nimbus-eth2/commit/8099dc6a51830a53eac70ff44a0e323284f2be4a) - 2025-09-04
 ## Q2 2025
 
 

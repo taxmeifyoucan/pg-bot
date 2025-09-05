@@ -31,6 +31,7 @@ Team: Consensus R&D (EF)
 * [Pull Request] [feat: enable `crypto-backend` for signer recovery](https://github.com/paradigmxyz/reth/pull/17723) - 2025-08-04
 * [Issue] [Introducing a stateless host crate](https://github.com/paradigmxyz/reth/issues/17837) - 2025-08-12
 
+* [Issue] [Add CI check for rv64imac-unknown-none-elf](https://github.com/paradigmxyz/reth/issues/18266) - 2025-09-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat: pass StateOracle as a parameter to `state_transition`](https://github.com/ethereum/execution-specs/pull/1371) - 2025-08-17
 ## Q2 2025

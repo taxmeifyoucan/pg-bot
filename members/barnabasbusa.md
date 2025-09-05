@@ -51,6 +51,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Update cleanup_ethereum.yaml](https://github.com/ethpandaops/template-devnets/pull/112) - 2025-08-28
 * [Commit] [Update images.yaml](https://github.com/ethpandaops/template-devnets/commit/bc0c019cde3ac7a8937d7d59c5d607893076b6ce) - 2025-09-03
 * [Commit] [Update images.yaml](https://github.com/ethpandaops/template-devnets/commit/65b4aaf5e1960c768ee6e9c2b49febfe8a187d06) - 2025-09-03
+* [Commit] [feat: add full and supernodes (#114)](https://github.com/ethpandaops/template-devnets/commit/422d2167ea5eb36d13e1e28af1087705d1a96006) - 2025-09-04
+* [Commit] [feat: more updates (#115)](https://github.com/ethpandaops/template-devnets/commit/0201caa032ce2f63a7d8ff9ec4c4d8550ed0fe12) - 2025-09-04
+* [Commit] [title](https://github.com/ethpandaops/template-devnets/commit/a8ebf2c44d48491d160eeea515da373b67520b38) - 2025-09-04
+* [Pull Request] [feat: more updates](https://github.com/ethpandaops/template-devnets/pull/115) - 2025-09-04
+* [Commit] [Revert "rename full to non"](https://github.com/ethpandaops/template-devnets/commit/8a9a64e8d2f6986eb51f3660ffe3fb6fba23a54e) - 2025-09-04
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Commit] [fix go fmt](https://github.com/ethpandaops/dora/commit/15708132cc1c9e5bf1000766b5a7076e22819a00) - 2025-08-04
 * [Commit] [fixes](https://github.com/ethpandaops/dora/commit/d05bca8af70ae490a6a2bc7f8a0847209f4a2003) - 2025-08-04
@@ -64,6 +69,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix fmt](https://github.com/ethpandaops/dora/commit/e64ef26c44b60c9a19068a217a9b3761aea1fcee) - 2025-08-15
 * [Pull Request] [feat: add regex search for validator activity tab](https://github.com/ethpandaops/dora/pull/456) - 2025-08-15
 * [Commit] [feat: add blob count next to tx count on mev page](https://github.com/ethpandaops/dora/commit/3230904d06f75993e4a5521fb74b7f1847cd85f7) - 2025-08-18
+* [Commit] [feat: add optional validator summary page](https://github.com/ethpandaops/dora/commit/2bfa36f8d06e4aa83836aa824ea9576290c5de41) - 2025-09-04
+* [Commit] [add auth groups to config to reduce number of secrets](https://github.com/ethpandaops/dora/commit/32389dc78e1681a5ead332b4fa2fb9b6b3485c90) - 2025-09-04
 ## Q2 2025
 
 

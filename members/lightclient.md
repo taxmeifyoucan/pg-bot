@@ -32,6 +32,7 @@ Team: Geth
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-2696: Remove redundant word (#10168)](https://github.com/ethereum/EIPs/commit/08632276d736e9d9dd76cc9d78917d40092c51e5) - 2025-08-25
 
+* [Pull Request] [Add Ben as co-author](https://github.com/ethereum/EIPs/pull/10278) - 2025-09-04
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [update basefee update fraction](https://github.com/ethereum/hive/commit/aba4b469ec0342dc2900ef59d5fb7a4b516926c2) - 2025-08-26
 ## Q2 2025

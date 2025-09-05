@@ -41,6 +41,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Remove resolver](https://github.com/ethereum/execution-specs/commit/60fb6b7e6b1f81ae2d9e267f0e4db08ffa8204b8) - 2025-08-28
 * [Pull Request] [Remove resolver](https://github.com/ethereum/execution-specs/pull/1389) - 2025-08-28
 * [Commit] [new(tests): EIP-6110: Supply validator deposits on chain](https://github.com/ethereum/execution-specs/commit/c4eab33fda21403c6e48a05f79bcdf45a422e197) - 2025-08-28
+* [Commit] [Stricter interface for Lint._parse](https://github.com/ethereum/execution-specs/commit/6b0b7e16410bfe1379766074356f6ec0e613c98d) - 2025-09-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-7932: Fix some typos (#10011)](https://github.com/ethereum/EIPs/commit/9e953a254861cf86dc6d55f1f90a54807cfecdb1) - 2025-07-16
 * [Commit] [Website: Add missing favicon (#9963)](https://github.com/ethereum/EIPs/commit/719769bd61033e9bcd4de7b647bdc927981b6195) - 2025-07-28

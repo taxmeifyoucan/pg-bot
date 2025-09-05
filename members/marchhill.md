@@ -150,6 +150,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix decoding & test](https://github.com/NethermindEth/nethermind/commit/723eacaff58424ba4e83dbcb09bb3241531207df) - 2025-09-01
 * [Commit] [eip 7002 & 7251](https://github.com/NethermindEth/nethermind/commit/45923a0eb60ef45a141efa2ce9ce3bea72b20e9d) - 2025-09-02
 * [Commit] [improve test](https://github.com/NethermindEth/nethermind/commit/158359f36d5c45d5d8170270f9205944f66d3dd8) - 2025-09-02
+* [Commit] [use sorted lists and sets for BAL](https://github.com/NethermindEth/nethermind/commit/ebb187a26a80388ba3f6882c1f350cb6d3676b6a) - 2025-09-04
+* [Commit] [tidy 4788](https://github.com/NethermindEth/nethermind/commit/fc16d59e7645b58965542cfc74252d76a01085a9) - 2025-09-04
+* [Commit] [simplify more](https://github.com/NethermindEth/nethermind/commit/df41d5d2c7e4d8715d909e94017b47201c0edcfe) - 2025-09-04
+* [Commit] [work out hashes](https://github.com/NethermindEth/nethermind/commit/749593282a624af0fbaee8774c7d95080c6017fd) - 2025-09-04
 ## Q2 2025
 
 

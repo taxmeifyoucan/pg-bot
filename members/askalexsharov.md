@@ -1183,6 +1183,9 @@ Team: Erigon
 * [Commit] [fix(etl): use correct buffer size when creating new buffer in background flush (#16957)](https://github.com/erigontech/erigon/commit/d9f8d7414e5b7206356f27a65c441cba442d95c4) - 2025-09-03
 * [Pull Request] [[r32] fuse_filter: keep in app's memory instead of mmap](https://github.com/erigontech/erigon/pull/16966) - 2025-09-03
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e1b016b2976fbf3643246cbaa8b9480cf05dcfb0) - 2025-09-03
+* [Commit] [db: don't LoadSnapshotsHashes if NoDownloader (#17005)](https://github.com/erigontech/erigon/commit/7aacb38d89db45cc09566670991e5ef1d6fb4c96) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f26deb2a959bda5ed6b28f7280138ef41551dd72) - 2025-09-04
+* [Commit] [disable linters which don't give profit, or duplicated linters, add reasons of disabling  (#16999)](https://github.com/erigontech/erigon/commit/bab8f93fa7a39debcc4335a33bdf08cb16d4cbbf) - 2025-09-04
 ## Q2 2025
 
 

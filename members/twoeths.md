@@ -110,6 +110,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: track libp2p streams (#8304)](https://github.com/ChainSafe/lodestar/commit/4703d1c27eeaf540e32030c14d68636ea45fd34c) - 2025-09-02
 * [Issue] [performance issue of getBlobsV1](https://github.com/ChainSafe/lodestar/issues/8309) - 2025-09-03
 * [Commit] [refactor: name types and metrics](https://github.com/ChainSafe/lodestar/commit/b9307b5a782f5c65993704ee7b52b8dfee142508) - 2025-09-03
+* [Commit] [fix: deserialization of db repository keys (#8310)](https://github.com/ChainSafe/lodestar/commit/7af21565397762334fa06b870490c5492f9a5046) - 2025-09-04
+* [Pull Request] [fix: do not throw error when archive 0-blob block](https://github.com/ChainSafe/lodestar/pull/8319) - 2025-09-04
+* [Commit] [fix: do not throw error when archive 0-blob block](https://github.com/ChainSafe/lodestar/commit/efabc7136af873446e85eeb0a6c3a1e4cbb0b38e) - 2025-09-04
 ## Q2 2025
 
 

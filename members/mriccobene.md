@@ -52,6 +52,8 @@ Team: Erigon
 * [Pull Request] [[r3.1] qa-tests: use last lighthouse version in the sync-with-externalcl test](https://github.com/erigontech/erigon/pull/16947) - 2025-09-02
 * [Commit] [use inclusion list; order by workflow and by job](https://github.com/erigontech/erigon/commit/df2aeeb0a6edbbefad48d28cec2d34f5bc6b5678) - 2025-09-03
 * [Commit] [replace inclusion list with exclusion list; target main branch for debug](https://github.com/erigontech/erigon/commit/266e89fad369304b9e5b5a07ab5550aa43b28024) - 2025-09-03
+* [Commit] [Improve snapshots reset action (#16792)](https://github.com/erigontech/erigon/commit/767bdb6b039cb198dd672e20f9e84a5374e43d0a) - 2025-09-04
+* [Pull Request] [qa-tests: improve tip-tracking and migration](https://github.com/erigontech/erigon/pull/17006) - 2025-09-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [blockTimetsamp is on log info not header (#423)](https://github.com/erigontech/rpc-tests/commit/4155a0cd4fd99bc6e47a81d0aa08f19386d61b0b) - 2025-07-31
 * [Commit] [eth_getBlockRrceipts - fix exp resp with blockTimestamp (#422)](https://github.com/erigontech/rpc-tests/commit/a0bb773bf04ab4e4e3784c4052a147021b576211) - 2025-07-31

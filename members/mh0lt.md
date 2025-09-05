@@ -209,6 +209,7 @@ Team: Erigon
 * [Commit] [fix compile errors](https://github.com/erigontech/erigon/commit/05902f06eb2a916c1fd1a8413c01efadfb5c1c12) - 2025-09-03
 * [Commit] [core/vm: add one more modexp benchmark (#16950)](https://github.com/erigontech/erigon/commit/b24c80641f67adb9cf781e1071eb9685df0959b8) - 2025-09-03
 * [Commit] [add state root to files](https://github.com/erigontech/erigon/commit/3391b0efe76806ca4f3c22b6e11750684672ac26) - 2025-09-03
+* [Commit] [fixed test internal deps](https://github.com/erigontech/erigon/commit/0ff34738026fdc5483d81837556fe4d02eaff80d) - 2025-09-04
 ## Q2 2025
 
 

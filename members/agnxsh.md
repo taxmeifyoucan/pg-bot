@@ -81,6 +81,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [resolve message router issues](https://github.com/status-im/nimbus-eth2/commit/668e589bbd21e59af7a5162be9c250618fc68847) - 2025-08-25
 * [Commit] [Update data directory defaults to include namespace, network (#7422)](https://github.com/status-im/nimbus-eth2/commit/14d54b0af2ceb19ace015d40455174b36a88c63b) - 2025-08-28
 * [Commit] [Bump nim-ssz-serialization (#7425)](https://github.com/status-im/nimbus-eth2/commit/e31713887042b555e7002900a35dd7f501d5f532) - 2025-08-29
+* [Pull Request] [simplify rman column logging + avoid duplicate missing columns in req…](https://github.com/status-im/nimbus-eth2/pull/7449) - 2025-09-04
 ## Q2 2025
 
 

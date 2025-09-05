@@ -145,6 +145,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add metric for last seen execution block number (#7440)](https://github.com/status-im/nimbus-eth2/commit/41d0c481f4a4b7666f398610759303b4e511fa8b) - 2025-09-02
 * [Commit] [make publish-book 660ebeee3](https://github.com/status-im/nimbus-eth2/commit/52b544f94f498839ce62a7a76f6a5ab3277c269c) - 2025-09-03
 * [Commit] [Parallel reconstruction of columns (#7351)](https://github.com/status-im/nimbus-eth2/commit/c767e5f96731cb076a4685ccade0ac747aa7e33e) - 2025-09-03
+* [Commit] [Support gloas blocks in BlockRef.init (#7450)](https://github.com/status-im/nimbus-eth2/commit/97697bff26cecc1eb041a1f13969876e9f9f519e) - 2025-09-04
+* [Commit] [rm from sidecarless when rm'ing from orphans](https://github.com/status-im/nimbus-eth2/commit/35f2f7f0b3368f818e88df120b544956feda9e16) - 2025-09-04
+* [Commit] [simplify rman column logging + avoid duplicate missing columns in request (#7449)](https://github.com/status-im/nimbus-eth2/commit/c580912715741ea36ba0165707850114b1f166b4) - 2025-09-04
+* [Commit] [chore: update web3 to new abi encoder / decoder (#7376)](https://github.com/status-im/nimbus-eth2/commit/b7567d9da004f94f76b43dae24a0c02e23b543e8) - 2025-09-04
+* [Commit] [bump nim-kzg4844 to incorporated column id orderedness check](https://github.com/status-im/nimbus-eth2/commit/5c63568e6aa9bceb311900419b3015bf3cf6d437) - 2025-09-04
+* [Commit] [el_manager: simplify retry logic (#7447)](https://github.com/status-im/nimbus-eth2/commit/57affdae758c6daf578e6bfcfd7e969b045ff85a) - 2025-09-04
+* [Commit] [chronicles: bump (#7448)](https://github.com/status-im/nimbus-eth2/commit/d26b7604fddafcb4dd3cfb0955e0bb25d68712d7) - 2025-09-04
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

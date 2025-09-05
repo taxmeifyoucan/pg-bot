@@ -86,6 +86,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [test: upgrade sim tests to use post-electra images](https://github.com/ChainSafe/lodestar/pull/8303) - 2025-09-01
 * [Commit] [Fix the linting for tests](https://github.com/ChainSafe/lodestar/commit/bb129850b71dfdf47c3c005e71601f37c2442129) - 2025-09-03
 * [Pull Request] [fix: deserialization of db repository keys](https://github.com/ChainSafe/lodestar/pull/8310) - 2025-09-03
+* [Commit] [Fix types](https://github.com/ChainSafe/lodestar/commit/671c39cf2a32a8032594e0c4abf52ccb19df9638) - 2025-09-04
+* [Commit] [Add comments for the wrapper](https://github.com/ChainSafe/lodestar/commit/817a1e7e03d8b7f85c607ec3d20dfd60a2d4d1d6) - 2025-09-04
+* [Pull Request] [feat: add pattern for runtime specific package dependencies](https://github.com/ChainSafe/lodestar/pull/8320) - 2025-09-04
 ## Q2 2025
 
 

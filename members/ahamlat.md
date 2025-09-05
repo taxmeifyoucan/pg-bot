@@ -21,6 +21,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [refactor log parsing to make tests more robust (#9143)](https://github.com/hyperledger/besu/commit/a3a11af16c0b73a90f8a27d0c6ecdd128418ca8c) - 2025-09-02
 * [Commit] [Add execution time and mgas/s on blockchain tests (#9147)](https://github.com/hyperledger/besu/commit/3dedcc63da18e4186f48697a0e40d488cf6748e9) - 2025-09-03
 * [Pull Request] [Add execution time and mgas/s on blockchain tests](https://github.com/hyperledger/besu/pull/9147) - 2025-09-03
+* [Pull Request] [Improve CallDataCopyOperation worst case](https://github.com/hyperledger/besu/pull/9152) - 2025-09-04
 ## Q2 2025
 
 

@@ -56,6 +56,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [Use Uint256 instead of long to avoid overflow (#9093)](https://github.com/hyperledger/besu/commit/2cff7d226a2da882860261c6187bed5a49eda7dc) - 2025-08-21
 * [Pull Request] [fix: reset ws before retrying block processing](https://github.com/hyperledger/besu/pull/9113) - 2025-08-27
 * [Pull Request] [Fix tracing world updater chain](https://github.com/hyperledger/besu/pull/9133) - 2025-08-28
+* [Commit] [Extend `CallParameter` for unsigned delegation (#9066)](https://github.com/hyperledger/besu/commit/50c3ee86e5f83dc9d6614978e57c3e4c6c3e6fb3) - 2025-09-04
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025

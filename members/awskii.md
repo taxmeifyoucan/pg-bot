@@ -106,6 +106,26 @@ Team: Erigon
 * [Commit] [agg: move `iiCfg`/`Schema`/`RegisterDomain calls` to `statecfg` (#16848)](https://github.com/erigontech/erigon/commit/6b6b65143df5ea1325e4798e37ec4c23953c2694) - 2025-08-28
 * [Commit] [save](https://github.com/erigontech/erigon/commit/809ea1a295f733e301a67c19f66971963c063398) - 2025-08-30
 * [Commit] [update genesis write](https://github.com/erigontech/erigon/commit/a8e537c0fc405ef453df7d12b2917e43dd83d5b4) - 2025-09-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ebebc7c0ed6a864ffe886560285f5896f6d91be5) - 2025-09-04
+* [Commit] [ save](https://github.com/erigontech/erigon/commit/443a34e1061c015980d0120a685845cfac867242) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4ac3be5918b01d4e1d4df90b6f95d905a8664022) - 2025-09-04
+* [Commit] [Revert "sabe"](https://github.com/erigontech/erigon/commit/449b429cc90320c44119c46e97dce8ba223e6f99) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f2e1aac24675d27bf40a0f963827b93f57e53f80) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ad146d5734dd5df24788d6d6954d9c53baaed8e2) - 2025-09-04
+* [Commit] [sabe](https://github.com/erigontech/erigon/commit/7da5591e6a236227b173c8a8e22e19fc48694183) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7edfac8cd1cc6e28836bf8ffd5b5095e7787c45b) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/33b3212bd308ab92da2d201fa2cc0d9582a067b8) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/37f5daf4fde389569a38dc1717b4e01e2b33eed0) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a713fb86f113a1afb7a56d3f3818ef10661b3b5d) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/714871da35e04794e6dfa81bf893d3d855db96e7) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/549c6d79776d9204c2318a598631e0ff1e537d19) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5b02008cb698c27a75c873d0cc01020da10c724c) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/58c36b5e92c45859854a7b53a17abf3f35d072bb) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0e1c59cbab65008bf0f5512165a2ccd9b63a7e63) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/1b1b8e354ed2d34150de1eb34accda54485100be) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3344877bbc9ad24b4e25df322dc3966f807287d9) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9301120ccc78449662533e6269e417870737b66e) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/a2ebb88005dda0c4e78727ddecaa6c43cbb453f8) - 2025-09-04
 ## Q2 2025
 
 

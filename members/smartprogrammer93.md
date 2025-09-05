@@ -21,6 +21,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix Taiko Anchor Transaction Validation (#9092)](https://github.com/NethermindEth/nethermind/commit/d4bd1a27a3a67fabb2155fe06e303b35e31cf839) - 2025-08-08
 * [Commit] [minor](https://github.com/NethermindEth/nethermind/commit/92db2f533040ce94ff6a20098ddbadecd4d24254) - 2025-08-08
 * [Commit] [better solution to the sender problem](https://github.com/NethermindEth/nethermind/commit/01c1bb470761a0778cce8181c7d0cd8e17ba10a5) - 2025-08-08
+* [Commit] [implement eth_getAccountInfo (#9241)](https://github.com/NethermindEth/nethermind/commit/33615a2e84b9280491d59d5c0bb591564afcd4c5) - 2025-09-04
 ## Q2 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

@@ -77,6 +77,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Reduce code duplication in aristo proof module](https://github.com/status-im/nimbus-eth1/pull/3622) - 2025-09-03
 * [Commit] [Start implementation of fromAccTrieNode.](https://github.com/status-im/nimbus-eth1/commit/376e952cf1673f43d24ce0f9c54154ad2126d752) - 2025-09-03
 * [Commit] [Return visited nodes in aristo verifyProof.](https://github.com/status-im/nimbus-eth1/commit/cf24800b5d45b823ff610d71d4549f6ab606b20c) - 2025-09-03
+* [Commit] [Commit progress.](https://github.com/status-im/nimbus-eth1/commit/1881cda582f0118a4dd7e2c4870b4026146a522f) - 2025-09-04
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

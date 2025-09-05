@@ -24,6 +24,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Add `get-earliest-available-data-column-slot` to the debug db cmd (#9736)](https://github.com/Consensys/teku/commit/804ca4292dc21cb0012fdb2ab9dae81788d63c4f) - 2025-08-01
 * [Pull Request] [update fulu presets ](https://github.com/Consensys/teku/pull/9749) - 2025-08-06
 * [Issue] [ZKEVM L1 protpotype](https://github.com/Consensys/teku/issues/9829) - 2025-08-31
+* [Commit] [[Zkevm Proto] cli options (#9836)](https://github.com/Consensys/teku/commit/3bec846c45c5561ad0a1715eb1cbd5d3fbacbcc8) - 2025-09-04
 ## Q2 2025
 
 

@@ -226,6 +226,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [wip: handles a bug in receipt values when there's only 1 tx in the block (query + gen)](https://github.com/erigontech/erigon/pull/16971) - 2025-09-03
 * [Commit] [BuildMissedAccessors](https://github.com/erigontech/erigon/commit/7ce0ba04011f2a280113c3b0984405587899fcc4) - 2025-09-03
 * [Commit] [BuildMissedAccessors](https://github.com/erigontech/erigon/commit/a6b65d8838e0c499950f60326c7525d14e9e062e) - 2025-09-03
+* [Commit] [paged writer integration in forkables](https://github.com/erigontech/erigon/commit/790da7f9812f35542ce7292e713ed164556083c9) - 2025-09-04
+* [Commit] [rename simple_index_builder.go](https://github.com/erigontech/erigon/commit/2cf25f088ff7cdf7ce054b72ab5757fed34ba3b6) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/894eac1b02b8a78d1dfe19d0fb1a6aaf66924e15) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/74d7efe97a0f33c80b3c3e2a7c582c9110a07bed) - 2025-09-04
+* [Pull Request] [recsplit tmp file remove race condition](https://github.com/erigontech/erigon/pull/17010) - 2025-09-04
+* [Commit] [some fixes + seg index command](https://github.com/erigontech/erigon/commit/5a7609489dbc5541c155bdcb5375ca665a9a3ba3) - 2025-09-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

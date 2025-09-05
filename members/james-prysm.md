@@ -99,6 +99,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [changelog](https://github.com/OffchainLabs/prysm/commit/607dba6f0b235f457968a3c4875e7ccc0678f577) - 2025-09-02
 * [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/419ed74ab1cab61dec45881a8ed6ec5b689495e4) - 2025-09-02
 * [Commit] [updating unit tests for coverage](https://github.com/OffchainLabs/prysm/commit/ee1d1a81fd30edb6546e0d8099105b4021200011) - 2025-09-02
+* [Commit] [updating goethereum to temp use fusaka devnet 3 and updating genesis helpers](https://github.com/OffchainLabs/prysm/commit/6f0ffa2a20be64e218e5b48da5de1bb2a0f9b429) - 2025-09-04
 ## Q2 2025
 
 
