@@ -54,6 +54,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Compare Flattened hashes without Linq (#9101)](https://github.com/NethermindEth/nethermind/commit/0bc80c2fe7f6966a95c03cf1f7b4632cf0f95b96) - 2025-08-13
 * [Commit] [Update Nethermind.MclBindings package](https://github.com/NethermindEth/nethermind/commit/a66c83ddd420662d41c3f8f6156ed784c5d55446) - 2025-08-13
 * [Commit] [Update packages](https://github.com/NethermindEth/nethermind/commit/9410a88a4e6e190517eaeeb0e9c62186cabdcd59) - 2025-08-13
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/c178498a7d17b05a5381eeba0ec3cb3a4e9ef530) - 2025-09-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21

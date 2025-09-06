@@ -65,3 +65,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(gitignore): ignore test coverage and test artifacts](https://github.com/ethpandaops/lab/commit/57b0bf28a70796b9bad1ce14d3c33aa0bfac264d) - 2025-09-03
 * [Commit] [feat(cache): add SetNX and SetIfMatch atomic operations to cache interface](https://github.com/ethpandaops/lab/commit/3aab54fb11b9203c9295e7ec14f19586bdd16553) - 2025-09-03
 * [Commit] [test: remove early return after failed unlock in distributed lock test](https://github.com/ethpandaops/lab/commit/313afdd4f44950cb557c0b918e28b6c341539684) - 2025-09-03
+* [Commit] [refactor: upstream types renamed + better operator support in queries](https://github.com/ethpandaops/lab/commit/3027f102528bdb5de71a77ac7d0a46d428921365) - 2025-09-05
+* [Commit] [test(clickhouse): update test expectation for HTTP DSN with InsecureSkipVerify](https://github.com/ethpandaops/lab/commit/6777f24f597b5f584feff7ff44615fb1a72627c4) - 2025-09-05
+* [Commit] [test(xatu_cbt): skip tests when ClickHouse is unavailable](https://github.com/ethpandaops/lab/commit/096f5114c1d644ecd72702fedc9d33f71d26c8e6) - 2025-09-05
+* [Pull Request] [refactor: upstream types renamed + better operator support in queries](https://github.com/ethpandaops/lab/pull/54) - 2025-09-05
+* [Commit] [feat: add Xatu CBT service with network and node listing endpoints](https://github.com/ethpandaops/lab/commit/1f983099e454920632e4cce49d4fa357f03d2341) - 2025-09-05
+* [Commit] [feat: implement cbt](https://github.com/ethpandaops/lab/commit/fa35a695c661e545f22158bf7a3d1b40eca6fec4) - 2025-09-05

@@ -39,6 +39,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [feat(block-validator): add debug logging message for MaxRlpBlockSize (#9236)](https://github.com/NethermindEth/nethermind/commit/48e9eacaf7042c3072255529729718e432784f8d) - 2025-09-03
 * [Commit] [simplify](https://github.com/NethermindEth/nethermind/commit/5b709f1075f6c36ebd453c9a464c3df55f056b46) - 2025-09-04
 * [Pull Request] [Feature/issue 8454 add filenames to accumulator checksum refactor](https://github.com/NethermindEth/nethermind/pull/9247) - 2025-09-04
+* [Commit] [Fix simulate gas (#9244)](https://github.com/NethermindEth/nethermind/commit/ceadead0c35c208bf93b0e203056c3adc38ad35e) - 2025-09-05
 ## Q2 2025
 
 

@@ -152,6 +152,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump nim-kzg4844 to incorporated column id orderedness check](https://github.com/status-im/nimbus-eth2/commit/5c63568e6aa9bceb311900419b3015bf3cf6d437) - 2025-09-04
 * [Commit] [el_manager: simplify retry logic (#7447)](https://github.com/status-im/nimbus-eth2/commit/57affdae758c6daf578e6bfcfd7e969b045ff85a) - 2025-09-04
 * [Commit] [chronicles: bump (#7448)](https://github.com/status-im/nimbus-eth2/commit/d26b7604fddafcb4dd3cfb0955e0bb25d68712d7) - 2025-09-04
+* [Commit] [Bump vendor/hoodi from `3a17a5f` to `2573cf0` (#7454)](https://github.com/status-im/nimbus-eth2/commit/d18d8ad028c34e29f94311345e9f7716ad47ffdb) - 2025-09-05
+* [Commit] [Bump vendor/holesky from `099fee5` to `47b9fda` (#7456)](https://github.com/status-im/nimbus-eth2/commit/310d285a29dba80fab485b8407f5959681f49ec5) - 2025-09-05
+* [Commit] [Bump vendor/sepolia from `129de38` to `494b515` (#7455)](https://github.com/status-im/nimbus-eth2/commit/160f156f82f945310e868c71270fe73690d368a8) - 2025-09-05
+* [Pull Request] [implement gloas slot sanity and most of operation fixture support](https://github.com/status-im/nimbus-eth2/pull/7459) - 2025-09-05
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13
@@ -161,6 +165,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Discovery: Filter out non 'eth' nodes and regularly update 'eth' field. (#3593)](https://github.com/status-im/nimbus-eth1/commit/71de4402cf4e45f44618bb99c1ef726572247693) - 2025-08-28
 * [Commit] [NimbusVersion in one place for all version related code (#3609)](https://github.com/status-im/nimbus-eth1/commit/1ae79dc6034a6d11fceffcee8e8e5c76f62a5517) - 2025-08-31
 * [Commit] [Initial Amsterdam fork infrastructure (#3604)](https://github.com/status-im/nimbus-eth1/commit/77fce92bb8ab41082a2a0dc6ebe82a095134b255) - 2025-09-03
+* [Commit] [electra.ExecutionPayloadHeader is no more](https://github.com/status-im/nimbus-eth1/commit/a23a4acd5d60da3ee1a3ba151a3a3302bc410fa3) - 2025-09-05
+* [Commit] [restore access to EMPTY_UNCLE_HASH](https://github.com/status-im/nimbus-eth1/commit/058999a144f7d76d27d77a106f3f8cce050d137b) - 2025-09-05
+* [Pull Request] [bump nimbus-eth2 for gloas fork infrastructure adaptation](https://github.com/status-im/nimbus-eth1/pull/3631) - 2025-09-05
 ## Q2 2025
 
 

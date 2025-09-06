@@ -78,6 +78,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Start implementation of fromAccTrieNode.](https://github.com/status-im/nimbus-eth1/commit/376e952cf1673f43d24ce0f9c54154ad2126d752) - 2025-09-03
 * [Commit] [Return visited nodes in aristo verifyProof.](https://github.com/status-im/nimbus-eth1/commit/cf24800b5d45b823ff610d71d4549f6ab606b20c) - 2025-09-03
 * [Commit] [Commit progress.](https://github.com/status-im/nimbus-eth1/commit/1881cda582f0118a4dd7e2c4870b4026146a522f) - 2025-09-04
+* [Commit] [Add aristo subtries tests.](https://github.com/status-im/nimbus-eth1/commit/1f8604fc647ef49c24855b6ad695db0f399a4a70) - 2025-09-05
+* [Commit] [Implement fixes and cleanup.](https://github.com/status-im/nimbus-eth1/commit/96f036994e8169cb9571b18e8481c2ed7e79181a) - 2025-09-05
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

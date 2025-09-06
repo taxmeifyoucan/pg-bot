@@ -176,6 +176,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [omit NetworkScheduleEntry fields that are not part of BlobScheduleEntry (#15557)](https://github.com/OffchainLabs/prysm/commit/26cec9d9c7a6cc5e8d9f308964030f9c87120fcb) - 2025-08-29
 * [Commit] [Change error message (#15635)](https://github.com/OffchainLabs/prysm/commit/4a1ab709296366822dd12552e13f70eb27b19a56) - 2025-08-29
 * [Commit] [Initialize SSZ-QL package with support for fixed-size types (#15588)](https://github.com/OffchainLabs/prysm/commit/26d8b6b7869d0c1ee4cb6de27d7c9779b380c6b5) - 2025-08-29
+* [Commit] [Implement perfect peerdas syncing.](https://github.com/OffchainLabs/prysm/commit/92bdf2f325e2e14664908808cd8f6aab56626313) - 2025-09-05
+* [Commit] [`FetchDataColumnSidecars`: Switch mode.](https://github.com/OffchainLabs/prysm/commit/b31287bce8f714862f439128275b66babb9bd5ef) - 2025-09-05
+* [Commit] [Fix next epoch proposer duties (#15642)](https://github.com/OffchainLabs/prysm/commit/278b796e431f33b984ad53996f1375c6fde87f87) - 2025-09-05
 ## Q2 2025
 
 

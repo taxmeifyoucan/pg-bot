@@ -174,6 +174,9 @@ Team: Reth
 * [Pull Request] [perf: build local pending block without updates](https://github.com/paradigmxyz/reth/pull/18271) - 2025-09-04
 * [Pull Request] [chore: log prune settings on unwind](https://github.com/paradigmxyz/reth/pull/18270) - 2025-09-04
 * [Issue] [Install correct dev accounts for devmode](https://github.com/paradigmxyz/reth/issues/18265) - 2025-09-04
+* [Issue] [op-kurtosis genesis mismatch](https://github.com/paradigmxyz/reth/issues/18306) - 2025-09-05
+* [Issue] [Cache resolved payloads for a bit](https://github.com/paradigmxyz/reth/issues/18303) - 2025-09-05
+* [Pull Request] [fix: properly compute genesis hash](https://github.com/paradigmxyz/reth/pull/18300) - 2025-09-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

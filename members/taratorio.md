@@ -177,6 +177,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [tests: update teku to 25.9.1 to fix failing kurtosis ci (#17012)](https://github.com/erigontech/erigon/pull/17013) - 2025-09-04
 * [Commit] [[DO-NOT-MERGE] tests: update teku to 25.9.1 to fix failing kurtosis ci (#17012)](https://github.com/erigontech/erigon/commit/33555a0257e4986d283b566977c3e2fd605c5005) - 2025-09-04
 * [Pull Request] [[DO-NOT-MERGE] tests: update teku to 25.9.1 to fix failing kurtosis ci](https://github.com/erigontech/erigon/pull/17012) - 2025-09-04
+* [Issue] [fix 2 remaining failing tests for Hive engine withdrawals](https://github.com/erigontech/erigon/issues/17041) - 2025-09-05
+* [Commit] [add validation for input args](https://github.com/erigontech/erigon/commit/2d194f94a211c888298c26c519cbca3679fad189) - 2025-09-05
+* [Commit] [withdrawals 2 failing tests -consistently](https://github.com/erigontech/erigon/commit/722eaeda57b042795b6e813c14578a366e0220c0) - 2025-09-05
+* [Commit] [use ethereum/hive in eest tests](https://github.com/erigontech/erigon/commit/e76ca5b89ba2f62b5214136bae0f2eccaada1614) - 2025-09-05
+* [Pull Request] [workflows: stricter hive test pass rates](https://github.com/erigontech/erigon/pull/17038) - 2025-09-05
 ## Q2 2025
 
 

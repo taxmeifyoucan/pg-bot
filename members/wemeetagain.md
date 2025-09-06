@@ -100,6 +100,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: add slot and epoch validation to epoch committees endpoint (#7941)](https://github.com/ChainSafe/lodestar/commit/3795e32bb1870a13574db57d6eb420de8342d834) - 2025-09-04
 * [Commit] [fix: do not throw error when archive 0-blob block (#8319)](https://github.com/ChainSafe/lodestar/commit/9c2e6e097be5d23e787a72293255b5a66a1fad25) - 2025-09-04
 * [Commit] [fix: do not attempt to reconstruct builder blocks (#8317)](https://github.com/ChainSafe/lodestar/commit/9623b3e10e0cc6b95256af0537eb429f69435021) - 2025-09-04
+* [Commit] [fix: correct leveldb metrics (#8335)](https://github.com/ChainSafe/lodestar/commit/20292ec5ed3ec4f2b67a12485d8a442cf3a5644e) - 2025-09-05
+* [Commit] [fix: throw on duplicate add (#8326)](https://github.com/ChainSafe/lodestar/commit/cc933e5eed04937fbab2f51b90789e391e37c514) - 2025-09-05
 ## Q2 2025
 
 

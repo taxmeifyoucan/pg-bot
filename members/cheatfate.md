@@ -39,6 +39,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add loop pause when there is no work to do.](https://github.com/status-im/nimbus-eth2/commit/a5ebad9ecce93e2fee5bc8a99a905d7296de13d5) - 2025-09-03
 * [Commit] [Fix performance counter issues.](https://github.com/status-im/nimbus-eth2/commit/b92abd3aedfcbc4eb5017178c02f5c88332a3d52) - 2025-09-04
 * [Commit] [Add performance meters.](https://github.com/status-im/nimbus-eth2/commit/8099dc6a51830a53eac70ff44a0e323284f2be4a) - 2025-09-04
+* [Commit] [Fix missing dag access.](https://github.com/status-im/nimbus-eth2/commit/d4bd4242d13033cb2ba720e8ad15287ed38d29df) - 2025-09-05
+* [Commit] [Add more conditions to peerPause.](https://github.com/status-im/nimbus-eth2/commit/ea3f36b72438522a53a10bf9b8dc38489495f076) - 2025-09-05
 ## Q2 2025
 
 

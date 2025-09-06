@@ -101,6 +101,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Hive to load blocks before RPC start](https://github.com/NethermindEth/nethermind/pull/9224) - 2025-09-01
 * [Commit] [Hive to load blocks before RPC start (#9224)](https://github.com/NethermindEth/nethermind/commit/98300f9cc7350d6f3160f19bc21a3ce99954b8dd) - 2025-09-02
 * [Commit] [Fix syntax](https://github.com/NethermindEth/nethermind/commit/a7de957189e0cfb2b4a18fc40c5cdc6399b52a9a) - 2025-09-04
+* [Commit] [Return blockhash tests](https://github.com/NethermindEth/nethermind/commit/ce89b31cc55dba1c97884153ad999b4d58170e09) - 2025-09-05
+* [Commit] [Can be failing cause?](https://github.com/NethermindEth/nethermind/commit/cd31e1794ab56346579f635e9013e7cdd065eab1) - 2025-09-05
+* [Commit] [Fix evm slnx compilation](https://github.com/NethermindEth/nethermind/commit/019c00f5750b073126e7e31d113ef8698f2a268e) - 2025-09-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

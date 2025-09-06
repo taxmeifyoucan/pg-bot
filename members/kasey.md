@@ -73,6 +73,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [more verbose field names](https://github.com/OffchainLabs/prysm/commit/09634d2eb5453a4393642f116729d6fa7936705d) - 2025-09-03
 * [Commit] [revert dlv experiment](https://github.com/OffchainLabs/prysm/commit/ccee2e4df41a78f81f5636d43f57607f1a1a2e06) - 2025-09-03
 * [Commit] [provide data column storage to rpc handlers (#15606)](https://github.com/OffchainLabs/prysm/commit/08fb3812b7aac4cd68fb66793ec266ee099fd5c1) - 2025-09-03
+* [Commit] [refactor subscription code to enable peer discovery asap](https://github.com/OffchainLabs/prysm/commit/272a1922acf0cc04e898a55c0562356f67ef23e7) - 2025-09-05
+* [Pull Request] [refactor subscription code to enable peer discovery asap](https://github.com/OffchainLabs/prysm/pull/15660) - 2025-09-05
+* [Commit] [refactor subscription code to enable peer discovery asap](https://github.com/OffchainLabs/prysm/commit/30524724cd39651aedcf0810bfb189ad6cae6ee3) - 2025-09-05
 ## Q2 2025
 
 

@@ -29,6 +29,8 @@ Team: Nimbus
 * [Commit] [Beacon sync remove some test options (#3619)](https://github.com/status-im/nimbus-eth1/commit/c672d6e67dd2a9c52c1c81ab7a7be6de8ba855ed) - 2025-09-03
 * [Commit] [proxy: fee-based methods (#3613)](https://github.com/status-im/nimbus-eth1/commit/1c0af6fa45cdd458bc183907520db959f584ccbb) - 2025-09-03
 * [Pull Request] [Beacon sync remove some test options](https://github.com/status-im/nimbus-eth1/pull/3619) - 2025-09-03
+* [Commit] [Adjust EL-Portal integration to use Portal json-rpc client (#3630)](https://github.com/status-im/nimbus-eth1/commit/4597b4e130fdc5a9a95cbfe6a478d1d9326f7569) - 2025-09-05
+* [Pull Request] [Beacon sync maint update](https://github.com/status-im/nimbus-eth1/pull/3636) - 2025-09-05
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

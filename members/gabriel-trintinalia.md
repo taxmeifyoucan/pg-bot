@@ -57,6 +57,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [fix: reset ws before retrying block processing](https://github.com/hyperledger/besu/pull/9113) - 2025-08-27
 * [Pull Request] [Fix tracing world updater chain](https://github.com/hyperledger/besu/pull/9133) - 2025-08-28
 * [Commit] [Extend `CallParameter` for unsigned delegation (#9066)](https://github.com/hyperledger/besu/commit/50c3ee86e5f83dc9d6614978e57c3e4c6c3e6fb3) - 2025-09-04
+* [Pull Request] [feat(plugin-api): extend plugin api with status methods](https://github.com/hyperledger/besu/pull/9154) - 2025-09-05
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025

@@ -243,6 +243,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7773: Propose 2780](https://github.com/ethereum/EIPs/pull/10280) - 2025-09-04
+* [Pull Request] [Update EIP-2780: Add reference table](https://github.com/ethereum/EIPs/pull/10290) - 2025-09-05
+* [Pull Request] [Update EIP-2780: Change recommendation to 6k](https://github.com/ethereum/EIPs/pull/10289) - 2025-09-05
+* [Pull Request] [Update EIP-2780: improve wording and clarify](https://github.com/ethereum/EIPs/pull/10284) - 2025-09-05
+* [Pull Request] [Update EIP-2780: Refresh and modernize](https://github.com/ethereum/EIPs/pull/10283) - 2025-09-05
 ## Q2 2025
 
 

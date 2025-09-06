@@ -35,6 +35,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Change error message](https://github.com/OffchainLabs/prysm/pull/15635) - 2025-08-26
 * [Pull Request] [Fix next epoch proposer duties](https://github.com/OffchainLabs/prysm/pull/15642) - 2025-08-28
 
+* [Commit] [Changelog](https://github.com/OffchainLabs/prysm/commit/9b6db1d2fffd7124e6e82d209a56f65fd6ed9679) - 2025-09-05
+* [Pull Request] [Remove BLS change broadcasting at the fork](https://github.com/OffchainLabs/prysm/pull/15659) - 2025-09-05
 [prysmaticlabs/hashtree](https://github.com/prysmaticlabs/hashtree)
 * [Commit] [add HashByteSlice (#51)](https://github.com/OffchainLabs/hashtree/commit/f733b7698511b5498b722421a30ddf7e5066497c) - 2025-08-31
 ## Q2 2025

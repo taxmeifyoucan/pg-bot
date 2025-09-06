@@ -115,6 +115,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [TUI for Erigon](https://github.com/erigontech/erigon/issues/16954) - 2025-09-02
 * [Pull Request] [[WIP do not merge] building indexes on old files if have some](https://github.com/erigontech/erigon/pull/16984) - 2025-09-03
 * [Issue] [Invalid payload validator error on teku](https://github.com/erigontech/erigon/issues/16973) - 2025-09-03
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/206988119f6064b331517f0cc506086b280ed926) - 2025-09-05
+* [Pull Request] [[3.1] important CI fix of BF](https://github.com/erigontech/erigon/pull/17027) - 2025-09-05
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/8eb162e0f17d393cc2e1662373d55e0c2b9b7ae3) - 2025-09-05
 ## Q2 2025
 
 

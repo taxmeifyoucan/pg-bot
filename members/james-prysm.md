@@ -100,6 +100,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/419ed74ab1cab61dec45881a8ed6ec5b689495e4) - 2025-09-02
 * [Commit] [updating unit tests for coverage](https://github.com/OffchainLabs/prysm/commit/ee1d1a81fd30edb6546e0d8099105b4021200011) - 2025-09-02
 * [Commit] [updating goethereum to temp use fusaka devnet 3 and updating genesis helpers](https://github.com/OffchainLabs/prysm/commit/6f0ffa2a20be64e218e5b48da5de1bb2a0f9b429) - 2025-09-04
+* [Commit] [adding bad hash](https://github.com/OffchainLabs/prysm/commit/c7038e9c8417c507bcb53617d81829d9aff6a6be) - 2025-09-05
+* [Commit] [changelog and reverting something in configs](https://github.com/OffchainLabs/prysm/commit/20fa585754c0ed9de3b78d57962b1bcaa3170c8a) - 2025-09-05
+* [Commit] [fixing loader test](https://github.com/OffchainLabs/prysm/commit/c8a304ad94e6f38631b8807958f533d28e8dd55a) - 2025-09-05
+* [Commit] [fixing ethspecify](https://github.com/OffchainLabs/prysm/commit/de903040da07316c98cfbfd2f8bb002d6c017bfe) - 2025-09-05
+* [Commit] [fixing ethspecify](https://github.com/OffchainLabs/prysm/commit/d4487d5f1b811e77a4961e3a28793de85662be3e) - 2025-09-05
+* [Commit] [update ethspecify yml](https://github.com/OffchainLabs/prysm/commit/fd6398f78b5d5e2ee685ab5cb05c92b0ee232f39) - 2025-09-05
+* [Pull Request] [update to v1.6.0-alpha.6](https://github.com/OffchainLabs/prysm/pull/15658) - 2025-09-05
+* [Commit] [only fall back on 406](https://github.com/OffchainLabs/prysm/commit/61e3b667dccf48375fc116039e9aa6a74ff685a0) - 2025-09-05
 ## Q2 2025
 
 

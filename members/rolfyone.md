@@ -61,6 +61,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [updated reference tests to 1.6.0-alpha.6 (#9831)](https://github.com/Consensys/teku/commit/49ea13b94db623fa2c83feaf4d446eee3656bbbc) - 2025-09-01
 * [Issue] [re-enable `recover_cells_and_kzg_proofs_case_invalid_shuffled` ref tests](https://github.com/Consensys/teku/issues/9832) - 2025-09-01
 * [Pull Request] [updated reference tests to 1.6.0-alpha.6](https://github.com/Consensys/teku/pull/9831) - 2025-09-01
+* [Pull Request] [Persisted custody group count](https://github.com/Consensys/teku/pull/9854) - 2025-09-05
 ## Q2 2025
 
 

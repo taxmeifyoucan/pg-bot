@@ -89,6 +89,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix types](https://github.com/ChainSafe/lodestar/commit/671c39cf2a32a8032594e0c4abf52ccb19df9638) - 2025-09-04
 * [Commit] [Add comments for the wrapper](https://github.com/ChainSafe/lodestar/commit/817a1e7e03d8b7f85c607ec3d20dfd60a2d4d1d6) - 2025-09-04
 * [Pull Request] [feat: add pattern for runtime specific package dependencies](https://github.com/ChainSafe/lodestar/pull/8320) - 2025-09-04
+* [Commit] [Use be for encoding integer values into db keys](https://github.com/ChainSafe/lodestar/commit/18a2fea2fa05c6e8ab5a9876dcf0625f286b3732) - 2025-09-05
+* [Commit] [Fix the null check for the conditions](https://github.com/ChainSafe/lodestar/commit/870d1f7d6ddabb31f581f37d6477778b914c0389) - 2025-09-05
+* [Commit] [Update the condition for range check](https://github.com/ChainSafe/lodestar/commit/4933ef575d23d4070fd0ac7ca0513bd1b7bd044f) - 2025-09-05
+* [Pull Request] [fix: min key for the archive data columns](https://github.com/ChainSafe/lodestar/pull/8345) - 2025-09-05
+* [Commit] [Cleanup the logging](https://github.com/ChainSafe/lodestar/commit/186c63d3171440d8ec63850ffe0f741362b3111a) - 2025-09-05
 ## Q2 2025
 
 

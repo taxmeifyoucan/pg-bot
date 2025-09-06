@@ -95,6 +95,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Avoid requesting the header from the db twice for getEthBlock() (#3626)](https://github.com/status-im/nimbus-eth1/commit/b121b122dd9b10ef08a9ca9509aee04f6ed7d357) - 2025-09-04
 * [Pull Request] [Halve FC memory usage](https://github.com/status-im/nimbus-eth1/pull/3628) - 2025-09-04
 * [Issue] [Handle blocks that share transactions, when pruning FC](https://github.com/status-im/nimbus-eth1/issues/3627) - 2025-09-04
+* [Commit] [bump nimbus-eth2 for gloas fork infrastructure adaptation (#3631)](https://github.com/status-im/nimbus-eth1/commit/e18e5e33a22fb7f72a4123d27369321ee968feb5) - 2025-09-05
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21

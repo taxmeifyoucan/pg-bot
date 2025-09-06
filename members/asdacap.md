@@ -203,6 +203,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/2e271800c236285bd2b14755ba556cfb1027ebfb) - 2025-09-02
 * [Pull Request] [Refactor/move blocktree to di](https://github.com/NethermindEth/nethermind/pull/9230) - 2025-09-02
 * [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/90e36f5005c6e18beb23aa45d5d1ec9deb1e00ee) - 2025-09-02
+* [Pull Request] [Cleanup/remove unnecessary method](https://github.com/NethermindEth/nethermind/pull/9249) - 2025-09-05
+* [Commit] [Precompiles Extensibility through IReleaseSpec (#9222)](https://github.com/NethermindEth/nethermind/commit/94f221446e4f96eb8c4d8b2b9fa1656ea00ef7cc) - 2025-09-05
+* [Commit] [Cleanup/remove nodecommit info (#9155)](https://github.com/NethermindEth/nethermind/commit/964037b82315760d9327edf3de8cad36bf5b3f33) - 2025-09-05
+* [Commit] [Corrected sealing encoding XDC (#9238)](https://github.com/NethermindEth/nethermind/commit/25e3285ee51ba83b90a53b7e74719db756ed5f7e) - 2025-09-05
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

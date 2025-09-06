@@ -159,6 +159,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [lint](https://github.com/erigontech/erigon/commit/1283bf15bf63e64864e35e6f8c4d7f694509164c) - 2025-09-04
 * [Pull Request] [execution: simplify StateStep](https://github.com/erigontech/erigon/pull/17011) - 2025-09-04
 * [Commit] [execution: simplify StateStep](https://github.com/erigontech/erigon/commit/4dada2941f24dbf46a828aff342a2762dcaa0fa3) - 2025-09-04
+* [Commit] [params: version 3.0.16 (#17033)](https://github.com/erigontech/erigon/commit/4572967cb032d544fc618a63085218a299de8c7f) - 2025-09-05
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

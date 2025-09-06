@@ -203,6 +203,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [ fixes for blockchain statetest and valid blocks](https://github.com/bluealloy/revm/commit/336b4e0ab87716e747aef82b835e4382b57ad786) - 2025-09-01
 * [Pull Request] [feat(revme): ef blockchain tests cli](https://github.com/bluealloy/revm/pull/2935) - 2025-09-01
 * [Commit] [ fixes for blockchain statetest and valid blocks](https://github.com/bluealloy/revm/commit/b037cc31d6c736b4ac97d2d2d282f95112a0d861) - 2025-09-01
+* [Commit] [fix tests, add skipped blockchain tests](https://github.com/bluealloy/revm/commit/0b80456c82fa01cad1c7a660c0d707365be5e7f4) - 2025-09-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

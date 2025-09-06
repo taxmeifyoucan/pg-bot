@@ -232,6 +232,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/74d7efe97a0f33c80b3c3e2a7c582c9110a07bed) - 2025-09-04
 * [Pull Request] [recsplit tmp file remove race condition](https://github.com/erigontech/erigon/pull/17010) - 2025-09-04
 * [Commit] [some fixes + seg index command](https://github.com/erigontech/erigon/commit/5a7609489dbc5541c155bdcb5375ca665a9a3ba3) - 2025-09-04
+* [Commit] [wip: paged writer integration in forkables](https://github.com/erigontech/erigon/commit/d800ee7cbe65175051cfa5652e827c5d942782c3) - 2025-09-05
+* [Pull Request] [don't flock datadir in publishable cmd](https://github.com/erigontech/erigon/pull/17021) - 2025-09-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7d9f5b92f941a1699a7f166d5ba023eed5b04c12) - 2025-09-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ed1249ba9c379e3b3e4ebd9dc97524ff4606cb33) - 2025-09-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/6ce80a068327304e5ac7bb123b1a5aa435917878) - 2025-09-05
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

@@ -71,6 +71,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Avoid serving validator endpoints while the node is far behind syncing head](https://github.com/sigp/lighthouse/pull/7962) - 2025-08-29
 * [Pull Request] [Add `tls-roots` feature to `opentelemetry_otlp` to support exporting traces over https](https://github.com/sigp/lighthouse/pull/7987) - 2025-09-03
 * [Pull Request] [Add `getBlobsV1` and `getBlobsV2` support to mock el server](https://github.com/sigp/lighthouse/pull/7986) - 2025-09-03
+* [Pull Request] [Reduce noise in `Debug` impl of `RuntimeVariableList`](https://github.com/sigp/lighthouse/pull/8007) - 2025-09-05
 ## Q2 2025
 
 

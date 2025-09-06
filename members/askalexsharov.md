@@ -1186,6 +1186,16 @@ Team: Erigon
 * [Commit] [db: don't LoadSnapshotsHashes if NoDownloader (#17005)](https://github.com/erigontech/erigon/commit/7aacb38d89db45cc09566670991e5ef1d6fb4c96) - 2025-09-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/f26deb2a959bda5ed6b28f7280138ef41551dd72) - 2025-09-04
 * [Commit] [disable linters which don't give profit, or duplicated linters, add reasons of disabling  (#16999)](https://github.com/erigontech/erigon/commit/bab8f93fa7a39debcc4335a33bdf08cb16d4cbbf) - 2025-09-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aaaffbdb7b7a0a3dad9e8a702415745a8d12c96e) - 2025-09-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7e17bae7fba908caa9dc68409db1f9086312ce53) - 2025-09-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d1556bd4a09055c8723f08575d2f9b829333fe3d) - 2025-09-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/49e69b35373187747e6c67cc65d2dec3d417fd42) - 2025-09-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c727de635b5f045737ce6c31444536f73b88555b) - 2025-09-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/843ab9f95a7556a49d030aac72219011889f5fdc) - 2025-09-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/554fe294afebb669ee2f5ee3989629140ee43885) - 2025-09-05
+* [Commit] [execution/engineapi: enable bbd v2 (#16673)](https://github.com/erigontech/erigon/commit/1a91c24d0cfc420755139fd13ab025909440789c) - 2025-09-05
+* [Commit] [SharedDomains: less interface conversions of `tx` object (#16967)](https://github.com/erigontech/erigon/commit/bdb5ad710558a8027aaad730f044233feda74378) - 2025-09-05
+* [Commit] [agg: builder (#17000)](https://github.com/erigontech/erigon/commit/9af4b83d3ffa3c9ed19f3f06bcbba413cfb705d1) - 2025-09-05
 ## Q2 2025
 
 

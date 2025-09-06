@@ -113,6 +113,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: deserialization of db repository keys (#8310)](https://github.com/ChainSafe/lodestar/commit/7af21565397762334fa06b870490c5492f9a5046) - 2025-09-04
 * [Pull Request] [fix: do not throw error when archive 0-blob block](https://github.com/ChainSafe/lodestar/pull/8319) - 2025-09-04
 * [Commit] [fix: do not throw error when archive 0-blob block](https://github.com/ChainSafe/lodestar/commit/efabc7136af873446e85eeb0a6c3a1e4cbb0b38e) - 2025-09-04
+* [Commit] [fix: correct validateBlockDataColumnSidecars result mapping (#8328)](https://github.com/ChainSafe/lodestar/commit/9548fd57a248a979fcec463a76fb96c46d0ff010) - 2025-09-05
+* [Pull Request] [fix: correct leveldb metrics](https://github.com/ChainSafe/lodestar/pull/8335) - 2025-09-05
+* [Issue] [[block-input-refactor] db write abuse by allForks_dataColumnSidecars and unknown bucket](https://github.com/ChainSafe/lodestar/issues/8334) - 2025-09-05
+* [Issue] [[fusaka-devnet-3] failed to process finalized checkpoint due to block not found](https://github.com/ChainSafe/lodestar/issues/8332) - 2025-09-05
+* [Issue] [[block-input-refactor] OutOfMemory](https://github.com/ChainSafe/lodestar/issues/8331) - 2025-09-05
+* [Pull Request] [fix: request columns by peer custodied columns](https://github.com/ChainSafe/lodestar/pull/8330) - 2025-09-05
+* [Issue] [[block-input-refactor] Received a columnSidecar that was not requested](https://github.com/ChainSafe/lodestar/issues/8329) - 2025-09-05
+* [Pull Request] [fix: correct validateBlockDataColumnSidecars result mapping](https://github.com/ChainSafe/lodestar/pull/8328) - 2025-09-05
+* [Issue] [[block-input-refactor] not able to sync due to column block root mismatch](https://github.com/ChainSafe/lodestar/issues/8327) - 2025-09-05
+* [Pull Request] [fi:x throw on duplicate add](https://github.com/ChainSafe/lodestar/pull/8326) - 2025-09-05
+* [Issue] [[block-input-refactor]: not able to sync due to duplicate column error](https://github.com/ChainSafe/lodestar/issues/8325) - 2025-09-05
+* [Commit] [chore: track req/resp outgoing request error reason (#8283)](https://github.com/ChainSafe/lodestar/commit/2ac5250665e7dbe784733673440809b462e5c2b9) - 2025-09-05
 ## Q2 2025
 
 

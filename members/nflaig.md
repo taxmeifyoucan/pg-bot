@@ -136,6 +136,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: update minimal_config to latest spec (#8232)](https://github.com/ChainSafe/lodestar/commit/7f2271a1e2506bf30378da98a0f548290441bdc5) - 2025-09-02
 * [Commit] [test: upgrade sim tests to use post-electra images (#8303)](https://github.com/ChainSafe/lodestar/commit/11ca515d52fc4c7b8b07d33c83e670d01041441e) - 2025-09-02
 * [Commit] [fix: defer common block body production until next event loop (#8285)](https://github.com/ChainSafe/lodestar/commit/ac704f28d2af850a2e11d41324e8788d2aa0dc84) - 2025-09-02
+* [Commit] [Move to other properties in interface](https://github.com/ChainSafe/lodestar/commit/452f93ce052273fae849f6c1571ca44b70a5c052) - 2025-09-05
+* [Commit] [Add earliestAvailableSlot to log](https://github.com/ChainSafe/lodestar/commit/a5517fceae5048cc904fdac5e3f6daca2a110bcc) - 2025-09-05
+* [Commit] [Update packages/beacon-node/src/api/impl/debug/index.ts](https://github.com/ChainSafe/lodestar/commit/130e3be9d785ae54cc95eb4826788b8a05cda58c) - 2025-09-05
+* [Pull Request] [fix: update logs if block not found while handling unavailable data columns](https://github.com/ChainSafe/lodestar/pull/8337) - 2025-09-05
+* [Pull Request] [fix: properly handle fetching data columns from api if block has no blobs](https://github.com/ChainSafe/lodestar/pull/8336) - 2025-09-05
+* [Commit] [fix: properly handle fetching data columns from api if block has no blobs](https://github.com/ChainSafe/lodestar/commit/92d8eb6216d413ac17ec5ade78b3d29fa1f9210d) - 2025-09-05
+* [Issue] [[fusaka-devnet-3] error: Expected finalized block not found while handling unavailable dataColumnSidecar](https://github.com/ChainSafe/lodestar/issues/8333) - 2025-09-05
 ## Q2 2025
 
 

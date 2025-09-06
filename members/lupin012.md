@@ -89,6 +89,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration: fix in case of failed json-diff](https://github.com/erigontech/rpc-tests/pull/438) - 2025-08-20
 * [Pull Request] [integration: Fix in case of  failed jsondiff](https://github.com/erigontech/rpc-tests/pull/437) - 2025-08-20
 * [Pull Request] [run_test: fix on option verify_external-provider](https://github.com/erigontech/rpc-tests/pull/442) - 2025-08-25
+* [Pull Request] [integration_test: Fix exp rsp according geth](https://github.com/erigontech/rpc-tests/pull/446) - 2025-09-05
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

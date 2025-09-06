@@ -25,6 +25,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [update fulu presets ](https://github.com/Consensys/teku/pull/9749) - 2025-08-06
 * [Issue] [ZKEVM L1 protpotype](https://github.com/Consensys/teku/issues/9829) - 2025-08-31
 * [Commit] [[Zkevm Proto] cli options (#9836)](https://github.com/Consensys/teku/commit/3bec846c45c5561ad0a1715eb1cbd5d3fbacbcc8) - 2025-09-04
+* [Commit] [Update besu version used in ATs (#9856)](https://github.com/Consensys/teku/commit/faf42b60c9677d2e051b80d88c8a933408cdd9fc) - 2025-09-05
+* [Pull Request] [Update besu version used in ATs](https://github.com/Consensys/teku/pull/9856) - 2025-09-05
+* [Pull Request] [[Stateless Proto] Execution proof container](https://github.com/Consensys/teku/pull/9853) - 2025-09-05
 ## Q2 2025
 
 

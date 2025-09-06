@@ -82,6 +82,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update data directory defaults to include namespace, network (#7422)](https://github.com/status-im/nimbus-eth2/commit/14d54b0af2ceb19ace015d40455174b36a88c63b) - 2025-08-28
 * [Commit] [Bump nim-ssz-serialization (#7425)](https://github.com/status-im/nimbus-eth2/commit/e31713887042b555e7002900a35dd7f501d5f532) - 2025-08-29
 * [Pull Request] [simplify rman column logging + avoid duplicate missing columns in req…](https://github.com/status-im/nimbus-eth2/pull/7449) - 2025-09-04
+* [Commit] [chore: update web3 to new abi encoder / decoder (#7376)](https://github.com/status-im/nimbus-eth2/commit/b7567d9da004f94f76b43dae24a0c02e23b543e8) - 2025-09-05
+* [Pull Request] [fix vcus logging](https://github.com/status-im/nimbus-eth2/pull/7458) - 2025-09-05
 ## Q2 2025
 
 

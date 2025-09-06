@@ -40,6 +40,12 @@ Team: Grandine
 * [Pull Request] [HTTP API: allow to produce beacon blocks when beacon node is out of sync](https://github.com/grandinetech/grandine/pull/328) - 2025-08-28
 * [Commit] [Allow to processing long empty slot distances when preparing beacon state for block production](https://github.com/grandinetech/grandine/commit/e25e60297555d490ecdc1d1174f83eb76e4696ec) - 2025-08-28
 * [Pull Request] [Allow to processing long empty slot distances when preparing beacon state for block production](https://github.com/grandinetech/grandine/pull/326) - 2025-08-28
+* [Commit] [Optimize SSZ decoding](https://github.com/grandinetech/grandine/commit/933a1a67086193206783cd2e8b04a28eff73a84f) - 2025-09-05
+* [Commit] [Do not batch request missing data columns before PeerDAS](https://github.com/grandinetech/grandine/commit/628ebd116200fed14348ea4709b9d93fb9ec7f9b) - 2025-09-05
+* [Pull Request] [Do not batch request missing data columns before PeerDAS](https://github.com/grandinetech/grandine/pull/355) - 2025-09-05
+* [Commit] [Update README build instructions](https://github.com/grandinetech/grandine/commit/4428462a83eccc22a3b0fb528f2169e425fb38f6) - 2025-09-05
+* [Pull Request] [Update README build instructions](https://github.com/grandinetech/grandine/pull/354) - 2025-09-05
+* [Commit] [Add R0 and SP1 zkvm guest programs](https://github.com/grandinetech/grandine/commit/fb86ac63bfbaee123df18c51ad033364f1afec28) - 2025-09-05
 ## Q2 2025
 
 

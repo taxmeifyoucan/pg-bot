@@ -117,6 +117,12 @@ Team: Reth
 * [Commit] [wip](https://github.com/paradigmxyz/reth/commit/23b22c07445fc76cc39cc1efc637c1976af1f625) - 2025-08-17
 * [Issue] [Tracking: Performance Experimentations](https://github.com/paradigmxyz/reth/issues/17920) - 2025-08-18
 * [Issue] [Peer reputation change logs are too noisy](https://github.com/paradigmxyz/reth/issues/18234) - 2025-09-02
+* [Commit] [feat: support finding all matching storage slots for prefix searches](https://github.com/paradigmxyz/reth/commit/a6ad1f58f6931508b6755fe0ff4dc837fa030ad5) - 2025-09-05
+* [Commit] [feat: support finding all matching storage slots for prefix searches](https://github.com/paradigmxyz/reth/commit/b005c0ee2c0cf20ae21148cc57cb8cb173c540bf) - 2025-09-05
+* [Commit] [feat: support finding all matching storage slots for prefix searches](https://github.com/paradigmxyz/reth/commit/d9f432890a01e1bb89950ffadd95d7051bb2f0ff) - 2025-09-05
+* [Commit] [feat: add SearchTarget enum with hash and nibbles prefix support](https://github.com/paradigmxyz/reth/commit/fc2604a342d27284e31b1455503766e71170c45d) - 2025-09-05
+* [Commit] [feat: add SearchTarget enum with hash and nibbles prefix support](https://github.com/paradigmxyz/reth/commit/01ffa87685e265926865ef148c22aa388e9be837) - 2025-09-05
+* [Commit] [refactor: improve storage slot search to split B256 space](https://github.com/paradigmxyz/reth/commit/8cbe9b6b34b4849c53ba231f62da632952bfab87) - 2025-09-05
 ## Q2 2025
 
 

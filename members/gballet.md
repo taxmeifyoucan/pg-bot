@@ -55,6 +55,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [Polish binary tree implementations (#551)](https://github.com/gballet/go-ethereum/commit/123723b9da31624a10668165a54cf15922aba1af) - 2025-08-29
 
 * [Commit] [review feedback](https://github.com/gballet/go-ethereum/commit/e99e19a0d942a1744743558093f4164a3ac97bd8) - 2025-09-01
+* [Commit] [cmd/keeper: use hoodi block for example file](https://github.com/gballet/go-ethereum/commit/f9892c2fc31f1c35fc3c712f91e0cc5b6129d1af) - 2025-09-05
+* [Commit] [eth: add debug_executionWitness and an error check for the parent](https://github.com/gballet/go-ethereum/commit/8f7cb130d50754a5f8b314cf3c9fc1d576e1b883) - 2025-09-05
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [test(benchmark): implement CREATE2 addressing for bloatnet tests](https://github.com/ethereum/execution-spec-tests/pull/2090) - 2025-09-01
 ## Q2 2025
