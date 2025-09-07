@@ -177,6 +177,16 @@ Team: Reth
 * [Issue] [op-kurtosis genesis mismatch](https://github.com/paradigmxyz/reth/issues/18306) - 2025-09-05
 * [Issue] [Cache resolved payloads for a bit](https://github.com/paradigmxyz/reth/issues/18303) - 2025-09-05
 * [Pull Request] [fix: properly compute genesis hash](https://github.com/paradigmxyz/reth/pull/18300) - 2025-09-05
+* [Commit] [chore: delist unused deps with `cargo-machete` (#18259)](https://github.com/paradigmxyz/reth/commit/0cdd54838b4311e00a71606ce618d6869a2a0704) - 2025-09-06
+* [Commit] [test(optimism): Test that sequence stops before a gap (#18228)](https://github.com/paradigmxyz/reth/commit/44caf60afd4b717ef899b426625d8097d474fec8) - 2025-09-06
+* [Commit] [chore: remove check](https://github.com/paradigmxyz/reth/commit/a7d95b1dea236d474c3ccf563260cefa0986c399) - 2025-09-06
+* [Commit] [chore: clippy happy (#18310)](https://github.com/paradigmxyz/reth/commit/de24793b19f5c28e6871c57e38b23811f347fba2) - 2025-09-06
+* [Commit] [feat: introduce maybe_pending method to StateProviderFactory (#18260)](https://github.com/paradigmxyz/reth/commit/ef337d46a28eaeddd846d8eb75ce66f8531998f8) - 2025-09-06
+* [Commit] [chore: clippy happy](https://github.com/paradigmxyz/reth/commit/95afe6ade3df6502d0c7e1cfee31ae3e78b1e146) - 2025-09-06
+* [Commit] [chore: clippy happy](https://github.com/paradigmxyz/reth/commit/139ab2a944eb6a691fb09dc699864a0229d92612) - 2025-09-06
+* [Pull Request] [chore: clippy happy](https://github.com/paradigmxyz/reth/pull/18310) - 2025-09-06
+* [Commit] [perf(e2e-test-utils): optimize block checking by fetching header instead of full block (#18254)](https://github.com/paradigmxyz/reth/commit/63a912e31297efeb9b6030017146e29761e9c25b) - 2025-09-06
+* [Commit] [chore: fix various typos in comments and documentation (#18296)](https://github.com/paradigmxyz/reth/commit/62f03e41bce99b7b75acfbb8a67c586ca2bda7c6) - 2025-09-06
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

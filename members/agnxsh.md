@@ -84,6 +84,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [simplify rman column logging + avoid duplicate missing columns in req…](https://github.com/status-im/nimbus-eth2/pull/7449) - 2025-09-04
 * [Commit] [chore: update web3 to new abi encoder / decoder (#7376)](https://github.com/status-im/nimbus-eth2/commit/b7567d9da004f94f76b43dae24a0c02e23b543e8) - 2025-09-05
 * [Pull Request] [fix vcus logging](https://github.com/status-im/nimbus-eth2/pull/7458) - 2025-09-05
+* [Pull Request] [improve rman column start](https://github.com/status-im/nimbus-eth2/pull/7461) - 2025-09-06
+* [Commit] [improve rman column start](https://github.com/status-im/nimbus-eth2/commit/6616dd546f54824dd1f919f50fa060385fdcb4b2) - 2025-09-06
 ## Q2 2025
 
 

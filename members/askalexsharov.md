@@ -1196,6 +1196,7 @@ Team: Erigon
 * [Commit] [execution/engineapi: enable bbd v2 (#16673)](https://github.com/erigontech/erigon/commit/1a91c24d0cfc420755139fd13ab025909440789c) - 2025-09-05
 * [Commit] [SharedDomains: less interface conversions of `tx` object (#16967)](https://github.com/erigontech/erigon/commit/bdb5ad710558a8027aaad730f044233feda74378) - 2025-09-05
 * [Commit] [agg: builder (#17000)](https://github.com/erigontech/erigon/commit/9af4b83d3ffa3c9ed19f3f06bcbba413cfb705d1) - 2025-09-05
+* [Commit] [cp: don't flock datadir in publishable cmd (#17035)](https://github.com/erigontech/erigon/commit/b5ba7ed89f10d0df10f9f7b22490f31756019dc6) - 2025-09-06
 ## Q2 2025
 
 

@@ -237,6 +237,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7d9f5b92f941a1699a7f166d5ba023eed5b04c12) - 2025-09-05
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ed1249ba9c379e3b3e4ebd9dc97524ff4606cb33) - 2025-09-05
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6ce80a068327304e5ac7bb123b1a5aa435917878) - 2025-09-05
+* [Commit] [save](https://github.com/erigontech/erigon/commit/85564e1ac6d83afd5c25800fea0b28e3bfcb42cb) - 2025-09-06
+* [Commit] [paged writer integration in forkables](https://github.com/erigontech/erigon/commit/3d23301efbc03c84c243b831b420295f151ed8ad) - 2025-09-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

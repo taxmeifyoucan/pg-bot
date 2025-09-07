@@ -207,6 +207,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Precompiles Extensibility through IReleaseSpec (#9222)](https://github.com/NethermindEth/nethermind/commit/94f221446e4f96eb8c4d8b2b9fa1656ea00ef7cc) - 2025-09-05
 * [Commit] [Cleanup/remove nodecommit info (#9155)](https://github.com/NethermindEth/nethermind/commit/964037b82315760d9327edf3de8cad36bf5b3f33) - 2025-09-05
 * [Commit] [Corrected sealing encoding XDC (#9238)](https://github.com/NethermindEth/nethermind/commit/25e3285ee51ba83b90a53b7e74719db756ed5f7e) - 2025-09-05
+* [Commit] [Tuning](https://github.com/NethermindEth/nethermind/commit/af54713f966887e76aa72d303c9fc3af4c8415bc) - 2025-09-06
+* [Commit] [Reduce change](https://github.com/NethermindEth/nethermind/commit/b1323858ce0792b98acd281df38cdca5824802ad) - 2025-09-06
+* [Commit] [Reduce uneccessary change](https://github.com/NethermindEth/nethermind/commit/d8e3b21db928de61e54ab81bc5ee5fb42c73b7c9) - 2025-09-06
+* [Commit] [Precompiles Extensibility through IReleaseSpec (#9222)](https://github.com/NethermindEth/nethermind/commit/94f221446e4f96eb8c4d8b2b9fa1656ea00ef7cc) - 2025-09-06
+* [Commit] [Perf/Update Patricia.Get (#9221)](https://github.com/NethermindEth/nethermind/commit/1a719341993adb6ed831ce68f25385d85ecc6fa3) - 2025-09-06
+* [Commit] [Perf/Patricia set (#9220)](https://github.com/NethermindEth/nethermind/commit/67f8bf3853201d0afabd1590fd85ac211ba9be71) - 2025-09-06
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

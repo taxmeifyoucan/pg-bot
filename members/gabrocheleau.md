@@ -14,6 +14,11 @@ Team: EthereumJS
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementers Call #39 | July 28, 2025](https://github.com/ethereum/pm/issues/1627) - 2025-07-18
 * [Issue] [Stateless Implementers Call #40, August 11, 2025](https://github.com/ethereum/pm/issues/1672) - 2025-08-08
+
+* [Issue] [Stateless Implementers Call #42 | September 8, 2025](https://github.com/ethereum/pm/issues/1718) - 2025-09-06
+[ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
+* [Commit] [fix: linting](https://github.com/ethereumjs/ethereumjs-monorepo/commit/17de856b9399d4a1bd026a53929aed34ab58c9cd) - 2025-09-06
+* [Commit] [Extended modexp precompile debug messages (#4124)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/aa039fd77db31ac7f5488b9113668395ba567393) - 2025-09-06
 ## Q2 2025
 
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)

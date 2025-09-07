@@ -90,6 +90,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration: Fix in case of  failed jsondiff](https://github.com/erigontech/rpc-tests/pull/437) - 2025-08-20
 * [Pull Request] [run_test: fix on option verify_external-provider](https://github.com/erigontech/rpc-tests/pull/442) - 2025-08-25
 * [Pull Request] [integration_test: Fix exp rsp according geth](https://github.com/erigontech/rpc-tests/pull/446) - 2025-09-05
+* [Commit] [fix exp eth_getLogs gnosis](https://github.com/erigontech/rpc-tests/commit/8ce4ea9bca8c34edd23fd1b3a065053a3adb27b3) - 2025-09-06
+* [Commit] [undo change](https://github.com/erigontech/rpc-tests/commit/f10f9d6ed11e009b8208ab47b27284e2ca8e4032) - 2025-09-06
+* [Commit] [fix search invalid in cormer case](https://github.com/erigontech/rpc-tests/commit/6cf823efa038b1cfbec3669efac25e9a25ed573e) - 2025-09-06
+* [Commit] [fix exp result null](https://github.com/erigontech/rpc-tests/commit/18964d3b8ac07b38c86086abe748e05483735b94) - 2025-09-06
+* [Commit] [set exp as none](https://github.com/erigontech/rpc-tests/commit/48772b8e4a10220a1c7d29f597b59ce3894e4005) - 2025-09-06
+* [Commit] [fix algo](https://github.com/erigontech/rpc-tests/commit/42f2bcdd3488ab0233bf9fb72e2caa5f63a161c3) - 2025-09-06
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -179,6 +179,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Implement perfect peerdas syncing.](https://github.com/OffchainLabs/prysm/commit/92bdf2f325e2e14664908808cd8f6aab56626313) - 2025-09-05
 * [Commit] [`FetchDataColumnSidecars`: Switch mode.](https://github.com/OffchainLabs/prysm/commit/b31287bce8f714862f439128275b66babb9bd5ef) - 2025-09-05
 * [Commit] [Fix next epoch proposer duties (#15642)](https://github.com/OffchainLabs/prysm/commit/278b796e431f33b984ad53996f1375c6fde87f87) - 2025-09-05
+* [Commit] [Implement perfect peerdas syncing.](https://github.com/OffchainLabs/prysm/commit/d0a5b9c23354c8f0348919470d719a36f6a00984) - 2025-09-06
 ## Q2 2025
 
 

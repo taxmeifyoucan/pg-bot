@@ -125,6 +125,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fi:x throw on duplicate add](https://github.com/ChainSafe/lodestar/pull/8326) - 2025-09-05
 * [Issue] [[block-input-refactor]: not able to sync due to duplicate column error](https://github.com/ChainSafe/lodestar/issues/8325) - 2025-09-05
 * [Commit] [chore: track req/resp outgoing request error reason (#8283)](https://github.com/ChainSafe/lodestar/commit/2ac5250665e7dbe784733673440809b462e5c2b9) - 2025-09-05
+* [Pull Request] [fix: add bucketId to abstract_prefixed_repo](https://github.com/ChainSafe/lodestar/pull/8346) - 2025-09-06
 ## Q2 2025
 
 

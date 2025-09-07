@@ -210,6 +210,11 @@ Team: Erigon
 * [Commit] [core/vm: add one more modexp benchmark (#16950)](https://github.com/erigontech/erigon/commit/b24c80641f67adb9cf781e1071eb9685df0959b8) - 2025-09-03
 * [Commit] [add state root to files](https://github.com/erigontech/erigon/commit/3391b0efe76806ca4f3c22b6e11750684672ac26) - 2025-09-03
 * [Commit] [fixed test internal deps](https://github.com/erigontech/erigon/commit/0ff34738026fdc5483d81837556fe4d02eaff80d) - 2025-09-04
+* [Commit] [Engine API: more info in invalid blobsBundle error (#17028)](https://github.com/erigontech/erigon/commit/26f8169fec240b2219bf3a48448677b367d3513b) - 2025-09-06
+* [Commit] [update agg constructor](https://github.com/erigontech/erigon/commit/4f470b950a598e89631ec91f13b140e777374dc6) - 2025-09-06
+* [Commit] [re add state root to fies after merge](https://github.com/erigontech/erigon/commit/2bc7af8b629a6af03c05203aaf315e198cae4b6d) - 2025-09-06
+* [Commit] [fix genesis initilization for block 0](https://github.com/erigontech/erigon/commit/685ae4759bbd393c27d6bae818bc829b6d664e88) - 2025-09-06
+* [Commit] [fixed temporal tx passing](https://github.com/erigontech/erigon/commit/5db7da8d4ad9509a58f07288f3bb20fc0764257d) - 2025-09-06
 ## Q2 2025
 
 

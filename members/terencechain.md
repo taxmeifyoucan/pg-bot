@@ -81,6 +81,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Start from Justified checkpoint by default (#15636)](https://github.com/OffchainLabs/prysm/commit/349d9d2fd0b3a77f2dc56a330129803af82de0d2) - 2025-09-02
 * [Commit] [Add tests](https://github.com/OffchainLabs/prysm/commit/427d0add823a8ffa2650d575c2bcad292e49e385) - 2025-09-02
 * [Commit] [Add tests](https://github.com/OffchainLabs/prysm/commit/0df4dde6f0a8eba92594faf4cc5e6beec60d85c4) - 2025-09-02
+* [Pull Request] [Configure e2e preset with field parameters for testing environment](https://github.com/OffchainLabs/prysm/pull/15661) - 2025-09-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

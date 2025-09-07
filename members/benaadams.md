@@ -247,6 +247,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Update EIP-2780: Change recommendation to 6k](https://github.com/ethereum/EIPs/pull/10289) - 2025-09-05
 * [Pull Request] [Update EIP-2780: improve wording and clarify](https://github.com/ethereum/EIPs/pull/10284) - 2025-09-05
 * [Pull Request] [Update EIP-2780: Refresh and modernize](https://github.com/ethereum/EIPs/pull/10283) - 2025-09-05
+* [Pull Request] [Update EIP-2780: Rephrase](https://github.com/ethereum/EIPs/pull/10299) - 2025-09-07
+* [Pull Request] [Update 2780: Add rational to not price as calldata](https://github.com/ethereum/EIPs/pull/10295) - 2025-09-07
+* [Pull Request] [Update EIP-2780: Add solady tx](https://github.com/ethereum/EIPs/pull/10293) - 2025-09-06
 ## Q2 2025
 
 

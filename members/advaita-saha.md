@@ -68,6 +68,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [rename P256_VERIFY to P256VERIFY (#3616)](https://github.com/status-im/nimbus-eth1/commit/1571b6224d094229adc061e5814ffceffd1abbe0) - 2025-09-03
 * [Commit] [remove the simulator workflow (#3617)](https://github.com/status-im/nimbus-eth1/commit/4e2f9819cf3b600bf47ec9f6c43441bf69b76aca) - 2025-09-03
 * [Commit] [Add support for TOML config file (#3611)](https://github.com/status-im/nimbus-eth1/commit/01b5dcadc43669be39a1c8ca14b4e47a258b82d7) - 2025-09-03
+* [Commit] [disable lto and update constantine](https://github.com/status-im/nimbus-eth1/commit/515fa012d6a6658ec51ee7d09c43f6ef91c43d38) - 2025-09-06
+* [Commit] [proxy: fee-based methods (#3613)](https://github.com/status-im/nimbus-eth1/commit/1c0af6fa45cdd458bc183907520db959f584ccbb) - 2025-09-06
 ## Q2 2025
 
 

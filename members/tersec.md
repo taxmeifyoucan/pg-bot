@@ -156,6 +156,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Bump vendor/holesky from `099fee5` to `47b9fda` (#7456)](https://github.com/status-im/nimbus-eth2/commit/310d285a29dba80fab485b8407f5959681f49ec5) - 2025-09-05
 * [Commit] [Bump vendor/sepolia from `129de38` to `494b515` (#7455)](https://github.com/status-im/nimbus-eth2/commit/160f156f82f945310e868c71270fe73690d368a8) - 2025-09-05
 * [Pull Request] [implement gloas slot sanity and most of operation fixture support](https://github.com/status-im/nimbus-eth2/pull/7459) - 2025-09-05
+* [Commit] [improve rman column start (#7461)](https://github.com/status-im/nimbus-eth2/commit/170c45016b6cf999a7e993497411ca371aa8b58b) - 2025-09-06
+* [Commit] [watch, tower, watch](https://github.com/status-im/nimbus-eth2/commit/0fad13f80f3479dea8494d8935655e8cb599eb60) - 2025-09-06
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

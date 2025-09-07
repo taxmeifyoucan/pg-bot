@@ -143,6 +143,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: properly handle fetching data columns from api if block has no blobs](https://github.com/ChainSafe/lodestar/pull/8336) - 2025-09-05
 * [Commit] [fix: properly handle fetching data columns from api if block has no blobs](https://github.com/ChainSafe/lodestar/commit/92d8eb6216d413ac17ec5ade78b3d29fa1f9210d) - 2025-09-05
 * [Issue] [[fusaka-devnet-3] error: Expected finalized block not found while handling unavailable dataColumnSidecar](https://github.com/ChainSafe/lodestar/issues/8333) - 2025-09-05
+* [Commit] [More bucket udpates](https://github.com/ChainSafe/lodestar/commit/9b66b5b8221f73d114f7aefd33bd62effed5d159) - 2025-09-06
+* [Commit] [Fix bucket ids](https://github.com/ChainSafe/lodestar/commit/7d6e066684996d9bad7412d0294cc55f240c0c59) - 2025-09-06
+* [Pull Request] [fix: add bucketId to all db operations](https://github.com/ChainSafe/lodestar/pull/8347) - 2025-09-06
+* [Commit] [fix: add bucketId to abstract_prefixed_repo (#8346)](https://github.com/ChainSafe/lodestar/commit/8a8da6aa842d694a96b22755eb5c24e07b269446) - 2025-09-06
 ## Q2 2025
 
 
