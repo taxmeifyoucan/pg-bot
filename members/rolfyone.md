@@ -62,6 +62,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [re-enable `recover_cells_and_kzg_proofs_case_invalid_shuffled` ref tests](https://github.com/Consensys/teku/issues/9832) - 2025-09-01
 * [Pull Request] [updated reference tests to 1.6.0-alpha.6](https://github.com/Consensys/teku/pull/9831) - 2025-09-01
 * [Pull Request] [Persisted custody group count](https://github.com/Consensys/teku/pull/9854) - 2025-09-05
+* [Commit] [cleaned up JavaCase from databaseTest (#9861)](https://github.com/Consensys/teku/commit/214efc6a6fc4cc19e6437a74897779c8f0ef51ef) - 2025-09-08
+* [Commit] [fixed get-variables command (#9859)](https://github.com/Consensys/teku/commit/017c23f5222bade7bf7f8a2764bb78440e1bebb4) - 2025-09-08
+* [Pull Request] [cleaned up JavaCase from databaseTest](https://github.com/Consensys/teku/pull/9861) - 2025-09-07
+* [Pull Request] [Cleaned up CustodyGroupManagerImpl flow](https://github.com/Consensys/teku/pull/9860) - 2025-09-07
+* [Pull Request] [fixed get-variables command](https://github.com/Consensys/teku/pull/9859) - 2025-09-07
+* [Commit] [fix: guard against null Accept header in ResourceLoader.urlOrFile (#9825)](https://github.com/Consensys/teku/commit/f7ea884600069914feb7cc5ba09b0a4c918e1652) - 2025-09-07
 ## Q2 2025
 
 

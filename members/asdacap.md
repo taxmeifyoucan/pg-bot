@@ -213,6 +213,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Precompiles Extensibility through IReleaseSpec (#9222)](https://github.com/NethermindEth/nethermind/commit/94f221446e4f96eb8c4d8b2b9fa1656ea00ef7cc) - 2025-09-06
 * [Commit] [Perf/Update Patricia.Get (#9221)](https://github.com/NethermindEth/nethermind/commit/1a719341993adb6ed831ce68f25385d85ecc6fa3) - 2025-09-06
 * [Commit] [Perf/Patricia set (#9220)](https://github.com/NethermindEth/nethermind/commit/67f8bf3853201d0afabd1590fd85ac211ba9be71) - 2025-09-06
+* [Commit] [Move into patricia tree](https://github.com/NethermindEth/nethermind/commit/40141405760a120892dc6765ca9516d14c64036f) - 2025-09-07
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

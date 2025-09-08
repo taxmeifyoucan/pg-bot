@@ -158,6 +158,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [implement gloas slot sanity and most of operation fixture support](https://github.com/status-im/nimbus-eth2/pull/7459) - 2025-09-05
 * [Commit] [improve rman column start (#7461)](https://github.com/status-im/nimbus-eth2/commit/170c45016b6cf999a7e993497411ca371aa8b58b) - 2025-09-06
 * [Commit] [watch, tower, watch](https://github.com/status-im/nimbus-eth2/commit/0fad13f80f3479dea8494d8935655e8cb599eb60) - 2025-09-06
+* [Pull Request] [rm from sidecarless when rm'ing from orphans](https://github.com/status-im/nimbus-eth2/pull/7466) - 2025-09-07
+* [Commit] [Fix missing block hash check on engine timeout, clean up storeBlock (#7444)](https://github.com/status-im/nimbus-eth2/commit/2c5944bf9df5f092a666c35ca3ce4cce74e3921f) - 2025-09-07
+* [Commit] [gloas withdrawals operation (#7463)](https://github.com/status-im/nimbus-eth2/commit/e2b006abb4ed17aaa3b99bf7e11ade15977ca0a4) - 2025-09-07
+* [Commit] [don't use an x86-specific gcc/clang flag on non-x86 platforms (#7465)](https://github.com/status-im/nimbus-eth2/commit/0987bdf73365d5f5c409461a7ad2f46dfca08f1d) - 2025-09-07
+* [Commit] [add missing finalized field to getStateV2 (#7248)](https://github.com/status-im/nimbus-eth2/commit/f0d2c4fae9111e4246c7de2f88e939e7a52f49a8) - 2025-09-07
+* [Pull Request] [don't use an x86-specific gcc/clang flag on non-x86 platforms](https://github.com/status-im/nimbus-eth2/pull/7465) - 2025-09-07
+* [Commit] [rm remnants of Fulu/PeerDAS peer sampling support (#7462)](https://github.com/status-im/nimbus-eth2/commit/73a8ad20282e96f4cfbc099a6bd14591e01d270a) - 2025-09-07
+* [Pull Request] [rm remnants of Fulu/PeerDAS peer sampling support](https://github.com/status-im/nimbus-eth2/pull/7462) - 2025-09-07
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

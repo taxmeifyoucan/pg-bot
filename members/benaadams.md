@@ -250,6 +250,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Update EIP-2780: Rephrase](https://github.com/ethereum/EIPs/pull/10299) - 2025-09-07
 * [Pull Request] [Update 2780: Add rational to not price as calldata](https://github.com/ethereum/EIPs/pull/10295) - 2025-09-07
 * [Pull Request] [Update EIP-2780: Add solady tx](https://github.com/ethereum/EIPs/pull/10293) - 2025-09-06
+* [Pull Request] [Update 2780: Remove 8000](https://github.com/ethereum/EIPs/pull/10305) - 2025-09-07
+* [Pull Request] [Update EIP-2780: Add equivalent gas‑limit increase](https://github.com/ethereum/EIPs/pull/10304) - 2025-09-07
+* [Pull Request] [Update 2780: Add graph](https://github.com/ethereum/EIPs/pull/10301) - 2025-09-07
+* [Pull Request] [Update EIP-2780: Formatting](https://github.com/ethereum/EIPs/pull/10300) - 2025-09-07
 ## Q2 2025
 
 

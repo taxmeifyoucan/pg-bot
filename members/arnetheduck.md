@@ -188,6 +188,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fixups](https://github.com/status-im/nimbus-eth2/commit/c806893876a093fd62d81801e67b8b9cf890d78d) - 2025-09-01
 * [Pull Request] [Add metric for last seen execution block number](https://github.com/status-im/nimbus-eth2/pull/7440) - 2025-09-01
 * [Pull Request] [el_manager: clean up some engine encoding code](https://github.com/status-im/nimbus-eth2/pull/7439) - 2025-09-01
+* [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/67470517457502d4bf9d8cffab242ccfbcb22e71) - 2025-09-07
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/a39d3b5b198a37cb5542533a5215e5620b573134) - 2025-09-07
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

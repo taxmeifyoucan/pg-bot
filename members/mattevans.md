@@ -71,3 +71,6 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [refactor: upstream types renamed + better operator support in queries](https://github.com/ethpandaops/lab/pull/54) - 2025-09-05
 * [Commit] [feat: add Xatu CBT service with network and node listing endpoints](https://github.com/ethpandaops/lab/commit/1f983099e454920632e4cce49d4fa357f03d2341) - 2025-09-05
 * [Commit] [feat: implement cbt](https://github.com/ethpandaops/lab/commit/fa35a695c661e545f22158bf7a3d1b40eca6fec4) - 2025-09-05
+* [Commit] [feat: add cartographoor support](https://github.com/ethpandaops/lab/commit/cc8bbc2484f2d7ff293a04678eb5dd953f86976d) - 2025-09-08
+* [Pull Request] [feat: add cartographoor support](https://github.com/ethpandaops/lab/pull/56) - 2025-09-08
+* [Pull Request] [release: cbt support](https://github.com/ethpandaops/lab/pull/55) - 2025-09-07

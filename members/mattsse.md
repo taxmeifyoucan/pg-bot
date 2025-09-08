@@ -187,6 +187,8 @@ Team: Reth
 * [Pull Request] [chore: clippy happy](https://github.com/paradigmxyz/reth/pull/18310) - 2025-09-06
 * [Commit] [perf(e2e-test-utils): optimize block checking by fetching header instead of full block (#18254)](https://github.com/paradigmxyz/reth/commit/63a912e31297efeb9b6030017146e29761e9c25b) - 2025-09-06
 * [Commit] [chore: fix various typos in comments and documentation (#18296)](https://github.com/paradigmxyz/reth/commit/62f03e41bce99b7b75acfbb8a67c586ca2bda7c6) - 2025-09-06
+* [Commit] [chore: unify engine downloader targets (#18248)](https://github.com/paradigmxyz/reth/commit/1d7fefecec21c06bfaf4936b9ce68dfe0da7cfab) - 2025-09-07
+* [Commit] [chore(deps): weekly `cargo update` (#18312)](https://github.com/paradigmxyz/reth/commit/2e06bbc80f24f6e5e28432b2c2fe065ec717cedb) - 2025-09-07
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

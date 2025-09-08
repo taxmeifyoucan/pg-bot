@@ -82,6 +82,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add tests](https://github.com/OffchainLabs/prysm/commit/427d0add823a8ffa2650d575c2bcad292e49e385) - 2025-09-02
 * [Commit] [Add tests](https://github.com/OffchainLabs/prysm/commit/0df4dde6f0a8eba92594faf4cc5e6beec60d85c4) - 2025-09-02
 * [Pull Request] [Configure e2e preset with field parameters for testing environment](https://github.com/OffchainLabs/prysm/pull/15661) - 2025-09-06
+* [Commit] [Fix tests](https://github.com/OffchainLabs/prysm/commit/c4e726877a1b316d83d65b2b8351b0ea82fc19f0) - 2025-09-07
+* [Commit] [Update beacon-chain/sync/kzg_batch_verifier_test.go](https://github.com/OffchainLabs/prysm/commit/b94f73b870edad5d5b7901de807ba67fcd004e12) - 2025-09-07
+* [Commit] [Update beacon-chain/sync/kzg_batch_verifier_test.go](https://github.com/OffchainLabs/prysm/commit/4ccccbc89d95fb234f995cc24f8718accaaa08a4) - 2025-09-07
+* [Commit] [Update beacon-chain/sync/kzg_batch_verifier_test.go](https://github.com/OffchainLabs/prysm/commit/47aebb4d24a2e68792e5d7e5d97c3dce66937315) - 2025-09-07
+* [Commit] [Update beacon-chain/sync/kzg_batch_verifier_test.go](https://github.com/OffchainLabs/prysm/commit/eeef7a4c93d35a178586ca9c25092496bdd6d9d1) - 2025-09-07
+* [Commit] [Update beacon-chain/sync/kzg_batch_verifier_test.go](https://github.com/OffchainLabs/prysm/commit/cc48c7055e573cfd2bda0408195d7e286cb2ff37) - 2025-09-07
+* [Commit] [Update beacon-chain/sync/batch_verifier.go](https://github.com/OffchainLabs/prysm/commit/ff4a28db2dc80c357afd44a7c61866de97c08af8) - 2025-09-07
+* [Commit] [Update beacon-chain/sync/batch_verifier.go](https://github.com/OffchainLabs/prysm/commit/68430a25913acfe9ae33fd991c4d4230c075706b) - 2025-09-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

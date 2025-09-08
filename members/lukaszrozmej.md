@@ -40,6 +40,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [simplify](https://github.com/NethermindEth/nethermind/commit/5b709f1075f6c36ebd453c9a464c3df55f056b46) - 2025-09-04
 * [Pull Request] [Feature/issue 8454 add filenames to accumulator checksum refactor](https://github.com/NethermindEth/nethermind/pull/9247) - 2025-09-04
 * [Commit] [Fix simulate gas (#9244)](https://github.com/NethermindEth/nethermind/commit/ceadead0c35c208bf93b0e203056c3adc38ad35e) - 2025-09-05
+* [Commit] [Update OP Superchain chains (#9253)](https://github.com/NethermindEth/nethermind/commit/aeebe91fb1cc9713dbd16e63cc5eae25b55f405e) - 2025-09-07
+* [Commit] [Auto-update fast sync settings (#9252)](https://github.com/NethermindEth/nethermind/commit/fdcd8c0d0ecba4e049c8cb6cd88df9424f4a2cbb) - 2025-09-07
 ## Q2 2025
 
 
