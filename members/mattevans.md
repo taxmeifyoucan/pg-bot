@@ -74,3 +74,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: add cartographoor support](https://github.com/ethpandaops/lab/commit/cc8bbc2484f2d7ff293a04678eb5dd953f86976d) - 2025-09-08
 * [Pull Request] [feat: add cartographoor support](https://github.com/ethpandaops/lab/pull/56) - 2025-09-08
 * [Pull Request] [release: cbt support](https://github.com/ethpandaops/lab/pull/55) - 2025-09-07
+* [Commit] [feat: introduce REST API v1 client and dual-URL configuration](https://github.com/ethpandaops/lab/commit/6b6e86cebbc728b46c4df5aa854cccc50811dd55) - 2025-09-08
+* [Pull Request] [feat: introduce REST API v1 client and dual-URL configuration](https://github.com/ethpandaops/lab/pull/58) - 2025-09-08
+* [Commit] [chore(.golangci.yml): remove deprecated skip-dirs and skip-dirs-use-default options](https://github.com/ethpandaops/lab/commit/2e343fd88cdb8acb0c2b130361e45950eccba3d5) - 2025-09-08
+* [Commit] [chore(golangci): skip vendor directory during linting](https://github.com/ethpandaops/lab/commit/b226fe2cfe870d6aea2af7ced11f349c0721a5bb) - 2025-09-08
+* [Commit] [feat(deps): bump xatu-cbt to 20250908014536-8113103a9e9d](https://github.com/ethpandaops/lab/commit/7cf1506263f7d8123cf24c61bab6987fa68a68dd) - 2025-09-08
+* [Pull Request] [feat(deps): bump xatu-cbt + regen](https://github.com/ethpandaops/lab/pull/57) - 2025-09-08

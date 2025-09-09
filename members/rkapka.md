@@ -54,6 +54,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Pull Request] [Update Github bug template](https://github.com/OffchainLabs/prysm/pull/15623) - 2025-08-22
 * [Issue] [test](https://github.com/OffchainLabs/prysm/issues/15622) - 2025-08-22
 * [Commit] [remove parallelization](https://github.com/OffchainLabs/prysm/commit/3e4a35e1051ea6fe1a509577726e772f778fa048) - 2025-08-27
+* [Commit] [Fix next epoch proposer duties (#15642)](https://github.com/OffchainLabs/prysm/commit/278b796e431f33b984ad53996f1375c6fde87f87) - 2025-09-08
 ## Q2 2025
 
 

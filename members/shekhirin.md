@@ -123,6 +123,8 @@ Team: Reth
 * [Commit] [feat: add SearchTarget enum with hash and nibbles prefix support](https://github.com/paradigmxyz/reth/commit/fc2604a342d27284e31b1455503766e71170c45d) - 2025-09-05
 * [Commit] [feat: add SearchTarget enum with hash and nibbles prefix support](https://github.com/paradigmxyz/reth/commit/01ffa87685e265926865ef148c22aa388e9be837) - 2025-09-05
 * [Commit] [refactor: improve storage slot search to split B256 space](https://github.com/paradigmxyz/reth/commit/8cbe9b6b34b4849c53ba231f62da632952bfab87) - 2025-09-05
+* [Pull Request] [ci: pin Rust to 1.88 when building for Windows in Cross](https://github.com/paradigmxyz/reth/pull/18320) - 2025-09-08
+* [Pull Request] [refactor(engine): persistence logic](https://github.com/paradigmxyz/reth/pull/18318) - 2025-09-08
 ## Q2 2025
 
 

@@ -59,6 +59,8 @@ Team: Grandine
 * [Pull Request] [Refine `should_retry_block` condition after accepting data column](https://github.com/grandinetech/grandine/pull/353) - 2025-09-05
 * [Commit] [Update consensus-spec-tests to v1.6.0-alpha.6 (#335)](https://github.com/grandinetech/grandine/commit/b9d0709a6e68588a1a882e77f282d8e6238eb25e) - 2025-09-05
 * [Commit] [Add `Store::is_reconstruction_enabled`](https://github.com/grandinetech/grandine/commit/6f48c8a51e54e5bd3878496492418fd7c9672693) - 2025-09-05
+* [Issue] [Single reconstruction at a time](https://github.com/grandinetech/grandine/issues/357) - 2025-09-08
+* [Pull Request] [Use `u64::checked_div` when calculating `max_slot_head`](https://github.com/grandinetech/grandine/pull/356) - 2025-09-08
 ## Q2 2025
 
 

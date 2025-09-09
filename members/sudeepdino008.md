@@ -241,6 +241,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [paged writer integration in forkables](https://github.com/erigontech/erigon/commit/3d23301efbc03c84c243b831b420295f151ed8ad) - 2025-09-06
 * [Commit] [add randomness to temp file names - to remove race condition (#17010) (#17036)](https://github.com/erigontech/erigon/commit/df3c32b50ab3cdb2ab2b29639a3f3b3b26159a89) - 2025-09-07
 * [Commit] [save](https://github.com/erigontech/erigon/commit/41fa851be7d1344e4c2a71f5cbb849d91e95a922) - 2025-09-07
+* [Commit] [Rely on schema for key referencing in commitment branches (#16858)](https://github.com/erigontech/erigon/commit/572471d8d47a674d8e9deae41a4ced13453b07f8) - 2025-09-08
+* [Commit] [freezer, accessor builder and query exploiting metadata](https://github.com/erigontech/erigon/commit/7374ca85e2c16129f2d4f654e314a2a91da00951) - 2025-09-08
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

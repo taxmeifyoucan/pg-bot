@@ -67,12 +67,15 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [Chore: Batch fmt after dir changes (#15772)](https://github.com/erigontech/erigon/commit/a0033880780ba306317c947aa1ba24dd27e495ad) - 2025-08-29
 * [Commit] [integration: fix database not initialized in run_migrations](https://github.com/erigontech/erigon/commit/3689945cffdfc24221f7838580bbd906194a9e28) - 2025-09-01
 * [Commit] [qa-tests: enable RPC Integration Tests at latest block on PR (#16964)](https://github.com/erigontech/erigon/commit/bc7d88a7b0f2d1fba5d39907b3e1747b40944d51) - 2025-09-04
+* [Commit] [refactor and complete implementation](https://github.com/erigontech/erigon/commit/81b1fce0ec434fbec562486e2e1119571f01efce) - 2025-09-08
+* [Pull Request] [qa_tests: fix the expected rsp format in RPC Integration Tests](https://github.com/erigontech/erigon/pull/17051) - 2025-09-08
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14
 * [Commit] [performance: add eth_getProof pattern (#432)](https://github.com/erigontech/rpc-tests/commit/8a2ee5cbb257db4472a2cab6444083520174ea49) - 2025-08-14
 * [Commit] [integration: add arbitrum suite for sepolia (#436)](https://github.com/erigontech/rpc-tests/commit/0de13334912ef3b63b7b37567388ab8368df6c16) - 2025-08-21
 * [Commit] [integration: fix verify-external-provider option in test runner (#442)](https://github.com/erigontech/rpc-tests/commit/eef8fee0feb180b6d4119a0ea1c065c0e925d2b0) - 2025-08-25
+* [Commit] [integration: fix corrupted expected responses + some results wrt geth (#446)](https://github.com/erigontech/rpc-tests/commit/a5fc9e96cbc9a947788c58f83cd8aa9cdcd6a3ed) - 2025-09-08
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -126,6 +126,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[block-input-refactor]: not able to sync due to duplicate column error](https://github.com/ChainSafe/lodestar/issues/8325) - 2025-09-05
 * [Commit] [chore: track req/resp outgoing request error reason (#8283)](https://github.com/ChainSafe/lodestar/commit/2ac5250665e7dbe784733673440809b462e5c2b9) - 2025-09-05
 * [Pull Request] [fix: add bucketId to abstract_prefixed_repo](https://github.com/ChainSafe/lodestar/pull/8346) - 2025-09-06
+* [Commit] [fix: apply code review](https://github.com/ChainSafe/lodestar/commit/ed6877cacd52204964eae8ef9681521968d02f40) - 2025-09-08
+* [Pull Request] [Te/block input sync error metrics](https://github.com/ChainSafe/lodestar/pull/8352) - 2025-09-08
+* [Commit] [fix: add missingIndices to NOT_ENOUGH_SIDECARS_RECEIVED](https://github.com/ChainSafe/lodestar/commit/674ba04d8213e7b28990eae64ab627bada42fdd0) - 2025-09-08
+* [Pull Request] [fix: new error code NOT_ENOUGH_SIDECARS_RECEIVED](https://github.com/ChainSafe/lodestar/pull/8351) - 2025-09-08
+* [Issue] [[block-input-refactor] DOWNLOAD_BY_ROOT_ERROR_MISSING_BLOCK_RESPONSE](https://github.com/ChainSafe/lodestar/issues/8350) - 2025-09-08
 ## Q2 2025
 
 

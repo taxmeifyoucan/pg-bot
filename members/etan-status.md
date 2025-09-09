@@ -31,6 +31,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add EIP-7916 ProgressiveBitlist specs and tests](https://github.com/ethereum/consensus-specs/pull/4480) - 2025-07-31
 * [Pull Request] [Simplify p2p-interface specs for handling ForkDigest](https://github.com/ethereum/consensus-specs/pull/4491) - 2025-08-06
 * [Pull Request] [eip7495: add ProgressiveContainer specs and tests](https://github.com/ethereum/consensus-specs/pull/4529) - 2025-08-25
+* [Pull Request] [Simplify Electra light client specs](https://github.com/ethereum/consensus-specs/pull/4567) - 2025-09-08
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/8ae1a04d0a47f89002a42687e631c96345ca99fc) - 2025-07-25
 * [Commit] [Fix lfs.fetchexclude for Windows](https://github.com/status-im/nimbus-eth2/commit/06cb044f6a6a2041935e95ec951c50765cd6f1dc) - 2025-07-25
@@ -74,6 +75,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-ssz-serialization](https://github.com/status-im/nimbus-eth2/pull/7416) - 2025-08-25
 * [Commit] [make message router + engineBid fulu compliant (#7414)](https://github.com/status-im/nimbus-eth2/commit/cf32a6c958fba11bb845526134f832d737699a48) - 2025-08-28
 * [Pull Request] [Bump nim-ssz-serialization](https://github.com/status-im/nimbus-eth2/pull/7425) - 2025-08-28
+* [Commit] [Lint](https://github.com/status-im/nimbus-eth2/commit/c1d0bd4c896af01e407b4d28b2af8332aa8fd9c6) - 2025-09-08
+* [Pull Request] [Use BPO specific gossip channels and SSZ REST contexts for light client](https://github.com/status-im/nimbus-eth2/pull/7471) - 2025-09-08
+* [Commit] [Use BPO specific gossip channels and SSZ REST contexts for light client](https://github.com/status-im/nimbus-eth2/commit/76d84741c85a3dc6f899f3bd2e8c52ec1051db2c) - 2025-09-08
+* [Commit] [Use BPO specific gossip channels and SSZ REST contexts for light client](https://github.com/status-im/nimbus-eth2/commit/7a7e30b664efbf1c6c8e3bfac93d9f009e4a9d2f) - 2025-09-08
+* [Pull Request] [Auto bump nim-sqlite3-abi](https://github.com/status-im/nimbus-eth2/pull/7470) - 2025-09-08
 ## Q2 2025
 
 

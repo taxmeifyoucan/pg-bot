@@ -96,6 +96,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Halve FC memory usage](https://github.com/status-im/nimbus-eth1/pull/3628) - 2025-09-04
 * [Issue] [Handle blocks that share transactions, when pruning FC](https://github.com/status-im/nimbus-eth1/issues/3627) - 2025-09-04
 * [Commit] [bump nimbus-eth2 for gloas fork infrastructure adaptation (#3631)](https://github.com/status-im/nimbus-eth1/commit/e18e5e33a22fb7f72a4123d27369321ee968feb5) - 2025-09-05
+* [Commit] [Logging cleanups (#3643)](https://github.com/status-im/nimbus-eth1/commit/43762789d66e6a85f79189e7cf8affdddfabe272) - 2025-09-08
+* [Commit] [Logging cleanups](https://github.com/status-im/nimbus-eth1/commit/240564e2b1794297e3f8fded9c695b00442920c4) - 2025-09-08
+* [Commit] [Adjust EL-Portal integration to use Portal json-rpc client (#3630)](https://github.com/status-im/nimbus-eth1/commit/4597b4e130fdc5a9a95cbfe6a478d1d9326f7569) - 2025-09-08
+* [Issue] [Empty bootstrap nodes on startup](https://github.com/status-im/nimbus-eth1/issues/3644) - 2025-09-08
+* [Pull Request] [Logging cleanups](https://github.com/status-im/nimbus-eth1/pull/3643) - 2025-09-08
+* [Commit] [Logging cleanups](https://github.com/status-im/nimbus-eth1/commit/68987088644891f85c143e95f60f07dab890130f) - 2025-09-08
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -190,6 +196,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [el_manager: clean up some engine encoding code](https://github.com/status-im/nimbus-eth2/pull/7439) - 2025-09-01
 * [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/67470517457502d4bf9d8cffab242ccfbcb22e71) - 2025-09-07
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/a39d3b5b198a37cb5542533a5215e5620b573134) - 2025-09-07
+* [Commit] [nicer url, upper-case OptimisticStatus (for logging)](https://github.com/status-im/nimbus-eth2/commit/f78cb7632ce9b3362046d7d40df1dcca9f1a19d6) - 2025-09-08
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

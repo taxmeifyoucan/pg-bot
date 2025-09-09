@@ -215,6 +215,8 @@ Team: Erigon
 * [Commit] [re add state root to fies after merge](https://github.com/erigontech/erigon/commit/2bc7af8b629a6af03c05203aaf315e198cae4b6d) - 2025-09-06
 * [Commit] [fix genesis initilization for block 0](https://github.com/erigontech/erigon/commit/685ae4759bbd393c27d6bae818bc829b6d664e88) - 2025-09-06
 * [Commit] [fixed temporal tx passing](https://github.com/erigontech/erigon/commit/5db7da8d4ad9509a58f07288f3bb20fc0764257d) - 2025-09-06
+* [Commit] [add handle trie root error to parallel flow](https://github.com/erigontech/erigon/commit/393d3eb9be93a2e4ab5aa97c2ad7c79c52a95eee) - 2025-09-08
+* [Commit] [don't commit on error](https://github.com/erigontech/erigon/commit/439e7926d7cd4cbc244c480c8760e03e4570c195) - 2025-09-08
 ## Q2 2025
 
 

@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Commit] [Make improvements to Peer Task Executor system to match performance of old system (#9009)](https://github.com/hyperledger/besu/commit/0a37b9c148b296cf82900fb7c481afcbb0fc4cdb) - 2025-08-14
 * [Pull Request] [Implement era1 file export](https://github.com/hyperledger/besu/pull/9081) - 2025-08-14
 * [Pull Request] [Add a quick fix to avoid "Comparison method violates its general contract"](https://github.com/hyperledger/besu/pull/9107) - 2025-08-25
+* [Commit] [Add a quick fix to test (#9107)](https://github.com/hyperledger/besu/commit/994694277cc69673256285a27b1b4d25fd9f2498) - 2025-09-08
 ## Q2 2025
 
 

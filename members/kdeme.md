@@ -40,6 +40,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revert "Re-enable uTP test job on Portal CI (#3625)"](https://github.com/status-im/nimbus-eth1/pull/3629) - 2025-09-04
 * [Pull Request] [Avoid requesting the header from the db twice for getEthBlock()](https://github.com/status-im/nimbus-eth1/pull/3626) - 2025-09-04
 * [Commit] [Re-enable uTP test job on Portal CI (#3625)](https://github.com/status-im/nimbus-eth1/commit/302fef538e4469b4603f68f91a85676c9bca07bc) - 2025-09-04
+* [Commit] [Add EL debug_getBlockHeader and use for Portal block verification](https://github.com/status-im/nimbus-eth1/commit/95f52214a916bd450693fb229a0606dcc65b8daa) - 2025-09-08
 ## Q2 2025
 
 

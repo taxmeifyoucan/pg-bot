@@ -254,6 +254,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Update EIP-2780: Add equivalent gas‑limit increase](https://github.com/ethereum/EIPs/pull/10304) - 2025-09-07
 * [Pull Request] [Update 2780: Add graph](https://github.com/ethereum/EIPs/pull/10301) - 2025-09-07
 * [Pull Request] [Update EIP-2780: Formatting](https://github.com/ethereum/EIPs/pull/10300) - 2025-09-07
+* [Pull Request] [Update 2780: Update abstract](https://github.com/ethereum/EIPs/pull/10306) - 2025-09-08
 ## Q2 2025
 
 

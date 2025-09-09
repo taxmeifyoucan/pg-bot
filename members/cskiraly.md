@@ -17,6 +17,7 @@ Team: Codex DAS
 * [Pull Request] [p2p/discover: remove delay from iterator init](https://github.com/ethereum/go-ethereum/pull/32517) - 2025-08-29
 * [Pull Request] [eth/catalyst: log errors returned on the API locally (trace level)](https://github.com/ethereum/go-ethereum/pull/32539) - 2025-09-03
 * [Pull Request] [core/txpool/blobpool: Fix getblobs errors](https://github.com/ethereum/go-ethereum/pull/32538) - 2025-09-03
+* [Pull Request] [cmd/devp2p/internal/ethtest: fix possible infinite wait](https://github.com/ethereum/go-ethereum/pull/32551) - 2025-09-08
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [go-ethereum: localbuild: reduce overhead of local development](https://github.com/ethereum/hive/pull/1336) - 2025-08-28
 

@@ -166,6 +166,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [don't use an x86-specific gcc/clang flag on non-x86 platforms](https://github.com/status-im/nimbus-eth2/pull/7465) - 2025-09-07
 * [Commit] [rm remnants of Fulu/PeerDAS peer sampling support (#7462)](https://github.com/status-im/nimbus-eth2/commit/73a8ad20282e96f4cfbc099a6bd14591e01d270a) - 2025-09-07
 * [Pull Request] [rm remnants of Fulu/PeerDAS peer sampling support](https://github.com/status-im/nimbus-eth2/pull/7462) - 2025-09-07
+* [Commit] [Gloas/process execution payload header (#7467)](https://github.com/status-im/nimbus-eth2/commit/2e5b7d55694f21781576699122f7d1b3f8f0e992) - 2025-09-08
+* [Commit] [fix kzg test fulu/gloas datacolumnsidecar ambiguity](https://github.com/status-im/nimbus-eth2/commit/0d8e9457c5a51d6c89e8ce5a24c15a880162478e) - 2025-09-08
+* [Commit] [correctly build arm64 macos Nim compiler (#6918)](https://github.com/status-im/nimbus-eth2/commit/7070fa82da9bbc901c9c2eaddb917451d46c5ae8) - 2025-09-08
+* [Commit] [Tests/gloas_ssz_fixtures (#7432)](https://github.com/status-im/nimbus-eth2/commit/cbbe4c3c7888936439da0967606b7f71a8cbe172) - 2025-09-08
+* [Commit] [rm from sidecarless when rm'ing from orphans (#7466)](https://github.com/status-im/nimbus-eth2/commit/206113c0589de7de90b99e0345003461b486f62b) - 2025-09-08
+* [Commit] [chronicles: bump (#7448)](https://github.com/status-im/nimbus-eth2/commit/d26b7604fddafcb4dd3cfb0955e0bb25d68712d7) - 2025-09-08
+* [Commit] [Fix missing block hash check on engine timeout, clean up storeBlock (#7444)](https://github.com/status-im/nimbus-eth2/commit/2c5944bf9df5f092a666c35ca3ce4cce74e3921f) - 2025-09-08
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

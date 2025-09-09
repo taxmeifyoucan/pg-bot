@@ -68,6 +68,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Cleaned up CustodyGroupManagerImpl flow](https://github.com/Consensys/teku/pull/9860) - 2025-09-07
 * [Pull Request] [fixed get-variables command](https://github.com/Consensys/teku/pull/9859) - 2025-09-07
 * [Commit] [fix: guard against null Accept header in ResourceLoader.urlOrFile (#9825)](https://github.com/Consensys/teku/commit/f7ea884600069914feb7cc5ba09b0a4c918e1652) - 2025-09-07
+* [Pull Request] [Persisted custody group count to finalized store](https://github.com/Consensys/teku/pull/9862) - 2025-09-08
+* [Commit] [Cleaned up CustodyGroupManagerImpl flow (#9860)](https://github.com/Consensys/teku/commit/fe4988bb8e04917617cc00e63d53c0b3c8a38968) - 2025-09-08
 ## Q2 2025
 
 

@@ -27,6 +27,8 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [another type exception fix](https://github.com/NethermindEth/nethermind/commit/1d94c191c681ddd4ded633a6788c135172b17985) - 2025-08-11
 * [Commit] [temp change](https://github.com/NethermindEth/nethermind/commit/0b1686a53ef26c63f1e9330638d7d99d057933dc) - 2025-08-11
 * [Pull Request] [feat: Make some VM methods visible in derived class ](https://github.com/NethermindEth/nethermind/pull/9134) - 2025-08-15
+* [Commit] [make virtual](https://github.com/NethermindEth/nethermind/commit/e6c190438c8f9e133bc21a65334ce7d4db41144f) - 2025-09-08
+* [Commit] [more changes](https://github.com/NethermindEth/nethermind/commit/fbc81b1556cdeb3344bcf0da8f9877c81dfa9127) - 2025-09-08
 ## Q2 2025
 
 

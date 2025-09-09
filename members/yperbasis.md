@@ -160,6 +160,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: simplify StateStep](https://github.com/erigontech/erigon/pull/17011) - 2025-09-04
 * [Commit] [execution: simplify StateStep](https://github.com/erigontech/erigon/commit/4dada2941f24dbf46a828aff342a2762dcaa0fa3) - 2025-09-04
 * [Commit] [params: version 3.0.16 (#17033)](https://github.com/erigontech/erigon/commit/4572967cb032d544fc618a63085218a299de8c7f) - 2025-09-05
+* [Pull Request] [core: MaxBlobsPerTxn is expected before nonce check](https://github.com/erigontech/erigon/pull/17060) - 2025-09-08
+* [Commit] [core: MaxBlobsPerTxn is expected before nonce check](https://github.com/erigontech/erigon/commit/84d71acfd775f489e2fc7dd0b922545c39470352) - 2025-09-08
+* [Issue] [mainnet-tip-tracking-test failed with wrong tree root](https://github.com/erigontech/erigon/issues/17056) - 2025-09-08
+* [Commit] [[main] catchinn panic in index lookup (#17053)](https://github.com/erigontech/erigon/commit/be5f519809b344abf74a8ec3de8cffedbc462034) - 2025-09-08
+* [Commit] [[r3.1] catchinn panic in index lookup (#17052)](https://github.com/erigontech/erigon/commit/6d6220b4c40f08c901d6a992d4e1f5af0c2bd26e) - 2025-09-08
+* [Issue] [Cherry pick Rio PRs from `release/3.0` to `main` & `release/3.1`](https://github.com/erigontech/erigon/issues/17054) - 2025-09-08
+* [Commit] [cherry-pick  polygon: download blocks asynchronously during tip processing (#17050)](https://github.com/erigontech/erigon/commit/a40c6ffa03bb06f5ed71f944de69e09a9f75ce12) - 2025-09-08
+* [Commit] [BlobsBundleV1 -> BlobsBundle (#17029)](https://github.com/erigontech/erigon/commit/42f87f0fb1a55957e9ce29e7f5c94c609836c770) - 2025-09-08
+* [Commit] [switch interfaces to master](https://github.com/erigontech/erigon/commit/a6bdd3dd3c8af20e2d419c91960c323228c58d97) - 2025-09-08
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

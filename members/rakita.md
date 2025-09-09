@@ -204,6 +204,13 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat(revme): ef blockchain tests cli](https://github.com/bluealloy/revm/pull/2935) - 2025-09-01
 * [Commit] [ fixes for blockchain statetest and valid blocks](https://github.com/bluealloy/revm/commit/b037cc31d6c736b4ac97d2d2d282f95112a0d861) - 2025-09-01
 * [Commit] [fix tests, add skipped blockchain tests](https://github.com/bluealloy/revm/commit/0b80456c82fa01cad1c7a660c0d707365be5e7f4) - 2025-09-05
+* [Commit] [chore: remove unused generic from validate_tx_env and fix call site (#2946)](https://github.com/bluealloy/revm/commit/2d79c28ab600111abebeaf6148d1d9c5309a580a) - 2025-09-08
+* [Commit] [skip blob tests](https://github.com/bluealloy/revm/commit/a64ce6126edd0763b66eac56693c9ba76d8b5c51) - 2025-09-08
+* [Commit] [chore(cleanup): Remove EIP-7918 related functions and EIP file  (#2925)](https://github.com/bluealloy/revm/commit/20dde242dd55b9e107ea80c0744bd1b5f286cd0c) - 2025-09-08
+* [Commit] [fmt, and print all failed tests if keep-going is true](https://github.com/bluealloy/revm/commit/408cc16b9859bb084b4210fe75c39a4fc95853ef) - 2025-09-08
+* [Commit] [chore: clean static_selfdestruct_cost (#2944)](https://github.com/bluealloy/revm/commit/1476cf6833533f9764473524a2273015cb187ef6) - 2025-09-08
+* [Commit] [chore(op-revm): rm redundant phantom (#2943)](https://github.com/bluealloy/revm/commit/c6cf17bb3b94f066f13f26e609a5d50c0d70aab8) - 2025-09-08
+* [Commit] [test(op-revm): add serialize DepositTransactionParts test (#2942)](https://github.com/bluealloy/revm/commit/1cc46b8722eab23b11f40f1bda031230b4ab80f4) - 2025-09-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

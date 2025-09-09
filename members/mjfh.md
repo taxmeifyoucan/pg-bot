@@ -31,6 +31,8 @@ Team: Nimbus
 * [Pull Request] [Beacon sync remove some test options](https://github.com/status-im/nimbus-eth1/pull/3619) - 2025-09-03
 * [Commit] [Adjust EL-Portal integration to use Portal json-rpc client (#3630)](https://github.com/status-im/nimbus-eth1/commit/4597b4e130fdc5a9a95cbfe6a478d1d9326f7569) - 2025-09-05
 * [Pull Request] [Beacon sync maint update](https://github.com/status-im/nimbus-eth1/pull/3636) - 2025-09-05
+* [Commit] [Fix copyright years](https://github.com/status-im/nimbus-eth1/commit/effddef06e8c3762ef0294ee48be14b1b3ff40cf) - 2025-09-08
+* [Pull Request] [Beacon sync trace replay test tools](https://github.com/status-im/nimbus-eth1/pull/3642) - 2025-09-08
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

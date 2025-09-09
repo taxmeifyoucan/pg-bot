@@ -80,6 +80,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Commit progress.](https://github.com/status-im/nimbus-eth1/commit/1881cda582f0118a4dd7e2c4870b4026146a522f) - 2025-09-04
 * [Commit] [Add aristo subtries tests.](https://github.com/status-im/nimbus-eth1/commit/1f8604fc647ef49c24855b6ad695db0f399a4a70) - 2025-09-05
 * [Commit] [Implement fixes and cleanup.](https://github.com/status-im/nimbus-eth1/commit/96f036994e8169cb9571b18e8481c2ed7e79181a) - 2025-09-05
+* [Commit] [Update comment.](https://github.com/status-im/nimbus-eth1/commit/003c0a557d23dd1de8ba9a2712ae47d54a07009e) - 2025-09-08
+* [Pull Request] [Stateness: Add support for loading subtries into the database](https://github.com/status-im/nimbus-eth1/pull/3641) - 2025-09-08
+* [Commit] [Handle embedded nodes in putSubtrie.](https://github.com/status-im/nimbus-eth1/commit/403d824b0f0df83ae1dba09e1b9743ca98fa6a9d) - 2025-09-08
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

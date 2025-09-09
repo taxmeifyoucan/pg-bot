@@ -41,6 +41,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add performance meters.](https://github.com/status-im/nimbus-eth2/commit/8099dc6a51830a53eac70ff44a0e323284f2be4a) - 2025-09-04
 * [Commit] [Fix missing dag access.](https://github.com/status-im/nimbus-eth2/commit/d4bd4242d13033cb2ba720e8ad15287ed38d29df) - 2025-09-05
 * [Commit] [Add more conditions to peerPause.](https://github.com/status-im/nimbus-eth2/commit/ea3f36b72438522a53a10bf9b8dc38489495f076) - 2025-09-05
+* [Commit] [Fix compilation issue.](https://github.com/status-im/nimbus-eth2/commit/766eb6d7d3de033ed92e17b3fdd9836b5828f1d4) - 2025-09-08
+* [Commit] [Add some debugging logs.](https://github.com/status-im/nimbus-eth2/commit/ad4bbbf7db7ab92ed80b0385649a1e6f3f9e89f5) - 2025-09-08
+* [Commit] [Add earliest_available_slot handling.](https://github.com/status-im/nimbus-eth2/commit/79bb16f0659f7177291c8bdcd12d47b98c7be1af) - 2025-09-08
 ## Q2 2025
 
 

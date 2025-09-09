@@ -214,6 +214,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Perf/Update Patricia.Get (#9221)](https://github.com/NethermindEth/nethermind/commit/1a719341993adb6ed831ce68f25385d85ecc6fa3) - 2025-09-06
 * [Commit] [Perf/Patricia set (#9220)](https://github.com/NethermindEth/nethermind/commit/67f8bf3853201d0afabd1590fd85ac211ba9be71) - 2025-09-06
 * [Commit] [Move into patricia tree](https://github.com/NethermindEth/nethermind/commit/40141405760a120892dc6765ca9516d14c64036f) - 2025-09-07
+* [Commit] [Update src/Nethermind/Nethermind.Trie/PatriciaTree.BulkSet.cs](https://github.com/NethermindEth/nethermind/commit/65f34aba8ebfd9ce47f09ff78c73f7aa4aadb93c) - 2025-09-08
+* [Commit] [Update src/Nethermind/Nethermind.Trie/PatriciaTree.BulkSet.cs](https://github.com/NethermindEth/nethermind/commit/891b8046d8f38e5279c6b0ec897ded7e29a52553) - 2025-09-08
+* [Pull Request] [Reduce use of storage root slightly](https://github.com/NethermindEth/nethermind/pull/9255) - 2025-09-08
+* [Commit] [Unnecessary change](https://github.com/NethermindEth/nethermind/commit/c29441d0b1d26c1c26f527e37303f115507522fd) - 2025-09-08
+* [Commit] [Fix debug](https://github.com/NethermindEth/nethermind/commit/a6a115aa604e325ec79a1c891d2de6d996fb85a7) - 2025-09-08
+* [Commit] [Cleanup](https://github.com/NethermindEth/nethermind/commit/dcd730a1834d81d3b84fa192ba5ee4d035ec53fc) - 2025-09-08
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/bfebd56ccbf73ba78a90102a2e97fa71e786f07c) - 2025-09-08
+* [Commit] [Slight simplification](https://github.com/NethermindEth/nethermind/commit/f58ff09da0e39606bf95f450c3c75d5879c18487) - 2025-09-08
+* [Commit] [Rename file](https://github.com/NethermindEth/nethermind/commit/3c8d72c63251002d03dbb8d5daaee897a724d5bb) - 2025-09-08
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/d7493f7866fa242f272b833b1795d70340292e29) - 2025-09-08
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

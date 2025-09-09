@@ -102,6 +102,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: do not attempt to reconstruct builder blocks (#8317)](https://github.com/ChainSafe/lodestar/commit/9623b3e10e0cc6b95256af0537eb429f69435021) - 2025-09-04
 * [Commit] [fix: correct leveldb metrics (#8335)](https://github.com/ChainSafe/lodestar/commit/20292ec5ed3ec4f2b67a12485d8a442cf3a5644e) - 2025-09-05
 * [Commit] [fix: throw on duplicate add (#8326)](https://github.com/ChainSafe/lodestar/commit/cc933e5eed04937fbab2f51b90789e391e37c514) - 2025-09-05
+* [Commit] [fix: resolve data promise for BlockInputPreData (#8299)](https://github.com/ChainSafe/lodestar/commit/aabe8be5a77c3ed3827f93386e9f289c54822f90) - 2025-09-08
+* [Commit] [fix: new error code NOT_ENOUGH_SIDECARS_RECEIVED (#8351)](https://github.com/ChainSafe/lodestar/commit/92e477d70784d2caca4e68ff82a340f23ed3255a) - 2025-09-08
 ## Q2 2025
 
 

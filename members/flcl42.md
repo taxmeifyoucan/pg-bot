@@ -104,6 +104,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Return blockhash tests](https://github.com/NethermindEth/nethermind/commit/ce89b31cc55dba1c97884153ad999b4d58170e09) - 2025-09-05
 * [Commit] [Can be failing cause?](https://github.com/NethermindEth/nethermind/commit/cd31e1794ab56346579f635e9013e7cdd065eab1) - 2025-09-05
 * [Commit] [Fix evm slnx compilation](https://github.com/NethermindEth/nethermind/commit/019c00f5750b073126e7e31d113ef8698f2a268e) - 2025-09-05
+* [Commit] [PoC of delayed sending if requested](https://github.com/NethermindEth/nethermind/commit/36a0f7e23024dd4057a3fad31c787043bb095b92) - 2025-09-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

@@ -112,6 +112,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [test(engine): add e2e tests for forkchoice update with finalized blocks](https://github.com/paradigmxyz/reth/commit/8293989fb0856172ffc5d25f1e71ac98a8e70956) - 2025-08-22
 * [Commit] [test(engine): add e2e tests for forkchoice update with finalized blocks](https://github.com/paradigmxyz/reth/commit/d1c41fc4b50f5879649f71cc06ad54802c23c338) - 2025-08-22
 * [Commit] [check header validity before transactions](https://github.com/paradigmxyz/reth/commit/549a97104fdf2f4d910f63f4d9e60422c3123210) - 2025-08-22
+* [Commit] [update Cargo.lock](https://github.com/paradigmxyz/reth/commit/c3d5af53529551281f7be2776ab5c6fc63cdf98d) - 2025-09-08
+* [Commit] [update Cargo.lock](https://github.com/paradigmxyz/reth/commit/c59b053cdf796518f277c126c002a9ced65a60e5) - 2025-09-08
+* [Commit] [feat(optimism): Add new `reth-optimism-flashblocks` crate (#17982)](https://github.com/paradigmxyz/reth/commit/00dd9eccc64c5b81eb4899641707c70fa5b3cc6b) - 2025-09-08
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add blob per tx limit for reth](https://github.com/ethereum/execution-spec-tests/pull/2016) - 2025-08-08
 ## Q2 2025

@@ -94,6 +94,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update the condition for range check](https://github.com/ChainSafe/lodestar/commit/4933ef575d23d4070fd0ac7ca0513bd1b7bd044f) - 2025-09-05
 * [Pull Request] [fix: min key for the archive data columns](https://github.com/ChainSafe/lodestar/pull/8345) - 2025-09-05
 * [Commit] [Cleanup the logging](https://github.com/ChainSafe/lodestar/commit/186c63d3171440d8ec63850ffe0f741362b3111a) - 2025-09-05
+* [Commit] [Fix types for tests](https://github.com/ChainSafe/lodestar/commit/25129d1efce1a03120c805067719908b7d7ad1dc) - 2025-09-08
+* [Commit] [Update unit tests](https://github.com/ChainSafe/lodestar/commit/8a9de908c5f6bfe469a55c6e84f782dd6e5a495f) - 2025-09-08
+* [Commit] [Add unit tests for the utils](https://github.com/ChainSafe/lodestar/commit/015a8e2e4dd47b62cc06f759016303ff1c5ff915) - 2025-09-08
+* [Commit] [fix: add bucketId to abstract_prefixed_repo (#8346)](https://github.com/ChainSafe/lodestar/commit/8a8da6aa842d694a96b22755eb5c24e07b269446) - 2025-09-08
+* [Commit] [Add more tests for bucket boundary](https://github.com/ChainSafe/lodestar/commit/62eaeddc0c4fe8526b16e458231058f7d26fe2a8) - 2025-09-08
+* [Commit] [Add iterator helper](https://github.com/ChainSafe/lodestar/commit/b1fff1eb1d28c6dc090228f9e148094107558b30) - 2025-09-08
 ## Q2 2025
 
 
