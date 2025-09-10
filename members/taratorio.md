@@ -182,6 +182,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [withdrawals 2 failing tests -consistently](https://github.com/erigontech/erigon/commit/722eaeda57b042795b6e813c14578a366e0220c0) - 2025-09-05
 * [Commit] [use ethereum/hive in eest tests](https://github.com/erigontech/erigon/commit/e76ca5b89ba2f62b5214136bae0f2eccaada1614) - 2025-09-05
 * [Pull Request] [workflows: stricter hive test pass rates](https://github.com/erigontech/erigon/pull/17038) - 2025-09-05
+* [Commit] [execution: fix operational err logging when err=nil (#17068)](https://github.com/erigontech/erigon/commit/8c05fb325eebd6d2cdda851a5d96deeab3a7c265) - 2025-09-09
+* [Pull Request] [execution: fix operational err logging when err=nil](https://github.com/erigontech/erigon/pull/17068) - 2025-09-09
+* [Commit] [execution: more accurate bad block responses (#16994)](https://github.com/erigontech/erigon/commit/f026523d789375664b184e3cde39b9215b7c5f0b) - 2025-09-09
+* [Commit] [Cherry pick:  restore mumbai config (#17037)](https://github.com/erigontech/erigon/commit/f19d24519c149a75132359155fa9f0223015d8b4) - 2025-09-09
+* [Commit] [workflows: run kurtosis on PRs and use fixed ethereum-package version (#17034)](https://github.com/erigontech/erigon/commit/c1957eec51d853556e29e6993e0c0554f54b4a1b) - 2025-09-09
 ## Q2 2025
 
 

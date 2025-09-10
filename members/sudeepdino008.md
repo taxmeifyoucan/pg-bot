@@ -243,6 +243,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/41fa851be7d1344e4c2a71f5cbb849d91e95a922) - 2025-09-07
 * [Commit] [Rely on schema for key referencing in commitment branches (#16858)](https://github.com/erigontech/erigon/commit/572471d8d47a674d8e9deae41a4ced13453b07f8) - 2025-09-08
 * [Commit] [freezer, accessor builder and query exploiting metadata](https://github.com/erigontech/erigon/commit/7374ca85e2c16129f2d4f654e314a2a91da00951) - 2025-09-08
+* [Commit] [wip: windows unit test file removal problem](https://github.com/erigontech/erigon/commit/d26cff204a0fab302c93e4b39c066fb757ff91f9) - 2025-09-09
+* [Commit] [wip: windows unit test file removal problem](https://github.com/erigontech/erigon/commit/a5ac32e55f03bd56a7dd6e1194ab253263f99c64) - 2025-09-09
+* [Commit] [wip: windows unit test file removal problem](https://github.com/erigontech/erigon/commit/f40fc226daf8dd068ab23f83920896d27501f42c) - 2025-09-09
+* [Commit] [wip: windows unit test file removal problem](https://github.com/erigontech/erigon/commit/ec279da6654ddcee7b512282544d4c23b771aa41) - 2025-09-09
+* [Commit] [wip: windows unit test file removal problem](https://github.com/erigontech/erigon/commit/00569a36b06fd3210d0be80f583599343ea7af73) - 2025-09-09
+* [Commit] [wip: windows unit test file removal problem](https://github.com/erigontech/erigon/commit/8efaa9872a56688855df38ca09544d8ee46a79d6) - 2025-09-09
+* [Commit] [wip: windows unit test file removal problem](https://github.com/erigontech/erigon/commit/14325cfbc2d73778aff00348cbfac6b4af8163c9) - 2025-09-09
+* [Commit] [remove nofiles interface](https://github.com/erigontech/erigon/commit/b62e167c3e4f673a662ab52f531cf2485f9dfef2) - 2025-09-09
+* [Commit] [wip: windows test](https://github.com/erigontech/erigon/commit/50d51150047665a14f94395db27f0e3a3646abc2) - 2025-09-09
+* [Commit] [[main] catchinn panic in index lookup (#17053)](https://github.com/erigontech/erigon/commit/be5f519809b344abf74a8ec3de8cffedbc462034) - 2025-09-09
+* [Commit] [rpcd fix](https://github.com/erigontech/erigon/commit/f8175e66d3da3a22ee54fb1eb8f602e68869c5c4) - 2025-09-09
+* [Commit] [wip](https://github.com/erigontech/erigon/commit/ea44a720b38710a859a9354ab4f343028c5a3e04) - 2025-09-09
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

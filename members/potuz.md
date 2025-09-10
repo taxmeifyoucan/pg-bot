@@ -37,6 +37,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 * [Commit] [Changelog](https://github.com/OffchainLabs/prysm/commit/9b6db1d2fffd7124e6e82d209a56f65fd6ed9679) - 2025-09-05
 * [Pull Request] [Remove BLS change broadcasting at the fork](https://github.com/OffchainLabs/prysm/pull/15659) - 2025-09-05
+* [Commit] [Add serialization code for state diffs](https://github.com/OffchainLabs/prysm/commit/efe1c1b5566cf96fbe4fe730c5f930da84e3285c) - 2025-09-09
+* [Commit] [Implement `SendDataColumnSidecarsByRangeRequest` and `SendDataColumnSidecarsByRootRequest`. (#15430)](https://github.com/OffchainLabs/prysm/commit/121914d0d7a98e7e346a16f96193cef818c1e69a) - 2025-09-09
 [prysmaticlabs/hashtree](https://github.com/prysmaticlabs/hashtree)
 * [Commit] [add HashByteSlice (#51)](https://github.com/OffchainLabs/hashtree/commit/f733b7698511b5498b722421a30ddf7e5066497c) - 2025-08-31
 ## Q2 2025

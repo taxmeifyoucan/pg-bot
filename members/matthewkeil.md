@@ -87,6 +87,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: put back supressed rule](https://github.com/ChainSafe/lodestar/commit/8df743962b6f96a5fcd1faa37fef52601d3a19d1) - 2025-09-04
 * [Pull Request] [chore: fix lint](https://github.com/ChainSafe/lodestar/pull/8323) - 2025-09-04
 * [Commit] [fix: remove stale commented code](https://github.com/ChainSafe/lodestar/commit/a6d28a03576a79417f5af4a18673d97bfebc22d3) - 2025-09-04
+* [Commit] [fix: build error](https://github.com/ChainSafe/lodestar/commit/c884573184977d74b02b50a72cd7d8e07eb3f625) - 2025-09-09
+* [Commit] [fix: build error](https://github.com/ChainSafe/lodestar/commit/1737333370020cc428cccdf979fee6f0c71a1413) - 2025-09-09
+* [Commit] [fix: remove duplicate BlockInputCache](https://github.com/ChainSafe/lodestar/commit/5c3d888b56d2c831f63fd481aaf2eab95f91b3bc) - 2025-09-09
 ## Q2 2025
 
 

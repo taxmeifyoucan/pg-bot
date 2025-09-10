@@ -89,6 +89,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [el_manager: clean up some engine encoding code (#7439)](https://github.com/status-im/nimbus-eth2/commit/d11e856f9181993ab4c1091ced8bdb0412731ad5) - 2025-09-08
 * [Commit] [use block id instead of a tuple](https://github.com/status-im/nimbus-eth2/commit/4e56c2d1120da84d5d617ee7a114949c35f67afa) - 2025-09-08
 * [Commit] [fix merge conflict issues](https://github.com/status-im/nimbus-eth2/commit/914ffe4e870d582cba8571cabb8bffb5c1b80fb5) - 2025-09-08
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/e9862d70d0345ff730e97855d2630d3dfeec2745) - 2025-09-09
+* [Commit] [Use BPO specific gossip channels and SSZ REST contexts for light client (#7471)](https://github.com/status-im/nimbus-eth2/commit/dfd61148b7e6fc1d2e3f9b38a45a7a3322d77f56) - 2025-09-09
+* [Pull Request] [rework getBlobs patch to unstable](https://github.com/status-im/nimbus-eth2/pull/7480) - 2025-09-09
 ## Q2 2025
 
 

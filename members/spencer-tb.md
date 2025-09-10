@@ -119,6 +119,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(execute): Add Engine RPC option to `execute remote` (#2070)](https://github.com/ethereum/execution-spec-tests/commit/5a51af9fbb0f6d21d48182641c6c26db85e11032) - 2025-08-28
 * [Commit] [chore(tests): add modexp length mismatch functionality (#2058)](https://github.com/ethereum/execution-spec-tests/commit/5c5167bf396539dafc89a68b39e169783e7be56a) - 2025-09-03
 * [Commit] [chore(docs): bump changelog from v5.0.0 release. (#2105)](https://github.com/ethereum/execution-spec-tests/commit/bce61c1ac1408e55ead755ea98b014a620cda06c) - 2025-09-08
+* [Commit] [chore(tests): pr comments.](https://github.com/ethereum/execution-spec-tests/commit/c8c463f1fffd6b16cfd36a9a19b88c214b273f30) - 2025-09-09
+* [Commit] [chore(tests): pr comments.](https://github.com/ethereum/execution-spec-tests/commit/c8d45a9b584820dae9084962353c8c28bfdbad2f) - 2025-09-09
+* [Commit] [feat(eip_checklist): Print warnings + embed links to test functions (#2103)](https://github.com/ethereum/execution-spec-tests/commit/6b273bd9755201cd16db521d43ebf5d4bb166e46) - 2025-09-09
+* [Commit] [tests(eip7823): Add implementation coverage tests for ModExp bounds (#2117)](https://github.com/ethereum/execution-spec-tests/commit/df69127105c7b42e72f38ee4a9fc097ef6d22ab8) - 2025-09-09
+* [Commit] [feat(tests): add zero edge cases for modexp eip7883 gas cost tests (#2108)](https://github.com/ethereum/execution-spec-tests/commit/b1441c9feeb69a20cfcbf958df7fc95218c5311b) - 2025-09-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07
@@ -128,6 +133,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [simulators/eest/consume-engine: disable exception mapper for nimbus-el](https://github.com/ethereum/hive/pull/1332) - 2025-08-25
 * [Commit] [clients/nimbus-el: change `--custom-network` to `--network` (#1337)](https://github.com/ethereum/hive/commit/76400854dbcac62e19752c5242fbc39c1c8f82c8) - 2025-08-29
 * [Commit] [clients/erigon: no-downloader flag (#1338)](https://github.com/ethereum/hive/commit/992166bf76092e9517ab8faf84b9e03795fb959d) - 2025-09-04
+* [Commit] [feat(simulators): Add `eest/consume-sync` simulator (#1328)](https://github.com/ethereum/hive/commit/a27bbc7c1075526c50e26af56a0e6867d1616ce3) - 2025-09-09
+* [Pull Request] [simulators/eth/rpc: remove rpc in favor of rpc-compat](https://github.com/ethereum/hive/pull/1339) - 2025-09-09
 ## Q2 2025
 
 

@@ -76,6 +76,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [refactor subscription code to enable peer discovery asap](https://github.com/OffchainLabs/prysm/commit/272a1922acf0cc04e898a55c0562356f67ef23e7) - 2025-09-05
 * [Pull Request] [refactor subscription code to enable peer discovery asap](https://github.com/OffchainLabs/prysm/pull/15660) - 2025-09-05
 * [Commit] [refactor subscription code to enable peer discovery asap](https://github.com/OffchainLabs/prysm/commit/30524724cd39651aedcf0810bfb189ad6cae6ee3) - 2025-09-05
+* [Commit] [manu naming feedback](https://github.com/OffchainLabs/prysm/commit/cbcefe2da8630d9064bd6e0b2048216e9edb5bbd) - 2025-09-09
+* [Commit] [manu naming feedback](https://github.com/OffchainLabs/prysm/commit/f900d31efce5350764b090c9a97feb7807aef1e3) - 2025-09-09
+* [Commit] [refactor subscription parameter tracking type](https://github.com/OffchainLabs/prysm/commit/c3fcedbbe086233c6f4690dbef9bcd73d7fc5a1a) - 2025-09-09
+* [Commit] [refactor subscription parameter tracking type](https://github.com/OffchainLabs/prysm/commit/5b11377d57556b07425487346294154e51029a57) - 2025-09-09
+* [Commit] [chore: Remove duplicated test case from TestCollector (#15672)](https://github.com/OffchainLabs/prysm/commit/4e8a710b6451ef989aa178ae2d93259c8d2dc70c) - 2025-09-09
 ## Q2 2025
 
 

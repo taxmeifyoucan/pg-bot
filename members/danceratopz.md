@@ -143,6 +143,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs: update changelog](https://github.com/ethereum/execution-spec-tests/commit/4c9f01bb7a2f4f542903759e1d29b88b2c3b82fd) - 2025-09-08
 * [Pull Request] [refactor(fill,execute): clean-up shared marker registration](https://github.com/ethereum/execution-spec-tests/pull/2110) - 2025-09-08
 * [Commit] [Deployed bce61c1ac14 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/ec83d9a2197f9b8ca43698c85f5ed0e3625b939d) - 2025-09-08
+* [Commit] [Deployed 5f6205837a9 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e54d14f915bc95edf9db5162004c3874b1b18e79) - 2025-09-09
+* [Commit] [Deployed df69127105c to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/f4b446fa004f55883b3d0c6e3ba92e2db84e8cad) - 2025-09-09
+* [Commit] [Deployed b1441c9feeb to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e4181d3c423f89053b72b167c208587ac7aa806e) - 2025-09-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 ## Q2 2025

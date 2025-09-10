@@ -131,6 +131,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: add missingIndices to NOT_ENOUGH_SIDECARS_RECEIVED](https://github.com/ChainSafe/lodestar/commit/674ba04d8213e7b28990eae64ab627bada42fdd0) - 2025-09-08
 * [Pull Request] [fix: new error code NOT_ENOUGH_SIDECARS_RECEIVED](https://github.com/ChainSafe/lodestar/pull/8351) - 2025-09-08
 * [Issue] [[block-input-refactor] DOWNLOAD_BY_ROOT_ERROR_MISSING_BLOCK_RESPONSE](https://github.com/ChainSafe/lodestar/issues/8350) - 2025-09-08
+* [Commit] [fix: compilation error](https://github.com/ChainSafe/lodestar/commit/c375823e27fd89120d90e1614e85c21da7595a05) - 2025-09-09
 ## Q2 2025
 
 

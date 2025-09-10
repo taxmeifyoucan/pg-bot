@@ -173,6 +173,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rm from sidecarless when rm'ing from orphans (#7466)](https://github.com/status-im/nimbus-eth2/commit/206113c0589de7de90b99e0345003461b486f62b) - 2025-09-08
 * [Commit] [chronicles: bump (#7448)](https://github.com/status-im/nimbus-eth2/commit/d26b7604fddafcb4dd3cfb0955e0bb25d68712d7) - 2025-09-08
 * [Commit] [Fix missing block hash check on engine timeout, clean up storeBlock (#7444)](https://github.com/status-im/nimbus-eth2/commit/2c5944bf9df5f092a666c35ca3ce4cce74e3921f) - 2025-09-08
+* [Commit] [rework getBlobs patch to unstable (#7480)](https://github.com/status-im/nimbus-eth2/commit/808760c04c3e03ec7a52d470bf4e02648af67ef9) - 2025-09-09
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

@@ -154,6 +154,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [tidy 4788](https://github.com/NethermindEth/nethermind/commit/fc16d59e7645b58965542cfc74252d76a01085a9) - 2025-09-04
 * [Commit] [simplify more](https://github.com/NethermindEth/nethermind/commit/df41d5d2c7e4d8715d909e94017b47201c0edcfe) - 2025-09-04
 * [Commit] [work out hashes](https://github.com/NethermindEth/nethermind/commit/749593282a624af0fbaee8774c7d95080c6017fd) - 2025-09-04
+* [Commit] [worldstate improvements](https://github.com/NethermindEth/nethermind/commit/5ec4ff50aa182f9d779c649a4608cd09bc8cb350) - 2025-09-09
 ## Q2 2025
 
 

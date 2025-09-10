@@ -104,6 +104,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: throw on duplicate add (#8326)](https://github.com/ChainSafe/lodestar/commit/cc933e5eed04937fbab2f51b90789e391e37c514) - 2025-09-05
 * [Commit] [fix: resolve data promise for BlockInputPreData (#8299)](https://github.com/ChainSafe/lodestar/commit/aabe8be5a77c3ed3827f93386e9f289c54822f90) - 2025-09-08
 * [Commit] [fix: new error code NOT_ENOUGH_SIDECARS_RECEIVED (#8351)](https://github.com/ChainSafe/lodestar/commit/92e477d70784d2caca4e68ff82a340f23ed3255a) - 2025-09-08
+* [Commit] [fix: correct leveldb metrics (#8355)](https://github.com/ChainSafe/lodestar/commit/bb10d2b5ea99313560c437fa2644cec6e0ecef7f) - 2025-09-09
+* [Commit] [feat: track DownloadByRoot errors on new metrics (#8352)](https://github.com/ChainSafe/lodestar/commit/234c26fa242bef9e6bc238c00c37e18e3e8ef01e) - 2025-09-09
+* [Commit] [fix: properly handle fetching data columns from api if block has no blobs (#8336)](https://github.com/ChainSafe/lodestar/commit/4a37a4b0b1802f3e357b61b3c2aa2473da4ddf1a) - 2025-09-09
+* [Commit] [chore: use single downloadByRoot error metric](https://github.com/ChainSafe/lodestar/commit/55350fbf8adb5acfec593acd0871790d7a6d366d) - 2025-09-09
+* [Commit] [fix: update logs if block not found while handling unavailable data columns (#8337)](https://github.com/ChainSafe/lodestar/commit/32681419fdcbb0b143fcb67a048768d28280424e) - 2025-09-09
+* [Commit] [fix: min key for the archive data columns (#8345)](https://github.com/ChainSafe/lodestar/commit/1817ab113da853b6b5c835dba352afd21629c316) - 2025-09-09
 ## Q2 2025
 
 

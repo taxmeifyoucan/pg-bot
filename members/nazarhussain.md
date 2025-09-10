@@ -100,6 +100,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: add bucketId to abstract_prefixed_repo (#8346)](https://github.com/ChainSafe/lodestar/commit/8a8da6aa842d694a96b22755eb5c24e07b269446) - 2025-09-08
 * [Commit] [Add more tests for bucket boundary](https://github.com/ChainSafe/lodestar/commit/62eaeddc0c4fe8526b16e458231058f7d26fe2a8) - 2025-09-08
 * [Commit] [Add iterator helper](https://github.com/ChainSafe/lodestar/commit/b1fff1eb1d28c6dc090228f9e148094107558b30) - 2025-09-08
+* [Commit] [Add code comment](https://github.com/ChainSafe/lodestar/commit/553aaa61cfaae328109220c1067de7250822335e) - 2025-09-09
+* [Commit] [Update packages/db/src/abstractPrefixedRepository.ts](https://github.com/ChainSafe/lodestar/commit/e05c2b834cc2a68eb20a22d25c185a0e55c83c46) - 2025-09-09
+* [Commit] [Update packages/db/src/abstractPrefixedRepository.ts](https://github.com/ChainSafe/lodestar/commit/f4ad8209ec1ca152dadfc22b80d06b5f042ae49f) - 2025-09-09
+* [Commit] [Fix max columns inclusive range](https://github.com/ChainSafe/lodestar/commit/27f4b80bb2c90c367b2d1a9e6faeed1d0cc049d1) - 2025-09-09
+* [Commit] [fix: deduplicate slots to delete archived DatacolumnSidecars (#8357)](https://github.com/ChainSafe/lodestar/commit/09ef70bbb0c64bd64cf1faacab87aae3d2622030) - 2025-09-09
+* [Commit] [Update the slot key size](https://github.com/ChainSafe/lodestar/commit/090c5540daa23cefb5c5bc42040635c21e005792) - 2025-09-09
 ## Q2 2025
 
 

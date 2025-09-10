@@ -191,6 +191,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Disable --custom-network](https://github.com/status-im/nimbus-eth1/commit/ffa3559cb28d704c54804cc62ddac14a93ffe2e8) - 2025-09-02
 * [Pull Request] [Remove redundant raises](https://github.com/status-im/nimbus-eth1/pull/3640) - 2025-09-08
 * [Commit] [Lint](https://github.com/status-im/nimbus-eth1/commit/f92b8b18b1fd99292c499b6ae09c543878a62f34) - 2025-09-08
+* [Pull Request] [Upgrade docker/login-action to v3](https://github.com/status-im/nimbus-eth1/pull/3654) - 2025-09-09
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

@@ -20,6 +20,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [core/tracing: fix selfdestruct 6780 balance change emit](https://github.com/ethereum/go-ethereum/pull/32526) - 2025-09-01
 * [Pull Request] [core/tracing: add code change reason](https://github.com/ethereum/go-ethereum/pull/32525) - 2025-09-01
 * [Pull Request] [core/tracing: update changelog](https://github.com/ethereum/go-ethereum/pull/32535) - 2025-09-02
+* [Issue] [Batch getStorageAt RPC method](https://github.com/ethereum/go-ethereum/issues/32566) - 2025-09-09
 ## Q2 2025
 
 

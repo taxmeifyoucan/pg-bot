@@ -49,6 +49,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Update EIP-2938: Move to Withdrawn (#10179)](https://github.com/ethereum/EIPs/commit/5deba10782d33b239267c9143d08ff6c11c9fbc6) - 2025-08-18
 * [Pull Request] [Withdraw EIP-2938](https://github.com/ethereum/EIPs/pull/10179) - 2025-08-18
 
+* [Commit] [Add chain-specific subsection (#10201)](https://github.com/ethereum/EIPs/commit/100dd47df1df5e95b5bada507b0ec355c293ee05) - 2025-09-09
+* [Commit] [Update EIP-7864: fix grammar and spelling corrections (#10281)](https://github.com/ethereum/EIPs/commit/ba3e8e079b654a6c2a93ae4fcfd69dee0cc780a0) - 2025-09-09
+* [Commit] [fix: correct RFC reference from 8170 to 8174 in eip-template.md (#10240)](https://github.com/ethereum/EIPs/commit/8c8d5f231810fd31c3570d39ef45802f33d8e3be) - 2025-09-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs, call #36, September 17, 2025](https://github.com/ethereum/pm/issues/1697) - 2025-08-22
 

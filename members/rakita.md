@@ -211,6 +211,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: clean static_selfdestruct_cost (#2944)](https://github.com/bluealloy/revm/commit/1476cf6833533f9764473524a2273015cb187ef6) - 2025-09-08
 * [Commit] [chore(op-revm): rm redundant phantom (#2943)](https://github.com/bluealloy/revm/commit/c6cf17bb3b94f066f13f26e609a5d50c0d70aab8) - 2025-09-08
 * [Commit] [test(op-revm): add serialize DepositTransactionParts test (#2942)](https://github.com/bluealloy/revm/commit/1cc46b8722eab23b11f40f1bda031230b4ab80f4) - 2025-09-08
+* [Commit] [fix(revme): Avoid panic on non-UTF filenames in statetest runner (#2948)](https://github.com/bluealloy/revm/commit/adf2aea57d9282c49ee47dde8e2a6659c0ed0bb4) - 2025-09-09
+* [Commit] [chore(inspector): remove dead skip flag (#2951)](https://github.com/bluealloy/revm/commit/ec522c79610f4018fe88995b8626c4a1e3a0dc1d) - 2025-09-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

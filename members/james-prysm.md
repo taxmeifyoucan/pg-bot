@@ -108,6 +108,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [update ethspecify yml](https://github.com/OffchainLabs/prysm/commit/fd6398f78b5d5e2ee685ab5cb05c92b0ee232f39) - 2025-09-05
 * [Pull Request] [update to v1.6.0-alpha.6](https://github.com/OffchainLabs/prysm/pull/15658) - 2025-09-05
 * [Commit] [only fall back on 406](https://github.com/OffchainLabs/prysm/commit/61e3b667dccf48375fc116039e9aa6a74ff685a0) - 2025-09-05
+* [Commit] [fixing unit tests](https://github.com/OffchainLabs/prysm/commit/5fb00fd89c7dc8be983d11c3853153769973c89a) - 2025-09-09
+* [Commit] [spectests: Set mainnet spectests to size=large. This helps with some CI timeouts. CI is showing an average time of 4m39s, which is too close to the 5m timeout for a moderate test (#15664)](https://github.com/OffchainLabs/prysm/commit/0057cc57b59335523852e9bb0050769f1e07fe1f) - 2025-09-09
+* [Commit] [radek suggestion](https://github.com/OffchainLabs/prysm/commit/00fac6bd98c985bb4360b5a3d4e0a54ddbe1d4aa) - 2025-09-09
+* [Commit] [updated web3signer version and fixing linting](https://github.com/OffchainLabs/prysm/commit/0aa4ad1a1f7e7d39789ea31242bca5311f0a547f) - 2025-09-09
 ## Q2 2025
 
 

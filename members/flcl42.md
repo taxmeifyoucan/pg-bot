@@ -105,6 +105,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Can be failing cause?](https://github.com/NethermindEth/nethermind/commit/cd31e1794ab56346579f635e9013e7cdd065eab1) - 2025-09-05
 * [Commit] [Fix evm slnx compilation](https://github.com/NethermindEth/nethermind/commit/019c00f5750b073126e7e31d113ef8698f2a268e) - 2025-09-05
 * [Commit] [PoC of delayed sending if requested](https://github.com/NethermindEth/nethermind/commit/36a0f7e23024dd4057a3fad31c787043bb095b92) - 2025-09-08
+* [Pull Request] [Fix uint underflow](https://github.com/NethermindEth/nethermind/pull/9261) - 2025-09-09
+* [Commit] [Fix uint underflow](https://github.com/NethermindEth/nethermind/commit/9ca5924605907e49c7b53524808a55d33b5326aa) - 2025-09-09
+* [Commit] [Add retry cache](https://github.com/NethermindEth/nethermind/commit/d8294a2facc49460e486b3e8c75a887dff847bc4) - 2025-09-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

@@ -15,3 +15,4 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [🧹 chore: remove pokebal](https://github.com/ethereum/execution-spec-tests/commit/c990f1758a93e770f9703645ffbb63e9a97eab12) - 2025-08-12
 * [Commit] [🐞 fix: bal_hash validation](https://github.com/ethereum/execution-spec-tests/commit/02c43c277379aef6d48830f688e0fcb78d312d13) - 2025-08-14
 * [Commit] [✨ feat: case: no-op storage write](https://github.com/ethereum/execution-spec-tests/commit/13da83da6aec976bc4157b703860357a7cbaf04d) - 2025-08-20
+* [Commit] [🥢 nit: Simplify framing for SLOAD/SSTORE test cases](https://github.com/ethereum/execution-spec-tests/commit/21040987563a8c1e770a3c508d201bc2d7704b32) - 2025-09-09

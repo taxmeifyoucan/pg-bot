@@ -80,6 +80,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Use BPO specific gossip channels and SSZ REST contexts for light client](https://github.com/status-im/nimbus-eth2/commit/76d84741c85a3dc6f899f3bd2e8c52ec1051db2c) - 2025-09-08
 * [Commit] [Use BPO specific gossip channels and SSZ REST contexts for light client](https://github.com/status-im/nimbus-eth2/commit/7a7e30b664efbf1c6c8e3bfac93d9f009e4a9d2f) - 2025-09-08
 * [Pull Request] [Auto bump nim-sqlite3-abi](https://github.com/status-im/nimbus-eth2/pull/7470) - 2025-09-08
+* [Pull Request] [Store runtime SECONDS_PER_SLOT value in RuntimeConfig](https://github.com/status-im/nimbus-eth2/pull/7479) - 2025-09-09
 ## Q2 2025
 
 

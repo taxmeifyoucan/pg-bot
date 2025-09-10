@@ -41,6 +41,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Avoid requesting the header from the db twice for getEthBlock()](https://github.com/status-im/nimbus-eth1/pull/3626) - 2025-09-04
 * [Commit] [Re-enable uTP test job on Portal CI (#3625)](https://github.com/status-im/nimbus-eth1/commit/302fef538e4469b4603f68f91a85676c9bca07bc) - 2025-09-04
 * [Commit] [Add EL debug_getBlockHeader and use for Portal block verification](https://github.com/status-im/nimbus-eth1/commit/95f52214a916bd450693fb229a0606dcc65b8daa) - 2025-09-08
+* [Commit] [Fix txRoot check bug as zeroHash32 instead of emptyRoot was used](https://github.com/status-im/nimbus-eth1/commit/a27f133eb7d22bcf5fdf035fbc1f4ba7764f9758) - 2025-09-09
+* [Commit] [Fix era import by adjusting getUncleHashes to not use getBlockBody](https://github.com/status-im/nimbus-eth1/commit/82969fc0e1b3eee0d15f8766d6460fd0b62591ac) - 2025-09-09
 ## Q2 2025
 
 

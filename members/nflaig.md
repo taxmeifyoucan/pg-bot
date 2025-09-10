@@ -148,6 +148,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: add bucketId to all db operations](https://github.com/ChainSafe/lodestar/pull/8347) - 2025-09-06
 * [Commit] [fix: add bucketId to abstract_prefixed_repo (#8346)](https://github.com/ChainSafe/lodestar/commit/8a8da6aa842d694a96b22755eb5c24e07b269446) - 2025-09-06
 * [Commit] [Include blob count in error](https://github.com/ChainSafe/lodestar/commit/668a6f522b7efef02cb654365953ed9b53f56b38) - 2025-09-08
+* [Commit] [fix: add bucketId to abstract_prefixed_repo (#8346)](https://github.com/ChainSafe/lodestar/commit/8a8da6aa842d694a96b22755eb5c24e07b269446) - 2025-09-09
 ## Q2 2025
 
 
