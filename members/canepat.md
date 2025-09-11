@@ -69,6 +69,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [qa-tests: enable RPC Integration Tests at latest block on PR (#16964)](https://github.com/erigontech/erigon/commit/bc7d88a7b0f2d1fba5d39907b3e1747b40944d51) - 2025-09-04
 * [Commit] [refactor and complete implementation](https://github.com/erigontech/erigon/commit/81b1fce0ec434fbec562486e2e1119571f01efce) - 2025-09-08
 * [Pull Request] [qa_tests: fix the expected rsp format in RPC Integration Tests](https://github.com/erigontech/erigon/pull/17051) - 2025-09-08
+* [Pull Request] [caplin: fix checkpoint sync timeout](https://github.com/erigontech/erigon/pull/17077) - 2025-09-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14

@@ -20,6 +20,7 @@ Team: EthereumJS
 * [Commit] [fix: linting](https://github.com/ethereumjs/ethereumjs-monorepo/commit/17de856b9399d4a1bd026a53929aed34ab58c9cd) - 2025-09-06
 * [Commit] [Extended modexp precompile debug messages (#4124)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/aa039fd77db31ac7f5488b9113668395ba567393) - 2025-09-06
 * [Commit] [AI prompts to streamline releases (#4131)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/4c739823dadf300149c9abca5327d1c12bf80d6a) - 2025-09-09
+* [Issue] [Fusaka Hardfork Meta Issue](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4132) - 2025-09-10
 ## Q2 2025
 
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)

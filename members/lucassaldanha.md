@@ -38,6 +38,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Remove downgrade note for snappy library (#9842)](https://github.com/Consensys/teku/commit/5f7f1d23f0ee594582cbc55cecc3f66d48a43652) - 2025-09-03
 * [Pull Request] [Remove downgrade note for snappy library](https://github.com/Consensys/teku/pull/9842) - 2025-09-03
 * [Pull Request] [Bump netty dependency](https://github.com/Consensys/teku/pull/9855) - 2025-09-05
+* [Issue] [Gloas Fork Choice changes](https://github.com/Consensys/teku/issues/9878) - 2025-09-10
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add support for libp2p interop tests](https://github.com/libp2p/jvm-libp2p/pull/421) - 2025-08-25
 ## Q2 2025

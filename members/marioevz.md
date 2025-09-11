@@ -114,6 +114,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix: typing](https://github.com/ethereum/execution-spec-tests/commit/b02358852cbf2bad27ed6f7f02b84cc6532eb33b) - 2025-09-02
 * [Commit] [src(eth_config): added eth_config simulator prototype (#2054)](https://github.com/ethereum/execution-spec-tests/commit/61f8ac90841770d9fc407f1498ec0e5229b27508) - 2025-09-02
 * [Commit] [fix(tests): Restrict extra args being passed to `BaseTest`; fix valid BAL tests (#2102)](https://github.com/ethereum/execution-spec-tests/commit/14ed88d2e00eaf0b137a0c65ed6131c25ab5cc90) - 2025-09-04
+* [Issue] [Assess removal of ruff's Ignored Rules](https://github.com/ethereum/execution-spec-tests/issues/2128) - 2025-09-10
+* [Pull Request] [fix(clis/eels): Use regex for missing-module-definition exceptions](https://github.com/ethereum/execution-spec-tests/pull/2127) - 2025-09-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 
@@ -122,6 +124,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [clients/nimbus-el: activate admin rpc (#1321)](https://github.com/ethereum/hive/commit/bcb100028e695cf4eddabaec48d8be7d430ca978) - 2025-07-22
 * [Commit] [simulators/eest/consume-engine: disable exception mapper for nimbus-el (#1332)](https://github.com/ethereum/hive/commit/e79c00d4dd04fcddb96b26f5d3a626c55413db1c) - 2025-08-25
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [Explore Possibility of Moving `ethereum_test_exceptions` to EELS](https://github.com/ethereum/execution-specs/issues/1422) - 2025-09-10
 ## Q2 2025
 
 

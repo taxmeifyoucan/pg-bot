@@ -33,6 +33,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Beacon api: fix proposer duty computation for fulu (#15534)](https://github.com/OffchainLabs/prysm/commit/d012ab653c056692cb3747acf827f9a443c01169) - 2025-09-02
 * [Commit] [Simplify for range expression](https://github.com/OffchainLabs/prysm/commit/a8cd221a48eea9fa8039d0498287fdb97ce4f713) - 2025-09-03
 * [Commit] [Fixed some build issues for gnark. There may be more but Prysm builds.](https://github.com/OffchainLabs/prysm/commit/d487e5c10988fa47cb2bf3b4151b99fb55a247f6) - 2025-09-05
+* [Pull Request] [Add erigon/caplin to list of known p2p agents](https://github.com/OffchainLabs/prysm/pull/15678) - 2025-09-10
+* [Commit] [Add erigon/caplin to list of known p2p agents.](https://github.com/OffchainLabs/prysm/commit/2973ae136659b9333ffb21ff4c93443bd5bbe840) - 2025-09-10
 ## Q2 2025
 
 

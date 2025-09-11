@@ -118,6 +118,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [misc updates for fulu](https://github.com/erigontech/erigon/pull/16989) - 2025-09-03
 * [Commit] [update](https://github.com/erigontech/erigon/commit/d3b03aabcdd8fb90c58f99ea26a6a2d4a5693121) - 2025-09-03
 * [Commit] [fix unittest](https://github.com/erigontech/erigon/commit/a2e34ee3f291a1ded48a86edf6d569a188206ac0) - 2025-09-03
+* [Commit] [misc updates for fulu (#16989)](https://github.com/erigontech/erigon/commit/4700b6e0c499682f1745e6fd4d683af4710d4c6c) - 2025-09-10
+* [Commit] [update](https://github.com/erigontech/erigon/commit/74c7ed76c7d324ee0b011527c2da1298217b0938) - 2025-09-10
+* [Commit] [update](https://github.com/erigontech/erigon/commit/3521bae2893c03956fa00b74b26caa8453c4270f) - 2025-09-10
 ## Q2 2025
 
 

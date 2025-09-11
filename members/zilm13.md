@@ -25,6 +25,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Issue] [Teku is requesting sidecars out of retention period](https://github.com/Consensys/teku/issues/9813) - 2025-08-26
 * [Issue] [Rework DataColumnSidecars recovery during sync](https://github.com/Consensys/teku/issues/9875) - 2025-09-09
 * [Pull Request] [Delay recovery](https://github.com/Consensys/teku/pull/9874) - 2025-09-09
+* [Pull Request] [Remove DataColumnPeerSearcher as we have PeerSelectionStrategy](https://github.com/Consensys/teku/pull/9885) - 2025-09-10
+* [Issue] [Update PeerSelectionStrategy to fulfill FULU needs](https://github.com/Consensys/teku/issues/9884) - 2025-09-10
 ## Q2 2025
 
 

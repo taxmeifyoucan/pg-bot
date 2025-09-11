@@ -51,6 +51,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Simplify length methods on BeaconBlockBody](https://github.com/sigp/lighthouse/pull/7989) - 2025-09-03
 * [Pull Request] [Simplify some fork-variant boilerplate](https://github.com/sigp/lighthouse/pull/7988) - 2025-09-03
 * [Issue] [De-duplicate sync selection proof logic (distributed vs non-distributed)](https://github.com/sigp/lighthouse/issues/7983) - 2025-09-03
+* [Pull Request] [Fix beacon processor metrics for batched messages](https://github.com/sigp/lighthouse/pull/8020) - 2025-09-10
 ## Q2 2025
 
 

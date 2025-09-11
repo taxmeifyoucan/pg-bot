@@ -24,6 +24,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [increase target peers by default to 200](https://github.com/ChainSafe/lodestar/commit/14dc4722367716e6715788ca087d340a8bd8676e) - 2025-08-26
 * [Issue] [[fusaka-devnet-3] Lodestar nodes stuck in download loop](https://github.com/ChainSafe/lodestar/issues/8278) - 2025-08-27
 * [Pull Request] [chore: v1.34.0 release](https://github.com/ChainSafe/lodestar/pull/8344) - 2025-09-05
+* [Pull Request] [chore: release 1.34.1 patch](https://github.com/ChainSafe/lodestar/pull/8366) - 2025-09-10
+* [Commit] [fix: bump discv5 to 11.0.4 (#8365)](https://github.com/ChainSafe/lodestar/commit/c4ab7f010060ec129869ef2c941d661693f04971) - 2025-09-10
+* [Pull Request] [fix: bump discv5 to 11.0.4](https://github.com/ChainSafe/lodestar/pull/8365) - 2025-09-10
 ## Q2 2025
 
 

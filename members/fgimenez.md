@@ -119,6 +119,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [chore(ci): bump hive eest tests](https://github.com/paradigmxyz/reth/commit/9a679e60e2e6123a5ba8c506f43bedd5ca0122f3) - 2025-09-09
 * [Commit] [refactor: change PendingPool and PendingTransaction visibility to pub (#18267)](https://github.com/paradigmxyz/reth/commit/bde7464e3816e60b3107a26eaebd99b1e7469eff) - 2025-09-09
 * [Pull Request] [fix(ci): pin teku image to fix kurtosis-op build](https://github.com/paradigmxyz/reth/pull/18345) - 2025-09-09
+* [Commit] [chore(ci): bump hive eest tests](https://github.com/paradigmxyz/reth/commit/6bda1b47348308bfe948d070a5dd6c05d9d831cc) - 2025-09-10
+* [Issue] [Improve error message consistency for EIP-7623 gas validation errors](https://github.com/paradigmxyz/reth/issues/18369) - 2025-09-10
+* [Pull Request] [fix(engine): avoid block fetching inconsistencies for checks during reorgs](https://github.com/paradigmxyz/reth/pull/18368) - 2025-09-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add blob per tx limit for reth](https://github.com/ethereum/execution-spec-tests/pull/2016) - 2025-08-08
 ## Q2 2025

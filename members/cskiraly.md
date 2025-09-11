@@ -18,6 +18,8 @@ Team: Codex DAS
 * [Pull Request] [eth/catalyst: log errors returned on the API locally (trace level)](https://github.com/ethereum/go-ethereum/pull/32539) - 2025-09-03
 * [Pull Request] [core/txpool/blobpool: Fix getblobs errors](https://github.com/ethereum/go-ethereum/pull/32538) - 2025-09-03
 * [Pull Request] [cmd/devp2p/internal/ethtest: fix possible infinite wait](https://github.com/ethereum/go-ethereum/pull/32551) - 2025-09-08
+* [Pull Request] [core/txpoo/blobpool: clarify conversion in GetBlobs](https://github.com/ethereum/go-ethereum/pull/32578) - 2025-09-10
+* [Pull Request] [core/txpool/blobpool: Do not use blobs with wrong sidecar version while building block after Osaka](https://github.com/ethereum/go-ethereum/pull/32577) - 2025-09-10
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [go-ethereum: localbuild: reduce overhead of local development](https://github.com/ethereum/hive/pull/1336) - 2025-08-28
 

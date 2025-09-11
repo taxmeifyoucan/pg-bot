@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Feature/add trielog to eth simulate v1](https://github.com/hyperledger/besu/pull/9048) - 2025-08-08
 * [Pull Request] [Add explict check for points-on-curve in p256_verify bouncycastle implementation](https://github.com/hyperledger/besu/pull/9146) - 2025-09-03
+* [Commit] [Add explict check for points-on-curve in p256_verify bouncycastle implementation (#9146)](https://github.com/hyperledger/besu/commit/38e87253d1dd153ca2f8575c529fe059c1371ac7) - 2025-09-10
 ## Q2 2025
 
 

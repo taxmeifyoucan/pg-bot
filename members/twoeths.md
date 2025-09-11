@@ -132,6 +132,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: new error code NOT_ENOUGH_SIDECARS_RECEIVED](https://github.com/ChainSafe/lodestar/pull/8351) - 2025-09-08
 * [Issue] [[block-input-refactor] DOWNLOAD_BY_ROOT_ERROR_MISSING_BLOCK_RESPONSE](https://github.com/ChainSafe/lodestar/issues/8350) - 2025-09-08
 * [Commit] [fix: compilation error](https://github.com/ChainSafe/lodestar/commit/c375823e27fd89120d90e1614e85c21da7595a05) - 2025-09-09
+* [Issue] [[block-input-refactor] to many outgoing beacon_blocks_by_root](https://github.com/ChainSafe/lodestar/issues/8362) - 2025-09-10
+* [Pull Request] [chore: revise epoch transition metric bucket](https://github.com/ChainSafe/lodestar/pull/8361) - 2025-09-10
+* [Issue] [gossipsub tracks disconnected peers](https://github.com/ChainSafe/lodestar/issues/8359) - 2025-09-10
 ## Q2 2025
 
 

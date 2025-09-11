@@ -128,6 +128,10 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/a2ebb88005dda0c4e78727ddecaa6c43cbb453f8) - 2025-09-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/6550f3df9cec20db4207e295824d6f8ee0637cd3) - 2025-09-05
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e719d0386debc0dafcd08767404a516f50b6575a) - 2025-09-06
+* [Commit] [fix node failure after eth_call with state override (#16952)](https://github.com/erigontech/erigon/commit/bb52678eee1828f800a94d7ea76a9dd263badf33) - 2025-09-10
+* [Commit] [core/vm: add one more modexp benchmark (#16950)](https://github.com/erigontech/erigon/commit/b24c80641f67adb9cf781e1071eb9685df0959b8) - 2025-09-10
+* [Commit] [add support of arb legacy transactions (#16992)](https://github.com/erigontech/erigon/commit/85fc16766f4ab30fd2cb257003913848c5ee5fbd) - 2025-09-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/3983b152dfe2d505cb0f1c67666aaa0ad135b857) - 2025-09-10
 ## Q2 2025
 
 

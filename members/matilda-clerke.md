@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Implement era1 file export](https://github.com/hyperledger/besu/pull/9081) - 2025-08-14
 * [Pull Request] [Add a quick fix to avoid "Comparison method violates its general contract"](https://github.com/hyperledger/besu/pull/9107) - 2025-08-25
 * [Commit] [Add a quick fix to test (#9107)](https://github.com/hyperledger/besu/commit/994694277cc69673256285a27b1b4d25fd9f2498) - 2025-09-08
+* [Pull Request] [Add peer task executor to testnode implementation](https://github.com/hyperledger/besu/pull/9163) - 2025-09-10
 ## Q2 2025
 
 

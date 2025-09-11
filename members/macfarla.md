@@ -82,6 +82,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [remove deprecated option bonsai-maximum-back-layers-to-load (#9141)](https://github.com/hyperledger/besu/commit/d987985987570506932b88fe0b9edcd1773833f3) - 2025-09-02
 * [Commit] [Add simulateV1 test (#9151)](https://github.com/hyperledger/besu/commit/5c4055e44cbfe118afa3c552f5d87bf911e48452) - 2025-09-04
 * [Pull Request] [update grpc and guava](https://github.com/hyperledger/besu/pull/9150) - 2025-09-04
+* [Commit] [update use of deprecated feature (#9157)](https://github.com/hyperledger/besu/commit/a322c1cc650ed96991915dafb811c6b6ada77cb5) - 2025-09-10
+* [Commit] [remove web3j.quorum dependency (#9160)](https://github.com/hyperledger/besu/commit/8406d5cbe9b82190ffaf38097c469bb1cd74d651) - 2025-09-10
+* [Commit] [Add peer task executor to testnode implementation (#9163)](https://github.com/hyperledger/besu/commit/992e70735db802644258d43caad033d50817858c) - 2025-09-10
+* [Commit] [fix hex regex in era1 filenames (#9162)](https://github.com/hyperledger/besu/commit/83234624f0d9019084cab7a4accb2a5f74e82580) - 2025-09-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob allowance exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2089) - 2025-09-01
 ## Q2 2025

@@ -192,6 +192,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Remove redundant raises](https://github.com/status-im/nimbus-eth1/pull/3640) - 2025-09-08
 * [Commit] [Lint](https://github.com/status-im/nimbus-eth1/commit/f92b8b18b1fd99292c499b6ae09c543878a62f34) - 2025-09-08
 * [Pull Request] [Upgrade docker/login-action to v3](https://github.com/status-im/nimbus-eth1/pull/3654) - 2025-09-09
+* [Issue] [Ship librocksdb.dll with release binary on Windows](https://github.com/status-im/nimbus-eth1/issues/3656) - 2025-09-10
+* [Issue] [Fix and test linux arm64 release binary](https://github.com/status-im/nimbus-eth1/issues/3655) - 2025-09-10
+* [Commit] [Upgrade docker/login-action to v3 (#3654)](https://github.com/status-im/nimbus-eth1/commit/dbd4213639c2726dc5e827e2e9c2deef75258b72) - 2025-09-10
+* [Commit] [Dockerfile: Shift from testing to trixie (#3651)](https://github.com/status-im/nimbus-eth1/commit/f466511b29dff9f541992ffeac09d06e41048bb0) - 2025-09-10
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

@@ -64,6 +64,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [crypto: Avoid to/from Montgomery conversion of y in secp256k1 (#1303)](https://github.com/ipsilon/evmone/commit/6debfd4d015560526edff0840b50692c91932d79) - 2025-08-27
 * [Pull Request] [crypto: Avoid to/from Montgomery conversion of y in secp256k1](https://github.com/ipsilon/evmone/pull/1303) - 2025-08-27
 * [Commit] [crypto: Upgrade ProjPoint to use FieldElement (#1302)](https://github.com/ipsilon/evmone/commit/401ce72e7f86e3e7ac5c0a568fe58082123ad6f6) - 2025-08-27
+* [Commit] [Refactor precompiles traits and lookups (#1308)](https://github.com/ipsilon/evmone/commit/3400f4240be08a86b81842fe332f43881e33b073) - 2025-09-10
+* [Commit] [Refactor precompiles traits and lookups](https://github.com/ipsilon/evmone/commit/f9e71ea743900a38631492c0ab227d6d46ae5260) - 2025-09-10
+* [Pull Request] [Refactor precompiles traits and lookups](https://github.com/ipsilon/evmone/pull/1308) - 2025-09-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 

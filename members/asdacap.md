@@ -224,6 +224,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Slight simplification](https://github.com/NethermindEth/nethermind/commit/f58ff09da0e39606bf95f450c3c75d5879c18487) - 2025-09-08
 * [Commit] [Rename file](https://github.com/NethermindEth/nethermind/commit/3c8d72c63251002d03dbb8d5daaee897a724d5bb) - 2025-09-08
 * [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/d7493f7866fa242f272b833b1795d70340292e29) - 2025-09-08
+* [Commit] [Refactor/Use genesis loader in test (#9259)](https://github.com/NethermindEth/nethermind/commit/007526f50ace624c5208b3adeed8fdb908c9f82e) - 2025-09-10
+* [Commit] [Perf/PatriciaTree bulk set (#9215)](https://github.com/NethermindEth/nethermind/commit/c28c7fef252fc11074bbd7eff8b594b962b03826) - 2025-09-10
+* [Commit] [Auto-update fast sync settings (#9252)](https://github.com/NethermindEth/nethermind/commit/fdcd8c0d0ecba4e049c8cb6cd88df9424f4a2cbb) - 2025-09-10
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/95d87a870268b4eb1e7fb324bba196f3d474b7c6) - 2025-09-10
+* [Pull Request] [Refactor/make codeinforepo scoped](https://github.com/NethermindEth/nethermind/pull/9262) - 2025-09-10
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

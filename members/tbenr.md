@@ -51,6 +51,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Rewrite throttling task queue](https://github.com/Consensys/teku/pull/9848) - 2025-09-04
 * [Commit] [Fix deadlock and another bug in TaskQueue (#9846)](https://github.com/Consensys/teku/commit/7569ff25f4facc4b6a434bc9ea4877c55cebc6ee) - 2025-09-04
 * [Pull Request] [Heavy multithreaded test rewrite for ThrottlingTaskQueue](https://github.com/Consensys/teku/pull/9865) - 2025-09-08
+* [Commit] [Fix validator registration retry (#9883)](https://github.com/Consensys/teku/commit/08d6342ffd3e222ead20e705b16db625d80548d1) - 2025-09-10
 ## Q2 2025
 
 

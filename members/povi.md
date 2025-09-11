@@ -46,6 +46,8 @@ Team: Grandine
 * [Commit] [Update README build instructions](https://github.com/grandinetech/grandine/commit/4428462a83eccc22a3b0fb528f2169e425fb38f6) - 2025-09-05
 * [Pull Request] [Update README build instructions](https://github.com/grandinetech/grandine/pull/354) - 2025-09-05
 * [Commit] [Add R0 and SP1 zkvm guest programs](https://github.com/grandinetech/grandine/commit/fb86ac63bfbaee123df18c51ad033364f1afec28) - 2025-09-05
+* [Commit] [For debug purposes extend `GET /eth/v1/debug/beacon/data_column_sidecars/{block_id}` endpoint to show accepted sidecars even when block is not imported to fork choice](https://github.com/grandinetech/grandine/commit/2448ddf0c2c3c31277748c7546ed32d3584d5146) - 2025-09-10
+* [Pull Request] [For debug purposes extend `GET /eth/v1/debug/beacon/data_column_sidecars/{block_id}` endpoint](https://github.com/grandinetech/grandine/pull/363) - 2025-09-10
 ## Q2 2025
 
 

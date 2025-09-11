@@ -92,6 +92,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/e9862d70d0345ff730e97855d2630d3dfeec2745) - 2025-09-09
 * [Commit] [Use BPO specific gossip channels and SSZ REST contexts for light client (#7471)](https://github.com/status-im/nimbus-eth2/commit/dfd61148b7e6fc1d2e3f9b38a45a7a3322d77f56) - 2025-09-09
 * [Pull Request] [rework getBlobs patch to unstable](https://github.com/status-im/nimbus-eth2/pull/7480) - 2025-09-09
+* [Pull Request] [call rman columns for now, until new syncer comes in](https://github.com/status-im/nimbus-eth2/pull/7484) - 2025-09-10
 ## Q2 2025
 
 

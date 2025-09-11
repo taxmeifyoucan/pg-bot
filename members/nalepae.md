@@ -182,6 +182,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Implement perfect peerdas syncing.](https://github.com/OffchainLabs/prysm/commit/d0a5b9c23354c8f0348919470d719a36f6a00984) - 2025-09-06
 * [Commit] [Fix next epoch proposer duties (#15642)](https://github.com/OffchainLabs/prysm/commit/278b796e431f33b984ad53996f1375c6fde87f87) - 2025-09-07
 * [Commit] [update to v1.6.0-alpha.6 (#15658)](https://github.com/OffchainLabs/prysm/commit/1933adedbfc2a188a704628147d537eb62325a8e) - 2025-09-07
+* [Commit] [Fix James' comment.](https://github.com/OffchainLabs/prysm/commit/fb28e6de71590e0934891dc9389698b21040116c) - 2025-09-10
+* [Commit] [Fix Potuz's commit.](https://github.com/OffchainLabs/prysm/commit/9d51f848f74f5b4166a73a66e5e40c457195b88f) - 2025-09-10
+* [Commit] [Update after Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/0f0bcf1237e61ee04d4b1ca1e91c23ec2345608d) - 2025-09-10
+* [Commit] [Update after Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/4215dfcc13e39822bed53b5a27e9485357b955f3) - 2025-09-10
+* [Commit] [Update after Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/0d5d98ea94d9e90af80d2c5753b8152bd5e7c2b8) - 2025-09-10
+* [Commit] [Update after Potuz's comment.](https://github.com/OffchainLabs/prysm/commit/9e4d8f2376b181b98d518df9f85fc708dcf6b99c) - 2025-09-10
+* [Commit] [Update beacon-chain/sync/data_column_sidecars.go](https://github.com/OffchainLabs/prysm/commit/89573912caa574e2c05ecf80b5420419e298dad6) - 2025-09-10
+* [Commit] [Update beacon-chain/sync/data_column_sidecars.go](https://github.com/OffchainLabs/prysm/commit/d537cb61a1710c8485e416ba9d9a0c34a174999a) - 2025-09-10
+* [Commit] [Update beacon-chain/sync/data_column_sidecars.go](https://github.com/OffchainLabs/prysm/commit/b314471ee836e554a99cd220c4d9a9e17bffb6ff) - 2025-09-10
 ## Q2 2025
 
 

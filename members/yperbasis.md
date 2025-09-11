@@ -171,6 +171,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [switch interfaces to master](https://github.com/erigontech/erigon/commit/a6bdd3dd3c8af20e2d419c91960c323228c58d97) - 2025-09-08
 * [Pull Request] [Update devnet tests to fusaka-devnet-5@v2.1.0](https://github.com/erigontech/erigon/pull/17069) - 2025-09-09
 * [Commit] [Update devnet tests to fusaka-devnet-5@v2.1.0](https://github.com/erigontech/erigon/commit/43e1f6485250e6ead2046b2f08db1e16a9d87b26) - 2025-09-09
+* [Commit] [workflows: stricter hive test pass rates (#17038)](https://github.com/erigontech/erigon/commit/931238d4142563a1aa0ef64fa7a378cc65b2b2a9) - 2025-09-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

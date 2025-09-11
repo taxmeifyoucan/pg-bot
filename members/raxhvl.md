@@ -16,3 +16,5 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [🐞 fix: bal_hash validation](https://github.com/ethereum/execution-spec-tests/commit/02c43c277379aef6d48830f688e0fcb78d312d13) - 2025-08-14
 * [Commit] [✨ feat: case: no-op storage write](https://github.com/ethereum/execution-spec-tests/commit/13da83da6aec976bc4157b703860357a7cbaf04d) - 2025-08-20
 * [Commit] [🥢 nit: Simplify framing for SLOAD/SSTORE test cases](https://github.com/ethereum/execution-spec-tests/commit/21040987563a8c1e770a3c508d201bc2d7704b32) - 2025-09-09
+* [Commit] [🧹 chore(EIP-7928): Remove intrisic gas test](https://github.com/ethereum/execution-spec-tests/commit/68a6cc6467d9f2d70aba21c645c7a1d353790426) - 2025-09-10
+* [Commit] [🥢 nit: Simplify framing for SLOAD/SSTORE test cases](https://github.com/ethereum/execution-spec-tests/commit/d5c03233120807445aff57343f6ddec22b29ea78) - 2025-09-10

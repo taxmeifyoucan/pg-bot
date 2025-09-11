@@ -62,6 +62,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Remove unnecessary make rules (#4548)](https://github.com/ethereum/consensus-specs/commit/3080ccb22515ac0f15c7502b4b63318cb9cd04b0) - 2025-08-29
 * [Pull Request] [Remove unnecessary make rules](https://github.com/ethereum/consensus-specs/pull/4548) - 2025-08-29
 * [Commit] [Add extended help option in Makefile (#4547)](https://github.com/ethereum/consensus-specs/commit/371b096aa4ea5397fa07488205dc3ff037dd6fe0) - 2025-08-29
+* [Issue] [Check python version in makefile rules](https://github.com/ethereum/consensus-specs/issues/4576) - 2025-09-10
+* [Issue] [Show feature specs on the website again](https://github.com/ethereum/consensus-specs/issues/4575) - 2025-09-10
+* [Commit] [Speed up test generation bootstrap (#4574)](https://github.com/ethereum/consensus-specs/commit/8cb65f58b2f90b071e015b6a7c22ea2562fcaea5) - 2025-09-10
+* [Commit] [Bump the actions group with 6 updates (#4572)](https://github.com/ethereum/consensus-specs/commit/df7882fa259adf7723205484925606628c2c34f9) - 2025-09-10
+* [Commit] [Bump the actions group with 4 updates (#4571)](https://github.com/ethereum/consensus-specs/commit/d9ada97fae211cd2061c0830a613f54c1a4dc50d) - 2025-09-10
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

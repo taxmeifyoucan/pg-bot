@@ -187,6 +187,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: more accurate bad block responses (#16994)](https://github.com/erigontech/erigon/commit/f026523d789375664b184e3cde39b9215b7c5f0b) - 2025-09-09
 * [Commit] [Cherry pick:  restore mumbai config (#17037)](https://github.com/erigontech/erigon/commit/f19d24519c149a75132359155fa9f0223015d8b4) - 2025-09-09
 * [Commit] [workflows: run kurtosis on PRs and use fixed ethereum-package version (#17034)](https://github.com/erigontech/erigon/commit/c1957eec51d853556e29e6993e0c0554f54b4a1b) - 2025-09-09
+* [Pull Request] [[DO-NOT-MERGE] wip](https://github.com/erigontech/erigon/pull/17084) - 2025-09-10
+* [Issue] [TestEthConfig panic: fail to open mdbx: mdbx_env_open: The paging file is too small for this operation to complete](https://github.com/erigontech/erigon/issues/17083) - 2025-09-10
 ## Q2 2025
 
 

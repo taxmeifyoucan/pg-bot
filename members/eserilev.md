@@ -20,6 +20,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Backfill Sync error logs due to insufficient synced custody peers](https://github.com/sigp/lighthouse/issues/7966) - 2025-09-01
 * [Pull Request] [Fix tracing subscriber rust audit issue](https://github.com/sigp/lighthouse/pull/7977) - 2025-09-02
 * [Pull Request] [Add max delay to reconstruction](https://github.com/sigp/lighthouse/pull/7976) - 2025-09-02
+* [Pull Request] [Prevent silently dropping cell proof chunks](https://github.com/sigp/lighthouse/pull/8023) - 2025-09-10
 ## Q2 2025
 
 

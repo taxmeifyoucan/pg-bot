@@ -255,6 +255,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [[main] catchinn panic in index lookup (#17053)](https://github.com/erigontech/erigon/commit/be5f519809b344abf74a8ec3de8cffedbc462034) - 2025-09-09
 * [Commit] [rpcd fix](https://github.com/erigontech/erigon/commit/f8175e66d3da3a22ee54fb1eb8f602e68869c5c4) - 2025-09-09
 * [Commit] [wip](https://github.com/erigontech/erigon/commit/ea44a720b38710a859a9354ab4f343028c5a3e04) - 2025-09-09
+* [Commit] [trigger ci](https://github.com/erigontech/erigon/commit/1667c7c77acb6f87006e9cbe7a2b3ff4d7c59ad0) - 2025-09-10
+* [Commit] [trigger ci](https://github.com/erigontech/erigon/commit/9ae4cbdb30bc7d57a5500f3283c12a64824e15c0) - 2025-09-10
+* [Commit] [trigger ci](https://github.com/erigontech/erigon/commit/ca5e4db4fa1a19682a86366486cbd34416f61b8f) - 2025-09-10
+* [Commit] [trigger ci](https://github.com/erigontech/erigon/commit/db3db8dd145335b544daab384b223cf695380ae9) - 2025-09-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

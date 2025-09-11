@@ -17,3 +17,5 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(mimicry): adapt to ethcore Status interface changes](https://github.com/ethpandaops/xatu/commit/d98d82dd6d3253f9e35c0f943e5527bc4d7cf5b4) - 2025-09-01
 * [Commit] [cleanup mods](https://github.com/ethpandaops/xatu/commit/0571d46e16935ca8611d61a011e42e50229d5b86) - 2025-09-01
 * [Pull Request] [feat(mimicry): adapt to ethcore Status interface changes](https://github.com/ethpandaops/xatu/pull/643) - 2025-09-01
+* [Commit] [feat(xatu-server): split outputs into specialized configurations](https://github.com/ethpandaops/xatu/commit/0ae36dedea87245aa82ba235551a5615547ad87f) - 2025-09-11
+* [Pull Request] [feat(xatu-server): split outputs into specialized configurations](https://github.com/ethpandaops/xatu/pull/650) - 2025-09-11

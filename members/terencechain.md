@@ -90,6 +90,17 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Update beacon-chain/sync/kzg_batch_verifier_test.go](https://github.com/OffchainLabs/prysm/commit/cc48c7055e573cfd2bda0408195d7e286cb2ff37) - 2025-09-07
 * [Commit] [Update beacon-chain/sync/batch_verifier.go](https://github.com/OffchainLabs/prysm/commit/ff4a28db2dc80c357afd44a7c61866de97c08af8) - 2025-09-07
 * [Commit] [Update beacon-chain/sync/batch_verifier.go](https://github.com/OffchainLabs/prysm/commit/68430a25913acfe9ae33fd991c4d4230c075706b) - 2025-09-07
+* [Pull Request] [Fix ethspecify check](https://github.com/OffchainLabs/prysm/pull/15680) - 2025-09-10
+* [Commit] [Fix ethspecify check](https://github.com/OffchainLabs/prysm/commit/b4a3a147a50c036e70893db6cc9575e101a0f8b7) - 2025-09-10
+* [Commit] [Fix ethspecify check](https://github.com/OffchainLabs/prysm/commit/507bfb2c6766020799b8c78385c2e252fcd8ce60) - 2025-09-10
+* [Commit] [spectests: Set mainnet spectests to size=large. This helps with some CI timeouts. CI is showing an average time of 4m39s, which is too close to the 5m timeout for a moderate test (#15664)](https://github.com/OffchainLabs/prysm/commit/0057cc57b59335523852e9bb0050769f1e07fe1f) - 2025-09-10
+* [Commit] [Kasey's feedback](https://github.com/OffchainLabs/prysm/commit/0feae98410dc854494a4eadd4b2cdcbb5775694a) - 2025-09-10
+* [Commit] [Kasey's feedback](https://github.com/OffchainLabs/prysm/commit/16110b54b8d103604a83892285a5fc909aa70430) - 2025-09-10
+* [Commit] [Kasey's feedback](https://github.com/OffchainLabs/prysm/commit/593fedae4f216b9e856e2618bda336290c7356f2) - 2025-09-10
+* [Commit] [Kasey's feedback](https://github.com/OffchainLabs/prysm/commit/39ea71d7b8599f4814f8e0623c4b4f9e330c03fe) - 2025-09-10
+* [Commit] [Kasey's feedback](https://github.com/OffchainLabs/prysm/commit/4f2ae2d38f508b02c5473f10efb70bb47d139d99) - 2025-09-10
+* [Commit] [Kasey's feedback](https://github.com/OffchainLabs/prysm/commit/ac9c9cbe81a59997c73ba435e3617832f324a02a) - 2025-09-10
+* [Commit] [Kasey's feedback](https://github.com/OffchainLabs/prysm/commit/b7105f6d29e4dc9fdcfde79320be9d63b4b16f75) - 2025-09-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

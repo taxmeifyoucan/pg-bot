@@ -81,6 +81,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [refactor subscription parameter tracking type](https://github.com/OffchainLabs/prysm/commit/c3fcedbbe086233c6f4690dbef9bcd73d7fc5a1a) - 2025-09-09
 * [Commit] [refactor subscription parameter tracking type](https://github.com/OffchainLabs/prysm/commit/5b11377d57556b07425487346294154e51029a57) - 2025-09-09
 * [Commit] [chore: Remove duplicated test case from TestCollector (#15672)](https://github.com/OffchainLabs/prysm/commit/4e8a710b6451ef989aa178ae2d93259c8d2dc70c) - 2025-09-09
+* [Pull Request] [Justin's suggestion to unwedge CI](https://github.com/OffchainLabs/prysm/pull/15679) - 2025-09-10
+* [Commit] [justin's suggestion to unwedge CI](https://github.com/OffchainLabs/prysm/commit/0a30b122d4bdd1335e8ff501672667665939d4f7) - 2025-09-10
+* [Commit] [Optimize processing of slashings (#14990)](https://github.com/OffchainLabs/prysm/commit/3f5c4df7e0ed15d9bbbd47ab8bc5affc1812a36a) - 2025-09-10
+* [Commit] [adding remote singer changes for fulu (#15498)](https://github.com/OffchainLabs/prysm/commit/8136ff7c3a8999ff39084d55c606d58cbf01c45e) - 2025-09-10
 ## Q2 2025
 
 

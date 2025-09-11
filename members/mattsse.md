@@ -197,6 +197,10 @@ Team: Reth
 * [Commit] [fix(stages): implement entities checkpoint update in merkle stage unwind (#18131)](https://github.com/paradigmxyz/reth/commit/b7c2b562e190b33358d39d260eeeb35a7a6b414e) - 2025-09-09
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/7f4becadd457d28bd5afed396e49f53fa4bd4f5c) - 2025-09-09
 * [Pull Request] [refactor(revm): (#18150) use hardfork activation helpers](https://github.com/paradigmxyz/reth/pull/18349) - 2025-09-09
+* [Issue] [cache recent flashblock sequences](https://github.com/paradigmxyz/reth/issues/18373) - 2025-09-10
+* [Issue] [specialize send_raw_transaction_sync for op-reth](https://github.com/paradigmxyz/reth/issues/18372) - 2025-09-10
+* [Issue] [Specialize get_transaction_receipt for op-reth](https://github.com/paradigmxyz/reth/issues/18371) - 2025-09-10
+* [Pull Request] [fix: check payload id](https://github.com/paradigmxyz/reth/pull/18370) - 2025-09-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19
