@@ -148,6 +148,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed b1441c9feeb to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e4181d3c423f89053b72b167c208587ac7aa806e) - 2025-09-09
 * [Commit] [Deployed 58368d66958 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e4dc549733d938f05b5c18c5229b9f4d9fd99c1f) - 2025-09-10
 * [Commit] [Deployed 8b9fa6193ac to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/693226180c4f5ba7a053d3e1c28d66be22975a56) - 2025-09-10
+* [Commit] [Deployed a7544eb16dc to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/29c7f94c268c46dc0e962ec42928d0202e920fa6) - 2025-09-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 ## Q2 2025

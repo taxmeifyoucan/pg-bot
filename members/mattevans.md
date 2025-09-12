@@ -31,6 +31,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: add automated inventory generation for network clients](https://github.com/ethpandaops/cartographoor/pull/20) - 2025-08-21
 * [Commit] [build: upgrade golangci-lint to v2.4.0 and migrate wsl to wsl_v5](https://github.com/ethpandaops/cartographoor/commit/9c69c57ec9a0cecd60d156a384e23c0982b16856) - 2025-09-01
 * [Pull Request] [build: upgrade golangci-lint to v2.4.0 and migrate wsl to wsl_v5](https://github.com/ethpandaops/cartographoor/pull/26) - 2025-09-01
+* [Commit] [chore(deps): bump the actions group across 1 directory with 2 updates](https://github.com/ethpandaops/cartographoor/commit/e84a5346fede0ff24660e34d5c12cb38c370807c) - 2025-09-11
+* [Commit] [refactor(inventory): pass full network name to generator methods](https://github.com/ethpandaops/cartographoor/commit/b8b49ec15391d18f4417c5d8750b53386674c9be) - 2025-09-11
+* [Pull Request] [refactor(inventory): pass full network name to generator methods](https://github.com/ethpandaops/cartographoor/pull/33) - 2025-09-11
+* [Commit] [feat: add self-hosted DNS detection and dynamic URL generation](https://github.com/ethpandaops/cartographoor/commit/b2368be304510e8b34993d70a871f27b29fb6d67) - 2025-09-11
+* [Pull Request] [feat: add self-hosted DNS detection and dynamic URL generation](https://github.com/ethpandaops/cartographoor/pull/32) - 2025-09-11
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Pull Request] [docs: remove stray "test" line from README](https://github.com/ethpandaops/contributoor/pull/138) - 2025-08-18
 
@@ -80,3 +85,20 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(golangci): skip vendor directory during linting](https://github.com/ethpandaops/lab/commit/b226fe2cfe870d6aea2af7ced11f349c0721a5bb) - 2025-09-08
 * [Commit] [feat(deps): bump xatu-cbt to 20250908014536-8113103a9e9d](https://github.com/ethpandaops/lab/commit/7cf1506263f7d8123cf24c61bab6987fa68a68dd) - 2025-09-08
 * [Pull Request] [feat(deps): bump xatu-cbt + regen](https://github.com/ethpandaops/lab/pull/57) - 2025-09-08
+* [Commit] [feat: restore dedicated /xatu route with its own pages](https://github.com/ethpandaops/lab/commit/9f35598a5bcf5ee1bf16d6619c3a405977e33f01) - 2025-09-11
+* [Pull Request] [feat: restore dedicated /xatu route with its own pages](https://github.com/ethpandaops/lab/pull/67) - 2025-09-11
+* [Commit] [refactor: consolidate xatu routes under single /xatu-data path](https://github.com/ethpandaops/lab/commit/8cd925678259c4da74e6d699f147077bcc6a6903) - 2025-09-11
+* [Commit] [feat(App.tsx): add redirects from old /xatu routes to new /xatu-data routes](https://github.com/ethpandaops/lab/commit/0e271fafa757ea09a44211fdf4ff8bb219c0b6b9) - 2025-09-11
+* [Pull Request] [refactor: consolidate xatu routes under single /xatu-data path](https://github.com/ethpandaops/lab/pull/66) - 2025-09-11
+* [Commit] [feat: add Xatu CBT service with network and node listing endpoints](https://github.com/ethpandaops/lab/commit/1f983099e454920632e4cce49d4fa357f03d2341) - 2025-09-11
+* [Commit] [fix(public_router): add Vary header for Accept-Encoding to ensure proper cache behavior](https://github.com/ethpandaops/lab/commit/b4f8db1846e96fae08d22d31567a68184cd3ae59) - 2025-09-11
+* [Commit] [ci(release.yml): simplify docker tags to only keep version and latest on main/master](https://github.com/ethpandaops/lab/commit/5eead32c9cd754dee3937c87684bc86d00e337b8) - 2025-09-11
+* [Commit] [ci: add alpha release workflow for release/* branches](https://github.com/ethpandaops/lab/commit/238ae9ab8475ad516d8fd79e47f8105d775a026a) - 2025-09-11
+* [Commit] [ci: add alpha release workflow for release/* branches](https://github.com/ethpandaops/lab/commit/aeeecb4fa8a519afc960b7a55ab0edce668d8ace) - 2025-09-11
+* [Commit] [feat: replace holesky with hoodi across the frontend](https://github.com/ethpandaops/lab/commit/09880ace84f50be60cffe76295071b9e0eb5e8cf) - 2025-09-11
+* [Pull Request] [ci: consolidate container build workflows and add build-and-push job to alpha-releases](https://github.com/ethpandaops/lab/pull/65) - 2025-09-11
+* [Commit] [ci: consolidate container build workflows and add build-and-push job to alpha-releases](https://github.com/ethpandaops/lab/commit/7bd21e4582c3162cc279f73675cae8dbd20eb428) - 2025-09-11
+* [Pull Request] [feat: replace holesky with hoodi across the frontend](https://github.com/ethpandaops/lab/pull/64) - 2025-09-11
+* [Commit] [feat(About): redesign page with hero, feature cards, and resource links](https://github.com/ethpandaops/lab/commit/77bc4a16cc8fd891ee2f512b74fdf1a5aa9a22f4) - 2025-09-11
+* [Commit] [refactor: remove XatuCallToAction from all xatu pages and extend alert paths](https://github.com/ethpandaops/lab/commit/c41d6421e5c806f4f794658d73719c197e3bde91) - 2025-09-11
+* [Pull Request] [refactor: remove XatuCallToAction from all xatu pages and extend alert paths](https://github.com/ethpandaops/lab/pull/63) - 2025-09-11

@@ -73,6 +73,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [CI: extract tag (#3632)](https://github.com/status-im/nimbus-eth1/commit/69cc793ced005e9b7cdb3f6885dc075ff24a74f2) - 2025-09-08
 * [Pull Request] [update versions to v0.2.0 for aplha release](https://github.com/status-im/nimbus-eth1/pull/3645) - 2025-09-08
 * [Commit] [Add EL debug_getBlockHeader and use for Portal block verification (#3637)](https://github.com/status-im/nimbus-eth1/commit/0788b21df45a401fb9a0dbe29cdd1f630f71c823) - 2025-09-10
+* [Pull Request] [shift commithash calc from eth2 to native eth1](https://github.com/status-im/nimbus-eth1/pull/3664) - 2025-09-11
+* [Commit] [shift commithash calc from eth2 to native eth1](https://github.com/status-im/nimbus-eth1/commit/b758ca652c306575abe8101865e717e6e68540a6) - 2025-09-11
+* [Commit] [enable -fomit-frame-pointer for windows](https://github.com/status-im/nimbus-eth1/commit/dd56c8bf737c30e19f5e66dd9bcc96376aed7783) - 2025-09-11
 ## Q2 2025
 
 

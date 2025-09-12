@@ -229,6 +229,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Auto-update fast sync settings (#9252)](https://github.com/NethermindEth/nethermind/commit/fdcd8c0d0ecba4e049c8cb6cd88df9424f4a2cbb) - 2025-09-10
 * [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/95d87a870268b4eb1e7fb324bba196f3d474b7c6) - 2025-09-10
 * [Pull Request] [Refactor/make codeinforepo scoped](https://github.com/NethermindEth/nethermind/pull/9262) - 2025-09-10
+* [Commit] [Umm... that was a mistake](https://github.com/NethermindEth/nethermind/commit/a0bff7ef2613bdba69525d45706db3619f9decad) - 2025-09-11
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/a074413bcd7a78c5646b7c856b1d7339ba9558a9) - 2025-09-11
+* [Commit] [Reduce use of storage root slightly (#9255)](https://github.com/NethermindEth/nethermind/commit/4ddc948843e5ea16153a5ad65fdf97166c8240bc) - 2025-09-11
+* [Pull Request] [Use extension method in some ITransactionProcessor interface method.](https://github.com/NethermindEth/nethermind/pull/9272) - 2025-09-11
+* [Commit] [Cleanup/move TransactionProcessed event to `IMainProcessingContext` (#9271)](https://github.com/NethermindEth/nethermind/commit/e9fd415b5ec1da0a8ffad3ec7029acf0f411e541) - 2025-09-11
+* [Pull Request] [Cleanup/move TransactionProcessed event to `IMainProcessingContext`](https://github.com/NethermindEth/nethermind/pull/9271) - 2025-09-11
+* [Commit] [Slight simplification](https://github.com/NethermindEth/nethermind/commit/0bafcfae441c6e8261ca4bc3050229260c01a749) - 2025-09-11
+* [Commit] [Refactor/make codeinforepo scoped (#9262)](https://github.com/NethermindEth/nethermind/commit/59d02ea7155074506aa0f6f6786de962f3d15746) - 2025-09-11
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

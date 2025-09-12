@@ -63,6 +63,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [QA-rpc: Enable test on latest on CI](https://github.com/erigontech/erigon/pull/16964) - 2025-09-02
 * [Commit] [remove release/3.x](https://github.com/erigontech/erigon/commit/b26e63ce5177058b53d514a4a06ea9ccfd822006) - 2025-09-03
 * [Pull Request] [rpcdaemon: Lupin012/fix block notfound as geth](https://github.com/erigontech/erigon/pull/17043) - 2025-09-07
+* [Commit] [add codeHash](https://github.com/erigontech/erigon/commit/82629ec4020fffdb3483ff5287d8be4b64fa5373) - 2025-09-11
+* [Pull Request] [rpcdaemon: prestate tracer with code hash eth get transaction receipt with block timetsamp](https://github.com/erigontech/erigon/pull/17086) - 2025-09-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
@@ -99,6 +101,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix algo](https://github.com/erigontech/rpc-tests/commit/42f2bcdd3488ab0233bf9fb72e2caa5f63a161c3) - 2025-09-06
 * [Pull Request] [integration_test: add blockTimestamp](https://github.com/erigontech/rpc-tests/pull/448) - 2025-09-07
 * [Pull Request] [integration_test: fix exp for block not found](https://github.com/erigontech/rpc-tests/pull/447) - 2025-09-07
+* [Pull Request] [integration_test: fix exp debug_traceCall with codeHash using prestate logger](https://github.com/erigontech/rpc-tests/pull/453) - 2025-09-11
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

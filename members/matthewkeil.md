@@ -92,6 +92,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: remove duplicate BlockInputCache](https://github.com/ChainSafe/lodestar/commit/5c3d888b56d2c831f63fd481aaf2eab95f91b3bc) - 2025-09-09
 * [Commit] [chore: fix check-types](https://github.com/ChainSafe/lodestar/commit/1a7b1e45104e85b7d702b37a76871b5fd15c06a9) - 2025-09-10
 * [Commit] [feat: log number of pruned BlockInputs](https://github.com/ChainSafe/lodestar/commit/d46bf59929e23f8cc73f673baacab6ff77a039c2) - 2025-09-10
+* [Commit] [fix: add blocks to all BatchState (#8369)](https://github.com/ChainSafe/lodestar/commit/ee00704e360d28602025d031edbd10cbae9c05c5) - 2025-09-11
 ## Q2 2025
 
 

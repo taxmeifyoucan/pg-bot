@@ -81,6 +81,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Use BPO specific gossip channels and SSZ REST contexts for light client](https://github.com/status-im/nimbus-eth2/commit/7a7e30b664efbf1c6c8e3bfac93d9f009e4a9d2f) - 2025-09-08
 * [Pull Request] [Auto bump nim-sqlite3-abi](https://github.com/status-im/nimbus-eth2/pull/7470) - 2025-09-08
 * [Pull Request] [Store runtime SECONDS_PER_SLOT value in RuntimeConfig](https://github.com/status-im/nimbus-eth2/pull/7479) - 2025-09-09
+* [Pull Request] [Extend SSZ generic tests with CompatibleUnion tests](https://github.com/status-im/nimbus-eth2/pull/7487) - 2025-09-11
+* [Commit] [Extend SSZ generic tests with CompatibleUnion tests](https://github.com/status-im/nimbus-eth2/commit/8446131e67a977b8f7da0022fe49cbcc145c4ead) - 2025-09-11
 ## Q2 2025
 
 

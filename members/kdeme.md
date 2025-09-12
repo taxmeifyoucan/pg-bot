@@ -43,6 +43,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add EL debug_getBlockHeader and use for Portal block verification](https://github.com/status-im/nimbus-eth1/commit/95f52214a916bd450693fb229a0606dcc65b8daa) - 2025-09-08
 * [Commit] [Fix txRoot check bug as zeroHash32 instead of emptyRoot was used](https://github.com/status-im/nimbus-eth1/commit/a27f133eb7d22bcf5fdf035fbc1f4ba7764f9758) - 2025-09-09
 * [Commit] [Fix era import by adjusting getUncleHashes to not use getBlockBody](https://github.com/status-im/nimbus-eth1/commit/82969fc0e1b3eee0d15f8766d6460fd0b62591ac) - 2025-09-09
+* [Pull Request] [Portal: Remove support for Portal wire v0](https://github.com/status-im/nimbus-eth1/pull/3663) - 2025-09-11
 ## Q2 2025
 
 

@@ -202,6 +202,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/092462e8f79c1cef68407daa0673efb85fc03d9b) - 2025-08-30
 * [Pull Request] [Cherry-pick: pick Caplin fixes for Fusaka and block downloader](https://github.com/erigontech/erigon/pull/17016) - 2025-09-04
 * [Commit] [Caplin: improvement and simplification on peer selection (#16995)](https://github.com/erigontech/erigon/commit/131448ec641152436790939371a93b67ce730188) - 2025-09-04
+* [Pull Request] [DO NOT MERGE - Docker image](https://github.com/erigontech/erigon/pull/17089) - 2025-09-11
+* [Commit] [API get blobs (#17076)](https://github.com/erigontech/erigon/commit/25eb4ceb42abfbeecffb92357ac16e71262c2b59) - 2025-09-11
 ## Q2 2025
 
 

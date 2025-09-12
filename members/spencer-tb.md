@@ -124,6 +124,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(eip_checklist): Print warnings + embed links to test functions (#2103)](https://github.com/ethereum/execution-spec-tests/commit/6b273bd9755201cd16db521d43ebf5d4bb166e46) - 2025-09-09
 * [Commit] [tests(eip7823): Add implementation coverage tests for ModExp bounds (#2117)](https://github.com/ethereum/execution-spec-tests/commit/df69127105c7b42e72f38ee4a9fc097ef6d22ab8) - 2025-09-09
 * [Commit] [feat(tests): add zero edge cases for modexp eip7883 gas cost tests (#2108)](https://github.com/ethereum/execution-spec-tests/commit/b1441c9feeb69a20cfcbf958df7fc95218c5311b) - 2025-09-09
+* [Commit] [chore(cli): Use regex for missing-module-definition exceptions (#2127)](https://github.com/ethereum/execution-spec-tests/commit/a4da3162087e60ab899c9ccc48a50a6c35618c1d) - 2025-09-11
+* [Commit] [chore(tooling): fixes mypy and ruff (non-tox config) warnings/errors (#2131)](https://github.com/ethereum/execution-spec-tests/commit/e28cb6dc475c50bd28b3d4385c61350f263d3bb4) - 2025-09-11
+* [Pull Request] [chore(ci): bump tox verify gh runner](https://github.com/ethereum/execution-spec-tests/pull/2130) - 2025-09-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

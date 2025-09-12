@@ -71,6 +71,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 
 * [Pull Request] [feat(tests): add more EIP-7823 modexp limit tests](https://github.com/ethereum/execution-spec-tests/pull/2042) - 2025-08-15
+* [Issue] [Port evmone test cases](https://github.com/ethereum/execution-spec-tests/issues/2129) - 2025-09-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Paweł Bylica to Erigon](https://github.com/protocolguild/documentation/pull/389) - 2025-07-27
 ## Q2 2025

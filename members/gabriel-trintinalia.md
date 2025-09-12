@@ -58,6 +58,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [Fix tracing world updater chain](https://github.com/hyperledger/besu/pull/9133) - 2025-08-28
 * [Commit] [Extend `CallParameter` for unsigned delegation (#9066)](https://github.com/hyperledger/besu/commit/50c3ee86e5f83dc9d6614978e57c3e4c6c3e6fb3) - 2025-09-04
 * [Pull Request] [feat(plugin-api): extend plugin api with status methods](https://github.com/hyperledger/besu/pull/9154) - 2025-09-05
+* [Pull Request] [test(fusaka): update reference tests to v5.0.0](https://github.com/hyperledger/besu/pull/9171) - 2025-09-11
+* [Commit] [fix(osaka): move tx blob count validation outside of commitments validation (#9164)](https://github.com/hyperledger/besu/commit/198fc4ab6e95304f2e8bcc0b1bee5b8e8c6f6cc4) - 2025-09-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025

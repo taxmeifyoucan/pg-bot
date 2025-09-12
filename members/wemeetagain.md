@@ -110,6 +110,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: use single downloadByRoot error metric](https://github.com/ChainSafe/lodestar/commit/55350fbf8adb5acfec593acd0871790d7a6d366d) - 2025-09-09
 * [Commit] [fix: update logs if block not found while handling unavailable data columns (#8337)](https://github.com/ChainSafe/lodestar/commit/32681419fdcbb0b143fcb67a048768d28280424e) - 2025-09-09
 * [Commit] [fix: min key for the archive data columns (#8345)](https://github.com/ChainSafe/lodestar/commit/1817ab113da853b6b5c835dba352afd21629c316) - 2025-09-09
+* [Commit] [Update packages/beacon-node/src/sync/range/chain.ts](https://github.com/ChainSafe/lodestar/commit/76ade6e49eec55117ab5f935df5712cfde3627f0) - 2025-09-11
 ## Q2 2025
 
 

@@ -201,6 +201,9 @@ Team: Reth
 * [Issue] [specialize send_raw_transaction_sync for op-reth](https://github.com/paradigmxyz/reth/issues/18372) - 2025-09-10
 * [Issue] [Specialize get_transaction_receipt for op-reth](https://github.com/paradigmxyz/reth/issues/18371) - 2025-09-10
 * [Pull Request] [fix: check payload id](https://github.com/paradigmxyz/reth/pull/18370) - 2025-09-10
+* [Issue] [replace PendingBlockAndReceipts tuple with dedicated struct](https://github.com/paradigmxyz/reth/issues/18394) - 2025-09-11
+* [Issue] [Use decode_2718_exact for recover raw txs](https://github.com/paradigmxyz/reth/issues/18380) - 2025-09-11
+* [Pull Request] [chore: use decode exact fo raw recovery](https://github.com/paradigmxyz/reth/pull/18379) - 2025-09-11
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

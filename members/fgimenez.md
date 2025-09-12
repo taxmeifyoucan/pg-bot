@@ -122,6 +122,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [chore(ci): bump hive eest tests](https://github.com/paradigmxyz/reth/commit/6bda1b47348308bfe948d070a5dd6c05d9d831cc) - 2025-09-10
 * [Issue] [Improve error message consistency for EIP-7623 gas validation errors](https://github.com/paradigmxyz/reth/issues/18369) - 2025-09-10
 * [Pull Request] [fix(engine): avoid block fetching inconsistencies for checks during reorgs](https://github.com/paradigmxyz/reth/pull/18368) - 2025-09-10
+* [Commit] [add flaky test](https://github.com/paradigmxyz/reth/commit/6fcc68dce428090360eab8db77d6fb09b0ab5a02) - 2025-09-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add blob per tx limit for reth](https://github.com/ethereum/execution-spec-tests/pull/2016) - 2025-08-08
 ## Q2 2025

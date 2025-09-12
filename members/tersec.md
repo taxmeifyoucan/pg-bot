@@ -174,6 +174,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [chronicles: bump (#7448)](https://github.com/status-im/nimbus-eth2/commit/d26b7604fddafcb4dd3cfb0955e0bb25d68712d7) - 2025-09-08
 * [Commit] [Fix missing block hash check on engine timeout, clean up storeBlock (#7444)](https://github.com/status-im/nimbus-eth2/commit/2c5944bf9df5f092a666c35ca3ce4cce74e3921f) - 2025-09-08
 * [Commit] [rework getBlobs patch to unstable (#7480)](https://github.com/status-im/nimbus-eth2/commit/808760c04c3e03ec7a52d470bf4e02648af67ef9) - 2025-09-09
+* [Commit] [finer rman column requests (#7486)](https://github.com/status-im/nimbus-eth2/commit/d344a3774795298f435f8c6c01c69df58f17781a) - 2025-09-11
+* [Commit] [Handle cancellation while acquiring sync queue lock (#7483)](https://github.com/status-im/nimbus-eth2/commit/c3d22706b339193dd6c571ecb8de8aea5cacbcab) - 2025-09-11
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13
@@ -186,6 +188,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [electra.ExecutionPayloadHeader is no more](https://github.com/status-im/nimbus-eth1/commit/a23a4acd5d60da3ee1a3ba151a3a3302bc410fa3) - 2025-09-05
 * [Commit] [restore access to EMPTY_UNCLE_HASH](https://github.com/status-im/nimbus-eth1/commit/058999a144f7d76d27d77a106f3f8cce050d137b) - 2025-09-05
 * [Pull Request] [bump nimbus-eth2 for gloas fork infrastructure adaptation](https://github.com/status-im/nimbus-eth1/pull/3631) - 2025-09-05
+* [Commit] [shift commithash calc from eth2 to native eth1 (#3664)](https://github.com/status-im/nimbus-eth1/commit/f10349dc28fd2e03a99f003fecfc99a70e819cc8) - 2025-09-11
 ## Q2 2025
 
 

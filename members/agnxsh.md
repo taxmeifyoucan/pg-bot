@@ -93,6 +93,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Use BPO specific gossip channels and SSZ REST contexts for light client (#7471)](https://github.com/status-im/nimbus-eth2/commit/dfd61148b7e6fc1d2e3f9b38a45a7a3322d77f56) - 2025-09-09
 * [Pull Request] [rework getBlobs patch to unstable](https://github.com/status-im/nimbus-eth2/pull/7480) - 2025-09-09
 * [Pull Request] [call rman columns for now, until new syncer comes in](https://github.com/status-im/nimbus-eth2/pull/7484) - 2025-09-10
+* [Commit] [enforce that non-spec/forks code can't directly access most ForkDigests (#7478)](https://github.com/status-im/nimbus-eth2/commit/96f6d72370cddb6c8d8982315319dc6d5ef472e5) - 2025-09-11
+* [Pull Request] [finer column requests for rman](https://github.com/status-im/nimbus-eth2/pull/7488) - 2025-09-11
 ## Q2 2025
 
 

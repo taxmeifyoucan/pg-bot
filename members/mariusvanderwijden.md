@@ -33,6 +33,7 @@ Team: Geth
 * [Commit] [p2p: use slices.Clone (#32428)](https://github.com/ethereum/go-ethereum/commit/9b2e8e7ce3772bde521740c4b4c5459927511d2e) - 2025-08-25
 * [Pull Request] [core/vm: switch gas computation to uint256](https://github.com/ethereum/go-ethereum/pull/32508) - 2025-08-28
 * [Pull Request] [core/vm: switch modexp gas computation to uint64](https://github.com/ethereum/go-ethereum/pull/32527) - 2025-09-01
+* [Commit] [eth/catalyst: enable newpayloadV4 on BPOs (#32589)](https://github.com/ethereum/go-ethereum/commit/8a19582c8d939e62cdb8a5172779076b9d71902c) - 2025-09-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Map TYPE_3_TX_BLOB_COUNT_EXCEEDED](https://github.com/ethereum/execution-spec-tests/pull/1958) - 2025-07-28
 ## Q2 2025

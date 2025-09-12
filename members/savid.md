@@ -19,3 +19,5 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(mimicry): adapt to ethcore Status interface changes](https://github.com/ethpandaops/xatu/pull/643) - 2025-09-01
 * [Commit] [feat(xatu-server): split outputs into specialized configurations](https://github.com/ethpandaops/xatu/commit/0ae36dedea87245aa82ba235551a5615547ad87f) - 2025-09-11
 * [Pull Request] [feat(xatu-server): split outputs into specialized configurations](https://github.com/ethpandaops/xatu/pull/650) - 2025-09-11
+* [Commit] [update Kafka topic configuration with improved retention and compression settings](https://github.com/ethpandaops/xatu/commit/55cebf94cfe7f532a794a9f7195d3b28a404d0b7) - 2025-09-11
+* [Pull Request] [feat(docker): update Kafka topic configuration with improved retention and compression settings](https://github.com/ethpandaops/xatu/pull/652) - 2025-09-11

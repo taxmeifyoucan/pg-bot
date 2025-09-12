@@ -85,6 +85,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [justin's suggestion to unwedge CI](https://github.com/OffchainLabs/prysm/commit/0a30b122d4bdd1335e8ff501672667665939d4f7) - 2025-09-10
 * [Commit] [Optimize processing of slashings (#14990)](https://github.com/OffchainLabs/prysm/commit/3f5c4df7e0ed15d9bbbd47ab8bc5affc1812a36a) - 2025-09-10
 * [Commit] [adding remote singer changes for fulu (#15498)](https://github.com/OffchainLabs/prysm/commit/8136ff7c3a8999ff39084d55c606d58cbf01c45e) - 2025-09-10
+* [Commit] [fix bug in isInSlotOrder](https://github.com/OffchainLabs/prysm/commit/e852b62d6ee79d248a4e510cb4aff004459ce2df) - 2025-09-11
+* [Commit] [Implement KZG proof batch verification (option 2) - uses worker pool (#15617)](https://github.com/OffchainLabs/prysm/commit/9e40551852819602f784d89f6a3397ce75d07dd0) - 2025-09-11
+* [Commit] [DataColumnSidecar backfill](https://github.com/OffchainLabs/prysm/commit/62d555d8e9ebbac3ebcc843f22f66ca5f69be085) - 2025-09-11
 ## Q2 2025
 
 

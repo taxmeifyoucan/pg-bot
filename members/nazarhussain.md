@@ -106,6 +106,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix max columns inclusive range](https://github.com/ChainSafe/lodestar/commit/27f4b80bb2c90c367b2d1a9e6faeed1d0cc049d1) - 2025-09-09
 * [Commit] [fix: deduplicate slots to delete archived DatacolumnSidecars (#8357)](https://github.com/ChainSafe/lodestar/commit/09ef70bbb0c64bd64cf1faacab87aae3d2622030) - 2025-09-09
 * [Commit] [Update the slot key size](https://github.com/ChainSafe/lodestar/commit/090c5540daa23cefb5c5bc42040635c21e005792) - 2025-09-09
+* [Pull Request] [deps: update the `elliptic` to fix a vulnerability ](https://github.com/ChainSafe/lodestar/pull/8374) - 2025-09-11
+* [Issue] [Verify all dependencies related to NPM incident on 08-Sep-2025](https://github.com/ChainSafe/lodestar/issues/8373) - 2025-09-11
 ## Q2 2025
 
 

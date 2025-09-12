@@ -58,6 +58,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [cmd/keeper: use hoodi block for example file](https://github.com/gballet/go-ethereum/commit/f9892c2fc31f1c35fc3c712f91e0cc5b6129d1af) - 2025-09-05
 * [Commit] [eth: add debug_executionWitness and an error check for the parent](https://github.com/gballet/go-ethereum/commit/8f7cb130d50754a5f8b314cf3c9fc1d576e1b883) - 2025-09-05
 * [Commit] [p2p: using math.MaxInt32 from go std lib (#32357)](https://github.com/gballet/go-ethereum/commit/997dff4fae6470dced58fbd6f8e57f8d496487d4) - 2025-09-08
+* [Commit] [rpc: show more error detail for `invalidMessageError` (#30191)](https://github.com/gballet/go-ethereum/commit/57e662793287651dcfd36c52fb40a83c54682810) - 2025-09-11
+* [Commit] [params: release Geth v1.14.6](https://github.com/gballet/go-ethereum/commit/d5ebd4bbf66a96234082e2a0ac6f4c4908966108) - 2025-09-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [test(benchmark): implement CREATE2 addressing for bloatnet tests](https://github.com/ethereum/execution-spec-tests/pull/2090) - 2025-09-01
 ## Q2 2025

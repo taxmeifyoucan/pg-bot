@@ -48,6 +48,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [refactor(weld): Full WELD (#1377)](https://github.com/ethereum/execution-specs/commit/c71e5aa3494271742927b372490b514f3c370696) - 2025-08-28
 * [Issue] [Can eels t8n except chain_id != 1](https://github.com/ethereum/execution-specs/issues/1394) - 2025-08-29
 * [Issue] [chore(doc): Re-visit the tracing documentation for json_infra tests](https://github.com/ethereum/execution-specs/issues/1398) - 2025-09-02
+* [Issue] [refactor(tool): Change `is_after_fork` method](https://github.com/ethereum/execution-specs/issues/1424) - 2025-09-11
 ## Q2 2025
 
 

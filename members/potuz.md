@@ -41,6 +41,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Implement `SendDataColumnSidecarsByRangeRequest` and `SendDataColumnSidecarsByRootRequest`. (#15430)](https://github.com/OffchainLabs/prysm/commit/121914d0d7a98e7e346a16f96193cef818c1e69a) - 2025-09-09
 * [Commit] [Add Fulu support](https://github.com/OffchainLabs/prysm/commit/88123e305e4e4124bf84211dace25b092acdabec) - 2025-09-10
 * [Commit] [Add Fulu support](https://github.com/OffchainLabs/prysm/commit/6c95814538376e748d89033ca6a04bba59b488a8) - 2025-09-10
+* [Commit] [Remove test](https://github.com/OffchainLabs/prysm/commit/fd35a89f99f4aad082416d512b649e08390f27ff) - 2025-09-11
 [prysmaticlabs/hashtree](https://github.com/prysmaticlabs/hashtree)
 * [Commit] [add HashByteSlice (#51)](https://github.com/OffchainLabs/hashtree/commit/f733b7698511b5498b722421a30ddf7e5066497c) - 2025-08-31
 ## Q2 2025

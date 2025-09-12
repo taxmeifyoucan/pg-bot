@@ -67,6 +67,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Speed up test generation bootstrap (#4574)](https://github.com/ethereum/consensus-specs/commit/8cb65f58b2f90b071e015b6a7c22ea2562fcaea5) - 2025-09-10
 * [Commit] [Bump the actions group with 6 updates (#4572)](https://github.com/ethereum/consensus-specs/commit/df7882fa259adf7723205484925606628c2c34f9) - 2025-09-10
 * [Commit] [Bump the actions group with 4 updates (#4571)](https://github.com/ethereum/consensus-specs/commit/d9ada97fae211cd2061c0830a613f54c1a4dc50d) - 2025-09-10
+* [Commit] [Disable pathos library with threads=1 in test generation (#4568)](https://github.com/ethereum/consensus-specs/commit/a884c006581cf303c74fc3f021fbb1aa1502662e) - 2025-09-11
+* [Commit] [Port SSZ static tests to pytest (#4573)](https://github.com/ethereum/consensus-specs/commit/794302d8533b3738fca0a833f2cde7fb9179f93c) - 2025-09-11
+* [Commit] [Replace "honestly" with "realistically" (#4556)](https://github.com/ethereum/consensus-specs/commit/e39bab49b345ce005ae47c3f7389990130ff4e30) - 2025-09-11
+* [Commit] [Emit light client tests for Fulu (#4569)](https://github.com/ethereum/consensus-specs/commit/bca8f8b439ea5e53600f587e4aacd3e5ed13b436) - 2025-09-11
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 
@@ -76,6 +80,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [In Java bindings, delete more local references](https://github.com/ethereum/c-kzg-4844/pull/589) - 2025-07-31
 * [Commit] [Bump erlef/setup-beam from 1.20.1 to 1.20.4 in the actions group (#591)](https://github.com/ethereum/c-kzg-4844/commit/4e434532b9115d9b32939ab415834914c7d79c65) - 2025-08-01
 * [Pull Request] [Fix `recover_cells_and_kzg_proofs` to support shuffled indices](https://github.com/ethereum/c-kzg-4844/pull/594) - 2025-08-22
+* [Commit] [Bump the actions group with 5 updates (#597)](https://github.com/ethereum/c-kzg-4844/commit/5872db297ef13c7a45bcbb7e9f3458f6b15afe10) - 2025-09-11
 ## Q2 2025
 
 

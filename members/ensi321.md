@@ -30,6 +30,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update PayloadAttributes](https://github.com/ChainSafe/lodestar/commit/946be3b441eb7713d97fc2132eb480705d9b740a) - 2025-08-26
 * [Commit] [Update ExecutionPayloadStatus](https://github.com/ChainSafe/lodestar/commit/fede5820973b423f257947165e390beb93ef3944) - 2025-08-26
 * [Commit] [refactor: rename variables / functions related to committee vs. validator indices (#7687)](https://github.com/ChainSafe/lodestar/commit/d368818b1e5fe3d95dd10bf57dfd5aa77aad042a) - 2025-08-29
+* [Commit] [fix: don't log proposer boost reorg logs during sync (#8363)](https://github.com/ChainSafe/lodestar/commit/6953c24bc9ad2f20a0918bd3380aaffa0762e3ce) - 2025-09-11
 ## Q2 2025
 
 

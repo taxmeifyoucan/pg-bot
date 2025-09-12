@@ -135,6 +135,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[block-input-refactor] to many outgoing beacon_blocks_by_root](https://github.com/ChainSafe/lodestar/issues/8362) - 2025-09-10
 * [Pull Request] [chore: revise epoch transition metric bucket](https://github.com/ChainSafe/lodestar/pull/8361) - 2025-09-10
 * [Issue] [gossipsub tracks disconnected peers](https://github.com/ChainSafe/lodestar/issues/8359) - 2025-09-10
+* [Issue] [[block-input-refactor] high gossip block time to head](https://github.com/ChainSafe/lodestar/issues/8377) - 2025-09-11
+* [Issue] [[block-input-refactor] download Block and Blobs/DataColumnSidecars in parallel](https://github.com/ChainSafe/lodestar/issues/8376) - 2025-09-11
+* [Issue] [[block-input-refactor] handle partial response in DownloadByRoot and DownloadByRange](https://github.com/ChainSafe/lodestar/issues/8375) - 2025-09-11
+* [Pull Request] [feat: track downloadByRange errors in metrics](https://github.com/ChainSafe/lodestar/pull/8372) - 2025-09-11
+* [Issue] [[block-input-refactor] not able to sync from fusaka-devnet-3 genesis](https://github.com/ChainSafe/lodestar/issues/8370) - 2025-09-11
+* [Pull Request] [fix: add blocks to all BatchState](https://github.com/ChainSafe/lodestar/pull/8369) - 2025-09-11
 ## Q2 2025
 
 

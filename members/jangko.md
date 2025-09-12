@@ -196,6 +196,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Issue] [Fix and test linux arm64 release binary](https://github.com/status-im/nimbus-eth1/issues/3655) - 2025-09-10
 * [Commit] [Upgrade docker/login-action to v3 (#3654)](https://github.com/status-im/nimbus-eth1/commit/dbd4213639c2726dc5e827e2e9c2deef75258b72) - 2025-09-10
 * [Commit] [Dockerfile: Shift from testing to trixie (#3651)](https://github.com/status-im/nimbus-eth1/commit/f466511b29dff9f541992ffeac09d06e41048bb0) - 2025-09-10
+* [Commit] [Fix test_configuration](https://github.com/status-im/nimbus-eth1/commit/d78049e432ad3fd5d7ed8e90538fb059d0500f8d) - 2025-09-11
+* [Commit] [Trigger CI](https://github.com/status-im/nimbus-eth1/commit/41e55c7c30cf610280ddc55ac91f56ab6ccd2d35) - 2025-09-11
+* [Pull Request] [Ship librocksdb.dll together with release binary on Windows](https://github.com/status-im/nimbus-eth1/pull/3662) - 2025-09-11
+* [Commit] [Add EL debug_getBlockHeader and use for Portal block verification (#3637)](https://github.com/status-im/nimbus-eth1/commit/0788b21df45a401fb9a0dbe29cdd1f630f71c823) - 2025-09-11
+* [Commit] [Rename Bootnodes to BootstrapNodes](https://github.com/status-im/nimbus-eth1/commit/7d53123e6d49a4281913d88f72130559e5c5ff0c) - 2025-09-11
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

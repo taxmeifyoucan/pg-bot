@@ -114,6 +114,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [updated web3signer version and fixing linting](https://github.com/OffchainLabs/prysm/commit/0aa4ad1a1f7e7d39789ea31242bca5311f0a547f) - 2025-09-09
 * [Commit] [Add erigon/caplin to list of known p2p agents. (#15678)](https://github.com/OffchainLabs/prysm/commit/5c348dff598baa52730070f3c577e43978ba7bdc) - 2025-09-10
 * [Commit] [Remove BLS change broadcasting at the fork (#15659)](https://github.com/OffchainLabs/prysm/commit/39b2a02f665b8c56f0f6d43e8fd8d6ef0d5a5468) - 2025-09-10
+* [Commit] [update go-libp2p-pubsub=v0.14.2, go-libp2p=v0.39.1 (#15677)](https://github.com/OffchainLabs/prysm/commit/967193e6a233abcd89479db440be764fa0c9afbb) - 2025-09-11
+* [Commit] [exclusion](https://github.com/OffchainLabs/prysm/commit/bb16b91da533309fb22e4e70456ab2c3b6edcf2e) - 2025-09-11
+* [Commit] [remaining tests](https://github.com/OffchainLabs/prysm/commit/91252f53b9b5588cb44d5ecbe064af9e1e378b4a) - 2025-09-11
+* [Commit] [SSZ-QL: populate variable-length metadata in AnalyzeObject (#15676)](https://github.com/OffchainLabs/prysm/commit/a8cab58f7e2665c2d3761b3a5daeb799386e9c0c) - 2025-09-11
+* [Commit] [Fix link (#15631)](https://github.com/OffchainLabs/prysm/commit/c7401f5e75cc85d3c5732cbeac39b0eecef3c96e) - 2025-09-11
+* [Commit] [adding recover cells tests](https://github.com/OffchainLabs/prysm/commit/1c4a04d6e702922c8405a878cc6e7a2effa05bbb) - 2025-09-11
+* [Commit] [fixing test eval](https://github.com/OffchainLabs/prysm/commit/5d6e34ff2577c046d4eb0f4cc3f529319ae55442) - 2025-09-11
+* [Commit] [Optimize processing of slashings (#14990)](https://github.com/OffchainLabs/prysm/commit/3f5c4df7e0ed15d9bbbd47ab8bc5affc1812a36a) - 2025-09-11
+* [Pull Request] [Fulu general spectests](https://github.com/OffchainLabs/prysm/pull/15682) - 2025-09-11
+* [Commit] [removing log](https://github.com/OffchainLabs/prysm/commit/3f8e0f479ca8c7498acfd2cda0084e4f9489b21a) - 2025-09-11
 ## Q2 2025
 
 

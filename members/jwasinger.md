@@ -22,6 +22,7 @@ Team: Geth
 * [Pull Request] [Block access list changes - BAL construction, execution and validation](https://github.com/ethereum/go-ethereum/pull/32263) - 2025-07-23
 * [Pull Request] [core/vm: modexp fix for 7823](https://github.com/ethereum/go-ethereum/pull/32363) - 2025-08-07
 * [Commit] [go.mod: upgraded github.com/golang-jwt/jwt/v4 v4.5.1 => v4.5.2 (#32356)](https://github.com/ethereum/go-ethereum/commit/e7189b59871931cb15747db376ce7dcc595f7f9a) - 2025-08-07
+* [Pull Request] [all: generate and embed block-access-lists in block bodies when `--experimentalbal` is enabled](https://github.com/ethereum/go-ethereum/pull/32586) - 2025-09-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [eip-7928:  don't enclose individual storage reads in a container](https://github.com/ethereum/EIPs/pull/9977) - 2025-07-03
 ## Q2 2025
