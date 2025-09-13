@@ -149,6 +149,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 58368d66958 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e4dc549733d938f05b5c18c5229b9f4d9fd99c1f) - 2025-09-10
 * [Commit] [Deployed 8b9fa6193ac to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/693226180c4f5ba7a053d3e1c28d66be22975a56) - 2025-09-10
 * [Commit] [Deployed a7544eb16dc to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/29c7f94c268c46dc0e962ec42928d0202e920fa6) - 2025-09-11
+* [Commit] [Deployed e9045fc2b58 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/f3e8b456e8663a214263b340b4340ae6f02efc5b) - 2025-09-12
+* [Issue] [chore: transfer eest issues to execution-specs](https://github.com/ethereum/execution-spec-tests/issues/2144) - 2025-09-12
+* [Issue] [chore: find technical solution to transfer eest issues to execution-specs](https://github.com/ethereum/execution-spec-tests/issues/2143) - 2025-09-12
+* [Issue] [chore: create and apply eest label concept for use in execution-specs post-weld](https://github.com/ethereum/execution-spec-tests/issues/2142) - 2025-09-12
+* [Issue] [chore: close all obsolete or unactionable issues pre-weld](https://github.com/ethereum/execution-spec-tests/issues/2141) - 2025-09-12
+* [Issue] [chore: close all stale prs in preparation for the weld](https://github.com/ethereum/execution-spec-tests/issues/2140) - 2025-09-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 ## Q2 2025

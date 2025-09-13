@@ -36,6 +36,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [refactor(inventory): pass full network name to generator methods](https://github.com/ethpandaops/cartographoor/pull/33) - 2025-09-11
 * [Commit] [feat: add self-hosted DNS detection and dynamic URL generation](https://github.com/ethpandaops/cartographoor/commit/b2368be304510e8b34993d70a871f27b29fb6d67) - 2025-09-11
 * [Pull Request] [feat: add self-hosted DNS detection and dynamic URL generation](https://github.com/ethpandaops/cartographoor/pull/32) - 2025-09-11
+* [Commit] [feat(config): add Electra fork parameters for mainnet and hoodi](https://github.com/ethpandaops/cartographoor/commit/fe7f80cc676b2ed8d5b2ade7fce76f3e938d9ea6) - 2025-09-12
+* [Pull Request] [feat(config): add Electra fork parameters for mainnet and hoodi](https://github.com/ethpandaops/cartographoor/pull/36) - 2025-09-12
+* [Commit] [fix(types.go): add missing json tags to ForksConfig and ForkConfig structs](https://github.com/ethpandaops/cartographoor/commit/8f3e4e7ae45931c35dd109898f84cb0527a3bf2d) - 2025-09-12
+* [Pull Request] [fix(types.go): add missing json tags to ForksConfig and ForkConfig st…](https://github.com/ethpandaops/cartographoor/pull/35) - 2025-09-12
+* [Commit] [feat: move static networks from hard-coded to config-driven](https://github.com/ethpandaops/cartographoor/commit/f45ab84f4cd246d6c0b67ff8a42bca6077958b3b) - 2025-09-12
+* [Pull Request] [feat: move static networks from hard-coded to config-driven](https://github.com/ethpandaops/cartographoor/pull/34) - 2025-09-12
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Pull Request] [docs: remove stray "test" line from README](https://github.com/ethpandaops/contributoor/pull/138) - 2025-08-18
 
@@ -102,3 +108,6 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(About): redesign page with hero, feature cards, and resource links](https://github.com/ethpandaops/lab/commit/77bc4a16cc8fd891ee2f512b74fdf1a5aa9a22f4) - 2025-09-11
 * [Commit] [refactor: remove XatuCallToAction from all xatu pages and extend alert paths](https://github.com/ethpandaops/lab/commit/c41d6421e5c806f4f794658d73719c197e3bde91) - 2025-09-11
 * [Pull Request] [refactor: remove XatuCallToAction from all xatu pages and extend alert paths](https://github.com/ethpandaops/lab/pull/63) - 2025-09-11
+* [Commit] [feat: network config api](https://github.com/ethpandaops/lab/commit/7b31b0ec3d3a2ba2064d6dd733bbcb29e5a6ea97) - 2025-09-12
+* [Commit] [feat(cartographoor): filter networks by ethereum client configuration](https://github.com/ethpandaops/lab/commit/55b3a6dfee855a74afe762a8c7322afaf48702e0) - 2025-09-12
+* [Pull Request] [feat: network config api](https://github.com/ethpandaops/lab/pull/68) - 2025-09-12

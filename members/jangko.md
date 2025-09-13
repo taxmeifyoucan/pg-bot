@@ -201,6 +201,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Ship librocksdb.dll together with release binary on Windows](https://github.com/status-im/nimbus-eth1/pull/3662) - 2025-09-11
 * [Commit] [Add EL debug_getBlockHeader and use for Portal block verification (#3637)](https://github.com/status-im/nimbus-eth1/commit/0788b21df45a401fb9a0dbe29cdd1f630f71c823) - 2025-09-11
 * [Commit] [Rename Bootnodes to BootstrapNodes](https://github.com/status-im/nimbus-eth1/commit/7d53123e6d49a4281913d88f72130559e5c5ff0c) - 2025-09-11
+* [Pull Request] [Check binary revision vs repo revision](https://github.com/status-im/nimbus-eth1/pull/3668) - 2025-09-12
+* [Commit] [Fix script path](https://github.com/status-im/nimbus-eth1/commit/dfd88688a27925149fc8e82bb575a37b77b7d8c4) - 2025-09-12
+* [Commit] [Fix Makefile](https://github.com/status-im/nimbus-eth1/commit/e5c893b0cf4076eae1f0c4372d66f3c2d7e733b6) - 2025-09-12
+* [Commit] [Update check_revision.sh executable permission](https://github.com/status-im/nimbus-eth1/commit/db55278715fa2f5a4ab739d01696236e9cb93a1b) - 2025-09-12
+* [Commit] [Fix --bootstrap-node and --static-peers description again](https://github.com/status-im/nimbus-eth1/commit/b343a03e28e1257b80fe1c27cae222e760d002a7) - 2025-09-12
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

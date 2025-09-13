@@ -111,6 +111,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: update logs if block not found while handling unavailable data columns (#8337)](https://github.com/ChainSafe/lodestar/commit/32681419fdcbb0b143fcb67a048768d28280424e) - 2025-09-09
 * [Commit] [fix: min key for the archive data columns (#8345)](https://github.com/ChainSafe/lodestar/commit/1817ab113da853b6b5c835dba352afd21629c316) - 2025-09-09
 * [Commit] [Update packages/beacon-node/src/sync/range/chain.ts](https://github.com/ChainSafe/lodestar/commit/76ade6e49eec55117ab5f935df5712cfde3627f0) - 2025-09-11
+* [Commit] [fix: restore data column sidecars prune log (#8388)](https://github.com/ChainSafe/lodestar/commit/8cacf063da660265914706a0c733582adeeb1665) - 2025-09-12
+* [Commit] [feat: relaxed data column response handler (#8387)](https://github.com/ChainSafe/lodestar/commit/f8e36f566887f2585437f7d021df868c2dc2e210) - 2025-09-12
+* [Commit] [chore: treat byRange and byRoot with warning as success](https://github.com/ChainSafe/lodestar/commit/462776b8df060bbff570ce597f036ea33a40d04e) - 2025-09-12
+* [Commit] [Apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/949d21a5114c102a68c76738a9da8126047eba69) - 2025-09-12
+* [Commit] [Apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/3f1b6ea3f19797029ee8017c0f2b0f3f2aa822d5) - 2025-09-12
+* [Commit] [chore: minor renaming](https://github.com/ChainSafe/lodestar/commit/69232954095586032340faf19ae55dce476220da) - 2025-09-12
 ## Q2 2025
 
 

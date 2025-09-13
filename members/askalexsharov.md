@@ -1197,6 +1197,13 @@ Team: Erigon
 * [Commit] [SharedDomains: less interface conversions of `tx` object (#16967)](https://github.com/erigontech/erigon/commit/bdb5ad710558a8027aaad730f044233feda74378) - 2025-09-05
 * [Commit] [agg: builder (#17000)](https://github.com/erigontech/erigon/commit/9af4b83d3ffa3c9ed19f3f06bcbba413cfb705d1) - 2025-09-05
 * [Commit] [cp: don't flock datadir in publishable cmd (#17035)](https://github.com/erigontech/erigon/commit/b5ba7ed89f10d0df10f9f7b22490f31756019dc6) - 2025-09-06
+* [Commit] [rpcdaemon: fix block not found as geth (#17043)](https://github.com/erigontech/erigon/commit/49fdc87daaab50195c825ec1c6ed9599ba5cefdd) - 2025-09-12
+* [Pull Request] [up x deps](https://github.com/erigontech/erigon/pull/17096) - 2025-09-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cf8a4de95055db318d0740943f2fc3fa55a809e1) - 2025-09-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fd7336b5901e4f81bfaec8f1fa4a94bdc8a9950e) - 2025-09-12
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ddca468ad9c8f51c4124e8fa379b54b92a275ec1) - 2025-09-12
+* [Commit] [fix for successive rm-state not removing latest file (#17093)](https://github.com/erigontech/erigon/commit/918b01020ef3c57ef356ef0f9f0537fa07726b5b) - 2025-09-12
+* [Commit] [Fix data race issue in caplin unittest  (#17020)](https://github.com/erigontech/erigon/commit/11b751442a82ca1e8cebd9dfd486cf2faf8e6755) - 2025-09-12
 ## Q2 2025
 
 

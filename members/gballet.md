@@ -28,6 +28,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [core/tracing: update changelog (#32535)](https://github.com/ethereum/go-ethereum/commit/e6884ccccfac51f9528953275769ba8a72bf18c6) - 2025-09-03
 * [Commit] [core/txpool/blobpool, eth/catalyst: place null for missing blob (#32536)](https://github.com/ethereum/go-ethereum/commit/00516c71fbc4781f345806cdc684c6c223159029) - 2025-09-03
 * [Pull Request] [cmd/keeper: add the keeper zkvm guest program](https://github.com/ethereum/go-ethereum/pull/32543) - 2025-09-04
+* [Pull Request] [.github/workflows: remove redundant regexp check for heading dot](https://github.com/ethereum/go-ethereum/pull/32597) - 2025-09-12
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Commit] [make LoadTransitionState cacheless and move it to the overlay pkg](https://github.com/gballet/go-ethereum/commit/0f37c99d3457791f97995b08c2f6d53f4a5b37c6) - 2025-08-04
 * [Commit] [move transition state to its own file](https://github.com/gballet/go-ethereum/commit/f0f51d1ef458c1593e908741180615ad83fd07eb) - 2025-08-04
@@ -60,6 +61,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [p2p: using math.MaxInt32 from go std lib (#32357)](https://github.com/gballet/go-ethereum/commit/997dff4fae6470dced58fbd6f8e57f8d496487d4) - 2025-09-08
 * [Commit] [rpc: show more error detail for `invalidMessageError` (#30191)](https://github.com/gballet/go-ethereum/commit/57e662793287651dcfd36c52fb40a83c54682810) - 2025-09-11
 * [Commit] [params: release Geth v1.14.6](https://github.com/gballet/go-ethereum/commit/d5ebd4bbf66a96234082e2a0ac6f4c4908966108) - 2025-09-11
+* [Commit] [make the chainid an extra parameter](https://github.com/gballet/go-ethereum/commit/8a73d64f5ef7534c5402d1cf534e4231eaad3d76) - 2025-09-12
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [test(benchmark): implement CREATE2 addressing for bloatnet tests](https://github.com/ethereum/execution-spec-tests/pull/2090) - 2025-09-01
 ## Q2 2025

@@ -156,6 +156,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [work out hashes](https://github.com/NethermindEth/nethermind/commit/749593282a624af0fbaee8774c7d95080c6017fd) - 2025-09-04
 * [Commit] [worldstate improvements](https://github.com/NethermindEth/nethermind/commit/5ec4ff50aa182f9d779c649a4608cd09bc8cb350) - 2025-09-09
 * [Commit] [make bal a journal](https://github.com/NethermindEth/nethermind/commit/f0e7d59a1fa32da10a44857c926c9c9d191be695) - 2025-09-11
+* [Commit] [don't record zero nonce change](https://github.com/NethermindEth/nethermind/commit/8c2503ca3bf9e53355c4d8b8a8698a75ce9a46fb) - 2025-09-12
 ## Q2 2025
 
 

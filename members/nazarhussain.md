@@ -108,6 +108,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update the slot key size](https://github.com/ChainSafe/lodestar/commit/090c5540daa23cefb5c5bc42040635c21e005792) - 2025-09-09
 * [Pull Request] [deps: update the `elliptic` to fix a vulnerability ](https://github.com/ChainSafe/lodestar/pull/8374) - 2025-09-11
 * [Issue] [Verify all dependencies related to NPM incident on 08-Sep-2025](https://github.com/ChainSafe/lodestar/issues/8373) - 2025-09-11
+* [Commit] [Fix types](https://github.com/ChainSafe/lodestar/commit/6e7498fc209919dd71bfc610e6c02adef47d8327) - 2025-09-12
+* [Commit] [Update the bun as global object](https://github.com/ChainSafe/lodestar/commit/6db849c45f3d1760b6ad6cf3162d3aa4d8218577) - 2025-09-12
+* [Commit] [Cleanup type specific chagnes](https://github.com/ChainSafe/lodestar/commit/c6650277c75a87981cb1f7fe164852e401cd36ab) - 2025-09-12
+* [Commit] [refactor: rename related to sync committee indices (#8313)](https://github.com/ChainSafe/lodestar/commit/e53169f3a9d65c894b223f2a5f2885ea49ea3609) - 2025-09-12
+* [Commit] [Update deps @chainsafe/threads](https://github.com/ChainSafe/lodestar/commit/677c082e14ecdc58953b39a9cfee9f5ab82935a3) - 2025-09-12
+* [Pull Request] [chore: update few type safety rules for liting](https://github.com/ChainSafe/lodestar/pull/8391) - 2025-09-12
+* [Commit] [Update rules to add noPrivateImports](https://github.com/ChainSafe/lodestar/commit/f8063efb16e73c110df5a4bf23a7326880b4b46c) - 2025-09-12
+* [Commit] [Update packages/beacon-node/src/sync/unknownBlock.ts](https://github.com/ChainSafe/lodestar/commit/119ab5748b86a924b8d1529cfcf539306fda4276) - 2025-09-12
+* [Pull Request] [chore: add slot information to log messages](https://github.com/ChainSafe/lodestar/pull/8390) - 2025-09-12
+* [Commit] [update log message for all sync errors](https://github.com/ChainSafe/lodestar/commit/40b5f9e6e40b059815b3367c73a5d78494aedb3e) - 2025-09-12
+* [Commit] [Fix swagger, swagger-ui default import to named import](https://github.com/ChainSafe/lodestar/commit/2d723b03c66918267d1d8b4ed739f5fa88296610) - 2025-09-12
 ## Q2 2025
 
 

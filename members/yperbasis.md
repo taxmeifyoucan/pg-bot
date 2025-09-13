@@ -172,6 +172,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Update devnet tests to fusaka-devnet-5@v2.1.0](https://github.com/erigontech/erigon/pull/17069) - 2025-09-09
 * [Commit] [Update devnet tests to fusaka-devnet-5@v2.1.0](https://github.com/erigontech/erigon/commit/43e1f6485250e6ead2046b2f08db1e16a9d87b26) - 2025-09-09
 * [Commit] [workflows: stricter hive test pass rates (#17038)](https://github.com/erigontech/erigon/commit/931238d4142563a1aa0ef64fa7a378cc65b2b2a9) - 2025-09-10
+* [Commit] [version 3.1.0 (#17102)](https://github.com/erigontech/erigon/commit/0bfe9ffefe799455f74686a76eb155d3ec00ffb7) - 2025-09-12
+* [Commit] [Minify config application instructions (#16953)](https://github.com/erigontech/erigon/commit/173d82cd146a5bb6bda8606cd437a2299a98fb5b) - 2025-09-12
+* [Pull Request] [version 3.1.0](https://github.com/erigontech/erigon/pull/17102) - 2025-09-12
+* [Commit] [version 3.1.0](https://github.com/erigontech/erigon/commit/476f83a9f38efe7c6d000ee33a70398cf8e04273) - 2025-09-12
+* [Commit] [[r31] cherry pick Rio hard fork commits (Part 3) (#17099)](https://github.com/erigontech/erigon/commit/214f75c8795ac6ecff4ba9093da20ccf91395bb6) - 2025-09-12
+* [Commit] [[r3.1] qa-tests: add run_migrations in RPC Integration Tests + fixes (#16936)](https://github.com/erigontech/erigon/commit/ae8c6cafc8e4042fc369a79bd8f9c79b74d218b5) - 2025-09-12
+* [Commit] [[r31] cherry-pick span index lookup (Rio cherry-pick commits part 2) (#17095)](https://github.com/erigontech/erigon/commit/f9981d5086e9e3c66360883a7fc9eb7e60765213) - 2025-09-12
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

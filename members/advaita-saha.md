@@ -15,6 +15,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [update tips](https://github.com/status-im/nimbus-eth2/commit/01964af446ed8b0c2d43b979c63f6703899bd4a3) - 2025-07-02
 * [Pull Request] [update nimbus eth1 documentation](https://github.com/status-im/nimbus-eth2/pull/7279) - 2025-07-02
 
+* [Commit] [shift sourcePath to version](https://github.com/status-im/nimbus-eth2/commit/879a302d1d85d9a6928b09c06a049c31cb8227e5) - 2025-09-12
+* [Commit] [move out gitRevision out of buildinfo to version](https://github.com/status-im/nimbus-eth2/commit/d6c7c93c548ccad117ecc966c1ed2fa17d221a1b) - 2025-09-12
+* [Commit] [fix lint](https://github.com/status-im/nimbus-eth2/commit/91d52792549b6c8663eaf9982fb21e9cbcff1488) - 2025-09-12
+* [Pull Request] [make GitRevision reuseable for `nimbus-eth1`](https://github.com/status-im/nimbus-eth2/pull/7490) - 2025-09-12
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Revert: don't call extra stateroot computation in procesBlock (#3435)](https://github.com/status-im/nimbus-eth1/commit/fcc219987c688ff5f5391f44ae1aa75c97e91314) - 2025-07-04
 * [Commit] [Add txFrame id to FC.validateBlock log (#3443)](https://github.com/status-im/nimbus-eth1/commit/65af60139b69dee4b87eef12e079cebea02fb88a) - 2025-07-04

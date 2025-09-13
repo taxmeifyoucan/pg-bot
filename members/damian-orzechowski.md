@@ -19,6 +19,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix incorrect merge - missing changes from #9078](https://github.com/NethermindEth/nethermind/commit/1365ee76386f17b58f32a917ee9d2c868add8a4a) - 2025-09-03
 * [Commit] [VirtualMachine naming refactor](https://github.com/NethermindEth/nethermind/commit/7c717d670877634d600273e06ccda0733b1679d4) - 2025-09-08
 * [Commit] [Revert to private access modifier](https://github.com/NethermindEth/nethermind/commit/1d8e61e1c7058bcccb1e1b076b61e7d0bf776b09) - 2025-09-08
+* [Commit] [Pass PruningConfig to triestore (#8598)](https://github.com/NethermindEth/nethermind/commit/e17b3eaef02428f1cfddf7e1345d7f0b9a4f636b) - 2025-09-12
 ## Q2 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

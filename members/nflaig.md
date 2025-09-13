@@ -150,6 +150,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Include blob count in error](https://github.com/ChainSafe/lodestar/commit/668a6f522b7efef02cb654365953ed9b53f56b38) - 2025-09-08
 * [Commit] [fix: add bucketId to abstract_prefixed_repo (#8346)](https://github.com/ChainSafe/lodestar/commit/8a8da6aa842d694a96b22755eb5c24e07b269446) - 2025-09-09
 * [Commit] [fix: bump discv5 to 11.0.4 (#8365)](https://github.com/ChainSafe/lodestar/commit/6dd6cec93a8015084ec86e30377c7f21a26f564a) - 2025-09-10
+* [Commit] [Update packages/beacon-node/src/chain/archiveStore/utils/archiveBlocks.ts](https://github.com/ChainSafe/lodestar/commit/176ce15f301181627eb011dc3deb1a96a55baa41) - 2025-09-12
+* [Pull Request] [fix: restore data column sidecars prune log](https://github.com/ChainSafe/lodestar/pull/8388) - 2025-09-12
 ## Q2 2025
 
 

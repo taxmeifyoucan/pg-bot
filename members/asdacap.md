@@ -237,6 +237,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Cleanup/move TransactionProcessed event to `IMainProcessingContext`](https://github.com/NethermindEth/nethermind/pull/9271) - 2025-09-11
 * [Commit] [Slight simplification](https://github.com/NethermindEth/nethermind/commit/0bafcfae441c6e8261ca4bc3050229260c01a749) - 2025-09-11
 * [Commit] [Refactor/make codeinforepo scoped (#9262)](https://github.com/NethermindEth/nethermind/commit/59d02ea7155074506aa0f6f6786de962f3d15746) - 2025-09-11
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/75268f5a530d670c681ccf09dffc8107ab9f8328) - 2025-09-12
+* [Commit] [Fix transaction processed counter not working (#9270)](https://github.com/NethermindEth/nethermind/commit/8f9f37e4ac738d27e65ed706e64162e4464cce10) - 2025-09-12
+* [Commit] [Use extension method in some ITransactionProcessor interface method. (#9272)](https://github.com/NethermindEth/nethermind/commit/2183571d29d09a49273eb8ec6a8c1e9e90efa36e) - 2025-09-12
+* [Commit] [Exactly the same tx](https://github.com/NethermindEth/nethermind/commit/f2d2bf5e8f701930a5a801d1e48632a43d501eb0) - 2025-09-12
+* [Commit] [Please give the stacktrace](https://github.com/NethermindEth/nethermind/commit/76dbfd9961af211e8d5c7e089e13b1b444c0193c) - 2025-09-12
+* [Commit] [Make sure to just run](https://github.com/NethermindEth/nethermind/commit/15b1835b9b7ed05ba12af4479c93003ce2820b1e) - 2025-09-12
+* [Commit] [Ensure head is at third block.](https://github.com/NethermindEth/nethermind/commit/9c4d14ce22a3b1ec38e7accb347c5fd2e499e6c4) - 2025-09-12
+* [Commit] [Make add block more consistent](https://github.com/NethermindEth/nethermind/commit/db7b670766c1b796c82db7460811b5554e51037a) - 2025-09-12
+* [Commit] [What about now](https://github.com/NethermindEth/nethermind/commit/83750c59923c0497bcf114b3fb9e9d32a5be6ef4) - 2025-09-12
+* [Pull Request] [Test/Attempt at fixing jsonrpc test](https://github.com/NethermindEth/nethermind/pull/9279) - 2025-09-12
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

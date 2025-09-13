@@ -29,6 +29,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Pull Request] [feat: Make some VM methods visible in derived class ](https://github.com/NethermindEth/nethermind/pull/9134) - 2025-08-15
 * [Commit] [make virtual](https://github.com/NethermindEth/nethermind/commit/e6c190438c8f9e133bc21a65334ce7d4db41144f) - 2025-09-08
 * [Commit] [more changes](https://github.com/NethermindEth/nethermind/commit/fbc81b1556cdeb3344bcf0da8f9877c81dfa9127) - 2025-09-08
+* [Pull Request] [sFeature/stateless cli](https://github.com/NethermindEth/nethermind/pull/9281) - 2025-09-12
 ## Q2 2025
 
 

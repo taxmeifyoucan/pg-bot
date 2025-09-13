@@ -67,6 +67,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Ensure cell proofs length is exactly as expected](https://github.com/grandinetech/grandine/pull/352) - 2025-09-05
 * [Issue] [Load persisted `custody_group_count` from metadata in network initialization](https://github.com/grandinetech/grandine/issues/351) - 2025-09-05
 * [Commit] [Only store `sampling_columns` in `fork_choice_store`](https://github.com/grandinetech/grandine/commit/499979cfbc32cf3c5d69ddf832ab86ad1abd4dd8) - 2025-09-05
+* [Pull Request] [wip: fix data columns by root rpc request limit](https://github.com/grandinetech/grandine/pull/371) - 2025-09-12
+* [Pull Request] [Increase `max_slot_ahead`](https://github.com/grandinetech/grandine/pull/370) - 2025-09-12
+* [Issue] [No batch data columns by roots](https://github.com/grandinetech/grandine/issues/369) - 2025-09-12
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

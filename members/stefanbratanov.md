@@ -41,6 +41,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Use netty core instead of incubator artifact for QUIC (#412)](https://github.com/libp2p/jvm-libp2p/commit/33ffc1ac03b7c69df995a7316b1bf0d116f4c8eb) - 2025-08-28
 * [Commit] [docs: add build path to README (#419)](https://github.com/libp2p/jvm-libp2p/commit/1419d27e87951ec7d94fd6baa62a97ffd83b5ad8) - 2025-08-29
 * [Commit] [Apply TotalTimeoutHandler only if duration seconds > 0 (#415)](https://github.com/libp2p/jvm-libp2p/commit/63d74d0166e9f64cb49129e154c60e69d1cc557c) - 2025-08-29
+* [Pull Request] [Dependencies updates](https://github.com/libp2p/jvm-libp2p/pull/424) - 2025-09-12
+* [Commit] [Move QUIC implementation to prototype 🍋  (#423)](https://github.com/libp2p/jvm-libp2p/commit/8aa477df9e1c9a452706a8f51a7eee10df78c924) - 2025-09-12
 ## Q2 2025
 
 

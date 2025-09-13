@@ -127,6 +127,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(cli): Use regex for missing-module-definition exceptions (#2127)](https://github.com/ethereum/execution-spec-tests/commit/a4da3162087e60ab899c9ccc48a50a6c35618c1d) - 2025-09-11
 * [Commit] [chore(tooling): fixes mypy and ruff (non-tox config) warnings/errors (#2131)](https://github.com/ethereum/execution-spec-tests/commit/e28cb6dc475c50bd28b3d4385c61350f263d3bb4) - 2025-09-11
 * [Pull Request] [chore(ci): bump tox verify gh runner](https://github.com/ethereum/execution-spec-tests/pull/2130) - 2025-09-11
+* [Pull Request] [chore(cli): besu mapper change final](https://github.com/ethereum/execution-spec-tests/pull/2145) - 2025-09-12
+* [Commit] [chore(cli): besu mapper change final.](https://github.com/ethereum/execution-spec-tests/commit/ad1ed4b582944c349accfe790b6a30e3738dda66) - 2025-09-12
+* [Commit] [src/](https://github.com/ethereum/execution-spec-tests/commit/1700b5afd8a0efe99de12eaf0fe3e85c2820d1a7) - 2025-09-12
+* [Commit] [chore(tests): Update 7951 Checklist Markers (#2088)](https://github.com/ethereum/execution-spec-tests/commit/e9045fc2b581a7949a54015b6b63782086a30a29) - 2025-09-12
+* [Commit] [chore(ci): switch to chungus.](https://github.com/ethereum/execution-spec-tests/commit/fe1eb25b6b6774cd5cf6290cd2261290f5fea176) - 2025-09-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

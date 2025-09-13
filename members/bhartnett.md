@@ -84,6 +84,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Stateness: Add support for loading subtries into the database](https://github.com/status-im/nimbus-eth1/pull/3641) - 2025-09-08
 * [Commit] [Handle embedded nodes in putSubtrie.](https://github.com/status-im/nimbus-eth1/commit/403d824b0f0df83ae1dba09e1b9743ca98fa6a9d) - 2025-09-08
 * [Commit] [Revert "txFrame HashKeys (kMap) memory optimization  (#3606)" (#3660)](https://github.com/status-im/nimbus-eth1/commit/05914106f9adf3701fe6f02944f42e60fcc0079f) - 2025-09-10
+* [Pull Request] [Reintroduce the reverted txFrame HashKeys (kMap) memory optimization](https://github.com/status-im/nimbus-eth1/pull/3667) - 2025-09-12
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

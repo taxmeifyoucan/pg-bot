@@ -72,6 +72,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Add `tls-roots` feature to `opentelemetry_otlp` to support exporting traces over https](https://github.com/sigp/lighthouse/pull/7987) - 2025-09-03
 * [Pull Request] [Add `getBlobsV1` and `getBlobsV2` support to mock el server](https://github.com/sigp/lighthouse/pull/7986) - 2025-09-03
 * [Pull Request] [Reduce noise in `Debug` impl of `RuntimeVariableList`](https://github.com/sigp/lighthouse/pull/8007) - 2025-09-05
+* [Pull Request] [Update engine methods in notifier](https://github.com/sigp/lighthouse/pull/8038) - 2025-09-12
+* [Issue] [Fork choice write lock held for 4+ seconds on `fusaka-devnet-3-lighthouse-geth-1`](https://github.com/sigp/lighthouse/issues/8035) - 2025-09-12
+* [Pull Request] [Add missing event in `PendingComponent` span and clean up sync logs](https://github.com/sigp/lighthouse/pull/8033) - 2025-09-12
 ## Q2 2025
 
 

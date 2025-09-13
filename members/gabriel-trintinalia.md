@@ -60,6 +60,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [feat(plugin-api): extend plugin api with status methods](https://github.com/hyperledger/besu/pull/9154) - 2025-09-05
 * [Pull Request] [test(fusaka): update reference tests to v5.0.0](https://github.com/hyperledger/besu/pull/9171) - 2025-09-11
 * [Commit] [fix(osaka): move tx blob count validation outside of commitments validation (#9164)](https://github.com/hyperledger/besu/commit/198fc4ab6e95304f2e8bcc0b1bee5b8e8c6f6cc4) - 2025-09-11
+* [Commit] [Check txs against the block blob gas limit (#9173)](https://github.com/hyperledger/besu/commit/89edd1b58d1a0b11ead69e0f3d6eb401dd65d4a9) - 2025-09-12
+* [Issue] [Add more test coverage to engine new payload (osaka)](https://github.com/hyperledger/besu/issues/9174) - 2025-09-12
+* [Pull Request] [fix(peerdas): fail faster if any tx exceeds the block blob gas limit](https://github.com/hyperledger/besu/pull/9173) - 2025-09-12
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025

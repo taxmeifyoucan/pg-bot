@@ -70,6 +70,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [refactor and complete implementation](https://github.com/erigontech/erigon/commit/81b1fce0ec434fbec562486e2e1119571f01efce) - 2025-09-08
 * [Pull Request] [qa_tests: fix the expected rsp format in RPC Integration Tests](https://github.com/erigontech/erigon/pull/17051) - 2025-09-08
 * [Pull Request] [caplin: fix checkpoint sync timeout](https://github.com/erigontech/erigon/pull/17077) - 2025-09-10
+* [Commit] [fix comment](https://github.com/erigontech/erigon/commit/2d5390b6a019461cae57a81955e2344afe176314) - 2025-09-12
+* [Issue] [Caplin: Beacon Checkpoint Sync gets stuck](https://github.com/erigontech/erigon/issues/17098) - 2025-09-12
+* [Commit] [increase timeout](https://github.com/erigontech/erigon/commit/835bf33a12cca35b9deccc88c5b9e419fca4d418) - 2025-09-12
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14
@@ -77,6 +80,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration: add arbitrum suite for sepolia (#436)](https://github.com/erigontech/rpc-tests/commit/0de13334912ef3b63b7b37567388ab8368df6c16) - 2025-08-21
 * [Commit] [integration: fix verify-external-provider option in test runner (#442)](https://github.com/erigontech/rpc-tests/commit/eef8fee0feb180b6d4119a0ea1c065c0e925d2b0) - 2025-08-25
 * [Commit] [integration: fix corrupted expected responses + some results wrt geth (#446)](https://github.com/erigontech/rpc-tests/commit/a5fc9e96cbc9a947788c58f83cd8aa9cdcd6a3ed) - 2025-09-08
+* [Commit] [fix test_04](https://github.com/erigontech/rpc-tests/commit/588936b32df15310d54e62a8bbea63e2479ce5b4) - 2025-09-12
+* [Commit] [add test_04](https://github.com/erigontech/rpc-tests/commit/91a12bb7861dce4fa9cd5bd3361e6e2d66a0e7dd) - 2025-09-12
+* [Commit] [fix test_03](https://github.com/erigontech/rpc-tests/commit/09e4595e0284784d859b2c16256f19509a02d0a3) - 2025-09-12
+* [Commit] [fix test_03](https://github.com/erigontech/rpc-tests/commit/b319f00f9e72700b9bb624b5cbd9af19358b727a) - 2025-09-12
+* [Commit] [fix test_02](https://github.com/erigontech/rpc-tests/commit/b0a31e4de11a08fd8058ccc00ea0112d2e9a15aa) - 2025-09-12
+* [Commit] [fix test_01](https://github.com/erigontech/rpc-tests/commit/b63dd0ebab49b83875599ba1e65613c02841c4ec) - 2025-09-12
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

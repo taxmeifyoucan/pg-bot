@@ -35,6 +35,17 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Fixed some build issues for gnark. There may be more but Prysm builds.](https://github.com/OffchainLabs/prysm/commit/d487e5c10988fa47cb2bf3b4151b99fb55a247f6) - 2025-09-05
 * [Pull Request] [Add erigon/caplin to list of known p2p agents](https://github.com/OffchainLabs/prysm/pull/15678) - 2025-09-10
 * [Commit] [Add erigon/caplin to list of known p2p agents.](https://github.com/OffchainLabs/prysm/commit/2973ae136659b9333ffb21ff4c93443bd5bbe840) - 2025-09-10
+* [Commit] [Apply suggestion from @nalepae](https://github.com/OffchainLabs/prysm/commit/5c36f613cb79f0ca1eb8557c87536199cdf2a905) - 2025-09-12
+* [Commit] [Apply suggestion from @nalepae](https://github.com/OffchainLabs/prysm/commit/1dd303a3e5823507bca14ed020eb6d9f9527838c) - 2025-09-12
+* [Commit] [@nalepae feedback on adding a log message after downscoring](https://github.com/OffchainLabs/prysm/commit/56bc8fbcb13f77c2839d6258276cbd2ebc56cb14) - 2025-09-12
+* [Commit] [@nalepae feedback on adding a log message after downscoring](https://github.com/OffchainLabs/prysm/commit/99b8d27d1bb5e57f2c65fff5a27313e4f5c7c48c) - 2025-09-12
+* [Commit] [Downscore peers when they give invalid responses during initial sync.](https://github.com/OffchainLabs/prysm/commit/dac66337e00be71b07b0e31d9ee81b69b4aa1a46) - 2025-09-12
+* [Pull Request] [Downscore peers when they give invalid responses during initial sync](https://github.com/OffchainLabs/prysm/pull/15686) - 2025-09-12
+* [Commit] [Downscore peers when they give invalid responses during initial sync.](https://github.com/OffchainLabs/prysm/commit/b72e8aa309730cf5ed1b16b71fdf1551d9dc5910) - 2025-09-12
+* [Commit] [Add flag for colocation whitelisting. --p2p-ip-colocation-whitelist](https://github.com/OffchainLabs/prysm/commit/51b270b071e30e89b37e78c31c3444e6071549b7) - 2025-09-12
+* [Pull Request] [Feature: `--p2p-colocation-whitelist` flag to allow certain IPs to bypass colocation restrictions](https://github.com/OffchainLabs/prysm/pull/15685) - 2025-09-12
+* [Commit] [Add flag for colocation whitelisting. --p2p-ip-colocation-whitelist](https://github.com/OffchainLabs/prysm/commit/a3da31ee5abe3481f4f23e0d3bac0229e8a51ed8) - 2025-09-12
+* [Commit] [Add flag for colocation whitelisting. --p2p-ip-colocation-whitelist](https://github.com/OffchainLabs/prysm/commit/4d34adfc771491a7167adcb643023780ed832bb4) - 2025-09-12
 ## Q2 2025
 
 

@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [Change stack size growth strategy to 0.5 rate (#8869)](https://github.com/hyperledger/besu/commit/f21630e4628b5e3329bc871c319d06e5fc4c5931) - 2025-08-18
 * [Pull Request] [EIP-4762 - Remove system contract warming gas cost code path](https://github.com/hyperledger/besu/pull/9142) - 2025-09-01
 * [Pull Request] [Workaround to force the txpool to be always on (#8755)](https://github.com/hyperledger/besu/pull/9172) - 2025-09-11
+* [Pull Request] [reimplement division with uint256 values](https://github.com/hyperledger/besu/pull/9175) - 2025-09-12
 ## Q2 2025
 
 

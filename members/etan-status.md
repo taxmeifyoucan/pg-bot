@@ -83,6 +83,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Store runtime SECONDS_PER_SLOT value in RuntimeConfig](https://github.com/status-im/nimbus-eth2/pull/7479) - 2025-09-09
 * [Pull Request] [Extend SSZ generic tests with CompatibleUnion tests](https://github.com/status-im/nimbus-eth2/pull/7487) - 2025-09-11
 * [Commit] [Extend SSZ generic tests with CompatibleUnion tests](https://github.com/status-im/nimbus-eth2/commit/8446131e67a977b8f7da0022fe49cbcc145c4ead) - 2025-09-11
+* [Pull Request] [Disable concurrent requests in legacy sync manager](https://github.com/status-im/nimbus-eth2/pull/7491) - 2025-09-12
 ## Q2 2025
 
 

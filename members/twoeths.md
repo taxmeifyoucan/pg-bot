@@ -141,6 +141,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: track downloadByRange errors in metrics](https://github.com/ChainSafe/lodestar/pull/8372) - 2025-09-11
 * [Issue] [[block-input-refactor] not able to sync from fusaka-devnet-3 genesis](https://github.com/ChainSafe/lodestar/issues/8370) - 2025-09-11
 * [Pull Request] [fix: add blocks to all BatchState](https://github.com/ChainSafe/lodestar/pull/8369) - 2025-09-11
+* [Commit] [fix: make the if condition style consistent](https://github.com/ChainSafe/lodestar/commit/d78a39f8d4590168763cacc0a2e1c991ad373ede) - 2025-09-12
+* [Pull Request] [feat: relaxed data column response handler](https://github.com/ChainSafe/lodestar/pull/8387) - 2025-09-12
+* [Issue] [[block-input-refactor]](https://github.com/ChainSafe/lodestar/issues/8385) - 2025-09-12
 ## Q2 2025
 
 

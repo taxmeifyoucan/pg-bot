@@ -48,6 +48,8 @@ Team: Grandine
 * [Commit] [Add R0 and SP1 zkvm guest programs](https://github.com/grandinetech/grandine/commit/fb86ac63bfbaee123df18c51ad033364f1afec28) - 2025-09-05
 * [Commit] [For debug purposes extend `GET /eth/v1/debug/beacon/data_column_sidecars/{block_id}` endpoint to show accepted sidecars even when block is not imported to fork choice](https://github.com/grandinetech/grandine/commit/2448ddf0c2c3c31277748c7546ed32d3584d5146) - 2025-09-10
 * [Pull Request] [For debug purposes extend `GET /eth/v1/debug/beacon/data_column_sidecars/{block_id}` endpoint](https://github.com/grandinetech/grandine/pull/363) - 2025-09-10
+* [Commit] [Retry block to rebuild pruned beacon state from state cache if blob or data sidecar gets delayed due to missing state](https://github.com/grandinetech/grandine/commit/324854cde1bd20f556dea3fe8603264379be3a3a) - 2025-09-12
+* [Pull Request] [Retry block to rebuild pruned beacon state from state cache if blob or data sidecar gets delayed due to missing state](https://github.com/grandinetech/grandine/pull/372) - 2025-09-12
 ## Q2 2025
 
 

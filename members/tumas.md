@@ -64,6 +64,9 @@ Team: Grandine
 * [Commit] [Log `inbound_request_id` when logging received requests](https://github.com/grandinetech/grandine/commit/0527c721df91e49b179ced4840b1ec2eb089a700) - 2025-09-09
 * [Commit] [Use `u64::checked_div` when calculating `max_slot_head`](https://github.com/grandinetech/grandine/commit/f980dcea487fd8fb79454fb25e3a3a91ef0e008f) - 2025-09-09
 * [Pull Request] [Log `inbound_request_id` when logging received requests](https://github.com/grandinetech/grandine/pull/359) - 2025-09-09
+* [Commit] [Move reconstruction code into `tokio::spawn::blocking`](https://github.com/grandinetech/grandine/commit/00e4af612278a924aac50daf7ee06251a8b71526) - 2025-09-12
+* [Commit] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/5c5ad3be37e99f19bc00cfb57ff31e57624a9031) - 2025-09-12
+* [Commit] [Increase `max_slot_ahead`](https://github.com/grandinetech/grandine/commit/8401b506957ffb9a013839bd2bc7d296b7090e84) - 2025-09-12
 ## Q2 2025
 
 
