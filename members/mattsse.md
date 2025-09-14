@@ -205,6 +205,11 @@ Team: Reth
 * [Issue] [Use decode_2718_exact for recover raw txs](https://github.com/paradigmxyz/reth/issues/18380) - 2025-09-11
 * [Pull Request] [chore: use decode exact fo raw recovery](https://github.com/paradigmxyz/reth/pull/18379) - 2025-09-11
 * [Issue] [merge basefee promotion with account updates](https://github.com/paradigmxyz/reth/issues/18401) - 2025-09-12
+* [Commit] [feat: fn recovered_tx to indexedTx (#18421)](https://github.com/paradigmxyz/reth/commit/7694b9dee3b134763f9bf5271377088d291531c6) - 2025-09-13
+* [Pull Request] [chore: add state and response to miner error](https://github.com/paradigmxyz/reth/pull/18422) - 2025-09-13
+* [Issue] [Add helpers to PendingBlockAndReceipts](https://github.com/paradigmxyz/reth/issues/18419) - 2025-09-13
+* [Issue] [Add fn recovered_tx to indexedTx](https://github.com/paradigmxyz/reth/issues/18418) - 2025-09-13
+* [Issue] [Introduce tree config setting for unwinding canonical header](https://github.com/paradigmxyz/reth/issues/18417) - 2025-09-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

@@ -178,6 +178,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Handle cancellation while acquiring sync queue lock (#7483)](https://github.com/status-im/nimbus-eth2/commit/c3d22706b339193dd6c571ecb8de8aea5cacbcab) - 2025-09-11
 * [Commit] [enforce that non-spec/forks code can't directly access most ForkDigests (#7478)](https://github.com/status-im/nimbus-eth2/commit/96f6d72370cddb6c8d8982315319dc6d5ef472e5) - 2025-09-12
 * [Commit] [prevent empty root requests (#7489)](https://github.com/status-im/nimbus-eth2/commit/5901e9850861b6cd196d1a7e8be8fe4535b05294) - 2025-09-12
+* [Commit] [fix some XDeclaredButNotUsed hints (#7495)](https://github.com/status-im/nimbus-eth2/commit/819dd7d05600e6be4d9db64c63fc40e997dee60d) - 2025-09-13
+* [Pull Request] [fix some XDeclaredButNotUsed hints](https://github.com/status-im/nimbus-eth2/pull/7495) - 2025-09-13
+* [Commit] [more rman column optimizations (#7492)](https://github.com/status-im/nimbus-eth2/commit/1ffaccfc7f87b430ecb0a9980bdc2fce664f2b4f) - 2025-09-13
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

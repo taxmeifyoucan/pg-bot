@@ -206,6 +206,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fix Makefile](https://github.com/status-im/nimbus-eth1/commit/e5c893b0cf4076eae1f0c4372d66f3c2d7e733b6) - 2025-09-12
 * [Commit] [Update check_revision.sh executable permission](https://github.com/status-im/nimbus-eth1/commit/db55278715fa2f5a4ab739d01696236e9cb93a1b) - 2025-09-12
 * [Commit] [Fix --bootstrap-node and --static-peers description again](https://github.com/status-im/nimbus-eth1/commit/b343a03e28e1257b80fe1c27cae222e760d002a7) - 2025-09-12
+* [Commit] [Check binary revision vs repo revision (#3668)](https://github.com/status-im/nimbus-eth1/commit/1ed687158d27462284a82a69dfa731f9dff9750b) - 2025-09-13
+* [Commit] [--bootstrap-nodes and --static-peers now accept multi formats (#3657)](https://github.com/status-im/nimbus-eth1/commit/388e1463cbd15a391765955a03cf30d50f10fe90) - 2025-09-13
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

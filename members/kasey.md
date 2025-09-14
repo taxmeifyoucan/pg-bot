@@ -90,6 +90,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [DataColumnSidecar backfill](https://github.com/OffchainLabs/prysm/commit/62d555d8e9ebbac3ebcc843f22f66ca5f69be085) - 2025-09-11
 * [Commit] [Implement KZG proof batch verification (option 2) - uses worker pool (#15617)](https://github.com/OffchainLabs/prysm/commit/9e40551852819602f784d89f6a3397ce75d07dd0) - 2025-09-12
 * [Commit] [manu feedback](https://github.com/OffchainLabs/prysm/commit/1add370044128edcf1d2177e89c75105c2f1b68b) - 2025-09-12
+* [Pull Request] [remove "experimental" from backfill flag name](https://github.com/OffchainLabs/prysm/pull/15690) - 2025-09-13
 ## Q2 2025
 
 

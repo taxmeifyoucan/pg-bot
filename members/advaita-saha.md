@@ -80,6 +80,17 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [shift commithash calc from eth2 to native eth1](https://github.com/status-im/nimbus-eth1/pull/3664) - 2025-09-11
 * [Commit] [shift commithash calc from eth2 to native eth1](https://github.com/status-im/nimbus-eth1/commit/b758ca652c306575abe8101865e717e6e68540a6) - 2025-09-11
 * [Commit] [enable -fomit-frame-pointer for windows](https://github.com/status-im/nimbus-eth1/commit/dd56c8bf737c30e19f5e66dd9bcc96376aed7783) - 2025-09-11
+* [Commit] [update CI for stale run cancel and remove duplicate runs on PR (#3672)](https://github.com/status-im/nimbus-eth1/commit/3f524fe2733f0834dee773f2c1e349893d54ca94) - 2025-09-13
+* [Commit] [check stale CI cancellation](https://github.com/status-im/nimbus-eth1/commit/e65eaa82ef757dc574692bd253e6f4d62e7df589) - 2025-09-13
+* [Pull Request] [update CI for stale run cancel and remove duplicate runs on PR](https://github.com/status-im/nimbus-eth1/pull/3672) - 2025-09-13
+* [Issue] [Improve CI workflow to cancel state runs](https://github.com/status-im/nimbus-eth1/issues/3671) - 2025-09-13
+* [Commit] [fix: lint nph](https://github.com/status-im/nimbus-eth1/commit/5d2f25a860356aa4643bb76927590af242dcdfe5) - 2025-09-13
+* [Commit] [fix: lint](https://github.com/status-im/nimbus-eth1/commit/e11d3c79286097246f6e2283b951b68142e6fc98) - 2025-09-13
+* [Commit] [fix: portal tests](https://github.com/status-im/nimbus-eth1/commit/a05dfcb8c224cfefdcb3143b6c39d72101e82c42) - 2025-09-13
+* [Commit] [fix: lint](https://github.com/status-im/nimbus-eth1/commit/687f76bd7dfa1b705d58cec0f550ce7e38a3002d) - 2025-09-13
+* [Pull Request] [bump `nimbus-eth2` and fix commithash + copyright banner](https://github.com/status-im/nimbus-eth1/pull/3670) - 2025-09-13
+* [Commit] [use nimbus specific copyright](https://github.com/status-im/nimbus-eth1/commit/9de1b1dcc96f86af3e3722513585a838d8b7265e) - 2025-09-13
+* [Commit] [Portal: Remove support for Portal wire v0 (#3663)](https://github.com/status-im/nimbus-eth1/commit/4e16b95e7ad262ea5d98ce19779166752694f3f8) - 2025-09-13
 ## Q2 2025
 
 
