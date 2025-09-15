@@ -181,6 +181,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix some XDeclaredButNotUsed hints (#7495)](https://github.com/status-im/nimbus-eth2/commit/819dd7d05600e6be4d9db64c63fc40e997dee60d) - 2025-09-13
 * [Pull Request] [fix some XDeclaredButNotUsed hints](https://github.com/status-im/nimbus-eth2/pull/7495) - 2025-09-13
 * [Commit] [more rman column optimizations (#7492)](https://github.com/status-im/nimbus-eth2/commit/1ffaccfc7f87b430ecb0a9980bdc2fce664f2b4f) - 2025-09-13
+* [Commit] [rm a few more debugGloasComments (#7501)](https://github.com/status-im/nimbus-eth2/commit/257f486dba9f7eacd6ea2e5f35b2d2b05957d96d) - 2025-09-14
+* [Pull Request] [rm a few more debugGloasComments](https://github.com/status-im/nimbus-eth2/pull/7501) - 2025-09-14
+* [Commit] [Parallel reconstruction (unstable branch) (#7428)](https://github.com/status-im/nimbus-eth2/commit/4ffa96d9b6df4d3f8faee9fedba5a455922d4d8c) - 2025-09-14
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

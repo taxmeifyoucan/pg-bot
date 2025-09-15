@@ -66,6 +66,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [add codeHash](https://github.com/erigontech/erigon/commit/82629ec4020fffdb3483ff5287d8be4b64fa5373) - 2025-09-11
 * [Pull Request] [rpcdaemon: prestate tracer with code hash eth get transaction receipt with block timetsamp](https://github.com/erigontech/erigon/pull/17086) - 2025-09-11
 * [Commit] [workflows: stricter hive test pass rates (#17038)](https://github.com/erigontech/erigon/commit/931238d4142563a1aa0ef64fa7a378cc65b2b2a9) - 2025-09-12
+* [Commit] [move check later for bor](https://github.com/erigontech/erigon/commit/f5437e0027c3700555b06e6951182fbcc1d76342) - 2025-09-14
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24

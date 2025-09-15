@@ -1204,6 +1204,7 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/ddca468ad9c8f51c4124e8fa379b54b92a275ec1) - 2025-09-12
 * [Commit] [fix for successive rm-state not removing latest file (#17093)](https://github.com/erigontech/erigon/commit/918b01020ef3c57ef356ef0f9f0537fa07726b5b) - 2025-09-12
 * [Commit] [Fix data race issue in caplin unittest  (#17020)](https://github.com/erigontech/erigon/commit/11b751442a82ca1e8cebd9dfd486cf2faf8e6755) - 2025-09-12
+* [Commit] [rpcdaemon: prestate tracer with code hash eth get transaction receipt with block timetsamp (#17086)](https://github.com/erigontech/erigon/commit/d12956020af1eb27079fde371c9d9b01bd954769) - 2025-09-14
 ## Q2 2025
 
 

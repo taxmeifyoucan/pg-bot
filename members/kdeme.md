@@ -44,6 +44,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix txRoot check bug as zeroHash32 instead of emptyRoot was used](https://github.com/status-im/nimbus-eth1/commit/a27f133eb7d22bcf5fdf035fbc1f4ba7764f9758) - 2025-09-09
 * [Commit] [Fix era import by adjusting getUncleHashes to not use getBlockBody](https://github.com/status-im/nimbus-eth1/commit/82969fc0e1b3eee0d15f8766d6460fd0b62591ac) - 2025-09-09
 * [Pull Request] [Portal: Remove support for Portal wire v0](https://github.com/status-im/nimbus-eth1/pull/3663) - 2025-09-11
+
+* [Commit] [Portal: Adjust Portal ENR field as per portal specs update (#3665)](https://github.com/status-im/nimbus-eth1/commit/cfee278858a34f02373b8d823ff8596bd442e6d8) - 2025-09-14
+[ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
+* [Pull Request] [Update Portal bootstrap nodes](https://github.com/ethereum/portal-network-specs/pull/413) - 2025-09-14
 ## Q2 2025
 
 

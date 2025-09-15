@@ -44,6 +44,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Auto-update fast sync settings (#9252)](https://github.com/NethermindEth/nethermind/commit/fdcd8c0d0ecba4e049c8cb6cd88df9424f4a2cbb) - 2025-09-07
 * [Commit] [ci: bump actions/checkout to v4 (#8549)](https://github.com/NethermindEth/nethermind/commit/43a12e86351bc39f2730fd90d63756e3b26a3ae5) - 2025-09-08
 * [Commit] [Etend MultiVersionMemory to work on different data types](https://github.com/NethermindEth/nethermind/commit/a7b32d858b6ad81b2d8b6342714e78ef74258a7e) - 2025-09-10
+* [Commit] [Auto-update fast sync settings (#9283)|](https://github.com/NethermindEth/nethermind/commit/0340f441659f6b67f28a12c1d19e804641321bb6) - 2025-09-14
+* [Commit] [Update OP Superchain chains (#9284)](https://github.com/NethermindEth/nethermind/commit/2801be6b593a7b37ad6c53f17b9af617be390578) - 2025-09-14
 ## Q2 2025
 
 

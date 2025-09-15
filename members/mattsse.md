@@ -210,6 +210,9 @@ Team: Reth
 * [Issue] [Add helpers to PendingBlockAndReceipts](https://github.com/paradigmxyz/reth/issues/18419) - 2025-09-13
 * [Issue] [Add fn recovered_tx to indexedTx](https://github.com/paradigmxyz/reth/issues/18418) - 2025-09-13
 * [Issue] [Introduce tree config setting for unwinding canonical header](https://github.com/paradigmxyz/reth/issues/18417) - 2025-09-13
+* [Commit] [chore: remove type aliases (#18433)](https://github.com/paradigmxyz/reth/commit/96f8454d4261a7ebc489da5125442146d33c17ef) - 2025-09-14
+* [Pull Request] [chore: remove type aliases](https://github.com/paradigmxyz/reth/pull/18433) - 2025-09-14
+* [Commit] [chore(deps): weekly `cargo update` (#18431)](https://github.com/paradigmxyz/reth/commit/2408586a515a5ee4af9d18e4224e9cd5da10bcce) - 2025-09-14
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

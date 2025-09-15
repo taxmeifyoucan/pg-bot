@@ -179,6 +179,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [[r31] cherry pick Rio hard fork commits (Part 3) (#17099)](https://github.com/erigontech/erigon/commit/214f75c8795ac6ecff4ba9093da20ccf91395bb6) - 2025-09-12
 * [Commit] [[r3.1] qa-tests: add run_migrations in RPC Integration Tests + fixes (#16936)](https://github.com/erigontech/erigon/commit/ae8c6cafc8e4042fc369a79bd8f9c79b74d218b5) - 2025-09-12
 * [Commit] [[r31] cherry-pick span index lookup (Rio cherry-pick commits part 2) (#17095)](https://github.com/erigontech/erigon/commit/f9981d5086e9e3c66360883a7fc9eb7e60765213) - 2025-09-12
+* [Issue] [sync-from-scratch-test (amoy) failed on release/3.1](https://github.com/erigontech/erigon/issues/17108) - 2025-09-14
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

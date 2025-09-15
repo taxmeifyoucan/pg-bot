@@ -22,6 +22,7 @@ Team: EthereumJS
 * [Commit] [AI prompts to streamline releases (#4131)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/4c739823dadf300149c9abca5327d1c12bf80d6a) - 2025-09-09
 * [Issue] [Fusaka Hardfork Meta Issue](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4132) - 2025-09-10
 * [Pull Request] [evm: add eip7939 - count leading zeroes](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4133) - 2025-09-13
+* [Commit] [evm: add comments to logic](https://github.com/ethereumjs/ethereumjs-monorepo/commit/2dc8489d7207f1f5175b661dc1958457080a54a5) - 2025-09-14
 ## Q2 2025
 
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)

@@ -124,6 +124,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Optimize processing of slashings (#14990)](https://github.com/OffchainLabs/prysm/commit/3f5c4df7e0ed15d9bbbd47ab8bc5affc1812a36a) - 2025-09-11
 * [Pull Request] [Fulu general spectests](https://github.com/OffchainLabs/prysm/pull/15682) - 2025-09-11
 * [Commit] [removing log](https://github.com/OffchainLabs/prysm/commit/3f8e0f479ca8c7498acfd2cda0084e4f9489b21a) - 2025-09-11
+* [Commit] [updating unit test for more coverage](https://github.com/OffchainLabs/prysm/commit/2a276fa0e7ed6f39afbe57adea91b7faddc40695) - 2025-09-14
+* [Commit] [fixing tests and handler](https://github.com/OffchainLabs/prysm/commit/ea07965effdc30a8b66e8efbaaf8ed249639937d) - 2025-09-14
 ## Q2 2025
 
 
