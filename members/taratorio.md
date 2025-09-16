@@ -189,6 +189,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [workflows: run kurtosis on PRs and use fixed ethereum-package version (#17034)](https://github.com/erigontech/erigon/commit/c1957eec51d853556e29e6993e0c0554f54b4a1b) - 2025-09-09
 * [Pull Request] [[DO-NOT-MERGE] wip](https://github.com/erigontech/erigon/pull/17084) - 2025-09-10
 * [Issue] [TestEthConfig panic: fail to open mdbx: mdbx_env_open: The paging file is too small for this operation to complete](https://github.com/erigontech/erigon/issues/17083) - 2025-09-10
+* [Commit] [fix race](https://github.com/erigontech/erigon/commit/e82cbcef8a766850dcb4a1f8447886266c23debb) - 2025-09-15
+* [Commit] [remove accidentally pushed file](https://github.com/erigontech/erigon/commit/4139f7c1e79b7f3bf397021d7dd9a7280c1fd408) - 2025-09-15
+* [Pull Request] [execution/tests: fix unclean exit in engine api tests](https://github.com/erigontech/erigon/pull/17120) - 2025-09-15
+* [Commit] [execution/tests: fix unclean exit in engine api tests](https://github.com/erigontech/erigon/commit/888e5b2b6e9f937f15548509f0811faaf89d44c9) - 2025-09-15
 ## Q2 2025
 
 

@@ -205,6 +205,7 @@ Team: Erigon
 * [Pull Request] [DO NOT MERGE - Docker image](https://github.com/erigontech/erigon/pull/17089) - 2025-09-11
 * [Commit] [API get blobs (#17076)](https://github.com/erigontech/erigon/commit/25eb4ceb42abfbeecffb92357ac16e71262c2b59) - 2025-09-11
 * [Pull Request] [Charry-Pick: more unittests and spectests for fulu (#16623)](https://github.com/erigontech/erigon/pull/17110) - 2025-09-14
+* [Pull Request] [Caplin: prioritize head event](https://github.com/erigontech/erigon/pull/17122) - 2025-09-15
 ## Q2 2025
 
 

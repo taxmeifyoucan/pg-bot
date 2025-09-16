@@ -43,6 +43,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Apply TotalTimeoutHandler only if duration seconds > 0 (#415)](https://github.com/libp2p/jvm-libp2p/commit/63d74d0166e9f64cb49129e154c60e69d1cc557c) - 2025-08-29
 * [Pull Request] [Dependencies updates](https://github.com/libp2p/jvm-libp2p/pull/424) - 2025-09-12
 * [Commit] [Move QUIC implementation to prototype 🍋  (#423)](https://github.com/libp2p/jvm-libp2p/commit/8aa477df9e1c9a452706a8f51a7eee10df78c924) - 2025-09-12
+* [Issue] [Issues with upgrading dependencies](https://github.com/libp2p/jvm-libp2p/issues/426) - 2025-09-15
 ## Q2 2025
 
 

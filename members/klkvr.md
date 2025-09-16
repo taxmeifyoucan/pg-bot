@@ -86,6 +86,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [feat: expose `EvmEnv` to `caller_gas_allowance`](https://github.com/paradigmxyz/reth/pull/18302) - 2025-09-05
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/f330a03a513bfa436fc9182fbcf5bc961457804e) - 2025-09-08
 * [Pull Request] [feat: cache latest built payload](https://github.com/paradigmxyz/reth/pull/18324) - 2025-09-08
+* [Commit] [recover_transactions](https://github.com/paradigmxyz/reth/commit/063a007cd63bebc975bf82fc5c51e7d45a7af80f) - 2025-09-15
+* [Pull Request] [feat: `Block::iter_recovered`](https://github.com/paradigmxyz/reth/pull/18476) - 2025-09-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: impl inspector for tuple](https://github.com/bluealloy/revm/pull/2871) - 2025-08-08
 ## Q2 2025

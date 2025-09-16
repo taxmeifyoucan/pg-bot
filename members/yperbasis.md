@@ -180,6 +180,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [[r3.1] qa-tests: add run_migrations in RPC Integration Tests + fixes (#16936)](https://github.com/erigontech/erigon/commit/ae8c6cafc8e4042fc369a79bd8f9c79b74d218b5) - 2025-09-12
 * [Commit] [[r31] cherry-pick span index lookup (Rio cherry-pick commits part 2) (#17095)](https://github.com/erigontech/erigon/commit/f9981d5086e9e3c66360883a7fc9eb7e60765213) - 2025-09-12
 * [Issue] [sync-from-scratch-test (amoy) failed on release/3.1](https://github.com/erigontech/erigon/issues/17108) - 2025-09-14
+* [Commit] [rm tests/kurtosis](https://github.com/erigontech/erigon/commit/d149478592849287b1aca2aaa58a3a3d1bf36787) - 2025-09-15
+* [Commit] [mv contracts to execution](https://github.com/erigontech/erigon/commit/450a7be946007e28500214d203658c2330da2a0b) - 2025-09-15
+* [Commit] [rename chaos monkey again](https://github.com/erigontech/erigon/commit/62fc5ef4bd69aef6502ff89378845132a6990cf0) - 2025-09-15
+* [Commit] [rm caplinrpc](https://github.com/erigontech/erigon/commit/ee6af803fde57a64e4fae83879083338fac06300) - 2025-09-15
+* [Commit] [mv chaos-monkey to execution](https://github.com/erigontech/erigon/commit/25c3f0231a49ff02eb26a2695e7258d7ec83c424) - 2025-09-15
+* [Commit] [mv test-corners to execution](https://github.com/erigontech/erigon/commit/be45a9638dc9f8734ff5281c18adad33aa2b307f) - 2025-09-15
+* [Commit] [fix compilation](https://github.com/erigontech/erigon/commit/1026878fd2aa6aad45cc9f51e398ba7bc682a3b2) - 2025-09-15
+* [Commit] [mv remaining tests to execution](https://github.com/erigontech/erigon/commit/a8217221a060e1f581da3232c2eb036d4ee5ee51) - 2025-09-15
+* [Commit] [mv rest of utils to testutil](https://github.com/erigontech/erigon/commit/fcc1a812cf95830e56b032193a8d8e804bf4df7d) - 2025-09-15
+* [Commit] [mv Forks to testforks](https://github.com/erigontech/erigon/commit/0cfb40080ccbb26b9b89f528b29538c0b2fd42b6) - 2025-09-15
+* [Pull Request] [Yperbasis/dirs26](https://github.com/erigontech/erigon/pull/17119) - 2025-09-15
+* [Commit] [move some tests to execution](https://github.com/erigontech/erigon/commit/d1cbe6d212a8149509af29a123c452b63447a646) - 2025-09-15
+* [Commit] [execution: fix incorrect unwinding when validating chain (#17105)](https://github.com/erigontech/erigon/commit/bab18fe45633eb0e46d29a5d5ac34ddb7d986446) - 2025-09-15
+* [Commit] [execution: merge testutil into tests](https://github.com/erigontech/erigon/commit/0c7468ad368b29e491f383bbacbb234b8535894e) - 2025-09-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

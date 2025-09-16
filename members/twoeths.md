@@ -144,6 +144,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: make the if condition style consistent](https://github.com/ChainSafe/lodestar/commit/d78a39f8d4590168763cacc0a2e1c991ad373ede) - 2025-09-12
 * [Pull Request] [feat: relaxed data column response handler](https://github.com/ChainSafe/lodestar/pull/8387) - 2025-09-12
 * [Issue] [[block-input-refactor]](https://github.com/ChainSafe/lodestar/issues/8385) - 2025-09-12
+* [Commit] [fix: check-types in nHistoricalState test](https://github.com/ChainSafe/lodestar/commit/79d61f0ad6495056a4873f362a7b5fe285581a27) - 2025-09-15
+* [Pull Request] [fix: e2e tests for blockinput refactor branch](https://github.com/ChainSafe/lodestar/pull/8394) - 2025-09-15
 ## Q2 2025
 
 

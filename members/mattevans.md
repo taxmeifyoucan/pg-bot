@@ -51,6 +51,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [build(deps): bump github.com/ulikunitz/xz from 0.5.11 to 0.5.14](https://github.com/ethpandaops/contributoor/commit/55968c9feba3e4cdff92fdce95bd45b111aabcb1) - 2025-08-29
 * [Commit] [chore(.golangci.yml): rename wsl to wsl_v5 and add its settings](https://github.com/ethpandaops/contributoor/commit/c4d88e7c65c1e026cf8cc797d49c286e79fa2ea7) - 2025-09-01
 * [Commit] [style: add blank lines for readability and group variable declarations](https://github.com/ethpandaops/contributoor/commit/7a6be41b714770e9b7ebd60aa516262371f79b8d) - 2025-09-01
+* [Commit] [build(deps): bump crate-ci/typos in the actions group](https://github.com/ethpandaops/contributoor/commit/97ec4822fa20e7d6d8152a18de4eb0ba7f8df194) - 2025-09-15
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Commit] [feat(libp2p): heartbeat](https://github.com/ethpandaops/xatu/commit/e0b608e1bc89e515df25b8954cf64fc9be20f2a1) - 2025-08-20
 * [Commit] [fix(vector): ensure libp2p heartbeat fields match ClickHouse schema](https://github.com/ethpandaops/xatu/commit/c50696bfd15f0566025dcc716e77c1ff5c8a1575) - 2025-08-20

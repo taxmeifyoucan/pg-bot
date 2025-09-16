@@ -184,6 +184,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rm a few more debugGloasComments (#7501)](https://github.com/status-im/nimbus-eth2/commit/257f486dba9f7eacd6ea2e5f35b2d2b05957d96d) - 2025-09-14
 * [Pull Request] [rm a few more debugGloasComments](https://github.com/status-im/nimbus-eth2/pull/7501) - 2025-09-14
 * [Commit] [Parallel reconstruction (unstable branch) (#7428)](https://github.com/status-im/nimbus-eth2/commit/4ffa96d9b6df4d3f8faee9fedba5a455922d4d8c) - 2025-09-14
+* [Commit] [revert nim-kzg4844 (#7502)](https://github.com/status-im/nimbus-eth2/commit/da9305a98485ebbc8a54cdce24d7acf023b567e3) - 2025-09-15
+* [Commit] [bump faststreams (#7474)](https://github.com/status-im/nimbus-eth2/commit/9a16dac44188f5bfef71f75ccf4c9736587f1360) - 2025-09-15
+* [Commit] [Disable concurrent requests in legacy sync manager (#7491)](https://github.com/status-im/nimbus-eth2/commit/30d6e8cd79beeeec2b005a0b3b88a4b185441c84) - 2025-09-15
+* [Pull Request] [revert nim-kzg4844](https://github.com/status-im/nimbus-eth2/pull/7502) - 2025-09-15
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

@@ -59,6 +59,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: only create dns server group if bootnodes defined (#118)](https://github.com/ethpandaops/template-devnets/commit/bd95ed0bb0091867edb2c4ba0a03b4457d9cd7e5) - 2025-09-09
 * [Pull Request] [fix: only create dns server group if bootnodes defined](https://github.com/ethpandaops/template-devnets/pull/118) - 2025-09-09
 * [Commit] [fix: only create dns server group if bootnodes defined](https://github.com/ethpandaops/template-devnets/commit/8a8c486ea7bc4f4a9b580660d2b9a50449fc2986) - 2025-09-09
+* [Commit] [fix bootnode supernode label](https://github.com/ethpandaops/template-devnets/commit/c74a1c3f6b446f1673ea645f28f11d2dbbfd3366) - 2025-09-15
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Commit] [fix go fmt](https://github.com/ethpandaops/dora/commit/15708132cc1c9e5bf1000766b5a7076e22819a00) - 2025-08-04
 * [Commit] [fixes](https://github.com/ethpandaops/dora/commit/d05bca8af70ae490a6a2bc7f8a0847209f4a2003) - 2025-08-04

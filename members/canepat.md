@@ -73,6 +73,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix comment](https://github.com/erigontech/erigon/commit/2d5390b6a019461cae57a81955e2344afe176314) - 2025-09-12
 * [Issue] [Caplin: Beacon Checkpoint Sync gets stuck](https://github.com/erigontech/erigon/issues/17098) - 2025-09-12
 * [Commit] [increase timeout](https://github.com/erigontech/erigon/commit/835bf33a12cca35b9deccc88c5b9e419fca4d418) - 2025-09-12
+* [Issue] [rpc: evaluate go-libdeflate for non-streaming endpoints](https://github.com/erigontech/erigon/issues/17112) - 2025-09-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14

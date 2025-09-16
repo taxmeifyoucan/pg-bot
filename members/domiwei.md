@@ -121,6 +121,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [misc updates for fulu (#16989)](https://github.com/erigontech/erigon/commit/4700b6e0c499682f1745e6fd4d683af4710d4c6c) - 2025-09-10
 * [Commit] [update](https://github.com/erigontech/erigon/commit/74c7ed76c7d324ee0b011527c2da1298217b0938) - 2025-09-10
 * [Commit] [update](https://github.com/erigontech/erigon/commit/3521bae2893c03956fa00b74b26caa8453c4270f) - 2025-09-10
+* [Pull Request] [Improve performance of blob recovery](https://github.com/erigontech/erigon/pull/17121) - 2025-09-15
+* [Commit] [update](https://github.com/erigontech/erigon/commit/525c7cb24245dec2b6e6427d59e6cce9c4428534) - 2025-09-15
 ## Q2 2025
 
 

@@ -57,6 +57,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/c178498a7d17b05a5381eeba0ec3cb3a4e9ef530) - 2025-09-05
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/a3edd77df8505d41c5e3df5191feab330ba5735a) - 2025-09-06
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/fc7180a40570b75680f5baf493fb138f5eff6132) - 2025-09-06
+* [Commit] [Run all hive test suites by default](https://github.com/NethermindEth/nethermind/commit/bf1b422cf99794ed8d612e1cdb975daad6fcc14f) - 2025-09-15
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/ce6487728ff510df28ebea2cf3785bd0cb24e646) - 2025-09-15
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/7f8848bb6f8ba64c3d7bb09573ad0910ce89ff47) - 2025-09-15
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/9e6f5dfd07b0b683dfeef8c4b7a7b01ae85f0b4c) - 2025-09-15
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/35b9a5d1dfc16ed01300dbee56502b09ed3b16be) - 2025-09-15
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/5ed19c2ac36b2778a37b402631721c02423c7d61) - 2025-09-15
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/0a3f9a4d7528064a8d750717c3da059af43bfd4e) - 2025-09-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21

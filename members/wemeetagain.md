@@ -117,6 +117,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/949d21a5114c102a68c76738a9da8126047eba69) - 2025-09-12
 * [Commit] [Apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/3f1b6ea3f19797029ee8017c0f2b0f3f2aa822d5) - 2025-09-12
 * [Commit] [chore: minor renaming](https://github.com/ChainSafe/lodestar/commit/69232954095586032340faf19ae55dce476220da) - 2025-09-12
+* [Commit] [fix: stop verifying `SECONDS_PER_ETH1_BLOCK` on validator startup (#8397)](https://github.com/ChainSafe/lodestar/commit/7931b71e6dc54af3f7d247265075f4a3f631b986) - 2025-09-15
 ## Q2 2025
 
 

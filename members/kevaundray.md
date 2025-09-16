@@ -34,6 +34,9 @@ Team: Consensus R&D (EF)
 * [Issue] [Add CI check for rv64imac-unknown-none-elf](https://github.com/paradigmxyz/reth/issues/18266) - 2025-09-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat: pass StateOracle as a parameter to `state_transition`](https://github.com/ethereum/execution-specs/pull/1371) - 2025-08-17
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [feat: Add specs for zkEVM](https://github.com/ethereum/consensus-specs/pull/4591) - 2025-09-15
 ## Q2 2025
 
 

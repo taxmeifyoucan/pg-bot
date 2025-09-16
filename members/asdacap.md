@@ -247,6 +247,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Make add block more consistent](https://github.com/NethermindEth/nethermind/commit/db7b670766c1b796c82db7460811b5554e51037a) - 2025-09-12
 * [Commit] [What about now](https://github.com/NethermindEth/nethermind/commit/83750c59923c0497bcf114b3fb9e9d32a5be6ef4) - 2025-09-12
 * [Pull Request] [Test/Attempt at fixing jsonrpc test](https://github.com/NethermindEth/nethermind/pull/9279) - 2025-09-12
+* [Commit] [Genesis extensibility (#9282)](https://github.com/NethermindEth/nethermind/commit/492fb24ee6c5019f484b4b0c7f3211da39208b13) - 2025-09-15
+* [Commit] [Make it lazy](https://github.com/NethermindEth/nethermind/commit/4284baa9d51e09a4acd3ae84115e76bbd914a743) - 2025-09-15
+* [Commit] [Fix the genesis loading](https://github.com/NethermindEth/nethermind/commit/9ccf263368690e5c540a9a9ebe3ef60a2fd5be5e) - 2025-09-15
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/8207ae66df4d1eae9eb4f663feb5446af5b93c37) - 2025-09-15
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

@@ -45,6 +45,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Move point at infinity check before curve check](https://github.com/ethereum/execution-specs/commit/f6dc45dc89642b1e9b7a8fbd87ddf96606e5709d) - 2025-09-05
 * [Issue] [New fork tool should clear the docstring in `src/ethereum/forks/*/__init__.py`](https://github.com/ethereum/execution-specs/issues/1423) - 2025-09-10
 * [Issue] [Use hypothesis for testing precompiles](https://github.com/ethereum/execution-specs/issues/1421) - 2025-09-10
+* [Issue] [Replace hardcoded fork paths with `Hardfork` class](https://github.com/ethereum/execution-specs/issues/1426) - 2025-09-15
+* [Commit] [chore(consume): fix consume cache for python 3.11 (#2077)](https://github.com/ethereum/execution-specs/commit/d05dc79118dadff611983e560d9cd1a3763c5905) - 2025-09-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-7932: Fix some typos (#10011)](https://github.com/ethereum/EIPs/commit/9e953a254861cf86dc6d55f1f90a54807cfecdb1) - 2025-07-16
 * [Commit] [Website: Add missing favicon (#9963)](https://github.com/ethereum/EIPs/commit/719769bd61033e9bcd4de7b647bdc927981b6195) - 2025-07-28

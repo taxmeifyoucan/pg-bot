@@ -155,6 +155,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [chore: create and apply eest label concept for use in execution-specs post-weld](https://github.com/ethereum/execution-spec-tests/issues/2142) - 2025-09-12
 * [Issue] [chore: close all obsolete or unactionable issues pre-weld](https://github.com/ethereum/execution-spec-tests/issues/2141) - 2025-09-12
 * [Issue] [chore: close all stale prs in preparation for the weld](https://github.com/ethereum/execution-spec-tests/issues/2140) - 2025-09-12
+* [Commit] [Deployed 1779001b59d to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/4799941a6df698cbef111bd4b89bbe21e03004cf) - 2025-09-15
+* [Commit] [chore(cli): besu blob tx exception mapper update (#2145)](https://github.com/ethereum/execution-spec-tests/commit/1779001b59d556a409cf820dbcb022f5471cf325) - 2025-09-15
+* [Commit] [Deployed 110b5d4ae9d to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3fca0863d0efe8a2694a98fce32b1017089c7c04) - 2025-09-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 ## Q2 2025

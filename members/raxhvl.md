@@ -19,3 +19,5 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [🧹 chore(EIP-7928): Remove intrisic gas test](https://github.com/ethereum/execution-spec-tests/commit/68a6cc6467d9f2d70aba21c645c7a1d353790426) - 2025-09-10
 * [Commit] [🥢 nit: Simplify framing for SLOAD/SSTORE test cases](https://github.com/ethereum/execution-spec-tests/commit/d5c03233120807445aff57343f6ddec22b29ea78) - 2025-09-10
 * [Commit] [🥢 nit: Title](https://github.com/ethereum/execution-spec-tests/commit/3178dfaecfd36d6d81e4ecef8f9b381890318951) - 2025-09-11
+* [Commit] [🚧 wip(EIP-7928): OOG tests](https://github.com/ethereum/execution-spec-tests/commit/780a23e012389404df82af62f2d4e8b4e89e0740) - 2025-09-15
+* [Commit] [chore(docs): bump changelog from v5.0.0 release. (#2105)](https://github.com/ethereum/execution-spec-tests/commit/43ccf8a6e5c23b85585eca5d9f203160fb2b20e4) - 2025-09-15

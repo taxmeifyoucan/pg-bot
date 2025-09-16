@@ -71,6 +71,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Port SSZ static tests to pytest (#4573)](https://github.com/ethereum/consensus-specs/commit/794302d8533b3738fca0a833f2cde7fb9179f93c) - 2025-09-11
 * [Commit] [Replace "honestly" with "realistically" (#4556)](https://github.com/ethereum/consensus-specs/commit/e39bab49b345ce005ae47c3f7389990130ff4e30) - 2025-09-11
 * [Commit] [Emit light client tests for Fulu (#4569)](https://github.com/ethereum/consensus-specs/commit/bca8f8b439ea5e53600f587e4aacd3e5ed13b436) - 2025-09-11
+* [Pull Request] [Add regression test for `verify_cell_kzg_proof_batch` bug](https://github.com/ethereum/consensus-specs/pull/4590) - 2025-09-15
+* [Commit] [Show feature specs on the website again (#4587)](https://github.com/ethereum/consensus-specs/commit/c62556baf6fcb5d869a037d647ea3de0927535d7) - 2025-09-15
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

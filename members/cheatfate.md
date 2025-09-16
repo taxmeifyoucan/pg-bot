@@ -44,6 +44,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix compilation issue.](https://github.com/status-im/nimbus-eth2/commit/766eb6d7d3de033ed92e17b3fdd9836b5828f1d4) - 2025-09-08
 * [Commit] [Add some debugging logs.](https://github.com/status-im/nimbus-eth2/commit/ad4bbbf7db7ab92ed80b0385649a1e6f3f9e89f5) - 2025-09-08
 * [Commit] [Add earliest_available_slot handling.](https://github.com/status-im/nimbus-eth2/commit/79bb16f0659f7177291c8bdcd12d47b98c7be1af) - 2025-09-08
+* [Commit] [Fix block buffer advance when empty responses being processed.](https://github.com/status-im/nimbus-eth2/commit/443f1042b11d0981c979df00800953673cabb78c) - 2025-09-15
+* [Commit] [Add more debugging on RangeBuffer.](https://github.com/status-im/nimbus-eth2/commit/c9fb05427df0ccf852b55725c4d9080f06583821) - 2025-09-15
 ## Q2 2025
 
 

@@ -91,6 +91,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [bump `nimbus-eth2` and fix commithash + copyright banner](https://github.com/status-im/nimbus-eth1/pull/3670) - 2025-09-13
 * [Commit] [use nimbus specific copyright](https://github.com/status-im/nimbus-eth1/commit/9de1b1dcc96f86af3e3722513585a838d8b7265e) - 2025-09-13
 * [Commit] [Portal: Remove support for Portal wire v0 (#3663)](https://github.com/status-im/nimbus-eth1/commit/4e16b95e7ad262ea5d98ce19779166752694f3f8) - 2025-09-13
+* [Commit] [Ship librocksdb.dll together with release binary on Windows (#3662)](https://github.com/status-im/nimbus-eth1/commit/13ef6f0c64f16c9c77ac17d900eaa7bcb62ff716) - 2025-09-15
+* [Issue] [does `hive_integration` hold any value anymore ?](https://github.com/status-im/nimbus-eth1/issues/3679) - 2025-09-15
 ## Q2 2025
 
 

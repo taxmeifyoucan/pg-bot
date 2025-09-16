@@ -55,6 +55,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix tests](https://github.com/erigontech/erigon/commit/15e12220dda5a168e2c1e7e55a1df7f96ac18aac) - 2025-09-03
 * [Commit] [fix build](https://github.com/erigontech/erigon/commit/7389b2a047bf33b0c99f463e2dd2870cb6bf3853) - 2025-09-03
 * [Commit] [get salt-blocks load/create logic parity with salt-state (#16714)](https://github.com/erigontech/erigon/commit/151e3737f7306bedf4824e1d32783a3a20c9a6cc) - 2025-09-03
+* [Commit] [More rename](https://github.com/erigontech/erigon/commit/aa9e0bbee3677ebee3ee42f296f875524b429d2f) - 2025-09-15
+* [Commit] [Use kv.Tx](https://github.com/erigontech/erigon/commit/5ff4b66be6dea6b4de7f0ec3380d7b49fd0a9f39) - 2025-09-15
+* [Commit] [Fix MinimumBlockAvailable logic](https://github.com/erigontech/erigon/commit/d875b6b53c5678fac30f0f5d89abcbe27b4d73a7) - 2025-09-15
 ## Q2 2025
 
 

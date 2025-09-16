@@ -126,6 +126,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [removing log](https://github.com/OffchainLabs/prysm/commit/3f8e0f479ca8c7498acfd2cda0084e4f9489b21a) - 2025-09-11
 * [Commit] [updating unit test for more coverage](https://github.com/OffchainLabs/prysm/commit/2a276fa0e7ed6f39afbe57adea91b7faddc40695) - 2025-09-14
 * [Commit] [fixing tests and handler](https://github.com/OffchainLabs/prysm/commit/ea07965effdc30a8b66e8efbaaf8ed249639937d) - 2025-09-14
+* [Commit] [more missed gofmt](https://github.com/OffchainLabs/prysm/commit/6fb4c58c65cf26fae367c4325840b6acbce5913f) - 2025-09-15
+* [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/7baaa25bbb625bc412247d720cc96a7a6576433d) - 2025-09-15
 ## Q2 2025
 
 

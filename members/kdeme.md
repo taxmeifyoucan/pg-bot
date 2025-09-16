@@ -46,6 +46,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Portal: Remove support for Portal wire v0](https://github.com/status-im/nimbus-eth1/pull/3663) - 2025-09-11
 
 * [Commit] [Portal: Adjust Portal ENR field as per portal specs update (#3665)](https://github.com/status-im/nimbus-eth1/commit/cfee278858a34f02373b8d823ff8596bd442e6d8) - 2025-09-14
+* [Commit] [Portal: Adjust history JSON-RPC API + re-add web3_clientVersion (#3680)](https://github.com/status-im/nimbus-eth1/commit/959c6855a592e3a12cb79c2b780f7df64a93b2b2) - 2025-09-15
+* [Commit] [Portal: Adjust history JSON-RPC API + re-add web3_clientVersion](https://github.com/status-im/nimbus-eth1/commit/87e507b9999656f0f1e0409c9ac189fc639c0a5d) - 2025-09-15
+* [Pull Request] [Portal: Adjust history JSON-RPC API + re-add web3_clientVersion](https://github.com/status-im/nimbus-eth1/pull/3680) - 2025-09-15
+* [Commit] [Portal: Adjust history JSON-RPC API + re-add web3_clientVersion](https://github.com/status-im/nimbus-eth1/commit/24dddfae2904f603cfaaee82dbec4b6f4f25c7a4) - 2025-09-15
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Pull Request] [Update Portal bootstrap nodes](https://github.com/ethereum/portal-network-specs/pull/413) - 2025-09-14
 ## Q2 2025

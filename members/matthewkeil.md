@@ -93,6 +93,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: fix check-types](https://github.com/ChainSafe/lodestar/commit/1a7b1e45104e85b7d702b37a76871b5fd15c06a9) - 2025-09-10
 * [Commit] [feat: log number of pruned BlockInputs](https://github.com/ChainSafe/lodestar/commit/d46bf59929e23f8cc73f673baacab6ff77a039c2) - 2025-09-10
 * [Commit] [fix: add blocks to all BatchState (#8369)](https://github.com/ChainSafe/lodestar/commit/ee00704e360d28602025d031edbd10cbae9c05c5) - 2025-09-11
+* [Commit] [feat: publish all blobs at once](https://github.com/ChainSafe/lodestar/commit/5d59d81bc50c03ce6cbdacf0a9e2eac32299dd07) - 2025-09-15
+* [Commit] [fix: swap metrics help](https://github.com/ChainSafe/lodestar/commit/061a51c6df40a2fbc342bae65cd20393665e2dd8) - 2025-09-15
+* [Commit] [fix: deduplicate metrics](https://github.com/ChainSafe/lodestar/commit/92bdf2336e09ef137f61b46b2b146890570bf697) - 2025-09-15
+* [Commit] [fix: update array index variable](https://github.com/ChainSafe/lodestar/commit/62b7860c7dbc3022b435b3f675b0ef3cf5109170) - 2025-09-15
+* [Pull Request] [feat: get blobs v1](https://github.com/ChainSafe/lodestar/pull/8399) - 2025-09-15
+* [Commit] [fix: e2e tests for blockinput refactor branch (#8394)](https://github.com/ChainSafe/lodestar/commit/b8294842210589661c6d5125712ea4aee9dab82a) - 2025-09-15
+* [Commit] [docs: add note to spec test about test case for future us to know what is going on](https://github.com/ChainSafe/lodestar/commit/14a8ae3ac6451bff4f62397251bd5d427ae59f79) - 2025-09-15
+* [Commit] [docs: add not to spec test about test case for future us to know what is going on](https://github.com/ChainSafe/lodestar/commit/d090d5457413a9e80c6d9263b7960b1a74d498af) - 2025-09-15
+* [Commit] [fix: pass testCaseName to spec testFunction to allow for case specific logic in a test case](https://github.com/ChainSafe/lodestar/commit/b041e321878e6cb50a6173373907a15f2b134010) - 2025-09-15
 ## Q2 2025
 
 

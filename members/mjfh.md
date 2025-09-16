@@ -33,6 +33,9 @@ Team: Nimbus
 * [Pull Request] [Beacon sync maint update](https://github.com/status-im/nimbus-eth1/pull/3636) - 2025-09-05
 * [Commit] [Fix copyright years](https://github.com/status-im/nimbus-eth1/commit/effddef06e8c3762ef0294ee48be14b1b3ff40cf) - 2025-09-08
 * [Pull Request] [Beacon sync trace replay test tools](https://github.com/status-im/nimbus-eth1/pull/3642) - 2025-09-08
+* [Commit] [Downgrade linux-arm64 compiler and link with glibc 2.35 (#3676)](https://github.com/status-im/nimbus-eth1/commit/65bccbcf4a9c3f1c8af9c1264bad4d62bff49dd0) - 2025-09-15
+* [Commit] [Update `Exception` tracing for EL main module](https://github.com/status-im/nimbus-eth1/commit/17b056f864561740d67993180d9869b1620d8aca) - 2025-09-15
+* [Pull Request] [Provide main program API so it can be extended (e.g. for debugging.)](https://github.com/status-im/nimbus-eth1/pull/3678) - 2025-09-15
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
