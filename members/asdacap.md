@@ -251,6 +251,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Make it lazy](https://github.com/NethermindEth/nethermind/commit/4284baa9d51e09a4acd3ae84115e76bbd914a743) - 2025-09-15
 * [Commit] [Fix the genesis loading](https://github.com/NethermindEth/nethermind/commit/9ccf263368690e5c540a9a9ebe3ef60a2fd5be5e) - 2025-09-15
 * [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/8207ae66df4d1eae9eb4f663feb5446af5b93c37) - 2025-09-15
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/63f1e36a4c68d49a6d120d42cb8c07f10d7c6dac) - 2025-09-16
+* [Commit] [Whitespace](https://github.com/NethermindEth/nethermind/commit/ed6146dc46fda41432fc88822b4910f5afee5a76) - 2025-09-16
+* [Pull Request] [Reduce use of IWorldStateManager in test](https://github.com/NethermindEth/nethermind/pull/9292) - 2025-09-16
+* [Commit] [XDC : Interfaces and Dependencies (To Discuss) (#9268)](https://github.com/NethermindEth/nethermind/commit/409284200be83422b95fdea766ba0e0a3e4c7c6c) - 2025-09-16
+* [Commit] [Fix extra-params when empty (#9286)](https://github.com/NethermindEth/nethermind/commit/2b2abbf7a5cddddb5d66c439ad8e11ea74889395) - 2025-09-16
+* [Pull Request] [Add code to `IWorldStateScopeProvider`.](https://github.com/NethermindEth/nethermind/pull/9291) - 2025-09-16
+* [Commit] [Add test](https://github.com/NethermindEth/nethermind/commit/f96fc180575c598d928ad9f34d2e931022ee2a5e) - 2025-09-16
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

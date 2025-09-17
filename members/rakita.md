@@ -217,6 +217,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore(database): avoid panic by conditionally using block_in_place (#2927)](https://github.com/bluealloy/revm/commit/60f06c03467c95e13a9349887881c52061ead4cd) - 2025-09-12
 * [Commit] [Fix infinite recursion in EthPrecompiles PrecompileProvider methods (#2962)](https://github.com/bluealloy/revm/commit/fe8d4be3665c6becbf22151c794ddc47ce32b524) - 2025-09-12
 * [Commit] [handle same address transfer, and zero balance](https://github.com/bluealloy/revm/commit/83271fd97d81e69d3961b52d353ea9411f1b827b) - 2025-09-15
+* [Commit] [never inline call helper](https://github.com/bluealloy/revm/commit/7fb3d2efcf5357dc814bb74f27265bde792a53e0) - 2025-09-16
+* [Commit] [chore: pretty print state in revme statetest (#2979)](https://github.com/bluealloy/revm/commit/f4c87bfd90836a597dd990537f9dfea65ba85675) - 2025-09-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

@@ -201,6 +201,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [restore access to EMPTY_UNCLE_HASH](https://github.com/status-im/nimbus-eth1/commit/058999a144f7d76d27d77a106f3f8cce050d137b) - 2025-09-05
 * [Pull Request] [bump nimbus-eth2 for gloas fork infrastructure adaptation](https://github.com/status-im/nimbus-eth1/pull/3631) - 2025-09-05
 * [Commit] [shift commithash calc from eth2 to native eth1 (#3664)](https://github.com/status-im/nimbus-eth1/commit/f10349dc28fd2e03a99f003fecfc99a70e819cc8) - 2025-09-11
+* [Commit] [more import cleanups](https://github.com/status-im/nimbus-eth1/commit/0b4ee27a00850492c66984259f13ac2989baa934) - 2025-09-16
+* [Commit] [std/os is only used when isMainModule](https://github.com/status-im/nimbus-eth1/commit/447d6af6cd0fc3654bd7a6eb3a2c1c97bac5274a) - 2025-09-16
 ## Q2 2025
 
 

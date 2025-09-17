@@ -123,6 +123,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/3521bae2893c03956fa00b74b26caa8453c4270f) - 2025-09-10
 * [Pull Request] [Improve performance of blob recovery](https://github.com/erigontech/erigon/pull/17121) - 2025-09-15
 * [Commit] [update](https://github.com/erigontech/erigon/commit/525c7cb24245dec2b6e6427d59e6cce9c4428534) - 2025-09-15
+* [Commit] [update](https://github.com/erigontech/erigon/commit/3b17c3999747becec8d70b7ab2287afcd28b27c2) - 2025-09-16
 ## Q2 2025
 
 

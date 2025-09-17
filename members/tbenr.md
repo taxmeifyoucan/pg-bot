@@ -54,6 +54,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Fix validator registration retry (#9883)](https://github.com/Consensys/teku/commit/08d6342ffd3e222ead20e705b16db625d80548d1) - 2025-09-10
 * [Pull Request] [Respect reputation on incoming connection](https://github.com/Consensys/teku/pull/9887) - 2025-09-11
 * [Issue] [leveldb close open iterators error on shutdown](https://github.com/Consensys/teku/issues/9894) - 2025-09-15
+* [Pull Request] [Fix propagate to async](https://github.com/Consensys/teku/pull/9900) - 2025-09-16
 ## Q2 2025
 
 

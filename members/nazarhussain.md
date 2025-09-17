@@ -119,6 +119,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: add slot information to log messages](https://github.com/ChainSafe/lodestar/pull/8390) - 2025-09-12
 * [Commit] [update log message for all sync errors](https://github.com/ChainSafe/lodestar/commit/40b5f9e6e40b059815b3367c73a5d78494aedb3e) - 2025-09-12
 * [Commit] [Fix swagger, swagger-ui default import to named import](https://github.com/ChainSafe/lodestar/commit/2d723b03c66918267d1d8b4ed739f5fa88296610) - 2025-09-12
+* [Commit] [deps: upgrade typescript to 5.9 (#8412)](https://github.com/ChainSafe/lodestar/commit/c88a6ed255e379e909f0575a9f9a8b6943da6418) - 2025-09-16
 ## Q2 2025
 
 

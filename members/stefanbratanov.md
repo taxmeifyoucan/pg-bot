@@ -44,6 +44,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Dependencies updates](https://github.com/libp2p/jvm-libp2p/pull/424) - 2025-09-12
 * [Commit] [Move QUIC implementation to prototype 🍋  (#423)](https://github.com/libp2p/jvm-libp2p/commit/8aa477df9e1c9a452706a8f51a7eee10df78c924) - 2025-09-12
 * [Issue] [Issues with upgrading dependencies](https://github.com/libp2p/jvm-libp2p/issues/426) - 2025-09-15
+* [Commit] [Add quic to interop client (#425)](https://github.com/libp2p/jvm-libp2p/commit/8104b864d8659aa5ec3fc258f21f5105b3eb2197) - 2025-09-16
 ## Q2 2025
 
 

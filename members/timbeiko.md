@@ -14,6 +14,13 @@ Team: [ethereum/pm](https://github.com/ethereum/pm)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Move previously CFI'd Glamsterdam EIPs to PFI](https://github.com/ethereum/EIPs/pull/9970) - 2025-07-02
 * [Pull Request] [CFI EIP-7928 for Glamsterdam ](https://github.com/ethereum/EIPs/pull/10083) - 2025-07-31
+* [Pull Request] [Update EIP-7825 status to Review](https://github.com/ethereum/EIPs/pull/10345) - 2025-09-16
+* [Pull Request] [Update EIP-7883 status to Review](https://github.com/ethereum/EIPs/pull/10344) - 2025-09-16
+* [Pull Request] [Update EIP-7917 status to Review](https://github.com/ethereum/EIPs/pull/10343) - 2025-09-16
+* [Pull Request] [Update EIP-7934 status to Review](https://github.com/ethereum/EIPs/pull/10342) - 2025-09-16
+* [Pull Request] [Update EIP-7892 status to Review](https://github.com/ethereum/EIPs/pull/10341) - 2025-09-16
+* [Pull Request] [Update EIP-7910 status to Review](https://github.com/ethereum/EIPs/pull/10340) - 2025-09-16
+* [Pull Request] [Update EIP-7935 status to Review](https://github.com/ethereum/EIPs/pull/10339) - 2025-09-16
 ## Q2 2025
 
 

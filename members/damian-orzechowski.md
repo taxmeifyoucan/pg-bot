@@ -21,6 +21,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Revert to private access modifier](https://github.com/NethermindEth/nethermind/commit/1d8e61e1c7058bcccb1e1b076b61e7d0bf776b09) - 2025-09-08
 * [Commit] [Pass PruningConfig to triestore (#8598)](https://github.com/NethermindEth/nethermind/commit/e17b3eaef02428f1cfddf7e1345d7f0b9a4f636b) - 2025-09-12
 * [Commit] [Remove from GitHub Actions energyweb and volta chains sync (#9256)](https://github.com/NethermindEth/nethermind/commit/98af5c99c7db1571d2cfbfb51af4008774b4ebab) - 2025-09-15
+* [Commit] [Fix recovery queue size (#9288)](https://github.com/NethermindEth/nethermind/commit/d806ac109403e83f5603681fc1d0454c8aa054ea) - 2025-09-16
+* [Commit] [Cleanup/Simplify CodeInfoRepository registration. (#9243)](https://github.com/NethermindEth/nethermind/commit/7d34bdd47a4a93c806365ef704f260945f74a1a2) - 2025-09-16
 ## Q2 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

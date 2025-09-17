@@ -42,6 +42,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Add Fulu support](https://github.com/OffchainLabs/prysm/commit/88123e305e4e4124bf84211dace25b092acdabec) - 2025-09-10
 * [Commit] [Add Fulu support](https://github.com/OffchainLabs/prysm/commit/6c95814538376e748d89033ca6a04bba59b488a8) - 2025-09-10
 * [Commit] [Remove test](https://github.com/OffchainLabs/prysm/commit/fd35a89f99f4aad082416d512b649e08390f27ff) - 2025-09-11
+* [Commit] [Feature: `--p2p-colocation-whitelist` flag to allow certain IPs to bypass colocation restrictions (#15685)](https://github.com/OffchainLabs/prysm/commit/1dab5a9f8a5306f921d6be4316fef5e3c4c1c8dd) - 2025-09-16
 [prysmaticlabs/hashtree](https://github.com/prysmaticlabs/hashtree)
 * [Commit] [add HashByteSlice (#51)](https://github.com/OffchainLabs/hashtree/commit/f733b7698511b5498b722421a30ddf7e5066497c) - 2025-08-31
 ## Q2 2025

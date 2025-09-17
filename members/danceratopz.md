@@ -158,6 +158,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 1779001b59d to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/4799941a6df698cbef111bd4b89bbe21e03004cf) - 2025-09-15
 * [Commit] [chore(cli): besu blob tx exception mapper update (#2145)](https://github.com/ethereum/execution-spec-tests/commit/1779001b59d556a409cf820dbcb022f5471cf325) - 2025-09-15
 * [Commit] [Deployed 110b5d4ae9d to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3fca0863d0efe8a2694a98fce32b1017089c7c04) - 2025-09-15
+* [Commit] [Deployed d7d6251a070 to v5.1.0 with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8b7504914a83a988eda7cad58fa9d4967e7dacbd) - 2025-09-16
+* [Commit] [Deployed 8f8ac0c8a26 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/5f8ddf0c01788c9b5ee3cb2662dc8c8d18581185) - 2025-09-16
+* [Commit] [fix(tests): fix shanghai to cancun transition test genesis file (#2161)](https://github.com/ethereum/execution-spec-tests/commit/8f8ac0c8a2615f852809f51b3997eba9a3c0b88b) - 2025-09-16
+* [Commit] [Deployed 894b566d409 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1b0c2611d9b5c15b121fd780fbaad2e0b3be81a4) - 2025-09-16
+* [Commit] [Deployed 952fe68d641 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/4f0ebd4d0d3c6d1b095b0185701cb2a8a303b57d) - 2025-09-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 ## Q2 2025

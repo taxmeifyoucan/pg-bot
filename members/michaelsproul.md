@@ -52,6 +52,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Simplify some fork-variant boilerplate](https://github.com/sigp/lighthouse/pull/7988) - 2025-09-03
 * [Issue] [De-duplicate sync selection proof logic (distributed vs non-distributed)](https://github.com/sigp/lighthouse/issues/7983) - 2025-09-03
 * [Pull Request] [Fix beacon processor metrics for batched messages](https://github.com/sigp/lighthouse/pull/8020) - 2025-09-10
+* [Commit] [Contextualise test and remove misleading comment](https://github.com/sigp/lighthouse/commit/d87033069ad85779c6d8a3a4beffa041dcd787f8) - 2025-09-16
+* [Commit] [Fix metric](https://github.com/sigp/lighthouse/commit/6ae992c5ecd30a61cae1c1ceb6429a35a93a9552) - 2025-09-16
+* [Pull Request] [Another check to prevent duplicate block imports](https://github.com/sigp/lighthouse/pull/8050) - 2025-09-16
 ## Q2 2025
 
 

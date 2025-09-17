@@ -91,6 +91,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [Implement KZG proof batch verification (option 2) - uses worker pool (#15617)](https://github.com/OffchainLabs/prysm/commit/9e40551852819602f784d89f6a3397ce75d07dd0) - 2025-09-12
 * [Commit] [manu feedback](https://github.com/OffchainLabs/prysm/commit/1add370044128edcf1d2177e89c75105c2f1b68b) - 2025-09-12
 * [Pull Request] [remove "experimental" from backfill flag name](https://github.com/OffchainLabs/prysm/pull/15690) - 2025-09-13
+* [Commit] [prevent ConnManager from pruning peers excessively (#15681)](https://github.com/OffchainLabs/prysm/commit/4b09dd4aa515b7469eb2fa194163c1587286c6e9) - 2025-09-16
+* [Pull Request] [mechanism to toggle between range sync and backfill](https://github.com/OffchainLabs/prysm/pull/15702) - 2025-09-16
+* [Commit] [mechanism to toggle between range sync and backfill](https://github.com/OffchainLabs/prysm/commit/c3e391fc2f3211d1df59894528840420396f8736) - 2025-09-16
+* [Commit] [mechanism to toggle between range sync and backfill](https://github.com/OffchainLabs/prysm/commit/df51528ff75035d402a417c4e26760f85e6d7283) - 2025-09-16
 ## Q2 2025
 
 

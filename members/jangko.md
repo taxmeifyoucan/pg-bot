@@ -209,6 +209,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Check binary revision vs repo revision (#3668)](https://github.com/status-im/nimbus-eth1/commit/1ed687158d27462284a82a69dfa731f9dff9750b) - 2025-09-13
 * [Commit] [--bootstrap-nodes and --static-peers now accept multi formats (#3657)](https://github.com/status-im/nimbus-eth1/commit/388e1463cbd15a391765955a03cf30d50f10fe90) - 2025-09-13
 * [Pull Request] [Clear parent when pruning branches](https://github.com/status-im/nimbus-eth1/pull/3681) - 2025-09-15
+* [Pull Request] [Fix CI cache key issues](https://github.com/status-im/nimbus-eth1/pull/3682) - 2025-09-16
+* [Commit] [Fix CI cache key issues](https://github.com/status-im/nimbus-eth1/commit/694f5cadbfb622d3708c1d866e063c79d8391941) - 2025-09-16
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

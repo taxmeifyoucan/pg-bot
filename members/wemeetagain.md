@@ -118,6 +118,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/3f1b6ea3f19797029ee8017c0f2b0f3f2aa822d5) - 2025-09-12
 * [Commit] [chore: minor renaming](https://github.com/ChainSafe/lodestar/commit/69232954095586032340faf19ae55dce476220da) - 2025-09-12
 * [Commit] [fix: stop verifying `SECONDS_PER_ETH1_BLOCK` on validator startup (#8397)](https://github.com/ChainSafe/lodestar/commit/7931b71e6dc54af3f7d247265075f4a3f631b986) - 2025-09-15
+* [Commit] [Update packages/beacon-node/src/util/dataColumns.ts](https://github.com/ChainSafe/lodestar/commit/fde280de4b88a26d3561243e86d78f52f60f61c8) - 2025-09-16
+* [Pull Request] [fix: use proper check in computeColumnsForCustodyGroup](https://github.com/ChainSafe/lodestar/pull/8414) - 2025-09-16
+* [Commit] [chore: no eager block import](https://github.com/ChainSafe/lodestar/commit/f7f36e6d1e70350858f87f7539b1ce4a2bb1fbb0) - 2025-09-16
+* [Commit] [chore: add additional promise to BlockInputColumns](https://github.com/ChainSafe/lodestar/commit/22ee657909f6f4926cf91d76aab214a7fe89d246) - 2025-09-16
 ## Q2 2025
 
 

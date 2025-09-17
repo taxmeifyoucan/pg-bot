@@ -70,6 +70,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [wip: fix data columns by root rpc request limit](https://github.com/grandinetech/grandine/pull/371) - 2025-09-12
 * [Pull Request] [Increase `max_slot_ahead`](https://github.com/grandinetech/grandine/pull/370) - 2025-09-12
 * [Issue] [No batch data columns by roots](https://github.com/grandinetech/grandine/issues/369) - 2025-09-12
+* [Commit] [Deserialize blob schedule in desc, reverse at serialize](https://github.com/grandinetech/grandine/commit/c196651f8960a9ed312d90d72c7ccd034ecdd33b) - 2025-09-16
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

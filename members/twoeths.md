@@ -146,6 +146,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[block-input-refactor]](https://github.com/ChainSafe/lodestar/issues/8385) - 2025-09-12
 * [Commit] [fix: check-types in nHistoricalState test](https://github.com/ChainSafe/lodestar/commit/79d61f0ad6495056a4873f362a7b5fe285581a27) - 2025-09-15
 * [Pull Request] [fix: e2e tests for blockinput refactor branch](https://github.com/ChainSafe/lodestar/pull/8394) - 2025-09-15
+* [Issue] [[block-input-refactor] potential validateGossipDataColumnSidecar if node reconstructs columns at the same time](https://github.com/ChainSafe/lodestar/issues/8404) - 2025-09-16
+* [Issue] [[block-input-refactor] more metrics for BlockInputSync](https://github.com/ChainSafe/lodestar/issues/8403) - 2025-09-16
+* [Issue] [[block-input-refactor] add logs for ColumnReconstructionTracker](https://github.com/ChainSafe/lodestar/issues/8402) - 2025-09-16
+* [Issue] [[block-input-refactor] logs and metrics for GetBlobsTracker](https://github.com/ChainSafe/lodestar/issues/8401) - 2025-09-16
+* [Issue] [[block-input-refactor] consider download data columns from multiple peers at a time](https://github.com/ChainSafe/lodestar/issues/8400) - 2025-09-16
 ## Q2 2025
 
 

@@ -260,6 +260,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [trigger ci](https://github.com/erigontech/erigon/commit/ca5e4db4fa1a19682a86366486cbd34416f61b8f) - 2025-09-10
 * [Commit] [trigger ci](https://github.com/erigontech/erigon/commit/db3db8dd145335b544daab384b223cf695380ae9) - 2025-09-10
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0ebb41647e1bcfcdcdef171c1048d2c4249cdd48) - 2025-09-12
+* [Pull Request] [use already opened heimdall store](https://github.com/erigontech/erigon/pull/17124) - 2025-09-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

@@ -217,6 +217,9 @@ Team: Erigon
 * [Commit] [fixed temporal tx passing](https://github.com/erigontech/erigon/commit/5db7da8d4ad9509a58f07288f3bb20fc0764257d) - 2025-09-06
 * [Commit] [add handle trie root error to parallel flow](https://github.com/erigontech/erigon/commit/393d3eb9be93a2e4ab5aa97c2ad7c79c52a95eee) - 2025-09-08
 * [Commit] [don't commit on error](https://github.com/erigontech/erigon/commit/439e7926d7cd4cbc244c480c8760e03e4570c195) - 2025-09-08
+* [Commit] [fixed compile errors](https://github.com/erigontech/erigon/commit/c16bcc0d869b4321495fe794d73122dab514e28a) - 2025-09-16
+* [Commit] [cherry-pick  polygon: download blocks asynchronously during tip processing (#17050)](https://github.com/erigontech/erigon/commit/a40c6ffa03bb06f5ed71f944de69e09a9f75ce12) - 2025-09-16
+* [Commit] [add recent logs notifications](https://github.com/erigontech/erigon/commit/dd54ad703cb81662428ef18d4241289c3d35915e) - 2025-09-16
 ## Q2 2025
 
 

@@ -21,6 +21,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Fix tracing subscriber rust audit issue](https://github.com/sigp/lighthouse/pull/7977) - 2025-09-02
 * [Pull Request] [Add max delay to reconstruction](https://github.com/sigp/lighthouse/pull/7976) - 2025-09-02
 * [Pull Request] [Prevent silently dropping cell proof chunks](https://github.com/sigp/lighthouse/pull/8023) - 2025-09-10
+* [Issue] [Make maximum reconstruction delay a function of slot duration](https://github.com/sigp/lighthouse/issues/8054) - 2025-09-16
+* [Pull Request] [Reduce reconstruction queue capacity](https://github.com/sigp/lighthouse/pull/8053) - 2025-09-16
+* [Pull Request] [Remove column reconstruction when processing rpc requests](https://github.com/sigp/lighthouse/pull/8051) - 2025-09-16
+* [Pull Request] [Add instrumentation to `recompute_head_at_slot`](https://github.com/sigp/lighthouse/pull/8049) - 2025-09-16
 ## Q2 2025
 
 

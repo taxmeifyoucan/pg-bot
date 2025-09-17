@@ -16,10 +16,15 @@ Team: Lighthouse
 * [Commit] [Mallory - Single commit](https://github.com/sigp/lighthouse/commit/9e23b14621d65136ecea2b50a0ceafb70372308a) - 2025-07-01
 * [Pull Request] [Filter dependencies from SSE logging](https://github.com/sigp/lighthouse/pull/7819) - 2025-07-31
 
+* [Commit] [Mallory - Single commit](https://github.com/sigp/lighthouse/commit/7b40801ccecd672157323ac0b20de07dd4f8fa9a) - 2025-09-16
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [Version bump to v0.10](https://github.com/sigp/discv5/pull/287) - 2025-09-15
 * [Commit] [Turn `ProtocolIdentity` into a struct (#285)](https://github.com/sigp/discv5/commit/17ba908763754889a4198d93edc7c710b46b6680) - 2025-09-15
 * [Commit] [Fix clippy lints (#286)](https://github.com/sigp/discv5/commit/6ef4928ed5f9c53df2d95f38a84769dfabf1b617) - 2025-09-15
+* [Commit] [Version bump to v0.10.1 (#289)](https://github.com/sigp/discv5/commit/78f71c056a8f5f67fb1267f5249254592fda0527) - 2025-09-16
+* [Pull Request] [Version bump to v0.10.1](https://github.com/sigp/discv5/pull/289) - 2025-09-16
+* [Commit] [Gracefully handle larger ENRs (#288)](https://github.com/sigp/discv5/commit/8946bbd844459478a303d5b5c1df4d9d7b5edf8f) - 2025-09-16
+* [Pull Request] [Gracefully handle larger ENRs](https://github.com/sigp/discv5/pull/288) - 2025-09-16
 ## Q2 2025
 
 

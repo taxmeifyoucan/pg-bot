@@ -86,6 +86,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Revert "txFrame HashKeys (kMap) memory optimization  (#3606)" (#3660)](https://github.com/status-im/nimbus-eth1/commit/05914106f9adf3701fe6f02944f42e60fcc0079f) - 2025-09-10
 * [Pull Request] [Reintroduce the reverted txFrame HashKeys (kMap) memory optimization](https://github.com/status-im/nimbus-eth1/pull/3667) - 2025-09-12
 * [Commit] [Update execution_chain/db/aristo/aristo_compute.nim](https://github.com/status-im/nimbus-eth1/commit/0419fdee61035070103308911f6af0b22215f297) - 2025-09-14
+* [Commit] [Fix test compile.](https://github.com/status-im/nimbus-eth1/commit/c915f66264a76eb1fa3645a9cdf07c4e1caa7af8) - 2025-09-16
+* [Commit] [Use eest_develop and add makefile target.](https://github.com/status-im/nimbus-eth1/commit/ec827491b87d53ffbdd61ef80d948806fef3dec3) - 2025-09-16
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

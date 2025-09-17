@@ -71,6 +71,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Persisted custody group count to finalized store](https://github.com/Consensys/teku/pull/9862) - 2025-09-08
 * [Commit] [Cleaned up CustodyGroupManagerImpl flow (#9860)](https://github.com/Consensys/teku/commit/fe4988bb8e04917617cc00e63d53c0b3c8a38968) - 2025-09-08
 * [Pull Request] [Cleaned up recovery map as tasks complete](https://github.com/Consensys/teku/pull/9890) - 2025-09-15
+* [Commit] [Cleaned up recovery map as tasks complete (#9890)](https://github.com/Consensys/teku/commit/c649fd2277d37bbdde1551bff94df3400f78ef6b) - 2025-09-16
 ## Q2 2025
 
 

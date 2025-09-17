@@ -36,6 +36,7 @@ Team: Nimbus
 * [Commit] [Downgrade linux-arm64 compiler and link with glibc 2.35 (#3676)](https://github.com/status-im/nimbus-eth1/commit/65bccbcf4a9c3f1c8af9c1264bad4d62bff49dd0) - 2025-09-15
 * [Commit] [Update `Exception` tracing for EL main module](https://github.com/status-im/nimbus-eth1/commit/17b056f864561740d67993180d9869b1620d8aca) - 2025-09-15
 * [Pull Request] [Provide main program API so it can be extended (e.g. for debugging.)](https://github.com/status-im/nimbus-eth1/pull/3678) - 2025-09-15
+* [Commit] [Provide main program API so it can be extended (e.g. for debugging.) (#3678)](https://github.com/status-im/nimbus-eth1/commit/a5d39f9c7bb5d1b9e62472c0798c091eb3a0369e) - 2025-09-16
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

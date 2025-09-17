@@ -42,6 +42,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Added Gloas fork transition (#9886)](https://github.com/Consensys/teku/commit/e0784a51eab22f1886e839aa0a48f2496f58f441) - 2025-09-11
 * [Pull Request] [Added Gloas fork transition](https://github.com/Consensys/teku/pull/9886) - 2025-09-11
 * [Pull Request] [Re-enable recover_cells_and_kzg_proofs_case_invalid_shuffled](https://github.com/Consensys/teku/pull/9888) - 2025-09-12
+* [Commit] [Fix SafeFuture's async methods (#9900)](https://github.com/Consensys/teku/commit/7c3fd19e5fff396461b4a4fadf81c6b57576a68a) - 2025-09-16
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add support for libp2p interop tests](https://github.com/libp2p/jvm-libp2p/pull/421) - 2025-08-25
 * [Pull Request] [Add quic to interop client](https://github.com/libp2p/jvm-libp2p/pull/425) - 2025-09-15

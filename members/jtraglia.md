@@ -83,6 +83,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Bump erlef/setup-beam from 1.20.1 to 1.20.4 in the actions group (#591)](https://github.com/ethereum/c-kzg-4844/commit/4e434532b9115d9b32939ab415834914c7d79c65) - 2025-08-01
 * [Pull Request] [Fix `recover_cells_and_kzg_proofs` to support shuffled indices](https://github.com/ethereum/c-kzg-4844/pull/594) - 2025-08-22
 * [Commit] [Bump the actions group with 5 updates (#597)](https://github.com/ethereum/c-kzg-4844/commit/5872db297ef13c7a45bcbb7e9f3458f6b15afe10) - 2025-09-11
+* [Commit] [Bump version to v2.1.3 (#602)](https://github.com/ethereum/c-kzg-4844/commit/936125db2d432ff306db5e21e1a4db29e1a7ea0d) - 2025-09-16
+* [Commit] [Remove tunable threshold in g1_lincomb_fast (#601)](https://github.com/ethereum/c-kzg-4844/commit/b6ac259a38143c3d4a2c84178ff42bb730d53a32) - 2025-09-16
 ## Q2 2025
 
 

@@ -87,6 +87,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix test_03](https://github.com/erigontech/rpc-tests/commit/b319f00f9e72700b9bb624b5cbd9af19358b727a) - 2025-09-12
 * [Commit] [fix test_02](https://github.com/erigontech/rpc-tests/commit/b0a31e4de11a08fd8058ccc00ea0112d2e9a15aa) - 2025-09-12
 * [Commit] [fix test_01](https://github.com/erigontech/rpc-tests/commit/b63dd0ebab49b83875599ba1e65613c02841c4ec) - 2025-09-12
+* [Commit] [performance: add eth_getProof pattern (#432)](https://github.com/erigontech/rpc-tests/commit/8a2ee5cbb257db4472a2cab6444083520174ea49) - 2025-09-16
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

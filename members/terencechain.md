@@ -101,6 +101,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Kasey's feedback](https://github.com/OffchainLabs/prysm/commit/4f2ae2d38f508b02c5473f10efb70bb47d139d99) - 2025-09-10
 * [Commit] [Kasey's feedback](https://github.com/OffchainLabs/prysm/commit/ac9c9cbe81a59997c73ba435e3617832f324a02a) - 2025-09-10
 * [Commit] [Kasey's feedback](https://github.com/OffchainLabs/prysm/commit/b7105f6d29e4dc9fdcfde79320be9d63b4b16f75) - 2025-09-10
+* [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/b0cf0580565762847bd112462d0fc836058d042e) - 2025-09-16
+* [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/ddbf47ae3ac6f29109167369526f55618bb3e906) - 2025-09-16
+* [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/e5b585ab9420bbd741b79dae3bee8328a43643ec) - 2025-09-16
+* [Pull Request] [update ssz generated files](https://github.com/OffchainLabs/prysm/pull/15700) - 2025-09-16
+* [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/3a611610249f6ddae330d950989315e3f2830ba1) - 2025-09-16
+* [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/c53024a85b6357fb4858253a29643f5e4ec88acb) - 2025-09-16
+* [Commit] [update to v1.6.0-alpha.6 (#15658)](https://github.com/OffchainLabs/prysm/commit/1933adedbfc2a188a704628147d537eb62325a8e) - 2025-09-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

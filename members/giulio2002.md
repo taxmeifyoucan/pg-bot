@@ -206,6 +206,9 @@ Team: Erigon
 * [Commit] [API get blobs (#17076)](https://github.com/erigontech/erigon/commit/25eb4ceb42abfbeecffb92357ac16e71262c2b59) - 2025-09-11
 * [Pull Request] [Charry-Pick: more unittests and spectests for fulu (#16623)](https://github.com/erigontech/erigon/pull/17110) - 2025-09-14
 * [Pull Request] [Caplin: prioritize head event](https://github.com/erigontech/erigon/pull/17122) - 2025-09-15
+* [Pull Request] [Caplin: prioritize head event (#17122)](https://github.com/erigontech/erigon/pull/17128) - 2025-09-16
+* [Commit] [Caplin: prioritize head event (#17122)](https://github.com/erigontech/erigon/commit/03101d54a0b35ceac0c9ec6ed6e3df4bc2bd410e) - 2025-09-16
+* [Pull Request] [Caplin: correct seconds-per-eth1-block](https://github.com/erigontech/erigon/pull/17127) - 2025-09-16
 ## Q2 2025
 
 

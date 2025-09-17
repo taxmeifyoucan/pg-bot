@@ -64,6 +64,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/35b9a5d1dfc16ed01300dbee56502b09ed3b16be) - 2025-09-15
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/5ed19c2ac36b2778a37b402631721c02423c7d61) - 2025-09-15
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/0a3f9a4d7528064a8d750717c3da059af43bfd4e) - 2025-09-15
+* [Pull Request] [Add XDC tests](https://github.com/NethermindEth/nethermind/pull/9304) - 2025-09-16
+* [Commit] [Update MTP settings](https://github.com/NethermindEth/nethermind/commit/0a5d23871852a16fd6e60f305c293c3878473e7d) - 2025-09-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21

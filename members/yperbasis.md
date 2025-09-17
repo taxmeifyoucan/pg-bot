@@ -194,6 +194,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [move some tests to execution](https://github.com/erigontech/erigon/commit/d1cbe6d212a8149509af29a123c452b63447a646) - 2025-09-15
 * [Commit] [execution: fix incorrect unwinding when validating chain (#17105)](https://github.com/erigontech/erigon/commit/bab18fe45633eb0e46d29a5d5ac34ddb7d986446) - 2025-09-15
 * [Commit] [execution: merge testutil into tests](https://github.com/erigontech/erigon/commit/0c7468ad368b29e491f383bbacbb234b8535894e) - 2025-09-15
+* [Commit] [restore TestExecutionSpecBlockchainDevnet](https://github.com/erigontech/erigon/commit/cedd54c0532f0d691a6af27d73d4e0e9a3804b93) - 2025-09-16
+* [Commit] [Revert "Switch eest-hive to v5.0.0"](https://github.com/erigontech/erigon/commit/906a480db72eef89ffdb2741fdcd6227965be8b7) - 2025-09-16
+* [Commit] [refresh slow tests](https://github.com/erigontech/erigon/commit/60fd6e5d8dd2ac6165c16963618dd10bd4102c00) - 2025-09-16
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

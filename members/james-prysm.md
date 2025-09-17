@@ -128,6 +128,24 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fixing tests and handler](https://github.com/OffchainLabs/prysm/commit/ea07965effdc30a8b66e8efbaaf8ed249639937d) - 2025-09-14
 * [Commit] [more missed gofmt](https://github.com/OffchainLabs/prysm/commit/6fb4c58c65cf26fae367c4325840b6acbce5913f) - 2025-09-15
 * [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/7baaa25bbb625bc412247d720cc96a7a6576433d) - 2025-09-15
+* [Commit] [fixing tests](https://github.com/OffchainLabs/prysm/commit/0c58de5bb40650a0a8abeb0db3b34c8139cb0646) - 2025-09-16
+* [Commit] [fixing linting from latest develop merge](https://github.com/OffchainLabs/prysm/commit/bafa4c697451fa5e50771a4f164e8283ebd474db) - 2025-09-16
+* [Commit] [fixing linting from latest develop merge](https://github.com/OffchainLabs/prysm/commit/77151bc26df4c8303c49b8fd5bf750d935cfd263) - 2025-09-16
+* [Commit] [PeerDAS: Implement syncing in a disjoint network (Also know as "perfect PeerDAS" network). (#15644)](https://github.com/OffchainLabs/prysm/commit/2292d955a31c4d82166c3314eeb35e90cec4c5d1) - 2025-09-16
+* [Commit] [fixing mock columns](https://github.com/OffchainLabs/prysm/commit/ee92067341c3dd1e4fed223a2c3f754784e4420d) - 2025-09-16
+* [Commit] [Retry logic for getBlobsV2 in peerDAS (#15520)](https://github.com/OffchainLabs/prysm/commit/600169a53b2cf75c204a67a053630f308dee0384) - 2025-09-16
+* [Commit] [update ssz generated files (#15700)](https://github.com/OffchainLabs/prysm/commit/a5e4fccb474363b7dac9605ebafd266ad0af7e84) - 2025-09-16
+* [Commit] [removed unneeded comment](https://github.com/OffchainLabs/prysm/commit/b878bce5ec060ece8f7c16df85a34e8fa8bdfdb8) - 2025-09-16
+* [Commit] [self review](https://github.com/OffchainLabs/prysm/commit/1020683014644b236971ecabbef39b2bad743bfa) - 2025-09-16
+* [Commit] [removed unneeded test](https://github.com/OffchainLabs/prysm/commit/83f6eab66aeba23d05f7be2d47790cfbe299a905) - 2025-09-16
+* [Commit] [fixing endpoints and adding test](https://github.com/OffchainLabs/prysm/commit/49126631c5273b10512de2ab800b7f65ad1bd03d) - 2025-09-16
+* [Commit] [moving endpoint in test](https://github.com/OffchainLabs/prysm/commit/b793b98987b0ef7df87d529d460da6606a2f1128) - 2025-09-16
+* [Commit] [changelog](https://github.com/OffchainLabs/prysm/commit/d678c565ea6ec148dbeaccde0ba2a53566e83669) - 2025-09-16
+* [Pull Request] [Debug data columns API endpoint](https://github.com/OffchainLabs/prysm/pull/15701) - 2025-09-16
+* [Commit] [fixing from self review](https://github.com/OffchainLabs/prysm/commit/e54d298e1843f72645f14484877235e3f05191d8) - 2025-09-16
+* [Commit] [fixing test](https://github.com/OffchainLabs/prysm/commit/83d4291058031028ed5f318966313c8fe8dcadb7) - 2025-09-16
+* [Commit] [fixing tests](https://github.com/OffchainLabs/prysm/commit/eed1ee44866e5ae078c102633ce2e1edbc65c114) - 2025-09-16
+* [Commit] [radek feedback](https://github.com/OffchainLabs/prysm/commit/d9b51a87e920dba4d2c1d5a8eb18dce712cbc60d) - 2025-09-16
 ## Q2 2025
 
 

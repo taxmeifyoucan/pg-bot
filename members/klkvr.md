@@ -88,6 +88,15 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [feat: cache latest built payload](https://github.com/paradigmxyz/reth/pull/18324) - 2025-09-08
 * [Commit] [recover_transactions](https://github.com/paradigmxyz/reth/commit/063a007cd63bebc975bf82fc5c51e7d45a7af80f) - 2025-09-15
 * [Pull Request] [feat: `Block::iter_recovered`](https://github.com/paradigmxyz/reth/pull/18476) - 2025-09-15
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/09949d0b297b1afa3e9aa020f55bf164663516f4) - 2025-09-16
+* [Pull Request] [feat: relax `EthBlockAssembler`](https://github.com/paradigmxyz/reth/pull/18505) - 2025-09-16
+* [Pull Request] [feat: make `EthBuiltPayload` generic over `NodePrimitives`](https://github.com/paradigmxyz/reth/pull/18504) - 2025-09-16
+* [Commit] [fix(cli): disallow --instance 0 (#18496)](https://github.com/paradigmxyz/reth/commit/847330cdfc2a4705e23d0aeee54c891c309677e7) - 2025-09-16
+* [Commit] [move aliases](https://github.com/paradigmxyz/reth/commit/5687e1bc5408f32f3afbbd7aabf7c64fd87a5183) - 2025-09-16
+* [Commit] [test](https://github.com/paradigmxyz/reth/commit/41c578f3973900a176ad74c86231a9c3c48d046e) - 2025-09-16
+* [Commit] [test](https://github.com/paradigmxyz/reth/commit/fef22b011bba6c96c6444a3960c955877c6faef4) - 2025-09-16
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/5231098e5dfc8d8a2b5633903c2871f5baa7f939) - 2025-09-16
+* [Commit] [wip](https://github.com/paradigmxyz/reth/commit/033170bd0adda5ca8f68c7ea651e9131ae78354f) - 2025-09-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: impl inspector for tuple](https://github.com/bluealloy/revm/pull/2871) - 2025-08-08
 ## Q2 2025

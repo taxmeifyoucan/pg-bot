@@ -75,6 +75,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Update engine methods in notifier](https://github.com/sigp/lighthouse/pull/8038) - 2025-09-12
 * [Issue] [Fork choice write lock held for 4+ seconds on `fusaka-devnet-3-lighthouse-geth-1`](https://github.com/sigp/lighthouse/issues/8035) - 2025-09-12
 * [Pull Request] [Add missing event in `PendingComponent` span and clean up sync logs](https://github.com/sigp/lighthouse/pull/8033) - 2025-09-12
+* [Pull Request] [Add tracing span to reconstruction](https://github.com/sigp/lighthouse/pull/8052) - 2025-09-16
 ## Q2 2025
 
 

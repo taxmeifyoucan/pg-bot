@@ -50,6 +50,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Portal: Adjust history JSON-RPC API + re-add web3_clientVersion](https://github.com/status-im/nimbus-eth1/commit/87e507b9999656f0f1e0409c9ac189fc639c0a5d) - 2025-09-15
 * [Pull Request] [Portal: Adjust history JSON-RPC API + re-add web3_clientVersion](https://github.com/status-im/nimbus-eth1/pull/3680) - 2025-09-15
 * [Commit] [Portal: Adjust history JSON-RPC API + re-add web3_clientVersion](https://github.com/status-im/nimbus-eth1/commit/24dddfae2904f603cfaaee82dbec4b6f4f25c7a4) - 2025-09-15
+* [Pull Request] [Portal: Add the nimbus portal client as client_info for Ping msg](https://github.com/status-im/nimbus-eth1/pull/3690) - 2025-09-16
+* [Commit] [Portal docs: Update according to Portal rescope (#3684)](https://github.com/status-im/nimbus-eth1/commit/b8b1fd79c36f508ef9cf1d123ad5ccc5ee3dd32e) - 2025-09-16
+* [Pull Request] [Portal docs: Update according to Portal rescope](https://github.com/status-im/nimbus-eth1/pull/3684) - 2025-09-16
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Pull Request] [Update Portal bootstrap nodes](https://github.com/ethereum/portal-network-specs/pull/413) - 2025-09-14
 ## Q2 2025

@@ -58,6 +58,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [More rename](https://github.com/erigontech/erigon/commit/aa9e0bbee3677ebee3ee42f296f875524b429d2f) - 2025-09-15
 * [Commit] [Use kv.Tx](https://github.com/erigontech/erigon/commit/5ff4b66be6dea6b4de7f0ec3380d7b49fd0a9f39) - 2025-09-15
 * [Commit] [Fix MinimumBlockAvailable logic](https://github.com/erigontech/erigon/commit/d875b6b53c5678fac30f0f5d89abcbe27b4d73a7) - 2025-09-15
+* [Commit] [Fix test](https://github.com/erigontech/erigon/commit/d2dfa04cc024577951e1f78c0968743e9ff0fd46) - 2025-09-16
+* [Commit] [Fix test](https://github.com/erigontech/erigon/commit/6a5e46ce6d5d6b13f058c1912d9258186a016dee) - 2025-09-16
+* [Commit] [fix(integrity): correct error message when block body is missing (#16969)](https://github.com/erigontech/erigon/commit/348f562ad0f36b869579f9d679ac26cf1d374b50) - 2025-09-16
+* [Commit] [Remove minimum from openSegments](https://github.com/erigontech/erigon/commit/81e9cb8449e1a921ee687f954a1ac1bbd82e3244) - 2025-09-16
+* [Commit] [Generic handshake](https://github.com/erigontech/erigon/commit/c0e49b21d25a2008353ed00afd52f64dedf9b9d8) - 2025-09-16
+* [Commit] [doc](https://github.com/erigontech/erigon/commit/9c0e9bf0b39f89a9a6a46d453ed2237717edffdb) - 2025-09-16
+* [Commit] [Fix RLP](https://github.com/erigontech/erigon/commit/1a2c47c3278dab5aae9f2640eb356fd002e53fc7) - 2025-09-16
+* [Commit] [Use mutex](https://github.com/erigontech/erigon/commit/f97f55143e7b32ef78cf373435c32c46ab726ada) - 2025-09-16
 ## Q2 2025
 
 

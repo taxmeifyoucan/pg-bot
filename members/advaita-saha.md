@@ -93,6 +93,12 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [Portal: Remove support for Portal wire v0 (#3663)](https://github.com/status-im/nimbus-eth1/commit/4e16b95e7ad262ea5d98ce19779166752694f3f8) - 2025-09-13
 * [Commit] [Ship librocksdb.dll together with release binary on Windows (#3662)](https://github.com/status-im/nimbus-eth1/commit/13ef6f0c64f16c9c77ac17d900eaa7bcb62ff716) - 2025-09-15
 * [Issue] [does `hive_integration` hold any value anymore ?](https://github.com/status-im/nimbus-eth1/issues/3679) - 2025-09-15
+* [Commit] [fix lint check in sample readme](https://github.com/status-im/nimbus-eth1/commit/e19c567008e1663621387aa4bbb2232268be4ceb) - 2025-09-16
+* [Commit] [fix release tar](https://github.com/status-im/nimbus-eth1/commit/7403951c6e804dca149436e16d23465b15baf8ed) - 2025-09-16
+* [Commit] [fix: lint](https://github.com/status-im/nimbus-eth1/commit/f8862f9addfb657eb4de638dbc86e9e98907345f) - 2025-09-16
+* [Pull Request] [Use windows agnostic binaries](https://github.com/status-im/nimbus-eth1/pull/3689) - 2025-09-16
+* [Commit] [create seperate tarballs for nec and nvp (#3688)](https://github.com/status-im/nimbus-eth1/commit/b5a9255307e8a42182f016c792323687b9158951) - 2025-09-16
+* [Commit] [opinionated naming scheme](https://github.com/status-im/nimbus-eth1/commit/8612b12536f29ffff7c87f01e90506fa4c2402d1) - 2025-09-16
 ## Q2 2025
 
 
