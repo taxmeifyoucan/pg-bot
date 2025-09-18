@@ -74,6 +74,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Issue] [Caplin: Beacon Checkpoint Sync gets stuck](https://github.com/erigontech/erigon/issues/17098) - 2025-09-12
 * [Commit] [increase timeout](https://github.com/erigontech/erigon/commit/835bf33a12cca35b9deccc88c5b9e419fca4d418) - 2025-09-12
 * [Issue] [rpc: evaluate go-libdeflate for non-streaming endpoints](https://github.com/erigontech/erigon/issues/17112) - 2025-09-15
+* [Commit] [provide syscall in FinalizeAndAssemble](https://github.com/erigontech/erigon/commit/185b7f9e68f89465cacfba4067e327e62137579b) - 2025-09-17
+* [Commit] [caplin: fix checkpoint sync timeout (#17077)](https://github.com/erigontech/erigon/commit/4f877a1c19d5d0c9029a914d1caea9cb7a42ffd6) - 2025-09-17
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14
@@ -88,6 +90,15 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix test_02](https://github.com/erigontech/rpc-tests/commit/b0a31e4de11a08fd8058ccc00ea0112d2e9a15aa) - 2025-09-12
 * [Commit] [fix test_01](https://github.com/erigontech/rpc-tests/commit/b63dd0ebab49b83875599ba1e65613c02841c4ec) - 2025-09-12
 * [Commit] [performance: add eth_getProof pattern (#432)](https://github.com/erigontech/rpc-tests/commit/8a2ee5cbb257db4472a2cab6444083520174ea49) - 2025-09-16
+* [Commit] [track eth_simulateV1 latest tests](https://github.com/erigontech/rpc-tests/commit/ff94a73b6f6c631494bfdb5cdf0b495a3249f45e) - 2025-09-17
+* [Commit] [fix test_22](https://github.com/erigontech/rpc-tests/commit/b9c16f77415244b610f53225df5b2470ee9996bb) - 2025-09-17
+* [Commit] [fix test_22](https://github.com/erigontech/rpc-tests/commit/8d976629c9f61c386a84823bb13cd30c8b546695) - 2025-09-17
+* [Commit] [add test](https://github.com/erigontech/rpc-tests/commit/a390f42ecf9215ce8deec968c8ca719d4bf298fa) - 2025-09-17
+* [Commit] [fix test_18](https://github.com/erigontech/rpc-tests/commit/5678c28a8e3d5e6ace86f00a771bd7de4db304df) - 2025-09-17
+* [Commit] [add test](https://github.com/erigontech/rpc-tests/commit/4374aed6c0b825898621e3ac2708d91f8422d94d) - 2025-09-17
+* [Commit] [fix test_17](https://github.com/erigontech/rpc-tests/commit/0a67f7e6a6f72c3f872b9bc64c04a4707ac52c34) - 2025-09-17
+* [Commit] [add test](https://github.com/erigontech/rpc-tests/commit/6451fd9f8e6346421e2a802dd3e3261d637246b5) - 2025-09-17
+* [Commit] [add tests](https://github.com/erigontech/rpc-tests/commit/4d71dae45b2b3fa80ee60dc0a89dc7f5b3605786) - 2025-09-17
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

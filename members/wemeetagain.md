@@ -122,6 +122,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: use proper check in computeColumnsForCustodyGroup](https://github.com/ChainSafe/lodestar/pull/8414) - 2025-09-16
 * [Commit] [chore: no eager block import](https://github.com/ChainSafe/lodestar/commit/f7f36e6d1e70350858f87f7539b1ce4a2bb1fbb0) - 2025-09-16
 * [Commit] [chore: add additional promise to BlockInputColumns](https://github.com/ChainSafe/lodestar/commit/22ee657909f6f4926cf91d76aab214a7fe89d246) - 2025-09-16
+* [Commit] [chore: pr review](https://github.com/ChainSafe/lodestar/commit/2461350c6878b1ce9a101e20e18ffa71592ee693) - 2025-09-17
+* [Pull Request] [fix: small fixes and e2e test fix](https://github.com/ChainSafe/lodestar/pull/8420) - 2025-09-17
 ## Q2 2025
 
 

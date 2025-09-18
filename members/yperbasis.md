@@ -197,6 +197,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [restore TestExecutionSpecBlockchainDevnet](https://github.com/erigontech/erigon/commit/cedd54c0532f0d691a6af27d73d4e0e9a3804b93) - 2025-09-16
 * [Commit] [Revert "Switch eest-hive to v5.0.0"](https://github.com/erigontech/erigon/commit/906a480db72eef89ffdb2741fdcd6227965be8b7) - 2025-09-16
 * [Commit] [refresh slow tests](https://github.com/erigontech/erigon/commit/60fd6e5d8dd2ac6165c16963618dd10bd4102c00) - 2025-09-16
+* [Issue] [use go-bigmodexpfix for modexp](https://github.com/erigontech/erigon/issues/17142) - 2025-09-17
+* [Commit] [execution/tests: update EEST to v5.1.0 (#17141)](https://github.com/erigontech/erigon/commit/ae56a4183fc3706977d4a5d7bae04d906b47462b) - 2025-09-17
+* [Pull Request] [execution/tests: update EEST to v5.1.0](https://github.com/erigontech/erigon/pull/17141) - 2025-09-17
+* [Commit] [execution/tests: update EEST to v5.1.0](https://github.com/erigontech/erigon/commit/e688ee0b98a22934ab96f3e5f7c704374b806a47) - 2025-09-17
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

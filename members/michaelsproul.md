@@ -55,6 +55,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Contextualise test and remove misleading comment](https://github.com/sigp/lighthouse/commit/d87033069ad85779c6d8a3a4beffa041dcd787f8) - 2025-09-16
 * [Commit] [Fix metric](https://github.com/sigp/lighthouse/commit/6ae992c5ecd30a61cae1c1ceb6429a35a93a9552) - 2025-09-16
 * [Pull Request] [Another check to prevent duplicate block imports](https://github.com/sigp/lighthouse/pull/8050) - 2025-09-16
+* [Pull Request] [Make the block cache optional](https://github.com/sigp/lighthouse/pull/8066) - 2025-09-17
+* [Pull Request] [Fix reprocess queue memory leak](https://github.com/sigp/lighthouse/pull/8065) - 2025-09-17
 ## Q2 2025
 
 

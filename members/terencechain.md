@@ -108,6 +108,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/3a611610249f6ddae330d950989315e3f2830ba1) - 2025-09-16
 * [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/c53024a85b6357fb4858253a29643f5e4ec88acb) - 2025-09-16
 * [Commit] [update to v1.6.0-alpha.6 (#15658)](https://github.com/OffchainLabs/prysm/commit/1933adedbfc2a188a704628147d537eb62325a8e) - 2025-09-16
+* [Commit] [fix: use v2 endpoint for blinded block submission post-Fulu](https://github.com/OffchainLabs/prysm/commit/d68bd9c1e09b4473c70a595cc4b5fa001a6b5dd7) - 2025-09-17
+* [Pull Request] [fix: use v2 endpoint for blinded block submission post-Fulu](https://github.com/OffchainLabs/prysm/pull/15716) - 2025-09-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

@@ -37,6 +37,9 @@ Team: Consensus R&D (EF)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: Add specs for zkEVM](https://github.com/ethereum/consensus-specs/pull/4591) - 2025-09-15
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Add EIP: optional zkEVM execution proofs](https://github.com/ethereum/EIPs/pull/10354) - 2025-09-17
 ## Q2 2025
 
 

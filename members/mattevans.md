@@ -112,3 +112,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: network config api](https://github.com/ethpandaops/lab/commit/7b31b0ec3d3a2ba2064d6dd733bbcb29e5a6ea97) - 2025-09-12
 * [Commit] [feat(cartographoor): filter networks by ethereum client configuration](https://github.com/ethpandaops/lab/commit/55b3a6dfee855a74afe762a8c7322afaf48702e0) - 2025-09-12
 * [Pull Request] [feat: network config api](https://github.com/ethpandaops/lab/pull/68) - 2025-09-12
+* [Commit] [chore: bump xatu-cbt to latest commit to pick up map filter types and rename bid_date_time to earliest_bid_date_time](https://github.com/ethpandaops/lab/commit/609f92de0d5b88d44d313bc4475252ad09093af6) - 2025-09-17
+* [Pull Request] [chore: bump xatu-cbt to latest commit to pick up map filter types and…](https://github.com/ethpandaops/lab/pull/76) - 2025-09-17
+* [Commit] [chore: clean-up + redirects](https://github.com/ethpandaops/lab/commit/fc93642575774cad3194d2328ad662e172f86923) - 2025-09-17
+* [Commit] [feat(proto): add experiments configuration to public API](https://github.com/ethpandaops/lab/commit/082d1760e7254673184018f7f16e8b8643c60a11) - 2025-09-17
+* [Commit] [feat: add experiment config endpoint with data availability](https://github.com/ethpandaops/lab/commit/82754bcd3193654225bf5edc9144692e6f5f6948) - 2025-09-17
+* [Commit] [refactor(experiments): unify experiment config retrieval methods](https://github.com/ethpandaops/lab/commit/526b2674296406996256316febbfbd3ffe43407a) - 2025-09-17
+* [Pull Request] [feat: add experiment config endpoint with data availability](https://github.com/ethpandaops/lab/pull/75) - 2025-09-17
+* [Pull Request] [feat(proto): add experiments configuration to public API](https://github.com/ethpandaops/lab/pull/74) - 2025-09-17
+* [Pull Request] [chore: clean-up + redirects](https://github.com/ethpandaops/lab/pull/73) - 2025-09-17

@@ -163,6 +163,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(tests): fix shanghai to cancun transition test genesis file (#2161)](https://github.com/ethereum/execution-spec-tests/commit/8f8ac0c8a2615f852809f51b3997eba9a3c0b88b) - 2025-09-16
 * [Commit] [Deployed 894b566d409 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1b0c2611d9b5c15b121fd780fbaad2e0b3be81a4) - 2025-09-16
 * [Commit] [Deployed 952fe68d641 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/4f0ebd4d0d3c6d1b095b0185701cb2a8a303b57d) - 2025-09-16
+* [Commit] [Deployed 291fe00e65d to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/bb19af7257a86fc7e706e156c863ae0d71e5a6e3) - 2025-09-17
+* [Commit] [Deployed e9cc16ddd79 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1a92e9c27011b85b745321904355e4695ad64f41) - 2025-09-17
+* [Commit] [chore(ci): bump tox verify gh runner (#2130)](https://github.com/ethereum/execution-spec-tests/commit/e9cc16ddd79c89e41a9ca898c900f4428792eae5) - 2025-09-17
+* [Commit] [Deployed 11b96b80f1a to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/c6c6395c23bffd10139be86f177e422added15e7) - 2025-09-17
+* [Commit] [chore(cli): fix reth eip-7825 tx gas limit cap exceptions (#2164)](https://github.com/ethereum/execution-spec-tests/commit/1105528141bd3ec1334090e4b14817f46ce139a7) - 2025-09-17
+* [Commit] [chore(tests): group mem-heavy tests together in xdist (#2153)](https://github.com/ethereum/execution-spec-tests/commit/11b96b80f1a9dad80766d3fedb51c3cc463b2011) - 2025-09-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 ## Q2 2025

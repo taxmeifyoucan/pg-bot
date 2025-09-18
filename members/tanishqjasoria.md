@@ -32,6 +32,11 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Pull Request] [sFeature/stateless cli](https://github.com/NethermindEth/nethermind/pull/9281) - 2025-09-12
 * [Commit] [another change](https://github.com/NethermindEth/nethermind/commit/d5194e5de6f3094290225ca42bc0fb32b02bbde1) - 2025-09-15
 * [Commit] [fix inconsistent merge plugin test (#9258)](https://github.com/NethermindEth/nethermind/commit/289896ebd8b33942696985b3bc5a0ddac7da07a0) - 2025-09-15
+* [Commit] [rename](https://github.com/NethermindEth/nethermind/commit/22b5b642514628d0c943987a79b524ae427a8953) - 2025-09-17
+* [Commit] [own file](https://github.com/NethermindEth/nethermind/commit/f23497cc084e611b39965c40d3d8417d1f20df40) - 2025-09-17
+* [Commit] [revert to internal](https://github.com/NethermindEth/nethermind/commit/74925e8e5c26fac4e387ff80d1da57e971e2a3b7) - 2025-09-17
+* [Commit] [extract methods](https://github.com/NethermindEth/nethermind/commit/8e474820da9ebea7d093947cffec0e636d8f0bde) - 2025-09-17
+* [Commit] [address comment](https://github.com/NethermindEth/nethermind/commit/7535402cddd266e5fe13c72a6bea5e4f86d6da11) - 2025-09-17
 ## Q2 2025
 
 

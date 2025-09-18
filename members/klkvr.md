@@ -97,6 +97,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [test](https://github.com/paradigmxyz/reth/commit/fef22b011bba6c96c6444a3960c955877c6faef4) - 2025-09-16
 * [Commit] [wip](https://github.com/paradigmxyz/reth/commit/5231098e5dfc8d8a2b5633903c2871f5baa7f939) - 2025-09-16
 * [Commit] [wip](https://github.com/paradigmxyz/reth/commit/033170bd0adda5ca8f68c7ea651e9131ae78354f) - 2025-09-16
+* [Issue] [Deduplicate methods and associated types of `EthApiSpec` trait](https://github.com/paradigmxyz/reth/issues/18533) - 2025-09-17
+* [Commit] [create_tables_for_inner](https://github.com/paradigmxyz/reth/commit/b00a24fbbbca8c001dbfaff9d3ae828a73a81cdb) - 2025-09-17
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/d570a66326237a236b037004238c480154907887) - 2025-09-17
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/4d28e1455de756def6fd5f677bc635e4b85c7ea1) - 2025-09-17
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/6db90e2ef881d716e393b11cab30f0d5faf15de2) - 2025-09-17
+* [Pull Request] [fix: don't require &mut in `create_tables_for`](https://github.com/paradigmxyz/reth/pull/18511) - 2025-09-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: impl inspector for tuple](https://github.com/bluealloy/revm/pull/2871) - 2025-08-08
 ## Q2 2025

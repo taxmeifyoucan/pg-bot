@@ -35,6 +35,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Update BeaconState for Gloas](https://github.com/Consensys/teku/pull/9876) - 2025-09-09
 * [Commit] [Add more Gloas containers (#9873)](https://github.com/Consensys/teku/commit/0c11dbb9e852ed0a6e51ebf6bac6f31f58052c10) - 2025-09-09
 * [Pull Request] [Add more Gloas containers](https://github.com/Consensys/teku/pull/9873) - 2025-09-09
+* [Pull Request] [Replace `ExpectedWithdrawals` with `WithdrawalsHelpers`](https://github.com/Consensys/teku/pull/9907) - 2025-09-17
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Commit] [[QUIC] Set muxer session and secure session on connection (#413)](https://github.com/libp2p/jvm-libp2p/commit/3d4b05fa1315e9af90a50d1d3204d0717d7f90ae) - 2025-08-27
 * [Commit] [Apply InboundTrafficLimitHandler only if max bytes > 0 (#416)](https://github.com/libp2p/jvm-libp2p/commit/25dd797a57715ab32ac4b3431bc98a997383f2f4) - 2025-08-28

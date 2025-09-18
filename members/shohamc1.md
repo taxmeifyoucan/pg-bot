@@ -66,6 +66,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [doc](https://github.com/erigontech/erigon/commit/9c0e9bf0b39f89a9a6a46d453ed2237717edffdb) - 2025-09-16
 * [Commit] [Fix RLP](https://github.com/erigontech/erigon/commit/1a2c47c3278dab5aae9f2640eb356fd002e53fc7) - 2025-09-16
 * [Commit] [Use mutex](https://github.com/erigontech/erigon/commit/f97f55143e7b32ef78cf373435c32c46ab726ada) - 2025-09-16
+* [Commit] [Fix lint](https://github.com/erigontech/erigon/commit/988e85339a626ed24048a3eaa180f3753acc56ad) - 2025-09-17
 ## Q2 2025
 
 

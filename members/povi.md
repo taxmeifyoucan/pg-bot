@@ -50,6 +50,7 @@ Team: Grandine
 * [Pull Request] [For debug purposes extend `GET /eth/v1/debug/beacon/data_column_sidecars/{block_id}` endpoint](https://github.com/grandinetech/grandine/pull/363) - 2025-09-10
 * [Commit] [Retry block to rebuild pruned beacon state from state cache if blob or data sidecar gets delayed due to missing state](https://github.com/grandinetech/grandine/commit/324854cde1bd20f556dea3fe8603264379be3a3a) - 2025-09-12
 * [Pull Request] [Retry block to rebuild pruned beacon state from state cache if blob or data sidecar gets delayed due to missing state](https://github.com/grandinetech/grandine/pull/372) - 2025-09-12
+* [Commit] [Validate data column sidecars with mid priority](https://github.com/grandinetech/grandine/commit/212000f606570acb5ddc516ad203a4d23b17453d) - 2025-09-17
 ## Q2 2025
 
 

@@ -77,6 +77,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: add blob count next to tx count on mev page](https://github.com/ethpandaops/dora/commit/3230904d06f75993e4a5521fb74b7f1847cd85f7) - 2025-08-18
 * [Commit] [feat: add optional validator summary page](https://github.com/ethpandaops/dora/commit/2bfa36f8d06e4aa83836aa824ea9576290c5de41) - 2025-09-04
 * [Commit] [add auth groups to config to reduce number of secrets](https://github.com/ethpandaops/dora/commit/32389dc78e1681a5ead332b4fa2fb9b6b3485c90) - 2025-09-04
+* [Pull Request] [fix: add supported columns as an array instead of bool](https://github.com/ethpandaops/dora/pull/479) - 2025-09-17
 ## Q2 2025
 
 

@@ -124,6 +124,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [fix(engine): avoid block fetching inconsistencies for checks during reorgs](https://github.com/paradigmxyz/reth/pull/18368) - 2025-09-10
 * [Commit] [add flaky test](https://github.com/paradigmxyz/reth/commit/6fcc68dce428090360eab8db77d6fb09b0ab5a02) - 2025-09-11
 * [Pull Request] [chore: update e2e-test-utils code owners](https://github.com/paradigmxyz/reth/pull/18397) - 2025-09-12
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/c262228c13ef30983a1360610d8e5b18fe5a8a96) - 2025-09-17
+* [Commit] [chore(ci): bump hive eest tests to v5.1.0](https://github.com/paradigmxyz/reth/commit/59ab69f76422d97c1a41d2d5916e0119df3f497c) - 2025-09-17
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add blob per tx limit for reth](https://github.com/ethereum/execution-spec-tests/pull/2016) - 2025-08-08
 ## Q2 2025

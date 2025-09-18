@@ -22,3 +22,5 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [🚧 wip(EIP-7928): OOG tests](https://github.com/ethereum/execution-spec-tests/commit/780a23e012389404df82af62f2d4e8b4e89e0740) - 2025-09-15
 * [Commit] [chore(docs): bump changelog from v5.0.0 release. (#2105)](https://github.com/ethereum/execution-spec-tests/commit/43ccf8a6e5c23b85585eca5d9f203160fb2b20e4) - 2025-09-15
 * [Issue] [Feature request: Watch Mode for `uv run fill`](https://github.com/ethereum/execution-spec-tests/issues/2156) - 2025-09-16
+* [Commit] [✨ feat(tests): EIP-7928 parameterise OOG test case](https://github.com/ethereum/execution-spec-tests/commit/853435a2813da134a762799d8b0e04b2f99d921d) - 2025-09-17
+* [Pull Request] [feat(tests): EIP-7928 test cases for EIP-2930 transactions](https://github.com/ethereum/execution-spec-tests/pull/2167) - 2025-09-17

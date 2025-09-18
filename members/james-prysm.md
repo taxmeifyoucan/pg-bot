@@ -146,6 +146,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fixing test](https://github.com/OffchainLabs/prysm/commit/83d4291058031028ed5f318966313c8fe8dcadb7) - 2025-09-16
 * [Commit] [fixing tests](https://github.com/OffchainLabs/prysm/commit/eed1ee44866e5ae078c102633ce2e1edbc65c114) - 2025-09-16
 * [Commit] [radek feedback](https://github.com/OffchainLabs/prysm/commit/d9b51a87e920dba4d2c1d5a8eb18dce712cbc60d) - 2025-09-16
+* [Commit] [PeerDAS: Modify the reconstruction and reseed process. (#15705)](https://github.com/OffchainLabs/prysm/commit/c941e47b7e4343808a91b3bb2fce0da97497d7c1) - 2025-09-17
+* [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/e3045f2f2cdd5ac298449e2b693cad3911a30a2f) - 2025-09-17
+* [Pull Request] [adding justified support to blocker and optimizing logic](https://github.com/OffchainLabs/prysm/pull/15715) - 2025-09-17
+* [Commit] [ better way for version](https://github.com/OffchainLabs/prysm/commit/c52cc5a295658337c52cb5e650ea19f8be9dcc72) - 2025-09-17
+* [Commit] [deduplicating and fixing an old bug, will break into separate PR](https://github.com/OffchainLabs/prysm/commit/2c087406612eb3dc68aefd3665d55acb16ea3a3f) - 2025-09-17
+* [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/2e3193173812159c299e1a68cac192dbe1b44054) - 2025-09-17
+* [Commit] [Change insertchain (#15688)](https://github.com/OffchainLabs/prysm/commit/88af3f90a579dbeeb786193ab4e9f1b4f2c50be4) - 2025-09-17
+* [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/fed6529f62286e36cae10dc55fbf07b7d7a5b7c5) - 2025-09-17
+* [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/39767c38f54558b551f45b9b9174bf7fd64c8a67) - 2025-09-17
 ## Q2 2025
 
 

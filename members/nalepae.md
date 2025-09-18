@@ -193,6 +193,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Update beacon-chain/sync/data_column_sidecars.go](https://github.com/OffchainLabs/prysm/commit/b314471ee836e554a99cd220c4d9a9e17bffb6ff) - 2025-09-10
 * [Commit] [Refactor proto definitions: extract common beacon block types and components (#15689)](https://github.com/OffchainLabs/prysm/commit/a5c7c6da069e66c21aa2a52bb12f42ef23e11a9f) - 2025-09-15
 * [Commit] [`processDataColumnSidecarsFromExecution`: Stop using DB cache.](https://github.com/OffchainLabs/prysm/commit/bcf19977233b293c1c74fcecce1a79b8576b2d5e) - 2025-09-15
+* [Commit] [`processDataColumnSidecarsFromReconstruction`: Guard against a single flight.](https://github.com/OffchainLabs/prysm/commit/085015093372c9f53ba78995b1309e5281cd0e26) - 2025-09-17
+* [Pull Request] [Peerdas reseed](https://github.com/OffchainLabs/prysm/pull/15705) - 2025-09-17
 ## Q2 2025
 
 

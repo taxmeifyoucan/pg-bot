@@ -1205,6 +1205,25 @@ Team: Erigon
 * [Commit] [fix for successive rm-state not removing latest file (#17093)](https://github.com/erigontech/erigon/commit/918b01020ef3c57ef356ef0f9f0537fa07726b5b) - 2025-09-12
 * [Commit] [Fix data race issue in caplin unittest  (#17020)](https://github.com/erigontech/erigon/commit/11b751442a82ca1e8cebd9dfd486cf2faf8e6755) - 2025-09-12
 * [Commit] [rpcdaemon: prestate tracer with code hash eth get transaction receipt with block timetsamp (#17086)](https://github.com/erigontech/erigon/commit/d12956020af1eb27079fde371c9d9b01bd954769) - 2025-09-14
+* [Commit] [Fix `getProof` edge cases correctly (#16251)](https://github.com/erigontech/erigon/commit/e902c3dab34d754d13c115ed559dfb4e1b49d473) - 2025-09-17
+* [Commit] [Fixed calculation of start block number in snapshot retirement (#16902)](https://github.com/erigontech/erigon/commit/769d388010a5354eaf5f79ee513967e6713a8443) - 2025-09-17
+* [Commit] [Fix race reading start time in Downloader logging (#16896)](https://github.com/erigontech/erigon/commit/74d03fcf726365d430f4d4cb650a643631de4c2d) - 2025-09-17
+* [Commit] [Fix DOWNLOADER_DISABLE_HTTP2 not working (#16870)](https://github.com/erigontech/erigon/commit/c47e258ecad8bb43ecdda404923662f0b249f9f2) - 2025-09-17
+* [Commit] [[r31] prune: print initialCycle variable  (#16925)](https://github.com/erigontech/erigon/commit/f4911fedcd2164babfba3affe63736d179378c58) - 2025-09-17
+* [Commit] [cp 2 commits related to HistoryNoSystemTxs (#16927)](https://github.com/erigontech/erigon/commit/6e7d0686be42e02f1580a141ecb9b67738243ab3) - 2025-09-17
+* [Commit] [[3.1] avoid panic in case ASSERT_ERIGON is enabled in GetReceipts (#16937)](https://github.com/erigontech/erigon/commit/db2f8cef477e8d6d74d932a17874ba6415b19161) - 2025-09-17
+* [Commit] [txnprovider/shutter: fix synctest issues with go1.25 (#16965) (#17015)](https://github.com/erigontech/erigon/commit/b16070c841577cba1819075677c0585d9c0721d3) - 2025-09-17
+* [Commit] [agg: builder (#17000)](https://github.com/erigontech/erigon/commit/9af4b83d3ffa3c9ed19f3f06bcbba413cfb705d1) - 2025-09-17
+* [Commit] [don't flock datadir in publishable cmd (#17021)](https://github.com/erigontech/erigon/commit/fccf050b62b091774a212893573977a6395ca48c) - 2025-09-17
+* [Commit] [CherryPick: API get blobs (#17076) (#17091)](https://github.com/erigontech/erigon/commit/ef86f681199a69f8ba7de0141d6cc8ef4eac3483) - 2025-09-17
+* [Commit] [Charry-Pick: more unittests and spectests for fulu (#16623) (#17110)](https://github.com/erigontech/erigon/commit/0bc577990f345226d574cea612ef892f63a3f3f3) - 2025-09-17
+* [Commit] [Cherry-Pick: Caplin: prioritize head event (#17122) (#17128)](https://github.com/erigontech/erigon/commit/912507b39c7a266dd40ed554072ad47572de7789) - 2025-09-17
+* [Pull Request] [Trie: reduce cell size - by using int16 for prefix lengths](https://github.com/erigontech/erigon/pull/17134) - 2025-09-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e72f28ef7e08ab36c66c5df6b6855b237a120070) - 2025-09-17
+* [Pull Request] [TrieContext: non-ptr assign with copy](https://github.com/erigontech/erigon/pull/17133) - 2025-09-17
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fff3a9b7c845a5d4beed495f631d47001b8a5135) - 2025-09-17
+* [Commit] [qa-tests: avoid cancelling the running Snap Downloader test execution. (#17125)](https://github.com/erigontech/erigon/commit/cbb5a3252f51a7758320a789cea5f381fc9027f2) - 2025-09-17
+* [Commit] [rpcdaemon: fix eth create access list (#17106)](https://github.com/erigontech/erigon/commit/418c82ef28d138fbd5d0810203f750f6e42bdcce) - 2025-09-17
 ## Q2 2025
 
 

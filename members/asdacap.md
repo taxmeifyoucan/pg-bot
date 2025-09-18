@@ -258,6 +258,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix extra-params when empty (#9286)](https://github.com/NethermindEth/nethermind/commit/2b2abbf7a5cddddb5d66c439ad8e11ea74889395) - 2025-09-16
 * [Pull Request] [Add code to `IWorldStateScopeProvider`.](https://github.com/NethermindEth/nethermind/pull/9291) - 2025-09-16
 * [Commit] [Add test](https://github.com/NethermindEth/nethermind/commit/f96fc180575c598d928ad9f34d2e931022ee2a5e) - 2025-09-16
+* [Commit] [Rename to update state root](https://github.com/NethermindEth/nethermind/commit/ecd2b3d961cf864b5cb3a582013d21f79567c6d6) - 2025-09-17
+* [Pull Request] [Feature/worldstate scope provider manager](https://github.com/NethermindEth/nethermind/pull/9306) - 2025-09-17
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/5a43bda36e82530397caae61116880ffad7e4c2f) - 2025-09-17
+* [Commit] [Fix recovery queue size (#9288)](https://github.com/NethermindEth/nethermind/commit/d806ac109403e83f5603681fc1d0454c8aa054ea) - 2025-09-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

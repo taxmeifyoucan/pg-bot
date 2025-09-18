@@ -120,6 +120,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [update log message for all sync errors](https://github.com/ChainSafe/lodestar/commit/40b5f9e6e40b059815b3367c73a5d78494aedb3e) - 2025-09-12
 * [Commit] [Fix swagger, swagger-ui default import to named import](https://github.com/ChainSafe/lodestar/commit/2d723b03c66918267d1d8b4ed739f5fa88296610) - 2025-09-12
 * [Commit] [deps: upgrade typescript to 5.9 (#8412)](https://github.com/ChainSafe/lodestar/commit/c88a6ed255e379e909f0575a9f9a8b6943da6418) - 2025-09-16
+* [Commit] [update the usage of resource limits](https://github.com/ChainSafe/lodestar/commit/5f1e5ffae915edd2ec7c85291df4d7d6a6d6d710) - 2025-09-17
+* [Commit] [fix: restore data column sidecars prune log (#8388)](https://github.com/ChainSafe/lodestar/commit/8cacf063da660265914706a0c733582adeeb1665) - 2025-09-17
 ## Q2 2025
 
 

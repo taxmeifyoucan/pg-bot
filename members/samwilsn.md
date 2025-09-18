@@ -47,6 +47,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Use hypothesis for testing precompiles](https://github.com/ethereum/execution-specs/issues/1421) - 2025-09-10
 * [Issue] [Replace hardcoded fork paths with `Hardfork` class](https://github.com/ethereum/execution-specs/issues/1426) - 2025-09-15
 * [Commit] [chore(consume): fix consume cache for python 3.11 (#2077)](https://github.com/ethereum/execution-specs/commit/d05dc79118dadff611983e560d9cd1a3763c5905) - 2025-09-15
+* [Issue] [Decide on merge strategy](https://github.com/ethereum/execution-specs/issues/1429) - 2025-09-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-7932: Fix some typos (#10011)](https://github.com/ethereum/EIPs/commit/9e953a254861cf86dc6d55f1f90a54807cfecdb1) - 2025-07-16
 * [Commit] [Website: Add missing favicon (#9963)](https://github.com/ethereum/EIPs/commit/719769bd61033e9bcd4de7b647bdc927981b6195) - 2025-07-28

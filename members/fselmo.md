@@ -20,3 +20,4 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [fix(tests): Block-Level Access List invalid tests (#2121)](https://github.com/ethereum/execution-spec-tests/commit/5f6205837a9fc8cd4e05993204e373acc79605ad) - 2025-09-09
 * [Pull Request] [fix(tests): Block-Level Access List invalid tests](https://github.com/ethereum/execution-spec-tests/pull/2121) - 2025-09-09
 * [Pull Request] [feat(consume): Clarify mismatched fields on blockhash mismatch](https://github.com/ethereum/execution-spec-tests/pull/2126) - 2025-09-10
+* [Commit] [feat(tests): Add flexibility to expected absent scenarios for BALs (#2124)](https://github.com/ethereum/execution-spec-tests/commit/291fe00e65d82e05ca2bd5e7a49e4ac4a8c7a5b9) - 2025-09-17

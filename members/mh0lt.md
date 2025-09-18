@@ -220,6 +220,7 @@ Team: Erigon
 * [Commit] [fixed compile errors](https://github.com/erigontech/erigon/commit/c16bcc0d869b4321495fe794d73122dab514e28a) - 2025-09-16
 * [Commit] [cherry-pick  polygon: download blocks asynchronously during tip processing (#17050)](https://github.com/erigontech/erigon/commit/a40c6ffa03bb06f5ed71f944de69e09a9f75ce12) - 2025-09-16
 * [Commit] [add recent logs notifications](https://github.com/erigontech/erigon/commit/dd54ad703cb81662428ef18d4241289c3d35915e) - 2025-09-16
+* [Commit] [return error after finalize](https://github.com/erigontech/erigon/commit/7adb82bc2f3d31a0b0462cf172e07178cb7f7c90) - 2025-09-17
 ## Q2 2025
 
 

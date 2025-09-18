@@ -55,6 +55,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Respect reputation on incoming connection](https://github.com/Consensys/teku/pull/9887) - 2025-09-11
 * [Issue] [leveldb close open iterators error on shutdown](https://github.com/Consensys/teku/issues/9894) - 2025-09-15
 * [Pull Request] [Fix propagate to async](https://github.com/Consensys/teku/pull/9900) - 2025-09-16
+* [Commit] [Adding source error as suppressed exception when propagating async (#9901)](https://github.com/Consensys/teku/commit/cd49a21994dfa3d1e0d489fe42fe6b0436dbd4bf) - 2025-09-17
 ## Q2 2025
 
 

@@ -53,8 +53,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Portal: Add the nimbus portal client as client_info for Ping msg](https://github.com/status-im/nimbus-eth1/pull/3690) - 2025-09-16
 * [Commit] [Portal docs: Update according to Portal rescope (#3684)](https://github.com/status-im/nimbus-eth1/commit/b8b1fd79c36f508ef9cf1d123ad5ccc5ee3dd32e) - 2025-09-16
 * [Pull Request] [Portal docs: Update according to Portal rescope](https://github.com/status-im/nimbus-eth1/pull/3684) - 2025-09-16
+* [Commit] [Portal: Add the nimbus portal client as client_info for Ping msg (#3690)](https://github.com/status-im/nimbus-eth1/commit/abf3d3bdafee70c82aa14b73b398908869bb26f3) - 2025-09-17
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Pull Request] [Update Portal bootstrap nodes](https://github.com/ethereum/portal-network-specs/pull/413) - 2025-09-14
+
+[ethereum/glados](https://github.com/ethereum/glados)
+* [Pull Request] [Docker: Remove eth API flag in cli options](https://github.com/ethereum/glados/pull/457) - 2025-09-17
 ## Q2 2025
 
 

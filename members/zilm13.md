@@ -28,6 +28,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Remove DataColumnPeerSearcher as we have PeerSelectionStrategy](https://github.com/Consensys/teku/pull/9885) - 2025-09-10
 * [Issue] [Update PeerSelectionStrategy to fulfill FULU needs](https://github.com/Consensys/teku/issues/9884) - 2025-09-10
 * [Commit] [Rework recent DataColumnSidecars recovery (#9874)](https://github.com/Consensys/teku/commit/0f10b58b656ff7f6adaefdfabb112144aff605eb) - 2025-09-12
+* [Pull Request] [Add VersionedHashDBSource for VersionedHash column handling](https://github.com/Consensys/teku/pull/9908) - 2025-09-17
 ## Q2 2025
 
 

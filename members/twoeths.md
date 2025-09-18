@@ -151,6 +151,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[block-input-refactor] add logs for ColumnReconstructionTracker](https://github.com/ChainSafe/lodestar/issues/8402) - 2025-09-16
 * [Issue] [[block-input-refactor] logs and metrics for GetBlobsTracker](https://github.com/ChainSafe/lodestar/issues/8401) - 2025-09-16
 * [Issue] [[block-input-refactor] consider download data columns from multiple peers at a time](https://github.com/ChainSafe/lodestar/issues/8400) - 2025-09-16
+* [Commit] [chore: bump package versions to 1.34.0](https://github.com/ChainSafe/lodestar/commit/1a17514b024d6c79d3335d8a45809c023cb734ec) - 2025-09-17
+* [Pull Request] [feat: track BlockInputSync result](https://github.com/ChainSafe/lodestar/pull/8416) - 2025-09-17
+* [Issue] [[block-input-refactor] handle PARENT_UNKNOWN in gossip handler](https://github.com/ChainSafe/lodestar/issues/8415) - 2025-09-17
 ## Q2 2025
 
 

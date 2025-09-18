@@ -71,6 +71,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Increase `max_slot_ahead`](https://github.com/grandinetech/grandine/pull/370) - 2025-09-12
 * [Issue] [No batch data columns by roots](https://github.com/grandinetech/grandine/issues/369) - 2025-09-12
 * [Commit] [Deserialize blob schedule in desc, reverse at serialize](https://github.com/grandinetech/grandine/commit/c196651f8960a9ed312d90d72c7ccd034ecdd33b) - 2025-09-16
+* [Commit] [Fix issue with requesting current epoch proposer duties](https://github.com/grandinetech/grandine/commit/0ba638b618d24a81c692fee383e3221510a0ddae) - 2025-09-17
+* [Issue] [Add Gloas boilerplate](https://github.com/grandinetech/grandine/issues/379) - 2025-09-17
+* [Commit] [Ignore non-sampling data column sidecars](https://github.com/grandinetech/grandine/commit/b970e9d91cbe86bedd8ab6829f291bb2e97fad45) - 2025-09-17
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

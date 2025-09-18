@@ -109,6 +109,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix uint underflow](https://github.com/NethermindEth/nethermind/commit/9ca5924605907e49c7b53524808a55d33b5326aa) - 2025-09-09
 * [Commit] [Add retry cache](https://github.com/NethermindEth/nethermind/commit/d8294a2facc49460e486b3e8c75a887dff847bc4) - 2025-09-09
 * [Commit] [Enable passing args to Nethermind when using sync chains pipeline (#9184)](https://github.com/NethermindEth/nethermind/commit/097cd766aee5ba73d8fe4b6ce49c75241ce6225b) - 2025-09-13
+* [Commit] [Select proper block (#9289)](https://github.com/NethermindEth/nethermind/commit/c619fbe9c3a5583190dc234bbc1d5cc34e668938) - 2025-09-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

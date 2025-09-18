@@ -132,6 +132,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [src/](https://github.com/ethereum/execution-spec-tests/commit/1700b5afd8a0efe99de12eaf0fe3e85c2820d1a7) - 2025-09-12
 * [Commit] [chore(tests): Update 7951 Checklist Markers (#2088)](https://github.com/ethereum/execution-spec-tests/commit/e9045fc2b581a7949a54015b6b63782086a30a29) - 2025-09-12
 * [Commit] [chore(ci): switch to chungus.](https://github.com/ethereum/execution-spec-tests/commit/fe1eb25b6b6774cd5cf6290cd2261290f5fea176) - 2025-09-12
+* [Commit] [feat(tests): Enforce EIP-7928 ordering rules (#2138)](https://github.com/ethereum/execution-spec-tests/commit/562fde148440cf1a6a80305dd899dd15d91f4c1e) - 2025-09-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

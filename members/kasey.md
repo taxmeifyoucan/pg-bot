@@ -95,6 +95,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Pull Request] [mechanism to toggle between range sync and backfill](https://github.com/OffchainLabs/prysm/pull/15702) - 2025-09-16
 * [Commit] [mechanism to toggle between range sync and backfill](https://github.com/OffchainLabs/prysm/commit/c3e391fc2f3211d1df59894528840420396f8736) - 2025-09-16
 * [Commit] [mechanism to toggle between range sync and backfill](https://github.com/OffchainLabs/prysm/commit/df51528ff75035d402a417c4e26760f85e6d7283) - 2025-09-16
+* [Commit] [fix: use assigned committee index in attestation data after Electra (#15696)](https://github.com/OffchainLabs/prysm/commit/54991bbc52cb780b24bc06743cbcb6983b00262c) - 2025-09-17
+* [Commit] [maxblobs to use network schedule](https://github.com/OffchainLabs/prysm/commit/136e434269071b5a7178175687d713b03d588922) - 2025-09-17
+* [Commit] [maxblobs to use network schedule](https://github.com/OffchainLabs/prysm/commit/50b486ace675dac67fef3f5fc5f51afb80ac455a) - 2025-09-17
+* [Commit] [maxblobs to use network schedule](https://github.com/OffchainLabs/prysm/commit/495ccc47814545334154e7a7ac1db3cfcfbd44ce) - 2025-09-17
+* [Pull Request] [Max blobs use network schedule](https://github.com/OffchainLabs/prysm/pull/15714) - 2025-09-17
+* [Commit] [DataColumnSidecar backfill](https://github.com/OffchainLabs/prysm/commit/d1556605bae9b10b3c0b7d46890eebd92bae51f5) - 2025-09-17
+* [Commit] [DataColumnSidecar backfill](https://github.com/OffchainLabs/prysm/commit/74d9f63305dae51a2864eea1aa2004f176d19fcd) - 2025-09-17
+* [Pull Request] [fix e2e noise from a goroutine exits after test cleanup](https://github.com/OffchainLabs/prysm/pull/15703) - 2025-09-17
+* [Commit] [fix e2e noise from a goroutine exits after test cleanup](https://github.com/OffchainLabs/prysm/commit/067a0e7fa44a4f8830ac2b8e96ff0a16ef09a039) - 2025-09-17
+* [Commit] [PeerDAS: Implement syncing in a disjoint network (Also know as "perfect PeerDAS" network). (#15644)](https://github.com/OffchainLabs/prysm/commit/2292d955a31c4d82166c3314eeb35e90cec4c5d1) - 2025-09-17
+* [Commit] [Retry logic for getBlobsV2 in peerDAS (#15520)](https://github.com/OffchainLabs/prysm/commit/600169a53b2cf75c204a67a053630f308dee0384) - 2025-09-17
+* [Commit] [test fixes and style fix[1]](https://github.com/OffchainLabs/prysm/commit/ad1001b8931f186a80f701c1eed3e538be5b55d3) - 2025-09-17
 ## Q2 2025
 
 

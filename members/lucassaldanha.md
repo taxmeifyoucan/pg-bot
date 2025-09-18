@@ -43,6 +43,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Added Gloas fork transition](https://github.com/Consensys/teku/pull/9886) - 2025-09-11
 * [Pull Request] [Re-enable recover_cells_and_kzg_proofs_case_invalid_shuffled](https://github.com/Consensys/teku/pull/9888) - 2025-09-12
 * [Commit] [Fix SafeFuture's async methods (#9900)](https://github.com/Consensys/teku/commit/7c3fd19e5fff396461b4a4fadf81c6b57576a68a) - 2025-09-16
+* [Commit] [re-enable kzg test (#9903)](https://github.com/Consensys/teku/commit/09e71a6d6059b3f9f5bab6066c849da9f5edc836) - 2025-09-17
+* [Pull Request] [re-enable kzg test](https://github.com/Consensys/teku/pull/9903) - 2025-09-17
+* [Commit] [Updated to jc-kzg 2.1.3 (#9902)](https://github.com/Consensys/teku/commit/cbc45bee11c69d0a9068c2c6a929c4cdcf4a1bc5) - 2025-09-17
+* [Pull Request] [Updated to jc-kzg 2.1.3](https://github.com/Consensys/teku/pull/9902) - 2025-09-17
+* [Commit] [Add test which fails on ckzg 2.1.2 (#9893)](https://github.com/Consensys/teku/commit/6c20e28ae7a06a47445d3d25f812c7780a88d735) - 2025-09-17
+* [Pull Request] [Adding source error as suppressed exception when propagating async](https://github.com/Consensys/teku/pull/9901) - 2025-09-17
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add support for libp2p interop tests](https://github.com/libp2p/jvm-libp2p/pull/421) - 2025-08-25
 * [Pull Request] [Add quic to interop client](https://github.com/libp2p/jvm-libp2p/pull/425) - 2025-09-15
