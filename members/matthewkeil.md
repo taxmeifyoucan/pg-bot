@@ -102,6 +102,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [docs: add note to spec test about test case for future us to know what is going on](https://github.com/ChainSafe/lodestar/commit/14a8ae3ac6451bff4f62397251bd5d427ae59f79) - 2025-09-15
 * [Commit] [docs: add not to spec test about test case for future us to know what is going on](https://github.com/ChainSafe/lodestar/commit/d090d5457413a9e80c6d9263b7960b1a74d498af) - 2025-09-15
 * [Commit] [fix: pass testCaseName to spec testFunction to allow for case specific logic in a test case](https://github.com/ChainSafe/lodestar/commit/b041e321878e6cb50a6173373907a15f2b134010) - 2025-09-15
+* [Commit] [fix: small fixes and e2e test fix (#8420)](https://github.com/ChainSafe/lodestar/commit/0d70dde49e57cc9100c3e16f0c65dc542e5d1bf6) - 2025-09-18
+* [Issue] [need to add NetworkEvent.peerUpdated](https://github.com/ChainSafe/lodestar/issues/8424) - 2025-09-18
 ## Q2 2025
 
 

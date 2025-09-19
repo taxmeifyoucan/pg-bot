@@ -154,6 +154,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: bump package versions to 1.34.0](https://github.com/ChainSafe/lodestar/commit/1a17514b024d6c79d3335d8a45809c023cb734ec) - 2025-09-17
 * [Pull Request] [feat: track BlockInputSync result](https://github.com/ChainSafe/lodestar/pull/8416) - 2025-09-17
 * [Issue] [[block-input-refactor] handle PARENT_UNKNOWN in gossip handler](https://github.com/ChainSafe/lodestar/issues/8415) - 2025-09-17
+* [Commit] [fix: track more column orders](https://github.com/ChainSafe/lodestar/commit/aad51e236159a36d5358dce668e25509368cb1f9) - 2025-09-18
+* [Pull Request] [feat: refine data column elapsedTimeTillReceived metric](https://github.com/ChainSafe/lodestar/pull/8423) - 2025-09-18
+* [Pull Request] [fix: DataColumSidecars recoverTime buckets](https://github.com/ChainSafe/lodestar/pull/8422) - 2025-09-18
+* [Commit] [fix: peerBalancer unit tests](https://github.com/ChainSafe/lodestar/commit/c8d0169550fe81b90557ac33431eaa4905f7b93a) - 2025-09-18
 ## Q2 2025
 
 

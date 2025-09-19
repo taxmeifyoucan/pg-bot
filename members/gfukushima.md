@@ -29,6 +29,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Update besu version used in ATs](https://github.com/Consensys/teku/pull/9856) - 2025-09-05
 * [Pull Request] [[Stateless Proto] Execution proof container](https://github.com/Consensys/teku/pull/9853) - 2025-09-05
 * [Commit] [[Stateless Proto] Execution proof container (#9853)](https://github.com/Consensys/teku/commit/6f1e565e369888b72fe33a45ad5ddc250db40657) - 2025-09-08
+* [Commit] [[Stateless Proto]Fix execution proof(EP) container and schema (#9909)](https://github.com/Consensys/teku/commit/1e30a468b859af66aa5db647fedc648f74d69c7e) - 2025-09-18
+* [Pull Request] [[Stateless Proto]Fix execution proof(EP) container and schema](https://github.com/Consensys/teku/pull/9909) - 2025-09-18
 ## Q2 2025
 
 

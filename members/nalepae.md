@@ -195,6 +195,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [`processDataColumnSidecarsFromExecution`: Stop using DB cache.](https://github.com/OffchainLabs/prysm/commit/bcf19977233b293c1c74fcecce1a79b8576b2d5e) - 2025-09-15
 * [Commit] [`processDataColumnSidecarsFromReconstruction`: Guard against a single flight.](https://github.com/OffchainLabs/prysm/commit/085015093372c9f53ba78995b1309e5281cd0e26) - 2025-09-17
 * [Pull Request] [Peerdas reseed](https://github.com/OffchainLabs/prysm/pull/15705) - 2025-09-17
+* [Commit] [Sort sidecars by index before calling `RecoverCellsAndKZGProofs`.](https://github.com/OffchainLabs/prysm/commit/f58e616a694aa70789b61c19f4d438a8d54b0937) - 2025-09-18
+* [Commit] [Sort sidecars by index before calling `RecoverCellsAndKZGProofs`.](https://github.com/OffchainLabs/prysm/commit/23e4c9cbfc197f7f0bc50406f1183eaeb4ba8ad3) - 2025-09-18
+* [Commit] [blst: Change from blst from http_archive to go_repository](https://github.com/OffchainLabs/prysm/commit/fee1e4c704adc51badc3502098b1694942bc42eb) - 2025-09-18
 ## Q2 2025
 
 

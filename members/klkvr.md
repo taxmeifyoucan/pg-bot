@@ -103,6 +103,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/4d28e1455de756def6fd5f677bc635e4b85c7ea1) - 2025-09-17
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/6db90e2ef881d716e393b11cab30f0d5faf15de2) - 2025-09-17
 * [Pull Request] [fix: don't require &mut in `create_tables_for`](https://github.com/paradigmxyz/reth/pull/18511) - 2025-09-17
+* [Commit] [dprint](https://github.com/paradigmxyz/reth/commit/9f187fbae580480d2764f58832c12f2869dac2e6) - 2025-09-18
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/d26a8a1234e875b5217b23fc01330b1355ff47f6) - 2025-09-18
+* [Pull Request] [feat: add `Future` AT to `LaunchNode` and allow customizing local attributes builder](https://github.com/paradigmxyz/reth/pull/18556) - 2025-09-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: impl inspector for tuple](https://github.com/bluealloy/revm/pull/2871) - 2025-08-08
 ## Q2 2025

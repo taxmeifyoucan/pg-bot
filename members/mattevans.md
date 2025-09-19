@@ -42,6 +42,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix(types.go): add missing json tags to ForksConfig and ForkConfig st…](https://github.com/ethpandaops/cartographoor/pull/35) - 2025-09-12
 * [Commit] [feat: move static networks from hard-coded to config-driven](https://github.com/ethpandaops/cartographoor/commit/f45ab84f4cd246d6c0b67ff8a42bca6077958b3b) - 2025-09-12
 * [Pull Request] [feat: move static networks from hard-coded to config-driven](https://github.com/ethpandaops/cartographoor/pull/34) - 2025-09-12
+* [Commit] [feat: add configUrl field to static network definitions](https://github.com/ethpandaops/cartographoor/commit/fddd55c28ecbfc1f494ee32d97e7f107b5c99091) - 2025-09-18
+* [Pull Request] [feat: add configUrl field to static network definitions](https://github.com/ethpandaops/cartographoor/pull/39) - 2025-09-18
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Pull Request] [docs: remove stray "test" line from README](https://github.com/ethpandaops/contributoor/pull/138) - 2025-08-18
 
@@ -121,3 +123,5 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: add experiment config endpoint with data availability](https://github.com/ethpandaops/lab/pull/75) - 2025-09-17
 * [Pull Request] [feat(proto): add experiments configuration to public API](https://github.com/ethpandaops/lab/pull/74) - 2025-09-17
 * [Pull Request] [chore: clean-up + redirects](https://github.com/ethpandaops/lab/pull/73) - 2025-09-17
+* [Commit] [feat: add block timing endpoint with primary key enrichment for efficient queries](https://github.com/ethpandaops/lab/commit/10e9453d9b3cd6b73738c4656aa452ec9ef5bc13) - 2025-09-18
+* [Pull Request] [feat: add block timing endpoint with PK enrichment for efficient filtering](https://github.com/ethpandaops/lab/pull/78) - 2025-09-18

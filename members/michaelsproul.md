@@ -57,6 +57,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Another check to prevent duplicate block imports](https://github.com/sigp/lighthouse/pull/8050) - 2025-09-16
 * [Pull Request] [Make the block cache optional](https://github.com/sigp/lighthouse/pull/8066) - 2025-09-17
 * [Pull Request] [Fix reprocess queue memory leak](https://github.com/sigp/lighthouse/pull/8065) - 2025-09-17
+* [Issue] [False positives in validator monitor missed block logging](https://github.com/sigp/lighthouse/issues/8080) - 2025-09-18
+* [Issue] [Race condition in reprocessing queue](https://github.com/sigp/lighthouse/issues/8073) - 2025-09-18
+* [Commit] [Update issue template (#7938)](https://github.com/sigp/lighthouse/commit/3cb7e59be2ebcf66836dabae2c771b455822f654) - 2025-09-18
 ## Q2 2025
 
 

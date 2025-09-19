@@ -221,6 +221,9 @@ Team: Erigon
 * [Commit] [cherry-pick  polygon: download blocks asynchronously during tip processing (#17050)](https://github.com/erigontech/erigon/commit/a40c6ffa03bb06f5ed71f944de69e09a9f75ce12) - 2025-09-16
 * [Commit] [add recent logs notifications](https://github.com/erigontech/erigon/commit/dd54ad703cb81662428ef18d4241289c3d35915e) - 2025-09-16
 * [Commit] [return error after finalize](https://github.com/erigontech/erigon/commit/7adb82bc2f3d31a0b0462cf172e07178cb7f7c90) - 2025-09-17
+* [Commit] [skip flakey test](https://github.com/erigontech/erigon/commit/848c99a319357528f2eacb5d147ef6083fba7484) - 2025-09-18
+* [Commit] [added lock for pe.blockExecutors](https://github.com/erigontech/erigon/commit/feae9ecb93111577db92ffa500f3ed2cf38ba047) - 2025-09-18
+* [Commit] [added blockExecutors access locks](https://github.com/erigontech/erigon/commit/f879061cb75f08302885ccf1dc0a5bd6f47387a6) - 2025-09-18
 ## Q2 2025
 
 

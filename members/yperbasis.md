@@ -201,6 +201,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/tests: update EEST to v5.1.0 (#17141)](https://github.com/erigontech/erigon/commit/ae56a4183fc3706977d4a5d7bae04d906b47462b) - 2025-09-17
 * [Pull Request] [execution/tests: update EEST to v5.1.0](https://github.com/erigontech/erigon/pull/17141) - 2025-09-17
 * [Commit] [execution/tests: update EEST to v5.1.0](https://github.com/erigontech/erigon/commit/e688ee0b98a22934ab96f3e5f7c704374b806a47) - 2025-09-17
+* [Commit] [core/vm: use go-bigmodexpfix for modexp (#17151)](https://github.com/erigontech/erigon/commit/f004f31de65ea7370737ef8d95a402d26b6f9b85) - 2025-09-18
+* [Commit] [[main] building indexes on old files if have some (cp from 3.1) (#17018)](https://github.com/erigontech/erigon/commit/faf06c68f627b320c40718a82e31bbcbe6ab6412) - 2025-09-18
+* [Commit] [deps: update c-kzg-4844 to v2.1.3](https://github.com/erigontech/erigon/commit/72128c01ce903b5925aae968e95252409bddd6b8) - 2025-09-18
+* [Commit] [add more benchmarks](https://github.com/erigontech/erigon/commit/a7fa61973fe065eb0ecbedf808d104f96eebafec) - 2025-09-18
+* [Pull Request] [core/vm: use go-bigmodexpfix for modexp](https://github.com/erigontech/erigon/pull/17151) - 2025-09-18
+* [Commit] [core/vm: use go-bigmodexpfix for modexp](https://github.com/erigontech/erigon/commit/16f6b94737d6ee1edfbd1f4f3e4585229a4050b0) - 2025-09-18
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

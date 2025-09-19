@@ -124,6 +124,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: add additional promise to BlockInputColumns](https://github.com/ChainSafe/lodestar/commit/22ee657909f6f4926cf91d76aab214a7fe89d246) - 2025-09-16
 * [Commit] [chore: pr review](https://github.com/ChainSafe/lodestar/commit/2461350c6878b1ce9a101e20e18ffa71592ee693) - 2025-09-17
 * [Pull Request] [fix: small fixes and e2e test fix](https://github.com/ChainSafe/lodestar/pull/8420) - 2025-09-17
+* [Commit] [chore: use latest TS module resolution (#8419)](https://github.com/ChainSafe/lodestar/commit/0c6f50771f49be8baa0d84c54bab9819f4bdfa8f) - 2025-09-18
 ## Q2 2025
 
 

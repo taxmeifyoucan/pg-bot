@@ -70,6 +70,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [Minify config application instructions (#16953)](https://github.com/erigontech/erigon/commit/173d82cd146a5bb6bda8606cd437a2299a98fb5b) - 2025-09-15
 * [Pull Request] [rpcdaemon: in case of revert GETH return errorCode 0x3 and data field independend if data are present or not](https://github.com/erigontech/erigon/pull/17132) - 2025-09-16
 * [Commit] [update rpctest version](https://github.com/erigontech/erigon/commit/3ece1199898e63317fbfbb8a3deb06c92210cbd3) - 2025-09-16
+* [Pull Request] [rpcdaemon: debug_accountRange support interface as geth](https://github.com/erigontech/erigon/pull/17146) - 2025-09-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
@@ -108,6 +109,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration_test: fix exp for block not found](https://github.com/erigontech/rpc-tests/pull/447) - 2025-09-07
 * [Pull Request] [integration_test: fix exp debug_traceCall with codeHash using prestate logger](https://github.com/erigontech/rpc-tests/pull/453) - 2025-09-11
 * [Pull Request] [rpcdaemon: fix eth_call in case of revert](https://github.com/erigontech/rpc-tests/pull/455) - 2025-09-16
+* [Commit] [integration: add eth_simulateV1 tests (#407)](https://github.com/erigontech/rpc-tests/commit/da344d896dce988b9ab8dccff498b24bda151c0d) - 2025-09-18
+* [Pull Request] [rpcdaemon: debug_accountRange: Add tests using Geth interface](https://github.com/erigontech/rpc-tests/pull/456) - 2025-09-18
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

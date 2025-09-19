@@ -194,6 +194,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/tests: fix unclean exit in engine api tests](https://github.com/erigontech/erigon/pull/17120) - 2025-09-15
 * [Commit] [execution/tests: fix unclean exit in engine api tests](https://github.com/erigontech/erigon/commit/888e5b2b6e9f937f15548509f0811faaf89d44c9) - 2025-09-15
 * [Commit] [execution/aa: move aa code to el (#17117)](https://github.com/erigontech/erigon/commit/62c8281c929bef6e6ac1c61d8b66129389fb8e32) - 2025-09-16
+* [Commit] [Implement eth/69 (#15279)](https://github.com/erigontech/erigon/commit/a06fa3de2d0a9dd00649535a9f6ed8847d7ea205) - 2025-09-18
 ## Q2 2025
 
 

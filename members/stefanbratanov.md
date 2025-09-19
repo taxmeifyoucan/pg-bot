@@ -36,6 +36,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Add more Gloas containers (#9873)](https://github.com/Consensys/teku/commit/0c11dbb9e852ed0a6e51ebf6bac6f31f58052c10) - 2025-09-09
 * [Pull Request] [Add more Gloas containers](https://github.com/Consensys/teku/pull/9873) - 2025-09-09
 * [Pull Request] [Replace `ExpectedWithdrawals` with `WithdrawalsHelpers`](https://github.com/Consensys/teku/pull/9907) - 2025-09-17
+* [Commit] [Modified withdrawals for Gloas (#9911)](https://github.com/Consensys/teku/commit/6cdd9948a088d0d1286b0b1e5bed21eaece0f289) - 2025-09-18
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Commit] [[QUIC] Set muxer session and secure session on connection (#413)](https://github.com/libp2p/jvm-libp2p/commit/3d4b05fa1315e9af90a50d1d3204d0717d7f90ae) - 2025-08-27
 * [Commit] [Apply InboundTrafficLimitHandler only if max bytes > 0 (#416)](https://github.com/libp2p/jvm-libp2p/commit/25dd797a57715ab32ac4b3431bc98a997383f2f4) - 2025-08-28
@@ -46,6 +47,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Move QUIC implementation to prototype 🍋  (#423)](https://github.com/libp2p/jvm-libp2p/commit/8aa477df9e1c9a452706a8f51a7eee10df78c924) - 2025-09-12
 * [Issue] [Issues with upgrading dependencies](https://github.com/libp2p/jvm-libp2p/issues/426) - 2025-09-15
 * [Commit] [Add quic to interop client (#425)](https://github.com/libp2p/jvm-libp2p/commit/8104b864d8659aa5ec3fc258f21f5105b3eb2197) - 2025-09-16
+* [Commit] [Fix default redis param and simplifying compose test file (#427)](https://github.com/libp2p/jvm-libp2p/commit/a0123a62d1dd850c960ce3b71bb2a6af946362f6) - 2025-09-18
 ## Q2 2025
 
 

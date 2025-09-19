@@ -262,6 +262,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Feature/worldstate scope provider manager](https://github.com/NethermindEth/nethermind/pull/9306) - 2025-09-17
 * [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/5a43bda36e82530397caae61116880ffad7e4c2f) - 2025-09-17
 * [Commit] [Fix recovery queue size (#9288)](https://github.com/NethermindEth/nethermind/commit/d806ac109403e83f5603681fc1d0454c8aa054ea) - 2025-09-17
+* [Issue] [Fix error on empty slots.](https://github.com/NethermindEth/nethermind/issues/9312) - 2025-09-18
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

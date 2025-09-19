@@ -95,6 +95,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [call rman columns for now, until new syncer comes in](https://github.com/status-im/nimbus-eth2/pull/7484) - 2025-09-10
 * [Commit] [enforce that non-spec/forks code can't directly access most ForkDigests (#7478)](https://github.com/status-im/nimbus-eth2/commit/96f6d72370cddb6c8d8982315319dc6d5ef472e5) - 2025-09-11
 * [Pull Request] [finer column requests for rman](https://github.com/status-im/nimbus-eth2/pull/7488) - 2025-09-11
+* [Commit] [Cleanup validator change fetching (#7506)](https://github.com/status-im/nimbus-eth2/commit/2c4748addba0f2906da4ab685cc7f81606b35372) - 2025-09-18
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/6dedca79f184c77c87726c3ff13195c65c6a807b) - 2025-09-18
+* [Commit] [some more changes](https://github.com/status-im/nimbus-eth2/commit/4db0292cf69aea3bec7ecfbf3871d518d5a2a5cd) - 2025-09-18
+* [Pull Request] [attempt to solve columndb issue + fix cgc with non-validator issue](https://github.com/status-im/nimbus-eth2/pull/7507) - 2025-09-18
 ## Q2 2025
 
 

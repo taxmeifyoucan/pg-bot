@@ -107,6 +107,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [PeerDAS: Implement syncing in a disjoint network (Also know as "perfect PeerDAS" network). (#15644)](https://github.com/OffchainLabs/prysm/commit/2292d955a31c4d82166c3314eeb35e90cec4c5d1) - 2025-09-17
 * [Commit] [Retry logic for getBlobsV2 in peerDAS (#15520)](https://github.com/OffchainLabs/prysm/commit/600169a53b2cf75c204a67a053630f308dee0384) - 2025-09-17
 * [Commit] [test fixes and style fix[1]](https://github.com/OffchainLabs/prysm/commit/ad1001b8931f186a80f701c1eed3e538be5b55d3) - 2025-09-17
+* [Commit] [consistently use slot instead of version](https://github.com/OffchainLabs/prysm/commit/9493af1cdca7d0163902d5e4ae6feea2b3e254cf) - 2025-09-18
+* [Pull Request] [build sidecars during block publish](https://github.com/OffchainLabs/prysm/pull/15719) - 2025-09-18
+* [Commit] [build sidecars during block publish](https://github.com/OffchainLabs/prysm/commit/8a270d2a5cd8f968db177f7f5173fe0079a56b52) - 2025-09-18
+* [Commit] [fix tests that relied on blobs at genesis](https://github.com/OffchainLabs/prysm/commit/852f3d52d7f4fe317f476748bf9f4f82b9b3a35a) - 2025-09-18
 ## Q2 2025
 
 

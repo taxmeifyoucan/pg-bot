@@ -155,6 +155,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Change insertchain (#15688)](https://github.com/OffchainLabs/prysm/commit/88af3f90a579dbeeb786193ab4e9f1b4f2c50be4) - 2025-09-17
 * [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/fed6529f62286e36cae10dc55fbf07b7d7a5b7c5) - 2025-09-17
 * [Commit] [gofmt](https://github.com/OffchainLabs/prysm/commit/39767c38f54558b551f45b9b9174bf7fd64c8a67) - 2025-09-17
+* [Commit] [PeerDAS: Modify the reconstruction and reseed process. (#15705)](https://github.com/OffchainLabs/prysm/commit/c941e47b7e4343808a91b3bb2fce0da97497d7c1) - 2025-09-18
+* [Commit] [optimizing post merge and fixing tests](https://github.com/OffchainLabs/prysm/commit/622a775723318578f5088b79e6d7eced2ba9280d) - 2025-09-18
+* [Commit] [Fix misleading log msg on shutdown (#13063)](https://github.com/OffchainLabs/prysm/commit/5266d34a227892f72826e4140079aeebbeeba0d3) - 2025-09-18
+* [Commit] [fixing tests](https://github.com/OffchainLabs/prysm/commit/f0ec6a5bd500efd97df0081104e8b0aaa5fb6be6) - 2025-09-18
 ## Q2 2025
 
 

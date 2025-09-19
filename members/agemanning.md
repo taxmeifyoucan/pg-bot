@@ -25,6 +25,11 @@ Team: Lighthouse
 * [Pull Request] [Version bump to v0.10.1](https://github.com/sigp/discv5/pull/289) - 2025-09-16
 * [Commit] [Gracefully handle larger ENRs (#288)](https://github.com/sigp/discv5/commit/8946bbd844459478a303d5b5c1df4d9d7b5edf8f) - 2025-09-16
 * [Pull Request] [Gracefully handle larger ENRs](https://github.com/sigp/discv5/pull/288) - 2025-09-16
+* [Pull Request] [Remove ping optimization](https://github.com/sigp/discv5/pull/291) - 2025-09-18
+* [Pull Request] [Remove unnecessary k-bucket lookups](https://github.com/sigp/discv5/pull/290) - 2025-09-18
+
+[sigp/enr](https://github.com/sigp/enr)
+* [Commit] [Deprecate EIP-7636 code (#87)](https://github.com/sigp/enr/commit/08b92300f953f6b316d4259ac683291df7050172) - 2025-09-18
 ## Q2 2025
 
 

@@ -209,6 +209,7 @@ Team: Erigon
 * [Pull Request] [Caplin: prioritize head event (#17122)](https://github.com/erigontech/erigon/pull/17128) - 2025-09-16
 * [Commit] [Caplin: prioritize head event (#17122)](https://github.com/erigontech/erigon/commit/03101d54a0b35ceac0c9ec6ed6e3df4bc2bd410e) - 2025-09-16
 * [Pull Request] [Caplin: correct seconds-per-eth1-block](https://github.com/erigontech/erigon/pull/17127) - 2025-09-16
+* [Commit] [Improve performance of blob recovery (#17121)](https://github.com/erigontech/erigon/commit/09cd1c929f77639540cd53269e5e8d62bff97f64) - 2025-09-18
 ## Q2 2025
 
 

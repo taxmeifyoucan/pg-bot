@@ -239,6 +239,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [switch expression, improve comments](https://github.com/NethermindEth/nethermind/commit/3bc649ffe113634f2d9d7528148b37fc27069cea) - 2025-08-24
 * [Commit] [Use switch expression](https://github.com/NethermindEth/nethermind/commit/354c51c28374a639e634c4617a959736ad73ba04) - 2025-08-24
 * [Commit] [Remove State from Evm dependencies (#8866)](https://github.com/NethermindEth/nethermind/commit/977f864dcbcb94149d36fd943c38ad240be860af) - 2025-09-10
+* [Commit] [Fix empty slots error in SnapSync - return error status instead of throwing exception (#9313)](https://github.com/NethermindEth/nethermind/commit/198a2c9025f39d735142d3d9f2b7508a813a0d29) - 2025-09-18
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Is eth/69 including totalDifficulty in status message?](https://github.com/hyperledger/besu/issues/9006) - 2025-07-27
 

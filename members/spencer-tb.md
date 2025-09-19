@@ -144,6 +144,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [clients/erigon: no-downloader flag (#1338)](https://github.com/ethereum/hive/commit/992166bf76092e9517ab8faf84b9e03795fb959d) - 2025-09-04
 * [Commit] [feat(simulators): Add `eest/consume-sync` simulator (#1328)](https://github.com/ethereum/hive/commit/a27bbc7c1075526c50e26af56a0e6867d1616ce3) - 2025-09-09
 * [Pull Request] [simulators/eth/rpc: remove rpc in favor of rpc-compat](https://github.com/ethereum/hive/pull/1339) - 2025-09-09
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core/types/deposit: add extra validation for deposit requests](https://github.com/ethereum/go-ethereum/pull/32669) - 2025-09-18
 ## Q2 2025
 
 

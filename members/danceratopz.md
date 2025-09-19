@@ -169,6 +169,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 11b96b80f1a to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/c6c6395c23bffd10139be86f177e422added15e7) - 2025-09-17
 * [Commit] [chore(cli): fix reth eip-7825 tx gas limit cap exceptions (#2164)](https://github.com/ethereum/execution-spec-tests/commit/1105528141bd3ec1334090e4b14817f46ce139a7) - 2025-09-17
 * [Commit] [chore(tests): group mem-heavy tests together in xdist (#2153)](https://github.com/ethereum/execution-spec-tests/commit/11b96b80f1a9dad80766d3fedb51c3cc463b2011) - 2025-09-17
+* [Commit] [Deployed 8f872a05fda to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/6d762ca0f6b88f38659dddd2eaaec6de6d7b7497) - 2025-09-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 ## Q2 2025

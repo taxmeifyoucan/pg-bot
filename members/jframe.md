@@ -20,6 +20,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [cherry-pick 9085 into 25.8.0-RC2](https://github.com/hyperledger/besu/pull/9095) - 2025-08-21
 * [Commit] [log system call address and frame state when system call fails (#9094)](https://github.com/hyperledger/besu/commit/a5e78fec0bdba3665e84f3c93ad9a6480cb8566e) - 2025-08-21
 * [Commit] [Make the Bft expiry time algorithm configurable (#9085)](https://github.com/hyperledger/besu/commit/b2c579a117dbe377b2e98acd4f1dca6384266dd6) - 2025-08-21
+* [Issue] [ArrayIndexOutOfBoundsException selecting transactions for block](https://github.com/hyperledger/besu/issues/9187) - 2025-09-18
+* [Issue] [ConcurrentModificationException building blocks](https://github.com/hyperledger/besu/issues/9186) - 2025-09-18
 ## Q2 2025
 
 

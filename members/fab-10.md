@@ -28,6 +28,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Support multiple transaction selector plugins (#9139)](https://github.com/hyperledger/besu/commit/29f35161d3442dc0b7a0d098e8a50a1acd227971) - 2025-09-01
 * [Commit] [Force penalization for txs in timout during block production and shuffle sender CLI options](https://github.com/hyperledger/besu/commit/778b155fe901562f40fece94efc2fe294f351f29) - 2025-09-11
 * [Pull Request] [Implement optional sender balance checks in the layered txpool](https://github.com/hyperledger/besu/pull/9176) - 2025-09-12
+* [Pull Request] [Update layered txpool replay mechanism](https://github.com/hyperledger/besu/pull/9192) - 2025-09-18
+* [Pull Request] [Make the log of the block creation results more compact](https://github.com/hyperledger/besu/pull/9191) - 2025-09-18
 ## Q2 2025
 
 

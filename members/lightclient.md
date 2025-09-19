@@ -26,6 +26,9 @@ Team: Geth
 * [Commit] [p2p/discover: add discv5 invalid findnodes result test cases (#32481)](https://github.com/ethereum/go-ethereum/commit/276ed4848c59958cc7051a34f54d6d1763b479fa) - 2025-08-22
 * [Issue] [Convert existing legacy sidecars to new proof format](https://github.com/ethereum/go-ethereum/issues/32485) - 2025-08-22
 * [Pull Request] [params: use spaces instead of tabs in config description](https://github.com/ethereum/go-ethereum/pull/32564) - 2025-09-09
+* [Pull Request] [eth/catalyst: import new payload if at genesis, regardless of sync status](https://github.com/ethereum/go-ethereum/pull/32673) - 2025-09-18
+* [Issue] [Snap syncing at genesis of new network causes corrupt db](https://github.com/ethereum/go-ethereum/issues/32672) - 2025-09-18
+* [Pull Request] [core/txpool/blobpool: convert sidecars in-place after fork](https://github.com/ethereum/go-ethereum/pull/32670) - 2025-09-18
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [Minor cleanup to EthSimulateResult (#677)](https://github.com/ethereum/execution-apis/commit/bbf817f7f6404fc0d270f66a3c96f8737e6d7176) - 2025-07-23
 * [Commit] [Change eth_simulateV1 to use generic log object (#681)](https://github.com/ethereum/execution-apis/commit/b050556ffb7d69d9281af8d2ffd4096192715b7c) - 2025-08-11

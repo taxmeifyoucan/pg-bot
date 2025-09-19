@@ -23,6 +23,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Remove from GitHub Actions energyweb and volta chains sync (#9256)](https://github.com/NethermindEth/nethermind/commit/98af5c99c7db1571d2cfbfb51af4008774b4ebab) - 2025-09-15
 * [Commit] [Fix recovery queue size (#9288)](https://github.com/NethermindEth/nethermind/commit/d806ac109403e83f5603681fc1d0454c8aa054ea) - 2025-09-16
 * [Commit] [Cleanup/Simplify CodeInfoRepository registration. (#9243)](https://github.com/NethermindEth/nethermind/commit/7d34bdd47a4a93c806365ef704f260945f74a1a2) - 2025-09-16
+* [Commit] [Fix whitespace](https://github.com/NethermindEth/nethermind/commit/54716be6c62ff625f89501c497f31c3749f486a4) - 2025-09-18
+* [Commit] [Update packages (#9302)](https://github.com/NethermindEth/nethermind/commit/0e5dba9f207d192b4cef72c76245782bba5fe145) - 2025-09-18
 ## Q2 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

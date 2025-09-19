@@ -87,6 +87,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Bump the actions group with 5 updates (#597)](https://github.com/ethereum/c-kzg-4844/commit/5872db297ef13c7a45bcbb7e9f3458f6b15afe10) - 2025-09-11
 * [Commit] [Bump version to v2.1.3 (#602)](https://github.com/ethereum/c-kzg-4844/commit/936125db2d432ff306db5e21e1a4db29e1a7ea0d) - 2025-09-16
 * [Commit] [Remove tunable threshold in g1_lincomb_fast (#601)](https://github.com/ethereum/c-kzg-4844/commit/b6ac259a38143c3d4a2c84178ff42bb730d53a32) - 2025-09-16
+* [Commit] [Bump version to v2.1.4 (#605)](https://github.com/ethereum/c-kzg-4844/commit/a679ae566819cdbc4c9f50164246e44a0bf1cd19) - 2025-09-18
+* [Commit] [Document g1_lincomb_fast() when called as msm([]) (#606)](https://github.com/ethereum/c-kzg-4844/commit/28d0bf188fa07a399db9e51024cb9ae7caef59c9) - 2025-09-18
+* [Commit] [Revert blst to v0.3.15 (#604)](https://github.com/ethereum/c-kzg-4844/commit/b6f24440f19d11e5c9c5aa201f9d445ca304ec0f) - 2025-09-18
+* [Commit] [Add back point-at-infinity filtering in g1_lincomb_fast (#603)](https://github.com/ethereum/c-kzg-4844/commit/10ecadd6423904621a2c051885219c4a6a6f8286) - 2025-09-18
+* [Pull Request] [Bump version to v2.1.4](https://github.com/ethereum/c-kzg-4844/pull/605) - 2025-09-18
+* [Pull Request] [Revert blst to v0.3.15](https://github.com/ethereum/c-kzg-4844/pull/604) - 2025-09-18
+* [Pull Request] [Add back point-at-infinity filtering in g1_lincomb_fast](https://github.com/ethereum/c-kzg-4844/pull/603) - 2025-09-18
 ## Q2 2025
 
 
