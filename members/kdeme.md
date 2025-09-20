@@ -54,11 +54,17 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Portal docs: Update according to Portal rescope (#3684)](https://github.com/status-im/nimbus-eth1/commit/b8b1fd79c36f508ef9cf1d123ad5ccc5ee3dd32e) - 2025-09-16
 * [Pull Request] [Portal docs: Update according to Portal rescope](https://github.com/status-im/nimbus-eth1/pull/3684) - 2025-09-16
 * [Commit] [Portal: Add the nimbus portal client as client_info for Ping msg (#3690)](https://github.com/status-im/nimbus-eth1/commit/abf3d3bdafee70c82aa14b73b398908869bb26f3) - 2025-09-17
+* [Commit] [Portal: Change JSON-RPC port defaults client/bridge (#3700)](https://github.com/status-im/nimbus-eth1/commit/815449be49e59fefd0c493f55edad3f085509ec1) - 2025-09-19
+* [Commit] [Portal: Change JSON-RPC port defaults client/bridge](https://github.com/status-im/nimbus-eth1/commit/8dda629d628b4c246b890d24c313bd2720a43a59) - 2025-09-19
+* [Commit] [Portal: Fix debug_getBlockHeader number decode + rename method (#3697)](https://github.com/status-im/nimbus-eth1/commit/31ebce2076ee22b09bebc1acb195c5b814d64431) - 2025-09-19
+* [Pull Request] [Portal: Change JSON-RPC port defaults client/bridge](https://github.com/status-im/nimbus-eth1/pull/3700) - 2025-09-19
+* [Pull Request] [Portal: Fix debug_getBlockHeader number decode + rename method](https://github.com/status-im/nimbus-eth1/pull/3697) - 2025-09-19
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Pull Request] [Update Portal bootstrap nodes](https://github.com/ethereum/portal-network-specs/pull/413) - 2025-09-14
 
 [ethereum/glados](https://github.com/ethereum/glados)
 * [Pull Request] [Docker: Remove eth API flag in cli options](https://github.com/ethereum/glados/pull/457) - 2025-09-17
+* [Pull Request] [Docker: define the nimbus_portal_client RPC port to 8545](https://github.com/ethereum/glados/pull/458) - 2025-09-19
 ## Q2 2025
 
 

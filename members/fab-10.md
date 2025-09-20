@@ -30,6 +30,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Implement optional sender balance checks in the layered txpool](https://github.com/hyperledger/besu/pull/9176) - 2025-09-12
 * [Pull Request] [Update layered txpool replay mechanism](https://github.com/hyperledger/besu/pull/9192) - 2025-09-18
 * [Pull Request] [Make the log of the block creation results more compact](https://github.com/hyperledger/besu/pull/9191) - 2025-09-18
+* [Commit] [Time limited plugin txs selection (#9184) (#9198)](https://github.com/hyperledger/besu/commit/680c5b832c54214849db7738d2f4621c7048df45) - 2025-09-19
+* [Pull Request] [Backport: Time limited plugin txs selection ](https://github.com/hyperledger/besu/pull/9198) - 2025-09-19
+* [Commit] [Time limited plugin txs selection (#9184)](https://github.com/hyperledger/besu/commit/a7ef9f88dc296ef9a80087d6fffdfe489047bf2a) - 2025-09-19
+* [Commit] [Make the log of the block creation results more compact (#9191)](https://github.com/hyperledger/besu/commit/fe1ade7e8edde2c32d977a924dda201fc957be00) - 2025-09-19
 ## Q2 2025
 
 

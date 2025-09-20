@@ -75,6 +75,14 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Show feature specs on the website again (#4587)](https://github.com/ethereum/consensus-specs/commit/c62556baf6fcb5d869a037d647ea3de0927535d7) - 2025-09-15
 * [Commit] [Only create ssz_static tests in generator mode (#4596)](https://github.com/ethereum/consensus-specs/commit/340d23358a0cdb4f4b547226dadd36d1cf775f20) - 2025-09-17
 * [Pull Request] [Only create ssz_static tests in generator mode](https://github.com/ethereum/consensus-specs/pull/4596) - 2025-09-17
+* [Commit] [Bump version to v1.6.0-beta.0 (#4599)](https://github.com/ethereum/consensus-specs/commit/f0b3bcab81a9d6276e722818f7ea8e1f2a7e4da9) - 2025-09-19
+* [Commit] [Fix `filter_block_tree` note to use `checkpoint.root` (#4551)](https://github.com/ethereum/consensus-specs/commit/31cf2be251c3285bbb62706cfe712dff52dab80e) - 2025-09-19
+* [Commit] [eip7732: add attestation processing tests (#4564)](https://github.com/ethereum/consensus-specs/commit/1a90667180abcf5eb51facb2018313fc2748018e) - 2025-09-19
+* [Commit] [Add python version check to Makefile (#4588)](https://github.com/ethereum/consensus-specs/commit/c121a6e7033420e7ffe53e6fd9614e7045bf02b7) - 2025-09-19
+* [Commit] [eip7928: add `BeaconState` container definition (#4582)](https://github.com/ethereum/consensus-specs/commit/690802d006f82d51a972d9746b5b86a47047e6e5) - 2025-09-19
+* [Commit] [Port `blob_to_kzg_commitment` tests to pytest (#4541)](https://github.com/ethereum/consensus-specs/commit/1a1cc2500a3f092226cb1651b61b94368b1a3edf) - 2025-09-19
+* [Commit] [eip7732: Clean up `get_attestation_participation_flag_indices` (#4583)](https://github.com/ethereum/consensus-specs/commit/1e335041fa8e1cf49ff2b458351aa7c1476690e8) - 2025-09-19
+* [Commit] [eip7732: remove `latest_execution_payload_header` (#4598)](https://github.com/ethereum/consensus-specs/commit/4a4f8abc0b7535cd2108a5876995bcc2723ebd3b) - 2025-09-19
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

@@ -74,6 +74,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Fix issue with requesting current epoch proposer duties](https://github.com/grandinetech/grandine/commit/0ba638b618d24a81c692fee383e3221510a0ddae) - 2025-09-17
 * [Issue] [Add Gloas boilerplate](https://github.com/grandinetech/grandine/issues/379) - 2025-09-17
 * [Commit] [Ignore non-sampling data column sidecars](https://github.com/grandinetech/grandine/commit/b970e9d91cbe86bedd8ab6829f291bb2e97fad45) - 2025-09-17
+* [Commit] [Add Gloas boilerplate](https://github.com/grandinetech/grandine/commit/1d25a620dcad2e2a439c5fd7ada8c316982f7998) - 2025-09-19
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

@@ -133,6 +133,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): Update 7951 Checklist Markers (#2088)](https://github.com/ethereum/execution-spec-tests/commit/e9045fc2b581a7949a54015b6b63782086a30a29) - 2025-09-12
 * [Commit] [chore(ci): switch to chungus.](https://github.com/ethereum/execution-spec-tests/commit/fe1eb25b6b6774cd5cf6290cd2261290f5fea176) - 2025-09-12
 * [Commit] [feat(tests): Enforce EIP-7928 ordering rules (#2138)](https://github.com/ethereum/execution-spec-tests/commit/562fde148440cf1a6a80305dd899dd15d91f4c1e) - 2025-09-17
+* [Pull Request] [chore(tests): update high nonce static test exception for reth](https://github.com/ethereum/execution-spec-tests/pull/2181) - 2025-09-19
+* [Pull Request] [chore(tests): workaround for EIP-6110 deposit log checks](https://github.com/ethereum/execution-spec-tests/pull/2177) - 2025-09-19
+* [Commit] [fix: use `engine_newPayloadV5` for Glamsterdam (#2170)](https://github.com/ethereum/execution-spec-tests/commit/ef683b24b1fa603f6102cf94a05c930b0392249a) - 2025-09-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07
@@ -147,6 +150,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core/types/deposit: add extra validation for deposit requests](https://github.com/ethereum/go-ethereum/pull/32669) - 2025-09-18
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [chore(consensus): add eip6110 deposit log validation](https://github.com/paradigmxyz/reth/pull/18578) - 2025-09-19
 ## Q2 2025
 
 

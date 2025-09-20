@@ -158,6 +158,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: refine data column elapsedTimeTillReceived metric](https://github.com/ChainSafe/lodestar/pull/8423) - 2025-09-18
 * [Pull Request] [fix: DataColumSidecars recoverTime buckets](https://github.com/ChainSafe/lodestar/pull/8422) - 2025-09-18
 * [Commit] [fix: peerBalancer unit tests](https://github.com/ChainSafe/lodestar/commit/c8d0169550fe81b90557ac33431eaa4905f7b93a) - 2025-09-18
+* [Commit] [fix: remove unused import](https://github.com/ChainSafe/lodestar/commit/8b4c1d72de7f02442c60c4cba72390fa2daa6ac8) - 2025-09-19
+* [Pull Request] [fix: add log and metrics to ColumnReconstructionTracker](https://github.com/ChainSafe/lodestar/pull/8433) - 2025-09-19
+* [Commit] [fix: use counter metric and more logs](https://github.com/ChainSafe/lodestar/commit/d1e16ff5fcda07b17b6c680a853cc137b906e1f6) - 2025-09-19
+* [Commit] [fix: add NullResponse to enum](https://github.com/ChainSafe/lodestar/commit/5f46ba6cce365008ab9a81e7a0e4fe32ceded622) - 2025-09-19
+* [Pull Request] [chore: add logs and metrics to GetBlobsTracker](https://github.com/ChainSafe/lodestar/pull/8432) - 2025-09-19
+* [Pull Request] [chore: track BlockInputSync metrics](https://github.com/ChainSafe/lodestar/pull/8431) - 2025-09-19
+* [Pull Request] [fix: wait for block and all data](https://github.com/ChainSafe/lodestar/pull/8430) - 2025-09-19
+* [Pull Request] [fix: emit unknownParent event](https://github.com/ChainSafe/lodestar/pull/8429) - 2025-09-19
 ## Q2 2025
 
 

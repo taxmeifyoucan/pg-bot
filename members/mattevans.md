@@ -125,3 +125,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore: clean-up + redirects](https://github.com/ethpandaops/lab/pull/73) - 2025-09-17
 * [Commit] [feat: add block timing endpoint with primary key enrichment for efficient queries](https://github.com/ethpandaops/lab/commit/10e9453d9b3cd6b73738c4656aa452ec9ef5bc13) - 2025-09-18
 * [Pull Request] [feat: add block timing endpoint with PK enrichment for efficient filtering](https://github.com/ethpandaops/lab/pull/78) - 2025-09-18
+* [Commit] [refactor(middleware): replace global promauto metrics with centralized metrics service](https://github.com/ethpandaops/lab/commit/4975a19cf3fb978c6a08676666db4514af449439) - 2025-09-19
+* [Pull Request] [refactor(middleware): replace global promauto metrics with centralized metrics service](https://github.com/ethpandaops/lab/pull/82) - 2025-09-19
+* [Commit] [refactor(service.config.yaml): replace ethereum networks config with xatu_cbt datasource](https://github.com/ethpandaops/lab/commit/7cab62d4b1ace51e362bd1e69ad5f0bd440c777b) - 2025-09-19
+* [Commit] [feat: experiment cfg](https://github.com/ethpandaops/lab/commit/d36cff363e16babc7b0e8a1a91af477f53534b8c) - 2025-09-19
+* [Commit] [refactor: rename experiments slice to experimentConfigs for clarity](https://github.com/ethpandaops/lab/commit/205ef04715b3e04ef61ed934f825011dab5803f5) - 2025-09-19
+* [Pull Request] [feat: experiment cfg](https://github.com/ethpandaops/lab/pull/81) - 2025-09-19
+* [Commit] [refactor: remove unused ValidatorSet config and improve network selector UI](https://github.com/ethpandaops/lab/commit/81809fd9cbc3c2614f48591b6273f5ff9ea48669) - 2025-09-19
+* [Pull Request] [refactor: rewire + support devnets](https://github.com/ethpandaops/lab/pull/80) - 2025-09-19
+* [Commit] [refactor: replace ethereum client with wallclock service and xatu-cbt config](https://github.com/ethpandaops/lab/commit/208138834f07e162dbeeb6c313c83e83ad088129) - 2025-09-19

@@ -223,6 +223,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Issue] [Modularize the validate_against_state_and_deduct_caller function](https://github.com/bluealloy/revm/issues/2983) - 2025-09-17
 * [Commit] [bytecode is always some in CallInput](https://github.com/bluealloy/revm/commit/67ed74ec6f12788b52e4533a74d3f351c8b538f1) - 2025-09-17
 * [Commit] [feat(op-revm): Add an option to disable "fee-charge" on `op-revm` (#2980)](https://github.com/bluealloy/revm/commit/8972bc2bdcb5444dccb717589db33d75a626c78f) - 2025-09-17
+* [Pull Request] [fix: racecondition return on install_crypto fn](https://github.com/bluealloy/revm/pull/2997) - 2025-09-19
+* [Commit] [feat(op-revm): implement jovian operator fee fix (#2996)](https://github.com/bluealloy/revm/commit/9f054e4f83e263edfdde10b6245f1592abbda532) - 2025-09-19
+* [Commit] [more functions and op handler](https://github.com/bluealloy/revm/commit/2470e116bf5e74a0933e0cdb14446955dc78d86b) - 2025-09-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

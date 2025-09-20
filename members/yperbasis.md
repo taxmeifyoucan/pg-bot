@@ -207,6 +207,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [add more benchmarks](https://github.com/erigontech/erigon/commit/a7fa61973fe065eb0ecbedf808d104f96eebafec) - 2025-09-18
 * [Pull Request] [core/vm: use go-bigmodexpfix for modexp](https://github.com/erigontech/erigon/pull/17151) - 2025-09-18
 * [Commit] [core/vm: use go-bigmodexpfix for modexp](https://github.com/erigontech/erigon/commit/16f6b94737d6ee1edfbd1f4f3e4585229a4050b0) - 2025-09-18
+* [Commit] [Revert "CherryPick: API get blobs" (#17149)](https://github.com/erigontech/erigon/commit/d5e5e1e00823613d1d7660eaf64300c78d9f9ca8) - 2025-09-19
+* [Commit] [[main] fix of cp downgrade now remove new version unsupported files (#17157)](https://github.com/erigontech/erigon/commit/25e60f7bbee41d03eb301e824713d6037314f652) - 2025-09-19
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

@@ -24,3 +24,12 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Issue] [Feature request: Watch Mode for `uv run fill`](https://github.com/ethereum/execution-spec-tests/issues/2156) - 2025-09-16
 * [Commit] [✨ feat(tests): EIP-7928 parameterise OOG test case](https://github.com/ethereum/execution-spec-tests/commit/853435a2813da134a762799d8b0e04b2f99d921d) - 2025-09-17
 * [Pull Request] [feat(tests): EIP-7928 test cases for EIP-2930 transactions](https://github.com/ethereum/execution-spec-tests/pull/2167) - 2025-09-17
+
+* [Commit] [✨ feat(tests): EIP-7928 test_bal_self_transfer](https://github.com/ethereum/execution-spec-tests/commit/f56e9cb1e0e67f7973ce79e65edf2bd570b635e5) - 2025-09-19
+* [Pull Request] [✨ feat(tests): EIP-7928 No-op and adjacent test case](https://github.com/ethereum/execution-spec-tests/pull/2178) - 2025-09-19
+* [Commit] [🧹 chore(tests): Move to new test file](https://github.com/ethereum/execution-spec-tests/commit/296091dc819c174377e7de25a542fa0b8578b037) - 2025-09-19
+* [Commit] [🧹 chore(tests): Move to new test file](https://github.com/ethereum/execution-spec-tests/commit/73e22e43b7c19f5d095c40ae44676c30fbe02250) - 2025-09-19
+* [Commit] [🧹 chore(tests): Move to new test file](https://github.com/ethereum/execution-spec-tests/commit/bc71c0e834067865200123f9eb177a160901a694) - 2025-09-19
+* [Commit] [🧹 chore(tests): Move to new test file](https://github.com/ethereum/execution-spec-tests/commit/94a7cc5993352e33e56f3ae934ae0a4d7074a6bb) - 2025-09-19
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [EIP-7928 BAL does not include recipient of a zero-value transfer](https://github.com/ethereum/execution-specs/issues/1430) - 2025-09-19

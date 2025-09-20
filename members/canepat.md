@@ -78,6 +78,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [caplin: fix checkpoint sync timeout (#17077)](https://github.com/erigontech/erigon/commit/4f877a1c19d5d0c9029a914d1caea9cb7a42ffd6) - 2025-09-17
 * [Commit] [qa-tests: replace bor-mainnet with gnosis in sync-from-scratch minimal node (#17114)](https://github.com/erigontech/erigon/commit/d5fa555c65dc0f34d6478715c4c2f4aadd548be2) - 2025-09-18
 * [Commit] [fix JSON serialisation for empty calls](https://github.com/erigontech/erigon/commit/0c156a3232c3690f49442db7f4f9a1ce2b16896c) - 2025-09-18
+* [Commit] [Implement eth/69 (#15279)](https://github.com/erigontech/erigon/commit/a06fa3de2d0a9dd00649535a9f6ed8847d7ea205) - 2025-09-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14
@@ -103,6 +104,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [add tests](https://github.com/erigontech/rpc-tests/commit/4d71dae45b2b3fa80ee60dc0a89dc7f5b3605786) - 2025-09-17
 * [Commit] [Revert "integration: add eth_simulateV1 tests (#407)" (#457)](https://github.com/erigontech/rpc-tests/commit/76973e9492f2f066e9da68aab48dd9e75b9092f0) - 2025-09-18
 * [Pull Request] [Revert "integration: add eth_simulateV1 tests (#407)"](https://github.com/erigontech/rpc-tests/pull/457) - 2025-09-18
+* [Commit] [integration: add eth_simulateV1 tests (#407)](https://github.com/erigontech/rpc-tests/commit/da344d896dce988b9ab8dccff498b24bda151c0d) - 2025-09-19
+* [Pull Request] [integration: add eth_simulateV1 tests](https://github.com/erigontech/rpc-tests/pull/459) - 2025-09-19
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

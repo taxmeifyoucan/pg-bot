@@ -25,6 +25,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Improve CallDataCopyOperation worst case (#9152)](https://github.com/hyperledger/besu/commit/20a6797bb1ff410936f9938c633893831136d22e) - 2025-09-07
 * [Pull Request] [Improve EEST mod_vul_guido_3_even use case](https://github.com/hyperledger/besu/pull/9158) - 2025-09-07
 * [Commit] [Improve EEST mod_vul_guido_3_even use case (#9158)](https://github.com/hyperledger/besu/commit/6344f17ad1347e520bf41e2f924415b9db029d5b) - 2025-09-09
+* [Issue] [Release 25.9.0](https://github.com/hyperledger/besu/issues/9200) - 2025-09-19
+* [Commit] [Avoid recalculating the block header if we already have it. (#9193)](https://github.com/hyperledger/besu/commit/156a2f495c3e57e4fe14ce0e7d18f3693a41dc9e) - 2025-09-19
 ## Q2 2025
 
 

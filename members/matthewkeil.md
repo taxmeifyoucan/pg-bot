@@ -104,6 +104,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: pass testCaseName to spec testFunction to allow for case specific logic in a test case](https://github.com/ChainSafe/lodestar/commit/b041e321878e6cb50a6173373907a15f2b134010) - 2025-09-15
 * [Commit] [fix: small fixes and e2e test fix (#8420)](https://github.com/ChainSafe/lodestar/commit/0d70dde49e57cc9100c3e16f0c65dc542e5d1bf6) - 2025-09-18
 * [Issue] [need to add NetworkEvent.peerUpdated](https://github.com/ChainSafe/lodestar/issues/8424) - 2025-09-18
+* [Commit] [feat: refactor block input (#8200)](https://github.com/ChainSafe/lodestar/commit/a70bac5bd3602c4bcd7c1219e059bf4e99eca213) - 2025-09-19
 ## Q2 2025
 
 

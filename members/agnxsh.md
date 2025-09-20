@@ -99,6 +99,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/6dedca79f184c77c87726c3ff13195c65c6a807b) - 2025-09-18
 * [Commit] [some more changes](https://github.com/status-im/nimbus-eth2/commit/4db0292cf69aea3bec7ecfbf3871d518d5a2a5cd) - 2025-09-18
 * [Pull Request] [attempt to solve columndb issue + fix cgc with non-validator issue](https://github.com/status-im/nimbus-eth2/pull/7507) - 2025-09-18
+* [Commit] [make columnsOk false on validation failure](https://github.com/status-im/nimbus-eth2/commit/b6c1791bc6e565a484219c9ec59c10c8ab7bc2af) - 2025-09-19
+* [Commit] [break for saving some time](https://github.com/status-im/nimbus-eth2/commit/0ce8cc582d8ac8726295ecc8390b3475e93b0a2a) - 2025-09-19
+* [Pull Request] [fix of reported issues on dv5](https://github.com/status-im/nimbus-eth2/pull/7510) - 2025-09-19
 ## Q2 2025
 
 

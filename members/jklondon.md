@@ -167,6 +167,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/7d4aa3cb141906c61d6612111dcde90f4af6b802) - 2025-09-17
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/79e828d7538b17065121f861270b91736db7e285) - 2025-09-17
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/27c45eade3bc1429f94327f17660cbccc8a3f586) - 2025-09-17
+* [Commit] [[main] assert: deleted files revive (#17162)](https://github.com/erigontech/erigon/commit/d1565018ae5adc1cfb9d0e094faf33bf30cfbb9e) - 2025-09-19
+* [Pull Request] [[main] assert: deleted files revive](https://github.com/erigontech/erigon/pull/17162) - 2025-09-19
+* [Pull Request] [[main] reviwe `--verify.failfast`](https://github.com/erigontech/erigon/pull/17161) - 2025-09-19
+* [Commit] [[main] cp bf merger fix main (#17156)](https://github.com/erigontech/erigon/commit/3c7ca1533deca07cb829d7108effca62809aa1d3) - 2025-09-19
 ## Q2 2025
 
 

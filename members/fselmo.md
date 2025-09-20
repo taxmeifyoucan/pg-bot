@@ -22,3 +22,6 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(consume): Clarify mismatched fields on blockhash mismatch](https://github.com/ethereum/execution-spec-tests/pull/2126) - 2025-09-10
 * [Commit] [feat(tests): Add flexibility to expected absent scenarios for BALs (#2124)](https://github.com/ethereum/execution-spec-tests/commit/291fe00e65d82e05ca2bd5e7a49e4ac4a8c7a5b9) - 2025-09-17
 * [Pull Request] [refactor(bal): absence validators -> BalAccountAbsentValues](https://github.com/ethereum/execution-spec-tests/pull/2175) - 2025-09-19
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [Look into replacing `mypy` with `ty` once it is released](https://github.com/ethereum/execution-specs/issues/1431) - 2025-09-19

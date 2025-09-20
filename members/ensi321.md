@@ -31,6 +31,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update ExecutionPayloadStatus](https://github.com/ChainSafe/lodestar/commit/fede5820973b423f257947165e390beb93ef3944) - 2025-08-26
 * [Commit] [refactor: rename variables / functions related to committee vs. validator indices (#7687)](https://github.com/ChainSafe/lodestar/commit/d368818b1e5fe3d95dd10bf57dfd5aa77aad042a) - 2025-08-29
 * [Commit] [fix: don't log proposer boost reorg logs during sync (#8363)](https://github.com/ChainSafe/lodestar/commit/6953c24bc9ad2f20a0918bd3380aaffa0762e3ce) - 2025-09-11
+* [Commit] [Fix sync committee function calling](https://github.com/ChainSafe/lodestar/commit/741a43b1c4e18aaa31c2fce18f238a5b445fc637) - 2025-09-19
+* [Commit] [chore: remove parent beacon block root from execution payload rpc type (#8428)](https://github.com/ChainSafe/lodestar/commit/5e2a80008e91c193802a602a156172c9b1060d8c) - 2025-09-19
 ## Q2 2025
 
 

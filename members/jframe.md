@@ -22,6 +22,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [Make the Bft expiry time algorithm configurable (#9085)](https://github.com/hyperledger/besu/commit/b2c579a117dbe377b2e98acd4f1dca6384266dd6) - 2025-08-21
 * [Issue] [ArrayIndexOutOfBoundsException selecting transactions for block](https://github.com/hyperledger/besu/issues/9187) - 2025-09-18
 * [Issue] [ConcurrentModificationException building blocks](https://github.com/hyperledger/besu/issues/9186) - 2025-09-18
+* [Pull Request] [Update Fusaka forks for testnets](https://github.com/hyperledger/besu/pull/9196) - 2025-09-19
+* [Commit] [disable bal for transaction selection when not activated (#9189)](https://github.com/hyperledger/besu/commit/067792362b981f9cdb0c37f330bc45088b168a35) - 2025-09-19
 ## Q2 2025
 
 

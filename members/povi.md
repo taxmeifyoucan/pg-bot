@@ -53,6 +53,7 @@ Team: Grandine
 * [Commit] [Validate data column sidecars with mid priority](https://github.com/grandinetech/grandine/commit/212000f606570acb5ddc516ad203a4d23b17453d) - 2025-09-17
 * [Commit] [Backfill custody group columns](https://github.com/grandinetech/grandine/commit/3e0edde5a40d85c9a44520d995abc8c8864f62de) - 2025-09-18
 * [Commit] [Backfill custody group columns](https://github.com/grandinetech/grandine/commit/784525f138400b42f1747a88ab7cb0f9c0760dcb) - 2025-09-18
+* [Commit] [Make sure earliest available slot is updated after backfill finishes](https://github.com/grandinetech/grandine/commit/74025342992b980733ed3f7b8e8cf597ac780604) - 2025-09-19
 ## Q2 2025
 
 

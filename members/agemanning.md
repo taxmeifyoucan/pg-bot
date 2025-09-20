@@ -28,6 +28,18 @@ Team: Lighthouse
 * [Pull Request] [Remove ping optimization](https://github.com/sigp/discv5/pull/291) - 2025-09-18
 * [Pull Request] [Remove unnecessary k-bucket lookups](https://github.com/sigp/discv5/pull/290) - 2025-09-18
 
+* [Commit] [Version bump to v0.10.2 (#293)](https://github.com/sigp/discv5/commit/021145b267927fabd5a1323dd7bee55e0a46ae5a) - 2025-09-19
+* [Commit] [Announce only clear IP winner (#292)](https://github.com/sigp/discv5/commit/42d6ac55de3c779e78bfbfeca3d0da1bb9adbf11) - 2025-09-19
+* [Pull Request] [Version bump to v0.10.2](https://github.com/sigp/discv5/pull/293) - 2025-09-19
+* [Commit] [Fmt](https://github.com/sigp/discv5/commit/034854c52e99b80ff607d2ef77d712186da07cf5) - 2025-09-19
+* [Commit] [Remove strict ip vote condition, just rely on margins](https://github.com/sigp/discv5/commit/a36b88217e6da001402c1d0c3082de6bc41e3294) - 2025-09-19
+* [Commit] [Clean up some comments](https://github.com/sigp/discv5/commit/0ed467cb3996bca3d9bd8dc22124125e70447368) - 2025-09-19
+* [Commit] [Remove ping optimization (#291)](https://github.com/sigp/discv5/commit/e9e14ef641aba6e36d99648dbe73d9eda5b93866) - 2025-09-19
+* [Commit] [Use NodeContact instead of Enr for sending talk_req() (#279)](https://github.com/sigp/discv5/commit/e2ac53b8f68985671587d0567c051b1c734dfff1) - 2025-09-19
+* [Commit] [Add condition that no winner if two above min threshold](https://github.com/sigp/discv5/commit/86227a350a1a15ffbcaa74906d5ae8c136f572c1) - 2025-09-19
+* [Commit] [Fmt](https://github.com/sigp/discv5/commit/4e9ab2e687b0998ed2fbf6b987e39a68d517c048) - 2025-09-19
+* [Commit] [Remove unnecessary k-bucket lookups (#290)](https://github.com/sigp/discv5/commit/a472fc32e14b0909a9d12eb590a903851dd64226) - 2025-09-19
+* [Pull Request] [Announce only clear IP winner](https://github.com/sigp/discv5/pull/292) - 2025-09-19
 [sigp/enr](https://github.com/sigp/enr)
 * [Commit] [Deprecate EIP-7636 code (#87)](https://github.com/sigp/enr/commit/08b92300f953f6b316d4259ac683291df7050172) - 2025-09-18
 ## Q2 2025

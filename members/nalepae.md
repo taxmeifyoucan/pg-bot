@@ -198,6 +198,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Sort sidecars by index before calling `RecoverCellsAndKZGProofs`.](https://github.com/OffchainLabs/prysm/commit/f58e616a694aa70789b61c19f4d438a8d54b0937) - 2025-09-18
 * [Commit] [Sort sidecars by index before calling `RecoverCellsAndKZGProofs`.](https://github.com/OffchainLabs/prysm/commit/23e4c9cbfc197f7f0bc50406f1183eaeb4ba8ad3) - 2025-09-18
 * [Commit] [blst: Change from blst from http_archive to go_repository](https://github.com/OffchainLabs/prysm/commit/fee1e4c704adc51badc3502098b1694942bc42eb) - 2025-09-18
+* [Pull Request] [Fix orphaned blocks](https://github.com/OffchainLabs/prysm/pull/15720) - 2025-09-19
+* [Commit] [Add more time markers](https://github.com/OffchainLabs/prysm/commit/293a37bef171641e0ab45bb0d5d420c0208b9cad) - 2025-09-19
+* [Commit] [Add a lot of time markers](https://github.com/OffchainLabs/prysm/commit/b99cf362a5b1e859bb4e5317fb502675d7a947c8) - 2025-09-19
 ## Q2 2025
 
 

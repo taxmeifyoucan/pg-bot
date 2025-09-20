@@ -67,6 +67,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Fix RLP](https://github.com/erigontech/erigon/commit/1a2c47c3278dab5aae9f2640eb356fd002e53fc7) - 2025-09-16
 * [Commit] [Use mutex](https://github.com/erigontech/erigon/commit/f97f55143e7b32ef78cf373435c32c46ab726ada) - 2025-09-16
 * [Commit] [Fix lint](https://github.com/erigontech/erigon/commit/988e85339a626ed24048a3eaa180f3753acc56ad) - 2025-09-17
+* [Commit] [Revert "Version negotiation"](https://github.com/erigontech/erigon/commit/dbad63b450deb0a43d7635196e096ceac887b329) - 2025-09-19
+* [Commit] [rm eth69 default](https://github.com/erigontech/erigon/commit/93da08b93a90d61593146616eeca64046bf7d4d1) - 2025-09-19
+* [Commit] [Configurable sideprotocols](https://github.com/erigontech/erigon/commit/4ecb6806c8873544f73b2744676c4de57aae3273) - 2025-09-19
+* [Commit] [Update protobufs](https://github.com/erigontech/erigon/commit/4ee0ef785cdd46606485778599ec28fee2ae42dc) - 2025-09-19
+* [Commit] [downgrade now remove new version unsupported files (#16865)](https://github.com/erigontech/erigon/commit/5375616091e025740a90180e1be4f3655d8371b7) - 2025-09-19
+* [Commit] [Version negotiation](https://github.com/erigontech/erigon/commit/005d53f2685214414c965d646180f736816b1b94) - 2025-09-19
 ## Q2 2025
 
 

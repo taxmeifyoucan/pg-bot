@@ -125,6 +125,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: pr review](https://github.com/ChainSafe/lodestar/commit/2461350c6878b1ce9a101e20e18ffa71592ee693) - 2025-09-17
 * [Pull Request] [fix: small fixes and e2e test fix](https://github.com/ChainSafe/lodestar/pull/8420) - 2025-09-17
 * [Commit] [chore: use latest TS module resolution (#8419)](https://github.com/ChainSafe/lodestar/commit/0c6f50771f49be8baa0d84c54bab9819f4bdfa8f) - 2025-09-18
+* [Commit] [feat: add pattern for runtime specific package dependencies (#8320)](https://github.com/ChainSafe/lodestar/commit/7a3b3a996eb35bc7b7bd4a361eabac711d2ace1b) - 2025-09-19
+* [Commit] [chore: update few type safety rules for linting (#8391)](https://github.com/ChainSafe/lodestar/commit/83964b4452c423c52a7ca390dc9885d830d67f89) - 2025-09-19
+* [Commit] [Update packages/beacon-node/src/chain/ColumnReconstructionTracker.ts](https://github.com/ChainSafe/lodestar/commit/4ed715a987a69ee3f546559e5314f187a6ec0101) - 2025-09-19
+* [Commit] [fix: add log and metrics to ColumnReconstructionTracker (#8433)](https://github.com/ChainSafe/lodestar/commit/36a31f3a2ffd9c1ea867b38ef60c7239cf0b3969) - 2025-09-19
+* [Commit] [fix: wait for block and all data (#8430)](https://github.com/ChainSafe/lodestar/commit/5c65fa3b36149a0973500e9da5371fafb5cc42aa) - 2025-09-19
+* [Commit] [feat: schedule fulu and BPOs on holesky (#8435)](https://github.com/ChainSafe/lodestar/commit/48a8beea92ec3b70d4d7f148d9e0b99e46b6cc0c) - 2025-09-19
+* [Commit] [Update packages/beacon-node/src/chain/ColumnReconstructionTracker.ts](https://github.com/ChainSafe/lodestar/commit/1f1b3b1bea7bc5630c452f8c0b2e4980e41ffeb5) - 2025-09-19
+* [Commit] [chore: add logs and metrics to GetBlobsTracker (#8432)](https://github.com/ChainSafe/lodestar/commit/c20158159f93852adb66c6722e6059df55a3e9c9) - 2025-09-19
+* [Commit] [fix: emit unknownParent event (#8429)](https://github.com/ChainSafe/lodestar/commit/200e2443d43b2916ab0433c3d0611a587340cdc4) - 2025-09-19
+* [Commit] [Update packages/beacon-node/src/chain/ColumnReconstructionTracker.ts](https://github.com/ChainSafe/lodestar/commit/cf85e5747f820e11dce598ce5bef61978091fb61) - 2025-09-19
 ## Q2 2025
 
 

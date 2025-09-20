@@ -189,6 +189,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Disable concurrent requests in legacy sync manager (#7491)](https://github.com/status-im/nimbus-eth2/commit/30d6e8cd79beeeec2b005a0b3b88a4b185441c84) - 2025-09-15
 * [Pull Request] [revert nim-kzg4844](https://github.com/status-im/nimbus-eth2/pull/7502) - 2025-09-15
 * [Commit] [attempt to solve columndb issue + fix cgc with non-validator issue (#7507)](https://github.com/status-im/nimbus-eth2/commit/e120bddac73300f011345b551dca4a37cc4c92e1) - 2025-09-18
+* [Commit] [fix of reported issues on dv5 (#7510)](https://github.com/status-im/nimbus-eth2/commit/6d397b6c02423363d7a018123b1d1e412646bfb9) - 2025-09-19
+* [Pull Request] [Revert "Parallel reconstruction (unstable branch)"](https://github.com/status-im/nimbus-eth2/pull/7509) - 2025-09-19
+* [Commit] [bump nim-kzg4844 to 6715be0e276ceb19f830e087e4a02f7ba586833f for c-kzg v2.1.4 (#7508)](https://github.com/status-im/nimbus-eth2/commit/1e9cd5e223d4a116bc23bc1d0226e406d912d886) - 2025-09-19
+* [Pull Request] [bump nim-kzg4844 to 6715be0e276ceb19f830e087e4a02f7ba586833f for c-kzg v2.1.4](https://github.com/status-im/nimbus-eth2/pull/7508) - 2025-09-19
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

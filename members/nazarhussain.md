@@ -122,6 +122,22 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [deps: upgrade typescript to 5.9 (#8412)](https://github.com/ChainSafe/lodestar/commit/c88a6ed255e379e909f0575a9f9a8b6943da6418) - 2025-09-16
 * [Commit] [update the usage of resource limits](https://github.com/ChainSafe/lodestar/commit/5f1e5ffae915edd2ec7c85291df4d7d6a6d6d710) - 2025-09-17
 * [Commit] [fix: restore data column sidecars prune log (#8388)](https://github.com/ChainSafe/lodestar/commit/8cacf063da660265914706a0c733582adeeb1665) - 2025-09-17
+* [Commit] [add catch log for floating promise](https://github.com/ChainSafe/lodestar/commit/268e731a09d2b86d47a8cbd555d26238b2c754c1) - 2025-09-19
+* [Commit] [fix: correctly count requested data column sidecars in rate limiter (#8436)](https://github.com/ChainSafe/lodestar/commit/af97dd977fa695df2c6370bbef29b9b4349fada5) - 2025-09-19
+* [Commit] [Revert change for the worker resourceLimit](https://github.com/ChainSafe/lodestar/commit/79262c901bcdaaea7917ce54749c329534190326) - 2025-09-19
+* [Commit] [Update log message](https://github.com/ChainSafe/lodestar/commit/83d5d580b53687d44102e26f60bccc03e48950e2) - 2025-09-19
+* [Commit] [Reorder exports to have 'types' before others](https://github.com/ChainSafe/lodestar/commit/26bcf32f63e464dbfbc1cb728895ee5420123f65) - 2025-09-19
+* [Commit] [Log error not as context](https://github.com/ChainSafe/lodestar/commit/904b8ef066039d90284118815f4632d3b5a63c8d) - 2025-09-19
+* [Commit] [Fix import order after merge](https://github.com/ChainSafe/lodestar/commit/3d8b27e4a22a46c8ae8c79d70631f0c22b644c7f) - 2025-09-19
+* [Commit] [Update organize import order](https://github.com/ChainSafe/lodestar/commit/93aa94f201d99b115a760e1526d5ea41b55cd07b) - 2025-09-19
+* [Commit] [fix: use proper check in computeColumnsForCustodyGroup (#8414)](https://github.com/ChainSafe/lodestar/commit/811265f1e2347265a77a88454437d37f7804b7db) - 2025-09-19
+* [Commit] [Fix types export](https://github.com/ChainSafe/lodestar/commit/5d12469a3e28f37797a44288b198be5ce361e730) - 2025-09-19
+* [Commit] [Fix types export](https://github.com/ChainSafe/lodestar/commit/64c7bd22399f107edb2987182b774cdce61d137f) - 2025-09-19
+* [Pull Request] [chore: cleanup types exports for all packages](https://github.com/ChainSafe/lodestar/pull/8434) - 2025-09-19
+* [Commit] [fix: restore data column sidecars prune log (#8388)](https://github.com/ChainSafe/lodestar/commit/8cacf063da660265914706a0c733582adeeb1665) - 2025-09-19
+* [Commit] [Remove blank lines among import groups](https://github.com/ChainSafe/lodestar/commit/2ba3a3c4654ba879593e4012e541e6fa0eb51761) - 2025-09-19
+* [Commit] [Update biome organizeImports](https://github.com/ChainSafe/lodestar/commit/45ec19e5765a9e7b4972d33eb9734967b2fee0bf) - 2025-09-19
+* [Commit] [deps: upgrade typescript to 5.9 (#8412)](https://github.com/ChainSafe/lodestar/commit/c88a6ed255e379e909f0575a9f9a8b6943da6418) - 2025-09-19
 ## Q2 2025
 
 

@@ -67,11 +67,17 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Refactor precompiles traits and lookups (#1308)](https://github.com/ipsilon/evmone/commit/3400f4240be08a86b81842fe332f43881e33b073) - 2025-09-10
 * [Commit] [Refactor precompiles traits and lookups](https://github.com/ipsilon/evmone/commit/f9e71ea743900a38631492c0ab227d6d46ae5260) - 2025-09-10
 * [Pull Request] [Refactor precompiles traits and lookups](https://github.com/ipsilon/evmone/pull/1308) - 2025-09-10
+* [Commit] [ci: Switch CircleCI to self-hosted runners (#1315)](https://github.com/ipsilon/evmone/commit/3dd53501c309a8631558222ad39fadd8da985910) - 2025-09-19
+* [Pull Request] [ci: Switch CircleCI to self-hosted runners](https://github.com/ipsilon/evmone/pull/1315) - 2025-09-19
+* [Commit] [ci: Switch CircleCI to self-hosted runners](https://github.com/ipsilon/evmone/commit/62760b7bca18d2202eac3ebea7e59187d105b481) - 2025-09-19
+* [Commit] [ci: Switch CircleCI to self-hosted runners](https://github.com/ipsilon/evmone/commit/bc70a6e44ac8a46f9ac1e0bd3978b9e5d9bf238a) - 2025-09-19
+* [Commit] [ci: Switch CircleCI to self-hosted runners](https://github.com/ipsilon/evmone/commit/88f55c4019ff8e090b07476f11b101570f5467d8) - 2025-09-19
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 
 * [Pull Request] [feat(tests): add more EIP-7823 modexp limit tests](https://github.com/ethereum/execution-spec-tests/pull/2042) - 2025-08-15
 * [Issue] [Port evmone test cases](https://github.com/ethereum/execution-spec-tests/issues/2129) - 2025-09-11
+* [Pull Request] [feat(tests): add correct P256 precompile tests for invalid point](https://github.com/ethereum/execution-spec-tests/pull/2179) - 2025-09-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Paweł Bylica to Erigon](https://github.com/protocolguild/documentation/pull/389) - 2025-07-27
 ## Q2 2025

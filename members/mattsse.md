@@ -214,6 +214,13 @@ Team: Reth
 * [Pull Request] [chore: remove type aliases](https://github.com/paradigmxyz/reth/pull/18433) - 2025-09-14
 * [Commit] [chore(deps): weekly `cargo update` (#18431)](https://github.com/paradigmxyz/reth/commit/2408586a515a5ee4af9d18e4224e9cd5da10bcce) - 2025-09-14
 * [Commit] [feat: more flexible rpc receipts (#18501)](https://github.com/paradigmxyz/reth/commit/bf58089286b3007986cd9ddabfd69b1785d01466) - 2025-09-16
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/2ac8b7fbd8fd69967904fce430329326d0574c28) - 2025-09-19
+* [Pull Request] [fix: disable block gas limit](https://github.com/paradigmxyz/reth/pull/18583) - 2025-09-19
+* [Pull Request] [test: add test case for op tx env conversion](https://github.com/paradigmxyz/reth/pull/18581) - 2025-09-19
+* [Issue] [Update to edition 2024](https://github.com/paradigmxyz/reth/issues/18572) - 2025-09-19
+* [Issue] [Add fusaka testnet timestamps](https://github.com/paradigmxyz/reth/issues/18571) - 2025-09-19
+* [Commit] [docs: additional docs](https://github.com/paradigmxyz/reth/commit/dd8c6d5059ea8b9279a51028e76af2f22ce3d1e5) - 2025-09-19
+* [Commit] [chore(evm): add public constructor to `BlockAssemblerInput` (#18559)](https://github.com/paradigmxyz/reth/commit/4fcc4457c144a41df443c1b297e58ccbe91735c1) - 2025-09-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

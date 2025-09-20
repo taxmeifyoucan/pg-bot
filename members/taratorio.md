@@ -195,6 +195,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/tests: fix unclean exit in engine api tests](https://github.com/erigontech/erigon/commit/888e5b2b6e9f937f15548509f0811faaf89d44c9) - 2025-09-15
 * [Commit] [execution/aa: move aa code to el (#17117)](https://github.com/erigontech/erigon/commit/62c8281c929bef6e6ac1c61d8b66129389fb8e32) - 2025-09-16
 * [Commit] [Implement eth/69 (#15279)](https://github.com/erigontech/erigon/commit/a06fa3de2d0a9dd00649535a9f6ed8847d7ea205) - 2025-09-18
+* [Commit] [execution: temporarily remove eth/69 from defaults to unblock hive tests (#17166)](https://github.com/erigontech/erigon/commit/a29948de33065144a9378d45b3a161942e8637e7) - 2025-09-19
+* [Pull Request] [execution: temporarily remove eth/69 from defaults to unblock hive tests](https://github.com/erigontech/erigon/pull/17166) - 2025-09-19
+* [Pull Request] [execution: store changesets for last MaxReorgDepth blocks after initial cycle](https://github.com/erigontech/erigon/pull/17165) - 2025-09-19
+* [Commit] [execution/tests: move transactor from shutter (#17163)](https://github.com/erigontech/erigon/commit/0ba170e09db1089739595127a4a35bd505f8fe18) - 2025-09-19
+* [Commit] [execution/engineapi: allow for configurable retryable errs in engineapi jsonrpc client (#17164)](https://github.com/erigontech/erigon/commit/fb912d5ace6f45f440f559382b61dd7c61e8ea1c) - 2025-09-19
+* [Commit] [fi](https://github.com/erigontech/erigon/commit/3ad9aff4a0f3fd58fd46377fa23dace7a23e0a56) - 2025-09-19
+* [Pull Request] [execution/engineapi: allow for configurable retryable errs in engineapi jsonrpc client](https://github.com/erigontech/erigon/pull/17164) - 2025-09-19
+* [Pull Request] [execution/tests: move transactor from shutter](https://github.com/erigontech/erigon/pull/17163) - 2025-09-19
 ## Q2 2025
 
 

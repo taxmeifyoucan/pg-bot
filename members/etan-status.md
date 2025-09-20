@@ -25,6 +25,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update EIP-7773: Propose EIP-7688 for Glamsterdam](https://github.com/ethereum/EIPs/pull/10238) - 2025-08-28
 * [Pull Request] [Add EIP: Split CompatibleUnion from EIP-7495](https://github.com/ethereum/EIPs/pull/10234) - 2025-08-28
 * [Pull Request] [Update EIP-7495: Mix-in selector for CompatibleUnion](https://github.com/ethereum/EIPs/pull/10233) - 2025-08-28
+* [Pull Request] [Update EIP-7688: Add IndexedAttestation as cleanup opportunity](https://github.com/ethereum/EIPs/pull/10366) - 2025-09-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add EIP-7916 ProgressiveList specs and tests](https://github.com/ethereum/consensus-specs/pull/4445) - 2025-07-16
 

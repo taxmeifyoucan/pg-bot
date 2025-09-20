@@ -125,6 +125,9 @@ Team: Reth
 * [Commit] [refactor: improve storage slot search to split B256 space](https://github.com/paradigmxyz/reth/commit/8cbe9b6b34b4849c53ba231f62da632952bfab87) - 2025-09-05
 * [Pull Request] [ci: pin Rust to 1.88 when building for Windows in Cross](https://github.com/paradigmxyz/reth/pull/18320) - 2025-09-08
 * [Pull Request] [refactor(engine): persistence logic](https://github.com/paradigmxyz/reth/pull/18318) - 2025-09-08
+* [Commit] [fix(reth-bench): do not panic on empty results](https://github.com/paradigmxyz/reth/commit/82560e4b626a5dbd3e6f879f452392519a098a5e) - 2025-09-19
+* [Pull Request] [fix(reth-bench): do not panic on empty results](https://github.com/paradigmxyz/reth/pull/18570) - 2025-09-19
+* [Issue] [`reth report` command to send debugging information to developers](https://github.com/paradigmxyz/reth/issues/18569) - 2025-09-19
 ## Q2 2025
 
 

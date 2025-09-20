@@ -88,6 +88,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Update execution_chain/db/aristo/aristo_compute.nim](https://github.com/status-im/nimbus-eth1/commit/0419fdee61035070103308911f6af0b22215f297) - 2025-09-14
 * [Commit] [Fix test compile.](https://github.com/status-im/nimbus-eth1/commit/c915f66264a76eb1fa3645a9cdf07c4e1caa7af8) - 2025-09-16
 * [Commit] [Use eest_develop and add makefile target.](https://github.com/status-im/nimbus-eth1/commit/ec827491b87d53ffbdd61ef80d948806fef3dec3) - 2025-09-16
+* [Commit] [Skip snapshot when creating the checkpoint.](https://github.com/status-im/nimbus-eth1/commit/056edc235aec2c1846966d1fc9b39b6bc12fc395) - 2025-09-19
+* [Commit] [Use raw async functions when creating handlers in ForkedChain (#3694)](https://github.com/status-im/nimbus-eth1/commit/c859f168f8c18b52b86772d257c84e80d0d70c1e) - 2025-09-19
+* [Pull Request] [Fix crash due to missing checkpoint on shutdown during sync](https://github.com/status-im/nimbus-eth1/pull/3695) - 2025-09-19
+* [Pull Request] [Use raw async functions when creating handlers in ForkedChain](https://github.com/status-im/nimbus-eth1/pull/3694) - 2025-09-19
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

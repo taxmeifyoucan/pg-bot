@@ -111,6 +111,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Pull Request] [build sidecars during block publish](https://github.com/OffchainLabs/prysm/pull/15719) - 2025-09-18
 * [Commit] [build sidecars during block publish](https://github.com/OffchainLabs/prysm/commit/8a270d2a5cd8f968db177f7f5173fe0079a56b52) - 2025-09-18
 * [Commit] [fix tests that relied on blobs at genesis](https://github.com/OffchainLabs/prysm/commit/852f3d52d7f4fe317f476748bf9f4f82b9b3a35a) - 2025-09-18
+* [Commit] [only compute common info once, for all sidecars](https://github.com/OffchainLabs/prysm/commit/73c63a358a6cd4b1ca6f5ee8491eb6e8f0cb8fce) - 2025-09-19
 ## Q2 2025
 
 

@@ -159,6 +159,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [optimizing post merge and fixing tests](https://github.com/OffchainLabs/prysm/commit/622a775723318578f5088b79e6d7eced2ba9280d) - 2025-09-18
 * [Commit] [Fix misleading log msg on shutdown (#13063)](https://github.com/OffchainLabs/prysm/commit/5266d34a227892f72826e4140079aeebbeeba0d3) - 2025-09-18
 * [Commit] [fixing tests](https://github.com/OffchainLabs/prysm/commit/f0ec6a5bd500efd97df0081104e8b0aaa5fb6be6) - 2025-09-18
+* [Commit] [Fix prysmctl panic when baseFee is not set in genesis.json (#15687)](https://github.com/OffchainLabs/prysm/commit/6b89d839f630b486829668d9ad644d4386c96d33) - 2025-09-19
+* [Commit] [reverting and gaz](https://github.com/OffchainLabs/prysm/commit/72753c2cd55526f30b880a94b61bba42da13b194) - 2025-09-19
+* [Commit] [ adding some of radek's feedback](https://github.com/OffchainLabs/prysm/commit/26b38bdbeae38bdce29e4209faedf371da9adae9) - 2025-09-19
+* [Commit] [Update beacon-chain/rpc/lookup/blocker.go](https://github.com/OffchainLabs/prysm/commit/dbeb597dd41c721c8d5f3ecf123b4e1e73f22049) - 2025-09-19
+* [Commit] [Update beacon-chain/rpc/lookup/blocker.go](https://github.com/OffchainLabs/prysm/commit/1b763e4adbbdba2a0fef2800bace96b5f7ebbba6) - 2025-09-19
+* [Commit] [Update beacon-chain/rpc/lookup/blocker.go](https://github.com/OffchainLabs/prysm/commit/7acd17c579940dd115a838eac49247ac6641db91) - 2025-09-19
+* [Commit] [Update beacon-chain/rpc/eth/debug/handlers.go](https://github.com/OffchainLabs/prysm/commit/d806115516e7daf47da270ea0325de3e86d0c64c) - 2025-09-19
+* [Commit] [Update beacon-chain/rpc/eth/debug/handlers.go](https://github.com/OffchainLabs/prysm/commit/e2355af4751f4f4670f374f7cb82668c7f997dbd) - 2025-09-19
 ## Q2 2025
 
 

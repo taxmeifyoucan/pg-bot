@@ -158,6 +158,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [make bal a journal](https://github.com/NethermindEth/nethermind/commit/f0e7d59a1fa32da10a44857c926c9c9d191be695) - 2025-09-11
 * [Commit] [don't record zero nonce change](https://github.com/NethermindEth/nethermind/commit/8c2503ca3bf9e53355c4d8b8a8698a75ce9a46fb) - 2025-09-12
 * [Commit] [string encoding](https://github.com/NethermindEth/nethermind/commit/894f5c84cd00dec0db84fac7cde6062a3e5a836c) - 2025-09-18
+* [Commit] [fork info tests](https://github.com/NethermindEth/nethermind/commit/a2101824a469caa3b13ab9abff5e44ffcd3465b0) - 2025-09-19
+* [Commit] [fix hoodi spec provider timestamp, getlatest](https://github.com/NethermindEth/nethermind/commit/123626e220500c3196a1262138b527fdfbb0e22b) - 2025-09-19
+* [Commit] [verify osaka specifics](https://github.com/NethermindEth/nethermind/commit/30b7b9bc7fd449f9c9e3a6018052cc153b64e52a) - 2025-09-19
+* [Commit] [fix chainspecs](https://github.com/NethermindEth/nethermind/commit/6656b9ffe51bfd03b5b690991e5dc334e01a805f) - 2025-09-19
+* [Commit] [bpo forks](https://github.com/NethermindEth/nethermind/commit/bdf8ca9c32f387f7ced698f7c52a96e36d52ef31) - 2025-09-19
+* [Commit] [activations](https://github.com/NethermindEth/nethermind/commit/02c309b453cb5348d83b5b80c3846b756ea0bf48) - 2025-09-19
+* [Commit] [add to specproviders and tests](https://github.com/NethermindEth/nethermind/commit/a6e31c53abdc093d6821382547b953294c6fb871) - 2025-09-19
+* [Commit] [fix hoodi](https://github.com/NethermindEth/nethermind/commit/50b591c80154ecb4ef45e5ca88af993333fd2a7c) - 2025-09-19
+* [Pull Request] [Osaka testnet forks](https://github.com/NethermindEth/nethermind/pull/9321) - 2025-09-19
 ## Q2 2025
 
 

@@ -49,6 +49,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Updated to jc-kzg 2.1.3](https://github.com/Consensys/teku/pull/9902) - 2025-09-17
 * [Commit] [Add test which fails on ckzg 2.1.2 (#9893)](https://github.com/Consensys/teku/commit/6c20e28ae7a06a47445d3d25f812c7780a88d735) - 2025-09-17
 * [Pull Request] [Adding source error as suppressed exception when propagating async](https://github.com/Consensys/teku/pull/9901) - 2025-09-17
+* [Commit] [Update jc-kzg-4844 dependency to version 2.1.4 (#9913)](https://github.com/Consensys/teku/commit/b7d5f1b45b9e6664150a8281cd5c9ff847b9db64) - 2025-09-19
+* [Pull Request] [Update jc-kzg-4844 dependency to version 2.1.4](https://github.com/Consensys/teku/pull/9913) - 2025-09-19
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add support for libp2p interop tests](https://github.com/libp2p/jvm-libp2p/pull/421) - 2025-08-25
 * [Pull Request] [Add quic to interop client](https://github.com/libp2p/jvm-libp2p/pull/425) - 2025-09-15

@@ -46,6 +46,11 @@ Team: Nethermind
 * [Commit] [ENR Support on admin_peers (#9228)](https://github.com/NethermindEth/nethermind/commit/77cffab09ea0b781bb93bdcfa6d54ee20dd7102a) - 2025-09-02
 * [Commit] [ws fxies](https://github.com/NethermindEth/nethermind/commit/fee17020be867917eb992082bc072402228ae2e8) - 2025-09-02
 * [Commit] [Ensure ForkInfo is initialized (#9233)](https://github.com/NethermindEth/nethermind/commit/2f018d3078dddbb6369b78136943ed47fda9098d) - 2025-09-03
+* [Commit] [refactor and fix build issues](https://github.com/NethermindEth/nethermind/commit/403d1b45fd92e41e068bdf386bf66da1eb8cb7fd) - 2025-09-19
+* [Commit] [Fix recovery queue size (#9288)](https://github.com/NethermindEth/nethermind/commit/d806ac109403e83f5603681fc1d0454c8aa054ea) - 2025-09-19
+* [Commit] [ws fixes](https://github.com/NethermindEth/nethermind/commit/863b809bfd20ff7a8c71c37d5995f85c120a77b1) - 2025-09-19
+* [Pull Request] [XDC : Snapshot Manager](https://github.com/NethermindEth/nethermind/pull/9318) - 2025-09-19
+* [Commit] [Add tests for Snapshot decoder and Snapshot manager](https://github.com/NethermindEth/nethermind/commit/bf794c67c76d0826e55c6688fb6ba79d99db5d79) - 2025-09-19
 ## Q2 2025
 
 

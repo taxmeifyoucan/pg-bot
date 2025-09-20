@@ -170,6 +170,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(cli): fix reth eip-7825 tx gas limit cap exceptions (#2164)](https://github.com/ethereum/execution-spec-tests/commit/1105528141bd3ec1334090e4b14817f46ce139a7) - 2025-09-17
 * [Commit] [chore(tests): group mem-heavy tests together in xdist (#2153)](https://github.com/ethereum/execution-spec-tests/commit/11b96b80f1a9dad80766d3fedb51c3cc463b2011) - 2025-09-17
 * [Commit] [Deployed 8f872a05fda to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/6d762ca0f6b88f38659dddd2eaaec6de6d7b7497) - 2025-09-18
+* [Commit] [Deployed 9f96fadb383 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/cbf2fa8de19bbc18ec05098a630ec77a1a46dee3) - 2025-09-19
+* [Commit] [chore(all): rename shadowed modules to enable ruff a005 (#2133)](https://github.com/ethereum/execution-spec-tests/commit/9f96fadb3836d20e7afbdc58a8678f9c2df02e30) - 2025-09-19
+* [Commit] [Deployed ef683b24b1f to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/90f083d2a8851777d9321b04569b40c359a3afda) - 2025-09-19
+* [Issue] [chore(tooling): enable remaining ruff ARG checks](https://github.com/ethereum/execution-spec-tests/issues/2176) - 2025-09-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 ## Q2 2025

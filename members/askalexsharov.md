@@ -1224,6 +1224,8 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/fff3a9b7c845a5d4beed495f631d47001b8a5135) - 2025-09-17
 * [Commit] [qa-tests: avoid cancelling the running Snap Downloader test execution. (#17125)](https://github.com/erigontech/erigon/commit/cbb5a3252f51a7758320a789cea5f381fc9027f2) - 2025-09-17
 * [Commit] [rpcdaemon: fix eth create access list (#17106)](https://github.com/erigontech/erigon/commit/418c82ef28d138fbd5d0810203f750f6e42bdcce) - 2025-09-17
+* [Commit] [[main] reviwe `--verify.failfast` (#17161)](https://github.com/erigontech/erigon/commit/36aeadcaf631f8c379b38cde162e64724f5900fe) - 2025-09-19
+* [Commit] [rpcdaemon: eth_call in case of revert GETH always returns  RevertError  (#17132)](https://github.com/erigontech/erigon/commit/3375d90cb8270b6374841b1a10a5bb9db3881608) - 2025-09-19
 ## Q2 2025
 
 

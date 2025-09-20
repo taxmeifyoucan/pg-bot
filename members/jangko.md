@@ -212,6 +212,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Fix CI cache key issues](https://github.com/status-im/nimbus-eth1/pull/3682) - 2025-09-16
 * [Commit] [Fix CI cache key issues](https://github.com/status-im/nimbus-eth1/commit/694f5cadbfb622d3708c1d866e063c79d8391941) - 2025-09-16
 * [Pull Request] [EVM: add DIV by zero test case](https://github.com/status-im/nimbus-eth1/pull/3691) - 2025-09-18
+* [Issue] [Beacon sync buggy block construction](https://github.com/status-im/nimbus-eth1/issues/3698) - 2025-09-19
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

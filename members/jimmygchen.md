@@ -78,6 +78,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Add tracing span to reconstruction](https://github.com/sigp/lighthouse/pull/8052) - 2025-09-16
 * [Pull Request] [Rename `--subscribe-all-data-column-subnets` to `--supernode` and make it visible in help](https://github.com/sigp/lighthouse/pull/8083) - 2025-09-18
 * [Pull Request] [Always upload sim test logs](https://github.com/sigp/lighthouse/pull/8082) - 2025-09-18
+* [Issue] [Implement getBlobs endpoint](https://github.com/sigp/lighthouse/issues/8085) - 2025-09-19
 ## Q2 2025
 
 

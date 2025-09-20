@@ -152,6 +152,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: bump discv5 to 11.0.4 (#8365)](https://github.com/ChainSafe/lodestar/commit/6dd6cec93a8015084ec86e30377c7f21a26f564a) - 2025-09-10
 * [Commit] [Update packages/beacon-node/src/chain/archiveStore/utils/archiveBlocks.ts](https://github.com/ChainSafe/lodestar/commit/176ce15f301181627eb011dc3deb1a96a55baa41) - 2025-09-12
 * [Pull Request] [fix: restore data column sidecars prune log](https://github.com/ChainSafe/lodestar/pull/8388) - 2025-09-12
+* [Commit] [chore: track BlockInputSync metrics (#8431)](https://github.com/ChainSafe/lodestar/commit/365e071d8c6397e3f10b3a709e149ff77f3b05a9) - 2025-09-19
+* [Pull Request] [fix: correctly count requested data column sidecars in rate limiter](https://github.com/ChainSafe/lodestar/pull/8436) - 2025-09-19
+* [Pull Request] [feat: schedule fulu and BPOs on holesky](https://github.com/ChainSafe/lodestar/pull/8435) - 2025-09-19
 ## Q2 2025
 
 

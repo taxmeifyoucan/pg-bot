@@ -224,6 +224,9 @@ Team: Erigon
 * [Commit] [skip flakey test](https://github.com/erigontech/erigon/commit/848c99a319357528f2eacb5d147ef6083fba7484) - 2025-09-18
 * [Commit] [added lock for pe.blockExecutors](https://github.com/erigontech/erigon/commit/feae9ecb93111577db92ffa500f3ed2cf38ba047) - 2025-09-18
 * [Commit] [added blockExecutors access locks](https://github.com/erigontech/erigon/commit/f879061cb75f08302885ccf1dc0a5bd6f47387a6) - 2025-09-18
+* [Commit] [add statusFlag type](https://github.com/erigontech/erigon/commit/c54ca0c9ca52d244476f8decf8a66d7cc872bab9) - 2025-09-19
+* [Commit] [don't ignore item on drain](https://github.com/erigontech/erigon/commit/2a0a12aab33e59f2941e717c321d0a4ce69fb52d) - 2025-09-19
+* [Commit] [small refactorings (#17145)](https://github.com/erigontech/erigon/commit/391e0b63898ba8db6f76bdedc32fe05bebc64750) - 2025-09-19
 ## Q2 2025
 
 
