@@ -31,5 +31,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [🧹 chore(tests): Move to new test file](https://github.com/ethereum/execution-spec-tests/commit/73e22e43b7c19f5d095c40ae44676c30fbe02250) - 2025-09-19
 * [Commit] [🧹 chore(tests): Move to new test file](https://github.com/ethereum/execution-spec-tests/commit/bc71c0e834067865200123f9eb177a160901a694) - 2025-09-19
 * [Commit] [🧹 chore(tests): Move to new test file](https://github.com/ethereum/execution-spec-tests/commit/94a7cc5993352e33e56f3ae934ae0a4d7074a6bb) - 2025-09-19
+* [Commit] [🚧 wip: noop reverts](https://github.com/ethereum/execution-spec-tests/commit/fca2468dfc4b77871bff59f84c4ce58e811cccc5) - 2025-09-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-7928 BAL does not include recipient of a zero-value transfer](https://github.com/ethereum/execution-specs/issues/1430) - 2025-09-19
+* [Issue] [EIP-7928 BAL includes storage changes even after transaction reverts](https://github.com/ethereum/execution-specs/issues/1432) - 2025-09-20

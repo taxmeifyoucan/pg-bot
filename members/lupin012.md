@@ -71,6 +71,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpcdaemon: in case of revert GETH return errorCode 0x3 and data field independend if data are present or not](https://github.com/erigontech/erigon/pull/17132) - 2025-09-16
 * [Commit] [update rpctest version](https://github.com/erigontech/erigon/commit/3ece1199898e63317fbfbb8a3deb06c92210cbd3) - 2025-09-16
 * [Pull Request] [rpcdaemon: debug_accountRange support interface as geth](https://github.com/erigontech/erigon/pull/17146) - 2025-09-18
+* [Commit] [rpcdaemon: fix eth create access list (#17106)](https://github.com/erigontech/erigon/commit/418c82ef28d138fbd5d0810203f750f6e42bdcce) - 2025-09-20
+* [Commit] [update rpc-tests](https://github.com/erigontech/erigon/commit/97c37f05c1c4ecf13567bcce606c3db2eec88ea0) - 2025-09-20
+* [Commit] [fix unit test](https://github.com/erigontech/erigon/commit/ba915ed6b070c119e2a1e098e750fa9b4114c09d) - 2025-09-20
+* [Pull Request] [qa_integration-test: verify two servers are processing same block](https://github.com/erigontech/erigon/pull/17172) - 2025-09-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
@@ -111,6 +115,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpcdaemon: fix eth_call in case of revert](https://github.com/erigontech/rpc-tests/pull/455) - 2025-09-16
 * [Commit] [integration: add eth_simulateV1 tests (#407)](https://github.com/erigontech/rpc-tests/commit/da344d896dce988b9ab8dccff498b24bda151c0d) - 2025-09-18
 * [Pull Request] [rpcdaemon: debug_accountRange: Add tests using Geth interface](https://github.com/erigontech/rpc-tests/pull/456) - 2025-09-18
+* [Commit] [integration: add debug_accountRange tests with start parameter as hex string (#456)](https://github.com/erigontech/rpc-tests/commit/e5b9fd8078cd90e1e4c805a3da889b7f9bece069) - 2025-09-20
+* [Commit] [integration: check clients are synced in latest tests (#458)](https://github.com/erigontech/rpc-tests/commit/95712bbcfab8d1c0a46a2c773eb6447f5d755780) - 2025-09-20
+* [Commit] [add last param to false](https://github.com/erigontech/rpc-tests/commit/baf16d2a071a0c6dac65b7d8876dd4b60f75fbc0) - 2025-09-20
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

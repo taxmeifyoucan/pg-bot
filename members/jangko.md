@@ -213,6 +213,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fix CI cache key issues](https://github.com/status-im/nimbus-eth1/commit/694f5cadbfb622d3708c1d866e063c79d8391941) - 2025-09-16
 * [Pull Request] [EVM: add DIV by zero test case](https://github.com/status-im/nimbus-eth1/pull/3691) - 2025-09-18
 * [Issue] [Beacon sync buggy block construction](https://github.com/status-im/nimbus-eth1/issues/3698) - 2025-09-19
+* [Commit] [Clear parent when pruning branches (#3681)](https://github.com/status-im/nimbus-eth1/commit/70b88c1ccc007416f151efe8155627a17cb4e301) - 2025-09-20
+* [Commit] [Fix crash due to missing checkpoint on shutdown during sync (#3695)](https://github.com/status-im/nimbus-eth1/commit/498bd4816c84d411c3ac7db53641cf0da4a14547) - 2025-09-20
+* [Commit] [Fix chain_debug](https://github.com/status-im/nimbus-eth1/commit/ae71d3a7218e4628e21d5d236b5aa554244262c9) - 2025-09-20
+* [Commit] [ancestors iterator and clear parent outside iterator](https://github.com/status-im/nimbus-eth1/commit/904638f728eecdde128f62585eaa0f4e4061ae98) - 2025-09-20
+* [Commit] [Addressing review](https://github.com/status-im/nimbus-eth1/commit/f235d1b4d5c49285841562be49f0ef64a04245c1) - 2025-09-20
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

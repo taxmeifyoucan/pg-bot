@@ -26,6 +26,9 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Issue] [json http port and websocket port don't open till after syncing](https://github.com/NethermindEth/nethermind/issues/9138) - 2025-08-15
 * [Issue] [Support Long Reorgs by Dynamically Pausing/Resuming In-Memory Pruning](https://github.com/NethermindEth/nethermind/issues/9149) - 2025-08-17
 * [Issue] [eth_simulateV1 Hive tests "0 failed with error gas limit below intrinsic gas"](https://github.com/NethermindEth/nethermind/issues/9197) - 2025-08-25
+* [Commit] [Fix uninstall filter (#9325)](https://github.com/NethermindEth/nethermind/commit/babc3c4fa48a313bf76d2f4de3ed3983023b08a0) - 2025-09-20
+* [Commit] [Reduce use of IWorldStateManager in test (#9292)](https://github.com/NethermindEth/nethermind/commit/197836eecc80a198df0efe8a6e9f75c4a2da91b5) - 2025-09-20
+* [Pull Request] [Fix uninstall filter](https://github.com/NethermindEth/nethermind/pull/9325) - 2025-09-20
 ## Q2 2025
 
 

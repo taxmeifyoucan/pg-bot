@@ -227,6 +227,12 @@ Team: Erigon
 * [Commit] [add statusFlag type](https://github.com/erigontech/erigon/commit/c54ca0c9ca52d244476f8decf8a66d7cc872bab9) - 2025-09-19
 * [Commit] [don't ignore item on drain](https://github.com/erigontech/erigon/commit/2a0a12aab33e59f2941e717c321d0a4ce69fb52d) - 2025-09-19
 * [Commit] [small refactorings (#17145)](https://github.com/erigontech/erigon/commit/391e0b63898ba8db6f76bdedc32fe05bebc64750) - 2025-09-19
+* [Commit] [check queue for ctx close](https://github.com/erigontech/erigon/commit/b346de796458059e1ff802ac1650ae106b600d0a) - 2025-09-20
+* [Commit] [log processed tx](https://github.com/erigontech/erigon/commit/43908e3aae64b086f4617099d16d1a481ad6fae3) - 2025-09-20
+* [Commit] [log reduce](https://github.com/erigontech/erigon/commit/292d82cae419d23d5e435e41e6c1d49cbb23fba4) - 2025-09-20
+* [Commit] [print to info](https://github.com/erigontech/erigon/commit/b6c14f42ea554a6a054eee7a1266598d0ffc40cc) - 2025-09-20
+* [Commit] [add printers](https://github.com/erigontech/erigon/commit/4056d6bebd27f44c01f66387d701cf1c5684471c) - 2025-09-20
+* [Commit] [add printers](https://github.com/erigontech/erigon/commit/0f8910abc2b1de0bca51632c370faf6278e52578) - 2025-09-20
 ## Q2 2025
 
 

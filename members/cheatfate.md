@@ -48,6 +48,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add more debugging on RangeBuffer.](https://github.com/status-im/nimbus-eth2/commit/c9fb05427df0ccf852b55725c4d9080f06583821) - 2025-09-15
 * [Commit] [Remove block_buffer asynchronous handlers.](https://github.com/status-im/nimbus-eth2/commit/e8ffa74f49ecbf3bed8af1f2c2d6d045d6746b9b) - 2025-09-16
 * [Commit] [Fix getSidecarSlot().](https://github.com/status-im/nimbus-eth2/commit/8236882ee745e86b8f28ed1b378ce08c035a93dd) - 2025-09-18
+* [Commit] [Address runtime crash.](https://github.com/status-im/nimbus-eth2/commit/b44e60522c4f818d097337ec0907eac6a0af761e) - 2025-09-20
+* [Commit] [More changes in getSidecarSlot().](https://github.com/status-im/nimbus-eth2/commit/95c0e3e574a8c9a2ac4572851f3102ec4ee16f30) - 2025-09-20
 ## Q2 2025
 
 

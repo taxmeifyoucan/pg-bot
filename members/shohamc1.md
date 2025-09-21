@@ -73,6 +73,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Update protobufs](https://github.com/erigontech/erigon/commit/4ee0ef785cdd46606485778599ec28fee2ae42dc) - 2025-09-19
 * [Commit] [downgrade now remove new version unsupported files (#16865)](https://github.com/erigontech/erigon/commit/5375616091e025740a90180e1be4f3655d8371b7) - 2025-09-19
 * [Commit] [Version negotiation](https://github.com/erigontech/erigon/commit/005d53f2685214414c965d646180f736816b1b94) - 2025-09-19
+* [Commit] [Update comment](https://github.com/erigontech/erigon/commit/27947e1f79b7601631195f75a29877e4a295b84c) - 2025-09-20
+* [Pull Request] [Fix incorrect `GoodPeers` count](https://github.com/erigontech/erigon/pull/17171) - 2025-09-20
+* [Commit] [Update with single lock](https://github.com/erigontech/erigon/commit/accf8e8e9f75c81222c231aced0e6266172281be) - 2025-09-20
+* [Commit] [Move peerInfo creation](https://github.com/erigontech/erigon/commit/e4994418f03e9db5ca87c5f2d4f4539ef1c7a751) - 2025-09-20
+* [Commit] [demote](https://github.com/erigontech/erigon/commit/c6160dd1583e3ab0aefd198d136c60897048bc4c) - 2025-09-20
+* [Commit] [clean](https://github.com/erigontech/erigon/commit/a3d2f4c37b0d663ec093ccb3d70b060399f58081) - 2025-09-20
+* [Commit] [clean](https://github.com/erigontech/erigon/commit/f768bf3400c22d670739314d41ff51cf41384465) - 2025-09-20
+* [Commit] [preserve order](https://github.com/erigontech/erigon/commit/f72c9d478e1949130a7dddf8b3ed4b4da3e23063) - 2025-09-20
+* [Commit] [clean](https://github.com/erigontech/erigon/commit/dbfe4486efd850c9c9cd30feec7d3cd3c638f3a7) - 2025-09-20
+* [Commit] [move](https://github.com/erigontech/erigon/commit/49a4d5016ea789e2ba8d10e9e852d1d194ff724c) - 2025-09-20
+* [Commit] [total](https://github.com/erigontech/erigon/commit/92acc625b65938948a8683501c4573f2cbee3165) - 2025-09-20
+* [Commit] [log3](https://github.com/erigontech/erigon/commit/fa65069d3d479c2b718026974afb38e7ce87db46) - 2025-09-20
+* [Commit] [log2](https://github.com/erigontech/erigon/commit/cf66c1a9924cc0ef6ded122cc93ff2c404b8c543) - 2025-09-20
 ## Q2 2025
 
 

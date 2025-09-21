@@ -193,6 +193,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revert "Parallel reconstruction (unstable branch)"](https://github.com/status-im/nimbus-eth2/pull/7509) - 2025-09-19
 * [Commit] [bump nim-kzg4844 to 6715be0e276ceb19f830e087e4a02f7ba586833f for c-kzg v2.1.4 (#7508)](https://github.com/status-im/nimbus-eth2/commit/1e9cd5e223d4a116bc23bc1d0226e406d912d886) - 2025-09-19
 * [Pull Request] [bump nim-kzg4844 to 6715be0e276ceb19f830e087e4a02f7ba586833f for c-kzg v2.1.4](https://github.com/status-im/nimbus-eth2/pull/7508) - 2025-09-19
+* [Pull Request] [fix some deprecation warnings](https://github.com/status-im/nimbus-eth2/pull/7517) - 2025-09-20
+* [Commit] [unhide deprecation warnings (#7514)](https://github.com/status-im/nimbus-eth2/commit/f4e5ef8d05d14c155192ec011408cc2d32386bc6) - 2025-09-20
+* [Pull Request] [unhide deprecation warnings](https://github.com/status-im/nimbus-eth2/pull/7514) - 2025-09-20
+* [Commit] [rm unused peerdas_helper function (#7511)](https://github.com/status-im/nimbus-eth2/commit/dab86d7423a861157fd85bff106b99e1a772a17b) - 2025-09-20
+* [Commit] [Fix missing proposal fcu (#7513)](https://github.com/status-im/nimbus-eth2/commit/33242c45ebea6d613603a0dea60fcea9123674a3) - 2025-09-20
+* [Pull Request] [add Fulu signing node test](https://github.com/status-im/nimbus-eth2/pull/7512) - 2025-09-20
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

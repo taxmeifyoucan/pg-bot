@@ -126,6 +126,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [chore: update e2e-test-utils code owners](https://github.com/paradigmxyz/reth/pull/18397) - 2025-09-12
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/c262228c13ef30983a1360610d8e5b18fe5a8a96) - 2025-09-17
 * [Commit] [chore(ci): bump hive eest tests to v5.1.0](https://github.com/paradigmxyz/reth/commit/59ab69f76422d97c1a41d2d5916e0119df3f497c) - 2025-09-17
+* [Pull Request] [chore(ci): unpin teku image for kurtosis-op](https://github.com/paradigmxyz/reth/pull/18595) - 2025-09-20
+* [Pull Request] [chore(ci): update expected and ignored hive tests](https://github.com/paradigmxyz/reth/pull/18594) - 2025-09-20
+* [Commit] [flaky](https://github.com/paradigmxyz/reth/commit/31715ae0b505ab05c1a41f3db91fc874fc0dd71b) - 2025-09-20
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add blob per tx limit for reth](https://github.com/ethereum/execution-spec-tests/pull/2016) - 2025-08-08
 ## Q2 2025

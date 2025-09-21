@@ -102,6 +102,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [make columnsOk false on validation failure](https://github.com/status-im/nimbus-eth2/commit/b6c1791bc6e565a484219c9ec59c10c8ab7bc2af) - 2025-09-19
 * [Commit] [break for saving some time](https://github.com/status-im/nimbus-eth2/commit/0ce8cc582d8ac8726295ecc8390b3475e93b0a2a) - 2025-09-19
 * [Pull Request] [fix of reported issues on dv5](https://github.com/status-im/nimbus-eth2/pull/7510) - 2025-09-19
+* [Pull Request] [no need for length check in column message routing](https://github.com/status-im/nimbus-eth2/pull/7519) - 2025-09-20
 ## Q2 2025
 
 

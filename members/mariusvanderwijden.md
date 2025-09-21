@@ -34,6 +34,7 @@ Team: Geth
 * [Pull Request] [core/vm: switch gas computation to uint256](https://github.com/ethereum/go-ethereum/pull/32508) - 2025-08-28
 * [Pull Request] [core/vm: switch modexp gas computation to uint64](https://github.com/ethereum/go-ethereum/pull/32527) - 2025-09-01
 * [Commit] [eth/catalyst: enable newpayloadV4 on BPOs (#32589)](https://github.com/ethereum/go-ethereum/commit/8a19582c8d939e62cdb8a5172779076b9d71902c) - 2025-09-11
+* [Pull Request] [params: add amsterdam fork config](https://github.com/ethereum/go-ethereum/pull/32687) - 2025-09-20
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Map TYPE_3_TX_BLOB_COUNT_EXCEEDED](https://github.com/ethereum/execution-spec-tests/pull/1958) - 2025-07-28
 ## Q2 2025

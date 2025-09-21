@@ -1226,6 +1226,9 @@ Team: Erigon
 * [Commit] [rpcdaemon: fix eth create access list (#17106)](https://github.com/erigontech/erigon/commit/418c82ef28d138fbd5d0810203f750f6e42bdcce) - 2025-09-17
 * [Commit] [[main] reviwe `--verify.failfast` (#17161)](https://github.com/erigontech/erigon/commit/36aeadcaf631f8c379b38cde162e64724f5900fe) - 2025-09-19
 * [Commit] [rpcdaemon: eth_call in case of revert GETH always returns  RevertError  (#17132)](https://github.com/erigontech/erigon/commit/3375d90cb8270b6374841b1a10a5bb9db3881608) - 2025-09-19
+* [Commit] [caplin: fix checkpoint sync timeout (#17077)](https://github.com/erigontech/erigon/commit/4f877a1c19d5d0c9029a914d1caea9cb7a42ffd6) - 2025-09-20
+* [Commit] [Fixed fd leak in caplin .idx files (#17168)](https://github.com/erigontech/erigon/commit/f02552c3523e43938ea697de0df997a2cbb7078f) - 2025-09-20
+* [Commit] [better handle of out of bounds (#17170)](https://github.com/erigontech/erigon/commit/c93f9a6be616b7352b5e90a804058b7655d00345) - 2025-09-20
 ## Q2 2025
 
 

@@ -102,6 +102,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Empty bootstrap nodes on startup](https://github.com/status-im/nimbus-eth1/issues/3644) - 2025-09-08
 * [Pull Request] [Logging cleanups](https://github.com/status-im/nimbus-eth1/pull/3643) - 2025-09-08
 * [Commit] [Logging cleanups](https://github.com/status-im/nimbus-eth1/commit/68987088644891f85c143e95f60f07dab890130f) - 2025-09-08
+* [Commit] [Downgrade linux-arm64 compiler and link with glibc 2.35 (#3676)](https://github.com/status-im/nimbus-eth1/commit/65bccbcf4a9c3f1c8af9c1264bad4d62bff49dd0) - 2025-09-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -197,6 +198,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [lint](https://github.com/status-im/nimbus-eth2/commit/67470517457502d4bf9d8cffab242ccfbcb22e71) - 2025-09-07
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/a39d3b5b198a37cb5542533a5215e5620b573134) - 2025-09-07
 * [Commit] [nicer url, upper-case OptimisticStatus (for logging)](https://github.com/status-im/nimbus-eth2/commit/f78cb7632ce9b3362046d7d40df1dcca9f1a19d6) - 2025-09-08
+* [Commit] [one more](https://github.com/status-im/nimbus-eth2/commit/1342c9aed54abed23e0151f83adc5f8a978ffb41) - 2025-09-20
+* [Pull Request] [clean up `clearanceState` access](https://github.com/status-im/nimbus-eth2/pull/7518) - 2025-09-20
+* [Pull Request] [Fix missing proposal fcu](https://github.com/status-im/nimbus-eth2/pull/7513) - 2025-09-20
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

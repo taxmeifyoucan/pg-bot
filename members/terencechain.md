@@ -113,6 +113,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/c407a7119760e60d3812f9eaccbab033aab50008) - 2025-09-19
 * [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/0b5c93383b1e3202122db883c055a688a3312178) - 2025-09-19
 * [Commit] [update ssz generated files (#15700)](https://github.com/OffchainLabs/prysm/commit/a5e4fccb474363b7dac9605ebafd266ad0af7e84) - 2025-09-19
+* [Pull Request] [Refactor `ComputeFieldRootsWithHasher` into smaller helper functions](https://github.com/OffchainLabs/prysm/pull/15722) - 2025-09-20
+* [Commit] [Add Gloas state fields to beacon state implementation](https://github.com/OffchainLabs/prysm/commit/6db4758e8cf4bf56e20d4e407f7e51142dfa3778) - 2025-09-20
+* [Commit] [Add Gloas state fields to beacon state implementation](https://github.com/OffchainLabs/prysm/commit/3aab20db2a66b34ebbf6a7cc966ee3b60b04f896) - 2025-09-20
+* [Commit] [Change error message (#15635)](https://github.com/OffchainLabs/prysm/commit/4a1ab709296366822dd12552e13f70eb27b19a56) - 2025-09-20
+* [Commit] [update to v1.6.0-alpha.6 (#15658)](https://github.com/OffchainLabs/prysm/commit/1933adedbfc2a188a704628147d537eb62325a8e) - 2025-09-20
+* [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/07fd5f9ca064ea9bb685753db4373b2bb21f1b02) - 2025-09-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

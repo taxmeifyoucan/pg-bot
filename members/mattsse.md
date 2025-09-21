@@ -221,6 +221,9 @@ Team: Reth
 * [Issue] [Add fusaka testnet timestamps](https://github.com/paradigmxyz/reth/issues/18571) - 2025-09-19
 * [Commit] [docs: additional docs](https://github.com/paradigmxyz/reth/commit/dd8c6d5059ea8b9279a51028e76af2f22ce3d1e5) - 2025-09-19
 * [Commit] [chore(evm): add public constructor to `BlockAssemblerInput` (#18559)](https://github.com/paradigmxyz/reth/commit/4fcc4457c144a41df443c1b297e58ccbe91735c1) - 2025-09-19
+* [Issue] [Simplify envelope for codec](https://github.com/paradigmxyz/reth/issues/18591) - 2025-09-20
+* [Pull Request] [fix: use timestamp derived max blob count on launch](https://github.com/paradigmxyz/reth/pull/18590) - 2025-09-20
+* [Commit] [fix: use timestamp derived max blob count on launch](https://github.com/paradigmxyz/reth/commit/651118ade9849e5c5940f6403ee7af4914c6f3da) - 2025-09-20
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19
