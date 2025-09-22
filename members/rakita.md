@@ -226,6 +226,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [fix: racecondition return on install_crypto fn](https://github.com/bluealloy/revm/pull/2997) - 2025-09-19
 * [Commit] [feat(op-revm): implement jovian operator fee fix (#2996)](https://github.com/bluealloy/revm/commit/9f054e4f83e263edfdde10b6245f1592abbda532) - 2025-09-19
 * [Commit] [more functions and op handler](https://github.com/bluealloy/revm/commit/2470e116bf5e74a0933e0cdb14446955dc78d86b) - 2025-09-19
+* [Commit] [CustomFrame in MyEvm example](https://github.com/bluealloy/revm/commit/6c1581fb6bbffac577227420a328d3c769ccd161) - 2025-09-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

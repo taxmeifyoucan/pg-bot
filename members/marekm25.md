@@ -29,6 +29,8 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Commit] [Fix uninstall filter (#9325)](https://github.com/NethermindEth/nethermind/commit/babc3c4fa48a313bf76d2f4de3ed3983023b08a0) - 2025-09-20
 * [Commit] [Reduce use of IWorldStateManager in test (#9292)](https://github.com/NethermindEth/nethermind/commit/197836eecc80a198df0efe8a6e9f75c4a2da91b5) - 2025-09-20
 * [Pull Request] [Fix uninstall filter](https://github.com/NethermindEth/nethermind/pull/9325) - 2025-09-20
+* [Issue] [eth_estimateGas/estimate-simple-transfer](https://github.com/NethermindEth/nethermind/issues/9330) - 2025-09-21
+* [Issue] [Adjusting error codes (start with execution reverted) of eth_calls to geth](https://github.com/NethermindEth/nethermind/issues/9329) - 2025-09-21
 ## Q2 2025
 
 

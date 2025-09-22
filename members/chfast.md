@@ -72,6 +72,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Switch CircleCI to self-hosted runners](https://github.com/ipsilon/evmone/commit/62760b7bca18d2202eac3ebea7e59187d105b481) - 2025-09-19
 * [Commit] [ci: Switch CircleCI to self-hosted runners](https://github.com/ipsilon/evmone/commit/bc70a6e44ac8a46f9ac1e0bd3978b9e5d9bf238a) - 2025-09-19
 * [Commit] [ci: Switch CircleCI to self-hosted runners](https://github.com/ipsilon/evmone/commit/88f55c4019ff8e090b07476f11b101570f5467d8) - 2025-09-19
+* [Commit] [crypto: Fix compiler warnings in SHA256 x86-sha (#1316)](https://github.com/ipsilon/evmone/commit/3dfc16abb8704c2523f6a945e26119384b62351b) - 2025-09-21
+* [Pull Request] [crypto: Fix compiler warnings in SHA256 x86-sha](https://github.com/ipsilon/evmone/pull/1316) - 2025-09-21
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 

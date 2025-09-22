@@ -233,6 +233,15 @@ Team: Erigon
 * [Commit] [print to info](https://github.com/erigontech/erigon/commit/b6c14f42ea554a6a054eee7a1266598d0ffc40cc) - 2025-09-20
 * [Commit] [add printers](https://github.com/erigontech/erigon/commit/4056d6bebd27f44c01f66387d701cf1c5684471c) - 2025-09-20
 * [Commit] [add printers](https://github.com/erigontech/erigon/commit/0f8910abc2b1de0bca51632c370faf6278e52578) - 2025-09-20
+* [Commit] [disable windows tests - db cleanup fails](https://github.com/erigontech/erigon/commit/ae6451542cfe00c5f95e29a1371a5af2dfedf330) - 2025-09-21
+* [Commit] [rpcdaemon: fix eth create access list (#17106)](https://github.com/erigontech/erigon/commit/418c82ef28d138fbd5d0810203f750f6e42bdcce) - 2025-09-21
+* [Commit] [check close on nil](https://github.com/erigontech/erigon/commit/e2b96b1b0d495da880bc4a23cbb50a376057dac8) - 2025-09-21
+* [Commit] [q resultsch close on empty](https://github.com/erigontech/erigon/commit/f99d366a4eaf5adf426690f495183144438281bb) - 2025-09-21
+* [Commit] [q resultsch close on empty](https://github.com/erigontech/erigon/commit/e065390a904368db9ce27d3960d2ada8046da404) - 2025-09-21
+* [Commit] [count q adds](https://github.com/erigontech/erigon/commit/d1e9fb6e67ff807b0a54e78e2a2e59d7e36f641f) - 2025-09-21
+* [Commit] [reslen on close](https://github.com/erigontech/erigon/commit/61cd753a37e84c6fe49b628cdb1dbe9f9360a556) - 2025-09-21
+* [Commit] [q closed printer](https://github.com/erigontech/erigon/commit/b7eb9a125e0f35102d13ab89130869c9316c446d) - 2025-09-21
+* [Commit] [make add to closed queue error](https://github.com/erigontech/erigon/commit/88972f9fab865a9ee402790b0002c3429bc3cc25) - 2025-09-21
 ## Q2 2025
 
 

@@ -203,6 +203,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fi](https://github.com/erigontech/erigon/commit/3ad9aff4a0f3fd58fd46377fa23dace7a23e0a56) - 2025-09-19
 * [Pull Request] [execution/engineapi: allow for configurable retryable errs in engineapi jsonrpc client](https://github.com/erigontech/erigon/pull/17164) - 2025-09-19
 * [Pull Request] [execution/tests: move transactor from shutter](https://github.com/erigontech/erigon/pull/17163) - 2025-09-19
+* [Commit] [fix chain len lim gt](https://github.com/erigontech/erigon/commit/7f9973344941c65f1747f235357bbac35b1125b7) - 2025-09-21
+* [Commit] [fix block batch size](https://github.com/erigontech/erigon/commit/86bc538a7cc82c3f965ecffbf353f6683b27a545) - 2025-09-21
+* [Commit] [use stopped](https://github.com/erigontech/erigon/commit/7546148df86eeace5651ce63e8739290e887ad7a) - 2025-09-21
+* [Commit] [remove unnecessary change](https://github.com/erigontech/erigon/commit/d423d6cab3a2c448fc0fd81597986b5817d1f0c9) - 2025-09-21
+* [Commit] [better handle of out of bounds (#17170)](https://github.com/erigontech/erigon/commit/c93f9a6be616b7352b5e90a804058b7655d00345) - 2025-09-21
+* [Commit] [execution: fix 3 failing hive tests due to off by 1 bug in min unwindable](https://github.com/erigontech/erigon/commit/0e8b58912f4090d36f3b6dc92a47b384c33cff64) - 2025-09-21
 ## Q2 2025
 
 

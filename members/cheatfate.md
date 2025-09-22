@@ -50,6 +50,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix getSidecarSlot().](https://github.com/status-im/nimbus-eth2/commit/8236882ee745e86b8f28ed1b378ce08c035a93dd) - 2025-09-18
 * [Commit] [Address runtime crash.](https://github.com/status-im/nimbus-eth2/commit/b44e60522c4f818d097337ec0907eac6a0af761e) - 2025-09-20
 * [Commit] [More changes in getSidecarSlot().](https://github.com/status-im/nimbus-eth2/commit/95c0e3e574a8c9a2ac4572851f3102ec4ee16f30) - 2025-09-20
+* [Commit] [Address all the warnings.](https://github.com/status-im/nimbus-eth2/commit/de4f1b18292f73877c34519db4705b3e985555fd) - 2025-09-21
+* [Commit] [Make SyncQueue return negative integer when rewind is happen.](https://github.com/status-im/nimbus-eth2/commit/bb3880a26e68192f716e0ec35531a198dbe9a7c1) - 2025-09-21
 ## Q2 2025
 
 

@@ -224,6 +224,7 @@ Team: Reth
 * [Issue] [Simplify envelope for codec](https://github.com/paradigmxyz/reth/issues/18591) - 2025-09-20
 * [Pull Request] [fix: use timestamp derived max blob count on launch](https://github.com/paradigmxyz/reth/pull/18590) - 2025-09-20
 * [Commit] [fix: use timestamp derived max blob count on launch](https://github.com/paradigmxyz/reth/commit/651118ade9849e5c5940f6403ee7af4914c6f3da) - 2025-09-20
+* [Commit] [chore: bump alloy](https://github.com/paradigmxyz/reth/commit/21a10aa531c7157057afacbd8f87e2c9d5175791) - 2025-09-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

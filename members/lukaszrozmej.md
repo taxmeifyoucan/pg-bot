@@ -46,6 +46,13 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Etend MultiVersionMemory to work on different data types](https://github.com/NethermindEth/nethermind/commit/a7b32d858b6ad81b2d8b6342714e78ef74258a7e) - 2025-09-10
 * [Commit] [Auto-update fast sync settings (#9283)|](https://github.com/NethermindEth/nethermind/commit/0340f441659f6b67f28a12c1d19e804641321bb6) - 2025-09-14
 * [Commit] [Update OP Superchain chains (#9284)](https://github.com/NethermindEth/nethermind/commit/2801be6b593a7b37ad6c53f17b9af617be390578) - 2025-09-14
+* [Commit] [fixes](https://github.com/NethermindEth/nethermind/commit/e15c3de2fa6cf8bc5bae5626c7451775ac363153) - 2025-09-21
+* [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/426cf52e02fb8d8aa3cdfbd79ab6e9244716edc1) - 2025-09-21
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/1170a6a87ced1f8357b01e29541e61ab39b54b88) - 2025-09-21
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/fd5cb5d625a7bb473111ba478c27a76ad182d160) - 2025-09-21
+* [Commit] [Update OP Superchain chains (#9328)](https://github.com/NethermindEth/nethermind/commit/e0083db2368c7b7ea25428e8db521d774f40dfba) - 2025-09-21
+* [Commit] [Auto-update fast sync settings (#9327)](https://github.com/NethermindEth/nethermind/commit/d0de8afc2e889085f9c99f6730628ab8ea7fb112) - 2025-09-21
+* [Pull Request] [Feature/cap estimate gas to 7825](https://github.com/NethermindEth/nethermind/pull/9331) - 2025-09-21
 ## Q2 2025
 
 

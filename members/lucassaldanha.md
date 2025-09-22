@@ -51,6 +51,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Adding source error as suppressed exception when propagating async](https://github.com/Consensys/teku/pull/9901) - 2025-09-17
 * [Commit] [Update jc-kzg-4844 dependency to version 2.1.4 (#9913)](https://github.com/Consensys/teku/commit/b7d5f1b45b9e6664150a8281cd5c9ff847b9db64) - 2025-09-19
 * [Pull Request] [Update jc-kzg-4844 dependency to version 2.1.4](https://github.com/Consensys/teku/pull/9913) - 2025-09-19
+* [Issue] [Mainnet Fulu Scheduling](https://github.com/Consensys/teku/issues/9920) - 2025-09-21
+* [Issue] [Hoodi Fulu Scheduling](https://github.com/Consensys/teku/issues/9919) - 2025-09-21
+* [Issue] [Sepolia Fulu Scheduling](https://github.com/Consensys/teku/issues/9918) - 2025-09-21
+* [Issue] [Holesky Fulu Scheduling](https://github.com/Consensys/teku/issues/9917) - 2025-09-21
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add support for libp2p interop tests](https://github.com/libp2p/jvm-libp2p/pull/421) - 2025-08-25
 * [Pull Request] [Add quic to interop client](https://github.com/libp2p/jvm-libp2p/pull/425) - 2025-09-15

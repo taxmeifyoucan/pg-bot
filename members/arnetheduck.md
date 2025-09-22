@@ -103,6 +103,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Logging cleanups](https://github.com/status-im/nimbus-eth1/pull/3643) - 2025-09-08
 * [Commit] [Logging cleanups](https://github.com/status-im/nimbus-eth1/commit/68987088644891f85c143e95f60f07dab890130f) - 2025-09-08
 * [Commit] [Downgrade linux-arm64 compiler and link with glibc 2.35 (#3676)](https://github.com/status-im/nimbus-eth1/commit/65bccbcf4a9c3f1c8af9c1264bad4d62bff49dd0) - 2025-09-20
+* [Commit] [Downgrade linux-arm64 compiler and link with glibc 2.35 (#3676)](https://github.com/status-im/nimbus-eth1/commit/65bccbcf4a9c3f1c8af9c1264bad4d62bff49dd0) - 2025-09-21
+* [Commit] [Halve FC memory usage](https://github.com/status-im/nimbus-eth1/commit/b7f44795135adda0ff48197f4311c08ce318dc00) - 2025-09-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -201,6 +203,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [one more](https://github.com/status-im/nimbus-eth2/commit/1342c9aed54abed23e0151f83adc5f8a978ffb41) - 2025-09-20
 * [Pull Request] [clean up `clearanceState` access](https://github.com/status-im/nimbus-eth2/pull/7518) - 2025-09-20
 * [Pull Request] [Fix missing proposal fcu](https://github.com/status-im/nimbus-eth2/pull/7513) - 2025-09-20
+* [Commit] [cleanup](https://github.com/status-im/nimbus-eth2/commit/541bbfb44b6505008c3d0f7c632414c95ff2892e) - 2025-09-21
+* [Commit] [push sidecar style selection up the call chain](https://github.com/status-im/nimbus-eth2/commit/11f19940f2b501cf8802bab453b87155e00036ef) - 2025-09-21
+* [Commit] [Apply suggestions from code review](https://github.com/status-im/nimbus-eth2/commit/3e54c200d9fa553bf6d5c32ecc5c1998a28136e1) - 2025-09-21
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
