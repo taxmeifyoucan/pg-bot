@@ -242,6 +242,8 @@ Team: Erigon
 * [Commit] [reslen on close](https://github.com/erigontech/erigon/commit/61cd753a37e84c6fe49b628cdb1dbe9f9360a556) - 2025-09-21
 * [Commit] [q closed printer](https://github.com/erigontech/erigon/commit/b7eb9a125e0f35102d13ab89130869c9316c446d) - 2025-09-21
 * [Commit] [make add to closed queue error](https://github.com/erigontech/erigon/commit/88972f9fab865a9ee402790b0002c3429bc3cc25) - 2025-09-21
+* [Commit] [revert domain test check](https://github.com/erigontech/erigon/commit/bb423b2a6d3ddcdf1f7b88ebfce87bcf21de137d) - 2025-09-22
+* [Commit] [revert cursor map](https://github.com/erigontech/erigon/commit/ae0db76894765f3745b748a1c63c7fbd873170e2) - 2025-09-22
 ## Q2 2025
 
 

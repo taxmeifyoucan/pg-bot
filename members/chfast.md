@@ -74,6 +74,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Switch CircleCI to self-hosted runners](https://github.com/ipsilon/evmone/commit/88f55c4019ff8e090b07476f11b101570f5467d8) - 2025-09-19
 * [Commit] [crypto: Fix compiler warnings in SHA256 x86-sha (#1316)](https://github.com/ipsilon/evmone/commit/3dfc16abb8704c2523f6a945e26119384b62351b) - 2025-09-21
 * [Pull Request] [crypto: Fix compiler warnings in SHA256 x86-sha](https://github.com/ipsilon/evmone/pull/1316) - 2025-09-21
+* [Commit] [ci: Adjust coverage report for EEST tests](https://github.com/ipsilon/evmone/commit/9ccb7d1651f43d037d69d946253319284f0e2355) - 2025-09-22
+* [Pull Request] [ci: Adjust coverage report for EEST tests](https://github.com/ipsilon/evmone/pull/1318) - 2025-09-22
+* [Commit] [build,ci: Enable MC/DC coverage (#1317)](https://github.com/ipsilon/evmone/commit/6d8beb928f0775611058c9a25baf5101d7ff5fbe) - 2025-09-22
+* [Pull Request] [build,ci: Enable MC/DC coverage](https://github.com/ipsilon/evmone/pull/1317) - 2025-09-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 

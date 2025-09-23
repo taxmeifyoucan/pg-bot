@@ -225,6 +225,11 @@ Team: Reth
 * [Pull Request] [fix: use timestamp derived max blob count on launch](https://github.com/paradigmxyz/reth/pull/18590) - 2025-09-20
 * [Commit] [fix: use timestamp derived max blob count on launch](https://github.com/paradigmxyz/reth/commit/651118ade9849e5c5940f6403ee7af4914c6f3da) - 2025-09-20
 * [Commit] [chore: bump alloy](https://github.com/paradigmxyz/reth/commit/21a10aa531c7157057afacbd8f87e2c9d5175791) - 2025-09-21
+* [Commit] [fix(handshake): validate peer TD from their_status_message during eth handshake (#18611)](https://github.com/paradigmxyz/reth/commit/60658be734c6cd341a6c00848f2b8197dd95b263) - 2025-09-22
+* [Commit] [chore: enforce max tx gas limit on estimate and accesslit (#18612)](https://github.com/paradigmxyz/reth/commit/0bd2097995e8a7b9ff9198117a68edaf61322689) - 2025-09-22
+* [Pull Request] [chore: enforce max tx gas limit on estimate and accesslit](https://github.com/paradigmxyz/reth/pull/18612) - 2025-09-22
+* [Commit] [test: add test case for op tx env conversion (#18581)](https://github.com/paradigmxyz/reth/commit/3ebfd7a25e24db537bb107c23671c888b7b57ea0) - 2025-09-22
+* [Commit] [fix(cache): Ensure execution cache remains locked until updated (#18564)](https://github.com/paradigmxyz/reth/commit/36107c60abcae06724e57ed1f6b64ba92ad11b10) - 2025-09-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

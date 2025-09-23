@@ -35,6 +35,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7773: Propose 7778 and 7976](https://github.com/ethereum/EIPs/pull/10270) - 2025-09-03
 * [Pull Request] [Update EIP-7976: Update gas limit assumptions to 45M](https://github.com/ethereum/EIPs/pull/10269) - 2025-09-03
 * [Pull Request] [Update EIP-7778: improve title](https://github.com/ethereum/EIPs/pull/10268) - 2025-09-03
+* [Pull Request] [Update EIP-7928: Further clarify reverts](https://github.com/ethereum/EIPs/pull/10377) - 2025-09-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add Specs: EIP-7928: Block-level Access Lists](https://github.com/ethereum/execution-specs/pull/1338) - 2025-07-21
 

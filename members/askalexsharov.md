@@ -1229,6 +1229,9 @@ Team: Erigon
 * [Commit] [caplin: fix checkpoint sync timeout (#17077)](https://github.com/erigontech/erigon/commit/4f877a1c19d5d0c9029a914d1caea9cb7a42ffd6) - 2025-09-20
 * [Commit] [Fixed fd leak in caplin .idx files (#17168)](https://github.com/erigontech/erigon/commit/f02552c3523e43938ea697de0df997a2cbb7078f) - 2025-09-20
 * [Commit] [better handle of out of bounds (#17170)](https://github.com/erigontech/erigon/commit/c93f9a6be616b7352b5e90a804058b7655d00345) - 2025-09-20
+* [Commit] [Fixed fd leak in caplin .idx files (#17168) (#17183)](https://github.com/erigontech/erigon/commit/8c8fe4401f6dfee70b893a8701086525176a71cd) - 2025-09-22
+* [Commit] [3.1 default rate flags to main (#17181)](https://github.com/erigontech/erigon/commit/33f5c21518e32daf023735c6b057b3e69b2c3aff) - 2025-09-22
+* [Commit] [execution: store changesets for last MaxReorgDepth blocks after initial cycle (#17165)](https://github.com/erigontech/erigon/commit/585edfec44a104da6665acc6f683336537389e07) - 2025-09-22
 ## Q2 2025
 
 

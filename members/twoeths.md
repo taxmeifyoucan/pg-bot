@@ -166,6 +166,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: track BlockInputSync metrics](https://github.com/ChainSafe/lodestar/pull/8431) - 2025-09-19
 * [Pull Request] [fix: wait for block and all data](https://github.com/ChainSafe/lodestar/pull/8430) - 2025-09-19
 * [Pull Request] [fix: emit unknownParent event](https://github.com/ChainSafe/lodestar/pull/8429) - 2025-09-19
+* [Pull Request] [chore: sync PeerDAS dashboard](https://github.com/ChainSafe/lodestar/pull/8443) - 2025-09-22
+* [Commit] [fix: only track data column subnet topics we subscribe to](https://github.com/ChainSafe/lodestar/commit/ebf29bef040a788d343457532a4b170c468bb03c) - 2025-09-22
+* [Pull Request] [feat: track number of peers per data column subnet topic](https://github.com/ChainSafe/lodestar/pull/8442) - 2025-09-22
 ## Q2 2025
 
 

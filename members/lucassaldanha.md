@@ -55,6 +55,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Hoodi Fulu Scheduling](https://github.com/Consensys/teku/issues/9919) - 2025-09-21
 * [Issue] [Sepolia Fulu Scheduling](https://github.com/Consensys/teku/issues/9918) - 2025-09-21
 * [Issue] [Holesky Fulu Scheduling](https://github.com/Consensys/teku/issues/9917) - 2025-09-21
+* [Commit] [Fulu testnet scheduling (#9921)](https://github.com/Consensys/teku/commit/16ceff105d93e6b645fe19a8e2bd58fc1466e914) - 2025-09-22
+* [Pull Request] [Fulu testnet scheduling](https://github.com/Consensys/teku/pull/9921) - 2025-09-22
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add support for libp2p interop tests](https://github.com/libp2p/jvm-libp2p/pull/421) - 2025-08-25
 * [Pull Request] [Add quic to interop client](https://github.com/libp2p/jvm-libp2p/pull/425) - 2025-09-15

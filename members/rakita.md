@@ -227,6 +227,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat(op-revm): implement jovian operator fee fix (#2996)](https://github.com/bluealloy/revm/commit/9f054e4f83e263edfdde10b6245f1592abbda532) - 2025-09-19
 * [Commit] [more functions and op handler](https://github.com/bluealloy/revm/commit/2470e116bf5e74a0933e0cdb14446955dc78d86b) - 2025-09-19
 * [Commit] [CustomFrame in MyEvm example](https://github.com/bluealloy/revm/commit/6c1581fb6bbffac577227420a328d3c769ccd161) - 2025-09-22
+* [Commit] [bump: c-kzg v2.1.4 (#3002)](https://github.com/bluealloy/revm/commit/0fc5a4bb1d412c89463444c30cfbab032ae36eaa) - 2025-09-22
+* [Pull Request] [bump: c-kzg v2.1.4](https://github.com/bluealloy/revm/pull/3002) - 2025-09-22
+* [Commit] [feat: Add Str(Cow<'static, str>) to InvalidTransaction error enum (#2998)](https://github.com/bluealloy/revm/commit/426ffb3531c8da97b8f9755f34f16e477c8bcdb2) - 2025-09-22
+* [Commit] [chore: use offset_from_unsigned (#2999)](https://github.com/bluealloy/revm/commit/3241f919e00411b1ff1412ee0d2ea65b18cb45fd) - 2025-09-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

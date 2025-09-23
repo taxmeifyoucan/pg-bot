@@ -79,6 +79,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [qa-tests: replace bor-mainnet with gnosis in sync-from-scratch minimal node (#17114)](https://github.com/erigontech/erigon/commit/d5fa555c65dc0f34d6478715c4c2f4aadd548be2) - 2025-09-18
 * [Commit] [fix JSON serialisation for empty calls](https://github.com/erigontech/erigon/commit/0c156a3232c3690f49442db7f4f9a1ce2b16896c) - 2025-09-18
 * [Commit] [Implement eth/69 (#15279)](https://github.com/erigontech/erigon/commit/a06fa3de2d0a9dd00649535a9f6ed8847d7ea205) - 2025-09-19
+* [Commit] [qa_tests: ensure same block for RPC tests on latest (#17172)](https://github.com/erigontech/erigon/commit/b8ddf6cd48a23aaf94fcb0e0bff429356880555d) - 2025-09-22
+* [Pull Request] [evm: fix GasPrice check when NoBaseFee](https://github.com/erigontech/erigon/pull/17196) - 2025-09-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14

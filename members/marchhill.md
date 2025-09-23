@@ -167,6 +167,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [add to specproviders and tests](https://github.com/NethermindEth/nethermind/commit/a6e31c53abdc093d6821382547b953294c6fb871) - 2025-09-19
 * [Commit] [fix hoodi](https://github.com/NethermindEth/nethermind/commit/50b591c80154ecb4ef45e5ca88af993333fd2a7c) - 2025-09-19
 * [Pull Request] [Osaka testnet forks](https://github.com/NethermindEth/nethermind/pull/9321) - 2025-09-19
+* [Commit] [delete unneeded eips from chainspec](https://github.com/NethermindEth/nethermind/commit/e625c918734f82acf1c7a9fb32df6d6a30587af5) - 2025-09-22
+* [Commit] [fix timestamp in fork info test](https://github.com/NethermindEth/nethermind/commit/ba28c0dcc5115c4fc83c991a17e927736dc9206c) - 2025-09-22
+* [Commit] [add new base fee update fraction to fork in code](https://github.com/NethermindEth/nethermind/commit/a739de0e890ab4656bad9b6fff9b0454dfdd6811) - 2025-09-22
+* [Commit] [fork hash test timestamps](https://github.com/NethermindEth/nethermind/commit/258767ce65ad23c41acdab6b47c08e44d58d7975) - 2025-09-22
+* [Commit] [fix bpo names in test](https://github.com/NethermindEth/nethermind/commit/c39dc5a2f0c32199d086b47270b73bf3ba4978f2) - 2025-09-22
+* [Commit] [blob update base fraction](https://github.com/NethermindEth/nethermind/commit/5192e93f188a006ccf5b234c208ea4e71b9266f8) - 2025-09-22
 ## Q2 2025
 
 

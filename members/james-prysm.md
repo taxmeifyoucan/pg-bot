@@ -167,6 +167,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Update beacon-chain/rpc/lookup/blocker.go](https://github.com/OffchainLabs/prysm/commit/7acd17c579940dd115a838eac49247ac6641db91) - 2025-09-19
 * [Commit] [Update beacon-chain/rpc/eth/debug/handlers.go](https://github.com/OffchainLabs/prysm/commit/d806115516e7daf47da270ea0325de3e86d0c64c) - 2025-09-19
 * [Commit] [Update beacon-chain/rpc/eth/debug/handlers.go](https://github.com/OffchainLabs/prysm/commit/e2355af4751f4f4670f374f7cb82668c7f997dbd) - 2025-09-19
+* [Commit] [fix getStateRandao not returning historic RANDAO mix values (#15653)](https://github.com/OffchainLabs/prysm/commit/02dca852516553d88a3140d8ba3ac4362137aa71) - 2025-09-22
+* [Commit] [using yamlv3 broke tests, switching to a different library](https://github.com/OffchainLabs/prysm/commit/a3e0e8f4d2899c5467eee208f74bfd7ac1573c59) - 2025-09-22
+* [Pull Request] [removing direct dependency, we can just use yamlv3](https://github.com/OffchainLabs/prysm/pull/15729) - 2025-09-22
 ## Q2 2025
 
 

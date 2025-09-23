@@ -201,6 +201,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add Fulu signing node test](https://github.com/status-im/nimbus-eth2/pull/7512) - 2025-09-20
 * [Commit] [unhide deprecation warnings (#7514)](https://github.com/status-im/nimbus-eth2/commit/f4e5ef8d05d14c155192ec011408cc2d32386bc6) - 2025-09-21
 * [Commit] [add eip-7732 network topics (#7516)](https://github.com/status-im/nimbus-eth2/commit/db0b9503f702910dd592740c408fbc8bba57a017) - 2025-09-21
+* [Commit] [metrics: bump (#7523)](https://github.com/status-im/nimbus-eth2/commit/62ba6e99e4706455bdc2768aa8bd1d3a33e97631) - 2025-09-22
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

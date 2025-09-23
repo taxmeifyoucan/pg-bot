@@ -53,6 +53,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Update OP Superchain chains (#9328)](https://github.com/NethermindEth/nethermind/commit/e0083db2368c7b7ea25428e8db521d774f40dfba) - 2025-09-21
 * [Commit] [Auto-update fast sync settings (#9327)](https://github.com/NethermindEth/nethermind/commit/d0de8afc2e889085f9c99f6730628ab8ea7fb112) - 2025-09-21
 * [Pull Request] [Feature/cap estimate gas to 7825](https://github.com/NethermindEth/nethermind/pull/9331) - 2025-09-21
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/66a44392a4e58ba361d8f87a1e23768d774297d7) - 2025-09-22
+* [Pull Request] [Add debug_traceCallMany RPC method with Geth compatibility](https://github.com/NethermindEth/nethermind/pull/9333) - 2025-09-22
 ## Q2 2025
 
 

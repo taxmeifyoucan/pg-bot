@@ -125,6 +125,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [update](https://github.com/erigontech/erigon/commit/525c7cb24245dec2b6e6427d59e6cce9c4428534) - 2025-09-15
 * [Commit] [update](https://github.com/erigontech/erigon/commit/3b17c3999747becec8d70b7ab2287afcd28b27c2) - 2025-09-16
 * [Pull Request] [cherry-pick: Improve performance of blob recovery (#17121)](https://github.com/erigontech/erigon/pull/17158) - 2025-09-19
+* [Pull Request] [don't merge: try pick get blobs api](https://github.com/erigontech/erigon/pull/17178) - 2025-09-22
 ## Q2 2025
 
 

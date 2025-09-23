@@ -22,6 +22,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [minor](https://github.com/NethermindEth/nethermind/commit/92db2f533040ce94ff6a20098ddbadecd4d24254) - 2025-08-08
 * [Commit] [better solution to the sender problem](https://github.com/NethermindEth/nethermind/commit/01c1bb470761a0778cce8181c7d0cd8e17ba10a5) - 2025-08-08
 * [Commit] [implement eth_getAccountInfo (#9241)](https://github.com/NethermindEth/nethermind/commit/33615a2e84b9280491d59d5c0bb591564afcd4c5) - 2025-09-04
+* [Commit] [Fix Taiko Chains Default Config (#9309)](https://github.com/NethermindEth/nethermind/commit/b56d95631ec15022bf15769b27a86188c892104f) - 2025-09-22
+* [Commit] [Fix empty slots error in SnapSync - return error status instead of throwing exception (#9313)](https://github.com/NethermindEth/nethermind/commit/198a2c9025f39d735142d3d9f2b7508a813a0d29) - 2025-09-22
 ## Q2 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

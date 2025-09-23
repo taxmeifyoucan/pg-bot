@@ -119,6 +119,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Change error message (#15635)](https://github.com/OffchainLabs/prysm/commit/4a1ab709296366822dd12552e13f70eb27b19a56) - 2025-09-20
 * [Commit] [update to v1.6.0-alpha.6 (#15658)](https://github.com/OffchainLabs/prysm/commit/1933adedbfc2a188a704628147d537eb62325a8e) - 2025-09-20
 * [Commit] [Add Gloas protobuf definitions with spec tests](https://github.com/OffchainLabs/prysm/commit/07fd5f9ca064ea9bb685753db4373b2bb21f1b02) - 2025-09-20
+* [Commit] [Add Gloas slot processing with execution payload availability updates](https://github.com/OffchainLabs/prysm/commit/064d4728a6eb8fb1191ae41c86d83fc33cc974cf) - 2025-09-22
+* [Pull Request] [Add Gloas process slot](https://github.com/OffchainLabs/prysm/pull/15730) - 2025-09-22
+* [Commit] [Update beacon-chain/state/state-native/hasher.go](https://github.com/OffchainLabs/prysm/commit/6d7565670088d073f065d9b1ccb856d40478e6c9) - 2025-09-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

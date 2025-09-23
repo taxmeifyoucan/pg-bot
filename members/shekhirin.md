@@ -128,6 +128,7 @@ Team: Reth
 * [Commit] [fix(reth-bench): do not panic on empty results](https://github.com/paradigmxyz/reth/commit/82560e4b626a5dbd3e6f879f452392519a098a5e) - 2025-09-19
 * [Pull Request] [fix(reth-bench): do not panic on empty results](https://github.com/paradigmxyz/reth/pull/18570) - 2025-09-19
 * [Issue] [`reth report` command to send debugging information to developers](https://github.com/paradigmxyz/reth/issues/18569) - 2025-09-19
+* [Commit] [feat(storage): write headers, transasactions, and receipts to static files](https://github.com/paradigmxyz/reth/commit/cff55122d210afca4b2db78fa5a1c8e251378a21) - 2025-09-22
 ## Q2 2025
 
 

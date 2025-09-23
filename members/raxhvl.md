@@ -33,7 +33,13 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [🧹 chore(tests): Move to new test file](https://github.com/ethereum/execution-spec-tests/commit/94a7cc5993352e33e56f3ae934ae0a4d7074a6bb) - 2025-09-19
 * [Commit] [🚧 wip: noop reverts](https://github.com/ethereum/execution-spec-tests/commit/fca2468dfc4b77871bff59f84c4ce58e811cccc5) - 2025-09-20
 * [Commit] [🚧 wip: noop reverts](https://github.com/ethereum/execution-spec-tests/commit/4bb38e8d635230e89a940b2c7b4906a146bc0ab5) - 2025-09-21
+* [Commit] [✨ feat(test): test_bal_block_rewards](https://github.com/ethereum/execution-spec-tests/commit/292d1dbf894055dce02bfc08574079d6626494b2) - 2025-09-22
+* [Commit] [🥢 nit:](https://github.com/ethereum/execution-spec-tests/commit/54b8cb17c1bd9a8aae936789d0c8ce67adab144a) - 2025-09-22
+* [Commit] [✨ feat(tests): test_bal_call_with_value_transfer](https://github.com/ethereum/execution-spec-tests/commit/5f686024cdaa5dd29672c1708a0d2b2211355ec4) - 2025-09-22
+* [Pull Request] [✨ feat(tests): EIP-7928 account access test cases](https://github.com/ethereum/execution-spec-tests/pull/2182) - 2025-09-22
+* [Commit] [🚧 wip: aborted account access](https://github.com/ethereum/execution-spec-tests/commit/386f56ff102dde3499be8f42651ba58f5d0a211e) - 2025-09-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-7928 BAL does not include recipient of a zero-value transfer](https://github.com/ethereum/execution-specs/issues/1430) - 2025-09-19
 * [Issue] [EIP-7928 BAL includes storage changes even after transaction reverts](https://github.com/ethereum/execution-specs/issues/1432) - 2025-09-20
 * [Issue] [EIP-7928 BAL DOES NOT include pure contracts in account changes](https://github.com/ethereum/execution-specs/issues/1433) - 2025-09-21
+* [Issue] [EIP-7928 BAL DOES NOT include target address of `CALLCODE` and `DELEGATECALL`](https://github.com/ethereum/execution-specs/issues/1434) - 2025-09-22

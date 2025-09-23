@@ -209,6 +209,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [remove unnecessary change](https://github.com/erigontech/erigon/commit/d423d6cab3a2c448fc0fd81597986b5817d1f0c9) - 2025-09-21
 * [Commit] [better handle of out of bounds (#17170)](https://github.com/erigontech/erigon/commit/c93f9a6be616b7352b5e90a804058b7655d00345) - 2025-09-21
 * [Commit] [execution: fix 3 failing hive tests due to off by 1 bug in min unwindable](https://github.com/erigontech/erigon/commit/0e8b58912f4090d36f3b6dc92a47b384c33cff64) - 2025-09-21
+* [Commit] [execution/tests: add retry to engine api tests for no connection on win (#17195)](https://github.com/erigontech/erigon/commit/1b9bffb9b1930c8a15388fa458d28283ba7f6495) - 2025-09-22
+* [Pull Request] [execution/tests: add retry to engine api tests for no connection on win](https://github.com/erigontech/erigon/pull/17195) - 2025-09-22
+* [Pull Request] [execution/bbd: final follow up to migrate astrid to use bbd ](https://github.com/erigontech/erigon/pull/17194) - 2025-09-22
+* [Commit] [polygon/bor: reenable some fixed tests (#17192)](https://github.com/erigontech/erigon/commit/fc008ec0ece624f1f4ff57a43b6388b530ab147c) - 2025-09-22
+* [Commit] [Remove unnecessary docker login for kurtosis CI tests (#17175)](https://github.com/erigontech/erigon/commit/fb74e8dfe1d30601eed298c57554a6462ff018d3) - 2025-09-22
+* [Commit] [polygon/db: minor pkg rename for clarity (#17191)](https://github.com/erigontech/erigon/commit/4d21660944c18f77249a0e825d3b5062d1f655a2) - 2025-09-22
+* [Pull Request] [polygon/bor: reenable some fixed tests](https://github.com/erigontech/erigon/pull/17192) - 2025-09-22
+* [Commit] [torrent: cherry-pick from r31 to fix panic on index out of range in torrent lib (#17190)](https://github.com/erigontech/erigon/commit/cb9db1ece65494fedaf819180f45fe22c7bac925) - 2025-09-22
+* [Pull Request] [polygon/db: minor pkg rename for clarity](https://github.com/erigontech/erigon/pull/17191) - 2025-09-22
+* [Pull Request] [torrent: cherry-pick from r31 to fix panic on index out of range in torrent lib](https://github.com/erigontech/erigon/pull/17190) - 2025-09-22
+* [Commit] [Enable eth/69 (#17186)](https://github.com/erigontech/erigon/commit/c45eea7c555edb0f16ceb6a9e08bb7d539dade3b) - 2025-09-22
+* [Commit] [p2p: Support sideprotocols in sentry_client (#16723)](https://github.com/erigontech/erigon/commit/8ea16149e192734e6f2b8bf35d07be8355141f09) - 2025-09-22
 ## Q2 2025
 
 

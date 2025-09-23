@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [ConcurrentModificationException building blocks](https://github.com/hyperledger/besu/issues/9186) - 2025-09-18
 * [Pull Request] [Update Fusaka forks for testnets](https://github.com/hyperledger/besu/pull/9196) - 2025-09-19
 * [Commit] [disable bal for transaction selection when not activated (#9189)](https://github.com/hyperledger/besu/commit/067792362b981f9cdb0c37f330bc45088b168a35) - 2025-09-19
+* [Pull Request] [Update proposal block with proposer on roundchange](https://github.com/hyperledger/besu/pull/9204) - 2025-09-22
 ## Q2 2025
 
 

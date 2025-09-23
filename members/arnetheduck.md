@@ -206,6 +206,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [cleanup](https://github.com/status-im/nimbus-eth2/commit/541bbfb44b6505008c3d0f7c632414c95ff2892e) - 2025-09-21
 * [Commit] [push sidecar style selection up the call chain](https://github.com/status-im/nimbus-eth2/commit/11f19940f2b501cf8802bab453b87155e00036ef) - 2025-09-21
 * [Commit] [Apply suggestions from code review](https://github.com/status-im/nimbus-eth2/commit/3e54c200d9fa553bf6d5c32ecc5c1998a28136e1) - 2025-09-21
+* [Pull Request] [nimcrypto: bump](https://github.com/status-im/nimbus-eth2/pull/7524) - 2025-09-22
+* [Commit] [nimcrypto: bump](https://github.com/status-im/nimbus-eth2/commit/7591f3e972a65148d0d1fb718a22a2ea9e8afc89) - 2025-09-22
+* [Pull Request] [metrics: bump](https://github.com/status-im/nimbus-eth2/pull/7523) - 2025-09-22
+* [Pull Request] [chronos: bump](https://github.com/status-im/nimbus-eth2/pull/7522) - 2025-09-22
+* [Pull Request] [vendor: assorted bumps](https://github.com/status-im/nimbus-eth2/pull/7521) - 2025-09-22
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

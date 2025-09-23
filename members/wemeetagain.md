@@ -135,6 +135,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: add logs and metrics to GetBlobsTracker (#8432)](https://github.com/ChainSafe/lodestar/commit/c20158159f93852adb66c6722e6059df55a3e9c9) - 2025-09-19
 * [Commit] [fix: emit unknownParent event (#8429)](https://github.com/ChainSafe/lodestar/commit/200e2443d43b2916ab0433c3d0611a587340cdc4) - 2025-09-19
 * [Commit] [Update packages/beacon-node/src/chain/ColumnReconstructionTracker.ts](https://github.com/ChainSafe/lodestar/commit/cf85e5747f820e11dce598ce5bef61978091fb61) - 2025-09-19
+* [Commit] [chore: sync PeerDAS dashboard (#8443)](https://github.com/ChainSafe/lodestar/commit/092cc3954a529bc4c92378651b7e49f77f162340) - 2025-09-22
 ## Q2 2025
 
 

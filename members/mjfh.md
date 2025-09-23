@@ -37,6 +37,8 @@ Team: Nimbus
 * [Commit] [Update `Exception` tracing for EL main module](https://github.com/status-im/nimbus-eth1/commit/17b056f864561740d67993180d9869b1620d8aca) - 2025-09-15
 * [Pull Request] [Provide main program API so it can be extended (e.g. for debugging.)](https://github.com/status-im/nimbus-eth1/pull/3678) - 2025-09-15
 * [Commit] [Provide main program API so it can be extended (e.g. for debugging.) (#3678)](https://github.com/status-im/nimbus-eth1/commit/a5d39f9c7bb5d1b9e62472c0798c091eb3a0369e) - 2025-09-16
+* [Commit] [Use `confutils` for command line options management](https://github.com/status-im/nimbus-eth1/commit/765d0ee9aea04d3ec47e356e3583438b60717531) - 2025-09-22
+* [Commit] [Remove hive integration (#3686)](https://github.com/status-im/nimbus-eth1/commit/dc8652a80bf932f07c73ebebbad034d4b2c58953) - 2025-09-22
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

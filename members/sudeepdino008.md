@@ -265,6 +265,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [small refactoring](https://github.com/erigontech/erigon/commit/c06b01a13f413c1fd34cec15b8c3cea85356d312) - 2025-09-18
 * [Commit] [remove tests/testdata](https://github.com/erigontech/erigon/commit/94b7b2e86076c5fc392768ea285cdf999a3774b9) - 2025-09-19
 * [Commit] [use local chan to avoid race](https://github.com/erigontech/erigon/commit/d57981c4de1c3e3c9025a7860c9040b79360c9d0) - 2025-09-19
+* [Pull Request] [validate domain progress in integrity](https://github.com/erigontech/erigon/pull/17193) - 2025-09-22
+* [Pull Request] [cp: handles a bug in receipt values when there's only 1 tx in the block (query only)](https://github.com/erigontech/erigon/pull/17187) - 2025-09-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

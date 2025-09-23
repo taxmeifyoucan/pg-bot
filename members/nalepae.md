@@ -201,6 +201,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Fix orphaned blocks](https://github.com/OffchainLabs/prysm/pull/15720) - 2025-09-19
 * [Commit] [Add more time markers](https://github.com/OffchainLabs/prysm/commit/293a37bef171641e0ab45bb0d5d420c0208b9cad) - 2025-09-19
 * [Commit] [Add a lot of time markers](https://github.com/OffchainLabs/prysm/commit/b99cf362a5b1e859bb4e5317fb502675d7a947c8) - 2025-09-19
+* [Pull Request] [Improve logging of data column sidecars](https://github.com/OffchainLabs/prysm/pull/15728) - 2025-09-22
+* [Pull Request] [`NewGenesisBlockForState`: Add Fulu.](https://github.com/OffchainLabs/prysm/pull/15727) - 2025-09-22
 ## Q2 2025
 
 

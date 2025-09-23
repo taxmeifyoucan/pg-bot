@@ -63,6 +63,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Add co-author to mergify commits (#7993)](https://github.com/sigp/lighthouse/commit/fd10b632740e441354c4547a12727c29dd288239) - 2025-09-22
 * [Issue] [Set Fulu fork epoch for Hoodi](https://github.com/sigp/lighthouse/issues/8097) - 2025-09-22
 * [Issue] [Set Fulu fork epoch for Holesky](https://github.com/sigp/lighthouse/issues/8096) - 2025-09-22
+* [Pull Request] [Fix bugs in proposer calculation post-Fulu](https://github.com/sigp/lighthouse/pull/8101) - 2025-09-22
+* [Issue] [Set Fulu fork epoch for Sepolia](https://github.com/sigp/lighthouse/issues/8099) - 2025-09-22
+* [Pull Request] [Refine HTTP status logs](https://github.com/sigp/lighthouse/pull/8098) - 2025-09-22
 ## Q2 2025
 
 

@@ -86,6 +86,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [total](https://github.com/erigontech/erigon/commit/92acc625b65938948a8683501c4573f2cbee3165) - 2025-09-20
 * [Commit] [log3](https://github.com/erigontech/erigon/commit/fa65069d3d479c2b718026974afb38e7ce87db46) - 2025-09-20
 * [Commit] [log2](https://github.com/erigontech/erigon/commit/cf66c1a9924cc0ef6ded122cc93ff2c404b8c543) - 2025-09-20
+* [Commit] [Fix incorrect `GoodPeers` count (#17171)](https://github.com/erigontech/erigon/commit/afb06f8c6f0abf7dc9ce59c685abec4dd46e7962) - 2025-09-22
+* [Commit] [Fix test](https://github.com/erigontech/erigon/commit/a72bba0d7d14317382e4dffdda94059c1007d6a4) - 2025-09-22
+* [Issue] [Fix Hive tests for eth/69](https://github.com/erigontech/erigon/issues/17189) - 2025-09-22
+* [Issue] [Clean up eth/67 leftovers](https://github.com/erigontech/erigon/issues/17188) - 2025-09-22
+* [Commit] [Drop eth/67](https://github.com/erigontech/erigon/commit/b5b7cc19ba16ce8a4b132328cf46c3aec0eb2b8e) - 2025-09-22
+* [Commit] [Back to err](https://github.com/erigontech/erigon/commit/2399b65711e771e7bdccf274f5fa8c16330cda21) - 2025-09-22
+* [Commit] [Indentation](https://github.com/erigontech/erigon/commit/d2dea986a81874d04cca9e788655574ecdf4a6df) - 2025-09-22
+* [Pull Request] [Enable eth/69](https://github.com/erigontech/erigon/pull/17186) - 2025-09-22
+* [Commit] [test](https://github.com/erigontech/erigon/commit/fd17080011507e599d9e5577b8eb79d1f1648e5b) - 2025-09-22
+* [Commit] [Check sideprotocols in server](https://github.com/erigontech/erigon/commit/5e7429288c29b29b2979600342033d8d87c94c10) - 2025-09-22
+* [Commit] [Use sync.Once](https://github.com/erigontech/erigon/commit/155812fcdbb6b588c7efe5094c40e0c2f823078e) - 2025-09-22
+* [Pull Request] [Prevent `wit` sideprotocol from running without `eth`](https://github.com/erigontech/erigon/pull/17176) - 2025-09-22
+* [Commit] [Update `interfaces` to master](https://github.com/erigontech/erigon/commit/32c3f51461556c827ca14266ee42281c97fc2b3a) - 2025-09-22
 ## Q2 2025
 
 
