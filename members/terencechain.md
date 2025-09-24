@@ -122,6 +122,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add Gloas slot processing with execution payload availability updates](https://github.com/OffchainLabs/prysm/commit/064d4728a6eb8fb1191ae41c86d83fc33cc974cf) - 2025-09-22
 * [Pull Request] [Add Gloas process slot](https://github.com/OffchainLabs/prysm/pull/15730) - 2025-09-22
 * [Commit] [Update beacon-chain/state/state-native/hasher.go](https://github.com/OffchainLabs/prysm/commit/6d7565670088d073f065d9b1ccb856d40478e6c9) - 2025-09-22
+* [Commit] [fix getStateRandao not returning historic RANDAO mix values (#15653)](https://github.com/OffchainLabs/prysm/commit/02dca852516553d88a3140d8ba3ac4362137aa71) - 2025-09-23
+* [Commit] [Refactor ComputeFieldRootsWithHasher into smaller helper functions](https://github.com/OffchainLabs/prysm/commit/af862c3f33c703be753be005e9d5b230bfcb9ae3) - 2025-09-23
+* [Commit] [implement eip-7928 as a gloas fork without eip-7732](https://github.com/OffchainLabs/prysm/commit/ee27fde678feab773529aefec2156e9f4755e8f7) - 2025-09-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23

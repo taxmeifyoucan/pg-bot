@@ -33,6 +33,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: don't log proposer boost reorg logs during sync (#8363)](https://github.com/ChainSafe/lodestar/commit/6953c24bc9ad2f20a0918bd3380aaffa0762e3ce) - 2025-09-11
 * [Commit] [Fix sync committee function calling](https://github.com/ChainSafe/lodestar/commit/741a43b1c4e18aaa31c2fce18f238a5b445fc637) - 2025-09-19
 * [Commit] [chore: remove parent beacon block root from execution payload rpc type (#8428)](https://github.com/ChainSafe/lodestar/commit/5e2a80008e91c193802a602a156172c9b1060d8c) - 2025-09-19
+* [Commit] [Set `SLOT_DURATION_MS` if not provided](https://github.com/ChainSafe/lodestar/commit/425a1dfc4aa074f46eaf88676b54d2257e77e327) - 2025-09-23
+* [Commit] [Address @nflaig's comment](https://github.com/ChainSafe/lodestar/commit/bc91892306b754bff586cd8a3864dbe3e9a00498) - 2025-09-23
 ## Q2 2025
 
 

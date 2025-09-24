@@ -244,6 +244,9 @@ Team: Erigon
 * [Commit] [make add to closed queue error](https://github.com/erigontech/erigon/commit/88972f9fab865a9ee402790b0002c3429bc3cc25) - 2025-09-21
 * [Commit] [revert domain test check](https://github.com/erigontech/erigon/commit/bb423b2a6d3ddcdf1f7b88ebfce87bcf21de137d) - 2025-09-22
 * [Commit] [revert cursor map](https://github.com/erigontech/erigon/commit/ae0db76894765f3745b748a1c63c7fbd873170e2) - 2025-09-22
+* [Commit] [p2p: Support sideprotocols in sentry_client (#16723)](https://github.com/erigontech/erigon/commit/8ea16149e192734e6f2b8bf35d07be8355141f09) - 2025-09-23
+* [Commit] [make integration test](https://github.com/erigontech/erigon/commit/6f80f5ab8841e40b935b2cf4ee6c1c9f03bf5adc) - 2025-09-23
+* [Commit] [select apply receipts per tx](https://github.com/erigontech/erigon/commit/5ec8b1f58146af2f2900d6e75edb924c0ef3acdb) - 2025-09-23
 ## Q2 2025
 
 

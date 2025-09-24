@@ -50,6 +50,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(doc): Re-visit the tracing documentation for json_infra tests](https://github.com/ethereum/execution-specs/issues/1398) - 2025-09-02
 * [Issue] [refactor(tool): Change `is_after_fork` method](https://github.com/ethereum/execution-specs/issues/1424) - 2025-09-11
 * [Pull Request] [chore(tooling): Update static checks](https://github.com/ethereum/execution-specs/pull/1428) - 2025-09-16
+* [Pull Request] [fix(tool): update path to include forks folder](https://github.com/ethereum/execution-specs/pull/1436) - 2025-09-23
 ## Q2 2025
 
 

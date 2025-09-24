@@ -16,5 +16,9 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 * [Pull Request] [test(eip7951): add invalid curve attack test case for P256VERIFY](https://github.com/ethereum/execution-spec-tests/pull/2082) - 2025-08-27
 
 * [Pull Request] [test(eip7883): Add zero edge cases for ModExp gas cost tests](https://github.com/ethereum/execution-spec-tests/pull/2108) - 2025-09-08
+* [Pull Request] [Blocktest builder](https://github.com/ethereum/execution-spec-tests/pull/2190) - 2025-09-23
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [test: Implement fuzz testing framework for P256Verify precompiled contract](https://github.com/hyperledger/besu/pull/9140) - 2025-08-31
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [cmd/evm: fix nil pointer dereference in Osaka fork blob gas calculation](https://github.com/ethereum/go-ethereum/pull/32714) - 2025-09-23

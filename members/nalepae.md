@@ -203,6 +203,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Add a lot of time markers](https://github.com/OffchainLabs/prysm/commit/b99cf362a5b1e859bb4e5317fb502675d7a947c8) - 2025-09-19
 * [Pull Request] [Improve logging of data column sidecars](https://github.com/OffchainLabs/prysm/pull/15728) - 2025-09-22
 * [Pull Request] [`NewGenesisBlockForState`: Add Fulu.](https://github.com/OffchainLabs/prysm/pull/15727) - 2025-09-22
+* [Pull Request] [`createLocalNode`: Wait before retrying to retrieve the custody group count if not present.](https://github.com/OffchainLabs/prysm/pull/15735) - 2025-09-23
+* [Issue] [Do not fail (builder) block production when local block production fails.](https://github.com/OffchainLabs/prysm/issues/15734) - 2025-09-23
+* [Commit] [Add changelog.](https://github.com/OffchainLabs/prysm/commit/060357df7e6f7e42bbb22fb4833ca90b71c6c80e) - 2025-09-23
+* [Pull Request] [Fix no custody info available at start](https://github.com/OffchainLabs/prysm/pull/15732) - 2025-09-23
 ## Q2 2025
 
 

@@ -105,6 +105,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: small fixes and e2e test fix (#8420)](https://github.com/ChainSafe/lodestar/commit/0d70dde49e57cc9100c3e16f0c65dc542e5d1bf6) - 2025-09-18
 * [Issue] [need to add NetworkEvent.peerUpdated](https://github.com/ChainSafe/lodestar/issues/8424) - 2025-09-18
 * [Commit] [feat: refactor block input (#8200)](https://github.com/ChainSafe/lodestar/commit/a70bac5bd3602c4bcd7c1219e059bf4e99eca213) - 2025-09-19
+* [Commit] [fix: type in file name](https://github.com/ChainSafe/lodestar/commit/98e94ae28e625ca43a004a1a7ad8b3c92c8b9fe6) - 2025-09-23
+* [Commit] [fix: emit blob/data column sidecar events when we receive them by root (#8445)](https://github.com/ChainSafe/lodestar/commit/8b45b1e97857f1bd7a78e6d88b865e225b1e320d) - 2025-09-23
+* [Commit] [fix: emit data column sidecar event when receive them from execution (#8446)](https://github.com/ChainSafe/lodestar/commit/b42a298a7c777d8246533180f7475ddd33455aed) - 2025-09-23
+* [Commit] [docs: add TODO about metrics](https://github.com/ChainSafe/lodestar/commit/4b5562324bfb2eef73173801e4ae104eae25b8b5) - 2025-09-23
+* [Issue] [Fulu TODO tracker](https://github.com/ChainSafe/lodestar/issues/8453) - 2025-09-23
+* [Commit] [docs: add TODO about metrics](https://github.com/ChainSafe/lodestar/commit/30d7267552e86f86ebd32eb55e7f5cdd375aea75) - 2025-09-23
+* [Commit] [docs: add TODO about metrics](https://github.com/ChainSafe/lodestar/commit/00360f0b3b99523e9906b38b81ffa9fbc0f2e07e) - 2025-09-23
+* [Pull Request] [fix: turn on eip7594 spec tests and rename mekle.test.ts -> merkleProof.test.ts](https://github.com/ChainSafe/lodestar/pull/8452) - 2025-09-23
 ## Q2 2025
 
 

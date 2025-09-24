@@ -202,6 +202,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [unhide deprecation warnings (#7514)](https://github.com/status-im/nimbus-eth2/commit/f4e5ef8d05d14c155192ec011408cc2d32386bc6) - 2025-09-21
 * [Commit] [add eip-7732 network topics (#7516)](https://github.com/status-im/nimbus-eth2/commit/db0b9503f702910dd592740c408fbc8bba57a017) - 2025-09-21
 * [Commit] [metrics: bump (#7523)](https://github.com/status-im/nimbus-eth2/commit/62ba6e99e4706455bdc2768aa8bd1d3a33e97631) - 2025-09-22
+* [Commit] [schedule Fulu on Sepolia, Holesky, and Hoodi (#7529)](https://github.com/status-im/nimbus-eth2/commit/2a57434359c751f7e394defd731e28ce2e07cfe3) - 2025-09-23
+* [Commit] [fix minimized](https://github.com/status-im/nimbus-eth2/commit/a80dd5188967d62f1663238945662657a5fa8122) - 2025-09-23
+* [Commit] [column serving issue and other fixes (#7528)](https://github.com/status-im/nimbus-eth2/commit/4f069fc0e4982073f9ad0df603da77c2ea73f649) - 2025-09-23
+* [Commit] [metrics: bump (#7523)](https://github.com/status-im/nimbus-eth2/commit/62ba6e99e4706455bdc2768aa8bd1d3a33e97631) - 2025-09-23
+* [Commit] [schedule Fulu on Sepolia, Holesky, and Hoodi](https://github.com/status-im/nimbus-eth2/commit/0219e69d56da702370f44d69629f556f9634356b) - 2025-09-23
+* [Pull Request] [schedule Fulu on Sepolia, Holesky, and Hoodi](https://github.com/status-im/nimbus-eth2/pull/7529) - 2025-09-23
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

@@ -231,6 +231,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [bump: c-kzg v2.1.4](https://github.com/bluealloy/revm/pull/3002) - 2025-09-22
 * [Commit] [feat: Add Str(Cow<'static, str>) to InvalidTransaction error enum (#2998)](https://github.com/bluealloy/revm/commit/426ffb3531c8da97b8f9755f34f16e477c8bcdb2) - 2025-09-22
 * [Commit] [chore: use offset_from_unsigned (#2999)](https://github.com/bluealloy/revm/commit/3241f919e00411b1ff1412ee0d2ea65b18cb45fd) - 2025-09-22
+* [Commit] [examples propagation](https://github.com/bluealloy/revm/commit/976f7afdcaa15c8950b722740508141b817e879d) - 2025-09-23
+* [Commit] [chore: forward optional_fee_charge feature (#3005)](https://github.com/bluealloy/revm/commit/4cb023095b46ccdd7ad0e801d6094a8d17b3339c) - 2025-09-23
+* [Commit] [chore: changelog update v87](https://github.com/bluealloy/revm/commit/1ac08b84c90b28a8ac0f104609bf18febeceb347) - 2025-09-23
+* [Commit] [wip](https://github.com/bluealloy/revm/commit/d5b1f0b4fedb4308a5d76c56c7efc583c7588b12) - 2025-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

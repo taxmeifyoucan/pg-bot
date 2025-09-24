@@ -92,6 +92,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Use raw async functions when creating handlers in ForkedChain (#3694)](https://github.com/status-im/nimbus-eth1/commit/c859f168f8c18b52b86772d257c84e80d0d70c1e) - 2025-09-19
 * [Pull Request] [Fix crash due to missing checkpoint on shutdown during sync](https://github.com/status-im/nimbus-eth1/pull/3695) - 2025-09-19
 * [Pull Request] [Use raw async functions when creating handlers in ForkedChain](https://github.com/status-im/nimbus-eth1/pull/3694) - 2025-09-19
+* [Commit] [Update test.](https://github.com/status-im/nimbus-eth1/commit/4ee95790f3635d2dc22c5f3e37e5f0274b6c1365) - 2025-09-23
+* [Commit] [Update execution_chain/core/chain/forked_chain.nim](https://github.com/status-im/nimbus-eth1/commit/03f60a0f7da64d553ac0f7b19937a2b6661602b4) - 2025-09-23
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

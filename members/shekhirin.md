@@ -129,6 +129,7 @@ Team: Reth
 * [Pull Request] [fix(reth-bench): do not panic on empty results](https://github.com/paradigmxyz/reth/pull/18570) - 2025-09-19
 * [Issue] [`reth report` command to send debugging information to developers](https://github.com/paradigmxyz/reth/issues/18569) - 2025-09-19
 * [Commit] [feat(storage): write headers, transasactions, and receipts to static files](https://github.com/paradigmxyz/reth/commit/cff55122d210afca4b2db78fa5a1c8e251378a21) - 2025-09-22
+* [Commit] [Update crates/tasks/src/pool.rs](https://github.com/paradigmxyz/reth/commit/a844a2cc34222180573512e6af3e1a6c2736b227) - 2025-09-23
 ## Q2 2025
 
 

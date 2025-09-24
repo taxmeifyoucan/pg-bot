@@ -52,6 +52,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [More changes in getSidecarSlot().](https://github.com/status-im/nimbus-eth2/commit/95c0e3e574a8c9a2ac4572851f3102ec4ee16f30) - 2025-09-20
 * [Commit] [Address all the warnings.](https://github.com/status-im/nimbus-eth2/commit/de4f1b18292f73877c34519db4705b3e985555fd) - 2025-09-21
 * [Commit] [Make SyncQueue return negative integer when rewind is happen.](https://github.com/status-im/nimbus-eth2/commit/bb3880a26e68192f716e0ec35531a198dbe9a7c1) - 2025-09-21
+* [Commit] [Fix peer management in Overseer.](https://github.com/status-im/nimbus-eth2/commit/bbf6bfc0643ac9bbb99d2139ccd02fab30dc7ecc) - 2025-09-23
+* [Commit] [Post-rebase fixes.](https://github.com/status-im/nimbus-eth2/commit/8c4fd55582385a5698b901ed1894f8c6ab8678fb) - 2025-09-23
+* [Commit] [fix vcus start process](https://github.com/status-im/nimbus-eth2/commit/071f2e4a079d3ea311758871144e1fd7afd364dd) - 2025-09-23
+* [Commit] [Disable byRoot syncing while rangeSync is active.](https://github.com/status-im/nimbus-eth2/commit/63dfab231e469e5d7b55da0551315fab47a453a1) - 2025-09-23
 ## Q2 2025
 
 

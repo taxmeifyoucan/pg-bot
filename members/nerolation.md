@@ -58,6 +58,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Issue] [EIP-7928 Breakout #1, August 27, 2025](https://github.com/ethereum/pm/issues/1691) - 2025-08-18
 
 * [Issue] [EIP-7928 Breakout #2, Sept 10, 2025](https://github.com/ethereum/pm/issues/1708) - 2025-09-01
+* [Issue] [EIP-7928 Breakout #3, Sept 24, 2025](https://github.com/ethereum/pm/issues/1738) - 2025-09-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Add EIP-7928 execution-api specs](https://github.com/ethereum/execution-apis/pull/691) - 2025-08-27
 ## Q2 2025

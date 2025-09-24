@@ -169,6 +169,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: sync PeerDAS dashboard](https://github.com/ChainSafe/lodestar/pull/8443) - 2025-09-22
 * [Commit] [fix: only track data column subnet topics we subscribe to](https://github.com/ChainSafe/lodestar/commit/ebf29bef040a788d343457532a4b170c468bb03c) - 2025-09-22
 * [Pull Request] [feat: track number of peers per data column subnet topic](https://github.com/ChainSafe/lodestar/pull/8442) - 2025-09-22
+* [Issue] [Performance concern of gossipsub metrics](https://github.com/ChainSafe/lodestar/issues/8454) - 2025-09-23
+* [Commit] [feat: track number of peers per data column subnet topic (#8442)](https://github.com/ChainSafe/lodestar/commit/4efea5815ee19b27be592716390f353c4d644539) - 2025-09-23
 ## Q2 2025
 
 

@@ -111,6 +111,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Enable passing args to Nethermind when using sync chains pipeline (#9184)](https://github.com/NethermindEth/nethermind/commit/097cd766aee5ba73d8fe4b6ce49c75241ce6225b) - 2025-09-13
 * [Commit] [Select proper block (#9289)](https://github.com/NethermindEth/nethermind/commit/c619fbe9c3a5583190dc234bbc1d5cc34e668938) - 2025-09-17
 * [Pull Request] [Revert "Per contract state (#9088)"](https://github.com/NethermindEth/nethermind/pull/9323) - 2025-09-20
+* [Commit] [Fix blockhash related random invalid block](https://github.com/NethermindEth/nethermind/commit/de010106eeb307d20803160cf05d8c3f38c4c119) - 2025-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

@@ -211,6 +211,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [metrics: bump](https://github.com/status-im/nimbus-eth2/pull/7523) - 2025-09-22
 * [Pull Request] [chronos: bump](https://github.com/status-im/nimbus-eth2/pull/7522) - 2025-09-22
 * [Pull Request] [vendor: assorted bumps](https://github.com/status-im/nimbus-eth2/pull/7521) - 2025-09-22
+* [Commit] [one more](https://github.com/status-im/nimbus-eth2/commit/a3516ab48052e73531f10bd0d8e6b2cafc8c3fd3) - 2025-09-23
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/22389427f779bb94355c8487d200a702ce3914fc) - 2025-09-23
+* [Commit] [test](https://github.com/status-im/nimbus-eth2/commit/b491796aa62951a4f6d45ec7d851e2b7e23f5d22) - 2025-09-23
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

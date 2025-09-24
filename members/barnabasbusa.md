@@ -63,6 +63,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [add qu0b](https://github.com/ethpandaops/template-devnets/pull/122) - 2025-09-16
 * [Commit] [add ssh keys](https://github.com/ethpandaops/template-devnets/commit/faf923e6e23de19d09ba45b568eb8a4fa0bf66cf) - 2025-09-16
 * [Pull Request] [fix: remove pprof redundant flag from prysm](https://github.com/ethpandaops/template-devnets/pull/125) - 2025-09-19
+* [Commit] [add grandine env](https://github.com/ethpandaops/template-devnets/commit/3236daf4d3fe438a10988e5f9d46afc08d996561) - 2025-09-23
+* [Commit] [fix sops](https://github.com/ethpandaops/template-devnets/commit/2d177f5af6906425c9688bfc4dde2914b55b67b4) - 2025-09-23
+* [Commit] [add qu0b (#122)](https://github.com/ethpandaops/template-devnets/commit/387c95dec72e99015e12b1a98de43662d6e3e6ef) - 2025-09-23
+* [Pull Request] [Bbusa/bump relay](https://github.com/ethpandaops/template-devnets/pull/127) - 2025-09-23
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Commit] [fix go fmt](https://github.com/ethpandaops/dora/commit/15708132cc1c9e5bf1000766b5a7076e22819a00) - 2025-08-04
 * [Commit] [fixes](https://github.com/ethpandaops/dora/commit/d05bca8af70ae490a6a2bc7f8a0847209f4a2003) - 2025-08-04
@@ -79,6 +83,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: add optional validator summary page](https://github.com/ethpandaops/dora/commit/2bfa36f8d06e4aa83836aa824ea9576290c5de41) - 2025-09-04
 * [Commit] [add auth groups to config to reduce number of secrets](https://github.com/ethpandaops/dora/commit/32389dc78e1681a5ead332b4fa2fb9b6b3485c90) - 2025-09-04
 * [Pull Request] [fix: add supported columns as an array instead of bool](https://github.com/ethpandaops/dora/pull/479) - 2025-09-17
+* [Commit] [fix](https://github.com/ethpandaops/dora/commit/ec7cdd089150e04659e75c54e0c2119959b54aa0) - 2025-09-23
+* [Pull Request] [chore: bump eth-das-guardian](https://github.com/ethpandaops/dora/pull/485) - 2025-09-23
 ## Q2 2025
 
 

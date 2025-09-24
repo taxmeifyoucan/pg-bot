@@ -221,6 +221,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [torrent: cherry-pick from r31 to fix panic on index out of range in torrent lib](https://github.com/erigontech/erigon/pull/17190) - 2025-09-22
 * [Commit] [Enable eth/69 (#17186)](https://github.com/erigontech/erigon/commit/c45eea7c555edb0f16ceb6a9e08bb7d539dade3b) - 2025-09-22
 * [Commit] [p2p: Support sideprotocols in sentry_client (#16723)](https://github.com/erigontech/erigon/commit/8ea16149e192734e6f2b8bf35d07be8355141f09) - 2025-09-22
+* [Pull Request] [execution: fix deadlock in block building when run in envs with 1 erigon block builder](https://github.com/erigontech/erigon/pull/17213) - 2025-09-23
+* [Commit] [polygon/sync: demote log for failed block download to warn (#17209)](https://github.com/erigontech/erigon/commit/66ae4815e5d55a05db4ed42744b099c5003df8db) - 2025-09-23
+* [Commit] [User input "sanitization" (#17207)](https://github.com/erigontech/erigon/commit/b867971c168b0fbd836e6b6652e2a23342f73505) - 2025-09-23
+* [Commit] [[r32] polygon/sync: demote log for failed block download to warn (#17210)](https://github.com/erigontech/erigon/commit/d8fccd9c219cd9a0d6f3b7fdd4a1d03fbe517afb) - 2025-09-23
+* [Pull Request] [[r32] polygon/sync: demote log for failed block download to warn](https://github.com/erigontech/erigon/pull/17210) - 2025-09-23
+* [Pull Request] [polygon/sync: demote log for failed block download to warn](https://github.com/erigontech/erigon/pull/17209) - 2025-09-23
 ## Q2 2025
 
 

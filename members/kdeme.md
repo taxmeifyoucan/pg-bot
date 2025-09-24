@@ -59,6 +59,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Portal: Fix debug_getBlockHeader number decode + rename method (#3697)](https://github.com/status-im/nimbus-eth1/commit/31ebce2076ee22b09bebc1acb195c5b814d64431) - 2025-09-19
 * [Pull Request] [Portal: Change JSON-RPC port defaults client/bridge](https://github.com/status-im/nimbus-eth1/pull/3700) - 2025-09-19
 * [Pull Request] [Portal: Fix debug_getBlockHeader number decode + rename method](https://github.com/status-im/nimbus-eth1/pull/3697) - 2025-09-19
+* [Commit] [Portal: Fix double encoding (list + blob) of Portal field in ENR (#3707)](https://github.com/status-im/nimbus-eth1/commit/3673013092913e329983f70825536929bdf6d325) - 2025-09-23
+* [Commit] [Portal: Fix double encoding (list + blob) of Portal field in ENR](https://github.com/status-im/nimbus-eth1/commit/7de88954727ecb070398c7bbd4b88cf90f428c4f) - 2025-09-23
+* [Commit] [Portal: Fix double encoding (list + blob) of Portal field in ENR](https://github.com/status-im/nimbus-eth1/commit/d6d76689e34046e75150d9689dc3ed42f64d29b5) - 2025-09-23
+* [Pull Request] [Portal: Fix double encoding (list + blob) of Portal field in ENR](https://github.com/status-im/nimbus-eth1/pull/3707) - 2025-09-23
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Pull Request] [Update Portal bootstrap nodes](https://github.com/ethereum/portal-network-specs/pull/413) - 2025-09-14
 

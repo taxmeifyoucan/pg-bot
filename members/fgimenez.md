@@ -129,6 +129,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [chore(ci): unpin teku image for kurtosis-op](https://github.com/paradigmxyz/reth/pull/18595) - 2025-09-20
 * [Pull Request] [chore(ci): update expected and ignored hive tests](https://github.com/paradigmxyz/reth/pull/18594) - 2025-09-20
 * [Commit] [flaky](https://github.com/paradigmxyz/reth/commit/31715ae0b505ab05c1a41f3db91fc874fc0dd71b) - 2025-09-20
+* [Pull Request] [feat(e2e): add beacon consensus handle to NodeClient](https://github.com/paradigmxyz/reth/pull/18632) - 2025-09-23
+* [Commit] [feat(e2e): add beacon consensus handle](https://github.com/paradigmxyz/reth/commit/b6b67a7a51c0269010e329e95f97529532410423) - 2025-09-23
+* [Commit] [feat(e2e): add beacon consensus handle](https://github.com/paradigmxyz/reth/commit/a8c2b501ee308d9a762d6b8d11691f8207c795e0) - 2025-09-23
+* [Commit] [docs: fix incorrect RPC method names in trace calls (#18619)](https://github.com/paradigmxyz/reth/commit/e3cc6e2ea50db8ab5095bbcc7cd5c13a6d485e8f) - 2025-09-23
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add blob per tx limit for reth](https://github.com/ethereum/execution-spec-tests/pull/2016) - 2025-08-08
 ## Q2 2025

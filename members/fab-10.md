@@ -34,6 +34,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Backport: Time limited plugin txs selection ](https://github.com/hyperledger/besu/pull/9198) - 2025-09-19
 * [Commit] [Time limited plugin txs selection (#9184)](https://github.com/hyperledger/besu/commit/a7ef9f88dc296ef9a80087d6fffdfe489047bf2a) - 2025-09-19
 * [Commit] [Make the log of the block creation results more compact (#9191)](https://github.com/hyperledger/besu/commit/fe1ade7e8edde2c32d977a924dda201fc957be00) - 2025-09-19
+* [Commit] [Fix setting additional properties on TransitionProtocolSchedule (#9214)](https://github.com/hyperledger/besu/commit/d92210bfb045ca558a45765789956a33eaa8c9bf) - 2025-09-23
+* [Commit] [Option to enable sender balance checks in the layered txpool (#9176)](https://github.com/hyperledger/besu/commit/252b645c3dbd30a12794d49be2e9b095ca98eb64) - 2025-09-23
+* [Commit] [Update layered txpool replay mechanism (#9192)](https://github.com/hyperledger/besu/commit/4911819bdf0a6cefb8c6bdec4cc413fdfdd51428) - 2025-09-23
+* [Commit] [Improve the log of sender with mixed priority in the layered txpool (#9209)](https://github.com/hyperledger/besu/commit/b0c3ebbc46a5cffca695ba5ce06c48d9eb5ddea4) - 2025-09-23
+* [Pull Request] [Fix setting additional properties on TransitionProtocolSchedule](https://github.com/hyperledger/besu/pull/9214) - 2025-09-23
 ## Q2 2025
 
 

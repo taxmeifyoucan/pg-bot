@@ -136,6 +136,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(tests): update high nonce static test exception for reth](https://github.com/ethereum/execution-spec-tests/pull/2181) - 2025-09-19
 * [Pull Request] [chore(tests): workaround for EIP-6110 deposit log checks](https://github.com/ethereum/execution-spec-tests/pull/2177) - 2025-09-19
 * [Commit] [fix: use `engine_newPayloadV5` for Glamsterdam (#2170)](https://github.com/ethereum/execution-spec-tests/commit/ef683b24b1fa603f6102cf94a05c930b0392249a) - 2025-09-19
+* [Pull Request] [fix(clis): update Reth gas limit exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2191) - 2025-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

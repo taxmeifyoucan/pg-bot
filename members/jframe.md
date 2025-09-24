@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Update Fusaka forks for testnets](https://github.com/hyperledger/besu/pull/9196) - 2025-09-19
 * [Commit] [disable bal for transaction selection when not activated (#9189)](https://github.com/hyperledger/besu/commit/067792362b981f9cdb0c37f330bc45088b168a35) - 2025-09-19
 * [Pull Request] [Update proposal block with proposer on roundchange](https://github.com/hyperledger/besu/pull/9204) - 2025-09-22
+* [Commit] [Fix an error on eth_subscribe deserializing the block (#9212)](https://github.com/hyperledger/besu/commit/648acae9de8f5bff4c472d728131e90615d19b0f) - 2025-09-23
 ## Q2 2025
 
 

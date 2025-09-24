@@ -108,6 +108,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [Revert "integration: add eth_simulateV1 tests (#407)"](https://github.com/erigontech/rpc-tests/pull/457) - 2025-09-18
 * [Commit] [integration: add eth_simulateV1 tests (#407)](https://github.com/erigontech/rpc-tests/commit/da344d896dce988b9ab8dccff498b24bda151c0d) - 2025-09-19
 * [Pull Request] [integration: add eth_simulateV1 tests](https://github.com/erigontech/rpc-tests/pull/459) - 2025-09-19
+* [Commit] [fix blockTimestamp in logs](https://github.com/erigontech/rpc-tests/commit/b89e377213604f314efbddeb5955b3a526b9c50d) - 2025-09-23
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -215,6 +215,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [build(deps): bump SonarSource/sonarqube-scan-action from 5 to 6 (#17177)](https://github.com/erigontech/erigon/commit/fcd2566d57fc5834aa32a4d920cbda5f30372f43) - 2025-09-22
 * [Commit] [cp: handles a bug in receipt values when there's only 1 tx in the block (query only) (#17187)](https://github.com/erigontech/erigon/commit/e2b4de6a6cd7d5c34e249092ae04eba8b42ca081) - 2025-09-22
 * [Commit] [qa-tests: import the "Tip tracking & migration" tests  (#17155)](https://github.com/erigontech/erigon/commit/9f8acff300f3020b691354fba35db3056d0593e8) - 2025-09-22
+* [Pull Request] [[cleanup] common instead of libcommon](https://github.com/erigontech/erigon/pull/17218) - 2025-09-23
+* [Commit] [[cleanup] common instead of libcommon](https://github.com/erigontech/erigon/commit/86593c12231a1f5bc97df59dfcf40ad87b7c74bc) - 2025-09-23
+* [Commit] [refactor: use maps.Copy for cleaner map handling (#14277)](https://github.com/erigontech/erigon/commit/5c1a323476fd699767514b568138c9c711af7067) - 2025-09-23
+* [Pull Request] [core/vm: remove SkipAnalysis](https://github.com/erigontech/erigon/pull/17217) - 2025-09-23
+* [Commit] [core/vm: remove SkipAnalysis](https://github.com/erigontech/erigon/commit/46c60f52e5138f408f47ce5cb8a0273f522e7e76) - 2025-09-23
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

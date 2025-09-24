@@ -173,6 +173,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fork hash test timestamps](https://github.com/NethermindEth/nethermind/commit/258767ce65ad23c41acdab6b47c08e44d58d7975) - 2025-09-22
 * [Commit] [fix bpo names in test](https://github.com/NethermindEth/nethermind/commit/c39dc5a2f0c32199d086b47270b73bf3ba4978f2) - 2025-09-22
 * [Commit] [blob update base fraction](https://github.com/NethermindEth/nethermind/commit/5192e93f188a006ccf5b234c208ea4e71b9266f8) - 2025-09-22
+* [Commit] [fix decoding](https://github.com/NethermindEth/nethermind/commit/bdd2448781180f8804c3c95a5301a8e869f6a409) - 2025-09-23
 ## Q2 2025
 
 

@@ -47,6 +47,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Add flag for colocation whitelisting. --p2p-ip-colocation-whitelist](https://github.com/OffchainLabs/prysm/commit/a3da31ee5abe3481f4f23e0d3bac0229e8a51ed8) - 2025-09-12
 * [Commit] [Add flag for colocation whitelisting. --p2p-ip-colocation-whitelist](https://github.com/OffchainLabs/prysm/commit/4d34adfc771491a7167adcb643023780ed832bb4) - 2025-09-12
 * [Commit] [fix: use assigned committee index in attestation data after Electra (#15696)](https://github.com/OffchainLabs/prysm/commit/54991bbc52cb780b24bc06743cbcb6983b00262c) - 2025-09-19
+* [Pull Request] [Update eth clients pinned deps](https://github.com/OffchainLabs/prysm/pull/15733) - 2025-09-23
 ## Q2 2025
 
 

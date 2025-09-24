@@ -174,6 +174,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(all): rename shadowed modules to enable ruff a005 (#2133)](https://github.com/ethereum/execution-spec-tests/commit/9f96fadb3836d20e7afbdc58a8678f9c2df02e30) - 2025-09-19
 * [Commit] [Deployed ef683b24b1f to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/90f083d2a8851777d9321b04569b40c359a3afda) - 2025-09-19
 * [Issue] [chore(tooling): enable remaining ruff ARG checks](https://github.com/ethereum/execution-spec-tests/issues/2176) - 2025-09-19
+* [Commit] [Deployed 99af8e3870b to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/5e35d27a149a938a7372df1b37e622b7fb43024d) - 2025-09-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 ## Q2 2025

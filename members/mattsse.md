@@ -230,11 +230,25 @@ Team: Reth
 * [Pull Request] [chore: enforce max tx gas limit on estimate and accesslit](https://github.com/paradigmxyz/reth/pull/18612) - 2025-09-22
 * [Commit] [test: add test case for op tx env conversion (#18581)](https://github.com/paradigmxyz/reth/commit/3ebfd7a25e24db537bb107c23671c888b7b57ea0) - 2025-09-22
 * [Commit] [fix(cache): Ensure execution cache remains locked until updated (#18564)](https://github.com/paradigmxyz/reth/commit/36107c60abcae06724e57ed1f6b64ba92ad11b10) - 2025-09-22
+* [Commit] [add insturmentation](https://github.com/paradigmxyz/reth/commit/e6f7a6c21b0da4aa9c8291280904b4579d72a2e9) - 2025-09-23
+* [Commit] [lock](https://github.com/paradigmxyz/reth/commit/7921f01a3e684bdfa993cb261669acb99df7808c) - 2025-09-23
+* [Pull Request] [fix: check request gas limit before](https://github.com/paradigmxyz/reth/pull/18639) - 2025-09-23
+* [Commit] [chore: disable fee charge in env (#18634)](https://github.com/paradigmxyz/reth/commit/ee834fb892ded8d51c945548b56eb9d0a61d7ad7) - 2025-09-23
+* [Commit] [chore: bump inspectors 0.30 (#18633)](https://github.com/paradigmxyz/reth/commit/f225751c128e83d64fb30a21a1efb3734dc31e25) - 2025-09-23
+* [Commit] [Update crates/chainspec/src/spec.rs](https://github.com/paradigmxyz/reth/commit/65fd3e51497f69fc0028a6d5360512b77991f643) - 2025-09-23
+* [Pull Request] [chore: disable fee charge in env](https://github.com/paradigmxyz/reth/pull/18634) - 2025-09-23
+* [Pull Request] [chore: bump inspectors 0.30](https://github.com/paradigmxyz/reth/pull/18633) - 2025-09-23
+* [Pull Request] [chore: bump deps](https://github.com/paradigmxyz/reth/pull/18630) - 2025-09-23
+* [Commit] [Update crates/chainspec/src/spec.rs](https://github.com/paradigmxyz/reth/commit/e2481609c5c1286eea8de632e8dee30fc29e7ff7) - 2025-09-23
+* [Commit] [add hardfork checks](https://github.com/paradigmxyz/reth/commit/46d750f3ec77b39b5d89bf62c9571ac075785fdd) - 2025-09-23
+* [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/34f38de113c0ef26831acb9346a00905425cb872) - 2025-09-23
+* [Pull Request] [feat: add osaka+bpo timestamps](https://github.com/paradigmxyz/reth/pull/18627) - 2025-09-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19
 * [Pull Request] [chore: add Precompil::into_precompile](https://github.com/bluealloy/revm/pull/2913) - 2025-08-25
 
+* [Pull Request] [chore: forward optional_fee_charge feature](https://github.com/bluealloy/revm/pull/3005) - 2025-09-23
 [sigp/enr](https://github.com/sigp/enr)
 * [Issue] [Update secp256k1 to 0.31 and rand 0.9](https://github.com/sigp/enr/issues/88) - 2025-09-03
 ## Q2 2025

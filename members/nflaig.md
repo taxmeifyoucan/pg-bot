@@ -155,6 +155,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: track BlockInputSync metrics (#8431)](https://github.com/ChainSafe/lodestar/commit/365e071d8c6397e3f10b3a709e149ff77f3b05a9) - 2025-09-19
 * [Pull Request] [fix: correctly count requested data column sidecars in rate limiter](https://github.com/ChainSafe/lodestar/pull/8436) - 2025-09-19
 * [Pull Request] [feat: schedule fulu and BPOs on holesky](https://github.com/ChainSafe/lodestar/pull/8435) - 2025-09-19
+* [Commit] [Fix filename](https://github.com/ChainSafe/lodestar/commit/33950735386c782883073f6b0227f704a53f4206) - 2025-09-23
+* [Commit] [chore: various bun tweaks (#8449)](https://github.com/ChainSafe/lodestar/commit/cec9bef1db88f9b60a59a9e9ee939456967d69f0) - 2025-09-23
+* [Commit] [Fix max blobs per block](https://github.com/ChainSafe/lodestar/commit/da880755f06927bddecfb2554d9b1e09b7cab0b1) - 2025-09-23
+* [Commit] [Fix build, lint and check-types](https://github.com/ChainSafe/lodestar/commit/a6a13420a64e335c00db6639fa3a9fbf4ad01091) - 2025-09-23
+* [Commit] [feat: serve data columns by root for finalized epochs (#8250)](https://github.com/ChainSafe/lodestar/commit/684db9fff14a84e32d9565cd3ff66519919adf06) - 2025-09-23
+* [Pull Request] [fix: use correct container and bump seq_number when updating syncnets](https://github.com/ChainSafe/lodestar/pull/8451) - 2025-09-23
+* [Commit] [chore: add bun exports to packages (#8448)](https://github.com/ChainSafe/lodestar/commit/6494939cd0fb5ce8443be238d4a88d5de4ad10f6) - 2025-09-23
+* [Commit] [feat: add presets and configs for ePBS (#8440)](https://github.com/ChainSafe/lodestar/commit/e18102ed8c7f0dcf6b316c84dd521c04a8ba5957) - 2025-09-23
 ## Q2 2025
 
 

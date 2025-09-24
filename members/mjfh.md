@@ -39,6 +39,10 @@ Team: Nimbus
 * [Commit] [Provide main program API so it can be extended (e.g. for debugging.) (#3678)](https://github.com/status-im/nimbus-eth1/commit/a5d39f9c7bb5d1b9e62472c0798c091eb3a0369e) - 2025-09-16
 * [Commit] [Use `confutils` for command line options management](https://github.com/status-im/nimbus-eth1/commit/765d0ee9aea04d3ec47e356e3583438b60717531) - 2025-09-22
 * [Commit] [Remove hive integration (#3686)](https://github.com/status-im/nimbus-eth1/commit/dc8652a80bf932f07c73ebebbad034d4b2c58953) - 2025-09-22
+* [Commit] [Import file revisited](https://github.com/status-im/nimbus-eth1/commit/893ba19b626785b24959851dea4d29a232b5e21d) - 2025-09-23
+* [Commit] [Portal: Fixes for historyTraceGetContent for glados compatibility (#3702)](https://github.com/status-im/nimbus-eth1/commit/8d3b8eea96399cc9229f0cff3e461ee2a2aaaa26) - 2025-09-23
+* [Commit] [Fix include warning](https://github.com/status-im/nimbus-eth1/commit/3662f967cbf8de305052fe882e404d67d463c0bb) - 2025-09-23
+* [Pull Request] [Main api fixes and updates](https://github.com/status-im/nimbus-eth1/pull/3706) - 2025-09-23
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

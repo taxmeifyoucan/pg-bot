@@ -54,6 +54,10 @@ Team: Grandine
 * [Commit] [Backfill custody group columns](https://github.com/grandinetech/grandine/commit/3e0edde5a40d85c9a44520d995abc8c8864f62de) - 2025-09-18
 * [Commit] [Backfill custody group columns](https://github.com/grandinetech/grandine/commit/784525f138400b42f1747a88ab7cb0f9c0760dcb) - 2025-09-18
 * [Commit] [Make sure earliest available slot is updated after backfill finishes](https://github.com/grandinetech/grandine/commit/74025342992b980733ed3f7b8e8cf597ac780604) - 2025-09-19
+* [Commit] [Fix expected max responses for `BlobsByRange` requests](https://github.com/grandinetech/grandine/commit/ca3faea41172cc3487133a770763ab871df3dfcd) - 2025-09-23
+* [Commit] [Review what should be included in fork choice debug log level](https://github.com/grandinetech/grandine/commit/f74bf847de4d3692beb4b6ef00ec01025d95690e) - 2025-09-23
+* [Pull Request] [Review what should be included in fork choice debug log level](https://github.com/grandinetech/grandine/pull/383) - 2025-09-23
+* [Commit] [Revert "enable debug log in p2p"](https://github.com/grandinetech/grandine/commit/1fdf2cff4f5efa8edc4513d20b639249e7a8e49d) - 2025-09-23
 ## Q2 2025
 
 

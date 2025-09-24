@@ -83,6 +83,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Port `blob_to_kzg_commitment` tests to pytest (#4541)](https://github.com/ethereum/consensus-specs/commit/1a1cc2500a3f092226cb1651b61b94368b1a3edf) - 2025-09-19
 * [Commit] [eip7732: Clean up `get_attestation_participation_flag_indices` (#4583)](https://github.com/ethereum/consensus-specs/commit/1e335041fa8e1cf49ff2b458351aa7c1476690e8) - 2025-09-19
 * [Commit] [eip7732: remove `latest_execution_payload_header` (#4598)](https://github.com/ethereum/consensus-specs/commit/4a4f8abc0b7535cd2108a5876995bcc2723ebd3b) - 2025-09-19
+* [Commit] [Disable pytest checks in release action (#4610)](https://github.com/ethereum/consensus-specs/commit/9c68080a5b3fe898ddd633488152449f53a0a624) - 2025-09-23
+* [Pull Request] [Disable pytest checks in release action](https://github.com/ethereum/consensus-specs/pull/4610) - 2025-09-23
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

@@ -38,6 +38,9 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [✨ feat(tests): test_bal_call_with_value_transfer](https://github.com/ethereum/execution-spec-tests/commit/5f686024cdaa5dd29672c1708a0d2b2211355ec4) - 2025-09-22
 * [Pull Request] [✨ feat(tests): EIP-7928 account access test cases](https://github.com/ethereum/execution-spec-tests/pull/2182) - 2025-09-22
 * [Commit] [🚧 wip: aborted account access](https://github.com/ethereum/execution-spec-tests/commit/386f56ff102dde3499be8f42651ba58f5d0a211e) - 2025-09-22
+* [Commit] [🐞 fix: contract creation to use initcode](https://github.com/ethereum/execution-spec-tests/commit/f60e3fc36e1ce3e2f2125635479291f91caaa09f) - 2025-09-23
+* [Commit] [🐞 fix: Post state](https://github.com/ethereum/execution-spec-tests/commit/ba89ae8166d0a3cbe19049bf6beaa2cfb22ad259) - 2025-09-23
+* [Commit] [nit](https://github.com/ethereum/execution-spec-tests/commit/1eae5c162a6dfaffaed8cc53bff5f8d2ea50a6dc) - 2025-09-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-7928 BAL does not include recipient of a zero-value transfer](https://github.com/ethereum/execution-specs/issues/1430) - 2025-09-19
 * [Issue] [EIP-7928 BAL includes storage changes even after transaction reverts](https://github.com/ethereum/execution-specs/issues/1432) - 2025-09-20
