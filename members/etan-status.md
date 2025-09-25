@@ -85,6 +85,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Extend SSZ generic tests with CompatibleUnion tests](https://github.com/status-im/nimbus-eth2/pull/7487) - 2025-09-11
 * [Commit] [Extend SSZ generic tests with CompatibleUnion tests](https://github.com/status-im/nimbus-eth2/commit/8446131e67a977b8f7da0022fe49cbcc145c4ead) - 2025-09-11
 * [Pull Request] [Disable concurrent requests in legacy sync manager](https://github.com/status-im/nimbus-eth2/pull/7491) - 2025-09-12
+* [Pull Request] [Only bundle named network metadata when SECONDS_PER_SLOT matches preset](https://github.com/status-im/nimbus-eth2/pull/7534) - 2025-09-24
+* [Commit] [Only bundle named network metadata when SECONDS_PER_SLOT matches preset](https://github.com/status-im/nimbus-eth2/commit/468d7623ac89d0c08cf9f75899eac7c5f6a8067f) - 2025-09-24
 ## Q2 2025
 
 

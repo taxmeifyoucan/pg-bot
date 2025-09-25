@@ -138,6 +138,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: sync PeerDAS dashboard (#8443)](https://github.com/ChainSafe/lodestar/commit/092cc3954a529bc4c92378651b7e49f77f162340) - 2025-09-22
 * [Pull Request] [chore: use typescript gc-stats import](https://github.com/ChainSafe/lodestar/pull/8455) - 2025-09-23
 * [Commit] [fix: use correct container and bump seq_number when updating syncnets (#8451)](https://github.com/ChainSafe/lodestar/commit/b8be78f7bb1b078969340f14f3960155830c53fc) - 2025-09-23
+* [Pull Request] [feat: add lodestar-bun and bun leveldb binding](https://github.com/ChainSafe/lodestar/pull/8462) - 2025-09-24
+* [Commit] [chore: fixup upstream lodestar-bun](https://github.com/ChainSafe/lodestar/commit/78cd85892eca8e56d5805dbf6d489e7456b1397e) - 2025-09-24
 ## Q2 2025
 
 

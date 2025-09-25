@@ -35,6 +35,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: remove parent beacon block root from execution payload rpc type (#8428)](https://github.com/ChainSafe/lodestar/commit/5e2a80008e91c193802a602a156172c9b1060d8c) - 2025-09-19
 * [Commit] [Set `SLOT_DURATION_MS` if not provided](https://github.com/ChainSafe/lodestar/commit/425a1dfc4aa074f46eaf88676b54d2257e77e327) - 2025-09-23
 * [Commit] [Address @nflaig's comment](https://github.com/ChainSafe/lodestar/commit/bc91892306b754bff586cd8a3864dbe3e9a00498) - 2025-09-23
+* [Commit] [fix: sort cell indices before calling `recoverCellsAndKzgProofs` (#8450)](https://github.com/ChainSafe/lodestar/commit/643a1132eccc7a329e68f286af199fc1f78928a8) - 2025-09-24
 ## Q2 2025
 
 

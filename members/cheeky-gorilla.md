@@ -29,6 +29,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Fix extra bracket](https://github.com/protocolguild/documentation/commit/89644a7e2bd6ee275a5373e0b7accce80cea445d) - 2025-09-03
 * [Commit] [Add Jihoon Song](https://github.com/protocolguild/documentation/commit/e6e5b630130d0798c10593cd968f0114003664dd) - 2025-09-03
 * [Commit] [remove shemnon](https://github.com/protocolguild/documentation/commit/2f59ddac2468cd09856aa46fdada3c329daf7673) - 2025-09-03
+* [Commit] [Update contributor link](https://github.com/protocolguild/documentation/commit/5335bd2d4c2781ecff7349c507d905e6c407fcd2) - 2025-09-24
 ## Q2 2025
 
 

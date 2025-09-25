@@ -69,6 +69,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Revert "Update packages (#9302)" (#9307)](https://github.com/NethermindEth/nethermind/commit/712a47e01c658451bd207a8b01b431fe4ea02718) - 2025-09-17
 * [Pull Request] [Revert "Update packages (#9302)"](https://github.com/NethermindEth/nethermind/pull/9307) - 2025-09-17
 * [Commit] [Replace `IWebHost` with `IHost`](https://github.com/NethermindEth/nethermind/commit/2a6b5d769dcb4d06c250a5f98484cb8088297d7e) - 2025-09-18
+* [Commit] [Update Dockerfile.repro](https://github.com/NethermindEth/nethermind/commit/d4aa723aa627fa618bad76302a43fb875c4dce3e) - 2025-09-24
+* [Commit] [Update packages.lock.json](https://github.com/NethermindEth/nethermind/commit/5288852d0dde08474d68a71afc99cb2d951d13f0) - 2025-09-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21

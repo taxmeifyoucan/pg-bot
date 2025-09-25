@@ -247,6 +247,9 @@ Team: Erigon
 * [Commit] [p2p: Support sideprotocols in sentry_client (#16723)](https://github.com/erigontech/erigon/commit/8ea16149e192734e6f2b8bf35d07be8355141f09) - 2025-09-23
 * [Commit] [make integration test](https://github.com/erigontech/erigon/commit/6f80f5ab8841e40b935b2cf4ee6c1c9f03bf5adc) - 2025-09-23
 * [Commit] [select apply receipts per tx](https://github.com/erigontech/erigon/commit/5ec8b1f58146af2f2900d6e75edb924c0ef3acdb) - 2025-09-23
+* [Commit] [review fixes](https://github.com/erigontech/erigon/commit/b53265b2fdc2d7bab0ea574af732f457102e82e4) - 2025-09-24
+* [Commit] [apply state per tx](https://github.com/erigontech/erigon/commit/e00eb78280e1d4e527621e064ed86d4bc0394b38) - 2025-09-24
+* [Commit] [metrics fixes](https://github.com/erigontech/erigon/commit/b6316b5e68e9b918e742b19c9282073a4498ef6e) - 2025-09-24
 ## Q2 2025
 
 

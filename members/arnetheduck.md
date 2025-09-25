@@ -105,6 +105,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Downgrade linux-arm64 compiler and link with glibc 2.35 (#3676)](https://github.com/status-im/nimbus-eth1/commit/65bccbcf4a9c3f1c8af9c1264bad4d62bff49dd0) - 2025-09-20
 * [Commit] [Downgrade linux-arm64 compiler and link with glibc 2.35 (#3676)](https://github.com/status-im/nimbus-eth1/commit/65bccbcf4a9c3f1c8af9c1264bad4d62bff49dd0) - 2025-09-21
 * [Commit] [Halve FC memory usage](https://github.com/status-im/nimbus-eth1/commit/b7f44795135adda0ff48197f4311c08ce318dc00) - 2025-09-21
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/0245d22cbd817b81fada22803b8d725ce00a98ce) - 2025-09-24
+* [Pull Request] [Port eth2 binary `main` style to eth1](https://github.com/status-im/nimbus-eth1/pull/3712) - 2025-09-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -214,6 +216,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [one more](https://github.com/status-im/nimbus-eth2/commit/a3516ab48052e73531f10bd0d8e6b2cafc8c3fd3) - 2025-09-23
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/22389427f779bb94355c8487d200a702ce3914fc) - 2025-09-23
 * [Commit] [test](https://github.com/status-im/nimbus-eth2/commit/b491796aa62951a4f6d45ec7d851e2b7e23f5d22) - 2025-09-23
+* [Commit] [fix missing logging setup in windows service](https://github.com/status-im/nimbus-eth2/commit/a2ea8af73c25bd1a43617ba012c7172d6521d0d0) - 2025-09-24
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

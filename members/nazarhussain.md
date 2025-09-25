@@ -138,6 +138,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Remove blank lines among import groups](https://github.com/ChainSafe/lodestar/commit/2ba3a3c4654ba879593e4012e541e6fa0eb51761) - 2025-09-19
 * [Commit] [Update biome organizeImports](https://github.com/ChainSafe/lodestar/commit/45ec19e5765a9e7b4972d33eb9734967b2fee0bf) - 2025-09-19
 * [Commit] [deps: upgrade typescript to 5.9 (#8412)](https://github.com/ChainSafe/lodestar/commit/c88a6ed255e379e909f0575a9f9a8b6943da6418) - 2025-09-19
+* [Commit] [Add .tsbuildinfo to ignore list and white list all other files](https://github.com/ChainSafe/lodestar/commit/dbec9e7947ff16b7d3da01c46ed6c339601667ac) - 2025-09-24
+* [Commit] [Update included files for all packages](https://github.com/ChainSafe/lodestar/commit/6a45fa583ea22385773cbd1f52769426c2c027eb) - 2025-09-24
 ## Q2 2025
 
 

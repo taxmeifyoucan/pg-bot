@@ -175,6 +175,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed ef683b24b1f to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/90f083d2a8851777d9321b04569b40c359a3afda) - 2025-09-19
 * [Issue] [chore(tooling): enable remaining ruff ARG checks](https://github.com/ethereum/execution-spec-tests/issues/2176) - 2025-09-19
 * [Commit] [Deployed 99af8e3870b to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/5e35d27a149a938a7372df1b37e622b7fb43024d) - 2025-09-23
+* [Commit] [Deployed a2f28413de9 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/ace96f1a15a56a31d7db19579c55fdfd9d40f0ec) - 2025-09-24
+* [Issue] [chore: archive eest post-weld](https://github.com/ethereum/execution-spec-tests/issues/2202) - 2025-09-24
+* [Issue] [chore: move remaining issues to execution-specs](https://github.com/ethereum/execution-spec-tests/issues/2201) - 2025-09-24
+* [Issue] [chore: add post-weld new labels and tag issues with them](https://github.com/ethereum/execution-spec-tests/issues/2200) - 2025-09-24
+* [Issue] [chore: reformat source code from 99 to 79](https://github.com/ethereum/execution-spec-tests/issues/2199) - 2025-09-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 ## Q2 2025

@@ -170,6 +170,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fix getStateRandao not returning historic RANDAO mix values (#15653)](https://github.com/OffchainLabs/prysm/commit/02dca852516553d88a3140d8ba3ac4362137aa71) - 2025-09-22
 * [Commit] [using yamlv3 broke tests, switching to a different library](https://github.com/OffchainLabs/prysm/commit/a3e0e8f4d2899c5467eee208f74bfd7ac1573c59) - 2025-09-22
 * [Pull Request] [removing direct dependency, we can just use yamlv3](https://github.com/OffchainLabs/prysm/pull/15729) - 2025-09-22
+* [Commit] [trying to fix remaining e2e issues](https://github.com/OffchainLabs/prysm/commit/15e2e6b85e438be4dd8410e27588acd0f01a5c2b) - 2025-09-24
+* [Pull Request] [fixing error handling of unfound block](https://github.com/OffchainLabs/prysm/pull/15742) - 2025-09-24
 ## Q2 2025
 
 

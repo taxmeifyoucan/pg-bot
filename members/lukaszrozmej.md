@@ -57,6 +57,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [Add debug_traceCallMany RPC method with Geth compatibility](https://github.com/NethermindEth/nethermind/pull/9333) - 2025-09-22
 * [Pull Request] [Make eth_getBlobsV1 return UnsupportedFork post Osaka](https://github.com/NethermindEth/nethermind/pull/9341) - 2025-09-23
 * [Commit] [Feature/cap estimate gas to 7825 (#9331)](https://github.com/NethermindEth/nethermind/commit/fb6fcaf62c38829e42f4bc49cc8f848eeb386ee8) - 2025-09-23
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/a9d645acc82ee8f06bd5f9f3933f1bd73f915b5e) - 2025-09-24
+* [Pull Request] [Implement EIP 2681 validation](https://github.com/NethermindEth/nethermind/pull/9352) - 2025-09-24
 ## Q2 2025
 
 

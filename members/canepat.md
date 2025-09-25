@@ -81,6 +81,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [Implement eth/69 (#15279)](https://github.com/erigontech/erigon/commit/a06fa3de2d0a9dd00649535a9f6ed8847d7ea205) - 2025-09-19
 * [Commit] [qa_tests: ensure same block for RPC tests on latest (#17172)](https://github.com/erigontech/erigon/commit/b8ddf6cd48a23aaf94fcb0e0bff429356880555d) - 2025-09-22
 * [Pull Request] [evm: fix GasPrice check when NoBaseFee](https://github.com/erigontech/erigon/pull/17196) - 2025-09-22
+* [Commit] [test workflows: user input sanitisation (remaining issues) (#17221)](https://github.com/erigontech/erigon/commit/3f46d19f5cf3008a3b6e94184ac799017b373eec) - 2025-09-24
+* [Commit] [refactor: enhance commitment history support and improve type definitions](https://github.com/erigontech/erigon/commit/c85dcc78d3d4853d5c9400ed0bced756a2d27d84) - 2025-09-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14
@@ -109,6 +111,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration: add eth_simulateV1 tests (#407)](https://github.com/erigontech/rpc-tests/commit/da344d896dce988b9ab8dccff498b24bda151c0d) - 2025-09-19
 * [Pull Request] [integration: add eth_simulateV1 tests](https://github.com/erigontech/rpc-tests/pull/459) - 2025-09-19
 * [Commit] [fix blockTimestamp in logs](https://github.com/erigontech/rpc-tests/commit/b89e377213604f314efbddeb5955b3a526b9c50d) - 2025-09-23
+* [Commit] [add tests](https://github.com/erigontech/rpc-tests/commit/d547bcc2cea83a3a835b2acf333dbf0dc298c497) - 2025-09-24
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

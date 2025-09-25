@@ -220,6 +220,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [refactor: use maps.Copy for cleaner map handling (#14277)](https://github.com/erigontech/erigon/commit/5c1a323476fd699767514b568138c9c711af7067) - 2025-09-23
 * [Pull Request] [core/vm: remove SkipAnalysis](https://github.com/erigontech/erigon/pull/17217) - 2025-09-23
 * [Commit] [core/vm: remove SkipAnalysis](https://github.com/erigontech/erigon/commit/46c60f52e5138f408f47ce5cb8a0273f522e7e76) - 2025-09-23
+* [Commit] [Engine API: engine_getblobsv1 was introduced in Dencun (#17234)](https://github.com/erigontech/erigon/commit/de0d79f9f0bc60b624a37eac04cb8302c0211d3f) - 2025-09-24
+* [Pull Request] [[EIP-7934] Fix GetMaxRlpBlockSize call in mining block creation](https://github.com/erigontech/erigon/pull/17236) - 2025-09-24
+* [Commit] [[EIP-7934] Fix GetMaxRlpBlockSize call in mining block creation](https://github.com/erigontech/erigon/commit/168698a88ed26e705bf589295d47842a0db18ea0) - 2025-09-24
+* [Issue] [Adjust eth_estimateGas for EIP-78](https://github.com/erigontech/erigon/issues/17235) - 2025-09-24
+* [Pull Request] [Engine API: engine_getblobsv1 was introduced in Dencun](https://github.com/erigontech/erigon/pull/17234) - 2025-09-24
+* [Commit] [Engine API: engine_getblobsv1 was introduced in Dencun](https://github.com/erigontech/erigon/commit/a8efb627c06bfb4d0889cf88192e296a794dcf06) - 2025-09-24
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

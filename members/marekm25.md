@@ -31,6 +31,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Pull Request] [Fix uninstall filter](https://github.com/NethermindEth/nethermind/pull/9325) - 2025-09-20
 * [Issue] [eth_estimateGas/estimate-simple-transfer](https://github.com/NethermindEth/nethermind/issues/9330) - 2025-09-21
 * [Issue] [Adjusting error codes (start with execution reverted) of eth_calls to geth](https://github.com/NethermindEth/nethermind/issues/9329) - 2025-09-21
+* [Issue] [Remove TotalDifficulty from JsonRPC](https://github.com/NethermindEth/nethermind/issues/9350) - 2025-09-24
 ## Q2 2025
 
 

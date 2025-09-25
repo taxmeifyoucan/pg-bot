@@ -21,6 +21,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [core/tracing: add code change reason](https://github.com/ethereum/go-ethereum/pull/32525) - 2025-09-01
 * [Pull Request] [core/tracing: update changelog](https://github.com/ethereum/go-ethereum/pull/32535) - 2025-09-02
 * [Issue] [Batch getStorageAt RPC method](https://github.com/ethereum/go-ethereum/issues/32566) - 2025-09-09
+* [Issue] [Refactor StateProcessor to take in an interface](https://github.com/ethereum/go-ethereum/issues/32733) - 2025-09-24
 ## Q2 2025
 
 

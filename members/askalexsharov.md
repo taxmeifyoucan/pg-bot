@@ -1232,6 +1232,7 @@ Team: Erigon
 * [Commit] [Fixed fd leak in caplin .idx files (#17168) (#17183)](https://github.com/erigontech/erigon/commit/8c8fe4401f6dfee70b893a8701086525176a71cd) - 2025-09-22
 * [Commit] [3.1 default rate flags to main (#17181)](https://github.com/erigontech/erigon/commit/33f5c21518e32daf023735c6b057b3e69b2c3aff) - 2025-09-22
 * [Commit] [execution: store changesets for last MaxReorgDepth blocks after initial cycle (#17165)](https://github.com/erigontech/erigon/commit/585edfec44a104da6665acc6f683336537389e07) - 2025-09-22
+* [Commit] [rawdbreset: correct error message when saving Headers progress (#17231)](https://github.com/erigontech/erigon/commit/e2605ce124b1cbf04c644b7db1be3697231a8d32) - 2025-09-24
 ## Q2 2025
 
 

@@ -22,6 +22,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [feat(tests): update XEN mint test [dirty]](https://github.com/ethereum/execution-spec-tests/commit/a40021243d1db3c8be703407e1e8ce6ac7a5b34b) - 2025-09-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7773: PFI EIP-7778 Block Gas Accounting without Refunds](https://github.com/ethereum/EIPs/pull/10273) - 2025-09-03
+* [Pull Request] [PFI 7610 for Glamsterdam](https://github.com/ethereum/EIPs/pull/10388) - 2025-09-24
 ## Q2 2025
 
 

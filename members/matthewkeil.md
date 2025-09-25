@@ -113,6 +113,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [docs: add TODO about metrics](https://github.com/ChainSafe/lodestar/commit/30d7267552e86f86ebd32eb55e7f5cdd375aea75) - 2025-09-23
 * [Commit] [docs: add TODO about metrics](https://github.com/ChainSafe/lodestar/commit/00360f0b3b99523e9906b38b81ffa9fbc0f2e07e) - 2025-09-23
 * [Pull Request] [fix: turn on eip7594 spec tests and rename mekle.test.ts -> merkleProof.test.ts](https://github.com/ChainSafe/lodestar/pull/8452) - 2025-09-23
+* [Pull Request] [feat: turn back on peer downscore in BlockInputSync](https://github.com/ChainSafe/lodestar/pull/8461) - 2025-09-24
 ## Q2 2025
 
 

@@ -56,6 +56,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Post-rebase fixes.](https://github.com/status-im/nimbus-eth2/commit/8c4fd55582385a5698b901ed1894f8c6ab8678fb) - 2025-09-23
 * [Commit] [fix vcus start process](https://github.com/status-im/nimbus-eth2/commit/071f2e4a079d3ea311758871144e1fd7afd364dd) - 2025-09-23
 * [Commit] [Disable byRoot syncing while rangeSync is active.](https://github.com/status-im/nimbus-eth2/commit/63dfab231e469e5d7b55da0551315fab47a453a1) - 2025-09-23
+* [Commit] [More fixes to block_buffer.peekRange().](https://github.com/status-im/nimbus-eth2/commit/a0abecb3a10a23e1d9349fed96aecab85e5d07a2) - 2025-09-24
 ## Q2 2025
 
 

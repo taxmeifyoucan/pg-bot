@@ -243,6 +243,11 @@ Team: Reth
 * [Commit] [add hardfork checks](https://github.com/paradigmxyz/reth/commit/46d750f3ec77b39b5d89bf62c9571ac075785fdd) - 2025-09-23
 * [Commit] [fmt](https://github.com/paradigmxyz/reth/commit/34f38de113c0ef26831acb9346a00905425cb872) - 2025-09-23
 * [Pull Request] [feat: add osaka+bpo timestamps](https://github.com/paradigmxyz/reth/pull/18627) - 2025-09-23
+* [Issue] [preload latest state into flashblock cached reads](https://github.com/paradigmxyz/reth/issues/18680) - 2025-09-24
+* [Commit] [test: add unwind parse test (#18677)](https://github.com/paradigmxyz/reth/commit/00e51575eb91036d2070e9a21c8867a21c3efd9c) - 2025-09-24
+* [Pull Request] [test: add unwind parse test](https://github.com/paradigmxyz/reth/pull/18677) - 2025-09-24
+* [Commit] [refactor: simplify `EthApiSpeс` trait (#18674)](https://github.com/paradigmxyz/reth/commit/7fb24e57a8289117152ba82fd10c3d2e5c011705) - 2025-09-24
+* [Issue] [Reject eth69 peers with zero latest hash](https://github.com/paradigmxyz/reth/issues/18675) - 2025-09-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

@@ -58,6 +58,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Adding source error as suppressed exception when propagating async (#9901)](https://github.com/Consensys/teku/commit/cd49a21994dfa3d1e0d489fe42fe6b0436dbd4bf) - 2025-09-17
 * [Pull Request] [Remove earliest available block slot cache](https://github.com/Consensys/teku/pull/9914) - 2025-09-19
 * [Commit] [avoid two instances of EarliestAvailableBlockSlot and minor improvements (#9906)](https://github.com/Consensys/teku/commit/a62b7443ab6cc848a8994b4fc880309de61dc4c8) - 2025-09-19
+* [Pull Request] [`SimpleSidecarRetriever` improvements](https://github.com/Consensys/teku/pull/9927) - 2025-09-24
 ## Q2 2025
 
 

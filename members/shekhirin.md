@@ -130,6 +130,19 @@ Team: Reth
 * [Issue] [`reth report` command to send debugging information to developers](https://github.com/paradigmxyz/reth/issues/18569) - 2025-09-19
 * [Commit] [feat(storage): write headers, transasactions, and receipts to static files](https://github.com/paradigmxyz/reth/commit/cff55122d210afca4b2db78fa5a1c8e251378a21) - 2025-09-22
 * [Commit] [Update crates/tasks/src/pool.rs](https://github.com/paradigmxyz/reth/commit/a844a2cc34222180573512e6af3e1a6c2736b227) - 2025-09-23
+* [Commit] [test: remove insert_historical_block](https://github.com/paradigmxyz/reth/commit/e29320910172c749f932c28b93eb76771086c824) - 2025-09-24
+* [Commit] [test: remove insert_historical_block](https://github.com/paradigmxyz/reth/commit/4efd27830cd6ab1e73632789d8600fe4aa4a6910) - 2025-09-24
+* [Commit] [revert: query both database and static files for now](https://github.com/paradigmxyz/reth/commit/a3603f3714cf31e2516246cf3bdc977e7b2a6a32) - 2025-09-24
+* [Commit] [revert: query both database and static files for now](https://github.com/paradigmxyz/reth/commit/444e05e24766201a94f00f4d4b71df21aacac8e4) - 2025-09-24
+* [Commit] [feat: commit in databaseprovider](https://github.com/paradigmxyz/reth/commit/55da2ee16c5de1db4e950c7b744398818b40d038) - 2025-09-24
+* [Commit] [docs: add todo about querying uncommitted data](https://github.com/paradigmxyz/reth/commit/4ec8c3cbf603c4f5dad705db51b8095c7196f7c5) - 2025-09-24
+* [Commit] [docs: add todo about querying uncommitted data](https://github.com/paradigmxyz/reth/commit/6f9f855b2a23e0b0240f01e91fca45f65d5025a6) - 2025-09-24
+* [Commit] [feat: commit both database and static files on commit()](https://github.com/paradigmxyz/reth/commit/a3d4bd681168da8416437ad9d87b62e9f3186c7b) - 2025-09-24
+* [Issue] [Read headers, transactions, and receipts only from static files](https://github.com/paradigmxyz/reth/issues/18684) - 2025-09-24
+* [Issue] [Write headers, transactions, and receipts only to static files](https://github.com/paradigmxyz/reth/issues/18683) - 2025-09-24
+* [Issue] [Tracking: Hot/Cold storage separation](https://github.com/paradigmxyz/reth/issues/18682) - 2025-09-24
+* [Pull Request] [feat(storage): write headers, txs, and receipts only to static files](https://github.com/paradigmxyz/reth/pull/18681) - 2025-09-24
+* [Commit] [test: fix ef-tests](https://github.com/paradigmxyz/reth/commit/37e7376216f0b32439249e869c552bccfe4feb57) - 2025-09-24
 ## Q2 2025
 
 

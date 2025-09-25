@@ -55,6 +55,8 @@ Team: Portal Network (EF)
 * [Commit] [feat: implement retention background tasks (#451)](https://github.com/ethereum/glados/commit/98f493ab6c3c202e3da3819bea996743c8462755) - 2025-08-02
 * [Pull Request] [feat: implement retention background tasks](https://github.com/ethereum/glados/pull/451) - 2025-08-02
 * [Commit] [fix(docker): remove "eth" API flag for nimbus client (#457)](https://github.com/ethereum/glados/commit/d669c768e8c2bd491ecf54fe2527501050629376) - 2025-09-19
+* [Commit] [feat: only show newly discovered nodes in audit chart (#464)](https://github.com/ethereum/glados/commit/0a37ca1b1f79f492aebd76031fa2352e8de689d7) - 2025-09-24
+* [Pull Request] [feat: only show newly discovered nodes in audit chart](https://github.com/ethereum/glados/pull/464) - 2025-09-24
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Commit] [Add spec for new History network (#410)](https://github.com/ethereum/portal-network-specs/commit/e9d7ba8ef01714471d6b2358ca8a0be5989bd7ed) - 2025-07-20
 * [Commit] [Move network specs into legacy folder (#409)](https://github.com/ethereum/portal-network-specs/commit/0bf9995eb39983e2bcc34f1cf40d0ea01b078e2d) - 2025-07-20

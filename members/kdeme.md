@@ -63,9 +63,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Portal: Fix double encoding (list + blob) of Portal field in ENR](https://github.com/status-im/nimbus-eth1/commit/7de88954727ecb070398c7bbd4b88cf90f428c4f) - 2025-09-23
 * [Commit] [Portal: Fix double encoding (list + blob) of Portal field in ENR](https://github.com/status-im/nimbus-eth1/commit/d6d76689e34046e75150d9689dc3ed42f64d29b5) - 2025-09-23
 * [Pull Request] [Portal: Fix double encoding (list + blob) of Portal field in ENR](https://github.com/status-im/nimbus-eth1/pull/3707) - 2025-09-23
+* [Commit] [Portal: Update bootstrap nodes after ENR Portal field fix (#3711)](https://github.com/status-im/nimbus-eth1/commit/742e2298bf5bd2753a868832b92e8605d1e04b68) - 2025-09-24
+* [Pull Request] [Portal: Update bootstrap nodes after ENR Portal field fix](https://github.com/status-im/nimbus-eth1/pull/3711) - 2025-09-24
+* [Commit] [Portal json-rpc: Fix for having seqNum encoded as hexstring (#3710)](https://github.com/status-im/nimbus-eth1/commit/08529c5cf16076ea35a5a614a485f5b07e6b8146) - 2025-09-24
+* [Pull Request] [Portal json-rpc: Fix for having seqNum encoded as hexstring](https://github.com/status-im/nimbus-eth1/pull/3710) - 2025-09-24
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Pull Request] [Update Portal bootstrap nodes](https://github.com/ethereum/portal-network-specs/pull/413) - 2025-09-14
 
+* [Commit] [Update bootstrap node ENRs after Portal field encoding fix](https://github.com/ethereum/portal-network-specs/commit/97126ccd68d55dfef9a986024b10dd10a657b659) - 2025-09-24
 [ethereum/glados](https://github.com/ethereum/glados)
 * [Pull Request] [Docker: Remove eth API flag in cli options](https://github.com/ethereum/glados/pull/457) - 2025-09-17
 * [Pull Request] [Docker: define the nimbus_portal_client RPC port to 8545](https://github.com/ethereum/glados/pull/458) - 2025-09-19

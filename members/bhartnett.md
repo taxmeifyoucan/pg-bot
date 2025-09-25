@@ -94,6 +94,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Use raw async functions when creating handlers in ForkedChain](https://github.com/status-im/nimbus-eth1/pull/3694) - 2025-09-19
 * [Commit] [Update test.](https://github.com/status-im/nimbus-eth1/commit/4ee95790f3635d2dc22c5f3e37e5f0274b6c1365) - 2025-09-23
 * [Commit] [Update execution_chain/core/chain/forked_chain.nim](https://github.com/status-im/nimbus-eth1/commit/03f60a0f7da64d553ac0f7b19937a2b6661602b4) - 2025-09-23
+* [Commit] [Prevent database corruption during stateroot computation (#3705)](https://github.com/status-im/nimbus-eth1/commit/814810ecad9de28c4ad807c4c0c7a6f6ddd6522a) - 2025-09-24
+* [Commit] [Revert recent changes.](https://github.com/status-im/nimbus-eth1/commit/6bffff38be26b53a02e269f951b9c0d6e30f88f6) - 2025-09-24
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

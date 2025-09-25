@@ -235,6 +235,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: forward optional_fee_charge feature (#3005)](https://github.com/bluealloy/revm/commit/4cb023095b46ccdd7ad0e801d6094a8d17b3339c) - 2025-09-23
 * [Commit] [chore: changelog update v87](https://github.com/bluealloy/revm/commit/1ac08b84c90b28a8ac0f104609bf18febeceb347) - 2025-09-23
 * [Commit] [wip](https://github.com/bluealloy/revm/commit/d5b1f0b4fedb4308a5d76c56c7efc583c7588b12) - 2025-09-23
+* [Commit] [fix: racecondition return on install_crypto fn (#2997)](https://github.com/bluealloy/revm/commit/591ee99921c71b0733a149e519008ba5c3709c16) - 2025-09-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

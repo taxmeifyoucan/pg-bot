@@ -132,6 +132,9 @@ Team: Erigon
 * [Commit] [core/vm: add one more modexp benchmark (#16950)](https://github.com/erigontech/erigon/commit/b24c80641f67adb9cf781e1071eb9685df0959b8) - 2025-09-10
 * [Commit] [add support of arb legacy transactions (#16992)](https://github.com/erigontech/erigon/commit/85fc16766f4ab30fd2cb257003913848c5ee5fbd) - 2025-09-10
 * [Commit] [save](https://github.com/erigontech/erigon/commit/3983b152dfe2d505cb0f1c67666aaa0ad135b857) - 2025-09-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b81c87285fa7f9c4622230db2e41a0d41402ee4b) - 2025-09-24
+* [Commit] [disable gas usage assert for arbitrum chains (#17230)](https://github.com/erigontech/erigon/commit/7a21973f904fbdcddd298c746f01aeb4ef964020) - 2025-09-24
+* [Commit] [Simplify gas usage assertion logic](https://github.com/erigontech/erigon/commit/b1cc474ff5775a2b4e9bcadfb6d7007e4736639c) - 2025-09-24
 ## Q2 2025
 
 

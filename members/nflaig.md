@@ -163,6 +163,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: use correct container and bump seq_number when updating syncnets](https://github.com/ChainSafe/lodestar/pull/8451) - 2025-09-23
 * [Commit] [chore: add bun exports to packages (#8448)](https://github.com/ChainSafe/lodestar/commit/6494939cd0fb5ce8443be238d4a88d5de4ad10f6) - 2025-09-23
 * [Commit] [feat: add presets and configs for ePBS (#8440)](https://github.com/ChainSafe/lodestar/commit/e18102ed8c7f0dcf6b316c84dd521c04a8ba5957) - 2025-09-23
+* [Commit] [refactor: add msFromSlot to validator clock (#8463)](https://github.com/ChainSafe/lodestar/commit/79401737a59432a7b1594679d0ed564cf852d3b3) - 2025-09-24
+* [Commit] [Remove stray value](https://github.com/ChainSafe/lodestar/commit/83e05ee9ee65262a5ed12b4f948194a2fba572be) - 2025-09-24
+* [Commit] [Simplify waitForSyncMessageCutoff](https://github.com/ChainSafe/lodestar/commit/81cd580f56c0562b29926d0980354156306aef1e) - 2025-09-24
+* [Commit] [Remove some clock changes](https://github.com/ChainSafe/lodestar/commit/6ba8a60004f79a0bb18efae9b48529fb19ba2ba3) - 2025-09-24
+* [Pull Request] [refactor: add msFromSlot to validator clock](https://github.com/ChainSafe/lodestar/pull/8463) - 2025-09-24
+* [Commit] [Update todo](https://github.com/ChainSafe/lodestar/commit/a3fd1d7a7a4af5c6b15e8702ae6b7476f9a19266) - 2025-09-24
+* [Commit] [Misc changes](https://github.com/ChainSafe/lodestar/commit/2e37d82163dd305a2193409df29fbe213158231f) - 2025-09-24
+* [Commit] [fix: make cutoffs initialized in constructors dynamic (#8459)](https://github.com/ChainSafe/lodestar/commit/b33f5f28bb3ac2778d95a3f0911e7286309ff279) - 2025-09-24
 ## Q2 2025
 
 

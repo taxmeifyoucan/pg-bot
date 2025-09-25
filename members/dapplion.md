@@ -14,6 +14,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [Post tree-states PM](https://github.com/sigp/lighthouse/issues/7748) - 2025-07-16
 * [Issue] [Slim down PersistedForkChoice](https://github.com/sigp/lighthouse/issues/7760) - 2025-07-18
+* [Pull Request] [Only mark block lookups as pending if block is importing from gossip](https://github.com/sigp/lighthouse/pull/8112) - 2025-09-24
+* [Pull Request] [Include block root in import log](https://github.com/sigp/lighthouse/pull/8111) - 2025-09-24
+* [Pull Request] [Send BlockComponentProcessed on HTTP block import](https://github.com/sigp/lighthouse/pull/8110) - 2025-09-24
 ## Q2 2025
 
 

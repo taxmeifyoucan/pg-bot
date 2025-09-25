@@ -106,6 +106,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [dprint](https://github.com/paradigmxyz/reth/commit/9f187fbae580480d2764f58832c12f2869dac2e6) - 2025-09-18
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/d26a8a1234e875b5217b23fc01330b1355ff47f6) - 2025-09-18
 * [Pull Request] [feat: add `Future` AT to `LaunchNode` and allow customizing local attributes builder](https://github.com/paradigmxyz/reth/pull/18556) - 2025-09-18
+* [Pull Request] [feat: support empty `SUPPORTED_CHAINS` for `ChainSpecParser`](https://github.com/paradigmxyz/reth/pull/18679) - 2025-09-24
+* [Pull Request] [refactor: simplify `EthApiSpeс` trait](https://github.com/paradigmxyz/reth/pull/18674) - 2025-09-24
+* [Issue] [Make more EVM and RPC conversions fallible](https://github.com/paradigmxyz/reth/issues/18671) - 2025-09-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat: impl inspector for tuple](https://github.com/bluealloy/revm/pull/2871) - 2025-08-08
 ## Q2 2025

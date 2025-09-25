@@ -24,5 +24,11 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [refactor(bal): absence validators -> BalAccountAbsentValues](https://github.com/ethereum/execution-spec-tests/pull/2175) - 2025-09-19
 
 * [Commit] [refactor(bal): absence validators -> BalAccountAbsentValues (#2175)](https://github.com/ethereum/execution-spec-tests/commit/99af8e3870bdc05a1997785080549f09ceb3a945) - 2025-09-23
+* [Commit] [feat(benchmark): add `benchmark_test` test type (#1945)](https://github.com/ethereum/execution-spec-tests/commit/a2f28413de99d10d349844872a860a340cb2f345) - 2025-09-24
+* [Issue] [Add `extra_forbid` to `CamelModel` and fix errors](https://github.com/ethereum/execution-spec-tests/issues/2198) - 2025-09-24
+* [Commit] [chore: avoid extra fields in BAL classes, related to #2197](https://github.com/ethereum/execution-spec-tests/commit/88fdf5e6c33f5d1b6e39a26a73d676486cbe6bd8) - 2025-09-24
+* [Commit] [chore: avoid extra fields in BAL classes, closes #2197](https://github.com/ethereum/execution-spec-tests/commit/50d376a8138cd93487b82e04d3144863d7eaed08) - 2025-09-24
+* [Commit] [chore: avoid extra fields in BAL classes closes #2197](https://github.com/ethereum/execution-spec-tests/commit/febdd5f94a4603bbd24db162765cbba1bae822c3) - 2025-09-24
+* [Commit] [chore: point to latest specs commit](https://github.com/ethereum/execution-spec-tests/commit/43bfb815864a9dfd83b47ec7094c1826dd6ed43c) - 2025-09-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Look into replacing `mypy` with `ty` once it is released](https://github.com/ethereum/execution-specs/issues/1431) - 2025-09-19

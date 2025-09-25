@@ -78,6 +78,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [ci: Adjust coverage report for EEST tests](https://github.com/ipsilon/evmone/pull/1318) - 2025-09-22
 * [Commit] [build,ci: Enable MC/DC coverage (#1317)](https://github.com/ipsilon/evmone/commit/6d8beb928f0775611058c9a25baf5101d7ff5fbe) - 2025-09-22
 * [Pull Request] [build,ci: Enable MC/DC coverage](https://github.com/ipsilon/evmone/pull/1317) - 2025-09-22
+* [Commit] [tests: Fix blockchaintest EIP-7918 (#1322)](https://github.com/ipsilon/evmone/commit/700d55cfefcb816a797a5a855494d1a5717c1f16) - 2025-09-24
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 

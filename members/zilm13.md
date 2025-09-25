@@ -29,6 +29,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Issue] [Update PeerSelectionStrategy to fulfill FULU needs](https://github.com/Consensys/teku/issues/9884) - 2025-09-10
 * [Commit] [Rework recent DataColumnSidecars recovery (#9874)](https://github.com/Consensys/teku/commit/0f10b58b656ff7f6adaefdfabb112144aff605eb) - 2025-09-12
 * [Pull Request] [Add VersionedHashDBSource for VersionedHash column handling](https://github.com/Consensys/teku/pull/9908) - 2025-09-17
+* [Issue] [Add ChainStorage test for DataColumnSidecars](https://github.com/Consensys/teku/issues/9928) - 2025-09-24
 ## Q2 2025
 
 

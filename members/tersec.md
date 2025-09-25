@@ -208,6 +208,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [metrics: bump (#7523)](https://github.com/status-im/nimbus-eth2/commit/62ba6e99e4706455bdc2768aa8bd1d3a33e97631) - 2025-09-23
 * [Commit] [schedule Fulu on Sepolia, Holesky, and Hoodi](https://github.com/status-im/nimbus-eth2/commit/0219e69d56da702370f44d69629f556f9634356b) - 2025-09-23
 * [Pull Request] [schedule Fulu on Sepolia, Holesky, and Hoodi](https://github.com/status-im/nimbus-eth2/pull/7529) - 2025-09-23
+* [Commit] [add Holesky deprecation notice (#7505)](https://github.com/status-im/nimbus-eth2/commit/f81a1a4a3f0b6d5641902ce7baaf39ad3bfc3d07) - 2025-09-24
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13
