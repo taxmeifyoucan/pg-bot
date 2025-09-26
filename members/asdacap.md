@@ -264,6 +264,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix recovery queue size (#9288)](https://github.com/NethermindEth/nethermind/commit/d806ac109403e83f5603681fc1d0454c8aa054ea) - 2025-09-17
 * [Issue] [Fix error on empty slots.](https://github.com/NethermindEth/nethermind/issues/9312) - 2025-09-18
 * [Pull Request] [Fix blockhash related random invalid block](https://github.com/NethermindEth/nethermind/pull/9340) - 2025-09-23
+* [Commit] [Fix state error messages to include both block number and hash (#9278)](https://github.com/NethermindEth/nethermind/commit/841db0780df0eacfed28a9734317d7caa0d19ce9) - 2025-09-25
+* [Commit] [Genesis extensibility (#9282)](https://github.com/NethermindEth/nethermind/commit/492fb24ee6c5019f484b4b0c7f3211da39208b13) - 2025-09-25
+* [Commit] [Fix double wrap](https://github.com/NethermindEth/nethermind/commit/ccef40d25ffaf6d44e42e4af7e22c4dc41c14fbe) - 2025-09-25
+* [Commit] [Isolate prewarmer](https://github.com/NethermindEth/nethermind/commit/35f5e128786707803fe3c8300a8a388a9339ddd4) - 2025-09-25
+* [Pull Request] [Refactor/isolate prewarmer](https://github.com/NethermindEth/nethermind/pull/9355) - 2025-09-25
+* [Commit] [Minor change](https://github.com/NethermindEth/nethermind/commit/b3f12a72de4cef0d10cb01c58902b1a03295ee1d) - 2025-09-25
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

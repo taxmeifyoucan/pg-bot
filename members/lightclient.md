@@ -31,6 +31,8 @@ Team: Geth
 * [Pull Request] [core/txpool/blobpool: convert sidecars in-place after fork](https://github.com/ethereum/go-ethereum/pull/32670) - 2025-09-18
 * [Pull Request] [git: ignore go.work.sum file from checkout](https://github.com/ethereum/go-ethereum/pull/32677) - 2025-09-19
 * [Pull Request] [all: add bpo1 and bpo2 overrides](https://github.com/ethereum/go-ethereum/pull/32737) - 2025-09-24
+* [Commit] [accounts/abi/bind: fix data race in TestWaitDeployedCornerCases (#32740)](https://github.com/ethereum/go-ethereum/commit/7611f351c18de983c49544f09aa042bd0403243b) - 2025-09-25
+* [Commit] [accounts/keystore: use ticker to avoid timer allocations (#32732)](https://github.com/ethereum/go-ethereum/commit/1c706d1571d6e61754631ae6f0ae73d54ed4d44a) - 2025-09-25
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [Minor cleanup to EthSimulateResult (#677)](https://github.com/ethereum/execution-apis/commit/bbf817f7f6404fc0d270f66a3c96f8737e6d7176) - 2025-07-23
 * [Commit] [Change eth_simulateV1 to use generic log object (#681)](https://github.com/ethereum/execution-apis/commit/b050556ffb7d69d9281af8d2ffd4096192715b7c) - 2025-08-11

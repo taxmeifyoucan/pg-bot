@@ -46,6 +46,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [start fixing ethspecify](https://github.com/OffchainLabs/prysm/commit/3096275774008fc37bc829d83920f79fb16096ec) - 2025-09-24
 * [Commit] [start fixing ethspecify](https://github.com/OffchainLabs/prysm/commit/489d995140b91f695f476adad300eab731c98ad9) - 2025-09-24
 * [Pull Request] [update spectests to 1.6.0-beta.0](https://github.com/OffchainLabs/prysm/pull/15741) - 2025-09-24
+* [Pull Request] [Update quick-go](https://github.com/OffchainLabs/prysm/pull/15749) - 2025-09-25
 [prysmaticlabs/hashtree](https://github.com/prysmaticlabs/hashtree)
 * [Commit] [add HashByteSlice (#51)](https://github.com/OffchainLabs/hashtree/commit/f733b7698511b5498b722421a30ddf7e5066497c) - 2025-08-31
 ## Q2 2025

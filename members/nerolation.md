@@ -36,6 +36,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7976: Update gas limit assumptions to 45M](https://github.com/ethereum/EIPs/pull/10269) - 2025-09-03
 * [Pull Request] [Update EIP-7778: improve title](https://github.com/ethereum/EIPs/pull/10268) - 2025-09-03
 * [Pull Request] [Update EIP-7928: Further clarify reverts](https://github.com/ethereum/EIPs/pull/10377) - 2025-09-22
+* [Pull Request] [Update EIP-7928: Clarify self destruct](https://github.com/ethereum/EIPs/pull/10393) - 2025-09-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add Specs: EIP-7928: Block-level Access Lists](https://github.com/ethereum/execution-specs/pull/1338) - 2025-07-21
 
@@ -43,6 +44,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [test: add max block size test using access lists](https://github.com/ethereum/execution-spec-tests/pull/1932) - 2025-07-21
 
+* [Pull Request] [Add more complex selfdestruct tests](https://github.com/ethereum/execution-spec-tests/pull/2207) - 2025-09-25
 [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Add files via upload](https://github.com/nerolation/pglanding-nerolation/commit/786b203ac20efd6b4d1ea59eb6db1da458798094) - 2025-07-21
 * [Commit] [Add files via upload](https://github.com/nerolation/pglanding-nerolation/commit/397356c59291489a34e0981a0b7fb975660e8dbd) - 2025-07-21

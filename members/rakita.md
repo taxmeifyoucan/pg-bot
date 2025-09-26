@@ -236,6 +236,13 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: changelog update v87](https://github.com/bluealloy/revm/commit/1ac08b84c90b28a8ac0f104609bf18febeceb347) - 2025-09-23
 * [Commit] [wip](https://github.com/bluealloy/revm/commit/d5b1f0b4fedb4308a5d76c56c7efc583c7588b12) - 2025-09-23
 * [Commit] [fix: racecondition return on install_crypto fn (#2997)](https://github.com/bluealloy/revm/commit/591ee99921c71b0733a149e519008ba5c3709c16) - 2025-09-24
+* [Commit] [chore(ci): add clippy component (#3010)](https://github.com/bluealloy/revm/commit/e3d300c619bc691327c8f4c907949b9a60def1df) - 2025-09-25
+* [Pull Request] [chore(ci): add clippy component](https://github.com/bluealloy/revm/pull/3010) - 2025-09-25
+* [Commit] [feat(op-revm): implement jovian operator fee fix (#2996)](https://github.com/bluealloy/revm/commit/9f054e4f83e263edfdde10b6245f1592abbda532) - 2025-09-25
+* [Commit] [simplify erc20 example](https://github.com/bluealloy/revm/commit/8dcaa86cd35328f2c485c39ea38a70f528fceb74) - 2025-09-25
+* [Commit] [add clippy as component](https://github.com/bluealloy/revm/commit/bc074f76d1e0bc2ec5df512e146c8f723c385d03) - 2025-09-25
+* [Commit] [docs](https://github.com/bluealloy/revm/commit/e40648f3181335b840c7d3b36ac827390cf9ac1a) - 2025-09-25
+* [Commit] [doc](https://github.com/bluealloy/revm/commit/3a87e5ff259ae6cabe89a0e433d2a6fb05955d3a) - 2025-09-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

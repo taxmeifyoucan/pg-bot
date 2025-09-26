@@ -171,6 +171,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: track number of peers per data column subnet topic](https://github.com/ChainSafe/lodestar/pull/8442) - 2025-09-22
 * [Issue] [Performance concern of gossipsub metrics](https://github.com/ChainSafe/lodestar/issues/8454) - 2025-09-23
 * [Commit] [feat: track number of peers per data column subnet topic (#8442)](https://github.com/ChainSafe/lodestar/commit/4efea5815ee19b27be592716390f353c4d644539) - 2025-09-23
+* [Commit] [fix: log the full root hex](https://github.com/ChainSafe/lodestar/commit/331af9a473075a233b86a1ca3a576320aa378374) - 2025-09-25
+* [Pull Request] [fix: untrusted slot in network processor](https://github.com/ChainSafe/lodestar/pull/8466) - 2025-09-25
+* [Issue] [UnknownBlockSync: Download errors with same root different slots](https://github.com/ChainSafe/lodestar/issues/8465) - 2025-09-25
 ## Q2 2025
 
 

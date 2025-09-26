@@ -41,6 +41,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [🐞 fix: contract creation to use initcode](https://github.com/ethereum/execution-spec-tests/commit/f60e3fc36e1ce3e2f2125635479291f91caaa09f) - 2025-09-23
 * [Commit] [🐞 fix: Post state](https://github.com/ethereum/execution-spec-tests/commit/ba89ae8166d0a3cbe19049bf6beaa2cfb22ad259) - 2025-09-23
 * [Commit] [nit](https://github.com/ethereum/execution-spec-tests/commit/1eae5c162a6dfaffaed8cc53bff5f8d2ea50a6dc) - 2025-09-23
+* [Commit] [✨ feat: watcherfall mode](https://github.com/ethereum/execution-spec-tests/commit/644c3b5c1f0273f5e0d2cf68cd57bbfce0e67037) - 2025-09-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-7928 BAL does not include recipient of a zero-value transfer](https://github.com/ethereum/execution-specs/issues/1430) - 2025-09-19
 * [Issue] [EIP-7928 BAL includes storage changes even after transaction reverts](https://github.com/ethereum/execution-specs/issues/1432) - 2025-09-20

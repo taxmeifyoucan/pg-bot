@@ -83,6 +83,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [evm: fix GasPrice check when NoBaseFee](https://github.com/erigontech/erigon/pull/17196) - 2025-09-22
 * [Commit] [test workflows: user input sanitisation (remaining issues) (#17221)](https://github.com/erigontech/erigon/commit/3f46d19f5cf3008a3b6e94184ac799017b373eec) - 2025-09-24
 * [Commit] [refactor: enhance commitment history support and improve type definitions](https://github.com/erigontech/erigon/commit/c85dcc78d3d4853d5c9400ed0bced756a2d27d84) - 2025-09-24
+* [Commit] [qa_tests: attach log and improve shell scripts in RPC tests](https://github.com/erigontech/erigon/commit/cf53f39e32e8982ac1e4f5158eb54a23e54e1eff) - 2025-09-25
+* [Commit] [qa_tests: attach log and improve shell scripts in RPC tests](https://github.com/erigontech/erigon/commit/89fe625852768a7f6635db8728d98c0268235110) - 2025-09-25
+* [Commit] [qa_tests: attach log and improve shell scripts in RPC tests](https://github.com/erigontech/erigon/commit/0a396a3c3731f89ab1d85b8fa5503c1301541811) - 2025-09-25
+* [Commit] [Add unit tests (#17206)](https://github.com/erigontech/erigon/commit/012ce6770b00784a439f3f0753d8e11d406cf81a) - 2025-09-25
+* [Pull Request] [qa_tests: attach log and improve shell scripts in RPC tests](https://github.com/erigontech/erigon/pull/17240) - 2025-09-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14
@@ -112,6 +117,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration: add eth_simulateV1 tests](https://github.com/erigontech/rpc-tests/pull/459) - 2025-09-19
 * [Commit] [fix blockTimestamp in logs](https://github.com/erigontech/rpc-tests/commit/b89e377213604f314efbddeb5955b3a526b9c50d) - 2025-09-23
 * [Commit] [add tests](https://github.com/erigontech/rpc-tests/commit/d547bcc2cea83a3a835b2acf333dbf0dc298c497) - 2025-09-24
+* [Commit] [integration: print results dir at startup (#460)](https://github.com/erigontech/rpc-tests/commit/391bbbcb1910410dcaf2f0dab6b0f148c91e3a4e) - 2025-09-25
+* [Commit] [change block for test_23](https://github.com/erigontech/rpc-tests/commit/360f6cd2daea9b55e435e837d2c058a558b542b7) - 2025-09-25
+* [Commit] [change block for test_23](https://github.com/erigontech/rpc-tests/commit/5304118c445cf05c4092ef67820dfc32d3b077b9) - 2025-09-25
+* [Pull Request] [integration: print results dir at startup](https://github.com/erigontech/rpc-tests/pull/460) - 2025-09-25
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

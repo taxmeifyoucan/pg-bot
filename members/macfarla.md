@@ -87,6 +87,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Add peer task executor to testnode implementation (#9163)](https://github.com/hyperledger/besu/commit/992e70735db802644258d43caad033d50817858c) - 2025-09-10
 * [Commit] [fix hex regex in era1 filenames (#9162)](https://github.com/hyperledger/besu/commit/83234624f0d9019084cab7a4accb2a5f74e82580) - 2025-09-10
 * [Pull Request] [RPC HTTP timeout - improve visibility](https://github.com/hyperledger/besu/pull/9170) - 2025-09-11
+* [Commit] [RPC HTTP timeout - override value to be used for engine API (#9170)](https://github.com/hyperledger/besu/commit/4b94eac6b2a254ef660951c67ad8f15c584c6815) - 2025-09-26
+* [Commit] [update grpc and guava (#9150)](https://github.com/hyperledger/besu/commit/30ed4ad402e722fd1b40c7b7cd7252bf9c655965) - 2025-09-25
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob allowance exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2089) - 2025-09-01
 ## Q2 2025

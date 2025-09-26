@@ -27,6 +27,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Improve EEST mod_vul_guido_3_even use case (#9158)](https://github.com/hyperledger/besu/commit/6344f17ad1347e520bf41e2f924415b9db029d5b) - 2025-09-09
 * [Issue] [Release 25.9.0](https://github.com/hyperledger/besu/issues/9200) - 2025-09-19
 * [Commit] [Avoid recalculating the block header if we already have it. (#9193)](https://github.com/hyperledger/besu/commit/156a2f495c3e57e4fe14ce0e7d18f3693a41dc9e) - 2025-09-19
+* [Pull Request] [Add --cache-last-block-headers flag to cache the last n block header](https://github.com/hyperledger/besu/pull/9223) - 2025-09-25
 ## Q2 2025
 
 

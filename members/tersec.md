@@ -209,6 +209,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [schedule Fulu on Sepolia, Holesky, and Hoodi](https://github.com/status-im/nimbus-eth2/commit/0219e69d56da702370f44d69629f556f9634356b) - 2025-09-23
 * [Pull Request] [schedule Fulu on Sepolia, Holesky, and Hoodi](https://github.com/status-im/nimbus-eth2/pull/7529) - 2025-09-23
 * [Commit] [add Holesky deprecation notice (#7505)](https://github.com/status-im/nimbus-eth2/commit/f81a1a4a3f0b6d5641902ce7baaf39ad3bfc3d07) - 2025-09-24
+* [Commit] [Speed up and simplify json serialization (#7385)](https://github.com/status-im/nimbus-eth2/commit/5593ec368f5f833a619a473ffb7581d2ebfe99bc) - 2025-09-25
+* [Commit] [version v25.9.1](https://github.com/status-im/nimbus-eth2/commit/6f413cc49b2ef086c806d321c74331301fcfa232) - 2025-09-25
+* [Commit] [Bump vendor/mainnet from `9df5a5b` to `5a94a36` (#7531)](https://github.com/status-im/nimbus-eth2/commit/4d1db0b8db268c76b99c69ff3753b23a39e135b6) - 2025-09-25
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13

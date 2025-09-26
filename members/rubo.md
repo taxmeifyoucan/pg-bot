@@ -71,6 +71,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Replace `IWebHost` with `IHost`](https://github.com/NethermindEth/nethermind/commit/2a6b5d769dcb4d06c250a5f98484cb8088297d7e) - 2025-09-18
 * [Commit] [Update Dockerfile.repro](https://github.com/NethermindEth/nethermind/commit/d4aa723aa627fa618bad76302a43fb875c4dce3e) - 2025-09-24
 * [Commit] [Update packages.lock.json](https://github.com/NethermindEth/nethermind/commit/5288852d0dde08474d68a71afc99cb2d951d13f0) - 2025-09-24
+* [Commit] [Remove redundant parameter](https://github.com/NethermindEth/nethermind/commit/c170368b8b556dd374bc5d149332100430f09c73) - 2025-09-25
+* [Commit] [Remove redundant parameter](https://github.com/NethermindEth/nethermind/commit/adab3d4e0492978398afd9bcf82cd51fdf86343a) - 2025-09-25
+* [Pull Request] [Exclude `runtimeconfig.template.json`](https://github.com/NethermindEth/nethermind/pull/9359) - 2025-09-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21

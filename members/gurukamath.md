@@ -51,6 +51,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [refactor(tool): Change `is_after_fork` method](https://github.com/ethereum/execution-specs/issues/1424) - 2025-09-11
 * [Pull Request] [chore(tooling): Update static checks](https://github.com/ethereum/execution-specs/pull/1428) - 2025-09-16
 * [Pull Request] [fix(tool): update path to include forks folder](https://github.com/ethereum/execution-specs/pull/1436) - 2025-09-23
+* [Commit] [chore(tooling): Update static checks (#1428)](https://github.com/ethereum/execution-specs/commit/4ac7a9ba5c545487cd6fbebbabbd16779f25cbf9) - 2025-09-25
 ## Q2 2025
 
 

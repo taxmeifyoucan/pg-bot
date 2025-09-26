@@ -66,6 +66,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Fix bugs in proposer calculation post-Fulu](https://github.com/sigp/lighthouse/pull/8101) - 2025-09-22
 * [Issue] [Set Fulu fork epoch for Sepolia](https://github.com/sigp/lighthouse/issues/8099) - 2025-09-22
 * [Pull Request] [Refine HTTP status logs](https://github.com/sigp/lighthouse/pull/8098) - 2025-09-22
+* [Issue] [Extend MockExecutionLayer to handle execution_requests](https://github.com/sigp/lighthouse/issues/8116) - 2025-09-25
 ## Q2 2025
 
 

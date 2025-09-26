@@ -23,6 +23,7 @@ Team: Grandine
 * [Pull Request] [Temporary ignore RUSTSEC-2025-0055](https://github.com/grandinetech/grandine/pull/345) - 2025-09-03
 * [Issue] [Check Nimbus VC warning when using with Grandine BN](https://github.com/grandinetech/grandine/issues/374) - 2025-09-14
 * [Issue] [Cleanup warnings in `develop` branch](https://github.com/grandinetech/grandine/issues/382) - 2025-09-23
+* [Issue] [Implement missing metrics for PeerDAS](https://github.com/grandinetech/grandine/issues/387) - 2025-09-25
 ## Q2 2025
 
 

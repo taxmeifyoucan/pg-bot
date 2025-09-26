@@ -107,6 +107,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Halve FC memory usage](https://github.com/status-im/nimbus-eth1/commit/b7f44795135adda0ff48197f4311c08ce318dc00) - 2025-09-21
 * [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/0245d22cbd817b81fada22803b8d725ce00a98ce) - 2025-09-24
 * [Pull Request] [Port eth2 binary `main` style to eth1](https://github.com/status-im/nimbus-eth1/pull/3712) - 2025-09-24
+* [Commit] [lint/test](https://github.com/status-im/nimbus-eth1/commit/cc5bb218933b5e87ae3d74d5998ca72e6a1f7f29) - 2025-09-25
+* [Commit] [writePanicLine helper](https://github.com/status-im/nimbus-eth1/commit/5defe6be71b7d254b485e0d2ee09aad6fb7de3fd) - 2025-09-25
+* [Commit] [move import](https://github.com/status-im/nimbus-eth1/commit/08461f22f392616a3baba17a9e594a8f5994af84) - 2025-09-25
+* [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/48be3808ec6005d52bbc7652399693cfc0f21673) - 2025-09-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -217,6 +221,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/22389427f779bb94355c8487d200a702ce3914fc) - 2025-09-23
 * [Commit] [test](https://github.com/status-im/nimbus-eth2/commit/b491796aa62951a4f6d45ec7d851e2b7e23f5d22) - 2025-09-23
 * [Commit] [fix missing logging setup in windows service](https://github.com/status-im/nimbus-eth2/commit/a2ea8af73c25bd1a43617ba012c7172d6521d0d0) - 2025-09-24
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/e6cde0e54f44bc7be0996e046367b6a844077d63) - 2025-09-25
+* [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/6ae8b4d2f2f0a5bb162bb3333e35aacaa07a863a) - 2025-09-25
+* [Commit] [writePanicLine helper](https://github.com/status-im/nimbus-eth2/commit/1e6237603320097fb5305fcee961f55c1b129b93) - 2025-09-25
+* [Commit] [nicer poll loop](https://github.com/status-im/nimbus-eth2/commit/71e0f7f532705e8eef8755bf94c7a988e8813428) - 2025-09-25
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

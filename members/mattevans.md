@@ -134,3 +134,15 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [refactor: remove unused ValidatorSet config and improve network selector UI](https://github.com/ethpandaops/lab/commit/81809fd9cbc3c2614f48591b6273f5ff9ea48669) - 2025-09-19
 * [Pull Request] [refactor: rewire + support devnets](https://github.com/ethpandaops/lab/pull/80) - 2025-09-19
 * [Commit] [refactor: replace ethereum client with wallclock service and xatu-cbt config](https://github.com/ethpandaops/lab/commit/208138834f07e162dbeeb6c313c83e83ad088129) - 2025-09-19
+* [Commit] [chore: bump xatu-cbt to 39dbd17aff7c and adapt to new query API](https://github.com/ethpandaops/lab/commit/ee11fc842cff3bc1952706f21762b7fef01f1ac8) - 2025-09-25
+* [Pull Request] [chore: vendor cbt protos](https://github.com/ethpandaops/lab/pull/92) - 2025-09-25
+* [Commit] [feat(service.go): add Prometheus metrics endpoint at /metrics](https://github.com/ethpandaops/lab/commit/a405468bea0533557d14f8b8bd74194ef09027e6) - 2025-09-25
+* [Commit] [fix: new geo fields](https://github.com/ethpandaops/lab/commit/68b85dda98b4be50f2bd460667e248839864a99e) - 2025-09-25
+* [Pull Request] [fix: new geo fields](https://github.com/ethpandaops/lab/pull/90) - 2025-09-25
+* [Commit] [chore: bump xatu-cbt dependency to latest commit](https://github.com/ethpandaops/lab/commit/f5537662dc4a3618a30ecd9a2fab06a53b02a4a0) - 2025-09-25
+* [Commit] [refactor(xatu_cbt): prefix scan error logs with function names for clarity](https://github.com/ethpandaops/lab/commit/5a9ad5cfb893e20f534ab44a9806396d65862f01) - 2025-09-25
+* [Pull Request] [refactor(xatu_cbt): add missing BuilderPubkey scan to prevent silent data loss](https://github.com/ethpandaops/lab/pull/88) - 2025-09-25
+* [Commit] [refactor(mev): builder_pubkey](https://github.com/ethpandaops/lab/commit/69f1eb4a7035b650b4eaec6e98fe291b68c9ce04) - 2025-09-25
+* [Pull Request] [refactor(mev): builder_pubkey](https://github.com/ethpandaops/lab/pull/87) - 2025-09-25
+* [Commit] [feat(clickhouse): promote connection test logs from Debug to Info for better visibility](https://github.com/ethpandaops/lab/commit/d101b05c1e7e96947fdf198a3644d10b2393fae9) - 2025-09-25
+* [Pull Request] [feat(clickhouse): ensure network db exists via ping.](https://github.com/ethpandaops/lab/pull/86) - 2025-09-25

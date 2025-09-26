@@ -248,6 +248,8 @@ Team: Reth
 * [Pull Request] [test: add unwind parse test](https://github.com/paradigmxyz/reth/pull/18677) - 2025-09-24
 * [Commit] [refactor: simplify `EthApiSpeс` trait (#18674)](https://github.com/paradigmxyz/reth/commit/7fb24e57a8289117152ba82fd10c3d2e5c011705) - 2025-09-24
 * [Issue] [Reject eth69 peers with zero latest hash](https://github.com/paradigmxyz/reth/issues/18675) - 2025-09-24
+* [Issue] [Keep track of most recently emitted range update and change interval](https://github.com/paradigmxyz/reth/issues/18719) - 2025-09-26
+* [Issue] [Feature gate file client downloader](https://github.com/paradigmxyz/reth/issues/18698) - 2025-09-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

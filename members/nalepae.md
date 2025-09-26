@@ -207,6 +207,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Do not fail (builder) block production when local block production fails.](https://github.com/OffchainLabs/prysm/issues/15734) - 2025-09-23
 * [Commit] [Add changelog.](https://github.com/OffchainLabs/prysm/commit/060357df7e6f7e42bbb22fb4833ca90b71c6c80e) - 2025-09-23
 * [Pull Request] [Fix no custody info available at start](https://github.com/OffchainLabs/prysm/pull/15732) - 2025-09-23
+* [Commit] [Aggregate logs when broadcasting data column sidecars](https://github.com/OffchainLabs/prysm/commit/a209edc208cd80b092d744303d6146c12f8f1b4a) - 2025-09-25
+* [Commit] [Aggregate logs when broadcasting data column sidecars](https://github.com/OffchainLabs/prysm/commit/21414fec723303ce64fcbdcbe565440a6973c47c) - 2025-09-25
+* [Commit] [Aggregate logs when broadcasting data column sidecars](https://github.com/OffchainLabs/prysm/commit/3e761c4e7f9abe571e36271686fd207bb4c439fd) - 2025-09-25
+* [Pull Request] [Aggregate logs when broadcasting data column sidecars](https://github.com/OffchainLabs/prysm/pull/15748) - 2025-09-25
+* [Commit] [Aggregate logs when broadcasting data column sidecars](https://github.com/OffchainLabs/prysm/commit/d7641760391b6cc1a44a78ba1c06fd7ed0bd2f1c) - 2025-09-25
 ## Q2 2025
 
 

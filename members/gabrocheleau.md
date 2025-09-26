@@ -24,6 +24,9 @@ Team: EthereumJS
 * [Pull Request] [evm: add eip7939 - count leading zeroes](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4133) - 2025-09-13
 * [Commit] [evm: add comments to logic](https://github.com/ethereumjs/ethereumjs-monorepo/commit/2dc8489d7207f1f5175b661dc1958457080a54a5) - 2025-09-14
 * [Pull Request] [feat: p256 verify precompile 12](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4136) - 2025-09-17
+* [Commit] [chore: add ci to install pnpm](https://github.com/ethereumjs/ethereumjs-monorepo/commit/5fccfc9050351cd2e3fc68215293d024ff0dc83b) - 2025-09-25
+* [Commit] [EIP-7825: Test adjustments & Back to 0 Gas Limit Default (#4135)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/520475d0912b2715d1f3cc096e4672a6d89e15fb) - 2025-09-25
+* [Pull Request] [monorepo: migrate to pnpm](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4139) - 2025-09-25
 ## Q2 2025
 
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)

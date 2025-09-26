@@ -140,6 +140,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: use correct container and bump seq_number when updating syncnets (#8451)](https://github.com/ChainSafe/lodestar/commit/b8be78f7bb1b078969340f14f3960155830c53fc) - 2025-09-23
 * [Pull Request] [feat: add lodestar-bun and bun leveldb binding](https://github.com/ChainSafe/lodestar/pull/8462) - 2025-09-24
 * [Commit] [chore: fixup upstream lodestar-bun](https://github.com/ChainSafe/lodestar/commit/78cd85892eca8e56d5805dbf6d489e7456b1397e) - 2025-09-24
+* [Commit] [fix: untrusted slot in network processor (#8466)](https://github.com/ChainSafe/lodestar/commit/98d359db41812da0e2a41b8b3e0085640a45343c) - 2025-09-25
+* [Commit] [chore: add src to the package to have working source map (#8460)](https://github.com/ChainSafe/lodestar/commit/8689cc3545d20dc9169f204969d1a372ea3adc2a) - 2025-09-25
 ## Q2 2025
 
 

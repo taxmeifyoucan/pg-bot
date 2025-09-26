@@ -28,6 +28,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [Add some compute Opcode benchmarks (#9069)](https://github.com/hyperledger/besu/commit/0601909ca87ef9c5ba99cb0da2ad8a03fef988ae) - 2025-08-27
 * [Commit] [Improve EcRecover precompile performance (#9053)](https://github.com/hyperledger/besu/commit/c80e23f56ba3b01f873dfe9eb3e859cfeecec1da) - 2025-08-29
 * [Commit] [Update Fusaka forks for testnets (#9196)](https://github.com/hyperledger/besu/commit/e8860d2a734fae75a7e0a600433bcfd51d86c881) - 2025-09-19
+* [Pull Request] [Upgrade execution-spec-tests to v5.1.0 fixtures_develop](https://github.com/hyperledger/besu/pull/9226) - 2025-09-26
 ## Q2 2025
 
 

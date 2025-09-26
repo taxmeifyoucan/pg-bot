@@ -39,6 +39,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Update layered txpool replay mechanism (#9192)](https://github.com/hyperledger/besu/commit/4911819bdf0a6cefb8c6bdec4cc413fdfdd51428) - 2025-09-23
 * [Commit] [Improve the log of sender with mixed priority in the layered txpool (#9209)](https://github.com/hyperledger/besu/commit/b0c3ebbc46a5cffca695ba5ce06c48d9eb5ddea4) - 2025-09-23
 * [Pull Request] [Fix setting additional properties on TransitionProtocolSchedule](https://github.com/hyperledger/besu/pull/9214) - 2025-09-23
+* [Commit] [Manage unexpected exceptions during block creation (#9208)](https://github.com/hyperledger/besu/commit/ddf82e57a41a0f1c8e86352cbd5f60c9af684354) - 2025-09-25
+* [Commit] [Fix EthStats integration with updating blocks (#9220)](https://github.com/hyperledger/besu/commit/ad769d315a0d906d62981d0c71dafff806796015) - 2025-09-25
+* [Commit] [Support block creation max time options when consensus transition is present (#9215)](https://github.com/hyperledger/besu/commit/5288278148d4f0f99bb89b2a3634804efadaed90) - 2025-09-25
 ## Q2 2025
 
 

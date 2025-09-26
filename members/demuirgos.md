@@ -51,6 +51,11 @@ Team: Nethermind
 * [Commit] [ws fixes](https://github.com/NethermindEth/nethermind/commit/863b809bfd20ff7a8c71c37d5995f85c120a77b1) - 2025-09-19
 * [Pull Request] [XDC : Snapshot Manager](https://github.com/NethermindEth/nethermind/pull/9318) - 2025-09-19
 * [Commit] [Add tests for Snapshot decoder and Snapshot manager](https://github.com/NethermindEth/nethermind/commit/bf794c67c76d0826e55c6688fb6ba79d99db5d79) - 2025-09-19
+* [Commit] [Fix selfdestruct missed between transaction (#9343)](https://github.com/NethermindEth/nethermind/commit/f54425195cd57b35b14197e677d38f046993b3c8) - 2025-09-25
+* [Commit] [fix build issue](https://github.com/NethermindEth/nethermind/commit/5fbfa22cfefcecc390841667e8962e85c43d4fcb) - 2025-09-25
+* [Commit] [refactors to SnapshotDecoder and SnapshotManager](https://github.com/NethermindEth/nethermind/commit/f4a7eba334f700d2ad472ffcaa1504bc537cc988) - 2025-09-25
+* [Commit] [switch to file scoped namespace in SnapshotDecoderTests.cs](https://github.com/NethermindEth/nethermind/commit/f23c01d99ec993c64af516bfad1a0c4a0b0f3494) - 2025-09-25
+* [Commit] [remove materialization of array](https://github.com/NethermindEth/nethermind/commit/6749a0fccc435d9eea2e2bf70d7a1ad65243aad5) - 2025-09-25
 ## Q2 2025
 
 

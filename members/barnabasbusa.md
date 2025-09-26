@@ -67,6 +67,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix sops](https://github.com/ethpandaops/template-devnets/commit/2d177f5af6906425c9688bfc4dde2914b55b67b4) - 2025-09-23
 * [Commit] [add qu0b (#122)](https://github.com/ethpandaops/template-devnets/commit/387c95dec72e99015e12b1a98de43662d6e3e6ef) - 2025-09-23
 * [Pull Request] [Bbusa/bump relay](https://github.com/ethpandaops/template-devnets/pull/127) - 2025-09-23
+* [Commit] [Update hetzner.tf](https://github.com/ethpandaops/template-devnets/commit/ef523b523552dc6552f65d9434c4cfd98cf3110c) - 2025-09-25
+* [Pull Request] [chore: bump to debian 13](https://github.com/ethpandaops/template-devnets/pull/129) - 2025-09-25
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Commit] [fix go fmt](https://github.com/ethpandaops/dora/commit/15708132cc1c9e5bf1000766b5a7076e22819a00) - 2025-08-04
 * [Commit] [fixes](https://github.com/ethpandaops/dora/commit/d05bca8af70ae490a6a2bc7f8a0847209f4a2003) - 2025-08-04

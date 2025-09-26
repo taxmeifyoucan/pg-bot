@@ -171,6 +171,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update todo](https://github.com/ChainSafe/lodestar/commit/a3fd1d7a7a4af5c6b15e8702ae6b7476f9a19266) - 2025-09-24
 * [Commit] [Misc changes](https://github.com/ChainSafe/lodestar/commit/2e37d82163dd305a2193409df29fbe213158231f) - 2025-09-24
 * [Commit] [fix: make cutoffs initialized in constructors dynamic (#8459)](https://github.com/ChainSafe/lodestar/commit/b33f5f28bb3ac2778d95a3f0911e7286309ff279) - 2025-09-24
+* [Commit] [fix: sort cell indices before calling `recoverCellsAndKzgProofs` (#8450)](https://github.com/ChainSafe/lodestar/commit/643a1132eccc7a329e68f286af199fc1f78928a8) - 2025-09-25
+* [Pull Request] [chore: v1.35.0 release](https://github.com/ChainSafe/lodestar/pull/8468) - 2025-09-25
+* [Commit] [Use Math.round](https://github.com/ChainSafe/lodestar/commit/be6264cde90ace52c2d40ec8d20116693dfedcbd) - 2025-09-25
 ## Q2 2025
 
 

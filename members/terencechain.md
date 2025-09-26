@@ -125,6 +125,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [fix getStateRandao not returning historic RANDAO mix values (#15653)](https://github.com/OffchainLabs/prysm/commit/02dca852516553d88a3140d8ba3ac4362137aa71) - 2025-09-23
 * [Commit] [Refactor ComputeFieldRootsWithHasher into smaller helper functions](https://github.com/OffchainLabs/prysm/commit/af862c3f33c703be753be005e9d5b230bfcb9ae3) - 2025-09-23
 * [Commit] [implement eip-7928 as a gloas fork without eip-7732](https://github.com/OffchainLabs/prysm/commit/ee27fde678feab773529aefec2156e9f4755e8f7) - 2025-09-23
+* [Commit] [Add serialization for Gloas block (#15747)](https://github.com/OffchainLabs/prysm/commit/abd7710cd9d29ecaf6a0559db9469337d5cfe53c) - 2025-09-25
+* [Commit] [Add back formatter](https://github.com/OffchainLabs/prysm/commit/7e055eb6ed856922a35464e45288447afa36fa2d) - 2025-09-25
+* [Pull Request] [Restructure golangci-lint config: explicit opt-in](https://github.com/OffchainLabs/prysm/pull/15744) - 2025-09-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [eip7732: add process execution payload envelop tests](https://github.com/ethereum/consensus-specs/pull/4458) - 2025-07-23
 * [Pull Request] [eip7732: add process execution payload header tests](https://github.com/ethereum/consensus-specs/pull/4457) - 2025-07-23
