@@ -212,6 +212,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Aggregate logs when broadcasting data column sidecars](https://github.com/OffchainLabs/prysm/commit/3e761c4e7f9abe571e36271686fd207bb4c439fd) - 2025-09-25
 * [Pull Request] [Aggregate logs when broadcasting data column sidecars](https://github.com/OffchainLabs/prysm/pull/15748) - 2025-09-25
 * [Commit] [Aggregate logs when broadcasting data column sidecars](https://github.com/OffchainLabs/prysm/commit/d7641760391b6cc1a44a78ba1c06fd7ed0bd2f1c) - 2025-09-25
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [`p2p-interface.md`: Add note related to `earliest_available_slot`](https://github.com/ethereum/consensus-specs/pull/4617) - 2025-09-26
 ## Q2 2025
 
 

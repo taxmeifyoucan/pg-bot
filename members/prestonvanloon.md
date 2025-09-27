@@ -49,6 +49,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [fix: use assigned committee index in attestation data after Electra (#15696)](https://github.com/OffchainLabs/prysm/commit/54991bbc52cb780b24bc06743cbcb6983b00262c) - 2025-09-19
 * [Pull Request] [Update eth clients pinned deps](https://github.com/OffchainLabs/prysm/pull/15733) - 2025-09-23
 * [Pull Request] [slasherkv: Set a 1 minute timeout on PruneAttestationOnEpoch operatio…](https://github.com/OffchainLabs/prysm/pull/15746) - 2025-09-25
+* [Pull Request] [Rollback go_version to go 1.24.7](https://github.com/OffchainLabs/prysm/pull/15761) - 2025-09-26
+* [Commit] [Changelog for v6.0.5](https://github.com/OffchainLabs/prysm/commit/11c83bbc63369aa80d3daebc83f33da344c60cc1) - 2025-09-26
 ## Q2 2025
 
 

@@ -218,6 +218,14 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fix chain_debug](https://github.com/status-im/nimbus-eth1/commit/ae71d3a7218e4628e21d5d236b5aa554244262c9) - 2025-09-20
 * [Commit] [ancestors iterator and clear parent outside iterator](https://github.com/status-im/nimbus-eth1/commit/904638f728eecdde128f62585eaa0f4e4061ae98) - 2025-09-20
 * [Commit] [Addressing review](https://github.com/status-im/nimbus-eth1/commit/f235d1b4d5c49285841562be49f0ef64a04245c1) - 2025-09-20
+* [Commit] [inlcude precompile name for precompile errors in debug logs (#3718)](https://github.com/status-im/nimbus-eth1/commit/dd66afd006caff989fbfd0238bbd3835f5fbf8af) - 2025-09-26
+* [Commit] [Bump nim-kzg4844](https://github.com/status-im/nimbus-eth1/commit/1eceac9b8481064f4baf0887ee7027cc1f238dc2) - 2025-09-26
+* [Commit] [Bump nimbus-eth2](https://github.com/status-im/nimbus-eth1/commit/faa03357f45df36f7a8bb0b0b764f959b9ce5f14) - 2025-09-26
+* [Pull Request] [Bump nim-kzg4844: upstream lazy_kzg module](https://github.com/status-im/nimbus-eth1/pull/3719) - 2025-09-26
+* [Commit] [Fix workflow name](https://github.com/status-im/nimbus-eth1/commit/777aaf06eb2843a1a429e7f4353b406e65c3a769) - 2025-09-26
+* [Pull Request] [Merge linter from EL, portal, and nvp](https://github.com/status-im/nimbus-eth1/pull/3716) - 2025-09-26
+* [Commit] [Fix test_forkid](https://github.com/status-im/nimbus-eth1/commit/0e64f944588d9f5e96c67e93dc111ad7bbbb5808) - 2025-09-26
+* [Pull Request] [Set Osaka fork configurations for Sepolia, Holesky, and Hoodi](https://github.com/status-im/nimbus-eth1/pull/3715) - 2025-09-26
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 
@@ -232,6 +240,12 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [bump web3](https://github.com/status-im/nimbus-eth2/commit/5737d7335599232cd43781257d1dc872b41870c5) - 2025-07-29
 * [Commit] [Update e2store.md (#7314)](https://github.com/status-im/nimbus-eth2/commit/a1a28a3920d9d87d7a7b31320dcfd981ece49a6b) - 2025-07-29
 * [Commit] [Bump submodules](https://github.com/status-im/nimbus-eth2/commit/33a5a448d688e340b40f7d52f681bb2708f92ec4) - 2025-07-29
+* [Commit] [fix crash when block without blobs is unqueued from quarantine (#7543)](https://github.com/status-im/nimbus-eth2/commit/1ebb3ecc56d3947bb2b93e63fee6ebf1eb849fa1) - 2025-09-26
+* [Commit] [bump nim-kzg4844](https://github.com/status-im/nimbus-eth2/commit/962cbe1d3664b0238f0c503ab2c6bc508c2c22f9) - 2025-09-26
+* [Commit] [Bump nim-kzg4844](https://github.com/status-im/nimbus-eth2/commit/ebf568fc10f1b290974ff8d4e263c7c2fbaf73b4) - 2025-09-26
+* [Commit] [Store runtime SECONDS_PER_SLOT value in ValidatorClient (#7482)](https://github.com/status-im/nimbus-eth2/commit/1414bb19d61d91cfe3a51749e44ec7cd7ae02245) - 2025-09-26
+* [Pull Request] [Bump nim-kzg4844: lazy_kzg replace kzg module](https://github.com/status-im/nimbus-eth2/pull/7545) - 2025-09-26
+* [Pull Request] [Bump nim-kzg4844: lazy_kzg replace kzg module](https://github.com/status-im/nimbus-eth2/pull/7544) - 2025-09-26
 ## Q2 2025
 
 

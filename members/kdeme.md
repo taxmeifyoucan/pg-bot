@@ -67,6 +67,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Portal: Update bootstrap nodes after ENR Portal field fix](https://github.com/status-im/nimbus-eth1/pull/3711) - 2025-09-24
 * [Commit] [Portal json-rpc: Fix for having seqNum encoded as hexstring (#3710)](https://github.com/status-im/nimbus-eth1/commit/08529c5cf16076ea35a5a614a485f5b07e6b8146) - 2025-09-24
 * [Pull Request] [Portal json-rpc: Fix for having seqNum encoded as hexstring](https://github.com/status-im/nimbus-eth1/pull/3710) - 2025-09-24
+* [Commit] [Portal: Add short paths in block body and receipts validation (#3720)](https://github.com/status-im/nimbus-eth1/commit/49f09d0724fa2710c783f40d2304304691ae12b8) - 2025-09-26
+* [Pull Request] [Portal: Add short paths in block body and receipts validation](https://github.com/status-im/nimbus-eth1/pull/3720) - 2025-09-26
 [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)
 * [Pull Request] [Update Portal bootstrap nodes](https://github.com/ethereum/portal-network-specs/pull/413) - 2025-09-14
 

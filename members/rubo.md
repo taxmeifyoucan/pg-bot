@@ -74,6 +74,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Remove redundant parameter](https://github.com/NethermindEth/nethermind/commit/c170368b8b556dd374bc5d149332100430f09c73) - 2025-09-25
 * [Commit] [Remove redundant parameter](https://github.com/NethermindEth/nethermind/commit/adab3d4e0492978398afd9bcf82cd51fdf86343a) - 2025-09-25
 * [Pull Request] [Exclude `runtimeconfig.template.json`](https://github.com/NethermindEth/nethermind/pull/9359) - 2025-09-25
+* [Commit] [Remove redundant parameter](https://github.com/NethermindEth/nethermind/commit/0974bfb54fa23bee3fa453cbe7536aace3760f5a) - 2025-09-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21

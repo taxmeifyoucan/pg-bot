@@ -172,6 +172,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [removing direct dependency, we can just use yamlv3](https://github.com/OffchainLabs/prysm/pull/15729) - 2025-09-22
 * [Commit] [trying to fix remaining e2e issues](https://github.com/OffchainLabs/prysm/commit/15e2e6b85e438be4dd8410e27588acd0f01a5c2b) - 2025-09-24
 * [Pull Request] [fixing error handling of unfound block](https://github.com/OffchainLabs/prysm/pull/15742) - 2025-09-24
+* [Commit] [fixing comment](https://github.com/OffchainLabs/prysm/commit/ca4ae35f6e787e96ad6143fbaf162f53e6cf76b1) - 2025-09-26
+* [Commit] [SSZ-QL: Support nested `List` type (#15725)](https://github.com/OffchainLabs/prysm/commit/29fe707143f9638dcb8933425a4124f596e68889) - 2025-09-26
+* [Commit] [more review feedback](https://github.com/OffchainLabs/prysm/commit/00e66ccab6d5d9576146df011fc7f6f0fc08b1b1) - 2025-09-26
+* [Commit] [fixing log](https://github.com/OffchainLabs/prysm/commit/ed1885be8a8bfecbbc6cd156881a0baa7a3b9d39) - 2025-09-26
+* [Commit] [Update testing/endtoend/components/eth1/transactions.go](https://github.com/OffchainLabs/prysm/commit/fad101c4a0f78681dcf8fdaa22ffc7e53fa63e62) - 2025-09-26
+* [Commit] [some review](https://github.com/OffchainLabs/prysm/commit/1c0107812b23ae24cc1c6af532a4ed91fe32aa4e) - 2025-09-26
+* [Commit] [additional log information around invalid payloads (#15754)](https://github.com/OffchainLabs/prysm/commit/d68196822bdb08ebaf18bfd96656bff988557f8f) - 2025-09-26
+* [Commit] [Update testing/endtoend/components/eth1/transactions.go](https://github.com/OffchainLabs/prysm/commit/20d6bacfe9c27fdeee334a7edcd1bdd5072d0aa7) - 2025-09-26
 ## Q2 2025
 
 

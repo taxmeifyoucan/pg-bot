@@ -79,6 +79,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [build,ci: Enable MC/DC coverage (#1317)](https://github.com/ipsilon/evmone/commit/6d8beb928f0775611058c9a25baf5101d7ff5fbe) - 2025-09-22
 * [Pull Request] [build,ci: Enable MC/DC coverage](https://github.com/ipsilon/evmone/pull/1317) - 2025-09-22
 * [Commit] [tests: Fix blockchaintest EIP-7918 (#1322)](https://github.com/ipsilon/evmone/commit/700d55cfefcb816a797a5a855494d1a5717c1f16) - 2025-09-24
+* [Commit] [crypto: Add ECC doubling formula for a curve with A -3](https://github.com/ipsilon/evmone/commit/cdd29850419feb130089545b71f2f9b9d471b715) - 2025-09-26
+* [Commit] [crypto: Implement secp256r1/P256 signature verification](https://github.com/ipsilon/evmone/commit/e32d447312bcf8d0dff76db2410a6b3483fb4a28) - 2025-09-26
+* [Commit] [Add CHANGELOG for release 0.16.0 (#1323)](https://github.com/ipsilon/evmone/commit/ae39f742ac17a920ac1e23bb42324aeb08c9afd8) - 2025-09-26
+* [Commit] [ci: Adjust coverage report for EEST tests (#1318)](https://github.com/ipsilon/evmone/commit/6586b457aa1b1a278dbac355f0c3c0177172c64f) - 2025-09-26
+* [Commit] [tests: Fix blockchaintest EIP-7918 (#1322)](https://github.com/ipsilon/evmone/commit/700d55cfefcb816a797a5a855494d1a5717c1f16) - 2025-09-26
+* [Commit] [ci: Fix release deploy job (#1324)](https://github.com/ipsilon/evmone/commit/45074897fc79f290b4afaf6df0e0e40cd7494cb5) - 2025-09-26
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 

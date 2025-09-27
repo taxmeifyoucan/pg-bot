@@ -111,6 +111,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [writePanicLine helper](https://github.com/status-im/nimbus-eth1/commit/5defe6be71b7d254b485e0d2ee09aad6fb7de3fd) - 2025-09-25
 * [Commit] [move import](https://github.com/status-im/nimbus-eth1/commit/08461f22f392616a3baba17a9e594a8f5994af84) - 2025-09-25
 * [Commit] [fixes](https://github.com/status-im/nimbus-eth1/commit/48be3808ec6005d52bbc7652399693cfc0f21673) - 2025-09-25
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/8d9ccc89442eecd8d380a4f44f6e029b545e2ca6) - 2025-09-26
+* [Commit] [Prevent database corruption during stateroot computation (#3705)](https://github.com/status-im/nimbus-eth1/commit/814810ecad9de28c4ad807c4c0c7a6f6ddd6522a) - 2025-09-26
+* [Commit] [Set Osaka fork configurations for Sepolia, Holesky, and Hoodi (#3715)](https://github.com/status-im/nimbus-eth1/commit/17d6de7b6a1c309b27d8331d223b0208cd36861a) - 2025-09-26
+* [Commit] [bump](https://github.com/status-im/nimbus-eth1/commit/25b276c008393aeb17a3cf4b9a77eb08cfe46488) - 2025-09-26
+* [Commit] [bump submodules to matching versions](https://github.com/status-im/nimbus-eth1/commit/efd794b04f5de3877c84b42519e6619e597b5b03) - 2025-09-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [bump json_serialization/web3 for lean array support](https://github.com/status-im/nimbus-eth2/pull/7280) - 2025-07-02
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/29fafcad02b120b3bb41e6bbed9c6ea34746fa91) - 2025-07-21
@@ -225,6 +230,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [oops](https://github.com/status-im/nimbus-eth2/commit/6ae8b4d2f2f0a5bb162bb3333e35aacaa07a863a) - 2025-09-25
 * [Commit] [writePanicLine helper](https://github.com/status-im/nimbus-eth2/commit/1e6237603320097fb5305fcee961f55c1b129b93) - 2025-09-25
 * [Commit] [nicer poll loop](https://github.com/status-im/nimbus-eth2/commit/71e0f7f532705e8eef8755bf94c7a988e8813428) - 2025-09-25
+* [Pull Request] [Streamline block routing from gossip to clearance](https://github.com/status-im/nimbus-eth2/pull/7546) - 2025-09-26
+* [Pull Request] [fix crash when block without blobs is unqueued from quarantine](https://github.com/status-im/nimbus-eth2/pull/7543) - 2025-09-26
+* [Commit] [Beacon node as library (#7526)](https://github.com/status-im/nimbus-eth2/commit/1180f21d17c247ecc1553da8753d05c90c3e9365) - 2025-09-26
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

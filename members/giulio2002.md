@@ -212,6 +212,10 @@ Team: Erigon
 * [Commit] [Improve performance of blob recovery (#17121)](https://github.com/erigontech/erigon/commit/09cd1c929f77639540cd53269e5e8d62bff97f64) - 2025-09-18
 * [Pull Request] [Cherry-Pick: fix bad snapshots name wait handling](https://github.com/erigontech/erigon/pull/17215) - 2025-09-23
 * [Commit] [Caplin: better waiting huristic for snapshot downloader (#17204)](https://github.com/erigontech/erigon/commit/19dda30cadf493ef9ca4d20cf7f9a1c20e5c459e) - 2025-09-23
+* [Commit] [fix TestDump flakiness (#16279)](https://github.com/erigontech/erigon/commit/2c7b0b153f709e60519fe46ac2dd8ced3e5e1342) - 2025-09-26
+* [Commit] [constrain and check column data length (#17248)](https://github.com/erigontech/erigon/commit/ec05a22fbb091d5e45e898bb7ee1ce13a1d2d282) - 2025-09-26
+* [Commit] [Check parameters on data_column_sidecars_by_range (#17239)](https://github.com/erigontech/erigon/commit/90ea5a86851fa10e8a20b3a17bba98d82b19750f) - 2025-09-26
+* [Commit] [validate column data before marking it as seen (#17241)](https://github.com/erigontech/erigon/commit/b8e652011e80d72c2c6c8ca736b4de7f910b6673) - 2025-09-26
 ## Q2 2025
 
 

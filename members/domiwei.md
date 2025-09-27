@@ -127,6 +127,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cherry-pick: Improve performance of blob recovery (#17121)](https://github.com/erigontech/erigon/pull/17158) - 2025-09-19
 * [Pull Request] [don't merge: try pick get blobs api](https://github.com/erigontech/erigon/pull/17178) - 2025-09-22
 * [Pull Request] [more limitation on data_column_sidecars_by_range](https://github.com/erigontech/erigon/pull/17239) - 2025-09-25
+* [Pull Request] [constrain and check column data length](https://github.com/erigontech/erigon/pull/17248) - 2025-09-26
+* [Pull Request] [Revise GetCustodyColumns](https://github.com/erigontech/erigon/pull/17247) - 2025-09-26
 ## Q2 2025
 
 

@@ -58,6 +58,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Disable byRoot syncing while rangeSync is active.](https://github.com/status-im/nimbus-eth2/commit/63dfab231e469e5d7b55da0551315fab47a453a1) - 2025-09-23
 * [Commit] [More fixes to block_buffer.peekRange().](https://github.com/status-im/nimbus-eth2/commit/a0abecb3a10a23e1d9349fed96aecab85e5d07a2) - 2025-09-24
 * [Commit] [Add parent_root into slimLog(blocks).](https://github.com/status-im/nimbus-eth2/commit/20edcdc5555de1dbcd0fb5ac444223c52c9406a6) - 2025-09-25
+* [Commit] [Sidecars check should be done before request has been made.](https://github.com/status-im/nimbus-eth2/commit/b3259f43061d03d35715fb65f17589bd829805a5) - 2025-09-26
+* [Commit] [Fix sidecars step should not be active when sidecars are not needed.](https://github.com/status-im/nimbus-eth2/commit/f7e080006d04170fa0b6a2c6f91ba4168b79833b) - 2025-09-26
+* [Commit] [Add SyncQueue synchronization for blocks loop.](https://github.com/status-im/nimbus-eth2/commit/7efdbb38ee13120056b01834a0123e913241dc54) - 2025-09-26
 ## Q2 2025
 
 

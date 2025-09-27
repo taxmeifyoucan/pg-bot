@@ -142,6 +142,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: fixup upstream lodestar-bun](https://github.com/ChainSafe/lodestar/commit/78cd85892eca8e56d5805dbf6d489e7456b1397e) - 2025-09-24
 * [Commit] [fix: untrusted slot in network processor (#8466)](https://github.com/ChainSafe/lodestar/commit/98d359db41812da0e2a41b8b3e0085640a45343c) - 2025-09-25
 * [Commit] [chore: add src to the package to have working source map (#8460)](https://github.com/ChainSafe/lodestar/commit/8689cc3545d20dc9169f204969d1a372ea3adc2a) - 2025-09-25
+* [Commit] [chore: add gloas timings to slot time functions (#8474)](https://github.com/ChainSafe/lodestar/commit/c1880f6940df1f79ac6fcca610aad6a478b2006e) - 2025-09-26
+* [Commit] [fix: not throw error in removeEagerlyPersistedBlockInputs (#8472)](https://github.com/ChainSafe/lodestar/commit/549f58dd395d0a17ed6751f1f1390e8e645f9cf0) - 2025-09-26
+* [Commit] [fix: hasAllData in createFromColumn() api (#8473)](https://github.com/ChainSafe/lodestar/commit/91dadf81de530eaafdf2c3384ed4e79f896f844f) - 2025-09-26
 ## Q2 2025
 
 

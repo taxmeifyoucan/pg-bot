@@ -112,6 +112,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Select proper block (#9289)](https://github.com/NethermindEth/nethermind/commit/c619fbe9c3a5583190dc234bbc1d5cc34e668938) - 2025-09-17
 * [Pull Request] [Revert "Per contract state (#9088)"](https://github.com/NethermindEth/nethermind/pull/9323) - 2025-09-20
 * [Commit] [Fix blockhash related random invalid block](https://github.com/NethermindEth/nethermind/commit/de010106eeb307d20803160cf05d8c3f38c4c119) - 2025-09-23
+* [Commit] [Don't remove nodes, so peers including good ones will not be disconnected](https://github.com/NethermindEth/nethermind/commit/62e35802b250b65a422480e16fe2a944d6558491) - 2025-09-26
+* [Commit] [Don't remove nodes, so peers including good ones will not be disconnected](https://github.com/NethermindEth/nethermind/commit/e5464a8f30ba561009424ffaba99cdb8caae946f) - 2025-09-26
+* [Pull Request] [Don't rule peer removal by discovery v5](https://github.com/NethermindEth/nethermind/pull/9361) - 2025-09-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

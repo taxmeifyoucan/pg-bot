@@ -59,6 +59,14 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Feature/cap estimate gas to 7825 (#9331)](https://github.com/NethermindEth/nethermind/commit/fb6fcaf62c38829e42f4bc49cc8f848eeb386ee8) - 2025-09-23
 * [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/a9d645acc82ee8f06bd5f9f3933f1bd73f915b5e) - 2025-09-24
 * [Pull Request] [Implement EIP 2681 validation](https://github.com/NethermindEth/nethermind/pull/9352) - 2025-09-24
+* [Commit] [Add debug_traceCallMany RPC method with Geth compatibility (#9333)](https://github.com/NethermindEth/nethermind/commit/4af27a712012ad65bc957dc93fc923378c729f58) - 2025-09-26
+* [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/058998083227af8a6bcfc2bfce6bbd1337ee2530) - 2025-09-26
+* [Commit] [Don't pollute ValidationResult with additional stuff (#9354)](https://github.com/NethermindEth/nethermind/commit/ab1aecd7f24d5c329f864358287483041becded5) - 2025-09-26
+* [Commit] [fix](https://github.com/NethermindEth/nethermind/commit/4b598dc163a4e074d8c40b4a73a48a4f2f841dbc) - 2025-09-26
+* [Commit] [simplify](https://github.com/NethermindEth/nethermind/commit/b2b0fc18564d84539f40d9c4344f9d27c4a795c6) - 2025-09-26
+* [Commit] [Apply suggestion from @Copilot](https://github.com/NethermindEth/nethermind/commit/75ae46d532268c1ca5771c8a8f0c62fa1d6dc466) - 2025-09-26
+* [Commit] [Apply suggestion from @Copilot](https://github.com/NethermindEth/nethermind/commit/6854780392e00d05a756abda1180563a68f8c583) - 2025-09-26
+* [Commit] [remove redundant const, simplify to Eip4844Constants.BytesPerBlobVersionedHash](https://github.com/NethermindEth/nethermind/commit/f9077ef77623b5d817d5f88762563ac0123e1515) - 2025-09-26
 ## Q2 2025
 
 

@@ -226,6 +226,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Adjust eth_estimateGas for EIP-78](https://github.com/erigontech/erigon/issues/17235) - 2025-09-24
 * [Pull Request] [Engine API: engine_getblobsv1 was introduced in Dencun](https://github.com/erigontech/erigon/pull/17234) - 2025-09-24
 * [Commit] [Engine API: engine_getblobsv1 was introduced in Dencun](https://github.com/erigontech/erigon/commit/a8efb627c06bfb4d0889cf88192e296a794dcf06) - 2025-09-24
+* [Commit] [[r32] [EIP-7825] EstimateGas: cap hi by MaxTxnGasLimit in Osaka (#17255)](https://github.com/erigontech/erigon/commit/0544c08cd5246e016174446c237f434a448f24f0) - 2025-09-26
+* [Pull Request] [version 3.1.1](https://github.com/erigontech/erigon/pull/17259) - 2025-09-26
+* [Commit] [version 3.1.1](https://github.com/erigontech/erigon/commit/f7bd505f4de2b83b8cb496230fbb17c85a1af1b7) - 2025-09-26
+* [Pull Request] [version 3.1.1](https://github.com/erigontech/erigon/pull/17258) - 2025-09-26
+* [Commit] [version 3.1.1](https://github.com/erigontech/erigon/commit/764f664ee7eef7e887ef1828dc3707028cc445e9) - 2025-09-26
+* [Pull Request] [[r32] polygon: Set Rio Hard Fork Block for bor-mainnet](https://github.com/erigontech/erigon/pull/17257) - 2025-09-26
+* [Commit] [polygon: Set Rio Hard Fork Block for bor-mainnet (#17254)](https://github.com/erigontech/erigon/commit/cdc37fd8a760ec6e97a289685dc3207f63710bdf) - 2025-09-26
+* [Pull Request] [[r31] polygon: Set Rio Hard Fork Block for bor-mainnet](https://github.com/erigontech/erigon/pull/17256) - 2025-09-26
+* [Commit] [polygon: Set Rio Hard Fork Block for bor-mainnet (#17254)](https://github.com/erigontech/erigon/commit/c1678836e7c55a55f00f9c7a480b7a4fc7ad1ecb) - 2025-09-26
+* [Pull Request] [[r32] [EIP-7825] EstimateGas: cap hi by MaxTxnGasLimit in Osaka](https://github.com/erigontech/erigon/pull/17255) - 2025-09-26
+* [Commit] [[EIP-7825] EstimateGas: cap hi by MaxTxnGasLimit in Osaka (#17251)](https://github.com/erigontech/erigon/commit/cd727ce2624f7b502e8f52ea3adf2473bd24c3b3) - 2025-09-26
+* [Commit] [[EIP-7825] EstimateGas: cap hi by MaxTxnGasLimit in Osaka (#17251)](https://github.com/erigontech/erigon/commit/0ec845afebf163f7aa9176f151f8c02f401f49df) - 2025-09-26
+* [Pull Request] [polygon: Set Rio Hard Fork Block for bor-mainnet](https://github.com/erigontech/erigon/pull/17254) - 2025-09-26
+* [Commit] [polygon: Set Rio Hard Fork Block for bor-mainnet](https://github.com/erigontech/erigon/commit/952827a792fe6469472f91f2c809ca615b79a0b1) - 2025-09-26
+* [Issue] [Switch from c-kzg-4844 to go-eth-kzg](https://github.com/erigontech/erigon/issues/17253) - 2025-09-26
+* [Pull Request] [[EIP-7825] EstimateGas: cap hi by MaxTxnGasLimit in Osaka](https://github.com/erigontech/erigon/pull/17251) - 2025-09-26
+* [Commit] [[EIP-7825] EstimateGas: cap hi by MaxTxnGasLimit in Osaka](https://github.com/erigontech/erigon/commit/17857dbf3b8d44a9c710d5b00a7c4fc4a0525ed3) - 2025-09-26
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025

@@ -174,6 +174,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix bpo names in test](https://github.com/NethermindEth/nethermind/commit/c39dc5a2f0c32199d086b47270b73bf3ba4978f2) - 2025-09-22
 * [Commit] [blob update base fraction](https://github.com/NethermindEth/nethermind/commit/5192e93f188a006ccf5b234c208ea4e71b9266f8) - 2025-09-22
 * [Commit] [fix decoding](https://github.com/NethermindEth/nethermind/commit/bdd2448781180f8804c3c95a5301a8e869f6a409) - 2025-09-23
+* [Commit] [tidy code](https://github.com/NethermindEth/nethermind/commit/1d6e8da364f1ef7c26aef2886af1d92714bd348b) - 2025-09-26
+* [Commit] [Update packages (#9302)](https://github.com/NethermindEth/nethermind/commit/0e5dba9f207d192b4cef72c76245782bba5fe145) - 2025-09-26
+* [Commit] [add new fields to blockchain tests](https://github.com/NethermindEth/nethermind/commit/92c7d5ad92bc40a153f04013b3743196e940d43b) - 2025-09-26
 ## Q2 2025
 
 

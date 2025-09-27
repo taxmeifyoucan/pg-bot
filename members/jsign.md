@@ -16,6 +16,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [improvements](https://github.com/ethereum/execution-spec-tests/commit/b337749fbd76e06e77ce6a3e8b53769c4770ca1d) - 2025-07-04
 * [Commit] [improvements](https://github.com/ethereum/execution-spec-tests/commit/02c6d4ef51ed63c3954df64553e4bd2544c50a9a) - 2025-07-04
 * [Commit] [improvements](https://github.com/ethereum/execution-spec-tests/commit/850910c6b2018ef05bfafa45bacd3015251f8ac0) - 2025-07-04
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [feat(stateless): enable test runs to return execution witness](https://github.com/paradigmxyz/reth/pull/18740) - 2025-09-26
 ## Q2 2025
 
 

@@ -174,6 +174,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: log the full root hex](https://github.com/ChainSafe/lodestar/commit/331af9a473075a233b86a1ca3a576320aa378374) - 2025-09-25
 * [Pull Request] [fix: untrusted slot in network processor](https://github.com/ChainSafe/lodestar/pull/8466) - 2025-09-25
 * [Issue] [UnknownBlockSync: Download errors with same root different slots](https://github.com/ChainSafe/lodestar/issues/8465) - 2025-09-25
+* [Pull Request] [fix: hasAllData in createFromColumn() api](https://github.com/ChainSafe/lodestar/pull/8473) - 2025-09-26
+* [Pull Request] [fix: not throw error in removeEagerlyPersistedBlockInputs](https://github.com/ChainSafe/lodestar/pull/8472) - 2025-09-26
 ## Q2 2025
 
 

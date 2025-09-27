@@ -97,6 +97,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Prevent database corruption during stateroot computation (#3705)](https://github.com/status-im/nimbus-eth1/commit/814810ecad9de28c4ad807c4c0c7a6f6ddd6522a) - 2025-09-24
 * [Commit] [Revert recent changes.](https://github.com/status-im/nimbus-eth1/commit/6bffff38be26b53a02e269f951b9c0d6e30f88f6) - 2025-09-24
 * [Pull Request] [Fix sync performance regression](https://github.com/status-im/nimbus-eth1/pull/3714) - 2025-09-25
+* [Pull Request] [Speed up sync speed by skipping state root checks](https://github.com/status-im/nimbus-eth1/pull/3721) - 2025-09-26
+* [Commit] [Add a test.](https://github.com/status-im/nimbus-eth1/commit/6b709aed0368648286711a32fc068dfdb1e318af) - 2025-09-26
+* [Pull Request] [Improve performance of stateroot computation when using kMap memory optimization](https://github.com/status-im/nimbus-eth1/pull/3717) - 2025-09-26
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

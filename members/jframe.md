@@ -27,6 +27,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Update proposal block with proposer on roundchange](https://github.com/hyperledger/besu/pull/9204) - 2025-09-22
 * [Commit] [Fix an error on eth_subscribe deserializing the block (#9212)](https://github.com/hyperledger/besu/commit/648acae9de8f5bff4c472d728131e90615d19b0f) - 2025-09-23
 * [Pull Request] [Fix EthStats not updating blocks](https://github.com/hyperledger/besu/pull/9220) - 2025-09-25
+* [Commit] [Qbft message type without peer connection (#9130)](https://github.com/hyperledger/besu/commit/58660aa2936980c9c3df04b1e09050a034c83d0e) - 2025-09-26
 ## Q2 2025
 
 

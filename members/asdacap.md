@@ -270,6 +270,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Isolate prewarmer](https://github.com/NethermindEth/nethermind/commit/35f5e128786707803fe3c8300a8a388a9339ddd4) - 2025-09-25
 * [Pull Request] [Refactor/isolate prewarmer](https://github.com/NethermindEth/nethermind/pull/9355) - 2025-09-25
 * [Commit] [Minor change](https://github.com/NethermindEth/nethermind/commit/b3f12a72de4cef0d10cb01c58902b1a03295ee1d) - 2025-09-25
+* [Commit] [Test race condition](https://github.com/NethermindEth/nethermind/commit/c80548fd4d9fe67b664febcb3801b2b441072c00) - 2025-09-26
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

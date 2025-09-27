@@ -174,6 +174,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: sort cell indices before calling `recoverCellsAndKzgProofs` (#8450)](https://github.com/ChainSafe/lodestar/commit/643a1132eccc7a329e68f286af199fc1f78928a8) - 2025-09-25
 * [Pull Request] [chore: v1.35.0 release](https://github.com/ChainSafe/lodestar/pull/8468) - 2025-09-25
 * [Commit] [Use Math.round](https://github.com/ChainSafe/lodestar/commit/be6264cde90ace52c2d40ec8d20116693dfedcbd) - 2025-09-25
+* [Commit] [chore: remove remaining usage of `SECONDS_PER_SLOT` (#8476)](https://github.com/ChainSafe/lodestar/commit/47470aab65e226a4b62423baab54d89f61025864) - 2025-09-26
+* [Commit] [Lighthouse still requires SECONDS_PER_SLOT](https://github.com/ChainSafe/lodestar/commit/6f0139da410110c597c4ca77cf8c4202d34aa9a0) - 2025-09-26
+* [Commit] [feat: add gloas containers (#8464)](https://github.com/ChainSafe/lodestar/commit/fcf8d024ea7ad839dd943a2a2db7df47f88b42d5) - 2025-09-26
+* [Commit] [Lint](https://github.com/ChainSafe/lodestar/commit/69eb78cb5d705e154f87cb614731c5ee20a43862) - 2025-09-26
+* [Commit] [More updates](https://github.com/ChainSafe/lodestar/commit/1f5afbf1fe39785c05ea6b2dc83dcac4df02d067) - 2025-09-26
+* [Commit] [Apply suggestions from code review](https://github.com/ChainSafe/lodestar/commit/6187d66cfb857ac76adfeb3e35131cbd54199a82) - 2025-09-26
+* [Commit] [More usage of computeTimeAtSlot](https://github.com/ChainSafe/lodestar/commit/236ee248ad76fddf60c78676e0a1e064b89270eb) - 2025-09-26
+* [Commit] [Reuse computeTimeAtSlot](https://github.com/ChainSafe/lodestar/commit/7cc428644812d353daba3821a43001cc728664c2) - 2025-09-26
+* [Commit] [Remove changes from interop config](https://github.com/ChainSafe/lodestar/commit/78c94dc536816b76ceb329c52c4d204110c697de) - 2025-09-26
+* [Commit] [Lint](https://github.com/ChainSafe/lodestar/commit/0c95b9b8f1f6d1701fee94c437ff3dc5eb8ace13) - 2025-09-26
+* [Commit] [Stop validating seconds per slot param](https://github.com/ChainSafe/lodestar/commit/192944326bb9a29c9dd66b3b2daa61d788f16bcd) - 2025-09-26
 ## Q2 2025
 
 

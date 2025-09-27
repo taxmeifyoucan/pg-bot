@@ -24,6 +24,9 @@ Team: Grandine
 * [Issue] [Check Nimbus VC warning when using with Grandine BN](https://github.com/grandinetech/grandine/issues/374) - 2025-09-14
 * [Issue] [Cleanup warnings in `develop` branch](https://github.com/grandinetech/grandine/issues/382) - 2025-09-23
 * [Issue] [Implement missing metrics for PeerDAS](https://github.com/grandinetech/grandine/issues/387) - 2025-09-25
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Promote Artiom to fulltime](https://github.com/protocolguild/documentation/pull/403) - 2025-09-26
 ## Q2 2025
 
 

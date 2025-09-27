@@ -212,6 +212,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Speed up and simplify json serialization (#7385)](https://github.com/status-im/nimbus-eth2/commit/5593ec368f5f833a619a473ffb7581d2ebfe99bc) - 2025-09-25
 * [Commit] [version v25.9.1](https://github.com/status-im/nimbus-eth2/commit/6f413cc49b2ef086c806d321c74331301fcfa232) - 2025-09-25
 * [Commit] [Bump vendor/mainnet from `9df5a5b` to `5a94a36` (#7531)](https://github.com/status-im/nimbus-eth2/commit/4d1db0b8db268c76b99c69ff3753b23a39e135b6) - 2025-09-25
+* [Commit] [update various docker images from 20.04 to 22.04](https://github.com/status-im/nimbus-eth2/commit/010a0fa3d191640bfceee41fb92250086b776d1d) - 2025-09-26
+* [Commit] [cherrypick: fix crash when block without blobs is unqueued from quarantine #7543](https://github.com/status-im/nimbus-eth2/commit/2b8fb6f669ad16b7fec0e52feeea6b678b2388ce) - 2025-09-26
+* [Commit] [add gloas transition tests (#7542)](https://github.com/status-im/nimbus-eth2/commit/09984f204106e19253873493632f80fbe793c262) - 2025-09-26
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13
@@ -227,6 +230,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [shift commithash calc from eth2 to native eth1 (#3664)](https://github.com/status-im/nimbus-eth1/commit/f10349dc28fd2e03a99f003fecfc99a70e819cc8) - 2025-09-11
 * [Commit] [more import cleanups](https://github.com/status-im/nimbus-eth1/commit/0b4ee27a00850492c66984259f13ac2989baa934) - 2025-09-16
 * [Commit] [std/os is only used when isMainModule](https://github.com/status-im/nimbus-eth1/commit/447d6af6cd0fc3654bd7a6eb3a2c1c97bac5274a) - 2025-09-16
+* [Commit] [Improve performance of stateroot computation when using kMap memory optimization (#3717)](https://github.com/status-im/nimbus-eth1/commit/f152a3cddaaa22225d466e52d735f72a4132dc98) - 2025-09-26
+* [Commit] [Merge linter from EL, portal, and nvp (#3716)](https://github.com/status-im/nimbus-eth1/commit/bd02a5f96e8973529bf425d44071f9ab8157104c) - 2025-09-26
 ## Q2 2025
 
 

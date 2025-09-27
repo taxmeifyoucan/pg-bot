@@ -57,6 +57,8 @@ Team: Erigon
 * [Pull Request] [qa-tests: avoid cancelling the running Snap Downloader test execution.](https://github.com/erigontech/erigon/pull/17125) - 2025-09-16
 * [Commit] [qa-tests: sync-from-scratch for Hoodi network (#16809)](https://github.com/erigontech/erigon/commit/db53dc44ac1dfcfb66d78b52028ee472c711b0f1) - 2025-09-22
 * [Pull Request] [test workflows: user input sanitisation](https://github.com/erigontech/erigon/pull/17212) - 2025-09-23
+* [Commit] [[r32] qa-tests: enable tip tracking and migration (#17260)](https://github.com/erigontech/erigon/commit/a271632ac3bc6c414e37d0b7936cd13aa7ca6739) - 2025-09-26
+* [Pull Request] [[r32] qa-tests: enable tip tracking and migration](https://github.com/erigontech/erigon/pull/17260) - 2025-09-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [blockTimetsamp is on log info not header (#423)](https://github.com/erigontech/rpc-tests/commit/4155a0cd4fd99bc6e47a81d0aa08f19386d61b0b) - 2025-07-31
 * [Commit] [eth_getBlockRrceipts - fix exp resp with blockTimestamp (#422)](https://github.com/erigontech/rpc-tests/commit/a0bb773bf04ab4e4e3784c4052a147021b576211) - 2025-07-31

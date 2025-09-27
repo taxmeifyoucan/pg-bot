@@ -257,6 +257,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Update 2780: Add graph](https://github.com/ethereum/EIPs/pull/10301) - 2025-09-07
 * [Pull Request] [Update EIP-2780: Formatting](https://github.com/ethereum/EIPs/pull/10300) - 2025-09-07
 * [Pull Request] [Update 2780: Update abstract](https://github.com/ethereum/EIPs/pull/10306) - 2025-09-08
+* [Pull Request] [Update EIP-2780: Update authors](https://github.com/ethereum/EIPs/pull/10432) - 2025-09-26
+* [Pull Request] [Update EIP-7782: Update authors](https://github.com/ethereum/EIPs/pull/10431) - 2025-09-26
 ## Q2 2025
 
 

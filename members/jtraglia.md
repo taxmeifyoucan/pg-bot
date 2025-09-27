@@ -86,6 +86,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Disable pytest checks in release action (#4610)](https://github.com/ethereum/consensus-specs/commit/9c68080a5b3fe898ddd633488152449f53a0a624) - 2025-09-23
 * [Pull Request] [Disable pytest checks in release action](https://github.com/ethereum/consensus-specs/pull/4610) - 2025-09-23
 * [Commit] [Add initial fuzzing support to fork choice compliance test generator (#4614)](https://github.com/ethereum/consensus-specs/commit/6e97d88f6bf5e77459dc89581d52faf1f51688a7) - 2025-09-25
+* [Issue] [Warnings when running tests](https://github.com/ethereum/consensus-specs/issues/4618) - 2025-09-26
+* [Commit] [Port `kzg_4844` tests to pytest (#4606)](https://github.com/ethereum/consensus-specs/commit/3c21f037ab8ec0377fc97184d6d6c677b99479f0) - 2025-09-26
+* [Commit] [Add summary to test generation (#4600)](https://github.com/ethereum/consensus-specs/commit/048d382ab97be8cea0e6c74351c4fdad0e5767fd) - 2025-09-26
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 
@@ -105,6 +108,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Bump version to v2.1.4](https://github.com/ethereum/c-kzg-4844/pull/605) - 2025-09-18
 * [Pull Request] [Revert blst to v0.3.15](https://github.com/ethereum/c-kzg-4844/pull/604) - 2025-09-18
 * [Pull Request] [Add back point-at-infinity filtering in g1_lincomb_fast](https://github.com/ethereum/c-kzg-4844/pull/603) - 2025-09-18
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [EIP-7732 Breakout Room Call #25, October 10, 2025](https://github.com/ethereum/pm/issues/1744) - 2025-09-26
 ## Q2 2025
 
 

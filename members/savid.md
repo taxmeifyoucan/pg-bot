@@ -27,3 +27,4 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [vendor updates](https://github.com/ethpandaops/lab/commit/a16fec9e20ba8a5f55d675266bc3538d73e5ea8c) - 2025-09-25
 * [Commit] [feat: add latitude and longitude fields to GeoInfo](https://github.com/ethpandaops/lab/commit/6978126cd28110f1f5ebe2b39dce31cb60d6a538) - 2025-09-25
 * [Pull Request] [feat: add latitude and longitude fields to GeoInfo](https://github.com/ethpandaops/lab/pull/91) - 2025-09-25
+* [Commit] [add fct_mev_bid_highest_value_by_builder_chunked_50ms](https://github.com/ethpandaops/lab/commit/5f18887df5db953d155bd32bcb9a8d2d992ca90a) - 2025-09-26

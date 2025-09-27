@@ -38,6 +38,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Replace `ExpectedWithdrawals` with `WithdrawalsHelpers`](https://github.com/Consensys/teku/pull/9907) - 2025-09-17
 * [Commit] [Modified withdrawals for Gloas (#9911)](https://github.com/Consensys/teku/commit/6cdd9948a088d0d1286b0b1e5bed21eaece0f289) - 2025-09-18
 * [Issue] [Enable reftests for Gloas for v1.6.0-beta.0](https://github.com/Consensys/teku/issues/9915) - 2025-09-19
+* [Pull Request] [Process execution_payload_bid for Gloas](https://github.com/Consensys/teku/pull/9932) - 2025-09-26
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Commit] [[QUIC] Set muxer session and secure session on connection (#413)](https://github.com/libp2p/jvm-libp2p/commit/3d4b05fa1315e9af90a50d1d3204d0717d7f90ae) - 2025-08-27
 * [Commit] [Apply InboundTrafficLimitHandler only if max bytes > 0 (#416)](https://github.com/libp2p/jvm-libp2p/commit/25dd797a57715ab32ac4b3431bc98a997383f2f4) - 2025-08-28

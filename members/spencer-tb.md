@@ -137,6 +137,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(tests): workaround for EIP-6110 deposit log checks](https://github.com/ethereum/execution-spec-tests/pull/2177) - 2025-09-19
 * [Commit] [fix: use `engine_newPayloadV5` for Glamsterdam (#2170)](https://github.com/ethereum/execution-spec-tests/commit/ef683b24b1fa603f6102cf94a05c930b0392249a) - 2025-09-19
 * [Pull Request] [fix(clis): update Reth gas limit exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2191) - 2025-09-23
+* [Pull Request] [chore(cli): nethermind max nonce exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2211) - 2025-09-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07
@@ -149,6 +150,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(simulators): Add `eest/consume-sync` simulator (#1328)](https://github.com/ethereum/hive/commit/a27bbc7c1075526c50e26af56a0e6867d1616ce3) - 2025-09-09
 * [Pull Request] [simulators/eth/rpc: remove rpc in favor of rpc-compat](https://github.com/ethereum/hive/pull/1339) - 2025-09-09
 
+* [Commit] [clients/ethrex: add git dockerfile (#1346)](https://github.com/ethereum/hive/commit/4f7fb2e13b68690b4b5bb9cf48e7fcca96c2a2cf) - 2025-09-26
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core/types/deposit: add extra validation for deposit requests](https://github.com/ethereum/go-ethereum/pull/32669) - 2025-09-18
 

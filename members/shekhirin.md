@@ -143,6 +143,24 @@ Team: Reth
 * [Issue] [Tracking: Hot/Cold storage separation](https://github.com/paradigmxyz/reth/issues/18682) - 2025-09-24
 * [Pull Request] [feat(storage): write headers, txs, and receipts only to static files](https://github.com/paradigmxyz/reth/pull/18681) - 2025-09-24
 * [Commit] [test: fix ef-tests](https://github.com/paradigmxyz/reth/commit/37e7376216f0b32439249e869c552bccfe4feb57) - 2025-09-24
+* [Issue] [Benchmark `StateRoot` vs `ParallelStateRoot` vs `PayloadProcessor` with Sparse Trie](https://github.com/paradigmxyz/reth/issues/18741) - 2025-09-26
+* [Commit] [feat(book): update cli](https://github.com/paradigmxyz/reth/commit/3b1b99932e73eed61d0e3308a7a590b4cc5ffa76) - 2025-09-26
+* [Issue] [Proof task debug logs are too verbose](https://github.com/paradigmxyz/reth/issues/18737) - 2025-09-26
+* [Commit] [feat(cli): configure multiproof chunking via arguments](https://github.com/paradigmxyz/reth/commit/709d768a68c638eccde46644ed5b7d42d99ad474) - 2025-09-26
+* [Pull Request] [feat(cli): configure multiproof chunking via arguments](https://github.com/paradigmxyz/reth/pull/18736) - 2025-09-26
+* [Commit] [feat(cli): configure multiproof chunking via arguments](https://github.com/paradigmxyz/reth/commit/0237874a4547741f8ed86363dbe18e79082bef0f) - 2025-09-26
+* [Commit] [feat(cli): configure multiproof chunking via arguments](https://github.com/paradigmxyz/reth/commit/40f70c530c19aecc5ab1f35bc65d970448434c6a) - 2025-09-26
+* [Commit] [feat(cli): configure multiproof chunking via arguments](https://github.com/paradigmxyz/reth/commit/6c595978a46558fcf3828459373f445bc487cab1) - 2025-09-26
+* [Commit] [feat(cli): configure multiproof chunking via arguments](https://github.com/paradigmxyz/reth/commit/619686b72065aa818ae0ca6b4749569b4fc5be95) - 2025-09-26
+* [Commit] [feat: still write receipts to both storages](https://github.com/paradigmxyz/reth/commit/4905d5226adc1affa154b0cedfbe6c9a06115c81) - 2025-09-26
+* [Commit] [feat: still write receipts to both storages](https://github.com/paradigmxyz/reth/commit/d85d5a5a61e08b61c32045321023a033f7308076) - 2025-09-26
+* [Issue] [Maintain a thread pool in `ProofTaskManager`](https://github.com/paradigmxyz/reth/issues/18735) - 2025-09-26
+* [Issue] [Use `ProofTaskManager` for account proofs from `MultiProofTask`](https://github.com/paradigmxyz/reth/issues/18734) - 2025-09-26
+* [Commit] [test: simplify execution stage test](https://github.com/paradigmxyz/reth/commit/6fabde4a043784b2da637f01b4bd7820cf01929f) - 2025-09-26
+* [Commit] [test: fix static file tests](https://github.com/paradigmxyz/reth/commit/a1fb6dcd4de9a4d66faf15cc1e3aaff1b738d844) - 2025-09-26
+* [Commit] [test: fix static file tests](https://github.com/paradigmxyz/reth/commit/8c0b19e9f6d6d106cbe1890980f047738de8d093) - 2025-09-26
+* [Commit] [test: fix static file tests](https://github.com/paradigmxyz/reth/commit/455978e7479031c029e7e4303dd989415e2bfaee) - 2025-09-26
+* [Commit] [test: more provider tests](https://github.com/paradigmxyz/reth/commit/00161df2e3e9d8e0659c4e99579c68ce5d935a7b) - 2025-09-26
 ## Q2 2025
 
 

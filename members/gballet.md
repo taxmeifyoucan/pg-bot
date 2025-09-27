@@ -66,6 +66,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [fix formatting](https://github.com/gballet/go-ethereum/commit/48694958610b905f9cd1ee926af45dfc580cc2b8) - 2025-09-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [test(benchmark): implement CREATE2 addressing for bloatnet tests](https://github.com/ethereum/execution-spec-tests/pull/2090) - 2025-09-01
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Wei Han Ng](https://github.com/protocolguild/documentation/pull/404) - 2025-09-26
 ## Q2 2025
 
 

@@ -58,6 +58,8 @@ Team: Grandine
 * [Commit] [Review what should be included in fork choice debug log level](https://github.com/grandinetech/grandine/commit/f74bf847de4d3692beb4b6ef00ec01025d95690e) - 2025-09-23
 * [Pull Request] [Review what should be included in fork choice debug log level](https://github.com/grandinetech/grandine/pull/383) - 2025-09-23
 * [Commit] [Revert "enable debug log in p2p"](https://github.com/grandinetech/grandine/commit/1fdf2cff4f5efa8edc4513d20b639249e7a8e49d) - 2025-09-23
+* [Commit] [Change blinded block reveal timeout message log level](https://github.com/grandinetech/grandine/commit/b66cc4daec82a89d74aa984b63040f01ce135eab) - 2025-09-26
+* [Pull Request] [Change blinded block reveal timeout message log level](https://github.com/grandinetech/grandine/pull/388) - 2025-09-26
 ## Q2 2025
 
 

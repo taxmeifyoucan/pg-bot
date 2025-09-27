@@ -250,6 +250,10 @@ Team: Reth
 * [Issue] [Reject eth69 peers with zero latest hash](https://github.com/paradigmxyz/reth/issues/18675) - 2025-09-24
 * [Issue] [Keep track of most recently emitted range update and change interval](https://github.com/paradigmxyz/reth/issues/18719) - 2025-09-26
 * [Issue] [Feature gate file client downloader](https://github.com/paradigmxyz/reth/issues/18698) - 2025-09-25
+* [Commit] [fix(rpc/engine): check osaka in getBlobsV1 (#18669)](https://github.com/paradigmxyz/reth/commit/597fa73023ba36ed90dbd993192bfb337d83c2d2) - 2025-09-26
+* [Pull Request] [fix: increase backoff timeout](https://github.com/paradigmxyz/reth/pull/18733) - 2025-09-26
+* [Commit] [fix: increase backoff timeout](https://github.com/paradigmxyz/reth/commit/0865ece37d26ab0c5046f5ec0ef84421b235bca1) - 2025-09-26
+* [Commit] [fake](https://github.com/paradigmxyz/reth/commit/f7bb1bd7d06e2c674ea14d7a49c017f6a7204866) - 2025-09-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

@@ -27,6 +27,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: release 1.34.1 patch](https://github.com/ChainSafe/lodestar/pull/8366) - 2025-09-10
 * [Commit] [fix: bump discv5 to 11.0.4 (#8365)](https://github.com/ChainSafe/lodestar/commit/c4ab7f010060ec129869ef2c941d661693f04971) - 2025-09-10
 * [Pull Request] [fix: bump discv5 to 11.0.4](https://github.com/ChainSafe/lodestar/pull/8365) - 2025-09-10
+* [Pull Request] [chore: v1.35.0 release](https://github.com/ChainSafe/lodestar/pull/8477) - 2025-09-26
 ## Q2 2025
 
 

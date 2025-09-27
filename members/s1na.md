@@ -22,6 +22,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [core/tracing: update changelog](https://github.com/ethereum/go-ethereum/pull/32535) - 2025-09-02
 * [Issue] [Batch getStorageAt RPC method](https://github.com/ethereum/go-ethereum/issues/32566) - 2025-09-09
 * [Issue] [Refactor StateProcessor to take in an interface](https://github.com/ethereum/go-ethereum/issues/32733) - 2025-09-24
+* [Commit] [eth/tracers/native: add keccak256preimage tracer (#32569)](https://github.com/ethereum/go-ethereum/commit/c984d9086e72d8bfbd2326c10368743bfcaec839) - 2025-09-26
 ## Q2 2025
 
 

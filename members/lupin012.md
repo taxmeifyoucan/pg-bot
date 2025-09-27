@@ -75,6 +75,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [update rpc-tests](https://github.com/erigontech/erigon/commit/97c37f05c1c4ecf13567bcce606c3db2eec88ea0) - 2025-09-20
 * [Commit] [fix unit test](https://github.com/erigontech/erigon/commit/ba915ed6b070c119e2a1e098e750fa9b4114c09d) - 2025-09-20
 * [Pull Request] [qa_integration-test: verify two servers are processing same block](https://github.com/erigontech/erigon/pull/17172) - 2025-09-20
+* [Commit] [update rpc-test versions](https://github.com/erigontech/erigon/commit/658e487ed1b25a5751d96542cae571f130b1f99b) - 2025-09-26
+* [Commit] [[EIP-7934] Fix GetMaxRlpBlockSize call in mining block creation (#17236)](https://github.com/erigontech/erigon/commit/ea9a41bd8e2c215aeb891780b0a0d28ee46d37c3) - 2025-09-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24

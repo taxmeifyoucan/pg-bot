@@ -243,6 +243,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [add clippy as component](https://github.com/bluealloy/revm/commit/bc074f76d1e0bc2ec5df512e146c8f723c385d03) - 2025-09-25
 * [Commit] [docs](https://github.com/bluealloy/revm/commit/e40648f3181335b840c7d3b36ac827390cf9ac1a) - 2025-09-25
 * [Commit] [doc](https://github.com/bluealloy/revm/commit/3a87e5ff259ae6cabe89a0e433d2a6fb05955d3a) - 2025-09-25
+* [Commit] [serde over arc](https://github.com/bluealloy/revm/commit/acf14f954097120068c1455c0a6f6cf0586e2c44) - 2025-09-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

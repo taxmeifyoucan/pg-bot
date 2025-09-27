@@ -185,6 +185,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(rpc): add retry logic to fix flaky connection issues in hive](https://github.com/ethereum/execution-spec-tests/pull/2205) - 2025-09-25
 * [Commit] [docs: add retry logic via tenacity to coding standards](https://github.com/ethereum/execution-spec-tests/commit/dad44fc5265ebf3df80ab5196b3167c6e51d9276) - 2025-09-25
 * [Commit] [chore(tests): future-proof comments for line-length 79](https://github.com/ethereum/execution-spec-tests/commit/c2c6b3573a5993e1801f9bf65a6f6c903b77aec7) - 2025-09-25
+* [Commit] [Deployed 17321a28979 to v5.2.0 with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3968f1db2a1c957c16a6fe3ffa1f968708967e1f) - 2025-09-26
+* [Commit] [Deployed ca1354d322d to v5.2.0 with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3928ae071274513af1f8ddcb4ceb88edf6923182) - 2025-09-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 ## Q2 2025
