@@ -215,6 +215,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [update various docker images from 20.04 to 22.04](https://github.com/status-im/nimbus-eth2/commit/010a0fa3d191640bfceee41fb92250086b776d1d) - 2025-09-26
 * [Commit] [cherrypick: fix crash when block without blobs is unqueued from quarantine #7543](https://github.com/status-im/nimbus-eth2/commit/2b8fb6f669ad16b7fec0e52feeea6b678b2388ce) - 2025-09-26
 * [Commit] [add gloas transition tests (#7542)](https://github.com/status-im/nimbus-eth2/commit/09984f204106e19253873493632f80fbe793c262) - 2025-09-26
+* [Pull Request] [rm misc phase0 attestation pool cruft, including now-redundant test](https://github.com/status-im/nimbus-eth2/pull/7553) - 2025-09-28
+* [Commit] [properly use Electra attestations in Electra attestation tests (#7551)](https://github.com/status-im/nimbus-eth2/commit/c79b85596a8f9b20050c5baff1e0b35d1af52f5b) - 2025-09-27
+* [Pull Request] [properly use Electra attestations in Electra attestation tests](https://github.com/status-im/nimbus-eth2/pull/7551) - 2025-09-27
+* [Commit] [Bump nim-kzg4844: lazy_kzg replace kzg module (#7545)](https://github.com/status-im/nimbus-eth2/commit/060d27e6dfb3447a2fcfaf48795c1cb7ad2386a3) - 2025-09-27
+* [Commit] [rm pre-Electra attestation aggregation and packing for blocks (#7550)](https://github.com/status-im/nimbus-eth2/commit/720cf3a6d0b7adfc9f2da76e06ca86f5d2b35254) - 2025-09-27
+* [Pull Request] [rm pre-Electra attestation aggregation and packing for blocks](https://github.com/status-im/nimbus-eth2/pull/7550) - 2025-09-27
+* [Commit] [add Electra versions of all remaining pre-Electra attestation pool tests (#7549)](https://github.com/status-im/nimbus-eth2/commit/a07c769108fb8250ceb5c5c89a681bff6f8a2da4) - 2025-09-27
+* [Pull Request] [add Electra versions of all remaining pre-Electra attestation pool tests](https://github.com/status-im/nimbus-eth2/pull/7549) - 2025-09-27
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13
@@ -232,6 +240,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [std/os is only used when isMainModule](https://github.com/status-im/nimbus-eth1/commit/447d6af6cd0fc3654bd7a6eb3a2c1c97bac5274a) - 2025-09-16
 * [Commit] [Improve performance of stateroot computation when using kMap memory optimization (#3717)](https://github.com/status-im/nimbus-eth1/commit/f152a3cddaaa22225d466e52d735f72a4132dc98) - 2025-09-26
 * [Commit] [Merge linter from EL, portal, and nvp (#3716)](https://github.com/status-im/nimbus-eth1/commit/bd02a5f96e8973529bf425d44071f9ab8157104c) - 2025-09-26
+* [Commit] [Bump nim-kzg4844: upstream lazy_kzg module (#3719)](https://github.com/status-im/nimbus-eth1/commit/1ec00066d7f8d7025d362590c463f2d21e6e9eef) - 2025-09-28
 ## Q2 2025
 
 

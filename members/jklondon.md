@@ -172,6 +172,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[main] reviwe `--verify.failfast`](https://github.com/erigontech/erigon/pull/17161) - 2025-09-19
 * [Commit] [[main] cp bf merger fix main (#17156)](https://github.com/erigontech/erigon/commit/3c7ca1533deca07cb829d7108effca62809aa1d3) - 2025-09-19
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/be39d4440790fd9ad76bd989872eccb1dd4a4600) - 2025-09-25
+* [Issue] [wrong unrealistic etas in sync w/o downloader](https://github.com/erigontech/erigon/issues/17264) - 2025-09-27
 ## Q2 2025
 
 

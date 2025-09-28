@@ -77,6 +77,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [qa_integration-test: verify two servers are processing same block](https://github.com/erigontech/erigon/pull/17172) - 2025-09-20
 * [Commit] [update rpc-test versions](https://github.com/erigontech/erigon/commit/658e487ed1b25a5751d96542cae571f130b1f99b) - 2025-09-26
 * [Commit] [[EIP-7934] Fix GetMaxRlpBlockSize call in mining block creation (#17236)](https://github.com/erigontech/erigon/commit/ea9a41bd8e2c215aeb891780b0a0d28ee46d37c3) - 2025-09-26
+* [Pull Request] [rpcademon: eth_call update with blockOverrides](https://github.com/erigontech/erigon/pull/17261) - 2025-09-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
@@ -120,6 +121,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration: add debug_accountRange tests with start parameter as hex string (#456)](https://github.com/erigontech/rpc-tests/commit/e5b9fd8078cd90e1e4c805a3da889b7f9bece069) - 2025-09-20
 * [Commit] [integration: check clients are synced in latest tests (#458)](https://github.com/erigontech/rpc-tests/commit/95712bbcfab8d1c0a46a2c773eb6447f5d755780) - 2025-09-20
 * [Commit] [add last param to false](https://github.com/erigontech/rpc-tests/commit/baf16d2a071a0c6dac65b7d8876dd4b60f75fbc0) - 2025-09-20
+* [Pull Request] [intgeration_test: Eth call with block overrides](https://github.com/erigontech/rpc-tests/pull/464) - 2025-09-27
+* [Commit] [update test](https://github.com/erigontech/rpc-tests/commit/9d85b50eab62b07c80bcaaaed3c93dda00fb525e) - 2025-09-27
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

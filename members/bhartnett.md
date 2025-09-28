@@ -100,6 +100,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Speed up sync speed by skipping state root checks](https://github.com/status-im/nimbus-eth1/pull/3721) - 2025-09-26
 * [Commit] [Add a test.](https://github.com/status-im/nimbus-eth1/commit/6b709aed0368648286711a32fc068dfdb1e318af) - 2025-09-26
 * [Pull Request] [Improve performance of stateroot computation when using kMap memory optimization](https://github.com/status-im/nimbus-eth1/pull/3717) - 2025-09-26
+* [Commit] [Set finalized flag based on block number <= latest finalized block number.](https://github.com/status-im/nimbus-eth1/commit/cfa8e97fad48dca50932ac30bd8e57e60a86fa54) - 2025-09-27
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

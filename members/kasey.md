@@ -113,6 +113,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [fix tests that relied on blobs at genesis](https://github.com/OffchainLabs/prysm/commit/852f3d52d7f4fe317f476748bf9f4f82b9b3a35a) - 2025-09-18
 * [Commit] [only compute common info once, for all sidecars](https://github.com/OffchainLabs/prysm/commit/73c63a358a6cd4b1ca6f5ee8491eb6e8f0cb8fce) - 2025-09-19
 * [Commit] [Fix misleading log msg on shutdown (#13063)](https://github.com/OffchainLabs/prysm/commit/5266d34a227892f72826e4140079aeebbeeba0d3) - 2025-09-26
+* [Commit] [fix tests that relied on blobs at genesis](https://github.com/OffchainLabs/prysm/commit/f31b7f56eed12eec8a5895a7bf6562d42c331d4c) - 2025-09-27
 ## Q2 2025
 
 

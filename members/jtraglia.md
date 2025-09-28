@@ -89,6 +89,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [Warnings when running tests](https://github.com/ethereum/consensus-specs/issues/4618) - 2025-09-26
 * [Commit] [Port `kzg_4844` tests to pytest (#4606)](https://github.com/ethereum/consensus-specs/commit/3c21f037ab8ec0377fc97184d6d6c677b99479f0) - 2025-09-26
 * [Commit] [Add summary to test generation (#4600)](https://github.com/ethereum/consensus-specs/commit/048d382ab97be8cea0e6c74351c4fdad0e5767fd) - 2025-09-26
+* [Commit] [Add pytest html plugin (#4619)](https://github.com/ethereum/consensus-specs/commit/8c11fa97840cd4f1c686f6ea6e8f94f86443d32c) - 2025-09-27
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Improve das-core functions](https://github.com/OffchainLabs/prysm/pull/15524) - 2025-07-23
 

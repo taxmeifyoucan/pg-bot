@@ -269,6 +269,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cp: handles a bug in receipt values when there's only 1 tx in the block (query only)](https://github.com/erigontech/erigon/pull/17187) - 2025-09-22
 * [Commit] [linter fix](https://github.com/erigontech/erigon/commit/14dcb6072dafc3f2280c2b289b52f49e22f266de) - 2025-09-26
 * [Commit] [linter fix](https://github.com/erigontech/erigon/commit/485a1f956efddbb7ec28dc3f7eac706d8f466777) - 2025-09-26
+* [Commit] [linter fix](https://github.com/erigontech/erigon/commit/dd2b12bd2eb680835ea6f21126d38bf9667a012d) - 2025-09-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

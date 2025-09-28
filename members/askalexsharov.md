@@ -1233,6 +1233,7 @@ Team: Erigon
 * [Commit] [3.1 default rate flags to main (#17181)](https://github.com/erigontech/erigon/commit/33f5c21518e32daf023735c6b057b3e69b2c3aff) - 2025-09-22
 * [Commit] [execution: store changesets for last MaxReorgDepth blocks after initial cycle (#17165)](https://github.com/erigontech/erigon/commit/585edfec44a104da6665acc6f683336537389e07) - 2025-09-22
 * [Commit] [rawdbreset: correct error message when saving Headers progress (#17231)](https://github.com/erigontech/erigon/commit/e2605ce124b1cbf04c644b7db1be3697231a8d32) - 2025-09-24
+* [Commit] [rpcdaemon: trace_filter:  support block tags  (#17238)](https://github.com/erigontech/erigon/commit/150caf2475356ae67f24551a32d0c1cdc7ba02ff) - 2025-09-27
 ## Q2 2025
 
 

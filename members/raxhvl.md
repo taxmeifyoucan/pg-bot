@@ -44,6 +44,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [✨ feat: watcherfall mode](https://github.com/ethereum/execution-spec-tests/commit/644c3b5c1f0273f5e0d2cf68cd57bbfce0e67037) - 2025-09-25
 * [Commit] [✨ feat(tests): test_bal_7702_invalid_nonce_authorization](https://github.com/ethereum/execution-spec-tests/commit/8e78ad827ce5b627f9677f63c226bb281969bdd4) - 2025-09-26
 * [Pull Request] [✨ feat(tests): EIP-7928 test cases for EIP-7702 transactions](https://github.com/ethereum/execution-spec-tests/pull/2212) - 2025-09-26
+* [Commit] [✨ feat(tests): test_bal_7702_invalid_chain_id_authorization](https://github.com/ethereum/execution-spec-tests/commit/13eaf467154d000241119b30003d438abe62ba3e) - 2025-09-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-7928 BAL does not include recipient of a zero-value transfer](https://github.com/ethereum/execution-specs/issues/1430) - 2025-09-19
 * [Issue] [EIP-7928 BAL includes storage changes even after transaction reverts](https://github.com/ethereum/execution-specs/issues/1432) - 2025-09-20

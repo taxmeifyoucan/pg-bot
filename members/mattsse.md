@@ -260,6 +260,7 @@ Team: Reth
 * [Pull Request] [chore: add Precompil::into_precompile](https://github.com/bluealloy/revm/pull/2913) - 2025-08-25
 
 * [Pull Request] [chore: forward optional_fee_charge feature](https://github.com/bluealloy/revm/pull/3005) - 2025-09-23
+* [Pull Request] [chore: add display for precompileid](https://github.com/bluealloy/revm/pull/3018) - 2025-09-27
 [sigp/enr](https://github.com/sigp/enr)
 * [Issue] [Update secp256k1 to 0.31 and rand 0.9](https://github.com/sigp/enr/issues/88) - 2025-09-03
 ## Q2 2025

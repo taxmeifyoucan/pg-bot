@@ -226,6 +226,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Merge linter from EL, portal, and nvp](https://github.com/status-im/nimbus-eth1/pull/3716) - 2025-09-26
 * [Commit] [Fix test_forkid](https://github.com/status-im/nimbus-eth1/commit/0e64f944588d9f5e96c67e93dc111ad7bbbb5808) - 2025-09-26
 * [Pull Request] [Set Osaka fork configurations for Sepolia, Holesky, and Hoodi](https://github.com/status-im/nimbus-eth1/pull/3715) - 2025-09-26
+* [Commit] [Bump nimbus-eth2](https://github.com/status-im/nimbus-eth1/commit/9bfd360aaa08aeed238b56aeba897d01380b4162) - 2025-09-27
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 
@@ -246,6 +247,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Store runtime SECONDS_PER_SLOT value in ValidatorClient (#7482)](https://github.com/status-im/nimbus-eth2/commit/1414bb19d61d91cfe3a51749e44ec7cd7ae02245) - 2025-09-26
 * [Pull Request] [Bump nim-kzg4844: lazy_kzg replace kzg module](https://github.com/status-im/nimbus-eth2/pull/7545) - 2025-09-26
 * [Pull Request] [Bump nim-kzg4844: lazy_kzg replace kzg module](https://github.com/status-im/nimbus-eth2/pull/7544) - 2025-09-26
+* [Commit] [Update test log](https://github.com/status-im/nimbus-eth2/commit/b6c13aea1f2ce31e6c43fb388b7cec99cf2a64d6) - 2025-09-27
 ## Q2 2025
 
 

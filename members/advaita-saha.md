@@ -100,6 +100,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [create seperate tarballs for nec and nvp (#3688)](https://github.com/status-im/nimbus-eth1/commit/b5a9255307e8a42182f016c792323687b9158951) - 2025-09-16
 * [Commit] [opinionated naming scheme](https://github.com/status-im/nimbus-eth1/commit/8612b12536f29ffff7c87f01e90506fa4c2402d1) - 2025-09-16
 * [Pull Request] [inlcude precompile name for precompile errors in debug logs](https://github.com/status-im/nimbus-eth1/pull/3718) - 2025-09-26
+* [Issue] [Launching execution client is getting showed much later](https://github.com/status-im/nimbus-eth1/issues/3724) - 2025-09-27
+* [Pull Request] [using keccak from constantine](https://github.com/status-im/nimbus-eth1/pull/3723) - 2025-09-27
+* [Commit] [hotfix](https://github.com/status-im/nimbus-eth1/commit/33b65ca516b62109eaae892b4c4f722eb1e1b04f) - 2025-09-27
 ## Q2 2025
 
 

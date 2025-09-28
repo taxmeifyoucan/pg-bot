@@ -185,6 +185,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Remove changes from interop config](https://github.com/ChainSafe/lodestar/commit/78c94dc536816b76ceb329c52c4d204110c697de) - 2025-09-26
 * [Commit] [Lint](https://github.com/ChainSafe/lodestar/commit/0c95b9b8f1f6d1701fee94c437ff3dc5eb8ace13) - 2025-09-26
 * [Commit] [Stop validating seconds per slot param](https://github.com/ChainSafe/lodestar/commit/192944326bb9a29c9dd66b3b2daa61d788f16bcd) - 2025-09-26
+* [Commit] [chore: remove eth1 and merge transition related code](https://github.com/ChainSafe/lodestar/commit/1d203eb1b0f9fe3b1e96a977f2d330f908757d24) - 2025-09-27
 ## Q2 2025
 
 
