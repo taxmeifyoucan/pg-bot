@@ -67,6 +67,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Apply suggestion from @Copilot](https://github.com/NethermindEth/nethermind/commit/75ae46d532268c1ca5771c8a8f0c62fa1d6dc466) - 2025-09-26
 * [Commit] [Apply suggestion from @Copilot](https://github.com/NethermindEth/nethermind/commit/6854780392e00d05a756abda1180563a68f8c583) - 2025-09-26
 * [Commit] [remove redundant const, simplify to Eip4844Constants.BytesPerBlobVersionedHash](https://github.com/NethermindEth/nethermind/commit/f9077ef77623b5d817d5f88762563ac0123e1515) - 2025-09-26
+* [Commit] [Auto-update fast sync settings (#9369)](https://github.com/NethermindEth/nethermind/commit/6c1143775b45222d2b12883c7758e4d0273abb4d) - 2025-09-28
+* [Commit] [Update OP Superchain chains (#9370)](https://github.com/NethermindEth/nethermind/commit/7269c188b4865ffd733507a9f05c602d477f4621) - 2025-09-28
 ## Q2 2025
 
 

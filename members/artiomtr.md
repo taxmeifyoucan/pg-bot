@@ -13,3 +13,4 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add R0 and SP1 zkvm guest programs](https://github.com/grandinetech/grandine/pull/304) - 2025-08-18
+* [Pull Request] [Nethermind plugin for embedded grandine](https://github.com/grandinetech/grandine/pull/390) - 2025-09-28

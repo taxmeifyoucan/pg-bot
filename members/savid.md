@@ -28,3 +28,6 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: add latitude and longitude fields to GeoInfo](https://github.com/ethpandaops/lab/commit/6978126cd28110f1f5ebe2b39dce31cb60d6a538) - 2025-09-25
 * [Pull Request] [feat: add latitude and longitude fields to GeoInfo](https://github.com/ethpandaops/lab/pull/91) - 2025-09-25
 * [Commit] [add fct_mev_bid_highest_value_by_builder_chunked_50ms](https://github.com/ethpandaops/lab/commit/5f18887df5db953d155bd32bcb9a8d2d992ca90a) - 2025-09-26
+* [Commit] [tanstack router](https://github.com/ethpandaops/lab/commit/4e4d62393cffd3aadb65f16967fff4745e6647fa) - 2025-09-28
+* [Commit] [add table mappings](https://github.com/ethpandaops/lab/commit/3ac25daf532d9e9def13a654d81f218d5da3a98a) - 2025-09-28
+* [Pull Request] [Feat/frontend updates](https://github.com/ethpandaops/lab/pull/96) - 2025-09-28

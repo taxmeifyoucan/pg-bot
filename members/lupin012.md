@@ -78,6 +78,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [update rpc-test versions](https://github.com/erigontech/erigon/commit/658e487ed1b25a5751d96542cae571f130b1f99b) - 2025-09-26
 * [Commit] [[EIP-7934] Fix GetMaxRlpBlockSize call in mining block creation (#17236)](https://github.com/erigontech/erigon/commit/ea9a41bd8e2c215aeb891780b0a0d28ee46d37c3) - 2025-09-26
 * [Pull Request] [rpcademon: eth_call update with blockOverrides](https://github.com/erigontech/erigon/pull/17261) - 2025-09-27
+* [Commit] [upadte rpc](https://github.com/erigontech/erigon/commit/c087ad41b1ca7ae7df4f82e3a0f0ebadad9b6a63) - 2025-09-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
@@ -123,6 +124,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [add last param to false](https://github.com/erigontech/rpc-tests/commit/baf16d2a071a0c6dac65b7d8876dd4b60f75fbc0) - 2025-09-20
 * [Pull Request] [intgeration_test: Eth call with block overrides](https://github.com/erigontech/rpc-tests/pull/464) - 2025-09-27
 * [Commit] [update test](https://github.com/erigontech/rpc-tests/commit/9d85b50eab62b07c80bcaaaed3c93dda00fb525e) - 2025-09-27
+* [Commit] [integration: add eth_call tests with block overrides (#464)](https://github.com/erigontech/rpc-tests/commit/d878c434567edd1de549b9e4cc7316c7969b1030) - 2025-09-28
+* [Commit] [modified string in english](https://github.com/erigontech/rpc-tests/commit/5d16b1865915bb84b737f94619d6ebb28ef326e4) - 2025-09-28
+* [Commit] [integration: fix after PR 461 (#462)](https://github.com/erigontech/rpc-tests/commit/f637b8a497928583ef421b8186929fa00e66eed4) - 2025-09-28
+* [Commit] [copy_result: ident=2, fix in case result to error and viceversa, copy_result as exe](https://github.com/erigontech/rpc-tests/commit/14517312cecbb4c622206c3bff6aa1c84ccab594) - 2025-09-28
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

@@ -254,6 +254,18 @@ Team: Reth
 * [Pull Request] [fix: increase backoff timeout](https://github.com/paradigmxyz/reth/pull/18733) - 2025-09-26
 * [Commit] [fix: increase backoff timeout](https://github.com/paradigmxyz/reth/commit/0865ece37d26ab0c5046f5ec0ef84421b235bca1) - 2025-09-26
 * [Commit] [fake](https://github.com/paradigmxyz/reth/commit/f7bb1bd7d06e2c674ea14d7a49c017f6a7204866) - 2025-09-26
+* [Commit] [docs](https://github.com/paradigmxyz/reth/commit/baefaf4440cc1f1b84100cec264719fc4a9f6a12) - 2025-09-28
+* [Commit] [lint](https://github.com/paradigmxyz/reth/commit/7367c189ccf4a924ea5c13c7fb65a530b98529e1) - 2025-09-28
+* [Pull Request] [chore: replace triehash with alloy-trie](https://github.com/paradigmxyz/reth/pull/18761) - 2025-09-28
+* [Commit] [chore(deps): weekly `cargo update` (#18757)](https://github.com/paradigmxyz/reth/commit/c98833ba1468c321b5959eadc73869aab7a66c3f) - 2025-09-28
+* [Commit] [test: add missing Drop trait tests for CancelOnDrop (#18749)](https://github.com/paradigmxyz/reth/commit/be326fe0472e9957dc861648e29e3ca4daffd7f4) - 2025-09-28
+* [Commit] [chore: remove doc_auto_cfg feature (#18758)](https://github.com/paradigmxyz/reth/commit/850083dbde37c4de606e159b3b98bd8232130f0f) - 2025-09-28
+* [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/23199f58cca8ff2dafe5dcfa2fe092d42cc81d84) - 2025-09-28
+* [Commit] [fix(rpc): fix eth_config impl (#18744)](https://github.com/paradigmxyz/reth/commit/abae566f137db42bb9633bf9e8aabaa921debfbc) - 2025-09-28
+* [Commit] [docs: add note to launch on --dev mode (#18745)](https://github.com/paradigmxyz/reth/commit/efbff54ea69b111d958613a87c65e7170158c929) - 2025-09-28
+* [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/651a2af92ddda140542ee1f1b4da2f272aae1826) - 2025-09-28
+* [Pull Request] [chore: remove doc_auto_cfg feature](https://github.com/paradigmxyz/reth/pull/18758) - 2025-09-28
+* [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/93a67056ea2cfc3e0c04eee98c637fae6a1de259) - 2025-09-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

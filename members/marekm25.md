@@ -32,6 +32,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Issue] [eth_estimateGas/estimate-simple-transfer](https://github.com/NethermindEth/nethermind/issues/9330) - 2025-09-21
 * [Issue] [Adjusting error codes (start with execution reverted) of eth_calls to geth](https://github.com/NethermindEth/nethermind/issues/9329) - 2025-09-21
 * [Issue] [Remove TotalDifficulty from JsonRPC](https://github.com/NethermindEth/nethermind/issues/9350) - 2025-09-24
+* [Issue] [ChainID for legacy TransactionRPC](https://github.com/NethermindEth/nethermind/issues/9372) - 2025-09-28
 ## Q2 2025
 
 

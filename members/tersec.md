@@ -223,6 +223,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm pre-Electra attestation aggregation and packing for blocks](https://github.com/status-im/nimbus-eth2/pull/7550) - 2025-09-27
 * [Commit] [add Electra versions of all remaining pre-Electra attestation pool tests (#7549)](https://github.com/status-im/nimbus-eth2/commit/a07c769108fb8250ceb5c5c89a681bff6f8a2da4) - 2025-09-27
 * [Pull Request] [add Electra versions of all remaining pre-Electra attestation pool tests](https://github.com/status-im/nimbus-eth2/pull/7549) - 2025-09-27
+* [Commit] [increase default builder API gas limit to 60M (#7555)](https://github.com/status-im/nimbus-eth2/commit/9358f3354d842dbada037e6a133a39bb0a8cef94) - 2025-09-28
+* [Pull Request] [increase default builder API gas limit to 60M](https://github.com/status-im/nimbus-eth2/pull/7555) - 2025-09-28
+* [Commit] [only run reportDiff() if test doesn't pass in gloas operations test fixture (#7554)](https://github.com/status-im/nimbus-eth2/commit/c934e9facc5592c84bd968e144a9d5092a29656c) - 2025-09-28
+* [Pull Request] [only run reportDiff() if test doesn't pass in gloas operations test fixture](https://github.com/status-im/nimbus-eth2/pull/7554) - 2025-09-28
+* [Commit] [rm misc phase0 attestation pool cruft, including now-redundant test (#7553)](https://github.com/status-im/nimbus-eth2/commit/b727f65e5930860c0a4097f555429b361428c9e6) - 2025-09-28
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Restore conditional setupRpcAdmin activation (#3456)](https://github.com/status-im/nimbus-eth1/commit/0dc7cf31a0bb5c3c761aff1d7e668c90c4682393) - 2025-07-07
 * [Issue] [implement EIP-7910](https://github.com/status-im/nimbus-eth1/issues/3470) - 2025-07-13
@@ -241,6 +246,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Improve performance of stateroot computation when using kMap memory optimization (#3717)](https://github.com/status-im/nimbus-eth1/commit/f152a3cddaaa22225d466e52d735f72a4132dc98) - 2025-09-26
 * [Commit] [Merge linter from EL, portal, and nvp (#3716)](https://github.com/status-im/nimbus-eth1/commit/bd02a5f96e8973529bf425d44071f9ab8157104c) - 2025-09-26
 * [Commit] [Bump nim-kzg4844: upstream lazy_kzg module (#3719)](https://github.com/status-im/nimbus-eth1/commit/1ec00066d7f8d7025d362590c463f2d21e6e9eef) - 2025-09-28
+* [Pull Request] [unhide deprecation warnings](https://github.com/status-im/nimbus-eth1/pull/3725) - 2025-09-28
 ## Q2 2025
 
 

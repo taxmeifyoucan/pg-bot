@@ -85,12 +85,14 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Adjust coverage report for EEST tests (#1318)](https://github.com/ipsilon/evmone/commit/6586b457aa1b1a278dbac355f0c3c0177172c64f) - 2025-09-26
 * [Commit] [tests: Fix blockchaintest EIP-7918 (#1322)](https://github.com/ipsilon/evmone/commit/700d55cfefcb816a797a5a855494d1a5717c1f16) - 2025-09-26
 * [Commit] [ci: Fix release deploy job (#1324)](https://github.com/ipsilon/evmone/commit/45074897fc79f290b4afaf6df0e0e40cd7494cb5) - 2025-09-26
+* [Commit] [find p256 high x1](https://github.com/ipsilon/evmone/commit/ee28c67ee774554422c49feb2a21bb1003888696) - 2025-09-28
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 
 * [Pull Request] [feat(tests): add more EIP-7823 modexp limit tests](https://github.com/ethereum/execution-spec-tests/pull/2042) - 2025-08-15
 * [Issue] [Port evmone test cases](https://github.com/ethereum/execution-spec-tests/issues/2129) - 2025-09-11
 * [Pull Request] [feat(tests): add correct P256 precompile tests for invalid point](https://github.com/ethereum/execution-spec-tests/pull/2179) - 2025-09-19
+* [Pull Request] [feat(tests): add test cases for P256 input s special values](https://github.com/ethereum/execution-spec-tests/pull/2215) - 2025-09-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Paweł Bylica to Erigon](https://github.com/protocolguild/documentation/pull/389) - 2025-07-27
 ## Q2 2025

@@ -146,3 +146,4 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [refactor(mev): builder_pubkey](https://github.com/ethpandaops/lab/pull/87) - 2025-09-25
 * [Commit] [feat(clickhouse): promote connection test logs from Debug to Info for better visibility](https://github.com/ethpandaops/lab/commit/d101b05c1e7e96947fdf198a3644d10b2393fae9) - 2025-09-25
 * [Pull Request] [feat(clickhouse): ensure network db exists via ping.](https://github.com/ethpandaops/lab/pull/86) - 2025-09-25
+* [Commit] [add fct_mev_bid_highest_value_by_builder_chunked_50ms](https://github.com/ethpandaops/lab/commit/5f18887df5db953d155bd32bcb9a8d2d992ca90a) - 2025-09-28

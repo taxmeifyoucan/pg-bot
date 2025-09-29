@@ -37,6 +37,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [revert to internal](https://github.com/NethermindEth/nethermind/commit/74925e8e5c26fac4e387ff80d1da57e971e2a3b7) - 2025-09-17
 * [Commit] [extract methods](https://github.com/NethermindEth/nethermind/commit/8e474820da9ebea7d093947cffec0e636d8f0bde) - 2025-09-17
 * [Commit] [address comment](https://github.com/NethermindEth/nethermind/commit/7535402cddd266e5fe13c72a6bea5e4f86d6da11) - 2025-09-17
+* [Commit] [add address filter](https://github.com/NethermindEth/nethermind/commit/4b0c9222546413f68da3af2027e4bc4e486fc562) - 2025-09-28
 ## Q2 2025
 
 
