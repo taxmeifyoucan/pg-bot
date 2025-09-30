@@ -101,6 +101,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Add a test.](https://github.com/status-im/nimbus-eth1/commit/6b709aed0368648286711a32fc068dfdb1e318af) - 2025-09-26
 * [Pull Request] [Improve performance of stateroot computation when using kMap memory optimization](https://github.com/status-im/nimbus-eth1/pull/3717) - 2025-09-26
 * [Commit] [Set finalized flag based on block number <= latest finalized block number.](https://github.com/status-im/nimbus-eth1/commit/cfa8e97fad48dca50932ac30bd8e57e60a86fa54) - 2025-09-27
+* [Pull Request] [Remove call to dispose when block validation fails](https://github.com/status-im/nimbus-eth1/pull/3730) - 2025-09-29
+* [Commit] [Speed up sync speed by skipping state root checks (#3721)](https://github.com/status-im/nimbus-eth1/commit/348425a54b431e38f53691b970fec0da32043e21) - 2025-09-29
+* [Pull Request] [Skip the state root checks when de-serializing the forked chain state on startup](https://github.com/status-im/nimbus-eth1/pull/3729) - 2025-09-29
 ## Q2 2025
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)

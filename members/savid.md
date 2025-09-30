@@ -31,3 +31,5 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [tanstack router](https://github.com/ethpandaops/lab/commit/4e4d62393cffd3aadb65f16967fff4745e6647fa) - 2025-09-28
 * [Commit] [add table mappings](https://github.com/ethpandaops/lab/commit/3ac25daf532d9e9def13a654d81f218d5da3a98a) - 2025-09-28
 * [Pull Request] [Feat/frontend updates](https://github.com/ethpandaops/lab/pull/96) - 2025-09-28
+* [Commit] [add debug](https://github.com/ethpandaops/lab/commit/708b12f1683fefaa47f66d5b5ddf5079dece345b) - 2025-09-29
+* [Pull Request] [add debug](https://github.com/ethpandaops/lab/pull/97) - 2025-09-29

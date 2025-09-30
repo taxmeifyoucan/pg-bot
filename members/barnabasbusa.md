@@ -69,6 +69,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Bbusa/bump relay](https://github.com/ethpandaops/template-devnets/pull/127) - 2025-09-23
 * [Commit] [Update hetzner.tf](https://github.com/ethpandaops/template-devnets/commit/ef523b523552dc6552f65d9434c4cfd98cf3110c) - 2025-09-25
 * [Pull Request] [chore: bump to debian 13](https://github.com/ethpandaops/template-devnets/pull/129) - 2025-09-25
+* [Commit] [Update all.yaml (#131)](https://github.com/ethpandaops/template-devnets/commit/e04f518fae28c16ba00cf75f4d8ece1db0d2b3b6) - 2025-09-29
+* [Pull Request] [Update all.yaml](https://github.com/ethpandaops/template-devnets/pull/131) - 2025-09-29
+* [Commit] [fix playbook (#130)](https://github.com/ethpandaops/template-devnets/commit/c572d54353a0d43458b795bdd06a882be3dca79c) - 2025-09-29
+* [Pull Request] [fix playbook](https://github.com/ethpandaops/template-devnets/pull/130) - 2025-09-29
+* [Commit] [readd cert enc psk](https://github.com/ethpandaops/template-devnets/commit/4415ad1dadb0e97093c6db9bf4bf2e1d1614ca3d) - 2025-09-29
+* [Commit] [bump](https://github.com/ethpandaops/template-devnets/commit/65f81bd7874926db57cd1f6cd2b536efb63be244) - 2025-09-29
+* [Commit] [chore: bump to debian 13 (#129)](https://github.com/ethpandaops/template-devnets/commit/922ec37d6652b9e5d6a72d0a8581059ff2ef91bc) - 2025-09-29
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Commit] [fix go fmt](https://github.com/ethpandaops/dora/commit/15708132cc1c9e5bf1000766b5a7076e22819a00) - 2025-08-04
 * [Commit] [fixes](https://github.com/ethpandaops/dora/commit/d05bca8af70ae490a6a2bc7f8a0847209f4a2003) - 2025-08-04

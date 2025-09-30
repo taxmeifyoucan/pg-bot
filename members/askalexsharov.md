@@ -1234,6 +1234,9 @@ Team: Erigon
 * [Commit] [execution: store changesets for last MaxReorgDepth blocks after initial cycle (#17165)](https://github.com/erigontech/erigon/commit/585edfec44a104da6665acc6f683336537389e07) - 2025-09-22
 * [Commit] [rawdbreset: correct error message when saving Headers progress (#17231)](https://github.com/erigontech/erigon/commit/e2605ce124b1cbf04c644b7db1be3697231a8d32) - 2025-09-24
 * [Commit] [rpcdaemon: trace_filter:  support block tags  (#17238)](https://github.com/erigontech/erigon/commit/150caf2475356ae67f24551a32d0c1cdc7ba02ff) - 2025-09-27
+* [Commit] [erigon-lib/mmap: remove dead MmapRw from mmap_unix.go (#17274)](https://github.com/erigontech/erigon/commit/0499549e8009c3d9679b46f1b81ff28f42555c11) - 2025-09-29
+* [Commit] [rpcademon: eth_call update with blockOverrides (#17261)](https://github.com/erigontech/erigon/commit/f82bceb29d1e20f18b9cb42d88ead91d7562ee4a) - 2025-09-29
+* [Commit] [[r32] avoid cache on evm timeout in eth_getLogs rpc (#17270)](https://github.com/erigontech/erigon/commit/68807e9d4153adfd8e2a7811f81a29908862cbf4) - 2025-09-29
 ## Q2 2025
 
 

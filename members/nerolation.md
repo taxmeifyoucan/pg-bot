@@ -38,6 +38,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7928: Further clarify reverts](https://github.com/ethereum/EIPs/pull/10377) - 2025-09-22
 * [Pull Request] [Update EIP-7928: Clarify self destruct](https://github.com/ethereum/EIPs/pull/10393) - 2025-09-25
 * [Pull Request] [further clarify state access tracking](https://github.com/ethereum/EIPs/pull/10434) - 2025-09-26
+* [Pull Request] [Update EIP-7928: Further clarify balance changes for in-transaction self-destruct ](https://github.com/ethereum/EIPs/pull/10450) - 2025-09-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add Specs: EIP-7928: Block-level Access Lists](https://github.com/ethereum/execution-specs/pull/1338) - 2025-07-21
 

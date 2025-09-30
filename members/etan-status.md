@@ -89,6 +89,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Only bundle named network metadata when SECONDS_PER_SLOT matches preset](https://github.com/status-im/nimbus-eth2/pull/7534) - 2025-09-24
 * [Commit] [Only bundle named network metadata when SECONDS_PER_SLOT matches preset](https://github.com/status-im/nimbus-eth2/commit/468d7623ac89d0c08cf9f75899eac7c5f6a8067f) - 2025-09-24
 * [Pull Request] [Fix BPO fork digest enumeration for Gloas and later](https://github.com/status-im/nimbus-eth2/pull/7537) - 2025-09-25
+* [Commit] [Properly process proglist SSZ generic tests](https://github.com/status-im/nimbus-eth2/commit/be0b91e5421878586fd5703a3eccdb09452eb72f) - 2025-09-29
 ## Q2 2025
 
 

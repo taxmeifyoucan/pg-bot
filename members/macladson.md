@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 
 ## Contributions
 
+## Q3 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Bump superstruct to `0.10.0`](https://github.com/sigp/lighthouse/pull/8133) - 2025-09-29
 ## Q2 2025
 
 

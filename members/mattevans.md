@@ -147,3 +147,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(clickhouse): promote connection test logs from Debug to Info for better visibility](https://github.com/ethpandaops/lab/commit/d101b05c1e7e96947fdf198a3644d10b2393fae9) - 2025-09-25
 * [Pull Request] [feat(clickhouse): ensure network db exists via ping.](https://github.com/ethpandaops/lab/pull/86) - 2025-09-25
 * [Commit] [add fct_mev_bid_highest_value_by_builder_chunked_50ms](https://github.com/ethpandaops/lab/commit/5f18887df5db953d155bd32bcb9a8d2d992ca90a) - 2025-09-28
+* [Commit] [test: pin ClickHouse image to 25.6.3.116 in tests for reproducible builds](https://github.com/ethpandaops/lab/commit/c9258b827acf6cc3e970a61537075f04e5eeae0f) - 2025-09-29
+* [Commit] [test(xatu_cbt): replace "mainnet" with "test" in test configs to avoid accidental mainnet usage](https://github.com/ethpandaops/lab/commit/d3af4612709cc6c1a4c917d821a4ba08d0a4ad6e) - 2025-09-29
+* [Commit] [refactor(prepared_blocks_handler): extract filter building logic into dedicated method to reduce duplication and improve readability](https://github.com/ethpandaops/lab/commit/4423a2c583a95571bc9cdcbe2cbeb182a1878e2f) - 2025-09-29
+* [Commit] [fix(prepared_blocks_handler): cast slot query param to uint32 to match filter type](https://github.com/ethpandaops/lab/commit/27ed9616fe65867ae82f7d8867e3c911e45d9923) - 2025-09-29
+* [Pull Request] [feat: add prepared blocks API endpoints and protobuf definitions](https://github.com/ethpandaops/lab/pull/98) - 2025-09-29

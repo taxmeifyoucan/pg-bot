@@ -115,6 +115,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Don't remove nodes, so peers including good ones will not be disconnected](https://github.com/NethermindEth/nethermind/commit/62e35802b250b65a422480e16fe2a944d6558491) - 2025-09-26
 * [Commit] [Don't remove nodes, so peers including good ones will not be disconnected](https://github.com/NethermindEth/nethermind/commit/e5464a8f30ba561009424ffaba99cdb8caae946f) - 2025-09-26
 * [Pull Request] [Don't rule peer removal by discovery v5](https://github.com/NethermindEth/nethermind/pull/9361) - 2025-09-26
+* [Commit] [Don't rule peer removal by discovery v5 (#9361)](https://github.com/NethermindEth/nethermind/commit/b369c9e90d841a2a2095c271edefd093b388feee) - 2025-09-29
+* [Commit] [Fix crash on after db dispose and concurrent full pruning start (#9111)](https://github.com/NethermindEth/nethermind/commit/d48a52bce106a60f8c66eaa90f88b8cbf5961265) - 2025-09-29
+* [Commit] [Remove Focal from PPA (#9358)](https://github.com/NethermindEth/nethermind/commit/ed2dcf00216c408f21ddfb0ce641e472a9f4c111) - 2025-09-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7594: Add blob per tx limit](https://github.com/ethereum/EIPs/pull/9981) - 2025-07-04
 

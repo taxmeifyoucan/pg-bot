@@ -250,6 +250,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore(op-revm): propagate optional_fee_charge feature (#3020)](https://github.com/bluealloy/revm/commit/1e030538504f6a391e99cf57f3d6adea0769bfba) - 2025-09-28
 * [Pull Request] [chore(op-revm): propagate optional_fee_charge feature](https://github.com/bluealloy/revm/pull/3020) - 2025-09-28
 * [Commit] [chore: add display for precompileid (#3018)](https://github.com/bluealloy/revm/commit/2e152e75be481e8a63f347555b8e0082965c0d1a) - 2025-09-28
+* [Pull Request] [fix(revme): Insert block hashes in State](https://github.com/bluealloy/revm/pull/3024) - 2025-09-29
+* [Commit] [chore: run-tests.sh fail fast on HTTP errors and add retries for fixture downloads (#3019)](https://github.com/bluealloy/revm/commit/43f5b8938e0498e059d89d307c314585cdc92c3e) - 2025-09-29
+* [Commit] [fix(inspector): remove redundant pc()/opcode() calls in step_end (#3023)](https://github.com/bluealloy/revm/commit/0fa3ded8e915d87218ba17b493beec305896b7c5) - 2025-09-29
+* [Commit] [refactor(database): extract duplicate test balance constants (#3017)](https://github.com/bluealloy/revm/commit/299cefd68aa97afde9350af432453bb8b0a3e97c) - 2025-09-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

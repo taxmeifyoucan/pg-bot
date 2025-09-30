@@ -251,6 +251,7 @@ Team: Erigon
 * [Commit] [apply state per tx](https://github.com/erigontech/erigon/commit/e00eb78280e1d4e527621e064ed86d4bc0394b38) - 2025-09-24
 * [Commit] [metrics fixes](https://github.com/erigontech/erigon/commit/b6316b5e68e9b918e742b19c9282073a4498ef6e) - 2025-09-24
 * [Commit] [polygon: Set Rio Hard Fork Block for bor-mainnet (#17254)](https://github.com/erigontech/erigon/commit/f8d7c73c35c06dc1abf741ff6e1d659478401476) - 2025-09-26
+* [Commit] [use local tx for commit calculations](https://github.com/erigontech/erigon/commit/16f9c749c10466a45ce339671a3db2870507a0a4) - 2025-09-29
 ## Q2 2025
 
 

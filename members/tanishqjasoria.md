@@ -38,6 +38,10 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [extract methods](https://github.com/NethermindEth/nethermind/commit/8e474820da9ebea7d093947cffec0e636d8f0bde) - 2025-09-17
 * [Commit] [address comment](https://github.com/NethermindEth/nethermind/commit/7535402cddd266e5fe13c72a6bea5e4f86d6da11) - 2025-09-17
 * [Commit] [add address filter](https://github.com/NethermindEth/nethermind/commit/4b0c9222546413f68da3af2027e4bc4e486fc562) - 2025-09-28
+* [Commit] [more changes](https://github.com/NethermindEth/nethermind/commit/c72cc8e1402476520f284ed232b6235aa47c92d7) - 2025-09-29
+* [Commit] [fix issues](https://github.com/NethermindEth/nethermind/commit/439d436c8ec01f09e13a9912ec8e428f22d18c6c) - 2025-09-29
+* [Commit] [add more logs](https://github.com/NethermindEth/nethermind/commit/70f31555ce4bc9577d4a0a3cfda0fa2653d68dca) - 2025-09-29
+* [Commit] [add logs](https://github.com/NethermindEth/nethermind/commit/412485c163f03691d7909ba68c8a2d9bb33a6516) - 2025-09-29
 ## Q2 2025
 
 

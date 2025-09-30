@@ -45,6 +45,9 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [✨ feat(tests): test_bal_7702_invalid_nonce_authorization](https://github.com/ethereum/execution-spec-tests/commit/8e78ad827ce5b627f9677f63c226bb281969bdd4) - 2025-09-26
 * [Pull Request] [✨ feat(tests): EIP-7928 test cases for EIP-7702 transactions](https://github.com/ethereum/execution-spec-tests/pull/2212) - 2025-09-26
 * [Commit] [✨ feat(tests): test_bal_7702_invalid_chain_id_authorization](https://github.com/ethereum/execution-spec-tests/commit/13eaf467154d000241119b30003d438abe62ba3e) - 2025-09-27
+* [Commit] [Add more complex selfdestruct tests (#2207)](https://github.com/ethereum/execution-spec-tests/commit/b290901920548b7950bb002ace2ce4f00e547e83) - 2025-09-29
+* [Commit] [✨ feat(tests): test_bal_self_destruct](https://github.com/ethereum/execution-spec-tests/commit/31cdd9b0ca943c90392c54421d668cab1cc0a390) - 2025-09-29
+* [Commit] [✨ feat(tests): test_bal_self_destruct](https://github.com/ethereum/execution-spec-tests/commit/f39106f7cacca41ae415f708349418faff82175a) - 2025-09-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-7928 BAL does not include recipient of a zero-value transfer](https://github.com/ethereum/execution-specs/issues/1430) - 2025-09-19
 * [Issue] [EIP-7928 BAL includes storage changes even after transaction reverts](https://github.com/ethereum/execution-specs/issues/1432) - 2025-09-20

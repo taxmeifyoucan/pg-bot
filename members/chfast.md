@@ -86,6 +86,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [tests: Fix blockchaintest EIP-7918 (#1322)](https://github.com/ipsilon/evmone/commit/700d55cfefcb816a797a5a855494d1a5717c1f16) - 2025-09-26
 * [Commit] [ci: Fix release deploy job (#1324)](https://github.com/ipsilon/evmone/commit/45074897fc79f290b4afaf6df0e0e40cd7494cb5) - 2025-09-26
 * [Commit] [find p256 high x1](https://github.com/ipsilon/evmone/commit/ee28c67ee774554422c49feb2a21bb1003888696) - 2025-09-28
+* [Commit] [tests: Add unit tests infra for secp256r1 (#1326)](https://github.com/ipsilon/evmone/commit/5142d8d50607552ed86722fb135c4726a97e74ef) - 2025-09-29
+* [Pull Request] [crypto: Fix handling of the input point-at-infinity in secp256r1](https://github.com/ipsilon/evmone/pull/1328) - 2025-09-29
+* [Commit] [ci: Upgrade EEST to v5.2.0](https://github.com/ipsilon/evmone/commit/efbc0c2f7f3c7bcddd8bb8faf3aa4525a8533f2d) - 2025-09-29
+* [Commit] [tests: Add unit tests infra for secp256r1](https://github.com/ipsilon/evmone/commit/f561daa56e25eba6db7124965e00e4aea2903bdd) - 2025-09-29
+* [Pull Request] [ci: Upgrade EEST to v5.2.0](https://github.com/ipsilon/evmone/pull/1327) - 2025-09-29
+* [Pull Request] [tests: Add unit tests infra for secp256r1](https://github.com/ipsilon/evmone/pull/1326) - 2025-09-29
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): remove Blake2b max rounds static test](https://github.com/ethereum/execution-spec-tests/pull/1941) - 2025-07-23
 
@@ -93,6 +99,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [Port evmone test cases](https://github.com/ethereum/execution-spec-tests/issues/2129) - 2025-09-11
 * [Pull Request] [feat(tests): add correct P256 precompile tests for invalid point](https://github.com/ethereum/execution-spec-tests/pull/2179) - 2025-09-19
 * [Pull Request] [feat(tests): add test cases for P256 input s special values](https://github.com/ethereum/execution-spec-tests/pull/2215) - 2025-09-28
+* [Issue] [Analysis of Osaka test coverage based on evmone implementation](https://github.com/ethereum/execution-spec-tests/issues/2224) - 2025-09-29
+* [Pull Request] [feat(tests): add test case for P256 where `Q.x` is zero](https://github.com/ethereum/execution-spec-tests/pull/2221) - 2025-09-29
+* [Pull Request] [feat(tests): add test case for point doubling in P256](https://github.com/ethereum/execution-spec-tests/pull/2218) - 2025-09-29
+* [Pull Request] [feat(tests): add test case with invalid P256 with x1 above N](https://github.com/ethereum/execution-spec-tests/pull/2217) - 2025-09-29
+* [Pull Request] [feat(tests): add test cases for P256 with zero h, r, s](https://github.com/ethereum/execution-spec-tests/pull/2216) - 2025-09-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Paweł Bylica to Erigon](https://github.com/protocolguild/documentation/pull/389) - 2025-07-27
 ## Q2 2025

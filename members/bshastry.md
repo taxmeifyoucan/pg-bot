@@ -22,3 +22,4 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/evm: fix nil pointer dereference in Osaka fork blob gas calculation](https://github.com/ethereum/go-ethereum/pull/32714) - 2025-09-23
+* [Pull Request] [cmd/evm: add EIP-7702 empty authorization list validation to t8ntool](https://github.com/ethereum/go-ethereum/pull/32781) - 2025-09-29

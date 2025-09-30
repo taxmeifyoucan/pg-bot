@@ -43,6 +43,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(sharding): Configure sharding for Group C events by eve… (#634)](https://github.com/ethpandaops/xatu/commit/cf6636ef169ca28bf1e81576686316aecb423299) - 2025-08-25
 * [Commit] [refactor(relay-monitor.go): move defaults.Set call after reading config file to ensure defaults are applied correctly](https://github.com/ethpandaops/xatu/commit/5f866e46c31a45762ee1366235b39c60ec4e0956) - 2025-08-27
 * [Commit] [feat(relaymonitor): add forward fill configuration and logic (#639)](https://github.com/ethpandaops/xatu/commit/92a816e04c419b4b283ed7519c4df405cdde0241) - 2025-09-03
+* [Commit] [fix(libp2p/trace.go): add Direction field to HandleStatus to capture connection direction](https://github.com/ethpandaops/xatu/commit/ae3631a320b9192c3a5438d203b3ec9d9dd6277b) - 2025-09-29
+* [Pull Request] [feat(libp2p): Add direction to HANDLE_METADATA/STATUS](https://github.com/ethpandaops/xatu/pull/661) - 2025-09-29
 ## Q2 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

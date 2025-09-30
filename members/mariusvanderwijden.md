@@ -36,6 +36,11 @@ Team: Geth
 * [Commit] [eth/catalyst: enable newpayloadV4 on BPOs (#32589)](https://github.com/ethereum/go-ethereum/commit/8a19582c8d939e62cdb8a5172779076b9d71902c) - 2025-09-11
 * [Pull Request] [params: add amsterdam fork config](https://github.com/ethereum/go-ethereum/pull/32687) - 2025-09-20
 * [Commit] [p2p/discover: add waitForNodes](https://github.com/ethereum/go-ethereum/commit/46e4f0b5c1d269e29d26a273016b18afbd13bbc4) - 2025-09-24
+* [Commit] [core/rawdb: update comments (#32668)](https://github.com/ethereum/go-ethereum/commit/1cfe624d03e445715565f17a355687a3acefdb63) - 2025-09-29
+* [Commit] [params: fix bpo config comments (#32755)](https://github.com/ethereum/go-ethereum/commit/ea28346f91b65c9882e942d2fcad9cdbaa09d706) - 2025-09-29
+* [Commit] [internal/ethapi: remove redundant check in test (#32760)](https://github.com/ethereum/go-ethereum/commit/4b080208ea68d5640c9873e58357f2952c725208) - 2025-09-29
+* [Commit] [trie: fix error message in test (#32772)](https://github.com/ethereum/go-ethereum/commit/c5a1c35cfbce5b2ba6840add3acd13e3a652ab07) - 2025-09-29
+* [Commit] [eth/catalyst: check osaka in engine_getBlobsV1 (#32731)](https://github.com/ethereum/go-ethereum/commit/265db06242f8b47729ff8c23c482cc79f0421056) - 2025-09-29
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Map TYPE_3_TX_BLOB_COUNT_EXCEEDED](https://github.com/ethereum/execution-spec-tests/pull/1958) - 2025-07-28
 ## Q2 2025

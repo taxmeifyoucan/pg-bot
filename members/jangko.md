@@ -227,6 +227,13 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fix test_forkid](https://github.com/status-im/nimbus-eth1/commit/0e64f944588d9f5e96c67e93dc111ad7bbbb5808) - 2025-09-26
 * [Pull Request] [Set Osaka fork configurations for Sepolia, Holesky, and Hoodi](https://github.com/status-im/nimbus-eth1/pull/3715) - 2025-09-26
 * [Commit] [Bump nimbus-eth2](https://github.com/status-im/nimbus-eth1/commit/9bfd360aaa08aeed238b56aeba897d01380b4162) - 2025-09-27
+* [Commit] [Launching execution client showed before anything else (#3728)](https://github.com/status-im/nimbus-eth1/commit/7584ddd3114bf04fc4e03a5f552114ca89951e40) - 2025-09-29
+* [Commit] [Restore finalized flag when deserialize FC (#3726)](https://github.com/status-im/nimbus-eth1/commit/b471b2316ab8a396ee9652184503b6a7706f7d2b) - 2025-09-29
+* [Pull Request] [Launching execution client showed before anything else](https://github.com/status-im/nimbus-eth1/pull/3728) - 2025-09-29
+* [Commit] [Bump-chronicles: fix spurious XDeclaredButNotUsed warning messages (#3727)](https://github.com/status-im/nimbus-eth1/commit/b81c1c98ca4abb742b39cf81230245082337e4d8) - 2025-09-29
+* [Pull Request] [Bump-chronicles: fix spurious XDeclaredButNotUsed warning messages](https://github.com/status-im/nimbus-eth1/pull/3727) - 2025-09-29
+* [Commit] [unhide deprecation warnings (#3725)](https://github.com/status-im/nimbus-eth1/commit/80ddb54c2386a11b9f6797826542cbbaffd5bd6d) - 2025-09-29
+* [Pull Request] [Restore finalized flag when deserialize FC](https://github.com/status-im/nimbus-eth1/pull/3726) - 2025-09-29
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: activate admin rpc](https://github.com/ethereum/hive/pull/1321) - 2025-07-20
 

@@ -90,6 +90,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [qa_tests: attach log and improve shell scripts in RPC tests](https://github.com/erigontech/erigon/pull/17240) - 2025-09-25
 * [Commit] [rpc: add eth_simulateV1 support (#15771)](https://github.com/erigontech/erigon/commit/4b70ae6fc86031b7e9e4ea9dc591cf711e70d087) - 2025-09-26
 * [Commit] [Engine API: engine_getblobsv1 was introduced in Dencun (#17234)](https://github.com/erigontech/erigon/commit/de0d79f9f0bc60b624a37eac04cb8302c0211d3f) - 2025-09-26
+* [Pull Request] [rpc: fix state root in eth_simulateV1](https://github.com/erigontech/erigon/pull/17276) - 2025-09-29
+* [Pull Request] [qa_tests: fix DUMP_RESPONSE in RPC latest test runner](https://github.com/erigontech/erigon/pull/17275) - 2025-09-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add eth_getProof tests on latest (#433)](https://github.com/erigontech/rpc-tests/commit/ba2f277fa14f5a099fff22257d0c41ad7c702523) - 2025-08-14
 * [Commit] [Update run_tests.py](https://github.com/erigontech/rpc-tests/commit/b6c0846d9f9f12daa1f7b50a12cf99f897ed9430) - 2025-08-14
@@ -123,6 +125,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [change block for test_23](https://github.com/erigontech/rpc-tests/commit/360f6cd2daea9b55e435e837d2c058a558b542b7) - 2025-09-25
 * [Commit] [change block for test_23](https://github.com/erigontech/rpc-tests/commit/5304118c445cf05c4092ef67820dfc32d3b077b9) - 2025-09-25
 * [Pull Request] [integration: print results dir at startup](https://github.com/erigontech/rpc-tests/pull/460) - 2025-09-25
+* [Pull Request] [integration: add eth_simulateV1 test for state root fix](https://github.com/erigontech/rpc-tests/pull/465) - 2025-09-29
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

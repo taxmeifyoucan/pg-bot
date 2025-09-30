@@ -177,6 +177,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [tidy code](https://github.com/NethermindEth/nethermind/commit/1d6e8da364f1ef7c26aef2886af1d92714bd348b) - 2025-09-26
 * [Commit] [Update packages (#9302)](https://github.com/NethermindEth/nethermind/commit/0e5dba9f207d192b4cef72c76245782bba5fe145) - 2025-09-26
 * [Commit] [add new fields to blockchain tests](https://github.com/NethermindEth/nethermind/commit/92c7d5ad92bc40a153f04013b3743196e940d43b) - 2025-09-26
+* [Issue] [EraE Import / Export](https://github.com/NethermindEth/nethermind/issues/9378) - 2025-09-29
 ## Q2 2025
 
 

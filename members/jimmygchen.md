@@ -82,6 +82,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [V8 testnet release testing branch](https://github.com/sigp/lighthouse/pull/8115) - 2025-09-25
 * [Issue] [Full node with no validators attached to store only custody columns and discard extra sampling columns](https://github.com/sigp/lighthouse/issues/8129) - 2025-09-29
 * [Pull Request] [Release v8.0.0 rc.0](https://github.com/sigp/lighthouse/pull/8127) - 2025-09-28
+* [Commit] [Update LH book for v7.1.0 (#7706)](https://github.com/sigp/lighthouse/commit/01ec2ec7ad871e2c83ab96a2266701e069e44959) - 2025-09-29
+* [Commit] [Fix proposer shuffling decision slot at boundary (#8128)](https://github.com/sigp/lighthouse/commit/38fdaf791ce7a41590dbf5a4e6694eb1c4621721) - 2025-09-29
 ## Q2 2025
 
 

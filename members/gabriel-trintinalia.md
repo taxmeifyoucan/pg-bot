@@ -68,6 +68,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [fix: clear tx blob map when pool is disabled (#9211)](https://github.com/hyperledger/besu/commit/efa9b43f79f918451b0da4197a47ea0b49f11f87) - 2025-09-23
 * [Pull Request] [fix: gracefully handle timeout before any transaction evaluation](https://github.com/hyperledger/besu/pull/9222) - 2025-09-25
 * [Issue] [Add state overrides to AbstractTraceCall](https://github.com/hyperledger/besu/issues/9221) - 2025-09-25
+* [Issue] [Tx pool not enabled in holesky shadow fork](https://github.com/hyperledger/besu/issues/9240) - 2025-09-29
+* [Pull Request] [fix(engine): add fork validation to getBlobsV1 and getBlobsV2](https://github.com/hyperledger/besu/pull/9235) - 2025-09-29
+* [Pull Request] [fix(engine) - validate fork engine get payload v4](https://github.com/hyperledger/besu/pull/9233) - 2025-09-29
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob count max exception mapper](https://github.com/ethereum/execution-spec-tests/pull/1944) - 2025-07-24
 ## Q2 2025

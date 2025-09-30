@@ -20,9 +20,11 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [fix(tests): update XEN approval test to not fail-early on approving the zero address](https://github.com/ethereum/execution-spec-tests/commit/13231ba464d6caa68cddb5e7a3e5b03544eba97c) - 2025-09-22
 * [Commit] [feat(tests): fix XEN approval spam test](https://github.com/ethereum/execution-spec-tests/commit/9b37833c7b0f06dd5b35aca5026f8d622d82e29d) - 2025-09-22
 * [Commit] [feat(tests): update XEN mint test [dirty]](https://github.com/ethereum/execution-spec-tests/commit/a40021243d1db3c8be703407e1e8ce6ac7a5b34b) - 2025-09-22
+* [Commit] [feat(tests): add more XEN tests](https://github.com/ethereum/execution-spec-tests/commit/8acd12b7bc768183580292ab2345e43b2b07c9da) - 2025-09-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7773: PFI EIP-7778 Block Gas Accounting without Refunds](https://github.com/ethereum/EIPs/pull/10273) - 2025-09-03
 * [Pull Request] [PFI 7610 for Glamsterdam](https://github.com/ethereum/EIPs/pull/10388) - 2025-09-24
+* [Pull Request] [PFI Remove bloom filters Glamsterdam](https://github.com/ethereum/EIPs/pull/10452) - 2025-09-29
 ## Q2 2025
 
 

@@ -67,6 +67,7 @@ Team: Grandine
 * [Commit] [Move reconstruction code into `tokio::spawn::blocking`](https://github.com/grandinetech/grandine/commit/00e4af612278a924aac50daf7ee06251a8b71526) - 2025-09-12
 * [Commit] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/5c5ad3be37e99f19bc00cfb57ff31e57624a9031) - 2025-09-12
 * [Commit] [Increase `max_slot_ahead`](https://github.com/grandinetech/grandine/commit/8401b506957ffb9a013839bd2bc7d296b7090e84) - 2025-09-12
+* [Pull Request] [Lower the value of `validator::MAX_VALIDATORS_PER_REGISTRATION`](https://github.com/grandinetech/grandine/pull/391) - 2025-09-29
 ## Q2 2025
 
 

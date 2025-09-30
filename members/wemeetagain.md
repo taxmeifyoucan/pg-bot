@@ -145,6 +145,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: add gloas timings to slot time functions (#8474)](https://github.com/ChainSafe/lodestar/commit/c1880f6940df1f79ac6fcca610aad6a478b2006e) - 2025-09-26
 * [Commit] [fix: not throw error in removeEagerlyPersistedBlockInputs (#8472)](https://github.com/ChainSafe/lodestar/commit/549f58dd395d0a17ed6751f1f1390e8e645f9cf0) - 2025-09-26
 * [Commit] [fix: hasAllData in createFromColumn() api (#8473)](https://github.com/ChainSafe/lodestar/commit/91dadf81de530eaafdf2c3384ed4e79f896f844f) - 2025-09-26
+* [Pull Request] [chore: bump lodestar-bun](https://github.com/ChainSafe/lodestar/pull/8481) - 2025-09-29
+* [Commit] [chore: update error response for validator publish endpoints (#8480)](https://github.com/ChainSafe/lodestar/commit/248b252a94a7abcde2ea85cd4b204dede70fec29) - 2025-09-29
 ## Q2 2025
 
 

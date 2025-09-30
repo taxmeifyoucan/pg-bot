@@ -247,6 +247,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Merge linter from EL, portal, and nvp (#3716)](https://github.com/status-im/nimbus-eth1/commit/bd02a5f96e8973529bf425d44071f9ab8157104c) - 2025-09-26
 * [Commit] [Bump nim-kzg4844: upstream lazy_kzg module (#3719)](https://github.com/status-im/nimbus-eth1/commit/1ec00066d7f8d7025d362590c463f2d21e6e9eef) - 2025-09-28
 * [Pull Request] [unhide deprecation warnings](https://github.com/status-im/nimbus-eth1/pull/3725) - 2025-09-28
+* [Commit] [Skip the state root checks when de-serializing the forked chain state on startup. (#3729)](https://github.com/status-im/nimbus-eth1/commit/9fb13da8e7acbec8a3df89d6d02b98ef1bce349a) - 2025-09-29
 ## Q2 2025
 
 

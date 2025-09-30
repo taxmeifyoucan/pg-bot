@@ -227,6 +227,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [[r32] polygon/sync: demote log for failed block download to warn (#17210)](https://github.com/erigontech/erigon/commit/d8fccd9c219cd9a0d6f3b7fdd4a1d03fbe517afb) - 2025-09-23
 * [Pull Request] [[r32] polygon/sync: demote log for failed block download to warn](https://github.com/erigontech/erigon/pull/17210) - 2025-09-23
 * [Pull Request] [polygon/sync: demote log for failed block download to warn](https://github.com/erigontech/erigon/pull/17209) - 2025-09-23
+* [Issue] [[bloatnet] explore initial sync using snapshots for --chain=perf-devnet-2](https://github.com/erigontech/erigon/issues/17280) - 2025-09-29
+* [Issue] [[bloatnet] add support for --eth.requiredblocks in sentry](https://github.com/erigontech/erigon/issues/17277) - 2025-09-29
 ## Q2 2025
 
 

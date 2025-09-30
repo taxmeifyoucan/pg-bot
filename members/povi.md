@@ -60,6 +60,7 @@ Team: Grandine
 * [Commit] [Revert "enable debug log in p2p"](https://github.com/grandinetech/grandine/commit/1fdf2cff4f5efa8edc4513d20b639249e7a8e49d) - 2025-09-23
 * [Commit] [Change blinded block reveal timeout message log level](https://github.com/grandinetech/grandine/commit/b66cc4daec82a89d74aa984b63040f01ce135eab) - 2025-09-26
 * [Pull Request] [Change blinded block reveal timeout message log level](https://github.com/grandinetech/grandine/pull/388) - 2025-09-26
+* [Commit] [Change blinded block reveal timeout message log level](https://github.com/grandinetech/grandine/commit/bd4eb5410f2ceb4c7a044c90c62d00f9d7202c18) - 2025-09-29
 ## Q2 2025
 
 

@@ -180,6 +180,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [some review](https://github.com/OffchainLabs/prysm/commit/1c0107812b23ae24cc1c6af532a4ed91fe32aa4e) - 2025-09-26
 * [Commit] [additional log information around invalid payloads (#15754)](https://github.com/OffchainLabs/prysm/commit/d68196822bdb08ebaf18bfd96656bff988557f8f) - 2025-09-26
 * [Commit] [Update testing/endtoend/components/eth1/transactions.go](https://github.com/OffchainLabs/prysm/commit/20d6bacfe9c27fdeee334a7edcd1bdd5072d0aa7) - 2025-09-26
+* [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/3109df499b6387eaf4ec25c14ea98c21bd716b9c) - 2025-09-29
+* [Pull Request] [fixing config string parsing regression](https://github.com/OffchainLabs/prysm/pull/15773) - 2025-09-29
+* [Commit] [fixing test](https://github.com/OffchainLabs/prysm/commit/f08ae428b20459d9b9b4e28389605a0cff4f6029) - 2025-09-29
+* [Pull Request] [attempt fixing subscriber race](https://github.com/OffchainLabs/prysm/pull/15771) - 2025-09-29
 ## Q2 2025
 
 

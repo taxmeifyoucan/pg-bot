@@ -271,6 +271,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Refactor/isolate prewarmer](https://github.com/NethermindEth/nethermind/pull/9355) - 2025-09-25
 * [Commit] [Minor change](https://github.com/NethermindEth/nethermind/commit/b3f12a72de4cef0d10cb01c58902b1a03295ee1d) - 2025-09-25
 * [Commit] [Test race condition](https://github.com/NethermindEth/nethermind/commit/c80548fd4d9fe67b664febcb3801b2b441072c00) - 2025-09-26
+* [Commit] [Fix blockhash related random invalid block (#9340)](https://github.com/NethermindEth/nethermind/commit/e9948829e81f97a852ce43fe5d89e20a7d86131b) - 2025-09-29
+* [Commit] [Slight cleanup](https://github.com/NethermindEth/nethermind/commit/99bbc7543280b469fd8d64f45e216c50fa55a45b) - 2025-09-29
+* [Pull Request] [Refactor/Nicer interface](https://github.com/NethermindEth/nethermind/pull/9375) - 2025-09-29
+* [Commit] [Fix](https://github.com/NethermindEth/nethermind/commit/b7dc9356d855d079f29f9c7e728b2d82c180e8ae) - 2025-09-29
+* [Commit] [Fix test](https://github.com/NethermindEth/nethermind/commit/7f49b3e59ee726cc970c7e7617b782d0b72ea926) - 2025-09-29
+* [Commit] [Put simple method at top level](https://github.com/NethermindEth/nethermind/commit/3afd5110c76822dc63f22de6f50c49c6bed0bcce) - 2025-09-29
+* [Commit] [To helper method](https://github.com/NethermindEth/nethermind/commit/0cf68f86c2ee8feaa83beaec31083c72aecd4122) - 2025-09-29
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Set Nethermind Rpc Gascap to match Geth RpcGasCap](https://github.com/ethereum/hive/pull/1326) - 2025-08-04
 ## Q2 2025

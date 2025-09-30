@@ -69,6 +69,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [remove redundant const, simplify to Eip4844Constants.BytesPerBlobVersionedHash](https://github.com/NethermindEth/nethermind/commit/f9077ef77623b5d817d5f88762563ac0123e1515) - 2025-09-26
 * [Commit] [Auto-update fast sync settings (#9369)](https://github.com/NethermindEth/nethermind/commit/6c1143775b45222d2b12883c7758e4d0273abb4d) - 2025-09-28
 * [Commit] [Update OP Superchain chains (#9370)](https://github.com/NethermindEth/nethermind/commit/7269c188b4865ffd733507a9f05c602d477f4621) - 2025-09-28
+* [Commit] [Fix BloBaseFee for calculation in RPC (#9376)](https://github.com/NethermindEth/nethermind/commit/16c160005a509a2260c5e9b481540de1f960af9b) - 2025-09-29
+* [Pull Request] [Fix BloBaseFee for calculation](https://github.com/NethermindEth/nethermind/pull/9376) - 2025-09-29
 ## Q2 2025
 
 

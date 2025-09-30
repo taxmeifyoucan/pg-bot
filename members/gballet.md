@@ -30,6 +30,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [cmd/keeper: add the keeper zkvm guest program](https://github.com/ethereum/go-ethereum/pull/32543) - 2025-09-04
 * [Pull Request] [.github/workflows: remove redundant regexp check for heading dot](https://github.com/ethereum/go-ethereum/pull/32597) - 2025-09-12
 * [Pull Request] [core/{, stateless}: only report leaf stats + log to console + add cli flag](https://github.com/ethereum/go-ethereum/pull/32619) - 2025-09-15
+* [Commit] [cmd/evm/internal/t8ntool: panic on database corruption (#32776)](https://github.com/ethereum/go-ethereum/commit/46b7e78cc02f36e4c472f7196316a73f3c069cad) - 2025-09-29
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Commit] [make LoadTransitionState cacheless and move it to the overlay pkg](https://github.com/gballet/go-ethereum/commit/0f37c99d3457791f97995b08c2f6d53f4a5b37c6) - 2025-08-04
 * [Commit] [move transition state to its own file](https://github.com/gballet/go-ethereum/commit/f0f51d1ef458c1593e908741180615ad83fd07eb) - 2025-08-04
@@ -69,6 +70,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Wei Han Ng](https://github.com/protocolguild/documentation/pull/404) - 2025-09-26
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [eip-7773: put up eip 8032 for PFI](https://github.com/ethereum/EIPs/pull/10453) - 2025-09-29
+* [Pull Request] [Tree-Depth-Based Storage Gas Pricing](https://github.com/ethereum/EIPs/pull/10451) - 2025-09-29
 ## Q2 2025
 
 

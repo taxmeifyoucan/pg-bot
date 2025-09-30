@@ -34,6 +34,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Sealed Tx EIP](https://github.com/hyperledger/besu/issues/9060) - 2025-08-11
 * [Issue] [FOCIL to allow ABB](https://github.com/hyperledger/besu/issues/9059) - 2025-08-11
 * [Issue] [Explainer Site](https://github.com/hyperledger/besu/issues/9058) - 2025-08-11
+* [Commit] [Fix `PendingTransaction::toString` (#9237)](https://github.com/hyperledger/besu/commit/f3755c64cc0d67c49f4e25f726b1b8ee230293ba) - 2025-09-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [# RPC Standards # 8 | July 7th, 2025](https://github.com/ethereum/pm/issues/1605) - 2025-07-06
 ## Q2 2025

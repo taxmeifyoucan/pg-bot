@@ -129,6 +129,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [more limitation on data_column_sidecars_by_range](https://github.com/erigontech/erigon/pull/17239) - 2025-09-25
 * [Pull Request] [constrain and check column data length](https://github.com/erigontech/erigon/pull/17248) - 2025-09-26
 * [Pull Request] [Revise GetCustodyColumns](https://github.com/erigontech/erigon/pull/17247) - 2025-09-26
+* [Pull Request] [constrain and check column data length (#17248)](https://github.com/erigontech/erigon/pull/17269) - 2025-09-29
+* [Pull Request] [Check parameters on data_column_sidecars_by_range (#17239)](https://github.com/erigontech/erigon/pull/17268) - 2025-09-29
+* [Pull Request] [cherry-pick: validate column data before marking it as seen (#17241)](https://github.com/erigontech/erigon/pull/17267) - 2025-09-29
+* [Commit] [update](https://github.com/erigontech/erigon/commit/b8d20cfd5b02988aaa74c16635851fef5bf44ac6) - 2025-09-29
 ## Q2 2025
 
 

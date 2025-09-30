@@ -79,6 +79,21 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [[EIP-7934] Fix GetMaxRlpBlockSize call in mining block creation (#17236)](https://github.com/erigontech/erigon/commit/ea9a41bd8e2c215aeb891780b0a0d28ee46d37c3) - 2025-09-26
 * [Pull Request] [rpcademon: eth_call update with blockOverrides](https://github.com/erigontech/erigon/pull/17261) - 2025-09-27
 * [Commit] [upadte rpc](https://github.com/erigontech/erigon/commit/c087ad41b1ca7ae7df4f82e3a0f0ebadad9b6a63) - 2025-09-28
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/779ba4de12953b6777fd0eb58e5344ff7f1b648b) - 2025-09-29
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/e58ddca35caa397a68534723671c29b63f1dfc14) - 2025-09-29
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/fc06f51c5aa61019babdce5ec52552ec96ec4529) - 2025-09-29
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/3179d96ec72bf5c11d933bcf3cf7c06a4f88ce13) - 2025-09-29
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/173a352af42261f42d17e8ad45945d8530403eed) - 2025-09-29
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/b1c0fc81dd7b5cef568d094fe7268796ae3b5cf9) - 2025-09-29
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/2093344c952078b17d0a8924cd1fa0edb5452b2c) - 2025-09-29
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/362a9ee57b5788220e670638acc8f1a25591c105) - 2025-09-29
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/e630d940e7017199905f497faf369f54c5d53502) - 2025-09-29
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/f03e44da3dfb3277318e619de757a1ffcdab82f2) - 2025-09-29
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/543db14d9ad31fec68e566513fde15a3226e9961) - 2025-09-29
+* [Commit] [update dump](https://github.com/erigontech/erigon/commit/8e0ea041f361e3f9e6b14e2a5c73fae21a57b62c) - 2025-09-29
+* [Commit] [update serialization](https://github.com/erigontech/erigon/commit/367a99fe56ebb73886495071a9582654801105c1) - 2025-09-29
+* [Commit] [update serialization](https://github.com/erigontech/erigon/commit/a9bf31b0316f79d06308649069afd29c0756d1aa) - 2025-09-29
+* [Commit] [update logic](https://github.com/erigontech/erigon/commit/40cc17ca6a70860b8dace674d65d1ffe030fc028) - 2025-09-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24

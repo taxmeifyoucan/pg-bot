@@ -188,6 +188,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: remove eth1 and merge transition related code](https://github.com/ChainSafe/lodestar/commit/1d203eb1b0f9fe3b1e96a977f2d330f908757d24) - 2025-09-27
 * [Commit] [fix: pass inclusion lists via payload attributes to EL](https://github.com/ChainSafe/lodestar/commit/e170c51c53ee2803d385e2bc48415ca8a5b86380) - 2025-09-28
 * [Commit] [fix: pass inclusion lists from previous slot to engine_newPayloadV5](https://github.com/ChainSafe/lodestar/commit/e928031cfb6af6065b652d83fca52d4bb87a14ea) - 2025-09-28
+* [Pull Request] [chore: update error response for validator publish endpoints](https://github.com/ChainSafe/lodestar/pull/8480) - 2025-09-29
 ## Q2 2025
 
 

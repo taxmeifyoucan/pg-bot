@@ -39,6 +39,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Modified withdrawals for Gloas (#9911)](https://github.com/Consensys/teku/commit/6cdd9948a088d0d1286b0b1e5bed21eaece0f289) - 2025-09-18
 * [Issue] [Enable reftests for Gloas for v1.6.0-beta.0](https://github.com/Consensys/teku/issues/9915) - 2025-09-19
 * [Pull Request] [Process execution_payload_bid for Gloas](https://github.com/Consensys/teku/pull/9932) - 2025-09-26
+* [Pull Request] [Modified withdrawals and proposer slashings for Gloas](https://github.com/Consensys/teku/pull/9940) - 2025-09-29
+* [Pull Request] [Execution payload processing for Gloas](https://github.com/Consensys/teku/pull/9939) - 2025-09-29
+* [Commit] [Process execution_payload_bid for Gloas (#9932)](https://github.com/Consensys/teku/commit/e4762116548bfa9ee927f1728ce0defd89b6e1b5) - 2025-09-29
+* [Commit] [Change `DataColumnSidecar` for Gloas (#9929)](https://github.com/Consensys/teku/commit/28b6cabb2f2a3cce3844bd9a73fa8217de45528d) - 2025-09-29
+* [Issue] [Implement `SszMutableBitVector`](https://github.com/Consensys/teku/issues/9936) - 2025-09-29
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Commit] [[QUIC] Set muxer session and secure session on connection (#413)](https://github.com/libp2p/jvm-libp2p/commit/3d4b05fa1315e9af90a50d1d3204d0717d7f90ae) - 2025-08-27
 * [Commit] [Apply InboundTrafficLimitHandler only if max bytes > 0 (#416)](https://github.com/libp2p/jvm-libp2p/commit/25dd797a57715ab32ac4b3431bc98a997383f2f4) - 2025-08-28

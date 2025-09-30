@@ -57,6 +57,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Holesky Fulu Scheduling](https://github.com/Consensys/teku/issues/9917) - 2025-09-21
 * [Commit] [Fulu testnet scheduling (#9921)](https://github.com/Consensys/teku/commit/16ceff105d93e6b645fe19a8e2bd58fc1466e914) - 2025-09-22
 * [Pull Request] [Fulu testnet scheduling](https://github.com/Consensys/teku/pull/9921) - 2025-09-22
+* [Commit] [Add User-Agent header with Teku version on VC requests (#9935)](https://github.com/Consensys/teku/commit/8513225a0de7873e5cd57b5f477ad1d86326be78) - 2025-09-29
+* [Pull Request] [Add User-Agent header with Teku version on VC requests](https://github.com/Consensys/teku/pull/9935) - 2025-09-29
+* [Commit] [Fix basic deprecations (#9933)](https://github.com/Consensys/teku/commit/81fb2021dd1db7bb830582e398091e3b31caf71c) - 2025-09-29
+* [Issue] [Investigate Teku code deprecations](https://github.com/Consensys/teku/issues/9934) - 2025-09-29
+* [Pull Request] [Fix basic deprecations](https://github.com/Consensys/teku/pull/9933) - 2025-09-29
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Add support for libp2p interop tests](https://github.com/libp2p/jvm-libp2p/pull/421) - 2025-08-25
 * [Pull Request] [Add quic to interop client](https://github.com/libp2p/jvm-libp2p/pull/425) - 2025-09-15

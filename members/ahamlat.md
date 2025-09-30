@@ -28,6 +28,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Issue] [Release 25.9.0](https://github.com/hyperledger/besu/issues/9200) - 2025-09-19
 * [Commit] [Avoid recalculating the block header if we already have it. (#9193)](https://github.com/hyperledger/besu/commit/156a2f495c3e57e4fe14ce0e7d18f3693a41dc9e) - 2025-09-19
 * [Pull Request] [Add --cache-last-block-headers flag to cache the last n block header](https://github.com/hyperledger/besu/pull/9223) - 2025-09-25
+* [Pull Request] [Improve mgas log](https://github.com/hyperledger/besu/pull/9239) - 2025-09-29
 ## Q2 2025
 
 

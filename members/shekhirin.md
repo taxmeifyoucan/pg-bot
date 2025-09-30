@@ -161,6 +161,14 @@ Team: Reth
 * [Commit] [test: fix static file tests](https://github.com/paradigmxyz/reth/commit/8c0b19e9f6d6d106cbe1890980f047738de8d093) - 2025-09-26
 * [Commit] [test: fix static file tests](https://github.com/paradigmxyz/reth/commit/455978e7479031c029e7e4303dd989415e2bfaee) - 2025-09-26
 * [Commit] [test: more provider tests](https://github.com/paradigmxyz/reth/commit/00161df2e3e9d8e0659c4e99579c68ce5d935a7b) - 2025-09-26
+* [Commit] [fix: prevent integer underflow in pipeline unwind target calculation (#18743)](https://github.com/paradigmxyz/reth/commit/b940d0a9fb2587625ba972831b17ceb92f8dea71) - 2025-09-29
+* [Commit] [refactor: deduplicate methods](https://github.com/paradigmxyz/reth/commit/8d88166d3347f2f830cbcc49198e5bcb8046a3ee) - 2025-09-29
+* [Commit] [test: remove manual static file commits](https://github.com/paradigmxyz/reth/commit/de734f66a1ef901498f656aa855266f1d73f29e6) - 2025-09-29
+* [Commit] [refactor: remove default impl for commit](https://github.com/paradigmxyz/reth/commit/5815587c1bd3a2af6d5f1a38f07193e3c596eb8b) - 2025-09-29
+* [Commit] [refactor: implement provider trait](https://github.com/paradigmxyz/reth/commit/5f531c70072bdbe3e7f73975345e8a2773a1d3dc) - 2025-09-29
+* [Commit] [fix(engine): align sparse trie removal log target with engine::root::sparse (#18686)](https://github.com/paradigmxyz/reth/commit/3b0d98f3464b504d96154b787a860b2488a61b3e) - 2025-09-29
+* [Commit] [feat(reth-bench): trie subcommand](https://github.com/paradigmxyz/reth/commit/ab7d6ed522ec863883db6ec8c04381d234b620a3) - 2025-09-29
+* [Pull Request] [feat(reth-bench): trie subcommand](https://github.com/paradigmxyz/reth/pull/18767) - 2025-09-29
 ## Q2 2025
 
 

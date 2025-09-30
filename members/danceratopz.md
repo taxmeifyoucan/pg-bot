@@ -187,8 +187,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): future-proof comments for line-length 79](https://github.com/ethereum/execution-spec-tests/commit/c2c6b3573a5993e1801f9bf65a6f6c903b77aec7) - 2025-09-25
 * [Commit] [Deployed 17321a28979 to v5.2.0 with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3968f1db2a1c957c16a6fe3ffa1f968708967e1f) - 2025-09-26
 * [Commit] [Deployed ca1354d322d to v5.2.0 with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3928ae071274513af1f8ddcb4ceb88edf6923182) - 2025-09-26
+* [Commit] [Deployed 9821d2e7c65 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8f96fe134d9459109062eb138ff877ddd2017d9c) - 2025-09-29
+* [Commit] [chore(deps,tooling): update ruff rules, bump ruff version (#2210)](https://github.com/ethereum/execution-spec-tests/commit/9821d2e7c6584230ed180be0785ca7e7aafcade0) - 2025-09-29
+* [Commit] [chore(cli): update reth gas limit exception mapper](https://github.com/ethereum/execution-spec-tests/commit/f3354c672211f426c7323b95f003fad9549c6e9b) - 2025-09-29
+* [Commit] [chore(cli): update reth gas limit exception mapper](https://github.com/ethereum/execution-spec-tests/commit/efe1b0cd872b37aa0edb512eb100203f860cfa00) - 2025-09-29
+* [Commit] [Deployed 6262592020e to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/8e0944e6d99f7ff958ee828aec9d5c22cc9dd057) - 2025-09-29
+* [Commit] [docs(tooling): add troubleshooting entry for vs code autoformatting (#2214)](https://github.com/ethereum/execution-spec-tests/commit/6262592020ec24594ca3ae6cd5b9e54688096def) - 2025-09-29
+* [Commit] [Deployed 3d5326d9d0d to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/746b450677c06d62e2bc01ac1cbbdc87eb7171c8) - 2025-09-29
+* [Commit] [chore(cli): update nethermind's `NONCE_IS_MAX` message in exception mapper (#2211)](https://github.com/ethereum/execution-spec-tests/commit/3d5326d9d0d186bfa6bb9162cc6c5aab5153c867) - 2025-09-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
+* [Pull Request] [chore(deps,tooling): bump ruff to latest version](https://github.com/ethereum/execution-specs/pull/1445) - 2025-09-29
 ## Q2 2025
 
 

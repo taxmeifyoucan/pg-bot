@@ -53,6 +53,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Changelog for v6.0.5](https://github.com/OffchainLabs/prysm/commit/11c83bbc63369aa80d3daebc83f33da344c60cc1) - 2025-09-26
 * [Commit] [gazelle](https://github.com/OffchainLabs/prysm/commit/1b8145774a98bf4a6be8b0893dc6200595f19c11) - 2025-09-27
 * [Pull Request] [Add a go sdk toolchain with nodwarf5 for windows builds](https://github.com/OffchainLabs/prysm/pull/15766) - 2025-09-27
+* [Pull Request] [Add strip=always to release builds](https://github.com/OffchainLabs/prysm/pull/15774) - 2025-09-29
 ## Q2 2025
 
 

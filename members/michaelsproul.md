@@ -68,6 +68,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Refine HTTP status logs](https://github.com/sigp/lighthouse/pull/8098) - 2025-09-22
 * [Issue] [Extend MockExecutionLayer to handle execution_requests](https://github.com/sigp/lighthouse/issues/8116) - 2025-09-25
 * [Pull Request] [Fix proposer shuffling decision slot at boundary](https://github.com/sigp/lighthouse/pull/8128) - 2025-09-28
+* [Pull Request] [Upgrade book for DB schema v27](https://github.com/sigp/lighthouse/pull/8132) - 2025-09-29
+* [Issue] [Remove deprecated CLI flags at v8.0.0](https://github.com/sigp/lighthouse/issues/8131) - 2025-09-29
+* [Pull Request] [More proposer shuffling cleanup](https://github.com/sigp/lighthouse/pull/8130) - 2025-09-29
 ## Q2 2025
 
 

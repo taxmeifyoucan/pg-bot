@@ -266,6 +266,7 @@ Team: Reth
 * [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/651a2af92ddda140542ee1f1b4da2f272aae1826) - 2025-09-28
 * [Pull Request] [chore: remove doc_auto_cfg feature](https://github.com/paradigmxyz/reth/pull/18758) - 2025-09-28
 * [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/93a67056ea2cfc3e0c04eee98c637fae6a1de259) - 2025-09-28
+* [Commit] [annotations](https://github.com/paradigmxyz/reth/commit/ebd4993fadee20b4d8879f5a97da368a8f0faebc) - 2025-09-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

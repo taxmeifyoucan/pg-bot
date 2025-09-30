@@ -90,6 +90,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [RPC HTTP timeout - override value to be used for engine API (#9170)](https://github.com/hyperledger/besu/commit/4b94eac6b2a254ef660951c67ad8f15c584c6815) - 2025-09-26
 * [Commit] [update grpc and guava (#9150)](https://github.com/hyperledger/besu/commit/30ed4ad402e722fd1b40c7b7cd7252bf9c655965) - 2025-09-25
 * [Commit] [Upgrade execution-spec-tests to v5.1.0 fixtures_develop (#9226)](https://github.com/hyperledger/besu/commit/6326562d5fddcae43581b03f59b1473ae177b8c6) - 2025-09-26
+* [Commit] [add known issue to changelog (#9232)](https://github.com/hyperledger/besu/commit/feb18b11063e9a5762e41d03c1e600ee6eb6c657) - 2025-09-29
+* [Pull Request] [add test for block size when syncing blocks](https://github.com/hyperledger/besu/pull/9236) - 2025-09-29
+* [Pull Request] [[CHANGELOG] add known issue for eth_subscribe and ethstats ](https://github.com/hyperledger/besu/pull/9232) - 2025-09-29
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob allowance exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2089) - 2025-09-01
 ## Q2 2025

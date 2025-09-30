@@ -82,6 +82,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP-7910: Change BN256 to BN254](https://github.com/ethereum/EIPs/pull/10029) - 2025-07-17
 * [Pull Request] [Update EIP-7910: Revise sample hash](https://github.com/ethereum/EIPs/pull/10039) - 2025-07-21
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [Revise Nethermind run command](https://github.com/ethereum/hive/pull/1347) - 2025-09-29
 ## Q2 2025
 
 

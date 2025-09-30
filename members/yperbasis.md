@@ -243,6 +243,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Switch from c-kzg-4844 to go-eth-kzg](https://github.com/erigontech/erigon/issues/17253) - 2025-09-26
 * [Pull Request] [[EIP-7825] EstimateGas: cap hi by MaxTxnGasLimit in Osaka](https://github.com/erigontech/erigon/pull/17251) - 2025-09-26
 * [Commit] [[EIP-7825] EstimateGas: cap hi by MaxTxnGasLimit in Osaka](https://github.com/erigontech/erigon/commit/17857dbf3b8d44a9c710d5b00a7c4fc4a0525ed3) - 2025-09-26
+* [Issue] [TestShutterBlockBuilding: send on closed channe](https://github.com/erigontech/erigon/issues/17282) - 2025-09-29
+* [Commit] [Bump eth mainnet default block gas limit to 60M (#16949)](https://github.com/erigontech/erigon/commit/a3e89138dbf7942a6c76cc311800b51e6ecbf128) - 2025-09-29
+* [Issue] [Remove Holesky from code](https://github.com/erigontech/erigon/issues/17281) - 2025-09-29
+* [Commit] [Fix MaxBlobsPerTxn (#16945)](https://github.com/erigontech/erigon/commit/61a4d9983ba62e7d31853a73d2bac93f3229606a) - 2025-09-29
+* [Commit] [constrain and check column data length (#17248) (#17269)](https://github.com/erigontech/erigon/commit/3fee2940e0fdd0ee4b30d917373033e86f3529e1) - 2025-09-29
+* [Commit] [Check parameters on data_column_sidecars_by_range (#17239) (#17268)](https://github.com/erigontech/erigon/commit/c1f08b04c8f457642bb3c9cb317ccdda85597a6a) - 2025-09-29
+* [Commit] [validate column data before marking it as seen (#17241) (#17267)](https://github.com/erigontech/erigon/commit/892d4736e59134dafced7db5dc66e4a4b78703cf) - 2025-09-29
+* [Commit] [[r31] polygon: Set Rio Hard Fork Block for bor-mainnet (#17256)](https://github.com/erigontech/erigon/commit/b83829b193560dd964916d63ca288b99aab6850c) - 2025-09-29
+* [Commit] [version 3.1.1 (#17259)](https://github.com/erigontech/erigon/commit/cbb42d4ad7e92f0e80a41c8b66c17e447c11be0a) - 2025-09-29
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(clis): add erigon exception mapper for TYPE_3_TX_BLOB_COUNT_EXC…](https://github.com/ethereum/execution-spec-tests/pull/1974) - 2025-07-31
 ## Q2 2025
