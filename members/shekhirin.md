@@ -169,6 +169,10 @@ Team: Reth
 * [Commit] [fix(engine): align sparse trie removal log target with engine::root::sparse (#18686)](https://github.com/paradigmxyz/reth/commit/3b0d98f3464b504d96154b787a860b2488a61b3e) - 2025-09-29
 * [Commit] [feat(reth-bench): trie subcommand](https://github.com/paradigmxyz/reth/commit/ab7d6ed522ec863883db6ec8c04381d234b620a3) - 2025-09-29
 * [Pull Request] [feat(reth-bench): trie subcommand](https://github.com/paradigmxyz/reth/pull/18767) - 2025-09-29
+* [Commit] [chore: bump alloy 1.0.37 (#18795)](https://github.com/paradigmxyz/reth/commit/9c30bf7af5e0d45deaf5917375c9922c16654b28) - 2025-09-30
+* [Commit] [chore: bump version to 1.8.2 (#18792)](https://github.com/paradigmxyz/reth/commit/8950b4eb1eb557bcd7945d2fdad51d9d9d21e386) - 2025-09-30
+* [Commit] [fix(rpc/engine): check osaka in getBlobsV1 (#18669)](https://github.com/paradigmxyz/reth/commit/1de013b21fa56781bbf2ee3cff52d66321683bf3) - 2025-09-30
+* [Pull Request] [release: v1.8.2 patch](https://github.com/paradigmxyz/reth/pull/18793) - 2025-09-30
 ## Q2 2025
 
 

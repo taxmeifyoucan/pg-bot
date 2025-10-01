@@ -63,6 +63,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add SyncQueue synchronization for blocks loop.](https://github.com/status-im/nimbus-eth2/commit/7efdbb38ee13120056b01834a0123e913241dc54) - 2025-09-26
 * [Commit] [Fix blocks queue should not rewind sidecars queue, if its not running yet.](https://github.com/status-im/nimbus-eth2/commit/633fb25cd784c3ea72d0867c96842d5f363bdfe9) - 2025-09-29
 * [Commit] [Remove initSlot from BlockRangeBuffer.](https://github.com/status-im/nimbus-eth2/commit/b0fc707f7e5bddde1cd029fb788eb91ee1a5d1b9) - 2025-09-29
+* [Commit] [Add more debugging statements to SyncQueue.](https://github.com/status-im/nimbus-eth2/commit/d2626b4437997a92d623db9781300d0986fc5596) - 2025-09-30
 ## Q2 2025
 
 

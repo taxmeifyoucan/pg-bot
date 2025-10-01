@@ -13,6 +13,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Bump superstruct to `0.10.0`](https://github.com/sigp/lighthouse/pull/8133) - 2025-09-29
+* [Pull Request] [Migrate `execution_engine_integration` to `alloy`](https://github.com/sigp/lighthouse/pull/8140) - 2025-09-30
+* [Pull Request] [Migrate the `deposit_contract` crate to `alloy`](https://github.com/sigp/lighthouse/pull/8139) - 2025-09-30
 ## Q2 2025
 
 

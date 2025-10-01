@@ -104,6 +104,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): add test case for point doubling in P256](https://github.com/ethereum/execution-spec-tests/pull/2218) - 2025-09-29
 * [Pull Request] [feat(tests): add test case with invalid P256 with x1 above N](https://github.com/ethereum/execution-spec-tests/pull/2217) - 2025-09-29
 * [Pull Request] [feat(tests): add test cases for P256 with zero h, r, s](https://github.com/ethereum/execution-spec-tests/pull/2216) - 2025-09-29
+* [Pull Request] [feat(tests): add more tests for P256 where R is at infinity](https://github.com/ethereum/execution-spec-tests/pull/2238) - 2025-09-30
+* [Pull Request] [feat(tests): add tests for P256 with x,y out of range](https://github.com/ethereum/execution-spec-tests/pull/2237) - 2025-09-30
+* [Pull Request] [feat(tests): add test case for P256 with Q at infinity](https://github.com/ethereum/execution-spec-tests/pull/2235) - 2025-09-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Paweł Bylica to Erigon](https://github.com/protocolguild/documentation/pull/389) - 2025-07-27
 ## Q2 2025

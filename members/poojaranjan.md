@@ -23,6 +23,9 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Issue] [EIP Editing Office Hour (EIP + ERC) Meeting #73, Sep 23, 2025](https://github.com/ethereum/pm/issues/1739) - 2025-09-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update eip-7607.md](https://github.com/ethereum/EIPs/pull/10191) - 2025-08-19
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Update 01-membership.md](https://github.com/protocolguild/documentation/pull/411) - 2025-09-30
 ## Q2 2025
 
 

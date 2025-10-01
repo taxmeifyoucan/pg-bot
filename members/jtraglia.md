@@ -110,6 +110,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Revert blst to v0.3.15](https://github.com/ethereum/c-kzg-4844/pull/604) - 2025-09-18
 * [Pull Request] [Add back point-at-infinity filtering in g1_lincomb_fast](https://github.com/ethereum/c-kzg-4844/pull/603) - 2025-09-18
 
+* [Commit] [Bump versions to v2.1.5 (#609)](https://github.com/ethereum/c-kzg-4844/commit/7043f4d4dd7cedf510294d1336a24522c423d09d) - 2025-09-30
+* [Commit] [Create cell verification challenge with deduplicated commitments (#607)](https://github.com/ethereum/c-kzg-4844/commit/6ae76004de38468aa68ff882149ac5da412895f5) - 2025-09-30
+* [Pull Request] [Bump versions to v2.1.5](https://github.com/ethereum/c-kzg-4844/pull/609) - 2025-09-30
+* [Commit] [Fix rust CI checks (#608)](https://github.com/ethereum/c-kzg-4844/commit/fe8cbcdf233ead14f17015153a9f7d3f83a6d5e6) - 2025-09-30
+* [Pull Request] [Fix rust CI checks](https://github.com/ethereum/c-kzg-4844/pull/608) - 2025-09-30
+* [Pull Request] [Create cell verification challenge with deduplicated commitments](https://github.com/ethereum/c-kzg-4844/pull/607) - 2025-09-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP-7732 Breakout Room Call #25, October 10, 2025](https://github.com/ethereum/pm/issues/1744) - 2025-09-26
 ## Q2 2025

@@ -138,6 +138,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix: use `engine_newPayloadV5` for Glamsterdam (#2170)](https://github.com/ethereum/execution-spec-tests/commit/ef683b24b1fa603f6102cf94a05c930b0392249a) - 2025-09-19
 * [Pull Request] [fix(clis): update Reth gas limit exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2191) - 2025-09-23
 * [Pull Request] [chore(cli): nethermind max nonce exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2211) - 2025-09-26
+* [Commit] [fix: refresh launch.recommended.json for vs code debugging (#2231)](https://github.com/ethereum/execution-spec-tests/commit/43f7b02f2dbdd6b262227513049c53fad84bec76) - 2025-09-30
+* [Commit] [feat(tests): add test cases for P256 for r,s above N (#2230)](https://github.com/ethereum/execution-spec-tests/commit/80f272bcab9df1a0979c81f2e4bc4b98101749b8) - 2025-09-30
+* [Pull Request] [chore(cli): final reth 7825 mapper update](https://github.com/ethereum/execution-spec-tests/pull/2236) - 2025-09-30
+* [Commit] [chore(cli): final reth 7825 mapper update.](https://github.com/ethereum/execution-spec-tests/commit/b03281a7e7fdfe9877edecd0251403d08b117f08) - 2025-09-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Require benchmarking for new opcodes or precompiles.](https://github.com/ethereum/EIPs/pull/9988) - 2025-07-07
 * [Pull Request] [Update EIP-7939: Change gas cost from 3 to 5](https://github.com/ethereum/EIPs/pull/9987) - 2025-07-07

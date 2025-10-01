@@ -76,6 +76,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Ignore non-sampling data column sidecars](https://github.com/grandinetech/grandine/commit/b970e9d91cbe86bedd8ab6829f291bb2e97fad45) - 2025-09-17
 * [Commit] [Add Gloas boilerplate](https://github.com/grandinetech/grandine/commit/1d25a620dcad2e2a439c5fd7ada8c316982f7998) - 2025-09-19
 * [Commit] [Validate data column sidecars with mid priority](https://github.com/grandinetech/grandine/commit/212000f606570acb5ddc516ad203a4d23b17453d) - 2025-09-29
+* [Commit] [Add `beacon_custody_groups_backfilled` metric](https://github.com/grandinetech/grandine/commit/0ead9309282887ecbe98985c65fb0c445ebb6767) - 2025-09-30
+* [Commit] [Revert "Fix for blob schedule sort in config"](https://github.com/grandinetech/grandine/commit/2018cce8a2ec59b4f7875f567b99ca1cd9d72500) - 2025-09-30
+* [Commit] [Fix blob schedule sort in serialize](https://github.com/grandinetech/grandine/commit/c31074f15972fe231a79eac5809f08e659a0f0c4) - 2025-09-30
 ## Q2 2025
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)

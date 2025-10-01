@@ -22,6 +22,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [update Kafka topic configuration with improved retention and compression settings](https://github.com/ethpandaops/xatu/commit/55cebf94cfe7f532a794a9f7195d3b28a404d0b7) - 2025-09-11
 * [Pull Request] [feat(docker): update Kafka topic configuration with improved retention and compression settings](https://github.com/ethpandaops/xatu/pull/652) - 2025-09-11
 
+* [Commit] [feat: abort VRL processing if neither kzg field is present](https://github.com/ethpandaops/xatu/commit/0668806911f5c233a9748908be327fe5fdf3c82f) - 2025-09-30
+* [Commit] [feat: add Vector VRL transform for kzg_commitments backward compatibility](https://github.com/ethpandaops/xatu/commit/dccfc7957299541af116eccec0ed91a591f83d3b) - 2025-09-30
+* [Pull Request] [feat: replace kzg_commitments with kzg_commitments_count in data_column_sidecar](https://github.com/ethpandaops/xatu/pull/663) - 2025-09-30
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [add fct_mev_bid_count_by_builder and change some mev routes](https://github.com/ethpandaops/lab/pull/93) - 2025-09-25
 * [Commit] [vendor updates](https://github.com/ethpandaops/lab/commit/a16fec9e20ba8a5f55d675266bc3538d73e5ea8c) - 2025-09-25

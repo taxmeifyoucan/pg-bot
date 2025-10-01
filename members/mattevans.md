@@ -152,3 +152,4 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [refactor(prepared_blocks_handler): extract filter building logic into dedicated method to reduce duplication and improve readability](https://github.com/ethpandaops/lab/commit/4423a2c583a95571bc9cdcbe2cbeb182a1878e2f) - 2025-09-29
 * [Commit] [fix(prepared_blocks_handler): cast slot query param to uint32 to match filter type](https://github.com/ethpandaops/lab/commit/27ed9616fe65867ae82f7d8867e3c911e45d9923) - 2025-09-29
 * [Pull Request] [feat: add prepared blocks API endpoints and protobuf definitions](https://github.com/ethpandaops/lab/pull/98) - 2025-09-29
+* [Commit] [feat: add Fusaka fork support to consensus layer configuration](https://github.com/ethpandaops/lab/commit/83aeeff43e2c5a05f91ee6710c7f4ed05aa582a2) - 2025-09-30

@@ -28,6 +28,8 @@ Team: EthereumJS
 * [Commit] [chore: add ci to install pnpm](https://github.com/ethereumjs/ethereumjs-monorepo/commit/5fccfc9050351cd2e3fc68215293d024ff0dc83b) - 2025-09-25
 * [Commit] [EIP-7825: Test adjustments & Back to 0 Gas Limit Default (#4135)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/520475d0912b2715d1f3cc096e4672a6d89e15fb) - 2025-09-25
 * [Pull Request] [monorepo: migrate to pnpm](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4139) - 2025-09-25
+* [Commit] [chore: attempt to fix ci](https://github.com/ethereumjs/ethereumjs-monorepo/commit/7aff11e4ca47a8abbe6f4d1a150f4578f9ecb534) - 2025-09-30
+* [Commit] [chore: attempt to fix CI](https://github.com/ethereumjs/ethereumjs-monorepo/commit/f7ee0c225b58c58902e1ca8c3348f81784962a05) - 2025-09-30
 ## Q2 2025
 
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)

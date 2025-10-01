@@ -47,6 +47,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Fix `PendingTransaction::toString`](https://github.com/hyperledger/besu/pull/9237) - 2025-09-29
 * [Commit] [Fix: handle block selection cancellation without exception (#9228)](https://github.com/hyperledger/besu/commit/79e6cf0c5d0add81fecd55f0ce5c725cef36fc3e) - 2025-09-29
 * [Commit] [Fix besu-untuned script that was missing non performace related default JVM opts (#9227)](https://github.com/hyperledger/besu/commit/5a72879ac03d60b48b747ffbe6c500f294d27a22) - 2025-09-29
+* [Pull Request] [Set ParentBeaconBlockRoot to zero for pending block if not present](https://github.com/hyperledger/besu/pull/9249) - 2025-09-30
 ## Q2 2025
 
 

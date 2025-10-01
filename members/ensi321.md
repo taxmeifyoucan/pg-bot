@@ -36,6 +36,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Set `SLOT_DURATION_MS` if not provided](https://github.com/ChainSafe/lodestar/commit/425a1dfc4aa074f46eaf88676b54d2257e77e327) - 2025-09-23
 * [Commit] [Address @nflaig's comment](https://github.com/ChainSafe/lodestar/commit/bc91892306b754bff586cd8a3864dbe3e9a00498) - 2025-09-23
 * [Commit] [fix: sort cell indices before calling `recoverCellsAndKzgProofs` (#8450)](https://github.com/ChainSafe/lodestar/commit/643a1132eccc7a329e68f286af199fc1f78928a8) - 2025-09-24
+* [Commit] [chore: add gloas fork constants to unscheduled networks (#8484)](https://github.com/ChainSafe/lodestar/commit/901d71966053925a77a22a1919c271412cfecdb3) - 2025-09-30
+* [Pull Request] [feat: wire in gloas containers](https://github.com/ChainSafe/lodestar/pull/8485) - 2025-09-30
+* [Commit] [chore: add src to the package to have working source map (#8460)](https://github.com/ChainSafe/lodestar/commit/8689cc3545d20dc9169f204969d1a372ea3adc2a) - 2025-09-30
 ## Q2 2025
 
 

@@ -71,6 +71,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Update OP Superchain chains (#9370)](https://github.com/NethermindEth/nethermind/commit/7269c188b4865ffd733507a9f05c602d477f4621) - 2025-09-28
 * [Commit] [Fix BloBaseFee for calculation in RPC (#9376)](https://github.com/NethermindEth/nethermind/commit/16c160005a509a2260c5e9b481540de1f960af9b) - 2025-09-29
 * [Pull Request] [Fix BloBaseFee for calculation](https://github.com/NethermindEth/nethermind/pull/9376) - 2025-09-29
+* [Commit] [Remove unused method](https://github.com/NethermindEth/nethermind/commit/27c322e27676ee2013eb0f1791490bb9d1b5f094) - 2025-09-30
 ## Q2 2025
 
 

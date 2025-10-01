@@ -189,6 +189,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: pass inclusion lists via payload attributes to EL](https://github.com/ChainSafe/lodestar/commit/e170c51c53ee2803d385e2bc48415ca8a5b86380) - 2025-09-28
 * [Commit] [fix: pass inclusion lists from previous slot to engine_newPayloadV5](https://github.com/ChainSafe/lodestar/commit/e928031cfb6af6065b652d83fca52d4bb87a14ea) - 2025-09-28
 * [Pull Request] [chore: update error response for validator publish endpoints](https://github.com/ChainSafe/lodestar/pull/8480) - 2025-09-29
+* [Commit] [chore: update error response for validator publish endpoints (#8480)](https://github.com/ChainSafe/lodestar/commit/248b252a94a7abcde2ea85cd4b204dede70fec29) - 2025-09-30
+* [Commit] [Add separate metrics to track IL transcations sent when notifying and preparing EL payload](https://github.com/ChainSafe/lodestar/commit/23429a7ef291e8466f4b56cc6c26ccd196de5ddb) - 2025-09-30
 ## Q2 2025
 
 

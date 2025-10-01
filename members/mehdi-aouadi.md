@@ -27,6 +27,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [Focil gloas](https://github.com/Consensys/teku/pull/9812) - 2025-08-26
 * [Commit] [remove custody late initialisation (#9781)](https://github.com/Consensys/teku/commit/764d29eb5dc12aa13d47ecc4659f611ef43f169b) - 2025-08-26
 * [Commit] [Focil gloas (#9812)](https://github.com/Consensys/teku/commit/4d4cbd6d21689525d559a687701563d3e321ea68) - 2025-08-28
+* [Issue] [IL due time](https://github.com/Consensys/teku/issues/9946) - 2025-09-30
 ## Q2 2025
 
 

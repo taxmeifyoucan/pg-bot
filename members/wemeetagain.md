@@ -147,6 +147,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: hasAllData in createFromColumn() api (#8473)](https://github.com/ChainSafe/lodestar/commit/91dadf81de530eaafdf2c3384ed4e79f896f844f) - 2025-09-26
 * [Pull Request] [chore: bump lodestar-bun](https://github.com/ChainSafe/lodestar/pull/8481) - 2025-09-29
 * [Commit] [chore: update error response for validator publish endpoints (#8480)](https://github.com/ChainSafe/lodestar/commit/248b252a94a7abcde2ea85cd4b204dede70fec29) - 2025-09-29
+* [Commit] [chore: more fix](https://github.com/ChainSafe/lodestar/commit/31453a317ba4a140f1b3782fec63b4fcefa8d22b) - 2025-09-30
+* [Commit] [chore: fix entries](https://github.com/ChainSafe/lodestar/commit/15bdc93c585e0db66cef822f02602c5ecebf414e) - 2025-09-30
+* [Commit] [chore: fix lmdb usage](https://github.com/ChainSafe/lodestar/commit/8619a30f3a0872329450fc54f3a825df07a8d1ae) - 2025-09-30
 ## Q2 2025
 
 

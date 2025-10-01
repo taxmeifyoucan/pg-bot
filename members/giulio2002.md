@@ -216,6 +216,7 @@ Team: Erigon
 * [Commit] [constrain and check column data length (#17248)](https://github.com/erigontech/erigon/commit/ec05a22fbb091d5e45e898bb7ee1ce13a1d2d282) - 2025-09-26
 * [Commit] [Check parameters on data_column_sidecars_by_range (#17239)](https://github.com/erigontech/erigon/commit/90ea5a86851fa10e8a20b3a17bba98d82b19750f) - 2025-09-26
 * [Commit] [validate column data before marking it as seen (#17241)](https://github.com/erigontech/erigon/commit/b8e652011e80d72c2c6c8ca736b4de7f910b6673) - 2025-09-26
+* [Commit] [Caplin: Improved block downloader (#15255)](https://github.com/erigontech/erigon/commit/693b03ba9b5b45eb109270774ff7c8038d4765e4) - 2025-09-30
 ## Q2 2025
 
 

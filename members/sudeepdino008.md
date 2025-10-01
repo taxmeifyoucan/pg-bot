@@ -273,6 +273,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cp: avoid cache on evm timeout in eth_getLogs rpc (#17270)](https://github.com/erigontech/erigon/pull/17279) - 2025-09-29
 * [Pull Request] [cp: avoid cache on evm timeout in eth_getLogs rpc](https://github.com/erigontech/erigon/pull/17278) - 2025-09-29
 * [Pull Request] [avoid cache on evm timeout in eth_getLogs rpc](https://github.com/erigontech/erigon/pull/17270) - 2025-09-29
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7a75d5b35d0fddb3a4b809084ded7e096e7ef030) - 2025-09-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [ensure "bor logs" traces can be used in rpc queries](https://github.com/erigontech/rpc-tests/pull/424) - 2025-08-01
 ## Q2 2025

@@ -133,6 +133,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [feat(e2e): add beacon consensus handle](https://github.com/paradigmxyz/reth/commit/b6b67a7a51c0269010e329e95f97529532410423) - 2025-09-23
 * [Commit] [feat(e2e): add beacon consensus handle](https://github.com/paradigmxyz/reth/commit/a8c2b501ee308d9a762d6b8d11691f8207c795e0) - 2025-09-23
 * [Commit] [docs: fix incorrect RPC method names in trace calls (#18619)](https://github.com/paradigmxyz/reth/commit/e3cc6e2ea50db8ab5095bbcc7cd5c13a6d485e8f) - 2025-09-23
+* [Commit] [fix(op-reth): forward pre-bedrock transaction RPC calls to historical endpoint (#18784)](https://github.com/paradigmxyz/reth/commit/db524d158e072354b389c8721ed601c1d4815c3b) - 2025-09-30
+* [Commit] [cleanup HeaderNumbers for blocks being removed](https://github.com/paradigmxyz/reth/commit/5a2f30db73bca960d68c08cad04bfd19fc3635c1) - 2025-09-30
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [Add blob per tx limit for reth](https://github.com/ethereum/execution-spec-tests/pull/2016) - 2025-08-08
 ## Q2 2025

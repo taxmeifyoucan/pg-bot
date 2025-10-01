@@ -184,6 +184,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [fixing config string parsing regression](https://github.com/OffchainLabs/prysm/pull/15773) - 2025-09-29
 * [Commit] [fixing test](https://github.com/OffchainLabs/prysm/commit/f08ae428b20459d9b9b4e28389605a0cff4f6029) - 2025-09-29
 * [Pull Request] [attempt fixing subscriber race](https://github.com/OffchainLabs/prysm/pull/15771) - 2025-09-29
+* [Commit] [changelog](https://github.com/OffchainLabs/prysm/commit/1f4ea3cc654db999a00d9f966724485a207d435f) - 2025-09-30
+* [Commit] [removing go routine](https://github.com/OffchainLabs/prysm/commit/dd92d93ccfe1b98749395ec6166d1aa36f2494cb) - 2025-09-30
+* [Pull Request] [attempting to improve duties v2](https://github.com/OffchainLabs/prysm/pull/15784) - 2025-09-30
 ## Q2 2025
 
 

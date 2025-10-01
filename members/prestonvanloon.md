@@ -54,6 +54,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [gazelle](https://github.com/OffchainLabs/prysm/commit/1b8145774a98bf4a6be8b0893dc6200595f19c11) - 2025-09-27
 * [Pull Request] [Add a go sdk toolchain with nodwarf5 for windows builds](https://github.com/OffchainLabs/prysm/pull/15766) - 2025-09-27
 * [Pull Request] [Add strip=always to release builds](https://github.com/OffchainLabs/prysm/pull/15774) - 2025-09-29
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Bastin tfrom Prysm](https://github.com/protocolguild/documentation/pull/416) - 2025-09-30
+* [Pull Request] [Rename Prysmatic Labs to Offchain Labs](https://github.com/protocolguild/documentation/pull/415) - 2025-09-30
 ## Q2 2025
 
 

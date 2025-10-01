@@ -19,6 +19,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [EIP-4762 - Remove system contract warming gas cost code path](https://github.com/hyperledger/besu/pull/9142) - 2025-09-01
 * [Pull Request] [Workaround to force the txpool to be always on (#8755)](https://github.com/hyperledger/besu/pull/9172) - 2025-09-11
 * [Pull Request] [reimplement division with uint256 values](https://github.com/hyperledger/besu/pull/9175) - 2025-09-12
+* [Commit] [Improve EQ performance](https://github.com/hyperledger/besu/commit/c71de3673887f8e8d8458b15a5f8c21a44e8d99e) - 2025-09-30
+* [Commit] [improve EQ performance](https://github.com/hyperledger/besu/commit/0a3c885e2f370496c31332885f8b8da16600a85b) - 2025-09-30
+* [Commit] [improve EQ performance](https://github.com/hyperledger/besu/commit/ad5ecf2d9fd248e72989ffdd30497d810c798401) - 2025-09-30
 ## Q2 2025
 
 

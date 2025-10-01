@@ -32,6 +32,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Issue] [Add ChainStorage test for DataColumnSidecars](https://github.com/Consensys/teku/issues/9928) - 2025-09-24
 * [Issue] [Implement fast import with 1/2 of sidecars for supernode](https://github.com/Consensys/teku/issues/9938) - 2025-09-29
 * [Issue] [Add metric for earliest_available_slot](https://github.com/Consensys/teku/issues/9937) - 2025-09-29
+* [Commit] [Add VersionedHash DB logic only (#9931)](https://github.com/Consensys/teku/commit/7e2f107735bace35edba7091520ba283ba2d1138) - 2025-09-30
 ## Q2 2025
 
 

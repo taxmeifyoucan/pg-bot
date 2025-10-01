@@ -117,6 +117,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Assess removal of ruff's Ignored Rules](https://github.com/ethereum/execution-spec-tests/issues/2128) - 2025-09-10
 * [Pull Request] [fix(clis/eels): Use regex for missing-module-definition exceptions](https://github.com/ethereum/execution-spec-tests/pull/2127) - 2025-09-10
 * [Issue] [Introduce `TestPhaseManager` construct to tag test](https://github.com/ethereum/execution-spec-tests/issues/2137) - 2025-09-11
+* [Commit] [new(tests): Identity precompile (#1047)](https://github.com/ethereum/execution-spec-tests/commit/a85348993c7b463d0cba2dba79a6b5a9f88b2d9c) - 2025-09-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #45 | July 21 2025](https://github.com/ethereum/pm/issues/1624) - 2025-07-16
 

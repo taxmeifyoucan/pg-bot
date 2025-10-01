@@ -32,5 +32,6 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [chore: point to latest specs commit](https://github.com/ethereum/execution-spec-tests/commit/43bfb815864a9dfd83b47ec7094c1826dd6ed43c) - 2025-09-24
 * [Commit] [feat(benchmark): add `benchmark_test` test type (#1945)](https://github.com/ethereum/execution-spec-tests/commit/a2f28413de99d10d349844872a860a340cb2f345) - 2025-09-29
 * [Commit] [point to latest commit in specs](https://github.com/ethereum/execution-spec-tests/commit/2e1d2dc9f54e4fbf2520cbb8c0eca34b666371cd) - 2025-09-29
+* [Pull Request] [Fix/warnings](https://github.com/ethereum/execution-spec-tests/pull/2239) - 2025-09-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Look into replacing `mypy` with `ty` once it is released](https://github.com/ethereum/execution-specs/issues/1431) - 2025-09-19

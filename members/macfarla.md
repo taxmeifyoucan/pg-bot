@@ -93,6 +93,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [add known issue to changelog (#9232)](https://github.com/hyperledger/besu/commit/feb18b11063e9a5762e41d03c1e600ee6eb6c657) - 2025-09-29
 * [Pull Request] [add test for block size when syncing blocks](https://github.com/hyperledger/besu/pull/9236) - 2025-09-29
 * [Pull Request] [[CHANGELOG] add known issue for eth_subscribe and ethstats ](https://github.com/hyperledger/besu/pull/9232) - 2025-09-29
+* [Commit] [Set ParentBeaconBlockRoot to zero for pending block if not present (#9249)](https://github.com/hyperledger/besu/commit/79204f1d48ca73351ea44fa4ab9295c60a477320) - 2025-09-30
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [fix(clis/besu): blob allowance exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2089) - 2025-09-01
 ## Q2 2025

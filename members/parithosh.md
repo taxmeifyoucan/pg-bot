@@ -28,6 +28,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [ansible go vroom](https://github.com/ethpandaops/template-devnets/pull/110) - 2025-08-26
 * [Commit] [ansible go vroom (#110)](https://github.com/ethpandaops/template-devnets/commit/0ce7ae1d775e4340306fb5df9f4c6700820a572d) - 2025-08-28
 * [Commit] [add qu0b (#122)](https://github.com/ethpandaops/template-devnets/commit/387c95dec72e99015e12b1a98de43662d6e3e6ef) - 2025-09-16
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #56, Oct 6, 2025](https://github.com/ethereum/pm/issues/1750) - 2025-09-30
 ## Q2 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

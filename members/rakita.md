@@ -254,6 +254,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: run-tests.sh fail fast on HTTP errors and add retries for fixture downloads (#3019)](https://github.com/bluealloy/revm/commit/43f5b8938e0498e059d89d307c314585cdc92c3e) - 2025-09-29
 * [Commit] [fix(inspector): remove redundant pc()/opcode() calls in step_end (#3023)](https://github.com/bluealloy/revm/commit/0fa3ded8e915d87218ba17b493beec305896b7c5) - 2025-09-29
 * [Commit] [refactor(database): extract duplicate test balance constants (#3017)](https://github.com/bluealloy/revm/commit/299cefd68aa97afde9350af432453bb8b0a3e97c) - 2025-09-29
+* [Pull Request] [chore: helper caller_touch_and_change added](https://github.com/bluealloy/revm/pull/3032) - 2025-09-30
+* [Commit] [chore: typo imputs (#3031)](https://github.com/bluealloy/revm/commit/6e29b0c406183eb920f09c77e846b02726d91d3b) - 2025-09-30
+* [Commit] [add box](https://github.com/bluealloy/revm/commit/2023b285e0af77841a3108de5a20fbead8e30d49) - 2025-09-30
+* [Pull Request] [chore: typo imputs](https://github.com/bluealloy/revm/pull/3031) - 2025-09-30
+* [Pull Request] [chore: helper function effective_balance_spending_without_value](https://github.com/bluealloy/revm/pull/3030) - 2025-09-30
+* [Pull Request] [chore: add default impl for tx_local_mut and tx_journal_mut](https://github.com/bluealloy/revm/pull/3029) - 2025-09-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [feat(EIP-7907): Consider empty code as always warm](https://github.com/ethereum/EIPs/pull/10007) - 2025-07-14
 * [Pull Request] [chore(EIP-7907): Backwards compatibility update](https://github.com/ethereum/EIPs/pull/10006) - 2025-07-14

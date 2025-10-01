@@ -49,6 +49,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Update quick-go](https://github.com/OffchainLabs/prysm/pull/15749) - 2025-09-25
 * [Commit] [Only care about exits pre-Electra](https://github.com/OffchainLabs/prysm/commit/f9c5ab3c1fc75299c71475234ff8632ce5e0b629) - 2025-09-26
 * [Pull Request] [Avoid unnecessary calls to ExitInformation()](https://github.com/OffchainLabs/prysm/pull/15764) - 2025-09-26
+* [Commit] [Fix more fuzz tests](https://github.com/OffchainLabs/prysm/commit/a63432154e51e8dad165613a3bc93388f0ee3a50) - 2025-09-30
 [prysmaticlabs/hashtree](https://github.com/prysmaticlabs/hashtree)
 * [Commit] [add HashByteSlice (#51)](https://github.com/OffchainLabs/hashtree/commit/f733b7698511b5498b722421a30ddf7e5066497c) - 2025-08-31
 ## Q2 2025

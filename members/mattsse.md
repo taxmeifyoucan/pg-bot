@@ -267,6 +267,10 @@ Team: Reth
 * [Pull Request] [chore: remove doc_auto_cfg feature](https://github.com/paradigmxyz/reth/pull/18758) - 2025-09-28
 * [Commit] [clippy](https://github.com/paradigmxyz/reth/commit/93a67056ea2cfc3e0c04eee98c637fae6a1de259) - 2025-09-28
 * [Commit] [annotations](https://github.com/paradigmxyz/reth/commit/ebd4993fadee20b4d8879f5a97da368a8f0faebc) - 2025-09-29
+* [Commit] [chore: bump alloy 1.0.37 (#18795)](https://github.com/paradigmxyz/reth/commit/530e62d0e984b73b1c962eb85e305a63fdf59a2a) - 2025-09-30
+* [Pull Request] [chore: bump alloy 1.0.37](https://github.com/paradigmxyz/reth/pull/18795) - 2025-09-30
+* [Commit] [chore: bump version to 1.8.2 (#18792)](https://github.com/paradigmxyz/reth/commit/05d17bfe041b329c0454a41e7803b418d301688d) - 2025-09-30
+* [Commit] [lockfile](https://github.com/paradigmxyz/reth/commit/5e0e558f6097e1b49a0d821c09d91f5c76b50353) - 2025-09-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore: add PartialEq u8](https://github.com/bluealloy/revm/pull/2688) - 2025-07-03
 * [Issue] [Support bubbling up Precompile error messages](https://github.com/bluealloy/revm/issues/2898) - 2025-08-19

@@ -252,6 +252,10 @@ Team: Erigon
 * [Commit] [metrics fixes](https://github.com/erigontech/erigon/commit/b6316b5e68e9b918e742b19c9282073a4498ef6e) - 2025-09-24
 * [Commit] [polygon: Set Rio Hard Fork Block for bor-mainnet (#17254)](https://github.com/erigontech/erigon/commit/f8d7c73c35c06dc1abf741ff6e1d659478401476) - 2025-09-26
 * [Commit] [use local tx for commit calculations](https://github.com/erigontech/erigon/commit/16f9c749c10466a45ce339671a3db2870507a0a4) - 2025-09-29
+* [Pull Request] [Fix EEST error returns](https://github.com/erigontech/erigon/pull/17300) - 2025-09-30
+* [Commit] [update test skip processing](https://github.com/erigontech/erigon/commit/4d22f7d1a686957845fdc004d3a294991f613728) - 2025-09-30
+* [Commit] [don't flush on execErr](https://github.com/erigontech/erigon/commit/e8561b8c2db13636f20a084ea1c6273a5b648b55) - 2025-09-30
+* [Commit] [remove duplicate code](https://github.com/erigontech/erigon/commit/ff09750dd1e317b7992f895107316d771e41685b) - 2025-09-30
 ## Q2 2025
 
 

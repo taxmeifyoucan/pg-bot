@@ -25,6 +25,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Cleanup/Simplify CodeInfoRepository registration. (#9243)](https://github.com/NethermindEth/nethermind/commit/7d34bdd47a4a93c806365ef704f260945f74a1a2) - 2025-09-16
 * [Commit] [Fix whitespace](https://github.com/NethermindEth/nethermind/commit/54716be6c62ff625f89501c497f31c3749f486a4) - 2025-09-18
 * [Commit] [Update packages (#9302)](https://github.com/NethermindEth/nethermind/commit/0e5dba9f207d192b4cef72c76245782bba5fe145) - 2025-09-18
+* [Commit] [Register ProducedBlockSuggester](https://github.com/NethermindEth/nethermind/commit/b7d8d98f2fe2462af686b487c33ce345371f4224) - 2025-09-30
+* [Pull Request] [Add support for block producer based on global world state instance.](https://github.com/NethermindEth/nethermind/pull/9388) - 2025-09-30
 ## Q2 2025
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)

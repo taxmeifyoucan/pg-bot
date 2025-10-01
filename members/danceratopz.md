@@ -195,6 +195,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs(tooling): add troubleshooting entry for vs code autoformatting (#2214)](https://github.com/ethereum/execution-spec-tests/commit/6262592020ec24594ca3ae6cd5b9e54688096def) - 2025-09-29
 * [Commit] [Deployed 3d5326d9d0d to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/746b450677c06d62e2bc01ac1cbbdc87eb7171c8) - 2025-09-29
 * [Commit] [chore(cli): update nethermind's `NONCE_IS_MAX` message in exception mapper (#2211)](https://github.com/ethereum/execution-spec-tests/commit/3d5326d9d0d186bfa6bb9162cc6c5aab5153c867) - 2025-09-29
+* [Commit] [Deployed a85348993c7 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/95365dcfcecfd32560cd8d9d63abe1b8da12893f) - 2025-09-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(tooling): add missing code formatting checks (`ruff format --check`)](https://github.com/ethereum/execution-specs/issues/1397) - 2025-09-02
 * [Pull Request] [chore(deps,tooling): bump ruff to latest version](https://github.com/ethereum/execution-specs/pull/1445) - 2025-09-29

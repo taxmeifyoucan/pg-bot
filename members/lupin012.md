@@ -94,6 +94,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [update serialization](https://github.com/erigontech/erigon/commit/367a99fe56ebb73886495071a9582654801105c1) - 2025-09-29
 * [Commit] [update serialization](https://github.com/erigontech/erigon/commit/a9bf31b0316f79d06308649069afd29c0756d1aa) - 2025-09-29
 * [Commit] [update logic](https://github.com/erigontech/erigon/commit/40cc17ca6a70860b8dace674d65d1ffe030fc028) - 2025-09-29
+* [Pull Request] [rpcademon: update rpc-test with new label latest test](https://github.com/erigontech/erigon/pull/17298) - 2025-09-30
+* [Pull Request] [rpcademon: estimateGas WithBlockOverrides](https://github.com/erigontech/erigon/pull/17295) - 2025-09-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [add log](https://github.com/erigontech/rpc-tests/commit/b0ef9929a003a9620d73ddf931a15b7f00a62d34) - 2025-07-23
 * [Commit] [add possibility to specify -L and -a](https://github.com/erigontech/rpc-tests/commit/df0726eb72382ed52cdc69b296b11abcd4bce7e1) - 2025-07-24
@@ -143,6 +145,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [modified string in english](https://github.com/erigontech/rpc-tests/commit/5d16b1865915bb84b737f94619d6ebb28ef326e4) - 2025-09-28
 * [Commit] [integration: fix after PR 461 (#462)](https://github.com/erigontech/rpc-tests/commit/f637b8a497928583ef421b8186929fa00e66eed4) - 2025-09-28
 * [Commit] [copy_result: ident=2, fix in case result to error and viceversa, copy_result as exe](https://github.com/erigontech/rpc-tests/commit/14517312cecbb4c622206c3bff6aa1c84ccab594) - 2025-09-28
+* [Commit] [integration: enable tests for 3 API as latest (#463)](https://github.com/erigontech/rpc-tests/commit/aa2f4e8719103647887056e9898c0a3e18d755ee) - 2025-09-30
+* [Commit] [add resuòt for historical test](https://github.com/erigontech/rpc-tests/commit/0c20b64f8a263f6226fb8991c4938c002e203a5c) - 2025-09-30
 ## Q2 2025
 
 [erigontech/erigon](https://github.com/erigontech/erigon)

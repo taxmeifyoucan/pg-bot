@@ -27,6 +27,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Add instrumentation to `recompute_head_at_slot`](https://github.com/sigp/lighthouse/pull/8049) - 2025-09-16
 * [Pull Request] [Run reconstruction inside a scoped rayon pool](https://github.com/sigp/lighthouse/pull/8075) - 2025-09-18
 * [Pull Request] [Fulu testnet configs](https://github.com/sigp/lighthouse/pull/8117) - 2025-09-25
+* [Pull Request] [Move beacon processor work queue implementation to its own file](https://github.com/sigp/lighthouse/pull/8141) - 2025-09-30
 ## Q2 2025
 
 

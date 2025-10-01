@@ -56,6 +56,12 @@ Team: Nethermind
 * [Commit] [refactors to SnapshotDecoder and SnapshotManager](https://github.com/NethermindEth/nethermind/commit/f4a7eba334f700d2ad472ffcaa1504bc537cc988) - 2025-09-25
 * [Commit] [switch to file scoped namespace in SnapshotDecoderTests.cs](https://github.com/NethermindEth/nethermind/commit/f23c01d99ec993c64af516bfad1a0c4a0b0f3494) - 2025-09-25
 * [Commit] [remove materialization of array](https://github.com/NethermindEth/nethermind/commit/6749a0fccc435d9eea2e2bf70d7a1ad65243aad5) - 2025-09-25
+* [Commit] [refactor decoder to field](https://github.com/NethermindEth/nethermind/commit/cb039c42c8cf9c009107e9b6a7ec1622bbc12c55) - 2025-09-30
+* [Commit] [refactors and fixes](https://github.com/NethermindEth/nethermind/commit/c1eecf76fb5295e6e1d377dbd66fa8fc02d8c940) - 2025-09-30
+* [Commit] [Update SnapshotDecoderTests.cs](https://github.com/NethermindEth/nethermind/commit/5903637768e62e748993f171dfebaea608c59fbe) - 2025-09-30
+* [Commit] [Update SnapshotDecoderTests.cs](https://github.com/NethermindEth/nethermind/commit/922d4aad859e88f1c192d2d1b4f847cfd444840c) - 2025-09-30
+* [Commit] [Update SnapshotManager.cs](https://github.com/NethermindEth/nethermind/commit/c48dbffe45a8ecb9a23026050f27f3f50c1e051f) - 2025-09-30
+* [Commit] [Update SnapshotManager.cs](https://github.com/NethermindEth/nethermind/commit/6636194dd29501287a1446adc5085a88fb8bafee) - 2025-09-30
 ## Q2 2025
 
 

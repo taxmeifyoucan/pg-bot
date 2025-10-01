@@ -65,6 +65,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [params: release Geth v1.14.6](https://github.com/gballet/go-ethereum/commit/d5ebd4bbf66a96234082e2a0ac6f4c4908966108) - 2025-09-11
 * [Commit] [make the chainid an extra parameter](https://github.com/gballet/go-ethereum/commit/8a73d64f5ef7534c5402d1cf534e4231eaad3d76) - 2025-09-12
 * [Commit] [fix formatting](https://github.com/gballet/go-ethereum/commit/48694958610b905f9cd1ee926af45dfc580cc2b8) - 2025-09-15
+* [Commit] [use my keccak PR](https://github.com/gballet/go-ethereum/commit/4bea991cc0193a6211361c721539e6e43773d200) - 2025-09-30
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [test(benchmark): implement CREATE2 addressing for bloatnet tests](https://github.com/ethereum/execution-spec-tests/pull/2090) - 2025-09-01
 

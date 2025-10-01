@@ -53,3 +53,6 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Issue] [EIP-7928 BAL includes storage changes even after transaction reverts](https://github.com/ethereum/execution-specs/issues/1432) - 2025-09-20
 * [Issue] [EIP-7928 BAL DOES NOT include pure contracts in account changes](https://github.com/ethereum/execution-specs/issues/1433) - 2025-09-21
 * [Issue] [EIP-7928 BAL DOES NOT include target address of `CALLCODE` and `DELEGATECALL`](https://github.com/ethereum/execution-specs/issues/1434) - 2025-09-22
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [✨ feat(fork): Amsterdam](https://github.com/ethereum/hive/pull/1349) - 2025-09-30

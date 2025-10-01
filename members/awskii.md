@@ -135,6 +135,7 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b81c87285fa7f9c4622230db2e41a0d41402ee4b) - 2025-09-24
 * [Commit] [disable gas usage assert for arbitrum chains (#17230)](https://github.com/erigontech/erigon/commit/7a21973f904fbdcddd298c746f01aeb4ef964020) - 2025-09-24
 * [Commit] [Simplify gas usage assertion logic](https://github.com/erigontech/erigon/commit/b1cc474ff5775a2b4e9bcadfb6d7007e4736639c) - 2025-09-24
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f4d0b732eb0fbb71541511287efdfffa231897b5) - 2025-09-30
 ## Q2 2025
 
 
