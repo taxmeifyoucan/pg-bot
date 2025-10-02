@@ -8,6 +8,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q4 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [Update maxpeers and maxpendpeers flag documentation](https://github.com/erigontech/erigon/pull/17302) - 2025-10-01
+* [Commit] [Enable `maxpendpeers` flag](https://github.com/erigontech/erigon/commit/81bad54b20993fee0435a2201700cee4884d27d4) - 2025-10-01
+* [Commit] [Enable `maxpendpeers` flag](https://github.com/erigontech/erigon/commit/c71bcfc027a1c38ad321dd4280225edc807a8f2b) - 2025-10-01
+* [Commit] [Clean diff](https://github.com/erigontech/erigon/commit/e470525662af326f43cb617857f90cc68c721ffb) - 2025-10-01
+* [Commit] [Update `AnnouncePooledTxns`](https://github.com/erigontech/erigon/commit/21fc2814e5a91a6ac4c1b2dcf585cb58b7926869) - 2025-10-01
+* [Commit] [User input "sanitization" (#17207)](https://github.com/erigontech/erigon/commit/b867971c168b0fbd836e6b6652e2a23342f73505) - 2025-10-01
 ## Q3 2025
 
 

@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 
 ## Contributions
 
+## Q4 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [Preload block headers cache at startup time (#9248)](https://github.com/hyperledger/besu/commit/f1e4953adb4eaa00623ba59a4fa251ffaa4dbc6c) - 2025-10-01
 ## Q3 2025
 
 

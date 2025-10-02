@@ -8,6 +8,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q4 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Commit] [fix: update regen caller for data column (#8487)](https://github.com/ChainSafe/lodestar/commit/792fcea33a7cd810d28d6905828ad6878726dcab) - 2025-10-01
+* [Pull Request] [fix: update regen caller for data column](https://github.com/ChainSafe/lodestar/pull/8487) - 2025-10-01
 ## Q3 2025
 
 

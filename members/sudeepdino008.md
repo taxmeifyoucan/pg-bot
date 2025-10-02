@@ -8,6 +8,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q4 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [fix error in stage_exec with --no-commit](https://github.com/erigontech/erigon/pull/17311) - 2025-10-01
+* [Pull Request] [Bench script](https://github.com/erigontech/erigon/pull/17309) - 2025-10-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/0074c22a3bc38ac00f3550177eae681d1a704ed0) - 2025-10-01
 ## Q3 2025
 
 

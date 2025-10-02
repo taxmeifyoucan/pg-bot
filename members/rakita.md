@@ -8,6 +8,13 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 ## Contributions
 
+## Q4 2025
+
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Commit] [nits and cleanup](https://github.com/bluealloy/revm/commit/82638cf48074cad5a30cca8d1e8314404db652ef) - 2025-10-01
+* [Commit] [move caller_touch_and_change to Account](https://github.com/bluealloy/revm/commit/e118fb8890ce6cc23c1b48073eefb27b60caa0c8) - 2025-10-01
+* [Commit] [refactor(inspector): remove unnecessary mutable borrow in GasInspector::step_end (#3035)](https://github.com/bluealloy/revm/commit/c56206a29fbd6522e15f99997c88ff92819a5dc1) - 2025-10-01
 ## Q3 2025
 
 

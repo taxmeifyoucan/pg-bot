@@ -8,6 +8,11 @@ Team: Grandine
 
 ## Contributions
 
+## Q4 2025
+
+
+[grandinetech/rust-kzg](https://github.com/grandinetech/rust-kzg)
+* [Commit] [Port wbits msm from rust-eth-kzg](https://github.com/grandinetech/rust-kzg/commit/3a3bdf44fd69f71681c9ce2b33ae962d46759a64) - 2025-10-01
 ## Q3 2025
 
 

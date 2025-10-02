@@ -8,6 +8,17 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Commit] [feat(libp2p/trace): include EarliestAvailableSlot in HandleStatus and CustodyGroupCount in HandleMetadata](https://github.com/ethpandaops/xatu/commit/265664c8233eedb6ab9c3776803fd11e08defbd6) - 2025-10-01
+* [Commit] [fix(migration): correct trailing characters in ClickHouse migration SQL file](https://github.com/ethpandaops/xatu/commit/c4cd486d685c2c3c1169830489ae65cb660d2298) - 2025-10-01
+* [Commit] [Apply suggestion from @Savid](https://github.com/ethpandaops/xatu/commit/272a47920213447ac037dbe2eca405fd8df81433) - 2025-10-01
+* [Commit] [Apply suggestion from @Savid](https://github.com/ethpandaops/xatu/commit/80680fda3893b73f83515b0f5ca391e804972e5a) - 2025-10-01
+* [Commit] [feat(migrations): add direction column to metadata status tables](https://github.com/ethpandaops/xatu/commit/a809040a9c3925b4b90a436cdcc945cbe8cc206a) - 2025-10-01
+* [Commit] [feat: replace kzg_commitments with kzg_commitments_count in data_column_sidecar](https://github.com/ethpandaops/xatu/commit/dce3bdf8df1436984738fabe5ed85b5795f28c35) - 2025-10-01
+* [Commit] [refactor(migration): drop and recreate distributed tables to include direction column](https://github.com/ethpandaops/xatu/commit/6d93a34da41d6404c19c7efa979cfdecfa403753) - 2025-10-01
 ## Q3 2025
 
 

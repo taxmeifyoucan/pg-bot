@@ -8,6 +8,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 
 ## Contributions
 
+## Q4 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] [Modified `process_attestation` for Gloas](https://github.com/Consensys/teku/pull/9951) - 2025-10-01
+* [Commit] [Implement `process_payload_attestation` for Gloas (#9943)](https://github.com/Consensys/teku/commit/001ab8bb613137ee50262bcac8d49ac098d19597) - 2025-10-01
+* [Issue] [Test flakiness (loading Ephemery config)](https://github.com/Consensys/teku/issues/9950) - 2025-10-01
+* [Commit] [Remove TODO from DasCustodySyncTest (#9797)](https://github.com/Consensys/teku/commit/5a59f3dd8c3a78a6375d8993712f79a2ffbd796e) - 2025-10-01
 ## Q3 2025
 
 

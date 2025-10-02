@@ -8,6 +8,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 ## Contributions
 
+## Q4 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Pull Request] [Remove unused `data_column_cache.go`.](https://github.com/OffchainLabs/prysm/pull/15790) - 2025-10-01
+* [Issue] [Invalid digest](https://github.com/OffchainLabs/prysm/issues/15788) - 2025-10-01
+* [Issue] [Could not retrieve sampling size Error](https://github.com/OffchainLabs/prysm/issues/15787) - 2025-10-01
+* [Pull Request] [P2P service: Remove unused clock.](https://github.com/OffchainLabs/prysm/pull/15786) - 2025-10-01
+* [Commit] [Get blob fulu (#15610)](https://github.com/OffchainLabs/prysm/commit/7e32bbc1997e95b187add4b53786262a8c34a696) - 2025-10-01
 ## Q3 2025
 
 

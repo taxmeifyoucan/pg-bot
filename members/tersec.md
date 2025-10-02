@@ -8,6 +8,18 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q4 2025
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Commit] [Docs: Use consensus light client naming throughout the guide (#7560)](https://github.com/status-im/nimbus-eth2/commit/16142ff7770690fe807b0e8f762e8593b87e1b84) - 2025-10-01
+* [Commit] [don't attempt to reconstruct matrices sans requisite custody (#7558)](https://github.com/status-im/nimbus-eth2/commit/b81a02731713ed2b871fa8ebff39fc111416f447) - 2025-10-01
+* [Commit] [allow updating column subscriptions within fork/BPO (#7557)](https://github.com/status-im/nimbus-eth2/commit/c635f264c5962b4b5fd58dbdd4989d15eaee259e) - 2025-10-01
+* [Pull Request] [don't attempt to reconstruct matrices sans requisite custody](https://github.com/status-im/nimbus-eth2/pull/7558) - 2025-10-01
+* [Commit] [don't attempt to reconstruct matrices sans requisite custody](https://github.com/status-im/nimbus-eth2/commit/2b6a11a6a93896c671714849ed45e1f8ac470223) - 2025-10-01
+* [Pull Request] [allow updating column subscriptions within fork/BPO](https://github.com/status-im/nimbus-eth2/pull/7557) - 2025-10-01
+* [Commit] [allow updating column subscriptions within fork/BPO](https://github.com/status-im/nimbus-eth2/commit/a28546b5fd7c348c9e957221cc818051c6fcd484) - 2025-10-01
+* [Commit] [allow updating column subscriptions within fork/BPO](https://github.com/status-im/nimbus-eth2/commit/8f476dcbbea3992e7454cd6f0816241f9f4de090) - 2025-10-01
 ## Q3 2025
 
 

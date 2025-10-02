@@ -8,6 +8,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q4 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Issue] [[fusaka-holesky] processPendingDeposits can jump as high as 1.2s on epoch transitions](https://github.com/ChainSafe/lodestar/issues/8489) - 2025-10-01
+* [Issue] [[fusaka-holesky] Proposer lookahead processing times increasing epoch transition](https://github.com/ChainSafe/lodestar/issues/8488) - 2025-10-01
 ## Q3 2025
 
 

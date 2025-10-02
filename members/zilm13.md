@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 
 ## Contributions
 
+## Q4 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Commit] [VersionedHashDBSource tests (#9908)](https://github.com/Consensys/teku/commit/2d80867498bbade98ba1e333a60eb8c80a1f8846) - 2025-10-01
 ## Q3 2025
 
 

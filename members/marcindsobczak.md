@@ -8,6 +8,12 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 
 ## Contributions
 
+## Q4 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [selective gas limit increase hack](https://github.com/NethermindEth/nethermind/commit/ab9c68c18b585382e6c0656888054bf37c245df1) - 2025-10-01
+* [Commit] [tracing custom forks](https://github.com/NethermindEth/nethermind/commit/0c4c59410e2e8472e7560b0b6c1c93296fae551a) - 2025-10-01
 ## Q3 2025
 
 

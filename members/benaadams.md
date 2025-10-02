@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q4 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Fix ArrayPoolList disposal warning in Block.AccountChanges (#9385)](https://github.com/NethermindEth/nethermind/commit/a48d6384182e8470a33ce256105c83f7924776fb) - 2025-10-01
 ## Q3 2025
 
 

@@ -8,6 +8,16 @@ Team: Erigon
 
 ## Contributions
 
+## Q4 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [remote txpool: typed chainDB object  (#17303)](https://github.com/erigontech/erigon/commit/f16ac63e91f2a2ba918d81197a091e30512b72ef) - 2025-10-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/32f08e12a8482c343ed532a0d663fa5e5fbd52a7) - 2025-10-01
+* [Commit] [save](https://github.com/erigontech/erigon/commit/92499bd003d43bb47bef9203805912c0833d8afe) - 2025-10-01
+* [Pull Request] [remotedb: typed tx object](https://github.com/erigontech/erigon/pull/17304) - 2025-10-01
+* [Pull Request] [remote txpool: chandata](https://github.com/erigontech/erigon/pull/17303) - 2025-10-01
+* [Commit] [[r3.2] test workflows: user input sanitisation (addendum) (#17299)](https://github.com/erigontech/erigon/commit/3418e0712813b1978f91d0de88536d1dcd305e7c) - 2025-10-01
 ## Q3 2025
 
 

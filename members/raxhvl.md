@@ -8,6 +8,13 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Commit] [✨ feat(tests): test_bal_fully_unmutated_account](https://github.com/ethereum/execution-spec-tests/commit/97e7edcf6f0b1ac8effd0fa344cb27ecac71cc4b) - 2025-10-01
+* [Commit] [🥢 nit:](https://github.com/ethereum/execution-spec-tests/commit/f3ef32a7cf27ad5486c4ebe2ef6621eeeba8de9d) - 2025-10-01
+* [Commit] [✨ feat(test): test_bal_fully_unmutated_account](https://github.com/ethereum/execution-spec-tests/commit/aabc9915560a24effdac0b6a3fed9dace40bfb13) - 2025-10-01
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

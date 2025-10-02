@@ -8,6 +8,15 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 ## Contributions
 
+## Q4 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [review comments](https://github.com/NethermindEth/nethermind/commit/7b538c1d2b3c65d326a8759bc3ba4df3e367368b) - 2025-10-01
+* [Commit] [whitespace](https://github.com/NethermindEth/nethermind/commit/270d876be5286668285d3a3e8b3957336a7eead0) - 2025-10-01
+* [Commit] [rename TSuggested->TOrphaned](https://github.com/NethermindEth/nethermind/commit/4e273c91202557feae14883e87a0f98ce4c4b8ae) - 2025-10-01
+* [Commit] [fix tests](https://github.com/NethermindEth/nethermind/commit/acee31ff844817ebca1ede6efb6d78e429192d12) - 2025-10-01
+* [Commit] [Add IHeaderValidator.ValidateOrphaned](https://github.com/NethermindEth/nethermind/commit/a51129037849db2e73d9c9a46680adc3833e7e7c) - 2025-10-01
 ## Q3 2025
 
 

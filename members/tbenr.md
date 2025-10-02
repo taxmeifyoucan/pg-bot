@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 ## Contributions
 
+## Q4 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Commit] [Trim whitespace to fix specref CI check (#9954)](https://github.com/Consensys/teku/commit/bec1a4f3c58e0d8d2c6754d4ad5bf6269aeb907d) - 2025-10-01
 ## Q3 2025
 
 

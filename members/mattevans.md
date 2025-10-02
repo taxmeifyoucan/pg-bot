@@ -8,6 +8,27 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Commit] [feat: add support for Tysm consensus client in cannon and sentry](https://github.com/ethpandaops/xatu/commit/ad63cc760fd16a741bf349002dbecb3fc62a8bf6) - 2025-10-01
+* [Pull Request] [feat: one tysm to rule them all](https://github.com/ethpandaops/xatu/pull/670) - 2025-10-01
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Commit] [feat: add Grandine client logo to fork-readiness page](https://github.com/ethpandaops/lab/commit/1c418e0cc75943767453d6de25f4a7746091c035) - 2025-10-01
+* [Pull Request] [feat: add Grandine client logo to fork-readiness page](https://github.com/ethpandaops/lab/pull/113) - 2025-10-01
+* [Commit] [feat: add network-specific experiment config endpoint](https://github.com/ethpandaops/lab/commit/fc73ae0a157679209cf708e79407e09e064bd37d) - 2025-10-01
+* [Commit] [feat(middleware): add gzip compression middleware to reduce response payload size](https://github.com/ethpandaops/lab/commit/b1775f064a29bb521cd2b1d421237b9616b301bb) - 2025-10-01
+* [Commit] [chore: remove obsolete experiments_handler_test.go](https://github.com/ethpandaops/lab/commit/9c3318f6d1d670b19aac75a12b7a9bf26dec41ca) - 2025-10-01
+* [Pull Request] [feat: add network-specific experiment config endpoint](https://github.com/ethpandaops/lab/pull/112) - 2025-10-01
+* [Pull Request] [feat(middleware): add gzip middleware](https://github.com/ethpandaops/lab/pull/111) - 2025-10-01
+* [Commit] [cook](https://github.com/ethpandaops/lab/commit/d2d4418df47311cd3283e633e887c9993290fe42) - 2025-10-01
+* [Pull Request] [refactor(admin_cbt): query for min/max slots only](https://github.com/ethpandaops/lab/pull/109) - 2025-10-01
+* [Commit] [feat(fork-readiness): display unknown consensus clients that lack min version config](https://github.com/ethpandaops/lab/commit/82e360780cd774113f06fbfde577d04345679823) - 2025-10-01
+* [Pull Request] [feat(fork-readiness): display unknown consensus clients that lack min version config](https://github.com/ethpandaops/lab/pull/108) - 2025-10-01
+* [Commit] [feat: add Tysm client support with logo handling and improve UI formatting](https://github.com/ethpandaops/lab/commit/8859bc4eb929926e32783c51db0b3acea57a1f46) - 2025-10-01
+* [Pull Request] [feat: add Tysm client support](https://github.com/ethpandaops/lab/pull/106) - 2025-10-01
 ## Q3 2025
 
 

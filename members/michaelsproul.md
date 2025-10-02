@@ -8,6 +8,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 ## Contributions
 
+## Q4 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Issue] [Fork choice write lock held during database write](https://github.com/sigp/lighthouse/issues/8147) - 2025-10-01
+* [Pull Request] [Improve spec compliance for `/eth/v1/config/spec` API](https://github.com/sigp/lighthouse/pull/8144) - 2025-10-01
 ## Q3 2025
 
 

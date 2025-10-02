@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 
 ## Contributions
 
+## Q4 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] [add no-op bls signature verifier](https://github.com/Consensys/teku/pull/9953) - 2025-10-01
+* [Pull Request] [Revert "Focil gloas"](https://github.com/Consensys/teku/pull/9952) - 2025-10-01
 ## Q3 2025
 
 

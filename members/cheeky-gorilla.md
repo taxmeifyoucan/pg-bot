@@ -8,6 +8,13 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 
 ## Contributions
 
+## Q4 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Piper + Portal working group](https://github.com/protocolguild/documentation/pull/423) - 2025-10-01
+* [Commit] [Add missing handle](https://github.com/protocolguild/documentation/commit/855b02490d1eb2ef9202104b2395514ebe9e3c30) - 2025-10-01
+* [Commit] [Rename Prysmatic Labs to Offchain Labs](https://github.com/protocolguild/documentation/commit/723caf509fd56ca1052c042986c7cf92c05082ba) - 2025-10-01
 ## Q3 2025
 
 

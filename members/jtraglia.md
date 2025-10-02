@@ -8,6 +8,14 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 ## Contributions
 
+## Q4 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] [Trim trailing whitespace to fix specrefs CI check](https://github.com/Consensys/teku/pull/9954) - 2025-10-01
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Commit] [Fix weak subjectivity checkpoint check (#4620)](https://github.com/ethereum/consensus-specs/commit/4f743484b404c42988194a7160f2f532d69cc2d0) - 2025-10-01
 ## Q3 2025
 
 

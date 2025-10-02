@@ -8,6 +8,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 ## Contributions
 
+## Q4 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [Reduce log level (#9254)](https://github.com/hyperledger/besu/commit/ff6f9a4e93ad3a820a63cf5d791ecddd92ba849d) - 2025-10-01
+* [Pull Request] [chore: reduce noisy logging](https://github.com/hyperledger/besu/pull/9254) - 2025-10-01
 ## Q3 2025
 
 

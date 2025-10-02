@@ -8,6 +8,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Issue] [Improve `mypy` check in `make lint`](https://github.com/ethereum/consensus-specs/issues/4628) - 2025-10-01
+* [Pull Request] [Migrate config to `pyproject.toml` and use `uv` for project management](https://github.com/ethereum/consensus-specs/pull/4627) - 2025-10-01
 ## Q3 2025
 
 

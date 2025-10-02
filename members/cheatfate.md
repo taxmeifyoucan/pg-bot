@@ -8,6 +8,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q4 2025
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Commit] [Add more debug statements to verifiers.](https://github.com/status-im/nimbus-eth2/commit/62d1f72a2cba501d9808f0d85cf398ae7b31a6f0) - 2025-10-01
+* [Commit] [Make requests non-relevant more strict.](https://github.com/status-im/nimbus-eth2/commit/a002d7875928c8ffdf2242b39fcd7ef3318f0c7f) - 2025-10-01
 ## Q3 2025
 
 

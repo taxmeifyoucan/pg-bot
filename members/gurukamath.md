@@ -8,6 +8,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Commit] [chore(deps,tooling): bump ruff to latest version (#1445)](https://github.com/ethereum/execution-specs/commit/26c7daf42c968e0715fc69dbe6876c2a6a1601dd) - 2025-10-01
 ## Q3 2025
 
 

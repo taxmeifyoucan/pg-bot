@@ -8,6 +8,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 
 ## Contributions
 
+## Q4 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Remove unnecessary warning logs and update logging levels](https://github.com/sigp/lighthouse/pull/8145) - 2025-10-01
+* [Issue] [Investigate Lighthouse supernode bandwidth usage from the devnet-5 report](https://github.com/sigp/lighthouse/issues/8143) - 2025-10-01
 ## Q3 2025
 
 

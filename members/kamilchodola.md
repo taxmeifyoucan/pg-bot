@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q4 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [[Nethermind] Add Marcos Maceo (part-time)](https://github.com/protocolguild/documentation/pull/422) - 2025-10-01
 ## Q3 2025
 
 

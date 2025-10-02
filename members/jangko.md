@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 
 ## Contributions
 
+## Q4 2025
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Commit] [Bump nim-eth: move enode to eth/enode (#3731)](https://github.com/status-im/nimbus-eth1/commit/59aad34c024a72d09a9458ae12754f1475fe558f) - 2025-10-01
 ## Q3 2025
 
 

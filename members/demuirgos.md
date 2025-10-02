@@ -8,6 +8,11 @@ Team: Nethermind
 
 ## Contributions
 
+## Q4 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Remove Focal from PPA (#9358)](https://github.com/NethermindEth/nethermind/commit/ed2dcf00216c408f21ddfb0ce641e472a9f4c111) - 2025-10-01
 ## Q3 2025
 
 

@@ -8,6 +8,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 
 ## Contributions
 
+## Q4 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [Make `ConfigureEngineEvm` methods faillible](https://github.com/paradigmxyz/reth/issues/18810) - 2025-10-01
 ## Q3 2025
 
 

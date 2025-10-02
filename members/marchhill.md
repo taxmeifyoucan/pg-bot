@@ -7,6 +7,17 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 
 ## Contributions
 
+## Q4 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Pull Request] [Blockchain Engine Tests support](https://github.com/NethermindEth/nethermind/pull/9394) - 2025-10-01
+* [Commit] [formatting](https://github.com/NethermindEth/nethermind/commit/94cda6a76f74fa03458a8ea7097b6079605e443f) - 2025-10-01
+* [Commit] [nit changes](https://github.com/NethermindEth/nethermind/commit/3406a6e697c2ea32fd3111557036f9297dfe18a2) - 2025-10-01
+* [Commit] [fix BAL decoding in execution payload](https://github.com/NethermindEth/nethermind/commit/ce700c26bd0213fbc9696282c01d8076f0a43c77) - 2025-10-01
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Marc Harvey-Hill (Nethermind) 0.5->1](https://github.com/protocolguild/documentation/pull/421) - 2025-10-01
 ## Q3 2025
 
 

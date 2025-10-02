@@ -8,6 +8,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/evmone](https://github.com/ethereum/evmone)
+* [Commit] [crypto: Fix handling of the input point-at-infinity in secp256r1 (#1328)](https://github.com/ipsilon/evmone/commit/d561fcb35ced9e60bdc0aa60e2edc7ac8c537a4c) - 2025-10-01
+* [Commit] [crypto: Fix handling of the input point-at-infinity in secp256r1](https://github.com/ipsilon/evmone/commit/25898a412f5c4ac43d9a01be17cede68dfad5c8c) - 2025-10-01
 ## Q3 2025
 
 

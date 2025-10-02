@@ -8,6 +8,15 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 
 ## Contributions
 
+## Q4 2025
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Commit] [Set finalized flag in ForkedChain importBlock (#3734)](https://github.com/status-im/nimbus-eth1/commit/8ee3285d4af0966f51db180f39443d78b1d06c4d) - 2025-10-01
+* [Pull Request] [Set isFinalized flag inside ForkedChain importBlock call](https://github.com/status-im/nimbus-eth1/pull/3734) - 2025-10-01
+* [Commit] [Fix segfault when processing bad block (#3733)](https://github.com/status-im/nimbus-eth1/commit/bb401004bad0f28c40c709ae8960918f0266e2b2) - 2025-10-01
+* [Pull Request] [Fix segfault when processing bad block](https://github.com/status-im/nimbus-eth1/pull/3733) - 2025-10-01
+* [Commit] [Create snapshot on parent frame to prevent disposing a frame containing a snapshot on failed validation.](https://github.com/status-im/nimbus-eth1/commit/c9cc37b0d81fe58f8ac774c3fe8fe42f0b28eb85) - 2025-10-01
 ## Q3 2025
 
 

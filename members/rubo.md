@@ -8,6 +8,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q4 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Optimize manual packaging](https://github.com/NethermindEth/nethermind/commit/39b18b99291d53eeedd0daba5062f976206f7292) - 2025-10-01
+* [Commit] [Remove System.Linq.Async package](https://github.com/NethermindEth/nethermind/commit/01a6b79e211b0521af66d76db0e116d3b6728d80) - 2025-10-01
+* [Commit] [Fix formatting](https://github.com/NethermindEth/nethermind/commit/7851826716392a98fc3f6a23a29eaf97cb2d0e94) - 2025-10-01
+* [Pull Request] [Migrate to .NET 10](https://github.com/NethermindEth/nethermind/pull/9391) - 2025-10-01
+* [Commit] [Drop BlockReceiptsTracer._otherTracer on EndBlockTrace (#9387)](https://github.com/NethermindEth/nethermind/commit/f208b219b1ad461230acdae40b87aded5dd5592d) - 2025-10-01
 ## Q3 2025
 
 

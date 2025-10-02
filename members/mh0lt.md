@@ -8,6 +8,13 @@ Team: Erigon
 
 ## Contributions
 
+## Q4 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [rpcademon: update rpc-test with new label latest test (#17298)](https://github.com/erigontech/erigon/commit/bdc5f1c336345893983021c8b83ffa308ebed1d1) - 2025-10-01
+* [Pull Request] [Move exec metrics](https://github.com/erigontech/erigon/pull/17306) - 2025-10-01
+* [Commit] [remove dup call](https://github.com/erigontech/erigon/commit/72f52ea2e12c1f1417fbea3fae6ddc3df4441934) - 2025-10-01
 ## Q3 2025
 
 

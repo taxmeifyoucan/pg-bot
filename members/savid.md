@@ -8,6 +8,21 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Commit] [add Netherlands](https://github.com/ethpandaops/lab/commit/3a3745d79fe02960dc4dca58c2fdfd03a337e9b0) - 2025-10-01
+* [Commit] [add fallback](https://github.com/ethpandaops/lab/commit/d6d8e27549b66b6c6fac629b9612ad03e7acd46a) - 2025-10-01
+* [Commit] [make some tables optional](https://github.com/ethpandaops/lab/commit/bd576a37eb21a70f10c9ab1f9a2e9e76d3623bfc) - 2025-10-01
+* [Pull Request] [make some tables optional](https://github.com/ethpandaops/lab/pull/114) - 2025-10-01
+* [Commit] [max slot-2](https://github.com/ethpandaops/lab/commit/6f5ec78fe4b0b2f156b96f3a206cdb318a52a755) - 2025-10-01
+* [Commit] [fix beacon slot page](https://github.com/ethpandaops/lab/commit/8eeb2714e2a451d1239d4420bd5106b0cf098338) - 2025-10-01
+* [Commit] [refactor: update experiment config endpoints to be network-specific](https://github.com/ethpandaops/lab/commit/d9a8c997bee656bada179a39cdebc50413630adf) - 2025-10-01
+* [Commit] [refactor(proto): remove unused timestamp and slot fields from ExperimentDataAvailability](https://github.com/ethpandaops/lab/commit/2cb65b9ab7da9e64e65912a4c8fdb400e1588baf) - 2025-10-01
+* [Commit] [update fe](https://github.com/ethpandaops/lab/commit/e24ec3d35b289b875f7ab6ea0c6d40298ce561d5) - 2025-10-01
+* [Commit] [refactor: remove SlotDataStore singleton and simplify data flow](https://github.com/ethpandaops/lab/commit/25fc486e0a3259e64cae3dca35e438922a339ea3) - 2025-10-01
+* [Pull Request] [refactor: remove SlotDataStore singleton and simplify data flow](https://github.com/ethpandaops/lab/pull/110) - 2025-10-01
 ## Q3 2025
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)

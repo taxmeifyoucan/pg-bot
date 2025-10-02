@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 
 ## Contributions
 
+## Q4 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Add block period for PoS to protocol spec](https://github.com/hyperledger/besu/pull/9257) - 2025-10-01
 ## Q3 2025
 
 

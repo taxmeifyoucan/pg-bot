@@ -8,6 +8,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 ## Contributions
 
+## Q4 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [Use improved ckzg version (#9393)](https://github.com/NethermindEth/nethermind/commit/b1204c8fdcdd94b5f27564c068854c23fbbcd482) - 2025-10-01
+* [Commit] [Perf/PatriciaTree bulk set (#9215)](https://github.com/NethermindEth/nethermind/commit/c28c7fef252fc11074bbd7eff8b594b962b03826) - 2025-10-01
+* [Pull Request] [Use improved ckzg version](https://github.com/NethermindEth/nethermind/pull/9393) - 2025-10-01
 ## Q3 2025
 
 

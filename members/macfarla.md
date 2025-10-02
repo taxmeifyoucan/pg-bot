@@ -8,6 +8,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 ## Contributions
 
+## Q4 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [rotate changelog for 25.10.0-RC1 (#9251)](https://github.com/hyperledger/besu/commit/0cc275c20b3d6746ad4841026513dcd63932d8d1) - 2025-10-01
+* [Commit] [fix test for wei formatting (#9231)](https://github.com/hyperledger/besu/commit/40004b394657f23156b931224b20e1ac53f2cda9) - 2025-10-01
 ## Q3 2025
 
 

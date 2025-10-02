@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 
 ## Contributions
 
+## Q4 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Remove `ethers-core` from `execution_layer`](https://github.com/sigp/lighthouse/pull/8149) - 2025-10-01
 ## Q3 2025
 
 

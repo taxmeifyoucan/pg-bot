@@ -8,6 +8,14 @@ Team: Erigon
 
 ## Contributions
 
+## Q4 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [qa-tests: add plot upload task to all sync from scratch workflows](https://github.com/erigontech/erigon/pull/17312) - 2025-10-01
+* [Commit] [qa-test: add Hoodi to the test report (#17198)](https://github.com/erigontech/erigon/commit/9fe16501ba39702a01365d2d555f83e319d81665) - 2025-10-01
+* [Commit] [Fix EEST error returns (#17300)](https://github.com/erigontech/erigon/commit/0dc17a1aead49b12a183e568a8eb635c2036154b) - 2025-10-01
+* [Pull Request] [[r3.1] test workflows: user input sanitisation](https://github.com/erigontech/erigon/pull/17305) - 2025-10-01
 ## Q3 2025
 
 

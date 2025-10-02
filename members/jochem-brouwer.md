@@ -8,6 +8,11 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Issue] [Feature request: read results of the generated blocks](https://github.com/ethereum/execution-spec-tests/issues/2241) - 2025-10-01
 ## Q3 2025
 
 

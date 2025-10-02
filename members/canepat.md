@@ -8,6 +8,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 ## Contributions
 
+## Q4 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [qa_tests: disable eth_blobBaseFee in RPC latest tests](https://github.com/erigontech/erigon/pull/17307) - 2025-10-01
 ## Q3 2025
 
 
