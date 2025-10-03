@@ -15,6 +15,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [nits and cleanup](https://github.com/bluealloy/revm/commit/82638cf48074cad5a30cca8d1e8314404db652ef) - 2025-10-01
 * [Commit] [move caller_touch_and_change to Account](https://github.com/bluealloy/revm/commit/e118fb8890ce6cc23c1b48073eefb27b60caa0c8) - 2025-10-01
 * [Commit] [refactor(inspector): remove unnecessary mutable borrow in GasInspector::step_end (#3035)](https://github.com/bluealloy/revm/commit/c56206a29fbd6522e15f99997c88ff92819a5dc1) - 2025-10-01
+* [Commit] [chore: remove unreachable zero-denominator check in fake_exponential (#3039)](https://github.com/bluealloy/revm/commit/fe231030d5dbe2ebcc56c7b1de7d3a390ce7f4f2) - 2025-10-02
+* [Commit] [chore: helper function gas_balance_spending (#3030)](https://github.com/bluealloy/revm/commit/ef98432ab85df1345ef9731f270efc74ba2db18d) - 2025-10-02
+* [Pull Request] [chore(op): split paths for deposit tx in caller deduction](https://github.com/bluealloy/revm/pull/3041) - 2025-10-02
+* [Commit] [chore: helper caller_initial_modification added (#3032)](https://github.com/bluealloy/revm/commit/1c91a12fb71cd1348de339e9c31f8a663eda9f93) - 2025-10-02
+* [Pull Request] [Rakita/helper calculate caller fee](https://github.com/bluealloy/revm/pull/3040) - 2025-10-02
+* [Commit] [rename to caller_initial_modification](https://github.com/bluealloy/revm/commit/c0e764fa05718d492cc28f33424cd8a57242b3e3) - 2025-10-02
 ## Q3 2025
 
 

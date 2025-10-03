@@ -8,6 +8,16 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [build: rm ubuntu from appveyor, skip spec tests on windows](https://github.com/ethereum/go-ethereum/pull/32829) - 2025-10-02
+* [Commit] [trie: cleaner array concatenation (#32756)](https://github.com/ethereum/go-ethereum/commit/1e4b39ed122f475ac3f776ae66c8d065e845a84e) - 2025-10-02
+* [Commit] [p2p/enode: fix asyncfilter comment (#32823)](https://github.com/ethereum/go-ethereum/commit/4927e89647a0d27f284472aa563890035d3662db) - 2025-10-02
+* [Issue] [New eth_getCapabilities method](https://github.com/ethereum/go-ethereum/issues/32828) - 2025-10-02
+* [Issue] [State history range doesn't change](https://github.com/ethereum/go-ethereum/issues/32825) - 2025-10-02
+* [Commit] [core: refactor StateProcessor to accept ChainContext interface (#32739)](https://github.com/ethereum/go-ethereum/commit/fc8c8c1314a0fafc56297332729c2c00372e837e) - 2025-10-02
 ## Q3 2025
 
 

@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q4 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Raúl Kripalani from EF P2P team](https://github.com/protocolguild/documentation/pull/428) - 2025-10-02
 ## Q3 2025
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)

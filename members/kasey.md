@@ -8,6 +8,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 
 ## Contributions
 
+## Q4 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [unit test](https://github.com/OffchainLabs/prysm/commit/0d2043a910f8f385ab730149a91d673b34c9bcda) - 2025-10-02
+* [Commit] [update tests that relied on fulu being far future](https://github.com/OffchainLabs/prysm/commit/589afffc7261d30f710036b641405e526e780cdf) - 2025-10-02
+* [Commit] [exclude unscheduled forks from the schedule](https://github.com/OffchainLabs/prysm/commit/4637b06911ab81d6745afbc6e5037cdcb6c618ff) - 2025-10-02
+* [Pull Request] [exclude unscheduled forks from the schedule](https://github.com/OffchainLabs/prysm/pull/15799) - 2025-10-02
+* [Commit] [bonus: this log generates a lot of noise, bump it down to trace](https://github.com/OffchainLabs/prysm/commit/69fc7a7828cdc004e4ea750cf089460249f71ae2) - 2025-10-02
+* [Pull Request] [ignore version|digest mismatch if far future](https://github.com/OffchainLabs/prysm/pull/15798) - 2025-10-02
+* [Commit] [ignore version/digest mismatch if far future](https://github.com/OffchainLabs/prysm/commit/943e383f343e3cca66d423bc30a8bf9cfeee17f3) - 2025-10-02
+* [Commit] [ignore version/digest mismatch if far future](https://github.com/OffchainLabs/prysm/commit/be696c23230640fc523f0702880f1ea84cba9cba) - 2025-10-02
 ## Q3 2025
 
 

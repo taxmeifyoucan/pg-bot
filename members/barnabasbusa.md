@@ -8,6 +8,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Pull Request] [fix: hack to use ip instead of dns](https://github.com/ethpandaops/dora/pull/493) - 2025-10-02
+* [Commit] [fix: add supported columns as an array instead of bool](https://github.com/ethpandaops/dora/commit/f816bc222e9f8ea5532b50220530acdf713cfa2c) - 2025-10-02
 ## Q3 2025
 
 

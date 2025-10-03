@@ -8,6 +8,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q4 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [rpc: fix commitment history check in eth_simulateV1 (#17324)](https://github.com/erigontech/erigon/commit/a1722875e78ca0cc728906627546832c7ece1973) - 2025-10-02
+* [Commit] [make](https://github.com/erigontech/erigon/commit/3ec425407d7599c9430556c7a704686f0d39ada1) - 2025-10-02
+* [Commit] [execution: fix deadlock in block building when run in envs with 1 erigon block builder (#17213)](https://github.com/erigontech/erigon/commit/29bc2cd3556fc401ba446cd825e7d56cb78f8cff) - 2025-10-02
+* [Commit] [[r32] Bump eth mainnet default block gas limit to 60M (#17321)](https://github.com/erigontech/erigon/commit/7aa0861aaf244fab4685fbbcf4258806839433a2) - 2025-10-02
 ## Q3 2025
 
 

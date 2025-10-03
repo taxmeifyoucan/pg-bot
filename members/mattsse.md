@@ -8,6 +8,14 @@ Team: Reth
 
 ## Contributions
 
+## Q4 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [docs: apply spelling and grammar fixes](https://github.com/paradigmxyz/reth/pull/18836) - 2025-10-02
+* [Commit] [docs: apply spelling and grammar fixes from unmerged PRs](https://github.com/paradigmxyz/reth/commit/b40191b29849e1a41775d5982ff6c690a5ada605) - 2025-10-02
+* [Commit] [docs: apply spelling and grammar fixes from unmerged PRs](https://github.com/paradigmxyz/reth/commit/3a7ea3e15f7a5a4674e5d3ac7c6d691c000bf5dd) - 2025-10-02
+* [Pull Request] [docs: apply spelling and grammar fixes from unmerged PRs](https://github.com/paradigmxyz/reth/pull/18835) - 2025-10-02
 ## Q3 2025
 
 

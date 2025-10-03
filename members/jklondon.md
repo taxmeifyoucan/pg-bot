@@ -8,6 +8,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q4 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [qa_tests: fix DUMP_RESPONSE in RPC latest test runner (#17275)](https://github.com/erigontech/erigon/commit/5ba59962504c743f216000bebcd5af4c8563fd49) - 2025-10-02
 ## Q3 2025
 
 

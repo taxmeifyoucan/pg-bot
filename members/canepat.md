@@ -13,6 +13,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [qa_tests: disable eth_blobBaseFee in RPC latest tests](https://github.com/erigontech/erigon/pull/17307) - 2025-10-01
+* [Pull Request] [rpc: fix commitment history check in eth_simulateV1](https://github.com/erigontech/erigon/pull/17324) - 2025-10-02
+* [Pull Request] [rpc: simulated blocks as canonical in eth_simulateV1](https://github.com/erigontech/erigon/pull/17322) - 2025-10-02
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Commit] [integration: refactor WebSocket integration utilities (#468)](https://github.com/erigontech/rpc-tests/commit/4f415d317dc3637648781b043ac3b002aa209132) - 2025-10-02
 ## Q3 2025
 
 

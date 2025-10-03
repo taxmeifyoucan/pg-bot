@@ -17,6 +17,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [rename TSuggested->TOrphaned](https://github.com/NethermindEth/nethermind/commit/4e273c91202557feae14883e87a0f98ce4c4b8ae) - 2025-10-01
 * [Commit] [fix tests](https://github.com/NethermindEth/nethermind/commit/acee31ff844817ebca1ede6efb6d78e429192d12) - 2025-10-01
 * [Commit] [Add IHeaderValidator.ValidateOrphaned](https://github.com/NethermindEth/nethermind/commit/a51129037849db2e73d9c9a46680adc3833e7e7c) - 2025-10-01
+* [Commit] [Fix `eth_getProofs` bug with inline storage nodes (#9367)](https://github.com/NethermindEth/nethermind/commit/b7c40248d9800068d7fa8a63066b13659fdc2571) - 2025-10-02
 ## Q3 2025
 
 

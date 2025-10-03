@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 
 ## Contributions
 
+## Q4 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] [cleaned up deprecated config items](https://github.com/Consensys/teku/pull/9963) - 2025-10-02
 ## Q3 2025
 
 

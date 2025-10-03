@@ -14,6 +14,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Reduce log level (#9254)](https://github.com/hyperledger/besu/commit/ff6f9a4e93ad3a820a63cf5d791ecddd92ba849d) - 2025-10-01
 * [Pull Request] [chore: reduce noisy logging](https://github.com/hyperledger/besu/pull/9254) - 2025-10-01
+* [Pull Request] [test: add Osaka Engine acceptance test](https://github.com/hyperledger/besu/pull/9268) - 2025-10-02
+* [Commit] [Use timestamp from head to validate fork for getBlobs (#9265)](https://github.com/hyperledger/besu/commit/49b2074b2e245df4769ded59e237d849ee541b02) - 2025-10-02
+* [Pull Request] [fix: use timestamp from head to validate fork for getBlobs](https://github.com/hyperledger/besu/pull/9265) - 2025-10-02
 ## Q3 2025
 
 

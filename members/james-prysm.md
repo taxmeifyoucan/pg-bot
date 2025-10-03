@@ -8,6 +8,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 
 ## Contributions
 
+## Q4 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [`requestAndSaveMissingDataColumnSidecars`: Fix log (#15794)](https://github.com/OffchainLabs/prysm/commit/b24fe0d23a9302c9bdc186ea953876d1e625a389) - 2025-10-02
+* [Commit] [fixing test](https://github.com/OffchainLabs/prysm/commit/71ed6a89918b2c4d648b6c09bd676006ff5daac9) - 2025-10-02
+* [Commit] [Change LC p2p validation rules (#15783)](https://github.com/OffchainLabs/prysm/commit/cbe50269deece6dcfdc0007441ba310722dc8147) - 2025-10-02
+* [Commit] [gaz and removing unneeded from test](https://github.com/OffchainLabs/prysm/commit/ead5f41536b429be63d17be8cc6ebba1a6d5ff3c) - 2025-10-02
+* [Pull Request] [removing old unused configs and hiding configs to align with other cl…](https://github.com/OffchainLabs/prysm/pull/15797) - 2025-10-02
 ## Q3 2025
 
 

@@ -16,6 +16,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [nit changes](https://github.com/NethermindEth/nethermind/commit/3406a6e697c2ea32fd3111557036f9297dfe18a2) - 2025-10-01
 * [Commit] [fix BAL decoding in execution payload](https://github.com/NethermindEth/nethermind/commit/ce700c26bd0213fbc9696282c01d8076f0a43c77) - 2025-10-01
 
+* [Commit] [codehash](https://github.com/NethermindEth/nethermind/commit/89bf5f92a4782755e90ad6c35f94a9bbc44f3a1e) - 2025-10-02
+* [Commit] [trace get account balance](https://github.com/NethermindEth/nethermind/commit/878b787fb8b542b40dfe6e91ebc4a1c5c31f79dc) - 2025-10-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Marc Harvey-Hill (Nethermind) 0.5->1](https://github.com/protocolguild/documentation/pull/421) - 2025-10-01
 ## Q3 2025

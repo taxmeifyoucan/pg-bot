@@ -15,6 +15,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Use improved ckzg version (#9393)](https://github.com/NethermindEth/nethermind/commit/b1204c8fdcdd94b5f27564c068854c23fbbcd482) - 2025-10-01
 * [Commit] [Perf/PatriciaTree bulk set (#9215)](https://github.com/NethermindEth/nethermind/commit/c28c7fef252fc11074bbd7eff8b594b962b03826) - 2025-10-01
 * [Pull Request] [Use improved ckzg version](https://github.com/NethermindEth/nethermind/pull/9393) - 2025-10-01
+* [Commit] [Safer types for a one of case (#9398)](https://github.com/NethermindEth/nethermind/commit/4fbc27c6259412317a63cc59e71652336a705d3a) - 2025-10-02
+* [Commit] [Apply suggestions from code review](https://github.com/NethermindEth/nethermind/commit/2bc1f1e30a6be34ae5b0586f84062752a6b9a80e) - 2025-10-02
+* [Commit] [Clean up a bit](https://github.com/NethermindEth/nethermind/commit/6298506044dea39d103b2b05410f024111238098) - 2025-10-02
+* [Pull Request] [Safer types for a one of case](https://github.com/NethermindEth/nethermind/pull/9398) - 2025-10-02
+* [Commit] [Better naming](https://github.com/NethermindEth/nethermind/commit/e932343e76c92ddc55dc9054b02e06c062be9dae) - 2025-10-02
 ## Q3 2025
 
 

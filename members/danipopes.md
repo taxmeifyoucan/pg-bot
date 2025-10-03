@@ -8,6 +8,11 @@ Team: Reth
 
 ## Contributions
 
+## Q4 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [ci: cache zepter installation](https://github.com/paradigmxyz/reth/pull/18843) - 2025-10-02
 ## Q3 2025
 
 

@@ -8,6 +8,11 @@ Team: Reth
 
 ## Contributions
 
+## Q4 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Commit] [chore: resolve unused import warning in reth RPC API subscription attribute (#16975)](https://github.com/paradigmxyz/reth/commit/8f16e2199f9d46a8dc511639a32d584dc1057834) - 2025-10-02
 ## Q3 2025
 
 

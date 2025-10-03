@@ -8,6 +8,19 @@ Team: EthereumJS
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
+* [Commit] [chore: attempt to fix some more ci actions](https://github.com/ethereumjs/ethereumjs-monorepo/commit/29b624a2fdecb5a383d5535d89464017b20b2ac6) - 2025-10-03
+* [Commit] [chore: attempt to fix binarytree ci](https://github.com/ethereumjs/ethereumjs-monorepo/commit/1a7faf35a9a9f0a2e4f0044bc16514d52cf3350a) - 2025-10-03
+* [Commit] [chore: attempt ot fix binary trie ci](https://github.com/ethereumjs/ethereumjs-monorepo/commit/dc8bee3880baf820f9b187697c390f89a55a1de6) - 2025-10-03
+* [Commit] [chore: remove auto version](https://github.com/ethereumjs/ethereumjs-monorepo/commit/9cebcb6cd6771982c6b51a57ca7534a992095838) - 2025-10-02
+* [Commit] [chore: fix binarytree ci](https://github.com/ethereumjs/ethereumjs-monorepo/commit/e104794893610c77b1b698b308113d28cece43df) - 2025-10-02
+* [Commit] [chore: test alternative ci](https://github.com/ethereumjs/ethereumjs-monorepo/commit/74da3095c7e74d0282f7f43451e9972c6ecbc991) - 2025-10-02
+* [Commit] [fix: apply correct pnpm workspace pattern to blockchain-build.yml](https://github.com/ethereumjs/ethereumjs-monorepo/commit/972a8436cb527a26370a3118c159e83917291ef8) - 2025-10-02
+* [Commit] [fix: implement correct pnpm workspace workflow pattern](https://github.com/ethereumjs/ethereumjs-monorepo/commit/1542a933e26fa31116d497d588f25b6c505b0933) - 2025-10-02
+* [Commit] [chore: adjust build test workflow](https://github.com/ethereumjs/ethereumjs-monorepo/commit/bcc8789ae2cc02a5d8c2a5f95903e8a22e21e95c) - 2025-10-02
 ## Q3 2025
 
 

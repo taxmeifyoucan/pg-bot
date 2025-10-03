@@ -17,6 +17,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Fix segfault when processing bad block (#3733)](https://github.com/status-im/nimbus-eth1/commit/bb401004bad0f28c40c709ae8960918f0266e2b2) - 2025-10-01
 * [Pull Request] [Fix segfault when processing bad block](https://github.com/status-im/nimbus-eth1/pull/3733) - 2025-10-01
 * [Commit] [Create snapshot on parent frame to prevent disposing a frame containing a snapshot on failed validation.](https://github.com/status-im/nimbus-eth1/commit/c9cc37b0d81fe58f8ac774c3fe8fe42f0b28eb85) - 2025-10-01
+* [Pull Request] [Add assertions to txFrame to prevent use after dispose](https://github.com/status-im/nimbus-eth1/pull/3739) - 2025-10-02
+* [Commit] [Update comments.](https://github.com/status-im/nimbus-eth1/commit/042073ed2987b5da4a3ab9c4483f9f26c74c2c51) - 2025-10-02
+* [Commit] [More forked chain and txFrame tests (#3738)](https://github.com/status-im/nimbus-eth1/commit/661a2caec79b0f79c8e15472391b863f9fb7f019) - 2025-10-02
 ## Q3 2025
 
 

@@ -17,6 +17,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix formatting](https://github.com/NethermindEth/nethermind/commit/7851826716392a98fc3f6a23a29eaf97cb2d0e94) - 2025-10-01
 * [Pull Request] [Migrate to .NET 10](https://github.com/NethermindEth/nethermind/pull/9391) - 2025-10-01
 * [Commit] [Drop BlockReceiptsTracer._otherTracer on EndBlockTrace (#9387)](https://github.com/NethermindEth/nethermind/commit/f208b219b1ad461230acdae40b87aded5dd5592d) - 2025-10-01
+* [Commit] [Fix ArrayPoolList disposal warning in Block.AccountChanges (#9385)](https://github.com/NethermindEth/nethermind/commit/a48d6384182e8470a33ce256105c83f7924776fb) - 2025-10-02
+* [Commit] [Disconnect on BlockRangeUpdateMessage with empty hash (#9384)](https://github.com/NethermindEth/nethermind/commit/aa8c0c24295e864b67a3925d76c0f231f8745338) - 2025-10-02
 ## Q3 2025
 
 

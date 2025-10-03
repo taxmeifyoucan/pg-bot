@@ -8,6 +8,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q4 2025
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Commit] [Regenerate AllTests](https://github.com/status-im/nimbus-eth2/commit/098091081f6af58a4d186f0fbb56d5bf8479724c) - 2025-10-02
+* [Commit] [Pass SECONDS_PER_SLOT to BeaconClock module](https://github.com/status-im/nimbus-eth2/commit/2f12f5688b4aa1c7b035b94c4216e453afd85912) - 2025-10-02
+* [Pull Request] [Pass SECONDS_PER_SLOT to BeaconClock module](https://github.com/status-im/nimbus-eth2/pull/7566) - 2025-10-02
+* [Commit] [Pass SECONDS_PER_SLOT to BeaconClock module](https://github.com/status-im/nimbus-eth2/commit/f4b15fd63380677a53c60fa02ff93413fa30dec1) - 2025-10-02
 ## Q3 2025
 
 

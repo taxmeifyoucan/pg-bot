@@ -14,6 +14,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [rotate changelog for 25.10.0-RC1 (#9251)](https://github.com/hyperledger/besu/commit/0cc275c20b3d6746ad4841026513dcd63932d8d1) - 2025-10-01
 * [Commit] [fix test for wei formatting (#9231)](https://github.com/hyperledger/besu/commit/40004b394657f23156b931224b20e1ac53f2cda9) - 2025-10-01
+* [Issue] [Add CLI option to customise ethstats reporting interval](https://github.com/hyperledger/besu/issues/9270) - 2025-10-02
+* [Commit] [uprev jc-kzg dependency (#9261)](https://github.com/hyperledger/besu/commit/48094a59724467d07382c5abb484dae968ad74bb) - 2025-10-02
+* [Commit] [Add vh and commitment size validation (#9262)](https://github.com/hyperledger/besu/commit/1e88e37d718de69dce2eae79b17f82a80ca80675) - 2025-10-02
+* [Commit] [Add bpos to adminnodeInfo (#9263)](https://github.com/hyperledger/besu/commit/e9b48d9ee642ef41eb65729e10ce399993d03a2c) - 2025-10-02
 ## Q3 2025
 
 

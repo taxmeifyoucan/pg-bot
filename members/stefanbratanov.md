@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Implement `process_payload_attestation` for Gloas (#9943)](https://github.com/Consensys/teku/commit/001ab8bb613137ee50262bcac8d49ac098d19597) - 2025-10-01
 * [Issue] [Test flakiness (loading Ephemery config)](https://github.com/Consensys/teku/issues/9950) - 2025-10-01
 * [Commit] [Remove TODO from DasCustodySyncTest (#9797)](https://github.com/Consensys/teku/commit/5a59f3dd8c3a78a6375d8993712f79a2ffbd796e) - 2025-10-01
+* [Commit] [Barebone/stub block production for Gloas (#9962)](https://github.com/Consensys/teku/commit/8b7486408e2ce05e52447025e543aaed2d55ea02) - 2025-10-02
 ## Q3 2025
 
 

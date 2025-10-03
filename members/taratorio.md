@@ -8,6 +8,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q4 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [Update maxpeers and maxpendpeers flag documentation (#17302)](https://github.com/erigontech/erigon/commit/4ab592e8de106c8a691f4a3997995e871f2104d7) - 2025-10-02
+* [Commit] [Remove eth/67 code (#17318)](https://github.com/erigontech/erigon/commit/c9554a5d65603bf970b9192e8e54501a8e67a068) - 2025-10-02
 ## Q3 2025
 
 

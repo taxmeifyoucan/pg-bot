@@ -16,6 +16,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: ensure we only receive SSZ checkpoint states if REST API is queried (#7542)](https://github.com/ChainSafe/lodestar/commit/d66f506203ee0c07021a170c533dc0a7e1a7be03) - 2025-10-01
 * [Commit] [feat: get persisted checkpoint state api (#7541)](https://github.com/ChainSafe/lodestar/commit/ad8d6a37d486da1296cb6b5f95a1e58efdc07e43) - 2025-10-01
 * [Commit] [chore: add gloas fork constants to unscheduled networks (#8484)](https://github.com/ChainSafe/lodestar/commit/901d71966053925a77a22a1919c271412cfecdb3) - 2025-10-01
+* [Commit] [Update packages/beacon-node/src/api/impl/config/constants.ts](https://github.com/ChainSafe/lodestar/commit/a7f6e0c090d2c1fccf68edf2099ab296f50a7961) - 2025-10-02
+* [Pull Request] [fix: return spec constants starting with 0x as hex strings instead of decimal](https://github.com/ChainSafe/lodestar/pull/8495) - 2025-10-02
+* [Commit] [fix: return spec constants starting with 0x as hex strings instead of decimal](https://github.com/ChainSafe/lodestar/commit/455adfa4d1691ac45c672941838034f3272c1345) - 2025-10-02
 ## Q3 2025
 
 

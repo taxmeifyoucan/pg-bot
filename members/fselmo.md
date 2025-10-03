@@ -8,6 +8,21 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Commit] [fix: validate expected empty account changes](https://github.com/ethereum/execution-spec-tests/commit/817ad0f786bfde2c3194210746db23b241173938) - 2025-10-02
+* [Commit] [fix: validate expected empty account changes](https://github.com/ethereum/execution-spec-tests/commit/a954e50ab7aa0218e3c5c632cb78e03a88f90187) - 2025-10-02
+* [Commit] [fix: fix rebase error for OOG 7928 tests](https://github.com/ethereum/execution-spec-tests/commit/d79d2f6a817862bfd9ef971a40bbffda2f56b7f2) - 2025-10-02
+* [Commit] [feat(tests): add test case for P256 with Q at infinity (#2235)](https://github.com/ethereum/execution-spec-tests/commit/90b15e6c82bda3c73b514af99fd024e524f57231) - 2025-10-02
+* [Commit] [✨ feat(tests): EIP-7928 Single-Opcode Success and OOG test cases (#2118)](https://github.com/ethereum/execution-spec-tests/commit/ae9b597612c37a0c7c6961747cf8062cf1e4ff66) - 2025-10-02
+* [Commit] [chore: move 2930 tests into main test file](https://github.com/ethereum/execution-spec-tests/commit/0c6bf2bc8c9160aa4cdd9db7cce9bba4153739c0) - 2025-10-02
+* [Commit] [chore: fix docstring after refactor](https://github.com/ethereum/execution-spec-tests/commit/2c0817f64df8827dcbaa5963ef0832f35149065b) - 2025-10-02
+* [Commit] [chore: CHANGELOG entry](https://github.com/ethereum/execution-spec-tests/commit/750dd35bcbb3be12a93a16cfc798bbf0c58a8f00) - 2025-10-02
+* [Commit] [fix: Tighten up validation for empty lists on BALs](https://github.com/ethereum/execution-spec-tests/commit/9140acef0f50bc8ec13e49435234e12d7dd907f4) - 2025-10-02
+* [Commit] [chore(consume): mark sync tests flaky (#2252)](https://github.com/ethereum/execution-spec-tests/commit/835e0a741f8143e69c39c6c8766c3befc1e07f6a) - 2025-10-02
+* [Pull Request] [chore(consume): mark sync tests flaky](https://github.com/ethereum/execution-spec-tests/pull/2252) - 2025-10-02
 ## Q3 2025
 
 [ethereum/hive](https://github.com/ethereum/hive)

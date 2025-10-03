@@ -15,6 +15,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [fix error in stage_exec with --no-commit](https://github.com/erigontech/erigon/pull/17311) - 2025-10-01
 * [Pull Request] [Bench script](https://github.com/erigontech/erigon/pull/17309) - 2025-10-01
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0074c22a3bc38ac00f3550177eae681d1a704ed0) - 2025-10-01
+* [Commit] [remote txpool: typed chainDB object  (#17303)](https://github.com/erigontech/erigon/commit/f16ac63e91f2a2ba918d81197a091e30512b72ef) - 2025-10-02
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d4e52bc62f269f071dbd21a6431ebe435f1d1322) - 2025-10-02
 ## Q3 2025
 
 

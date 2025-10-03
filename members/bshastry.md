@@ -8,6 +8,11 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [cmd/evm: add stdin support to blocktest command](https://github.com/ethereum/go-ethereum/pull/32824) - 2025-10-02
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

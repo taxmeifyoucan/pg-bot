@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q4 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [Snapshot checkers](https://github.com/erigontech/erigon/issues/17325) - 2025-10-02
 ## Q3 2025
 
 

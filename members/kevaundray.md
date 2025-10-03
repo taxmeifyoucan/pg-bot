@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [EIP7870: Change status to Live](https://github.com/ethereum/EIPs/pull/10462) - 2025-10-02
 ## Q3 2025
 
 

@@ -8,6 +8,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 ## Contributions
 
+## Q4 2025
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Commit] [use internal func](https://github.com/erigontech/erigon/commit/b87f895f08d2d648ea1e64ef574dc91d9f7d96d7) - 2025-10-02
 ## Q3 2025
 
 

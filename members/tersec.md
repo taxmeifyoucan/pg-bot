@@ -20,6 +20,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [allow updating column subscriptions within fork/BPO](https://github.com/status-im/nimbus-eth2/pull/7557) - 2025-10-01
 * [Commit] [allow updating column subscriptions within fork/BPO](https://github.com/status-im/nimbus-eth2/commit/a28546b5fd7c348c9e957221cc818051c6fcd484) - 2025-10-01
 * [Commit] [allow updating column subscriptions within fork/BPO](https://github.com/status-im/nimbus-eth2/commit/8f476dcbbea3992e7454cd6f0816241f9f4de090) - 2025-10-01
+* [Commit] [Pass SECONDS_PER_SLOT to BeaconClock module (#7566)](https://github.com/status-im/nimbus-eth2/commit/bb1ee6247aef0fb7e5d193801d9c12a3883b61cb) - 2025-10-02
+* [Commit] [Gloas helpers update (#7559)](https://github.com/status-im/nimbus-eth2/commit/bd5943d0234df5277495192321b140ef602b27ec) - 2025-10-02
+* [Commit] [bump nim-kzg4844 for c-kzg-4844 v2.1.5 (#7565)](https://github.com/status-im/nimbus-eth2/commit/cceee9e6e6d9ddb5c0682d02573788482352c280) - 2025-10-02
+* [Commit] [allow updating column subscriptions within fork/BPO (#7557)](https://github.com/status-im/nimbus-eth2/commit/c635f264c5962b4b5fd58dbdd4989d15eaee259e) - 2025-10-02
+* [Pull Request] [bump nim-kzg4844 for c-kzg-4844 v2.1.5](https://github.com/status-im/nimbus-eth2/pull/7565) - 2025-10-02
 ## Q3 2025
 
 

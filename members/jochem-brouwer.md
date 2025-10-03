@@ -13,6 +13,11 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Feature request: read results of the generated blocks](https://github.com/ethereum/execution-spec-tests/issues/2241) - 2025-10-01
+* [Commit] [decrease spam count](https://github.com/ethereum/execution-spec-tests/commit/978f168e1984d7eb6253fdfa3047a78924daac9c) - 2025-10-02
+* [Commit] [update spam numbers](https://github.com/ethereum/execution-spec-tests/commit/23f3ad140c238edd2418c7a680d2e5984a10aeb4) - 2025-10-02
+* [Commit] [update xen claimrank test](https://github.com/ethereum/execution-spec-tests/commit/c1796f517adc1ee228dcdb1b82bd1c64b532a10d) - 2025-10-02
+* [Commit] [update xen tests](https://github.com/ethereum/execution-spec-tests/commit/21fdf9c6c1ce5fc8d347881e767d99e20c505a71) - 2025-10-02
+* [Issue] [Using `uv run execute remote` with --engine-endpoint should not require `--rpc-seed-key` and should auto-fund EOA root via PayloadAttributes.withdrawals](https://github.com/ethereum/execution-spec-tests/issues/2247) - 2025-10-02
 ## Q3 2025
 
 

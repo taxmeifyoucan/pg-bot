@@ -8,6 +8,11 @@ Team: Grandine
 
 ## Contributions
 
+## Q4 2025
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Commit] [Data column backfill termination fix](https://github.com/grandinetech/grandine/commit/2003efb0ae024e33f641740d71db088595c81ffe) - 2025-10-02
 ## Q3 2025
 
 

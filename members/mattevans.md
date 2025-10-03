@@ -15,6 +15,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: add support for Tysm consensus client in cannon and sentry](https://github.com/ethpandaops/xatu/commit/ad63cc760fd16a741bf349002dbecb3fc62a8bf6) - 2025-10-01
 * [Pull Request] [feat: one tysm to rule them all](https://github.com/ethpandaops/xatu/pull/670) - 2025-10-01
 
+* [Commit] [feat(libp2p): Add direction](https://github.com/ethpandaops/xatu/commit/f4a622ccf4d5ab37992d7753362ad24a144556ca) - 2025-10-02
+* [Commit] [fix: align custodyGroupCount type assertion with protobuf uint64](https://github.com/ethpandaops/xatu/commit/f4e9ecb9842c13a2cd92c9bb9bd2c2a1dd773801) - 2025-10-02
+* [Pull Request] [fix: align custodyGroupCount type assertion with protobuf uint64](https://github.com/ethpandaops/xatu/pull/671) - 2025-10-02
+* [Commit] [feat: add support for Tysm consensus client in cannon and sentry](https://github.com/ethpandaops/xatu/commit/ad63cc760fd16a741bf349002dbecb3fc62a8bf6) - 2025-10-02
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Commit] [feat: add Grandine client logo to fork-readiness page](https://github.com/ethpandaops/lab/commit/1c418e0cc75943767453d6de25f4a7746091c035) - 2025-10-01
 * [Pull Request] [feat: add Grandine client logo to fork-readiness page](https://github.com/ethpandaops/lab/pull/113) - 2025-10-01

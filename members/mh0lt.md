@@ -15,6 +15,10 @@ Team: Erigon
 * [Commit] [rpcademon: update rpc-test with new label latest test (#17298)](https://github.com/erigontech/erigon/commit/bdc5f1c336345893983021c8b83ffa308ebed1d1) - 2025-10-01
 * [Pull Request] [Move exec metrics](https://github.com/erigontech/erigon/pull/17306) - 2025-10-01
 * [Commit] [remove dup call](https://github.com/erigontech/erigon/commit/72f52ea2e12c1f1417fbea3fae6ddc3df4441934) - 2025-10-01
+* [Commit] [unhide var](https://github.com/erigontech/erigon/commit/6ea35421b0dae8711e656202f63c0afc7687c57e) - 2025-10-02
+* [Commit] [add unwind traces](https://github.com/erigontech/erigon/commit/e258e1ee63ecb010b51f14ae64aae5bfb60981f9) - 2025-10-02
+* [Commit] [fix error typo](https://github.com/erigontech/erigon/commit/30cbe615c7a677c4fbee5acff37bbf2ff1f5d3f9) - 2025-10-02
+* [Commit] [spil exec serial and parallel into own files](https://github.com/erigontech/erigon/commit/15347904dd5d5bc22fb9da55bc0f9d520b46e5f4) - 2025-10-02
 ## Q3 2025
 
 
