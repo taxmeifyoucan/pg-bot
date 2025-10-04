@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [test: add Osaka Engine acceptance test](https://github.com/hyperledger/besu/pull/9268) - 2025-10-02
 * [Commit] [Use timestamp from head to validate fork for getBlobs (#9265)](https://github.com/hyperledger/besu/commit/49b2074b2e245df4769ded59e237d849ee541b02) - 2025-10-02
 * [Pull Request] [fix: use timestamp from head to validate fork for getBlobs](https://github.com/hyperledger/besu/pull/9265) - 2025-10-02
+* [Commit] [Add Osaka Engine acceptance test (#9268)](https://github.com/hyperledger/besu/commit/5051cc1eeff9d41d82bd2d5bf1be09efcee09803) - 2025-10-03
 ## Q3 2025
 
 

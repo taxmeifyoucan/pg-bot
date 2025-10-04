@@ -8,6 +8,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q4 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Pull Request] [Perf/flat cache](https://github.com/NethermindEth/nethermind/pull/9402) - 2025-10-03
+* [Commit] [Fix build](https://github.com/NethermindEth/nethermind/commit/1e3cb50f8a63abc21c528595663409cfa10ef744) - 2025-10-03
+* [Commit] [Fix beneficiary & blob base fee in eth_simulate (#9371)](https://github.com/NethermindEth/nethermind/commit/27f87bbf89529c0e5c3cdca739bd1cd2d7f7c551) - 2025-10-03
+* [Commit] [Refactor/Slight cleanup to world state write batch API. (#9400)](https://github.com/NethermindEth/nethermind/commit/505145162178b3607f3a458691fe1ab403a57312) - 2025-10-03
+* [Commit] [Refactor/further isolate prewarmer (#9355)](https://github.com/NethermindEth/nethermind/commit/7ad21998efbff84fddbc424bb3ed94b6173a05be) - 2025-10-03
+* [Commit] [Update src/Nethermind/Nethermind.Core.Test/TestWorldStateFactory.cs](https://github.com/NethermindEth/nethermind/commit/edaeeb2957aef8e927f8bd4cab5041dabe4a44ee) - 2025-10-03
+* [Commit] [Address comment](https://github.com/NethermindEth/nethermind/commit/99da7687654a81b70e374bf693ee8d3679f3d470) - 2025-10-03
 ## Q3 2025
 
 

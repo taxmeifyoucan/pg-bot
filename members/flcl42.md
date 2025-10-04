@@ -20,6 +20,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Clean up a bit](https://github.com/NethermindEth/nethermind/commit/6298506044dea39d103b2b05410f024111238098) - 2025-10-02
 * [Pull Request] [Safer types for a one of case](https://github.com/NethermindEth/nethermind/pull/9398) - 2025-10-02
 * [Commit] [Better naming](https://github.com/NethermindEth/nethermind/commit/e932343e76c92ddc55dc9054b02e06c062be9dae) - 2025-10-02
+* [Commit] [Add more tests](https://github.com/NethermindEth/nethermind/commit/b831531d7ca303665ddccf42d3b8802b1a35de3b) - 2025-10-03
+* [Commit] [Add more tests](https://github.com/NethermindEth/nethermind/commit/f37afbd5e8085e6ab46326c43a7cfbdecfad3584) - 2025-10-03
+* [Commit] [Add more tests](https://github.com/NethermindEth/nethermind/commit/3353320772dc3ab4ffb113e4bb4a4429ca807f56) - 2025-10-03
+* [Commit] [Add more tests](https://github.com/NethermindEth/nethermind/commit/0167c0a79f03fe622cb992776ee3f8c09dd94ae3) - 2025-10-03
 ## Q3 2025
 
 

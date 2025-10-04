@@ -18,6 +18,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [type(tests): convert create suicide during init (#1871)](https://github.com/ethereum/execution-spec-tests/commit/28ca6decef374908e7e18e4cf4e5a500a9834866) - 2025-10-02
 * [Commit] [refactor(tests): add checklist marker for eip7823 (#2115)](https://github.com/ethereum/execution-spec-tests/commit/110b5d4ae9d6c07a4ae2d5e9a2822652b0ae6172) - 2025-10-02
 * [Commit] [feat(tests): test accessing slots in address that appears more than once in access list (#2253)](https://github.com/ethereum/execution-spec-tests/commit/9a1cd16252b0ad37fe7f01198a940576d5b53477) - 2025-10-02
+* [Commit] [docs(fix): update git clone with depth 1 (#2257)](https://github.com/ethereum/execution-spec-tests/commit/cc753acd3612f4b516ee99990b5ca70754306bd2) - 2025-10-03
+* [Commit] [feat(tests): add test for modexp with 2**32 exp len (#2254)](https://github.com/ethereum/execution-spec-tests/commit/eb6120b3b01a522ba5b3abfb5fb49aab9732fac5) - 2025-10-03
+* [Issue] [Update the existing test_modexp_upper_bounds to run from Prague](https://github.com/ethereum/execution-spec-tests/issues/2260) - 2025-10-03
 ## Q3 2025
 
 

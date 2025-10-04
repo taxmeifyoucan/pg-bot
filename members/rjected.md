@@ -8,6 +8,13 @@ Team: Reth
 
 ## Contributions
 
+## Q4 2025
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [chore(cli): rename disable-caching-and-prewarming to disable-prewarming](https://github.com/paradigmxyz/reth/pull/18857) - 2025-10-03
+* [Commit] [chore(cli): rename disable-caching-and-prewarming to disable-prewarming](https://github.com/paradigmxyz/reth/commit/20f8a5320dcda30b36a2d3bffbfe1b1afcaa1bad) - 2025-10-03
+* [Pull Request] [docs(engine): fix outdated comment on TreeMetrics](https://github.com/paradigmxyz/reth/pull/18855) - 2025-10-03
 ## Q3 2025
 
 

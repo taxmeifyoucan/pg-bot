@@ -20,6 +20,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Pull Request] [ignore version|digest mismatch if far future](https://github.com/OffchainLabs/prysm/pull/15798) - 2025-10-02
 * [Commit] [ignore version/digest mismatch if far future](https://github.com/OffchainLabs/prysm/commit/943e383f343e3cca66d423bc30a8bf9cfeee17f3) - 2025-10-02
 * [Commit] [ignore version/digest mismatch if far future](https://github.com/OffchainLabs/prysm/commit/be696c23230640fc523f0702880f1ea84cba9cba) - 2025-10-02
+* [Commit] [Change LC p2p validation rules (#15783)](https://github.com/OffchainLabs/prysm/commit/cbe50269deece6dcfdc0007441ba310722dc8147) - 2025-10-03
 ## Q3 2025
 
 

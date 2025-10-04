@@ -18,6 +18,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 
 * [Commit] [codehash](https://github.com/NethermindEth/nethermind/commit/89bf5f92a4782755e90ad6c35f94a9bbc44f3a1e) - 2025-10-02
 * [Commit] [trace get account balance](https://github.com/NethermindEth/nethermind/commit/878b787fb8b542b40dfe6e91ebc4a1c5c31f79dc) - 2025-10-02
+* [Commit] [create account & selfdestruct edge cases](https://github.com/NethermindEth/nethermind/commit/c046b924980cf4c9c240e2cca01f937b69c5cd80) - 2025-10-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Marc Harvey-Hill (Nethermind) 0.5->1](https://github.com/protocolguild/documentation/pull/421) - 2025-10-01
 ## Q3 2025

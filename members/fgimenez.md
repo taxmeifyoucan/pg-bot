@@ -13,6 +13,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [feat(rpc): support custom transaction error types in EthApiError](https://github.com/paradigmxyz/reth/pull/18844) - 2025-10-02
+* [Commit] [focus](https://github.com/paradigmxyz/reth/commit/8044e243a531a01f7c01784b0dab120f8e2bfef1) - 2025-10-03
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/3bf0d425c8244952e02de9361d1f8ade02dcc6f4) - 2025-10-03
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/96dba23c62193d00331e3e580f88fe01c59fbdab) - 2025-10-03
 ## Q3 2025
 
 

@@ -19,6 +19,8 @@ Team: Erigon
 * [Commit] [add unwind traces](https://github.com/erigontech/erigon/commit/e258e1ee63ecb010b51f14ae64aae5bfb60981f9) - 2025-10-02
 * [Commit] [fix error typo](https://github.com/erigontech/erigon/commit/30cbe615c7a677c4fbee5acff37bbf2ff1f5d3f9) - 2025-10-02
 * [Commit] [spil exec serial and parallel into own files](https://github.com/erigontech/erigon/commit/15347904dd5d5bc22fb9da55bc0f9d520b46e5f4) - 2025-10-02
+* [Pull Request] [Split exec3 inner functions into  exec3_serial & exec3_parallel](https://github.com/erigontech/erigon/pull/17338) - 2025-10-03
+* [Commit] [fix tests](https://github.com/erigontech/erigon/commit/0081f6f1820cb368d564e58be7aaf0219d4b383a) - 2025-10-03
 ## Q3 2025
 
 

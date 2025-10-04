@@ -25,6 +25,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump nim-kzg4844 for c-kzg-4844 v2.1.5 (#7565)](https://github.com/status-im/nimbus-eth2/commit/cceee9e6e6d9ddb5c0682d02573788482352c280) - 2025-10-02
 * [Commit] [allow updating column subscriptions within fork/BPO (#7557)](https://github.com/status-im/nimbus-eth2/commit/c635f264c5962b4b5fd58dbdd4989d15eaee259e) - 2025-10-02
 * [Pull Request] [bump nim-kzg4844 for c-kzg-4844 v2.1.5](https://github.com/status-im/nimbus-eth2/pull/7565) - 2025-10-02
+* [Commit] [implements process execution payload for gloas (#7552)](https://github.com/status-im/nimbus-eth2/commit/10f5e00e98cb05e30747ddd2a4ca2e9405b5e212) - 2025-10-03
+* [Commit] [fix ENR fallback for fetching cgc (#7568)](https://github.com/status-im/nimbus-eth2/commit/d5f00d43d07db5fa8b4a24badd61ab37a17f50c4) - 2025-10-03
+* [Pull Request] [fix ENR fallback for fetching cgc](https://github.com/status-im/nimbus-eth2/pull/7568) - 2025-10-03
+* [Commit] [fix incorrect worker count for supernodes (#7567)](https://github.com/status-im/nimbus-eth2/commit/765945d8a0b4bc9e0eccf940cd7680338897d594) - 2025-10-03
+* [Pull Request] [fix incorrect worker count for supernodes](https://github.com/status-im/nimbus-eth2/pull/7567) - 2025-10-03
 ## Q3 2025
 
 

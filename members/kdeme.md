@@ -13,6 +13,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Docs: Use consensus light client naming throughout the guide](https://github.com/status-im/nimbus-eth2/pull/7560) - 2025-10-01
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Portal + era1: Remove use of hardcoded mainnet mergeBlockNumber](https://github.com/status-im/nimbus-eth1/pull/3742) - 2025-10-03
+* [Commit] [Portal + era1: Remove use of hardcoded mainnet mergeBlockNumber](https://github.com/status-im/nimbus-eth1/commit/ad51effc74c091db846371311655aaeeb6c471e1) - 2025-10-03
+* [Issue] [Issues with provided Sepolia era1 files](https://github.com/status-im/nimbus-eth1/issues/3740) - 2025-10-03
 ## Q3 2025
 
 

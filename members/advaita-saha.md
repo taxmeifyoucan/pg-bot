@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 
 ## Contributions
 
+## Q4 2025
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Commit] [add benchmarking code](https://github.com/status-im/nimbus-eth1/commit/d66a0006865702350160246f0d5fc01f3fdd83f6) - 2025-10-03
 ## Q3 2025
 
 

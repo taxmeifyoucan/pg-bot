@@ -20,6 +20,7 @@ Team: Erigon
 * [Commit] [[r3.2] test workflows: user input sanitisation (addendum) (#17299)](https://github.com/erigontech/erigon/commit/3418e0712813b1978f91d0de88536d1dcd305e7c) - 2025-10-01
 * [Commit] [rpc: simulated blocks as canonical in eth_simulateV1 (#17322)](https://github.com/erigontech/erigon/commit/76bf73a9f96e59dd9851ab3c0910581c4f6a0865) - 2025-10-02
 * [Commit] [remotedb: typed tx object (#17304)](https://github.com/erigontech/erigon/commit/8193d8236a0416b6a93cdda139fe555d40470ff0) - 2025-10-02
+* [Commit] [rpc: replace `interface{}` by `any`  (#15958)](https://github.com/erigontech/erigon/commit/168c4183d58fa6f1191a05939cca4e03149716f5) - 2025-10-03
 ## Q3 2025
 
 

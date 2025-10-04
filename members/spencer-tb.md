@@ -8,6 +8,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Commit] [feat(vm): evm memory variable abstraction (#1609)](https://github.com/ethereum/execution-spec-tests/commit/9fc77e24cf164ff3e921a11d8cb056364e6ccca2) - 2025-10-03
+* [Commit] [chore: ruff 79 line lenght.](https://github.com/ethereum/execution-spec-tests/commit/b1a83b18ed77a059798ebff641113c9490dbc05c) - 2025-10-03
+* [Commit] [feat(tests): add tests for P256 with x,y out of range (#2237)](https://github.com/ethereum/execution-spec-tests/commit/4b2907dbb63addf284c42ec96c75463a30f2c97a) - 2025-10-03
+* [Commit] [chore(tests): Update 7951 Checklist Markers (#2088)](https://github.com/ethereum/execution-spec-tests/commit/e9045fc2b581a7949a54015b6b63782086a30a29) - 2025-10-03
 ## Q3 2025
 
 

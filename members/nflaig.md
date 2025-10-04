@@ -19,6 +19,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update packages/beacon-node/src/api/impl/config/constants.ts](https://github.com/ChainSafe/lodestar/commit/a7f6e0c090d2c1fccf68edf2099ab296f50a7961) - 2025-10-02
 * [Pull Request] [fix: return spec constants starting with 0x as hex strings instead of decimal](https://github.com/ChainSafe/lodestar/pull/8495) - 2025-10-02
 * [Commit] [fix: return spec constants starting with 0x as hex strings instead of decimal](https://github.com/ChainSafe/lodestar/commit/455adfa4d1691ac45c672941838034f3272c1345) - 2025-10-02
+* [Pull Request] [fix: unsubscribe from `blob_sidecar` topics during fulu fork transition](https://github.com/ChainSafe/lodestar/pull/8497) - 2025-10-03
+* [Commit] [refactor: replace * value with other more bash friendly value (#8491)](https://github.com/ChainSafe/lodestar/commit/be3c5220f424fb9b4175f57fc310f105f067c914) - 2025-10-03
+* [Commit] [fix: use previous slot to get sync aggregate for block (#8494)](https://github.com/ChainSafe/lodestar/commit/c9deb9b59f390b57031824f5a63c5e300831ced4) - 2025-10-03
 ## Q3 2025
 
 

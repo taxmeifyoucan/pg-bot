@@ -8,6 +8,14 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update eip-1.md](https://github.com/ethereum/EIPs/pull/10466) - 2025-10-03
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Archive Pectra](https://github.com/ethereum/pm/pull/1751) - 2025-10-03
 ## Q3 2025
 
 

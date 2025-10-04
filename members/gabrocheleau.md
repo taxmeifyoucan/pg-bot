@@ -21,6 +21,18 @@ Team: EthereumJS
 * [Commit] [fix: apply correct pnpm workspace pattern to blockchain-build.yml](https://github.com/ethereumjs/ethereumjs-monorepo/commit/972a8436cb527a26370a3118c159e83917291ef8) - 2025-10-02
 * [Commit] [fix: implement correct pnpm workspace workflow pattern](https://github.com/ethereumjs/ethereumjs-monorepo/commit/1542a933e26fa31116d497d588f25b6c505b0933) - 2025-10-02
 * [Commit] [chore: adjust build test workflow](https://github.com/ethereumjs/ethereumjs-monorepo/commit/bcc8789ae2cc02a5d8c2a5f95903e8a22e21e95c) - 2025-10-02
+* [Commit] [chore: fix block ci](https://github.com/ethereumjs/ethereumjs-monorepo/commit/e31153bf0731d287c2e4ff29bf7328a6a8fe653b) - 2025-10-03
+* [Commit] [chore: adjust binarytree](https://github.com/ethereumjs/ethereumjs-monorepo/commit/5df13c5894f4d44c97d2a81dd2578eb59cc9f98b) - 2025-10-03
+* [Commit] [chore: attempt to fix binarytreebuild](https://github.com/ethereumjs/ethereumjs-monorepo/commit/34963bfc061c6c8d0942d16c2dbf56ebf4abc714) - 2025-10-03
+* [Commit] [chore: attempt to fix binarytreebuild](https://github.com/ethereumjs/ethereumjs-monorepo/commit/ca0ac71ac79b1c689b1b356782ae66e5bec3514e) - 2025-10-03
+* [Commit] [chore: attempt to optimize ci caching](https://github.com/ethereumjs/ethereumjs-monorepo/commit/86d0929ba2023bef71be1914ad129a5acb62670b) - 2025-10-03
+* [Commit] [chore: attempt to fix block ci](https://github.com/ethereumjs/ethereumjs-monorepo/commit/088b4b96af8ce39861f5784f8ee84327c8b499e8) - 2025-10-03
+* [Commit] [chore: reset submodule](https://github.com/ethereumjs/ethereumjs-monorepo/commit/211758e0248dee60f6a6a89a45c49598e08243cb) - 2025-10-03
+* [Commit] [chore: fix test case](https://github.com/ethereumjs/ethereumjs-monorepo/commit/acfa90b53225d0f9bbf7bc4dc679b1a7e6021c44) - 2025-10-03
+* [Commit] [chore: fix test case](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8cb08ffd75a9247022db51e87eb25abd98583bc4) - 2025-10-03
+* [Commit] [chore: attempt fixing block ci](https://github.com/ethereumjs/ethereumjs-monorepo/commit/b16cb986a160f862ccaccb7f4b95d2d42ae5dd78) - 2025-10-03
+* [Commit] [test: fix test](https://github.com/ethereumjs/ethereumjs-monorepo/commit/271f3aff5652bae2d0ce7b3dc6a11177478a32ca) - 2025-10-03
+* [Commit] [chore: adjust naming](https://github.com/ethereumjs/ethereumjs-monorepo/commit/ddc2db4d4eb2aa9986b687bd88623e0fe8c92684) - 2025-10-03
 ## Q3 2025
 
 

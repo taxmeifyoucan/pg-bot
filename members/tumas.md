@@ -8,6 +8,12 @@ Team: Grandine
 
 ## Contributions
 
+## Q4 2025
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Commit] [Request new data from the network in `p2p::block_sync_service` via queue](https://github.com/grandinetech/grandine/commit/f0fbc941804c54f1d6c9f450aa6ed08b041eb83e) - 2025-10-03
+* [Pull Request] [Request new data from the network in `p2p::block_sync_service` via queue](https://github.com/grandinetech/grandine/pull/398) - 2025-10-03
 ## Q3 2025
 
 

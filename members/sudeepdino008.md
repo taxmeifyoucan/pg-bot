@@ -17,6 +17,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/0074c22a3bc38ac00f3550177eae681d1a704ed0) - 2025-10-01
 * [Commit] [remote txpool: typed chainDB object  (#17303)](https://github.com/erigontech/erigon/commit/f16ac63e91f2a2ba918d81197a091e30512b72ef) - 2025-10-02
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d4e52bc62f269f071dbd21a6431ebe435f1d1322) - 2025-10-02
+* [Commit] [fix double import fix (#17332)](https://github.com/erigontech/erigon/commit/20f38123ad66e11b2acdd7ce675bd30fc17a4b6f) - 2025-10-03
+* [Pull Request] [fix double import fix](https://github.com/erigontech/erigon/pull/17332) - 2025-10-03
+* [Commit] [Use MaxUint64 as return value to `HistoryStartFrom()` if no files present (#17308)](https://github.com/erigontech/erigon/commit/cc428cbc99ffeef18f6fe7b6b048a897ed4e7217) - 2025-10-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7fed2272dc936f79620d7329c6e11c1e4f702c7c) - 2025-10-03
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7556bde3809c6b8bc9b949b476b7111e0f3f7574) - 2025-10-03
 ## Q3 2025
 
 

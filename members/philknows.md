@@ -14,6 +14,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [[fusaka-holesky] processPendingDeposits can jump as high as 1.2s on epoch transitions](https://github.com/ChainSafe/lodestar/issues/8489) - 2025-10-01
 * [Issue] [[fusaka-holesky] Proposer lookahead processing times increasing epoch transition](https://github.com/ChainSafe/lodestar/issues/8488) - 2025-10-01
+* [Commit] [add yarn check-types](https://github.com/ChainSafe/lodestar/commit/47eb519440760ca8b94269244eb2e7f0c0d7a981) - 2025-10-03
+* [Commit] [AI wins for spelling too](https://github.com/ChainSafe/lodestar/commit/1ae01b09b519e381e2798b51a04e95778739f2d6) - 2025-10-03
+* [Commit] [AI win for grammar. I quit.](https://github.com/ChainSafe/lodestar/commit/1c1d51a43584009f90687dd4b1c2d3aefc28a4f5) - 2025-10-03
+* [Pull Request] [docs: update contributing.md to include AI disclosure](https://github.com/ChainSafe/lodestar/pull/8498) - 2025-10-03
+* [Commit] [add additional disincentivization for long term AI use](https://github.com/ChainSafe/lodestar/commit/213472f96f4abe7f5f25c565536d6993337966ce) - 2025-10-03
 ## Q3 2025
 
 

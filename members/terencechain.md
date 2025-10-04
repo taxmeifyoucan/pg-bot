@@ -8,6 +8,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 ## Contributions
 
+## Q4 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [Return early if there's no block for data column sidecar (#15802)](https://github.com/OffchainLabs/prysm/commit/1f8939472764c5691ca81e99a5b8b6775f82d97e) - 2025-10-03
+* [Commit] [Update beacon-chain/sync/pending_attestations_queue.go](https://github.com/OffchainLabs/prysm/commit/89dd341efe62b877811288ce3ad211c946e21e1c) - 2025-10-03
+* [Commit] [Update beacon-chain/sync/pending_attestations_queue.go](https://github.com/OffchainLabs/prysm/commit/1995923e91d8fe929eead15563beced16ca99e16) - 2025-10-03
+* [Pull Request] [Return early if there's no block for data column sidecar](https://github.com/OffchainLabs/prysm/pull/15802) - 2025-10-03
 ## Q3 2025
 
 

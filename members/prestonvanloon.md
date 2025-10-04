@@ -8,6 +8,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 
 ## Contributions
 
+## Q4 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Chris Karabats from Prysm team](https://github.com/protocolguild/documentation/pull/429) - 2025-10-03
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Pull Request] [Clear disconnected peers from connected_libp2p_peers](https://github.com/OffchainLabs/prysm/pull/15807) - 2025-10-03
 ## Q3 2025
 
 

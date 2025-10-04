@@ -16,6 +16,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [make](https://github.com/erigontech/erigon/commit/3ec425407d7599c9430556c7a704686f0d39ada1) - 2025-10-02
 * [Commit] [execution: fix deadlock in block building when run in envs with 1 erigon block builder (#17213)](https://github.com/erigontech/erigon/commit/29bc2cd3556fc401ba446cd825e7d56cb78f8cff) - 2025-10-02
 * [Commit] [[r32] Bump eth mainnet default block gas limit to 60M (#17321)](https://github.com/erigontech/erigon/commit/7aa0861aaf244fab4685fbbcf4258806839433a2) - 2025-10-02
+* [Commit] [mv jwt to common](https://github.com/erigontech/erigon/commit/ed3721cfda0ffe813b1cc2f1118ea05b56f549ea) - 2025-10-03
+* [Commit] [mv event to common](https://github.com/erigontech/erigon/commit/710c2168640cf0995c72df1d71127bbfd544b303) - 2025-10-03
+* [Commit] [mv estimate to common](https://github.com/erigontech/erigon/commit/900b5a277d3a040a3ba51951db5a9e24bdc5a03f) - 2025-10-03
+* [Commit] [mv crypto to common](https://github.com/erigontech/erigon/commit/f961f6083f3f5db9fca97e65d36e1368a4a1cdf1) - 2025-10-03
+* [Issue] [Implement Enshrined Proposer-Builder Separation](https://github.com/erigontech/erigon/issues/17334) - 2025-10-03
+* [Pull Request] [[r32] cl: fix initial previous_version in fork_schedule](https://github.com/erigontech/erigon/pull/17331) - 2025-10-03
+* [Commit] [cl: fix initial previous_version in fork_schedule (#17263)](https://github.com/erigontech/erigon/commit/435c1eadefabc75f32a4d56159e608ec31b1c9e3) - 2025-10-03
+* [Commit] [cl: fix initial previous_version in fork_schedule (#17263)](https://github.com/erigontech/erigon/commit/8ad68954cf06b5d681a0dcb0df88b0d1adb70178) - 2025-10-03
+* [Issue] [Glamsterdam](https://github.com/erigontech/erigon/issues/17329) - 2025-10-03
 ## Q3 2025
 
 

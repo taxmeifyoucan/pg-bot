@@ -23,6 +23,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [fix: Tighten up validation for empty lists on BALs](https://github.com/ethereum/execution-spec-tests/commit/9140acef0f50bc8ec13e49435234e12d7dd907f4) - 2025-10-02
 * [Commit] [chore(consume): mark sync tests flaky (#2252)](https://github.com/ethereum/execution-spec-tests/commit/835e0a741f8143e69c39c6c8766c3befc1e07f6a) - 2025-10-02
 * [Pull Request] [chore(consume): mark sync tests flaky](https://github.com/ethereum/execution-spec-tests/pull/2252) - 2025-10-02
+* [Commit] [refactor(tests): use pytest parametrize to reduce code duplication in BloatNet tests (#2242)](https://github.com/ethereum/execution-spec-tests/commit/14d7a5decede68a343fa2047adb139f9fbc957c1) - 2025-10-03
 ## Q3 2025
 
 [ethereum/hive](https://github.com/ethereum/hive)

@@ -13,6 +13,12 @@ Team: Reth
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Commit] [chore: resolve unused import warning in reth RPC API subscription attribute (#16975)](https://github.com/paradigmxyz/reth/commit/8f16e2199f9d46a8dc511639a32d584dc1057834) - 2025-10-02
+* [Commit] [fix: return result after first retry](https://github.com/paradigmxyz/reth/commit/3338eb772f7c75c6a9902e07d8908e4ddd5633e0) - 2025-10-03
+* [Commit] [fix: handle MissingStaticFileTx error](https://github.com/paradigmxyz/reth/commit/39623deaa127f7868376fe00ae80f2aca478ac24) - 2025-10-03
+* [Commit] [fix: handle MissingStaticFileTx error](https://github.com/paradigmxyz/reth/commit/1322bdd66bca5676013fb770992089b68adc3140) - 2025-10-03
+* [Commit] [fix: handle MissingStaticFileTx error](https://github.com/paradigmxyz/reth/commit/c1a44f38197d96a24790cd2e9dc5ec7148c78112) - 2025-10-03
+* [Commit] [refactor: remove redundant Setup::new() method (#18781)](https://github.com/paradigmxyz/reth/commit/2cf9fc8f54b05d323a82ac0d550274395bfc19bb) - 2025-10-03
+* [Issue] [AccountChangeSets static files segment](https://github.com/paradigmxyz/reth/issues/18846) - 2025-10-03
 ## Q3 2025
 
 

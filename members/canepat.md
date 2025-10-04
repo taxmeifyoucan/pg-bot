@@ -16,8 +16,17 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: fix commitment history check in eth_simulateV1](https://github.com/erigontech/erigon/pull/17324) - 2025-10-02
 * [Pull Request] [rpc: simulated blocks as canonical in eth_simulateV1](https://github.com/erigontech/erigon/pull/17322) - 2025-10-02
 
+* [Commit] [rpc: fix no changes and filter not found in eth_getFilter* (#17327)](https://github.com/erigontech/erigon/commit/df39cf9c9a53c873f507d50014fe0fdb2547d0f8) - 2025-10-03
+* [Commit] [dir improvements: move interfaces from erigon-lib to node (#17223)](https://github.com/erigontech/erigon/commit/778382472d5f0431201b417655bdc9574342e34c) - 2025-10-03
+* [Commit] [Simplify code](https://github.com/erigontech/erigon/commit/4440d533612017de89cf58bc28b9e6f05de1c0f7) - 2025-10-03
+* [Issue] [rpc: cover more corner cases for eth_simulateV1 in RPC Integration Tests](https://github.com/erigontech/erigon/issues/17330) - 2025-10-03
+* [Pull Request] [rpc: fix no changes and filter not found in eth_getFilter*](https://github.com/erigontech/erigon/pull/17327) - 2025-10-03
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: refactor WebSocket integration utilities (#468)](https://github.com/erigontech/rpc-tests/commit/4f415d317dc3637648781b043ac3b002aa209132) - 2025-10-02
+* [Pull Request] [integration: add test for debug_traceCall](https://github.com/erigontech/rpc-tests/pull/470) - 2025-10-03
+* [Commit] [integration: add integration utility for filter changes (#469)](https://github.com/erigontech/rpc-tests/commit/9be1add3965c9667bfe4e6e6cf53e81cf73fdc51) - 2025-10-03
+* [Pull Request] [integration: add integration utility for filter changes](https://github.com/erigontech/rpc-tests/pull/469) - 2025-10-03
+* [Commit] [integration: add integration utility for filter changes](https://github.com/erigontech/rpc-tests/commit/521776da2267952fc2c5b7fa411f0b7c92bc7a1c) - 2025-10-03
 ## Q3 2025
 
 

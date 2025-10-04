@@ -18,6 +18,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [P2P service: Remove unused clock.](https://github.com/OffchainLabs/prysm/pull/15786) - 2025-10-01
 * [Commit] [Get blob fulu (#15610)](https://github.com/OffchainLabs/prysm/commit/7e32bbc1997e95b187add4b53786262a8c34a696) - 2025-10-01
 * [Issue] [Prysm prefers Prysm peers](https://github.com/OffchainLabs/prysm/issues/15796) - 2025-10-02
+* [Commit] [Revert "Fix no custody info available at start (#15732)"](https://github.com/OffchainLabs/prysm/commit/8173dc6a3432bfc09a75e32e6d8e98126e3e610d) - 2025-10-03
+* [Commit] [Revert "Fix no custody info available at start (#15732)"](https://github.com/OffchainLabs/prysm/commit/f1d4daf9cc925500e286e3e87873c5932b8c0e9c) - 2025-10-03
+* [Pull Request] [Init custody info](https://github.com/OffchainLabs/prysm/pull/15804) - 2025-10-03
 ## Q3 2025
 
 

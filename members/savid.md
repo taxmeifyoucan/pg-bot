@@ -23,6 +23,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [update fe](https://github.com/ethpandaops/lab/commit/e24ec3d35b289b875f7ab6ea0c6d40298ce561d5) - 2025-10-01
 * [Commit] [refactor: remove SlotDataStore singleton and simplify data flow](https://github.com/ethpandaops/lab/commit/25fc486e0a3259e64cae3dca35e438922a339ea3) - 2025-10-01
 * [Pull Request] [refactor: remove SlotDataStore singleton and simplify data flow](https://github.com/ethpandaops/lab/pull/110) - 2025-10-01
+* [Commit] [fix](https://github.com/ethpandaops/lab/commit/d9ac1209a1a14293241bb74ab471a8b1c75c4375) - 2025-10-03
+* [Commit] [proto](https://github.com/ethpandaops/lab/commit/87dd76bb6dd01b14983b64c9ad42ee8085135392) - 2025-10-03
+* [Commit] [feat(frontend): integrate state expiry dashboard with REST API endpoints](https://github.com/ethpandaops/lab/commit/09b52a584fefadb79929a82ea851155998767f0a) - 2025-10-03
+* [Pull Request] [Release/state expiry](https://github.com/ethpandaops/lab/pull/119) - 2025-10-03
 ## Q3 2025
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)

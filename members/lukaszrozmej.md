@@ -18,6 +18,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix tests](https://github.com/NethermindEth/nethermind/commit/acee31ff844817ebca1ede6efb6d78e429192d12) - 2025-10-01
 * [Commit] [Add IHeaderValidator.ValidateOrphaned](https://github.com/NethermindEth/nethermind/commit/a51129037849db2e73d9c9a46680adc3833e7e7c) - 2025-10-01
 * [Commit] [Fix `eth_getProofs` bug with inline storage nodes (#9367)](https://github.com/NethermindEth/nethermind/commit/b7c40248d9800068d7fa8a63066b13659fdc2571) - 2025-10-02
+* [Commit] [Fix simple transfer test (#9405)](https://github.com/NethermindEth/nethermind/commit/86c88bccfa213dd95d1f664fea54546a1069762d) - 2025-10-03
+* [Commit] [fix test](https://github.com/NethermindEth/nethermind/commit/3bf9e3d5b9ec47bd6427e854667fc8547319657a) - 2025-10-03
+* [Commit] [fix optimism tests](https://github.com/NethermindEth/nethermind/commit/f96927e03a052f719f51d9a40a3363e903880d90) - 2025-10-03
+* [Pull Request] [Add BlockTimestamp to ReceiptForRpc](https://github.com/NethermindEth/nethermind/pull/9404) - 2025-10-03
 ## Q3 2025
 
 

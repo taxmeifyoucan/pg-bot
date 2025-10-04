@@ -14,6 +14,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Remove unnecessary warning logs and update logging levels](https://github.com/sigp/lighthouse/pull/8145) - 2025-10-01
 * [Issue] [Investigate Lighthouse supernode bandwidth usage from the devnet-5 report](https://github.com/sigp/lighthouse/issues/8143) - 2025-10-01
+* [Issue] [`lcli http-sync` command will no longer work from the Fulu fork](https://github.com/sigp/lighthouse/issues/8159) - 2025-10-03
 ## Q3 2025
 
 

@@ -13,6 +13,21 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [Fix ArrayPoolList disposal warning in Block.AccountChanges (#9385)](https://github.com/NethermindEth/nethermind/commit/a48d6384182e8470a33ce256105c83f7924776fb) - 2025-10-01
+* [Commit] [More const](https://github.com/NethermindEth/nethermind/commit/5cfc1400fcc7a14abd72b3db02e0565425c2e66b) - 2025-10-03
+* [Commit] [Fix StatelessBlockProcessingEnv (#9407)](https://github.com/NethermindEth/nethermind/commit/905c9c403293716ae49e82cc9ddaaecfe2733fb2) - 2025-10-03
+* [Pull Request] [Fix StatelessBlockProcessingEnv](https://github.com/NethermindEth/nethermind/pull/9407) - 2025-10-03
+* [Commit] [StatelessExecution tool (#9324)](https://github.com/NethermindEth/nethermind/commit/149a6a3dd26de95371b9e420c1f39e33cab9bbd1) - 2025-10-03
+* [Commit] [Consolidate more](https://github.com/NethermindEth/nethermind/commit/62830973c85b074b19e8c0c98e2b34aed4100bb9) - 2025-10-03
+* [Commit] [Common exceptions](https://github.com/NethermindEth/nethermind/commit/6905494987767aca0e01c2d73e8c19d1780c4ea5) - 2025-10-03
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/52a3e65c9f1a542643fb92f8dc1859a2157570c4) - 2025-10-03
+* [Commit] [Update src/Nethermind/Nethermind.Serialization.Rlp/Rlp.cs](https://github.com/NethermindEth/nethermind/commit/34fef551a8ceb695b53f0290ac5f6dba93859078) - 2025-10-03
+* [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/6e38561f73ae5d96b186be525460eb8466698b49) - 2025-10-03
+* [Commit] [Apply suggestion from @Copilot](https://github.com/NethermindEth/nethermind/commit/0a7c3f4a3bc4756a562d338d29511ac6e9eb9810) - 2025-10-03
+* [Commit] [Apply suggestion from @Copilot](https://github.com/NethermindEth/nethermind/commit/3f9e56492f948bed9412cead090930c380ca795c) - 2025-10-03
+* [Commit] [Feedback](https://github.com/NethermindEth/nethermind/commit/b57ed3018497aa96ffeb5f6f52f0828c809341de) - 2025-10-03
+* [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/d57414ea2453ac1f0f9ceb7e45621c65174768c9) - 2025-10-03
+* [Pull Request] [Fix simple transfer test](https://github.com/NethermindEth/nethermind/pull/9405) - 2025-10-03
+* [Commit] [GasEstimator refactor post #9064 (#9210)](https://github.com/NethermindEth/nethermind/commit/c11d141aa3731369c378f3d1e2e2fbf0ba8b16c0) - 2025-10-03
 ## Q3 2025
 
 

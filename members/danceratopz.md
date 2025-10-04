@@ -15,10 +15,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Improve `mypy` check in `make lint`](https://github.com/ethereum/consensus-specs/issues/4628) - 2025-10-01
 * [Pull Request] [Migrate config to `pyproject.toml` and use `uv` for project management](https://github.com/ethereum/consensus-specs/pull/4627) - 2025-10-01
 
+* [Pull Request] [Use non-editable installs for test generators](https://github.com/ethereum/consensus-specs/pull/4634) - 2025-10-03
+* [Issue] [Editable installs + multiprocessing break vector generation](https://github.com/ethereum/consensus-specs/issues/4633) - 2025-10-03
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [Deployed 28ca6decef3 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e4b71f3c74639dd3b2b475f32b3e0828036f05f1) - 2025-10-02
 * [Commit] [Deployed ae9b597612c to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1d57fb4149540151a16a025783f76eff24439df4) - 2025-10-02
 * [Commit] [Deployed 835e0a741f8 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/a63dce76f400ad5d44da0633c0de7c1e30abdc7c) - 2025-10-02
+* [Commit] [Deployed 9fc77e24cf1 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/41c3f47f0a5e18d651c06c8907a3f8a1d4c33c17) - 2025-10-03
+* [Commit] [Deployed eb6120b3b01 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/c3173feb20e8474bc09b62a5aedf76c0d49f435d) - 2025-10-03
+* [Issue] [bug(gentest,rpc): `gentest` rpc error with `unexpected keyword argument 'extra_headers'`](https://github.com/ethereum/execution-spec-tests/issues/2259) - 2025-10-03
+* [Commit] [Deployed 14d7a5deced to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3224a0c282868dd96c71398c3878af578422f871) - 2025-10-03
+* [Pull Request] [chore: add helper label mapping scripts](https://github.com/ethereum/execution-spec-tests/pull/2258) - 2025-10-03
 ## Q3 2025
 
 

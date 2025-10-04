@@ -8,6 +8,12 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Commit] [fix dead Readme links](https://github.com/ethereum/execution-specs/commit/2909da256fd8cbe5e7ca2fb9f02a62d7636c468a) - 2025-10-03
+* [Commit] [Rewrite new fork tool to modify blob parameters](https://github.com/ethereum/execution-specs/commit/3405f008aa768f20f09cf8e55340aba6457f8d21) - 2025-10-03
 ## Q3 2025
 
 

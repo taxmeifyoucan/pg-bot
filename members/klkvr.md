@@ -13,6 +13,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Make `ConfigureEngineEvm` methods faillible](https://github.com/paradigmxyz/reth/issues/18810) - 2025-10-01
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/a71f1b19bf23d2dbf0d14b85cd7f719c27465da0) - 2025-10-03
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/97ffb994076d9d638e315f9849c9b678eccfcd05) - 2025-10-03
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/6222f5523facf5748d272ea706d195263fb35ef5) - 2025-10-03
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/bf99bd617f1daa51769902ec976ea1dfac2a0fba) - 2025-10-03
+* [Pull Request] [chore: do not generate fuzz tests in Compact macro](https://github.com/paradigmxyz/reth/pull/18849) - 2025-10-03
 ## Q3 2025
 
 

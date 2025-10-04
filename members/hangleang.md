@@ -13,6 +13,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add Gloas boilerplate, containers, config, preset](https://github.com/grandinetech/grandine/pull/395) - 2025-10-01
 * [Commit] [Change blinded block reveal timeout message log level](https://github.com/grandinetech/grandine/commit/bd4eb5410f2ceb4c7a044c90c62d00f9d7202c18) - 2025-10-01
+* [Pull Request] [Add Gloas helper and state transition functions](https://github.com/grandinetech/grandine/pull/399) - 2025-10-03
 ## Q3 2025
 
 

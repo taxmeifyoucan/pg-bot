@@ -17,6 +17,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Change LC p2p validation rules (#15783)](https://github.com/OffchainLabs/prysm/commit/cbe50269deece6dcfdc0007441ba310722dc8147) - 2025-10-02
 * [Commit] [gaz and removing unneeded from test](https://github.com/OffchainLabs/prysm/commit/ead5f41536b429be63d17be8cc6ebba1a6d5ff3c) - 2025-10-02
 * [Pull Request] [removing old unused configs and hiding configs to align with other cl…](https://github.com/OffchainLabs/prysm/pull/15797) - 2025-10-02
+* [Commit] [fixing test](https://github.com/OffchainLabs/prysm/commit/42f7e991dcff8a216280cbdff21dc590b3ee0ed1) - 2025-10-03
+* [Commit] [ignore version|digest mismatch if far future (#15798)](https://github.com/OffchainLabs/prysm/commit/bf1095c7820993be44d725d605d6967c74ac56a9) - 2025-10-03
 ## Q3 2025
 
 

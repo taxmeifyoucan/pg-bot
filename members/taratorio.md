@@ -14,6 +14,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Commit] [Update maxpeers and maxpendpeers flag documentation (#17302)](https://github.com/erigontech/erigon/commit/4ab592e8de106c8a691f4a3997995e871f2104d7) - 2025-10-02
 * [Commit] [Remove eth/67 code (#17318)](https://github.com/erigontech/erigon/commit/c9554a5d65603bf970b9192e8e54501a8e67a068) - 2025-10-02
+* [Commit] [fix compilation](https://github.com/erigontech/erigon/commit/814aec6e9fe0954f78e568a818d578d8c6d9f1ba) - 2025-10-03
+* [Commit] [fix compilation](https://github.com/erigontech/erigon/commit/92608c62440bd6d37d9ef588a6b24e9e48f0c638) - 2025-10-03
+* [Pull Request] [execution/engineapi: remove old block downloader flow](https://github.com/erigontech/erigon/pull/17333) - 2025-10-03
 ## Q3 2025
 
 
