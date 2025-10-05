@@ -21,6 +21,10 @@ Team: Erigon
 * [Commit] [rpc: simulated blocks as canonical in eth_simulateV1 (#17322)](https://github.com/erigontech/erigon/commit/76bf73a9f96e59dd9851ab3c0910581c4f6a0865) - 2025-10-02
 * [Commit] [remotedb: typed tx object (#17304)](https://github.com/erigontech/erigon/commit/8193d8236a0416b6a93cdda139fe555d40470ff0) - 2025-10-02
 * [Commit] [rpc: replace `interface{}` by `any`  (#15958)](https://github.com/erigontech/erigon/commit/168c4183d58fa6f1191a05939cca4e03149716f5) - 2025-10-03
+* [Commit] [add cast after PR 17134 (#17341)](https://github.com/erigontech/erigon/commit/46032be5f59371e2b5d76d1f5d1e80cea831a0e9) - 2025-10-04
+* [Commit] [Trie: reduce cell size - by using int16 for prefix lengths (#17134)](https://github.com/erigontech/erigon/commit/1fbf9ed7abcd88d86b07f01c187004c3f7557659) - 2025-10-04
+* [Commit] [rpcdaemon:  debug_traceCall() fix with sysContract (#17339)](https://github.com/erigontech/erigon/commit/09d201ae2a1b601ce33b24d62a3dc68fc43fea4c) - 2025-10-04
+* [Commit] [Split exec3 inner functions into  exec3_serial & exec3_parallel (#17338)](https://github.com/erigontech/erigon/commit/f421b3e9524329302581a6e365f01df7b5b012e1) - 2025-10-04
 ## Q3 2025
 
 

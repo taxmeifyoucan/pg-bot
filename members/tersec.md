@@ -30,6 +30,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [fix ENR fallback for fetching cgc](https://github.com/status-im/nimbus-eth2/pull/7568) - 2025-10-03
 * [Commit] [fix incorrect worker count for supernodes (#7567)](https://github.com/status-im/nimbus-eth2/commit/765945d8a0b4bc9e0eccf940cd7680338897d594) - 2025-10-03
 * [Pull Request] [fix incorrect worker count for supernodes](https://github.com/status-im/nimbus-eth2/pull/7567) - 2025-10-03
+* [Commit] [Bump vendor/mainnet from `9df5a5b` to `5a94a36` (#7531)](https://github.com/status-im/nimbus-eth2/commit/4d1db0b8db268c76b99c69ff3753b23a39e135b6) - 2025-10-04
 ## Q3 2025
 
 

@@ -8,6 +8,12 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 
 ## Contributions
 
+## Q4 2025
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Commit] [changing rpc address](https://github.com/NethermindEth/nethermind/commit/7c821222dbe53b45018772807c8744eec0196d4f) - 2025-10-04
+* [Issue] [eth_getBalance responds with TrieException](https://github.com/NethermindEth/nethermind/issues/9408) - 2025-10-04
 ## Q3 2025
 
 

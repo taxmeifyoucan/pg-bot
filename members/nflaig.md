@@ -22,6 +22,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: unsubscribe from `blob_sidecar` topics during fulu fork transition](https://github.com/ChainSafe/lodestar/pull/8497) - 2025-10-03
 * [Commit] [refactor: replace * value with other more bash friendly value (#8491)](https://github.com/ChainSafe/lodestar/commit/be3c5220f424fb9b4175f57fc310f105f067c914) - 2025-10-03
 * [Commit] [fix: use previous slot to get sync aggregate for block (#8494)](https://github.com/ChainSafe/lodestar/commit/c9deb9b59f390b57031824f5a63c5e300831ced4) - 2025-10-03
+* [Commit] [Make lastPersistedCheckpointState flag hidden](https://github.com/ChainSafe/lodestar/commit/ad9a77f464f68d9b489f2baecf39508608c6c4d0) - 2025-10-04
+* [Commit] [Fix casing](https://github.com/ChainSafe/lodestar/commit/ab75339620d7958962f48235c91a6a77b00b2225) - 2025-10-04
+* [Commit] [Throw 400 api error if parsing of checkpoint fails](https://github.com/ChainSafe/lodestar/commit/e09f7a0a4fd3e37085af769dc842f08fef77901e) - 2025-10-04
+* [Commit] [Use 404 status code](https://github.com/ChainSafe/lodestar/commit/7dd1690d938384f581ba148393eb61abef51206b) - 2025-10-04
+* [Commit] [Tweak comment](https://github.com/ChainSafe/lodestar/commit/de08c890373bd22fe658be16c35f2dbff16c1d99) - 2025-10-04
+* [Pull Request] [feat: sync from unfinalized checkpoint state](https://github.com/ChainSafe/lodestar/pull/8500) - 2025-10-04
+* [Commit] [Review changes](https://github.com/ChainSafe/lodestar/commit/4cc8a20d95b1ea45ebd214e889ae7cdaf6716c64) - 2025-10-04
 ## Q3 2025
 
 

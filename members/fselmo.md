@@ -24,6 +24,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [chore(consume): mark sync tests flaky (#2252)](https://github.com/ethereum/execution-spec-tests/commit/835e0a741f8143e69c39c6c8766c3befc1e07f6a) - 2025-10-02
 * [Pull Request] [chore(consume): mark sync tests flaky](https://github.com/ethereum/execution-spec-tests/pull/2252) - 2025-10-02
 * [Commit] [refactor(tests): use pytest parametrize to reduce code duplication in BloatNet tests (#2242)](https://github.com/ethereum/execution-spec-tests/commit/14d7a5decede68a343fa2047adb139f9fbc957c1) - 2025-10-03
+* [Commit] [fix(tests): BALs - set genesis environment to calculate base fee appropriately (#2262)](https://github.com/ethereum/execution-spec-tests/commit/ef11a98dd378e9ec07f86edc31246e826b9efff8) - 2025-10-04
 ## Q3 2025
 
 [ethereum/hive](https://github.com/ethereum/hive)

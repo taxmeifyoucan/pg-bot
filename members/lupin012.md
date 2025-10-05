@@ -14,9 +14,16 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Commit] [use internal func](https://github.com/erigontech/erigon/commit/b87f895f08d2d648ea1e64ef574dc91d9f7d96d7) - 2025-10-02
 
+* [Commit] [rpc: fix no changes and filter not found in eth_getFilter* (#17327)](https://github.com/erigontech/erigon/commit/df39cf9c9a53c873f507d50014fe0fdb2547d0f8) - 2025-10-04
+* [Pull Request] [add cast after PR 17134](https://github.com/erigontech/erigon/pull/17341) - 2025-10-04
+* [Commit] [add cast to avoid error](https://github.com/erigontech/erigon/commit/e7a736205088e542ba1924b891cc1ee2139938ea) - 2025-10-04
+* [Commit] [estimateGas WithBlockOverrides](https://github.com/erigontech/erigon/commit/66c7695eed465561b184ff7cca7980e0374f0068) - 2025-10-04
+* [Commit] [qa_tests: fix DUMP_RESPONSE in RPC latest test runner (#17275)](https://github.com/erigontech/erigon/commit/5ba59962504c743f216000bebcd5af4c8563fd49) - 2025-10-04
+* [Commit] [uupdate rpc-test version](https://github.com/erigontech/erigon/commit/3aba09d7ff81af369360b90fb8b2f6021373ed0d) - 2025-10-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add debug_traceCall test for Gnosis (#470)](https://github.com/erigontech/rpc-tests/commit/627c1e1ff3fc3e52d9c6d23ca3fd69a727b1d1ae) - 2025-10-03
 * [Commit] [remove wrong chr](https://github.com/erigontech/rpc-tests/commit/4383d9aeb6fd73d640c82d9503c6ff742f54706e) - 2025-10-03
+* [Commit] [integration: eth_estimateGas with state/block overrides (#467)](https://github.com/erigontech/rpc-tests/commit/ade828fa9f2f386ff67fe6b42d630dcc19542e20) - 2025-10-04
 ## Q3 2025
 
 

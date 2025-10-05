@@ -8,6 +8,11 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7928: Clarify EIP 7702](https://github.com/ethereum/EIPs/pull/10471) - 2025-10-04
 ## Q3 2025
 
 

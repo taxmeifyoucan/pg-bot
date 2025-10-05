@@ -16,6 +16,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Make requests non-relevant more strict.](https://github.com/status-im/nimbus-eth2/commit/a002d7875928c8ffdf2242b39fcd7ef3318f0c7f) - 2025-10-01
 * [Commit] [Add blob_quarantine logging.](https://github.com/status-im/nimbus-eth2/commit/5689ab44912e4fcddfc604ba46f0059f95c35496) - 2025-10-02
 * [Commit] [Disable rewind syncing for blocks step.](https://github.com/status-im/nimbus-eth2/commit/5a39ef41799d91b6bb0103871fa701725050f748) - 2025-10-03
+* [Commit] [Add blob/column quarantine pruning for failing/empty requests.](https://github.com/status-im/nimbus-eth2/commit/504047f853b5a8a4f9488363e70425f5b06070af) - 2025-10-04
 ## Q3 2025
 
 
