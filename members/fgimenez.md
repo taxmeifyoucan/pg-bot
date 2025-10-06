@@ -17,6 +17,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/3bf0d425c8244952e02de9361d1f8ade02dcc6f4) - 2025-10-03
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/96dba23c62193d00331e3e580f88fe01c59fbdab) - 2025-10-03
 
+* [Commit] [fix](https://github.com/paradigmxyz/reth/commit/3fcd585add9b98be5141cb45109386294d838807) - 2025-10-05
+* [Pull Request] [chore: update hive expected/ignored failures](https://github.com/paradigmxyz/reth/pull/18863) - 2025-10-05
+* [Commit] [focus](https://github.com/paradigmxyz/reth/commit/6a1b8982c7c4c788442b1a9637e6a3c408522239) - 2025-10-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Federico Gimenez 1 -> 0.5](https://github.com/protocolguild/documentation/pull/430) - 2025-10-04
 ## Q3 2025

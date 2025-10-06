@@ -8,6 +8,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 ## Contributions
 
+## Q4 2025
+
+
+[gballet/go-ethereum](https://github.com/gballet/go-ethereum)
+* [Commit] [update ziren ref + use tags for crypto module](https://github.com/gballet/go-ethereum/commit/b26b3e800143d8662c4ce32ae628aa6d90ea54a1) - 2025-10-05
 ## Q3 2025
 
 

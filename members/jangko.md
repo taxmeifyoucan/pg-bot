@@ -13,6 +13,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Bump nim-eth: move enode to eth/enode (#3731)](https://github.com/status-im/nimbus-eth1/commit/59aad34c024a72d09a9458ae12754f1475fe558f) - 2025-10-01
+* [Commit] [Add mcl submodule and alt_bn128 precompiles using mcl](https://github.com/status-im/nimbus-eth1/commit/2c6fcc01d2d29a0b146d467af28274aef2d06dc0) - 2025-10-05
+* [Commit] [Add mcl submodule and alt_bn128 precompiles using mcl](https://github.com/status-im/nimbus-eth1/commit/c04c65a070908261fc93f450e3dd5ac8c037c297) - 2025-10-05
 ## Q3 2025
 
 

@@ -21,6 +21,7 @@ Team: Erigon
 * [Commit] [spil exec serial and parallel into own files](https://github.com/erigontech/erigon/commit/15347904dd5d5bc22fb9da55bc0f9d520b46e5f4) - 2025-10-02
 * [Pull Request] [Split exec3 inner functions into  exec3_serial & exec3_parallel](https://github.com/erigontech/erigon/pull/17338) - 2025-10-03
 * [Commit] [fix tests](https://github.com/erigontech/erigon/commit/0081f6f1820cb368d564e58be7aaf0219d4b383a) - 2025-10-03
+* [Commit] [added syscheck on linux (#17286)](https://github.com/erigontech/erigon/commit/774973bad0ee29f56382c8603ae0b9672b5e0cf9) - 2025-10-05
 ## Q3 2025
 
 

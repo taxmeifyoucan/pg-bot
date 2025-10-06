@@ -28,6 +28,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/d57414ea2453ac1f0f9ceb7e45621c65174768c9) - 2025-10-03
 * [Pull Request] [Fix simple transfer test](https://github.com/NethermindEth/nethermind/pull/9405) - 2025-10-03
 * [Commit] [GasEstimator refactor post #9064 (#9210)](https://github.com/NethermindEth/nethermind/commit/c11d141aa3731369c378f3d1e2e2fbf0ba8b16c0) - 2025-10-03
+* [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/ac126d0fee89c48e3f1fa4775711f5e0c5674c65) - 2025-10-05
+* [Commit] [Update benchmarks](https://github.com/NethermindEth/nethermind/commit/70d03bfb57158abbcf89c95aa899d5eb62adac9d) - 2025-10-05
+* [Pull Request] [Optimize Avx512 Keccak](https://github.com/NethermindEth/nethermind/pull/9413) - 2025-10-05
 ## Q3 2025
 
 

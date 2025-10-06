@@ -25,6 +25,19 @@ Team: Erigon
 * [Commit] [Trie: reduce cell size - by using int16 for prefix lengths (#17134)](https://github.com/erigontech/erigon/commit/1fbf9ed7abcd88d86b07f01c187004c3f7557659) - 2025-10-04
 * [Commit] [rpcdaemon:  debug_traceCall() fix with sysContract (#17339)](https://github.com/erigontech/erigon/commit/09d201ae2a1b601ce33b24d62a3dc68fc43fea4c) - 2025-10-04
 * [Commit] [Split exec3 inner functions into  exec3_serial & exec3_parallel (#17338)](https://github.com/erigontech/erigon/commit/f421b3e9524329302581a6e365f01df7b5b012e1) - 2025-10-04
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/125716f869c3f6c950075bdc241f1077684d5ba7) - 2025-10-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/42d0cf8e84238eb3a8b25ca6f47ab7e29b21371f) - 2025-10-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/e35762bf58176b939856e2e991cc3b1c6cd4ca08) - 2025-10-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/d06523af3390e45b1826e5430aed7b69220b2084) - 2025-10-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/50b4321d80773d709766b2140c40361c52dde3f7) - 2025-10-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/40494be7e563eb5831e76dbfeab8760a1f1343f4) - 2025-10-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/240c07086c55c78717deb1954212e66b30f2cbde) - 2025-10-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/3d87749125c63c7b74887b0959c00bba345a95cc) - 2025-10-05
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/de46b7305e797712ce05e8a7855e24c69fcc206c) - 2025-10-05
+* [Commit] [rpc: replace `interface{}` by `any`  (#15958)](https://github.com/erigontech/erigon/commit/168c4183d58fa6f1191a05939cca4e03149716f5) - 2025-10-05
+* [Commit] [dir improvements: move interfaces from erigon-lib to node (#17223)](https://github.com/erigontech/erigon/commit/778382472d5f0431201b417655bdc9574342e34c) - 2025-10-05
+* [Issue] [investigate chaindata grow on snapshotters](https://github.com/erigontech/erigon/issues/17345) - 2025-10-05
+* [Issue] [How to re-gen and release 1 network files?](https://github.com/erigontech/erigon/issues/17344) - 2025-10-05
 ## Q3 2025
 
 

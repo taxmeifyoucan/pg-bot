@@ -14,6 +14,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 [consensys/teku](https://github.com/consensys/teku)
 * [Pull Request] [cleaned up deprecated config items](https://github.com/Consensys/teku/pull/9963) - 2025-10-02
 * [Commit] [cleaned up deprecated config items (#9963)](https://github.com/Consensys/teku/commit/ea93b7bfbd87b73c3659e0cdb029972632fa0182) - 2025-10-03
+* [Issue] [potentially allow context callouts in messages to documentation.](https://github.com/Consensys/teku/issues/9968) - 2025-10-05
 ## Q3 2025
 
 

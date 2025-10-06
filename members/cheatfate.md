@@ -17,6 +17,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add blob_quarantine logging.](https://github.com/status-im/nimbus-eth2/commit/5689ab44912e4fcddfc604ba46f0059f95c35496) - 2025-10-02
 * [Commit] [Disable rewind syncing for blocks step.](https://github.com/status-im/nimbus-eth2/commit/5a39ef41799d91b6bb0103871fa701725050f748) - 2025-10-03
 * [Commit] [Add blob/column quarantine pruning for failing/empty requests.](https://github.com/status-im/nimbus-eth2/commit/504047f853b5a8a4f9488363e70425f5b06070af) - 2025-10-04
+* [Commit] [Dissect ColumnMap from blob_quarantine to its own module.](https://github.com/status-im/nimbus-eth2/commit/9b662f71c8ef1685664ee383a91ae4ed8fb98c48) - 2025-10-05
+* [Commit] [Store blobs/columns in quarantine right before pushing request to avoid one more leak step.](https://github.com/status-im/nimbus-eth2/commit/4ea4f029bdb4e6d7280fe1c12f0484b8fd2cda21) - 2025-10-05
+* [Commit] [Add more debug logging to blob/column quarantine.](https://github.com/status-im/nimbus-eth2/commit/f70b96649b5e955bd56239986b2d834d877ad623) - 2025-10-05
 ## Q3 2025
 
 

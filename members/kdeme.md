@@ -19,6 +19,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Portal + era1: Remove use of hardcoded mainnet mergeBlockNumber](https://github.com/status-im/nimbus-eth1/commit/ad51effc74c091db846371311655aaeeb6c471e1) - 2025-10-03
 * [Issue] [Issues with provided Sepolia era1 files](https://github.com/status-im/nimbus-eth1/issues/3740) - 2025-10-03
 * [Issue] [Unify Era1DB Portal version and EL version](https://github.com/status-im/nimbus-eth1/issues/3743) - 2025-10-04
+* [Issue] [Use EL ChainConfig in Portal/block proofs](https://github.com/status-im/nimbus-eth1/issues/3744) - 2025-10-05
 ## Q3 2025
 
 

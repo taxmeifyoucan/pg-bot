@@ -19,6 +19,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Refactor/further isolate prewarmer (#9355)](https://github.com/NethermindEth/nethermind/commit/7ad21998efbff84fddbc424bb3ed94b6173a05be) - 2025-10-03
 * [Commit] [Update src/Nethermind/Nethermind.Core.Test/TestWorldStateFactory.cs](https://github.com/NethermindEth/nethermind/commit/edaeeb2957aef8e927f8bd4cab5041dabe4a44ee) - 2025-10-03
 * [Commit] [Address comment](https://github.com/NethermindEth/nethermind/commit/99da7687654a81b70e374bf693ee8d3679f3d470) - 2025-10-03
+* [Commit] [Abstract big cache](https://github.com/NethermindEth/nethermind/commit/28f54a8a259df8665e4ce8e49c81a3b1a02fd022) - 2025-10-05
 ## Q3 2025
 
 

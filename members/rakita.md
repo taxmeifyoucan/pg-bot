@@ -21,6 +21,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: helper caller_initial_modification added (#3032)](https://github.com/bluealloy/revm/commit/1c91a12fb71cd1348de339e9c31f8a663eda9f93) - 2025-10-02
 * [Pull Request] [Rakita/helper calculate caller fee](https://github.com/bluealloy/revm/pull/3040) - 2025-10-02
 * [Commit] [rename to caller_initial_modification](https://github.com/bluealloy/revm/commit/c0e764fa05718d492cc28f33424cd8a57242b3e3) - 2025-10-02
+* [Commit] [chore: add boundless (#3043)](https://github.com/bluealloy/revm/commit/07953cda5f492157018faaa55c4a4f1791aeb005) - 2025-10-05
+* [Commit] [chore: expose stack data (#3047)](https://github.com/bluealloy/revm/commit/a54d4f705cf9ec2cfb6683bbb530afe6e4c9fba0) - 2025-10-05
 ## Q3 2025
 
 
