@@ -24,6 +24,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [Add BlockTimestamp to ReceiptForRpc](https://github.com/NethermindEth/nethermind/pull/9404) - 2025-10-03
 * [Commit] [add test](https://github.com/NethermindEth/nethermind/commit/b397bd5ff7861181e7cebebbc770b6fd420fcb5a) - 2025-10-04
 * [Pull Request] [Fix/eth69 correct lower bound](https://github.com/NethermindEth/nethermind/pull/9409) - 2025-10-04
+* [Pull Request] [Add recovery of missing code](https://github.com/NethermindEth/nethermind/pull/9417) - 2025-10-06
 ## Q3 2025
 
 

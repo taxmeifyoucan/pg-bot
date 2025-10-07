@@ -19,6 +19,17 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [codehash](https://github.com/NethermindEth/nethermind/commit/89bf5f92a4782755e90ad6c35f94a9bbc44f3a1e) - 2025-10-02
 * [Commit] [trace get account balance](https://github.com/NethermindEth/nethermind/commit/878b787fb8b542b40dfe6e91ebc4a1c5c31f79dc) - 2025-10-02
 * [Commit] [create account & selfdestruct edge cases](https://github.com/NethermindEth/nethermind/commit/c046b924980cf4c9c240e2cca01f937b69c5cd80) - 2025-10-03
+* [Commit] [set to empty hash if genesis](https://github.com/NethermindEth/nethermind/commit/cdcf39bec21924de685692b88c5551a75f19e069) - 2025-10-06
+* [Commit] [add to chainspecbasedprovider](https://github.com/NethermindEth/nethermind/commit/6ed885f7b75c0bfaab579986d9d4c6cd39abd496) - 2025-10-06
+* [Commit] [add to chainspecbasedprovider](https://github.com/NethermindEth/nethermind/commit/4a3357ef433b73c7d59e701219f6e1ef666d8a15) - 2025-10-06
+* [Commit] [always set bal hash](https://github.com/NethermindEth/nethermind/commit/f0863b4137604bd75617b81387b7ec462de57481) - 2025-10-06
+* [Commit] [undo](https://github.com/NethermindEth/nethermind/commit/c77d2eee4b051af617ebafd7a5d6d50cff275bc0) - 2025-10-06
+* [Commit] [try only setting null hash when enabled](https://github.com/NethermindEth/nethermind/commit/455efa718c0ceb6b54d15f33e85fa50d1622e149) - 2025-10-06
+* [Commit] [lowercase hex](https://github.com/NethermindEth/nethermind/commit/15446c964df3e8687c595a62fadb614d902db31f) - 2025-10-06
+* [Commit] [undo](https://github.com/NethermindEth/nethermind/commit/be3fd21c4380b4cd92a389e457451f75538f8cc1) - 2025-10-06
+* [Commit] [try only setting null hash when enabled](https://github.com/NethermindEth/nethermind/commit/f9365464eb152323c0d476a7e32a16eb9ade4370) - 2025-10-06
+* [Commit] [liscence date](https://github.com/NethermindEth/nethermind/commit/2979d35a927f24f1ae2700113de6cacfe0ae0503) - 2025-10-06
+* [Commit] [set timestamp](https://github.com/NethermindEth/nethermind/commit/da627331438b746dc9411a3240f0117954dc3133) - 2025-10-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Marc Harvey-Hill (Nethermind) 0.5->1](https://github.com/protocolguild/documentation/pull/421) - 2025-10-01
 ## Q3 2025

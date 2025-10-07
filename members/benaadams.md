@@ -31,6 +31,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Formatting](https://github.com/NethermindEth/nethermind/commit/ac126d0fee89c48e3f1fa4775711f5e0c5674c65) - 2025-10-05
 * [Commit] [Update benchmarks](https://github.com/NethermindEth/nethermind/commit/70d03bfb57158abbcf89c95aa899d5eb62adac9d) - 2025-10-05
 * [Pull Request] [Optimize Avx512 Keccak](https://github.com/NethermindEth/nethermind/pull/9413) - 2025-10-05
+* [Commit] [Reset code filter per block (#9415)](https://github.com/NethermindEth/nethermind/commit/914b082efca9ae93990ebc849fe8d5169511a4f5) - 2025-10-06
+* [Commit] [Fix/eth69 correct lower bound (#9409)](https://github.com/NethermindEth/nethermind/commit/37f4c080ebdf376104e15f086e7b3f6e159c747e) - 2025-10-06
+* [Commit] [Remove](https://github.com/NethermindEth/nethermind/commit/c591ddeb95043a8bbc7840f3fac9aa7ca36ba71a) - 2025-10-06
+* [Commit] [break](https://github.com/NethermindEth/nethermind/commit/de66e748509fe1928579fdc60491d0d1a19eb383) - 2025-10-06
+* [Commit] [Add code wait](https://github.com/NethermindEth/nethermind/commit/b916204f3a108aacb7e2c42005284d9eb5f2f87a) - 2025-10-06
+* [Commit] [Add persisted filter](https://github.com/NethermindEth/nethermind/commit/94111c005fd93638e035746f151a59d8e9223d2a) - 2025-10-06
+* [Pull Request] [Reset code filter per block](https://github.com/NethermindEth/nethermind/pull/9415) - 2025-10-06
 ## Q3 2025
 
 

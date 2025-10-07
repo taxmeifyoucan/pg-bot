@@ -24,6 +24,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Add more tests](https://github.com/NethermindEth/nethermind/commit/f37afbd5e8085e6ab46326c43a7cfbdecfad3584) - 2025-10-03
 * [Commit] [Add more tests](https://github.com/NethermindEth/nethermind/commit/3353320772dc3ab4ffb113e4bb4a4429ca807f56) - 2025-10-03
 * [Commit] [Add more tests](https://github.com/NethermindEth/nethermind/commit/0167c0a79f03fe622cb992776ee3f8c09dd94ae3) - 2025-10-03
+* [Commit] [Fix beneficiary & blob base fee in eth_simulate (#9371)](https://github.com/NethermindEth/nethermind/commit/27f87bbf89529c0e5c3cdca739bd1cd2d7f7c551) - 2025-10-06
+* [Commit] [Improve](https://github.com/NethermindEth/nethermind/commit/9414c2251d6d5f81a0fd18874ac184bd3c638fad) - 2025-10-06
+* [Commit] [Simplify dependencies](https://github.com/NethermindEth/nethermind/commit/0825d2d938f2b373a892651d5bb24d57b35fdba5) - 2025-10-06
+* [Commit] [Improve](https://github.com/NethermindEth/nethermind/commit/5cfaf8537cb08fed6132d7eb663bbe8821714e55) - 2025-10-06
 ## Q3 2025
 
 

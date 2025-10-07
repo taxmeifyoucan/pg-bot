@@ -18,6 +18,7 @@ Team: Erigon
 * [Pull Request] [[r3.1] test workflows: user input sanitisation](https://github.com/erigontech/erigon/pull/17305) - 2025-10-01
 * [Commit] [[r3.1] test workflows: user input sanitisation (#17305)](https://github.com/erigontech/erigon/commit/0c96b78239377c5c496ce96730e96c014fce1b58) - 2025-10-02
 * [Pull Request] [qa-tests: show a more specific error message inside the tip-tracking log](https://github.com/erigontech/erigon/pull/17328) - 2025-10-03
+* [Commit] [qa-tests: show a more specific error message inside the tip-tracking log (#17328)](https://github.com/erigontech/erigon/commit/8b41713bda606a9baef9bee15197375500b72c4e) - 2025-10-06
 ## Q3 2025
 
 

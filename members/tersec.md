@@ -31,6 +31,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix incorrect worker count for supernodes (#7567)](https://github.com/status-im/nimbus-eth2/commit/765945d8a0b4bc9e0eccf940cd7680338897d594) - 2025-10-03
 * [Pull Request] [fix incorrect worker count for supernodes](https://github.com/status-im/nimbus-eth2/pull/7567) - 2025-10-03
 * [Commit] [Bump vendor/mainnet from `9df5a5b` to `5a94a36` (#7531)](https://github.com/status-im/nimbus-eth2/commit/4d1db0b8db268c76b99c69ff3753b23a39e135b6) - 2025-10-04
+
+* [Commit] [Remove unused genesisSnapshotContent (#7573)](https://github.com/status-im/nimbus-eth2/commit/a8e4982b6dd3fce4127a7c3b7b98884385e944fa) - 2025-10-06
+* [Commit] [properly increment ENR sequence number when updating cgc (#7572)](https://github.com/status-im/nimbus-eth2/commit/fd831fe33cb8cfd0603be763114284867339161a) - 2025-10-06
+* [Commit] [properly use MIN_EPOCHS_FOR_DATA_COLUMN_SIDECARS_REQUESTS in data column quarantine (#7570)](https://github.com/status-im/nimbus-eth2/commit/57fb9585e95c19a9e0cce91281d16e1b4342be17) - 2025-10-06
+* [Pull Request] [properly increment ENR sequence number when updating cgc](https://github.com/status-im/nimbus-eth2/pull/7572) - 2025-10-06
+* [Pull Request] [properly use MIN_EPOCHS_FOR_DATA_COLUMN_SIDECARS_REQUESTS in data column quarantine](https://github.com/status-im/nimbus-eth2/pull/7570) - 2025-10-06
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Commit] [proxy: refactor (#3709)](https://github.com/status-im/nimbus-eth1/commit/cacde70cbe18ab34b70d0470701bcf0587171071) - 2025-10-06
+* [Commit] [Fix OverflowDefect crash in block validation (#3741)](https://github.com/status-im/nimbus-eth1/commit/f5eebe4d02e5647eead49e2ce855e89c94e3e31c) - 2025-10-06
+* [Pull Request] [increase default gas limit to 60M](https://github.com/status-im/nimbus-eth1/pull/3746) - 2025-10-06
 ## Q3 2025
 
 

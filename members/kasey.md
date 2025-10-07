@@ -21,6 +21,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [ignore version/digest mismatch if far future](https://github.com/OffchainLabs/prysm/commit/943e383f343e3cca66d423bc30a8bf9cfeee17f3) - 2025-10-02
 * [Commit] [ignore version/digest mismatch if far future](https://github.com/OffchainLabs/prysm/commit/be696c23230640fc523f0702880f1ea84cba9cba) - 2025-10-02
 * [Commit] [Change LC p2p validation rules (#15783)](https://github.com/OffchainLabs/prysm/commit/cbe50269deece6dcfdc0007441ba310722dc8147) - 2025-10-03
+* [Commit] [ensure we check that we're 1 epoch past the fork](https://github.com/OffchainLabs/prysm/commit/244291c9c5480b875572a5b1d4713c6153a5a764) - 2025-10-06
+* [Commit] [Custody Info: Waits for initialization (#15804)](https://github.com/OffchainLabs/prysm/commit/4f9e56fc706e27c27734cf6bff92de97b99cf09a) - 2025-10-06
+* [Commit] [preston comment re panic causing db corruption risk](https://github.com/OffchainLabs/prysm/commit/dc95762e6455c492b3eeacf3cea270d9e33c841b) - 2025-10-06
+* [Commit] [refactor to enable immediate sub after init sync](https://github.com/OffchainLabs/prysm/commit/7bc8d6115255f220e9dd692289298799f4f0e9a4) - 2025-10-06
+* [Commit] [manu's feedback](https://github.com/OffchainLabs/prysm/commit/788a87be1aeea4086d09e67b0fab4ba42e285227) - 2025-10-06
 ## Q3 2025
 
 

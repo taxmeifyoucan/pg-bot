@@ -20,6 +20,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Dissect ColumnMap from blob_quarantine to its own module.](https://github.com/status-im/nimbus-eth2/commit/9b662f71c8ef1685664ee383a91ae4ed8fb98c48) - 2025-10-05
 * [Commit] [Store blobs/columns in quarantine right before pushing request to avoid one more leak step.](https://github.com/status-im/nimbus-eth2/commit/4ea4f029bdb4e6d7280fe1c12f0484b8fd2cda21) - 2025-10-05
 * [Commit] [Add more debug logging to blob/column quarantine.](https://github.com/status-im/nimbus-eth2/commit/f70b96649b5e955bd56239986b2d834d877ad623) - 2025-10-05
+* [Commit] [Add BlockBuffer invalidation.](https://github.com/status-im/nimbus-eth2/commit/7f504efb91497fd29ec877ed8c33c8b22be6253a) - 2025-10-06
+* [Commit] [Move BlockBuffer tests to test suite.](https://github.com/status-im/nimbus-eth2/commit/b24602b636aa8d26b8d5f6378f0fa1efb2d96c77) - 2025-10-06
 ## Q3 2025
 
 

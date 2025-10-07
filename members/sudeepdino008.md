@@ -22,6 +22,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Use MaxUint64 as return value to `HistoryStartFrom()` if no files present (#17308)](https://github.com/erigontech/erigon/commit/cc428cbc99ffeef18f6fe7b6b048a897ed4e7217) - 2025-10-03
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7fed2272dc936f79620d7329c6e11c1e4f702c7c) - 2025-10-03
 * [Commit] [save](https://github.com/erigontech/erigon/commit/7556bde3809c6b8bc9b949b476b7111e0f3f7574) - 2025-10-03
+* [Commit] [add block serial execution metric (#17353)](https://github.com/erigontech/erigon/commit/f060c30c93dc0aa541ad9ede2d3afafd92e399d5) - 2025-10-06
+* [Pull Request] [add block serial execution metric](https://github.com/erigontech/erigon/pull/17353) - 2025-10-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/8828b24f269e7149dc9a0fcf3682fdc14c593d34) - 2025-10-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/aa36b1ab581eb928ededa0e27b74cef526060a3a) - 2025-10-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/c0fdc842f05db812cabd02281ee6857c61de20fd) - 2025-10-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/433a67f81deb7545959461cc6e19461c349aa0c1) - 2025-10-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e31837a008c580dbce68bcbb0efaa1eceeee7488) - 2025-10-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b507cbc1e5a5f1d0157a82455471782cf172be71) - 2025-10-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/74aed2513e024bbc56a03477a39861623de9e4ac) - 2025-10-06
+* [Commit] [save](https://github.com/erigontech/erigon/commit/e4fb1428d02b317ffdbde3da1a450e648872738b) - 2025-10-06
 ## Q3 2025
 
 

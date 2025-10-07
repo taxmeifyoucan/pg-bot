@@ -17,6 +17,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Update beacon-chain/sync/pending_attestations_queue.go](https://github.com/OffchainLabs/prysm/commit/1995923e91d8fe929eead15563beced16ca99e16) - 2025-10-03
 * [Pull Request] [Return early if there's no block for data column sidecar](https://github.com/OffchainLabs/prysm/pull/15802) - 2025-10-03
 * [Commit] [Add root for debug](https://github.com/OffchainLabs/prysm/commit/d8dc954f52444feabaa12920fb7c4237cf035175) - 2025-10-05
+* [Commit] [Change it to map](https://github.com/OffchainLabs/prysm/commit/377f909e24e15804aba432af2baaa3d9eb1a6638) - 2025-10-06
 ## Q3 2025
 
 

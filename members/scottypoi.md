@@ -8,6 +8,11 @@ Team: EthereumJS
 
 ## Contributions
 
+## Q4 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [update weight to PT](https://github.com/protocolguild/documentation/pull/431) - 2025-10-06
 ## Q2 2025
 
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)

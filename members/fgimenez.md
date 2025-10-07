@@ -20,6 +20,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/3fcd585add9b98be5141cb45109386294d838807) - 2025-10-05
 * [Pull Request] [chore: update hive expected/ignored failures](https://github.com/paradigmxyz/reth/pull/18863) - 2025-10-05
 * [Commit] [focus](https://github.com/paradigmxyz/reth/commit/6a1b8982c7c4c788442b1a9637e6a3c408522239) - 2025-10-05
+* [Commit] [fix(provider): handle missing anchor blocks during re-org state lookups](https://github.com/paradigmxyz/reth/commit/ca1dab206658fa1902be657619564641cb8c45a4) - 2025-10-06
+* [Commit] [perf(multiproof): cache storage proof root of missed leaves (#18750)](https://github.com/paradigmxyz/reth/commit/8effbf265bfbf973b2a84b8dab00c8e1bdc55905) - 2025-10-06
+* [Commit] [revert](https://github.com/paradigmxyz/reth/commit/67fcbe3d1b620c03772e161286bdf6fbc9654eee) - 2025-10-06
+* [Commit] [focus](https://github.com/paradigmxyz/reth/commit/aec7074a333357bd1ff7ba5b075612540e83a25f) - 2025-10-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Federico Gimenez 1 -> 0.5](https://github.com/protocolguild/documentation/pull/430) - 2025-10-04
 ## Q3 2025

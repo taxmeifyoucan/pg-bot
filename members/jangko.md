@@ -15,6 +15,17 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Bump nim-eth: move enode to eth/enode (#3731)](https://github.com/status-im/nimbus-eth1/commit/59aad34c024a72d09a9458ae12754f1475fe558f) - 2025-10-01
 * [Commit] [Add mcl submodule and alt_bn128 precompiles using mcl](https://github.com/status-im/nimbus-eth1/commit/2c6fcc01d2d29a0b146d467af28274aef2d06dc0) - 2025-10-05
 * [Commit] [Add mcl submodule and alt_bn128 precompiles using mcl](https://github.com/status-im/nimbus-eth1/commit/c04c65a070908261fc93f450e3dd5ac8c037c297) - 2025-10-05
+* [Commit] [Fix nvp CI](https://github.com/status-im/nimbus-eth1/commit/d54f25a64311d368c9a356ebbd2fb3c96ff6be11) - 2025-10-06
+* [Pull Request] [Use mcl to boost alt_bn128 precompiles performance](https://github.com/status-im/nimbus-eth1/pull/3747) - 2025-10-06
+* [Commit] [increase default gas limit to 60M (#3746)](https://github.com/status-im/nimbus-eth1/commit/fb1bdaa4fc5d675240ffc4057a9e73caec38355c) - 2025-10-06
+* [Commit] [debug arm64](https://github.com/status-im/nimbus-eth1/commit/439447c542d23a01262d9cf88a76fa850eafa4c0) - 2025-10-06
+* [Commit] [debug arm64](https://github.com/status-im/nimbus-eth1/commit/dd61f0a2dd16d2c2d09a0bf0a23be7077a320ead) - 2025-10-06
+* [Commit] [debug arm64](https://github.com/status-im/nimbus-eth1/commit/d8801725537ad1d2fbd82747b836dd9570e64ea1) - 2025-10-06
+* [Commit] [debug arm64](https://github.com/status-im/nimbus-eth1/commit/6336d173539748d72e8c2c4026bc214cba75db0b) - 2025-10-06
+* [Commit] [debug arm64](https://github.com/status-im/nimbus-eth1/commit/8fea7d51368bb54576b9d9a3a4d2095652afdbc6) - 2025-10-06
+* [Commit] [debug arm64](https://github.com/status-im/nimbus-eth1/commit/8f2f616b3c1345a13e49f74811ae9bbf63dd7ba6) - 2025-10-06
+* [Commit] [Addressing clang -march=native](https://github.com/status-im/nimbus-eth1/commit/a09711aaa49a4443c387c6129c795bf5df6c915d) - 2025-10-06
+* [Commit] [bump mcl](https://github.com/status-im/nimbus-eth1/commit/9ac4ce03df7c3c6cf71765f2a14354994c406e7b) - 2025-10-06
 ## Q3 2025
 
 

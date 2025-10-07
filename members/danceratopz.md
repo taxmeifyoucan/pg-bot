@@ -26,6 +26,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [bug(gentest,rpc): `gentest` rpc error with `unexpected keyword argument 'extra_headers'`](https://github.com/ethereum/execution-spec-tests/issues/2259) - 2025-10-03
 * [Commit] [Deployed 14d7a5deced to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/3224a0c282868dd96c71398c3878af578422f871) - 2025-10-03
 * [Pull Request] [chore: add helper label mapping scripts](https://github.com/ethereum/execution-spec-tests/pull/2258) - 2025-10-03
+* [Commit] [Deployed 033c89f1ff9 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/fb0c076da13df0b5777d192da0a177a05db27c43) - 2025-10-06
+* [Commit] [Deployed 0751556bfc0 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/7c68458b5406957847247ec4d95704ef2cfd1ebd) - 2025-10-06
+* [Commit] [Deployed d8523ed72bb to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/2c77961c41d98eda3f52d78461a82d0ca59e2483) - 2025-10-06
+* [Commit] [Deployed 68489a2cc61 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/398305522200a8dc8e39bb5c0b5476d6039ceee8) - 2025-10-06
 ## Q3 2025
 
 

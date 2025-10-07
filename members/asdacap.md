@@ -20,6 +20,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update src/Nethermind/Nethermind.Core.Test/TestWorldStateFactory.cs](https://github.com/NethermindEth/nethermind/commit/edaeeb2957aef8e927f8bd4cab5041dabe4a44ee) - 2025-10-03
 * [Commit] [Address comment](https://github.com/NethermindEth/nethermind/commit/99da7687654a81b70e374bf693ee8d3679f3d470) - 2025-10-03
 * [Commit] [Abstract big cache](https://github.com/NethermindEth/nethermind/commit/28f54a8a259df8665e4ce8e49c81a3b1a02fd022) - 2025-10-05
+* [Commit] [Thething (#9416)](https://github.com/NethermindEth/nethermind/commit/023f15b110497afa49c67f7b2d146f67afd43612) - 2025-10-06
+* [Commit] [Remove the delay](https://github.com/NethermindEth/nethermind/commit/8b97e333351ac0929d890d5399dd76f7573611b9) - 2025-10-06
+* [Commit] [Thefix](https://github.com/NethermindEth/nethermind/commit/51fadbaae968f807ac276a4a192a62157f4f9a76) - 2025-10-06
+* [Commit] [Reduce delay](https://github.com/NethermindEth/nethermind/commit/8ed4329f57f692ef3f5f9ae15fcee71a1d050fe8) - 2025-10-06
+* [Commit] [Like this](https://github.com/NethermindEth/nethermind/commit/6d69d12b9d08616b4e1c8d1fbdf8d9be000ade79) - 2025-10-06
+* [Pull Request] [Thething](https://github.com/NethermindEth/nethermind/pull/9416) - 2025-10-06
 ## Q3 2025
 
 

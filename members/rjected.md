@@ -15,6 +15,10 @@ Team: Reth
 * [Pull Request] [chore(cli): rename disable-caching-and-prewarming to disable-prewarming](https://github.com/paradigmxyz/reth/pull/18857) - 2025-10-03
 * [Commit] [chore(cli): rename disable-caching-and-prewarming to disable-prewarming](https://github.com/paradigmxyz/reth/commit/20f8a5320dcda30b36a2d3bffbfe1b1afcaa1bad) - 2025-10-03
 * [Pull Request] [docs(engine): fix outdated comment on TreeMetrics](https://github.com/paradigmxyz/reth/pull/18855) - 2025-10-03
+* [Commit] [chore: make clippy happy](https://github.com/paradigmxyz/reth/commit/ea9affc223670d264b89fd3c74f52493e2b0ab68) - 2025-10-06
+* [Commit] [perf: invalidate all destroyed accounts at once](https://github.com/paradigmxyz/reth/commit/415c3b7136483b13d83a1bc3401f49ff08955919) - 2025-10-06
+* [Pull Request] [fix(engine): flatten storage cache](https://github.com/paradigmxyz/reth/pull/18880) - 2025-10-06
+* [Pull Request] [fix(engine): re-insert storage cache and use arc](https://github.com/paradigmxyz/reth/pull/18879) - 2025-10-06
 ## Q3 2025
 
 

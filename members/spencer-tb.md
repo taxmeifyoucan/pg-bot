@@ -16,6 +16,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore: ruff 79 line lenght.](https://github.com/ethereum/execution-spec-tests/commit/b1a83b18ed77a059798ebff641113c9490dbc05c) - 2025-10-03
 * [Commit] [feat(tests): add tests for P256 with x,y out of range (#2237)](https://github.com/ethereum/execution-spec-tests/commit/4b2907dbb63addf284c42ec96c75463a30f2c97a) - 2025-10-03
 * [Commit] [chore(tests): Update 7951 Checklist Markers (#2088)](https://github.com/ethereum/execution-spec-tests/commit/e9045fc2b581a7949a54015b6b63782086a30a29) - 2025-10-03
+* [Pull Request] [chore(consume): fix consume sync logger errors](https://github.com/ethereum/execution-spec-tests/pull/2272) - 2025-10-06
+* [Commit] [✨ feat(tests): EIP-7928 No-op and adjacent test case (#2178)](https://github.com/ethereum/execution-spec-tests/commit/033c89f1ff94847ba0a7d64bf5fed26e88002806) - 2025-10-06
+* [Commit] [chore: dont edit with vim again.](https://github.com/ethereum/execution-spec-tests/commit/028d9000319d2484c10de88ee8840083e3a9af8a) - 2025-10-06
+* [Pull Request] [chore(cli): reth 6110 exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2271) - 2025-10-06
+* [Pull Request] [chore(ci|fill): bump eels for bpo1/2 param changes](https://github.com/ethereum/execution-spec-tests/pull/2270) - 2025-10-06
+* [Commit] [fix(benchmark): relax gas validation rule for non benchmark mode (#2269)](https://github.com/ethereum/execution-spec-tests/commit/0751556bfc04aabe62803771ff68d993c598c9ae) - 2025-10-06
 ## Q3 2025
 
 

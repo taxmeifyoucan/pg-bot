@@ -16,6 +16,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Pass SECONDS_PER_SLOT to BeaconClock module](https://github.com/status-im/nimbus-eth2/commit/2f12f5688b4aa1c7b035b94c4216e453afd85912) - 2025-10-02
 * [Pull Request] [Pass SECONDS_PER_SLOT to BeaconClock module](https://github.com/status-im/nimbus-eth2/pull/7566) - 2025-10-02
 * [Commit] [Pass SECONDS_PER_SLOT to BeaconClock module](https://github.com/status-im/nimbus-eth2/commit/f4b15fd63380677a53c60fa02ff93413fa30dec1) - 2025-10-02
+* [Commit] [Deleted too much when removing always-false breakLoop flags](https://github.com/status-im/nimbus-eth2/commit/ccf6e44ada6b8e8e17f171d70ee82bea94a2d71b) - 2025-10-06
+* [Pull Request] [Remove unused EIPs submodule](https://github.com/status-im/nimbus-eth2/pull/7574) - 2025-10-06
+* [Pull Request] [Remove unused genesisSnapshotContent](https://github.com/status-im/nimbus-eth2/pull/7573) - 2025-10-06
+* [Commit] [Lint](https://github.com/status-im/nimbus-eth2/commit/aa917eaa16c7c0e576ebe672c16aa82c1024c802) - 2025-10-06
+* [Pull Request] [Harden VC against lagspikes across slots](https://github.com/status-im/nimbus-eth2/pull/7571) - 2025-10-06
 ## Q3 2025
 
 

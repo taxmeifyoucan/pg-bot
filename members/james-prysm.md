@@ -19,6 +19,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [removing old unused configs and hiding configs to align with other cl…](https://github.com/OffchainLabs/prysm/pull/15797) - 2025-10-02
 * [Commit] [fixing test](https://github.com/OffchainLabs/prysm/commit/42f7e991dcff8a216280cbdff21dc590b3ee0ed1) - 2025-10-03
 * [Commit] [ignore version|digest mismatch if far future (#15798)](https://github.com/OffchainLabs/prysm/commit/bf1095c7820993be44d725d605d6967c74ac56a9) - 2025-10-03
+* [Commit] [kasey's feedback replacing comment](https://github.com/OffchainLabs/prysm/commit/ac5c770a9c8c7e310af06b188714123e4f81ba84) - 2025-10-06
 ## Q3 2025
 
 

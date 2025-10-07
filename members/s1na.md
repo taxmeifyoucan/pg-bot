@@ -18,6 +18,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Issue] [New eth_getCapabilities method](https://github.com/ethereum/go-ethereum/issues/32828) - 2025-10-02
 * [Issue] [State history range doesn't change](https://github.com/ethereum/go-ethereum/issues/32825) - 2025-10-02
 * [Commit] [core: refactor StateProcessor to accept ChainContext interface (#32739)](https://github.com/ethereum/go-ethereum/commit/fc8c8c1314a0fafc56297332729c2c00372e837e) - 2025-10-02
+* [Commit] [internal/ethapi: add timestamp to logs in eth_simulate (#32831)](https://github.com/ethereum/go-ethereum/commit/477ee5873ba9fde828c7964fcb9f881799c9d6c2) - 2025-10-06
 ## Q3 2025
 
 

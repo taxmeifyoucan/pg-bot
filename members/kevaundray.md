@@ -13,6 +13,9 @@ Team: Consensus R&D (EF)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [EIP7870: Change status to Live](https://github.com/ethereum/EIPs/pull/10462) - 2025-10-02
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Issue] [Add kzg block hashes to the public inputs when verifying optional execution proofs](https://github.com/ethereum/consensus-specs/issues/4637) - 2025-10-06
 ## Q3 2025
 
 

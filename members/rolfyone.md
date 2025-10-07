@@ -15,6 +15,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [cleaned up deprecated config items](https://github.com/Consensys/teku/pull/9963) - 2025-10-02
 * [Commit] [cleaned up deprecated config items (#9963)](https://github.com/Consensys/teku/commit/ea93b7bfbd87b73c3659e0cdb029972632fa0182) - 2025-10-03
 * [Issue] [potentially allow context callouts in messages to documentation.](https://github.com/Consensys/teku/issues/9968) - 2025-10-05
+* [Commit] [New Fulu ANSI banner (#9969)](https://github.com/Consensys/teku/commit/5a50ee658f13fbb981ede0eba1e5450f63811ee3) - 2025-10-06
 ## Q3 2025
 
 

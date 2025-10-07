@@ -13,6 +13,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [[Nethermind] Add Marcos Maceo (part-time)](https://github.com/protocolguild/documentation/pull/422) - 2025-10-01
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Pull Request] [Refactor RPC comparison workflow for clarity and efficiency](https://github.com/NethermindEth/nethermind/pull/9418) - 2025-10-06
 ## Q3 2025
 
 

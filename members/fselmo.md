@@ -25,6 +25,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(consume): mark sync tests flaky](https://github.com/ethereum/execution-spec-tests/pull/2252) - 2025-10-02
 * [Commit] [refactor(tests): use pytest parametrize to reduce code duplication in BloatNet tests (#2242)](https://github.com/ethereum/execution-spec-tests/commit/14d7a5decede68a343fa2047adb139f9fbc957c1) - 2025-10-03
 * [Commit] [fix(tests): BALs - set genesis environment to calculate base fee appropriately (#2262)](https://github.com/ethereum/execution-spec-tests/commit/ef11a98dd378e9ec07f86edc31246e826b9efff8) - 2025-10-04
+* [Commit] [fix: use BalAccountExpectation.empty() from rebased changes](https://github.com/ethereum/execution-spec-tests/commit/ddd70d7a957c56f53a032506f72b8f20fc204606) - 2025-10-06
+* [Commit] [fix(tests): BALs - set genesis environment to calculate base fee appropriately (#2262)](https://github.com/ethereum/execution-spec-tests/commit/ef11a98dd378e9ec07f86edc31246e826b9efff8) - 2025-10-06
+* [Commit] [feat: add back unmutated test with explicit no balance change check](https://github.com/ethereum/execution-spec-tests/commit/346f4e2a9a15806722aa078394ca52e692ec79c8) - 2025-10-06
 ## Q3 2025
 
 [ethereum/hive](https://github.com/ethereum/hive)

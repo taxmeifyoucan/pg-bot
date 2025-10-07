@@ -22,6 +22,10 @@ Team: Erigon
 * [Pull Request] [Split exec3 inner functions into  exec3_serial & exec3_parallel](https://github.com/erigontech/erigon/pull/17338) - 2025-10-03
 * [Commit] [fix tests](https://github.com/erigontech/erigon/commit/0081f6f1820cb368d564e58be7aaf0219d4b383a) - 2025-10-03
 * [Commit] [added syscheck on linux (#17286)](https://github.com/erigontech/erigon/commit/774973bad0ee29f56382c8603ae0b9672b5e0cf9) - 2025-10-05
+* [Commit] [blob calc logging](https://github.com/erigontech/erigon/commit/0800eb19ee5a3e6cd0e5f6458d1e5ec4c268b54f) - 2025-10-06
+* [Commit] [blob calc logging](https://github.com/erigontech/erigon/commit/e2b04f70029c1db90318d1b388a949ffc8c079a0) - 2025-10-06
+* [Commit] [blob calc logging](https://github.com/erigontech/erigon/commit/eebfbdcf687e1f9a44f2488956af8296372e4202) - 2025-10-06
+* [Commit] [blob calc logging](https://github.com/erigontech/erigon/commit/30e3663ff0b999481f4a90d8e3e709c8a817d386) - 2025-10-06
 ## Q3 2025
 
 

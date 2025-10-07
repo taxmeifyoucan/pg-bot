@@ -29,6 +29,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Tweak comment](https://github.com/ChainSafe/lodestar/commit/de08c890373bd22fe658be16c35f2dbff16c1d99) - 2025-10-04
 * [Pull Request] [feat: sync from unfinalized checkpoint state](https://github.com/ChainSafe/lodestar/pull/8500) - 2025-10-04
 * [Commit] [Review changes](https://github.com/ChainSafe/lodestar/commit/4cc8a20d95b1ea45ebd214e889ae7cdaf6716c64) - 2025-10-04
+* [Commit] [Tweak beacon state init logs](https://github.com/ChainSafe/lodestar/commit/9ff88c74536e52bb4a3569c3ec456bb7724d4dae) - 2025-10-06
+* [Commit] [Always return 404 api error](https://github.com/ChainSafe/lodestar/commit/fab39a589b18ca145b57b2324ae7fc8e77896f5d) - 2025-10-06
+* [Commit] [fix: unsubscribe from `blob_sidecar` topics during fulu fork transition (#8497)](https://github.com/ChainSafe/lodestar/commit/f45a2be721b2b631bc320acca3bcbdfe5f62c07d) - 2025-10-06
 ## Q3 2025
 
 

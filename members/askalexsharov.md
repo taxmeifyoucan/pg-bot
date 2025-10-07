@@ -38,6 +38,12 @@ Team: Erigon
 * [Commit] [dir improvements: move interfaces from erigon-lib to node (#17223)](https://github.com/erigontech/erigon/commit/778382472d5f0431201b417655bdc9574342e34c) - 2025-10-05
 * [Issue] [investigate chaindata grow on snapshotters](https://github.com/erigontech/erigon/issues/17345) - 2025-10-05
 * [Issue] [How to re-gen and release 1 network files?](https://github.com/erigontech/erigon/issues/17344) - 2025-10-05
+* [Commit] [refactor: using reflect.TypeFor (#17347)](https://github.com/erigontech/erigon/commit/f29bd14469fb8d9f649aff3bd874a48c6c3945b2) - 2025-10-06
+* [Commit] [added block versioning support (#17285)](https://github.com/erigontech/erigon/commit/f4c077582210e6dcbf983d2606a396190aa9b3b8) - 2025-10-06
+* [Commit] [merge main](https://github.com/erigontech/erigon/commit/dddffa3feb3fbc4dd6182906ea6411df5df1392f) - 2025-10-06
+* [Commit] [rpc: fix no changes and filter not found in eth_getFilter* (#17327) (#17350)](https://github.com/erigontech/erigon/commit/ff315fa9438adc3791d35d869c2349ff25732b19) - 2025-10-06
+* [Issue] [StepSize: experiment](https://github.com/erigontech/erigon/issues/17349) - 2025-10-06
+* [Issue] [publishable v2](https://github.com/erigontech/erigon/issues/17348) - 2025-10-06
 ## Q3 2025
 
 

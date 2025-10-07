@@ -25,6 +25,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl: fix initial previous_version in fork_schedule (#17263)](https://github.com/erigontech/erigon/commit/435c1eadefabc75f32a4d56159e608ec31b1c9e3) - 2025-10-03
 * [Commit] [cl: fix initial previous_version in fork_schedule (#17263)](https://github.com/erigontech/erigon/commit/8ad68954cf06b5d681a0dcb0df88b0d1adb70178) - 2025-10-03
 * [Issue] [Glamsterdam](https://github.com/erigontech/erigon/issues/17329) - 2025-10-03
+* [Commit] [numGoRoutines comment](https://github.com/erigontech/erigon/commit/5d46423c47e4cbfe4b76100324b217b14a482e34) - 2025-10-06
+* [Commit] [Remove eth/67 code (#17318)](https://github.com/erigontech/erigon/commit/c9554a5d65603bf970b9192e8e54501a8e67a068) - 2025-10-06
+* [Commit] [dir improvements: kill erigon-lib go module (#17337)](https://github.com/erigontech/erigon/commit/240aacbbbffd003406a7915ac47d98c03ada9043) - 2025-10-06
+* [Commit] [nolint:ruleguard doesn't work for some reason](https://github.com/erigontech/erigon/commit/2ef4d686fdf42fda8b6aab75b5116c0efb59866c) - 2025-10-06
+* [Commit] [execution/engineapi: remove old block downloader flow (#17333)](https://github.com/erigontech/erigon/commit/957a485f9846037973f9872c6d1e5f4d59de01a2) - 2025-10-06
+* [Commit] [rm remnants of erigon-lib](https://github.com/erigontech/erigon/commit/4c9561cd3684d89875e2931f56a6a2f09fcb6919) - 2025-10-06
+* [Issue] [Occasional failure to get receipts at chain tip (failed to fetch receipts of L1 block)](https://github.com/erigontech/erigon/issues/17351) - 2025-10-06
 ## Q3 2025
 
 

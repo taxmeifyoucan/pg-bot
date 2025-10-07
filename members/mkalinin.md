@@ -8,6 +8,11 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Commit] [Add Amsterdam execution-api specs (#691)](https://github.com/ethereum/execution-apis/commit/4ec8e5735ebb3f2ce0702726385cdde70034f78c) - 2025-10-06
 ## Q3 2025
 
 

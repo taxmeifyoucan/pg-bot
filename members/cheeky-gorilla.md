@@ -15,6 +15,16 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Pull Request] [Remove Piper + Portal working group](https://github.com/protocolguild/documentation/pull/423) - 2025-10-01
 * [Commit] [Add missing handle](https://github.com/protocolguild/documentation/commit/855b02490d1eb2ef9202104b2395514ebe9e3c30) - 2025-10-01
 * [Commit] [Rename Prysmatic Labs to Offchain Labs](https://github.com/protocolguild/documentation/commit/723caf509fd56ca1052c042986c7cf92c05082ba) - 2025-10-01
+* [Commit] [Update 01-membership.md](https://github.com/protocolguild/documentation/commit/046a8e55e92f9835560235be4db2bbd5202a44db) - 2025-10-06
+* [Commit] [Update Reth contributors in membership document](https://github.com/protocolguild/documentation/commit/ec144392b065e8d2293c2b0a7dd4d08707891de0) - 2025-10-06
+* [Commit] [Promote Artiom to fulltime](https://github.com/protocolguild/documentation/commit/26cf98ae890657544e698ad3f6fa0a0be433328c) - 2025-10-06
+* [Commit] [Update Ayman Bouchareb's contribution value to 0.5](https://github.com/protocolguild/documentation/commit/b99a10ab3d4d5fe91604a5532fe879ad76b3901a) - 2025-10-06
+* [Commit] [Remove Davide Crapis](https://github.com/protocolguild/documentation/commit/88750085ae46214d75578c7c6689a310bd81b16e) - 2025-10-06
+* [Commit] [add Wei Han Ng](https://github.com/protocolguild/documentation/commit/d057a69ecca53180e5848f4e5cc22dc32447ae27) - 2025-10-06
+* [Commit] [Add Carlos Perez](https://github.com/protocolguild/documentation/commit/274a08042aeb09ff218080d985f8fc5bf86f6476) - 2025-10-06
+* [Commit] [Add Yassine Ferhane](https://github.com/protocolguild/documentation/commit/a24f21dc286df424e7081ca70257acd2815c5654) - 2025-10-06
+* [Commit] [Add Antoine James to Security contributors list](https://github.com/protocolguild/documentation/commit/2abf091e63bbec18a422a3bf111d70bf5bf20484) - 2025-10-06
+* [Commit] [Update 01-membership.md: Add Carson from STEEL](https://github.com/protocolguild/documentation/commit/b5bff1f04ff6714950e7b0d4d728e96b01fe2ce4) - 2025-10-06
 ## Q3 2025
 
 

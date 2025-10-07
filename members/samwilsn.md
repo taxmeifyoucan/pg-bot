@@ -14,6 +14,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fix dead Readme links](https://github.com/ethereum/execution-specs/commit/2909da256fd8cbe5e7ca2fb9f02a62d7636c468a) - 2025-10-03
 * [Commit] [Rewrite new fork tool to modify blob parameters](https://github.com/ethereum/execution-specs/commit/3405f008aa768f20f09cf8e55340aba6457f8d21) - 2025-10-03
+* [Issue] [Repository root gets cluttered with `logs/` directory when running with tox](https://github.com/ethereum/execution-specs/issues/1456) - 2025-10-06
+* [Pull Request] [Tune test memory usage; disable index on pypy](https://github.com/ethereum/execution-specs/pull/1455) - 2025-10-06
 ## Q3 2025
 
 

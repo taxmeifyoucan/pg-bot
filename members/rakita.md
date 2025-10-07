@@ -23,6 +23,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [rename to caller_initial_modification](https://github.com/bluealloy/revm/commit/c0e764fa05718d492cc28f33424cd8a57242b3e3) - 2025-10-02
 * [Commit] [chore: add boundless (#3043)](https://github.com/bluealloy/revm/commit/07953cda5f492157018faaa55c4a4f1791aeb005) - 2025-10-05
 * [Commit] [chore: expose stack data (#3047)](https://github.com/bluealloy/revm/commit/a54d4f705cf9ec2cfb6683bbb530afe6e4c9fba0) - 2025-10-05
+* [Commit] [bal followup](https://github.com/bluealloy/revm/commit/c542f816957759fd293b252eaf6ee84150678e90) - 2025-10-06
+* [Commit] [bal followup](https://github.com/bluealloy/revm/commit/833dca7b2f0b13915296cc577f146d2132a75465) - 2025-10-06
 ## Q3 2025
 
 
