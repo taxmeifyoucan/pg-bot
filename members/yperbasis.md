@@ -32,6 +32,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/engineapi: remove old block downloader flow (#17333)](https://github.com/erigontech/erigon/commit/957a485f9846037973f9872c6d1e5f4d59de01a2) - 2025-10-06
 * [Commit] [rm remnants of erigon-lib](https://github.com/erigontech/erigon/commit/4c9561cd3684d89875e2931f56a6a2f09fcb6919) - 2025-10-06
 * [Issue] [Occasional failure to get receipts at chain tip (failed to fetch receipts of L1 block)](https://github.com/erigontech/erigon/issues/17351) - 2025-10-06
+* [Commit] [mv genesiswrite to execution](https://github.com/erigontech/erigon/commit/44dfd5ffa2f0bc7f3bb36c655fc593df6da89e59) - 2025-10-07
+* [Commit] [mv gdbme to node](https://github.com/erigontech/erigon/commit/2533f9c5ad86a0e9b112ecc63f17eccc96893dcd) - 2025-10-07
+* [Commit] [mv exec to execution](https://github.com/erigontech/erigon/commit/2faaa59eb3425e92b18e6cdca9c237e2eed507ae) - 2025-10-07
+* [Commit] [mv debugprint to cmd/utils](https://github.com/erigontech/erigon/commit/69efc1c5bd6639edcc79f7e3c5a18d259a03ecf1) - 2025-10-07
+* [Commit] [mv asm to vm](https://github.com/erigontech/erigon/commit/573d85733ebb0c02c61f5278334d6ace97a6f712) - 2025-10-07
+* [Commit] [txnprovider/shutter: add back accidentally dropped log line (#16561)](https://github.com/erigontech/erigon/commit/f948142df8f241d367faa205db7fe6f7aa05a7ab) - 2025-10-07
 ## Q3 2025
 
 

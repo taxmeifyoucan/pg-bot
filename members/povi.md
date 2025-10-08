@@ -13,6 +13,7 @@ Team: Grandine
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Data column backfill termination fix](https://github.com/grandinetech/grandine/commit/2003efb0ae024e33f641740d71db088595c81ffe) - 2025-10-02
+* [Commit] [Debug P2p message handling performance](https://github.com/grandinetech/grandine/commit/b06809517be13ba9651b98502b688164bc609a9a) - 2025-10-07
 ## Q3 2025
 
 

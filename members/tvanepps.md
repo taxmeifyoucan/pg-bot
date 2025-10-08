@@ -8,6 +8,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 
 ## Contributions
 
+## Q4 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Commit] [fix Stateless Consensus merging issue](https://github.com/protocolguild/documentation/commit/7609d30c22ee4e3f92ee735196c5e0ab95e14564) - 2025-10-07
 ## Q3 2025
 
 

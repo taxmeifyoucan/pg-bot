@@ -28,6 +28,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [fix: use BalAccountExpectation.empty() from rebased changes](https://github.com/ethereum/execution-spec-tests/commit/ddd70d7a957c56f53a032506f72b8f20fc204606) - 2025-10-06
 * [Commit] [fix(tests): BALs - set genesis environment to calculate base fee appropriately (#2262)](https://github.com/ethereum/execution-spec-tests/commit/ef11a98dd378e9ec07f86edc31246e826b9efff8) - 2025-10-06
 * [Commit] [feat: add back unmutated test with explicit no balance change check](https://github.com/ethereum/execution-spec-tests/commit/346f4e2a9a15806722aa078394ca52e692ec79c8) - 2025-10-06
+* [Commit] [feat: Add BAL tests for accessing delegated address via call opcodes](https://github.com/ethereum/execution-spec-tests/commit/a73376d0ad0c1b60563cac2e8fe57a83774d733f) - 2025-10-07
+* [Commit] [feat: Add BAL tests for accessing delegated address via call opcodes](https://github.com/ethereum/execution-spec-tests/commit/c1599e2ec3f01fb956002ca2681049286962c212) - 2025-10-07
 ## Q3 2025
 
 [ethereum/hive](https://github.com/ethereum/hive)

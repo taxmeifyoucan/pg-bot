@@ -17,6 +17,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Caplin: correct seconds-per-eth1-block for hoodi (#17127)](https://github.com/erigontech/erigon/commit/f430b21f2280ab5b88f0b431bcf7b741dccb1d58) - 2025-10-03
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/0da33e1a9bf9c5e6a611ff98b6a3973c850e6ea2) - 2025-10-05
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/81493a0101b16b081d378e180b6dfb2233e1275b) - 2025-10-05
+* [Commit] [commit](https://github.com/erigontech/erigon/commit/c69a6566c1a80eacf1af700ee385b3e8f6009988) - 2025-10-07
 ## Q3 2025
 
 

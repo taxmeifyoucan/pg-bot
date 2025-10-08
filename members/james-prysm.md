@@ -20,6 +20,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fixing test](https://github.com/OffchainLabs/prysm/commit/42f7e991dcff8a216280cbdff21dc590b3ee0ed1) - 2025-10-03
 * [Commit] [ignore version|digest mismatch if far future (#15798)](https://github.com/OffchainLabs/prysm/commit/bf1095c7820993be44d725d605d6967c74ac56a9) - 2025-10-03
 * [Commit] [kasey's feedback replacing comment](https://github.com/OffchainLabs/prysm/commit/ac5c770a9c8c7e310af06b188714123e4f81ba84) - 2025-10-06
+* [Commit] [chore: refactor to use builtin max/min (#15817)](https://github.com/OffchainLabs/prysm/commit/9805e90d73a703bd3dc16f7094fdd89df52b8894) - 2025-10-07
+* [Commit] [Move some logs to trace (#15816)](https://github.com/OffchainLabs/prysm/commit/b45e87abd65ca418f0babb6bc2ee5baf562f6a1c) - 2025-10-07
 ## Q3 2025
 
 

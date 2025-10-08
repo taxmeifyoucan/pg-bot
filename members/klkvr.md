@@ -18,6 +18,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/6222f5523facf5748d272ea706d195263fb35ef5) - 2025-10-03
 * [Commit] [fix](https://github.com/paradigmxyz/reth/commit/bf99bd617f1daa51769902ec976ea1dfac2a0fba) - 2025-10-03
 * [Pull Request] [chore: do not generate fuzz tests in Compact macro](https://github.com/paradigmxyz/reth/pull/18849) - 2025-10-03
+* [Commit] [relax](https://github.com/paradigmxyz/reth/commit/ed4b6999f802d9b0e939642d9856da2a97fd86c9) - 2025-10-07
+* [Pull Request] [chore: relax `EthChainSpec` impl for `ChainSpec`](https://github.com/paradigmxyz/reth/pull/18894) - 2025-10-07
 ## Q3 2025
 
 

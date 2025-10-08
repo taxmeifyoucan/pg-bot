@@ -21,6 +21,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [docs(fix): update git clone with depth 1 (#2257)](https://github.com/ethereum/execution-spec-tests/commit/cc753acd3612f4b516ee99990b5ca70754306bd2) - 2025-10-03
 * [Commit] [feat(tests): add test for modexp with 2**32 exp len (#2254)](https://github.com/ethereum/execution-spec-tests/commit/eb6120b3b01a522ba5b3abfb5fb49aab9732fac5) - 2025-10-03
 * [Issue] [Update the existing test_modexp_upper_bounds to run from Prague](https://github.com/ethereum/execution-spec-tests/issues/2260) - 2025-10-03
+* [Commit] [feat(cli): Blocktest builder (#2190)](https://github.com/ethereum/execution-spec-tests/commit/1138ec56b68b4a0a0dfc89a61f136769a0a863f0) - 2025-10-07
+* [Commit] [chore(tests): Update 7951 Checklist Markers (#2088)](https://github.com/ethereum/execution-spec-tests/commit/e9045fc2b581a7949a54015b6b63782086a30a29) - 2025-10-07
+* [Commit] [feat(t8n): Support evmone's `--opcode.count` option (#1956)](https://github.com/ethereum/execution-spec-tests/commit/18fc57080296cf0dafa4e8b30cffd8d1fc630e7a) - 2025-10-07
 ## Q3 2025
 
 

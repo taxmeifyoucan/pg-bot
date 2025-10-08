@@ -32,6 +32,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b507cbc1e5a5f1d0157a82455471782cf172be71) - 2025-10-06
 * [Commit] [save](https://github.com/erigontech/erigon/commit/74aed2513e024bbc56a03477a39861623de9e4ac) - 2025-10-06
 * [Commit] [save](https://github.com/erigontech/erigon/commit/e4fb1428d02b317ffdbde3da1a450e648872738b) - 2025-10-06
+* [Pull Request] [domain compaction: protect StateRoot key in commitment.kv](https://github.com/erigontech/erigon/pull/17380) - 2025-10-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b074aaed3fbed1518323c5af5a18d6fb92471344) - 2025-10-07
+* [Issue] [explore reducing domain file read times via better domain cache use](https://github.com/erigontech/erigon/issues/17379) - 2025-10-07
+* [Issue] [fix stage_exec chaintip mode](https://github.com/erigontech/erigon/issues/17378) - 2025-10-07
 ## Q3 2025
 
 

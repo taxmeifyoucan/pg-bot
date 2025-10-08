@@ -25,6 +25,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: expose stack data (#3047)](https://github.com/bluealloy/revm/commit/a54d4f705cf9ec2cfb6683bbb530afe6e4c9fba0) - 2025-10-05
 * [Commit] [bal followup](https://github.com/bluealloy/revm/commit/c542f816957759fd293b252eaf6ee84150678e90) - 2025-10-06
 * [Commit] [bal followup](https://github.com/bluealloy/revm/commit/833dca7b2f0b13915296cc577f146d2132a75465) - 2025-10-06
+* [Commit] [chore: expose stack data (#3047)](https://github.com/bluealloy/revm/commit/a54d4f705cf9ec2cfb6683bbb530afe6e4c9fba0) - 2025-10-07
+* [Commit] [bump: tag v88 revm v30.0.0 (#3058)](https://github.com/bluealloy/revm/commit/f8ee6a2252eef8ab0e23e59a26d7aee579d7fe73) - 2025-10-07
+* [Commit] [bump: tag v88 revm v30.0.0](https://github.com/bluealloy/revm/commit/e791a1a67f9a1957eb93bdf364f4ad2c45cf4e20) - 2025-10-07
+* [Pull Request] [bump: tag v88 revm v30.0.0](https://github.com/bluealloy/revm/pull/3058) - 2025-10-07
+* [Commit] [chore: make precompile error pub (#3057)](https://github.com/bluealloy/revm/commit/704276b01b11a8bde8323f497f5a4e685aa94bf0) - 2025-10-07
+* [Commit] [chore: release (#2958)](https://github.com/bluealloy/revm/commit/44591c33f49f71463a7c1c46decb0eda8fb2fdf7) - 2025-10-07
 ## Q3 2025
 
 

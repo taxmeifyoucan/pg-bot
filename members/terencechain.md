@@ -18,6 +18,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Return early if there's no block for data column sidecar](https://github.com/OffchainLabs/prysm/pull/15802) - 2025-10-03
 * [Commit] [Add root for debug](https://github.com/OffchainLabs/prysm/commit/d8dc954f52444feabaa12920fb7c4237cf035175) - 2025-10-05
 * [Commit] [Change it to map](https://github.com/OffchainLabs/prysm/commit/377f909e24e15804aba432af2baaa3d9eb1a6638) - 2025-10-06
+* [Commit] [Use two slices](https://github.com/OffchainLabs/prysm/commit/604928badf63a476fad3fc895006376a3e4b9e07) - 2025-10-07
+* [Commit] [Set config for block processing test](https://github.com/OffchainLabs/prysm/commit/27cdc14a3d290d6e9c7f641aa882e9171ea9621d) - 2025-10-07
 ## Q3 2025
 
 

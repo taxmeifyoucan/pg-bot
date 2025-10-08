@@ -26,6 +26,10 @@ Team: Erigon
 * [Commit] [blob calc logging](https://github.com/erigontech/erigon/commit/e2b04f70029c1db90318d1b388a949ffc8c079a0) - 2025-10-06
 * [Commit] [blob calc logging](https://github.com/erigontech/erigon/commit/eebfbdcf687e1f9a44f2488956af8296372e4202) - 2025-10-06
 * [Commit] [blob calc logging](https://github.com/erigontech/erigon/commit/30e3663ff0b999481f4a90d8e3e709c8a817d386) - 2025-10-06
+* [Commit] [fix lint](https://github.com/erigontech/erigon/commit/158de9049c6468e802f928dd72102a0c664dbf82) - 2025-10-07
+* [Pull Request] [Extend blocklimit beyond frozen steps](https://github.com/erigontech/erigon/pull/17381) - 2025-10-07
+* [Commit] [take last commited tx from domains](https://github.com/erigontech/erigon/commit/abbc08db5abf0a65c7a49ac2bb922aa5a4ebea82) - 2025-10-07
+* [Commit] [fix compile errors](https://github.com/erigontech/erigon/commit/5f61f15086099a1bbc9fce9ee413c99bc02b12c8) - 2025-10-07
 ## Q3 2025
 
 

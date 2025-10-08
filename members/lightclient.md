@@ -14,6 +14,9 @@ Team: Geth
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-2711: fix minor typos (#10463)](https://github.com/ethereum/EIPs/commit/d589e3e31aa1470f4ae72ddd88f76c9ee3125a56) - 2025-10-03
 * [Commit] [Update EIP-7723: Include primary point of contact in proposal (#10391)](https://github.com/ethereum/EIPs/commit/3d3c5381e80b1c9a274a3142229abbd7933ed5d8) - 2025-10-03
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [cmd/geth: add flag to set genesis](https://github.com/ethereum/go-ethereum/pull/32844) - 2025-10-07
 ## Q3 2025
 
 

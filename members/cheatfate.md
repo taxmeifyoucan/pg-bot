@@ -22,6 +22,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add more debug logging to blob/column quarantine.](https://github.com/status-im/nimbus-eth2/commit/f70b96649b5e955bd56239986b2d834d877ad623) - 2025-10-05
 * [Commit] [Add BlockBuffer invalidation.](https://github.com/status-im/nimbus-eth2/commit/7f504efb91497fd29ec877ed8c33c8b22be6253a) - 2025-10-06
 * [Commit] [Move BlockBuffer tests to test suite.](https://github.com/status-im/nimbus-eth2/commit/b24602b636aa8d26b8d5f6378f0fa1efb2d96c77) - 2025-10-06
+* [Commit] [Fix crash.](https://github.com/status-im/nimbus-eth2/commit/67e3c4d125524a1a914cb7e6e094dbe60c77fb82) - 2025-10-07
+* [Commit] [Fix issue with block validation response check.](https://github.com/status-im/nimbus-eth2/commit/fa8d200b847bbc69029eb92bf5f2fcbadd0bc069) - 2025-10-07
 ## Q3 2025
 
 

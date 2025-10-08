@@ -22,6 +22,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [More forked chain and txFrame tests (#3738)](https://github.com/status-im/nimbus-eth1/commit/661a2caec79b0f79c8e15472391b863f9fb7f019) - 2025-10-02
 * [Pull Request] [Fix underflow defect triggered when offset is less than finalized block number](https://github.com/status-im/nimbus-eth1/pull/3741) - 2025-10-03
 * [Commit] [Add assertions to txFrame to prevent use after dispose (#3739)](https://github.com/status-im/nimbus-eth1/commit/2af7ab27e94899e894ab6c99ad1de70a407a0a1e) - 2025-10-03
+* [Commit] [Make enabling the dynamic batch size configurable.](https://github.com/status-im/nimbus-eth1/commit/a26ad79b8da73619530aeaae8d1f2857a5f74c6a) - 2025-10-07
 ## Q3 2025
 
 

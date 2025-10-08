@@ -25,6 +25,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Add Yassine Ferhane](https://github.com/protocolguild/documentation/commit/a24f21dc286df424e7081ca70257acd2815c5654) - 2025-10-06
 * [Commit] [Add Antoine James to Security contributors list](https://github.com/protocolguild/documentation/commit/2abf091e63bbec18a422a3bf111d70bf5bf20484) - 2025-10-06
 * [Commit] [Update 01-membership.md: Add Carson from STEEL](https://github.com/protocolguild/documentation/commit/b5bff1f04ff6714950e7b0d4d728e96b01fe2ce4) - 2025-10-06
+* [Commit] [add marc](https://github.com/protocolguild/documentation/commit/fab59f2abf08fc1d36c8bd584cfb78be004755d1) - 2025-10-07
+* [Commit] [add nixo](https://github.com/protocolguild/documentation/commit/0bcce846486cc3b4af1c639d1828ad59abfb4210) - 2025-10-07
+* [Commit] [Add Felix Hoffman](https://github.com/protocolguild/documentation/commit/ded081d4dc9ba5389099d9a80f3f75de7c1971c5) - 2025-10-07
 ## Q3 2025
 
 

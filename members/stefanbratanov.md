@@ -18,6 +18,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Remove TODO from DasCustodySyncTest (#9797)](https://github.com/Consensys/teku/commit/5a59f3dd8c3a78a6375d8993712f79a2ffbd796e) - 2025-10-01
 * [Commit] [Barebone/stub block production for Gloas (#9962)](https://github.com/Consensys/teku/commit/8b7486408e2ce05e52447025e543aaed2d55ea02) - 2025-10-02
 * [Pull Request] [Add remaining gossip managers for Gloas](https://github.com/Consensys/teku/pull/9966) - 2025-10-03
+* [Commit] [Add remaining gossip managers for Gloas (#9966)](https://github.com/Consensys/teku/commit/71d0c2a6ea89bffc088f7badadad4ab3ec1dac26) - 2025-10-07
+* [Issue] [Req/Resp domain for Gloas](https://github.com/Consensys/teku/issues/9974) - 2025-10-07
 ## Q3 2025
 
 

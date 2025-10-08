@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [fix-DataColumnSidecarELRecoveryManager-pluming (#9961)](https://github.com/Consensys/teku/commit/5cb2ceea191174cfd1d9ec507423d4115523ce26) - 2025-10-02
 * [Pull Request] [Allow spec to be lazily initialized with additional dependencies](https://github.com/Consensys/teku/pull/9967) - 2025-10-03
 * [Pull Request] [Default GassLimit to 60M](https://github.com/Consensys/teku/pull/9965) - 2025-10-03
+* [Issue] [Publishing column sidecars while syncing far from the head?](https://github.com/Consensys/teku/issues/9976) - 2025-10-07
 ## Q3 2025
 
 

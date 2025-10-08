@@ -28,6 +28,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Improve](https://github.com/NethermindEth/nethermind/commit/9414c2251d6d5f81a0fd18874ac184bd3c638fad) - 2025-10-06
 * [Commit] [Simplify dependencies](https://github.com/NethermindEth/nethermind/commit/0825d2d938f2b373a892651d5bb24d57b35fdba5) - 2025-10-06
 * [Commit] [Improve](https://github.com/NethermindEth/nethermind/commit/5cfaf8537cb08fed6132d7eb663bbe8821714e55) - 2025-10-06
+* [Commit] [Add timestamp to simulate logs & blob gas & remove total difficulty (#9406)](https://github.com/NethermindEth/nethermind/commit/c9138c79268d99aecb091a5f8b411b623500bd24) - 2025-10-07
 ## Q3 2025
 
 

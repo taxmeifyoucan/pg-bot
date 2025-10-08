@@ -24,6 +24,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: storage slot validation in eth_getStorageAt](https://github.com/erigontech/erigon/pull/17340) - 2025-10-04
 * [Commit] [rpcademon: estimateGas WithBlockOverrides (#17295)](https://github.com/erigontech/erigon/commit/7ed4d3c8e0bba29973829f15c8a4a69d56d191fe) - 2025-10-05
 * [Pull Request] [rpc: fix no changes and filter not found in eth_getFilter* (#17327)](https://github.com/erigontech/erigon/pull/17350) - 2025-10-06
+* [Commit] [rpc: storage slot validation in eth_getStorageAt (#17340)](https://github.com/erigontech/erigon/commit/1de7d417d4b673657b9a96c32486fde253b71ff9) - 2025-10-07
+* [Commit] [add block serial execution metric (#17353)](https://github.com/erigontech/erigon/commit/f060c30c93dc0aa541ad9ede2d3afafd92e399d5) - 2025-10-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: refactor WebSocket integration utilities (#468)](https://github.com/erigontech/rpc-tests/commit/4f415d317dc3637648781b043ac3b002aa209132) - 2025-10-02
 * [Pull Request] [integration: add test for debug_traceCall](https://github.com/erigontech/rpc-tests/pull/470) - 2025-10-03

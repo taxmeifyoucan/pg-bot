@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 
 ## Contributions
 
+## Q4 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Issue] [Teku is missing peer count per subnet for datacolumn subnets](https://github.com/Consensys/teku/issues/9973) - 2025-10-07
+* [Commit] [Default GasLimit to 60M (#9965)](https://github.com/Consensys/teku/commit/baf72b76aead8f92e29fcfd425e175adb21884ac) - 2025-10-07
 ## Q3 2025
 
 

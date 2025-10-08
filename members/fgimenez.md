@@ -24,8 +24,14 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [perf(multiproof): cache storage proof root of missed leaves (#18750)](https://github.com/paradigmxyz/reth/commit/8effbf265bfbf973b2a84b8dab00c8e1bdc55905) - 2025-10-06
 * [Commit] [revert](https://github.com/paradigmxyz/reth/commit/67fcbe3d1b620c03772e161286bdf6fbc9654eee) - 2025-10-06
 * [Commit] [focus](https://github.com/paradigmxyz/reth/commit/aec7074a333357bd1ff7ba5b075612540e83a25f) - 2025-10-06
+* [Commit] [updated ignored tests](https://github.com/paradigmxyz/reth/commit/2a982f10a31cc11b8cdbb31c3a5790325a9d8ed9) - 2025-10-07
+* [Commit] [updated ignored tests](https://github.com/paradigmxyz/reth/commit/e605ab41fcf1c895a0e8ebdef6ae3eaf92653ccb) - 2025-10-07
+* [Commit] [ci: cache hive simulator images to reduce prepare-hive job time](https://github.com/paradigmxyz/reth/commit/693d0c3c0381b078813550080e231b606b364dab) - 2025-10-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Federico Gimenez 1 -> 0.5](https://github.com/protocolguild/documentation/pull/430) - 2025-10-04
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Issue] [Flaky "Invalid Missing Ancestor Syncing ReOrg" tests fail when payload contains no transactions](https://github.com/ethereum/hive/issues/1351) - 2025-10-07
 ## Q3 2025
 
 

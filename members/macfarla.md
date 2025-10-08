@@ -18,6 +18,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [uprev jc-kzg dependency (#9261)](https://github.com/hyperledger/besu/commit/48094a59724467d07382c5abb484dae968ad74bb) - 2025-10-02
 * [Commit] [Add vh and commitment size validation (#9262)](https://github.com/hyperledger/besu/commit/1e88e37d718de69dce2eae79b17f82a80ca80675) - 2025-10-02
 * [Commit] [Add bpos to adminnodeInfo (#9263)](https://github.com/hyperledger/besu/commit/e9b48d9ee642ef41eb65729e10ce399993d03a2c) - 2025-10-02
+* [Commit] [add blockTimestamp to LogResult (#9278)](https://github.com/hyperledger/besu/commit/f8b87bf66a67f4b3f62564b8576c7abc65426e61) - 2025-10-07
+* [Pull Request] [add blockTimestamp to LogResult](https://github.com/hyperledger/besu/pull/9278) - 2025-10-07
+* [Commit] [fixed unmatched format arg for log message (#9274)](https://github.com/hyperledger/besu/commit/e2a089a5fc1bfac0b9513b1ba967a5dae94c5556) - 2025-10-07
+* [Issue] [add blockTimestamp to eth_getLogs result](https://github.com/hyperledger/besu/issues/9276) - 2025-10-07
+* [Pull Request] [check bpo timestamp ordering](https://github.com/hyperledger/besu/pull/9275) - 2025-10-07
+* [Pull Request] [fixed unmatched format arg for log message](https://github.com/hyperledger/besu/pull/9274) - 2025-10-07
 ## Q3 2025
 
 

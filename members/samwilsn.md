@@ -16,6 +16,20 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Rewrite new fork tool to modify blob parameters](https://github.com/ethereum/execution-specs/commit/3405f008aa768f20f09cf8e55340aba6457f8d21) - 2025-10-03
 * [Issue] [Repository root gets cluttered with `logs/` directory when running with tox](https://github.com/ethereum/execution-specs/issues/1456) - 2025-10-06
 * [Pull Request] [Tune test memory usage; disable index on pypy](https://github.com/ethereum/execution-specs/pull/1455) - 2025-10-06
+
+* [Commit] [Tune test memory usage; disable index on pypy (#1455)](https://github.com/ethereum/execution-specs/commit/af5664bba33920a89116a38640c0f1a3221d9f9e) - 2025-10-07
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Commit] [Update EIP-908: Fix typo (#10312)](https://github.com/ethereum/EIPs/commit/48785209991dcca4f1c8766027c3f3398d0e6f49) - 2025-10-07
+* [Commit] [Update EIP-7636: fix typo (#10271)](https://github.com/ethereum/EIPs/commit/474290ae07adefc880852700cee071596deb1695) - 2025-10-07
+* [Commit] [Update EIP-2025: fix typos (#10049)](https://github.com/ethereum/EIPs/commit/013fc776fdd517a6bbcad58d974ec09f513ab332) - 2025-10-07
+* [Commit] [Update EIP-695: fix typo in specification text (#10167)](https://github.com/ethereum/EIPs/commit/0805b8f765d60a27040bf2e5d0b4e9991536b461) - 2025-10-07
+* [Commit] [Update EIP-1283: fix grammatical issues (#10162)](https://github.com/ethereum/EIPs/commit/800e8fd1d4d08a373d730132864838042d7b925f) - 2025-10-07
+* [Commit] [Update EIP-2200: fix grammatical typo (#10146)](https://github.com/ethereum/EIPs/commit/ad4eaaa1fe5c7aa394b2ab09e885b73b898f5da0) - 2025-10-07
+* [Commit] [Update EIP-684: fix grammar in eip 684 (#10115)](https://github.com/ethereum/EIPs/commit/d33d59c35ff4fecbed79cf189886883d184fe6e1) - 2025-10-07
+* [Commit] [Update EIP-684: typo (#10091)](https://github.com/ethereum/EIPs/commit/16737a372fc5d74368726791565ebf31876747f2) - 2025-10-07
+* [Commit] [Update EIP-7702: Correct link formatting (#10136)](https://github.com/ethereum/EIPs/commit/bbc3f95844c37612a2f1b9e7477990bb717ecfa0) - 2025-10-07
+* [Commit] [Update EIP-5792: Fix two typos in EIP (#10132)](https://github.com/ethereum/EIPs/commit/5b0c8dce4bc67d34082eff7950d44be928641207) - 2025-10-07
+* [Commit] [Update EIP-1108: correct typo in EIP-1108 rationale section (#10094)](https://github.com/ethereum/EIPs/commit/8cc38b9d7566132c5a05cef8d3b573d7fc2c44e8) - 2025-10-07
 ## Q3 2025
 
 

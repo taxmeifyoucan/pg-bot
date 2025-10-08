@@ -21,6 +21,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Unify Era1DB Portal version and EL version](https://github.com/status-im/nimbus-eth1/issues/3743) - 2025-10-04
 * [Issue] [Use EL ChainConfig in Portal/block proofs](https://github.com/status-im/nimbus-eth1/issues/3744) - 2025-10-05
 * [Commit] [Portal + era1: Remove use of hardcoded mainnet mergeBlockNumber (#3742)](https://github.com/status-im/nimbus-eth1/commit/6ec23f22da5543b1886affe961192d2f9eaa8bc6) - 2025-10-06
+* [Commit] [Portal: Simplify and optimize ContentDb pruning (#3753)](https://github.com/status-im/nimbus-eth1/commit/d0a0ae653bff0d3817f88d0ea4c3d31150cd1d8f) - 2025-10-07
 ## Q3 2025
 
 

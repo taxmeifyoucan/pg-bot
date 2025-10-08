@@ -19,6 +19,13 @@ Team: Reth
 * [Commit] [fix: handle MissingStaticFileTx error](https://github.com/paradigmxyz/reth/commit/c1a44f38197d96a24790cd2e9dc5ec7148c78112) - 2025-10-03
 * [Commit] [refactor: remove redundant Setup::new() method (#18781)](https://github.com/paradigmxyz/reth/commit/2cf9fc8f54b05d323a82ac0d550274395bfc19bb) - 2025-10-03
 * [Issue] [AccountChangeSets static files segment](https://github.com/paradigmxyz/reth/issues/18846) - 2025-10-03
+* [Commit] [fix: check if account was already seen](https://github.com/paradigmxyz/reth/commit/ad80bce1b13ad63a486a05ffd47a26da56d2a1bb) - 2025-10-07
+* [Commit] [fix: check if account was already seen](https://github.com/paradigmxyz/reth/commit/a97237299323a29e712ca6514c4a31bbcae740e9) - 2025-10-07
+* [Commit] [fix: check if account was already seen](https://github.com/paradigmxyz/reth/commit/8e1912f4befc3e6eb2c3d59d4caea77885e44ac0) - 2025-10-07
+* [Commit] [fix: check if account was already seen](https://github.com/paradigmxyz/reth/commit/f9ce11188b13db4f97171cd5c0f78e5c90a85885) - 2025-10-07
+* [Commit] [fix: take only changed storages amount of storages](https://github.com/paradigmxyz/reth/commit/b22ec9ef6f0627a27b14ea04ed387727f5111dd3) - 2025-10-07
+* [Commit] [feat: make more EVM and RPC conversions fallible (#18685)](https://github.com/paradigmxyz/reth/commit/6a50aa3ea5b900bedc4f96b658bdc25b02288761) - 2025-10-07
+* [Issue] [Cleanup payload validation tracing spans](https://github.com/paradigmxyz/reth/issues/18892) - 2025-10-07
 ## Q3 2025
 
 
