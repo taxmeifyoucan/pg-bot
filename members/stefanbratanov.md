@@ -20,6 +20,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Add remaining gossip managers for Gloas](https://github.com/Consensys/teku/pull/9966) - 2025-10-03
 * [Commit] [Add remaining gossip managers for Gloas (#9966)](https://github.com/Consensys/teku/commit/71d0c2a6ea89bffc088f7badadad4ab3ec1dac26) - 2025-10-07
 * [Issue] [Req/Resp domain for Gloas](https://github.com/Consensys/teku/issues/9974) - 2025-10-07
+* [Pull Request] [Refactor ep cell bundle](https://github.com/Consensys/teku/pull/9983) - 2025-10-08
+* [Pull Request] [`LocalSigner` changes for Gloas](https://github.com/Consensys/teku/pull/9982) - 2025-10-08
 ## Q3 2025
 
 

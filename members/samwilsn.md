@@ -18,6 +18,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Tune test memory usage; disable index on pypy](https://github.com/ethereum/execution-specs/pull/1455) - 2025-10-06
 
 * [Commit] [Tune test memory usage; disable index on pypy (#1455)](https://github.com/ethereum/execution-specs/commit/af5664bba33920a89116a38640c0f1a3221d9f9e) - 2025-10-07
+* [Issue] [Require CI pass on each commit in a pull request](https://github.com/ethereum/execution-specs/issues/1462) - 2025-10-08
+* [Issue] [Add conventional commits linter](https://github.com/ethereum/execution-specs/issues/1461) - 2025-10-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-908: Fix typo (#10312)](https://github.com/ethereum/EIPs/commit/48785209991dcca4f1c8766027c3f3398d0e6f49) - 2025-10-07
 * [Commit] [Update EIP-7636: fix typo (#10271)](https://github.com/ethereum/EIPs/commit/474290ae07adefc880852700cee071596deb1695) - 2025-10-07
@@ -30,6 +32,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Update EIP-7702: Correct link formatting (#10136)](https://github.com/ethereum/EIPs/commit/bbc3f95844c37612a2f1b9e7477990bb717ecfa0) - 2025-10-07
 * [Commit] [Update EIP-5792: Fix two typos in EIP (#10132)](https://github.com/ethereum/EIPs/commit/5b0c8dce4bc67d34082eff7950d44be928641207) - 2025-10-07
 * [Commit] [Update EIP-1108: correct typo in EIP-1108 rationale section (#10094)](https://github.com/ethereum/EIPs/commit/8cc38b9d7566132c5a05cef8d3b573d7fc2c44e8) - 2025-10-07
+* [Pull Request] [Withdraw eip-5003](https://github.com/ethereum/EIPs/pull/10491) - 2025-10-08
 ## Q3 2025
 
 

@@ -17,6 +17,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Add Gloas req/res domains](https://github.com/grandinetech/grandine/issues/402) - 2025-10-07
 * [Issue] [Add Gloas gossipsub topics](https://github.com/grandinetech/grandine/issues/401) - 2025-10-07
 * [Issue] [Update and check `/eth/v2/builder/blinded_blocks` call post-fusaka](https://github.com/grandinetech/grandine/issues/400) - 2025-10-07
+* [Commit] [Compute blob proofs post fulu for `/eth/v1/beacon/blob_sidecars/{block_id}`](https://github.com/grandinetech/grandine/commit/b468c960fde59647c947808d089b841423e17667) - 2025-10-08
+* [Commit] [Compute blob proofs post fulu for `/eth/v1/beacon/blob_sidecars/{block_id}`](https://github.com/grandinetech/grandine/commit/d900f38787ea4ab3c82572c06ec71fed03f7a6d7) - 2025-10-08
+* [Pull Request] [Compute blob poofs post fulu for `/eth/v1/beacon/blob_sidecars/{block_id}`](https://github.com/grandinetech/grandine/pull/406) - 2025-10-08
+* [Issue] [Beacon API: `/eth/v1/beacon/blob_sidecars` compute blob proofs from blobs and commitments](https://github.com/grandinetech/grandine/issues/405) - 2025-10-08
 ## Q3 2025
 
 

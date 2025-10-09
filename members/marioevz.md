@@ -24,6 +24,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(cli): Blocktest builder (#2190)](https://github.com/ethereum/execution-spec-tests/commit/1138ec56b68b4a0a0dfc89a61f136769a0a863f0) - 2025-10-07
 * [Commit] [chore(tests): Update 7951 Checklist Markers (#2088)](https://github.com/ethereum/execution-spec-tests/commit/e9045fc2b581a7949a54015b6b63782086a30a29) - 2025-10-07
 * [Commit] [feat(t8n): Support evmone's `--opcode.count` option (#1956)](https://github.com/ethereum/execution-spec-tests/commit/18fc57080296cf0dafa4e8b30cffd8d1fc630e7a) - 2025-10-07
+* [Issue] [Enforce all execution-specs rules](https://github.com/ethereum/execution-spec-tests/issues/2279) - 2025-10-08
 ## Q3 2025
 
 

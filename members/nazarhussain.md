@@ -8,6 +8,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q4 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Commit] [Update the plan execution](https://github.com/ChainSafe/lodestar/commit/68392b467acb4c5d27554f8310a6975fb25c1899) - 2025-10-08
+* [Pull Request] [refactor: update the structure of state regen operation](https://github.com/ChainSafe/lodestar/pull/8509) - 2025-10-08
+* [Commit] [Squashed commit of the following:](https://github.com/ChainSafe/lodestar/commit/5c24ff62a4151479bee74896664ed30237e341d7) - 2025-10-08
+* [Commit] [feat: add xdelta3 support for computing binary difference (#7664)](https://github.com/ChainSafe/lodestar/commit/fd5ad2a8c85e1dd45b8dbcec7f446d617366e013) - 2025-10-08
 ## Q3 2025
 
 

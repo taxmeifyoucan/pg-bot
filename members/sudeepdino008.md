@@ -36,6 +36,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b074aaed3fbed1518323c5af5a18d6fb92471344) - 2025-10-07
 * [Issue] [explore reducing domain file read times via better domain cache use](https://github.com/erigontech/erigon/issues/17379) - 2025-10-07
 * [Issue] [fix stage_exec chaintip mode](https://github.com/erigontech/erigon/issues/17378) - 2025-10-07
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d8cff5945cc08ba1941afd54d7f43b8d0a2ed281) - 2025-10-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/42fd1bbb7994525363db243a0c69dc37a56025a7) - 2025-10-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/81e699963bf57f647b2c872f7569dd2acf419d41) - 2025-10-08
+* [Commit] [Start final commitment calc (#17361)](https://github.com/erigontech/erigon/commit/62fa494f763f9a07cfeeb6410727d0e8d1581376) - 2025-10-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cb70ebd3d54aff33fe337530a6ae9c86c1e98dd2) - 2025-10-08
 ## Q3 2025
 
 

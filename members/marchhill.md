@@ -30,8 +30,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [try only setting null hash when enabled](https://github.com/NethermindEth/nethermind/commit/f9365464eb152323c0d476a7e32a16eb9ade4370) - 2025-10-06
 * [Commit] [liscence date](https://github.com/NethermindEth/nethermind/commit/2979d35a927f24f1ae2700113de6cacfe0ae0503) - 2025-10-06
 * [Commit] [set timestamp](https://github.com/NethermindEth/nethermind/commit/da627331438b746dc9411a3240f0117954dc3133) - 2025-10-06
+* [Commit] [don't record balance change for unchanged balance change in account](https://github.com/NethermindEth/nethermind/commit/ccfac269d01049c2d67c19a6b365e704ef461d58) - 2025-10-08
+* [Commit] [Add interval for history pruning (#9424)](https://github.com/NethermindEth/nethermind/commit/74dc7d8057314237437307c4e75b2ee3dfef6fb3) - 2025-10-08
+* [Commit] [slotsperepoch const](https://github.com/NethermindEth/nethermind/commit/edc1d4331f9fac447ac35f1a23509e87c68488cc) - 2025-10-08
+* [Commit] [pruning interval elapsed function](https://github.com/NethermindEth/nethermind/commit/959c28e74aae761097c5e8bffac53f57317de78c) - 2025-10-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Marc Harvey-Hill (Nethermind) 0.5->1](https://github.com/protocolguild/documentation/pull/421) - 2025-10-01
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7928: Balance change edge case](https://github.com/ethereum/EIPs/pull/10493) - 2025-10-08
 ## Q3 2025
 
 

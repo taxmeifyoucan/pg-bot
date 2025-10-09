@@ -16,6 +16,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [🥢 nit:](https://github.com/ethereum/execution-spec-tests/commit/f3ef32a7cf27ad5486c4ebe2ef6621eeeba8de9d) - 2025-10-01
 * [Commit] [✨ feat(test): test_bal_fully_unmutated_account](https://github.com/ethereum/execution-spec-tests/commit/aabc9915560a24effdac0b6a3fed9dace40bfb13) - 2025-10-01
 * [Commit] [🥢 nit: Add call value](https://github.com/ethereum/execution-spec-tests/commit/dd117bf35b99bcb777f8a2d916d50a3ae841acb6) - 2025-10-06
+* [Pull Request] [✨ feat(tests): EIP-7928  net zero balance transactions](https://github.com/ethereum/execution-spec-tests/pull/2280) - 2025-10-08
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

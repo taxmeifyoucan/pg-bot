@@ -32,6 +32,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Tweak beacon state init logs](https://github.com/ChainSafe/lodestar/commit/9ff88c74536e52bb4a3569c3ec456bb7724d4dae) - 2025-10-06
 * [Commit] [Always return 404 api error](https://github.com/ChainSafe/lodestar/commit/fab39a589b18ca145b57b2324ae7fc8e77896f5d) - 2025-10-06
 * [Commit] [fix: unsubscribe from `blob_sidecar` topics during fulu fork transition (#8497)](https://github.com/ChainSafe/lodestar/commit/f45a2be721b2b631bc320acca3bcbdfe5f62c07d) - 2025-10-06
+* [Commit] [Remove stale comment](https://github.com/ChainSafe/lodestar/commit/89bc0e3df983c1650ef888524f41bc49995d767b) - 2025-10-08
+* [Commit] [Use MAX_PAYLOAD_SIZE](https://github.com/ChainSafe/lodestar/commit/37e9b81251f0777a3bd0d778a7f1d4bafa64255d) - 2025-10-08
+* [Commit] [Fix unit tests](https://github.com/ChainSafe/lodestar/commit/12298593653f302921e3600c8b996427271af6df) - 2025-10-08
+* [Pull Request] [feat: update networking config to match CL spec](https://github.com/ChainSafe/lodestar/pull/8510) - 2025-10-08
+* [Commit] [feat: update networking config to match CL spec](https://github.com/ChainSafe/lodestar/commit/80f5107d518c7a19ad593283977df147f690ae87) - 2025-10-08
+* [Commit] [feat: update network config to match CL spec](https://github.com/ChainSafe/lodestar/commit/d3b51a4d1693840e8d697bcfdb97db7bb6239f30) - 2025-10-08
 ## Q3 2025
 
 

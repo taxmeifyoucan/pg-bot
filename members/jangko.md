@@ -26,6 +26,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [debug arm64](https://github.com/status-im/nimbus-eth1/commit/8f2f616b3c1345a13e49f74811ae9bbf63dd7ba6) - 2025-10-06
 * [Commit] [Addressing clang -march=native](https://github.com/status-im/nimbus-eth1/commit/a09711aaa49a4443c387c6129c795bf5df6c915d) - 2025-10-06
 * [Commit] [bump mcl](https://github.com/status-im/nimbus-eth1/commit/9ac4ce03df7c3c6cf71765f2a14354994c406e7b) - 2025-10-06
+* [Commit] [Use mcl to boost alt_bn128 precompiles performance (#3747)](https://github.com/status-im/nimbus-eth1/commit/552755a924019c640772c2a76a6f81f54f4f9f52) - 2025-10-08
 ## Q3 2025
 
 

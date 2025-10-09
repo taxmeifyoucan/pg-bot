@@ -13,6 +13,10 @@ Team: Grandine
 
 [grandinetech/rust-kzg](https://github.com/grandinetech/rust-kzg)
 * [Commit] [Port wbits msm from rust-eth-kzg](https://github.com/grandinetech/rust-kzg/commit/3a3bdf44fd69f71681c9ce2b33ae962d46759a64) - 2025-10-01
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Issue] [Upgrade rust-kzg](https://github.com/grandinetech/grandine/issues/408) - 2025-10-08
+* [Issue] [Duoble check the we don't have the vulnerabilities that were discovered in other clients during recent audits.](https://github.com/grandinetech/grandine/issues/407) - 2025-10-08
 ## Q3 2025
 
 

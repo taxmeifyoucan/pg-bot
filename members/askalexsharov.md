@@ -44,6 +44,7 @@ Team: Erigon
 * [Commit] [rpc: fix no changes and filter not found in eth_getFilter* (#17327) (#17350)](https://github.com/erigontech/erigon/commit/ff315fa9438adc3791d35d869c2349ff25732b19) - 2025-10-06
 * [Issue] [StepSize: experiment](https://github.com/erigontech/erigon/issues/17349) - 2025-10-06
 * [Issue] [publishable v2](https://github.com/erigontech/erigon/issues/17348) - 2025-10-06
+* [Commit] [refactor: use b.Loop() to simplify the code and improve performance (#17386)](https://github.com/erigontech/erigon/commit/59b3e516388e99ce854cfef85ea007c20702ef8a) - 2025-10-08
 ## Q3 2025
 
 

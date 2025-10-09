@@ -21,6 +21,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Remove unused genesisSnapshotContent](https://github.com/status-im/nimbus-eth2/pull/7573) - 2025-10-06
 * [Commit] [Lint](https://github.com/status-im/nimbus-eth2/commit/aa917eaa16c7c0e576ebe672c16aa82c1024c802) - 2025-10-06
 * [Pull Request] [Harden VC against lagspikes across slots](https://github.com/status-im/nimbus-eth2/pull/7571) - 2025-10-06
+* [Commit] [Missed one reference to defaultRuntimeConfig](https://github.com/status-im/nimbus-eth2/commit/9ab3cc0d1991dcc850ca5996f113e811d9bbaabb) - 2025-10-08
+* [Pull Request] [Allow runtime config to be configured for attestation pool tests](https://github.com/status-im/nimbus-eth2/pull/7582) - 2025-10-08
+* [Pull Request] [Use correct size when querying beacon block summaries](https://github.com/status-im/nimbus-eth2/pull/7579) - 2025-10-08
 ## Q3 2025
 
 

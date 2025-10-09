@@ -22,6 +22,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(cli): reth 6110 exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2271) - 2025-10-06
 * [Pull Request] [chore(ci|fill): bump eels for bpo1/2 param changes](https://github.com/ethereum/execution-spec-tests/pull/2270) - 2025-10-06
 * [Commit] [fix(benchmark): relax gas validation rule for non benchmark mode (#2269)](https://github.com/ethereum/execution-spec-tests/commit/0751556bfc04aabe62803771ff68d993c598c9ae) - 2025-10-06
+* [Commit] [chore: try 7823 conftest changes.](https://github.com/ethereum/execution-spec-tests/commit/2d0417d61b699eabc59da9d44cfddb710ee3c5b6) - 2025-10-08
+* [Commit] [chore: try 7823 conftest changes.](https://github.com/ethereum/execution-spec-tests/commit/21558846b0ac8f2120ce37369880ac2acc2fbec1) - 2025-10-08
+* [Commit] [chore: try 7823 conftest changes.](https://github.com/ethereum/execution-spec-tests/commit/10b821e717ca6ad0beb73fa33b7a55994e10f3c9) - 2025-10-08
+* [Commit] [chore: try 7823 conftest changes.](https://github.com/ethereum/execution-spec-tests/commit/27846d82a8a4c3c6167caad24f2b465ea9db46be) - 2025-10-08
+* [Commit] [chore(ci|fill): bump eels for bpo1/2 param changes (#2270)](https://github.com/ethereum/execution-spec-tests/commit/65f4ea62520446c1e0e8cc7ced35cc5296c98e22) - 2025-10-08
+* [Commit] [feat(tests): test call for eip2929 (#689)](https://github.com/ethereum/execution-spec-tests/commit/8115621105b79f60f0228f17c769d2af1db56562) - 2025-10-08
+* [Commit] [chore(ci|tests|fill): fixes for release ci when filling with `--generate-all-formats` (#2275)](https://github.com/ethereum/execution-spec-tests/commit/e02e7dac016732070efa3aa037b5ede2d95d2f6a) - 2025-10-08
+* [Commit] [chore: use eels upstream.](https://github.com/ethereum/execution-spec-tests/commit/e0fd07487dace909855c6346d5047f008c15e9b7) - 2025-10-08
+* [Commit] [chore(cli): reth/geth 6110 exception mapper (#2271)](https://github.com/ethereum/execution-spec-tests/commit/90e4ca10bc52cc8fef29643a825365b7ecacb047) - 2025-10-08
+* [Commit] [chore(ci): bump eels for bpo1/2 param changes.](https://github.com/ethereum/execution-spec-tests/commit/0f3913bf5b93110b06bbd03aa5d8d5aadfe6b2b8) - 2025-10-08
+* [Commit] [chore(execute): when fork is none check.](https://github.com/ethereum/execution-spec-tests/commit/b86b9fc5862e6f21efbdc9ded91e795c05e5219c) - 2025-10-08
 ## Q3 2025
 
 

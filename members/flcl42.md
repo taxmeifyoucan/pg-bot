@@ -29,6 +29,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Simplify dependencies](https://github.com/NethermindEth/nethermind/commit/0825d2d938f2b373a892651d5bb24d57b35fdba5) - 2025-10-06
 * [Commit] [Improve](https://github.com/NethermindEth/nethermind/commit/5cfaf8537cb08fed6132d7eb663bbe8821714e55) - 2025-10-06
 * [Commit] [Add timestamp to simulate logs & blob gas & remove total difficulty (#9406)](https://github.com/NethermindEth/nethermind/commit/c9138c79268d99aecb091a5f8b411b623500bd24) - 2025-10-07
+* [Commit] [Use proper blob proofs version (#9423)](https://github.com/NethermindEth/nethermind/commit/35ebd0a69e396322faea410432314c3f1bc1927b) - 2025-10-08
+* [Commit] [XDC : QuorumCertificate Manager (#9294)](https://github.com/NethermindEth/nethermind/commit/a86580138981169298b8ab15338569dcfea96543) - 2025-10-08
+* [Commit] [Remove quick fail when running Hive tests (#9426)](https://github.com/NethermindEth/nethermind/commit/8cea3fc2f2deb3696d9c4dbe7e14c6ebe912f424) - 2025-10-08
 ## Q3 2025
 
 

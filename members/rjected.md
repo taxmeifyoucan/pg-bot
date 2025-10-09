@@ -22,6 +22,10 @@ Team: Reth
 * [Commit] [feat(provider): implement append_account_changeset](https://github.com/paradigmxyz/reth/commit/d9970dad06a8f83270a837ce81bc1ee879497f9b) - 2025-10-07
 * [Commit] [chore: add changeset info to segment header](https://github.com/paradigmxyz/reth/commit/c7468624abc6569cf3b2ce85c0013ab8c6bfb072) - 2025-10-07
 * [Commit] [chore: add changeset info to segment header](https://github.com/paradigmxyz/reth/commit/64d1a7b19e7f4b99fcf803baf5cd8098fea07131) - 2025-10-07
+* [Issue] [Fix precompile cache hitrate panel labels](https://github.com/paradigmxyz/reth/issues/18908) - 2025-10-08
+* [Commit] [fix: use proper value for account changeset static files](https://github.com/paradigmxyz/reth/commit/0dcc313eb57b15644fa7cb81269a2a849e565671) - 2025-10-08
+* [Commit] [chore: add stub for account_before_block](https://github.com/paradigmxyz/reth/commit/4079bfe28d600d39a8dc58679ee4472fa30c9567) - 2025-10-08
+* [Commit] [docs: yellowpaper sections in consensus implementation (#18881)](https://github.com/paradigmxyz/reth/commit/83cec3793bb2300c76f1aeb88aac1e1a96309f34) - 2025-10-08
 ## Q3 2025
 
 

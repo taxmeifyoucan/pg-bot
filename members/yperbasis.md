@@ -38,6 +38,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [mv debugprint to cmd/utils](https://github.com/erigontech/erigon/commit/69efc1c5bd6639edcc79f7e3c5a18d259a03ecf1) - 2025-10-07
 * [Commit] [mv asm to vm](https://github.com/erigontech/erigon/commit/573d85733ebb0c02c61f5278334d6ace97a6f712) - 2025-10-07
 * [Commit] [txnprovider/shutter: add back accidentally dropped log line (#16561)](https://github.com/erigontech/erigon/commit/f948142df8f241d367faa205db7fe6f7aa05a7ab) - 2025-10-07
+* [Commit] [mv ethconfig to node](https://github.com/erigontech/erigon/commit/f9dcad1e931b1e0a718261d027c864a74bde99cd) - 2025-10-08
+* [Commit] [mv consensuschain to db](https://github.com/erigontech/erigon/commit/94dba4ecfa0a894aae9e9dd6f3c2f48f509362cd) - 2025-10-08
+* [Commit] [mv eth to node](https://github.com/erigontech/erigon/commit/8b704191acb048c992f700f984cfbce620f2cf3c) - 2025-10-08
+* [Commit] [dir improvements: merge `core` into `execution` (#17384)](https://github.com/erigontech/erigon/commit/5a4bf29e542c0f39449e3c25cf76b558015d5032) - 2025-10-08
+* [Commit] [mv stateless to execution/types](https://github.com/erigontech/erigon/commit/c8472474714451ef7e26e65c274ec9eaba93f2ba) - 2025-10-08
+* [Commit] [mv stateless to execution](https://github.com/erigontech/erigon/commit/f2675d7c410182e2d2d87c6a24788da07a477cfe) - 2025-10-08
+* [Commit] [rpc: storage slot validation in eth_getStorageAt (#17340)](https://github.com/erigontech/erigon/commit/1de7d417d4b673657b9a96c32486fde253b71ff9) - 2025-10-08
 ## Q3 2025
 
 

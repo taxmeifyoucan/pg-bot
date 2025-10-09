@@ -24,6 +24,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Move BlockBuffer tests to test suite.](https://github.com/status-im/nimbus-eth2/commit/b24602b636aa8d26b8d5f6378f0fa1efb2d96c77) - 2025-10-06
 * [Commit] [Fix crash.](https://github.com/status-im/nimbus-eth2/commit/67e3c4d125524a1a914cb7e6e094dbe60c77fb82) - 2025-10-07
 * [Commit] [Fix issue with block validation response check.](https://github.com/status-im/nimbus-eth2/commit/fa8d200b847bbc69029eb92bf5f2fcbadd0bc069) - 2025-10-07
+* [Commit] [Add peerLog logging.](https://github.com/status-im/nimbus-eth2/commit/36a4fcab681a3f939fc9e12e460ed7debc21fdf7) - 2025-10-08
+* [Commit] [Some fixes for roots syncing.](https://github.com/status-im/nimbus-eth2/commit/9799ff1399bd24da7692eedcd924fef224537d45) - 2025-10-08
+* [Commit] [Remove code duplicates from performance counters.](https://github.com/status-im/nimbus-eth2/commit/045749c855e2d506e819c4f96550fad4d2c8f7b9) - 2025-10-08
 ## Q3 2025
 
 

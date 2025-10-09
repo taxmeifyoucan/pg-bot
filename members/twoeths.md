@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q4 2025
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Commit] [fix: change filepath to result](https://github.com/ChainSafe/lodestar/commit/1f5b9d1c88c2484ffb213b3fb1ea1bdddfc1dd9b) - 2025-10-08
 ## Q3 2025
 
 

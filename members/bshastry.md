@@ -13,6 +13,9 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/evm: add stdin support to blocktest command](https://github.com/ethereum/go-ethereum/pull/32824) - 2025-10-02
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Pull Request] [Feature/blocktest tracing](https://github.com/NethermindEth/nethermind/pull/9427) - 2025-10-08
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

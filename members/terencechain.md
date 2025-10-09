@@ -20,6 +20,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Change it to map](https://github.com/OffchainLabs/prysm/commit/377f909e24e15804aba432af2baaa3d9eb1a6638) - 2025-10-06
 * [Commit] [Use two slices](https://github.com/OffchainLabs/prysm/commit/604928badf63a476fad3fc895006376a3e4b9e07) - 2025-10-07
 * [Commit] [Set config for block processing test](https://github.com/OffchainLabs/prysm/commit/27cdc14a3d290d6e9c7f641aa882e9171ea9621d) - 2025-10-07
+* [Commit] [Update quick-go (#15749)](https://github.com/OffchainLabs/prysm/commit/83d75bcb78f7360fd7ded88b008789e6776e3ae6) - 2025-10-08
+* [Commit] [exclude unscheduled forks from the schedule (#15799)](https://github.com/OffchainLabs/prysm/commit/74c47e25a919ee5847de9637964ece93db939ba8) - 2025-10-08
 ## Q3 2025
 
 

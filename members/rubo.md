@@ -19,6 +19,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Drop BlockReceiptsTracer._otherTracer on EndBlockTrace (#9387)](https://github.com/NethermindEth/nethermind/commit/f208b219b1ad461230acdae40b87aded5dd5592d) - 2025-10-01
 * [Commit] [Fix ArrayPoolList disposal warning in Block.AccountChanges (#9385)](https://github.com/NethermindEth/nethermind/commit/a48d6384182e8470a33ce256105c83f7924776fb) - 2025-10-02
 * [Commit] [Disconnect on BlockRangeUpdateMessage with empty hash (#9384)](https://github.com/NethermindEth/nethermind/commit/aa8c0c24295e864b67a3925d76c0f231f8745338) - 2025-10-02
+* [Commit] [Fix formatting](https://github.com/NethermindEth/nethermind/commit/e634e760514cc9b4cc240a7b92a8f06173929907) - 2025-10-08
+* [Commit] [Update lock file](https://github.com/NethermindEth/nethermind/commit/8ebf690a03b837458b3e3239f2d84a63f71cfd2d) - 2025-10-08
+* [Commit] [Add .NET SDK version](https://github.com/NethermindEth/nethermind/commit/d14bf003f8d23a6c1df5923549f34b277b32f40b) - 2025-10-08
+* [Commit] [Make builds reproducible  (#9365)](https://github.com/NethermindEth/nethermind/commit/9eed90a1675bec875c45b90d25ffbb15ac40737f) - 2025-10-08
+* [Commit] [Revise `git log` command](https://github.com/NethermindEth/nethermind/commit/09096876964426b25c58ea63ce15ca3364134c6b) - 2025-10-08
+* [Commit] [Safer types for a one of case (#9398)](https://github.com/NethermindEth/nethermind/commit/4fbc27c6259412317a63cc59e71652336a705d3a) - 2025-10-08
 ## Q3 2025
 
 

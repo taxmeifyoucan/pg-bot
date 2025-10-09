@@ -25,6 +25,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [add test](https://github.com/NethermindEth/nethermind/commit/b397bd5ff7861181e7cebebbc770b6fd420fcb5a) - 2025-10-04
 * [Pull Request] [Fix/eth69 correct lower bound](https://github.com/NethermindEth/nethermind/pull/9409) - 2025-10-04
 * [Pull Request] [Add recovery of missing code](https://github.com/NethermindEth/nethermind/pull/9417) - 2025-10-06
+* [Commit] [Enable Osaka on Chiado (#9395)](https://github.com/NethermindEth/nethermind/commit/b1c0776ec7b7d9c93bb139e0a7be60c08a056042) - 2025-10-08
 ## Q3 2025
 
 

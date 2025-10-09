@@ -31,6 +31,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [bump: tag v88 revm v30.0.0](https://github.com/bluealloy/revm/pull/3058) - 2025-10-07
 * [Commit] [chore: make precompile error pub (#3057)](https://github.com/bluealloy/revm/commit/704276b01b11a8bde8323f497f5a4e685aa94bf0) - 2025-10-07
 * [Commit] [chore: release (#2958)](https://github.com/bluealloy/revm/commit/44591c33f49f71463a7c1c46decb0eda8fb2fdf7) - 2025-10-07
+* [Commit] [chore: helper calculate_caller_fee (#3040)](https://github.com/bluealloy/revm/commit/1bf799dd51648d3c8114b1a7496133ed8bc6603f) - 2025-10-08
+* [Commit] [chore: use Self::default in fn new for CountInspector (#3065)](https://github.com/bluealloy/revm/commit/6f52cdb0d5b7c525c2bb85888851a7476f3dc090) - 2025-10-08
 ## Q3 2025
 
 

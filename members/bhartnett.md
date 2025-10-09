@@ -23,6 +23,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Fix underflow defect triggered when offset is less than finalized block number](https://github.com/status-im/nimbus-eth1/pull/3741) - 2025-10-03
 * [Commit] [Add assertions to txFrame to prevent use after dispose (#3739)](https://github.com/status-im/nimbus-eth1/commit/2af7ab27e94899e894ab6c99ad1de70a407a0a1e) - 2025-10-03
 * [Commit] [Make enabling the dynamic batch size configurable.](https://github.com/status-im/nimbus-eth1/commit/a26ad79b8da73619530aeaae8d1f2857a5f74c6a) - 2025-10-07
+* [Commit] [Change batch size bounds.](https://github.com/status-im/nimbus-eth1/commit/9eff0e1fca3ccc5cc3ee62b60cb4ac142742e607) - 2025-10-08
+* [Commit] [Improve implementation and set disabled by default.](https://github.com/status-im/nimbus-eth1/commit/6f1cf32b3e608c35e52fb8ad99c971b2baed4e4d) - 2025-10-08
 ## Q3 2025
 
 

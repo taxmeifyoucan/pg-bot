@@ -22,6 +22,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Revert "Fix no custody info available at start (#15732)"](https://github.com/OffchainLabs/prysm/commit/f1d4daf9cc925500e286e3e87873c5932b8c0e9c) - 2025-10-03
 * [Pull Request] [Init custody info](https://github.com/OffchainLabs/prysm/pull/15804) - 2025-10-03
 * [Issue] [Gossip message was ignored](https://github.com/OffchainLabs/prysm/issues/15812) - 2025-10-06
+* [Commit] [`validateSelectionIndex`: Reject or ignore depending on the error.](https://github.com/OffchainLabs/prysm/commit/87e085ba31f710da7a1658a72946417b36a810b7) - 2025-10-08
+* [Issue] [Default Graffiti on `GE168dTK63af` like standard](https://github.com/OffchainLabs/prysm/issues/15822) - 2025-10-08
+* [Commit] [Revert "`VerifyDataColumnsSidecarKZGProofs`: Ignore if error is neither `nil` nor `ErrInvalidKZGProof`."](https://github.com/OffchainLabs/prysm/commit/5d3a565eda8b32096950be9ca45a0bf0a3dd4088) - 2025-10-08
+* [Commit] [`IsAggregator`: Remove unused error.](https://github.com/OffchainLabs/prysm/commit/be3da8a7a3734cedd5b0c7286f2a888af70dbeab) - 2025-10-08
+* [Pull Request] [Stop penalize peers for nothing](https://github.com/OffchainLabs/prysm/pull/15821) - 2025-10-08
+* [Commit] [Data column sidecars fetch: Adjust log levels.](https://github.com/OffchainLabs/prysm/commit/714631bd2e64c6c0db7c998c7f7abdd9d6e846fd) - 2025-10-08
+* [Pull Request] [Data column sidecars fetch: Adjust log levels.](https://github.com/OffchainLabs/prysm/pull/15820) - 2025-10-08
 ## Q3 2025
 
 

@@ -34,6 +34,7 @@ Team: EthereumJS
 * [Commit] [test: fix test](https://github.com/ethereumjs/ethereumjs-monorepo/commit/271f3aff5652bae2d0ce7b3dc6a11177478a32ca) - 2025-10-03
 * [Commit] [chore: adjust naming](https://github.com/ethereumjs/ethereumjs-monorepo/commit/ddc2db4d4eb2aa9986b687bd88623e0fe8c92684) - 2025-10-03
 * [Commit] [monorepo: npm audit fix (#4143)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/89bc05b51e2cd9fafe7db7a7e18a6df5c26713b7) - 2025-10-07
+* [Commit] [chore: run pnpm i](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8016f6f995b9df7195e140a688b07a571f1d2eaa) - 2025-10-08
 ## Q3 2025
 
 

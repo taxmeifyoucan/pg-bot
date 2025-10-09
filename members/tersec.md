@@ -40,6 +40,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [docs: Add mkdocs-redirect plugin + redirect el-light-client.md (#7561)](https://github.com/status-im/nimbus-eth2/commit/21e171cab8b0fcddcb56caf0d04105e75d884652) - 2025-10-07
 * [Commit] [Harden VC against lagspikes across slots (#7571)](https://github.com/status-im/nimbus-eth2/commit/f6e8a90a404b3c49e675f4001407259838ab080d) - 2025-10-07
 * [Commit] [properly use MIN_EPOCHS_FOR_DATA_COLUMN_SIDECARS_REQUESTS in data column quarantine (#7570)](https://github.com/status-im/nimbus-eth2/commit/57fb9585e95c19a9e0cce91281d16e1b4342be17) - 2025-10-07
+* [Commit] [Use correct size when querying beacon block summaries (#7579)](https://github.com/status-im/nimbus-eth2/commit/3a63ebd899377cb5edde72801485685c37b62bcd) - 2025-10-08
+* [Pull Request] [rm phase0 support from attestation pool](https://github.com/status-im/nimbus-eth2/pull/7581) - 2025-10-08
+* [Commit] [Reduce code duplication in getState rollback test (#7577)](https://github.com/status-im/nimbus-eth2/commit/cc2e496764b6e1084a310d50f028049e541bc122) - 2025-10-08
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [proxy: refactor (#3709)](https://github.com/status-im/nimbus-eth1/commit/cacde70cbe18ab34b70d0470701bcf0587171071) - 2025-10-06
 * [Commit] [Fix OverflowDefect crash in block validation (#3741)](https://github.com/status-im/nimbus-eth1/commit/f5eebe4d02e5647eead49e2ce855e89c94e3e31c) - 2025-10-06

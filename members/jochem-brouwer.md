@@ -18,6 +18,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [update xen claimrank test](https://github.com/ethereum/execution-spec-tests/commit/c1796f517adc1ee228dcdb1b82bd1c64b532a10d) - 2025-10-02
 * [Commit] [update xen tests](https://github.com/ethereum/execution-spec-tests/commit/21fdf9c6c1ce5fc8d347881e767d99e20c505a71) - 2025-10-02
 * [Issue] [Using `uv run execute remote` with --engine-endpoint should not require `--rpc-seed-key` and should auto-fund EOA root via PayloadAttributes.withdrawals](https://github.com/ethereum/execution-spec-tests/issues/2247) - 2025-10-02
+* [Commit] [[XEN] add usdt spam to change existing slots](https://github.com/ethereum/execution-spec-tests/commit/660d402ea417a4dd7e7b0129482d3e158dc58ae9) - 2025-10-08
 ## Q3 2025
 
 
