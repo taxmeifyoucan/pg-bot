@@ -35,6 +35,8 @@ Team: EthereumJS
 * [Commit] [chore: adjust naming](https://github.com/ethereumjs/ethereumjs-monorepo/commit/ddc2db4d4eb2aa9986b687bd88623e0fe8c92684) - 2025-10-03
 * [Commit] [monorepo: npm audit fix (#4143)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/89bc05b51e2cd9fafe7db7a7e18a6df5c26713b7) - 2025-10-07
 * [Commit] [chore: run pnpm i](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8016f6f995b9df7195e140a688b07a571f1d2eaa) - 2025-10-08
+* [Commit] [feat: implement eip-7918 (#4142)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/0dce642ab725cc553ea4b0c8402518a296613617) - 2025-10-09
+* [Commit] [chore: address review](https://github.com/ethereumjs/ethereumjs-monorepo/commit/b32adc0baa737cfdeeda6677c25d8bddb8d43db6) - 2025-10-09
 ## Q3 2025
 
 

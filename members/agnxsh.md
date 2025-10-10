@@ -7,6 +7,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q4 2025
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [vcus logging clarification](https://github.com/status-im/nimbus-eth2/pull/7590) - 2025-10-09
 ## Q3 2025
 
 

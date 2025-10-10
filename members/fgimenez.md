@@ -30,6 +30,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [perf(multiproof): cache storage proof root of missed leaves (#18750)](https://github.com/paradigmxyz/reth/commit/8effbf265bfbf973b2a84b8dab00c8e1bdc55905) - 2025-10-08
 * [Commit] [cache key depends on hive commit hash](https://github.com/paradigmxyz/reth/commit/019eb39ce478f96b2d6e0d8a3bd2004e88627b0d) - 2025-10-08
 * [Pull Request] [ci: cache hive simulator images to reduce prepare-hive job time](https://github.com/paradigmxyz/reth/pull/18899) - 2025-10-08
+* [Commit] [add patch to cache key](https://github.com/paradigmxyz/reth/commit/aa1323c4900e3f70284525e0ab31564b50b5cc96) - 2025-10-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Federico Gimenez 1 -> 0.5](https://github.com/protocolguild/documentation/pull/430) - 2025-10-04
 

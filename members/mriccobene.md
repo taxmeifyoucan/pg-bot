@@ -20,6 +20,7 @@ Team: Erigon
 * [Pull Request] [qa-tests: show a more specific error message inside the tip-tracking log](https://github.com/erigontech/erigon/pull/17328) - 2025-10-03
 * [Commit] [qa-tests: show a more specific error message inside the tip-tracking log (#17328)](https://github.com/erigontech/erigon/commit/8b41713bda606a9baef9bee15197375500b72c4e) - 2025-10-06
 * [Issue] [Indexing failed on Gnosis](https://github.com/erigontech/erigon/issues/17391) - 2025-10-08
+* [Commit] [qa-tests: bump lighthouse version in sync-with-externalcl test (#17373)](https://github.com/erigontech/erigon/commit/a8dac830ea5dbdeebd107ce823e46c460ad3ad10) - 2025-10-09
 ## Q3 2025
 
 

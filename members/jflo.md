@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [proposes eip-7949 for inclusion in Glamsterdam](https://github.com/ethereum/EIPs/pull/10502) - 2025-10-09
 ## Q3 2025
 
 

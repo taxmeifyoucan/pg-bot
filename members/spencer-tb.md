@@ -33,6 +33,19 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(cli): reth/geth 6110 exception mapper (#2271)](https://github.com/ethereum/execution-spec-tests/commit/90e4ca10bc52cc8fef29643a825365b7ecacb047) - 2025-10-08
 * [Commit] [chore(ci): bump eels for bpo1/2 param changes.](https://github.com/ethereum/execution-spec-tests/commit/0f3913bf5b93110b06bbd03aa5d8d5aadfe6b2b8) - 2025-10-08
 * [Commit] [chore(execute): when fork is none check.](https://github.com/ethereum/execution-spec-tests/commit/b86b9fc5862e6f21efbdc9ded91e795c05e5219c) - 2025-10-08
+
+* [Commit] [chore(docs): bump changelog for 5.3.0 (#2288)](https://github.com/ethereum/execution-spec-tests/commit/15bafa9f3d502c67e73d49012abdb6f716339e88) - 2025-10-09
+* [Pull Request] [chore(docs): bump changelog for 5.3.0](https://github.com/ethereum/execution-spec-tests/pull/2288) - 2025-10-09
+* [Commit] [chore(docs): bump changelog for 5.3.0.](https://github.com/ethereum/execution-spec-tests/commit/e0d425b67729a21f73e8384e073450cc14bd1389) - 2025-10-09
+* [Commit] [feat(tests): test call for eip2929 (#689)](https://github.com/ethereum/execution-spec-tests/commit/8115621105b79f60f0228f17c769d2af1db56562) - 2025-10-09
+* [Commit] [chore(docs): bump changelog for 5.3.0.](https://github.com/ethereum/execution-spec-tests/commit/2f21d20345f15ee2a57dc6c2e1d32d493af574d1) - 2025-10-09
+* [Commit] [feat(checklists,tests): complete eip7934 checklist + update checklist template + add missing test cases (#2282)](https://github.com/ethereum/execution-spec-tests/commit/eda8cc67c4c47d56effd231a171ca95bc90d7e1e) - 2025-10-09
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [feat(fw|evm): update t8n pipeline to allow tests to use invalid fields](https://github.com/ethereum/execution-specs/issues/1485) - 2025-10-09
+* [Issue] [feat(consume): add client config files to EEST](https://github.com/ethereum/execution-specs/issues/1484) - 2025-10-09
+* [Issue] [tests(feat): port testcases for EELS related bugs from geth](https://github.com/ethereum/execution-specs/issues/1482) - 2025-10-09
+* [Issue] [chore(fw): extra opcode metadata - block opcode usage based on fork](https://github.com/ethereum/execution-specs/issues/1481) - 2025-10-09
+* [Issue] [Fix unhandled modexp U256 overflow for forks before Osaka](https://github.com/ethereum/execution-specs/issues/1465) - 2025-10-09
 ## Q3 2025
 
 

@@ -24,6 +24,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Move some logs to trace (#15816)](https://github.com/OffchainLabs/prysm/commit/b45e87abd65ca418f0babb6bc2ee5baf562f6a1c) - 2025-10-07
 * [Commit] [chore: refactor to use builtin max/min (#15817)](https://github.com/OffchainLabs/prysm/commit/9805e90d73a703bd3dc16f7094fdd89df52b8894) - 2025-10-08
 * [Commit] [Move some logs to trace (#15816)](https://github.com/OffchainLabs/prysm/commit/b45e87abd65ca418f0babb6bc2ee5baf562f6a1c) - 2025-10-08
+* [Commit] [extra space](https://github.com/OffchainLabs/prysm/commit/9bf26f64f0b15704b2465b87cfa7343f922418ce) - 2025-10-09
+* [Commit] [reverting fix](https://github.com/OffchainLabs/prysm/commit/1e5a32e266dc7269c3cb072d7d57b469426e99a7) - 2025-10-09
+* [Commit] [making block event only send on certain success (#15814)](https://github.com/OffchainLabs/prysm/commit/515590e7feeaa0cdc3578e99966273b3c729905f) - 2025-10-09
+* [Commit] [gaz](https://github.com/OffchainLabs/prysm/commit/0e8899b2fc8cdbcdfde9751558e9d65333d137b5) - 2025-10-09
+* [Commit] [fixing tests](https://github.com/OffchainLabs/prysm/commit/bcaa714e4212df09af0aca7bc2888f0777b05be1) - 2025-10-09
+* [Pull Request] [fixing web3signer for e2e](https://github.com/OffchainLabs/prysm/pull/15832) - 2025-10-09
+* [Commit] [test](https://github.com/OffchainLabs/prysm/commit/4e4786362de9015481accf603c731103c1b3d991) - 2025-10-09
+* [Commit] [Process pending atts after pending blocks clear (#15824)](https://github.com/OffchainLabs/prysm/commit/83a171b4399b1bf1fa6431b11d37098c6cacc686) - 2025-10-09
+* [Commit] [potuz comment](https://github.com/OffchainLabs/prysm/commit/31d566c4ed598a0f9e37cdf3974389742e02f090) - 2025-10-09
+* [Commit] [feature: Use service context and continue on slasher attestation errors (#15803)](https://github.com/OffchainLabs/prysm/commit/d5ca327c304a86ecf964bfff1d68af20e155689b) - 2025-10-09
 ## Q3 2025
 
 

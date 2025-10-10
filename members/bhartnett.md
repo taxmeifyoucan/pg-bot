@@ -25,6 +25,11 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Make enabling the dynamic batch size configurable.](https://github.com/status-im/nimbus-eth1/commit/a26ad79b8da73619530aeaae8d1f2857a5f74c6a) - 2025-10-07
 * [Commit] [Change batch size bounds.](https://github.com/status-im/nimbus-eth1/commit/9eff0e1fca3ccc5cc3ee62b60cb4ac142742e607) - 2025-10-08
 * [Commit] [Improve implementation and set disabled by default.](https://github.com/status-im/nimbus-eth1/commit/6f1cf32b3e608c35e52fb8ad99c971b2baed4e4d) - 2025-10-08
+* [Commit] [Increase target time.](https://github.com/status-im/nimbus-eth1/commit/32354368257bee6b532abc894febfb9a47a6ac03) - 2025-10-09
+* [Commit] [Fix copyright.](https://github.com/status-im/nimbus-eth1/commit/cfb8c166e38d43006e16de1b305bf55ed4bf9069) - 2025-10-09
+* [Commit] [Remove unused admCol column family.](https://github.com/status-im/nimbus-eth1/commit/633f1a0059044d4cc52e2f5f3152b8aab36874d3) - 2025-10-09
+* [Pull Request] [Remove legacy SavedStateV0 from database](https://github.com/status-im/nimbus-eth1/pull/3756) - 2025-10-09
+* [Commit] [Add parameter to skip loading forked chain state on startup (#3754)](https://github.com/status-im/nimbus-eth1/commit/9013b27e35c65156ef2f9c40dd203a3bde869ad2) - 2025-10-09
 ## Q3 2025
 
 

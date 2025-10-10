@@ -45,6 +45,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [mv stateless to execution/types](https://github.com/erigontech/erigon/commit/c8472474714451ef7e26e65c274ec9eaba93f2ba) - 2025-10-08
 * [Commit] [mv stateless to execution](https://github.com/erigontech/erigon/commit/f2675d7c410182e2d2d87c6a24788da07a477cfe) - 2025-10-08
 * [Commit] [rpc: storage slot validation in eth_getStorageAt (#17340)](https://github.com/erigontech/erigon/commit/1de7d417d4b673657b9a96c32486fde253b71ff9) - 2025-10-08
+* [Commit] [qa_tests: upgrade rpc-tests version 1.94.0 (#17389)](https://github.com/erigontech/erigon/commit/54bd570011f33d44c5f4b0f7c8d86f520ed9d5e9) - 2025-10-09
 ## Q3 2025
 
 

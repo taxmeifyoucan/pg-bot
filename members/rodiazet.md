@@ -8,6 +8,13 @@ Team: Ipsilon
 
 ## Contributions
 
+## Q4 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Cody to zkevm team](https://github.com/protocolguild/documentation/pull/440) - 2025-10-09
+* [Pull Request] [Add Sophia to zkevm team](https://github.com/protocolguild/documentation/pull/439) - 2025-10-09
+* [Pull Request] [Add TingHan Jian to zkevm team](https://github.com/protocolguild/documentation/pull/438) - 2025-10-09
 ## Q2 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

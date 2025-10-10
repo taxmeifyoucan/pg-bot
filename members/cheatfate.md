@@ -27,6 +27,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add peerLog logging.](https://github.com/status-im/nimbus-eth2/commit/36a4fcab681a3f939fc9e12e460ed7debc21fdf7) - 2025-10-08
 * [Commit] [Some fixes for roots syncing.](https://github.com/status-im/nimbus-eth2/commit/9799ff1399bd24da7692eedcd924fef224537d45) - 2025-10-08
 * [Commit] [Remove code duplicates from performance counters.](https://github.com/status-im/nimbus-eth2/commit/045749c855e2d506e819c4f96550fad4d2c8f7b9) - 2025-10-08
+* [Commit] [Fix AllTests.](https://github.com/status-im/nimbus-eth2/commit/686cd82007c57c60fc146df85068fe56ccb9fcfc) - 2025-10-09
+* [Pull Request] [Add some helpers to networking.](https://github.com/status-im/nimbus-eth2/pull/7592) - 2025-10-09
+* [Pull Request] [Move ColumnMap implementation and tests to separate module.](https://github.com/status-im/nimbus-eth2/pull/7591) - 2025-10-09
+* [Commit] [Fix unnecessary imports.](https://github.com/status-im/nimbus-eth2/commit/c3c4b4cf9747ab5f8c5faa74110f3c7fd1a5da5f) - 2025-10-09
 ## Q3 2025
 
 

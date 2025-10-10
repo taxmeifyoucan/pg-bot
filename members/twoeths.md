@@ -13,6 +13,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Commit] [fix: change filepath to result](https://github.com/ChainSafe/lodestar/commit/1f5b9d1c88c2484ffb213b3fb1ea1bdddfc1dd9b) - 2025-10-08
+* [Commit] [fix: add dirpath](https://github.com/ChainSafe/lodestar/commit/43a9eb01d3d62fb2d3d74f998153a12511c8747a) - 2025-10-09
+* [Commit] [fix: change Bun success message](https://github.com/ChainSafe/lodestar/commit/331f780f99e02ce9e99f274a61d6dd8359f1cd9c) - 2025-10-09
+* [Pull Request] [feat: take Bun profile](https://github.com/ChainSafe/lodestar/pull/8515) - 2025-10-09
 ## Q3 2025
 
 

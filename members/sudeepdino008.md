@@ -41,6 +41,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/81e699963bf57f647b2c872f7569dd2acf419d41) - 2025-10-08
 * [Commit] [Start final commitment calc (#17361)](https://github.com/erigontech/erigon/commit/62fa494f763f9a07cfeeb6410727d0e8d1581376) - 2025-10-08
 * [Commit] [save](https://github.com/erigontech/erigon/commit/cb70ebd3d54aff33fe337530a6ae9c86c1e98dd2) - 2025-10-08
+* [Commit] [save](https://github.com/erigontech/erigon/commit/67b7a8ef32191406e4bb378239951d7ea7384359) - 2025-10-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d246ff3b7898cfb0fdcfa648b56f29febfd2237e) - 2025-10-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/463b7695ef83b8d02aa10a35ddde51a66f6ca26f) - 2025-10-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/912e16dc40c5506b2a591980beb1b756f932714d) - 2025-10-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/09adc25b745e205ea37ea27912674e72f840b910) - 2025-10-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5e9d38621d5614f6b7adef0224ea89758dd5cb20) - 2025-10-09
+* [Pull Request] [wip: ci test](https://github.com/erigontech/erigon/pull/17397) - 2025-10-09
+* [Pull Request] [wip](https://github.com/erigontech/erigon/pull/17396) - 2025-10-09
+* [Pull Request] [Bench script update: make cmd1 or cmd2 optional](https://github.com/erigontech/erigon/pull/17395) - 2025-10-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/b67a5e8c3b076d0a81f644d432cee208c43d3cbf) - 2025-10-09
+* [Commit] [save](https://github.com/erigontech/erigon/commit/befb6f7fa0e5b0fd65dc4ca4719ca4944a02db8f) - 2025-10-09
 ## Q3 2025
 
 

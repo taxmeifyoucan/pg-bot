@@ -20,6 +20,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Tune test memory usage; disable index on pypy (#1455)](https://github.com/ethereum/execution-specs/commit/af5664bba33920a89116a38640c0f1a3221d9f9e) - 2025-10-07
 * [Issue] [Require CI pass on each commit in a pull request](https://github.com/ethereum/execution-specs/issues/1462) - 2025-10-08
 * [Issue] [Add conventional commits linter](https://github.com/ethereum/execution-specs/issues/1461) - 2025-10-08
+* [Commit] [Update CONTRIBUTING.md to outline issue assignment practice (#1457)](https://github.com/ethereum/execution-specs/commit/6c99882c73315e23bc0ee7d613b9769f3807a3d5) - 2025-10-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-908: Fix typo (#10312)](https://github.com/ethereum/EIPs/commit/48785209991dcca4f1c8766027c3f3398d0e6f49) - 2025-10-07
 * [Commit] [Update EIP-7636: fix typo (#10271)](https://github.com/ethereum/EIPs/commit/474290ae07adefc880852700cee071596deb1695) - 2025-10-07

@@ -24,6 +24,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Missed one reference to defaultRuntimeConfig](https://github.com/status-im/nimbus-eth2/commit/9ab3cc0d1991dcc850ca5996f113e811d9bbaabb) - 2025-10-08
 * [Pull Request] [Allow runtime config to be configured for attestation pool tests](https://github.com/status-im/nimbus-eth2/pull/7582) - 2025-10-08
 * [Pull Request] [Use correct size when querying beacon block summaries](https://github.com/status-im/nimbus-eth2/pull/7579) - 2025-10-08
+* [Commit] [Qualify toHex to use same implementation as before](https://github.com/status-im/nimbus-eth2/commit/759d2b765aab402e82a8c40895dc782e99980757) - 2025-10-09
+* [Pull Request] [Bump nim-stew](https://github.com/status-im/nimbus-eth2/pull/7589) - 2025-10-09
 ## Q3 2025
 
 

@@ -30,6 +30,8 @@ Team: Erigon
 * [Pull Request] [Extend blocklimit beyond frozen steps](https://github.com/erigontech/erigon/pull/17381) - 2025-10-07
 * [Commit] [take last commited tx from domains](https://github.com/erigontech/erigon/commit/abbc08db5abf0a65c7a49ac2bb922aa5a4ebea82) - 2025-10-07
 * [Commit] [fix compile errors](https://github.com/erigontech/erigon/commit/5f61f15086099a1bbc9fce9ee413c99bc02b12c8) - 2025-10-07
+* [Commit] [ignor error for refactor pr](https://github.com/erigontech/erigon/commit/78e84d108372ce29f12d2255e8b0c34a06f24796) - 2025-10-09
+* [Pull Request] [Unwrap Shared Doman and Temporal Tx Params](https://github.com/erigontech/erigon/pull/17402) - 2025-10-09
 ## Q3 2025
 
 

@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [add blockTimestamp to eth_getLogs result](https://github.com/hyperledger/besu/issues/9276) - 2025-10-07
 * [Pull Request] [check bpo timestamp ordering](https://github.com/hyperledger/besu/pull/9275) - 2025-10-07
 * [Pull Request] [fixed unmatched format arg for log message](https://github.com/hyperledger/besu/pull/9274) - 2025-10-07
+* [Pull Request] [remove osaka from blob schedule for testnets](https://github.com/hyperledger/besu/pull/9284) - 2025-10-09
 ## Q3 2025
 
 

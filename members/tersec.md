@@ -43,6 +43,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Use correct size when querying beacon block summaries (#7579)](https://github.com/status-im/nimbus-eth2/commit/3a63ebd899377cb5edde72801485685c37b62bcd) - 2025-10-08
 * [Pull Request] [rm phase0 support from attestation pool](https://github.com/status-im/nimbus-eth2/pull/7581) - 2025-10-08
 * [Commit] [Reduce code duplication in getState rollback test (#7577)](https://github.com/status-im/nimbus-eth2/commit/cc2e496764b6e1084a310d50f028049e541bc122) - 2025-10-08
+* [Commit] [Bump nim-serialization (#7587)](https://github.com/status-im/nimbus-eth2/commit/a4666a025c89cc548b563c8f67ec4b7256f52eef) - 2025-10-09
+* [Commit] [bump nim-blscurve for BLST v0.3.16 (#7588)](https://github.com/status-im/nimbus-eth2/commit/5b7d4e4803ada2d68e618a2b118a0ee316736b21) - 2025-10-09
+* [Pull Request] [bump nim-blscurve for BLST v0.3.16](https://github.com/status-im/nimbus-eth2/pull/7588) - 2025-10-09
+* [Commit] [add gloas validation for attestation and aggregates (#7569)](https://github.com/status-im/nimbus-eth2/commit/a893144dc9d34dd1e65c7098ff39f4d70af5d57b) - 2025-10-09
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [proxy: refactor (#3709)](https://github.com/status-im/nimbus-eth1/commit/cacde70cbe18ab34b70d0470701bcf0587171071) - 2025-10-06
 * [Commit] [Fix OverflowDefect crash in block validation (#3741)](https://github.com/status-im/nimbus-eth1/commit/f5eebe4d02e5647eead49e2ce855e89c94e3e31c) - 2025-10-06

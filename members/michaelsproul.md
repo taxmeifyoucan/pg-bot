@@ -15,6 +15,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Fork choice write lock held during database write](https://github.com/sigp/lighthouse/issues/8147) - 2025-10-01
 * [Pull Request] [Improve spec compliance for `/eth/v1/config/spec` API](https://github.com/sigp/lighthouse/pull/8144) - 2025-10-01
 * [Pull Request] [Quote `BeaconState::proposer_lookahead` in JSON repr](https://github.com/sigp/lighthouse/pull/8167) - 2025-10-07
+* [Pull Request] [Use OnceCell in HotHDiffBufferCache](https://github.com/sigp/lighthouse/pull/8176) - 2025-10-09
 ## Q3 2025
 
 

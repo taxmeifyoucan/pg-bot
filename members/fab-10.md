@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Add block period for PoS to protocol spec](https://github.com/hyperledger/besu/pull/9257) - 2025-10-01
 * [Commit] [Refactor: uniform the way genesis config options are passed to protocol specs (#9279)](https://github.com/hyperledger/besu/commit/226b133cf957015180b809a7da2cfc0e29574345) - 2025-10-08
+* [Pull Request] [WIP](https://github.com/hyperledger/besu/pull/9285) - 2025-10-09
 ## Q3 2025
 
 

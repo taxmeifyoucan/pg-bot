@@ -26,6 +26,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reduce delay](https://github.com/NethermindEth/nethermind/commit/8ed4329f57f692ef3f5f9ae15fcee71a1d050fe8) - 2025-10-06
 * [Commit] [Like this](https://github.com/NethermindEth/nethermind/commit/6d69d12b9d08616b4e1c8d1fbdf8d9be000ade79) - 2025-10-06
 * [Pull Request] [Thething](https://github.com/NethermindEth/nethermind/pull/9416) - 2025-10-06
+* [Pull Request] [Fix bulkset edge case](https://github.com/NethermindEth/nethermind/pull/9430) - 2025-10-09
 ## Q3 2025
 
 

@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Investigate Lighthouse supernode bandwidth usage from the devnet-5 report](https://github.com/sigp/lighthouse/issues/8143) - 2025-10-01
 * [Issue] [`lcli http-sync` command will no longer work from the Fulu fork](https://github.com/sigp/lighthouse/issues/8159) - 2025-10-03
 * [Issue] [Add `trace_id` to logs to support trace <> log integration](https://github.com/sigp/lighthouse/issues/8164) - 2025-10-07
+* [Pull Request] [Fix duplicate fields being logged when the field exists in both the span and the event](https://github.com/sigp/lighthouse/pull/8183) - 2025-10-09
 ## Q3 2025
 
 

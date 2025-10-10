@@ -14,6 +14,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Generate ephemeral BPO test-only forks during CI fixture building](https://github.com/ethereum/execution-specs/issues/1453) - 2025-10-02
 
+* [Issue] [Enhance Support of Re-org Tests in the BlockchainTestEngine Format](https://github.com/ethereum/execution-specs/issues/1496) - 2025-10-09
+* [Issue] [New fixture format that fill the tests in a ready-to-execute format](https://github.com/ethereum/execution-specs/issues/1478) - 2025-10-09
+* [Issue] [Enforce all execution-specs mypy rules](https://github.com/ethereum/execution-specs/issues/1477) - 2025-10-09
+* [Issue] [Add correct typing to test examples](https://github.com/ethereum/execution-specs/issues/1476) - 2025-10-09
+* [Issue] [feat: CI action to generate a `diff` file between the fixtures generated from `main` against the PR's](https://github.com/ethereum/execution-specs/issues/1472) - 2025-10-09
+* [Issue] [Create multiple transaction classes for each type](https://github.com/ethereum/execution-specs/issues/1467) - 2025-10-09
+* [Issue] [4844: Add tests for invalid blob-related header fields](https://github.com/ethereum/execution-specs/issues/1466) - 2025-10-09
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [type(tests): convert create suicide during init (#1871)](https://github.com/ethereum/execution-spec-tests/commit/28ca6decef374908e7e18e4cf4e5a500a9834866) - 2025-10-02
 * [Commit] [refactor(tests): add checklist marker for eip7823 (#2115)](https://github.com/ethereum/execution-spec-tests/commit/110b5d4ae9d6c07a4ae2d5e9a2822652b0ae6172) - 2025-10-02
@@ -25,6 +32,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): Update 7951 Checklist Markers (#2088)](https://github.com/ethereum/execution-spec-tests/commit/e9045fc2b581a7949a54015b6b63782086a30a29) - 2025-10-07
 * [Commit] [feat(t8n): Support evmone's `--opcode.count` option (#1956)](https://github.com/ethereum/execution-spec-tests/commit/18fc57080296cf0dafa4e8b30cffd8d1fc630e7a) - 2025-10-07
 * [Issue] [Enforce all execution-specs rules](https://github.com/ethereum/execution-spec-tests/issues/2279) - 2025-10-08
+* [Commit] [refactor(plugins/shared): Enforce all execution-specs mypy rules](https://github.com/ethereum/execution-spec-tests/commit/e2c14ad291695ac1c64faca9e225e07f7fafd2ae) - 2025-10-09
+* [Commit] [refactor(plugins/consume): Fix mypy issues](https://github.com/ethereum/execution-spec-tests/commit/e13757f4a36302e45850a9d98815a4249ade654f) - 2025-10-09
+* [Commit] [refactor(plugins/logging): Fix mypy issues](https://github.com/ethereum/execution-spec-tests/commit/ffe825656d6a1ea58d111aff21d987e1ccc04b10) - 2025-10-09
+* [Commit] [refactor(plugins/forks): Fix mypy issues](https://github.com/ethereum/execution-spec-tests/commit/87840e0a63f850f2210dbb27c3fa9cd6af35f2ba) - 2025-10-09
+* [Commit] [refactor(specs): Fix mypy issues](https://github.com/ethereum/execution-spec-tests/commit/f5ad47a0f20b67552a27f91b8aa8259cf39d8527) - 2025-10-09
 ## Q3 2025
 
 

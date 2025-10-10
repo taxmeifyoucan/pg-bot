@@ -29,6 +29,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Stop penalize peers for nothing](https://github.com/OffchainLabs/prysm/pull/15821) - 2025-10-08
 * [Commit] [Data column sidecars fetch: Adjust log levels.](https://github.com/OffchainLabs/prysm/commit/714631bd2e64c6c0db7c998c7f7abdd9d6e846fd) - 2025-10-08
 * [Pull Request] [Data column sidecars fetch: Adjust log levels.](https://github.com/OffchainLabs/prysm/pull/15820) - 2025-10-08
+* [Commit] [aaa](https://github.com/OffchainLabs/prysm/commit/a52e57ea345aaaa9eb4b64b8cf25d4c7d1943346) - 2025-10-09
+* [Pull Request] [Add grandine in known agents](https://github.com/OffchainLabs/prysm/pull/15829) - 2025-10-09
+* [Commit] [Blob verification: Stop returning verification error when internal error.](https://github.com/OffchainLabs/prysm/commit/957d384b52915cec5d823fc0dbc3071ac23ab1e4) - 2025-10-09
 ## Q3 2025
 
 

@@ -17,6 +17,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): add test for modexp with 2**32 exp len](https://github.com/ethereum/execution-spec-tests/pull/2254) - 2025-10-02
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [`Storage.KeyValueMismatch` is broken](https://github.com/ethereum/execution-specs/issues/1483) - 2025-10-09
+* [Issue] [Port evmone test cases](https://github.com/ethereum/execution-specs/issues/1470) - 2025-10-09
 ## Q3 2025
 
 

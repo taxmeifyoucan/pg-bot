@@ -34,6 +34,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Add interval for history pruning (#9424)](https://github.com/NethermindEth/nethermind/commit/74dc7d8057314237437307c4e75b2ee3dfef6fb3) - 2025-10-08
 * [Commit] [slotsperepoch const](https://github.com/NethermindEth/nethermind/commit/edc1d4331f9fac447ac35f1a23509e87c68488cc) - 2025-10-08
 * [Commit] [pruning interval elapsed function](https://github.com/NethermindEth/nethermind/commit/959c28e74aae761097c5e8bffac53f57317de78c) - 2025-10-08
+* [Commit] [add 7702 authority on failed delegation](https://github.com/NethermindEth/nethermind/commit/9c38e809e2fd93f2848cf319546dfad47420bc96) - 2025-10-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Marc Harvey-Hill (Nethermind) 0.5->1](https://github.com/protocolguild/documentation/pull/421) - 2025-10-01
 

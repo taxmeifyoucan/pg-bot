@@ -19,6 +19,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [update xen tests](https://github.com/ethereum/execution-spec-tests/commit/21fdf9c6c1ce5fc8d347881e767d99e20c505a71) - 2025-10-02
 * [Issue] [Using `uv run execute remote` with --engine-endpoint should not require `--rpc-seed-key` and should auto-fund EOA root via PayloadAttributes.withdrawals](https://github.com/ethereum/execution-spec-tests/issues/2247) - 2025-10-02
 * [Commit] [[XEN] add usdt spam to change existing slots](https://github.com/ethereum/execution-spec-tests/commit/660d402ea417a4dd7e7b0129482d3e158dc58ae9) - 2025-10-08
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [`--eoa-start` does not accept hex string, only hex string converted to int](https://github.com/ethereum/execution-specs/issues/1475) - 2025-10-09
 ## Q3 2025
 
 

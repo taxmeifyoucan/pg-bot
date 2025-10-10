@@ -30,6 +30,13 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [feat: add back unmutated test with explicit no balance change check](https://github.com/ethereum/execution-spec-tests/commit/346f4e2a9a15806722aa078394ca52e692ec79c8) - 2025-10-06
 * [Commit] [feat: Add BAL tests for accessing delegated address via call opcodes](https://github.com/ethereum/execution-spec-tests/commit/a73376d0ad0c1b60563cac2e8fe57a83774d733f) - 2025-10-07
 * [Commit] [feat: Add BAL tests for accessing delegated address via call opcodes](https://github.com/ethereum/execution-spec-tests/commit/c1599e2ec3f01fb956002ca2681049286962c212) - 2025-10-07
+* [Commit] [refactor(src/pytest_plugins/spec_version_checker): Enforce all execution-specs mypy rule](https://github.com/ethereum/execution-spec-tests/commit/ec9bb95234be93002ce645860af25465ed6a7c29) - 2025-10-09
+* [Commit] [refactor(src/pytest_plugins/filler): Enforce all execution-specs mypy rule](https://github.com/ethereum/execution-spec-tests/commit/e230d53dbec57c10a5e9e290e01494cb28eb47a8) - 2025-10-09
+* [Commit] [refactor(src/pytest_plugins/solc): Enforce all execution-specs mypy rule](https://github.com/ethereum/execution-spec-tests/commit/095bf01be2ded5cce32a5a5d870af6464dfa1606) - 2025-10-09
+* [Commit] [refactor(src/cli,src/ethereum_clis): Enforce all execution-specs mypy rule](https://github.com/ethereum/execution-spec-tests/commit/626487c4aa603f216e9b90e97112c2a56cc53afd) - 2025-10-09
+* [Commit] [refactor(src/cli,src/ethereum_clis): Enforce all execution-specs mypy rule](https://github.com/ethereum/execution-spec-tests/commit/c5d9c35cdd6935861f4ebfa7b8e6364dc76cdfdf) - 2025-10-09
+* [Commit] [fix: mypy issues in `src/ethereum_test_execution`](https://github.com/ethereum/execution-spec-tests/commit/8edc6ce8ef0b35a4838fcfa0e014a8548e0ad1d9) - 2025-10-09
+* [Commit] [fix: mypy issues in `src/cli` and `src/ethereum_clis`](https://github.com/ethereum/execution-spec-tests/commit/257558972b4cef8299b765a95d5d5002c62d9ecb) - 2025-10-09
 ## Q3 2025
 
 [ethereum/hive](https://github.com/ethereum/hive)

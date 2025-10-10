@@ -33,6 +33,13 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: release (#2958)](https://github.com/bluealloy/revm/commit/44591c33f49f71463a7c1c46decb0eda8fb2fdf7) - 2025-10-07
 * [Commit] [chore: helper calculate_caller_fee (#3040)](https://github.com/bluealloy/revm/commit/1bf799dd51648d3c8114b1a7496133ed8bc6603f) - 2025-10-08
 * [Commit] [chore: use Self::default in fn new for CountInspector (#3065)](https://github.com/bluealloy/revm/commit/6f52cdb0d5b7c525c2bb85888851a7476f3dc090) - 2025-10-08
+* [Commit] [chore(database): optimize BTreeMap lookup in BundleState::build() (#3068)](https://github.com/bluealloy/revm/commit/aabb27a7d39a2512a7bd8d36e583cd7d172ca51a) - 2025-10-09
+* [Pull Request] [WIP BAL](https://github.com/bluealloy/revm/pull/3070) - 2025-10-09
+* [Pull Request] [chore(op): use helper function in validate against state](https://github.com/bluealloy/revm/pull/3069) - 2025-10-09
+* [Commit] [chore(op): split paths for deposit tx in caller deduction (#3041)](https://github.com/bluealloy/revm/commit/74b3f98b95b1ade50f0fab296e30c87689f91de2) - 2025-10-09
+* [Commit] [chore: helper function gas_balance_spending (#3030)](https://github.com/bluealloy/revm/commit/ef98432ab85df1345ef9731f270efc74ba2db18d) - 2025-10-09
+* [Commit] [refactor(database): remove unnecessary Send+Sync bounds from TryDatabaseCommit for Arc (#3063)](https://github.com/bluealloy/revm/commit/fa8e8a763bb7c2bf0d1fa2fe1f46aedb53f9bd7c) - 2025-10-09
+* [Commit] [fix(kzg/blst): use uncompress for compressed G1/G2 inputs (#3067)](https://github.com/bluealloy/revm/commit/9c3a84b97532bfbc322f2eeb8c6fe482afc508f0) - 2025-10-09
 ## Q3 2025
 
 
