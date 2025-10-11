@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 ## Contributions
 
+## Q4 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [Qbft core ability to optionally update proposal block with proposer on roundchange (#9204)](https://github.com/hyperledger/besu/commit/01f8f0325d0745013b57a20b471376f5acc4fd75) - 2025-10-10
 ## Q3 2025
 
 

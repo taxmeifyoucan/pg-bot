@@ -24,6 +24,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Portal: Simplify and optimize ContentDb pruning (#3753)](https://github.com/status-im/nimbus-eth1/commit/d0a0ae653bff0d3817f88d0ea4c3d31150cd1d8f) - 2025-10-07
 * [Pull Request] [Portal: rework db paths and general architecture](https://github.com/status-im/nimbus-eth1/pull/3755) - 2025-10-08
 * [Issue] [Rework nimbus_execution_client integration with Portal to not use waitFor](https://github.com/status-im/nimbus-eth1/issues/3758) - 2025-10-09
+* [Pull Request] [portal-bridge: add content gossip retries based on accept metadata](https://github.com/status-im/nimbus-eth1/pull/3762) - 2025-10-10
 ## Q3 2025
 
 

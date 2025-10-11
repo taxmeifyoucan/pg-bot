@@ -14,6 +14,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 [consensys/teku](https://github.com/consensys/teku)
 * [Pull Request] [add no-op bls signature verifier](https://github.com/Consensys/teku/pull/9953) - 2025-10-01
 * [Pull Request] [Revert "Focil gloas"](https://github.com/Consensys/teku/pull/9952) - 2025-10-01
+* [Issue] [Update GetAttestationData for Electra](https://github.com/Consensys/teku/issues/9993) - 2025-10-10
 ## Q3 2025
 
 

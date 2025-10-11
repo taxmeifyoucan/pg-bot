@@ -16,6 +16,7 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] [Feature/blocktest tracing](https://github.com/NethermindEth/nethermind/pull/9427) - 2025-10-08
+* [Pull Request] [Fix: Blocktest validation bypass for NoProof seal engine](https://github.com/NethermindEth/nethermind/pull/9439) - 2025-10-10
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

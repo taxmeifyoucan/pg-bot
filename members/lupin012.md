@@ -20,6 +20,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [estimateGas WithBlockOverrides](https://github.com/erigontech/erigon/commit/66c7695eed465561b184ff7cca7980e0374f0068) - 2025-10-04
 * [Commit] [qa_tests: fix DUMP_RESPONSE in RPC latest test runner (#17275)](https://github.com/erigontech/erigon/commit/5ba59962504c743f216000bebcd5af4c8563fd49) - 2025-10-04
 * [Commit] [uupdate rpc-test version](https://github.com/erigontech/erigon/commit/3aba09d7ff81af369360b90fb8b2f6021373ed0d) - 2025-10-04
+* [Commit] [save](https://github.com/erigontech/erigon/commit/cc7bab102ad205ab0f7bc340c515775b87294c1d) - 2025-10-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add debug_traceCall test for Gnosis (#470)](https://github.com/erigontech/rpc-tests/commit/627c1e1ff3fc3e52d9c6d23ca3fd69a727b1d1ae) - 2025-10-03
 * [Commit] [remove wrong chr](https://github.com/erigontech/rpc-tests/commit/4383d9aeb6fd73d640c82d9503c6ff742f54706e) - 2025-10-03

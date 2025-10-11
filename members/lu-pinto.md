@@ -7,6 +7,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 
 ## Contributions
 
+## Q4 2025
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Fix support for gitworktrees](https://github.com/hyperledger/besu/pull/9288) - 2025-10-10
 ## Q3 2025
 
 

@@ -33,6 +33,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(fork-readiness): display unknown consensus clients that lack min version config](https://github.com/ethpandaops/lab/pull/108) - 2025-10-01
 * [Commit] [feat: add Tysm client support with logo handling and improve UI formatting](https://github.com/ethpandaops/lab/commit/8859bc4eb929926e32783c51db0b3acea57a1f46) - 2025-10-01
 * [Pull Request] [feat: add Tysm client support](https://github.com/ethpandaops/lab/pull/106) - 2025-10-01
+* [Commit] [refactor(xatu_cbt): convert ClickHouse DateTime fields to Unix timestamps](https://github.com/ethpandaops/lab/commit/1cde15f235afac4cfd313b9619315862863f2667) - 2025-10-10
+* [Commit] [bump cbt proto](https://github.com/ethpandaops/lab/commit/5ce6ddde90611cf3ec9b09f9f60d56f1fee2805a) - 2025-10-10
+* [Commit] [feat: revendor protos with changes - made tweaks](https://github.com/ethpandaops/lab/commit/e88acdc1db134fc22e8531dbc15fcca3c1996386) - 2025-10-10
+* [Commit] [build(Makefile): bump xatu-cbt commit to master to pull latest proto changes](https://github.com/ethpandaops/lab/commit/781ae4a2b3816ebdd66950cb0bd9205aa32a0205) - 2025-10-10
+* [Commit] [refactor(beacon_slot_handlers): remove unnecessary int64 cast for timestamp conversion](https://github.com/ethpandaops/lab/commit/fa1869b4b2299dbf55e03287407ff21056216907) - 2025-10-10
+* [Commit] [fix(go.mod): remove local replace directive for xatu-cbt and bump to latest upstream version](https://github.com/ethpandaops/lab/commit/7b93166aab47ee22644b83d6a2e3b90028e90598) - 2025-10-10
+* [Pull Request] [feat: revendor protos with changes - made tweaks](https://github.com/ethpandaops/lab/pull/120) - 2025-10-10
 ## Q3 2025
 
 

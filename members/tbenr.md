@@ -18,6 +18,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Default GassLimit to 60M](https://github.com/Consensys/teku/pull/9965) - 2025-10-03
 * [Issue] [Publishing column sidecars while syncing far from the head?](https://github.com/Consensys/teku/issues/9976) - 2025-10-07
 * [Issue] [Long sync after node restart (holesky)](https://github.com/Consensys/teku/issues/9991) - 2025-10-09
+* [Commit] [Always log error exception for block production (#9985)](https://github.com/Consensys/teku/commit/cb16f65ae5b67353f212dc5323055183f18ef7db) - 2025-10-10
 ## Q3 2025
 
 

@@ -31,6 +31,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [cache key depends on hive commit hash](https://github.com/paradigmxyz/reth/commit/019eb39ce478f96b2d6e0d8a3bd2004e88627b0d) - 2025-10-08
 * [Pull Request] [ci: cache hive simulator images to reduce prepare-hive job time](https://github.com/paradigmxyz/reth/pull/18899) - 2025-10-08
 * [Commit] [add patch to cache key](https://github.com/paradigmxyz/reth/commit/aa1323c4900e3f70284525e0ab31564b50b5cc96) - 2025-10-09
+* [Commit] [fix patch](https://github.com/paradigmxyz/reth/commit/095d93457e866b8d86c77cedb9a07a25deead3f3) - 2025-10-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Federico Gimenez 1 -> 0.5](https://github.com/protocolguild/documentation/pull/430) - 2025-10-04
 

@@ -47,6 +47,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump nim-blscurve for BLST v0.3.16 (#7588)](https://github.com/status-im/nimbus-eth2/commit/5b7d4e4803ada2d68e618a2b118a0ee316736b21) - 2025-10-09
 * [Pull Request] [bump nim-blscurve for BLST v0.3.16](https://github.com/status-im/nimbus-eth2/pull/7588) - 2025-10-09
 * [Commit] [add gloas validation for attestation and aggregates (#7569)](https://github.com/status-im/nimbus-eth2/commit/a893144dc9d34dd1e65c7098ff39f4d70af5d57b) - 2025-10-09
+* [Pull Request] [rm unused attestation pool code](https://github.com/status-im/nimbus-eth2/pull/7599) - 2025-10-10
+* [Commit] [avoid discard and rearrange conditions in vcus detection (#7598)](https://github.com/status-im/nimbus-eth2/commit/9aa1abdb7cdb0d788bf07a7fbf4890e8177240dc) - 2025-10-10
+* [Commit] [Bump vendor/hoodi from `93aed76` to `cb39a1e` (#7597)](https://github.com/status-im/nimbus-eth2/commit/11e15a1565abe7bf68915d48d73e3288831071ba) - 2025-10-10
+* [Commit] [Bump vendor/sepolia from `f915873` to `906833e` (#7595)](https://github.com/status-im/nimbus-eth2/commit/e6462985588c209a1f4aa071bd394266e2842b3e) - 2025-10-10
+* [Commit] [more strictly enforce req/resp sidecar byrange requests (#7594)](https://github.com/status-im/nimbus-eth2/commit/85fd9b0d24804d6cbe0823b0853c30d410963acb) - 2025-10-10
+* [Commit] [more strictly enforce req/resp sidecar byrange requests](https://github.com/status-im/nimbus-eth2/commit/957bd8ea2363d59edefbcc3385c931b5a53cc69a) - 2025-10-10
+* [Pull Request] [more strictly enforce req/resp sidecar byrange requests](https://github.com/status-im/nimbus-eth2/pull/7594) - 2025-10-10
+* [Commit] [fix attempting to call undeclared routine: 'allIt' (#7585)](https://github.com/status-im/nimbus-eth2/commit/0d7c33a479007559d87623e9c14a0f9af3ccf3fe) - 2025-10-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [proxy: refactor (#3709)](https://github.com/status-im/nimbus-eth1/commit/cacde70cbe18ab34b70d0470701bcf0587171071) - 2025-10-06
 * [Commit] [Fix OverflowDefect crash in block validation (#3741)](https://github.com/status-im/nimbus-eth1/commit/f5eebe4d02e5647eead49e2ce855e89c94e3e31c) - 2025-10-06

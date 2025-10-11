@@ -16,6 +16,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: add dirpath](https://github.com/ChainSafe/lodestar/commit/43a9eb01d3d62fb2d3d74f998153a12511c8747a) - 2025-10-09
 * [Commit] [fix: change Bun success message](https://github.com/ChainSafe/lodestar/commit/331f780f99e02ce9e99f274a61d6dd8359f1cd9c) - 2025-10-09
 * [Pull Request] [feat: take Bun profile](https://github.com/ChainSafe/lodestar/pull/8515) - 2025-10-09
+* [Issue] [[bun] incorrect worker-to-main latency](https://github.com/ChainSafe/lodestar/issues/8521) - 2025-10-10
+* [Issue] [[bun] performance issue with forkchoice updateHead() api](https://github.com/ChainSafe/lodestar/issues/8519) - 2025-10-10
+* [Issue] [[bun] beacon-node crashed with subscribe-all-subnet flag](https://github.com/ChainSafe/lodestar/issues/8518) - 2025-10-10
 ## Q3 2025
 
 

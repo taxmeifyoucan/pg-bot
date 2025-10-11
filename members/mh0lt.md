@@ -32,6 +32,7 @@ Team: Erigon
 * [Commit] [fix compile errors](https://github.com/erigontech/erigon/commit/5f61f15086099a1bbc9fce9ee413c99bc02b12c8) - 2025-10-07
 * [Commit] [ignor error for refactor pr](https://github.com/erigontech/erigon/commit/78e84d108372ce29f12d2255e8b0c34a06f24796) - 2025-10-09
 * [Pull Request] [Unwrap Shared Doman and Temporal Tx Params](https://github.com/erigontech/erigon/pull/17402) - 2025-10-09
+* [Commit] [mining uses sd with mb](https://github.com/erigontech/erigon/commit/ef1e6ccd5b3c62af2fe77cbe47c6e13ddd8688f5) - 2025-10-10
 ## Q3 2025
 
 

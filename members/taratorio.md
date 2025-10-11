@@ -17,6 +17,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix compilation](https://github.com/erigontech/erigon/commit/814aec6e9fe0954f78e568a818d578d8c6d9f1ba) - 2025-10-03
 * [Commit] [fix compilation](https://github.com/erigontech/erigon/commit/92608c62440bd6d37d9ef588a6b24e9e48f0c638) - 2025-10-03
 * [Pull Request] [execution/engineapi: remove old block downloader flow](https://github.com/erigontech/erigon/pull/17333) - 2025-10-03
+* [Issue] [benchmark nodedb sync thresholds](https://github.com/erigontech/erigon/issues/17408) - 2025-10-10
 ## Q3 2025
 
 

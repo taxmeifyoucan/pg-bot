@@ -28,6 +28,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(frontend): integrate state expiry dashboard with REST API endpoints](https://github.com/ethpandaops/lab/commit/09b52a584fefadb79929a82ea851155998767f0a) - 2025-10-03
 * [Pull Request] [Release/state expiry](https://github.com/ethpandaops/lab/pull/119) - 2025-10-03
 * [Commit] [add block expiry window](https://github.com/ethpandaops/lab/commit/205a649008854260ea968f2a7247433c4a77060c) - 2025-10-06
+* [Pull Request] [refactor: massive frontend changes](https://github.com/ethpandaops/lab/pull/121) - 2025-10-10
 ## Q3 2025
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)

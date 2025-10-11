@@ -45,6 +45,35 @@ Team: Erigon
 * [Issue] [StepSize: experiment](https://github.com/erigontech/erigon/issues/17349) - 2025-10-06
 * [Issue] [publishable v2](https://github.com/erigontech/erigon/issues/17348) - 2025-10-06
 * [Commit] [refactor: use b.Loop() to simplify the code and improve performance (#17386)](https://github.com/erigontech/erigon/commit/59b3e516388e99ce854cfef85ea007c20702ef8a) - 2025-10-08
+* [Commit] [rpc: fix the initial highest block in eth_syncing (#17409)](https://github.com/erigontech/erigon/commit/aeb15014a2a205b4e765322904ff71984af1c8dc) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7c82cebe9f6388eb4b50a1a0840a7e473f050943) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/22cde1bfeb8463d046473da9458b87b8aa12d933) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/f037703bbf165b4b1e8e5d08b3d757bfb0dfd0ca) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/5f9cee103c76b0197f084449f03fde3997d2d726) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ebd800d380628acaf143c5503f1cbc7f224ebc99) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2207039f799cf47e59d38c5139696703855a7fbf) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/fe9038ef6f50cc2924368851157ef9b6709f871e) - 2025-10-10
+* [Pull Request] [Alex/nodedb 33](https://github.com/erigontech/erigon/pull/17405) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d84eec85a15b074beb9b68596b9cca8f6742d59f) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/60059bb064ee2a9182ebc70bc9c54c9cb5c2f3a7) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2170a6eadc2df5c83b84fed093d461eaa16302f0) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/4f47fcb4e0c1de1e426b0ea920bd2d17adea6c7b) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/2e342ecc2e6c9e2ea4fb3131f4074f81b1aef970) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ac5d9836bcdae77de89134c81ada72219b29c92f) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/75e9cabf72cb88f5ed806e7f0a285ae4aff680ad) - 2025-10-10
+* [Commit] [domain compaction: protect StateRoot key in commitment.kv (#17380)](https://github.com/erigontech/erigon/commit/120e4656b6bbd4fa5b5e782b345ed2317b0471bb) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/446dc08548d2f57a213c825e87b3c47ef96799e5) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/bcd37071065613720cdd0ccc4f15a0fc96cd719d) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/9a0950c437441bb7bf3b932027ab4a5a98b589a0) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/ae855ffda54e8214090325de5ed73793721d1afc) - 2025-10-10
+* [Commit] [save](https://github.com/erigontech/erigon/commit/559bf440366199b9571fe71491e15aa518395318) - 2025-10-10
+* [Commit] [Caplin: faster DA recovery (#17392)](https://github.com/erigontech/erigon/commit/1d9846e111097d300a8720ee66b3e5d5f0cb78a8) - 2025-10-10
+* [Commit] [db/downloader: make FilesTotal reflect torrent count; remove dead accumulation (#17399)](https://github.com/erigontech/erigon/commit/dc7a78e11a1d84e6452b1444d5ccf08e669b4005) - 2025-10-10
+* [Commit] [add block serial execution metric (#17353)](https://github.com/erigontech/erigon/commit/f060c30c93dc0aa541ad9ede2d3afafd92e399d5) - 2025-10-10
+* [Commit] [dir improvements: move top-level `eth` into other dirs (#17393)](https://github.com/erigontech/erigon/commit/f1047af41aad715112d5a3843622833ce3d2fa34) - 2025-10-10
+* [Commit] [exec bench script update: make cmd1 or cmd2 optional (#17395)](https://github.com/erigontech/erigon/commit/439d3780a35878043fc3b1c8705541a51d84ca08) - 2025-10-10
+* [Commit] [rpc: fix blob gas in eth_simulateV1 (#17401)](https://github.com/erigontech/erigon/commit/0f3b57d4951af6db85920081f24ea126ca7f01fa) - 2025-10-10
+* [Issue] [Add to FAQ: how to configure FullNode with receipts](https://github.com/erigontech/erigon/issues/17404) - 2025-10-10
 ## Q3 2025
 
 

@@ -17,6 +17,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [potentially allow context callouts in messages to documentation.](https://github.com/Consensys/teku/issues/9968) - 2025-10-05
 * [Commit] [New Fulu ANSI banner (#9969)](https://github.com/Consensys/teku/commit/5a50ee658f13fbb981ede0eba1e5450f63811ee3) - 2025-10-06
 * [Issue] [new implementation of sidecar recovery process](https://github.com/Consensys/teku/issues/9979) - 2025-10-07
+* [Pull Request] [wip rebuild columns](https://github.com/Consensys/teku/pull/9994) - 2025-10-10
 ## Q3 2025
 
 

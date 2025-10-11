@@ -35,6 +35,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [slotsperepoch const](https://github.com/NethermindEth/nethermind/commit/edc1d4331f9fac447ac35f1a23509e87c68488cc) - 2025-10-08
 * [Commit] [pruning interval elapsed function](https://github.com/NethermindEth/nethermind/commit/959c28e74aae761097c5e8bffac53f57317de78c) - 2025-10-08
 * [Commit] [add 7702 authority on failed delegation](https://github.com/NethermindEth/nethermind/commit/9c38e809e2fd93f2848cf319546dfad47420bc96) - 2025-10-09
+* [Commit] [comment logs](https://github.com/NethermindEth/nethermind/commit/ba184ffca847fc7998ac0f33e4ef073e748b80ed) - 2025-10-10
+* [Commit] [engine rpc amsterdam](https://github.com/NethermindEth/nethermind/commit/a714e194239f12f4cfa940688b2c6c72ad7bbe04) - 2025-10-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Marc Harvey-Hill (Nethermind) 0.5->1](https://github.com/protocolguild/documentation/pull/421) - 2025-10-01
 

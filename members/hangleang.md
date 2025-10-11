@@ -21,6 +21,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Compute blob proofs post fulu for `/eth/v1/beacon/blob_sidecars/{block_id}`](https://github.com/grandinetech/grandine/commit/d900f38787ea4ab3c82572c06ec71fed03f7a6d7) - 2025-10-08
 * [Pull Request] [Compute blob poofs post fulu for `/eth/v1/beacon/blob_sidecars/{block_id}`](https://github.com/grandinetech/grandine/pull/406) - 2025-10-08
 * [Issue] [Beacon API: `/eth/v1/beacon/blob_sidecars` compute blob proofs from blobs and commitments](https://github.com/grandinetech/grandine/issues/405) - 2025-10-08
+* [Commit] [Compute blob proofs post fulu for `/eth/v1/beacon/blob_sidecars/{block_id}`](https://github.com/grandinetech/grandine/commit/23c1b0c6f62df8649d4767f7fd13d0eb85acf584) - 2025-10-10
 ## Q3 2025
 
 

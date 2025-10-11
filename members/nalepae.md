@@ -32,6 +32,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [aaa](https://github.com/OffchainLabs/prysm/commit/a52e57ea345aaaa9eb4b64b8cf25d4c7d1943346) - 2025-10-09
 * [Pull Request] [Add grandine in known agents](https://github.com/OffchainLabs/prysm/pull/15829) - 2025-10-09
 * [Commit] [Blob verification: Stop returning verification error when internal error.](https://github.com/OffchainLabs/prysm/commit/957d384b52915cec5d823fc0dbc3071ac23ab1e4) - 2025-10-09
+* [Commit] [`validateBlob`: Reject only if real validation error, else ignore.](https://github.com/OffchainLabs/prysm/commit/758a551a31e200f3040a8339dccc44e1cecb8738) - 2025-10-10
+* [Commit] [Add `p2pMaxPeers` and `p2pPeerCountDirectionType` metrics](https://github.com/OffchainLabs/prysm/commit/a8020aa2edd9151d416871fe203e187019d529b1) - 2025-10-10
 ## Q3 2025
 
 

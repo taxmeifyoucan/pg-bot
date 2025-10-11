@@ -31,6 +31,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add some helpers to networking.](https://github.com/status-im/nimbus-eth2/pull/7592) - 2025-10-09
 * [Pull Request] [Move ColumnMap implementation and tests to separate module.](https://github.com/status-im/nimbus-eth2/pull/7591) - 2025-10-09
 * [Commit] [Fix unnecessary imports.](https://github.com/status-im/nimbus-eth2/commit/c3c4b4cf9747ab5f8c5faa74110f3c7fd1a5da5f) - 2025-10-09
+* [Commit] [Missing sidecars helper functions.](https://github.com/status-im/nimbus-eth2/commit/71f84e79641777f502eaaa6d1b6c44cf12edca03) - 2025-10-10
 ## Q3 2025
 
 

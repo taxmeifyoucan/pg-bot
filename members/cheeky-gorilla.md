@@ -28,6 +28,10 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [add marc](https://github.com/protocolguild/documentation/commit/fab59f2abf08fc1d36c8bd584cfb78be004755d1) - 2025-10-07
 * [Commit] [add nixo](https://github.com/protocolguild/documentation/commit/0bcce846486cc3b4af1c639d1828ad59abfb4210) - 2025-10-07
 * [Commit] [Add Felix Hoffman](https://github.com/protocolguild/documentation/commit/ded081d4dc9ba5389099d9a80f3f75de7c1971c5) - 2025-10-07
+* [Commit] [Add Raúl Kripalani from EF P2P team](https://github.com/protocolguild/documentation/commit/1c8e91355baae6a48ec5fe86601d2c0bbe69ac87) - 2025-10-10
+* [Commit] [Add Marco Munizaga from EF P2P team](https://github.com/protocolguild/documentation/commit/483f3033d36d7d2dec982b619d857fedbf431db0) - 2025-10-10
+* [Commit] [Add Roman Hodulák from Reth team](https://github.com/protocolguild/documentation/commit/6a7f5a354b588139a7db0d928f8667aa58a1fbd0) - 2025-10-10
+* [Commit] [Alexey Shekhirin 1 -> 0.5](https://github.com/protocolguild/documentation/commit/1ddf18e6c524cc7b6085e0a08b20ebf4f2c65909) - 2025-10-10
 ## Q3 2025
 
 

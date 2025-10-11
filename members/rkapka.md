@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 
 ## Contributions
 
+## Q4 2025
+
+
+[prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
+* [Commit] [feature: Use service context and continue on slasher attestation errors (#15803)](https://github.com/OffchainLabs/prysm/commit/d5ca327c304a86ecf964bfff1d68af20e155689b) - 2025-10-10
 ## Q3 2025
 
 

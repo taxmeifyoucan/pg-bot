@@ -40,6 +40,11 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: helper function gas_balance_spending (#3030)](https://github.com/bluealloy/revm/commit/ef98432ab85df1345ef9731f270efc74ba2db18d) - 2025-10-09
 * [Commit] [refactor(database): remove unnecessary Send+Sync bounds from TryDatabaseCommit for Arc (#3063)](https://github.com/bluealloy/revm/commit/fa8e8a763bb7c2bf0d1fa2fe1f46aedb53f9bd7c) - 2025-10-09
 * [Commit] [fix(kzg/blst): use uncompress for compressed G1/G2 inputs (#3067)](https://github.com/bluealloy/revm/commit/9c3a84b97532bfbc322f2eeb8c6fe482afc508f0) - 2025-10-09
+* [Commit] [chore: bump eest tests v5.3.0](https://github.com/bluealloy/revm/commit/bf322c22c090e83e67c2ed6f3032b51449aff666) - 2025-10-10
+* [Commit] [chore: bump eest tests v5.3.0 (#3081)](https://github.com/bluealloy/revm/commit/733343de2aad951e50f830a1b7965ee11a371c96) - 2025-10-10
+* [Commit] [Merge remote-tracking branch 'origin/main' into bump-test](https://github.com/bluealloy/revm/commit/5335c789ec8b44eb708a1a38567f37784480545d) - 2025-10-10
+* [Commit] [chore: backport v89 changelog (#3075)](https://github.com/bluealloy/revm/commit/c2e56328aba6ec07b0e51e41e132c9aca7bb1847) - 2025-10-10
+* [Pull Request] [chore: bump eest tests v5.3.0](https://github.com/bluealloy/revm/pull/3081) - 2025-10-10
 ## Q3 2025
 
 

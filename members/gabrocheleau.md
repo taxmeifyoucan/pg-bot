@@ -37,6 +37,7 @@ Team: EthereumJS
 * [Commit] [chore: run pnpm i](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8016f6f995b9df7195e140a688b07a571f1d2eaa) - 2025-10-08
 * [Commit] [feat: implement eip-7918 (#4142)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/0dce642ab725cc553ea4b0c8402518a296613617) - 2025-10-09
 * [Commit] [chore: address review](https://github.com/ethereumjs/ethereumjs-monorepo/commit/b32adc0baa737cfdeeda6677c25d8bddb8d43db6) - 2025-10-09
+* [Commit] [chore: cleanup more verkle stuff](https://github.com/ethereumjs/ethereumjs-monorepo/commit/022c1aad905a481bd448abcdfc55f7e1b9122dfd) - 2025-10-10
 ## Q3 2025
 
 

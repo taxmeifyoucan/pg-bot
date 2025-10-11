@@ -30,6 +30,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: nonce check if validation requested in eth_simulateV1](https://github.com/erigontech/erigon/pull/17390) - 2025-10-08
 * [Pull Request] [qa_tests: upgrade rpc-tests version 1.94.0](https://github.com/erigontech/erigon/pull/17389) - 2025-10-08
 * [Pull Request] [rpc: fix blob gas in eth_simulateV1](https://github.com/erigontech/erigon/pull/17401) - 2025-10-09
+* [Commit] [rpc: fix no data in eth_simulateV1 error (#17407)](https://github.com/erigontech/erigon/commit/9ca788982fb9032480c124a921d7d0b77bd58400) - 2025-10-10
+* [Pull Request] [rpc: fix the initial highest block in eth_syncing](https://github.com/erigontech/erigon/pull/17409) - 2025-10-10
+* [Pull Request] [rpc: fix no data in eth_simulateV1 error](https://github.com/erigontech/erigon/pull/17407) - 2025-10-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: refactor WebSocket integration utilities (#468)](https://github.com/erigontech/rpc-tests/commit/4f415d317dc3637648781b043ac3b002aa209132) - 2025-10-02
 * [Pull Request] [integration: add test for debug_traceCall](https://github.com/erigontech/rpc-tests/pull/470) - 2025-10-03

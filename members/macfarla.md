@@ -25,6 +25,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [check bpo timestamp ordering](https://github.com/hyperledger/besu/pull/9275) - 2025-10-07
 * [Pull Request] [fixed unmatched format arg for log message](https://github.com/hyperledger/besu/pull/9274) - 2025-10-07
 * [Pull Request] [remove osaka from blob schedule for testnets](https://github.com/hyperledger/besu/pull/9284) - 2025-10-09
+* [Commit] [chore: downgrade TransitionUtils TTD log to INFO and clarify log message (#9280)](https://github.com/hyperledger/besu/commit/a365cbc57d118f258692b7688e87263662228b6c) - 2025-10-10
+* [Commit] [add some extra test cases (#9283)](https://github.com/hyperledger/besu/commit/90bc8c9b00c9810c0337a5c73d7914f518ad4f75) - 2025-10-10
 ## Q3 2025
 
 

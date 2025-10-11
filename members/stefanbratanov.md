@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [Req/Resp domain for Gloas](https://github.com/Consensys/teku/issues/9974) - 2025-10-07
 * [Pull Request] [Refactor ep cell bundle](https://github.com/Consensys/teku/pull/9983) - 2025-10-08
 * [Pull Request] [`LocalSigner` changes for Gloas](https://github.com/Consensys/teku/pull/9982) - 2025-10-08
+* [Commit] [LocalSigner changes for Gloas (#9982)](https://github.com/Consensys/teku/commit/9c244fb8217cfe66b3f7beb111b65003f3dbcc3b) - 2025-10-10
 ## Q3 2025
 
 

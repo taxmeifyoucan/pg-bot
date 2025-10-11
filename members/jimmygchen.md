@@ -17,6 +17,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [`lcli http-sync` command will no longer work from the Fulu fork](https://github.com/sigp/lighthouse/issues/8159) - 2025-10-03
 * [Issue] [Add `trace_id` to logs to support trace <> log integration](https://github.com/sigp/lighthouse/issues/8164) - 2025-10-07
 * [Pull Request] [Fix duplicate fields being logged when the field exists in both the span and the event](https://github.com/sigp/lighthouse/pull/8183) - 2025-10-09
+* [Pull Request] [Release v8.0.0-rc.1](https://github.com/sigp/lighthouse/pull/8185) - 2025-10-10
 ## Q3 2025
 
 
