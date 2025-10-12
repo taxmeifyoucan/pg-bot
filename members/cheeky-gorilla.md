@@ -32,6 +32,12 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Add Marco Munizaga from EF P2P team](https://github.com/protocolguild/documentation/commit/483f3033d36d7d2dec982b619d857fedbf431db0) - 2025-10-10
 * [Commit] [Add Roman Hodulák from Reth team](https://github.com/protocolguild/documentation/commit/6a7f5a354b588139a7db0d928f8667aa58a1fbd0) - 2025-10-10
 * [Commit] [Alexey Shekhirin 1 -> 0.5](https://github.com/protocolguild/documentation/commit/1ddf18e6c524cc7b6085e0a08b20ebf4f2c65909) - 2025-10-10
+* [Commit] [Shoham Chakraborty (Erigon) 0.5->1](https://github.com/protocolguild/documentation/commit/248257b513a2bb0e41c186b8bdebd85cb43c7357) - 2025-10-11
+* [Commit] [Marc Holt (Erigon) 0.5->1](https://github.com/protocolguild/documentation/commit/3f48307be16f95b24ece1454157a6077a651c9dc) - 2025-10-11
+* [Commit] [update weight to PT](https://github.com/protocolguild/documentation/commit/1b4bb9e731b8b3a8c24eefc90b2ead21e95a9b47) - 2025-10-11
+* [Commit] [Federico Gimenez 1 -> 0.5](https://github.com/protocolguild/documentation/commit/c656bae184c287cc1550fc9d4ffa995359432c2e) - 2025-10-11
+* [Commit] [Add Chris Karabats to Prysm team](https://github.com/protocolguild/documentation/commit/b804086ed7c1e040e7d8332bebf093d819e7b5eb) - 2025-10-11
+* [Pull Request] [Remove Mark Simkin](https://github.com/protocolguild/documentation/pull/441) - 2025-10-11
 ## Q3 2025
 
 

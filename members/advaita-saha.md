@@ -14,6 +14,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [add benchmarking code](https://github.com/status-im/nimbus-eth1/commit/d66a0006865702350160246f0d5fc01f3fdd83f6) - 2025-10-03
 * [Issue] [bearSSL secp256r1 ecdsa_verify is faulty](https://github.com/status-im/nimbus-eth1/issues/3748) - 2025-10-06
+* [Issue] [`eth_estimateGas` estimating 22 million gas when the other els are estimating 164 thousand](https://github.com/status-im/nimbus-eth1/issues/3763) - 2025-10-11
 ## Q3 2025
 
 

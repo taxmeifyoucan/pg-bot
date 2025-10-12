@@ -13,6 +13,9 @@ Team: Reth
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [ci: cache zepter installation](https://github.com/paradigmxyz/reth/pull/18843) - 2025-10-02
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [perf: resize short addresses bitvec instead of reallocating](https://github.com/bluealloy/revm/pull/3083) - 2025-10-11
 ## Q3 2025
 
 

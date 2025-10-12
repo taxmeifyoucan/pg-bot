@@ -28,6 +28,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Thething](https://github.com/NethermindEth/nethermind/pull/9416) - 2025-10-06
 * [Pull Request] [Fix bulkset edge case](https://github.com/NethermindEth/nethermind/pull/9430) - 2025-10-09
 * [Commit] [Fix selfdestruct](https://github.com/NethermindEth/nethermind/commit/a7fea143e4ed4a617a937cb4138f92d4424fd21c) - 2025-10-10
+* [Commit] [Fix selfdestruct not called in some case](https://github.com/NethermindEth/nethermind/commit/e826d6215527df05d0ae377fced1ae6519a6e001) - 2025-10-11
 ## Q3 2025
 
 

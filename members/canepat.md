@@ -33,6 +33,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: fix no data in eth_simulateV1 error (#17407)](https://github.com/erigontech/erigon/commit/9ca788982fb9032480c124a921d7d0b77bd58400) - 2025-10-10
 * [Pull Request] [rpc: fix the initial highest block in eth_syncing](https://github.com/erigontech/erigon/pull/17409) - 2025-10-10
 * [Pull Request] [rpc: fix no data in eth_simulateV1 error](https://github.com/erigontech/erigon/pull/17407) - 2025-10-10
+* [Issue] [Data race in block_validator_test.go tests](https://github.com/erigontech/erigon/issues/17426) - 2025-10-11
+* [Commit] [tests: fix data race in HexPatriciaHashed parallel tests (#17423)](https://github.com/erigontech/erigon/commit/6e3af46634106bd6af1b12db5fe7788a7fd354b4) - 2025-10-11
+* [Commit] [cleaner fix](https://github.com/erigontech/erigon/commit/30f03cfdf28a7e782569d7303e2f9b80791a5ad9) - 2025-10-11
+* [Pull Request] [tests: fix data race in HexPatriciaHashed parallel tests](https://github.com/erigontech/erigon/pull/17423) - 2025-10-11
+* [Issue] [Data race in hex_patricia_hashed_test.go tests](https://github.com/erigontech/erigon/issues/17422) - 2025-10-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: refactor WebSocket integration utilities (#468)](https://github.com/erigontech/rpc-tests/commit/4f415d317dc3637648781b043ac3b002aa209132) - 2025-10-02
 * [Pull Request] [integration: add test for debug_traceCall](https://github.com/erigontech/rpc-tests/pull/470) - 2025-10-03

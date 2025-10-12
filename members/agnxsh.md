@@ -13,6 +13,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [vcus logging clarification](https://github.com/status-im/nimbus-eth2/pull/7590) - 2025-10-09
 * [Pull Request] [avoid discard and rearrange conditions in vcus detection](https://github.com/status-im/nimbus-eth2/pull/7598) - 2025-10-10
+* [Pull Request] [drop vcus backfilling and adjust eas movement](https://github.com/status-im/nimbus-eth2/pull/7601) - 2025-10-11
 ## Q3 2025
 
 

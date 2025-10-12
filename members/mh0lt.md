@@ -33,6 +33,11 @@ Team: Erigon
 * [Commit] [ignor error for refactor pr](https://github.com/erigontech/erigon/commit/78e84d108372ce29f12d2255e8b0c34a06f24796) - 2025-10-09
 * [Pull Request] [Unwrap Shared Doman and Temporal Tx Params](https://github.com/erigontech/erigon/pull/17402) - 2025-10-09
 * [Commit] [mining uses sd with mb](https://github.com/erigontech/erigon/commit/ef1e6ccd5b3c62af2fe77cbe47c6e13ddd8688f5) - 2025-10-10
+* [Commit] [replace ContractRef with account](https://github.com/erigontech/erigon/commit/91ac958755d47fa92a38810b1405916ac76c0e67) - 2025-10-11
+* [Commit] [replace ContractRef with account](https://github.com/erigontech/erigon/commit/92df80ba5e324e69180468b3ecda531abd8d9cd1) - 2025-10-11
+* [Commit] [deps: up `x` deps (#15562)](https://github.com/erigontech/erigon/commit/9c45574d9caede08d65daf5846bf9b151a3a4c1b) - 2025-10-11
+* [Commit] [remove redundant wrapper](https://github.com/erigontech/erigon/commit/25115e1c88c5a5271aa915f8db3123b7e50139a8) - 2025-10-11
+* [Commit] [fix sd nesting](https://github.com/erigontech/erigon/commit/9833ddfceb4ffe7b25a3ba920f8ffa18259ab142) - 2025-10-11
 ## Q3 2025
 
 

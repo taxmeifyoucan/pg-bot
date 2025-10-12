@@ -38,6 +38,10 @@ Team: EthereumJS
 * [Commit] [feat: implement eip-7918 (#4142)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/0dce642ab725cc553ea4b0c8402518a296613617) - 2025-10-09
 * [Commit] [chore: address review](https://github.com/ethereumjs/ethereumjs-monorepo/commit/b32adc0baa737cfdeeda6677c25d8bddb8d43db6) - 2025-10-09
 * [Commit] [chore: cleanup more verkle stuff](https://github.com/ethereumjs/ethereumjs-monorepo/commit/022c1aad905a481bd448abcdfc55f7e1b9122dfd) - 2025-10-10
+* [Commit] [fix: lintG](https://github.com/ethereumjs/ethereumjs-monorepo/commit/96f45cf3d0407ea48901b8b45161c64bd2f4f89c) - 2025-10-11
+* [Commit] [chore: more verkl removal](https://github.com/ethereumjs/ethereumjs-monorepo/commit/e492c0403b9bdb139f841959125ef5ed2a626ad4) - 2025-10-11
+* [Pull Request] [verkle: remove verkle package](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4145) - 2025-10-11
+* [Commit] [chore: cleanup verkle](https://github.com/ethereumjs/ethereumjs-monorepo/commit/83b0269efe4948b3267a1fa753e06c3488df5ec1) - 2025-10-11
 ## Q3 2025
 
 

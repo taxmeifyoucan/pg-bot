@@ -36,6 +36,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/545150dc7b0537051525bb8eda4a5f87c57f081a) - 2025-10-09
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/c46b811d4495b7888b6102b30339a119eb65f597) - 2025-10-09
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/72b5633eb100b1c18ce8a3fdde9f68f30b1f2ba8) - 2025-10-09
+* [Pull Request] [Feature/dockerfile update](https://github.com/NethermindEth/nethermind/pull/9445) - 2025-10-11
+* [Commit] [Rename `Nethermind.Era.Test` to `Nethermind.Era1.Test` (#9444)](https://github.com/NethermindEth/nethermind/commit/7394e46c313cb68494004a198eceb9af89e9c6ad) - 2025-10-11
 ## Q3 2025
 
 

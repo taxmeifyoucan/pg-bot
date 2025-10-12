@@ -74,6 +74,7 @@ Team: Erigon
 * [Commit] [exec bench script update: make cmd1 or cmd2 optional (#17395)](https://github.com/erigontech/erigon/commit/439d3780a35878043fc3b1c8705541a51d84ca08) - 2025-10-10
 * [Commit] [rpc: fix blob gas in eth_simulateV1 (#17401)](https://github.com/erigontech/erigon/commit/0f3b57d4951af6db85920081f24ea126ca7f01fa) - 2025-10-10
 * [Issue] [Add to FAQ: how to configure FullNode with receipts](https://github.com/erigontech/erigon/issues/17404) - 2025-10-10
+* [Commit] [db/rawdb: correct DeleteNewerEpochs to delete from PendingEpoch first (#17416)](https://github.com/erigontech/erigon/commit/4f3381ed960edced7df464450d490fc7f948d639) - 2025-10-11
 ## Q3 2025
 
 

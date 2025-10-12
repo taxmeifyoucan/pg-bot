@@ -21,6 +21,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [qa_tests: fix DUMP_RESPONSE in RPC latest test runner (#17275)](https://github.com/erigontech/erigon/commit/5ba59962504c743f216000bebcd5af4c8563fd49) - 2025-10-04
 * [Commit] [uupdate rpc-test version](https://github.com/erigontech/erigon/commit/3aba09d7ff81af369360b90fb8b2f6021373ed0d) - 2025-10-04
 * [Commit] [save](https://github.com/erigontech/erigon/commit/cc7bab102ad205ab0f7bc340c515775b87294c1d) - 2025-10-10
+* [Commit] [add () on BlockNum in Sprintf()](https://github.com/erigontech/erigon/commit/67edbbf4623fe4a69f077eb12d334e2a81365954) - 2025-10-11
+* [Commit] [avoid to load from DB receipt in case calculatePostState](https://github.com/erigontech/erigon/commit/d868646b9c46bb68be0723702596f984de87862f) - 2025-10-11
+* [Commit] [add check on stateWriter to verify seek in correct block](https://github.com/erigontech/erigon/commit/46baf822d6c5ea597dec2d5073cc0b986be79f8c) - 2025-10-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add debug_traceCall test for Gnosis (#470)](https://github.com/erigontech/rpc-tests/commit/627c1e1ff3fc3e52d9c6d23ca3fd69a727b1d1ae) - 2025-10-03
 * [Commit] [remove wrong chr](https://github.com/erigontech/rpc-tests/commit/4383d9aeb6fd73d640c82d9503c6ff742f54706e) - 2025-10-03
