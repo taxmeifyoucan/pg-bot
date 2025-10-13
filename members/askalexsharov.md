@@ -75,6 +75,8 @@ Team: Erigon
 * [Commit] [rpc: fix blob gas in eth_simulateV1 (#17401)](https://github.com/erigontech/erigon/commit/0f3b57d4951af6db85920081f24ea126ca7f01fa) - 2025-10-10
 * [Issue] [Add to FAQ: how to configure FullNode with receipts](https://github.com/erigontech/erigon/issues/17404) - 2025-10-10
 * [Commit] [db/rawdb: correct DeleteNewerEpochs to delete from PendingEpoch first (#17416)](https://github.com/erigontech/erigon/commit/4f3381ed960edced7df464450d490fc7f948d639) - 2025-10-11
+* [Issue] [`make docker` doesn't have enough binaries to been used by our `docker-compose.yml`](https://github.com/erigontech/erigon/issues/17429) - 2025-10-12
+* [Issue] [docker compose nil ptr](https://github.com/erigontech/erigon/issues/17428) - 2025-10-12
 ## Q3 2025
 
 

@@ -24,6 +24,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [`LocalSigner` changes for Gloas](https://github.com/Consensys/teku/pull/9982) - 2025-10-08
 * [Commit] [LocalSigner changes for Gloas (#9982)](https://github.com/Consensys/teku/commit/9c244fb8217cfe66b3f7beb111b65003f3dbcc3b) - 2025-10-10
 * [Issue] [Beacon-API changes for Gloas](https://github.com/Consensys/teku/issues/9997) - 2025-10-11
+* [Pull Request] [Generate self-built bid for Gloas (ePBS)](https://github.com/Consensys/teku/pull/9999) - 2025-10-12
 ## Q3 2025
 
 

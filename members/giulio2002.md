@@ -17,6 +17,7 @@ Team: Erigon
 * [Commit] [Revert "Caplin: Improved block downloader". potential regression (#17326)](https://github.com/erigontech/erigon/commit/c7771a9c0e8d1d344189f679f20b89d9648893c2) - 2025-10-03
 * [Commit] [save](https://github.com/erigontech/erigon/commit/1152488dad9148c369bfe4b19cc6d5b0e6cc1375) - 2025-10-06
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d3b3ad36d05cc9f50fa401d6cea25d3426e36334) - 2025-10-06
+* [Issue] [Cannot sync gnosis from scrath (needed for historical eth_getProof)](https://github.com/erigontech/erigon/issues/17430) - 2025-10-12
 ## Q3 2025
 
 

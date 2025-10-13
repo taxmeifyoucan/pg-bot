@@ -45,6 +45,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [Merge remote-tracking branch 'origin/main' into bump-test](https://github.com/bluealloy/revm/commit/5335c789ec8b44eb708a1a38567f37784480545d) - 2025-10-10
 * [Commit] [chore: backport v89 changelog (#3075)](https://github.com/bluealloy/revm/commit/c2e56328aba6ec07b0e51e41e132c9aca7bb1847) - 2025-10-10
 * [Pull Request] [chore: bump eest tests v5.3.0](https://github.com/bluealloy/revm/pull/3081) - 2025-10-10
+* [Commit] [reintroduce caller touch](https://github.com/bluealloy/revm/commit/059ec462c638b0a1ece5c8a21f408f80d860e80a) - 2025-10-12
 ## Q3 2025
 
 

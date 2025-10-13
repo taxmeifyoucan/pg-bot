@@ -28,6 +28,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Enable Osaka on Chiado (#9395)](https://github.com/NethermindEth/nethermind/commit/b1c0776ec7b7d9c93bb139e0a7be60c08a056042) - 2025-10-08
 * [Commit] [AllowSynchronousIO](https://github.com/NethermindEth/nethermind/commit/c624d65a4c0b24f98dda2a95b6f8fd73f11f479a) - 2025-10-09
 * [Commit] [Remove Config migrations (#9435)](https://github.com/NethermindEth/nethermind/commit/5eacf46d54bec2263c2104b9395f912abb5b78c6) - 2025-10-09
+* [Commit] [Update OP Superchain chains (#9446)](https://github.com/NethermindEth/nethermind/commit/758fcf88f13992a1061083900603be6f528c0350) - 2025-10-12
 ## Q3 2025
 
 

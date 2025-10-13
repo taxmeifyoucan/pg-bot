@@ -34,6 +34,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Blob verification: Stop returning verification error when internal error.](https://github.com/OffchainLabs/prysm/commit/957d384b52915cec5d823fc0dbc3071ac23ab1e4) - 2025-10-09
 * [Commit] [`validateBlob`: Reject only if real validation error, else ignore.](https://github.com/OffchainLabs/prysm/commit/758a551a31e200f3040a8339dccc44e1cecb8738) - 2025-10-10
 * [Commit] [Add `p2pMaxPeers` and `p2pPeerCountDirectionType` metrics](https://github.com/OffchainLabs/prysm/commit/a8020aa2edd9151d416871fe203e187019d529b1) - 2025-10-10
+* [Commit] [`validateConfig`:](https://github.com/OffchainLabs/prysm/commit/69c02d1f4a223c6cb2d95f11a5775f59f2aa3b10) - 2025-10-12
+* [Commit] [Add `p2pMaxPeers` and `p2pPeerCountDirectionType` metrics](https://github.com/OffchainLabs/prysm/commit/b5bff490fa62b0929930a5185e6afdc1ec31ab60) - 2025-10-12
 ## Q3 2025
 
 
