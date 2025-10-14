@@ -22,6 +22,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Compute blob poofs post fulu for `/eth/v1/beacon/blob_sidecars/{block_id}`](https://github.com/grandinetech/grandine/pull/406) - 2025-10-08
 * [Issue] [Beacon API: `/eth/v1/beacon/blob_sidecars` compute blob proofs from blobs and commitments](https://github.com/grandinetech/grandine/issues/405) - 2025-10-08
 * [Commit] [Compute blob proofs post fulu for `/eth/v1/beacon/blob_sidecars/{block_id}`](https://github.com/grandinetech/grandine/commit/23c1b0c6f62df8649d4767f7fd13d0eb85acf584) - 2025-10-10
+* [Pull Request] [Add feature to disable finalized root check](https://github.com/grandinetech/grandine/pull/418) - 2025-10-13
+* [Issue] [Add Gloas helper, state transition functions](https://github.com/grandinetech/grandine/issues/417) - 2025-10-13
+* [Commit] [Support the `/eth/v2/builder/blinded_blocks` post-fulu](https://github.com/grandinetech/grandine/commit/1b4cf58a9288ddd85a5b25337ca05a6b376aabbd) - 2025-10-13
+* [Issue] [Add a feature to disable finalized root check in status message](https://github.com/grandinetech/grandine/issues/416) - 2025-10-13
 ## Q3 2025
 
 

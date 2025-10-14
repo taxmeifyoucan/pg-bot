@@ -41,6 +41,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Deployed 6824474c2ae to v5.3.0 with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/96e2cd888e67fc5ee1b79d1d155b5eed503895b0) - 2025-10-09
 * [Commit] [Deployed eda8cc67c4c to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/057a342779160bb4f8746e07053a078c575c5fdf) - 2025-10-09
 * [Commit] [Deployed baaa5bcc862 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/11f2add0c22aaa0e017461ab1291fdaa280f9669) - 2025-10-09
+* [Commit] [Deployed 131adfeae6d to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/5ff1fe0fd8032f99217ca54895b3669c9064889b) - 2025-10-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [✨(testinit): add support for parametrized tests and different test types](https://github.com/ethereum/execution-specs/issues/1509) - 2025-10-09
 * [Issue] [✨(et): make `eest make test` great](https://github.com/ethereum/execution-specs/issues/1503) - 2025-10-09

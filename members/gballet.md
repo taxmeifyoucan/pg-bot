@@ -14,6 +14,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Commit] [update ziren ref + use tags for crypto module](https://github.com/gballet/go-ethereum/commit/b26b3e800143d8662c4ce32ae628aa6d90ea54a1) - 2025-10-05
 
+* [Commit] [avoid yet another AI PR](https://github.com/gballet/go-ethereum/commit/5251356c46716be5514c02a473a61a3a0051b626) - 2025-10-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Thomas Coratger from zkEVM](https://github.com/protocolguild/documentation/pull/436) - 2025-10-07
 * [Pull Request] [fix Stateless Consensus merging issue](https://github.com/protocolguild/documentation/pull/435) - 2025-10-07

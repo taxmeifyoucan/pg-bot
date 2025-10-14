@@ -18,6 +18,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [New Fulu ANSI banner (#9969)](https://github.com/Consensys/teku/commit/5a50ee658f13fbb981ede0eba1e5450f63811ee3) - 2025-10-06
 * [Issue] [new implementation of sidecar recovery process](https://github.com/Consensys/teku/issues/9979) - 2025-10-07
 * [Pull Request] [wip rebuild columns](https://github.com/Consensys/teku/pull/9994) - 2025-10-10
+* [Issue] [fix fulu genesis state generation or test case](https://github.com/Consensys/teku/issues/10003) - 2025-10-13
+* [Pull Request] [Added testcase for getProposerIndices at fulu](https://github.com/Consensys/teku/pull/10000) - 2025-10-13
 ## Q3 2025
 
 

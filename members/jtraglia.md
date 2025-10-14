@@ -20,6 +20,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add note about `earliest_available_slot` (#4617)](https://github.com/ethereum/consensus-specs/commit/f7cd9942a60ca2bded65f411e98c9fc0720bf85d) - 2025-10-06
 * [Pull Request] [Restrict python version to <3.14](https://github.com/ethereum/consensus-specs/pull/4643) - 2025-10-07
 * [Commit] [Restrict python version to <3.14 (#4643)](https://github.com/ethereum/consensus-specs/commit/44db4a3aa18db12a16b09f4b808b656427825974) - 2025-10-08
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [EIP-7732 Breakout Room Call #26, October 24, 2025](https://github.com/ethereum/pm/issues/1759) - 2025-10-13
 ## Q3 2025
 
 

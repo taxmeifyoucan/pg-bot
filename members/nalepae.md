@@ -36,6 +36,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Add `p2pMaxPeers` and `p2pPeerCountDirectionType` metrics](https://github.com/OffchainLabs/prysm/commit/a8020aa2edd9151d416871fe203e187019d529b1) - 2025-10-10
 * [Commit] [`validateConfig`:](https://github.com/OffchainLabs/prysm/commit/69c02d1f4a223c6cb2d95f11a5775f59f2aa3b10) - 2025-10-12
 * [Commit] [Add `p2pMaxPeers` and `p2pPeerCountDirectionType` metrics](https://github.com/OffchainLabs/prysm/commit/b5bff490fa62b0929930a5185e6afdc1ec31ab60) - 2025-10-12
+* [Commit] [fix allocation size of proofs in ComputeCellsAndProofsFromStructured (#15809)](https://github.com/OffchainLabs/prysm/commit/4b984516497c034284e702745731774891b6c9ea) - 2025-10-13
+* [Pull Request] [`VerifyDataColumnSidecar`: Check if there is no too many commitments.](https://github.com/OffchainLabs/prysm/pull/15859) - 2025-10-13
+* [Commit] [`VerifyDataColumnSidecar`: Check if there is no too many commitments.](https://github.com/OffchainLabs/prysm/commit/077428cb38dd9a60e72647e0666a8845e0f3c594) - 2025-10-13
+* [Commit] [`--subscribe-all-subnets`: Define it as an alias and define `--subscribe-all-attestations-and-sync-subnets` as the main value.](https://github.com/OffchainLabs/prysm/commit/c8b39bc59d37dbe374e1a1d9142e1cafe813a7a3) - 2025-10-13
 ## Q3 2025
 
 

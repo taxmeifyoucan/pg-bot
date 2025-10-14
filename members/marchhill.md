@@ -37,6 +37,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [add 7702 authority on failed delegation](https://github.com/NethermindEth/nethermind/commit/9c38e809e2fd93f2848cf319546dfad47420bc96) - 2025-10-09
 * [Commit] [comment logs](https://github.com/NethermindEth/nethermind/commit/ba184ffca847fc7998ac0f33e4ef073e748b80ed) - 2025-10-10
 * [Commit] [engine rpc amsterdam](https://github.com/NethermindEth/nethermind/commit/a714e194239f12f4cfa940688b2c6c72ad7bbe04) - 2025-10-10
+* [Commit] [fix block building](https://github.com/NethermindEth/nethermind/commit/54a00d5a36dce973c4c831b197ed60281a5686de) - 2025-10-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Marc Harvey-Hill (Nethermind) 0.5->1](https://github.com/protocolguild/documentation/pull/421) - 2025-10-01
 

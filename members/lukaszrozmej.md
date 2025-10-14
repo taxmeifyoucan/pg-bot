@@ -29,6 +29,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [AllowSynchronousIO](https://github.com/NethermindEth/nethermind/commit/c624d65a4c0b24f98dda2a95b6f8fd73f11f479a) - 2025-10-09
 * [Commit] [Remove Config migrations (#9435)](https://github.com/NethermindEth/nethermind/commit/5eacf46d54bec2263c2104b9395f912abb5b78c6) - 2025-10-09
 * [Commit] [Update OP Superchain chains (#9446)](https://github.com/NethermindEth/nethermind/commit/758fcf88f13992a1061083900603be6f528c0350) - 2025-10-12
+* [Commit] [Update src/Nethermind/Nethermind.JsonRpc/IJsonRpcConfig.cs](https://github.com/NethermindEth/nethermind/commit/957bb3d1687956bf72adb4e6f5e8bcfd550ebda8) - 2025-10-13
+* [Pull Request] [Better message when eth_getFilterChanges is out of bounds](https://github.com/NethermindEth/nethermind/pull/9451) - 2025-10-13
+* [Commit] [add full message](https://github.com/NethermindEth/nethermind/commit/b24f0bc55b40e7c031ca20e474eb4d349c077e55) - 2025-10-13
+* [Commit] [better description](https://github.com/NethermindEth/nethermind/commit/d99c16315064a1124ffba47fa9bf201fbcdf0c4b) - 2025-10-13
+* [Pull Request] [Restrict IPC socket to owner-only mode if set](https://github.com/NethermindEth/nethermind/pull/9449) - 2025-10-13
 ## Q3 2025
 
 

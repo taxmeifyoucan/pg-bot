@@ -26,6 +26,8 @@ Team: Reth
 * [Commit] [fix: take only changed storages amount of storages](https://github.com/paradigmxyz/reth/commit/b22ec9ef6f0627a27b14ea04ed387727f5111dd3) - 2025-10-07
 * [Commit] [feat: make more EVM and RPC conversions fallible (#18685)](https://github.com/paradigmxyz/reth/commit/6a50aa3ea5b900bedc4f96b658bdc25b02288761) - 2025-10-07
 * [Issue] [Cleanup payload validation tracing spans](https://github.com/paradigmxyz/reth/issues/18892) - 2025-10-07
+* [Pull Request] [ci: remove reproducible build from release.yml](https://github.com/paradigmxyz/reth/pull/18958) - 2025-10-13
+* [Commit] [ci: remove reproducible build from release.yml](https://github.com/paradigmxyz/reth/commit/eef09eff41289a4e9fcaca261a94b61c914b7024) - 2025-10-13
 ## Q3 2025
 
 

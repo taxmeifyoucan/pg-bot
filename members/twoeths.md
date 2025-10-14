@@ -19,6 +19,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[bun] incorrect worker-to-main latency](https://github.com/ChainSafe/lodestar/issues/8521) - 2025-10-10
 * [Issue] [[bun] performance issue with forkchoice updateHead() api](https://github.com/ChainSafe/lodestar/issues/8519) - 2025-10-10
 * [Issue] [[bun] beacon-node crashed with subscribe-all-subnet flag](https://github.com/ChainSafe/lodestar/issues/8518) - 2025-10-10
+* [Issue] [[bun] asyncAggregateWithRandomness performance issue](https://github.com/ChainSafe/lodestar/issues/8524) - 2025-10-13
 ## Q3 2025
 
 

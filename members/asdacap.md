@@ -29,6 +29,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix bulkset edge case](https://github.com/NethermindEth/nethermind/pull/9430) - 2025-10-09
 * [Commit] [Fix selfdestruct](https://github.com/NethermindEth/nethermind/commit/a7fea143e4ed4a617a937cb4138f92d4424fd21c) - 2025-10-10
 * [Commit] [Fix selfdestruct not called in some case](https://github.com/NethermindEth/nethermind/commit/e826d6215527df05d0ae377fced1ae6519a6e001) - 2025-10-11
+* [Commit] [XDC : Snapshot Manager (#9318)](https://github.com/NethermindEth/nethermind/commit/fc220422be392edd27b545026a1081f4f9ed9e18) - 2025-10-13
+* [Commit] [Fix logs in eth_simulate (#9437)](https://github.com/NethermindEth/nethermind/commit/a1e10b65141c1fd689129637ad906c1e655377e7) - 2025-10-13
+* [Commit] [Fix concurrent tree read (#9447)](https://github.com/NethermindEth/nethermind/commit/c5cfd08169511f1043dab34fea375d70cfa43210) - 2025-10-13
 ## Q3 2025
 
 

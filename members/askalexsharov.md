@@ -77,6 +77,17 @@ Team: Erigon
 * [Commit] [db/rawdb: correct DeleteNewerEpochs to delete from PendingEpoch first (#17416)](https://github.com/erigontech/erigon/commit/4f3381ed960edced7df464450d490fc7f948d639) - 2025-10-11
 * [Issue] [`make docker` doesn't have enough binaries to been used by our `docker-compose.yml`](https://github.com/erigontech/erigon/issues/17429) - 2025-10-12
 * [Issue] [docker compose nil ptr](https://github.com/erigontech/erigon/issues/17428) - 2025-10-12
+* [Commit] [add block serial execution metric (#17353)](https://github.com/erigontech/erigon/commit/f060c30c93dc0aa541ad9ede2d3afafd92e399d5) - 2025-10-13
+* [Commit] [refactor: use maps.Copy to simplify the code (#17421)](https://github.com/erigontech/erigon/commit/3b9fa272ff818446ff2d4769e9edd4694d16e436) - 2025-10-13
+* [Commit] [db/state: remove unused ticker in buildFiles (#17425)](https://github.com/erigontech/erigon/commit/d20b3a76a43dbb64dde8837c5a1840831dd96176) - 2025-10-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/d8b6b6f334add252719a958797fda0e2b7bc7174) - 2025-10-13
+* [Commit] [build(deps): bump github.com/quic-go/quic-go from 0.48.2 to 0.49.1 (#17420)](https://github.com/erigontech/erigon/commit/5597a6681bfc73c836e725a7165b056d0a9af39a) - 2025-10-13
+* [Pull Request] [downloader: drop mdbx store](https://github.com/erigontech/erigon/pull/17434) - 2025-10-13
+* [Pull Request] [downloader: remove `rclone` client](https://github.com/erigontech/erigon/pull/17433) - 2025-10-13
+* [Commit] [save](https://github.com/erigontech/erigon/commit/7f7e5f908446d36fa5b1e2d23736e9075f425c2b) - 2025-10-13
+* [Issue] [`make lint` can't find linter's binary](https://github.com/erigontech/erigon/issues/17432) - 2025-10-13
+* [Pull Request] [nodedb: set `dbSyncPeriod=5mb`](https://github.com/erigontech/erigon/pull/17431) - 2025-10-13
+* [Commit] [mdbx: v0.13.8 (#17284)](https://github.com/erigontech/erigon/commit/34fcd734fdfc52adea725578c6adde9ed7a2436a) - 2025-10-13
 ## Q3 2025
 
 

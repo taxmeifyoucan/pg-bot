@@ -27,6 +27,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Qualify toHex to use same implementation as before](https://github.com/status-im/nimbus-eth2/commit/759d2b765aab402e82a8c40895dc782e99980757) - 2025-10-09
 * [Pull Request] [Bump nim-stew](https://github.com/status-im/nimbus-eth2/pull/7589) - 2025-10-09
 
+* [Pull Request] [Run fork_choice and proto_array tests](https://github.com/status-im/nimbus-eth2/pull/7607) - 2025-10-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7916: Move to Review](https://github.com/ethereum/EIPs/pull/10526) - 2025-10-12
 ## Q3 2025

@@ -38,6 +38,7 @@ Team: Erigon
 * [Commit] [deps: up `x` deps (#15562)](https://github.com/erigontech/erigon/commit/9c45574d9caede08d65daf5846bf9b151a3a4c1b) - 2025-10-11
 * [Commit] [remove redundant wrapper](https://github.com/erigontech/erigon/commit/25115e1c88c5a5271aa915f8db3123b7e50139a8) - 2025-10-11
 * [Commit] [fix sd nesting](https://github.com/erigontech/erigon/commit/9833ddfceb4ffe7b25a3ba920f8ffa18259ab142) - 2025-10-11
+* [Commit] [log dynamic gas](https://github.com/erigontech/erigon/commit/a2de84714673b4bca1e22b615c5aa3ccf2e7c617) - 2025-10-13
 ## Q3 2025
 
 

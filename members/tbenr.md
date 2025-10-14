@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Publishing column sidecars while syncing far from the head?](https://github.com/Consensys/teku/issues/9976) - 2025-10-07
 * [Issue] [Long sync after node restart (holesky)](https://github.com/Consensys/teku/issues/9991) - 2025-10-09
 * [Commit] [Always log error exception for block production (#9985)](https://github.com/Consensys/teku/commit/cb16f65ae5b67353f212dc5323055183f18ef7db) - 2025-10-10
+* [Pull Request] [Improved DAS sampler](https://github.com/Consensys/teku/pull/10006) - 2025-10-13
 ## Q3 2025
 
 

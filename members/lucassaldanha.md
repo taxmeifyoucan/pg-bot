@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Default GasLimit to 60M (#9965)](https://github.com/Consensys/teku/commit/baf72b76aead8f92e29fcfd425e175adb21884ac) - 2025-10-07
 * [Pull Request] [Added data_column_sidecar topics peer count](https://github.com/Consensys/teku/pull/9981) - 2025-10-08
 * [Commit] [Fix DataColumnSidecarsByRoot request msg schema (#9972)](https://github.com/Consensys/teku/commit/8efe31055600d2e18b704d070e03b2f3473962ee) - 2025-10-10
+* [Issue] [PeerDAS Metrics](https://github.com/Consensys/teku/issues/10001) - 2025-10-13
 ## Q3 2025
 
 

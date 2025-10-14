@@ -46,6 +46,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [tests(feat): port testcases for EELS related bugs from geth](https://github.com/ethereum/execution-specs/issues/1482) - 2025-10-09
 * [Issue] [chore(fw): extra opcode metadata - block opcode usage based on fork](https://github.com/ethereum/execution-specs/issues/1481) - 2025-10-09
 * [Issue] [Fix unhandled modexp U256 overflow for forks before Osaka](https://github.com/ethereum/execution-specs/issues/1465) - 2025-10-09
+* [Pull Request] [feat(ci): integrate EEST CI into EELS (WIP)](https://github.com/ethereum/execution-specs/pull/1598) - 2025-10-13
 ## Q3 2025
 
 

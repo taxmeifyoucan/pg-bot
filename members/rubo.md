@@ -38,6 +38,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/72b5633eb100b1c18ce8a3fdde9f68f30b1f2ba8) - 2025-10-09
 * [Pull Request] [Feature/dockerfile update](https://github.com/NethermindEth/nethermind/pull/9445) - 2025-10-11
 * [Commit] [Rename `Nethermind.Era.Test` to `Nethermind.Era1.Test` (#9444)](https://github.com/NethermindEth/nethermind/commit/7394e46c313cb68494004a198eceb9af89e9c6ad) - 2025-10-11
+* [Pull Request] [Remove redundant `--lock-file-path` option](https://github.com/NethermindEth/nethermind/pull/9455) - 2025-10-13
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/d5394106dce17c502a9e2c2a43d6c35402299639) - 2025-10-13
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/79a31ef2fdaee2cf28787f457d8129056390986f) - 2025-10-13
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/67b33420f905f296b6ff9dd33e3f08bd3134f7c8) - 2025-10-13
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/82bb5c325563881b8a9eccfb0a92328457bd9738) - 2025-10-13
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/0e121f6230f6cce3ffc9f7a576c8bfe07e086429) - 2025-10-13
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/9427b1b2cdbfa8187ed549a843a03bf6ea9020f5) - 2025-10-13
+* [Commit] [test](https://github.com/NethermindEth/nethermind/commit/3f28b61aee0efe3e8bf304208f4ccae6383c0346) - 2025-10-13
 ## Q3 2025
 
 

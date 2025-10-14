@@ -20,6 +20,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [chore: do not generate fuzz tests in Compact macro](https://github.com/paradigmxyz/reth/pull/18849) - 2025-10-03
 * [Commit] [relax](https://github.com/paradigmxyz/reth/commit/ed4b6999f802d9b0e939642d9856da2a97fd86c9) - 2025-10-07
 * [Pull Request] [chore: relax `EthChainSpec` impl for `ChainSpec`](https://github.com/paradigmxyz/reth/pull/18894) - 2025-10-07
+* [Commit] [refactor: remove needless collect() calls in trie tests (#18937)](https://github.com/paradigmxyz/reth/commit/5c18df9889941837e61929be4b51abb75f07f152) - 2025-10-13
+* [Pull Request] [refactor: unify `Pipeline` creation codepaths](https://github.com/paradigmxyz/reth/pull/18955) - 2025-10-13
+* [Commit] [refactor: unify Pipeline creation codepaths](https://github.com/paradigmxyz/reth/commit/bdadef6812ba52fe7e412e298386557f0caa1a0b) - 2025-10-13
 ## Q3 2025
 
 

@@ -37,6 +37,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [refactor(src/cli,src/ethereum_clis): Enforce all execution-specs mypy rule](https://github.com/ethereum/execution-spec-tests/commit/c5d9c35cdd6935861f4ebfa7b8e6364dc76cdfdf) - 2025-10-09
 * [Commit] [fix: mypy issues in `src/ethereum_test_execution`](https://github.com/ethereum/execution-spec-tests/commit/8edc6ce8ef0b35a4838fcfa0e014a8548e0ad1d9) - 2025-10-09
 * [Commit] [fix: mypy issues in `src/cli` and `src/ethereum_clis`](https://github.com/ethereum/execution-spec-tests/commit/257558972b4cef8299b765a95d5d5002c62d9ecb) - 2025-10-09
+* [Pull Request] [fix(tests): Fix and add cases for BALs tests for SSTORE OOG conditions](https://github.com/ethereum/execution-spec-tests/pull/2297) - 2025-10-13
+* [Pull Request] [fix(tests): Fix test expectations for BAL oog tests](https://github.com/ethereum/execution-spec-tests/pull/2293) - 2025-10-13
 ## Q3 2025
 
 [ethereum/hive](https://github.com/ethereum/hive)

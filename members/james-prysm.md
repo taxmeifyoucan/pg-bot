@@ -34,6 +34,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Process pending atts after pending blocks clear (#15824)](https://github.com/OffchainLabs/prysm/commit/83a171b4399b1bf1fa6431b11d37098c6cacc686) - 2025-10-09
 * [Commit] [potuz comment](https://github.com/OffchainLabs/prysm/commit/31d566c4ed598a0f9e37cdf3974389742e02f090) - 2025-10-09
 * [Commit] [feature: Use service context and continue on slasher attestation errors (#15803)](https://github.com/OffchainLabs/prysm/commit/d5ca327c304a86ecf964bfff1d68af20e155689b) - 2025-10-09
+* [Commit] [Do not mark blocks as invalid unnecessarily (#15846)](https://github.com/OffchainLabs/prysm/commit/4e47905884bda2d13678d6704887a7196aa33839) - 2025-10-13
+* [Commit] [accidently checked in code](https://github.com/OffchainLabs/prysm/commit/daa9d395113f62ddece9a57fa7acc7d580a9a2b3) - 2025-10-13
+* [Commit] [we don't actually need to use the ids](https://github.com/OffchainLabs/prysm/commit/a37bc1cbd087af93a6dc860caf44fbfec81bb0ef) - 2025-10-13
 ## Q3 2025
 
 

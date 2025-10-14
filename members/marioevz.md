@@ -38,6 +38,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [refactor(plugins/forks): Fix mypy issues](https://github.com/ethereum/execution-spec-tests/commit/87840e0a63f850f2210dbb27c3fa9cd6af35f2ba) - 2025-10-09
 * [Commit] [refactor(specs): Fix mypy issues](https://github.com/ethereum/execution-spec-tests/commit/f5ad47a0f20b67552a27f91b8aa8259cf39d8527) - 2025-10-09
 * [Commit] [fix(src,tests): Fix import typing errors (#2290)](https://github.com/ethereum/execution-spec-tests/commit/a9fc9ee763b76dde8c084de656bdf3a99ae4ce48) - 2025-10-10
+* [Commit] [refactor(benchmark): update to benchmark test wrapper (#2160)](https://github.com/ethereum/execution-spec-tests/commit/131adfeae6dbf6c89f15208a4344459d5331feb2) - 2025-10-13
 ## Q3 2025
 
 

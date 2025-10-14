@@ -16,6 +16,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Improve spec compliance for `/eth/v1/config/spec` API](https://github.com/sigp/lighthouse/pull/8144) - 2025-10-01
 * [Pull Request] [Quote `BeaconState::proposer_lookahead` in JSON repr](https://github.com/sigp/lighthouse/pull/8167) - 2025-10-07
 * [Pull Request] [Use OnceCell in HotHDiffBufferCache](https://github.com/sigp/lighthouse/pull/8176) - 2025-10-09
+* [Commit] [Release v8.0.0-rc.1 (#8185)](https://github.com/sigp/lighthouse/commit/1fb94ce432f08b110e531e1ce2e44b13b1392e5f) - 2025-10-13
+* [Commit] [Persist only custody columns in db (#8188)](https://github.com/sigp/lighthouse/commit/2c328e32a6cd139c0c6ee44b99a5e0ab8e7ebe59) - 2025-10-13
 ## Q3 2025
 
 

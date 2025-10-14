@@ -16,6 +16,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: update regen caller for data column](https://github.com/ChainSafe/lodestar/pull/8487) - 2025-10-01
 * [Commit] [chore: ignore local tsbuildinfo files in docker builds (#8492)](https://github.com/ChainSafe/lodestar/commit/8961b06c11ac67baab79fe774e0a3d1bfb217ea1) - 2025-10-02
 * [Pull Request] [fix: use datastore-level by default](https://github.com/ChainSafe/lodestar/pull/8503) - 2025-10-06
+* [Commit] [chore: add bun sqlite db controller](https://github.com/ChainSafe/lodestar/commit/0a7552a4f0c4fa227e85155ed0360a7c3e4028a2) - 2025-10-13
 ## Q3 2025
 
 

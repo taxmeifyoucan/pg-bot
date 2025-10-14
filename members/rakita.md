@@ -46,6 +46,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: backport v89 changelog (#3075)](https://github.com/bluealloy/revm/commit/c2e56328aba6ec07b0e51e41e132c9aca7bb1847) - 2025-10-10
 * [Pull Request] [chore: bump eest tests v5.3.0](https://github.com/bluealloy/revm/pull/3081) - 2025-10-10
 * [Commit] [reintroduce caller touch](https://github.com/bluealloy/revm/commit/059ec462c638b0a1ece5c8a21f408f80d860e80a) - 2025-10-12
+* [Commit] [perf: resize short addresses bitvec instead of reallocating (#3083)](https://github.com/bluealloy/revm/commit/10ff66da1576a3532db657d7b953abcd59ec44a3) - 2025-10-13
+* [Commit] [refactor(handler): extract duplicate gas price validation (#3045)](https://github.com/bluealloy/revm/commit/0ce9fc5794e39def74d788316a7cfafbe7cdbaef) - 2025-10-13
+* [Commit] [chore: make CallInput::bytes accept immutable ContextTr (#3082)](https://github.com/bluealloy/revm/commit/082a5dd4d90f6d1233e1b6281ae24259a5a40895) - 2025-10-13
 ## Q3 2025
 
 

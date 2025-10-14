@@ -32,6 +32,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [ci: cache hive simulator images to reduce prepare-hive job time](https://github.com/paradigmxyz/reth/pull/18899) - 2025-10-08
 * [Commit] [add patch to cache key](https://github.com/paradigmxyz/reth/commit/aa1323c4900e3f70284525e0ab31564b50b5cc96) - 2025-10-09
 * [Commit] [fix patch](https://github.com/paradigmxyz/reth/commit/095d93457e866b8d86c77cedb9a07a25deead3f3) - 2025-10-10
+* [Pull Request] [chore(ci): update eest 7594 issue link in hive expected failures file](https://github.com/paradigmxyz/reth/pull/18976) - 2025-10-13
+* [Issue] [Fix eest eip7594_peerdas/test_max_blob_per_tx](https://github.com/paradigmxyz/reth/issues/18975) - 2025-10-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Federico Gimenez 1 -> 0.5](https://github.com/protocolguild/documentation/pull/430) - 2025-10-04
 

@@ -18,6 +18,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix compilation](https://github.com/erigontech/erigon/commit/92608c62440bd6d37d9ef588a6b24e9e48f0c638) - 2025-10-03
 * [Pull Request] [execution/engineapi: remove old block downloader flow](https://github.com/erigontech/erigon/pull/17333) - 2025-10-03
 * [Issue] [benchmark nodedb sync thresholds](https://github.com/erigontech/erigon/issues/17408) - 2025-10-10
+* [Issue] [tx.Commit taking x2 more on 3.1 as compared to 3.0](https://github.com/erigontech/erigon/issues/17440) - 2025-10-13
+* [Pull Request] [execution: do not trigger build files in background for newPayload/blockBuilding processing](https://github.com/erigontech/erigon/pull/17436) - 2025-10-13
+* [Issue] [protect E3 file collation from reorgs by respecting supported max reorg depth](https://github.com/erigontech/erigon/issues/17435) - 2025-10-13
+* [Commit] [nodedb: set `dbSyncPeriod=5mb` (#17431)](https://github.com/erigontech/erigon/commit/0ac3e97e5da59fe74b805f29b9fbcad6d542d884) - 2025-10-13
 ## Q3 2025
 
 
