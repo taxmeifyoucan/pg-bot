@@ -16,6 +16,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [drop vcus backfilling and adjust eas movement](https://github.com/status-im/nimbus-eth2/pull/7601) - 2025-10-11
 * [Commit] [remove unused import](https://github.com/status-im/nimbus-eth2/commit/ff1f6a42c8c5df31528436675966848d580668e6) - 2025-10-12
 * [Pull Request] [prevent vcus from happening in non validating nodes](https://github.com/status-im/nimbus-eth2/pull/7606) - 2025-10-13
+* [Pull Request] []() - 2025-10-14
 ## Q3 2025
 
 

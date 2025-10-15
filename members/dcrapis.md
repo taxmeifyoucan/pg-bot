@@ -8,6 +8,11 @@ Team: Robust Incentives Group (RIG)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Trustless Agents (ERC-8004) Call #2, October 22, 2025](https://github.com/ethereum/pm/issues/1760) - 2025-10-14
 ## Q3 2025
 
 

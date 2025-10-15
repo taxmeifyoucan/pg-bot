@@ -22,6 +22,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [`--eoa-start` does not accept hex string, only hex string converted to int](https://github.com/ethereum/execution-specs/issues/1475) - 2025-10-09
+* [Issue] [Testing: add ability for `timestamp` control](https://github.com/ethereum/execution-specs/issues/1601) - 2025-10-14
 ## Q3 2025
 
 

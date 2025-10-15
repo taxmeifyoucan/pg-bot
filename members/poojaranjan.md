@@ -16,6 +16,8 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Archive Pectra](https://github.com/ethereum/pm/pull/1751) - 2025-10-03
+* [Issue] [EIPIP Meeting #121, Oct 15, 2025](https://github.com/ethereum/pm/issues/1762) - 2025-10-14
+* [Issue] [EIP Editing Office Hour (EIP + ERC) Meeting #75, Oct 14, 2025](https://github.com/ethereum/pm/issues/1761) - 2025-10-14
 ## Q3 2025
 
 

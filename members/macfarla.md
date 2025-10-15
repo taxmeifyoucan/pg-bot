@@ -28,6 +28,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [chore: downgrade TransitionUtils TTD log to INFO and clarify log message (#9280)](https://github.com/hyperledger/besu/commit/a365cbc57d118f258692b7688e87263662228b6c) - 2025-10-10
 * [Commit] [add some extra test cases (#9283)](https://github.com/hyperledger/besu/commit/90bc8c9b00c9810c0337a5c73d7914f518ad4f75) - 2025-10-10
 * [Pull Request] [add blockTimestamp to logs within tx receipt](https://github.com/hyperledger/besu/pull/9294) - 2025-10-13
+* [Issue] [flaky test: CLI Options test](https://github.com/hyperledger/besu/issues/9313) - 2025-10-15
 ## Q3 2025
 
 

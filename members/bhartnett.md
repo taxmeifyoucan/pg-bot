@@ -30,6 +30,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Remove unused admCol column family.](https://github.com/status-im/nimbus-eth1/commit/633f1a0059044d4cc52e2f5f3152b8aab36874d3) - 2025-10-09
 * [Pull Request] [Remove legacy SavedStateV0 from database](https://github.com/status-im/nimbus-eth1/pull/3756) - 2025-10-09
 * [Commit] [Add parameter to skip loading forked chain state on startup (#3754)](https://github.com/status-im/nimbus-eth1/commit/9013b27e35c65156ef2f9c40dd203a3bde869ad2) - 2025-10-09
+* [Pull Request] []() - 2025-10-14
 ## Q3 2025
 
 

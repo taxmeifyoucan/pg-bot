@@ -14,6 +14,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Automatically pass spans into blocking handles](https://github.com/sigp/lighthouse/pull/8158) - 2025-10-02
 * [Pull Request] [Ensure status v2 returns the earliest available block when custody requirements are satisified for the da retention period](https://github.com/sigp/lighthouse/pull/8177) - 2025-10-09
+* [Issue] [Remove `BlobInfo`](https://github.com/sigp/lighthouse/issues/8203) - 2025-10-14
+* [Pull Request] []() - 2025-10-14
 ## Q3 2025
 
 

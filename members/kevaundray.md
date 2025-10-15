@@ -16,6 +16,9 @@ Team: Consensus R&D (EF)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Add kzg block hashes to the public inputs when verifying optional execution proofs](https://github.com/ethereum/consensus-specs/issues/4637) - 2025-10-06
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] []() - 2025-10-14
 ## Q3 2025
 
 

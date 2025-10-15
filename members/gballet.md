@@ -18,6 +18,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Thomas Coratger from zkEVM](https://github.com/protocolguild/documentation/pull/436) - 2025-10-07
 * [Pull Request] [fix Stateless Consensus merging issue](https://github.com/protocolguild/documentation/pull/435) - 2025-10-07
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] []() - 2025-10-14
 ## Q3 2025
 
 
