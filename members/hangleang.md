@@ -26,6 +26,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Add Gloas helper, state transition functions](https://github.com/grandinetech/grandine/issues/417) - 2025-10-13
 * [Commit] [Support the `/eth/v2/builder/blinded_blocks` post-fulu](https://github.com/grandinetech/grandine/commit/1b4cf58a9288ddd85a5b25337ca05a6b376aabbd) - 2025-10-13
 * [Issue] [Add a feature to disable finalized root check in status message](https://github.com/grandinetech/grandine/issues/416) - 2025-10-13
+* [Pull Request] []() - 2025-10-15
 ## Q3 2025
 
 

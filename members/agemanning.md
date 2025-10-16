@@ -8,6 +8,11 @@ Team: Lighthouse
 
 ## Contributions
 
+## Q4 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Issue] [Attestation Processing Optimization](https://github.com/sigp/lighthouse/issues/8208) - 2025-10-16
 ## Q3 2025
 
 

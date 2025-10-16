@@ -17,6 +17,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [remove unused import](https://github.com/status-im/nimbus-eth2/commit/ff1f6a42c8c5df31528436675966848d580668e6) - 2025-10-12
 * [Pull Request] [prevent vcus from happening in non validating nodes](https://github.com/status-im/nimbus-eth2/pull/7606) - 2025-10-13
 * [Pull Request] []() - 2025-10-14
+* [Pull Request] []() - 2025-10-15
 ## Q3 2025
 
 

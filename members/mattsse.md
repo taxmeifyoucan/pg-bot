@@ -17,6 +17,7 @@ Team: Reth
 * [Commit] [docs: apply spelling and grammar fixes from unmerged PRs](https://github.com/paradigmxyz/reth/commit/3a7ea3e15f7a5a4674e5d3ac7c6d691c000bf5dd) - 2025-10-02
 * [Pull Request] [docs: apply spelling and grammar fixes from unmerged PRs](https://github.com/paradigmxyz/reth/pull/18835) - 2025-10-02
 * [Commit] [fix(payload): correct Debug label for PayloadTimestamp in PayloadServiceCommand (#18954)](https://github.com/paradigmxyz/reth/commit/16ba9e8979b869eb8b02a6f89cadc2ca9f68094e) - 2025-10-13
+* [Issue] [Add subscription stream function for transaction receipts](https://github.com/paradigmxyz/reth/issues/19055) - 2025-10-15
 ## Q3 2025
 
 

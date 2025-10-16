@@ -8,6 +8,11 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 
 ## Contributions
 
+## Q4 2025
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] []() - 2025-10-15
 ## Q3 2025
 
 

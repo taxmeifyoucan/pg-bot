@@ -23,6 +23,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [refactor: remove needless collect() calls in trie tests (#18937)](https://github.com/paradigmxyz/reth/commit/5c18df9889941837e61929be4b51abb75f07f152) - 2025-10-13
 * [Pull Request] [refactor: unify `Pipeline` creation codepaths](https://github.com/paradigmxyz/reth/pull/18955) - 2025-10-13
 * [Commit] [refactor: unify Pipeline creation codepaths](https://github.com/paradigmxyz/reth/commit/bdadef6812ba52fe7e412e298386557f0caa1a0b) - 2025-10-13
+* [Pull Request] []() - 2025-10-15
 ## Q3 2025
 
 

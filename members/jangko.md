@@ -29,6 +29,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Use mcl to boost alt_bn128 precompiles performance (#3747)](https://github.com/status-im/nimbus-eth1/commit/552755a924019c640772c2a76a6f81f54f4f9f52) - 2025-10-08
 * [Commit] [Validate public key](https://github.com/status-im/nimbus-eth1/commit/2c3b2b58511ed033742fdd7b1411fa3c80cd20b7) - 2025-10-11
 * [Commit] [Update test log](https://github.com/status-im/nimbus-eth1/commit/3eb951c900ea58e5ae21156ee9682cdbef1cc7eb) - 2025-10-11
+* [Pull Request] []() - 2025-10-15
 ## Q3 2025
 
 

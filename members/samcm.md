@@ -19,6 +19,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(migrations): add direction column to metadata status tables](https://github.com/ethpandaops/xatu/commit/a809040a9c3925b4b90a436cdcc945cbe8cc206a) - 2025-10-01
 * [Commit] [feat: replace kzg_commitments with kzg_commitments_count in data_column_sidecar](https://github.com/ethpandaops/xatu/commit/dce3bdf8df1436984738fabe5ed85b5795f28c35) - 2025-10-01
 * [Commit] [refactor(migration): drop and recreate distributed tables to include direction column](https://github.com/ethpandaops/xatu/commit/6d93a34da41d6404c19c7efa979cfdecfa403753) - 2025-10-01
+* [Pull Request] []() - 2025-10-15
 ## Q3 2025
 
 

@@ -22,6 +22,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Create multiple transaction classes for each type](https://github.com/ethereum/execution-specs/issues/1467) - 2025-10-09
 * [Issue] [4844: Add tests for invalid blob-related header fields](https://github.com/ethereum/execution-specs/issues/1466) - 2025-10-09
 * [Issue] [Proposal for feature releases for tests](https://github.com/ethereum/execution-specs/issues/1602) - 2025-10-14
+* [Issue] [Fix `test_genesis_hash_available` to be fill-only](https://github.com/ethereum/execution-specs/issues/1607) - 2025-10-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [type(tests): convert create suicide during init (#1871)](https://github.com/ethereum/execution-spec-tests/commit/28ca6decef374908e7e18e4cf4e5a500a9834866) - 2025-10-02
 * [Commit] [refactor(tests): add checklist marker for eip7823 (#2115)](https://github.com/ethereum/execution-spec-tests/commit/110b5d4ae9d6c07a4ae2d5e9a2822652b0ae6172) - 2025-10-02

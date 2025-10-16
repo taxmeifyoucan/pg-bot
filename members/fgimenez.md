@@ -39,6 +39,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Issue] [Flaky "Invalid Missing Ancestor Syncing ReOrg" tests fail when payload contains no transactions](https://github.com/ethereum/hive/issues/1351) - 2025-10-07
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] []() - 2025-10-15
 ## Q3 2025
 
 

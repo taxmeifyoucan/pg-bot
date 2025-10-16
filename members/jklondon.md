@@ -20,6 +20,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/c69a6566c1a80eacf1af700ee385b3e8f6009988) - 2025-10-07
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/1f14df85d15e65cdf843842c6d37acbb34bd2c5f) - 2025-10-09
 * [Issue] [question about updating to mdbx 0.39.10 (0.13.8)](https://github.com/erigontech/erigon/issues/17419) - 2025-10-10
+* [Issue] [rewrite PR with ContractRef but with green CI](https://github.com/erigontech/erigon/issues/17491) - 2025-10-15
+* [Pull Request] []() - 2025-10-15
 ## Q3 2025
 
 
