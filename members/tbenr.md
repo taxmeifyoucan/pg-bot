@@ -21,6 +21,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Always log error exception for block production (#9985)](https://github.com/Consensys/teku/commit/cb16f65ae5b67353f212dc5323055183f18ef7db) - 2025-10-10
 * [Pull Request] [Improved DAS sampler](https://github.com/Consensys/teku/pull/10006) - 2025-10-13
 * [Pull Request] []() - 2025-10-14
+* [Issue] [Remove FirstSamplerIncompleteSlot DB variable since it is not used](https://github.com/Consensys/teku/issues/10026) - 2025-10-16
 ## Q3 2025
 
 

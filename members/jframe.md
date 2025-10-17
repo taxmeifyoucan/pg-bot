@@ -13,6 +13,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Qbft core ability to optionally update proposal block with proposer on roundchange (#9204)](https://github.com/hyperledger/besu/commit/01f8f0325d0745013b57a20b471376f5acc4fd75) - 2025-10-10
+* [Issue] [Remove FastSync](https://github.com/hyperledger/besu/issues/9325) - 2025-10-16
+* [Issue] [Allow pipeline steps to not be in order (for bodies and receipts)](https://github.com/hyperledger/besu/issues/9324) - 2025-10-16
+* [Issue] [Complete switch over to new peer task system](https://github.com/hyperledger/besu/issues/9323) - 2025-10-16
 ## Q3 2025
 
 

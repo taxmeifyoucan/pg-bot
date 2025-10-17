@@ -19,6 +19,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Fix duplicate fields being logged when the field exists in both the span and the event](https://github.com/sigp/lighthouse/pull/8183) - 2025-10-09
 * [Pull Request] [Release v8.0.0-rc.1](https://github.com/sigp/lighthouse/pull/8185) - 2025-10-10
 
+* [Pull Request] []() - 2025-10-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-15
 ## Q3 2025

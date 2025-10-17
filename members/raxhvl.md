@@ -18,6 +18,10 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [🥢 nit: Add call value](https://github.com/ethereum/execution-spec-tests/commit/dd117bf35b99bcb777f8a2d916d50a3ae841acb6) - 2025-10-06
 * [Pull Request] [✨ feat(tests): EIP-7928  net zero balance transactions](https://github.com/ethereum/execution-spec-tests/pull/2280) - 2025-10-08
 * [Pull Request] [📄 docs: EIP-7928 BAL coinbase test cases](https://github.com/ethereum/execution-spec-tests/pull/2294) - 2025-10-13
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [chore: Rename `tx_index` to `bal_index` for `BlockAccessList`](https://github.com/ethereum/execution-specs/issues/1617) - 2025-10-16
+* [Issue] [Enforce strict field validation on critical pydantic model](https://github.com/ethereum/execution-specs/issues/1615) - 2025-10-16
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

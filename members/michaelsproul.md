@@ -18,6 +18,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Use OnceCell in HotHDiffBufferCache](https://github.com/sigp/lighthouse/pull/8176) - 2025-10-09
 * [Commit] [Release v8.0.0-rc.1 (#8185)](https://github.com/sigp/lighthouse/commit/1fb94ce432f08b110e531e1ce2e44b13b1392e5f) - 2025-10-13
 * [Commit] [Persist only custody columns in db (#8188)](https://github.com/sigp/lighthouse/commit/2c328e32a6cd139c0c6ee44b99a5e0ab8e7ebe59) - 2025-10-13
+* [Issue] [CLI flag for "semi-supernode"](https://github.com/sigp/lighthouse/issues/8218) - 2025-10-16
+* [Issue] [Remember non-canonical block roots](https://github.com/sigp/lighthouse/issues/8216) - 2025-10-16
 ## Q3 2025
 
 

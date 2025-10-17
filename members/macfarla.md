@@ -30,6 +30,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [add blockTimestamp to logs within tx receipt](https://github.com/hyperledger/besu/pull/9294) - 2025-10-13
 * [Issue] [flaky test: CLI Options test](https://github.com/hyperledger/besu/issues/9313) - 2025-10-15
 * [Pull Request] []() - 2025-10-16
+* [Pull Request] []() - 2025-10-17
 ## Q3 2025
 
 

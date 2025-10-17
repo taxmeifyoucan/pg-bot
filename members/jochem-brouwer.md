@@ -23,6 +23,11 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [`--eoa-start` does not accept hex string, only hex string converted to int](https://github.com/ethereum/execution-specs/issues/1475) - 2025-10-09
 * [Issue] [Testing: add ability for `timestamp` control](https://github.com/ethereum/execution-specs/issues/1601) - 2025-10-14
+* [Issue] [`uv run execute remote` with `--engine-endpoint` driver FCUs + getPayload too fast for big txs](https://github.com/ethereum/execution-specs/issues/1622) - 2025-10-16
+* [Issue] [Some benchmark tests will not execute the exact gas as used in the `--gas-benchmark-value`: the equality assertion should be removed](https://github.com/ethereum/execution-specs/issues/1621) - 2025-10-16
+* [Issue] [Using `uv run execute remote` with --engine-endpoint should not require `--rpc-seed-key` and should auto-fund EOA root via PayloadAttributes.withdrawals](https://github.com/ethereum/execution-specs/issues/1620) - 2025-10-16
+* [Issue] [Using `uv run execute remote` with `--rpc-endpoint` requires `--chain-id`, while it should not](https://github.com/ethereum/execution-specs/issues/1619) - 2025-10-16
+* [Issue] [Feature request: read results of the generated blocks/txs](https://github.com/ethereum/execution-specs/issues/1618) - 2025-10-16
 ## Q3 2025
 
 

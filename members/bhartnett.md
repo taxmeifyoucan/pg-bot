@@ -31,6 +31,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Remove legacy SavedStateV0 from database](https://github.com/status-im/nimbus-eth1/pull/3756) - 2025-10-09
 * [Commit] [Add parameter to skip loading forked chain state on startup (#3754)](https://github.com/status-im/nimbus-eth1/commit/9013b27e35c65156ef2f9c40dd203a3bde869ad2) - 2025-10-09
 * [Pull Request] []() - 2025-10-14
+* [Issue] [Parallel transaction execution using Block-Level Access Lists](https://github.com/status-im/nimbus-eth1/issues/3771) - 2025-10-16
 ## Q3 2025
 
 

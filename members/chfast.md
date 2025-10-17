@@ -22,6 +22,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [`Storage.KeyValueMismatch` is broken](https://github.com/ethereum/execution-specs/issues/1483) - 2025-10-09
 * [Issue] [Port evmone test cases](https://github.com/ethereum/execution-specs/issues/1470) - 2025-10-09
+* [Issue] [Analysis of Osaka test coverage based on evmone implementation](https://github.com/ethereum/execution-specs/issues/1614) - 2025-10-16
 ## Q3 2025
 
 

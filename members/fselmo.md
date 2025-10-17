@@ -39,6 +39,10 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [fix: mypy issues in `src/cli` and `src/ethereum_clis`](https://github.com/ethereum/execution-spec-tests/commit/257558972b4cef8299b765a95d5d5002c62d9ecb) - 2025-10-09
 * [Pull Request] [fix(tests): Fix and add cases for BALs tests for SSTORE OOG conditions](https://github.com/ethereum/execution-spec-tests/pull/2297) - 2025-10-13
 * [Pull Request] [fix(tests): Fix test expectations for BAL oog tests](https://github.com/ethereum/execution-spec-tests/pull/2293) - 2025-10-13
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [chore(types): Tighten validation on `Block` modifiers](https://github.com/ethereum/execution-specs/issues/1626) - 2025-10-16
+* [Issue] [Add `extra_forbid` to `CamelModel` and fix errors](https://github.com/ethereum/execution-specs/issues/1612) - 2025-10-16
 ## Q3 2025
 
 [ethereum/hive](https://github.com/ethereum/hive)

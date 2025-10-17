@@ -18,6 +18,7 @@ Team: Reth
 * [Pull Request] [docs: apply spelling and grammar fixes from unmerged PRs](https://github.com/paradigmxyz/reth/pull/18835) - 2025-10-02
 * [Commit] [fix(payload): correct Debug label for PayloadTimestamp in PayloadServiceCommand (#18954)](https://github.com/paradigmxyz/reth/commit/16ba9e8979b869eb8b02a6f89cadc2ca9f68094e) - 2025-10-13
 * [Issue] [Add subscription stream function for transaction receipts](https://github.com/paradigmxyz/reth/issues/19055) - 2025-10-15
+* [Issue] [Add Pool::remove_transaction(hash)](https://github.com/paradigmxyz/reth/issues/19097) - 2025-10-16
 ## Q3 2025
 
 

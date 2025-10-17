@@ -25,6 +25,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Portal: rework db paths and general architecture](https://github.com/status-im/nimbus-eth1/pull/3755) - 2025-10-08
 * [Issue] [Rework nimbus_execution_client integration with Portal to not use waitFor](https://github.com/status-im/nimbus-eth1/issues/3758) - 2025-10-09
 * [Pull Request] [portal-bridge: add content gossip retries based on accept metadata](https://github.com/status-im/nimbus-eth1/pull/3762) - 2025-10-10
+* [Issue] [Experiment with a RangeFindContent message type in Portal wire protocol](https://github.com/status-im/nimbus-eth1/issues/3773) - 2025-10-16
 ## Q3 2025
 
 

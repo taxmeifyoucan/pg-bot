@@ -30,6 +30,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Run fork_choice and proto_array tests](https://github.com/status-im/nimbus-eth2/pull/7607) - 2025-10-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7916: Move to Review](https://github.com/ethereum/EIPs/pull/10526) - 2025-10-12
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] []() - 2025-10-16
 ## Q3 2025
 
 
