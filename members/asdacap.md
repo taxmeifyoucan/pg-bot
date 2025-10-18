@@ -33,6 +33,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix logs in eth_simulate (#9437)](https://github.com/NethermindEth/nethermind/commit/a1e10b65141c1fd689129637ad906c1e655377e7) - 2025-10-13
 * [Commit] [Fix concurrent tree read (#9447)](https://github.com/NethermindEth/nethermind/commit/c5cfd08169511f1043dab34fea375d70cfa43210) - 2025-10-13
 * [Pull Request] []() - 2025-10-14
+* [Pull Request] []() - 2025-10-18
 ## Q3 2025
 
 

@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] []() - 2025-10-17
 ## Q2 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

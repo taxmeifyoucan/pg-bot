@@ -40,6 +40,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): test call for eip2929 (#689)](https://github.com/ethereum/execution-spec-tests/commit/8115621105b79f60f0228f17c769d2af1db56562) - 2025-10-09
 * [Commit] [chore(docs): bump changelog for 5.3.0.](https://github.com/ethereum/execution-spec-tests/commit/2f21d20345f15ee2a57dc6c2e1d32d493af574d1) - 2025-10-09
 * [Commit] [feat(checklists,tests): complete eip7934 checklist + update checklist template + add missing test cases (#2282)](https://github.com/ethereum/execution-spec-tests/commit/eda8cc67c4c47d56effd231a171ca95bc90d7e1e) - 2025-10-09
+* [Pull Request] []() - 2025-10-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [feat(fw|evm): update t8n pipeline to allow tests to use invalid fields](https://github.com/ethereum/execution-specs/issues/1485) - 2025-10-09
 * [Issue] [feat(consume): add client config files to EEST](https://github.com/ethereum/execution-specs/issues/1484) - 2025-10-09

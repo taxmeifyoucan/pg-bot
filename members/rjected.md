@@ -26,6 +26,7 @@ Team: Reth
 * [Commit] [fix: use proper value for account changeset static files](https://github.com/paradigmxyz/reth/commit/0dcc313eb57b15644fa7cb81269a2a849e565671) - 2025-10-08
 * [Commit] [chore: add stub for account_before_block](https://github.com/paradigmxyz/reth/commit/4079bfe28d600d39a8dc58679ee4472fa30c9567) - 2025-10-08
 * [Commit] [docs: yellowpaper sections in consensus implementation (#18881)](https://github.com/paradigmxyz/reth/commit/83cec3793bb2300c76f1aeb88aac1e1a96309f34) - 2025-10-08
+* [Pull Request] []() - 2025-10-18
 ## Q3 2025
 
 

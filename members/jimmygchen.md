@@ -20,6 +20,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Release v8.0.0-rc.1](https://github.com/sigp/lighthouse/pull/8185) - 2025-10-10
 
 * [Pull Request] []() - 2025-10-16
+* [Issue] [v8.0.0 release testing checklist](https://github.com/sigp/lighthouse/issues/8233) - 2025-10-17
+* [Pull Request] []() - 2025-10-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-15
 ## Q3 2025

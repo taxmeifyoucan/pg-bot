@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #58, Oct 20, 2025](https://github.com/ethereum/pm/issues/1769) - 2025-10-17
 ## Q3 2025
 
 

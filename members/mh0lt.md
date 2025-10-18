@@ -41,6 +41,7 @@ Team: Erigon
 * [Commit] [log dynamic gas](https://github.com/erigontech/erigon/commit/a2de84714673b4bca1e22b615c5aa3ccf2e7c617) - 2025-10-13
 * [Issue] [Improve Block Production Uint Tests](https://github.com/erigontech/erigon/issues/17508) - 2025-10-16
 * [Issue] [NewPayload spam for slots with invalid blocks](https://github.com/erigontech/erigon/issues/17505) - 2025-10-16
+* [Issue] [Consolidate Mining Execution](https://github.com/erigontech/erigon/issues/17529) - 2025-10-17
 ## Q3 2025
 
 

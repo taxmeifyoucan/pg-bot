@@ -16,6 +16,7 @@ Team: Erigon
 * [Commit] [arb: decrease log level for wasm activation (#17352)](https://github.com/erigontech/erigon/commit/ba2bc44f25f1e1133d5c900c44e528473a9e3532) - 2025-10-06
 * [Pull Request] [arb: decrease log level for wasm activation](https://github.com/erigontech/erigon/pull/17352) - 2025-10-06
 * [Pull Request] []() - 2025-10-14
+* [Pull Request] []() - 2025-10-17
 ## Q3 2025
 
 

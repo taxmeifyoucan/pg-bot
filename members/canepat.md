@@ -38,6 +38,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [cleaner fix](https://github.com/erigontech/erigon/commit/30f03cfdf28a7e782569d7303e2f9b80791a5ad9) - 2025-10-11
 * [Pull Request] [tests: fix data race in HexPatriciaHashed parallel tests](https://github.com/erigontech/erigon/pull/17423) - 2025-10-11
 * [Issue] [Data race in hex_patricia_hashed_test.go tests](https://github.com/erigontech/erigon/issues/17422) - 2025-10-11
+* [Issue] [Flaky test TestMergedFileGet](https://github.com/erigontech/erigon/issues/17532) - 2025-10-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: refactor WebSocket integration utilities (#468)](https://github.com/erigontech/rpc-tests/commit/4f415d317dc3637648781b043ac3b002aa209132) - 2025-10-02
 * [Pull Request] [integration: add test for debug_traceCall](https://github.com/erigontech/rpc-tests/pull/470) - 2025-10-03

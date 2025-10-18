@@ -42,6 +42,9 @@ Team: EthereumJS
 * [Commit] [chore: more verkl removal](https://github.com/ethereumjs/ethereumjs-monorepo/commit/e492c0403b9bdb139f841959125ef5ed2a626ad4) - 2025-10-11
 * [Pull Request] [verkle: remove verkle package](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4145) - 2025-10-11
 * [Commit] [chore: cleanup verkle](https://github.com/ethereumjs/ethereumjs-monorepo/commit/83b0269efe4948b3267a1fa753e06c3488df5ec1) - 2025-10-11
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Stateless Implementers Call #44, October 20th, 2025](https://github.com/ethereum/pm/issues/1770) - 2025-10-17
 ## Q3 2025
 
 
