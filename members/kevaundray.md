@@ -19,6 +19,9 @@ Team: Consensus R&D (EF)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2025-10-14
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] []() - 2025-10-18
 ## Q3 2025
 
 
