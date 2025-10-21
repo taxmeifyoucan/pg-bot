@@ -19,6 +19,7 @@ Team: Grandine
 * [Pull Request] [Ensure peer connected only after other sync checks to avoid unnecessary peer collection locking](https://github.com/grandinetech/grandine/pull/412) - 2025-10-09
 
 * [Pull Request] []() - 2025-10-17
+* [Pull Request] []() - 2025-10-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-14
 ## Q3 2025

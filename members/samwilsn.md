@@ -24,6 +24,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fixing issue #1398 (#1593)](https://github.com/ethereum/execution-specs/commit/a4aedae11b764d0be2d48900735558480151846a) - 2025-10-11
 * [Pull Request] []() - 2025-10-15
 * [Issue] [Optimize the `json_infra` tests](https://github.com/ethereum/execution-specs/issues/1605) - 2025-10-15
+* [Issue] [Document conventional commit prefixes](https://github.com/ethereum/execution-specs/issues/1638) - 2025-10-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-908: Fix typo (#10312)](https://github.com/ethereum/EIPs/commit/48785209991dcca4f1c8766027c3f3398d0e6f49) - 2025-10-07
 * [Commit] [Update EIP-7636: fix typo (#10271)](https://github.com/ethereum/EIPs/commit/474290ae07adefc880852700cee071596deb1695) - 2025-10-07
