@@ -20,6 +20,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update 7949: specify each field explicitly](https://github.com/ethereum/EIPs/pull/10503) - 2025-10-09
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Pull Request] []() - 2025-10-21
 ## Q3 2025
 
 

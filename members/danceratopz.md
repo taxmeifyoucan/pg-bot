@@ -17,6 +17,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 * [Pull Request] [Use non-editable installs for test generators](https://github.com/ethereum/consensus-specs/pull/4634) - 2025-10-03
 * [Issue] [Editable installs + multiprocessing break vector generation](https://github.com/ethereum/consensus-specs/issues/4633) - 2025-10-03
+* [Pull Request] []() - 2025-10-21
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [Deployed 28ca6decef3 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e4b71f3c74639dd3b2b475f32b3e0828036f05f1) - 2025-10-02
 * [Commit] [Deployed ae9b597612c to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1d57fb4149540151a16a025783f76eff24439df4) - 2025-10-02

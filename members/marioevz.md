@@ -26,6 +26,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [[Post-Weld] Revisit `slow` marked tests](https://github.com/ethereum/execution-specs/issues/1625) - 2025-10-16
 * [Issue] [Update the existing test_modexp_upper_bounds to run from Prague](https://github.com/ethereum/execution-specs/issues/1624) - 2025-10-16
 * [Pull Request] []() - 2025-10-21
+* [Issue] [Verify Behavior of T8N in `ExecutionSpecsTransitionTool` due to `--output.basedir`](https://github.com/ethereum/execution-specs/issues/1652) - 2025-10-21
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [type(tests): convert create suicide during init (#1871)](https://github.com/ethereum/execution-spec-tests/commit/28ca6decef374908e7e18e4cf4e5a500a9834866) - 2025-10-02
 * [Commit] [refactor(tests): add checklist marker for eip7823 (#2115)](https://github.com/ethereum/execution-spec-tests/commit/110b5d4ae9d6c07a4ae2d5e9a2822652b0ae6172) - 2025-10-02
@@ -44,6 +45,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [refactor(specs): Fix mypy issues](https://github.com/ethereum/execution-spec-tests/commit/f5ad47a0f20b67552a27f91b8aa8259cf39d8527) - 2025-10-09
 * [Commit] [fix(src,tests): Fix import typing errors (#2290)](https://github.com/ethereum/execution-spec-tests/commit/a9fc9ee763b76dde8c084de656bdf3a99ae4ce48) - 2025-10-10
 * [Commit] [refactor(benchmark): update to benchmark test wrapper (#2160)](https://github.com/ethereum/execution-spec-tests/commit/131adfeae6dbf6c89f15208a4344459d5331feb2) - 2025-10-13
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #59, Oct 27, 2025](https://github.com/ethereum/pm/issues/1778) - 2025-10-21
 ## Q3 2025
 
 

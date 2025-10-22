@@ -29,6 +29,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Remove `BlindedBeaconBlockBodyGloas` + fix few tests (#10005)](https://github.com/Consensys/teku/commit/bec203a4de2be29c1e680e7bae5a2ffefa52c2ec) - 2025-10-13
 * [Issue] [Split integration tests](https://github.com/Consensys/teku/issues/10007) - 2025-10-13
 * [Issue] [Delay when producing an execution payload in Gloas (self-built)](https://github.com/Consensys/teku/issues/10018) - 2025-10-15
+* [Issue] [Payload timeliness attestation duty](https://github.com/Consensys/teku/issues/10041) - 2025-10-21
 ## Q3 2025
 
 

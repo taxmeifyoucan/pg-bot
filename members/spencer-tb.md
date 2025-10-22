@@ -49,6 +49,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Fix unhandled modexp U256 overflow for forks before Osaka](https://github.com/ethereum/execution-specs/issues/1465) - 2025-10-09
 * [Pull Request] [feat(ci): integrate EEST CI into EELS (WIP)](https://github.com/ethereum/execution-specs/pull/1598) - 2025-10-13
 
+* [Pull Request] []() - 2025-10-21
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Issue] [Remaining fails filling EEST with evmone](https://github.com/ipsilon/evmone/issues/1337) - 2025-10-14
 ## Q3 2025

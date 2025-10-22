@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Improved DAS sampler](https://github.com/Consensys/teku/pull/10006) - 2025-10-13
 * [Pull Request] []() - 2025-10-14
 * [Issue] [Remove FirstSamplerIncompleteSlot DB variable since it is not used](https://github.com/Consensys/teku/issues/10026) - 2025-10-16
+* [Issue] [nodeId and column custody consistency](https://github.com/Consensys/teku/issues/10039) - 2025-10-21
 ## Q3 2025
 
 

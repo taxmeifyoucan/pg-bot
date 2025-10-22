@@ -8,6 +8,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q4 2025
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] []() - 2025-10-21
+* [Issue] [Remove nested `waitFor` call](https://github.com/status-im/nimbus-eth1/issues/3779) - 2025-10-21
+* [Issue] [Remove `blk` field from BlockRef](https://github.com/status-im/nimbus-eth1/issues/3778) - 2025-10-21
 ## Q3 2025
 
 

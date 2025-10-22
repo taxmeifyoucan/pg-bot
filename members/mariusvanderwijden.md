@@ -8,6 +8,11 @@ Team: Geth
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Issue] [Flaky test: TestSizeTracker](https://github.com/ethereum/go-ethereum/issues/32984) - 2025-10-21
 ## Q3 2025
 
 

@@ -43,6 +43,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore(types): Tighten validation on `Block` modifiers](https://github.com/ethereum/execution-specs/issues/1626) - 2025-10-16
 * [Issue] [Add `extra_forbid` to `CamelModel` and fix errors](https://github.com/ethereum/execution-specs/issues/1612) - 2025-10-16
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] []() - 2025-10-21
 ## Q3 2025
 
 [ethereum/hive](https://github.com/ethereum/hive)

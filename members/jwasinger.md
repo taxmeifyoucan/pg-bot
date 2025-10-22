@@ -15,6 +15,7 @@ Team: Geth
 * [Pull Request] [all: block access list execution and generation (tracer-based approach for BAL generation/validation)](https://github.com/ethereum/go-ethereum/pull/32840) - 2025-10-05
 * [Pull Request] [all: block access list execution and generation (tracer-based approach for BAL generation/validation)](https://github.com/ethereum/go-ethereum/pull/32865) - 2025-10-09
 * [Pull Request] []() - 2025-10-15
+* [Pull Request] []() - 2025-10-21
 ## Q3 2025
 
 

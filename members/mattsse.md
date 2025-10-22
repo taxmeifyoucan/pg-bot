@@ -20,6 +20,7 @@ Team: Reth
 * [Issue] [Add subscription stream function for transaction receipts](https://github.com/paradigmxyz/reth/issues/19055) - 2025-10-15
 * [Issue] [Add Pool::remove_transaction(hash)](https://github.com/paradigmxyz/reth/issues/19097) - 2025-10-16
 * [Pull Request] []() - 2025-10-18
+* [Issue] [Add support for eth_fillTransaction](https://github.com/paradigmxyz/reth/issues/19197) - 2025-10-21
 ## Q3 2025
 
 
