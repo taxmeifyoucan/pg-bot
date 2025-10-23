@@ -23,6 +23,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [rewrite PR with ContractRef but with green CI](https://github.com/erigontech/erigon/issues/17491) - 2025-10-15
 * [Pull Request] []() - 2025-10-15
 * [Pull Request] []() - 2025-10-21
+* [Pull Request] []() - 2025-10-22
 ## Q3 2025
 
 

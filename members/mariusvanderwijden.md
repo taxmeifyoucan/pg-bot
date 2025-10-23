@@ -13,6 +13,7 @@ Team: Geth
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [Flaky test: TestSizeTracker](https://github.com/ethereum/go-ethereum/issues/32984) - 2025-10-21
+* [Issue] [Migrating nodes db from leveldb to pebble](https://github.com/ethereum/go-ethereum/issues/33000) - 2025-10-22
 ## Q3 2025
 
 

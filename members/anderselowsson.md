@@ -13,6 +13,7 @@ Team: Robust Incentives Group (RIG)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-10-16
+* [Pull Request] []() - 2025-10-22
 ## Q3 2025
 
 

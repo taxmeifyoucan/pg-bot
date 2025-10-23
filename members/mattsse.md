@@ -21,6 +21,7 @@ Team: Reth
 * [Issue] [Add Pool::remove_transaction(hash)](https://github.com/paradigmxyz/reth/issues/19097) - 2025-10-16
 * [Pull Request] []() - 2025-10-18
 * [Issue] [Add support for eth_fillTransaction](https://github.com/paradigmxyz/reth/issues/19197) - 2025-10-21
+* [Issue] [Add TransportRpcModules::add_or_replace_if_module_configured(](https://github.com/paradigmxyz/reth/issues/19239) - 2025-10-22
 ## Q3 2025
 
 

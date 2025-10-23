@@ -30,6 +30,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [Split integration tests](https://github.com/Consensys/teku/issues/10007) - 2025-10-13
 * [Issue] [Delay when producing an execution payload in Gloas (self-built)](https://github.com/Consensys/teku/issues/10018) - 2025-10-15
 * [Issue] [Payload timeliness attestation duty](https://github.com/Consensys/teku/issues/10041) - 2025-10-21
+* [Pull Request] []() - 2025-10-22
 ## Q3 2025
 
 

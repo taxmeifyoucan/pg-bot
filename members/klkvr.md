@@ -25,6 +25,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [refactor: unify Pipeline creation codepaths](https://github.com/paradigmxyz/reth/commit/bdadef6812ba52fe7e412e298386557f0caa1a0b) - 2025-10-13
 * [Pull Request] []() - 2025-10-15
 * [Issue] [Replace `CacheDB` usage in RPC with `State<DB>`](https://github.com/paradigmxyz/reth/issues/19148) - 2025-10-20
+* [Pull Request] []() - 2025-10-22
 ## Q3 2025
 
 

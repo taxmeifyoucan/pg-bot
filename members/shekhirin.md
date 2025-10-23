@@ -29,6 +29,7 @@ Team: Reth
 * [Pull Request] [ci: remove reproducible build from release.yml](https://github.com/paradigmxyz/reth/pull/18958) - 2025-10-13
 * [Commit] [ci: remove reproducible build from release.yml](https://github.com/paradigmxyz/reth/commit/eef09eff41289a4e9fcaca261a94b61c914b7024) - 2025-10-13
 * [Issue] [TransactionHashNumbers static files segment](https://github.com/paradigmxyz/reth/issues/19035) - 2025-10-15
+* [Issue] [Support pushing Prometheus metrics to a remote URL](https://github.com/paradigmxyz/reth/issues/19229) - 2025-10-22
 ## Q3 2025
 
 

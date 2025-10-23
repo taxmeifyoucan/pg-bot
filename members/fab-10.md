@@ -16,6 +16,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Refactor: uniform the way genesis config options are passed to protocol specs (#9279)](https://github.com/hyperledger/besu/commit/226b133cf957015180b809a7da2cfc0e29574345) - 2025-10-08
 * [Pull Request] [WIP](https://github.com/hyperledger/besu/pull/9285) - 2025-10-09
 * [Commit] [Add `isCancelled` method to `TransactionEvaluationContext` (#9285)](https://github.com/hyperledger/besu/commit/84668d4c71b5f9c6bff7f052f6071dcbce94d353) - 2025-10-10
+* [Pull Request] []() - 2025-10-22
 ## Q3 2025
 
 

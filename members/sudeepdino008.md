@@ -52,6 +52,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Bench script update: make cmd1 or cmd2 optional](https://github.com/erigontech/erigon/pull/17395) - 2025-10-09
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b67a5e8c3b076d0a81f644d432cee208c43d3cbf) - 2025-10-09
 * [Commit] [save](https://github.com/erigontech/erigon/commit/befb6f7fa0e5b0fd65dc4ca4719ca4944a02db8f) - 2025-10-09
+* [Issue] [inconsistent behaviour of downloader verify with and without --verify.failfast?](https://github.com/erigontech/erigon/issues/17589) - 2025-10-22
 ## Q3 2025
 
 

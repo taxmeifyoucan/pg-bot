@@ -21,6 +21,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2025-10-14
+* [Pull Request] []() - 2025-10-22
 ## Q3 2025
 
 

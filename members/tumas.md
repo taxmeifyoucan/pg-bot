@@ -18,6 +18,7 @@ Team: Grandine
 * [Pull Request] [Check data availability ranges in range requests](https://github.com/grandinetech/grandine/pull/413) - 2025-10-09
 * [Commit] [Take into account `earliest_available_slot` when build sync batches](https://github.com/grandinetech/grandine/commit/4db1043b56facfb0992496e8a500e5b65edff225) - 2025-10-13
 * [Pull Request] []() - 2025-10-14
+* [Pull Request] []() - 2025-10-22
 ## Q3 2025
 
 

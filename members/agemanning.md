@@ -13,6 +13,7 @@ Team: Lighthouse
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [Attestation Processing Optimization](https://github.com/sigp/lighthouse/issues/8208) - 2025-10-16
+* [Issue] [NAT Hole Punching](https://github.com/sigp/lighthouse/issues/8262) - 2025-10-22
 ## Q3 2025
 
 

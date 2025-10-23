@@ -65,6 +65,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [feat(evm): add extended tracing to ethereum-spec-evm t8n interface](https://github.com/ethereum/execution-specs/issues/1468) - 2025-10-09
 * [Issue] [bug(gentest,rpc): `gentest` rpc error with `unexpected keyword argument 'extra_headers'`](https://github.com/ethereum/execution-specs/issues/1623) - 2025-10-16
 * [Issue] [feat(fill,execute,benchmark): test selection via pytest's `testpaths` instead of markers via `--mode`](https://github.com/ethereum/execution-specs/issues/1616) - 2025-10-16
+* [Pull Request] []() - 2025-10-22
 ## Q3 2025
 
 

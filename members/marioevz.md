@@ -27,6 +27,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Update the existing test_modexp_upper_bounds to run from Prague](https://github.com/ethereum/execution-specs/issues/1624) - 2025-10-16
 * [Pull Request] []() - 2025-10-21
 * [Issue] [Verify Behavior of T8N in `ExecutionSpecsTransitionTool` due to `--output.basedir`](https://github.com/ethereum/execution-specs/issues/1652) - 2025-10-21
+* [Issue] [Fill Gas-Repricing Tests And Create a New Release](https://github.com/ethereum/execution-specs/issues/1656) - 2025-10-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [type(tests): convert create suicide during init (#1871)](https://github.com/ethereum/execution-spec-tests/commit/28ca6decef374908e7e18e4cf4e5a500a9834866) - 2025-10-02
 * [Commit] [refactor(tests): add checklist marker for eip7823 (#2115)](https://github.com/ethereum/execution-spec-tests/commit/110b5d4ae9d6c07a4ae2d5e9a2822652b0ae6172) - 2025-10-02
