@@ -14,6 +14,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Preload block headers cache at startup time (#9248)](https://github.com/hyperledger/besu/commit/f1e4953adb4eaa00623ba59a4fa251ffaa4dbc6c) - 2025-10-01
 * [Commit] [ADD: UInt256 implementation of evm's op MOD (#9188)](https://github.com/hyperledger/besu/commit/0db2a0a38a8e6b9dae40fb866fd07a6612081a18) - 2025-10-13
+* [Issue] [Investigate SIMD implementation for UInt256](https://github.com/hyperledger/besu/issues/9357) - 2025-10-23
+* [Issue] [Investigate long limbs on UInt256](https://github.com/hyperledger/besu/issues/9356) - 2025-10-23
+* [Issue] [Address performance improvements comments on UInt246](https://github.com/hyperledger/besu/issues/9355) - 2025-10-23
 ## Q3 2025
 
 

@@ -66,6 +66,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [bug(gentest,rpc): `gentest` rpc error with `unexpected keyword argument 'extra_headers'`](https://github.com/ethereum/execution-specs/issues/1623) - 2025-10-16
 * [Issue] [feat(fill,execute,benchmark): test selection via pytest's `testpaths` instead of markers via `--mode`](https://github.com/ethereum/execution-specs/issues/1616) - 2025-10-16
 * [Pull Request] []() - 2025-10-22
+* [Issue] [Reduce HTML file size in the reference test documentation](https://github.com/ethereum/execution-specs/issues/1662) - 2025-10-23
 ## Q3 2025
 
 

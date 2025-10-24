@@ -24,6 +24,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [exclude unscheduled forks from the schedule (#15799)](https://github.com/OffchainLabs/prysm/commit/74c47e25a919ee5847de9637964ece93db939ba8) - 2025-10-08
 * [Commit] [Change wording](https://github.com/OffchainLabs/prysm/commit/6d62267ccb97ca213939c4bfe76c9d324080c4cd) - 2025-10-13
 * [Commit] [Fix ignored gossip attestation validation for early arriving attestations (#15840)](https://github.com/OffchainLabs/prysm/commit/0aa248e6631912142690929984ac924f31c08ae1) - 2025-10-13
+* [Pull Request] []() - 2025-10-23
 ## Q3 2025
 
 

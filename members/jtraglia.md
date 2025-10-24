@@ -24,6 +24,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] []() - 2025-10-22
 * [Issue] [Remove support for former deposit mechanism](https://github.com/ethereum/consensus-specs/issues/4686) - 2025-10-22
 * [Issue] [Fix tests so that merge functions do not need to be modified](https://github.com/ethereum/consensus-specs/issues/4684) - 2025-10-22
+* [Pull Request] []() - 2025-10-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP-7732 Breakout Room Call #26, October 24, 2025](https://github.com/ethereum/pm/issues/1759) - 2025-10-13
 ## Q3 2025

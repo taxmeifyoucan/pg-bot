@@ -19,6 +19,7 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d3b3ad36d05cc9f50fa401d6cea25d3426e36334) - 2025-10-06
 * [Issue] [Cannot sync gnosis from scrath (needed for historical eth_getProof)](https://github.com/erigontech/erigon/issues/17430) - 2025-10-12
 * [Issue] [Bug in EpochData marshalling in Antiquary](https://github.com/erigontech/erigon/issues/17476) - 2025-10-15
+* [Pull Request] []() - 2025-10-23
 ## Q3 2025
 
 

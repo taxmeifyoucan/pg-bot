@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Remove `context_deserialize` and import from crates.io](https://github.com/sigp/lighthouse/pull/8172) - 2025-10-08
 * [Pull Request] [Remove `safe_arith` and import from crates.io](https://github.com/sigp/lighthouse/pull/8191) - 2025-10-12
 * [Pull Request] []() - 2025-10-15
+* [Pull Request] []() - 2025-10-23
 ## Q3 2025
 
 

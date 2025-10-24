@@ -23,6 +23,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] []() - 2025-10-21
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] []() - 2025-10-23
 ## Q3 2025
 
 
