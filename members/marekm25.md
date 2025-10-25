@@ -16,6 +16,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Issue] [eth_getBalance responds with TrieException](https://github.com/NethermindEth/nethermind/issues/9408) - 2025-10-04
 * [Commit] [Refactoring HasState (#9414)](https://github.com/NethermindEth/nethermind/commit/e9a79ea7726dc5a7ba307eb2cf82613facd6d76a) - 2025-10-05
 * [Pull Request] [Refactoring HasState](https://github.com/NethermindEth/nethermind/pull/9414) - 2025-10-05
+* [Pull Request] []() - 2025-10-24
 ## Q3 2025
 
 

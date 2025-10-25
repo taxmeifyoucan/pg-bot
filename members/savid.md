@@ -29,6 +29,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Release/state expiry](https://github.com/ethpandaops/lab/pull/119) - 2025-10-03
 * [Commit] [add block expiry window](https://github.com/ethpandaops/lab/commit/205a649008854260ea968f2a7247433c4a77060c) - 2025-10-06
 * [Pull Request] [refactor: massive frontend changes](https://github.com/ethpandaops/lab/pull/121) - 2025-10-10
+* [Pull Request] []() - 2025-10-24
 ## Q3 2025
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)

@@ -23,6 +23,7 @@ Team: Erigon
 * [Commit] [qa-tests: bump lighthouse version in sync-with-externalcl test (#17373)](https://github.com/erigontech/erigon/commit/a8dac830ea5dbdeebd107ce823e46c460ad3ad10) - 2025-10-09
 * [Commit] [fix command line](https://github.com/erigontech/erigon/commit/bff6fa3a1ecbe716fd110e68e7e12dbaf94ab2f0) - 2025-10-13
 * [Issue] [Unfinished execution history download on Chiado](https://github.com/erigontech/erigon/issues/17590) - 2025-10-22
+* [Issue] [Improve Tip-Tracking test with more debug tools](https://github.com/erigontech/erigon/issues/17646) - 2025-10-24
 ## Q3 2025
 
 

@@ -67,6 +67,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [feat(fill,execute,benchmark): test selection via pytest's `testpaths` instead of markers via `--mode`](https://github.com/ethereum/execution-specs/issues/1616) - 2025-10-16
 * [Pull Request] []() - 2025-10-22
 * [Issue] [Reduce HTML file size in the reference test documentation](https://github.com/ethereum/execution-specs/issues/1662) - 2025-10-23
+* [Issue] [Running `fill` generates `PytestAssertRewriteWarning` for `custom_logging` plugin](https://github.com/ethereum/execution-specs/issues/1676) - 2025-10-24
+* [Issue] [Ensure `uv run eest make test` calls `ruff` and formats the generated test module correctly](https://github.com/ethereum/execution-specs/issues/1675) - 2025-10-24
+* [Issue] [Fix target directory for `env.yaml` with `eest make env` when ran from package](https://github.com/ethereum/execution-specs/issues/1674) - 2025-10-24
+* [Issue] [Update documentation for testing Package Renaming (Follow-up to PR #1654)](https://github.com/ethereum/execution-specs/issues/1672) - 2025-10-24
 ## Q3 2025
 
 

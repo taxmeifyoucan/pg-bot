@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [WIP](https://github.com/hyperledger/besu/pull/9285) - 2025-10-09
 * [Commit] [Add `isCancelled` method to `TransactionEvaluationContext` (#9285)](https://github.com/hyperledger/besu/commit/84668d4c71b5f9c6bff7f052f6071dcbce94d353) - 2025-10-10
 * [Pull Request] []() - 2025-10-22
+* [Pull Request] []() - 2025-10-24
 ## Q3 2025
 
 

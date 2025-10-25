@@ -28,6 +28,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Experiment with a RangeFindContent message type in Portal wire protocol](https://github.com/status-im/nimbus-eth1/issues/3773) - 2025-10-16
 * [Issue] [Offer data or subset of data before it gets pruned](https://github.com/status-im/nimbus-eth1/issues/3775) - 2025-10-17
 * [Issue] [Add block receipts retrieval from Portal in EL](https://github.com/status-im/nimbus-eth1/issues/3774) - 2025-10-17
+* [Pull Request] []() - 2025-10-24
+* [Issue] [Missing eip-2124 / EIP-6122 testing for fork combination possibilities](https://github.com/status-im/nimbus-eth1/issues/3795) - 2025-10-24
+* [Issue] [Invalid forkid checking for discv5 eligibleNode check](https://github.com/status-im/nimbus-eth1/issues/3794) - 2025-10-24
 ## Q3 2025
 
 

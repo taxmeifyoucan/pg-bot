@@ -35,6 +35,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Pull Request] [chore(ci): update eest 7594 issue link in hive expected failures file](https://github.com/paradigmxyz/reth/pull/18976) - 2025-10-13
 * [Issue] [Fix eest eip7594_peerdas/test_max_blob_per_tx](https://github.com/paradigmxyz/reth/issues/18975) - 2025-10-13
 * [Pull Request] []() - 2025-10-20
+* [Issue] [Add example for custom chain hardforks](https://github.com/paradigmxyz/reth/issues/19285) - 2025-10-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Federico Gimenez 1 -> 0.5](https://github.com/protocolguild/documentation/pull/430) - 2025-10-04
 
