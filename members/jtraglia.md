@@ -27,6 +27,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] []() - 2025-10-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP-7732 Breakout Room Call #26, October 24, 2025](https://github.com/ethereum/pm/issues/1759) - 2025-10-13
+* [Issue] [EIP-7732 Breakout Room Call #27, November 7, 2025](https://github.com/ethereum/pm/issues/1783) - 2025-10-25
 ## Q3 2025
 
 

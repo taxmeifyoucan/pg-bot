@@ -8,6 +8,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 ## Contributions
 
+## Q4 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] []() - 2025-10-25
+* [Issue] [Slow head sync in tinny devnet](https://github.com/sigp/lighthouse/issues/8289) - 2025-10-25
 ## Q3 2025
 
 
