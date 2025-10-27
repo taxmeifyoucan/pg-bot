@@ -32,6 +32,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] []() - 2025-10-16
 * [Pull Request] []() - 2025-10-17
 
+* [Pull Request] []() - 2025-10-27
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] []() - 2025-10-21
 * [Pull Request] []() - 2025-10-22

@@ -29,6 +29,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [imp, getReceipt with replay prevTx](https://github.com/erigontech/erigon/commit/d58769fdf346d19078455d6234965ba2fd831ed3) - 2025-10-12
 * [Pull Request] []() - 2025-10-18
 * [Pull Request] []() - 2025-10-24
+* [Pull Request] []() - 2025-10-26
+* [Issue] [SharedDomain doesn't work via gRPC](https://github.com/erigontech/erigon/issues/17661) - 2025-10-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add debug_traceCall test for Gnosis (#470)](https://github.com/erigontech/rpc-tests/commit/627c1e1ff3fc3e52d9c6d23ca3fd69a727b1d1ae) - 2025-10-03
 * [Commit] [remove wrong chr](https://github.com/erigontech/rpc-tests/commit/4383d9aeb6fd73d640c82d9503c6ff742f54706e) - 2025-10-03
