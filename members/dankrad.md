@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q4 2025
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] []() - 2025-10-27
 ## Q3 2025
 
 

@@ -19,6 +19,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [fix: use timestamp from head to validate fork for getBlobs](https://github.com/hyperledger/besu/pull/9265) - 2025-10-02
 * [Commit] [Add Osaka Engine acceptance test (#9268)](https://github.com/hyperledger/besu/commit/5051cc1eeff9d41d82bd2d5bf1be09efcee09803) - 2025-10-03
 * [Commit] [chore: bpo cleanup (#9286)](https://github.com/hyperledger/besu/commit/14b103e0475086f4ae639c31c2c027c2ae0ff180) - 2025-10-10
+* [Issue] [Release 25.11.0](https://github.com/hyperledger/besu/issues/9366) - 2025-10-27
 ## Q3 2025
 
 

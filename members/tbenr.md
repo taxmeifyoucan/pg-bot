@@ -24,6 +24,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Remove FirstSamplerIncompleteSlot DB variable since it is not used](https://github.com/Consensys/teku/issues/10026) - 2025-10-16
 * [Issue] [nodeId and column custody consistency](https://github.com/Consensys/teku/issues/10039) - 2025-10-21
 * [Pull Request] []() - 2025-10-24
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [Invalid block on mainnet (`1.7.0`)](https://github.com/paradigmxyz/reth/issues/19322) - 2025-10-27
 ## Q3 2025
 
 

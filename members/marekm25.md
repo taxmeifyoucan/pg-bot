@@ -17,6 +17,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Commit] [Refactoring HasState (#9414)](https://github.com/NethermindEth/nethermind/commit/e9a79ea7726dc5a7ba307eb2cf82613facd6d76a) - 2025-10-05
 * [Pull Request] [Refactoring HasState](https://github.com/NethermindEth/nethermind/pull/9414) - 2025-10-05
 * [Pull Request] []() - 2025-10-24
+* [Issue] [Big_test is failing with missing trie nodes](https://github.com/NethermindEth/nethermind/issues/9577) - 2025-10-27
 ## Q3 2025
 
 

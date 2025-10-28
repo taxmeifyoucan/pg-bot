@@ -25,6 +25,7 @@ Team: Reth
 * [Issue] [Remove 4844 transactions with too many blobs during osaka transaction](https://github.com/paradigmxyz/reth/issues/19297) - 2025-10-25
 * [Pull Request] []() - 2025-10-25
 * [Issue] [Bump superchain registry for jovian](https://github.com/paradigmxyz/reth/issues/19291) - 2025-10-25
+* [Pull Request] []() - 2025-10-27
 ## Q3 2025
 
 

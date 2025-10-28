@@ -52,6 +52,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [dir improvements: move `ethstats` to `node`](https://github.com/erigontech/erigon/commit/7021375fc9b2700004ed7d11d8d27d2c444f5591) - 2025-10-13
 * [Commit] [execution/tests: update EEST to v5.3.0 (#17418)](https://github.com/erigontech/erigon/commit/bf5a047140ce7ef371bf8f22ba9955df56e7a24f) - 2025-10-13
 * [Commit] [switch eest-fixtures to main branch](https://github.com/erigontech/erigon/commit/61111ab8ba6c11ec3a802b22cb6823a4946635c9) - 2025-10-13
+* [Issue] [Improve directories in `execution`](https://github.com/erigontech/erigon/issues/17689) - 2025-10-27
 ## Q3 2025
 
 

@@ -32,6 +32,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Use proper blob proofs version (#9423)](https://github.com/NethermindEth/nethermind/commit/35ebd0a69e396322faea410432314c3f1bc1927b) - 2025-10-08
 * [Commit] [XDC : QuorumCertificate Manager (#9294)](https://github.com/NethermindEth/nethermind/commit/a86580138981169298b8ab15338569dcfea96543) - 2025-10-08
 * [Commit] [Remove quick fail when running Hive tests (#9426)](https://github.com/NethermindEth/nethermind/commit/8cea3fc2f2deb3696d9c4dbe7e14c6ebe912f424) - 2025-10-08
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] []() - 2025-10-27
 ## Q3 2025
 
 

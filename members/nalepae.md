@@ -40,6 +40,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [`VerifyDataColumnSidecar`: Check if there is no too many commitments.](https://github.com/OffchainLabs/prysm/pull/15859) - 2025-10-13
 * [Commit] [`VerifyDataColumnSidecar`: Check if there is no too many commitments.](https://github.com/OffchainLabs/prysm/commit/077428cb38dd9a60e72647e0666a8845e0f3c594) - 2025-10-13
 * [Commit] [`--subscribe-all-subnets`: Define it as an alias and define `--subscribe-all-attestations-and-sync-subnets` as the main value.](https://github.com/OffchainLabs/prysm/commit/c8b39bc59d37dbe374e1a1d9142e1cafe813a7a3) - 2025-10-13
+* [Pull Request] []() - 2025-10-27
 ## Q3 2025
 
 

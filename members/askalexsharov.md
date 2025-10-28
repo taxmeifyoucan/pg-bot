@@ -90,6 +90,7 @@ Team: Erigon
 * [Commit] [mdbx: v0.13.8 (#17284)](https://github.com/erigontech/erigon/commit/34fcd734fdfc52adea725578c6adde9ed7a2436a) - 2025-10-13
 * [Pull Request] []() - 2025-10-20
 * [Pull Request] []() - 2025-10-25
+* [Pull Request] []() - 2025-10-27
 ## Q3 2025
 
 

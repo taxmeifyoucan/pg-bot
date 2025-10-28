@@ -20,6 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [wip rebuild columns](https://github.com/Consensys/teku/pull/9994) - 2025-10-10
 * [Issue] [fix fulu genesis state generation or test case](https://github.com/Consensys/teku/issues/10003) - 2025-10-13
 * [Pull Request] [Added testcase for getProposerIndices at fulu](https://github.com/Consensys/teku/pull/10000) - 2025-10-13
+* [Pull Request] []() - 2025-10-27
 ## Q3 2025
 
 
