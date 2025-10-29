@@ -16,6 +16,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [Revert "Focil gloas"](https://github.com/Consensys/teku/pull/9952) - 2025-10-01
 * [Issue] [Update GetAttestationData for Electra](https://github.com/Consensys/teku/issues/9993) - 2025-10-10
 * [Pull Request] []() - 2025-10-21
+* [Issue] [Gloas beacon_attestation gossip rules](https://github.com/Consensys/teku/issues/10065) - 2025-10-28
+* [Issue] [Gloas beacon_block gossip rules](https://github.com/Consensys/teku/issues/10064) - 2025-10-28
 ## Q3 2025
 
 

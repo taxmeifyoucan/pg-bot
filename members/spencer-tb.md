@@ -52,6 +52,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] []() - 2025-10-21
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Issue] [Remaining fails filling EEST with evmone](https://github.com/ipsilon/evmone/issues/1337) - 2025-10-14
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] []() - 2025-10-28
 ## Q3 2025
 
 

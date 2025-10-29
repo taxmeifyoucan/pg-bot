@@ -25,6 +25,7 @@ Team: Erigon
 * [Issue] [Unfinished execution history download on Chiado](https://github.com/erigontech/erigon/issues/17590) - 2025-10-22
 * [Issue] [Improve Tip-Tracking test with more debug tools](https://github.com/erigontech/erigon/issues/17646) - 2025-10-24
 * [Issue] [[EngineBlockDownloader] could not process backward download request](https://github.com/erigontech/erigon/issues/17681) - 2025-10-27
+* [Pull Request] []() - 2025-10-28
 ## Q3 2025
 
 

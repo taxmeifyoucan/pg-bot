@@ -31,6 +31,7 @@ Team: Reth
 * [Issue] [TransactionHashNumbers static files segment](https://github.com/paradigmxyz/reth/issues/19035) - 2025-10-15
 * [Issue] [Support pushing Prometheus metrics to a remote URL](https://github.com/paradigmxyz/reth/issues/19229) - 2025-10-22
 * [Pull Request] []() - 2025-10-24
+* [Issue] [Payload validator cleanup after `ConsistentDbView` removal](https://github.com/paradigmxyz/reth/issues/19341) - 2025-10-28
 ## Q3 2025
 
 

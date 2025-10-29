@@ -23,6 +23,7 @@ Team: Consensus R&D (EF)
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] []() - 2025-10-18
 * [Pull Request] []() - 2025-10-27
+* [Pull Request] []() - 2025-10-28
 ## Q3 2025
 
 

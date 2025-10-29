@@ -32,6 +32,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [Payload timeliness attestation duty](https://github.com/Consensys/teku/issues/10041) - 2025-10-21
 * [Pull Request] []() - 2025-10-22
 * [Issue] [Adapt `TimeBasedEventAdapter` for Gloas](https://github.com/Consensys/teku/issues/10053) - 2025-10-23
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] []() - 2025-10-28
 ## Q3 2025
 
 

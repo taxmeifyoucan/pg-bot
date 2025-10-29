@@ -34,6 +34,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Missing sidecars helper functions.](https://github.com/status-im/nimbus-eth2/commit/71f84e79641777f502eaaa6d1b6c44cf12edca03) - 2025-10-10
 * [Commit] [Fix test_quarantine.](https://github.com/status-im/nimbus-eth2/commit/4421f49b86e016da0739d10791b986e2591bb3d8) - 2025-10-13
 * [Pull Request] []() - 2025-10-20
+* [Pull Request] []() - 2025-10-28
 ## Q3 2025
 
 

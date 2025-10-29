@@ -22,6 +22,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Remember non-canonical block roots](https://github.com/sigp/lighthouse/issues/8216) - 2025-10-16
 * [Pull Request] []() - 2025-10-20
 * [Issue] [Custody info API](https://github.com/sigp/lighthouse/issues/8249) - 2025-10-21
+* [Issue] [Reduce spurious recompilation due to `lighthouse_version`](https://github.com/sigp/lighthouse/issues/8311) - 2025-10-28
 ## Q3 2025
 
 

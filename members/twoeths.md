@@ -22,6 +22,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[bun] asyncAggregateWithRandomness performance issue](https://github.com/ChainSafe/lodestar/issues/8524) - 2025-10-13
 * [Pull Request] []() - 2025-10-15
 * [Pull Request] []() - 2025-10-16
+* [Pull Request] []() - 2025-10-28
 ## Q3 2025
 
 
