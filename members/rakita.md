@@ -49,6 +49,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [perf: resize short addresses bitvec instead of reallocating (#3083)](https://github.com/bluealloy/revm/commit/10ff66da1576a3532db657d7b953abcd59ec44a3) - 2025-10-13
 * [Commit] [refactor(handler): extract duplicate gas price validation (#3045)](https://github.com/bluealloy/revm/commit/0ce9fc5794e39def74d788316a7cfafbe7cdbaef) - 2025-10-13
 * [Commit] [chore: make CallInput::bytes accept immutable ContextTr (#3082)](https://github.com/bluealloy/revm/commit/082a5dd4d90f6d1233e1b6281ae24259a5a40895) - 2025-10-13
+* [Pull Request] []() - 2025-10-29
 ## Q3 2025
 
 

@@ -25,8 +25,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Test improvement tracking issue](https://github.com/sigp/lighthouse/issues/8248) - 2025-10-20
 * [Pull Request] []() - 2025-10-22
 * [Issue] [Reduce unnecessary data column downloads during backfill for full nodes](https://github.com/sigp/lighthouse/issues/8308) - 2025-10-28
+* [Pull Request] []() - 2025-10-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-15
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Issue] [Flaky blob transaction test](https://github.com/ethpandaops/assertoor/issues/125) - 2025-10-29
 ## Q3 2025
 
 

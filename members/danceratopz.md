@@ -72,6 +72,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Fix target directory for `env.yaml` with `eest make env` when ran from package](https://github.com/ethereum/execution-specs/issues/1674) - 2025-10-24
 * [Issue] [Update documentation for testing Package Renaming (Follow-up to PR #1654)](https://github.com/ethereum/execution-specs/issues/1672) - 2025-10-24
 * [Pull Request] []() - 2025-10-27
+* [Issue] [Don't format generated code from `gentest` and `eest make test` if `ruff` is not present](https://github.com/ethereum/execution-specs/issues/1715) - 2025-10-29
+* [Issue] [Update docs for the change from `optional-dependencies` (extras) to `dependency_groups`](https://github.com/ethereum/execution-specs/issues/1713) - 2025-10-29
 ## Q3 2025
 
 

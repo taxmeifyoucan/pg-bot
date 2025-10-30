@@ -22,6 +22,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Added testcase for getProposerIndices at fulu](https://github.com/Consensys/teku/pull/10000) - 2025-10-13
 * [Pull Request] []() - 2025-10-27
 
+* [Pull Request] []() - 2025-10-29
+* [Issue] [implement proposer_lookahead endpoint](https://github.com/Consensys/teku/issues/10076) - 2025-10-29
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Issue] [segv when setting kzg-precompute to 15](https://github.com/ethereum/c-kzg-4844/issues/611) - 2025-10-28
 ## Q3 2025

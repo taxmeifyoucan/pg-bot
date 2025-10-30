@@ -41,6 +41,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: avoid emitting stale light client updates](https://github.com/ChainSafe/lodestar/pull/8522) - 2025-10-10
 * [Pull Request] [chore: remove listener of blob sidecars chain event on close](https://github.com/ChainSafe/lodestar/pull/8520) - 2025-10-10
 * [Issue] [Remove usage of `prettyBytes` in errors](https://github.com/ChainSafe/lodestar/issues/8566) - 2025-10-25
+* [Pull Request] []() - 2025-10-29
 ## Q3 2025
 
 

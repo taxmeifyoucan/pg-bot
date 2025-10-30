@@ -42,6 +42,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Set Ethereum mainnet default gaslimit to 60M](https://github.com/NethermindEth/nethermind/commit/394a1d477a5b1874b371fb36d83841144c3edaa6) - 2025-10-13
 * [Commit] [Add OutputCache to metrics endpoint (#9139)](https://github.com/NethermindEth/nethermind/commit/026fa2bed0f0ec331944263daa15e8322466d440) - 2025-10-13
 
+* [Pull Request] []() - 2025-10-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-10-23
 * [Pull Request] []() - 2025-10-24

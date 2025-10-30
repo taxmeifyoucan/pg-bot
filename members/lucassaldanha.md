@@ -18,6 +18,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Fix DataColumnSidecarsByRoot request msg schema (#9972)](https://github.com/Consensys/teku/commit/8efe31055600d2e18b704d070e03b2f3473962ee) - 2025-10-10
 * [Issue] [PeerDAS Metrics](https://github.com/Consensys/teku/issues/10001) - 2025-10-13
 * [Issue] [Flaky test: ForkChoiceTriggerTest#shouldSucceedWithDebug()](https://github.com/Consensys/teku/issues/10021) - 2025-10-15
+* [Issue] [BeaconBlocksByRangeIntegrationTest integration test flaky](https://github.com/Consensys/teku/issues/10078) - 2025-10-30
 ## Q3 2025
 
 
