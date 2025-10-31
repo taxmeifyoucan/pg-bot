@@ -14,6 +14,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Commit] [Draft 2](https://github.com/ChainSafe/lodestar/commit/4e568ce30988d36e4726b0c569ec2f6dc3f31d3a) - 2025-10-03
 * [Commit] [fix: return spec constants starting with 0x as hex strings instead of decimal (#8495)](https://github.com/ChainSafe/lodestar/commit/894daf8b4487e6c35337a87abaef1f372b5193c6) - 2025-10-06
+* [Pull Request] []() - 2025-10-30
 ## Q3 2025
 
 

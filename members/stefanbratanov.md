@@ -33,6 +33,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] []() - 2025-10-22
 * [Issue] [Adapt `TimeBasedEventAdapter` for Gloas](https://github.com/Consensys/teku/issues/10053) - 2025-10-23
 
+* [Pull Request] []() - 2025-10-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-28
 ## Q3 2025

@@ -27,6 +27,7 @@ Team: Reth
 * [Issue] [Bump superchain registry for jovian](https://github.com/paradigmxyz/reth/issues/19291) - 2025-10-25
 * [Pull Request] []() - 2025-10-27
 * [Pull Request] []() - 2025-10-29
+* [Issue] [Add tracing features to node-core crate](https://github.com/paradigmxyz/reth/issues/19411) - 2025-10-30
 ## Q3 2025
 
 

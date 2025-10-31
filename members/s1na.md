@@ -23,6 +23,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Issue] [Flaky TestUDPv4_smallNetConvergence hangs](https://github.com/ethereum/go-ethereum/issues/32863) - 2025-10-09
 * [Commit] [ethclient: add SubscribeTransactionReceipts (#32869)](https://github.com/ethereum/go-ethereum/commit/659342a52300d9cd8218face5528a91e7434a8fb) - 2025-10-10
 * [Pull Request] []() - 2025-10-23
+* [Pull Request] []() - 2025-10-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Issue] [Proposal: eth_getCapabilities method](https://github.com/ethereum/execution-apis/issues/697) - 2025-10-09
 ## Q3 2025

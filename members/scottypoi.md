@@ -19,6 +19,9 @@ Team: EthereumJS
 * [Issue] [common: hardforks() method has dead code](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4159) - 2025-10-21
 * [Pull Request] []() - 2025-10-24
 * [Pull Request] []() - 2025-10-29
+
+[ethereumjs/ultralight](https://github.com/ethereumjs/ultralight)
+* [Pull Request] []() - 2025-10-30
 ## Q2 2025
 
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)

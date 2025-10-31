@@ -14,6 +14,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Commit] [update makefile](https://github.com/NethermindEth/nethermind/commit/fdb0bab0a24f190b85921ae9ea963c8627c09910) - 2025-10-06
 * [Commit] [update bflat](https://github.com/NethermindEth/nethermind/commit/5c018280240789c96a750c5ea0bf0853ba317356) - 2025-10-06
+* [Issue] [Allow serving snap requests for more than 128 blocks](https://github.com/NethermindEth/nethermind/issues/9601) - 2025-10-30
 ## Q3 2025
 
 

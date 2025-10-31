@@ -17,6 +17,7 @@ Team: Grandine
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Upgrade rust-kzg](https://github.com/grandinetech/grandine/issues/408) - 2025-10-08
 * [Issue] [Duoble check the we don't have the vulnerabilities that were discovered in other clients during recent audits.](https://github.com/grandinetech/grandine/issues/407) - 2025-10-08
+* [Issue] [Fix exeption.log file path](https://github.com/grandinetech/grandine/issues/451) - 2025-10-30
 ## Q3 2025
 
 
