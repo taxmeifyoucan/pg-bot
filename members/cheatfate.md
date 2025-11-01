@@ -35,6 +35,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix test_quarantine.](https://github.com/status-im/nimbus-eth2/commit/4421f49b86e016da0739d10791b986e2591bb3d8) - 2025-10-13
 * [Pull Request] []() - 2025-10-20
 * [Pull Request] []() - 2025-10-28
+* [Pull Request] []() - 2025-10-31
 ## Q3 2025
 
 

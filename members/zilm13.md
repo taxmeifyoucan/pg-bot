@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Remove VersionedHashDBSource](https://github.com/Consensys/teku/pull/9964) - 2025-10-02
 * [Pull Request] [Get blobs REST API](https://github.com/Consensys/teku/pull/9978) - 2025-10-07
 * [Pull Request] []() - 2025-10-28
+* [Pull Request] []() - 2025-10-31
 ## Q3 2025
 
 

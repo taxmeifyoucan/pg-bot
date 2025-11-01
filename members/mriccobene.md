@@ -26,6 +26,7 @@ Team: Erigon
 * [Issue] [Improve Tip-Tracking test with more debug tools](https://github.com/erigontech/erigon/issues/17646) - 2025-10-24
 * [Issue] [[EngineBlockDownloader] could not process backward download request](https://github.com/erigontech/erigon/issues/17681) - 2025-10-27
 * [Pull Request] []() - 2025-10-28
+* [Issue] [Sync issue on Hoodi: "Failed to process block batch"](https://github.com/erigontech/erigon/issues/17731) - 2025-10-31
 ## Q3 2025
 
 

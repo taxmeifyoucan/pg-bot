@@ -35,6 +35,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration: add debug_traceCall test for Gnosis (#470)](https://github.com/erigontech/rpc-tests/commit/627c1e1ff3fc3e52d9c6d23ca3fd69a727b1d1ae) - 2025-10-03
 * [Commit] [remove wrong chr](https://github.com/erigontech/rpc-tests/commit/4383d9aeb6fd73d640c82d9503c6ff742f54706e) - 2025-10-03
 * [Commit] [integration: eth_estimateGas with state/block overrides (#467)](https://github.com/erigontech/rpc-tests/commit/ade828fa9f2f386ff67fe6b42d630dcc19542e20) - 2025-10-04
+* [Pull Request] []() - 2025-10-31
 ## Q3 2025
 
 

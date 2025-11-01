@@ -21,6 +21,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [add additional disincentivization for long term AI use](https://github.com/ChainSafe/lodestar/commit/213472f96f4abe7f5f25c565536d6993337966ce) - 2025-10-03
 * [Issue] [Migrate classic npm tokens on actions/workflows to OpenID Connect Auth](https://github.com/ChainSafe/lodestar/issues/8544) - 2025-10-16
 * [Pull Request] []() - 2025-10-27
+* [Issue] [Remove holesky configs and update tests to use hoodi](https://github.com/ChainSafe/lodestar/issues/8595) - 2025-10-31
 ## Q3 2025
 
 

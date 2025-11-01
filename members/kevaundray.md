@@ -25,6 +25,9 @@ Team: Consensus R&D (EF)
 * [Pull Request] []() - 2025-10-27
 * [Pull Request] []() - 2025-10-28
 * [Issue] [Tracking Issue: Optional Execution Proofs](https://github.com/sigp/lighthouse/issues/8327) - 2025-10-29
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] []() - 2025-10-31
 ## Q3 2025
 
 

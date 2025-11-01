@@ -23,6 +23,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2025-10-15
 * [Pull Request] []() - 2025-10-16
 * [Pull Request] []() - 2025-10-28
+* [Issue] [Persist fork_choice on stop and load on restart](https://github.com/ChainSafe/lodestar/issues/8592) - 2025-10-31
 ## Q3 2025
 
 

@@ -25,6 +25,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [nodeId and column custody consistency](https://github.com/Consensys/teku/issues/10039) - 2025-10-21
 * [Pull Request] []() - 2025-10-24
 
+* [Issue] [Deactivate DENEB classes when safely in FULU](https://github.com/Consensys/teku/issues/10089) - 2025-10-31
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Invalid block on mainnet (`1.7.0`)](https://github.com/paradigmxyz/reth/issues/19322) - 2025-10-27
 ## Q3 2025

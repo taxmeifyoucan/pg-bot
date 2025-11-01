@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [Fix support for gitworktrees](https://github.com/hyperledger/besu/pull/9288) - 2025-10-10
 * [Pull Request] []() - 2025-10-17
 * [Issue] [Add optional opcodes tracing parameter](https://github.com/hyperledger/besu/issues/9334) - 2025-10-17
+* [Pull Request] []() - 2025-10-31
 ## Q3 2025
 
 
