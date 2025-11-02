@@ -26,6 +26,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Fix ignored gossip attestation validation for early arriving attestations (#15840)](https://github.com/OffchainLabs/prysm/commit/0aa248e6631912142690929984ac924f31c08ae1) - 2025-10-13
 * [Pull Request] []() - 2025-10-23
 * [Pull Request] []() - 2025-10-26
+
+[offchainlabs/prysm](https://github.com/offchainlabs/prysm)
+* [Pull Request] []() - 2025-11-01
 ## Q3 2025
 
 

@@ -22,6 +22,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: do not trigger build files in background for newPayload/blockBuilding processing](https://github.com/erigontech/erigon/pull/17436) - 2025-10-13
 * [Issue] [protect E3 file collation from reorgs by respecting supported max reorg depth](https://github.com/erigontech/erigon/issues/17435) - 2025-10-13
 * [Commit] [nodedb: set `dbSyncPeriod=5mb` (#17431)](https://github.com/erigontech/erigon/commit/0ac3e97e5da59fe74b805f29b9fbcad6d542d884) - 2025-10-13
+* [Issue] [Fix flaky execution/tests due to MDBX error followed by "no space left on device"](https://github.com/erigontech/erigon/issues/17741) - 2025-11-01
+* [Issue] [Fix flaky TestGetProof](https://github.com/erigontech/erigon/issues/17740) - 2025-11-01
 ## Q3 2025
 
 

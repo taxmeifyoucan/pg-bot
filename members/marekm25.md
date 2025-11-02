@@ -18,6 +18,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Pull Request] [Refactoring HasState](https://github.com/NethermindEth/nethermind/pull/9414) - 2025-10-05
 * [Pull Request] []() - 2025-10-24
 * [Issue] [Big_test is failing with missing trie nodes](https://github.com/NethermindEth/nethermind/issues/9577) - 2025-10-27
+* [Issue] [[Docs] Database size and history expiry update](https://github.com/NethermindEth/nethermind/issues/9626) - 2025-11-01
 ## Q3 2025
 
 

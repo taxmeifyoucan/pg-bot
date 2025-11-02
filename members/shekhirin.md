@@ -32,6 +32,7 @@ Team: Reth
 * [Issue] [Support pushing Prometheus metrics to a remote URL](https://github.com/paradigmxyz/reth/issues/19229) - 2025-10-22
 * [Pull Request] []() - 2025-10-24
 * [Issue] [Payload validator cleanup after `ConsistentDbView` removal](https://github.com/paradigmxyz/reth/issues/19341) - 2025-10-28
+* [Pull Request] []() - 2025-11-01
 ## Q3 2025
 
 
