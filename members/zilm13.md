@@ -17,6 +17,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Get blobs REST API](https://github.com/Consensys/teku/pull/9978) - 2025-10-07
 * [Pull Request] []() - 2025-10-28
 * [Pull Request] []() - 2025-10-31
+* [Issue] [Store only 1/2 of sidecars on supernodes](https://github.com/Consensys/teku/issues/10095) - 2025-11-03
 ## Q3 2025
 
 

@@ -28,6 +28,9 @@ Team: Consensus R&D (EF)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2025-10-31
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Pull Request] []() - 2025-11-03
 ## Q3 2025
 
 

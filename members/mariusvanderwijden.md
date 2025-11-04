@@ -15,6 +15,7 @@ Team: Geth
 * [Issue] [Flaky test: TestSizeTracker](https://github.com/ethereum/go-ethereum/issues/32984) - 2025-10-21
 * [Issue] [Migrating nodes db from leveldb to pebble](https://github.com/ethereum/go-ethereum/issues/33000) - 2025-10-22
 * [Issue] [High allocations in LogFilter](https://github.com/ethereum/go-ethereum/issues/33040) - 2025-10-28
+* [Pull Request] []() - 2025-11-03
 ## Q3 2025
 
 

@@ -24,6 +24,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Custody info API](https://github.com/sigp/lighthouse/issues/8249) - 2025-10-21
 * [Issue] [Reduce spurious recompilation due to `lighthouse_version`](https://github.com/sigp/lighthouse/issues/8311) - 2025-10-28
 * [Issue] [Cargo update before v8.1.0](https://github.com/sigp/lighthouse/issues/8346) - 2025-11-03
+* [Pull Request] []() - 2025-11-03
 ## Q3 2025
 
 

@@ -22,6 +22,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Migrate classic npm tokens on actions/workflows to OpenID Connect Auth](https://github.com/ChainSafe/lodestar/issues/8544) - 2025-10-16
 * [Pull Request] []() - 2025-10-27
 * [Issue] [Remove holesky configs and update tests to use hoodi](https://github.com/ChainSafe/lodestar/issues/8595) - 2025-10-31
+* [Pull Request] []() - 2025-11-03
 ## Q3 2025
 
 

@@ -34,6 +34,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Issue] [Parallel transaction execution using Block-Level Access Lists](https://github.com/status-im/nimbus-eth1/issues/3771) - 2025-10-16
 * [Issue] [AssertionDefect in ForkedChain - candidate BlockRef is nil in updateFinalized ](https://github.com/status-im/nimbus-eth1/issues/3777) - 2025-10-21
 * [Pull Request] []() - 2025-10-29
+* [Pull Request] []() - 2025-11-03
 ## Q3 2025
 
 
