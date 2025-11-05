@@ -27,6 +27,7 @@ Team: Erigon
 * [Issue] [[EngineBlockDownloader] could not process backward download request](https://github.com/erigontech/erigon/issues/17681) - 2025-10-27
 * [Pull Request] []() - 2025-10-28
 * [Issue] [Sync issue on Hoodi: "Failed to process block batch"](https://github.com/erigontech/erigon/issues/17731) - 2025-10-31
+* [Issue] [RPC integration tests: update pre-built dbs](https://github.com/erigontech/erigon/issues/17779) - 2025-11-04
 ## Q3 2025
 
 

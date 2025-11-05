@@ -33,6 +33,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Invalid forkid checking for discv5 eligibleNode check](https://github.com/status-im/nimbus-eth1/issues/3794) - 2025-10-24
 * [Pull Request] []() - 2025-10-28
 * [Pull Request] []() - 2025-10-31
+* [Pull Request] []() - 2025-11-04
 ## Q3 2025
 
 

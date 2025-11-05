@@ -21,6 +21,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [chore: bpo cleanup (#9286)](https://github.com/hyperledger/besu/commit/14b103e0475086f4ae639c31c2c027c2ae0ff180) - 2025-10-10
 * [Issue] [Release 25.11.0](https://github.com/hyperledger/besu/issues/9366) - 2025-10-27
 * [Pull Request] []() - 2025-11-03
+* [Pull Request] []() - 2025-11-04
 ## Q3 2025
 
 

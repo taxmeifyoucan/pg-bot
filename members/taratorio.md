@@ -24,6 +24,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [nodedb: set `dbSyncPeriod=5mb` (#17431)](https://github.com/erigontech/erigon/commit/0ac3e97e5da59fe74b805f29b9fbcad6d542d884) - 2025-10-13
 * [Issue] [Fix flaky execution/tests due to MDBX error followed by "no space left on device"](https://github.com/erigontech/erigon/issues/17741) - 2025-11-01
 * [Issue] [Fix flaky TestGetProof](https://github.com/erigontech/erigon/issues/17740) - 2025-11-01
+* [Issue] [move referencing/dereferencing logic of commitment outside of DB into app layer](https://github.com/erigontech/erigon/issues/17773) - 2025-11-04
 ## Q3 2025
 
 

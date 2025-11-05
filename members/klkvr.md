@@ -27,6 +27,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Issue] [Replace `CacheDB` usage in RPC with `State<DB>`](https://github.com/paradigmxyz/reth/issues/19148) - 2025-10-20
 * [Pull Request] []() - 2025-10-22
 * [Issue] [Make `extra_data_size_limit` configurable on `EthBeaconConsensus`](https://github.com/paradigmxyz/reth/issues/19428) - 2025-10-31
+* [Pull Request] []() - 2025-11-04
 ## Q3 2025
 
 
