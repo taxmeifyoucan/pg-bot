@@ -28,6 +28,7 @@ Team: Erigon
 * [Pull Request] []() - 2025-10-28
 * [Issue] [Sync issue on Hoodi: "Failed to process block batch"](https://github.com/erigontech/erigon/issues/17731) - 2025-10-31
 * [Issue] [RPC integration tests: update pre-built dbs](https://github.com/erigontech/erigon/issues/17779) - 2025-11-04
+* [Issue] [tip-tracking tests: add more info and debugging tools](https://github.com/erigontech/erigon/issues/17786) - 2025-11-05
 ## Q3 2025
 
 

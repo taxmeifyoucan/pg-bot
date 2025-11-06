@@ -33,6 +33,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [XDC : QuorumCertificate Manager (#9294)](https://github.com/NethermindEth/nethermind/commit/a86580138981169298b8ab15338569dcfea96543) - 2025-10-08
 * [Commit] [Remove quick fail when running Hive tests (#9426)](https://github.com/NethermindEth/nethermind/commit/8cea3fc2f2deb3696d9c4dbe7e14c6ebe912f424) - 2025-10-08
 
+* [Pull Request] []() - 2025-11-05
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2025-10-27
 ## Q3 2025

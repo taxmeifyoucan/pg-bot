@@ -29,6 +29,8 @@ Team: Reth
 * [Pull Request] []() - 2025-10-29
 * [Issue] [Add tracing features to node-core crate](https://github.com/paradigmxyz/reth/issues/19411) - 2025-10-30
 * [Issue] [Improve flashblock ethsendrawsync](https://github.com/paradigmxyz/reth/issues/19433) - 2025-10-31
+* [Issue] [Improve trace_filter block range processing](https://github.com/paradigmxyz/reth/issues/19528) - 2025-11-05
+* [Pull Request] []() - 2025-11-05
 ## Q3 2025
 
 

@@ -34,6 +34,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] []() - 2025-10-28
 * [Pull Request] []() - 2025-10-31
 * [Pull Request] []() - 2025-11-04
+* [Issue] [Add ForkId compatibility check at eth68/69 Status message receival](https://github.com/status-im/nimbus-eth1/issues/3813) - 2025-11-05
+* [Pull Request] []() - 2025-11-05
 ## Q3 2025
 
 

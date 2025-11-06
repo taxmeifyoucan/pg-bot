@@ -26,6 +26,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] []() - 2025-10-24
 
 * [Issue] [Deactivate DENEB classes when safely in FULU](https://github.com/Consensys/teku/issues/10089) - 2025-10-31
+* [Issue] [Reimplement columnSidecars backfilling](https://github.com/Consensys/teku/issues/10105) - 2025-11-05
+* [Pull Request] []() - 2025-11-05
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Invalid block on mainnet (`1.7.0`)](https://github.com/paradigmxyz/reth/issues/19322) - 2025-10-27
 ## Q3 2025

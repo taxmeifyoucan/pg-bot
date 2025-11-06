@@ -8,6 +8,11 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 ## Contributions
 
+## Q4 2025
+
+
+[eth-act/ere](https://github.com/eth-act/ere)
+* [Issue] [OpenVM: GPU proving seem to be failing](https://github.com/eth-act/ere/issues/207) - 2025-11-05
 ## Q3 2025
 
 
