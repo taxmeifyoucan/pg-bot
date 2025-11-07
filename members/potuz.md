@@ -15,6 +15,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Add tests](https://github.com/OffchainLabs/prysm/commit/3be4b0d81156e2baea63a4cd629809d9d8071e56) - 2025-10-13
 * [Commit] [Add tests](https://github.com/OffchainLabs/prysm/commit/58eb269361b3ef5122d1105dff84ffb071d85dfd) - 2025-10-13
 * [Commit] [Add tests](https://github.com/OffchainLabs/prysm/commit/7b99d305cf9e304131693613547f2f8eec832859) - 2025-10-13
+
+[offchainlabs/prysm](https://github.com/offchainlabs/prysm)
+* [Pull Request] []() - 2025-11-06
 ## Q3 2025
 
 

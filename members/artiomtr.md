@@ -15,6 +15,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Fix handling of infinity points in bgmw algorithm](https://github.com/grandinetech/rust-kzg/pull/309) - 2025-10-08
 
 * [Pull Request] []() - 2025-10-29
+* [Pull Request] []() - 2025-11-06
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] []() - 2025-10-16
 * [Pull Request] []() - 2025-10-30

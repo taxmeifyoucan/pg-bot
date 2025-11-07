@@ -15,6 +15,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [[Stateless Proto] Introducing execution proofs subnet and gossip validation (#9869)](https://github.com/Consensys/teku/commit/63af7e23107144747a84c7692a46c6a142cda99a) - 2025-10-08
 * [Pull Request] []() - 2025-10-17
 * [Pull Request] []() - 2025-11-04
+* [Pull Request] []() - 2025-11-06
 ## Q3 2025
 
 
