@@ -32,6 +32,7 @@ Team: Reth
 * [Issue] [Improve trace_filter block range processing](https://github.com/paradigmxyz/reth/issues/19528) - 2025-11-05
 * [Pull Request] []() - 2025-11-05
 * [Pull Request] []() - 2025-11-06
+* [Issue] [op-reth rpc calls pre canyon hardfork are erroring](https://github.com/paradigmxyz/reth/issues/19587) - 2025-11-07
 ## Q3 2025
 
 

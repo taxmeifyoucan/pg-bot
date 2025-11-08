@@ -53,6 +53,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/tests: update EEST to v5.3.0 (#17418)](https://github.com/erigontech/erigon/commit/bf5a047140ce7ef371bf8f22ba9955df56e7a24f) - 2025-10-13
 * [Commit] [switch eest-fixtures to main branch](https://github.com/erigontech/erigon/commit/61111ab8ba6c11ec3a802b22cb6823a4946635c9) - 2025-10-13
 * [Issue] [Improve directories in `execution`](https://github.com/erigontech/erigon/issues/17689) - 2025-10-27
+* [Issue] [Remove MiningServer](https://github.com/erigontech/erigon/issues/17815) - 2025-11-07
 ## Q3 2025
 
 

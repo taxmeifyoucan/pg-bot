@@ -17,6 +17,7 @@ Team: Geth
 * [Issue] [High allocations in LogFilter](https://github.com/ethereum/go-ethereum/issues/33040) - 2025-10-28
 * [Pull Request] []() - 2025-11-03
 
+* [Pull Request] []() - 2025-11-07
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
 * [Pull Request] []() - 2025-11-05
 ## Q3 2025

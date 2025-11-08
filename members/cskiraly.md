@@ -15,6 +15,9 @@ Team: Codex DAS
 * [Pull Request] [eth/catalyst: use info instead of warn on enabling Engine API](https://github.com/ethereum/go-ethereum/pull/32901) - 2025-10-13
 * [Commit] [core/txpool/legacypool: move queue out of main txpool (#32270)](https://github.com/ethereum/go-ethereum/commit/7b693ea17c9e5e950a36df29262fab7862ffda23) - 2025-10-13
 * [Pull Request] [eth: do not warn on switching from snap sync to full sync](https://github.com/ethereum/go-ethereum/pull/32900) - 2025-10-13
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] []() - 2025-11-07
 ## Q3 2025
 
 

@@ -21,6 +21,7 @@ Team: EthereumJS
 * [Pull Request] []() - 2025-10-29
 
 * [Pull Request] []() - 2025-11-06
+* [Pull Request] []() - 2025-11-08
 [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight)
 * [Pull Request] []() - 2025-10-30
 ## Q2 2025

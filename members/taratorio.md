@@ -25,6 +25,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Fix flaky execution/tests due to MDBX error followed by "no space left on device"](https://github.com/erigontech/erigon/issues/17741) - 2025-11-01
 * [Issue] [Fix flaky TestGetProof](https://github.com/erigontech/erigon/issues/17740) - 2025-11-01
 * [Issue] [move referencing/dereferencing logic of commitment outside of DB into app layer](https://github.com/erigontech/erigon/issues/17773) - 2025-11-04
+* [Issue] [Fix flaky windows TestSetupGenesis due to mdmx paging file is too small for this operation to complete](https://github.com/erigontech/erigon/issues/17806) - 2025-11-07
 ## Q3 2025
 
 

@@ -17,6 +17,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] []() - 2025-10-27
 * [Issue] [Remove lighthouse_version dependency on everything but top level lighthouse](https://github.com/sigp/lighthouse/issues/8328) - 2025-10-29
 * [Issue] [Fork-choice clean-up / simplification](https://github.com/sigp/lighthouse/issues/8325) - 2025-10-29
+* [Pull Request] []() - 2025-11-07
 ## Q3 2025
 
 

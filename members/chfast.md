@@ -16,6 +16,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [crypto: Fix handling of the input point-at-infinity in secp256r1](https://github.com/ipsilon/evmone/commit/25898a412f5c4ac43d9a01be17cede68dfad5c8c) - 2025-10-01
 
 * [Pull Request] [crypto: Optimize bit test of scalar in ECC multiplication](https://github.com/ipsilon/evmone/pull/1336) - 2025-10-13
+* [Pull Request] []() - 2025-11-07
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): add test for modexp with 2**32 exp len](https://github.com/ethereum/execution-spec-tests/pull/2254) - 2025-10-02
 
