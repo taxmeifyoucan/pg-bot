@@ -21,6 +21,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-11-07
+* [Pull Request] []() - 2025-11-08
 ## Q3 2025
 
 

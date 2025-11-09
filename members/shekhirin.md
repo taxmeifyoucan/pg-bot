@@ -34,6 +34,7 @@ Team: Reth
 * [Issue] [Payload validator cleanup after `ConsistentDbView` removal](https://github.com/paradigmxyz/reth/issues/19341) - 2025-10-28
 * [Pull Request] []() - 2025-11-01
 * [Issue] [Make sure that we can just delete static files and it will not break provider access](https://github.com/paradigmxyz/reth/issues/19589) - 2025-11-07
+* [Pull Request] []() - 2025-11-08
 ## Q3 2025
 
 

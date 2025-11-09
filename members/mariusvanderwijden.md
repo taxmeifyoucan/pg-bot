@@ -20,6 +20,9 @@ Team: Geth
 * [Pull Request] []() - 2025-11-07
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
 * [Pull Request] []() - 2025-11-05
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Issue] [admin_mineBlock for deterministic miner testing](https://github.com/ethereum/execution-apis/issues/705) - 2025-11-08
 ## Q3 2025
 
 
