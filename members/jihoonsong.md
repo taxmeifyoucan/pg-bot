@@ -14,6 +14,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 * [Pull Request] []() - 2025-10-30
 * [Pull Request] []() - 2025-11-02
+* [Pull Request] []() - 2025-11-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7805: reflect the latest engine APIs spec change](https://github.com/ethereum/EIPs/pull/10492) - 2025-10-08
 

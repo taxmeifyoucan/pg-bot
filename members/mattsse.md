@@ -33,6 +33,9 @@ Team: Reth
 * [Pull Request] []() - 2025-11-05
 * [Pull Request] []() - 2025-11-06
 * [Issue] [op-reth rpc calls pre canyon hardfork are erroring](https://github.com/paradigmxyz/reth/issues/19587) - 2025-11-07
+* [Issue] [Add support for eip-7872 Max blob flag for local builders](https://github.com/paradigmxyz/reth/issues/19613) - 2025-11-09
+* [Issue] [Add eth_getAddressesInBlock support](https://github.com/paradigmxyz/reth/issues/19610) - 2025-11-09
+* [Issue] [Make PayloadBuilderArgs defaults customizable](https://github.com/paradigmxyz/reth/issues/19609) - 2025-11-09
 ## Q3 2025
 
 

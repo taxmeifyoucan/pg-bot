@@ -29,6 +29,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Issue] [Using `uv run execute remote` with `--rpc-endpoint` requires `--chain-id`, while it should not](https://github.com/ethereum/execution-specs/issues/1619) - 2025-10-16
 * [Issue] [Feature request: read results of the generated blocks/txs](https://github.com/ethereum/execution-specs/issues/1618) - 2025-10-16
 * [Pull Request] []() - 2025-11-07
+* [Pull Request] []() - 2025-11-10
 ## Q3 2025
 
 
