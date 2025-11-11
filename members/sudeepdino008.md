@@ -53,6 +53,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [save](https://github.com/erigontech/erigon/commit/b67a5e8c3b076d0a81f644d432cee208c43d3cbf) - 2025-10-09
 * [Commit] [save](https://github.com/erigontech/erigon/commit/befb6f7fa0e5b0fd65dc4ca4719ca4944a02db8f) - 2025-10-09
 * [Issue] [inconsistent behaviour of downloader verify with and without --verify.failfast?](https://github.com/erigontech/erigon/issues/17589) - 2025-10-22
+* [Issue] [account progress vs domain (receipt/rcache) progress is too brittle](https://github.com/erigontech/erigon/issues/17845) - 2025-11-10
+* [Issue] [prevent empty .yml creation on Github during release](https://github.com/erigontech/erigon/issues/17844) - 2025-11-10
+* [Issue] [add rpc-test to release process](https://github.com/erigontech/erigon/issues/17843) - 2025-11-10
+* [Issue] [faster integrity for rcache/receipt](https://github.com/erigontech/erigon/issues/17842) - 2025-11-10
 ## Q3 2025
 
 

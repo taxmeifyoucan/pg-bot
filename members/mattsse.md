@@ -36,6 +36,9 @@ Team: Reth
 * [Issue] [Add support for eip-7872 Max blob flag for local builders](https://github.com/paradigmxyz/reth/issues/19613) - 2025-11-09
 * [Issue] [Add eth_getAddressesInBlock support](https://github.com/paradigmxyz/reth/issues/19610) - 2025-11-09
 * [Issue] [Make PayloadBuilderArgs defaults customizable](https://github.com/paradigmxyz/reth/issues/19609) - 2025-11-09
+* [Issue] [cap --to target at existing block height](https://github.com/paradigmxyz/reth/issues/19636) - 2025-11-10
+* [Pull Request] []() - 2025-11-10
+* [Issue] [Add snapshot testing tool](https://github.com/paradigmxyz/reth/issues/19625) - 2025-11-10
 ## Q3 2025
 
 

@@ -16,6 +16,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 
 [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm)
 * [Pull Request] [Clear disconnected peers from connected_libp2p_peers](https://github.com/OffchainLabs/prysm/pull/15807) - 2025-10-03
+
+[offchainlabs/prysm](https://github.com/offchainlabs/prysm)
+* [Pull Request] []() - 2025-11-10
 ## Q3 2025
 
 

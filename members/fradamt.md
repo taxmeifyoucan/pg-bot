@@ -13,6 +13,7 @@ Team: Consensus R&D (EF)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-10-28
+* [Pull Request] []() - 2025-11-10
 ## Q3 2025
 
 

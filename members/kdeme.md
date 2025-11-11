@@ -37,6 +37,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Add ForkId compatibility check at eth68/69 Status message receival](https://github.com/status-im/nimbus-eth1/issues/3813) - 2025-11-05
 * [Pull Request] []() - 2025-11-05
 * [Pull Request] []() - 2025-11-06
+* [Issue] [nec_sync_peers / buddy.ctx.pool.nBuddies value much higher than amount of rlpx peers connected](https://github.com/status-im/nimbus-eth1/issues/3823) - 2025-11-10
 ## Q3 2025
 
 

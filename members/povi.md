@@ -21,6 +21,7 @@ Team: Grandine
 * [Pull Request] []() - 2025-10-17
 * [Pull Request] []() - 2025-10-20
 * [Pull Request] []() - 2025-11-04
+* [Pull Request] []() - 2025-11-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-14
 ## Q3 2025

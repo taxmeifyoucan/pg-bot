@@ -28,6 +28,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] []() - 2025-10-22
 * [Issue] [Make `extra_data_size_limit` configurable on `EthBeaconConsensus`](https://github.com/paradigmxyz/reth/issues/19428) - 2025-10-31
 * [Pull Request] []() - 2025-11-04
+
+* [Issue] [Add `EthChainSpec::name` method](https://github.com/paradigmxyz/reth/issues/19635) - 2025-11-10
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] []() - 2025-11-10
 ## Q3 2025
 
 

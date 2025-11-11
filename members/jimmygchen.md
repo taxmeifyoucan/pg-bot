@@ -27,6 +27,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Reduce unnecessary data column downloads during backfill for full nodes](https://github.com/sigp/lighthouse/issues/8308) - 2025-10-28
 * [Pull Request] []() - 2025-10-30
 * [Pull Request] []() - 2025-11-05
+* [Pull Request] []() - 2025-11-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-15
 
