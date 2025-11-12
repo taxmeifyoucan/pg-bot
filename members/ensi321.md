@@ -16,6 +16,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: return spec constants starting with 0x as hex strings instead of decimal (#8495)](https://github.com/ChainSafe/lodestar/commit/894daf8b4487e6c35337a87abaef1f372b5193c6) - 2025-10-06
 * [Pull Request] []() - 2025-10-30
 * [Pull Request] []() - 2025-11-05
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] []() - 2025-11-11
 ## Q3 2025
 
 

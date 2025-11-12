@@ -39,6 +39,7 @@ Team: Reth
 * [Issue] [cap --to target at existing block height](https://github.com/paradigmxyz/reth/issues/19636) - 2025-11-10
 * [Pull Request] []() - 2025-11-10
 * [Issue] [Add snapshot testing tool](https://github.com/paradigmxyz/reth/issues/19625) - 2025-11-10
+* [Pull Request] []() - 2025-11-11
 ## Q3 2025
 
 

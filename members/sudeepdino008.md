@@ -57,6 +57,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [prevent empty .yml creation on Github during release](https://github.com/erigontech/erigon/issues/17844) - 2025-11-10
 * [Issue] [add rpc-test to release process](https://github.com/erigontech/erigon/issues/17843) - 2025-11-10
 * [Issue] [faster integrity for rcache/receipt](https://github.com/erigontech/erigon/issues/17842) - 2025-11-10
+* [Pull Request] []() - 2025-11-11
 ## Q3 2025
 
 
