@@ -21,6 +21,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] []() - 2025-10-16
 * [Pull Request] []() - 2025-10-30
+* [Pull Request] []() - 2025-11-12
 ## Q3 2025
 
 

@@ -39,6 +39,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] []() - 2025-11-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-28
+* [Issue] [Add fork tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4740) - 2025-11-12
+* [Pull Request] []() - 2025-11-12
 ## Q3 2025
 
 

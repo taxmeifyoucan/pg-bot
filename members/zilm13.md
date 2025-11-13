@@ -18,6 +18,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] []() - 2025-10-28
 * [Pull Request] []() - 2025-10-31
 * [Issue] [Store only 1/2 of sidecars on supernodes](https://github.com/Consensys/teku/issues/10095) - 2025-11-03
+* [Pull Request] []() - 2025-11-12
 ## Q3 2025
 
 

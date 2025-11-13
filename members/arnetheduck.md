@@ -17,6 +17,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Remove `blk` field from BlockRef](https://github.com/status-im/nimbus-eth1/issues/3778) - 2025-10-21
 * [Issue] [Update release, kurtosis etc to use `nimbus`](https://github.com/status-im/nimbus-eth1/issues/3793) - 2025-10-24
 
+* [Pull Request] []() - 2025-11-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] []() - 2025-10-29
 

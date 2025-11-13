@@ -40,6 +40,9 @@ Team: Reth
 * [Pull Request] []() - 2025-11-10
 * [Issue] [Add snapshot testing tool](https://github.com/paradigmxyz/reth/issues/19625) - 2025-11-10
 * [Pull Request] []() - 2025-11-11
+* [Issue] [Introduce Receiptstream to rpc API](https://github.com/paradigmxyz/reth/issues/19683) - 2025-11-12
+* [Issue] [Add Flashblocks aware ReceiptStream](https://github.com/paradigmxyz/reth/issues/19681) - 2025-11-12
+* [Issue] [support batch rpc calls in historical forwarding](https://github.com/paradigmxyz/reth/issues/19677) - 2025-11-12
 ## Q3 2025
 
 

@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] []() - 2025-11-13
 ## Q3 2025
 
 

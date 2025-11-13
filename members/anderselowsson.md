@@ -16,6 +16,7 @@ Team: Robust Incentives Group (RIG)
 * [Pull Request] []() - 2025-10-22
 * [Pull Request] []() - 2025-11-01
 * [Pull Request] []() - 2025-11-12
+* [Pull Request] []() - 2025-11-13
 ## Q3 2025
 
 

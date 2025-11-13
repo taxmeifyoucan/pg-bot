@@ -28,6 +28,7 @@ Team: Reth
 * [Commit] [docs: yellowpaper sections in consensus implementation (#18881)](https://github.com/paradigmxyz/reth/commit/83cec3793bb2300c76f1aeb88aac1e1a96309f34) - 2025-10-08
 * [Pull Request] []() - 2025-10-18
 * [Pull Request] []() - 2025-11-07
+* [Pull Request] []() - 2025-11-12
 ## Q3 2025
 
 
