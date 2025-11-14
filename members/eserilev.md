@@ -20,6 +20,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Custody backfill sync shows incorrect estimated time to completion](https://github.com/sigp/lighthouse/issues/8268) - 2025-10-22
 * [Pull Request] []() - 2025-10-30
 * [Pull Request] []() - 2025-11-02
+* [Pull Request] []() - 2025-11-13
 ## Q3 2025
 
 

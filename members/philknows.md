@@ -24,6 +24,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Remove holesky configs and update tests to use hoodi](https://github.com/ChainSafe/lodestar/issues/8595) - 2025-10-31
 * [Pull Request] []() - 2025-11-03
 
+* [Pull Request] []() - 2025-11-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] []() - 2025-11-06
 ## Q3 2025

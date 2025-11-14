@@ -54,6 +54,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [switch eest-fixtures to main branch](https://github.com/erigontech/erigon/commit/61111ab8ba6c11ec3a802b22cb6823a4946635c9) - 2025-10-13
 * [Issue] [Improve directories in `execution`](https://github.com/erigontech/erigon/issues/17689) - 2025-10-27
 * [Issue] [Remove MiningServer](https://github.com/erigontech/erigon/issues/17815) - 2025-11-07
+* [Issue] [Simplify rlp.*ExcludingHead functions](https://github.com/erigontech/erigon/issues/17876) - 2025-11-13
 ## Q3 2025
 
 

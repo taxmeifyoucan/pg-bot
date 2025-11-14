@@ -17,6 +17,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] [Refactor RPC comparison workflow for clarity and efficiency](https://github.com/NethermindEth/nethermind/pull/9418) - 2025-10-06
 
+* [Pull Request] []() - 2025-11-14
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat: Implement configurable poll interval for transactions](https://github.com/ethereum/execution-spec-tests/pull/2286) - 2025-10-09
 ## Q3 2025

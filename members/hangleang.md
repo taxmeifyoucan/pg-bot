@@ -28,6 +28,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Add a feature to disable finalized root check in status message](https://github.com/grandinetech/grandine/issues/416) - 2025-10-13
 * [Pull Request] []() - 2025-10-15
 * [Issue] [Gloas: PTC assignments](https://github.com/grandinetech/grandine/issues/444) - 2025-10-24
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] []() - 2025-11-13
 ## Q3 2025
 
 
