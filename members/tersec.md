@@ -58,6 +58,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [rm unused attestation pool phase0 aggregation code (#7600)](https://github.com/status-im/nimbus-eth2/commit/3e88143fb541d896a189da69f5773b664057943e) - 2025-10-11
 * [Commit] [drop vcus backfilling and adjust eas movement (#7601)](https://github.com/status-im/nimbus-eth2/commit/eecd55dd2df6779e37fffffc3061f33502464aca) - 2025-10-12
 * [Pull Request] []() - 2025-11-06
+* [Pull Request] []() - 2025-11-15
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [proxy: refactor (#3709)](https://github.com/status-im/nimbus-eth1/commit/cacde70cbe18ab34b70d0470701bcf0587171071) - 2025-10-06
 * [Commit] [Fix OverflowDefect crash in block validation (#3741)](https://github.com/status-im/nimbus-eth1/commit/f5eebe4d02e5647eead49e2ce855e89c94e3e31c) - 2025-10-06

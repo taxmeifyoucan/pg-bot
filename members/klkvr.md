@@ -32,6 +32,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Issue] [Add `EthChainSpec::name` method](https://github.com/paradigmxyz/reth/issues/19635) - 2025-11-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] []() - 2025-11-10
+* [Pull Request] []() - 2025-11-14
 ## Q3 2025
 
 

@@ -39,6 +39,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration: eth_estimateGas with state/block overrides (#467)](https://github.com/erigontech/rpc-tests/commit/ade828fa9f2f386ff67fe6b42d630dcc19542e20) - 2025-10-04
 * [Pull Request] []() - 2025-10-31
 * [Pull Request] []() - 2025-11-06
+* [Pull Request] []() - 2025-11-14
 ## Q3 2025
 
 
