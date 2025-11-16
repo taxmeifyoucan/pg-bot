@@ -27,6 +27,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] []() - 2025-11-01
 * [Issue] [To gen and release files - on 3.4 snapshotters](https://github.com/erigontech/erigon/issues/17877) - 2025-11-13
 * [Pull Request] []() - 2025-11-14
+* [Pull Request] []() - 2025-11-15
 ## Q3 2025
 
 

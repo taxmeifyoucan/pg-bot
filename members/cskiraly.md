@@ -17,6 +17,7 @@ Team: Codex DAS
 * [Pull Request] [eth: do not warn on switching from snap sync to full sync](https://github.com/ethereum/go-ethereum/pull/32900) - 2025-10-13
 
 * [Pull Request] []() - 2025-11-12
+* [Pull Request] []() - 2025-11-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-11-07
 ## Q3 2025

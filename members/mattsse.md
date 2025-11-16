@@ -44,6 +44,7 @@ Team: Reth
 * [Issue] [Add Flashblocks aware ReceiptStream](https://github.com/paradigmxyz/reth/issues/19681) - 2025-11-12
 * [Issue] [support batch rpc calls in historical forwarding](https://github.com/paradigmxyz/reth/issues/19677) - 2025-11-12
 * [Issue] [Replace std rwlock with parkinglot](https://github.com/paradigmxyz/reth/issues/19770) - 2025-11-14
+* [Pull Request] []() - 2025-11-15
 ## Q3 2025
 
 

@@ -37,6 +37,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] []() - 2025-11-01
 * [Issue] [Investigate usages of `BlockBlobSidecarsTrackersPool` ](https://github.com/Consensys/teku/issues/10101) - 2025-11-05
 * [Pull Request] []() - 2025-11-11
+* [Pull Request] []() - 2025-11-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-28
 * [Issue] [Add fork tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4740) - 2025-11-12

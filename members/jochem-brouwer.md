@@ -30,6 +30,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Issue] [Feature request: read results of the generated blocks/txs](https://github.com/ethereum/execution-specs/issues/1618) - 2025-10-16
 * [Pull Request] []() - 2025-11-07
 * [Pull Request] []() - 2025-11-10
+* [Pull Request] []() - 2025-11-15
 ## Q3 2025
 
 
