@@ -76,6 +76,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Update docs for the change from `optional-dependencies` (extras) to `dependency_groups`](https://github.com/ethereum/execution-specs/issues/1713) - 2025-10-29
 * [Issue] [chore(docs): re-enable benchmark test documentation](https://github.com/ethereum/execution-specs/issues/1756) - 2025-11-05
 * [Issue] [Add versioning for mkdocs pages and rendered spec](https://github.com/ethereum/execution-specs/issues/1772) - 2025-11-11
+* [Pull Request] []() - 2025-11-16
 ## Q3 2025
 
 
