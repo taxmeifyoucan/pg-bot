@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Issue] [Gloas beacon_attestation gossip rules](https://github.com/Consensys/teku/issues/10065) - 2025-10-28
 * [Issue] [Gloas beacon_block gossip rules](https://github.com/Consensys/teku/issues/10064) - 2025-10-28
 * [Pull Request] []() - 2025-11-14
+* [Issue] [Gloas execution_payload gossip rules](https://github.com/Consensys/teku/issues/10146) - 2025-11-17
 ## Q3 2025
 
 

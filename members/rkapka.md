@@ -15,6 +15,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 * [Commit] [feature: Use service context and continue on slasher attestation errors (#15803)](https://github.com/OffchainLabs/prysm/commit/d5ca327c304a86ecf964bfff1d68af20e155689b) - 2025-10-10
 * [Pull Request] [Read non json error](https://github.com/OffchainLabs/prysm/pull/15860) - 2025-10-13
 * [Commit] [changelog <3](https://github.com/OffchainLabs/prysm/commit/aae756052680df142fcdb4d39094792769cda08f) - 2025-10-13
+
+[offchainlabs/prysm](https://github.com/offchainlabs/prysm)
+* [Pull Request] []() - 2025-11-17
 ## Q3 2025
 
 

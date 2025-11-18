@@ -45,6 +45,7 @@ Team: Reth
 * [Issue] [support batch rpc calls in historical forwarding](https://github.com/paradigmxyz/reth/issues/19677) - 2025-11-12
 * [Issue] [Replace std rwlock with parkinglot](https://github.com/paradigmxyz/reth/issues/19770) - 2025-11-14
 * [Pull Request] []() - 2025-11-15
+* [Pull Request] []() - 2025-11-17
 ## Q3 2025
 
 

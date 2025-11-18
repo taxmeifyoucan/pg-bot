@@ -31,6 +31,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] []() - 2025-11-07
 * [Pull Request] []() - 2025-11-10
 * [Pull Request] []() - 2025-11-15
+
+[ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
+* [Pull Request] []() - 2025-11-17
 ## Q3 2025
 
 

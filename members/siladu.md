@@ -15,6 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [fix: clear tx blob map when pool is disabled (#9211)](https://github.com/hyperledger/besu/commit/efa9b43f79f918451b0da4197a47ea0b49f11f87) - 2025-10-09
 * [Issue] [Release 25.10.0-RC3](https://github.com/hyperledger/besu/issues/9302) - 2025-10-14
 * [Pull Request] []() - 2025-10-23
+* [Pull Request] []() - 2025-11-17
 ## Q3 2025
 
 

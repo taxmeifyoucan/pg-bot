@@ -17,6 +17,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] []() - 2025-11-04
 * [Pull Request] []() - 2025-11-06
 * [Issue] [Add a mechanism to markForEquivocation for Fulu](https://github.com/Consensys/teku/issues/10133) - 2025-11-13
+* [Pull Request] []() - 2025-11-17
 ## Q3 2025
 
 

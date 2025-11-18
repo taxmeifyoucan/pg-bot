@@ -21,6 +21,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] []() - 2025-10-30
 * [Pull Request] []() - 2025-11-02
 * [Pull Request] []() - 2025-11-13
+* [Pull Request] []() - 2025-11-17
 ## Q3 2025
 
 
