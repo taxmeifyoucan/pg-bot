@@ -46,6 +46,10 @@ Team: Reth
 * [Issue] [Replace std rwlock with parkinglot](https://github.com/paradigmxyz/reth/issues/19770) - 2025-11-14
 * [Pull Request] []() - 2025-11-15
 * [Pull Request] []() - 2025-11-17
+* [Issue] [Replace opreceipt with alloy's](https://github.com/paradigmxyz/reth/issues/19838) - 2025-11-18
+* [Issue] [replace op-reth OpReceipt with op-alloy's](https://github.com/paradigmxyz/reth/issues/19837) - 2025-11-18
+* [Issue] [Replace OpReceipt with alloy's](https://github.com/paradigmxyz/reth/issues/19839) - 2025-11-18
+* [Issue] [Support custom reverterror display decoding](https://github.com/paradigmxyz/reth/issues/19835) - 2025-11-18
 ## Q3 2025
 
 

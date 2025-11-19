@@ -16,6 +16,24 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] []() - 2025-11-05
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [[ETC Removal - Phase 2] Remove Tests and Update Documentation](https://github.com/hyperledger/besu/issues/9462) - 2025-11-18
+* [Issue] [[ETC Removal - Phase 1] Remove Protocol Specs and Network Configurations](https://github.com/hyperledger/besu/issues/9461) - 2025-11-18
+* [Issue] [Remove Ethereum Classic Network Support](https://github.com/hyperledger/besu/issues/9460) - 2025-11-18
+* [Issue] [[PoW Removal - Phase 5] Remove Tests and Update Documentation](https://github.com/hyperledger/besu/issues/9459) - 2025-11-18
+* [Issue] [[PoW Removal - Phase 4] Clean Up Protocol Schedules and Genesis Configs](https://github.com/hyperledger/besu/issues/9458) - 2025-11-18
+* [Issue] [[PoW Removal - Phase 3] Remove RPC APIs and CLI Options](https://github.com/hyperledger/besu/issues/9457) - 2025-11-18
+* [Issue] [[PoW Removal - Phase 2] Remove Validation Code and Ethash Implementation](https://github.com/hyperledger/besu/issues/9456) - 2025-11-18
+* [Issue] [[PoW Removal - Phase 1] Remove Mining Infrastructure](https://github.com/hyperledger/besu/issues/9455) - 2025-11-18
+* [Issue] [Complete Removal of Proof-of-Work (PoW) Functionality](https://github.com/hyperledger/besu/issues/9454) - 2025-11-18
+* [Issue] [[Plugin System] Update KeyValueStorageProvider to use provider pattern](https://github.com/hyperledger/besu/issues/9453) - 2025-11-18
+* [Issue] [[Plugin System] Update BesuControllerBuilder to use provider pattern](https://github.com/hyperledger/besu/issues/9452) - 2025-11-18
+* [Issue] [[Plugin System] Refactor WorldStateStorageCoordinator to support provider pattern](https://github.com/hyperledger/besu/issues/9451) - 2025-11-18
+* [Issue] [[Plugin System] Implement WorldStateArchiveService registry in core](https://github.com/hyperledger/besu/issues/9450) - 2025-11-18
+* [Issue] [[Plugin System] Create WorldStateArchiveService for provider registration](https://github.com/hyperledger/besu/issues/9449) - 2025-11-18
+* [Issue] [[Plugin System] Create WorldStateArchiveProvider interface](https://github.com/hyperledger/besu/issues/9448) - 2025-11-18
+* [Issue] [Move Forest storage system into a plugin](https://github.com/hyperledger/besu/issues/9447) - 2025-11-18
 ## Q3 2025
 
 

@@ -13,6 +13,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Issue] [OpenVM: GPU proving seem to be failing](https://github.com/eth-act/ere/issues/207) - 2025-11-05
+* [Issue] [zisk: server get's permanently down after some proving failure](https://github.com/eth-act/ere/issues/212) - 2025-11-18
 ## Q3 2025
 
 

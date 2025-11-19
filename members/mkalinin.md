@@ -16,6 +16,9 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-10-30
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] []() - 2025-11-18
 ## Q3 2025
 
 

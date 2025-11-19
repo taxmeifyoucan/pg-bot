@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 
 ## Contributions
 
+## Q4 2025
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] []() - 2025-11-18
 ## Q2 2025
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
