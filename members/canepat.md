@@ -43,6 +43,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Issue] [hive: fix remaining `rpc-compat` failing tests](https://github.com/erigontech/erigon/issues/17859) - 2025-11-11
 * [Issue] [User issues migrating from 3.0.15 to 3.2 in Docker on Windows](https://github.com/erigontech/erigon/issues/17855) - 2025-11-11
 * [Issue] [rpc: eth_estimateGas returns value greater than expected](https://github.com/erigontech/erigon/issues/17869) - 2025-11-12
+* [Pull Request] []() - 2025-11-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: refactor WebSocket integration utilities (#468)](https://github.com/erigontech/rpc-tests/commit/4f415d317dc3637648781b043ac3b002aa209132) - 2025-10-02
 * [Pull Request] [integration: add test for debug_traceCall](https://github.com/erigontech/rpc-tests/pull/470) - 2025-10-03

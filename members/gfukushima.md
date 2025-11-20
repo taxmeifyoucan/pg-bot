@@ -18,6 +18,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] []() - 2025-11-06
 * [Issue] [Add a mechanism to markForEquivocation for Fulu](https://github.com/Consensys/teku/issues/10133) - 2025-11-13
 * [Pull Request] []() - 2025-11-17
+* [Issue] [Refine the concept of Gossip data columns sidecars validation failure ](https://github.com/Consensys/teku/issues/10149) - 2025-11-19
 ## Q3 2025
 
 

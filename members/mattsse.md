@@ -50,6 +50,7 @@ Team: Reth
 * [Issue] [replace op-reth OpReceipt with op-alloy's](https://github.com/paradigmxyz/reth/issues/19837) - 2025-11-18
 * [Issue] [Replace OpReceipt with alloy's](https://github.com/paradigmxyz/reth/issues/19839) - 2025-11-18
 * [Issue] [Support custom reverterror display decoding](https://github.com/paradigmxyz/reth/issues/19835) - 2025-11-18
+* [Issue] [Indentify all raw db tx usage](https://github.com/paradigmxyz/reth/issues/19867) - 2025-11-19
 ## Q3 2025
 
 

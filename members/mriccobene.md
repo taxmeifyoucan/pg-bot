@@ -32,6 +32,7 @@ Team: Erigon
 * [Pull Request] []() - 2025-11-10
 * [Issue] [Tip-Tracking w/ load: fix](https://github.com/erigontech/erigon/issues/17841) - 2025-11-10
 * [Pull Request] []() - 2025-11-18
+* [Issue] [Investigate Erigon crash on recent RPC perf test](https://github.com/erigontech/erigon/issues/17975) - 2025-11-19
 ## Q3 2025
 
 

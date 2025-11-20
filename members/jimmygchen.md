@@ -28,6 +28,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] []() - 2025-10-30
 * [Pull Request] []() - 2025-11-05
 * [Pull Request] []() - 2025-11-10
+* [Pull Request] []() - 2025-11-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-15
 
