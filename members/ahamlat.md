@@ -17,6 +17,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Issue] [Investigate SIMD implementation for UInt256](https://github.com/hyperledger/besu/issues/9357) - 2025-10-23
 * [Issue] [Investigate long limbs on UInt256](https://github.com/hyperledger/besu/issues/9356) - 2025-10-23
 * [Issue] [Address performance improvements comments on UInt246](https://github.com/hyperledger/besu/issues/9355) - 2025-10-23
+* [Issue] [Improve ADD performance using UInt256](https://github.com/hyperledger/besu/issues/9478) - 2025-11-20
+* [Pull Request] []() - 2025-11-20
+* [Issue] [Implement EVM arithmetic operations using the new UInt256 implementation](https://github.com/hyperledger/besu/issues/9472) - 2025-11-20
 ## Q3 2025
 
 

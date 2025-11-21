@@ -24,6 +24,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2025-10-16
 * [Pull Request] []() - 2025-10-28
 * [Issue] [Persist fork_choice on stop and load on restart](https://github.com/ChainSafe/lodestar/issues/8592) - 2025-10-31
+* [Issue] [Improve processAttestations time](https://github.com/ChainSafe/lodestar/issues/8621) - 2025-11-20
+* [Pull Request] []() - 2025-11-20
+* [Issue] [fulu: block import increased since fulu](https://github.com/ChainSafe/lodestar/issues/8619) - 2025-11-20
 ## Q3 2025
 
 

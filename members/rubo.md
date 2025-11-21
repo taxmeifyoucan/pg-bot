@@ -48,6 +48,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/3f28b61aee0efe3e8bf304208f4ccae6383c0346) - 2025-10-13
 * [Pull Request] []() - 2025-10-20
 * [Pull Request] []() - 2025-11-10
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] []() - 2025-11-20
 ## Q3 2025
 
 

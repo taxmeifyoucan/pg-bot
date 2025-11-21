@@ -93,6 +93,7 @@ Team: Erigon
 * [Pull Request] []() - 2025-10-27
 * [Issue] [grafana: prune metrics - switch from histogram to summary](https://github.com/erigontech/erigon/issues/17725) - 2025-10-31
 * [Issue] [grafana: `prune_stage_duration_secs` metric - don't see data](https://github.com/erigontech/erigon/issues/17724) - 2025-10-31
+* [Pull Request] []() - 2025-11-21
 ## Q3 2025
 
 

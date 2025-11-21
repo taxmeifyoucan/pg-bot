@@ -34,6 +34,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [[Plugin System] Create WorldStateArchiveService for provider registration](https://github.com/hyperledger/besu/issues/9449) - 2025-11-18
 * [Issue] [[Plugin System] Create WorldStateArchiveProvider interface](https://github.com/hyperledger/besu/issues/9448) - 2025-11-18
 * [Issue] [Move Forest storage system into a plugin](https://github.com/hyperledger/besu/issues/9447) - 2025-11-18
+* [Issue] [RPC Stack Refactor](https://github.com/hyperledger/besu/issues/9476) - 2025-11-20
 ## Q3 2025
 
 

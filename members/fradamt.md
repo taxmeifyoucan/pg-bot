@@ -16,6 +16,7 @@ Team: Consensus R&D (EF)
 * [Pull Request] []() - 2025-11-10
 * [Pull Request] []() - 2025-11-13
 * [Pull Request] []() - 2025-11-14
+* [Pull Request] []() - 2025-11-20
 ## Q3 2025
 
 

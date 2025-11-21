@@ -29,6 +29,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] []() - 2025-10-15
 * [Issue] [Gloas: PTC assignments](https://github.com/grandinetech/grandine/issues/444) - 2025-10-24
 
+* [Pull Request] []() - 2025-11-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-11-13
 ## Q3 2025

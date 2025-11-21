@@ -15,6 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] []() - 2025-10-17
 * [Issue] [Add optional opcodes tracing parameter](https://github.com/hyperledger/besu/issues/9334) - 2025-10-17
 * [Pull Request] []() - 2025-10-31
+* [Issue] [Reimplement UInt256.limbs fully in Big endian instead of Little endian](https://github.com/hyperledger/besu/issues/9475) - 2025-11-20
 ## Q3 2025
 
 
