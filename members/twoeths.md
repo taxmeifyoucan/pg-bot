@@ -27,6 +27,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Improve processAttestations time](https://github.com/ChainSafe/lodestar/issues/8621) - 2025-11-20
 * [Pull Request] []() - 2025-11-20
 * [Issue] [fulu: block import increased since fulu](https://github.com/ChainSafe/lodestar/issues/8619) - 2025-11-20
+* [Issue] [Duplicate getIndexedAttestation() during verifying/importing blocks](https://github.com/ChainSafe/lodestar/issues/8625) - 2025-11-21
+* [Issue] [[fulu] writeBlockInputToDb performance issue](https://github.com/ChainSafe/lodestar/issues/8624) - 2025-11-21
+* [Issue] [[fulu] performance issue deserializing DataColumnSidecar](https://github.com/ChainSafe/lodestar/issues/8623) - 2025-11-21
 ## Q3 2025
 
 

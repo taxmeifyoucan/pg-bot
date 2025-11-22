@@ -35,6 +35,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Issue] [AssertionDefect in ForkedChain - candidate BlockRef is nil in updateFinalized ](https://github.com/status-im/nimbus-eth1/issues/3777) - 2025-10-21
 * [Pull Request] []() - 2025-10-29
 * [Pull Request] []() - 2025-11-03
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] []() - 2025-11-21
 ## Q3 2025
 
 

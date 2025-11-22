@@ -51,6 +51,7 @@ Team: Reth
 * [Issue] [Replace OpReceipt with alloy's](https://github.com/paradigmxyz/reth/issues/19839) - 2025-11-18
 * [Issue] [Support custom reverterror display decoding](https://github.com/paradigmxyz/reth/issues/19835) - 2025-11-18
 * [Issue] [Indentify all raw db tx usage](https://github.com/paradigmxyz/reth/issues/19867) - 2025-11-19
+* [Issue] [Add MessageValidationKind to validate_payload_timestamp](https://github.com/paradigmxyz/reth/issues/19906) - 2025-11-21
 ## Q3 2025
 
 
