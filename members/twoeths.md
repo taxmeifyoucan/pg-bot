@@ -30,6 +30,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Duplicate getIndexedAttestation() during verifying/importing blocks](https://github.com/ChainSafe/lodestar/issues/8625) - 2025-11-21
 * [Issue] [[fulu] writeBlockInputToDb performance issue](https://github.com/ChainSafe/lodestar/issues/8624) - 2025-11-21
 * [Issue] [[fulu] performance issue deserializing DataColumnSidecar](https://github.com/ChainSafe/lodestar/issues/8623) - 2025-11-21
+* [Issue] [post-fulu: network thread bottle neck](https://github.com/ChainSafe/lodestar/issues/8629) - 2025-11-22
 ## Q3 2025
 
 
