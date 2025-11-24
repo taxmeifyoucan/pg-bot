@@ -29,6 +29,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Run `cargo deny` or similar on CI](https://github.com/sigp/lighthouse/issues/8408) - 2025-11-13
 * [Pull Request] []() - 2025-11-17
 * [Issue] [Investigate not pruning the split block's payload](https://github.com/sigp/lighthouse/issues/8431) - 2025-11-19
+* [Pull Request] []() - 2025-11-24
 ## Q3 2025
 
 

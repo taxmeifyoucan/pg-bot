@@ -40,6 +40,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] []() - 2025-10-31
 * [Pull Request] []() - 2025-11-06
 * [Pull Request] []() - 2025-11-14
+* [Pull Request] []() - 2025-11-23
 ## Q3 2025
 
 

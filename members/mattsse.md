@@ -52,6 +52,7 @@ Team: Reth
 * [Issue] [Support custom reverterror display decoding](https://github.com/paradigmxyz/reth/issues/19835) - 2025-11-18
 * [Issue] [Indentify all raw db tx usage](https://github.com/paradigmxyz/reth/issues/19867) - 2025-11-19
 * [Issue] [Add MessageValidationKind to validate_payload_timestamp](https://github.com/paradigmxyz/reth/issues/19906) - 2025-11-21
+* [Issue] [Add TransactionPoolExt::filter_pooled_txs(Fn(&) -> bool)](https://github.com/paradigmxyz/reth/issues/19919) - 2025-11-23
 ## Q3 2025
 
 
