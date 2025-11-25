@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 
 ## Contributions
 
+## Q4 2025
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] []() - 2025-11-24
 ## Q3 2025
 
 

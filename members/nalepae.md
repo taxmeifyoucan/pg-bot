@@ -44,6 +44,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
 * [Issue] [Prysm broadcasts `0x000....` KZG proofs](https://github.com/OffchainLabs/prysm/issues/15958) - 2025-10-31
+* [Issue] [Earliest available slot metrics are wrong](https://github.com/OffchainLabs/prysm/issues/16042) - 2025-11-24
 ## Q3 2025
 
 

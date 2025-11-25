@@ -21,6 +21,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] []() - 2025-11-14
 * [Issue] [Gloas execution_payload gossip rules](https://github.com/Consensys/teku/issues/10146) - 2025-11-17
 
+* [Pull Request] []() - 2025-11-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-11-19
 ## Q3 2025

@@ -14,6 +14,7 @@ Team: Nimbus
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Beacon sync timing and maint update (#3761)](https://github.com/status-im/nimbus-eth1/commit/163251618e61e1b23d017796229c007d0d8dae0e) - 2025-10-10
 * [Pull Request] []() - 2025-11-20
+* [Pull Request] []() - 2025-11-24
 ## Q3 2025
 
 

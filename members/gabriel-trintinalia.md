@@ -22,6 +22,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Issue] [Release 25.11.0](https://github.com/hyperledger/besu/issues/9366) - 2025-10-27
 * [Pull Request] []() - 2025-11-03
 * [Pull Request] []() - 2025-11-04
+* [Pull Request] []() - 2025-11-25
 ## Q3 2025
 
 
