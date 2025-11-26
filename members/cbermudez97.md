@@ -13,6 +13,9 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2025-11-24
+
+[nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
+* [Pull Request] []() - 2025-11-25
 ## Q3 2025
 
 

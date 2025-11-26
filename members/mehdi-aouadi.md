@@ -24,6 +24,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] []() - 2025-11-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-11-19
+* [Pull Request] []() - 2025-11-25
 ## Q3 2025
 
 

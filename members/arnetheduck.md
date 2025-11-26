@@ -18,6 +18,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Update release, kurtosis etc to use `nimbus`](https://github.com/status-im/nimbus-eth1/issues/3793) - 2025-10-24
 
 * [Pull Request] []() - 2025-11-12
+* [Pull Request] []() - 2025-11-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] []() - 2025-10-29
 

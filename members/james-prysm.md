@@ -37,6 +37,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Do not mark blocks as invalid unnecessarily (#15846)](https://github.com/OffchainLabs/prysm/commit/4e47905884bda2d13678d6704887a7196aa33839) - 2025-10-13
 * [Commit] [accidently checked in code](https://github.com/OffchainLabs/prysm/commit/daa9d395113f62ddece9a57fa7acc7d580a9a2b3) - 2025-10-13
 * [Commit] [we don't actually need to use the ids](https://github.com/OffchainLabs/prysm/commit/a37bc1cbd087af93a6dc860caf44fbfec81bb0ef) - 2025-10-13
+
+[offchainlabs/prysm](https://github.com/offchainlabs/prysm)
+* [Pull Request] []() - 2025-11-25
 ## Q3 2025
 
 

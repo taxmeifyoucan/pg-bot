@@ -34,6 +34,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix concurrent tree read (#9447)](https://github.com/NethermindEth/nethermind/commit/c5cfd08169511f1043dab34fea375d70cfa43210) - 2025-10-13
 * [Pull Request] []() - 2025-10-14
 * [Pull Request] []() - 2025-10-18
+* [Pull Request] []() - 2025-11-25
 ## Q3 2025
 
 
