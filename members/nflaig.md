@@ -43,6 +43,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Remove usage of `prettyBytes` in errors](https://github.com/ChainSafe/lodestar/issues/8566) - 2025-10-25
 * [Pull Request] []() - 2025-10-29
 * [Issue] [Build provenance and SBOM attestations for images](https://github.com/ChainSafe/lodestar/issues/8610) - 2025-11-05
+* [Pull Request] []() - 2025-11-26
 ## Q3 2025
 
 

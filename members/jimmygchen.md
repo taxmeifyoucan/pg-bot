@@ -33,6 +33,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] []() - 2025-11-24
 * [Pull Request] []() - 2025-11-25
 * [Issue] [Separate async and blocking task counters in beacon processor](https://github.com/sigp/lighthouse/issues/8460) - 2025-11-25
+* [Pull Request] []() - 2025-11-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-15
 

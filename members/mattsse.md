@@ -54,6 +54,7 @@ Team: Reth
 * [Issue] [Add MessageValidationKind to validate_payload_timestamp](https://github.com/paradigmxyz/reth/issues/19906) - 2025-11-21
 * [Issue] [Add TransactionPoolExt::filter_pooled_txs(Fn(&) -> bool)](https://github.com/paradigmxyz/reth/issues/19919) - 2025-11-23
 * [Issue] [Introduce PayloadValidator::payload_to_block](https://github.com/paradigmxyz/reth/issues/19949) - 2025-11-24
+* [Issue] [Move CliHeader to primitives traits and rename to HeaderMut](https://github.com/paradigmxyz/reth/issues/20000) - 2025-11-26
 ## Q3 2025
 
 

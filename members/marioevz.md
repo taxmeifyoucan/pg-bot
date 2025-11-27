@@ -37,6 +37,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [FIx or reconsider `test_blockhash`](https://github.com/ethereum/execution-specs/issues/1792) - 2025-11-14
 * [Pull Request] []() - 2025-11-14
 * [Pull Request] []() - 2025-11-18
+* [Issue] [Remove duplicate exception definitions](https://github.com/ethereum/execution-specs/issues/1816) - 2025-11-26
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [type(tests): convert create suicide during init (#1871)](https://github.com/ethereum/execution-spec-tests/commit/28ca6decef374908e7e18e4cf4e5a500a9834866) - 2025-10-02
 * [Commit] [refactor(tests): add checklist marker for eip7823 (#2115)](https://github.com/ethereum/execution-spec-tests/commit/110b5d4ae9d6c07a4ae2d5e9a2822652b0ae6172) - 2025-10-02
@@ -59,6 +60,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #59, Oct 27, 2025](https://github.com/ethereum/pm/issues/1778) - 2025-10-21
 * [Issue] [All Core Devs - Testing (ACDT) #61, November 10, 2025](https://github.com/ethereum/pm/issues/1797) - 2025-11-05
+* [Pull Request] []() - 2025-11-26
 ## Q3 2025
 
 
