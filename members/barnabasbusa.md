@@ -27,6 +27,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] []() - 2025-10-23
 * [Issue] [All Core Devs - Testing (ACDT) #60, November 3, 2025](https://github.com/ethereum/pm/issues/1786) - 2025-10-28
+* [Issue] [All Core Devs - Testing (ACDT) #62, December 1, 2025](https://github.com/ethereum/pm/issues/1820) - 2025-11-27
 ## Q3 2025
 
 

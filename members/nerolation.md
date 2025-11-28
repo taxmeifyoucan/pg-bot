@@ -24,6 +24,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Issue] [EIP-7928 Breakout #6, Nov 5, 2025](https://github.com/ethereum/pm/issues/1787) - 2025-10-28
 
 * [Issue] [EIP-7928 Breakout #7, Nov 19, 2025](https://github.com/ethereum/pm/issues/1810) - 2025-11-17
+* [Issue] [EIP-7928 Breakout #8, Dec 3, 2025](https://github.com/ethereum/pm/issues/1822) - 2025-11-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] []() - 2025-10-31
 * [Pull Request] []() - 2025-11-01

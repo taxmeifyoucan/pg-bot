@@ -23,6 +23,9 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [[tooling] Docker build fails: ethereum-execution-specs[test] extra not installable](https://github.com/ethereum/execution-specs/issues/1630) - 2025-10-17
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [State test runner ignores `blobVersionedHashes` when `txbytes` is absent](https://github.com/erigontech/erigon/issues/18079) - 2025-11-27
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

@@ -18,6 +18,9 @@ Team: Geth
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/geth: add flag to set genesis](https://github.com/ethereum/go-ethereum/pull/32844) - 2025-10-07
 * [Pull Request] []() - 2025-11-14
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] []() - 2025-11-27
 ## Q3 2025
 
 
