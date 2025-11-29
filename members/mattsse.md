@@ -56,6 +56,7 @@ Team: Reth
 * [Issue] [Introduce PayloadValidator::payload_to_block](https://github.com/paradigmxyz/reth/issues/19949) - 2025-11-24
 * [Issue] [Move CliHeader to primitives traits and rename to HeaderMut](https://github.com/paradigmxyz/reth/issues/20000) - 2025-11-26
 * [Pull Request] []() - 2025-11-27
+* [Pull Request] []() - 2025-11-28
 ## Q3 2025
 
 

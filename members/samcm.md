@@ -21,6 +21,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [refactor(migration): drop and recreate distributed tables to include direction column](https://github.com/ethpandaops/xatu/commit/6d93a34da41d6404c19c7efa979cfdecfa403753) - 2025-10-01
 * [Pull Request] []() - 2025-10-15
 
+* [Pull Request] []() - 2025-11-28
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] []() - 2025-10-23
 * [Pull Request] []() - 2025-11-13

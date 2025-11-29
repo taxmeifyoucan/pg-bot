@@ -40,6 +40,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Update EIP-5792: Fix two typos in EIP (#10132)](https://github.com/ethereum/EIPs/commit/5b0c8dce4bc67d34082eff7950d44be928641207) - 2025-10-07
 * [Commit] [Update EIP-1108: correct typo in EIP-1108 rationale section (#10094)](https://github.com/ethereum/EIPs/commit/8cc38b9d7566132c5a05cef8d3b573d7fc2c44e8) - 2025-10-07
 * [Pull Request] [Withdraw eip-5003](https://github.com/ethereum/EIPs/pull/10491) - 2025-10-08
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [`debug_getRawBlock` returning truncated block in Frontier](https://github.com/paradigmxyz/reth/issues/20038) - 2025-11-28
 ## Q3 2025
 
 

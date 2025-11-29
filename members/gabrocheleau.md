@@ -44,9 +44,11 @@ Team: EthereumJS
 * [Commit] [chore: cleanup verkle](https://github.com/ethereumjs/ethereumjs-monorepo/commit/83b0269efe4948b3267a1fa753e06c3488df5ec1) - 2025-10-11
 
 * [Pull Request] []() - 2025-11-13
+* [Pull Request] []() - 2025-11-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementers Call #44, October 20th, 2025](https://github.com/ethereum/pm/issues/1770) - 2025-10-17
 * [Issue] [Stateless Implementers Call #45, November 3rd, 2025](https://github.com/ethereum/pm/issues/1773) - 2025-10-20
+* [Issue] [Stateless Implementer's Call #45, December 1, 2025](https://github.com/ethereum/pm/issues/1823) - 2025-11-28
 ## Q3 2025
 
 
