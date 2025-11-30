@@ -31,6 +31,9 @@ Team: Consensus R&D (EF)
 
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] []() - 2025-11-03
+
+[eth-act/ere](https://github.com/eth-act/ere)
+* [Issue] [Tracker for RV64IM-None support](https://github.com/eth-act/ere/issues/232) - 2025-11-30
 ## Q3 2025
 
 

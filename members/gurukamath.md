@@ -17,6 +17,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-specs/issues/1539) - 2025-10-09
 * [Pull Request] []() - 2025-11-26
 * [Pull Request] []() - 2025-11-28
+* [Pull Request] []() - 2025-11-29
 ## Q3 2025
 
 
