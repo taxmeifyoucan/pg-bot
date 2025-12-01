@@ -27,6 +27,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [CKZG4844PropertyTest takes ages](https://github.com/Consensys/teku/issues/10125) - 2025-11-12
 * [Pull Request] []() - 2025-11-24
 * [Pull Request] []() - 2025-11-28
+* [Pull Request] []() - 2025-12-01
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Issue] [segv when setting kzg-precompute to 15](https://github.com/ethereum/c-kzg-4844/issues/611) - 2025-10-28
 ## Q3 2025
