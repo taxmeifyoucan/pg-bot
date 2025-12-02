@@ -26,6 +26,9 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [State test runner ignores `blobVersionedHashes` when `txbytes` is absent](https://github.com/erigontech/erigon/issues/18079) - 2025-11-27
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] []() - 2025-12-01
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

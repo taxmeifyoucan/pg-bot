@@ -14,6 +14,7 @@ Team: Applied Research Group (ARG)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-10-21
 * [Pull Request] []() - 2025-11-26
+* [Pull Request] []() - 2025-12-02
 ## Q2 2025
 
 

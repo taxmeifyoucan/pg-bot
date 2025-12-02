@@ -65,6 +65,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix OverflowDefect crash in block validation (#3741)](https://github.com/status-im/nimbus-eth1/commit/f5eebe4d02e5647eead49e2ce855e89c94e3e31c) - 2025-10-06
 * [Pull Request] [increase default gas limit to 60M](https://github.com/status-im/nimbus-eth1/pull/3746) - 2025-10-06
 * [Issue] [Schedule Osaka mainnet fork](https://github.com/status-im/nimbus-eth1/issues/3804) - 2025-11-01
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] []() - 2025-12-01
 ## Q3 2025
 
 

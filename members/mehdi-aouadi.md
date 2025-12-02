@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Issue] [Gloas execution_payload gossip rules](https://github.com/Consensys/teku/issues/10146) - 2025-11-17
 
 * [Pull Request] []() - 2025-11-24
+* [Issue] [Network configuration unit test downloading config from the web](https://github.com/Consensys/teku/issues/10195) - 2025-12-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-11-19
 * [Pull Request] []() - 2025-11-25

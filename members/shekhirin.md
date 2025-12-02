@@ -36,6 +36,7 @@ Team: Reth
 * [Issue] [Make sure that we can just delete static files and it will not break provider access](https://github.com/paradigmxyz/reth/issues/19589) - 2025-11-07
 * [Pull Request] []() - 2025-11-08
 * [Pull Request] []() - 2025-11-15
+* [Issue] [Tracing performance degradation](https://github.com/paradigmxyz/reth/issues/20058) - 2025-12-01
 ## Q3 2025
 
 

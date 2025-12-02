@@ -57,6 +57,8 @@ Team: Reth
 * [Issue] [Move CliHeader to primitives traits and rename to HeaderMut](https://github.com/paradigmxyz/reth/issues/20000) - 2025-11-26
 * [Pull Request] []() - 2025-11-27
 * [Pull Request] []() - 2025-11-28
+* [Issue] [handle more dedicated ethsimulate rpc errors ](https://github.com/paradigmxyz/reth/issues/20054) - 2025-12-01
+* [Issue] [Improve error message for TransactionConversionError](https://github.com/paradigmxyz/reth/issues/20052) - 2025-12-01
 ## Q3 2025
 
 

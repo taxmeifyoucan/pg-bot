@@ -15,6 +15,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: hack to use ip instead of dns](https://github.com/ethpandaops/dora/pull/493) - 2025-10-02
 * [Commit] [fix: add supported columns as an array instead of bool](https://github.com/ethpandaops/dora/commit/f816bc222e9f8ea5532b50220530acdf713cfa2c) - 2025-10-02
 
+* [Issue] [do validator look ahead on n+1 epoch](https://github.com/ethpandaops/dora/issues/524) - 2025-12-01
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Default to EL<version>CL<version> in graffiti](https://github.com/status-im/nimbus-eth2/issues/7580) - 2025-10-08
 

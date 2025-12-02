@@ -16,6 +16,9 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [tracing custom forks](https://github.com/NethermindEth/nethermind/commit/0c4c59410e2e8472e7560b0b6c1c93296fae551a) - 2025-10-01
 * [Commit] [disable annoying logs](https://github.com/NethermindEth/nethermind/commit/959952cf3b39ec449ec7535157b6da5961b65c62) - 2025-10-03
 * [Commit] [debug endpoint](https://github.com/NethermindEth/nethermind/commit/cc4c4e47f4c8c438927d006164df38fa760a1045) - 2025-10-03
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] []() - 2025-12-01
 ## Q3 2025
 
 
