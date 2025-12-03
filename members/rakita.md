@@ -51,6 +51,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: make CallInput::bytes accept immutable ContextTr (#3082)](https://github.com/bluealloy/revm/commit/082a5dd4d90f6d1233e1b6281ae24259a5a40895) - 2025-10-13
 * [Pull Request] []() - 2025-10-29
 * [Pull Request] []() - 2025-11-12
+* [Pull Request] []() - 2025-12-02
 ## Q3 2025
 
 

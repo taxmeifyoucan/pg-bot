@@ -19,6 +19,9 @@ Team: Grandine
 * [Issue] [Duoble check the we don't have the vulnerabilities that were discovered in other clients during recent audits.](https://github.com/grandinetech/grandine/issues/407) - 2025-10-08
 * [Issue] [Fix exeption.log file path](https://github.com/grandinetech/grandine/issues/451) - 2025-10-30
 * [Pull Request] []() - 2025-11-05
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] []() - 2025-12-02
 ## Q3 2025
 
 

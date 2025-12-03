@@ -18,6 +18,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Optimize bit test of scalar in ECC multiplication](https://github.com/ipsilon/evmone/pull/1336) - 2025-10-13
 * [Pull Request] []() - 2025-11-07
 * [Pull Request] []() - 2025-11-12
+* [Pull Request] []() - 2025-12-02
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): add test for modexp with 2**32 exp len](https://github.com/ethereum/execution-spec-tests/pull/2254) - 2025-10-02
 

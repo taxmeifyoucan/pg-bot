@@ -29,6 +29,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [Test generator blocking issue](https://github.com/ethereum/consensus-specs/issues/4710) - 2025-10-29
 * [Issue] [An internal research client](https://github.com/ethereum/consensus-specs/issues/4749) - 2025-11-19
 * [Issue] [Publish eth2spec package again](https://github.com/ethereum/consensus-specs/issues/4748) - 2025-11-19
+* [Pull Request] []() - 2025-12-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP-7732 Breakout Room Call #26, October 24, 2025](https://github.com/ethereum/pm/issues/1759) - 2025-10-13
 * [Issue] [EIP-7732 Breakout Room Call #27, November 7, 2025](https://github.com/ethereum/pm/issues/1783) - 2025-10-25

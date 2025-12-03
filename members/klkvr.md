@@ -34,6 +34,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] []() - 2025-11-22
 * [Pull Request] []() - 2025-11-24
 * [Issue] [Upstream `DebugInspector`](https://github.com/paradigmxyz/reth/issues/19932) - 2025-11-24
+* [Pull Request] []() - 2025-12-02
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] []() - 2025-11-10
 * [Pull Request] []() - 2025-11-14

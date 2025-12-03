@@ -13,6 +13,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2025-11-13
+* [Pull Request] []() - 2025-12-02
 ## Q3 2025
 
 

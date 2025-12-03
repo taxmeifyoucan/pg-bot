@@ -31,6 +31,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[fulu] writeBlockInputToDb performance issue](https://github.com/ChainSafe/lodestar/issues/8624) - 2025-11-21
 * [Issue] [[fulu] performance issue deserializing DataColumnSidecar](https://github.com/ChainSafe/lodestar/issues/8623) - 2025-11-21
 * [Issue] [post-fulu: network thread bottle neck](https://github.com/ChainSafe/lodestar/issues/8629) - 2025-11-22
+* [Issue] [Regen and state caches to work with IBeaconStateView](https://github.com/ChainSafe/lodestar/issues/8659) - 2025-12-02
+* [Issue] [Produce block using parent IBeaconStateView](https://github.com/ChainSafe/lodestar/issues/8658) - 2025-12-02
+* [Issue] [Gossip validation to work with EpochShuffling](https://github.com/ChainSafe/lodestar/issues/8657) - 2025-12-02
+* [Issue] [Use ShufflingCache instead of EpochCache for shuffling data](https://github.com/ChainSafe/lodestar/issues/8655) - 2025-12-02
+* [Issue] [Remove Eth1ForBlockProduction](https://github.com/ChainSafe/lodestar/issues/8654) - 2025-12-02
+* [Issue] [Refactor ShufflingCache](https://github.com/ChainSafe/lodestar/issues/8653) - 2025-12-02
+* [Issue] [Avoid accessing config, pubkey2index, index2pubkey from cached state](https://github.com/ChainSafe/lodestar/issues/8652) - 2025-12-02
+* [Issue] [Avoid accessing full beacon state in PrepareNextSlotScheduler](https://github.com/ChainSafe/lodestar/issues/8651) - 2025-12-02
+* [Issue] [Decouple beacon-node and state-transition](https://github.com/ChainSafe/lodestar/issues/8650) - 2025-12-02
 ## Q3 2025
 
 

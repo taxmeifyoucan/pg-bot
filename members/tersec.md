@@ -60,6 +60,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] []() - 2025-11-06
 * [Pull Request] []() - 2025-11-15
 * [Pull Request] []() - 2025-11-18
+* [Pull Request] []() - 2025-12-02
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [proxy: refactor (#3709)](https://github.com/status-im/nimbus-eth1/commit/cacde70cbe18ab34b70d0470701bcf0587171071) - 2025-10-06
 * [Commit] [Fix OverflowDefect crash in block validation (#3741)](https://github.com/status-im/nimbus-eth1/commit/f5eebe4d02e5647eead49e2ce855e89c94e3e31c) - 2025-10-06
