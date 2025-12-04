@@ -15,6 +15,7 @@ Team: Applied Research Group (ARG)
 * [Pull Request] []() - 2025-10-21
 * [Pull Request] []() - 2025-11-26
 * [Pull Request] []() - 2025-12-02
+* [Pull Request] []() - 2025-12-03
 ## Q2 2025
 
 

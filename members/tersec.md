@@ -69,6 +69,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] []() - 2025-12-01
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Issue] [Fake `INVALID` on mainnet slot 13164552](https://github.com/NethermindEth/nethermind/issues/9878) - 2025-12-04
 ## Q3 2025
 
 

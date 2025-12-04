@@ -62,6 +62,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [All Core Devs - Testing (ACDT) #59, Oct 27, 2025](https://github.com/ethereum/pm/issues/1778) - 2025-10-21
 * [Issue] [All Core Devs - Testing (ACDT) #61, November 10, 2025](https://github.com/ethereum/pm/issues/1797) - 2025-11-05
 * [Pull Request] []() - 2025-11-26
+* [Issue] [All Core Devs - Testing (ACDT) #63, December 8, 2025](https://github.com/ethereum/pm/issues/1834) - 2025-12-03
 ## Q3 2025
 
 

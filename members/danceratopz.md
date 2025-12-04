@@ -78,6 +78,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Add versioning for mkdocs pages and rendered spec](https://github.com/ethereum/execution-specs/issues/1772) - 2025-11-11
 * [Pull Request] []() - 2025-11-16
 
+* [Issue] [Augment `BenchmarkTestFiller` with opcode under test and its expected count](https://github.com/ethereum/execution-specs/issues/1835) - 2025-12-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-11-19
 ## Q3 2025

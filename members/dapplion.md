@@ -22,6 +22,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] []() - 2025-11-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-11-10
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Pull Request] []() - 2025-12-03
 ## Q3 2025
 
 

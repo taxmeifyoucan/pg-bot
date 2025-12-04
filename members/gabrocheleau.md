@@ -49,6 +49,7 @@ Team: EthereumJS
 * [Issue] [Stateless Implementers Call #44, October 20th, 2025](https://github.com/ethereum/pm/issues/1770) - 2025-10-17
 * [Issue] [Stateless Implementers Call #45, November 3rd, 2025](https://github.com/ethereum/pm/issues/1773) - 2025-10-20
 * [Issue] [Stateless Implementer's Call #45, December 1, 2025](https://github.com/ethereum/pm/issues/1823) - 2025-11-28
+* [Issue] [Stateless Implementer's Call #46, December 15, 2025](https://github.com/ethereum/pm/issues/1833) - 2025-12-03
 ## Q3 2025
 
 

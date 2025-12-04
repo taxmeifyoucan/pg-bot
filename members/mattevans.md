@@ -41,6 +41,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(go.mod): remove local replace directive for xatu-cbt and bump to latest upstream version](https://github.com/ethpandaops/lab/commit/7b93166aab47ee22644b83d6a2e3b90028e90598) - 2025-10-10
 * [Pull Request] [feat: revendor protos with changes - made tweaks](https://github.com/ethpandaops/lab/pull/120) - 2025-10-10
 
+* [Pull Request] []() - 2025-12-03
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] []() - 2025-11-04
 * [Pull Request] []() - 2025-11-13

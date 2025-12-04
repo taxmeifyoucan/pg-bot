@@ -22,6 +22,7 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] []() - 2025-10-14
 
+* [Pull Request] []() - 2025-12-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [[tooling] Docker build fails: ethereum-execution-specs[test] extra not installable](https://github.com/ethereum/execution-specs/issues/1630) - 2025-10-17
 

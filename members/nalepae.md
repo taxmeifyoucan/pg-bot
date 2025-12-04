@@ -47,6 +47,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Earliest available slot metrics are wrong](https://github.com/OffchainLabs/prysm/issues/16042) - 2025-11-24
 * [Issue] [Data column sidecars storage: Avoid storing cells that can be reconstructed.](https://github.com/OffchainLabs/prysm/issues/16068) - 2025-11-27
 * [Issue] [Beacon API `eth/v1/beacon/states/{slot}/root` may take a very long time to respond.](https://github.com/OffchainLabs/prysm/issues/16085) - 2025-12-02
+* [Issue] [Prysm loves Lighthouse and almost exclusively only Lighthouse](https://github.com/OffchainLabs/prysm/issues/16090) - 2025-12-03
 ## Q3 2025
 
 
