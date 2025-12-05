@@ -20,6 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] []() - 2025-11-17
 * [Issue] [Refine the concept of Gossip data columns sidecars validation failure ](https://github.com/Consensys/teku/issues/10149) - 2025-11-19
 * [Pull Request] []() - 2025-11-25
+* [Pull Request] []() - 2025-12-04
 ## Q3 2025
 
 

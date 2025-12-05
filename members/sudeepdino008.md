@@ -60,6 +60,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] []() - 2025-11-11
 * [Issue] [snapshotter health check: if erigon is on chaintip or not](https://github.com/erigontech/erigon/issues/17868) - 2025-11-12
 * [Issue] [manage releases better in snapshot automation script](https://github.com/erigontech/erigon/issues/18133) - 2025-12-02
+* [Issue] [torrent file verification doesn't finish](https://github.com/erigontech/erigon/issues/18162) - 2025-12-04
+* [Issue] [temporaldb: add test for "if data in files, don't query db" property](https://github.com/erigontech/erigon/issues/18158) - 2025-12-04
 ## Q3 2025
 
 

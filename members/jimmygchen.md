@@ -39,6 +39,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Fix TOCTOU bug in unused_port module](https://github.com/sigp/lighthouse/issues/8490) - 2025-11-28
 * [Pull Request] []() - 2025-11-28
 * [Pull Request] []() - 2025-12-01
+* [Pull Request] []() - 2025-12-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-10-15
 

@@ -14,6 +14,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Docs: Use consensus light client naming throughout the guide](https://github.com/status-im/nimbus-eth2/pull/7560) - 2025-10-01
 
+* [Pull Request] []() - 2025-12-04
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Portal + era1: Remove use of hardcoded mainnet mergeBlockNumber](https://github.com/status-im/nimbus-eth1/pull/3742) - 2025-10-03
 * [Commit] [Portal + era1: Remove use of hardcoded mainnet mergeBlockNumber](https://github.com/status-im/nimbus-eth1/commit/ad51effc74c091db846371311655aaeeb6c471e1) - 2025-10-03
