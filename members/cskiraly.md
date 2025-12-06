@@ -22,6 +22,7 @@ Team: Codex DAS
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-11-07
 * [Pull Request] []() - 2025-11-29
+* [Pull Request] []() - 2025-12-05
 ## Q3 2025
 
 

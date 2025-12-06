@@ -32,6 +32,7 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 * [Pull Request] []() - 2025-12-04
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] []() - 2025-12-01
+* [Pull Request] []() - 2025-12-05
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

@@ -17,6 +17,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Squashed commit of the following:](https://github.com/ChainSafe/lodestar/commit/5c24ff62a4151479bee74896664ed30237e341d7) - 2025-10-08
 * [Commit] [feat: add xdelta3 support for computing binary difference (#7664)](https://github.com/ChainSafe/lodestar/commit/fd5ad2a8c85e1dd45b8dbcec7f446d617366e013) - 2025-10-08
 * [Pull Request] []() - 2025-11-19
+* [Pull Request] []() - 2025-12-05
 ## Q3 2025
 
 

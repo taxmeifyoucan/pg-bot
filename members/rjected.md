@@ -30,6 +30,11 @@ Team: Reth
 * [Pull Request] []() - 2025-11-07
 * [Pull Request] []() - 2025-11-12
 * [Pull Request] []() - 2025-11-14
+* [Issue] [Add method to check invariants on RocksDB tables](https://github.com/paradigmxyz/reth/issues/20153) - 2025-12-05
+* [Issue] [Add RocksDB Provider to DatabaseProvider](https://github.com/paradigmxyz/reth/issues/20152) - 2025-12-05
+* [Issue] [Add StorageSettings for StoragesHistory in RocksDB](https://github.com/paradigmxyz/reth/issues/20151) - 2025-12-05
+* [Issue] [Add StorageSettingsField field for AccountHistory in RocksDB](https://github.com/paradigmxyz/reth/issues/20150) - 2025-12-05
+* [Issue] [Add StorageSettings field for TransactionHashNumbers in RocksDB](https://github.com/paradigmxyz/reth/issues/20149) - 2025-12-05
 ## Q3 2025
 
 

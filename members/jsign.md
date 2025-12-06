@@ -18,6 +18,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] []() - 2025-12-04
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] []() - 2025-12-05
 ## Q3 2025
 
 

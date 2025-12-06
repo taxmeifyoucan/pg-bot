@@ -38,6 +38,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] []() - 2025-11-14
 * [Pull Request] []() - 2025-11-25
 * [Pull Request] []() - 2025-11-27
+* [Issue] [flaky test shouldTimeoutSlowRpcMethod](https://github.com/hyperledger/besu/issues/9538) - 2025-12-05
+* [Issue] [Release 25.12.0](https://github.com/hyperledger/besu/issues/9537) - 2025-12-05
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] []() - 2025-10-21
 * [Pull Request] []() - 2025-10-22
