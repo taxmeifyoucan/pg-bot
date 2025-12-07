@@ -54,6 +54,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration: add integration utility for filter changes](https://github.com/erigontech/rpc-tests/commit/521776da2267952fc2c5b7fa411f0b7c92bc7a1c) - 2025-10-03
 * [Pull Request] [integration: input validation tests for eth_getStorageAt](https://github.com/erigontech/rpc-tests/pull/471) - 2025-10-04
 
+* [Pull Request] []() - 2025-12-06
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2025-10-16
 ## Q3 2025

@@ -63,6 +63,7 @@ Team: Reth
 * [Issue] [Add support for testing_ rpc namespace and testing_buildBlockV1](https://github.com/paradigmxyz/reth/issues/20069) - 2025-12-02
 * [Pull Request] []() - 2025-12-03
 * [Issue] [avoid double account cache lookup](https://github.com/paradigmxyz/reth/issues/20145) - 2025-12-05
+* [Pull Request] []() - 2025-12-06
 ## Q3 2025
 
 
