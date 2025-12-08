@@ -19,6 +19,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] []() - 2025-10-23
 * [Pull Request] []() - 2025-12-03
 * [Issue] [Duplicated crates: Tracking Issue](https://github.com/sigp/lighthouse/issues/8547) - 2025-12-05
+* [Pull Request] []() - 2025-12-07
 ## Q3 2025
 
 

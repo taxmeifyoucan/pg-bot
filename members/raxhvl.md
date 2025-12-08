@@ -22,6 +22,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore: Rename `tx_index` to `bal_index` for `BlockAccessList`](https://github.com/ethereum/execution-specs/issues/1617) - 2025-10-16
 * [Issue] [Enforce strict field validation on critical pydantic model](https://github.com/ethereum/execution-specs/issues/1615) - 2025-10-16
+* [Pull Request] []() - 2025-12-07
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

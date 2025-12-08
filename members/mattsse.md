@@ -64,6 +64,7 @@ Team: Reth
 * [Pull Request] []() - 2025-12-03
 * [Issue] [avoid double account cache lookup](https://github.com/paradigmxyz/reth/issues/20145) - 2025-12-05
 * [Pull Request] []() - 2025-12-06
+* [Pull Request] []() - 2025-12-07
 ## Q3 2025
 
 
