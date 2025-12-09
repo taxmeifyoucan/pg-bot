@@ -65,6 +65,7 @@ Team: Reth
 * [Issue] [avoid double account cache lookup](https://github.com/paradigmxyz/reth/issues/20145) - 2025-12-05
 * [Pull Request] []() - 2025-12-06
 * [Pull Request] []() - 2025-12-07
+* [Issue] [Return error if toBlock exceeds the current height](https://github.com/paradigmxyz/reth/issues/20197) - 2025-12-08
 ## Q3 2025
 
 

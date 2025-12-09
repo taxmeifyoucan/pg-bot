@@ -13,6 +13,7 @@ Team: Stateless Consensus
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [L2 Interop Working Group - Call #17 - December 3rd, 2025](https://github.com/ethereum/pm/issues/1832) - 2025-12-02
+* [Issue] [L2 Interop Working Group - Call #18 - December 17th, 2025](https://github.com/ethereum/pm/issues/1838) - 2025-12-08
 ## Q3 2025
 
 

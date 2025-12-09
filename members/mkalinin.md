@@ -15,6 +15,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Commit] [Add Amsterdam execution-api specs (#691)](https://github.com/ethereum/execution-apis/commit/4ec8e5735ebb3f2ce0702726385cdde70034f78c) - 2025-10-06
 
 * [Pull Request] []() - 2025-12-05
+* [Pull Request] []() - 2025-12-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-10-30
 

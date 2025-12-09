@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] []() - 2025-11-25
 * [Pull Request] []() - 2025-12-04
 * [Issue] [Investigate flakiness of Das50PercentRecoveryAcceptanceTest](https://github.com/Consensys/teku/issues/10206) - 2025-12-07
+* [Issue] [SingleBlockProvider for Fulu](https://github.com/Consensys/teku/issues/10208) - 2025-12-08
 ## Q3 2025
 
 

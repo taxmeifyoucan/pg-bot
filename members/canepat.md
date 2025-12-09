@@ -46,6 +46,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] []() - 2025-11-19
 * [Pull Request] []() - 2025-12-02
 * [Issue] [QA: add Caplin+Erigon in external mode configuration](https://github.com/erigontech/erigon/issues/18163) - 2025-12-04
+* [Issue] [Erigon 3.3.0 stuck at block 23,935,693 after invalid block](https://github.com/erigontech/erigon/issues/18213) - 2025-12-08
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: refactor WebSocket integration utilities (#468)](https://github.com/erigontech/rpc-tests/commit/4f415d317dc3637648781b043ac3b002aa209132) - 2025-10-02
 * [Pull Request] [integration: add test for debug_traceCall](https://github.com/erigontech/rpc-tests/pull/470) - 2025-10-03
@@ -55,6 +56,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration: input validation tests for eth_getStorageAt](https://github.com/erigontech/rpc-tests/pull/471) - 2025-10-04
 
 * [Pull Request] []() - 2025-12-06
+* [Pull Request] []() - 2025-12-08
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2025-10-16
 ## Q3 2025
