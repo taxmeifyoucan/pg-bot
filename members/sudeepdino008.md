@@ -63,6 +63,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [torrent file verification doesn't finish](https://github.com/erigontech/erigon/issues/18162) - 2025-12-04
 * [Issue] [temporaldb: add test for "if data in files, don't query db" property](https://github.com/erigontech/erigon/issues/18158) - 2025-12-04
 * [Issue] [snapshot reset dryrun mode doesn't show any files](https://github.com/erigontech/erigon/issues/18191) - 2025-12-05
+* [Issue] [stage_exec is broken](https://github.com/erigontech/erigon/issues/18227) - 2025-12-09
 ## Q3 2025
 
 

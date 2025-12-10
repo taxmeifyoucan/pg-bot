@@ -38,6 +38,8 @@ Team: Reth
 * [Pull Request] []() - 2025-11-15
 * [Issue] [Tracing performance degradation](https://github.com/paradigmxyz/reth/issues/20058) - 2025-12-01
 * [Issue] [Make TxPoolArgs defaults customizable](https://github.com/paradigmxyz/reth/issues/20098) - 2025-12-03
+* [Issue] [Use depot for Docker CI workflows](https://github.com/paradigmxyz/reth/issues/20239) - 2025-12-09
+* [Issue] [Use sccache in CI](https://github.com/paradigmxyz/reth/issues/20238) - 2025-12-09
 ## Q3 2025
 
 

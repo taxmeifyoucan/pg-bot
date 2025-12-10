@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Issue] [Reimplement UInt256.limbs fully in Big endian instead of Little endian](https://github.com/hyperledger/besu/issues/9475) - 2025-11-20
 
 * [Pull Request] []() - 2025-11-28
+* [Pull Request] []() - 2025-12-10
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] []() - 2025-11-27
 ## Q3 2025

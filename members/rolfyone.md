@@ -28,6 +28,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] []() - 2025-11-24
 * [Pull Request] []() - 2025-11-28
 * [Pull Request] []() - 2025-12-01
+* [Issue] [investigate falling back to v1 getPayload if the v2 fails](https://github.com/Consensys/teku/issues/10216) - 2025-12-09
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Issue] [segv when setting kzg-precompute to 15](https://github.com/ethereum/c-kzg-4844/issues/611) - 2025-10-28
 ## Q3 2025
