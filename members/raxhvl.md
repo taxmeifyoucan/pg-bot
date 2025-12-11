@@ -23,6 +23,8 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Issue] [chore: Rename `tx_index` to `bal_index` for `BlockAccessList`](https://github.com/ethereum/execution-specs/issues/1617) - 2025-10-16
 * [Issue] [Enforce strict field validation on critical pydantic model](https://github.com/ethereum/execution-specs/issues/1615) - 2025-10-16
 * [Pull Request] []() - 2025-12-07
+* [Issue] [EIP-7928 BAL does not record EIP-4788 timestamp read operation for invalid queries](https://github.com/ethereum/execution-specs/issues/1889) - 2025-12-10
+* [Issue] [EIP-7928 BAL does NOT include system contract addresss](https://github.com/ethereum/execution-specs/issues/1886) - 2025-12-10
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

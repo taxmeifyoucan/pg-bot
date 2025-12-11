@@ -18,6 +18,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add xdelta3 support for computing binary difference (#7664)](https://github.com/ChainSafe/lodestar/commit/fd5ad2a8c85e1dd45b8dbcec7f446d617366e013) - 2025-10-08
 * [Pull Request] []() - 2025-11-19
 * [Pull Request] []() - 2025-12-05
+* [Pull Request] []() - 2025-12-10
 ## Q3 2025
 
 

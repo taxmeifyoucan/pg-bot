@@ -29,6 +29,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] []() - 2025-11-24
 * [Issue] [Optimize json_infra collection when using `--tests-file`](https://github.com/ethereum/execution-specs/issues/1840) - 2025-12-03
 * [Issue] [Revisit how we implement glacier/bpo forks](https://github.com/ethereum/execution-specs/issues/1837) - 2025-12-03
+* [Issue] [Lint BPO forks in `ethereum-spec-lint`](https://github.com/ethereum/execution-specs/issues/1895) - 2025-12-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Update EIP-908: Fix typo (#10312)](https://github.com/ethereum/EIPs/commit/48785209991dcca4f1c8766027c3f3398d0e6f49) - 2025-10-07
 * [Commit] [Update EIP-7636: fix typo (#10271)](https://github.com/ethereum/EIPs/commit/474290ae07adefc880852700cee071596deb1695) - 2025-10-07

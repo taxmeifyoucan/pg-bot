@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Issue] [EIP-7843: SLOTNUM opcode](https://github.com/hyperledger/besu/issues/9541) - 2025-12-05
 * [Issue] [EIP-7708: ETH transfers emit a log](https://github.com/hyperledger/besu/issues/9540) - 2025-12-05
 * [Issue] [EIP-7778: Block Gas Accounting without Refunds](https://github.com/hyperledger/besu/issues/9539) - 2025-12-05
+* [Pull Request] []() - 2025-12-10
 ## Q3 2025
 
 

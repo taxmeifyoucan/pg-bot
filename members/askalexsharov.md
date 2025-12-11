@@ -95,6 +95,7 @@ Team: Erigon
 * [Issue] [grafana: `prune_stage_duration_secs` metric - don't see data](https://github.com/erigontech/erigon/issues/17724) - 2025-10-31
 * [Pull Request] []() - 2025-11-21
 * [Pull Request] []() - 2025-12-03
+* [Pull Request] []() - 2025-12-11
 ## Q3 2025
 
 

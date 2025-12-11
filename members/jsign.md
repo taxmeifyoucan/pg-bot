@@ -16,6 +16,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Issue] [zisk: server get's permanently down after some proving failure](https://github.com/eth-act/ere/issues/212) - 2025-11-18
 * [Issue] [SP1: unstable runs with 10M EEST tests](https://github.com/eth-act/ere/issues/222) - 2025-11-24
 
+* [Issue] [OpenVM: No multi-gpu support](https://github.com/eth-act/ere/issues/242) - 2025-12-10
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] []() - 2025-12-04
 

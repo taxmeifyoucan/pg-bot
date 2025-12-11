@@ -40,6 +40,8 @@ Team: Reth
 * [Issue] [Make TxPoolArgs defaults customizable](https://github.com/paradigmxyz/reth/issues/20098) - 2025-12-03
 * [Issue] [Use depot for Docker CI workflows](https://github.com/paradigmxyz/reth/issues/20239) - 2025-12-09
 * [Issue] [Use sccache in CI](https://github.com/paradigmxyz/reth/issues/20238) - 2025-12-09
+* [Issue] [Recover senders for imported network transactions in a blocking task](https://github.com/paradigmxyz/reth/issues/20271) - 2025-12-10
+* [Pull Request] []() - 2025-12-10
 ## Q3 2025
 
 

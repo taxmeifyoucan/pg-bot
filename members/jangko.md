@@ -31,6 +31,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Update test log](https://github.com/status-im/nimbus-eth1/commit/3eb951c900ea58e5ae21156ee9682cdbef1cc7eb) - 2025-10-11
 * [Pull Request] []() - 2025-10-15
 * [Pull Request] []() - 2025-10-23
+* [Pull Request] []() - 2025-12-10
 ## Q3 2025
 
 

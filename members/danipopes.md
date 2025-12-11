@@ -18,6 +18,7 @@ Team: Reth
 * [Pull Request] [perf: resize short addresses bitvec instead of reallocating](https://github.com/bluealloy/revm/pull/3083) - 2025-10-11
 * [Issue] [`memory_limit` cfg is not hooked up to `SharedMemory`](https://github.com/bluealloy/revm/issues/3127) - 2025-10-27
 * [Pull Request] []() - 2025-10-28
+* [Issue] [Cache CreateInputs::created_address](https://github.com/bluealloy/revm/issues/3217) - 2025-12-10
 ## Q3 2025
 
 

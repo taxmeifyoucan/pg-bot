@@ -50,6 +50,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Prysm loves Lighthouse and almost exclusively only Lighthouse](https://github.com/OffchainLabs/prysm/issues/16090) - 2025-12-03
 * [Issue] [Prysm may lose sync when `slot%2048==96`.](https://github.com/OffchainLabs/prysm/issues/16096) - 2025-12-04
 * [Issue] [(Pre-Fulu) Blobs are not pruned starting at Fulu](https://github.com/OffchainLabs/prysm/issues/16117) - 2025-12-09
+* [Issue] [Optimize the volume needed for blob storage](https://github.com/OffchainLabs/prysm/issues/16133) - 2025-12-10
+* [Issue] [Compress not fully filled blobs in storage](https://github.com/OffchainLabs/prysm/issues/16132) - 2025-12-10
 ## Q3 2025
 
 
