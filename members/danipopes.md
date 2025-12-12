@@ -14,6 +14,7 @@ Team: Reth
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [ci: cache zepter installation](https://github.com/paradigmxyz/reth/pull/18843) - 2025-10-02
 
+* [Pull Request] []() - 2025-12-11
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: resize short addresses bitvec instead of reallocating](https://github.com/bluealloy/revm/pull/3083) - 2025-10-11
 * [Issue] [`memory_limit` cfg is not hooked up to `SharedMemory`](https://github.com/bluealloy/revm/issues/3127) - 2025-10-27

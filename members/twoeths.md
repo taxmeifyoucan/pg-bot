@@ -40,6 +40,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Avoid accessing config, pubkey2index, index2pubkey from cached state](https://github.com/ChainSafe/lodestar/issues/8652) - 2025-12-02
 * [Issue] [Avoid accessing full beacon state in PrepareNextSlotScheduler](https://github.com/ChainSafe/lodestar/issues/8651) - 2025-12-02
 * [Issue] [Decouple beacon-node and state-transition](https://github.com/ChainSafe/lodestar/issues/8650) - 2025-12-02
+* [Pull Request] []() - 2025-12-11
 ## Q3 2025
 
 

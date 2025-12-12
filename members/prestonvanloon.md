@@ -19,6 +19,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
 * [Pull Request] []() - 2025-11-10
+* [Pull Request] []() - 2025-12-11
 ## Q3 2025
 
 

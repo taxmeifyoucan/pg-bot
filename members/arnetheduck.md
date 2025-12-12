@@ -25,6 +25,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] []() - 2025-11-05
 * [Pull Request] []() - 2025-12-10
+* [Pull Request] []() - 2025-12-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Testnet genesis state descriptions out of date](https://github.com/ethereum/consensus-specs/issues/4720) - 2025-11-02
 ## Q3 2025

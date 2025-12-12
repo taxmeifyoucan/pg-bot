@@ -24,6 +24,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] []() - 2025-11-24
 * [Issue] [Network configuration unit test downloading config from the web](https://github.com/Consensys/teku/issues/10195) - 2025-12-01
 * [Pull Request] []() - 2025-12-02
+* [Pull Request] []() - 2025-12-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-11-19
 * [Pull Request] []() - 2025-11-25

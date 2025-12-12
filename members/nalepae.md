@@ -52,6 +52,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [(Pre-Fulu) Blobs are not pruned starting at Fulu](https://github.com/OffchainLabs/prysm/issues/16117) - 2025-12-09
 * [Issue] [Optimize the volume needed for blob storage](https://github.com/OffchainLabs/prysm/issues/16133) - 2025-12-10
 * [Issue] [Compress not fully filled blobs in storage](https://github.com/OffchainLabs/prysm/issues/16132) - 2025-12-10
+* [Issue] [Lot of "replaying canonical blocks" using Prysm VC in REST mode](https://github.com/OffchainLabs/prysm/issues/16135) - 2025-12-11
 ## Q3 2025
 
 

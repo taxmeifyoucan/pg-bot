@@ -26,6 +26,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2025-11-27
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] []() - 2025-12-12
 ## Q3 2025
 
 

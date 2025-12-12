@@ -17,11 +17,13 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Issue] [SP1: unstable runs with 10M EEST tests](https://github.com/eth-act/ere/issues/222) - 2025-11-24
 
 * [Issue] [OpenVM: No multi-gpu support](https://github.com/eth-act/ere/issues/242) - 2025-12-10
+* [Issue] [zisk v0.14.0: particular fixture blocks the prover](https://github.com/eth-act/ere/issues/246) - 2025-12-11
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] []() - 2025-12-04
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] []() - 2025-12-05
+* [Pull Request] []() - 2025-12-11
 ## Q3 2025
 
 

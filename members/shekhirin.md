@@ -42,6 +42,7 @@ Team: Reth
 * [Issue] [Use sccache in CI](https://github.com/paradigmxyz/reth/issues/20238) - 2025-12-09
 * [Issue] [Recover senders for imported network transactions in a blocking task](https://github.com/paradigmxyz/reth/issues/20271) - 2025-12-10
 * [Pull Request] []() - 2025-12-10
+* [Issue] [Make RpcServerArgs defaults customizable](https://github.com/paradigmxyz/reth/issues/20305) - 2025-12-11
 ## Q3 2025
 
 
