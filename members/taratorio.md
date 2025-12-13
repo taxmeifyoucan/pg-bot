@@ -28,6 +28,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Fix flaky windows TestSetupGenesis due to mdmx paging file is too small for this operation to complete](https://github.com/erigontech/erigon/issues/17806) - 2025-11-07
 * [Pull Request] []() - 2025-11-26
 * [Issue] [shutter lost connections to keypers](https://github.com/erigontech/erigon/issues/18217) - 2025-12-09
+* [Issue] [fix hive devp2p eth suite failures](https://github.com/erigontech/erigon/issues/18285) - 2025-12-12
 ## Q3 2025
 
 

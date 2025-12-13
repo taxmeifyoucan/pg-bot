@@ -32,6 +32,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] []() - 2025-11-21
 * [Issue] [Sync may stall if SimpleSidecarRetriever's RPC calls fail](https://github.com/Consensys/teku/issues/10185) - 2025-11-28
 * [Pull Request] []() - 2025-12-10
+* [Pull Request] []() - 2025-12-12
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Invalid block on mainnet (`1.7.0`)](https://github.com/paradigmxyz/reth/issues/19322) - 2025-10-27
 ## Q3 2025

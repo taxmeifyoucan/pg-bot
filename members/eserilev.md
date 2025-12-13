@@ -25,6 +25,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] []() - 2025-11-22
 * [Issue] [Set trace sampling as the default behavior](https://github.com/sigp/lighthouse/issues/8554) - 2025-12-08
 * [Pull Request] []() - 2025-12-11
+* [Pull Request] []() - 2025-12-12
 ## Q3 2025
 
 

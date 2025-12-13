@@ -16,6 +16,7 @@ Team: [NethermindEth contributions](https://github.com/tanishqjasoria?org=Nether
 * [Commit] [update bflat](https://github.com/NethermindEth/nethermind/commit/5c018280240789c96a750c5ea0bf0853ba317356) - 2025-10-06
 * [Issue] [Allow serving snap requests for more than 128 blocks](https://github.com/NethermindEth/nethermind/issues/9601) - 2025-10-30
 * [Pull Request] []() - 2025-12-04
+* [Pull Request] []() - 2025-12-12
 ## Q3 2025
 
 

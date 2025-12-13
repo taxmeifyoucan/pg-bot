@@ -68,6 +68,7 @@ Team: Reth
 * [Issue] [Return error if toBlock exceeds the current height](https://github.com/paradigmxyz/reth/issues/20197) - 2025-12-08
 * [Issue] [Add support for debug_getBlockAccessList](https://github.com/paradigmxyz/reth/issues/20269) - 2025-12-10
 * [Issue] [Add BAL metrics types](https://github.com/paradigmxyz/reth/issues/20268) - 2025-12-10
+* [Pull Request] []() - 2025-12-12
 ## Q3 2025
 
 

@@ -25,6 +25,9 @@ Team: EthereumJS
 * [Pull Request] []() - 2025-12-02
 [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight)
 * [Pull Request] []() - 2025-10-30
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [eip7594 test: expected_exception mismatch](https://github.com/ethereum/execution-specs/issues/1916) - 2025-12-12
 ## Q2 2025
 
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)

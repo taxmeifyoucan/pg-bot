@@ -41,6 +41,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Avoid accessing full beacon state in PrepareNextSlotScheduler](https://github.com/ChainSafe/lodestar/issues/8651) - 2025-12-02
 * [Issue] [Decouple beacon-node and state-transition](https://github.com/ChainSafe/lodestar/issues/8650) - 2025-12-02
 * [Pull Request] []() - 2025-12-11
+* [Pull Request] []() - 2025-12-12
+* [Issue] [Refactor rewards api to prepare for lodestar-z integration](https://github.com/ChainSafe/lodestar/issues/8690) - 2025-12-12
 ## Q3 2025
 
 

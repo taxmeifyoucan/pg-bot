@@ -20,6 +20,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Issue] [Use our MSM for zkcrypto and arkworks3 backends](https://github.com/grandinetech/rust-kzg/issues/318) - 2025-11-10
 * [Pull Request] []() - 2025-11-21
 * [Pull Request] []() - 2025-11-27
+* [Pull Request] []() - 2025-12-12
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] []() - 2025-10-16
 * [Pull Request] []() - 2025-10-30
