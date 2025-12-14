@@ -69,6 +69,7 @@ Team: Reth
 * [Issue] [Add support for debug_getBlockAccessList](https://github.com/paradigmxyz/reth/issues/20269) - 2025-12-10
 * [Issue] [Add BAL metrics types](https://github.com/paradigmxyz/reth/issues/20268) - 2025-12-10
 * [Pull Request] []() - 2025-12-12
+* [Issue] [Add hardfork activation event printout](https://github.com/paradigmxyz/reth/issues/20350) - 2025-12-13
 ## Q3 2025
 
 
