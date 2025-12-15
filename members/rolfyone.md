@@ -31,6 +31,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [investigate falling back to v1 getPayload if the v2 fails](https://github.com/Consensys/teku/issues/10216) - 2025-12-09
 * [Issue] [concurrentModificationException in batch sync - `onNewPreImportBlocks`](https://github.com/Consensys/teku/issues/10223) - 2025-12-10
 * [Pull Request] []() - 2025-12-13
+* [Issue] [[HOUSEKEEPING] cleanup CLI and old structures from reworked recovery task post 26.1.0](https://github.com/Consensys/teku/issues/10237) - 2025-12-14
+* [Pull Request] []() - 2025-12-14
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Issue] [segv when setting kzg-precompute to 15](https://github.com/ethereum/c-kzg-4844/issues/611) - 2025-10-28
 ## Q3 2025

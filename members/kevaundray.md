@@ -36,6 +36,9 @@ Team: Consensus R&D (EF)
 
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Issue] [Tracker for RV64IM-None support](https://github.com/eth-act/ere/issues/232) - 2025-11-30
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [Improve latency for serving ExecutionWitness via `debug_executionWitness`](https://github.com/paradigmxyz/reth/issues/20365) - 2025-12-14
 ## Q3 2025
 
 
