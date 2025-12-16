@@ -21,6 +21,7 @@ Team: Erigon
 * [Issue] [Bug in EpochData marshalling in Antiquary](https://github.com/erigontech/erigon/issues/17476) - 2025-10-15
 * [Pull Request] []() - 2025-10-23
 * [Pull Request] []() - 2025-10-29
+* [Pull Request] []() - 2025-12-15
 ## Q3 2025
 
 

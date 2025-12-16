@@ -46,6 +46,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [`debug_getRawBlock` returning truncated block in Frontier](https://github.com/paradigmxyz/reth/issues/20038) - 2025-11-28
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [AllWalletDevs, call #37, January 21, 2026](https://github.com/ethereum/pm/issues/1846) - 2025-12-15
 ## Q3 2025
 
 

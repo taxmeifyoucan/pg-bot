@@ -29,6 +29,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] []() - 2025-11-26
 * [Issue] [shutter lost connections to keypers](https://github.com/erigontech/erigon/issues/18217) - 2025-12-09
 * [Issue] [fix hive devp2p eth suite failures](https://github.com/erigontech/erigon/issues/18285) - 2025-12-12
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] []() - 2025-12-15
 ## Q3 2025
 
 

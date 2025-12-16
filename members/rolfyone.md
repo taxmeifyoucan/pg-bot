@@ -33,6 +33,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] []() - 2025-12-13
 * [Issue] [[HOUSEKEEPING] cleanup CLI and old structures from reworked recovery task post 26.1.0](https://github.com/Consensys/teku/issues/10237) - 2025-12-14
 * [Pull Request] []() - 2025-12-14
+* [Pull Request] []() - 2025-12-15
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Issue] [segv when setting kzg-precompute to 15](https://github.com/ethereum/c-kzg-4844/issues/611) - 2025-10-28
 ## Q3 2025

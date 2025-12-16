@@ -36,6 +36,15 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Issue] [Fix eest eip7594_peerdas/test_max_blob_per_tx](https://github.com/paradigmxyz/reth/issues/18975) - 2025-10-13
 * [Pull Request] []() - 2025-10-20
 * [Issue] [Add example for custom chain hardforks](https://github.com/paradigmxyz/reth/issues/19285) - 2025-10-24
+* [Issue] [Add CLI flags to enable RocksDB storage](https://github.com/paradigmxyz/reth/issues/20393) - 2025-12-15
+* [Issue] [Initialize RocksDB provider and add consistency check on startup](https://github.com/paradigmxyz/reth/issues/20392) - 2025-12-15
+* [Issue] [Implement unwind for RocksDB in `TransactionLookupStage` and `IndexStorageHistoryStage`](https://github.com/paradigmxyz/reth/issues/20391) - 2025-12-15
+* [Issue] [Modify IndexStorageHistoryStage to use `EitherWriter` for RocksDB writes](https://github.com/paradigmxyz/reth/issues/20390) - 2025-12-15
+* [Issue] [Modify TransactionLookupStage to use `EitherWriter` for RocksDB writes](https://github.com/paradigmxyz/reth/issues/20389) - 2025-12-15
+* [Issue] [Use EitherReader/EitherWriter in DatabaseProvider and HistoricalStateProvider](https://github.com/paradigmxyz/reth/issues/20388) - 2025-12-15
+* [Issue] [Implement EitherWriter/EitherReader methods for RocksDB](https://github.com/paradigmxyz/reth/issues/20387) - 2025-12-15
+* [Issue] [Register column families at RocksDB initialization](https://github.com/paradigmxyz/reth/issues/20386) - 2025-12-15
+* [Issue] [Wire up RocksDB for TransactionHashNumbers and StoragesHistory tables](https://github.com/paradigmxyz/reth/issues/20384) - 2025-12-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Federico Gimenez 1 -> 0.5](https://github.com/protocolguild/documentation/pull/430) - 2025-10-04
 

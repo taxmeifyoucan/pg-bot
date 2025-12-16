@@ -36,6 +36,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [Missing values in `/eth/v1/config/spec`](https://github.com/sigp/lighthouse/issues/8571) - 2025-12-12
+* [Pull Request] []() - 2025-12-15
+* [Issue] [Columns pruned within boundary finalization bug](https://github.com/sigp/lighthouse/issues/8583) - 2025-12-15
 ## Q3 2025
 
 

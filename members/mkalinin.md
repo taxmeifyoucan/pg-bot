@@ -16,6 +16,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 * [Pull Request] []() - 2025-12-05
 * [Pull Request] []() - 2025-12-08
+* [Pull Request] []() - 2025-12-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-10-30
 
