@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] []() - 2025-11-04
 * [Pull Request] []() - 2025-11-25
 
+* [Pull Request] []() - 2025-12-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2025-11-27
 

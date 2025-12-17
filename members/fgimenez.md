@@ -45,6 +45,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Issue] [Implement EitherWriter/EitherReader methods for RocksDB](https://github.com/paradigmxyz/reth/issues/20387) - 2025-12-15
 * [Issue] [Register column families at RocksDB initialization](https://github.com/paradigmxyz/reth/issues/20386) - 2025-12-15
 * [Issue] [Wire up RocksDB for TransactionHashNumbers and StoragesHistory tables](https://github.com/paradigmxyz/reth/issues/20384) - 2025-12-15
+* [Issue] [Create E2E test to verify RocksDB provider functionality](https://github.com/paradigmxyz/reth/issues/20424) - 2025-12-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Federico Gimenez 1 -> 0.5](https://github.com/protocolguild/documentation/pull/430) - 2025-10-04
 

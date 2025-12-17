@@ -34,6 +34,7 @@ Team: Erigon
 * [Pull Request] []() - 2025-11-18
 * [Issue] [Investigate Erigon crash on recent RPC perf test](https://github.com/erigontech/erigon/issues/17975) - 2025-11-19
 * [Issue] [tip-tracking: detect Erigon inactivity and break the test](https://github.com/erigontech/erigon/issues/17994) - 2025-11-20
+* [Pull Request] []() - 2025-12-16
 ## Q3 2025
 
 

@@ -44,6 +44,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: revendor protos with changes - made tweaks](https://github.com/ethpandaops/lab/pull/120) - 2025-10-10
 
 * [Pull Request] []() - 2025-12-03
+* [Pull Request] []() - 2025-12-16
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] []() - 2025-11-04
 * [Pull Request] []() - 2025-11-13

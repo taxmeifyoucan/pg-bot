@@ -43,6 +43,16 @@ Team: Reth
 * [Issue] [Recover senders for imported network transactions in a blocking task](https://github.com/paradigmxyz/reth/issues/20271) - 2025-12-10
 * [Pull Request] []() - 2025-12-10
 * [Issue] [Make RpcServerArgs defaults customizable](https://github.com/paradigmxyz/reth/issues/20305) - 2025-12-11
+* [Issue] [Measure and maybe cache precompile cache initialization in payload execution](https://github.com/paradigmxyz/reth/issues/20439) - 2025-12-16
+* [Issue] [Remove fork detection logic in insert_block](https://github.com/paradigmxyz/reth/issues/20438) - 2025-12-16
+* [Issue] [Arc execution output state to avoid cloning in caching](https://github.com/paradigmxyz/reth/issues/20437) - 2025-12-16
+* [Issue] [Add missing comments and fix incorrect documentation](https://github.com/paradigmxyz/reth/issues/20436) - 2025-12-16
+* [Issue] [Deduplicate state_provider_builder calls in payload validator](https://github.com/paradigmxyz/reth/issues/20435) - 2025-12-16
+* [Issue] [Pre-calculate keccak hashes for transaction addresses at newPayload start](https://github.com/paradigmxyz/reth/issues/20434) - 2025-12-16
+* [Issue] [Share current transaction index between execution and prewarming](https://github.com/paradigmxyz/reth/issues/20433) - 2025-12-16
+* [Issue] [Investigate cloning MDBX transaction in state provider builder](https://github.com/paradigmxyz/reth/issues/20432) - 2025-12-16
+* [Issue] [Improve transaction handling in payload processing](https://github.com/paradigmxyz/reth/issues/20431) - 2025-12-16
+* [Issue] [Add thread names for spawned blocking tasks](https://github.com/paradigmxyz/reth/issues/20430) - 2025-12-16
 ## Q3 2025
 
 

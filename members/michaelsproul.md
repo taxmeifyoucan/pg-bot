@@ -33,6 +33,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 * [Issue] [Reduce number of `spawn`s in VC attestation service](https://github.com/sigp/lighthouse/issues/8520) - 2025-12-03
 * [Pull Request] []() - 2025-12-02
+* [Issue] [Gloas TODO tracking issue](https://github.com/sigp/lighthouse/issues/8590) - 2025-12-16
+* [Issue] [Remove `GloasNotImplemented` error once Gloas is implemented](https://github.com/sigp/lighthouse/issues/8589) - 2025-12-16
+* [Issue] [Update beacon block streamer tests for Gloas](https://github.com/sigp/lighthouse/issues/8588) - 2025-12-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [No tests for SSZ union type](https://github.com/ethereum/consensus-specs/issues/4763) - 2025-12-01
 ## Q3 2025

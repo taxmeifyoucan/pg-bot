@@ -43,6 +43,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2025-12-11
 * [Pull Request] []() - 2025-12-12
 * [Issue] [Refactor rewards api to prepare for lodestar-z integration](https://github.com/ChainSafe/lodestar/issues/8690) - 2025-12-12
+* [Pull Request] []() - 2025-12-16
+* [Issue] [Decouple lodestar and @chainsafe/blst](https://github.com/ChainSafe/lodestar/issues/8695) - 2025-12-16
 ## Q3 2025
 
 

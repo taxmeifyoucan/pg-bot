@@ -13,6 +13,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] []() - 2025-12-09
+* [Issue] [Dashboard Update - Display which validator indices are connected to a running node](https://github.com/ChainSafe/lodestar/issues/8698) - 2025-12-16
 ## Q3 2025
 
 

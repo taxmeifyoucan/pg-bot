@@ -54,6 +54,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] []() - 2025-12-02
 * [Issue] [Configurable tx validation](https://github.com/bluealloy/revm/issues/3215) - 2025-12-08
 * [Pull Request] []() - 2025-12-10
+* [Pull Request] []() - 2025-12-16
 ## Q3 2025
 
 

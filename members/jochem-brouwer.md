@@ -34,6 +34,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 * [Pull Request] []() - 2025-12-04
 * [Issue] [Benchmarks: implement non-parallelizable benchmarks for split transactions](https://github.com/ethereum/execution-specs/issues/1881) - 2025-12-10
+* [Pull Request] []() - 2025-12-16
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
 * [Pull Request] []() - 2025-11-17
 ## Q3 2025

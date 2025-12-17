@@ -53,6 +53,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Optimize the volume needed for blob storage](https://github.com/OffchainLabs/prysm/issues/16133) - 2025-12-10
 * [Issue] [Compress not fully filled blobs in storage](https://github.com/OffchainLabs/prysm/issues/16132) - 2025-12-10
 * [Issue] [Lot of "replaying canonical blocks" using Prysm VC in REST mode](https://github.com/OffchainLabs/prysm/issues/16135) - 2025-12-11
+* [Pull Request] []() - 2025-12-16
 ## Q3 2025
 
 
