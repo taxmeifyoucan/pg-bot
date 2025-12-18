@@ -38,6 +38,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Update beacon block streamer tests for Gloas](https://github.com/sigp/lighthouse/issues/8588) - 2025-12-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [No tests for SSZ union type](https://github.com/ethereum/consensus-specs/issues/4763) - 2025-12-01
+* [Issue] [Bug in tree hash root tests for `ProgressiveBitList`](https://github.com/ethereum/consensus-specs/issues/4795) - 2025-12-17
 ## Q3 2025
 
 

@@ -65,6 +65,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [snapshot reset dryrun mode doesn't show any files](https://github.com/erigontech/erigon/issues/18191) - 2025-12-05
 * [Issue] [stage_exec is broken](https://github.com/erigontech/erigon/issues/18227) - 2025-12-09
 * [Issue] [add caplin state snapshots to `seg index` command](https://github.com/erigontech/erigon/issues/18265) - 2025-12-11
+* [Pull Request] []() - 2025-12-18
 ## Q3 2025
 
 

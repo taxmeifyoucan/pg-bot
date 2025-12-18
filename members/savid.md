@@ -33,6 +33,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2025-12-12
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Pull Request] []() - 2025-12-18
 ## Q3 2025
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)

@@ -45,6 +45,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] []() - 2025-12-03
 * [Pull Request] []() - 2025-12-16
+* [Pull Request] []() - 2025-12-18
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] []() - 2025-11-04
 * [Pull Request] []() - 2025-11-13

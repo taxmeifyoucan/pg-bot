@@ -53,6 +53,9 @@ Team: Reth
 * [Issue] [Investigate cloning MDBX transaction in state provider builder](https://github.com/paradigmxyz/reth/issues/20432) - 2025-12-16
 * [Issue] [Improve transaction handling in payload processing](https://github.com/paradigmxyz/reth/issues/20431) - 2025-12-16
 * [Issue] [Add thread names for spawned blocking tasks](https://github.com/paradigmxyz/reth/issues/20430) - 2025-12-16
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] []() - 2025-12-17
 ## Q3 2025
 
 
