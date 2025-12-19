@@ -35,6 +35,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] []() - 2025-12-12
 * [Issue] [`DataColumnSidecarPruner` should update EarliestAvailableDataColumnSlot](https://github.com/Consensys/teku/issues/10246) - 2025-12-16
 * [Issue] [`StatusMessageFactory::updateEarliestAvailableSlot` not going earlier than DA window lower bound](https://github.com/Consensys/teku/issues/10245) - 2025-12-16
+* [Issue] [Add an AT for getBlobs api with download feature enabled](https://github.com/Consensys/teku/issues/10252) - 2025-12-18
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Invalid block on mainnet (`1.7.0`)](https://github.com/paradigmxyz/reth/issues/19322) - 2025-10-27
 ## Q3 2025

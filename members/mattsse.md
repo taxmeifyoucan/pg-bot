@@ -70,6 +70,7 @@ Team: Reth
 * [Issue] [Add BAL metrics types](https://github.com/paradigmxyz/reth/issues/20268) - 2025-12-10
 * [Pull Request] []() - 2025-12-12
 * [Issue] [Add hardfork activation event printout](https://github.com/paradigmxyz/reth/issues/20350) - 2025-12-13
+* [Issue] [Make write_block_bodies operate on &Body](https://github.com/paradigmxyz/reth/issues/20503) - 2025-12-18
 ## Q3 2025
 
 

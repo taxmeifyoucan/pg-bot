@@ -20,6 +20,7 @@ Team: Geth
 * [Pull Request] []() - 2025-11-26
 * [Pull Request] []() - 2025-12-09
 * [Pull Request] []() - 2025-12-10
+* [Pull Request] []() - 2025-12-18
 ## Q3 2025
 
 

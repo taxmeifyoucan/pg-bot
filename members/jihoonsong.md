@@ -24,3 +24,4 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Issue] [FOCIL Breakout #23, November 4, 2025](https://github.com/ethereum/pm/issues/1793) - 2025-11-04
 * [Issue] [FOCIL Breakout #24, December 2, 2025](https://github.com/ethereum/pm/issues/1811) - 2025-11-17
 * [Issue] [FOCIL Breakout #25, December 16, 2025](https://github.com/ethereum/pm/issues/1845) - 2025-12-15
+* [Issue] [FOCIL Breakout #26, January 13, 2026](https://github.com/ethereum/pm/issues/1848) - 2025-12-18

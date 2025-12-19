@@ -21,6 +21,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] []() - 2025-11-20
 * [Issue] [Implement EVM arithmetic operations using the new UInt256 implementation](https://github.com/hyperledger/besu/issues/9472) - 2025-11-20
 * [Pull Request] []() - 2025-12-02
+* [Issue] [Reduce memory usage of debug_trace* calls](https://github.com/hyperledger/besu/issues/9584) - 2025-12-18
 ## Q3 2025
 
 

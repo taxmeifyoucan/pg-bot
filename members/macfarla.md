@@ -49,6 +49,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] []() - 2025-11-07
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2025-11-04
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] []() - 2025-12-18
 ## Q3 2025
 
 

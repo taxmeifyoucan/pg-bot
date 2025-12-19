@@ -45,6 +45,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Build provenance and SBOM attestations for images](https://github.com/ChainSafe/lodestar/issues/8610) - 2025-11-05
 * [Pull Request] []() - 2025-11-26
 * [Pull Request] []() - 2025-12-17
+* [Pull Request] []() - 2025-12-18
 ## Q3 2025
 
 

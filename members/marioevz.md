@@ -42,6 +42,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] []() - 2025-12-09
 * [Issue] [Better abstraction in T8N class in `src/ethereum_spec_tools/evm_tools/t8n/__init__.py`](https://github.com/ethereum/execution-specs/issues/1883) - 2025-12-10
 * [Issue] [EIP-7805 Implementation Tracker: FOCIL](https://github.com/ethereum/execution-specs/issues/1900) - 2025-12-11
+* [Issue] [EIP-7981 Implementation Tracker: Increase access list cost](https://github.com/ethereum/execution-specs/issues/1943) - 2025-12-18
+* [Issue] [EIP-7976 Implementation Tracker: Increase Calldata Floor Cost](https://github.com/ethereum/execution-specs/issues/1942) - 2025-12-18
+* [Issue] [EIP-8038 Implementation Tracker: State-access gas cost update](https://github.com/ethereum/execution-specs/issues/1941) - 2025-12-18
+* [Issue] [EIP-2780 Implementation Tracker: Reduce intrinsic transaction gas](https://github.com/ethereum/execution-specs/issues/1940) - 2025-12-18
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [type(tests): convert create suicide during init (#1871)](https://github.com/ethereum/execution-spec-tests/commit/28ca6decef374908e7e18e4cf4e5a500a9834866) - 2025-10-02
 * [Commit] [refactor(tests): add checklist marker for eip7823 (#2115)](https://github.com/ethereum/execution-spec-tests/commit/110b5d4ae9d6c07a4ae2d5e9a2822652b0ae6172) - 2025-10-02
