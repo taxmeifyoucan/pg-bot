@@ -26,6 +26,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Issue] [SIGSEGV in init sync](https://github.com/OffchainLabs/prysm/issues/16125) - 2025-12-10
 * [Pull Request] []() - 2025-12-13
 * [Pull Request] []() - 2025-12-15
+* [Pull Request] []() - 2025-12-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-11-07
 * [Pull Request] []() - 2025-11-08

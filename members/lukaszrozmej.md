@@ -36,6 +36,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [Restrict IPC socket to owner-only mode if set](https://github.com/NethermindEth/nethermind/pull/9449) - 2025-10-13
 
 * [Pull Request] []() - 2025-12-03
+* [Pull Request] []() - 2025-12-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-10-31
 ## Q3 2025

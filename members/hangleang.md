@@ -34,6 +34,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] []() - 2025-12-04
 * [Pull Request] []() - 2025-12-16
 * [Pull Request] []() - 2025-12-17
+* [Pull Request] []() - 2025-12-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2025-11-13
 * [Pull Request] []() - 2025-12-09
