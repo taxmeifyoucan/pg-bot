@@ -25,6 +25,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] []() - 2025-11-29
 * [Pull Request] []() - 2025-12-09
 * [Pull Request] []() - 2025-12-17
+* [Pull Request] []() - 2025-12-20
 ## Q3 2025
 
 

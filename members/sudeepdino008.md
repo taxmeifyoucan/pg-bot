@@ -66,6 +66,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [stage_exec is broken](https://github.com/erigontech/erigon/issues/18227) - 2025-12-09
 * [Issue] [add caplin state snapshots to `seg index` command](https://github.com/erigontech/erigon/issues/18265) - 2025-12-11
 * [Pull Request] []() - 2025-12-18
+* [Pull Request] []() - 2025-12-20
 ## Q3 2025
 
 

@@ -39,6 +39,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] []() - 2025-12-08
 * [Pull Request] []() - 2025-12-09
 * [Pull Request] []() - 2025-12-19
+* [Pull Request] []() - 2025-12-20
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] []() - 2025-11-10
 * [Pull Request] []() - 2025-11-14
