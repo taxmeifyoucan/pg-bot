@@ -71,6 +71,7 @@ Team: Reth
 * [Pull Request] []() - 2025-12-12
 * [Issue] [Add hardfork activation event printout](https://github.com/paradigmxyz/reth/issues/20350) - 2025-12-13
 * [Issue] [Make write_block_bodies operate on &Body](https://github.com/paradigmxyz/reth/issues/20503) - 2025-12-18
+* [Pull Request] []() - 2025-12-23
 ## Q3 2025
 
 

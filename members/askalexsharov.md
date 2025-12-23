@@ -96,6 +96,7 @@ Team: Erigon
 * [Pull Request] []() - 2025-11-21
 * [Pull Request] []() - 2025-12-03
 * [Pull Request] []() - 2025-12-11
+* [Pull Request] []() - 2025-12-22
 ## Q3 2025
 
 

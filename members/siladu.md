@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] []() - 2025-10-23
 * [Pull Request] []() - 2025-11-17
 
+* [Pull Request] []() - 2025-12-22
 [nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
 * [Pull Request] []() - 2025-12-01
 * [Pull Request] []() - 2025-12-10

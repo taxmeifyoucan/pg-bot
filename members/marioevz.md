@@ -46,6 +46,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [EIP-7976 Implementation Tracker: Increase Calldata Floor Cost](https://github.com/ethereum/execution-specs/issues/1942) - 2025-12-18
 * [Issue] [EIP-8038 Implementation Tracker: State-access gas cost update](https://github.com/ethereum/execution-specs/issues/1941) - 2025-12-18
 * [Issue] [EIP-2780 Implementation Tracker: Reduce intrinsic transaction gas](https://github.com/ethereum/execution-specs/issues/1940) - 2025-12-18
+* [Pull Request] []() - 2025-12-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [type(tests): convert create suicide during init (#1871)](https://github.com/ethereum/execution-spec-tests/commit/28ca6decef374908e7e18e4cf4e5a500a9834866) - 2025-10-02
 * [Commit] [refactor(tests): add checklist marker for eip7823 (#2115)](https://github.com/ethereum/execution-spec-tests/commit/110b5d4ae9d6c07a4ae2d5e9a2822652b0ae6172) - 2025-10-02

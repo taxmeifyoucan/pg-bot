@@ -41,6 +41,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [nec_sync_peers / buddy.ctx.pool.nBuddies value much higher than amount of rlpx peers connected](https://github.com/status-im/nimbus-eth1/issues/3823) - 2025-11-10
 * [Pull Request] []() - 2025-12-03
 * [Pull Request] []() - 2025-12-18
+* [Pull Request] []() - 2025-12-22
 ## Q3 2025
 
 
