@@ -31,6 +31,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [refactor: massive frontend changes](https://github.com/ethpandaops/lab/pull/121) - 2025-10-10
 * [Pull Request] []() - 2025-10-24
 
+* [Pull Request] []() - 2025-12-23
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2025-12-12
 

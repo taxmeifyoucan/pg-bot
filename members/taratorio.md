@@ -32,6 +32,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2025-12-15
+* [Pull Request] []() - 2025-12-23
 ## Q3 2025
 
 

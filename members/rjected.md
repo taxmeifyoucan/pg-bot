@@ -38,6 +38,7 @@ Team: Reth
 * [Issue] [Add `EitherWriterDestination::RocksDB`](https://github.com/paradigmxyz/reth/issues/20280) - 2025-12-11
 * [Issue] [Add `RocksDB` variant to `EitherWriter`](https://github.com/paradigmxyz/reth/issues/20279) - 2025-12-11
 * [Issue] [Add `RocksDB` variant to `EitherReader`](https://github.com/paradigmxyz/reth/issues/20278) - 2025-12-11
+* [Issue] [Add metrics for `ForkchoiceStateTracker` state](https://github.com/paradigmxyz/reth/issues/20621) - 2025-12-23
 ## Q3 2025
 
 

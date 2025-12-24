@@ -19,6 +19,9 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] []() - 2025-12-01
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] []() - 2025-12-23
 ## Q3 2025
 
 

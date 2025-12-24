@@ -34,6 +34,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Remove quick fail when running Hive tests (#9426)](https://github.com/NethermindEth/nethermind/commit/8cea3fc2f2deb3696d9c4dbe7e14c6ebe912f424) - 2025-10-08
 
 * [Pull Request] []() - 2025-11-05
+* [Pull Request] []() - 2025-12-23
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2025-10-27
 

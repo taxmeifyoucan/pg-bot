@@ -56,6 +56,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Remove MiningServer](https://github.com/erigontech/erigon/issues/17815) - 2025-11-07
 * [Issue] [Simplify rlp.*ExcludingHead functions](https://github.com/erigontech/erigon/issues/17876) - 2025-11-13
 * [Pull Request] []() - 2025-12-05
+* [Pull Request] []() - 2025-12-23
 ## Q3 2025
 
 
