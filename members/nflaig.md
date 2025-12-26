@@ -48,6 +48,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2025-12-18
 * [Pull Request] []() - 2025-12-19
 * [Pull Request] []() - 2025-12-22
+* [Pull Request] []() - 2025-12-25
 ## Q3 2025
 
 

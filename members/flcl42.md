@@ -35,6 +35,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 * [Pull Request] []() - 2025-11-05
 * [Pull Request] []() - 2025-12-23
+* [Pull Request] []() - 2025-12-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2025-10-27
 

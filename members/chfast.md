@@ -29,6 +29,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [Port evmone test cases](https://github.com/ethereum/execution-specs/issues/1470) - 2025-10-09
 * [Issue] [Analysis of Osaka test coverage based on evmone implementation](https://github.com/ethereum/execution-specs/issues/1614) - 2025-10-16
 * [Pull Request] []() - 2025-12-23
+* [Pull Request] []() - 2025-12-25
 ## Q3 2025
 
 
