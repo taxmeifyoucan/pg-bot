@@ -36,6 +36,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Move Forest storage system into a plugin](https://github.com/hyperledger/besu/issues/9447) - 2025-11-18
 * [Issue] [RPC Stack Refactor](https://github.com/hyperledger/besu/issues/9476) - 2025-11-20
 * [Issue] [attacknet - investigate as a tool to find bugs in besu](https://github.com/hyperledger/besu/issues/9525) - 2025-12-02
+* [Pull Request] []() - 2025-12-27
+* [Issue] [EndOfRLPException should be treated as invalid packet in peer discovery](https://github.com/hyperledger/besu/issues/9596) - 2025-12-27
 ## Q3 2025
 
 
