@@ -43,6 +43,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add OutputCache to metrics endpoint (#9139)](https://github.com/NethermindEth/nethermind/commit/026fa2bed0f0ec331944263daa15e8322466d440) - 2025-10-13
 
 * [Pull Request] []() - 2025-10-29
+* [Pull Request] []() - 2025-12-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-10-23
 * [Pull Request] []() - 2025-10-24

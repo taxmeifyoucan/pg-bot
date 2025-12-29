@@ -73,6 +73,7 @@ Team: Reth
 * [Issue] [Make write_block_bodies operate on &Body](https://github.com/paradigmxyz/reth/issues/20503) - 2025-12-18
 * [Pull Request] []() - 2025-12-23
 * [Pull Request] []() - 2025-12-24
+* [Pull Request] []() - 2025-12-28
 ## Q3 2025
 
 
