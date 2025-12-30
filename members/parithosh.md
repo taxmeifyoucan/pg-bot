@@ -13,6 +13,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #58, Oct 20, 2025](https://github.com/ethereum/pm/issues/1769) - 2025-10-17
+
+[nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
+* [Pull Request] []() - 2025-12-29
 ## Q3 2025
 
 

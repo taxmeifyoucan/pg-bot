@@ -19,6 +19,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Issue] [OpenVM: No multi-gpu support](https://github.com/eth-act/ere/issues/242) - 2025-12-10
 * [Issue] [zisk v0.14.0: particular fixture blocks the prover](https://github.com/eth-act/ere/issues/246) - 2025-12-11
 * [Issue] [airbender: deadlocks on heavy blocks](https://github.com/eth-act/ere/issues/253) - 2025-12-19
+* [Pull Request] []() - 2025-12-29
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] []() - 2025-12-04
 

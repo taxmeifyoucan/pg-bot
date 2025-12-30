@@ -57,6 +57,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Simplify rlp.*ExcludingHead functions](https://github.com/erigontech/erigon/issues/17876) - 2025-11-13
 * [Pull Request] []() - 2025-12-05
 * [Pull Request] []() - 2025-12-23
+* [Issue] [Flaky TestTraceKey_LargeVals](https://github.com/erigontech/erigon/issues/18493) - 2025-12-29
 ## Q3 2025
 
 

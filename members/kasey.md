@@ -32,6 +32,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
 * [Pull Request] []() - 2025-12-02
+* [Pull Request] []() - 2025-12-29
 ## Q3 2025
 
 

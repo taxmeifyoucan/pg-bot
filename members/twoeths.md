@@ -46,6 +46,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2025-12-16
 * [Issue] [Decouple lodestar and @chainsafe/blst](https://github.com/ChainSafe/lodestar/issues/8695) - 2025-12-16
 * [Issue] [Simplify closestJustifiedBalancesStateToCheckpoint](https://github.com/ChainSafe/lodestar/issues/8717) - 2025-12-26
+* [Pull Request] []() - 2025-12-29
 ## Q3 2025
 
 
