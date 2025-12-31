@@ -17,6 +17,9 @@ Team: Consensus R&D (EF)
 * [Pull Request] []() - 2025-11-13
 * [Pull Request] []() - 2025-11-14
 * [Pull Request] []() - 2025-11-20
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] []() - 2025-12-30
 ## Q3 2025
 
 

@@ -19,6 +19,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka)
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
 * [Pull Request] []() - 2025-11-17
 * [Pull Request] []() - 2025-12-23
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] []() - 2025-12-30
 ## Q3 2025
 
 

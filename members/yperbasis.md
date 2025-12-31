@@ -58,6 +58,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] []() - 2025-12-05
 * [Pull Request] []() - 2025-12-23
 * [Issue] [Flaky TestTraceKey_LargeVals](https://github.com/erigontech/erigon/issues/18493) - 2025-12-29
+* [Pull Request] []() - 2025-12-30
 ## Q3 2025
 
 

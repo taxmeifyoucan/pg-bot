@@ -79,6 +79,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] []() - 2025-11-16
 
 * [Issue] [Augment `BenchmarkTestFiller` with opcode under test and its expected count](https://github.com/ethereum/execution-specs/issues/1835) - 2025-12-03
+* [Issue] [Review and remove (or port?) static transient storage test cases](https://github.com/ethereum/execution-specs/issues/1957) - 2025-12-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2025-11-19
 ## Q3 2025

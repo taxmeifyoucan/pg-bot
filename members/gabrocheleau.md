@@ -45,6 +45,7 @@ Team: EthereumJS
 
 * [Pull Request] []() - 2025-11-13
 * [Pull Request] []() - 2025-11-28
+* [Pull Request] []() - 2025-12-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementers Call #44, October 20th, 2025](https://github.com/ethereum/pm/issues/1770) - 2025-10-17
 * [Issue] [Stateless Implementers Call #45, November 3rd, 2025](https://github.com/ethereum/pm/issues/1773) - 2025-10-20
