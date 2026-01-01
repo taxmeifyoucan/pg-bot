@@ -76,6 +76,7 @@ Team: Reth
 * [Pull Request] []() - 2025-12-28
 * [Pull Request] []() - 2025-12-30
 * [Issue] [Optimize  send_raw_transaction_sync receipts fetching](https://github.com/paradigmxyz/reth/issues/20681) - 2025-12-30
+* [Issue] [Optimize evm_env if header is available](https://github.com/paradigmxyz/reth/issues/20690) - 2025-12-31
 ## Q3 2025
 
 

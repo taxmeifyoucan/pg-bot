@@ -67,6 +67,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [add caplin state snapshots to `seg index` command](https://github.com/erigontech/erigon/issues/18265) - 2025-12-11
 * [Pull Request] []() - 2025-12-18
 * [Pull Request] []() - 2025-12-20
+* [Pull Request] []() - 2025-12-31
 ## Q3 2025
 
 
