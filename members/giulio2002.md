@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q1 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] []() - 2026-01-02
 ## Q4 2025
 
 
