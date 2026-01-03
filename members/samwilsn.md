@@ -8,6 +8,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] []() - 2026-01-02
 ## Q4 2025
 
 

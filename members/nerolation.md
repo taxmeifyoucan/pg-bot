@@ -8,6 +8,11 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [EIP-7928 Breakout #10, Jan 14, 2026](https://github.com/ethereum/pm/issues/1857) - 2026-01-02
 ## Q4 2025
 
 
