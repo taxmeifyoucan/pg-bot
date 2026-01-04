@@ -13,6 +13,9 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP Editing Office Hour (EIP + ERC) Meeting #83, Jan 06, 2026](https://github.com/ethereum/pm/issues/1856) - 2026-01-01
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] []() - 2026-01-03
 ## Q4 2025
 
 
