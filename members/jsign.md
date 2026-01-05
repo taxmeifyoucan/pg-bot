@@ -8,6 +8,11 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 ## Contributions
 
+## Q1 2026
+
+
+[eth-act/ere](https://github.com/eth-act/ere)
+* [Pull Request] []() - 2026-01-04
 ## Q4 2025
 
 
