@@ -8,6 +8,11 @@ Team: Reth
 
 ## Contributions
 
+## Q1 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [Support additional eth_subscribe handlers](https://github.com/paradigmxyz/reth/issues/20750) - 2026-01-05
 ## Q4 2025
 
 

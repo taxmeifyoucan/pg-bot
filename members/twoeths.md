@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q1 2026
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Issue] [Avoid calling BeaconState.clone() in beacon-node](https://github.com/ChainSafe/lodestar/issues/8725) - 2026-01-05
 ## Q4 2025
 
 

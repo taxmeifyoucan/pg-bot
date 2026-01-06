@@ -8,6 +8,11 @@ Team: Reth
 
 ## Contributions
 
+## Q1 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] []() - 2026-01-05
 ## Q4 2025
 
 

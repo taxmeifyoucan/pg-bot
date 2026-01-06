@@ -8,6 +8,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [legacytests contain invalid pre Spurious Dragon state tests](https://github.com/ethereum/execution-specs/issues/1967) - 2026-01-05
 ## Q4 2025
 
 

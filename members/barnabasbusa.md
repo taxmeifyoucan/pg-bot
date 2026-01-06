@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q1 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Issue] [Prysm vc `500: UNHANDLED_ERROR: UnableToReadSlot`](https://github.com/sigp/lighthouse/issues/8624) - 2026-01-05
 ## Q4 2025
 
 

@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 
 ## Contributions
 
+## Q1 2026
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Pull Request] []() - 2026-01-05
 ## Q4 2025
 
 
