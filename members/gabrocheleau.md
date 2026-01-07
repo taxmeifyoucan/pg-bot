@@ -13,6 +13,7 @@ Team: EthereumJS
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-05
+* [Pull Request] []() - 2026-01-06
 ## Q4 2025
 
 

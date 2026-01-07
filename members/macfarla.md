@@ -13,6 +13,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] []() - 2026-01-05
+
+[consensys/tuweni](https://github.com/consensys/tuweni)
+* [Pull Request] []() - 2026-01-06
 ## Q4 2025
 
 

@@ -14,6 +14,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
 * [Pull Request] []() - 2026-01-02
 * [Pull Request] []() - 2026-01-05
+* [Pull Request] []() - 2026-01-06
 ## Q4 2025
 
 

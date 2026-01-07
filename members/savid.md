@@ -13,6 +13,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2026-01-05
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Pull Request] []() - 2026-01-06
 ## Q4 2025
 
 

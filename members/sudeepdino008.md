@@ -8,6 +8,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q1 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [seg backup/mirror command](https://github.com/erigontech/erigon/issues/18571) - 2026-01-06
 ## Q4 2025
 
 

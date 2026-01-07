@@ -8,6 +8,11 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 ## Contributions
 
+## Q1 2026
+
+
+[nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
+* [Pull Request] []() - 2026-01-06
 ## Q4 2025
 
 

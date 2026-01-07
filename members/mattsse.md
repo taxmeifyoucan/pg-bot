@@ -13,6 +13,7 @@ Team: Reth
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Support additional eth_subscribe handlers](https://github.com/paradigmxyz/reth/issues/20750) - 2026-01-05
+* [Pull Request] []() - 2026-01-06
 ## Q4 2025
 
 

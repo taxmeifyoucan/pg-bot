@@ -8,6 +8,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #65, January 12, 2026](https://github.com/ethereum/pm/issues/1865) - 2026-01-07
 ## Q4 2025
 
 

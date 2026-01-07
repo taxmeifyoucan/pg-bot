@@ -8,6 +8,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q1 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [perf improvement](https://github.com/erigontech/erigon/issues/18569) - 2026-01-06
+* [Issue] [test on devnet](https://github.com/erigontech/erigon/issues/18568) - 2026-01-06
+* [Issue] [check validator things](https://github.com/erigontech/erigon/issues/18567) - 2026-01-06
+* [Issue] [networking/p2p](https://github.com/erigontech/erigon/issues/18566) - 2026-01-06
+* [Issue] [fork logic](https://github.com/erigontech/erigon/issues/18565) - 2026-01-06
+* [Issue] [fork choice flow](https://github.com/erigontech/erigon/issues/18564) - 2026-01-06
+* [Issue] [beacon state](https://github.com/erigontech/erigon/issues/18563) - 2026-01-06
 ## Q3 2025
 
 
