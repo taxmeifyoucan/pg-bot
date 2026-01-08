@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 ## Contributions
 
+## Q1 2026
+
+
+[offchainlabs/hashtree](https://github.com/offchainlabs/hashtree)
+* [Pull Request] []() - 2026-01-07
 ## Q4 2025
 
 

@@ -8,6 +8,11 @@ Team: Nimbus
 
 ## Contributions
 
+## Q1 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] []() - 2026-01-07
 ## Q4 2025
 
 

@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 
 ## Contributions
 
+## Q1 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Issue] [Move some DA checker functionality to `CustodyContext`](https://github.com/sigp/lighthouse/issues/8633) - 2026-01-07
 ## Q4 2025
 
 

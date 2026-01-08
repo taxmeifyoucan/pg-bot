@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q1 2026
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Issue] [Warn when dirty prune cache is too low](https://github.com/NethermindEth/nethermind/issues/10142) - 2026-01-08
 ## Q4 2025
 
 

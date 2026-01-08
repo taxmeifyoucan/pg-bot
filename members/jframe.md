@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 ## Contributions
 
+## Q1 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [Bonsai archive sync as Bonsai the migrate to archive](https://github.com/hyperledger/besu/issues/9608) - 2026-01-07
 ## Q4 2025
 
 
