@@ -13,6 +13,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Bonsai archive sync as Bonsai the migrate to archive](https://github.com/hyperledger/besu/issues/9608) - 2026-01-07
+* [Issue] [Bonsai Archive sync halts on valid block due transaction nonce below sender error](https://github.com/hyperledger/besu/issues/9613) - 2026-01-09
 ## Q4 2025
 
 

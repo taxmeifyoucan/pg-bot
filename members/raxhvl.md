@@ -8,6 +8,11 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [Add support for fork-level EVM simulation](https://github.com/ethereum/execution-specs/issues/1990) - 2026-01-08
 ## Q4 2025
 
 

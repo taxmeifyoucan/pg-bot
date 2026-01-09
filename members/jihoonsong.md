@@ -6,6 +6,11 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] []() - 2026-01-08
 ## Q4 2025
 
 

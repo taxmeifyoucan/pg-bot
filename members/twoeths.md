@@ -14,6 +14,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [Avoid calling BeaconState.clone() in beacon-node](https://github.com/ChainSafe/lodestar/issues/8725) - 2026-01-05
 * [Pull Request] []() - 2026-01-06
+* [Issue] [State repositories to work with Uint8Array instead of BeaconStateAllForks](https://github.com/ChainSafe/lodestar/issues/8729) - 2026-01-08
 ## Q4 2025
 
 

@@ -14,6 +14,7 @@ Team: EthereumJS
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
 * [Issue] [Refactor naming conventions to improve usability for AI-assisted tooling](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4218) - 2026-01-08
 * [Pull Request] []() - 2026-01-07
+* [Pull Request] []() - 2026-01-09
 ## Q4 2025
 
 

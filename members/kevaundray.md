@@ -13,6 +13,9 @@ Team: Consensus R&D (EF)
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] []() - 2026-01-05
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Issue] [Change the public input for optional proofs from block hash to payload header](https://github.com/ethereum/consensus-specs/issues/4820) - 2026-01-08
 ## Q4 2025
 
 

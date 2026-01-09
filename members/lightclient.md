@@ -16,6 +16,9 @@ Team: Geth
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-06
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] []() - 2026-01-08
 ## Q4 2025
 
 
