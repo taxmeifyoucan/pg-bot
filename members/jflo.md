@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 ## Contributions
 
+## Q1 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [Refactor ProtocolSpec to support EIP querying and per-hardfork EIP configuration](https://github.com/hyperledger/besu/issues/9618) - 2026-01-09
 ## Q4 2025
 
 

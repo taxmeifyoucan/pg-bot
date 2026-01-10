@@ -15,6 +15,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] []() - 2026-01-05
 * [Issue] [Make EIP-7934 tests fork agnostic](https://github.com/ethereum/execution-specs/issues/1972) - 2026-01-05
 * [Pull Request] []() - 2026-01-07
+* [Pull Request] []() - 2026-01-09
 ## Q4 2025
 
 

@@ -15,6 +15,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Issue] [Add pritty_print for CacheDB](https://github.com/bluealloy/revm/issues/3283) - 2026-01-06
 * [Issue] [Make a bytecode test utility that would make bytecode that insert input directly to memory](https://github.com/bluealloy/revm/issues/3277) - 2026-01-06
 * [Issue] [Add Inspector testing bootstrap for evm variants that extend revm](https://github.com/bluealloy/revm/issues/3275) - 2026-01-06
+* [Pull Request] []() - 2026-01-09
 ## Q4 2025
 
 

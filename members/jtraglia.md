@@ -13,6 +13,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-01-05
+* [Pull Request] []() - 2026-01-09
 ## Q4 2025
 
 
