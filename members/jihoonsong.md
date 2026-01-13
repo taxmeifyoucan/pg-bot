@@ -14,6 +14,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-11
+* [Pull Request] []() - 2026-01-12
 ## Q4 2025
 
 

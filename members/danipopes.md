@@ -14,6 +14,7 @@ Team: Reth
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] []() - 2026-01-05
 * [Pull Request] []() - 2026-01-08
+* [Pull Request] []() - 2026-01-12
 ## Q4 2025
 
 

@@ -16,6 +16,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Update 2026 EIP Championing Document with news docs link](https://github.com/ethereum/execution-specs/issues/1994) - 2026-01-08
 * [Pull Request] []() - 2026-01-08
 * [Issue] [Automate cold-access transaction splitting for stateful benchmarks](https://github.com/ethereum/execution-specs/issues/1991) - 2026-01-08
+* [Pull Request] []() - 2026-01-12
 ## Q4 2025
 
 

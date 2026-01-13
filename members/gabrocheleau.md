@@ -14,6 +14,9 @@ Team: EthereumJS
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-05
 * [Pull Request] []() - 2026-01-06
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Stateless Implementers Call #47, January 26, 2026](https://github.com/ethereum/pm/issues/1873) - 2026-01-12
 ## Q4 2025
 
 

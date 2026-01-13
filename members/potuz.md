@@ -18,6 +18,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
 * [Pull Request] []() - 2026-01-09
 * [Pull Request] []() - 2026-01-11
+* [Pull Request] []() - 2026-01-12
 ## Q4 2025
 
 

@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] []() - 2026-01-06
+* [Issue] [Re-introduce clearer variable names in beacon processor work queue](https://github.com/sigp/lighthouse/issues/8648) - 2026-01-12
 ## Q4 2025
 
 

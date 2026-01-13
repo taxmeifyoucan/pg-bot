@@ -13,6 +13,9 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] []() - 2026-01-09
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] []() - 2026-01-12
 ## Q4 2025
 
 

@@ -8,6 +8,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 ## Contributions
 
+## Q1 2026
+
+
+[gballet/go-ethereum](https://github.com/gballet/go-ethereum)
+* [Pull Request] []() - 2026-01-12
 ## Q4 2025
 
 
