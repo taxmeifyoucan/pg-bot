@@ -8,6 +8,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [Check default values and types in genesis files](https://github.com/ethereum/execution-specs/issues/2018) - 2026-01-13
 ## Q4 2025
 
 

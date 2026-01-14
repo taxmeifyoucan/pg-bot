@@ -15,6 +15,7 @@ Team: Reth
 * [Pull Request] []() - 2026-01-05
 * [Pull Request] []() - 2026-01-08
 * [Pull Request] []() - 2026-01-12
+* [Pull Request] []() - 2026-01-14
 ## Q4 2025
 
 

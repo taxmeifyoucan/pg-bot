@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 
 ## Contributions
 
+## Q1 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] []() - 2026-01-13
 ## Q4 2025
 
 
