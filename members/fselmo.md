@@ -16,6 +16,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Make EIP-7934 tests fork agnostic](https://github.com/ethereum/execution-specs/issues/1972) - 2026-01-05
 * [Pull Request] []() - 2026-01-07
 * [Pull Request] []() - 2026-01-09
+* [Issue] [Consider refactoring `Frontier(BaseFork)`  into scoped mixins](https://github.com/ethereum/execution-specs/issues/2025) - 2026-01-15
 ## Q4 2025
 
 

@@ -15,6 +15,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Move some DA checker functionality to `CustodyContext`](https://github.com/sigp/lighthouse/issues/8633) - 2026-01-07
 * [Pull Request] []() - 2026-01-11
 * [Issue] [Flag to disable "unsafe" range sync](https://github.com/sigp/lighthouse/issues/8657) - 2026-01-13
+* [Pull Request] []() - 2026-01-14
 ## Q4 2025
 
 

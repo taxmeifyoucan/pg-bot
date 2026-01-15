@@ -14,6 +14,7 @@ Team: Codex DAS
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2026-01-07
 * [Pull Request] []() - 2026-01-09
+* [Pull Request] []() - 2026-01-14
 ## Q4 2025
 
 

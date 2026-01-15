@@ -7,6 +7,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] []() - 2026-01-14
 ## Q4 2025
 
 

@@ -13,6 +13,9 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] []() - 2026-01-13
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Pull Request] []() - 2026-01-14
 ## Q4 2025
 
 
