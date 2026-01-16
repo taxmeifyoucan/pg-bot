@@ -17,6 +17,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-7997 Implementation Tracker: Deterministic Factory Predeploy](https://github.com/ethereum/execution-specs/issues/1988) - 2026-01-07
 * [Pull Request] []() - 2026-01-10
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] []() - 2026-01-15
 ## Q4 2025
 
 

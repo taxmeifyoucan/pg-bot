@@ -16,6 +16,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Receipt Root Mismatch Causing Chain Halt](https://github.com/hyperledger/besu/issues/9610) - 2026-01-08
+* [Pull Request] []() - 2026-01-15
 ## Q4 2025
 
 

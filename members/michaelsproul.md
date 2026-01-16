@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] []() - 2026-01-14
+* [Issue] [Sync committee messages have to wait for full block import](https://github.com/sigp/lighthouse/issues/8667) - 2026-01-15
 ## Q4 2025
 
 

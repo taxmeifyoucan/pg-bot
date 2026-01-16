@@ -19,6 +19,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] []() - 2026-01-12
+* [Pull Request] []() - 2026-01-16
 ## Q4 2025
 
 

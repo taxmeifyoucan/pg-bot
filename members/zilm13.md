@@ -13,6 +13,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 
 [consensys/teku](https://github.com/consensys/teku)
 * [Pull Request] []() - 2026-01-14
+* [Pull Request] []() - 2026-01-15
 ## Q4 2025
 
 

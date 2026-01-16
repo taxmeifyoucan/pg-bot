@@ -15,6 +15,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [seg backup/mirror command](https://github.com/erigontech/erigon/issues/18571) - 2026-01-06
 * [Pull Request] []() - 2026-01-07
 * [Pull Request] []() - 2026-01-09
+* [Pull Request] []() - 2026-01-15
 ## Q4 2025
 
 

@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 ## Contributions
 
+## Q1 2026
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Issue] [We should subscribe to data columns subnets when following the chain optimistically](https://github.com/Consensys/teku/issues/10275) - 2026-01-15
 ## Q4 2025
 
 

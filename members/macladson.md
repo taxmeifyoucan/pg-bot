@@ -17,6 +17,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 
 * [Pull Request] []() - 2026-01-11
 * [Issue] [Expose a minimal set of core types in `consensus/types`](https://github.com/sigp/lighthouse/issues/8652) - 2026-01-13
+* [Pull Request] []() - 2026-01-15
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] []() - 2026-01-10
 ## Q4 2025
