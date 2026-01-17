@@ -24,6 +24,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [add slot_duration_ms and slots_per_epoch to consensus layer forks](https://github.com/ethpandaops/cartographoor/issues/74) - 2026-01-15
 * [Issue] [automated fork info](https://github.com/ethpandaops/cartographoor/issues/73) - 2026-01-15
 * [Pull Request] []() - 2026-01-15
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Pull Request] []() - 2026-01-16
 ## Q4 2025
 
 

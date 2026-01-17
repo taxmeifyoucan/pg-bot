@@ -13,6 +13,7 @@ Team: Robust Incentives Group (RIG)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-09
+* [Pull Request] []() - 2026-01-16
 ## Q3 2025
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)

@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q1 2026
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Issue] [Use packages/cli/bin/lodesar for the binary execution path](https://github.com/ChainSafe/lodestar/issues/8755) - 2026-01-16
 ## Q4 2025
 
 

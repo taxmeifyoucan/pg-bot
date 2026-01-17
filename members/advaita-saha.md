@@ -14,6 +14,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] []() - 2026-01-05
 * [Pull Request] []() - 2026-01-06
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] []() - 2026-01-16
 ## Q4 2025
 
 

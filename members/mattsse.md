@@ -18,6 +18,9 @@ Team: Reth
 * [Pull Request] []() - 2026-01-09
 * [Pull Request] []() - 2026-01-10
 * [Pull Request] []() - 2026-01-15
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] []() - 2026-01-16
 ## Q4 2025
 
 

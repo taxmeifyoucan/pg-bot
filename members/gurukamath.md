@@ -13,6 +13,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Check default values and types in genesis files](https://github.com/ethereum/execution-specs/issues/2018) - 2026-01-13
+* [Pull Request] []() - 2026-01-16
 ## Q4 2025
 
 

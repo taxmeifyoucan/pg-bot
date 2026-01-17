@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q1 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [erigon can't start after `rm chaindata` because state files are ahead of block files](https://github.com/erigontech/erigon/issues/18702) - 2026-01-16
 ## Q4 2025
 
 

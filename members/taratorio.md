@@ -13,6 +13,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
 * [Pull Request] []() - 2026-01-14
+* [Pull Request] []() - 2026-01-16
 ## Q4 2025
 
 
