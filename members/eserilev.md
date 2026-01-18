@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] []() - 2026-01-11
 * [Issue] [Flag to disable "unsafe" range sync](https://github.com/sigp/lighthouse/issues/8657) - 2026-01-13
 * [Pull Request] []() - 2026-01-14
+* [Pull Request] []() - 2026-01-18
 ## Q4 2025
 
 

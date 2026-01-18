@@ -15,6 +15,7 @@ Team: Geth
 * [Pull Request] []() - 2026-01-03
 
 * [Pull Request] []() - 2026-01-15
+* [Pull Request] []() - 2026-01-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-06
 
