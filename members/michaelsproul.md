@@ -15,6 +15,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] []() - 2026-01-14
 * [Issue] [Sync committee messages have to wait for full block import](https://github.com/sigp/lighthouse/issues/8667) - 2026-01-15
 * [Issue] [Gloas fork choice implementation](https://github.com/sigp/lighthouse/issues/8675) - 2026-01-19
+* [Issue] [Release v8.1.0](https://github.com/sigp/lighthouse/issues/8681) - 2026-01-20
+* [Issue] [Gloas devnet planning](https://github.com/sigp/lighthouse/issues/8680) - 2026-01-20
 ## Q4 2025
 
 
