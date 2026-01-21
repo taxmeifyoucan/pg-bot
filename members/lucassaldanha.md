@@ -8,6 +8,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 
 ## Contributions
 
+## Q1 2026
+
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Issue] [Add support for engine_getBlobsV3 (partial responses)](https://github.com/Consensys/teku/issues/10285) - 2026-01-21
+* [Issue] [Add partial message support for PeerDAS data column propagation](https://github.com/Consensys/teku/issues/10284) - 2026-01-21
+* [Issue] [Add support for partial messages](https://github.com/Consensys/teku/issues/10283) - 2026-01-20
 ## Q4 2025
 
 

@@ -14,6 +14,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] []() - 2026-01-10
 * [Pull Request] []() - 2026-01-14
+* [Issue] [eth_call on Multicall3 contract different response full vs archive](https://github.com/erigontech/erigon/issues/18722) - 2026-01-20
 ## Q4 2025
 
 

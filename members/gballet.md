@@ -16,6 +16,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Issue] [expired nodes: figure a better encoding for paths](https://github.com/gballet/go-ethereum/issues/559) - 2026-01-19
 * [Issue] [expired nodes: use better encoding](https://github.com/gballet/go-ethereum/issues/558) - 2026-01-19
 * [Issue] [expired nodes: don't resurrect siblings, just update in-place](https://github.com/gballet/go-ethereum/issues/557) - 2026-01-19
+* [Pull Request] []() - 2026-01-20
 ## Q4 2025
 
 

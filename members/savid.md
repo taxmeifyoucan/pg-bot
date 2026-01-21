@@ -20,6 +20,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] []() - 2026-01-14
 
 * [Pull Request] []() - 2026-01-19
+* [Pull Request] []() - 2026-01-20
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Issue] [add new combined fork field](https://github.com/ethpandaops/cartographoor/issues/75) - 2026-01-15
 * [Issue] [add slot_duration_ms and slots_per_epoch to consensus layer forks](https://github.com/ethpandaops/cartographoor/issues/74) - 2026-01-15
