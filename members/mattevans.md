@@ -14,6 +14,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-12
+
+[ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
+* [Pull Request] []() - 2026-01-21
 ## Q4 2025
 
 

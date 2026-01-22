@@ -13,6 +13,7 @@ Team: Grandine
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] []() - 2026-01-08
+* [Pull Request] []() - 2026-01-21
 ## Q4 2025
 
 

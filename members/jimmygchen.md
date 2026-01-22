@@ -15,6 +15,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] []() - 2026-01-06
 * [Issue] [Re-introduce clearer variable names in beacon processor work queue](https://github.com/sigp/lighthouse/issues/8648) - 2026-01-12
 * [Issue] [Implement partial data columns metrics](https://github.com/sigp/lighthouse/issues/8654) - 2026-01-13
+* [Pull Request] []() - 2026-01-21
+* [Issue] [Implement updated `update_proposer_boost_root` in fork choice](https://github.com/sigp/lighthouse/issues/8689) - 2026-01-21
 ## Q4 2025
 
 

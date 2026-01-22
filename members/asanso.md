@@ -8,6 +8,11 @@ Team: Cryptography (EF)
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Post Quantum transaction signature (PQTS) Breakout Room - Kickoff Call](https://github.com/ethereum/pm/issues/1889) - 2026-01-21
 ## Q3 2025
 
 

@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] []() - 2026-01-05
 
+* [Issue] [Turn down this log: Invalid input length for P256VERIFY precompile: expected 160 bytes but got 100](https://github.com/hyperledger/besu/issues/9659) - 2026-01-21
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-08

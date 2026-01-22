@@ -18,6 +18,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] []() - 2026-01-15
 * [Issue] [help output even after execution](https://github.com/erigontech/erigon/issues/18714) - 2026-01-19
 * [Pull Request] []() - 2026-01-19
+* [Pull Request] []() - 2026-01-21
 ## Q4 2025
 
 
