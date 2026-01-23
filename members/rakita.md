@@ -17,6 +17,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Issue] [Add Inspector testing bootstrap for evm variants that extend revm](https://github.com/bluealloy/revm/issues/3275) - 2026-01-06
 * [Pull Request] []() - 2026-01-09
 * [Pull Request] []() - 2026-01-14
+* [Issue] [GasParams helper for access list](https://github.com/bluealloy/revm/issues/3343) - 2026-01-22
+* [Issue] [Helper for GasParams cold_storage_cost()](https://github.com/bluealloy/revm/issues/3342) - 2026-01-22
+* [Issue] [Configure gas_params Auth refund amount](https://github.com/bluealloy/revm/issues/3341) - 2026-01-22
 ## Q4 2025
 
 

@@ -8,6 +8,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Issue] [Query transactions from era files on a pruned node](https://github.com/ethereum/go-ethereum/issues/33666) - 2026-01-22
 ## Q4 2025
 
 

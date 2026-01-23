@@ -21,6 +21,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-03
 * [Pull Request] []() - 2026-01-21
+* [Pull Request] []() - 2026-01-22
 ## Q4 2025
 
 

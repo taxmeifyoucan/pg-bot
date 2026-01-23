@@ -14,6 +14,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] []() - 2026-01-12
 * [Pull Request] []() - 2026-01-15
+* [Pull Request] []() - 2026-01-23
 ## Q4 2025
 
 

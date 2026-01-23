@@ -13,6 +13,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [bal-devnet-3 implementation](https://github.com/erigontech/erigon/issues/18717) - 2026-01-19
+* [Pull Request] []() - 2026-01-22
 ## Q4 2025
 
 

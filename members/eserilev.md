@@ -20,6 +20,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Update all gloas slot timing logic to use the correct slot component config values](https://github.com/sigp/lighthouse/issues/8686) - 2026-01-20
 * [Pull Request] []() - 2026-01-20
 
+* [Pull Request] []() - 2026-01-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-01-21
 ## Q4 2025

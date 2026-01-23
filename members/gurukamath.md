@@ -16,6 +16,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] []() - 2026-01-16
 * [Issue] [bug(specs): Re-evaluvate the types of the Block dataclass](https://github.com/ethereum/execution-specs/issues/2054) - 2026-01-21
 * [Pull Request] []() - 2026-01-21
+* [Pull Request] []() - 2026-01-22
 ## Q4 2025
 
 
