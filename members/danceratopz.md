@@ -18,6 +18,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Automate cold-access transaction splitting for stateful benchmarks](https://github.com/ethereum/execution-specs/issues/1991) - 2026-01-08
 * [Pull Request] []() - 2026-01-12
 * [Pull Request] []() - 2026-01-14
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] []() - 2026-01-23
 ## Q4 2025
 
 

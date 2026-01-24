@@ -13,6 +13,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [Use packages/cli/bin/lodesar for the binary execution path](https://github.com/ChainSafe/lodestar/issues/8755) - 2026-01-16
+* [Pull Request] []() - 2026-01-23
 ## Q4 2025
 
 
