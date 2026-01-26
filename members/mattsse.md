@@ -26,6 +26,9 @@ Team: Reth
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2026-01-24
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] []() - 2026-01-25
 ## Q4 2025
 
 

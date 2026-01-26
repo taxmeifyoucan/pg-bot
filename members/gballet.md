@@ -18,6 +18,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Issue] [expired nodes: don't resurrect siblings, just update in-place](https://github.com/gballet/go-ethereum/issues/557) - 2026-01-19
 * [Pull Request] []() - 2026-01-20
 
+* [Pull Request] []() - 2026-01-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2026-01-24
 ## Q4 2025
