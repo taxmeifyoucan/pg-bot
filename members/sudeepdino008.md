@@ -22,6 +22,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [port collision between torrentClientStatus and pprof (seg integrity)](https://github.com/erigontech/erigon/issues/18778) - 2026-01-23
 * [Issue] [torrent verification and recovery](https://github.com/erigontech/erigon/issues/18776) - 2026-01-23
 * [Pull Request] []() - 2026-01-24
+* [Pull Request] []() - 2026-01-26
 ## Q4 2025
 
 

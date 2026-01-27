@@ -14,6 +14,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 [consensys/teku](https://github.com/consensys/teku)
 * [Pull Request] []() - 2026-01-19
 * [Issue] ['please fix or report' in SidecarRetriever](https://github.com/Consensys/teku/issues/10288) - 2026-01-21
+* [Issue] [[EIP-7732] pubsub changes](https://github.com/Consensys/teku/issues/10301) - 2026-01-27
 ## Q4 2025
 
 

@@ -17,6 +17,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [State repositories to work with Uint8Array instead of BeaconStateAllForks](https://github.com/ChainSafe/lodestar/issues/8729) - 2026-01-08
 * [Pull Request] []() - 2026-01-09
 * [Pull Request] []() - 2026-01-16
+* [Pull Request] []() - 2026-01-26
 ## Q4 2025
 
 

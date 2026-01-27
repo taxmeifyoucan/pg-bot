@@ -15,6 +15,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-11
 * [Pull Request] []() - 2026-01-12
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [FOCIL Breakout #27, January 27, 2026](https://github.com/ethereum/pm/issues/1898) - 2026-01-26
 ## Q4 2025
 
 

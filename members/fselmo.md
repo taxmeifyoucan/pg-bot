@@ -19,6 +19,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Consider refactoring `Frontier(BaseFork)`  into scoped mixins](https://github.com/ethereum/execution-specs/issues/2025) - 2026-01-15
 * [Issue] [Increase RAM on pypy3 CI self-hosted runner](https://github.com/ethereum/execution-specs/issues/2029) - 2026-01-15
 
+* [Pull Request] []() - 2026-01-27
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2026-01-15
 ## Q4 2025

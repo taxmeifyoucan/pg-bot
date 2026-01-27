@@ -19,6 +19,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-15
 * [Pull Request] []() - 2026-01-22
+* [Pull Request] []() - 2026-01-26
 ## Q4 2025
 
 

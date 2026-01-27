@@ -19,6 +19,9 @@ Team: Consensus R&D (EF)
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Issue] [engine_newPayloadWithWitness](https://github.com/ethereum/execution-apis/issues/741) - 2026-01-20
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [zkEVM breakout #01, Feb 11, 2026](https://github.com/ethereum/pm/issues/1900) - 2026-01-27
 ## Q4 2025
 
 

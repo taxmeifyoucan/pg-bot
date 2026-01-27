@@ -17,6 +17,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Issue] [eth_call on Multicall3 contract different response full vs archive](https://github.com/erigontech/erigon/issues/18722) - 2026-01-20
 * [Issue] [debug_traceBlockByNumber: test_44 mismatch on latest block: 24298763](https://github.com/erigontech/erigon/issues/18783) - 2026-01-23
 * [Pull Request] []() - 2026-01-23
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Pull Request] []() - 2026-01-26
 ## Q4 2025
 
 
