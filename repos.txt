@@ -32,6 +32,7 @@ gballet/go-verkle
 grandinetech/grandine
 grandinetech/rust-kzg
 hyperledger/besu
+hyperledger/besu-native
 hyperledger/besu-verkle-trie
 ipsilon/eof
 libp2p/jvm-libp2p
