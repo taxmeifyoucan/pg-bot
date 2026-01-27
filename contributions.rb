@@ -1,3 +1,4 @@
+
 require 'octokit'
 require 'fileutils'
 require 'set'
@@ -30,14 +31,19 @@ class ContributionHelper
       url_path: ->(event) { event.payload.pull_request.html_url }
     },
     'PushEvent' => {
-      condition: ->(event) { true },
+      condition: ->(event) { event.payload.commits&.any? }, 
       type: 'Commit',
       title_path: ->(event) { 
         commit_message = event.payload.commits.first&.message
         commit_message ? commit_message.split("\n").first : "Commit" 
       },
       url_path: ->(event) { 
-        "#{event.repo.url.gsub('api.github.com/repos', 'github.com')}/commit/#{event.payload.commits.first.sha}" 
+        commit_sha = event.payload.commits.first&.sha
+        if commit_sha
+          "#{event.repo.url.gsub('api.github.com/repos', 'github.com')}/commit/#{commit_sha}"
+        else
+          event.repo.url.gsub('api.github.com/repos', 'github.com')
+        end
       }
     },
     'IssuesEvent' => {
@@ -279,4 +285,4 @@ if __FILE__ == $0
   
   tracker = ContributionTracker.new(token, members_dir, repos_file)
   tracker.track_contributions
-end 
+end

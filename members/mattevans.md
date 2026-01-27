@@ -17,6 +17,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] []() - 2026-01-21
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Pull Request] []() - 2026-01-27
 ## Q4 2025
 
 

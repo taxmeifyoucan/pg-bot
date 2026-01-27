@@ -20,6 +20,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Issue] [GasParams helper for access list](https://github.com/bluealloy/revm/issues/3343) - 2026-01-22
 * [Issue] [Helper for GasParams cold_storage_cost()](https://github.com/bluealloy/revm/issues/3342) - 2026-01-22
 * [Issue] [Configure gas_params Auth refund amount](https://github.com/bluealloy/revm/issues/3341) - 2026-01-22
+* [Pull Request] []() - 2026-01-26
 ## Q4 2025
 
 

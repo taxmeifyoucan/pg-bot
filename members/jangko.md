@@ -13,6 +13,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] []() - 2026-01-16
+* [Pull Request] []() - 2026-01-27
 ## Q4 2025
 
 

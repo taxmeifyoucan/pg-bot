@@ -3,24 +3,28 @@ require 'net/http'
 require 'uri'
 
 class MembershipParser
-  def initialize(members_dir = 'members')
-    @source_url = "https://raw.githubusercontent.com/protocolguild/documentation/refs/heads/main/docs/01-membership.md"
+  def initialize(members_dir = 'members', source = nil)
+    @source = source || "https://raw.githubusercontent.com/protocolguild/documentation/refs/heads/main/docs/01-membership.md"
     @members_dir = members_dir
-    @members = []
+    @members = {}  # Changed to hash to store full member details
     @repos = []
   end
 
-  def parse
-    content = fetch_data(@source_url)
+  def parse(create_files = false)
+    content = fetch_data(@source)
     parse_members_from_tables(content)
     extract_repos_from_content(content)
+    
+    if create_files
+      create_member_files
+    end
   end
   
   def compare_and_report(repos_file = 'repos.txt')
     existing_members = Dir.exist?(@members_dir) ? Dir.glob(File.join(@members_dir, "*.md")).map { |f| File.basename(f, ".md") } : []
     file_repos = File.exist?(repos_file) ? File.read(repos_file).split("\n").map(&:strip).reject(&:empty?) : []
 
-    parsed_members = @members.uniq.sort
+    parsed_members = @members.keys.sort
     parsed_repos = @repos.uniq.sort
 
     missing_members = parsed_members - existing_members
@@ -44,15 +48,19 @@ class MembershipParser
   
   private
   
-  def fetch_data(url)
-    uri = URI.parse(url)
-    response = Net::HTTP.get_response(uri)
-    
-    if response.code == "200"
-      return response.body
+  def fetch_data(source)
+    if File.exist?(source)
+      return File.read(source)
     else
-      puts "Failed to fetch data: #{response.code} #{response.message}"
-      exit 1
+      uri = URI.parse(source)
+      response = Net::HTTP.get_response(uri)
+      
+      if response.code == "200"
+        return response.body
+      else
+        puts "Failed to fetch data: #{response.code} #{response.message}"
+        exit 1
+      end
     end
   end
   
@@ -80,20 +88,35 @@ class MembershipParser
     return unless columns.length >= 3
 
     name_column = columns[0]
+    multiplier_column = columns[1]
     other_contribs_column = columns[2]
     return if name_column.start_with?("**") && name_column.end_with?("**")
 
     github_username = nil
+    display_name = nil
 
+    # Extract name and github username from markdown link: [Name](https://github.com/username)
     if name_column =~ /\[(.*?)\]\(https:\/\/github\.com\/([^\/\)]+)/
+      display_name = $1
       github_username = $2
     end
     return unless github_username
 
     github_username = github_username.downcase.gsub(/\/$/, '').gsub(/\)$/, '').strip
-
-    @members << github_username
     
+    # Extract multiplier (should be a number)
+    multiplier = multiplier_column.strip
+    multiplier = "1" if multiplier.empty?
+
+    # Store member details
+    @members[github_username] = {
+      username: github_username,
+      display_name: display_name || github_username,
+      multiplier: multiplier,
+      team_links: []
+    }
+    
+    # Extract repos from contributions column
     other_contribs_column.scan(/https:\/\/github\.com\/([A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+)/) do |match|
       @repos << match[0]
     end
@@ -106,6 +129,12 @@ class MembershipParser
   def extract_repos_from_content(content)
     content.scan(/https:\/\/github\.com\/([A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+)/) do |match|
       @repos << match[0]
+    end
+  end
+  
+  def create_member_files
+    @members.each do |username, member_data|
+      create_member_file(member_data)
     end
   end
   
@@ -141,8 +170,10 @@ class MembershipParser
 end
 
 if __FILE__ == $0
+  source = ARGV[0]
+  create_files = ARGV.include?('--create-files')
   members_dir = 'members'
-  parser = MembershipParser.new(members_dir)
-  parser.parse
+  parser = MembershipParser.new(members_dir, source)
+  parser.parse(create_files)
   parser.compare_and_report
-end 
+end

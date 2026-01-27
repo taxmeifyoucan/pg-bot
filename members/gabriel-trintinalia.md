@@ -15,6 +15,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] []() - 2026-01-07
 * [Pull Request] []() - 2026-01-12
 * [Pull Request] []() - 2026-01-21
+* [Issue] [Make Discovery CLI Options Explicitly DiscV4-Specific](https://github.com/hyperledger/besu/issues/9694) - 2026-01-27
+* [Issue] [Fine-Tune Discovery v5 Parameters and Make Them Configurable](https://github.com/hyperledger/besu/issues/9693) - 2026-01-27
+* [Issue] [Add Metrics for Discovery v5](https://github.com/hyperledger/besu/issues/9692) - 2026-01-27
+* [Issue] [Tune Discovery v5 Logging Levels](https://github.com/hyperledger/besu/issues/9691) - 2026-01-27
+* [Issue] [Migrate Existing Acceptance Tests to Discovery v5](https://github.com/hyperledger/besu/issues/9690) - 2026-01-27
+* [Issue] [Add Unit and Integration Tests for Discovery v5](https://github.com/hyperledger/besu/issues/9689) - 2026-01-27
+* [Issue] [Implement Peer Permissioning for Discovery v5](https://github.com/hyperledger/besu/issues/9688) - 2026-01-27
+* [Issue] [Implement Static Bootnode Support for Discovery v5](https://github.com/hyperledger/besu/issues/9687) - 2026-01-27
+* [Issue] [Add IPv6 Support to Discovery v5](https://github.com/hyperledger/besu/issues/9686) - 2026-01-27
 ## Q4 2025
 
 

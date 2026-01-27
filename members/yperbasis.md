@@ -14,6 +14,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [bal-devnet-3 implementation](https://github.com/erigontech/erigon/issues/18717) - 2026-01-19
 * [Pull Request] []() - 2026-01-22
+* [Issue] [Erigon built an invalid block on Gnosis Chain](https://github.com/erigontech/erigon/issues/18823) - 2026-01-27
+* [Issue] [deps: update libsecp256k1 to 0.7.1](https://github.com/erigontech/erigon/issues/18822) - 2026-01-27
+* [Issue] [Revisit EIP-6780: merge stateObject.newlyCreated & createdContract?](https://github.com/erigontech/erigon/issues/18808) - 2026-01-26
 ## Q4 2025
 
 
