@@ -75,3 +75,9 @@ privacy-ethereum/zkevm-circuits
 risc0/risc0
 risc0/zirgen
 tcoratger/hashcaster-exploration
+ChainSafe/lodestar-z
+eth-act/zkboost
+eth-act/zkevm-benchmark-workload
+jihoonsong/pglanding-jihoonsong
+khovratovich/ef-summary
+protocolguild/protocol-guild-site
