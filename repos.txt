@@ -2,6 +2,7 @@ asanso/pglanding-asanso
 bluealloy/revm
 b-wagn/pg-contrib
 ChainSafe/lodestar
+Consensys/discovery
 Consensys/teku
 ConsenSys/teku
 Consensys/tuweni
