@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Issue] [Implement Peer Permissioning for Discovery v5](https://github.com/hyperledger/besu/issues/9688) - 2026-01-27
 * [Issue] [Implement Static Bootnode Support for Discovery v5](https://github.com/hyperledger/besu/issues/9687) - 2026-01-27
 * [Issue] [Add IPv6 Support to Discovery v5](https://github.com/hyperledger/besu/issues/9686) - 2026-01-27
+* [Issue] [Incorrect traces when state is mutated before transaction execution](https://github.com/hyperledger/besu/issues/9699) - 2026-01-27
 ## Q4 2025
 
 

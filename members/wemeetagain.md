@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q1 2026
+
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Issue] [Track data archival during sync](https://github.com/ChainSafe/lodestar/issues/8793) - 2026-01-27
 ## Q4 2025
 
 

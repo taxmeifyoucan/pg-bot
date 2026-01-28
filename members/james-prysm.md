@@ -13,6 +13,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
 * [Pull Request] []() - 2026-01-22
+* [Pull Request] []() - 2026-01-27
 ## Q4 2025
 
 

@@ -18,6 +18,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] []() - 2026-01-21
+* [Pull Request] []() - 2026-01-27
 ## Q4 2025
 
 

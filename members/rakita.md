@@ -21,6 +21,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Issue] [Helper for GasParams cold_storage_cost()](https://github.com/bluealloy/revm/issues/3342) - 2026-01-22
 * [Issue] [Configure gas_params Auth refund amount](https://github.com/bluealloy/revm/issues/3341) - 2026-01-22
 * [Pull Request] []() - 2026-01-26
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] []() - 2026-01-27
 ## Q4 2025
 
 

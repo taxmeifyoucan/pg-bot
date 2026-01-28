@@ -21,6 +21,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] []() - 2026-01-20
 
 * [Pull Request] []() - 2026-01-22
+* [Pull Request] []() - 2026-01-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-01-21
 ## Q4 2025
