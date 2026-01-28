@@ -33,7 +33,7 @@ grandinetech/grandine
 grandinetech/rust-kzg
 hyperledger/besu
 hyperledger/besu-native
-hyperledger/besu-verkle-trie
+hyperledger/besu-stateless
 ipsilon/eof
 libp2p/jvm-libp2p
 luca-zanolini/research
