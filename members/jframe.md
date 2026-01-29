@@ -15,6 +15,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Bonsai archive sync as Bonsai the migrate to archive](https://github.com/hyperledger/besu/issues/9608) - 2026-01-07
 * [Issue] [Bonsai Archive sync halts on valid block due transaction nonce below sender error](https://github.com/hyperledger/besu/issues/9613) - 2026-01-09
 * [Issue] [Remove checkpoint](https://github.com/hyperledger/besu/issues/9684) - 2026-01-26
+* [Pull Request] []() - 2026-01-29
+* [Issue] [Bonsai Archive: Unify format options (remove X_ prefix)](https://github.com/hyperledger/besu/issues/9702) - 2026-01-28
+* [Issue] [Bonsai Archive: Remove or improve BonsaiArchivePartialFlatDbStrategy](https://github.com/hyperledger/besu/issues/9701) - 2026-01-28
+* [Issue] [Bonsai Archive: Index-based access to eliminate seekForPrev](https://github.com/hyperledger/besu/issues/9700) - 2026-01-28
 ## Q4 2025
 
 

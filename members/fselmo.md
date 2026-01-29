@@ -20,6 +20,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Increase RAM on pypy3 CI self-hosted runner](https://github.com/ethereum/execution-specs/issues/2029) - 2026-01-15
 
 * [Pull Request] []() - 2026-01-27
+* [Pull Request] []() - 2026-01-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2026-01-15
 ## Q4 2025

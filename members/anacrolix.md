@@ -11,3 +11,4 @@ Github: [@anacrolix](https://github.com/anacrolix)
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] []() - 2026-01-27
+* [Pull Request] []() - 2026-01-29

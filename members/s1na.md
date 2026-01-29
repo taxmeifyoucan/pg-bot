@@ -13,6 +13,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [Query transactions from era files on a pruned node](https://github.com/ethereum/go-ethereum/issues/33666) - 2026-01-22
+* [Issue] [eth_sendRawTransactionSync timeout parameter should be an int](https://github.com/ethereum/go-ethereum/issues/33696) - 2026-01-28
 ## Q4 2025
 
 

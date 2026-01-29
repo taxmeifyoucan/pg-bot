@@ -22,6 +22,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Issue] [Configure gas_params Auth refund amount](https://github.com/bluealloy/revm/issues/3341) - 2026-01-22
 * [Pull Request] []() - 2026-01-26
 
+* [Pull Request] []() - 2026-01-28
+* [Issue] [Deprecate nonce_bump_journal_entry(), caller_accounting_journal_entry](https://github.com/bluealloy/revm/issues/3365) - 2026-01-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-27
 ## Q4 2025

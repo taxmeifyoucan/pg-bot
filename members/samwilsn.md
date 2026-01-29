@@ -13,6 +13,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-02
+* [Issue] [Housekeeping Ideas](https://github.com/ethereum/EIPs/issues/11195) - 2026-01-28
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [Carry pytest markers from Python all the way through to the filled JSON tests](https://github.com/ethereum/execution-specs/issues/2089) - 2026-01-28
 ## Q4 2025
 
 

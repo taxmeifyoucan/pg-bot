@@ -8,6 +8,11 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [Fill command fails to validate transaction traces (--traces)](https://github.com/ethereum/execution-specs/issues/2092) - 2026-01-28
 ## Q4 2025
 
 

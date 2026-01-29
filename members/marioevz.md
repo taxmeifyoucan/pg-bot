@@ -22,6 +22,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] []() - 2026-01-19
 * [Pull Request] []() - 2026-01-20
 * [Issue] [chore(testing): Replace `hashllib.sha256` with faster algorithm](https://github.com/ethereum/execution-specs/issues/2087) - 2026-01-27
+* [Issue] [Speed-up JSON infra by filling a subset of test and executing it](https://github.com/ethereum/execution-specs/issues/2090) - 2026-01-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-15
 ## Q4 2025

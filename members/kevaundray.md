@@ -22,6 +22,9 @@ Team: Consensus R&D (EF)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [zkEVM breakout #01, Feb 11, 2026](https://github.com/ethereum/pm/issues/1900) - 2026-01-27
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [Consider extending specs to engine api methods](https://github.com/ethereum/execution-specs/issues/2096) - 2026-01-29
 ## Q4 2025
 
 

@@ -17,6 +17,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Erigon built an invalid block on Gnosis Chain](https://github.com/erigontech/erigon/issues/18823) - 2026-01-27
 * [Issue] [deps: update libsecp256k1 to 0.7.1](https://github.com/erigontech/erigon/issues/18822) - 2026-01-27
 * [Issue] [Revisit EIP-6780: merge stateObject.newlyCreated & createdContract?](https://github.com/erigontech/erigon/issues/18808) - 2026-01-26
+* [Issue] [Add test for the Chiado re-exec issue](https://github.com/erigontech/erigon/issues/18848) - 2026-01-28
+* [Issue] [Switch to the new Chiado and re-generate snapshots](https://github.com/erigontech/erigon/issues/18838) - 2026-01-28
 ## Q4 2025
 
 

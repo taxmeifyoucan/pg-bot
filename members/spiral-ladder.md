@@ -11,3 +11,4 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 
 [chainsafe/lodestar-z](https://github.com/chainsafe/lodestar-z)
 * [Pull Request] []() - 2026-01-26
+* [Pull Request] []() - 2026-01-28

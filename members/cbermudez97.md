@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 
 ## Contributions
 
+## Q1 2026
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Pull Request] []() - 2026-01-28
 ## Q4 2025
 
 
