@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [Turn down this log: Invalid input length for P256VERIFY precompile: expected 160 bytes but got 100](https://github.com/hyperledger/besu/issues/9659) - 2026-01-21
 * [Issue] [Fallback to PoS if no consensus method defined in genesis](https://github.com/hyperledger/besu/issues/9675) - 2026-01-23
 * [Pull Request] []() - 2026-01-26
+* [Pull Request] []() - 2026-01-29
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-08

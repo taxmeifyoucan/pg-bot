@@ -12,3 +12,4 @@ Github: [@nixorokish](https://github.com/nixorokish)
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] []() - 2026-01-27
 * [Issue] [All Core Devs - Consensus (ACDC) #174, Feb 5, 2026](https://github.com/ethereum/pm/issues/1907) - 2026-01-28
+* [Pull Request] []() - 2026-01-29
