@@ -13,6 +13,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-01-22
+
+[chainsafe/lodestar](https://github.com/chainsafe/lodestar)
+* [Issue] [Implement queue for execution payload in Gloas](https://github.com/ChainSafe/lodestar/issues/8811) - 2026-01-30
 ## Q4 2025
 
 

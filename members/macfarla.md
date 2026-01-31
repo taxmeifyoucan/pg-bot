@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [Fallback to PoS if no consensus method defined in genesis](https://github.com/hyperledger/besu/issues/9675) - 2026-01-23
 * [Pull Request] []() - 2026-01-26
 * [Pull Request] []() - 2026-01-29
+* [Issue] [[PoW removal] decouple JsonBlockImporter](https://github.com/hyperledger/besu/issues/9713) - 2026-01-30
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-08

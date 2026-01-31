@@ -16,6 +16,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] []() - 2026-01-21
 
 * [Pull Request] []() - 2026-01-29
+* [Issue] [Improve eth_estimateGas binary search by doing first some short circuits](https://github.com/status-im/nimbus-eth1/issues/3946) - 2026-01-30
+* [Issue] [Fix EstimateGas to add gas cost for EIP-7702  authorization](https://github.com/status-im/nimbus-eth1/issues/3945) - 2026-01-30
+* [Issue] [Implement Execution api method eth_feeHistory](https://github.com/status-im/nimbus-eth1/issues/3944) - 2026-01-30
+* [Issue] [Implement Execution api method eth_simulateV1](https://github.com/status-im/nimbus-eth1/issues/3943) - 2026-01-30
+* [Issue] [Execution-api JSON-RPC master tracker issue](https://github.com/status-im/nimbus-eth1/issues/3942) - 2026-01-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] []() - 2026-01-23
 * [Pull Request] []() - 2026-01-27

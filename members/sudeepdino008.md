@@ -23,6 +23,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [torrent verification and recovery](https://github.com/erigontech/erigon/issues/18776) - 2026-01-23
 * [Pull Request] []() - 2026-01-24
 * [Pull Request] []() - 2026-01-26
+* [Issue] [gnosis commitment history generation](https://github.com/erigontech/erigon/issues/18893) - 2026-01-30
+* [Issue] [integrity cache for faster file checks](https://github.com/erigontech/erigon/issues/18890) - 2026-01-30
+* [Issue] [Erigon Publishable v3](https://github.com/erigontech/erigon/issues/18889) - 2026-01-30
 ## Q4 2025
 
 

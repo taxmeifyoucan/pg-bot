@@ -19,6 +19,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] []() - 2026-01-20
 * [Issue] [shutter handle non-matching ordering of decryption keys based on txnindex](https://github.com/erigontech/erigon/issues/18780) - 2026-01-23
+* [Issue] [Flaky TestSendRawTransactionSync](https://github.com/erigontech/erigon/issues/18884) - 2026-01-30
 ## Q4 2025
 
 

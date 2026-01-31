@@ -17,6 +17,8 @@ Team: Consensus R&D (EF)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Change the public input for optional proofs from block hash to payload header](https://github.com/ethereum/consensus-specs/issues/4820) - 2026-01-08
 
+* [Pull Request] []() - 2026-01-31
+* [Issue] [Unresolved TODOs from PR #4828](https://github.com/ethereum/consensus-specs/issues/4885) - 2026-01-31
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Issue] [engine_newPayloadWithWitness](https://github.com/ethereum/execution-apis/issues/741) - 2026-01-20
 

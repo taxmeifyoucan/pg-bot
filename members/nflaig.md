@@ -16,6 +16,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Consider switching to @vekexasia/bigint-buffer2](https://github.com/ChainSafe/lodestar/issues/8771) - 2026-01-21
 * [Pull Request] []() - 2026-01-22
 * [Pull Request] []() - 2026-01-27
+* [Pull Request] []() - 2026-01-30
 ## Q4 2025
 
 
