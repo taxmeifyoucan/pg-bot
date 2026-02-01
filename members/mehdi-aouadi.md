@@ -15,6 +15,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] []() - 2026-01-26
 * [Pull Request] []() - 2026-01-27
 * [Pull Request] []() - 2026-01-28
+* [Pull Request] []() - 2026-01-31
 ## Q4 2025
 
 

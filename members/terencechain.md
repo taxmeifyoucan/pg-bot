@@ -13,6 +13,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
 * [Pull Request] []() - 2026-01-27
+* [Pull Request] []() - 2026-01-31
 ## Q4 2025
 
 

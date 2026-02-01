@@ -21,6 +21,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [Release: `v1.7.0-alpha.2`](https://github.com/ethereum/consensus-specs/issues/4858) - 2026-01-23
 
 * [Pull Request] []() - 2026-01-28
+* [Pull Request] []() - 2026-01-31
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] []() - 2026-01-27
 
