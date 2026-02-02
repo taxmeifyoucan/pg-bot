@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Issue] [Remove tx receipt changes from EIP-7778](https://github.com/hyperledger/besu/issues/9683) - 2026-01-26
 * [Pull Request] []() - 2026-01-27
 * [Pull Request] []() - 2026-01-30
+* [Pull Request] []() - 2026-02-01
 ## Q4 2025
 
 

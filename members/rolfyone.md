@@ -15,6 +15,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] []() - 2026-01-19
 * [Issue] ['please fix or report' in SidecarRetriever](https://github.com/Consensys/teku/issues/10288) - 2026-01-21
 * [Issue] [[EIP-7732] pubsub changes](https://github.com/Consensys/teku/issues/10301) - 2026-01-27
+* [Pull Request] []() - 2026-02-01
+* [Issue] [cleanup the validation around bls_to_execution](https://github.com/Consensys/teku/issues/10309) - 2026-02-01
 ## Q4 2025
 
 

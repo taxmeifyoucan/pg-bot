@@ -14,6 +14,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Issue] [Node is trying to remove one more block (at least in logs)](https://github.com/NethermindEth/nethermind/issues/10119) - 2026-01-06
 * [Pull Request] []() - 2026-01-30
+* [Issue] ["Improve PR workflow"](https://github.com/NethermindEth/nethermind/issues/10374) - 2026-02-01
 ## Q4 2025
 
 
