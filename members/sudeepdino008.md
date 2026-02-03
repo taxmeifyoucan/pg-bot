@@ -26,6 +26,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [gnosis commitment history generation](https://github.com/erigontech/erigon/issues/18893) - 2026-01-30
 * [Issue] [integrity cache for faster file checks](https://github.com/erigontech/erigon/issues/18890) - 2026-01-30
 * [Issue] [Erigon Publishable v3](https://github.com/erigontech/erigon/issues/18889) - 2026-01-30
+* [Issue] [can't re-exec gnosis from block 0](https://github.com/erigontech/erigon/issues/18925) - 2026-02-02
 ## Q4 2025
 
 

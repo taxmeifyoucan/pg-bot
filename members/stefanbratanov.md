@@ -17,6 +17,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [Implement proposer preferences](https://github.com/Consensys/teku/issues/10259) - 2026-01-06
 * [Pull Request] []() - 2026-01-08
 * [Pull Request] []() - 2026-01-30
+* [Pull Request] []() - 2026-02-02
+* [Issue] [DoS prevention measures for p2p bids](https://github.com/Consensys/teku/issues/10314) - 2026-02-02
+* [Issue] [Data availability checks in Gloas](https://github.com/Consensys/teku/issues/10311) - 2026-02-02
 ## Q4 2025
 
 

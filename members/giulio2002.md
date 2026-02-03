@@ -18,6 +18,7 @@ Team: Erigon
 * [Pull Request] []() - 2026-01-07
 * [Pull Request] []() - 2026-01-31
 * [Pull Request] []() - 2026-02-02
+* [Pull Request] []() - 2026-02-03
 ## Q4 2025
 
 

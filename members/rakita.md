@@ -24,6 +24,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 * [Pull Request] []() - 2026-01-28
 * [Issue] [Deprecate nonce_bump_journal_entry(), caller_accounting_journal_entry](https://github.com/bluealloy/revm/issues/3365) - 2026-01-28
+* [Pull Request] []() - 2026-02-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-27
 ## Q4 2025

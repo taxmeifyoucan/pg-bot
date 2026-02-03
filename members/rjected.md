@@ -14,6 +14,8 @@ Team: Reth
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] []() - 2026-01-17
 * [Pull Request] []() - 2026-01-30
+* [Pull Request] []() - 2026-02-03
+* [Issue] [`reth prune` does not delete AccountHistory/StoragesHistory/TransactionHashNumbers from rocksdb](https://github.com/paradigmxyz/reth/issues/21713) - 2026-02-02
 ## Q4 2025
 
 

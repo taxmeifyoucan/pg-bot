@@ -20,6 +20,15 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] []() - 2026-01-12
 * [Pull Request] []() - 2026-01-16
+
+[consensys/teku](https://github.com/consensys/teku)
+* [Issue] [FR: add `--force-clear-db` to wipe the existing db at startup](https://github.com/Consensys/teku/issues/10313) - 2026-02-02
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Issue] [FR: add --force-clear-db to wipe the existing db at startup](https://github.com/grandinetech/grandine/issues/585) - 2026-02-02
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Issue] [FR: add --force-clear-db to wipe the existing db at startup](https://github.com/status-im/nimbus-eth2/issues/7913) - 2026-02-02
 ## Q4 2025
 
 

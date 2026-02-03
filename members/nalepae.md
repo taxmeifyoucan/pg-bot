@@ -16,6 +16,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] []() - 2026-01-05
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-21
+* [Issue] [No `Synced new block` log with INFO verbosity](https://github.com/OffchainLabs/prysm/issues/16314) - 2026-02-02
 ## Q4 2025
 
 

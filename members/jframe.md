@@ -19,6 +19,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Bonsai Archive: Unify format options (remove X_ prefix)](https://github.com/hyperledger/besu/issues/9702) - 2026-01-28
 * [Issue] [Bonsai Archive: Remove or improve BonsaiArchivePartialFlatDbStrategy](https://github.com/hyperledger/besu/issues/9701) - 2026-01-28
 * [Issue] [Bonsai Archive: Index-based access to eliminate seekForPrev](https://github.com/hyperledger/besu/issues/9700) - 2026-01-28
+* [Issue] [Besu disconnecting other Besu nodes with unknown reason](https://github.com/hyperledger/besu/issues/9731) - 2026-02-03
+* [Issue] [Improve flat database healing performance](https://github.com/hyperledger/besu/issues/9725) - 2026-02-02
+* [Issue] [Improve world state sync performance by increasing parallelization](https://github.com/hyperledger/besu/issues/9724) - 2026-02-02
+* [Issue] [Improve peer selection for world state download](https://github.com/hyperledger/besu/issues/9722) - 2026-02-02
+* [Issue] [Add peer performance metrics (transfer speed, latency, success rate)](https://github.com/hyperledger/besu/issues/9721) - 2026-02-02
+* [Issue] [Complete switch over to new peer task system for snap download](https://github.com/hyperledger/besu/issues/9719) - 2026-02-02
 ## Q4 2025
 
 
