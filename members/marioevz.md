@@ -24,6 +24,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [chore(testing): Replace `hashllib.sha256` with faster algorithm](https://github.com/ethereum/execution-specs/issues/2087) - 2026-01-27
 * [Issue] [Speed-up JSON infra by filling a subset of test and executing it](https://github.com/ethereum/execution-specs/issues/2090) - 2026-01-28
 * [Issue] [Mark Tests Requiring Opcode Counting](https://github.com/ethereum/execution-specs/issues/2102) - 2026-01-29
+* [Issue] [feat(testing): Stateful Engine X Format and Fill Transition Tool](https://github.com/ethereum/execution-specs/issues/2125) - 2026-02-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-15
 ## Q4 2025

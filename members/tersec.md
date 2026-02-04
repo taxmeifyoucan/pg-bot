@@ -17,6 +17,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Implement EIP-7843](https://github.com/status-im/nimbus-eth1/issues/3906) - 2026-01-12
 * [Issue] [Implement EIP-7778](https://github.com/status-im/nimbus-eth1/issues/3905) - 2026-01-12
 * [Issue] [Implement EIP-7708](https://github.com/status-im/nimbus-eth1/issues/3904) - 2026-01-12
+* [Issue] [beta release tracking](https://github.com/status-im/nimbus-eth1/issues/3965) - 2026-02-03
 ## Q4 2025
 
 

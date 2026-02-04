@@ -17,6 +17,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] []() - 2026-01-27
+
+[eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
+* [Pull Request] []() - 2026-02-03
 ## Q4 2025
 
 

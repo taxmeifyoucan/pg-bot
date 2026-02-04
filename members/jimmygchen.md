@@ -17,6 +17,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Implement partial data columns metrics](https://github.com/sigp/lighthouse/issues/8654) - 2026-01-13
 * [Pull Request] []() - 2026-01-21
 * [Issue] [Implement updated `update_proposer_boost_root` in fork choice](https://github.com/sigp/lighthouse/issues/8689) - 2026-01-21
+* [Pull Request] []() - 2026-02-04
+* [Issue] [Head monitor service resilience improvements](https://github.com/sigp/lighthouse/issues/8741) - 2026-02-04
 ## Q4 2025
 
 

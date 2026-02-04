@@ -15,6 +15,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Track data archival during sync](https://github.com/ChainSafe/lodestar/issues/8793) - 2026-01-27
 * [Pull Request] []() - 2026-01-29
 * [Issue] [Refactor signature sets to use indices](https://github.com/ChainSafe/lodestar/issues/8801) - 2026-01-28
+* [Pull Request] []() - 2026-02-03
 ## Q4 2025
 
 

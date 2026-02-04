@@ -15,6 +15,8 @@ Team: Erigon
 * [Issue] [erigon can't start after `rm chaindata` because state files are ahead of block files](https://github.com/erigontech/erigon/issues/18702) - 2026-01-16
 * [Issue] [Experiment: history vals table to be](https://github.com/erigontech/erigon/issues/18857) - 2026-01-29
 * [Issue] [p2p: race in main](https://github.com/erigontech/erigon/issues/18901) - 2026-01-31
+* [Issue] [StateCache: enable it in all tooling](https://github.com/erigontech/erigon/issues/18949) - 2026-02-04
+* [Issue] [StateCache: enable it in all tests](https://github.com/erigontech/erigon/issues/18948) - 2026-02-04
 ## Q4 2025
 
 
