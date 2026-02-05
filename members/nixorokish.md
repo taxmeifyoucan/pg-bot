@@ -16,3 +16,4 @@ Github: [@nixorokish](https://github.com/nixorokish)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-02-03
+* [Pull Request] []() - 2026-02-04

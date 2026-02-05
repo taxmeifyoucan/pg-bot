@@ -20,6 +20,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 * [Issue] [rpc: add block timestamp to eth_getTransactionByHash](https://github.com/erigontech/erigon/issues/18811) - 2026-01-26
 * [Issue] [rpc: add support for `debug_setHead`](https://github.com/erigontech/erigon/issues/18922) - 2026-02-02
+* [Pull Request] []() - 2026-02-05
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] []() - 2026-01-26
 * [Pull Request] []() - 2026-01-28

@@ -15,6 +15,8 @@ Team: Geth
 * [Pull Request] []() - 2026-01-08
 * [Pull Request] []() - 2026-01-16
 * [Pull Request] []() - 2026-01-22
+* [Issue] [Use blockchain tests to add coverage for the miner](https://github.com/ethereum/go-ethereum/issues/33762) - 2026-02-04
+* [Pull Request] []() - 2026-02-04
 ## Q4 2025
 
 

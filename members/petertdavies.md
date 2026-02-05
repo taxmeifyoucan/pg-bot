@@ -8,6 +8,12 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [fix(docs): Mention conventional commits in `CONTRIBUTING.md`](https://github.com/ethereum/execution-specs/issues/2136) - 2026-02-04
+* [Issue] [refactor(spec): Replace `@slotted_freezable` with `@dataclasses(frozen=True,slots=True)`](https://github.com/ethereum/execution-specs/issues/2135) - 2026-02-04
 ## Q4 2025
 
 

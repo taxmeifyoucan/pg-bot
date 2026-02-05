@@ -19,6 +19,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Implement updated `update_proposer_boost_root` in fork choice](https://github.com/sigp/lighthouse/issues/8689) - 2026-01-21
 * [Pull Request] []() - 2026-02-04
 * [Issue] [Head monitor service resilience improvements](https://github.com/sigp/lighthouse/issues/8741) - 2026-02-04
+* [Issue] [Implement inactivity_scores reward EF tests from v1.7.0-alpha.2](https://github.com/sigp/lighthouse/issues/8750) - 2026-02-04
 ## Q4 2025
 
 

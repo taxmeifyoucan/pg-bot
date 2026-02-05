@@ -17,6 +17,7 @@ Team: Erigon
 * [Issue] [p2p: race in main](https://github.com/erigontech/erigon/issues/18901) - 2026-01-31
 * [Issue] [StateCache: enable it in all tooling](https://github.com/erigontech/erigon/issues/18949) - 2026-02-04
 * [Issue] [StateCache: enable it in all tests](https://github.com/erigontech/erigon/issues/18948) - 2026-02-04
+* [Issue] [Pipe-fix for win](https://github.com/erigontech/erigon/issues/18950) - 2026-02-04
 ## Q4 2025
 
 

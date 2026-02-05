@@ -21,6 +21,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [[PoW removal] decouple JsonBlockImporter](https://github.com/hyperledger/besu/issues/9713) - 2026-01-30
 * [Pull Request] []() - 2026-02-03
 * [Issue] [flaky test EphemeryTest](https://github.com/hyperledger/besu/issues/9726) - 2026-02-02
+* [Pull Request] []() - 2026-02-05
+* [Issue] [flaky test BftSyncAcceptanceTest](https://github.com/hyperledger/besu/issues/9747) - 2026-02-05
+* [Issue] [flaky test BundleSelectorPluginTest](https://github.com/hyperledger/besu/issues/9744) - 2026-02-04
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-08

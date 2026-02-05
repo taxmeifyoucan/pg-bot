@@ -15,6 +15,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [All Core Devs - Testing (ACDT) #65, January 12, 2026](https://github.com/ethereum/pm/issues/1865) - 2026-01-07
 
 * [Issue] [All Core Devs - Testing (ACDT) #67, January 26, 2026](https://github.com/ethereum/pm/issues/1882) - 2026-01-19
+* [Issue] [All Core Devs - Testing (ACDT) #69, February 9, 2026](https://github.com/ethereum/pm/issues/1913) - 2026-02-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-7997 Implementation Tracker: Deterministic Factory Predeploy](https://github.com/ethereum/execution-specs/issues/1988) - 2026-01-07
 * [Pull Request] []() - 2026-01-10

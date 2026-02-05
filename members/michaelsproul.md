@@ -18,6 +18,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Release v8.1.0](https://github.com/sigp/lighthouse/issues/8681) - 2026-01-20
 * [Issue] [Gloas devnet planning](https://github.com/sigp/lighthouse/issues/8680) - 2026-01-20
 * [Pull Request] []() - 2026-02-02
+* [Pull Request] []() - 2026-02-04
+* [Issue] [Allow LH to build without OpenSSL](https://github.com/sigp/lighthouse/issues/8756) - 2026-02-04
 ## Q4 2025
 
 
