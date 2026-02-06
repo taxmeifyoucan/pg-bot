@@ -16,6 +16,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2026-01-29
 * [Issue] [Refactor signature sets to use indices](https://github.com/ChainSafe/lodestar/issues/8801) - 2026-01-28
 * [Pull Request] []() - 2026-02-03
+* [Issue] [Drop support for node 22](https://github.com/ChainSafe/lodestar/issues/8867) - 2026-02-05
+* [Pull Request] []() - 2026-02-05
 ## Q4 2025
 
 

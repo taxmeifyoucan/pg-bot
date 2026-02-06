@@ -15,11 +15,13 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] []() - 2026-01-04
 * [Issue] [Consider an optional flag to collect and dump GPU metrics](https://github.com/eth-act/ere/issues/265) - 2026-01-06
 
+* [Pull Request] []() - 2026-02-06
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] []() - 2026-01-27
 
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] []() - 2026-02-03
+* [Pull Request] []() - 2026-02-05
 ## Q4 2025
 
 

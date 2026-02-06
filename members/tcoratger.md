@@ -11,3 +11,4 @@ Github: [@tcoratger](https://github.com/tcoratger)
 
 [plonky3/plonky3](https://github.com/plonky3/plonky3)
 * [Pull Request] []() - 2026-02-03
+* [Pull Request] []() - 2026-02-05

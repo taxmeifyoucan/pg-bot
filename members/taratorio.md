@@ -16,6 +16,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] []() - 2026-01-16
 * [Pull Request] []() - 2026-01-19
 
+* [Pull Request] []() - 2026-02-05
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] []() - 2026-01-20
 * [Issue] [shutter handle non-matching ordering of decryption keys based on txnindex](https://github.com/erigontech/erigon/issues/18780) - 2026-01-23

@@ -18,6 +18,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] []() - 2026-01-21
 * [Pull Request] []() - 2026-01-22
 * [Pull Request] []() - 2026-01-24
+* [Pull Request] []() - 2026-02-06
 ## Q4 2025
 
 
