@@ -28,6 +28,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] []() - 2026-01-18
 
+* [Pull Request] []() - 2026-02-06
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] []() - 2026-02-04
 ## Q4 2025

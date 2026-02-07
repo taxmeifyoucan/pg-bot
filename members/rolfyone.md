@@ -17,6 +17,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [[EIP-7732] pubsub changes](https://github.com/Consensys/teku/issues/10301) - 2026-01-27
 * [Pull Request] []() - 2026-02-01
 * [Issue] [cleanup the validation around bls_to_execution](https://github.com/Consensys/teku/issues/10309) - 2026-02-01
+* [Issue] [Boundary condition test for ForkChoiceUtilGloas](https://github.com/Consensys/teku/issues/10341) - 2026-02-06
+* [Issue] [fix voluntary exit test for gloas](https://github.com/Consensys/teku/issues/10340) - 2026-02-06
 ## Q4 2025
 
 

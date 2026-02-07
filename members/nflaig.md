@@ -18,6 +18,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2026-01-27
 * [Pull Request] []() - 2026-01-30
 * [Pull Request] []() - 2026-02-02
+* [Pull Request] []() - 2026-02-06
+* [Issue] [Add workflow for nightly generated tests vectors](https://github.com/ChainSafe/lodestar/issues/8871) - 2026-02-06
+* [Issue] [Reuse bytes when deserializing gossip](https://github.com/ChainSafe/lodestar/issues/8870) - 2026-02-06
 ## Q4 2025
 
 

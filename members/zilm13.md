@@ -22,6 +22,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] []() - 2026-01-29
 * [Pull Request] []() - 2026-02-03
 * [Pull Request] []() - 2026-02-06
+* [Issue] [Penalize peers causing ReqResp/Gossip exceptions](https://github.com/Consensys/teku/issues/10339) - 2026-02-06
+* [Issue] [Archive DataColumnSidecars to the disk](https://github.com/Consensys/teku/issues/10338) - 2026-02-06
 ## Q4 2025
 
 

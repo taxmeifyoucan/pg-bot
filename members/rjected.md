@@ -17,6 +17,8 @@ Team: Reth
 * [Pull Request] []() - 2026-02-03
 * [Issue] [`reth prune` does not delete AccountHistory/StoragesHistory/TransactionHashNumbers from rocksdb](https://github.com/paradigmxyz/reth/issues/21713) - 2026-02-02
 * [Issue] [Support Ctrl-C in `reth prune`](https://github.com/paradigmxyz/reth/issues/21756) - 2026-02-03
+* [Pull Request] []() - 2026-02-07
+* [Issue] [`--minimal` with senders in static files cannot handle completely missing senders](https://github.com/paradigmxyz/reth/issues/21914) - 2026-02-06
 ## Q4 2025
 
 

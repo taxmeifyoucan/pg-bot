@@ -14,6 +14,7 @@ Team: Geth
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2026-01-12
 * [Pull Request] []() - 2026-01-13
+* [Pull Request] []() - 2026-02-06
 ## Q4 2025
 
 

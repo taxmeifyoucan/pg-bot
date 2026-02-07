@@ -22,6 +22,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [shutter handle non-matching ordering of decryption keys based on txnindex](https://github.com/erigontech/erigon/issues/18780) - 2026-01-23
 * [Issue] [Flaky TestSendRawTransactionSync](https://github.com/erigontech/erigon/issues/18884) - 2026-01-30
 * [Issue] [receiptHash mismatch in gas-benchmarks for receipts with large amounts of logs](https://github.com/erigontech/erigon/issues/18920) - 2026-02-02
+* [Issue] [add unified slow-block log](https://github.com/erigontech/erigon/issues/19012) - 2026-02-06
 ## Q4 2025
 
 

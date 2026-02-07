@@ -15,9 +15,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] []() - 2026-01-02
 * [Issue] [Housekeeping Ideas](https://github.com/ethereum/EIPs/issues/11195) - 2026-01-28
 
+* [Pull Request] []() - 2026-02-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Carry pytest markers from Python all the way through to the filled JSON tests](https://github.com/ethereum/execution-specs/issues/2089) - 2026-01-28
 
+* [Issue] [Add `docc` plugin that automatically links to an EIP when it is mentioned](https://github.com/ethereum/execution-specs/issues/2153) - 2026-02-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs #38, February 18, 2026](https://github.com/ethereum/pm/issues/1909) - 2026-01-29
 ## Q4 2025
