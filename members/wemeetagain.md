@@ -18,6 +18,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2026-02-03
 * [Issue] [Drop support for node 22](https://github.com/ChainSafe/lodestar/issues/8867) - 2026-02-05
 * [Pull Request] []() - 2026-02-05
+* [Pull Request] []() - 2026-02-07
 ## Q4 2025
 
 

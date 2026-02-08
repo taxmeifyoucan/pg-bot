@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [cleanup the validation around bls_to_execution](https://github.com/Consensys/teku/issues/10309) - 2026-02-01
 * [Issue] [Boundary condition test for ForkChoiceUtilGloas](https://github.com/Consensys/teku/issues/10341) - 2026-02-06
 * [Issue] [fix voluntary exit test for gloas](https://github.com/Consensys/teku/issues/10340) - 2026-02-06
+* [Pull Request] []() - 2026-02-07
 ## Q4 2025
 
 
