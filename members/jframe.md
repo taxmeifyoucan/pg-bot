@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Improve peer selection for world state download](https://github.com/hyperledger/besu/issues/9722) - 2026-02-02
 * [Issue] [Add peer performance metrics (transfer speed, latency, success rate)](https://github.com/hyperledger/besu/issues/9721) - 2026-02-02
 * [Issue] [Complete switch over to new peer task system for snap download](https://github.com/hyperledger/besu/issues/9719) - 2026-02-02
+* [Pull Request] []() - 2026-02-09
 ## Q4 2025
 
 

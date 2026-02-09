@@ -19,6 +19,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] []() - 2026-01-14
 * [Pull Request] []() - 2026-01-28
 * [Pull Request] []() - 2026-02-04
+* [Pull Request] []() - 2026-02-08
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] []() - 2026-01-12
 ## Q4 2025

@@ -14,6 +14,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 [consensys/teku](https://github.com/consensys/teku)
 * [Issue] [We should subscribe to data columns subnets when following the chain optimistically](https://github.com/Consensys/teku/issues/10275) - 2026-01-15
 * [Issue] [`engine_forkchoiceUpdatedV4` for BALs](https://github.com/Consensys/teku/issues/10298) - 2026-01-26
+* [Pull Request] []() - 2026-02-08
 ## Q4 2025
 
 
