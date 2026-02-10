@@ -21,6 +21,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] []() - 2026-02-04
 * [Issue] [Allow LH to build without OpenSSL](https://github.com/sigp/lighthouse/issues/8756) - 2026-02-04
 * [Pull Request] []() - 2026-02-09
+* [Pull Request] []() - 2026-02-10
+* [Issue] [Blob delay is always "unknown" in head block logs](https://github.com/sigp/lighthouse/issues/8775) - 2026-02-09
 ## Q4 2025
 
 

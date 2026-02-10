@@ -23,6 +23,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [[Beacon-api] implement proposers v2 endpoint](https://github.com/Consensys/teku/issues/10346) - 2026-02-09
 * [Issue] [proposer v1 endpoint post fulu](https://github.com/Consensys/teku/issues/10345) - 2026-02-09
 * [Issue] [grafana 'attestation performance' graph is overloaded](https://github.com/Consensys/teku/issues/10344) - 2026-02-08
+* [Pull Request] []() - 2026-02-10
 ## Q4 2025
 
 

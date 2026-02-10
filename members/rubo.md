@@ -13,6 +13,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] []() - 2026-01-11
+
+[nethermindeth/bflat-riscv64](https://github.com/nethermindeth/bflat-riscv64)
+* [Pull Request] []() - 2026-02-09
 ## Q4 2025
 
 

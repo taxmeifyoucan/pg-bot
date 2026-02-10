@@ -27,6 +27,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] []() - 2026-02-02
 * [Pull Request] []() - 2026-02-03
 * [Pull Request] []() - 2026-02-06
+* [Pull Request] []() - 2026-02-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-27
 ## Q4 2025

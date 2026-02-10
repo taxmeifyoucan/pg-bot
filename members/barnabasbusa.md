@@ -17,6 +17,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] []() - 2026-01-09
 
+* [Pull Request] []() - 2026-02-09
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] []() - 2026-01-12
 * [Pull Request] []() - 2026-01-16

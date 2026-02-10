@@ -21,6 +21,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [DoS prevention measures for p2p bids](https://github.com/Consensys/teku/issues/10314) - 2026-02-02
 * [Issue] [Data availability checks in Gloas](https://github.com/Consensys/teku/issues/10311) - 2026-02-02
 * [Issue] [Proposer Boost Changes](https://github.com/Consensys/teku/issues/10320) - 2026-02-03
+* [Issue] [[Gloas] State Selection during Block Production](https://github.com/Consensys/teku/issues/10352) - 2026-02-09
 ## Q4 2025
 
 

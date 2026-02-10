@@ -13,6 +13,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 [nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
 * [Pull Request] []() - 2026-01-06
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [Account(storage={}) infinite loop-checks account storage over RPC](https://github.com/ethereum/execution-specs/issues/2162) - 2026-02-09
 ## Q4 2025
 
 

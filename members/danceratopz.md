@@ -22,6 +22,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] []() - 2026-01-27
 * [Issue] [Reduce memory when merging partial fixture files](https://github.com/ethereum/execution-specs/issues/2123) - 2026-02-03
 * [Pull Request] []() - 2026-02-08
+* [Issue] [Add heuristic to determine xdist worker count in `pytest_xdist_auto_num_workers`](https://github.com/ethereum/execution-specs/issues/2163) - 2026-02-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-23
 ## Q4 2025

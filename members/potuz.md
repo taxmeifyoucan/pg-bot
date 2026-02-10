@@ -20,12 +20,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] []() - 2026-01-11
 * [Pull Request] []() - 2026-01-12
 
+* [Issue] [should be able to get non-canonical blocks](https://github.com/OffchainLabs/prysm/issues/16342) - 2026-02-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-01-26
 * [Issue] [gloas fork should add builder deposits for previous epochs](https://github.com/ethereum/consensus-specs/issues/4867) - 2026-01-27
 * [Issue] [process_builder_pending_payments can go anywhere](https://github.com/ethereum/consensus-specs/issues/4866) - 2026-01-27
 * [Issue] [should proposer boost be counted in `is_parent_strong`?](https://github.com/ethereum/consensus-specs/issues/4899) - 2026-02-03
 * [Pull Request] []() - 2026-02-03
+* [Issue] [Allow attesters/proposers to override value of `is_payload_data_available`](https://github.com/ethereum/consensus-specs/issues/4907) - 2026-02-09
 ## Q4 2025
 
 
