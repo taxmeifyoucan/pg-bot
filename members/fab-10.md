@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Issue] [EIP-7975: eth/70 - partial block receipt lists](https://github.com/hyperledger/besu/issues/9665) - 2026-01-21
 * [Pull Request] []() - 2026-01-23
 * [Pull Request] []() - 2026-01-27
+* [Pull Request] []() - 2026-02-10
 ## Q4 2025
 
 

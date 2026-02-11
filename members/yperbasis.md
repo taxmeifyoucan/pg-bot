@@ -19,6 +19,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Revisit EIP-6780: merge stateObject.newlyCreated & createdContract?](https://github.com/erigontech/erigon/issues/18808) - 2026-01-26
 * [Issue] [Add test for the Chiado re-exec issue](https://github.com/erigontech/erigon/issues/18848) - 2026-01-28
 * [Issue] [Switch to the new Chiado and re-generate snapshots](https://github.com/erigontech/erigon/issues/18838) - 2026-01-28
+* [Issue] [Improve performance on BloatNet](https://github.com/erigontech/erigon/issues/19080) - 2026-02-10
+* [Issue] [TestEthSubscribeReceipts occasionally times out on Windows](https://github.com/erigontech/erigon/issues/19076) - 2026-02-10
 ## Q4 2025
 
 

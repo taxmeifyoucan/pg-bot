@@ -28,6 +28,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] []() - 2026-02-03
 * [Pull Request] []() - 2026-02-06
 * [Pull Request] []() - 2026-02-09
+* [Issue] [Add aws-lc-rs as alternative to secp256r1 precompile](https://github.com/bluealloy/revm/issues/3417) - 2026-02-10
+* [Pull Request] []() - 2026-02-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-27
 ## Q4 2025

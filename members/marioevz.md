@@ -27,6 +27,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Mark Tests Requiring Opcode Counting](https://github.com/ethereum/execution-specs/issues/2102) - 2026-01-29
 * [Issue] [feat(testing): Stateful Engine X Format and Fill Transition Tool](https://github.com/ethereum/execution-specs/issues/2125) - 2026-02-03
 * [Pull Request] []() - 2026-02-07
+* [Pull Request] []() - 2026-02-11
+* [Issue] [zkEVM Projects Tracking Issue](https://github.com/ethereum/execution-specs/issues/2183) - 2026-02-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-15
 ## Q4 2025

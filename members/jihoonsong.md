@@ -18,6 +18,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #27, January 27, 2026](https://github.com/ethereum/pm/issues/1898) - 2026-01-26
+* [Issue] [FOCIL Breakout #28, February 10, 2026](https://github.com/ethereum/pm/issues/1918) - 2026-02-10
 ## Q4 2025
 
 

@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q1 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [`MDBX_EKEYMISMATCH` on chain tip block insertion](https://github.com/erigontech/erigon/issues/19082) - 2026-02-10
 ## Q4 2025
 
 

@@ -19,6 +19,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [fork logic](https://github.com/erigontech/erigon/issues/18565) - 2026-01-06
 * [Issue] [fork choice flow](https://github.com/erigontech/erigon/issues/18564) - 2026-01-06
 * [Issue] [beacon state](https://github.com/erigontech/erigon/issues/18563) - 2026-01-06
+* [Issue] [beacon api](https://github.com/erigontech/erigon/issues/19089) - 2026-02-10
 ## Q3 2025
 
 

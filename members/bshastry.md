@@ -16,6 +16,11 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] []() - 2026-01-14
+
+[ethereum/evmone](https://github.com/ethereum/evmone)
+* [Issue] [EIP-7702: Consensus bugs in authorization processing (meta)](https://github.com/ipsilon/evmone/issues/1449) - 2026-02-10
+* [Issue] [EIP-7702: Incorrect refund calculation for warming-only authority accounts](https://github.com/ipsilon/evmone/issues/1448) - 2026-02-10
+* [Issue] [EIP-7702: Authority accounts warmed after validation instead of before](https://github.com/ipsilon/evmone/issues/1447) - 2026-02-10
 ## Q4 2025
 
 

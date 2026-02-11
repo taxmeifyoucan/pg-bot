@@ -17,6 +17,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] []() - 2026-01-17
 * [Issue] [Add tests for "reverted touch of empty account"](https://github.com/ethereum/execution-specs/issues/2174) - 2026-02-09
 * [Issue] [Zero test for Tangerine Whistle / Spurious Dragon / Constantinople](https://github.com/ethereum/execution-specs/issues/2173) - 2026-02-09
+* [Issue] [Missing test case for EIP-7702](https://github.com/ethereum/execution-specs/issues/2177) - 2026-02-10
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-15
@@ -31,6 +32,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] []() - 2026-02-06
 * [Pull Request] []() - 2026-02-07
 * [Pull Request] []() - 2026-02-09
+* [Pull Request] []() - 2026-02-10
 ## Q4 2025
 
 

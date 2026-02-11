@@ -26,6 +26,7 @@ Team: Reth
 * [Pull Request] []() - 2026-02-05
 * [Pull Request] []() - 2026-02-07
 * [Pull Request] []() - 2026-02-09
+* [Issue] [Implement variants for BAL devp2p variants](https://github.com/paradigmxyz/reth/issues/22015) - 2026-02-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] []() - 2026-01-16
 * [Pull Request] []() - 2026-01-21

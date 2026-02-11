@@ -13,6 +13,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] []() - 2026-02-06
+* [Pull Request] []() - 2026-02-11
+
+[nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
+* [Pull Request] []() - 2026-02-10
 ## Q4 2025
 
 

@@ -30,6 +30,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [FR: add --force-clear-db to wipe the existing db at startup](https://github.com/status-im/nimbus-eth2/issues/7913) - 2026-02-02
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #70, February 16, 2026](https://github.com/ethereum/pm/issues/1920) - 2026-02-10
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Pull Request] []() - 2026-02-10
 ## Q4 2025
 
 

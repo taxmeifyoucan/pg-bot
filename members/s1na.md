@@ -15,9 +15,12 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Issue] [Query transactions from era files on a pruned node](https://github.com/ethereum/go-ethereum/issues/33666) - 2026-01-22
 * [Issue] [eth_sendRawTransactionSync timeout parameter should be an int](https://github.com/ethereum/go-ethereum/issues/33696) - 2026-01-28
 
+* [Pull Request] []() - 2026-02-10
+* [Issue] [History expiry tracker](https://github.com/ethereum/go-ethereum/issues/33809) - 2026-02-10
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] []() - 2026-02-05
 * [Pull Request] []() - 2026-02-06
+* [Issue] [eth_getStorageValues - Batch storage slot retrieval](https://github.com/ethereum/execution-apis/issues/752) - 2026-02-10
 ## Q4 2025
 
 

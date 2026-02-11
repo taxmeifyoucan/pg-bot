@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Issue] [Gloas ePBS breaks dependant root?](https://github.com/sigp/lighthouse/issues/8629) - 2026-01-07
 * [Issue] [Static File Backend for Lighthouse Cold DB](https://github.com/sigp/lighthouse/issues/8634) - 2026-01-08
 * [Pull Request] []() - 2026-02-05
+* [Pull Request] []() - 2026-02-10
 ## Q4 2025
 
 

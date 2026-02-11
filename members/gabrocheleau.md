@@ -18,10 +18,12 @@ Team: EthereumJS
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementers Call #47, January 26, 2026](https://github.com/ethereum/pm/issues/1873) - 2026-01-12
 
+* [Issue] [Stateless Implementer's Call #49, February 23rd, 2026](https://github.com/ethereum/pm/issues/1919) - 2026-02-10
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
 * [Pull Request] []() - 2026-01-15
 * [Issue] [Glamsterdam Hardfork Meta Issue](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4238) - 2026-01-29
 * [Pull Request] []() - 2026-02-02
+* [Pull Request] []() - 2026-02-10
 ## Q4 2025
 
 

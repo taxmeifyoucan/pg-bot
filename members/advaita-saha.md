@@ -18,6 +18,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] []() - 2026-01-17
 * [Pull Request] []() - 2026-01-18
 * [Pull Request] []() - 2026-02-04
+* [Issue] [shift release to docker multi-arch](https://github.com/status-im/nimbus-eth1/issues/3972) - 2026-02-10
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2026-01-16
 * [Pull Request] []() - 2026-01-19

@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] []() - 2026-02-04
 * [Issue] [Add getNodeVersionV2](https://github.com/Consensys/teku/issues/10350) - 2026-02-09
 * [Issue] [Update AbstractDataColumnSidecarValidator for Gloas](https://github.com/Consensys/teku/issues/10349) - 2026-02-09
+* [Pull Request] []() - 2026-02-10
 ## Q4 2025
 
 

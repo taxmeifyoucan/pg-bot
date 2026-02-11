@@ -19,6 +19,7 @@ Team: Reth
 * [Issue] [Support Ctrl-C in `reth prune`](https://github.com/paradigmxyz/reth/issues/21756) - 2026-02-03
 * [Pull Request] []() - 2026-02-07
 * [Issue] [`--minimal` with senders in static files cannot handle completely missing senders](https://github.com/paradigmxyz/reth/issues/21914) - 2026-02-06
+* [Pull Request] []() - 2026-02-10
 ## Q4 2025
 
 
