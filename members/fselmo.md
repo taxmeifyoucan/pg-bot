@@ -28,6 +28,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] []() - 2026-02-04
 * [Pull Request] []() - 2026-02-05
 * [Pull Request] []() - 2026-02-09
+* [Issue] [Align on `Opcode`and `Bytecode` `__hash__` and `__eq__` logic](https://github.com/ethereum/execution-specs/issues/2190) - 2026-02-11
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2026-01-15
 * [Pull Request] []() - 2026-02-03

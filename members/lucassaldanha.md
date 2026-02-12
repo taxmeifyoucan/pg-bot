@@ -16,9 +16,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Add partial message support for PeerDAS data column propagation](https://github.com/Consensys/teku/issues/10284) - 2026-01-21
 * [Issue] [Add support for partial messages](https://github.com/Consensys/teku/issues/10283) - 2026-01-20
 
+* [Pull Request] []() - 2026-02-12
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] []() - 2026-01-21
 * [Pull Request] []() - 2026-01-27
+* [Issue] [Integrate jvm-libp2p into gossipsub-interop test](https://github.com/libp2p/jvm-libp2p/issues/439) - 2026-02-12
+* [Pull Request] []() - 2026-02-11
+* [Issue] [Investigate how extension control messages can affect peer scoring](https://github.com/libp2p/jvm-libp2p/issues/437) - 2026-02-11
+* [Issue] [Add support for Extension Control Messages (gossipsub v1.3)](https://github.com/libp2p/jvm-libp2p/issues/436) - 2026-02-11
+* [Issue] [Add support for partial messages extension](https://github.com/libp2p/jvm-libp2p/issues/435) - 2026-02-11
 ## Q4 2025
 
 

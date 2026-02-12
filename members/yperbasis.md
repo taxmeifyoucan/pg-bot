@@ -21,6 +21,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Switch to the new Chiado and re-generate snapshots](https://github.com/erigontech/erigon/issues/18838) - 2026-01-28
 * [Issue] [Improve performance on BloatNet](https://github.com/erigontech/erigon/issues/19080) - 2026-02-10
 * [Issue] [TestEthSubscribeReceipts occasionally times out on Windows](https://github.com/erigontech/erigon/issues/19076) - 2026-02-10
+* [Issue] [All tests (with -race) failing due to DATA RACE in exec3_parallel](https://github.com/erigontech/erigon/issues/19106) - 2026-02-11
+* [Issue] [Implement EIP-7954: Increase Maximum Contract Size](https://github.com/erigontech/erigon/issues/19103) - 2026-02-11
+* [Issue] [Implement EIP-8037: State Creation Gas Cost Increase](https://github.com/erigontech/erigon/issues/19102) - 2026-02-11
 ## Q4 2025
 
 

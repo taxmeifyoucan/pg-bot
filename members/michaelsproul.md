@@ -23,6 +23,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] []() - 2026-02-09
 * [Pull Request] []() - 2026-02-10
 * [Issue] [Blob delay is always "unknown" in head block logs](https://github.com/sigp/lighthouse/issues/8775) - 2026-02-09
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 ## Q4 2025
 
 

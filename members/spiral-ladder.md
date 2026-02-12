@@ -19,3 +19,4 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] []() - 2026-02-05
 * [Issue] [bindings: investigate long timeout for `hashTreeRoot` test](https://github.com/ChainSafe/lodestar-z/issues/212) - 2026-02-10
 * [Pull Request] []() - 2026-02-10
+* [Pull Request] []() - 2026-02-11

@@ -23,6 +23,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] []() - 2026-02-05
 * [Pull Request] []() - 2026-02-07
 * [Issue] [rpc: add support for testing_buildBlockV1](https://github.com/erigontech/erigon/issues/19054) - 2026-02-09
+* [Pull Request] []() - 2026-02-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] []() - 2026-01-26
 * [Pull Request] []() - 2026-01-28

@@ -24,6 +24,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [proposer v1 endpoint post fulu](https://github.com/Consensys/teku/issues/10345) - 2026-02-09
 * [Issue] [grafana 'attestation performance' graph is overloaded](https://github.com/Consensys/teku/issues/10344) - 2026-02-08
 * [Pull Request] []() - 2026-02-10
+* [Issue] [update besu library](https://github.com/Consensys/teku/issues/10364) - 2026-02-11
+* [Issue] [update discovery for teku](https://github.com/Consensys/teku/issues/10362) - 2026-02-11
 ## Q4 2025
 
 

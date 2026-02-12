@@ -20,6 +20,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2026-02-05
 * [Pull Request] []() - 2026-02-07
 * [Pull Request] []() - 2026-02-09
+* [Pull Request] []() - 2026-02-11
+* [Issue] [Remove light client and prover packages](https://github.com/ChainSafe/lodestar/issues/8892) - 2026-02-11
 ## Q4 2025
 
 
