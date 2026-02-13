@@ -20,6 +20,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] []() - 2026-02-02
 * [Pull Request] []() - 2026-02-06
 * [Pull Request] []() - 2026-02-11
+* [Pull Request] []() - 2026-02-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-20
 ## Q4 2025

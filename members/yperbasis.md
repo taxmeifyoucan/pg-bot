@@ -24,6 +24,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [All tests (with -race) failing due to DATA RACE in exec3_parallel](https://github.com/erigontech/erigon/issues/19106) - 2026-02-11
 * [Issue] [Implement EIP-7954: Increase Maximum Contract Size](https://github.com/erigontech/erigon/issues/19103) - 2026-02-11
 * [Issue] [Implement EIP-8037: State Creation Gas Cost Increase](https://github.com/erigontech/erigon/issues/19102) - 2026-02-11
+* [Issue] [Implement EIP-8159: eth/71 - Block Access List Exchange](https://github.com/erigontech/erigon/issues/19139) - 2026-02-12
+* [Issue] [Improve time of CI jobs and make more checks mandatory for PR merge](https://github.com/erigontech/erigon/issues/19136) - 2026-02-12
 ## Q4 2025
 
 

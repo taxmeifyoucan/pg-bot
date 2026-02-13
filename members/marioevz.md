@@ -29,6 +29,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] []() - 2026-02-07
 * [Pull Request] []() - 2026-02-11
 * [Issue] [zkEVM Projects Tracking Issue](https://github.com/ethereum/execution-specs/issues/2183) - 2026-02-10
+* [Pull Request] []() - 2026-02-13
+* [Issue] [feat(all): Repricing Tool](https://github.com/ethereum/execution-specs/issues/2200) - 2026-02-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-15
 ## Q4 2025

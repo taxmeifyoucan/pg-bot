@@ -19,6 +19,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] []() - 2026-01-15
 * [Issue] [Investigate debug_stateSize](https://github.com/hyperledger/besu/issues/9658) - 2026-01-20
 * [Pull Request] []() - 2026-02-12
+* [Pull Request] []() - 2026-02-13
 ## Q4 2025
 
 

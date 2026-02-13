@@ -24,6 +24,7 @@ Team: EthereumJS
 * [Issue] [Glamsterdam Hardfork Meta Issue](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4238) - 2026-01-29
 * [Pull Request] []() - 2026-02-02
 * [Pull Request] []() - 2026-02-10
+* [Pull Request] []() - 2026-02-12
 ## Q4 2025
 
 

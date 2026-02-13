@@ -21,6 +21,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Implement Execution api method eth_feeHistory](https://github.com/status-im/nimbus-eth1/issues/3944) - 2026-01-30
 * [Issue] [Implement Execution api method eth_simulateV1](https://github.com/status-im/nimbus-eth1/issues/3943) - 2026-01-30
 * [Issue] [Execution-api JSON-RPC master tracker issue](https://github.com/status-im/nimbus-eth1/issues/3942) - 2026-01-30
+* [Pull Request] []() - 2026-02-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] []() - 2026-01-23
 * [Pull Request] []() - 2026-01-27

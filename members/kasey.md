@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
+* [Pull Request] []() - 2026-02-12
 ## Q4 2025
 
 

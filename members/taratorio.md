@@ -24,6 +24,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Flaky TestSendRawTransactionSync](https://github.com/erigontech/erigon/issues/18884) - 2026-01-30
 * [Issue] [receiptHash mismatch in gas-benchmarks for receipts with large amounts of logs](https://github.com/erigontech/erigon/issues/18920) - 2026-02-02
 * [Issue] [add unified slow-block log](https://github.com/erigontech/erigon/issues/19012) - 2026-02-06
+* [Issue] [sporadic could not start execution service due to error snapshot already loaded with different infohash](https://github.com/erigontech/erigon/issues/19128) - 2026-02-12
 ## Q4 2025
 
 

@@ -23,6 +23,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Reuse bytes when deserializing gossip](https://github.com/ChainSafe/lodestar/issues/8870) - 2026-02-06
 * [Pull Request] []() - 2026-02-08
 * [Pull Request] []() - 2026-02-10
+* [Pull Request] []() - 2026-02-12
 ## Q4 2025
 
 

@@ -32,6 +32,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2026-01-15
 * [Pull Request] []() - 2026-02-03
+* [Pull Request] []() - 2026-02-12
 ## Q4 2025
 
 
