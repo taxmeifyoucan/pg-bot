@@ -28,6 +28,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Issue] [should proposer boost be counted in `is_parent_strong`?](https://github.com/ethereum/consensus-specs/issues/4899) - 2026-02-03
 * [Pull Request] []() - 2026-02-03
 * [Issue] [Allow attesters/proposers to override value of `is_payload_data_available`](https://github.com/ethereum/consensus-specs/issues/4907) - 2026-02-09
+* [Pull Request] []() - 2026-02-13
 ## Q4 2025
 
 

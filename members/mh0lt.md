@@ -16,6 +16,9 @@ Team: Erigon
 * [Pull Request] []() - 2026-01-17
 * [Pull Request] []() - 2026-01-29
 * [Pull Request] []() - 2026-02-07
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Pull Request] []() - 2026-02-13
 ## Q4 2025
 
 

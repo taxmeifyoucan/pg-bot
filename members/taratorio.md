@@ -25,6 +25,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [receiptHash mismatch in gas-benchmarks for receipts with large amounts of logs](https://github.com/erigontech/erigon/issues/18920) - 2026-02-02
 * [Issue] [add unified slow-block log](https://github.com/erigontech/erigon/issues/19012) - 2026-02-06
 * [Issue] [sporadic could not start execution service due to error snapshot already loaded with different infohash](https://github.com/erigontech/erigon/issues/19128) - 2026-02-12
+* [Pull Request] []() - 2026-02-14
+* [Issue] [flaky TestTable_findnodeByID](https://github.com/erigontech/erigon/issues/19158) - 2026-02-13
 ## Q4 2025
 
 
