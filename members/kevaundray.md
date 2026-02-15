@@ -28,6 +28,7 @@ Team: Consensus R&D (EF)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Consider extending specs to engine api methods](https://github.com/ethereum/execution-specs/issues/2096) - 2026-01-29
 
+* [Pull Request] []() - 2026-02-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-29
 ## Q4 2025
