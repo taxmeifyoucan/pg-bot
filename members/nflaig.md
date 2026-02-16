@@ -24,6 +24,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2026-02-08
 * [Pull Request] []() - 2026-02-10
 * [Pull Request] []() - 2026-02-12
+* [Issue] [Queuing on api if execution payload envelope is received first](https://github.com/ChainSafe/lodestar/issues/8915) - 2026-02-15
+* [Pull Request] []() - 2026-02-15
 ## Q4 2025
 
 

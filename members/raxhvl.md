@@ -16,6 +16,9 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-02-13
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] []() - 2026-02-15
 ## Q4 2025
 
 

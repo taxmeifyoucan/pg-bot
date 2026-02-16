@@ -21,6 +21,7 @@ Team: Erigon
 * [Pull Request] []() - 2026-02-06
 * [Issue] [integrity check: false-positive about headers files](https://github.com/erigontech/erigon/issues/19181) - 2026-02-14
 * [Issue] [`gap in visible files`: during exec from 0](https://github.com/erigontech/erigon/issues/19178) - 2026-02-14
+* [Pull Request] []() - 2026-02-16
 ## Q4 2025
 
 

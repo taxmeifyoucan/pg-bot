@@ -12,6 +12,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-01-08
 
+* [Pull Request] []() - 2026-02-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-11
 * [Pull Request] []() - 2026-01-12

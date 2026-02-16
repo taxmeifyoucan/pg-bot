@@ -28,6 +28,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [flaky test ClusterAcceptanceTest shouldRestartAfterStop](https://github.com/hyperledger/besu/issues/9753) - 2026-02-06
 * [Pull Request] []() - 2026-02-10
 * [Issue] [debug_traceTransaction default param behavior](https://github.com/hyperledger/besu/issues/9787) - 2026-02-11
+* [Issue] [backup and restore state subcommands do not support bonsai](https://github.com/hyperledger/besu/issues/9811) - 2026-02-16
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-08
