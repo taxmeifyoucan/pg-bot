@@ -28,6 +28,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [update discovery for teku](https://github.com/Consensys/teku/issues/10362) - 2026-02-11
 * [Pull Request] []() - 2026-02-12
 * [Pull Request] []() - 2026-02-15
+* [Pull Request] []() - 2026-02-16
 ## Q4 2025
 
 

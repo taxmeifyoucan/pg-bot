@@ -19,6 +19,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] []() - 2026-01-27
 * [Pull Request] []() - 2026-01-30
 * [Pull Request] []() - 2026-02-01
+* [Issue] [Amsterdam: EIP-7954: Increase Maximum Contract Size](https://github.com/hyperledger/besu/issues/9816) - 2026-02-16
 ## Q4 2025
 
 

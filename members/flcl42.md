@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 ## Contributions
 
+## Q1 2026
+
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Pull Request] []() - 2026-02-16
 ## Q4 2025
 
 

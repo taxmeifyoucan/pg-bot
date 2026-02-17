@@ -26,6 +26,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Implement EIP-8037: State Creation Gas Cost Increase](https://github.com/erigontech/erigon/issues/19102) - 2026-02-11
 * [Issue] [Implement EIP-8159: eth/71 - Block Access List Exchange](https://github.com/erigontech/erigon/issues/19139) - 2026-02-12
 * [Issue] [Improve time of CI jobs and make more checks mandatory for PR merge](https://github.com/erigontech/erigon/issues/19136) - 2026-02-12
+* [Issue] [Implement bal-devnet-2 changes in Caplin](https://github.com/erigontech/erigon/issues/19218) - 2026-02-16
+* [Issue] [Add EIP-7928 Block-level Access Lists JSON RPC methods](https://github.com/erigontech/erigon/issues/19217) - 2026-02-16
 ## Q4 2025
 
 

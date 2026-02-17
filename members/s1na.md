@@ -19,6 +19,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Issue] [History expiry tracker](https://github.com/ethereum/go-ethereum/issues/33809) - 2026-02-10
 * [Pull Request] []() - 2026-02-11
 * [Pull Request] []() - 2026-02-12
+* [Pull Request] []() - 2026-02-16
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] []() - 2026-02-05
 * [Pull Request] []() - 2026-02-06

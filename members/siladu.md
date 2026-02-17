@@ -20,6 +20,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Issue] [Investigate debug_stateSize](https://github.com/hyperledger/besu/issues/9658) - 2026-01-20
 * [Pull Request] []() - 2026-02-12
 * [Pull Request] []() - 2026-02-13
+* [Pull Request] []() - 2026-02-17
+* [Issue] [Use docker buildx imagetools for multi-arch manifest creation](https://github.com/hyperledger/besu/issues/9818) - 2026-02-17
 ## Q4 2025
 
 

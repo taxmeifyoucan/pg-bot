@@ -24,6 +24,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Remove light client and prover packages](https://github.com/ChainSafe/lodestar/issues/8892) - 2026-02-11
 
 * [Pull Request] []() - 2026-02-14
+* [Pull Request] []() - 2026-02-16
 [chainsafe/lodestar-z](https://github.com/chainsafe/lodestar-z)
 * [Pull Request] []() - 2026-02-12
 * [Issue] [bindings: revisit configuration setting logic](https://github.com/ChainSafe/lodestar-z/issues/215) - 2026-02-12

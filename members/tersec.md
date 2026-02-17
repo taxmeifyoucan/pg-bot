@@ -19,6 +19,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Implement EIP-7708](https://github.com/status-im/nimbus-eth1/issues/3904) - 2026-01-12
 * [Issue] [beta release tracking](https://github.com/status-im/nimbus-eth1/issues/3965) - 2026-02-03
 
+* [Issue] [Update EIP-7708](https://github.com/status-im/nimbus-eth1/issues/3989) - 2026-02-17
+* [Issue] [Implement eth/71 (EIP-8159)](https://github.com/status-im/nimbus-eth1/issues/3987) - 2026-02-16
+* [Issue] [Implement eth/70 (EIP-7975)](https://github.com/status-im/nimbus-eth1/issues/3986) - 2026-02-16
+* [Issue] [Update EIP-7928 to cap max items](https://github.com/status-im/nimbus-eth1/issues/3985) - 2026-02-16
+* [Issue] [Implement EIP-8037](https://github.com/status-im/nimbus-eth1/issues/3984) - 2026-02-16
+* [Issue] [Implement EIP-7954](https://github.com/status-im/nimbus-eth1/issues/3983) - 2026-02-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] []() - 2026-02-10
 * [Pull Request] []() - 2026-02-13

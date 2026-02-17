@@ -26,6 +26,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
+* [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16
+* [Issue] [No `sanity/blocks` tests in v1.7.0-alpha.2](https://github.com/ethereum/consensus-specs/issues/4928) - 2026-02-16
 ## Q4 2025
 
 

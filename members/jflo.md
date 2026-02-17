@@ -14,6 +14,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Refactor ProtocolSpec to support EIP querying and per-hardfork EIP configuration](https://github.com/hyperledger/besu/issues/9618) - 2026-01-09
 * [Issue] [Inconsistent state on newBlock websocket subscriptions.](https://github.com/hyperledger/besu/issues/9682) - 2026-01-26
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Encrypt The Mempool #0, February 18, 2026](https://github.com/ethereum/pm/issues/1929) - 2026-02-16
 ## Q4 2025
 
 
