@@ -14,6 +14,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] []() - 2026-01-03
 * [Pull Request] []() - 2026-02-07
+* [Issue] [`eth_estimateGas` intermittently returns incorrect results / reverts on v1.36.0 (regression from v1.35.x)](https://github.com/NethermindEth/nethermind/issues/10552) - 2026-02-17
 ## Q3 2025
 
 

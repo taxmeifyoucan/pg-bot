@@ -25,6 +25,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] []() - 2026-02-10
 * [Pull Request] []() - 2026-02-12
 * [Pull Request] []() - 2026-02-13
+* [Pull Request] []() - 2026-02-17
 ## Q4 2025
 
 

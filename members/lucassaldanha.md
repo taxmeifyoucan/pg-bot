@@ -28,6 +28,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] []() - 2026-02-16
 * [Issue] [Feature flag for supported extensions](https://github.com/libp2p/jvm-libp2p/issues/441) - 2026-02-16
 * [Issue] [Investigate impact of splitting control extension messages from extensions messages](https://github.com/libp2p/jvm-libp2p/issues/440) - 2026-02-16
+* [Pull Request] []() - 2026-02-17
 ## Q4 2025
 
 

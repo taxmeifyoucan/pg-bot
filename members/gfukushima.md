@@ -17,6 +17,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] []() - 2026-01-12
 * [Pull Request] []() - 2026-01-21
 * [Pull Request] []() - 2026-01-27
+* [Pull Request] []() - 2026-02-18
 ## Q4 2025
 
 

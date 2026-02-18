@@ -30,6 +30,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] []() - 2026-02-11
 * [Pull Request] []() - 2026-02-12
 * [Pull Request] []() - 2026-02-14
+* [Pull Request] []() - 2026-02-18
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] []() - 2026-01-27
 

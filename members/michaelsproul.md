@@ -24,6 +24,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] []() - 2026-02-10
 * [Issue] [Blob delay is always "unknown" in head block logs](https://github.com/sigp/lighthouse/issues/8775) - 2026-02-09
 
+* [Issue] [Regression in `DataColumnsByRange` responses (duplicates included)](https://github.com/sigp/lighthouse/issues/8842) - 2026-02-18
+* [Issue] [Test new allocators (mimalloc, tcmalloc)](https://github.com/sigp/lighthouse/issues/8840) - 2026-02-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16

@@ -23,6 +23,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Reduce memory when merging partial fixture files](https://github.com/ethereum/execution-specs/issues/2123) - 2026-02-03
 * [Pull Request] []() - 2026-02-08
 * [Issue] [Add heuristic to determine xdist worker count in `pytest_xdist_auto_num_workers`](https://github.com/ethereum/execution-specs/issues/2163) - 2026-02-09
+* [Issue] [Enable t8n caching for state_test on Paris/Shanghai](https://github.com/ethereum/execution-specs/issues/2225) - 2026-02-17
+* [Issue] [Consider reducing fixture size for `account_query` (16 GB) and `unchunkified_bytecode` (13 GB)](https://github.com/ethereum/execution-specs/issues/2223) - 2026-02-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-23
 ## Q4 2025
