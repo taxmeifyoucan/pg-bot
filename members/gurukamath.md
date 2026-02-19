@@ -19,6 +19,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] []() - 2026-01-22
 * [Pull Request] []() - 2026-01-24
 * [Pull Request] []() - 2026-02-06
+
+* [Issue] [Refactor State related code](https://github.com/ethereum/execution-specs/issues/2228) - 2026-02-18
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] []() - 2026-02-18
 ## Q4 2025
 
 

@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 
 * [Pull Request] []() - 2026-01-13
 * [Pull Request] []() - 2026-01-30
+* [Pull Request] []() - 2026-02-19
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Issue] [Use getBlobs info to estimate private blobs](https://github.com/ethpandaops/lab/issues/374) - 2026-01-10
 ## Q4 2025

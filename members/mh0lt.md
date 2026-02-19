@@ -18,6 +18,7 @@ Team: Erigon
 * [Pull Request] []() - 2026-02-07
 
 * [Pull Request] []() - 2026-02-14
+* [Issue] [Remove TxNum & BlockNum from SharedDomains](https://github.com/erigontech/erigon/issues/19289) - 2026-02-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] []() - 2026-02-13
 ## Q4 2025

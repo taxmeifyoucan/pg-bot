@@ -13,6 +13,9 @@ Team: Reth
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-07
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] []() - 2026-02-18
 ## Q4 2025
 
 

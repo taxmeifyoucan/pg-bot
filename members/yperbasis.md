@@ -28,6 +28,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Improve time of CI jobs and make more checks mandatory for PR merge](https://github.com/erigontech/erigon/issues/19136) - 2026-02-12
 * [Issue] [Implement bal-devnet-2 changes in Caplin](https://github.com/erigontech/erigon/issues/19218) - 2026-02-16
 * [Issue] [Add EIP-7928 Block-level Access Lists JSON RPC methods](https://github.com/erigontech/erigon/issues/19217) - 2026-02-16
+* [Pull Request] []() - 2026-02-19
 ## Q4 2025
 
 

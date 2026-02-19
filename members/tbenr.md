@@ -17,6 +17,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] []() - 2026-02-08
 * [Issue] [fork choice changes](https://github.com/Consensys/teku/issues/10369) - 2026-02-12
 * [Pull Request] []() - 2026-02-13
+* [Pull Request] []() - 2026-02-18
 ## Q4 2025
 
 
