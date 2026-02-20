@@ -26,6 +26,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Enable t8n caching for state_test on Paris/Shanghai](https://github.com/ethereum/execution-specs/issues/2225) - 2026-02-17
 * [Issue] [Consider reducing fixture size for `account_query` (16 GB) and `unchunkified_bytecode` (13 GB)](https://github.com/ethereum/execution-specs/issues/2223) - 2026-02-17
 * [Issue] [Use historically-accurate per-fork block gas limits](https://github.com/ethereum/execution-specs/issues/2230) - 2026-02-18
+* [Pull Request] []() - 2026-02-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-23
 ## Q4 2025

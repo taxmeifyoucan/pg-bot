@@ -29,6 +29,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] []() - 2026-02-12
 * [Pull Request] []() - 2026-02-15
 * [Pull Request] []() - 2026-02-16
+* [Pull Request] []() - 2026-02-20
 ## Q4 2025
 
 

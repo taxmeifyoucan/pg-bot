@@ -29,6 +29,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Feature flag for supported extensions](https://github.com/libp2p/jvm-libp2p/issues/441) - 2026-02-16
 * [Issue] [Investigate impact of splitting control extension messages from extensions messages](https://github.com/libp2p/jvm-libp2p/issues/440) - 2026-02-16
 * [Pull Request] []() - 2026-02-17
+* [Issue] [Refine DoS protection and other security/performance concerns](https://github.com/libp2p/jvm-libp2p/issues/449) - 2026-02-20
+* [Issue] [Eager push of partial messages](https://github.com/libp2p/jvm-libp2p/issues/448) - 2026-02-20
+* [Issue] [Review peer scoring impact of partial messages](https://github.com/libp2p/jvm-libp2p/issues/447) - 2026-02-20
+* [Issue] [Expose application interface to use partial messages](https://github.com/libp2p/jvm-libp2p/issues/446) - 2026-02-20
+* [Issue] [Publish partial messages](https://github.com/libp2p/jvm-libp2p/issues/445) - 2026-02-20
+* [Issue] [Subscribe to partial messages](https://github.com/libp2p/jvm-libp2p/issues/444) - 2026-02-20
+* [Pull Request] []() - 2026-02-19
 ## Q4 2025
 
 

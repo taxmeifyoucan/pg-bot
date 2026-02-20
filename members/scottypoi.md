@@ -22,6 +22,7 @@ Team: EthereumJS
 * [Pull Request] []() - 2026-01-28
 * [Pull Request] []() - 2026-01-29
 * [Pull Request] []() - 2026-02-18
+* [Pull Request] []() - 2026-02-19
 ## Q4 2025
 
 

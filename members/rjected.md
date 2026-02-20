@@ -21,6 +21,7 @@ Team: Reth
 * [Issue] [`--minimal` with senders in static files cannot handle completely missing senders](https://github.com/paradigmxyz/reth/issues/21914) - 2026-02-06
 * [Pull Request] []() - 2026-02-10
 * [Pull Request] []() - 2026-02-13
+* [Pull Request] []() - 2026-02-20
 ## Q4 2025
 
 
