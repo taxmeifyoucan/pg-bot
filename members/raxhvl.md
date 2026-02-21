@@ -15,6 +15,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Issue] [Add support for fork-level EVM simulation](https://github.com/ethereum/execution-specs/issues/1990) - 2026-01-08
 
 * [Pull Request] []() - 2026-02-18
+* [Issue] [Suggestion: For tests, let the default tx gas limit be the maximum allowed value](https://github.com/ethereum/execution-specs/issues/2248) - 2026-02-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-02-13
 

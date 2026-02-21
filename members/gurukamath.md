@@ -21,6 +21,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] []() - 2026-02-06
 
 * [Issue] [Refactor State related code](https://github.com/ethereum/execution-specs/issues/2228) - 2026-02-18
+* [Issue] [Add optimized runs in CI](https://github.com/ethereum/execution-specs/issues/2256) - 2026-02-20
+* [Issue] [Remove `set_authority_code` from Amsterdam](https://github.com/ethereum/execution-specs/issues/2246) - 2026-02-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-02-18
 ## Q4 2025

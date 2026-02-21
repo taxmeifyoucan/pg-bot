@@ -18,6 +18,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] []() - 2026-01-21
 * [Issue] [No `Synced new block` log with INFO verbosity](https://github.com/OffchainLabs/prysm/issues/16314) - 2026-02-02
 * [Issue] [Do not copy the finalized state when computing validators custody requirements](https://github.com/OffchainLabs/prysm/issues/16354) - 2026-02-12
+* [Issue] [Extra memory consumed for unknown reason](https://github.com/OffchainLabs/prysm/issues/16376) - 2026-02-20
 ## Q4 2025
 
 

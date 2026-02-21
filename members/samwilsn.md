@@ -24,6 +24,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Write LibCST tests for the new fork tool](https://github.com/ethereum/execution-specs/issues/2196) - 2026-02-11
 * [Issue] [Processes surrounding claude context files](https://github.com/ethereum/execution-specs/issues/2194) - 2026-02-11
 * [Issue] [Add test for decoding RLP -> `Uint` with leading zeros](https://github.com/ethereum/execution-specs/issues/2202) - 2026-02-12
+* [Issue] [Remove or generalize BAL's type alias](https://github.com/ethereum/execution-specs/issues/2260) - 2026-02-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs #38, February 18, 2026](https://github.com/ethereum/pm/issues/1909) - 2026-01-29
 ## Q4 2025

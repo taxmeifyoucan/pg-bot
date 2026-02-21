@@ -31,6 +31,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [backup and restore state subcommands do not support bonsai](https://github.com/hyperledger/besu/issues/9811) - 2026-02-16
 * [Pull Request] []() - 2026-02-18
 * [Pull Request] []() - 2026-02-19
+* [Pull Request] []() - 2026-02-20
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-08

@@ -33,6 +33,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] []() - 2026-02-13
 * [Issue] [feat(all): Repricing Tool](https://github.com/ethereum/execution-specs/issues/2200) - 2026-02-12
 * [Pull Request] []() - 2026-02-17
+* [Issue] [refactor(test-specs): Replace `BaseExecute` with mixins on `BaseTest`](https://github.com/ethereum/execution-specs/issues/2258) - 2026-02-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-15
 ## Q4 2025
