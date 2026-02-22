@@ -28,6 +28,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2026-02-15
 * [Pull Request] []() - 2026-02-20
 * [Issue] [Use milliseconds everywhere](https://github.com/ChainSafe/lodestar/issues/8932) - 2026-02-20
+* [Pull Request] []() - 2026-02-21
 ## Q4 2025
 
 

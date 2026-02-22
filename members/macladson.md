@@ -26,6 +26,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] []() - 2026-02-12
 * [Pull Request] []() - 2026-02-16
 * [Pull Request] []() - 2026-02-19
+* [Pull Request] []() - 2026-02-21
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] []() - 2026-01-10
 ## Q4 2025

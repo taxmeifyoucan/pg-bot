@@ -16,6 +16,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Pull Request] []() - 2026-01-30
 * [Issue] ["Improve PR workflow"](https://github.com/NethermindEth/nethermind/issues/10374) - 2026-02-01
 * [Issue] [TransactionForRpc.EnsureDefaults not called consistently before ToTransaction](https://github.com/NethermindEth/nethermind/issues/10547) - 2026-02-16
+* [Pull Request] []() - 2026-02-21
 ## Q4 2025
 
 
