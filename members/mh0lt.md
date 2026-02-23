@@ -20,6 +20,7 @@ Team: Erigon
 * [Pull Request] []() - 2026-02-14
 * [Issue] [Remove TxNum & BlockNum from SharedDomains](https://github.com/erigontech/erigon/issues/19289) - 2026-02-18
 * [Issue] [Remove ExecV3 from SpawnBuilderExecStage](https://github.com/erigontech/erigon/issues/19318) - 2026-02-19
+* [Issue] [Remove Silkworm support from codebase](https://github.com/erigontech/erigon/issues/19403) - 2026-02-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] []() - 2026-02-13
 ## Q4 2025

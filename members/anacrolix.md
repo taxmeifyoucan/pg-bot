@@ -16,3 +16,4 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] []() - 2026-02-16
 * [Issue] [Update ethereum/hive to build erigon with the correct go version](https://github.com/erigontech/erigon/issues/19206) - 2026-02-16
 * [Issue] [Update golanglint-ci to 2.9](https://github.com/erigontech/erigon/issues/19236) - 2026-02-17
+* [Pull Request] []() - 2026-02-23
