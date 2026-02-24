@@ -25,6 +25,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Update EIP-7928 to cap max items](https://github.com/status-im/nimbus-eth1/issues/3985) - 2026-02-16
 * [Issue] [Implement EIP-8037](https://github.com/status-im/nimbus-eth1/issues/3984) - 2026-02-16
 * [Issue] [Implement EIP-7954](https://github.com/status-im/nimbus-eth1/issues/3983) - 2026-02-16
+* [Pull Request] []() - 2026-02-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] []() - 2026-02-10
 * [Pull Request] []() - 2026-02-13

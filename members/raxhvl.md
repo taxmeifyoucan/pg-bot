@@ -16,6 +16,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 * [Pull Request] []() - 2026-02-18
 * [Issue] [Suggestion: For tests, let the default tx gas limit be the maximum allowed value](https://github.com/ethereum/execution-specs/issues/2248) - 2026-02-20
+* [Issue] [Implement EIP-7954](https://github.com/ethereum/execution-specs/issues/2275) - 2026-02-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-02-13
 

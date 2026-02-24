@@ -30,6 +30,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Gloas stateless/stateful block production endpoints](https://github.com/sigp/lighthouse/issues/8828) - 2026-02-16
 * [Issue] [Error requesting finalized Gloas state](https://github.com/sigp/lighthouse/issues/8869) - 2026-02-19
 * [Pull Request] []() - 2026-02-20
+* [Issue] [Implement blinded payloads for `ExecutionPayloadEnvelope`](https://github.com/sigp/lighthouse/issues/8888) - 2026-02-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-01-21
 ## Q4 2025

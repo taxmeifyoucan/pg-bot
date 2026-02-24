@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #0, February 18, 2026](https://github.com/ethereum/pm/issues/1929) - 2026-02-16
+* [Issue] [Encrypt The Mempool #1, March 4, 2026](https://github.com/ethereum/pm/issues/1945) - 2026-02-23
 ## Q4 2025
 
 

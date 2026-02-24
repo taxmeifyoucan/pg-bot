@@ -26,6 +26,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Issue] [eth_getStorageValues - Batch storage slot retrieval](https://github.com/ethereum/execution-apis/issues/752) - 2026-02-10
 * [Pull Request] []() - 2026-02-17
 * [Pull Request] []() - 2026-02-18
+* [Pull Request] []() - 2026-02-23
 ## Q4 2025
 
 

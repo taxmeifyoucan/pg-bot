@@ -26,6 +26,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Add test for decoding RLP -> `Uint` with leading zeros](https://github.com/ethereum/execution-specs/issues/2202) - 2026-02-12
 * [Issue] [Remove or generalize BAL's type alias](https://github.com/ethereum/execution-specs/issues/2260) - 2026-02-20
 * [Pull Request] []() - 2026-02-22
+* [Issue] [Change EEST's `Address` equality to account for typing](https://github.com/ethereum/execution-specs/issues/2290) - 2026-02-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs #38, February 18, 2026](https://github.com/ethereum/pm/issues/1909) - 2026-01-29
 ## Q4 2025

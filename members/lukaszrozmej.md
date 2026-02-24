@@ -20,6 +20,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] []() - 2026-02-08
 * [Pull Request] []() - 2026-02-09
 * [Pull Request] []() - 2026-02-19
+* [Pull Request] []() - 2026-02-23
 ## Q4 2025
 
 

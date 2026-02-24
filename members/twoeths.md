@@ -20,6 +20,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2026-01-26
 * [Issue] [Performance issue archiving DataColumnSidecars](https://github.com/ChainSafe/lodestar/issues/8794) - 2026-01-28
 * [Pull Request] []() - 2026-02-04
+* [Pull Request] []() - 2026-02-24
 ## Q4 2025
 
 

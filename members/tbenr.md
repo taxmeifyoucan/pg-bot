@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 [consensys/discovery](https://github.com/consensys/discovery)
 * [Pull Request] []() - 2026-02-21
+* [Pull Request] []() - 2026-02-23
 ## Q4 2025
 
 

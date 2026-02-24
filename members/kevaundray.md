@@ -33,6 +33,9 @@ Team: Consensus R&D (EF)
 * [Issue] [Question on `set_environment` in blockchain.py](https://github.com/ethereum/execution-specs/issues/2262) - 2026-02-20
 * [Issue] [Make the testing framework and EELS share the PreState thus simplifying the T8N tool](https://github.com/ethereum/execution-specs/issues/2273) - 2026-02-22
 * [Issue] [Add code_reads into state tracker](https://github.com/ethereum/execution-specs/issues/2272) - 2026-02-22
+* [Pull Request] []() - 2026-02-23
+* [Issue] [Tracking Issue: Using common types across all forks](https://github.com/ethereum/execution-specs/issues/2293) - 2026-02-23
+* [Issue] [Add `BLOCKHASH` tracking into state tracker](https://github.com/ethereum/execution-specs/issues/2279) - 2026-02-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-29
 ## Q4 2025

@@ -20,6 +20,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] []() - 2026-02-10
 * [Issue] [Gloas Attestation Gossip Changes](https://github.com/OffchainLabs/prysm/issues/16360) - 2026-02-13
 * [Issue] [Gloas block gossip](https://github.com/OffchainLabs/prysm/issues/16372) - 2026-02-18
+* [Issue] [gloas attestation](https://github.com/OffchainLabs/prysm/issues/16393) - 2026-02-23
+* [Issue] [Receive Payload envelope (blockchain package)](https://github.com/OffchainLabs/prysm/issues/16387) - 2026-02-23
+* [Issue] [gloas pre-state fetching needed for receive block](https://github.com/OffchainLabs/prysm/issues/16384) - 2026-02-23
+* [Issue] [CanUpgradeToGloas](https://github.com/OffchainLabs/prysm/issues/16383) - 2026-02-23
 ## Q4 2025
 
 

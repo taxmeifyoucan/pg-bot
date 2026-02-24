@@ -15,6 +15,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] []() - 2026-01-23
 * [Pull Request] []() - 2026-02-18
 
+* [Issue] [refactor(tests): replace manual intrinsic gas arithmetic broken by EIP-7976/EIP-7981 repricing](https://github.com/ethereum/execution-specs/issues/2289) - 2026-02-23
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2026-02-20
 ## Q4 2025

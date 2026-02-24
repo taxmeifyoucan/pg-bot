@@ -29,6 +29,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [can't re-exec gnosis from block 0](https://github.com/erigontech/erigon/issues/18925) - 2026-02-02
 * [Issue] [CommitmentRoot failure on sepolia v31](https://github.com/erigontech/erigon/issues/18955) - 2026-02-04
 * [Issue] [tool to regenerate commitment history](https://github.com/erigontech/erigon/issues/18954) - 2026-02-04
+* [Issue] [receipt root checker tool](https://github.com/erigontech/erigon/issues/19421) - 2026-02-23
 ## Q4 2025
 
 

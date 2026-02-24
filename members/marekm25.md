@@ -17,6 +17,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Issue] ["Improve PR workflow"](https://github.com/NethermindEth/nethermind/issues/10374) - 2026-02-01
 * [Issue] [TransactionForRpc.EnsureDefaults not called consistently before ToTransaction](https://github.com/NethermindEth/nethermind/issues/10547) - 2026-02-16
 * [Pull Request] []() - 2026-02-21
+* [Issue] [Add BlockValidator to StatelessnessExecutor](https://github.com/NethermindEth/nethermind/issues/10618) - 2026-02-23
 ## Q4 2025
 
 

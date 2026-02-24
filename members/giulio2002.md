@@ -26,6 +26,7 @@ Team: Erigon
 * [Pull Request] []() - 2026-02-20
 * [Pull Request] []() - 2026-02-21
 * [Issue] [eth_getLogs / eth_getTransactionReceipt returns wrong/missing logs for specific transactions (receipt computation bug)](https://github.com/erigontech/erigon/issues/19406) - 2026-02-22
+* [Pull Request] []() - 2026-02-23
 ## Q4 2025
 
 

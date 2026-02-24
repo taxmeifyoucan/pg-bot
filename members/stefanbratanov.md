@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [Data availability checks in Gloas](https://github.com/Consensys/teku/issues/10311) - 2026-02-02
 * [Issue] [Proposer Boost Changes](https://github.com/Consensys/teku/issues/10320) - 2026-02-03
 * [Issue] [[Gloas] State Selection during Block Production](https://github.com/Consensys/teku/issues/10352) - 2026-02-09
+* [Pull Request] []() - 2026-02-23
 ## Q4 2025
 
 
