@@ -29,6 +29,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Implement bal-devnet-2 changes in Caplin](https://github.com/erigontech/erigon/issues/19218) - 2026-02-16
 * [Issue] [Add EIP-7928 Block-level Access Lists JSON RPC methods](https://github.com/erigontech/erigon/issues/19217) - 2026-02-16
 * [Pull Request] []() - 2026-02-19
+* [Issue] [Flaky Hive test "Blob Transaction Ordering"](https://github.com/erigontech/erigon/issues/19446) - 2026-02-24
 ## Q4 2025
 
 

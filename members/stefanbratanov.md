@@ -23,6 +23,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [Proposer Boost Changes](https://github.com/Consensys/teku/issues/10320) - 2026-02-03
 * [Issue] [[Gloas] State Selection during Block Production](https://github.com/Consensys/teku/issues/10352) - 2026-02-09
 * [Pull Request] []() - 2026-02-23
+* [Pull Request] []() - 2026-02-25
 ## Q4 2025
 
 

@@ -24,6 +24,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Issue] [Receive Payload envelope (blockchain package)](https://github.com/OffchainLabs/prysm/issues/16387) - 2026-02-23
 * [Issue] [gloas pre-state fetching needed for receive block](https://github.com/OffchainLabs/prysm/issues/16384) - 2026-02-23
 * [Issue] [CanUpgradeToGloas](https://github.com/OffchainLabs/prysm/issues/16383) - 2026-02-23
+* [Issue] [on block batch/ receive block](https://github.com/OffchainLabs/prysm/issues/16397) - 2026-02-24
 ## Q4 2025
 
 

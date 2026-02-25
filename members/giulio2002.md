@@ -27,6 +27,8 @@ Team: Erigon
 * [Pull Request] []() - 2026-02-21
 * [Issue] [eth_getLogs / eth_getTransactionReceipt returns wrong/missing logs for specific transactions (receipt computation bug)](https://github.com/erigontech/erigon/issues/19406) - 2026-02-22
 * [Pull Request] []() - 2026-02-23
+* [Pull Request] []() - 2026-02-24
+* [Issue] [[SharovBot] security: taratorio (weak boy) attempted social engineering attack](https://github.com/erigontech/erigon/issues/19452) - 2026-02-24
 ## Q4 2025
 
 

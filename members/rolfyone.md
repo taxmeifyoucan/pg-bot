@@ -30,6 +30,20 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] []() - 2026-02-15
 * [Pull Request] []() - 2026-02-16
 * [Pull Request] []() - 2026-02-20
+* [Issue] [[beacon-api] `POST /eth/v1/beacon/execution_payload_envelope` added   ](https://github.com/Consensys/teku/issues/10416) - 2026-02-25
+* [Issue] [[beacon-api] `GET /eth/v1/validator/execution_payload_envelope/{slot}` added](https://github.com/Consensys/teku/issues/10415) - 2026-02-25
+* [Issue] [[beacon-api] `GET /eth/v4/validator/blocks/{slot}` added ](https://github.com/Consensys/teku/issues/10414) - 2026-02-25
+* [Issue] [[beacon-api] deprecate committee_index query parameter in gloas](https://github.com/Consensys/teku/issues/10413) - 2026-02-25
+* [Issue] [[beacon-api] deprecate blob_sidecars](https://github.com/Consensys/teku/issues/10412) - 2026-02-25
+* [Issue] [[beacon-api] `POST /eth/v2/beacon/blocks` updated ](https://github.com/Consensys/teku/issues/10411) - 2026-02-25
+* [Issue] [[beacon-api] `GET /eth/v2/beacon/blocks/{block_id}` updated](https://github.com/Consensys/teku/issues/10410) - 2026-02-25
+* [Issue] [[beacon-api] `POST /eth/v1/beacon/pool/payload_attestations`](https://github.com/Consensys/teku/issues/10409) - 2026-02-25
+* [Issue] [[beacon-api] `GET /eth/v1/beacon/pool/payload_attestations`](https://github.com/Consensys/teku/issues/10408) - 2026-02-25
+* [Issue] [[beacon-api] `GET /eth/v1/beacon/execution_payload_envelope/{block_id}`](https://github.com/Consensys/teku/issues/10407) - 2026-02-25
+* [Issue] [[beacon-api] `POST /eth/v1/beacon/execution_payload_bid`](https://github.com/Consensys/teku/issues/10406) - 2026-02-25
+* [Issue] [[beacon-api] `POST /eth/v1/validator/duties/ptc/{epoch}`](https://github.com/Consensys/teku/issues/10405) - 2026-02-25
+* [Issue] [[beacon-api] `GET /eth/v1/validator/payload_attestation_data/{slot}`](https://github.com/Consensys/teku/issues/10404) - 2026-02-25
+* [Issue] [[beacon-api] `GET /eth/v1/validator/execution_payload_bid/{slot}/{builder_index}`](https://github.com/Consensys/teku/issues/10403) - 2026-02-25
 ## Q4 2025
 
 

@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Add peer performance metrics (transfer speed, latency, success rate)](https://github.com/hyperledger/besu/issues/9721) - 2026-02-02
 * [Issue] [Complete switch over to new peer task system for snap download](https://github.com/hyperledger/besu/issues/9719) - 2026-02-02
 * [Pull Request] []() - 2026-02-09
+* [Issue] [Besu release 26.2.0](https://github.com/hyperledger/besu/issues/9885) - 2026-02-24
 ## Q4 2025
 
 

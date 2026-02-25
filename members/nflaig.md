@@ -30,6 +30,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Use milliseconds everywhere](https://github.com/ChainSafe/lodestar/issues/8932) - 2026-02-20
 * [Pull Request] []() - 2026-02-21
 * [Pull Request] []() - 2026-02-22
+* [Issue] [Update expected withdrawals in gloas payload attributes](https://github.com/ChainSafe/lodestar/issues/8953) - 2026-02-24
 ## Q4 2025
 
 

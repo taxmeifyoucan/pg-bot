@@ -36,6 +36,7 @@ Team: Consensus R&D (EF)
 * [Pull Request] []() - 2026-02-23
 * [Issue] [Tracking Issue: Using common types across all forks](https://github.com/ethereum/execution-specs/issues/2293) - 2026-02-23
 * [Issue] [Add `BLOCKHASH` tracking into state tracker](https://github.com/ethereum/execution-specs/issues/2279) - 2026-02-23
+* [Pull Request] []() - 2026-02-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-29
 ## Q4 2025

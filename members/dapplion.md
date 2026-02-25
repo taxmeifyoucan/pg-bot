@@ -18,6 +18,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] []() - 2026-02-05
 * [Pull Request] []() - 2026-02-10
 * [Pull Request] []() - 2026-02-11
+* [Pull Request] []() - 2026-02-24
 ## Q4 2025
 
 

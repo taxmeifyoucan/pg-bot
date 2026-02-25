@@ -14,6 +14,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] []() - 2026-01-11
 
+* [Issue] [Implement input serialization for Zisk](https://github.com/NethermindEth/nethermind/issues/10633) - 2026-02-24
+* [Issue] [Consider using native Keccak in Zisk](https://github.com/NethermindEth/nethermind/issues/10632) - 2026-02-24
+* [Issue] [Resolve the instruction size issue in Zisk](https://github.com/NethermindEth/nethermind/issues/10631) - 2026-02-24
+* [Issue] [Implement precompiles for Zisk](https://github.com/NethermindEth/nethermind/issues/10630) - 2026-02-24
 [nethermindeth/bflat-riscv64](https://github.com/nethermindeth/bflat-riscv64)
 * [Pull Request] []() - 2026-02-09
 ## Q4 2025

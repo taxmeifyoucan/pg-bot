@@ -25,6 +25,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 * [Pull Request] []() - 2026-02-14
 * [Pull Request] []() - 2026-02-16
+* [Pull Request] []() - 2026-02-24
 [chainsafe/lodestar-z](https://github.com/chainsafe/lodestar-z)
 * [Pull Request] []() - 2026-02-12
 * [Issue] [bindings: revisit configuration setting logic](https://github.com/ChainSafe/lodestar-z/issues/215) - 2026-02-12

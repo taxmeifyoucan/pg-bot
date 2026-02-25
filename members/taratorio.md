@@ -27,6 +27,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [sporadic could not start execution service due to error snapshot already loaded with different infohash](https://github.com/erigontech/erigon/issues/19128) - 2026-02-12
 * [Pull Request] []() - 2026-02-14
 * [Issue] [flaky TestTable_findnodeByID](https://github.com/erigontech/erigon/issues/19158) - 2026-02-13
+* [Issue] [experimental](https://github.com/erigontech/erigon/issues/19451) - 2026-02-24
 ## Q4 2025
 
 

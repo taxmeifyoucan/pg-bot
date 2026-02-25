@@ -25,6 +25,7 @@ Team: Erigon
 * [Issue] [eth_getLogs to not check state history progress if node synced with `--persist.receipt`](https://github.com/erigontech/erigon/issues/19215) - 2026-02-16
 * [Pull Request] []() - 2026-02-18
 * [Issue] [Merge: speed task list](https://github.com/erigontech/erigon/issues/19430) - 2026-02-23
+* [Issue] [TestShutterBlockBuilding: flaky](https://github.com/erigontech/erigon/issues/19444) - 2026-02-24
 ## Q4 2025
 
 
