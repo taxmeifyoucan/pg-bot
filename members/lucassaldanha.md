@@ -36,6 +36,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Publish partial messages](https://github.com/libp2p/jvm-libp2p/issues/445) - 2026-02-20
 * [Issue] [Subscribe to partial messages](https://github.com/libp2p/jvm-libp2p/issues/444) - 2026-02-20
 * [Pull Request] []() - 2026-02-19
+
+[consensys/discovery](https://github.com/consensys/discovery)
+* [Pull Request] []() - 2026-02-25
 ## Q4 2025
 
 

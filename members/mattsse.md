@@ -30,6 +30,7 @@ Team: Reth
 * [Pull Request] []() - 2026-02-14
 * [Pull Request] []() - 2026-02-17
 * [Pull Request] []() - 2026-02-18
+* [Issue] [Improve txcount binary search](https://github.com/paradigmxyz/reth/issues/22561) - 2026-02-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] []() - 2026-01-16
 * [Pull Request] []() - 2026-01-21

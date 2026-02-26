@@ -41,6 +41,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] []() - 2026-02-01
 * [Pull Request] []() - 2026-02-24
+* [Pull Request] []() - 2026-02-25
 ## Q4 2025
 
 

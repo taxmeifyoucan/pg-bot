@@ -20,6 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] []() - 2026-02-18
 * [Pull Request] []() - 2026-02-20
 
+* [Issue] [exception on every epoch transition](https://github.com/Consensys/teku/issues/10423) - 2026-02-25
 [consensys/discovery](https://github.com/consensys/discovery)
 * [Pull Request] []() - 2026-02-21
 * [Pull Request] []() - 2026-02-23

@@ -30,6 +30,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [CommitmentRoot failure on sepolia v31](https://github.com/erigontech/erigon/issues/18955) - 2026-02-04
 * [Issue] [tool to regenerate commitment history](https://github.com/erigontech/erigon/issues/18954) - 2026-02-04
 * [Issue] [receipt root checker tool](https://github.com/erigontech/erigon/issues/19421) - 2026-02-23
+* [Issue] [stage_exec restart is failing consistently because of nonce too low errors](https://github.com/erigontech/erigon/issues/19473) - 2026-02-25
 ## Q4 2025
 
 

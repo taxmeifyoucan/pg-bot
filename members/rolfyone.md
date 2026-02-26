@@ -44,6 +44,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [[beacon-api] `POST /eth/v1/validator/duties/ptc/{epoch}`](https://github.com/Consensys/teku/issues/10405) - 2026-02-25
 * [Issue] [[beacon-api] `GET /eth/v1/validator/payload_attestation_data/{slot}`](https://github.com/Consensys/teku/issues/10404) - 2026-02-25
 * [Issue] [[beacon-api] `GET /eth/v1/validator/execution_payload_bid/{slot}/{builder_index}`](https://github.com/Consensys/teku/issues/10403) - 2026-02-25
+* [Pull Request] []() - 2026-02-26
 ## Q4 2025
 
 

@@ -23,6 +23,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 * [Pull Request] []() - 2026-02-20
 * [Pull Request] []() - 2026-02-22
+* [Pull Request] []() - 2026-02-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-02-18
 ## Q4 2025

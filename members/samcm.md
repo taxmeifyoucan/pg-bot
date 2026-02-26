@@ -22,6 +22,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] []() - 2026-02-20
 * [Pull Request] []() - 2026-02-24
+* [Pull Request] []() - 2026-02-25
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] []() - 2026-02-13
 * [Pull Request] []() - 2026-02-16

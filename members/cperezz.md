@@ -12,3 +12,6 @@ Github: [@cperezz](https://github.com/cperezz)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2026-02-14
 * [Pull Request] []() - 2026-02-24
+
+[gballet/go-ethereum](https://github.com/gballet/go-ethereum)
+* [Pull Request] []() - 2026-02-25

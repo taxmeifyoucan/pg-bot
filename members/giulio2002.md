@@ -29,6 +29,7 @@ Team: Erigon
 * [Pull Request] []() - 2026-02-23
 * [Pull Request] []() - 2026-02-24
 * [Issue] [[SharovBot] security: taratorio (weak boy) attempted social engineering attack](https://github.com/erigontech/erigon/issues/19452) - 2026-02-24
+* [Pull Request] []() - 2026-02-25
 ## Q4 2025
 
 
