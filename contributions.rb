@@ -16,8 +16,16 @@ class GithubClient
   
   def get_events_until(method, *args, since_time)
     events = @client.send(method, *args)
-    
+
     return events.select { |e| e.created_at >= since_time }
+  end
+
+  def get_org_repos(org, count: 50)
+    old_auto_paginate = @client.auto_paginate
+    @client.auto_paginate = false
+    repos = @client.organization_repositories(org, sort: 'pushed', per_page: count)
+    @client.auto_paginate = old_auto_paginate
+    repos.map { |r| r.full_name }
   end
 end
 
@@ -248,27 +256,48 @@ class ContributionTracker
   def initialize(token, members_dir, repos_file)
     @client = GithubClient.new(token)
     @members_dir = members_dir
-    @repos = load_repos(repos_file)
+    repos, orgs = load_entries(repos_file)
+    @repos = repos + resolve_org_repos(orgs)
     @since_time = Time.now - TIME_PERIOD
   end
-  
+
   def track_contributions
     user_checker = UserActivityChecker.new(@client, @members_dir, @repos, @since_time)
     inactive_users = user_checker.check_activities
-    
+
     puts "Active users in the last 24 hours: #{user_checker.active_users.size}"
     puts "Inactive users in the last 24 hours: #{inactive_users.size}"
   end
-  
+
   private
-  
-  def load_repos(repos_file)
+
+  def load_entries(repos_file)
     if File.exist?(repos_file)
-      File.readlines(repos_file).map(&:strip).reject(&:empty?)
+      entries = File.readlines(repos_file).map(&:strip).reject(&:empty?)
+      repos = entries.select { |e| e.include?('/') }
+      orgs = entries.reject { |e| e.include?('/') }
+      [repos, orgs]
     else
       puts "repos.txt file not found, add list of repos"
-      []
+      [[], []]
     end
+  end
+
+  def resolve_org_repos(orgs)
+    return [] if orgs.empty?
+
+    all_org_repos = []
+    orgs.each do |org|
+      begin
+        puts "Fetching active repositories for organization: #{org}"
+        repos = @client.get_org_repos(org, count: 50)
+        all_org_repos.concat(repos)
+        puts "  Found #{repos.size} active repositories for #{org}"
+      rescue => e
+        puts "Error fetching repos for org #{org}: #{e.message}"
+      end
+    end
+    all_org_repos
   end
 end
 
