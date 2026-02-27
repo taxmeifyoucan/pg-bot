@@ -36,6 +36,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [refactor(test-specs): Replace `BaseExecute` with mixins on `BaseTest`](https://github.com/ethereum/execution-specs/issues/2258) - 2026-02-20
 * [Issue] [feat(specs-tests): Update EIP-8024 According to EIPs #11306](https://github.com/ethereum/execution-specs/issues/2298) - 2026-02-24
 * [Pull Request] []() - 2026-02-25
+* [Issue] [Gas repricing tooling requirements and coordination tracker](https://github.com/ethereum/execution-specs/issues/2340) - 2026-02-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-15
 ## Q4 2025

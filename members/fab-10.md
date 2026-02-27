@@ -21,6 +21,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] []() - 2026-02-13
 * [Issue] [Prevent running Clique networks not migrated to PoS](https://github.com/hyperledger/besu/issues/9884) - 2026-02-24
 * [Issue] [Removal of Clique consensus support](https://github.com/hyperledger/besu/issues/9883) - 2026-02-24
+* [Pull Request] []() - 2026-02-26
+* [Issue] [Review blockchain sync request sizing](https://github.com/hyperledger/besu/issues/9908) - 2026-02-26
 ## Q4 2025
 
 

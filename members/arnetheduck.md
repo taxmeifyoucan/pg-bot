@@ -18,6 +18,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] []() - 2026-02-19
 * [Pull Request] []() - 2026-02-22
+* [Issue] [Light client fcU should not spam the EL](https://github.com/status-im/nimbus-eth2/issues/8041) - 2026-02-26
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] []() - 2026-02-11
 * [Pull Request] []() - 2026-02-18

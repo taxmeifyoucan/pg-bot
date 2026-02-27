@@ -33,6 +33,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Decouple Python 3.11 compatibility verification from the py3 CI job](https://github.com/ethereum/execution-specs/issues/2316) - 2026-02-25
 * [Issue] [chore(ci): replace actions/setup-python with setup-uv across all workflows](https://github.com/ethereum/execution-specs/issues/2315) - 2026-02-25
 * [Issue] [py3 CI job timing regression (~18min → ~38min) after PR #2252](https://github.com/ethereum/execution-specs/issues/2314) - 2026-02-25
+* [Issue] [Publish test fixtures on ethereum/execution-specs, not execution-spect-tests](https://github.com/ethereum/execution-specs/issues/2337) - 2026-02-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-23
 

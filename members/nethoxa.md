@@ -9,6 +9,11 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 ## Contributions
 
+## Q1 2026
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] []() - 2026-02-26
 ## Q3 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

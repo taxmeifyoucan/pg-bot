@@ -17,6 +17,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [Implement queue for execution payload in Gloas](https://github.com/ChainSafe/lodestar/issues/8811) - 2026-01-30
 * [Pull Request] []() - 2026-02-25
+* [Pull Request] []() - 2026-02-26
 ## Q4 2025
 
 
