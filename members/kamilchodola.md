@@ -23,6 +23,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] []() - 2026-02-18
 * [Pull Request] []() - 2026-02-22
 * [Pull Request] []() - 2026-02-23
+* [Pull Request] []() - 2026-02-27
 ## Q4 2025
 
 

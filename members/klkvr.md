@@ -19,6 +19,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] []() - 2026-02-23
 * [Pull Request] []() - 2026-02-24
 * [Pull Request] []() - 2026-02-26
+* [Pull Request] []() - 2026-02-27
 ## Q4 2025
 
 

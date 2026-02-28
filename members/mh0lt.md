@@ -21,6 +21,8 @@ Team: Erigon
 * [Issue] [Remove TxNum & BlockNum from SharedDomains](https://github.com/erigontech/erigon/issues/19289) - 2026-02-18
 * [Issue] [Remove ExecV3 from SpawnBuilderExecStage](https://github.com/erigontech/erigon/issues/19318) - 2026-02-19
 * [Issue] [Remove Silkworm support from codebase](https://github.com/erigontech/erigon/issues/19403) - 2026-02-22
+* [Pull Request] []() - 2026-02-27
+* [Issue] [Refactor execution module gRPC interface to plain Go interface](https://github.com/erigontech/erigon/issues/19527) - 2026-02-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] []() - 2026-02-13
 ## Q4 2025

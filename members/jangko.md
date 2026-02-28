@@ -20,6 +20,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] []() - 2026-02-02
 * [Pull Request] []() - 2026-02-03
 * [Pull Request] []() - 2026-02-14
+* [Issue] [Unusual database access of ledger's clearStorage](https://github.com/status-im/nimbus-eth1/issues/4024) - 2026-02-27
 ## Q4 2025
 
 

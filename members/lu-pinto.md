@@ -15,6 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] []() - 2026-02-04
 * [Issue] [Sync slow down for pre-Byzantium blocks](https://github.com/hyperledger/besu/issues/9905) - 2026-02-26
 * [Issue] [Contention lock in parallel transaction processing](https://github.com/hyperledger/besu/issues/9904) - 2026-02-26
+* [Pull Request] []() - 2026-02-28
 ## Q4 2025
 
 

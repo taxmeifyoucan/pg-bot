@@ -45,6 +45,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [[beacon-api] `GET /eth/v1/validator/payload_attestation_data/{slot}`](https://github.com/Consensys/teku/issues/10404) - 2026-02-25
 * [Issue] [[beacon-api] `GET /eth/v1/validator/execution_payload_bid/{slot}/{builder_index}`](https://github.com/Consensys/teku/issues/10403) - 2026-02-25
 * [Pull Request] []() - 2026-02-26
+* [Issue] [[beacon-api] GetAttestationData - gloas optional committee index from api ](https://github.com/Consensys/teku/issues/10433) - 2026-02-27
+* [Pull Request] []() - 2026-02-27
 ## Q4 2025
 
 

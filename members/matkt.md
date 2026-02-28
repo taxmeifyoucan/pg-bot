@@ -14,3 +14,6 @@ Github: [@matkt](https://github.com/matkt)
 * [Issue] [EIP-7928 -  Enable MultiGet optimization via a custom rocksdb build](https://github.com/hyperledger/besu/issues/9794) - 2026-02-12
 * [Issue] [EIP-7928 - Add BALs max item protection](https://github.com/hyperledger/besu/issues/9793) - 2026-02-12
 * [Issue] [EIP-7928 - Add eth/71 protocol support for BALs](https://github.com/hyperledger/besu/issues/9792) - 2026-02-12
+
+[hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
+* [Pull Request] []() - 2026-02-27
