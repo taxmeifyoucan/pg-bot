@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Issue] [Amsterdam: eth_simulateV1: fix revert err code](https://github.com/hyperledger/besu/issues/9829) - 2026-02-17
 * [Issue] [Update EIP-8024: Switch to branchless normalization and extend EXCHANGE](https://github.com/hyperledger/besu/issues/9827) - 2026-02-17
 * [Issue] [Update EIP-7708: Add ETH burn logs](https://github.com/hyperledger/besu/issues/9826) - 2026-02-17
+* [Pull Request] []() - 2026-02-28
 ## Q4 2025
 
 

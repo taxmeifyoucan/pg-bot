@@ -31,6 +31,9 @@ Team: Erigon
 * [Issue] [[SharovBot] security: taratorio (weak boy) attempted social engineering attack](https://github.com/erigontech/erigon/issues/19452) - 2026-02-24
 * [Pull Request] []() - 2026-02-25
 * [Issue] [QA: add second datadir for RPC integration tests (branch builds)](https://github.com/erigontech/erigon/issues/19521) - 2026-02-27
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] []() - 2026-02-28
 ## Q4 2025
 
 
