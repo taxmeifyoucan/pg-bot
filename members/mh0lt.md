@@ -23,6 +23,7 @@ Team: Erigon
 * [Issue] [Remove Silkworm support from codebase](https://github.com/erigontech/erigon/issues/19403) - 2026-02-22
 * [Pull Request] []() - 2026-02-27
 * [Issue] [Refactor execution module gRPC interface to plain Go interface](https://github.com/erigontech/erigon/issues/19527) - 2026-02-27
+* [Issue] [Downloader: missing torrent metadata for old files can block node startup, or cuase confusing logging](https://github.com/erigontech/erigon/issues/19545) - 2026-03-01
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] []() - 2026-02-13
 ## Q4 2025

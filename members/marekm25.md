@@ -18,6 +18,8 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Issue] [TransactionForRpc.EnsureDefaults not called consistently before ToTransaction](https://github.com/NethermindEth/nethermind/issues/10547) - 2026-02-16
 * [Pull Request] []() - 2026-02-21
 * [Issue] [Add BlockValidator to StatelessnessExecutor](https://github.com/NethermindEth/nethermind/issues/10618) - 2026-02-23
+* [Issue] [Implement EIP-7976](https://github.com/NethermindEth/nethermind/issues/10681) - 2026-03-01
+* [Issue] [Implement EIP-7981](https://github.com/NethermindEth/nethermind/issues/10680) - 2026-03-01
 ## Q4 2025
 
 
