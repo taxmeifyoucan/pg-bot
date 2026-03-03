@@ -28,6 +28,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] []() - 2026-02-19
 * [Pull Request] []() - 2026-02-21
 * [Pull Request] []() - 2026-02-27
+* [Pull Request] []() - 2026-03-02
+* [Issue] [Check feature combinations for user-facing crates](https://github.com/sigp/lighthouse/issues/8926) - 2026-03-02
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] []() - 2026-01-10
 ## Q4 2025

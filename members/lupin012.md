@@ -18,6 +18,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 * [Pull Request] []() - 2026-01-25
 * [Pull Request] []() - 2026-02-21
+* [Pull Request] []() - 2026-03-03
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] []() - 2026-01-11
 * [Pull Request] []() - 2026-01-15
@@ -29,6 +30,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] []() - 2026-02-19
 * [Pull Request] []() - 2026-02-27
 * [Pull Request] []() - 2026-02-28
+* [Pull Request] []() - 2026-03-02
 ## Q4 2025
 
 

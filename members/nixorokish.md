@@ -22,6 +22,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Issue] [All Core Devs - Consensus (ACDC) #176, Mar 5, 2026](https://github.com/ethereum/pm/issues/1941) - 2026-02-22
 * [Pull Request] []() - 2026-02-23
 * [Pull Request] []() - 2026-02-26
+* [Issue] [All Core Devs - Execution (ACDE) #232, March 12, 2026](https://github.com/ethereum/pm/issues/1955) - 2026-03-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-02-03
 * [Pull Request] []() - 2026-02-04

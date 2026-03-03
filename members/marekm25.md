@@ -20,6 +20,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Issue] [Add BlockValidator to StatelessnessExecutor](https://github.com/NethermindEth/nethermind/issues/10618) - 2026-02-23
 * [Issue] [Implement EIP-7976](https://github.com/NethermindEth/nethermind/issues/10681) - 2026-03-01
 * [Issue] [Implement EIP-7981](https://github.com/NethermindEth/nethermind/issues/10680) - 2026-03-01
+* [Issue] [Investigate the precompile issue in ZISK](https://github.com/NethermindEth/nethermind/issues/10696) - 2026-03-02
 ## Q4 2025
 
 

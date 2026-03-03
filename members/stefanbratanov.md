@@ -25,6 +25,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] []() - 2026-02-23
 * [Pull Request] []() - 2026-02-25
 * [Pull Request] []() - 2026-02-28
+* [Pull Request] []() - 2026-03-02
 ## Q4 2025
 
 

@@ -24,6 +24,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] []() - 2026-02-24
 * [Issue] [Add missing SSZ response support to several HTTP API endpoints](https://github.com/sigp/lighthouse/issues/8892) - 2026-02-24
 * [Pull Request] []() - 2026-02-25
+* [Issue] [Gloas: send early payload envelopes to reprocess queue](https://github.com/sigp/lighthouse/issues/8922) - 2026-03-02
 ## Q4 2025
 
 

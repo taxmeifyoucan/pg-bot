@@ -26,6 +26,7 @@ Team: Reth
 * [Pull Request] []() - 2026-02-16
 * [Issue] [Use Withdrawals instead of Vec<Withdrawal>](https://github.com/paradigmxyz/reth/issues/22362) - 2026-02-19
 * [Pull Request] []() - 2026-02-28
+* [Pull Request] []() - 2026-03-02
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] []() - 2026-01-23
 * [Pull Request] []() - 2026-01-25
