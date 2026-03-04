@@ -22,6 +22,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] []() - 2026-02-26
+* [Pull Request] []() - 2026-03-03
 ## Q4 2025
 
 

@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] []() - 2026-02-17
 * [Issue] [Use docker buildx imagetools for multi-arch manifest creation](https://github.com/hyperledger/besu/issues/9818) - 2026-02-17
 * [Issue] [Replace JSR305 (javax.annotation) and checker-qual annotations with modern equivalents](https://github.com/hyperledger/besu/issues/9917) - 2026-02-27
+* [Issue] [Bump GHAs to Ubuntu 24.04](https://github.com/hyperledger/besu/issues/9949) - 2026-03-03
 ## Q4 2025
 
 

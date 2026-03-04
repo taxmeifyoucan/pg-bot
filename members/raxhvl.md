@@ -22,6 +22,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2026-02-15
+* [Issue] [chore(Amsterdam): Break up tiered gas pricing](https://github.com/ethereum/go-ethereum/issues/33939) - 2026-03-03
 ## Q4 2025
 
 

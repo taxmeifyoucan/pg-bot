@@ -32,6 +32,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] []() - 2026-01-16
 * [Pull Request] []() - 2026-01-30
 * [Pull Request] []() - 2026-02-05
+* [Pull Request] []() - 2026-03-03
 ## Q4 2025
 
 

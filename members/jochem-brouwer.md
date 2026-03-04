@@ -18,6 +18,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Issue] [Account(storage={}) infinite loop-checks account storage over RPC](https://github.com/ethereum/execution-specs/issues/2162) - 2026-02-09
 * [Pull Request] []() - 2026-02-12
 * [Pull Request] []() - 2026-02-27
+* [Pull Request] []() - 2026-03-04
 ## Q4 2025
 
 

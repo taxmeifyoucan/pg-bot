@@ -23,6 +23,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] []() - 2026-02-11
 * [Pull Request] []() - 2026-02-18
 * [Pull Request] []() - 2026-02-27
+* [Pull Request] []() - 2026-03-03
 ## Q4 2025
 
 

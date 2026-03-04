@@ -35,11 +35,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [py3 CI job timing regression (~18min → ~38min) after PR #2252](https://github.com/ethereum/execution-specs/issues/2314) - 2026-02-25
 * [Issue] [Publish test fixtures on ethereum/execution-specs, not execution-spect-tests](https://github.com/ethereum/execution-specs/issues/2337) - 2026-02-26
 * [Issue] [Add possibility to dry-run CI without the uv cache](https://github.com/ethereum/execution-specs/issues/2376) - 2026-03-01
+* [Issue] [Re-enable `test_get_blobs` in devnet tests/`hiveview`](https://github.com/ethereum/execution-specs/issues/2391) - 2026-03-03
+* [Issue] [Add `execute hive` System Test to CI](https://github.com/ethereum/execution-specs/issues/2390) - 2026-03-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] []() - 2026-01-23
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2026-02-23
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #73, March 9, 2026](https://github.com/ethereum/pm/issues/1956) - 2026-03-03
 ## Q4 2025
 
 

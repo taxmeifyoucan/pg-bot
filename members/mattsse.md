@@ -38,6 +38,7 @@ Team: Reth
 * [Pull Request] []() - 2026-01-21
 
 * [Pull Request] []() - 2026-02-01
+* [Pull Request] []() - 2026-03-03
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] []() - 2026-01-24
 

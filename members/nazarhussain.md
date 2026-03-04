@@ -17,6 +17,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar-z](https://github.com/chainsafe/lodestar-z)
 * [Issue] [Use a performant and consistent allocator for all bindings](https://github.com/ChainSafe/lodestar-z/issues/220) - 2026-02-24
+* [Pull Request] []() - 2026-03-03
 ## Q4 2025
 
 

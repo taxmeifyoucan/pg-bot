@@ -29,6 +29,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Besu release 26.2.0](https://github.com/hyperledger/besu/issues/9885) - 2026-02-24
 * [Pull Request] []() - 2026-02-26
 * [Pull Request] []() - 2026-03-02
+* [Pull Request] []() - 2026-03-04
 ## Q4 2025
 
 
