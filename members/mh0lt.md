@@ -25,6 +25,15 @@ Team: Erigon
 * [Issue] [Refactor execution module gRPC interface to plain Go interface](https://github.com/erigontech/erigon/issues/19527) - 2026-02-27
 * [Issue] [Downloader: missing torrent metadata for old files can block node startup, or cuase confusing logging](https://github.com/erigontech/erigon/issues/19545) - 2026-03-01
 * [Issue] [BAL Related Performance Evaluation](https://github.com/erigontech/erigon/issues/19589) - 2026-03-03
+* [Issue] [Remove ExecV3: End-to-end verification (build, lint, hive tests)](https://github.com/erigontech/erigon/issues/19636) - 2026-03-04
+* [Issue] [Remove ExecV3: Refactor SpawnBuilderExecStage](https://github.com/erigontech/erigon/issues/19635) - 2026-03-04
+* [Issue] [Remove ExecV3: Refactor BlockAssembler to accept StateWriter](https://github.com/erigontech/erigon/issues/19634) - 2026-03-04
+* [Issue] [Remove ExecV3: Varied block scenarios (execution-spec-test style)](https://github.com/erigontech/erigon/issues/19633) - 2026-03-04
+* [Issue] [Remove ExecV3: Extend BAL test with varied transaction types](https://github.com/erigontech/erigon/issues/19632) - 2026-03-04
+* [Issue] [Remove ExecV3: Add EngineApiTester builder integration tests](https://github.com/erigontech/erigon/issues/19631) - 2026-03-04
+* [Issue] [Remove ExecV3: Extend ExecModuleTester block assembly tests](https://github.com/erigontech/erigon/issues/19630) - 2026-03-04
+* [Issue] [Remove ExecV3: Create faked TxnProvider for deterministic builder testing](https://github.com/erigontech/erigon/issues/19629) - 2026-03-04
+* [Issue] [Rationalize IntraBlockState to a 2-Cache Model](https://github.com/erigontech/erigon/issues/19623) - 2026-03-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] []() - 2026-02-13
 ## Q4 2025

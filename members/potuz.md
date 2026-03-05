@@ -26,6 +26,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] []() - 2026-02-27
 * [Pull Request] []() - 2026-03-01
 * [Pull Request] []() - 2026-03-04
+* [Pull Request] []() - 2026-03-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-01-26
 * [Issue] [gloas fork should add builder deposits for previous epochs](https://github.com/ethereum/consensus-specs/issues/4867) - 2026-01-27

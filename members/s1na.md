@@ -20,6 +20,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] []() - 2026-02-11
 * [Pull Request] []() - 2026-02-12
 * [Pull Request] []() - 2026-02-16
+* [Pull Request] []() - 2026-03-05
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] []() - 2026-02-05
 * [Pull Request] []() - 2026-02-06

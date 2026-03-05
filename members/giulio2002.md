@@ -35,6 +35,9 @@ Team: Erigon
 * [Pull Request] []() - 2026-03-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-02-28
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] []() - 2026-03-05
 ## Q4 2025
 
 

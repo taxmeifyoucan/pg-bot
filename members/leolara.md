@@ -11,3 +11,4 @@ Github: [@leolara](https://github.com/leolara)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-01-29
+* [Pull Request] []() - 2026-03-04
