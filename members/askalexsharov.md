@@ -29,6 +29,7 @@ Team: Erigon
 * [Pull Request] []() - 2026-02-26
 * [Issue] [Integrity: reproducible sampling](https://github.com/erigontech/erigon/issues/19617) - 2026-03-04
 * [Issue] [Sentinel: race on find Peers and NewAddrBook](https://github.com/erigontech/erigon/issues/19603) - 2026-03-04
+* [Pull Request] []() - 2026-03-06
 ## Q4 2025
 
 

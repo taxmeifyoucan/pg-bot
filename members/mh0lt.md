@@ -34,6 +34,12 @@ Team: Erigon
 * [Issue] [Remove ExecV3: Extend ExecModuleTester block assembly tests](https://github.com/erigontech/erigon/issues/19630) - 2026-03-04
 * [Issue] [Remove ExecV3: Create faked TxnProvider for deterministic builder testing](https://github.com/erigontech/erigon/issues/19629) - 2026-03-04
 * [Issue] [Rationalize IntraBlockState to a 2-Cache Model](https://github.com/erigontech/erigon/issues/19623) - 2026-03-04
+* [Issue] [Testing restart instability](https://github.com/erigontech/erigon/issues/19669) - 2026-03-05
+* [Issue] [Decentralized snapshot distribution via discv5 + BitTorrent](https://github.com/erigontech/erigon/issues/19660) - 2026-03-05
+* [Issue] [Decentralized snapshot distribution: Identity trust via UCAN delegation](https://github.com/erigontech/erigon/issues/19659) - 2026-03-05
+* [Issue] [Decentralized snapshot distribution: Statistical trust via threshold consensus](https://github.com/erigontech/erigon/issues/19658) - 2026-03-05
+* [Issue] [Decentralized snapshot distribution: POC — ENR + BitTorrent flow](https://github.com/erigontech/erigon/issues/19657) - 2026-03-05
+* [Issue] [Phase 1f: Block overfill and filtering rule tests](https://github.com/erigontech/erigon/issues/19645) - 2026-03-05
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] []() - 2026-02-13
 ## Q4 2025

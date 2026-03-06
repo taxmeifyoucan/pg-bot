@@ -19,6 +19,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Issue] [Resolve the instruction size issue in Zisk](https://github.com/NethermindEth/nethermind/issues/10631) - 2026-02-24
 * [Issue] [Implement precompiles for Zisk](https://github.com/NethermindEth/nethermind/issues/10630) - 2026-02-24
 * [Pull Request] []() - 2026-03-02
+* [Pull Request] []() - 2026-03-05
 [nethermindeth/bflat-riscv64](https://github.com/nethermindeth/bflat-riscv64)
 * [Pull Request] []() - 2026-02-09
 ## Q4 2025

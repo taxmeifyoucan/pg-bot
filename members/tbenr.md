@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 * [Issue] [exception on every epoch transition](https://github.com/Consensys/teku/issues/10423) - 2026-02-25
 * [Issue] [Migrate to javalin 7](https://github.com/Consensys/teku/issues/10428) - 2026-02-26
+* [Issue] [Extend by_root reqresp serve range to match by_range](https://github.com/Consensys/teku/issues/10451) - 2026-03-05
 [consensys/discovery](https://github.com/consensys/discovery)
 * [Pull Request] []() - 2026-02-21
 * [Pull Request] []() - 2026-02-23

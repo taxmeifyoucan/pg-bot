@@ -24,6 +24,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] []() - 2026-03-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-20
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [EIP-8037: Add tests for three missing gas-validation and code-deposit edge cases](https://github.com/ethereum/execution-specs/issues/2426) - 2026-03-06
 ## Q4 2025
 
 

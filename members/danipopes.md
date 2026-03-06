@@ -33,6 +33,9 @@ Team: Reth
 * [Issue] [perf: collect in apply_account_state is wasteful](https://github.com/bluealloy/revm/issues/3374) - 2026-01-30
 * [Pull Request] []() - 2026-01-30
 * [Pull Request] []() - 2026-02-05
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Pull Request] []() - 2026-03-05
 ## Q4 2025
 
 
