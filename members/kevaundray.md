@@ -40,6 +40,7 @@ Team: Consensus R&D (EF)
 * [Pull Request] []() - 2026-02-25
 * [Pull Request] []() - 2026-02-28
 * [Pull Request] []() - 2026-03-01
+* [Issue] [Consider separating stateless components from `Block`](https://github.com/ethereum/execution-specs/issues/2441) - 2026-03-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-29
 ## Q4 2025

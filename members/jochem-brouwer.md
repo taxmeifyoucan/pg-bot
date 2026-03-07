@@ -21,6 +21,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] []() - 2026-03-04
 * [Pull Request] []() - 2026-03-05
 * [Issue] [Replace temporary gas-repricings specific benchmarks by more general ones](https://github.com/ethereum/execution-specs/issues/2411) - 2026-03-04
+* [Issue] [Existing contracts deployed via deterministic CREATE2 factory are still being deployed](https://github.com/ethereum/execution-specs/issues/2436) - 2026-03-06
 ## Q4 2025
 
 

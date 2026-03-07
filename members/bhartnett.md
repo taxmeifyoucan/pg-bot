@@ -17,6 +17,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] []() - 2026-02-09
 * [Pull Request] []() - 2026-02-19
 * [Pull Request] []() - 2026-02-25
+* [Pull Request] []() - 2026-03-06
 ## Q4 2025
 
 

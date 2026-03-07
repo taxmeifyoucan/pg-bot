@@ -40,6 +40,13 @@ Team: Erigon
 * [Issue] [Decentralized snapshot distribution: Statistical trust via threshold consensus](https://github.com/erigontech/erigon/issues/19658) - 2026-03-05
 * [Issue] [Decentralized snapshot distribution: POC — ENR + BitTorrent flow](https://github.com/erigontech/erigon/issues/19657) - 2026-03-05
 * [Issue] [Phase 1f: Block overfill and filtering rule tests](https://github.com/erigontech/erigon/issues/19645) - 2026-03-05
+* [Issue] [IBS 2-Cache Phase 4b: Remove external GetOrNewStateObject callers; reimplement SetStorage override](https://github.com/erigontech/erigon/issues/19706) - 2026-03-06
+* [Issue] [IBS 2-Cache Phase 2b: Remove BalanceIncreaseSet from serial/parallel applyUpdates path](https://github.com/erigontech/erigon/issues/19705) - 2026-03-06
+* [Issue] [IBS 2-Cache Phase 5: Remove stateObject](https://github.com/erigontech/erigon/issues/19704) - 2026-03-06
+* [Issue] [IBS 2-Cache Phase 4: Journal reverts via VersionedWrites only; migrate resetObjectChange](https://github.com/erigontech/erigon/issues/19703) - 2026-03-06
+* [Issue] [IBS 2-Cache Phase 3: Fix timing hole; eliminate rs.accounts](https://github.com/erigontech/erigon/issues/19702) - 2026-03-06
+* [Issue] [IBS 2-Cache Phase 2: Derive StateUpdates directly from VersionedWrites](https://github.com/erigontech/erigon/issues/19701) - 2026-03-06
+* [Issue] [IBS 2-Cache Phase 1: Establish test baseline](https://github.com/erigontech/erigon/issues/19700) - 2026-03-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] []() - 2026-02-13
 ## Q4 2025

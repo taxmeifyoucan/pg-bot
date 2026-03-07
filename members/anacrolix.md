@@ -18,3 +18,4 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Issue] [Update golanglint-ci to 2.9](https://github.com/erigontech/erigon/issues/19236) - 2026-02-17
 * [Pull Request] []() - 2026-02-23
 * [Issue] [downloader: Adding existing snapshots](https://github.com/erigontech/erigon/issues/19435) - 2026-02-24
+* [Pull Request] []() - 2026-03-07
