@@ -43,6 +43,9 @@ Team: Consensus R&D (EF)
 * [Issue] [Consider separating stateless components from `Block`](https://github.com/ethereum/execution-specs/issues/2441) - 2026-03-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] []() - 2026-01-29
+
+[nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
+* [Issue] [Consider testing stateless execution against EEST fixtures](https://github.com/NethermindEth/nethermind/issues/10749) - 2026-03-07
 ## Q4 2025
 
 

@@ -37,6 +37,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] []() - 2026-03-05
 * [Issue] [Look into uploading non-zipped nightly reference tests](https://github.com/ethereum/consensus-specs/issues/4975) - 2026-03-05
 * [Pull Request] []() - 2026-03-06
+* [Pull Request] []() - 2026-03-07
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] []() - 2026-01-27
 

@@ -19,6 +19,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] []() - 2026-01-25
 * [Pull Request] []() - 2026-02-21
 * [Pull Request] []() - 2026-03-03
+* [Pull Request] []() - 2026-03-07
+* [Issue] [Rpcdaemon: eth_getBlockReceipts triggers OS OOM killer during performance tests.](https://github.com/erigontech/erigon/issues/19720) - 2026-03-07
+* [Issue] [Erigon is OOM killed by OS during eth_getLogs()](https://github.com/erigontech/erigon/issues/19719) - 2026-03-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] []() - 2026-01-11
 * [Pull Request] []() - 2026-01-15
