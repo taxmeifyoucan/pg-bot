@@ -22,6 +22,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-02-26
+* [Pull Request] []() - 2026-03-08
 ## Q4 2025
 
 

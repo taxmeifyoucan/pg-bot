@@ -13,3 +13,5 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] []() - 2026-01-27
 * [Pull Request] []() - 2026-02-04
 * [Pull Request] []() - 2026-02-09
+* [Pull Request] []() - 2026-03-08
+* [Issue] ["Could not get state" when calling debug/states endpoint](https://github.com/OffchainLabs/prysm/issues/16497) - 2026-03-08

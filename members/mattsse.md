@@ -33,6 +33,7 @@ Team: Reth
 * [Issue] [Improve txcount binary search](https://github.com/paradigmxyz/reth/issues/22561) - 2026-02-25
 * [Issue] [feat(net): add BlockAccessListsClient trait and p2p BAL downloading (eth/71)](https://github.com/paradigmxyz/reth/issues/22593) - 2026-02-26
 * [Issue] [feat(net): add ReceiptsClient trait and p2p receipt downloading](https://github.com/paradigmxyz/reth/issues/22591) - 2026-02-26
+* [Pull Request] []() - 2026-03-08
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] []() - 2026-01-16
 * [Pull Request] []() - 2026-01-21

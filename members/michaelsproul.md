@@ -28,6 +28,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Test new allocators (mimalloc, tcmalloc)](https://github.com/sigp/lighthouse/issues/8840) - 2026-02-18
 * [Issue] [Gloas state storage design](https://github.com/sigp/lighthouse/issues/8893) - 2026-02-24
 * [Pull Request] []() - 2026-03-01
+* [Pull Request] []() - 2026-03-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16
