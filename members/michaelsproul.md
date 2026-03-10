@@ -29,6 +29,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Gloas state storage design](https://github.com/sigp/lighthouse/issues/8893) - 2026-02-24
 * [Pull Request] []() - 2026-03-01
 * [Pull Request] []() - 2026-03-09
+* [Issue] [Gloas: re-enable late block reorgs](https://github.com/sigp/lighthouse/issues/8959) - 2026-03-10
+* [Issue] [Gloas: cold DB](https://github.com/sigp/lighthouse/issues/8958) - 2026-03-10
+* [Issue] [Gloas: `get_expected_withdrawals`/fcU interaction with Full/Empty blocks](https://github.com/sigp/lighthouse/issues/8957) - 2026-03-10
+* [Issue] [Gloas: track head envelope in `canonical_head`](https://github.com/sigp/lighthouse/issues/8956) - 2026-03-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16

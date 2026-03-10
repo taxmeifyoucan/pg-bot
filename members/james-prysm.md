@@ -30,6 +30,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Issue] [ExecutionPayloadEnvelopesByRoot](https://github.com/OffchainLabs/prysm/issues/16400) - 2026-02-25
 * [Issue] [Gloas Sync Package changes](https://github.com/OffchainLabs/prysm/issues/16453) - 2026-03-02
 * [Issue] [rename of SECONDS_PER_SLOT to SLOT_DURATION_MS](https://github.com/OffchainLabs/prysm/issues/16484) - 2026-03-06
+* [Pull Request] []() - 2026-03-10
 ## Q4 2025
 
 

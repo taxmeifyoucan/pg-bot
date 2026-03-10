@@ -34,6 +34,7 @@ Team: Reth
 * [Pull Request] []() - 2026-01-30
 * [Pull Request] []() - 2026-02-05
 
+* [Pull Request] []() - 2026-03-09
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] []() - 2026-03-05
 * [Pull Request] []() - 2026-03-07

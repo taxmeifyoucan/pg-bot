@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] []() - 2026-02-26
 * [Issue] [Review blockchain sync request sizing](https://github.com/hyperledger/besu/issues/9908) - 2026-02-26
 * [Pull Request] []() - 2026-03-06
+* [Pull Request] []() - 2026-03-09
 ## Q4 2025
 
 

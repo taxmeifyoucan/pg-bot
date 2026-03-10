@@ -25,6 +25,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Add missing SSZ response support to several HTTP API endpoints](https://github.com/sigp/lighthouse/issues/8892) - 2026-02-24
 * [Pull Request] []() - 2026-02-25
 * [Issue] [Gloas: send early payload envelopes to reprocess queue](https://github.com/sigp/lighthouse/issues/8922) - 2026-03-02
+* [Issue] [Gloas: envelope peer penalties and REJECT/IGNORE mapping](https://github.com/sigp/lighthouse/issues/8949) - 2026-03-09
+* [Issue] [Gloas: envelope deduplication and status tracking](https://github.com/sigp/lighthouse/issues/8948) - 2026-03-09
 ## Q4 2025
 
 
