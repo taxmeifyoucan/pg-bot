@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] []() - 2026-02-12
 * [Pull Request] []() - 2026-03-05
 * [Pull Request] []() - 2026-03-06
+* [Pull Request] []() - 2026-03-11
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] []() - 2026-01-21
 * [Pull Request] []() - 2026-01-27

@@ -37,6 +37,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] []() - 2026-02-25
 * [Pull Request] []() - 2026-03-05
 * [Issue] [besu OOM when no peers, no syncing](https://github.com/hyperledger/besu/issues/9974) - 2026-03-05
+* [Pull Request] []() - 2026-03-11
+* [Issue] [Snap sync marks initial sync complete before pivot world state is available, causing BWS OOM loop](https://github.com/besu-eth/besu/issues/10018) - 2026-03-10
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] []() - 2026-01-06
 * [Pull Request] []() - 2026-01-08

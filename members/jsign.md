@@ -27,6 +27,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] []() - 2026-02-13
 * [Pull Request] []() - 2026-02-17
 * [Pull Request] []() - 2026-02-19
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [Guest program: should it enforce execution witness canonicality?](https://github.com/ethereum/execution-specs/issues/2474) - 2026-03-10
 ## Q4 2025
 
 

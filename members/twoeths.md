@@ -23,6 +23,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] []() - 2026-02-24
 * [Issue] [Memory leak on network thread](https://github.com/ChainSafe/lodestar/issues/8969) - 2026-03-02
 * [Pull Request] []() - 2026-03-09
+* [Issue] [[gloas] fork-choice compute_head performance issue](https://github.com/ChainSafe/lodestar/issues/9014) - 2026-03-10
+* [Issue] [[gloas] computePayloadTimelinessCommitteesForEpoch performance issue](https://github.com/ChainSafe/lodestar/issues/9013) - 2026-03-10
 ## Q4 2025
 
 

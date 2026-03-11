@@ -31,6 +31,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Error requesting finalized Gloas state](https://github.com/sigp/lighthouse/issues/8869) - 2026-02-19
 * [Pull Request] []() - 2026-02-20
 * [Issue] [Implement blinded payloads for `ExecutionPayloadEnvelope`](https://github.com/sigp/lighthouse/issues/8888) - 2026-02-23
+* [Pull Request] []() - 2026-03-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] []() - 2026-01-21
 ## Q4 2025

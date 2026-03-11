@@ -16,6 +16,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Inconsistent state on newBlock websocket subscriptions.](https://github.com/hyperledger/besu/issues/9682) - 2026-01-26
 
 * [Issue] [Migrate repository from hyperledger to besu-eth organization](https://github.com/hyperledger/besu/issues/9911) - 2026-02-26
+* [Issue] [26.3.0-RC0](https://github.com/besu-eth/besu/issues/10016) - 2026-03-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #0, February 18, 2026](https://github.com/ethereum/pm/issues/1929) - 2026-02-16
 * [Issue] [Encrypt The Mempool #1, March 4, 2026](https://github.com/ethereum/pm/issues/1945) - 2026-02-23
