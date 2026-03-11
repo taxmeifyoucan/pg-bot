@@ -35,6 +35,7 @@ Team: Reth
 * [Issue] [feat(net): add ReceiptsClient trait and p2p receipt downloading](https://github.com/paradigmxyz/reth/issues/22591) - 2026-02-26
 * [Pull Request] []() - 2026-03-08
 * [Pull Request] []() - 2026-03-09
+* [Issue] [feat(payload): maintain block hash cache across payload builds](https://github.com/paradigmxyz/reth/issues/22913) - 2026-03-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] []() - 2026-01-16
 * [Pull Request] []() - 2026-01-21

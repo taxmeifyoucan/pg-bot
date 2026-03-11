@@ -31,6 +31,7 @@ Team: Erigon
 * [Issue] [Sentinel: race on find Peers and NewAddrBook](https://github.com/erigontech/erigon/issues/19603) - 2026-03-04
 * [Pull Request] []() - 2026-03-06
 * [Pull Request] []() - 2026-03-08
+* [Issue] [etl: `memoryDataProvider.Next` to return zero-copy](https://github.com/erigontech/erigon/issues/19778) - 2026-03-10
 ## Q4 2025
 
 

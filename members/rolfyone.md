@@ -50,6 +50,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] []() - 2026-03-02
 * [Pull Request] []() - 2026-03-08
 * [Pull Request] []() - 2026-03-10
+* [Pull Request] []() - 2026-03-11
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025
 
 
