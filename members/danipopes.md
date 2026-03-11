@@ -32,6 +32,22 @@ Team: Reth
 * [Pull Request] [chore: rm thunderdome refs](https://github.com/paradigmxyz/reth/pull/22927) - 2026-03-10
 * [Commit] [feat: enable PGO in release and docker workflows (#21441)](https://github.com/paradigmxyz/reth/commit/e63ebac38043c3cb1dcc7c7b5ae28245b91f3416) - 2026-03-10
 * [Commit] [chore: rm thunderdome refs (#22927)](https://github.com/paradigmxyz/reth/commit/01bd1cc5fa87b2ff58644b26c2fdc607662ef9ad) - 2026-03-10
+* [Review] [Review on: fix(codecs): return advanced buf from AlloyHeader::from_compact](https://github.com/paradigmxyz/reth/pull/22931#pullrequestreview-3925574826) - 2026-03-10
+* [Review] [Review on: perf(engine): replace moka with schnellru for precompile cache and add per-precompile sizing](https://github.com/paradigmxyz/reth/pull/22900#pullrequestreview-3921584032) - 2026-03-10
+* [Review] [Review on: fix(ci): remove hashing stages from stage-run-test for storage v2](https://github.com/paradigmxyz/reth/pull/22929#pullrequestreview-3924963475) - 2026-03-10
+* [Review] [Review on: perf(engine): hoist outer map lookups out of per-slot loops](https://github.com/paradigmxyz/reth/pull/22875#pullrequestreview-3921542249) - 2026-03-10
+* [Review] [Review on: perf(engine): hoist outer map lookups out of per-slot loops](https://github.com/paradigmxyz/reth/pull/22875#pullrequestreview-3924968389) - 2026-03-10
+* [Review] [Review on: fix(ci): remove issue_comment: edited from bench trigger](https://github.com/paradigmxyz/reth/pull/22925#pullrequestreview-3923628341) - 2026-03-10
+* [Review] [Review on: test(trie): Implement TrieTestHarness](https://github.com/paradigmxyz/reth/pull/22923#pullrequestreview-3924527851) - 2026-03-10
+* [Review] [Review on: perf(provider): drop clones before to_plain_state_reverts](https://github.com/paradigmxyz/reth/pull/22918#pullrequestreview-3923631738) - 2026-03-10
+* [Review] [Review on: feat(cli): make storage v2 default for new nodes](https://github.com/paradigmxyz/reth/pull/22890#pullrequestreview-3923447059) - 2026-03-10
+* [Review] [Review on: chore: bump reth v1.11.2](https://github.com/paradigmxyz/reth/pull/22914#pullrequestreview-3922575939) - 2026-03-10
+* [Review] [Review on: perf(engine): offload DeferredDrops deallocation to a persistent background thread](https://github.com/paradigmxyz/reth/pull/22908#pullrequestreview-3921551083) - 2026-03-10
+* [Review] [Review on: perf(engine): offload DeferredDrops deallocation to a persistent background thread](https://github.com/paradigmxyz/reth/pull/22908#pullrequestreview-3921558050) - 2026-03-10
+* [Review] [Review on: perf(engine): offload DeferredDrops deallocation to a persistent background thread](https://github.com/paradigmxyz/reth/pull/22908#pullrequestreview-3921898635) - 2026-03-10
+* [Review] [Review on: fix(bench): retry HTTP 502 errors in block provider](https://github.com/paradigmxyz/reth/pull/22916#pullrequestreview-3922049763) - 2026-03-10
+* [Review] [Review on: refactor(engine): remove unused MultiProofMessage::EmptyProof variant](https://github.com/paradigmxyz/reth/pull/22909#pullrequestreview-3920895969) - 2026-03-10
+* [Review] [Review on: revert: use line-tables-only debug info for profiling profile](https://github.com/paradigmxyz/reth/pull/22907#pullrequestreview-3920902258) - 2026-03-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25

@@ -16,6 +16,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Issue] [Consider an optional flag to collect and dump GPU metrics](https://github.com/eth-act/ere/issues/265) - 2026-01-06
 
 * [Pull Request] [Add zisk cycle scope tracker](https://github.com/eth-act/ere/pull/287) - 2026-02-06
+* [Review] [Review on: Remove some zkVMs](https://github.com/eth-act/ere/pull/307#pullrequestreview-3921842211) - 2026-03-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [fix(bal): fix populated account if pre-state was none](https://github.com/bluealloy/revm/pull/3357) - 2026-01-27
 
@@ -33,6 +34,17 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472) - 2026-03-10
 * [Pull Request] [feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469) - 2026-03-10
 * [Issue] [Guest program: should it enforce execution witness canonicality?](https://github.com/ethereum/execution-specs/issues/2474) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925757322) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925759910) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925767604) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925781575) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925788074) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925803693) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922782779) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922789214) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922802865) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922809574) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922814994) - 2026-03-10
 ## Q4 2025
 
 

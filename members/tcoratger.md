@@ -34,3 +34,6 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [poseidon1: speedup monty-31 packed version on avx](https://github.com/Plonky3/Plonky3/pull/1420) - 2026-03-10
 * [Pull Request] [monty 31: faster forward dft](https://github.com/Plonky3/Plonky3/pull/1418) - 2026-03-10
 * [Commit] [monty 31: faster forward dft (#1418)](https://github.com/Plonky3/Plonky3/commit/14fd70b73857d17977d17a952371d77b38c39261) - 2026-03-10
+* [Review] [Review on: chore: release v0.5.0](https://github.com/Plonky3/Plonky3/pull/1426#pullrequestreview-3922977898) - 2026-03-10
+* [Review] [Review on: monty 31: faster forward dft](https://github.com/Plonky3/Plonky3/pull/1418#pullrequestreview-3922076936) - 2026-03-10
+* [Review] [Review on: monty 31: faster forward dft](https://github.com/Plonky3/Plonky3/pull/1418#pullrequestreview-3922077726) - 2026-03-10

@@ -17,6 +17,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [Reset GasUsed when simulating txs](https://github.com/NethermindEth/nethermind/pull/10766) - 2026-03-10
 * [Commit] [Reset GasUsed when simulating txs (#10766)](https://github.com/NethermindEth/nethermind/commit/24747b5a1c4c2946930feb697c3031fe49007727) - 2026-03-10
+* [Review] [Review on: Fix event handler leaks, reduce allocations, and refactor Network layer](https://github.com/NethermindEth/nethermind/pull/10753#pullrequestreview-3923780248) - 2026-03-10
+* [Review] [Review on: fix: Add new RLP decoders for zkEVM](https://github.com/NethermindEth/nethermind/pull/10773#pullrequestreview-3924559639) - 2026-03-10
+* [Review] [Review on: Fix rare `IndexOutOfRangeException` in `eth_getLogs` when block data is missing](https://github.com/NethermindEth/nethermind/pull/10771#pullrequestreview-3924160422) - 2026-03-10
+* [Review] [Review on: Enforce GasCap across debug and trace RPC methods](https://github.com/NethermindEth/nethermind/pull/10457#pullrequestreview-3923273548) - 2026-03-10
+* [Review] [Review on: feat(jsonrpc): add eth_subscribe transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/10524#pullrequestreview-3921530800) - 2026-03-10
 ## Q4 2025
 
 

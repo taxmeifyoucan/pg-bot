@@ -27,6 +27,20 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [Flat/snap sync refactor](https://github.com/NethermindEth/nethermind/pull/10772) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3924584904) - 2026-03-10
+* [Review] [Review on: Flat/snap sync refactor](https://github.com/NethermindEth/nethermind/pull/10772#pullrequestreview-3923766369) - 2026-03-10
+* [Review] [Review on: fix: Add new RLP decoders for zkEVM](https://github.com/NethermindEth/nethermind/pull/10773#pullrequestreview-3924639105) - 2026-03-10
+* [Review] [Review on: Fix rare `IndexOutOfRangeException` in `eth_getLogs` when block data is missing](https://github.com/NethermindEth/nethermind/pull/10771#pullrequestreview-3923808595) - 2026-03-10
+* [Review] [Review on: Update agent rules and review skill](https://github.com/NethermindEth/nethermind/pull/10733#pullrequestreview-3921063436) - 2026-03-10
+* [Review] [Review on: docs: Clarify guideline about infra](https://github.com/NethermindEth/nethermind/pull/10767#pullrequestreview-3923967431) - 2026-03-10
+* [Review] [Review on: Reset GasUsed when simulating txs](https://github.com/NethermindEth/nethermind/pull/10766#pullrequestreview-3922373226) - 2026-03-10
+* [Review] [Review on: Enforce GasCap across debug and trace RPC methods](https://github.com/NethermindEth/nethermind/pull/10457#pullrequestreview-3922304752) - 2026-03-10
+* [Review] [Review on: FlatDB dictionary lookup optimization](https://github.com/NethermindEth/nethermind/pull/10738#pullrequestreview-3922617452) - 2026-03-10
+* [Review] [Review on: FlatDB dictionary lookup optimization](https://github.com/NethermindEth/nethermind/pull/10738#pullrequestreview-3922681463) - 2026-03-10
+* [Review] [Review on: chore: add code review instructions for GitHub Copilot](https://github.com/NethermindEth/nethermind/pull/10602#pullrequestreview-3921092424) - 2026-03-10
+* [Review] [Review on: Fix assertoor workflow: bump setup-python to v6](https://github.com/NethermindEth/nethermind/pull/10645#pullrequestreview-3921086928) - 2026-03-10
+* [Review] [Review on: feat: add ci reporter action](https://github.com/NethermindEth/nethermind/pull/10564#pullrequestreview-3921103119) - 2026-03-10
+* [Review] [Review on: Eliminate per-instance ValueFactory delegate allocations in PrewarmerScopeProvider](https://github.com/NethermindEth/nethermind/pull/10754#pullrequestreview-3921044040) - 2026-03-10
 ## Q4 2025
 
 

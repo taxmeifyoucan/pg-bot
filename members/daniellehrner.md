@@ -27,6 +27,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Check new files for the correct copyright header in th CI](https://github.com/besu-eth/besu/pull/10012) - 2026-03-10
 * [Pull Request] [Merge streaming tracer into bal-devnet-2-with-prefetch](https://github.com/besu-eth/besu/pull/10013) - 2026-03-10
 * [Pull Request] [Merge trace-streaming into bal-devnet-2](https://github.com/besu-eth/besu/pull/10011) - 2026-03-10
+* [Review] [Review on: Add compressed ECDH key agreement to SecurityModule](https://github.com/besu-eth/besu/pull/10007#pullrequestreview-3921584445) - 2026-03-10
+* [Review] [Review on: Amsterdam: EIP-8037: State Creation Gas Cost Increase](https://github.com/besu-eth/besu/pull/9815#pullrequestreview-3922851620) - 2026-03-10
+* [Review] [Review on: Amsterdam: EIP-8037: State Creation Gas Cost Increase](https://github.com/besu-eth/besu/pull/9815#pullrequestreview-3922853309) - 2026-03-10
 ## Q4 2025
 
 

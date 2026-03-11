@@ -23,6 +23,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): add tests for address not warmed on aborted create (#2452)](https://github.com/ethereum/execution-specs/commit/8a0fc6993eaf636580fefdf838712b5392bc6aae) - 2026-03-10
 * [Commit] [feat(tests): add missing legacy modexp cases with oversized lengths (#2447)](https://github.com/ethereum/execution-specs/commit/d581f26c08497786f446b26236eacf4a721e2d4a) - 2026-03-10
 * [Commit] [feat(ci): update inputs for ci rebase/merge workflows (#2072)](https://github.com/ethereum/execution-specs/commit/3975d16d906f52cdbf50fc1a70df8b45213b9c10) - 2026-03-10
+* [Review] [Review on: feat(test-consume): initial implementation of the enginex simulator](https://github.com/ethereum/execution-specs/pull/1964#pullrequestreview-3921972963) - 2026-03-10
+* [Review] [Review on: feat(tests): port goevmlab regression tests for EELS consensus bugs ](https://github.com/ethereum/execution-specs/pull/2457#pullrequestreview-3923481734) - 2026-03-10
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 

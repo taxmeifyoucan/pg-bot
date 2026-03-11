@@ -30,6 +30,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [docs: Clarify guideline about infra](https://github.com/NethermindEth/nethermind/pull/10767) - 2026-03-10
 * [Commit] [fix: Add new RLP decoders for zkEVM (#10773)](https://github.com/NethermindEth/nethermind/commit/032f462634313fc159216a409e1ec252a20d63d0) - 2026-03-10
 * [Commit] [docs: Clarify guideline about infra (#10767)](https://github.com/NethermindEth/nethermind/commit/3a3e065a94084347357e8f33e1ec993c6ab0385d) - 2026-03-10
+* [Review] [Review on: ci: Add Claude review](https://github.com/NethermindEth/nethermind/pull/10768#pullrequestreview-3923191031) - 2026-03-10
+* [Review] [Review on: chore: add code review instructions for GitHub Copilot](https://github.com/NethermindEth/nethermind/pull/10602#pullrequestreview-3921405865) - 2026-03-10
 ## Q4 2025
 
 

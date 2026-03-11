@@ -30,6 +30,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[gloas] computePayloadTimelinessCommitteesForEpoch performance issue](https://github.com/ChainSafe/lodestar/issues/9013) - 2026-03-10
 * [Issue] [[gloas] fork-choice compute_head performance issue](https://github.com/ChainSafe/lodestar/issues/9014) - 2026-03-10
 
+* [Review] [Review on: fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007#pullrequestreview-3919170310) - 2026-03-10
+* [Review] [Review on: fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007#pullrequestreview-3919173106) - 2026-03-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 ## Q4 2025

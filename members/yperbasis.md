@@ -33,6 +33,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [vm: fix CREATE/CREATE2 collision with EIP-7702 delegated accounts](https://github.com/erigontech/erigon/pull/19777) - 2026-03-10
 * [Pull Request] [txpool: penalize peers sending malformed p2p messages](https://github.com/erigontech/erigon/pull/19781) - 2026-03-10
 * [Commit] [txpool: penalize peers sending malformed p2p messages (#19781)](https://github.com/erigontech/erigon/commit/965cf96a748dc3e3bcd70c2e38a9b47ce64495ac) - 2026-03-10
+* [Review] [Review on: state, stagedsync: IBS 2-cache refactor phase 2+3 — replace StateUpdates with VersionedWrites](https://github.com/erigontech/erigon/pull/19711#pullrequestreview-3920976376) - 2026-03-10
+* [Review] [Review on: state, stagedsync: IBS 2-cache refactor phase 2+3 — replace StateUpdates with VersionedWrites](https://github.com/erigontech/erigon/pull/19711#pullrequestreview-3923037868) - 2026-03-10
+* [Review] [Review on: execution/state: fix WriteAccountStorage skip using stale blockOriginStorage](https://github.com/erigontech/erigon/pull/19748#pullrequestreview-3921038464) - 2026-03-10
+* [Review] [Review on: [SharovBot] ci: enable Docker layer caching for Hive workflows](https://github.com/erigontech/erigon/pull/19468#pullrequestreview-3921956083) - 2026-03-10
+* [Review] [Review on: rpc: add support for debug_setHead](https://github.com/erigontech/erigon/pull/19577#pullrequestreview-3921937114) - 2026-03-10
+* [Review] [Review on: [SharovBot] fix(commitment): count first-nibble branches in CanDoConcurrentNext to fix flaky test](https://github.com/erigontech/erigon/pull/19568#pullrequestreview-3921930148) - 2026-03-10
+* [Review] [Review on: execution/stagedsync: enable deferred commitment updates for parallel fork validation](https://github.com/erigontech/erigon/pull/19749#pullrequestreview-3920128540) - 2026-03-10
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 ## Q4 2025
 
 

@@ -36,6 +36,8 @@ Team: Erigon
 * [Pull Request] [[SharovBot] fix(shutter): wait for pending nonce after block build to prevent flaky TestShutterBlockBuilding](https://github.com/erigontech/erigon/pull/19782) - 2026-03-10
 * [Pull Request] [[SharovBot] ci: increase test timeout to 30m on windows-2025 to fix eest_blockchain marginal failure](https://github.com/erigontech/erigon/pull/19771) - 2026-03-10
 * [Commit] [[SharovBot] ci: increase test timeout to 30m on windows-2025 to fix eest_blockchain marginal failure (#19771)](https://github.com/erigontech/erigon/commit/ae876c6ee377db01d56834d6002f62755b1cee11) - 2026-03-10
+* [Review] [Review on: cl/beacon: fix nil pointer panics in GetEthV1ValidatorAttestationData](https://github.com/erigontech/erigon/pull/19783#pullrequestreview-3925656618) - 2026-03-10
+* [Review] [Review on: mark `commitment history` feature as non-experimental](https://github.com/erigontech/erigon/pull/19774#pullrequestreview-3924713020) - 2026-03-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Engine API Communication Channels](https://github.com/ethereum/EIPs/pull/11360) - 2026-02-28
 
@@ -43,6 +45,9 @@ Team: Erigon
 * [Commit] [Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/commit/73afb6b4d30b0430ff8fb29b09bddb5ace928c9a) - 2026-03-10
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add engine_exchangeCapabilitiesV2](https://github.com/ethereum/execution-apis/pull/766) - 2026-03-05
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923365067) - 2026-03-10
 ## Q4 2025
 
 

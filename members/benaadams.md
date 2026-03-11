@@ -33,6 +33,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Eliminate per-instance ValueFactory delegate allocations in PrewarmerScopeProvider](https://github.com/NethermindEth/nethermind/pull/10754) - 2026-03-10
 * [Commit] [Add multi-platform CI test matrix (arm64, Windows, macOS) (#10761)](https://github.com/NethermindEth/nethermind/commit/a33f0afc212e3892be2e551c997a588e6ab358a3) - 2026-03-10
 * [Commit] [Eliminate per-instance ValueFactory delegate allocations in PrewarmerScopeProvider (#10754)](https://github.com/NethermindEth/nethermind/commit/3133ddbd2a7f000c2ff07105752ac678a7e9fa41) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3924805317) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3924806386) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3924829759) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3925024337) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3925026201) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3925028192) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3925029033) - 2026-03-10
+* [Review] [Review on: perf: CountZeros SIMD — fix boundary fallback and optimize ARM path](https://github.com/NethermindEth/nethermind/pull/10757#pullrequestreview-3925392011) - 2026-03-10
+* [Review] [Review on: Fix event handler leaks, reduce allocations, and refactor Network layer](https://github.com/NethermindEth/nethermind/pull/10753#pullrequestreview-3925374244) - 2026-03-10
+* [Review] [Review on: docs: Clarify guideline about infra](https://github.com/NethermindEth/nethermind/pull/10767#pullrequestreview-3923317639) - 2026-03-10
+* [Review] [Review on: Expand retry cache](https://github.com/NethermindEth/nethermind/pull/10739#pullrequestreview-3923369324) - 2026-03-10
+* [Review] [Review on: fix(ui): assign slice result to txsToAdd array](https://github.com/NethermindEth/nethermind/pull/10724#pullrequestreview-3923360517) - 2026-03-10
 ## Q4 2025
 
 

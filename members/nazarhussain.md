@@ -18,6 +18,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [chainsafe/lodestar-z](https://github.com/chainsafe/lodestar-z)
 * [Issue] [Use a performant and consistent allocator for all bindings](https://github.com/ChainSafe/lodestar-z/issues/220) - 2026-02-24
 * [Pull Request] [feat: error handling with error objects](https://github.com/ChainSafe/lodestar-z/pull/222) - 2026-03-03
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: chore: fix private imports](https://github.com/ChainSafe/lodestar/pull/8990#pullrequestreview-3922953406) - 2026-03-10
+* [Review] [Review on: feat: use tsgo for build and type checks](https://github.com/ChainSafe/lodestar/pull/8992#pullrequestreview-3922930927) - 2026-03-10
 ## Q4 2025
 
 

@@ -41,6 +41,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: pin github actions by commit hash](https://github.com/ChainSafe/lodestar/pull/9017) - 2026-03-10
 * [Commit] [fix:  prune serialized cache by block input keys (#9007)](https://github.com/ChainSafe/lodestar/commit/b847afb846a163fd35c097ddfd40da56325e0e6d) - 2026-03-10
 * [Commit] [chore: pin github actions by commit hash (#9017)](https://github.com/ChainSafe/lodestar/commit/0df187678b8103f2aeb3baf10791281d29a8d914) - 2026-03-10
+* [Review] [Review on: fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007#pullrequestreview-3921666516) - 2026-03-10
+* [Review] [Review on: fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007#pullrequestreview-3921814713) - 2026-03-10
+* [Review] [Review on: fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007#pullrequestreview-3921821026) - 2026-03-10
+* [Review] [Review on: chore(deps): bump the actions group with 13 updates](https://github.com/ChainSafe/lodestar/pull/9018#pullrequestreview-3923099381) - 2026-03-10
 ## Q4 2025
 
 

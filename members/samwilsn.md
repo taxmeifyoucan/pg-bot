@@ -17,6 +17,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 * [Pull Request] [Update LICENSE.md [ignore-me]](https://github.com/ethereum/EIPs/pull/11278) - 2026-02-06
 * [Issue] [Submit updated sitemap to Google / Bing / etc.](https://github.com/ethereum/EIPs/issues/11298) - 2026-02-10
+* [Review] [Review on: Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/pull/11365#pullrequestreview-3923879266) - 2026-03-10
+* [Review] [Review on: Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/pull/11365#pullrequestreview-3923888449) - 2026-03-10
+* [Review] [Review on: Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355#pullrequestreview-3923630290) - 2026-03-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Carry pytest markers from Python all the way through to the filled JSON tests](https://github.com/ethereum/execution-specs/issues/2089) - 2026-01-28
 

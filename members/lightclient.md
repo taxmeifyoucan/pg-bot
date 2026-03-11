@@ -20,6 +20,7 @@ Team: Geth
 * [Pull Request] [Update EIP-5069: add concept of associate editors](https://github.com/ethereum/EIPs/pull/11035) - 2026-01-06
 
 * [Pull Request] [Update EIP-8141: fix typo](https://github.com/ethereum/EIPs/pull/11305) - 2026-02-11
+* [Review] [Review on: Update EIP-8141: Add EOA support](https://github.com/ethereum/EIPs/pull/11379#pullrequestreview-3922408317) - 2026-03-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Bosul to go-ethereum](https://github.com/protocolguild/documentation/pull/462) - 2026-01-08
 

@@ -31,6 +31,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [Align on `Opcode`and `Bytecode` `__hash__` and `__eq__` logic](https://github.com/ethereum/execution-specs/issues/2190) - 2026-02-11
 * [Pull Request] [chore(test): Remove duplicate test](https://github.com/ethereum/execution-specs/pull/2210) - 2026-02-13
 * [Issue] [Support inequality validation for `post` in tests](https://github.com/ethereum/execution-specs/issues/2227) - 2026-02-18
+* [Review] [Review on: refactor(test-forks): Remove `block_number`/`timestamp` from all methods](https://github.com/ethereum/execution-specs/pull/2442#pullrequestreview-3926056928) - 2026-03-10
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [fix: update BPO defaults](https://github.com/ethereum/hive/pull/1380) - 2026-01-15
 * [Pull Request] [fix: remove Amsterdam defaults (named fork in blob params)](https://github.com/ethereum/hive/pull/1387) - 2026-02-03

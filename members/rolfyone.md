@@ -59,6 +59,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Added deprecation warning for leveldb databases (#10468)](https://github.com/Consensys/teku/commit/1fd181c822a4d97c086444ffa0c60e729b542f98) - 2026-03-10
 * [Commit] [Updated post blocks description (#10419)](https://github.com/Consensys/teku/commit/f5040263e65942c8d17e6db360f7adc449f4ef3b) - 2026-03-10
 
+* [Review] [Review on: protoarray lookup optimization](https://github.com/Consensys/teku/pull/10448#pullrequestreview-3919474718) - 2026-03-10
+* [Review] [Review on: ci cleanup](https://github.com/Consensys/teku/pull/10466#pullrequestreview-3919532699) - 2026-03-10
+* [Review] [Review on: Engine api optimizations](https://github.com/Consensys/teku/pull/10469#pullrequestreview-3919291111) - 2026-03-10
+* [Review] [Review on: Add GET /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10465#pullrequestreview-3919349954) - 2026-03-10
+* [Review] [Review on: Add GET /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10465#pullrequestreview-3919386456) - 2026-03-10
+* [Review] [Review on: Add GET /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10465#pullrequestreview-3919393837) - 2026-03-10
+* [Review] [Review on: Implement `GET` `exceution_payload_bid` ](https://github.com/Consensys/teku/pull/10463#pullrequestreview-3919156453) - 2026-03-10
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

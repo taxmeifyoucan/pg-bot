@@ -36,6 +36,19 @@ Team: Erigon
 * [Pull Request] [recsplit: keyPos reset on retry](https://github.com/erigontech/erigon/pull/19773) - 2026-03-10
 * [Pull Request] [merge `release/3.4` to `main`](https://github.com/erigontech/erigon/pull/19772) - 2026-03-10
 * [Issue] [etl: `memoryDataProvider.Next` to return zero-copy](https://github.com/erigontech/erigon/issues/19778) - 2026-03-10
+* [Review] [Review on: claude: add CI test skills (unit, all, race, hive, rpc, ci-orchestrator)](https://github.com/erigontech/erigon/pull/19784#pullrequestreview-3926266438) - 2026-03-11
+* [Review] [Review on: snapcfg: load preverified hashes for single chain only](https://github.com/erigontech/erigon/pull/19785#pullrequestreview-3926261390) - 2026-03-11
+* [Review] [Review on: execution/tests: fix state test DB contention](https://github.com/erigontech/erigon/pull/19767#pullrequestreview-3919308978) - 2026-03-10
+* [Review] [Review on: docs: remove MCP documentation from main (3.3.x)](https://github.com/erigontech/erigon/pull/19756#pullrequestreview-3919836710) - 2026-03-10
+* [Review] [Review on: Cherry-pick #19698: UnitTest for reset page counter on collision in buildVI](https://github.com/erigontech/erigon/pull/19754#pullrequestreview-3921135043) - 2026-03-10
+* [Review] [Review on: txpool: replace custom RLP parsing with standard transaction types](https://github.com/erigontech/erigon/pull/19757#pullrequestreview-3920173700) - 2026-03-10
+* [Review] [Review on: execution/stagedsync: enable deferred commitment updates for parallel fork validation](https://github.com/erigontech/erigon/pull/19749#pullrequestreview-3919826017) - 2026-03-10
+* [Review] [Review on: [SharovBot] ci: increase test timeout to 30m on windows-2025 to fix eest_blockchain marginal failure](https://github.com/erigontech/erigon/pull/19771#pullrequestreview-3919861523) - 2026-03-10
+* [Review] [Review on: ci, make: add test-bench to verify all benchmarks compile and run](https://github.com/erigontech/erigon/pull/19745#pullrequestreview-3919642929) - 2026-03-10
+* [Review] [Review on: [r3.4] [cherry-pick] Migrate bloatnet to perf-devnet-3 and fix genesis hash collisions (#19741)](https://github.com/erigontech/erigon/pull/19753#pullrequestreview-3919833242) - 2026-03-10
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025
 
 

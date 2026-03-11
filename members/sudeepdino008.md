@@ -33,6 +33,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [stage_exec restart is failing consistently because of nonce too low errors](https://github.com/erigontech/erigon/issues/19473) - 2026-02-25
 * [Pull Request] [Cherry-pick #19698: UnitTest for reset page counter on collision in buildVI](https://github.com/erigontech/erigon/pull/19754) - 2026-03-10
 * [Commit] [Cherry-pick #19698: UnitTest for reset page counter on collision in buildVI (#19754)](https://github.com/erigontech/erigon/commit/59bd509cebca45204c223697823472e4c374cef5) - 2026-03-10
+* [Review] [Review on: recsplit: keyPos reset on retry](https://github.com/erigontech/erigon/pull/19773#pullrequestreview-3920376885) - 2026-03-10
 ## Q4 2025
 
 

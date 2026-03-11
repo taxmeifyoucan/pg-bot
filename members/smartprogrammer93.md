@@ -20,6 +20,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [ci: Add Claude review](https://github.com/NethermindEth/nethermind/pull/10768) - 2026-03-10
 * [Pull Request] [feat(jsonrpc): add eth_subscribe transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/10524) - 2026-03-10
 * [Commit] [feat(jsonrpc): add eth_subscribe transactionReceipts subscription (#10524)](https://github.com/NethermindEth/nethermind/commit/a916b0e2495ab0a0901da32b25a49a0a9c7430a3) - 2026-03-10
+* [Review] [Review on: ci: Add Claude review](https://github.com/NethermindEth/nethermind/pull/10768#pullrequestreview-3923681880) - 2026-03-10
 ## Q3 2025
 
 

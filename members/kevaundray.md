@@ -43,6 +43,7 @@ Team: Consensus R&D (EF)
 * [Issue] [Consider separating stateless components from `Block`](https://github.com/ethereum/execution-specs/issues/2441) - 2026-03-06
 * [Issue] [Unused public key parameter in stateless code](https://github.com/ethereum/execution-specs/issues/2448) - 2026-03-09
 * [Pull Request] [chore(do not merge): evmification](https://github.com/ethereum/execution-specs/pull/2471) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3923637143) - 2026-03-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 

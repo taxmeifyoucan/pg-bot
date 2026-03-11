@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Issue] [Bump GHAs to Ubuntu 24.04](https://github.com/hyperledger/besu/issues/9949) - 2026-03-03
 * [Pull Request] [Benchmarking docs](https://github.com/besu-eth/besu/pull/9998) - 2026-03-09
 * [Pull Request] [Use existing RLP methods in trie log prune batch files](https://github.com/besu-eth/besu/pull/10009) - 2026-03-10
+* [Review] [Review on: enable local gradle caching ](https://github.com/besu-eth/besu/pull/10008#pullrequestreview-3919946351) - 2026-03-10
 ## Q4 2025
 
 

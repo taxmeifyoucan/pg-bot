@@ -36,6 +36,14 @@ Team: Reth
 * [Pull Request] [docs: fix typos and grammar errors across crates](https://github.com/paradigmxyz/reth/pull/22877) - 2026-03-08
 * [Pull Request] [fix(op): implement is_system_tx for OpTxEnvelope](https://github.com/paradigmxyz/reth/pull/22882) - 2026-03-09
 * [Issue] [feat(payload): maintain block hash cache across payload builds](https://github.com/paradigmxyz/reth/issues/22913) - 2026-03-10
+* [Review] [Review on: perf(provider): drop clones before to_plain_state_reverts](https://github.com/paradigmxyz/reth/pull/22918#pullrequestreview-3923625473) - 2026-03-10
+* [Review] [Review on: perf(engine): offload DeferredDrops deallocation to a persistent background thread](https://github.com/paradigmxyz/reth/pull/22908#pullrequestreview-3921435317) - 2026-03-10
+* [Review] [Review on: feat(rpc): add operator RPC server (`--operator`)](https://github.com/paradigmxyz/reth/pull/22887#pullrequestreview-3921512492) - 2026-03-10
+* [Review] [Review on: fix(rpc): disable EIP-7825 tx gas limit cap in eth_createAccessList and eth_estimateGas](https://github.com/paradigmxyz/reth/pull/22893#pullrequestreview-3920576554) - 2026-03-10
+* [Review] [Review on: fix(rpc): disable EIP-7825 tx gas limit cap in eth_createAccessList and eth_estimateGas](https://github.com/paradigmxyz/reth/pull/22893#pullrequestreview-3920579871) - 2026-03-10
+* [Review] [Review on: fix(rpc): disable EIP-7825 tx gas limit cap in eth_createAccessList and eth_estimateGas](https://github.com/paradigmxyz/reth/pull/22893#pullrequestreview-3920580871) - 2026-03-10
+* [Review] [Review on: refactor(txpool): change `EthTransactionValidator::validate_stateless` return type, accept tx by ref](https://github.com/paradigmxyz/reth/pull/22910#pullrequestreview-3921091547) - 2026-03-10
+* [Review] [Review on: perf(provider): remove unnecessary clones in changeset readers](https://github.com/paradigmxyz/reth/pull/22906#pullrequestreview-3921106432) - 2026-03-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

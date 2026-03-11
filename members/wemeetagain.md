@@ -34,6 +34,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Pull Request] [refactor: use bitmask instead of Set<boolean> for epochIndex payload tracking](https://github.com/ChainSafe/lodestar/pull/9019) - 2026-03-10
+* [Review] [Review on: chore: fix private imports](https://github.com/ChainSafe/lodestar/pull/8990#pullrequestreview-3923087711) - 2026-03-10
+* [Review] [Review on: chore: pin github actions by commit hash](https://github.com/ChainSafe/lodestar/pull/9017#pullrequestreview-3922646576) - 2026-03-10
+* [Review] [Review on: fix: enhance epochIndex to track payloadPresent variants](https://github.com/ChainSafe/lodestar/pull/9006#pullrequestreview-3922448654) - 2026-03-10
 ## Q4 2025
 
 

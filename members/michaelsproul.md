@@ -38,6 +38,16 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Start on Gloas reference in book](https://github.com/sigp/lighthouse/pull/8964) - 2026-03-10
 * [Issue] [Gloas: state reconstruction](https://github.com/sigp/lighthouse/issues/8962) - 2026-03-10
 * [Issue] [Gloas: payload envelope in `PreProcessingSnapshot`](https://github.com/sigp/lighthouse/issues/8961) - 2026-03-10
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926118977) - 2026-03-10
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926145358) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926159292) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926169021) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926219210) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926220437) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926236215) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926256260) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926260432) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926269299) - 2026-03-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16

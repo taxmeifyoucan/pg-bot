@@ -50,8 +50,10 @@ class GithubGraphQLClient
   end
 
   def get_org_repos(org, count: 50)
+    cutoff = Time.now - (7 * 24 * 60 * 60) # 1 week
     repos = @rest_client.organization_repositories(org, sort: 'pushed', per_page: count)
-    repos.map { |r| r.full_name }
+    active = repos.select { |r| r.pushed_at && Time.parse(r.pushed_at.to_s) >= cutoff }
+    active.map { |r| r.full_name }
   end
 
   def fetch_repo_contributions(repos, since_time)
@@ -97,6 +99,13 @@ class GithubGraphQLClient
               createdAt
               merged
               mergedAt
+              reviews(first: 10) {
+                nodes {
+                  author { login }
+                  url
+                  createdAt
+                }
+              }
             }
           }
           issues(first: 50, filterBy: {since: "#{since_iso}"}, orderBy: {field: UPDATED_AT, direction: DESC}) {
@@ -161,7 +170,22 @@ class GithubGraphQLClient
         end
       end
 
-      # Reviews not included in batch query to stay within GraphQL resource limits
+      # Parse reviews on this PR
+      reviews = pr.dig('reviews', 'nodes') || []
+      reviews.each do |review|
+        next unless review && review['author']
+        review_time = Time.parse(review['createdAt'])
+        next unless review_time >= since_time
+
+        contributions << {
+          repo: repo,
+          type: 'Review',
+          title: "Review on: #{pr['title']}",
+          url: review['url'],
+          username: review['author']['login'],
+          timestamp: review_time
+        }
+      end
     end
 
     # Parse issues (opened)

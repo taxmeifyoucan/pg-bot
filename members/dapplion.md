@@ -21,6 +21,15 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Add ai agent safety tooling](https://github.com/sigp/lighthouse/pull/8898) - 2026-02-24
 
 * [Pull Request] [Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952) - 2026-03-09
+* [Review] [Review on: Schedule Fulu fork for Chiado testnet](https://github.com/sigp/lighthouse/pull/8954#pullrequestreview-3924753414) - 2026-03-10
+* [Review] [Review on: Update contribution guidlines regarding LLM usage](https://github.com/sigp/lighthouse/pull/8879#pullrequestreview-3924063859) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923993165) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923994094) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923995904) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923996802) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923997668) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923998477) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923999241) - 2026-03-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Extend by_root reqresp serve range to match by_range](https://github.com/ethereum/consensus-specs/pull/4950) - 2026-02-26
 * [Pull Request] [Typo sorry](https://github.com/ethereum/consensus-specs/pull/4989) - 2026-03-08

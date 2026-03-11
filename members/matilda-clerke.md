@@ -14,6 +14,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Discv5 static bootnodes](https://github.com/besu-eth/besu/pull/9809) - 2026-02-15
 * [Pull Request] [Change default batch size for snap sync download pipeline](https://github.com/besu-eth/besu/pull/9943) - 2026-03-03
+* [Review] [Review on: EIP-8159: eth/71 - Block Access List Exchange](https://github.com/besu-eth/besu/pull/9966#pullrequestreview-3926250034) - 2026-03-11
+* [Review] [Review on: Update --bootnodes description and throw exception is mixed enode and ENR bootnodes are present](https://github.com/besu-eth/besu/pull/9955#pullrequestreview-3926008516) - 2026-03-10
 ## Q4 2025
 
 

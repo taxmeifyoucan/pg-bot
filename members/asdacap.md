@@ -19,6 +19,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix random invalid block](https://github.com/NethermindEth/nethermind/pull/10613) - 2026-02-22
 * [Pull Request] [Perf/simple flat](https://github.com/NethermindEth/nethermind/pull/9854) - 2026-02-25
 * [Pull Request] [Remove global mutable state from Rlp decoder registry](https://github.com/NethermindEth/nethermind/pull/10686) - 2026-03-01
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: Flat/snap sync refactor](https://github.com/NethermindEth/nethermind/pull/10772#pullrequestreview-3925754440) - 2026-03-10
 ## Q4 2025
 
 

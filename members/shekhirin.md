@@ -18,6 +18,11 @@ Team: Reth
 * [Pull Request] [ci(bench): ABBA run order](https://github.com/paradigmxyz/reth/pull/22335) - 2026-02-18
 * [Pull Request] [[autoopt] Amortize MDBX transaction timeout checking to reduce Cell::get overhead](https://github.com/paradigmxyz/reth/pull/22464) - 2026-02-21
 * [Pull Request] [feat(reth-bench): `--reorg` flag](https://github.com/paradigmxyz/reth/pull/22818) - 2026-03-05
+* [Review] [Review on: feat: enable PGO in release and docker workflows](https://github.com/paradigmxyz/reth/pull/21441#pullrequestreview-3926062921) - 2026-03-10
+* [Review] [Review on: fix(ci): remove issue_comment: edited from bench trigger](https://github.com/paradigmxyz/reth/pull/22925#pullrequestreview-3923553339) - 2026-03-10
+* [Review] [Review on: ci(bench): add metrics proxy with subnet binding and tracy upload](https://github.com/paradigmxyz/reth/pull/22752#pullrequestreview-3924097803) - 2026-03-10
+* [Review] [Review on: chore: rm thunderdome refs](https://github.com/paradigmxyz/reth/pull/22927#pullrequestreview-3924639209) - 2026-03-10
+* [Review] [Review on: fix(bench): retry HTTP 502 errors in block provider](https://github.com/paradigmxyz/reth/pull/22916#pullrequestreview-3921972122) - 2026-03-10
 ## Q4 2025
 
 

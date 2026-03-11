@@ -31,6 +31,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [add proposer preferences container](https://github.com/Consensys/teku/pull/10467) - 2026-03-10
 * [Commit] [ci cleanup (#10466)](https://github.com/Consensys/teku/commit/f5c963b99f9ea70192a1535d728db5a22c218065) - 2026-03-10
 * [Commit] [add proposer preferences container (#10467)](https://github.com/Consensys/teku/commit/5669598367dfe187f345e0530cabda7c7d4a8896) - 2026-03-10
+* [Review] [Review on: Update DB migration according to the current state (main direction of migration LevelDB -> RocksDB)](https://github.com/Consensys/teku/pull/10471#pullrequestreview-3923655061) - 2026-03-10
+* [Review] [Review on: add proposer preferences container](https://github.com/Consensys/teku/pull/10467#pullrequestreview-3920807264) - 2026-03-10
 ## Q4 2025
 
 

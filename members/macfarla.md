@@ -45,6 +45,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [enable local gradle caching  (#10008)](https://github.com/besu-eth/besu/commit/0b0839634788fbfce5a605716c4b9e94b3b98eab) - 2026-03-10
 * [Commit] [Add config option for max blobs per block (#9983)](https://github.com/besu-eth/besu/commit/0f0e7b1bdcc501bdffd013bc699fd35f6f1d3650) - 2026-03-10
 * [Commit] [disable forest TraceJsonRpcHttpBySpecTest (#10005)](https://github.com/besu-eth/besu/commit/a00992a4228154ee1eb18646d13222a09df649a1) - 2026-03-10
+* [Pull Request] [clean stop bws if world state unavailable](https://github.com/besu-eth/besu/pull/10021) - 2026-03-11
+* [Review] [Review on: fix: add missing return for failed future in TransactionPool SaveRest…](https://github.com/besu-eth/besu/pull/10020#pullrequestreview-3926294501) - 2026-03-11
+* [Review] [Review on: Remove Peer Task System feature toggle from DownloadBodiesStep](https://github.com/besu-eth/besu/pull/9952#pullrequestreview-3926276105) - 2026-03-11
+* [Review] [Review on: Limit pooled tx requests by size and remove pre-eth/68 transaction announcement support](https://github.com/besu-eth/besu/pull/9990#pullrequestreview-3926223412) - 2026-03-11
+* [Review] [Review on: Migrate all Guava caches to Caffeine](https://github.com/besu-eth/besu/pull/9909#pullrequestreview-3925682554) - 2026-03-10
+* [Review] [Review on: Check new files for the correct copyright header in th CI](https://github.com/besu-eth/besu/pull/10012#pullrequestreview-3925473577) - 2026-03-10
+* [Review] [Review on: Check new files for the correct copyright header in th CI](https://github.com/besu-eth/besu/pull/10012#pullrequestreview-3925478306) - 2026-03-10
+* [Review] [Review on: Fix addMod case in Modulus256](https://github.com/besu-eth/besu/pull/10001#pullrequestreview-3925251261) - 2026-03-10
+* [Review] [Review on: Implement `txpool_status` RPC method](https://github.com/besu-eth/besu/pull/10002#pullrequestreview-3925202768) - 2026-03-10
+* [Review] [Review on: Implement EIP-7975: eth/70 - partial block receipt lists](https://github.com/besu-eth/besu/pull/9910#pullrequestreview-3920485191) - 2026-03-10
+* [Review] [Review on: Use existing RLP methods in trie log prune batch files](https://github.com/besu-eth/besu/pull/10009#pullrequestreview-3920451581) - 2026-03-10
+* [Review] [Review on: disable forest TraceJsonRpcHttpBySpecTest](https://github.com/besu-eth/besu/pull/10005#pullrequestreview-3919342284) - 2026-03-10
+* [Review] [Review on: fix(metrics): prevent duplicate OTel callback registration (#9653)](https://github.com/besu-eth/besu/pull/9957#pullrequestreview-3919258015) - 2026-03-10
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

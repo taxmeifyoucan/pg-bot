@@ -31,6 +31,9 @@ Team: Reth
 * [Commit] [fix(ci): remove hashing stages from stage-run-test for storage v2 (#22929)](https://github.com/paradigmxyz/reth/commit/d6b1d0677212b13e3c8f00fe0c65766501f6217b) - 2026-03-10
 * [Commit] [fix(ci): remove issue_comment: edited from bench trigger (#22925)](https://github.com/paradigmxyz/reth/commit/406b95b55571f6ef48ee7c7bf1b9c34bb220ec1a) - 2026-03-10
 * [Commit] [feat(cli): make storage v2 default for new nodes (#22890)](https://github.com/paradigmxyz/reth/commit/5ea37acbdb0bf8971a0424afd4d62c140186af4f) - 2026-03-10
+* [Review] [Review on: feat(download): use snapshots.reth.rs API with --list](https://github.com/paradigmxyz/reth/pull/22859#pullrequestreview-3924651371) - 2026-03-10
+* [Review] [Review on: feat(download): use snapshots.reth.rs API with --list](https://github.com/paradigmxyz/reth/pull/22859#pullrequestreview-3925470256) - 2026-03-10
+* [Review] [Review on: feat: add verisions to the reth download metadata](https://github.com/paradigmxyz/reth/pull/22921#pullrequestreview-3923344138) - 2026-03-10
 ## Q4 2025
 
 

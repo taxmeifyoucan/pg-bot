@@ -21,6 +21,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [trie, cmd/geth: add archiver command](https://github.com/gballet/go-ethereum/pull/563) - 2026-01-25
 * [Pull Request] [first solution](https://github.com/gballet/go-ethereum/pull/565) - 2026-02-07
 * [Pull Request] [various bugfixes found while testing](https://github.com/gballet/go-ethereum/pull/570) - 2026-03-04
+* [Review] [Review on: trie/bintrie: fix grouped InternalNode serialization path mismatch](https://github.com/gballet/go-ethereum/pull/569#pullrequestreview-3921626308) - 2026-03-10
+* [Review] [Review on: trie/bintrie: fix grouped InternalNode serialization path mismatch](https://github.com/gballet/go-ethereum/pull/569#pullrequestreview-3923670025) - 2026-03-10
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/keeper, metrics: tamago build + zisk support](https://github.com/ethereum/go-ethereum/pull/33678) - 2026-01-24
 * [Pull Request] [cmd/keeper: export getInput in wasm builds](https://github.com/ethereum/go-ethereum/pull/33686) - 2026-01-26
@@ -31,6 +33,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [trie/bintrie: fix endianness in code chunk key computation](https://github.com/ethereum/go-ethereum/pull/33900) - 2026-02-27
 * [Pull Request] [core: fix TestProcessVerkle flaky test](https://github.com/ethereum/go-ethereum/pull/33971) - 2026-03-06
 
+* [Review] [Review on: cmd/geth: add Prague pruning points](https://github.com/ethereum/go-ethereum/pull/33657#pullrequestreview-3924933292) - 2026-03-10
+* [Review] [Review on: core/tracing: fix nonce revert edge case](https://github.com/ethereum/go-ethereum/pull/33978#pullrequestreview-3923530275) - 2026-03-10
+* [Review] [Review on: core, miner, tests: introduce codedb and simplify cachingDB](https://github.com/ethereum/go-ethereum/pull/33816#pullrequestreview-3920343071) - 2026-03-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7864: encode offset as big endian](https://github.com/ethereum/EIPs/pull/11389) - 2026-03-09
 ## Q4 2025

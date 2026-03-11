@@ -15,3 +15,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Issue] [Add `target_opcode` field in fixture for benchmark](https://github.com/ethereum/execution-specs/issues/2208) - 2026-02-13
 * [Issue] [Refactor benchmark generators to enforce transaction dependencies post-Amsterdam](https://github.com/ethereum/execution-specs/issues/2204) - 2026-02-13
 * [Issue] [Refactor the state benchmark to cover existing/non-existing and cached/uncached scenarios.](https://github.com/ethereum/execution-specs/issues/2320) - 2026-02-25
+* [Review] [Review on: feat(tests): add missing legacy modexp cases with oversized lengths](https://github.com/ethereum/execution-specs/pull/2447#pullrequestreview-3920247001) - 2026-03-10
+* [Review] [Review on: feat(tests): port goevmlab regression tests for EELS consensus bugs ](https://github.com/ethereum/execution-specs/pull/2457#pullrequestreview-3920067146) - 2026-03-10
+* [Review] [Review on: feat(tests): port goevmlab regression tests for EELS consensus bugs ](https://github.com/ethereum/execution-specs/pull/2457#pullrequestreview-3920156030) - 2026-03-10
+* [Review] [Review on: feat(tests): port goevmlab regression tests for EELS consensus bugs ](https://github.com/ethereum/execution-specs/pull/2457#pullrequestreview-3920175675) - 2026-03-10
+* [Review] [Review on: chore(tests): delete already-ported extCodeHash static file](https://github.com/ethereum/execution-specs/pull/2463#pullrequestreview-3922449373) - 2026-03-10
+* [Review] [Review on: refactor(spec): unify forgotten gas constants in spec](https://github.com/ethereum/execution-specs/pull/2383#pullrequestreview-3920429913) - 2026-03-10
+* [Review] [Review on: feat(tests): port EXTCODEHASH subcall CREATE2 OOG test](https://github.com/ethereum/execution-specs/pull/2458#pullrequestreview-3919513010) - 2026-03-10

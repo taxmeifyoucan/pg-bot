@@ -55,6 +55,8 @@ Team: Erigon
 * [Commit] [execution/state: fix WriteAccountStorage skip using stale blockOriginStorage (#19748)](https://github.com/erigontech/erigon/commit/4f7caee2a467a902a778cce3579d0bbae7a3693a) - 2026-03-10
 * [Commit] [execution/stagedsync: enable deferred commitment updates for parallel fork validation (#19749)](https://github.com/erigontech/erigon/commit/2ad804246f4787896888cd5c1c5b5c3dfcfed911) - 2026-03-10
 * [Commit] [Remove unused 'isBlockProduction' from ExecV3 (#19760)](https://github.com/erigontech/erigon/commit/495b946f5484d7f7489bfbf05bb7b01e2feac35a) - 2026-03-10
+* [Review] [Review on: vm: fix CREATE/CREATE2 collision with EIP-7702 delegated accounts](https://github.com/erigontech/erigon/pull/19777#pullrequestreview-3924380241) - 2026-03-10
+* [Review] [Review on: txpool: penalize peers sending malformed p2p messages](https://github.com/erigontech/erigon/pull/19781#pullrequestreview-3924372755) - 2026-03-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025
