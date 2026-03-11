@@ -24,12 +24,10 @@ jobs:
           bundler-cache: true
           
       - name: Install dependencies
-        run: |
-          gem install octokit
-          gem install fileutils
+        run: bundle install
         
       - name: Run contribution tracker
-        run: ruby contributions.rb
+        run: ruby contributions_graphql.rb
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
