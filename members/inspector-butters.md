@@ -10,8 +10,10 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-02-04
-* [Pull Request] []() - 2026-02-09
-* [Pull Request] []() - 2026-03-08
+* [Pull Request] [add path field for ephemeral log file initialization](https://github.com/OffchainLabs/prysm/pull/16289) - 2026-01-27
+* [Pull Request] [Fix gen-logs.sh - gitignore bug](https://github.com/OffchainLabs/prysm/pull/16328) - 2026-02-04
+* [Pull Request] [GetVersionV2 endpoint](https://github.com/OffchainLabs/prysm/pull/16347) - 2026-02-09
+* [Pull Request] [add log.go files to runtime](https://github.com/OffchainLabs/prysm/pull/16491) - 2026-03-08
 * [Issue] ["Could not get state" when calling debug/states endpoint](https://github.com/OffchainLabs/prysm/issues/16497) - 2026-03-08
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [Progressive Merkle Tree Core Algorithm (EIP-7916)](https://github.com/OffchainLabs/prysm/pull/16507) - 2026-03-10

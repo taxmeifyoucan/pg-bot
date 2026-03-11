@@ -12,28 +12,29 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
-* [Pull Request] []() - 2026-01-05
+* [Pull Request] [fix(test): Increase balance for blob test fails w/ larger blob params](https://github.com/ethereum/execution-specs/pull/1975) - 2026-01-05
 * [Issue] [Make EIP-7934 tests fork agnostic](https://github.com/ethereum/execution-specs/issues/1972) - 2026-01-05
-* [Pull Request] []() - 2026-01-07
-* [Pull Request] []() - 2026-01-09
+* [Pull Request] [chore(test-types): Add `extra="forbid"` to `CamelModel`; fix errors](https://github.com/ethereum/execution-specs/pull/1989) - 2026-01-07
+* [Pull Request] [fix(test-types): Loosen pydantic strictness on internal pydantic models](https://github.com/ethereum/execution-specs/pull/2000) - 2026-01-09
 * [Issue] [Consider refactoring `Frontier(BaseFork)`  into scoped mixins](https://github.com/ethereum/execution-specs/issues/2025) - 2026-01-15
 * [Issue] [Increase RAM on pypy3 CI self-hosted runner](https://github.com/ethereum/execution-specs/issues/2029) - 2026-01-15
 
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-28
-* [Pull Request] []() - 2026-01-29
-* [Pull Request] []() - 2026-01-31
-* [Pull Request] []() - 2026-02-01
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-04
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-09
+* [Pull Request] [feat(spec,test): EIP-7708 spec updates for self as target](https://github.com/ethereum/execution-specs/pull/2086) - 2026-01-27
+* [Pull Request] [feat(test): update EIP-8024 refspec and align on latest changes to EIP](https://github.com/ethereum/execution-specs/pull/2095) - 2026-01-28
+* [Pull Request] [feat(test-fill): speed up filling](https://github.com/ethereum/execution-specs/pull/2079) - 2026-01-29
+* [Pull Request] [fix(test,benchmark): cap data tests to rlp block limit](https://github.com/ethereum/execution-specs/pull/2110) - 2026-01-31
+* [Pull Request] [fix(test-consume): Add hive ruleset for `BPO2ToAmsterdamAtTime15k`](https://github.com/ethereum/execution-specs/pull/2111) - 2026-02-01
+* [Pull Request] [fix(test-fill): improve memory buildup for fill; merge on `SIGINT` / `SIGTERM`](https://github.com/ethereum/execution-specs/pull/2117) - 2026-02-02
+* [Pull Request] [feat(test-fill): performance improvements for release processes and fill](https://github.com/ethereum/execution-specs/pull/2140) - 2026-02-04
+* [Pull Request] [fix(test-ci): fix issues with recent changes to checklist](https://github.com/ethereum/execution-specs/pull/2151) - 2026-02-05
+* [Pull Request] [feat(test): performance and fill updates; print -> debug log session finish](https://github.com/ethereum/execution-specs/pull/2150) - 2026-02-09
 * [Issue] [Align on `Opcode`and `Bytecode` `__hash__` and `__eq__` logic](https://github.com/ethereum/execution-specs/issues/2190) - 2026-02-11
-* [Pull Request] []() - 2026-02-13
+* [Pull Request] [chore(test): Remove duplicate test](https://github.com/ethereum/execution-specs/pull/2210) - 2026-02-13
 * [Issue] [Support inequality validation for `post` in tests](https://github.com/ethereum/execution-specs/issues/2227) - 2026-02-18
+* [Review] [Review on: refactor(test-forks): Remove `block_number`/`timestamp` from all methods](https://github.com/ethereum/execution-specs/pull/2442#pullrequestreview-3926056928) - 2026-03-10
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2026-01-15
-* [Pull Request] []() - 2026-02-03
+* [Pull Request] [fix: update BPO defaults](https://github.com/ethereum/hive/pull/1380) - 2026-01-15
+* [Pull Request] [fix: remove Amsterdam defaults (named fork in blob params)](https://github.com/ethereum/hive/pull/1387) - 2026-02-03
 * [Pull Request] []() - 2026-02-12
 ## Q4 2025
 
@@ -71,17 +72,17 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [chore(types): Tighten validation on `Block` modifiers](https://github.com/ethereum/execution-specs/issues/1626) - 2025-10-16
 * [Issue] [Add `extra_forbid` to `CamelModel` and fix errors](https://github.com/ethereum/execution-specs/issues/1612) - 2025-10-16
 
-* [Pull Request] []() - 2025-11-03
-* [Pull Request] []() - 2025-12-03
-* [Pull Request] []() - 2025-12-10
-* [Pull Request] []() - 2025-12-11
-* [Pull Request] []() - 2025-12-16
-* [Pull Request] []() - 2025-12-17
+* [Pull Request] [fix(spec-specs): Fix early issues from bals release v1.4.0](https://github.com/ethereum/execution-specs/pull/1743) - 2025-11-03
+* [Pull Request] [refactor(spec-specs): Refactor state changes and frame hierarchy](https://github.com/ethereum/execution-specs/pull/1841) - 2025-12-03
+* [Pull Request] [feat(test-tests): Expand BAL CALL opcode OOG boundary test cases](https://github.com/ethereum/execution-specs/pull/1882) - 2025-12-10
+* [Pull Request] [refactor(spec-specs): Refactor specs to be more coherent wrt gas acco…](https://github.com/ethereum/execution-specs/pull/1897) - 2025-12-11
+* [Pull Request] [fix(test): align blob params with specs for Amsterdam](https://github.com/ethereum/execution-specs/pull/1926) - 2025-12-16
+* [Pull Request] [feat(spec-tests): update json infra test version](https://github.com/ethereum/execution-specs/pull/1939) - 2025-12-17
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2025-10-21
+* [Pull Request] [fix: Nethermind not connecting via `HIVE_BOOTNODE` for sync tests](https://github.com/ethereum/hive/pull/1360) - 2025-10-21
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-12-30
+* [Pull Request] [Update EIP-7907: Minor clarifications for readability](https://github.com/ethereum/EIPs/pull/10992) - 2025-12-30
 ## Q3 2025
 
 [ethereum/hive](https://github.com/ethereum/hive)

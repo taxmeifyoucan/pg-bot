@@ -11,13 +11,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
-* [Pull Request] []() - 2026-01-03
-* [Pull Request] []() - 2026-01-09
-* [Pull Request] []() - 2026-01-15
-* [Pull Request] []() - 2026-01-21
-* [Pull Request] []() - 2026-01-22
-* [Pull Request] []() - 2026-03-04
-* [Pull Request] []() - 2026-03-07
+* [Pull Request] [update copyright years for `beacon_chain/*`](https://github.com/status-im/nimbus-eth2/pull/7828) - 2026-01-03
+* [Pull Request] [bump: `nim-web3`](https://github.com/status-im/nimbus-eth2/pull/7839) - 2026-01-09
+* [Pull Request] [add: `engine_getBlobsV3` helpers for cell level dissemination](https://github.com/status-im/nimbus-eth2/pull/7847) - 2026-01-15
+* [Pull Request] [tie `getBlobs` calling with block gossip callback](https://github.com/status-im/nimbus-eth2/pull/7866) - 2026-01-21
+* [Pull Request] [modularise message routing for sidecars](https://github.com/status-im/nimbus-eth2/pull/7751) - 2026-01-22
+* [Pull Request] [add metric to monitor column validation latency](https://github.com/status-im/nimbus-eth2/pull/8056) - 2026-03-04
+* [Pull Request] [update column quarantine, and supernode behaviour](https://github.com/status-im/nimbus-eth2/pull/8061) - 2026-03-07
 ## Q4 2025
 
 
@@ -27,16 +27,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [drop vcus backfilling and adjust eas movement](https://github.com/status-im/nimbus-eth2/pull/7601) - 2025-10-11
 * [Commit] [remove unused import](https://github.com/status-im/nimbus-eth2/commit/ff1f6a42c8c5df31528436675966848d580668e6) - 2025-10-12
 * [Pull Request] [prevent vcus from happening in non validating nodes](https://github.com/status-im/nimbus-eth2/pull/7606) - 2025-10-13
-* [Pull Request] []() - 2025-10-14
-* [Pull Request] []() - 2025-10-15
-* [Pull Request] []() - 2025-11-04
-* [Pull Request] []() - 2025-11-10
-* [Pull Request] []() - 2025-11-11
-* [Pull Request] []() - 2025-11-28
-* [Pull Request] []() - 2025-12-08
-* [Pull Request] []() - 2025-12-09
-* [Pull Request] []() - 2025-12-18
-* [Pull Request] []() - 2025-12-19
+* [Pull Request] [reconstruction timeout + vcus detection on no column sidecars in quarantine](https://github.com/status-im/nimbus-eth2/pull/7610) - 2025-10-14
+* [Pull Request] [add blob limit, in data column sidecar gossip](https://github.com/status-im/nimbus-eth2/pull/7617) - 2025-10-15
+* [Pull Request] [improve `BlobsBundle` abstraction + add fulu preset endpoints](https://github.com/status-im/nimbus-eth2/pull/7709) - 2025-11-04
+* [Pull Request] [drop updating custody count on the last slot of given epoch](https://github.com/status-im/nimbus-eth2/pull/7724) - 2025-11-10
+* [Pull Request] [improve column batch addition from getBlobs](https://github.com/status-im/nimbus-eth2/pull/7725) - 2025-11-11
+* [Pull Request] [fix lsupernode logic](https://github.com/status-im/nimbus-eth2/pull/7763) - 2025-11-28
+* [Pull Request] [fixes for parallel reconstruction](https://github.com/status-im/nimbus-eth2/pull/7758) - 2025-12-08
+* [Pull Request] [fix blob schedule parsing at genesis](https://github.com/status-im/nimbus-eth2/pull/7788) - 2025-12-09
+* [Pull Request] [put appropriate rman log message](https://github.com/status-im/nimbus-eth2/pull/7812) - 2025-12-18
+* [Pull Request] [put appropriate rman log message](https://github.com/status-im/nimbus-eth2/pull/7812) - 2025-12-19
 ## Q3 2025
 
 

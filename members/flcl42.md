@@ -12,7 +12,16 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
-* [Pull Request] []() - 2026-02-16
+* [Pull Request] [✨ feat(EIP-7708): Burn logs](https://github.com/NethermindEth/nethermind/pull/10544) - 2026-02-16
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [Reset GasUsed when simulating txs](https://github.com/NethermindEth/nethermind/pull/10766) - 2026-03-10
+* [Commit] [Reset GasUsed when simulating txs (#10766)](https://github.com/NethermindEth/nethermind/commit/24747b5a1c4c2946930feb697c3031fe49007727) - 2026-03-10
+* [Review] [Review on: Fix event handler leaks, reduce allocations, and refactor Network layer](https://github.com/NethermindEth/nethermind/pull/10753#pullrequestreview-3923780248) - 2026-03-10
+* [Review] [Review on: fix: Add new RLP decoders for zkEVM](https://github.com/NethermindEth/nethermind/pull/10773#pullrequestreview-3924559639) - 2026-03-10
+* [Review] [Review on: Fix rare `IndexOutOfRangeException` in `eth_getLogs` when block data is missing](https://github.com/NethermindEth/nethermind/pull/10771#pullrequestreview-3924160422) - 2026-03-10
+* [Review] [Review on: Enforce GasCap across debug and trace RPC methods](https://github.com/NethermindEth/nethermind/pull/10457#pullrequestreview-3923273548) - 2026-03-10
+* [Review] [Review on: feat(jsonrpc): add eth_subscribe transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/10524#pullrequestreview-3921530800) - 2026-03-10
 ## Q4 2025
 
 
@@ -38,14 +47,14 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [XDC : QuorumCertificate Manager (#9294)](https://github.com/NethermindEth/nethermind/commit/a86580138981169298b8ab15338569dcfea96543) - 2025-10-08
 * [Commit] [Remove quick fail when running Hive tests (#9426)](https://github.com/NethermindEth/nethermind/commit/8cea3fc2f2deb3696d9c4dbe7e14c6ebe912f424) - 2025-10-08
 
-* [Pull Request] []() - 2025-11-05
-* [Pull Request] []() - 2025-12-23
-* [Pull Request] []() - 2025-12-25
+* [Pull Request] [State related suggestions](https://github.com/NethermindEth/nethermind/pull/9651) - 2025-11-05
+* [Pull Request] [Validate blobs lengths](https://github.com/NethermindEth/nethermind/pull/9999) - 2025-12-23
+* [Pull Request] [Update schema](https://github.com/NethermindEth/nethermind/pull/10035) - 2025-12-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-* [Pull Request] []() - 2025-10-27
+* [Pull Request] [cmd/devp2p/internal/ethtest: cover acceptable differences in communication](https://github.com/ethereum/go-ethereum/pull/33031) - 2025-10-27
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-* [Pull Request] []() - 2025-11-20
+* [Pull Request] [Change transaction type for gas estimation test](https://github.com/ethereum/execution-apis/pull/709) - 2025-11-20
 ## Q3 2025
 
 

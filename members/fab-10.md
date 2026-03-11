@@ -12,19 +12,22 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
-* [Pull Request] []() - 2026-01-12
-* [Pull Request] []() - 2026-01-20
+* [Pull Request] [Pass block creation candidate transaction list to plugins](https://github.com/besu-eth/besu/pull/9627) - 2026-01-12
+* [Pull Request] [Enhance payload selection with tx count and creation time tiebreakers](https://github.com/besu-eth/besu/pull/9657) - 2026-01-20
 * [Issue] [EIP-7975: eth/70 - partial block receipt lists](https://github.com/hyperledger/besu/issues/9665) - 2026-01-21
-* [Pull Request] []() - 2026-01-23
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-13
+* [Pull Request] [Periodical log internal stats of PeerTransactionTraker is TRACE log is enabled](https://github.com/besu-eth/besu/pull/9680) - 2026-01-23
+* [Pull Request] [Backport: Execute pre-processors before tracing transactions](https://github.com/besu-eth/besu/pull/9697) - 2026-01-27
+* [Pull Request] [Remove unused `GetReceiptsFromPeerTask` code](https://github.com/besu-eth/besu/pull/9780) - 2026-02-10
+* [Pull Request] [Cleanup, refactor and add trace logs to DownloadSyncReceiptsStep](https://github.com/besu-eth/besu/pull/9802) - 2026-02-13
 * [Issue] [Prevent running Clique networks not migrated to PoS](https://github.com/hyperledger/besu/issues/9884) - 2026-02-24
 * [Issue] [Removal of Clique consensus support](https://github.com/hyperledger/besu/issues/9883) - 2026-02-24
-* [Pull Request] []() - 2026-02-26
+* [Pull Request] [Implement EIP-7975: eth/70 - partial block receipt lists](https://github.com/besu-eth/besu/pull/9910) - 2026-02-26
 * [Issue] [Review blockchain sync request sizing](https://github.com/hyperledger/besu/issues/9908) - 2026-02-26
-* [Pull Request] []() - 2026-03-06
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [Remove Clique RPC APIs and management infrastructure (Phase 2)](https://github.com/besu-eth/besu/pull/9992) - 2026-03-06
+* [Pull Request] [Implement `txpool_status` RPC method](https://github.com/besu-eth/besu/pull/10002) - 2026-03-09
+* [Review] [Review on: Implement `txpool_status` RPC method](https://github.com/besu-eth/besu/pull/10002#pullrequestreview-3923770897) - 2026-03-10
+* [Review] [Review on: Implement `txpool_status` RPC method](https://github.com/besu-eth/besu/pull/10002#pullrequestreview-3923775813) - 2026-03-10
+* [Review] [Review on: Implement `txpool_status` RPC method](https://github.com/besu-eth/besu/pull/10002#pullrequestreview-3923817785) - 2026-03-10
 ## Q4 2025
 
 
@@ -33,15 +36,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Refactor: uniform the way genesis config options are passed to protocol specs (#9279)](https://github.com/hyperledger/besu/commit/226b133cf957015180b809a7da2cfc0e29574345) - 2025-10-08
 * [Pull Request] [WIP](https://github.com/hyperledger/besu/pull/9285) - 2025-10-09
 * [Commit] [Add `isCancelled` method to `TransactionEvaluationContext` (#9285)](https://github.com/hyperledger/besu/commit/84668d4c71b5f9c6bff7f052f6071dcbce94d353) - 2025-10-10
-* [Pull Request] []() - 2025-10-22
-* [Pull Request] []() - 2025-10-24
-* [Pull Request] []() - 2025-11-06
-* [Pull Request] []() - 2025-11-12
-* [Pull Request] []() - 2025-11-13
-* [Pull Request] []() - 2025-12-01
-* [Pull Request] []() - 2025-12-05
-* [Pull Request] []() - 2025-12-11
-* [Pull Request] []() - 2025-12-19
+* [Pull Request] [Tune start script for OpenJDK 25 and use it in Docker image](https://github.com/besu-eth/besu/pull/9346) - 2025-10-22
+* [Pull Request] [CI: optimize pre-review workflow](https://github.com/besu-eth/besu/pull/9363) - 2025-10-24
+* [Pull Request] [Transaction broadcast remove support for pre eth/65 peers](https://github.com/besu-eth/besu/pull/9405) - 2025-11-06
+* [Pull Request] [Make the max size of a transactions p2p message configurable](https://github.com/besu-eth/besu/pull/9424) - 2025-11-12
+* [Pull Request] [Add extensive trace logging for transaction p2p broadcast](https://github.com/besu-eth/besu/pull/9433) - 2025-11-13
+* [Pull Request] [Fix: MiningConfiguration object must not be re-created](https://github.com/besu-eth/besu/pull/9518) - 2025-12-01
+* [Pull Request] [Improve output of plugin versions](https://github.com/besu-eth/besu/pull/9534) - 2025-12-05
+* [Pull Request] [Allow to reload configuration for all plugins with a single call](https://github.com/besu-eth/besu/pull/9563) - 2025-12-11
+* [Pull Request] [Move test plugins in a detached project so they can use the Gradle Besu plugin](https://github.com/besu-eth/besu/pull/9590) - 2025-12-19
 ## Q3 2025
 
 

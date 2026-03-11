@@ -13,40 +13,48 @@ Team: Reth
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [Support additional eth_subscribe handlers](https://github.com/paradigmxyz/reth/issues/20750) - 2026-01-05
-* [Pull Request] []() - 2026-01-06
-* [Pull Request] []() - 2026-01-08
-* [Pull Request] []() - 2026-01-09
-* [Pull Request] []() - 2026-01-10
-* [Pull Request] []() - 2026-01-15
+* [Pull Request] [perf(trie): add clone_into_sorted for TrieUpdates and StorageTrieUpdates](https://github.com/paradigmxyz/reth/pull/20784) - 2026-01-06
+* [Pull Request] [perf(trie): optimize ChunkedHashedPostState sorting](https://github.com/paradigmxyz/reth/pull/20866) - 2026-01-08
+* [Pull Request] [feat(cli): add CliRunnerConfig for configurable graceful shutdown timeout](https://github.com/paradigmxyz/reth/pull/20899) - 2026-01-09
+* [Pull Request] [perf(trie): save one clock read in elapsed time calculation](https://github.com/paradigmxyz/reth/pull/20916) - 2026-01-10
+* [Pull Request] [refactor(chain-state): extract blocks_to_chain helper](https://github.com/paradigmxyz/reth/pull/21110) - 2026-01-15
 
-* [Pull Request] []() - 2026-01-22
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-29
-* [Pull Request] []() - 2026-01-31
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-07
-* [Pull Request] []() - 2026-02-09
+* [Pull Request] [feat(engine): stub Amsterdam engine API endpoints (newPayloadV5, getPayloadV6, BALs)](https://github.com/paradigmxyz/reth/pull/21344) - 2026-01-22
+* [Pull Request] [refactor(db): make Tx::inner field private with accessor](https://github.com/paradigmxyz/reth/pull/21490) - 2026-01-27
+* [Pull Request] [feat(trie): add heat tracking to ParallelSparseTrie pruning](https://github.com/paradigmxyz/reth/pull/21588) - 2026-01-29
+* [Pull Request] [refactor(engine): improve payload processor tx iterator](https://github.com/paradigmxyz/reth/pull/21658) - 2026-01-31
+* [Pull Request] [feat(trie): move leaf short keys into values HashMap](https://github.com/paradigmxyz/reth/pull/21857) - 2026-02-05
+* [Pull Request] [perf(prewarm): disable balance check for prewarming transactions](https://github.com/paradigmxyz/reth/pull/21941) - 2026-02-07
+* [Pull Request] [feat(rpc): add `subscribeFinalizedChainNotifications` endpoint](https://github.com/paradigmxyz/reth/pull/22011) - 2026-02-09
 * [Issue] [Implement variants for BAL devp2p variants](https://github.com/paradigmxyz/reth/issues/22015) - 2026-02-10
-* [Pull Request] []() - 2026-02-14
-* [Pull Request] []() - 2026-02-17
-* [Pull Request] []() - 2026-02-18
+* [Pull Request] [fix: remove unused `RangeBounds` import in storage-api](https://github.com/paradigmxyz/reth/pull/22176) - 2026-02-14
+* [Pull Request] [fix(rpc): simplify error wrapping in AtBlockHash filter path](https://github.com/paradigmxyz/reth/pull/22286) - 2026-02-17
+* [Pull Request] [refactor: replace TryFrom*Response traits with unified RpcResponseConverter](https://github.com/paradigmxyz/reth/pull/22320) - 2026-02-18
 * [Issue] [Improve txcount binary search](https://github.com/paradigmxyz/reth/issues/22561) - 2026-02-25
 * [Issue] [feat(net): add BlockAccessListsClient trait and p2p BAL downloading (eth/71)](https://github.com/paradigmxyz/reth/issues/22593) - 2026-02-26
 * [Issue] [feat(net): add ReceiptsClient trait and p2p receipt downloading](https://github.com/paradigmxyz/reth/issues/22591) - 2026-02-26
-* [Pull Request] []() - 2026-03-08
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [docs: fix typos and grammar errors across crates](https://github.com/paradigmxyz/reth/pull/22877) - 2026-03-08
+* [Pull Request] [fix(op): implement is_system_tx for OpTxEnvelope](https://github.com/paradigmxyz/reth/pull/22882) - 2026-03-09
 * [Issue] [feat(payload): maintain block hash cache across payload builds](https://github.com/paradigmxyz/reth/issues/22913) - 2026-03-10
+* [Review] [Review on: perf(provider): drop clones before to_plain_state_reverts](https://github.com/paradigmxyz/reth/pull/22918#pullrequestreview-3923625473) - 2026-03-10
+* [Review] [Review on: perf(engine): offload DeferredDrops deallocation to a persistent background thread](https://github.com/paradigmxyz/reth/pull/22908#pullrequestreview-3921435317) - 2026-03-10
+* [Review] [Review on: feat(rpc): add operator RPC server (`--operator`)](https://github.com/paradigmxyz/reth/pull/22887#pullrequestreview-3921512492) - 2026-03-10
+* [Review] [Review on: fix(rpc): disable EIP-7825 tx gas limit cap in eth_createAccessList and eth_estimateGas](https://github.com/paradigmxyz/reth/pull/22893#pullrequestreview-3920576554) - 2026-03-10
+* [Review] [Review on: fix(rpc): disable EIP-7825 tx gas limit cap in eth_createAccessList and eth_estimateGas](https://github.com/paradigmxyz/reth/pull/22893#pullrequestreview-3920579871) - 2026-03-10
+* [Review] [Review on: fix(rpc): disable EIP-7825 tx gas limit cap in eth_createAccessList and eth_estimateGas](https://github.com/paradigmxyz/reth/pull/22893#pullrequestreview-3920580871) - 2026-03-10
+* [Review] [Review on: refactor(txpool): change `EthTransactionValidator::validate_stateless` return type, accept tx by ref](https://github.com/paradigmxyz/reth/pull/22910#pullrequestreview-3921091547) - 2026-03-10
+* [Review] [Review on: perf(provider): remove unnecessary clones in changeset readers](https://github.com/paradigmxyz/reth/pull/22906#pullrequestreview-3921106432) - 2026-03-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
-* [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
+* [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21
 
-* [Pull Request] []() - 2026-02-01
-* [Pull Request] []() - 2026-03-03
+* [Pull Request] [feat(database): add clear() to CacheState and TransitionState](https://github.com/bluealloy/revm/pull/3390) - 2026-02-01
+* [Pull Request] [feat: add `extend` method to `BlockHashCache`](https://github.com/bluealloy/revm/pull/3471) - 2026-03-03
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2026-01-24
+* [Pull Request] [fix(engine): use correct error codes for invalid payload attributes](https://github.com/ethereum/hive/pull/1383) - 2026-01-24
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-* [Pull Request] []() - 2026-01-25
+* [Pull Request] [test(debug_getRawReceipts): use post-Byzantium block for get-block-n test](https://github.com/ethereum/execution-apis/pull/742) - 2026-01-25
 ## Q4 2025
 
 
@@ -84,7 +92,7 @@ Team: Reth
 * [Issue] [support batch rpc calls in historical forwarding](https://github.com/paradigmxyz/reth/issues/19677) - 2025-11-12
 * [Issue] [Replace std rwlock with parkinglot](https://github.com/paradigmxyz/reth/issues/19770) - 2025-11-14
 * [Pull Request] []() - 2025-11-15
-* [Pull Request] []() - 2025-11-17
+* [Pull Request] [fix: remove bad reset and cancel on drop](https://github.com/paradigmxyz/reth/pull/19821) - 2025-11-17
 * [Issue] [Replace opreceipt with alloy's](https://github.com/paradigmxyz/reth/issues/19838) - 2025-11-18
 * [Issue] [replace op-reth OpReceipt with op-alloy's](https://github.com/paradigmxyz/reth/issues/19837) - 2025-11-18
 * [Issue] [Replace OpReceipt with alloy's](https://github.com/paradigmxyz/reth/issues/19839) - 2025-11-18
@@ -94,26 +102,26 @@ Team: Reth
 * [Issue] [Add TransactionPoolExt::filter_pooled_txs(Fn(&) -> bool)](https://github.com/paradigmxyz/reth/issues/19919) - 2025-11-23
 * [Issue] [Introduce PayloadValidator::payload_to_block](https://github.com/paradigmxyz/reth/issues/19949) - 2025-11-24
 * [Issue] [Move CliHeader to primitives traits and rename to HeaderMut](https://github.com/paradigmxyz/reth/issues/20000) - 2025-11-26
-* [Pull Request] []() - 2025-11-27
-* [Pull Request] []() - 2025-11-28
+* [Pull Request] [fix(net): back off slightly after graceful connection termination](https://github.com/paradigmxyz/reth/pull/20020) - 2025-11-27
+* [Pull Request] [chore: add elapsed info to logs](https://github.com/paradigmxyz/reth/pull/20035) - 2025-11-28
 * [Issue] [handle more dedicated ethsimulate rpc errors ](https://github.com/paradigmxyz/reth/issues/20054) - 2025-12-01
 * [Issue] [Improve error message for TransactionConversionError](https://github.com/paradigmxyz/reth/issues/20052) - 2025-12-01
 * [Issue] [Always encode txtype for receipts over p2p](https://github.com/paradigmxyz/reth/issues/20072) - 2025-12-02
 * [Issue] [Add support for testing_ rpc namespace and testing_buildBlockV1](https://github.com/paradigmxyz/reth/issues/20069) - 2025-12-02
-* [Pull Request] []() - 2025-12-03
+* [Pull Request] [chore: allow empty blobparams in ethconfig](https://github.com/paradigmxyz/reth/pull/20105) - 2025-12-03
 * [Issue] [avoid double account cache lookup](https://github.com/paradigmxyz/reth/issues/20145) - 2025-12-05
-* [Pull Request] []() - 2025-12-06
-* [Pull Request] []() - 2025-12-07
+* [Pull Request] [chore: featuer gate rocksdb](https://github.com/paradigmxyz/reth/pull/20170) - 2025-12-06
+* [Pull Request] [perf: avoid duplicate storage get call](https://github.com/paradigmxyz/reth/pull/20180) - 2025-12-07
 * [Issue] [Return error if toBlock exceeds the current height](https://github.com/paradigmxyz/reth/issues/20197) - 2025-12-08
 * [Issue] [Add support for debug_getBlockAccessList](https://github.com/paradigmxyz/reth/issues/20269) - 2025-12-10
 * [Issue] [Add BAL metrics types](https://github.com/paradigmxyz/reth/issues/20268) - 2025-12-10
-* [Pull Request] []() - 2025-12-12
+* [Pull Request] [fix: only collect already tracked accounts](https://github.com/paradigmxyz/reth/pull/20341) - 2025-12-12
 * [Issue] [Add hardfork activation event printout](https://github.com/paradigmxyz/reth/issues/20350) - 2025-12-13
 * [Issue] [Make write_block_bodies operate on &Body](https://github.com/paradigmxyz/reth/issues/20503) - 2025-12-18
-* [Pull Request] []() - 2025-12-23
-* [Pull Request] []() - 2025-12-24
-* [Pull Request] []() - 2025-12-28
-* [Pull Request] []() - 2025-12-30
+* [Pull Request] [chore: add metric for batch size](https://github.com/paradigmxyz/reth/pull/20610) - 2025-12-23
+* [Pull Request] [chore: ignore RUSTSEC-2025-0137](https://github.com/paradigmxyz/reth/pull/20633) - 2025-12-24
+* [Pull Request] [perf(trie): add FromIterator for HashedPostState and simplify from_bundle_state](https://github.com/paradigmxyz/reth/pull/20653) - 2025-12-28
+* [Pull Request] [perf: pre-alloc removed vec](https://github.com/paradigmxyz/reth/pull/20679) - 2025-12-30
 * [Issue] [Optimize  send_raw_transaction_sync receipts fetching](https://github.com/paradigmxyz/reth/issues/20681) - 2025-12-30
 * [Issue] [Optimize evm_env if header is available](https://github.com/paradigmxyz/reth/issues/20690) - 2025-12-31
 ## Q3 2025

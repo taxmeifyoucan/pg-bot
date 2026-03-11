@@ -12,29 +12,42 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
-* [Pull Request] []() - 2026-01-14
+* [Pull Request] [Remove merge code](https://github.com/sigp/lighthouse/pull/8658) - 2026-01-14
 * [Issue] [Sync committee messages have to wait for full block import](https://github.com/sigp/lighthouse/issues/8667) - 2026-01-15
 * [Issue] [Gloas fork choice implementation](https://github.com/sigp/lighthouse/issues/8675) - 2026-01-19
 * [Issue] [Release v8.1.0](https://github.com/sigp/lighthouse/issues/8681) - 2026-01-20
 * [Issue] [Gloas devnet planning](https://github.com/sigp/lighthouse/issues/8680) - 2026-01-20
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-04
+* [Pull Request] [Fast path for `/eth/v1/beacon/blocks/head/root`](https://github.com/sigp/lighthouse/pull/8729) - 2026-02-02
+* [Pull Request] [Run all ssz_static tests for Gloas](https://github.com/sigp/lighthouse/pull/8755) - 2026-02-04
 * [Issue] [Allow LH to build without OpenSSL](https://github.com/sigp/lighthouse/issues/8756) - 2026-02-04
-* [Pull Request] []() - 2026-02-09
-* [Pull Request] []() - 2026-02-10
+* [Pull Request] [Merge v8.1.0 (stable) into unstable](https://github.com/sigp/lighthouse/pull/8778) - 2026-02-09
+* [Pull Request] [Gloas envelope consensus and more operations tests](https://github.com/sigp/lighthouse/pull/8781) - 2026-02-10
 * [Issue] [Blob delay is always "unknown" in head block logs](https://github.com/sigp/lighthouse/issues/8775) - 2026-02-09
 
 * [Issue] [Regression in `DataColumnsByRange` responses (duplicates included)](https://github.com/sigp/lighthouse/issues/8842) - 2026-02-18
 * [Issue] [Test new allocators (mimalloc, tcmalloc)](https://github.com/sigp/lighthouse/issues/8840) - 2026-02-18
 * [Issue] [Gloas state storage design](https://github.com/sigp/lighthouse/issues/8893) - 2026-02-24
-* [Pull Request] []() - 2026-03-01
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [Back merge v8.1.1](https://github.com/sigp/lighthouse/pull/8917) - 2026-03-01
+* [Pull Request] [Remove `/lighthouse/analysis/block_rewards` APIs](https://github.com/sigp/lighthouse/pull/8935) - 2026-03-09
 * [Issue] [Gloas: re-enable late block reorgs](https://github.com/sigp/lighthouse/issues/8959) - 2026-03-10
 * [Issue] [Gloas: cold DB](https://github.com/sigp/lighthouse/issues/8958) - 2026-03-10
 * [Issue] [Gloas: `get_expected_withdrawals`/fcU interaction with Full/Empty blocks](https://github.com/sigp/lighthouse/issues/8957) - 2026-03-10
 * [Issue] [Gloas: track head envelope in `canonical_head`](https://github.com/sigp/lighthouse/issues/8956) - 2026-03-10
+* [Pull Request] [Implement proposer duties v2 endpoint](https://github.com/sigp/lighthouse/pull/8918) - 2026-03-10
+* [Pull Request] [Back merge 8.1.2](https://github.com/sigp/lighthouse/pull/8963) - 2026-03-10
+* [Pull Request] [Start on Gloas reference in book](https://github.com/sigp/lighthouse/pull/8964) - 2026-03-10
 * [Issue] [Gloas: state reconstruction](https://github.com/sigp/lighthouse/issues/8962) - 2026-03-10
 * [Issue] [Gloas: payload envelope in `PreProcessingSnapshot`](https://github.com/sigp/lighthouse/issues/8961) - 2026-03-10
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926118977) - 2026-03-10
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926145358) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926159292) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926169021) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926219210) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926220437) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926236215) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926256260) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926260432) - 2026-03-11
+* [Review] [Review on: Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952#pullrequestreview-3926269299) - 2026-03-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16
@@ -51,19 +64,19 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Persist only custody columns in db (#8188)](https://github.com/sigp/lighthouse/commit/2c328e32a6cd139c0c6ee44b99a5e0ab8e7ebe59) - 2025-10-13
 * [Issue] [CLI flag for "semi-supernode"](https://github.com/sigp/lighthouse/issues/8218) - 2025-10-16
 * [Issue] [Remember non-canonical block roots](https://github.com/sigp/lighthouse/issues/8216) - 2025-10-16
-* [Pull Request] []() - 2025-10-20
+* [Pull Request] [Allow get_beacon_proposer_index at next epoch](https://github.com/sigp/lighthouse/pull/8235) - 2025-10-20
 * [Issue] [Custody info API](https://github.com/sigp/lighthouse/issues/8249) - 2025-10-21
 * [Issue] [Reduce spurious recompilation due to `lighthouse_version`](https://github.com/sigp/lighthouse/issues/8311) - 2025-10-28
 * [Issue] [Cargo update before v8.1.0](https://github.com/sigp/lighthouse/issues/8346) - 2025-11-03
-* [Pull Request] []() - 2025-11-03
-* [Pull Request] []() - 2025-11-06
+* [Pull Request] [Optimise `state_root_at_slot` for finalized slot](https://github.com/sigp/lighthouse/pull/8353) - 2025-11-03
+* [Pull Request] [Optimise fork choice attestation dequeueing](https://github.com/sigp/lighthouse/pull/8378) - 2025-11-06
 * [Issue] [Run `cargo deny` or similar on CI](https://github.com/sigp/lighthouse/issues/8408) - 2025-11-13
-* [Pull Request] []() - 2025-11-17
+* [Pull Request] [Fix tracing span for execution payload verif](https://github.com/sigp/lighthouse/pull/8419) - 2025-11-17
 * [Issue] [Investigate not pruning the split block's payload](https://github.com/sigp/lighthouse/issues/8431) - 2025-11-19
-* [Pull Request] []() - 2025-11-24
+* [Pull Request] [Consolidate reqwest versions](https://github.com/sigp/lighthouse/pull/8452) - 2025-11-24
 
 * [Issue] [Reduce number of `spawn`s in VC attestation service](https://github.com/sigp/lighthouse/issues/8520) - 2025-12-03
-* [Pull Request] []() - 2025-12-02
+* [Pull Request] [Move deposit contract artifacts to /target](https://github.com/sigp/lighthouse/pull/8518) - 2025-12-02
 * [Issue] [Gloas TODO tracking issue](https://github.com/sigp/lighthouse/issues/8590) - 2025-12-16
 * [Issue] [Remove `GloasNotImplemented` error once Gloas is implemented](https://github.com/sigp/lighthouse/issues/8589) - 2025-12-16
 * [Issue] [Update beacon block streamer tests for Gloas](https://github.com/sigp/lighthouse/issues/8588) - 2025-12-16

@@ -12,9 +12,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
-* [Pull Request] []() - 2026-01-07
-* [Pull Request] []() - 2026-01-12
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [refactor: decouple peer discovery agent](https://github.com/besu-eth/besu/pull/9607) - 2026-01-07
+* [Pull Request] [feat: skip peers without listening port](https://github.com/besu-eth/besu/pull/9628) - 2026-01-12
+* [Pull Request] [feat: remove compression from engine responses](https://github.com/besu-eth/besu/pull/9667) - 2026-01-21
 * [Issue] [Make Discovery CLI Options Explicitly DiscV4-Specific](https://github.com/hyperledger/besu/issues/9694) - 2026-01-27
 * [Issue] [Fine-Tune Discovery v5 Parameters and Make Them Configurable](https://github.com/hyperledger/besu/issues/9693) - 2026-01-27
 * [Issue] [Add Metrics for Discovery v5](https://github.com/hyperledger/besu/issues/9692) - 2026-01-27
@@ -37,16 +37,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [Add Osaka Engine acceptance test (#9268)](https://github.com/hyperledger/besu/commit/5051cc1eeff9d41d82bd2d5bf1be09efcee09803) - 2025-10-03
 * [Commit] [chore: bpo cleanup (#9286)](https://github.com/hyperledger/besu/commit/14b103e0475086f4ae639c31c2c027c2ae0ff180) - 2025-10-10
 * [Issue] [Release 25.11.0](https://github.com/hyperledger/besu/issues/9366) - 2025-10-27
-* [Pull Request] []() - 2025-11-03
-* [Pull Request] []() - 2025-11-04
-* [Pull Request] []() - 2025-11-25
+* [Pull Request] [fix(getBlobs): return null if node is syncing](https://github.com/besu-eth/besu/pull/9394) - 2025-11-03
+* [Pull Request] [[do not merge] release-25.11.0-hotfix - CI](https://github.com/besu-eth/besu/pull/9398) - 2025-11-04
+* [Pull Request] [refactor: move NetworkName to better package and rename it](https://github.com/besu-eth/besu/pull/9490) - 2025-11-25
 
-* [Pull Request] []() - 2025-12-17
+* [Pull Request] [refactor: Remove peerTable outside of discv4 package](https://github.com/besu-eth/besu/pull/9579) - 2025-12-17
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2025-11-27
+* [Pull Request] [clients/besu: set `rpc-gas-cap` to 50M](https://github.com/ethereum/hive/pull/1373) - 2025-11-27
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-* [Pull Request] []() - 2025-12-12
+* [Pull Request] [tests: rename MovePrecompileToAddress to movePrecompileToAddress](https://github.com/ethereum/execution-apis/pull/718) - 2025-12-12
 ## Q3 2025
 
 

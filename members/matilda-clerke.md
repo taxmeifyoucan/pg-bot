@@ -12,17 +12,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
-* [Pull Request] []() - 2026-02-15
-* [Pull Request] []() - 2026-03-03
+* [Pull Request] [Discv5 static bootnodes](https://github.com/besu-eth/besu/pull/9809) - 2026-02-15
+* [Pull Request] [Change default batch size for snap sync download pipeline](https://github.com/besu-eth/besu/pull/9943) - 2026-03-03
+* [Review] [Review on: EIP-8159: eth/71 - Block Access List Exchange](https://github.com/besu-eth/besu/pull/9966#pullrequestreview-3926250034) - 2026-03-11
+* [Review] [Review on: Update --bootnodes description and throw exception is mixed enode and ENR bootnodes are present](https://github.com/besu-eth/besu/pull/9955#pullrequestreview-3926008516) - 2026-03-10
 ## Q4 2025
 
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
-* [Pull Request] []() - 2025-11-03
-* [Pull Request] []() - 2025-11-10
-* [Pull Request] []() - 2025-11-12
-* [Pull Request] []() - 2025-12-15
-* [Pull Request] []() - 2025-12-18
+* [Pull Request] [Remove RetryingGetHeaderFromPeerByHashTask and associated peer task system feature toggle](https://github.com/besu-eth/besu/pull/9393) - 2025-11-03
+* [Pull Request] [Fix flaky test PivotBlockRetrieverTest.shouldRecoverFromUnresponsivePeer](https://github.com/besu-eth/besu/pull/9408) - 2025-11-10
+* [Pull Request] [PoS sync hackathon - draft PR to view summary of changes](https://github.com/besu-eth/besu/pull/9416) - 2025-11-12
+* [Pull Request] [Add SyncTransactionReceipt, decoder, and update LogsBloomFilter to utilise raw Bytes](https://github.com/besu-eth/besu/pull/9574) - 2025-12-15
+* [Pull Request] [Improve performance of peerselector peers](https://github.com/besu-eth/besu/pull/9586) - 2025-12-18
 ## Q3 2025
 
 

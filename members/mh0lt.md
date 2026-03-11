@@ -12,16 +12,16 @@ Team: Erigon
 
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
-* [Pull Request] []() - 2026-01-12
-* [Pull Request] []() - 2026-01-17
-* [Pull Request] []() - 2026-01-29
-* [Pull Request] []() - 2026-02-07
+* [Pull Request] [Add invalid block marker for hive](https://github.com/erigontech/erigon/pull/18634) - 2026-01-12
+* [Pull Request] [Invalid block execution fixes](https://github.com/erigontech/erigon/pull/18706) - 2026-01-17
+* [Pull Request] [Fix Failing Non List Validation Hive Tests](https://github.com/erigontech/erigon/pull/18666) - 2026-01-29
+* [Pull Request] [Parallel short tests fixes](https://github.com/erigontech/erigon/pull/18914) - 2026-02-07
 
-* [Pull Request] []() - 2026-02-14
+* [Pull Request] [ Add EIP-7843: SLOTNUM implementation](https://github.com/erigontech/erigon/pull/19147) - 2026-02-14
 * [Issue] [Remove TxNum & BlockNum from SharedDomains](https://github.com/erigontech/erigon/issues/19289) - 2026-02-18
 * [Issue] [Remove ExecV3 from SpawnBuilderExecStage](https://github.com/erigontech/erigon/issues/19318) - 2026-02-19
 * [Issue] [Remove Silkworm support from codebase](https://github.com/erigontech/erigon/issues/19403) - 2026-02-22
-* [Pull Request] []() - 2026-02-27
+* [Pull Request] [Fix/bal selfdestruct netzero](https://github.com/erigontech/erigon/pull/19528) - 2026-02-27
 * [Issue] [Refactor execution module gRPC interface to plain Go interface](https://github.com/erigontech/erigon/issues/19527) - 2026-02-27
 * [Issue] [Downloader: missing torrent metadata for old files can block node startup, or cuase confusing logging](https://github.com/erigontech/erigon/issues/19545) - 2026-03-01
 * [Issue] [BAL Related Performance Evaluation](https://github.com/erigontech/erigon/issues/19589) - 2026-03-03
@@ -47,9 +47,18 @@ Team: Erigon
 * [Issue] [IBS 2-Cache Phase 3: Fix timing hole; eliminate rs.accounts](https://github.com/erigontech/erigon/issues/19702) - 2026-03-06
 * [Issue] [IBS 2-Cache Phase 2: Derive StateUpdates directly from VersionedWrites](https://github.com/erigontech/erigon/issues/19701) - 2026-03-06
 * [Issue] [IBS 2-Cache Phase 1: Establish test baseline](https://github.com/erigontech/erigon/issues/19700) - 2026-03-06
-* [Pull Request] []() - 2026-03-11
+* [Pull Request] [claude: add CI test skills (unit, all, race, hive, rpc, ci-orchestrator)](https://github.com/erigontech/erigon/pull/19784) - 2026-03-10
+* [Pull Request] [execution/state: regression test for originStorage A→B→A skip bug (follow-up to #19748)](https://github.com/erigontech/erigon/pull/19776) - 2026-03-10
+* [Pull Request] [execution/state: fix WriteAccountStorage skip using stale blockOriginStorage](https://github.com/erigontech/erigon/pull/19748) - 2026-03-10
+* [Pull Request] [execution/stagedsync: enable deferred commitment updates for parallel fork validation](https://github.com/erigontech/erigon/pull/19749) - 2026-03-10
+* [Commit] [claude: add CI test skills (unit, all, race, hive, rpc, ci-orchestrator) (#19784)](https://github.com/erigontech/erigon/commit/f7e672af3151c7a764ccb2085b03a06602be4cea) - 2026-03-11
+* [Commit] [execution/state: fix WriteAccountStorage skip using stale blockOriginStorage (#19748)](https://github.com/erigontech/erigon/commit/4f7caee2a467a902a778cce3579d0bbae7a3693a) - 2026-03-10
+* [Commit] [execution/stagedsync: enable deferred commitment updates for parallel fork validation (#19749)](https://github.com/erigontech/erigon/commit/2ad804246f4787896888cd5c1c5b5c3dfcfed911) - 2026-03-10
+* [Commit] [Remove unused 'isBlockProduction' from ExecV3 (#19760)](https://github.com/erigontech/erigon/commit/495b946f5484d7f7489bfbf05bb7b01e2feac35a) - 2026-03-10
+* [Review] [Review on: vm: fix CREATE/CREATE2 collision with EIP-7702 delegated accounts](https://github.com/erigontech/erigon/pull/19777#pullrequestreview-3924380241) - 2026-03-10
+* [Review] [Review on: txpool: penalize peers sending malformed p2p messages](https://github.com/erigontech/erigon/pull/19781#pullrequestreview-3924372755) - 2026-03-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
-* [Pull Request] []() - 2026-02-13
+* [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025
 
 
@@ -84,7 +93,7 @@ Team: Erigon
 * [Issue] [Improve Block Production Uint Tests](https://github.com/erigontech/erigon/issues/17508) - 2025-10-16
 * [Issue] [NewPayload spam for slots with invalid blocks](https://github.com/erigontech/erigon/issues/17505) - 2025-10-16
 * [Issue] [Consolidate Mining Execution](https://github.com/erigontech/erigon/issues/17529) - 2025-10-17
-* [Pull Request] []() - 2025-12-25
+* [Pull Request] [Add block reader to trace block initializer](https://github.com/erigontech/erigon/pull/18459) - 2025-12-25
 ## Q3 2025
 
 

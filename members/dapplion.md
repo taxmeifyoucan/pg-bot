@@ -15,33 +15,42 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Issue] [ePBS side-effects on Lighthouse](https://github.com/sigp/lighthouse/issues/8630) - 2026-01-07
 * [Issue] [Gloas ePBS breaks dependant root?](https://github.com/sigp/lighthouse/issues/8629) - 2026-01-07
 * [Issue] [Static File Backend for Lighthouse Cold DB](https://github.com/sigp/lighthouse/issues/8634) - 2026-01-08
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-10
+* [Pull Request] [Remove merge transition code](https://github.com/sigp/lighthouse/pull/8761) - 2026-02-05
+* [Pull Request] [rename --reconstruct-historic-states to --archive](https://github.com/sigp/lighthouse/pull/8795) - 2026-02-10
 * [Pull Request] []() - 2026-02-11
-* [Pull Request] []() - 2026-02-24
+* [Pull Request] [Add ai agent safety tooling](https://github.com/sigp/lighthouse/pull/8898) - 2026-02-24
 
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [Optionally check DB invariants at runtime](https://github.com/sigp/lighthouse/pull/8952) - 2026-03-09
+* [Review] [Review on: Schedule Fulu fork for Chiado testnet](https://github.com/sigp/lighthouse/pull/8954#pullrequestreview-3924753414) - 2026-03-10
+* [Review] [Review on: Update contribution guidlines regarding LLM usage](https://github.com/sigp/lighthouse/pull/8879#pullrequestreview-3924063859) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923993165) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923994094) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923995904) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923996802) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923997668) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923998477) - 2026-03-10
+* [Review] [Review on: Fast Confirmation Rule - BUT optional and doesn't touch production code :)](https://github.com/sigp/lighthouse/pull/8951#pullrequestreview-3923999241) - 2026-03-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2026-02-26
-* [Pull Request] []() - 2026-03-08
+* [Pull Request] [Extend by_root reqresp serve range to match by_range](https://github.com/ethereum/consensus-specs/pull/4950) - 2026-02-26
+* [Pull Request] [Typo sorry](https://github.com/ethereum/consensus-specs/pull/4989) - 2026-03-08
 ## Q4 2025
 
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
-* [Pull Request] []() - 2025-10-25
+* [Pull Request] [Prevent dropping large binary data to logs](https://github.com/sigp/lighthouse/pull/8290) - 2025-10-25
 * [Issue] [Slow head sync in tinny devnet](https://github.com/sigp/lighthouse/issues/8289) - 2025-10-25
-* [Pull Request] []() - 2025-10-27
+* [Pull Request] [Match BlockError into penalty in block gossip](https://github.com/sigp/lighthouse/pull/8301) - 2025-10-27
 * [Issue] [Remove lighthouse_version dependency on everything but top level lighthouse](https://github.com/sigp/lighthouse/issues/8328) - 2025-10-29
 * [Issue] [Fork-choice clean-up / simplification](https://github.com/sigp/lighthouse/issues/8325) - 2025-10-29
-* [Pull Request] []() - 2025-11-07
+* [Pull Request] [Safe non-finalized checkpoint sync](https://github.com/sigp/lighthouse/pull/8382) - 2025-11-07
 
-* [Pull Request] []() - 2025-11-15
-* [Pull Request] []() - 2025-12-16
+* [Pull Request] [Reimport the checkpoint sync block](https://github.com/sigp/lighthouse/pull/8417) - 2025-11-15
+* [Pull Request] [Tree-sync friendly lookup sync tests](https://github.com/sigp/lighthouse/pull/8592) - 2025-12-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-11-10
+* [Pull Request] [Suggest to queue DataColumnSidecars if they race the block](https://github.com/ethereum/consensus-specs/pull/4736) - 2025-11-10
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
-* [Pull Request] []() - 2025-12-03
+* [Pull Request] [test: remove testcontainers dependency for web3signer test](https://github.com/ChainSafe/lodestar/pull/4567) - 2025-12-03
 ## Q3 2025
 
 

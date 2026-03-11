@@ -13,10 +13,10 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Issue] [Node is trying to remove one more block (at least in logs)](https://github.com/NethermindEth/nethermind/issues/10119) - 2026-01-06
-* [Pull Request] []() - 2026-01-30
+* [Pull Request] [Update README with performance highlights of Nethermind](https://github.com/NethermindEth/nethermind/pull/10359) - 2026-01-30
 * [Issue] ["Improve PR workflow"](https://github.com/NethermindEth/nethermind/issues/10374) - 2026-02-01
 * [Issue] [TransactionForRpc.EnsureDefaults not called consistently before ToTransaction](https://github.com/NethermindEth/nethermind/issues/10547) - 2026-02-16
-* [Pull Request] []() - 2026-02-21
+* [Pull Request] [chore: add review-pr Claude Code skill](https://github.com/NethermindEth/nethermind/pull/10603) - 2026-02-21
 * [Issue] [Add BlockValidator to StatelessnessExecutor](https://github.com/NethermindEth/nethermind/issues/10618) - 2026-02-23
 * [Issue] [Implement EIP-7976](https://github.com/NethermindEth/nethermind/issues/10681) - 2026-03-01
 * [Issue] [Implement EIP-7981](https://github.com/NethermindEth/nethermind/issues/10680) - 2026-03-01
@@ -29,7 +29,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Issue] [eth_getBalance responds with TrieException](https://github.com/NethermindEth/nethermind/issues/9408) - 2025-10-04
 * [Commit] [Refactoring HasState (#9414)](https://github.com/NethermindEth/nethermind/commit/e9a79ea7726dc5a7ba307eb2cf82613facd6d76a) - 2025-10-05
 * [Pull Request] [Refactoring HasState](https://github.com/NethermindEth/nethermind/pull/9414) - 2025-10-05
-* [Pull Request] []() - 2025-10-24
+* [Pull Request] [[WIP - ignore for now] Alloc perf get](https://github.com/NethermindEth/nethermind/pull/9559) - 2025-10-24
 * [Issue] [Big_test is failing with missing trie nodes](https://github.com/NethermindEth/nethermind/issues/9577) - 2025-10-27
 * [Issue] [[Docs] Database size and history expiry update](https://github.com/NethermindEth/nethermind/issues/9626) - 2025-11-01
 ## Q3 2025

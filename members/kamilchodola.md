@@ -12,19 +12,19 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
-* [Pull Request] []() - 2026-02-06
-* [Pull Request] []() - 2026-02-11
+* [Pull Request] [Merge master](https://github.com/NethermindEth/nethermind/pull/10422) - 2026-02-06
+* [Pull Request] [Fix Kute Windows performance: disable proxy detection, fix file check](https://github.com/NethermindEth/nethermind/pull/10491) - 2026-02-11
 
-* [Pull Request] []() - 2026-02-20
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-02-26
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [Resolve merge conflict with master](https://github.com/NethermindEth/nethermind/pull/10595) - 2026-02-20
+* [Pull Request] [Warmup improvement](https://github.com/NethermindEth/nethermind/pull/10652) - 2026-02-25
+* [Pull Request] [perf: reduce ThreadPool contention from pruning and prewarmer](https://github.com/NethermindEth/nethermind/pull/10662) - 2026-02-26
+* [Pull Request] [refactor: remove NethermindConstructorFinder, use explicit factory registrations](https://github.com/NethermindEth/nethermind/pull/10745) - 2026-03-09
 [nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-22
-* [Pull Request] []() - 2026-02-23
-* [Pull Request] []() - 2026-02-27
+* [Pull Request] [Improve generator workflow](https://github.com/NethermindEth/gas-benchmarks/pull/115) - 2026-02-10
+* [Pull Request] [Fix report generation bugs and add run_and_post_metrics options](https://github.com/NethermindEth/gas-benchmarks/pull/120) - 2026-02-18
+* [Pull Request] [Chore/repricing dedicated runners](https://github.com/NethermindEth/gas-benchmarks/pull/124) - 2026-02-22
+* [Pull Request] [Fix/report generation bugs](https://github.com/NethermindEth/gas-benchmarks/pull/125) - 2026-02-23
+* [Pull Request] [fix: init execution-specs submodules after clone/pull](https://github.com/NethermindEth/gas-benchmarks/pull/130) - 2026-02-27
 ## Q4 2025
 
 
@@ -34,7 +34,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] [Refactor RPC comparison workflow for clarity and efficiency](https://github.com/NethermindEth/nethermind/pull/9418) - 2025-10-06
 
-* [Pull Request] []() - 2025-11-14
+* [Pull Request] [Merge master into blockbuilder force getPayload method](https://github.com/NethermindEth/nethermind/pull/9708) - 2025-11-14
 * [Pull Request] []() - 2025-12-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat: Implement configurable poll interval for transactions](https://github.com/ethereum/execution-spec-tests/pull/2286) - 2025-10-09

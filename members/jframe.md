@@ -15,7 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Bonsai archive sync as Bonsai the migrate to archive](https://github.com/hyperledger/besu/issues/9608) - 2026-01-07
 * [Issue] [Bonsai Archive sync halts on valid block due transaction nonce below sender error](https://github.com/hyperledger/besu/issues/9613) - 2026-01-09
 * [Issue] [Remove checkpoint](https://github.com/hyperledger/besu/issues/9684) - 2026-01-26
-* [Pull Request] []() - 2026-01-29
+* [Pull Request] [In BFT use configured mining beneficiary and allow 0 address](https://github.com/besu-eth/besu/pull/9706) - 2026-01-29
 * [Issue] [Bonsai Archive: Unify format options (remove X_ prefix)](https://github.com/hyperledger/besu/issues/9702) - 2026-01-28
 * [Issue] [Bonsai Archive: Remove or improve BonsaiArchivePartialFlatDbStrategy](https://github.com/hyperledger/besu/issues/9701) - 2026-01-28
 * [Issue] [Bonsai Archive: Index-based access to eliminate seekForPrev](https://github.com/hyperledger/besu/issues/9700) - 2026-01-28
@@ -25,18 +25,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Improve peer selection for world state download](https://github.com/hyperledger/besu/issues/9722) - 2026-02-02
 * [Issue] [Add peer performance metrics (transfer speed, latency, success rate)](https://github.com/hyperledger/besu/issues/9721) - 2026-02-02
 * [Issue] [Complete switch over to new peer task system for snap download](https://github.com/hyperledger/besu/issues/9719) - 2026-02-02
-* [Pull Request] []() - 2026-02-09
+* [Pull Request] [Remove peer task system toggle from DownloadHeadersStep](https://github.com/besu-eth/besu/pull/9760) - 2026-02-09
 * [Issue] [Besu release 26.2.0](https://github.com/hyperledger/besu/issues/9885) - 2026-02-24
-* [Pull Request] []() - 2026-02-26
-* [Pull Request] []() - 2026-03-02
-* [Pull Request] []() - 2026-03-04
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [Update changelog for 26.2.0-RC2](https://github.com/besu-eth/besu/pull/9898) - 2026-02-26
+* [Pull Request] [revert snappy back to 1.1.10.7](https://github.com/besu-eth/besu/pull/9930) - 2026-03-02
+* [Pull Request] [fix: register AbstractPeerRequestTask timeout immediately to prevent BWS hang](https://github.com/besu-eth/besu/pull/9954) - 2026-03-04
+* [Pull Request] [Fix QBFT ProposalPayload backward compatibility with pre-26.1.0 Besu versions](https://github.com/besu-eth/besu/pull/9977) - 2026-03-06
 * [Issue] [Bonsai Archive: Cold storage deduplication](https://github.com/hyperledger/besu/issues/9989) - 2026-03-06
 * [Issue] [Bonsai Archive: Remove seekForPrev fallback](https://github.com/hyperledger/besu/issues/9987) - 2026-03-06
 * [Issue] [Bonsai Archive: Sub-blocking for hot accounts](https://github.com/hyperledger/besu/issues/9986) - 2026-03-06
 * [Issue] [Bonsai Archive: Range presence index and bloom filters](https://github.com/hyperledger/besu/issues/9985) - 2026-03-06
 * [Issue] [Bonsai Archive: Index infrastructure with seekForPrev fallback](https://github.com/hyperledger/besu/issues/9984) - 2026-03-06
 * [Issue] [Bonsai Archive: Hybrid query routing](https://github.com/hyperledger/besu/issues/9981) - 2026-03-06
+* [Review] [Review on: disable forest TraceJsonRpcHttpBySpecTest](https://github.com/besu-eth/besu/pull/10005#pullrequestreview-3919369203) - 2026-03-10
 ## Q4 2025
 
 

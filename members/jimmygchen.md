@@ -12,18 +12,18 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
-* [Pull Request] []() - 2026-01-06
+* [Pull Request] [Delete attester cache](https://github.com/sigp/lighthouse/pull/8469) - 2026-01-06
 * [Issue] [Re-introduce clearer variable names in beacon processor work queue](https://github.com/sigp/lighthouse/issues/8648) - 2026-01-12
 * [Issue] [Implement partial data columns metrics](https://github.com/sigp/lighthouse/issues/8654) - 2026-01-13
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [Updated consensus types for Gloas `1.7.0-alpha.1`](https://github.com/sigp/lighthouse/pull/8688) - 2026-01-21
 * [Issue] [Implement updated `update_proposer_boost_root` in fork choice](https://github.com/sigp/lighthouse/issues/8689) - 2026-01-21
-* [Pull Request] []() - 2026-02-04
+* [Pull Request] [Release v8.1.0](https://github.com/sigp/lighthouse/pull/8749) - 2026-02-04
 * [Issue] [Head monitor service resilience improvements](https://github.com/sigp/lighthouse/issues/8741) - 2026-02-04
 * [Issue] [Implement inactivity_scores reward EF tests from v1.7.0-alpha.2](https://github.com/sigp/lighthouse/issues/8750) - 2026-02-04
-* [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-24
+* [Pull Request] [Fix duplicate column reconstruction at deadline](https://github.com/sigp/lighthouse/pull/8855) - 2026-02-18
+* [Pull Request] [Add debug spans to DB write paths](https://github.com/sigp/lighthouse/pull/8895) - 2026-02-24
 * [Issue] [Add missing SSZ response support to several HTTP API endpoints](https://github.com/sigp/lighthouse/issues/8892) - 2026-02-24
-* [Pull Request] []() - 2026-02-25
+* [Pull Request] [Update yanked keccak 0.1.5 to 0.1.6](https://github.com/sigp/lighthouse/pull/8900) - 2026-02-25
 * [Issue] [Gloas: send early payload envelopes to reprocess queue](https://github.com/sigp/lighthouse/issues/8922) - 2026-03-02
 * [Issue] [Gloas: envelope peer penalties and REJECT/IGNORE mapping](https://github.com/sigp/lighthouse/issues/8949) - 2026-03-09
 * [Issue] [Gloas: envelope deduplication and status tracking](https://github.com/sigp/lighthouse/issues/8948) - 2026-03-09
@@ -38,29 +38,29 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Fix duplicate fields being logged when the field exists in both the span and the event](https://github.com/sigp/lighthouse/pull/8183) - 2025-10-09
 * [Pull Request] [Release v8.0.0-rc.1](https://github.com/sigp/lighthouse/pull/8185) - 2025-10-10
 
-* [Pull Request] []() - 2025-10-16
+* [Pull Request] [Fix `get_header` JSON deserialization.](https://github.com/sigp/lighthouse/pull/8228) - 2025-10-16
 * [Issue] [v8.0.0 release testing checklist](https://github.com/sigp/lighthouse/issues/8233) - 2025-10-17
-* [Pull Request] []() - 2025-10-17
+* [Pull Request] [Feature gate test CLI flags](https://github.com/sigp/lighthouse/pull/8231) - 2025-10-17
 * [Issue] [Test improvement tracking issue](https://github.com/sigp/lighthouse/issues/8248) - 2025-10-20
-* [Pull Request] []() - 2025-10-22
+* [Pull Request] [Trigger backfill on startup if user switches to a supernode or semi-supernode](https://github.com/sigp/lighthouse/pull/8265) - 2025-10-22
 * [Issue] [Reduce unnecessary data column downloads during backfill for full nodes](https://github.com/sigp/lighthouse/issues/8308) - 2025-10-28
-* [Pull Request] []() - 2025-10-30
-* [Pull Request] []() - 2025-11-05
-* [Pull Request] []() - 2025-11-10
-* [Pull Request] []() - 2025-11-19
+* [Pull Request] [Bump gas limit to 60M](https://github.com/sigp/lighthouse/pull/8331) - 2025-10-30
+* [Pull Request] [Download execution engine release binaries instead of building locally on CI](https://github.com/sigp/lighthouse/pull/8370) - 2025-11-05
+* [Pull Request] [Fix custody context initialization race condition that caused panic](https://github.com/sigp/lighthouse/pull/8391) - 2025-11-10
+* [Pull Request] [Fix md format](https://github.com/sigp/lighthouse/pull/8434) - 2025-11-19
 * [Issue] [Reduce validator client proposer duties polling with Fulu proposer lookahead](https://github.com/sigp/lighthouse/issues/8457) - 2025-11-25
-* [Pull Request] []() - 2025-11-24
-* [Pull Request] []() - 2025-11-25
+* [Pull Request] [Optimise pubkey cache initialisation during beacon node startup ](https://github.com/sigp/lighthouse/pull/8451) - 2025-11-24
+* [Pull Request] [Optimize AttesterCache::maybe_cache_state to reduce lock contention](https://github.com/sigp/lighthouse/pull/8463) - 2025-11-25
 * [Issue] [Separate async and blocking task counters in beacon processor](https://github.com/sigp/lighthouse/issues/8460) - 2025-11-25
-* [Pull Request] []() - 2025-11-26
-* [Pull Request] []() - 2025-11-27
+* [Pull Request] [Add tests for  checkpoint sync no blobs](https://github.com/sigp/lighthouse/pull/8473) - 2025-11-26
+* [Pull Request] [Add tracing spans to validator client duty cycles](https://github.com/sigp/lighthouse/pull/8482) - 2025-11-27
 * [Issue] [BLS: Fix `is_infinity` flag when aggregating onto empty AggregateSignature](https://github.com/sigp/lighthouse/issues/8491) - 2025-11-28
 * [Issue] [Fix TOCTOU bug in unused_port module](https://github.com/sigp/lighthouse/issues/8490) - 2025-11-28
-* [Pull Request] []() - 2025-11-28
-* [Pull Request] []() - 2025-12-01
-* [Pull Request] []() - 2025-12-05
+* [Pull Request] [Update local testnet scripts for the fulu fork](https://github.com/sigp/lighthouse/pull/8489) - 2025-11-28
+* [Pull Request] [Instrument attestation signing.](https://github.com/sigp/lighthouse/pull/8508) - 2025-12-01
+* [Pull Request] [Move beacon pool http api to its own separate module](https://github.com/sigp/lighthouse/pull/8543) - 2025-12-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-10-15
+* [Pull Request] [Only require nodes to publish custody columns from reconstruction](https://github.com/ethereum/consensus-specs/pull/4657) - 2025-10-15
 
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Issue] [Flaky blob transaction test](https://github.com/ethpandaops/assertoor/issues/125) - 2025-10-29

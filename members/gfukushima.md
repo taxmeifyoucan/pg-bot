@@ -12,25 +12,31 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 
 
 [consensys/teku](https://github.com/consensys/teku)
-* [Pull Request] []() - 2026-01-09
-* [Pull Request] []() - 2026-01-11
-* [Pull Request] []() - 2026-01-12
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [Single block provider fulu](https://github.com/Consensys/teku/pull/10264) - 2026-01-09
+* [Pull Request] [Update earliest available data column slot after pruning](https://github.com/Consensys/teku/pull/10265) - 2026-01-11
+* [Pull Request] [Fix first non finalized slot calculation ](https://github.com/Consensys/teku/pull/10270) - 2026-01-12
+* [Pull Request] [Add AT test for `--rest-api-getblobs-sidecars-download-enabled`](https://github.com/Consensys/teku/pull/10286) - 2026-01-21
 * [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-02-18
+* [Pull Request] [Enable gossip during optimistic sync for data columns](https://github.com/Consensys/teku/pull/10304) - 2026-02-18
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Add option to enable blobdb on RocksDB](https://github.com/Consensys/teku/pull/10470) - 2026-03-10
+* [Review] [Review on: Change getPayload timeout to 2s](https://github.com/Consensys/teku/pull/10473#pullrequestreview-3926283500) - 2026-03-11
+* [Review] [Review on: Engine api optimizations](https://github.com/Consensys/teku/pull/10469#pullrequestreview-3919400844) - 2026-03-10
+* [Review] [Review on: Added deprecation warning for leveldb databases](https://github.com/Consensys/teku/pull/10468#pullrequestreview-3919350091) - 2026-03-10
 ## Q4 2025
 
 
 [consensys/teku](https://github.com/consensys/teku)
 * [Commit] [[Stateless Proto] Introducing execution proofs subnet and gossip validation (#9869)](https://github.com/Consensys/teku/commit/63af7e23107144747a84c7692a46c6a142cda99a) - 2025-10-08
-* [Pull Request] []() - 2025-10-17
-* [Pull Request] []() - 2025-11-04
-* [Pull Request] []() - 2025-11-06
+* [Pull Request] [[Stateless Proto] Add flag to set execution proof generation artificial delay](https://github.com/Consensys/teku/pull/10027) - 2025-10-17
+* [Pull Request] [[Stateless Proto] Execution proof availability checker](https://github.com/Consensys/teku/pull/10097) - 2025-11-04
+* [Pull Request] [Update besu version to 25.11](https://github.com/Consensys/teku/pull/10106) - 2025-11-06
 * [Issue] [Add a mechanism to markForEquivocation for Fulu](https://github.com/Consensys/teku/issues/10133) - 2025-11-13
-* [Pull Request] []() - 2025-11-17
+* [Pull Request] [Mark for equivocation datacolumns recovered from EL](https://github.com/Consensys/teku/pull/10143) - 2025-11-17
 * [Issue] [Refine the concept of Gossip data columns sidecars validation failure ](https://github.com/Consensys/teku/issues/10149) - 2025-11-19
-* [Pull Request] []() - 2025-11-25
-* [Pull Request] []() - 2025-12-04
+* [Pull Request] [Add Single block provider for Fulu ](https://github.com/Consensys/teku/pull/10169) - 2025-11-25
+* [Pull Request] [disable flaky test](https://github.com/Consensys/teku/pull/10202) - 2025-12-04
 * [Issue] [Investigate flakiness of Das50PercentRecoveryAcceptanceTest](https://github.com/Consensys/teku/issues/10206) - 2025-12-07
 * [Issue] [SingleBlockProvider for Fulu](https://github.com/Consensys/teku/issues/10208) - 2025-12-08
 ## Q3 2025

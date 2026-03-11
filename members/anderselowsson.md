@@ -12,18 +12,18 @@ Team: Robust Incentives Group (RIG)
 
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-03-04
+* [Pull Request] [Add EIP: LUCID encrypted mempool](https://github.com/ethereum/EIPs/pull/11376) - 2026-03-04
 ## Q4 2025
 
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-10-16
-* [Pull Request] []() - 2025-10-22
-* [Pull Request] []() - 2025-11-01
-* [Pull Request] []() - 2025-11-12
-* [Pull Request] []() - 2025-11-13
-* [Pull Request] []() - 2025-11-27
-* [Pull Request] []() - 2025-12-14
+* [Pull Request] [Add EIP: FOCIL with ranked transactions (FOCILR)](https://github.com/ethereum/EIPs/pull/10554) - 2025-10-16
+* [Pull Request] [Update EIP-7773: Removed PFI for EIP-7999](https://github.com/ethereum/EIPs/pull/10590) - 2025-10-22
+* [Pull Request] [Update EIP-8068: Update EIP-8068](https://github.com/ethereum/EIPs/pull/10670) - 2025-11-01
+* [Pull Request] [Update EIP-8062: Added an alternative specification and two figures for illustrating capital efficiency](https://github.com/ethereum/EIPs/pull/10783) - 2025-11-12
+* [Pull Request] [Update EIP-8062: tiny edits](https://github.com/ethereum/EIPs/pull/10785) - 2025-11-13
+* [Pull Request] [Update EIP-8062: Minor edits](https://github.com/ethereum/EIPs/pull/10843) - 2025-11-27
+* [Pull Request] [Update EIP-8046: Rename and update figure](https://github.com/ethereum/EIPs/pull/10919) - 2025-12-14
 ## Q3 2025
 
 

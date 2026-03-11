@@ -13,18 +13,27 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [Avoid calling BeaconState.clone() in beacon-node](https://github.com/ChainSafe/lodestar/issues/8725) - 2026-01-05
-* [Pull Request] []() - 2026-01-06
+* [Pull Request] [refactor: move reward apis to state-transition](https://github.com/ChainSafe/lodestar/pull/8719) - 2026-01-06
 * [Issue] [State repositories to work with Uint8Array instead of BeaconStateAllForks](https://github.com/ChainSafe/lodestar/issues/8729) - 2026-01-08
-* [Pull Request] []() - 2026-01-09
-* [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-01-26
+* [Pull Request] [refactor: generalize state repositories](https://github.com/ChainSafe/lodestar/pull/8732) - 2026-01-09
+* [Pull Request] [refactor: simplify get proposer's SignatureSet](https://github.com/ChainSafe/lodestar/pull/8745) - 2026-01-16
+* [Pull Request] [chore: skip Map benchmarks](https://github.com/ChainSafe/lodestar/pull/8787) - 2026-01-26
 * [Issue] [Performance issue archiving DataColumnSidecars](https://github.com/ChainSafe/lodestar/issues/8794) - 2026-01-28
-* [Pull Request] []() - 2026-02-04
-* [Pull Request] []() - 2026-02-24
+* [Pull Request] [chore: model pre-gloas block index as number](https://github.com/ChainSafe/lodestar/pull/8858) - 2026-02-04
+* [Pull Request] [refactor(fork-choice): simplify maybeUpdateBestChildAndDescendant Gloas edge case](https://github.com/ChainSafe/lodestar/pull/8951) - 2026-02-24
 * [Issue] [Memory leak on network thread](https://github.com/ChainSafe/lodestar/issues/8969) - 2026-03-02
-* [Pull Request] []() - 2026-03-09
-* [Issue] [[gloas] fork-choice compute_head performance issue](https://github.com/ChainSafe/lodestar/issues/9014) - 2026-03-10
+* [Pull Request] [fix: enhance epochIndex to track payloadPresent variants](https://github.com/ChainSafe/lodestar/pull/9006) - 2026-03-09
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [chore: remove getComputeShuffledIndexFn()](https://github.com/ChainSafe/lodestar/pull/9011) - 2026-03-10
+* [Pull Request] [perf: optimize PTC committee computation to avoid per-slot allocations](https://github.com/ChainSafe/lodestar/pull/9012) - 2026-03-10
 * [Issue] [[gloas] computePayloadTimelinessCommitteesForEpoch performance issue](https://github.com/ChainSafe/lodestar/issues/9013) - 2026-03-10
+* [Issue] [[gloas] fork-choice compute_head performance issue](https://github.com/ChainSafe/lodestar/issues/9014) - 2026-03-10
+
+* [Review] [Review on: fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007#pullrequestreview-3919170310) - 2026-03-10
+* [Review] [Review on: fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007#pullrequestreview-3919173106) - 2026-03-10
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 ## Q4 2025
 
 
@@ -37,12 +46,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [[bun] performance issue with forkchoice updateHead() api](https://github.com/ChainSafe/lodestar/issues/8519) - 2025-10-10
 * [Issue] [[bun] beacon-node crashed with subscribe-all-subnet flag](https://github.com/ChainSafe/lodestar/issues/8518) - 2025-10-10
 * [Issue] [[bun] asyncAggregateWithRandomness performance issue](https://github.com/ChainSafe/lodestar/issues/8524) - 2025-10-13
-* [Pull Request] []() - 2025-10-15
-* [Pull Request] []() - 2025-10-16
-* [Pull Request] []() - 2025-10-28
+* [Pull Request] [chore: track computeDeltas() metrics on Grafana](https://github.com/ChainSafe/lodestar/pull/8539) - 2025-10-15
+* [Pull Request] [chore: more logs for maybeArchiveState()](https://github.com/ChainSafe/lodestar/pull/8541) - 2025-10-16
+* [Pull Request] [chore: new BeaconChain dashboard](https://github.com/ChainSafe/lodestar/pull/8581) - 2025-10-28
 * [Issue] [Persist fork_choice on stop and load on restart](https://github.com/ChainSafe/lodestar/issues/8592) - 2025-10-31
 * [Issue] [Improve processAttestations time](https://github.com/ChainSafe/lodestar/issues/8621) - 2025-11-20
-* [Pull Request] []() - 2025-11-20
+* [Pull Request] [fix: verify proposer signatures once per slot](https://github.com/ChainSafe/lodestar/pull/8620) - 2025-11-20
 * [Issue] [fulu: block import increased since fulu](https://github.com/ChainSafe/lodestar/issues/8619) - 2025-11-20
 * [Issue] [Duplicate getIndexedAttestation() during verifying/importing blocks](https://github.com/ChainSafe/lodestar/issues/8625) - 2025-11-21
 * [Issue] [[fulu] writeBlockInputToDb performance issue](https://github.com/ChainSafe/lodestar/issues/8624) - 2025-11-21
@@ -57,13 +66,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Avoid accessing config, pubkey2index, index2pubkey from cached state](https://github.com/ChainSafe/lodestar/issues/8652) - 2025-12-02
 * [Issue] [Avoid accessing full beacon state in PrepareNextSlotScheduler](https://github.com/ChainSafe/lodestar/issues/8651) - 2025-12-02
 * [Issue] [Decouple beacon-node and state-transition](https://github.com/ChainSafe/lodestar/issues/8650) - 2025-12-02
-* [Pull Request] []() - 2025-12-11
-* [Pull Request] []() - 2025-12-12
+* [Pull Request] [chore: use index2pubkey of BeaconChain](https://github.com/ChainSafe/lodestar/pull/8674) - 2025-12-11
+* [Pull Request] [chore: use pubkey2index from BeaconChain](https://github.com/ChainSafe/lodestar/pull/8691) - 2025-12-12
 * [Issue] [Refactor rewards api to prepare for lodestar-z integration](https://github.com/ChainSafe/lodestar/issues/8690) - 2025-12-12
-* [Pull Request] []() - 2025-12-16
+* [Pull Request] [feat: transfer pending gossipsub message msg data](https://github.com/ChainSafe/lodestar/pull/8689) - 2025-12-16
 * [Issue] [Decouple lodestar and @chainsafe/blst](https://github.com/ChainSafe/lodestar/issues/8695) - 2025-12-16
 * [Issue] [Simplify closestJustifiedBalancesStateToCheckpoint](https://github.com/ChainSafe/lodestar/issues/8717) - 2025-12-26
-* [Pull Request] []() - 2025-12-29
+* [Pull Request] [fix: simplify getBlockSignatureSets api](https://github.com/ChainSafe/lodestar/pull/8720) - 2025-12-29
 ## Q3 2025
 
 

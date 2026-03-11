@@ -12,15 +12,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2026-01-07
+* [Pull Request] [Fix issue : Prevent makeslice panic from invalid Count values](https://github.com/OffchainLabs/prysm/pull/16227) - 2026-01-07
 
-* [Pull Request] []() - 2026-01-15
+* [Pull Request] [CI: Add gazelle update-repos check](https://github.com/OffchainLabs/prysm/pull/16257) - 2026-01-15
 * [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-07
-* [Pull Request] []() - 2026-02-24
+* [Pull Request] [golangci-lint: Remove test exclusion from formatting](https://github.com/OffchainLabs/prysm/pull/16318) - 2026-02-02
+* [Pull Request] [db: Copy byte slices that live outside of the view transaction](https://github.com/OffchainLabs/prysm/pull/16332) - 2026-02-07
+* [Pull Request] [api: reduce gzip compression level](https://github.com/OffchainLabs/prysm/pull/16399) - 2026-02-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
-* [Pull Request] []() - 2026-01-13
+* [Pull Request] [Add Satyajit Das to Prysm](https://github.com/protocolguild/documentation/pull/470) - 2026-01-13
 * [Pull Request] []() - 2026-01-20
 ## Q4 2025
 
@@ -32,8 +32,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Clear disconnected peers from connected_libp2p_peers](https://github.com/OffchainLabs/prysm/pull/15807) - 2025-10-03
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2025-11-10
-* [Pull Request] []() - 2025-12-11
+* [Pull Request] [Update CHANGELOG.md for v7.0.0 release](https://github.com/OffchainLabs/prysm/pull/16004) - 2025-11-10
+* [Pull Request] [Update CHANGELOG.md for v7.1.0 release](https://github.com/OffchainLabs/prysm/pull/16127) - 2025-12-11
 ## Q3 2025
 
 

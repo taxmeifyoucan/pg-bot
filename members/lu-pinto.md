@@ -11,25 +11,28 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
-* [Pull Request] []() - 2026-01-07
-* [Pull Request] []() - 2026-02-04
+* [Pull Request] [Add repeat option to BlockchainTestSubCommand](https://github.com/besu-eth/besu/pull/9609) - 2026-01-07
+* [Pull Request] [Add size() and toHexString() in BytesHolder](https://github.com/besu-eth/besu/pull/9737) - 2026-02-04
 * [Issue] [Sync slow down for pre-Byzantium blocks](https://github.com/hyperledger/besu/issues/9905) - 2026-02-26
 * [Issue] [Contention lock in parallel transaction processing](https://github.com/hyperledger/besu/issues/9904) - 2026-02-26
-* [Pull Request] []() - 2026-02-28
+* [Pull Request] [Implement div sdiv with longs](https://github.com/besu-eth/besu/pull/9923) - 2026-02-28
+* [Review] [Review on: Fix addMod case in Modulus256](https://github.com/besu-eth/besu/pull/10001#pullrequestreview-3921842733) - 2026-03-10
+* [Review] [Review on: Fix addMod case in Modulus256](https://github.com/besu-eth/besu/pull/10001#pullrequestreview-3922612681) - 2026-03-10
+* [Review] [Review on: Intrinsify byte-long conversion in UInt256](https://github.com/besu-eth/besu/pull/9976#pullrequestreview-3924527771) - 2026-03-10
 ## Q4 2025
 
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix support for gitworktrees](https://github.com/hyperledger/besu/pull/9288) - 2025-10-10
-* [Pull Request] []() - 2025-10-17
+* [Pull Request] [implement trace filtering by opcode in debug_* RPCs](https://github.com/besu-eth/besu/pull/9335) - 2025-10-17
 * [Issue] [Add optional opcodes tracing parameter](https://github.com/hyperledger/besu/issues/9334) - 2025-10-17
-* [Pull Request] []() - 2025-10-31
+* [Pull Request] [reimplement div and sdiv](https://github.com/besu-eth/besu/pull/9391) - 2025-10-31
 * [Issue] [Reimplement UInt256.limbs fully in Big endian instead of Little endian](https://github.com/hyperledger/besu/issues/9475) - 2025-11-20
 
-* [Pull Request] []() - 2025-11-28
-* [Pull Request] []() - 2025-12-10
+* [Pull Request] [Remove unnecessary BlockValues dependency from ethereum/core project](https://github.com/besu-eth/besu/pull/9514) - 2025-11-28
+* [Pull Request] [Remove DelegatingBytes* dependency from classes](https://github.com/besu-eth/besu/pull/9556) - 2025-12-10
 [consensys/tuweni](https://github.com/consensys/tuweni)
-* [Pull Request] []() - 2025-11-27
+* [Pull Request] [Changes to devp2p project to accomodate bytes v2](https://github.com/Consensys/tuweni/pull/59) - 2025-11-27
 ## Q3 2025
 
 

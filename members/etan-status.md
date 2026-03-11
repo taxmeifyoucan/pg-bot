@@ -12,20 +12,20 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2026-01-06
+* [Pull Request] [Merkleize progressive SSZ shape to right](https://github.com/ethereum/consensus-specs/pull/4813) - 2026-01-06
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-01-15
+* [Pull Request] [Update EIP-7799: Add fee payment log](https://github.com/ethereum/EIPs/pull/11091) - 2026-01-15
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
-* [Pull Request] []() - 2026-02-04
-* [Pull Request] []() - 2026-02-06
-* [Pull Request] []() - 2026-02-07
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-16
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-03-03
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [Add on_slot_start_after_past_attestations_applied hook](https://github.com/status-im/nimbus-eth2/pull/7929) - 2026-02-04
+* [Pull Request] [Update MAX_EFFECTIVE_BALANCE_ELECTRA to uint64](https://github.com/status-im/nimbus-eth2/pull/7943) - 2026-02-06
+* [Pull Request] [Track slashed validators in EpochRef](https://github.com/status-im/nimbus-eth2/pull/7944) - 2026-02-07
+* [Pull Request] [Re-enable progressive shape SSZ tests](https://github.com/status-im/nimbus-eth2/pull/7856) - 2026-02-10
+* [Pull Request] [Track slot assignments for current / previous epoch in fork choice](https://github.com/status-im/nimbus-eth2/pull/7985) - 2026-02-16
+* [Pull Request] [Track support from empty slots and from equivocating validators for FCR](https://github.com/status-im/nimbus-eth2/pull/8026) - 2026-02-24
+* [Pull Request] [Add get_current_target_score implementation for fast confirmation rule](https://github.com/status-im/nimbus-eth2/pull/8031) - 2026-03-03
+* [Pull Request] [Use [] on balances/validators instead of item](https://github.com/status-im/nimbus-eth2/pull/8014) - 2026-03-06
 ## Q4 2025
 
 
@@ -46,18 +46,18 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-stew](https://github.com/status-im/nimbus-eth2/pull/7589) - 2025-10-09
 
 * [Pull Request] [Run fork_choice and proto_array tests](https://github.com/status-im/nimbus-eth2/pull/7607) - 2025-10-13
-* [Pull Request] []() - 2025-11-01
-* [Pull Request] []() - 2025-11-16
+* [Pull Request] [Apply policy: Retain back through Mainnet's second latest fork](https://github.com/status-im/nimbus-eth2/pull/7701) - 2025-11-01
+* [Pull Request] [Add option to light client to sync finality to engine API](https://github.com/status-im/nimbus-eth2/pull/7735) - 2025-11-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7916: Move to Review](https://github.com/ethereum/EIPs/pull/10526) - 2025-10-12
 
-* [Pull Request] []() - 2025-12-30
+* [Pull Request] [Add EIP: Replace cumulative receipt fields](https://github.com/ethereum/EIPs/pull/10998) - 2025-12-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-10-16
-* [Pull Request] []() - 2025-11-04
+* [Pull Request] [Reduce SSZ test vector size](https://github.com/ethereum/consensus-specs/pull/4662) - 2025-10-16
+* [Pull Request] [Use proper integer encoding for Union in SSZ](https://github.com/ethereum/consensus-specs/pull/4725) - 2025-11-04
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
-* [Pull Request] []() - 2025-11-19
+* [Pull Request] [Add NimMain export to verifproxy library](https://github.com/status-im/nimbus-eth1/pull/3835) - 2025-11-19
 ## Q3 2025
 
 

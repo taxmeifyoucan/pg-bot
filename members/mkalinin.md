@@ -14,14 +14,14 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [Add Amsterdam execution-api specs (#691)](https://github.com/ethereum/execution-apis/commit/4ec8e5735ebb3f2ce0702726385cdde70034f78c) - 2025-10-06
 
-* [Pull Request] []() - 2025-12-05
-* [Pull Request] []() - 2025-12-08
+* [Pull Request] [engine: Simplify wording for BAL validation failure](https://github.com/ethereum/execution-apis/pull/714) - 2025-12-05
+* [Pull Request] [engine: Delete eip7928](https://github.com/ethereum/execution-apis/pull/715) - 2025-12-08
 * [Pull Request] []() - 2025-12-15
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-10-30
+* [Pull Request] [Add EIP: Prevent using consolidations as withdrawals](https://github.com/ethereum/EIPs/pull/10656) - 2025-10-30
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-11-18
+* [Pull Request] [Fast Confirmation Rule](https://github.com/ethereum/consensus-specs/pull/4747) - 2025-11-18
 ## Q3 2025
 
 

@@ -12,12 +12,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2026-01-22
-* [Pull Request] []() - 2026-01-27
+* [Pull Request] [constants update for ethspecify phase 0](https://github.com/OffchainLabs/prysm/pull/16273) - 2026-01-22
+* [Pull Request] [Update health endpoint to include sync and optimistic checks ](https://github.com/OffchainLabs/prysm/pull/16294) - 2026-01-27
 * [Pull Request] []() - 2026-01-28
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-02-03
-* [Pull Request] []() - 2026-02-10
+* [Pull Request] [Add payload attestation pool for PTC (Gloas)](https://github.com/OffchainLabs/prysm/pull/16308) - 2026-01-30
+* [Pull Request] [gloas events ( without triggers)](https://github.com/OffchainLabs/prysm/pull/16323) - 2026-02-03
+* [Pull Request] [simplify get and post block parsing for REST](https://github.com/OffchainLabs/prysm/pull/16307) - 2026-02-10
 * [Issue] [Gloas Attestation Gossip Changes](https://github.com/OffchainLabs/prysm/issues/16360) - 2026-02-13
 * [Issue] [Gloas block gossip](https://github.com/OffchainLabs/prysm/issues/16372) - 2026-02-18
 * [Issue] [gloas attestation](https://github.com/OffchainLabs/prysm/issues/16393) - 2026-02-23
@@ -30,7 +30,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Issue] [ExecutionPayloadEnvelopesByRoot](https://github.com/OffchainLabs/prysm/issues/16400) - 2026-02-25
 * [Issue] [Gloas Sync Package changes](https://github.com/OffchainLabs/prysm/issues/16453) - 2026-03-02
 * [Issue] [rename of SECONDS_PER_SLOT to SLOT_DURATION_MS](https://github.com/OffchainLabs/prysm/issues/16484) - 2026-03-06
-* [Pull Request] []() - 2026-03-10
+* [Pull Request] [break out distributed validator components via an abstracted aggregator selector](https://github.com/OffchainLabs/prysm/pull/16509) - 2026-03-10
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [adding payload attestation apis connection from validator client](https://github.com/OffchainLabs/prysm/pull/16504) - 2026-03-10
+* [Pull Request] [adding payload_attestation_message event](https://github.com/OffchainLabs/prysm/pull/16506) - 2026-03-10
+* [Pull Request] [fix to attestation pool to only consume on insert](https://github.com/OffchainLabs/prysm/pull/16503) - 2026-03-10
+* [Commit] [adding payload attestation apis connection from validator client (#16504)](https://github.com/OffchainLabs/prysm/commit/b17f2752ab2964366002d7beaaecb47a80f6e8cb) - 2026-03-10
 ## Q4 2025
 
 
@@ -62,9 +68,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [we don't actually need to use the ids](https://github.com/OffchainLabs/prysm/commit/a37bc1cbd087af93a6dc860caf44fbfec81bb0ef) - 2025-10-13
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2025-11-25
-* [Pull Request] []() - 2025-12-12
-* [Pull Request] []() - 2025-12-18
+* [Pull Request] [adding debounce to remote key manager](https://github.com/OffchainLabs/prysm/pull/16051) - 2025-11-25
+* [Pull Request] [fixing state replay caused by REST api duties attester and sync committee endpoints](https://github.com/OffchainLabs/prysm/pull/16136) - 2025-12-12
+* [Pull Request] [changing isHealthy to isReady](https://github.com/OffchainLabs/prysm/pull/16167) - 2025-12-18
 ## Q3 2025
 
 

@@ -12,9 +12,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
-* [Pull Request] []() - 2026-01-03
-* [Pull Request] []() - 2026-02-07
+* [Pull Request] [fix: ensure eth_getBlockByNumber enforces canonical block retrieval](https://github.com/NethermindEth/nethermind/pull/10024) - 2026-01-03
+* [Pull Request] [refactor: additional unused code cleanup](https://github.com/NethermindEth/nethermind/pull/10445) - 2026-02-07
 * [Issue] [`eth_estimateGas` intermittently returns incorrect results / reverts on v1.36.0 (regression from v1.35.x)](https://github.com/NethermindEth/nethermind/issues/10552) - 2026-02-17
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [ci: Add Claude review](https://github.com/NethermindEth/nethermind/pull/10768) - 2026-03-10
+* [Pull Request] [feat(jsonrpc): add eth_subscribe transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/10524) - 2026-03-10
+* [Commit] [feat(jsonrpc): add eth_subscribe transactionReceipts subscription (#10524)](https://github.com/NethermindEth/nethermind/commit/a916b0e2495ab0a0901da32b25a49a0a9c7430a3) - 2026-03-10
+* [Review] [Review on: ci: Add Claude review](https://github.com/NethermindEth/nethermind/pull/10768#pullrequestreview-3923681880) - 2026-03-10
 ## Q3 2025
 
 

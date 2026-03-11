@@ -12,7 +12,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
-* [Pull Request] []() - 2025-11-07
+* [Pull Request] [Fix free disk space check for non existent directories (HealthChecks)](https://github.com/NethermindEth/nethermind/pull/9666) - 2025-11-07
 ## Q3 2025
 
 

@@ -12,8 +12,8 @@ Team: Consensus R&D (EF)
 
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-10-17
-* [Pull Request] []() - 2025-10-29
+* [Pull Request] [Update EIP-7773: PFI EIP-7708 in Glamsterdam](https://github.com/ethereum/EIPs/pull/10566) - 2025-10-17
+* [Pull Request] [Update EIP-7773: PFI 7686 for Glamsterdam](https://github.com/ethereum/EIPs/pull/10648) - 2025-10-29
 ## Q2 2025
 
 [ethereum/eips](https://github.com/ethereum/eips)

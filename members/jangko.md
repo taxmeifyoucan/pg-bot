@@ -12,14 +12,14 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
-* [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-28
-* [Pull Request] []() - 2026-01-31
-* [Pull Request] []() - 2026-02-01
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-03
-* [Pull Request] []() - 2026-02-14
+* [Pull Request] [Use minimized mcl library](https://github.com/status-im/nimbus-eth1/pull/3915) - 2026-01-16
+* [Pull Request] [BAL-devnet-2: EIP-7708: ETH transfers emit a log](https://github.com/status-im/nimbus-eth1/pull/3933) - 2026-01-27
+* [Pull Request] [BAL-devnet-2: EIP-7843: SLOTNUM opcode](https://github.com/status-im/nimbus-eth1/pull/3939) - 2026-01-28
+* [Pull Request] [Simplify EVM flags](https://github.com/status-im/nimbus-eth1/pull/3951) - 2026-01-31
+* [Pull Request] [Bal devnet 2](https://github.com/status-im/nimbus-eth1/pull/3952) - 2026-02-01
+* [Pull Request] [Refactor calculateAndPossiblyRefundGas closer to to EIP-7623 and prepare for EIP-7778](https://github.com/status-im/nimbus-eth1/pull/3962) - 2026-02-02
+* [Pull Request] [Remove unused EVM opcodes](https://github.com/status-im/nimbus-eth1/pull/3964) - 2026-02-03
+* [Pull Request] [Fix nightly build: Run binary section execute 'nimbus' instead of 'nimbus_execution_client'](https://github.com/status-im/nimbus-eth1/pull/3980) - 2026-02-14
 * [Issue] [Unusual database access of ledger's clearStorage](https://github.com/status-im/nimbus-eth1/issues/4024) - 2026-02-27
 ## Q4 2025
 
@@ -42,10 +42,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Use mcl to boost alt_bn128 precompiles performance (#3747)](https://github.com/status-im/nimbus-eth1/commit/552755a924019c640772c2a76a6f81f54f4f9f52) - 2025-10-08
 * [Commit] [Validate public key](https://github.com/status-im/nimbus-eth1/commit/2c3b2b58511ed033742fdd7b1411fa3c80cd20b7) - 2025-10-11
 * [Commit] [Update test log](https://github.com/status-im/nimbus-eth1/commit/3eb951c900ea58e5ae21156ee9682cdbef1cc7eb) - 2025-10-11
-* [Pull Request] []() - 2025-10-15
-* [Pull Request] []() - 2025-10-23
-* [Pull Request] []() - 2025-12-10
-* [Pull Request] []() - 2025-12-11
+* [Pull Request] [Fix rocksdb cache of verified proxy CI](https://github.com/status-im/nimbus-eth1/pull/3767) - 2025-10-15
+* [Pull Request] [Remove remnant of holesky from Makefile](https://github.com/status-im/nimbus-eth1/pull/3787) - 2025-10-23
+* [Pull Request] [Improves keccak256 perf](https://github.com/status-im/nimbus-eth1/pull/3866) - 2025-12-10
+* [Pull Request] [Tidying up bls precompiles](https://github.com/status-im/nimbus-eth1/pull/3870) - 2025-12-11
 * [Pull Request] []() - 2025-12-29
 ## Q3 2025
 

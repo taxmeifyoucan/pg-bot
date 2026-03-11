@@ -10,22 +10,25 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 
 
 [chainsafe/lodestar-z](https://github.com/chainsafe/lodestar-z)
-* [Pull Request] []() - 2026-01-26
-* [Pull Request] []() - 2026-01-28
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-03
-* [Pull Request] []() - 2026-02-04
+* [Pull Request] [feat: blst bindings](https://github.com/ChainSafe/lodestar-z/pull/192) - 2026-01-26
+* [Pull Request] [(do not merge) comptime fn name guarantees for napi bindings](https://github.com/ChainSafe/lodestar-z/pull/198) - 2026-01-28
+* [Pull Request] [refactor: extract napi_property_descriptro helpers](https://github.com/ChainSafe/lodestar-z/pull/201) - 2026-01-30
+* [Pull Request] [feat(napi): extend blst bindings](https://github.com/ChainSafe/lodestar-z/pull/204) - 2026-02-02
+* [Pull Request] [docs(styleguide): looser memory allocation strategy](https://github.com/ChainSafe/lodestar-z/pull/207) - 2026-02-03
+* [Pull Request] [refactor(napi): derive fork instead of using from param in `BeaconStateView_createFromBytes`](https://github.com/ChainSafe/lodestar-z/pull/205) - 2026-02-04
 * [Pull Request] []() - 2026-02-05
 * [Issue] [bindings: investigate long timeout for `hashTreeRoot` test](https://github.com/ChainSafe/lodestar-z/issues/212) - 2026-02-10
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-11
+* [Pull Request] [feat(napi): metrics bindings](https://github.com/ChainSafe/lodestar-z/pull/211) - 2026-02-10
+* [Pull Request] [refactor: effective balance increments](https://github.com/ChainSafe/lodestar-z/pull/213) - 2026-02-11
 
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-03-04
-* [Pull Request] []() - 2026-03-06
-* [Pull Request] []() - 2026-03-10
+* [Pull Request] [fix: make `verify_signatures` default to `false` for `TransitionOpt`](https://github.com/ChainSafe/lodestar-z/pull/221) - 2026-02-24
+* [Pull Request] [feat: fixes to allow lodestar integration](https://github.com/ChainSafe/lodestar-z/pull/218) - 2026-02-25
+* [Pull Request] [refactor(epoch-cache): ownership of `active_indices`](https://github.com/ChainSafe/lodestar-z/pull/229) - 2026-03-04
+* [Pull Request] [feat: mt verify with benchmarks](https://github.com/ChainSafe/lodestar-z/pull/231) - 2026-03-06
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
-* [Pull Request] []() - 2026-02-13
+* [Pull Request] [feat(blst): replace `blst` and `pubkeys` with `lodestar-z`](https://github.com/ChainSafe/lodestar/pull/8900) - 2026-02-13
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Issue] [EIP-8025: optional execution proofs](https://github.com/ChainSafe/lodestar/issues/9016) - 2026-03-10
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Pull Request] [[DO NOT MERGE] native mt + bench all 3 approaches](https://github.com/ChainSafe/lodestar-z/pull/234) - 2026-03-10

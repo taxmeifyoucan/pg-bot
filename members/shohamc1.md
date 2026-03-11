@@ -12,7 +12,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
-* [Pull Request] []() - 2026-01-27
+* [Pull Request] [Make `lastCommittedTxNum` atomic](https://github.com/erigontech/erigon/pull/18820) - 2026-01-27
 ## Q4 2025
 
 

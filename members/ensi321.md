@@ -12,27 +12,30 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2026-01-22
+* [Pull Request] [Add test for execution payload with wrong withdrawals](https://github.com/ethereum/consensus-specs/pull/4856) - 2026-01-22
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [Implement queue for execution payload in Gloas](https://github.com/ChainSafe/lodestar/issues/8811) - 2026-01-30
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-02-26
-* [Pull Request] []() - 2026-03-04
-* [Pull Request] []() - 2026-03-05
+* [Pull Request] [feat: add gloas block import pipeline](https://github.com/ChainSafe/lodestar/pull/8940) - 2026-02-25
+* [Pull Request] [feat: add gloas execution payload envelope import pipeline](https://github.com/ChainSafe/lodestar/pull/8962) - 2026-02-26
+* [Pull Request] [feat: implement epbs fork choice](https://github.com/ChainSafe/lodestar/pull/8739) - 2026-03-04
+* [Pull Request] [fix: payload status on fork chocie init](https://github.com/ChainSafe/lodestar/pull/8987) - 2026-03-05
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [refactor: clone state in processExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9015) - 2026-03-10
 ## Q4 2025
 
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Commit] [Draft 2](https://github.com/ChainSafe/lodestar/commit/4e568ce30988d36e4726b0c569ec2f6dc3f31d3a) - 2025-10-03
 * [Commit] [fix: return spec constants starting with 0x as hex strings instead of decimal (#8495)](https://github.com/ChainSafe/lodestar/commit/894daf8b4487e6c35337a87abaef1f372b5193c6) - 2025-10-06
-* [Pull Request] []() - 2025-10-30
-* [Pull Request] []() - 2025-11-05
+* [Pull Request] [chore: migrate to `consensus-specs` for spec tests](https://github.com/ChainSafe/lodestar/pull/8591) - 2025-10-30
+* [Pull Request] [feat: enable gloas spec tests](https://github.com/ChainSafe/lodestar/pull/8609) - 2025-11-05
 
-* [Pull Request] []() - 2025-11-17
+* [Pull Request] [feat: implement ePBS gossip topics](https://github.com/ChainSafe/lodestar/pull/8616) - 2025-11-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-11-11
-* [Pull Request] []() - 2025-12-19
+* [Pull Request] [Clean up Gloas specs (part 5)](https://github.com/ethereum/consensus-specs/pull/4738) - 2025-11-11
+* [Pull Request] [Refactor `get_weight` and `is_supporting_vote`](https://github.com/ethereum/consensus-specs/pull/4800) - 2025-12-19
 ## Q3 2025
 
 

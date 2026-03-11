@@ -13,12 +13,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Issue] [Warn when dirty prune cache is too low](https://github.com/NethermindEth/nethermind/issues/10142) - 2026-01-08
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-29
-* [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-22
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-03-01
+* [Pull Request] [Fix higher than expected pruning cache memory during forward sync.](https://github.com/NethermindEth/nethermind/pull/10336) - 2026-01-27
+* [Pull Request] [fix: correct Bytes.BytesComparer length comparison ordering](https://github.com/NethermindEth/nethermind/pull/10353) - 2026-01-29
+* [Pull Request] [Remove unused IsPersisted method from TrieStore](https://github.com/NethermindEth/nethermind/pull/10570) - 2026-02-18
+* [Pull Request] [Fix random invalid block](https://github.com/NethermindEth/nethermind/pull/10613) - 2026-02-22
+* [Pull Request] [Perf/simple flat](https://github.com/NethermindEth/nethermind/pull/9854) - 2026-02-25
+* [Pull Request] [Remove global mutable state from Rlp decoder registry](https://github.com/NethermindEth/nethermind/pull/10686) - 2026-03-01
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: Flat/snap sync refactor](https://github.com/NethermindEth/nethermind/pull/10772#pullrequestreview-3925754440) - 2026-03-10
 ## Q4 2025
 
 
@@ -43,14 +46,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [XDC : Snapshot Manager (#9318)](https://github.com/NethermindEth/nethermind/commit/fc220422be392edd27b545026a1081f4f9ed9e18) - 2025-10-13
 * [Commit] [Fix logs in eth_simulate (#9437)](https://github.com/NethermindEth/nethermind/commit/a1e10b65141c1fd689129637ad906c1e655377e7) - 2025-10-13
 * [Commit] [Fix concurrent tree read (#9447)](https://github.com/NethermindEth/nethermind/commit/c5cfd08169511f1043dab34fea375d70cfa43210) - 2025-10-13
-* [Pull Request] []() - 2025-10-14
-* [Pull Request] []() - 2025-10-18
-* [Pull Request] []() - 2025-11-25
-* [Pull Request] []() - 2025-12-01
-* [Pull Request] []() - 2025-12-11
-* [Pull Request] []() - 2025-12-14
-* [Pull Request] []() - 2025-12-27
-* [Pull Request] []() - 2025-12-30
+* [Pull Request] [Fix it maybe](https://github.com/NethermindEth/nethermind/pull/9456) - 2025-10-14
+* [Pull Request] [Test/Do not mutate commit buffer](https://github.com/NethermindEth/nethermind/pull/9498) - 2025-10-18
+* [Pull Request] [fix master build](https://github.com/NethermindEth/nethermind/pull/9769) - 2025-11-25
+* [Pull Request] [Perf/simple flat](https://github.com/NethermindEth/nethermind/pull/9854) - 2025-12-01
+* [Pull Request] [Test/ disable mark persisted](https://github.com/NethermindEth/nethermind/pull/9919) - 2025-12-11
+* [Pull Request] [Fix hanging scenario if persisted node not able to be pruned](https://github.com/NethermindEth/nethermind/pull/9931) - 2025-12-14
+* [Pull Request] [Fix/isStorageEmpty check does not get reflected until after commit.](https://github.com/NethermindEth/nethermind/pull/10039) - 2025-12-27
+* [Pull Request] [Perf/TryGetDirtyNode](https://github.com/NethermindEth/nethermind/pull/10067) - 2025-12-30
 ## Q3 2025
 
 

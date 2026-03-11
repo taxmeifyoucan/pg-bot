@@ -12,9 +12,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
-* [Pull Request] []() - 2026-01-25
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-11
+* [Pull Request] [VC: Add option to publish all attestations for single slot in one call.](https://github.com/status-im/nimbus-eth2/pull/7874) - 2026-01-25
+* [Pull Request] [BN: New syncing algorithm](https://github.com/status-im/nimbus-eth2/pull/7921) - 2026-02-02
+* [Pull Request] [VC: More useful fork waiting log statement.](https://github.com/status-im/nimbus-eth2/pull/7963) - 2026-02-11
 ## Q4 2025
 
 
@@ -40,12 +40,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix unnecessary imports.](https://github.com/status-im/nimbus-eth2/commit/c3c4b4cf9747ab5f8c5faa74110f3c7fd1a5da5f) - 2025-10-09
 * [Commit] [Missing sidecars helper functions.](https://github.com/status-im/nimbus-eth2/commit/71f84e79641777f502eaaa6d1b6c44cf12edca03) - 2025-10-10
 * [Commit] [Fix test_quarantine.](https://github.com/status-im/nimbus-eth2/commit/4421f49b86e016da0739d10791b986e2591bb3d8) - 2025-10-13
-* [Pull Request] []() - 2025-10-20
-* [Pull Request] []() - 2025-10-28
-* [Pull Request] []() - 2025-10-31
-* [Pull Request] []() - 2025-11-07
-* [Pull Request] []() - 2025-11-19
-* [Pull Request] []() - 2025-12-21
+* [Pull Request] [Add more helper functions to ColumnMap structure.](https://github.com/status-im/nimbus-eth2/pull/7632) - 2025-10-20
+* [Pull Request] [ColumnMap initialization](https://github.com/status-im/nimbus-eth2/pull/7672) - 2025-10-28
+* [Pull Request] [VC: Fix incorrect eth-consensus-version value when publishing attestations and aggregated attestations.](https://github.com/status-im/nimbus-eth2/pull/7689) - 2025-10-31
+* [Pull Request] [Add spamoor integration into finalization test.](https://github.com/status-im/nimbus-eth2/pull/7721) - 2025-11-07
+* [Pull Request] [Blob quarantine rewrite to get rid of busy loops.](https://github.com/status-im/nimbus-eth2/pull/7743) - 2025-11-19
+* [Pull Request] [VC: Add fallback mode for multiple beacon nodes.](https://github.com/status-im/nimbus-eth2/pull/7747) - 2025-12-21
 ## Q3 2025
 
 

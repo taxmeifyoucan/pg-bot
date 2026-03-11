@@ -12,14 +12,14 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 
 [nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
-* [Pull Request] []() - 2026-01-06
+* [Pull Request] [[DRAFT] Convert EELS tests to gas-benchmarks format on a stateful network](https://github.com/NethermindEth/gas-benchmarks/pull/95) - 2026-01-06
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Account(storage={}) infinite loop-checks account storage over RPC](https://github.com/ethereum/execution-specs/issues/2162) - 2026-02-09
-* [Pull Request] []() - 2026-02-12
-* [Pull Request] []() - 2026-02-27
-* [Pull Request] []() - 2026-03-04
-* [Pull Request] []() - 2026-03-05
+* [Pull Request] [feat(tests): add hash chain test to test parallel execution benchs](https://github.com/ethereum/execution-specs/pull/2197) - 2026-02-12
+* [Pull Request] [feat(stubs): target contract](https://github.com/ethereum/execution-specs/pull/2357) - 2026-02-27
+* [Pull Request] [fix(benchmarks): move account_query test from compute to stateful](https://github.com/ethereum/execution-specs/pull/2409) - 2026-03-04
+* [Pull Request] [fix(benchmarks): fix fill issues with mint/approve erc20 updates](https://github.com/ethereum/execution-specs/pull/2413) - 2026-03-05
 * [Issue] [Replace temporary gas-repricings specific benchmarks by more general ones](https://github.com/ethereum/execution-specs/issues/2411) - 2026-03-04
 * [Issue] [Existing contracts deployed via deterministic CREATE2 factory are still being deployed](https://github.com/ethereum/execution-specs/issues/2436) - 2026-03-06
 ## Q4 2025
@@ -42,16 +42,16 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Issue] [Using `uv run execute remote` with --engine-endpoint should not require `--rpc-seed-key` and should auto-fund EOA root via PayloadAttributes.withdrawals](https://github.com/ethereum/execution-specs/issues/1620) - 2025-10-16
 * [Issue] [Using `uv run execute remote` with `--rpc-endpoint` requires `--chain-id`, while it should not](https://github.com/ethereum/execution-specs/issues/1619) - 2025-10-16
 * [Issue] [Feature request: read results of the generated blocks/txs](https://github.com/ethereum/execution-specs/issues/1618) - 2025-10-16
-* [Pull Request] []() - 2025-11-07
-* [Pull Request] []() - 2025-11-10
-* [Pull Request] []() - 2025-11-15
+* [Pull Request] [feat(tests): add XEN tests](https://github.com/ethereum/execution-specs/pull/1766) - 2025-11-07
+* [Pull Request] [feat(tests): add gas-repricings SLOAD tests](https://github.com/ethereum/execution-specs/pull/1769) - 2025-11-10
+* [Pull Request] [feat(tests): add more sload/sstore combos](https://github.com/ethereum/execution-specs/pull/1794) - 2025-11-15
 
-* [Pull Request] []() - 2025-12-04
+* [Pull Request] [feat(benchmarks): add keccak benchmark with updated memory](https://github.com/ethereum/execution-specs/pull/1849) - 2025-12-04
 * [Issue] [Benchmarks: implement non-parallelizable benchmarks for split transactions](https://github.com/ethereum/execution-specs/issues/1881) - 2025-12-10
-* [Pull Request] []() - 2025-12-16
+* [Pull Request] [feat(tests): add 7702 auth chain id 0x00 test (invalid)](https://github.com/ethereum/execution-specs/pull/1905) - 2025-12-16
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
-* [Pull Request] []() - 2025-11-17
-* [Pull Request] []() - 2025-12-17
+* [Pull Request] [EVM: ensure codeAddress in step event is correctly set](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4189) - 2025-11-17
+* [Pull Request] [EIP-7702: unpad bytes in case of hex-string "0x0" inputs for authorization list fields](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4209) - 2025-12-17
 * [Pull Request] []() - 2025-12-24
 ## Q3 2025
 

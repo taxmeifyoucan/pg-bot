@@ -12,27 +12,32 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
-* [Pull Request] []() - 2026-01-12
+* [Pull Request] [trie: introduce expired nodes](https://github.com/gballet/go-ethereum/pull/556) - 2026-01-12
 * [Issue] [expired nodes: figure a better encoding for paths](https://github.com/gballet/go-ethereum/issues/559) - 2026-01-19
 * [Issue] [expired nodes: use better encoding](https://github.com/gballet/go-ethereum/issues/558) - 2026-01-19
 * [Issue] [expired nodes: don't resurrect siblings, just update in-place](https://github.com/gballet/go-ethereum/issues/557) - 2026-01-19
 * [Pull Request] []() - 2026-01-20
 
-* [Pull Request] []() - 2026-01-25
-* [Pull Request] []() - 2026-02-07
-* [Pull Request] []() - 2026-03-04
+* [Pull Request] [trie, cmd/geth: add archiver command](https://github.com/gballet/go-ethereum/pull/563) - 2026-01-25
+* [Pull Request] [first solution](https://github.com/gballet/go-ethereum/pull/565) - 2026-02-07
+* [Pull Request] [various bugfixes found while testing](https://github.com/gballet/go-ethereum/pull/570) - 2026-03-04
+* [Review] [Review on: trie/bintrie: fix grouped InternalNode serialization path mismatch](https://github.com/gballet/go-ethereum/pull/569#pullrequestreview-3921626308) - 2026-03-10
+* [Review] [Review on: trie/bintrie: fix grouped InternalNode serialization path mismatch](https://github.com/gballet/go-ethereum/pull/569#pullrequestreview-3923670025) - 2026-03-10
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-* [Pull Request] []() - 2026-01-24
-* [Pull Request] []() - 2026-01-26
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-03
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-02-26
-* [Pull Request] []() - 2026-02-27
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [cmd/keeper, metrics: tamago build + zisk support](https://github.com/ethereum/go-ethereum/pull/33678) - 2026-01-24
+* [Pull Request] [cmd/keeper: export getInput in wasm builds](https://github.com/ethereum/go-ethereum/pull/33686) - 2026-01-26
+* [Pull Request] [cmd/geth: add subcommand for offline binary tree conversion](https://github.com/ethereum/go-ethereum/pull/33740) - 2026-02-02
+* [Pull Request] [trie/bintrie: fix debug_executionWitness for binary tree](https://github.com/ethereum/go-ethereum/pull/33739) - 2026-02-03
+* [Pull Request] [AGENTS.md: add AGENTS.md with guidelines for AI agents](https://github.com/ethereum/go-ethereum/pull/33890) - 2026-02-24
+* [Pull Request] [trie, cmd/geth: resurrect trie nodes from archive + archival command](https://github.com/ethereum/go-ethereum/pull/33906) - 2026-02-26
+* [Pull Request] [trie/bintrie: fix endianness in code chunk key computation](https://github.com/ethereum/go-ethereum/pull/33900) - 2026-02-27
+* [Pull Request] [core: fix TestProcessVerkle flaky test](https://github.com/ethereum/go-ethereum/pull/33971) - 2026-03-06
 
+* [Review] [Review on: cmd/geth: add Prague pruning points](https://github.com/ethereum/go-ethereum/pull/33657#pullrequestreview-3924933292) - 2026-03-10
+* [Review] [Review on: core/tracing: fix nonce revert edge case](https://github.com/ethereum/go-ethereum/pull/33978#pullrequestreview-3923530275) - 2026-03-10
+* [Review] [Review on: core, miner, tests: introduce codedb and simplify cachingDB](https://github.com/ethereum/go-ethereum/pull/33816#pullrequestreview-3920343071) - 2026-03-10
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [Update EIP-7864: encode offset as big endian](https://github.com/ethereum/EIPs/pull/11389) - 2026-03-09
 ## Q4 2025
 
 
@@ -45,12 +50,12 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [fix Stateless Consensus merging issue](https://github.com/protocolguild/documentation/pull/435) - 2025-10-07
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-* [Pull Request] []() - 2025-10-14
-* [Pull Request] []() - 2025-10-22
+* [Pull Request] [.github: add 32-bit CI targets](https://github.com/ethereum/go-ethereum/pull/32911) - 2025-10-14
+* [Pull Request] [crypto: implement ziren keccak state](https://github.com/ethereum/go-ethereum/pull/32996) - 2025-10-22
 
-* [Pull Request] []() - 2025-12-19
+* [Pull Request] [trie, go.mod: remove all references to go-verkle and go-ipa](https://github.com/ethereum/go-ethereum/pull/33461) - 2025-12-19
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-10-27
+* [Pull Request] [Update EIP-2926: refine transition description and refer to 8032](https://github.com/ethereum/EIPs/pull/10629) - 2025-10-27
 ## Q3 2025
 
 

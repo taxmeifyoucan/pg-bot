@@ -12,22 +12,22 @@ Team: Grandine
 
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
-* [Pull Request] []() - 2026-01-08
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [Update peerdas metrics](https://github.com/grandinetech/grandine/pull/565) - 2026-01-08
+* [Pull Request] [Add `--supernode` and `--semi-supernode` command line options](https://github.com/grandinetech/grandine/pull/573) - 2026-01-21
 * [Pull Request] []() - 2026-01-22
-* [Pull Request] []() - 2026-01-29
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-06
-* [Pull Request] []() - 2026-02-09
+* [Pull Request] [Use client versions in builder blocks](https://github.com/grandinetech/grandine/pull/580) - 2026-01-29
+* [Pull Request] [Add Grandine version to metrics](https://github.com/grandinetech/grandine/pull/586) - 2026-02-02
+* [Pull Request] [Update eth2_libp2p](https://github.com/grandinetech/grandine/pull/595) - 2026-02-06
+* [Pull Request] [Add tracing instrumentation to Beacon API](https://github.com/grandinetech/grandine/pull/598) - 2026-02-09
 * [Pull Request] []() - 2026-02-17
 * [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-02-25
+* [Pull Request] [Store checkpoint state during syncing every archival epoch interval](https://github.com/grandinetech/grandine/pull/609) - 2026-02-24
+* [Pull Request] [Fix sync start issue when head is considered 'forward_synced'](https://github.com/grandinetech/grandine/pull/610) - 2026-02-25
 * [Pull Request] []() - 2026-02-26
-* [Pull Request] []() - 2026-03-02
-* [Pull Request] []() - 2026-03-03
+* [Pull Request] [Add `--data-availability-window` CLI argument](https://github.com/grandinetech/grandine/pull/628) - 2026-03-02
+* [Pull Request] [Upgrade crates and replace `bincode` with `wincode` & bump Rust version](https://github.com/grandinetech/grandine/pull/630) - 2026-03-03
 * [Pull Request] []() - 2026-03-04
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [Update dependencies](https://github.com/grandinetech/grandine/pull/632) - 2026-03-09
 ## Q4 2025
 
 
@@ -37,21 +37,21 @@ Team: Grandine
 * [Pull Request] [Fix typos](https://github.com/grandinetech/grandine/pull/414) - 2025-10-09
 * [Pull Request] [Check data availability ranges in range requests](https://github.com/grandinetech/grandine/pull/413) - 2025-10-09
 * [Commit] [Take into account `earliest_available_slot` when build sync batches](https://github.com/grandinetech/grandine/commit/4db1043b56facfb0992496e8a500e5b65edff225) - 2025-10-13
-* [Pull Request] []() - 2025-10-14
-* [Pull Request] []() - 2025-10-22
-* [Pull Request] []() - 2025-10-23
-* [Pull Request] []() - 2025-10-24
-* [Pull Request] []() - 2025-10-28
-* [Pull Request] []() - 2025-11-07
-* [Pull Request] []() - 2025-11-18
-* [Pull Request] []() - 2025-11-21
-* [Pull Request] []() - 2025-11-24
-* [Pull Request] []() - 2025-11-28
-* [Pull Request] []() - 2025-12-08
-* [Pull Request] []() - 2025-12-11
-* [Pull Request] []() - 2025-12-12
-* [Pull Request] []() - 2025-12-18
-* [Pull Request] []() - 2025-12-21
+* [Pull Request] [Import blocks if 50% columns accepted](https://github.com/grandinetech/grandine/pull/424) - 2025-10-14
+* [Pull Request] [Don't use `RUST_LOG` when setting up logging filters](https://github.com/grandinetech/grandine/pull/440) - 2025-10-22
+* [Pull Request] [Don't error on ignore result when publishing via beacon API](https://github.com/grandinetech/grandine/pull/442) - 2025-10-23
+* [Pull Request] [Enforce stricter `verify_kzg_proofs` result checks](https://github.com/grandinetech/grandine/pull/445) - 2025-10-24
+* [Pull Request] [Update Rust to 1.90.0](https://github.com/grandinetech/grandine/pull/448) - 2025-10-28
+* [Pull Request] [Update Rust edition to 2024](https://github.com/grandinetech/grandine/pull/471) - 2025-11-07
+* [Pull Request] [Export telemetry metrics to the specified gRPC collector](https://github.com/grandinetech/grandine/pull/487) - 2025-11-18
+* [Pull Request] [Reduce block root computations](https://github.com/grandinetech/grandine/pull/492) - 2025-11-21
+* [Pull Request] [Add `--disable-http-api` CLI argument](https://github.com/grandinetech/grandine/pull/497) - 2025-11-24
+* [Pull Request] [Tracing fixes](https://github.com/grandinetech/grandine/pull/501) - 2025-11-28
+* [Pull Request] [Spawn state cache pruning task from `Mutator` instead of locking within `Store`](https://github.com/grandinetech/grandine/pull/522) - 2025-12-08
+* [Pull Request] [Return `PhaseError` on block/state phase mismatch when processing blocks](https://github.com/grandinetech/grandine/pull/533) - 2025-12-11
+* [Pull Request] [Add missing values to `Config` (#534)](https://github.com/grandinetech/grandine/pull/535) - 2025-12-12
+* [Pull Request] [Offload back sync batch validation to a low-priority dedicated executor](https://github.com/grandinetech/grandine/pull/542) - 2025-12-18
+* [Pull Request] [Revert "Reduce block root computations"](https://github.com/grandinetech/grandine/pull/544) - 2025-12-21
 ## Q3 2025
 
 

@@ -12,24 +12,24 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
-* [Pull Request] []() - 2026-01-05
-* [Pull Request] []() - 2026-01-06
+* [Pull Request] [update EEST to v5.4.0](https://github.com/status-im/nimbus-eth1/pull/3894) - 2026-01-05
+* [Pull Request] [getBlobV3 implementation](https://github.com/status-im/nimbus-eth1/pull/3893) - 2026-01-06
 
-* [Pull Request] []() - 2026-01-17
-* [Pull Request] []() - 2026-01-18
-* [Pull Request] []() - 2026-02-04
+* [Pull Request] [incorrect rlp import shouldn't close the client](https://github.com/status-im/nimbus-eth1/pull/3921) - 2026-01-17
+* [Pull Request] [incorrect rlp import shouldn't close the client](https://github.com/status-im/nimbus-eth1/pull/3921) - 2026-01-18
+* [Pull Request] [Single binary release](https://github.com/status-im/nimbus-eth1/pull/3966) - 2026-02-04
 * [Issue] [shift release to docker multi-arch](https://github.com/status-im/nimbus-eth1/issues/3972) - 2026-02-10
-* [Pull Request] []() - 2026-02-16
-* [Pull Request] []() - 2026-02-17
-* [Pull Request] []() - 2026-02-20
-* [Pull Request] []() - 2026-02-21
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-02-26
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [introduce multiarch manifest push in release](https://github.com/status-im/nimbus-eth1/pull/3988) - 2026-02-16
+* [Pull Request] [fix macos docker builds ](https://github.com/status-im/nimbus-eth1/pull/3992) - 2026-02-17
+* [Pull Request] [switch to `Nimbus`  from `NimbusExecutionClient`](https://github.com/status-im/nimbus-eth1/pull/4002) - 2026-02-20
+* [Pull Request] [switch to `Nimbus`  from `NimbusExecutionClient`](https://github.com/status-im/nimbus-eth1/pull/4002) - 2026-02-21
+* [Pull Request] [remove `blk` from BlockRef](https://github.com/status-im/nimbus-eth1/pull/4014) - 2026-02-24
+* [Pull Request] [check for FC corruption while loading](https://github.com/status-im/nimbus-eth1/pull/4023) - 2026-02-26
+* [Pull Request] [Optimize sync memory](https://github.com/status-im/nimbus-eth1/pull/4038) - 2026-03-09
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-01-19
-* [Pull Request] []() - 2026-03-02
+* [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-16
+* [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-19
+* [Pull Request] [clients/nimbus-el: update nimbus-el to unified client](https://github.com/ethereum/hive/pull/1396) - 2026-03-02
 ## Q4 2025
 
 

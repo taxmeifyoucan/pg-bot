@@ -34,7 +34,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Commit] [fix patch](https://github.com/paradigmxyz/reth/commit/095d93457e866b8d86c77cedb9a07a25deead3f3) - 2025-10-10
 * [Pull Request] [chore(ci): update eest 7594 issue link in hive expected failures file](https://github.com/paradigmxyz/reth/pull/18976) - 2025-10-13
 * [Issue] [Fix eest eip7594_peerdas/test_max_blob_per_tx](https://github.com/paradigmxyz/reth/issues/18975) - 2025-10-13
-* [Pull Request] []() - 2025-10-20
+* [Pull Request] [feat(e2e): add builder API for configuring test node setups](https://github.com/paradigmxyz/reth/pull/19146) - 2025-10-20
 * [Issue] [Add example for custom chain hardforks](https://github.com/paradigmxyz/reth/issues/19285) - 2025-10-24
 * [Issue] [Add CLI flags to enable RocksDB storage](https://github.com/paradigmxyz/reth/issues/20393) - 2025-12-15
 * [Issue] [Initialize RocksDB provider and add consistency check on startup](https://github.com/paradigmxyz/reth/issues/20392) - 2025-12-15
@@ -46,7 +46,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Issue] [Register column families at RocksDB initialization](https://github.com/paradigmxyz/reth/issues/20386) - 2025-12-15
 * [Issue] [Wire up RocksDB for TransactionHashNumbers and StoragesHistory tables](https://github.com/paradigmxyz/reth/issues/20384) - 2025-12-15
 * [Issue] [Create E2E test to verify RocksDB provider functionality](https://github.com/paradigmxyz/reth/issues/20424) - 2025-12-16
-* [Pull Request] []() - 2025-12-18
+* [Pull Request] [feat(stages): use EitherWriter for TransactionLookupStage RocksDB writes](https://github.com/paradigmxyz/reth/pull/20428) - 2025-12-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Federico Gimenez 1 -> 0.5](https://github.com/protocolguild/documentation/pull/430) - 2025-10-04
 
@@ -54,7 +54,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 * [Issue] [Flaky "Invalid Missing Ancestor Syncing ReOrg" tests fail when payload contains no transactions](https://github.com/ethereum/hive/issues/1351) - 2025-10-07
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
-* [Pull Request] []() - 2025-10-15
+* [Pull Request] [chore(cli): update max fee per blob gas limit for reth exception mapper](https://github.com/ethereum/execution-spec-tests/pull/2300) - 2025-10-15
 ## Q3 2025
 
 

@@ -12,10 +12,10 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
-* [Pull Request] []() - 2026-01-09
+* [Pull Request] [Optimize success response of engine_getBlobsV2 (and slow down non-success)](https://github.com/NethermindEth/nethermind/pull/10159) - 2026-01-09
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-01-12
+* [Pull Request] [Update EIP-8096: change reprice to double](https://github.com/ethereum/EIPs/pull/11063) - 2026-01-12
 ## Q4 2025
 
 
@@ -26,10 +26,10 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [debug endpoint](https://github.com/NethermindEth/nethermind/commit/cc4c4e47f4c8c438927d006164df38fa760a1045) - 2025-10-03
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-* [Pull Request] []() - 2025-12-01
+* [Pull Request] [Add RPC endpoint testing_buildBlockV1](https://github.com/ethereum/execution-apis/pull/710) - 2025-12-01
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-12-23
+* [Pull Request] [Add EIP: Increase Gas Cost of Point Evaluation](https://github.com/ethereum/EIPs/pull/10864) - 2025-12-23
 ## Q3 2025
 
 

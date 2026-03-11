@@ -12,12 +12,17 @@ Team: Reth
 
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
-* [Pull Request] []() - 2026-01-07
+* [Pull Request] [Add Brian Picciano from Reth](https://github.com/protocolguild/documentation/pull/460) - 2026-01-07
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
-* [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-21
-* [Pull Request] []() - 2026-03-05
+* [Pull Request] [ci(bench): ABBA run order](https://github.com/paradigmxyz/reth/pull/22335) - 2026-02-18
+* [Pull Request] [[autoopt] Amortize MDBX transaction timeout checking to reduce Cell::get overhead](https://github.com/paradigmxyz/reth/pull/22464) - 2026-02-21
+* [Pull Request] [feat(reth-bench): `--reorg` flag](https://github.com/paradigmxyz/reth/pull/22818) - 2026-03-05
+* [Review] [Review on: feat: enable PGO in release and docker workflows](https://github.com/paradigmxyz/reth/pull/21441#pullrequestreview-3926062921) - 2026-03-10
+* [Review] [Review on: fix(ci): remove issue_comment: edited from bench trigger](https://github.com/paradigmxyz/reth/pull/22925#pullrequestreview-3923553339) - 2026-03-10
+* [Review] [Review on: ci(bench): add metrics proxy with subnet binding and tracy upload](https://github.com/paradigmxyz/reth/pull/22752#pullrequestreview-3924097803) - 2026-03-10
+* [Review] [Review on: chore: rm thunderdome refs](https://github.com/paradigmxyz/reth/pull/22927#pullrequestreview-3924639209) - 2026-03-10
+* [Review] [Review on: fix(bench): retry HTTP 502 errors in block provider](https://github.com/paradigmxyz/reth/pull/22916#pullrequestreview-3921972122) - 2026-03-10
 ## Q4 2025
 
 
@@ -40,18 +45,18 @@ Team: Reth
 * [Commit] [ci: remove reproducible build from release.yml](https://github.com/paradigmxyz/reth/commit/eef09eff41289a4e9fcaca261a94b61c914b7024) - 2025-10-13
 * [Issue] [TransactionHashNumbers static files segment](https://github.com/paradigmxyz/reth/issues/19035) - 2025-10-15
 * [Issue] [Support pushing Prometheus metrics to a remote URL](https://github.com/paradigmxyz/reth/issues/19229) - 2025-10-22
-* [Pull Request] []() - 2025-10-24
+* [Pull Request] [feat(tracing): set default OTLP log level to WARN](https://github.com/paradigmxyz/reth/pull/19283) - 2025-10-24
 * [Issue] [Payload validator cleanup after `ConsistentDbView` removal](https://github.com/paradigmxyz/reth/issues/19341) - 2025-10-28
-* [Pull Request] []() - 2025-11-01
+* [Pull Request] [refactor(provider, cli): simplify getting provider for index or range](https://github.com/paradigmxyz/reth/pull/19440) - 2025-11-01
 * [Issue] [Make sure that we can just delete static files and it will not break provider access](https://github.com/paradigmxyz/reth/issues/19589) - 2025-11-07
-* [Pull Request] []() - 2025-11-08
-* [Pull Request] []() - 2025-11-15
+* [Pull Request] [refactor(provider): introduce `EitherWriter::new_receipts`](https://github.com/paradigmxyz/reth/pull/19600) - 2025-11-08
+* [Pull Request] [refactor(provider): `EitherWriter::prune_receipts`](https://github.com/paradigmxyz/reth/pull/19772) - 2025-11-15
 * [Issue] [Tracing performance degradation](https://github.com/paradigmxyz/reth/issues/20058) - 2025-12-01
 * [Issue] [Make TxPoolArgs defaults customizable](https://github.com/paradigmxyz/reth/issues/20098) - 2025-12-03
 * [Issue] [Use depot for Docker CI workflows](https://github.com/paradigmxyz/reth/issues/20239) - 2025-12-09
 * [Issue] [Use sccache in CI](https://github.com/paradigmxyz/reth/issues/20238) - 2025-12-09
 * [Issue] [Recover senders for imported network transactions in a blocking task](https://github.com/paradigmxyz/reth/issues/20271) - 2025-12-10
-* [Pull Request] []() - 2025-12-10
+* [Pull Request] [ci: sccache](https://github.com/paradigmxyz/reth/pull/20265) - 2025-12-10
 * [Issue] [Make RpcServerArgs defaults customizable](https://github.com/paradigmxyz/reth/issues/20305) - 2025-12-11
 * [Issue] [Measure and maybe cache precompile cache initialization in payload execution](https://github.com/paradigmxyz/reth/issues/20439) - 2025-12-16
 * [Issue] [Remove fork detection logic in insert_block](https://github.com/paradigmxyz/reth/issues/20438) - 2025-12-16
@@ -65,7 +70,7 @@ Team: Reth
 * [Issue] [Add thread names for spawned blocking tasks](https://github.com/paradigmxyz/reth/issues/20430) - 2025-12-16
 
 [bluealloy/revm](https://github.com/bluealloy/revm)
-* [Pull Request] []() - 2025-12-17
+* [Pull Request] [perf(database): avoid triple cache lookup](https://github.com/bluealloy/revm/pull/3232) - 2025-12-17
 ## Q3 2025
 
 

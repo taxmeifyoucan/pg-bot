@@ -12,7 +12,7 @@ Team: Grandine
 
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
-* [Pull Request] []() - 2026-02-27
+* [Pull Request] [Bumped Grandine version to 2.0.2](https://github.com/grandinetech/grandine/pull/616) - 2026-02-27
 ## Q4 2025
 
 
@@ -23,10 +23,10 @@ Team: Grandine
 * [Issue] [Upgrade rust-kzg](https://github.com/grandinetech/grandine/issues/408) - 2025-10-08
 * [Issue] [Duoble check the we don't have the vulnerabilities that were discovered in other clients during recent audits.](https://github.com/grandinetech/grandine/issues/407) - 2025-10-08
 * [Issue] [Fix exeption.log file path](https://github.com/grandinetech/grandine/issues/451) - 2025-10-30
-* [Pull Request] []() - 2025-11-05
+* [Pull Request] [Upgrade crates](https://github.com/grandinetech/grandine/pull/466) - 2025-11-05
 
 [ethereum/pm](https://github.com/ethereum/pm)
-* [Pull Request] []() - 2025-12-02
+* [Pull Request] [Update fusaka-mainnet-plan.md](https://github.com/ethereum/pm/pull/1830) - 2025-12-02
 ## Q3 2025
 
 

@@ -12,7 +12,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-10-24
+* [Pull Request] [eip7732: add gossip rule for old payloads](https://github.com/ethereum/consensus-specs/pull/4695) - 2025-10-24
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [Gloas Range Sync Modifications](https://github.com/sigp/lighthouse/issues/8341) - 2025-10-30

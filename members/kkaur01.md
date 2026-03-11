@@ -12,7 +12,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu)
 
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
-* [Pull Request] []() - 2026-02-20
+* [Pull Request] [refactor: move isRevertReasonEnabled into DataStorageConfiguration](https://github.com/besu-eth/besu/pull/9858) - 2026-02-20
+* [Pull Request] [fix(metrics): prevent duplicate OTel callback registration (#9653)](https://github.com/besu-eth/besu/pull/9957) - 2026-03-10
+* [Commit] [fix(metrics): prevent duplicate OTel callback registration (#9653) (#9957)](https://github.com/besu-eth/besu/commit/2ed7ff708c24ce623b4e140f71f8c96dfd81562d) - 2026-03-10
 ## Q2 2025
 
 

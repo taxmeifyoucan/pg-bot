@@ -12,21 +12,21 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
-* [Pull Request] []() - 2026-01-06
+* [Pull Request] [chore(test-*): fix typos in `packages/testing/`](https://github.com/ethereum/execution-specs/pull/1969) - 2026-01-06
 * [Issue] [Update 2026 EIP Championing Document with news docs link](https://github.com/ethereum/execution-specs/issues/1994) - 2026-01-08
-* [Pull Request] []() - 2026-01-08
+* [Pull Request] [chore(test-fill): fix pytest warnings in console test summary](https://github.com/ethereum/execution-specs/pull/1993) - 2026-01-08
 * [Issue] [Automate cold-access transaction splitting for stateful benchmarks](https://github.com/ethereum/execution-specs/issues/1991) - 2026-01-08
-* [Pull Request] []() - 2026-01-12
-* [Pull Request] []() - 2026-01-14
+* [Pull Request] [fix(test-tests): prevent race condition in gentest tests w/xdist](https://github.com/ethereum/execution-specs/pull/2009) - 2026-01-12
+* [Pull Request] [chore(tooling): add initial claude config and skills](https://github.com/ethereum/execution-specs/pull/2024) - 2026-01-14
 
-* [Pull Request] []() - 2026-01-27
+* [Pull Request] [feat(test-fill,test-specs): add t8n call caching to test specs](https://github.com/ethereum/execution-specs/pull/2084) - 2026-01-27
 * [Issue] [Reduce memory when merging partial fixture files](https://github.com/ethereum/execution-specs/issues/2123) - 2026-02-03
 * [Pull Request] []() - 2026-02-08
 * [Issue] [Add heuristic to determine xdist worker count in `pytest_xdist_auto_num_workers`](https://github.com/ethereum/execution-specs/issues/2163) - 2026-02-09
 * [Issue] [Enable t8n caching for state_test on Paris/Shanghai](https://github.com/ethereum/execution-specs/issues/2225) - 2026-02-17
 * [Issue] [Consider reducing fixture size for `account_query` (16 GB) and `unchunkified_bytecode` (13 GB)](https://github.com/ethereum/execution-specs/issues/2223) - 2026-02-17
 * [Issue] [Use historically-accurate per-fork block gas limits](https://github.com/ethereum/execution-specs/issues/2230) - 2026-02-18
-* [Pull Request] []() - 2026-02-20
+* [Pull Request] [feat(test-fixtures): add BlockchainEngineStatefulFixture format](https://github.com/ethereum/execution-specs/pull/2169) - 2026-02-20
 * [Issue] [Also, as this file is...](https://github.com/ethereum/execution-specs/issues/2284) - 2026-02-23
 * [Issue] [Improve branch documentation (also for packages/testing contributions)](https://github.com/ethereum/execution-specs/issues/2278) - 2026-02-23
 * [Issue] [Bump default uv version used in CI](https://github.com/ethereum/execution-specs/issues/2324) - 2026-02-25
@@ -37,13 +37,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Add possibility to dry-run CI without the uv cache](https://github.com/ethereum/execution-specs/issues/2376) - 2026-03-01
 * [Issue] [Re-enable `test_get_blobs` in devnet tests/`hiveview`](https://github.com/ethereum/execution-specs/issues/2391) - 2026-03-03
 * [Issue] [Add `execute hive` System Test to CI](https://github.com/ethereum/execution-specs/issues/2390) - 2026-03-03
+* [Pull Request] [feat(test-consume): initial implementation of the enginex simulator](https://github.com/ethereum/execution-specs/pull/1964) - 2026-03-10
+* [Commit] [feat(test-consume): initial implementation of the enginex simulator (#1964)](https://github.com/ethereum/execution-specs/commit/212389ab07088d68556bc488a9d6b356b7c6a4cb) - 2026-03-10
+* [Review] [Review on: feat(test-consume): initial implementation of the enginex simulator](https://github.com/ethereum/execution-specs/pull/1964#pullrequestreview-3923666913) - 2026-03-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
-* [Pull Request] []() - 2026-01-23
+* [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2026-02-23
+* [Pull Request] [fix: switch erigon dockerfiles from Alpine to Debian](https://github.com/ethereum/hive/pull/1390) - 2026-02-23
 
-* [Pull Request] []() - 2026-03-10
+* [Pull Request] [hivesim,libhive,simulators/ethereum/engine: apply gofmt; clean-up whitespace](https://github.com/ethereum/hive/pull/1401) - 2026-03-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #73, March 9, 2026](https://github.com/ethereum/pm/issues/1956) - 2026-03-03
 ## Q4 2025
@@ -55,7 +58,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 * [Pull Request] [Use non-editable installs for test generators](https://github.com/ethereum/consensus-specs/pull/4634) - 2025-10-03
 * [Issue] [Editable installs + multiprocessing break vector generation](https://github.com/ethereum/consensus-specs/issues/4633) - 2025-10-03
-* [Pull Request] []() - 2025-10-21
+* [Pull Request] [Always reinstall `eth2spec` for non-editable installs](https://github.com/ethereum/consensus-specs/pull/4676) - 2025-10-21
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [Deployed 28ca6decef3 to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/e4b71f3c74639dd3b2b475f32b3e0828036f05f1) - 2025-10-02
 * [Commit] [Deployed ae9b597612c to main with MkDocs 1.6.1 and mike 1.1.2](https://github.com/ethereum/execution-spec-tests/commit/1d57fb4149540151a16a025783f76eff24439df4) - 2025-10-02
@@ -103,23 +106,23 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [feat(evm): add extended tracing to ethereum-spec-evm t8n interface](https://github.com/ethereum/execution-specs/issues/1468) - 2025-10-09
 * [Issue] [bug(gentest,rpc): `gentest` rpc error with `unexpected keyword argument 'extra_headers'`](https://github.com/ethereum/execution-specs/issues/1623) - 2025-10-16
 * [Issue] [feat(fill,execute,benchmark): test selection via pytest's `testpaths` instead of markers via `--mode`](https://github.com/ethereum/execution-specs/issues/1616) - 2025-10-16
-* [Pull Request] []() - 2025-10-22
+* [Pull Request] [refactor(testing): improve layout and naming of `testing` packages](https://github.com/ethereum/execution-specs/pull/1654) - 2025-10-22
 * [Issue] [Reduce HTML file size in the reference test documentation](https://github.com/ethereum/execution-specs/issues/1662) - 2025-10-23
 * [Issue] [Running `fill` generates `PytestAssertRewriteWarning` for `custom_logging` plugin](https://github.com/ethereum/execution-specs/issues/1676) - 2025-10-24
 * [Issue] [Ensure `uv run eest make test` calls `ruff` and formats the generated test module correctly](https://github.com/ethereum/execution-specs/issues/1675) - 2025-10-24
 * [Issue] [Fix target directory for `env.yaml` with `eest make env` when ran from package](https://github.com/ethereum/execution-specs/issues/1674) - 2025-10-24
 * [Issue] [Update documentation for testing Package Renaming (Follow-up to PR #1654)](https://github.com/ethereum/execution-specs/issues/1672) - 2025-10-24
-* [Pull Request] []() - 2025-10-27
+* [Pull Request] [chore(deps,tooling): move `dev` extras to `dependency-group`](https://github.com/ethereum/execution-specs/pull/1688) - 2025-10-27
 * [Issue] [Don't format generated code from `gentest` and `eest make test` if `ruff` is not present](https://github.com/ethereum/execution-specs/issues/1715) - 2025-10-29
 * [Issue] [Update docs for the change from `optional-dependencies` (extras) to `dependency_groups`](https://github.com/ethereum/execution-specs/issues/1713) - 2025-10-29
 * [Issue] [chore(docs): re-enable benchmark test documentation](https://github.com/ethereum/execution-specs/issues/1756) - 2025-11-05
 * [Issue] [Add versioning for mkdocs pages and rendered spec](https://github.com/ethereum/execution-specs/issues/1772) - 2025-11-11
-* [Pull Request] []() - 2025-11-16
+* [Pull Request] [fix(ci): fix hive config file path action](https://github.com/ethereum/execution-specs/pull/1796) - 2025-11-16
 
 * [Issue] [Augment `BenchmarkTestFiller` with opcode under test and its expected count](https://github.com/ethereum/execution-specs/issues/1835) - 2025-12-03
 * [Issue] [Review and remove (or port?) static transient storage test cases](https://github.com/ethereum/execution-specs/issues/1957) - 2025-12-30
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-11-19
+* [Pull Request] [Update EIP-7723: Update to reflect that execution-spec-tests no longer accepts PRs](https://github.com/ethereum/EIPs/pull/10814) - 2025-11-19
 ## Q3 2025
 
 

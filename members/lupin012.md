@@ -12,27 +12,33 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
-* [Pull Request] []() - 2026-01-02
+* [Pull Request] [rpc: add benchEstimateGas](https://github.com/erigontech/erigon/pull/18539) - 2026-01-02
 * [Pull Request] []() - 2026-01-03
-* [Pull Request] []() - 2026-01-08
+* [Pull Request] [QA: update rpcTest version](https://github.com/erigontech/erigon/pull/18592) - 2026-01-08
 
-* [Pull Request] []() - 2026-01-25
-* [Pull Request] []() - 2026-02-21
-* [Pull Request] []() - 2026-03-03
-* [Pull Request] []() - 2026-03-07
+* [Pull Request] [rpc: add blockRangeLimit param for API works on blocks range](https://github.com/erigontech/erigon/pull/18798) - 2026-01-25
+* [Pull Request] [rpc: fix GetBlockTransactionCountByNumber with Pending](https://github.com/erigontech/erigon/pull/19335) - 2026-02-21
+* [Pull Request] [rpc: impl trace_rawTransaction](https://github.com/erigontech/erigon/pull/19524) - 2026-03-03
+* [Pull Request] [rpc: add --rpc.logs.maxresults limit on log rpc-API](https://github.com/erigontech/erigon/pull/19721) - 2026-03-07
 * [Issue] [Rpcdaemon: eth_getBlockReceipts triggers OS OOM killer during performance tests.](https://github.com/erigontech/erigon/issues/19720) - 2026-03-07
 * [Issue] [Erigon is OOM killed by OS during eth_getLogs()](https://github.com/erigontech/erigon/issues/19719) - 2026-03-07
+* [Pull Request] [rpc: fix eth_createAccessList ](https://github.com/erigontech/erigon/pull/19688) - 2026-03-10
+* [Pull Request] [rpc: fix eth_estimateGas](https://github.com/erigontech/erigon/pull/19621) - 2026-03-10
+* [Commit] [rpc: fix eth_createAccessList  (#19688)](https://github.com/erigontech/erigon/commit/9544a1914a2faa67c7635834bd8f6549f8c476b7) - 2026-03-10
+* [Commit] [rpc: fix eth_estimateGas (#19621)](https://github.com/erigontech/erigon/commit/0596d89cdde87f41b94b897e52bd8f3ea075abaf) - 2026-03-10
+* [Review] [Review on: rpc: eth_gasPrice() fix & optimisation](https://github.com/erigontech/erigon/pull/19678#pullrequestreview-3924912823) - 2026-03-10
+* [Review] [Review on: rpc: eth_gasPrice() fix & optimisation](https://github.com/erigontech/erigon/pull/19678#pullrequestreview-3924913799) - 2026-03-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
-* [Pull Request] []() - 2026-01-11
-* [Pull Request] []() - 2026-01-15
-* [Pull Request] []() - 2026-01-24
+* [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
+* [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15
+* [Pull Request] [integration: fix expected result for some tests on latest](https://github.com/erigontech/rpc-tests/pull/512) - 2026-01-24
 * [Pull Request] []() - 2026-01-31
-* [Pull Request] []() - 2026-02-04
-* [Pull Request] []() - 2026-02-15
-* [Pull Request] []() - 2026-02-17
+* [Pull Request] [integration: debug_trace* fix gas cost in case out of gas](https://github.com/erigontech/rpc-tests/pull/516) - 2026-02-04
+* [Pull Request] [integration: debug_traceBlockByNumber: fix revertReason in case EVM exception](https://github.com/erigontech/rpc-tests/pull/520) - 2026-02-15
+* [Pull Request] [integration: fix json stream (debug_traceCall(), trace_filter()) with error](https://github.com/erigontech/rpc-tests/pull/525) - 2026-02-17
 * [Pull Request] []() - 2026-02-19
-* [Pull Request] []() - 2026-02-27
-* [Pull Request] []() - 2026-02-28
+* [Pull Request] [integration: enable trace_rawTransaction](https://github.com/erigontech/rpc-tests/pull/526) - 2026-02-27
+* [Pull Request] [integration: debug_traceCall fix exp error with withdrawals](https://github.com/erigontech/rpc-tests/pull/527) - 2026-02-28
 * [Pull Request] []() - 2026-03-02
 ## Q4 2025
 
@@ -53,29 +59,29 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [add logs](https://github.com/erigontech/erigon/commit/7a7b8ef5a354920eb49bdd9cf69c978670087fa3) - 2025-10-12
 * [Commit] [lint](https://github.com/erigontech/erigon/commit/1c8081274baa07d91357afd2fa729e79749ce0f0) - 2025-10-12
 * [Commit] [imp, getReceipt with replay prevTx](https://github.com/erigontech/erigon/commit/d58769fdf346d19078455d6234965ba2fd831ed3) - 2025-10-12
-* [Pull Request] []() - 2025-10-18
-* [Pull Request] []() - 2025-10-24
-* [Pull Request] []() - 2025-10-26
+* [Pull Request] [rpcdaemon: move allocation to sharedDomain only in case calcPostState](https://github.com/erigontech/erigon/pull/17533) - 2025-10-18
+* [Pull Request] [rpcdaemon: eth_createAccessList add support StateOverrides](https://github.com/erigontech/erigon/pull/17653) - 2025-10-24
+* [Pull Request] [rpcdaemon: debug_traceBlockByNumber(): add more clear error in case bn not found](https://github.com/erigontech/erigon/pull/17663) - 2025-10-26
 * [Issue] [SharedDomain doesn't work via gRPC](https://github.com/erigontech/erigon/issues/17661) - 2025-10-26
-* [Pull Request] []() - 2025-11-07
-* [Pull Request] []() - 2025-11-09
-* [Pull Request] []() - 2025-11-27
-* [Pull Request] []() - 2025-12-06
-* [Pull Request] []() - 2025-12-13
-* [Pull Request] []() - 2025-12-22
-* [Pull Request] []() - 2025-12-28
+* [Pull Request] [rpcdaemon: fix prestate with DiffMode with tx failed ](https://github.com/erigontech/erigon/pull/17808) - 2025-11-07
+* [Pull Request] [rpcdaemon: add support includeEmpty](https://github.com/erigontech/erigon/pull/17823) - 2025-11-09
+* [Pull Request] [rpc: prestate: codeHash is always present even if code is disable](https://github.com/erigontech/erigon/pull/18080) - 2025-11-27
+* [Pull Request] [rpc: eth_getLogs() change error code for invalid parameter errors](https://github.com/erigontech/erigon/pull/18199) - 2025-12-06
+* [Pull Request] [[3.3] cherry-pick fix eth_getLogs() for hive](https://github.com/erigontech/erigon/pull/18283) - 2025-12-13
+* [Pull Request] [rpc: trace_call add support StateOverrides.precompiler](https://github.com/erigontech/erigon/pull/18401) - 2025-12-22
+* [Pull Request] [integration_test: dump new rpc test version with more tests](https://github.com/erigontech/erigon/pull/18484) - 2025-12-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: add debug_traceCall test for Gnosis (#470)](https://github.com/erigontech/rpc-tests/commit/627c1e1ff3fc3e52d9c6d23ca3fd69a727b1d1ae) - 2025-10-03
 * [Commit] [remove wrong chr](https://github.com/erigontech/rpc-tests/commit/4383d9aeb6fd73d640c82d9503c6ff742f54706e) - 2025-10-03
 * [Commit] [integration: eth_estimateGas with state/block overrides (#467)](https://github.com/erigontech/rpc-tests/commit/ade828fa9f2f386ff67fe6b42d630dcc19542e20) - 2025-10-04
-* [Pull Request] []() - 2025-10-31
-* [Pull Request] []() - 2025-11-06
-* [Pull Request] []() - 2025-11-14
-* [Pull Request] []() - 2025-11-23
-* [Pull Request] []() - 2025-11-29
-* [Pull Request] []() - 2025-12-04
+* [Pull Request] [integration: add tests with prestateTracer (diffMode=true) for EIP 6780](https://github.com/erigontech/rpc-tests/pull/483) - 2025-10-31
+* [Pull Request] [integration: fix prestate in debug_trace* for failed txs](https://github.com/erigontech/rpc-tests/pull/485) - 2025-11-06
+* [Pull Request] [integration: add tests on eth_estimateGas with stateOverrides](https://github.com/erigontech/rpc-tests/pull/489) - 2025-11-14
+* [Pull Request] [integration: debug_traceBlockByNumber with callTracer and prestate in latest block](https://github.com/erigontech/rpc-tests/pull/495) - 2025-11-23
+* [Pull Request] [integration: update eth_simulateV1, eth_getBlockReceipts expected results w/ commitment history](https://github.com/erigontech/rpc-tests/pull/498) - 2025-11-29
+* [Pull Request] [integration: trace_call/eth_traceCallMany only with stateDiff](https://github.com/erigontech/rpc-tests/pull/502) - 2025-12-04
 * [Pull Request] []() - 2025-12-07
-* [Pull Request] []() - 2025-12-16
+* [Pull Request] [integration: debug_traceTransaction and debug_traceCall add testd](https://github.com/erigontech/rpc-tests/pull/506) - 2025-12-16
 ## Q3 2025
 
 

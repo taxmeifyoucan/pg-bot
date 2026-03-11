@@ -12,24 +12,39 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 
 [eth-act/ere](https://github.com/eth-act/ere)
-* [Pull Request] []() - 2026-01-04
+* [Pull Request] [dockerized: support ERE_DOCKER_NETWORK](https://github.com/eth-act/ere/pull/262) - 2026-01-04
 * [Issue] [Consider an optional flag to collect and dump GPU metrics](https://github.com/eth-act/ere/issues/265) - 2026-01-06
 
-* [Pull Request] []() - 2026-02-06
+* [Pull Request] [Add zisk cycle scope tracker](https://github.com/eth-act/ere/pull/287) - 2026-02-06
+* [Review] [Review on: Remove some zkVMs](https://github.com/eth-act/ere/pull/307#pullrequestreview-3921842211) - 2026-03-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
-* [Pull Request] []() - 2026-01-27
+* [Pull Request] [fix(bal): fix populated account if pre-state was none](https://github.com/bluealloy/revm/pull/3357) - 2026-01-27
 
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
-* [Pull Request] []() - 2026-02-03
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-12
+* [Pull Request] [Update ere-guest program dep and Reth crates](https://github.com/eth-act/zkevm-benchmark-workload/pull/252) - 2026-02-03
+* [Pull Request] [witness-generator-cli: support generating fixtures from "raw parts"](https://github.com/eth-act/zkevm-benchmark-workload/pull/254) - 2026-02-05
+* [Pull Request] [Support Zisk profiling](https://github.com/eth-act/zkevm-benchmark-workload/pull/259) - 2026-02-10
+* [Pull Request] [Add `--action verify` to decouple proof verification measurements](https://github.com/eth-act/zkevm-benchmark-workload/pull/260) - 2026-02-12
 * [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-17
-* [Pull Request] []() - 2026-02-19
+* [Pull Request] [update ere and ere-guests](https://github.com/eth-act/zkevm-benchmark-workload/pull/261) - 2026-02-17
+* [Pull Request] [Bump Rust version to fix docker image build in CI](https://github.com/eth-act/zkevm-benchmark-workload/pull/264) - 2026-02-19
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [refactor(specs): delay get_code calls in CALL-like opcodes after gas charging and stack-depth checks](https://github.com/ethereum/execution-specs/pull/2473) - 2026-03-10
+* [Pull Request] [feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472) - 2026-03-10
+* [Pull Request] [feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469) - 2026-03-10
 * [Issue] [Guest program: should it enforce execution witness canonicality?](https://github.com/ethereum/execution-specs/issues/2474) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925757322) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925759910) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925767604) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925781575) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925788074) - 2026-03-10
+* [Review] [Review on: feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472#pullrequestreview-3925803693) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922782779) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922789214) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922802865) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922809574) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922814994) - 2026-03-10
 ## Q4 2025
 
 
@@ -41,13 +56,13 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Issue] [OpenVM: No multi-gpu support](https://github.com/eth-act/ere/issues/242) - 2025-12-10
 * [Issue] [zisk v0.14.0: particular fixture blocks the prover](https://github.com/eth-act/ere/issues/246) - 2025-12-11
 * [Issue] [airbender: deadlocks on heavy blocks](https://github.com/eth-act/ere/issues/253) - 2025-12-19
-* [Pull Request] []() - 2025-12-29
+* [Pull Request] [Support setting how many GPUs to expose in dockerized environment](https://github.com/eth-act/ere/pull/258) - 2025-12-29
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
-* [Pull Request] []() - 2025-12-04
+* [Pull Request] [feat(tests): add Osaka fork specification to ForkSpec enum](https://github.com/paradigmxyz/reth/pull/20120) - 2025-12-04
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
-* [Pull Request] []() - 2025-12-05
-* [Pull Request] []() - 2025-12-11
+* [Pull Request] [feat(benchmarks): fix bytecode attack for CALL-like opcodes to work in Osaka](https://github.com/ethereum/execution-specs/pull/1850) - 2025-12-05
+* [Pull Request] [feat(benchmarks): fix benchmark for SELFDESTRUCT of created accounts for Osaka](https://github.com/ethereum/execution-specs/pull/1906) - 2025-12-11
 ## Q3 2025
 
 

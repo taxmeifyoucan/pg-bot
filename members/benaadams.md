@@ -12,21 +12,39 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
-* [Pull Request] []() - 2026-01-06
-* [Pull Request] []() - 2026-01-14
+* [Pull Request] [Optimize EVM](https://github.com/NethermindEth/nethermind/pull/10120) - 2026-01-06
+* [Pull Request] [Optimize storage key handling](https://github.com/NethermindEth/nethermind/pull/10241) - 2026-01-14
 
-* [Pull Request] []() - 2026-01-26
-* [Pull Request] []() - 2026-02-01
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-06
-* [Pull Request] []() - 2026-02-11
-* [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-03-03
+* [Pull Request] [EIP-7778: Block Gas Accounting without Refunds](https://github.com/NethermindEth/nethermind/pull/10292) - 2026-01-26
+* [Pull Request] [Skip cache for identity precompile](https://github.com/NethermindEth/nethermind/pull/10366) - 2026-02-01
+* [Pull Request] [Optimize Json hex parsing](https://github.com/NethermindEth/nethermind/pull/10389) - 2026-02-02
+* [Pull Request] [Add JitAsm tool to be able to analyse the Jit output](https://github.com/NethermindEth/nethermind/pull/10432) - 2026-02-06
+* [Pull Request] [Initialize P2P subprotocols after ProtocolInitialized event](https://github.com/NethermindEth/nethermind/pull/10489) - 2026-02-11
+* [Pull Request] [fix(test): fix race condition in BlockchainProcessorTests (flaky test)](https://github.com/NethermindEth/nethermind/pull/10513) - 2026-02-13
+* [Pull Request] [formatting](https://github.com/NethermindEth/nethermind/pull/10714) - 2026-03-03
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-01-20
+* [Pull Request] [Update EIP-7954: Move to Draft](https://github.com/ethereum/EIPs/pull/11116) - 2026-01-20
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-8037: Add tests for three missing gas-validation and code-deposit edge cases](https://github.com/ethereum/execution-specs/issues/2426) - 2026-03-06
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761) - 2026-03-10
+* [Pull Request] [Eliminate per-instance ValueFactory delegate allocations in PrewarmerScopeProvider](https://github.com/NethermindEth/nethermind/pull/10754) - 2026-03-10
+* [Commit] [Add multi-platform CI test matrix (arm64, Windows, macOS) (#10761)](https://github.com/NethermindEth/nethermind/commit/a33f0afc212e3892be2e551c997a588e6ab358a3) - 2026-03-10
+* [Commit] [Eliminate per-instance ValueFactory delegate allocations in PrewarmerScopeProvider (#10754)](https://github.com/NethermindEth/nethermind/commit/3133ddbd2a7f000c2ff07105752ac678a7e9fa41) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3924805317) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3924806386) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3924829759) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3925024337) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3925026201) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3925028192) - 2026-03-10
+* [Review] [Review on: Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761#pullrequestreview-3925029033) - 2026-03-10
+* [Review] [Review on: perf: CountZeros SIMD — fix boundary fallback and optimize ARM path](https://github.com/NethermindEth/nethermind/pull/10757#pullrequestreview-3925392011) - 2026-03-10
+* [Review] [Review on: Fix event handler leaks, reduce allocations, and refactor Network layer](https://github.com/NethermindEth/nethermind/pull/10753#pullrequestreview-3925374244) - 2026-03-10
+* [Review] [Review on: docs: Clarify guideline about infra](https://github.com/NethermindEth/nethermind/pull/10767#pullrequestreview-3923317639) - 2026-03-10
+* [Review] [Review on: Expand retry cache](https://github.com/NethermindEth/nethermind/pull/10739#pullrequestreview-3923369324) - 2026-03-10
+* [Review] [Review on: fix(ui): assign slice result to txsToAdd array](https://github.com/NethermindEth/nethermind/pull/10724#pullrequestreview-3923360517) - 2026-03-10
 ## Q4 2025
 
 
@@ -61,15 +79,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Set Ethereum mainnet default gaslimit to 60M](https://github.com/NethermindEth/nethermind/commit/394a1d477a5b1874b371fb36d83841144c3edaa6) - 2025-10-13
 * [Commit] [Add OutputCache to metrics endpoint (#9139)](https://github.com/NethermindEth/nethermind/commit/026fa2bed0f0ec331944263daa15e8322466d440) - 2025-10-13
 
-* [Pull Request] []() - 2025-10-29
-* [Pull Request] []() - 2025-12-28
-* [Pull Request] []() - 2025-12-29
+* [Pull Request] [Reduce peer logging](https://github.com/NethermindEth/nethermind/pull/9591) - 2025-10-29
+* [Pull Request] [Check for 0 in MOD opcode](https://github.com/NethermindEth/nethermind/pull/10061) - 2025-12-28
+* [Pull Request] [Check for 0 in MOD opcode](https://github.com/NethermindEth/nethermind/pull/10061) - 2025-12-29
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-10-23
-* [Pull Request] []() - 2025-10-24
-* [Pull Request] []() - 2025-10-25
-* [Pull Request] []() - 2025-10-26
-* [Pull Request] []() - 2025-11-03
+* [Pull Request] [Update EIP-2780: Bullet points](https://github.com/ethereum/EIPs/pull/10596) - 2025-10-23
+* [Pull Request] [Update EIP-8007: Propose EIP-8057](https://github.com/ethereum/EIPs/pull/10603) - 2025-10-24
+* [Pull Request] [Update EIP-8057: Formatting](https://github.com/ethereum/EIPs/pull/10609) - 2025-10-25
+* [Pull Request] [Update EIP-2780: Add formula](https://github.com/ethereum/EIPs/pull/10618) - 2025-10-26
+* [Pull Request] [Update EIP-8057: Remove spam](https://github.com/ethereum/EIPs/pull/10700) - 2025-11-03
 ## Q3 2025
 
 

@@ -12,24 +12,24 @@ Team: Geth
 
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-* [Pull Request] []() - 2026-01-08
-* [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-01-22
+* [Pull Request] [Po/par exe nblocks](https://github.com/ethereum/go-ethereum/pull/33552) - 2026-01-08
+* [Pull Request] [core/vm: in selfdestruct gas calculation, return early if there isn't enough gas to cover cold account access costs](https://github.com/ethereum/go-ethereum/pull/33450) - 2026-01-16
+* [Pull Request] [EIP 7928 - Block Access Lists](https://github.com/ethereum/go-ethereum/pull/33660) - 2026-01-22
 * [Issue] [Use blockchain tests to add coverage for the miner](https://github.com/ethereum/go-ethereum/issues/33762) - 2026-02-04
-* [Pull Request] []() - 2026-02-04
-* [Pull Request] []() - 2026-03-02
-* [Pull Request] []() - 2026-03-10
+* [Pull Request] [fix eip-7778 in the miner and BAL parallel state processor](https://github.com/ethereum/go-ethereum/pull/33761) - 2026-02-04
+* [Pull Request] [all: devnet 3](https://github.com/ethereum/go-ethereum/pull/33930) - 2026-03-02
+* [Pull Request] [core,miner: clean up miner and BAL config changes](https://github.com/ethereum/go-ethereum/pull/33983) - 2026-03-10
 ## Q4 2025
 
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [all: block access list execution and generation (tracer-based approach for BAL generation/validation)](https://github.com/ethereum/go-ethereum/pull/32840) - 2025-10-05
 * [Pull Request] [all: block access list execution and generation (tracer-based approach for BAL generation/validation)](https://github.com/ethereum/go-ethereum/pull/32865) - 2025-10-09
-* [Pull Request] []() - 2025-10-15
-* [Pull Request] []() - 2025-10-21
-* [Pull Request] []() - 2025-10-25
-* [Pull Request] []() - 2025-11-26
-* [Pull Request] []() - 2025-12-09
+* [Pull Request] [core: invoke selfdestruct tracer hooks during finalisation](https://github.com/ethereum/go-ethereum/pull/32919) - 2025-10-15
+* [Pull Request] [core: introduce new tracing hooks prior to transaction execution and after block reward application](https://github.com/ethereum/go-ethereum/pull/32985) - 2025-10-21
+* [Pull Request] [core/state, trie: improve parallelization of account and storage trie hashing](https://github.com/ethereum/go-ethereum/pull/33022) - 2025-10-25
+* [Pull Request] [core/vm: check if read-only in gas handlers](https://github.com/ethereum/go-ethereum/pull/33281) - 2025-11-26
+* [Pull Request] [tests: integrate BlockTest.run into BlockTest.Run](https://github.com/ethereum/go-ethereum/pull/33383) - 2025-12-09
 * [Pull Request] []() - 2025-12-10
 * [Pull Request] []() - 2025-12-18
 ## Q3 2025

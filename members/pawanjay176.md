@@ -12,11 +12,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
-* [Pull Request] []() - 2026-01-08
+* [Pull Request] [Get blobs v2 metrics](https://github.com/sigp/lighthouse/pull/8641) - 2026-01-08
 
-* [Pull Request] []() - 2026-01-13
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-02-19
+* [Pull Request] [Update buckets for metric](https://github.com/sigp/lighthouse/pull/8651) - 2026-01-13
+* [Pull Request] [Remove state lru cache](https://github.com/sigp/lighthouse/pull/8724) - 2026-01-30
+* [Pull Request] [Process head_chains in descending order of number of peers](https://github.com/sigp/lighthouse/pull/8859) - 2026-02-19
 * [Issue] [Tweak `prepare_payload_lookahead` default value for gloas](https://github.com/sigp/lighthouse/issues/8912) - 2026-02-27
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Issue] [Use getBlobs info to estimate private blobs](https://github.com/ethpandaops/lab/issues/374) - 2026-01-10
@@ -24,7 +24,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
-* [Pull Request] []() - 2025-10-23
+* [Pull Request] [Run CI tests only recent forks](https://github.com/sigp/lighthouse/pull/8271) - 2025-10-23
 ## Q3 2025
 
 

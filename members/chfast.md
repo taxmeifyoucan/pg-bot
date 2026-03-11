@@ -14,39 +14,47 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [legacytests contain invalid pre Spurious Dragon state tests](https://github.com/ethereum/execution-specs/issues/1967) - 2026-01-05
 
-* [Pull Request] []() - 2026-01-17
+* [Pull Request] [feat(tests): port EXTCODEHASH dynamicAccountOverwriteEmpty](https://github.com/ethereum/execution-specs/pull/2032) - 2026-01-17
 * [Issue] [Add tests for "reverted touch of empty account"](https://github.com/ethereum/execution-specs/issues/2174) - 2026-02-09
 * [Issue] [Zero test for Tangerine Whistle / Spurious Dragon / Constantinople](https://github.com/ethereum/execution-specs/issues/2173) - 2026-02-09
 * [Issue] [Missing test case for EIP-7702](https://github.com/ethereum/execution-specs/issues/2177) - 2026-02-10
-* [Pull Request] []() - 2026-03-02
+* [Pull Request] [chore(tests): remove ported static eip-1153 transient storage tests](https://github.com/ethereum/execution-specs/pull/2385) - 2026-03-02
 * [Issue] [codecov: use separate flags for main/internal/static tests](https://github.com/ethereum/execution-specs/issues/2382) - 2026-03-02
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [feat(tests): add ecrecover tests for combined invalid r and s values](https://github.com/ethereum/execution-specs/pull/2440) - 2026-03-06
+* [Pull Request] [feat(tests): port codeCopyZero and delete stExtCodeHash static tests](https://github.com/ethereum/execution-specs/pull/2465) - 2026-03-10
+* [Pull Request] [refactor(testing): rename empty_account() to nonexistent_account()](https://github.com/ethereum/execution-specs/pull/2462) - 2026-03-10
+* [Pull Request] [chore(tests): delete already-ported extCodeHash static file](https://github.com/ethereum/execution-specs/pull/2463) - 2026-03-10
+* [Pull Request] [feat(tests): port EXTCODEHASH subcall CREATE2 OOG test](https://github.com/ethereum/execution-specs/pull/2458) - 2026-03-10
+* [Commit] [feat(tests): port codeCopyZero and delete stExtCodeHash static tests (#2465)](https://github.com/ethereum/execution-specs/commit/6df036c96221184e277a9818fb43639d40e9036b) - 2026-03-10
+* [Commit] [refactor(testing): rename empty_account() to nonexistent_account() (#2462)](https://github.com/ethereum/execution-specs/commit/46aa9345424a15c932612f43b91ae906523767b0) - 2026-03-10
+* [Commit] [chore(tests): delete already-ported extCodeHash static file (#2463)](https://github.com/ethereum/execution-specs/commit/525810670fd06f1ff228f8514e41a76c340def78) - 2026-03-10
+* [Commit] [feat(tests): port EXTCODEHASH subcall CREATE2 OOG test (#2458)](https://github.com/ethereum/execution-specs/commit/ae78d8ab2332c4a0c7acc166850ab013b511f8bd) - 2026-03-10
 [ethereum/evmone](https://github.com/ethereum/evmone)
-* [Pull Request] []() - 2026-01-06
-* [Pull Request] []() - 2026-01-15
+* [Pull Request] [ci: Upgrade riscv toolchain and harden curl downloads](https://github.com/ipsilon/evmone/pull/1418) - 2026-01-06
+* [Pull Request] [test: Add modexp test vectors for even modulus and edge cases](https://github.com/ipsilon/evmone/pull/1421) - 2026-01-15
 * [Pull Request] []() - 2026-01-22
-* [Pull Request] []() - 2026-01-26
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-03
-* [Pull Request] []() - 2026-02-04
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-06
+* [Pull Request] [crypto: Handle modexp with exponent of 1 separately](https://github.com/ipsilon/evmone/pull/1424) - 2026-01-26
+* [Pull Request] [crypto: Use Almost Montgomery Multiplication in modexp](https://github.com/ipsilon/evmone/pull/1427) - 2026-01-27
+* [Pull Request] [tidy: Make bool → int conversion explicit](https://github.com/ipsilon/evmone/pull/1431) - 2026-01-30
+* [Pull Request] [test: Extend modexp benchmarks](https://github.com/ipsilon/evmone/pull/1433) - 2026-02-02
+* [Pull Request] [crypto: Extract `addmul()` helper in modexp](https://github.com/ipsilon/evmone/pull/1436) - 2026-02-03
+* [Pull Request] [Fix missing #include <evmc/evmc.hpp>](https://github.com/ipsilon/evmone/pull/1437) - 2026-02-04
+* [Pull Request] [ci: Upgrade compilers and build images](https://github.com/ipsilon/evmone/pull/1441) - 2026-02-05
+* [Pull Request] [crypto: Rewrite modexp_even to use variadic-length numbers](https://github.com/ipsilon/evmone/pull/1443) - 2026-02-06
 * [Pull Request] []() - 2026-02-07
-* [Pull Request] []() - 2026-02-09
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-12
-* [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-14
+* [Pull Request] [test: Add modexp test cases for modulus 0–1](https://github.com/ipsilon/evmone/pull/1445) - 2026-02-09
+* [Pull Request] [Fix missing EIP-7702 y_parity validation](https://github.com/ipsilon/evmone/pull/1450) - 2026-02-10
+* [Pull Request] [crypto: Update modexp to use variadic-length numbers (except odd)](https://github.com/ipsilon/evmone/pull/1452) - 2026-02-12
+* [Pull Request] [precompiles: Remove modexp stubs, use local impl for all inputs](https://github.com/ipsilon/evmone/pull/1453) - 2026-02-13
+* [Pull Request] [precompiles: Add option to use libsecp256k1](https://github.com/ipsilon/evmone/pull/1454) - 2026-02-14
 * [Pull Request] []() - 2026-02-16
-* [Pull Request] []() - 2026-02-17
-* [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-03-03
-* [Pull Request] []() - 2026-03-04
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [precompiles: Remove optional "silkpre" backend](https://github.com/ipsilon/evmone/pull/1456) - 2026-02-17
+* [Pull Request] [crypto: Compute modexp base_mont using var-length division](https://github.com/ipsilon/evmone/pull/1457) - 2026-02-18
+* [Pull Request] [precompiles: Tests for huge inputs to expmod](https://github.com/ipsilon/evmone/pull/1459) - 2026-02-24
+* [Pull Request] [crypto: Refactor modexp/mul_amm to use std::span params](https://github.com/ipsilon/evmone/pull/1460) - 2026-02-25
+* [Pull Request] [crypto: Use dynamic spans in modexp_odd and mul_amm](https://github.com/ipsilon/evmone/pull/1462) - 2026-03-03
+* [Pull Request] [changelog: List changes for 0.19 release](https://github.com/ipsilon/evmone/pull/1463) - 2026-03-04
+* [Pull Request] [crypto: Use exact size for x1 in modexp_even CRT](https://github.com/ipsilon/evmone/pull/1465) - 2026-03-09
 ## Q4 2025
 
 
@@ -55,11 +63,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [crypto: Fix handling of the input point-at-infinity in secp256r1](https://github.com/ipsilon/evmone/commit/25898a412f5c4ac43d9a01be17cede68dfad5c8c) - 2025-10-01
 
 * [Pull Request] [crypto: Optimize bit test of scalar in ECC multiplication](https://github.com/ipsilon/evmone/pull/1336) - 2025-10-13
-* [Pull Request] []() - 2025-11-07
-* [Pull Request] []() - 2025-11-12
-* [Pull Request] []() - 2025-12-02
-* [Pull Request] []() - 2025-12-08
-* [Pull Request] []() - 2025-12-21
+* [Pull Request] [test: Disallow empty storage values in MTP hash](https://github.com/ipsilon/evmone/pull/1366) - 2025-11-07
+* [Pull Request] [test: Add even modexp unit tests with long trailing zeros](https://github.com/ipsilon/evmone/pull/1368) - 2025-11-12
+* [Pull Request] [crypto: Detect EC point doubling more efficiently](https://github.com/ipsilon/evmone/pull/1392) - 2025-12-02
+* [Pull Request] [test: In state test do block post-processing only for valid transaction](https://github.com/ipsilon/evmone/pull/1395) - 2025-12-08
+* [Pull Request] [tests: Update modexp benchmarks to Osaka gas prices](https://github.com/ipsilon/evmone/pull/1410) - 2025-12-21
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): add test for modexp with 2**32 exp len](https://github.com/ethereum/execution-spec-tests/pull/2254) - 2025-10-02
 
@@ -67,7 +75,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [`Storage.KeyValueMismatch` is broken](https://github.com/ethereum/execution-specs/issues/1483) - 2025-10-09
 * [Issue] [Port evmone test cases](https://github.com/ethereum/execution-specs/issues/1470) - 2025-10-09
 * [Issue] [Analysis of Osaka test coverage based on evmone implementation](https://github.com/ethereum/execution-specs/issues/1614) - 2025-10-16
-* [Pull Request] []() - 2025-12-23
+* [Pull Request] [feat(tests): add new critical test cases for BN254 input validation](https://github.com/ethereum/execution-specs/pull/1948) - 2025-12-23
 * [Pull Request] []() - 2025-12-25
 ## Q3 2025
 

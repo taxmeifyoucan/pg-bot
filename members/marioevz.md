@@ -19,31 +19,35 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [All Core Devs - Testing (ACDT) #71, February 23, 2026](https://github.com/ethereum/pm/issues/1932) - 2026-02-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-7997 Implementation Tracker: Deterministic Factory Predeploy](https://github.com/ethereum/execution-specs/issues/1988) - 2026-01-07
-* [Pull Request] []() - 2026-01-10
+* [Pull Request] [feat(testing/forks): Implement `bytecode.gas_cost(fork)`](https://github.com/ethereum/execution-specs/pull/2002) - 2026-01-10
 
-* [Pull Request] []() - 2026-01-19
-* [Pull Request] []() - 2026-01-20
+* [Pull Request] [chore(testing/vm): Remove UndefinedOpcodes](https://github.com/ethereum/execution-specs/pull/2044) - 2026-01-19
+* [Pull Request] [feat(ci): Create Devnet Workflows](https://github.com/ethereum/execution-specs/pull/2053) - 2026-01-20
 * [Issue] [chore(testing): Replace `hashllib.sha256` with faster algorithm](https://github.com/ethereum/execution-specs/issues/2087) - 2026-01-27
 * [Issue] [Speed-up JSON infra by filling a subset of test and executing it](https://github.com/ethereum/execution-specs/issues/2090) - 2026-01-28
 * [Issue] [Mark Tests Requiring Opcode Counting](https://github.com/ethereum/execution-specs/issues/2102) - 2026-01-29
 * [Issue] [feat(testing): Stateful Engine X Format and Fill Transition Tool](https://github.com/ethereum/execution-specs/issues/2125) - 2026-02-03
-* [Pull Request] []() - 2026-02-07
-* [Pull Request] []() - 2026-02-11
+* [Pull Request] [fix(testing/execute): Phase not being correctly passed as tx request ID](https://github.com/ethereum/execution-specs/pull/2161) - 2026-02-07
+* [Pull Request] [feat(benchmarking): Optimize `IteratingBytecode`](https://github.com/ethereum/execution-specs/pull/2184) - 2026-02-11
 * [Issue] [zkEVM Projects Tracking Issue](https://github.com/ethereum/execution-specs/issues/2183) - 2026-02-10
-* [Pull Request] []() - 2026-02-13
+* [Pull Request] [refactor(testing): Refactor specs to allow reusing logic for benchmark checks](https://github.com/ethereum/execution-specs/pull/2203) - 2026-02-13
 * [Issue] [feat(all): Repricing Tool](https://github.com/ethereum/execution-specs/issues/2200) - 2026-02-12
-* [Pull Request] []() - 2026-02-17
+* [Pull Request] [fix(test-specs): Exclude full post-state/setup-tx receipts on benchmarks](https://github.com/ethereum/execution-specs/pull/2226) - 2026-02-17
 * [Issue] [refactor(test-specs): Replace `BaseExecute` with mixins on `BaseTest`](https://github.com/ethereum/execution-specs/issues/2258) - 2026-02-20
 * [Issue] [feat(specs-tests): Update EIP-8024 According to EIPs #11306](https://github.com/ethereum/execution-specs/issues/2298) - 2026-02-24
-* [Pull Request] []() - 2026-02-25
+* [Pull Request] [feat(test-cli): Stack as callargs to`Op` for `evm_bytes`](https://github.com/ethereum/execution-specs/pull/2329) - 2026-02-25
 * [Issue] [Gas repricing tooling requirements and coordination tracker](https://github.com/ethereum/execution-specs/issues/2340) - 2026-02-26
 * [Issue] [Stateful Tests CI Verification](https://github.com/ethereum/execution-specs/issues/2423) - 2026-03-05
-* [Pull Request] []() - 2026-03-07
+* [Pull Request] [chore(tests-static): Port remaining EC Pairing static tests](https://github.com/ethereum/execution-specs/pull/2443) - 2026-03-07
 * [Issue] [chore(test-types): Rename `pre.empty_account`](https://github.com/ethereum/execution-specs/issues/2434) - 2026-03-06
 * [Issue] [feat(tests): Missing test cases for EIP-196](https://github.com/ethereum/execution-specs/issues/2433) - 2026-03-06
-* [Pull Request] []() - 2026-03-11
+* [Pull Request] [feat(test-execute): Defer pre-alloc methods remote checks to batch them](https://github.com/ethereum/execution-specs/pull/2475) - 2026-03-11
+* [Review] [Review on: feat(tests): add tests for address not warmed on aborted create](https://github.com/ethereum/execution-specs/pull/2452#pullrequestreview-3924888508) - 2026-03-10
+* [Review] [Review on: feat(tests): port codeCopyZero and delete stExtCodeHash static tests](https://github.com/ethereum/execution-specs/pull/2465#pullrequestreview-3924643633) - 2026-03-10
+* [Review] [Review on: feat(tests,spec-specs): code deposit ordering and regression tests](https://github.com/ethereum/execution-specs/pull/2468#pullrequestreview-3924757469) - 2026-03-10
+* [Review] [Review on: refactor(testing): rename empty_account() to nonexistent_account()](https://github.com/ethereum/execution-specs/pull/2462#pullrequestreview-3924268776) - 2026-03-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
-* [Pull Request] []() - 2026-01-15
+* [Pull Request] [Add Louis from STEEL, ethereum/execution-specs](https://github.com/protocolguild/documentation/pull/472) - 2026-01-15
 ## Q4 2025
 
 
@@ -61,28 +65,28 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Fix `test_genesis_hash_available` to be fill-only](https://github.com/ethereum/execution-specs/issues/1607) - 2025-10-15
 * [Issue] [[Post-Weld] Revisit `slow` marked tests](https://github.com/ethereum/execution-specs/issues/1625) - 2025-10-16
 * [Issue] [Update the existing test_modexp_upper_bounds to run from Prague](https://github.com/ethereum/execution-specs/issues/1624) - 2025-10-16
-* [Pull Request] []() - 2025-10-21
+* [Pull Request] [chore(pytest): Fix/enable `packages/tests` unit tests](https://github.com/ethereum/execution-specs/pull/1639) - 2025-10-21
 * [Issue] [Verify Behavior of T8N in `ExecutionSpecsTransitionTool` due to `--output.basedir`](https://github.com/ethereum/execution-specs/issues/1652) - 2025-10-21
 * [Issue] [Fill Gas-Repricing Tests And Create a New Release](https://github.com/ethereum/execution-specs/issues/1656) - 2025-10-22
 * [Issue] [New test: Precompile as block coinbase/fee recipient](https://github.com/ethereum/execution-specs/issues/1669) - 2025-10-23
-* [Pull Request] []() - 2025-10-23
+* [Pull Request] [refactor(tests): Use pytest collection to load JSON fixtures](https://github.com/ethereum/execution-specs/pull/1666) - 2025-10-23
 * [Issue] [Explore creating `packages/testing-types`](https://github.com/ethereum/execution-specs/issues/1679) - 2025-10-24
-* [Pull Request] []() - 2025-10-28
+* [Pull Request] [fix(testing/specs): Fix benchmark pre-alloc grouping](https://github.com/ethereum/execution-specs/pull/1708) - 2025-10-28
 * [Issue] [Mark `Osaka` mainnet tests](https://github.com/ethereum/execution-specs/issues/1714) - 2025-10-29
 * [Issue] [Create a `README.md` for `./tests/`](https://github.com/ethereum/execution-specs/issues/1721) - 2025-10-31
 * [Issue] [FIx or reconsider `test_blockhash`](https://github.com/ethereum/execution-specs/issues/1792) - 2025-11-14
-* [Pull Request] []() - 2025-11-14
-* [Pull Request] []() - 2025-11-18
+* [Pull Request] [bug(test-benchmark): skip benchmark `test_blockhash`](https://github.com/ethereum/execution-specs/pull/1791) - 2025-11-14
+* [Pull Request] [fix(github): Fix benchmark genesis generation](https://github.com/ethereum/execution-specs/pull/1800) - 2025-11-18
 * [Issue] [Remove duplicate exception definitions](https://github.com/ethereum/execution-specs/issues/1816) - 2025-11-26
-* [Pull Request] []() - 2025-12-02
-* [Pull Request] []() - 2025-12-09
+* [Pull Request] [fix(testing): Optimize fill](https://github.com/ethereum/execution-specs/pull/1804) - 2025-12-02
+* [Pull Request] [bug(ci): Convert issue tracker to MD](https://github.com/ethereum/execution-specs/pull/1868) - 2025-12-09
 * [Issue] [Better abstraction in T8N class in `src/ethereum_spec_tools/evm_tools/t8n/__init__.py`](https://github.com/ethereum/execution-specs/issues/1883) - 2025-12-10
 * [Issue] [EIP-7805 Implementation Tracker: FOCIL](https://github.com/ethereum/execution-specs/issues/1900) - 2025-12-11
 * [Issue] [EIP-7981 Implementation Tracker: Increase access list cost](https://github.com/ethereum/execution-specs/issues/1943) - 2025-12-18
 * [Issue] [EIP-7976 Implementation Tracker: Increase Calldata Floor Cost](https://github.com/ethereum/execution-specs/issues/1942) - 2025-12-18
 * [Issue] [EIP-8038 Implementation Tracker: State-access gas cost update](https://github.com/ethereum/execution-specs/issues/1941) - 2025-12-18
 * [Issue] [EIP-2780 Implementation Tracker: Reduce intrinsic transaction gas](https://github.com/ethereum/execution-specs/issues/1940) - 2025-12-18
-* [Pull Request] []() - 2025-12-22
+* [Pull Request] [bug(test-cli): fix extract config](https://github.com/ethereum/execution-specs/pull/1947) - 2025-12-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [type(tests): convert create suicide during init (#1871)](https://github.com/ethereum/execution-spec-tests/commit/28ca6decef374908e7e18e4cf4e5a500a9834866) - 2025-10-02
 * [Commit] [refactor(tests): add checklist marker for eip7823 (#2115)](https://github.com/ethereum/execution-spec-tests/commit/110b5d4ae9d6c07a4ae2d5e9a2822652b0ae6172) - 2025-10-02
@@ -105,11 +109,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #59, Oct 27, 2025](https://github.com/ethereum/pm/issues/1778) - 2025-10-21
 * [Issue] [All Core Devs - Testing (ACDT) #61, November 10, 2025](https://github.com/ethereum/pm/issues/1797) - 2025-11-05
-* [Pull Request] []() - 2025-11-26
+* [Pull Request] [Add Testing Coordinators for Fusaka](https://github.com/ethereum/pm/pull/1815) - 2025-11-26
 * [Issue] [All Core Devs - Testing (ACDT) #63, December 8, 2025](https://github.com/ethereum/pm/issues/1834) - 2025-12-03
 
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2025-12-29
+* [Pull Request] [fix(simulators/engine): Use SetBlock to reset back to cannonical chain](https://github.com/ethereum/hive/pull/1379) - 2025-12-29
 ## Q3 2025
 
 

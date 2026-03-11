@@ -11,16 +11,16 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
-* [Pull Request] []() - 2026-01-07
-* [Pull Request] []() - 2026-01-13
-* [Pull Request] []() - 2026-01-26
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-01-31
-* [Pull Request] []() - 2026-02-04
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-11
-* [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-16
+* [Pull Request] [Set proposer boost for first timely block from the expected proposer](https://github.com/grandinetech/grandine/pull/561) - 2026-01-07
+* [Pull Request] [Refactor and fix bugs in ePBS changes](https://github.com/grandinetech/grandine/pull/570) - 2026-01-13
+* [Pull Request] [Onboard builders at the fork](https://github.com/grandinetech/grandine/pull/575) - 2026-01-26
+* [Pull Request] [Handle `ExecutionPayloadBid` via gossip](https://github.com/grandinetech/grandine/pull/582) - 2026-01-30
+* [Pull Request] [Update `prepare_execution_payload` for Gloas](https://github.com/grandinetech/grandine/pull/583) - 2026-01-31
+* [Pull Request] [Handle `ExecutionPayloadEnvelope`](https://github.com/grandinetech/grandine/pull/591) - 2026-02-04
+* [Pull Request] [Update `POST /eth/v2/beacon/blocks` to publish only signed beacon block for post-Gloas](https://github.com/grandinetech/grandine/pull/600) - 2026-02-10
+* [Pull Request] [`GET /eth/v2/node/version`](https://github.com/grandinetech/grandine/pull/599) - 2026-02-11
+* [Pull Request] [Send full signed execution payload bid to event stream](https://github.com/grandinetech/grandine/pull/601) - 2026-02-13
+* [Pull Request] [Add payload attestation tick](https://github.com/grandinetech/grandine/pull/603) - 2026-02-16
 ## Q4 2025
 
 
@@ -40,20 +40,20 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Add Gloas helper, state transition functions](https://github.com/grandinetech/grandine/issues/417) - 2025-10-13
 * [Commit] [Support the `/eth/v2/builder/blinded_blocks` post-fulu](https://github.com/grandinetech/grandine/commit/1b4cf58a9288ddd85a5b25337ca05a6b376aabbd) - 2025-10-13
 * [Issue] [Add a feature to disable finalized root check in status message](https://github.com/grandinetech/grandine/issues/416) - 2025-10-13
-* [Pull Request] []() - 2025-10-15
+* [Pull Request] [Ensure data column sidecars respect the blob limit](https://github.com/grandinetech/grandine/pull/425) - 2025-10-15
 * [Issue] [Gloas: PTC assignments](https://github.com/grandinetech/grandine/issues/444) - 2025-10-24
 
-* [Pull Request] []() - 2025-11-20
-* [Pull Request] []() - 2025-12-03
-* [Pull Request] []() - 2025-12-04
-* [Pull Request] []() - 2025-12-16
-* [Pull Request] []() - 2025-12-17
-* [Pull Request] []() - 2025-12-19
-* [Pull Request] []() - 2025-12-23
+* [Pull Request] [Migrate `BeaconBlockBody` to feature based traits](https://github.com/grandinetech/grandine/pull/489) - 2025-11-20
+* [Pull Request] [Validator API: update `attestation_data` and disable `blockV3` for Gloas](https://github.com/grandinetech/grandine/pull/508) - 2025-12-03
+* [Pull Request] [`GET /eth/v1/validator/execution_payload_bid/{slot}/{builder_index}`](https://github.com/grandinetech/grandine/pull/518) - 2025-12-04
+* [Pull Request] [Handle block payload attestations](https://github.com/grandinetech/grandine/pull/537) - 2025-12-16
+* [Pull Request] [Delay execution payload envelope until data available](https://github.com/grandinetech/grandine/pull/538) - 2025-12-17
+* [Pull Request] [Add `block_gossip` SSE stream](https://github.com/grandinetech/grandine/pull/543) - 2025-12-19
+* [Pull Request] [Clean up: remove data column debug flags](https://github.com/grandinetech/grandine/pull/546) - 2025-12-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-11-13
-* [Pull Request] []() - 2025-12-09
-* [Pull Request] []() - 2025-12-18
+* [Pull Request] [Clean up Gloas specs (part 6)](https://github.com/ethereum/consensus-specs/pull/4741) - 2025-11-13
+* [Pull Request] [Move `get_data_column_sidecars_from_column_sidecar` to builder spec](https://github.com/ethereum/consensus-specs/pull/4783) - 2025-12-09
+* [Pull Request] [Remove `slot` from `get_indexed_payload_attestation`](https://github.com/ethereum/consensus-specs/pull/4797) - 2025-12-18
 ## Q3 2025
 
 

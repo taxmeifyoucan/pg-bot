@@ -12,12 +12,12 @@ Team: Consensus R&D (EF)
 
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
-* [Pull Request] []() - 2026-01-05
+* [Pull Request] [perf: remove allocations from merkle tree proof verification logic](https://github.com/sigp/lighthouse/pull/8614) - 2026-01-05
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Change the public input for optional proofs from block hash to payload header](https://github.com/ethereum/consensus-specs/issues/4820) - 2026-01-08
 
-* [Pull Request] []() - 2026-01-31
+* [Pull Request] [Check for active validators in whitelist](https://github.com/ethereum/consensus-specs/pull/4886) - 2026-01-31
 * [Issue] [Unresolved TODOs from PR #4828](https://github.com/ethereum/consensus-specs/issues/4885) - 2026-01-31
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Issue] [engine_newPayloadWithWitness](https://github.com/ethereum/execution-apis/issues/741) - 2026-01-20
@@ -29,21 +29,23 @@ Team: Consensus R&D (EF)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Consider extending specs to engine api methods](https://github.com/ethereum/execution-specs/issues/2096) - 2026-01-29
 
-* [Pull Request] []() - 2026-02-15
-* [Pull Request] []() - 2026-02-21
+* [Pull Request] [small ci cleanup](https://github.com/ethereum/execution-specs/pull/2217) - 2026-02-15
+* [Pull Request] [chore(do not merge): Experiment with caching for "Build Doc" Job](https://github.com/ethereum/execution-specs/pull/2271) - 2026-02-21
 * [Issue] [Question on `set_environment` in blockchain.py](https://github.com/ethereum/execution-specs/issues/2262) - 2026-02-20
 * [Issue] [Make the testing framework and EELS share the PreState thus simplifying the T8N tool](https://github.com/ethereum/execution-specs/issues/2273) - 2026-02-22
 * [Issue] [Add code_reads into state tracker](https://github.com/ethereum/execution-specs/issues/2272) - 2026-02-22
-* [Pull Request] []() - 2026-02-23
+* [Pull Request] [chore(do not merge): Experiment on `docc`](https://github.com/ethereum/execution-specs/pull/2296) - 2026-02-23
 * [Issue] [Tracking Issue: Using common types across all forks](https://github.com/ethereum/execution-specs/issues/2293) - 2026-02-23
 * [Issue] [Add `BLOCKHASH` tracking into state tracker](https://github.com/ethereum/execution-specs/issues/2279) - 2026-02-23
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-02-28
-* [Pull Request] []() - 2026-03-01
+* [Pull Request] [chore(do not merge): Investigate bigmem](https://github.com/ethereum/execution-specs/pull/2313) - 2026-02-25
+* [Pull Request] [chore(do not merge): Check performance with python 3.14t](https://github.com/ethereum/execution-specs/pull/2367) - 2026-02-28
+* [Pull Request] [chore: cache repeated calls to `git rev-parse HEAD` on a test run](https://github.com/ethereum/execution-specs/pull/2377) - 2026-03-01
 * [Issue] [Consider separating stateless components from `Block`](https://github.com/ethereum/execution-specs/issues/2441) - 2026-03-06
 * [Issue] [Unused public key parameter in stateless code](https://github.com/ethereum/execution-specs/issues/2448) - 2026-03-09
+* [Pull Request] [chore(do not merge): evmification](https://github.com/ethereum/execution-specs/pull/2471) - 2026-03-10
+* [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3923637143) - 2026-03-10
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-01-29
+* [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Issue] [Consider testing stateless execution against EEST fixtures](https://github.com/NethermindEth/nethermind/issues/10749) - 2026-03-07
@@ -57,22 +59,22 @@ Team: Consensus R&D (EF)
 * [Issue] [Add kzg block hashes to the public inputs when verifying optional execution proofs](https://github.com/ethereum/consensus-specs/issues/4637) - 2025-10-06
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
-* [Pull Request] []() - 2025-10-14
+* [Pull Request] [Fix venue name from ADCT to ACDT](https://github.com/protocolguild/documentation/pull/443) - 2025-10-14
 
-* [Pull Request] []() - 2025-11-30
+* [Pull Request] [Fix typo in link](https://github.com/protocolguild/documentation/pull/447) - 2025-11-30
 * [Pull Request] []() - 2025-12-11
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
-* [Pull Request] []() - 2025-10-18
-* [Pull Request] []() - 2025-10-27
-* [Pull Request] []() - 2025-10-28
+* [Pull Request] [chore!: remove pub visibility on `OVERFLOW_LRU_CAPACITY` and `STATE_LRU_CAPACITY_NON_ZERO`](https://github.com/sigp/lighthouse/pull/8234) - 2025-10-18
+* [Pull Request] [chore: Add Dockerfile.dev for local development](https://github.com/sigp/lighthouse/pull/8295) - 2025-10-27
+* [Pull Request] [feat!: Optional execution proofs](https://github.com/sigp/lighthouse/pull/8316) - 2025-10-28
 * [Issue] [Tracking Issue: Optional Execution Proofs](https://github.com/sigp/lighthouse/issues/8327) - 2025-10-29
 
 * [Pull Request] []() - 2025-12-29
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-* [Pull Request] []() - 2025-10-31
+* [Pull Request] [core/types: Return error in `ToV1` when the sidecar version is not supported](https://github.com/ethereum/go-ethereum/pull/33066) - 2025-10-31
 
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
-* [Pull Request] []() - 2025-11-03
+* [Pull Request] [chore: Add changes needed for optional execution proofs](https://github.com/ethpandaops/dora/pull/515) - 2025-11-03
 
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Issue] [Tracker for RV64IM-None support](https://github.com/eth-act/ere/issues/232) - 2025-11-30

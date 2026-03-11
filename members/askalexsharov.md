@@ -18,20 +18,37 @@ Team: Erigon
 * [Issue] [StateCache: enable it in all tooling](https://github.com/erigontech/erigon/issues/18949) - 2026-02-04
 * [Issue] [StateCache: enable it in all tests](https://github.com/erigontech/erigon/issues/18948) - 2026-02-04
 * [Issue] [Pipe-fix for win](https://github.com/erigontech/erigon/issues/18950) - 2026-02-04
-* [Pull Request] []() - 2026-02-06
+* [Pull Request] [move "batch size estimation" biz-logic from SD to Exec](https://github.com/erigontech/erigon/pull/19011) - 2026-02-06
 * [Issue] [integrity check: false-positive about headers files](https://github.com/erigontech/erigon/issues/19181) - 2026-02-14
 * [Issue] [`gap in visible files`: during exec from 0](https://github.com/erigontech/erigon/issues/19178) - 2026-02-14
-* [Pull Request] []() - 2026-02-16
+* [Pull Request] [p2p tests: reduce amount of quickcheck iterations to speeduptests](https://github.com/erigontech/erigon/pull/19214) - 2026-02-16
 * [Issue] [eth_getLogs to not check state history progress if node synced with `--persist.receipt`](https://github.com/erigontech/erigon/issues/19215) - 2026-02-16
-* [Pull Request] []() - 2026-02-18
+* [Pull Request] [vvv](https://github.com/erigontech/erigon/pull/19283) - 2026-02-18
 * [Issue] [Merge: speed task list](https://github.com/erigontech/erigon/issues/19430) - 2026-02-23
 * [Issue] [TestShutterBlockBuilding: flaky](https://github.com/erigontech/erigon/issues/19444) - 2026-02-24
-* [Pull Request] []() - 2026-02-26
+* [Pull Request] [StateFerify: use `etl`](https://github.com/erigontech/erigon/pull/19504) - 2026-02-26
 * [Issue] [Integrity: reproducible sampling](https://github.com/erigontech/erigon/issues/19617) - 2026-03-04
 * [Issue] [Sentinel: race on find Peers and NewAddrBook](https://github.com/erigontech/erigon/issues/19603) - 2026-03-04
-* [Pull Request] []() - 2026-03-06
-* [Pull Request] []() - 2026-03-08
+* [Pull Request] [UnitTest: for reset page counter on collision in buildVI](https://github.com/erigontech/erigon/pull/19698) - 2026-03-06
+* [Pull Request] [up `x` deps](https://github.com/erigontech/erigon/pull/19726) - 2026-03-08
+* [Pull Request] [mark `commitment history` feature as non-experimental](https://github.com/erigontech/erigon/pull/19774) - 2026-03-10
+* [Pull Request] [[wip] etl: zero-copy memDataProvider](https://github.com/erigontech/erigon/pull/19780) - 2026-03-10
+* [Pull Request] [recsplit: keyPos reset on retry](https://github.com/erigontech/erigon/pull/19773) - 2026-03-10
+* [Pull Request] [merge `release/3.4` to `main`](https://github.com/erigontech/erigon/pull/19772) - 2026-03-10
 * [Issue] [etl: `memoryDataProvider.Next` to return zero-copy](https://github.com/erigontech/erigon/issues/19778) - 2026-03-10
+* [Review] [Review on: claude: add CI test skills (unit, all, race, hive, rpc, ci-orchestrator)](https://github.com/erigontech/erigon/pull/19784#pullrequestreview-3926266438) - 2026-03-11
+* [Review] [Review on: snapcfg: load preverified hashes for single chain only](https://github.com/erigontech/erigon/pull/19785#pullrequestreview-3926261390) - 2026-03-11
+* [Review] [Review on: execution/tests: fix state test DB contention](https://github.com/erigontech/erigon/pull/19767#pullrequestreview-3919308978) - 2026-03-10
+* [Review] [Review on: docs: remove MCP documentation from main (3.3.x)](https://github.com/erigontech/erigon/pull/19756#pullrequestreview-3919836710) - 2026-03-10
+* [Review] [Review on: Cherry-pick #19698: UnitTest for reset page counter on collision in buildVI](https://github.com/erigontech/erigon/pull/19754#pullrequestreview-3921135043) - 2026-03-10
+* [Review] [Review on: txpool: replace custom RLP parsing with standard transaction types](https://github.com/erigontech/erigon/pull/19757#pullrequestreview-3920173700) - 2026-03-10
+* [Review] [Review on: execution/stagedsync: enable deferred commitment updates for parallel fork validation](https://github.com/erigontech/erigon/pull/19749#pullrequestreview-3919826017) - 2026-03-10
+* [Review] [Review on: [SharovBot] ci: increase test timeout to 30m on windows-2025 to fix eest_blockchain marginal failure](https://github.com/erigontech/erigon/pull/19771#pullrequestreview-3919861523) - 2026-03-10
+* [Review] [Review on: ci, make: add test-bench to verify all benchmarks compile and run](https://github.com/erigontech/erigon/pull/19745#pullrequestreview-3919642929) - 2026-03-10
+* [Review] [Review on: [r3.4] [cherry-pick] Migrate bloatnet to perf-devnet-3 and fix genesis hash collisions (#19741)](https://github.com/erigontech/erigon/pull/19753#pullrequestreview-3919833242) - 2026-03-10
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025
 
 
@@ -112,15 +129,15 @@ Team: Erigon
 * [Issue] [`make lint` can't find linter's binary](https://github.com/erigontech/erigon/issues/17432) - 2025-10-13
 * [Pull Request] [nodedb: set `dbSyncPeriod=5mb`](https://github.com/erigontech/erigon/pull/17431) - 2025-10-13
 * [Commit] [mdbx: v0.13.8 (#17284)](https://github.com/erigontech/erigon/commit/34fcd734fdfc52adea725578c6adde9ed7a2436a) - 2025-10-13
-* [Pull Request] []() - 2025-10-20
-* [Pull Request] []() - 2025-10-25
-* [Pull Request] []() - 2025-10-27
+* [Pull Request] [prune: avoid using same metric by furious prune](https://github.com/erigontech/erigon/pull/17547) - 2025-10-20
+* [Pull Request] [mdbx_stat: add Reclaimable space in gb to command](https://github.com/erigontech/erigon/pull/17656) - 2025-10-25
+* [Pull Request] [extract closeWhatNotInList to dirty_files.go](https://github.com/erigontech/erigon/pull/17665) - 2025-10-27
 * [Issue] [grafana: prune metrics - switch from histogram to summary](https://github.com/erigontech/erigon/issues/17725) - 2025-10-31
 * [Issue] [grafana: `prune_stage_duration_secs` metric - don't see data](https://github.com/erigontech/erigon/issues/17724) - 2025-10-31
-* [Pull Request] []() - 2025-11-21
-* [Pull Request] []() - 2025-12-03
-* [Pull Request] []() - 2025-12-11
-* [Pull Request] []() - 2025-12-22
+* [Pull Request] [[3.3] remove experimental tag for historical commitments trie](https://github.com/erigontech/erigon/pull/18011) - 2025-11-21
+* [Pull Request] [systems settings advise had invalid format ](https://github.com/erigontech/erigon/pull/18148) - 2025-12-03
+* [Pull Request] [merge `release/3.3` to `main`](https://github.com/erigontech/erigon/pull/18251) - 2025-12-11
+* [Pull Request] [[wip] mdbx: default gc_aug_limit](https://github.com/erigontech/erigon/pull/18412) - 2025-12-22
 ## Q3 2025
 
 

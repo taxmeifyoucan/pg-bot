@@ -12,17 +12,26 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
-* [Pull Request] []() - 2026-01-11
+* [Pull Request] [Add AGENTS.md](https://github.com/NethermindEth/nethermind/pull/10177) - 2026-01-11
 
 * [Issue] [Implement input serialization for Zisk](https://github.com/NethermindEth/nethermind/issues/10633) - 2026-02-24
 * [Issue] [Consider using native Keccak in Zisk](https://github.com/NethermindEth/nethermind/issues/10632) - 2026-02-24
 * [Issue] [Resolve the instruction size issue in Zisk](https://github.com/NethermindEth/nethermind/issues/10631) - 2026-02-24
 * [Issue] [Implement precompiles for Zisk](https://github.com/NethermindEth/nethermind/issues/10630) - 2026-02-24
-* [Pull Request] []() - 2026-03-02
-* [Pull Request] []() - 2026-03-05
-* [Pull Request] []() - 2026-03-07
+* [Pull Request] [chore: Refactor `EthereumEcdsa`](https://github.com/NethermindEth/nethermind/pull/10698) - 2026-03-02
+* [Pull Request] [chore: Move `evm_benchmark_utils.py` to scripts](https://github.com/NethermindEth/nethermind/pull/10732) - 2026-03-05
+* [Pull Request] [Add PR tests concurrency rules](https://github.com/NethermindEth/nethermind/pull/10748) - 2026-03-07
 [nethermindeth/bflat-riscv64](https://github.com/nethermindeth/bflat-riscv64)
-* [Pull Request] []() - 2026-02-09
+* [Pull Request] [Add revised build workflow](https://github.com/NethermindEth/bflat-riscv64/pull/4) - 2026-02-09
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [chore: Update packages](https://github.com/NethermindEth/nethermind/pull/10774) - 2026-03-10
+* [Pull Request] [fix: Add new RLP decoders for zkEVM](https://github.com/NethermindEth/nethermind/pull/10773) - 2026-03-10
+* [Pull Request] [docs: Clarify guideline about infra](https://github.com/NethermindEth/nethermind/pull/10767) - 2026-03-10
+* [Commit] [fix: Add new RLP decoders for zkEVM (#10773)](https://github.com/NethermindEth/nethermind/commit/032f462634313fc159216a409e1ec252a20d63d0) - 2026-03-10
+* [Commit] [docs: Clarify guideline about infra (#10767)](https://github.com/NethermindEth/nethermind/commit/3a3e065a94084347357e8f33e1ec993c6ab0385d) - 2026-03-10
+* [Review] [Review on: ci: Add Claude review](https://github.com/NethermindEth/nethermind/pull/10768#pullrequestreview-3923191031) - 2026-03-10
+* [Review] [Review on: chore: add code review instructions for GitHub Copilot](https://github.com/NethermindEth/nethermind/pull/10602#pullrequestreview-3921405865) - 2026-03-10
 ## Q4 2025
 
 
@@ -61,14 +70,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/0e121f6230f6cce3ffc9f7a576c8bfe07e086429) - 2025-10-13
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/9427b1b2cdbfa8187ed549a843a03bf6ea9020f5) - 2025-10-13
 * [Commit] [test](https://github.com/NethermindEth/nethermind/commit/3f28b61aee0efe3e8bf304208f4ccae6383c0346) - 2025-10-13
-* [Pull Request] []() - 2025-10-20
-* [Pull Request] []() - 2025-11-10
+* [Pull Request] [Fix fast sync settings workflow](https://github.com/NethermindEth/nethermind/pull/9519) - 2025-10-20
+* [Pull Request] [Remove Nethermind.Analytics](https://github.com/NethermindEth/nethermind/pull/9683) - 2025-11-10
 
-* [Pull Request] []() - 2025-12-09
-* [Pull Request] []() - 2025-12-22
-* [Pull Request] []() - 2025-12-26
+* [Pull Request] [Update packages](https://github.com/NethermindEth/nethermind/pull/9907) - 2025-12-09
+* [Pull Request] [Set release target commit explicitly](https://github.com/NethermindEth/nethermind/pull/10009) - 2025-12-22
+* [Pull Request] [Implement zkVM compatibility](https://github.com/NethermindEth/nethermind/pull/10048) - 2025-12-26
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2025-11-20
+* [Pull Request] [clients/nethermind: migrate to .net 10](https://github.com/ethereum/hive/pull/1371) - 2025-11-20
 ## Q3 2025
 
 
