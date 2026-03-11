@@ -12,7 +12,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 
 
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
-* [Pull Request] []() - 2026-02-12
+* [Pull Request] [benchmark measuring proof verification with different numbers of cells](https://github.com/ethereum/c-kzg-4844/pull/624) - 2026-02-12
 ## Q4 2025
 
 
@@ -36,8 +36,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [Github CI: Update runs-on to ubuntu-4 (#15778)](https://github.com/OffchainLabs/prysm/commit/1432867c9228207a8e9badc2c7b3f62a23a5f6b1) - 2025-10-07
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2025-12-02
-* [Pull Request] []() - 2025-12-29
+* [Pull Request] [Backfill data columns](https://github.com/OffchainLabs/prysm/pull/15580) - 2025-12-02
+* [Pull Request] [Fix validation bug in --backfill-oldest-slot](https://github.com/OffchainLabs/prysm/pull/16173) - 2025-12-29
 ## Q3 2025
 
 

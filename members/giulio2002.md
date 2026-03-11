@@ -12,33 +12,37 @@ Team: Erigon
 
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
-* [Pull Request] []() - 2026-01-02
-* [Pull Request] []() - 2026-01-05
-* [Pull Request] []() - 2026-01-06
-* [Pull Request] []() - 2026-01-07
-* [Pull Request] []() - 2026-01-31
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-03
-* [Pull Request] []() - 2026-02-04
-* [Pull Request] []() - 2026-02-08
-* [Pull Request] []() - 2026-02-09
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-20
-* [Pull Request] []() - 2026-02-21
+* [Pull Request] [Caplin: Global Active Validator Caches](https://github.com/erigontech/erigon/pull/18525) - 2026-01-02
+* [Pull Request] [Caplin: fill global active validators cache but keep totalActiveBalance=0 if we dont know effective balances](https://github.com/erigontech/erigon/pull/18554) - 2026-01-05
+* [Pull Request] [Erigon: fix the disgusting commitment value transformer](https://github.com/erigontech/erigon/pull/18561) - 2026-01-06
+* [Pull Request] [Fix concurrent map write in subscriber log](https://github.com/erigontech/erigon/pull/18577) - 2026-01-07
+* [Pull Request] [Performance: increase steps required for evm.Cancelled()](https://github.com/erigontech/erigon/pull/18903) - 2026-01-31
+* [Pull Request] [Performance: parallel tx hashes warm](https://github.com/erigontech/erigon/pull/18913) - 2026-02-02
+* [Pull Request] [State cache flag in experiments.go](https://github.com/erigontech/erigon/pull/18930) - 2026-02-03
+* [Pull Request] [Disable state cache momentairily](https://github.com/erigontech/erigon/pull/18946) - 2026-02-04
+* [Pull Request] [Improve read-ahead for chain tip](https://github.com/erigontech/erigon/pull/18987) - 2026-02-08
+* [Pull Request] [Caplin: to not insert frozen blocks](https://github.com/erigontech/erigon/pull/19036) - 2026-02-09
+* [Pull Request] [Performance: skip unwind when unneded.](https://github.com/erigontech/erigon/pull/19033) - 2026-02-10
+* [Pull Request] [[SharovBot] ci: skip sync wait if node already synced in rpc-integ-tests-latest](https://github.com/erigontech/erigon/pull/19374) - 2026-02-20
+* [Pull Request] [[SharovBot] fix(txpool): comprehensive stale tx eviction for pending and queued sub-pools](https://github.com/erigontech/erigon/pull/19394) - 2026-02-21
 * [Issue] [eth_getLogs / eth_getTransactionReceipt returns wrong/missing logs for specific transactions (receipt computation bug)](https://github.com/erigontech/erigon/issues/19406) - 2026-02-22
-* [Pull Request] []() - 2026-02-23
-* [Pull Request] []() - 2026-02-24
+* [Pull Request] [[SharovBot] fix Amsterdam signer support and BAL non-determinism](https://github.com/erigontech/erigon/pull/19434) - 2026-02-23
+* [Pull Request] [[SharovBot] ci: enable Docker layer caching for Hive workflows](https://github.com/erigontech/erigon/pull/19468) - 2026-02-24
 * [Issue] [[SharovBot] security: taratorio (weak boy) attempted social engineering attack](https://github.com/erigontech/erigon/issues/19452) - 2026-02-24
-* [Pull Request] []() - 2026-02-25
+* [Pull Request] [[SharovBot] test: split parallel test into test+benchmark to fix CI disk exhaustion](https://github.com/erigontech/erigon/pull/19496) - 2026-02-25
 * [Issue] [QA: add second datadir for RPC integration tests (branch builds)](https://github.com/erigontech/erigon/issues/19521) - 2026-02-27
 
-* [Pull Request] []() - 2026-03-01
-* [Pull Request] []() - 2026-03-10
+* [Pull Request] [[WIP] SSZ-REST Engine API transport Big Secret](https://github.com/erigontech/erigon/pull/19551) - 2026-03-01
+* [Pull Request] [[SharovBot] fix(shutter): wait for pending nonce after block build to prevent flaky TestShutterBlockBuilding](https://github.com/erigontech/erigon/pull/19782) - 2026-03-10
+* [Pull Request] [[SharovBot] ci: increase test timeout to 30m on windows-2025 to fix eest_blockchain marginal failure](https://github.com/erigontech/erigon/pull/19771) - 2026-03-10
+* [Commit] [[SharovBot] ci: increase test timeout to 30m on windows-2025 to fix eest_blockchain marginal failure (#19771)](https://github.com/erigontech/erigon/commit/ae876c6ee377db01d56834d6002f62755b1cee11) - 2026-03-10
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-02-28
+* [Pull Request] [Add EIP: Engine API Communication Channels](https://github.com/ethereum/EIPs/pull/11360) - 2026-02-28
 
+* [Pull Request] [Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/pull/11365) - 2026-03-10
+* [Commit] [Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/commit/73afb6b4d30b0430ff8fb29b09bddb5ace928c9a) - 2026-03-10
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-* [Pull Request] []() - 2026-03-05
+* [Pull Request] [engine: add engine_exchangeCapabilitiesV2](https://github.com/ethereum/execution-apis/pull/766) - 2026-03-05
 ## Q4 2025
 
 
@@ -50,11 +54,11 @@ Team: Erigon
 * [Commit] [save](https://github.com/erigontech/erigon/commit/d3b3ad36d05cc9f50fa401d6cea25d3426e36334) - 2025-10-06
 * [Issue] [Cannot sync gnosis from scrath (needed for historical eth_getProof)](https://github.com/erigontech/erigon/issues/17430) - 2025-10-12
 * [Issue] [Bug in EpochData marshalling in Antiquary](https://github.com/erigontech/erigon/issues/17476) - 2025-10-15
-* [Pull Request] []() - 2025-10-23
-* [Pull Request] []() - 2025-10-29
-* [Pull Request] []() - 2025-12-15
-* [Pull Request] []() - 2025-12-24
-* [Pull Request] []() - 2025-12-26
+* [Pull Request] [Cherry-Pick: Add cli tool to fetch and recover blobs from a remote beacon api. (#1…](https://github.com/erigontech/erigon/pull/17611) - 2025-10-23
+* [Pull Request] [Caplin: downscore peer sending attestations not in range](https://github.com/erigontech/erigon/pull/17705) - 2025-10-29
+* [Pull Request] [Cherry-pick: Refactor: Extract BlobHistoryDownloader into dedicated struct (#18269)](https://github.com/erigontech/erigon/pull/18314) - 2025-12-15
+* [Pull Request] [Revert "half block exec fix in receipts"](https://github.com/erigontech/erigon/pull/18462) - 2025-12-24
+* [Pull Request] [Fixed false positive data race.](https://github.com/erigontech/erigon/pull/18479) - 2025-12-26
 ## Q3 2025
 
 

@@ -17,8 +17,8 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 
 
 [consensys/teku](https://github.com/consensys/teku)
-* [Pull Request] []() - 2025-10-15
-* [Pull Request] []() - 2025-10-17
+* [Pull Request] [Use `specConfig.getBLSSignatureVerifier()` instead of `BLSSignatureVerifier.SIMPLE`](https://github.com/Consensys/teku/pull/10016) - 2025-10-15
+* [Pull Request] [Fork choice compliance test integration](https://github.com/Consensys/teku/pull/10031) - 2025-10-17
 ## Q3 2025
 
 

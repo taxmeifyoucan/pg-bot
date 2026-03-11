@@ -12,20 +12,24 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 
 
 [consensys/teku](https://github.com/consensys/teku)
-* [Pull Request] []() - 2026-01-05
-* [Pull Request] []() - 2026-01-06
+* [Pull Request] [Containers and config for non-validating staked builders](https://github.com/Consensys/teku/pull/10257) - 2026-01-05
+* [Pull Request] [Make builders non-validating staked actors](https://github.com/Consensys/teku/pull/10261) - 2026-01-06
 * [Issue] [Implement proposer preferences](https://github.com/Consensys/teku/issues/10259) - 2026-01-06
-* [Pull Request] []() - 2026-01-08
-* [Pull Request] []() - 2026-01-30
+* [Pull Request] [Fork choice changes to align with `v1.7.0-alpha.1`](https://github.com/Consensys/teku/pull/10263) - 2026-01-08
+* [Pull Request] [Prune hot collections correctly](https://github.com/Consensys/teku/pull/10308) - 2026-01-30
 * [Pull Request] []() - 2026-02-02
 * [Issue] [DoS prevention measures for p2p bids](https://github.com/Consensys/teku/issues/10314) - 2026-02-02
 * [Issue] [Data availability checks in Gloas](https://github.com/Consensys/teku/issues/10311) - 2026-02-02
 * [Issue] [Proposer Boost Changes](https://github.com/Consensys/teku/issues/10320) - 2026-02-03
 * [Issue] [[Gloas] State Selection during Block Production](https://github.com/Consensys/teku/issues/10352) - 2026-02-09
-* [Pull Request] []() - 2026-02-23
-* [Pull Request] []() - 2026-02-25
+* [Pull Request] [Add barebone Heze fork](https://github.com/Consensys/teku/pull/10398) - 2026-02-23
+* [Pull Request] [[Gloas] Make devnet-0 happy](https://github.com/Consensys/teku/pull/10422) - 2026-02-25
 * [Pull Request] []() - 2026-02-28
-* [Pull Request] []() - 2026-03-02
+* [Pull Request] [[Gloas] Cache early received payload for future processing](https://github.com/Consensys/teku/pull/10440) - 2026-03-02
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [[Gloas] fCu and attestation index changes for devnet-0](https://github.com/Consensys/teku/pull/10445) - 2026-03-10
+* [Commit] [[Gloas] fCu and attestation index changes for devnet-0 (#10445)](https://github.com/Consensys/teku/commit/bfbc348300f1a72d569d71032001c5aa44ef003e) - 2026-03-10
 ## Q4 2025
 
 
@@ -48,20 +52,20 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [Split integration tests](https://github.com/Consensys/teku/issues/10007) - 2025-10-13
 * [Issue] [Delay when producing an execution payload in Gloas (self-built)](https://github.com/Consensys/teku/issues/10018) - 2025-10-15
 * [Issue] [Payload timeliness attestation duty](https://github.com/Consensys/teku/issues/10041) - 2025-10-21
-* [Pull Request] []() - 2025-10-22
+* [Pull Request] [Fork choice `on_execution_payload` skeleton](https://github.com/Consensys/teku/pull/10049) - 2025-10-22
 * [Issue] [Adapt `TimeBasedEventAdapter` for Gloas](https://github.com/Consensys/teku/issues/10053) - 2025-10-23
 
-* [Pull Request] []() - 2025-10-30
-* [Pull Request] []() - 2025-11-01
+* [Pull Request] [Update ref tests to v1.6.0-beta.2](https://github.com/Consensys/teku/pull/10081) - 2025-10-30
+* [Pull Request] [Upgrade to stable v1.6.0 reference tests release](https://github.com/Consensys/teku/pull/10091) - 2025-11-01
 * [Issue] [Investigate usages of `BlockBlobSidecarsTrackersPool` ](https://github.com/Consensys/teku/issues/10101) - 2025-11-05
-* [Pull Request] []() - 2025-11-11
-* [Pull Request] []() - 2025-11-15
-* [Pull Request] []() - 2025-12-08
+* [Pull Request] [Payload attestation messages aggregation during block proposal](https://github.com/Consensys/teku/pull/10121) - 2025-11-11
+* [Pull Request] [Gloas changes for `v1.6.1`](https://github.com/Consensys/teku/pull/10141) - 2025-11-15
+* [Pull Request] [Fix `BlobSidecarSelectorFactory` for Gloas](https://github.com/Consensys/teku/pull/10209) - 2025-12-08
 * [Pull Request] []() - 2025-12-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-10-28
+* [Pull Request] [Add pending payment withdrawal epoch asserts](https://github.com/ethereum/consensus-specs/pull/4701) - 2025-10-28
 * [Issue] [Add fork tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4740) - 2025-11-12
-* [Pull Request] []() - 2025-11-12
+* [Pull Request] [Set `block_hash` in the latest bid during Gloas state upgrade](https://github.com/ethereum/consensus-specs/pull/4739) - 2025-11-12
 ## Q3 2025
 
 

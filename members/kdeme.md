@@ -12,29 +12,29 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
-* [Pull Request] []() - 2026-01-19
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [Add nimbus_portal_client binary to the release procedure](https://github.com/status-im/nimbus-eth1/pull/3923) - 2026-01-19
+* [Pull Request] [Uncomment & rework debug json-rpc endpoints](https://github.com/status-im/nimbus-eth1/pull/3929) - 2026-01-21
 
-* [Pull Request] []() - 2026-01-29
+* [Pull Request] [Fix JSON error object for eth_estimateGas](https://github.com/status-im/nimbus-eth1/pull/3940) - 2026-01-29
 * [Issue] [Improve eth_estimateGas binary search by doing first some short circuits](https://github.com/status-im/nimbus-eth1/issues/3946) - 2026-01-30
 * [Issue] [Fix EstimateGas to add gas cost for EIP-7702  authorization](https://github.com/status-im/nimbus-eth1/issues/3945) - 2026-01-30
 * [Issue] [Implement Execution api method eth_feeHistory](https://github.com/status-im/nimbus-eth1/issues/3944) - 2026-01-30
 * [Issue] [Implement Execution api method eth_simulateV1](https://github.com/status-im/nimbus-eth1/issues/3943) - 2026-01-30
 * [Issue] [Execution-api JSON-RPC master tracker issue](https://github.com/status-im/nimbus-eth1/issues/3942) - 2026-01-30
-* [Pull Request] []() - 2026-02-12
+* [Pull Request] [EraE implementation WIP](https://github.com/status-im/nimbus-eth1/pull/3979) - 2026-02-12
 * [Issue] [Execution API: block tag not parsing hash](https://github.com/status-im/nimbus-eth1/issues/3981) - 2026-02-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
-* [Pull Request] []() - 2026-01-23
+* [Pull Request] [Bump nim-web3 and related changes](https://github.com/status-im/nimbus-eth2/pull/7876) - 2026-01-23
 * [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-02-14
-* [Pull Request] []() - 2026-02-20
+* [Pull Request] [Use toExecutionPayloadHeader consistently in process_execution_payload](https://github.com/status-im/nimbus-eth2/pull/7965) - 2026-02-14
+* [Pull Request] [EIP8025: Start of implementation](https://github.com/status-im/nimbus-eth2/pull/8004) - 2026-02-20
 ## Q4 2025
 
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Docs: Use consensus light client naming throughout the guide](https://github.com/status-im/nimbus-eth2/pull/7560) - 2025-10-01
 
-* [Pull Request] []() - 2025-12-04
+* [Pull Request] [Deprecate --in-process-validators flag and rm related leftovers](https://github.com/status-im/nimbus-eth2/pull/7777) - 2025-12-04
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Portal + era1: Remove use of hardcoded mainnet mergeBlockNumber](https://github.com/status-im/nimbus-eth1/pull/3742) - 2025-10-03
 * [Commit] [Portal + era1: Remove use of hardcoded mainnet mergeBlockNumber](https://github.com/status-im/nimbus-eth1/commit/ad51effc74c091db846371311655aaeeb6c471e1) - 2025-10-03
@@ -49,18 +49,18 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Experiment with a RangeFindContent message type in Portal wire protocol](https://github.com/status-im/nimbus-eth1/issues/3773) - 2025-10-16
 * [Issue] [Offer data or subset of data before it gets pruned](https://github.com/status-im/nimbus-eth1/issues/3775) - 2025-10-17
 * [Issue] [Add block receipts retrieval from Portal in EL](https://github.com/status-im/nimbus-eth1/issues/3774) - 2025-10-17
-* [Pull Request] []() - 2025-10-24
+* [Pull Request] [Fix ForkId compatible bug](https://github.com/status-im/nimbus-eth1/pull/3796) - 2025-10-24
 * [Issue] [Missing eip-2124 / EIP-6122 testing for fork combination possibilities](https://github.com/status-im/nimbus-eth1/issues/3795) - 2025-10-24
 * [Issue] [Invalid forkid checking for discv5 eligibleNode check](https://github.com/status-im/nimbus-eth1/issues/3794) - 2025-10-24
-* [Pull Request] []() - 2025-10-28
-* [Pull Request] []() - 2025-10-31
-* [Pull Request] []() - 2025-11-04
+* [Pull Request] [EL: Small p2p connect/lookup cleanup](https://github.com/status-im/nimbus-eth1/pull/3800) - 2025-10-28
+* [Pull Request] [Fix forkId compatibility according to EIP-2124 and EIP-6122](https://github.com/status-im/nimbus-eth1/pull/3803) - 2025-10-31
+* [Pull Request] [Rework ForkId to get rid of ChainForkId and its conversions](https://github.com/status-im/nimbus-eth1/pull/3810) - 2025-11-04
 * [Issue] [Add ForkId compatibility check at eth68/69 Status message receival](https://github.com/status-im/nimbus-eth1/issues/3813) - 2025-11-05
-* [Pull Request] []() - 2025-11-05
-* [Pull Request] []() - 2025-11-06
+* [Pull Request] [Fix EthTime only forkId func to fix eth_config JSON-RPC method](https://github.com/status-im/nimbus-eth1/pull/3812) - 2025-11-05
+* [Pull Request] [Remove old Nimbus documentation](https://github.com/status-im/nimbus-eth1/pull/3816) - 2025-11-06
 * [Issue] [nec_sync_peers / buddy.ctx.pool.nBuddies value much higher than amount of rlpx peers connected](https://github.com/status-im/nimbus-eth1/issues/3823) - 2025-11-10
-* [Pull Request] []() - 2025-12-03
-* [Pull Request] []() - 2025-12-18
+* [Pull Request] [Portal: Cleanup JSON-RPC InvalidRequest usage](https://github.com/status-im/nimbus-eth1/pull/3858) - 2025-12-03
+* [Pull Request] [Adjust for optional totalDifficulty in JSON-RPC BlockObject](https://github.com/status-im/nimbus-eth1/pull/3883) - 2025-12-18
 * [Pull Request] []() - 2025-12-22
 ## Q3 2025
 

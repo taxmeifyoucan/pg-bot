@@ -12,7 +12,7 @@ Team: Robust Incentives Group (RIG)
 
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
-* [Pull Request] []() - 2026-01-09
+* [Pull Request] [Add Marios Ioannou to RIG](https://github.com/protocolguild/documentation/pull/466) - 2026-01-09
 * [Pull Request] []() - 2026-01-16
 ## Q3 2025
 

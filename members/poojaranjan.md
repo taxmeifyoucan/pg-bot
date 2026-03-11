@@ -26,16 +26,16 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #91, March 03, 2026](https://github.com/ethereum/pm/issues/1957) - 2026-03-03
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #92, March 11, 2026](https://github.com/ethereum/pm/issues/1961) - 2026-03-05
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-01-03
-* [Pull Request] []() - 2026-01-21
-* [Pull Request] []() - 2026-01-22
-* [Pull Request] []() - 2026-01-23
-* [Pull Request] []() - 2026-01-24
-* [Pull Request] []() - 2026-01-29
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-03-03
+* [Pull Request] [Update EIP-7723: Update eip-7723.md](https://github.com/ethereum/EIPs/pull/11006) - 2026-01-03
+* [Pull Request] [Update EIP-7910: Move to Final](https://github.com/ethereum/EIPs/pull/11135) - 2026-01-21
+* [Pull Request] [Update EIP-7892: Move to Final](https://github.com/ethereum/EIPs/pull/11152) - 2026-01-22
+* [Pull Request] [Add EIP: Upgrade Nomenclature](https://github.com/ethereum/EIPs/pull/11161) - 2026-01-23
+* [Pull Request] [Add EIP: Hardfork Meta - BPO2](https://github.com/ethereum/EIPs/pull/11165) - 2026-01-24
+* [Pull Request] [Website: Update eip.html](https://github.com/ethereum/EIPs/pull/11201) - 2026-01-29
+* [Pull Request] [Website: Remove `Online Serial` from "Citation".](https://github.com/ethereum/EIPs/pull/11268) - 2026-02-05
+* [Pull Request] [Add contribution guidelines for EIP repository](https://github.com/ethereum/EIPs/pull/11124) - 2026-02-10
+* [Pull Request] [Add EIP: Hardfork Meta - BPO3](https://github.com/ethereum/EIPs/pull/11182) - 2026-02-24
+* [Pull Request] [Update EIP-8135: Move to Review](https://github.com/ethereum/EIPs/pull/11370) - 2026-03-03
 ## Q4 2025
 
 

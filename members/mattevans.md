@@ -12,27 +12,31 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
-* [Pull Request] []() - 2026-01-06
+* [Pull Request] [feat(payloads): add Ethrex client to filter and quick-filter options](https://github.com/ethpandaops/lab/pull/370) - 2026-01-06
 * [Pull Request] []() - 2026-01-12
 
-* [Pull Request] []() - 2026-02-03
-* [Pull Request] []() - 2026-02-05
+* [Pull Request] [feat(gas-profiler): deep link to contracts](https://github.com/ethpandaops/lab/pull/394) - 2026-02-03
+* [Pull Request] [feat(flame-graph): less jump transitions + fix search](https://github.com/ethpandaops/lab/pull/398) - 2026-02-05
 * [Pull Request] []() - 2026-02-06
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-11
-* [Pull Request] []() - 2026-02-12
-* [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-02-27
+* [Pull Request] [refactor(gas-profiler): paging/dates](https://github.com/ethpandaops/lab/pull/406) - 2026-02-10
+* [Pull Request] [feat(gas-profiler): add precompile gas parameters and UI support](https://github.com/ethpandaops/lab/pull/412) - 2026-02-11
+* [Pull Request] [feat(gas-profiler): show friendly syncing state when backend nodes are unavailable](https://github.com/ethpandaops/lab/pull/420) - 2026-02-12
+* [Pull Request] [feat(gas): cleanup](https://github.com/ethpandaops/lab/pull/423) - 2026-02-13
+* [Pull Request] [fix: ethrex quick filter](https://github.com/ethpandaops/lab/pull/430) - 2026-02-25
+* [Pull Request] [feat: gas profiler - receipt size](https://github.com/ethpandaops/lab/pull/431) - 2026-02-27
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [feat(config.production.yaml): add ethpandaops/blob-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/78) - 2026-01-21
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-02-16
-* [Pull Request] []() - 2026-02-17
-* [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-23
+* [Pull Request] [feat(clickhouse): add canonical_execution_transaction_structlog_agg tables](https://github.com/ethpandaops/xatu/pull/741) - 2026-01-27
+* [Pull Request] [feat(clickhouse): add resource gas columns to structlog_agg tables](https://github.com/ethpandaops/xatu/pull/748) - 2026-02-16
+* [Pull Request] [feat(migrations): off by one - story of my life](https://github.com/ethpandaops/xatu/pull/750) - 2026-02-17
+* [Pull Request] [refactor: go-fix](https://github.com/ethpandaops/xatu/pull/751) - 2026-02-18
+* [Pull Request] [refactor: trace_identify plumbing](https://github.com/ethpandaops/xatu/pull/765) - 2026-02-23
+
+[ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
+* [Pull Request] [fix: resolve golangci-lint issues](https://github.com/ethpandaops/contributoor/pull/195) - 2026-03-11
+* [Pull Request] [chore: bump go-ethereum to v1.17.1](https://github.com/ethpandaops/contributoor/pull/194) - 2026-03-10
 ## Q4 2025
 
 
@@ -44,8 +48,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: align custodyGroupCount type assertion with protobuf uint64](https://github.com/ethpandaops/xatu/commit/f4e9ecb9842c13a2cd92c9bb9bd2c2a1dd773801) - 2025-10-02
 * [Pull Request] [fix: align custodyGroupCount type assertion with protobuf uint64](https://github.com/ethpandaops/xatu/pull/671) - 2025-10-02
 * [Commit] [feat: add support for Tysm consensus client in cannon and sentry](https://github.com/ethpandaops/xatu/commit/ad63cc760fd16a741bf349002dbecb3fc62a8bf6) - 2025-10-02
-* [Pull Request] []() - 2025-12-07
-* [Pull Request] []() - 2025-12-08
+* [Pull Request] [fix(clmimicry): support typed *TraceEventCustodyProbe payload](https://github.com/ethpandaops/xatu/pull/699) - 2025-12-07
+* [Pull Request] [refactor(cannon): overhaul smoke test to use dynamic epoch seeding with mainnet](https://github.com/ethpandaops/xatu/pull/701) - 2025-12-08
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Commit] [feat: add Grandine client logo to fork-readiness page](https://github.com/ethpandaops/lab/commit/1c418e0cc75943767453d6de25f4a7746091c035) - 2025-10-01
 * [Pull Request] [feat: add Grandine client logo to fork-readiness page](https://github.com/ethpandaops/lab/pull/113) - 2025-10-01
@@ -68,15 +72,15 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(go.mod): remove local replace directive for xatu-cbt and bump to latest upstream version](https://github.com/ethpandaops/lab/commit/7b93166aab47ee22644b83d6a2e3b90028e90598) - 2025-10-10
 * [Pull Request] [feat: revendor protos with changes - made tweaks](https://github.com/ethpandaops/lab/pull/120) - 2025-10-10
 
-* [Pull Request] []() - 2025-12-03
-* [Pull Request] []() - 2025-12-16
-* [Pull Request] []() - 2025-12-18
+* [Pull Request] [refactor(DetailPage): remove fork-based conditional rendering for blob/data column charts](https://github.com/ethpandaops/lab/pull/339) - 2025-12-03
+* [Pull Request] [refactor(engine-timings): derive data from hourly & el-client](https://github.com/ethpandaops/lab/pull/358) - 2025-12-16
+* [Pull Request] [refactor: switch from hourly/daily aggregates to per-slot data for accuracy](https://github.com/ethpandaops/lab/pull/361) - 2025-12-18
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
-* [Pull Request] []() - 2025-11-04
-* [Pull Request] []() - 2025-11-13
+* [Pull Request] [feat(config.production.yaml): add fusaka hardfork config for mainnet](https://github.com/ethpandaops/cartographoor/pull/51) - 2025-11-04
+* [Pull Request] [feat(client): add cartographoor client library with memory and redis providers](https://github.com/ethpandaops/cartographoor/pull/56) - 2025-11-13
 
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
-* [Pull Request] []() - 2025-11-27
+* [Pull Request] [docs(README.md): add new attestation subnet CLI flags to configuration section](https://github.com/ethpandaops/contributoor/pull/163) - 2025-11-27
 ## Q3 2025
 
 

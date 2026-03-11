@@ -12,52 +12,52 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2026-01-05
-* [Pull Request] []() - 2026-01-09
-* [Pull Request] []() - 2026-01-10
-* [Pull Request] []() - 2026-01-13
-* [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-01-17
+* [Pull Request] [Bump version to 1.7.0-alpha.0](https://github.com/ethereum/consensus-specs/pull/4811) - 2026-01-05
+* [Pull Request] [Update release trigger](https://github.com/ethereum/consensus-specs/pull/4825) - 2026-01-09
+* [Pull Request] [Improve the release action](https://github.com/ethereum/consensus-specs/pull/4827) - 2026-01-10
+* [Pull Request] [Fix indexed payload attestation domain](https://github.com/ethereum/consensus-specs/pull/4836) - 2026-01-13
+* [Pull Request] [Rename two sections](https://github.com/ethereum/consensus-specs/pull/4844) - 2026-01-16
+* [Pull Request] [Enable two more pypy checks](https://github.com/ethereum/consensus-specs/pull/4845) - 2026-01-17
 * [Issue] [Release: `v1.7.0-alpha.2`](https://github.com/ethereum/consensus-specs/issues/4858) - 2026-01-23
 
-* [Pull Request] []() - 2026-01-28
-* [Pull Request] []() - 2026-01-31
-* [Pull Request] []() - 2026-02-02
+* [Pull Request] [Simplify data column sidecar gossip checks in Gloas](https://github.com/ethereum/consensus-specs/pull/4874) - 2026-01-28
+* [Pull Request] [Fix assertion checks in tests](https://github.com/ethereum/consensus-specs/pull/4889) - 2026-01-31
+* [Pull Request] [Add an `AGENTS.md` file](https://github.com/ethereum/consensus-specs/pull/4894) - 2026-02-02
 * [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-06
-* [Pull Request] []() - 2026-02-09
-* [Pull Request] []() - 2026-02-10
+* [Pull Request] [Add executable gossip validation functions for phase0](https://github.com/ethereum/consensus-specs/pull/4902) - 2026-02-06
+* [Pull Request] [Fix test which incorrectly assumes min builder balance is 32 ETH](https://github.com/ethereum/consensus-specs/pull/4909) - 2026-02-09
+* [Pull Request] [Enable tests for EIP-8025](https://github.com/ethereum/consensus-specs/pull/4911) - 2026-02-10
 * [Pull Request] []() - 2026-02-11
-* [Pull Request] []() - 2026-02-12
-* [Pull Request] []() - 2026-02-14
-* [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-23
-* [Pull Request] []() - 2026-03-02
-* [Pull Request] []() - 2026-03-03
-* [Pull Request] []() - 2026-03-05
+* [Pull Request] [Refactor builder deposit conditions in `process_deposit_request`](https://github.com/ethereum/consensus-specs/pull/4916) - 2026-02-12
+* [Pull Request] [Use ckzg by default for tests](https://github.com/ethereum/consensus-specs/pull/4921) - 2026-02-14
+* [Pull Request] [Generate specs before publishing](https://github.com/ethereum/consensus-specs/pull/4938) - 2026-02-18
+* [Pull Request] [Fix inclusion list test for mainnet](https://github.com/ethereum/consensus-specs/pull/4945) - 2026-02-23
+* [Pull Request] [Update fork choice store to use milliseconds](https://github.com/ethereum/consensus-specs/pull/4954) - 2026-03-02
+* [Pull Request] [Use xdist worksteal distribution method for tests](https://github.com/ethereum/consensus-specs/pull/4961) - 2026-03-03
+* [Pull Request] [Ignore hidden files when running mdformat](https://github.com/ethereum/consensus-specs/pull/4978) - 2026-03-05
 * [Issue] [Look into uploading non-zipped nightly reference tests](https://github.com/ethereum/consensus-specs/issues/4975) - 2026-03-05
-* [Pull Request] []() - 2026-03-06
-* [Pull Request] []() - 2026-03-07
-* [Pull Request] []() - 2026-03-10
+* [Pull Request] [Improve pytest performance](https://github.com/ethereum/consensus-specs/pull/4987) - 2026-03-06
+* [Pull Request] [Fix sampling config test](https://github.com/ethereum/consensus-specs/pull/4988) - 2026-03-07
+* [Pull Request] [Add support for python 3.14](https://github.com/ethereum/consensus-specs/pull/4995) - 2026-03-10
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
-* [Pull Request] []() - 2026-01-27
+* [Pull Request] [feat: enable specref features & remove unnecessary spec items](https://github.com/ChainSafe/lodestar/pull/8788) - 2026-01-27
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2026-01-29
+* [Pull Request] [Improve ethspecify integration](https://github.com/OffchainLabs/prysm/pull/16304) - 2026-01-29
 
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
-* [Pull Request] []() - 2026-02-01
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-02-26
+* [Pull Request] [Update trusted setup URL to use master branch](https://github.com/ethereum/c-kzg-4844/pull/623) - 2026-02-01
+* [Pull Request] [Bump clang-format to v21](https://github.com/ethereum/c-kzg-4844/pull/634) - 2026-02-24
+* [Pull Request] [Allow compiler overrides & only use some flags for clang](https://github.com/ethereum/c-kzg-4844/pull/633) - 2026-02-25
+* [Pull Request] [Drop support for macOS x86 in python package workflow](https://github.com/ethereum/c-kzg-4844/pull/635) - 2026-02-26
 ## Q4 2025
 
 
 [consensys/teku](https://github.com/consensys/teku)
 * [Pull Request] [Trim trailing whitespace to fix specrefs CI check](https://github.com/Consensys/teku/pull/9954) - 2025-10-01
 
-* [Pull Request] []() - 2025-11-10
-* [Pull Request] []() - 2025-12-03
+* [Pull Request] [Clean up Gloas upgrade function](https://github.com/Consensys/teku/pull/10116) - 2025-11-10
+* [Pull Request] [Run `kzg.loadTrustedSetup` in thread with 8MB stack size](https://github.com/Consensys/teku/pull/10197) - 2025-12-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Fix weak subjectivity checkpoint check (#4620)](https://github.com/ethereum/consensus-specs/commit/4f743484b404c42988194a7160f2f532d69cc2d0) - 2025-10-01
 * [Commit] [Use non-editable installs for test generators (#4634)](https://github.com/ethereum/consensus-specs/commit/5a4e05a29694576b036c2ad0f8d19bf5daed0788) - 2025-10-03
@@ -65,15 +65,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Restrict python version to <3.14](https://github.com/ethereum/consensus-specs/pull/4643) - 2025-10-07
 * [Commit] [Restrict python version to <3.14 (#4643)](https://github.com/ethereum/consensus-specs/commit/44db4a3aa18db12a16b09f4b808b656427825974) - 2025-10-08
 
-* [Pull Request] []() - 2025-10-22
+* [Pull Request] [Set fork epoch & blob schedule for Fulu](https://github.com/ethereum/consensus-specs/pull/4689) - 2025-10-22
 * [Issue] [Remove support for former deposit mechanism](https://github.com/ethereum/consensus-specs/issues/4686) - 2025-10-22
 * [Issue] [Fix tests so that merge functions do not need to be modified](https://github.com/ethereum/consensus-specs/issues/4684) - 2025-10-22
-* [Pull Request] []() - 2025-10-23
+* [Pull Request] [Clean up Gloas specs (part 3)](https://github.com/ethereum/consensus-specs/pull/4694) - 2025-10-23
 * [Issue] [Test generator blocking issue](https://github.com/ethereum/consensus-specs/issues/4710) - 2025-10-29
 * [Issue] [An internal research client](https://github.com/ethereum/consensus-specs/issues/4749) - 2025-11-19
 * [Issue] [Publish eth2spec package again](https://github.com/ethereum/consensus-specs/issues/4748) - 2025-11-19
-* [Pull Request] []() - 2025-12-02
-* [Pull Request] []() - 2025-12-15
+* [Pull Request] [Fix various nits](https://github.com/ethereum/consensus-specs/pull/4771) - 2025-12-02
+* [Pull Request] [Add `is_higher_value_bid` helper for bid forwarding threshold](https://github.com/ethereum/consensus-specs/pull/4792) - 2025-12-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP-7732 Breakout Room Call #26, October 24, 2025](https://github.com/ethereum/pm/issues/1759) - 2025-10-13
 * [Issue] [EIP-7732 Breakout Room Call #27, November 7, 2025](https://github.com/ethereum/pm/issues/1783) - 2025-10-25
@@ -81,7 +81,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [EIP-7732 Breakout Room Call #29, December 19, 2025](https://github.com/ethereum/pm/issues/1835) - 2025-12-05
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
-* [Pull Request] []() - 2025-12-06
+* [Pull Request] [Add spec references, a mapping of spec to implementation](https://github.com/sigp/lighthouse/pull/8549) - 2025-12-06
 ## Q3 2025
 
 

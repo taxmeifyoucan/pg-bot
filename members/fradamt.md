@@ -12,14 +12,14 @@ Team: Consensus R&D (EF)
 
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-10-28
-* [Pull Request] []() - 2025-11-10
-* [Pull Request] []() - 2025-11-13
-* [Pull Request] []() - 2025-11-14
-* [Pull Request] []() - 2025-11-20
+* [Pull Request] [Update EIP-7773: Propose EIP-8061 for Glamsterdam](https://github.com/ethereum/EIPs/pull/10643) - 2025-10-28
+* [Pull Request] [Update EIP-8061: bring back deposit cap and let exits use the consolidation queue](https://github.com/ethereum/EIPs/pull/10765) - 2025-11-10
+* [Pull Request] [Add EIP: Let exits use the consolidation queue](https://github.com/ethereum/EIPs/pull/10790) - 2025-11-13
+* [Pull Request] [Update EIP-7773: PFI 8080](https://github.com/ethereum/EIPs/pull/10796) - 2025-11-14
+* [Pull Request] [Update EIP-7594: minor fix](https://github.com/ethereum/EIPs/pull/10815) - 2025-11-20
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-12-30
+* [Pull Request] [Finishing touches for the gloas fork-choice](https://github.com/ethereum/consensus-specs/pull/4807) - 2025-12-30
 ## Q3 2025
 
 

@@ -12,21 +12,21 @@ Team: Nimbus
 
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
-* [Pull Request] []() - 2026-01-07
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-02-06
-* [Pull Request] []() - 2026-02-15
-* [Pull Request] []() - 2026-03-02
+* [Pull Request] [Update p2p protocol packing](https://github.com/status-im/nimbus-eth1/pull/3896) - 2026-01-07
+* [Pull Request] [Snap sync packet proofs](https://github.com/status-im/nimbus-eth1/pull/3935) - 2026-01-27
+* [Pull Request] [Snap sync provide assembly db api](https://github.com/status-im/nimbus-eth1/pull/3949) - 2026-01-30
+* [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/3969) - 2026-02-06
+* [Pull Request] [Snap sync implement code dowloader](https://github.com/status-im/nimbus-eth1/pull/3982) - 2026-02-15
+* [Pull Request] [Snap sync perpare assembly db for mpt import](https://github.com/status-im/nimbus-eth1/pull/4029) - 2026-03-02
 ## Q4 2025
 
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [Beacon sync timing and maint update (#3761)](https://github.com/status-im/nimbus-eth1/commit/163251618e61e1b23d017796229c007d0d8dae0e) - 2025-10-10
-* [Pull Request] []() - 2025-11-20
-* [Pull Request] []() - 2025-11-24
-* [Pull Request] []() - 2025-12-08
-* [Pull Request] []() - 2025-12-19
+* [Pull Request] [Beacon sync trace replay test tools v3](https://github.com/status-im/nimbus-eth1/pull/3837) - 2025-11-20
+* [Pull Request] [Update pending and finalised registry](https://github.com/status-im/nimbus-eth1/pull/3844) - 2025-11-24
+* [Pull Request] [Beacon sync maint update](https://github.com/status-im/nimbus-eth1/pull/3867) - 2025-12-08
+* [Pull Request] [Beacon sync trace replay test tools v4](https://github.com/status-im/nimbus-eth1/pull/3885) - 2025-12-19
 ## Q3 2025
 
 

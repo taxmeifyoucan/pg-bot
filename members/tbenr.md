@@ -14,18 +14,22 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 [consensys/teku](https://github.com/consensys/teku)
 * [Issue] [We should subscribe to data columns subnets when following the chain optimistically](https://github.com/Consensys/teku/issues/10275) - 2026-01-15
 * [Issue] [`engine_forkchoiceUpdatedV4` for BALs](https://github.com/Consensys/teku/issues/10298) - 2026-01-26
-* [Pull Request] []() - 2026-02-08
+* [Pull Request] [optimize single attestation conversion](https://github.com/Consensys/teku/pull/10343) - 2026-02-08
 * [Issue] [fork choice changes](https://github.com/Consensys/teku/issues/10369) - 2026-02-12
-* [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-20
+* [Pull Request] [is_proposer_equivocation check](https://github.com/Consensys/teku/pull/10379) - 2026-02-13
+* [Pull Request] [Reimplement ForkAwareTimeBasedEventAdapter](https://github.com/Consensys/teku/pull/10389) - 2026-02-18
+* [Pull Request] [Progressive ssz](https://github.com/Consensys/teku/pull/10395) - 2026-02-20
 
 * [Issue] [exception on every epoch transition](https://github.com/Consensys/teku/issues/10423) - 2026-02-25
 * [Issue] [Migrate to javalin 7](https://github.com/Consensys/teku/issues/10428) - 2026-02-26
 * [Issue] [Extend by_root reqresp serve range to match by_range](https://github.com/Consensys/teku/issues/10451) - 2026-03-05
 [consensys/discovery](https://github.com/consensys/discovery)
-* [Pull Request] []() - 2026-02-21
+* [Pull Request] [Introduce enr sig cache and bump nodeIdCache cache](https://github.com/Consensys/discovery/pull/197) - 2026-02-21
 * [Pull Request] []() - 2026-02-23
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [protoarray lookup optimization](https://github.com/Consensys/teku/pull/10448) - 2026-03-10
+* [Commit] [protoarray lookup optimization (#10448)](https://github.com/Consensys/teku/commit/616b29a770f098ac412559829d1e3cca42e5f95c) - 2026-03-10
 ## Q4 2025
 
 
@@ -38,19 +42,19 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Long sync after node restart (holesky)](https://github.com/Consensys/teku/issues/9991) - 2025-10-09
 * [Commit] [Always log error exception for block production (#9985)](https://github.com/Consensys/teku/commit/cb16f65ae5b67353f212dc5323055183f18ef7db) - 2025-10-10
 * [Pull Request] [Improved DAS sampler](https://github.com/Consensys/teku/pull/10006) - 2025-10-13
-* [Pull Request] []() - 2025-10-14
+* [Pull Request] [fix latest finalized slot](https://github.com/Consensys/teku/pull/10014) - 2025-10-14
 * [Issue] [Remove FirstSamplerIncompleteSlot DB variable since it is not used](https://github.com/Consensys/teku/issues/10026) - 2025-10-16
 * [Issue] [nodeId and column custody consistency](https://github.com/Consensys/teku/issues/10039) - 2025-10-21
-* [Pull Request] []() - 2025-10-24
+* [Pull Request] [Change docker jdk24 to jdk25](https://github.com/Consensys/teku/pull/10056) - 2025-10-24
 
 * [Issue] [Deactivate DENEB classes when safely in FULU](https://github.com/Consensys/teku/issues/10089) - 2025-10-31
 * [Issue] [Reimplement columnSidecars backfilling](https://github.com/Consensys/teku/issues/10105) - 2025-11-05
-* [Pull Request] []() - 2025-11-05
+* [Pull Request] [Do not try to publish reconstructed columns while syncing](https://github.com/Consensys/teku/pull/10104) - 2025-11-05
 * [Issue] [Reduce noise when `ThrottlingStorageQueryChannel` throws a `QueueIsFullException`](https://github.com/Consensys/teku/issues/10123) - 2025-11-11
-* [Pull Request] []() - 2025-11-21
+* [Pull Request] [Das custody backfiller (DASCustodySync rewrite)](https://github.com/Consensys/teku/pull/10159) - 2025-11-21
 * [Issue] [Sync may stall if SimpleSidecarRetriever's RPC calls fail](https://github.com/Consensys/teku/issues/10185) - 2025-11-28
-* [Pull Request] []() - 2025-12-10
-* [Pull Request] []() - 2025-12-12
+* [Pull Request] [Fix DasPreSampler exception - immutable presampling block list](https://github.com/Consensys/teku/pull/10222) - 2025-12-10
+* [Pull Request] [Allow getBlobs API to retrieve required sidecars on demand](https://github.com/Consensys/teku/pull/10234) - 2025-12-12
 * [Issue] [`DataColumnSidecarPruner` should update EarliestAvailableDataColumnSlot](https://github.com/Consensys/teku/issues/10246) - 2025-12-16
 * [Issue] [`StatusMessageFactory::updateEarliestAvailableSlot` not going earlier than DA window lower bound](https://github.com/Consensys/teku/issues/10245) - 2025-12-16
 * [Issue] [Add an AT for getBlobs api with download feature enabled](https://github.com/Consensys/teku/issues/10252) - 2025-12-18

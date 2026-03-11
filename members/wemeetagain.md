@@ -13,24 +13,27 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [Track data archival during sync](https://github.com/ChainSafe/lodestar/issues/8793) - 2026-01-27
-* [Pull Request] []() - 2026-01-29
+* [Pull Request] [chore: reorganize IBeaconStateView interface](https://github.com/ChainSafe/lodestar/pull/8810) - 2026-01-29
 * [Issue] [Refactor signature sets to use indices](https://github.com/ChainSafe/lodestar/issues/8801) - 2026-01-28
-* [Pull Request] []() - 2026-02-03
+* [Pull Request] [feat: allow block import after NUMBER_OF_COLUMNS / 2](https://github.com/ChainSafe/lodestar/pull/8818) - 2026-02-03
 * [Issue] [Drop support for node 22](https://github.com/ChainSafe/lodestar/issues/8867) - 2026-02-05
 * [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-07
-* [Pull Request] []() - 2026-02-09
-* [Pull Request] []() - 2026-02-11
+* [Pull Request] [feat: upgrade to libp2p v3](https://github.com/ChainSafe/lodestar/pull/8880) - 2026-02-07
+* [Pull Request] [chore: more unfinalized block writes panels in dashboard](https://github.com/ChainSafe/lodestar/pull/8884) - 2026-02-09
+* [Pull Request] [test: add unit tests for importBlock](https://github.com/ChainSafe/lodestar/pull/8898) - 2026-02-11
 * [Issue] [Remove light client and prover packages](https://github.com/ChainSafe/lodestar/issues/8892) - 2026-02-11
 
-* [Pull Request] []() - 2026-02-14
-* [Pull Request] []() - 2026-02-16
-* [Pull Request] []() - 2026-02-24
+* [Pull Request] [fix: remove leaked process listener in metrics close()](https://github.com/ChainSafe/lodestar/pull/8894) - 2026-02-14
+* [Pull Request] [test: unskip and fix unknownBlock.test.ts](https://github.com/ChainSafe/lodestar/pull/8897) - 2026-02-16
+* [Pull Request] [chore: properly await async monitoring requests during shutdown](https://github.com/ChainSafe/lodestar/pull/8896) - 2026-02-24
 [chainsafe/lodestar-z](https://github.com/chainsafe/lodestar-z)
-* [Pull Request] []() - 2026-02-12
+* [Pull Request] [feat: add napi bindings](https://github.com/ChainSafe/lodestar-z/pull/173) - 2026-02-12
 * [Issue] [bindings: revisit configuration setting logic](https://github.com/ChainSafe/lodestar-z/issues/215) - 2026-02-12
-* [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-23
+* [Pull Request] [fix: epoch cache shallow clone](https://github.com/ChainSafe/lodestar-z/pull/217) - 2026-02-13
+* [Pull Request] [feat: bls batch ops](https://github.com/ChainSafe/lodestar-z/pull/219) - 2026-02-23
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [refactor: use bitmask instead of Set<boolean> for epochIndex payload tracking](https://github.com/ChainSafe/lodestar/pull/9019) - 2026-03-10
 ## Q4 2025
 
 

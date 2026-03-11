@@ -12,13 +12,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 
 [nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
-* [Pull Request] []() - 2026-02-13
+* [Pull Request] [fix: update volume path for geth datadir](https://github.com/NethermindEth/gas-benchmarks/pull/119) - 2026-02-13
 ## Q4 2025
 
 
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2025-11-13
-* [Pull Request] []() - 2025-12-02
+* [Pull Request] [go.mod: upgrade to github.com/fsouza/go-dockerclient v1.12.2](https://github.com/ethereum/hive/pull/1370) - 2025-11-13
+* [Pull Request] [internal/libdocker: remove deprecated CheckDuplicate field in CreateNetwork](https://github.com/ethereum/hive/pull/1374) - 2025-12-02
 ## Q3 2025
 
 

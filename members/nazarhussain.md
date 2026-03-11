@@ -13,11 +13,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [Use packages/cli/bin/lodesar for the binary execution path](https://github.com/ChainSafe/lodestar/issues/8755) - 2026-01-16
-* [Pull Request] []() - 2026-01-23
+* [Pull Request] [refactor: reuse state diff bytes logic](https://github.com/ChainSafe/lodestar/pull/8737) - 2026-01-23
 
 [chainsafe/lodestar-z](https://github.com/chainsafe/lodestar-z)
 * [Issue] [Use a performant and consistent allocator for all bindings](https://github.com/ChainSafe/lodestar-z/issues/220) - 2026-02-24
-* [Pull Request] []() - 2026-03-03
+* [Pull Request] [feat: error handling with error objects](https://github.com/ChainSafe/lodestar-z/pull/222) - 2026-03-03
 ## Q4 2025
 
 
@@ -26,9 +26,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: update the structure of state regen operation](https://github.com/ChainSafe/lodestar/pull/8509) - 2025-10-08
 * [Commit] [Squashed commit of the following:](https://github.com/ChainSafe/lodestar/commit/5c24ff62a4151479bee74896664ed30237e341d7) - 2025-10-08
 * [Commit] [feat: add xdelta3 support for computing binary difference (#7664)](https://github.com/ChainSafe/lodestar/commit/fd5ad2a8c85e1dd45b8dbcec7f446d617366e013) - 2025-10-08
-* [Pull Request] []() - 2025-11-19
+* [Pull Request] [test: enable `cli` and `beacon-node` unit tests for bun](https://github.com/ChainSafe/lodestar/pull/8617) - 2025-11-19
 * [Pull Request] []() - 2025-12-05
-* [Pull Request] []() - 2025-12-10
+* [Pull Request] [chore: update publish workflow for rc an stan;e](https://github.com/ChainSafe/lodestar/pull/8686) - 2025-12-10
 ## Q3 2025
 
 

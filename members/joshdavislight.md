@@ -10,4 +10,4 @@ Github: [@joshdavislight](https://github.com/joshdavislight)
 
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-02-19
+* [Pull Request] [Update EIP-7773: CFI/DFI as per ACDE 229](https://github.com/ethereum/EIPs/pull/11213) - 2026-02-19

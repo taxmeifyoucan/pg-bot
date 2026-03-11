@@ -15,24 +15,25 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Move some DA checker functionality to `CustodyContext`](https://github.com/sigp/lighthouse/issues/8633) - 2026-01-07
 * [Pull Request] []() - 2026-01-11
 * [Issue] [Flag to disable "unsafe" range sync](https://github.com/sigp/lighthouse/issues/8657) - 2026-01-13
-* [Pull Request] []() - 2026-01-14
-* [Pull Request] []() - 2026-01-18
+* [Pull Request] [And CPU bound and IO bound worker categories to the Beacon Processor](https://github.com/sigp/lighthouse/pull/8661) - 2026-01-14
+* [Pull Request] [Gloas Column and Blob variants and deprecating full blob support](https://github.com/sigp/lighthouse/pull/8674) - 2026-01-18
 * [Issue] [Update all gloas slot timing logic to use the correct slot component config values](https://github.com/sigp/lighthouse/issues/8686) - 2026-01-20
-* [Pull Request] []() - 2026-01-20
+* [Pull Request] [Add Gloas data column support ](https://github.com/sigp/lighthouse/pull/8682) - 2026-01-20
 
-* [Pull Request] []() - 2026-01-22
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-29
-* [Pull Request] []() - 2026-01-30
+* [Pull Request] [Move DA boundary checks to CustodyContext](https://github.com/sigp/lighthouse/pull/8696) - 2026-01-22
+* [Pull Request] [Gloas attestation verification ](https://github.com/sigp/lighthouse/pull/8705) - 2026-01-27
+* [Pull Request] [Payload envelope db operations](https://github.com/sigp/lighthouse/pull/8717) - 2026-01-29
+* [Pull Request] [Move KZG commitments from payload envelope to payload bid and spec alpha.2](https://github.com/sigp/lighthouse/pull/8725) - 2026-01-30
 * [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-14
+* [Pull Request] [Gloas devnet 0](https://github.com/sigp/lighthouse/pull/8821) - 2026-02-14
 * [Issue] [Gloas issues with SSE event `ExtendedPayloadAttributes`](https://github.com/sigp/lighthouse/issues/8817) - 2026-02-14
 * [Issue] [Gloas stateless/stateful block production endpoints](https://github.com/sigp/lighthouse/issues/8828) - 2026-02-16
 * [Issue] [Error requesting finalized Gloas state](https://github.com/sigp/lighthouse/issues/8869) - 2026-02-19
-* [Pull Request] []() - 2026-02-20
+* [Pull Request] [Update contribution guidlines regarding LLM usage](https://github.com/sigp/lighthouse/pull/8879) - 2026-02-20
 * [Issue] [Implement blinded payloads for `ExecutionPayloadEnvelope`](https://github.com/sigp/lighthouse/issues/8888) - 2026-02-23
+* [Pull Request] [Update contribution guidlines regarding LLM usage](https://github.com/sigp/lighthouse/pull/8879) - 2026-03-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [Add details about how a validator should set `blob_data_available` for `PayloadAttestationData`](https://github.com/ethereum/consensus-specs/pull/4854) - 2026-01-21
 ## Q4 2025
 
 
@@ -40,16 +41,16 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Automatically pass spans into blocking handles](https://github.com/sigp/lighthouse/pull/8158) - 2025-10-02
 * [Pull Request] [Ensure status v2 returns the earliest available block when custody requirements are satisified for the da retention period](https://github.com/sigp/lighthouse/pull/8177) - 2025-10-09
 * [Issue] [Remove `BlobInfo`](https://github.com/sigp/lighthouse/issues/8203) - 2025-10-14
-* [Pull Request] []() - 2025-10-14
-* [Pull Request] []() - 2025-10-20
+* [Pull Request] [Remove `DataColumnInfo`](https://github.com/sigp/lighthouse/pull/8202) - 2025-10-14
+* [Pull Request] [Fix data column rpc request](https://github.com/sigp/lighthouse/pull/8247) - 2025-10-20
 * [Issue] [Custody backfill sync shows incorrect estimated time to completion](https://github.com/sigp/lighthouse/issues/8268) - 2025-10-22
-* [Pull Request] []() - 2025-10-30
-* [Pull Request] []() - 2025-11-02
-* [Pull Request] []() - 2025-11-13
-* [Pull Request] []() - 2025-11-17
-* [Pull Request] []() - 2025-11-22
+* [Pull Request] [Rust 1.91 lints](https://github.com/sigp/lighthouse/pull/8340) - 2025-10-30
+* [Pull Request] [Add mainnet configs](https://github.com/sigp/lighthouse/pull/8344) - 2025-11-02
+* [Pull Request] [Make RPC block always available](https://github.com/sigp/lighthouse/pull/8411) - 2025-11-13
+* [Pull Request] [Convert RpcBlock to an enum that indicates availability](https://github.com/sigp/lighthouse/pull/8424) - 2025-11-17
+* [Pull Request] [Enable multi node attestation consensus for the VC](https://github.com/sigp/lighthouse/pull/8445) - 2025-11-22
 * [Issue] [Set trace sampling as the default behavior](https://github.com/sigp/lighthouse/issues/8554) - 2025-12-08
-* [Pull Request] []() - 2025-12-11
+* [Pull Request] [Rust 1.92 lints](https://github.com/sigp/lighthouse/pull/8567) - 2025-12-11
 * [Pull Request] []() - 2025-12-12
 ## Q3 2025
 

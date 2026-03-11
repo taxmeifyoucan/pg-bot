@@ -16,12 +16,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Inconsistent state on newBlock websocket subscriptions.](https://github.com/hyperledger/besu/issues/9682) - 2026-01-26
 
 * [Issue] [Migrate repository from hyperledger to besu-eth organization](https://github.com/hyperledger/besu/issues/9911) - 2026-02-26
+* [Pull Request] [26.3.0-rc0 prep](https://github.com/besu-eth/besu/pull/10017) - 2026-03-10
+* [Pull Request] [Update GitHub repo references for org migration to besu-eth](https://github.com/besu-eth/besu/pull/10015) - 2026-03-10
+* [Issue] [26.3.0-RC0](https://github.com/besu-eth/besu/issues/10016) - 2026-03-10
+* [Commit] [26.3.0-rc0 prep (#10017)](https://github.com/besu-eth/besu/commit/90687901b44948f364c5560213026c95f7ea543e) - 2026-03-10
+* [Commit] [Update GitHub repository references from hyperledger/besu to besu-eth/besu (#10015)](https://github.com/besu-eth/besu/commit/fc77470d2c683d09456c7bec0914af74fd1eb254) - 2026-03-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #0, February 18, 2026](https://github.com/ethereum/pm/issues/1929) - 2026-02-16
 * [Issue] [Encrypt The Mempool #1, March 4, 2026](https://github.com/ethereum/pm/issues/1945) - 2026-02-23
 
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
-* [Pull Request] []() - 2026-02-26
+* [Pull Request] [Update repo references from hyperledger to besu-eth org](https://github.com/besu-eth/besu-native/pull/307) - 2026-02-26
 * [Pull Request] []() - 2026-03-03
 ## Q4 2025
 
@@ -30,7 +35,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [proposes eip-7949 for inclusion in Glamsterdam](https://github.com/ethereum/EIPs/pull/10502) - 2025-10-09
 
 [ethereum/pm](https://github.com/ethereum/pm)
-* [Pull Request] []() - 2025-11-05
+* [Pull Request] [Add primary and backup coordinators for Besu](https://github.com/ethereum/pm/pull/1795) - 2025-11-05
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [[ETC Removal - Phase 2] Remove Tests and Update Documentation](https://github.com/hyperledger/besu/issues/9462) - 2025-11-18
@@ -51,7 +56,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Move Forest storage system into a plugin](https://github.com/hyperledger/besu/issues/9447) - 2025-11-18
 * [Issue] [RPC Stack Refactor](https://github.com/hyperledger/besu/issues/9476) - 2025-11-20
 * [Issue] [attacknet - investigate as a tool to find bugs in besu](https://github.com/hyperledger/besu/issues/9525) - 2025-12-02
-* [Pull Request] []() - 2025-12-27
+* [Pull Request] [Treat EndOfRLPException as invalid packet in peer discovery](https://github.com/besu-eth/besu/pull/9597) - 2025-12-27
 * [Issue] [EndOfRLPException should be treated as invalid packet in peer discovery](https://github.com/hyperledger/besu/issues/9596) - 2025-12-27
 ## Q3 2025
 

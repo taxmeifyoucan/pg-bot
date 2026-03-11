@@ -25,15 +25,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Update EIP-7928 to cap max items](https://github.com/status-im/nimbus-eth1/issues/3985) - 2026-02-16
 * [Issue] [Implement EIP-8037](https://github.com/status-im/nimbus-eth1/issues/3984) - 2026-02-16
 * [Issue] [Implement EIP-7954](https://github.com/status-im/nimbus-eth1/issues/3983) - 2026-02-16
-* [Pull Request] []() - 2026-02-23
+* [Pull Request] [update to Nim v2.2.8](https://github.com/status-im/nimbus-eth1/pull/4006) - 2026-02-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-14
-* [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-21
-* [Pull Request] []() - 2026-02-26
-* [Pull Request] []() - 2026-03-02
+* [Pull Request] [bump nim-ssz-serialization to 7846bd523f135b9d94954fd084105bcd7f3755b2](https://github.com/status-im/nimbus-eth2/pull/7951) - 2026-02-10
+* [Pull Request] [fix 32-bit compilation errors in fork choice](https://github.com/status-im/nimbus-eth2/pull/7974) - 2026-02-13
+* [Pull Request] [don't assume gh-pages branch exists locally in publish-book Makefile target](https://github.com/status-im/nimbus-eth2/pull/7977) - 2026-02-14
+* [Pull Request] [Revert "Revert "chronos: v4.2.0""](https://github.com/status-im/nimbus-eth2/pull/8000) - 2026-02-18
+* [Pull Request] [remove obsolete NUMBER_OF_COLUMNS runtime config](https://github.com/status-im/nimbus-eth2/pull/8005) - 2026-02-21
+* [Pull Request] [bump nim-lsquic to 86b8efc703d06a493fa984b76e4ffb6ddde99c41](https://github.com/status-im/nimbus-eth2/pull/8037) - 2026-02-26
+* [Pull Request] [rm some unused parameters and imports](https://github.com/status-im/nimbus-eth2/pull/8049) - 2026-03-02
 ## Q4 2025
 
 
@@ -83,10 +83,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [fix attempting to call undeclared routine: 'allIt' (#7585)](https://github.com/status-im/nimbus-eth2/commit/0d7c33a479007559d87623e9c14a0f9af3ccf3fe) - 2025-10-10
 * [Commit] [rm unused attestation pool phase0 aggregation code (#7600)](https://github.com/status-im/nimbus-eth2/commit/3e88143fb541d896a189da69f5773b664057943e) - 2025-10-11
 * [Commit] [drop vcus backfilling and adjust eas movement (#7601)](https://github.com/status-im/nimbus-eth2/commit/eecd55dd2df6779e37fffffc3061f33502464aca) - 2025-10-12
-* [Pull Request] []() - 2025-11-06
-* [Pull Request] []() - 2025-11-15
-* [Pull Request] []() - 2025-11-18
-* [Pull Request] []() - 2025-12-02
+* [Pull Request] [Revert "swich to Nim v2.2.6"](https://github.com/status-im/nimbus-eth2/pull/7719) - 2025-11-06
+* [Pull Request] [rm Electra builder API support](https://github.com/status-im/nimbus-eth2/pull/7733) - 2025-11-15
+* [Pull Request] [work around blob quarantine infinite loop](https://github.com/status-im/nimbus-eth2/pull/7742) - 2025-11-18
+* [Pull Request] [enforce via taskpools that refc objects don't cross thread heaps](https://github.com/status-im/nimbus-eth2/pull/7773) - 2025-12-02
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Commit] [proxy: refactor (#3709)](https://github.com/status-im/nimbus-eth1/commit/cacde70cbe18ab34b70d0470701bcf0587171071) - 2025-10-06
 * [Commit] [Fix OverflowDefect crash in block validation (#3741)](https://github.com/status-im/nimbus-eth1/commit/f5eebe4d02e5647eead49e2ce855e89c94e3e31c) - 2025-10-06
@@ -94,7 +94,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Schedule Osaka mainnet fork](https://github.com/status-im/nimbus-eth1/issues/3804) - 2025-11-01
 
 [ethereum/pm](https://github.com/ethereum/pm)
-* [Pull Request] []() - 2025-12-01
+* [Pull Request] [fix Nimbus Fusaka contact information](https://github.com/ethereum/pm/pull/1827) - 2025-12-01
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Issue] [Fake `INVALID` on mainnet slot 13164552](https://github.com/NethermindEth/nethermind/issues/9878) - 2025-12-04

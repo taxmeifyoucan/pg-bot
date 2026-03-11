@@ -11,4 +11,4 @@ Team: Cryptography (EF)
 ## Q1 2026
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
-* [Pull Request] []() - 2026-01-26
+* [Pull Request] [Update Dmitry Khovratovich's project link](https://github.com/protocolguild/documentation/pull/476) - 2026-01-26

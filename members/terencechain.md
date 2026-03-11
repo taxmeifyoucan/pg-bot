@@ -12,24 +12,30 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-31
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-06
-* [Pull Request] []() - 2026-02-07
-* [Pull Request] []() - 2026-02-11
-* [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-17
+* [Pull Request] [gloas: sample PTC per committee](https://github.com/OffchainLabs/prysm/pull/16293) - 2026-01-27
+* [Pull Request] [gloas: move kzg commitments to bid](https://github.com/OffchainLabs/prysm/pull/16309) - 2026-01-31
+* [Pull Request] [Run go fmt](https://github.com/OffchainLabs/prysm/pull/16311) - 2026-02-02
+* [Pull Request] [Add gossip for payload attestation](https://github.com/OffchainLabs/prysm/pull/16333) - 2026-02-06
+* [Pull Request] [gloas: add read only wrapper for payload envelope](https://github.com/OffchainLabs/prysm/pull/16339) - 2026-02-07
+* [Pull Request] [gloas: add modified attestation processing](https://github.com/OffchainLabs/prysm/pull/15736) - 2026-02-11
+* [Pull Request] [Add Gloas attestation committee index validation](https://github.com/OffchainLabs/prysm/pull/16359) - 2026-02-13
+* [Pull Request] [Edit to validator self build for gloas](https://github.com/OffchainLabs/prysm/pull/16366) - 2026-02-17
 
-* [Pull Request] []() - 2026-02-20
-* [Pull Request] []() - 2026-02-22
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-02-27
-* [Pull Request] []() - 2026-03-02
-* [Pull Request] []() - 2026-03-06
-* [Pull Request] []() - 2026-03-08
+* [Pull Request] [Implement upgrade gloas](https://github.com/OffchainLabs/prysm/pull/16378) - 2026-02-20
+* [Pull Request] [Gloas Devnet 0](https://github.com/OffchainLabs/prysm/pull/16381) - 2026-02-22
+* [Pull Request] [Fix Gloas builders sweep when builders list is empty](https://github.com/OffchainLabs/prysm/pull/16411) - 2026-02-25
+* [Pull Request] [Use gloas state latest block hash for FCU head hash](https://github.com/OffchainLabs/prysm/pull/16438) - 2026-02-27
+* [Pull Request] [Fix Gloas fork version using `MetaDataV1` instead of `MetaDataV2`](https://github.com/OffchainLabs/prysm/pull/16448) - 2026-03-02
+* [Pull Request] [duties: wire PTC slot assignments into validator duty pipeline](https://github.com/OffchainLabs/prysm/pull/16489) - 2026-03-06
+* [Pull Request] [proposer: use correct access root to get pre state](https://github.com/OffchainLabs/prysm/pull/16496) - 2026-03-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2026-02-18
+* [Pull Request] [Request missing payload envelopes for index-1 attestation](https://github.com/ethereum/consensus-specs/pull/4939) - 2026-02-18
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [fix: guard against fork boundary `IsParentBlockFull` false positive](https://github.com/OffchainLabs/prysm/pull/16510) - 2026-03-10
+* [Pull Request] [forkchoice: fix head change on every attestation tick pre gloas](https://github.com/OffchainLabs/prysm/pull/16508) - 2026-03-10
+* [Pull Request] [proposer: add payload attestations packing](https://github.com/OffchainLabs/prysm/pull/16493) - 2026-03-10
+* [Commit] [proposer: add payload attestations packing (#16493)](https://github.com/OffchainLabs/prysm/commit/4da5ed072c29f7ee86e3014fc091d4f33e5a8ec2) - 2026-03-10
 ## Q4 2025
 
 
@@ -46,15 +52,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [exclude unscheduled forks from the schedule (#15799)](https://github.com/OffchainLabs/prysm/commit/74c47e25a919ee5847de9637964ece93db939ba8) - 2025-10-08
 * [Commit] [Change wording](https://github.com/OffchainLabs/prysm/commit/6d62267ccb97ca213939c4bfe76c9d324080c4cd) - 2025-10-13
 * [Commit] [Fix ignored gossip attestation validation for early arriving attestations (#15840)](https://github.com/OffchainLabs/prysm/commit/0aa248e6631912142690929984ac924f31c08ae1) - 2025-10-13
-* [Pull Request] []() - 2025-10-23
-* [Pull Request] []() - 2025-10-26
+* [Pull Request] [Return optimistic response only when handling blinded blocks](https://github.com/OffchainLabs/prysm/pull/15925) - 2025-10-23
+* [Pull Request] [Fix timer leak in data column peer selection](https://github.com/OffchainLabs/prysm/pull/15932) - 2025-10-26
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2025-11-01
-* [Pull Request] []() - 2025-11-16
-* [Pull Request] []() - 2025-12-04
-* [Pull Request] []() - 2025-12-14
-* [Pull Request] []() - 2025-12-20
+* [Pull Request] [Update spec test to v1.6.0-beta.2](https://github.com/OffchainLabs/prysm/pull/15960) - 2025-11-01
+* [Pull Request] [Always fire payload attribute events when attributes exist](https://github.com/OffchainLabs/prysm/pull/16023) - 2025-11-16
+* [Pull Request] [Add arrival latency tracking for data column sidecars](https://github.com/OffchainLabs/prysm/pull/16099) - 2025-12-04
+* [Pull Request] [Guard KZG send with context cancellation](https://github.com/OffchainLabs/prysm/pull/16144) - 2025-12-14
+* [Pull Request] [feat(primitives): add BuilderIndex SSZ type](https://github.com/OffchainLabs/prysm/pull/16169) - 2025-12-20
 ## Q3 2025
 
 

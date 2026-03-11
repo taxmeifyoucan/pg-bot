@@ -15,20 +15,22 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Issue] [Query transactions from era files on a pruned node](https://github.com/ethereum/go-ethereum/issues/33666) - 2026-01-22
 * [Issue] [eth_sendRawTransactionSync timeout parameter should be an int](https://github.com/ethereum/go-ethereum/issues/33696) - 2026-01-28
 
-* [Pull Request] []() - 2026-02-10
+* [Pull Request] [node: http2 for JSON-RPC API](https://github.com/ethereum/go-ethereum/pull/33812) - 2026-02-10
 * [Issue] [History expiry tracker](https://github.com/ethereum/go-ethereum/issues/33809) - 2026-02-10
-* [Pull Request] []() - 2026-02-11
+* [Pull Request] [internal/era: update eraE type IDs to match spec](https://github.com/ethereum/go-ethereum/pull/33827) - 2026-02-11
 * [Pull Request] []() - 2026-02-12
-* [Pull Request] []() - 2026-02-16
-* [Pull Request] []() - 2026-03-05
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [docs: add page on using geth as a library](https://github.com/ethereum/go-ethereum/pull/33825) - 2026-02-16
+* [Pull Request] [internal/ethapi: fix gas cap for eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/33952) - 2026-03-05
+* [Pull Request] [core/tracing: fix nonce revert edge case](https://github.com/ethereum/go-ethereum/pull/33978) - 2026-03-09
+* [Pull Request] [core/tracing: fix nonce revert edge case](https://github.com/ethereum/go-ethereum/pull/33978) - 2026-03-10
+* [Commit] [core/tracing: fix nonce revert edge case (#33978)](https://github.com/ethereum/go-ethereum/commit/aa417b03a6f9ef4f58c0e05c7eb1fde6a8db4894) - 2026-03-10
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-06
+* [Pull Request] [eth_simulateV1: fix revert err code](https://github.com/ethereum/execution-apis/pull/748) - 2026-02-05
+* [Pull Request] [transaction: add blockTimestamp](https://github.com/ethereum/execution-apis/pull/749) - 2026-02-06
 * [Issue] [eth_getStorageValues - Batch storage slot retrieval](https://github.com/ethereum/execution-apis/issues/752) - 2026-02-10
 * [Pull Request] []() - 2026-02-17
 * [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-23
+* [Pull Request] [eth: add getStorageValues method](https://github.com/ethereum/execution-apis/pull/756) - 2026-02-23
 ## Q4 2025
 
 
@@ -43,9 +45,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 * [Issue] [Flaky TestUDPv4_smallNetConvergence hangs](https://github.com/ethereum/go-ethereum/issues/32863) - 2025-10-09
 * [Commit] [ethclient: add SubscribeTransactionReceipts (#32869)](https://github.com/ethereum/go-ethereum/commit/659342a52300d9cd8218face5528a91e7434a8fb) - 2025-10-10
-* [Pull Request] []() - 2025-10-23
-* [Pull Request] []() - 2025-10-30
-* [Pull Request] []() - 2025-12-15
+* [Pull Request] [internal/ethapi: fix error code for revert in eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/33007) - 2025-10-23
+* [Pull Request] [internal/ethapi: change default tx type to 0x2](https://github.com/ethereum/go-ethereum/pull/33058) - 2025-10-30
+* [Pull Request] [Website: add arm64 build to downloads page](https://github.com/ethereum/go-ethereum/pull/33418) - 2025-12-15
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Issue] [Proposal: eth_getCapabilities method](https://github.com/ethereum/execution-apis/issues/697) - 2025-10-09
 ## Q3 2025

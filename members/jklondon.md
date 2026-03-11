@@ -12,10 +12,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
-* [Pull Request] []() - 2026-01-11
-* [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-02-12
-* [Pull Request] []() - 2026-03-05
+* [Pull Request] [mcp server prototype [MVP]](https://github.com/erigontech/erigon/pull/18623) - 2026-01-11
+* [Pull Request] [fix idx versioning](https://github.com/erigontech/erigon/pull/18699) - 2026-01-16
+* [Pull Request] [StorageRange Fix](https://github.com/erigontech/erigon/pull/19149) - 2026-02-12
+* [Pull Request] [[kimiko] Analyze all commits that were pushed to the current branch (in](https://github.com/erigontech/erigon/pull/19653) - 2026-03-05
+* [Commit] [[kimiko] cl/sentinel: fix peerstore data race in concurrent peer connections (#19603)  (#19616)](https://github.com/erigontech/erigon/commit/2d94e91a23edfdad4b76aa393c0cdca3eb255762) - 2026-03-10
 ## Q4 2025
 
 
@@ -29,15 +30,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commit](https://github.com/erigontech/erigon/commit/1f14df85d15e65cdf843842c6d37acbb34bd2c5f) - 2025-10-09
 * [Issue] [question about updating to mdbx 0.39.10 (0.13.8)](https://github.com/erigontech/erigon/issues/17419) - 2025-10-10
 * [Issue] [rewrite PR with ContractRef but with green CI](https://github.com/erigontech/erigon/issues/17491) - 2025-10-15
-* [Pull Request] []() - 2025-10-15
-* [Pull Request] []() - 2025-10-21
-* [Pull Request] []() - 2025-10-22
-* [Pull Request] []() - 2025-11-01
+* [Pull Request] [adding doc to version type + renamed inner version to logicVersion (explained)](https://github.com/erigontech/erigon/pull/17490) - 2025-10-15
+* [Pull Request] [[r3.2] mdbx 0.13.7 with small fix](https://github.com/erigontech/erigon/pull/17574) - 2025-10-21
+* [Pull Request] [more logs and versioning support to block tx index](https://github.com/erigontech/erigon/pull/17602) - 2025-10-22
+* [Pull Request] [mdbx 0.13.9](https://github.com/erigontech/erigon/pull/17743) - 2025-11-01
 * [Issue] [To gen and release files - on 3.4 snapshotters](https://github.com/erigontech/erigon/issues/17877) - 2025-11-13
-* [Pull Request] []() - 2025-11-14
-* [Pull Request] []() - 2025-11-15
-* [Pull Request] []() - 2025-11-22
-* [Pull Request] []() - 2025-12-12
+* [Pull Request] [clarification of db version err text](https://github.com/erigontech/erigon/pull/17904) - 2025-11-14
+* [Pull Request] [unit tests + small parsing unification](https://github.com/erigontech/erigon/pull/17915) - 2025-11-15
+* [Pull Request] [env var to eradicate time from logs (for systemctl logs for ex)](https://github.com/erigontech/erigon/pull/18022) - 2025-11-22
+* [Pull Request] [[r3.3] Caplin: to not use `type` field #18279](https://github.com/erigontech/erigon/pull/18280) - 2025-12-12
 * [Pull Request] []() - 2025-12-19
 ## Q3 2025
 

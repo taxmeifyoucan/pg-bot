@@ -14,14 +14,14 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Add support for fork-level EVM simulation](https://github.com/ethereum/execution-specs/issues/1990) - 2026-01-08
 
-* [Pull Request] []() - 2026-02-18
+* [Pull Request] [feat(tests): EIP-7928 tests for EIP 2935](https://github.com/ethereum/execution-specs/pull/2113) - 2026-02-18
 * [Issue] [Suggestion: For tests, let the default tx gas limit be the maximum allowed value](https://github.com/ethereum/execution-specs/issues/2248) - 2026-02-20
 * [Issue] [Implement EIP-7954](https://github.com/ethereum/execution-specs/issues/2275) - 2026-02-23
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-02-13
+* [Pull Request] [Update EIP-7708: Add ETH burn logs and improve spec consistency](https://github.com/ethereum/EIPs/pull/11311) - 2026-02-13
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-* [Pull Request] []() - 2026-02-15
+* [Pull Request] [core, core/vm:  Rename selfdestruct log to burn](https://github.com/ethereum/go-ethereum/pull/33851) - 2026-02-15
 * [Issue] [chore(Amsterdam): Break up tiered gas pricing](https://github.com/ethereum/go-ethereum/issues/33939) - 2026-03-03
 ## Q4 2025
 
@@ -37,13 +37,13 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [chore: Rename `tx_index` to `bal_index` for `BlockAccessList`](https://github.com/ethereum/execution-specs/issues/1617) - 2025-10-16
 * [Issue] [Enforce strict field validation on critical pydantic model](https://github.com/ethereum/execution-specs/issues/1615) - 2025-10-16
-* [Pull Request] []() - 2025-12-07
+* [Pull Request] [feat(tests): EIP-7928 OOG edge cases for EIP-7702 delegations](https://github.com/ethereum/execution-specs/pull/1856) - 2025-12-07
 * [Issue] [EIP-7928 BAL does not record EIP-4788 timestamp read operation for invalid queries](https://github.com/ethereum/execution-specs/issues/1889) - 2025-12-10
 * [Issue] [EIP-7928 BAL does NOT include system contract addresss](https://github.com/ethereum/execution-specs/issues/1886) - 2025-12-10
-* [Pull Request] []() - 2025-12-14
+* [Pull Request] [✨ feat(tests): EIP-7928 tests targeting EIP-7002](https://github.com/ethereum/execution-specs/pull/1918) - 2025-12-14
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-12-17
+* [Pull Request] [Update EIP-7002: Amount endianness](https://github.com/ethereum/EIPs/pull/10945) - 2025-12-17
 ## Q3 2025
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)

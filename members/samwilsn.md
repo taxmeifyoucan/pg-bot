@@ -12,10 +12,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-01-02
+* [Pull Request] [Website: Add a notice to the website and RSS feeds about upcoming migration](https://github.com/ethereum/EIPs/pull/11003) - 2026-01-02
 * [Issue] [Housekeeping Ideas](https://github.com/ethereum/EIPs/issues/11195) - 2026-01-28
 
-* [Pull Request] []() - 2026-02-06
+* [Pull Request] [Update LICENSE.md [ignore-me]](https://github.com/ethereum/EIPs/pull/11278) - 2026-02-06
 * [Issue] [Submit updated sitemap to Google / Bing / etc.](https://github.com/ethereum/EIPs/issues/11298) - 2026-02-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Carry pytest markers from Python all the way through to the filled JSON tests](https://github.com/ethereum/execution-specs/issues/2089) - 2026-01-28
@@ -25,8 +25,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Processes surrounding claude context files](https://github.com/ethereum/execution-specs/issues/2194) - 2026-02-11
 * [Issue] [Add test for decoding RLP -> `Uint` with leading zeros](https://github.com/ethereum/execution-specs/issues/2202) - 2026-02-12
 * [Issue] [Remove or generalize BAL's type alias](https://github.com/ethereum/execution-specs/issues/2260) - 2026-02-20
-* [Pull Request] []() - 2026-02-22
+* [Pull Request] [chore(specs): refactor BALs into one file; document it](https://github.com/ethereum/execution-specs/pull/2263) - 2026-02-22
 * [Issue] [Change EEST's `Address` equality to account for typing](https://github.com/ethereum/execution-specs/issues/2290) - 2026-02-23
+* [Pull Request] [chore(ci): don't close pull requests](https://github.com/ethereum/execution-specs/pull/2470) - 2026-03-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs #38, February 18, 2026](https://github.com/ethereum/pm/issues/1909) - 2026-01-29
 ## Q4 2025
@@ -43,11 +44,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Add conventional commits linter](https://github.com/ethereum/execution-specs/issues/1461) - 2025-10-08
 * [Commit] [Update CONTRIBUTING.md to outline issue assignment practice (#1457)](https://github.com/ethereum/execution-specs/commit/6c99882c73315e23bc0ee7d613b9769f3807a3d5) - 2025-10-09
 * [Commit] [fixing issue #1398 (#1593)](https://github.com/ethereum/execution-specs/commit/a4aedae11b764d0be2d48900735558480151846a) - 2025-10-11
-* [Pull Request] []() - 2025-10-15
+* [Pull Request] [DRY-ify calculate_excess_blob_gas](https://github.com/ethereum/execution-specs/pull/1606) - 2025-10-15
 * [Issue] [Optimize the `json_infra` tests](https://github.com/ethereum/execution-specs/issues/1605) - 2025-10-15
 * [Issue] [Document conventional commit prefixes](https://github.com/ethereum/execution-specs/issues/1638) - 2025-10-20
-* [Pull Request] []() - 2025-11-13
-* [Pull Request] []() - 2025-11-24
+* [Pull Request] [enhance(spec-tool): create blob parameter-only hardforks on the fly](https://github.com/ethereum/execution-specs/pull/1789) - 2025-11-13
+* [Pull Request] [fix(spec-tests): missing fork criteria](https://github.com/ethereum/execution-specs/pull/1808) - 2025-11-24
 * [Issue] [Optimize json_infra collection when using `--tests-file`](https://github.com/ethereum/execution-specs/issues/1840) - 2025-12-03
 * [Issue] [Revisit how we implement glacier/bpo forks](https://github.com/ethereum/execution-specs/issues/1837) - 2025-12-03
 * [Issue] [Lint BPO forks in `ethereum-spec-lint`](https://github.com/ethereum/execution-specs/issues/1895) - 2025-12-10

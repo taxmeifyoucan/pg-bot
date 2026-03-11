@@ -12,16 +12,23 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
-* [Pull Request] []() - 2026-01-23
-* [Pull Request] []() - 2026-02-18
+* [Pull Request] [feat(ci): update inputs for ci rebase/merge workflows](https://github.com/ethereum/execution-specs/pull/2072) - 2026-01-23
+* [Pull Request] [[DEPRECATED] - feat(tests): add eip-8037 state gas support to amsterdam tests and framework](https://github.com/ethereum/execution-specs/pull/2235) - 2026-02-18
 
 * [Issue] [refactor(tests): replace manual intrinsic gas arithmetic broken by EIP-7976/EIP-7981 repricing](https://github.com/ethereum/execution-specs/issues/2289) - 2026-02-23
+* [Pull Request] [feat(tests): add tests for address not warmed on aborted create](https://github.com/ethereum/execution-specs/pull/2452) - 2026-03-10
+* [Pull Request] [feat(tests,spec-specs): code deposit ordering and regression tests](https://github.com/ethereum/execution-specs/pull/2468) - 2026-03-10
+* [Pull Request] [feat(tests): add missing legacy modexp cases with oversized lengths](https://github.com/ethereum/execution-specs/pull/2447) - 2026-03-10
+* [Pull Request] [feat(ci): update inputs for ci rebase/merge workflows](https://github.com/ethereum/execution-specs/pull/2072) - 2026-03-10
+* [Commit] [feat(tests): add tests for address not warmed on aborted create (#2452)](https://github.com/ethereum/execution-specs/commit/8a0fc6993eaf636580fefdf838712b5392bc6aae) - 2026-03-10
+* [Commit] [feat(tests): add missing legacy modexp cases with oversized lengths (#2447)](https://github.com/ethereum/execution-specs/commit/d581f26c08497786f446b26236eacf4a721e2d4a) - 2026-03-10
+* [Commit] [feat(ci): update inputs for ci rebase/merge workflows (#2072)](https://github.com/ethereum/execution-specs/commit/3975d16d906f52cdbf50fc1a70df8b45213b9c10) - 2026-03-10
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2026-02-20
+* [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [hiveview: show suites with empty simLog value when running dev mode](https://github.com/ethereum/hive/pull/1400) - 2026-03-09
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [Update EIP-8037: clarify reservoir mechanics](https://github.com/ethereum/EIPs/pull/11328) - 2026-03-06
 ## Q4 2025
 
 
@@ -54,7 +61,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): test call for eip2929 (#689)](https://github.com/ethereum/execution-spec-tests/commit/8115621105b79f60f0228f17c769d2af1db56562) - 2025-10-09
 * [Commit] [chore(docs): bump changelog for 5.3.0.](https://github.com/ethereum/execution-spec-tests/commit/2f21d20345f15ee2a57dc6c2e1d32d493af574d1) - 2025-10-09
 * [Commit] [feat(checklists,tests): complete eip7934 checklist + update checklist template + add missing test cases (#2282)](https://github.com/ethereum/execution-spec-tests/commit/eda8cc67c4c47d56effd231a171ca95bc90d7e1e) - 2025-10-09
-* [Pull Request] []() - 2025-10-17
+* [Pull Request] [feat(consume): consume block production hive simulator](https://github.com/ethereum/execution-spec-tests/pull/2307) - 2025-10-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [feat(fw|evm): update t8n pipeline to allow tests to use invalid fields](https://github.com/ethereum/execution-specs/issues/1485) - 2025-10-09
 * [Issue] [feat(consume): add client config files to EEST](https://github.com/ethereum/execution-specs/issues/1484) - 2025-10-09
@@ -63,13 +70,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Fix unhandled modexp U256 overflow for forks before Osaka](https://github.com/ethereum/execution-specs/issues/1465) - 2025-10-09
 * [Pull Request] [feat(ci): integrate EEST CI into EELS (WIP)](https://github.com/ethereum/execution-specs/pull/1598) - 2025-10-13
 
-* [Pull Request] []() - 2025-10-21
-* [Pull Request] []() - 2025-12-07
+* [Pull Request] [chore(tooling): add initial vscode settings](https://github.com/ethereum/execution-specs/pull/1650) - 2025-10-21
+* [Pull Request] [chore(ci): updates for final osaka test release](https://github.com/ethereum/execution-specs/pull/1845) - 2025-12-07
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Issue] [Remaining fails filling EEST with evmone](https://github.com/ipsilon/evmone/issues/1337) - 2025-10-14
 
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2025-10-28
+* [Pull Request] [simulators/eels: fix `execute-blobs` simulator](https://github.com/ethereum/hive/pull/1365) - 2025-10-28
 ## Q3 2025
 
 

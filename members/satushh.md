@@ -10,4 +10,4 @@ Github: [@satushh](https://github.com/satushh)
 
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2026-02-21
+* [Pull Request] [Ptc duty endpoint /eth/v1/validator/duties/ptc/{epoch} ](https://github.com/OffchainLabs/prysm/pull/16326) - 2026-02-21

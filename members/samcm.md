@@ -12,21 +12,21 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
-* [Pull Request] []() - 2026-01-12
-* [Pull Request] []() - 2026-01-15
-* [Pull Request] []() - 2026-01-23
+* [Pull Request] [feat(clickhouse): improve table and column comments across all tables](https://github.com/ethpandaops/xatu/pull/723) - 2026-01-12
+* [Pull Request] [feat: execution engine events](https://github.com/ethpandaops/xatu/pull/728) - 2026-01-15
+* [Pull Request] [feat(sentry): add blob sidecar fetching on block receipt](https://github.com/ethpandaops/xatu/pull/739) - 2026-01-23
 * [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-02-09
-* [Pull Request] []() - 2026-02-12
+* [Pull Request] [feat: Sentry Logs - Vector-based log collection for execution client metrics](https://github.com/ethpandaops/xatu/pull/742) - 2026-01-30
+* [Pull Request] [feat(clickhouse): initialize Observoor schema](https://github.com/ethpandaops/xatu/pull/745) - 2026-02-09
+* [Pull Request] [feat(sentry-logs): support all geth log formats](https://github.com/ethpandaops/xatu/pull/746) - 2026-02-12
 
-* [Pull Request] []() - 2026-02-20
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-02-25
+* [Pull Request] [fix(deps): upgrade vulnerable dependencies and add govulncheck CI](https://github.com/ethpandaops/xatu/pull/762) - 2026-02-20
+* [Pull Request] [refactor(consumoor): group batch processing by event type](https://github.com/ethpandaops/xatu/pull/787) - 2026-02-24
+* [Pull Request] [Release/consumoor](https://github.com/ethpandaops/xatu/pull/792) - 2026-02-25
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
-* [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-16
-* [Pull Request] []() - 2026-02-23
+* [Pull Request] [feat(xatu): add nodes section with resource monitoring](https://github.com/ethpandaops/lab/pull/421) - 2026-02-13
+* [Pull Request] [feat(node-resources): improve chart formatting and adapt to backend label changes](https://github.com/ethpandaops/lab/pull/424) - 2026-02-16
+* [Pull Request] [fix(consensus-overview): use flat page size to prevent truncation on dimensional data](https://github.com/ethpandaops/lab/pull/429) - 2026-02-23
 ## Q4 2025
 
 
@@ -38,15 +38,15 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(migrations): add direction column to metadata status tables](https://github.com/ethpandaops/xatu/commit/a809040a9c3925b4b90a436cdcc945cbe8cc206a) - 2025-10-01
 * [Commit] [feat: replace kzg_commitments with kzg_commitments_count in data_column_sidecar](https://github.com/ethpandaops/xatu/commit/dce3bdf8df1436984738fabe5ed85b5795f28c35) - 2025-10-01
 * [Commit] [refactor(migration): drop and recreate distributed tables to include direction column](https://github.com/ethpandaops/xatu/commit/6d93a34da41d6404c19c7efa979cfdecfa403753) - 2025-10-01
-* [Pull Request] []() - 2025-10-15
+* [Pull Request] [feat(libp2p): Add rpc_custody_probe event](https://github.com/ethpandaops/xatu/pull/674) - 2025-10-15
 
-* [Pull Request] []() - 2025-11-28
-* [Pull Request] []() - 2025-12-11
-* [Pull Request] []() - 2025-12-12
-* [Pull Request] []() - 2025-12-15
+* [Pull Request] [feat(clmimicry): Add concrete types](https://github.com/ethpandaops/xatu/pull/692) - 2025-11-28
+* [Pull Request] [feat(libp2p): add raw peer_id columns to all libp2p tables](https://github.com/ethpandaops/xatu/pull/708) - 2025-12-11
+* [Pull Request] [feat(clmimicry): introduce random sampling for rejected events](https://github.com/ethpandaops/xatu/pull/711) - 2025-12-12
+* [Pull Request] [Add 0x prefix to hex-encoded fields in gossipsub sidecars](https://github.com/ethpandaops/xatu/pull/712) - 2025-12-15
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
-* [Pull Request] []() - 2025-10-23
-* [Pull Request] []() - 2025-11-13
+* [Pull Request] [Add slots page](https://github.com/ethpandaops/lab/pull/165) - 2025-10-23
+* [Pull Request] [Fix offline validators chart calculation and display](https://github.com/ethpandaops/lab/pull/294) - 2025-11-13
 ## Q3 2025
 
 

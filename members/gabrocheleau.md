@@ -12,7 +12,7 @@ Team: EthereumJS
 
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
-* [Pull Request] []() - 2026-01-05
+* [Pull Request] [Add Gabriel Rocheleau contributions to ethjs](https://github.com/protocolguild/documentation/pull/454) - 2026-01-05
 * [Pull Request] []() - 2026-01-06
 
 [ethereum/pm](https://github.com/ethereum/pm)
@@ -20,15 +20,15 @@ Team: EthereumJS
 
 * [Issue] [Stateless Implementer's Call #49, February 23rd, 2026](https://github.com/ethereum/pm/issues/1919) - 2026-02-10
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
-* [Pull Request] []() - 2026-01-15
+* [Pull Request] [docs: add comments for bytesToUnprefixed strings](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4212) - 2026-01-15
 * [Issue] [Glamsterdam Hardfork Meta Issue](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4238) - 2026-01-29
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-10
+* [Pull Request] [feat: add eip-7708 & 7843](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4239) - 2026-02-02
+* [Pull Request] [mpt: refactor, comment and simplify MPT class ](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4241) - 2026-02-10
 * [Pull Request] []() - 2026-02-12
 * [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-02-28
-* [Pull Request] []() - 2026-03-05
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [fix: npm audit fixes](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4255) - 2026-02-28
+* [Pull Request] [chore: downgrade dev bal 510](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4258) - 2026-03-05
+* [Pull Request] [evm: fix ethtransfer tests](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4259) - 2026-03-06
 * [Pull Request] []() - 2026-03-09
 ## Q4 2025
 
@@ -65,9 +65,9 @@ Team: EthereumJS
 * [Pull Request] [verkle: remove verkle package](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4145) - 2025-10-11
 * [Commit] [chore: cleanup verkle](https://github.com/ethereumjs/ethereumjs-monorepo/commit/83b0269efe4948b3267a1fa753e06c3488df5ec1) - 2025-10-11
 
-* [Pull Request] []() - 2025-11-13
-* [Pull Request] []() - 2025-11-28
-* [Pull Request] []() - 2025-12-30
+* [Pull Request] [chore: upgrade noble curves v2](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4183) - 2025-11-13
+* [Pull Request] [util: validate no leading zeroes7702](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4204) - 2025-11-28
+* [Pull Request] [common: fix hardforks implementation](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4216) - 2025-12-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementers Call #44, October 20th, 2025](https://github.com/ethereum/pm/issues/1770) - 2025-10-17
 * [Issue] [Stateless Implementers Call #45, November 3rd, 2025](https://github.com/ethereum/pm/issues/1773) - 2025-10-20

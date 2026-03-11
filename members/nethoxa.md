@@ -13,7 +13,7 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
-* [Pull Request] []() - 2026-02-26
+* [Pull Request] [fix builder_index check against validators len](https://github.com/status-im/nimbus-eth2/pull/8042) - 2026-02-26
 ## Q3 2025
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)

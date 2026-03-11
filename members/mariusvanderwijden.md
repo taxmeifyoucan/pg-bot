@@ -12,11 +12,11 @@ Team: Geth
 
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-* [Pull Request] []() - 2026-01-12
-* [Pull Request] []() - 2026-01-13
-* [Pull Request] []() - 2026-02-06
-* [Pull Request] []() - 2026-03-03
-* [Pull Request] []() - 2026-03-05
+* [Pull Request] [core/vm: implement eip-7843: SLOTNUM](https://github.com/ethereum/go-ethereum/pull/33589) - 2026-01-12
+* [Pull Request] [core: implement eip-7778: block gas accounting without refunds](https://github.com/ethereum/go-ethereum/pull/33593) - 2026-01-13
+* [Pull Request] [metrics: reduce allocations for metrics](https://github.com/ethereum/go-ethereum/pull/33699) - 2026-02-06
+* [Pull Request] [eth/catalyst: add api benchmarks](https://github.com/ethereum/go-ethereum/pull/33944) - 2026-03-03
+* [Pull Request] [go.mod: update go-eth-kzg](https://github.com/ethereum/go-ethereum/pull/33963) - 2026-03-05
 * [Pull Request] []() - 2026-03-08
 ## Q4 2025
 
@@ -25,11 +25,11 @@ Team: Geth
 * [Issue] [Flaky test: TestSizeTracker](https://github.com/ethereum/go-ethereum/issues/32984) - 2025-10-21
 * [Issue] [Migrating nodes db from leveldb to pebble](https://github.com/ethereum/go-ethereum/issues/33000) - 2025-10-22
 * [Issue] [High allocations in LogFilter](https://github.com/ethereum/go-ethereum/issues/33040) - 2025-10-28
-* [Pull Request] []() - 2025-11-03
+* [Pull Request] [go.mod: update to c-kzg v2.1.5](https://github.com/ethereum/go-ethereum/pull/33093) - 2025-11-03
 
-* [Pull Request] []() - 2025-11-07
+* [Pull Request] [core/vm: remove todo](https://github.com/ethereum/go-ethereum/pull/33120) - 2025-11-07
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2025-11-05
+* [Pull Request] [Increase mainnet DefaultBuilderGasLimit to 60M](https://github.com/OffchainLabs/prysm/pull/15979) - 2025-11-05
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Issue] [admin_mineBlock for deterministic miner testing](https://github.com/ethereum/execution-apis/issues/705) - 2025-11-08

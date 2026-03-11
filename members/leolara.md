@@ -10,5 +10,5 @@ Github: [@leolara](https://github.com/leolara)
 
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2026-01-29
-* [Pull Request] []() - 2026-03-04
+* [Pull Request] [Restore randomized blocks test generator](https://github.com/ethereum/consensus-specs/pull/4872) - 2026-01-29
+* [Pull Request] [Port ssz_generic to pytest](https://github.com/ethereum/consensus-specs/pull/4956) - 2026-03-04

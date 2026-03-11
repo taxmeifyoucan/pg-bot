@@ -12,29 +12,35 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [feat: add getNodeVersionV2 endpoint](https://github.com/ChainSafe/lodestar/pull/8772) - 2026-01-21
 * [Issue] [Consider switching to @vekexasia/bigint-buffer2](https://github.com/ChainSafe/lodestar/issues/8771) - 2026-01-21
-* [Pull Request] []() - 2026-01-22
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-06
+* [Pull Request] [fix: pass fork info used to compute domain to remote signer](https://github.com/ChainSafe/lodestar/pull/8776) - 2026-01-22
+* [Pull Request] [chore: fix spec refs in 8759](https://github.com/ChainSafe/lodestar/pull/8792) - 2026-01-27
+* [Pull Request] [fix: consistently check block input cache before checking hot db for blocks](https://github.com/ChainSafe/lodestar/pull/8823) - 2026-01-30
+* [Pull Request] [feat: implement epbs block production](https://github.com/ChainSafe/lodestar/pull/8838) - 2026-02-02
+* [Pull Request] [chore: fix fastify deprecation warning about querystringParser](https://github.com/ChainSafe/lodestar/pull/8876) - 2026-02-06
 * [Issue] [Add workflow for nightly generated tests vectors](https://github.com/ChainSafe/lodestar/issues/8871) - 2026-02-06
 * [Issue] [Reuse bytes when deserializing gossip](https://github.com/ChainSafe/lodestar/issues/8870) - 2026-02-06
-* [Pull Request] []() - 2026-02-08
-* [Pull Request] []() - 2026-02-10
+* [Pull Request] [feat: update to spec v1.7.0-alpha.2](https://github.com/ChainSafe/lodestar/pull/8881) - 2026-02-08
+* [Pull Request] [chore: avoid unnecessary errors when shutting down the node](https://github.com/ChainSafe/lodestar/pull/8886) - 2026-02-10
 * [Pull Request] []() - 2026-02-12
 * [Issue] [Queuing on api if execution payload envelope is received first](https://github.com/ChainSafe/lodestar/issues/8915) - 2026-02-15
-* [Pull Request] []() - 2026-02-15
-* [Pull Request] []() - 2026-02-20
+* [Pull Request] [feat: implement epbs stateless block production [wip]](https://github.com/ChainSafe/lodestar/pull/8913) - 2026-02-15
+* [Pull Request] [feat: epbs-devnet-0](https://github.com/ChainSafe/lodestar/pull/8939) - 2026-02-20
 * [Issue] [Use milliseconds everywhere](https://github.com/ChainSafe/lodestar/issues/8932) - 2026-02-20
-* [Pull Request] []() - 2026-02-21
+* [Pull Request] [fix: log payload attestations for gloas block bodies](https://github.com/ChainSafe/lodestar/pull/8942) - 2026-02-21
 * [Pull Request] []() - 2026-02-22
 * [Issue] [Update expected withdrawals in gloas payload attributes](https://github.com/ChainSafe/lodestar/issues/8953) - 2026-02-24
-* [Pull Request] []() - 2026-02-27
+* [Pull Request] [feat: implement 6-second slots EIP-7782](https://github.com/ChainSafe/lodestar/pull/8966) - 2026-02-27
 * [Issue] [Queue block if parent payload is missing](https://github.com/ChainSafe/lodestar/issues/8981) - 2026-03-04
 * [Issue] [Queue attestations with index=1 for missing payload](https://github.com/ChainSafe/lodestar/issues/8980) - 2026-03-04
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [fix: cache previous epoch payload timeliness committees](https://github.com/ChainSafe/lodestar/pull/8991) - 2026-03-06
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007) - 2026-03-10
+* [Pull Request] [chore: pin github actions by commit hash](https://github.com/ChainSafe/lodestar/pull/9017) - 2026-03-10
+* [Commit] [fix:  prune serialized cache by block input keys (#9007)](https://github.com/ChainSafe/lodestar/commit/b847afb846a163fd35c097ddfd40da56325e0e6d) - 2026-03-10
+* [Commit] [chore: pin github actions by commit hash (#9017)](https://github.com/ChainSafe/lodestar/commit/0df187678b8103f2aeb3baf10791281d29a8d914) - 2026-03-10
 ## Q4 2025
 
 
@@ -68,15 +74,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: avoid emitting stale light client updates](https://github.com/ChainSafe/lodestar/pull/8522) - 2025-10-10
 * [Pull Request] [chore: remove listener of blob sidecars chain event on close](https://github.com/ChainSafe/lodestar/pull/8520) - 2025-10-10
 * [Issue] [Remove usage of `prettyBytes` in errors](https://github.com/ChainSafe/lodestar/issues/8566) - 2025-10-25
-* [Pull Request] []() - 2025-10-29
+* [Pull Request] [feat: activate fulu on ephemery](https://github.com/ChainSafe/lodestar/pull/8587) - 2025-10-29
 * [Issue] [Build provenance and SBOM attestations for images](https://github.com/ChainSafe/lodestar/issues/8610) - 2025-11-05
-* [Pull Request] []() - 2025-11-26
-* [Pull Request] []() - 2025-12-17
-* [Pull Request] []() - 2025-12-18
-* [Pull Request] []() - 2025-12-19
-* [Pull Request] []() - 2025-12-22
-* [Pull Request] []() - 2025-12-25
-* [Pull Request] []() - 2025-12-31
+* [Pull Request] [chore: fix test current file launch args](https://github.com/ChainSafe/lodestar/pull/8632) - 2025-11-26
+* [Pull Request] [chore: add lerna exec to fix build watch/ifchanged commands](https://github.com/ChainSafe/lodestar/pull/8704) - 2025-12-17
+* [Pull Request] [chore: restore code required to perform sync through bellatrix](https://github.com/ChainSafe/lodestar/pull/8700) - 2025-12-18
+* [Pull Request] [chore: log aggregation selection errors to debug](https://github.com/ChainSafe/lodestar/pull/8709) - 2025-12-19
+* [Pull Request] [chore: review epbs gossip topic changes](https://github.com/ChainSafe/lodestar/pull/8715) - 2025-12-22
+* [Pull Request] [fix: prevent duplicate aggregates passing validation due to race condition](https://github.com/ChainSafe/lodestar/pull/8716) - 2025-12-25
+* [Pull Request] [refactor: use map to lookup combined beacon committee selection for duty](https://github.com/ChainSafe/lodestar/pull/8710) - 2025-12-31
 ## Q3 2025
 
 

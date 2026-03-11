@@ -12,27 +12,27 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-* [Pull Request] []() - 2026-01-05
+* [Pull Request] [ethstats: report newPayload processing time to stats server](https://github.com/ethereum/go-ethereum/pull/33395) - 2026-01-05
 
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
-* [Pull Request] []() - 2026-01-06
-* [Pull Request] []() - 2026-01-08
-* [Pull Request] []() - 2026-01-14
+* [Pull Request] [fix(state-expiry): sort top 100 contracts by rank via API query](https://github.com/ethpandaops/lab/pull/371) - 2026-01-06
+* [Pull Request] [fix(contracts): normalize address to lowercase for API requests and relocate label-colors utility](https://github.com/ethpandaops/lab/pull/373) - 2026-01-08
+* [Pull Request] [chore(deps): update dependencies](https://github.com/ethpandaops/lab/pull/375) - 2026-01-14
 
-* [Pull Request] []() - 2026-01-19
-* [Pull Request] []() - 2026-01-20
-* [Pull Request] []() - 2026-02-18
+* [Pull Request] [feat: add 3xl/4xl breakpoints for ultrawide monitor support](https://github.com/ethpandaops/lab/pull/384) - 2026-01-19
+* [Pull Request] [transparent marklines and slightly transparent](https://github.com/ethpandaops/lab/pull/386) - 2026-01-20
+* [Pull Request] [chore: restructure CLAUDE.md and extract rules](https://github.com/ethpandaops/lab/pull/426) - 2026-02-18
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Issue] [add new combined fork field](https://github.com/ethpandaops/cartographoor/issues/75) - 2026-01-15
 * [Issue] [add slot_duration_ms and slots_per_epoch to consensus layer forks](https://github.com/ethpandaops/cartographoor/issues/74) - 2026-01-15
 * [Issue] [automated fork info](https://github.com/ethpandaops/cartographoor/issues/73) - 2026-01-15
-* [Pull Request] []() - 2026-01-15
+* [Pull Request] [feat: add timestamps to forks and blob schedule](https://github.com/ethpandaops/cartographoor/pull/72) - 2026-01-15
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
-* [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-03-03
+* [Pull Request] [refactor(clickhouse): consolidate execution engine migrations](https://github.com/ethpandaops/xatu/pull/730) - 2026-01-16
+* [Pull Request] [feat(cannon): add sync committee deriver](https://github.com/ethpandaops/xatu/pull/743) - 2026-01-30
+* [Pull Request] [feat(cannon): add beacon block sync aggregate deriver](https://github.com/ethpandaops/xatu/pull/744) - 2026-02-05
+* [Pull Request] [feat: ch migration setup](https://github.com/ethpandaops/xatu/pull/793) - 2026-03-03
 ## Q4 2025
 
 
@@ -54,14 +54,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Release/state expiry](https://github.com/ethpandaops/lab/pull/119) - 2025-10-03
 * [Commit] [add block expiry window](https://github.com/ethpandaops/lab/commit/205a649008854260ea968f2a7247433c4a77060c) - 2025-10-06
 * [Pull Request] [refactor: massive frontend changes](https://github.com/ethpandaops/lab/pull/121) - 2025-10-10
-* [Pull Request] []() - 2025-10-24
+* [Pull Request] [refactor(theme): consolidate color system to CSS-first architecture](https://github.com/ethpandaops/lab/pull/173) - 2025-10-24
 
-* [Pull Request] []() - 2025-12-23
+* [Pull Request] [feat(execution): add state size page with daily data visualization](https://github.com/ethpandaops/lab/pull/344) - 2025-12-23
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] []() - 2025-12-12
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
-* [Pull Request] []() - 2025-12-18
+* [Pull Request] [feat(ethstats): add ethstats CLI subcommand with per-node credential forwarding](https://github.com/ethpandaops/xatu/pull/719) - 2025-12-18
 ## Q3 2025
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)

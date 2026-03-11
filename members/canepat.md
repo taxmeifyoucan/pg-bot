@@ -12,22 +12,22 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
-* [Pull Request] []() - 2026-01-10
-* [Pull Request] []() - 2026-01-14
+* [Pull Request] [rpc: fix block not found in eth_getBalance and others](https://github.com/erigontech/erigon/pull/18457) - 2026-01-10
+* [Pull Request] [rpc: EIP-7966 eth_sendRawTransactionSync](https://github.com/erigontech/erigon/pull/18672) - 2026-01-14
 * [Issue] [eth_call on Multicall3 contract different response full vs archive](https://github.com/erigontech/erigon/issues/18722) - 2026-01-20
 * [Issue] [debug_traceBlockByNumber: test_44 mismatch on latest block: 24298763](https://github.com/erigontech/erigon/issues/18783) - 2026-01-23
-* [Pull Request] []() - 2026-01-23
+* [Pull Request] [rpc: compute root from state history in eth_simulateV1](https://github.com/erigontech/erigon/pull/18782) - 2026-01-23
 
 * [Issue] [rpc: add block timestamp to eth_getTransactionByHash](https://github.com/erigontech/erigon/issues/18811) - 2026-01-26
 * [Issue] [rpc: add support for `debug_setHead`](https://github.com/erigontech/erigon/issues/18922) - 2026-02-02
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-07
+* [Pull Request] [qa-tests: fix summary in RPC Performance Tests Latest](https://github.com/erigontech/erigon/pull/18984) - 2026-02-05
+* [Pull Request] [[r33] rpc: env var for disabling receipt LRU caches](https://github.com/erigontech/erigon/pull/19027) - 2026-02-07
 * [Issue] [rpc: add support for testing_buildBlockV1](https://github.com/erigontech/erigon/issues/19054) - 2026-02-09
-* [Pull Request] []() - 2026-02-11
+* [Pull Request] [rpc: avoid header read in eth_feeHistory](https://github.com/erigontech/erigon/pull/19127) - 2026-02-11
 * [Issue] [eth: add eth_capabilities RPC method](https://github.com/erigontech/erigon/issues/19762) - 2026-03-09
 * [Issue] [hive: rpc-compat failing test](https://github.com/erigontech/erigon/issues/19758) - 2026-03-09
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
-* [Pull Request] []() - 2026-01-26
+* [Pull Request] [perf: fix system-under-test name in alive check](https://github.com/erigontech/rpc-tests/pull/513) - 2026-01-26
 * [Pull Request] []() - 2026-01-28
 ## Q4 2025
 
@@ -60,16 +60,16 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [tests: fix data race in HexPatriciaHashed parallel tests](https://github.com/erigontech/erigon/pull/17423) - 2025-10-11
 * [Issue] [Data race in hex_patricia_hashed_test.go tests](https://github.com/erigontech/erigon/issues/17422) - 2025-10-11
 * [Issue] [Flaky test TestMergedFileGet](https://github.com/erigontech/erigon/issues/17532) - 2025-10-18
-* [Pull Request] []() - 2025-11-03
+* [Pull Request] [tests: fix deadlock in TestWebsocketLargeCall - 2nd try](https://github.com/erigontech/erigon/pull/17762) - 2025-11-03
 * [Issue] [hive: fix remaining `rpc-compat` failing tests](https://github.com/erigontech/erigon/issues/17859) - 2025-11-11
 * [Issue] [User issues migrating from 3.0.15 to 3.2 in Docker on Windows](https://github.com/erigontech/erigon/issues/17855) - 2025-11-11
 * [Issue] [rpc: eth_estimateGas returns value greater than expected](https://github.com/erigontech/erigon/issues/17869) - 2025-11-12
-* [Pull Request] []() - 2025-11-19
-* [Pull Request] []() - 2025-12-02
+* [Pull Request] [[r3.3] rpcdaemon: insert CommitBlock only for API where specific test is present](https://github.com/erigontech/erigon/pull/17963) - 2025-11-19
+* [Pull Request] [qa-tests: enable eth_getProof test 24](https://github.com/erigontech/erigon/pull/18131) - 2025-12-02
 * [Issue] [QA: add Caplin+Erigon in external mode configuration](https://github.com/erigontech/erigon/issues/18163) - 2025-12-04
 * [Issue] [Erigon 3.3.0 stuck at block 23,935,693 after invalid block](https://github.com/erigontech/erigon/issues/18213) - 2025-12-08
-* [Pull Request] []() - 2025-12-09
-* [Pull Request] []() - 2025-12-11
+* [Pull Request] [rpc: fix invalid key error code in eth_getStorageAt](https://github.com/erigontech/erigon/pull/18228) - 2025-12-09
+* [Pull Request] [rpc: fix batch limit exceeded error as per JSONRPC spec](https://github.com/erigontech/erigon/pull/18260) - 2025-12-11
 * [Issue] [EL: add max blobs config parameter for block production](https://github.com/erigontech/erigon/issues/18318) - 2025-12-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [integration: refactor WebSocket integration utilities (#468)](https://github.com/erigontech/rpc-tests/commit/4f415d317dc3637648781b043ac3b002aa209132) - 2025-10-02
@@ -79,11 +79,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration: add integration utility for filter changes](https://github.com/erigontech/rpc-tests/commit/521776da2267952fc2c5b7fa411f0b7c92bc7a1c) - 2025-10-03
 * [Pull Request] [integration: input validation tests for eth_getStorageAt](https://github.com/erigontech/rpc-tests/pull/471) - 2025-10-04
 
-* [Pull Request] []() - 2025-12-06
+* [Pull Request] [docs: venv activation in README](https://github.com/erigontech/rpc-tests/pull/503) - 2025-12-06
 * [Pull Request] []() - 2025-12-08
-* [Pull Request] []() - 2025-12-24
+* [Pull Request] [integration: fix tests for case block not found](https://github.com/erigontech/rpc-tests/pull/508) - 2025-12-24
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2025-10-16
+* [Pull Request] [clients/erigon: enable commitment history](https://github.com/ethereum/hive/pull/1355) - 2025-10-16
 ## Q3 2025
 
 

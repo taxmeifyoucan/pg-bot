@@ -12,15 +12,15 @@ Team: Codex DAS
 
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-* [Pull Request] []() - 2026-01-07
-* [Pull Request] []() - 2026-01-09
-* [Pull Request] []() - 2026-01-14
-* [Pull Request] []() - 2026-01-19
-* [Pull Request] []() - 2026-01-20
-* [Pull Request] []() - 2026-01-28
-* [Pull Request] []() - 2026-01-29
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-26
+* [Pull Request] [eth: txs fetch/send log at trace level only](https://github.com/ethereum/go-ethereum/pull/33541) - 2026-01-07
+* [Pull Request] [core: remove duplicate chainHeadFeed.Send code](https://github.com/ethereum/go-ethereum/pull/33563) - 2026-01-09
+* [Pull Request] [eth: check for tx on chain as well (v2)](https://github.com/ethereum/go-ethereum/pull/33607) - 2026-01-14
+* [Pull Request] [core/txpool/legacypool: add metric for accounts in txpool ](https://github.com/ethereum/go-ethereum/pull/33646) - 2026-01-19
+* [Pull Request] [core/txpool/legacypool: reset gauges on clear](https://github.com/ethereum/go-ethereum/pull/33654) - 2026-01-20
+* [Pull Request] [core/txpool/legacypool: clarify and fix non-executable tx heartbeat](https://github.com/ethereum/go-ethereum/pull/33704) - 2026-01-28
+* [Pull Request] [common/lru: add metered lru cache variant](https://github.com/ethereum/go-ethereum/pull/33719) - 2026-01-29
+* [Pull Request] [metrics: allow changing influxdb interval](https://github.com/ethereum/go-ethereum/pull/33767) - 2026-02-05
+* [Pull Request] [core/txpool/blobpool: delay announcement of low fee txs](https://github.com/ethereum/go-ethereum/pull/33893) - 2026-02-26
 ## Q4 2025
 
 
@@ -29,15 +29,15 @@ Team: Codex DAS
 * [Commit] [core/txpool/legacypool: move queue out of main txpool (#32270)](https://github.com/ethereum/go-ethereum/commit/7b693ea17c9e5e950a36df29262fab7862ffda23) - 2025-10-13
 * [Pull Request] [eth: do not warn on switching from snap sync to full sync](https://github.com/ethereum/go-ethereum/pull/32900) - 2025-10-13
 
-* [Pull Request] []() - 2025-11-12
-* [Pull Request] []() - 2025-11-15
+* [Pull Request] [core/txpool/blobpool: fix benchmarkPoolPending](https://github.com/ethereum/go-ethereum/pull/33161) - 2025-11-12
+* [Pull Request] [eth/catalyst: benchmark GetBlobsV2 at API level](https://github.com/ethereum/go-ethereum/pull/33196) - 2025-11-15
 * [Pull Request] []() - 2025-12-03
-* [Pull Request] []() - 2025-12-22
+* [Pull Request] [core/txpool/blobpool: fix slotter size limit](https://github.com/ethereum/go-ethereum/pull/33474) - 2025-12-22
 * [Pull Request] []() - 2025-12-24
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-11-07
-* [Pull Request] []() - 2025-11-29
-* [Pull Request] []() - 2025-12-05
+* [Pull Request] [Add EIP: eth/XX - announce transactions with nonce](https://github.com/ethereum/EIPs/pull/10745) - 2025-11-07
+* [Pull Request] [Add EIP: eth/vhash - Blob-Aware Mempool](https://github.com/ethereum/EIPs/pull/10853) - 2025-11-29
+* [Pull Request] [Update EIP-8077: improved rationale](https://github.com/ethereum/EIPs/pull/10873) - 2025-12-05
 ## Q3 2025
 
 

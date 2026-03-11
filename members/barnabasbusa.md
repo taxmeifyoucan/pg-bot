@@ -15,14 +15,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [Prysm vc `500: UNHANDLED_ERROR: UnableToReadSlot`](https://github.com/sigp/lighthouse/issues/8624) - 2026-01-05
 
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
-* [Pull Request] []() - 2026-01-09
+* [Pull Request] [Update Go base image version to 1.25.1](https://github.com/ethpandaops/dora/pull/552) - 2026-01-09
 
-* [Pull Request] []() - 2026-02-09
-* [Pull Request] []() - 2026-02-16
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [feat: add block filter view](https://github.com/ethpandaops/dora/pull/568) - 2026-02-09
+* [Pull Request] [feat(epochs): display proposal participation in epochs page](https://github.com/ethpandaops/dora/pull/583) - 2026-02-16
+* [Pull Request] [fix: add missing SQL placeholder for orphaned blocks insert](https://github.com/ethpandaops/dora/pull/600) - 2026-03-06
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
-* [Pull Request] []() - 2026-01-12
-* [Pull Request] []() - 2026-01-16
+* [Pull Request] [fix: add triple-beam dependency to package.json](https://github.com/ChainSafe/lodestar/pull/8736) - 2026-01-12
+* [Pull Request] [feat: implement eip 7843](https://github.com/ChainSafe/lodestar/pull/8747) - 2026-01-16
 
 [consensys/teku](https://github.com/consensys/teku)
 * [Issue] [FR: add `--force-clear-db` to wipe the existing db at startup](https://github.com/Consensys/teku/issues/10313) - 2026-02-02
@@ -37,14 +37,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [All Core Devs - Testing (ACDT) #70, February 16, 2026](https://github.com/ethereum/pm/issues/1920) - 2026-02-10
 
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-11
-* [Pull Request] []() - 2026-02-24
+* [Pull Request] [Add containerd-snapshotter feature option](https://github.com/ethpandaops/template-devnets/pull/150) - 2026-02-10
+* [Pull Request] [feat: merge do and hc](https://github.com/ethpandaops/template-devnets/pull/152) - 2026-02-11
+* [Pull Request] [feat: merge do and hc](https://github.com/ethpandaops/template-devnets/pull/152) - 2026-02-24
 
-* [Pull Request] []() - 2026-03-03
+* [Pull Request] [fix: small fixes and dep update](https://github.com/ethpandaops/template-devnets/pull/154) - 2026-03-03
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-02-26
-* [Pull Request] []() - 2026-03-02
+* [Pull Request] [Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356) - 2026-02-26
+* [Pull Request] [Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356) - 2026-03-02
 ## Q4 2025
 
 
@@ -53,27 +53,27 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: add supported columns as an array instead of bool](https://github.com/ethpandaops/dora/commit/f816bc222e9f8ea5532b50220530acdf713cfa2c) - 2025-10-02
 
 * [Issue] [do validator look ahead on n+1 epoch](https://github.com/ethpandaops/dora/issues/524) - 2025-12-01
-* [Pull Request] []() - 2025-12-11
+* [Pull Request] [feat: add el status message viewer](https://github.com/ethpandaops/dora/pull/536) - 2025-12-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [Default to EL<version>CL<version> in graffiti](https://github.com/status-im/nimbus-eth2/issues/7580) - 2025-10-08
 
-* [Pull Request] []() - 2025-12-05
+* [Pull Request] [fix: bpo spec initialization for genesis](https://github.com/status-im/nimbus-eth2/pull/7780) - 2025-12-05
 * [Issue] [Broken config if BPO is scheduled to genesis.](https://github.com/status-im/nimbus-eth2/issues/7778) - 2025-12-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update 7949: specify each field explicitly](https://github.com/ethereum/EIPs/pull/10503) - 2025-10-09
 
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
-* [Pull Request] []() - 2025-10-21
+* [Pull Request] [Update geth init](https://github.com/ethpandaops/template-devnets/pull/134) - 2025-10-21
 
 [ethereum/pm](https://github.com/ethereum/pm)
-* [Pull Request] []() - 2025-10-23
+* [Pull Request] [Clarify mainnet upgrade date requirement](https://github.com/ethereum/pm/pull/1780) - 2025-10-23
 * [Issue] [All Core Devs - Testing (ACDT) #60, November 3, 2025](https://github.com/ethereum/pm/issues/1786) - 2025-10-28
 * [Issue] [All Core Devs - Testing (ACDT) #62, December 1, 2025](https://github.com/ethereum/pm/issues/1820) - 2025-11-27
 * [Issue] [All Core Devs - Testing (ACDT) #64, December 15, 2025](https://github.com/ethereum/pm/issues/1842) - 2025-12-12
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [Missing values in `/eth/v1/config/spec`](https://github.com/sigp/lighthouse/issues/8571) - 2025-12-12
-* [Pull Request] []() - 2025-12-15
+* [Pull Request] [Adjust effective_epoch calculation for genesis case](https://github.com/sigp/lighthouse/pull/8584) - 2025-12-15
 * [Issue] [Columns pruned within boundary finalization bug](https://github.com/sigp/lighthouse/issues/8583) - 2025-12-15
 ## Q3 2025
 

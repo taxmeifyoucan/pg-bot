@@ -12,18 +12,22 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 
 
 [consensys/teku](https://github.com/consensys/teku)
-* [Pull Request] []() - 2026-01-14
-* [Pull Request] []() - 2026-01-15
-* [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-01-20
-* [Pull Request] []() - 2026-01-22
-* [Pull Request] []() - 2026-01-23
-* [Pull Request] []() - 2026-01-24
+* [Pull Request] [Add getBlobs blob reconstruction from any 50%](https://github.com/Consensys/teku/pull/10274) - 2026-01-14
+* [Pull Request] [Prefer peer with good response rate](https://github.com/Consensys/teku/pull/10277) - 2026-01-15
+* [Pull Request] [Partition sidecar byRoot batches depending on max blobs](https://github.com/Consensys/teku/pull/10279) - 2026-01-16
+* [Pull Request] [Add sidecars through atomic DB updates](https://github.com/Consensys/teku/pull/10282) - 2026-01-20
+* [Pull Request] [Remove SidecarUpdateChannel.onNewNonCanonicalSidecar(sidecar)](https://github.com/Consensys/teku/pull/10292) - 2026-01-22
+* [Pull Request] [Move error encountered on stream abort to DEBUG level](https://github.com/Consensys/teku/pull/10295) - 2026-01-23
+* [Pull Request] [Add completed slots cache in recovering custody](https://github.com/Consensys/teku/pull/10296) - 2026-01-24
 * [Pull Request] []() - 2026-01-29
-* [Pull Request] []() - 2026-02-03
-* [Pull Request] []() - 2026-02-06
+* [Pull Request] [Add DataColumnSidecarsByRootValidator test](https://github.com/Consensys/teku/pull/10325) - 2026-02-03
+* [Pull Request] [Fulu misc helpers property test](https://github.com/Consensys/teku/pull/10337) - 2026-02-06
 * [Issue] [Penalize peers causing ReqResp/Gossip exceptions](https://github.com/Consensys/teku/issues/10339) - 2026-02-06
 * [Issue] [Archive DataColumnSidecars to the disk](https://github.com/Consensys/teku/issues/10338) - 2026-02-06
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Update DB migration according to the current state (main direction of migration LevelDB -> RocksDB)](https://github.com/Consensys/teku/pull/10471) - 2026-03-10
+* [Commit] [Update according to the current state (main direction of migration LevelDB2 -> RocksDB) (#10471)](https://github.com/Consensys/teku/commit/260d0aeb67951a4f2e6df633966a4e41960a2ce0) - 2026-03-10
 ## Q4 2025
 
 
@@ -31,17 +35,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [VersionedHashDBSource tests (#9908)](https://github.com/Consensys/teku/commit/2d80867498bbade98ba1e333a60eb8c80a1f8846) - 2025-10-01
 * [Pull Request] [Remove VersionedHashDBSource](https://github.com/Consensys/teku/pull/9964) - 2025-10-02
 * [Pull Request] [Get blobs REST API](https://github.com/Consensys/teku/pull/9978) - 2025-10-07
-* [Pull Request] []() - 2025-10-28
-* [Pull Request] []() - 2025-10-31
+* [Pull Request] [Acceptance Test: Restore DataColumnSidecars from 50%](https://github.com/Consensys/teku/pull/10066) - 2025-10-28
+* [Pull Request] [FULU Checkpoint Sync Acceptance Test](https://github.com/Consensys/teku/pull/10090) - 2025-10-31
 * [Issue] [Store only 1/2 of sidecars on supernodes](https://github.com/Consensys/teku/issues/10095) - 2025-11-03
-* [Pull Request] []() - 2025-11-12
-* [Pull Request] []() - 2025-11-20
-* [Pull Request] []() - 2025-11-26
-* [Pull Request] []() - 2025-11-27
-* [Pull Request] []() - 2025-11-29
-* [Pull Request] []() - 2025-12-09
-* [Pull Request] []() - 2025-12-17
-* [Pull Request] []() - 2025-12-20
+* [Pull Request] [[WIP] Reconstruct supernode sidecars extension](https://github.com/Consensys/teku/pull/10131) - 2025-11-12
+* [Pull Request] [Improve log message in SimpleSidecarRetriever](https://github.com/Consensys/teku/pull/10156) - 2025-11-20
+* [Pull Request] [Fix 50% DAS Recover Acceptance Test flakiness](https://github.com/Consensys/teku/pull/10180) - 2025-11-26
+* [Pull Request] [+1 minute wait time for fulu block reconstruction](https://github.com/Consensys/teku/pull/10182) - 2025-11-27
+* [Pull Request] [Fix sidecars sync](https://github.com/Consensys/teku/pull/10188) - 2025-11-29
+* [Pull Request] [Unify BlobSidecar and Fulu trackers pruning using BlobTrackerPool](https://github.com/Consensys/teku/pull/10215) - 2025-12-09
+* [Pull Request] [Finish DA check on 50% columns](https://github.com/Consensys/teku/pull/10248) - 2025-12-17
+* [Pull Request] [Add User Agent to Builder's headers](https://github.com/Consensys/teku/pull/10255) - 2025-12-20
 * [Pull Request] []() - 2025-12-23
 ## Q3 2025
 

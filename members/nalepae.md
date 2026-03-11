@@ -12,10 +12,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2026-01-02
-* [Pull Request] []() - 2026-01-05
-* [Pull Request] []() - 2026-01-06
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [Summarize "Accepted data column sidecars summary" log.](https://github.com/OffchainLabs/prysm/pull/16210) - 2026-01-02
+* [Pull Request] [Add the `--disable-get-blobs-v2` flag and fixes #16171](https://github.com/OffchainLabs/prysm/pull/16155) - 2026-01-05
+* [Pull Request] [Implement parallel verification for KZG proofs in VerifyCellKZGProofBatch](https://github.com/OffchainLabs/prysm/pull/16220) - 2026-01-06
+* [Pull Request] [[POC] EIP-8025: Optional Execution Proofs](https://github.com/OffchainLabs/prysm/pull/16270) - 2026-01-21
 * [Issue] [No `Synced new block` log with INFO verbosity](https://github.com/OffchainLabs/prysm/issues/16314) - 2026-02-02
 * [Issue] [Do not copy the finalized state when computing validators custody requirements](https://github.com/OffchainLabs/prysm/issues/16354) - 2026-02-12
 * [Issue] [Extra memory consumed for unknown reason](https://github.com/OffchainLabs/prysm/issues/16376) - 2026-02-20
@@ -52,7 +52,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [`VerifyDataColumnSidecar`: Check if there is no too many commitments.](https://github.com/OffchainLabs/prysm/pull/15859) - 2025-10-13
 * [Commit] [`VerifyDataColumnSidecar`: Check if there is no too many commitments.](https://github.com/OffchainLabs/prysm/commit/077428cb38dd9a60e72647e0666a8845e0f3c594) - 2025-10-13
 * [Commit] [`--subscribe-all-subnets`: Define it as an alias and define `--subscribe-all-attestations-and-sync-subnets` as the main value.](https://github.com/OffchainLabs/prysm/commit/c8b39bc59d37dbe374e1a1d9142e1cafe813a7a3) - 2025-10-13
-* [Pull Request] []() - 2025-10-27
+* [Pull Request] [Update go-netroute to `v0.3.0`](https://github.com/OffchainLabs/prysm/pull/15934) - 2025-10-27
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
 * [Issue] [Prysm broadcasts `0x000....` KZG proofs](https://github.com/OffchainLabs/prysm/issues/15958) - 2025-10-31
@@ -65,8 +65,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Optimize the volume needed for blob storage](https://github.com/OffchainLabs/prysm/issues/16133) - 2025-12-10
 * [Issue] [Compress not fully filled blobs in storage](https://github.com/OffchainLabs/prysm/issues/16132) - 2025-12-10
 * [Issue] [Lot of "replaying canonical blocks" using Prysm VC in REST mode](https://github.com/OffchainLabs/prysm/issues/16135) - 2025-12-11
-* [Pull Request] []() - 2025-12-16
-* [Pull Request] []() - 2025-12-17
+* [Pull Request] [Construct data column sidecars from the execution layer in parallel and add metrics](https://github.com/OffchainLabs/prysm/pull/16115) - 2025-12-16
+* [Pull Request] [Pending aggregates: When multiple aggregated attestations only differing by the aggregator index are in the pending queue, only process one of them.](https://github.com/OffchainLabs/prysm/pull/16153) - 2025-12-17
 ## Q3 2025
 
 

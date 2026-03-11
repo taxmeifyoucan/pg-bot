@@ -12,7 +12,7 @@ Team: Grandine
 
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
-* [Pull Request] []() - 2026-02-19
+* [Pull Request] [Delay after finalization archive tasks to be performed later in slot](https://github.com/grandinetech/grandine/pull/605) - 2026-02-19
 ## Q4 2025
 
 
@@ -23,14 +23,14 @@ Team: Grandine
 * [Pull Request] [Debug P2p message handling performance](https://github.com/grandinetech/grandine/pull/409) - 2025-10-08
 * [Pull Request] [Ensure peer connected only after other sync checks to avoid unnecessary peer collection locking](https://github.com/grandinetech/grandine/pull/412) - 2025-10-09
 
-* [Pull Request] []() - 2025-10-17
-* [Pull Request] []() - 2025-10-20
-* [Pull Request] []() - 2025-11-04
-* [Pull Request] []() - 2025-11-10
-* [Pull Request] []() - 2025-11-11
-* [Pull Request] []() - 2025-12-05
+* [Pull Request] [Don't send whole head state to P2p on head change](https://github.com/grandinetech/grandine/pull/431) - 2025-10-17
+* [Pull Request] [Run metrics service system stats refresh in tokio blocking task](https://github.com/grandinetech/grandine/pull/438) - 2025-10-20
+* [Pull Request] [Increase `engine_getBlobsV*` request timeout to 2s](https://github.com/grandinetech/grandine/pull/465) - 2025-11-04
+* [Pull Request] [Add cooldown to `too many empty slots` message in liveness tracking](https://github.com/grandinetech/grandine/pull/473) - 2025-11-10
+* [Pull Request] [Fix `Mutator` performance issues related to data column reconstruction](https://github.com/grandinetech/grandine/pull/474) - 2025-11-11
+* [Pull Request] [Add `/features` endpoints](https://github.com/grandinetech/grandine/pull/520) - 2025-12-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-10-14
+* [Pull Request] [eip7732: swap `beacon_block_root` and `slot` in places in `DataColumnSidecar`](https://github.com/ethereum/consensus-specs/pull/4656) - 2025-10-14
 ## Q3 2025
 
 

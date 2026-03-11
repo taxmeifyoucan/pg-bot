@@ -13,16 +13,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [seg backup/mirror command](https://github.com/erigontech/erigon/issues/18571) - 2026-01-06
-* [Pull Request] []() - 2026-01-07
-* [Pull Request] []() - 2026-01-09
-* [Pull Request] []() - 2026-01-15
+* [Pull Request] [refresh cfg cache when knownPreverified is changed](https://github.com/erigontech/erigon/pull/18589) - 2026-01-07
+* [Pull Request] [fix Preverified.Type to consider index version correctly](https://github.com/erigontech/erigon/pull/18607) - 2026-01-09
+* [Pull Request] [remove missed-idx log](https://github.com/erigontech/erigon/pull/18681) - 2026-01-15
 * [Issue] [help output even after execution](https://github.com/erigontech/erigon/issues/18714) - 2026-01-19
-* [Pull Request] []() - 2026-01-19
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [use less expensive signal for BuildMissedIndices](https://github.com/erigontech/erigon/pull/18712) - 2026-01-19
+* [Pull Request] [update version to 3.3.4](https://github.com/erigontech/erigon/pull/18739) - 2026-01-21
 * [Issue] [port collision between torrentClientStatus and pprof (seg integrity)](https://github.com/erigontech/erigon/issues/18778) - 2026-01-23
 * [Issue] [torrent verification and recovery](https://github.com/erigontech/erigon/issues/18776) - 2026-01-23
-* [Pull Request] []() - 2026-01-24
-* [Pull Request] []() - 2026-01-26
+* [Pull Request] [fix for some commitment.kv using more plainkeys than references](https://github.com/erigontech/erigon/pull/18774) - 2026-01-24
+* [Pull Request] [check txnum index existence before commitment rebuild](https://github.com/erigontech/erigon/pull/18805) - 2026-01-26
 * [Issue] [gnosis commitment history generation](https://github.com/erigontech/erigon/issues/18893) - 2026-01-30
 * [Issue] [integrity cache for faster file checks](https://github.com/erigontech/erigon/issues/18890) - 2026-01-30
 * [Issue] [Erigon Publishable v3](https://github.com/erigontech/erigon/issues/18889) - 2026-01-30
@@ -31,6 +31,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [tool to regenerate commitment history](https://github.com/erigontech/erigon/issues/18954) - 2026-02-04
 * [Issue] [receipt root checker tool](https://github.com/erigontech/erigon/issues/19421) - 2026-02-23
 * [Issue] [stage_exec restart is failing consistently because of nonce too low errors](https://github.com/erigontech/erigon/issues/19473) - 2026-02-25
+* [Pull Request] [Cherry-pick #19698: UnitTest for reset page counter on collision in buildVI](https://github.com/erigontech/erigon/pull/19754) - 2026-03-10
+* [Commit] [Cherry-pick #19698: UnitTest for reset page counter on collision in buildVI (#19754)](https://github.com/erigontech/erigon/commit/59bd509cebca45204c223697823472e4c374cef5) - 2026-03-10
 ## Q4 2025
 
 
@@ -80,7 +82,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [prevent empty .yml creation on Github during release](https://github.com/erigontech/erigon/issues/17844) - 2025-11-10
 * [Issue] [add rpc-test to release process](https://github.com/erigontech/erigon/issues/17843) - 2025-11-10
 * [Issue] [faster integrity for rcache/receipt](https://github.com/erigontech/erigon/issues/17842) - 2025-11-10
-* [Pull Request] []() - 2025-11-11
+* [Pull Request] [caplin files publishable check [v33]](https://github.com/erigontech/erigon/pull/17857) - 2025-11-11
 * [Issue] [snapshotter health check: if erigon is on chaintip or not](https://github.com/erigontech/erigon/issues/17868) - 2025-11-12
 * [Issue] [manage releases better in snapshot automation script](https://github.com/erigontech/erigon/issues/18133) - 2025-12-02
 * [Issue] [torrent file verification doesn't finish](https://github.com/erigontech/erigon/issues/18162) - 2025-12-04
@@ -88,9 +90,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [snapshot reset dryrun mode doesn't show any files](https://github.com/erigontech/erigon/issues/18191) - 2025-12-05
 * [Issue] [stage_exec is broken](https://github.com/erigontech/erigon/issues/18227) - 2025-12-09
 * [Issue] [add caplin state snapshots to `seg index` command](https://github.com/erigontech/erigon/issues/18265) - 2025-12-11
-* [Pull Request] []() - 2025-12-18
-* [Pull Request] []() - 2025-12-20
-* [Pull Request] []() - 2025-12-31
+* [Pull Request] [change settings of dir logging](https://github.com/erigontech/erigon/pull/18379) - 2025-12-18
+* [Pull Request] [half block exec fix in receipts](https://github.com/erigontech/erigon/pull/18397) - 2025-12-20
+* [Pull Request] [relax some publishable checks for blobsidecars](https://github.com/erigontech/erigon/pull/18523) - 2025-12-31
 ## Q3 2025
 
 

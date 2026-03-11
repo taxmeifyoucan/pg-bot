@@ -22,7 +22,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
-* [Pull Request] []() - 2025-11-04
+* [Pull Request] [fix(fw): Call `get_type_hints()` on class rather than instance](https://github.com/ethereum/execution-specs/pull/1745) - 2025-11-04
 ## Q3 2025
 
 

@@ -12,16 +12,16 @@ Team: Geth
 
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-* [Pull Request] []() - 2026-01-03
+* [Pull Request] [core: implement EIP-7701, native account abstraction](https://github.com/ethereum/go-ethereum/pull/33520) - 2026-01-03
 
-* [Pull Request] []() - 2026-01-15
+* [Pull Request] [build: remove circleci config](https://github.com/ethereum/go-ethereum/pull/33616) - 2026-01-15
 * [Pull Request] []() - 2026-01-17
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-01-06
+* [Pull Request] [Update EIP-5069: add concept of associate editors](https://github.com/ethereum/EIPs/pull/11035) - 2026-01-06
 
-* [Pull Request] []() - 2026-02-11
+* [Pull Request] [Update EIP-8141: fix typo](https://github.com/ethereum/EIPs/pull/11305) - 2026-02-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
-* [Pull Request] []() - 2026-01-08
+* [Pull Request] [Add Bosul to go-ethereum](https://github.com/protocolguild/documentation/pull/462) - 2026-01-08
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Headliner Breakout: EIP-8141 Frame Transaction, March 5, 2026](https://github.com/ethereum/pm/issues/1954) - 2026-03-02
@@ -34,10 +34,10 @@ Team: Geth
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/geth: add flag to set genesis](https://github.com/ethereum/go-ethereum/pull/32844) - 2025-10-07
-* [Pull Request] []() - 2025-11-14
+* [Pull Request] [github: add auto pr closer](https://github.com/ethereum/go-ethereum/pull/33189) - 2025-11-14
 
 [ethereum/pm](https://github.com/ethereum/pm)
-* [Pull Request] []() - 2025-11-27
+* [Pull Request] [Add geth coordinators](https://github.com/ethereum/pm/pull/1821) - 2025-11-27
 ## Q3 2025
 
 

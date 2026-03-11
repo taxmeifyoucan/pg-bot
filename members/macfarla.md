@@ -12,34 +12,42 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
-* [Pull Request] []() - 2026-01-05
+* [Pull Request] [Update log4j version to 2.25.3](https://github.com/besu-eth/besu/pull/9600) - 2026-01-05
 
 * [Issue] [Turn down this log: Invalid input length for P256VERIFY precompile: expected 160 bytes but got 100](https://github.com/hyperledger/besu/issues/9659) - 2026-01-21
 * [Issue] [Fallback to PoS if no consensus method defined in genesis](https://github.com/hyperledger/besu/issues/9675) - 2026-01-23
-* [Pull Request] []() - 2026-01-26
-* [Pull Request] []() - 2026-01-29
+* [Pull Request] [[MAINTAINERS.md] pullurib to emeritus](https://github.com/besu-eth/besu/pull/9685) - 2026-01-26
+* [Pull Request] [PoW removal: unused methods from MiningCoordinator](https://github.com/besu-eth/besu/pull/9712) - 2026-01-29
 * [Issue] [[PoW removal] decouple JsonBlockImporter](https://github.com/hyperledger/besu/issues/9713) - 2026-01-30
-* [Pull Request] []() - 2026-02-03
+* [Pull Request] [add changelog entry for state root parallelization](https://github.com/besu-eth/besu/pull/9733) - 2026-02-03
 * [Issue] [flaky test EphemeryTest](https://github.com/hyperledger/besu/issues/9726) - 2026-02-02
-* [Pull Request] []() - 2026-02-05
+* [Pull Request] [increase bft sync acceptance test timeout](https://github.com/besu-eth/besu/pull/9748) - 2026-02-05
 * [Issue] [flaky test BftSyncAcceptanceTest](https://github.com/hyperledger/besu/issues/9747) - 2026-02-05
 * [Issue] [flaky test BundleSelectorPluginTest](https://github.com/hyperledger/besu/issues/9744) - 2026-02-04
-* [Pull Request] []() - 2026-02-06
+* [Pull Request] [flaky Cluster AT - allow more time between stop and start](https://github.com/besu-eth/besu/pull/9754) - 2026-02-06
 * [Issue] [flaky test ClusterAcceptanceTest shouldRestartAfterStop](https://github.com/hyperledger/besu/issues/9753) - 2026-02-06
-* [Pull Request] []() - 2026-02-10
+* [Pull Request] [ignore .claude](https://github.com/besu-eth/besu/pull/9773) - 2026-02-10
 * [Issue] [debug_traceTransaction default param behavior](https://github.com/hyperledger/besu/issues/9787) - 2026-02-11
 * [Issue] [backup and restore state subcommands do not support bonsai](https://github.com/hyperledger/besu/issues/9811) - 2026-02-16
-* [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-19
-* [Pull Request] []() - 2026-02-20
-* [Pull Request] []() - 2026-02-23
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-03-05
+* [Pull Request] [fix: correct Internal error code from -32602 to -32603](https://github.com/besu-eth/besu/pull/9845) - 2026-02-18
+* [Pull Request] [fix config for bft soak acceptance test task; add manual trigger GHA](https://github.com/besu-eth/besu/pull/9846) - 2026-02-19
+* [Pull Request] [Uprev gradle licence report plugin](https://github.com/besu-eth/besu/pull/9860) - 2026-02-20
+* [Pull Request] [gradle: regenerate blocks.bin when code has changed](https://github.com/besu-eth/besu/pull/9864) - 2026-02-23
+* [Pull Request] [fix: send slim account encoding in snap AccountRange responses](https://github.com/besu-eth/besu/pull/9877) - 2026-02-24
+* [Pull Request] [eth_simulateV1 allow moving multiple precompiles to same address](https://github.com/besu-eth/besu/pull/9892) - 2026-02-25
+* [Pull Request] [Flaky test bft block reward payment AT](https://github.com/besu-eth/besu/pull/9975) - 2026-03-05
 * [Issue] [besu OOM when no peers, no syncing](https://github.com/hyperledger/besu/issues/9974) - 2026-03-05
+* [Pull Request] [Snap download: Fallback to resync world state if incomplete](https://github.com/besu-eth/besu/pull/10019) - 2026-03-11
+* [Pull Request] [enable local gradle caching ](https://github.com/besu-eth/besu/pull/10008) - 2026-03-10
+* [Pull Request] [Add config option for max blobs per block](https://github.com/besu-eth/besu/pull/9983) - 2026-03-10
+* [Pull Request] [disable forest TraceJsonRpcHttpBySpecTest](https://github.com/besu-eth/besu/pull/10005) - 2026-03-10
+* [Issue] [Snap sync marks initial sync complete before pivot world state is available, causing BWS OOM loop](https://github.com/besu-eth/besu/issues/10018) - 2026-03-10
+* [Commit] [enable local gradle caching  (#10008)](https://github.com/besu-eth/besu/commit/0b0839634788fbfce5a605716c4b9e94b3b98eab) - 2026-03-10
+* [Commit] [Add config option for max blobs per block (#9983)](https://github.com/besu-eth/besu/commit/0f0e7b1bdcc501bdffd013bc699fd35f6f1d3650) - 2026-03-10
+* [Commit] [disable forest TraceJsonRpcHttpBySpecTest (#10005)](https://github.com/besu-eth/besu/commit/a00992a4228154ee1eb18646d13222a09df649a1) - 2026-03-10
 [consensys/tuweni](https://github.com/consensys/tuweni)
-* [Pull Request] []() - 2026-01-06
-* [Pull Request] []() - 2026-01-08
+* [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
+* [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08
 * [Pull Request] []() - 2026-01-28
 ## Q4 2025
 
@@ -69,22 +77,22 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] []() - 2025-10-30
 * [Pull Request] []() - 2025-11-06
 * [Pull Request] []() - 2025-11-14
-* [Pull Request] []() - 2025-11-25
-* [Pull Request] []() - 2025-11-27
+* [Pull Request] [added Awaitility style async](https://github.com/besu-eth/besu/pull/9492) - 2025-11-25
+* [Pull Request] [remove PoW support frm Json block importer](https://github.com/besu-eth/besu/pull/9501) - 2025-11-27
 * [Issue] [flaky test shouldTimeoutSlowRpcMethod](https://github.com/hyperledger/besu/issues/9538) - 2025-12-05
 * [Issue] [Release 25.12.0](https://github.com/hyperledger/besu/issues/9537) - 2025-12-05
-* [Pull Request] []() - 2025-12-09
+* [Pull Request] [accept client or server timeout for flaky timeout test](https://github.com/besu-eth/besu/pull/9552) - 2025-12-09
 * [Issue] [assert glibc min version at besu startup](https://github.com/hyperledger/besu/issues/9551) - 2025-12-08
 [consensys/tuweni](https://github.com/consensys/tuweni)
-* [Pull Request] []() - 2025-10-21
-* [Pull Request] []() - 2025-10-22
+* [Pull Request] [post release snapshot version 2.7.3-SNAPSHOT](https://github.com/Consensys/tuweni/pull/50) - 2025-10-21
+* [Pull Request] [update gradle to 8.14](https://github.com/Consensys/tuweni/pull/51) - 2025-10-22
 
-* [Pull Request] []() - 2025-11-07
+* [Pull Request] [update vertx to 4.5.22](https://github.com/Consensys/tuweni/pull/52) - 2025-11-07
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2025-11-04
+* [Pull Request] [clients/besu: update name of snap sync flag](https://github.com/ethereum/hive/pull/1368) - 2025-11-04
 
 [consensys/teku](https://github.com/consensys/teku)
-* [Pull Request] []() - 2025-12-18
+* [Pull Request] [update netty to 4.2.9.Final](https://github.com/Consensys/teku/pull/10254) - 2025-12-18
 ## Q3 2025
 
 

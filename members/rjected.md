@@ -12,18 +12,25 @@ Team: Reth
 
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
-* [Pull Request] []() - 2026-01-17
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-02-03
+* [Pull Request] [perf: make Chain use DeferredTrieData](https://github.com/paradigmxyz/reth/pull/21137) - 2026-01-17
+* [Pull Request] [fix(cli): delete all static files when PruneModes::Full is configured](https://github.com/paradigmxyz/reth/pull/21647) - 2026-01-30
+* [Pull Request] [chore(cli): expose static file metrics in cli](https://github.com/paradigmxyz/reth/pull/21770) - 2026-02-03
 * [Issue] [`reth prune` does not delete AccountHistory/StoragesHistory/TransactionHashNumbers from rocksdb](https://github.com/paradigmxyz/reth/issues/21713) - 2026-02-02
 * [Issue] [Support Ctrl-C in `reth prune`](https://github.com/paradigmxyz/reth/issues/21756) - 2026-02-03
-* [Pull Request] []() - 2026-02-07
+* [Pull Request] [chore(persistence): delete ambiguous TODO](https://github.com/paradigmxyz/reth/pull/21923) - 2026-02-07
 * [Issue] [`--minimal` with senders in static files cannot handle completely missing senders](https://github.com/paradigmxyz/reth/issues/21914) - 2026-02-06
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-20
-* [Pull Request] []() - 2026-03-04
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [fix(consistent): actually use range in storage range query](https://github.com/paradigmxyz/reth/pull/22043) - 2026-02-10
+* [Pull Request] [perf: touch entire mdbx in background on startup](https://github.com/paradigmxyz/reth/pull/22156) - 2026-02-13
+* [Pull Request] [fix: detect and remove stale CLI doc pages](https://github.com/paradigmxyz/reth/pull/22433) - 2026-02-20
+* [Pull Request] [fix(stages): bound storage hashing stages memory](https://github.com/paradigmxyz/reth/pull/22721) - 2026-03-04
+* [Pull Request] [fix(cli): fix ctrl-C in reth downloads](https://github.com/paradigmxyz/reth/pull/22851) - 2026-03-06
+* [Pull Request] [chore(cli): add --with-senders and --with-rocksdb for niche presets](https://github.com/paradigmxyz/reth/pull/22933) - 2026-03-10
+* [Pull Request] [fix(ci): remove hashing stages from stage-run-test for storage v2](https://github.com/paradigmxyz/reth/pull/22929) - 2026-03-10
+* [Pull Request] [fix(ci): remove issue_comment: edited from bench trigger](https://github.com/paradigmxyz/reth/pull/22925) - 2026-03-10
+* [Pull Request] [feat(cli): make storage v2 default for new nodes](https://github.com/paradigmxyz/reth/pull/22890) - 2026-03-10
+* [Commit] [fix(ci): remove hashing stages from stage-run-test for storage v2 (#22929)](https://github.com/paradigmxyz/reth/commit/d6b1d0677212b13e3c8f00fe0c65766501f6217b) - 2026-03-10
+* [Commit] [fix(ci): remove issue_comment: edited from bench trigger (#22925)](https://github.com/paradigmxyz/reth/commit/406b95b55571f6ef48ee7c7bf1b9c34bb220ec1a) - 2026-03-10
+* [Commit] [feat(cli): make storage v2 default for new nodes (#22890)](https://github.com/paradigmxyz/reth/commit/5ea37acbdb0bf8971a0424afd4d62c140186af4f) - 2026-03-10
 ## Q4 2025
 
 
@@ -42,10 +49,10 @@ Team: Reth
 * [Commit] [fix: use proper value for account changeset static files](https://github.com/paradigmxyz/reth/commit/0dcc313eb57b15644fa7cb81269a2a849e565671) - 2025-10-08
 * [Commit] [chore: add stub for account_before_block](https://github.com/paradigmxyz/reth/commit/4079bfe28d600d39a8dc58679ee4472fa30c9567) - 2025-10-08
 * [Commit] [docs: yellowpaper sections in consensus implementation (#18881)](https://github.com/paradigmxyz/reth/commit/83cec3793bb2300c76f1aeb88aac1e1a96309f34) - 2025-10-08
-* [Pull Request] []() - 2025-10-18
-* [Pull Request] []() - 2025-11-07
-* [Pull Request] []() - 2025-11-12
-* [Pull Request] []() - 2025-11-14
+* [Pull Request] [feat: add capacity metrics for tries](https://github.com/paradigmxyz/reth/pull/19117) - 2025-10-18
+* [Pull Request] [chore(trie): add number of target slots to storage proof span](https://github.com/paradigmxyz/reth/pull/19590) - 2025-11-07
+* [Pull Request] [chore(engine): add basic tx result information to execution spans](https://github.com/paradigmxyz/reth/pull/19698) - 2025-11-12
+* [Pull Request] [fix(cli): always commit the unwind for stage run headers](https://github.com/paradigmxyz/reth/pull/19768) - 2025-11-14
 * [Issue] [Add method to check invariants on RocksDB tables](https://github.com/paradigmxyz/reth/issues/20153) - 2025-12-05
 * [Issue] [Add RocksDB Provider to DatabaseProvider](https://github.com/paradigmxyz/reth/issues/20152) - 2025-12-05
 * [Issue] [Add StorageSettings for StoragesHistory in RocksDB](https://github.com/paradigmxyz/reth/issues/20151) - 2025-12-05

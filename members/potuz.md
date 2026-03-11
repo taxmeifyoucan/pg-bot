@@ -12,30 +12,36 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 
 [offchainlabs/hashtree](https://github.com/offchainlabs/hashtree)
-* [Pull Request] []() - 2026-01-07
+* [Pull Request] [refactor: unroll macros in x86-64 assembly for Clang compatibility](https://github.com/OffchainLabs/hashtree/pull/57) - 2026-01-07
 * [Pull Request] []() - 2026-01-08
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2026-01-09
-* [Pull Request] []() - 2026-01-11
-* [Pull Request] []() - 2026-01-12
+* [Pull Request] [Add feature flag to verify signatures before proposing](https://github.com/OffchainLabs/prysm/pull/15920) - 2026-01-09
+* [Pull Request] [Update Spectests to v1.7.0.alpha-1](https://github.com/OffchainLabs/prysm/pull/16246) - 2026-01-11
+* [Pull Request] [Use dependent root when validating data column](https://github.com/OffchainLabs/prysm/pull/16250) - 2026-01-12
 
 * [Issue] [should be able to get non-canonical blocks](https://github.com/OffchainLabs/prysm/issues/16342) - 2026-02-09
-* [Pull Request] []() - 2026-02-19
-* [Pull Request] []() - 2026-02-23
-* [Pull Request] []() - 2026-02-27
-* [Pull Request] []() - 2026-03-01
-* [Pull Request] []() - 2026-03-04
-* [Pull Request] []() - 2026-03-05
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [Only call FCU pre-Gloas](https://github.com/OffchainLabs/prysm/pull/16373) - 2026-02-19
+* [Pull Request] [Gloas/forkchoice ptc](https://github.com/OffchainLabs/prysm/pull/16392) - 2026-02-23
+* [Pull Request] [Make Dora Happy](https://github.com/OffchainLabs/prysm/pull/16441) - 2026-02-27
+* [Pull Request] [Fixed topic name for Gloas](https://github.com/OffchainLabs/prysm/pull/16443) - 2026-03-01
+* [Pull Request] [Do not reject on blocks unless they are provably bad](https://github.com/OffchainLabs/prysm/pull/16471) - 2026-03-04
+* [Pull Request] [Fix replay blocks](https://github.com/OffchainLabs/prysm/pull/16482) - 2026-03-05
+* [Pull Request] [Dont fail seting fc](https://github.com/OffchainLabs/prysm/pull/16478) - 2026-03-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2026-01-26
+* [Pull Request] [Remove KZG commitments from payload envelope](https://github.com/ethereum/consensus-specs/pull/4864) - 2026-01-26
 * [Issue] [gloas fork should add builder deposits for previous epochs](https://github.com/ethereum/consensus-specs/issues/4867) - 2026-01-27
 * [Issue] [process_builder_pending_payments can go anywhere](https://github.com/ethereum/consensus-specs/issues/4866) - 2026-01-27
 * [Issue] [should proposer boost be counted in `is_parent_strong`?](https://github.com/ethereum/consensus-specs/issues/4899) - 2026-02-03
-* [Pull Request] []() - 2026-02-03
+* [Pull Request] [Remove pending status from tiebreaker](https://github.com/ethereum/consensus-specs/pull/4898) - 2026-02-03
 * [Issue] [Allow attesters/proposers to override value of `is_payload_data_available`](https://github.com/ethereum/consensus-specs/issues/4907) - 2026-02-09
-* [Pull Request] []() - 2026-02-13
+* [Pull Request] [Only allow attestations for known payload statuses](https://github.com/ethereum/consensus-specs/pull/4918) - 2026-02-13
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [Use execution block hash as state access key post-Gloas](https://github.com/OffchainLabs/prysm/pull/16459) - 2026-03-10
+* [Pull Request] [Handle missing Payloads](https://github.com/OffchainLabs/prysm/pull/16460) - 2026-03-10
+* [Commit] [Use execution block hash as state access key post-Gloas (#16459)](https://github.com/OffchainLabs/prysm/commit/932e5eb7d8b0ed74aec37df6fc9a55a82c75f0ec) - 2026-03-10
+* [Commit] [Handle missing Payloads (#16460)](https://github.com/OffchainLabs/prysm/commit/e35f6c351a52c7c12a163bf006c5a5c0efe221fd) - 2026-03-10
 ## Q4 2025
 
 
@@ -45,22 +51,22 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Add tests](https://github.com/OffchainLabs/prysm/commit/7b99d305cf9e304131693613547f2f8eec832859) - 2025-10-13
 
 [offchainlabs/prysm](https://github.com/offchainlabs/prysm)
-* [Pull Request] []() - 2025-11-06
+* [Pull Request] [Dependent root instead of target](https://github.com/OffchainLabs/prysm/pull/15996) - 2025-11-06
 
-* [Pull Request] []() - 2025-11-26
-* [Pull Request] []() - 2025-12-05
-* [Pull Request] []() - 2025-12-08
-* [Pull Request] []() - 2025-12-09
+* [Pull Request] [Fix linter](https://github.com/OffchainLabs/prysm/pull/16058) - 2025-11-26
+* [Pull Request] [Track the dependent root of the latest finalized checkpoint](https://github.com/OffchainLabs/prysm/pull/16103) - 2025-12-05
+* [Pull Request] [Use head to validate atts for previous epoch](https://github.com/OffchainLabs/prysm/pull/16109) - 2025-12-08
+* [Pull Request] [Fix TOCTOU race validating attestations](https://github.com/OffchainLabs/prysm/pull/16105) - 2025-12-09
 * [Issue] [SIGSEGV in init sync](https://github.com/OffchainLabs/prysm/issues/16125) - 2025-12-10
-* [Pull Request] []() - 2025-12-13
-* [Pull Request] []() - 2025-12-15
-* [Pull Request] []() - 2025-12-19
-* [Pull Request] []() - 2025-12-26
-* [Pull Request] []() - 2025-12-30
-* [Pull Request] []() - 2025-12-31
+* [Pull Request] [Do not error when indices have been computed](https://github.com/OffchainLabs/prysm/pull/16142) - 2025-12-13
+* [Pull Request] [Remove proposer cache](https://github.com/OffchainLabs/prysm/pull/16147) - 2025-12-15
+* [Pull Request] [Do not process slots and copy state for payload attributes post Fulu](https://github.com/OffchainLabs/prysm/pull/16168) - 2025-12-19
+* [Pull Request] [Do not send FCU on block batches](https://github.com/OffchainLabs/prysm/pull/16199) - 2025-12-26
+* [Pull Request] [Call FCU in the background](https://github.com/OffchainLabs/prysm/pull/16149) - 2025-12-30
+* [Pull Request] [Hdiff start database](https://github.com/OffchainLabs/prysm/pull/16203) - 2025-12-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-11-07
-* [Pull Request] []() - 2025-11-08
+* [Pull Request] [Fix randao mix processing in Gloas](https://github.com/ethereum/consensus-specs/pull/4728) - 2025-11-07
+* [Pull Request] [Add off-protocol value to the bid](https://github.com/ethereum/consensus-specs/pull/4733) - 2025-11-08
 ## Q3 2025
 
 

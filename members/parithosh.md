@@ -12,15 +12,16 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 
 [nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
-* [Pull Request] []() - 2026-01-10
+* [Pull Request] [The default should have been zkevmgenesis.json instead of the stale zkevm_genesis.json](https://github.com/NethermindEth/gas-benchmarks/pull/93) - 2026-01-10
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #66, January 19, 2026](https://github.com/ethereum/pm/issues/1878) - 2026-01-15
 * [Issue] [All Core Devs - Testing (ACDT) #68, February 2, 2026](https://github.com/ethereum/pm/issues/1901) - 2026-01-27
 
 * [Issue] [All Core Devs - Testing (ACDT) #72, March 2, 2026](https://github.com/ethereum/pm/issues/1948) - 2026-02-24
+* [Issue] [All Core Devs - Testing (ACDT) #74, March 16, 2026](https://github.com/ethereum/pm/issues/1966) - 2026-03-10
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
-* [Pull Request] []() - 2026-01-28
+* [Pull Request] [Update erigon.yaml](https://github.com/ethpandaops/template-devnets/pull/148) - 2026-01-28
 ## Q4 2025
 
 

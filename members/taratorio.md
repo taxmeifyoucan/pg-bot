@@ -12,23 +12,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 
 [nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
-* [Pull Request] []() - 2026-01-14
+* [Pull Request] [add --rerunSyncing for preparation files](https://github.com/NethermindEth/gas-benchmarks/pull/99) - 2026-01-14
 * [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-01-19
+* [Pull Request] [add --rerunSyncing for preparation files (#99)](https://github.com/NethermindEth/gas-benchmarks/pull/102) - 2026-01-19
 
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-10
+* [Pull Request] [fix erigon flags for new repricing tests](https://github.com/NethermindEth/gas-benchmarks/pull/107) - 2026-02-05
+* [Pull Request] [fix erigon flags for new repricing tests](https://github.com/NethermindEth/gas-benchmarks/pull/109) - 2026-02-10
 [erigontech/erigon](https://github.com/erigontech/erigon)
-* [Pull Request] []() - 2026-01-20
+* [Pull Request] [execution/stagedsync: update StageLoop func to always pass external tx and sd](https://github.com/erigontech/erigon/pull/18727) - 2026-01-20
 * [Issue] [shutter handle non-matching ordering of decryption keys based on txnindex](https://github.com/erigontech/erigon/issues/18780) - 2026-01-23
 * [Issue] [Flaky TestSendRawTransactionSync](https://github.com/erigontech/erigon/issues/18884) - 2026-01-30
 * [Issue] [receiptHash mismatch in gas-benchmarks for receipts with large amounts of logs](https://github.com/erigontech/erigon/issues/18920) - 2026-02-02
 * [Issue] [add unified slow-block log](https://github.com/erigontech/erigon/issues/19012) - 2026-02-06
 * [Issue] [sporadic could not start execution service due to error snapshot already loaded with different infohash](https://github.com/erigontech/erigon/issues/19128) - 2026-02-12
-* [Pull Request] []() - 2026-02-14
+* [Pull Request] [workflows: add --sim.parallelism to hive runs](https://github.com/erigontech/erigon/pull/19172) - 2026-02-14
 * [Issue] [flaky TestTable_findnodeByID](https://github.com/erigontech/erigon/issues/19158) - 2026-02-13
 * [Issue] [experimental](https://github.com/erigontech/erigon/issues/19451) - 2026-02-24
-* [Pull Request] []() - 2026-03-04
+* [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-8037](https://github.com/erigontech/erigon/pull/19596) - 2026-03-04
 ## Q4 2025
 
 
@@ -47,12 +47,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Fix flaky TestGetProof](https://github.com/erigontech/erigon/issues/17740) - 2025-11-01
 * [Issue] [move referencing/dereferencing logic of commitment outside of DB into app layer](https://github.com/erigontech/erigon/issues/17773) - 2025-11-04
 * [Issue] [Fix flaky windows TestSetupGenesis due to mdmx paging file is too small for this operation to complete](https://github.com/erigontech/erigon/issues/17806) - 2025-11-07
-* [Pull Request] []() - 2025-11-26
+* [Pull Request] [db/integrity: add CheckCommitmentHistVal check](https://github.com/erigontech/erigon/pull/18065) - 2025-11-26
 * [Issue] [shutter lost connections to keypers](https://github.com/erigontech/erigon/issues/18217) - 2025-12-09
 * [Issue] [fix hive devp2p eth suite failures](https://github.com/erigontech/erigon/issues/18285) - 2025-12-12
 
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2025-12-15
+* [Pull Request] [simulators/ethereum/engine: fix cancun bpo schedule error](https://github.com/ethereum/hive/pull/1377) - 2025-12-15
 * [Pull Request] []() - 2025-12-23
 ## Q3 2025
 

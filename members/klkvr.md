@@ -12,14 +12,15 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
-* [Pull Request] []() - 2026-01-20
-* [Pull Request] []() - 2026-01-22
-* [Pull Request] []() - 2026-01-23
-* [Pull Request] []() - 2026-02-06
-* [Pull Request] []() - 2026-02-23
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-02-26
-* [Pull Request] []() - 2026-02-27
+* [Pull Request] [fix: clear `overlay_cache` in `with_extended_hashed_state_overlay`](https://github.com/paradigmxyz/reth/pull/21233) - 2026-01-20
+* [Pull Request] [feat: allow setting custom debug block provider](https://github.com/paradigmxyz/reth/pull/21345) - 2026-01-22
+* [Pull Request] [feat(txpool): add Block associated type to TransactionValidator trait](https://github.com/paradigmxyz/reth/pull/21359) - 2026-01-23
+* [Pull Request] [fix: add more safety checks to reveals of upper subtrie nodes](https://github.com/paradigmxyz/reth/pull/21905) - 2026-02-06
+* [Pull Request] [perf: don't return hashes of blinded nodes](https://github.com/paradigmxyz/reth/pull/22510) - 2026-02-23
+* [Pull Request] [perf: compute storage roots in a separate task](https://github.com/paradigmxyz/reth/pull/22549) - 2026-02-24
+* [Pull Request] [perf: share highest executed tx with prewarming](https://github.com/paradigmxyz/reth/pull/22621) - 2026-02-26
+* [Pull Request] [perf: prepare txenvs in parallel](https://github.com/paradigmxyz/reth/pull/22656) - 2026-02-27
+* [Pull Request] [perf: decrease sparse trie task updates batch size](https://github.com/paradigmxyz/reth/pull/22917) - 2026-03-10
 ## Q4 2025
 
 
@@ -35,26 +36,26 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [refactor: remove needless collect() calls in trie tests (#18937)](https://github.com/paradigmxyz/reth/commit/5c18df9889941837e61929be4b51abb75f07f152) - 2025-10-13
 * [Pull Request] [refactor: unify `Pipeline` creation codepaths](https://github.com/paradigmxyz/reth/pull/18955) - 2025-10-13
 * [Commit] [refactor: unify Pipeline creation codepaths](https://github.com/paradigmxyz/reth/commit/bdadef6812ba52fe7e412e298386557f0caa1a0b) - 2025-10-13
-* [Pull Request] []() - 2025-10-15
+* [Pull Request] [feat: stricter bound](https://github.com/paradigmxyz/reth/pull/19049) - 2025-10-15
 * [Issue] [Replace `CacheDB` usage in RPC with `State<DB>`](https://github.com/paradigmxyz/reth/issues/19148) - 2025-10-20
-* [Pull Request] []() - 2025-10-22
+* [Pull Request] [fix: return hashed peer key as id](https://github.com/paradigmxyz/reth/pull/19245) - 2025-10-22
 * [Issue] [Make `extra_data_size_limit` configurable on `EthBeaconConsensus`](https://github.com/paradigmxyz/reth/issues/19428) - 2025-10-31
-* [Pull Request] []() - 2025-11-04
+* [Pull Request] [fix: use cost when checking fee cap](https://github.com/paradigmxyz/reth/pull/19493) - 2025-11-04
 
 * [Issue] [Add `EthChainSpec::name` method](https://github.com/paradigmxyz/reth/issues/19635) - 2025-11-10
-* [Pull Request] []() - 2025-11-18
-* [Pull Request] []() - 2025-11-22
-* [Pull Request] []() - 2025-11-24
+* [Pull Request] [feat: `EthApiError::from_revert`](https://github.com/paradigmxyz/reth/pull/19836) - 2025-11-18
+* [Pull Request] [refactor(e2e): relax bounds](https://github.com/paradigmxyz/reth/pull/19913) - 2025-11-22
+* [Pull Request] [fix: correctly fetch pending hashes](https://github.com/paradigmxyz/reth/pull/19938) - 2025-11-24
 * [Issue] [Upstream `DebugInspector`](https://github.com/paradigmxyz/reth/issues/19932) - 2025-11-24
-* [Pull Request] []() - 2025-12-02
-* [Pull Request] []() - 2025-12-05
-* [Pull Request] []() - 2025-12-08
-* [Pull Request] []() - 2025-12-09
-* [Pull Request] []() - 2025-12-19
+* [Pull Request] [fix: change `Receipt` rlp](https://github.com/paradigmxyz/reth/pull/20074) - 2025-12-02
+* [Pull Request] [fix: add missing 2718 impl for receipt](https://github.com/paradigmxyz/reth/pull/20137) - 2025-12-05
+* [Pull Request] [feat: add helper method to eth validator](https://github.com/paradigmxyz/reth/pull/20206) - 2025-12-08
+* [Pull Request] [perf: recovery backpressure](https://github.com/paradigmxyz/reth/pull/20229) - 2025-12-09
+* [Pull Request] [perf: use LRU eviction policy for precompile cache](https://github.com/paradigmxyz/reth/pull/20527) - 2025-12-19
 * [Pull Request] []() - 2025-12-20
 [bluealloy/revm](https://github.com/bluealloy/revm)
-* [Pull Request] []() - 2025-11-10
-* [Pull Request] []() - 2025-11-14
+* [Pull Request] [feat: generic Context::new](https://github.com/bluealloy/revm/pull/3156) - 2025-11-10
+* [Pull Request] [fix: correctly handle selfdestruct cold load](https://github.com/bluealloy/revm/pull/3174) - 2025-11-14
 ## Q3 2025
 
 

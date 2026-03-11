@@ -12,18 +12,21 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
-* [Pull Request] []() - 2026-01-07
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-02-01
-* [Pull Request] []() - 2026-02-03
-* [Pull Request] []() - 2026-02-04
-* [Pull Request] []() - 2026-02-08
-* [Pull Request] []() - 2026-02-09
-* [Pull Request] []() - 2026-02-19
-* [Pull Request] []() - 2026-02-23
-* [Pull Request] []() - 2026-02-27
-* [Pull Request] []() - 2026-03-04
+* [Pull Request] [Remove unneded RPC types in zk-vm](https://github.com/NethermindEth/nethermind/pull/10141) - 2026-01-07
+* [Pull Request] [Optimization/prewarmer per sender](https://github.com/NethermindEth/nethermind/pull/10330) - 2026-01-27
+* [Pull Request] [zkvm wrk refactor](https://github.com/NethermindEth/nethermind/pull/10375) - 2026-02-01
+* [Pull Request] [Harden rpc transaction validations](https://github.com/NethermindEth/nethermind/pull/10395) - 2026-02-03
+* [Pull Request] [Fixes 4 flaky test + refactors dbs](https://github.com/NethermindEth/nethermind/pull/10407) - 2026-02-04
+* [Pull Request] [more Agents changes](https://github.com/NethermindEth/nethermind/pull/10461) - 2026-02-08
+* [Pull Request] [Add complex LogIndex integration tests](https://github.com/NethermindEth/nethermind/pull/10425) - 2026-02-09
+* [Pull Request] [perf: compute tokensInCallData once per transaction in intrinsic gas calculation](https://github.com/NethermindEth/nethermind/pull/10586) - 2026-02-19
+* [Pull Request] [feat: zkVM compatibility](https://github.com/NethermindEth/nethermind/pull/10561) - 2026-02-23
+* [Pull Request] [Remove spec decorators](https://github.com/NethermindEth/nethermind/pull/10639) - 2026-02-27
+* [Pull Request] [Fix IPC JSON-RPC framing for large payloads without delimiter](https://github.com/NethermindEth/nethermind/pull/10718) - 2026-03-04
 * [Pull Request] []() - 2026-03-07
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [Flat/snap sync refactor](https://github.com/NethermindEth/nethermind/pull/10772) - 2026-03-10
 ## Q4 2025
 
 
@@ -51,10 +54,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [better description](https://github.com/NethermindEth/nethermind/commit/d99c16315064a1124ffba47fa9bf201fbcdf0c4b) - 2025-10-13
 * [Pull Request] [Restrict IPC socket to owner-only mode if set](https://github.com/NethermindEth/nethermind/pull/9449) - 2025-10-13
 
-* [Pull Request] []() - 2025-12-03
-* [Pull Request] []() - 2025-12-19
+* [Pull Request] [Fix Jovian fork id](https://github.com/NethermindEth/nethermind/pull/9877) - 2025-12-03
+* [Pull Request] [Remove parsing Uint256 from statics](https://github.com/NethermindEth/nethermind/pull/9980) - 2025-12-19
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-10-31
+* [Pull Request] [Add EIP: Dynamic State Pricing for Steady Growth](https://github.com/ethereum/EIPs/pull/10667) - 2025-10-31
 ## Q3 2025
 
 

@@ -16,21 +16,21 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Add partial message support for PeerDAS data column propagation](https://github.com/Consensys/teku/issues/10284) - 2026-01-21
 * [Issue] [Add support for partial messages](https://github.com/Consensys/teku/issues/10283) - 2026-01-20
 
-* [Pull Request] []() - 2026-02-12
-* [Pull Request] []() - 2026-03-05
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [Updated discovery to 26.1.0](https://github.com/Consensys/teku/pull/10366) - 2026-02-12
+* [Pull Request] [Update .gitignore to include claude personal config](https://github.com/Consensys/teku/pull/10449) - 2026-03-05
+* [Pull Request] [Optimizing blobs deserialization on Engine API](https://github.com/Consensys/teku/pull/10457) - 2026-03-06
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
-* [Pull Request] []() - 2026-01-21
+* [Pull Request] [Updated rpc protobuf definition for partial messages](https://github.com/libp2p/jvm-libp2p/pull/434) - 2026-01-21
 * [Pull Request] []() - 2026-01-27
 * [Issue] [Integrate jvm-libp2p into gossipsub-interop test](https://github.com/libp2p/jvm-libp2p/issues/439) - 2026-02-12
-* [Pull Request] []() - 2026-02-11
+* [Pull Request] [Add support for Extension Control Messages (gossipsub v1.3) 1/2](https://github.com/libp2p/jvm-libp2p/pull/438) - 2026-02-11
 * [Issue] [Investigate how extension control messages can affect peer scoring](https://github.com/libp2p/jvm-libp2p/issues/437) - 2026-02-11
 * [Issue] [Add support for Extension Control Messages (gossipsub v1.3)](https://github.com/libp2p/jvm-libp2p/issues/436) - 2026-02-11
 * [Issue] [Add support for partial messages extension](https://github.com/libp2p/jvm-libp2p/issues/435) - 2026-02-11
-* [Pull Request] []() - 2026-02-16
+* [Pull Request] [Sending control extension message to remote peers](https://github.com/libp2p/jvm-libp2p/pull/442) - 2026-02-16
 * [Issue] [Feature flag for supported extensions](https://github.com/libp2p/jvm-libp2p/issues/441) - 2026-02-16
 * [Issue] [Investigate impact of splitting control extension messages from extensions messages](https://github.com/libp2p/jvm-libp2p/issues/440) - 2026-02-16
-* [Pull Request] []() - 2026-02-17
+* [Pull Request] [Gossip Extensions feature flag](https://github.com/libp2p/jvm-libp2p/pull/443) - 2026-02-17
 * [Issue] [Refine DoS protection and other security/performance concerns](https://github.com/libp2p/jvm-libp2p/issues/449) - 2026-02-20
 * [Issue] [Eager push of partial messages](https://github.com/libp2p/jvm-libp2p/issues/448) - 2026-02-20
 * [Issue] [Review peer scoring impact of partial messages](https://github.com/libp2p/jvm-libp2p/issues/447) - 2026-02-20
@@ -40,7 +40,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] []() - 2026-02-19
 
 [consensys/discovery](https://github.com/consensys/discovery)
-* [Pull Request] []() - 2026-02-25
+* [Pull Request] [Update CI badge in README.md](https://github.com/Consensys/discovery/pull/201) - 2026-02-25
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Change getPayload timeout to 2s](https://github.com/Consensys/teku/pull/10473) - 2026-03-11
+* [Pull Request] [Engine api optimizations](https://github.com/Consensys/teku/pull/10469) - 2026-03-10
+* [Commit] [Engine api optimizations (#10469)](https://github.com/Consensys/teku/commit/c1d8031e23e5f2570be17a05b8d0407401038cf4) - 2026-03-10
 ## Q4 2025
 
 

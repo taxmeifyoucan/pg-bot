@@ -12,39 +12,39 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
-* [Pull Request] []() - 2026-01-29
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-02-01
+* [Pull Request] [ForkedHashedBeaconState helpers](https://github.com/status-im/nimbus-eth2/pull/7903) - 2026-01-29
+* [Pull Request] [ForkedHashedBeaconState helpers](https://github.com/status-im/nimbus-eth2/pull/7903) - 2026-01-30
+* [Pull Request] [use `func`s for `getForkedBlockField`](https://github.com/status-im/nimbus-eth2/pull/7907) - 2026-02-01
 
-* [Pull Request] []() - 2026-02-19
-* [Pull Request] []() - 2026-02-22
+* [Pull Request] [clean up attestation index iteration](https://github.com/status-im/nimbus-eth2/pull/7999) - 2026-02-19
+* [Pull Request] [el_manager: update multi-el support](https://github.com/status-im/nimbus-eth2/pull/8008) - 2026-02-22
 * [Issue] [Light client fcU should not spam the EL](https://github.com/status-im/nimbus-eth2/issues/8041) - 2026-02-26
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
-* [Pull Request] []() - 2026-02-11
-* [Pull Request] []() - 2026-02-18
-* [Pull Request] []() - 2026-02-27
-* [Pull Request] []() - 2026-03-03
-* [Pull Request] []() - 2026-03-05
+* [Pull Request] [web3: bump for native bidir support](https://github.com/status-im/nimbus-eth1/pull/3974) - 2026-02-11
+* [Pull Request] [eth2: bump](https://github.com/status-im/nimbus-eth1/pull/3991) - 2026-02-18
+* [Pull Request] [use eth/trie/nibbles consistently](https://github.com/status-im/nimbus-eth1/pull/4026) - 2026-02-27
+* [Pull Request] [Improve call performance](https://github.com/status-im/nimbus-eth1/pull/4032) - 2026-03-03
+* [Pull Request] [Improve call performance](https://github.com/status-im/nimbus-eth1/pull/4032) - 2026-03-05
 ## Q4 2025
 
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
-* [Pull Request] []() - 2025-10-21
+* [Pull Request] [`NimbusConf` -> `ExecutionClientConf`](https://github.com/status-im/nimbus-eth1/pull/3780) - 2025-10-21
 * [Issue] [Remove nested `waitFor` call](https://github.com/status-im/nimbus-eth1/issues/3779) - 2025-10-21
 * [Issue] [Remove `blk` field from BlockRef](https://github.com/status-im/nimbus-eth1/issues/3778) - 2025-10-21
 * [Issue] [Update release, kurtosis etc to use `nimbus`](https://github.com/status-im/nimbus-eth1/issues/3793) - 2025-10-24
 
-* [Pull Request] []() - 2025-11-12
-* [Pull Request] []() - 2025-11-25
-* [Pull Request] []() - 2025-12-02
-* [Pull Request] []() - 2025-12-30
+* [Pull Request] [bump: websock](https://github.com/status-im/nimbus-eth1/pull/3829) - 2025-11-12
+* [Pull Request] [json_rpc: bump](https://github.com/status-im/nimbus-eth1/pull/3845) - 2025-11-25
+* [Pull Request] [json_rpc: bidirectional connections support](https://github.com/status-im/nimbus-eth1/pull/3856) - 2025-12-02
+* [Pull Request] [eth2: bump to v25.12.0+](https://github.com/status-im/nimbus-eth1/pull/3886) - 2025-12-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
-* [Pull Request] []() - 2025-10-29
+* [Pull Request] [Unify block proposer verification](https://github.com/status-im/nimbus-eth2/pull/7675) - 2025-10-29
 
-* [Pull Request] []() - 2025-11-05
-* [Pull Request] []() - 2025-12-10
-* [Pull Request] []() - 2025-12-12
-* [Pull Request] []() - 2025-12-15
+* [Pull Request] [Block command-line supplied invalid blocks earlier](https://github.com/status-im/nimbus-eth2/pull/7714) - 2025-11-05
+* [Pull Request] [libbacktrace: bump](https://github.com/status-im/nimbus-eth2/pull/7791) - 2025-12-10
+* [Pull Request] [libbacktrace: bump](https://github.com/status-im/nimbus-eth2/pull/7791) - 2025-12-12
+* [Pull Request] [Only check isomorphism of types in debug compiles](https://github.com/status-im/nimbus-eth2/pull/7801) - 2025-12-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Testnet genesis state descriptions out of date](https://github.com/ethereum/consensus-specs/issues/4720) - 2025-11-02
 ## Q3 2025

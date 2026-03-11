@@ -12,24 +12,24 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 
 
 [consensys/teku](https://github.com/consensys/teku)
-* [Pull Request] []() - 2026-01-19
+* [Pull Request] [removed original recovering sidecar retriever](https://github.com/Consensys/teku/pull/10280) - 2026-01-19
 * [Issue] ['please fix or report' in SidecarRetriever](https://github.com/Consensys/teku/issues/10288) - 2026-01-21
 * [Issue] [[EIP-7732] pubsub changes](https://github.com/Consensys/teku/issues/10301) - 2026-01-27
-* [Pull Request] []() - 2026-02-01
+* [Pull Request] [Refactored bls_to_execution validation](https://github.com/Consensys/teku/pull/10310) - 2026-02-01
 * [Issue] [cleanup the validation around bls_to_execution](https://github.com/Consensys/teku/issues/10309) - 2026-02-01
 * [Issue] [Boundary condition test for ForkChoiceUtilGloas](https://github.com/Consensys/teku/issues/10341) - 2026-02-06
 * [Issue] [fix voluntary exit test for gloas](https://github.com/Consensys/teku/issues/10340) - 2026-02-06
-* [Pull Request] []() - 2026-02-07
+* [Pull Request] [Implicitly default network-epochs](https://github.com/Consensys/teku/pull/10342) - 2026-02-07
 * [Issue] [[Beacon-api] implement proposers v2 endpoint](https://github.com/Consensys/teku/issues/10346) - 2026-02-09
 * [Issue] [proposer v1 endpoint post fulu](https://github.com/Consensys/teku/issues/10345) - 2026-02-09
 * [Issue] [grafana 'attestation performance' graph is overloaded](https://github.com/Consensys/teku/issues/10344) - 2026-02-08
-* [Pull Request] []() - 2026-02-10
+* [Pull Request] [reduced backfill default batch size to 3](https://github.com/Consensys/teku/pull/10356) - 2026-02-10
 * [Issue] [update besu library](https://github.com/Consensys/teku/issues/10364) - 2026-02-11
 * [Issue] [update discovery for teku](https://github.com/Consensys/teku/issues/10362) - 2026-02-11
-* [Pull Request] []() - 2026-02-12
-* [Pull Request] []() - 2026-02-15
-* [Pull Request] []() - 2026-02-16
-* [Pull Request] []() - 2026-02-20
+* [Pull Request] [updated some gloas entries for ethspecify](https://github.com/Consensys/teku/pull/10373) - 2026-02-12
+* [Pull Request] [fixed getProposerDuties compatibility with Electra](https://github.com/Consensys/teku/pull/10380) - 2026-02-15
+* [Pull Request] [fixed block dependent root calculation for fulu](https://github.com/Consensys/teku/pull/10384) - 2026-02-16
+* [Pull Request] [fixed parentPayloadStatus to be asynchronous](https://github.com/Consensys/teku/pull/10392) - 2026-02-20
 * [Issue] [[beacon-api] `POST /eth/v1/beacon/execution_payload_envelope` added   ](https://github.com/Consensys/teku/issues/10416) - 2026-02-25
 * [Issue] [[beacon-api] `GET /eth/v1/validator/execution_payload_envelope/{slot}` added](https://github.com/Consensys/teku/issues/10415) - 2026-02-25
 * [Issue] [[beacon-api] `GET /eth/v4/validator/blocks/{slot}` added ](https://github.com/Consensys/teku/issues/10414) - 2026-02-25
@@ -44,12 +44,23 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [[beacon-api] `POST /eth/v1/validator/duties/ptc/{epoch}`](https://github.com/Consensys/teku/issues/10405) - 2026-02-25
 * [Issue] [[beacon-api] `GET /eth/v1/validator/payload_attestation_data/{slot}`](https://github.com/Consensys/teku/issues/10404) - 2026-02-25
 * [Issue] [[beacon-api] `GET /eth/v1/validator/execution_payload_bid/{slot}/{builder_index}`](https://github.com/Consensys/teku/issues/10403) - 2026-02-25
-* [Pull Request] []() - 2026-02-26
+* [Pull Request] [adjusted duties slot for proposal duties](https://github.com/Consensys/teku/pull/10424) - 2026-02-26
 * [Issue] [[beacon-api] GetAttestationData - gloas optional committee index from api ](https://github.com/Consensys/teku/issues/10433) - 2026-02-27
-* [Pull Request] []() - 2026-02-27
-* [Pull Request] []() - 2026-03-02
-* [Pull Request] []() - 2026-03-08
-* [Pull Request] []() - 2026-03-10
+* [Pull Request] [Added gloas validations to GetAttestationData](https://github.com/Consensys/teku/pull/10432) - 2026-02-27
+* [Pull Request] [Added GetNewBlockV4 interface](https://github.com/Consensys/teku/pull/10437) - 2026-03-02
+* [Pull Request] [added benchmark for large state serialization](https://github.com/Consensys/teku/pull/10464) - 2026-03-08
+* [Pull Request] [Added deprecation warning for leveldb databases](https://github.com/Consensys/teku/pull/10468) - 2026-03-10
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [clarified migrate-database help](https://github.com/Consensys/teku/pull/10474) - 2026-03-11
+* [Pull Request] [added benchmark for large state serialization](https://github.com/Consensys/teku/pull/10464) - 2026-03-10
+* [Pull Request] [Updated post blocks description](https://github.com/Consensys/teku/pull/10419) - 2026-03-10
+* [Commit] [added benchmark for large state serialization (#10464)](https://github.com/Consensys/teku/commit/545c3f7b265bcd6e7b8420e0d099bff1106d7801) - 2026-03-10
+* [Commit] [Added deprecation warning for leveldb databases (#10468)](https://github.com/Consensys/teku/commit/1fd181c822a4d97c086444ffa0c60e729b542f98) - 2026-03-10
+* [Commit] [Updated post blocks description (#10419)](https://github.com/Consensys/teku/commit/f5040263e65942c8d17e6db360f7adc449f4ef3b) - 2026-03-10
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025
 
 
@@ -62,20 +73,20 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [wip rebuild columns](https://github.com/Consensys/teku/pull/9994) - 2025-10-10
 * [Issue] [fix fulu genesis state generation or test case](https://github.com/Consensys/teku/issues/10003) - 2025-10-13
 * [Pull Request] [Added testcase for getProposerIndices at fulu](https://github.com/Consensys/teku/pull/10000) - 2025-10-13
-* [Pull Request] []() - 2025-10-27
+* [Pull Request] [Revert "Rework custody/sampling count delivery (#9998)"](https://github.com/Consensys/teku/pull/10057) - 2025-10-27
 
-* [Pull Request] []() - 2025-10-29
+* [Pull Request] [implemented rest api proposer_lookahead for fulu](https://github.com/Consensys/teku/pull/10077) - 2025-10-29
 * [Issue] [implement proposer_lookahead endpoint](https://github.com/Consensys/teku/issues/10076) - 2025-10-29
 * [Issue] [CKZG4844PropertyTest takes ages](https://github.com/Consensys/teku/issues/10125) - 2025-11-12
-* [Pull Request] []() - 2025-11-24
-* [Pull Request] []() - 2025-11-28
-* [Pull Request] []() - 2025-12-01
+* [Pull Request] [Updated BeaconStateAccessorsFulu for proposer lookahead](https://github.com/Consensys/teku/pull/10162) - 2025-11-24
+* [Pull Request] [Revert "default the reworked recovery sidecar option to enabled"](https://github.com/Consensys/teku/pull/10187) - 2025-11-28
+* [Pull Request] [push cancellation message in das sampler to debug](https://github.com/Consensys/teku/pull/10194) - 2025-12-01
 * [Issue] [investigate falling back to v1 getPayload if the v2 fails](https://github.com/Consensys/teku/issues/10216) - 2025-12-09
 * [Issue] [concurrentModificationException in batch sync - `onNewPreImportBlocks`](https://github.com/Consensys/teku/issues/10223) - 2025-12-10
-* [Pull Request] []() - 2025-12-13
+* [Pull Request] [Revert "Add Single block provider for Fulu  (#10169)"](https://github.com/Consensys/teku/pull/10235) - 2025-12-13
 * [Issue] [[HOUSEKEEPING] cleanup CLI and old structures from reworked recovery task post 26.1.0](https://github.com/Consensys/teku/issues/10237) - 2025-12-14
-* [Pull Request] []() - 2025-12-14
-* [Pull Request] []() - 2025-12-15
+* [Pull Request] [added domain_bls_to_execution_change to spec output](https://github.com/Consensys/teku/pull/10236) - 2025-12-14
+* [Pull Request] [Defaulted the database version to v6](https://github.com/Consensys/teku/pull/10241) - 2025-12-15
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Issue] [segv when setting kzg-precompute to 15](https://github.com/ethereum/c-kzg-4844/issues/611) - 2025-10-28
 ## Q3 2025

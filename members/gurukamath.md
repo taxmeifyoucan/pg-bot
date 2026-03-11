@@ -13,12 +13,12 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Check default values and types in genesis files](https://github.com/ethereum/execution-specs/issues/2018) - 2026-01-13
-* [Pull Request] []() - 2026-01-16
+* [Pull Request] [tests(eip-7928): generalize eip-7934 tests](https://github.com/ethereum/execution-specs/pull/2022) - 2026-01-16
 * [Issue] [bug(specs): Re-evaluvate the types of the Block dataclass](https://github.com/ethereum/execution-specs/issues/2054) - 2026-01-21
-* [Pull Request] []() - 2026-01-21
-* [Pull Request] []() - 2026-01-22
-* [Pull Request] []() - 2026-01-24
-* [Pull Request] []() - 2026-02-06
+* [Pull Request] [fix(tests): fix legacy tests to run with eip-7778](https://github.com/ethereum/execution-specs/pull/2048) - 2026-01-21
+* [Pull Request] [feat(spec-tests): add eip-7778 tests for calldata checks](https://github.com/ethereum/execution-specs/pull/2060) - 2026-01-22
+* [Pull Request] [feat(spec-specs): (EIP-7778) revert to post refund gas in receipts](https://github.com/ethereum/execution-specs/pull/2073) - 2026-01-24
+* [Pull Request] [feat(tests): BAL tests for 7702 delegation reset, create and access](https://github.com/ethereum/execution-specs/pull/2097) - 2026-02-06
 
 * [Issue] [Refactor State related code](https://github.com/ethereum/execution-specs/issues/2228) - 2026-02-18
 * [Issue] [Add optimized runs in CI](https://github.com/ethereum/execution-specs/issues/2256) - 2026-02-20
@@ -26,7 +26,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Create test for same block system contract deployment](https://github.com/ethereum/execution-specs/issues/2270) - 2026-02-21
 * [Issue] [Move `set_delegation` before `process_message_call`](https://github.com/ethereum/execution-specs/issues/2338) - 2026-02-26
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-02-18
+* [Pull Request] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332) - 2026-02-18
 ## Q4 2025
 
 
@@ -34,11 +34,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [chore(deps,tooling): bump ruff to latest version (#1445)](https://github.com/ethereum/execution-specs/commit/26c7daf42c968e0715fc69dbe6876c2a6a1601dd) - 2025-10-01
 * [Issue] [Address warmed on aborted call](https://github.com/ethereum/execution-specs/issues/1541) - 2025-10-09
 * [Issue] [Test to catch the alt_bn_128 issue](https://github.com/ethereum/execution-specs/issues/1539) - 2025-10-09
-* [Pull Request] []() - 2025-11-26
-* [Pull Request] []() - 2025-11-28
-* [Pull Request] []() - 2025-11-29
-* [Pull Request] []() - 2025-12-01
-* [Pull Request] []() - 2025-12-12
+* [Pull Request] [fix(tooling): Handle AnnAssign nodes in the new fork tool](https://github.com/ethereum/execution-specs/pull/1813) - 2025-11-26
+* [Pull Request] [refactor(tests): create fixture items for vm tests](https://github.com/ethereum/execution-specs/pull/1823) - 2025-11-28
+* [Pull Request] [fix(ci): run coverage from py3 instead of json_infra](https://github.com/ethereum/execution-specs/pull/1824) - 2025-11-29
+* [Pull Request] [enhance(test-tests): add more transaction validation tests](https://github.com/ethereum/execution-specs/pull/1826) - 2025-12-01
+* [Pull Request] [fix(ci): handle new branch push and other triggers](https://github.com/ethereum/execution-specs/pull/1913) - 2025-12-12
 ## Q3 2025
 
 

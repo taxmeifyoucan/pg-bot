@@ -12,8 +12,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
-* [Pull Request] []() - 2025-10-21
-* [Pull Request] []() - 2025-10-25
+* [Pull Request] [make BesuVersionUtils graal-safe](https://github.com/besu-eth/besu/pull/9342) - 2025-10-21
+* [Pull Request] [Allow setting an explicit SignatureAlgorithm instance](https://github.com/besu-eth/besu/pull/9364) - 2025-10-25
 ## Q3 2025
 
 

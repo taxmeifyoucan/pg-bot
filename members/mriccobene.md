@@ -12,7 +12,8 @@ Team: Erigon
 
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
-* [Pull Request] []() - 2026-01-30
+* [Pull Request] [qa-tests: RPC integration test (latest) fast failure](https://github.com/erigontech/erigon/pull/18900) - 2026-01-30
+* [Pull Request] [qa-tests: fix fd-leak-analysis artifact name in 'sync with external cl' test](https://github.com/erigontech/erigon/pull/19775) - 2026-03-10
 ## Q4 2025
 
 
@@ -30,19 +31,19 @@ Team: Erigon
 * [Issue] [Unfinished execution history download on Chiado](https://github.com/erigontech/erigon/issues/17590) - 2025-10-22
 * [Issue] [Improve Tip-Tracking test with more debug tools](https://github.com/erigontech/erigon/issues/17646) - 2025-10-24
 * [Issue] [[EngineBlockDownloader] could not process backward download request](https://github.com/erigontech/erigon/issues/17681) - 2025-10-27
-* [Pull Request] []() - 2025-10-28
+* [Pull Request] [qa-tests: add profiling data upload to the tip-tracking with load test](https://github.com/erigontech/erigon/pull/17697) - 2025-10-28
 * [Issue] [Sync issue on Hoodi: "Failed to process block batch"](https://github.com/erigontech/erigon/issues/17731) - 2025-10-31
 * [Issue] [RPC integration tests: update pre-built dbs](https://github.com/erigontech/erigon/issues/17779) - 2025-11-04
 * [Issue] [tip-tracking tests: add more info and debugging tools](https://github.com/erigontech/erigon/issues/17786) - 2025-11-05
-* [Pull Request] []() - 2025-11-10
+* [Pull Request] [qa-tests: use the latest version of the Lighthouse client in sync-with-externalcl test](https://github.com/erigontech/erigon/pull/17848) - 2025-11-10
 * [Issue] [Tip-Tracking w/ load: fix](https://github.com/erigontech/erigon/issues/17841) - 2025-11-10
-* [Pull Request] []() - 2025-11-18
+* [Pull Request] [qa-tests: remove unnecessary downgrade procedure from tip-tracking tests](https://github.com/erigontech/erigon/pull/17950) - 2025-11-18
 * [Issue] [Investigate Erigon crash on recent RPC perf test](https://github.com/erigontech/erigon/issues/17975) - 2025-11-19
 * [Issue] [tip-tracking: detect Erigon inactivity and break the test](https://github.com/erigontech/erigon/issues/17994) - 2025-11-20
-* [Pull Request] []() - 2025-12-16
+* [Pull Request] [[r3.3] hive: temporarily use older hive commit to fix ci (#18302)](https://github.com/erigontech/erigon/pull/18315) - 2025-12-16
 
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
-* [Pull Request] []() - 2025-12-18
+* [Pull Request] [integration: add json report generation](https://github.com/erigontech/rpc-tests/pull/507) - 2025-12-18
 ## Q3 2025
 
 

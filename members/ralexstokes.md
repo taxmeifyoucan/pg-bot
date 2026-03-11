@@ -12,17 +12,17 @@ Team: Applied Research Group (ARG)
 
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-01-05
-* [Pull Request] []() - 2026-02-20
+* [Pull Request] [Update EIP-7773: update EIP status for glamsterdam](https://github.com/ethereum/EIPs/pull/10958) - 2026-01-05
+* [Pull Request] [Update EIP-8081: move FOCIL to SFI](https://github.com/ethereum/EIPs/pull/11341) - 2026-02-20
 ## Q4 2025
 
 
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-10-21
-* [Pull Request] []() - 2025-11-26
-* [Pull Request] []() - 2025-12-02
-* [Pull Request] []() - 2025-12-03
-* [Pull Request] []() - 2025-12-20
+* [Pull Request] [Update EIP-7773: clean up duplication from #10559](https://github.com/ethereum/EIPs/pull/10580) - 2025-10-21
+* [Pull Request] [Update EIP-7773: Move EIP-8068 to DFI for Glamsterdam](https://github.com/ethereum/EIPs/pull/10841) - 2025-11-26
+* [Pull Request] [Update EIP-7773: update glamsterdam scope](https://github.com/ethereum/EIPs/pull/10861) - 2025-12-02
+* [Pull Request] [Add EIP: Hardfork Meta - Heka/Bogotá](https://github.com/ethereum/EIPs/pull/10772) - 2025-12-03
+* [Pull Request] [Update EIP-8081: update portmanteau for Hegotá](https://github.com/ethereum/EIPs/pull/10957) - 2025-12-20
 ## Q2 2025
 
 

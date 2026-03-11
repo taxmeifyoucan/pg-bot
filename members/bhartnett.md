@@ -12,12 +12,13 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
-* [Pull Request] []() - 2026-01-20
-* [Pull Request] []() - 2026-02-05
-* [Pull Request] []() - 2026-02-09
-* [Pull Request] []() - 2026-02-19
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [Implement eth_getBlockAccessListByBlockHash and eth_getBlockAccessListByBlockNumber](https://github.com/status-im/nimbus-eth1/pull/3918) - 2026-01-20
+* [Pull Request] [EIP-7928: Implement engine_getPayloadBodiesByHashV2 and engine_getPayloadBodiesByRangeV2](https://github.com/status-im/nimbus-eth1/pull/3967) - 2026-02-05
+* [Pull Request] [Fix devp2p sync for non-finalized Amsterdam blocks](https://github.com/status-im/nimbus-eth1/pull/3971) - 2026-02-09
+* [Pull Request] [Implement BAL size cap check and other validation improvements](https://github.com/status-im/nimbus-eth1/pull/3995) - 2026-02-19
+* [Pull Request] [Try updating to orc](https://github.com/status-im/nimbus-eth1/pull/4016) - 2026-02-25
+* [Pull Request] [eth/71 - Serve block access lists to peers](https://github.com/status-im/nimbus-eth1/pull/4035) - 2026-03-06
+* [Pull Request] [Vertex as object instead of ref object](https://github.com/status-im/nimbus-eth1/pull/4039) - 2026-03-10
 ## Q4 2025
 
 
@@ -40,20 +41,20 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Remove unused admCol column family.](https://github.com/status-im/nimbus-eth1/commit/633f1a0059044d4cc52e2f5f3152b8aab36874d3) - 2025-10-09
 * [Pull Request] [Remove legacy SavedStateV0 from database](https://github.com/status-im/nimbus-eth1/pull/3756) - 2025-10-09
 * [Commit] [Add parameter to skip loading forked chain state on startup (#3754)](https://github.com/status-im/nimbus-eth1/commit/9013b27e35c65156ef2f9c40dd203a3bde869ad2) - 2025-10-09
-* [Pull Request] []() - 2025-10-14
+* [Pull Request] [Support column families in kvt txFrame API and use for contract code](https://github.com/status-im/nimbus-eth1/pull/3765) - 2025-10-14
 * [Issue] [Parallel transaction execution using Block-Level Access Lists](https://github.com/status-im/nimbus-eth1/issues/3771) - 2025-10-16
 * [Issue] [AssertionDefect in ForkedChain - candidate BlockRef is nil in updateFinalized ](https://github.com/status-im/nimbus-eth1/issues/3777) - 2025-10-21
-* [Pull Request] []() - 2025-10-29
-* [Pull Request] []() - 2025-11-03
+* [Pull Request] [EIP-7928: Engine API changes introduced in Amsterdam](https://github.com/status-im/nimbus-eth1/pull/3801) - 2025-10-29
+* [Pull Request] [Make the max snapshots database parameter configurable](https://github.com/status-im/nimbus-eth1/pull/3808) - 2025-11-03
 
-* [Pull Request] []() - 2025-11-27
-* [Pull Request] []() - 2025-11-28
-* [Pull Request] []() - 2025-12-05
-* [Pull Request] []() - 2025-12-15
-* [Pull Request] []() - 2025-12-16
-* [Pull Request] []() - 2025-12-23
+* [Pull Request] [Run all EEST engine tests, not just ones in static folder](https://github.com/status-im/nimbus-eth1/pull/3846) - 2025-11-27
+* [Pull Request] [EIP-7928: Block level access lists (#3836)](https://github.com/status-im/nimbus-eth1/pull/3850) - 2025-11-28
+* [Pull Request] [EIP-7928: Implement debug_getBadBlocks RPC endpoint](https://github.com/status-im/nimbus-eth1/pull/3865) - 2025-12-05
+* [Pull Request] [Apply static gas checks for EIP-2929 self destruct](https://github.com/status-im/nimbus-eth1/pull/3878) - 2025-12-15
+* [Pull Request] [Remove unused imports and disable persist performance metrics on bare metal](https://github.com/status-im/nimbus-eth1/pull/3880) - 2025-12-16
+* [Pull Request] [Stateless makefile targets](https://github.com/status-im/nimbus-eth1/pull/3887) - 2025-12-23
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2025-11-21
+* [Pull Request] [Update EIP-7928: Update StorageKey and StorageValue type definitions](https://github.com/ethereum/EIPs/pull/10817) - 2025-11-21
 ## Q3 2025
 
 

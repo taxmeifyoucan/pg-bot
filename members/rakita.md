@@ -15,37 +15,40 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Issue] [Add pritty_print for CacheDB](https://github.com/bluealloy/revm/issues/3283) - 2026-01-06
 * [Issue] [Make a bytecode test utility that would make bytecode that insert input directly to memory](https://github.com/bluealloy/revm/issues/3277) - 2026-01-06
 * [Issue] [Add Inspector testing bootstrap for evm variants that extend revm](https://github.com/bluealloy/revm/issues/3275) - 2026-01-06
-* [Pull Request] []() - 2026-01-09
-* [Pull Request] []() - 2026-01-14
+* [Pull Request] [chore: apply improvements from ai-bot labeled PRs](https://github.com/bluealloy/revm/pull/3297) - 2026-01-09
+* [Pull Request] [chore: bump cargo.toml](https://github.com/bluealloy/revm/pull/3311) - 2026-01-14
 * [Issue] [GasParams helper for access list](https://github.com/bluealloy/revm/issues/3343) - 2026-01-22
 * [Issue] [Helper for GasParams cold_storage_cost()](https://github.com/bluealloy/revm/issues/3342) - 2026-01-22
 * [Issue] [Configure gas_params Auth refund amount](https://github.com/bluealloy/revm/issues/3341) - 2026-01-22
-* [Pull Request] []() - 2026-01-26
+* [Pull Request] [fix: set transition_id to account](https://github.com/bluealloy/revm/pull/3353) - 2026-01-26
 
-* [Pull Request] []() - 2026-01-28
+* [Pull Request] [Deprecate `nonce_bump_journal_entry` and `caller_accounting_journal_entry` functions](https://github.com/bluealloy/revm/pull/3367) - 2026-01-28
 * [Issue] [Deprecate nonce_bump_journal_entry(), caller_accounting_journal_entry](https://github.com/bluealloy/revm/issues/3365) - 2026-01-28
-* [Pull Request] []() - 2026-02-02
-* [Pull Request] []() - 2026-02-03
-* [Pull Request] []() - 2026-02-06
-* [Pull Request] []() - 2026-02-09
+* [Pull Request] [chore(scripts): update devnet test fixtures to bal@v5.1.0](https://github.com/bluealloy/revm/pull/3392) - 2026-02-02
+* [Pull Request] [feat(statetest-types): add BPO2ToAmsterdamAtTime15k fork spec](https://github.com/bluealloy/revm/pull/3397) - 2026-02-03
+* [Pull Request] [feat: add EIP-8037 / TIP-1016 state gas support](https://github.com/bluealloy/revm/pull/3406) - 2026-02-06
+* [Pull Request] [refactor!: add ResultGas struct to ExecutionResult](https://github.com/bluealloy/revm/pull/3413) - 2026-02-09
 * [Issue] [Add aws-lc-rs as alternative to secp256r1 precompile](https://github.com/bluealloy/revm/issues/3417) - 2026-02-10
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-11
-* [Pull Request] []() - 2026-02-12
+* [Pull Request] [feat(revme): validate block gas used in blockchain tests](https://github.com/bluealloy/revm/pull/3416) - 2026-02-10
+* [Pull Request] [refactor: implement reservoir model in Gas struct](https://github.com/bluealloy/revm/pull/3418) - 2026-02-11
+* [Pull Request] [refactor!: add logs to Revert and Halt variants of ExecutionResult](https://github.com/bluealloy/revm/pull/3424) - 2026-02-12
 * [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-16
-* [Pull Request] []() - 2026-02-23
-* [Pull Request] []() - 2026-02-24
-* [Pull Request] []() - 2026-02-25
-* [Pull Request] []() - 2026-02-26
-* [Pull Request] []() - 2026-02-27
-* [Pull Request] []() - 2026-03-02
-* [Pull Request] []() - 2026-03-04
-* [Pull Request] []() - 2026-03-05
+* [Pull Request] [bench: add subcall benchmarks (1000-call variants)](https://github.com/bluealloy/revm/pull/3427) - 2026-02-16
+* [Pull Request] [refactor(handler): remove Default for EthPrecompiles and EthInstructions](https://github.com/bluealloy/revm/pull/3434) - 2026-02-23
+* [Pull Request] [refactor(gas): simplify log2floor implementation](https://github.com/bluealloy/revm/pull/3440) - 2026-02-24
+* [Pull Request] [devnet2-revm: sync revm main into staging](https://github.com/bluealloy/revm/pull/3445) - 2026-02-25
+* [Pull Request] [chore: bump c-kzg from 2.1.4 to 2.1.6](https://github.com/bluealloy/revm/pull/3448) - 2026-02-26
+* [Pull Request] [feat(precompile): add herumi/mcl as alternative backend for bn254](https://github.com/bluealloy/revm/pull/3452) - 2026-02-27
+* [Pull Request] [docs: add v104 migration guide](https://github.com/bluealloy/revm/pull/3468) - 2026-03-02
+* [Pull Request] [fix: expose JournalLoadError from load_account_mut_skip_cold_load](https://github.com/bluealloy/revm/pull/3477) - 2026-03-04
+* [Pull Request] [chore: bump aws-lc-rs from 1.16.0 to 1.16.1](https://github.com/bluealloy/revm/pull/3481) - 2026-03-05
 * [Issue] [tip1016 pending spec changes](https://github.com/bluealloy/revm/issues/3480) - 2026-03-05
 * [Pull Request] []() - 2026-03-06
+* [Pull Request] [feat(revme): list all failed tests at the end with --keep-going](https://github.com/bluealloy/revm/pull/3491) - 2026-03-10
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-01-27
+* [Pull Request] [Update EIP-7708: Clarify transaction transfer to different account](https://github.com/ethereum/EIPs/pull/11188) - 2026-01-27
+* [Pull Request] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355) - 2026-03-10
+* [Commit] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/commit/248b653f875c244ebdfdaed94d8ef54e54574b00) - 2026-03-10
 ## Q4 2025
 
 
@@ -87,12 +90,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [perf: resize short addresses bitvec instead of reallocating (#3083)](https://github.com/bluealloy/revm/commit/10ff66da1576a3532db657d7b953abcd59ec44a3) - 2025-10-13
 * [Commit] [refactor(handler): extract duplicate gas price validation (#3045)](https://github.com/bluealloy/revm/commit/0ce9fc5794e39def74d788316a7cfafbe7cdbaef) - 2025-10-13
 * [Commit] [chore: make CallInput::bytes accept immutable ContextTr (#3082)](https://github.com/bluealloy/revm/commit/082a5dd4d90f6d1233e1b6281ae24259a5a40895) - 2025-10-13
-* [Pull Request] []() - 2025-10-29
-* [Pull Request] []() - 2025-11-12
-* [Pull Request] []() - 2025-12-02
+* [Pull Request] [feat: Gas params](https://github.com/bluealloy/revm/pull/3132) - 2025-10-29
+* [Pull Request] [feat: Add set nonce journal entry and fn](https://github.com/bluealloy/revm/pull/3163) - 2025-11-12
+* [Pull Request] [feat: JournaledAccount sload/sstore](https://github.com/bluealloy/revm/pull/3201) - 2025-12-02
 * [Issue] [Configurable tx validation](https://github.com/bluealloy/revm/issues/3215) - 2025-12-08
 * [Pull Request] []() - 2025-12-10
-* [Pull Request] []() - 2025-12-16
+* [Pull Request] [feat: move GasParams to Cfg](https://github.com/bluealloy/revm/pull/3229) - 2025-12-16
 ## Q3 2025
 
 

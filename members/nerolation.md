@@ -18,44 +18,46 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Issue] [EIP-7928 Breakout #12, Feb 11, 2026](https://github.com/ethereum/pm/issues/1917) - 2026-02-09
 * [Issue] [EIP-7928 Breakout #13, Feb 25, 2026](https://github.com/ethereum/pm/issues/1944) - 2026-02-23
 [ethereum/eips](https://github.com/ethereum/eips)
-* [Pull Request] []() - 2026-01-13
-* [Pull Request] []() - 2026-01-14
+* [Pull Request] [Update EIP-7778: correct license, improve wording](https://github.com/ethereum/EIPs/pull/11071) - 2026-01-13
+* [Pull Request] [Update EIP-7778: Clarify gas accounting for receipts](https://github.com/ethereum/EIPs/pull/11075) - 2026-01-14
 * [Pull Request] []() - 2026-01-16
-* [Pull Request] []() - 2026-01-17
+* [Pull Request] [Update EIP-7778: add new receipt field for gas_spent](https://github.com/ethereum/EIPs/pull/11099) - 2026-01-17
 
 * [Pull Request] []() - 2026-01-19
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-30
-* [Pull Request] []() - 2026-02-01
-* [Pull Request] []() - 2026-02-12
-* [Pull Request] []() - 2026-02-15
-* [Pull Request] []() - 2026-02-16
-* [Pull Request] []() - 2026-02-17
+* [Pull Request] [Update EIP-7928: Add first-accessed indices to BAL](https://github.com/ethereum/EIPs/pull/11181) - 2026-01-27
+* [Pull Request] [Update EIP-7928: clarify stf without BAL](https://github.com/ethereum/EIPs/pull/11227) - 2026-01-30
+* [Pull Request] [Update EIP-7928: cap max items in BAL](https://github.com/ethereum/EIPs/pull/11234) - 2026-02-01
+* [Pull Request] [Add EIP: eth/71 - Block Access List Exchange](https://github.com/ethereum/EIPs/pull/11307) - 2026-02-12
+* [Pull Request] [Update EIP-7773: Add EIP-7975 and EIP-8159 to the CFI list](https://github.com/ethereum/EIPs/pull/11319) - 2026-02-15
+* [Pull Request] [Update EIP-7928: simplify capping of block-level access list](https://github.com/ethereum/EIPs/pull/11323) - 2026-02-16
+* [Pull Request] [Update EIP-7976: update empirical report](https://github.com/ethereum/EIPs/pull/11326) - 2026-02-17
+* [Pull Request] [Update EIP-7928: Add Felipe, Rahul and Stefan as co-authors](https://github.com/ethereum/EIPs/pull/11392) - 2026-03-10
+* [Pull Request] [Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/pull/11391) - 2026-03-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
-* [Pull Request] []() - 2026-01-18
+* [Pull Request] [feat(tests): add worst-case BAL read test](https://github.com/ethereum/execution-specs/pull/2033) - 2026-01-18
 
-* [Pull Request] []() - 2026-02-06
+* [Pull Request] [feat(tests): add test case for create2 selfdestruct and recreate](https://github.com/ethereum/execution-specs/pull/2121) - 2026-02-06
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-* [Pull Request] []() - 2026-02-04
-* [Pull Request] []() - 2026-03-02
+* [Pull Request] [engine: define EIP-7928 API methods](https://github.com/ethereum/execution-apis/pull/727) - 2026-02-04
+* [Pull Request] [eth: add EIP-7928 Block-level Access Lists JSON RPC methods](https://github.com/ethereum/execution-apis/pull/726) - 2026-03-02
 ## Q4 2025
 
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Clarify EIP 7702](https://github.com/ethereum/EIPs/pull/10471) - 2025-10-04
 
-* [Pull Request] []() - 2025-10-14
-* [Pull Request] []() - 2025-10-19
-* [Pull Request] []() - 2025-11-04
-* [Pull Request] []() - 2025-11-18
-* [Pull Request] []() - 2025-12-02
-* [Pull Request] []() - 2025-12-04
-* [Pull Request] []() - 2025-12-09
-* [Pull Request] []() - 2025-12-10
-* [Pull Request] []() - 2025-12-11
-* [Pull Request] []() - 2025-12-12
-* [Pull Request] []() - 2025-12-16
-* [Pull Request] []() - 2025-12-25
+* [Pull Request] [Update EIP-7928: Clarify bal entry ordering](https://github.com/ethereum/EIPs/pull/10540) - 2025-10-14
+* [Pull Request] [Update EIP-7928: Clarify block reward wording again](https://github.com/ethereum/EIPs/pull/10573) - 2025-10-19
+* [Pull Request] [Update EIP-7976: Add empirical report with impact analysis](https://github.com/ethereum/EIPs/pull/10711) - 2025-11-04
+* [Pull Request] [Update EIP-7863: Fix spelling mistake](https://github.com/ethereum/EIPs/pull/10810) - 2025-11-18
+* [Pull Request] [Update EIP-7928: Clarify gas accounting sequence for BALs](https://github.com/ethereum/EIPs/pull/10866) - 2025-12-02
+* [Pull Request] [Update EIP-7778: Clarify receipts gas_used](https://github.com/ethereum/EIPs/pull/10872) - 2025-12-04
+* [Pull Request] [Update EIP-7928: Add updated BAL size analysis for 60M gas](https://github.com/ethereum/EIPs/pull/10887) - 2025-12-09
+* [Pull Request] [Update EIP-7928: Clarify system contract caller](https://github.com/ethereum/EIPs/pull/10895) - 2025-12-10
+* [Pull Request] [Update EIP-7928: Clarify initcode call](https://github.com/ethereum/EIPs/pull/10902) - 2025-12-11
+* [Pull Request] [Update EIP-7928: Fix analysis](https://github.com/ethereum/EIPs/pull/10910) - 2025-12-12
+* [Pull Request] [Update EIP-7928: change BAL retention period to WSP](https://github.com/ethereum/EIPs/pull/10940) - 2025-12-16
+* [Pull Request] [Update EIP-7928: Clarify wording around 7702](https://github.com/ethereum/EIPs/pull/10983) - 2025-12-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP-7928 Breakout #4, Oct 24, 2025](https://github.com/ethereum/pm/issues/1755) - 2025-10-06
 * [Issue] [EIP-7928 Breakout #5, Oct 22, 2025](https://github.com/ethereum/pm/issues/1771) - 2025-10-20
@@ -65,13 +67,13 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Issue] [EIP-7928 Breakout #8, Dec 3, 2025](https://github.com/ethereum/pm/issues/1822) - 2025-11-27
 * [Issue] [EIP-7928 Breakout #9, Dec 17, 2025](https://github.com/ethereum/pm/issues/1841) - 2025-12-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
-* [Pull Request] []() - 2025-10-31
-* [Pull Request] []() - 2025-11-01
-* [Pull Request] []() - 2025-11-05
+* [Pull Request] [feat(specs): EIP-7928 - Add gas used list to block access list](https://github.com/ethereum/execution-specs/pull/1723) - 2025-10-31
+* [Pull Request] [fix(specs): EIP-7928 - Refactor state.state_tracker argument pattern](https://github.com/ethereum/execution-specs/pull/1727) - 2025-11-01
+* [Pull Request] [fix(specs): EIP-7928 larger refactoring moving the state tracker and introduce check gas and charge gas sequence](https://github.com/ethereum/execution-specs/pull/1759) - 2025-11-05
 
-* [Pull Request] []() - 2025-12-31
+* [Pull Request] [feat(tests): add more 7928 test descriptions](https://github.com/ethereum/execution-specs/pull/1815) - 2025-12-31
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-* [Pull Request] []() - 2025-12-13
+* [Pull Request] [Update EIP-7928: Move Block Access List outside ExecutionPayload](https://github.com/ethereum/execution-apis/pull/720) - 2025-12-13
 * [Pull Request] []() - 2025-12-20
 * [Pull Request] []() - 2025-12-22
 ## Q3 2025

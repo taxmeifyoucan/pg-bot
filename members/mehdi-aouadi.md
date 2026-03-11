@@ -12,18 +12,25 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 
 
 [consensys/teku](https://github.com/consensys/teku)
-* [Pull Request] []() - 2026-01-26
-* [Pull Request] []() - 2026-01-27
-* [Pull Request] []() - 2026-01-28
-* [Pull Request] []() - 2026-01-31
-* [Pull Request] []() - 2026-02-04
+* [Pull Request] [update copyright year](https://github.com/Consensys/teku/pull/10300) - 2026-01-26
+* [Pull Request] [downgrade snappy-java to 1.1.10.7 because of the musl detection issue](https://github.com/Consensys/teku/pull/10289) - 2026-01-27
+* [Pull Request] [10146 gloas execution payload gossip rules](https://github.com/Consensys/teku/pull/10168) - 2026-01-28
+* [Pull Request] [10175 execution payload bid gloas gossip](https://github.com/Consensys/teku/pull/10198) - 2026-01-31
+* [Pull Request] [Use current date when CI triggered manually](https://github.com/Consensys/teku/pull/10328) - 2026-02-04
 * [Issue] [Add getNodeVersionV2](https://github.com/Consensys/teku/issues/10350) - 2026-02-09
 * [Issue] [Update AbstractDataColumnSidecarValidator for Gloas](https://github.com/Consensys/teku/issues/10349) - 2026-02-09
-* [Pull Request] []() - 2026-02-10
-* [Pull Request] []() - 2026-02-26
+* [Pull Request] [10176 gloas dcsc gossip](https://github.com/Consensys/teku/pull/10299) - 2026-02-10
+* [Pull Request] [update data column sidecars by range RPC for Gloas](https://github.com/Consensys/teku/pull/10429) - 2026-02-26
 * [Issue] [Gloas Attestation index](https://github.com/Consensys/teku/issues/10439) - 2026-03-02
-* [Pull Request] []() - 2026-03-03
-* [Pull Request] []() - 2026-03-06
+* [Pull Request] [update data column by range test for gloas](https://github.com/Consensys/teku/pull/10442) - 2026-03-03
+* [Pull Request] [bundle ref tests](https://github.com/Consensys/teku/pull/10460) - 2026-03-06
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [10259 proposer preferences gossip](https://github.com/Consensys/teku/pull/10472) - 2026-03-10
+* [Pull Request] [ci cleanup](https://github.com/Consensys/teku/pull/10466) - 2026-03-10
+* [Pull Request] [add proposer preferences container](https://github.com/Consensys/teku/pull/10467) - 2026-03-10
+* [Commit] [ci cleanup (#10466)](https://github.com/Consensys/teku/commit/f5c963b99f9ea70192a1535d728db5a22c218065) - 2026-03-10
+* [Commit] [add proposer preferences container (#10467)](https://github.com/Consensys/teku/commit/5669598367dfe187f345e0530cabda7c7d4a8896) - 2026-03-10
 ## Q4 2025
 
 
@@ -31,19 +38,19 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [add no-op bls signature verifier](https://github.com/Consensys/teku/pull/9953) - 2025-10-01
 * [Pull Request] [Revert "Focil gloas"](https://github.com/Consensys/teku/pull/9952) - 2025-10-01
 * [Issue] [Update GetAttestationData for Electra](https://github.com/Consensys/teku/issues/9993) - 2025-10-10
-* [Pull Request] []() - 2025-10-21
+* [Pull Request] [gloas beacon_block gossip rules](https://github.com/Consensys/teku/pull/10040) - 2025-10-21
 * [Issue] [Gloas beacon_attestation gossip rules](https://github.com/Consensys/teku/issues/10065) - 2025-10-28
 * [Issue] [Gloas beacon_block gossip rules](https://github.com/Consensys/teku/issues/10064) - 2025-10-28
-* [Pull Request] []() - 2025-11-14
+* [Pull Request] [add Gloas block gossip validation rules](https://github.com/Consensys/teku/pull/10140) - 2025-11-14
 * [Issue] [Gloas execution_payload gossip rules](https://github.com/Consensys/teku/issues/10146) - 2025-11-17
 
 * [Pull Request] []() - 2025-11-24
 * [Issue] [Network configuration unit test downloading config from the web](https://github.com/Consensys/teku/issues/10195) - 2025-12-01
 * [Pull Request] []() - 2025-12-02
-* [Pull Request] []() - 2025-12-11
+* [Pull Request] [replace LRUCache with CaffeineCache](https://github.com/Consensys/teku/pull/10225) - 2025-12-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
-* [Pull Request] []() - 2025-11-19
-* [Pull Request] []() - 2025-11-25
+* [Pull Request] [Fix gloas `execution_payload` gossip rules typo](https://github.com/ethereum/consensus-specs/pull/4751) - 2025-11-19
+* [Pull Request] [Fix block gossip rule typo](https://github.com/ethereum/consensus-specs/pull/4760) - 2025-11-25
 ## Q3 2025
 
 

@@ -13,7 +13,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [bal-devnet-3 implementation](https://github.com/erigontech/erigon/issues/18717) - 2026-01-19
-* [Pull Request] []() - 2026-01-22
+* [Pull Request] [execution/vm: fold EVMInterpreter into EVM](https://github.com/erigontech/erigon/pull/18765) - 2026-01-22
 * [Issue] [Erigon built an invalid block on Gnosis Chain](https://github.com/erigontech/erigon/issues/18823) - 2026-01-27
 * [Issue] [deps: update libsecp256k1 to 0.7.1](https://github.com/erigontech/erigon/issues/18822) - 2026-01-27
 * [Issue] [Revisit EIP-6780: merge stateObject.newlyCreated & createdContract?](https://github.com/erigontech/erigon/issues/18808) - 2026-01-26
@@ -28,8 +28,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Improve time of CI jobs and make more checks mandatory for PR merge](https://github.com/erigontech/erigon/issues/19136) - 2026-02-12
 * [Issue] [Implement bal-devnet-2 changes in Caplin](https://github.com/erigontech/erigon/issues/19218) - 2026-02-16
 * [Issue] [Add EIP-7928 Block-level Access Lists JSON RPC methods](https://github.com/erigontech/erigon/issues/19217) - 2026-02-16
-* [Pull Request] []() - 2026-02-19
+* [Pull Request] [execution: small misc RLP improvements](https://github.com/erigontech/erigon/pull/19293) - 2026-02-19
 * [Issue] [Flaky Hive test "Blob Transaction Ordering"](https://github.com/erigontech/erigon/issues/19446) - 2026-02-24
+* [Pull Request] [vm: fix CREATE/CREATE2 collision with EIP-7702 delegated accounts](https://github.com/erigontech/erigon/pull/19777) - 2026-03-10
+* [Pull Request] [txpool: penalize peers sending malformed p2p messages](https://github.com/erigontech/erigon/pull/19781) - 2026-03-10
+* [Commit] [txpool: penalize peers sending malformed p2p messages (#19781)](https://github.com/erigontech/erigon/commit/965cf96a748dc3e3bcd70c2e38a9b47ce64495ac) - 2026-03-10
 ## Q4 2025
 
 
@@ -77,10 +80,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Improve directories in `execution`](https://github.com/erigontech/erigon/issues/17689) - 2025-10-27
 * [Issue] [Remove MiningServer](https://github.com/erigontech/erigon/issues/17815) - 2025-11-07
 * [Issue] [Simplify rlp.*ExcludingHead functions](https://github.com/erigontech/erigon/issues/17876) - 2025-11-13
-* [Pull Request] []() - 2025-12-05
-* [Pull Request] []() - 2025-12-23
+* [Pull Request] [execution/rlp: Uint256LenExcludingHead -> Uint256Len](https://github.com/erigontech/erigon/pull/18196) - 2025-12-05
+* [Pull Request] [Remove censoring](https://github.com/erigontech/erigon/pull/18425) - 2025-12-23
 * [Issue] [Flaky TestTraceKey_LargeVals](https://github.com/erigontech/erigon/issues/18493) - 2025-12-29
-* [Pull Request] []() - 2025-12-30
+* [Pull Request] [execution/engineapi: add engine_getBlobsV3](https://github.com/erigontech/erigon/pull/18512) - 2025-12-30
 ## Q3 2025
 
 

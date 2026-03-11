@@ -12,31 +12,32 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
-* [Pull Request] []() - 2026-01-01
+* [Pull Request] [Add Karim Taam to Besu](https://github.com/protocolguild/documentation/pull/451) - 2026-01-01
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Receipt Root Mismatch Causing Chain Halt](https://github.com/hyperledger/besu/issues/9610) - 2026-01-08
-* [Pull Request] []() - 2026-01-15
+* [Pull Request] [Replace BytesTrieSet with HashSet](https://github.com/besu-eth/besu/pull/9641) - 2026-01-15
 * [Issue] [Investigate debug_stateSize](https://github.com/hyperledger/besu/issues/9658) - 2026-01-20
-* [Pull Request] []() - 2026-02-12
-* [Pull Request] []() - 2026-02-13
-* [Pull Request] []() - 2026-02-17
+* [Pull Request] [Support substring and glob matching for --test-name in block-test](https://github.com/besu-eth/besu/pull/9790) - 2026-02-12
+* [Pull Request] [Fix jmh task](https://github.com/besu-eth/besu/pull/9798) - 2026-02-13
+* [Pull Request] [Use docker buildx imagetools for multi-arch manifest creation](https://github.com/besu-eth/besu/pull/9819) - 2026-02-17
 * [Issue] [Use docker buildx imagetools for multi-arch manifest creation](https://github.com/hyperledger/besu/issues/9818) - 2026-02-17
 * [Issue] [Replace JSR305 (javax.annotation) and checker-qual annotations with modern equivalents](https://github.com/hyperledger/besu/issues/9917) - 2026-02-27
 * [Issue] [Bump GHAs to Ubuntu 24.04](https://github.com/hyperledger/besu/issues/9949) - 2026-03-03
-* [Pull Request] []() - 2026-03-09
+* [Pull Request] [Benchmarking docs](https://github.com/besu-eth/besu/pull/9998) - 2026-03-09
+* [Pull Request] [Use existing RLP methods in trie log prune batch files](https://github.com/besu-eth/besu/pull/10009) - 2026-03-10
 ## Q4 2025
 
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [fix: clear tx blob map when pool is disabled (#9211)](https://github.com/hyperledger/besu/commit/efa9b43f79f918451b0da4197a47ea0b49f11f87) - 2025-10-09
 * [Issue] [Release 25.10.0-RC3](https://github.com/hyperledger/besu/issues/9302) - 2025-10-14
-* [Pull Request] []() - 2025-10-23
-* [Pull Request] []() - 2025-11-17
+* [Pull Request] [Fix flakiness by setting up block processors before each test](https://github.com/besu-eth/besu/pull/9351) - 2025-10-23
+* [Pull Request] [Optimise engine_getPayload* and engine_getBlobsV2](https://github.com/besu-eth/besu/pull/9445) - 2025-11-17
 
-* [Pull Request] []() - 2025-12-22
+* [Pull Request] [eth_config showAllForks prototype](https://github.com/besu-eth/besu/pull/9593) - 2025-12-22
 [nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
-* [Pull Request] []() - 2025-12-01
+* [Pull Request] [Increase besu http timeout to 11 minutes](https://github.com/NethermindEth/gas-benchmarks/pull/80) - 2025-12-01
 * [Pull Request] []() - 2025-12-10
 ## Q3 2025
 

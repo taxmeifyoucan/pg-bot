@@ -12,10 +12,10 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
-* [Pull Request] []() - 2026-01-13
+* [Pull Request] [feat(test-tests) add testcase for calldata/codecopy OOG](https://github.com/ethereum/execution-specs/pull/2012) - 2026-01-13
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
-* [Pull Request] []() - 2026-01-14
+* [Pull Request] [fix(test-runner): Use maxPriorityFeePerGas for EIP-1559 state test parsing](https://github.com/NethermindEth/nethermind/pull/10205) - 2026-01-14
 
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Issue] [EIP-7702: Consensus bugs in authorization processing (meta)](https://github.com/ipsilon/evmone/issues/1449) - 2026-02-10
@@ -31,23 +31,23 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 * [Pull Request] [Feature/blocktest tracing](https://github.com/NethermindEth/nethermind/pull/9427) - 2025-10-08
 * [Pull Request] [Fix: Blocktest validation bypass for NoProof seal engine](https://github.com/NethermindEth/nethermind/pull/9439) - 2025-10-10
 
-* [Pull Request] []() - 2025-12-02
+* [Pull Request] [fix: only touch coinbase after successful transaction in state tests](https://github.com/NethermindEth/nethermind/pull/9865) - 2025-12-02
 * [Pull Request] []() - 2025-12-16
 [hyperledger/besu](https://github.com/hyperledger/besu)
-* [Pull Request] []() - 2025-10-14
+* [Pull Request] [Add transaction tracing support to block test command](https://github.com/besu-eth/besu/pull/9310) - 2025-10-14
 
-* [Pull Request] []() - 2025-12-03
-* [Pull Request] []() - 2025-12-06
+* [Pull Request] [fix: only touch coinbase after valid transaction in state tests](https://github.com/besu-eth/besu/pull/9524) - 2025-12-03
+* [Pull Request] [fix(evmtool): use excessBlobGas from test environment in state-test](https://github.com/besu-eth/besu/pull/9545) - 2025-12-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [[tooling] Docker build fails: ethereum-execution-specs[test] extra not installable](https://github.com/ethereum/execution-specs/issues/1630) - 2025-10-17
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [State test runner ignores `blobVersionedHashes` when `txbytes` is absent](https://github.com/erigontech/erigon/issues/18079) - 2025-11-27
 
-* [Pull Request] []() - 2025-12-04
+* [Pull Request] [tests: fix statetest message construction to match other clients](https://github.com/erigontech/erigon/pull/18121) - 2025-12-04
 [bluealloy/revm](https://github.com/bluealloy/revm)
-* [Pull Request] []() - 2025-12-01
-* [Pull Request] []() - 2025-12-05
+* [Pull Request] [feat(statetest): spec-compliant expected exception handling](https://github.com/bluealloy/revm/pull/3198) - 2025-12-01
+* [Pull Request] [fix(statetest): use spec-aware blob base fee update fraction](https://github.com/bluealloy/revm/pull/3210) - 2025-12-05
 * [Pull Request] []() - 2025-12-08
 ## Q3 2025
 

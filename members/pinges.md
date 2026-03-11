@@ -12,7 +12,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
-* [Pull Request] []() - 2025-10-28
+* [Pull Request] [Enable Gradle parallel execution](https://github.com/besu-eth/besu/pull/9371) - 2025-10-28
 ## Q3 2025
 
 

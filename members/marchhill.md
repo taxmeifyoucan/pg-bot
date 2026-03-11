@@ -11,11 +11,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-* [Pull Request] []() - 2026-01-14
+* [Pull Request] [engine: EIP-7843 changes - adding slot number to fcU](https://github.com/ethereum/execution-apis/pull/731) - 2026-01-14
 * [Pull Request] []() - 2026-01-29
 
 [ethereum/hive](https://github.com/ethereum/hive)
-* [Pull Request] []() - 2026-02-08
+* [Pull Request] [clients/nethermind: fix config to remove mining](https://github.com/ethereum/hive/pull/1386) - 2026-02-08
 ## Q4 2025
 
 
@@ -47,7 +47,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [comment logs](https://github.com/NethermindEth/nethermind/commit/ba184ffca847fc7998ac0f33e4ef073e748b80ed) - 2025-10-10
 * [Commit] [engine rpc amsterdam](https://github.com/NethermindEth/nethermind/commit/a714e194239f12f4cfa940688b2c6c72ad7bbe04) - 2025-10-10
 * [Commit] [fix block building](https://github.com/NethermindEth/nethermind/commit/54a00d5a36dce973c4c831b197ed60281a5686de) - 2025-10-13
-* [Pull Request] []() - 2025-10-27
+* [Pull Request] [Optimise CALL by throwing stack underflow earlier](https://github.com/NethermindEth/nethermind/pull/9581) - 2025-10-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Marc Harvey-Hill (Nethermind) 0.5->1](https://github.com/protocolguild/documentation/pull/421) - 2025-10-01
 

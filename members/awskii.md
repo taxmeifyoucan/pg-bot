@@ -20,11 +20,11 @@ Team: Erigon
 * [Issue] [Snapshot checkers](https://github.com/erigontech/erigon/issues/17325) - 2025-10-02
 * [Commit] [arb: decrease log level for wasm activation (#17352)](https://github.com/erigontech/erigon/commit/ba2bc44f25f1e1133d5c900c44e528473a9e3532) - 2025-10-06
 * [Pull Request] [arb: decrease log level for wasm activation](https://github.com/erigontech/erigon/pull/17352) - 2025-10-06
-* [Pull Request] []() - 2025-10-14
-* [Pull Request] []() - 2025-10-17
-* [Pull Request] []() - 2025-11-04
-* [Pull Request] []() - 2025-12-08
-* [Pull Request] []() - 2025-12-27
+* [Pull Request] [let arbitrum nitro work further (unless fixed in OCL/nitro)](https://github.com/erigontech/erigon/pull/17458) - 2025-10-14
+* [Pull Request] [Commitment: renamings and movements](https://github.com/erigontech/erigon/pull/17530) - 2025-10-17
+* [Pull Request] [Arb/block main](https://github.com/erigontech/erigon/pull/17768) - 2025-11-04
+* [Pull Request] [[DNM] arbos50+main into clean arbitrum](https://github.com/erigontech/erigon/pull/18207) - 2025-12-08
+* [Pull Request] [Update arb-sepolia snapshots to 228M](https://github.com/erigontech/erigon/pull/18481) - 2025-12-27
 ## Q3 2025
 
 

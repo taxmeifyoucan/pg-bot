@@ -12,15 +12,15 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
-* [Pull Request] []() - 2026-01-28
+* [Pull Request] [feat: enhance gas benchmark workflow with comments for start and results](https://github.com/NethermindEth/nethermind/pull/10350) - 2026-01-28
 ## Q4 2025
 
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
-* [Pull Request] []() - 2025-11-24
+* [Pull Request] [internal/debug: add support for grafana pyroscope sdk](https://github.com/ethereum/go-ethereum/pull/33261) - 2025-11-24
 
 [nethermindeth/gas-benchmarks](https://github.com/nethermindeth/gas-benchmarks)
-* [Pull Request] []() - 2025-11-25
+* [Pull Request] [feat: enhance metrics and tracing support in benchmark scripts](https://github.com/NethermindEth/gas-benchmarks/pull/77) - 2025-11-25
 ## Q3 2025
 
 
