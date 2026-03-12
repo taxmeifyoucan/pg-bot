@@ -305,7 +305,9 @@ class MemberContribution
 
     date_str = timestamp.strftime('%Y-%m-%d')
     contribution_line = "* [#{type}] [#{title}](#{url}) - #{date_str}"
+    # Skip if exact line or URL already exists (prevent duplicates across runs)
     return if content.include?(contribution_line)
+    return if content.include?("(#{url})")
 
     quarter_section = "## #{quarter}"
     if !content.include?(quarter_section)
