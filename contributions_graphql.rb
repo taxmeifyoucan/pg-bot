@@ -170,13 +170,17 @@ class GithubGraphQLClient
         end
       end
 
-      # Parse reviews on this PR
+      # Parse reviews on this PR (one review per reviewer per PR)
       reviews = pr.dig('reviews', 'nodes') || []
+      seen_reviewers = Set.new
       reviews.each do |review|
         next unless review && review['author']
+        reviewer = review['author']['login'].downcase
+        next if seen_reviewers.include?(reviewer)
         review_time = Time.parse(review['createdAt'])
         next unless review_time >= since_time
 
+        seen_reviewers.add(reviewer)
         contributions << {
           repo: repo,
           type: 'Review',
@@ -301,7 +305,9 @@ class MemberContribution
 
     date_str = timestamp.strftime('%Y-%m-%d')
     contribution_line = "* [#{type}] [#{title}](#{url}) - #{date_str}"
+    # Skip if exact line or URL already exists (prevent duplicates across runs)
     return if content.include?(contribution_line)
+    return if content.include?("(#{url})")
 
     quarter_section = "## #{quarter}"
     if !content.include?(quarter_section)

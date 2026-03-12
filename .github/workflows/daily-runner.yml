@@ -24,7 +24,7 @@ jobs:
           bundler-cache: true
           
       - name: Install dependencies
-        run: bundle install
+        run: gem install octokit faraday-retry
         
       - name: Run contribution tracker
         run: ruby contributions_graphql.rb
