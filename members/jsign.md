@@ -45,6 +45,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922802865) - 2026-03-10
 * [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922809574) - 2026-03-10
 * [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3922814994) - 2026-03-10
+* [Pull Request] [feat(zkevm): add testing framework support for headers in execution witness and appropriate test coverage](https://github.com/ethereum/execution-specs/pull/2492) - 2026-03-12
+* [Review] [Review on: feat(zkevm): add testing framework support for headers in execution witness and appropriate test coverage](https://github.com/ethereum/execution-specs/pull/2492#pullrequestreview-3938006535) - 2026-03-12
+* [Pull Request] [feat(zkevm): add execution witness bytecode tests for SELFDESTRUCT and extra CALL-like opcode scenarios](https://github.com/ethereum/execution-specs/pull/2491) - 2026-03-12
+* [Review] [Review on: feat(zkevm): add execution witness bytecode tests for SELFDESTRUCT and extra CALL-like opcode scenarios](https://github.com/ethereum/execution-specs/pull/2491#pullrequestreview-3936862676) - 2026-03-12
 ## Q4 2025
 
 

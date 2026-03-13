@@ -22,6 +22,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Satyajit Das to Prysm](https://github.com/protocolguild/documentation/pull/470) - 2026-01-13
 * [Pull Request] []() - 2026-01-20
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: SSZ-QL: Hybrid merkle proof generation for `BeaconState`](https://github.com/OffchainLabs/prysm/pull/16295#pullrequestreview-3940141266) - 2026-03-12
 ## Q4 2025
 
 

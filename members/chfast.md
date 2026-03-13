@@ -29,6 +29,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [refactor(testing): rename empty_account() to nonexistent_account() (#2462)](https://github.com/ethereum/execution-specs/commit/46aa9345424a15c932612f43b91ae906523767b0) - 2026-03-10
 * [Commit] [chore(tests): delete already-ported extCodeHash static file (#2463)](https://github.com/ethereum/execution-specs/commit/525810670fd06f1ff228f8514e41a76c340def78) - 2026-03-10
 * [Commit] [feat(tests): port EXTCODEHASH subcall CREATE2 OOG test (#2458)](https://github.com/ethereum/execution-specs/commit/ae78d8ab2332c4a0c7acc166850ab013b511f8bd) - 2026-03-10
+* [Pull Request] [feat(tests): add state restoration tests for reverted sub-calls](https://github.com/ethereum/execution-specs/pull/2494) - 2026-03-12
+* [Pull Request] [feat(tests): port MCOPY_memory_hashFiller repeated copy test](https://github.com/ethereum/execution-specs/pull/2490) - 2026-03-12
+* [Pull Request] [feat(tests): port stSLoadTest static test and delete original](https://github.com/ethereum/execution-specs/pull/2489) - 2026-03-12
+* [Pull Request] [feat(tests): port stZeroKnowledge ECADD static tests](https://github.com/ethereum/execution-specs/pull/2477) - 2026-03-12
+* [Commit] [feat(tests): port MCOPY_memory_hashFiller repeated copy test (#2490)](https://github.com/ethereum/execution-specs/commit/26c9d414b4198fa4d5d9a504917cb01df8570e9c) - 2026-03-12
+* [Commit] [feat(tests): port stSLoadTest static test and delete original (#2489)](https://github.com/ethereum/execution-specs/commit/cbcf700b7ab16d0a5e1a73d32935609675cc9495) - 2026-03-12
+* [Commit] [feat(tests): port stZeroKnowledge ECADD static tests (#2477)](https://github.com/ethereum/execution-specs/commit/348a42393dda6ed761739f2f11803ecbfad7bb3c) - 2026-03-12
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Pull Request] [ci: Upgrade riscv toolchain and harden curl downloads](https://github.com/ipsilon/evmone/pull/1418) - 2026-01-06
 * [Pull Request] [test: Add modexp test vectors for even modulus and edge cases](https://github.com/ipsilon/evmone/pull/1421) - 2026-01-15
@@ -55,6 +62,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Use dynamic spans in modexp_odd and mul_amm](https://github.com/ipsilon/evmone/pull/1462) - 2026-03-03
 * [Pull Request] [changelog: List changes for 0.19 release](https://github.com/ipsilon/evmone/pull/1463) - 2026-03-04
 * [Pull Request] [crypto: Use exact size for x1 in modexp_even CRT](https://github.com/ipsilon/evmone/pull/1465) - 2026-03-09
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936881731) - 2026-03-12
 ## Q4 2025
 
 

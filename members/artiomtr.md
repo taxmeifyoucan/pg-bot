@@ -21,6 +21,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Update rust toolchain to 1.92.0](https://github.com/grandinetech/grandine/pull/557) - 2026-02-04
 * [Pull Request] [Moved column (re)construction to dedicated executor](https://github.com/grandinetech/grandine/pull/596) - 2026-02-08
 * [Pull Request] [Disable nethermind build & publish for stable releases](https://github.com/grandinetech/grandine/pull/604) - 2026-02-23
+* [Pull Request] [Use nethermind reference assemblies from github](https://github.com/grandinetech/grandine/pull/635) - 2026-03-12
+* [Review] [Review on: Add `engine_forkchoiceUpdatedV4` support for BAL](https://github.com/grandinetech/grandine/pull/633#pullrequestreview-3937062100) - 2026-03-12
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] [Override default CLI option alias](https://github.com/NethermindEth/nethermind/pull/10148) - 2026-01-12
 

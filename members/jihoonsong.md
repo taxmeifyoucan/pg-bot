@@ -15,6 +15,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Rename execution_payload_states to payload_states](https://github.com/ethereum/consensus-specs/pull/4930) - 2026-02-16
 * [Pull Request] [Update execution proof construction to use beacon block](https://github.com/ethereum/consensus-specs/pull/4941) - 2026-02-19
 * [Pull Request] [Promote EIP-7805 to Heze](https://github.com/ethereum/consensus-specs/pull/4942) - 2026-02-20
+* [Review] [Review on: Add `parent_block_root` to bid filtering key](https://github.com/ethereum/consensus-specs/pull/5001#pullrequestreview-3938309821) - 2026-03-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add primary contributions of Jihoon Song](https://github.com/protocolguild/documentation/pull/467) - 2026-01-11
 * [Pull Request] []() - 2026-01-12

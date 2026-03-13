@@ -8,6 +8,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 
 ## Contributions
 
+## Q1 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Throw RLPException that is handled correctly instead of IllegalArgumentException](https://github.com/besu-eth/besu/pull/10025) - 2026-03-12
+* [Pull Request] [Do not log a warning when retrying](https://github.com/besu-eth/besu/pull/10023) - 2026-03-12
+* [Commit] [Throw RLPException that is handled correctly instead of IllegalArgumentException (#10025)](https://github.com/besu-eth/besu/commit/604899cebbf5e2f9b5b53d65b86a90ec132096e1) - 2026-03-12
+* [Commit] [Change log level to debug (#10023)](https://github.com/besu-eth/besu/commit/9ed7c549925700ffbbe35de60a287243dc5132ef) - 2026-03-12
 ## Q4 2025
 
 

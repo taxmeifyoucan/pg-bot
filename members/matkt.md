@@ -19,5 +19,6 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Amsterdam: EIP-8037: State Creation Gas Cost Increase](https://github.com/besu-eth/besu/pull/9815#pullrequestreview-3920121210) - 2026-03-10
 * [Review] [Review on: Merge trace-streaming into bal-devnet-2](https://github.com/besu-eth/besu/pull/10011#pullrequestreview-3922727156) - 2026-03-10
 * [Review] [Review on: Use existing RLP methods in trie log prune batch files](https://github.com/besu-eth/besu/pull/10009#pullrequestreview-3920298872) - 2026-03-10
+* [Pull Request] [Propose Miroslav Kovář as a maintainer](https://github.com/besu-eth/besu/pull/10033) - 2026-03-12
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Pull Request] [use set for the StemPrunableNodeRegistry](https://github.com/besu-eth/besu-stateless/pull/90) - 2026-02-27

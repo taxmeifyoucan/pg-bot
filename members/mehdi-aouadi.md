@@ -33,6 +33,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [add proposer preferences container (#10467)](https://github.com/Consensys/teku/commit/5669598367dfe187f345e0530cabda7c7d4a8896) - 2026-03-10
 * [Review] [Review on: Update DB migration according to the current state (main direction of migration LevelDB -> RocksDB)](https://github.com/Consensys/teku/pull/10471#pullrequestreview-3923655061) - 2026-03-10
 * [Review] [Review on: add proposer preferences container](https://github.com/Consensys/teku/pull/10467#pullrequestreview-3920807264) - 2026-03-10
+* [Review] [Review on: Reqresp remove noncanonical sidecars](https://github.com/Consensys/teku/pull/10486#pullrequestreview-3938568727) - 2026-03-12
+* [Pull Request] [10259 3 proposer preferences](https://github.com/Consensys/teku/pull/10483) - 2026-03-12
+* [Review] [Review on: 10259 proposer preferences gossip](https://github.com/Consensys/teku/pull/10472#pullrequestreview-3935437845) - 2026-03-12
+* [Commit] [10259 proposer preferences gossip (#10472)](https://github.com/Consensys/teku/commit/a82a0eb314d596187c79d0548891719b24ac709b) - 2026-03-12
 ## Q4 2025
 
 

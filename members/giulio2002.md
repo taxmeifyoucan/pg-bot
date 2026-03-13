@@ -38,6 +38,12 @@ Team: Erigon
 * [Commit] [[SharovBot] ci: increase test timeout to 30m on windows-2025 to fix eest_blockchain marginal failure (#19771)](https://github.com/erigontech/erigon/commit/ae876c6ee377db01d56834d6002f62755b1cee11) - 2026-03-10
 * [Review] [Review on: cl/beacon: fix nil pointer panics in GetEthV1ValidatorAttestationData](https://github.com/erigontech/erigon/pull/19783#pullrequestreview-3925656618) - 2026-03-10
 * [Review] [Review on: mark `commitment history` feature as non-experimental](https://github.com/erigontech/erigon/pull/19774#pullrequestreview-3924713020) - 2026-03-10
+* [Pull Request] [[SharovBot] chain: fix Osaka blob config and amsterdam schedule key](https://github.com/erigontech/erigon/pull/19846) - 2026-03-12
+* [Pull Request] [[SharovBot] chain: add default Osaka blob config and fix Amsterdam blob schedule key](https://github.com/erigontech/erigon/pull/19850) - 2026-03-12
+* [Review] [Review on: bt.Get: use dedicated buffer](https://github.com/erigontech/erigon/pull/19842#pullrequestreview-3935670218) - 2026-03-12
+* [Review] [Review on: agg: allow build without merge](https://github.com/erigontech/erigon/pull/19844#pullrequestreview-3935669997) - 2026-03-12
+* [Review] [Review on: integration: `engine.Close()`](https://github.com/erigontech/erigon/pull/19843#pullrequestreview-3935670129) - 2026-03-12
+* [Review] [Review on: pagedWriter: one method to build page](https://github.com/erigontech/erigon/pull/19841#pullrequestreview-3935670296) - 2026-03-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Engine API Communication Channels](https://github.com/ethereum/EIPs/pull/11360) - 2026-02-28
 

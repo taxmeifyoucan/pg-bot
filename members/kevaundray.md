@@ -44,11 +44,23 @@ Team: Consensus R&D (EF)
 * [Issue] [Unused public key parameter in stateless code](https://github.com/ethereum/execution-specs/issues/2448) - 2026-03-09
 * [Pull Request] [chore(do not merge): evmification](https://github.com/ethereum/execution-specs/pull/2471) - 2026-03-10
 * [Review] [Review on: feat(zkevm): Add execution witness bytecode assertions and mutation support](https://github.com/ethereum/execution-specs/pull/2469#pullrequestreview-3923637143) - 2026-03-10
+* [Pull Request] [chore: Add back invalid blocks](https://github.com/ethereum/execution-specs/pull/2495) - 2026-03-13
+* [Review] [Review on: feat(zkevm): add testing framework support for headers in execution witness and appropriate test coverage](https://github.com/ethereum/execution-specs/pull/2492#pullrequestreview-3938685367) - 2026-03-12
+* [Review] [Review on: feat(zkevm): add execution witness bytecode tests for SELFDESTRUCT and extra CALL-like opcode scenarios](https://github.com/ethereum/execution-specs/pull/2491#pullrequestreview-3937342785) - 2026-03-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Issue] [Consider testing stateless execution against EEST fixtures](https://github.com/NethermindEth/nethermind/issues/10749) - 2026-03-07
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [chore(do not merge): check zkevm test fixtures failures](https://github.com/ethereum/go-ethereum/pull/33996) - 2026-03-13
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807) - 2026-03-12
+* [Review] [Review on: feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807#pullrequestreview-3936922823) - 2026-03-12
+* [Pull Request] [fix(ssz): Add validation checks for BitList and BitVector](https://github.com/NethermindEth/nethermind/pull/10796) - 2026-03-12
+* [Pull Request] [fix(ssz): Container decode logic for BitVector and validation fixes for container input](https://github.com/NethermindEth/nethermind/pull/10797) - 2026-03-12
 ## Q4 2025
 
 

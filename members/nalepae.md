@@ -20,6 +20,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Do not copy the finalized state when computing validators custody requirements](https://github.com/OffchainLabs/prysm/issues/16354) - 2026-02-12
 * [Issue] [Extra memory consumed for unknown reason](https://github.com/OffchainLabs/prysm/issues/16376) - 2026-02-20
 * [Issue] [Execution payload envelope does not support slot as block identifier](https://github.com/OffchainLabs/prysm/issues/16494) - 2026-03-07
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: sync,verification: add Gloas data column gossip validation path](https://github.com/OffchainLabs/prysm/pull/16515#pullrequestreview-3936374190) - 2026-03-12
+* [Review] [Review on: adding grpc endpoints for attester, proposer, sync duties, and ptc duties](https://github.com/OffchainLabs/prysm/pull/16416#pullrequestreview-3936231544) - 2026-03-12
 ## Q4 2025
 
 

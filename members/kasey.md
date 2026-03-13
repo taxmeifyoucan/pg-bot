@@ -13,6 +13,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [benchmark measuring proof verification with different numbers of cells](https://github.com/ethereum/c-kzg-4844/pull/624) - 2026-02-12
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: do not merge - partial columns integration](https://github.com/OffchainLabs/prysm/pull/16505#pullrequestreview-3939156100) - 2026-03-12
+* [Issue] [Metrics: head_updated_slot_offset_seconds](https://github.com/OffchainLabs/prysm/issues/16518) - 2026-03-12
 ## Q4 2025
 
 

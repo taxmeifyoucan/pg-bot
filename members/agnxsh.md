@@ -18,6 +18,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [modularise message routing for sidecars](https://github.com/status-im/nimbus-eth2/pull/7751) - 2026-01-22
 * [Pull Request] [add metric to monitor column validation latency](https://github.com/status-im/nimbus-eth2/pull/8056) - 2026-03-04
 * [Pull Request] [update column quarantine, and supernode behaviour](https://github.com/status-im/nimbus-eth2/pull/8061) - 2026-03-07
+* [Pull Request] [Div 2 + 1 elimination and tests modification.](https://github.com/status-im/nimbus-eth2/pull/8074) - 2026-03-12
 ## Q4 2025
 
 

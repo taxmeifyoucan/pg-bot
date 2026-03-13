@@ -32,6 +32,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [protoarray lookup optimization (#10448)](https://github.com/Consensys/teku/commit/616b29a770f098ac412559829d1e3cca42e5f95c) - 2026-03-10
 * [Review] [Review on: Engine api optimizations](https://github.com/Consensys/teku/pull/10469#pullrequestreview-3920771283) - 2026-03-10
 * [Review] [Review on: Engine api optimizations](https://github.com/Consensys/teku/pull/10469#pullrequestreview-3921573699) - 2026-03-10
+* [Review] [Review on: Use CombinedChainDataClient.getSlotByBlockRoot where it could be used instead of full block retrieval](https://github.com/Consensys/teku/pull/10485#pullrequestreview-3937178337) - 2026-03-12
+* [Pull Request] [Javalin7](https://github.com/Consensys/teku/pull/10484) - 2026-03-12
 ## Q4 2025
 
 

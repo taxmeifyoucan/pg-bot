@@ -28,6 +28,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Update DB migration according to the current state (main direction of migration LevelDB -> RocksDB)](https://github.com/Consensys/teku/pull/10471) - 2026-03-10
 * [Commit] [Update according to the current state (main direction of migration LevelDB2 -> RocksDB) (#10471)](https://github.com/Consensys/teku/commit/260d0aeb67951a4f2e6df633966a4e41960a2ce0) - 2026-03-10
+* [Pull Request] [Reqresp remove noncanonical sidecars](https://github.com/Consensys/teku/pull/10486) - 2026-03-12
+* [Pull Request] [Use CombinedChainDataClient.getSlotByBlockRoot where it could be used instead of full block retrieval](https://github.com/Consensys/teku/pull/10485) - 2026-03-12
+* [Pull Request] [Add logic on ReqResp handlers for sidecar reconstruction](https://github.com/Consensys/teku/pull/10153) - 2026-03-12
+* [Commit] [Reqresp remove noncanonical sidecars (#10486)](https://github.com/Consensys/teku/commit/a803d21a0cfa4d7801cb3884cc0125447b4d2402) - 2026-03-12
+* [Commit] [Use CombinedChainDataClient.getSlotByBlockRoot where it could be used instead of full block retrieval (#10485)](https://github.com/Consensys/teku/commit/c59d0f07a2121265b4f41e7e3f4cd52e1eb5a831) - 2026-03-12
+* [Commit] [Add logic on ReqResp handlers for sidecar reconstruction (#10153)](https://github.com/Consensys/teku/commit/21f9293f465a21b75106bc8585090e38988f009d) - 2026-03-12
 ## Q4 2025
 
 

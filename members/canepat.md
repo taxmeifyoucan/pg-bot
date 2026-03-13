@@ -26,6 +26,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: avoid header read in eth_feeHistory](https://github.com/erigontech/erigon/pull/19127) - 2026-02-11
 * [Issue] [eth: add eth_capabilities RPC method](https://github.com/erigontech/erigon/issues/19762) - 2026-03-09
 * [Issue] [hive: rpc-compat failing test](https://github.com/erigontech/erigon/issues/19758) - 2026-03-09
+* [Pull Request] [hive: update max-allowed-failures 57 for rpc-compat](https://github.com/erigontech/erigon/pull/19863) - 2026-03-12
+* [Review] [Review on: execution: add MaxGasUsed Field to StateTransition](https://github.com/erigontech/erigon/pull/19661#pullrequestreview-3934686133) - 2026-03-12
+* [Review] [Review on: Update test-hive.yml so names will be recognizable test-hive (***, ***)](https://github.com/erigontech/erigon/pull/19852#pullrequestreview-3935217067) - 2026-03-12
+* [Pull Request] [hive: add job name to test-hive workflow](https://github.com/erigontech/erigon/pull/19849) - 2026-03-12
+* [Commit] [hive: update max-allowed-failures 57 for rpc-compat (#19863)](https://github.com/erigontech/erigon/commit/1feb8fc72de2335ef8f200acc8b897c800e32d50) - 2026-03-12
+* [Commit] [hive: add job name to test-hive workflow (#19849)](https://github.com/erigontech/erigon/commit/ff064dd6dfa4689c7ecda636bc9d60f85f03a950) - 2026-03-12
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: fix system-under-test name in alive check](https://github.com/erigontech/rpc-tests/pull/513) - 2026-01-26
 * [Pull Request] []() - 2026-01-28

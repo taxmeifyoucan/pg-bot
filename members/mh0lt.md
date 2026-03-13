@@ -57,6 +57,14 @@ Team: Erigon
 * [Commit] [Remove unused 'isBlockProduction' from ExecV3 (#19760)](https://github.com/erigontech/erigon/commit/495b946f5484d7f7489bfbf05bb7b01e2feac35a) - 2026-03-10
 * [Review] [Review on: vm: fix CREATE/CREATE2 collision with EIP-7702 delegated accounts](https://github.com/erigontech/erigon/pull/19777#pullrequestreview-3924380241) - 2026-03-10
 * [Review] [Review on: txpool: penalize peers sending malformed p2p messages](https://github.com/erigontech/erigon/pull/19781#pullrequestreview-3924372755) - 2026-03-10
+* [Pull Request] [db/kv/mdbx: fix deadlock in async tx channel on context cancellation](https://github.com/erigontech/erigon/pull/19856) - 2026-03-12
+* [Pull Request] [state, stagedsync: split apply loop into state/index/commitment + decouple accumulator](https://github.com/erigontech/erigon/pull/19817) - 2026-03-12
+* [Issue] [EVM multi-dimensional gas: architecture analysis and migration assessment](https://github.com/erigontech/erigon/issues/19865) - 2026-03-12
+* [Issue] [Evaluate running public Caplin checkpoint sync endpoints for dev/test](https://github.com/erigontech/erigon/issues/19860) - 2026-03-12
+* [Issue] [Design: TransactionState/BlockState separation, TxTask refactoring, cross-process TX caching](https://github.com/erigontech/erigon/issues/19855) - 2026-03-12
+* [Commit] [state, stagedsync: split apply loop into state/index/commitment + decouple accumulator (#19817)](https://github.com/erigontech/erigon/commit/e9b4f19101f129482423e41ab327d3a97ca5e7c9) - 2026-03-12
+* [Commit] [parallel: reduce execRequests/in/applyResults buffers from 100k to prevent OOM (#19818)](https://github.com/erigontech/erigon/commit/2e1545e5e8eb6cbb25cef42eaa016c44ebb15684) - 2026-03-12
+* [Commit] [execution/stagedsync: use read-only tx in MiningStep (#19821)](https://github.com/erigontech/erigon/commit/cdc5c5b66ab6485611aca944414ca457891773b1) - 2026-03-12
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

@@ -25,6 +25,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Chore/repricing dedicated runners](https://github.com/NethermindEth/gas-benchmarks/pull/124) - 2026-02-22
 * [Pull Request] [Fix/report generation bugs](https://github.com/NethermindEth/gas-benchmarks/pull/125) - 2026-02-23
 * [Pull Request] [fix: init execution-specs submodules after clone/pull](https://github.com/NethermindEth/gas-benchmarks/pull/130) - 2026-02-27
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [fix: background task scheduler — remove re-queue loop, add cancellation bail-outs](https://github.com/NethermindEth/nethermind/pull/10722) - 2026-03-12
+* [Commit] [fix: background task scheduler — remove re-queue loop, add cancellation bail-outs (#10722)](https://github.com/NethermindEth/nethermind/commit/5d312acbf88f8fc851132083b3f61a908465c185) - 2026-03-12
 ## Q4 2025
 
 

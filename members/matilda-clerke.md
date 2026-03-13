@@ -16,6 +16,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Change default batch size for snap sync download pipeline](https://github.com/besu-eth/besu/pull/9943) - 2026-03-03
 * [Review] [Review on: EIP-8159: eth/71 - Block Access List Exchange](https://github.com/besu-eth/besu/pull/9966#pullrequestreview-3926250034) - 2026-03-11
 * [Review] [Review on: Update --bootnodes description and throw exception is mixed enode and ENR bootnodes are present](https://github.com/besu-eth/besu/pull/9955#pullrequestreview-3926008516) - 2026-03-10
+* [Pull Request] [Remove Peer Task System feature toggle from DownloadBodiesStep](https://github.com/besu-eth/besu/pull/9952) - 2026-03-12
+* [Commit] [Remove Peer Task System feature toggle from DownloadBodiesStep (#9952)](https://github.com/besu-eth/besu/commit/2d7fae9929ef6cf871ddc09a9531853cba9cdffd) - 2026-03-12
 ## Q4 2025
 
 

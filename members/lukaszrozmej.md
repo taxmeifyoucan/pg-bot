@@ -41,6 +41,20 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Fix assertoor workflow: bump setup-python to v6](https://github.com/NethermindEth/nethermind/pull/10645#pullrequestreview-3921086928) - 2026-03-10
 * [Review] [Review on: feat: add ci reporter action](https://github.com/NethermindEth/nethermind/pull/10564#pullrequestreview-3921103119) - 2026-03-10
 * [Review] [Review on: Eliminate per-instance ValueFactory delegate allocations in PrewarmerScopeProvider](https://github.com/NethermindEth/nethermind/pull/10754#pullrequestreview-3921044040) - 2026-03-10
+* [Pull Request] [Refactor EIP-7708 transfer logs to use generic TEip7708 flag](https://github.com/NethermindEth/nethermind/pull/10817) - 2026-03-13
+* [Pull Request] [refactor: comprehensive test and code deduplication](https://github.com/NethermindEth/nethermind/pull/10815) - 2026-03-12
+* [Review] [Review on: Rework engine API versioning](https://github.com/NethermindEth/nethermind/pull/10786#pullrequestreview-3934745592) - 2026-03-12
+* [Review] [Review on: Restore Taiko FCU timestamp validation allowing equal timestamps](https://github.com/NethermindEth/nethermind/pull/10810#pullrequestreview-3937856096) - 2026-03-12
+* [Review] [Review on: Bal devnet 3](https://github.com/NethermindEth/nethermind/pull/10697#pullrequestreview-3935690066) - 2026-03-12
+* [Review] [Review on: fix: background task scheduler — remove re-queue loop, add cancellation bail-outs](https://github.com/NethermindEth/nethermind/pull/10722#pullrequestreview-3937684115) - 2026-03-12
+* [Review] [Review on: perf: add fast MVCC snapshots for MemDb in FlatDb tests](https://github.com/NethermindEth/nethermind/pull/10792#pullrequestreview-3935639705) - 2026-03-12
+* [Review] [Review on: fix: fix hardcoded PadDirection in SliceWithZeroPadding UInt256 overloads](https://github.com/NethermindEth/nethermind/pull/10800#pullrequestreview-3934926890) - 2026-03-12
+* [Review] [Review on: refactor: introduce factory pattern for protocol handlers](https://github.com/NethermindEth/nethermind/pull/10781#pullrequestreview-3934207057) - 2026-03-12
+* [Pull Request] [Fix flaky SyncDispatcher disposal race in CountdownEvent](https://github.com/NethermindEth/nethermind/pull/10804) - 2026-03-12
+* [Pull Request] [refactor protocol factory refactor](https://github.com/NethermindEth/nethermind/pull/10801) - 2026-03-12
+* [Pull Request] [fix Can_change_branch_on_invalid_block_when_invalid_branch_is_in_the_queue()](https://github.com/NethermindEth/nethermind/pull/10799) - 2026-03-12
+* [Commit] [Fix flaky SyncDispatcher disposal race in CountdownEvent (#10804)](https://github.com/NethermindEth/nethermind/commit/2a1126b027cf61b9017406e134b55c63652d1344) - 2026-03-12
+* [Commit] [fix Can_change_branch_on_invalid_block_when_invalid_branch_is_in_the_queue() (#10799)](https://github.com/NethermindEth/nethermind/commit/4c6cea2460249707d674125e358e6218e3b87957) - 2026-03-12
 ## Q4 2025
 
 

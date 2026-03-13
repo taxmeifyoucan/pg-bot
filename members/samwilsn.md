@@ -31,6 +31,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(specs): refactor BALs into one file; document it](https://github.com/ethereum/execution-specs/pull/2263) - 2026-02-22
 * [Issue] [Change EEST's `Address` equality to account for typing](https://github.com/ethereum/execution-specs/issues/2290) - 2026-02-23
 * [Pull Request] [chore(ci): don't close pull requests](https://github.com/ethereum/execution-specs/pull/2470) - 2026-03-10
+* [Pull Request] [chore(ci): reduce pypy test set](https://github.com/ethereum/execution-specs/pull/2482) - 2026-03-12
+* [Commit] [chore(ci): reduce pypy test set (#2482)](https://github.com/ethereum/execution-specs/commit/844eed610c0b4f7fd92c44581ef8dd5a3b579b96) - 2026-03-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs #38, February 18, 2026](https://github.com/ethereum/pm/issues/1909) - 2026-01-29
 ## Q4 2025

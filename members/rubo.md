@@ -32,6 +32,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [docs: Clarify guideline about infra (#10767)](https://github.com/NethermindEth/nethermind/commit/3a3e065a94084347357e8f33e1ec993c6ab0385d) - 2026-03-10
 * [Review] [Review on: ci: Add Claude review](https://github.com/NethermindEth/nethermind/pull/10768#pullrequestreview-3923191031) - 2026-03-10
 * [Review] [Review on: chore: add code review instructions for GitHub Copilot](https://github.com/NethermindEth/nethermind/pull/10602#pullrequestreview-3921405865) - 2026-03-10
+* [Pull Request] [chore: Refactor and rename BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/10808) - 2026-03-12
+* [Review] [Review on: chore: Refactor and rename BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/10808#pullrequestreview-3938335457) - 2026-03-12
 ## Q4 2025
 
 

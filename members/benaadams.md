@@ -45,6 +45,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: docs: Clarify guideline about infra](https://github.com/NethermindEth/nethermind/pull/10767#pullrequestreview-3923317639) - 2026-03-10
 * [Review] [Review on: Expand retry cache](https://github.com/NethermindEth/nethermind/pull/10739#pullrequestreview-3923369324) - 2026-03-10
 * [Review] [Review on: fix(ui): assign slice result to txsToAdd array](https://github.com/NethermindEth/nethermind/pull/10724#pullrequestreview-3923360517) - 2026-03-10
+* [Review] [Review on: chore: Refactor and rename BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/10808#pullrequestreview-3940403246) - 2026-03-12
+* [Review] [Review on: fix: background task scheduler — remove re-queue loop, add cancellation bail-outs](https://github.com/NethermindEth/nethermind/pull/10722#pullrequestreview-3936570636) - 2026-03-12
+* [Review] [Review on: Fix/taiko ci timeout](https://github.com/NethermindEth/nethermind/pull/10806#pullrequestreview-3936546133) - 2026-03-12
+* [Review] [Review on: Fix flaky SyncDispatcher disposal race in CountdownEvent](https://github.com/NethermindEth/nethermind/pull/10804#pullrequestreview-3935963992) - 2026-03-12
 ## Q4 2025
 
 

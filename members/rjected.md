@@ -34,6 +34,10 @@ Team: Reth
 * [Review] [Review on: feat(download): use snapshots.reth.rs API with --list](https://github.com/paradigmxyz/reth/pull/22859#pullrequestreview-3924651371) - 2026-03-10
 * [Review] [Review on: feat(download): use snapshots.reth.rs API with --list](https://github.com/paradigmxyz/reth/pull/22859#pullrequestreview-3925470256) - 2026-03-10
 * [Review] [Review on: feat: add verisions to the reth download metadata](https://github.com/paradigmxyz/reth/pull/22921#pullrequestreview-3923344138) - 2026-03-10
+* [Review] [Review on: chore(bench): limit reth memory to 95% of available RAM](https://github.com/paradigmxyz/reth/pull/23005#pullrequestreview-3939667385) - 2026-03-12
+* [Review] [Review on: fix(provider): heal finalized/safe block numbers ahead of highest header](https://github.com/paradigmxyz/reth/pull/22998#pullrequestreview-3938819980) - 2026-03-12
+* [Pull Request] [feat(node-builder): add with_rocksdb_provider to NodeBuilder](https://github.com/paradigmxyz/reth/pull/22970) - 2026-03-12
+* [Commit] [feat(node-builder): add with_rocksdb_provider to NodeBuilder (#22970)](https://github.com/paradigmxyz/reth/commit/b37b881074859f2b33cdfa9019f799e06dc421fa) - 2026-03-12
 ## Q4 2025
 
 

@@ -37,6 +37,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Pull Request] [fix: resolve golangci-lint issues](https://github.com/ethpandaops/contributoor/pull/195) - 2026-03-11
 * [Pull Request] [chore: bump go-ethereum to v1.17.1](https://github.com/ethpandaops/contributoor/pull/194) - 2026-03-10
+* [Pull Request] [chore: update Go dependencies](https://github.com/ethpandaops/contributoor/pull/210) - 2026-03-12
+* [Pull Request] [chore: update Go dependencies](https://github.com/ethpandaops/contributoor/pull/209) - 2026-03-12
+* [Pull Request] [chore: update Go dependencies](https://github.com/ethpandaops/contributoor/pull/208) - 2026-03-12
+* [Pull Request] [chore: update Go dependencies](https://github.com/ethpandaops/contributoor/pull/207) - 2026-03-12
+* [Pull Request] [chore: update Go module dependencies](https://github.com/ethpandaops/contributoor/pull/206) - 2026-03-12
+* [Pull Request] [chore: update Go dependencies](https://github.com/ethpandaops/contributoor/pull/205) - 2026-03-12
+* [Pull Request] [chore: update Go dependencies](https://github.com/ethpandaops/contributoor/pull/204) - 2026-03-12
 ## Q4 2025
 
 

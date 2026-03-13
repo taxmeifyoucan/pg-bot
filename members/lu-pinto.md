@@ -19,6 +19,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Fix addMod case in Modulus256](https://github.com/besu-eth/besu/pull/10001#pullrequestreview-3921842733) - 2026-03-10
 * [Review] [Review on: Fix addMod case in Modulus256](https://github.com/besu-eth/besu/pull/10001#pullrequestreview-3922612681) - 2026-03-10
 * [Review] [Review on: Intrinsify byte-long conversion in UInt256](https://github.com/besu-eth/besu/pull/9976#pullrequestreview-3924527771) - 2026-03-10
+* [Review] [Review on: Implement div sdiv with longs](https://github.com/besu-eth/besu/pull/9923#pullrequestreview-3938700623) - 2026-03-12
+* [Review] [Review on: Use cache locality to improve Shift opcodes](https://github.com/besu-eth/besu/pull/9878#pullrequestreview-3935890099) - 2026-03-12
 ## Q4 2025
 
 

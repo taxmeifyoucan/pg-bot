@@ -14,6 +14,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add test for execution payload with wrong withdrawals](https://github.com/ethereum/consensus-specs/pull/4856) - 2026-01-22
 
+* [Pull Request] [Make wordings clearer for self build payload signature verification](https://github.com/ethereum/consensus-specs/pull/5002) - 2026-03-13
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [Implement queue for execution payload in Gloas](https://github.com/ChainSafe/lodestar/issues/8811) - 2026-01-30
 * [Pull Request] [feat: add gloas block import pipeline](https://github.com/ChainSafe/lodestar/pull/8940) - 2026-02-25
@@ -23,6 +24,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Pull Request] [refactor: clone state in processExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9015) - 2026-03-10
+* [Issue] [Review validator monitor usage](https://github.com/ChainSafe/lodestar/issues/9024) - 2026-03-12
 ## Q4 2025
 
 

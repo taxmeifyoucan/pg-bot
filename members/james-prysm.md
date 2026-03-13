@@ -37,6 +37,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [adding payload_attestation_message event](https://github.com/OffchainLabs/prysm/pull/16506) - 2026-03-10
 * [Pull Request] [fix to attestation pool to only consume on insert](https://github.com/OffchainLabs/prysm/pull/16503) - 2026-03-10
 * [Commit] [adding payload attestation apis connection from validator client (#16504)](https://github.com/OffchainLabs/prysm/commit/b17f2752ab2964366002d7beaaecb47a80f6e8cb) - 2026-03-10
+* [Pull Request] [changed /eth/v1/beacon/execution_payload_envelope/{block_root} to /eth/v1/beacon/execution_payload_envelope/{block_id} defined in beacon apis](https://github.com/OffchainLabs/prysm/pull/16521) - 2026-03-12
+* [Pull Request] [implementing envelope rest apis ](https://github.com/OffchainLabs/prysm/pull/16522) - 2026-03-12
+* [Review] [Review on: adding grpc endpoints for attester, proposer, sync duties, and ptc duties](https://github.com/OffchainLabs/prysm/pull/16416#pullrequestreview-3937318318) - 2026-03-12
+* [Review] [Review on: Remove next epoch lookahead from PTC duties](https://github.com/OffchainLabs/prysm/pull/16517#pullrequestreview-3937931671) - 2026-03-12
 ## Q4 2025
 
 

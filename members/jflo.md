@@ -21,6 +21,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [26.3.0-RC0](https://github.com/besu-eth/besu/issues/10016) - 2026-03-10
 * [Commit] [26.3.0-rc0 prep (#10017)](https://github.com/besu-eth/besu/commit/90687901b44948f364c5560213026c95f7ea543e) - 2026-03-10
 * [Commit] [Update GitHub repository references from hyperledger/besu to besu-eth/besu (#10015)](https://github.com/besu-eth/besu/commit/fc77470d2c683d09456c7bec0914af74fd1eb254) - 2026-03-10
+* [Review] [Review on: Propose Miroslav Kovář as a maintainer](https://github.com/besu-eth/besu/pull/10033#pullrequestreview-3938585104) - 2026-03-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #0, February 18, 2026](https://github.com/ethereum/pm/issues/1929) - 2026-02-16
 * [Issue] [Encrypt The Mempool #1, March 4, 2026](https://github.com/ethereum/pm/issues/1945) - 2026-02-23

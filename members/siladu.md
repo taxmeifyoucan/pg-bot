@@ -27,6 +27,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] [Benchmarking docs](https://github.com/besu-eth/besu/pull/9998) - 2026-03-09
 * [Pull Request] [Use existing RLP methods in trie log prune batch files](https://github.com/besu-eth/besu/pull/10009) - 2026-03-10
 * [Review] [Review on: enable local gradle caching ](https://github.com/besu-eth/besu/pull/10008#pullrequestreview-3919946351) - 2026-03-10
+* [Pull Request] [Wire up MulOperationOptimized and SubOperationOptimized to EVM ](https://github.com/besu-eth/besu/pull/10030) - 2026-03-12
 ## Q4 2025
 
 

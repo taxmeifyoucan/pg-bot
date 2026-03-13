@@ -23,6 +23,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [perf: decrease sparse trie task updates batch size](https://github.com/paradigmxyz/reth/pull/22917) - 2026-03-10
 * [Review] [Review on: perf(engine): replace moka with schnellru for precompile cache and add per-precompile sizing](https://github.com/paradigmxyz/reth/pull/22900#pullrequestreview-3925063932) - 2026-03-10
 * [Review] [Review on: chore: bump reth v1.11.2](https://github.com/paradigmxyz/reth/pull/22914#pullrequestreview-3922570101) - 2026-03-10
+* [Review] [Review on: feat(node-builder): add with_rocksdb_provider to NodeBuilder](https://github.com/paradigmxyz/reth/pull/22970#pullrequestreview-3938141237) - 2026-03-12
+* [Review] [Review on: fix(rpc): disable fee charge for eth_estimateGas](https://github.com/paradigmxyz/reth/pull/22959#pullrequestreview-3937799484) - 2026-03-12
+* [Review] [Review on: fix(tasks): install panic handler on all worker pools](https://github.com/paradigmxyz/reth/pull/22993#pullrequestreview-3935973101) - 2026-03-12
 ## Q4 2025
 
 

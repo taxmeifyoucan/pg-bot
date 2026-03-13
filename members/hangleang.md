@@ -21,6 +21,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [`GET /eth/v2/node/version`](https://github.com/grandinetech/grandine/pull/599) - 2026-02-11
 * [Pull Request] [Send full signed execution payload bid to event stream](https://github.com/grandinetech/grandine/pull/601) - 2026-02-13
 * [Pull Request] [Add payload attestation tick](https://github.com/grandinetech/grandine/pull/603) - 2026-02-16
+* [Pull Request] [Add `engine_forkchoiceUpdatedV4` support for BAL](https://github.com/grandinetech/grandine/pull/633) - 2026-03-12
+* [Pull Request] [Deduplicate CI build runs for internal PRs](https://github.com/grandinetech/grandine/pull/634) - 2026-03-12
+* [Commit] [Send signed execution payload bid event](https://github.com/grandinetech/grandine/commit/ea23cb75041cfd43efa4dd540c8dd7cf8f5c6c4f) - 2026-03-12
 ## Q4 2025
 
 

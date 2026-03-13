@@ -8,6 +8,12 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770) - 2026-03-12
+* [Pull Request] [engine: Rebase fcuV4 spec points onto fcuV3](https://github.com/ethereum/execution-apis/pull/769) - 2026-03-12
 ## Q4 2025
 
 

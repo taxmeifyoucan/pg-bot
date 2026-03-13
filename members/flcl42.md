@@ -22,6 +22,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Fix rare `IndexOutOfRangeException` in `eth_getLogs` when block data is missing](https://github.com/NethermindEth/nethermind/pull/10771#pullrequestreview-3924160422) - 2026-03-10
 * [Review] [Review on: Enforce GasCap across debug and trace RPC methods](https://github.com/NethermindEth/nethermind/pull/10457#pullrequestreview-3923273548) - 2026-03-10
 * [Review] [Review on: feat(jsonrpc): add eth_subscribe transactionReceipts subscription](https://github.com/NethermindEth/nethermind/pull/10524#pullrequestreview-3921530800) - 2026-03-10
+* [Review] [Review on: chore: Refactor and rename BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/10808#pullrequestreview-3939293091) - 2026-03-12
+* [Review] [Review on: fix: fix hardcoded PadDirection in SliceWithZeroPadding UInt256 overloads](https://github.com/NethermindEth/nethermind/pull/10800#pullrequestreview-3935387257) - 2026-03-12
+* [Review] [Review on: fix(ssz): Uint128 decode method swapped upper and lower halves ](https://github.com/NethermindEth/nethermind/pull/10794#pullrequestreview-3935205639) - 2026-03-12
+* [Review] [Review on: fix(ssz): Merkleizer list Feed now uses correct chunk limit and actual length for mixin](https://github.com/NethermindEth/nethermind/pull/10795#pullrequestreview-3935207138) - 2026-03-12
+* [Review] [Review on: fix(ssz): Add validation checks for BitList and BitVector](https://github.com/NethermindEth/nethermind/pull/10796#pullrequestreview-3935153453) - 2026-03-12
+* [Review] [Review on: fix(ssz): Container decode logic for BitVector and validation fixes for container input](https://github.com/NethermindEth/nethermind/pull/10797#pullrequestreview-3935130536) - 2026-03-12
 ## Q4 2025
 
 

@@ -26,6 +26,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Create test for same block system contract deployment](https://github.com/ethereum/execution-specs/issues/2270) - 2026-02-21
 * [Issue] [Move `set_delegation` before `process_message_call`](https://github.com/ethereum/execution-specs/issues/2338) - 2026-02-26
 * [Review] [Review on: feat(t8n): handle pre-fork typed txs via `supports_tx_type`](https://github.com/ethereum/execution-specs/pull/2466#pullrequestreview-3924132051) - 2026-03-10
+* [Review] [Review on: feat(specs,tests): Implement EIP-2780](https://github.com/ethereum/execution-specs/pull/2175#pullrequestreview-3935948252) - 2026-03-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332) - 2026-02-18
 ## Q4 2025

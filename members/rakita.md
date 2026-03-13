@@ -45,6 +45,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Issue] [tip1016 pending spec changes](https://github.com/bluealloy/revm/issues/3480) - 2026-03-05
 * [Pull Request] []() - 2026-03-06
 * [Pull Request] [feat(revme): list all failed tests at the end with --keep-going](https://github.com/bluealloy/revm/pull/3491) - 2026-03-10
+* [Pull Request] [fix(revme): use transact state for debug State after output](https://github.com/bluealloy/revm/pull/3498) - 2026-03-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify transaction transfer to different account](https://github.com/ethereum/EIPs/pull/11188) - 2026-01-27
 * [Pull Request] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355) - 2026-03-10

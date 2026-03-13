@@ -28,6 +28,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: fix eth_estimateGas (#19621)](https://github.com/erigontech/erigon/commit/0596d89cdde87f41b94b897e52bd8f3ea075abaf) - 2026-03-10
 * [Review] [Review on: rpc: eth_gasPrice() fix & optimisation](https://github.com/erigontech/erigon/pull/19678#pullrequestreview-3924912823) - 2026-03-10
 * [Review] [Review on: rpc: eth_gasPrice() fix & optimisation](https://github.com/erigontech/erigon/pull/19678#pullrequestreview-3924913799) - 2026-03-10
+* [Pull Request] [fix eth simulation hive](https://github.com/erigontech/erigon/pull/19866) - 2026-03-12
+* [Pull Request] [CI: hive reduce max allowed to 1](https://github.com/erigontech/erigon/pull/19816) - 2026-03-12
+* [Commit] [CI: hive reduce max allowed to 1 (#19816)](https://github.com/erigontech/erigon/commit/abf29eb6f513e2aee97527b766af58edb01c9094) - 2026-03-12
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15

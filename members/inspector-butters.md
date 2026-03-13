@@ -17,3 +17,4 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Issue] ["Could not get state" when calling debug/states endpoint](https://github.com/OffchainLabs/prysm/issues/16497) - 2026-03-08
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Progressive Merkle Tree Core Algorithm (EIP-7916)](https://github.com/OffchainLabs/prysm/pull/16507) - 2026-03-10
+* [Review] [Review on: Hdiff restart support](https://github.com/OffchainLabs/prysm/pull/16389#pullrequestreview-3937888264) - 2026-03-12

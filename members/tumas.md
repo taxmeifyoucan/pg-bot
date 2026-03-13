@@ -28,6 +28,10 @@ Team: Grandine
 * [Pull Request] [Upgrade crates and replace `bincode` with `wincode` & bump Rust version](https://github.com/grandinetech/grandine/pull/630) - 2026-03-03
 * [Pull Request] []() - 2026-03-04
 * [Pull Request] [Update dependencies](https://github.com/grandinetech/grandine/pull/632) - 2026-03-09
+* [Review] [Review on: Check pubkey in pending deposits before register builder](https://github.com/grandinetech/grandine/pull/602#pullrequestreview-3937919707) - 2026-03-12
+* [Review] [Review on: Update `POST /eth/v2/beacon/blocks` to publish only signed beacon block for post-Gloas](https://github.com/grandinetech/grandine/pull/600#pullrequestreview-3937459508) - 2026-03-12
+* [Review] [Review on: Send full signed execution payload bid to event stream](https://github.com/grandinetech/grandine/pull/601#pullrequestreview-3937310437) - 2026-03-12
+* [Review] [Review on: Add payload attestation tick](https://github.com/grandinetech/grandine/pull/603#pullrequestreview-3936444205) - 2026-03-12
 ## Q4 2025
 
 

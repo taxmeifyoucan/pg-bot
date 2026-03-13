@@ -17,6 +17,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [StorageRange Fix](https://github.com/erigontech/erigon/pull/19149) - 2026-02-12
 * [Pull Request] [[kimiko] Analyze all commits that were pushed to the current branch (in](https://github.com/erigontech/erigon/pull/19653) - 2026-03-05
 * [Commit] [[kimiko] cl/sentinel: fix peerstore data race in concurrent peer connections (#19603)  (#19616)](https://github.com/erigontech/erigon/commit/2d94e91a23edfdad4b76aa393c0cdca3eb255762) - 2026-03-10
+* [Review] [Review on: [wip] etl: fastpath for stablesort](https://github.com/erigontech/erigon/pull/19848#pullrequestreview-3935998752) - 2026-03-12
 ## Q4 2025
 
 

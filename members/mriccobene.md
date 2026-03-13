@@ -14,6 +14,9 @@ Team: Erigon
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [qa-tests: RPC integration test (latest) fast failure](https://github.com/erigontech/erigon/pull/18900) - 2026-01-30
 * [Pull Request] [qa-tests: fix fd-leak-analysis artifact name in 'sync with external cl' test](https://github.com/erigontech/erigon/pull/19775) - 2026-03-10
+* [Review] [Review on: hive: update max-allowed-failures 57 for rpc-compat](https://github.com/erigontech/erigon/pull/19863#pullrequestreview-3937618788) - 2026-03-12
+* [Review] [Review on: ci: fix Hive Go version patching for non-alpine base images](https://github.com/erigontech/erigon/pull/19851#pullrequestreview-3935520413) - 2026-03-12
+* [Issue] [The Gnosis Tip-Tracking test sometimes fails due to an insufficient number of Caplin peers](https://github.com/erigontech/erigon/issues/19858) - 2026-03-12
 ## Q4 2025
 
 

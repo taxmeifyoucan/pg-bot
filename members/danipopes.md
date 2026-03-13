@@ -48,6 +48,13 @@ Team: Reth
 * [Review] [Review on: fix(bench): retry HTTP 502 errors in block provider](https://github.com/paradigmxyz/reth/pull/22916#pullrequestreview-3922049763) - 2026-03-10
 * [Review] [Review on: refactor(engine): remove unused MultiProofMessage::EmptyProof variant](https://github.com/paradigmxyz/reth/pull/22909#pullrequestreview-3920895969) - 2026-03-10
 * [Review] [Review on: revert: use line-tables-only debug info for profiling profile](https://github.com/paradigmxyz/reth/pull/22907#pullrequestreview-3920902258) - 2026-03-10
+* [Review] [Review on: fix(net): send disconnect on invalid inbound eth messages](https://github.com/paradigmxyz/reth/pull/22986#pullrequestreview-3940164956) - 2026-03-12
+* [Review] [Review on: fix(bench): guard abba run steps on BENCH_ABBA flag](https://github.com/paradigmxyz/reth/pull/22981#pullrequestreview-3934950666) - 2026-03-12
+* [Review] [Review on: feat(bench): show baseline/feature CLI args in Slack notification](https://github.com/paradigmxyz/reth/pull/22997#pullrequestreview-3937568381) - 2026-03-12
+* [Review] [Review on: fix(tasks): install panic handler on all worker pools](https://github.com/paradigmxyz/reth/pull/22993#pullrequestreview-3935981102) - 2026-03-12
+* [Review] [Review on: feat(payload): add resolve and job-creation latency histograms](https://github.com/paradigmxyz/reth/pull/22978#pullrequestreview-3934961070) - 2026-03-12
+* [Review] [Review on: fix(engine): only count precompile cache hit when gas is sufficient](https://github.com/paradigmxyz/reth/pull/22968#pullrequestreview-3935017371) - 2026-03-12
+* [Review] [Review on: refactor(payload): merge redundant impl blocks](https://github.com/paradigmxyz/reth/pull/22984#pullrequestreview-3934952456) - 2026-03-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25

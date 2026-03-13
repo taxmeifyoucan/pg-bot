@@ -25,12 +25,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(ci): update inputs for ci rebase/merge workflows (#2072)](https://github.com/ethereum/execution-specs/commit/3975d16d906f52cdbf50fc1a70df8b45213b9c10) - 2026-03-10
 * [Review] [Review on: feat(test-consume): initial implementation of the enginex simulator](https://github.com/ethereum/execution-specs/pull/1964#pullrequestreview-3921972963) - 2026-03-10
 * [Review] [Review on: feat(tests): port goevmlab regression tests for EELS consensus bugs ](https://github.com/ethereum/execution-specs/pull/2457#pullrequestreview-3923481734) - 2026-03-10
+* [Review] [Review on: fix(test-benchmark): update `approve` function for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2487#pullrequestreview-3935496621) - 2026-03-12
+* [Review] [Review on: feat(tests): port stZeroKnowledge ECADD static tests](https://github.com/ethereum/execution-specs/pull/2477#pullrequestreview-3935863486) - 2026-03-12
+* [Review] [Review on: Update besu repo reference to besu-eth/besu](https://github.com/ethereum/execution-specs/pull/2488#pullrequestreview-3935519486) - 2026-03-12
+* [Review] [Review on: feat(tests): port Cancun static tests and delete originals](https://github.com/ethereum/execution-specs/pull/2481#pullrequestreview-3935759732) - 2026-03-12
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 
 * [Pull Request] [hiveview: show suites with empty simLog value when running dev mode](https://github.com/ethereum/hive/pull/1400) - 2026-03-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: clarify reservoir mechanics](https://github.com/ethereum/EIPs/pull/11328) - 2026-03-06
+* [Pull Request] [Update EIP-7773: SFI all glamsterdam EIPs included in a devnet](https://github.com/ethereum/EIPs/pull/11399) - 2026-03-12
 ## Q4 2025
 
 

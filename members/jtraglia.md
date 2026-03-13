@@ -39,6 +39,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Improve pytest performance](https://github.com/ethereum/consensus-specs/pull/4987) - 2026-03-06
 * [Pull Request] [Fix sampling config test](https://github.com/ethereum/consensus-specs/pull/4988) - 2026-03-07
 * [Pull Request] [Add support for python 3.14](https://github.com/ethereum/consensus-specs/pull/4995) - 2026-03-10
+* [Review] [Review on: Make wordings clearer for self build payload signature verification](https://github.com/ethereum/consensus-specs/pull/5002#pullrequestreview-3940811324) - 2026-03-13
+* [Review] [Review on: Add executable gossip validation functions for phase0](https://github.com/ethereum/consensus-specs/pull/4902#pullrequestreview-3933410729) - 2026-03-12
+* [Pull Request] [Add `parent_block_root` to bid filtering key](https://github.com/ethereum/consensus-specs/pull/5001) - 2026-03-12
+* [Review] [Review on: Add cached PTCs to the state](https://github.com/ethereum/consensus-specs/pull/4992#pullrequestreview-3938360509) - 2026-03-12
+* [Commit] [Add `parent_block_root` to bid filtering key (#5001)](https://github.com/ethereum/consensus-specs/commit/f0f41198d6a8d7ae709d7d36a61c1e97c235d8ec) - 2026-03-12
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: enable specref features & remove unnecessary spec items](https://github.com/ChainSafe/lodestar/pull/8788) - 2026-01-27
 

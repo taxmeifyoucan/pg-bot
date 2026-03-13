@@ -29,3 +29,5 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Commit] [ci, make: add test-bench to verify all benchmarks compile and run (#19745)](https://github.com/erigontech/erigon/commit/dfb70d20abfbc499666e7dc0e8ea6fb517700a18) - 2026-03-10
 * [Commit] [ci: fix duplicate types key in lint workflow pull_request trigger (#19770)](https://github.com/erigontech/erigon/commit/352412024c4e8aa75b2a08b4e04a8a33de48fbd7) - 2026-03-10
 * [Commit] [ci: prune Go build cache before saving (#19768)](https://github.com/erigontech/erigon/commit/32c9f818684c1f24a3d5c48513e34d74f01b3481) - 2026-03-10
+* [Pull Request] [ci: fix consensus spec test failure tolerance](https://github.com/erigontech/erigon/pull/19854) - 2026-03-12
+* [Review] [Review on: eth, p2p, sentry: implement eth/70 protocol (EIP-7975)](https://github.com/erigontech/erigon/pull/19755#pullrequestreview-3934491604) - 2026-03-12

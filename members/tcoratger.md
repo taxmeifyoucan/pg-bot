@@ -37,3 +37,6 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: chore: release v0.5.0](https://github.com/Plonky3/Plonky3/pull/1426#pullrequestreview-3922977898) - 2026-03-10
 * [Review] [Review on: monty 31: faster forward dft](https://github.com/Plonky3/Plonky3/pull/1418#pullrequestreview-3922076936) - 2026-03-10
 * [Review] [Review on: monty 31: faster forward dft](https://github.com/Plonky3/Plonky3/pull/1418#pullrequestreview-3922077726) - 2026-03-10
+* [Review] [Review on: air: some debugging improvements](https://github.com/Plonky3/Plonky3/pull/1431#pullrequestreview-3936231514) - 2026-03-12
+* [Pull Request] [field: reinforcement of tests with edge cases and proptests](https://github.com/Plonky3/Plonky3/pull/1435) - 2026-03-12
+* [Review] [Review on: fix(batch-stark): replace assert! with Err for untrusted permutation opening length check](https://github.com/Plonky3/Plonky3/pull/1410#pullrequestreview-3936421051) - 2026-03-12

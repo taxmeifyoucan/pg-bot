@@ -22,6 +22,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: Flat/snap sync refactor](https://github.com/NethermindEth/nethermind/pull/10772#pullrequestreview-3925754440) - 2026-03-10
+* [Review] [Review on: perf: add fast MVCC snapshots for MemDb in FlatDb tests](https://github.com/NethermindEth/nethermind/pull/10792#pullrequestreview-3935676917) - 2026-03-12
+* [Pull Request] [refactor: introduce factory pattern for protocol handlers](https://github.com/NethermindEth/nethermind/pull/10781) - 2026-03-12
+* [Review] [Review on: Fix flaky SyncDispatcher disposal race in CountdownEvent](https://github.com/NethermindEth/nethermind/pull/10804#pullrequestreview-3935625276) - 2026-03-12
+* [Review] [Review on: refactor protocol factory refactor](https://github.com/NethermindEth/nethermind/pull/10801#pullrequestreview-3935010510) - 2026-03-12
+* [Review] [Review on: fix Can_change_branch_on_invalid_block_when_invalid_branch_is_in_the_queue()](https://github.com/NethermindEth/nethermind/pull/10799#pullrequestreview-3935577405) - 2026-03-12
+* [Pull Request] [Flat/snap sync](https://github.com/NethermindEth/nethermind/pull/10426) - 2026-03-12
+* [Pull Request] [refactor: Remove GetAll* methods from IDb, migrate to ISortedKeyValueStore](https://github.com/NethermindEth/nethermind/pull/10798) - 2026-03-12
+* [Commit] [refactor: introduce factory pattern for protocol handlers (#10781)](https://github.com/NethermindEth/nethermind/commit/74a0141f934698239e9db1442056f2a6542dddf9) - 2026-03-12
+* [Commit] [Flat/snap sync (#10426)](https://github.com/NethermindEth/nethermind/commit/8760f70bf3753ff24095bce97b4ccc92ff6bb413) - 2026-03-12
 ## Q4 2025
 
 

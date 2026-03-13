@@ -20,6 +20,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: add block filter view](https://github.com/ethpandaops/dora/pull/568) - 2026-02-09
 * [Pull Request] [feat(epochs): display proposal participation in epochs page](https://github.com/ethpandaops/dora/pull/583) - 2026-02-16
 * [Pull Request] [fix: add missing SQL placeholder for orphaned blocks insert](https://github.com/ethpandaops/dora/pull/600) - 2026-03-06
+* [Pull Request] [support SLOT_DURATION_MS as replacement for deprecated SECONDS_PER_SLOT](https://github.com/ethpandaops/dora/pull/606) - 2026-03-12
+* [Pull Request] [Fix builder index display in slot deposit requests view](https://github.com/ethpandaops/dora/pull/605) - 2026-03-12
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [fix: add triple-beam dependency to package.json](https://github.com/ChainSafe/lodestar/pull/8736) - 2026-01-12
 * [Pull Request] [feat: implement eip 7843](https://github.com/ChainSafe/lodestar/pull/8747) - 2026-01-16
@@ -42,9 +44,23 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: merge do and hc](https://github.com/ethpandaops/template-devnets/pull/152) - 2026-02-24
 
 * [Pull Request] [fix: small fixes and dep update](https://github.com/ethpandaops/template-devnets/pull/154) - 2026-03-03
+* [Pull Request] [fix: small fixes and dep update](https://github.com/ethpandaops/template-devnets/pull/156) - 2026-03-12
+* [Commit] [fix: small fixes and dep update (#156)](https://github.com/ethpandaops/template-devnets/commit/be0f54aabbd621156e451af6f678824caf95f212) - 2026-03-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356) - 2026-02-26
 * [Pull Request] [Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356) - 2026-03-02
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: Update besu repo reference to besu-eth/besu](https://github.com/ethereum/execution-specs/pull/2488#pullrequestreview-3935580700) - 2026-03-12
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Review] [Review on: internal/telemetry: add gRPC transport for OTLP trace export](https://github.com/ethereum/go-ethereum/pull/33941#pullrequestreview-3935692617) - 2026-03-12
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Fix Hash.toHexString() compilation error in DebugTraceBlockStreamer](https://github.com/besu-eth/besu/pull/10032) - 2026-03-12
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [fix: adapt to alloy-evm bal-devnet2 API change](https://github.com/paradigmxyz/reth/pull/22992) - 2026-03-12
 ## Q4 2025
 
 

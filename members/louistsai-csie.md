@@ -22,3 +22,6 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: chore(tests): delete already-ported extCodeHash static file](https://github.com/ethereum/execution-specs/pull/2463#pullrequestreview-3922449373) - 2026-03-10
 * [Review] [Review on: refactor(spec): unify forgotten gas constants in spec](https://github.com/ethereum/execution-specs/pull/2383#pullrequestreview-3920429913) - 2026-03-10
 * [Review] [Review on: feat(tests): port EXTCODEHASH subcall CREATE2 OOG test](https://github.com/ethereum/execution-specs/pull/2458#pullrequestreview-3919513010) - 2026-03-10
+* [Review] [Review on: refactor(test-benchmark): update account access benchmark](https://github.com/ethereum/execution-specs/pull/2493#pullrequestreview-3938291493) - 2026-03-12
+* [Pull Request] [fix(test-benchmark): update `approve` function for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2487) - 2026-03-12
+* [Review] [Review on: fix(test-benchmark): update `approve` function for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2487#pullrequestreview-3935228816) - 2026-03-12

@@ -44,12 +44,24 @@ Team: Reth
 * [Review] [Review on: fix(rpc): disable EIP-7825 tx gas limit cap in eth_createAccessList and eth_estimateGas](https://github.com/paradigmxyz/reth/pull/22893#pullrequestreview-3920580871) - 2026-03-10
 * [Review] [Review on: refactor(txpool): change `EthTransactionValidator::validate_stateless` return type, accept tx by ref](https://github.com/paradigmxyz/reth/pull/22910#pullrequestreview-3921091547) - 2026-03-10
 * [Review] [Review on: perf(provider): remove unnecessary clones in changeset readers](https://github.com/paradigmxyz/reth/pull/22906#pullrequestreview-3921106432) - 2026-03-10
+* [Review] [Review on: fix(net): send disconnect on invalid inbound eth messages](https://github.com/paradigmxyz/reth/pull/22986#pullrequestreview-3934779840) - 2026-03-12
+* [Review] [Review on: fix(rpc): disable fee charge for eth_estimateGas](https://github.com/paradigmxyz/reth/pull/22959#pullrequestreview-3937820293) - 2026-03-12
+* [Review] [Review on: fix(provider): heal finalized/safe block numbers ahead of highest header](https://github.com/paradigmxyz/reth/pull/22995#pullrequestreview-3936701451) - 2026-03-12
+* [Pull Request] [perf(net): avoid collect allocation in tx announcement trace log](https://github.com/paradigmxyz/reth/pull/22985) - 2026-03-12
+* [Review] [Review on: fix(primitives): enable `serde` for RPC receipt test in `reth-ethereum-primitives`](https://github.com/paradigmxyz/reth/pull/22983#pullrequestreview-3934632440) - 2026-03-12
+* [Review] [Review on: fix(rpc): use -38026 error code for "too many blocks"](https://github.com/paradigmxyz/reth/pull/22976#pullrequestreview-3933832363) - 2026-03-12
+* [Review] [Review on: chore(net): trim tx manager allocations](https://github.com/paradigmxyz/reth/pull/22975#pullrequestreview-3934687672) - 2026-03-12
+* [Pull Request] [feat(primitives): add mix_hash, extra_data, parent_beacon_block_root setters to HeaderMut](https://github.com/paradigmxyz/reth/pull/22977) - 2026-03-12
+* [Commit] [perf(net): avoid collect allocation in tx announcement trace log (#22985)](https://github.com/paradigmxyz/reth/commit/6c908ca28f0d3355050cc923258d7d02f5985a6f) - 2026-03-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21
 
 * [Pull Request] [feat(database): add clear() to CacheState and TransitionState](https://github.com/bluealloy/revm/pull/3390) - 2026-02-01
 * [Pull Request] [feat: add `extend` method to `BlockHashCache`](https://github.com/bluealloy/revm/pull/3471) - 2026-03-03
+* [Pull Request] [docs: clarify PrecompileError::Fatal vs Other and EVMError::Custom](https://github.com/bluealloy/revm/pull/3496) - 2026-03-12
+* [Issue] [refactor: use Box<dyn Error> for PrecompileError::Fatal and EVMError::Custom](https://github.com/bluealloy/revm/issues/3497) - 2026-03-12
+* [Commit] [docs: clarify PrecompileError::Fatal vs Other and EVMError::Custom (#3496)](https://github.com/bluealloy/revm/commit/fb296d05459e10279d80dcd35e748c92e38fd582) - 2026-03-12
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [fix(engine): use correct error codes for invalid payload attributes](https://github.com/ethereum/hive/pull/1383) - 2026-01-24
 

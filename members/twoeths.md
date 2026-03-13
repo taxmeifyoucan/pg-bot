@@ -32,6 +32,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 * [Review] [Review on: fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007#pullrequestreview-3919170310) - 2026-03-10
 * [Review] [Review on: fix:  prune serialized cache by block input keys](https://github.com/ChainSafe/lodestar/pull/9007#pullrequestreview-3919173106) - 2026-03-10
+* [Review] [Review on: refactor: simplify default variant lookup to avoid double hash lookup](https://github.com/ChainSafe/lodestar/pull/9023#pullrequestreview-3940992442) - 2026-03-13
+* [Pull Request] [feat: enhance NetworkProcessor for gloas](https://github.com/ChainSafe/lodestar/pull/9025) - 2026-03-12
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 ## Q4 2025

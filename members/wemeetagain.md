@@ -37,6 +37,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: fix private imports](https://github.com/ChainSafe/lodestar/pull/8990#pullrequestreview-3923087711) - 2026-03-10
 * [Review] [Review on: chore: pin github actions by commit hash](https://github.com/ChainSafe/lodestar/pull/9017#pullrequestreview-3922646576) - 2026-03-10
 * [Review] [Review on: fix: enhance epochIndex to track payloadPresent variants](https://github.com/ChainSafe/lodestar/pull/9006#pullrequestreview-3922448654) - 2026-03-10
+* [Review] [Review on: refactor: simplify default variant lookup to avoid double hash lookup](https://github.com/ChainSafe/lodestar/pull/9023#pullrequestreview-3936828807) - 2026-03-12
+* [Review] [Review on: chore: fix seen block input cache metrics](https://github.com/ChainSafe/lodestar/pull/9020#pullrequestreview-3938633836) - 2026-03-12
+* [Review] [Review on: refactor: use BitArray for PTC votes instead of boolean[]](https://github.com/ChainSafe/lodestar/pull/9021#pullrequestreview-3936719158) - 2026-03-12
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Pull Request] [feat: merge blst-z](https://github.com/ChainSafe/lodestar-z/pull/237) - 2026-03-12
+* [Review] [Review on: feat(fuzz): add AFL++ fuzz testing for SSZ deserialization](https://github.com/ChainSafe/lodestar-z/pull/228#pullrequestreview-3933528390) - 2026-03-12
 ## Q4 2025
 
 

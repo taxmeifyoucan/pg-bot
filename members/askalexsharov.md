@@ -47,6 +47,20 @@ Team: Erigon
 * [Review] [Review on: ci, make: add test-bench to verify all benchmarks compile and run](https://github.com/erigontech/erigon/pull/19745#pullrequestreview-3919642929) - 2026-03-10
 * [Review] [Review on: [r3.4] [cherry-pick] Migrate bloatnet to perf-devnet-3 and fix genesis hash collisions (#19741)](https://github.com/erigontech/erigon/pull/19753#pullrequestreview-3919833242) - 2026-03-10
 
+* [Review] [Review on: db/kv/mdbx: fix deadlock in async tx channel on context cancellation](https://github.com/erigontech/erigon/pull/19856#pullrequestreview-3940926436) - 2026-03-13
+* [Pull Request] [[wip] etl: fastpath for stablesort](https://github.com/erigontech/erigon/pull/19848) - 2026-03-12
+* [Review] [Review on: [SharovBot] Revert "deps: upgrade gnark-crypto v0.19.1 → v0.20.0 (#19808)"](https://github.com/erigontech/erigon/pull/19839#pullrequestreview-3933868778) - 2026-03-12
+* [Pull Request] [bt.Get: use dedicated buffer](https://github.com/erigontech/erigon/pull/19842) - 2026-03-12
+* [Pull Request] [agg: allow build without merge](https://github.com/erigontech/erigon/pull/19844) - 2026-03-12
+* [Pull Request] [integration: `engine.Close()`](https://github.com/erigontech/erigon/pull/19843) - 2026-03-12
+* [Pull Request] [pagedWriter: one method to build page](https://github.com/erigontech/erigon/pull/19841) - 2026-03-12
+* [Review] [Review on: [r3.4] ci: improve release workflow robustness and inline debian pkg build](https://github.com/erigontech/erigon/pull/19853#pullrequestreview-3935459277) - 2026-03-12
+* [Review] [Review on: ci: pin create-github-app-token to v2.2.1 SHA (Node.js 24)](https://github.com/erigontech/erigon/pull/19847#pullrequestreview-3935102347) - 2026-03-12
+* [Review] [Review on: CI: hive reduce max allowed to 1](https://github.com/erigontech/erigon/pull/19816#pullrequestreview-3933979230) - 2026-03-12
+* [Review] [Review on: hive: add job name to test-hive workflow](https://github.com/erigontech/erigon/pull/19849#pullrequestreview-3934796589) - 2026-03-12
+* [Pull Request] [[wip] seg: `MatchCmp()` unit-tests and zero-copy](https://github.com/erigontech/erigon/pull/19845) - 2026-03-12
+* [Review] [Review on: state, stagedsync: split apply loop into state/index/commitment + decouple accumulator](https://github.com/erigontech/erigon/pull/19817#pullrequestreview-3933977650) - 2026-03-12
+* [Commit] [pagedWriter: one method to build page (#19841)](https://github.com/erigontech/erigon/commit/296df58a2acff54d9044d3581616d969c1c3635b) - 2026-03-12
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

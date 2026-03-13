@@ -41,6 +41,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [SharovBot] fix(commitment): count first-nibble branches in CanDoConcurrentNext to fix flaky test](https://github.com/erigontech/erigon/pull/19568#pullrequestreview-3921930148) - 2026-03-10
 * [Review] [Review on: execution/stagedsync: enable deferred commitment updates for parallel fork validation](https://github.com/erigontech/erigon/pull/19749#pullrequestreview-3920128540) - 2026-03-10
 
+* [Pull Request] [Revert "execution: add MaxGasUsed Field to StateTransition (#19661)"](https://github.com/erigontech/erigon/pull/19864) - 2026-03-12
+* [Review] [Review on: rpc: add support for debug_setHead](https://github.com/erigontech/erigon/pull/19577#pullrequestreview-3936392623) - 2026-03-12
+* [Review] [Review on: [SharovBot] chain: fix Osaka blob config and amsterdam schedule key](https://github.com/erigontech/erigon/pull/19846#pullrequestreview-3935762845) - 2026-03-12
+* [Review] [Review on: feat: add block building duration metric and Grafana panel](https://github.com/erigontech/erigon/pull/19833#pullrequestreview-3935669101) - 2026-03-12
+* [Pull Request] [ci: fix Hive Go version patching for non-alpine base images](https://github.com/erigontech/erigon/pull/19851) - 2026-03-12
+* [Pull Request] [eth, p2p, sentry: implement eth/70 protocol (EIP-7975)](https://github.com/erigontech/erigon/pull/19755) - 2026-03-12
+* [Commit] [ci: fix Hive Go version patching for non-alpine base images (#19851)](https://github.com/erigontech/erigon/commit/865690243b3a9d238ed785e5f1c15ddcfeecbebc) - 2026-03-12
+* [Commit] [eth, p2p, sentry: implement eth/70 protocol (EIP-7975) (#19755)](https://github.com/erigontech/erigon/commit/ab8116cb380e725ad1900b20c438a44bb10f1ec3) - 2026-03-12
+* [Commit] [deps: upgrade gnark-crypto v0.19.1 → v0.20.0 (#19808)](https://github.com/erigontech/erigon/commit/38f20502cdc528db55624f90eade5cb371bba43d) - 2026-03-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 ## Q4 2025

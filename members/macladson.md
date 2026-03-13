@@ -36,6 +36,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Issue] [Re-examine `clippy::result_large_err` lints](https://github.com/sigp/lighthouse/issues/8943) - 2026-03-06
 * [Pull Request] [Update `/rewards` endpoints to match spec](https://github.com/sigp/lighthouse/pull/8967) - 2026-03-10
 * [Pull Request] [Remove `lighthouse/analysis` endpoints](https://github.com/sigp/lighthouse/pull/8968) - 2026-03-10
+* [Review] [Review on: Update `/rewards` endpoints to match spec](https://github.com/sigp/lighthouse/pull/8967#pullrequestreview-3935414709) - 2026-03-12
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [Use `hashlink::LruCache` instead of `lru::LruCache`](https://github.com/sigp/discv5/pull/294) - 2026-01-10
 ## Q4 2025

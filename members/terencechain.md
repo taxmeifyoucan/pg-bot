@@ -43,6 +43,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Use execution block hash as state access key post-Gloas](https://github.com/OffchainLabs/prysm/pull/16459#pullrequestreview-3923992219) - 2026-03-10
 * [Review] [Review on: Handle missing Payloads](https://github.com/OffchainLabs/prysm/pull/16460#pullrequestreview-3919309162) - 2026-03-10
 * [Review] [Review on: Fix nil deref introduced with ePBS](https://github.com/OffchainLabs/prysm/pull/16450#pullrequestreview-3922637390) - 2026-03-10
+* [Pull Request] [sync,verification: add Gloas data column gossip validation path](https://github.com/OffchainLabs/prysm/pull/16515) - 2026-03-12
+* [Pull Request] [forkchoice: fix forkchoice balance underflow when att slot change](https://github.com/OffchainLabs/prysm/pull/16520) - 2026-03-12
+* [Pull Request] [metrics: add initial gloas metric](https://github.com/OffchainLabs/prysm/pull/16519) - 2026-03-12
+* [Commit] [sync,verification: add Gloas data column gossip validation path (#16515)](https://github.com/OffchainLabs/prysm/commit/8d5d584cf81c8dd4512ea3e4972070b85d7faeaf) - 2026-03-12
 ## Q4 2025
 
 
