@@ -24,6 +24,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore: Refactor and rename BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/10808#pullrequestreview-3938739679) - 2026-03-12
 * [Review] [Review on: Restore Taiko FCU timestamp validation allowing equal timestamps](https://github.com/NethermindEth/nethermind/pull/10810#pullrequestreview-3937927182) - 2026-03-12
 * [Commit] [ci: Add Claude review (#10768)](https://github.com/NethermindEth/nethermind/commit/79eeddfd59ea6e1c9eb97872757b573d95179cfd) - 2026-03-12
+* [Review] [Review on: refactor(specs): flatten fork inheritance into parent-based Apply chain](https://github.com/NethermindEth/nethermind/pull/10825#pullrequestreview-3946862397) - 2026-03-13
+* [Review] [Review on: Kch/sync supported fix](https://github.com/NethermindEth/nethermind/pull/10823#pullrequestreview-3945608310) - 2026-03-13
+* [Review] [Review on: chore: Clean up cspell dictionary with inline ignores and typo fixes](https://github.com/NethermindEth/nethermind/pull/10819#pullrequestreview-3943105764) - 2026-03-13
+* [Review] [Review on: Update agent rules and review skill](https://github.com/NethermindEth/nethermind/pull/10733#pullrequestreview-3943145723) - 2026-03-13
 ## Q3 2025
 
 

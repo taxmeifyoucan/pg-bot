@@ -50,6 +50,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: fix Hive Go version patching for non-alpine base images (#19851)](https://github.com/erigontech/erigon/commit/865690243b3a9d238ed785e5f1c15ddcfeecbebc) - 2026-03-12
 * [Commit] [eth, p2p, sentry: implement eth/70 protocol (EIP-7975) (#19755)](https://github.com/erigontech/erigon/commit/ab8116cb380e725ad1900b20c438a44bb10f1ec3) - 2026-03-12
 * [Commit] [deps: upgrade gnark-crypto v0.19.1 → v0.20.0 (#19808)](https://github.com/erigontech/erigon/commit/38f20502cdc528db55624f90eade5cb371bba43d) - 2026-03-12
+* [Review] [Review on: stagedsync: add BAD_BLOCK_HALT env var, fix parallel STOP_AFTER_BLOCK](https://github.com/erigontech/erigon/pull/19803#pullrequestreview-3944331453) - 2026-03-13
+* [Review] [Review on: builder: collapse builderstages into builder, replace staged-sync machinery with plain struct](https://github.com/erigontech/erigon/pull/19830#pullrequestreview-3944676634) - 2026-03-13
+* [Review] [Review on: execution/vm: skip CanTransfer for zero-value calls (EIP-7928)](https://github.com/erigontech/erigon/pull/19872#pullrequestreview-3944521519) - 2026-03-13
+* [Review] [Review on: commitment, stagedsync: replace progress channel with callback](https://github.com/erigontech/erigon/pull/19874#pullrequestreview-3944597568) - 2026-03-13
+* [Review] [Review on: exec3_parallel: eliminate IBS round-trip in finalize path](https://github.com/erigontech/erigon/pull/19814#pullrequestreview-3944509029) - 2026-03-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 ## Q4 2025

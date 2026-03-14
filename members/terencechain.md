@@ -47,6 +47,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [forkchoice: fix forkchoice balance underflow when att slot change](https://github.com/OffchainLabs/prysm/pull/16520) - 2026-03-12
 * [Pull Request] [metrics: add initial gloas metric](https://github.com/OffchainLabs/prysm/pull/16519) - 2026-03-12
 * [Commit] [sync,verification: add Gloas data column gossip validation path (#16515)](https://github.com/OffchainLabs/prysm/commit/8d5d584cf81c8dd4512ea3e4972070b85d7faeaf) - 2026-03-12
+* [Pull Request] [Check pending deposits before applying builder deposits](https://github.com/OffchainLabs/prysm/pull/16532) - 2026-03-13
+* [Pull Request] [Use read only validator accessor in `IsPayloadTimelyCommittee`](https://github.com/OffchainLabs/prysm/pull/16530) - 2026-03-13
+* [Review] [Review on: metrics: add initial gloas metric](https://github.com/OffchainLabs/prysm/pull/16519#pullrequestreview-3944425477) - 2026-03-13
+* [Review] [Review on: [WIP] Voluntary exit gloas](https://github.com/OffchainLabs/prysm/pull/16527#pullrequestreview-3944325011) - 2026-03-13
+* [Commit] [Use read only validator accessor in `IsPayloadTimelyCommittee` (#16530)](https://github.com/OffchainLabs/prysm/commit/458d4ebe54f49358f6005b849aec5a55ee41690f) - 2026-03-13
+* [Commit] [metrics: add initial gloas metric (#16519)](https://github.com/OffchainLabs/prysm/commit/416c49e6d5a50a88b47333ec4dbfac90f19e8a39) - 2026-03-13
+* [Commit] [forkchoice: fix forkchoice balance underflow when att slot change (#16520)](https://github.com/OffchainLabs/prysm/commit/6605dfbd502422c61154f2e21655ae8f8621b109) - 2026-03-13
 ## Q4 2025
 
 

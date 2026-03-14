@@ -26,6 +26,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(node-builder): add with_rocksdb_provider to NodeBuilder](https://github.com/paradigmxyz/reth/pull/22970#pullrequestreview-3938141237) - 2026-03-12
 * [Review] [Review on: fix(rpc): disable fee charge for eth_estimateGas](https://github.com/paradigmxyz/reth/pull/22959#pullrequestreview-3937799484) - 2026-03-12
 * [Review] [Review on: fix(tasks): install panic handler on all worker pools](https://github.com/paradigmxyz/reth/pull/22993#pullrequestreview-3935973101) - 2026-03-12
+* [Pull Request] [perf: compute account subtrie hashes in parallel with large storage roots](https://github.com/paradigmxyz/reth/pull/23023) - 2026-03-13
 ## Q4 2025
 
 

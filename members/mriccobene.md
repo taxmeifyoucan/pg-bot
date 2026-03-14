@@ -17,6 +17,10 @@ Team: Erigon
 * [Review] [Review on: hive: update max-allowed-failures 57 for rpc-compat](https://github.com/erigontech/erigon/pull/19863#pullrequestreview-3937618788) - 2026-03-12
 * [Review] [Review on: ci: fix Hive Go version patching for non-alpine base images](https://github.com/erigontech/erigon/pull/19851#pullrequestreview-3935520413) - 2026-03-12
 * [Issue] [The Gnosis Tip-Tracking test sometimes fails due to an insufficient number of Caplin peers](https://github.com/erigontech/erigon/issues/19858) - 2026-03-12
+* [Pull Request] [qa-tests: add test results to the daily repo status](https://github.com/erigontech/erigon/pull/19869) - 2026-03-13
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Pull Request] [Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529) - 2026-03-13
 ## Q4 2025
 
 

@@ -8,6 +8,14 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 
 ## Contributions
 
+## Q1 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Fix Column Reconstruction Race Condition](https://github.com/sigp/lighthouse/pull/8985) - 2026-03-13
+* [Pull Request] [Breakup RPCBlock into LookupBlock & RangeSyncBlock](https://github.com/sigp/lighthouse/pull/8860) - 2026-03-13
+* [Review] [Review on: Breakup RPCBlock into LookupBlock & RangeSyncBlock](https://github.com/sigp/lighthouse/pull/8860#pullrequestreview-3946234118) - 2026-03-13
+* [Pull Request] [Fix intermittent simulator test failures](https://github.com/sigp/lighthouse/pull/8983) - 2026-03-13
 ## Q4 2025
 
 

@@ -32,3 +32,6 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [[DO NOT MERGE] native mt + bench all 3 approaches](https://github.com/ChainSafe/lodestar-z/pull/234) - 2026-03-10
+* [Review] [Review on: feat: merge blst-z](https://github.com/ChainSafe/lodestar-z/pull/237#pullrequestreview-3941451324) - 2026-03-13
+* [Review] [Review on: feat(napi): metrics bindings](https://github.com/ChainSafe/lodestar-z/pull/211#pullrequestreview-3942752604) - 2026-03-13
+* [Pull Request] [fix: native metrics example](https://github.com/ChainSafe/lodestar-z/pull/239) - 2026-03-13

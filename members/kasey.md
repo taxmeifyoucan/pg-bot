@@ -17,6 +17,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: do not merge - partial columns integration](https://github.com/OffchainLabs/prysm/pull/16505#pullrequestreview-3939156100) - 2026-03-12
 * [Issue] [Metrics: head_updated_slot_offset_seconds](https://github.com/OffchainLabs/prysm/issues/16518) - 2026-03-12
+* [Review] [Review on: do not merge - partial columns integration](https://github.com/OffchainLabs/prysm/pull/16505#pullrequestreview-3947289361) - 2026-03-13
 ## Q4 2025
 
 

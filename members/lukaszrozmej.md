@@ -55,6 +55,25 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [fix Can_change_branch_on_invalid_block_when_invalid_branch_is_in_the_queue()](https://github.com/NethermindEth/nethermind/pull/10799) - 2026-03-12
 * [Commit] [Fix flaky SyncDispatcher disposal race in CountdownEvent (#10804)](https://github.com/NethermindEth/nethermind/commit/2a1126b027cf61b9017406e134b55c63652d1344) - 2026-03-12
 * [Commit] [fix Can_change_branch_on_invalid_block_when_invalid_branch_is_in_the_queue() (#10799)](https://github.com/NethermindEth/nethermind/commit/4c6cea2460249707d674125e358e6218e3b87957) - 2026-03-12
+* [Review] [Review on: fix: remove unreachable code in ModExpPrecompile](https://github.com/NethermindEth/nethermind/pull/10826#pullrequestreview-3947695635) - 2026-03-14
+* [Review] [Review on: Simplify releasing & fix `IByteBuffer` leaks in tests](https://github.com/NethermindEth/nethermind/pull/10814#pullrequestreview-3947662861) - 2026-03-14
+* [Pull Request] [refactor(specs): flatten fork inheritance into parent-based Apply chain](https://github.com/NethermindEth/nethermind/pull/10825) - 2026-03-13
+* [Review] [Review on: chore: Update packages](https://github.com/NethermindEth/nethermind/pull/10827#pullrequestreview-3947645865) - 2026-03-14
+* [Review] [Review on: refactor: comprehensive test and code deduplication](https://github.com/NethermindEth/nethermind/pull/10815#pullrequestreview-3947219839) - 2026-03-13
+* [Review] [Review on: Make state available if not pruned](https://github.com/NethermindEth/nethermind/pull/10822#pullrequestreview-3944483798) - 2026-03-13
+* [Review] [Review on: Restore Taiko FCU timestamp validation allowing equal timestamps](https://github.com/NethermindEth/nethermind/pull/10810#pullrequestreview-3942343534) - 2026-03-13
+* [Pull Request] [chore: Clean up cspell dictionary with inline ignores and typo fixes](https://github.com/NethermindEth/nethermind/pull/10819) - 2026-03-13
+* [Review] [Review on: Bal devnet 3](https://github.com/NethermindEth/nethermind/pull/10697#pullrequestreview-3944086694) - 2026-03-13
+* [Review] [Review on: Implement EIP-7976: Increase calldata floor cost](https://github.com/NethermindEth/nethermind/pull/10744#pullrequestreview-3942373217) - 2026-03-13
+* [Review] [Review on: fix(simulate): correct LogIndex calculation](https://github.com/NethermindEth/nethermind/pull/10818#pullrequestreview-3942496607) - 2026-03-13
+* [Review] [Review on: fix: fix data race on _requestCount in MessageDictionary](https://github.com/NethermindEth/nethermind/pull/10813#pullrequestreview-3942355156) - 2026-03-13
+* [Review] [Review on: chore: Refactor and rename BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/10808#pullrequestreview-3941863030) - 2026-03-13
+* [Review] [Review on: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/10816#pullrequestreview-3942334690) - 2026-03-13
+* [Pull Request] [Rework engine API versioning](https://github.com/NethermindEth/nethermind/pull/10786) - 2026-03-13
+* [Commit] [refactor(specs): flatten fork inheritance into parent-based Apply chain (#10825)](https://github.com/NethermindEth/nethermind/commit/c4d7144dbcd669bab85ca76e0c4d62cbe6ad90d8) - 2026-03-14
+* [Commit] [refactor: comprehensive test and code deduplication (#10815)](https://github.com/NethermindEth/nethermind/commit/6ce10ecbcb6e7e262c11f2a1014473bd580c60c6) - 2026-03-14
+* [Commit] [chore: Clean up cspell dictionary with inline ignores and typo fixes (#10819)](https://github.com/NethermindEth/nethermind/commit/45d9b9f9d30c1b4db5b8e21c70758a775d0ab790) - 2026-03-13
+* [Commit] [Rework engine API versioning (#10786)](https://github.com/NethermindEth/nethermind/commit/b4af34b32f5f315044b8ee31e540c2baff36a60f) - 2026-03-13
 ## Q4 2025
 
 

@@ -42,6 +42,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Handle missing Payloads](https://github.com/OffchainLabs/prysm/pull/16460) - 2026-03-10
 * [Commit] [Use execution block hash as state access key post-Gloas (#16459)](https://github.com/OffchainLabs/prysm/commit/932e5eb7d8b0ed74aec37df6fc9a55a82c75f0ec) - 2026-03-10
 * [Commit] [Handle missing Payloads (#16460)](https://github.com/OffchainLabs/prysm/commit/e35f6c351a52c7c12a163bf006c5a5c0efe221fd) - 2026-03-10
+* [Review] [Review on: fix: guard against fork boundary `IsParentBlockFull` false positive](https://github.com/OffchainLabs/prysm/pull/16510#pullrequestreview-3944450369) - 2026-03-13
+* [Review] [Review on: implementing /eth/v2/validator/duties/proposer/{epoch}](https://github.com/OffchainLabs/prysm/pull/16303#pullrequestreview-3944508931) - 2026-03-13
+* [Review] [Review on: forkchoice: fix forkchoice balance underflow when att slot change](https://github.com/OffchainLabs/prysm/pull/16520#pullrequestreview-3944406021) - 2026-03-13
+* [Pull Request] [Gloas Init sync](https://github.com/OffchainLabs/prysm/pull/16528) - 2026-03-13
 ## Q4 2025
 
 

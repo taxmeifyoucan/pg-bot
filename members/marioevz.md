@@ -51,6 +51,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(test-forks): Remove `block_number`/`timestamp` from all methods](https://github.com/ethereum/execution-specs/pull/2442#pullrequestreview-3939711683) - 2026-03-12
 * [Review] [Review on: feat(tests): port MCOPY_memory_hashFiller repeated copy test](https://github.com/ethereum/execution-specs/pull/2490#pullrequestreview-3938596424) - 2026-03-12
 * [Review] [Review on: feat(tests): port stSLoadTest static test and delete original](https://github.com/ethereum/execution-specs/pull/2489#pullrequestreview-3938492563) - 2026-03-12
+* [Review] [Review on: feat(tests): add script to port static state test fixtures to Python](https://github.com/ethereum/execution-specs/pull/2455#pullrequestreview-3947421264) - 2026-03-13
+* [Pull Request] [feat(cli-evm-bytes): Detect repeating opcodes](https://github.com/ethereum/execution-specs/pull/2502) - 2026-03-13
+* [Issue] [Open issues with ported static tests](https://github.com/ethereum/execution-specs/issues/2507) - 2026-03-14
+* [Issue] [feat(test-fill): `--verify-traces` flag for automatic trace comparison across test runs](https://github.com/ethereum/execution-specs/issues/2506) - 2026-03-13
+* [Commit] [feat(tests): Remove static test sources](https://github.com/ethereum/execution-specs/commit/365433e1ba3d5cc2716db0b08a3cdd6a2f24210a) - 2026-03-13
+* [Commit] [feat(test-execute): Defer pre-alloc methods remote checks to batch them (#2475)](https://github.com/ethereum/execution-specs/commit/8bdfb46e67c8cd195636c05e7c18f4f00b7d7c86) - 2026-03-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Louis from STEEL, ethereum/execution-specs](https://github.com/protocolguild/documentation/pull/472) - 2026-01-15
 ## Q4 2025

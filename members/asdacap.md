@@ -31,6 +31,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor: Remove GetAll* methods from IDb, migrate to ISortedKeyValueStore](https://github.com/NethermindEth/nethermind/pull/10798) - 2026-03-12
 * [Commit] [refactor: introduce factory pattern for protocol handlers (#10781)](https://github.com/NethermindEth/nethermind/commit/74a0141f934698239e9db1442056f2a6542dddf9) - 2026-03-12
 * [Commit] [Flat/snap sync (#10426)](https://github.com/NethermindEth/nethermind/commit/8760f70bf3753ff24095bce97b4ccc92ff6bb413) - 2026-03-12
+* [Review] [Review on: feat: BenchmarkDotNet gas benchmarks using gas-benchmarks payloads](https://github.com/NethermindEth/nethermind/pull/10541#pullrequestreview-3947242938) - 2026-03-13
+* [Review] [Review on: Make state available if not pruned](https://github.com/NethermindEth/nethermind/pull/10822#pullrequestreview-3947236195) - 2026-03-13
+* [Review] [Review on: fix: fix data race on _requestCount in MessageDictionary](https://github.com/NethermindEth/nethermind/pull/10813#pullrequestreview-3941661202) - 2026-03-13
 ## Q4 2025
 
 

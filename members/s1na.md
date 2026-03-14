@@ -24,6 +24,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [core/tracing: fix nonce revert edge case](https://github.com/ethereum/go-ethereum/pull/33978) - 2026-03-09
 * [Pull Request] [core/tracing: fix nonce revert edge case](https://github.com/ethereum/go-ethereum/pull/33978) - 2026-03-10
 * [Commit] [core/tracing: fix nonce revert edge case (#33978)](https://github.com/ethereum/go-ethereum/commit/aa417b03a6f9ef4f58c0e05c7eb1fde6a8db4894) - 2026-03-10
+* [Review] [Review on: eth/filters: check history pruning cutoff in GetFilterLogs](https://github.com/ethereum/go-ethereum/pull/33823#pullrequestreview-3943677226) - 2026-03-13
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [eth_simulateV1: fix revert err code](https://github.com/ethereum/execution-apis/pull/748) - 2026-02-05
 * [Pull Request] [transaction: add blockTimestamp](https://github.com/ethereum/execution-apis/pull/749) - 2026-02-06

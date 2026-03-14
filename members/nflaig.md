@@ -50,6 +50,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: use BitArray for PTC votes instead of boolean[]](https://github.com/ChainSafe/lodestar/pull/9021#pullrequestreview-3935281841) - 2026-03-12
 * [Pull Request] [wip](https://github.com/ChainSafe/lodestar/pull/9026) - 2026-03-12
 * [Commit] [chore: fix seen block input cache metrics (#9020)](https://github.com/ChainSafe/lodestar/commit/85cdea6cc606897e3ff465cab0f0907d5c8acc33) - 2026-03-12
+* [Review] [Review on: chore: bump libp2p deps to latest published versions](https://github.com/ChainSafe/lodestar/pull/9035#pullrequestreview-3947400303) - 2026-03-13
+* [Review] [Review on: feat: add QUIC support](https://github.com/ChainSafe/lodestar/pull/8051#pullrequestreview-3944195353) - 2026-03-13
+* [Review] [Review on: docs(reqresp): add upstream issue reference to createRespSignal](https://github.com/ChainSafe/lodestar/pull/9033#pullrequestreview-3944848258) - 2026-03-13
+* [Review] [Review on: fix(reqresp): clear composed response timeout signals](https://github.com/ChainSafe/lodestar/pull/9029#pullrequestreview-3943520706) - 2026-03-13
+* [Pull Request] [fix: correct pre-Deneb attestation propagation slot range boundary](https://github.com/ChainSafe/lodestar/pull/9031) - 2026-03-13
+* [Review] [Review on: fix: correct pre-Deneb attestation propagation slot range boundary](https://github.com/ChainSafe/lodestar/pull/9031#pullrequestreview-3943609725) - 2026-03-13
+* [Commit] [fix: correct pre-Deneb attestation propagation slot range boundary (#9031)](https://github.com/ChainSafe/lodestar/commit/1ddf8e46a9295c45bb747cac103e4fa3cbf3e062) - 2026-03-13
 ## Q4 2025
 
 

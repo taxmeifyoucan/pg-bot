@@ -28,6 +28,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [EIP-8037: Add tests for three missing gas-validation and code-deposit edge cases](https://github.com/ethereum/execution-specs/issues/2426) - 2026-03-06
 
+* [Issue] [Missing test: SELFDESTRUCT-to-self no-op should not emit EIP-7708 log](https://github.com/ethereum/execution-specs/issues/2497) - 2026-03-13
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [Add multi-platform CI test matrix (arm64, Windows, macOS)](https://github.com/NethermindEth/nethermind/pull/10761) - 2026-03-10
 * [Pull Request] [Eliminate per-instance ValueFactory delegate allocations in PrewarmerScopeProvider](https://github.com/NethermindEth/nethermind/pull/10754) - 2026-03-10
@@ -49,6 +50,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: background task scheduler — remove re-queue loop, add cancellation bail-outs](https://github.com/NethermindEth/nethermind/pull/10722#pullrequestreview-3936570636) - 2026-03-12
 * [Review] [Review on: Fix/taiko ci timeout](https://github.com/NethermindEth/nethermind/pull/10806#pullrequestreview-3936546133) - 2026-03-12
 * [Review] [Review on: Fix flaky SyncDispatcher disposal race in CountdownEvent](https://github.com/NethermindEth/nethermind/pull/10804#pullrequestreview-3935963992) - 2026-03-12
+* [Review] [Review on: refactor: comprehensive test and code deduplication](https://github.com/NethermindEth/nethermind/pull/10815#pullrequestreview-3944899765) - 2026-03-13
+* [Review] [Review on: Bal devnet 3](https://github.com/NethermindEth/nethermind/pull/10697#pullrequestreview-3942009134) - 2026-03-13
+* [Review] [Review on: Refactor EIP-7708 transfer logs to use generic TEip7708 flag](https://github.com/NethermindEth/nethermind/pull/10817#pullrequestreview-3942478043) - 2026-03-13
 ## Q4 2025
 
 

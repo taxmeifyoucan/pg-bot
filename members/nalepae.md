@@ -24,6 +24,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: sync,verification: add Gloas data column gossip validation path](https://github.com/OffchainLabs/prysm/pull/16515#pullrequestreview-3936374190) - 2026-03-12
 * [Review] [Review on: adding grpc endpoints for attester, proposer, sync duties, and ptc duties](https://github.com/OffchainLabs/prysm/pull/16416#pullrequestreview-3936231544) - 2026-03-12
+* [Review] [Review on: metrics: add initial gloas metric](https://github.com/OffchainLabs/prysm/pull/16519#pullrequestreview-3943431095) - 2026-03-13
+* [Pull Request] [Fix `TestProcessPendingDepositsMultiplesSameDeposits` to properly test that duplicate pending deposits for the same key top up a single validator instead of creating duplicates.](https://github.com/OffchainLabs/prysm/pull/16529) - 2026-03-13
+* [Review] [Review on: changed /eth/v1/beacon/execution_payload_envelope/{block_root} to /eth/v1/beacon/execution_payload_envelope/{block_id} defined in beacon apis](https://github.com/OffchainLabs/prysm/pull/16521#pullrequestreview-3942721290) - 2026-03-13
+* [Commit] [Fix `TestProcessPendingDepositsMultiplesSameDeposits` to properly test that duplicate pending deposits for the same key top up a single validator instead of creating duplicates. (#16529)](https://github.com/OffchainLabs/prysm/commit/84993fdd684cc06dfab98dc16395753db02775ab) - 2026-03-13
 ## Q4 2025
 
 

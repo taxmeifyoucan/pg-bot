@@ -28,6 +28,8 @@ Team: EthereumJS
 * [Pull Request] []() - 2026-03-04
 * [Pull Request] [vm: externalize header field validation](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4262) - 2026-03-12
 * [Review] [Review on: evm: Improve Custom Precompiles API (PrefixedHexString support, getPrecompile, type exports)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4261#pullrequestreview-3933461722) - 2026-03-12
+* [Pull Request] [vm: Consume BAL function](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4264) - 2026-03-13
+* [Pull Request] [7708 fix: SELFDESTRUCT finalization logs](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4263) - 2026-03-13
 ## Q4 2025
 
 

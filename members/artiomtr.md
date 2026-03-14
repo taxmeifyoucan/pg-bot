@@ -23,6 +23,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Disable nethermind build & publish for stable releases](https://github.com/grandinetech/grandine/pull/604) - 2026-02-23
 * [Pull Request] [Use nethermind reference assemblies from github](https://github.com/grandinetech/grandine/pull/635) - 2026-03-12
 * [Review] [Review on: Add `engine_forkchoiceUpdatedV4` support for BAL](https://github.com/grandinetech/grandine/pull/633#pullrequestreview-3937062100) - 2026-03-12
+* [Review] [Review on: Deduplicate CI build runs for internal PRs](https://github.com/grandinetech/grandine/pull/634#pullrequestreview-3944517105) - 2026-03-13
+* [Commit] [Use nethermind reference assemblies from github](https://github.com/grandinetech/grandine/commit/e02a57a47651991ac103a05cb4678646ce4f1cfa) - 2026-03-13
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] [Override default CLI option alias](https://github.com/NethermindEth/nethermind/pull/10148) - 2026-01-12
 

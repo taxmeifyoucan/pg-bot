@@ -41,9 +41,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: fix seen block input cache metrics](https://github.com/ChainSafe/lodestar/pull/9020#pullrequestreview-3938633836) - 2026-03-12
 * [Review] [Review on: refactor: use BitArray for PTC votes instead of boolean[]](https://github.com/ChainSafe/lodestar/pull/9021#pullrequestreview-3936719158) - 2026-03-12
 
+* [Review] [Review on: chore: bump libp2p deps to latest published versions](https://github.com/ChainSafe/lodestar/pull/9035#pullrequestreview-3947598500) - 2026-03-14
+* [Pull Request] [feat(reqresp): track peer rate-limit backoff in SelfRateLimiter](https://github.com/ChainSafe/lodestar/pull/9034) - 2026-03-13
+* [Review] [Review on: feat(state-transition): add gloas fields/methods to IBeaconStateView](https://github.com/ChainSafe/lodestar/pull/8963#pullrequestreview-3944752700) - 2026-03-13
+* [Review] [Review on: fix(reqresp): clear composed response timeout signals](https://github.com/ChainSafe/lodestar/pull/9029#pullrequestreview-3944356755) - 2026-03-13
+* [Review] [Review on: fix: correct pre-Deneb attestation propagation slot range boundary](https://github.com/ChainSafe/lodestar/pull/9031#pullrequestreview-3944382395) - 2026-03-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: merge blst-z](https://github.com/ChainSafe/lodestar-z/pull/237) - 2026-03-12
 * [Review] [Review on: feat(fuzz): add AFL++ fuzz testing for SSZ deserialization](https://github.com/ChainSafe/lodestar-z/pull/228#pullrequestreview-3933528390) - 2026-03-12
+* [Pull Request] [ fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241) - 2026-03-13
+* [Review] [Review on: fix(st): add errdefer chain for epoch cache functions](https://github.com/ChainSafe/lodestar-z/pull/227#pullrequestreview-3944715465) - 2026-03-13
+* [Commit] [feat: merge blst-z (#237)](https://github.com/ChainSafe/lodestar-z/commit/51326ef67738534c57d25d49d54da078a963ea94) - 2026-03-13
 ## Q4 2025
 
 

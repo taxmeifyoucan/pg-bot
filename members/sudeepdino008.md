@@ -34,6 +34,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Cherry-pick #19698: UnitTest for reset page counter on collision in buildVI](https://github.com/erigontech/erigon/pull/19754) - 2026-03-10
 * [Commit] [Cherry-pick #19698: UnitTest for reset page counter on collision in buildVI (#19754)](https://github.com/erigontech/erigon/commit/59bd509cebca45204c223697823472e4c374cef5) - 2026-03-10
 * [Review] [Review on: recsplit: keyPos reset on retry](https://github.com/erigontech/erigon/pull/19773#pullrequestreview-3920376885) - 2026-03-10
+* [Review] [Review on: agg: allow build without merge](https://github.com/erigontech/erigon/pull/19844#pullrequestreview-3941346296) - 2026-03-13
 ## Q4 2025
 
 

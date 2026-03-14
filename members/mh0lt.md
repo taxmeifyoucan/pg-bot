@@ -65,6 +65,17 @@ Team: Erigon
 * [Commit] [state, stagedsync: split apply loop into state/index/commitment + decouple accumulator (#19817)](https://github.com/erigontech/erigon/commit/e9b4f19101f129482423e41ab327d3a97ca5e7c9) - 2026-03-12
 * [Commit] [parallel: reduce execRequests/in/applyResults buffers from 100k to prevent OOM (#19818)](https://github.com/erigontech/erigon/commit/2e1545e5e8eb6cbb25cef42eaa016c44ebb15684) - 2026-03-12
 * [Commit] [execution/stagedsync: use read-only tx in MiningStep (#19821)](https://github.com/erigontech/erigon/commit/cdc5c5b66ab6485611aca944414ca457891773b1) - 2026-03-12
+* [Review] [Review on: stagedsync: add BAD_BLOCK_HALT env var, fix parallel STOP_AFTER_BLOCK](https://github.com/erigontech/erigon/pull/19803#pullrequestreview-3945162386) - 2026-03-13
+* [Pull Request] [stagedsync: fix parallel executor deadlock in scheduleExecution](https://github.com/erigontech/erigon/pull/19877) - 2026-03-13
+* [Pull Request] [execution/vm: skip CanTransfer for zero-value calls (EIP-7928)](https://github.com/erigontech/erigon/pull/19872) - 2026-03-13
+* [Pull Request] [commitment, stagedsync: replace progress channel with callback](https://github.com/erigontech/erigon/pull/19874) - 2026-03-13
+* [Pull Request] [execmodule: add block overlay to SharedDomains for InsertBlocks](https://github.com/erigontech/erigon/pull/19876) - 2026-03-13
+* [Pull Request] [stagedsync, execmodule: halt on invalid block during parallel initial sync](https://github.com/erigontech/erigon/pull/19870) - 2026-03-13
+* [Issue] [execmodule: block overlay in SharedDomains + persistent SD across operations](https://github.com/erigontech/erigon/issues/19875) - 2026-03-13
+* [Issue] [exec module: decouple startup, execution, prune, retire, and publish flows](https://github.com/erigontech/erigon/issues/19873) - 2026-03-13
+* [Commit] [execution/vm: skip CanTransfer for zero-value calls (EIP-7928) (#19872)](https://github.com/erigontech/erigon/commit/eea4801c50482f45db5c6658eca3ef725efd8236) - 2026-03-13
+* [Commit] [commitment, stagedsync: replace progress channel with callback (#19874)](https://github.com/erigontech/erigon/commit/f1808aa45edf7461b640828d51d7380ac55e2b1e) - 2026-03-13
+* [Commit] [db/kv/mdbx: fix deadlock in async tx channel on context cancellation (#19856)](https://github.com/erigontech/erigon/commit/2b495bb1bc750c45fa732ca650e73b22b51adc80) - 2026-03-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

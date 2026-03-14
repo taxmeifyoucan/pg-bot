@@ -31,3 +31,6 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Commit] [ci: prune Go build cache before saving (#19768)](https://github.com/erigontech/erigon/commit/32c9f818684c1f24a3d5c48513e34d74f01b3481) - 2026-03-10
 * [Pull Request] [ci: fix consensus spec test failure tolerance](https://github.com/erigontech/erigon/pull/19854) - 2026-03-12
 * [Review] [Review on: eth, p2p, sentry: implement eth/70 protocol (EIP-7975)](https://github.com/erigontech/erigon/pull/19755#pullrequestreview-3934491604) - 2026-03-12
+* [Review] [Review on: p2p/discover: Use ChallengeData for WHOAREYOU resend ](https://github.com/erigontech/erigon/pull/19416#pullrequestreview-3941952156) - 2026-03-13
+* [Pull Request] [ci: reduce RPC integration test flakiness and add local test script](https://github.com/erigontech/erigon/pull/19804) - 2026-03-13
+* [Commit] [ci: reduce RPC integration test flakiness and add local test script (#19804)](https://github.com/erigontech/erigon/commit/d94ebd2623f25e7d2188fb6ed64c7148f394c55e) - 2026-03-13

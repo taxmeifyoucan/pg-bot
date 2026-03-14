@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Encrypt The Mempool #0, February 18, 2026](https://github.com/ethereum/pm/issues/1929) - 2026-02-16
 * [Issue] [Encrypt The Mempool #1, March 4, 2026](https://github.com/ethereum/pm/issues/1945) - 2026-02-23
 
+* [Issue] [Encrypt The Mempool #2](https://github.com/ethereum/pm/issues/1969) - 2026-03-13
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [Update repo references from hyperledger to besu-eth org](https://github.com/besu-eth/besu-native/pull/307) - 2026-02-26
 * [Pull Request] []() - 2026-03-03

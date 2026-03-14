@@ -55,6 +55,9 @@ Team: Reth
 * [Review] [Review on: feat(payload): add resolve and job-creation latency histograms](https://github.com/paradigmxyz/reth/pull/22978#pullrequestreview-3934961070) - 2026-03-12
 * [Review] [Review on: fix(engine): only count precompile cache hit when gas is sufficient](https://github.com/paradigmxyz/reth/pull/22968#pullrequestreview-3935017371) - 2026-03-12
 * [Review] [Review on: refactor(payload): merge redundant impl blocks](https://github.com/paradigmxyz/reth/pull/22984#pullrequestreview-3934952456) - 2026-03-12
+* [Review] [Review on: fix(rpc): eth_config returns wrong fork](https://github.com/paradigmxyz/reth/pull/23007#pullrequestreview-3942550686) - 2026-03-13
+* [Review] [Review on: ci: bump state tests runner to depot-ubuntu-latest-8](https://github.com/paradigmxyz/reth/pull/23017#pullrequestreview-3942582099) - 2026-03-13
+* [Review] [Review on: ci: disable PGO by default, rename input to `pgo`](https://github.com/paradigmxyz/reth/pull/23016#pullrequestreview-3942528720) - 2026-03-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25

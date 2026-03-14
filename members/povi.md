@@ -13,6 +13,7 @@ Team: Grandine
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Delay after finalization archive tasks to be performed later in slot](https://github.com/grandinetech/grandine/pull/605) - 2026-02-19
+* [Review] [Review on: Pin specific version of ZISK in tests](https://github.com/grandinetech/grandine/pull/636#pullrequestreview-3944012411) - 2026-03-13
 ## Q4 2025
 
 

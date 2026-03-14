@@ -13,6 +13,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Issue] [Bad deserialization of checkpoint state](https://github.com/ChainSafe/lodestar/issues/8847) - 2026-02-03
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [feat: rate limit backoff sync](https://github.com/ChainSafe/lodestar/pull/9032) - 2026-03-13
+* [Review] [Review on: fix(reqresp): clear composed response timeout signals](https://github.com/ChainSafe/lodestar/pull/9029#pullrequestreview-3944497928) - 2026-03-13
 ## Q4 2025
 
 

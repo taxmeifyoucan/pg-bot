@@ -67,6 +67,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Remove Clique block production and mining infrastructure (Phase 3)](https://github.com/besu-eth/besu/pull/10035#pullrequestreview-3939949980) - 2026-03-12
 * [Review] [Review on: Remove deprecation warning from `--block-txs-selection-max-time` still used in PoS networks](https://github.com/besu-eth/besu/pull/10037#pullrequestreview-3939934663) - 2026-03-12
 * [Issue] [snap - client disconnects server for NO_RESULTS_RETURNED when close to sync](https://github.com/besu-eth/besu/issues/10029) - 2026-03-12
+* [Pull Request] [check connection is active if we detect already connected](https://github.com/besu-eth/besu/pull/10041) - 2026-03-13
+* [Pull Request] [add BWS stall detection and step-level debug logging](https://github.com/besu-eth/besu/pull/10045) - 2026-03-13
+* [Pull Request] [Fix typed receipt encoding in putSyncTransactionReceipts](https://github.com/besu-eth/besu/pull/10044) - 2026-03-13
+* [Review] [Review on: Migrate all Guava caches to Caffeine](https://github.com/besu-eth/besu/pull/9909#pullrequestreview-3941274051) - 2026-03-13
+* [Issue] [snap - server disconnecting client for breach of protocol](https://github.com/besu-eth/besu/issues/10043) - 2026-03-13
+* [Issue] [Static peers get stuck in ALREADY_CONNECTED loop after restart race condition](https://github.com/besu-eth/besu/issues/10040) - 2026-03-13
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

@@ -18,6 +18,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Pull Request] [Remove state lru cache](https://github.com/sigp/lighthouse/pull/8724) - 2026-01-30
 * [Pull Request] [Process head_chains in descending order of number of peers](https://github.com/sigp/lighthouse/pull/8859) - 2026-02-19
 * [Issue] [Tweak `prepare_payload_lookahead` default value for gloas](https://github.com/sigp/lighthouse/issues/8912) - 2026-02-27
+* [Review] [Review on: Fix flaky `test_same_subnet_unsubscription`](https://github.com/sigp/lighthouse/pull/8932#pullrequestreview-3945960830) - 2026-03-13
+* [Review] [Review on: Fix intermittent simulator test failures](https://github.com/sigp/lighthouse/pull/8983#pullrequestreview-3946271131) - 2026-03-13
+* [Review] [Review on: Gloas: envelope peer penalties and REJECT/IGNORE mapping](https://github.com/sigp/lighthouse/pull/8981#pullrequestreview-3946190891) - 2026-03-13
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Issue] [Use getBlobs info to estimate private blobs](https://github.com/ethpandaops/lab/issues/374) - 2026-01-10
 ## Q4 2025

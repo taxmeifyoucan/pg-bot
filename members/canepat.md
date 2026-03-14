@@ -32,6 +32,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [hive: add job name to test-hive workflow](https://github.com/erigontech/erigon/pull/19849) - 2026-03-12
 * [Commit] [hive: update max-allowed-failures 57 for rpc-compat (#19863)](https://github.com/erigontech/erigon/commit/1feb8fc72de2335ef8f200acc8b897c800e32d50) - 2026-03-12
 * [Commit] [hive: add job name to test-hive workflow (#19849)](https://github.com/erigontech/erigon/commit/ff064dd6dfa4689c7ecda636bc9d60f85f03a950) - 2026-03-12
+* [Pull Request] [rpc: add support for debug_setHead](https://github.com/erigontech/erigon/pull/19577) - 2026-03-13
+* [Commit] [rpc: add support for debug_setHead (#19577)](https://github.com/erigontech/erigon/commit/ecdf3ab882cccc16573bbd91625eb4f8083538a6) - 2026-03-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: fix system-under-test name in alive check](https://github.com/erigontech/rpc-tests/pull/513) - 2026-01-26
 * [Pull Request] []() - 2026-01-28

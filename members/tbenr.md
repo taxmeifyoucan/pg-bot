@@ -34,6 +34,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Engine api optimizations](https://github.com/Consensys/teku/pull/10469#pullrequestreview-3921573699) - 2026-03-10
 * [Review] [Review on: Use CombinedChainDataClient.getSlotByBlockRoot where it could be used instead of full block retrieval](https://github.com/Consensys/teku/pull/10485#pullrequestreview-3937178337) - 2026-03-12
 * [Pull Request] [Javalin7](https://github.com/Consensys/teku/pull/10484) - 2026-03-12
+* [Pull Request] [Add Missing Domains in specConfig API](https://github.com/Consensys/teku/pull/10488) - 2026-03-13
 ## Q4 2025
 
 

@@ -31,6 +31,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [fix eth simulation hive](https://github.com/erigontech/erigon/pull/19866) - 2026-03-12
 * [Pull Request] [CI: hive reduce max allowed to 1](https://github.com/erigontech/erigon/pull/19816) - 2026-03-12
 * [Commit] [CI: hive reduce max allowed to 1 (#19816)](https://github.com/erigontech/erigon/commit/abf29eb6f513e2aee97527b766af58edb01c9094) - 2026-03-12
+* [Pull Request] [CI: update rpc test from main to v1.122.0](https://github.com/erigontech/erigon/pull/19871) - 2026-03-13
+* [Pull Request] [rpc: fix goroutine leak in EVM cancellation watcher across multiple APIs](https://github.com/erigontech/erigon/pull/19868) - 2026-03-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15
@@ -43,6 +45,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration: enable trace_rawTransaction](https://github.com/erigontech/rpc-tests/pull/526) - 2026-02-27
 * [Pull Request] [integration: debug_traceCall fix exp error with withdrawals](https://github.com/erigontech/rpc-tests/pull/527) - 2026-02-28
 * [Pull Request] []() - 2026-03-02
+* [Review] [Review on: Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529#pullrequestreview-3946032940) - 2026-03-13
 ## Q4 2025
 
 

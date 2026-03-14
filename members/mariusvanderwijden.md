@@ -18,6 +18,7 @@ Team: Geth
 * [Pull Request] [eth/catalyst: add api benchmarks](https://github.com/ethereum/go-ethereum/pull/33944) - 2026-03-03
 * [Pull Request] [go.mod: update go-eth-kzg](https://github.com/ethereum/go-ethereum/pull/33963) - 2026-03-05
 * [Pull Request] []() - 2026-03-08
+* [Review] [Review on: core/vm: rework gas measurement for call variants](https://github.com/ethereum/go-ethereum/pull/33648#pullrequestreview-3942425475) - 2026-03-13
 ## Q4 2025
 
 

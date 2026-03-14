@@ -19,6 +19,9 @@ Team: Geth
 * [Pull Request] [fix eip-7778 in the miner and BAL parallel state processor](https://github.com/ethereum/go-ethereum/pull/33761) - 2026-02-04
 * [Pull Request] [all: devnet 3](https://github.com/ethereum/go-ethereum/pull/33930) - 2026-03-02
 * [Pull Request] [core,miner: clean up miner and BAL config changes](https://github.com/ethereum/go-ethereum/pull/33983) - 2026-03-10
+* [Review] [Review on: rpc: add blockAccessListHash to RPC block header response](https://github.com/ethereum/go-ethereum/pull/33994#pullrequestreview-3946038283) - 2026-03-13
+* [Pull Request] [internal/ethapi: encode slotNumber as hex in RPCMarshalHeader](https://github.com/ethereum/go-ethereum/pull/34005) - 2026-03-13
+* [Commit] [internal/ethapi: encode slotNumber as hex in RPCMarshalHeader (#34005)](https://github.com/ethereum/go-ethereum/commit/ede376af8ea3b8f02c2649f8deab4e0764befbd2) - 2026-03-13
 ## Q4 2025
 
 

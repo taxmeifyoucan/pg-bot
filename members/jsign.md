@@ -29,6 +29,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [update ere and ere-guests](https://github.com/eth-act/zkevm-benchmark-workload/pull/261) - 2026-02-17
 * [Pull Request] [Bump Rust version to fix docker image build in CI](https://github.com/eth-act/zkevm-benchmark-workload/pull/264) - 2026-02-19
 
+* [Pull Request] [fix witness generation](https://github.com/eth-act/zkevm-benchmark-workload/pull/265) - 2026-03-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(specs): delay get_code calls in CALL-like opcodes after gas charging and stack-depth checks](https://github.com/ethereum/execution-specs/pull/2473) - 2026-03-10
 * [Pull Request] [feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472) - 2026-03-10
@@ -49,6 +50,11 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(zkevm): add testing framework support for headers in execution witness and appropriate test coverage](https://github.com/ethereum/execution-specs/pull/2492#pullrequestreview-3938006535) - 2026-03-12
 * [Pull Request] [feat(zkevm): add execution witness bytecode tests for SELFDESTRUCT and extra CALL-like opcode scenarios](https://github.com/ethereum/execution-specs/pull/2491) - 2026-03-12
 * [Review] [Review on: feat(zkevm): add execution witness bytecode tests for SELFDESTRUCT and extra CALL-like opcode scenarios](https://github.com/ethereum/execution-specs/pull/2491#pullrequestreview-3936862676) - 2026-03-12
+* [Pull Request] [feat(zkevm): add test to assert 7702 delegation code loading in failed CALL/CALLCODE because of insufficient balance](https://github.com/ethereum/execution-specs/pull/2505) - 2026-03-13
+* [Review] [Review on: feat(zkevm): add test to assert 7702 delegation code loading in failed CALL/CALLCODE because of insufficient balance](https://github.com/ethereum/execution-specs/pull/2505#pullrequestreview-3946950587) - 2026-03-13
+* [Pull Request] [feat(zkevm): add test coverage for pre-state MPT proofs and post-state auxiliary nodes & fix guest program spec bug](https://github.com/ethereum/execution-specs/pull/2504) - 2026-03-13
+* [Review] [Review on: feat(zkevm): add test coverage for pre-state MPT proofs and post-state auxiliary nodes & fix guest program spec bug](https://github.com/ethereum/execution-specs/pull/2504#pullrequestreview-3946719987) - 2026-03-13
+* [Issue] [Allow using evmone-t8n to fill fixtures with executionWitness field](https://github.com/ethereum/execution-specs/issues/2499) - 2026-03-13
 ## Q4 2025
 
 

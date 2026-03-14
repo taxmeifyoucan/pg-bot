@@ -53,6 +53,17 @@ Team: Reth
 * [Review] [Review on: chore(net): trim tx manager allocations](https://github.com/paradigmxyz/reth/pull/22975#pullrequestreview-3934687672) - 2026-03-12
 * [Pull Request] [feat(primitives): add mix_hash, extra_data, parent_beacon_block_root setters to HeaderMut](https://github.com/paradigmxyz/reth/pull/22977) - 2026-03-12
 * [Commit] [perf(net): avoid collect allocation in tx announcement trace log (#22985)](https://github.com/paradigmxyz/reth/commit/6c908ca28f0d3355050cc923258d7d02f5985a6f) - 2026-03-12
+* [Review] [Review on: perf(rpc): avoid hash_slow in reward traces](https://github.com/paradigmxyz/reth/pull/23011#pullrequestreview-3945223414) - 2026-03-13
+* [Review] [Review on: fix(net): fully remove disconnected peers from transaction state](https://github.com/paradigmxyz/reth/pull/23014#pullrequestreview-3942026957) - 2026-03-13
+* [Review] [Review on: fix(chain-state): correct return type of NewCanonicalChain::tip()](https://github.com/paradigmxyz/reth/pull/23018#pullrequestreview-3942946181) - 2026-03-13
+* [Pull Request] [fix(pool): prevent sender-id map growth on read-only sender+nonce lookups](https://github.com/paradigmxyz/reth/pull/23008) - 2026-03-13
+* [Review] [Review on: feat: fix devnet2(BAL)](https://github.com/paradigmxyz/reth/pull/22988#pullrequestreview-3943405131) - 2026-03-13
+* [Pull Request] [fix(net): gate serde-only imports behind feature flag](https://github.com/paradigmxyz/reth/pull/23010) - 2026-03-13
+* [Review] [Review on: fix(rpc): eth_config returns wrong fork](https://github.com/paradigmxyz/reth/pull/23007#pullrequestreview-3941567565) - 2026-03-13
+* [Review] [Review on: perf: avoid redundant seal_slow when hash is known](https://github.com/paradigmxyz/reth/pull/23009#pullrequestreview-3941523401) - 2026-03-13
+* [Review] [Review on: fix(txpool): use ceiling division for replacement tx price bump check](https://github.com/paradigmxyz/reth/pull/23012#pullrequestreview-3942159008) - 2026-03-13
+* [Commit] [fix(pool): prevent sender-id map growth on read-only sender+nonce lookups (#23008)](https://github.com/paradigmxyz/reth/commit/792ee9245fc00bc31d12355ab707f676e235a917) - 2026-03-13
+* [Commit] [fix(net): gate serde-only imports behind feature flag (#23010)](https://github.com/paradigmxyz/reth/commit/b05a689c460703a284956aa143e8ec0f7aab727a) - 2026-03-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

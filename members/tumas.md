@@ -32,6 +32,12 @@ Team: Grandine
 * [Review] [Review on: Update `POST /eth/v2/beacon/blocks` to publish only signed beacon block for post-Gloas](https://github.com/grandinetech/grandine/pull/600#pullrequestreview-3937459508) - 2026-03-12
 * [Review] [Review on: Send full signed execution payload bid to event stream](https://github.com/grandinetech/grandine/pull/601#pullrequestreview-3937310437) - 2026-03-12
 * [Review] [Review on: Add payload attestation tick](https://github.com/grandinetech/grandine/pull/603#pullrequestreview-3936444205) - 2026-03-12
+* [Review] [Review on: Deduplicate CI build runs for internal PRs](https://github.com/grandinetech/grandine/pull/634#pullrequestreview-3943878789) - 2026-03-13
+* [Review] [Review on: Add `engine_forkchoiceUpdatedV4` support for BAL](https://github.com/grandinetech/grandine/pull/633#pullrequestreview-3944699209) - 2026-03-13
+* [Pull Request] [Pin specific version of ZISK in tests](https://github.com/grandinetech/grandine/pull/636) - 2026-03-13
+* [Review] [Review on: Check pubkey in pending deposits before register builder](https://github.com/grandinetech/grandine/pull/602#pullrequestreview-3943760724) - 2026-03-13
+* [Review] [Review on: Use nethermind reference assemblies from github](https://github.com/grandinetech/grandine/pull/635#pullrequestreview-3943201197) - 2026-03-13
+* [Commit] [Pin specific version of ZISK in tests](https://github.com/grandinetech/grandine/commit/b7e70190967b1abcdb335cbec422d9922f0e6690) - 2026-03-13
 ## Q4 2025
 
 

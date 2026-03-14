@@ -61,6 +61,8 @@ Team: Erigon
 * [Pull Request] [[wip] seg: `MatchCmp()` unit-tests and zero-copy](https://github.com/erigontech/erigon/pull/19845) - 2026-03-12
 * [Review] [Review on: state, stagedsync: split apply loop into state/index/commitment + decouple accumulator](https://github.com/erigontech/erigon/pull/19817#pullrequestreview-3933977650) - 2026-03-12
 * [Commit] [pagedWriter: one method to build page (#19841)](https://github.com/erigontech/erigon/commit/296df58a2acff54d9044d3581616d969c1c3635b) - 2026-03-12
+* [Review] [Review on: common/hexutil: deduplicate UnmarshalFixedText and UnmarshalFixedUnprefixedText](https://github.com/erigontech/erigon/pull/19790#pullrequestreview-3942494031) - 2026-03-13
+* [Review] [Review on: cmd/utils/app: retrofit tests for state snapshot integrity checks](https://github.com/erigontech/erigon/pull/19867#pullrequestreview-3941953078) - 2026-03-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

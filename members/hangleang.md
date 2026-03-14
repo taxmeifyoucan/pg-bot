@@ -24,6 +24,13 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add `engine_forkchoiceUpdatedV4` support for BAL](https://github.com/grandinetech/grandine/pull/633) - 2026-03-12
 * [Pull Request] [Deduplicate CI build runs for internal PRs](https://github.com/grandinetech/grandine/pull/634) - 2026-03-12
 * [Commit] [Send signed execution payload bid event](https://github.com/grandinetech/grandine/commit/ea23cb75041cfd43efa4dd540c8dd7cf8f5c6c4f) - 2026-03-12
+* [Review] [Review on: Deduplicate CI build runs for internal PRs](https://github.com/grandinetech/grandine/pull/634#pullrequestreview-3944622248) - 2026-03-13
+* [Review] [Review on: Add payload attestation tick](https://github.com/grandinetech/grandine/pull/603#pullrequestreview-3946110268) - 2026-03-13
+* [Pull Request] [Check pubkey in pending deposits before register builder](https://github.com/grandinetech/grandine/pull/602) - 2026-03-13
+* [Review] [Review on: Check pubkey in pending deposits before register builder](https://github.com/grandinetech/grandine/pull/602#pullrequestreview-3942334431) - 2026-03-13
+* [Commit] [Add deposit signature cache](https://github.com/grandinetech/grandine/commit/7ea5ca346e201d088df3133cad72ada9325b2259) - 2026-03-13
+* [Commit] [Check pubkey in pending deposits before register builder](https://github.com/grandinetech/grandine/commit/7b58bbf4a46e82901dbbd0c67b44fd9953bb3b1c) - 2026-03-13
+* [Commit] [Update `POST /eth/v2/beacon/blocks` to publish only signed beacon block](https://github.com/grandinetech/grandine/commit/157072f81eb675e147e5a745cd1cdd353be7ac2a) - 2026-03-13
 ## Q4 2025
 
 

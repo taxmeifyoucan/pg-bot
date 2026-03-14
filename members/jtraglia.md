@@ -44,6 +44,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Add `parent_block_root` to bid filtering key](https://github.com/ethereum/consensus-specs/pull/5001) - 2026-03-12
 * [Review] [Review on: Add cached PTCs to the state](https://github.com/ethereum/consensus-specs/pull/4992#pullrequestreview-3938360509) - 2026-03-12
 * [Commit] [Add `parent_block_root` to bid filtering key (#5001)](https://github.com/ethereum/consensus-specs/commit/f0f41198d6a8d7ae709d7d36a61c1e97c235d8ec) - 2026-03-12
+* [Review] [Review on: Simplify `process_proposer_lookahead`](https://github.com/ethereum/consensus-specs/pull/5003#pullrequestreview-3945657199) - 2026-03-13
+* [Pull Request] [Add dependencies section to release notes](https://github.com/ethereum/consensus-specs/pull/5004) - 2026-03-13
+* [Review] [Review on: Add initial fork choice tests for Gloas](https://github.com/ethereum/consensus-specs/pull/4940#pullrequestreview-3943950648) - 2026-03-13
+* [Commit] [Add dependencies section to release notes (#5004)](https://github.com/ethereum/consensus-specs/commit/e50889e1ca5b09b70abc90df7d1ece4b2581e4ce) - 2026-03-13
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: enable specref features & remove unnecessary spec items](https://github.com/ChainSafe/lodestar/pull/8788) - 2026-01-27
 

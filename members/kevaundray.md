@@ -47,6 +47,9 @@ Team: Consensus R&D (EF)
 * [Pull Request] [chore: Add back invalid blocks](https://github.com/ethereum/execution-specs/pull/2495) - 2026-03-13
 * [Review] [Review on: feat(zkevm): add testing framework support for headers in execution witness and appropriate test coverage](https://github.com/ethereum/execution-specs/pull/2492#pullrequestreview-3938685367) - 2026-03-12
 * [Review] [Review on: feat(zkevm): add execution witness bytecode tests for SELFDESTRUCT and extra CALL-like opcode scenarios](https://github.com/ethereum/execution-specs/pull/2491#pullrequestreview-3937342785) - 2026-03-12
+* [Review] [Review on: feat(zkevm): add test to assert 7702 delegation code loading in failed CALL/CALLCODE because of insufficient balance](https://github.com/ethereum/execution-specs/pull/2505#pullrequestreview-3947267166) - 2026-03-13
+* [Pull Request] [chore(zkevm): Explicitly skip state tests and add witness for invalid blocks](https://github.com/ethereum/execution-specs/pull/2500) - 2026-03-13
+* [Issue] [7702 edge cases for ExecutionWitness](https://github.com/ethereum/execution-specs/issues/2501) - 2026-03-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 
@@ -56,6 +59,8 @@ Team: Consensus R&D (EF)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [chore(do not merge): check zkevm test fixtures failures](https://github.com/ethereum/go-ethereum/pull/33996) - 2026-03-13
 
+* [Pull Request] [core: Make `ExecuteStateless` fully self-validating](https://github.com/ethereum/go-ethereum/pull/34007) - 2026-03-13
+* [Review] [Review on: core: Make `ExecuteStateless` fully self-validating](https://github.com/ethereum/go-ethereum/pull/34007#pullrequestreview-3946460312) - 2026-03-13
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807) - 2026-03-12
 * [Review] [Review on: feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807#pullrequestreview-3936922823) - 2026-03-12

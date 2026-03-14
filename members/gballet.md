@@ -39,6 +39,12 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core, miner, tests: introduce codedb and simplify cachingDB](https://github.com/ethereum/go-ethereum/pull/33816#pullrequestreview-3920343071) - 2026-03-10
 * [Pull Request] [trie/bintrie: use a sync.Pool when hashing binary tree nodes](https://github.com/ethereum/go-ethereum/pull/33989) - 2026-03-12
 * [Commit] [trie/bintrie: use a sync.Pool when hashing binary tree nodes (#33989)](https://github.com/ethereum/go-ethereum/commit/1c9ddee16f925989cc6bda3df39a98cd46c8b1f1) - 2026-03-12
+* [Review] [Review on: cmd/evm: don't strip prefixes on requests over t8n](https://github.com/ethereum/go-ethereum/pull/33997#pullrequestreview-3942458300) - 2026-03-13
+* [Review] [Review on: internal/ethapi: encode slotNumber as hex in RPCMarshalHeader](https://github.com/ethereum/go-ethereum/pull/34005#pullrequestreview-3945228001) - 2026-03-13
+* [Pull Request] [core, params: binary/verkle conversion activation](https://github.com/ethereum/go-ethereum/pull/34004) - 2026-03-13
+* [Review] [Review on: console: fix autocomplete digit range to include 0](https://github.com/ethereum/go-ethereum/pull/34003#pullrequestreview-3943001503) - 2026-03-13
+* [Review] [Review on: core/rawdb: enforce exact key length for num->hash and td in db inspect](https://github.com/ethereum/go-ethereum/pull/34000#pullrequestreview-3942497938) - 2026-03-13
+* [Review] [Review on: p2p/enode: migrate node database from leveldb to pebble](https://github.com/ethereum/go-ethereum/pull/33998#pullrequestreview-3942442526) - 2026-03-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7864: encode offset as big endian](https://github.com/ethereum/EIPs/pull/11389) - 2026-03-09
 ## Q4 2025

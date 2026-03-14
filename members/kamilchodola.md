@@ -29,6 +29,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [fix: background task scheduler — remove re-queue loop, add cancellation bail-outs](https://github.com/NethermindEth/nethermind/pull/10722) - 2026-03-12
 * [Commit] [fix: background task scheduler — remove re-queue loop, add cancellation bail-outs (#10722)](https://github.com/NethermindEth/nethermind/commit/5d312acbf88f8fc851132083b3f61a908465c185) - 2026-03-12
+* [Pull Request] [Kch/sync supported fix](https://github.com/NethermindEth/nethermind/pull/10823) - 2026-03-13
+
+[NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
+* [Pull Request] [Fix/stateful repricing mode](https://github.com/NethermindEth/gas-benchmarks/pull/131) - 2026-03-13
+* [Commit] [Fix/stateful repricing mode (#131)](https://github.com/NethermindEth/gas-benchmarks/commit/e447c0bc17abd422b59ee4db8a488f2dce6fa10c) - 2026-03-13
+* [Commit] [Delete repricings_stateful/perf-devnet-3_warmup directory](https://github.com/NethermindEth/gas-benchmarks/commit/3b9893ae9448f8e567c724d607f067390c4be779) - 2026-03-13
+* [Commit] [Delete repricings_stateful/perf-devnet-3 directory](https://github.com/NethermindEth/gas-benchmarks/commit/662450d09b9b4d30fe9868c0b1bddf7ac104f51e) - 2026-03-13
 ## Q4 2025
 
 
