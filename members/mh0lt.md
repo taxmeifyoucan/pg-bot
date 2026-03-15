@@ -76,6 +76,16 @@ Team: Erigon
 * [Commit] [execution/vm: skip CanTransfer for zero-value calls (EIP-7928) (#19872)](https://github.com/erigontech/erigon/commit/eea4801c50482f45db5c6658eca3ef725efd8236) - 2026-03-13
 * [Commit] [commitment, stagedsync: replace progress channel with callback (#19874)](https://github.com/erigontech/erigon/commit/f1808aa45edf7461b640828d51d7380ac55e2b1e) - 2026-03-13
 * [Commit] [db/kv/mdbx: fix deadlock in async tx channel on context cancellation (#19856)](https://github.com/erigontech/erigon/commit/2b495bb1bc750c45fa732ca650e73b22b51adc80) - 2026-03-13
+* [Pull Request] [membatchwithdb: pure Go in-memory KV store replacing MDBX for MemoryMutation](https://github.com/erigontech/erigon/pull/19882) - 2026-03-14
+* [Pull Request] [etl, state: reduce allocation pressure in parallel executor](https://github.com/erigontech/erigon/pull/19884) - 2026-03-14
+* [Pull Request] [state, stagedsync: enable deferred branch updates for parallel executor](https://github.com/erigontech/erigon/pull/19885) - 2026-03-14
+* [Pull Request] [commitment: add warmup cache hit/miss metrics](https://github.com/erigontech/erigon/pull/19887) - 2026-03-14
+* [Pull Request] [bal-devnet-2 working update: fix BAL system address filter and gas_table tracking](https://github.com/erigontech/erigon/pull/19894) - 2026-03-14
+* [Pull Request] [stagedsync: fix cross-block state race in parallel executor](https://github.com/erigontech/erigon/pull/19891) - 2026-03-14
+* [Issue] [TxLookup prune burns constant 2s per block at chain tip regardless of work](https://github.com/erigontech/erigon/issues/19890) - 2026-03-14
+* [Commit] [commitment: add warmup cache hit/miss metrics (#19887)](https://github.com/erigontech/erigon/commit/37ebab40874ea3cde31b3c8ee5238bd359a96247) - 2026-03-14
+* [Commit] [stagedsync: fix parallel executor deadlock in scheduleExecution (#19877)](https://github.com/erigontech/erigon/commit/6e4206ff205a431904290a4bac22f9a517846089) - 2026-03-14
+* [Commit] [execmodule: add block overlay to SharedDomains for InsertBlocks (#19876)](https://github.com/erigontech/erigon/commit/f52ded823f2058dcb96188dbe7c6a2b994cb293c) - 2026-03-14
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

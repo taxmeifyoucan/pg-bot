@@ -63,6 +63,21 @@ Team: Erigon
 * [Commit] [pagedWriter: one method to build page (#19841)](https://github.com/erigontech/erigon/commit/296df58a2acff54d9044d3581616d969c1c3635b) - 2026-03-12
 * [Review] [Review on: common/hexutil: deduplicate UnmarshalFixedText and UnmarshalFixedUnprefixedText](https://github.com/erigontech/erigon/pull/19790#pullrequestreview-3942494031) - 2026-03-13
 * [Review] [Review on: cmd/utils/app: retrofit tests for state snapshot integrity checks](https://github.com/erigontech/erigon/pull/19867#pullrequestreview-3941953078) - 2026-03-13
+* [Pull Request] [paged writer: to correct check concurrency](https://github.com/erigontech/erigon/pull/19896) - 2026-03-15
+* [Pull Request] [property-based tests for segments and indices](https://github.com/erigontech/erigon/pull/19881) - 2026-03-14
+* [Review] [Review on: rlp: optimize RLP encode/decode to reduce allocations](https://github.com/erigontech/erigon/pull/19892#pullrequestreview-3949513622) - 2026-03-15
+* [Pull Request] [[3.4] skip in-mem history accumulation in sd for offline execution](https://github.com/erigontech/erigon/pull/19895) - 2026-03-15
+* [Review] [Review on: rpc: fix goroutine leak in EVM cancellation watcher across multiple APIs](https://github.com/erigontech/erigon/pull/19868#pullrequestreview-3949510908) - 2026-03-15
+* [Review] [Review on: rpc: add --rpc.logs.maxresults limit on log rpc-API](https://github.com/erigontech/erigon/pull/19721#pullrequestreview-3949508283) - 2026-03-15
+* [Review] [Review on: etl, state: reduce allocation pressure in parallel executor](https://github.com/erigontech/erigon/pull/19884#pullrequestreview-3948911036) - 2026-03-14
+* [Review] [Review on: state, stagedsync: enable deferred branch updates for parallel executor](https://github.com/erigontech/erigon/pull/19885#pullrequestreview-3948911631) - 2026-03-14
+* [Review] [Review on: commitment: add warmup cache hit/miss metrics](https://github.com/erigontech/erigon/pull/19887#pullrequestreview-3948912222) - 2026-03-14
+* [Pull Request] [couple skills and unit-tests](https://github.com/erigontech/erigon/pull/19888) - 2026-03-14
+* [Pull Request] [[wip] etl: sort fastpath based on u64 prefix](https://github.com/erigontech/erigon/pull/19886) - 2026-03-14
+* [Review] [Review on: stagedsync: fix parallel executor deadlock in scheduleExecution](https://github.com/erigontech/erigon/pull/19877#pullrequestreview-3947825454) - 2026-03-14
+* [Review] [Review on: execmodule: add block overlay to SharedDomains for InsertBlocks](https://github.com/erigontech/erigon/pull/19876#pullrequestreview-3947827648) - 2026-03-14
+* [Review] [Review on: [r3.4] cmd/utils/app: retrofit tests for state snapshot integrity checks](https://github.com/erigontech/erigon/pull/19878#pullrequestreview-3947824944) - 2026-03-14
+* [Review] [Review on: CI: update rpc test from main to v1.122.0](https://github.com/erigontech/erigon/pull/19871#pullrequestreview-3947824142) - 2026-03-14
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

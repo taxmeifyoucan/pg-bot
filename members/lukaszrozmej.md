@@ -74,6 +74,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [refactor: comprehensive test and code deduplication (#10815)](https://github.com/NethermindEth/nethermind/commit/6ce10ecbcb6e7e262c11f2a1014473bd580c60c6) - 2026-03-14
 * [Commit] [chore: Clean up cspell dictionary with inline ignores and typo fixes (#10819)](https://github.com/NethermindEth/nethermind/commit/45d9b9f9d30c1b4db5b8e21c70758a775d0ab790) - 2026-03-13
 * [Commit] [Rework engine API versioning (#10786)](https://github.com/NethermindEth/nethermind/commit/b4af34b32f5f315044b8ee31e540c2baff36a60f) - 2026-03-13
+* [Review] [Review on: fix: IByteBuffer leak in ZeroSnappyEncoder.Encode](https://github.com/NethermindEth/nethermind/pull/10833#pullrequestreview-3949328435) - 2026-03-14
+* [Review] [Review on: Simplify releasing & fix `IByteBuffer` leaks in tests](https://github.com/NethermindEth/nethermind/pull/10814#pullrequestreview-3948600205) - 2026-03-14
 ## Q4 2025
 
 

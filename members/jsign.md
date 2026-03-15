@@ -30,6 +30,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [Bump Rust version to fix docker image build in CI](https://github.com/eth-act/zkevm-benchmark-workload/pull/264) - 2026-02-19
 
 * [Pull Request] [fix witness generation](https://github.com/eth-act/zkevm-benchmark-workload/pull/265) - 2026-03-13
+* [Commit] [fix witness generation (#265)](https://github.com/eth-act/zkevm-benchmark-workload/commit/63da9dde9b284dc4845cf7128c3f0d7c53d21654) - 2026-03-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(specs): delay get_code calls in CALL-like opcodes after gas charging and stack-depth checks](https://github.com/ethereum/execution-specs/pull/2473) - 2026-03-10
 * [Pull Request] [feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472) - 2026-03-10

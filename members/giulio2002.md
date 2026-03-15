@@ -44,6 +44,7 @@ Team: Erigon
 * [Review] [Review on: agg: allow build without merge](https://github.com/erigontech/erigon/pull/19844#pullrequestreview-3935669997) - 2026-03-12
 * [Review] [Review on: integration: `engine.Close()`](https://github.com/erigontech/erigon/pull/19843#pullrequestreview-3935670129) - 2026-03-12
 * [Review] [Review on: pagedWriter: one method to build page](https://github.com/erigontech/erigon/pull/19841#pullrequestreview-3935670296) - 2026-03-12
+* [Review] [Review on: deps: update fastkeccak](https://github.com/erigontech/erigon/pull/19880#pullrequestreview-3948659731) - 2026-03-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Engine API Communication Channels](https://github.com/ethereum/EIPs/pull/11360) - 2026-02-28
 

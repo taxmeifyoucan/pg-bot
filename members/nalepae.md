@@ -28,6 +28,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Fix `TestProcessPendingDepositsMultiplesSameDeposits` to properly test that duplicate pending deposits for the same key top up a single validator instead of creating duplicates.](https://github.com/OffchainLabs/prysm/pull/16529) - 2026-03-13
 * [Review] [Review on: changed /eth/v1/beacon/execution_payload_envelope/{block_root} to /eth/v1/beacon/execution_payload_envelope/{block_id} defined in beacon apis](https://github.com/OffchainLabs/prysm/pull/16521#pullrequestreview-3942721290) - 2026-03-13
 * [Commit] [Fix `TestProcessPendingDepositsMultiplesSameDeposits` to properly test that duplicate pending deposits for the same key top up a single validator instead of creating duplicates. (#16529)](https://github.com/OffchainLabs/prysm/commit/84993fdd684cc06dfab98dc16395753db02775ab) - 2026-03-13
+* [Pull Request] [Reduce log noise by returning `nil` error when ignoring already-seen data column sidecars during gossip validation](https://github.com/OffchainLabs/prysm/pull/16536) - 2026-03-14
+* [Pull Request] [Compact validator](https://github.com/OffchainLabs/prysm/pull/16535) - 2026-03-14
+* [Commit] [Reduce log noise by returning `nil` error when ignoring already-seen data column sidecars during gossip validation (#16536)](https://github.com/OffchainLabs/prysm/commit/36052ed1bb4e0e5494eab651e4601c8e0e560290) - 2026-03-14
 ## Q4 2025
 
 

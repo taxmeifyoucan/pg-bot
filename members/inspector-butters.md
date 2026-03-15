@@ -22,3 +22,4 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [Hdiff fixes](https://github.com/OffchainLabs/prysm/pull/16533) - 2026-03-13
 * [Review] [Review on: Use read only validator accessor in `IsPayloadTimelyCommittee`](https://github.com/OffchainLabs/prysm/pull/16530#pullrequestreview-3946134301) - 2026-03-13
 * [Review] [Review on: Hdiff restart support](https://github.com/OffchainLabs/prysm/pull/16389#pullrequestreview-3946329244) - 2026-03-13
+* [Review] [Review on: Reduce log noise by returning `nil` error when ignoring already-seen data column sidecars during gossip validation](https://github.com/OffchainLabs/prysm/pull/16536#pullrequestreview-3949262626) - 2026-03-14

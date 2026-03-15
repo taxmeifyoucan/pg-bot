@@ -55,6 +55,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/vm: skip CanTransfer for zero-value calls (EIP-7928)](https://github.com/erigontech/erigon/pull/19872#pullrequestreview-3944521519) - 2026-03-13
 * [Review] [Review on: commitment, stagedsync: replace progress channel with callback](https://github.com/erigontech/erigon/pull/19874#pullrequestreview-3944597568) - 2026-03-13
 * [Review] [Review on: exec3_parallel: eliminate IBS round-trip in finalize path](https://github.com/erigontech/erigon/pull/19814#pullrequestreview-3944509029) - 2026-03-13
+* [Pull Request] [rlp: optimize RLP encode/decode to reduce allocations](https://github.com/erigontech/erigon/pull/19892) - 2026-03-14
+* [Review] [Review on: stagedsync, execmodule: halt on invalid block during parallel initial sync](https://github.com/erigontech/erigon/pull/19870#pullrequestreview-3949249742) - 2026-03-14
+* [Review] [Review on: build(deps): bump undici from 6.23.0 to 6.24.0 in /.github/workflows/scripts/test_report](https://github.com/erigontech/erigon/pull/19879#pullrequestreview-3949208433) - 2026-03-14
+* [Review] [Review on: builder: collapse builderstages into builder, replace staged-sync machinery with plain struct](https://github.com/erigontech/erigon/pull/19830#pullrequestreview-3949203087) - 2026-03-14
+* [Review] [Review on: stagedsync: add BAD_BLOCK_HALT env var, fix parallel STOP_AFTER_BLOCK](https://github.com/erigontech/erigon/pull/19803#pullrequestreview-3949186238) - 2026-03-14
+* [Pull Request] [deps: update fastkeccak](https://github.com/erigontech/erigon/pull/19880) - 2026-03-14
+* [Review] [Review on: [SharovBot] fix(execmodule): use blocking Acquire in SetHead to fix flaky TestSetHeadCanonicalCleanup](https://github.com/erigontech/erigon/pull/19893#pullrequestreview-3948987227) - 2026-03-14
+* [Commit] [deps: update fastkeccak (#19880)](https://github.com/erigontech/erigon/commit/b54562c69d89eaeaeb0f0d142fd00c9f24dd7798) - 2026-03-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 ## Q4 2025

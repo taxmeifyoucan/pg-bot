@@ -50,6 +50,8 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: feat(zkevm): add test to assert 7702 delegation code loading in failed CALL/CALLCODE because of insufficient balance](https://github.com/ethereum/execution-specs/pull/2505#pullrequestreview-3947267166) - 2026-03-13
 * [Pull Request] [chore(zkevm): Explicitly skip state tests and add witness for invalid blocks](https://github.com/ethereum/execution-specs/pull/2500) - 2026-03-13
 * [Issue] [7702 edge cases for ExecutionWitness](https://github.com/ethereum/execution-specs/issues/2501) - 2026-03-13
+* [Pull Request] [chore(tests): Add test for exponent padding in modexp precompile](https://github.com/ethereum/execution-specs/pull/2508) - 2026-03-14
+* [Review] [Review on: chore(zkevm): Explicitly skip state tests and add witness for invalid blocks](https://github.com/ethereum/execution-specs/pull/2495#pullrequestreview-3948761838) - 2026-03-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 

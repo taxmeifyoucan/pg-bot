@@ -54,6 +54,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Use read only validator accessor in `IsPayloadTimelyCommittee` (#16530)](https://github.com/OffchainLabs/prysm/commit/458d4ebe54f49358f6005b849aec5a55ee41690f) - 2026-03-13
 * [Commit] [metrics: add initial gloas metric (#16519)](https://github.com/OffchainLabs/prysm/commit/416c49e6d5a50a88b47333ec4dbfac90f19e8a39) - 2026-03-13
 * [Commit] [forkchoice: fix forkchoice balance underflow when att slot change (#16520)](https://github.com/OffchainLabs/prysm/commit/6605dfbd502422c61154f2e21655ae8f8621b109) - 2026-03-13
+* [Review] [Review on: Reduce log noise by returning `nil` error when ignoring already-seen data column sidecars during gossip validation](https://github.com/OffchainLabs/prysm/pull/16536#pullrequestreview-3949338980) - 2026-03-14
 ## Q4 2025
 
 

@@ -31,6 +31,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Make state available if not pruned](https://github.com/NethermindEth/nethermind/pull/10822) - 2026-03-13
 * [Review] [Review on: Kch/sync supported fix](https://github.com/NethermindEth/nethermind/pull/10823#pullrequestreview-3944232241) - 2026-03-13
 * [Review] [Review on: chore: Clean up cspell dictionary with inline ignores and typo fixes](https://github.com/NethermindEth/nethermind/pull/10819#pullrequestreview-3943082232) - 2026-03-13
+* [Review] [Review on: fix(ssz): mix in count=0 (not limit) for null/empty lists in MerkleizeList templates](https://github.com/NethermindEth/nethermind/pull/10828#pullrequestreview-3948850113) - 2026-03-14
+* [Review] [Review on: Make state available if not pruned](https://github.com/NethermindEth/nethermind/pull/10822#pullrequestreview-3948397675) - 2026-03-14
+* [Commit] [Make state available if not pruned (#10822)](https://github.com/NethermindEth/nethermind/commit/3e66b594ef4eb7a05ae7e9ec7af1462caa26a9ff) - 2026-03-14
 ## Q4 2025
 
 

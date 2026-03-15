@@ -64,6 +64,10 @@ Team: Reth
 * [Review] [Review on: fix(txpool): use ceiling division for replacement tx price bump check](https://github.com/paradigmxyz/reth/pull/23012#pullrequestreview-3942159008) - 2026-03-13
 * [Commit] [fix(pool): prevent sender-id map growth on read-only sender+nonce lookups (#23008)](https://github.com/paradigmxyz/reth/commit/792ee9245fc00bc31d12355ab707f676e235a917) - 2026-03-13
 * [Commit] [fix(net): gate serde-only imports behind feature flag (#23010)](https://github.com/paradigmxyz/reth/commit/b05a689c460703a284956aa143e8ec0f7aab727a) - 2026-03-13
+* [Review] [Review on: fix(txpool): use ceiling division for replacement tx price bump check](https://github.com/paradigmxyz/reth/pull/23012#pullrequestreview-3948380025) - 2026-03-14
+* [Review] [Review on: fix(net): treat malformed blob sidecar responses as peer misbehavior](https://github.com/paradigmxyz/reth/pull/23035#pullrequestreview-3948105015) - 2026-03-14
+* [Review] [Review on: fix(net): fully remove disconnected peers from transaction state](https://github.com/paradigmxyz/reth/pull/23014#pullrequestreview-3948091505) - 2026-03-14
+* [Review] [Review on: fix(rpc): disable fee charge in eth_createAccessList](https://github.com/paradigmxyz/reth/pull/23026#pullrequestreview-3947849285) - 2026-03-14
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

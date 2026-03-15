@@ -46,12 +46,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(state-transition): add gloas fields/methods to IBeaconStateView](https://github.com/ChainSafe/lodestar/pull/8963#pullrequestreview-3944752700) - 2026-03-13
 * [Review] [Review on: fix(reqresp): clear composed response timeout signals](https://github.com/ChainSafe/lodestar/pull/9029#pullrequestreview-3944356755) - 2026-03-13
 * [Review] [Review on: fix: correct pre-Deneb attestation propagation slot range boundary](https://github.com/ChainSafe/lodestar/pull/9031#pullrequestreview-3944382395) - 2026-03-13
+* [Pull Request] [feat: add QUIC support](https://github.com/ChainSafe/lodestar/pull/8051) - 2026-03-14
+* [Commit] [feat: add QUIC support (#8051)](https://github.com/ChainSafe/lodestar/commit/92c37f252528d23cd87f6abcd90a3fe7d477020a) - 2026-03-14
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: merge blst-z](https://github.com/ChainSafe/lodestar-z/pull/237) - 2026-03-12
 * [Review] [Review on: feat(fuzz): add AFL++ fuzz testing for SSZ deserialization](https://github.com/ChainSafe/lodestar-z/pull/228#pullrequestreview-3933528390) - 2026-03-12
 * [Pull Request] [ fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241) - 2026-03-13
 * [Review] [Review on: fix(st): add errdefer chain for epoch cache functions](https://github.com/ChainSafe/lodestar-z/pull/227#pullrequestreview-3944715465) - 2026-03-13
 * [Commit] [feat: merge blst-z (#237)](https://github.com/ChainSafe/lodestar-z/commit/51326ef67738534c57d25d49d54da078a963ea94) - 2026-03-13
+* [Review] [Review on: feat(napi): metrics bindings](https://github.com/ChainSafe/lodestar-z/pull/211#pullrequestreview-3949096795) - 2026-03-14
+* [Commit] [fix(bench): fix compilation errors in SSZ and state transition benchmarks (#241)](https://github.com/ChainSafe/lodestar-z/commit/3efe52981c4945ba6ddeeae4420b74efefdd4b4c) - 2026-03-14
 ## Q4 2025
 
 

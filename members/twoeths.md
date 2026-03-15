@@ -39,6 +39,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat(state-transition): add gloas fields/methods to IBeaconStateView (#8963)](https://github.com/ChainSafe/lodestar/commit/8299317d72794a03c09ae88ad163812c91d14c31) - 2026-03-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
+* [Review] [Review on: fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241#pullrequestreview-3948190078) - 2026-03-14
 ## Q4 2025
 
 

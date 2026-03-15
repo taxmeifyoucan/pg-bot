@@ -40,6 +40,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore(agents): add EIP implementation, review, and fork-creation skills](https://github.com/NethermindEth/nethermind/pull/10709#pullrequestreview-3942836201) - 2026-03-13
 * [Commit] [chore: Update packages (#10827)](https://github.com/NethermindEth/nethermind/commit/6ac0722d00930229edbd603259a02243d5e08da3) - 2026-03-14
 * [Commit] [chore: Refactor and rename BLS12-381 precompiles (#10808)](https://github.com/NethermindEth/nethermind/commit/9156daad79adadcc52ea71396df01e0d61228013) - 2026-03-13
+* [Review] [Review on: ci: surface diff output on dotnet format failure](https://github.com/NethermindEth/nethermind/pull/10835#pullrequestreview-3949416865) - 2026-03-14
+* [Pull Request] [feat: Add Codex review workflow](https://github.com/NethermindEth/nethermind/pull/10832) - 2026-03-14
 ## Q4 2025
 
 

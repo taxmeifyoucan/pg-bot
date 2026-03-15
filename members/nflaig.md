@@ -57,6 +57,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: correct pre-Deneb attestation propagation slot range boundary](https://github.com/ChainSafe/lodestar/pull/9031) - 2026-03-13
 * [Review] [Review on: fix: correct pre-Deneb attestation propagation slot range boundary](https://github.com/ChainSafe/lodestar/pull/9031#pullrequestreview-3943609725) - 2026-03-13
 * [Commit] [fix: correct pre-Deneb attestation propagation slot range boundary (#9031)](https://github.com/ChainSafe/lodestar/commit/1ddf8e46a9295c45bb747cac103e4fa3cbf3e062) - 2026-03-13
+* [Pull Request] [feat: update voluntary exit for gloas](https://github.com/ChainSafe/lodestar/pull/9039) - 2026-03-14
+* [Review] [Review on: feat: update voluntary exit for gloas](https://github.com/ChainSafe/lodestar/pull/9039#pullrequestreview-3949310643) - 2026-03-14
+* [Pull Request] [chore: v1.41.0 release](https://github.com/ChainSafe/lodestar/pull/9038) - 2026-03-14
+* [Review] [Review on: chore: update lockfile for @libp2p/utils 7.0.13](https://github.com/ChainSafe/lodestar/pull/9037#pullrequestreview-3948619020) - 2026-03-14
+* [Review] [Review on: chore: replace BuildJet runners with GitHub runners](https://github.com/ChainSafe/lodestar/pull/9036#pullrequestreview-3948544525) - 2026-03-14
 ## Q4 2025
 
 
