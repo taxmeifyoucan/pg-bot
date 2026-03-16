@@ -23,6 +23,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Pull Request] [add EVM static flow control call](https://github.com/ethereum/pm/pull/1947) - 2026-02-23
 * [Pull Request] [add asanso to facilitators](https://github.com/ethereum/pm/pull/1950) - 2026-02-26
 * [Issue] [All Core Devs - Execution (ACDE) #232, March 12, 2026](https://github.com/ethereum/pm/issues/1955) - 2026-03-02
+* [Issue] [All Core Devs - Execution (ACDE) #233, March 26, 2026](https://github.com/ethereum/pm/issues/1970) - 2026-03-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Move to Living](https://github.com/ethereum/EIPs/pull/11239) - 2026-02-03
 * [Pull Request] [Update EIP-7607: Move to Final](https://github.com/ethereum/EIPs/pull/11237) - 2026-02-04

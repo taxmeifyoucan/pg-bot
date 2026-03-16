@@ -68,6 +68,9 @@ Team: Reth
 * [Review] [Review on: fix(net): treat malformed blob sidecar responses as peer misbehavior](https://github.com/paradigmxyz/reth/pull/23035#pullrequestreview-3948105015) - 2026-03-14
 * [Review] [Review on: fix(net): fully remove disconnected peers from transaction state](https://github.com/paradigmxyz/reth/pull/23014#pullrequestreview-3948091505) - 2026-03-14
 * [Review] [Review on: fix(rpc): disable fee charge in eth_createAccessList](https://github.com/paradigmxyz/reth/pull/23026#pullrequestreview-3947849285) - 2026-03-14
+* [Review] [Review on: fix(p2p): respect --bootnodes flag in `reth p2p` commands](https://github.com/paradigmxyz/reth/pull/23040#pullrequestreview-3949893112) - 2026-03-15
+* [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23041#pullrequestreview-3949889186) - 2026-03-15
+* [Review] [Review on: fix(pool): clean up blob sidecars when removing transactions](https://github.com/paradigmxyz/reth/pull/23030#pullrequestreview-3949895812) - 2026-03-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

@@ -63,6 +63,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [deps: update fastkeccak](https://github.com/erigontech/erigon/pull/19880) - 2026-03-14
 * [Review] [Review on: [SharovBot] fix(execmodule): use blocking Acquire in SetHead to fix flaky TestSetHeadCanonicalCleanup](https://github.com/erigontech/erigon/pull/19893#pullrequestreview-3948987227) - 2026-03-14
 * [Commit] [deps: update fastkeccak (#19880)](https://github.com/erigontech/erigon/commit/b54562c69d89eaeaeb0f0d142fd00c9f24dd7798) - 2026-03-14
+* [Pull Request] [types: store mandatory uint256.Int fields by value](https://github.com/erigontech/erigon/pull/19907) - 2026-03-15
+* [Pull Request] [chain: replace *big.Int with *uint64 for fork blocks/times](https://github.com/erigontech/erigon/pull/19908) - 2026-03-15
+* [Pull Request] [txpool: simplify by extracting helpers and removing duplication](https://github.com/erigontech/erigon/pull/19906) - 2026-03-15
+* [Pull Request] [ci: shard hive EEST consume-engine by fork (~2.8x speedup)](https://github.com/erigontech/erigon/pull/19904) - 2026-03-15
+* [Pull Request] [txpool: replace custom RLP parsing with standard transaction types](https://github.com/erigontech/erigon/pull/19757) - 2026-03-15
+* [Review] [Review on: dbg: add IGNORE_BAL env var for BAL vs non-BAL benchmarking](https://github.com/erigontech/erigon/pull/19903#pullrequestreview-3950392193) - 2026-03-15
+* [Review] [Review on: stagedsync: fix cross-block state race in parallel executor](https://github.com/erigontech/erigon/pull/19891#pullrequestreview-3949968127) - 2026-03-15
+* [Review] [Review on: bal-devnet-2 working update: fix BAL system address filter and gas_table tracking](https://github.com/erigontech/erigon/pull/19894#pullrequestreview-3949935641) - 2026-03-15
+* [Commit] [ci: shard hive EEST consume-engine by fork (~2.8x speedup) (#19904)](https://github.com/erigontech/erigon/commit/6e60e33fa3a2b1dc549e150409be94481915fe64) - 2026-03-15
+* [Commit] [txpool: replace custom RLP parsing with standard transaction types (#19757)](https://github.com/erigontech/erigon/commit/42ae37433a089da000900e9962f3b3c256e81ae8) - 2026-03-15
+* [Commit] [rlp: optimize RLP encode/decode to reduce allocations (#19892)](https://github.com/erigontech/erigon/commit/c1f38a554f8c53a9266ef452176f4522ebb3a4b8) - 2026-03-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 ## Q4 2025

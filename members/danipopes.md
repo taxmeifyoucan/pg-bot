@@ -84,6 +84,14 @@ Team: Reth
 * [Pull Request] [feat: add remarks.txt to compiler dump with phase timings](https://github.com/paradigmxyz/revmc/pull/128) - 2026-03-14
 * [Commit] [feat: add tracy (#129)](https://github.com/paradigmxyz/revmc/commit/9592ad7ba70bb77a96583988acbe7d33a19afa06) - 2026-03-14
 * [Commit] [feat: add remarks.txt to compiler dump with phase timings (#128)](https://github.com/paradigmxyz/revmc/commit/b8f827159953e49ae3d60a2e46518a05c816baef) - 2026-03-14
+* [Pull Request] [perf: use static relocation mode for JIT compilation](https://github.com/paradigmxyz/revmc/pull/135) - 2026-03-15
+* [Pull Request] [fix: use ptr::swap to avoid UB precondition check in call_ir_builtin](https://github.com/paradigmxyz/revmc/pull/136) - 2026-03-15
+* [Pull Request] [feat(cli): benchmark interpreter vs jit by default in run command](https://github.com/paradigmxyz/revmc/pull/134) - 2026-03-15
+* [Pull Request] [perf: add ArgMemOnly attribute to builtins](https://github.com/paradigmxyz/revmc/pull/133) - 2026-03-15
+* [Commit] [perf: use static relocation mode for JIT compilation (#135)](https://github.com/paradigmxyz/revmc/commit/10b36da6d8d6219127fd9a0564a658d7039c1d99) - 2026-03-15
+* [Commit] [fix: use ptr::swap to avoid UB precondition check in call_ir_builtin (#136)](https://github.com/paradigmxyz/revmc/commit/dfe38a61c43ab95a651530db41d51c5ead738c3b) - 2026-03-15
+* [Commit] [feat(cli): benchmark interpreter vs jit by default in run command (#134)](https://github.com/paradigmxyz/revmc/commit/519e6170e69c31145f9c2eceea7c87a3ec481194) - 2026-03-15
+* [Commit] [perf: add ArgMemOnly attribute to builtins (#133)](https://github.com/paradigmxyz/revmc/commit/24c7024c634a62099b31756d97a355d72bacb1a6) - 2026-03-15
 ## Q4 2025
 
 

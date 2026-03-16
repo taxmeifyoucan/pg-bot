@@ -62,6 +62,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: v1.41.0 release](https://github.com/ChainSafe/lodestar/pull/9038) - 2026-03-14
 * [Review] [Review on: chore: update lockfile for @libp2p/utils 7.0.13](https://github.com/ChainSafe/lodestar/pull/9037#pullrequestreview-3948619020) - 2026-03-14
 * [Review] [Review on: chore: replace BuildJet runners with GitHub runners](https://github.com/ChainSafe/lodestar/pull/9036#pullrequestreview-3948544525) - 2026-03-14
+* [Review] [Review on: perf(fork-choice): hoist proposerBoostRoot out of applyScoreChanges loop](https://github.com/ChainSafe/lodestar/pull/9040#pullrequestreview-3950096623) - 2026-03-15
+* [Pull Request] [refactor: handle payload import dedupe in processor](https://github.com/ChainSafe/lodestar/pull/9041) - 2026-03-15
+* [Review] [Review on: refactor: handle payload import dedupe in processor](https://github.com/ChainSafe/lodestar/pull/9041#pullrequestreview-3950524986) - 2026-03-15
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
+* [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15
+* [Commit] [Fix builder voluntary exit success test (#5005)](https://github.com/ethereum/consensus-specs/commit/1baa05e71148b0975e28918ac6022d2256b56f4a) - 2026-03-15
 ## Q4 2025
 
 

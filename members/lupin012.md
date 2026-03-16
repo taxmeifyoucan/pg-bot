@@ -36,6 +36,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: fix goroutine leak in EVM cancellation watcher across multiple APIs (#19868)](https://github.com/erigontech/erigon/commit/b129b92a946b5b90d5f4a6b999610ed56b7506cd) - 2026-03-15
 * [Commit] [rpc: add --rpc.logs.maxresults limit on log rpc-API (#19721)](https://github.com/erigontech/erigon/commit/0ff1ccbd459e56f4987b3370758e674a715f42b1) - 2026-03-15
 * [Commit] [CI: update rpc test from main to v1.122.0 (#19871)](https://github.com/erigontech/erigon/commit/4ecf92ef12f31a21c658e24a0e6531a65bd45d95) - 2026-03-14
+* [Pull Request] [[Wip] protect execution TIP under RPC load](https://github.com/erigontech/erigon/pull/19905) - 2026-03-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15
@@ -49,6 +50,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration: debug_traceCall fix exp error with withdrawals](https://github.com/erigontech/rpc-tests/pull/527) - 2026-02-28
 * [Pull Request] []() - 2026-03-02
 * [Review] [Review on: Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529#pullrequestreview-3946032940) - 2026-03-13
+* [Pull Request] [perf: Return fails only in case response detected is 0%](https://github.com/erigontech/rpc-tests/pull/530) - 2026-03-15
 ## Q4 2025
 
 

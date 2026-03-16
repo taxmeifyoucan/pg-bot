@@ -76,6 +76,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Rework engine API versioning (#10786)](https://github.com/NethermindEth/nethermind/commit/b4af34b32f5f315044b8ee31e540c2baff36a60f) - 2026-03-13
 * [Review] [Review on: fix: IByteBuffer leak in ZeroSnappyEncoder.Encode](https://github.com/NethermindEth/nethermind/pull/10833#pullrequestreview-3949328435) - 2026-03-14
 * [Review] [Review on: Simplify releasing & fix `IByteBuffer` leaks in tests](https://github.com/NethermindEth/nethermind/pull/10814#pullrequestreview-3948600205) - 2026-03-14
+* [Review] [Review on: chore: Revise spell checking](https://github.com/NethermindEth/nethermind/pull/10838#pullrequestreview-3950749817) - 2026-03-15
+* [Review] [Review on: fix: handle tuple disposal in TryDispose to prevent resource leaks](https://github.com/NethermindEth/nethermind/pull/10839#pullrequestreview-3950743029) - 2026-03-15
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/10837#pullrequestreview-3949877593) - 2026-03-15
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/10836#pullrequestreview-3949877820) - 2026-03-15
 ## Q4 2025
 
 

@@ -55,6 +55,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [metrics: add initial gloas metric (#16519)](https://github.com/OffchainLabs/prysm/commit/416c49e6d5a50a88b47333ec4dbfac90f19e8a39) - 2026-03-13
 * [Commit] [forkchoice: fix forkchoice balance underflow when att slot change (#16520)](https://github.com/OffchainLabs/prysm/commit/6605dfbd502422c61154f2e21655ae8f8621b109) - 2026-03-13
 * [Review] [Review on: Reduce log noise by returning `nil` error when ignoring already-seen data column sidecars during gossip validation](https://github.com/OffchainLabs/prysm/pull/16536#pullrequestreview-3949338980) - 2026-03-14
+* [Pull Request] [p2p: add execution payload bid gossip topic and verification](https://github.com/OffchainLabs/prysm/pull/16539) - 2026-03-15
+* [Pull Request] [rpc: add SubmitSignedProposerPreferences gRPC endpoint](https://github.com/OffchainLabs/prysm/pull/16538) - 2026-03-15
+* [Pull Request] [p2p: add signed proposer preferences gossip topic and verification](https://github.com/OffchainLabs/prysm/pull/16537) - 2026-03-15
 ## Q4 2025
 
 

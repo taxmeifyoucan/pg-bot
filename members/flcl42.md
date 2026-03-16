@@ -34,6 +34,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(ssz): mix in count=0 (not limit) for null/empty lists in MerkleizeList templates](https://github.com/NethermindEth/nethermind/pull/10828#pullrequestreview-3948850113) - 2026-03-14
 * [Review] [Review on: Make state available if not pruned](https://github.com/NethermindEth/nethermind/pull/10822#pullrequestreview-3948397675) - 2026-03-14
 * [Commit] [Make state available if not pruned (#10822)](https://github.com/NethermindEth/nethermind/commit/3e66b594ef4eb7a05ae7e9ec7af1462caa26a9ff) - 2026-03-14
+* [Pull Request] [Revert "Add and activate eth/70 (#10246)"](https://github.com/NethermindEth/nethermind/pull/10791) - 2026-03-15
 ## Q4 2025
 
 

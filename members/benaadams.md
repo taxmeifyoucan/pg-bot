@@ -53,6 +53,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor: comprehensive test and code deduplication](https://github.com/NethermindEth/nethermind/pull/10815#pullrequestreview-3944899765) - 2026-03-13
 * [Review] [Review on: Bal devnet 3](https://github.com/NethermindEth/nethermind/pull/10697#pullrequestreview-3942009134) - 2026-03-13
 * [Review] [Review on: Refactor EIP-7708 transfer logs to use generic TEip7708 flag](https://github.com/NethermindEth/nethermind/pull/10817#pullrequestreview-3942478043) - 2026-03-13
+* [Review] [Review on: Kch/sync supported fix](https://github.com/NethermindEth/nethermind/pull/10823#pullrequestreview-3950137854) - 2026-03-15
 ## Q4 2025
 
 

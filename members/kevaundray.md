@@ -52,6 +52,7 @@ Team: Consensus R&D (EF)
 * [Issue] [7702 edge cases for ExecutionWitness](https://github.com/ethereum/execution-specs/issues/2501) - 2026-03-13
 * [Pull Request] [chore(tests): Add test for exponent padding in modexp precompile](https://github.com/ethereum/execution-specs/pull/2508) - 2026-03-14
 * [Review] [Review on: chore(zkevm): Explicitly skip state tests and add witness for invalid blocks](https://github.com/ethereum/execution-specs/pull/2495#pullrequestreview-3948761838) - 2026-03-14
+* [Pull Request] [chore(do not merge): test max process capacity](https://github.com/ethereum/execution-specs/pull/2509) - 2026-03-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 

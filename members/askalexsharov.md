@@ -78,6 +78,13 @@ Team: Erigon
 * [Review] [Review on: execmodule: add block overlay to SharedDomains for InsertBlocks](https://github.com/erigontech/erigon/pull/19876#pullrequestreview-3947827648) - 2026-03-14
 * [Review] [Review on: [r3.4] cmd/utils/app: retrofit tests for state snapshot integrity checks](https://github.com/erigontech/erigon/pull/19878#pullrequestreview-3947824944) - 2026-03-14
 * [Review] [Review on: CI: update rpc test from main to v1.122.0](https://github.com/erigontech/erigon/pull/19871#pullrequestreview-3947824142) - 2026-03-14
+* [Review] [Review on: types: store mandatory uint256.Int fields by value](https://github.com/erigontech/erigon/pull/19907#pullrequestreview-3950935295) - 2026-03-16
+* [Review] [Review on: chain: replace *big.Int with *uint64 for fork blocks/times](https://github.com/erigontech/erigon/pull/19908#pullrequestreview-3950932694) - 2026-03-16
+* [Pull Request] [less garbage files](https://github.com/erigontech/erigon/pull/19900) - 2026-03-15
+* [Pull Request] [integration stage_exec: deadlock at the end](https://github.com/erigontech/erigon/pull/19902) - 2026-03-15
+* [Pull Request] [`integration stage_exec`: deadlock at the end](https://github.com/erigontech/erigon/pull/19901) - 2026-03-15
+* [Pull Request] [[wip] commitment: lazy hashing](https://github.com/erigontech/erigon/pull/19899) - 2026-03-15
+* [Pull Request] [[wip] prune loosing progress](https://github.com/erigontech/erigon/pull/19898) - 2026-03-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

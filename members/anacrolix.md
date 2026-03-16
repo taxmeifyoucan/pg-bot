@@ -34,3 +34,4 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Review] [Review on: p2p/discover: Use ChallengeData for WHOAREYOU resend ](https://github.com/erigontech/erigon/pull/19416#pullrequestreview-3941952156) - 2026-03-13
 * [Pull Request] [ci: reduce RPC integration test flakiness and add local test script](https://github.com/erigontech/erigon/pull/19804) - 2026-03-13
 * [Commit] [ci: reduce RPC integration test flakiness and add local test script (#19804)](https://github.com/erigontech/erigon/commit/d94ebd2623f25e7d2188fb6ed64c7148f394c55e) - 2026-03-13
+* [Review] [Review on: rlp: optimize RLP encode/decode to reduce allocations](https://github.com/erigontech/erigon/pull/19892#pullrequestreview-3949786218) - 2026-03-15

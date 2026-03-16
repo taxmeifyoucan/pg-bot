@@ -47,6 +47,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Engine api optimizations](https://github.com/Consensys/teku/pull/10469) - 2026-03-10
 * [Commit] [Engine api optimizations (#10469)](https://github.com/Consensys/teku/commit/c1d8031e23e5f2570be17a05b8d0407401038cf4) - 2026-03-10
 * [Pull Request] [Enhance JUnit report configuration options](https://github.com/Consensys/teku/pull/10482) - 2026-03-12
+* [Pull Request] [Update JUnit report action configuration](https://github.com/Consensys/teku/pull/10491) - 2026-03-16
+* [Pull Request] [Modify pull request option and report configurations (take 2)](https://github.com/Consensys/teku/pull/10489) - 2026-03-15
 ## Q4 2025
 
 

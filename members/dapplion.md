@@ -41,6 +41,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/Consensys/teku/pull/10487) - 2026-03-12
 
+* [Commit] [Schedule Fulu fork for Chiado testnet (#10487)](https://github.com/Consensys/teku/commit/e6dfe20e0a14efae112a3089952d1cb481708202) - 2026-03-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/status-im/nimbus-eth2/pull/8078) - 2026-03-12
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/status-im/nimbus-eth2/pull/8076) - 2026-03-12

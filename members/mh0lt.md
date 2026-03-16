@@ -86,6 +86,14 @@ Team: Erigon
 * [Commit] [commitment: add warmup cache hit/miss metrics (#19887)](https://github.com/erigontech/erigon/commit/37ebab40874ea3cde31b3c8ee5238bd359a96247) - 2026-03-14
 * [Commit] [stagedsync: fix parallel executor deadlock in scheduleExecution (#19877)](https://github.com/erigontech/erigon/commit/6e4206ff205a431904290a4bac22f9a517846089) - 2026-03-14
 * [Commit] [execmodule: add block overlay to SharedDomains for InsertBlocks (#19876)](https://github.com/erigontech/erigon/commit/f52ded823f2058dcb96188dbe7c6a2b994cb293c) - 2026-03-14
+* [Pull Request] [builder: collapse builderstages into builder, replace staged-sync machinery with plain struct](https://github.com/erigontech/erigon/pull/19830) - 2026-03-15
+* [Pull Request] [dbg: add IGNORE_BAL env var for BAL vs non-BAL benchmarking](https://github.com/erigontech/erigon/pull/19903) - 2026-03-15
+* [Review] [Review on: integration stage_exec: deadlock at the end](https://github.com/erigontech/erigon/pull/19902#pullrequestreview-3950207399) - 2026-03-15
+* [Commit] [builder: collapse builderstages into builder, replace staged-sync machinery with plain struct (#19830)](https://github.com/erigontech/erigon/commit/ff37bf9a580522b800357d79e96eff0a802c24e7) - 2026-03-15
+* [Commit] [dbg: add IGNORE_BAL env var for BAL vs non-BAL benchmarking (#19903)](https://github.com/erigontech/erigon/commit/c107a56030845815f36771e60d9532c8519f93ea) - 2026-03-15
+* [Commit] [state, stagedsync: enable deferred branch updates for parallel executor (#19885)](https://github.com/erigontech/erigon/commit/26ac5edf538028a399983004667ca4e1c540806e) - 2026-03-15
+* [Commit] [stagedsync: fix cross-block state race in parallel executor (#19891)](https://github.com/erigontech/erigon/commit/44f107be514f81e10f4a9fd39ae0e5aed3a18c88) - 2026-03-15
+* [Commit] [stagedsync, execmodule: halt on invalid block during parallel initial sync (#19870)](https://github.com/erigontech/erigon/commit/47546d2495d4e2f3820cbb29dc88534b7f671ec9) - 2026-03-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

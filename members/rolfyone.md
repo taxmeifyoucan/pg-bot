@@ -68,6 +68,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Implement `GET` `exceution_payload_bid` ](https://github.com/Consensys/teku/pull/10463#pullrequestreview-3919156453) - 2026-03-10
 * [Pull Request] [Added version field to gloas events](https://github.com/Consensys/teku/pull/10481) - 2026-03-12
 * [Pull Request] [Removed quartz scheduler by default](https://github.com/Consensys/teku/pull/10480) - 2026-03-12
+* [Review] [Review on: Implement `GET` `exceution_payload_bid` ](https://github.com/Consensys/teku/pull/10463#pullrequestreview-3951015609) - 2026-03-16
+* [Review] [Review on: Schedule Fulu fork for Chiado testnet](https://github.com/Consensys/teku/pull/10487#pullrequestreview-3951004213) - 2026-03-16
+* [Review] [Review on: Fix flakness on possible race condition](https://github.com/Consensys/teku/pull/10490#pullrequestreview-3950998345) - 2026-03-16
+* [Review] [Review on: Update JUnit report action configuration](https://github.com/Consensys/teku/pull/10491#pullrequestreview-3950994333) - 2026-03-16
+* [Review] [Review on: Add Missing Domains in specConfig API](https://github.com/Consensys/teku/pull/10488#pullrequestreview-3950990902) - 2026-03-16
+* [Review] [Review on: Javalin7](https://github.com/Consensys/teku/pull/10484#pullrequestreview-3950981342) - 2026-03-16
+* [Review] [Review on: [Gloas] Update head on imported execution payload](https://github.com/Consensys/teku/pull/10478#pullrequestreview-3950964721) - 2026-03-16
+* [Review] [Review on: Execution payload bid API](https://github.com/Consensys/teku/pull/10476#pullrequestreview-3950946934) - 2026-03-16
+* [Review] [Review on: Add GET /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10465#pullrequestreview-3950812473) - 2026-03-15
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

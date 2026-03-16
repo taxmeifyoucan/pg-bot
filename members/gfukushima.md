@@ -25,6 +25,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Engine api optimizations](https://github.com/Consensys/teku/pull/10469#pullrequestreview-3919400844) - 2026-03-10
 * [Review] [Review on: Added deprecation warning for leveldb databases](https://github.com/Consensys/teku/pull/10468#pullrequestreview-3919350091) - 2026-03-10
 * [Review] [Review on: Add option to enable blobdb on RocksDB](https://github.com/Consensys/teku/pull/10470#pullrequestreview-3933440722) - 2026-03-12
+* [Pull Request] [Fix flakness on possible race condition](https://github.com/Consensys/teku/pull/10490) - 2026-03-16
 ## Q4 2025
 
 

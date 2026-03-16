@@ -30,6 +30,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Actually track slashed validators in EpochRef](https://github.com/status-im/nimbus-eth2/pull/8079) - 2026-03-12
 * [Pull Request] [Track inactive validators for fast confirmation rule](https://github.com/status-im/nimbus-eth2/pull/8084) - 2026-03-13
 * [Pull Request] [Rename calculateProposerBoost -> compute_proposer_score](https://github.com/status-im/nimbus-eth2/pull/8086) - 2026-03-14
+* [Pull Request] [Init proto_array with correct finalized slot on gap](https://github.com/status-im/nimbus-eth2/pull/8087) - 2026-03-15
 ## Q4 2025
 
 

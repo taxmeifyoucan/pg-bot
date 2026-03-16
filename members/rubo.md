@@ -42,6 +42,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: Refactor and rename BLS12-381 precompiles (#10808)](https://github.com/NethermindEth/nethermind/commit/9156daad79adadcc52ea71396df01e0d61228013) - 2026-03-13
 * [Review] [Review on: ci: surface diff output on dotnet format failure](https://github.com/NethermindEth/nethermind/pull/10835#pullrequestreview-3949416865) - 2026-03-14
 * [Pull Request] [feat: Add Codex review workflow](https://github.com/NethermindEth/nethermind/pull/10832) - 2026-03-14
+* [Pull Request] [chore: Revise spell checking](https://github.com/NethermindEth/nethermind/pull/10838) - 2026-03-15
+* [Review] [Review on: fix(ssz): mix in count=0 (not limit) for null/empty lists in MerkleizeList templates](https://github.com/NethermindEth/nethermind/pull/10828#pullrequestreview-3950683248) - 2026-03-15
 ## Q4 2025
 
 

@@ -28,6 +28,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] [Use existing RLP methods in trie log prune batch files](https://github.com/besu-eth/besu/pull/10009) - 2026-03-10
 * [Review] [Review on: enable local gradle caching ](https://github.com/besu-eth/besu/pull/10008#pullrequestreview-3919946351) - 2026-03-10
 * [Pull Request] [Wire up MulOperationOptimized and SubOperationOptimized to EVM ](https://github.com/besu-eth/besu/pull/10030) - 2026-03-12
+* [Review] [Review on: add BWS stall detection and step-level debug logging](https://github.com/besu-eth/besu/pull/10045#pullrequestreview-3950931863) - 2026-03-16
+
+[hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
+* [Review] [Review on: chore(ci): update runner types and trigger](https://github.com/besu-eth/besu-stateless/pull/91#pullrequestreview-3951053016) - 2026-03-16
 ## Q4 2025
 
 

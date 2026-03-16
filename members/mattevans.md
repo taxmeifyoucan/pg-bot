@@ -27,6 +27,17 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(config.production.yaml): add ethpandaops/blob-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/78) - 2026-01-21
 
+* [Pull Request] [chore: remove outdated architecture and documentation files](https://github.com/ethpandaops/cartographoor/pull/80) - 2026-03-15
+* [Pull Request] [chore: update Go version to 1.26.1](https://github.com/ethpandaops/cartographoor/pull/79) - 2026-03-15
+* [Commit] [Merge pull request #80 from ethpandaops/chore/drop-old-llm-files](https://github.com/ethpandaops/cartographoor/commit/dc4de1b606c4634587b3eb6b4afed0a1badcf1e5) - 2026-03-15
+* [Commit] [chore: remove outdated architecture and documentation files from the Cartographoor project to clean up the repository and reduce confusion](https://github.com/ethpandaops/cartographoor/commit/94a01cf88dd5fbc444b9fecbd2b7811a037d79b3) - 2026-03-15
+* [Commit] [Merge pull request #77 from ethpandaops/dependabot/go_modules/go-dependencies-fc7ac26c1d](https://github.com/ethpandaops/cartographoor/commit/a36babba2f84606408f3cf85a481fd35cf6e9f38) - 2026-03-15
+* [Commit] [fix(check-typos.yml): add configuration for typos check to use custom toml file to enhance typo detection accuracy](https://github.com/ethpandaops/cartographoor/commit/ffcee04da6417186a908876da0ec3cadc4375272) - 2026-03-15
+* [Commit] [Merge branch 'master' into dependabot/go_modules/go-dependencies-fc7ac26c1d](https://github.com/ethpandaops/cartographoor/commit/d4e7b1112feb7b6a02feec2ce956ed7b8feb5c2d) - 2026-03-15
+* [Commit] [chore(typos.toml): add configuration file to exclude specific files from typo checks](https://github.com/ethpandaops/cartographoor/commit/3869d8ab05f3ba4bfcdbc8b67c2363fe2f6f9e66) - 2026-03-15
+* [Commit] [Merge pull request #70 from ethpandaops/dependabot/github_actions/actions-dbc385b3fc](https://github.com/ethpandaops/cartographoor/commit/11c6d6f8428a2e49a966a410a04374eae813caa5) - 2026-03-15
+* [Commit] [Merge pull request #79 from ethpandaops/chore/update-go-1.26.1](https://github.com/ethpandaops/cartographoor/commit/cc838f6df905646c3be0ad1fad6d3390580f03cb) - 2026-03-15
+* [Commit] [chore: update Go to 1.26.1](https://github.com/ethpandaops/cartographoor/commit/b9fa5174f62f26595c09f340eb5f6b609c823968) - 2026-03-15
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] [feat(clickhouse): add canonical_execution_transaction_structlog_agg tables](https://github.com/ethpandaops/xatu/pull/741) - 2026-01-27
 * [Pull Request] [feat(clickhouse): add resource gas columns to structlog_agg tables](https://github.com/ethpandaops/xatu/pull/748) - 2026-02-16
@@ -44,6 +55,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore: update Go module dependencies](https://github.com/ethpandaops/contributoor/pull/206) - 2026-03-12
 * [Pull Request] [chore: update Go dependencies](https://github.com/ethpandaops/contributoor/pull/205) - 2026-03-12
 * [Pull Request] [chore: update Go dependencies](https://github.com/ethpandaops/contributoor/pull/204) - 2026-03-12
+* [Commit] [Merge pull request #193 from ethpandaops/dependabot/github_actions/actions-34e822736b](https://github.com/ethpandaops/contributoor/commit/98ea954cc2499136d7fd713cdf541f92567fbe52) - 2026-03-15
 ## Q4 2025
 
 

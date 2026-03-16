@@ -42,3 +42,4 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: fix(batch-stark): replace assert! with Err for untrusted permutation opening length check](https://github.com/Plonky3/Plonky3/pull/1410#pullrequestreview-3936421051) - 2026-03-12
 * [Review] [Review on: feat: expose arity schedule](https://github.com/Plonky3/Plonky3/pull/1433#pullrequestreview-3947263756) - 2026-03-13
 * [Review] [Review on: field: reinforcement of tests with edge cases and proptests](https://github.com/Plonky3/Plonky3/pull/1435#pullrequestreview-3943777547) - 2026-03-13
+* [Review] [Review on: multilinear util: integrate poly utils](https://github.com/Plonky3/Plonky3/pull/1379#pullrequestreview-3950645090) - 2026-03-15

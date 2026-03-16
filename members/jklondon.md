@@ -19,6 +19,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [[kimiko] cl/sentinel: fix peerstore data race in concurrent peer connections (#19603)  (#19616)](https://github.com/erigontech/erigon/commit/2d94e91a23edfdad4b76aa393c0cdca3eb255762) - 2026-03-10
 * [Review] [Review on: [wip] etl: fastpath for stablesort](https://github.com/erigontech/erigon/pull/19848#pullrequestreview-3935998752) - 2026-03-12
 * [Review] [Review on: property-based tests for segments and indices](https://github.com/erigontech/erigon/pull/19881#pullrequestreview-3948757221) - 2026-03-14
+* [Review] [Review on: couple skills and unit-tests](https://github.com/erigontech/erigon/pull/19888#pullrequestreview-3950596592) - 2026-03-15
 ## Q4 2025
 
 
