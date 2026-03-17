@@ -29,6 +29,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [flaky TestTable_findnodeByID](https://github.com/erigontech/erigon/issues/19158) - 2026-02-13
 * [Issue] [experimental](https://github.com/erigontech/erigon/issues/19451) - 2026-02-24
 * [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-8037](https://github.com/erigontech/erigon/pull/19596) - 2026-03-04
+* [Review] [Review on: ci, execution/tests: skip execution tests on macOS, flip env var polarity](https://github.com/erigontech/erigon/pull/19913#pullrequestreview-3951589628) - 2026-03-16
 ## Q4 2025
 
 

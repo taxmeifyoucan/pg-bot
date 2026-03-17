@@ -34,6 +34,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Reqresp remove noncanonical sidecars (#10486)](https://github.com/Consensys/teku/commit/a803d21a0cfa4d7801cb3884cc0125447b4d2402) - 2026-03-12
 * [Commit] [Use CombinedChainDataClient.getSlotByBlockRoot where it could be used instead of full block retrieval (#10485)](https://github.com/Consensys/teku/commit/c59d0f07a2121265b4f41e7e3f4cd52e1eb5a831) - 2026-03-12
 * [Commit] [Add logic on ReqResp handlers for sidecar reconstruction (#10153)](https://github.com/Consensys/teku/commit/21f9293f465a21b75106bc8585090e38988f009d) - 2026-03-12
+* [Review] [Review on: Implemented PostPtcDuties api endpoint](https://github.com/Consensys/teku/pull/10441#pullrequestreview-3956746615) - 2026-03-16
+* [Pull Request] [Add DataColumnSidecarSelectorFactory test](https://github.com/Consensys/teku/pull/10333) - 2026-03-16
+* [Review] [Review on: Added support for websockets (new engine api client)](https://github.com/Consensys/teku/pull/10492#pullrequestreview-3956610871) - 2026-03-16
+* [Review] [Review on: Rest API virtual threads](https://github.com/Consensys/teku/pull/10495#pullrequestreview-3954773917) - 2026-03-16
+* [Commit] [Add DataColumnSidecarSelectorFactory test (#10333)](https://github.com/Consensys/teku/commit/7ba1e0cc7de1350832193d9a3b3ed69a4b73e03c) - 2026-03-16
+* [Commit] [Fulu misc helpers property test (#10337)](https://github.com/Consensys/teku/commit/25a1ab847e6dac8e45d9d46eba572ed5585b4394) - 2026-03-16
 ## Q4 2025
 
 

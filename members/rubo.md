@@ -44,6 +44,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat: Add Codex review workflow](https://github.com/NethermindEth/nethermind/pull/10832) - 2026-03-14
 * [Pull Request] [chore: Revise spell checking](https://github.com/NethermindEth/nethermind/pull/10838) - 2026-03-15
 * [Review] [Review on: fix(ssz): mix in count=0 (not limit) for null/empty lists in MerkleizeList templates](https://github.com/NethermindEth/nethermind/pull/10828#pullrequestreview-3950683248) - 2026-03-15
+* [Review] [Review on: fix(ssz): Container decode logic for BitVector and validation fixes for container input](https://github.com/NethermindEth/nethermind/pull/10797#pullrequestreview-3957600553) - 2026-03-17
+* [Review] [Review on: fix(ssz): Add validation checks for BitList and BitVector](https://github.com/NethermindEth/nethermind/pull/10796#pullrequestreview-3957581387) - 2026-03-17
+* [Review] [Review on: fix(ssz): Merkleizer list Feed now uses correct chunk limit and actual length for mixin](https://github.com/NethermindEth/nethermind/pull/10795#pullrequestreview-3957578506) - 2026-03-17
+* [Review] [Review on: fix(ssz): Uint128 decode method swapped upper and lower halves ](https://github.com/NethermindEth/nethermind/pull/10794#pullrequestreview-3957576024) - 2026-03-17
+* [Review] [Review on: fix: prc-compat hive tests](https://github.com/NethermindEth/nethermind/pull/10846#pullrequestreview-3956965297) - 2026-03-16
+* [Review] [Review on: feat: Add Codex review workflow](https://github.com/NethermindEth/nethermind/pull/10832#pullrequestreview-3956093431) - 2026-03-16
+* [Review] [Review on: fix(ci): free disk space for Pyspec test jobs](https://github.com/NethermindEth/nethermind/pull/10845#pullrequestreview-3956370578) - 2026-03-16
+* [Commit] [chore: Revise spell checking (#10838)](https://github.com/NethermindEth/nethermind/commit/6d4005bac9296b4aa5deb91d28620fa1bd3eef8b) - 2026-03-16
 ## Q4 2025
 
 

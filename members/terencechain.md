@@ -58,6 +58,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [p2p: add execution payload bid gossip topic and verification](https://github.com/OffchainLabs/prysm/pull/16539) - 2026-03-15
 * [Pull Request] [rpc: add SubmitSignedProposerPreferences gRPC endpoint](https://github.com/OffchainLabs/prysm/pull/16538) - 2026-03-15
 * [Pull Request] [p2p: add signed proposer preferences gossip topic and verification](https://github.com/OffchainLabs/prysm/pull/16537) - 2026-03-15
+* [Review] [Review on: p2p: add signed proposer preferences gossip topic and verification](https://github.com/OffchainLabs/prysm/pull/16537#pullrequestreview-3954926340) - 2026-03-16
+* [Review] [Review on: Voluntary exit gloas](https://github.com/OffchainLabs/prysm/pull/16527#pullrequestreview-3955287126) - 2026-03-16
+* [Issue] [Track validator client migration to signed proposer preferences and cache cleanup](https://github.com/OffchainLabs/prysm/issues/16545) - 2026-03-16
+* [Issue] [Remove Gloas first-slot head full check after Gloas fork](https://github.com/OffchainLabs/prysm/issues/16544) - 2026-03-16
+* [Commit] [p2p: add signed proposer preferences gossip topic and verification (#16537)](https://github.com/OffchainLabs/prysm/commit/7728ad4aa2dff944f7e59236f4a8565b6d42cb81) - 2026-03-17
+* [Commit] [proposer: use correct access root to get pre state (#16496)](https://github.com/OffchainLabs/prysm/commit/1362654669c548ca565e7152f9edb3bcd34eede9) - 2026-03-16
+* [Commit] [fix: guard against fork boundary `IsParentBlockFull` false positive (#16510)](https://github.com/OffchainLabs/prysm/commit/123651981097cde7776427cfb34a116910e0c420) - 2026-03-16
 ## Q4 2025
 
 

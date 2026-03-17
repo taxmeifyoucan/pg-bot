@@ -20,6 +20,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [wip] etl: fastpath for stablesort](https://github.com/erigontech/erigon/pull/19848#pullrequestreview-3935998752) - 2026-03-12
 * [Review] [Review on: property-based tests for segments and indices](https://github.com/erigontech/erigon/pull/19881#pullrequestreview-3948757221) - 2026-03-14
 * [Review] [Review on: couple skills and unit-tests](https://github.com/erigontech/erigon/pull/19888#pullrequestreview-3950596592) - 2026-03-15
+* [Review] [Review on: BenchmarkCall: fix nil-ptr](https://github.com/erigontech/erigon/pull/19926#pullrequestreview-3953346112) - 2026-03-16
+* [Review] [Review on: [wip] prune: use Put(Current) mdbx's method instead of DelCurrent+Put](https://github.com/erigontech/erigon/pull/19914#pullrequestreview-3953371371) - 2026-03-16
+* [Review] [Review on: [wip] flush: use `etl.IdentityLoadFunc` instead custom](https://github.com/erigontech/erigon/pull/19915#pullrequestreview-3953348879) - 2026-03-16
 ## Q4 2025
 
 

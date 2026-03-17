@@ -41,6 +41,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 * [Review] [Review on: fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241#pullrequestreview-3948190078) - 2026-03-14
+* [Pull Request] [chore: improve process_epoch benchmarks](https://github.com/ChainSafe/lodestar-z/pull/242) - 2026-03-16
+* [Issue] [process_epoch performance issue](https://github.com/ChainSafe/lodestar-z/issues/243) - 2026-03-16
+* [Commit] [chore: improve process_epoch benchmarks (#242)](https://github.com/ChainSafe/lodestar-z/commit/cf324226a9eb9c625d91af9b9521ed47e56e6043) - 2026-03-16
 ## Q4 2025
 
 

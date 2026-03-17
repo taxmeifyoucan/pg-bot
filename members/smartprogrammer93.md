@@ -28,6 +28,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Kch/sync supported fix](https://github.com/NethermindEth/nethermind/pull/10823#pullrequestreview-3945608310) - 2026-03-13
 * [Review] [Review on: chore: Clean up cspell dictionary with inline ignores and typo fixes](https://github.com/NethermindEth/nethermind/pull/10819#pullrequestreview-3943105764) - 2026-03-13
 * [Review] [Review on: Update agent rules and review skill](https://github.com/NethermindEth/nethermind/pull/10733#pullrequestreview-3943145723) - 2026-03-13
+* [Review] [Review on: fix(ci): free disk space for Pyspec test jobs](https://github.com/NethermindEth/nethermind/pull/10845#pullrequestreview-3956843392) - 2026-03-16
 ## Q3 2025
 
 

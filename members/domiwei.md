@@ -22,6 +22,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [beacon api](https://github.com/erigontech/erigon/issues/19089) - 2026-02-10
 * [Issue] [persist new block format](https://github.com/erigontech/erigon/issues/19351) - 2026-02-20
 * [Pull Request] [fix missing attestations by using GossipSub for subnet peer coverage](https://github.com/erigontech/erigon/pull/19523) - 2026-02-28
+* [Pull Request] [[r3.3] fix fork choice block validation and error propagation](https://github.com/erigontech/erigon/pull/19927) - 2026-03-16
+* [Review] [Review on: chain: replace *big.Int with *uint64 for fork blocks/times](https://github.com/erigontech/erigon/pull/19908#pullrequestreview-3951735457) - 2026-03-16
+* [Pull Request] [fix fork choice block validation and error propagation ](https://github.com/erigontech/erigon/pull/19923) - 2026-03-16
+* [Pull Request] [fix fork choice block validation and error propagation](https://github.com/erigontech/erigon/pull/19922) - 2026-03-16
+* [Review] [Review on: Revert "flush: use etl.IdentityLoadFunc instead custom. part2"](https://github.com/erigontech/erigon/pull/19919#pullrequestreview-3951906019) - 2026-03-16
+* [Commit] [fix fork choice block validation and error propagation  (#19923)](https://github.com/erigontech/erigon/commit/853bf3e8a5ab07b9e362171cd9f59376892b9a21) - 2026-03-16
 ## Q3 2025
 
 

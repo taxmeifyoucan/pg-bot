@@ -25,6 +25,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: SSZ-QL: Hybrid merkle proof generation for `BeaconState`](https://github.com/OffchainLabs/prysm/pull/16295#pullrequestreview-3940141266) - 2026-03-12
+* [Review] [Review on: ci: add SBOM export workflow](https://github.com/OffchainLabs/prysm/pull/16531#pullrequestreview-3954513171) - 2026-03-16
 ## Q4 2025
 
 

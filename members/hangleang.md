@@ -31,6 +31,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Add deposit signature cache](https://github.com/grandinetech/grandine/commit/7ea5ca346e201d088df3133cad72ada9325b2259) - 2026-03-13
 * [Commit] [Check pubkey in pending deposits before register builder](https://github.com/grandinetech/grandine/commit/7b58bbf4a46e82901dbbd0c67b44fd9953bb3b1c) - 2026-03-13
 * [Commit] [Update `POST /eth/v2/beacon/blocks` to publish only signed beacon block](https://github.com/grandinetech/grandine/commit/157072f81eb675e147e5a745cd1cdd353be7ac2a) - 2026-03-13
+* [Commit] [Deduplicate CI build runs for internal PRs](https://github.com/grandinetech/grandine/commit/0dc31ccbcfa48007e592c10c01cb6e961bba50d3) - 2026-03-16
 ## Q4 2025
 
 

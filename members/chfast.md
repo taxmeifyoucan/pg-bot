@@ -63,8 +63,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [changelog: List changes for 0.19 release](https://github.com/ipsilon/evmone/pull/1463) - 2026-03-04
 * [Pull Request] [crypto: Use exact size for x1 in modexp_even CRT](https://github.com/ipsilon/evmone/pull/1465) - 2026-03-09
 
+* [Pull Request] [crypto: Unify modexp into single CRT-based flow](https://github.com/ipsilon/evmone/pull/1466) - 2026-03-16
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936881731) - 2026-03-12
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Issue] [debug_executionWitness: missing address preimages in keys for accounts present in state trie](https://github.com/paradigmxyz/reth/issues/23051) - 2026-03-16
 ## Q4 2025
 
 

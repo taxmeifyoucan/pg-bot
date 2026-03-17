@@ -47,6 +47,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: implementing /eth/v2/validator/duties/proposer/{epoch}](https://github.com/OffchainLabs/prysm/pull/16303#pullrequestreview-3944508931) - 2026-03-13
 * [Review] [Review on: forkchoice: fix forkchoice balance underflow when att slot change](https://github.com/OffchainLabs/prysm/pull/16520#pullrequestreview-3944406021) - 2026-03-13
 * [Pull Request] [Gloas Init sync](https://github.com/OffchainLabs/prysm/pull/16528) - 2026-03-13
+* [Review] [Review on: proposer: use correct access root to get pre state](https://github.com/OffchainLabs/prysm/pull/16496#pullrequestreview-3955414246) - 2026-03-16
+* [Review] [Review on: fix: guard against fork boundary `IsParentBlockFull` false positive](https://github.com/OffchainLabs/prysm/pull/16510#pullrequestreview-3954227384) - 2026-03-16
 ## Q4 2025
 
 

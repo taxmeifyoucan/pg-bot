@@ -48,6 +48,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: correct pre-Deneb attestation propagation slot range boundary](https://github.com/ChainSafe/lodestar/pull/9031#pullrequestreview-3944382395) - 2026-03-13
 * [Pull Request] [feat: add QUIC support](https://github.com/ChainSafe/lodestar/pull/8051) - 2026-03-14
 * [Commit] [feat: add QUIC support (#8051)](https://github.com/ChainSafe/lodestar/commit/92c37f252528d23cd87f6abcd90a3fe7d477020a) - 2026-03-14
+* [Review] [Review on: chore: fix peerdas metrics](https://github.com/ChainSafe/lodestar/pull/8920#pullrequestreview-3955531729) - 2026-03-16
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: merge blst-z](https://github.com/ChainSafe/lodestar-z/pull/237) - 2026-03-12
 * [Review] [Review on: feat(fuzz): add AFL++ fuzz testing for SSZ deserialization](https://github.com/ChainSafe/lodestar-z/pull/228#pullrequestreview-3933528390) - 2026-03-12
@@ -56,6 +57,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: merge blst-z (#237)](https://github.com/ChainSafe/lodestar-z/commit/51326ef67738534c57d25d49d54da078a963ea94) - 2026-03-13
 * [Review] [Review on: feat(napi): metrics bindings](https://github.com/ChainSafe/lodestar-z/pull/211#pullrequestreview-3949096795) - 2026-03-14
 * [Commit] [fix(bench): fix compilation errors in SSZ and state transition benchmarks (#241)](https://github.com/ChainSafe/lodestar-z/commit/3efe52981c4945ba6ddeeae4420b74efefdd4b4c) - 2026-03-14
+* [Pull Request] [Cayman/232 review](https://github.com/ChainSafe/lodestar-z/pull/244) - 2026-03-16
+* [Pull Request] [refactor(ssz): review tree views](https://github.com/ChainSafe/lodestar-z/pull/245) - 2026-03-16
+* [Review] [Review on: fix: native metrics example](https://github.com/ChainSafe/lodestar-z/pull/239#pullrequestreview-3956090944) - 2026-03-16
+* [Review] [Review on: chore: improve process_epoch benchmarks](https://github.com/ChainSafe/lodestar-z/pull/242#pullrequestreview-3956065556) - 2026-03-16
+* [Review] [Review on: refactor: simplify `BitList` and `BitVector` types](https://github.com/ChainSafe/lodestar-z/pull/161#pullrequestreview-3954189303) - 2026-03-16
 ## Q4 2025
 
 

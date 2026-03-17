@@ -26,6 +26,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Added deprecation warning for leveldb databases](https://github.com/Consensys/teku/pull/10468#pullrequestreview-3919350091) - 2026-03-10
 * [Review] [Review on: Add option to enable blobdb on RocksDB](https://github.com/Consensys/teku/pull/10470#pullrequestreview-3933440722) - 2026-03-12
 * [Pull Request] [Fix flakness on possible race condition](https://github.com/Consensys/teku/pull/10490) - 2026-03-16
+* [Review] [Review on: Added version field to gloas events](https://github.com/Consensys/teku/pull/10481#pullrequestreview-3957498339) - 2026-03-17
+* [Pull Request] [Execution payload bid API](https://github.com/Consensys/teku/pull/10476) - 2026-03-16
+* [Commit] [Execution payload bid API (#10476)](https://github.com/Consensys/teku/commit/82f5e471e58b01865a33fb0b99cfaba123c8f2e9) - 2026-03-16
+* [Commit] [attempt to fix flakness on possible race condition (#10490)](https://github.com/Consensys/teku/commit/7f63fbf92cd9195f52585e15d30f6e75ed8a6323) - 2026-03-16
 ## Q4 2025
 
 

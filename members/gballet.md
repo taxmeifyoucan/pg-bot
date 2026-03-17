@@ -47,6 +47,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: p2p/enode: migrate node database from leveldb to pebble](https://github.com/ethereum/go-ethereum/pull/33998#pullrequestreview-3942442526) - 2026-03-13
 * [Review] [Review on: build: fix signify flag name in doWindowsInstaller](https://github.com/ethereum/go-ethereum/pull/34006#pullrequestreview-3948537364) - 2026-03-14
 * [Pull Request] [go.mod, go.sum: update karalabe/hid to fix broken FreeBSD ports build](https://github.com/ethereum/go-ethereum/pull/34008) - 2026-03-15
+* [Review] [Review on: internal/ethapi: warn on reaching global gas cap for eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/34016#pullrequestreview-3956551964) - 2026-03-16
+* [Review] [Review on: core: Check whether zero uncles check in verifyUncles is redundant](https://github.com/ethereum/go-ethereum/pull/34014#pullrequestreview-3955161723) - 2026-03-16
+* [Review] [Review on: core: fix code database initialization in stateless mode](https://github.com/ethereum/go-ethereum/pull/34011#pullrequestreview-3952069438) - 2026-03-16
+* [Commit] [go.mod, go.sum: update karalabe/hid to fix broken FreeBSD ports build (#34008)](https://github.com/ethereum/go-ethereum/commit/77e7e5ad1a0c6e758312820af75e94293f025168) - 2026-03-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7864: encode offset as big endian](https://github.com/ethereum/EIPs/pull/11389) - 2026-03-09
 ## Q4 2025

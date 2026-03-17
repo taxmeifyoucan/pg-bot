@@ -33,6 +33,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Implement blinded payloads for `ExecutionPayloadEnvelope`](https://github.com/sigp/lighthouse/issues/8888) - 2026-02-23
 * [Pull Request] [Update contribution guidlines regarding LLM usage](https://github.com/sigp/lighthouse/pull/8879) - 2026-03-10
 * [Pull Request] [Single Envelope lookup](https://github.com/sigp/lighthouse/pull/8987) - 2026-03-15
+* [Pull Request] [Unknown block for envelope](https://github.com/sigp/lighthouse/pull/8992) - 2026-03-16
+* [Review] [Review on:  feat: on_execution_payload fork choice test support](https://github.com/sigp/lighthouse/pull/8986#pullrequestreview-3951692187) - 2026-03-16
+* [Review] [Review on: Spec v1.7.0 alpha.3](https://github.com/sigp/lighthouse/pull/8988#pullrequestreview-3952248828) - 2026-03-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add details about how a validator should set `blob_data_available` for `PayloadAttestationData`](https://github.com/ethereum/consensus-specs/pull/4854) - 2026-01-21
 ## Q4 2025

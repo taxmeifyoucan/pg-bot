@@ -85,6 +85,24 @@ Team: Erigon
 * [Pull Request] [`integration stage_exec`: deadlock at the end](https://github.com/erigontech/erigon/pull/19901) - 2026-03-15
 * [Pull Request] [[wip] commitment: lazy hashing](https://github.com/erigontech/erigon/pull/19899) - 2026-03-15
 * [Pull Request] [[wip] prune loosing progress](https://github.com/erigontech/erigon/pull/19898) - 2026-03-15
+* [Pull Request] [[wip] AccessList: Pop methods instead Delete](https://github.com/erigontech/erigon/pull/19918) - 2026-03-16
+* [Review] [Review on: rpc: fix on blockOverride & StateOverride](https://github.com/erigontech/erigon/pull/19937#pullrequestreview-3957640865) - 2026-03-17
+* [Review] [Review on: rlp: simplify, remove dead code, fix error wrapping](https://github.com/erigontech/erigon/pull/19933#pullrequestreview-3957548627) - 2026-03-17
+* [Review] [Review on: db/test: add full lifecycle benchmark harness](https://github.com/erigontech/erigon/pull/19931#pullrequestreview-3957539591) - 2026-03-17
+* [Review] [Review on: txpool, bor: simplify by extracting helpers; replace *big.Int with *uint64 for BorConfig fork blocks](https://github.com/erigontech/erigon/pull/19906#pullrequestreview-3953832111) - 2026-03-16
+* [Pull Request] [BenchmarkCall: fix nil-ptr](https://github.com/erigontech/erigon/pull/19926) - 2026-03-16
+* [Review] [Review on: [r3.3] fix fork choice block validation and error propagation](https://github.com/erigontech/erigon/pull/19927#pullrequestreview-3953370658) - 2026-03-16
+* [Pull Request] [[wip] prune: use Put(Current) mdbx's method instead of DelCurrent+Put](https://github.com/erigontech/erigon/pull/19914) - 2026-03-16
+* [Pull Request] [[wip] flush: use `etl.IdentityLoadFunc` instead custom](https://github.com/erigontech/erigon/pull/19915) - 2026-03-16
+* [Review] [Review on: db/integrity: add aggregate progress logs for CommitmentHistVal](https://github.com/erigontech/erigon/pull/19925#pullrequestreview-3953183908) - 2026-03-16
+* [Pull Request] [recsplit: use same etl pool with other system](https://github.com/erigontech/erigon/pull/19924) - 2026-03-16
+* [Review] [Review on: qa-tests: use the new v1.123.0 version of rpc-tests](https://github.com/erigontech/erigon/pull/19921#pullrequestreview-3952232400) - 2026-03-16
+* [Review] [Review on: fix fork choice block validation and error propagation ](https://github.com/erigontech/erigon/pull/19923#pullrequestreview-3952229963) - 2026-03-16
+* [Pull Request] [drop auto-dupsort flag](https://github.com/erigontech/erigon/pull/19920) - 2026-03-16
+* [Review] [Review on: fix fork choice block validation and error propagation](https://github.com/erigontech/erigon/pull/19922#pullrequestreview-3952110327) - 2026-03-16
+* [Review] [Review on: state/merge: use iit.files instead of dirtyFiles in staticFilesInRange](https://github.com/erigontech/erigon/pull/17546#pullrequestreview-3951990073) - 2026-03-16
+* [Pull Request] [Revert "flush: use etl.IdentityLoadFunc instead custom. part2"](https://github.com/erigontech/erigon/pull/19919) - 2026-03-16
+* [Issue] [Race: TestAssembleBlockWithFreshlyAddedTxns -> sentry](https://github.com/erigontech/erigon/issues/19928) - 2026-03-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

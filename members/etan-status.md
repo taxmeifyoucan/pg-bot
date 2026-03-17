@@ -31,6 +31,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Track inactive validators for fast confirmation rule](https://github.com/status-im/nimbus-eth2/pull/8084) - 2026-03-13
 * [Pull Request] [Rename calculateProposerBoost -> compute_proposer_score](https://github.com/status-im/nimbus-eth2/pull/8086) - 2026-03-14
 * [Pull Request] [Init proto_array with correct finalized slot on gap](https://github.com/status-im/nimbus-eth2/pull/8087) - 2026-03-15
+* [Pull Request] [Remove broken dag.head template](https://github.com/status-im/nimbus-eth2/pull/8092) - 2026-03-16
+* [Pull Request] [Fix fast confirmation shuffling updates for pre-finalized](https://github.com/status-im/nimbus-eth2/pull/8094) - 2026-03-16
+* [Pull Request] [Only update current_slot_head if before attestation deadline](https://github.com/status-im/nimbus-eth2/pull/8096) - 2026-03-17
+* [Pull Request] [Make unrealized_justified deterministic across calls](https://github.com/status-im/nimbus-eth2/pull/8095) - 2026-03-16
 ## Q4 2025
 
 

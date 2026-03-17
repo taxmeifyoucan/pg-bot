@@ -31,6 +31,9 @@ Team: Reth
 * [Commit] [ci(bench): push OTLP traces and logs to VictoriaTraces/VictoriaLogs (#22999)](https://github.com/paradigmxyz/reth/commit/9060c5059e0ca15813ab97a72e33d04cd2e7d998) - 2026-03-12
 * [Review] [Review on: ci(bench): schedule bench job only on runners tagged `available`](https://github.com/paradigmxyz/reth/pull/23027#pullrequestreview-3945820085) - 2026-03-13
 * [Review] [Review on: chore(grafana): update State Root Task dashboard panels](https://github.com/paradigmxyz/reth/pull/23020#pullrequestreview-3944165158) - 2026-03-13
+* [Review] [Review on: fix(provider): gate rocksdb jemalloc behind feature flag](https://github.com/paradigmxyz/reth/pull/23061#pullrequestreview-3957457561) - 2026-03-17
+* [Review] [Review on: perf(trie): call update_subtrie_hashes after every update](https://github.com/paradigmxyz/reth/pull/23052#pullrequestreview-3955069300) - 2026-03-16
+* [Review] [Review on: chore(bench): add rich job summary matching Slack output](https://github.com/paradigmxyz/reth/pull/23046#pullrequestreview-3952768662) - 2026-03-16
 ## Q4 2025
 
 

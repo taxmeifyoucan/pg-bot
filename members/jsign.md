@@ -56,6 +56,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): add test coverage for pre-state MPT proofs and post-state auxiliary nodes & fix guest program spec bug](https://github.com/ethereum/execution-specs/pull/2504) - 2026-03-13
 * [Review] [Review on: feat(zkevm): add test coverage for pre-state MPT proofs and post-state auxiliary nodes & fix guest program spec bug](https://github.com/ethereum/execution-specs/pull/2504#pullrequestreview-3946719987) - 2026-03-13
 * [Issue] [Allow using evmone-t8n to fill fixtures with executionWitness field](https://github.com/ethereum/execution-specs/issues/2499) - 2026-03-13
+* [Pull Request] [feat(zkevm): make execution witness bytecode assertions always strict](https://github.com/ethereum/execution-specs/pull/2518) - 2026-03-16
+* [Review] [Review on: feat(zkevm): make execution witness bytecode assertions always strict](https://github.com/ethereum/execution-specs/pull/2518#pullrequestreview-3956335523) - 2026-03-16
+* [Review] [Review on: chore(zkevm): Explicitly skip state tests and add witness for invalid blocks](https://github.com/ethereum/execution-specs/pull/2495#pullrequestreview-3953747971) - 2026-03-16
 ## Q4 2025
 
 

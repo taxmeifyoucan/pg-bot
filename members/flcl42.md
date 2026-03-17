@@ -35,6 +35,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Make state available if not pruned](https://github.com/NethermindEth/nethermind/pull/10822#pullrequestreview-3948397675) - 2026-03-14
 * [Commit] [Make state available if not pruned (#10822)](https://github.com/NethermindEth/nethermind/commit/3e66b594ef4eb7a05ae7e9ec7af1462caa26a9ff) - 2026-03-14
 * [Pull Request] [Revert "Add and activate eth/70 (#10246)"](https://github.com/NethermindEth/nethermind/pull/10791) - 2026-03-15
+* [Pull Request] [eth/71](https://github.com/NethermindEth/nethermind/pull/10844) - 2026-03-16
+* [Review] [Review on: fix(db): return null for missing key in SimpleFilePublicKeyDb.Get](https://github.com/NethermindEth/nethermind/pull/10843#pullrequestreview-3953610802) - 2026-03-16
 ## Q4 2025
 
 

@@ -19,6 +19,10 @@ Team: Geth
 * [Pull Request] [go.mod: update go-eth-kzg](https://github.com/ethereum/go-ethereum/pull/33963) - 2026-03-05
 * [Pull Request] []() - 2026-03-08
 * [Review] [Review on: core/vm: rework gas measurement for call variants](https://github.com/ethereum/go-ethereum/pull/33648#pullrequestreview-3942425475) - 2026-03-13
+* [Pull Request] [crypto: refactor Keccak256Hash to reduce allocations](https://github.com/ethereum/go-ethereum/pull/34013) - 2026-03-16
+* [Review] [Review on: core/vm: rework gas measurement for call variants](https://github.com/ethereum/go-ethereum/pull/33648#pullrequestreview-3952156559) - 2026-03-16
+* [Review] [Review on: core: fix code database initialization in stateless mode](https://github.com/ethereum/go-ethereum/pull/34011#pullrequestreview-3952140728) - 2026-03-16
+* [Review] [Review on: cmd/evm: don't strip prefixes on requests over t8n](https://github.com/ethereum/go-ethereum/pull/33997#pullrequestreview-3952179687) - 2026-03-16
 ## Q4 2025
 
 

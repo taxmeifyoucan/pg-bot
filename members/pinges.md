@@ -16,6 +16,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Pull Request] [Do not log a warning when retrying](https://github.com/besu-eth/besu/pull/10023) - 2026-03-12
 * [Commit] [Throw RLPException that is handled correctly instead of IllegalArgumentException (#10025)](https://github.com/besu-eth/besu/commit/604899cebbf5e2f9b5b53d65b86a90ec132096e1) - 2026-03-12
 * [Commit] [Change log level to debug (#10023)](https://github.com/besu-eth/besu/commit/9ed7c549925700ffbbe35de60a287243dc5132ef) - 2026-03-12
+* [Pull Request] [Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048) - 2026-03-16
+* [Review] [Review on: snap server - log enabled/disabled in config overview](https://github.com/besu-eth/besu/pull/10039#pullrequestreview-3951120474) - 2026-03-16
 ## Q4 2025
 
 

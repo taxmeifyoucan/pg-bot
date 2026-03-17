@@ -61,6 +61,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix: adapt to alloy-evm bal-devnet2 API change](https://github.com/paradigmxyz/reth/pull/22992) - 2026-03-12
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16541) - 2026-03-16
+* [Review] [Review on: Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16541#pullrequestreview-3956612941) - 2026-03-16
+* [Pull Request] [Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16540) - 2026-03-16
 ## Q4 2025
 
 

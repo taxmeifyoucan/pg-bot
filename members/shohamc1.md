@@ -13,6 +13,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [Make `lastCommittedTxNum` atomic](https://github.com/erigontech/erigon/pull/18820) - 2026-01-27
+* [Review] [Review on: bal-devnet-2 working update: fix BAL system address filter and gas_table tracking](https://github.com/erigontech/erigon/pull/19894#pullrequestreview-3951585980) - 2026-03-16
 ## Q4 2025
 
 

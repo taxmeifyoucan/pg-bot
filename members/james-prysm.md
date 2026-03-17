@@ -47,6 +47,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Fix `TestProcessPendingDepositsMultiplesSameDeposits` to properly test that duplicate pending deposits for the same key top up a single validator instead of creating duplicates.](https://github.com/OffchainLabs/prysm/pull/16529#pullrequestreview-3944649801) - 2026-03-13
 * [Commit] [adding grpc endpoints for attester, proposer, sync duties, and ptc duties (#16416)](https://github.com/OffchainLabs/prysm/commit/8680f3f8bbe31d880120078865171849cb7dbbf9) - 2026-03-13
 * [Commit] [changed /eth/v1/beacon/execution_payload_envelope/{block_root} to /eth/v1/beacon/execution_payload_envelope/{block_id} defined in beacon apis (#16521)](https://github.com/OffchainLabs/prysm/commit/1e916418f25091bcfd76853a179da87054661dc6) - 2026-03-13
+* [Review] [Review on: p2p: add signed proposer preferences gossip topic and verification](https://github.com/OffchainLabs/prysm/pull/16537#pullrequestreview-3954800642) - 2026-03-16
+* [Review] [Review on: implementing envelope rest apis ](https://github.com/OffchainLabs/prysm/pull/16522#pullrequestreview-3956854832) - 2026-03-16
+* [Review] [Review on: Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16541#pullrequestreview-3956572999) - 2026-03-16
+* [Pull Request] [gloas validator client proposer preferences](https://github.com/OffchainLabs/prysm/pull/16548) - 2026-03-16
 ## Q4 2025
 
 

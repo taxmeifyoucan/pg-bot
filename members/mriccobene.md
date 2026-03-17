@@ -19,6 +19,8 @@ Team: Erigon
 * [Issue] [The Gnosis Tip-Tracking test sometimes fails due to an insufficient number of Caplin peers](https://github.com/erigontech/erigon/issues/19858) - 2026-03-12
 * [Pull Request] [qa-tests: add test results to the daily repo status](https://github.com/erigontech/erigon/pull/19869) - 2026-03-13
 
+* [Pull Request] [qa-tests: use the new v1.123.0 version of rpc-tests](https://github.com/erigontech/erigon/pull/19921) - 2026-03-16
+* [Commit] [qa-tests: use the new v1.123.0 version of rpc-tests (#19921)](https://github.com/erigontech/erigon/commit/62604a6e1eac791e865f6a26b1212f18bf627e37) - 2026-03-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529) - 2026-03-13
 * [Commit] [more verbose error messagge (#529)](https://github.com/erigontech/rpc-tests/commit/34b1c609e2d04cd26f8070821e3ca12bb6d673d4) - 2026-03-14

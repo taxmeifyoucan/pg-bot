@@ -50,6 +50,11 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat: Amsterdam devnet3 EIP updates](https://github.com/bluealloy/revm/pull/3438) - 2026-03-13
 * [Commit] [fix(revme): use transact state for debug "State after" output (#3498)](https://github.com/bluealloy/revm/commit/57e1c0820878e185aa558c9899b3c82f79b73a4b) - 2026-03-13
 * [Commit] [feat: Part of amsterdam devnet3 EIP updates (#3438)](https://github.com/bluealloy/revm/commit/48b4ded0d17644cbf7fed499960722c88605b468) - 2026-03-13
+* [Review] [Review on: refactor: use AnyError for PrecompileError::Fatal and EVMError::Custom](https://github.com/bluealloy/revm/pull/3502#pullrequestreview-3952523843) - 2026-03-16
+* [Pull Request] [feat: add crate-level re-exports for all revm-* dependencies](https://github.com/bluealloy/revm/pull/3507) - 2026-03-16
+* [Pull Request] [ci: remove semver-checks workflow](https://github.com/bluealloy/revm/pull/3508) - 2026-03-16
+* [Commit] [feat: add crate-level re-exports for all revm-* dependencies (#3507)](https://github.com/bluealloy/revm/commit/f1b652718d7efc7e88f24d3220dd53c955668ab1) - 2026-03-16
+* [Commit] [ci: remove semver-checks workflow (#3508)](https://github.com/bluealloy/revm/commit/b8ffc35f83508300ff746536f3be87d192fa59c9) - 2026-03-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify transaction transfer to different account](https://github.com/ethereum/EIPs/pull/11188) - 2026-01-27
 * [Pull Request] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355) - 2026-03-10

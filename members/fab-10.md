@@ -37,6 +37,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: fix: add missing return for failed future in TransactionPool SaveRest…](https://github.com/besu-eth/besu/pull/10020#pullrequestreview-3935520969) - 2026-03-12
 * [Commit] [Remove deprecation warning from `--block-txs-selection-max-time` still used in PoS networks (#10037)](https://github.com/besu-eth/besu/commit/cb6c76206d3ab2ac30e71acf7f82d6768fa23e8f) - 2026-03-12
 * [Commit] [Implement `txpool_status` RPC method (#10002)](https://github.com/besu-eth/besu/commit/2e014849eaf90546e4354d148f14d7ae59167881) - 2026-03-12
+* [Review] [Review on: Plugin API: pass pending block header when creating selectors](https://github.com/besu-eth/besu/pull/10034#pullrequestreview-3952657241) - 2026-03-16
+* [Review] [Review on: fix: use block's own hash for balance lookup in eth_estimateGas](https://github.com/besu-eth/besu/pull/10042#pullrequestreview-3952734675) - 2026-03-16
+* [Commit] [Remove Clique block production and mining infrastructure (Phase 3) (#10035)](https://github.com/besu-eth/besu/commit/1c6f9904c58b4798052ff0ea047c8ab9f5fd8d1a) - 2026-03-16
 ## Q4 2025
 
 

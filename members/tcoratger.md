@@ -43,3 +43,16 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat: expose arity schedule](https://github.com/Plonky3/Plonky3/pull/1433#pullrequestreview-3947263756) - 2026-03-13
 * [Review] [Review on: field: reinforcement of tests with edge cases and proptests](https://github.com/Plonky3/Plonky3/pull/1435#pullrequestreview-3943777547) - 2026-03-13
 * [Review] [Review on: multilinear util: integrate poly utils](https://github.com/Plonky3/Plonky3/pull/1379#pullrequestreview-3950645090) - 2026-03-15
+* [Pull Request] [monty31: use transmute in poseidon1 packing](https://github.com/Plonky3/Plonky3/pull/1446) - 2026-03-16
+* [Review] [Review on: fix(circle): add debug_assert for usize underflow in Point methods](https://github.com/Plonky3/Plonky3/pull/1445#pullrequestreview-3956975166) - 2026-03-16
+* [Pull Request] [utils: add `log3_strict_usize`](https://github.com/Plonky3/Plonky3/pull/1444) - 2026-03-16
+* [Pull Request] [ multilinear utils: fix some visibility stuffs](https://github.com/Plonky3/Plonky3/pull/1443) - 2026-03-16
+* [Pull Request] [chore: more const assertions](https://github.com/Plonky3/Plonky3/pull/1441) - 2026-03-16
+* [Pull Request] [multilinear utils: fix some visibility stuffs](https://github.com/Plonky3/Plonky3/pull/1442) - 2026-03-16
+* [Pull Request] [multilinear util: integrate poly utils](https://github.com/Plonky3/Plonky3/pull/1379) - 2026-03-16
+* [Review] [Review on: chore: release v0.5.1](https://github.com/Plonky3/Plonky3/pull/1439#pullrequestreview-3953048942) - 2026-03-16
+* [Commit] [poseidon1: speedup monty-31 packed version on avx (#1420)](https://github.com/Plonky3/Plonky3/commit/56567cad1ff41846ed9a1c7fba3c92704d23c0e5) - 2026-03-16
+* [Commit] [ multilinear utils: fix some visibility stuffs (#1443)](https://github.com/Plonky3/Plonky3/commit/b4dcde46940ceb63bda93f43ec90979947047745) - 2026-03-16
+* [Commit] [chore: more const assertions (#1441)](https://github.com/Plonky3/Plonky3/commit/1685e65e68a953cead238440e488fb65b43384c8) - 2026-03-16
+* [Commit] [multilinear utils: fix some visibility stuffs (#1442)](https://github.com/Plonky3/Plonky3/commit/ad29ba58308ea66e945a716c16911432ec52e721) - 2026-03-16
+* [Commit] [multilinear util: integrate poly utils (#1379)](https://github.com/Plonky3/Plonky3/commit/0a2cec58c94e5d4a646b7fa084208746a6927a39) - 2026-03-16

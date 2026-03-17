@@ -37,6 +37,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: agg: allow build without merge](https://github.com/erigontech/erigon/pull/19844#pullrequestreview-3941346296) - 2026-03-13
 * [Review] [Review on: [3.4] skip in-mem history accumulation in sd for offline execution](https://github.com/erigontech/erigon/pull/19895#pullrequestreview-3950294487) - 2026-03-15
 * [Review] [Review on: less garbage files](https://github.com/erigontech/erigon/pull/19900#pullrequestreview-3950249509) - 2026-03-15
+* [Review] [Review on: recsplit: use same etl pool with other system](https://github.com/erigontech/erigon/pull/19924#pullrequestreview-3953012619) - 2026-03-16
+* [Review] [Review on: drop auto-dupsort flag](https://github.com/erigontech/erigon/pull/19920#pullrequestreview-3952277317) - 2026-03-16
+* [Review] [Review on: etl: zero-copy memDataProvider](https://github.com/erigontech/erigon/pull/19780#pullrequestreview-3952277835) - 2026-03-16
+* [Pull Request] [state/merge: use iit.files instead of dirtyFiles in staticFilesInRange](https://github.com/erigontech/erigon/pull/17546) - 2026-03-16
+* [Commit] [state/merge: use iit.files instead of dirtyFiles in staticFilesInRange (#17546)](https://github.com/erigontech/erigon/commit/74a9335e9f8d5185ac6c93d67f240754650b0e67) - 2026-03-16
+* [Commit] [db/state: fix unsafe dirtyFiles access in merge file lookups (#19917)](https://github.com/erigontech/erigon/commit/0485b7ea171ba6991d3ee04b80bd0a90058484ff) - 2026-03-16
+* [Commit] [integrity: remove StateProgress check (#19738)](https://github.com/erigontech/erigon/commit/8ae192db938c36fd0135d771ead94302e5026bfc) - 2026-03-16
 ## Q4 2025
 
 

@@ -80,6 +80,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: handle tuple disposal in TryDispose to prevent resource leaks](https://github.com/NethermindEth/nethermind/pull/10839#pullrequestreview-3950743029) - 2026-03-15
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/10837#pullrequestreview-3949877593) - 2026-03-15
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/10836#pullrequestreview-3949877820) - 2026-03-15
+* [Review] [Review on: fix: handle tuple disposal in TryDispose to prevent resource leaks](https://github.com/NethermindEth/nethermind/pull/10839#pullrequestreview-3954601358) - 2026-03-16
+* [Review] [Review on: fix(db): return null for missing key in SimpleFilePublicKeyDb.Get](https://github.com/NethermindEth/nethermind/pull/10843#pullrequestreview-3953476293) - 2026-03-16
+* [Review] [Review on: fix(rlp): pass ValueDecoderContext by ref in DecodeStorageRootOnly](https://github.com/NethermindEth/nethermind/pull/10842#pullrequestreview-3953465734) - 2026-03-16
 ## Q4 2025
 
 

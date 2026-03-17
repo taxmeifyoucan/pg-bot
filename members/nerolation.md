@@ -33,6 +33,10 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7976: update empirical report](https://github.com/ethereum/EIPs/pull/11326) - 2026-02-17
 * [Pull Request] [Update EIP-7928: Add Felipe, Rahul and Stefan as co-authors](https://github.com/ethereum/EIPs/pull/11392) - 2026-03-10
 * [Pull Request] [Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/pull/11391) - 2026-03-10
+* [Pull Request] [Update EIP-8037: Align with EIP-7928 Gas Validation Phases](https://github.com/ethereum/EIPs/pull/11414) - 2026-03-16
+* [Review] [Review on: Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/pull/11391#pullrequestreview-3952439315) - 2026-03-16
+* [Commit] [Update EIP-7928: Add Felipe, Rahul and Stefan as co-authors](https://github.com/ethereum/EIPs/commit/00c6dbd1c7f24a3c474bf28a04efb667ac97c62d) - 2026-03-16
+* [Commit] [Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/commit/c2111e24762ff3afcf694d425a1df44a11d24df2) - 2026-03-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add worst-case BAL read test](https://github.com/ethereum/execution-specs/pull/2033) - 2026-01-18
 

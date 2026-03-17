@@ -31,6 +31,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Reduce log noise by returning `nil` error when ignoring already-seen data column sidecars during gossip validation](https://github.com/OffchainLabs/prysm/pull/16536) - 2026-03-14
 * [Pull Request] [Compact validator](https://github.com/OffchainLabs/prysm/pull/16535) - 2026-03-14
 * [Commit] [Reduce log noise by returning `nil` error when ignoring already-seen data column sidecars during gossip validation (#16536)](https://github.com/OffchainLabs/prysm/commit/36052ed1bb4e0e5494eab651e4601c8e0e560290) - 2026-03-14
+* [Pull Request] [Add automatic IP detection for P2P host configuration](https://github.com/OffchainLabs/prysm/pull/16546) - 2026-03-16
 ## Q4 2025
 
 

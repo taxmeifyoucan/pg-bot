@@ -32,6 +32,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Amsterdam: EIP-8037: State Creation Gas Cost Increase](https://github.com/besu-eth/besu/pull/9815#pullrequestreview-3922853309) - 2026-03-10
 
 * [Review] [Review on: Amsterdam: EIP-8037: State Creation Gas Cost Increase](https://github.com/besu-eth/besu/pull/9815#pullrequestreview-3936179076) - 2026-03-12
+* [Pull Request] [Amsterdam: EIP-8037: State Creation Gas Cost Increase](https://github.com/besu-eth/besu/pull/9815) - 2026-03-16
+* [Commit] [Amsterdam: EIP-8037: State Creation Gas Cost Increase (#9815)](https://github.com/besu-eth/besu/commit/fd4c0f17993daa974f1a829accaa663ca3176f81) - 2026-03-16
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936613106) - 2026-03-12
 ## Q4 2025

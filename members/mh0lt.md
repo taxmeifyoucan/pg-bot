@@ -94,6 +94,12 @@ Team: Erigon
 * [Commit] [state, stagedsync: enable deferred branch updates for parallel executor (#19885)](https://github.com/erigontech/erigon/commit/26ac5edf538028a399983004667ca4e1c540806e) - 2026-03-15
 * [Commit] [stagedsync: fix cross-block state race in parallel executor (#19891)](https://github.com/erigontech/erigon/commit/44f107be514f81e10f4a9fd39ae0e5aed3a18c88) - 2026-03-15
 * [Commit] [stagedsync, execmodule: halt on invalid block during parallel initial sync (#19870)](https://github.com/erigontech/erigon/commit/47546d2495d4e2f3820cbb29dc88534b7f671ec9) - 2026-03-15
+* [Pull Request] [execmodule: extract PipelineExecutor for unified hasMore loop](https://github.com/erigontech/erigon/pull/19938) - 2026-03-16
+* [Pull Request] [db/test: add full lifecycle benchmark harness](https://github.com/erigontech/erigon/pull/19931) - 2026-03-16
+* [Pull Request] [vm/benchmark: add EVM performance benchmarks targeting mainnet bottlenecks](https://github.com/erigontech/erigon/pull/19932) - 2026-03-16
+* [Commit] [db/test: add full lifecycle benchmark harness (#19931)](https://github.com/erigontech/erigon/commit/f727c55cdba4aefca8610852e152ee16d6fefeed) - 2026-03-17
+* [Commit] [etl, state: reduce allocation pressure in parallel executor (#19884)](https://github.com/erigontech/erigon/commit/d7c9ea86c7fb996a4d0865dbab558ddbb90f425f) - 2026-03-16
+* [Commit] [bal-devnet-2 working update: fix BAL system address filter and gas_table tracking (#19894)](https://github.com/erigontech/erigon/commit/91fcb077a3bbfae93bf820ec03e988b6b3aef4f4) - 2026-03-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

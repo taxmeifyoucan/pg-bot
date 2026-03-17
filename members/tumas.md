@@ -38,6 +38,9 @@ Team: Grandine
 * [Review] [Review on: Check pubkey in pending deposits before register builder](https://github.com/grandinetech/grandine/pull/602#pullrequestreview-3943760724) - 2026-03-13
 * [Review] [Review on: Use nethermind reference assemblies from github](https://github.com/grandinetech/grandine/pull/635#pullrequestreview-3943201197) - 2026-03-13
 * [Commit] [Pin specific version of ZISK in tests](https://github.com/grandinetech/grandine/commit/b7e70190967b1abcdb335cbec422d9922f0e6690) - 2026-03-13
+* [Review] [Review on: Add payload attestation tick](https://github.com/grandinetech/grandine/pull/603#pullrequestreview-3955337018) - 2026-03-16
+* [Review] [Review on: `GET /eth/v1/validator/execution_payload_bid/{slot}/{builder_index}`](https://github.com/grandinetech/grandine/pull/518#pullrequestreview-3954992541) - 2026-03-16
+* [Pull Request] [Extract prune_delayed_after_finalization and call it on slot finalization](https://github.com/grandinetech/grandine/pull/637) - 2026-03-16
 ## Q4 2025
 
 

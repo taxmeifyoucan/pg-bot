@@ -26,6 +26,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [remove `blk` from BlockRef](https://github.com/status-im/nimbus-eth1/pull/4014) - 2026-02-24
 * [Pull Request] [check for FC corruption while loading](https://github.com/status-im/nimbus-eth1/pull/4023) - 2026-02-26
 * [Pull Request] [Optimize sync memory](https://github.com/status-im/nimbus-eth1/pull/4038) - 2026-03-09
+* [Commit] [remove `blk` from BlockRef (#4014)](https://github.com/status-im/nimbus-eth1/commit/fb618f16ff48eb81d3bdbfa48738e194d5d14c27) - 2026-03-16
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-16
 * [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-19

@@ -71,6 +71,9 @@ Team: Reth
 * [Review] [Review on: fix(p2p): respect --bootnodes flag in `reth p2p` commands](https://github.com/paradigmxyz/reth/pull/23040#pullrequestreview-3949893112) - 2026-03-15
 * [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23041#pullrequestreview-3949889186) - 2026-03-15
 * [Review] [Review on: fix(pool): clean up blob sidecars when removing transactions](https://github.com/paradigmxyz/reth/pull/23030#pullrequestreview-3949895812) - 2026-03-15
+* [Review] [Review on: chore(engine-tree): simplify return type of canonical_block_by_hash](https://github.com/paradigmxyz/reth/pull/23048#pullrequestreview-3953335924) - 2026-03-16
+* [Review] [Review on: fix(rpc): clone EthSigner trait objects with generic tx request](https://github.com/paradigmxyz/reth/pull/23050#pullrequestreview-3953110940) - 2026-03-16
+* [Review] [Review on: engine: return -38003 for FCUv2 payloadAttributes mismatch](https://github.com/paradigmxyz/reth/pull/22924#pullrequestreview-3953119431) - 2026-03-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

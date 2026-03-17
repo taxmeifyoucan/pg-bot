@@ -92,6 +92,7 @@ Team: Reth
 * [Commit] [fix: use ptr::swap to avoid UB precondition check in call_ir_builtin (#136)](https://github.com/paradigmxyz/revmc/commit/dfe38a61c43ab95a651530db41d51c5ead738c3b) - 2026-03-15
 * [Commit] [feat(cli): benchmark interpreter vs jit by default in run command (#134)](https://github.com/paradigmxyz/revmc/commit/519e6170e69c31145f9c2eceea7c87a3ec481194) - 2026-03-15
 * [Commit] [perf: add ArgMemOnly attribute to builtins (#133)](https://github.com/paradigmxyz/revmc/commit/24c7024c634a62099b31756d97a355d72bacb1a6) - 2026-03-15
+* [Commit] [feat: add compile-time benchmarks and switch to codspeed-criterion-compat (#130)](https://github.com/paradigmxyz/revmc/commit/9076303065bcf8eb81ef39c4f328aa91e89c4c3f) - 2026-03-17
 ## Q4 2025
 
 

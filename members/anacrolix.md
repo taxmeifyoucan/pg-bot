@@ -35,3 +35,8 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] [ci: reduce RPC integration test flakiness and add local test script](https://github.com/erigontech/erigon/pull/19804) - 2026-03-13
 * [Commit] [ci: reduce RPC integration test flakiness and add local test script (#19804)](https://github.com/erigontech/erigon/commit/d94ebd2623f25e7d2188fb6ed64c7148f394c55e) - 2026-03-13
 * [Review] [Review on: rlp: optimize RLP encode/decode to reduce allocations](https://github.com/erigontech/erigon/pull/19892#pullrequestreview-3949786218) - 2026-03-15
+* [Pull Request] [ci, execution/tests: skip execution tests on macOS, flip env var polarity](https://github.com/erigontech/erigon/pull/19913) - 2026-03-16
+* [Issue] [Cleanup CI gating](https://github.com/erigontech/erigon/issues/19909) - 2026-03-16
+* [Commit] [ci, execution/tests: skip execution tests on macOS, flip env var polarity (#19913)](https://github.com/erigontech/erigon/commit/863d2231d9b2013ef2277e4b324561a07b11639a) - 2026-03-16
+* [Commit] [downloader: add torrents from disk after snapshot sync stage (#19712)](https://github.com/erigontech/erigon/commit/3ca13e092618fc9e3c08aa9bc0c3fe0e696ccb3a) - 2026-03-16
+* [Commit] [ci: fix consensus spec test failure tolerance (#19854)](https://github.com/erigontech/erigon/commit/18765f08b299514e60d023c733ebfbf1685397bf) - 2026-03-16

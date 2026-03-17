@@ -38,6 +38,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Bonsai Archive: Index infrastructure with seekForPrev fallback](https://github.com/hyperledger/besu/issues/9984) - 2026-03-06
 * [Issue] [Bonsai Archive: Hybrid query routing](https://github.com/hyperledger/besu/issues/9981) - 2026-03-06
 * [Review] [Review on: disable forest TraceJsonRpcHttpBySpecTest](https://github.com/besu-eth/besu/pull/10005#pullrequestreview-3919369203) - 2026-03-10
+* [Review] [Review on: add BWS stall detection and step-level debug logging](https://github.com/besu-eth/besu/pull/10045#pullrequestreview-3957620598) - 2026-03-17
+* [Review] [Review on: Remove Clique block production and mining infrastructure (Phase 3)](https://github.com/besu-eth/besu/pull/10035#pullrequestreview-3951654344) - 2026-03-16
 ## Q4 2025
 
 

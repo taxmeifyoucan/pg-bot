@@ -37,6 +37,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: add --rpc.logs.maxresults limit on log rpc-API (#19721)](https://github.com/erigontech/erigon/commit/0ff1ccbd459e56f4987b3370758e674a715f42b1) - 2026-03-15
 * [Commit] [CI: update rpc test from main to v1.122.0 (#19871)](https://github.com/erigontech/erigon/commit/4ecf92ef12f31a21c658e24a0e6531a65bd45d95) - 2026-03-14
 * [Pull Request] [[Wip] protect execution TIP under RPC load](https://github.com/erigontech/erigon/pull/19905) - 2026-03-15
+* [Pull Request] [rpc: fix on blockOverride & StateOverride](https://github.com/erigontech/erigon/pull/19937) - 2026-03-16
+* [Commit] [rpc: fix on blockOverride & StateOverride (#19937)](https://github.com/erigontech/erigon/commit/65023355da2a442fcbd2e9e2e6ee8de35c61ef60) - 2026-03-17
+* [Commit] [fix eth simulation hive (#19866)](https://github.com/erigontech/erigon/commit/624598a18f92e8167d6f56b3fde61cdc9165e8f3) - 2026-03-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15

@@ -35,6 +35,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Use CombinedChainDataClient.getSlotByBlockRoot where it could be used instead of full block retrieval](https://github.com/Consensys/teku/pull/10485#pullrequestreview-3937178337) - 2026-03-12
 * [Pull Request] [Javalin7](https://github.com/Consensys/teku/pull/10484) - 2026-03-12
 * [Pull Request] [Add Missing Domains in specConfig API](https://github.com/Consensys/teku/pull/10488) - 2026-03-13
+* [Review] [Review on: Added support for websockets (new engine api client)](https://github.com/Consensys/teku/pull/10492#pullrequestreview-3954503478) - 2026-03-16
+* [Review] [Review on: Vc header handling](https://github.com/Consensys/teku/pull/10494#pullrequestreview-3952497595) - 2026-03-16
+* [Pull Request] [Rest API virtual threads](https://github.com/Consensys/teku/pull/10495) - 2026-03-16
+* [Review] [Review on: Rest API virtual threads](https://github.com/Consensys/teku/pull/10495#pullrequestreview-3955151330) - 2026-03-16
+* [Review] [Review on: Add option to enable blobdb on RocksDB](https://github.com/Consensys/teku/pull/10470#pullrequestreview-3952537048) - 2026-03-16
+* [Commit] [Add Missing Domains in specConfig API (#10488)](https://github.com/Consensys/teku/commit/84cb1f2741de5d0626dab049ee2dafb83d53df16) - 2026-03-16
+* [Commit] [Javalin7 (#10484)](https://github.com/Consensys/teku/commit/a64f79901e0641912a01e4251f4ed4167918dfcf) - 2026-03-16
 ## Q4 2025
 
 

@@ -77,6 +77,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: [Gloas] Update head on imported execution payload](https://github.com/Consensys/teku/pull/10478#pullrequestreview-3950964721) - 2026-03-16
 * [Review] [Review on: Execution payload bid API](https://github.com/Consensys/teku/pull/10476#pullrequestreview-3950946934) - 2026-03-16
 * [Review] [Review on: Add GET /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10465#pullrequestreview-3950812473) - 2026-03-15
+* [Pull Request] [created string and int body definitions for rest api](https://github.com/Consensys/teku/pull/10496) - 2026-03-17
+* [Review] [Review on: Implemented PostPtcDuties api endpoint](https://github.com/Consensys/teku/pull/10441#pullrequestreview-3957331115) - 2026-03-16
+* [Review] [Review on: Modify pull request option and report configurations (take 2)](https://github.com/Consensys/teku/pull/10489#pullrequestreview-3951136933) - 2026-03-16
+* [Review] [Review on: Add DataColumnSidecarSelectorFactory test](https://github.com/Consensys/teku/pull/10333#pullrequestreview-3956667701) - 2026-03-16
+* [Review] [Review on: Update JUnit report action configuration](https://github.com/Consensys/teku/pull/10493#pullrequestreview-3957325652) - 2026-03-16
+* [Review] [Review on: Fulu misc helpers property test](https://github.com/Consensys/teku/pull/10337#pullrequestreview-3956655626) - 2026-03-16
+* [Pull Request] [Vc header handling](https://github.com/Consensys/teku/pull/10494) - 2026-03-16
+* [Commit] [Added version field to gloas events (#10481)](https://github.com/Consensys/teku/commit/6a0f928bda245033e86aeb51656ac2ae1db3303f) - 2026-03-17
+* [Commit] [Vc header handling (#10494)](https://github.com/Consensys/teku/commit/6d3b2ac273aa7153da1f2a10c6f990ad36786516) - 2026-03-16
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

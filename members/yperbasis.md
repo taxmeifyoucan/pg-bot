@@ -74,6 +74,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: shard hive EEST consume-engine by fork (~2.8x speedup) (#19904)](https://github.com/erigontech/erigon/commit/6e60e33fa3a2b1dc549e150409be94481915fe64) - 2026-03-15
 * [Commit] [txpool: replace custom RLP parsing with standard transaction types (#19757)](https://github.com/erigontech/erigon/commit/42ae37433a089da000900e9962f3b3c256e81ae8) - 2026-03-15
 * [Commit] [rlp: optimize RLP encode/decode to reduce allocations (#19892)](https://github.com/erigontech/erigon/commit/c1f38a554f8c53a9266ef452176f4522ebb3a4b8) - 2026-03-15
+* [Pull Request] [rlp: simplify, remove dead code, fix error wrapping](https://github.com/erigontech/erigon/pull/19933) - 2026-03-16
+* [Review] [Review on: vm/benchmark: add EVM performance benchmarks targeting mainnet bottlenecks](https://github.com/erigontech/erigon/pull/19932#pullrequestreview-3954828698) - 2026-03-16
+* [Pull Request] [rpc: implement eth_getBlockAccessList (EIP-7928)](https://github.com/erigontech/erigon/pull/19929) - 2026-03-16
+* [Review] [Review on: rpc: eth_gasPrice() fix & optimisation](https://github.com/erigontech/erigon/pull/19678#pullrequestreview-3953577438) - 2026-03-16
+* [Review] [Review on: docs: March 2026 w11 documentation update](https://github.com/erigontech/erigon/pull/19859#pullrequestreview-3953642194) - 2026-03-16
+* [Review] [Review on: perf(crypto): optimize UnmarshalPubkey buffer allocation](https://github.com/erigontech/erigon/pull/19038#pullrequestreview-3953809879) - 2026-03-16
+* [Review] [Review on: engine: return -38003 for FCUv2 payloadAttributes mismatch](https://github.com/erigontech/erigon/pull/19779#pullrequestreview-3954018274) - 2026-03-16
+* [Review] [Review on: bal-devnet-2 working update: fix BAL system address filter and gas_table tracking](https://github.com/erigontech/erigon/pull/19894#pullrequestreview-3952223702) - 2026-03-16
+* [Review] [Review on: fix eth simulation hive](https://github.com/erigontech/erigon/pull/19866#pullrequestreview-3953612309) - 2026-03-16
+* [Issue] [Use BALs for fast sync without execution](https://github.com/erigontech/erigon/issues/19935) - 2026-03-16
+* [Commit] [rlp: simplify, remove dead code, fix error wrapping (#19933)](https://github.com/erigontech/erigon/commit/dafca0945c7a0daa12f2566b9cd0adfb5ad22d43) - 2026-03-17
+* [Commit] [txpool, bor: simplify by extracting helpers; replace *big.Int with *uint64 for BorConfig fork blocks (#19906)](https://github.com/erigontech/erigon/commit/304f5bb7c61bbb858205c1f8ce7832888d149670) - 2026-03-16
+* [Commit] [types: store mandatory uint256.Int fields by value (#19907)](https://github.com/erigontech/erigon/commit/963aebbdef54e316ab0bffe43bc830c10d80ae0c) - 2026-03-16
+* [Commit] [chain: replace *big.Int with *uint64 for fork blocks/times (#19908)](https://github.com/erigontech/erigon/commit/191ba3d1ba6a82e1fb92b84aeafa2e5765185c1f) - 2026-03-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 ## Q4 2025

@@ -73,6 +73,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Migrate all Guava caches to Caffeine](https://github.com/besu-eth/besu/pull/9909#pullrequestreview-3941274051) - 2026-03-13
 * [Issue] [snap - server disconnecting client for breach of protocol](https://github.com/besu-eth/besu/issues/10043) - 2026-03-13
 * [Issue] [Static peers get stuck in ALREADY_CONNECTED loop after restart race condition](https://github.com/besu-eth/besu/issues/10040) - 2026-03-13
+* [Review] [Review on: add BWS stall detection and step-level debug logging](https://github.com/besu-eth/besu/pull/10045#pullrequestreview-3956692897) - 2026-03-16
+* [Pull Request] [DetermineCommonAncestor: reduce number of scenarios tested](https://github.com/besu-eth/besu/pull/10055) - 2026-03-16
+* [Review] [Review on: Cherry-pick testing_buildBlockV1 into bal-devnet-2](https://github.com/besu-eth/besu/pull/10053#pullrequestreview-3956270353) - 2026-03-16
+* [Review] [Review on: Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048#pullrequestreview-3956716792) - 2026-03-16
+* [Review] [Review on: fix: avoid TOCTOU race in eth_getBlockByNumber latestResult](https://github.com/besu-eth/besu/pull/10051#pullrequestreview-3956888341) - 2026-03-16
+* [Review] [Review on: Plugin API: pass pending block header when creating selectors](https://github.com/besu-eth/besu/pull/10034#pullrequestreview-3956782360) - 2026-03-16
+* [Review] [Review on: Deprecate `--min-block-occupancy-ratio` for removal and make it noop](https://github.com/besu-eth/besu/pull/10036#pullrequestreview-3956318117) - 2026-03-16
+* [Commit] [reduce number of scenarios tested (#10055)](https://github.com/besu-eth/besu/commit/11878cf834ad8dae990ecea343353345c106a1de) - 2026-03-17
+* [Commit] [snap server - log enabled/disabled in config overview (#10039)](https://github.com/besu-eth/besu/commit/29ced86b8cabadbd7c696b5cb32f4540ad262a90) - 2026-03-16
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

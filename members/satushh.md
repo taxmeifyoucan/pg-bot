@@ -15,3 +15,4 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Remove next epoch lookahead from PTC duties](https://github.com/OffchainLabs/prysm/pull/16517) - 2026-03-12
 * [Commit] [Remove next epoch lookahead from PTC duties (#16517)](https://github.com/OffchainLabs/prysm/commit/598509ffa86e5ed1f78564032009ed79d03bb764) - 2026-03-12
 * [Pull Request] [[WIP] Voluntary exit gloas](https://github.com/OffchainLabs/prysm/pull/16527) - 2026-03-13
+* [Review] [Review on: Voluntary exit gloas](https://github.com/OffchainLabs/prysm/pull/16527#pullrequestreview-3954355744) - 2026-03-16

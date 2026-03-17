@@ -17,6 +17,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Pull Request] [feat: rate limit backoff sync](https://github.com/ChainSafe/lodestar/pull/9032) - 2026-03-13
 * [Review] [Review on: fix(reqresp): clear composed response timeout signals](https://github.com/ChainSafe/lodestar/pull/9029#pullrequestreview-3944497928) - 2026-03-13
+* [Review] [Review on: chore: fix peerdas metrics](https://github.com/ChainSafe/lodestar/pull/8920#pullrequestreview-3956859452) - 2026-03-16
 ## Q4 2025
 
 
