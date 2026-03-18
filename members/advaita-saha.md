@@ -27,6 +27,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [check for FC corruption while loading](https://github.com/status-im/nimbus-eth1/pull/4023) - 2026-02-26
 * [Pull Request] [Optimize sync memory](https://github.com/status-im/nimbus-eth1/pull/4038) - 2026-03-09
 * [Commit] [remove `blk` from BlockRef (#4014)](https://github.com/status-im/nimbus-eth1/commit/fb618f16ff48eb81d3bdbfa48738e194d5d14c27) - 2026-03-16
+* [Pull Request] [ci: skip snap sync tests & add geth to the sync tests](https://github.com/status-im/nimbus-eth1/pull/4043) - 2026-03-17
+* [Pull Request] [add eth71 to the sync scheduler](https://github.com/status-im/nimbus-eth1/pull/4042) - 2026-03-17
+* [Commit] [add eth71 to the sync scheduler (#4042)](https://github.com/status-im/nimbus-eth1/commit/38b780b6c6a34f3db8390d5690f7d2558243763e) - 2026-03-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-16
 * [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-19

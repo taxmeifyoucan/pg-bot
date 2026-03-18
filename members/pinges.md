@@ -18,6 +18,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Commit] [Change log level to debug (#10023)](https://github.com/besu-eth/besu/commit/9ed7c549925700ffbbe35de60a287243dc5132ef) - 2026-03-12
 * [Pull Request] [Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048) - 2026-03-16
 * [Review] [Review on: snap server - log enabled/disabled in config overview](https://github.com/besu-eth/besu/pull/10039#pullrequestreview-3951120474) - 2026-03-16
+* [Review] [Review on: Fix typed receipt encoding in putSyncTransactionReceipts](https://github.com/besu-eth/besu/pull/10044#pullrequestreview-3958782835) - 2026-03-17
+* [Review] [Review on: fix: send slim account encoding in snap AccountRange responses](https://github.com/besu-eth/besu/pull/9877#pullrequestreview-3964453217) - 2026-03-18
+* [Review] [Review on: Fix eth/69 receipt encoding for Frontier tx](https://github.com/besu-eth/besu/pull/9900#pullrequestreview-3958515020) - 2026-03-17
+* [Review] [Review on: snap - diagnostic logging for malformed RLP messages](https://github.com/besu-eth/besu/pull/10038#pullrequestreview-3958637935) - 2026-03-17
+* [Review] [Review on: Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048#pullrequestreview-3958605691) - 2026-03-17
 ## Q4 2025
 
 

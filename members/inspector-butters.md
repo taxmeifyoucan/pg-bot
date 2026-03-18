@@ -23,3 +23,4 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Use read only validator accessor in `IsPayloadTimelyCommittee`](https://github.com/OffchainLabs/prysm/pull/16530#pullrequestreview-3946134301) - 2026-03-13
 * [Review] [Review on: Hdiff restart support](https://github.com/OffchainLabs/prysm/pull/16389#pullrequestreview-3946329244) - 2026-03-13
 * [Review] [Review on: Reduce log noise by returning `nil` error when ignoring already-seen data column sidecars during gossip validation](https://github.com/OffchainLabs/prysm/pull/16536#pullrequestreview-3949262626) - 2026-03-14
+* [Review] [Review on: Beacon state: Replace `*ethpb.Validator` by `CompactValidator`](https://github.com/OffchainLabs/prysm/pull/16535#pullrequestreview-3960509968) - 2026-03-17

@@ -33,6 +33,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(ci): don't close pull requests](https://github.com/ethereum/execution-specs/pull/2470) - 2026-03-10
 * [Pull Request] [chore(ci): reduce pypy test set](https://github.com/ethereum/execution-specs/pull/2482) - 2026-03-12
 * [Commit] [chore(ci): reduce pypy test set (#2482)](https://github.com/ethereum/execution-specs/commit/844eed610c0b4f7fd92c44581ef8dd5a3b579b96) - 2026-03-12
+* [Review] [Review on: feat(ci): verbose CI logs](https://github.com/ethereum/execution-specs/pull/2456#pullrequestreview-3963519945) - 2026-03-17
+* [Review] [Review on: feat(ci): dual-publish fixture releases to EELS and EEST](https://github.com/ethereum/execution-specs/pull/2350#pullrequestreview-3961615285) - 2026-03-17
+* [Review] [Review on: refactor(spec): unify forgotten gas constants in spec](https://github.com/ethereum/execution-specs/pull/2383#pullrequestreview-3957860927) - 2026-03-17
+* [Issue] [Investigate replacing exceptions with Go-style errors](https://github.com/ethereum/execution-specs/issues/2523) - 2026-03-17
+* [Issue] [Create a `has_access_list` function for transaction types](https://github.com/ethereum/execution-specs/issues/2521) - 2026-03-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs #38, February 18, 2026](https://github.com/ethereum/pm/issues/1909) - 2026-01-29
 ## Q4 2025

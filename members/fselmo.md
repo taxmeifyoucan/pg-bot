@@ -39,6 +39,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(ci): update GitHub action shas](https://github.com/ethereum/execution-specs/pull/2503) - 2026-03-13
 * [Review] [Review on: feat(planned-tests): Add EIP-7928 planned test cases](https://github.com/ethereum/execution-specs/pull/1903#pullrequestreview-3957401855) - 2026-03-16
 * [Commit] [chore(ci,deps): bump pinned action SHAs & golang, markdownlint-cli2 versions (#2503)](https://github.com/ethereum/execution-specs/commit/424c4f45ba190af73551804b73be027475f72084) - 2026-03-16
+* [Review] [Review on: feat(benchmarks): add BAL benchmarks for the optimization strategies introduced by BALs](https://github.com/ethereum/execution-specs/pull/2197#pullrequestreview-3964188337) - 2026-03-17
+* [Review] [Review on: refactor(test-benchmark): marker filter logic](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3963702142) - 2026-03-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [fix: update BPO defaults](https://github.com/ethereum/hive/pull/1380) - 2026-01-15
 * [Pull Request] [fix: remove Amsterdam defaults (named fork in blob params)](https://github.com/ethereum/hive/pull/1387) - 2026-02-03
@@ -46,6 +48,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/evm: don't strip prefixes on requests over t8n](https://github.com/ethereum/go-ethereum/pull/33997) - 2026-03-13
+* [Commit] [cmd/evm: don't strip prefixes on requests over t8n (#33997)](https://github.com/ethereum/go-ethereum/commit/ab357151da881f0e7dffd30b639c9dcdcdd4cc10) - 2026-03-17
 ## Q4 2025
 
 

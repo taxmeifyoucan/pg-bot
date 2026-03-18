@@ -38,12 +38,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat(state-transition): add gloas fields/methods to IBeaconStateView](https://github.com/ChainSafe/lodestar/pull/8963) - 2026-03-13
 * [Commit] [feat(state-transition): add gloas fields/methods to IBeaconStateView (#8963)](https://github.com/ChainSafe/lodestar/commit/8299317d72794a03c09ae88ad163812c91d14c31) - 2026-03-13
 * [Review] [Review on: perf(fork-choice): hoist proposerBoostRoot out of applyScoreChanges loop](https://github.com/ChainSafe/lodestar/pull/9040#pullrequestreview-3951038854) - 2026-03-16
+* [Pull Request] [perf(types/electra): model Pending* electra types as ContainerNodeStructType](https://github.com/ChainSafe/lodestar/pull/9054) - 2026-03-17
+* [Issue] [Incorrect beacon_pending_deposits metrics](https://github.com/ChainSafe/lodestar/issues/9052) - 2026-03-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 * [Review] [Review on: fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241#pullrequestreview-3948190078) - 2026-03-14
 * [Pull Request] [chore: improve process_epoch benchmarks](https://github.com/ChainSafe/lodestar-z/pull/242) - 2026-03-16
 * [Issue] [process_epoch performance issue](https://github.com/ChainSafe/lodestar-z/issues/243) - 2026-03-16
 * [Commit] [chore: improve process_epoch benchmarks (#242)](https://github.com/ChainSafe/lodestar-z/commit/cf324226a9eb9c625d91af9b9521ed47e56e6043) - 2026-03-16
+* [Pull Request] [refactor(ssz): drop BaseTreeView, use tuple for ContainerTreeView](https://github.com/ChainSafe/lodestar-z/pull/139) - 2026-03-17
+* [Review] [Review on: refactor(ssz): review tree views](https://github.com/ChainSafe/lodestar-z/pull/245#pullrequestreview-3958933645) - 2026-03-17
+* [Commit] [refactor(ssz): drop BaseTreeView, use tuple for ContainerTreeView (#139)](https://github.com/ChainSafe/lodestar-z/commit/ce6370e75b980d0657ac246083b437e76fcd1e4b) - 2026-03-17
 ## Q4 2025
 
 

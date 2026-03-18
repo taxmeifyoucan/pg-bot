@@ -56,3 +56,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [chore: more const assertions (#1441)](https://github.com/Plonky3/Plonky3/commit/1685e65e68a953cead238440e488fb65b43384c8) - 2026-03-16
 * [Commit] [multilinear utils: fix some visibility stuffs (#1442)](https://github.com/Plonky3/Plonky3/commit/ad29ba58308ea66e945a716c16911432ec52e721) - 2026-03-16
 * [Commit] [multilinear util: integrate poly utils (#1379)](https://github.com/Plonky3/Plonky3/commit/0a2cec58c94e5d4a646b7fa084208746a6927a39) - 2026-03-16
+* [Pull Request] [matrix: add `pad_to_min_power_of_two_height`](https://github.com/Plonky3/Plonky3/pull/1448) - 2026-03-17
+* [Review] [Review on: monty31: use transmute in poseidon1 packing](https://github.com/Plonky3/Plonky3/pull/1446#pullrequestreview-3960663184) - 2026-03-17
+* [Review] [Review on: utils: add `log3_strict_usize`](https://github.com/Plonky3/Plonky3/pull/1444#pullrequestreview-3960573536) - 2026-03-17
+* [Commit] [monty31: use transmute in poseidon1 packing (#1446)](https://github.com/Plonky3/Plonky3/commit/b0fa51397d6dc988e6e83ba53b593a7fdf500ef7) - 2026-03-17
+* [Commit] [utils: add `log3_strict_usize` (#1444)](https://github.com/Plonky3/Plonky3/commit/11ffd40126cd6106bc028bdd0d7667f639353791) - 2026-03-17

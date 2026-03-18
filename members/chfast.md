@@ -64,11 +64,15 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Use exact size for x1 in modexp_even CRT](https://github.com/ipsilon/evmone/pull/1465) - 2026-03-09
 
 * [Pull Request] [crypto: Unify modexp into single CRT-based flow](https://github.com/ipsilon/evmone/pull/1466) - 2026-03-16
+* [Commit] [crypto: Unify modexp into single CRT-based flow (#1466)](https://github.com/ipsilon/evmone/commit/f8c8d919965adefa6bb8e2cacc91114992d078b4) - 2026-03-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936881731) - 2026-03-12
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [debug_executionWitness: missing address preimages in keys for accounts present in state trie](https://github.com/paradigmxyz/reth/issues/23051) - 2026-03-16
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: deps: gnark-crypto v0.20.0 -> v0.20.1](https://github.com/erigontech/erigon/pull/19953#pullrequestreview-3959832212) - 2026-03-17
 ## Q4 2025
 
 

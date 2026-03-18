@@ -33,6 +33,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: DetermineCommonAncestor: reduce number of scenarios tested](https://github.com/besu-eth/besu/pull/10055#pullrequestreview-3957546985) - 2026-03-17
 * [Review] [Review on: Implement div sdiv with longs](https://github.com/besu-eth/besu/pull/9923#pullrequestreview-3951511797) - 2026-03-16
 * [Review] [Review on: remove invalid warning pre glamsterdam](https://github.com/besu-eth/besu/pull/10049#pullrequestreview-3951833319) - 2026-03-16
+* [Review] [Review on: BySpecTests: run setup once instead of for each spec file](https://github.com/besu-eth/besu/pull/10059#pullrequestreview-3958224889) - 2026-03-17
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Review] [Review on: chore(ci): update runner types and trigger](https://github.com/besu-eth/besu-stateless/pull/91#pullrequestreview-3951053016) - 2026-03-16
 ## Q4 2025

@@ -51,6 +51,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core: Check whether zero uncles check in verifyUncles is redundant](https://github.com/ethereum/go-ethereum/pull/34014#pullrequestreview-3955161723) - 2026-03-16
 * [Review] [Review on: core: fix code database initialization in stateless mode](https://github.com/ethereum/go-ethereum/pull/34011#pullrequestreview-3952069438) - 2026-03-16
 * [Commit] [go.mod, go.sum: update karalabe/hid to fix broken FreeBSD ports build (#34008)](https://github.com/ethereum/go-ethereum/commit/77e7e5ad1a0c6e758312820af75e94293f025168) - 2026-03-16
+* [Review] [Review on: trie/bintrie: parallelize InternalNode.Hash at shallow tree depths](https://github.com/ethereum/go-ethereum/pull/34032#pullrequestreview-3960104589) - 2026-03-17
+* [Review] [Review on: cmd/evm: don't strip prefixes on requests over t8n](https://github.com/ethereum/go-ethereum/pull/33997#pullrequestreview-3961560572) - 2026-03-17
+* [Review] [Review on: internal/ethapi: warn on reaching global gas cap for eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/34016#pullrequestreview-3960530273) - 2026-03-17
+* [Review] [Review on: core/state: skip redundant trie Commit for Verkle in stateObject.commit](https://github.com/ethereum/go-ethereum/pull/34021#pullrequestreview-3959773258) - 2026-03-17
+* [Review] [Review on: core/state: avoid Bytes() allocation in flatReader hash computations](https://github.com/ethereum/go-ethereum/pull/34025#pullrequestreview-3959790422) - 2026-03-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7864: encode offset as big endian](https://github.com/ethereum/EIPs/pull/11389) - 2026-03-09
 ## Q4 2025

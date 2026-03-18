@@ -22,6 +22,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [All Core Devs - Testing (ACDT) #74, March 16, 2026](https://github.com/ethereum/pm/issues/1966) - 2026-03-10
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Update erigon.yaml](https://github.com/ethpandaops/template-devnets/pull/148) - 2026-01-28
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Pull Request] [Add API endpoint for consensus client head forks](https://github.com/ethpandaops/dora/pull/609) - 2026-03-17
 ## Q4 2025
 
 

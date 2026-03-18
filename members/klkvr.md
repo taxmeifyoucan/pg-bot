@@ -29,6 +29,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [perf: compute account subtrie hashes in parallel with large storage roots](https://github.com/paradigmxyz/reth/pull/23023) - 2026-03-13
 * [Review] [Review on: perf(trie): call update_subtrie_hashes after every update](https://github.com/paradigmxyz/reth/pull/23052#pullrequestreview-3955376854) - 2026-03-16
 * [Review] [Review on: fix(storage): preserve genesis history entries in RocksDB consistency check](https://github.com/paradigmxyz/reth/pull/23033#pullrequestreview-3952833533) - 2026-03-16
+* [Review] [Review on: fix(storage): preserve genesis history entries in RocksDB consistency check](https://github.com/paradigmxyz/reth/pull/23033#pullrequestreview-3960358420) - 2026-03-17
 ## Q4 2025
 
 

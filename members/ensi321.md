@@ -27,6 +27,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: clone state in processExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9015) - 2026-03-10
 * [Issue] [Review validator monitor usage](https://github.com/ChainSafe/lodestar/issues/9024) - 2026-03-12
 * [Pull Request] [feat: add payload envelope reqresp](https://github.com/ChainSafe/lodestar/pull/9050) - 2026-03-17
+* [Review] [Review on: refactor: handle payload import dedupe in processor](https://github.com/ChainSafe/lodestar/pull/9041#pullrequestreview-3958620740) - 2026-03-17
+* [Pull Request] [feat: update to v1.7.0-alpha.3](https://github.com/ChainSafe/lodestar/pull/9051) - 2026-03-17
 ## Q4 2025
 
 

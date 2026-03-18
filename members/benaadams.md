@@ -59,6 +59,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: IByteBuffer leak in ZeroSnappyEncoder.Encode](https://github.com/NethermindEth/nethermind/pull/10833#pullrequestreview-3955675315) - 2026-03-16
 * [Review] [Review on: chore: Revise spell checking](https://github.com/NethermindEth/nethermind/pull/10838#pullrequestreview-3953293275) - 2026-03-16
 * [Commit] [fix(ci): free disk space for Pyspec test jobs (#10845)](https://github.com/NethermindEth/nethermind/commit/2321995738f4f3738f9aa3f6cb7f9d78b65943ee) - 2026-03-16
+* [Pull Request] [Re-enable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/10848) - 2026-03-17
 ## Q4 2025
 
 

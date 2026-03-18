@@ -19,6 +19,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Try updating to orc](https://github.com/status-im/nimbus-eth1/pull/4016) - 2026-02-25
 * [Pull Request] [eth/71 - Serve block access lists to peers](https://github.com/status-im/nimbus-eth1/pull/4035) - 2026-03-06
 * [Pull Request] [Vertex as object instead of ref object](https://github.com/status-im/nimbus-eth1/pull/4039) - 2026-03-10
+* [Pull Request] [Vertex ref object](https://github.com/status-im/nimbus-eth1/pull/4041) - 2026-03-17
 ## Q4 2025
 
 

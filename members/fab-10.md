@@ -40,6 +40,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Plugin API: pass pending block header when creating selectors](https://github.com/besu-eth/besu/pull/10034#pullrequestreview-3952657241) - 2026-03-16
 * [Review] [Review on: fix: use block's own hash for balance lookup in eth_estimateGas](https://github.com/besu-eth/besu/pull/10042#pullrequestreview-3952734675) - 2026-03-16
 * [Commit] [Remove Clique block production and mining infrastructure (Phase 3) (#10035)](https://github.com/besu-eth/besu/commit/1c6f9904c58b4798052ff0ea047c8ab9f5fd8d1a) - 2026-03-16
+* [Review] [Review on: Deprecate `--min-block-occupancy-ratio` for removal and make it noop](https://github.com/besu-eth/besu/pull/10036#pullrequestreview-3959972255) - 2026-03-17
+* [Commit] [Deprecate `--min-block-occupancy-ratio` for removal and make it noop (#10036)](https://github.com/besu-eth/besu/commit/56674ac08bd663e92ff8aea9afb62e053a51106e) - 2026-03-17
+* [Commit] [Plugin API: pass pending block header when creating selectors (#10034)](https://github.com/besu-eth/besu/commit/1ce913ac45a36ab65017bfb61c0842355f201a56) - 2026-03-17
 ## Q4 2025
 
 

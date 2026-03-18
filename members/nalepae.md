@@ -32,6 +32,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Compact validator](https://github.com/OffchainLabs/prysm/pull/16535) - 2026-03-14
 * [Commit] [Reduce log noise by returning `nil` error when ignoring already-seen data column sidecars during gossip validation (#16536)](https://github.com/OffchainLabs/prysm/commit/36052ed1bb4e0e5494eab651e4601c8e0e560290) - 2026-03-14
 * [Pull Request] [Add automatic IP detection for P2P host configuration](https://github.com/OffchainLabs/prysm/pull/16546) - 2026-03-16
+* [Pull Request] [Deduplicate `getVerifyingState` calls in data column verification using `singleflight`.](https://github.com/OffchainLabs/prysm/pull/16550) - 2026-03-17
+* [Issue] [Block built on an old parent kills the beacon node](https://github.com/OffchainLabs/prysm/issues/16549) - 2026-03-17
+* [Commit] [Beacon state: Replace `*ethpb.Validator` by `CompactValidator` (#16535)](https://github.com/OffchainLabs/prysm/commit/1bffcc84f461f09de0ab565a971909a2bdba0726) - 2026-03-17
 ## Q4 2025
 
 

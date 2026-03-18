@@ -38,6 +38,9 @@ Team: Reth
 * [Review] [Review on: fix(provider): heal finalized/safe block numbers ahead of highest header](https://github.com/paradigmxyz/reth/pull/22998#pullrequestreview-3938819980) - 2026-03-12
 * [Pull Request] [feat(node-builder): add with_rocksdb_provider to NodeBuilder](https://github.com/paradigmxyz/reth/pull/22970) - 2026-03-12
 * [Commit] [feat(node-builder): add with_rocksdb_provider to NodeBuilder (#22970)](https://github.com/paradigmxyz/reth/commit/b37b881074859f2b33cdfa9019f799e06dc421fa) - 2026-03-12
+* [Pull Request] [fix(provider): fix race between save_blocks and rocksdb pruning](https://github.com/paradigmxyz/reth/pull/23081) - 2026-03-17
+* [Pull Request] [fix(provider): write rocksdb indices in live sync](https://github.com/paradigmxyz/reth/pull/23080) - 2026-03-17
+* [Review] [Review on: refactor(storage): use RocksReadSnapshot for read-only compatible RocksDB reads](https://github.com/paradigmxyz/reth/pull/23067#pullrequestreview-3962704033) - 2026-03-17
 ## Q4 2025
 
 

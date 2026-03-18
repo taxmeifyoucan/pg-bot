@@ -40,6 +40,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: disable forest TraceJsonRpcHttpBySpecTest](https://github.com/besu-eth/besu/pull/10005#pullrequestreview-3919369203) - 2026-03-10
 * [Review] [Review on: add BWS stall detection and step-level debug logging](https://github.com/besu-eth/besu/pull/10045#pullrequestreview-3957620598) - 2026-03-17
 * [Review] [Review on: Remove Clique block production and mining infrastructure (Phase 3)](https://github.com/besu-eth/besu/pull/10035#pullrequestreview-3951654344) - 2026-03-16
+* [Pull Request] [Bonsai archive seperate column families](https://github.com/besu-eth/besu/pull/10058) - 2026-03-17
+* [Review] [Review on: feat(discv5): add DiscV5 discovery metrics](https://github.com/besu-eth/besu/pull/10050#pullrequestreview-3958114820) - 2026-03-17
 ## Q4 2025
 
 

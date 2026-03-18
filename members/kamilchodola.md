@@ -32,6 +32,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Kch/sync supported fix](https://github.com/NethermindEth/nethermind/pull/10823) - 2026-03-13
 
 * [Commit] [Kch/sync supported fix (#10823)](https://github.com/NethermindEth/nethermind/commit/9a8bcac490b6c9467e72ed39e6d916fcb3e187a5) - 2026-03-16
+* [Pull Request] [fix: prevent torn reads of TrieNode._rlp (CappedArray -> byte[])](https://github.com/NethermindEth/nethermind/pull/10849) - 2026-03-17
+* [Review] [Review on: fix: prevent torn reads of TrieNode._rlp (CappedArray -> byte[])](https://github.com/NethermindEth/nethermind/pull/10849#pullrequestreview-3961758288) - 2026-03-17
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Fix/stateful repricing mode](https://github.com/NethermindEth/gas-benchmarks/pull/131) - 2026-03-13
 * [Commit] [Fix/stateful repricing mode (#131)](https://github.com/NethermindEth/gas-benchmarks/commit/e447c0bc17abd422b59ee4db8a488f2dce6fa10c) - 2026-03-13

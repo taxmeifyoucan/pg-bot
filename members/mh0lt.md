@@ -100,6 +100,19 @@ Team: Erigon
 * [Commit] [db/test: add full lifecycle benchmark harness (#19931)](https://github.com/erigontech/erigon/commit/f727c55cdba4aefca8610852e152ee16d6fefeed) - 2026-03-17
 * [Commit] [etl, state: reduce allocation pressure in parallel executor (#19884)](https://github.com/erigontech/erigon/commit/d7c9ea86c7fb996a4d0865dbab558ddbb90f425f) - 2026-03-16
 * [Commit] [bal-devnet-2 working update: fix BAL system address filter and gas_table tracking (#19894)](https://github.com/erigontech/erigon/commit/91fcb077a3bbfae93bf820ec03e988b6b3aef4f4) - 2026-03-16
+* [Pull Request] [execmodule: extract PipelineExecutor, internalize ForkValidator](https://github.com/erigontech/erigon/pull/19961) - 2026-03-17
+* [Pull Request] [exec3_parallel: eliminate IBS round-trip in finalize path](https://github.com/erigontech/erigon/pull/19814) - 2026-03-18
+* [Pull Request] [commitment: add persistent branch cache across Process() calls](https://github.com/erigontech/erigon/pull/19954) - 2026-03-17
+* [Review] [Review on: execution/vm: disable the value transfer in syscall](https://github.com/erigontech/erigon/pull/19277#pullrequestreview-3963193061) - 2026-03-17
+* [Pull Request] [commitment: enable warmup cache for all paths + add cache miss counters](https://github.com/erigontech/erigon/pull/19952) - 2026-03-17
+* [Review] [Review on: [wip] evm: dedup `accounts.InternAddress` calls for `calle`. v1](https://github.com/erigontech/erigon/pull/19939#pullrequestreview-3958856174) - 2026-03-17
+* [Review] [Review on: [wip] evm: dedup `accounts.InternAddress` calls for calle. v2](https://github.com/erigontech/erigon/pull/19940#pullrequestreview-3958852738) - 2026-03-17
+* [Issue] [execmodule: send notifications before DB commit](https://github.com/erigontech/erigon/issues/19957) - 2026-03-17
+* [Issue] [tracking: execution module consolidation (PipelineExecutor, notifications, Cache)](https://github.com/erigontech/erigon/issues/19958) - 2026-03-17
+* [Issue] [commitment: consolidate BAL-driven cache warming into single entry point](https://github.com/erigontech/erigon/issues/19955) - 2026-03-17
+* [Commit] [exec3_parallel: eliminate IBS round-trip in finalize path (#19814)](https://github.com/erigontech/erigon/commit/8b25da6f37c7534a5f359d0486529c3ea3d07fcf) - 2026-03-18
+* [Commit] [execmodule: cross-call overlay with RO tx pipeline execution (#19882)](https://github.com/erigontech/erigon/commit/ec7bb868302cb85a7a3193dd8e53ce3052bc203f) - 2026-03-17
+* [Commit] [vm/benchmark: add EVM performance benchmarks targeting mainnet bottlenecks (#19932)](https://github.com/erigontech/erigon/commit/a7c972baf86eadb3b035d624610b52cdeb9e7700) - 2026-03-17
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

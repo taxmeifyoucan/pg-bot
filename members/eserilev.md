@@ -36,6 +36,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Unknown block for envelope](https://github.com/sigp/lighthouse/pull/8992) - 2026-03-16
 * [Review] [Review on:  feat: on_execution_payload fork choice test support](https://github.com/sigp/lighthouse/pull/8986#pullrequestreview-3951692187) - 2026-03-16
 * [Review] [Review on: Spec v1.7.0 alpha.3](https://github.com/sigp/lighthouse/pull/8988#pullrequestreview-3952248828) - 2026-03-16
+* [Review] [Review on:  feat: on_execution_payload fork choice test support](https://github.com/sigp/lighthouse/pull/8986#pullrequestreview-3958054185) - 2026-03-17
+* [Review] [Review on: Unknown block for envelope](https://github.com/sigp/lighthouse/pull/8992#pullrequestreview-3958347319) - 2026-03-17
+* [Issue] [Implement reprocess queue for a block whose parent envelope is unknown](https://github.com/sigp/lighthouse/issues/8994) - 2026-03-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add details about how a validator should set `blob_data_available` for `PayloadAttestationData`](https://github.com/ethereum/consensus-specs/pull/4854) - 2026-01-21
 ## Q4 2025

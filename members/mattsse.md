@@ -74,6 +74,17 @@ Team: Reth
 * [Review] [Review on: chore(engine-tree): simplify return type of canonical_block_by_hash](https://github.com/paradigmxyz/reth/pull/23048#pullrequestreview-3953335924) - 2026-03-16
 * [Review] [Review on: fix(rpc): clone EthSigner trait objects with generic tx request](https://github.com/paradigmxyz/reth/pull/23050#pullrequestreview-3953110940) - 2026-03-16
 * [Review] [Review on: engine: return -38003 for FCUv2 payloadAttributes mismatch](https://github.com/paradigmxyz/reth/pull/22924#pullrequestreview-3953119431) - 2026-03-16
+* [Review] [Review on: fix(provider): prevent stale state reads during pipeline sync](https://github.com/paradigmxyz/reth/pull/23070#pullrequestreview-3962041145) - 2026-03-17
+* [Review] [Review on: perf(rpc): avoid redundant `next_env_attributes` call in `simulate_v1`](https://github.com/paradigmxyz/reth/pull/23064#pullrequestreview-3959587776) - 2026-03-17
+* [Review] [Review on: fix(provider): add ensure_canonical_block guard to history_by_block_hash](https://github.com/paradigmxyz/reth/pull/22876#pullrequestreview-3962017812) - 2026-03-17
+* [Review] [Review on: perf(engine): check hashmap instead of clone](https://github.com/paradigmxyz/reth/pull/23071#pullrequestreview-3960882027) - 2026-03-17
+* [Review] [Review on: fix(net): treat malformed blob sidecar responses as peer misbehavior](https://github.com/paradigmxyz/reth/pull/23035#pullrequestreview-3959897192) - 2026-03-17
+* [Review] [Review on: chore: remove op-revm dep](https://github.com/paradigmxyz/reth/pull/23059#pullrequestreview-3959732400) - 2026-03-17
+* [Review] [Review on: feat(fs-util): add remove_file_if_exists helper](https://github.com/paradigmxyz/reth/pull/23065#pullrequestreview-3959537006) - 2026-03-17
+* [Review] [Review on: perf(rpc): fast path `transaction_receipt` when block & receipts are cached](https://github.com/paradigmxyz/reth/pull/23063#pullrequestreview-3959511671) - 2026-03-17
+* [Review] [Review on: fix(rpc): export Client traits instead of Server in clients module](https://github.com/paradigmxyz/reth/pull/23058#pullrequestreview-3959403604) - 2026-03-17
+* [Review] [Review on: fix(txpool): ignore ENOENT when removing tx backup after reinsertion](https://github.com/paradigmxyz/reth/pull/23062#pullrequestreview-3959429466) - 2026-03-17
+* [Issue] [perf(rpc): avoid redundant receipt cache lookup in eth_getTransactionReceipt](https://github.com/paradigmxyz/reth/issues/23066) - 2026-03-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

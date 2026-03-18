@@ -37,6 +37,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Revert "Add and activate eth/70 (#10246)"](https://github.com/NethermindEth/nethermind/pull/10791) - 2026-03-15
 * [Pull Request] [eth/71](https://github.com/NethermindEth/nethermind/pull/10844) - 2026-03-16
 * [Review] [Review on: fix(db): return null for missing key in SimpleFilePublicKeyDb.Get](https://github.com/NethermindEth/nethermind/pull/10843#pullrequestreview-3953610802) - 2026-03-16
+* [Review] [Review on: fix(ssz): use container.Count instead of limit in MerkleizeList for Union types](https://github.com/NethermindEth/nethermind/pull/10747#pullrequestreview-3959872994) - 2026-03-17
+* [Review] [Review on: feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807#pullrequestreview-3960429063) - 2026-03-17
 ## Q4 2025
 
 

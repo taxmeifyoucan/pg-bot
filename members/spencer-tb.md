@@ -33,6 +33,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-fill,test-benchmark): support stub accounts in `fill` via RPC](https://github.com/ethereum/execution-specs/pull/2512#pullrequestreview-3954044455) - 2026-03-16
 * [Issue] [Use dynamic address allocation in ported static tests](https://github.com/ethereum/execution-specs/issues/2517) - 2026-03-16
 * [Issue] [Add subset of ported static tests to `json_loader` CI](https://github.com/ethereum/execution-specs/issues/2516) - 2026-03-16
+* [Review] [Review on: refactor(test-benchmark): marker filter logic](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3959817485) - 2026-03-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 

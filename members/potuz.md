@@ -49,6 +49,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Gloas Init sync](https://github.com/OffchainLabs/prysm/pull/16528) - 2026-03-13
 * [Review] [Review on: proposer: use correct access root to get pre state](https://github.com/OffchainLabs/prysm/pull/16496#pullrequestreview-3955414246) - 2026-03-16
 * [Review] [Review on: fix: guard against fork boundary `IsParentBlockFull` false positive](https://github.com/OffchainLabs/prysm/pull/16510#pullrequestreview-3954227384) - 2026-03-16
+* [Review] [Review on: Fix envelopes-by-range to only serve canonical payloads backward](https://github.com/OffchainLabs/prysm/pull/16553#pullrequestreview-3961638596) - 2026-03-17
+* [Review] [Review on: Voluntary exit gloas](https://github.com/OffchainLabs/prysm/pull/16527#pullrequestreview-3961523483) - 2026-03-17
 ## Q4 2025
 
 

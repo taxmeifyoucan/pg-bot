@@ -16,3 +16,9 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: add vocab to summarization prompt](https://github.com/ethereum/pm/commit/f6493fcd739f84b1821ed5e4df0c73ca51ed6b7d) - 2026-03-13
 * [Commit] [acdbot: prevent youtube upload for bad timestamp](https://github.com/ethereum/pm/commit/e3a00502925c2805e0eefe225bd77c9f58b11d4c) - 2026-03-15
 * [Commit] [acdbot: fix vid id](https://github.com/ethereum/pm/commit/718735b6b37d7f61883d5bdca1f5f1f7aa6dd9ee) - 2026-03-15
+* [Commit] [acdbot: manual ingest script, fcr 5](https://github.com/ethereum/pm/commit/6c70d6e9a7cbe551e7dfaf7aed40eb14998e9ac6) - 2026-03-17
+* [Commit] [acdbot: remove cal instance if no issue at 24 hrs](https://github.com/ethereum/pm/commit/f291e23fc99c1aaacbed2f7105c99468d112bd39) - 2026-03-17
+* [Commit] [acdbot: fix utc series conversion](https://github.com/ethereum/pm/commit/738fa38bb92a3eaa8b9a34caaa22f96efe5bac01) - 2026-03-17
+* [Commit] [acdbot: fix utc conversion](https://github.com/ethereum/pm/commit/4cab938e36727551d424035bf598f3d3327cdebe) - 2026-03-17
+* [Commit] [acdbot: ensure all meetings are UTC](https://github.com/ethereum/pm/commit/d5e94a49ceb6c7f00f6b1e209eac21ce64c4b59d) - 2026-03-17
+* [Commit] [acdbot: handle instance time updates in zoom](https://github.com/ethereum/pm/commit/e73ad468fd348927e0517b40de7507baf67e872b) - 2026-03-17

@@ -18,6 +18,7 @@ Team: Nimbus
 * [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/3969) - 2026-02-06
 * [Pull Request] [Snap sync implement code dowloader](https://github.com/status-im/nimbus-eth1/pull/3982) - 2026-02-15
 * [Pull Request] [Snap sync perpare assembly db for mpt import](https://github.com/status-im/nimbus-eth1/pull/4029) - 2026-03-02
+* [Review] [Review on: add eth71 to the sync scheduler](https://github.com/status-im/nimbus-eth1/pull/4042#pullrequestreview-3961846807) - 2026-03-17
 ## Q4 2025
 
 

@@ -28,6 +28,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [internal/ethapi: warn on reaching global gas cap for eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/34016) - 2026-03-16
 * [Review] [Review on: triedb/pathdb: enhance history index initer](https://github.com/ethereum/go-ethereum/pull/33640#pullrequestreview-3955650822) - 2026-03-16
 * [Review] [Review on: triedb/pathdb: implement history index pruner](https://github.com/ethereum/go-ethereum/pull/33999#pullrequestreview-3955627191) - 2026-03-16
+* [Pull Request] [core/history: refactor pruning configuration](https://github.com/ethereum/go-ethereum/pull/34036) - 2026-03-17
+* [Commit] [internal/ethapi: warn on reaching global gas cap for eth_simulateV1 (#34016)](https://github.com/ethereum/go-ethereum/commit/fc1b0c0b83027b9e2ee44af6801728ac1e339f05) - 2026-03-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [eth_simulateV1: fix revert err code](https://github.com/ethereum/execution-apis/pull/748) - 2026-02-05
 * [Pull Request] [transaction: add blockTimestamp](https://github.com/ethereum/execution-apis/pull/749) - 2026-02-06
@@ -35,6 +37,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] []() - 2026-02-17
 * [Pull Request] []() - 2026-02-18
 * [Pull Request] [eth: add getStorageValues method](https://github.com/ethereum/execution-apis/pull/756) - 2026-02-23
+* [Pull Request] [eth: fill eth_simulateV1 tests with maxUsedGas](https://github.com/ethereum/execution-apis/pull/763) - 2026-03-17
+* [Pull Request] [tools: bump geth to latest master](https://github.com/ethereum/execution-apis/pull/768) - 2026-03-17
+* [Commit] [eth: fill eth_simulateV1 tests with maxUsedGas (#763)](https://github.com/ethereum/execution-apis/commit/20b74b1ed4ca56e85fa64fdd0d41fdf4bae3a570) - 2026-03-17
+* [Commit] [tools: bump geth to latest master (#768)](https://github.com/ethereum/execution-apis/commit/793e3ea7244a63332e61ddec559adb07ff0880bb) - 2026-03-17
 ## Q4 2025
 
 

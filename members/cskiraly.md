@@ -21,6 +21,7 @@ Team: Codex DAS
 * [Pull Request] [common/lru: add metered lru cache variant](https://github.com/ethereum/go-ethereum/pull/33719) - 2026-01-29
 * [Pull Request] [metrics: allow changing influxdb interval](https://github.com/ethereum/go-ethereum/pull/33767) - 2026-02-05
 * [Pull Request] [core/txpool/blobpool: delay announcement of low fee txs](https://github.com/ethereum/go-ethereum/pull/33893) - 2026-02-26
+* [Pull Request] [cmd/devp2p: fix discv5 PingMultiIP test session key mismatch](https://github.com/ethereum/go-ethereum/pull/34031) - 2026-03-17
 ## Q4 2025
 
 

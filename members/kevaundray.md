@@ -19,6 +19,7 @@ Team: Consensus R&D (EF)
 
 * [Pull Request] [Check for active validators in whitelist](https://github.com/ethereum/consensus-specs/pull/4886) - 2026-01-31
 * [Issue] [Unresolved TODOs from PR #4828](https://github.com/ethereum/consensus-specs/issues/4885) - 2026-01-31
+* [Review] [Review on: Update EIP8025 p2p protocol](https://github.com/ethereum/consensus-specs/pull/5014#pullrequestreview-3960143590) - 2026-03-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Issue] [engine_newPayloadWithWitness](https://github.com/ethereum/execution-apis/issues/741) - 2026-01-20
 
@@ -73,6 +74,13 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807#pullrequestreview-3936922823) - 2026-03-12
 * [Pull Request] [fix(ssz): Add validation checks for BitList and BitVector](https://github.com/NethermindEth/nethermind/pull/10796) - 2026-03-12
 * [Pull Request] [fix(ssz): Container decode logic for BitVector and validation fixes for container input](https://github.com/NethermindEth/nethermind/pull/10797) - 2026-03-12
+* [Review] [Review on: feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807#pullrequestreview-3960038586) - 2026-03-17
+* [Pull Request] [fix(ssz): Merkleizer list Feed now uses correct chunk limit and actual length for mixin](https://github.com/NethermindEth/nethermind/pull/10795) - 2026-03-17
+* [Pull Request] [fix(ssz): Uint128 decode method swapped upper and lower halves ](https://github.com/NethermindEth/nethermind/pull/10794) - 2026-03-17
+* [Commit] [fix(ssz): Container decode logic for BitVector and validation fixes for container input (#10797)](https://github.com/NethermindEth/nethermind/commit/da50429f26b820107b7f6442895fbc4f631ef7a6) - 2026-03-17
+* [Commit] [fix(ssz): Add validation checks for BitList and BitVector (#10796)](https://github.com/NethermindEth/nethermind/commit/163af6fc694863d2fd5687eed9952193d24dc948) - 2026-03-17
+* [Commit] [fix(ssz): Merkleizer list Feed now uses correct chunk limit and actual length for mixin (#10795)](https://github.com/NethermindEth/nethermind/commit/04f2e993f349ec6638369241d51904661369d8be) - 2026-03-17
+* [Commit] [fix(ssz): Uint128 decode method swapped upper and lower halves  (#10794)](https://github.com/NethermindEth/nethermind/commit/208f72a6188b4b8eeb22a9e96c060fc1a2fd9ecc) - 2026-03-17
 ## Q4 2025
 
 

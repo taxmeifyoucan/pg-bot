@@ -28,6 +28,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [fix fork choice block validation and error propagation](https://github.com/erigontech/erigon/pull/19922) - 2026-03-16
 * [Review] [Review on: Revert "flush: use etl.IdentityLoadFunc instead custom. part2"](https://github.com/erigontech/erigon/pull/19919#pullrequestreview-3951906019) - 2026-03-16
 * [Commit] [fix fork choice block validation and error propagation  (#19923)](https://github.com/erigontech/erigon/commit/853bf3e8a5ab07b9e362171cd9f59376892b9a21) - 2026-03-16
+* [Pull Request] [cl/caplin: fix intermittent 0-peer sync failures on Gnosis ](https://github.com/erigontech/erigon/pull/19946) - 2026-03-17
+* [Pull Request] [rpc: auto-convert legacy blob sidecar to v1 cell proofs after Osaka](https://github.com/erigontech/erigon/pull/19950) - 2026-03-17
+* [Pull Request] [[SharovBot][r3.4] Fix data race in ExecModuleTester.SendMessageToRandomPeer…](https://github.com/erigontech/erigon/pull/19943) - 2026-03-17
+* [Commit] [cl/caplin: fix intermittent 0-peer sync failures on Gnosis  (#19946)](https://github.com/erigontech/erigon/commit/4dc802f29270f67e7366d86520dec467d3c8d167) - 2026-03-18
+* [Commit] [rpc: auto-convert legacy blob sidecar to v1 cell proofs after Osaka (#19950)](https://github.com/erigontech/erigon/commit/c35a4662df80ed16c04cf3873408b85f26d01fd3) - 2026-03-17
 ## Q3 2025
 
 

@@ -51,6 +51,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: implementing envelope rest apis ](https://github.com/OffchainLabs/prysm/pull/16522#pullrequestreview-3956854832) - 2026-03-16
 * [Review] [Review on: Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16541#pullrequestreview-3956572999) - 2026-03-16
 * [Pull Request] [gloas validator client proposer preferences](https://github.com/OffchainLabs/prysm/pull/16548) - 2026-03-16
+* [Review] [Review on: rpc: add SubmitSignedProposerPreferences gRPC endpoint](https://github.com/OffchainLabs/prysm/pull/16538#pullrequestreview-3958020786) - 2026-03-17
+* [Review] [Review on: Correct log in VerifyBlobKZGProofBatch](https://github.com/OffchainLabs/prysm/pull/16552#pullrequestreview-3961195585) - 2026-03-17
 ## Q4 2025
 
 

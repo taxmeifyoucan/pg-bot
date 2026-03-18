@@ -16,3 +16,5 @@ Github: [@carsons-eels](https://github.com/carsons-eels)
 * [Review] [Review on: refactor(spec-specs): add opcode gas constants](https://github.com/ethereum/execution-specs/pull/2396#pullrequestreview-3919228758) - 2026-03-10
 * [Review] [Review on: refactor(spec-specs): add opcode gas constants](https://github.com/ethereum/execution-specs/pull/2396#pullrequestreview-3919429636) - 2026-03-10
 * [Review] [Review on: refactor(spec-specs): add opcode gas constants](https://github.com/ethereum/execution-specs/pull/2396#pullrequestreview-3919477285) - 2026-03-10
+* [Pull Request] [refactor(spec): unify forgotten gas constants in spec](https://github.com/ethereum/execution-specs/pull/2383) - 2026-03-17
+* [Commit] [refactor(spec): unify forgotten gas constants in spec (#2383)](https://github.com/ethereum/execution-specs/commit/023e98cdbf93469897d06458ca36f4d5a0565cf6) - 2026-03-17

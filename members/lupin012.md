@@ -40,6 +40,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: fix on blockOverride & StateOverride](https://github.com/erigontech/erigon/pull/19937) - 2026-03-16
 * [Commit] [rpc: fix on blockOverride & StateOverride (#19937)](https://github.com/erigontech/erigon/commit/65023355da2a442fcbd2e9e2e6ee8de35c61ef60) - 2026-03-17
 * [Commit] [fix eth simulation hive (#19866)](https://github.com/erigontech/erigon/commit/624598a18f92e8167d6f56b3fde61cdc9165e8f3) - 2026-03-16
+* [Review] [Review on: rpc: guard eth_createAccessList when from is omitted](https://github.com/erigontech/erigon/pull/19947#pullrequestreview-3963389033) - 2026-03-17
+* [Pull Request] [rpc: eth_gasPrice() fix & optimisation](https://github.com/erigontech/erigon/pull/19678) - 2026-03-17
+* [Commit] [rpc: eth_gasPrice() fix & optimisation (#19678)](https://github.com/erigontech/erigon/commit/f1cb4756d029092800050d7e9ffc064b69ca6641) - 2026-03-17
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15

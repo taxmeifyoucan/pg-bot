@@ -21,6 +21,8 @@ Team: Erigon
 
 * [Pull Request] [qa-tests: use the new v1.123.0 version of rpc-tests](https://github.com/erigontech/erigon/pull/19921) - 2026-03-16
 * [Commit] [qa-tests: use the new v1.123.0 version of rpc-tests (#19921)](https://github.com/erigontech/erigon/commit/62604a6e1eac791e865f6a26b1212f18bf627e37) - 2026-03-16
+* [Pull Request] [qa-tests: fix test report](https://github.com/erigontech/erigon/pull/19960) - 2026-03-17
+* [Commit] [qa-tests: fix test report (#19960)](https://github.com/erigontech/erigon/commit/2d8450f5da7fc3a82b712d83350709de79e48519) - 2026-03-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529) - 2026-03-13
 * [Commit] [more verbose error messagge (#529)](https://github.com/erigontech/rpc-tests/commit/34b1c609e2d04cd26f8070821e3ca12bb6d673d4) - 2026-03-14

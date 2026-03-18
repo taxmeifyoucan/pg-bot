@@ -17,6 +17,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 * [Pull Request] [Add zisk cycle scope tracker](https://github.com/eth-act/ere/pull/287) - 2026-02-06
 * [Review] [Review on: Remove some zkVMs](https://github.com/eth-act/ere/pull/307#pullrequestreview-3921842211) - 2026-03-10
+* [Review] [Review on: Update ZisK to `0.16.0`](https://github.com/eth-act/ere/pull/296#pullrequestreview-3961030521) - 2026-03-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [fix(bal): fix populated account if pre-state was none](https://github.com/bluealloy/revm/pull/3357) - 2026-01-27
 
@@ -59,6 +60,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): make execution witness bytecode assertions always strict](https://github.com/ethereum/execution-specs/pull/2518) - 2026-03-16
 * [Review] [Review on: feat(zkevm): make execution witness bytecode assertions always strict](https://github.com/ethereum/execution-specs/pull/2518#pullrequestreview-3956335523) - 2026-03-16
 * [Review] [Review on: chore(zkevm): Explicitly skip state tests and add witness for invalid blocks](https://github.com/ethereum/execution-specs/pull/2495#pullrequestreview-3953747971) - 2026-03-16
+* [Review] [Review on: feat(test-fixture): add target opcode in output fixture](https://github.com/ethereum/execution-specs/pull/2520#pullrequestreview-3960295026) - 2026-03-17
 ## Q4 2025
 
 

@@ -27,6 +27,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(xatu): add nodes section with resource monitoring](https://github.com/ethpandaops/lab/pull/421) - 2026-02-13
 * [Pull Request] [feat(node-resources): improve chart formatting and adapt to backend label changes](https://github.com/ethpandaops/lab/pull/424) - 2026-02-16
 * [Pull Request] [fix(consensus-overview): use flat page size to prevent truncation on dimensional data](https://github.com/ethpandaops/lab/pull/429) - 2026-02-23
+
+[ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
+* [Review] [Review on: chore: update go module dependencies](https://github.com/ethpandaops/contributoor/pull/211#pullrequestreview-3958166005) - 2026-03-17
 ## Q4 2025
 
 

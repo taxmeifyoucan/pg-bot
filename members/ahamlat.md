@@ -14,6 +14,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Use cache locality to improve Shift opcodes](https://github.com/besu-eth/besu/pull/9878#pullrequestreview-3936729849) - 2026-03-12
 * [Review] [Review on: Migrate all Guava caches to Caffeine](https://github.com/besu-eth/besu/pull/9909#pullrequestreview-3936377301) - 2026-03-12
+* [Pull Request] [Use cache locality to improve Shift opcodes](https://github.com/besu-eth/besu/pull/9878) - 2026-03-17
+* [Commit] [Use cache locality to improve Shift opcodes (#9878)](https://github.com/besu-eth/besu/commit/045068255cfc98f853bd1a3747fb5e9cfe168b4a) - 2026-03-17
 ## Q4 2025
 
 

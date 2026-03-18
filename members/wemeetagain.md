@@ -49,6 +49,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add QUIC support](https://github.com/ChainSafe/lodestar/pull/8051) - 2026-03-14
 * [Commit] [feat: add QUIC support (#8051)](https://github.com/ChainSafe/lodestar/commit/92c37f252528d23cd87f6abcd90a3fe7d477020a) - 2026-03-14
 * [Review] [Review on: chore: fix peerdas metrics](https://github.com/ChainSafe/lodestar/pull/8920#pullrequestreview-3955531729) - 2026-03-16
+* [Review] [Review on: refactor: handle payload import dedupe in processor](https://github.com/ChainSafe/lodestar/pull/9041#pullrequestreview-3961281312) - 2026-03-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: merge blst-z](https://github.com/ChainSafe/lodestar-z/pull/237) - 2026-03-12
 * [Review] [Review on: feat(fuzz): add AFL++ fuzz testing for SSZ deserialization](https://github.com/ChainSafe/lodestar-z/pull/228#pullrequestreview-3933528390) - 2026-03-12
@@ -62,6 +63,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: native metrics example](https://github.com/ChainSafe/lodestar-z/pull/239#pullrequestreview-3956090944) - 2026-03-16
 * [Review] [Review on: chore: improve process_epoch benchmarks](https://github.com/ChainSafe/lodestar-z/pull/242#pullrequestreview-3956065556) - 2026-03-16
 * [Review] [Review on: refactor: simplify `BitList` and `BitVector` types](https://github.com/ChainSafe/lodestar-z/pull/161#pullrequestreview-3954189303) - 2026-03-16
+* [Pull Request] [feat: add StructContainerTreeView, model Validator as StructContainerType](https://github.com/ChainSafe/lodestar-z/pull/247) - 2026-03-17
+* [Review] [Review on: feat(blst): native multi-threaded blst](https://github.com/ChainSafe/lodestar-z/pull/235#pullrequestreview-3963530251) - 2026-03-17
+* [Review] [Review on: fix: native metrics example](https://github.com/ChainSafe/lodestar-z/pull/239#pullrequestreview-3961239876) - 2026-03-17
 ## Q4 2025
 
 

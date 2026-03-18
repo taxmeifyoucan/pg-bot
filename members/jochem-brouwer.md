@@ -28,8 +28,10 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [refactor(test-benchmark): update account access benchmark (#2493)](https://github.com/ethereum/execution-specs/commit/8c50cf2dfcc71fea891ca4fcd25265a9ba418181) - 2026-03-12
 
 * [Review] [Review on: feat(benchmarks): add BAL benchmarks for the optimization strategies introduced by BALs](https://github.com/ethereum/execution-specs/pull/2197#pullrequestreview-3957545670) - 2026-03-17
+* [Commit] [feat(benchmarks): add BAL benchmarks for the optimization strategies introduced by BALs (#2197)](https://github.com/ethereum/execution-specs/commit/905db269e74e66748663f4bf97c83d89e97aa7ff) - 2026-03-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/pull/11391#pullrequestreview-3952860193) - 2026-03-16
+* [Review] [Review on: Update EIP-8141: add mempool policy](https://github.com/ethereum/EIPs/pull/11415#pullrequestreview-3957951837) - 2026-03-17
 ## Q4 2025
 
 

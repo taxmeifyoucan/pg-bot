@@ -83,6 +83,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: handle tuple disposal in TryDispose to prevent resource leaks](https://github.com/NethermindEth/nethermind/pull/10839#pullrequestreview-3954601358) - 2026-03-16
 * [Review] [Review on: fix(db): return null for missing key in SimpleFilePublicKeyDb.Get](https://github.com/NethermindEth/nethermind/pull/10843#pullrequestreview-3953476293) - 2026-03-16
 * [Review] [Review on: fix(rlp): pass ValueDecoderContext by ref in DecodeStorageRootOnly](https://github.com/NethermindEth/nethermind/pull/10842#pullrequestreview-3953465734) - 2026-03-16
+* [Review] [Review on: Re-enable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/10848#pullrequestreview-3960925052) - 2026-03-17
+* [Review] [Review on: fix: rpc-compat hive tests](https://github.com/NethermindEth/nethermind/pull/10846#pullrequestreview-3959228613) - 2026-03-17
+* [Review] [Review on: fix: dispose IncrementalHash in E2StoreWriter](https://github.com/NethermindEth/nethermind/pull/10847#pullrequestreview-3959220652) - 2026-03-17
+* [Review] [Review on: fix: handle tuple disposal in TryDispose to prevent resource leaks](https://github.com/NethermindEth/nethermind/pull/10839#pullrequestreview-3959269413) - 2026-03-17
 ## Q4 2025
 
 

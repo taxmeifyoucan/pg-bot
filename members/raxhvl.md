@@ -21,6 +21,8 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Pull Request] [✨ feat(fw,fill): Hive genesis format](https://github.com/ethereum/execution-specs/pull/2511) - 2026-03-16
 * [Review] [Review on: feat(cli-evm-bytes): Detect repeating opcodes](https://github.com/ethereum/execution-specs/pull/2502#pullrequestreview-3951801149) - 2026-03-16
 * [Issue] [Chore: Drop genesis generation](https://github.com/ethereum/execution-specs/issues/2510) - 2026-03-16
+* [Review] [Review on: feat(test-fixture): add target opcode in output fixture](https://github.com/ethereum/execution-specs/pull/2520#pullrequestreview-3958491416) - 2026-03-17
+* [Issue] [perf: Improve gas consumption of While loop](https://github.com/ethereum/execution-specs/issues/2519) - 2026-03-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Add ETH burn logs and improve spec consistency](https://github.com/ethereum/EIPs/pull/11311) - 2026-02-13
 

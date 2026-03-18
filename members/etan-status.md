@@ -35,6 +35,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Fix fast confirmation shuffling updates for pre-finalized](https://github.com/status-im/nimbus-eth2/pull/8094) - 2026-03-16
 * [Pull Request] [Only update current_slot_head if before attestation deadline](https://github.com/status-im/nimbus-eth2/pull/8096) - 2026-03-17
 * [Pull Request] [Make unrealized_justified deterministic across calls](https://github.com/status-im/nimbus-eth2/pull/8095) - 2026-03-16
+* [Pull Request] [Exclude nim-libp2p from Dependabot managed dependencies](https://github.com/status-im/nimbus-eth2/pull/8105) - 2026-03-17
+* [Pull Request] [Only update proposer boost if proposer is same as on canonical chain](https://github.com/status-im/nimbus-eth2/pull/8104) - 2026-03-17
+* [Review] [Review on: remove ambigious overloads](https://github.com/status-im/nimbus-eth2/pull/8098#pullrequestreview-3959122695) - 2026-03-17
+* [Pull Request] [Automate bumping submodules to latest tagged commit](https://github.com/status-im/nimbus-eth2/pull/8001) - 2026-03-17
 ## Q4 2025
 
 

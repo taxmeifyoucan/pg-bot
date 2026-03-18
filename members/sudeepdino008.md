@@ -44,6 +44,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [state/merge: use iit.files instead of dirtyFiles in staticFilesInRange (#17546)](https://github.com/erigontech/erigon/commit/74a9335e9f8d5185ac6c93d67f240754650b0e67) - 2026-03-16
 * [Commit] [db/state: fix unsafe dirtyFiles access in merge file lookups (#19917)](https://github.com/erigontech/erigon/commit/0485b7ea171ba6991d3ee04b80bd0a90058484ff) - 2026-03-16
 * [Commit] [integrity: remove StateProgress check (#19738)](https://github.com/erigontech/erigon/commit/8ae192db938c36fd0135d771ead94302e5026bfc) - 2026-03-16
+* [Pull Request] [etl: enable Append/AppendDup for certain state tables during etl loading](https://github.com/erigontech/erigon/pull/19956) - 2026-03-17
+* [Review] [Review on: TemporalMemBatch: re-use vals-slice when can](https://github.com/erigontech/erigon/pull/19942#pullrequestreview-3958188820) - 2026-03-17
+* [Review] [Review on: merge `release/3.4` to `main`](https://github.com/erigontech/erigon/pull/19949#pullrequestreview-3958725823) - 2026-03-17
+* [Pull Request] [etl: DupSort value sorting + dynamic canUseAppend](https://github.com/erigontech/erigon/pull/19948) - 2026-03-17
+* [Review] [Review on: HistoryKeyTxNumIterFiles: re-use multi-seq reader and iterator](https://github.com/erigontech/erigon/pull/19945#pullrequestreview-3958548770) - 2026-03-17
+* [Review] [Review on: PagedWriter: solve producer-bottelneck by moving pageSerialization from producer to workers ](https://github.com/erigontech/erigon/pull/19944#pullrequestreview-3958191392) - 2026-03-17
+* [Review] [Review on: d_lru: disable for commitment (it's useful for re-exec from 0, but i didn't test impact on chaintip)](https://github.com/erigontech/erigon/pull/19941#pullrequestreview-3958187850) - 2026-03-17
 ## Q4 2025
 
 

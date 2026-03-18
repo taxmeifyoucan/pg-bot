@@ -42,6 +42,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Add option to enable blobdb on RocksDB](https://github.com/Consensys/teku/pull/10470#pullrequestreview-3952537048) - 2026-03-16
 * [Commit] [Add Missing Domains in specConfig API (#10488)](https://github.com/Consensys/teku/commit/84cb1f2741de5d0626dab049ee2dafb83d53df16) - 2026-03-16
 * [Commit] [Javalin7 (#10484)](https://github.com/Consensys/teku/commit/a64f79901e0641912a01e4251f4ed4167918dfcf) - 2026-03-16
+* [Commit] [Rest API virtual threads (#10495)](https://github.com/Consensys/teku/commit/72af7be3a58db4719ae398cc7b8db708ce6c79bf) - 2026-03-17
 ## Q4 2025
 
 

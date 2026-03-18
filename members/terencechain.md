@@ -65,6 +65,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [p2p: add signed proposer preferences gossip topic and verification (#16537)](https://github.com/OffchainLabs/prysm/commit/7728ad4aa2dff944f7e59236f4a8565b6d42cb81) - 2026-03-17
 * [Commit] [proposer: use correct access root to get pre state (#16496)](https://github.com/OffchainLabs/prysm/commit/1362654669c548ca565e7152f9edb3bcd34eede9) - 2026-03-16
 * [Commit] [fix: guard against fork boundary `IsParentBlockFull` false positive (#16510)](https://github.com/OffchainLabs/prysm/commit/123651981097cde7776427cfb34a116910e0c420) - 2026-03-16
+* [Pull Request] [Fix envelopes-by-range to only serve canonical payloads backward](https://github.com/OffchainLabs/prysm/pull/16553) - 2026-03-17
+* [Review] [Review on: rpc: add SubmitSignedProposerPreferences gRPC endpoint](https://github.com/OffchainLabs/prysm/pull/16538#pullrequestreview-3961236808) - 2026-03-17
+* [Commit] [rpc: add SubmitSignedProposerPreferences gRPC endpoint (#16538)](https://github.com/OffchainLabs/prysm/commit/605ab1c7ace5f7dc6b016c6239ca762fd1aacb35) - 2026-03-17
 ## Q4 2025
 
 

@@ -72,6 +72,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(deps): bump the actions group with 7 updates](https://github.com/ChainSafe/lodestar/pull/9048#pullrequestreview-3955486960) - 2026-03-16
 * [Review] [Review on: chore: bump @chainsafe/discv5 to v12.0.1 and @chainsafe/enr to v6.0.1](https://github.com/ChainSafe/lodestar/pull/9049#pullrequestreview-3955157678) - 2026-03-16
 * [Review] [Review on: fix: populate ENR field in /eth/v1/node/peers response](https://github.com/ChainSafe/lodestar/pull/9046#pullrequestreview-3953097715) - 2026-03-16
+* [Review] [Review on: refactor: handle payload import dedupe in processor](https://github.com/ChainSafe/lodestar/pull/9041#pullrequestreview-3959193602) - 2026-03-17
+* [Review] [Review on: chore: create GitHub releases as draft to support immutable releases](https://github.com/ChainSafe/lodestar/pull/9056#pullrequestreview-3962563139) - 2026-03-17
+* [Review] [Review on: fix: populate ENR field in /eth/v1/node/peers response](https://github.com/ChainSafe/lodestar/pull/9046#pullrequestreview-3960370764) - 2026-03-17
+* [Review] [Review on: feat: add payload envelope reqresp](https://github.com/ChainSafe/lodestar/pull/9050#pullrequestreview-3960383003) - 2026-03-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15

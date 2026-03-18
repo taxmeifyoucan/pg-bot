@@ -86,6 +86,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Vc header handling](https://github.com/Consensys/teku/pull/10494) - 2026-03-16
 * [Commit] [Added version field to gloas events (#10481)](https://github.com/Consensys/teku/commit/6a0f928bda245033e86aeb51656ac2ae1db3303f) - 2026-03-17
 * [Commit] [Vc header handling (#10494)](https://github.com/Consensys/teku/commit/6d3b2ac273aa7153da1f2a10c6f990ad36786516) - 2026-03-16
+* [Pull Request] [updated constants for 1.7.0-alpha.3](https://github.com/Consensys/teku/pull/10500) - 2026-03-17
+* [Review] [Review on: updated constants for 1.7.0-alpha.3](https://github.com/Consensys/teku/pull/10500#pullrequestreview-3964501095) - 2026-03-18
+* [Pull Request] [Implemented PostPtcDuties api endpoint](https://github.com/Consensys/teku/pull/10441) - 2026-03-17
+* [Issue] [[post-gloas] configuration cleanup](https://github.com/Consensys/teku/issues/10499) - 2026-03-17
+* [Issue] [event stream being closed error](https://github.com/Consensys/teku/issues/10498) - 2026-03-17
+* [Issue] [timeout exception updating fork choice](https://github.com/Consensys/teku/issues/10497) - 2026-03-17
+* [Commit] [Implemented PostPtcDuties api endpoint (#10441)](https://github.com/Consensys/teku/commit/c815e3cc2def5a2d96b6279c36afa8cf1462a3cf) - 2026-03-17
+* [Commit] [created string and int body definitions for rest api (#10496)](https://github.com/Consensys/teku/commit/b8dbd1124903d22df7d628ae91740fedfa7d1c87) - 2026-03-17
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

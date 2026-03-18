@@ -23,5 +23,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [remove invalid warning pre glamsterdam](https://github.com/besu-eth/besu/pull/10049) - 2026-03-16
 * [Review] [Review on: remove invalid warning pre glamsterdam](https://github.com/besu-eth/besu/pull/10049#pullrequestreview-3951882675) - 2026-03-16
 * [Commit] [remove invalid warning pre glamsterdam (#10049)](https://github.com/besu-eth/besu/commit/cb0788ceb779ed8d61a59900bafae62c33d40de1) - 2026-03-16
+* [Review] [Review on: reduce volume of chain data pruner test](https://github.com/besu-eth/besu/pull/10062#pullrequestreview-3960060300) - 2026-03-17
+* [Review] [Review on: Add tests for parallel block processing (optimistic and BAL)](https://github.com/besu-eth/besu/pull/10010#pullrequestreview-3959815699) - 2026-03-17
+* [Pull Request] [refactor stateroot commiter](https://github.com/besu-eth/besu/pull/9879) - 2026-03-17
+* [Pull Request] [add binary trie](https://github.com/besu-eth/besu/pull/10061) - 2026-03-17
+* [Commit] [refactor stateroot commiter (#9879)](https://github.com/besu-eth/besu/commit/0b5d732c2deb04146e14267b859a7f353a67350b) - 2026-03-17
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Pull Request] [use set for the StemPrunableNodeRegistry](https://github.com/besu-eth/besu-stateless/pull/90) - 2026-02-27

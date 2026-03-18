@@ -31,3 +31,5 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(test-fill,test-benchmark): support stub accounts in `fill` via RPC](https://github.com/ethereum/execution-specs/pull/2512) - 2026-03-16
 * [Review] [Review on: chore(tests): Add test for exponent padding in modexp precompile](https://github.com/ethereum/execution-specs/pull/2508#pullrequestreview-3951846388) - 2026-03-16
 * [Commit] [fix(test-benchmark): update `approve` function for `SSTORE` benchmark (#2487)](https://github.com/ethereum/execution-specs/commit/62cfc21187e17b4c15bbec8c862e2d87bfbf103b) - 2026-03-16
+* [Review] [Review on: feat(benchmarks): add BAL benchmarks for the optimization strategies introduced by BALs](https://github.com/ethereum/execution-specs/pull/2197#pullrequestreview-3958950300) - 2026-03-17
+* [Pull Request] [feat(test-fixture): add target opcode in output fixture](https://github.com/ethereum/execution-specs/pull/2520) - 2026-03-17

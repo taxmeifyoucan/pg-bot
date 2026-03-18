@@ -88,6 +88,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [txpool, bor: simplify by extracting helpers; replace *big.Int with *uint64 for BorConfig fork blocks (#19906)](https://github.com/erigontech/erigon/commit/304f5bb7c61bbb858205c1f8ce7832888d149670) - 2026-03-16
 * [Commit] [types: store mandatory uint256.Int fields by value (#19907)](https://github.com/erigontech/erigon/commit/963aebbdef54e316ab0bffe43bc830c10d80ae0c) - 2026-03-16
 * [Commit] [chain: replace *big.Int with *uint64 for fork blocks/times (#19908)](https://github.com/erigontech/erigon/commit/191ba3d1ba6a82e1fb92b84aeafa2e5765185c1f) - 2026-03-16
+* [Review] [Review on: exec3_parallel: eliminate IBS round-trip in finalize path](https://github.com/erigontech/erigon/pull/19814#pullrequestreview-3959071187) - 2026-03-17
+* [Pull Request] [deps: gnark-crypto v0.20.0 -> v0.20.1](https://github.com/erigontech/erigon/pull/19953) - 2026-03-17
+* [Review] [Review on: execmodule: cross-call overlay with RO tx pipeline execution](https://github.com/erigontech/erigon/pull/19882#pullrequestreview-3959026572) - 2026-03-17
+* [Review] [Review on: rpc: eth_gasPrice() fix & optimisation](https://github.com/erigontech/erigon/pull/19678#pullrequestreview-3958955808) - 2026-03-17
+* [Review] [Review on: vm/benchmark: add EVM performance benchmarks targeting mainnet bottlenecks](https://github.com/erigontech/erigon/pull/19932#pullrequestreview-3958883406) - 2026-03-17
+* [Review] [Review on: rpc: auto-convert legacy blob sidecar to v1 cell proofs after Osaka](https://github.com/erigontech/erigon/pull/19950#pullrequestreview-3959017358) - 2026-03-17
+* [Review] [Review on: engine: return -38003 for FCUv2 payloadAttributes mismatch](https://github.com/erigontech/erigon/pull/19779#pullrequestreview-3958854762) - 2026-03-17
+* [Issue] [Double check block building and validation when fee account (COINBASE) self desctructs](https://github.com/erigontech/erigon/issues/19951) - 2026-03-17
+* [Commit] [deps: gnark-crypto v0.20.0 -> v0.20.1 (#19953)](https://github.com/erigontech/erigon/commit/c05f73c6747026a55ca52bac34946522a5c7f85a) - 2026-03-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 ## Q4 2025

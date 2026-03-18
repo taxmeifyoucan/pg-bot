@@ -26,6 +26,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #91, March 03, 2026](https://github.com/ethereum/pm/issues/1957) - 2026-03-03
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #92, March 11, 2026](https://github.com/ethereum/pm/issues/1961) - 2026-03-05
 * [Issue] [EIP Editing Office Hour (EIP Only ) Meeting #93, March 17, 2026](https://github.com/ethereum/pm/issues/1972) - 2026-03-16
+* [Issue] [EIPIP Meeting #125, Mar 18, 2026](https://github.com/ethereum/pm/issues/1975) - 2026-03-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7723: Update eip-7723.md](https://github.com/ethereum/EIPs/pull/11006) - 2026-01-03
 * [Pull Request] [Update EIP-7910: Move to Final](https://github.com/ethereum/EIPs/pull/11135) - 2026-01-21
@@ -37,6 +38,10 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Pull Request] [Add contribution guidelines for EIP repository](https://github.com/ethereum/EIPs/pull/11124) - 2026-02-10
 * [Pull Request] [Add EIP: Hardfork Meta - BPO3](https://github.com/ethereum/EIPs/pull/11182) - 2026-02-24
 * [Pull Request] [Update EIP-8135: Move to Review](https://github.com/ethereum/EIPs/pull/11370) - 2026-03-03
+* [Pull Request] [Update EIP-8135: Move to Last Call](https://github.com/ethereum/EIPs/pull/11417) - 2026-03-17
+* [Pull Request] [Update EIP-8134: Move to Last Call](https://github.com/ethereum/EIPs/pull/11416) - 2026-03-17
+* [Commit] [Update EIP-8135: Move to Last Call](https://github.com/ethereum/EIPs/commit/19afac4a6cfe8ca0b3ec9f186719ccc4c3a4cb6d) - 2026-03-17
+* [Commit] [Update EIP-8134: Move to Last Call](https://github.com/ethereum/EIPs/commit/c6547c9047e30846c411ec5ed9afce31bc151b2e) - 2026-03-17
 ## Q4 2025
 
 

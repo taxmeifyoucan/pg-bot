@@ -43,6 +43,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-fill,test-benchmark): support stub accounts in `fill` via RPC](https://github.com/ethereum/execution-specs/pull/2512#pullrequestreview-3953559848) - 2026-03-16
 * [Pull Request] [chore(ci): warn when local markdownlint-cli2 version diverges from CI](https://github.com/ethereum/execution-specs/pull/2513) - 2026-03-16
 * [Review] [Review on: chore(ci,deps): bump pinned action SHAs & golang, markdownlint-cli2 versions](https://github.com/ethereum/execution-specs/pull/2503#pullrequestreview-3952423920) - 2026-03-16
+* [Pull Request] [feat(ci): dual-publish fixture releases to EELS and EEST](https://github.com/ethereum/execution-specs/pull/2350) - 2026-03-17
+* [Commit] [feat(ci): dual-publish fixture releases to EELS and EEST (#2350)](https://github.com/ethereum/execution-specs/commit/5d20c2797f46c5e80e212dd638291d446352deb7) - 2026-03-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 
@@ -52,8 +54,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [hivesim,libhive,simulators/ethereum/engine: apply gofmt; clean-up whitespace](https://github.com/ethereum/hive/pull/1401) - 2026-03-10
 * [Pull Request] [internal/libhive: anchor `--sim` regex matching at end of simulator name](https://github.com/ethereum/hive/pull/1406) - 2026-03-16
 * [Commit] [internal/libhive: anchor `--sim` regex matching at end of simulator name (#1406)](https://github.com/ethereum/hive/commit/bca75d8080aabece27225b59f06feb9e739fcdcd) - 2026-03-16
+* [Pull Request] [libhive,hiveview: Track per-test client log ranges for better reporting](https://github.com/ethereum/hive/pull/1402) - 2026-03-17
+* [Review] [Review on: libhive,hiveview: Track per-test client log ranges for better reporting](https://github.com/ethereum/hive/pull/1402#pullrequestreview-3962214348) - 2026-03-17
+* [Commit] [libhive,hiveview: track per-test client log ranges for better reporting (#1402)](https://github.com/ethereum/hive/commit/1fc72ff41ba0903b46c4e210ead80f55a63e1718) - 2026-03-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #73, March 9, 2026](https://github.com/ethereum/pm/issues/1956) - 2026-03-03
+* [Issue] [All Core Devs - Testing (ACDT) #75, March 23, 2026](https://github.com/ethereum/pm/issues/1976) - 2026-03-17
 ## Q4 2025
 
 

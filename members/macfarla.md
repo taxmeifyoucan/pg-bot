@@ -82,6 +82,29 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Deprecate `--min-block-occupancy-ratio` for removal and make it noop](https://github.com/besu-eth/besu/pull/10036#pullrequestreview-3956318117) - 2026-03-16
 * [Commit] [reduce number of scenarios tested (#10055)](https://github.com/besu-eth/besu/commit/11878cf834ad8dae990ecea343353345c106a1de) - 2026-03-17
 * [Commit] [snap server - log enabled/disabled in config overview (#10039)](https://github.com/besu-eth/besu/commit/29ced86b8cabadbd7c696b5cb32f4540ad262a90) - 2026-03-16
+* [Review] [Review on: Fix typed receipt encoding in putSyncTransactionReceipts](https://github.com/besu-eth/besu/pull/10044#pullrequestreview-3958967352) - 2026-03-17
+* [Pull Request] [Add max used gas to eth_simulateV1 ](https://github.com/besu-eth/besu/pull/10066) - 2026-03-17
+* [Review] [Review on: Add max used gas to eth_simulateV1 ](https://github.com/besu-eth/besu/pull/10066#pullrequestreview-3964244615) - 2026-03-17
+* [Review] [Review on: Fix eth/69 receipt encoding for Frontier tx](https://github.com/besu-eth/besu/pull/9900#pullrequestreview-3958694387) - 2026-03-17
+* [Review] [Review on: Deprecate `--min-block-occupancy-ratio` for removal and make it noop](https://github.com/besu-eth/besu/pull/10036#pullrequestreview-3962970902) - 2026-03-17
+* [Pull Request] [report 10 slowest tests](https://github.com/besu-eth/besu/pull/10063) - 2026-03-17
+* [Pull Request] [reduce volume of chain data pruner test](https://github.com/besu-eth/besu/pull/10062) - 2026-03-17
+* [Review] [Review on: reduce volume of chain data pruner test](https://github.com/besu-eth/besu/pull/10062#pullrequestreview-3962892211) - 2026-03-17
+* [Review] [Review on: Add tests for parallel block processing (optimistic and BAL)](https://github.com/besu-eth/besu/pull/10010#pullrequestreview-3963024982) - 2026-03-17
+* [Review] [Review on: Fix/simulate fee recipient](https://github.com/besu-eth/besu/pull/9942#pullrequestreview-3960100652) - 2026-03-17
+* [Pull Request] [Era1BlockExporterTest - reduce the number of iterations](https://github.com/besu-eth/besu/pull/10057) - 2026-03-17
+* [Pull Request] [BySpecTests: run setup once instead of for each spec file](https://github.com/besu-eth/besu/pull/10059) - 2026-03-17
+* [Review] [Review on: BySpecTests: run setup once instead of for each spec file](https://github.com/besu-eth/besu/pull/10059#pullrequestreview-3958134342) - 2026-03-17
+* [Review] [Review on: Fix eth_simulateV1 to accept both input and data fields with differen…](https://github.com/besu-eth/besu/pull/9996#pullrequestreview-3958625438) - 2026-03-17
+* [Pull Request] [PeerTaskValidationResponse - accept NO_RESULTS_RETURNED](https://github.com/besu-eth/besu/pull/10056) - 2026-03-17
+* [Issue] [add maxGasUsed to eth_simulateV1 results](https://github.com/besu-eth/besu/issues/10065) - 2026-03-17
+* [Commit] [Fix typed receipt encoding in putSyncTransactionReceipts (#10044)](https://github.com/besu-eth/besu/commit/e747668d9de569d31df36fd7adf666d97de8f3fa) - 2026-03-18
+* [Commit] [fix: send slim account encoding in snap AccountRange responses (#9877)](https://github.com/besu-eth/besu/commit/0c5d3dfe2fd2dfce46c3496d40bc1200b2951364) - 2026-03-18
+* [Commit] [Add max used gas to eth_simulateV1 (#10066)](https://github.com/besu-eth/besu/commit/a9f47a0596c8bd3f9d582a45fd83017ee1fcb94f) - 2026-03-18
+* [Commit] [logging improvements for breach of protocol for rlp (#10038)](https://github.com/besu-eth/besu/commit/f7b69907d5f577dd7f7f02d25daffcb5d9f18f83) - 2026-03-17
+* [Commit] [BySpecTests: run setup once instead of for each spec file (#10059)](https://github.com/besu-eth/besu/commit/d80ec3e193faffc67167157c621509da294ab09b) - 2026-03-17
+* [Commit] [reduce the number of iterations (#10057)](https://github.com/besu-eth/besu/commit/ac5a26b3cc21cb681e4fa0d99c8438b56001337e) - 2026-03-17
+* [Commit] [PeerTaskValidation accept NO_RESULTS_RETURNED (#10056)](https://github.com/besu-eth/besu/commit/5405efdad0debe38ac7a4db356f374b501424b42) - 2026-03-17
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

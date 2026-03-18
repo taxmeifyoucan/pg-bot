@@ -14,6 +14,7 @@ Github: [@misilva73](https://github.com/misilva73)
 
 * [Issue] [Glamsterdam Repricings #2, Feb 18, 2026](https://github.com/ethereum/pm/issues/1935) - 2026-02-18
 * [Issue] [Glamsterdam Repricings #3, Mar 4, 2026](https://github.com/ethereum/pm/issues/1959) - 2026-03-04
+* [Issue] [Glamsterdam Repricings #4, Mar 18, 2026](https://github.com/ethereum/pm/issues/1973) - 2026-03-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: Add quantization, reservoir model, and refine gas accounting](https://github.com/ethereum/EIPs/pull/11292) - 2026-02-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)

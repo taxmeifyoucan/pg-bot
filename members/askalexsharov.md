@@ -103,6 +103,20 @@ Team: Erigon
 * [Review] [Review on: state/merge: use iit.files instead of dirtyFiles in staticFilesInRange](https://github.com/erigontech/erigon/pull/17546#pullrequestreview-3951990073) - 2026-03-16
 * [Pull Request] [Revert "flush: use etl.IdentityLoadFunc instead custom. part2"](https://github.com/erigontech/erigon/pull/19919) - 2026-03-16
 * [Issue] [Race: TestAssembleBlockWithFreshlyAddedTxns -> sentry](https://github.com/erigontech/erigon/issues/19928) - 2026-03-16
+* [Review] [Review on: cl/caplin: fix intermittent 0-peer sync failures on Gnosis ](https://github.com/erigontech/erigon/pull/19946#pullrequestreview-3964550595) - 2026-03-18
+* [Review] [Review on: execmodule: extract PipelineExecutor, internalize ForkValidator](https://github.com/erigontech/erigon/pull/19961#pullrequestreview-3964478532) - 2026-03-18
+* [Review] [Review on: gitignore: ignore .claude/worktrees/](https://github.com/erigontech/erigon/pull/19963#pullrequestreview-3964476177) - 2026-03-18
+* [Review] [Review on: qa-tests: fix test report](https://github.com/erigontech/erigon/pull/19960#pullrequestreview-3964393985) - 2026-03-18
+* [Review] [Review on: execmodule: cross-call overlay with RO tx pipeline execution](https://github.com/erigontech/erigon/pull/19882#pullrequestreview-3958965184) - 2026-03-17
+* [Pull Request] [TemporalMemBatch: re-use vals-slice when can](https://github.com/erigontech/erigon/pull/19942) - 2026-03-17
+* [Pull Request] [[wip] evm: dedup `accounts.InternAddress` calls for `calle`. v1](https://github.com/erigontech/erigon/pull/19939) - 2026-03-17
+* [Pull Request] [merge `release/3.4` to `main`](https://github.com/erigontech/erigon/pull/19949) - 2026-03-17
+* [Pull Request] [[wip] evm: dedup `accounts.InternAddress` calls for calle. v2](https://github.com/erigontech/erigon/pull/19940) - 2026-03-17
+* [Pull Request] [HistoryKeyTxNumIterFiles: re-use multi-seq reader and iterator](https://github.com/erigontech/erigon/pull/19945) - 2026-03-17
+* [Pull Request] [PagedWriter: solve producer-bottelneck by moving pageSerialization from producer to workers ](https://github.com/erigontech/erigon/pull/19944) - 2026-03-17
+* [Pull Request] [d_lru: disable for commitment (it's useful for re-exec from 0, but i didn't test impact on chaintip)](https://github.com/erigontech/erigon/pull/19941) - 2026-03-17
+* [Review] [Review on: [SharovBot][r3.4] Fix data race in ExecModuleTester.SendMessageToRandomPeer…](https://github.com/erigontech/erigon/pull/19943#pullrequestreview-3958026696) - 2026-03-17
+* [Commit] [merge `release/3.4` to `main` (#19949)](https://github.com/erigontech/erigon/commit/e172bf4270024df6a56484ad23f5dfbb217389a2) - 2026-03-17
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025
