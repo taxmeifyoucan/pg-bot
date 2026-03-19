@@ -43,6 +43,9 @@ Team: Grandine
 * [Pull Request] [Extract prune_delayed_after_finalization and call it on slot finalization](https://github.com/grandinetech/grandine/pull/637) - 2026-03-16
 * [Review] [Review on: `POST /eth/v1/beacon/execution_payload/bid`](https://github.com/grandinetech/grandine/pull/517#pullrequestreview-3960668431) - 2026-03-17
 * [Review] [Review on: Add payload attestation tick](https://github.com/grandinetech/grandine/pull/603#pullrequestreview-3960381882) - 2026-03-17
+* [Pull Request] [Update consensus spec tests to v1.7.0-alpha3](https://github.com/grandinetech/grandine/pull/639) - 2026-03-18
+* [Review] [Review on: `GET /eth/v1/validator/execution_payload_bid/{slot}/{builder_index}`](https://github.com/grandinetech/grandine/pull/518#pullrequestreview-3966897987) - 2026-03-18
+* [Review] [Review on: Disable macos & windows builds in CI](https://github.com/grandinetech/grandine/pull/638#pullrequestreview-3966834375) - 2026-03-18
 ## Q4 2025
 
 

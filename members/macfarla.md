@@ -105,6 +105,18 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [BySpecTests: run setup once instead of for each spec file (#10059)](https://github.com/besu-eth/besu/commit/d80ec3e193faffc67167157c621509da294ab09b) - 2026-03-17
 * [Commit] [reduce the number of iterations (#10057)](https://github.com/besu-eth/besu/commit/ac5a26b3cc21cb681e4fa0d99c8438b56001337e) - 2026-03-17
 * [Commit] [PeerTaskValidation accept NO_RESULTS_RETURNED (#10056)](https://github.com/besu-eth/besu/commit/5405efdad0debe38ac7a4db356f374b501424b42) - 2026-03-17
+* [Review] [Review on: Propose Miroslav Kovář as a maintainer](https://github.com/besu-eth/besu/pull/10033#pullrequestreview-3971250964) - 2026-03-18
+* [Review] [Review on: fix: prevent unsigned underflow in eth_feeHistory reward bounds](https://github.com/besu-eth/besu/pull/10060#pullrequestreview-3964627706) - 2026-03-18
+* [Pull Request] [Revert tracer aggregator](https://github.com/besu-eth/besu/pull/10068) - 2026-03-18
+* [Review] [Review on: Snap download: Fallback to resync world state if incomplete](https://github.com/besu-eth/besu/pull/10019#pullrequestreview-3965178487) - 2026-03-18
+* [Pull Request] [Fix eth/69 receipt encoding for Frontier tx](https://github.com/besu-eth/besu/pull/9900) - 2026-03-18
+* [Pull Request] [Fix: eth_simulateV1 gas pricing](https://github.com/besu-eth/besu/pull/10067) - 2026-03-18
+* [Review] [Review on: Fix: eth_simulateV1 gas pricing](https://github.com/besu-eth/besu/pull/10067#pullrequestreview-3964644360) - 2026-03-18
+* [Commit] [reduce volume of chain data pruner test (#10062)](https://github.com/besu-eth/besu/commit/37b8a2751e65177949f6e2c386d0d673ae8ecf3c) - 2026-03-18
+* [Commit] [report 10 slowest tests (#10063)](https://github.com/besu-eth/besu/commit/6b298cee5138596b22ee4429912c2d9f615200ad) - 2026-03-18
+* [Commit] [Revert tracer aggregator (#10068)](https://github.com/besu-eth/besu/commit/c0063c430f06e1d5a55d3faca41b4b47d4bdd4d3) - 2026-03-18
+* [Commit] [fallback to resync (#10019)](https://github.com/besu-eth/besu/commit/94e9185617670d2fef56db6489b5e9a32f4012c3) - 2026-03-18
+* [Commit] [Fix eth/69 receipt encoding for Frontier tx (#9900)](https://github.com/besu-eth/besu/commit/e6ea938f6be8e2cdca288e60a4d1bd270be74b68) - 2026-03-18
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

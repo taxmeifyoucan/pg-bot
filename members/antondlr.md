@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aanto
 
 ## Contributions
 
+## Q1 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Optimise release workflow](https://github.com/sigp/lighthouse/pull/8999) - 2026-03-18
 ## Q4 2025
 
 

@@ -13,6 +13,8 @@ Team: Robust Incentives Group (RIG)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: LUCID encrypted mempool](https://github.com/ethereum/EIPs/pull/11376) - 2026-03-04
+* [Review] [Review on: Add EIP: LUCID encrypted mempool](https://github.com/ethereum/EIPs/pull/11376#pullrequestreview-3967981810) - 2026-03-18
+* [Commit] [Add EIP: LUCID encrypted mempool](https://github.com/ethereum/EIPs/commit/629cc892d95fb86391e76f43f26a268767ac31db) - 2026-03-18
 ## Q4 2025
 
 

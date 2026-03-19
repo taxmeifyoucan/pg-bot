@@ -30,6 +30,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: triedb/pathdb: implement history index pruner](https://github.com/ethereum/go-ethereum/pull/33999#pullrequestreview-3955627191) - 2026-03-16
 * [Pull Request] [core/history: refactor pruning configuration](https://github.com/ethereum/go-ethereum/pull/34036) - 2026-03-17
 * [Commit] [internal/ethapi: warn on reaching global gas cap for eth_simulateV1 (#34016)](https://github.com/ethereum/go-ethereum/commit/fc1b0c0b83027b9e2ee44af6801728ac1e339f05) - 2026-03-17
+* [Pull Request] [core/rawdb: reuse unindex method for txindex pruning](https://github.com/ethereum/go-ethereum/pull/34049) - 2026-03-18
+* [Review] [Review on: eth/filters: rangeLogs should error on invalid block range](https://github.com/ethereum/go-ethereum/pull/33763#pullrequestreview-3971214463) - 2026-03-18
+* [Review] [Review on: core/state: add binary trie e2e benchmarks for approve and balanceOf workloads](https://github.com/ethereum/go-ethereum/pull/34020#pullrequestreview-3969061279) - 2026-03-18
+* [Review] [Review on: core/history: refactor pruning configuration](https://github.com/ethereum/go-ethereum/pull/34036#pullrequestreview-3967063268) - 2026-03-18
+* [Commit] [core/history: refactor pruning configuration (#34036)](https://github.com/ethereum/go-ethereum/commit/6ae3f9fa562f28e805e6a5c20f0e42c1efc7d729) - 2026-03-18
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [eth_simulateV1: fix revert err code](https://github.com/ethereum/execution-apis/pull/748) - 2026-02-05
 * [Pull Request] [transaction: add blockTimestamp](https://github.com/ethereum/execution-apis/pull/749) - 2026-02-06

@@ -34,12 +34,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Kch/sync supported fix (#10823)](https://github.com/NethermindEth/nethermind/commit/9a8bcac490b6c9467e72ed39e6d916fcb3e187a5) - 2026-03-16
 * [Pull Request] [fix: prevent torn reads of TrieNode._rlp (CappedArray -> byte[])](https://github.com/NethermindEth/nethermind/pull/10849) - 2026-03-17
 * [Review] [Review on: fix: prevent torn reads of TrieNode._rlp (CappedArray -> byte[])](https://github.com/NethermindEth/nethermind/pull/10849#pullrequestreview-3961758288) - 2026-03-17
+* [Review] [Review on: fix: prevent torn reads of TrieNode._rlp using seqlock pattern](https://github.com/NethermindEth/nethermind/pull/10857#pullrequestreview-3968276408) - 2026-03-18
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Fix/stateful repricing mode](https://github.com/NethermindEth/gas-benchmarks/pull/131) - 2026-03-13
 * [Commit] [Fix/stateful repricing mode (#131)](https://github.com/NethermindEth/gas-benchmarks/commit/e447c0bc17abd422b59ee4db8a488f2dce6fa10c) - 2026-03-13
 * [Commit] [Delete repricings_stateful/perf-devnet-3_warmup directory](https://github.com/NethermindEth/gas-benchmarks/commit/3b9893ae9448f8e567c724d607f067390c4be779) - 2026-03-13
 * [Commit] [Delete repricings_stateful/perf-devnet-3 directory](https://github.com/NethermindEth/gas-benchmarks/commit/662450d09b9b4d30fe9868c0b1bddf7ac104f51e) - 2026-03-13
 * [Commit] [Revert "chore: generate stateful tests for repricings_stateful/mainnet"](https://github.com/NethermindEth/gas-benchmarks/commit/418e005ec794ae8fbd51c3ac9a450068dd38bf75) - 2026-03-16
+* [Commit] [Revert "chore: generate stateful tests for repricings_stateful/perf-devnet-3"](https://github.com/NethermindEth/gas-benchmarks/commit/2b3ba0dc4158424f5708c5fbdfbff659c841427b) - 2026-03-19
 ## Q4 2025
 
 

@@ -21,6 +21,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: refactor: comprehensive test and code deduplication](https://github.com/NethermindEth/nethermind/pull/10815#pullrequestreview-3945065537) - 2026-03-13
 * [Pull Request] [Bal devnet 3](https://github.com/NethermindEth/nethermind/pull/10697) - 2026-03-13
 * [Commit] [Bal devnet 3 (#10697)](https://github.com/NethermindEth/nethermind/commit/b2328a602e0ff06f965ec57d915b3d28e7843f06) - 2026-03-13
+* [Review] [Review on: Feature - EIP-4444 EraE Support](https://github.com/NethermindEth/nethermind/pull/10812#pullrequestreview-3967349425) - 2026-03-18
+* [Pull Request] [BALs remove unneeded delegation check](https://github.com/NethermindEth/nethermind/pull/10860) - 2026-03-18
+* [Commit] [BALs remove unneeded delegation check (#10860)](https://github.com/NethermindEth/nethermind/commit/d23cdd28f35196c62a42a2f71dc1d5e6514eb60d) - 2026-03-18
 ## Q4 2025
 
 

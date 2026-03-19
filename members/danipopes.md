@@ -96,6 +96,10 @@ Team: Reth
 * [Pull Request] [bench: use iter_batched_ref for runtime benchmarks](https://github.com/paradigmxyz/revmc/pull/137) - 2026-03-17
 * [Commit] [perf: use local stack alloca to enable dead store elimination (#132)](https://github.com/paradigmxyz/revmc/commit/552aa175ab8e9c9866c13a59e5b6bdc4960593d8) - 2026-03-17
 * [Commit] [bench: use iter_batched_ref for runtime benchmarks (#137)](https://github.com/paradigmxyz/revmc/commit/3e37173335d079ee0660840439c0651dacf1d1a4) - 2026-03-17
+* [Pull Request] [feat: add runtime JIT coordinator module](https://github.com/paradigmxyz/revmc/pull/139) - 2026-03-18
+* [Pull Request] [chore: bump LLVM to 22](https://github.com/paradigmxyz/revmc/pull/138) - 2026-03-18
+* [Commit] [chore: bump LLVM to 22 (#138)](https://github.com/paradigmxyz/revmc/commit/46722078c0e09eb7ff1e04c59aed14edda97ebd8) - 2026-03-18
+* [Commit] [chore: add docs alias](https://github.com/paradigmxyz/revmc/commit/ad97d896d956f81ef959932ba2aa84d2b7e227e1) - 2026-03-18
 ## Q4 2025
 
 

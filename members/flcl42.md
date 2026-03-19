@@ -39,6 +39,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(db): return null for missing key in SimpleFilePublicKeyDb.Get](https://github.com/NethermindEth/nethermind/pull/10843#pullrequestreview-3953610802) - 2026-03-16
 * [Review] [Review on: fix(ssz): use container.Count instead of limit in MerkleizeList for Union types](https://github.com/NethermindEth/nethermind/pull/10747#pullrequestreview-3959872994) - 2026-03-17
 * [Review] [Review on: feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807#pullrequestreview-3960429063) - 2026-03-17
+* [Pull Request] [Check logs RLP](https://github.com/NethermindEth/nethermind/pull/10862) - 2026-03-18
+* [Review] [Review on: feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807#pullrequestreview-3967341334) - 2026-03-18
+* [Review] [Review on: Fix event handler leaks, reduce allocations, and refactor Network layer](https://github.com/NethermindEth/nethermind/pull/10753#pullrequestreview-3967330785) - 2026-03-18
 ## Q4 2025
 
 

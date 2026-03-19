@@ -117,6 +117,20 @@ Team: Erigon
 * [Pull Request] [d_lru: disable for commitment (it's useful for re-exec from 0, but i didn't test impact on chaintip)](https://github.com/erigontech/erigon/pull/19941) - 2026-03-17
 * [Review] [Review on: [SharovBot][r3.4] Fix data race in ExecModuleTester.SendMessageToRandomPeer…](https://github.com/erigontech/erigon/pull/19943#pullrequestreview-3958026696) - 2026-03-17
 * [Commit] [merge `release/3.4` to `main` (#19949)](https://github.com/erigontech/erigon/commit/e172bf4270024df6a56484ad23f5dfbb217389a2) - 2026-03-17
+* [Pull Request] [evm: accesList.Reset()](https://github.com/erigontech/erigon/pull/19983) - 2026-03-18
+* [Review] [Review on: db/state, txpool: benchmark fixes and bench flag improvements](https://github.com/erigontech/erigon/pull/19971#pullrequestreview-3971970964) - 2026-03-19
+* [Review] [Review on: ci: add rpc integration tests to CI gate](https://github.com/erigontech/erigon/pull/19980#pullrequestreview-3967757476) - 2026-03-18
+* [Review] [Review on: types: deduplicate types across packages](https://github.com/erigontech/erigon/pull/19979#pullrequestreview-3967751019) - 2026-03-18
+* [Pull Request] [[wip] evm: intern() extend to more opcodes](https://github.com/erigontech/erigon/pull/19977) - 2026-03-18
+* [Review] [Review on: db/state: fix spurious accessor rebuild for post-merge subset files](https://github.com/erigontech/erigon/pull/19965#pullrequestreview-3964753118) - 2026-03-18
+* [Pull Request] [[wip] experiment: non-dupsort tables for commitment domain and history](https://github.com/erigontech/erigon/pull/19966) - 2026-03-18
+* [Pull Request] [merge: progress fix](https://github.com/erigontech/erigon/pull/19970) - 2026-03-18
+* [Pull Request] [integrity: to not nil-ptr on `--prune.mode=full`](https://github.com/erigontech/erigon/pull/19973) - 2026-03-18
+* [Review] [Review on: node/cli: fix dotted CLI flags ignored in TOML/YAML config files](https://github.com/erigontech/erigon/pull/19974#pullrequestreview-3965359774) - 2026-03-18
+* [Pull Request] [[wip] experiment: merge on own `mmap` with `madv_sequential`](https://github.com/erigontech/erigon/pull/19967) - 2026-03-18
+* [Review] [Review on: ci: warm test-bench cache on push to main](https://github.com/erigontech/erigon/pull/19968#pullrequestreview-3964968889) - 2026-03-18
+* [Review] [Review on: snapshotsync: make snapshot deletion idempotent](https://github.com/erigontech/erigon/pull/19930#pullrequestreview-3964668469) - 2026-03-18
+* [Pull Request] [[wip] garbage accessors left after merge](https://github.com/erigontech/erigon/pull/19964) - 2026-03-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

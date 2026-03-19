@@ -97,8 +97,22 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: engine: return -38003 for FCUv2 payloadAttributes mismatch](https://github.com/erigontech/erigon/pull/19779#pullrequestreview-3958854762) - 2026-03-17
 * [Issue] [Double check block building and validation when fee account (COINBASE) self desctructs](https://github.com/erigontech/erigon/issues/19951) - 2026-03-17
 * [Commit] [deps: gnark-crypto v0.20.0 -> v0.20.1 (#19953)](https://github.com/erigontech/erigon/commit/c05f73c6747026a55ca52bac34946522a5c7f85a) - 2026-03-17
+* [Review] [Review on: db/state, txpool: benchmark fixes and bench flag improvements](https://github.com/erigontech/erigon/pull/19971#pullrequestreview-3967904213) - 2026-03-18
+* [Pull Request] [rlp: unify and deduplicate the RLP package](https://github.com/erigontech/erigon/pull/19985) - 2026-03-18
+* [Review] [Review on: commitment: enable warmup cache for all paths + add cache miss counters](https://github.com/erigontech/erigon/pull/19952#pullrequestreview-3968001345) - 2026-03-18
+* [Review] [Review on: execution/vm: disable the value transfer in syscall](https://github.com/erigontech/erigon/pull/19277#pullrequestreview-3968141564) - 2026-03-18
+* [Pull Request] [rpc: simplify and deduplicate code across rpc packages](https://github.com/erigontech/erigon/pull/19984) - 2026-03-18
+* [Review] [Review on: [commitment] count trie metrics for logs](https://github.com/erigontech/erigon/pull/19087#pullrequestreview-3965847287) - 2026-03-18
+* [Review] [Review on: execmodule: extract PipelineExecutor, internalize ForkValidator](https://github.com/erigontech/erigon/pull/19961#pullrequestreview-3967888302) - 2026-03-18
+* [Pull Request] [types: deduplicate types across packages](https://github.com/erigontech/erigon/pull/19979) - 2026-03-18
+* [Review] [Review on: commitment: add persistent branch cache across Process() calls](https://github.com/erigontech/erigon/pull/19954#pullrequestreview-3968015850) - 2026-03-18
+* [Pull Request] [Add automated tests for block production with execution requests](https://github.com/erigontech/erigon/pull/19981) - 2026-03-18
+* [Commit] [types: deduplicate types across packages (#19979)](https://github.com/erigontech/erigon/commit/c9728104f2f6e3db36ba2ffb2b890e9b3ec86d08) - 2026-03-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8037: Align with EIP-7928 Gas Validation Phases](https://github.com/ethereum/EIPs/pull/11414#pullrequestreview-3966645827) - 2026-03-18
 ## Q4 2025
 
 

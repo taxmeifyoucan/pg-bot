@@ -39,6 +39,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Only update proposer boost if proposer is same as on canonical chain](https://github.com/status-im/nimbus-eth2/pull/8104) - 2026-03-17
 * [Review] [Review on: remove ambigious overloads](https://github.com/status-im/nimbus-eth2/pull/8098#pullrequestreview-3959122695) - 2026-03-17
 * [Pull Request] [Automate bumping submodules to latest tagged commit](https://github.com/status-im/nimbus-eth2/pull/8001) - 2026-03-17
+* [Pull Request] [is_confirmed_chain_safe scaffolding for fast confirmation rule](https://github.com/status-im/nimbus-eth2/pull/8121) - 2026-03-18
+* [Pull Request] [Match get_block_support_between_slots over-count from FCR spec](https://github.com/status-im/nimbus-eth2/pull/8109) - 2026-03-18
+* [Pull Request] [Collect data for compute_honest_ffg_support_for_current_target](https://github.com/status-im/nimbus-eth2/pull/8113) - 2026-03-18
+* [Pull Request] [Fix ci.yml warnings](https://github.com/status-im/nimbus-eth2/pull/8114) - 2026-03-18
 ## Q4 2025
 
 

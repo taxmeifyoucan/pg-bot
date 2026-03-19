@@ -34,6 +34,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Use dynamic address allocation in ported static tests](https://github.com/ethereum/execution-specs/issues/2517) - 2026-03-16
 * [Issue] [Add subset of ported static tests to `json_loader` CI](https://github.com/ethereum/execution-specs/issues/2516) - 2026-03-16
 * [Review] [Review on: refactor(test-benchmark): marker filter logic](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3959817485) - 2026-03-17
+* [Pull Request] [feat(specs,tests): EIP-8037 state gas ordering and clarifications](https://github.com/ethereum/execution-specs/pull/2526) - 2026-03-18
+* [Review] [Review on: feat(specs,tests): EIP-8037 state gas ordering and clarifications](https://github.com/ethereum/execution-specs/pull/2526#pullrequestreview-3971014171) - 2026-03-18
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 
@@ -41,6 +43,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: clarify reservoir mechanics](https://github.com/ethereum/EIPs/pull/11328) - 2026-03-06
 * [Pull Request] [Update EIP-7773: SFI all glamsterdam EIPs included in a devnet](https://github.com/ethereum/EIPs/pull/11399) - 2026-03-12
+* [Pull Request] [Update EIP-8037: clarify regular gas must be charged before state gas](https://github.com/ethereum/EIPs/pull/11421) - 2026-03-18
+* [Commit] [Update EIP-8037: clarify regular gas must be charged before state gas](https://github.com/ethereum/EIPs/commit/48566ad265a5c2bb981e520a9b8e17ed9921b8a8) - 2026-03-18
 ## Q4 2025
 
 

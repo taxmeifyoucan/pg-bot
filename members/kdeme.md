@@ -28,6 +28,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] []() - 2026-01-27
 * [Pull Request] [Use toExecutionPayloadHeader consistently in process_execution_payload](https://github.com/status-im/nimbus-eth2/pull/7965) - 2026-02-14
 * [Pull Request] [EIP8025: Start of implementation](https://github.com/status-im/nimbus-eth2/pull/8004) - 2026-02-20
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Update EIP8025 p2p protocol](https://github.com/ethereum/consensus-specs/pull/5014#pullrequestreview-3966715970) - 2026-03-18
 ## Q4 2025
 
 

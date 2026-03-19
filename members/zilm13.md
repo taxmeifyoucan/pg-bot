@@ -40,6 +40,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Rest API virtual threads](https://github.com/Consensys/teku/pull/10495#pullrequestreview-3954773917) - 2026-03-16
 * [Commit] [Add DataColumnSidecarSelectorFactory test (#10333)](https://github.com/Consensys/teku/commit/7ba1e0cc7de1350832193d9a3b3ed69a4b73e03c) - 2026-03-16
 * [Commit] [Fulu misc helpers property test (#10337)](https://github.com/Consensys/teku/commit/25a1ab847e6dac8e45d9d46eba572ed5585b4394) - 2026-03-16
+* [Pull Request] [Reconstruct supernode sidecars from 50% - Reconstructor](https://github.com/Consensys/teku/pull/10508) - 2026-03-18
 ## Q4 2025
 
 

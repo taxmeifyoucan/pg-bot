@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Issue] [Add IPv6 Support to Discovery v5](https://github.com/hyperledger/besu/issues/9686) - 2026-01-27
 * [Issue] [Incorrect traces when state is mutated before transaction execution](https://github.com/hyperledger/besu/issues/9699) - 2026-01-27
 * [Review] [Review on: Support IPv6 subnets in --net-restrict](https://github.com/besu-eth/besu/pull/10028#pullrequestreview-3933495033) - 2026-03-12
+* [Review] [Review on: Revert tracer aggregator](https://github.com/besu-eth/besu/pull/10068#pullrequestreview-3965174050) - 2026-03-18
 ## Q4 2025
 
 

@@ -29,6 +29,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add payload envelope reqresp](https://github.com/ChainSafe/lodestar/pull/9050) - 2026-03-17
 * [Review] [Review on: refactor: handle payload import dedupe in processor](https://github.com/ChainSafe/lodestar/pull/9041#pullrequestreview-3958620740) - 2026-03-17
 * [Pull Request] [feat: update to v1.7.0-alpha.3](https://github.com/ChainSafe/lodestar/pull/9051) - 2026-03-17
+* [Review] [Review on: refactor: handle payload import dedupe in processor](https://github.com/ChainSafe/lodestar/pull/9041#pullrequestreview-3965768665) - 2026-03-18
 ## Q4 2025
 
 

@@ -37,6 +37,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [10259 3 proposer preferences](https://github.com/Consensys/teku/pull/10483) - 2026-03-12
 * [Review] [Review on: 10259 proposer preferences gossip](https://github.com/Consensys/teku/pull/10472#pullrequestreview-3935437845) - 2026-03-12
 * [Commit] [10259 proposer preferences gossip (#10472)](https://github.com/Consensys/teku/commit/a82a0eb314d596187c79d0548891719b24ac709b) - 2026-03-12
+* [Pull Request] [Caffeine cache](https://github.com/Consensys/teku/pull/10507) - 2026-03-18
+* [Pull Request] [Caffeine cache](https://github.com/Consensys/teku/pull/10506) - 2026-03-18
+* [Pull Request] [Caffeine cache](https://github.com/Consensys/teku/pull/10505) - 2026-03-18
+* [Pull Request] [gloas DA checks](https://github.com/Consensys/teku/pull/10504) - 2026-03-18
 ## Q4 2025
 
 

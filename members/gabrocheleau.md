@@ -30,6 +30,8 @@ Team: EthereumJS
 * [Pull Request] [chore: downgrade dev bal 510](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4258) - 2026-03-05
 * [Pull Request] [evm: fix ethtransfer tests](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4259) - 2026-03-06
 * [Pull Request] []() - 2026-03-09
+* [Pull Request] [fix: replace typeof window DEBUG checks with globalThis.process](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4265) - 2026-03-18
+* [Review] [Review on: 7708 fix: SELFDESTRUCT finalization logs](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4263#pullrequestreview-3971312725) - 2026-03-18
 ## Q4 2025
 
 

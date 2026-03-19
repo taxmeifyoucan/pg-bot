@@ -14,6 +14,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [Prysm vc `500: UNHANDLED_ERROR: UnableToReadSlot`](https://github.com/sigp/lighthouse/issues/8624) - 2026-01-05
 
+* [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/sigp/lighthouse/pull/9000) - 2026-03-18
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [Update Go base image version to 1.25.1](https://github.com/ethpandaops/dora/pull/552) - 2026-01-09
 
@@ -22,6 +23,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: add missing SQL placeholder for orphaned blocks insert](https://github.com/ethpandaops/dora/pull/600) - 2026-03-06
 * [Pull Request] [support SLOT_DURATION_MS as replacement for deprecated SECONDS_PER_SLOT](https://github.com/ethpandaops/dora/pull/606) - 2026-03-12
 * [Pull Request] [Fix builder index display in slot deposit requests view](https://github.com/ethpandaops/dora/pull/605) - 2026-03-12
+* [Pull Request] [chore: remove unused chainspec variables and add INCLUSION_LIST_COMMITTEE_SIZE](https://github.com/ethpandaops/dora/pull/612) - 2026-03-18
+* [Pull Request] [chore: merge gloas-support into heze-support](https://github.com/ethpandaops/dora/pull/613) - 2026-03-18
+* [Pull Request] [chore: remove unused chainspec variables](https://github.com/ethpandaops/dora/pull/611) - 2026-03-18
+* [Pull Request] [feat: add aggregated attestation inclusion distance](https://github.com/ethpandaops/dora/pull/610) - 2026-03-18
+* [Commit] [Merge pull request #610 from ethpandaops/feat/attestation-inclusion-distance](https://github.com/ethpandaops/dora/commit/4b05c624128f6cc2cdabae71eb428b86c39e01bd) - 2026-03-18
+* [Commit] [feat: add aggregated attestation inclusion distance](https://github.com/ethpandaops/dora/commit/06dec3dbe15ecbbb88117668bee19407ad08ee04) - 2026-03-18
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [fix: add triple-beam dependency to package.json](https://github.com/ChainSafe/lodestar/pull/8736) - 2026-01-12
 * [Pull Request] [feat: implement eip 7843](https://github.com/ChainSafe/lodestar/pull/8747) - 2026-01-16
@@ -35,6 +42,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [FR: add --force-clear-db to wipe the existing db at startup](https://github.com/status-im/nimbus-eth2/issues/7913) - 2026-02-02
 
+* [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/status-im/nimbus-eth2/pull/8111) - 2026-03-18
+* [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/status-im/nimbus-eth2/pull/8110) - 2026-03-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #70, February 16, 2026](https://github.com/ethereum/pm/issues/1920) - 2026-02-10
 
@@ -66,6 +75,20 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16541) - 2026-03-16
 * [Review] [Review on: Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16541#pullrequestreview-3956612941) - 2026-03-16
 * [Pull Request] [Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16540) - 2026-03-16
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/status-im/nimbus-eth1/pull/4045) - 2026-03-18
+* [Commit] [fix: update kurtosis apt source to sdk.kurtosis.com (#4045)](https://github.com/status-im/nimbus-eth1/commit/2e139eabeb7f9c6311deef69cda906322b6b39a2) - 2026-03-18
+
+[ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
+* [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/ethpandaops/tracoor/pull/54) - 2026-03-18
+* [Commit] [fix: resolve golangci-lint issues (gosec G703, prealloc)](https://github.com/ethpandaops/tracoor/commit/dbca20f1be1b4ff2f15a193ebcd09c34adc28973) - 2026-03-18
+* [Commit] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/ethpandaops/tracoor/commit/bd6e49c6740c45037fc11ac657ae2c78f90229d5) - 2026-03-18
+
+[ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
+* [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/ethpandaops/contributoor/pull/212) - 2026-03-18
+* [Commit] [fix: bump kurtosis Go SDK to v1.16.6 to match CLI version](https://github.com/ethpandaops/contributoor/commit/f2d6e34e08b7127158f18507a171420cfa2f598b) - 2026-03-18
+* [Commit] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/ethpandaops/contributoor/commit/d08de6d0965d98ba7b4e1ddb98c25f72cd5b95eb) - 2026-03-18
 ## Q4 2025
 
 

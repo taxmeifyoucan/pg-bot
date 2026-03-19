@@ -51,6 +51,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: HistoryKeyTxNumIterFiles: re-use multi-seq reader and iterator](https://github.com/erigontech/erigon/pull/19945#pullrequestreview-3958548770) - 2026-03-17
 * [Review] [Review on: PagedWriter: solve producer-bottelneck by moving pageSerialization from producer to workers ](https://github.com/erigontech/erigon/pull/19944#pullrequestreview-3958191392) - 2026-03-17
 * [Review] [Review on: d_lru: disable for commitment (it's useful for re-exec from 0, but i didn't test impact on chaintip)](https://github.com/erigontech/erigon/pull/19941#pullrequestreview-3958187850) - 2026-03-17
+* [Review] [Review on: db/state: fix spurious accessor rebuild for post-merge subset files](https://github.com/erigontech/erigon/pull/19965#pullrequestreview-3965773552) - 2026-03-18
 ## Q4 2025
 
 

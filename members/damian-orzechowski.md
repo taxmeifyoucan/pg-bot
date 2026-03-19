@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q1 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: Feature - EIP-4444 EraE Support](https://github.com/NethermindEth/nethermind/pull/10812#pullrequestreview-3967724032) - 2026-03-18
 ## Q4 2025
 
 

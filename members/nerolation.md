@@ -39,6 +39,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/commit/c2111e24762ff3afcf694d425a1df44a11d24df2) - 2026-03-16
 * [Pull Request] [Update EIP-8189: Assign new Message IDs for snap/2](https://github.com/ethereum/EIPs/pull/11418) - 2026-03-17
 * [Commit] [Update EIP-8189: Assign new Message IDs for snap/2](https://github.com/ethereum/EIPs/commit/63fe2781abf86192c7a8bcc68a47b0f2c41d25ac) - 2026-03-17
+* [Pull Request] [Update EIP-7928: Fix contradicting claim about fee recipient](https://github.com/ethereum/EIPs/pull/11420) - 2026-03-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add worst-case BAL read test](https://github.com/ethereum/execution-specs/pull/2033) - 2026-01-18
 

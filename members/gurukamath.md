@@ -30,6 +30,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(specs,tests): Implement EIP-2780](https://github.com/ethereum/execution-specs/pull/2175#pullrequestreview-3944214906) - 2026-03-13
 * [Review] [Review on: fix(specs): remove redundant `destroy_storage` call within `process_create_message`](https://github.com/ethereum/execution-specs/pull/1399#pullrequestreview-3942254763) - 2026-03-13
 * [Issue] [re-factor `check_transaction`](https://github.com/ethereum/execution-specs/issues/2522) - 2026-03-17
+* [Review] [Review on: refactor: simplify BAL t8n by passing rlp bytes; JSON testing side](https://github.com/ethereum/execution-specs/pull/2486#pullrequestreview-3966889004) - 2026-03-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332) - 2026-02-18
 ## Q4 2025

@@ -8,6 +8,11 @@ Team: Cryptography (EF)
 
 ## Contributions
 
+## Q1 2026
+
+
+[b-wagn/pg-contrib](https://github.com/b-wagn/pg-contrib)
+* [Commit] [Add link to Falcon aggregation post in README](https://github.com/b-wagn/pg-contrib/commit/6adcf55d0b635d3075afeb657c8e351b3b9123d5) - 2026-03-18
 ## Q4 2025
 
 

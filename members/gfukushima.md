@@ -31,6 +31,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Execution payload bid API (#10476)](https://github.com/Consensys/teku/commit/82f5e471e58b01865a33fb0b99cfaba123c8f2e9) - 2026-03-16
 * [Commit] [attempt to fix flakness on possible race condition (#10490)](https://github.com/Consensys/teku/commit/7f63fbf92cd9195f52585e15d30f6e75ed8a6323) - 2026-03-16
 * [Issue] [Spike of error logs due to queue being full](https://github.com/Consensys/teku/issues/10501) - 2026-03-18
+* [Pull Request] [Safely deactivate deneb features in fulu](https://github.com/Consensys/teku/pull/10502) - 2026-03-18
+* [Commit] [Safely deactivate deneb features in fulu (#10502)](https://github.com/Consensys/teku/commit/f5a47c5017a93ce3c93d099bd61691dba5585bfa) - 2026-03-18
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: Propose Miroslav Kovář as a maintainer](https://github.com/besu-eth/besu/pull/10033#pullrequestreview-3971424773) - 2026-03-18
 ## Q4 2025
 
 

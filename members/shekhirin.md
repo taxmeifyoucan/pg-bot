@@ -34,6 +34,11 @@ Team: Reth
 * [Review] [Review on: fix(provider): gate rocksdb jemalloc behind feature flag](https://github.com/paradigmxyz/reth/pull/23061#pullrequestreview-3957457561) - 2026-03-17
 * [Review] [Review on: perf(trie): call update_subtrie_hashes after every update](https://github.com/paradigmxyz/reth/pull/23052#pullrequestreview-3955069300) - 2026-03-16
 * [Review] [Review on: chore(bench): add rich job summary matching Slack output](https://github.com/paradigmxyz/reth/pull/23046#pullrequestreview-3952768662) - 2026-03-16
+* [Review] [Review on: chore(ci): remove pull_request trigger from bench-scheduled](https://github.com/paradigmxyz/reth/pull/23105#pullrequestreview-3971793338) - 2026-03-19
+* [Review] [Review on: feat: add nightly bench runs](https://github.com/paradigmxyz/reth/pull/23095#pullrequestreview-3969892758) - 2026-03-18
+* [Review] [Review on: ci(bench): add otlp toggle argument](https://github.com/paradigmxyz/reth/pull/23092#pullrequestreview-3969545451) - 2026-03-18
+* [Review] [Review on: fix: use zero gas price for empty blocks](https://github.com/paradigmxyz/reth/pull/23094#pullrequestreview-3969361368) - 2026-03-18
+* [Review] [Review on: fix(provider): disable read transaction timeout during check_consistency](https://github.com/paradigmxyz/reth/pull/23083#pullrequestreview-3967178296) - 2026-03-18
 ## Q4 2025
 
 

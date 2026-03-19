@@ -61,3 +61,15 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: utils: add `log3_strict_usize`](https://github.com/Plonky3/Plonky3/pull/1444#pullrequestreview-3960573536) - 2026-03-17
 * [Commit] [monty31: use transmute in poseidon1 packing (#1446)](https://github.com/Plonky3/Plonky3/commit/b0fa51397d6dc988e6e83ba53b593a7fdf500ef7) - 2026-03-17
 * [Commit] [utils: add `log3_strict_usize` (#1444)](https://github.com/Plonky3/Plonky3/commit/11ffd40126cd6106bc028bdd0d7667f639353791) - 2026-03-17
+* [Pull Request] [air: add dag types for symbolic expression trees](https://github.com/Plonky3/Plonky3/pull/1454) - 2026-03-18
+* [Pull Request] [logup: better memory allocation](https://github.com/Plonky3/Plonky3/pull/1455) - 2026-03-18
+* [Pull Request] [uni-stark: richer verification errors](https://github.com/Plonky3/Plonky3/pull/1453) - 2026-03-18
+* [Review] [Review on: Add broadcast, pack_columns, pack_columns_fn, and unpack_iter to PackedValue](https://github.com/Plonky3/Plonky3/pull/1450#pullrequestreview-3968037182) - 2026-03-18
+* [Review] [Review on: Make batched_linear_combination chunk size per-impl tunable](https://github.com/Plonky3/Plonky3/pull/1451#pullrequestreview-3968025037) - 2026-03-18
+* [Review] [Review on: field: reinforcement of tests with edge cases and proptests](https://github.com/Plonky3/Plonky3/pull/1435#pullrequestreview-3967781420) - 2026-03-18
+* [Pull Request] [air: some debugging improvements](https://github.com/Plonky3/Plonky3/pull/1431) - 2026-03-18
+* [Pull Request] [matrix: add `from_flat_padded` and `widen_right`](https://github.com/Plonky3/Plonky3/pull/1449) - 2026-03-18
+* [Commit] [field: reinforcement of tests with edge cases and proptests (#1435)](https://github.com/Plonky3/Plonky3/commit/b835c63d7992794deffb770c8a01bc5a9ede6b0a) - 2026-03-18
+* [Commit] [air: some debugging improvements (#1431)](https://github.com/Plonky3/Plonky3/commit/e7bd2107ed7a0ec73a86d912aa8aa88ac9fd7af3) - 2026-03-18
+* [Commit] [matrix: add `from_flat_padded` and `widen_right` (#1449)](https://github.com/Plonky3/Plonky3/commit/6590aa1136947f3216c8a5d59f940109ba1ab88b) - 2026-03-18
+* [Commit] [matrix: add pad_to_min_power_of_two_height (#1448)](https://github.com/Plonky3/Plonky3/commit/e3ca452cf54c4ca7236c0fea413082a1688f5660) - 2026-03-18

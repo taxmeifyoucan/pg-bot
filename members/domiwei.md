@@ -33,6 +33,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[SharovBot][r3.4] Fix data race in ExecModuleTester.SendMessageToRandomPeer…](https://github.com/erigontech/erigon/pull/19943) - 2026-03-17
 * [Commit] [cl/caplin: fix intermittent 0-peer sync failures on Gnosis  (#19946)](https://github.com/erigontech/erigon/commit/4dc802f29270f67e7366d86520dec467d3c8d167) - 2026-03-18
 * [Commit] [rpc: auto-convert legacy blob sidecar to v1 cell proofs after Osaka (#19950)](https://github.com/erigontech/erigon/commit/c35a4662df80ed16c04cf3873408b85f26d01fd3) - 2026-03-17
+* [Pull Request] [stagedsync: replace TxLookup prune full-table scan with block-based deletion](https://github.com/erigontech/erigon/pull/19975) - 2026-03-18
 ## Q3 2025
 
 

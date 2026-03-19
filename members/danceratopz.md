@@ -45,6 +45,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: chore(ci,deps): bump pinned action SHAs & golang, markdownlint-cli2 versions](https://github.com/ethereum/execution-specs/pull/2503#pullrequestreview-3952423920) - 2026-03-16
 * [Pull Request] [feat(ci): dual-publish fixture releases to EELS and EEST](https://github.com/ethereum/execution-specs/pull/2350) - 2026-03-17
 * [Commit] [feat(ci): dual-publish fixture releases to EELS and EEST (#2350)](https://github.com/ethereum/execution-specs/commit/5d20c2797f46c5e80e212dd638291d446352deb7) - 2026-03-17
+* [Pull Request] [chore(doc,ci): don't include `ported_static` tests in mkdocs](https://github.com/ethereum/execution-specs/pull/2525) - 2026-03-18
+* [Review] [Review on: refactor(test-benchmark): marker filter logic](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3966825708) - 2026-03-18
+* [Pull Request] [refactor(tests,test-fill): rename `json_loader` pytest marker to `eels_base_coverage`](https://github.com/ethereum/execution-specs/pull/2524) - 2026-03-18
+* [Commit] [chore(docs): don't include `ported_static` tests in mkdocs (#2525)](https://github.com/ethereum/execution-specs/commit/9c88d603384c3d4ef787d1acabe0ecc2f03d5b69) - 2026-03-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 

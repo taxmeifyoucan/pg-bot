@@ -34,6 +34,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Deduplicate CI build runs for internal PRs](https://github.com/grandinetech/grandine/commit/0dc31ccbcfa48007e592c10c01cb6e961bba50d3) - 2026-03-16
 * [Review] [Review on: `GET /eth/v1/validator/execution_payload_bid/{slot}/{builder_index}`](https://github.com/grandinetech/grandine/pull/518#pullrequestreview-3961848196) - 2026-03-17
 * [Review] [Review on: Add payload attestation tick](https://github.com/grandinetech/grandine/pull/603#pullrequestreview-3959060669) - 2026-03-17
+* [Pull Request] [`POST /eth/v1/beacon/execution_payload/bid`](https://github.com/grandinetech/grandine/pull/517) - 2026-03-18
+* [Commit] [`POST /eth/v1/beacon/execution_payload/bid` (#517)](https://github.com/grandinetech/grandine/commit/079ca59cbb623f205fc57aa077dd8fa808348ae8) - 2026-03-18
 ## Q4 2025
 
 

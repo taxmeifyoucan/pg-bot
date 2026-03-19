@@ -33,3 +33,5 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [fix(test-benchmark): update `approve` function for `SSTORE` benchmark (#2487)](https://github.com/ethereum/execution-specs/commit/62cfc21187e17b4c15bbec8c862e2d87bfbf103b) - 2026-03-16
 * [Review] [Review on: feat(benchmarks): add BAL benchmarks for the optimization strategies introduced by BALs](https://github.com/ethereum/execution-specs/pull/2197#pullrequestreview-3958950300) - 2026-03-17
 * [Pull Request] [feat(test-fixture): add target opcode in output fixture](https://github.com/ethereum/execution-specs/pull/2520) - 2026-03-17
+* [Review] [Review on: refactor(test-benchmark): marker filter logic](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3965481591) - 2026-03-18
+* [Review] [Review on: feat(test-fill,test-benchmark): support stub accounts in `fill` via RPC](https://github.com/ethereum/execution-specs/pull/2512#pullrequestreview-3965622991) - 2026-03-18

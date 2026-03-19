@@ -85,6 +85,20 @@ Team: Reth
 * [Review] [Review on: fix(rpc): export Client traits instead of Server in clients module](https://github.com/paradigmxyz/reth/pull/23058#pullrequestreview-3959403604) - 2026-03-17
 * [Review] [Review on: fix(txpool): ignore ENOENT when removing tx backup after reinsertion](https://github.com/paradigmxyz/reth/pull/23062#pullrequestreview-3959429466) - 2026-03-17
 * [Issue] [perf(rpc): avoid redundant receipt cache lookup in eth_getTransactionReceipt](https://github.com/paradigmxyz/reth/issues/23066) - 2026-03-17
+* [Review] [Review on: fix(net): disable Discv5 ENR auto-update when NAT disabled or explicit addr set](https://github.com/paradigmxyz/reth/pull/23075#pullrequestreview-3967267316) - 2026-03-18
+* [Review] [Review on: feat(prune): make minimum pruning distance configurable](https://github.com/paradigmxyz/reth/pull/23082#pullrequestreview-3966812555) - 2026-03-18
+* [Review] [Review on: feat: add nightly bench runs](https://github.com/paradigmxyz/reth/pull/23095#pullrequestreview-3969429915) - 2026-03-18
+* [Review] [Review on: fix: use zero gas price for empty blocks](https://github.com/paradigmxyz/reth/pull/23094#pullrequestreview-3969371705) - 2026-03-18
+* [Review] [Review on: fix(provider): fix race between save_blocks and rocksdb pruning](https://github.com/paradigmxyz/reth/pull/23081#pullrequestreview-3966830393) - 2026-03-18
+* [Review] [Review on: fix(ethstats): Re-enable TLS in tokio-tungstenite](https://github.com/paradigmxyz/reth/pull/23090#pullrequestreview-3969244135) - 2026-03-18
+* [Review] [Review on: fix(p2p): apply sessions config from reth.toml in p2p subcommand](https://github.com/paradigmxyz/reth/pull/23078#pullrequestreview-3967376244) - 2026-03-18
+* [Review] [Review on: fix(node): fail fast on invalid storage settings metadata](https://github.com/paradigmxyz/reth/pull/23084#pullrequestreview-3967483319) - 2026-03-18
+* [Review] [Review on: refactor(chainspec): remove unused once_cell_set utility](https://github.com/paradigmxyz/reth/pull/23043#pullrequestreview-3967230482) - 2026-03-18
+* [Review] [Review on: fix(metrics): Rename more instances of invalid save_blocks_block_count](https://github.com/paradigmxyz/reth/pull/22915#pullrequestreview-3967272681) - 2026-03-18
+* [Review] [Review on: fix(rpc): export EthConfigApi in aggregate modules](https://github.com/paradigmxyz/reth/pull/23068#pullrequestreview-3967225460) - 2026-03-18
+* [Review] [Review on: test(rocksdb): add storage history pruning regression test](https://github.com/paradigmxyz/reth/pull/23087#pullrequestreview-3967105779) - 2026-03-18
+* [Review] [Review on: perf(rpc): avoid request clone in `eth_createAccessList`](https://github.com/paradigmxyz/reth/pull/23085#pullrequestreview-3966858368) - 2026-03-18
+* [Review] [Review on: perf(rpc): avoid cloning tx in pending block builder](https://github.com/paradigmxyz/reth/pull/23077#pullrequestreview-3966437464) - 2026-03-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

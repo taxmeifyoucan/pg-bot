@@ -36,6 +36,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm some unused parameters and imports](https://github.com/status-im/nimbus-eth2/pull/8049) - 2026-03-02
 * [Pull Request] [display disk and memory resources on Linux and disk resources on macOS](https://github.com/status-im/nimbus-eth2/pull/8099) - 2026-03-17
 * [Review] [Review on: draft: branch for partial messages](https://github.com/status-im/nimbus-eth2/pull/8066#pullrequestreview-3957894317) - 2026-03-17
+* [Review] [Review on: download execution payload envelope during checkpoint sync](https://github.com/status-im/nimbus-eth2/pull/8093#pullrequestreview-3969985148) - 2026-03-18
 ## Q4 2025
 
 

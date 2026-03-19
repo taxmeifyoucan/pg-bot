@@ -23,6 +23,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Issue] [Chore: Drop genesis generation](https://github.com/ethereum/execution-specs/issues/2510) - 2026-03-16
 * [Review] [Review on: feat(test-fixture): add target opcode in output fixture](https://github.com/ethereum/execution-specs/pull/2520#pullrequestreview-3958491416) - 2026-03-17
 * [Issue] [perf: Improve gas consumption of While loop](https://github.com/ethereum/execution-specs/issues/2519) - 2026-03-17
+* [Review] [Review on: fix(src): preserve custom chain ID in pre-alloc groups and `extract_config`](https://github.com/ethereum/execution-specs/pull/2515#pullrequestreview-3968082879) - 2026-03-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Add ETH burn logs and improve spec consistency](https://github.com/ethereum/EIPs/pull/11311) - 2026-02-13
 

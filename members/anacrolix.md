@@ -42,3 +42,16 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Commit] [ci: fix consensus spec test failure tolerance (#19854)](https://github.com/erigontech/erigon/commit/18765f08b299514e60d023c733ebfbf1685397bf) - 2026-03-16
 * [Pull Request] [gitignore: ignore .claude/worktrees/](https://github.com/erigontech/erigon/pull/19963) - 2026-03-18
 * [Review] [Review on: ci: fix artifact name collision between QA RPC workflows](https://github.com/erigontech/erigon/pull/19959#pullrequestreview-3961044492) - 2026-03-17
+* [Pull Request] [db/state, txpool: benchmark fixes and bench flag improvements](https://github.com/erigontech/erigon/pull/19971) - 2026-03-18
+* [Pull Request] [ci: remove duplicate push triggers from ci-gate sub-workflows](https://github.com/erigontech/erigon/pull/19978) - 2026-03-18
+* [Pull Request] [db/state: fix spurious accessor rebuild for post-merge subset files](https://github.com/erigontech/erigon/pull/19965) - 2026-03-18
+* [Review] [Review on: db/state: fix spurious accessor rebuild for post-merge subset files](https://github.com/erigontech/erigon/pull/19965#pullrequestreview-3964764518) - 2026-03-18
+* [Pull Request] [downloader, snapshots: add erigon snapshots verify subcommand](https://github.com/erigontech/erigon/pull/19972) - 2026-03-18
+* [Pull Request] [ci: add CI gate workflow](https://github.com/erigontech/erigon/pull/19912) - 2026-03-18
+* [Pull Request] [node/cli: fix dotted CLI flags ignored in TOML/YAML config files](https://github.com/erigontech/erigon/pull/19974) - 2026-03-18
+* [Pull Request] [deps: replace google/btree and tidwall/btree with anacrolix/btree](https://github.com/erigontech/erigon/pull/19969) - 2026-03-18
+* [Pull Request] [ci: warm test-bench cache on push to main](https://github.com/erigontech/erigon/pull/19968) - 2026-03-18
+* [Commit] [ci: remove duplicate push triggers from ci-gate sub-workflows (#19978)](https://github.com/erigontech/erigon/commit/7b47ed8923583b3c18fe34980da31068327dae7c) - 2026-03-18
+* [Commit] [ci: add CI gate workflow (#19912)](https://github.com/erigontech/erigon/commit/9dd53176238683a3610c4cfc05145247b9ecf189) - 2026-03-18
+* [Commit] [node/cli: fix dotted CLI flags ignored in TOML/YAML config files (#19974)](https://github.com/erigontech/erigon/commit/a094862427b8bb032e89cd96847a1ac033226dbf) - 2026-03-18
+* [Commit] [ci: warm test-bench cache on push to main (#19968)](https://github.com/erigontech/erigon/commit/1c416b3d717661aaa28c90d6c6f4bbfcb5d0a0dc) - 2026-03-18

@@ -16,3 +16,5 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: core/txpool/legacypool: Fix overdraft DoS attack in the legacy pool](https://github.com/ethereum/go-ethereum/pull/33492#pullrequestreview-3919126232) - 2026-03-10
 * [Review] [Review on: core/txpool/legacypool: Fix overdraft DoS attack in the legacy pool](https://github.com/ethereum/go-ethereum/pull/33492#pullrequestreview-3951514687) - 2026-03-16
 * [Pull Request] [cmd/devp2p: fix PingMultiIP test failure](https://github.com/ethereum/go-ethereum/pull/34030) - 2026-03-17
+* [Pull Request] [[Draft] cmd, core, crypto, eth: implement EIP-8070 (sparse blobpool)](https://github.com/ethereum/go-ethereum/pull/34047) - 2026-03-18
+* [Pull Request] [rlp: add AppendList method to RawList](https://github.com/ethereum/go-ethereum/pull/34048) - 2026-03-18

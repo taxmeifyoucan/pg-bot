@@ -65,6 +65,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 * [Pull Request] [crypto: Unify modexp into single CRT-based flow](https://github.com/ipsilon/evmone/pull/1466) - 2026-03-16
 * [Commit] [crypto: Unify modexp into single CRT-based flow (#1466)](https://github.com/ipsilon/evmone/commit/f8c8d919965adefa6bb8e2cacc91114992d078b4) - 2026-03-17
+* [Pull Request] [crypto: Unify memory allocation for modexp execution](https://github.com/ipsilon/evmone/pull/1467) - 2026-03-18
+* [Pull Request] [test: Simplify and parametrize by implementation modexp tests](https://github.com/ipsilon/evmone/pull/1468) - 2026-03-18
+* [Commit] [crypto: Unify memory allocation for modexp execution (#1467)](https://github.com/ipsilon/evmone/commit/e404a1c046eccc262e098e6b9e66fbbe4ba2ba7b) - 2026-03-18
+* [Commit] [test: Simplify and parametrize by implementation modexp tests (#1468)](https://github.com/ipsilon/evmone/commit/b9f9f514e319442058b8ebc6daa5804e5c88fe88) - 2026-03-18
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936881731) - 2026-03-12
 

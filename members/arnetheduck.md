@@ -25,6 +25,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [use eth/trie/nibbles consistently](https://github.com/status-im/nimbus-eth1/pull/4026) - 2026-02-27
 * [Pull Request] [Improve call performance](https://github.com/status-im/nimbus-eth1/pull/4032) - 2026-03-03
 * [Pull Request] [Improve call performance](https://github.com/status-im/nimbus-eth1/pull/4032) - 2026-03-05
+* [Pull Request] [coredb: naming cleanups](https://github.com/status-im/nimbus-eth1/pull/4046) - 2026-03-18
+* [Issue] [(Small) performance regression due to BAL](https://github.com/status-im/nimbus-eth1/issues/4044) - 2026-03-18
+* [Commit] [coredb: naming cleanups (#4046)](https://github.com/status-im/nimbus-eth1/commit/6e3592034bee8ebf60b03c648fcd7e333075a49a) - 2026-03-18
 ## Q4 2025
 
 

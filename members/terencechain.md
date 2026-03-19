@@ -68,6 +68,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Fix envelopes-by-range to only serve canonical payloads backward](https://github.com/OffchainLabs/prysm/pull/16553) - 2026-03-17
 * [Review] [Review on: rpc: add SubmitSignedProposerPreferences gRPC endpoint](https://github.com/OffchainLabs/prysm/pull/16538#pullrequestreview-3961236808) - 2026-03-17
 * [Commit] [rpc: add SubmitSignedProposerPreferences gRPC endpoint (#16538)](https://github.com/OffchainLabs/prysm/commit/605ab1c7ace5f7dc6b016c6239ca762fd1aacb35) - 2026-03-17
+* [Review] [Review on: changing grpc proposer preferences to take array instead ](https://github.com/OffchainLabs/prysm/pull/16554#pullrequestreview-3968580068) - 2026-03-18
+* [Pull Request] [ Fix forkchoice safe/finalized hash for reorged payloads](https://github.com/OffchainLabs/prysm/pull/16556) - 2026-03-18
 ## Q4 2025
 
 

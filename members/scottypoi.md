@@ -30,6 +30,7 @@ Team: EthereumJS
 * [Review] [Review on: evm: Improve Custom Precompiles API (PrefixedHexString support, getPrecompile, type exports)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4261#pullrequestreview-3933461722) - 2026-03-12
 * [Pull Request] [vm: Consume BAL function](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4264) - 2026-03-13
 * [Pull Request] [7708 fix: SELFDESTRUCT finalization logs](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4263) - 2026-03-13
+* [Commit] [7708 fix: SELFDESTRUCT finalization logs (#4263)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/975ea8162a962a7203a1f07e71e62d21fd37c37c) - 2026-03-18
 ## Q4 2025
 
 

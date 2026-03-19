@@ -28,5 +28,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [refactor stateroot commiter](https://github.com/besu-eth/besu/pull/9879) - 2026-03-17
 * [Pull Request] [add binary trie](https://github.com/besu-eth/besu/pull/10061) - 2026-03-17
 * [Commit] [refactor stateroot commiter (#9879)](https://github.com/besu-eth/besu/commit/0b5d732c2deb04146e14267b859a7f353a67350b) - 2026-03-17
+* [Review] [Review on: Move WorldStateKeyValueStorage and WorldStatePreimageStorage to plugin-api; preparement for creating WorldStateArchiveProvider](https://github.com/besu-eth/besu/pull/9897#pullrequestreview-3965339091) - 2026-03-18
+* [Review] [Review on: EIP-8189: snap/2](https://github.com/besu-eth/besu/pull/10064#pullrequestreview-3967626359) - 2026-03-18
+* [Review] [Review on: reduce volume of chain data pruner test](https://github.com/besu-eth/besu/pull/10062#pullrequestreview-3965379955) - 2026-03-18
+* [Commit] [Add tests for parallel block processing (optimistic and BAL) (#10010)](https://github.com/besu-eth/besu/commit/5aece720bb9adaf87e4e746792a8d15ca83f09bd) - 2026-03-18
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Pull Request] [use set for the StemPrunableNodeRegistry](https://github.com/besu-eth/besu-stateless/pull/90) - 2026-02-27

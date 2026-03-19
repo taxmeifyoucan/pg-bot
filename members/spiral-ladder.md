@@ -41,3 +41,5 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [feat(napi): metrics bindings (#211)](https://github.com/ChainSafe/lodestar-z/commit/687b1d0405063b9bf59a82eac69fca04a2083681) - 2026-03-16
 * [Review] [Review on: fix: native metrics example](https://github.com/ChainSafe/lodestar-z/pull/239#pullrequestreview-3958067586) - 2026-03-17
 * [Commit] [fix: native metrics example (#239)](https://github.com/ChainSafe/lodestar-z/commit/387e7708b24ec708e5afd27ae6721cb1910f7fbb) - 2026-03-17
+* [Pull Request] [feat(bls): switch multi-threading to a queue-based dispatch](https://github.com/ChainSafe/lodestar-z/pull/248) - 2026-03-18
+* [Review] [Review on: feat(blst): native multi-threaded blst](https://github.com/ChainSafe/lodestar-z/pull/235#pullrequestreview-3964669421) - 2026-03-18

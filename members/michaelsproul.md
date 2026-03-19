@@ -58,10 +58,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Remove `lighthouse/analysis` endpoints](https://github.com/sigp/lighthouse/pull/8968#pullrequestreview-3964450250) - 2026-03-18
 * [Review] [Review on: Gloas cold DB](https://github.com/sigp/lighthouse/pull/8991#pullrequestreview-3964344043) - 2026-03-18
 * [Review] [Review on: Unknown block for envelope](https://github.com/sigp/lighthouse/pull/8992#pullrequestreview-3958607003) - 2026-03-17
+* [Pull Request] [Gloas database pruning & beacon_chain tests](https://github.com/sigp/lighthouse/pull/8998) - 2026-03-18
+* [Issue] [Test minimal spec correctness in EF tests](https://github.com/sigp/lighthouse/issues/9002) - 2026-03-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16
 * [Issue] [No `sanity/blocks` tests in v1.7.0-alpha.2](https://github.com/ethereum/consensus-specs/issues/4928) - 2026-02-16
+* [Issue] [Block roots in filenames are wrong in Gloas fork choice tests](https://github.com/ethereum/consensus-specs/issues/5018) - 2026-03-19
 ## Q4 2025
 
 

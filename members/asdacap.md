@@ -35,6 +35,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Make state available if not pruned](https://github.com/NethermindEth/nethermind/pull/10822#pullrequestreview-3947236195) - 2026-03-13
 * [Review] [Review on: fix: fix data race on _requestCount in MessageDictionary](https://github.com/NethermindEth/nethermind/pull/10813#pullrequestreview-3941661202) - 2026-03-13
 * [Pull Request] [feat(state): inline TrieNodeRlp struct with seqlock-based TrieNodeCache](https://github.com/NethermindEth/nethermind/pull/10834) - 2026-03-14
+* [Review] [Review on: FlatDB dictionary lookup optimization](https://github.com/NethermindEth/nethermind/pull/10858#pullrequestreview-3966832825) - 2026-03-18
 ## Q4 2025
 
 

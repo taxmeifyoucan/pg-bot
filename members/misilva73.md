@@ -17,5 +17,6 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Issue] [Glamsterdam Repricings #4, Mar 18, 2026](https://github.com/ethereum/pm/issues/1973) - 2026-03-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: Add quantization, reservoir model, and refine gas accounting](https://github.com/ethereum/EIPs/pull/11292) - 2026-02-09
+* [Review] [Review on: Update EIP-8037: clarify regular gas must be charged before state gas](https://github.com/ethereum/EIPs/pull/11421#pullrequestreview-3969122981) - 2026-03-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(test-benchmark): ensure no precompile cache issue](https://github.com/ethereum/execution-specs/pull/2415#pullrequestreview-3945780208) - 2026-03-13

@@ -60,6 +60,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore: Revise spell checking](https://github.com/NethermindEth/nethermind/pull/10838#pullrequestreview-3953293275) - 2026-03-16
 * [Commit] [fix(ci): free disk space for Pyspec test jobs (#10845)](https://github.com/NethermindEth/nethermind/commit/2321995738f4f3738f9aa3f6cb7f9d78b65943ee) - 2026-03-16
 * [Pull Request] [Re-enable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/10848) - 2026-03-17
+* [Review] [Review on: Check logs RLP](https://github.com/NethermindEth/nethermind/pull/10862#pullrequestreview-3970060609) - 2026-03-18
+* [Review] [Review on: fix: IByteBuffer leak in EnrResponseMsgSerializer & ArrayPoolSpan OOB](https://github.com/NethermindEth/nethermind/pull/10853#pullrequestreview-3969428167) - 2026-03-18
+* [Review] [Review on: fix: handle tuple disposal in TryDispose to prevent resource leaks](https://github.com/NethermindEth/nethermind/pull/10839#pullrequestreview-3969498793) - 2026-03-18
+* [Review] [Review on: Re-enable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/10848#pullrequestreview-3965355224) - 2026-03-18
+* [Pull Request] [Fix event handler leaks, reduce allocations, and refactor Network layer](https://github.com/NethermindEth/nethermind/pull/10753) - 2026-03-18
+* [Review] [Review on: Fix event handler leaks, reduce allocations, and refactor Network layer](https://github.com/NethermindEth/nethermind/pull/10753#pullrequestreview-3967819076) - 2026-03-18
+* [Pull Request] [fix: prevent torn reads of TrieNode._rlp using seqlock pattern](https://github.com/NethermindEth/nethermind/pull/10857) - 2026-03-18
+* [Issue] [Investigate: double dotnet restore for RID-specific ReadyToRun may break reproducible builds](https://github.com/NethermindEth/nethermind/issues/10864) - 2026-03-18
+* [Commit] [Re-enable ReadyToRun AOT compilation (#10848)](https://github.com/NethermindEth/nethermind/commit/ea5ce04633b00ef6790468a7d8cdf2801914e7c7) - 2026-03-18
+* [Commit] [Fix event handler leaks, reduce allocations, and refactor Network layer (#10753)](https://github.com/NethermindEth/nethermind/commit/db2ef91db7b880273bb016a1334e91b865f97f5e) - 2026-03-18
+* [Commit] [fix: prevent torn reads of TrieNode._rlp using seqlock pattern (#10857)](https://github.com/NethermindEth/nethermind/commit/f40ae6dd52267c3439a9f230b91b3d0a348735e5) - 2026-03-18
 ## Q4 2025
 
 

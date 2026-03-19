@@ -87,6 +87,18 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: rpc-compat hive tests](https://github.com/NethermindEth/nethermind/pull/10846#pullrequestreview-3959228613) - 2026-03-17
 * [Review] [Review on: fix: dispose IncrementalHash in E2StoreWriter](https://github.com/NethermindEth/nethermind/pull/10847#pullrequestreview-3959220652) - 2026-03-17
 * [Review] [Review on: fix: handle tuple disposal in TryDispose to prevent resource leaks](https://github.com/NethermindEth/nethermind/pull/10839#pullrequestreview-3959269413) - 2026-03-17
+* [Review] [Review on: fix: fix encryptor leak in AesCtr method](https://github.com/NethermindEth/nethermind/pull/10851#pullrequestreview-3965697428) - 2026-03-18
+* [Review] [Review on: Check logs RLP](https://github.com/NethermindEth/nethermind/pull/10862#pullrequestreview-3969186857) - 2026-03-18
+* [Review] [Review on: fix: IByteBuffer leak in EnrResponseMsgSerializer & ArrayPoolSpan OOB](https://github.com/NethermindEth/nethermind/pull/10853#pullrequestreview-3965695376) - 2026-03-18
+* [Review] [Review on: fix: handle tuple disposal in TryDispose to prevent resource leaks](https://github.com/NethermindEth/nethermind/pull/10839#pullrequestreview-3965701545) - 2026-03-18
+* [Review] [Review on: Re-enable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/10848#pullrequestreview-3965639547) - 2026-03-18
+* [Review] [Review on: feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807#pullrequestreview-3967097997) - 2026-03-18
+* [Review] [Review on: fix: prevent torn reads of TrieNode._rlp using seqlock pattern](https://github.com/NethermindEth/nethermind/pull/10857#pullrequestreview-3966997548) - 2026-03-18
+* [Review] [Review on: fix: prevent torn reads of TrieNode._rlp (CappedArray -> byte[])](https://github.com/NethermindEth/nethermind/pull/10849#pullrequestreview-3965607204) - 2026-03-18
+* [Review] [Review on: BALs remove unneeded delegation check](https://github.com/NethermindEth/nethermind/pull/10860#pullrequestreview-3966965445) - 2026-03-18
+* [Review] [Review on: fix: fix CancellationTokenSource leak in StartingSyncPivotUpdater](https://github.com/NethermindEth/nethermind/pull/10859#pullrequestreview-3966835095) - 2026-03-18
+* [Review] [Review on: Snapshot - Big Files & Improvements](https://github.com/NethermindEth/nethermind/pull/10735#pullrequestreview-3965784964) - 2026-03-18
+* [Review] [Review on: feat(witness-generation): Make WitnessCapturingTrieStore explicitly readonly](https://github.com/NethermindEth/nethermind/pull/10701#pullrequestreview-3965734987) - 2026-03-18
 ## Q4 2025
 
 

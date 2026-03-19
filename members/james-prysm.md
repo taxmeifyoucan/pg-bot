@@ -53,6 +53,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [gloas validator client proposer preferences](https://github.com/OffchainLabs/prysm/pull/16548) - 2026-03-16
 * [Review] [Review on: rpc: add SubmitSignedProposerPreferences gRPC endpoint](https://github.com/OffchainLabs/prysm/pull/16538#pullrequestreview-3958020786) - 2026-03-17
 * [Review] [Review on: Correct log in VerifyBlobKZGProofBatch](https://github.com/OffchainLabs/prysm/pull/16552#pullrequestreview-3961195585) - 2026-03-17
+* [Pull Request] [changing grpc proposer preferences to take array instead ](https://github.com/OffchainLabs/prysm/pull/16554) - 2026-03-18
+* [Review] [Review on: p2p: add execution payload bid gossip topic and verification](https://github.com/OffchainLabs/prysm/pull/16539#pullrequestreview-3970825812) - 2026-03-18
+* [Review] [Review on: gloas validator client proposer preferences](https://github.com/OffchainLabs/prysm/pull/16548#pullrequestreview-3969368954) - 2026-03-18
 ## Q4 2025
 
 

@@ -23,6 +23,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Use cache locality to improve Shift opcodes](https://github.com/besu-eth/besu/pull/9878#pullrequestreview-3935890099) - 2026-03-12
 
 * [Review] [Review on: Implement div sdiv with longs](https://github.com/besu-eth/besu/pull/9923#pullrequestreview-3952663901) - 2026-03-16
+* [Review] [Review on: Implement div sdiv with long limbs](https://github.com/besu-eth/besu/pull/9923#pullrequestreview-3966677939) - 2026-03-18
+* [Commit] [Implement div sdiv with long limbs (#9923)](https://github.com/besu-eth/besu/commit/2e977a55bfc8e6d836f90a907774bad175bf150d) - 2026-03-18
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Review] [Review on: chore(ci): update runner types and trigger](https://github.com/besu-eth/besu-stateless/pull/91#pullrequestreview-3948972437) - 2026-03-14
 ## Q4 2025

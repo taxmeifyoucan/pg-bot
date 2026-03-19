@@ -56,6 +56,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore: update Go dependencies](https://github.com/ethpandaops/contributoor/pull/205) - 2026-03-12
 * [Pull Request] [chore: update Go dependencies](https://github.com/ethpandaops/contributoor/pull/204) - 2026-03-12
 * [Commit] [Merge pull request #193 from ethpandaops/dependabot/github_actions/actions-34e822736b](https://github.com/ethpandaops/contributoor/commit/98ea954cc2499136d7fd713cdf541f92567fbe52) - 2026-03-15
+
+* [Review] [Review on: fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/ethpandaops/contributoor/pull/212#pullrequestreview-3970951742) - 2026-03-18
+* [Commit] [Merge pull request #212 from ethpandaops/fix/update-kurtosis-apt-source](https://github.com/ethpandaops/contributoor/commit/9d0c59b4f80d8871a95a35db0799abb8f19b1fc3) - 2026-03-18
+[ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
+* [Commit] [Merge pull request #54 from ethpandaops/fix/update-kurtosis-apt-source](https://github.com/ethpandaops/tracoor/commit/aff69be4e57b08ac919a9a8a3404630e78601af6) - 2026-03-18
+* [Commit] [fix(golang-test.yaml): update test running command to use tee for simultaneous output to console and file](https://github.com/ethpandaops/tracoor/commit/966886ab34728d301b0bb75bf156ba11e372bd6b) - 2026-03-18
+* [Commit] [chore(smoke-test.yaml): remove deprecated EthereumJS and Nimbus configurations to clean up the workflow](https://github.com/ethpandaops/tracoor/commit/8f52e3825cf487a74fe6ec7dce28482c24a508f1) - 2026-03-18
 ## Q4 2025
 
 

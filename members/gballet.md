@@ -56,6 +56,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: internal/ethapi: warn on reaching global gas cap for eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/34016#pullrequestreview-3960530273) - 2026-03-17
 * [Review] [Review on: core/state: skip redundant trie Commit for Verkle in stateObject.commit](https://github.com/ethereum/go-ethereum/pull/34021#pullrequestreview-3959773258) - 2026-03-17
 * [Review] [Review on: core/state: avoid Bytes() allocation in flatReader hash computations](https://github.com/ethereum/go-ethereum/pull/34025#pullrequestreview-3959790422) - 2026-03-17
+* [Review] [Review on: trie/bintrie: replace BinaryNode interface with GC-free NodeRef arena](https://github.com/ethereum/go-ethereum/pull/34042#pullrequestreview-3971035969) - 2026-03-18
+* [Review] [Review on: core/state: flatten per-account updateTrie into a single pass for binary trie](https://github.com/ethereum/go-ethereum/pull/34022#pullrequestreview-3969351116) - 2026-03-18
+* [Review] [Review on: build: fix missing '!' in shebang of generated oss-fuzz scripts](https://github.com/ethereum/go-ethereum/pull/34044#pullrequestreview-3967620999) - 2026-03-18
+* [Review] [Review on: trie/bintrie: parallelize InternalNode.Hash at shallow tree depths](https://github.com/ethereum/go-ethereum/pull/34032#pullrequestreview-3967605146) - 2026-03-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7864: encode offset as big endian](https://github.com/ethereum/EIPs/pull/11389) - 2026-03-09
 ## Q4 2025

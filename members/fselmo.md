@@ -41,6 +41,10 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [chore(ci,deps): bump pinned action SHAs & golang, markdownlint-cli2 versions (#2503)](https://github.com/ethereum/execution-specs/commit/424c4f45ba190af73551804b73be027475f72084) - 2026-03-16
 * [Review] [Review on: feat(benchmarks): add BAL benchmarks for the optimization strategies introduced by BALs](https://github.com/ethereum/execution-specs/pull/2197#pullrequestreview-3964188337) - 2026-03-17
 * [Review] [Review on: refactor(test-benchmark): marker filter logic](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3963702142) - 2026-03-17
+* [Review] [Review on: feat(specs,tests): EIP-8037 state gas ordering and clarifications](https://github.com/ethereum/execution-specs/pull/2526#pullrequestreview-3970254002) - 2026-03-18
+* [Review] [Review on: chore(ci): warn when local markdownlint-cli2 version diverges from CI](https://github.com/ethereum/execution-specs/pull/2513#pullrequestreview-3970624406) - 2026-03-18
+* [Review] [Review on: fix(src): preserve custom chain ID in pre-alloc groups and `extract_config`](https://github.com/ethereum/execution-specs/pull/2515#pullrequestreview-3968939589) - 2026-03-18
+* [Commit] [refactor: simplify BAL T8N by passing rlp bytes (#2486)](https://github.com/ethereum/execution-specs/commit/53bb0831813966ff5318fbda1ccf015027d27e99) - 2026-03-18
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [fix: update BPO defaults](https://github.com/ethereum/hive/pull/1380) - 2026-01-15
 * [Pull Request] [fix: remove Amsterdam defaults (named fork in blob params)](https://github.com/ethereum/hive/pull/1387) - 2026-02-03
@@ -49,6 +53,10 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/evm: don't strip prefixes on requests over t8n](https://github.com/ethereum/go-ethereum/pull/33997) - 2026-03-13
 * [Commit] [cmd/evm: don't strip prefixes on requests over t8n (#33997)](https://github.com/ethereum/go-ethereum/commit/ab357151da881f0e7dffd30b639c9dcdcdd4cc10) - 2026-03-17
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8037: Align with EIP-7928 Gas Validation Phases](https://github.com/ethereum/EIPs/pull/11414#pullrequestreview-3971299754) - 2026-03-18
+* [Review] [Review on: Update EIP-8037: clarify regular gas must be charged before state gas](https://github.com/ethereum/EIPs/pull/11421#pullrequestreview-3971053632) - 2026-03-18
 ## Q4 2025
 
 

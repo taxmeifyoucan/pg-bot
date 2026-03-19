@@ -19,6 +19,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(reqresp): clear composed response timeout signals](https://github.com/ChainSafe/lodestar/pull/9029#pullrequestreview-3944497928) - 2026-03-13
 * [Review] [Review on: chore: fix peerdas metrics](https://github.com/ChainSafe/lodestar/pull/8920#pullrequestreview-3956859452) - 2026-03-16
 * [Pull Request] [feat: cell level das](https://github.com/ChainSafe/lodestar/pull/9053) - 2026-03-17
+* [Review] [Review on: docs: update docs favicon to current Lodestar logo](https://github.com/ChainSafe/lodestar/pull/9058#pullrequestreview-3964941622) - 2026-03-18
 ## Q4 2025
 
 

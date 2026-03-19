@@ -40,6 +40,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf(fork-choice): hoist proposerBoostRoot out of applyScoreChanges loop](https://github.com/ChainSafe/lodestar/pull/9040#pullrequestreview-3951038854) - 2026-03-16
 * [Pull Request] [perf(types/electra): model Pending* electra types as ContainerNodeStructType](https://github.com/ChainSafe/lodestar/pull/9054) - 2026-03-17
 * [Issue] [Incorrect beacon_pending_deposits metrics](https://github.com/ChainSafe/lodestar/issues/9052) - 2026-03-17
+* [Review] [Review on: feat: update voluntary exit for gloas](https://github.com/ChainSafe/lodestar/pull/9039#pullrequestreview-3965926145) - 2026-03-18
+* [Review] [Review on: feat: add payload envelope reqresp](https://github.com/ChainSafe/lodestar/pull/9050#pullrequestreview-3965573179) - 2026-03-18
+* [Pull Request] [refactor: generalize NetworkProcessor awaiting-block mechanism for all gossip types](https://github.com/ChainSafe/lodestar/pull/9059) - 2026-03-18
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 * [Review] [Review on: fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241#pullrequestreview-3948190078) - 2026-03-14
@@ -49,6 +52,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor(ssz): drop BaseTreeView, use tuple for ContainerTreeView](https://github.com/ChainSafe/lodestar-z/pull/139) - 2026-03-17
 * [Review] [Review on: refactor(ssz): review tree views](https://github.com/ChainSafe/lodestar-z/pull/245#pullrequestreview-3958933645) - 2026-03-17
 * [Commit] [refactor(ssz): drop BaseTreeView, use tuple for ContainerTreeView (#139)](https://github.com/ChainSafe/lodestar-z/commit/ce6370e75b980d0657ac246083b437e76fcd1e4b) - 2026-03-17
+* [Review] [Review on: feat: add StructContainerTreeView, model Validator as StructContainerType](https://github.com/ChainSafe/lodestar-z/pull/247#pullrequestreview-3964664476) - 2026-03-18
 ## Q4 2025
 
 
