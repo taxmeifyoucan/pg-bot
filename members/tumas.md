@@ -46,6 +46,8 @@ Team: Grandine
 * [Pull Request] [Update consensus spec tests to v1.7.0-alpha3](https://github.com/grandinetech/grandine/pull/639) - 2026-03-18
 * [Review] [Review on: `GET /eth/v1/validator/execution_payload_bid/{slot}/{builder_index}`](https://github.com/grandinetech/grandine/pull/518#pullrequestreview-3966897987) - 2026-03-18
 * [Review] [Review on: Disable macos & windows builds in CI](https://github.com/grandinetech/grandine/pull/638#pullrequestreview-3966834375) - 2026-03-18
+* [Review] [Review on: Handle `ExecutionPayloadEnvelope`](https://github.com/grandinetech/grandine/pull/591#pullrequestreview-3974911644) - 2026-03-19
+* [Review] [Review on: Fix check builder balance edge case when bid_amount = 0](https://github.com/grandinetech/grandine/pull/640#pullrequestreview-3974471831) - 2026-03-19
 ## Q4 2025
 
 

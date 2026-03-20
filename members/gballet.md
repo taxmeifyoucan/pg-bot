@@ -60,6 +60,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core/state: flatten per-account updateTrie into a single pass for binary trie](https://github.com/ethereum/go-ethereum/pull/34022#pullrequestreview-3969351116) - 2026-03-18
 * [Review] [Review on: build: fix missing '!' in shebang of generated oss-fuzz scripts](https://github.com/ethereum/go-ethereum/pull/34044#pullrequestreview-3967620999) - 2026-03-18
 * [Review] [Review on: trie/bintrie: parallelize InternalNode.Hash at shallow tree depths](https://github.com/ethereum/go-ethereum/pull/34032#pullrequestreview-3967605146) - 2026-03-18
+* [Review] [Review on: trie/bintrie: replace BinaryNode interface with GC-free NodeRef arena](https://github.com/ethereum/go-ethereum/pull/34055#pullrequestreview-3978063779) - 2026-03-19
+* [Pull Request] [trie/bintrie: fix NodeIterator Empty node handling and expose tree accessors](https://github.com/ethereum/go-ethereum/pull/34056) - 2026-03-19
+* [Review] [Review on: trie/bintrie: replace BinaryNode interface with GC-free NodeRef arena](https://github.com/ethereum/go-ethereum/pull/34042#pullrequestreview-3974235469) - 2026-03-19
+* [Review] [Review on: cmd: add support for enumerating a single storage trie](https://github.com/ethereum/go-ethereum/pull/34051#pullrequestreview-3973655314) - 2026-03-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7864: encode offset as big endian](https://github.com/ethereum/EIPs/pull/11389) - 2026-03-09
 ## Q4 2025

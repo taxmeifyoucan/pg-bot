@@ -8,6 +8,11 @@ Team: Nethermind
 
 ## Contributions
 
+## Q1 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: Remove EOF](https://github.com/NethermindEth/nethermind/pull/10866#pullrequestreview-3974894905) - 2026-03-19
 ## Q4 2025
 
 

@@ -40,6 +40,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 
 * [Pull Request] [hiveview: show suites with empty simLog value when running dev mode](https://github.com/ethereum/hive/pull/1400) - 2026-03-09
+* [Pull Request] [hive: add --sim.limit.exact flag](https://github.com/ethereum/hive/pull/969) - 2026-03-19
+* [Commit] [hive: add --sim.limit.exact flag (#969)](https://github.com/ethereum/hive/commit/cac752422d76c335ca6d11ea560f2ae92c0f3aee) - 2026-03-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: clarify reservoir mechanics](https://github.com/ethereum/EIPs/pull/11328) - 2026-03-06
 * [Pull Request] [Update EIP-7773: SFI all glamsterdam EIPs included in a devnet](https://github.com/ethereum/EIPs/pull/11399) - 2026-03-12

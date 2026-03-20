@@ -30,6 +30,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: handle payload import dedupe in processor](https://github.com/ChainSafe/lodestar/pull/9041#pullrequestreview-3958620740) - 2026-03-17
 * [Pull Request] [feat: update to v1.7.0-alpha.3](https://github.com/ChainSafe/lodestar/pull/9051) - 2026-03-17
 * [Review] [Review on: refactor: handle payload import dedupe in processor](https://github.com/ChainSafe/lodestar/pull/9041#pullrequestreview-3965768665) - 2026-03-18
+* [Review] [Review on: feat: add payload envelope reqresp](https://github.com/ChainSafe/lodestar/pull/9050#pullrequestreview-3978727975) - 2026-03-20
+* [Commit] [feat: state cache for ePBS (#8868)](https://github.com/ChainSafe/lodestar/commit/274a9918a8414eedf2f4241921c10fa2fddd163c) - 2026-03-19
 ## Q4 2025
 
 

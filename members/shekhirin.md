@@ -39,6 +39,12 @@ Team: Reth
 * [Review] [Review on: ci(bench): add otlp toggle argument](https://github.com/paradigmxyz/reth/pull/23092#pullrequestreview-3969545451) - 2026-03-18
 * [Review] [Review on: fix: use zero gas price for empty blocks](https://github.com/paradigmxyz/reth/pull/23094#pullrequestreview-3969361368) - 2026-03-18
 * [Review] [Review on: fix(provider): disable read transaction timeout during check_consistency](https://github.com/paradigmxyz/reth/pull/23083#pullrequestreview-3967178296) - 2026-03-18
+* [Review] [Review on: feat(node-core): add DefaultLogArgs for customizable log defaults](https://github.com/paradigmxyz/reth/pull/23122#pullrequestreview-3976086404) - 2026-03-19
+* [Review] [Review on: chore(tracing): filter noisy rustls and tungstenite logs](https://github.com/paradigmxyz/reth/pull/23121#pullrequestreview-3976007004) - 2026-03-19
+* [Pull Request] [perf(reth-bench): fetch RPC blocks in parallel](https://github.com/paradigmxyz/reth/pull/23117) - 2026-03-19
+* [Pull Request] [feat(node): allow to override storage settings](https://github.com/paradigmxyz/reth/pull/23119) - 2026-03-19
+* [Review] [Review on: fix(stages): overwrite Destroyed revert slots when injecting preimages](https://github.com/paradigmxyz/reth/pull/23114#pullrequestreview-3974500859) - 2026-03-19
+* [Commit] [perf(reth-bench): fetch RPC blocks in parallel (#23117)](https://github.com/paradigmxyz/reth/commit/20cce0a6dfa6919089ffdb9dfac44c00f3070069) - 2026-03-19
 ## Q4 2025
 
 

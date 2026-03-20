@@ -35,3 +35,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(test-fixture): add target opcode in output fixture](https://github.com/ethereum/execution-specs/pull/2520) - 2026-03-17
 * [Review] [Review on: refactor(test-benchmark): marker filter logic](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3965481591) - 2026-03-18
 * [Review] [Review on: feat(test-fill,test-benchmark): support stub accounts in `fill` via RPC](https://github.com/ethereum/execution-specs/pull/2512#pullrequestreview-3965622991) - 2026-03-18
+* [Pull Request] [feat(test-benchmark): verify transaction status](https://github.com/ethereum/execution-specs/pull/2527) - 2026-03-19
+* [Review] [Review on: refactor(test-benchmark): marker filter logic](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3973238170) - 2026-03-19
+* [Review] [Review on: fix(test-benchmarks): gas accounting for `test_account_access` when nonzero value](https://github.com/ethereum/execution-specs/pull/2530#pullrequestreview-3973573382) - 2026-03-19
+* [Pull Request] [refactor(test-benchmark): ensure no precompile cache issue](https://github.com/ethereum/execution-specs/pull/2415) - 2026-03-19
+* [Review] [Review on: feat(test-fill,test-benchmark): support stub accounts in `fill` via RPC](https://github.com/ethereum/execution-specs/pull/2512#pullrequestreview-3973370496) - 2026-03-19
+* [Commit] [refactor(test-benchmark): ensure no precompile cache issue (#2415)](https://github.com/ethereum/execution-specs/commit/54b205cfab3c6178e6fa026898e5f2d6064acb63) - 2026-03-19

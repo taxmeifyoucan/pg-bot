@@ -66,6 +66,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add StructContainerTreeView, model Validator as StructContainerType](https://github.com/ChainSafe/lodestar-z/pull/247) - 2026-03-17
 * [Review] [Review on: feat(blst): native multi-threaded blst](https://github.com/ChainSafe/lodestar-z/pull/235#pullrequestreview-3963530251) - 2026-03-17
 * [Review] [Review on: fix: native metrics example](https://github.com/ChainSafe/lodestar-z/pull/239#pullrequestreview-3961239876) - 2026-03-17
+* [Review] [Review on: chore(ci): add missing test steps for constants, fork_types, era](https://github.com/ChainSafe/lodestar-z/pull/250#pullrequestreview-3976990708) - 2026-03-19
 ## Q4 2025
 
 

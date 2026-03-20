@@ -99,6 +99,19 @@ Team: Reth
 * [Review] [Review on: test(rocksdb): add storage history pruning regression test](https://github.com/paradigmxyz/reth/pull/23087#pullrequestreview-3967105779) - 2026-03-18
 * [Review] [Review on: perf(rpc): avoid request clone in `eth_createAccessList`](https://github.com/paradigmxyz/reth/pull/23085#pullrequestreview-3966858368) - 2026-03-18
 * [Review] [Review on: perf(rpc): avoid cloning tx in pending block builder](https://github.com/paradigmxyz/reth/pull/23077#pullrequestreview-3966437464) - 2026-03-18
+* [Review] [Review on: chore: remove reth-bench-compare](https://github.com/paradigmxyz/reth/pull/23123#pullrequestreview-3976198011) - 2026-03-19
+* [Review] [Review on: feat(node-core): add DefaultLogArgs for customizable log defaults](https://github.com/paradigmxyz/reth/pull/23122#pullrequestreview-3976077918) - 2026-03-19
+* [Pull Request] [chore(tracing): filter noisy rustls and tungstenite logs](https://github.com/paradigmxyz/reth/pull/23121) - 2026-03-19
+* [Review] [Review on: perf(reth-bench): fetch RPC blocks in parallel](https://github.com/paradigmxyz/reth/pull/23117#pullrequestreview-3975634712) - 2026-03-19
+* [Review] [Review on: perf(engine): avoid redundant state provider and header lookups](https://github.com/paradigmxyz/reth/pull/22979#pullrequestreview-3974325620) - 2026-03-19
+* [Review] [Review on: fix(download): wire Ctrl+C to cancellation token and fix progress labels](https://github.com/paradigmxyz/reth/pull/23104#pullrequestreview-3975524537) - 2026-03-19
+* [Review] [Review on: fix(provider): bound ConsistentProvider changeset ranges to requested…](https://github.com/paradigmxyz/reth/pull/23118#pullrequestreview-3975509271) - 2026-03-19
+* [Review] [Review on: fix(stages): overwrite Destroyed revert slots when injecting preimages](https://github.com/paradigmxyz/reth/pull/23114#pullrequestreview-3974500763) - 2026-03-19
+* [Review] [Review on: perf(rpc): avoid redundant receipt cache lookup in `eth_getTransactionReceipt`](https://github.com/paradigmxyz/reth/pull/23074#pullrequestreview-3974429311) - 2026-03-19
+* [Review] [Review on: chore(deps): bump actions/upload-artifact from 6 to 7](https://github.com/paradigmxyz/reth/pull/22966#pullrequestreview-3974407854) - 2026-03-19
+* [Review] [Review on: perf(net): size-based backpressure for session broadcast messages](https://github.com/paradigmxyz/reth/pull/22849#pullrequestreview-3973721219) - 2026-03-19
+* [Review] [Review on: perf(rpc): avoid header clone in `logs_for_filter`](https://github.com/paradigmxyz/reth/pull/23106#pullrequestreview-3974055354) - 2026-03-19
+* [Commit] [chore(tracing): filter noisy rustls and tungstenite logs (#23121)](https://github.com/paradigmxyz/reth/commit/b8baaf6aa7fb8aded49ff5a0f4c24944160915d0) - 2026-03-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

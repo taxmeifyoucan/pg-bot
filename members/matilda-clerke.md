@@ -20,6 +20,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Commit] [Remove Peer Task System feature toggle from DownloadBodiesStep (#9952)](https://github.com/besu-eth/besu/commit/2d7fae9929ef6cf871ddc09a9531853cba9cdffd) - 2026-03-12
 * [Pull Request] [Distinguish between disc v4 and disc v5 CLI options](https://github.com/besu-eth/besu/pull/10054) - 2026-03-16
 * [Review] [Review on: PeerTaskValidationResponse - accept NO_RESULTS_RETURNED](https://github.com/besu-eth/besu/pull/10056#pullrequestreview-3957813240) - 2026-03-17
+* [Review] [Review on: receipt decoder - handle both formats at read time](https://github.com/besu-eth/besu/pull/10079#pullrequestreview-3978815730) - 2026-03-20
+* [Pull Request] [Remove peer task feature toggle from DownloadHeadersStep](https://github.com/besu-eth/besu/pull/10070) - 2026-03-19
+* [Review] [Review on: Bonsai archive seperate column families](https://github.com/besu-eth/besu/pull/10058#pullrequestreview-3972275539) - 2026-03-19
 ## Q4 2025
 
 

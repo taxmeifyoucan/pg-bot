@@ -58,6 +58,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: Update Trivy scanner workflow (#10852)](https://github.com/NethermindEth/nethermind/commit/3f526ebfc2d8e40936e33819eb7a7a6795537181) - 2026-03-17
 * [Commit] [feat: Add Codex review workflow (#10832)](https://github.com/NethermindEth/nethermind/commit/e67e1a28ac2f3a42d1fcc8b5eaf6ff2def124777) - 2026-03-17
 * [Review] [Review on: feat: upgrade Claude CI/CD review workflow](https://github.com/NethermindEth/nethermind/pull/10854#pullrequestreview-3965934123) - 2026-03-18
+* [Pull Request] [test: Add `MODEXP` precompile tests](https://github.com/NethermindEth/nethermind/pull/10888) - 2026-03-19
+* [Review] [Review on: feat: add --force-resync and --purge-db CLI flags](https://github.com/NethermindEth/nethermind/pull/10871#pullrequestreview-3975941057) - 2026-03-19
+* [Pull Request] [chore: Unify precompile naming](https://github.com/NethermindEth/nethermind/pull/10875) - 2026-03-19
+* [Pull Request] [chore: Revise `CODEOWNERS`](https://github.com/NethermindEth/nethermind/pull/10874) - 2026-03-19
+* [Commit] [chore: Unify precompile naming (#10875)](https://github.com/NethermindEth/nethermind/commit/d89e379431c10a759740eabbe4bea5776498b742) - 2026-03-19
+* [Commit] [chore: Revise `CODEOWNERS` (#10874)](https://github.com/NethermindEth/nethermind/commit/2cb5c380384ebd2b5c614d13c9b8a0131838cfc4) - 2026-03-19
 ## Q4 2025
 
 

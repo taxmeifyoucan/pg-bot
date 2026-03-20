@@ -32,6 +32,7 @@ Team: EthereumJS
 * [Pull Request] []() - 2026-03-09
 * [Pull Request] [fix: replace typeof window DEBUG checks with globalThis.process](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4265) - 2026-03-18
 * [Review] [Review on: 7708 fix: SELFDESTRUCT finalization logs](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4263#pullrequestreview-3971312725) - 2026-03-18
+* [Commit] [fix: replace typeof window DEBUG checks with globalThis.process (#4265)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/417f324d6b0d3b7e738f689475e68610799b392b) - 2026-03-19
 ## Q4 2025
 
 

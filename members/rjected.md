@@ -44,6 +44,7 @@ Team: Reth
 * [Review] [Review on: feat(prune): make minimum pruning distance configurable](https://github.com/paradigmxyz/reth/pull/23082#pullrequestreview-3969428959) - 2026-03-18
 * [Review] [Review on: fix(provider): fix race between save_blocks and rocksdb pruning](https://github.com/paradigmxyz/reth/pull/23081#pullrequestreview-3969332748) - 2026-03-18
 * [Commit] [fix(provider): fix race between save_blocks and rocksdb pruning (#23081)](https://github.com/paradigmxyz/reth/commit/a83d5453bd38a47cbd4346a86ea6eefa6d20e4b1) - 2026-03-18
+* [Review] [Review on: fix(download): wire Ctrl+C to cancellation token and fix progress labels](https://github.com/paradigmxyz/reth/pull/23104#pullrequestreview-3972110229) - 2026-03-19
 ## Q4 2025
 
 

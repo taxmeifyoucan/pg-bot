@@ -13,6 +13,9 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Fill command fails to validate transaction traces (--traces)](https://github.com/ethereum/execution-specs/issues/2092) - 2026-01-28
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Add check that block is known in `on_payload_attestation_message`](https://github.com/ethereum/consensus-specs/pull/5022) - 2026-03-19
 ## Q4 2025
 
 

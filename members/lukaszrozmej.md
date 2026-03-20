@@ -99,6 +99,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: fix CancellationTokenSource leak in StartingSyncPivotUpdater](https://github.com/NethermindEth/nethermind/pull/10859#pullrequestreview-3966835095) - 2026-03-18
 * [Review] [Review on: Snapshot - Big Files & Improvements](https://github.com/NethermindEth/nethermind/pull/10735#pullrequestreview-3965784964) - 2026-03-18
 * [Review] [Review on: feat(witness-generation): Make WitnessCapturingTrieStore explicitly readonly](https://github.com/NethermindEth/nethermind/pull/10701#pullrequestreview-3965734987) - 2026-03-18
+* [Review] [Review on: perf: full PGO data, cross-module inlining, Pettis-Hansen method layout](https://github.com/NethermindEth/nethermind/pull/10877#pullrequestreview-3977099188) - 2026-03-19
+* [Review] [Review on: feat: restore edge/block collection and runtime consumption](https://github.com/NethermindEth/nethermind/pull/10869#pullrequestreview-3975420191) - 2026-03-19
+* [Review] [Review on: feat: add maxUsedGas to eth_simulateV1 results](https://github.com/NethermindEth/nethermind/pull/10863#pullrequestreview-3974849705) - 2026-03-19
+* [Review] [Review on: fix: fix resource leak in ChannelDecoder compression streams](https://github.com/NethermindEth/nethermind/pull/10865#pullrequestreview-3974844074) - 2026-03-19
+* [Review] [Review on: Remove EOF](https://github.com/NethermindEth/nethermind/pull/10866#pullrequestreview-3974840958) - 2026-03-19
 ## Q4 2025
 
 

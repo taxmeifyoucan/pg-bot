@@ -26,6 +26,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Issue] [FOCIL Breakout #28, February 10, 2026](https://github.com/ethereum/pm/issues/1918) - 2026-02-10
 * [Issue] [FOCIL Breakout #29, February 24, 2026](https://github.com/ethereum/pm/issues/1946) - 2026-02-23
 * [Issue] [FOCIL Breakout #30, March 10, 2026](https://github.com/ethereum/pm/issues/1964) - 2026-03-09
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Add EIP: Quick Slots](https://github.com/ethereum/EIPs/pull/11426#pullrequestreview-3973610207) - 2026-03-19
 ## Q4 2025
 
 

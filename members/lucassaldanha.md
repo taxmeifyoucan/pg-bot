@@ -55,6 +55,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Added support for websockets (new engine api client)](https://github.com/Consensys/teku/pull/10492#pullrequestreview-3956947406) - 2026-03-16
 * [Review] [Review on: Added support for websockets (new engine api client)](https://github.com/Consensys/teku/pull/10492#pullrequestreview-3957788873) - 2026-03-17
 * [Review] [Review on: updated constants for 1.7.0-alpha.3](https://github.com/Consensys/teku/pull/10500#pullrequestreview-3964690291) - 2026-03-18
+* [Pull Request] [Add Engine API IPC support (new engine API)](https://github.com/Consensys/teku/pull/10510) - 2026-03-19
+* [Review] [Review on: Add Engine API IPC support (new engine API)](https://github.com/Consensys/teku/pull/10510#pullrequestreview-3978798300) - 2026-03-20
+* [Commit] [Added support to websockets on new engine api client (#10492)](https://github.com/Consensys/teku/commit/dadfe4297f90393a1197a751a9b74f438f9484a5) - 2026-03-19
 ## Q4 2025
 
 

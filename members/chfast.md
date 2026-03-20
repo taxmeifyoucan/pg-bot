@@ -69,6 +69,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [test: Simplify and parametrize by implementation modexp tests](https://github.com/ipsilon/evmone/pull/1468) - 2026-03-18
 * [Commit] [crypto: Unify memory allocation for modexp execution (#1467)](https://github.com/ipsilon/evmone/commit/e404a1c046eccc262e098e6b9e66fbbe4ba2ba7b) - 2026-03-18
 * [Commit] [test: Simplify and parametrize by implementation modexp tests (#1468)](https://github.com/ipsilon/evmone/commit/b9f9f514e319442058b8ebc6daa5804e5c88fe88) - 2026-03-18
+* [Pull Request] [crypto: Simplify modinv_pow2 Newton-Raphson iteration](https://github.com/ipsilon/evmone/pull/1470) - 2026-03-19
+* [Pull Request] [crypto: Optimize scratch space in modexp_odd](https://github.com/ipsilon/evmone/pull/1469) - 2026-03-19
+* [Commit] [crypto: Simplify modinv_pow2 Newton-Raphson iteration (#1470)](https://github.com/ipsilon/evmone/commit/634cd068033c2d43f3c6db7abe7cc8557d43ec7f) - 2026-03-19
+* [Commit] [crypto: Optimize scratch space in modexp_odd (#1469)](https://github.com/ipsilon/evmone/commit/33a61b7059399410c42d3167528b4cd2ea6bd559) - 2026-03-19
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936881731) - 2026-03-12
 

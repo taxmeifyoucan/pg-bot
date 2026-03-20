@@ -27,6 +27,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: SSZ-QL: Hybrid merkle proof generation for `BeaconState`](https://github.com/OffchainLabs/prysm/pull/16295#pullrequestreview-3940141266) - 2026-03-12
 * [Review] [Review on: ci: add SBOM export workflow](https://github.com/OffchainLabs/prysm/pull/16531#pullrequestreview-3954513171) - 2026-03-16
 * [Pull Request] [V7.1.3 changelog](https://github.com/OffchainLabs/prysm/pull/16555) - 2026-03-18
+* [Review] [Review on: sync: reject index-1 atts when payload is unseen](https://github.com/OffchainLabs/prysm/pull/16559#pullrequestreview-3976929569) - 2026-03-19
+* [Review] [Review on: Hdiff fixes 2](https://github.com/OffchainLabs/prysm/pull/16534#pullrequestreview-3975944729) - 2026-03-19
+* [Review] [Review on: Hdiff fixes](https://github.com/OffchainLabs/prysm/pull/16533#pullrequestreview-3975926322) - 2026-03-19
+* [Commit] [V7.1.3 changelog (#16555)](https://github.com/OffchainLabs/prysm/commit/dfc5bbef7fc85c21c89c05c2500ef02169a830c0) - 2026-03-19
 ## Q4 2025
 
 

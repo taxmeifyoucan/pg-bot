@@ -27,6 +27,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [core/state: avoid Bytes() allocation in flatReader hash computations (#34025)](https://github.com/ethereum/go-ethereum/commit/4b915af2c3a0097eac87b06915605f90cc8d14c6) - 2026-03-17
 * [Pull Request] [trie/bintrie: replace BinaryNode interface with GC-free NodeRef arena](https://github.com/ethereum/go-ethereum/pull/34042) - 2026-03-18
 * [Commit] [trie/bintrie: parallelize InternalNode.Hash at shallow tree depths (#34032)](https://github.com/ethereum/go-ethereum/commit/6138a11c39aa162dd723518d6edba57cd538a867) - 2026-03-18
+* [Pull Request] [trie/bintrie: replace BinaryNode interface with GC-free NodeRef arena](https://github.com/ethereum/go-ethereum/pull/34055) - 2026-03-19
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Pull Request] [trie/bintrie: fix grouped InternalNode serialization path mismatch](https://github.com/gballet/go-ethereum/pull/569) - 2026-02-25
 * [Pull Request] [cmd, core: wire --bintrie.groupdepth flag to SetEthConfig](https://github.com/gballet/go-ethereum/pull/571) - 2026-03-05* [Pull Request] [trie/bintrie: fix grouped InternalNode serialization path mismatch](https://github.com/gballet/go-ethereum/pull/569) - 2026-03-10

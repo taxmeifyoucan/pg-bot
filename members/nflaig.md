@@ -80,10 +80,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: docs: update docs favicon to current Lodestar logo](https://github.com/ChainSafe/lodestar/pull/9058#pullrequestreview-3967331918) - 2026-03-18
 * [Review] [Review on: feat: add payload envelope reqresp](https://github.com/ChainSafe/lodestar/pull/9050#pullrequestreview-3966840233) - 2026-03-18
 * [Issue] [Handle orphaned execution payloads](https://github.com/ChainSafe/lodestar/issues/9060) - 2026-03-18
+* [Review] [Review on: feat: add payload envelope reqresp](https://github.com/ChainSafe/lodestar/pull/9050#pullrequestreview-3973866186) - 2026-03-19
+* [Review] [Review on: chore: use permalinks for spec references](https://github.com/ChainSafe/lodestar/pull/9065#pullrequestreview-3976530218) - 2026-03-19
+* [Issue] [Default location for reading/writing jwt secrets](https://github.com/ChainSafe/lodestar/issues/9064) - 2026-03-19
+* [Commit] [feat: update voluntary exit for gloas (#9039)](https://github.com/ChainSafe/lodestar/commit/bb16850567eb84a6e62c20482af77993c4c114df) - 2026-03-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15
 * [Commit] [Fix builder voluntary exit success test (#5005)](https://github.com/ethereum/consensus-specs/commit/1baa05e71148b0975e28918ac6022d2256b56f4a) - 2026-03-15
+* [Pull Request] [Add PTC lookbehind minimal state change](https://github.com/ethereum/consensus-specs/pull/5020) - 2026-03-19
+* [Review] [Review on: Add PTC lookbehind minimal state change](https://github.com/ethereum/consensus-specs/pull/5020#pullrequestreview-3974835067) - 2026-03-19
 ## Q4 2025
 
 

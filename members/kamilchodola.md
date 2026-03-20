@@ -35,6 +35,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix: prevent torn reads of TrieNode._rlp (CappedArray -> byte[])](https://github.com/NethermindEth/nethermind/pull/10849) - 2026-03-17
 * [Review] [Review on: fix: prevent torn reads of TrieNode._rlp (CappedArray -> byte[])](https://github.com/NethermindEth/nethermind/pull/10849#pullrequestreview-3961758288) - 2026-03-17
 * [Review] [Review on: fix: prevent torn reads of TrieNode._rlp using seqlock pattern](https://github.com/NethermindEth/nethermind/pull/10857#pullrequestreview-3968276408) - 2026-03-18
+* [Review] [Review on: perf: full PGO data, cross-module inlining, Pettis-Hansen method layout](https://github.com/NethermindEth/nethermind/pull/10877#pullrequestreview-3976971470) - 2026-03-19
+* [Review] [Review on: feat: add --force-resync and --purge-db CLI flags](https://github.com/NethermindEth/nethermind/pull/10871#pullrequestreview-3976883669) - 2026-03-19
+* [Review] [Review on: feat: restore edge/block collection and runtime consumption](https://github.com/NethermindEth/nethermind/pull/10869#pullrequestreview-3975437633) - 2026-03-19
+* [Pull Request] [fix: use block number comparison in HasStateForBlock to prevent SYNCI…](https://github.com/NethermindEth/nethermind/pull/10868) - 2026-03-19
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Fix/stateful repricing mode](https://github.com/NethermindEth/gas-benchmarks/pull/131) - 2026-03-13
 * [Commit] [Fix/stateful repricing mode (#131)](https://github.com/NethermindEth/gas-benchmarks/commit/e447c0bc17abd422b59ee4db8a488f2dce6fa10c) - 2026-03-13
@@ -42,6 +46,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Delete repricings_stateful/perf-devnet-3 directory](https://github.com/NethermindEth/gas-benchmarks/commit/662450d09b9b4d30fe9868c0b1bddf7ac104f51e) - 2026-03-13
 * [Commit] [Revert "chore: generate stateful tests for repricings_stateful/mainnet"](https://github.com/NethermindEth/gas-benchmarks/commit/418e005ec794ae8fbd51c3ac9a450068dd38bf75) - 2026-03-16
 * [Commit] [Revert "chore: generate stateful tests for repricings_stateful/perf-devnet-3"](https://github.com/NethermindEth/gas-benchmarks/commit/2b3ba0dc4158424f5708c5fbdfbff659c841427b) - 2026-03-19
+* [Pull Request] [Fix/setup block ordering v2](https://github.com/NethermindEth/gas-benchmarks/pull/134) - 2026-03-19
+* [Pull Request] [Fix/setup block ordering for metadata](https://github.com/NethermindEth/gas-benchmarks/pull/133) - 2026-03-19
+* [Pull Request] [Fix/setup block ordering](https://github.com/NethermindEth/gas-benchmarks/pull/132) - 2026-03-19
+* [Commit] [Fix/setup block ordering v2 (#134)](https://github.com/NethermindEth/gas-benchmarks/commit/1ba94997ab652eaa3e39577eac3b9ef9e05a2e6c) - 2026-03-19
+* [Commit] [Fix/setup block ordering (#132)](https://github.com/NethermindEth/gas-benchmarks/commit/194904501ba704b58f5e97b6658c605c8275ff82) - 2026-03-19
 ## Q4 2025
 
 

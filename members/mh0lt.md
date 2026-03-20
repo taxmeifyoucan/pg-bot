@@ -114,6 +114,8 @@ Team: Erigon
 * [Commit] [execmodule: cross-call overlay with RO tx pipeline execution (#19882)](https://github.com/erigontech/erigon/commit/ec7bb868302cb85a7a3193dd8e53ce3052bc203f) - 2026-03-17
 * [Commit] [vm/benchmark: add EVM performance benchmarks targeting mainnet bottlenecks (#19932)](https://github.com/erigontech/erigon/commit/a7c972baf86eadb3b035d624610b52cdeb9e7700) - 2026-03-17
 * [Review] [Review on: evm: accesList.Reset()](https://github.com/erigontech/erigon/pull/19983#pullrequestreview-3968769395) - 2026-03-18
+* [Review] [Review on: execution/vm: disable the value transfer in syscall](https://github.com/erigontech/erigon/pull/19277#pullrequestreview-3974192815) - 2026-03-19
+* [Review] [Review on: rpc: implement eth_getBlockAccessList (EIP-7928)](https://github.com/erigontech/erigon/pull/19929#pullrequestreview-3974029314) - 2026-03-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

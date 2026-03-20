@@ -55,3 +55,9 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Commit] [ci: add CI gate workflow (#19912)](https://github.com/erigontech/erigon/commit/9dd53176238683a3610c4cfc05145247b9ecf189) - 2026-03-18
 * [Commit] [node/cli: fix dotted CLI flags ignored in TOML/YAML config files (#19974)](https://github.com/erigontech/erigon/commit/a094862427b8bb032e89cd96847a1ac033226dbf) - 2026-03-18
 * [Commit] [ci: warm test-bench cache on push to main (#19968)](https://github.com/erigontech/erigon/commit/1c416b3d717661aaa28c90d6c6f4bbfcb5d0a0dc) - 2026-03-18
+* [Pull Request] [ci: consolidate RPC integration test workflows into a matrix](https://github.com/erigontech/erigon/pull/20017) - 2026-03-20
+* [Pull Request] [ci: update workflows for merge queue](https://github.com/erigontech/erigon/pull/20008) - 2026-03-19
+* [Review] [Review on: ci: cleanup manifest check — remove retired chains, fix endpoints, add hoodi](https://github.com/erigontech/erigon/pull/20014#pullrequestreview-3978322519) - 2026-03-19
+* [Review] [Review on: ci: add rpc integration tests to CI gate](https://github.com/erigontech/erigon/pull/19980#pullrequestreview-3972234788) - 2026-03-19
+* [Commit] [gitignore: ignore .claude/worktrees/ (#19963)](https://github.com/erigontech/erigon/commit/e3b1eac48a1bbbf1a5a2dc5be0282da5e79f4ce8) - 2026-03-19
+* [Commit] [ci: reduce benchmark check time from ~38 min to ~13 min (#19988)](https://github.com/erigontech/erigon/commit/66c8e99d025a7edbf3715e9e2628fe44d404a277) - 2026-03-19

@@ -29,6 +29,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 * [Review] [Review on: feat(benchmarks): add BAL benchmarks for the optimization strategies introduced by BALs](https://github.com/ethereum/execution-specs/pull/2197#pullrequestreview-3957545670) - 2026-03-17
 * [Commit] [feat(benchmarks): add BAL benchmarks for the optimization strategies introduced by BALs (#2197)](https://github.com/ethereum/execution-specs/commit/905db269e74e66748663f4bf97c83d89e97aa7ff) - 2026-03-17
+* [Pull Request] [fix(test-benchmarks): gas accounting for `test_account_access` when nonzero value](https://github.com/ethereum/execution-specs/pull/2530) - 2026-03-19
+* [Review] [Review on: fix(test-benchmarks): gas accounting for `test_account_access` when nonzero value](https://github.com/ethereum/execution-specs/pull/2530#pullrequestreview-3973692225) - 2026-03-19
+* [Commit] [fix(benchmarks): correct gas accounting for account_query value > 0 (#2530)](https://github.com/ethereum/execution-specs/commit/40badcfd3b42e41de19c32041eea10b6e62e2348) - 2026-03-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/pull/11391#pullrequestreview-3952860193) - 2026-03-16
 * [Review] [Review on: Update EIP-8141: add mempool policy](https://github.com/ethereum/EIPs/pull/11415#pullrequestreview-3957951837) - 2026-03-17

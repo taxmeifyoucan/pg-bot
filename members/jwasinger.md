@@ -23,6 +23,8 @@ Team: Geth
 * [Pull Request] [internal/ethapi: encode slotNumber as hex in RPCMarshalHeader](https://github.com/ethereum/go-ethereum/pull/34005) - 2026-03-13
 * [Commit] [internal/ethapi: encode slotNumber as hex in RPCMarshalHeader (#34005)](https://github.com/ethereum/go-ethereum/commit/ede376af8ea3b8f02c2649f8deab4e0764befbd2) - 2026-03-13
 * [Review] [Review on: all: devnet 3](https://github.com/ethereum/go-ethereum/pull/33930#pullrequestreview-3956232708) - 2026-03-16
+* [Pull Request] [core/vm: rework gas measurement for call variants](https://github.com/ethereum/go-ethereum/pull/33648) - 2026-03-19
+* [Commit] [core/vm: rework gas measurement for call variants (#33648)](https://github.com/ethereum/go-ethereum/commit/fd859638bd76d15b15468c9b2dea601035779769) - 2026-03-19
 ## Q4 2025
 
 

@@ -24,6 +24,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [wip] prune: use Put(Current) mdbx's method instead of DelCurrent+Put](https://github.com/erigontech/erigon/pull/19914#pullrequestreview-3953371371) - 2026-03-16
 * [Review] [Review on: [wip] flush: use `etl.IdentityLoadFunc` instead custom](https://github.com/erigontech/erigon/pull/19915#pullrequestreview-3953348879) - 2026-03-16
 * [Review] [Review on: Prune loosing progress](https://github.com/erigontech/erigon/pull/19898#pullrequestreview-3958764520) - 2026-03-17
+* [Review] [Review on: db/state: add DisableInterDomainDependencies for selective integrity bypass](https://github.com/erigontech/erigon/pull/20000#pullrequestreview-3974608435) - 2026-03-19
 ## Q4 2025
 
 

@@ -43,6 +43,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Match get_block_support_between_slots over-count from FCR spec](https://github.com/status-im/nimbus-eth2/pull/8109) - 2026-03-18
 * [Pull Request] [Collect data for compute_honest_ffg_support_for_current_target](https://github.com/status-im/nimbus-eth2/pull/8113) - 2026-03-18
 * [Pull Request] [Fix ci.yml warnings](https://github.com/status-im/nimbus-eth2/pull/8114) - 2026-03-18
+* [Pull Request] [Expose safe block in status bar](https://github.com/status-im/nimbus-eth2/pull/8135) - 2026-03-19
+* [Pull Request] [Advance FCR previous greatest checkpoint if it gets pruned](https://github.com/status-im/nimbus-eth2/pull/8132) - 2026-03-19
+* [Pull Request] [Fast Confirmation Rule test runner](https://github.com/status-im/nimbus-eth2/pull/8131) - 2026-03-19
+* [Pull Request] [Retain unrealized checkpoints for all blocks in current epoch](https://github.com/status-im/nimbus-eth2/pull/8129) - 2026-03-19
+* [Pull Request] [Show /opt when backfilling while optimistically synced](https://github.com/status-im/nimbus-eth2/pull/8136) - 2026-03-19
+* [Pull Request] [Reintroduce support to initialize Nimbus in single command](https://github.com/status-im/nimbus-eth2/pull/8134) - 2026-03-19
+* [Pull Request] [is_one_confirmed](https://github.com/status-im/nimbus-eth2/pull/8130) - 2026-03-19
+* [Pull Request] [Allow passing custom validator changes when making test blocks](https://github.com/status-im/nimbus-eth2/pull/8128) - 2026-03-19
+* [Pull Request] [Restart confirmation chain as needed by fast confirmation conditions](https://github.com/status-im/nimbus-eth2/pull/8072) - 2026-03-19
+* [Pull Request] [Fix shuffling data collection for checkpoint sync](https://github.com/status-im/nimbus-eth2/pull/8127) - 2026-03-19
 ## Q4 2025
 
 

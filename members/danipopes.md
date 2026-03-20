@@ -100,6 +100,8 @@ Team: Reth
 * [Pull Request] [chore: bump LLVM to 22](https://github.com/paradigmxyz/revmc/pull/138) - 2026-03-18
 * [Commit] [chore: bump LLVM to 22 (#138)](https://github.com/paradigmxyz/revmc/commit/46722078c0e09eb7ff1e04c59aed14edda97ebd8) - 2026-03-18
 * [Commit] [chore: add docs alias](https://github.com/paradigmxyz/revmc/commit/ad97d896d956f81ef959932ba2aa84d2b7e227e1) - 2026-03-18
+* [Pull Request] [fix: prevent SIGSEGV from concurrent LLVM context disposal in statetests](https://github.com/paradigmxyz/revmc/pull/140) - 2026-03-19
+* [Commit] [fix: prevent SIGSEGV from concurrent LLVM context disposal in statetests (#140)](https://github.com/paradigmxyz/revmc/commit/42e1474714c210a8eda03bc9dc4ad14b6b30a370) - 2026-03-19
 ## Q4 2025
 
 

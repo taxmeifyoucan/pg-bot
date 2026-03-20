@@ -117,6 +117,18 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Revert tracer aggregator (#10068)](https://github.com/besu-eth/besu/commit/c0063c430f06e1d5a55d3faca41b4b47d4bdd4d3) - 2026-03-18
 * [Commit] [fallback to resync (#10019)](https://github.com/besu-eth/besu/commit/94e9185617670d2fef56db6489b5e9a32f4012c3) - 2026-03-18
 * [Commit] [Fix eth/69 receipt encoding for Frontier tx (#9900)](https://github.com/besu-eth/besu/commit/e6ea938f6be8e2cdca288e60a4d1bd270be74b68) - 2026-03-18
+* [Pull Request] [receipt decoder - handle both formats at read time](https://github.com/besu-eth/besu/pull/10079) - 2026-03-20
+* [Review] [Review on: Return result from addBack during mulSubOverflow instead of ignoring it](https://github.com/besu-eth/besu/pull/10078#pullrequestreview-3978677902) - 2026-03-20
+* [Pull Request] [BlockchainUtilParameterizedTest - reduce key-pair generations](https://github.com/besu-eth/besu/pull/10072) - 2026-03-19
+* [Review] [Review on: return -38015 when tx gas exceeds block gas limit](https://github.com/besu-eth/besu/pull/10073#pullrequestreview-3972780768) - 2026-03-19
+* [Pull Request] [updated checkout and gradle wrapper actions](https://github.com/besu-eth/besu/pull/10077) - 2026-03-19
+* [Pull Request] [dependabot to watch github actions](https://github.com/besu-eth/besu/pull/10076) - 2026-03-19
+* [Pull Request] [Log block number/hash on receipts root mismatch for debugging](https://github.com/besu-eth/besu/pull/10071) - 2026-03-19
+* [Pull Request] [minimize setup for BesuCommandTest](https://github.com/besu-eth/besu/pull/10074) - 2026-03-19
+* [Review] [Review on: fix: use ConcurrentHashMap for plugin service registry thread safety](https://github.com/besu-eth/besu/pull/10069#pullrequestreview-3972222160) - 2026-03-19
+* [Review] [Review on: fix: prevent unsigned underflow in eth_feeHistory reward bounds](https://github.com/besu-eth/besu/pull/10060#pullrequestreview-3972269633) - 2026-03-19
+* [Review] [Review on: Bonsai archive seperate column families](https://github.com/besu-eth/besu/pull/10058#pullrequestreview-3972282788) - 2026-03-19
+* [Commit] [Log block number/hash on receipts root mismatch for debugging (#10071)](https://github.com/besu-eth/besu/commit/9e5e39aaacf7c79e8fed13da0a655baaa55667a1) - 2026-03-19
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

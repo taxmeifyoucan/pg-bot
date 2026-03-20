@@ -24,9 +24,11 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Review] [Review on: feat(test-fixture): add target opcode in output fixture](https://github.com/ethereum/execution-specs/pull/2520#pullrequestreview-3958491416) - 2026-03-17
 * [Issue] [perf: Improve gas consumption of While loop](https://github.com/ethereum/execution-specs/issues/2519) - 2026-03-17
 * [Review] [Review on: fix(src): preserve custom chain ID in pre-alloc groups and `extract_config`](https://github.com/ethereum/execution-specs/pull/2515#pullrequestreview-3968082879) - 2026-03-18
+* [Review] [Review on: fix(src): preserve custom chain ID in pre-alloc groups and `extract_config`](https://github.com/ethereum/execution-specs/pull/2515#pullrequestreview-3972756276) - 2026-03-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Add ETH burn logs and improve spec consistency](https://github.com/ethereum/EIPs/pull/11311) - 2026-02-13
 
+* [Review] [Review on: Update EIP-7928: Fix contradicting claim about fee recipient](https://github.com/ethereum/EIPs/pull/11420#pullrequestreview-3975381702) - 2026-03-19
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, core/vm:  Rename selfdestruct log to burn](https://github.com/ethereum/go-ethereum/pull/33851) - 2026-02-15
 * [Issue] [chore(Amsterdam): Break up tiered gas pricing](https://github.com/ethereum/go-ethereum/issues/33939) - 2026-03-03

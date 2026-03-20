@@ -131,6 +131,20 @@ Team: Erigon
 * [Review] [Review on: ci: warm test-bench cache on push to main](https://github.com/erigontech/erigon/pull/19968#pullrequestreview-3964968889) - 2026-03-18
 * [Review] [Review on: snapshotsync: make snapshot deletion idempotent](https://github.com/erigontech/erigon/pull/19930#pullrequestreview-3964668469) - 2026-03-18
 * [Pull Request] [[wip] garbage accessors left after merge](https://github.com/erigontech/erigon/pull/19964) - 2026-03-18
+* [Review] [Review on: ci: update workflows for merge queue](https://github.com/erigontech/erigon/pull/20008#pullrequestreview-3975571806) - 2026-03-19
+* [Review] [Review on: cl/p2p, cmd: add --caplin.nat flag for Docker/NAT external IP support](https://github.com/erigontech/erigon/pull/20013#pullrequestreview-3978530215) - 2026-03-19
+* [Review] [Review on: QA: disable temporary 3 eth_simulateV1](https://github.com/erigontech/erigon/pull/20015#pullrequestreview-3978529200) - 2026-03-19
+* [Pull Request] [db/state: fix spurious accessor rebuild for post-merge subset files](https://github.com/erigontech/erigon/pull/19987) - 2026-03-19
+* [Review] [Review on: db/state: add doMerge param to BuildFiles2](https://github.com/erigontech/erigon/pull/20001#pullrequestreview-3973690615) - 2026-03-19
+* [Review] [Review on: db/state: fix spurious accessor rebuild for post-merge subset files](https://github.com/erigontech/erigon/pull/19965#pullrequestreview-3972190721) - 2026-03-19
+* [Review] [Review on: db/state: add DisableInterDomainDependencies for selective integrity bypass](https://github.com/erigontech/erigon/pull/20000#pullrequestreview-3973709542) - 2026-03-19
+* [Review] [Review on: cmd/utils/app: refactor DeleteStateSnapshots to use args struct](https://github.com/erigontech/erigon/pull/20005#pullrequestreview-3974105832) - 2026-03-19
+* [Review] [Review on: cl: fall back to local head state when remote checkpoint sync fails](https://github.com/erigontech/erigon/pull/19998#pullrequestreview-3973780738) - 2026-03-19
+* [Review] [Review on: db/state: add HistoryKeyTxNumRange API](https://github.com/erigontech/erigon/pull/19999#pullrequestreview-3973717598) - 2026-03-19
+* [Pull Request] [agg: remove bg indexing](https://github.com/erigontech/erigon/pull/19989) - 2026-03-19
+* [Pull Request] [skill: exec from 0](https://github.com/erigontech/erigon/pull/20002) - 2026-03-19
+* [Review] [Review on: qa-tests: fix fd-leak-analysis artifact name in 'sync with external cl' test](https://github.com/erigontech/erigon/pull/19775#pullrequestreview-3973658619) - 2026-03-19
+* [Review] [Review on: qa-tests: add test results to the daily repo status](https://github.com/erigontech/erigon/pull/19869#pullrequestreview-3973657344) - 2026-03-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

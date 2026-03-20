@@ -56,6 +56,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [changing grpc proposer preferences to take array instead ](https://github.com/OffchainLabs/prysm/pull/16554) - 2026-03-18
 * [Review] [Review on: p2p: add execution payload bid gossip topic and verification](https://github.com/OffchainLabs/prysm/pull/16539#pullrequestreview-3970825812) - 2026-03-18
 * [Review] [Review on: gloas validator client proposer preferences](https://github.com/OffchainLabs/prysm/pull/16548#pullrequestreview-3969368954) - 2026-03-18
+* [Review] [Review on: p2p: add execution payload bid gossip topic and verification](https://github.com/OffchainLabs/prysm/pull/16539#pullrequestreview-3975978552) - 2026-03-19
+* [Review] [Review on: V7.1.3 changelog](https://github.com/OffchainLabs/prysm/pull/16555#pullrequestreview-3978036700) - 2026-03-19
+* [Review] [Review on: implementing envelope rest apis ](https://github.com/OffchainLabs/prysm/pull/16522#pullrequestreview-3978218771) - 2026-03-19
+* [Review] [Review on: Get block v4](https://github.com/OffchainLabs/prysm/pull/16488#pullrequestreview-3978010028) - 2026-03-19
+* [Review] [Review on: Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16541#pullrequestreview-3974961864) - 2026-03-19
+* [Review] [Review on: split distributed validator components via an abstracted aggregator selector](https://github.com/OffchainLabs/prysm/pull/16509#pullrequestreview-3975114582) - 2026-03-19
+* [Commit] [changing grpc proposer preferences to take array instead  (#16554)](https://github.com/OffchainLabs/prysm/commit/696a08f3b9e7e7f923c41e978b01f8b182e3abe3) - 2026-03-19
 ## Q4 2025
 
 

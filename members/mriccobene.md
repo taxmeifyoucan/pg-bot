@@ -24,6 +24,8 @@ Team: Erigon
 * [Pull Request] [qa-tests: fix test report](https://github.com/erigontech/erigon/pull/19960) - 2026-03-17
 * [Commit] [qa-tests: fix test report (#19960)](https://github.com/erigontech/erigon/commit/2d8450f5da7fc3a82b712d83350709de79e48519) - 2026-03-18
 * [Review] [Review on: ci: add rpc integration tests to CI gate](https://github.com/erigontech/erigon/pull/19980#pullrequestreview-3968646534) - 2026-03-18
+* [Review] [Review on: ci: update workflows for merge queue](https://github.com/erigontech/erigon/pull/20008#pullrequestreview-3975025822) - 2026-03-19
+* [Review] [Review on: skill: exec from 0](https://github.com/erigontech/erigon/pull/20002#pullrequestreview-3973671537) - 2026-03-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529) - 2026-03-13
 * [Commit] [more verbose error messagge (#529)](https://github.com/erigontech/rpc-tests/commit/34b1c609e2d04cd26f8070821e3ca12bb6d673d4) - 2026-03-14

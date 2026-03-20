@@ -29,6 +29,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: add aggregated attestation inclusion distance](https://github.com/ethpandaops/dora/pull/610) - 2026-03-18
 * [Commit] [Merge pull request #610 from ethpandaops/feat/attestation-inclusion-distance](https://github.com/ethpandaops/dora/commit/4b05c624128f6cc2cdabae71eb428b86c39e01bd) - 2026-03-18
 * [Commit] [feat: add aggregated attestation inclusion distance](https://github.com/ethpandaops/dora/commit/06dec3dbe15ecbbb88117668bee19407ad08ee04) - 2026-03-18
+* [Pull Request] [ci: update GitHub Actions to fix Node.js 20 deprecation warnings](https://github.com/ethpandaops/dora/pull/616) - 2026-03-19
+* [Pull Request] [fix: load validator names inventory before yaml ranges](https://github.com/ethpandaops/dora/pull/615) - 2026-03-19
+* [Commit] [Merge pull request #606 from ethpandaops/support-slot-duration-ms](https://github.com/ethpandaops/dora/commit/d0624ac4225b4b8c011bf88aad51addd3e4cd723) - 2026-03-19
+* [Commit] [Merge pull request #616 from ethpandaops/chore/update-gh-actions-node22](https://github.com/ethpandaops/dora/commit/e3f360012d824ca3b90467cc73b37fce85a0b531) - 2026-03-19
+* [Commit] [ci: update GitHub Actions to fix Node.js 20 deprecation warnings](https://github.com/ethpandaops/dora/commit/be43d46cc7d674815e9c1fb63b9b717a534961a5) - 2026-03-19
+* [Commit] [Merge pull request #615 from ethpandaops/fix/validator-names-load-order](https://github.com/ethpandaops/dora/commit/347c92690bde05e9276607b61232a4115dc6ecbb) - 2026-03-19
+* [Commit] [fix: load validator names inventory before yaml ranges](https://github.com/ethpandaops/dora/commit/59da652a0cc0b84e11f11b6c26059f62f8089197) - 2026-03-19
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [fix: add triple-beam dependency to package.json](https://github.com/ChainSafe/lodestar/pull/8736) - 2026-01-12
 * [Pull Request] [feat: implement eip 7843](https://github.com/ChainSafe/lodestar/pull/8747) - 2026-01-16
@@ -76,6 +83,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16541#pullrequestreview-3956612941) - 2026-03-16
 * [Pull Request] [Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16540) - 2026-03-16
 
+* [Pull Request] [fix: add missing ePBS values to /eth/v1/config/spec](https://github.com/OffchainLabs/prysm/pull/16557) - 2026-03-19
+* [Commit] [Include commit hash in /eth/v1/node/version (#16541)](https://github.com/OffchainLabs/prysm/commit/6430e27257b0876c886683291d57869007a3a03c) - 2026-03-19
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/status-im/nimbus-eth1/pull/4045) - 2026-03-18
 * [Commit] [fix: update kurtosis apt source to sdk.kurtosis.com (#4045)](https://github.com/status-im/nimbus-eth1/commit/2e139eabeb7f9c6311deef69cda906322b6b39a2) - 2026-03-18

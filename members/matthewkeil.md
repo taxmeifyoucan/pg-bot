@@ -20,6 +20,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: fix peerdas metrics](https://github.com/ChainSafe/lodestar/pull/8920#pullrequestreview-3956859452) - 2026-03-16
 * [Pull Request] [feat: cell level das](https://github.com/ChainSafe/lodestar/pull/9053) - 2026-03-17
 * [Review] [Review on: docs: update docs favicon to current Lodestar logo](https://github.com/ChainSafe/lodestar/pull/9058#pullrequestreview-3964941622) - 2026-03-18
+* [Review] [Review on: chore: v1.41.0 release](https://github.com/ChainSafe/lodestar/pull/9038#pullrequestreview-3976896350) - 2026-03-19
+* [Commit] [chore: merge stable 1.41.0 back to unstable (#9066)](https://github.com/ChainSafe/lodestar/commit/5f2fffc2ceaedbd87e7d25a847e07da85ce48bb9) - 2026-03-19
+* [Commit] [chore: v1.41.0 release (#9038)](https://github.com/ChainSafe/lodestar/commit/13e882a3a430d6df25a408b61b24954277e1f8e8) - 2026-03-19
 ## Q4 2025
 
 

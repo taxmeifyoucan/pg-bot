@@ -25,6 +25,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [Add API endpoint for consensus client head forks](https://github.com/ethpandaops/dora/pull/609) - 2026-03-17
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: clients/erigon: bump Go builder image to 1.25.7](https://github.com/ethereum/hive/pull/1407#pullrequestreview-3975811643) - 2026-03-19
 ## Q4 2025
 
 

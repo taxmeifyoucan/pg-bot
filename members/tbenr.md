@@ -44,6 +44,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Javalin7 (#10484)](https://github.com/Consensys/teku/commit/a64f79901e0641912a01e4251f4ed4167918dfcf) - 2026-03-16
 * [Commit] [Rest API virtual threads (#10495)](https://github.com/Consensys/teku/commit/72af7be3a58db4719ae398cc7b8db708ce6c79bf) - 2026-03-17
 * [Review] [Review on: v1.7.0-alpha.3 Gloas changes](https://github.com/Consensys/teku/pull/10503#pullrequestreview-3967733983) - 2026-03-18
+* [Pull Request] [Migrate `EventChannel` to virtual threads (feature flag)](https://github.com/Consensys/teku/pull/10426) - 2026-03-19
+* [Issue] [Develop docker fails to start](https://github.com/Consensys/teku/issues/10512) - 2026-03-19
+* [Commit] [Migrate `EventChannel` to virtual threads (feature flag) (#10426)](https://github.com/Consensys/teku/commit/065e46ae4aef21ac45c0f46ab41aba39b421a823) - 2026-03-19
 ## Q4 2025
 
 

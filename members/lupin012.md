@@ -43,6 +43,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: guard eth_createAccessList when from is omitted](https://github.com/erigontech/erigon/pull/19947#pullrequestreview-3963389033) - 2026-03-17
 * [Pull Request] [rpc: eth_gasPrice() fix & optimisation](https://github.com/erigontech/erigon/pull/19678) - 2026-03-17
 * [Commit] [rpc: eth_gasPrice() fix & optimisation (#19678)](https://github.com/erigontech/erigon/commit/f1cb4756d029092800050d7e9ffc064b69ca6641) - 2026-03-17
+* [Review] [Review on: hive: reset max-allowed-failures for rpc-compat](https://github.com/erigontech/erigon/pull/20011#pullrequestreview-3976909115) - 2026-03-19
+* [Pull Request] [QA: disable temporary 3 eth_simulateV1](https://github.com/erigontech/erigon/pull/20015) - 2026-03-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15

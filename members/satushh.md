@@ -20,3 +20,5 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Voluntary exit gloas (#16527)](https://github.com/OffchainLabs/prysm/commit/93f7214b32b7e78cba08762e820ce011d113e66a) - 2026-03-17
 * [Review] [Review on: Fix envelopes-by-range to only serve canonical payloads backward](https://github.com/OffchainLabs/prysm/pull/16553#pullrequestreview-3968755391) - 2026-03-18
 * [Commit] [Correct log in VerifyBlobKZGProofBatch (#16552)](https://github.com/OffchainLabs/prysm/commit/a6e669d8bcc849e4aad32101d45502d1ce72c4c8) - 2026-03-18
+* [Review] [Review on: Fix envelopes-by-range to only serve canonical payloads backward](https://github.com/OffchainLabs/prysm/pull/16553#pullrequestreview-3975214433) - 2026-03-19
+* [Pull Request] [Preallocate validatorKeys slice in insertValidatorHashes](https://github.com/OffchainLabs/prysm/pull/16558) - 2026-03-19

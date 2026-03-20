@@ -71,6 +71,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Re-enable ReadyToRun AOT compilation (#10848)](https://github.com/NethermindEth/nethermind/commit/ea5ce04633b00ef6790468a7d8cdf2801914e7c7) - 2026-03-18
 * [Commit] [Fix event handler leaks, reduce allocations, and refactor Network layer (#10753)](https://github.com/NethermindEth/nethermind/commit/db2ef91db7b880273bb016a1334e91b865f97f5e) - 2026-03-18
 * [Commit] [fix: prevent torn reads of TrieNode._rlp using seqlock pattern (#10857)](https://github.com/NethermindEth/nethermind/commit/f40ae6dd52267c3439a9f230b91b3d0a348735e5) - 2026-03-18
+* [Pull Request] [perf: full PGO data, cross-module inlining, Pettis-Hansen method layout](https://github.com/NethermindEth/nethermind/pull/10877) - 2026-03-19
+* [Pull Request] [feat: add --force-resync and --purge-db CLI flags](https://github.com/NethermindEth/nethermind/pull/10871) - 2026-03-19
+* [Pull Request] [feat: restore edge/block collection and runtime consumption](https://github.com/NethermindEth/nethermind/pull/10869) - 2026-03-19
+* [Pull Request] [Remove EOF](https://github.com/NethermindEth/nethermind/pull/10866) - 2026-03-19
+* [Commit] [feat: add --force-resync and --purge-db CLI flags (#10871)](https://github.com/NethermindEth/nethermind/commit/d7aa75c66d1b9a7c07a2bbe84e1bb2070b6aceab) - 2026-03-19
+* [Commit] [feat: restore edge/block collection and runtime consumption (#10869)](https://github.com/NethermindEth/nethermind/commit/42f21ae43d0bb7990fb7900a34d7ed9ee9c57efe) - 2026-03-19
+* [Commit] [Remove EOF (#10866)](https://github.com/NethermindEth/nethermind/commit/2d4d09ace1374f92640170393b69b53868f57827) - 2026-03-19
 ## Q4 2025
 
 

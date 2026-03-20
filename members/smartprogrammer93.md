@@ -30,6 +30,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Update agent rules and review skill](https://github.com/NethermindEth/nethermind/pull/10733#pullrequestreview-3943145723) - 2026-03-13
 * [Review] [Review on: fix(ci): free disk space for Pyspec test jobs](https://github.com/NethermindEth/nethermind/pull/10845#pullrequestreview-3956843392) - 2026-03-16
 * [Pull Request] [feat(bench): add engine_newPayload benchmark and enhance BlockProcessingBenchmark](https://github.com/NethermindEth/nethermind/pull/10855) - 2026-03-18
+* [Review] [Review on: FCU to canonical ancestor silently ignored, leaving descendants canonical](https://github.com/NethermindEth/nethermind/pull/10876#pullrequestreview-3976855042) - 2026-03-19
+* [Review] [Review on: Fix test chainspec configuration to prevent spurious misconfiguration warnings](https://github.com/NethermindEth/nethermind/pull/10881#pullrequestreview-3977513553) - 2026-03-19
+* [Review] [Review on: Fix flaky test: Broadcast_BlockRangeUpdate_when_latest_increased_enough](https://github.com/NethermindEth/nethermind/pull/10886#pullrequestreview-3977489970) - 2026-03-19
+* [Review] [Review on: Fix flaky test: replace polling with signal-based loop in BecomesNewHead](https://github.com/NethermindEth/nethermind/pull/10884#pullrequestreview-3977474202) - 2026-03-19
+* [Review] [Review on: chore: Unify precompile naming](https://github.com/NethermindEth/nethermind/pull/10875#pullrequestreview-3976733038) - 2026-03-19
+* [Review] [Review on: chore: Revise `CODEOWNERS`](https://github.com/NethermindEth/nethermind/pull/10874#pullrequestreview-3976731146) - 2026-03-19
+* [Issue] [Flaky test: Broadcast_BlockRangeUpdate_when_latest_increased_enough — missed intermediate notification](https://github.com/NethermindEth/nethermind/issues/10885) - 2026-03-19
+* [Issue] [Flaky test: Can_change_branch_on_invalid_block_when_invalid_branch_is_in_the_queue — timing-dependent head assertion](https://github.com/NethermindEth/nethermind/issues/10883) - 2026-03-19
+* [Issue] [Flaky test: E2ESyncTests.SnapSync fails with ArgumentException in SnapshotRepository](https://github.com/NethermindEth/nethermind/issues/10879) - 2026-03-19
+* [Issue] [Spurious warning: "Chainspec file is misconfigured! Timestamp transition is configured to happen before the last block transition"](https://github.com/NethermindEth/nethermind/issues/10880) - 2026-03-19
 ## Q3 2025
 
 

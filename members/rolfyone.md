@@ -100,6 +100,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Add GET /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10465#pullrequestreview-3971806417) - 2026-03-19
 * [Review] [Review on: Safely deactivate deneb features in fulu](https://github.com/Consensys/teku/pull/10502#pullrequestreview-3965288948) - 2026-03-18
 * [Commit] [updated constants for 1.7.0-alpha.3 (#10500)](https://github.com/Consensys/teku/commit/e42c209e4fe167e7497c5e9fc438bb0c1ceda20c) - 2026-03-18
+* [Pull Request] [updated 3rd party libs](https://github.com/Consensys/teku/pull/10514) - 2026-03-19
+* [Review] [Review on: Added a new scheduler to potentially replace quartz](https://github.com/Consensys/teku/pull/10480#pullrequestreview-3978116343) - 2026-03-19
+* [Pull Request] [Updated CreateAttestationData to pass optional index down](https://github.com/Consensys/teku/pull/10509) - 2026-03-19
+* [Commit] [updated 3rd party libs (#10514)](https://github.com/Consensys/teku/commit/cbf8ff176beae20b149e2971cc94dced47203583) - 2026-03-20
+* [Commit] [Added a new scheduler to potentially replace quartz (#10480)](https://github.com/Consensys/teku/commit/b811dad9c941c2c030f3526073a00e76847ae95b) - 2026-03-20
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

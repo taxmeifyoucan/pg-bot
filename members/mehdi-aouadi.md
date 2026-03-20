@@ -41,6 +41,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [Caffeine cache](https://github.com/Consensys/teku/pull/10506) - 2026-03-18
 * [Pull Request] [Caffeine cache](https://github.com/Consensys/teku/pull/10505) - 2026-03-18
 * [Pull Request] [gloas DA checks](https://github.com/Consensys/teku/pull/10504) - 2026-03-18
+* [Pull Request] [replay execution payload when regenrating states](https://github.com/Consensys/teku/pull/10511) - 2026-03-19
+* [Review] [Review on: replay execution payload when regenrating states](https://github.com/Consensys/teku/pull/10511#pullrequestreview-3975902508) - 2026-03-19
 ## Q4 2025
 
 

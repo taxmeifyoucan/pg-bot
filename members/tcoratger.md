@@ -73,3 +73,17 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [air: some debugging improvements (#1431)](https://github.com/Plonky3/Plonky3/commit/e7bd2107ed7a0ec73a86d912aa8aa88ac9fd7af3) - 2026-03-18
 * [Commit] [matrix: add `from_flat_padded` and `widen_right` (#1449)](https://github.com/Plonky3/Plonky3/commit/6590aa1136947f3216c8a5d59f940109ba1ab88b) - 2026-03-18
 * [Commit] [matrix: add pad_to_min_power_of_two_height (#1448)](https://github.com/Plonky3/Plonky3/commit/e3ca452cf54c4ca7236c0fea413082a1688f5660) - 2026-03-18
+* [Pull Request] [mds: small improvements and more testing](https://github.com/Plonky3/Plonky3/pull/1459) - 2026-03-19
+* [Review] [Review on: mds: small improvements and more testing](https://github.com/Plonky3/Plonky3/pull/1459#pullrequestreview-3975611410) - 2026-03-19
+* [Pull Request] [field: rm unused `packed_linear_combination`](https://github.com/Plonky3/Plonky3/pull/1460) - 2026-03-19
+* [Pull Request] [field: implement packed / packed division](https://github.com/Plonky3/Plonky3/pull/1457) - 2026-03-19
+* [Review] [Review on: field: implement packed / packed division](https://github.com/Plonky3/Plonky3/pull/1457#pullrequestreview-3975735517) - 2026-03-19
+* [Review] [Review on: Make batched_linear_combination chunk size per-impl tunable](https://github.com/Plonky3/Plonky3/pull/1451#pullrequestreview-3974118697) - 2026-03-19
+* [Review] [Review on: logup: better memory allocation](https://github.com/Plonky3/Plonky3/pull/1455#pullrequestreview-3975937442) - 2026-03-19
+* [Review] [Review on: fix(batch-stark): validate per-instance global lookup data count](https://github.com/Plonky3/Plonky3/pull/1458#pullrequestreview-3975661340) - 2026-03-19
+* [Review] [Review on: matrix: implement BitReversibleMatrix for wrapper types](https://github.com/Plonky3/Plonky3/pull/1456#pullrequestreview-3974044413) - 2026-03-19
+* [Review] [Review on: air: add dag types for symbolic expression trees](https://github.com/Plonky3/Plonky3/pull/1454#pullrequestreview-3973909551) - 2026-03-19
+* [Review] [Review on: feat: expose arity schedule](https://github.com/Plonky3/Plonky3/pull/1433#pullrequestreview-3973595147) - 2026-03-19
+* [Commit] [field: rm unused packed_linear_combination (#1460)](https://github.com/Plonky3/Plonky3/commit/d77ed5f5622c843c9cb4e686d634d8345fffb36a) - 2026-03-19
+* [Commit] [logup: better memory allocation (#1455)](https://github.com/Plonky3/Plonky3/commit/c661c81e2cd49c0de718891fcdb05735aa93a325) - 2026-03-19
+* [Commit] [uni-stark: richer verification errors (#1453)](https://github.com/Plonky3/Plonky3/commit/8b8bcc404195902885bc205e9572e27fea094b50) - 2026-03-19

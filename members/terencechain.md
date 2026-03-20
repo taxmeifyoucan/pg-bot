@@ -70,6 +70,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [rpc: add SubmitSignedProposerPreferences gRPC endpoint (#16538)](https://github.com/OffchainLabs/prysm/commit/605ab1c7ace5f7dc6b016c6239ca762fd1aacb35) - 2026-03-17
 * [Review] [Review on: changing grpc proposer preferences to take array instead ](https://github.com/OffchainLabs/prysm/pull/16554#pullrequestreview-3968580068) - 2026-03-18
 * [Pull Request] [ Fix forkchoice safe/finalized hash for reorged payloads](https://github.com/OffchainLabs/prysm/pull/16556) - 2026-03-18
+* [Pull Request] [Fix forkchoice to update node weights on balance changes](https://github.com/OffchainLabs/prysm/pull/16560) - 2026-03-20
+* [Review] [Review on: p2p: add execution payload bid gossip topic and verification](https://github.com/OffchainLabs/prysm/pull/16539#pullrequestreview-3972136199) - 2026-03-19
+* [Review] [Review on: gloas validator client proposer preferences](https://github.com/OffchainLabs/prysm/pull/16548#pullrequestreview-3978465389) - 2026-03-19
+* [Pull Request] [sync: reject index-1 atts when payload is unseen](https://github.com/OffchainLabs/prysm/pull/16559) - 2026-03-19
+* [Commit] [Fix envelopes-by-range to only serve canonical payloads backward (#16553)](https://github.com/OffchainLabs/prysm/commit/e77724401dfb42689fc877e7b3c487bd06ab9d8e) - 2026-03-19
+* [Commit] [p2p: add execution payload bid gossip topic and verification (#16539)](https://github.com/OffchainLabs/prysm/commit/f43ba7851c9c799fcfc34dbbc0e9e7dd44cf6bc9) - 2026-03-19
+* [Commit] [sync: reject index-1 atts when payload is unseen (#16559)](https://github.com/OffchainLabs/prysm/commit/b141b5ccd241c90e9da9c8f67e362d0ce61d3f2d) - 2026-03-19
 ## Q4 2025
 
 

@@ -20,6 +20,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [eth/71 - Serve block access lists to peers](https://github.com/status-im/nimbus-eth1/pull/4035) - 2026-03-06
 * [Pull Request] [Vertex as object instead of ref object](https://github.com/status-im/nimbus-eth1/pull/4039) - 2026-03-10
 * [Pull Request] [Vertex ref object](https://github.com/status-im/nimbus-eth1/pull/4041) - 2026-03-17
+* [Review] [Review on: server_api: use core_apps directly instead of LedgerRef](https://github.com/status-im/nimbus-eth1/pull/4049#pullrequestreview-3974722084) - 2026-03-19
+* [Pull Request] [Use stack allocated VertexBuf instead of VertexRef in RDB LruCache](https://github.com/status-im/nimbus-eth1/pull/4048) - 2026-03-19
+* [Review] [Review on: Use stack allocated VertexBuf instead of VertexRef in RDB LruCache](https://github.com/status-im/nimbus-eth1/pull/4048#pullrequestreview-3973136093) - 2026-03-19
 ## Q4 2025
 
 

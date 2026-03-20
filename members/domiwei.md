@@ -34,6 +34,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/caplin: fix intermittent 0-peer sync failures on Gnosis  (#19946)](https://github.com/erigontech/erigon/commit/4dc802f29270f67e7366d86520dec467d3c8d167) - 2026-03-18
 * [Commit] [rpc: auto-convert legacy blob sidecar to v1 cell proofs after Osaka (#19950)](https://github.com/erigontech/erigon/commit/c35a4662df80ed16c04cf3873408b85f26d01fd3) - 2026-03-17
 * [Pull Request] [stagedsync: replace TxLookup prune full-table scan with block-based deletion](https://github.com/erigontech/erigon/pull/19975) - 2026-03-18
+* [Pull Request] [cl: fall back to local head state when remote checkpoint sync fails (backport #19998)](https://github.com/erigontech/erigon/pull/20003) - 2026-03-19
+* [Pull Request] [cl: fall back to local head state when remote checkpoint sync fails (backport #19998)](https://github.com/erigontech/erigon/pull/20004) - 2026-03-19
+* [Pull Request] [cl: fall back to local head state when remote checkpoint sync fails](https://github.com/erigontech/erigon/pull/19998) - 2026-03-19
+* [Commit] [cl: fall back to local head state when remote checkpoint sync fails (#19998)](https://github.com/erigontech/erigon/commit/ce3e318022d4d79277a3e492323f2ef702cfa17b) - 2026-03-19
 ## Q3 2025
 
 

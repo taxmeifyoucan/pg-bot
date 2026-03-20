@@ -31,6 +31,7 @@ Team: EthereumJS
 * [Pull Request] [vm: Consume BAL function](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4264) - 2026-03-13
 * [Pull Request] [7708 fix: SELFDESTRUCT finalization logs](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4263) - 2026-03-13
 * [Commit] [7708 fix: SELFDESTRUCT finalization logs (#4263)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/975ea8162a962a7203a1f07e71e62d21fd37c37c) - 2026-03-18
+* [Review] [Review on: fix: replace typeof window DEBUG checks with globalThis.process](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4265#pullrequestreview-3976135926) - 2026-03-19
 ## Q4 2025
 
 

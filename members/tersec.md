@@ -37,6 +37,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [display disk and memory resources on Linux and disk resources on macOS](https://github.com/status-im/nimbus-eth2/pull/8099) - 2026-03-17
 * [Review] [Review on: draft: branch for partial messages](https://github.com/status-im/nimbus-eth2/pull/8066#pullrequestreview-3957894317) - 2026-03-17
 * [Review] [Review on: download execution payload envelope during checkpoint sync](https://github.com/status-im/nimbus-eth2/pull/8093#pullrequestreview-3969985148) - 2026-03-18
+* [Review] [Review on: Unify Fulu fork digest handling into BPO list](https://github.com/status-im/nimbus-eth2/pull/8075#pullrequestreview-3977630362) - 2026-03-19
+* [Review] [Review on: fix Gloas dag init](https://github.com/status-im/nimbus-eth2/pull/8090#pullrequestreview-3976286673) - 2026-03-19
+* [Review] [Review on: Check parent block full](https://github.com/status-im/nimbus-eth2/pull/7664#pullrequestreview-3975715544) - 2026-03-19
+* [Review] [Review on: download execution payload envelope during checkpoint sync](https://github.com/status-im/nimbus-eth2/pull/8093#pullrequestreview-3974868902) - 2026-03-19
 ## Q4 2025
 
 

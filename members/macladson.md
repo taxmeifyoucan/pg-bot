@@ -39,6 +39,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Update `/rewards` endpoints to match spec](https://github.com/sigp/lighthouse/pull/8967#pullrequestreview-3935414709) - 2026-03-12
 * [Review] [Review on: Remove `lighthouse/analysis` endpoints](https://github.com/sigp/lighthouse/pull/8968#pullrequestreview-3963111588) - 2026-03-17
 * [Pull Request] [Bump `warp` and begin `axum` migration](https://github.com/sigp/lighthouse/pull/9001) - 2026-03-18
+* [Pull Request] [Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006) - 2026-03-19
+* [Review] [Review on: Add ipc support in --execution-endpoint](https://github.com/sigp/lighthouse/pull/8802#pullrequestreview-3974552708) - 2026-03-19
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [Use `hashlink::LruCache` instead of `lru::LruCache`](https://github.com/sigp/discv5/pull/294) - 2026-01-10
 ## Q4 2025

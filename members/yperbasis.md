@@ -108,6 +108,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: commitment: add persistent branch cache across Process() calls](https://github.com/erigontech/erigon/pull/19954#pullrequestreview-3968015850) - 2026-03-18
 * [Pull Request] [Add automated tests for block production with execution requests](https://github.com/erigontech/erigon/pull/19981) - 2026-03-18
 * [Commit] [types: deduplicate types across packages (#19979)](https://github.com/erigontech/erigon/commit/c9728104f2f6e3db36ba2ffb2b890e9b3ec86d08) - 2026-03-18
+* [Review] [Review on: [SharovBot] execution: fix data race between PriorityQueue.Close() and worker Add()](https://github.com/erigontech/erigon/pull/19889#pullrequestreview-3974557098) - 2026-03-19
+* [Review] [Review on: txpool: avoid repeated sender registration across StateChangeBatch diffs](https://github.com/erigontech/erigon/pull/18716#pullrequestreview-3974568876) - 2026-03-19
+* [Pull Request] [txpool: fix goroutine leak in Fetch on shutdown](https://github.com/erigontech/erigon/pull/20006) - 2026-03-19
+* [Review] [Review on: txpool: proactive dormancy-based eviction of stale queued transactions](https://github.com/erigontech/erigon/pull/19862#pullrequestreview-3974590570) - 2026-03-19
+* [Review] [Review on: WIP: Gloas upgrade](https://github.com/erigontech/erigon/pull/18956#pullrequestreview-3974516254) - 2026-03-19
+* [Commit] [rpc: implement eth_getBlockAccessList (EIP-7928) (#19929)](https://github.com/erigontech/erigon/commit/7c84bd98b9a6fcdc874ab582bbf6a0e65574fe5a) - 2026-03-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

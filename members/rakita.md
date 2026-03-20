@@ -59,6 +59,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [Update EIP-7708: Clarify transaction transfer to different account](https://github.com/ethereum/EIPs/pull/11188) - 2026-01-27
 * [Pull Request] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355) - 2026-03-10
 * [Commit] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/commit/248b653f875c244ebdfdaed94d8ef54e54574b00) - 2026-03-10
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [feat(evm): integrate revm state-gas branch (EIP-8037)](https://github.com/paradigmxyz/reth/pull/23116) - 2026-03-19
 ## Q4 2025
 
 

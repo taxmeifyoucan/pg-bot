@@ -16,6 +16,8 @@ Team: Geth
 
 * [Pull Request] [build: remove circleci config](https://github.com/ethereum/go-ethereum/pull/33616) - 2026-01-15
 * [Pull Request] []() - 2026-01-17
+* [Pull Request] [all: add bogota fork](https://github.com/ethereum/go-ethereum/pull/34057) - 2026-03-19
+* [Review] [Review on: core/vm: rework gas measurement for call variants](https://github.com/ethereum/go-ethereum/pull/33648#pullrequestreview-3976197013) - 2026-03-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-5069: add concept of associate editors](https://github.com/ethereum/EIPs/pull/11035) - 2026-01-06
 

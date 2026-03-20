@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q1 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Add EIP: Quick Slots](https://github.com/ethereum/EIPs/pull/11426) - 2026-03-19
 ## Q4 2025
 
 

@@ -42,6 +42,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Check logs RLP](https://github.com/NethermindEth/nethermind/pull/10862) - 2026-03-18
 * [Review] [Review on: feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807#pullrequestreview-3967341334) - 2026-03-18
 * [Review] [Review on: Fix event handler leaks, reduce allocations, and refactor Network layer](https://github.com/NethermindEth/nethermind/pull/10753#pullrequestreview-3967330785) - 2026-03-18
+* [Review] [Review on: chore: Unify precompile naming](https://github.com/NethermindEth/nethermind/pull/10875#pullrequestreview-3976749224) - 2026-03-19
+* [Review] [Review on: chore: Revise `CODEOWNERS`](https://github.com/NethermindEth/nethermind/pull/10874#pullrequestreview-3976751787) - 2026-03-19
+* [Commit] [Check logs RLP (#10862)](https://github.com/NethermindEth/nethermind/commit/f8aea69d5b1b014cbb48f73a2ead13ff4562faaa) - 2026-03-19
 ## Q4 2025
 
 

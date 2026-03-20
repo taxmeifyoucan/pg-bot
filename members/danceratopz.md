@@ -49,6 +49,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(test-benchmark): marker filter logic](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3966825708) - 2026-03-18
 * [Pull Request] [refactor(tests,test-fill): rename `json_loader` pytest marker to `eels_base_coverage`](https://github.com/ethereum/execution-specs/pull/2524) - 2026-03-18
 * [Commit] [chore(docs): don't include `ported_static` tests in mkdocs (#2525)](https://github.com/ethereum/execution-specs/commit/9c88d603384c3d4ef787d1acabe0ecc2f03d5b69) - 2026-03-18
+* [Review] [Review on: refactor(test-benchmark): marker filter logic](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3974746130) - 2026-03-19
+* [Review] [Review on: chore(ci): warn when local markdownlint-cli2 version diverges from CI](https://github.com/ethereum/execution-specs/pull/2513#pullrequestreview-3973812257) - 2026-03-19
+* [Pull Request] [chore(ci): enable ported static in py3 and split into 5 parallel fork-range runners](https://github.com/ethereum/execution-specs/pull/2529) - 2026-03-19
+* [Review] [Review on: fix(test-benchmarks): gas accounting for `test_account_access` when nonzero value](https://github.com/ethereum/execution-specs/pull/2530#pullrequestreview-3973581001) - 2026-03-19
+* [Pull Request] [chore(ci): [Experiment] split py3 job into 6 pytest-split groups](https://github.com/ethereum/execution-specs/pull/2528) - 2026-03-19
+* [Issue] [Enable `vulture` dead code checks in CI](https://github.com/ethereum/execution-specs/issues/2531) - 2026-03-19
+* [Commit] [chore(ci): warn when local markdownlint-cli2 version diverges from CI (#2513)](https://github.com/ethereum/execution-specs/commit/9a289233151fe0cd22bc2975bd4b480e1d88b794) - 2026-03-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 
@@ -61,6 +68,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [libhive,hiveview: Track per-test client log ranges for better reporting](https://github.com/ethereum/hive/pull/1402) - 2026-03-17
 * [Review] [Review on: libhive,hiveview: Track per-test client log ranges for better reporting](https://github.com/ethereum/hive/pull/1402#pullrequestreview-3962214348) - 2026-03-17
 * [Commit] [libhive,hiveview: track per-test client log ranges for better reporting (#1402)](https://github.com/ethereum/hive/commit/1fc72ff41ba0903b46c4e210ead80f55a63e1718) - 2026-03-17
+* [Pull Request] [simulators/ethereum/eels: add the consume-enginex simulator](https://github.com/ethereum/hive/pull/1403) - 2026-03-19
+* [Commit] [simulators/ethereum/eels: add the consume-enginex simulator (#1403)](https://github.com/ethereum/hive/commit/c77676338516385c394563dfcf236910348a030e) - 2026-03-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #73, March 9, 2026](https://github.com/ethereum/pm/issues/1956) - 2026-03-03
 * [Issue] [All Core Devs - Testing (ACDT) #75, March 23, 2026](https://github.com/ethereum/pm/issues/1976) - 2026-03-17

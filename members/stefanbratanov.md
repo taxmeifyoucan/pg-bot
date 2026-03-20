@@ -35,6 +35,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Add integration test for getSignedExecutionPayloadEnvelope (#10393)](https://github.com/Consensys/teku/commit/3357ec7008cd72d91ff22773109926fb4dfc9497) - 2026-03-16
 * [Pull Request] [v1.7.0-alpha.3 Gloas changes](https://github.com/Consensys/teku/pull/10503) - 2026-03-18
 * [Commit] [v1.7.0-alpha.3 Gloas changes (#10503)](https://github.com/Consensys/teku/commit/8d4552de2dbdcc1520ef752d53213e3a2a31f9cc) - 2026-03-18
+* [Pull Request] [[Gloas] Update head on imported execution payload](https://github.com/Consensys/teku/pull/10478) - 2026-03-19
+* [Review] [Review on: gloas DA checks](https://github.com/Consensys/teku/pull/10504#pullrequestreview-3973830911) - 2026-03-19
+* [Commit] [[Gloas] Update head on imported execution payload (#10478)](https://github.com/Consensys/teku/commit/c0bc03312ebb01497845297cbe3bfbc5eed7928a) - 2026-03-19
 ## Q4 2025
 
 

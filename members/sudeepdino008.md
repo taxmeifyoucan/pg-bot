@@ -52,6 +52,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: PagedWriter: solve producer-bottelneck by moving pageSerialization from producer to workers ](https://github.com/erigontech/erigon/pull/19944#pullrequestreview-3958191392) - 2026-03-17
 * [Review] [Review on: d_lru: disable for commitment (it's useful for re-exec from 0, but i didn't test impact on chaintip)](https://github.com/erigontech/erigon/pull/19941#pullrequestreview-3958187850) - 2026-03-17
 * [Review] [Review on: db/state: fix spurious accessor rebuild for post-merge subset files](https://github.com/erigontech/erigon/pull/19965#pullrequestreview-3965773552) - 2026-03-18
+* [Pull Request] [db/state: add doMerge param to BuildFiles2](https://github.com/erigontech/erigon/pull/20001) - 2026-03-19
+* [Pull Request] [merge: track compression progress in merge progress bar](https://github.com/erigontech/erigon/pull/20007) - 2026-03-19
+* [Review] [Review on: db/state: fix spurious accessor rebuild for post-merge subset files](https://github.com/erigontech/erigon/pull/19965#pullrequestreview-3973947991) - 2026-03-19
+* [Pull Request] [db/state: add DisableInterDomainDependencies for selective integrity bypass](https://github.com/erigontech/erigon/pull/20000) - 2026-03-19
+* [Pull Request] [cmd/utils/app: refactor DeleteStateSnapshots to use args struct](https://github.com/erigontech/erigon/pull/20005) - 2026-03-19
+* [Pull Request] [db/state: add HistoryKeyTxNumRange API](https://github.com/erigontech/erigon/pull/19999) - 2026-03-19
+* [Review] [Review on: agg: remove bg indexing](https://github.com/erigontech/erigon/pull/19989#pullrequestreview-3973681181) - 2026-03-19
+* [Issue] [Wrong trie root after PR #19814 (exec3_parallel finalize path)](https://github.com/erigontech/erigon/issues/20012) - 2026-03-19
+* [Commit] [db/state: add doMerge param to BuildFiles2 (#20001)](https://github.com/erigontech/erigon/commit/3feff37e6b08ed8ca63ce7c182e7e4e5d9d27d6e) - 2026-03-19
+* [Commit] [db/state: add HistoryKeyTxNumRange API (#19999)](https://github.com/erigontech/erigon/commit/94efada10cd35aca5ac671f31fb94fbb5a9def4f) - 2026-03-19
 ## Q4 2025
 
 

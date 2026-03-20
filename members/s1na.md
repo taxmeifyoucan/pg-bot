@@ -35,6 +35,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core/state: add binary trie e2e benchmarks for approve and balanceOf workloads](https://github.com/ethereum/go-ethereum/pull/34020#pullrequestreview-3969061279) - 2026-03-18
 * [Review] [Review on: core/history: refactor pruning configuration](https://github.com/ethereum/go-ethereum/pull/34036#pullrequestreview-3967063268) - 2026-03-18
 * [Commit] [core/history: refactor pruning configuration (#34036)](https://github.com/ethereum/go-ethereum/commit/6ae3f9fa562f28e805e6a5c20f0e42c1efc7d729) - 2026-03-18
+* [Pull Request] [core/rawdb: parallel pruning of txindex](https://github.com/ethereum/go-ethereum/pull/34054) - 2026-03-19
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [eth_simulateV1: fix revert err code](https://github.com/ethereum/execution-apis/pull/748) - 2026-02-05
 * [Pull Request] [transaction: add blockTimestamp](https://github.com/ethereum/execution-apis/pull/749) - 2026-02-06

@@ -40,6 +40,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: V7.1.3 changelog](https://github.com/OffchainLabs/prysm/pull/16555#pullrequestreview-3971230565) - 2026-03-18
 * [Pull Request] [Refactor state retrieval to use `ReadOnly` methods when possible, avoiding unnecessary copies.](https://github.com/OffchainLabs/prysm/pull/16511) - 2026-03-18
 * [Commit] [Refactor state retrieval to use `ReadOnly` methods when possible, avoiding unnecessary copies. (#16511)](https://github.com/OffchainLabs/prysm/commit/65d428db582697218af43806f0ac970cbdc038fc) - 2026-03-18
+* [Review] [Review on: Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16541#pullrequestreview-3975333379) - 2026-03-19
+* [Review] [Review on: split distributed validator components via an abstracted aggregator selector](https://github.com/OffchainLabs/prysm/pull/16509#pullrequestreview-3974464706) - 2026-03-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Update EIP8025 p2p protocol](https://github.com/ethereum/consensus-specs/pull/5014#pullrequestreview-3966182111) - 2026-03-18
 ## Q4 2025
