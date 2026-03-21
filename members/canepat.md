@@ -37,6 +37,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [ci: add rpc integration tests to CI gate](https://github.com/erigontech/erigon/pull/19980) - 2026-03-18
 * [Pull Request] [hive: reset max-allowed-failures for rpc-compat](https://github.com/erigontech/erigon/pull/20011) - 2026-03-19
 * [Commit] [ci: add rpc integration tests to CI gate (#19980)](https://github.com/erigontech/erigon/commit/7debb052c4d5be07bf94d54f8d63d5036fb1ab80) - 2026-03-19
+* [Commit] [hive: reset max-allowed-failures for rpc-compat (#20011)](https://github.com/erigontech/erigon/commit/81838436baa28fff8317f465a34ae061f1395960) - 2026-03-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: fix system-under-test name in alive check](https://github.com/erigontech/rpc-tests/pull/513) - 2026-01-26
 * [Pull Request] []() - 2026-01-28

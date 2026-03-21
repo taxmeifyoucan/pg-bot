@@ -51,11 +51,14 @@ Team: Erigon
 * [Review] [Review on: integrity: to not nil-ptr on `--prune.mode=full`](https://github.com/erigontech/erigon/pull/19973#pullrequestreview-3966878779) - 2026-03-18
 * [Review] [Review on: db/state: fix spurious accessor rebuild for post-merge subset files](https://github.com/erigontech/erigon/pull/19987#pullrequestreview-3978477495) - 2026-03-19
 * [Review] [Review on: txpool: fix goroutine leak in Fetch on shutdown](https://github.com/erigontech/erigon/pull/20006#pullrequestreview-3975793349) - 2026-03-19
+* [Review] [Review on: seg: revert global limiter](https://github.com/erigontech/erigon/pull/20033#pullrequestreview-3980848646) - 2026-03-20
+* [Review] [Review on: remove e3 banner from logs](https://github.com/erigontech/erigon/pull/20029#pullrequestreview-3980848556) - 2026-03-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Engine API Communication Channels](https://github.com/ethereum/EIPs/pull/11360) - 2026-02-28
 
 * [Pull Request] [Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/pull/11365) - 2026-03-10
 * [Commit] [Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/commit/73afb6b4d30b0430ff8fb29b09bddb5ace928c9a) - 2026-03-10
+* [Pull Request] [Update EIP-8175: Add Falcon-512 post-quantum signature scheme](https://github.com/ethereum/EIPs/pull/11431) - 2026-03-20
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add engine_exchangeCapabilitiesV2](https://github.com/ethereum/execution-apis/pull/766) - 2026-03-05
 

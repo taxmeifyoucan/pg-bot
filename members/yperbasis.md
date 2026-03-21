@@ -114,6 +114,24 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: txpool: proactive dormancy-based eviction of stale queued transactions](https://github.com/erigontech/erigon/pull/19862#pullrequestreview-3974590570) - 2026-03-19
 * [Review] [Review on: WIP: Gloas upgrade](https://github.com/erigontech/erigon/pull/18956#pullrequestreview-3974516254) - 2026-03-19
 * [Commit] [rpc: implement eth_getBlockAccessList (EIP-7928) (#19929)](https://github.com/erigontech/erigon/commit/7c84bd98b9a6fcdc874ab582bbf6a0e65574fe5a) - 2026-03-19
+* [Pull Request] [stagedsync: use finalizeWithIBS only for Amsterdam blocks](https://github.com/erigontech/erigon/pull/20042) - 2026-03-20
+* [Pull Request] [tests: lightweight block test runner with MemoryMutation overlay](https://github.com/erigontech/erigon/pull/20034) - 2026-03-20
+* [Pull Request] [stagedsync: fix parallel executor dropping last receipt from cache](https://github.com/erigontech/erigon/pull/20041) - 2026-03-20
+* [Pull Request] [execution: fix BLOCKHASH returning zero for unfrozen headers](https://github.com/erigontech/erigon/pull/20037) - 2026-03-20
+* [Pull Request] [execution: revert CodeSizePath in codeChange journal entry](https://github.com/erigontech/erigon/pull/20039) - 2026-03-20
+* [Pull Request] [execution: charge GAS_CREATE state gas before initcode size check](https://github.com/erigontech/erigon/pull/20038) - 2026-03-20
+* [Pull Request] [stagedsync, membatchwithdb: fix data race in parallel executor overlay](https://github.com/erigontech/erigon/pull/20036) - 2026-03-20
+* [Review] [Review on: [SharovBot] fix(rpc): add maxUsedGas to eth_simulateV1 CallResult (release/3.4)](https://github.com/erigontech/erigon/pull/20020#pullrequestreview-3981185075) - 2026-03-20
+* [Review] [Review on: execution: implement EIP-8037: State Creation Gas Cost Increase](https://github.com/erigontech/erigon/pull/19596#pullrequestreview-3981004606) - 2026-03-20
+* [Review] [Review on: merge release/3.4 to main](https://github.com/erigontech/erigon/pull/20027#pullrequestreview-3980296185) - 2026-03-20
+* [Commit] [execution: fix BLOCKHASH returning zero for unfrozen headers (#20037)](https://github.com/erigontech/erigon/commit/1522fe754ea42b168fd99571f2975f811effa0af) - 2026-03-20
+* [Commit] [execution: revert CodeSizePath in codeChange journal entry (#20039)](https://github.com/erigontech/erigon/commit/94a02c2bbb8eecc54746c95440a3c0ce547aa22d) - 2026-03-20
+* [Commit] [execution: charge GAS_CREATE state gas before initcode size check (#20038)](https://github.com/erigontech/erigon/commit/4d1680fe65218e811c07be70f2dd00c5bd012765) - 2026-03-20
+* [Commit] [stagedsync, membatchwithdb: fix data race in parallel executor overlay (#20036)](https://github.com/erigontech/erigon/commit/5c8ab95f073a348a6f4d744e3489f1dc261222c6) - 2026-03-20
+* [Commit] [txpool: fix goroutine leak in Fetch on shutdown (#20006)](https://github.com/erigontech/erigon/commit/06f494219bf569ca3416f34b9b4395487cedaa6d) - 2026-03-20
+* [Commit] [Add automated tests for block production with execution requests (#19981)](https://github.com/erigontech/erigon/commit/20b362b283f0a9ef0510a495545bca3294d1ae2c) - 2026-03-20
+* [Commit] [ci: pin Hive version in both hive workflows (#20025)](https://github.com/erigontech/erigon/commit/0aec5c4f7dee1f2ac3d6cd1d8383a44bf5231d78) - 2026-03-20
+* [Commit] [rlp: unify and deduplicate the RLP package (#19985)](https://github.com/erigontech/erigon/commit/9688d3962baee9d73b3ea77bae6edbc06c7fa16b) - 2026-03-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

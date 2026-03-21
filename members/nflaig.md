@@ -84,6 +84,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: use permalinks for spec references](https://github.com/ChainSafe/lodestar/pull/9065#pullrequestreview-3976530218) - 2026-03-19
 * [Issue] [Default location for reading/writing jwt secrets](https://github.com/ChainSafe/lodestar/issues/9064) - 2026-03-19
 * [Commit] [feat: update voluntary exit for gloas (#9039)](https://github.com/ChainSafe/lodestar/commit/bb16850567eb84a6e62c20482af77993c4c114df) - 2026-03-19
+* [Review] [Review on: refactor: simplify protoArray pruning for gloas](https://github.com/ChainSafe/lodestar/pull/9068#pullrequestreview-3982931549) - 2026-03-20
+* [Review] [Review on: refactor: generalize NetworkProcessor awaiting-block mechanism for all gossip types](https://github.com/ChainSafe/lodestar/pull/9059#pullrequestreview-3981145753) - 2026-03-20
+* [Review] [Review on: refactor: inject pubkeyCache into createBeaconStateViewForHistoricalRegen](https://github.com/ChainSafe/lodestar/pull/9081#pullrequestreview-3984293210) - 2026-03-20
+* [Review] [Review on: feat: add toValue() to IBeaconStateView, simplify debug API](https://github.com/ChainSafe/lodestar/pull/9078#pullrequestreview-3984262810) - 2026-03-20
+* [Review] [Review on: chore: enable forceJsExtensions in biome lint config](https://github.com/ChainSafe/lodestar/pull/9079#pullrequestreview-3984247344) - 2026-03-20
+* [Review] [Review on: fix: add toValue() and latestBlockHeaderRoot() to IBeaconStateView](https://github.com/ChainSafe/lodestar/pull/9080#pullrequestreview-3984255671) - 2026-03-20
+* [Review] [Review on: fix: improve sync aggregate participation](https://github.com/ChainSafe/lodestar/pull/9070#pullrequestreview-3981406945) - 2026-03-20
+* [Review] [Review on: docs: improve AGENTS.md with code quality rules and structural cleanup](https://github.com/ChainSafe/lodestar/pull/9077#pullrequestreview-3983017540) - 2026-03-20
+* [Review] [Review on: fix: address review comments on BeaconStateView refactor](https://github.com/ChainSafe/lodestar/pull/9076#pullrequestreview-3982912601) - 2026-03-20
+* [Review] [Review on: fix: override MIN_EPOCHS_FOR_DATA_COLUMN_SIDECARS_REQUESTS for Gnosis](https://github.com/ChainSafe/lodestar/pull/9075#pullrequestreview-3982638915) - 2026-03-20
+* [Review] [Review on: feat: schedule Fulu fork for Gnosis mainnet](https://github.com/ChainSafe/lodestar/pull/9074#pullrequestreview-3982564267) - 2026-03-20
+* [Review] [Review on: feat: introduce nativeStateView feature flag](https://github.com/ChainSafe/lodestar/pull/9067#pullrequestreview-3981132021) - 2026-03-20
+* [Review] [Review on: chore: clean up UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/9069#pullrequestreview-3980984971) - 2026-03-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15

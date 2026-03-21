@@ -35,6 +35,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix: use zero gas price for empty blocks (#23094)](https://github.com/paradigmxyz/reth/commit/2778a063ad3d8815f04a947a51d9c8d7e29cfc08) - 2026-03-18
 * [Review] [Review on: feat(storage): return --storage.v2 flag](https://github.com/paradigmxyz/reth/pull/23120#pullrequestreview-3975837714) - 2026-03-19
 * [Review] [Review on: fix(stages): overwrite Destroyed revert slots when injecting preimages](https://github.com/paradigmxyz/reth/pull/23114#pullrequestreview-3974486229) - 2026-03-19
+* [Review] [Review on: perf(engine): downgrade prewarm per-tx span from debug to trace](https://github.com/paradigmxyz/reth/pull/23138#pullrequestreview-3981497914) - 2026-03-20
+* [Pull Request] [fix: change `DEFAULT_IGNORE_GAS_PRICE`](https://github.com/paradigmxyz/reth/pull/23134) - 2026-03-20
+* [Commit] [fix: change `DEFAULT_IGNORE_GAS_PRICE` (#23134)](https://github.com/paradigmxyz/reth/commit/72d0e04d856d1f8a62fb220e14e5898fde625d5b) - 2026-03-20
 ## Q4 2025
 
 

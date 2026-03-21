@@ -31,6 +31,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-8037](https://github.com/erigontech/erigon/pull/19596) - 2026-03-04
 * [Review] [Review on: ci, execution/tests: skip execution tests on macOS, flip env var polarity](https://github.com/erigontech/erigon/pull/19913#pullrequestreview-3951589628) - 2026-03-16
 * [Review] [Review on: rlp: unify and deduplicate the RLP package](https://github.com/erigontech/erigon/pull/19985#pullrequestreview-3972159387) - 2026-03-19
+* [Commit] [execution: implement EIP-8037: State Creation Gas Cost Increase (#19596)](https://github.com/erigontech/erigon/commit/c0a9bf89ad213f2639e11a68ede5243ef03467db) - 2026-03-20
 ## Q4 2025
 
 

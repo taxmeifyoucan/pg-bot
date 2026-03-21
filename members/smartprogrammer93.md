@@ -40,6 +40,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Issue] [Flaky test: Can_change_branch_on_invalid_block_when_invalid_branch_is_in_the_queue — timing-dependent head assertion](https://github.com/NethermindEth/nethermind/issues/10883) - 2026-03-19
 * [Issue] [Flaky test: E2ESyncTests.SnapSync fails with ArgumentException in SnapshotRepository](https://github.com/NethermindEth/nethermind/issues/10879) - 2026-03-19
 * [Issue] [Spurious warning: "Chainspec file is misconfigured! Timestamp transition is configured to happen before the last block transition"](https://github.com/NethermindEth/nethermind/issues/10880) - 2026-03-19
+* [Pull Request] [fix(db): reuse ReadOptions in ColumnDbSnapshot to reduce GC pressure](https://github.com/NethermindEth/nethermind/pull/10894) - 2026-03-20
 ## Q3 2025
 
 

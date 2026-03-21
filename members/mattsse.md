@@ -112,6 +112,12 @@ Team: Reth
 * [Review] [Review on: perf(net): size-based backpressure for session broadcast messages](https://github.com/paradigmxyz/reth/pull/22849#pullrequestreview-3973721219) - 2026-03-19
 * [Review] [Review on: perf(rpc): avoid header clone in `logs_for_filter`](https://github.com/paradigmxyz/reth/pull/23106#pullrequestreview-3974055354) - 2026-03-19
 * [Commit] [chore(tracing): filter noisy rustls and tungstenite logs (#23121)](https://github.com/paradigmxyz/reth/commit/b8baaf6aa7fb8aded49ff5a0f4c24944160915d0) - 2026-03-19
+* [Review] [Review on: chore: add glamsterdam to reth-bench](https://github.com/paradigmxyz/reth/pull/23039#pullrequestreview-3981262346) - 2026-03-20
+* [Review] [Review on: refactor(rpc): simplify `block_transaction_count`](https://github.com/paradigmxyz/reth/pull/23139#pullrequestreview-3981994582) - 2026-03-20
+* [Review] [Review on: fix: change `DEFAULT_IGNORE_GAS_PRICE`](https://github.com/paradigmxyz/reth/pull/23134#pullrequestreview-3981011360) - 2026-03-20
+* [Pull Request] [fix: addr shadowing](https://github.com/paradigmxyz/reth/pull/23135) - 2026-03-20
+* [Review] [Review on: perf(rpc): avoid storage access clone](https://github.com/paradigmxyz/reth/pull/23129#pullrequestreview-3980909552) - 2026-03-20
+* [Commit] [fix: addr shadowing (#23135)](https://github.com/paradigmxyz/reth/commit/9906da5504fd857a8c39a0018bf8caaf81671935) - 2026-03-20
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

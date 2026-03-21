@@ -13,6 +13,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: Feature - EIP-4444 EraE Support](https://github.com/NethermindEth/nethermind/pull/10812#pullrequestreview-3967724032) - 2026-03-18
+* [Pull Request] [Reinstate removed `IGasPolicy` methods and apply for eip-8037](https://github.com/NethermindEth/nethermind/pull/10897) - 2026-03-20
+* [Review] [Review on: Reinstate removed `IGasPolicy` methods and apply for eip-8037](https://github.com/NethermindEth/nethermind/pull/10897#pullrequestreview-3981589597) - 2026-03-20
 ## Q4 2025
 
 

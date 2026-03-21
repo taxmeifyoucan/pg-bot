@@ -61,3 +61,9 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Review] [Review on: ci: add rpc integration tests to CI gate](https://github.com/erigontech/erigon/pull/19980#pullrequestreview-3972234788) - 2026-03-19
 * [Commit] [gitignore: ignore .claude/worktrees/ (#19963)](https://github.com/erigontech/erigon/commit/e3b1eac48a1bbbf1a5a2dc5be0282da5e79f4ce8) - 2026-03-19
 * [Commit] [ci: reduce benchmark check time from ~38 min to ~13 min (#19988)](https://github.com/erigontech/erigon/commit/66c8e99d025a7edbf3715e9e2628fe44d404a277) - 2026-03-19
+* [Review] [Review on: ci: Add automated SBOM export workflow for Dependency-Track](https://github.com/erigontech/erigon/pull/19976#pullrequestreview-3984543690) - 2026-03-20
+* [Review] [Review on: db/state: fix spurious accessor rebuild for post-merge subset files](https://github.com/erigontech/erigon/pull/19965#pullrequestreview-3984565424) - 2026-03-20
+* [Pull Request] [Makefile: use gotestsum for test output formatting](https://github.com/erigontech/erigon/pull/20045) - 2026-03-20
+* [Pull Request] [ci: add script to fetch and plot CI job durations](https://github.com/erigontech/erigon/pull/20044) - 2026-03-20
+* [Commit] [db/state, txpool: benchmark fixes and bench flag improvements (#19971)](https://github.com/erigontech/erigon/commit/edc37228ad979d7c4e5753fbdd23713804f38a3b) - 2026-03-20
+* [Commit] [ci: update workflows for merge queue (#20008)](https://github.com/erigontech/erigon/commit/ac64e28ee328158f3d094da3919662a8dd969226) - 2026-03-20

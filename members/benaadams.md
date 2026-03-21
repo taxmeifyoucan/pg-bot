@@ -78,6 +78,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat: add --force-resync and --purge-db CLI flags (#10871)](https://github.com/NethermindEth/nethermind/commit/d7aa75c66d1b9a7c07a2bbe84e1bb2070b6aceab) - 2026-03-19
 * [Commit] [feat: restore edge/block collection and runtime consumption (#10869)](https://github.com/NethermindEth/nethermind/commit/42f21ae43d0bb7990fb7900a34d7ed9ee9c57efe) - 2026-03-19
 * [Commit] [Remove EOF (#10866)](https://github.com/NethermindEth/nethermind/commit/2d4d09ace1374f92640170393b69b53868f57827) - 2026-03-19
+* [Review] [Review on: perf: full PGO data, cross-module inlining, Pettis-Hansen method layout](https://github.com/NethermindEth/nethermind/pull/10877#pullrequestreview-3979985908) - 2026-03-20
+* [Review] [Review on: Reinstate removed `IGasPolicy` methods and apply for eip-8037](https://github.com/NethermindEth/nethermind/pull/10897#pullrequestreview-3983847359) - 2026-03-20
+* [Review] [Review on: test: Add `MODEXP` precompile tests](https://github.com/NethermindEth/nethermind/pull/10888#pullrequestreview-3979589717) - 2026-03-20
 ## Q4 2025
 
 

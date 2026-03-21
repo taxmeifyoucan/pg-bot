@@ -17,6 +17,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7799: Add fee payment log](https://github.com/ethereum/EIPs/pull/11091) - 2026-01-15
 
+* [Review] [Review on: Update EIP-6404: Update secp256k1 algorithm to 0x00 from 0xFF](https://github.com/ethereum/EIPs/pull/11430#pullrequestreview-3980674928) - 2026-03-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Add on_slot_start_after_past_attestations_applied hook](https://github.com/status-im/nimbus-eth2/pull/7929) - 2026-02-04
 * [Pull Request] [Update MAX_EFFECTIVE_BALANCE_ELECTRA to uint64](https://github.com/status-im/nimbus-eth2/pull/7943) - 2026-02-06
@@ -53,6 +54,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Allow passing custom validator changes when making test blocks](https://github.com/status-im/nimbus-eth2/pull/8128) - 2026-03-19
 * [Pull Request] [Restart confirmation chain as needed by fast confirmation conditions](https://github.com/status-im/nimbus-eth2/pull/8072) - 2026-03-19
 * [Pull Request] [Fix shuffling data collection for checkpoint sync](https://github.com/status-im/nimbus-eth2/pull/8127) - 2026-03-19
+* [Pull Request] [find_latest_confirmed_descendant](https://github.com/status-im/nimbus-eth2/pull/8137) - 2026-03-20
+* [Review] [Review on: Schedule Fulu fork for Gnosis mainnet](https://github.com/status-im/nimbus-eth2/pull/8144#pullrequestreview-3982889213) - 2026-03-20
+* [Review] [Review on: Reintroduce support to initialize Nimbus in single command](https://github.com/status-im/nimbus-eth2/pull/8134#pullrequestreview-3981767736) - 2026-03-20
+* [Pull Request] [Add metrics to track safe block](https://github.com/status-im/nimbus-eth2/pull/8141) - 2026-03-20
+* [Pull Request] [Remove weight of invalid blocks from ancestors](https://github.com/status-im/nimbus-eth2/pull/8140) - 2026-03-20
 ## Q4 2025
 
 

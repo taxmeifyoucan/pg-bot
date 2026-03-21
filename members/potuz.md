@@ -54,6 +54,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on:  Fix forkchoice safe/finalized hash for reorged payloads](https://github.com/OffchainLabs/prysm/pull/16556#pullrequestreview-3978557134) - 2026-03-19
 * [Review] [Review on: Fix envelopes-by-range to only serve canonical payloads backward](https://github.com/OffchainLabs/prysm/pull/16553#pullrequestreview-3977138896) - 2026-03-19
 * [Review] [Review on: fix: add missing ePBS values to /eth/v1/config/spec](https://github.com/OffchainLabs/prysm/pull/16557#pullrequestreview-3975079569) - 2026-03-19
+* [Pull Request] [Record Payload ID in the cache on late blocks](https://github.com/OffchainLabs/prysm/pull/16563) - 2026-03-20
+* [Review] [Review on: Fix forkchoice to update node weights on balance changes](https://github.com/OffchainLabs/prysm/pull/16560#pullrequestreview-3978905381) - 2026-03-20
+* [Review] [Review on: Hdiff restart support](https://github.com/OffchainLabs/prysm/pull/16389#pullrequestreview-3981654439) - 2026-03-20
 ## Q4 2025
 
 

@@ -77,6 +77,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Fix envelopes-by-range to only serve canonical payloads backward (#16553)](https://github.com/OffchainLabs/prysm/commit/e77724401dfb42689fc877e7b3c487bd06ab9d8e) - 2026-03-19
 * [Commit] [p2p: add execution payload bid gossip topic and verification (#16539)](https://github.com/OffchainLabs/prysm/commit/f43ba7851c9c799fcfc34dbbc0e9e7dd44cf6bc9) - 2026-03-19
 * [Commit] [sync: reject index-1 atts when payload is unseen (#16559)](https://github.com/OffchainLabs/prysm/commit/b141b5ccd241c90e9da9c8f67e362d0ce61d3f2d) - 2026-03-19
+* [Review] [Review on: Record Payload ID in the cache on late blocks](https://github.com/OffchainLabs/prysm/pull/16563#pullrequestreview-3983503760) - 2026-03-20
+* [Review] [Review on: adding proposer duties to duties v2](https://github.com/OffchainLabs/prysm/pull/16564#pullrequestreview-3983760773) - 2026-03-20
+* [Commit] [Fix forkchoice to update node weights on balance changes (#16560)](https://github.com/OffchainLabs/prysm/commit/fb9d9d93dee4d39375ee8c2725a0ac20bdfc6384) - 2026-03-20
+* [Commit] [ Fix forkchoice safe/finalized hash for reorged payloads (#16556)](https://github.com/OffchainLabs/prysm/commit/7781e40abf3a1043d15f509bf96c504b0c5581fc) - 2026-03-20
 ## Q4 2025
 
 

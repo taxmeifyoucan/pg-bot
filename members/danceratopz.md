@@ -56,6 +56,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(ci): [Experiment] split py3 job into 6 pytest-split groups](https://github.com/ethereum/execution-specs/pull/2528) - 2026-03-19
 * [Issue] [Enable `vulture` dead code checks in CI](https://github.com/ethereum/execution-specs/issues/2531) - 2026-03-19
 * [Commit] [chore(ci): warn when local markdownlint-cli2 version diverges from CI (#2513)](https://github.com/ethereum/execution-specs/commit/9a289233151fe0cd22bc2975bd4b480e1d88b794) - 2026-03-19
+* [Review] [Review on: refactor(test-benchmark): collect benchmark tests using testpath not marker](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3980129327) - 2026-03-20
+* [Pull Request] [feat(test-consume,deps): use `register_multi_test_client` to fix client logs in test reports](https://github.com/ethereum/execution-specs/pull/2476) - 2026-03-20
+* [Commit] [feat(test-consume,deps): use `register_multi_test_client` to fix client logs in test reports (#2476)](https://github.com/ethereum/execution-specs/commit/7bc95e113ecabda5363ed69a235418a20bc6eb44) - 2026-03-20
+* [Commit] [chore(ci): enable ported static in py3 and split into 5 parallel fork-range runners (#2529)](https://github.com/ethereum/execution-specs/commit/f5a210f0aeafd22c97b1117834737bc7d4b5217f) - 2026-03-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 

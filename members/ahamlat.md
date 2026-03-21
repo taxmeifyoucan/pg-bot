@@ -17,6 +17,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Use cache locality to improve Shift opcodes](https://github.com/besu-eth/besu/pull/9878) - 2026-03-17
 * [Commit] [Use cache locality to improve Shift opcodes (#9878)](https://github.com/besu-eth/besu/commit/045068255cfc98f853bd1a3747fb5e9cfe168b4a) - 2026-03-17
 * [Review] [Review on: Migrate all Guava caches to Caffeine](https://github.com/besu-eth/besu/pull/9909#pullrequestreview-3968957213) - 2026-03-18
+* [Review] [Review on: Reduce memory usage of debug_trace* calls #9584](https://github.com/besu-eth/besu/pull/9938#pullrequestreview-3982059170) - 2026-03-20
+* [Review] [Review on: fix UInt256: Take result from addBack in mulSubOverflow](https://github.com/besu-eth/besu/pull/10078#pullrequestreview-3980072021) - 2026-03-20
 ## Q4 2025
 
 

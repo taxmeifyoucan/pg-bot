@@ -36,12 +36,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(test-benchmark): marker filter logic](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3959817485) - 2026-03-17
 * [Pull Request] [feat(specs,tests): EIP-8037 state gas ordering and clarifications](https://github.com/ethereum/execution-specs/pull/2526) - 2026-03-18
 * [Review] [Review on: feat(specs,tests): EIP-8037 state gas ordering and clarifications](https://github.com/ethereum/execution-specs/pull/2526#pullrequestreview-3971014171) - 2026-03-18
+* [Review] [Review on: refactor(tests,test-fill): rename `json_loader` pytest marker to `eels_base_coverage`](https://github.com/ethereum/execution-specs/pull/2524#pullrequestreview-3980565390) - 2026-03-20
+* [Review] [Review on: feat(test-consume,deps): use `register_multi_test_client` to fix client logs in test reports](https://github.com/ethereum/execution-specs/pull/2476#pullrequestreview-3980547108) - 2026-03-20
+* [Review] [Review on: chore(ci): enable ported static in py3 and split into 5 parallel fork-range runners](https://github.com/ethereum/execution-specs/pull/2529#pullrequestreview-3980470269) - 2026-03-20
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 
 * [Pull Request] [hiveview: show suites with empty simLog value when running dev mode](https://github.com/ethereum/hive/pull/1400) - 2026-03-09
 * [Pull Request] [hive: add --sim.limit.exact flag](https://github.com/ethereum/hive/pull/969) - 2026-03-19
 * [Commit] [hive: add --sim.limit.exact flag (#969)](https://github.com/ethereum/hive/commit/cac752422d76c335ca6d11ea560f2ae92c0f3aee) - 2026-03-19
+* [Review] [Review on: simulators/ethereum/eels: add the consume-enginex simulator](https://github.com/ethereum/hive/pull/1403#pullrequestreview-3980543783) - 2026-03-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: clarify reservoir mechanics](https://github.com/ethereum/EIPs/pull/11328) - 2026-03-06
 * [Pull Request] [Update EIP-7773: SFI all glamsterdam EIPs included in a devnet](https://github.com/ethereum/EIPs/pull/11399) - 2026-03-12

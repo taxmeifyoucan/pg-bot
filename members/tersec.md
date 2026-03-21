@@ -41,6 +41,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix Gloas dag init](https://github.com/status-im/nimbus-eth2/pull/8090#pullrequestreview-3976286673) - 2026-03-19
 * [Review] [Review on: Check parent block full](https://github.com/status-im/nimbus-eth2/pull/7664#pullrequestreview-3975715544) - 2026-03-19
 * [Review] [Review on: download execution payload envelope during checkpoint sync](https://github.com/status-im/nimbus-eth2/pull/8093#pullrequestreview-3974868902) - 2026-03-19
+* [Review] [Review on: Schedule Fulu fork for Gnosis mainnet](https://github.com/status-im/nimbus-eth2/pull/8144#pullrequestreview-3982880063) - 2026-03-20
 ## Q4 2025
 
 

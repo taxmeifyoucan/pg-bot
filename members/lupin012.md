@@ -45,6 +45,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: eth_gasPrice() fix & optimisation (#19678)](https://github.com/erigontech/erigon/commit/f1cb4756d029092800050d7e9ffc064b69ca6641) - 2026-03-17
 * [Review] [Review on: hive: reset max-allowed-failures for rpc-compat](https://github.com/erigontech/erigon/pull/20011#pullrequestreview-3976909115) - 2026-03-19
 * [Pull Request] [QA: disable temporary 3 eth_simulateV1](https://github.com/erigontech/erigon/pull/20015) - 2026-03-19
+* [Pull Request] [rpc: fix debug_getModifiedAccountsByNumber/Hash to match Geth semantics](https://github.com/erigontech/erigon/pull/20043) - 2026-03-20
+* [Review] [Review on: qa-tests: update workflow list in the test report workflow](https://github.com/erigontech/erigon/pull/20030#pullrequestreview-3980439199) - 2026-03-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15
@@ -59,6 +61,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] []() - 2026-03-02
 * [Review] [Review on: Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529#pullrequestreview-3946032940) - 2026-03-13
 * [Pull Request] [perf: Return fails only in case response detected is 0%](https://github.com/erigontech/rpc-tests/pull/530) - 2026-03-15
+* [Pull Request] [rpc: fix rsp debug account range according Geth](https://github.com/erigontech/rpc-tests/pull/532) - 2026-03-20
+* [Pull Request] [Fix exp debug get modified accounts by](https://github.com/erigontech/rpc-tests/pull/531) - 2026-03-20
+* [Commit] [fix in case o% (#530)](https://github.com/erigontech/rpc-tests/commit/1dee08204a1b47c078c3f8bc567cfdcefc23c18b) - 2026-03-20
 ## Q4 2025
 
 

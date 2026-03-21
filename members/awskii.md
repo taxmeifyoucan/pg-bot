@@ -15,6 +15,8 @@ Team: Erigon
 * [Issue] [`MDBX_EKEYMISMATCH` on chain tip block insertion](https://github.com/erigontech/erigon/issues/19082) - 2026-02-10
 
 * [Review] [Review on: feat: finalized/safe block tags for Arbitrum](https://github.com/erigontech/erigon/pull/19696#pullrequestreview-3955211752) - 2026-03-16
+* [Pull Request] [[commitment] count trie metrics for logs](https://github.com/erigontech/erigon/pull/19087) - 2026-03-20
+* [Commit] [[commitment] count trie metrics for logs (#19087)](https://github.com/erigontech/erigon/commit/38debf3f66062d0b008cd751cf92ccd1dfdf731c) - 2026-03-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3925895357) - 2026-03-10
 ## Q4 2025

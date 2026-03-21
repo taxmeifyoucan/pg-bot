@@ -104,6 +104,28 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: feat: add maxUsedGas to eth_simulateV1 results](https://github.com/NethermindEth/nethermind/pull/10863#pullrequestreview-3974849705) - 2026-03-19
 * [Review] [Review on: fix: fix resource leak in ChannelDecoder compression streams](https://github.com/NethermindEth/nethermind/pull/10865#pullrequestreview-3974844074) - 2026-03-19
 * [Review] [Review on: Remove EOF](https://github.com/NethermindEth/nethermind/pull/10866#pullrequestreview-3974840958) - 2026-03-19
+* [Review] [Review on: perf: full PGO data, cross-module inlining, Pettis-Hansen method layout](https://github.com/NethermindEth/nethermind/pull/10877#pullrequestreview-3979979448) - 2026-03-20
+* [Review] [Review on: Reinstate removed `IGasPolicy` methods and apply for eip-8037](https://github.com/NethermindEth/nethermind/pull/10897#pullrequestreview-3980937073) - 2026-03-20
+* [Pull Request] [chore: add fix-nethtest agent skill for EF test debugging](https://github.com/NethermindEth/nethermind/pull/10903) - 2026-03-20
+* [Review] [Review on: Fix AuRaMergeEngineModuleTests](https://github.com/NethermindEth/nethermind/pull/10872#pullrequestreview-3981297654) - 2026-03-20
+* [Pull Request] [fix(test): eliminate flakiness in BlockchainProcessorTests](https://github.com/NethermindEth/nethermind/pull/10905) - 2026-03-20
+* [Review] [Review on: fix(db): reuse ReadOptions in ColumnDbSnapshot to reduce GC pressure](https://github.com/NethermindEth/nethermind/pull/10894#pullrequestreview-3980074284) - 2026-03-20
+* [Review] [Review on: fix: raise snap response limits to prevent SnapSync regression](https://github.com/NethermindEth/nethermind/pull/10904#pullrequestreview-3982244583) - 2026-03-20
+* [Review] [Review on: fix: fix SnapSync regression from network layer refactor](https://github.com/NethermindEth/nethermind/pull/10902#pullrequestreview-3981270071) - 2026-03-20
+* [Review] [Review on: test(keystore): remove duplicate Salt32Test](https://github.com/NethermindEth/nethermind/pull/10901#pullrequestreview-3980947769) - 2026-03-20
+* [Review] [Review on: Geth type unification](https://github.com/NethermindEth/nethermind/pull/10891#pullrequestreview-3980031401) - 2026-03-20
+* [Review] [Review on: XDC - Trc21 State Reader](https://github.com/NethermindEth/nethermind/pull/10782#pullrequestreview-3980707007) - 2026-03-20
+* [Pull Request] [fix(test): replace fork type checks with spec flag checks in test harness](https://github.com/NethermindEth/nethermind/pull/10896) - 2026-03-20
+* [Review] [Review on: fix: fix HttpResponseMessage leak in BasicJsonRpcClient](https://github.com/NethermindEth/nethermind/pull/10873#pullrequestreview-3979961384) - 2026-03-20
+* [Review] [Review on: fix: fix HttpResponseMessage leak in DefaultHttpClient](https://github.com/NethermindEth/nethermind/pull/10889#pullrequestreview-3980003279) - 2026-03-20
+* [Review] [Review on: Add periodic sync-behind warning log when head block is behind chain tip](https://github.com/NethermindEth/nethermind/pull/10892#pullrequestreview-3980113796) - 2026-03-20
+* [Review] [Review on: Fix flaky test: replace polling with signal-based loop in BecomesNewHead](https://github.com/NethermindEth/nethermind/pull/10884#pullrequestreview-3980026960) - 2026-03-20
+* [Review] [Review on: Fix flaky test: Broadcast_BlockRangeUpdate_when_latest_increased_enough](https://github.com/NethermindEth/nethermind/pull/10886#pullrequestreview-3980022922) - 2026-03-20
+* [Review] [Review on: Fix buffer leak tests to use PooledBufferLeakDetector](https://github.com/NethermindEth/nethermind/pull/10887#pullrequestreview-3980008342) - 2026-03-20
+* [Review] [Review on: Fix ArgumentException in SnapshotRepository.GetSnapshotBeforeStateId for negative BlockNumber](https://github.com/NethermindEth/nethermind/pull/10882#pullrequestreview-3979996940) - 2026-03-20
+* [Review] [Review on: Fix test chainspec configuration to prevent spurious misconfiguration warnings](https://github.com/NethermindEth/nethermind/pull/10881#pullrequestreview-3979993575) - 2026-03-20
+* [Review] [Review on: test: Add `MODEXP` precompile tests](https://github.com/NethermindEth/nethermind/pull/10888#pullrequestreview-3979834450) - 2026-03-20
+* [Commit] [fix(test): replace fork type checks with spec flag checks in test harness (#10896)](https://github.com/NethermindEth/nethermind/commit/15a59c72ba1c4d495fc78b7b9f36e0d7ac32be0d) - 2026-03-20
 ## Q4 2025
 
 

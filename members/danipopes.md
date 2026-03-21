@@ -58,6 +58,7 @@ Team: Reth
 * [Review] [Review on: fix(rpc): eth_config returns wrong fork](https://github.com/paradigmxyz/reth/pull/23007#pullrequestreview-3942550686) - 2026-03-13
 * [Review] [Review on: ci: bump state tests runner to depot-ubuntu-latest-8](https://github.com/paradigmxyz/reth/pull/23017#pullrequestreview-3942582099) - 2026-03-13
 * [Review] [Review on: ci: disable PGO by default, rename input to `pgo`](https://github.com/paradigmxyz/reth/pull/23016#pullrequestreview-3942528720) - 2026-03-13
+* [Review] [Review on: perf(engine): downgrade prewarm per-tx span from debug to trace](https://github.com/paradigmxyz/reth/pull/23138#pullrequestreview-3981558972) - 2026-03-20
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
@@ -102,6 +103,8 @@ Team: Reth
 * [Commit] [chore: add docs alias](https://github.com/paradigmxyz/revmc/commit/ad97d896d956f81ef959932ba2aa84d2b7e227e1) - 2026-03-18
 * [Pull Request] [fix: prevent SIGSEGV from concurrent LLVM context disposal in statetests](https://github.com/paradigmxyz/revmc/pull/140) - 2026-03-19
 * [Commit] [fix: prevent SIGSEGV from concurrent LLVM context disposal in statetests (#140)](https://github.com/paradigmxyz/revmc/commit/42e1474714c210a8eda03bc9dc4ad14b6b30a370) - 2026-03-19
+* [Pull Request] [chore: bump deps](https://github.com/paradigmxyz/revmc/pull/141) - 2026-03-20
+* [Commit] [chore: bump deps (#141)](https://github.com/paradigmxyz/revmc/commit/99d3beeac6f55962b01c5fa9635fa13512bc86ec) - 2026-03-20
 ## Q4 2025
 
 

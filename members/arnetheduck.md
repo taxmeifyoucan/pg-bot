@@ -19,6 +19,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [clean up attestation index iteration](https://github.com/status-im/nimbus-eth2/pull/7999) - 2026-02-19
 * [Pull Request] [el_manager: update multi-el support](https://github.com/status-im/nimbus-eth2/pull/8008) - 2026-02-22
 * [Issue] [Light client fcU should not spam the EL](https://github.com/status-im/nimbus-eth2/issues/8041) - 2026-02-26
+* [Pull Request] [Normalize url in .gitmodules](https://github.com/status-im/nimbus-eth2/pull/8145) - 2026-03-20
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [web3: bump for native bidir support](https://github.com/status-im/nimbus-eth1/pull/3974) - 2026-02-11
 * [Pull Request] [eth2: bump](https://github.com/status-im/nimbus-eth1/pull/3991) - 2026-02-18
@@ -33,6 +34,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: server_api: use core_apps directly instead of LedgerRef](https://github.com/status-im/nimbus-eth1/pull/4049#pullrequestreview-3973963547) - 2026-03-19
 * [Review] [Review on: Use stack allocated VertexBuf instead of VertexRef in RDB LruCache](https://github.com/status-im/nimbus-eth1/pull/4048#pullrequestreview-3973039199) - 2026-03-19
 * [Commit] [Clear storage when persisting ledger changes (refs #4024) (#4050)](https://github.com/status-im/nimbus-eth1/commit/0c534730487aeaff23aa03e582e409b9a352bf1b) - 2026-03-20
+* [Pull Request] [eth2: bump](https://github.com/status-im/nimbus-eth1/pull/4055) - 2026-03-20
+* [Pull Request] [no need to strip genesis_alloc](https://github.com/status-im/nimbus-eth1/pull/4054) - 2026-03-20
+* [Pull Request] [db: more post-refactoring cleanups](https://github.com/status-im/nimbus-eth1/pull/4052) - 2026-03-20
+* [Review] [Review on: Use stack allocated VertexBuf instead of VertexRef in RDB LruCache](https://github.com/status-im/nimbus-eth1/pull/4048#pullrequestreview-3980440200) - 2026-03-20
+* [Review] [Review on: `defaultValueDesc` config cleanup & bump confutils](https://github.com/status-im/nimbus-eth1/pull/4028#pullrequestreview-3980703718) - 2026-03-20
+* [Review] [Review on: Clear storage when persisting ledger changes (refs #4024)](https://github.com/status-im/nimbus-eth1/pull/4050#pullrequestreview-3979635637) - 2026-03-20
+* [Commit] [no need to strip genesis_alloc (#4054)](https://github.com/status-im/nimbus-eth1/commit/fd53b008eca6f0480f64fabc801c486bc5cf29db) - 2026-03-20
+* [Commit] [db: more post-refactoring cleanups (#4052)](https://github.com/status-im/nimbus-eth1/commit/71322cf3de67294392f00ce0520ee1e7796e75c1) - 2026-03-20
+* [Commit] [server_api: use core_apps directly instead of LedgerRef (#4049)](https://github.com/status-im/nimbus-eth1/commit/b20868ebd75e3e8475fcb94d5513b4b033a4c07b) - 2026-03-20
 ## Q4 2025
 
 

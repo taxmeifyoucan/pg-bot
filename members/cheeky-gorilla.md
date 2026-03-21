@@ -27,6 +27,17 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Add 1-yr vest QR](https://github.com/protocolguild/documentation/commit/a82df7d0c9274292bee5cc1b6400f7ee83b4953f) - 2026-03-19
 * [Commit] [Create delete](https://github.com/protocolguild/documentation/commit/aac030d75a1d6e29679ec281ba1eb8b9b6acefdb) - 2026-03-19
 * [Commit] [Replace 4-yr vest with new 1-yr vest](https://github.com/protocolguild/documentation/commit/d7f1705c0ed5c2ef755bcb62a88f68d010b94207) - 2026-03-19
+* [Commit] [Add prezos](https://github.com/protocolguild/documentation/commit/5ba713d0a46e3c5cb3c6f2dabca6299f342e8051) - 2026-03-20
+* [Commit] [Change to "deprecated" and update link](https://github.com/protocolguild/documentation/commit/bda95d18f4470546fce552f677b2f5cedafd32aa) - 2026-03-20
+* [Commit] [Add line break](https://github.com/protocolguild/documentation/commit/10cc0d1552e902f09152de574a313658307a1765) - 2026-03-20
+* [Commit] [Update line breaks, add clarification to contracts](https://github.com/protocolguild/documentation/commit/7dec041dadc4e1d1d3d28ed9043ff701409e07dd) - 2026-03-20
+* [Commit] [Fix links + update text](https://github.com/protocolguild/documentation/commit/2374e9050f85467ea367a07b7575b44714792e94) - 2026-03-20
+* [Commit] [Fix links + lowercase "S" in "split contracts"](https://github.com/protocolguild/documentation/commit/a3683e5c3ca3cf7b4b498121f2b9acb41b6fdf36) - 2026-03-20
+* [Commit] [Update/fix links, turn alumni into list, minor improvements](https://github.com/protocolguild/documentation/commit/7fdd01e7755dcffab9182e4670ce7e49e56da519) - 2026-03-20
+* [Commit] [Add forkast link to ACD calls](https://github.com/protocolguild/documentation/commit/fe7419f68d039af7f57f1a48fc3ba9b93fba82bd) - 2026-03-20
+* [Commit] [Update links](https://github.com/protocolguild/documentation/commit/5cc5a394952da734bb8755c4bc338c0c9b805aaf) - 2026-03-20
+* [Commit] [Update content of arch page](https://github.com/protocolguild/documentation/commit/d16f326781c8ad88dff5f802f663cc9cdc8e971c) - 2026-03-20
+* [Commit] [Add architecture diagram](https://github.com/protocolguild/documentation/commit/6d66ab307d1d3f8eaf0bda987b08171cf5109282) - 2026-03-20
 ## Q4 2025
 
 

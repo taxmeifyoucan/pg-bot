@@ -43,6 +43,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [gloas DA checks](https://github.com/Consensys/teku/pull/10504) - 2026-03-18
 * [Pull Request] [replay execution payload when regenrating states](https://github.com/Consensys/teku/pull/10511) - 2026-03-19
 * [Review] [Review on: replay execution payload when regenrating states](https://github.com/Consensys/teku/pull/10511#pullrequestreview-3975902508) - 2026-03-19
+* [Pull Request] [10259 4 proposer preferences](https://github.com/Consensys/teku/pull/10517) - 2026-03-20
+* [Review] [Review on: 10259 4 proposer preferences](https://github.com/Consensys/teku/pull/10517#pullrequestreview-3981134210) - 2026-03-20
+* [Review] [Review on: 10259 3 proposer preferences](https://github.com/Consensys/teku/pull/10483#pullrequestreview-3980686722) - 2026-03-20
+* [Review] [Review on: gloas DA checks](https://github.com/Consensys/teku/pull/10504#pullrequestreview-3980981613) - 2026-03-20
+* [Review] [Review on: replay execution payload when regenrating states](https://github.com/Consensys/teku/pull/10511#pullrequestreview-3980299292) - 2026-03-20
+* [Commit] [10259 3 proposer preferences (#10483)](https://github.com/Consensys/teku/commit/8f59739d3f708155ecc160889b3496a04a7f0479) - 2026-03-20
 ## Q4 2025
 
 

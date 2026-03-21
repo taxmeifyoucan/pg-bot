@@ -48,6 +48,7 @@ Team: Grandine
 * [Review] [Review on: Disable macos & windows builds in CI](https://github.com/grandinetech/grandine/pull/638#pullrequestreview-3966834375) - 2026-03-18
 * [Review] [Review on: Handle `ExecutionPayloadEnvelope`](https://github.com/grandinetech/grandine/pull/591#pullrequestreview-3974911644) - 2026-03-19
 * [Review] [Review on: Fix check builder balance edge case when bid_amount = 0](https://github.com/grandinetech/grandine/pull/640#pullrequestreview-3974471831) - 2026-03-19
+* [Review] [Review on: Handle `ExecutionPayloadEnvelope`](https://github.com/grandinetech/grandine/pull/591#pullrequestreview-3980989776) - 2026-03-20
 ## Q4 2025
 
 

@@ -41,6 +41,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8189: Assign new Message IDs for snap/2](https://github.com/ethereum/EIPs/commit/63fe2781abf86192c7a8bcc68a47b0f2c41d25ac) - 2026-03-17
 * [Pull Request] [Update EIP-7928: Fix contradicting claim about fee recipient](https://github.com/ethereum/EIPs/pull/11420) - 2026-03-18
 * [Commit] [Update EIP-7928: Fix contradicting claim about fee recipient](https://github.com/ethereum/EIPs/commit/af481a64b9bf555699ac5e3030c1b3921dfc383f) - 2026-03-19
+* [Commit] [Update EIP-8037: Align with EIP-7928 Gas Validation Phases](https://github.com/ethereum/EIPs/commit/7df0a62ca4255f22a72603595c7a5312649f6e47) - 2026-03-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add worst-case BAL read test](https://github.com/ethereum/execution-specs/pull/2033) - 2026-01-18
 

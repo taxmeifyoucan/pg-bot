@@ -25,6 +25,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [BALs remove unneeded delegation check](https://github.com/NethermindEth/nethermind/pull/10860) - 2026-03-18
 * [Commit] [BALs remove unneeded delegation check (#10860)](https://github.com/NethermindEth/nethermind/commit/d23cdd28f35196c62a42a2f71dc1d5e6514eb60d) - 2026-03-18
 * [Pull Request] [Fix AuRaMergeEngineModuleTests](https://github.com/NethermindEth/nethermind/pull/10872) - 2026-03-19
+* [Pull Request] [Gnosis Osaka](https://github.com/NethermindEth/nethermind/pull/10906) - 2026-03-20
 ## Q4 2025
 
 

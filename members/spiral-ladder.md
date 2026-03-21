@@ -43,3 +43,4 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [fix: native metrics example (#239)](https://github.com/ChainSafe/lodestar-z/commit/387e7708b24ec708e5afd27ae6721cb1910f7fbb) - 2026-03-17
 * [Pull Request] [feat(bls): switch multi-threading to a queue-based dispatch](https://github.com/ChainSafe/lodestar-z/pull/248) - 2026-03-18
 * [Review] [Review on: feat(blst): native multi-threaded blst](https://github.com/ChainSafe/lodestar-z/pull/235#pullrequestreview-3964669421) - 2026-03-18
+* [Pull Request] [refactor(bls): use pointer arrays](https://github.com/ChainSafe/lodestar-z/pull/253) - 2026-03-20

@@ -145,6 +145,12 @@ Team: Erigon
 * [Pull Request] [skill: exec from 0](https://github.com/erigontech/erigon/pull/20002) - 2026-03-19
 * [Review] [Review on: qa-tests: fix fd-leak-analysis artifact name in 'sync with external cl' test](https://github.com/erigontech/erigon/pull/19775#pullrequestreview-3973658619) - 2026-03-19
 * [Review] [Review on: qa-tests: add test results to the daily repo status](https://github.com/erigontech/erigon/pull/19869#pullrequestreview-3973657344) - 2026-03-19
+* [Review] [Review on: cmd/integration: commitment rebuild with history support](https://github.com/erigontech/erigon/pull/19016#pullrequestreview-3980260874) - 2026-03-20
+* [Review] [Review on: [SharovBot] fix(rpc): add maxUsedGas to eth_simulateV1 CallResult (release/3.4)](https://github.com/erigontech/erigon/pull/20020#pullrequestreview-3982219795) - 2026-03-20
+* [Review] [Review on: rm-state: add subset file cleanup when removing merged files](https://github.com/erigontech/erigon/pull/20031#pullrequestreview-3980615413) - 2026-03-20
+* [Pull Request] [seg: revert global limiter](https://github.com/erigontech/erigon/pull/20033) - 2026-03-20
+* [Pull Request] [remove e3 banner from logs](https://github.com/erigontech/erigon/pull/20029) - 2026-03-20
+* [Pull Request] [merge release/3.4 to main](https://github.com/erigontech/erigon/pull/20027) - 2026-03-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

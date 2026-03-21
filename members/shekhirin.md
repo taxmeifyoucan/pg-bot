@@ -45,6 +45,10 @@ Team: Reth
 * [Pull Request] [feat(node): allow to override storage settings](https://github.com/paradigmxyz/reth/pull/23119) - 2026-03-19
 * [Review] [Review on: fix(stages): overwrite Destroyed revert slots when injecting preimages](https://github.com/paradigmxyz/reth/pull/23114#pullrequestreview-3974500859) - 2026-03-19
 * [Commit] [perf(reth-bench): fetch RPC blocks in parallel (#23117)](https://github.com/paradigmxyz/reth/commit/20cce0a6dfa6919089ffdb9dfac44c00f3070069) - 2026-03-19
+* [Review] [Review on: feat: bench-scheduled support v2 snapshot](https://github.com/paradigmxyz/reth/pull/23133#pullrequestreview-3981199222) - 2026-03-20
+* [Review] [Review on: fix: change `DEFAULT_IGNORE_GAS_PRICE`](https://github.com/paradigmxyz/reth/pull/23134#pullrequestreview-3980960764) - 2026-03-20
+* [Review] [Review on: fix: addr shadowing](https://github.com/paradigmxyz/reth/pull/23135#pullrequestreview-3980911287) - 2026-03-20
+* [Review] [Review on: chore(bench): add per-run status updates](https://github.com/paradigmxyz/reth/pull/23132#pullrequestreview-3980421756) - 2026-03-20
 ## Q4 2025
 
 

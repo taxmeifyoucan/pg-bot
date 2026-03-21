@@ -41,3 +41,6 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(test-benchmark): ensure no precompile cache issue](https://github.com/ethereum/execution-specs/pull/2415) - 2026-03-19
 * [Review] [Review on: feat(test-fill,test-benchmark): support stub accounts in `fill` via RPC](https://github.com/ethereum/execution-specs/pull/2512#pullrequestreview-3973370496) - 2026-03-19
 * [Commit] [refactor(test-benchmark): ensure no precompile cache issue (#2415)](https://github.com/ethereum/execution-specs/commit/54b205cfab3c6178e6fa026898e5f2d6064acb63) - 2026-03-19
+* [Review] [Review on: feat(test-benchmark): verify transaction status](https://github.com/ethereum/execution-specs/pull/2527#pullrequestreview-3979557883) - 2026-03-20
+* [Review] [Review on: feat(test-fill,test-benchmark): support stub accounts in `fill` via RPC](https://github.com/ethereum/execution-specs/pull/2512#pullrequestreview-3979889361) - 2026-03-20
+* [Commit] [feat(test-benchmark): verify transaction status (#2527)](https://github.com/ethereum/execution-specs/commit/eab8cfb833a2b2b2c82580af83da9a240401d28c) - 2026-03-20

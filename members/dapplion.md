@@ -33,6 +33,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Gloas Forkchoice](https://github.com/sigp/lighthouse/pull/8906#pullrequestreview-3951559064) - 2026-03-16
 * [Review] [Review on: Spec v1.7.0 alpha.3](https://github.com/sigp/lighthouse/pull/8988#pullrequestreview-3951298168) - 2026-03-16
 * [Pull Request] [Add range sync tests](https://github.com/sigp/lighthouse/pull/8989) - 2026-03-16
+* [Pull Request] [Schedule Fulu fork for Gnosis mainnet](https://github.com/sigp/lighthouse/pull/9007) - 2026-03-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Extend by_root reqresp serve range to match by_range](https://github.com/ethereum/consensus-specs/pull/4950) - 2026-02-26
 * [Pull Request] [Typo sorry](https://github.com/ethereum/consensus-specs/pull/4989) - 2026-03-08
@@ -41,13 +42,17 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [feat: schedule Fulu fork for Chiado testnet](https://github.com/ChainSafe/lodestar/pull/9027) - 2026-03-12
 * [Commit] [feat: schedule Fulu fork for Chiado testnet (#9027)](https://github.com/ChainSafe/lodestar/commit/8578102bd2aca7ebdc2641000d690f4fcfacac49) - 2026-03-12
 
+* [Pull Request] [feat: schedule Fulu fork for Gnosis mainnet](https://github.com/ChainSafe/lodestar/pull/9074) - 2026-03-20
+* [Commit] [feat: schedule Fulu fork for Gnosis mainnet (#9074)](https://github.com/ChainSafe/lodestar/commit/f6213da56d6c22db1e22e413719ee78a3e04999e) - 2026-03-20
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/Consensys/teku/pull/10487) - 2026-03-12
 
 * [Commit] [Schedule Fulu fork for Chiado testnet (#10487)](https://github.com/Consensys/teku/commit/e6dfe20e0a14efae112a3089952d1cb481708202) - 2026-03-16
+* [Pull Request] [Schedule Fulu fork for Gnosis mainnet](https://github.com/Consensys/teku/pull/10518) - 2026-03-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/status-im/nimbus-eth2/pull/8078) - 2026-03-12
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/status-im/nimbus-eth2/pull/8076) - 2026-03-12
+* [Pull Request] [Schedule Fulu fork for Gnosis mainnet](https://github.com/status-im/nimbus-eth2/pull/8144) - 2026-03-20
 ## Q4 2025
 
 

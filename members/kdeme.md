@@ -23,6 +23,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Execution-api JSON-RPC master tracker issue](https://github.com/status-im/nimbus-eth1/issues/3942) - 2026-01-30
 * [Pull Request] [EraE implementation WIP](https://github.com/status-im/nimbus-eth1/pull/3979) - 2026-02-12
 * [Issue] [Execution API: block tag not parsing hash](https://github.com/status-im/nimbus-eth1/issues/3981) - 2026-02-15
+* [Pull Request] [Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4053) - 2026-03-20
+* [Review] [Review on: Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4053#pullrequestreview-3982740851) - 2026-03-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3 and related changes](https://github.com/status-im/nimbus-eth2/pull/7876) - 2026-01-23
 * [Pull Request] []() - 2026-01-27

@@ -35,6 +35,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Amsterdam: EIP-8037: State Creation Gas Cost Increase](https://github.com/besu-eth/besu/pull/9815) - 2026-03-16
 * [Commit] [Amsterdam: EIP-8037: State Creation Gas Cost Increase (#9815)](https://github.com/besu-eth/besu/commit/fd4c0f17993daa974f1a829accaa663ca3176f81) - 2026-03-16
 * [Pull Request] [Update Amsterdam to bal@v5.4.0 spec](https://github.com/besu-eth/besu/pull/10075) - 2026-03-19
+* [Review] [Review on: Update Amsterdam to bal@v5.4.0 spec](https://github.com/besu-eth/besu/pull/10075#pullrequestreview-3983114040) - 2026-03-20
+* [Pull Request] [Refactor/opcodes self deduct gas](https://github.com/besu-eth/besu/pull/10081) - 2026-03-20
+* [Pull Request] [Implement changes for bal devenet with spec test 5.5.1](https://github.com/besu-eth/besu/pull/10080) - 2026-03-20
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936613106) - 2026-03-12
 ## Q4 2025

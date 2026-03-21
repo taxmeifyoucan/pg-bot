@@ -61,6 +61,7 @@ Team: Consensus R&D (EF)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 
+* [Pull Request] [Add EIP: EVMification](https://github.com/ethereum/EIPs/pull/11432) - 2026-03-21
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Issue] [Consider testing stateless execution against EEST fixtures](https://github.com/NethermindEth/nethermind/issues/10749) - 2026-03-07
 
@@ -84,6 +85,7 @@ Team: Consensus R&D (EF)
 * [Commit] [fix(ssz): Merkleizer list Feed now uses correct chunk limit and actual length for mixin (#10795)](https://github.com/NethermindEth/nethermind/commit/04f2e993f349ec6638369241d51904661369d8be) - 2026-03-17
 * [Commit] [fix(ssz): Uint128 decode method swapped upper and lower halves  (#10794)](https://github.com/NethermindEth/nethermind/commit/208f72a6188b4b8eeb22a9e96c060fc1a2fd9ecc) - 2026-03-17
 * [Review] [Review on: feat(ssz): Add spec tests for ssz](https://github.com/NethermindEth/nethermind/pull/10807#pullrequestreview-3967879077) - 2026-03-18
+* [Commit] [feat(ssz): Add spec tests for ssz (#10807)](https://github.com/NethermindEth/nethermind/commit/4bbafb0232b2b9b6e9f69eb4af10c39dccace86f) - 2026-03-20
 ## Q4 2025
 
 

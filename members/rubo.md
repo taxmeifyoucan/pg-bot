@@ -64,6 +64,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [chore: Revise `CODEOWNERS`](https://github.com/NethermindEth/nethermind/pull/10874) - 2026-03-19
 * [Commit] [chore: Unify precompile naming (#10875)](https://github.com/NethermindEth/nethermind/commit/d89e379431c10a759740eabbe4bea5776498b742) - 2026-03-19
 * [Commit] [chore: Revise `CODEOWNERS` (#10874)](https://github.com/NethermindEth/nethermind/commit/2cb5c380384ebd2b5c614d13c9b8a0131838cfc4) - 2026-03-19
+* [Commit] [test: Add `MODEXP` precompile tests (#10888)](https://github.com/NethermindEth/nethermind/commit/9fbf35bc6b482889ada44e9cdf56882f098c14ae) - 2026-03-20
 ## Q4 2025
 
 

@@ -44,6 +44,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Added a new scheduler to potentially replace quartz](https://github.com/Consensys/teku/pull/10480#pullrequestreview-3976083106) - 2026-03-19
 * [Review] [Review on: 10259 3 proposer preferences](https://github.com/Consensys/teku/pull/10483#pullrequestreview-3977708782) - 2026-03-19
 * [Review] [Review on: Reconstruct supernode sidecars from 50% - Reconstructor](https://github.com/Consensys/teku/pull/10508#pullrequestreview-3975891625) - 2026-03-19
+* [Review] [Review on: 10259 3 proposer preferences](https://github.com/Consensys/teku/pull/10483#pullrequestreview-3982261944) - 2026-03-20
 ## Q4 2025
 
 

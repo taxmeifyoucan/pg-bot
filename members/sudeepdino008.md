@@ -62,6 +62,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Wrong trie root after PR #19814 (exec3_parallel finalize path)](https://github.com/erigontech/erigon/issues/20012) - 2026-03-19
 * [Commit] [db/state: add doMerge param to BuildFiles2 (#20001)](https://github.com/erigontech/erigon/commit/3feff37e6b08ed8ca63ce7c182e7e4e5d9d27d6e) - 2026-03-19
 * [Commit] [db/state: add HistoryKeyTxNumRange API (#19999)](https://github.com/erigontech/erigon/commit/94efada10cd35aca5ac671f31fb94fbb5a9def4f) - 2026-03-19
+* [Pull Request] [Merge release/3.4 into main](https://github.com/erigontech/erigon/pull/20032) - 2026-03-20
+* [Pull Request] [rm-state: add subset file cleanup when removing merged files](https://github.com/erigontech/erigon/pull/20031) - 2026-03-20
+* [Commit] [rm-state: add subset file cleanup when removing merged files (#20031)](https://github.com/erigontech/erigon/commit/ada65dcfca25a29a47d97e358e50aed257c4d659) - 2026-03-20
+* [Commit] [cmd/utils/app: refactor DeleteStateSnapshots to use args struct (#20005)](https://github.com/erigontech/erigon/commit/55be4c0c57e6de78fd56b11440def1ab07a5e522) - 2026-03-20
+* [Commit] [db/state: add DisableInterDomainDependencies for selective integrity bypass (#20000)](https://github.com/erigontech/erigon/commit/a2272e59e7c3e4b05ad76af8ef8dcc8612a67fa8) - 2026-03-20
 ## Q4 2025
 
 

@@ -63,6 +63,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Include commit hash in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16541#pullrequestreview-3974961864) - 2026-03-19
 * [Review] [Review on: split distributed validator components via an abstracted aggregator selector](https://github.com/OffchainLabs/prysm/pull/16509#pullrequestreview-3975114582) - 2026-03-19
 * [Commit] [changing grpc proposer preferences to take array instead  (#16554)](https://github.com/OffchainLabs/prysm/commit/696a08f3b9e7e7f923c41e978b01f8b182e3abe3) - 2026-03-19
+* [Pull Request] [adding proposer duties to duties v2](https://github.com/OffchainLabs/prysm/pull/16564) - 2026-03-20
+* [Review] [Review on: gloas validator client proposer preferences](https://github.com/OffchainLabs/prysm/pull/16548#pullrequestreview-3978920246) - 2026-03-20
+* [Commit] [split distributed validator components via an abstracted aggregator selector (#16509)](https://github.com/OffchainLabs/prysm/commit/259f526c8d0701d9b5990e28f15c08183e8b8873) - 2026-03-20
 ## Q4 2025
 
 

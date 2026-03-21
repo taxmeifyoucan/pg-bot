@@ -22,6 +22,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Fix nightly build: Run binary section execute 'nimbus' instead of 'nimbus_execution_client'](https://github.com/status-im/nimbus-eth1/pull/3980) - 2026-02-14
 * [Issue] [Unusual database access of ledger's clearStorage](https://github.com/status-im/nimbus-eth1/issues/4024) - 2026-02-27
 * [Review] [Review on: Clear storage when persisting ledger changes (refs #4024)](https://github.com/status-im/nimbus-eth1/pull/4050#pullrequestreview-3975886365) - 2026-03-19
+* [Review] [Review on: Clear storage when persisting ledger changes (refs #4024)](https://github.com/status-im/nimbus-eth1/pull/4050#pullrequestreview-3980239414) - 2026-03-20
 ## Q4 2025
 
 

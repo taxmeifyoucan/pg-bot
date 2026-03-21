@@ -116,6 +116,12 @@ Team: Erigon
 * [Review] [Review on: evm: accesList.Reset()](https://github.com/erigontech/erigon/pull/19983#pullrequestreview-3968769395) - 2026-03-18
 * [Review] [Review on: execution/vm: disable the value transfer in syscall](https://github.com/erigontech/erigon/pull/19277#pullrequestreview-3974192815) - 2026-03-19
 * [Review] [Review on: rpc: implement eth_getBlockAccessList (EIP-7928)](https://github.com/erigontech/erigon/pull/19929#pullrequestreview-3974029314) - 2026-03-19
+* [Pull Request] [caplin: unified Engine API client for standalone mode](https://github.com/erigontech/erigon/pull/20035) - 2026-03-20
+* [Review] [Review on: execution: fix BLOCKHASH returning zero for unfrozen headers](https://github.com/erigontech/erigon/pull/20037#pullrequestreview-3982425658) - 2026-03-20
+* [Review] [Review on: execution: revert CodeSizePath in codeChange journal entry](https://github.com/erigontech/erigon/pull/20039#pullrequestreview-3982413936) - 2026-03-20
+* [Review] [Review on: execution: charge GAS_CREATE state gas before initcode size check](https://github.com/erigontech/erigon/pull/20038#pullrequestreview-3982417802) - 2026-03-20
+* [Review] [Review on: stagedsync, membatchwithdb: fix data race in parallel executor overlay](https://github.com/erigontech/erigon/pull/20036#pullrequestreview-3981864457) - 2026-03-20
+* [Commit] [commitment: enable warmup cache for all paths + add cache miss counters (#19952)](https://github.com/erigontech/erigon/commit/9a77d9e51b878b4f9ef0b347a5ae6c137182bc4f) - 2026-03-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

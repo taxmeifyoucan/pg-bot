@@ -87,3 +87,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [field: rm unused packed_linear_combination (#1460)](https://github.com/Plonky3/Plonky3/commit/d77ed5f5622c843c9cb4e686d634d8345fffb36a) - 2026-03-19
 * [Commit] [logup: better memory allocation (#1455)](https://github.com/Plonky3/Plonky3/commit/c661c81e2cd49c0de718891fcdb05735aa93a325) - 2026-03-19
 * [Commit] [uni-stark: richer verification errors (#1453)](https://github.com/Plonky3/Plonky3/commit/8b8bcc404195902885bc205e9572e27fea094b50) - 2026-03-19
+* [Review] [Review on: perf: abstract away Copy vs Clone](https://github.com/Plonky3/Plonky3/pull/1463#pullrequestreview-3983375290) - 2026-03-20
+* [Review] [Review on: feat: add support for Periodic Columns at runtime](https://github.com/Plonky3/Plonky3/pull/1462#pullrequestreview-3983048986) - 2026-03-20
+* [Review] [Review on: mds: small improvements and more testing](https://github.com/Plonky3/Plonky3/pull/1459#pullrequestreview-3983015938) - 2026-03-20
+* [Commit] [mds: small improvements and more testing (#1459)](https://github.com/Plonky3/Plonky3/commit/2fcc28c74566abb09467d56bbf2b919d131c1cd0) - 2026-03-20

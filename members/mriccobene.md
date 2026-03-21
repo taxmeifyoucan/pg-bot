@@ -26,9 +26,14 @@ Team: Erigon
 * [Review] [Review on: ci: add rpc integration tests to CI gate](https://github.com/erigontech/erigon/pull/19980#pullrequestreview-3968646534) - 2026-03-18
 * [Review] [Review on: ci: update workflows for merge queue](https://github.com/erigontech/erigon/pull/20008#pullrequestreview-3975025822) - 2026-03-19
 * [Review] [Review on: skill: exec from 0](https://github.com/erigontech/erigon/pull/20002#pullrequestreview-3973671537) - 2026-03-19
+* [Review] [Review on: ci, docs: automate Gitbook docs branch and variant creation on release](https://github.com/erigontech/erigon/pull/19857#pullrequestreview-3980721414) - 2026-03-20
+* [Pull Request] [qa-tests: update workflow list in the test report workflow](https://github.com/erigontech/erigon/pull/20030) - 2026-03-20
+* [Commit] [qa-tests: add test results to the daily repo status (#19869)](https://github.com/erigontech/erigon/commit/4fc1a16e5a0122a7bc6ea0a9ef5331ffefa3b0b7) - 2026-03-20
+* [Commit] [qa-tests: update workflow list in the test report workflow (#20030)](https://github.com/erigontech/erigon/commit/c4469efef059a069a76cb75aaeb7a76cb6ead2f6) - 2026-03-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529) - 2026-03-13
 * [Commit] [more verbose error messagge (#529)](https://github.com/erigontech/rpc-tests/commit/34b1c609e2d04cd26f8070821e3ca12bb6d673d4) - 2026-03-14
+* [Review] [Review on: perf: Return fails only in case response detected is 0%](https://github.com/erigontech/rpc-tests/pull/530#pullrequestreview-3980346302) - 2026-03-20
 ## Q4 2025
 
 

@@ -26,6 +26,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Implement div sdiv with long limbs](https://github.com/besu-eth/besu/pull/9923#pullrequestreview-3966677939) - 2026-03-18
 * [Commit] [Implement div sdiv with long limbs (#9923)](https://github.com/besu-eth/besu/commit/2e977a55bfc8e6d836f90a907774bad175bf150d) - 2026-03-18
 * [Pull Request] [Return result from addBack during mulSubOverflow instead of ignoring it](https://github.com/besu-eth/besu/pull/10078) - 2026-03-19
+* [Review] [Review on: fix UInt256: Take result from addBack in mulSubOverflow](https://github.com/besu-eth/besu/pull/10078#pullrequestreview-3980471146) - 2026-03-20
+* [Commit] [fix UInt256: Take result from addBack in mulSubOverflow (#10078)](https://github.com/besu-eth/besu/commit/f48338ce64b6c0866c160da6e6eeaa56a447d8b1) - 2026-03-20
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Review] [Review on: chore(ci): update runner types and trigger](https://github.com/besu-eth/besu-stateless/pull/91#pullrequestreview-3948972437) - 2026-03-14
 ## Q4 2025

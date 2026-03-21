@@ -45,6 +45,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: chore: Unify precompile naming](https://github.com/NethermindEth/nethermind/pull/10875#pullrequestreview-3976749224) - 2026-03-19
 * [Review] [Review on: chore: Revise `CODEOWNERS`](https://github.com/NethermindEth/nethermind/pull/10874#pullrequestreview-3976751787) - 2026-03-19
 * [Commit] [Check logs RLP (#10862)](https://github.com/NethermindEth/nethermind/commit/f8aea69d5b1b014cbb48f73a2ead13ff4562faaa) - 2026-03-19
+* [Review] [Review on: fix: raise snap response limits to prevent SnapSync regression](https://github.com/NethermindEth/nethermind/pull/10904#pullrequestreview-3981801437) - 2026-03-20
 ## Q4 2025
 
 

@@ -129,6 +129,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix: prevent unsigned underflow in eth_feeHistory reward bounds](https://github.com/besu-eth/besu/pull/10060#pullrequestreview-3972269633) - 2026-03-19
 * [Review] [Review on: Bonsai archive seperate column families](https://github.com/besu-eth/besu/pull/10058#pullrequestreview-3972282788) - 2026-03-19
 * [Commit] [Log block number/hash on receipts root mismatch for debugging (#10071)](https://github.com/besu-eth/besu/commit/9e5e39aaacf7c79e8fed13da0a655baaa55667a1) - 2026-03-19
+* [Review] [Review on: minimize setup for BesuCommandTest](https://github.com/besu-eth/besu/pull/10074#pullrequestreview-3984365208) - 2026-03-20
+* [Review] [Review on: Update Amsterdam to bal@v5.4.0 spec](https://github.com/besu-eth/besu/pull/10075#pullrequestreview-3979012422) - 2026-03-20
+* [Review] [Review on: Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048#pullrequestreview-3978946140) - 2026-03-20
+* [Commit] [BlockchainUtilParameterizedTest - reduce key-pair generations (#10072)](https://github.com/besu-eth/besu/commit/955bf9e3beccbcf22e9c2c7b2ba85c68ad5b296e) - 2026-03-20
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

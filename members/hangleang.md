@@ -40,6 +40,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Fix check builder balance edge case when bid_amount = 0](https://github.com/grandinetech/grandine/commit/9700fa5f1ef95d4eb3bacad7945885ef6da4d7ff) - 2026-03-19
 * [Commit] [Add payload attestation tick (#603)](https://github.com/grandinetech/grandine/commit/84a12ee8e695b46ec8bf4938670d508a5d6ecea9) - 2026-03-19
 * [Commit] [`GET /eth/v1/validator/execution_payload_bid/{slot}/{builder_index}` (#518)](https://github.com/grandinetech/grandine/commit/4b02b2d639fe4c2d810473100da0f0c7451e9602) - 2026-03-19
+* [Review] [Review on: Handle `ExecutionPayloadEnvelope`](https://github.com/grandinetech/grandine/pull/591#pullrequestreview-3980021439) - 2026-03-20
 ## Q4 2025
 
 

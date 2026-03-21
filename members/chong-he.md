@@ -16,3 +16,4 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add SSZ response to HTTP API endpoints](https://github.com/sigp/lighthouse/pull/8907#pullrequestreview-3933564249) - 2026-03-12
 * [Review] [Review on: Add SSZ response to HTTP API endpoints](https://github.com/sigp/lighthouse/pull/8907#pullrequestreview-3959194952) - 2026-03-17
 * [Review] [Review on: perf(vc): skip redundant proposer duty downloads within epoch](https://github.com/sigp/lighthouse/pull/8905#pullrequestreview-3958260394) - 2026-03-17
+* [Review] [Review on: Add SSZ response to HTTP API endpoints](https://github.com/sigp/lighthouse/pull/8907#pullrequestreview-3980930088) - 2026-03-20

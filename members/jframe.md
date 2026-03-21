@@ -46,6 +46,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix: add blockchain-head guard to handleBlockTimerExpiry](https://github.com/besu-eth/besu/pull/10052#pullrequestreview-3964575251) - 2026-03-18
 * [Review] [Review on: Propose Miroslav Kovář as a maintainer](https://github.com/besu-eth/besu/pull/10033#pullrequestreview-3972417902) - 2026-03-19
 * [Commit] [Bonsai archive seperate column families (#10058)](https://github.com/besu-eth/besu/commit/6f16081abf909d482a4849c1e8f0d337de489327) - 2026-03-19
+
+[hyperledger/besu-native](https://github.com/hyperledger/besu-native)
+* [Review] [Review on: fix: Static-link OpenSSL in secp256r1 to prevent symbol leaking](https://github.com/besu-eth/besu-native/pull/308#pullrequestreview-3979209002) - 2026-03-20
 ## Q4 2025
 
 

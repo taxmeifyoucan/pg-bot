@@ -35,8 +35,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Safely deactivate deneb features in fulu (#10502)](https://github.com/Consensys/teku/commit/f5a47c5017a93ce3c93d099bd61691dba5585bfa) - 2026-03-18
 
 * [Review] [Review on: updated 3rd party libs](https://github.com/Consensys/teku/pull/10514#pullrequestreview-3978763416) - 2026-03-20
+* [Pull Request] [Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516) - 2026-03-20
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Propose Miroslav Kovář as a maintainer](https://github.com/besu-eth/besu/pull/10033#pullrequestreview-3971424773) - 2026-03-18
+
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Pull Request] [Fix ipv6 discovery](https://github.com/Consensys/discovery/pull/202) - 2026-03-20
 ## Q4 2025
 
 
