@@ -31,6 +31,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Hdiff fixes 2](https://github.com/OffchainLabs/prysm/pull/16534#pullrequestreview-3975944729) - 2026-03-19
 * [Review] [Review on: Hdiff fixes](https://github.com/OffchainLabs/prysm/pull/16533#pullrequestreview-3975926322) - 2026-03-19
 * [Commit] [V7.1.3 changelog (#16555)](https://github.com/OffchainLabs/prysm/commit/dfc5bbef7fc85c21c89c05c2500ef02169a830c0) - 2026-03-19
+* [Review] [Review on: Fix logging level bug for non text formats](https://github.com/OffchainLabs/prysm/pull/16567#pullrequestreview-3987239085) - 2026-03-22
 ## Q4 2025
 
 

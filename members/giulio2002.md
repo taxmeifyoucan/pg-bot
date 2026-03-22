@@ -53,6 +53,7 @@ Team: Erigon
 * [Review] [Review on: txpool: fix goroutine leak in Fetch on shutdown](https://github.com/erigontech/erigon/pull/20006#pullrequestreview-3975793349) - 2026-03-19
 * [Review] [Review on: seg: revert global limiter](https://github.com/erigontech/erigon/pull/20033#pullrequestreview-3980848646) - 2026-03-20
 * [Review] [Review on: remove e3 banner from logs](https://github.com/erigontech/erigon/pull/20029#pullrequestreview-3980848556) - 2026-03-20
+* [Review] [Review on: Caplin: prevent calling `glob` per file in `BuildMissingIndices`](https://github.com/erigontech/erigon/pull/20046#pullrequestreview-3985209841) - 2026-03-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Engine API Communication Channels](https://github.com/ethereum/EIPs/pull/11360) - 2026-02-28
 

@@ -59,6 +59,7 @@ Team: Reth
 * [Review] [Review on: ci: bump state tests runner to depot-ubuntu-latest-8](https://github.com/paradigmxyz/reth/pull/23017#pullrequestreview-3942582099) - 2026-03-13
 * [Review] [Review on: ci: disable PGO by default, rename input to `pgo`](https://github.com/paradigmxyz/reth/pull/23016#pullrequestreview-3942528720) - 2026-03-13
 * [Review] [Review on: perf(engine): downgrade prewarm per-tx span from debug to trace](https://github.com/paradigmxyz/reth/pull/23138#pullrequestreview-3981558972) - 2026-03-20
+* [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23148#pullrequestreview-3987220958) - 2026-03-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
@@ -105,6 +106,8 @@ Team: Reth
 * [Commit] [fix: prevent SIGSEGV from concurrent LLVM context disposal in statetests (#140)](https://github.com/paradigmxyz/revmc/commit/42e1474714c210a8eda03bc9dc4ad14b6b30a370) - 2026-03-19
 * [Pull Request] [chore: bump deps](https://github.com/paradigmxyz/revmc/pull/141) - 2026-03-20
 * [Commit] [chore: bump deps (#141)](https://github.com/paradigmxyz/revmc/commit/99d3beeac6f55962b01c5fa9635fa13512bc86ec) - 2026-03-20
+* [Pull Request] [fix: use unaligned loads for manual loads](https://github.com/paradigmxyz/revmc/pull/143) - 2026-03-21
+* [Commit] [fix: use unaligned loads for manual loads (#143)](https://github.com/paradigmxyz/revmc/commit/b05a6a2a7b231c039e972618b1e22e27bf4ba21c) - 2026-03-21
 ## Q4 2025
 
 

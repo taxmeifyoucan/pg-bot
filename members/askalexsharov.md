@@ -151,6 +151,16 @@ Team: Erigon
 * [Pull Request] [seg: revert global limiter](https://github.com/erigontech/erigon/pull/20033) - 2026-03-20
 * [Pull Request] [remove e3 banner from logs](https://github.com/erigontech/erigon/pull/20029) - 2026-03-20
 * [Pull Request] [merge release/3.4 to main](https://github.com/erigontech/erigon/pull/20027) - 2026-03-20
+* [Review] [Review on: update grafana dashboard](https://github.com/erigontech/erigon/pull/20061#pullrequestreview-3987203845) - 2026-03-22
+* [Review] [Review on: rpc: optimisation debug_traceTransaction](https://github.com/erigontech/erigon/pull/20059#pullrequestreview-3987206122) - 2026-03-22
+* [Review] [Review on: rpc: debug_accountRange: add address/key as Geth](https://github.com/erigontech/erigon/pull/20057#pullrequestreview-3987204493) - 2026-03-22
+* [Review] [Review on: Add commitment internals panels to Grafana dashboard](https://github.com/erigontech/erigon/pull/19832#pullrequestreview-3987203653) - 2026-03-22
+* [Review] [Review on: Makefile: auto-create RAM disk for test-all on macOS](https://github.com/erigontech/erigon/pull/20060#pullrequestreview-3985869312) - 2026-03-21
+* [Review] [Review on: [SharovBot] [r3.4] execution: fix data race between PriorityQueue.Close() and worker Add()](https://github.com/erigontech/erigon/pull/20054#pullrequestreview-3985748884) - 2026-03-21
+* [Review] [Review on: [SharovBot] [r3.4] execution/state: fix WriteAccountStorage skip using stale blockOriginStorage](https://github.com/erigontech/erigon/pull/20051#pullrequestreview-3985749697) - 2026-03-21
+* [Review] [Review on: [SharovBot] [r3.4] rpc: fix on blockOverride & StateOverride](https://github.com/erigontech/erigon/pull/20052#pullrequestreview-3985749484) - 2026-03-21
+* [Review] [Review on: [SharovBot] [r3.4] db/kv/mdbx: fix deadlock in async tx channel on context cancellation](https://github.com/erigontech/erigon/pull/20048#pullrequestreview-3985750610) - 2026-03-21
+* [Pull Request] [Caplin: prevent calling `glob` per file in `BuildMissingIndices`](https://github.com/erigontech/erigon/pull/20046) - 2026-03-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

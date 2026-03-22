@@ -41,6 +41,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Bump `warp` and begin `axum` migration](https://github.com/sigp/lighthouse/pull/9001) - 2026-03-18
 * [Pull Request] [Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006) - 2026-03-19
 * [Review] [Review on: Add ipc support in --execution-endpoint](https://github.com/sigp/lighthouse/pull/8802#pullrequestreview-3974552708) - 2026-03-19
+* [Review] [Review on: Bump rustls and ignore unpatched version due to Warp](https://github.com/sigp/lighthouse/pull/9010#pullrequestreview-3985784350) - 2026-03-21
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [Use `hashlink::LruCache` instead of `lru::LruCache`](https://github.com/sigp/discv5/pull/294) - 2026-01-10
 ## Q4 2025

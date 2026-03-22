@@ -122,6 +122,7 @@ Team: Erigon
 * [Review] [Review on: execution: charge GAS_CREATE state gas before initcode size check](https://github.com/erigontech/erigon/pull/20038#pullrequestreview-3982417802) - 2026-03-20
 * [Review] [Review on: stagedsync, membatchwithdb: fix data race in parallel executor overlay](https://github.com/erigontech/erigon/pull/20036#pullrequestreview-3981864457) - 2026-03-20
 * [Commit] [commitment: enable warmup cache for all paths + add cache miss counters (#19952)](https://github.com/erigontech/erigon/commit/9a77d9e51b878b4f9ef0b347a5ae6c137182bc4f) - 2026-03-20
+* [Commit] [execmodule: extract PipelineExecutor, internalize ForkValidator (#19961)](https://github.com/erigontech/erigon/commit/3248639b5bb5ac923f86a89fa266895bf575fc6f) - 2026-03-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

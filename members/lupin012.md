@@ -47,6 +47,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [QA: disable temporary 3 eth_simulateV1](https://github.com/erigontech/erigon/pull/20015) - 2026-03-19
 * [Pull Request] [rpc: fix debug_getModifiedAccountsByNumber/Hash to match Geth semantics](https://github.com/erigontech/erigon/pull/20043) - 2026-03-20
 * [Review] [Review on: qa-tests: update workflow list in the test report workflow](https://github.com/erigontech/erigon/pull/20030#pullrequestreview-3980439199) - 2026-03-20
+* [Pull Request] [rpc: optimisation debug_traceTransaction](https://github.com/erigontech/erigon/pull/20059) - 2026-03-21
+* [Pull Request] [rpc: debug_accountRange: add address/key as Geth](https://github.com/erigontech/erigon/pull/20057) - 2026-03-21
+* [Pull Request] [rpc/jsonrpc: fix debug_getBadBlocks swapped block/rlp fields](https://github.com/erigontech/erigon/pull/20053) - 2026-03-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15
@@ -64,6 +67,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: fix rsp debug account range according Geth](https://github.com/erigontech/rpc-tests/pull/532) - 2026-03-20
 * [Pull Request] [Fix exp debug get modified accounts by](https://github.com/erigontech/rpc-tests/pull/531) - 2026-03-20
 * [Commit] [fix in case o% (#530)](https://github.com/erigontech/rpc-tests/commit/1dee08204a1b47c078c3f8bc567cfdcefc23c18b) - 2026-03-20
+* [Commit] [rpc: fix rsp debug account range according Geth (#532)](https://github.com/erigontech/rpc-tests/commit/c74c58429565b630edfb054a575e603532b03605) - 2026-03-21
 ## Q4 2025
 
 

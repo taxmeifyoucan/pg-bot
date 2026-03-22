@@ -67,3 +67,4 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] [ci: add script to fetch and plot CI job durations](https://github.com/erigontech/erigon/pull/20044) - 2026-03-20
 * [Commit] [db/state, txpool: benchmark fixes and bench flag improvements (#19971)](https://github.com/erigontech/erigon/commit/edc37228ad979d7c4e5753fbdd23713804f38a3b) - 2026-03-20
 * [Commit] [ci: update workflows for merge queue (#20008)](https://github.com/erigontech/erigon/commit/ac64e28ee328158f3d094da3919662a8dd969226) - 2026-03-20
+* [Pull Request] [ci: prune-gocache print sort bounds of retained and deleted files](https://github.com/erigontech/erigon/pull/20047) - 2026-03-21

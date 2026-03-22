@@ -97,6 +97,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: schedule Fulu fork for Gnosis mainnet](https://github.com/ChainSafe/lodestar/pull/9074#pullrequestreview-3982564267) - 2026-03-20
 * [Review] [Review on: feat: introduce nativeStateView feature flag](https://github.com/ChainSafe/lodestar/pull/9067#pullrequestreview-3981132021) - 2026-03-20
 * [Review] [Review on: chore: clean up UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/9069#pullrequestreview-3980984971) - 2026-03-20
+* [Review] [Review on: feat: add --http.requestTimeout flag to configure vc http request timeout](https://github.com/ChainSafe/lodestar/pull/9086#pullrequestreview-3985902900) - 2026-03-21
+* [Review] [Review on: feat: fork-aware IBeaconStateView type narrowing](https://github.com/ChainSafe/lodestar/pull/9085#pullrequestreview-3985917022) - 2026-03-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15

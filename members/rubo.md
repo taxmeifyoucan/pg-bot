@@ -65,6 +65,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: Unify precompile naming (#10875)](https://github.com/NethermindEth/nethermind/commit/d89e379431c10a759740eabbe4bea5776498b742) - 2026-03-19
 * [Commit] [chore: Revise `CODEOWNERS` (#10874)](https://github.com/NethermindEth/nethermind/commit/2cb5c380384ebd2b5c614d13c9b8a0131838cfc4) - 2026-03-19
 * [Commit] [test: Add `MODEXP` precompile tests (#10888)](https://github.com/NethermindEth/nethermind/commit/9fbf35bc6b482889ada44e9cdf56882f098c14ae) - 2026-03-20
+* [Pull Request] [test: Add `SHA256` precompile tests](https://github.com/NethermindEth/nethermind/pull/10910) - 2026-03-21
+* [Pull Request] [test: Add `BLAKE2F` precompile tests](https://github.com/NethermindEth/nethermind/pull/10909) - 2026-03-21
+* [Review] [Review on: docs: overhaul README structure and content](https://github.com/NethermindEth/nethermind/pull/10856#pullrequestreview-3985917511) - 2026-03-21
+* [Commit] [test: Add `SHA256` precompile tests (#10910)](https://github.com/NethermindEth/nethermind/commit/63e7dd071e60f69922b8b4aa83fdebd268a7fa2e) - 2026-03-21
+* [Commit] [test: Add `BLAKE2F` precompile tests (#10909)](https://github.com/NethermindEth/nethermind/commit/2be0d9bf3fd54a620271a0127d5609df0c09e8d8) - 2026-03-21
 ## Q4 2025
 
 

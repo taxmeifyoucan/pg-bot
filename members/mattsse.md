@@ -118,6 +118,12 @@ Team: Reth
 * [Pull Request] [fix: addr shadowing](https://github.com/paradigmxyz/reth/pull/23135) - 2026-03-20
 * [Review] [Review on: perf(rpc): avoid storage access clone](https://github.com/paradigmxyz/reth/pull/23129#pullrequestreview-3980909552) - 2026-03-20
 * [Commit] [fix: addr shadowing (#23135)](https://github.com/paradigmxyz/reth/commit/9906da5504fd857a8c39a0018bf8caaf81671935) - 2026-03-20
+* [Review] [Review on: perf(rpc): avoid redundant block fetch in `sim_bundle_inner`](https://github.com/paradigmxyz/reth/pull/23143#pullrequestreview-3985566152) - 2026-03-21
+* [Review] [Review on: perf(rpc): avoid cloning block env in pending block builder](https://github.com/paradigmxyz/reth/pull/23144#pullrequestreview-3985539892) - 2026-03-21
+* [Review] [Review on: perf(rpc): remove redundant block id resolution in `debug_trace_block`](https://github.com/paradigmxyz/reth/pull/23128#pullrequestreview-3985510026) - 2026-03-21
+* [Review] [Review on: chore(engine): lower "yielded transaction" log from debug to trace](https://github.com/paradigmxyz/reth/pull/23142#pullrequestreview-3985493613) - 2026-03-21
+* [Pull Request] [chore(deps): allow lru advisory and bump rustls-webpki](https://github.com/paradigmxyz/reth/pull/23145) - 2026-03-21
+* [Commit] [chore(deps): allow lru advisory and bump rustls-webpki (#23145)](https://github.com/paradigmxyz/reth/commit/76e45117da8337b32077e51e2f759dee582a16cc) - 2026-03-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

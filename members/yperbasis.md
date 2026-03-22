@@ -132,6 +132,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [Add automated tests for block production with execution requests (#19981)](https://github.com/erigontech/erigon/commit/20b362b283f0a9ef0510a495545bca3294d1ae2c) - 2026-03-20
 * [Commit] [ci: pin Hive version in both hive workflows (#20025)](https://github.com/erigontech/erigon/commit/0aec5c4f7dee1f2ac3d6cd1d8383a44bf5231d78) - 2026-03-20
 * [Commit] [rlp: unify and deduplicate the RLP package (#19985)](https://github.com/erigontech/erigon/commit/9688d3962baee9d73b3ea77bae6edbc06c7fa16b) - 2026-03-20
+* [Review] [Review on: caplin: unified Engine API client for standalone mode](https://github.com/erigontech/erigon/pull/20035#pullrequestreview-3985826755) - 2026-03-21
+* [Pull Request] [Makefile: auto-create RAM disk for test-all on macOS](https://github.com/erigontech/erigon/pull/20060) - 2026-03-21
+* [Review] [Review on: execution: fix EIP-7825 gas pool depletion by checking cap before buyGas](https://github.com/erigontech/erigon/pull/20058#pullrequestreview-3985879902) - 2026-03-21
+* [Review] [Review on: [rpc] Add Tracking to Subscriptions Made via HTTP for Unused Filter Eviction](https://github.com/erigontech/erigon/pull/18591#pullrequestreview-3985813674) - 2026-03-21
+* [Commit] [Makefile: auto-create RAM disk for test-all on macOS (#20060)](https://github.com/erigontech/erigon/commit/46a764dce3fe402cbfe71a86ba159d0817d08c83) - 2026-03-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

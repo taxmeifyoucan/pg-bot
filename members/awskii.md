@@ -17,6 +17,8 @@ Team: Erigon
 * [Review] [Review on: feat: finalized/safe block tags for Arbitrum](https://github.com/erigontech/erigon/pull/19696#pullrequestreview-3955211752) - 2026-03-16
 * [Pull Request] [[commitment] count trie metrics for logs](https://github.com/erigontech/erigon/pull/19087) - 2026-03-20
 * [Commit] [[commitment] count trie metrics for logs (#19087)](https://github.com/erigontech/erigon/commit/38debf3f66062d0b008cd751cf92ccd1dfdf731c) - 2026-03-20
+* [Pull Request] [update grafana dashboard](https://github.com/erigontech/erigon/pull/20061) - 2026-03-21
+* [Commit] [update grafana dashboard (#20061)](https://github.com/erigontech/erigon/commit/ea6a21dc3aa71962c6b579383aac1f14c643d214) - 2026-03-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3925895357) - 2026-03-10
 ## Q4 2025

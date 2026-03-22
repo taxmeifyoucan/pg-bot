@@ -34,6 +34,8 @@ Team: Erigon
 * [Pull Request] [Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529) - 2026-03-13
 * [Commit] [more verbose error messagge (#529)](https://github.com/erigontech/rpc-tests/commit/34b1c609e2d04cd26f8070821e3ca12bb6d673d4) - 2026-03-14
 * [Review] [Review on: perf: Return fails only in case response detected is 0%](https://github.com/erigontech/rpc-tests/pull/530#pullrequestreview-3980346302) - 2026-03-20
+* [Review] [Review on: rpc: fix rsp debug account range according Geth](https://github.com/erigontech/rpc-tests/pull/532#pullrequestreview-3985869512) - 2026-03-21
+* [Review] [Review on: Fix exp debug get modified accounts by](https://github.com/erigontech/rpc-tests/pull/531#pullrequestreview-3985869793) - 2026-03-21
 ## Q4 2025
 
 

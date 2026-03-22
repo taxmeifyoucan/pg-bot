@@ -41,6 +41,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Issue] [Flaky test: E2ESyncTests.SnapSync fails with ArgumentException in SnapshotRepository](https://github.com/NethermindEth/nethermind/issues/10879) - 2026-03-19
 * [Issue] [Spurious warning: "Chainspec file is misconfigured! Timestamp transition is configured to happen before the last block transition"](https://github.com/NethermindEth/nethermind/issues/10880) - 2026-03-19
 * [Pull Request] [fix(db): reuse ReadOptions in ColumnDbSnapshot to reduce GC pressure](https://github.com/NethermindEth/nethermind/pull/10894) - 2026-03-20
+* [Review] [Review on: Fix test chainspec configuration to prevent spurious misconfiguration warnings](https://github.com/NethermindEth/nethermind/pull/10881#pullrequestreview-3986689475) - 2026-03-21
+* [Review] [Review on: Fix ArgumentException in SnapshotRepository.GetSnapshotBeforeStateId for negative BlockNumber](https://github.com/NethermindEth/nethermind/pull/10882#pullrequestreview-3986674556) - 2026-03-21
+* [Pull Request] [Fix flaky DiscoveryPersistenceManager test on macOS CI](https://github.com/NethermindEth/nethermind/pull/10912) - 2026-03-21
+* [Review] [Review on: Add periodic sync-behind warning log when head block is behind chain tip](https://github.com/NethermindEth/nethermind/pull/10892#pullrequestreview-3986792068) - 2026-03-21
+* [Review] [Review on: test: Add `SHA256` precompile tests](https://github.com/NethermindEth/nethermind/pull/10910#pullrequestreview-3986665785) - 2026-03-21
+* [Review] [Review on: test: Add `BLAKE2F` precompile tests](https://github.com/NethermindEth/nethermind/pull/10909#pullrequestreview-3986669893) - 2026-03-21
+* [Issue] [Flaky test: RunDiscoveryPersistenceCommit_Should_Update_Nodes_In_Storage on macOS](https://github.com/NethermindEth/nethermind/issues/10911) - 2026-03-21
 ## Q3 2025
 
 

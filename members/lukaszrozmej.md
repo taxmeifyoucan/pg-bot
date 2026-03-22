@@ -126,6 +126,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Fix test chainspec configuration to prevent spurious misconfiguration warnings](https://github.com/NethermindEth/nethermind/pull/10881#pullrequestreview-3979993575) - 2026-03-20
 * [Review] [Review on: test: Add `MODEXP` precompile tests](https://github.com/NethermindEth/nethermind/pull/10888#pullrequestreview-3979834450) - 2026-03-20
 * [Commit] [fix(test): replace fork type checks with spec flag checks in test harness (#10896)](https://github.com/NethermindEth/nethermind/commit/15a59c72ba1c4d495fc78b7b9f36e0d7ac32be0d) - 2026-03-20
+* [Review] [Review on: test: Add `SHA256` precompile tests](https://github.com/NethermindEth/nethermind/pull/10910#pullrequestreview-3986777049) - 2026-03-21
+* [Review] [Review on: test: Add `BLAKE2F` precompile tests](https://github.com/NethermindEth/nethermind/pull/10909#pullrequestreview-3986776747) - 2026-03-21
+* [Review] [Review on: fix(test): eliminate flakiness in BlockchainProcessorTests](https://github.com/NethermindEth/nethermind/pull/10905#pullrequestreview-3986773664) - 2026-03-21
+* [Review] [Review on: Reinstate removed `IGasPolicy` methods and apply for eip-8037](https://github.com/NethermindEth/nethermind/pull/10897#pullrequestreview-3985938291) - 2026-03-21
+* [Commit] [fix(test): eliminate flakiness in BlockchainProcessorTests (#10905)](https://github.com/NethermindEth/nethermind/commit/e9232ab960171d7db8224d89a08b731120fc501a) - 2026-03-21
 ## Q4 2025
 
 

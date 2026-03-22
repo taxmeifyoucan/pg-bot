@@ -26,3 +26,4 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Beacon state: Replace `*ethpb.Validator` by `CompactValidator`](https://github.com/OffchainLabs/prysm/pull/16535#pullrequestreview-3960509968) - 2026-03-17
 * [Review] [Review on: Refactor state retrieval to use `ReadOnly` methods when possible, avoiding unnecessary copies.](https://github.com/OffchainLabs/prysm/pull/16511#pullrequestreview-3970183300) - 2026-03-18
 * [Review] [Review on: Hdiff restart support](https://github.com/OffchainLabs/prysm/pull/16389#pullrequestreview-3976508441) - 2026-03-19
+* [Pull Request] [Fix logging level bug for non text formats](https://github.com/OffchainLabs/prysm/pull/16567) - 2026-03-21
