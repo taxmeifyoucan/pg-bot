@@ -48,6 +48,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test: Add `SHA256` precompile tests](https://github.com/NethermindEth/nethermind/pull/10910#pullrequestreview-3986665785) - 2026-03-21
 * [Review] [Review on: test: Add `BLAKE2F` precompile tests](https://github.com/NethermindEth/nethermind/pull/10909#pullrequestreview-3986669893) - 2026-03-21
 * [Issue] [Flaky test: RunDiscoveryPersistenceCommit_Should_Update_Nodes_In_Storage on macOS](https://github.com/NethermindEth/nethermind/issues/10911) - 2026-03-21
+* [Review] [Review on: fix: fix SnapSync regression from network layer refactor](https://github.com/NethermindEth/nethermind/pull/10902#pullrequestreview-3987760583) - 2026-03-22
+* [Issue] [Potential unbounded growth of _blockValidationTasks in NewPayloadHandler](https://github.com/NethermindEth/nethermind/issues/10915) - 2026-03-22
+* [Commit] [Fix flaky DiscoveryPersistenceManager test on macOS CI (#10912)](https://github.com/NethermindEth/nethermind/commit/00ecb436dd816c508ba8e9df08e7fbcc98b9b778) - 2026-03-22
+* [Commit] [fix(db): reuse ReadOptions in ColumnDbSnapshot to reduce GC pressure (#10894)](https://github.com/NethermindEth/nethermind/commit/e1cc5d8e395d798e1cdc7cbe6e78729fc5077dda) - 2026-03-22
 ## Q3 2025
 
 

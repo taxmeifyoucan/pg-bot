@@ -107,6 +107,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Added a new scheduler to potentially replace quartz (#10480)](https://github.com/Consensys/teku/commit/b811dad9c941c2c030f3526073a00e76847ae95b) - 2026-03-20
 * [Review] [Review on: Bump flatted from 3.2.7 to 3.4.2 in /.openapidoc](https://github.com/Consensys/teku/pull/10513#pullrequestreview-3979015755) - 2026-03-20
 * [Pull Request] [clarified index in attestation data](https://github.com/Consensys/teku/pull/10515) - 2026-03-20
+* [Review] [Review on: Schedule Fulu fork for Gnosis mainnet](https://github.com/Consensys/teku/pull/10518#pullrequestreview-3987834210) - 2026-03-22
+* [Review] [Review on: fix docker gha with a githash](https://github.com/Consensys/teku/pull/10519#pullrequestreview-3988858520) - 2026-03-23
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

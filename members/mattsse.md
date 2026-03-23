@@ -124,6 +124,12 @@ Team: Reth
 * [Review] [Review on: chore(engine): lower "yielded transaction" log from debug to trace](https://github.com/paradigmxyz/reth/pull/23142#pullrequestreview-3985493613) - 2026-03-21
 * [Pull Request] [chore(deps): allow lru advisory and bump rustls-webpki](https://github.com/paradigmxyz/reth/pull/23145) - 2026-03-21
 * [Commit] [chore(deps): allow lru advisory and bump rustls-webpki (#23145)](https://github.com/paradigmxyz/reth/commit/76e45117da8337b32077e51e2f759dee582a16cc) - 2026-03-21
+* [Review] [Review on: fix: gracefully shut down engine](https://github.com/paradigmxyz/reth/pull/23159#pullrequestreview-3988526142) - 2026-03-22
+* [Pull Request] [revert: "fix(engine/tree): continue sync-target progression for already-seen downloaded blocks"](https://github.com/paradigmxyz/reth/pull/23157) - 2026-03-22
+* [Review] [Review on: refactor: remove bincode usage from `HeaderStage`](https://github.com/paradigmxyz/reth/pull/23156#pullrequestreview-3988326704) - 2026-03-22
+* [Review] [Review on: fix(download): avoid double-counting resumable progress on retry](https://github.com/paradigmxyz/reth/pull/23151#pullrequestreview-3987532818) - 2026-03-22
+* [Review] [Review on: perf(engine): clone block body instead of full block for tx root task](https://github.com/paradigmxyz/reth/pull/23147#pullrequestreview-3987451093) - 2026-03-22
+* [Commit] [revert: "fix(engine/tree): continue sync-target progression for already-seen downloaded blocks" (#23157)](https://github.com/paradigmxyz/reth/commit/2d2778fa2437cc330828e76f5bb69083b30b3f6e) - 2026-03-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

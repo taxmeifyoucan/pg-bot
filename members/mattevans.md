@@ -45,6 +45,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [refactor: go-fix](https://github.com/ethpandaops/xatu/pull/751) - 2026-02-18
 * [Pull Request] [refactor: trace_identify plumbing](https://github.com/ethpandaops/xatu/pull/765) - 2026-02-23
 
+* [Pull Request] [release: gloas](https://github.com/ethpandaops/xatu/pull/795) - 2026-03-23
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Pull Request] [fix: resolve golangci-lint issues](https://github.com/ethpandaops/contributoor/pull/195) - 2026-03-11
 * [Pull Request] [chore: bump go-ethereum to v1.17.1](https://github.com/ethpandaops/contributoor/pull/194) - 2026-03-10

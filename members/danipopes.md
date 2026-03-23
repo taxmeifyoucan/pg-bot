@@ -60,6 +60,9 @@ Team: Reth
 * [Review] [Review on: ci: disable PGO by default, rename input to `pgo`](https://github.com/paradigmxyz/reth/pull/23016#pullrequestreview-3942528720) - 2026-03-13
 * [Review] [Review on: perf(engine): downgrade prewarm per-tx span from debug to trace](https://github.com/paradigmxyz/reth/pull/23138#pullrequestreview-3981558972) - 2026-03-20
 * [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23148#pullrequestreview-3987220958) - 2026-03-22
+* [Review] [Review on: docs: clarify transaction pool link wording](https://github.com/paradigmxyz/reth/pull/23160#pullrequestreview-3988634818) - 2026-03-22
+* [Review] [Review on: fix(rpc): return error instead of empty response for missing blocks in debug_getRaw](https://github.com/paradigmxyz/reth/pull/22675#pullrequestreview-3988598001) - 2026-03-22
+* [Review] [Review on: fix: gracefully shut down engine](https://github.com/paradigmxyz/reth/pull/23159#pullrequestreview-3988529548) - 2026-03-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
@@ -69,6 +72,7 @@ Team: Reth
 
 * [Pull Request] [chore(revme): use alloy-trie instead of triehash](https://github.com/bluealloy/revm/pull/3488) - 2026-03-09
 * [Review] [Review on: fix: make DummyHost return defaults instead of errors for storage ops](https://github.com/bluealloy/revm/pull/3503#pullrequestreview-3949304214) - 2026-03-14
+* [Pull Request] [feat: add CallInput::as_bytes](https://github.com/bluealloy/revm/pull/3515) - 2026-03-22
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [fix: make state tests pass](https://github.com/paradigmxyz/revmc/pull/95) - 2026-03-05
 * [Pull Request] [fix: remove flaky builtin_symbols_exported test](https://github.com/paradigmxyz/revmc/pull/108) - 2026-03-07
@@ -108,6 +112,19 @@ Team: Reth
 * [Commit] [chore: bump deps (#141)](https://github.com/paradigmxyz/revmc/commit/99d3beeac6f55962b01c5fa9635fa13512bc86ec) - 2026-03-20
 * [Pull Request] [fix: use unaligned loads for manual loads](https://github.com/paradigmxyz/revmc/pull/143) - 2026-03-21
 * [Commit] [fix: use unaligned loads for manual loads (#143)](https://github.com/paradigmxyz/revmc/commit/b05a6a2a7b231c039e972618b1e22e27bf4ba21c) - 2026-03-21
+* [Pull Request] [feat: add block analysis pass for dynamic jump resolution](https://github.com/paradigmxyz/revmc/pull/149) - 2026-03-22
+* [Pull Request] [feat: improve compiler dump remarks](https://github.com/paradigmxyz/revmc/pull/150) - 2026-03-22
+* [Pull Request] [fix: align IR annotation comments](https://github.com/paradigmxyz/revmc/pull/148) - 2026-03-22
+* [Pull Request] [refactor: use B256 instead of [u8; 32] in EvmWord](https://github.com/paradigmxyz/revmc/pull/147) - 2026-03-22
+* [Pull Request] [chore: simplify calldataload](https://github.com/paradigmxyz/revmc/pull/146) - 2026-03-22
+* [Pull Request] [fix: reuse memory resize from revm](https://github.com/paradigmxyz/revmc/pull/145) - 2026-03-22
+* [Pull Request] [feat: DWARF debug info for generated code](https://github.com/paradigmxyz/revmc/pull/144) - 2026-03-22
+* [Commit] [feat: improve compiler dump remarks (#150)](https://github.com/paradigmxyz/revmc/commit/abbffcd6ca4b4895d9e7e82a84ddcc7175519b04) - 2026-03-22
+* [Commit] [fix: align IR annotation comments (#148)](https://github.com/paradigmxyz/revmc/commit/236d9e07554e732dddd4a20c71abbd879edc1e47) - 2026-03-22
+* [Commit] [refactor: use B256 instead of [u8; 32] in EvmWord (#147)](https://github.com/paradigmxyz/revmc/commit/36b10d6990e137a9be532c9c74795192e2a3576a) - 2026-03-22
+* [Commit] [chore: simplify calldataload (#146)](https://github.com/paradigmxyz/revmc/commit/d46f434c99927082f8cf27a119405e7c43946a53) - 2026-03-22
+* [Commit] [fix: reuse memory resize from revm (#145)](https://github.com/paradigmxyz/revmc/commit/f1990bcb7ca156dc9a8fa14013df660363806df8) - 2026-03-22
+* [Commit] [feat: DWARF debug info for generated code (#144)](https://github.com/paradigmxyz/revmc/commit/0a66507a088ac3147a84b4f4ec8241e48ad45da4) - 2026-03-22
 ## Q4 2025
 
 

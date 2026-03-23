@@ -137,6 +137,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution: fix EIP-7825 gas pool depletion by checking cap before buyGas](https://github.com/erigontech/erigon/pull/20058#pullrequestreview-3985879902) - 2026-03-21
 * [Review] [Review on: [rpc] Add Tracking to Subscriptions Made via HTTP for Unused Filter Eviction](https://github.com/erigontech/erigon/pull/18591#pullrequestreview-3985813674) - 2026-03-21
 * [Commit] [Makefile: auto-create RAM disk for test-all on macOS (#20060)](https://github.com/erigontech/erigon/commit/46a764dce3fe402cbfe71a86ba159d0817d08c83) - 2026-03-21
+* [Pull Request] [db, execmoduletester: fix data race in EnableDomain vs openFolder](https://github.com/erigontech/erigon/pull/20068) - 2026-03-22
+* [Pull Request] [tests: overlay-based block test execution with genesis cache](https://github.com/erigontech/erigon/pull/20063) - 2026-03-22
+* [Pull Request] [execution/vm: fix EIP-8037 CALL gas charge ordering](https://github.com/erigontech/erigon/pull/20067) - 2026-03-22
+* [Pull Request] [ci: make hive-eest mandatory for merge queue](https://github.com/erigontech/erigon/pull/20064) - 2026-03-22
+* [Pull Request] [db, tests: fix data race in Aggregator.EnableDomain during parallel tests](https://github.com/erigontech/erigon/pull/20066) - 2026-03-22
+* [Review] [Review on: feat: add block building duration metric and Grafana panel](https://github.com/erigontech/erigon/pull/19833#pullrequestreview-3988144704) - 2026-03-22
+* [Commit] [db, execmoduletester: fix data race in EnableDomain vs openFolder (#20068)](https://github.com/erigontech/erigon/commit/2f0f3a47180a94704e98fb404cd22d7677ddca56) - 2026-03-22
+* [Commit] [ci: make hive-eest mandatory for merge queue (#20064)](https://github.com/erigontech/erigon/commit/31d93c33639de17f0cc82dbb4b03ec149738ed04) - 2026-03-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

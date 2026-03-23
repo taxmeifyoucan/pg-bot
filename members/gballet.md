@@ -67,6 +67,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: trie/bintrie: replace BinaryNode interface with GC-free NodeRef arena](https://github.com/ethereum/go-ethereum/pull/34055#pullrequestreview-3980601347) - 2026-03-20
 * [Review] [Review on: core/state: bypass per-account updateTrie in IntermediateRoot for binary trie](https://github.com/ethereum/go-ethereum/pull/34022#pullrequestreview-3981963690) - 2026-03-20
 * [Commit] [trie/bintrie: fix NodeIterator Empty node handling and expose tree accessors (#34056)](https://github.com/ethereum/go-ethereum/commit/305cd7b9eb1c2b2f9e555309bce8a389633ca923) - 2026-03-20
+* [Pull Request] [.github/workflows: fix FreeBSD CI to use ubuntu-latest runner](https://github.com/ethereum/go-ethereum/pull/34071) - 2026-03-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7864: encode offset as big endian](https://github.com/ethereum/EIPs/pull/11389) - 2026-03-09
 ## Q4 2025

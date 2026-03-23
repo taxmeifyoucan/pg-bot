@@ -54,12 +54,14 @@ Team: Erigon
 * [Review] [Review on: seg: revert global limiter](https://github.com/erigontech/erigon/pull/20033#pullrequestreview-3980848646) - 2026-03-20
 * [Review] [Review on: remove e3 banner from logs](https://github.com/erigontech/erigon/pull/20029#pullrequestreview-3980848556) - 2026-03-20
 * [Review] [Review on: Caplin: prevent calling `glob` per file in `BuildMissingIndices`](https://github.com/erigontech/erigon/pull/20046#pullrequestreview-3985209841) - 2026-03-21
+* [Review] [Review on: db, execmoduletester: fix data race in EnableDomain vs openFolder](https://github.com/erigontech/erigon/pull/20068#pullrequestreview-3988722533) - 2026-03-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Engine API Communication Channels](https://github.com/ethereum/EIPs/pull/11360) - 2026-02-28
 
 * [Pull Request] [Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/pull/11365) - 2026-03-10
 * [Commit] [Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/commit/73afb6b4d30b0430ff8fb29b09bddb5ace928c9a) - 2026-03-10
 * [Pull Request] [Update EIP-8175: Add Falcon-512 post-quantum signature scheme](https://github.com/ethereum/EIPs/pull/11431) - 2026-03-20
+* [Pull Request] [Add EIP: SchemedTransaction — Scheme-Agile Transactions](https://github.com/ethereum/EIPs/pull/11438) - 2026-03-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add engine_exchangeCapabilitiesV2](https://github.com/ethereum/execution-apis/pull/766) - 2026-03-05
 

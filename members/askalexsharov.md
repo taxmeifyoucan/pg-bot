@@ -161,6 +161,14 @@ Team: Erigon
 * [Review] [Review on: [SharovBot] [r3.4] rpc: fix on blockOverride & StateOverride](https://github.com/erigontech/erigon/pull/20052#pullrequestreview-3985749484) - 2026-03-21
 * [Review] [Review on: [SharovBot] [r3.4] db/kv/mdbx: fix deadlock in async tx channel on context cancellation](https://github.com/erigontech/erigon/pull/20048#pullrequestreview-3985750610) - 2026-03-21
 * [Pull Request] [Caplin: prevent calling `glob` per file in `BuildMissingIndices`](https://github.com/erigontech/erigon/pull/20046) - 2026-03-21
+* [Pull Request] [merge: prioritize `Domain` merge over `StandeloneInvIdx`](https://github.com/erigontech/erigon/pull/20065) - 2026-03-22
+* [Review] [Review on: [r3.4] node/cli: fix dotted CLI flags ignored in TOML/YAML config files](https://github.com/erigontech/erigon/pull/20069#pullrequestreview-3988944618) - 2026-03-23
+* [Review] [Review on: [r3.4] execution/tests: skip on Windows](https://github.com/erigontech/erigon/pull/20072#pullrequestreview-3988943874) - 2026-03-23
+* [Review] [Review on: [r3.4] downloader: update anacrolix/torrent to latest master](https://github.com/erigontech/erigon/pull/20071#pullrequestreview-3988943472) - 2026-03-23
+* [Review] [Review on: [r3.4] db/state, txpool: benchmark fixes and bench flag improvements](https://github.com/erigontech/erigon/pull/20070#pullrequestreview-3988943165) - 2026-03-23
+* [Pull Request] [commitment rebuild: `--yes` to bypass prompt for background run](https://github.com/erigontech/erigon/pull/20073) - 2026-03-23
+* [Review] [Review on: ci: make hive-eest mandatory for merge queue](https://github.com/erigontech/erigon/pull/20064#pullrequestreview-3988153890) - 2026-03-22
+* [Review] [Review on: rpc/jsonrpc: fix debug_getBadBlocks swapped block/rlp fields](https://github.com/erigontech/erigon/pull/20053#pullrequestreview-3987532298) - 2026-03-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

@@ -46,6 +46,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: introduce nativeStateView feature flag](https://github.com/ChainSafe/lodestar/pull/9067) - 2026-03-20
 * [Pull Request] [chore: clean up UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/9069) - 2026-03-20
 * [Review] [Review on: feat(reqresp): track peer rate-limit backoff in SelfRateLimiter](https://github.com/ChainSafe/lodestar/pull/9034#pullrequestreview-3980250247) - 2026-03-20
+* [Review] [Review on: feat: add toValue() to IBeaconStateView, simplify debug API](https://github.com/ChainSafe/lodestar/pull/9078#pullrequestreview-3988940588) - 2026-03-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 * [Review] [Review on: fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241#pullrequestreview-3948190078) - 2026-03-14

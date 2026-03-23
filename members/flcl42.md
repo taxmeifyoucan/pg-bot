@@ -47,6 +47,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Check logs RLP (#10862)](https://github.com/NethermindEth/nethermind/commit/f8aea69d5b1b014cbb48f73a2ead13ff4562faaa) - 2026-03-19
 * [Review] [Review on: fix: raise snap response limits to prevent SnapSync regression](https://github.com/NethermindEth/nethermind/pull/10904#pullrequestreview-3981801437) - 2026-03-20
 * [Review] [Review on: docs: overhaul README structure and content](https://github.com/NethermindEth/nethermind/pull/10856#pullrequestreview-3985958476) - 2026-03-21
+* [Review] [Review on: Fix flaky DiscoveryPersistenceManager test on macOS CI](https://github.com/NethermindEth/nethermind/pull/10912#pullrequestreview-3988385387) - 2026-03-22
 ## Q4 2025
 
 

@@ -68,3 +68,7 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Commit] [db/state, txpool: benchmark fixes and bench flag improvements (#19971)](https://github.com/erigontech/erigon/commit/edc37228ad979d7c4e5753fbdd23713804f38a3b) - 2026-03-20
 * [Commit] [ci: update workflows for merge queue (#20008)](https://github.com/erigontech/erigon/commit/ac64e28ee328158f3d094da3919662a8dd969226) - 2026-03-20
 * [Pull Request] [ci: prune-gocache print sort bounds of retained and deleted files](https://github.com/erigontech/erigon/pull/20047) - 2026-03-21
+* [Pull Request] [[r3.4] node/cli: fix dotted CLI flags ignored in TOML/YAML config files](https://github.com/erigontech/erigon/pull/20069) - 2026-03-22
+* [Pull Request] [[r3.4] execution/tests: skip on Windows](https://github.com/erigontech/erigon/pull/20072) - 2026-03-22
+* [Pull Request] [[r3.4] downloader: update anacrolix/torrent to latest master](https://github.com/erigontech/erigon/pull/20071) - 2026-03-22
+* [Pull Request] [[r3.4] db/state, txpool: benchmark fixes and bench flag improvements](https://github.com/erigontech/erigon/pull/20070) - 2026-03-22

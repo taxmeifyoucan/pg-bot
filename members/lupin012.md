@@ -50,6 +50,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: optimisation debug_traceTransaction](https://github.com/erigontech/erigon/pull/20059) - 2026-03-21
 * [Pull Request] [rpc: debug_accountRange: add address/key as Geth](https://github.com/erigontech/erigon/pull/20057) - 2026-03-21
 * [Pull Request] [rpc/jsonrpc: fix debug_getBadBlocks swapped block/rlp fields](https://github.com/erigontech/erigon/pull/20053) - 2026-03-21
+* [Pull Request] [[wip] CI: update stateRoot according Geth](https://github.com/erigontech/erigon/pull/20062) - 2026-03-22
+* [Commit] [rpc: optimisation debug_traceTransaction (#20059)](https://github.com/erigontech/erigon/commit/4a77fef2005467ba536f26cce5fa7a37a1b2bc18) - 2026-03-22
+* [Commit] [QA: disable temporary 3 eth_simulateV1 (#20015)](https://github.com/erigontech/erigon/commit/40915ab5fb202eea846bbfc517932ca6a49affe9) - 2026-03-22
+* [Commit] [rpc/jsonrpc: fix debug_getBadBlocks swapped block/rlp fields (#20053)](https://github.com/erigontech/erigon/commit/4f262dbbe1056b1de1b50a5f63c70f91b39013cb) - 2026-03-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15
@@ -68,6 +72,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [Fix exp debug get modified accounts by](https://github.com/erigontech/rpc-tests/pull/531) - 2026-03-20
 * [Commit] [fix in case o% (#530)](https://github.com/erigontech/rpc-tests/commit/1dee08204a1b47c078c3f8bc567cfdcefc23c18b) - 2026-03-20
 * [Commit] [rpc: fix rsp debug account range according Geth (#532)](https://github.com/erigontech/rpc-tests/commit/c74c58429565b630edfb054a575e603532b03605) - 2026-03-21
+* [Pull Request] [[WIP] eth_simulateV1: update stateRoot](https://github.com/erigontech/rpc-tests/pull/533) - 2026-03-22
 ## Q4 2025
 
 

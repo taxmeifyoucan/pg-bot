@@ -40,6 +40,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Unknown block for envelope](https://github.com/sigp/lighthouse/pull/8992#pullrequestreview-3958347319) - 2026-03-17
 * [Issue] [Implement reprocess queue for a block whose parent envelope is unknown](https://github.com/sigp/lighthouse/issues/8994) - 2026-03-17
 * [Review] [Review on: Gloas cold DB](https://github.com/sigp/lighthouse/pull/8991#pullrequestreview-3972899310) - 2026-03-19
+* [Pull Request] [Carry forward withdrawals from the current `BeaconState` when a parent envelope is missed](https://github.com/sigp/lighthouse/pull/9014) - 2026-03-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add details about how a validator should set `blob_data_available` for `PayloadAttestationData`](https://github.com/ethereum/consensus-specs/pull/4854) - 2026-01-21
 ## Q4 2025

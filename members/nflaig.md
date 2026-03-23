@@ -99,12 +99,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: clean up UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/9069#pullrequestreview-3980984971) - 2026-03-20
 * [Review] [Review on: feat: add --http.requestTimeout flag to configure vc http request timeout](https://github.com/ChainSafe/lodestar/pull/9086#pullrequestreview-3985902900) - 2026-03-21
 * [Review] [Review on: feat: fork-aware IBeaconStateView type narrowing](https://github.com/ChainSafe/lodestar/pull/9085#pullrequestreview-3985917022) - 2026-03-21
+* [Review] [Review on: fix: handle falsy zero in indexed attestation bounds check](https://github.com/ChainSafe/lodestar/pull/9088#pullrequestreview-3988066437) - 2026-03-22
+* [Pull Request] [refactor: avoid falsy zero check in indexed attestation bounds validation](https://github.com/ChainSafe/lodestar/pull/9089) - 2026-03-22
+* [Review] [Review on: refactor: avoid falsy zero check in indexed attestation bounds validation](https://github.com/ChainSafe/lodestar/pull/9089#pullrequestreview-3988088911) - 2026-03-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15
 * [Commit] [Fix builder voluntary exit success test (#5005)](https://github.com/ethereum/consensus-specs/commit/1baa05e71148b0975e28918ac6022d2256b56f4a) - 2026-03-15
 * [Pull Request] [Add PTC lookbehind minimal state change](https://github.com/ethereum/consensus-specs/pull/5020) - 2026-03-19
 * [Review] [Review on: Add PTC lookbehind minimal state change](https://github.com/ethereum/consensus-specs/pull/5020#pullrequestreview-3974835067) - 2026-03-19
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Review] [Review on: feat: implement getEffectiveBalanceIncrementsZeroInactive](https://github.com/ChainSafe/lodestar-z/pull/240#pullrequestreview-3987648664) - 2026-03-22
 ## Q4 2025
 
 

@@ -131,6 +131,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(test): eliminate flakiness in BlockchainProcessorTests](https://github.com/NethermindEth/nethermind/pull/10905#pullrequestreview-3986773664) - 2026-03-21
 * [Review] [Review on: Reinstate removed `IGasPolicy` methods and apply for eip-8037](https://github.com/NethermindEth/nethermind/pull/10897#pullrequestreview-3985938291) - 2026-03-21
 * [Commit] [fix(test): eliminate flakiness in BlockchainProcessorTests (#10905)](https://github.com/NethermindEth/nethermind/commit/e9232ab960171d7db8224d89a08b731120fc501a) - 2026-03-21
+* [Review] [Review on: feat: upstream changes for ArbOS 60 multi-gas constraints](https://github.com/NethermindEth/nethermind/pull/10765#pullrequestreview-3988711292) - 2026-03-22
+* [Review] [Review on: Fix test chainspec configuration to prevent spurious misconfiguration warnings](https://github.com/NethermindEth/nethermind/pull/10881#pullrequestreview-3987940524) - 2026-03-22
+* [Review] [Review on: fix: clean up _blockValidationTasks on all exit paths in NewPayloadHandler](https://github.com/NethermindEth/nethermind/pull/10916#pullrequestreview-3988042174) - 2026-03-22
+* [Review] [Review on: fix: fix inverted dispose logic in BackgroundTaskScheduler](https://github.com/NethermindEth/nethermind/pull/10907#pullrequestreview-3987938936) - 2026-03-22
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/10913#pullrequestreview-3987936988) - 2026-03-22
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/10914#pullrequestreview-3987936787) - 2026-03-22
 ## Q4 2025
 
 

@@ -82,6 +82,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Reinstate removed `IGasPolicy` methods and apply for eip-8037](https://github.com/NethermindEth/nethermind/pull/10897#pullrequestreview-3983847359) - 2026-03-20
 * [Review] [Review on: test: Add `MODEXP` precompile tests](https://github.com/NethermindEth/nethermind/pull/10888#pullrequestreview-3979589717) - 2026-03-20
 * [Review] [Review on: perf: full PGO data, cross-module inlining, Pettis-Hansen method layout](https://github.com/NethermindEth/nethermind/pull/10877#pullrequestreview-3986915685) - 2026-03-21
+* [Review] [Review on: Fix test chainspec configuration to prevent spurious misconfiguration warnings](https://github.com/NethermindEth/nethermind/pull/10881#pullrequestreview-3988478996) - 2026-03-22
+* [Review] [Review on: Fix flaky DiscoveryPersistenceManager test on macOS CI](https://github.com/NethermindEth/nethermind/pull/10912#pullrequestreview-3988477831) - 2026-03-22
 ## Q4 2025
 
 

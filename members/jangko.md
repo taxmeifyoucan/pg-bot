@@ -23,6 +23,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Issue] [Unusual database access of ledger's clearStorage](https://github.com/status-im/nimbus-eth1/issues/4024) - 2026-02-27
 * [Review] [Review on: Clear storage when persisting ledger changes (refs #4024)](https://github.com/status-im/nimbus-eth1/pull/4050#pullrequestreview-3975886365) - 2026-03-19
 * [Review] [Review on: Clear storage when persisting ledger changes (refs #4024)](https://github.com/status-im/nimbus-eth1/pull/4050#pullrequestreview-3980239414) - 2026-03-20
+* [Pull Request] [Upgrade github actions/checkout to v6](https://github.com/status-im/nimbus-eth1/pull/4056) - 2026-03-23
+* [Pull Request] [BlockTag now parsing hash](https://github.com/status-im/nimbus-eth1/pull/4013) - 2026-03-23
+* [Commit] [BlockTag now parsing hash (#4013)](https://github.com/status-im/nimbus-eth1/commit/a2f32c4fb2bab32473b86d7e64d6cc33ccb565c1) - 2026-03-23
 ## Q4 2025
 
 

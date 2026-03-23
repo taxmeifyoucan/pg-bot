@@ -38,6 +38,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(engine): downgrade prewarm per-tx span from debug to trace](https://github.com/paradigmxyz/reth/pull/23138#pullrequestreview-3981497914) - 2026-03-20
 * [Pull Request] [fix: change `DEFAULT_IGNORE_GAS_PRICE`](https://github.com/paradigmxyz/reth/pull/23134) - 2026-03-20
 * [Commit] [fix: change `DEFAULT_IGNORE_GAS_PRICE` (#23134)](https://github.com/paradigmxyz/reth/commit/72d0e04d856d1f8a62fb220e14e5898fde625d5b) - 2026-03-20
+* [Pull Request] [fix: gracefully shut down engine](https://github.com/paradigmxyz/reth/pull/23159) - 2026-03-22
+* [Review] [Review on: revert: "fix(engine/tree): continue sync-target progression for already-seen downloaded blocks"](https://github.com/paradigmxyz/reth/pull/23157#pullrequestreview-3988335675) - 2026-03-22
+* [Pull Request] [refactor: remove bincode usage from `HeaderStage`](https://github.com/paradigmxyz/reth/pull/23156) - 2026-03-22
+* [Commit] [fix: gracefully shut down engine (#23159)](https://github.com/paradigmxyz/reth/commit/c9e9db184eee1f2a0eeb558be2144cf588ed6ce3) - 2026-03-22
+* [Commit] [refactor: remove bincode usage from `HeaderStage` (#23156)](https://github.com/paradigmxyz/reth/commit/7551d9c5dd45dab0c7245d76211436a99449fb36) - 2026-03-22
 ## Q4 2025
 
 

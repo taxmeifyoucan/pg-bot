@@ -49,6 +49,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add initial fork choice tests for Gloas](https://github.com/ethereum/consensus-specs/pull/4940#pullrequestreview-3943950648) - 2026-03-13
 * [Commit] [Add dependencies section to release notes (#5004)](https://github.com/ethereum/consensus-specs/commit/e50889e1ca5b09b70abc90df7d1ece4b2581e4ce) - 2026-03-13
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950138606) - 2026-03-15
+* [Commit] [Add executable gossip validation functions for phase0 (#4902)](https://github.com/ethereum/consensus-specs/commit/7ef8e2945e908bdc68087ea9b8efc1652ecc8225) - 2026-03-22
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: enable specref features & remove unnecessary spec items](https://github.com/ChainSafe/lodestar/pull/8788) - 2026-01-27
 

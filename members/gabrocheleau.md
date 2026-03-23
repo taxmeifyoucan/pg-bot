@@ -19,6 +19,7 @@ Team: EthereumJS
 * [Issue] [Stateless Implementers Call #47, January 26, 2026](https://github.com/ethereum/pm/issues/1873) - 2026-01-12
 
 * [Issue] [Stateless Implementer's Call #49, February 23rd, 2026](https://github.com/ethereum/pm/issues/1919) - 2026-02-10
+* [Issue] [Stateless Implementers Call #50, March 23, 2026](https://github.com/ethereum/pm/issues/1980) - 2026-03-22
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
 * [Pull Request] [docs: add comments for bytesToUnprefixed strings](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4212) - 2026-01-15
 * [Issue] [Glamsterdam Hardfork Meta Issue](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4238) - 2026-01-29
