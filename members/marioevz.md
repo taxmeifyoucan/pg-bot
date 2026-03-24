@@ -57,6 +57,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [feat(test-fill): `--verify-traces` flag for automatic trace comparison across test runs](https://github.com/ethereum/execution-specs/issues/2506) - 2026-03-13
 * [Commit] [feat(tests): Remove static test sources](https://github.com/ethereum/execution-specs/commit/365433e1ba3d5cc2716db0b08a3cdd6a2f24210a) - 2026-03-13
 * [Commit] [feat(test-execute): Defer pre-alloc methods remote checks to batch them (#2475)](https://github.com/ethereum/execution-specs/commit/8bdfb46e67c8cd195636c05e7c18f4f00b7d7c86) - 2026-03-13
+* [Review] [Review on: refactor(tests),feat(test-forks): add `filter_combinations` pytest marker to avoid runtime skips](https://github.com/ethereum/execution-specs/pull/2543#pullrequestreview-3995018514) - 2026-03-23
+* [Review] [Review on: refactor(tests): replace runtime skips with upfront parametrize filtering](https://github.com/ethereum/execution-specs/pull/2542#pullrequestreview-3994843327) - 2026-03-23
+* [Review] [Review on: chore(fill): guard type-only `pre_alloc` import behind `TYPE_CHECKING`](https://github.com/ethereum/execution-specs/pull/2541#pullrequestreview-3994766300) - 2026-03-23
+* [Review] [Review on: chore(test-fill): don't collect tests for unsupported forks](https://github.com/ethereum/execution-specs/pull/2540#pullrequestreview-3994734974) - 2026-03-23
+* [Commit] [feat(cli-evm-bytes): Detect repeating opcodes (#2502)](https://github.com/ethereum/execution-specs/commit/aaa4481ed3fc544c274768ed44ae17c3669ea58f) - 2026-03-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Louis from STEEL, ethereum/execution-specs](https://github.com/protocolguild/documentation/pull/472) - 2026-01-15
 ## Q4 2025

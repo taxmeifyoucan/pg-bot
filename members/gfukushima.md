@@ -36,6 +36,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 
 * [Review] [Review on: updated 3rd party libs](https://github.com/Consensys/teku/pull/10514#pullrequestreview-3978763416) - 2026-03-20
 * [Pull Request] [Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516) - 2026-03-20
+* [Review] [Review on: cleanup NO_OP instances](https://github.com/Consensys/teku/pull/10521#pullrequestreview-3990585445) - 2026-03-23
+* [Commit] [Add option to enable blobdb on RocksDB (#10470)](https://github.com/Consensys/teku/commit/ca9bf8d6325c67223e775627a7da66cc47fdad4e) - 2026-03-23
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Propose Miroslav Kovář as a maintainer](https://github.com/besu-eth/besu/pull/10033#pullrequestreview-3971424773) - 2026-03-18
 

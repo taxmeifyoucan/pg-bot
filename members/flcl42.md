@@ -48,6 +48,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix: raise snap response limits to prevent SnapSync regression](https://github.com/NethermindEth/nethermind/pull/10904#pullrequestreview-3981801437) - 2026-03-20
 * [Review] [Review on: docs: overhaul README structure and content](https://github.com/NethermindEth/nethermind/pull/10856#pullrequestreview-3985958476) - 2026-03-21
 * [Review] [Review on: Fix flaky DiscoveryPersistenceManager test on macOS CI](https://github.com/NethermindEth/nethermind/pull/10912#pullrequestreview-3988385387) - 2026-03-22
+* [Review] [Review on: test: update pyspec fixtures to v5.4.0/v5.5.1 and adapt to forked release layout](https://github.com/NethermindEth/nethermind/pull/10931#pullrequestreview-3993877504) - 2026-03-23
+* [Pull Request] [Prewarm BAL](https://github.com/NethermindEth/nethermind/pull/10924) - 2026-03-23
+* [Review] [Review on: Gnosis Osaka](https://github.com/NethermindEth/nethermind/pull/10906#pullrequestreview-3992913605) - 2026-03-23
+* [Pull Request] [Dispose on exception](https://github.com/NethermindEth/nethermind/pull/10921) - 2026-03-23
+* [Review] [Review on: Dispose on exception](https://github.com/NethermindEth/nethermind/pull/10921#pullrequestreview-3993090416) - 2026-03-23
+* [Pull Request] [Add flags](https://github.com/NethermindEth/nethermind/pull/10929) - 2026-03-23
+* [Pull Request] [Rollback eth/70 + lantern upd](https://github.com/NethermindEth/nethermind/pull/10918) - 2026-03-23
+* [Pull Request] [Handle IP addresses better in discv5](https://github.com/NethermindEth/nethermind/pull/10926) - 2026-03-23
+* [Commit] [Dispose on exception (#10921)](https://github.com/NethermindEth/nethermind/commit/4228cb331f43a4a39384923aab1305b9181c595a) - 2026-03-23
 ## Q4 2025
 
 

@@ -27,6 +27,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Snap download: Fallback to resync world state if incomplete](https://github.com/besu-eth/besu/pull/10019#pullrequestreview-3965225798) - 2026-03-18
 * [Review] [Review on: Fix eth/69 receipt encoding for Frontier tx](https://github.com/besu-eth/besu/pull/9900#pullrequestreview-3965008705) - 2026-03-18
 * [Review] [Review on: Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048#pullrequestreview-3979974392) - 2026-03-20
+* [Review] [Review on: Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048#pullrequestreview-3989200767) - 2026-03-23
+* [Commit] [Defer Snappy decompression of P2P messages until worker thread processing (#10048)](https://github.com/besu-eth/besu/commit/33ced38cefb5679d302e7965cb653c526026fe74) - 2026-03-23
 ## Q4 2025
 
 

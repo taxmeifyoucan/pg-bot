@@ -50,6 +50,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add QUIC support (#8051)](https://github.com/ChainSafe/lodestar/commit/92c37f252528d23cd87f6abcd90a3fe7d477020a) - 2026-03-14
 * [Review] [Review on: chore: fix peerdas metrics](https://github.com/ChainSafe/lodestar/pull/8920#pullrequestreview-3955531729) - 2026-03-16
 * [Review] [Review on: refactor: handle payload import dedupe in processor](https://github.com/ChainSafe/lodestar/pull/9041#pullrequestreview-3961281312) - 2026-03-17
+* [Review] [Review on: docs: add Google Search Console verification file](https://github.com/ChainSafe/lodestar/pull/9097#pullrequestreview-3994652078) - 2026-03-23
+* [Review] [Review on: fix: use IGNORE instead of REJECT for missing payload envelope input](https://github.com/ChainSafe/lodestar/pull/9094#pullrequestreview-3994654902) - 2026-03-23
+* [Review] [Review on: docs: add high-res favicon, apple-touch-icon, and og:image metadata](https://github.com/ChainSafe/lodestar/pull/9095#pullrequestreview-3994129472) - 2026-03-23
+* [Review] [Review on: refactor: avoid falsy zero check in indexed attestation bounds validation](https://github.com/ChainSafe/lodestar/pull/9089#pullrequestreview-3993868837) - 2026-03-23
+* [Review] [Review on: chore: clean up UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/9069#pullrequestreview-3991997936) - 2026-03-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: merge blst-z](https://github.com/ChainSafe/lodestar-z/pull/237) - 2026-03-12
 * [Review] [Review on: feat(fuzz): add AFL++ fuzz testing for SSZ deserialization](https://github.com/ChainSafe/lodestar-z/pull/228#pullrequestreview-3933528390) - 2026-03-12
@@ -67,6 +72,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(blst): native multi-threaded blst](https://github.com/ChainSafe/lodestar-z/pull/235#pullrequestreview-3963530251) - 2026-03-17
 * [Review] [Review on: fix: native metrics example](https://github.com/ChainSafe/lodestar-z/pull/239#pullrequestreview-3961239876) - 2026-03-17
 * [Review] [Review on: chore(ci): add missing test steps for constants, fork_types, era](https://github.com/ChainSafe/lodestar-z/pull/250#pullrequestreview-3976990708) - 2026-03-19
+* [Review] [Review on: fix: replace custom intSqrt with std.math.sqrt](https://github.com/ChainSafe/lodestar-z/pull/263#pullrequestreview-3993850196) - 2026-03-23
 ## Q4 2025
 
 

@@ -135,6 +135,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [BlockchainUtilParameterizedTest - reduce key-pair generations (#10072)](https://github.com/besu-eth/besu/commit/955bf9e3beccbcf22e9c2c7b2ba85c68ad5b296e) - 2026-03-20
 * [Commit] [minimize setup for BesuCommandTest (#10074)](https://github.com/besu-eth/besu/commit/22bf440af89e1e86d32e564864618fab7fef3b54) - 2026-03-21
 * [Pull Request] [update trivy action to v0.35.0](https://github.com/besu-eth/besu/pull/10082) - 2026-03-22
+* [Review] [Review on: receipt decoder - handle both formats at read time](https://github.com/besu-eth/besu/pull/10079#pullrequestreview-3995619250) - 2026-03-24
+* [Pull Request] [eth/70 Fix paginated receipts response size estimation](https://github.com/besu-eth/besu/pull/10089) - 2026-03-23
+* [Pull Request] [Acceptance Tests - narrower port range to minimise conflicts](https://github.com/besu-eth/besu/pull/10084) - 2026-03-23
+* [Review] [Review on: return -38015 when tx gas exceeds block gas limit](https://github.com/besu-eth/besu/pull/10073#pullrequestreview-3989200809) - 2026-03-23
+* [Pull Request] [snap sync - don't disconnect peer for late responses](https://github.com/besu-eth/besu/pull/10087) - 2026-03-23
+* [Pull Request] [Dispatch snap server request processing off Netty event loop](https://github.com/besu-eth/besu/pull/10083) - 2026-03-23
+* [Issue] [snap server dropping response that is too big](https://github.com/besu-eth/besu/issues/10085) - 2026-03-23
+* [Issue] [snap client disconnecting for late response](https://github.com/besu-eth/besu/issues/10086) - 2026-03-23
+* [Commit] [eth/70 Fix paginated receipts response size estimation (#10089)](https://github.com/besu-eth/besu/commit/4aa27839e38be3bd976331395adab79655eafde1) - 2026-03-23
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

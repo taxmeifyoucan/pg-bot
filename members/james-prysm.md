@@ -66,6 +66,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [adding proposer duties to duties v2](https://github.com/OffchainLabs/prysm/pull/16564) - 2026-03-20
 * [Review] [Review on: gloas validator client proposer preferences](https://github.com/OffchainLabs/prysm/pull/16548#pullrequestreview-3978920246) - 2026-03-20
 * [Commit] [split distributed validator components via an abstracted aggregator selector (#16509)](https://github.com/OffchainLabs/prysm/commit/259f526c8d0701d9b5990e28f15c08183e8b8873) - 2026-03-20
+* [Review] [Review on: Fix flaky TestVerifyConnectivity by using local TCP listener](https://github.com/OffchainLabs/prysm/pull/16575#pullrequestreview-3993137043) - 2026-03-23
+* [Commit] [gloas validator client proposer preferences (#16548)](https://github.com/OffchainLabs/prysm/commit/101dd5571009e12f64f7012b62f2408199b17c7d) - 2026-03-23
+* [Commit] [adding proposer duties to duties v2 (#16564)](https://github.com/OffchainLabs/prysm/commit/0a643b177d9f11557925d1e6cd3fefb782b30fa1) - 2026-03-23
 ## Q4 2025
 
 

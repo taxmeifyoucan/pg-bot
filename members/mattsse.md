@@ -130,6 +130,19 @@ Team: Reth
 * [Review] [Review on: fix(download): avoid double-counting resumable progress on retry](https://github.com/paradigmxyz/reth/pull/23151#pullrequestreview-3987532818) - 2026-03-22
 * [Review] [Review on: perf(engine): clone block body instead of full block for tx root task](https://github.com/paradigmxyz/reth/pull/23147#pullrequestreview-3987451093) - 2026-03-22
 * [Commit] [revert: "fix(engine/tree): continue sync-target progression for already-seen downloaded blocks" (#23157)](https://github.com/paradigmxyz/reth/commit/2d2778fa2437cc330828e76f5bb69083b30b3f6e) - 2026-03-22
+* [Review] [Review on: chore: unify InMemorySize](https://github.com/paradigmxyz/reth/pull/23184#pullrequestreview-3994623848) - 2026-03-23
+* [Review] [Review on: fix(download): retry on extraction failure in resumable modular downloads](https://github.com/paradigmxyz/reth/pull/23054#pullrequestreview-3994218571) - 2026-03-23
+* [Review] [Review on: refactor: remove SerdeBincodeCompat trait, use RLP for block serialization](https://github.com/paradigmxyz/reth/pull/23158#pullrequestreview-3992880106) - 2026-03-23
+* [Review] [Review on: perf: disable readahead on slot-preimage MDBX environment](https://github.com/paradigmxyz/reth/pull/23183#pullrequestreview-3993706539) - 2026-03-23
+* [Review] [Review on: chore: fix build hive jobs](https://github.com/paradigmxyz/reth/pull/23169#pullrequestreview-3991997819) - 2026-03-23
+* [Review] [Review on: feat(net): include discv5 ENR data in `admin_nodeInfo` response](https://github.com/paradigmxyz/reth/pull/23170#pullrequestreview-3991567667) - 2026-03-23
+* [Review] [Review on: perf(net): size-based backpressure for session broadcast messages](https://github.com/paradigmxyz/reth/pull/22849#pullrequestreview-3991003340) - 2026-03-23
+* [Review] [Review on: fix: avoid OOM during init-state by dropping prefix sets](https://github.com/paradigmxyz/reth/pull/23166#pullrequestreview-3991129152) - 2026-03-23
+* [Review] [Review on: perf(rpc): avoid cloning InvalidBlock sealed block](https://github.com/paradigmxyz/reth/pull/23162#pullrequestreview-3990905108) - 2026-03-23
+* [Review] [Review on: perf(txpool): add capacity hint in BlobTransactions::satisfy_attributes](https://github.com/paradigmxyz/reth/pull/23125#pullrequestreview-3990801320) - 2026-03-23
+* [Review] [Review on: fix(rpc): apply evm_memory_limit to all execution RPC methods](https://github.com/paradigmxyz/reth/pull/23161#pullrequestreview-3990774122) - 2026-03-23
+* [Pull Request] [docs(consensus): document the validation pipeline and trait hierarchy](https://github.com/paradigmxyz/reth/pull/22869) - 2026-03-23
+* [Commit] [docs(consensus): document the validation pipeline and trait hierarchy (#22869)](https://github.com/paradigmxyz/reth/commit/bc7d5855068a87a216d404553f77428738a139cb) - 2026-03-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

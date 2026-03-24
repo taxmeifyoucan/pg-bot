@@ -33,6 +33,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: fix(test-benchmarks): gas accounting for `test_account_access` when nonzero value](https://github.com/ethereum/execution-specs/pull/2530#pullrequestreview-3973692225) - 2026-03-19
 * [Commit] [fix(benchmarks): correct gas accounting for account_query value > 0 (#2530)](https://github.com/ethereum/execution-specs/commit/40badcfd3b42e41de19c32041eea10b6e62e2348) - 2026-03-19
 * [Pull Request] [fix(benchmarks): use factory which creates non-destructible contracts](https://github.com/ethereum/execution-specs/pull/2539) - 2026-03-22
+* [Commit] [fix(benchmarks): use factory which creates non-destructible contracts (#2539)](https://github.com/ethereum/execution-specs/commit/c9e90a24afc92799327d66b4e886cabbf4e44f93) - 2026-03-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/pull/11391#pullrequestreview-3952860193) - 2026-03-16
 * [Review] [Review on: Update EIP-8141: add mempool policy](https://github.com/ethereum/EIPs/pull/11415#pullrequestreview-3957951837) - 2026-03-17

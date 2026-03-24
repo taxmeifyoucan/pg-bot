@@ -49,6 +49,11 @@ Team: Grandine
 * [Review] [Review on: Handle `ExecutionPayloadEnvelope`](https://github.com/grandinetech/grandine/pull/591#pullrequestreview-3974911644) - 2026-03-19
 * [Review] [Review on: Fix check builder balance edge case when bid_amount = 0](https://github.com/grandinetech/grandine/pull/640#pullrequestreview-3974471831) - 2026-03-19
 * [Review] [Review on: Handle `ExecutionPayloadEnvelope`](https://github.com/grandinetech/grandine/pull/591#pullrequestreview-3980989776) - 2026-03-20
+* [Review] [Review on: Handle `ExecutionPayloadEnvelope`](https://github.com/grandinetech/grandine/pull/591#pullrequestreview-3991005172) - 2026-03-23
+* [Commit] [Update consensus spec tests to v1.7.0-alpha3](https://github.com/grandinetech/grandine/commit/b20b82ebce614e5ce19dbf9bad3ddd6c5c0a55bf) - 2026-03-23
+* [Commit] [Bump Rust version to 1.93.1](https://github.com/grandinetech/grandine/commit/e14e921958529b8ef88acd9472c5f504d809da74) - 2026-03-23
+* [Commit] [Upgrade crates and replace `bincode` with `wincode`](https://github.com/grandinetech/grandine/commit/c3fc2a9201f64965774e3469de0b3bd745f81054) - 2026-03-23
+* [Commit] [Extract prune_delayed_after_finalization and call it on slot finalization](https://github.com/grandinetech/grandine/commit/60c6d449d7ab9e1e2d910784066ef008a999decc) - 2026-03-23
 ## Q4 2025
 
 

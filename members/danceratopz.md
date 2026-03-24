@@ -60,6 +60,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-consume,deps): use `register_multi_test_client` to fix client logs in test reports](https://github.com/ethereum/execution-specs/pull/2476) - 2026-03-20
 * [Commit] [feat(test-consume,deps): use `register_multi_test_client` to fix client logs in test reports (#2476)](https://github.com/ethereum/execution-specs/commit/7bc95e113ecabda5363ed69a235418a20bc6eb44) - 2026-03-20
 * [Commit] [chore(ci): enable ported static in py3 and split into 5 parallel fork-range runners (#2529)](https://github.com/ethereum/execution-specs/commit/f5a210f0aeafd22c97b1117834737bc7d4b5217f) - 2026-03-20
+* [Pull Request] [refactor(tests),feat(test-forks): add `filter_combinations` pytest marker to avoid runtime skips](https://github.com/ethereum/execution-specs/pull/2543) - 2026-03-23
+* [Pull Request] [refactor(tests): replace runtime skips with upfront parametrize filtering](https://github.com/ethereum/execution-specs/pull/2542) - 2026-03-23
+* [Pull Request] [chore(fill): guard type-only `pre_alloc` import behind `TYPE_CHECKING`](https://github.com/ethereum/execution-specs/pull/2541) - 2026-03-23
+* [Pull Request] [chore(test-fill): don't collect tests for unsupported forks](https://github.com/ethereum/execution-specs/pull/2540) - 2026-03-23
+* [Review] [Review on: fix(t8n): correct `Txs.transactions` type annotation](https://github.com/ethereum/execution-specs/pull/2538#pullrequestreview-3992475683) - 2026-03-23
+* [Commit] [refactor(tests): replace runtime skips with upfront parametrize filtering (#2542)](https://github.com/ethereum/execution-specs/commit/a0698499dc87900762bcbee65f33f3c5d1cceb26) - 2026-03-23
+* [Commit] [fix(fill): guard type-only pre_alloc import behind TYPE_CHECKING (#2541)](https://github.com/ethereum/execution-specs/commit/b585abe2cc8a985d1abd71212f1984aba9e72568) - 2026-03-23
+* [Commit] [chore(test-fill): don't collect tests for unsupported forks (#2540)](https://github.com/ethereum/execution-specs/commit/12c3ac06aa512eaab01ba662f883fc89fce6bf64) - 2026-03-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 
@@ -74,6 +82,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [libhive,hiveview: track per-test client log ranges for better reporting (#1402)](https://github.com/ethereum/hive/commit/1fc72ff41ba0903b46c4e210ead80f55a63e1718) - 2026-03-17
 * [Pull Request] [simulators/ethereum/eels: add the consume-enginex simulator](https://github.com/ethereum/hive/pull/1403) - 2026-03-19
 * [Commit] [simulators/ethereum/eels: add the consume-enginex simulator (#1403)](https://github.com/ethereum/hive/commit/c77676338516385c394563dfcf236910348a030e) - 2026-03-19
+* [Review] [Review on: hive: set --sim.limit.exact flag default to false](https://github.com/ethereum/hive/pull/1408#pullrequestreview-3991548617) - 2026-03-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #73, March 9, 2026](https://github.com/ethereum/pm/issues/1956) - 2026-03-03
 * [Issue] [All Core Devs - Testing (ACDT) #75, March 23, 2026](https://github.com/ethereum/pm/issues/1976) - 2026-03-17

@@ -70,6 +70,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: docs: overhaul README structure and content](https://github.com/NethermindEth/nethermind/pull/10856#pullrequestreview-3985917511) - 2026-03-21
 * [Commit] [test: Add `SHA256` precompile tests (#10910)](https://github.com/NethermindEth/nethermind/commit/63e7dd071e60f69922b8b4aa83fdebd268a7fa2e) - 2026-03-21
 * [Commit] [test: Add `BLAKE2F` precompile tests (#10909)](https://github.com/NethermindEth/nethermind/commit/2be0d9bf3fd54a620271a0127d5609df0c09e8d8) - 2026-03-21
+* [Review] [Review on: Add flags](https://github.com/NethermindEth/nethermind/pull/10929#pullrequestreview-3992409557) - 2026-03-23
 ## Q4 2025
 
 

@@ -83,6 +83,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [ Fix forkchoice safe/finalized hash for reorged payloads (#16556)](https://github.com/OffchainLabs/prysm/commit/7781e40abf3a1043d15f509bf96c504b0c5581fc) - 2026-03-20
 * [Review] [Review on: Fix/invert execution payment validation](https://github.com/OffchainLabs/prysm/pull/16565#pullrequestreview-3986087739) - 2026-03-21
 * [Pull Request] [ Fix payload attributes to use expected withdrawals from state when empty](https://github.com/OffchainLabs/prysm/pull/16566) - 2026-03-21
+* [Pull Request] [core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573) - 2026-03-23
+* [Review] [Review on: gloas validator client proposer preferences](https://github.com/OffchainLabs/prysm/pull/16548#pullrequestreview-3993573929) - 2026-03-23
+* [Review] [Review on:  Fix payload attributes to use expected withdrawals from state when empty](https://github.com/OffchainLabs/prysm/pull/16566#pullrequestreview-3992114104) - 2026-03-23
+* [Pull Request] [Fix flaky TestVerifyConnectivity by using local TCP listener](https://github.com/OffchainLabs/prysm/pull/16575) - 2026-03-23
+* [Commit] [ Fix payload attributes to use expected withdrawals from state when empty (#16566)](https://github.com/OffchainLabs/prysm/commit/7d797ee4f96c2aa1176fb359f1b941a63a41efc4) - 2026-03-23
+* [Commit] [Fix flaky TestVerifyConnectivity by using local TCP listener (#16575)](https://github.com/OffchainLabs/prysm/commit/45e38d430f13b9316b7da0d88c189b021ab73c03) - 2026-03-23
 ## Q4 2025
 
 

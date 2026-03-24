@@ -26,6 +26,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Upgrade github actions/checkout to v6](https://github.com/status-im/nimbus-eth1/pull/4056) - 2026-03-23
 * [Pull Request] [BlockTag now parsing hash](https://github.com/status-im/nimbus-eth1/pull/4013) - 2026-03-23
 * [Commit] [BlockTag now parsing hash (#4013)](https://github.com/status-im/nimbus-eth1/commit/a2f32c4fb2bab32473b86d7e64d6cc33ccb565c1) - 2026-03-23
+* [Pull Request] [Bump submodules](https://github.com/status-im/nimbus-eth1/pull/4057) - 2026-03-23
+* [Commit] [Bump submodules (#4057)](https://github.com/status-im/nimbus-eth1/commit/662afdab8d012c4a847106265d3619fc2c009f81) - 2026-03-23
+* [Commit] [Upgrade github actions/checkout to v6 (#4056)](https://github.com/status-im/nimbus-eth1/commit/3b7b05892d88053472611625371570c57c515f78) - 2026-03-23
 ## Q4 2025
 
 

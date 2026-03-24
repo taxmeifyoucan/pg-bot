@@ -38,8 +38,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: Improve Amsterdam by removing redundancy and aligning with previous forks](https://github.com/ethereum/execution-apis/pull/772) - 2026-03-20
 
+* [Commit] [engine: Improve Amsterdam by removing redundancy and aligning with previous forks (#772)](https://github.com/ethereum/execution-apis/commit/8d9fd329b9c1d17724b811deeab53a256fa110ca) - 2026-03-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(t8n): correct `Txs.transactions` type annotation](https://github.com/ethereum/execution-specs/pull/2538) - 2026-03-21
+* [Commit] [fix(t8n): correct `Txs.transactions` type annotation (#2538)](https://github.com/ethereum/execution-specs/commit/878ef15e9ad7fbb10856fd1d079123d369a9e12b) - 2026-03-23
 ## Q4 2025
 
 

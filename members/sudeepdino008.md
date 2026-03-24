@@ -69,6 +69,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/state: add DisableInterDomainDependencies for selective integrity bypass (#20000)](https://github.com/erigontech/erigon/commit/a2272e59e7c3e4b05ad76af8ef8dcc8612a67fa8) - 2026-03-20
 * [Pull Request] [cmd/integration: commitment rebuild with history support](https://github.com/erigontech/erigon/pull/19016) - 2026-03-21
 * [Commit] [cmd/integration: commitment rebuild with history support (#19016)](https://github.com/erigontech/erigon/commit/b772ea8f6a81d585ea86455f5a4665d36375ff8a) - 2026-03-21
+* [Review] [Review on: db/state: fix data race on Aggregator stepSize/stepsInFrozenFile](https://github.com/erigontech/erigon/pull/20100#pullrequestreview-3991525871) - 2026-03-23
+* [Pull Request] [integration: propagate stage errors to non-zero exit code](https://github.com/erigontech/erigon/pull/20093) - 2026-03-23
+* [Review] [Review on: merge: prioritize `Domain` merge over `StandeloneInvIdx`](https://github.com/erigontech/erigon/pull/20065#pullrequestreview-3991490119) - 2026-03-23
+* [Pull Request] [Add QA stage_exec smoke test workflow](https://github.com/erigontech/erigon/pull/20098) - 2026-03-23
+* [Review] [Review on: [wip] seg: add word-level compression enum into data-file header](https://github.com/erigontech/erigon/pull/20074#pullrequestreview-3990565866) - 2026-03-23
+* [Issue] [MDBX_MAP_FULL during mainnet minimal sync ](https://github.com/erigontech/erigon/issues/20080) - 2026-03-23
+* [Issue] [stage_exec tests in ci](https://github.com/erigontech/erigon/issues/20095) - 2026-03-23
+* [Commit] [integration: propagate stage errors to non-zero exit code (#20093)](https://github.com/erigontech/erigon/commit/b744bedbab1790421c3ac31b0787a1fc17002ec8) - 2026-03-23
 ## Q4 2025
 
 

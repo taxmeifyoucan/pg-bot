@@ -38,6 +38,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Update Amsterdam to bal@v5.4.0 spec](https://github.com/besu-eth/besu/pull/10075#pullrequestreview-3983114040) - 2026-03-20
 * [Pull Request] [Refactor/opcodes self deduct gas](https://github.com/besu-eth/besu/pull/10081) - 2026-03-20
 * [Pull Request] [Implement changes for bal devenet with spec test 5.5.1](https://github.com/besu-eth/besu/pull/10080) - 2026-03-20
+* [Pull Request] [Merge main, latest spec tests and their fixes into bal-devnet-3](https://github.com/besu-eth/besu/pull/10091) - 2026-03-23
+* [Review] [Review on: Implement changes for bal devenet with spec test 5.5.1](https://github.com/besu-eth/besu/pull/10080#pullrequestreview-3991181925) - 2026-03-23
+* [Commit] [Implement changes for bal devenet with spec test 5.5.1 (#10080)](https://github.com/besu-eth/besu/commit/422540bf0c35ed2274d1c557b29d981c71737c01) - 2026-03-23
+* [Commit] [Update Amsterdam to bal@v5.4.0 spec (#10075)](https://github.com/besu-eth/besu/commit/ae05fe91e8a70f5b9f6b5f196cb745e48c18d02b) - 2026-03-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936613106) - 2026-03-12
 ## Q4 2025

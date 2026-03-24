@@ -27,6 +27,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Use nethermind reference assemblies from github](https://github.com/grandinetech/grandine/commit/e02a57a47651991ac103a05cb4678646ce4f1cfa) - 2026-03-13
 * [Pull Request] [Disable macos & windows builds in CI](https://github.com/grandinetech/grandine/pull/638) - 2026-03-17
 * [Commit] [Disable macos & windows builds in CI](https://github.com/grandinetech/grandine/commit/600733cb288084743bdcdeefa4f92398c3e6bc65) - 2026-03-18
+* [Pull Request] [Remove validator public keys from persisted state](https://github.com/grandinetech/grandine/pull/611) - 2026-03-23
+* [Commit] [Remove validator public keys from persisted state](https://github.com/grandinetech/grandine/commit/d6269806c780636cc82d075869ee36e408e8f0d5) - 2026-03-23
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] [Override default CLI option alias](https://github.com/NethermindEth/nethermind/pull/10148) - 2026-01-12
 

@@ -27,6 +27,8 @@ Team: Geth
 * [Commit] [core/vm: rework gas measurement for call variants (#33648)](https://github.com/ethereum/go-ethereum/commit/fd859638bd76d15b15468c9b2dea601035779769) - 2026-03-19
 * [Review] [Review on: core/rawdb: BAL storage layer](https://github.com/ethereum/go-ethereum/pull/34064#pullrequestreview-3983508075) - 2026-03-20
 * [Review] [Review on: trie/bintrie: fix NodeIterator Empty node handling and expose tree accessors](https://github.com/ethereum/go-ethereum/pull/34056#pullrequestreview-3983133251) - 2026-03-20
+* [Review] [Review on: cmd/utils: guard SampleRatio flag with IsSet check](https://github.com/ethereum/go-ethereum/pull/34062#pullrequestreview-3993276401) - 2026-03-23
+* [Pull Request] [devnet 3 miscellaneous BAL fixes](https://github.com/ethereum/go-ethereum/pull/34077) - 2026-03-23
 ## Q4 2025
 
 

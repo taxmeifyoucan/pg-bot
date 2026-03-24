@@ -145,6 +145,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: feat: add block building duration metric and Grafana panel](https://github.com/erigontech/erigon/pull/19833#pullrequestreview-3988144704) - 2026-03-22
 * [Commit] [db, execmoduletester: fix data race in EnableDomain vs openFolder (#20068)](https://github.com/erigontech/erigon/commit/2f0f3a47180a94704e98fb404cd22d7677ddca56) - 2026-03-22
 * [Commit] [ci: make hive-eest mandatory for merge queue (#20064)](https://github.com/erigontech/erigon/commit/31d93c33639de17f0cc82dbb4b03ec149738ed04) - 2026-03-22
+* [Pull Request] [execution/vm: fix EIP-8037 state gas spill restoration on frame failure](https://github.com/erigontech/erigon/pull/20108) - 2026-03-23
+* [Pull Request] [txpool: fully discard pre-Osaka blob txns in best()](https://github.com/erigontech/erigon/pull/20096) - 2026-03-23
+* [Pull Request] [execution/vm: fix EIP-8037 code deposit gas on failure](https://github.com/erigontech/erigon/pull/20101) - 2026-03-23
+* [Pull Request] [rpc: fix flaky TestReceiptRootValidationAfterReorg on Windows](https://github.com/erigontech/erigon/pull/20094) - 2026-03-23
+* [Pull Request] [db/state: fix data race on Aggregator stepSize/stepsInFrozenFile](https://github.com/erigontech/erigon/pull/20100) - 2026-03-23
+* [Review] [Review on: [pick from 3.4] evm: accesList.Reset()](https://github.com/erigontech/erigon/pull/20082#pullrequestreview-3990361250) - 2026-03-23
+* [Pull Request] [Schedule Osaka for Gnosis](https://github.com/erigontech/erigon/pull/20089) - 2026-03-23
+* [Review] [Review on: NewStreamFromPool: zero-alloc](https://github.com/erigontech/erigon/pull/20085#pullrequestreview-3990951646) - 2026-03-23
+* [Pull Request] [[r3.4] rpc: auto-convert legacy blob sidecar to v1 cell proofs after Osaka](https://github.com/erigontech/erigon/pull/20088) - 2026-03-23
+* [Pull Request] [[r3.3] rpc: auto-convert legacy blob sidecar to v1 cell proofs after Osaka](https://github.com/erigontech/erigon/pull/20087) - 2026-03-23
+* [Issue] [Double check gas tracing with EIP-8037](https://github.com/erigontech/erigon/issues/20086) - 2026-03-23
+* [Commit] [txpool: fully discard pre-Osaka blob txns in best() (#20096)](https://github.com/erigontech/erigon/commit/54c6b2c27ebc9944e04066ab0483c6eedc63a3cf) - 2026-03-23
+* [Commit] [execution/vm: fix EIP-8037 code deposit gas on failure (#20101)](https://github.com/erigontech/erigon/commit/38eb9e671bd2f1e1d8cb12ff6074d840e720790a) - 2026-03-23
+* [Commit] [rpc: fix flaky TestReceiptRootValidationAfterReorg on Windows (#20094)](https://github.com/erigontech/erigon/commit/b36163c91a041b30061a8669f75711e652420b7a) - 2026-03-23
+* [Commit] [db/state: fix data race on Aggregator stepSize/stepsInFrozenFile (#20100)](https://github.com/erigontech/erigon/commit/2660b49705e5d69ed4d3510cf287696bb0b22173) - 2026-03-23
+* [Commit] [Schedule Osaka for Gnosis (#20089)](https://github.com/erigontech/erigon/commit/49abc1699ebd5d6bb0e6c653e86ce109c93412d8) - 2026-03-23
+* [Commit] [execution/vm: fix EIP-8037 CALL gas charge ordering (#20067)](https://github.com/erigontech/erigon/commit/f3cd685d0028082ab6f6a73b3cb427901e991ec6) - 2026-03-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

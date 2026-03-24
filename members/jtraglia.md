@@ -50,6 +50,23 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add dependencies section to release notes (#5004)](https://github.com/ethereum/consensus-specs/commit/e50889e1ca5b09b70abc90df7d1ece4b2581e4ce) - 2026-03-13
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950138606) - 2026-03-15
 * [Commit] [Add executable gossip validation functions for phase0 (#4902)](https://github.com/ethereum/consensus-specs/commit/7ef8e2945e908bdc68087ea9b8efc1652ecc8225) - 2026-03-22
+* [Review] [Review on: Integrate make coverage into make test](https://github.com/ethereum/consensus-specs/pull/5015#pullrequestreview-3995406748) - 2026-03-23
+* [Review] [Review on: Update astral-sh/setup-uv action to v7.6.0](https://github.com/ethereum/consensus-specs/pull/5029#pullrequestreview-3994124393) - 2026-03-23
+* [Pull Request] [Disable semantic PR titles & grouped updates](https://github.com/ethereum/consensus-specs/pull/5027) - 2026-03-23
+* [Pull Request] [Merge publish workflow into release workflow](https://github.com/ethereum/consensus-specs/pull/5031) - 2026-03-23
+* [Review] [Review on: Update release-drafter/release-drafter action to v7](https://github.com/ethereum/consensus-specs/pull/5030#pullrequestreview-3994132071) - 2026-03-23
+* [Review] [Review on: Update actions/download-artifact action to v8.0.1](https://github.com/ethereum/consensus-specs/pull/5028#pullrequestreview-3994119994) - 2026-03-23
+* [Review] [Review on: Fix block root filenames and Gloas comptests](https://github.com/ethereum/consensus-specs/pull/5023#pullrequestreview-3994110799) - 2026-03-23
+* [Review] [Review on: Update dependency setuptools to v82.0.1](https://github.com/ethereum/consensus-specs/pull/5010#pullrequestreview-3992845543) - 2026-03-23
+* [Review] [Review on: Update dependency deepdiff to v8.6.2 [SECURITY]](https://github.com/ethereum/consensus-specs/pull/5017#pullrequestreview-3992850200) - 2026-03-23
+* [Review] [Review on: Update dependency mkdocs-gen-files to v0.6.1](https://github.com/ethereum/consensus-specs/pull/5025#pullrequestreview-3992860805) - 2026-03-23
+* [Review] [Review on: Update dependency pytest-cov to v7.1.0](https://github.com/ethereum/consensus-specs/pull/5026#pullrequestreview-3992866812) - 2026-03-23
+* [Review] [Review on: Update dependency ruff to v0.15.7](https://github.com/ethereum/consensus-specs/pull/5009#pullrequestreview-3992832387) - 2026-03-23
+* [Review] [Review on: Update dependency mkdocs-material to v9.7.6](https://github.com/ethereum/consensus-specs/pull/5007#pullrequestreview-3992825715) - 2026-03-23
+* [Review] [Review on: Update dependency ckzg to v2.1.7](https://github.com/ethereum/consensus-specs/pull/5006#pullrequestreview-3992579473) - 2026-03-23
+* [Review] [Review on: Add check that block is known in `on_payload_attestation_message`](https://github.com/ethereum/consensus-specs/pull/5022#pullrequestreview-3991888113) - 2026-03-23
+* [Commit] [Merge publish workflow into release workflow (#5031)](https://github.com/ethereum/consensus-specs/commit/604be75941d6cf9f2dcb495b2bbc487ba8a3d53e) - 2026-03-23
+* [Commit] [Disable semantic PR titles & grouped updates (#5027)](https://github.com/ethereum/consensus-specs/commit/ab882f81a7b83768aad523813e9212e8be0b3e6a) - 2026-03-23
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: enable specref features & remove unnecessary spec items](https://github.com/ChainSafe/lodestar/pull/8788) - 2026-01-27
 

@@ -30,6 +30,7 @@ Team: Geth
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Headliner Breakout: EIP-8141 Frame Transaction, March 5, 2026](https://github.com/ethereum/pm/issues/1954) - 2026-03-02
+* [Issue] [Headliner Breakout: EIP-8141 Frame Transaction (#2), March 25, 2026](https://github.com/ethereum/pm/issues/1985) - 2026-03-23
 ## Q4 2025
 
 

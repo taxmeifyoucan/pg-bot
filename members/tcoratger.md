@@ -91,3 +91,11 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat: add support for Periodic Columns at runtime](https://github.com/Plonky3/Plonky3/pull/1462#pullrequestreview-3983048986) - 2026-03-20
 * [Review] [Review on: mds: small improvements and more testing](https://github.com/Plonky3/Plonky3/pull/1459#pullrequestreview-3983015938) - 2026-03-20
 * [Commit] [mds: small improvements and more testing (#1459)](https://github.com/Plonky3/Plonky3/commit/2fcc28c74566abb09467d56bbf2b919d131c1cd0) - 2026-03-20
+* [Pull Request] [air: simplify window access using matrix crate](https://github.com/Plonky3/Plonky3/pull/1472) - 2026-03-23
+* [Pull Request] [uni stark: rm useless `check_constraints.rs` file](https://github.com/Plonky3/Plonky3/pull/1471) - 2026-03-23
+* [Pull Request] [batch-stark: more efficient prover](https://github.com/Plonky3/Plonky3/pull/1470) - 2026-03-23
+* [Review] [Review on: batch-stark: more efficient prover](https://github.com/Plonky3/Plonky3/pull/1470#pullrequestreview-3995042678) - 2026-03-23
+* [Pull Request] [lookup: identify lookups by numeric bus identifier](https://github.com/Plonky3/Plonky3/pull/1467) - 2026-03-23
+* [Review] [Review on: refactor(air): split air.rs into multiple modules](https://github.com/Plonky3/Plonky3/pull/1466#pullrequestreview-3991174822) - 2026-03-23
+* [Review] [Review on: merkle-tree: unify arity step scheduling rules](https://github.com/Plonky3/Plonky3/pull/1465#pullrequestreview-3991166203) - 2026-03-23
+* [Review] [Review on: fix(verifier): tighten input shape validation](https://github.com/Plonky3/Plonky3/pull/1464#pullrequestreview-3991162878) - 2026-03-23

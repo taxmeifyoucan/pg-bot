@@ -16,3 +16,5 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat: re-enable parallelism](https://github.com/NethermindEth/bflat-riscv64/commit/5e8bef89be8e30534e25fc53900c31668a4789b5) - 2026-03-18
 * [Commit] [bflat: update dotnet to debugging version](https://github.com/NethermindEth/bflat-riscv64/commit/24c8033d9c03cb15e727f5cb0d6bd41d477fed2e) - 2026-03-18
 * [Commit] [bflat: support Zisk DMA (v0.16.0)](https://github.com/NethermindEth/bflat-riscv64/commit/911e898637426cf1067dbbd6e566b03619df70d1) - 2026-03-18
+* [Commit] [Support wrap symbols defined externally in bflat manifest](https://github.com/NethermindEth/bflat-riscv64/commit/49ea886c9b37cba9edfa4d24b7ea89dee9ad347a) - 2026-03-23
+* [Commit] [Add symbol chart support](https://github.com/NethermindEth/bflat-riscv64/commit/8977ed099b075a9aca58c2ad6d59c4bb96c4360d) - 2026-03-23

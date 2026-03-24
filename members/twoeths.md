@@ -47,6 +47,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: clean up UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/9069) - 2026-03-20
 * [Review] [Review on: feat(reqresp): track peer rate-limit backoff in SelfRateLimiter](https://github.com/ChainSafe/lodestar/pull/9034#pullrequestreview-3980250247) - 2026-03-20
 * [Review] [Review on: feat: add toValue() to IBeaconStateView, simplify debug API](https://github.com/ChainSafe/lodestar/pull/9078#pullrequestreview-3988940588) - 2026-03-23
+* [Review] [Review on: refactor: generalize NetworkProcessor awaiting-block mechanism for all gossip types](https://github.com/ChainSafe/lodestar/pull/9059#pullrequestreview-3989193265) - 2026-03-23
+* [Review] [Review on: chore: clean up UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/9069#pullrequestreview-3989117725) - 2026-03-23
+* [Pull Request] [feat: epbs devnet 0](https://github.com/ChainSafe/lodestar/pull/9091) - 2026-03-23
+* [Commit] [refactor: generalize NetworkProcessor awaiting-block mechanism for all gossip types (#9059)](https://github.com/ChainSafe/lodestar/commit/4118b5b440a7ccb411c97e8d70dd119290f467d5) - 2026-03-23
+* [Commit] [chore: clean up UnknownBlockSync (#9069)](https://github.com/ChainSafe/lodestar/commit/bfeb9e7e157d9526d77842558a34940ac549669a) - 2026-03-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 * [Review] [Review on: fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241#pullrequestreview-3948190078) - 2026-03-14

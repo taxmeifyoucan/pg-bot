@@ -84,6 +84,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf: full PGO data, cross-module inlining, Pettis-Hansen method layout](https://github.com/NethermindEth/nethermind/pull/10877#pullrequestreview-3986915685) - 2026-03-21
 * [Review] [Review on: Fix test chainspec configuration to prevent spurious misconfiguration warnings](https://github.com/NethermindEth/nethermind/pull/10881#pullrequestreview-3988478996) - 2026-03-22
 * [Review] [Review on: Fix flaky DiscoveryPersistenceManager test on macOS CI](https://github.com/NethermindEth/nethermind/pull/10912#pullrequestreview-3988477831) - 2026-03-22
+* [Review] [Review on: fix(flat): periodically clear ReadOnlySnapshotBundle cache](https://github.com/NethermindEth/nethermind/pull/10922#pullrequestreview-3991548916) - 2026-03-23
+* [Pull Request] [test: update pyspec fixtures to v5.4.0/v5.5.1 and adapt to forked release layout](https://github.com/NethermindEth/nethermind/pull/10931) - 2026-03-23
+* [Review] [Review on: Remove duplicate assertion in SnapshotCompactorTests](https://github.com/NethermindEth/nethermind/pull/10923#pullrequestreview-3992483227) - 2026-03-23
+* [Review] [Review on: Dispose on exception](https://github.com/NethermindEth/nethermind/pull/10921#pullrequestreview-3993427674) - 2026-03-23
+* [Pull Request] [fix: BackgroundTaskScheduler disposal deadlock causing CI timeouts](https://github.com/NethermindEth/nethermind/pull/10927) - 2026-03-23
+* [Review] [Review on: chore: add fix-nethtest agent skill for EF test debugging](https://github.com/NethermindEth/nethermind/pull/10903#pullrequestreview-3989110078) - 2026-03-23
+* [Review] [Review on: Rollback eth/70 + lantern upd](https://github.com/NethermindEth/nethermind/pull/10918#pullrequestreview-3991435512) - 2026-03-23
+* [Commit] [test: update pyspec fixtures to v5.4.0/v5.5.1 and adapt to forked release layout (#10931)](https://github.com/NethermindEth/nethermind/commit/d9e819ea434f0a91ccd4aa627125f0ae3b1d31a3) - 2026-03-23
+* [Commit] [fix: BackgroundTaskScheduler disposal deadlock causing CI timeouts (#10927)](https://github.com/NethermindEth/nethermind/commit/82ab1a7e5d75a37f60b60f5523a567485b365ab2) - 2026-03-23
 ## Q4 2025
 
 

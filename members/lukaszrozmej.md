@@ -137,6 +137,15 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: fix inverted dispose logic in BackgroundTaskScheduler](https://github.com/NethermindEth/nethermind/pull/10907#pullrequestreview-3987938936) - 2026-03-22
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/10913#pullrequestreview-3987936988) - 2026-03-22
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/10914#pullrequestreview-3987936787) - 2026-03-22
+* [Review] [Review on: feat(rpc): add eth_getStorageValues](https://github.com/NethermindEth/nethermind/pull/10930#pullrequestreview-3995026853) - 2026-03-23
+* [Review] [Review on: fix(flat): periodically clear ReadOnlySnapshotBundle cache](https://github.com/NethermindEth/nethermind/pull/10922#pullrequestreview-3991123597) - 2026-03-23
+* [Review] [Review on: test: update pyspec fixtures to v5.4.0/v5.5.1 and adapt to forked release layout](https://github.com/NethermindEth/nethermind/pull/10931#pullrequestreview-3995017105) - 2026-03-23
+* [Review] [Review on: Remove duplicate assertion in SnapshotCompactorTests](https://github.com/NethermindEth/nethermind/pull/10923#pullrequestreview-3991112807) - 2026-03-23
+* [Review] [Review on: fix: BackgroundTaskScheduler disposal deadlock causing CI timeouts](https://github.com/NethermindEth/nethermind/pull/10927#pullrequestreview-3992215042) - 2026-03-23
+* [Pull Request] [fix: process blocks with null BlockHeader in block test runner](https://github.com/NethermindEth/nethermind/pull/10928) - 2026-03-23
+* [Review] [Review on: Rollback eth/70 + lantern upd](https://github.com/NethermindEth/nethermind/pull/10918#pullrequestreview-3991089759) - 2026-03-23
+* [Review] [Review on: Fix incorrect NodeType in TrieNodeTests](https://github.com/NethermindEth/nethermind/pull/10917#pullrequestreview-3991160353) - 2026-03-23
+* [Review] [Review on: fix: fix race condition in FullPruningDb read methods](https://github.com/NethermindEth/nethermind/pull/10920#pullrequestreview-3991140597) - 2026-03-23
 ## Q4 2025
 
 

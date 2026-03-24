@@ -14,6 +14,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770) - 2026-03-12
 * [Pull Request] [engine: Rebase fcuV4 spec points onto fcuV3](https://github.com/ethereum/execution-apis/pull/769) - 2026-03-12
+* [Review] [Review on: engine: Improve Amsterdam by removing redundancy and aligning with previous forks](https://github.com/ethereum/execution-apis/pull/772#pullrequestreview-3989143814) - 2026-03-23
 ## Q4 2025
 
 

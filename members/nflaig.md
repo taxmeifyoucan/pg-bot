@@ -102,6 +102,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: handle falsy zero in indexed attestation bounds check](https://github.com/ChainSafe/lodestar/pull/9088#pullrequestreview-3988066437) - 2026-03-22
 * [Pull Request] [refactor: avoid falsy zero check in indexed attestation bounds validation](https://github.com/ChainSafe/lodestar/pull/9089) - 2026-03-22
 * [Review] [Review on: refactor: avoid falsy zero check in indexed attestation bounds validation](https://github.com/ChainSafe/lodestar/pull/9089#pullrequestreview-3988088911) - 2026-03-22
+* [Review] [Review on: feat: epbs-devnet-0 merged with unstable](https://github.com/ChainSafe/lodestar/pull/9100#pullrequestreview-3995557999) - 2026-03-24
+* [Review] [Review on: docs: add Google Search Console verification file](https://github.com/ChainSafe/lodestar/pull/9097#pullrequestreview-3994671877) - 2026-03-23
+* [Pull Request] [fix: use IGNORE instead of REJECT for missing payload envelope input](https://github.com/ChainSafe/lodestar/pull/9094) - 2026-03-23
+* [Review] [Review on: docs: add high-res favicon, apple-touch-icon, and og:image metadata](https://github.com/ChainSafe/lodestar/pull/9095#pullrequestreview-3994342643) - 2026-03-23
+* [Review] [Review on: chore(deps): bump the actions group with 3 updates](https://github.com/ChainSafe/lodestar/pull/9093#pullrequestreview-3993168265) - 2026-03-23
+* [Review] [Review on: chore: clean up UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/9069#pullrequestreview-3991027289) - 2026-03-23
+* [Issue] [Unskip gloas fork choice spec tests](https://github.com/ChainSafe/lodestar/issues/9098) - 2026-03-23
+* [Issue] [`waitForSpace` after execution payload verification](https://github.com/ChainSafe/lodestar/issues/9092) - 2026-03-23
+* [Commit] [fix: use IGNORE instead of REJECT for missing payload envelope input (#9094)](https://github.com/ChainSafe/lodestar/commit/e3f53019a0a1ce07015d0495e7f243f79b675e4a) - 2026-03-23
+* [Commit] [refactor: avoid falsy zero check in indexed attestation bounds validation (#9089)](https://github.com/ChainSafe/lodestar/commit/5007d8c6d6c1f38bb20c2a727f121d20e6db3221) - 2026-03-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15

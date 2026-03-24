@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix eth_simulateV1 to accept both input and data fields with differen…](https://github.com/besu-eth/besu/pull/9996) - 2026-03-17
 * [Commit] [Fix eth_simulateV1 to accept both input and data fields with differen… (#9996)](https://github.com/besu-eth/besu/commit/c2f18d04e6a93773e6f15b6d45a01bc568aa77ff) - 2026-03-17
 * [Pull Request] [return -38015 when tx gas exceeds block gas limit](https://github.com/besu-eth/besu/pull/10073) - 2026-03-19
+* [Commit] [return -38015 when tx gas exceeds block gas limit (#10073)](https://github.com/besu-eth/besu/commit/2b46009495cd43303c380d69148f7537f82626bd) - 2026-03-23
 ## Q2 2025
 
 

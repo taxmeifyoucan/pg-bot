@@ -32,5 +32,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: EIP-8189: snap/2](https://github.com/besu-eth/besu/pull/10064#pullrequestreview-3967626359) - 2026-03-18
 * [Review] [Review on: reduce volume of chain data pruner test](https://github.com/besu-eth/besu/pull/10062#pullrequestreview-3965379955) - 2026-03-18
 * [Commit] [Add tests for parallel block processing (optimistic and BAL) (#10010)](https://github.com/besu-eth/besu/commit/5aece720bb9adaf87e4e746792a8d15ca83f09bd) - 2026-03-18
+* [Review] [Review on: EIP-8189: snap/2](https://github.com/besu-eth/besu/pull/10064#pullrequestreview-3990517432) - 2026-03-23
+* [Review] [Review on: Merge main, latest spec tests and their fixes into bal-devnet-3](https://github.com/besu-eth/besu/pull/10091#pullrequestreview-3991936142) - 2026-03-23
+* [Review] [Review on: Implement changes for bal devenet with spec test 5.5.1](https://github.com/besu-eth/besu/pull/10080#pullrequestreview-3991661489) - 2026-03-23
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Pull Request] [use set for the StemPrunableNodeRegistry](https://github.com/besu-eth/besu-stateless/pull/90) - 2026-02-27

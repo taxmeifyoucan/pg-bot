@@ -36,6 +36,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: fix data race on _requestCount in MessageDictionary](https://github.com/NethermindEth/nethermind/pull/10813#pullrequestreview-3941661202) - 2026-03-13
 * [Pull Request] [feat(state): inline TrieNodeRlp struct with seqlock-based TrieNodeCache](https://github.com/NethermindEth/nethermind/pull/10834) - 2026-03-14
 * [Review] [Review on: FlatDB dictionary lookup optimization](https://github.com/NethermindEth/nethermind/pull/10858#pullrequestreview-3966832825) - 2026-03-18
+* [Pull Request] [fix(flat): periodically clear ReadOnlySnapshotBundle cache](https://github.com/NethermindEth/nethermind/pull/10922) - 2026-03-23
+* [Review] [Review on: Fix buffer leak tests to use PooledBufferLeakDetector](https://github.com/NethermindEth/nethermind/pull/10887#pullrequestreview-3989904946) - 2026-03-23
+* [Review] [Review on: Remove duplicate assertion in SnapshotCompactorTests](https://github.com/NethermindEth/nethermind/pull/10923#pullrequestreview-3991091525) - 2026-03-23
+* [Pull Request] [Fix merge plugin tests for FlatDb and add to flat CI](https://github.com/NethermindEth/nethermind/pull/10919) - 2026-03-23
+* [Pull Request] [refactor: Move merkleization metrics to IWorldStateScopeProvider](https://github.com/NethermindEth/nethermind/pull/10925) - 2026-03-23
+* [Review] [Review on: Fix incorrect NodeType in TrieNodeTests](https://github.com/NethermindEth/nethermind/pull/10917#pullrequestreview-3989897377) - 2026-03-23
+* [Review] [Review on: fix: fix SnapSync regression from network layer refactor](https://github.com/NethermindEth/nethermind/pull/10902#pullrequestreview-3990263770) - 2026-03-23
 ## Q4 2025
 
 

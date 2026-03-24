@@ -47,6 +47,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Propose Miroslav Kovář as a maintainer](https://github.com/besu-eth/besu/pull/10033#pullrequestreview-3972417902) - 2026-03-19
 * [Commit] [Bonsai archive seperate column families (#10058)](https://github.com/besu-eth/besu/commit/6f16081abf909d482a4849c1e8f0d337de489327) - 2026-03-19
 
+* [Review] [Review on: Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048#pullrequestreview-3988952089) - 2026-03-23
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: fix: Static-link OpenSSL in secp256r1 to prevent symbol leaking](https://github.com/besu-eth/besu-native/pull/308#pullrequestreview-3979209002) - 2026-03-20
 ## Q4 2025

@@ -68,6 +68,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Scrap redundant docker builds on releases](https://github.com/sigp/lighthouse/pull/8999#pullrequestreview-3988868376) - 2026-03-23
 * [Review] [Review on: Carry forward withdrawals from the current `BeaconState` when a parent envelope is missed](https://github.com/sigp/lighthouse/pull/9014#pullrequestreview-3988618478) - 2026-03-22
 * [Pull Request] [[Do not squash] Back merge cargo audit fixes into `unstable`](https://github.com/sigp/lighthouse/pull/9013) - 2026-03-22
+* [Pull Request] [Use BTreeMap for state.validators pending updates](https://github.com/sigp/lighthouse/pull/9017) - 2026-03-23
+* [Review] [Review on: Scrap redundant docker builds on releases](https://github.com/sigp/lighthouse/pull/8999#pullrequestreview-3989125107) - 2026-03-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16

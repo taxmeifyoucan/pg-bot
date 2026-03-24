@@ -43,6 +43,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Deprecate `--min-block-occupancy-ratio` for removal and make it noop](https://github.com/besu-eth/besu/pull/10036#pullrequestreview-3959972255) - 2026-03-17
 * [Commit] [Deprecate `--min-block-occupancy-ratio` for removal and make it noop (#10036)](https://github.com/besu-eth/besu/commit/56674ac08bd663e92ff8aea9afb62e053a51106e) - 2026-03-17
 * [Commit] [Plugin API: pass pending block header when creating selectors (#10034)](https://github.com/besu-eth/besu/commit/1ce913ac45a36ab65017bfb61c0842355f201a56) - 2026-03-17
+* [Review] [Review on: eth/70 Fix paginated receipts response size estimation](https://github.com/besu-eth/besu/pull/10089#pullrequestreview-3993800067) - 2026-03-23
 ## Q4 2025
 
 

@@ -49,6 +49,11 @@ Team: Reth
 * [Review] [Review on: fix: change `DEFAULT_IGNORE_GAS_PRICE`](https://github.com/paradigmxyz/reth/pull/23134#pullrequestreview-3980960764) - 2026-03-20
 * [Review] [Review on: fix: addr shadowing](https://github.com/paradigmxyz/reth/pull/23135#pullrequestreview-3980911287) - 2026-03-20
 * [Review] [Review on: chore(bench): add per-run status updates](https://github.com/paradigmxyz/reth/pull/23132#pullrequestreview-3980421756) - 2026-03-20
+* [Review] [Review on: refactor: remove SerdeBincodeCompat trait, use RLP for block serialization](https://github.com/paradigmxyz/reth/pull/23158#pullrequestreview-3993074128) - 2026-03-23
+* [Review] [Review on: perf: disable readahead on slot-preimage MDBX environment](https://github.com/paradigmxyz/reth/pull/23183#pullrequestreview-3993719616) - 2026-03-23
+* [Pull Request] [fix(cli): `--storage.v2` without explicit true/false](https://github.com/paradigmxyz/reth/pull/23173) - 2026-03-23
+* [Review] [Review on: chore(ci): ping AI agent on nightly Docker build failure](https://github.com/paradigmxyz/reth/pull/23168#pullrequestreview-3991006631) - 2026-03-23
+* [Commit] [fix(cli): `--storage.v2` without explicit true/false (#23173)](https://github.com/paradigmxyz/reth/commit/b8aca9586a3f81ded9b7846151956e678abf34be) - 2026-03-23
 ## Q4 2025
 
 

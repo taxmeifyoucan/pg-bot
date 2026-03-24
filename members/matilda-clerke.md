@@ -23,6 +23,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: receipt decoder - handle both formats at read time](https://github.com/besu-eth/besu/pull/10079#pullrequestreview-3978815730) - 2026-03-20
 * [Pull Request] [Remove peer task feature toggle from DownloadHeadersStep](https://github.com/besu-eth/besu/pull/10070) - 2026-03-19
 * [Review] [Review on: Bonsai archive seperate column families](https://github.com/besu-eth/besu/pull/10058#pullrequestreview-3972275539) - 2026-03-19
+* [Review] [Review on: receipt decoder - handle both formats at read time](https://github.com/besu-eth/besu/pull/10079#pullrequestreview-3995642918) - 2026-03-24
+* [Issue] [Update admin_nodeInfo to include IPv6 address and node ENR](https://github.com/besu-eth/besu/issues/10092) - 2026-03-24
 ## Q4 2025
 
 

@@ -31,6 +31,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(specs): remove redundant `destroy_storage` call within `process_create_message`](https://github.com/ethereum/execution-specs/pull/1399#pullrequestreview-3942254763) - 2026-03-13
 * [Issue] [re-factor `check_transaction`](https://github.com/ethereum/execution-specs/issues/2522) - 2026-03-17
 * [Review] [Review on: refactor: simplify BAL t8n by passing rlp bytes; JSON testing side](https://github.com/ethereum/execution-specs/pull/2486#pullrequestreview-3966889004) - 2026-03-18
+* [Review] [Review on: refactor(tests,test-fill): rename `json_loader` pytest marker to `eels_base_coverage`](https://github.com/ethereum/execution-specs/pull/2524#pullrequestreview-3991299135) - 2026-03-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332) - 2026-02-18
 ## Q4 2025

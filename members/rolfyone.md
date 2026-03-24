@@ -109,6 +109,16 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [clarified index in attestation data](https://github.com/Consensys/teku/pull/10515) - 2026-03-20
 * [Review] [Review on: Schedule Fulu fork for Gnosis mainnet](https://github.com/Consensys/teku/pull/10518#pullrequestreview-3987834210) - 2026-03-22
 * [Review] [Review on: fix docker gha with a githash](https://github.com/Consensys/teku/pull/10519#pullrequestreview-3988858520) - 2026-03-23
+* [Pull Request] [cleanup NO_OP instances](https://github.com/Consensys/teku/pull/10521) - 2026-03-23
+* [Review] [Review on: replay execution payload when regenerating states](https://github.com/Consensys/teku/pull/10511#pullrequestreview-3989621614) - 2026-03-23
+* [Review] [Review on: Update GET /eth/v2/beacon/blocks/{block_id} per beacon APIs spec](https://github.com/Consensys/teku/pull/10523#pullrequestreview-3995169922) - 2026-03-23
+* [Review] [Review on: Reconstruct supernode sidecars from 50% - Reconstructor](https://github.com/Consensys/teku/pull/10508#pullrequestreview-3995032347) - 2026-03-23
+* [Pull Request] [Fix swagger-ui failing to serve static files from JAR in Docker](https://github.com/Consensys/teku/pull/10520) - 2026-03-23
+* [Review] [Review on: Fix swagger-ui failing to serve static files from JAR in Docker](https://github.com/Consensys/teku/pull/10520#pullrequestreview-3989031855) - 2026-03-23
+* [Review] [Review on: Implement `GET` `exceution_payload_bid` ](https://github.com/Consensys/teku/pull/10463#pullrequestreview-3989335291) - 2026-03-23
+* [Issue] [[beacon-api] ptc lookahead re-added](https://github.com/Consensys/teku/issues/10524) - 2026-03-23
+* [Commit] [cleanup NO_OP instances (#10521)](https://github.com/Consensys/teku/commit/1efb7120d50f55abcffab1245147048ccbd5ff98) - 2026-03-24
+* [Commit] [Fix swagger-ui failing to serve static files from JAR in Docker (#10520)](https://github.com/Consensys/teku/commit/5db7dc5c8f51ec027fdd865c8a73301557586750) - 2026-03-23
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

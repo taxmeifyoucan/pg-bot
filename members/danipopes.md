@@ -63,6 +63,7 @@ Team: Reth
 * [Review] [Review on: docs: clarify transaction pool link wording](https://github.com/paradigmxyz/reth/pull/23160#pullrequestreview-3988634818) - 2026-03-22
 * [Review] [Review on: fix(rpc): return error instead of empty response for missing blocks in debug_getRaw](https://github.com/paradigmxyz/reth/pull/22675#pullrequestreview-3988598001) - 2026-03-22
 * [Review] [Review on: fix: gracefully shut down engine](https://github.com/paradigmxyz/reth/pull/23159#pullrequestreview-3988529548) - 2026-03-22
+* [Review] [Review on: refactor: simplify compact impls for scale types](https://github.com/paradigmxyz/reth/pull/23185#pullrequestreview-3995348625) - 2026-03-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
@@ -73,6 +74,7 @@ Team: Reth
 * [Pull Request] [chore(revme): use alloy-trie instead of triehash](https://github.com/bluealloy/revm/pull/3488) - 2026-03-09
 * [Review] [Review on: fix: make DummyHost return defaults instead of errors for storage ops](https://github.com/bluealloy/revm/pull/3503#pullrequestreview-3949304214) - 2026-03-14
 * [Pull Request] [feat: add CallInput::as_bytes](https://github.com/bluealloy/revm/pull/3515) - 2026-03-22
+* [Commit] [feat: add CallInput::as_bytes (#3515)](https://github.com/bluealloy/revm/commit/fed80c0a32c06e571c2fada3dcaa8900d7d67b70) - 2026-03-23
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [fix: make state tests pass](https://github.com/paradigmxyz/revmc/pull/95) - 2026-03-05
 * [Pull Request] [fix: remove flaky builtin_symbols_exported test](https://github.com/paradigmxyz/revmc/pull/108) - 2026-03-07
@@ -125,6 +127,8 @@ Team: Reth
 * [Commit] [chore: simplify calldataload (#146)](https://github.com/paradigmxyz/revmc/commit/d46f434c99927082f8cf27a119405e7c43946a53) - 2026-03-22
 * [Commit] [fix: reuse memory resize from revm (#145)](https://github.com/paradigmxyz/revmc/commit/f1990bcb7ca156dc9a8fa14013df660363806df8) - 2026-03-22
 * [Commit] [feat: DWARF debug info for generated code (#144)](https://github.com/paradigmxyz/revmc/commit/0a66507a088ac3147a84b4f4ec8241e48ad45da4) - 2026-03-22
+* [Pull Request] [feat: improve spec ID handling](https://github.com/paradigmxyz/revmc/pull/151) - 2026-03-23
+* [Commit] [feat: improve spec ID handling (#151)](https://github.com/paradigmxyz/revmc/commit/358279d96dde116fa881157936d7b1cc6133735b) - 2026-03-23
 ## Q4 2025
 
 

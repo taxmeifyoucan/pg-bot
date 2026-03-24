@@ -55,6 +55,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [ci: remove semver-checks workflow](https://github.com/bluealloy/revm/pull/3508) - 2026-03-16
 * [Commit] [feat: add crate-level re-exports for all revm-* dependencies (#3507)](https://github.com/bluealloy/revm/commit/f1b652718d7efc7e88f24d3220dd53c955668ab1) - 2026-03-16
 * [Commit] [ci: remove semver-checks workflow (#3508)](https://github.com/bluealloy/revm/commit/b8ffc35f83508300ff746536f3be87d192fa59c9) - 2026-03-16
+* [Pull Request] [Amsterdam devnet3: EIP-8037 state gas implementation](https://github.com/bluealloy/revm/pull/3519) - 2026-03-23
+* [Review] [Review on: feat(inspector): add `frame_start` and `frame_end` to `Inspector` trait](https://github.com/bluealloy/revm/pull/3518#pullrequestreview-3991781661) - 2026-03-23
+* [Review] [Review on: Add [OpTrace] to awesome list](https://github.com/bluealloy/revm/pull/3514#pullrequestreview-3990122587) - 2026-03-23
+* [Review] [Review on: chore: remove no-op background transition merge builder toggle](https://github.com/bluealloy/revm/pull/3510#pullrequestreview-3990138259) - 2026-03-23
+* [Review] [Review on: fix(op-revm): use typed error for missing enveloped tx in all paths](https://github.com/bluealloy/revm/pull/3509#pullrequestreview-3990133083) - 2026-03-23
+* [Review] [Review on: feat: add CallInput::as_bytes](https://github.com/bluealloy/revm/pull/3515#pullrequestreview-3990098967) - 2026-03-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify transaction transfer to different account](https://github.com/ethereum/EIPs/pull/11188) - 2026-01-27
 * [Pull Request] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355) - 2026-03-10

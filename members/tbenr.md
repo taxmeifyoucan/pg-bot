@@ -47,6 +47,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Migrate `EventChannel` to virtual threads (feature flag)](https://github.com/Consensys/teku/pull/10426) - 2026-03-19
 * [Issue] [Develop docker fails to start](https://github.com/Consensys/teku/issues/10512) - 2026-03-19
 * [Commit] [Migrate `EventChannel` to virtual threads (feature flag) (#10426)](https://github.com/Consensys/teku/commit/065e46ae4aef21ac45c0f46ab41aba39b421a823) - 2026-03-19
+* [Review] [Review on: Fix swagger-ui failing to serve static files from JAR in Docker](https://github.com/Consensys/teku/pull/10520#pullrequestreview-3990584399) - 2026-03-23
 ## Q4 2025
 
 

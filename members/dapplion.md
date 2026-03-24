@@ -49,6 +49,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 * [Commit] [Schedule Fulu fork for Chiado testnet (#10487)](https://github.com/Consensys/teku/commit/e6dfe20e0a14efae112a3089952d1cb481708202) - 2026-03-16
 * [Pull Request] [Schedule Fulu fork for Gnosis mainnet](https://github.com/Consensys/teku/pull/10518) - 2026-03-20
+* [Commit] [Schedule Fulu fork for Gnosis mainnet (#10518)](https://github.com/Consensys/teku/commit/cf5c32328ce1db9c33f808ecd206657ac1a13d84) - 2026-03-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/status-im/nimbus-eth2/pull/8078) - 2026-03-12
 * [Pull Request] [Schedule Fulu fork for Chiado testnet](https://github.com/status-im/nimbus-eth2/pull/8076) - 2026-03-12

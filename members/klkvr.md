@@ -43,6 +43,14 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [refactor: remove bincode usage from `HeaderStage`](https://github.com/paradigmxyz/reth/pull/23156) - 2026-03-22
 * [Commit] [fix: gracefully shut down engine (#23159)](https://github.com/paradigmxyz/reth/commit/c9e9db184eee1f2a0eeb558be2144cf588ed6ce3) - 2026-03-22
 * [Commit] [refactor: remove bincode usage from `HeaderStage` (#23156)](https://github.com/paradigmxyz/reth/commit/7551d9c5dd45dab0c7245d76211436a99449fb36) - 2026-03-22
+* [Pull Request] [refactor: use `reth-core` deps](https://github.com/paradigmxyz/reth/pull/23186) - 2026-03-23
+* [Pull Request] [refactor: simplify compact impls for scale types](https://github.com/paradigmxyz/reth/pull/23185) - 2026-03-23
+* [Pull Request] [chore: unify InMemorySize](https://github.com/paradigmxyz/reth/pull/23184) - 2026-03-23
+* [Pull Request] [fix: always reinsert reorged blocks](https://github.com/paradigmxyz/reth/pull/23175) - 2026-03-23
+* [Review] [Review on: fix(cli): `--storage.v2` without explicit true/false](https://github.com/paradigmxyz/reth/pull/23173#pullrequestreview-3991820269) - 2026-03-23
+* [Commit] [refactor: simplify compact impls for scale types (#23185)](https://github.com/paradigmxyz/reth/commit/7b4c07338e098a3148bde43794f559df8ca1c314) - 2026-03-23
+* [Commit] [chore: unify InMemorySize (#23184)](https://github.com/paradigmxyz/reth/commit/bbed2e9ebfb51c7128c0c91826572c4e7a86733e) - 2026-03-23
+* [Commit] [fix: always reinsert reorged blocks (#23175)](https://github.com/paradigmxyz/reth/commit/cc0c29e44934936400124e745eb09d106a72841c) - 2026-03-23
 ## Q4 2025
 
 

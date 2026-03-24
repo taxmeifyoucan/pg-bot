@@ -16,6 +16,7 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add check that block is known in `on_payload_attestation_message`](https://github.com/ethereum/consensus-specs/pull/5022) - 2026-03-19
+* [Commit] [Add check that block is known in `on_payload_attestation_message` (#5022)](https://github.com/ethereum/consensus-specs/commit/bd791d85a87a7064c31f9741253769fb279d09c7) - 2026-03-23
 ## Q4 2025
 
 

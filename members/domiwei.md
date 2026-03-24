@@ -40,6 +40,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl: fall back to local head state when remote checkpoint sync fails (#19998)](https://github.com/erigontech/erigon/commit/ce3e318022d4d79277a3e492323f2ef702cfa17b) - 2026-03-19
 * [Review] [Review on: Add automated tests for block production with execution requests](https://github.com/erigontech/erigon/pull/19981#pullrequestreview-3980254581) - 2026-03-20
 * [Review] [Review on: [cherry-pick] [r3.4] types: deduplicate types + add --caplin.nat flag](https://github.com/erigontech/erigon/pull/20028#pullrequestreview-3980248237) - 2026-03-20
+* [Review] [Review on: txpool: fully discard pre-Osaka blob txns in best()](https://github.com/erigontech/erigon/pull/20096#pullrequestreview-3993134889) - 2026-03-23
+* [Review] [Review on: Schedule Osaka for Gnosis](https://github.com/erigontech/erigon/pull/20089#pullrequestreview-3990603693) - 2026-03-23
+* [Pull Request] [[r3.3] chainspec, cl/clparams: schedule Gnosis Fusaka + Osaka](https://github.com/erigontech/erigon/pull/20090) - 2026-03-23
+* [Commit] [cl/clparams: set Gnosis Fulu fork epoch to 1714688 (#20081)](https://github.com/erigontech/erigon/commit/1ff74d39ce13a1058abc13d4eeddc24587e118cc) - 2026-03-23
 ## Q3 2025
 
 

@@ -14,6 +14,9 @@ Team: Grandine
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Delay after finalization archive tasks to be performed later in slot](https://github.com/grandinetech/grandine/pull/605) - 2026-02-19
 * [Review] [Review on: Pin specific version of ZISK in tests](https://github.com/grandinetech/grandine/pull/636#pullrequestreview-3944012411) - 2026-03-13
+* [Review] [Review on: Update consensus spec tests to v1.7.0-alpha3](https://github.com/grandinetech/grandine/pull/639#pullrequestreview-3992291191) - 2026-03-23
+* [Review] [Review on: Upgrade crates and replace `bincode` with `wincode` & bump Rust version](https://github.com/grandinetech/grandine/pull/630#pullrequestreview-3992651861) - 2026-03-23
+* [Review] [Review on: Extract prune_delayed_after_finalization and call it on slot finalization](https://github.com/grandinetech/grandine/pull/637#pullrequestreview-3992365788) - 2026-03-23
 ## Q4 2025
 
 

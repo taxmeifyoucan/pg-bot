@@ -20,6 +20,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [el_manager: update multi-el support](https://github.com/status-im/nimbus-eth2/pull/8008) - 2026-02-22
 * [Issue] [Light client fcU should not spam the EL](https://github.com/status-im/nimbus-eth2/issues/8041) - 2026-02-26
 * [Pull Request] [Normalize url in .gitmodules](https://github.com/status-im/nimbus-eth2/pull/8145) - 2026-03-20
+* [Pull Request] [lsquic: don't link c++ explicitly](https://github.com/status-im/nimbus-eth2/pull/8154) - 2026-03-23
+* [Pull Request] [Simplify `get_seed`](https://github.com/status-im/nimbus-eth2/pull/8151) - 2026-03-23
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [web3: bump for native bidir support](https://github.com/status-im/nimbus-eth1/pull/3974) - 2026-02-11
 * [Pull Request] [eth2: bump](https://github.com/status-im/nimbus-eth1/pull/3991) - 2026-02-18

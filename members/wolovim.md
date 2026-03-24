@@ -22,3 +22,8 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: fix utc conversion](https://github.com/ethereum/pm/commit/4cab938e36727551d424035bf598f3d3327cdebe) - 2026-03-17
 * [Commit] [acdbot: ensure all meetings are UTC](https://github.com/ethereum/pm/commit/d5e94a49ceb6c7f00f6b1e209eac21ce64c4b59d) - 2026-03-17
 * [Commit] [acdbot: handle instance time updates in zoom](https://github.com/ethereum/pm/commit/e73ad468fd348927e0517b40de7507baf67e872b) - 2026-03-17
+* [Commit] [acdbot: tweak focil defaults](https://github.com/ethereum/pm/commit/7cfab541348e421af3c71483e260d459e6e4d3e2) - 2026-03-23
+* [Commit] [acdbot: update pqi meeting id](https://github.com/ethereum/pm/commit/7a520192df9c4f254c7f26e2665a25e926cd6bfe) - 2026-03-23
+* [Commit] [acdbot: fix pqts series, upcoming call script](https://github.com/ethereum/pm/commit/626a0853afb8adac57eb7b57e63981d40694d870) - 2026-03-23
+* [Commit] [acdbot: upcoming call report schedule tweak](https://github.com/ethereum/pm/commit/7a586785b8a258c240a184703cbb8f1e527d8fcd) - 2026-03-23
+* [Commit] [acdbot: upcoming call report tweaks](https://github.com/ethereum/pm/commit/a1f4f8c42a39f1cda22ee67614f3d6dac0eaf492) - 2026-03-23

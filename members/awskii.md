@@ -19,6 +19,15 @@ Team: Erigon
 * [Commit] [[commitment] count trie metrics for logs (#19087)](https://github.com/erigontech/erigon/commit/38debf3f66062d0b008cd751cf92ccd1dfdf731c) - 2026-03-20
 * [Pull Request] [update grafana dashboard](https://github.com/erigontech/erigon/pull/20061) - 2026-03-21
 * [Commit] [update grafana dashboard (#20061)](https://github.com/erigontech/erigon/commit/ea6a21dc3aa71962c6b579383aac1f14c643d214) - 2026-03-22
+* [Pull Request] [add `seg du` command for snapshot disk usage analysis](https://github.com/erigontech/erigon/pull/20104) - 2026-03-23
+* [Pull Request] [commitment: trie trace recording for offline debugging](https://github.com/erigontech/erigon/pull/20107) - 2026-03-23
+* [Pull Request] [cmd: move commitment-prefix to erigon snapshots commitment-analysis subcommand](https://github.com/erigontech/erigon/pull/20112) - 2026-03-23
+* [Review] [Review on: cl: fall back to local head state when remote checkpoint sync fails (backport #19998)](https://github.com/erigontech/erigon/pull/20003#pullrequestreview-3994938591) - 2026-03-23
+* [Review] [Review on: [performance] Merge recent main into performance branch](https://github.com/erigontech/erigon/pull/20109#pullrequestreview-3993575179) - 2026-03-23
+* [Review] [Review on: ci: trigger CI gate for performance branches](https://github.com/erigontech/erigon/pull/20110#pullrequestreview-3994018143) - 2026-03-23
+* [Review] [Review on: rules: branch naming, lint fixing](https://github.com/erigontech/erigon/pull/20099#pullrequestreview-3993565261) - 2026-03-23
+* [Review] [Review on: integrate l1sync into erigon binary](https://github.com/erigontech/erigon/pull/19689#pullrequestreview-3993561330) - 2026-03-23
+* [Review] [Review on: Arb/l1sync execution](https://github.com/erigontech/erigon/pull/19934#pullrequestreview-3993477880) - 2026-03-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3925895357) - 2026-03-10
 ## Q4 2025

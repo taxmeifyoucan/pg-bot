@@ -54,6 +54,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: optimisation debug_traceTransaction (#20059)](https://github.com/erigontech/erigon/commit/4a77fef2005467ba536f26cce5fa7a37a1b2bc18) - 2026-03-22
 * [Commit] [QA: disable temporary 3 eth_simulateV1 (#20015)](https://github.com/erigontech/erigon/commit/40915ab5fb202eea846bbfc517932ca6a49affe9) - 2026-03-22
 * [Commit] [rpc/jsonrpc: fix debug_getBadBlocks swapped block/rlp fields (#20053)](https://github.com/erigontech/erigon/commit/4f262dbbe1056b1de1b50a5f63c70f91b39013cb) - 2026-03-22
+* [Pull Request] [rpc: trace_filter add per-transaction timeout](https://github.com/erigontech/erigon/pull/20111) - 2026-03-23
+* [Commit] [rpc: debug_accountRange: add address/key as Geth (#20057)](https://github.com/erigontech/erigon/commit/1726b3eb01ccdd0540b8cdcb825714ae9b880d8a) - 2026-03-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15

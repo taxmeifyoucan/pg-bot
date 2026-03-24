@@ -169,6 +169,17 @@ Team: Erigon
 * [Pull Request] [commitment rebuild: `--yes` to bypass prompt for background run](https://github.com/erigontech/erigon/pull/20073) - 2026-03-23
 * [Review] [Review on: ci: make hive-eest mandatory for merge queue](https://github.com/erigontech/erigon/pull/20064#pullrequestreview-3988153890) - 2026-03-22
 * [Review] [Review on: rpc/jsonrpc: fix debug_getBadBlocks swapped block/rlp fields](https://github.com/erigontech/erigon/pull/20053#pullrequestreview-3987532298) - 2026-03-22
+* [Review] [Review on: add `seg du` command for snapshot disk usage analysis](https://github.com/erigontech/erigon/pull/20104#pullrequestreview-3995646485) - 2026-03-24
+* [Review] [Review on: commitment: trie trace recording for offline debugging](https://github.com/erigontech/erigon/pull/20107#pullrequestreview-3995642914) - 2026-03-24
+* [Pull Request] [rules: branch naming, lint fixing](https://github.com/erigontech/erigon/pull/20099) - 2026-03-23
+* [Pull Request] [fix ci test](https://github.com/erigontech/erigon/pull/20102) - 2026-03-23
+* [Review] [Review on: deps: replace golang.org/x/exp with stdlib alternatives](https://github.com/erigontech/erigon/pull/20092#pullrequestreview-3991106298) - 2026-03-23
+* [Review] [Review on: integration: propagate stage errors to non-zero exit code](https://github.com/erigontech/erigon/pull/20093#pullrequestreview-3991071579) - 2026-03-23
+* [Pull Request] [[pick from 3.4] evm: accesList.Reset()](https://github.com/erigontech/erigon/pull/20082) - 2026-03-23
+* [Pull Request] [NewStreamFromPool: zero-alloc](https://github.com/erigontech/erigon/pull/20085) - 2026-03-23
+* [Review] [Review on: [r3.3] chainspec, cl/clparams: schedule Gnosis Fusaka + Osaka](https://github.com/erigontech/erigon/pull/20090#pullrequestreview-3990762236) - 2026-03-23
+* [Pull Request] [[wip] seg: add word-level compression enum into data-file header](https://github.com/erigontech/erigon/pull/20074) - 2026-03-23
+* [Commit] [[pick from 3.4] evm: accesList.Reset() (#20082)](https://github.com/erigontech/erigon/commit/e88f86a9902311e2fd195d9bef6c2e07f5f60713) - 2026-03-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025
