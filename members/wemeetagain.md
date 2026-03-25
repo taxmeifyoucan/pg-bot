@@ -73,6 +73,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: native metrics example](https://github.com/ChainSafe/lodestar-z/pull/239#pullrequestreview-3961239876) - 2026-03-17
 * [Review] [Review on: chore(ci): add missing test steps for constants, fork_types, era](https://github.com/ChainSafe/lodestar-z/pull/250#pullrequestreview-3976990708) - 2026-03-19
 * [Review] [Review on: fix: replace custom intSqrt with std.math.sqrt](https://github.com/ChainSafe/lodestar-z/pull/263#pullrequestreview-3993850196) - 2026-03-23
+* [Review] [Review on: feat(bls): adding fuzz test for bls](https://github.com/ChainSafe/lodestar-z/pull/249#pullrequestreview-4000465899) - 2026-03-24
 ## Q4 2025
 
 

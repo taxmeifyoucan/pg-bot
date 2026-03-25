@@ -28,6 +28,11 @@ Team: Erigon
 * [Review] [Review on: rules: branch naming, lint fixing](https://github.com/erigontech/erigon/pull/20099#pullrequestreview-3993565261) - 2026-03-23
 * [Review] [Review on: integrate l1sync into erigon binary](https://github.com/erigontech/erigon/pull/19689#pullrequestreview-3993561330) - 2026-03-23
 * [Review] [Review on: Arb/l1sync execution](https://github.com/erigontech/erigon/pull/19934#pullrequestreview-3993477880) - 2026-03-23
+* [Review] [Review on: commitment: fix witness hash for embedded MPT nodes (RLP < 32 bytes)         ](https://github.com/erigontech/erigon/pull/20139#pullrequestreview-4002257937) - 2026-03-24
+* [Pull Request] [commitment: expand witness trie unit tests for eth_getWitness edge cases](https://github.com/erigontech/erigon/pull/20126) - 2026-03-24
+* [Review] [Review on: merge: II to support NO_DEEP_MERGE_HISTORY ](https://github.com/erigontech/erigon/pull/20135#pullrequestreview-4001262207) - 2026-03-24
+* [Pull Request] [test: fix flaky CorrectSwitchForConcurrent by removing shared rand source](https://github.com/erigontech/erigon/pull/20138) - 2026-03-24
+* [Commit] [add `seg du` command for snapshot disk usage analysis (#20104)](https://github.com/erigontech/erigon/commit/23839e145b67f64f573553813df7168561bd749f) - 2026-03-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3925895357) - 2026-03-10
 ## Q4 2025

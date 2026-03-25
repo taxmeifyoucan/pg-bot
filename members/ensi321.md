@@ -34,6 +34,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: state cache for ePBS (#8868)](https://github.com/ChainSafe/lodestar/commit/274a9918a8414eedf2f4241921c10fa2fddd163c) - 2026-03-19
 * [Review] [Review on: refactor: generalize NetworkProcessor awaiting-block mechanism for all gossip types](https://github.com/ChainSafe/lodestar/pull/9059#pullrequestreview-3984426340) - 2026-03-20
 * [Commit] [feat: add gloas execution payload envelope import pipeline (#8962)](https://github.com/ChainSafe/lodestar/commit/70938e1eecf87a793e8ac2f4cc0689f2047291e7) - 2026-03-20
+* [Pull Request] [feat: unknown payload sync for incoming blocks](https://github.com/ChainSafe/lodestar/pull/9102) - 2026-03-24
 ## Q4 2025
 
 

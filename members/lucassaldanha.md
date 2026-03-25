@@ -59,6 +59,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Add Engine API IPC support (new engine API)](https://github.com/Consensys/teku/pull/10510#pullrequestreview-3978798300) - 2026-03-20
 * [Commit] [Added support to websockets on new engine api client (#10492)](https://github.com/Consensys/teku/commit/dadfe4297f90393a1197a751a9b74f438f9484a5) - 2026-03-19
 * [Review] [Review on: Add Engine API IPC support (new engine API)](https://github.com/Consensys/teku/pull/10510#pullrequestreview-3988540767) - 2026-03-22
+* [Review] [Review on: updated ptc duties description](https://github.com/Consensys/teku/pull/10525#pullrequestreview-4001985477) - 2026-03-24
+* [Issue] [EIP-8045: Exclude slashed validators from all duties](https://github.com/Consensys/teku/issues/10526) - 2026-03-24
 ## Q4 2025
 
 

@@ -66,6 +66,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356) - 2026-02-26
 * [Pull Request] [Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356) - 2026-03-02
 
+* [Pull Request] [Update EIP-8045: Exclude slashed validators from all duties](https://github.com/ethereum/EIPs/pull/11443) - 2026-03-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Update besu repo reference to besu-eth/besu](https://github.com/ethereum/execution-specs/pull/2488#pullrequestreview-3935580700) - 2026-03-12
 

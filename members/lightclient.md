@@ -18,6 +18,7 @@ Team: Geth
 * [Pull Request] []() - 2026-01-17
 * [Pull Request] [all: add bogota fork](https://github.com/ethereum/go-ethereum/pull/34057) - 2026-03-19
 * [Review] [Review on: core/vm: rework gas measurement for call variants](https://github.com/ethereum/go-ethereum/pull/33648#pullrequestreview-3976197013) - 2026-03-19
+* [Review] [Review on: cmd/devp2p: fix discv5 PingMultiIP test session key mismatch](https://github.com/ethereum/go-ethereum/pull/34031#pullrequestreview-3999434787) - 2026-03-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-5069: add concept of associate editors](https://github.com/ethereum/EIPs/pull/11035) - 2026-01-06
 

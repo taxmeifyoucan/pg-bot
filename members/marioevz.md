@@ -62,6 +62,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: chore(fill): guard type-only `pre_alloc` import behind `TYPE_CHECKING`](https://github.com/ethereum/execution-specs/pull/2541#pullrequestreview-3994766300) - 2026-03-23
 * [Review] [Review on: chore(test-fill): don't collect tests for unsupported forks](https://github.com/ethereum/execution-specs/pull/2540#pullrequestreview-3994734974) - 2026-03-23
 * [Commit] [feat(cli-evm-bytes): Detect repeating opcodes (#2502)](https://github.com/ethereum/execution-specs/commit/aaa4481ed3fc544c274768ed44ae17c3669ea58f) - 2026-03-23
+* [Pull Request] [refactor(test-forks): Remove `block_number`/`timestamp` from all methods](https://github.com/ethereum/execution-specs/pull/2442) - 2026-03-24
+* [Review] [Review on: feat(test-fill): add `--post-verifier` flag to capture fill time post state checks](https://github.com/ethereum/execution-specs/pull/2552#pullrequestreview-4001797235) - 2026-03-24
+* [Review] [Review on: refactor(tests),feat(test-forks): add `filter_combinations` pytest marker to avoid runtime skips](https://github.com/ethereum/execution-specs/pull/2543#pullrequestreview-3999438925) - 2026-03-24
+* [Commit] [refactor(test-forks): Remove `block_number`/`timestamp` from all methods (#2442)](https://github.com/ethereum/execution-specs/commit/21407ec427951844f33d1584d10fb123731f6b36) - 2026-03-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Louis from STEEL, ethereum/execution-specs](https://github.com/protocolguild/documentation/pull/472) - 2026-01-15
 ## Q4 2025

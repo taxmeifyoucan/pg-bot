@@ -64,6 +64,10 @@ Team: Reth
 * [Review] [Review on: fix(rpc): return error instead of empty response for missing blocks in debug_getRaw](https://github.com/paradigmxyz/reth/pull/22675#pullrequestreview-3988598001) - 2026-03-22
 * [Review] [Review on: fix: gracefully shut down engine](https://github.com/paradigmxyz/reth/pull/23159#pullrequestreview-3988529548) - 2026-03-22
 * [Review] [Review on: refactor: simplify compact impls for scale types](https://github.com/paradigmxyz/reth/pull/23185#pullrequestreview-3995348625) - 2026-03-23
+* [Review] [Review on: chore(cli): suppress unused tracy_client dependency warning](https://github.com/paradigmxyz/reth/pull/23212#pullrequestreview-4003323016) - 2026-03-25
+* [Review] [Review on: fix: remove apt-get upgrade from hive Dockerfile](https://github.com/paradigmxyz/reth/pull/23206#pullrequestreview-4001216111) - 2026-03-24
+* [Pull Request] [chore(meta): rename CLAUDE.md to AGENTS.md, symlink CLAUDE.md to it](https://github.com/paradigmxyz/reth/pull/23203) - 2026-03-24
+* [Commit] [chore(meta): rename CLAUDE.md to AGENTS.md, symlink CLAUDE.md to it (#23203)](https://github.com/paradigmxyz/reth/commit/52ab4223a066147afd75e4b4628ad76af1b35915) - 2026-03-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
@@ -129,6 +133,16 @@ Team: Reth
 * [Commit] [feat: DWARF debug info for generated code (#144)](https://github.com/paradigmxyz/revmc/commit/0a66507a088ac3147a84b4f4ec8241e48ad45da4) - 2026-03-22
 * [Pull Request] [feat: improve spec ID handling](https://github.com/paradigmxyz/revmc/pull/151) - 2026-03-23
 * [Commit] [feat: improve spec ID handling (#151)](https://github.com/paradigmxyz/revmc/commit/358279d96dde116fa881157936d7b1cc6133735b) - 2026-03-23
+* [Pull Request] [feat: add initializes((0, N)) attr to write-only sp builtins](https://github.com/paradigmxyz/revmc/pull/157) - 2026-03-25
+* [Pull Request] [feat: mark pure opcode builtins as LLVM speculatable](https://github.com/paradigmxyz/revmc/pull/156) - 2026-03-25
+* [Review] [Review on: feat: mark pure opcode builtins as LLVM speculatable](https://github.com/paradigmxyz/revmc/pull/156#pullrequestreview-4003320047) - 2026-03-25
+* [Pull Request] [feat: add EIP-4788 and EIP-2935 system contract benchmarks](https://github.com/paradigmxyz/revmc/pull/155) - 2026-03-24
+* [Pull Request] [feat: add JIT queue length to stats](https://github.com/paradigmxyz/revmc/pull/154) - 2026-03-24
+* [Pull Request] [feat: dump raw bytecode.bin in compiler dump](https://github.com/paradigmxyz/revmc/pull/153) - 2026-03-24
+* [Pull Request] [refactor: remove HostExt trait and host-ext-any feature](https://github.com/paradigmxyz/revmc/pull/152) - 2026-03-24
+* [Commit] [feat: add EIP-4788 beacon roots benchmark (#155)](https://github.com/paradigmxyz/revmc/commit/9ce8e1f2f0b3eded3445f7cb94256e21bbe8232d) - 2026-03-25
+* [Commit] [feat: dump raw bytecode.bin in compiler dump (#153)](https://github.com/paradigmxyz/revmc/commit/d24ec9a5ac7935b96c7fff8a2005c3937183844b) - 2026-03-24
+* [Commit] [refactor: remove HostExt trait and host-ext-any feature (#152)](https://github.com/paradigmxyz/revmc/commit/f4c1554883eba46f213407a8628a2c2767f35a00) - 2026-03-24
 ## Q4 2025
 
 

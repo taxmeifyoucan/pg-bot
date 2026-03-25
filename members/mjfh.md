@@ -21,6 +21,8 @@ Team: Nimbus
 * [Review] [Review on: add eth71 to the sync scheduler](https://github.com/status-im/nimbus-eth1/pull/4042#pullrequestreview-3961846807) - 2026-03-17
 * [Pull Request] [Snap sync add fsa and maint update](https://github.com/status-im/nimbus-eth1/pull/4051) - 2026-03-19
 * [Commit] [Snap sync add fsa and maint update (#4051)](https://github.com/status-im/nimbus-eth1/commit/f346dbe2e691248fcfef60215ad67dabf3dfe156) - 2026-03-19
+* [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4062) - 2026-03-24
+* [Commit] [Snap sync maint update (#4062)](https://github.com/status-im/nimbus-eth1/commit/a2bb5b6c2b39de054e0084aeedb9088e15b9952a) - 2026-03-24
 ## Q4 2025
 
 

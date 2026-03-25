@@ -43,6 +43,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor: Move merkleization metrics to IWorldStateScopeProvider](https://github.com/NethermindEth/nethermind/pull/10925) - 2026-03-23
 * [Review] [Review on: Fix incorrect NodeType in TrieNodeTests](https://github.com/NethermindEth/nethermind/pull/10917#pullrequestreview-3989897377) - 2026-03-23
 * [Review] [Review on: fix: fix SnapSync regression from network layer refactor](https://github.com/NethermindEth/nethermind/pull/10902#pullrequestreview-3990263770) - 2026-03-23
+* [Pull Request] [Migrate TxGossipPolicy to DI using OrderedComponents](https://github.com/NethermindEth/nethermind/pull/10941) - 2026-03-24
+* [Review] [Review on: refactor: Move merkleization metrics to IWorldStateScopeProvider](https://github.com/NethermindEth/nethermind/pull/10925#pullrequestreview-3997409267) - 2026-03-24
+* [Pull Request] [Connection reset metric](https://github.com/NethermindEth/nethermind/pull/10935) - 2026-03-24
+* [Commit] [Connection reset metric (#10935)](https://github.com/NethermindEth/nethermind/commit/44f65f88cf83bf44bfeb83f7d893c6dffd9e460d) - 2026-03-24
 ## Q4 2025
 
 

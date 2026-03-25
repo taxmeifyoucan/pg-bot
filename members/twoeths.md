@@ -52,6 +52,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: epbs devnet 0](https://github.com/ChainSafe/lodestar/pull/9091) - 2026-03-23
 * [Commit] [refactor: generalize NetworkProcessor awaiting-block mechanism for all gossip types (#9059)](https://github.com/ChainSafe/lodestar/commit/4118b5b440a7ccb411c97e8d70dd119290f467d5) - 2026-03-23
 * [Commit] [chore: clean up UnknownBlockSync (#9069)](https://github.com/ChainSafe/lodestar/commit/bfeb9e7e157d9526d77842558a34940ac549669a) - 2026-03-23
+* [Pull Request] [chore: consume BeaconStateView](https://github.com/ChainSafe/lodestar/pull/8857) - 2026-03-24
+* [Pull Request] [feat: enhance processChainSegment for ePBS](https://github.com/ChainSafe/lodestar/pull/9103) - 2026-03-24
+* [Commit] [chore: consume BeaconStateView (#8857)](https://github.com/ChainSafe/lodestar/commit/7e96447c23fd45838b33c55f776ca2655e049907) - 2026-03-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 * [Review] [Review on: fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241#pullrequestreview-3948190078) - 2026-03-14

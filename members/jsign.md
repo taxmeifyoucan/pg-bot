@@ -35,6 +35,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [fix witness generation](https://github.com/eth-act/zkevm-benchmark-workload/pull/265) - 2026-03-13
 * [Commit] [fix witness generation (#265)](https://github.com/eth-act/zkevm-benchmark-workload/commit/63da9dde9b284dc4845cf7128c3f0d7c53d21654) - 2026-03-14
 * [Review] [Review on: Pin the `witness-generator-cli` builder image to `rust:1.91-bookworm`](https://github.com/eth-act/zkevm-benchmark-workload/pull/266#pullrequestreview-3974686431) - 2026-03-19
+* [Pull Request] [Update ere and ere-guests](https://github.com/eth-act/zkevm-benchmark-workload/pull/267) - 2026-03-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(specs): delay get_code calls in CALL-like opcodes after gas charging and stack-depth checks](https://github.com/ethereum/execution-specs/pull/2473) - 2026-03-10
 * [Pull Request] [feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472) - 2026-03-10
@@ -66,6 +67,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(test-fixture): add target opcode in output fixture](https://github.com/ethereum/execution-specs/pull/2520#pullrequestreview-3960295026) - 2026-03-17
 * [Pull Request] [feat(zkevm): add invalid execution witness test support](https://github.com/ethereum/execution-specs/pull/2533) - 2026-03-19
 * [Review] [Review on: feat(zkevm): add invalid execution witness test support](https://github.com/ethereum/execution-specs/pull/2533#pullrequestreview-3977073047) - 2026-03-19
+* [Pull Request] [feat(zkevm): add tests for execution witness with mutated bytecodes and headers](https://github.com/ethereum/execution-specs/pull/2549) - 2026-03-24
+* [Review] [Review on: feat(zkevm): add tests for execution witness with mutated bytecodes and headers](https://github.com/ethereum/execution-specs/pull/2549#pullrequestreview-3998674838) - 2026-03-24
 ## Q4 2025
 
 

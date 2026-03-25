@@ -143,6 +143,16 @@ Team: Reth
 * [Review] [Review on: fix(rpc): apply evm_memory_limit to all execution RPC methods](https://github.com/paradigmxyz/reth/pull/23161#pullrequestreview-3990774122) - 2026-03-23
 * [Pull Request] [docs(consensus): document the validation pipeline and trait hierarchy](https://github.com/paradigmxyz/reth/pull/22869) - 2026-03-23
 * [Commit] [docs(consensus): document the validation pipeline and trait hierarchy (#22869)](https://github.com/paradigmxyz/reth/commit/bc7d5855068a87a216d404553f77428738a139cb) - 2026-03-23
+* [Review] [Review on: perf(provider): avoid full receipt clone in tx-range query](https://github.com/paradigmxyz/reth/pull/23187#pullrequestreview-3998917330) - 2026-03-24
+* [Review] [Review on: refactor: use `reth-core` deps](https://github.com/paradigmxyz/reth/pull/23186#pullrequestreview-4002274971) - 2026-03-24
+* [Review] [Review on: refactor: remove `PayloadBuilderAttributes`](https://github.com/paradigmxyz/reth/pull/23202#pullrequestreview-4000627292) - 2026-03-24
+* [Pull Request] [fix(init-state): chunk writes across transactions](https://github.com/paradigmxyz/reth/pull/23200) - 2026-03-24
+* [Pull Request] [Chunk init-state writes across transactions](https://github.com/paradigmxyz/reth/pull/23199) - 2026-03-24
+* [Pull Request] [chore: remove unused Extended type and op feature from primitives-traits](https://github.com/paradigmxyz/reth/pull/23198) - 2026-03-24
+* [Pull Request] [feat(txpool): add TransactionValidationTaskExecutor::spawn](https://github.com/paradigmxyz/reth/pull/23196) - 2026-03-24
+* [Pull Request] [fix(init): track actual byte size instead of account count in dump_state](https://github.com/paradigmxyz/reth/pull/23190) - 2026-03-24
+* [Commit] [chore: remove unused Extended type and op feature from primitives-traits (#23198)](https://github.com/paradigmxyz/reth/commit/15338b8113d006e24a42a0d556cfeb8bd70ebf0d) - 2026-03-24
+* [Commit] [fix(init): track actual byte size instead of account count in dump_state (#23190)](https://github.com/paradigmxyz/reth/commit/b3f5e62494b58b2bf8c364736e4b75ed2fa6c0c8) - 2026-03-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

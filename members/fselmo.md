@@ -49,6 +49,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(zkevm): add invalid execution witness test support](https://github.com/ethereum/execution-specs/pull/2533#pullrequestreview-3977526094) - 2026-03-19
 * [Review] [Review on: feat(test-benchmark): verify transaction status](https://github.com/ethereum/execution-specs/pull/2527#pullrequestreview-3982382795) - 2026-03-20
 * [Review] [Review on: feat(planned-tests): Add EIP-7928 planned test cases](https://github.com/ethereum/execution-specs/pull/1903#pullrequestreview-3995519239) - 2026-03-24
+* [Review] [Review on: refactor(test-forks): Remove `block_number`/`timestamp` from all methods](https://github.com/ethereum/execution-specs/pull/2442#pullrequestreview-4002200239) - 2026-03-24
+* [Review] [Review on: feat(test-fill): add `--post-verifier` flag to capture fill time post state checks](https://github.com/ethereum/execution-specs/pull/2552#pullrequestreview-4002144049) - 2026-03-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [fix: update BPO defaults](https://github.com/ethereum/hive/pull/1380) - 2026-01-15
 * [Pull Request] [fix: remove Amsterdam defaults (named fork in blob params)](https://github.com/ethereum/hive/pull/1387) - 2026-02-03

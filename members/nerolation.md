@@ -42,6 +42,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7928: Fix contradicting claim about fee recipient](https://github.com/ethereum/EIPs/pull/11420) - 2026-03-18
 * [Commit] [Update EIP-7928: Fix contradicting claim about fee recipient](https://github.com/ethereum/EIPs/commit/af481a64b9bf555699ac5e3030c1b3921dfc383f) - 2026-03-19
 * [Commit] [Update EIP-8037: Align with EIP-7928 Gas Validation Phases](https://github.com/ethereum/EIPs/commit/7df0a62ca4255f22a72603595c7a5312649f6e47) - 2026-03-20
+* [Pull Request] [Add EIP: Payload Chunking with Chunk Access Lists](https://github.com/ethereum/EIPs/pull/10900) - 2026-03-24
+* [Commit] [Add EIP: Payload Chunking with Chunk Access Lists](https://github.com/ethereum/EIPs/commit/1a86cc425d912c23f39ce830fcb25b481091dd0b) - 2026-03-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add worst-case BAL read test](https://github.com/ethereum/execution-specs/pull/2033) - 2026-01-18
 

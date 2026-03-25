@@ -72,3 +72,6 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] [[r3.4] execution/tests: skip on Windows](https://github.com/erigontech/erigon/pull/20072) - 2026-03-22
 * [Pull Request] [[r3.4] downloader: update anacrolix/torrent to latest master](https://github.com/erigontech/erigon/pull/20071) - 2026-03-22
 * [Pull Request] [[r3.4] db/state, txpool: benchmark fixes and bench flag improvements](https://github.com/erigontech/erigon/pull/20070) - 2026-03-22
+* [Review] [Review on: dns: TTL-aware caching, negative cache, cross-platform nameserver config, jitter](https://github.com/erigontech/erigon/pull/20105#pullrequestreview-3998687882) - 2026-03-24
+* [Review] [Review on: rpc, node, diagnostics, cmd: replace gorilla/websocket with coder/websocket](https://github.com/erigontech/erigon/pull/20097#pullrequestreview-3998770237) - 2026-03-24
+* [Review] [Review on: qa-tests: restore the execution of RPC tests on the main and release branches](https://github.com/erigontech/erigon/pull/20129#pullrequestreview-3998718256) - 2026-03-24

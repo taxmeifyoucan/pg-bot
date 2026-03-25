@@ -23,6 +23,7 @@ Team: Codex DAS
 * [Pull Request] [core/txpool/blobpool: delay announcement of low fee txs](https://github.com/ethereum/go-ethereum/pull/33893) - 2026-02-26
 * [Pull Request] [cmd/devp2p: fix discv5 PingMultiIP test session key mismatch](https://github.com/ethereum/go-ethereum/pull/34031) - 2026-03-17
 * [Pull Request] [cmd/devp2p/internal/v5test: fix hive test for discv5 findnode results](https://github.com/ethereum/go-ethereum/pull/34043) - 2026-03-18
+* [Commit] [cmd/devp2p: fix discv5 PingMultiIP test session key mismatch (#34031)](https://github.com/ethereum/go-ethereum/commit/e951bcbff729b0eae1e1743c2bbb27064bbaf165) - 2026-03-24
 ## Q4 2025
 
 

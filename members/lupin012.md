@@ -56,6 +56,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: fix debug_getBadBlocks swapped block/rlp fields (#20053)](https://github.com/erigontech/erigon/commit/4f262dbbe1056b1de1b50a5f63c70f91b39013cb) - 2026-03-22
 * [Pull Request] [rpc: trace_filter add per-transaction timeout](https://github.com/erigontech/erigon/pull/20111) - 2026-03-23
 * [Commit] [rpc: debug_accountRange: add address/key as Geth (#20057)](https://github.com/erigontech/erigon/commit/1726b3eb01ccdd0540b8cdcb825714ae9b880d8a) - 2026-03-23
+* [Pull Request] [CI: update to new rpc version ](https://github.com/erigontech/erigon/pull/20141) - 2026-03-24
+* [Pull Request] [rpc: eth_getRawTransactionByHash & eth_callBundle avoid block scan when fetch txn from hash](https://github.com/erigontech/erigon/pull/20140) - 2026-03-24
+* [Review] [Review on: qa-tests: restore the execution of RPC tests on the main and release branches](https://github.com/erigontech/erigon/pull/20129#pullrequestreview-3998437558) - 2026-03-24
+* [Commit] [rpc: trace_filter add per-transaction timeout (#20111)](https://github.com/erigontech/erigon/commit/c0068c6f6de50408c1e69cf0e58d06072fc8a395) - 2026-03-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15
@@ -75,6 +79,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix in case o% (#530)](https://github.com/erigontech/rpc-tests/commit/1dee08204a1b47c078c3f8bc567cfdcefc23c18b) - 2026-03-20
 * [Commit] [rpc: fix rsp debug account range according Geth (#532)](https://github.com/erigontech/rpc-tests/commit/c74c58429565b630edfb054a575e603532b03605) - 2026-03-21
 * [Pull Request] [[WIP] eth_simulateV1: update stateRoot](https://github.com/erigontech/rpc-tests/pull/533) - 2026-03-22
+* [Review] [Review on: v2: full revamping in golang](https://github.com/erigontech/rpc-tests/pull/524#pullrequestreview-4002410428) - 2026-03-24
 ## Q4 2025
 
 

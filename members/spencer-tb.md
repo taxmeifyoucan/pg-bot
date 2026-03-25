@@ -39,6 +39,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(tests,test-fill): rename `json_loader` pytest marker to `eels_base_coverage`](https://github.com/ethereum/execution-specs/pull/2524#pullrequestreview-3980565390) - 2026-03-20
 * [Review] [Review on: feat(test-consume,deps): use `register_multi_test_client` to fix client logs in test reports](https://github.com/ethereum/execution-specs/pull/2476#pullrequestreview-3980547108) - 2026-03-20
 * [Review] [Review on: chore(ci): enable ported static in py3 and split into 5 parallel fork-range runners](https://github.com/ethereum/execution-specs/pull/2529#pullrequestreview-3980470269) - 2026-03-20
+* [Pull Request] [feat(test-fill): add `--post-verifier` flag to capture fill time post state checks](https://github.com/ethereum/execution-specs/pull/2552) - 2026-03-24
+* [Review] [Review on: feat(ci): cache mypy results in the static analysis job](https://github.com/ethereum/execution-specs/pull/2546#pullrequestreview-3998678654) - 2026-03-24
+* [Review] [Review on: fix(ci): remove stale client Docker images before benchmark genesis build](https://github.com/ethereum/execution-specs/pull/2544#pullrequestreview-3998006204) - 2026-03-24
+* [Review] [Review on: fix(ci): separate Hive client build from dev mode startup; increase timeout](https://github.com/ethereum/execution-specs/pull/2545#pullrequestreview-3998065361) - 2026-03-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 

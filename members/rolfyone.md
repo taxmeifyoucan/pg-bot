@@ -119,6 +119,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [[beacon-api] ptc lookahead re-added](https://github.com/Consensys/teku/issues/10524) - 2026-03-23
 * [Commit] [cleanup NO_OP instances (#10521)](https://github.com/Consensys/teku/commit/1efb7120d50f55abcffab1245147048ccbd5ff98) - 2026-03-24
 * [Commit] [Fix swagger-ui failing to serve static files from JAR in Docker (#10520)](https://github.com/Consensys/teku/commit/5db7dc5c8f51ec027fdd865c8a73301557586750) - 2026-03-23
+* [Review] [Review on: Add Engine API IPC support (new engine API)](https://github.com/Consensys/teku/pull/10510#pullrequestreview-4003351059) - 2026-03-25
+* [Pull Request] [updated ptc duties description](https://github.com/Consensys/teku/pull/10525) - 2026-03-24
+* [Commit] [updated ptc duties description (#10525)](https://github.com/Consensys/teku/commit/cef08f2b8c86fcc707932baffc75941de23045dc) - 2026-03-24
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

@@ -24,6 +24,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Use stack allocated VertexBuf instead of VertexRef in RDB LruCache](https://github.com/status-im/nimbus-eth1/pull/4048) - 2026-03-19
 * [Review] [Review on: Use stack allocated VertexBuf instead of VertexRef in RDB LruCache](https://github.com/status-im/nimbus-eth1/pull/4048#pullrequestreview-3973136093) - 2026-03-19
 * [Commit] [Use stack allocated VertexBuf instead of VertexRef in RDB LruCache (#4048)](https://github.com/status-im/nimbus-eth1/commit/c1b70336fa1d8c8af6215bfb97c2516e2a7dc48b) - 2026-03-20
+* [Review] [Review on: Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4053#pullrequestreview-3995824517) - 2026-03-24
 ## Q4 2025
 
 

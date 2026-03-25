@@ -112,6 +112,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [`waitForSpace` after execution payload verification](https://github.com/ChainSafe/lodestar/issues/9092) - 2026-03-23
 * [Commit] [fix: use IGNORE instead of REJECT for missing payload envelope input (#9094)](https://github.com/ChainSafe/lodestar/commit/e3f53019a0a1ce07015d0495e7f243f79b675e4a) - 2026-03-23
 * [Commit] [refactor: avoid falsy zero check in indexed attestation bounds validation (#9089)](https://github.com/ChainSafe/lodestar/commit/5007d8c6d6c1f38bb20c2a727f121d20e6db3221) - 2026-03-23
+* [Pull Request] [test: wire sync committee gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9106) - 2026-03-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15
@@ -119,6 +120,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Add PTC lookbehind minimal state change](https://github.com/ethereum/consensus-specs/pull/5020) - 2026-03-19
 * [Review] [Review on: Add PTC lookbehind minimal state change](https://github.com/ethereum/consensus-specs/pull/5020#pullrequestreview-3974835067) - 2026-03-19
 
+* [Pull Request] [Allow same epoch proposer preferences](https://github.com/ethereum/consensus-specs/pull/5035) - 2026-03-24
+* [Review] [Review on: Allow same epoch proposer preferences](https://github.com/ethereum/consensus-specs/pull/5035#pullrequestreview-3999679902) - 2026-03-24
+* [Pull Request] [Relax bid gossip dependency on proposer preferences](https://github.com/ethereum/consensus-specs/pull/5036) - 2026-03-24
+* [Commit] [Allow same epoch proposer preferences (#5035)](https://github.com/ethereum/consensus-specs/commit/8a78b25b0a4edf8dd22eee7c99bbd7e971785732) - 2026-03-25
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: implement getEffectiveBalanceIncrementsZeroInactive](https://github.com/ChainSafe/lodestar-z/pull/240#pullrequestreview-3987648664) - 2026-03-22
 ## Q4 2025

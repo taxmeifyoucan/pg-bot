@@ -144,6 +144,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [snap server dropping response that is too big](https://github.com/besu-eth/besu/issues/10085) - 2026-03-23
 * [Issue] [snap client disconnecting for late response](https://github.com/besu-eth/besu/issues/10086) - 2026-03-23
 * [Commit] [eth/70 Fix paginated receipts response size estimation (#10089)](https://github.com/besu-eth/besu/commit/4aa27839e38be3bd976331395adab79655eafde1) - 2026-03-23
+* [Review] [Review on: add BWS stall detection and restart BWS if no progress](https://github.com/besu-eth/besu/pull/10045#pullrequestreview-4003159287) - 2026-03-25
+* [Review] [Review on: test(referencetests): validate block rejection reason against expected exception for BAL](https://github.com/besu-eth/besu/pull/10098#pullrequestreview-4002566248) - 2026-03-24
+* [Review] [Review on: Dispatch snap server request processing off Netty event loop](https://github.com/besu-eth/besu/pull/10083#pullrequestreview-3996669566) - 2026-03-24
+* [Pull Request] [Optimize txpool blob test fixtures](https://github.com/besu-eth/besu/pull/10094) - 2026-03-24
+* [Pull Request] [compute blob tx KZG commitments once per test class](https://github.com/besu-eth/besu/pull/10095) - 2026-03-24
+* [Review] [Review on: compute blob tx KZG commitments once per test class](https://github.com/besu-eth/besu/pull/10095#pullrequestreview-3997031717) - 2026-03-24
+* [Pull Request] [speed up SyncStateTest setup](https://github.com/besu-eth/besu/pull/10097) - 2026-03-24
+* [Review] [Review on: speed up SyncStateTest setup](https://github.com/besu-eth/besu/pull/10097#pullrequestreview-3997576798) - 2026-03-24
+* [Review] [Review on: receipt decoder - handle both formats at read time](https://github.com/besu-eth/besu/pull/10079#pullrequestreview-3996245847) - 2026-03-24
+* [Issue] [Backward sync stall](https://github.com/besu-eth/besu/issues/10100) - 2026-03-25
+* [Commit] [housekeeping: move trivy action from 0.35.0 to v0.35.0 (#10082)](https://github.com/besu-eth/besu/commit/3021947faa5da90603c3f2c1529da84d08989e34) - 2026-03-24
+* [Commit] [compute blob tx KZG commitments once per test class (#10095)](https://github.com/besu-eth/besu/commit/da48e425a7c68dd6bb5667f0a6b9bdab03cabb21) - 2026-03-24
+* [Commit] [receipt decoder - handle both formats at read time (#10079)](https://github.com/besu-eth/besu/commit/b08fed514ab653db89dd7720c986677439317517) - 2026-03-24
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

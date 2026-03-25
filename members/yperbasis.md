@@ -162,6 +162,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/state: fix data race on Aggregator stepSize/stepsInFrozenFile (#20100)](https://github.com/erigontech/erigon/commit/2660b49705e5d69ed4d3510cf287696bb0b22173) - 2026-03-23
 * [Commit] [Schedule Osaka for Gnosis (#20089)](https://github.com/erigontech/erigon/commit/49abc1699ebd5d6bb0e6c653e86ce109c93412d8) - 2026-03-23
 * [Commit] [execution/vm: fix EIP-8037 CALL gas charge ordering (#20067)](https://github.com/erigontech/erigon/commit/f3cd685d0028082ab6f6a73b3cb427901e991ec6) - 2026-03-23
+* [Pull Request] [ci: skip sonar scan for fork PRs](https://github.com/erigontech/erigon/pull/20132) - 2026-03-24
+* [Pull Request] [ci: Glamsterdam assertoor](https://github.com/erigontech/erigon/pull/20123) - 2026-03-24
+* [Review] [Review on: execution/stagedsync: fix parallel executor reorg with deferred commitment](https://github.com/erigontech/erigon/pull/20131#pullrequestreview-3998846862) - 2026-03-24
+* [Review] [Review on: rpc: trace_filter add per-transaction timeout](https://github.com/erigontech/erigon/pull/20111#pullrequestreview-3996674386) - 2026-03-24
+* [Pull Request] [execution: fix EIP-8037 GasPool two-dimensional block gas accounting](https://github.com/erigontech/erigon/pull/20134) - 2026-03-24
+* [Review] [Review on: caplin: unified Engine API client for standalone mode](https://github.com/erigontech/erigon/pull/20035#pullrequestreview-3997356889) - 2026-03-24
+* [Pull Request] [caplin: fix BlockCollector crash-loop on gap in collected blocks](https://github.com/erigontech/erigon/pull/20130) - 2026-03-24
+* [Pull Request] [stagedsync, db: fix TxLookup prune crash with membatch cursor during FCU](https://github.com/erigontech/erigon/pull/20122) - 2026-03-24
+* [Pull Request] [[r3.4] caplin: fix BlockCollector crash-loop on gap in collected blocks](https://github.com/erigontech/erigon/pull/20125) - 2026-03-24
+* [Review] [Review on: protect execution TIP under RPC load](https://github.com/erigontech/erigon/pull/19905#pullrequestreview-3996711988) - 2026-03-24
+* [Commit] [execution: fix EIP-8037 GasPool two-dimensional block gas accounting (#20134)](https://github.com/erigontech/erigon/commit/1a1b662e98af486e38c50dc83bc23421bd4eec30) - 2026-03-24
+* [Commit] [ci: skip sonar scan for fork PRs (#20132)](https://github.com/erigontech/erigon/commit/a4b6f940e7e58f32d788f1f0389a40cd7c8cfaa0) - 2026-03-24
+* [Commit] [caplin: fix BlockCollector crash-loop on gap in collected blocks (#20130)](https://github.com/erigontech/erigon/commit/26e6f5bdb49ae6f341597bed96377aaa4cc1ee3f) - 2026-03-24
+* [Commit] [stagedsync, db: fix TxLookup prune crash with membatch cursor during FCU (#20122)](https://github.com/erigontech/erigon/commit/cabda2a61f6783250d1cd192fa5e299097fabdf5) - 2026-03-24
+* [Commit] [execution/vm: fix EIP-8037 state gas spill restoration on frame failure (#20108)](https://github.com/erigontech/erigon/commit/37d30afab349bccb6332fd22122c06b22e498a0b) - 2026-03-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

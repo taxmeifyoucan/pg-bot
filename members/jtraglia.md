@@ -67,6 +67,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add check that block is known in `on_payload_attestation_message`](https://github.com/ethereum/consensus-specs/pull/5022#pullrequestreview-3991888113) - 2026-03-23
 * [Commit] [Merge publish workflow into release workflow (#5031)](https://github.com/ethereum/consensus-specs/commit/604be75941d6cf9f2dcb495b2bbc487ba8a3d53e) - 2026-03-23
 * [Commit] [Disable semantic PR titles & grouped updates (#5027)](https://github.com/ethereum/consensus-specs/commit/ab882f81a7b83768aad523813e9212e8be0b3e6a) - 2026-03-23
+* [Review] [Review on: Allow same epoch proposer preferences](https://github.com/ethereum/consensus-specs/pull/5035#pullrequestreview-3999480520) - 2026-03-24
+* [Pull Request] [Remove fork version/epoch in eip8025 specs](https://github.com/ethereum/consensus-specs/pull/5037) - 2026-03-24
+* [Pull Request] [Add sanity/blocks tests for missed payload withdrawal interactions](https://github.com/ethereum/consensus-specs/pull/4962) - 2026-03-25
+* [Review] [Review on: Request missing payload envelopes for index-1 attestation](https://github.com/ethereum/consensus-specs/pull/4939#pullrequestreview-4000690661) - 2026-03-24
+* [Pull Request] [Add executable gossip validation functions for Altair](https://github.com/ethereum/consensus-specs/pull/5033) - 2026-03-24
+* [Review] [Review on: Add executable gossip validation functions for Altair](https://github.com/ethereum/consensus-specs/pull/5033#pullrequestreview-3999033113) - 2026-03-24
+* [Pull Request] [Bump version to v1.7.0-alpha.4](https://github.com/ethereum/consensus-specs/pull/5034) - 2026-03-24
+* [Commit] [Remove fork version/epoch in eip8025 specs (#5037)](https://github.com/ethereum/consensus-specs/commit/4572746aecef6183a9a762c055e0c65e3f9b2dcd) - 2026-03-25
+* [Commit] [Add sanity/blocks tests for missed payload withdrawal interactions (#4962)](https://github.com/ethereum/consensus-specs/commit/005be502ae72e98ff303f8e38f737c53a9d9571d) - 2026-03-25
+* [Commit] [Bump version to v1.7.0-alpha.4 (#5034)](https://github.com/ethereum/consensus-specs/commit/f36f2e77b346975623f597afa4a699a9ae81669f) - 2026-03-24
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: enable specref features & remove unnecessary spec items](https://github.com/ChainSafe/lodestar/pull/8788) - 2026-01-27
 

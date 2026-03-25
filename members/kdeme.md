@@ -25,6 +25,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Execution API: block tag not parsing hash](https://github.com/status-im/nimbus-eth1/issues/3981) - 2026-02-15
 * [Pull Request] [Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4053) - 2026-03-20
 * [Review] [Review on: Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4053#pullrequestreview-3982740851) - 2026-03-20
+* [Pull Request] [eest tests: Remove old fusaka devnet tests](https://github.com/status-im/nimbus-eth1/pull/4059) - 2026-03-24
+* [Review] [Review on: Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4053#pullrequestreview-3998036516) - 2026-03-24
+* [Commit] [eest tests: Remove old fusaka devnet tests (#4059)](https://github.com/status-im/nimbus-eth1/commit/9ec164f08d717413c29f262d0ddc69e06b3f378e) - 2026-03-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3 and related changes](https://github.com/status-im/nimbus-eth2/pull/7876) - 2026-01-23
 * [Pull Request] []() - 2026-01-27

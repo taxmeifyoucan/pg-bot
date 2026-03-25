@@ -48,8 +48,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [Bonsai archive seperate column families (#10058)](https://github.com/besu-eth/besu/commit/6f16081abf909d482a4849c1e8f0d337de489327) - 2026-03-19
 
 * [Review] [Review on: Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048#pullrequestreview-3988952089) - 2026-03-23
+* [Review] [Review on: Dispatch snap server request processing off Netty event loop](https://github.com/besu-eth/besu/pull/10083#pullrequestreview-3996086951) - 2026-03-24
+* [Review] [Review on: snap sync - don't disconnect peer for late responses](https://github.com/besu-eth/besu/pull/10087#pullrequestreview-3996057779) - 2026-03-24
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: fix: Static-link OpenSSL in secp256r1 to prevent symbol leaking](https://github.com/besu-eth/besu-native/pull/308#pullrequestreview-3979209002) - 2026-03-20
+* [Review] [Review on: chore: Update changelog](https://github.com/besu-eth/besu-native/pull/312#pullrequestreview-3996628897) - 2026-03-24
+* [Review] [Review on: release: 1.5.0](https://github.com/besu-eth/besu-native/pull/310#pullrequestreview-3996189038) - 2026-03-24
 ## Q4 2025
 
 

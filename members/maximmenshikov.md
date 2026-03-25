@@ -18,3 +18,4 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat: support Zisk DMA (v0.16.0)](https://github.com/NethermindEth/bflat-riscv64/commit/911e898637426cf1067dbbd6e566b03619df70d1) - 2026-03-18
 * [Commit] [Support wrap symbols defined externally in bflat manifest](https://github.com/NethermindEth/bflat-riscv64/commit/49ea886c9b37cba9edfa4d24b7ea89dee9ad347a) - 2026-03-23
 * [Commit] [Add symbol chart support](https://github.com/NethermindEth/bflat-riscv64/commit/8977ed099b075a9aca58c2ad6d59c4bb96c4360d) - 2026-03-23
+* [Commit] [bflat/BuildCommand: remove redundant wraps](https://github.com/NethermindEth/bflat-riscv64/commit/107b66805e1c271b938892cc7004882bd7aead2c) - 2026-03-24

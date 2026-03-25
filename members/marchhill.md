@@ -29,6 +29,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Add flags](https://github.com/NethermindEth/nethermind/pull/10929#pullrequestreview-3992435020) - 2026-03-23
 * [Commit] [Gnosis Osaka (#10906)](https://github.com/NethermindEth/nethermind/commit/d4214ddddf446cf75762699ea56e0c9829e7025d) - 2026-03-23
 * [Commit] [Fix AuRaMergeEngineModuleTests (#10872)](https://github.com/NethermindEth/nethermind/commit/871e9c701dfcd534ec7dcb72d3b5d04069b2f57d) - 2026-03-23
+* [Pull Request] [Optimise parallel execution](https://github.com/NethermindEth/nethermind/pull/10937) - 2026-03-24
 ## Q4 2025
 
 

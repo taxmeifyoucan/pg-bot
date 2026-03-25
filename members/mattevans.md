@@ -46,6 +46,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [refactor: trace_identify plumbing](https://github.com/ethpandaops/xatu/pull/765) - 2026-02-23
 
 * [Pull Request] [release: gloas](https://github.com/ethpandaops/xatu/pull/795) - 2026-03-23
+* [Pull Request] [refactor: bals structure rlp decoded](https://github.com/ethpandaops/xatu/pull/796) - 2026-03-24
+* [Commit] [chore(buf.yaml): update linting rules to exclude specific checks for better customization](https://github.com/ethpandaops/xatu/commit/c51fc639ca18f28c7a3b7eac593a38fc186ccacc) - 2026-03-24
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Pull Request] [fix: resolve golangci-lint issues](https://github.com/ethpandaops/contributoor/pull/195) - 2026-03-11
 * [Pull Request] [chore: bump go-ethereum to v1.17.1](https://github.com/ethpandaops/contributoor/pull/194) - 2026-03-10
@@ -60,6 +62,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Review] [Review on: fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/ethpandaops/contributoor/pull/212#pullrequestreview-3970951742) - 2026-03-18
 * [Commit] [Merge pull request #212 from ethpandaops/fix/update-kurtosis-apt-source](https://github.com/ethpandaops/contributoor/commit/9d0c59b4f80d8871a95a35db0799abb8f19b1fc3) - 2026-03-18
+* [Pull Request] [chore: update Go module dependencies](https://github.com/ethpandaops/contributoor/pull/214) - 2026-03-24
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Commit] [Merge pull request #54 from ethpandaops/fix/update-kurtosis-apt-source](https://github.com/ethpandaops/tracoor/commit/aff69be4e57b08ac919a9a8a3404630e78601af6) - 2026-03-18
 * [Commit] [fix(golang-test.yaml): update test running command to use tee for simultaneous output to console and file](https://github.com/ethpandaops/tracoor/commit/966886ab34728d301b0bb75bf156ba11e372bd6b) - 2026-03-18

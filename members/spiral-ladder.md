@@ -45,3 +45,4 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat(blst): native multi-threaded blst](https://github.com/ChainSafe/lodestar-z/pull/235#pullrequestreview-3964669421) - 2026-03-18
 * [Pull Request] [refactor(bls): use pointer arrays](https://github.com/ChainSafe/lodestar-z/pull/253) - 2026-03-20
 * [Review] [Review on: fix: replace custom intSqrt with std.math.sqrt](https://github.com/ChainSafe/lodestar-z/pull/263#pullrequestreview-3991672545) - 2026-03-23
+* [Pull Request] [fix: env usage](https://github.com/ChainSafe/lodestar-z/pull/266) - 2026-03-24

@@ -99,3 +99,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: refactor(air): split air.rs into multiple modules](https://github.com/Plonky3/Plonky3/pull/1466#pullrequestreview-3991174822) - 2026-03-23
 * [Review] [Review on: merkle-tree: unify arity step scheduling rules](https://github.com/Plonky3/Plonky3/pull/1465#pullrequestreview-3991166203) - 2026-03-23
 * [Review] [Review on: fix(verifier): tighten input shape validation](https://github.com/Plonky3/Plonky3/pull/1464#pullrequestreview-3991162878) - 2026-03-23
+* [Pull Request] [monolith: implement Monolith for Mersenne31 and Goldilocks](https://github.com/Plonky3/Plonky3/pull/1478) - 2026-03-24
+* [Pull Request] [batch stark: separate Fiat Shamir transcript](https://github.com/Plonky3/Plonky3/pull/1475) - 2026-03-24
+* [Review] [Review on: batch-stark: more efficient prover](https://github.com/Plonky3/Plonky3/pull/1470#pullrequestreview-3997796060) - 2026-03-24
+* [Commit] [batch-stark: more efficient prover (#1470)](https://github.com/Plonky3/Plonky3/commit/b482e1be5f6d2e0917c5ecea3009335bbfd94e42) - 2026-03-24
+* [Commit] [uni stark: rm useless `check_constraints.rs` file (#1471)](https://github.com/Plonky3/Plonky3/commit/79bc6852cf5762920e37520e3439a73fc30d9beb) - 2026-03-24

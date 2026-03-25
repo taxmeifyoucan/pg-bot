@@ -24,6 +24,7 @@ Team: Geth
 * [Review] [Review on: core: fix code database initialization in stateless mode](https://github.com/ethereum/go-ethereum/pull/34011#pullrequestreview-3952140728) - 2026-03-16
 * [Review] [Review on: cmd/evm: don't strip prefixes on requests over t8n](https://github.com/ethereum/go-ethereum/pull/33997#pullrequestreview-3952179687) - 2026-03-16
 * [Review] [Review on: core: add bogota fork](https://github.com/ethereum/go-ethereum/pull/34057#pullrequestreview-3981348341) - 2026-03-20
+* [Review] [Review on: miner: restore GasUsed assignment in applyTransaction](https://github.com/ethereum/go-ethereum/pull/34082#pullrequestreview-3999004804) - 2026-03-24
 ## Q4 2025
 
 

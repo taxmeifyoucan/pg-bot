@@ -29,6 +29,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048#pullrequestreview-3979974392) - 2026-03-20
 * [Review] [Review on: Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048#pullrequestreview-3989200767) - 2026-03-23
 * [Commit] [Defer Snappy decompression of P2P messages until worker thread processing (#10048)](https://github.com/besu-eth/besu/commit/33ced38cefb5679d302e7965cb653c526026fe74) - 2026-03-23
+* [Review] [Review on: add BWS stall detection and restart BWS if no progress](https://github.com/besu-eth/besu/pull/10045#pullrequestreview-3997088305) - 2026-03-24
+* [Issue] [Test other ethereum clients against a single snap serving besu](https://github.com/besu-eth/besu/issues/10093) - 2026-03-24
 ## Q4 2025
 
 

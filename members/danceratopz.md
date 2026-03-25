@@ -68,6 +68,19 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [refactor(tests): replace runtime skips with upfront parametrize filtering (#2542)](https://github.com/ethereum/execution-specs/commit/a0698499dc87900762bcbee65f33f3c5d1cceb26) - 2026-03-23
 * [Commit] [fix(fill): guard type-only pre_alloc import behind TYPE_CHECKING (#2541)](https://github.com/ethereum/execution-specs/commit/b585abe2cc8a985d1abd71212f1984aba9e72568) - 2026-03-23
 * [Commit] [chore(test-fill): don't collect tests for unsupported forks (#2540)](https://github.com/ethereum/execution-specs/commit/12c3ac06aa512eaab01ba662f883fc89fce6bf64) - 2026-03-23
+* [Review] [Review on: refactor(tests),feat(test-forks): add `filter_combinations` pytest marker to avoid runtime skips](https://github.com/ethereum/execution-specs/pull/2543#pullrequestreview-3998456378) - 2026-03-24
+* [Pull Request] [feat(ci): cache mypy results in the static analysis job](https://github.com/ethereum/execution-specs/pull/2546) - 2026-03-24
+* [Review] [Review on: feat(ci): cache mypy results in the static analysis job](https://github.com/ethereum/execution-specs/pull/2546#pullrequestreview-3998025816) - 2026-03-24
+* [Pull Request] [fix(ci): remove stale client Docker images before benchmark genesis build](https://github.com/ethereum/execution-specs/pull/2544) - 2026-03-24
+* [Review] [Review on: fix(ci): remove stale client Docker images before benchmark genesis build](https://github.com/ethereum/execution-specs/pull/2544#pullrequestreview-3998188098) - 2026-03-24
+* [Review] [Review on: fix(test-logging): don't store empty logs](https://github.com/ethereum/execution-specs/pull/2547#pullrequestreview-3998222337) - 2026-03-24
+* [Pull Request] [fix(ci): separate Hive client build from dev mode startup; increase timeout](https://github.com/ethereum/execution-specs/pull/2545) - 2026-03-24
+* [Issue] [Build Benchmark Fixture Artifact fails: Besu fails to start in `extract_config`](https://github.com/ethereum/execution-specs/issues/2553) - 2026-03-24
+* [Commit] [refactor(tests),feat(test-forks): add `filter_combinations` pytest marker to avoid runtime skips (#2543)](https://github.com/ethereum/execution-specs/commit/0faeb8be39b66a205ebfc4f0ff82b7a4bb4fd7f5) - 2026-03-24
+* [Commit] [feat(ci): cache mypy results in the static analysis job (#2546)](https://github.com/ethereum/execution-specs/commit/25fce5b479f48bf5bf66a3cd773690532f08c6ac) - 2026-03-24
+* [Commit] [fix(ci): remove stale client Docker images before benchmark genesis build (#2544)](https://github.com/ethereum/execution-specs/commit/174e903c94ceba69d3f464fcce547f2917ec05fb) - 2026-03-24
+* [Commit] [fix(ci): separate Hive client build from dev mode startup (#2545)](https://github.com/ethereum/execution-specs/commit/cf5d85f3d75ba301fbac7b36d3375372ec9ca74b) - 2026-03-24
+* [Commit] [refactor(tests,test-fill): rename `json_loader` pytest marker to `eels_base_coverage` (#2524)](https://github.com/ethereum/execution-specs/commit/960c0bde1416ec8b764181535a4acc2c86e04aa0) - 2026-03-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 

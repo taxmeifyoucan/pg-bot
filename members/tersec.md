@@ -46,6 +46,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm unused code](https://github.com/status-im/nimbus-eth2/pull/8147) - 2026-03-22
 * [Review] [Review on: draft: branch for partial messages](https://github.com/status-im/nimbus-eth2/pull/8066#pullrequestreview-3988260227) - 2026-03-22
 * [Pull Request] [rm unused code](https://github.com/status-im/nimbus-eth2/pull/8149) - 2026-03-23
+* [Review] [Review on: Check parent block full](https://github.com/status-im/nimbus-eth2/pull/7664#pullrequestreview-4000371255) - 2026-03-24
+* [Pull Request] [rm unused code](https://github.com/status-im/nimbus-eth2/pull/8158) - 2026-03-24
 ## Q4 2025
 
 

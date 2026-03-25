@@ -20,3 +20,4 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [ci: add tiered sync CI strategy (PR gate + master validation)](https://github.com/NethermindEth/nethermind/pull/10932) - 2026-03-24
 * [Review] [Review on: Gnosis Osaka](https://github.com/NethermindEth/nethermind/pull/10906#pullrequestreview-3993523329) - 2026-03-23
 * [Review] [Review on: fix: BackgroundTaskScheduler disposal deadlock causing CI timeouts](https://github.com/NethermindEth/nethermind/pull/10927#pullrequestreview-3992391874) - 2026-03-23
+* [Pull Request] [[TEST] Sync PR Gate v2 - delete after test](https://github.com/NethermindEth/nethermind/pull/10942) - 2026-03-25

@@ -29,6 +29,8 @@ Team: Geth
 * [Review] [Review on: trie/bintrie: fix NodeIterator Empty node handling and expose tree accessors](https://github.com/ethereum/go-ethereum/pull/34056#pullrequestreview-3983133251) - 2026-03-20
 * [Review] [Review on: cmd/utils: guard SampleRatio flag with IsSet check](https://github.com/ethereum/go-ethereum/pull/34062#pullrequestreview-3993276401) - 2026-03-23
 * [Pull Request] [devnet 3 miscellaneous BAL fixes](https://github.com/ethereum/go-ethereum/pull/34077) - 2026-03-23
+* [Review] [Review on: internal/ethapi: apply overridden header in estimate gas](https://github.com/ethereum/go-ethereum/pull/34081#pullrequestreview-4002021834) - 2026-03-24
+* [Review] [Review on: cmd/abigen: (v2) added a package-level error for event signature mismatch](https://github.com/ethereum/go-ethereum/pull/34076#pullrequestreview-3999284048) - 2026-03-24
 ## Q4 2025
 
 

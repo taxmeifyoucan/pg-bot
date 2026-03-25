@@ -125,6 +125,11 @@ Team: Erigon
 * [Commit] [execmodule: extract PipelineExecutor, internalize ForkValidator (#19961)](https://github.com/erigontech/erigon/commit/3248639b5bb5ac923f86a89fa266895bf575fc6f) - 2026-03-21
 * [Review] [Review on: execution/vm: fix EIP-8037 code deposit gas on failure](https://github.com/erigontech/erigon/pull/20101#pullrequestreview-3991987719) - 2026-03-23
 * [Issue] [Parallel initial sync: commitment failure causes retry on dirty state](https://github.com/erigontech/erigon/issues/20106) - 2026-03-23
+* [Pull Request] [fix bal-devnet-3 testing anomalies](https://github.com/erigontech/erigon/pull/20143) - 2026-03-24
+* [Pull Request] [execution/stagedsync: fix parallel executor reorg with deferred commitment](https://github.com/erigontech/erigon/pull/20131) - 2026-03-24
+* [Review] [Review on: execution: fix EIP-8037 GasPool two-dimensional block gas accounting](https://github.com/erigontech/erigon/pull/20134#pullrequestreview-4001009557) - 2026-03-24
+* [Review] [Review on: execution/vm: fix EIP-8037 state gas spill restoration on frame failure](https://github.com/erigontech/erigon/pull/20108#pullrequestreview-3998477184) - 2026-03-24
+* [Commit] [execution/stagedsync: fix parallel executor reorg with deferred commitment (#20131)](https://github.com/erigontech/erigon/commit/883557592d4f7618f8edc7fa5b8222bcc723dfae) - 2026-03-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

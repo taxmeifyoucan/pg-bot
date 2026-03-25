@@ -54,6 +54,9 @@ Team: Grandine
 * [Commit] [Bump Rust version to 1.93.1](https://github.com/grandinetech/grandine/commit/e14e921958529b8ef88acd9472c5f504d809da74) - 2026-03-23
 * [Commit] [Upgrade crates and replace `bincode` with `wincode`](https://github.com/grandinetech/grandine/commit/c3fc2a9201f64965774e3469de0b3bd745f81054) - 2026-03-23
 * [Commit] [Extract prune_delayed_after_finalization and call it on slot finalization](https://github.com/grandinetech/grandine/commit/60c6d449d7ab9e1e2d910784066ef008a999decc) - 2026-03-23
+* [Pull Request] [Use `tokio::time::Instant` in ticks() to fix flaky clock tests](https://github.com/grandinetech/grandine/pull/642) - 2026-03-24
+* [Pull Request] [Link `cc` to `clang` in Cross.toml](https://github.com/grandinetech/grandine/pull/641) - 2026-03-24
+* [Commit] [Link `cc` to `clang` in Cross.toml](https://github.com/grandinetech/grandine/commit/c1b36dc3f5d05517fc042c01ea5d8bb9907ee147) - 2026-03-24
 ## Q4 2025
 
 

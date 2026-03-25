@@ -27,6 +27,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state: add DisableInterDomainDependencies for selective integrity bypass](https://github.com/erigontech/erigon/pull/20000#pullrequestreview-3974608435) - 2026-03-19
 * [Review] [Review on: commitment rebuild: `--yes` to bypass prompt for background run](https://github.com/erigontech/erigon/pull/20073#pullrequestreview-3992504002) - 2026-03-23
 * [Review] [Review on: fix ci test](https://github.com/erigontech/erigon/pull/20102#pullrequestreview-3992501272) - 2026-03-23
+* [Review] [Review on: cmd/utils: simplify subset loop to single pass in rm-state](https://github.com/erigontech/erigon/pull/20124#pullrequestreview-3998274317) - 2026-03-24
 ## Q4 2025
 
 

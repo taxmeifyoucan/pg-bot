@@ -21,6 +21,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Fix block root filenames and Gloas comptests](https://github.com/ethereum/consensus-specs/pull/5023#pullrequestreview-3988472431) - 2026-03-22
 * [Review] [Review on: Integrate make coverage into make test](https://github.com/ethereum/consensus-specs/pull/5015#pullrequestreview-3988395149) - 2026-03-22
 * [Review] [Review on: Add check that block is known in `on_payload_attestation_message`](https://github.com/ethereum/consensus-specs/pull/5022#pullrequestreview-3988225440) - 2026-03-22
+* [Review] [Review on: Add executable gossip validation functions for Altair](https://github.com/ethereum/consensus-specs/pull/5033#pullrequestreview-3996339579) - 2026-03-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add primary contributions of Jihoon Song](https://github.com/protocolguild/documentation/pull/467) - 2026-01-11
 * [Pull Request] []() - 2026-01-12

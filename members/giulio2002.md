@@ -56,6 +56,7 @@ Team: Erigon
 * [Review] [Review on: Caplin: prevent calling `glob` per file in `BuildMissingIndices`](https://github.com/erigontech/erigon/pull/20046#pullrequestreview-3985209841) - 2026-03-21
 * [Review] [Review on: db, execmoduletester: fix data race in EnableDomain vs openFolder](https://github.com/erigontech/erigon/pull/20068#pullrequestreview-3988722533) - 2026-03-22
 * [Review] [Review on: rpc: fix flaky TestReceiptRootValidationAfterReorg on Windows](https://github.com/erigontech/erigon/pull/20094#pullrequestreview-3992426570) - 2026-03-23
+* [Review] [Review on: caplin: fix BlockCollector crash-loop on gap in collected blocks](https://github.com/erigontech/erigon/pull/20130#pullrequestreview-3999969714) - 2026-03-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Engine API Communication Channels](https://github.com/ethereum/EIPs/pull/11360) - 2026-02-28
 

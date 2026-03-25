@@ -44,6 +44,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: Schedule Osaka for Gnosis](https://github.com/erigontech/erigon/pull/20089#pullrequestreview-3990603693) - 2026-03-23
 * [Pull Request] [[r3.3] chainspec, cl/clparams: schedule Gnosis Fusaka + Osaka](https://github.com/erigontech/erigon/pull/20090) - 2026-03-23
 * [Commit] [cl/clparams: set Gnosis Fulu fork epoch to 1714688 (#20081)](https://github.com/erigontech/erigon/commit/1ff74d39ce13a1058abc13d4eeddc24587e118cc) - 2026-03-23
+* [Review] [Review on: [r3.4] caplin: fix BlockCollector crash-loop on gap in collected blocks](https://github.com/erigontech/erigon/pull/20125#pullrequestreview-3998268850) - 2026-03-24
+* [Pull Request] [execution/vm: fix gas tracing underflow with EIP-8037 state gas](https://github.com/erigontech/erigon/pull/20128) - 2026-03-24
 ## Q3 2025
 
 

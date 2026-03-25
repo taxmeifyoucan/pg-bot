@@ -51,6 +51,15 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [refactor: simplify compact impls for scale types (#23185)](https://github.com/paradigmxyz/reth/commit/7b4c07338e098a3148bde43794f559df8ca1c314) - 2026-03-23
 * [Commit] [chore: unify InMemorySize (#23184)](https://github.com/paradigmxyz/reth/commit/bbed2e9ebfb51c7128c0c91826572c4e7a86733e) - 2026-03-23
 * [Commit] [fix: always reinsert reorged blocks (#23175)](https://github.com/paradigmxyz/reth/commit/cc0c29e44934936400124e745eb09d106a72841c) - 2026-03-23
+
+* [Pull Request] [refactor: remove `PayloadBuilderAttributes`](https://github.com/paradigmxyz/reth/pull/23202) - 2026-03-24
+* [Review] [Review on: refactor: remove `PayloadBuilderAttributes`](https://github.com/paradigmxyz/reth/pull/23202#pullrequestreview-4000784267) - 2026-03-24
+* [Review] [Review on: chore: remove unused Extended type and op feature from primitives-traits](https://github.com/paradigmxyz/reth/pull/23198#pullrequestreview-3999465183) - 2026-03-24
+* [Pull Request] [refactor: remove `StateProviderBuilder`](https://github.com/paradigmxyz/reth/pull/23194) - 2026-03-24
+* [Commit] [refactor: use `reth-core` deps (#23186)](https://github.com/paradigmxyz/reth/commit/677d07041e679aca8345cef203545618fc850d12) - 2026-03-24
+* [Commit] [refactor: remove `PayloadBuilderAttributes` (#23202)](https://github.com/paradigmxyz/reth/commit/cf83b198d3a7a672962be6459b3082becd6e03a0) - 2026-03-24
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Review] [Review on: feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521#pullrequestreview-3998404944) - 2026-03-24
 ## Q4 2025
 
 

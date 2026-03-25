@@ -36,6 +36,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core/history: refactor pruning configuration](https://github.com/ethereum/go-ethereum/pull/34036#pullrequestreview-3967063268) - 2026-03-18
 * [Commit] [core/history: refactor pruning configuration (#34036)](https://github.com/ethereum/go-ethereum/commit/6ae3f9fa562f28e805e6a5c20f0e42c1efc7d729) - 2026-03-18
 * [Pull Request] [core/rawdb: parallel pruning of txindex](https://github.com/ethereum/go-ethereum/pull/34054) - 2026-03-19
+* [Review] [Review on: core/rawdb: parallel pruning of txindex](https://github.com/ethereum/go-ethereum/pull/34054#pullrequestreview-4002439665) - 2026-03-24
+* [Review] [Review on: cmd/utils: optimize history import with batched insertion](https://github.com/ethereum/go-ethereum/pull/33894#pullrequestreview-4002177483) - 2026-03-24
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [eth_simulateV1: fix revert err code](https://github.com/ethereum/execution-apis/pull/748) - 2026-02-05
 * [Pull Request] [transaction: add blockTimestamp](https://github.com/ethereum/execution-apis/pull/749) - 2026-02-06

@@ -61,6 +61,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: chore: remove no-op background transition merge builder toggle](https://github.com/bluealloy/revm/pull/3510#pullrequestreview-3990138259) - 2026-03-23
 * [Review] [Review on: fix(op-revm): use typed error for missing enveloped tx in all paths](https://github.com/bluealloy/revm/pull/3509#pullrequestreview-3990133083) - 2026-03-23
 * [Review] [Review on: feat: add CallInput::as_bytes](https://github.com/bluealloy/revm/pull/3515#pullrequestreview-3990098967) - 2026-03-23
+* [Pull Request] [feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521) - 2026-03-24
+* [Review] [Review on: feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521#pullrequestreview-3999334089) - 2026-03-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify transaction transfer to different account](https://github.com/ethereum/EIPs/pull/11188) - 2026-01-27
 * [Pull Request] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355) - 2026-03-10

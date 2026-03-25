@@ -29,3 +29,4 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [Fix logging level bug for non text formats](https://github.com/OffchainLabs/prysm/pull/16567) - 2026-03-21
 * [Commit] [Fix logging level bug for non text formats (#16567)](https://github.com/OffchainLabs/prysm/commit/9ea9e1f07cca61ae5854a32a3da76ffed484db77) - 2026-03-22
 * [Review] [Review on: Add `--disable-log-color` flag](https://github.com/OffchainLabs/prysm/pull/16574#pullrequestreview-3993028192) - 2026-03-23
+* [Review] [Review on: Add `--disable-log-color` flag](https://github.com/OffchainLabs/prysm/pull/16574#pullrequestreview-3998398605) - 2026-03-24

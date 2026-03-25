@@ -77,6 +77,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [MDBX_MAP_FULL during mainnet minimal sync ](https://github.com/erigontech/erigon/issues/20080) - 2026-03-23
 * [Issue] [stage_exec tests in ci](https://github.com/erigontech/erigon/issues/20095) - 2026-03-23
 * [Commit] [integration: propagate stage errors to non-zero exit code (#20093)](https://github.com/erigontech/erigon/commit/b744bedbab1790421c3ac31b0787a1fc17002ec8) - 2026-03-23
+* [Review] [Review on: stagedsync, db: fix TxLookup prune crash with membatch cursor during FCU](https://github.com/erigontech/erigon/pull/20122#pullrequestreview-3998942869) - 2026-03-24
+* [Pull Request] [db/state: fix commitment KV plain keys by adding base-file fallback](https://github.com/erigontech/erigon/pull/20127) - 2026-03-24
+* [Pull Request] [cmd/utils: simplify subset loop to single pass in rm-state](https://github.com/erigontech/erigon/pull/20124) - 2026-03-24
+* [Review] [Review on: [3.4] rpc-test: pick simulateV1 fixes from main](https://github.com/erigontech/erigon/pull/20117#pullrequestreview-3997644093) - 2026-03-24
+* [Commit] [Add QA stage_exec smoke test workflow (#20098)](https://github.com/erigontech/erigon/commit/08879238ddf3548b4b759bb8b012f77ef3315a5a) - 2026-03-24
 ## Q4 2025
 
 

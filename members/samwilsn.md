@@ -20,6 +20,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/pull/11365#pullrequestreview-3923879266) - 2026-03-10
 * [Review] [Review on: Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/pull/11365#pullrequestreview-3923888449) - 2026-03-10
 * [Review] [Review on: Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355#pullrequestreview-3923630290) - 2026-03-10
+* [Review] [Review on: Update EIP-7937: fix two minor typos](https://github.com/ethereum/EIPs/pull/10141#pullrequestreview-4000768469) - 2026-03-24
+* [Review] [Review on: Update EIP-8: Fix typo incompatibel -> incompatible](https://github.com/ethereum/EIPs/pull/9995#pullrequestreview-4000764088) - 2026-03-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Carry pytest markers from Python all the way through to the filled JSON tests](https://github.com/ethereum/execution-specs/issues/2089) - 2026-01-28
 

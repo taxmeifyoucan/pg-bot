@@ -14,6 +14,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [ethstats: report newPayload processing time to stats server](https://github.com/ethereum/go-ethereum/pull/33395) - 2026-01-05
 
+* [Pull Request] [cmd/utils: optimize history import with batched insertion](https://github.com/ethereum/go-ethereum/pull/33894) - 2026-03-24
+* [Commit] [cmd/utils: optimize history import with batched insertion (#33894)](https://github.com/ethereum/go-ethereum/commit/8f9061f937e8fe0cbd45f7416073fb03bd321667) - 2026-03-24
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [fix(state-expiry): sort top 100 contracts by rank via API query](https://github.com/ethpandaops/lab/pull/371) - 2026-01-06
 * [Pull Request] [fix(contracts): normalize address to lowercase for API requests and relocate label-colors utility](https://github.com/ethpandaops/lab/pull/373) - 2026-01-08

@@ -44,6 +44,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Deprecate `--min-block-occupancy-ratio` for removal and make it noop (#10036)](https://github.com/besu-eth/besu/commit/56674ac08bd663e92ff8aea9afb62e053a51106e) - 2026-03-17
 * [Commit] [Plugin API: pass pending block header when creating selectors (#10034)](https://github.com/besu-eth/besu/commit/1ce913ac45a36ab65017bfb61c0842355f201a56) - 2026-03-17
 * [Review] [Review on: eth/70 Fix paginated receipts response size estimation](https://github.com/besu-eth/besu/pull/10089#pullrequestreview-3993800067) - 2026-03-23
+* [Review] [Review on: fix: use ConcurrentHashMap for plugin service registry thread safety](https://github.com/besu-eth/besu/pull/10069#pullrequestreview-3997676023) - 2026-03-24
 ## Q4 2025
 
 

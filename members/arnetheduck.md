@@ -45,6 +45,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [no need to strip genesis_alloc (#4054)](https://github.com/status-im/nimbus-eth1/commit/fd53b008eca6f0480f64fabc801c486bc5cf29db) - 2026-03-20
 * [Commit] [db: more post-refactoring cleanups (#4052)](https://github.com/status-im/nimbus-eth1/commit/71322cf3de67294392f00ce0520ee1e7796e75c1) - 2026-03-20
 * [Commit] [server_api: use core_apps directly instead of LedgerRef (#4049)](https://github.com/status-im/nimbus-eth1/commit/b20868ebd75e3e8475fcb94d5513b4b033a4c07b) - 2026-03-20
+* [Commit] [eth2: bump (#4055)](https://github.com/status-im/nimbus-eth1/commit/becb5a78efe225d4083419bdbb806aeb562c6846) - 2026-03-25
 ## Q4 2025
 
 

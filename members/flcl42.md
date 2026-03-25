@@ -57,6 +57,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Rollback eth/70 + lantern upd](https://github.com/NethermindEth/nethermind/pull/10918) - 2026-03-23
 * [Pull Request] [Handle IP addresses better in discv5](https://github.com/NethermindEth/nethermind/pull/10926) - 2026-03-23
 * [Commit] [Dispose on exception (#10921)](https://github.com/NethermindEth/nethermind/commit/4228cb331f43a4a39384923aab1305b9181c595a) - 2026-03-23
+
+* [Review] [Review on: test: add engine blockchain pyspec fixtures and fix BAL gas budget tracking](https://github.com/NethermindEth/nethermind/pull/10939#pullrequestreview-4000404499) - 2026-03-24
+* [Review] [Review on: Connection reset metric](https://github.com/NethermindEth/nethermind/pull/10935#pullrequestreview-3997699285) - 2026-03-24
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [Refactor BAL exception patterns in nethermind.py](https://github.com/ethereum/execution-specs/pull/2550) - 2026-03-24
 ## Q4 2025
 
 

@@ -31,6 +31,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [add eth71 to the sync scheduler](https://github.com/status-im/nimbus-eth1/pull/4042) - 2026-03-17
 * [Commit] [add eth71 to the sync scheduler (#4042)](https://github.com/status-im/nimbus-eth1/commit/38b780b6c6a34f3db8390d5690f7d2558243763e) - 2026-03-17
 * [Commit] [ci: skip snap sync tests & add geth to the sync tests (#4043)](https://github.com/status-im/nimbus-eth1/commit/5aba125226e972ddccf3010e31d9cec35ef451f5) - 2026-03-18
+* [Issue] [crash while closing node after `import`](https://github.com/status-im/nimbus-eth1/issues/4061) - 2026-03-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-16
 * [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-19

@@ -31,6 +31,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Request missing payload envelopes for index-1 attestation](https://github.com/ethereum/consensus-specs/pull/4939) - 2026-02-18
 
+* [Commit] [Request missing payload envelopes for index-1 attestation (#4939)](https://github.com/ethereum/consensus-specs/commit/6b3aedc5367981721a4620feaf4a2fd3438b1f54) - 2026-03-24
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [fix: guard against fork boundary `IsParentBlockFull` false positive](https://github.com/OffchainLabs/prysm/pull/16510) - 2026-03-10
 * [Pull Request] [forkchoice: fix head change on every attestation tick pre gloas](https://github.com/OffchainLabs/prysm/pull/16508) - 2026-03-10
@@ -89,6 +90,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Fix flaky TestVerifyConnectivity by using local TCP listener](https://github.com/OffchainLabs/prysm/pull/16575) - 2026-03-23
 * [Commit] [ Fix payload attributes to use expected withdrawals from state when empty (#16566)](https://github.com/OffchainLabs/prysm/commit/7d797ee4f96c2aa1176fb359f1b941a63a41efc4) - 2026-03-23
 * [Commit] [Fix flaky TestVerifyConnectivity by using local TCP listener (#16575)](https://github.com/OffchainLabs/prysm/commit/45e38d430f13b9316b7da0d88c189b021ab73c03) - 2026-03-23
+* [Review] [Review on: Gloas Init sync](https://github.com/OffchainLabs/prysm/pull/16528#pullrequestreview-4000832878) - 2026-03-24
+* [Pull Request] [Use highest bid cache to select P2P bid over self-build in proposer](https://github.com/OffchainLabs/prysm/pull/16577) - 2026-03-24
+* [Review] [Review on: Use highest bid cache to select P2P bid over self-build in proposer](https://github.com/OffchainLabs/prysm/pull/16577#pullrequestreview-4000131128) - 2026-03-24
+* [Commit] [Use highest bid cache to select P2P bid over self-build in proposer (#16577)](https://github.com/OffchainLabs/prysm/commit/445487b4a73031463eebc8f8812ec8f8d31fc164) - 2026-03-24
 ## Q4 2025
 
 

@@ -31,6 +31,8 @@ Team: Erigon
 * [Commit] [qa-tests: add test results to the daily repo status (#19869)](https://github.com/erigontech/erigon/commit/4fc1a16e5a0122a7bc6ea0a9ef5331ffefa3b0b7) - 2026-03-20
 * [Commit] [qa-tests: update workflow list in the test report workflow (#20030)](https://github.com/erigontech/erigon/commit/c4469efef059a069a76cb75aaeb7a76cb6ead2f6) - 2026-03-20
 * [Review] [Review on: ci: trigger CI gate for performance branches](https://github.com/erigontech/erigon/pull/20110#pullrequestreview-3994155335) - 2026-03-23
+* [Review] [Review on: Add QA stage_exec smoke test workflow](https://github.com/erigontech/erigon/pull/20098#pullrequestreview-3998315269) - 2026-03-24
+* [Pull Request] [qa-tests: restore the execution of RPC tests on the main and release branches](https://github.com/erigontech/erigon/pull/20129) - 2026-03-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529) - 2026-03-13
 * [Commit] [more verbose error messagge (#529)](https://github.com/erigontech/rpc-tests/commit/34b1c609e2d04cd26f8070821e3ca12bb6d673d4) - 2026-03-14

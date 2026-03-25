@@ -54,6 +54,8 @@ Team: Reth
 * [Pull Request] [fix(cli): `--storage.v2` without explicit true/false](https://github.com/paradigmxyz/reth/pull/23173) - 2026-03-23
 * [Review] [Review on: chore(ci): ping AI agent on nightly Docker build failure](https://github.com/paradigmxyz/reth/pull/23168#pullrequestreview-3991006631) - 2026-03-23
 * [Commit] [fix(cli): `--storage.v2` without explicit true/false (#23173)](https://github.com/paradigmxyz/reth/commit/b8aca9586a3f81ded9b7846151956e678abf34be) - 2026-03-23
+* [Review] [Review on: chore(meta): rename CLAUDE.md to AGENTS.md, symlink CLAUDE.md to it](https://github.com/paradigmxyz/reth/pull/23203#pullrequestreview-4001188710) - 2026-03-24
+* [Review] [Review on: bench(ci): reuse cached big-block fixtures and select snapshot from manifest](https://github.com/paradigmxyz/reth/pull/23193#pullrequestreview-4000703743) - 2026-03-24
 ## Q4 2025
 
 

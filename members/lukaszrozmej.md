@@ -146,6 +146,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Rollback eth/70 + lantern upd](https://github.com/NethermindEth/nethermind/pull/10918#pullrequestreview-3991089759) - 2026-03-23
 * [Review] [Review on: Fix incorrect NodeType in TrieNodeTests](https://github.com/NethermindEth/nethermind/pull/10917#pullrequestreview-3991160353) - 2026-03-23
 * [Review] [Review on: fix: fix race condition in FullPruningDb read methods](https://github.com/NethermindEth/nethermind/pull/10920#pullrequestreview-3991140597) - 2026-03-23
+* [Review] [Review on: refactor: Move merkleization metrics to IWorldStateScopeProvider](https://github.com/NethermindEth/nethermind/pull/10925#pullrequestreview-3997022943) - 2026-03-24
+* [Review] [Review on: test: add engine blockchain pyspec fixtures and fix BAL gas budget tracking](https://github.com/NethermindEth/nethermind/pull/10939#pullrequestreview-4000297895) - 2026-03-24
+* [Review] [Review on: fix: remove duplicate NewHeadBlock unsubscription in PoSSwitcher](https://github.com/NethermindEth/nethermind/pull/10938#pullrequestreview-3999834482) - 2026-03-24
+* [Review] [Review on: feat: upstream changes for ArbOS 60 multi-gas constraints](https://github.com/NethermindEth/nethermind/pull/10765#pullrequestreview-3998927018) - 2026-03-24
+* [Review] [Review on: Connection reset metric](https://github.com/NethermindEth/nethermind/pull/10935#pullrequestreview-3997286473) - 2026-03-24
 ## Q4 2025
 
 

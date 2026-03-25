@@ -93,6 +93,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Rollback eth/70 + lantern upd](https://github.com/NethermindEth/nethermind/pull/10918#pullrequestreview-3991435512) - 2026-03-23
 * [Commit] [test: update pyspec fixtures to v5.4.0/v5.5.1 and adapt to forked release layout (#10931)](https://github.com/NethermindEth/nethermind/commit/d9e819ea434f0a91ccd4aa627125f0ae3b1d31a3) - 2026-03-23
 * [Commit] [fix: BackgroundTaskScheduler disposal deadlock causing CI timeouts (#10927)](https://github.com/NethermindEth/nethermind/commit/82ab1a7e5d75a37f60b60f5523a567485b365ab2) - 2026-03-23
+* [Pull Request] [test: add engine blockchain pyspec fixtures and fix BAL gas budget tracking](https://github.com/NethermindEth/nethermind/pull/10939) - 2026-03-24
+* [Review] [Review on: test: add engine blockchain pyspec fixtures and fix BAL gas budget tracking](https://github.com/NethermindEth/nethermind/pull/10939#pullrequestreview-4000585946) - 2026-03-24
 ## Q4 2025
 
 

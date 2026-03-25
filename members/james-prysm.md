@@ -69,6 +69,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Fix flaky TestVerifyConnectivity by using local TCP listener](https://github.com/OffchainLabs/prysm/pull/16575#pullrequestreview-3993137043) - 2026-03-23
 * [Commit] [gloas validator client proposer preferences (#16548)](https://github.com/OffchainLabs/prysm/commit/101dd5571009e12f64f7012b62f2408199b17c7d) - 2026-03-23
 * [Commit] [adding proposer duties to duties v2 (#16564)](https://github.com/OffchainLabs/prysm/commit/0a643b177d9f11557925d1e6cd3fefb782b30fa1) - 2026-03-23
+* [Review] [Review on: Use highest bid cache to select P2P bid over self-build in proposer](https://github.com/OffchainLabs/prysm/pull/16577#pullrequestreview-3999573776) - 2026-03-24
+* [Pull Request] [adding fallback to origin block root on previous dependent root is empty](https://github.com/OffchainLabs/prysm/pull/16576) - 2026-03-24
+* [Review] [Review on: Get block v4](https://github.com/OffchainLabs/prysm/pull/16488#pullrequestreview-4002474311) - 2026-03-24
+* [Pull Request] [adding proposer preferences pool api and event](https://github.com/OffchainLabs/prysm/pull/16583) - 2026-03-24
+* [Commit] [adding fallback to origin block root on previous dependent root is empty (#16576)](https://github.com/OffchainLabs/prysm/commit/86edeef90f8c096151189cdb34bc950700b14b71) - 2026-03-24
 ## Q4 2025
 
 

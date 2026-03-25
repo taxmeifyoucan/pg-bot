@@ -51,6 +51,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [10259 3 proposer preferences (#10483)](https://github.com/Consensys/teku/commit/8f59739d3f708155ecc160889b3496a04a7f0479) - 2026-03-20
 * [Review] [Review on: replay execution payload when regenerating states](https://github.com/Consensys/teku/pull/10511#pullrequestreview-3991509693) - 2026-03-23
 * [Review] [Review on: 10259 4 proposer preferences](https://github.com/Consensys/teku/pull/10517#pullrequestreview-3994049500) - 2026-03-23
+* [Pull Request] [remove cache contention](https://github.com/Consensys/teku/pull/10527) - 2026-03-24
+* [Review] [Review on: replay execution payload when regenerating states](https://github.com/Consensys/teku/pull/10511#pullrequestreview-3997174806) - 2026-03-24
+* [Commit] [replay execution payload when regenerating states (#10511)](https://github.com/Consensys/teku/commit/bfba66c4762f3b88a68ecd355a06115cf0658863) - 2026-03-24
 ## Q4 2025
 
 

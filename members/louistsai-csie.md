@@ -46,3 +46,4 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [feat(test-benchmark): verify transaction status (#2527)](https://github.com/ethereum/execution-specs/commit/eab8cfb833a2b2b2c82580af83da9a240401d28c) - 2026-03-20
 * [Review] [Review on: refactor(test-benchmark): collect benchmark tests using testpath not marker](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3989062296) - 2026-03-23
 * [Review] [Review on: fix(test-benchmarks): use factory which creates non-destructible contracts](https://github.com/ethereum/execution-specs/pull/2539#pullrequestreview-3989038232) - 2026-03-23
+* [Commit] [refactor(test-benchmark): collect benchmark tests using testpath not marker (#2496)](https://github.com/ethereum/execution-specs/commit/125ed98697ac68fde05b4bbcc5281ace09df2b62) - 2026-03-24

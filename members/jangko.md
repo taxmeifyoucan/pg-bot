@@ -29,6 +29,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Bump submodules](https://github.com/status-im/nimbus-eth1/pull/4057) - 2026-03-23
 * [Commit] [Bump submodules (#4057)](https://github.com/status-im/nimbus-eth1/commit/662afdab8d012c4a847106265d3619fc2c009f81) - 2026-03-23
 * [Commit] [Upgrade github actions/checkout to v6 (#4056)](https://github.com/status-im/nimbus-eth1/commit/3b7b05892d88053472611625371570c57c515f78) - 2026-03-23
+* [Pull Request] [Upgrade github actions/cache to v5](https://github.com/status-im/nimbus-eth1/pull/4063) - 2026-03-25
+* [Pull Request] [Add nasm to windows docker base image](https://github.com/status-im/nimbus-eth1/pull/4060) - 2026-03-24
+* [Commit] [Add nasm to windows docker base image (#4060)](https://github.com/status-im/nimbus-eth1/commit/e694894000e2200b9fe7246f7c309698f3b0fba9) - 2026-03-24
 ## Q4 2025
 
 
