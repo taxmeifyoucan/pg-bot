@@ -20,6 +20,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Issue] [All Core Devs - Testing (ACDT) #72, March 2, 2026](https://github.com/ethereum/pm/issues/1948) - 2026-02-24
 * [Issue] [All Core Devs - Testing (ACDT) #74, March 16, 2026](https://github.com/ethereum/pm/issues/1966) - 2026-03-10
+* [Issue] [All Core Devs - Testing (ACDT) #76, March 30, 2026](https://github.com/ethereum/pm/issues/1988) - 2026-03-25
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [Update erigon.yaml](https://github.com/ethpandaops/template-devnets/pull/148) - 2026-01-28
 

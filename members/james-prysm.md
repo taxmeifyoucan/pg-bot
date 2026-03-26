@@ -74,6 +74,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Get block v4](https://github.com/OffchainLabs/prysm/pull/16488#pullrequestreview-4002474311) - 2026-03-24
 * [Pull Request] [adding proposer preferences pool api and event](https://github.com/OffchainLabs/prysm/pull/16583) - 2026-03-24
 * [Commit] [adding fallback to origin block root on previous dependent root is empty (#16576)](https://github.com/OffchainLabs/prysm/commit/86edeef90f8c096151189cdb34bc950700b14b71) - 2026-03-24
+* [Pull Request] [Pre fork proposer preferences](https://github.com/OffchainLabs/prysm/pull/16588) - 2026-03-25
 ## Q4 2025
 
 

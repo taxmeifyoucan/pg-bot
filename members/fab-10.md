@@ -45,6 +45,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Plugin API: pass pending block header when creating selectors (#10034)](https://github.com/besu-eth/besu/commit/1ce913ac45a36ab65017bfb61c0842355f201a56) - 2026-03-17
 * [Review] [Review on: eth/70 Fix paginated receipts response size estimation](https://github.com/besu-eth/besu/pull/10089#pullrequestreview-3993800067) - 2026-03-23
 * [Review] [Review on: fix: use ConcurrentHashMap for plugin service registry thread safety](https://github.com/besu-eth/besu/pull/10069#pullrequestreview-3997676023) - 2026-03-24
+* [Review] [Review on: Reduce tx p2p broadcast bandwidth and memory used](https://github.com/besu-eth/besu/pull/9937#pullrequestreview-4006949276) - 2026-03-25
 ## Q4 2025
 
 

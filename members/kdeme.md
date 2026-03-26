@@ -28,6 +28,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [eest tests: Remove old fusaka devnet tests](https://github.com/status-im/nimbus-eth1/pull/4059) - 2026-03-24
 * [Review] [Review on: Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4053#pullrequestreview-3998036516) - 2026-03-24
 * [Commit] [eest tests: Remove old fusaka devnet tests (#4059)](https://github.com/status-im/nimbus-eth1/commit/9ec164f08d717413c29f262d0ddc69e06b3f378e) - 2026-03-24
+* [Pull Request] [Remove unneeded extra builds from eest_*_test targets](https://github.com/status-im/nimbus-eth1/pull/4070) - 2026-03-25
+* [Pull Request] [Enable EEST tests stateless + skip failures](https://github.com/status-im/nimbus-eth1/pull/4065) - 2026-03-25
+* [Pull Request] [Update to nph v0.7.0 for portal and verified_proxy formatting](https://github.com/status-im/nimbus-eth1/pull/4066) - 2026-03-25
+* [Commit] [Enable EEST tests stateless + skip failures (#4065)](https://github.com/status-im/nimbus-eth1/commit/603aa525f32db1d61883490f02fb27d4c3096bfd) - 2026-03-25
+* [Commit] [Update to nph v0.7.0 for portal and verified_proxy formatting (#4066)](https://github.com/status-im/nimbus-eth1/commit/db694d2d1acc45df99ef295ac656d5417b5a6198) - 2026-03-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3 and related changes](https://github.com/status-im/nimbus-eth2/pull/7876) - 2026-01-23
 * [Pull Request] []() - 2026-01-27

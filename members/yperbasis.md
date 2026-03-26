@@ -177,6 +177,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [caplin: fix BlockCollector crash-loop on gap in collected blocks (#20130)](https://github.com/erigontech/erigon/commit/26e6f5bdb49ae6f341597bed96377aaa4cc1ee3f) - 2026-03-24
 * [Commit] [stagedsync, db: fix TxLookup prune crash with membatch cursor during FCU (#20122)](https://github.com/erigontech/erigon/commit/cabda2a61f6783250d1cd192fa5e299097fabdf5) - 2026-03-24
 * [Commit] [execution/vm: fix EIP-8037 state gas spill restoration on frame failure (#20108)](https://github.com/erigontech/erigon/commit/37d30afab349bccb6332fd22122c06b22e498a0b) - 2026-03-24
+* [Review] [Review on: caplin: unified Engine API client for standalone mode](https://github.com/erigontech/erigon/pull/20035#pullrequestreview-4004959252) - 2026-03-25
+* [Review] [Review on: fix bal-devnet-3 testing anomalies](https://github.com/erigontech/erigon/pull/20143#pullrequestreview-4004925564) - 2026-03-25
+* [Pull Request] [execution/protocol: rename StateTransition → TxnExecutor](https://github.com/erigontech/erigon/pull/20158) - 2026-03-25
+* [Pull Request] [cl: add per-peer rate limiting on P2P ReqResp handlers](https://github.com/erigontech/erigon/pull/20146) - 2026-03-25
+* [Pull Request] [ci: fix hashFiles in composite action output expression](https://github.com/erigontech/erigon/pull/20153) - 2026-03-25
+* [Review] [Review on: ci: add cleanup-space to race tests workflow to fix disk-full failures](https://github.com/erigontech/erigon/pull/20156#pullrequestreview-4007788601) - 2026-03-25
+* [Review] [Review on: [r3.3] ci: improve release workflow robustness and inline debian pkg build](https://github.com/erigontech/erigon/pull/20150#pullrequestreview-4006913861) - 2026-03-25
+* [Pull Request] [[r33] version 3.3.10](https://github.com/erigontech/erigon/pull/20145) - 2026-03-25
+* [Review] [Review on: engineapi: guard nil requests in Electra getPayload](https://github.com/erigontech/erigon/pull/20133#pullrequestreview-4004897755) - 2026-03-25
+* [Pull Request] [[r33] version 3.3.10](https://github.com/erigontech/erigon/pull/20144) - 2026-03-25
+* [Issue] [Follow-up for standalone Caplin](https://github.com/erigontech/erigon/issues/20151) - 2026-03-25
+* [Commit] [ci: fix hashFiles in composite action output expression (#20153)](https://github.com/erigontech/erigon/commit/be8ebb71484eef17bdd089addec19128bb75e2a2) - 2026-03-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

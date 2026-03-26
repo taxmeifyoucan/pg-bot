@@ -55,6 +55,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: docs: add high-res favicon, apple-touch-icon, and og:image metadata](https://github.com/ChainSafe/lodestar/pull/9095#pullrequestreview-3994129472) - 2026-03-23
 * [Review] [Review on: refactor: avoid falsy zero check in indexed attestation bounds validation](https://github.com/ChainSafe/lodestar/pull/9089#pullrequestreview-3993868837) - 2026-03-23
 * [Review] [Review on: chore: clean up UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/9069#pullrequestreview-3991997936) - 2026-03-23
+* [Issue] [Investigate adding SerializedCache in ByRange](https://github.com/ChainSafe/lodestar/issues/9110) - 2026-03-25
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: merge blst-z](https://github.com/ChainSafe/lodestar-z/pull/237) - 2026-03-12
 * [Review] [Review on: feat(fuzz): add AFL++ fuzz testing for SSZ deserialization](https://github.com/ChainSafe/lodestar-z/pull/228#pullrequestreview-3933528390) - 2026-03-12
@@ -74,6 +75,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(ci): add missing test steps for constants, fork_types, era](https://github.com/ChainSafe/lodestar-z/pull/250#pullrequestreview-3976990708) - 2026-03-19
 * [Review] [Review on: fix: replace custom intSqrt with std.math.sqrt](https://github.com/ChainSafe/lodestar-z/pull/263#pullrequestreview-3993850196) - 2026-03-23
 * [Review] [Review on: feat(bls): adding fuzz test for bls](https://github.com/ChainSafe/lodestar-z/pull/249#pullrequestreview-4000465899) - 2026-03-24
+* [Review] [Review on: test(stf): add unit tests for isValidBlsToExecutionChange](https://github.com/ChainSafe/lodestar-z/pull/271#pullrequestreview-4010153021) - 2026-03-25
+* [Review] [Review on: test(stf): add unit tests for processVoluntaryExit](https://github.com/ChainSafe/lodestar-z/pull/270#pullrequestreview-4010142363) - 2026-03-25
+* [Review] [Review on: test(era): add unit tests for e2s and era modules](https://github.com/ChainSafe/lodestar-z/pull/264#pullrequestreview-4010118236) - 2026-03-25
+* [Review] [Review on: test(utils): add unit tests for validator utility functions](https://github.com/ChainSafe/lodestar-z/pull/260#pullrequestreview-4010103067) - 2026-03-25
+* [Review] [Review on: test(cache): add unit tests for effective_balance_increments and pubkey_cache](https://github.com/ChainSafe/lodestar-z/pull/254#pullrequestreview-4007212285) - 2026-03-25
+* [Review] [Review on: feat: implement getEffectiveBalanceIncrementsZeroInactive](https://github.com/ChainSafe/lodestar-z/pull/240#pullrequestreview-4007166005) - 2026-03-25
+* [Review] [Review on: test(utils): add unit tests for verifyMerkleBranch](https://github.com/ChainSafe/lodestar-z/pull/258#pullrequestreview-4007246076) - 2026-03-25
+* [Review] [Review on: refactor: simplify indexed attestation bounds check](https://github.com/ChainSafe/lodestar-z/pull/265#pullrequestreview-4007233763) - 2026-03-25
+* [Review] [Review on: fix: replace custom intSqrt with std.math.sqrt](https://github.com/ChainSafe/lodestar-z/pull/263#pullrequestreview-4007224344) - 2026-03-25
+* [Review] [Review on: chore: remove stale TODOs in block processing](https://github.com/ChainSafe/lodestar-z/pull/268#pullrequestreview-4007216811) - 2026-03-25
+* [Review] [Review on: test(cache): add unit tests for SlashingsCache](https://github.com/ChainSafe/lodestar-z/pull/257#pullrequestreview-4007207369) - 2026-03-25
+* [Review] [Review on: chore: remove stale TODO in merkleize test](https://github.com/ChainSafe/lodestar-z/pull/256#pullrequestreview-4007200352) - 2026-03-25
 ## Q4 2025
 
 

@@ -75,3 +75,5 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Review] [Review on: dns: TTL-aware caching, negative cache, cross-platform nameserver config, jitter](https://github.com/erigontech/erigon/pull/20105#pullrequestreview-3998687882) - 2026-03-24
 * [Review] [Review on: rpc, node, diagnostics, cmd: replace gorilla/websocket with coder/websocket](https://github.com/erigontech/erigon/pull/20097#pullrequestreview-3998770237) - 2026-03-24
 * [Review] [Review on: qa-tests: restore the execution of RPC tests on the main and release branches](https://github.com/erigontech/erigon/pull/20129#pullrequestreview-3998718256) - 2026-03-24
+* [Review] [Review on: qa-tests: restore the execution of RPC tests on the main and release branches](https://github.com/erigontech/erigon/pull/20129#pullrequestreview-4005810371) - 2026-03-25
+* [Review] [Review on: p2p: avoid dialing peers that already have a pending inbound connection](https://github.com/erigontech/erigon/pull/20024#pullrequestreview-4005067587) - 2026-03-25

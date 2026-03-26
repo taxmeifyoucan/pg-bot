@@ -82,6 +82,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cmd/utils: simplify subset loop to single pass in rm-state](https://github.com/erigontech/erigon/pull/20124) - 2026-03-24
 * [Review] [Review on: [3.4] rpc-test: pick simulateV1 fixes from main](https://github.com/erigontech/erigon/pull/20117#pullrequestreview-3997644093) - 2026-03-24
 * [Commit] [Add QA stage_exec smoke test workflow (#20098)](https://github.com/erigontech/erigon/commit/08879238ddf3548b4b759bb8b012f77ef3315a5a) - 2026-03-24
+* [Pull Request] [commitment rebuild: add --no-history flag](https://github.com/erigontech/erigon/pull/20147) - 2026-03-25
+* [Review] [Review on: commitment rebuild: add --no-history flag](https://github.com/erigontech/erigon/pull/20147#pullrequestreview-4007687449) - 2026-03-25
+* [Commit] [commitment rebuild: add --no-history flag (#20147)](https://github.com/erigontech/erigon/commit/6b7412525eac7b1a83261ddc5b84287cd195b654) - 2026-03-25
+* [Commit] [cmd/utils: simplify subset loop to single pass in rm-state (#20124)](https://github.com/erigontech/erigon/commit/4536c804d715a5ab3bc54729bbe337ff5d5aebf7) - 2026-03-25
 ## Q4 2025
 
 

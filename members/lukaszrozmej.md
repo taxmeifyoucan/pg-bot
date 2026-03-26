@@ -151,6 +151,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: remove duplicate NewHeadBlock unsubscription in PoSSwitcher](https://github.com/NethermindEth/nethermind/pull/10938#pullrequestreview-3999834482) - 2026-03-24
 * [Review] [Review on: feat: upstream changes for ArbOS 60 multi-gas constraints](https://github.com/NethermindEth/nethermind/pull/10765#pullrequestreview-3998927018) - 2026-03-24
 * [Review] [Review on: Connection reset metric](https://github.com/NethermindEth/nethermind/pull/10935#pullrequestreview-3997286473) - 2026-03-24
+* [Review] [Review on: Extend `CallResult` constructor visibility](https://github.com/NethermindEth/nethermind/pull/10949#pullrequestreview-4007764490) - 2026-03-25
+* [Review] [Review on: New constructor](https://github.com/NethermindEth/nethermind/pull/10950#pullrequestreview-4007760786) - 2026-03-25
+* [Review] [Review on: Parallel transaction execution with BALs](https://github.com/NethermindEth/nethermind/pull/9182#pullrequestreview-4005978440) - 2026-03-25
+* [Review] [Review on: refactor: Move merkleization metrics to IWorldStateScopeProvider](https://github.com/NethermindEth/nethermind/pull/10925#pullrequestreview-4005698173) - 2026-03-25
+* [Review] [Review on: Migrate TxGossipPolicy to DI using OrderedComponents](https://github.com/NethermindEth/nethermind/pull/10941#pullrequestreview-4005151286) - 2026-03-25
+* [Commit] [chore: add fix-nethtest agent skill for EF test debugging (#10903)](https://github.com/NethermindEth/nethermind/commit/a075b36ec8b379602a0230a695f8f4e62f5ae900) - 2026-03-25
 ## Q4 2025
 
 

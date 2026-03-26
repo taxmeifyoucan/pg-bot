@@ -58,6 +58,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [refactor: remove `StateProviderBuilder`](https://github.com/paradigmxyz/reth/pull/23194) - 2026-03-24
 * [Commit] [refactor: use `reth-core` deps (#23186)](https://github.com/paradigmxyz/reth/commit/677d07041e679aca8345cef203545618fc850d12) - 2026-03-24
 * [Commit] [refactor: remove `PayloadBuilderAttributes` (#23202)](https://github.com/paradigmxyz/reth/commit/cf83b198d3a7a672962be6459b3082becd6e03a0) - 2026-03-24
+* [Pull Request] [refactor(tests): use FCU for requesting new payloads](https://github.com/paradigmxyz/reth/pull/23222) - 2026-03-25
+* [Review] [Review on: fix(engine): do not report metrics for already seen payloads](https://github.com/paradigmxyz/reth/pull/23227#pullrequestreview-4006963315) - 2026-03-25
+* [Review] [Review on: fix(engine): emit slow block log immediately after execution](https://github.com/paradigmxyz/reth/pull/23225#pullrequestreview-4006874314) - 2026-03-25
+* [Review] [Review on: refactor(engine): extract PayloadExecutionCache into reth-execution-cache crate](https://github.com/paradigmxyz/reth/pull/23209#pullrequestreview-4005823903) - 2026-03-25
+* [Review] [Review on: refactor: replace reth-primitives-traits with git dep to reth-core](https://github.com/paradigmxyz/reth/pull/23210#pullrequestreview-4005409726) - 2026-03-25
+* [Commit] [refactor(tests): use FCU for requesting new payloads (#23222)](https://github.com/paradigmxyz/reth/commit/a37f91e6c037d615582a384c3c987ce8aa5de90e) - 2026-03-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521#pullrequestreview-3998404944) - 2026-03-24
 ## Q4 2025

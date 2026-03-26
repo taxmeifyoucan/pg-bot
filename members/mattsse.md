@@ -153,6 +153,20 @@ Team: Reth
 * [Pull Request] [fix(init): track actual byte size instead of account count in dump_state](https://github.com/paradigmxyz/reth/pull/23190) - 2026-03-24
 * [Commit] [chore: remove unused Extended type and op feature from primitives-traits (#23198)](https://github.com/paradigmxyz/reth/commit/15338b8113d006e24a42a0d556cfeb8bd70ebf0d) - 2026-03-24
 * [Commit] [fix(init): track actual byte size instead of account count in dump_state (#23190)](https://github.com/paradigmxyz/reth/commit/b3f5e62494b58b2bf8c364736e4b75ed2fa6c0c8) - 2026-03-24
+* [Review] [Review on: fix(cli): use storage.v2 flag for storage settings](https://github.com/paradigmxyz/reth/pull/23236#pullrequestreview-4010102722) - 2026-03-25
+* [Review] [Review on: chore: make EvmConfig generic in examples](https://github.com/paradigmxyz/reth/pull/23229#pullrequestreview-4009302575) - 2026-03-25
+* [Pull Request] [chore: bump alloy 1.8.1](https://github.com/paradigmxyz/reth/pull/23228) - 2026-03-25
+* [Review] [Review on: chore: bump alloy 1.8.1](https://github.com/paradigmxyz/reth/pull/23228#pullrequestreview-4007678361) - 2026-03-25
+* [Review] [Review on: chore: remove deprecated reth-primitives crate](https://github.com/paradigmxyz/reth/pull/23220#pullrequestreview-4007302476) - 2026-03-25
+* [Review] [Review on: feat: enable jemalloc `override_allocator_on_supported_platforms`](https://github.com/paradigmxyz/reth/pull/23214#pullrequestreview-4007130818) - 2026-03-25
+* [Review] [Review on: refactor(tests): use FCU for requesting new payloads](https://github.com/paradigmxyz/reth/pull/23222#pullrequestreview-4006959623) - 2026-03-25
+* [Review] [Review on: perf(payload): avoid tx clone in block building loop](https://github.com/paradigmxyz/reth/pull/23180#pullrequestreview-4006475842) - 2026-03-25
+* [Review] [Review on: feat: add hourly main regression bench](https://github.com/paradigmxyz/reth/pull/23219#pullrequestreview-4006488231) - 2026-03-25
+* [Review] [Review on: chore(deps): bump the cargo-weekly group across 1 directory with 2 updates](https://github.com/paradigmxyz/reth/pull/23211#pullrequestreview-4005649661) - 2026-03-25
+* [Review] [Review on: refactor(engine): extract PayloadExecutionCache into reth-execution-cache crate](https://github.com/paradigmxyz/reth/pull/23209#pullrequestreview-4005822886) - 2026-03-25
+* [Review] [Review on: refactor: replace reth-primitives-traits with git dep to reth-core](https://github.com/paradigmxyz/reth/pull/23210#pullrequestreview-4005567369) - 2026-03-25
+* [Commit] [chore: bump alloy 1.8.1 (#23228)](https://github.com/paradigmxyz/reth/commit/fb62487148c37e6d27fa3a62afe44aed7f60df6e) - 2026-03-25
+* [Commit] [feat(txpool): add TransactionValidationTaskExecutor::spawn (#23196)](https://github.com/paradigmxyz/reth/commit/33ec89994eca862dba777b0546942334116fb8be) - 2026-03-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

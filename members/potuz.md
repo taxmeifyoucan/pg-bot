@@ -38,6 +38,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Only allow attestations for known payload statuses](https://github.com/ethereum/consensus-specs/pull/4918) - 2026-02-13
 
 * [Review] [Review on: Add sanity/blocks tests for missed payload withdrawal interactions](https://github.com/ethereum/consensus-specs/pull/4962#pullrequestreview-3950871967) - 2026-03-16
+* [Pull Request] [Add cached PTC window to the state](https://github.com/ethereum/consensus-specs/pull/4979) - 2026-03-25
+* [Commit] [Add cached PTC window to the state (#4979)](https://github.com/ethereum/consensus-specs/commit/a196ff3e5cc894d9a671c161f544fdb4e9df3e9c) - 2026-03-25
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Use execution block hash as state access key post-Gloas](https://github.com/OffchainLabs/prysm/pull/16459) - 2026-03-10
 * [Pull Request] [Handle missing Payloads](https://github.com/OffchainLabs/prysm/pull/16460) - 2026-03-10
@@ -62,6 +64,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: adding fallback to origin block root on previous dependent root is empty](https://github.com/OffchainLabs/prysm/pull/16576#pullrequestreview-4001998681) - 2026-03-24
 * [Pull Request] [Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582) - 2026-03-24
 * [Pull Request] [Ignore blocks and data columns based on old blocks.](https://github.com/OffchainLabs/prysm/pull/16579) - 2026-03-24
+* [Review] [Review on: Gloas Init sync](https://github.com/OffchainLabs/prysm/pull/16528#pullrequestreview-4007300007) - 2026-03-25
+* [Review] [Review on: Ignore blocks and data columns based on old blocks.](https://github.com/OffchainLabs/prysm/pull/16579#pullrequestreview-4006426642) - 2026-03-25
 ## Q4 2025
 
 

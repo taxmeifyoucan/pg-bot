@@ -130,6 +130,8 @@ Team: Erigon
 * [Review] [Review on: execution: fix EIP-8037 GasPool two-dimensional block gas accounting](https://github.com/erigontech/erigon/pull/20134#pullrequestreview-4001009557) - 2026-03-24
 * [Review] [Review on: execution/vm: fix EIP-8037 state gas spill restoration on frame failure](https://github.com/erigontech/erigon/pull/20108#pullrequestreview-3998477184) - 2026-03-24
 * [Commit] [execution/stagedsync: fix parallel executor reorg with deferred commitment (#20131)](https://github.com/erigontech/erigon/commit/883557592d4f7618f8edc7fa5b8222bcc723dfae) - 2026-03-24
+* [Commit] [caplin: unified Engine API client for standalone mode (#20035)](https://github.com/erigontech/erigon/commit/082697d2a0399fd6410eaf89a0ba51c482f61934) - 2026-03-25
+* [Commit] [fix bal-devnet-3 testing anomalies (#20143)](https://github.com/erigontech/erigon/commit/994011634f543a42df7a36a63dfabd64e17ceb6d) - 2026-03-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

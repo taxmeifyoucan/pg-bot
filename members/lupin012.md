@@ -60,6 +60,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: eth_getRawTransactionByHash & eth_callBundle avoid block scan when fetch txn from hash](https://github.com/erigontech/erigon/pull/20140) - 2026-03-24
 * [Review] [Review on: qa-tests: restore the execution of RPC tests on the main and release branches](https://github.com/erigontech/erigon/pull/20129#pullrequestreview-3998437558) - 2026-03-24
 * [Commit] [rpc: trace_filter add per-transaction timeout (#20111)](https://github.com/erigontech/erigon/commit/c0068c6f6de50408c1e69cf0e58d06072fc8a395) - 2026-03-24
+* [Pull Request] [rpc: return null storageKeys in eth_createAccessList when no storage](https://github.com/erigontech/erigon/pull/20161) - 2026-03-25
+* [Pull Request] [[3.4] update rpc version to 122 (remove fail on eth_simulateV1)](https://github.com/erigontech/erigon/pull/20159) - 2026-03-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15

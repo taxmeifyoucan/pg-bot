@@ -56,6 +56,14 @@ Team: Reth
 * [Commit] [fix(cli): `--storage.v2` without explicit true/false (#23173)](https://github.com/paradigmxyz/reth/commit/b8aca9586a3f81ded9b7846151956e678abf34be) - 2026-03-23
 * [Review] [Review on: chore(meta): rename CLAUDE.md to AGENTS.md, symlink CLAUDE.md to it](https://github.com/paradigmxyz/reth/pull/23203#pullrequestreview-4001188710) - 2026-03-24
 * [Review] [Review on: bench(ci): reuse cached big-block fixtures and select snapshot from manifest](https://github.com/paradigmxyz/reth/pull/23193#pullrequestreview-4000703743) - 2026-03-24
+* [Pull Request] [fix(cli): use storage.v2 flag for storage settings](https://github.com/paradigmxyz/reth/pull/23236) - 2026-03-25
+* [Review] [Review on: feat: enable jemalloc `override_allocator_on_supported_platforms`](https://github.com/paradigmxyz/reth/pull/23214#pullrequestreview-4007191274) - 2026-03-25
+* [Review] [Review on: refactor(tests): use FCU for requesting new payloads](https://github.com/paradigmxyz/reth/pull/23222#pullrequestreview-4006966740) - 2026-03-25
+* [Pull Request] [fix(engine): do not report metrics for already seen payloads](https://github.com/paradigmxyz/reth/pull/23227) - 2026-03-25
+* [Review] [Review on: fix(engine): emit slow block log immediately after execution](https://github.com/paradigmxyz/reth/pull/23225#pullrequestreview-4006889424) - 2026-03-25
+* [Review] [Review on: refactor(engine): extract PayloadExecutionCache into reth-execution-cache crate](https://github.com/paradigmxyz/reth/pull/23209#pullrequestreview-4005820543) - 2026-03-25
+* [Commit] [fix(cli): use storage.v2 flag for storage settings (#23236)](https://github.com/paradigmxyz/reth/commit/7f4a9a05ef38b2f88f900209d0d7f8d67ca148c1) - 2026-03-25
+* [Commit] [fix(engine): do not report metrics for already seen payloads (#23227)](https://github.com/paradigmxyz/reth/commit/78b97e81b7f2defcda058d49e72ab953d5f9aa05) - 2026-03-25
 ## Q4 2025
 
 

@@ -63,6 +63,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: feat: add CallInput::as_bytes](https://github.com/bluealloy/revm/pull/3515#pullrequestreview-3990098967) - 2026-03-23
 * [Pull Request] [feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521) - 2026-03-24
 * [Review] [Review on: feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521#pullrequestreview-3999334089) - 2026-03-24
+* [Review] [Review on: feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521#pullrequestreview-4006435172) - 2026-03-25
+* [Review] [Review on: feat(inspector): add `frame_start` and `frame_end` to `Inspector` trait](https://github.com/bluealloy/revm/pull/3518#pullrequestreview-4005158462) - 2026-03-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify transaction transfer to different account](https://github.com/ethereum/EIPs/pull/11188) - 2026-01-27
 * [Pull Request] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355) - 2026-03-10

@@ -68,6 +68,12 @@ Team: Reth
 * [Review] [Review on: fix: remove apt-get upgrade from hive Dockerfile](https://github.com/paradigmxyz/reth/pull/23206#pullrequestreview-4001216111) - 2026-03-24
 * [Pull Request] [chore(meta): rename CLAUDE.md to AGENTS.md, symlink CLAUDE.md to it](https://github.com/paradigmxyz/reth/pull/23203) - 2026-03-24
 * [Commit] [chore(meta): rename CLAUDE.md to AGENTS.md, symlink CLAUDE.md to it (#23203)](https://github.com/paradigmxyz/reth/commit/52ab4223a066147afd75e4b4628ad76af1b35915) - 2026-03-24
+* [Pull Request] [feat: integrate revmc JIT](https://github.com/paradigmxyz/reth/pull/23230) - 2026-03-25
+* [Pull Request] [chore: make EvmConfig generic in examples](https://github.com/paradigmxyz/reth/pull/23229) - 2026-03-25
+* [Review] [Review on: chore: bump alloy 1.8.1](https://github.com/paradigmxyz/reth/pull/23228#pullrequestreview-4007681541) - 2026-03-25
+* [Review] [Review on: feat: enable jemalloc `override_allocator_on_supported_platforms`](https://github.com/paradigmxyz/reth/pull/23214#pullrequestreview-4006145749) - 2026-03-25
+* [Review] [Review on: chore(deps): bump the cargo-weekly group across 1 directory with 2 updates](https://github.com/paradigmxyz/reth/pull/23211#pullrequestreview-4006021773) - 2026-03-25
+* [Commit] [chore: make EvmConfig generic in examples (#23229)](https://github.com/paradigmxyz/reth/commit/d3c3466c44d46ecf485524ec21621b2c1847c103) - 2026-03-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
@@ -143,6 +149,17 @@ Team: Reth
 * [Commit] [feat: add EIP-4788 beacon roots benchmark (#155)](https://github.com/paradigmxyz/revmc/commit/9ce8e1f2f0b3eded3445f7cb94256e21bbe8232d) - 2026-03-25
 * [Commit] [feat: dump raw bytecode.bin in compiler dump (#153)](https://github.com/paradigmxyz/revmc/commit/d24ec9a5ac7935b96c7fff8a2005c3937183844b) - 2026-03-24
 * [Commit] [refactor: remove HostExt trait and host-ext-any feature (#152)](https://github.com/paradigmxyz/revmc/commit/f4c1554883eba46f213407a8628a2c2767f35a00) - 2026-03-24
+* [Pull Request] [perf: replace default<O3> with custom LLVM pass pipeline](https://github.com/paradigmxyz/revmc/pull/163) - 2026-03-25
+* [Pull Request] [fix: remove old LLVM module from execution engine in clear_ir](https://github.com/paradigmxyz/revmc/pull/160) - 2026-03-25
+* [Pull Request] [perf: skip IR instruction/block names when not relevant](https://github.com/paradigmxyz/revmc/pull/161) - 2026-03-25
+* [Pull Request] [chore: use [i8 x N] allocas](https://github.com/paradigmxyz/revmc/pull/162) - 2026-03-25
+* [Pull Request] [fix: pre-seed storage for eip4788 and eip2935 benchmarks](https://github.com/paradigmxyz/revmc/pull/159) - 2026-03-25
+* [Pull Request] [fix: replace DummyHost with BenchHost in CLI runner](https://github.com/paradigmxyz/revmc/pull/158) - 2026-03-25
+* [Commit] [feat: add initializes((0, N)) attr to write-only sp builtins (#157)](https://github.com/paradigmxyz/revmc/commit/0fd39140619ff506d7858ed1b22efbe933dc6965) - 2026-03-25
+* [Commit] [perf: skip IR instruction/block names when not relevant (#161)](https://github.com/paradigmxyz/revmc/commit/637783fb513fa27d7e44cfc2284a94240aeb9dad) - 2026-03-25
+* [Commit] [fix: remove old LLVM module from execution engine in clear_ir (#160)](https://github.com/paradigmxyz/revmc/commit/51c6c767a3b068136654ea753150aa2f10b4ee2d) - 2026-03-25
+* [Commit] [fix: pre-seed storage for eip4788 and eip2935 benchmarks (#159)](https://github.com/paradigmxyz/revmc/commit/9bb083e0a85a97330153574e817bfa3414f67dec) - 2026-03-25
+* [Commit] [fix: replace DummyHost with BenchHost in CLI runner (#158)](https://github.com/paradigmxyz/revmc/commit/ac8dab13896e7a86f334794f4b88043af744b951) - 2026-03-25
 ## Q4 2025
 
 

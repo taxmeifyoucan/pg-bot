@@ -73,6 +73,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Optimize scratch space in modexp_odd](https://github.com/ipsilon/evmone/pull/1469) - 2026-03-19
 * [Commit] [crypto: Simplify modinv_pow2 Newton-Raphson iteration (#1470)](https://github.com/ipsilon/evmone/commit/634cd068033c2d43f3c6db7abe7cc8557d43ec7f) - 2026-03-19
 * [Commit] [crypto: Optimize scratch space in modexp_odd (#1469)](https://github.com/ipsilon/evmone/commit/33a61b7059399410c42d3167528b4cd2ea6bd559) - 2026-03-19
+* [Pull Request] [crypto: Refactor mul_amm to separate output from inputs](https://github.com/ipsilon/evmone/pull/1471) - 2026-03-25
+* [Commit] [crypto: Refactor mul_amm to separate output from inputs (#1471)](https://github.com/ipsilon/evmone/commit/fceb38716c6e49b72ddee1564c08da028af3f3a3) - 2026-03-25
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936881731) - 2026-03-12
 

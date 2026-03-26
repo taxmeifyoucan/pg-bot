@@ -23,6 +23,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix(deps): upgrade vulnerable dependencies and add govulncheck CI](https://github.com/ethpandaops/xatu/pull/762) - 2026-02-20
 * [Pull Request] [refactor(consumoor): group batch processing by event type](https://github.com/ethpandaops/xatu/pull/787) - 2026-02-24
 * [Pull Request] [Release/consumoor](https://github.com/ethpandaops/xatu/pull/792) - 2026-02-25
+* [Review] [Review on: feat(gloas): add BAL storage reads and touched accounts](https://github.com/ethpandaops/xatu/pull/798#pullrequestreview-4003887805) - 2026-03-25
+* [Review] [Review on: feat(gloas): add BAL storage reads and bump deps to bal-devnet-3](https://github.com/ethpandaops/xatu/pull/797#pullrequestreview-4003724229) - 2026-03-25
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(xatu): add nodes section with resource monitoring](https://github.com/ethpandaops/lab/pull/421) - 2026-02-13
 * [Pull Request] [feat(node-resources): improve chart formatting and adapt to backend label changes](https://github.com/ethpandaops/lab/pull/424) - 2026-02-16

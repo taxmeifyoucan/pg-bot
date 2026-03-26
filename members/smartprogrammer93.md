@@ -53,6 +53,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix flaky DiscoveryPersistenceManager test on macOS CI (#10912)](https://github.com/NethermindEth/nethermind/commit/00ecb436dd816c508ba8e9df08e7fbcc98b9b778) - 2026-03-22
 * [Commit] [fix(db): reuse ReadOptions in ColumnDbSnapshot to reduce GC pressure (#10894)](https://github.com/NethermindEth/nethermind/commit/e1cc5d8e395d798e1cdc7cbe6e78729fc5077dda) - 2026-03-22
 * [Review] [Review on: fix: BackgroundTaskScheduler disposal deadlock causing CI timeouts](https://github.com/NethermindEth/nethermind/pull/10927#pullrequestreview-3992392030) - 2026-03-23
+* [Review] [Review on: Migrate TxGossipPolicy to DI using OrderedComponents](https://github.com/NethermindEth/nethermind/pull/10941#pullrequestreview-4005022139) - 2026-03-25
 ## Q3 2025
 
 

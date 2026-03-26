@@ -35,6 +35,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(cannon): add sync committee deriver](https://github.com/ethpandaops/xatu/pull/743) - 2026-01-30
 * [Pull Request] [feat(cannon): add beacon block sync aggregate deriver](https://github.com/ethpandaops/xatu/pull/744) - 2026-02-05
 * [Pull Request] [feat: ch migration setup](https://github.com/ethpandaops/xatu/pull/793) - 2026-03-03
+* [Review] [Review on: feat(gloas): add BAL storage reads and bump deps to bal-devnet-3](https://github.com/ethpandaops/xatu/pull/797#pullrequestreview-4003721759) - 2026-03-25
 ## Q4 2025
 
 

@@ -94,6 +94,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Use highest bid cache to select P2P bid over self-build in proposer](https://github.com/OffchainLabs/prysm/pull/16577) - 2026-03-24
 * [Review] [Review on: Use highest bid cache to select P2P bid over self-build in proposer](https://github.com/OffchainLabs/prysm/pull/16577#pullrequestreview-4000131128) - 2026-03-24
 * [Commit] [Use highest bid cache to select P2P bid over self-build in proposer (#16577)](https://github.com/OffchainLabs/prysm/commit/445487b4a73031463eebc8f8812ec8f8d31fc164) - 2026-03-24
+* [Pull Request] [Add gloas support to hdiff state diffs](https://github.com/OffchainLabs/prysm/pull/16590) - 2026-03-25
+* [Review] [Review on: Gloas Init sync](https://github.com/OffchainLabs/prysm/pull/16528#pullrequestreview-4007583788) - 2026-03-25
+* [Review] [Review on: fix: set default scoring params for proposer preferences](https://github.com/OffchainLabs/prysm/pull/16585#pullrequestreview-4007669597) - 2026-03-25
+* [Issue] [validator: proposer preferences should be broadcast in the epoch prior to Gloas fork](https://github.com/OffchainLabs/prysm/issues/16587) - 2026-03-25
 ## Q4 2025
 
 

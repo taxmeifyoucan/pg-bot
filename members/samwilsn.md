@@ -40,6 +40,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(spec): unify forgotten gas constants in spec](https://github.com/ethereum/execution-specs/pull/2383#pullrequestreview-3957860927) - 2026-03-17
 * [Issue] [Investigate replacing exceptions with Go-style errors](https://github.com/ethereum/execution-specs/issues/2523) - 2026-03-17
 * [Issue] [Create a `has_access_list` function for transaction types](https://github.com/ethereum/execution-specs/issues/2521) - 2026-03-17
+* [Review] [Review on: feat(ci,tooling): [PROPOSAL] replace `tox` with `just`](https://github.com/ethereum/execution-specs/pull/2555#pullrequestreview-4007609011) - 2026-03-25
+* [Review] [Review on: refactor(specs): make `State` fork agnostic](https://github.com/ethereum/execution-specs/pull/2381#pullrequestreview-4008071800) - 2026-03-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs #38, February 18, 2026](https://github.com/ethereum/pm/issues/1909) - 2026-01-29
 ## Q4 2025

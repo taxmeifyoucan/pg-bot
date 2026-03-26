@@ -44,6 +44,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Update Amsterdam to bal@v5.4.0 spec (#10075)](https://github.com/besu-eth/besu/commit/ae05fe91e8a70f5b9f6b5f196cb745e48c18d02b) - 2026-03-23
 * [Pull Request] [Check expected error in devnet reference tests, fix 7778 and 8037 bugs](https://github.com/besu-eth/besu/pull/10099) - 2026-03-24
 * [Review] [Review on: fix: Update besu-native libraries to 1.5.0](https://github.com/besu-eth/besu/pull/10096#pullrequestreview-3997455607) - 2026-03-24
+* [Review] [Review on: feat: skeleton for EVM v2 with long[] stack and --Xevm-go-fast toggle](https://github.com/besu-eth/besu/pull/10105#pullrequestreview-4007448567) - 2026-03-25
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936613106) - 2026-03-12
 ## Q4 2025

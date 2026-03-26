@@ -113,6 +113,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: use IGNORE instead of REJECT for missing payload envelope input (#9094)](https://github.com/ChainSafe/lodestar/commit/e3f53019a0a1ce07015d0495e7f243f79b675e4a) - 2026-03-23
 * [Commit] [refactor: avoid falsy zero check in indexed attestation bounds validation (#9089)](https://github.com/ChainSafe/lodestar/commit/5007d8c6d6c1f38bb20c2a727f121d20e6db3221) - 2026-03-23
 * [Pull Request] [test: wire sync committee gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9106) - 2026-03-24
+* [Review] [Review on: chore(deps): bump fastify from 5.8.1 to 5.8.3](https://github.com/ChainSafe/lodestar/pull/9114#pullrequestreview-4010084062) - 2026-03-25
+* [Issue] [Serve finalized payloads by root](https://github.com/ChainSafe/lodestar/issues/9111) - 2026-03-25
+* [Issue] [Serve finalized blocks by root](https://github.com/ChainSafe/lodestar/issues/9108) - 2026-03-25
+* [Issue] [Update req/resp methods to validate `MIN_EPOCHS_FOR_BLOCK_REQUESTS`](https://github.com/ChainSafe/lodestar/issues/9107) - 2026-03-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15

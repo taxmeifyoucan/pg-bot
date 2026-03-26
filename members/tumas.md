@@ -57,6 +57,10 @@ Team: Grandine
 * [Pull Request] [Use `tokio::time::Instant` in ticks() to fix flaky clock tests](https://github.com/grandinetech/grandine/pull/642) - 2026-03-24
 * [Pull Request] [Link `cc` to `clang` in Cross.toml](https://github.com/grandinetech/grandine/pull/641) - 2026-03-24
 * [Commit] [Link `cc` to `clang` in Cross.toml](https://github.com/grandinetech/grandine/commit/c1b36dc3f5d05517fc042c01ea5d8bb9907ee147) - 2026-03-24
+* [Review] [Review on: Handle `ExecutionPayloadEnvelope`](https://github.com/grandinetech/grandine/pull/591#pullrequestreview-4006167469) - 2026-03-25
+* [Pull Request] [Fix finalized validator loading from database for old databases.](https://github.com/grandinetech/grandine/pull/643) - 2026-03-25
+* [Commit] [Fix finalized validator loading from database for old databases.](https://github.com/grandinetech/grandine/commit/0962e7801965cedf8e38213226ed2aec9d30727e) - 2026-03-25
+* [Commit] [Use `tokio::time::Instant` in ticks() to fix flaky clock tests](https://github.com/grandinetech/grandine/commit/66fd661ebca9c0da5e8c8ca337a3965f34b310e8) - 2026-03-25
 ## Q4 2025
 
 

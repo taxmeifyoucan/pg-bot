@@ -32,6 +32,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Upgrade github actions/cache to v5](https://github.com/status-im/nimbus-eth1/pull/4063) - 2026-03-25
 * [Pull Request] [Add nasm to windows docker base image](https://github.com/status-im/nimbus-eth1/pull/4060) - 2026-03-24
 * [Commit] [Add nasm to windows docker base image (#4060)](https://github.com/status-im/nimbus-eth1/commit/e694894000e2200b9fe7246f7c309698f3b0fba9) - 2026-03-24
+* [Commit] [Upgrade github actions/cache to v5 (#4063)](https://github.com/status-im/nimbus-eth1/commit/02c51bd5b848c6d81592f59f4a18a9f08a433711) - 2026-03-25
 ## Q4 2025
 
 

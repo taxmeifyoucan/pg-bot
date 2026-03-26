@@ -23,6 +23,8 @@ Team: Nimbus
 * [Commit] [Snap sync add fsa and maint update (#4051)](https://github.com/status-im/nimbus-eth1/commit/f346dbe2e691248fcfef60215ad67dabf3dfe156) - 2026-03-19
 * [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4062) - 2026-03-24
 * [Commit] [Snap sync maint update (#4062)](https://github.com/status-im/nimbus-eth1/commit/a2bb5b6c2b39de054e0084aeedb9088e15b9952a) - 2026-03-24
+* [Pull Request] [Snap sync update cmd line options and state hash](https://github.com/status-im/nimbus-eth1/pull/4068) - 2026-03-25
+* [Commit] [Snap sync update cmd line options and state hash (#4068)](https://github.com/status-im/nimbus-eth1/commit/d4b9ea3e4cf7ce2a156ea6c6e59eec68028d25ba) - 2026-03-25
 ## Q4 2025
 
 

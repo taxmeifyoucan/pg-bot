@@ -73,6 +73,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Gloas fork choice redux](https://github.com/sigp/lighthouse/pull/9025) - 2026-03-24
 * [Review] [Review on: Gloas fork choice redux](https://github.com/sigp/lighthouse/pull/9025#pullrequestreview-3998872142) - 2026-03-24
 * [Review] [Review on: Schedule Fulu fork for Gnosis mainnet](https://github.com/sigp/lighthouse/pull/9007#pullrequestreview-3995970665) - 2026-03-24
+* [Pull Request] [Remove schema migrations for v28 and earlier](https://github.com/sigp/lighthouse/pull/9031) - 2026-03-26
+* [Review] [Review on: Gloas fork choice redux](https://github.com/sigp/lighthouse/pull/9025#pullrequestreview-4004391160) - 2026-03-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16

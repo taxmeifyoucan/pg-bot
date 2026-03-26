@@ -33,6 +33,22 @@ Team: Erigon
 * [Review] [Review on: merge: II to support NO_DEEP_MERGE_HISTORY ](https://github.com/erigontech/erigon/pull/20135#pullrequestreview-4001262207) - 2026-03-24
 * [Pull Request] [test: fix flaky CorrectSwitchForConcurrent by removing shared rand source](https://github.com/erigontech/erigon/pull/20138) - 2026-03-24
 * [Commit] [add `seg du` command for snapshot disk usage analysis (#20104)](https://github.com/erigontech/erigon/commit/23839e145b67f64f573553813df7168561bd749f) - 2026-03-24
+* [Review] [Review on: integration: read branch data as of txnum](https://github.com/erigontech/erigon/pull/20160#pullrequestreview-4009397471) - 2026-03-25
+* [Review] [Review on: commitment rebuild: add --no-history flag](https://github.com/erigontech/erigon/pull/20147#pullrequestreview-4007418730) - 2026-03-25
+* [Review] [Review on: ci: use GitHub App token for checkout in build-release to fix tag push with workflows scope](https://github.com/erigontech/erigon/pull/20157#pullrequestreview-4008126391) - 2026-03-25
+* [Review] [Review on: fix: avoid duplicate counter creation for gossip topics](https://github.com/erigontech/erigon/pull/18749#pullrequestreview-4009542308) - 2026-03-25
+* [Review] [Review on: build(deps): bump actions/upload-artifact from 6 to 7](https://github.com/erigontech/erigon/pull/19559#pullrequestreview-4009516608) - 2026-03-25
+* [Review] [Review on: build(deps): bump actions/download-artifact from 7 to 8](https://github.com/erigontech/erigon/pull/19557#pullrequestreview-4009510947) - 2026-03-25
+* [Pull Request] [rpc: improve unknown block error with context](https://github.com/erigontech/erigon/pull/20149) - 2026-03-25
+* [Review] [Review on: [kimiko] Analyze all commits that were pushed to the current branch (in](https://github.com/erigontech/erigon/pull/19653#pullrequestreview-4009433661) - 2026-03-25
+* [Review] [Review on: Add commitment internals panels to Grafana dashboard](https://github.com/erigontech/erigon/pull/19832#pullrequestreview-4008925024) - 2026-03-25
+* [Pull Request] [commitment: refactor fold() into smaller methods](https://github.com/erigontech/erigon/pull/20152) - 2026-03-25
+* [Review] [Review on: ci: fix hashFiles in composite action output expression](https://github.com/erigontech/erigon/pull/20153#pullrequestreview-4007207511) - 2026-03-25
+* [Pull Request] [Bps Tree index -- prefix search narrower](https://github.com/erigontech/erigon/pull/20155) - 2026-03-25
+* [Review] [Review on: Bps Tree index -- prefix search narrower](https://github.com/erigontech/erigon/pull/20155#pullrequestreview-4007696908) - 2026-03-25
+* [Review] [Review on: commitment: make concurrent trie capture thread-safe](https://github.com/erigontech/erigon/pull/20103#pullrequestreview-4007439739) - 2026-03-25
+* [Pull Request] [ci: fix hashFiles() in composite action outputs](https://github.com/erigontech/erigon/pull/20154) - 2026-03-25
+* [Commit] [rpc: improve unknown block error with context (#20149)](https://github.com/erigontech/erigon/commit/ed30c284f65beeaf6042baeb89a7cabd18a9bffb) - 2026-03-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3925895357) - 2026-03-10
 ## Q4 2025

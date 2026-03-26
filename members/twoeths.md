@@ -55,6 +55,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: consume BeaconStateView](https://github.com/ChainSafe/lodestar/pull/8857) - 2026-03-24
 * [Pull Request] [feat: enhance processChainSegment for ePBS](https://github.com/ChainSafe/lodestar/pull/9103) - 2026-03-24
 * [Commit] [chore: consume BeaconStateView (#8857)](https://github.com/ChainSafe/lodestar/commit/7e96447c23fd45838b33c55f776ca2655e049907) - 2026-03-24
+* [Review] [Review on: feat: enhance NetworkProcessor for gloas](https://github.com/ChainSafe/lodestar/pull/9025#pullrequestreview-4010922820) - 2026-03-26
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 * [Review] [Review on: fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241#pullrequestreview-3948190078) - 2026-03-14

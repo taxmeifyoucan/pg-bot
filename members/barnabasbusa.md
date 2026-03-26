@@ -51,6 +51,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/status-im/nimbus-eth2/pull/8111) - 2026-03-18
 * [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/status-im/nimbus-eth2/pull/8110) - 2026-03-18
+* [Pull Request] [Add ca-certificates to Dockerfile](https://github.com/status-im/nimbus-eth2/pull/8167) - 2026-03-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #70, February 16, 2026](https://github.com/ethereum/pm/issues/1920) - 2026-02-10
 
@@ -99,6 +100,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/ethpandaops/contributoor/pull/212) - 2026-03-18
 * [Commit] [fix: bump kurtosis Go SDK to v1.16.6 to match CLI version](https://github.com/ethpandaops/contributoor/commit/f2d6e34e08b7127158f18507a171420cfa2f598b) - 2026-03-18
 * [Commit] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/ethpandaops/contributoor/commit/d08de6d0965d98ba7b4e1ddb98c25f72cd5b95eb) - 2026-03-18
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Pull Request] [fix: use SLOT_DURATION_MS instead of deprecated SECONDS_PER_SLOT](https://github.com/ethpandaops/assertoor/pull/148) - 2026-03-25
 ## Q4 2025
 
 

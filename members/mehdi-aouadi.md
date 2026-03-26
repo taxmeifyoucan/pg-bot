@@ -54,6 +54,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [remove cache contention](https://github.com/Consensys/teku/pull/10527) - 2026-03-24
 * [Review] [Review on: replay execution payload when regenerating states](https://github.com/Consensys/teku/pull/10511#pullrequestreview-3997174806) - 2026-03-24
 * [Commit] [replay execution payload when regenerating states (#10511)](https://github.com/Consensys/teku/commit/bfba66c4762f3b88a68ecd355a06115cf0658863) - 2026-03-24
+* [Pull Request] [add blinded execution payload envelope containers](https://github.com/Consensys/teku/pull/10530) - 2026-03-25
+* [Pull Request] [fix cache contention](https://github.com/Consensys/teku/pull/10528) - 2026-03-25
+* [Review] [Review on: fix cache contention](https://github.com/Consensys/teku/pull/10528#pullrequestreview-4005828614) - 2026-03-25
+* [Pull Request] [generalize AI context file to agents.md](https://github.com/Consensys/teku/pull/10529) - 2026-03-25
+* [Commit] [generalize AI context file to agents.md (#10529)](https://github.com/Consensys/teku/commit/937de73920373b30d07b4aa20e61657987792708) - 2026-03-25
 ## Q4 2025
 
 

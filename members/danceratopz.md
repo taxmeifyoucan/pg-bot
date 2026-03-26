@@ -81,6 +81,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(ci): remove stale client Docker images before benchmark genesis build (#2544)](https://github.com/ethereum/execution-specs/commit/174e903c94ceba69d3f464fcce547f2917ec05fb) - 2026-03-24
 * [Commit] [fix(ci): separate Hive client build from dev mode startup (#2545)](https://github.com/ethereum/execution-specs/commit/cf5d85f3d75ba301fbac7b36d3375372ec9ca74b) - 2026-03-24
 * [Commit] [refactor(tests,test-fill): rename `json_loader` pytest marker to `eels_base_coverage` (#2524)](https://github.com/ethereum/execution-specs/commit/960c0bde1416ec8b764181535a4acc2c86e04aa0) - 2026-03-24
+* [Pull Request] [feat(ci,tooling): [PROPOSAL] replace `tox` with `just`](https://github.com/ethereum/execution-specs/pull/2555) - 2026-03-25
+* [Review] [Review on: feat(ci,tooling): [PROPOSAL] replace `tox` with `just`](https://github.com/ethereum/execution-specs/pull/2555#pullrequestreview-4008155239) - 2026-03-25
+* [Review] [Review on: feat(test-types): improve error messages for invalid tx fields](https://github.com/ethereum/execution-specs/pull/2551#pullrequestreview-4007870597) - 2026-03-25
+* [Review] [Review on: feat(ci,tooling): improve static check developer experience](https://github.com/ethereum/execution-specs/pull/2099#pullrequestreview-4005422035) - 2026-03-25
+* [Issue] [Investigate and potentially eliminate all remaining consensus test skips](https://github.com/ethereum/execution-specs/issues/2554) - 2026-03-25
+* [Issue] [Add geth evm build to CI  for `tests_pytest_py*3` tox envs](https://github.com/ethereum/execution-specs/issues/2557) - 2026-03-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 

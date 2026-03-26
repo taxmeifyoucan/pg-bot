@@ -46,3 +46,4 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [refactor(bls): use pointer arrays](https://github.com/ChainSafe/lodestar-z/pull/253) - 2026-03-20
 * [Review] [Review on: fix: replace custom intSqrt with std.math.sqrt](https://github.com/ChainSafe/lodestar-z/pull/263#pullrequestreview-3991672545) - 2026-03-23
 * [Pull Request] [fix: env usage](https://github.com/ChainSafe/lodestar-z/pull/266) - 2026-03-24
+* [Pull Request] [feat(stf): zero-alloc `processSyncAggregate`](https://github.com/ChainSafe/lodestar-z/pull/269) - 2026-03-25

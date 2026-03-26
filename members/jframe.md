@@ -50,6 +50,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Defer Snappy decompression of P2P messages until worker thread processing](https://github.com/besu-eth/besu/pull/10048#pullrequestreview-3988952089) - 2026-03-23
 * [Review] [Review on: Dispatch snap server request processing off Netty event loop](https://github.com/besu-eth/besu/pull/10083#pullrequestreview-3996086951) - 2026-03-24
 * [Review] [Review on: snap sync - don't disconnect peer for late responses](https://github.com/besu-eth/besu/pull/10087#pullrequestreview-3996057779) - 2026-03-24
+* [Review] [Review on: Update admin_nodeInfo to include IPv6 address and ports](https://github.com/besu-eth/besu/pull/10107#pullrequestreview-4010921000) - 2026-03-26
+* [Issue] [Backward sync stall at block 2,342,799 on Sepolia](https://github.com/besu-eth/besu/issues/10102) - 2026-03-25
+* [Issue] [Backward sync phase 1 slow relinking after restart](https://github.com/besu-eth/besu/issues/10103) - 2026-03-25
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: fix: Static-link OpenSSL in secp256r1 to prevent symbol leaking](https://github.com/besu-eth/besu-native/pull/308#pullrequestreview-3979209002) - 2026-03-20
 * [Review] [Review on: chore: Update changelog](https://github.com/besu-eth/besu-native/pull/312#pullrequestreview-3996628897) - 2026-03-24

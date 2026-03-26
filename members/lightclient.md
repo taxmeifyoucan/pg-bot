@@ -26,6 +26,8 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: Add EOA support](https://github.com/ethereum/EIPs/pull/11379#pullrequestreview-3922408317) - 2026-03-10
 * [Review] [Review on: Update EIP-8141: add @derekchiang as a coauthor](https://github.com/ethereum/EIPs/pull/11406#pullrequestreview-3947413695) - 2026-03-13
 * [Pull Request] [Update EIP-8141: add mempool policy](https://github.com/ethereum/EIPs/pull/11415) - 2026-03-16
+* [Review] [Review on: Update EIP-8141: add mempool policy](https://github.com/ethereum/EIPs/pull/11415#pullrequestreview-4010512248) - 2026-03-25
+* [Commit] [Update EIP-8141: add mempool policy](https://github.com/ethereum/EIPs/commit/bdf407dc5a78b8ddec97a668334b9a4b017f6def) - 2026-03-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Bosul to go-ethereum](https://github.com/protocolguild/documentation/pull/462) - 2026-01-08
 

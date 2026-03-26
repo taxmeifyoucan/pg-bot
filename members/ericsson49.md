@@ -17,6 +17,8 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add check that block is known in `on_payload_attestation_message`](https://github.com/ethereum/consensus-specs/pull/5022) - 2026-03-19
 * [Commit] [Add check that block is known in `on_payload_attestation_message` (#5022)](https://github.com/ethereum/consensus-specs/commit/bd791d85a87a7064c31f9741253769fb279d09c7) - 2026-03-23
+* [Pull Request] [Fix bug in Fork Choice compliance tests is_early_message](https://github.com/ethereum/consensus-specs/pull/5040) - 2026-03-25
+* [Commit] [Fix bug in fork choice compliance tests `is_early_message` (#5040)](https://github.com/ethereum/consensus-specs/commit/26ab97946400d2137bcfa534e29ceb8776213cb2) - 2026-03-25
 ## Q4 2025
 
 

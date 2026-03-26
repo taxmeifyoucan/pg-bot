@@ -157,6 +157,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [housekeeping: move trivy action from 0.35.0 to v0.35.0 (#10082)](https://github.com/besu-eth/besu/commit/3021947faa5da90603c3f2c1529da84d08989e34) - 2026-03-24
 * [Commit] [compute blob tx KZG commitments once per test class (#10095)](https://github.com/besu-eth/besu/commit/da48e425a7c68dd6bb5667f0a6b9bdab03cabb21) - 2026-03-24
 * [Commit] [receipt decoder - handle both formats at read time (#10079)](https://github.com/besu-eth/besu/commit/b08fed514ab653db89dd7720c986677439317517) - 2026-03-24
+* [Pull Request] [Optimize eth get proof test](https://github.com/besu-eth/besu/pull/10104) - 2026-03-25
+* [Commit] [Dispatch snap server request processing off Netty event loop (#10083)](https://github.com/besu-eth/besu/commit/a4e6e9a7e12d0d8d0bcd4c5527af17991e26b449) - 2026-03-25
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

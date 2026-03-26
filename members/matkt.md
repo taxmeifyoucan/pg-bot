@@ -36,5 +36,6 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Merge main, latest spec tests and their fixes into bal-devnet-3](https://github.com/besu-eth/besu/pull/10091#pullrequestreview-3991936142) - 2026-03-23
 * [Review] [Review on: Implement changes for bal devenet with spec test 5.5.1](https://github.com/besu-eth/besu/pull/10080#pullrequestreview-3991661489) - 2026-03-23
 * [Pull Request] [test(referencetests): validate block rejection reason against expected exception for BAL](https://github.com/besu-eth/besu/pull/10098) - 2026-03-24
+* [Review] [Review on: fix: prevent infinite loop in clearStorage with >256 storage slots](https://github.com/besu-eth/besu/pull/10047#pullrequestreview-4005560130) - 2026-03-25
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Pull Request] [use set for the StemPrunableNodeRegistry](https://github.com/besu-eth/besu-stateless/pull/90) - 2026-02-27

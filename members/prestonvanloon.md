@@ -35,6 +35,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Hdiff restart support](https://github.com/OffchainLabs/prysm/pull/16389) - 2026-03-24
 * [Review] [Review on: Hdiff restart support](https://github.com/OffchainLabs/prysm/pull/16389#pullrequestreview-3999506402) - 2026-03-24
 * [Commit] [Hdiff restart support (#16389)](https://github.com/OffchainLabs/prysm/commit/bfbca75862d3eb7e144e15734513623d8bfe6ee4) - 2026-03-24
+* [Review] [Review on: Replace Kill with graceful stop in e2e ](https://github.com/OffchainLabs/prysm/pull/16578#pullrequestreview-4009693352) - 2026-03-25
+* [Pull Request] [Hdiff: save hot states at tree boundaries](https://github.com/OffchainLabs/prysm/pull/16589) - 2026-03-25
 ## Q4 2025
 
 

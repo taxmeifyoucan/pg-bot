@@ -20,6 +20,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: Update ZisK to `0.16.0`](https://github.com/eth-act/ere/pull/296#pullrequestreview-3961030521) - 2026-03-17
 * [Review] [Review on: Propagate `ziskos` features in `ere-platform-zisk`](https://github.com/eth-act/ere/pull/310#pullrequestreview-3975927082) - 2026-03-19
 * [Review] [Review on: Bump workspace version to `0.5.0`](https://github.com/eth-act/ere/pull/309#pullrequestreview-3975650310) - 2026-03-19
+* [Review] [Review on: Update ZisK to `v0.16.1`](https://github.com/eth-act/ere/pull/312#pullrequestreview-4006006002) - 2026-03-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [fix(bal): fix populated account if pre-state was none](https://github.com/bluealloy/revm/pull/3357) - 2026-01-27
 
@@ -36,6 +37,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [fix witness generation (#265)](https://github.com/eth-act/zkevm-benchmark-workload/commit/63da9dde9b284dc4845cf7128c3f0d7c53d21654) - 2026-03-14
 * [Review] [Review on: Pin the `witness-generator-cli` builder image to `rust:1.91-bookworm`](https://github.com/eth-act/zkevm-benchmark-workload/pull/266#pullrequestreview-3974686431) - 2026-03-19
 * [Pull Request] [Update ere and ere-guests](https://github.com/eth-act/zkevm-benchmark-workload/pull/267) - 2026-03-24
+* [Pull Request] [Adjust for new benchmarkoor output](https://github.com/eth-act/zkevm-benchmark-workload/pull/268) - 2026-03-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(specs): delay get_code calls in CALL-like opcodes after gas charging and stack-depth checks](https://github.com/ethereum/execution-specs/pull/2473) - 2026-03-10
 * [Pull Request] [feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472) - 2026-03-10
@@ -69,6 +71,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(zkevm): add invalid execution witness test support](https://github.com/ethereum/execution-specs/pull/2533#pullrequestreview-3977073047) - 2026-03-19
 * [Pull Request] [feat(zkevm): add tests for execution witness with mutated bytecodes and headers](https://github.com/ethereum/execution-specs/pull/2549) - 2026-03-24
 * [Review] [Review on: feat(zkevm): add tests for execution witness with mutated bytecodes and headers](https://github.com/ethereum/execution-specs/pull/2549#pullrequestreview-3998674838) - 2026-03-24
+* [Issue] [Stateless block executor behavior on block execution failure](https://github.com/ethereum/execution-specs/issues/2558) - 2026-03-25
 ## Q4 2025
 
 

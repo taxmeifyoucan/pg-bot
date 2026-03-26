@@ -45,6 +45,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Refactor sync-supported-chains workflow and add sync smoke test CI check](https://github.com/NethermindEth/nethermind/pull/10898) - 2026-03-20
 * [Commit] [fix: raise snap response limits to prevent SnapSync regression (#10904)](https://github.com/NethermindEth/nethermind/commit/ba117e5b8fb05ea1f3583ef514c58bd82ccc5cb3) - 2026-03-20
 * [Pull Request] [fix: bounded scan for stale canonical markers after reorg](https://github.com/NethermindEth/nethermind/pull/10936) - 2026-03-24
+* [Pull Request] [perf: add cross-block storage and state caches with write-through](https://github.com/NethermindEth/nethermind/pull/10948) - 2026-03-25
+* [Review] [Review on: ci: replace sync-smoke-test with tiered sync CI strategy](https://github.com/NethermindEth/nethermind/pull/10932#pullrequestreview-4006789489) - 2026-03-25
+* [Pull Request] [perf: enable main thread to populate PreBlockCaches on miss](https://github.com/NethermindEth/nethermind/pull/10947) - 2026-03-25
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Fix/stateful repricing mode](https://github.com/NethermindEth/gas-benchmarks/pull/131) - 2026-03-13
 * [Commit] [Fix/stateful repricing mode (#131)](https://github.com/NethermindEth/gas-benchmarks/commit/e447c0bc17abd422b59ee4db8a488f2dce6fa10c) - 2026-03-13

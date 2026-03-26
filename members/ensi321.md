@@ -35,6 +35,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: generalize NetworkProcessor awaiting-block mechanism for all gossip types](https://github.com/ChainSafe/lodestar/pull/9059#pullrequestreview-3984426340) - 2026-03-20
 * [Commit] [feat: add gloas execution payload envelope import pipeline (#8962)](https://github.com/ChainSafe/lodestar/commit/70938e1eecf87a793e8ac2f4cc0689f2047291e7) - 2026-03-20
 * [Pull Request] [feat: unknown payload sync for incoming blocks](https://github.com/ChainSafe/lodestar/pull/9102) - 2026-03-24
+* [Commit] [feat: add payload envelope reqresp (#9050)](https://github.com/ChainSafe/lodestar/commit/b10dfaca8dbdcfa25e0a3173f9096ce48fd9b077) - 2026-03-25
 ## Q4 2025
 
 

@@ -72,6 +72,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [build, cmd/keeper: add "womir" target](https://github.com/ethereum/go-ethereum/pull/34079) - 2026-03-23
 * [Pull Request] [.github/workflows: add freebsd test github action](https://github.com/ethereum/go-ethereum/pull/34078) - 2026-03-23
 * [Review] [Review on: core/rawdb: parallel pruning of txindex](https://github.com/ethereum/go-ethereum/pull/34054#pullrequestreview-4000098095) - 2026-03-24
+* [Pull Request] [cmd/keeper, core, eth/catalyst: add block validation in keeper](https://github.com/ethereum/go-ethereum/pull/34087) - 2026-03-25
+* [Review] [Review on: core/tracing: fix NonceChangeAuthorization comment](https://github.com/ethereum/go-ethereum/pull/34085#pullrequestreview-4004791018) - 2026-03-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7864: encode offset as big endian](https://github.com/ethereum/EIPs/pull/11389) - 2026-03-09
 ## Q4 2025

@@ -61,6 +61,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Add Engine API IPC support (new engine API)](https://github.com/Consensys/teku/pull/10510#pullrequestreview-3988540767) - 2026-03-22
 * [Review] [Review on: updated ptc duties description](https://github.com/Consensys/teku/pull/10525#pullrequestreview-4001985477) - 2026-03-24
 * [Issue] [EIP-8045: Exclude slashed validators from all duties](https://github.com/Consensys/teku/issues/10526) - 2026-03-24
+* [Pull Request] [Fix OkHttp readTimeout not being overridden for per-request Engine API timeouts](https://github.com/Consensys/teku/pull/10532) - 2026-03-25
+* [Issue] [Engine API requests fail with read timeout when only callTimeout is overridden](https://github.com/Consensys/teku/issues/10531) - 2026-03-25
+* [Commit] [Fix OkHttp readTimeout not being overridden for per-request Engine API timeouts (#10532)](https://github.com/Consensys/teku/commit/3ed652760430dbf61ec7fbb7597e991225155289) - 2026-03-25
 ## Q4 2025
 
 

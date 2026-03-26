@@ -43,6 +43,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(ci): cache mypy results in the static analysis job](https://github.com/ethereum/execution-specs/pull/2546#pullrequestreview-3998678654) - 2026-03-24
 * [Review] [Review on: fix(ci): remove stale client Docker images before benchmark genesis build](https://github.com/ethereum/execution-specs/pull/2544#pullrequestreview-3998006204) - 2026-03-24
 * [Review] [Review on: fix(ci): separate Hive client build from dev mode startup; increase timeout](https://github.com/ethereum/execution-specs/pull/2545#pullrequestreview-3998065361) - 2026-03-24
+* [Review] [Review on: feat(test-benchmark): support repricing marker for stateful benchmark](https://github.com/ethereum/execution-specs/pull/2430#pullrequestreview-4005552497) - 2026-03-25
+* [Issue] [Meta: Archive `ethereum/tests` and `ethereum/legacytests`](https://github.com/ethereum/execution-specs/issues/2556) - 2026-03-25
+* [Commit] [feat(test-fill): add --post-verifications flag to capture fill-time checks (#2552)](https://github.com/ethereum/execution-specs/commit/09583602ae3dc52852043e9bf3e1ee6f5a33970c) - 2026-03-25
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 

@@ -104,3 +104,16 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: batch-stark: more efficient prover](https://github.com/Plonky3/Plonky3/pull/1470#pullrequestreview-3997796060) - 2026-03-24
 * [Commit] [batch-stark: more efficient prover (#1470)](https://github.com/Plonky3/Plonky3/commit/b482e1be5f6d2e0917c5ecea3009335bbfd94e42) - 2026-03-24
 * [Commit] [uni stark: rm useless `check_constraints.rs` file (#1471)](https://github.com/Plonky3/Plonky3/commit/79bc6852cf5762920e37520e3439a73fc30d9beb) - 2026-03-24
+* [Pull Request] [monty-31: improve `monty_reduce_u128` speed](https://github.com/Plonky3/Plonky3/pull/1483) - 2026-03-25
+* [Review] [Review on: monty-31: improve `monty_reduce_u128` speed](https://github.com/Plonky3/Plonky3/pull/1483#pullrequestreview-4010339634) - 2026-03-25
+* [Review] [Review on: monolith: implement Monolith for Mersenne31 and Goldilocks](https://github.com/Plonky3/Plonky3/pull/1478#pullrequestreview-4004521933) - 2026-03-25
+* [Review] [Review on: improved poseidon1 air (Karatsuba + Sparse partial rounds)](https://github.com/Plonky3/Plonky3/pull/1480#pullrequestreview-4007918759) - 2026-03-25
+* [Pull Request] [batch stark: create a verifier module](https://github.com/Plonky3/Plonky3/pull/1481) - 2026-03-25
+* [Review] [Review on: chore: visibility change for BatchTranscript](https://github.com/Plonky3/Plonky3/pull/1479#pullrequestreview-4008557732) - 2026-03-25
+* [Review] [Review on: whir: integration of all the required primitives](https://github.com/Plonky3/Plonky3/pull/1477#pullrequestreview-4007438928) - 2026-03-25
+* [Review] [Review on: refactor(air): split air.rs into multiple modules](https://github.com/Plonky3/Plonky3/pull/1466#pullrequestreview-4005711287) - 2026-03-25
+* [Review] [Review on: perf(batch-stark): borrow lookups/public_values in prover](https://github.com/Plonky3/Plonky3/pull/1474#pullrequestreview-4004518730) - 2026-03-25
+* [Review] [Review on: batch stark: separate Fiat Shamir transcript](https://github.com/Plonky3/Plonky3/pull/1475#pullrequestreview-4004249351) - 2026-03-25
+* [Commit] [batch stark: create a verifier module (#1481)](https://github.com/Plonky3/Plonky3/commit/6c6cde288ddb07ffe49e25254ad0521c41147d75) - 2026-03-25
+* [Commit] [batch stark: separate Fiat Shamir transcript (#1475)](https://github.com/Plonky3/Plonky3/commit/3696f02675aed3fbc0dc7973d496f599aadb1048) - 2026-03-25
+* [Commit] [field: implement packed / packed division (#1457)](https://github.com/Plonky3/Plonky3/commit/bf5f80080cf5e4a8f51cbbd6ca962bd6f502abfe) - 2026-03-25

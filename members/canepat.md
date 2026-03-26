@@ -41,6 +41,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [perf: fix system-under-test name in alive check](https://github.com/erigontech/rpc-tests/pull/513) - 2026-01-26
 * [Pull Request] []() - 2026-01-28
+* [Pull Request] [v2: full revamping in golang](https://github.com/erigontech/rpc-tests/pull/524) - 2026-03-25
+* [Commit] [v2: full revamping in golang (#524)](https://github.com/erigontech/rpc-tests/commit/c6bcfbd61e4757766c7af4f07c53e705e2963ce0) - 2026-03-25
 ## Q4 2025
 
 
