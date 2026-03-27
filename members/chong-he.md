@@ -20,3 +20,5 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Update `blob_delay_ms` to track data columns seen](https://github.com/sigp/lighthouse/pull/9024) - 2026-03-24
 * [Review] [Review on: Reduce slow test runtimes to under 60s](https://github.com/sigp/lighthouse/pull/9012#pullrequestreview-4004525673) - 2026-03-25
 * [Review] [Review on: Logfmt](https://github.com/sigp/lighthouse/pull/9019#pullrequestreview-4003809680) - 2026-03-25
+* [Review] [Review on: Update `blob_delay_ms` to track data columns seen](https://github.com/sigp/lighthouse/pull/9024#pullrequestreview-4013020615) - 2026-03-26
+* [Review] [Review on: Release v8.1.3](https://github.com/sigp/lighthouse/pull/9034#pullrequestreview-4011046582) - 2026-03-26

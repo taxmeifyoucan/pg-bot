@@ -56,6 +56,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: avoid falsy zero check in indexed attestation bounds validation](https://github.com/ChainSafe/lodestar/pull/9089#pullrequestreview-3993868837) - 2026-03-23
 * [Review] [Review on: chore: clean up UnknownBlockSync](https://github.com/ChainSafe/lodestar/pull/9069#pullrequestreview-3991997936) - 2026-03-23
 * [Issue] [Investigate adding SerializedCache in ByRange](https://github.com/ChainSafe/lodestar/issues/9110) - 2026-03-25
+* [Review] [Review on: feat: enhance NetworkProcessor for gloas](https://github.com/ChainSafe/lodestar/pull/9025#pullrequestreview-4016968722) - 2026-03-26
+* [Review] [Review on: fix: only create QUIC clients for configured address families](https://github.com/ChainSafe/lodestar/pull/9101#pullrequestreview-4016937695) - 2026-03-26
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: merge blst-z](https://github.com/ChainSafe/lodestar-z/pull/237) - 2026-03-12
 * [Review] [Review on: feat(fuzz): add AFL++ fuzz testing for SSZ deserialization](https://github.com/ChainSafe/lodestar-z/pull/228#pullrequestreview-3933528390) - 2026-03-12
@@ -87,6 +89,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: remove stale TODOs in block processing](https://github.com/ChainSafe/lodestar-z/pull/268#pullrequestreview-4007216811) - 2026-03-25
 * [Review] [Review on: test(cache): add unit tests for SlashingsCache](https://github.com/ChainSafe/lodestar-z/pull/257#pullrequestreview-4007207369) - 2026-03-25
 * [Review] [Review on: chore: remove stale TODO in merkleize test](https://github.com/ChainSafe/lodestar-z/pull/256#pullrequestreview-4007200352) - 2026-03-25
+* [Review] [Review on: test(stf): add unit tests for isValidBlsToExecutionChange](https://github.com/ChainSafe/lodestar-z/pull/271#pullrequestreview-4014249514) - 2026-03-26
 ## Q4 2025
 
 

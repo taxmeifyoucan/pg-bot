@@ -68,6 +68,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356) - 2026-03-02
 
 * [Pull Request] [Update EIP-8045: Exclude slashed validators from all duties](https://github.com/ethereum/EIPs/pull/11443) - 2026-03-24
+* [Pull Request] [Update EIP-7773: Add Networking EIPs section](https://github.com/ethereum/EIPs/pull/11452) - 2026-03-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Update besu repo reference to besu-eth/besu](https://github.com/ethereum/execution-specs/pull/2488#pullrequestreview-3935580700) - 2026-03-12
 
@@ -87,6 +88,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [fix: add missing ePBS values to /eth/v1/config/spec](https://github.com/OffchainLabs/prysm/pull/16557) - 2026-03-19
 * [Commit] [Include commit hash in /eth/v1/node/version (#16541)](https://github.com/OffchainLabs/prysm/commit/6430e27257b0876c886683291d57869007a3a03c) - 2026-03-19
+* [Pull Request] [Truncate commit hash to 7 chars in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16592) - 2026-03-26
+* [Commit] [Truncate commit hash to 7 chars in /eth/v1/node/version (#16592)](https://github.com/OffchainLabs/prysm/commit/3e61778d382234a793960eef52a5d28c103591bd) - 2026-03-26
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/status-im/nimbus-eth1/pull/4045) - 2026-03-18
 * [Commit] [fix: update kurtosis apt source to sdk.kurtosis.com (#4045)](https://github.com/status-im/nimbus-eth1/commit/2e139eabeb7f9c6311deef69cda906322b6b39a2) - 2026-03-18

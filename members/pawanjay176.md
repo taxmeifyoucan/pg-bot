@@ -24,6 +24,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Unknown block for envelope](https://github.com/sigp/lighthouse/pull/8992#pullrequestreview-3956843835) - 2026-03-16
 * [Review] [Review on: Gloas: envelope peer penalties and REJECT/IGNORE mapping](https://github.com/sigp/lighthouse/pull/8981#pullrequestreview-3957012866) - 2026-03-16
 * [Review] [Review on:   fix(network): set ENR nfd to zero bytes when next fork is unknown](https://github.com/sigp/lighthouse/pull/9009#pullrequestreview-3993702420) - 2026-03-23
+* [Review] [Review on: Release v8.1.3](https://github.com/sigp/lighthouse/pull/9034#pullrequestreview-4011049432) - 2026-03-26
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Issue] [Use getBlobs info to estimate private blobs](https://github.com/ethpandaops/lab/issues/374) - 2026-01-10
 ## Q4 2025

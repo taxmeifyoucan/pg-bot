@@ -20,6 +20,11 @@ Team: Grandine
 * [Review] [Review on: Link `cc` to `clang` in Cross.toml](https://github.com/grandinetech/grandine/pull/641#pullrequestreview-3999067033) - 2026-03-24
 * [Review] [Review on: Fix finalized validator loading from database for old databases.](https://github.com/grandinetech/grandine/pull/643#pullrequestreview-4007278429) - 2026-03-25
 * [Review] [Review on: Use `tokio::time::Instant` in ticks() to fix flaky clock tests](https://github.com/grandinetech/grandine/pull/642#pullrequestreview-4007267302) - 2026-03-25
+* [Pull Request] [Avoid initiating DB transactions for empty batches](https://github.com/grandinetech/grandine/pull/648) - 2026-03-26
+* [Review] [Review on: Store finalized validators to disk only when state is stored](https://github.com/grandinetech/grandine/pull/647#pullrequestreview-4015577934) - 2026-03-26
+* [Review] [Review on: Fixed nethermind reference assemblies installation](https://github.com/grandinetech/grandine/pull/645#pullrequestreview-4013499130) - 2026-03-26
+* [Review] [Review on: Updated dependencies](https://github.com/grandinetech/grandine/pull/644#pullrequestreview-4013150594) - 2026-03-26
+* [Commit] [Avoid initiating DB transactions for empty batches](https://github.com/grandinetech/grandine/commit/91d83ff672b3cdb8997b3b63893092533b454243) - 2026-03-26
 ## Q4 2025
 
 

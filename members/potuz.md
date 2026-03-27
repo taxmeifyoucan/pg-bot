@@ -66,6 +66,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Ignore blocks and data columns based on old blocks.](https://github.com/OffchainLabs/prysm/pull/16579) - 2026-03-24
 * [Review] [Review on: Gloas Init sync](https://github.com/OffchainLabs/prysm/pull/16528#pullrequestreview-4007300007) - 2026-03-25
 * [Review] [Review on: Ignore blocks and data columns based on old blocks.](https://github.com/OffchainLabs/prysm/pull/16579#pullrequestreview-4006426642) - 2026-03-25
+
+* [Review] [Review on: Fix empty blob KZG commitments in self-build execution payload bids](https://github.com/OffchainLabs/prysm/pull/16595#pullrequestreview-4018156434) - 2026-03-27
+* [Review] [Review on: fix: add missing ePBS values to /eth/v1/config/spec](https://github.com/OffchainLabs/prysm/pull/16557#pullrequestreview-4013198142) - 2026-03-26
+* [Commit] [Fix replay blocks (#16482)](https://github.com/OffchainLabs/prysm/commit/2898a5e8a2424f7d0b8a4e39755286a08669b51d) - 2026-03-26
+[OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
+* [Pull Request] [fix: remove AVX dependency from SSE x1 implementation](https://github.com/OffchainLabs/hashtree/pull/64) - 2026-03-26
+* [Review] [Review on: Update cargo, nim and makefile version to 0.2.4](https://github.com/OffchainLabs/hashtree/pull/62#pullrequestreview-4016606317) - 2026-03-26
+* [Review] [Review on: Fix Apple clang bugs (incorrect SHA results on macOS 26.4)](https://github.com/OffchainLabs/hashtree/pull/61#pullrequestreview-4016475901) - 2026-03-26
+* [Commit] [fix: remove AVX dependency from SSE x1 implementation (#64)](https://github.com/OffchainLabs/hashtree/commit/d4fa8b91651fd12d4a0f7099b03c706565b0efec) - 2026-03-26
 ## Q4 2025
 
 

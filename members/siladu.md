@@ -43,6 +43,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Optimize MULMOD worst cases](https://github.com/besu-eth/besu/pull/10088#pullrequestreview-3996939839) - 2026-03-24
 * [Pull Request] [feat: skeleton for EVM v2 with long[] stack and --Xevm-go-fast toggle](https://github.com/besu-eth/besu/pull/10105) - 2026-03-25
 * [Review] [Review on: Optimize MULMOD worst cases](https://github.com/besu-eth/besu/pull/10088#pullrequestreview-4004464021) - 2026-03-25
+* [Review] [Review on: feat: skeleton for EVM v2 with long[] stack and --Xevm-go-fast toggle](https://github.com/besu-eth/besu/pull/10105#pullrequestreview-4012489404) - 2026-03-26
+* [Pull Request] [Flag for EVM v2 --Xevm-go-fast / --Xevm-v2](https://github.com/besu-eth/besu/pull/10109) - 2026-03-26
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Review] [Review on: chore(ci): update runner types and trigger](https://github.com/besu-eth/besu-stateless/pull/91#pullrequestreview-3951053016) - 2026-03-16
 

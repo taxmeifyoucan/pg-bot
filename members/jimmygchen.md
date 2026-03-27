@@ -27,6 +27,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Gloas: send early payload envelopes to reprocess queue](https://github.com/sigp/lighthouse/issues/8922) - 2026-03-02
 * [Issue] [Gloas: envelope peer penalties and REJECT/IGNORE mapping](https://github.com/sigp/lighthouse/issues/8949) - 2026-03-09
 * [Issue] [Gloas: envelope deduplication and status tracking](https://github.com/sigp/lighthouse/issues/8948) - 2026-03-09
+* [Review] [Review on: Merge v8.1.3 to unstable](https://github.com/sigp/lighthouse/pull/9035#pullrequestreview-4017985156) - 2026-03-26
 ## Q4 2025
 
 

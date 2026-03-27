@@ -189,6 +189,25 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r33] version 3.3.10](https://github.com/erigontech/erigon/pull/20144) - 2026-03-25
 * [Issue] [Follow-up for standalone Caplin](https://github.com/erigontech/erigon/issues/20151) - 2026-03-25
 * [Commit] [ci: fix hashFiles in composite action output expression (#20153)](https://github.com/erigontech/erigon/commit/be8ebb71484eef17bdd089addec19128bb75e2a2) - 2026-03-25
+* [Pull Request] [execution/vm: EVM interpreter optimizations](https://github.com/erigontech/erigon/pull/20183) - 2026-03-26
+* [Review] [Review on: ci: use App token in In-case-of-failure rollback job](https://github.com/erigontech/erigon/pull/20162#pullrequestreview-4012377789) - 2026-03-26
+* [Review] [Review on: rpc: fix debug_getModifiedAccountsByNumber/Hash to match Geth semantics](https://github.com/erigontech/erigon/pull/20043#pullrequestreview-4013256620) - 2026-03-26
+* [Review] [Review on: commitment: refactor fold() into smaller methods](https://github.com/erigontech/erigon/pull/20152#pullrequestreview-4012375068) - 2026-03-26
+* [Review] [Review on: update stateRoot according Geth and re-enable commented tests](https://github.com/erigontech/erigon/pull/20062#pullrequestreview-4014091233) - 2026-03-26
+* [Review] [Review on: engineapi: guard nil requests in Electra getPayload](https://github.com/erigontech/erigon/pull/20133#pullrequestreview-4012303049) - 2026-03-26
+* [Review] [Review on: Set default for cleanup-space to true](https://github.com/erigontech/erigon/pull/20178#pullrequestreview-4014078961) - 2026-03-26
+* [Pull Request] [cl: wrap ErrIgnore in attestation propagation range check](https://github.com/erigontech/erigon/pull/20179) - 2026-03-26
+* [Review] [Review on: Enable cleanup-space in Sonar workflow](https://github.com/erigontech/erigon/pull/20174#pullrequestreview-4013388400) - 2026-03-26
+* [Review] [Review on: execution/vm: fix gas tracing underflow with EIP-8037 state gas](https://github.com/erigontech/erigon/pull/20128#pullrequestreview-4012253503) - 2026-03-26
+* [Pull Request] [cl: wire EIP-7843 slot number for Glamsterdam](https://github.com/erigontech/erigon/pull/20175) - 2026-03-26
+* [Review] [Review on: test: fix flaky CorrectSwitchForConcurrent by removing shared rand source](https://github.com/erigontech/erigon/pull/20138#pullrequestreview-4012314552) - 2026-03-26
+* [Review] [Review on: [r3.4] ci: use App token for build-release and In-case-of-failure rollback](https://github.com/erigontech/erigon/pull/20165#pullrequestreview-4012385337) - 2026-03-26
+* [Review] [Review on: [r3.3] ci: use App token for build-release and In-case-of-failure rollback](https://github.com/erigontech/erigon/pull/20164#pullrequestreview-4012380057) - 2026-03-26
+* [Issue] [Implement EIP-8141: Frame Transaction](https://github.com/erigontech/erigon/issues/20184) - 2026-03-26
+* [Issue] [execution/state: avoid interface boxing allocations in journal](https://github.com/erigontech/erigon/issues/20186) - 2026-03-26
+* [Issue] [Invalid blocks produced on Hoodi](https://github.com/erigontech/erigon/issues/20169) - 2026-03-26
+* [Commit] [cl: wrap ErrIgnore in attestation propagation range check (#20179)](https://github.com/erigontech/erigon/commit/6516d342f601f5546d7d8e92e0003337f33e74bf) - 2026-03-26
+* [Commit] [cl: add per-peer rate limiting on P2P ReqResp handlers (#20146)](https://github.com/erigontech/erigon/commit/bfc4ce4a96a5f790799926a2eeb268ce0dc8902a) - 2026-03-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

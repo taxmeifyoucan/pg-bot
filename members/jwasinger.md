@@ -32,6 +32,8 @@ Team: Geth
 * [Review] [Review on: internal/ethapi: apply overridden header in estimate gas](https://github.com/ethereum/go-ethereum/pull/34081#pullrequestreview-4002021834) - 2026-03-24
 * [Review] [Review on: cmd/abigen: (v2) added a package-level error for event signature mismatch](https://github.com/ethereum/go-ethereum/pull/34076#pullrequestreview-3999284048) - 2026-03-24
 * [Pull Request] [miner,tests: test payload construction as part of executing the blockchain spec tests](https://github.com/ethereum/go-ethereum/pull/34089) - 2026-03-25
+* [Pull Request] [miner: set slot number when building test payload](https://github.com/ethereum/go-ethereum/pull/34094) - 2026-03-26
+* [Commit] [miner: set slot number when building test payload (#34094)](https://github.com/ethereum/go-ethereum/commit/acdd13971705c767330bdfbd4511b4d1e53580fd) - 2026-03-27
 ## Q4 2025
 
 

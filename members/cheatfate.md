@@ -15,6 +15,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [VC: Add option to publish all attestations for single slot in one call.](https://github.com/status-im/nimbus-eth2/pull/7874) - 2026-01-25
 * [Pull Request] [BN: New syncing algorithm](https://github.com/status-im/nimbus-eth2/pull/7921) - 2026-02-02
 * [Pull Request] [VC: More useful fork waiting log statement.](https://github.com/status-im/nimbus-eth2/pull/7963) - 2026-02-11
+* [Pull Request] [VC: Decrease soft timeout for block proposals.](https://github.com/status-im/nimbus-eth2/pull/8174) - 2026-03-26
 ## Q4 2025
 
 

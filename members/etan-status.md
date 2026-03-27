@@ -59,6 +59,17 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Reintroduce support to initialize Nimbus in single command](https://github.com/status-im/nimbus-eth2/pull/8134#pullrequestreview-3981767736) - 2026-03-20
 * [Pull Request] [Add metrics to track safe block](https://github.com/status-im/nimbus-eth2/pull/8141) - 2026-03-20
 * [Pull Request] [Remove weight of invalid blocks from ancestors](https://github.com/status-im/nimbus-eth2/pull/8140) - 2026-03-20
+* [Pull Request] [Allow bumps to tagged libp2p versions to be proposed by Dependabot](https://github.com/status-im/nimbus-eth2/pull/8181) - 2026-03-26
+* [Pull Request] [Pass correct block when collecting new FCR shufflings](https://github.com/status-im/nimbus-eth2/pull/8170) - 2026-03-26
+* [Pull Request] [More FCR metrics to distinguish reorg reasons](https://github.com/status-im/nimbus-eth2/pull/8171) - 2026-03-26
+
+[OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
+* [Pull Request] [Update cargo, nim and makefile version to 0.2.4](https://github.com/OffchainLabs/hashtree/pull/62) - 2026-03-26
+* [Pull Request] [Use SSE impl if AVX not available](https://github.com/OffchainLabs/hashtree/pull/63) - 2026-03-26
+* [Pull Request] [Fix Apple clang bugs (incorrect SHA results on macOS 26.4)](https://github.com/OffchainLabs/hashtree/pull/61) - 2026-03-26
+* [Review] [Review on: Fix Apple clang bugs (incorrect SHA results on macOS 26.4)](https://github.com/OffchainLabs/hashtree/pull/61#pullrequestreview-4015615615) - 2026-03-26
+* [Commit] [Update cargo, nim and makefile version to 0.2.4 (#62)](https://github.com/OffchainLabs/hashtree/commit/fbe7a781de24e454a80d4a27a97c23f794d33f6c) - 2026-03-26
+* [Commit] [Fix Apple clang bugs (incorrect SHA results on macOS 26.4) (#61)](https://github.com/OffchainLabs/hashtree/commit/b13d3abe9eeaeddb112ffd7ad83dd6513593e2c3) - 2026-03-26
 ## Q4 2025
 
 

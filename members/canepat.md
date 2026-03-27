@@ -43,6 +43,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] []() - 2026-01-28
 * [Pull Request] [v2: full revamping in golang](https://github.com/erigontech/rpc-tests/pull/524) - 2026-03-25
 * [Commit] [v2: full revamping in golang (#524)](https://github.com/erigontech/rpc-tests/commit/c6bcfbd61e4757766c7af4f07c53e705e2963ce0) - 2026-03-25
+* [Review] [Review on: integration: add missing go file](https://github.com/erigontech/rpc-tests/pull/534#pullrequestreview-4017650524) - 2026-03-26
+* [Review] [Review on: eth_simulateV1: update stateRoot](https://github.com/erigontech/rpc-tests/pull/533#pullrequestreview-4015112501) - 2026-03-26
 ## Q4 2025
 
 

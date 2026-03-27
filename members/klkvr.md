@@ -64,8 +64,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: refactor(engine): extract PayloadExecutionCache into reth-execution-cache crate](https://github.com/paradigmxyz/reth/pull/23209#pullrequestreview-4005823903) - 2026-03-25
 * [Review] [Review on: refactor: replace reth-primitives-traits with git dep to reth-core](https://github.com/paradigmxyz/reth/pull/23210#pullrequestreview-4005409726) - 2026-03-25
 * [Commit] [refactor(tests): use FCU for requesting new payloads (#23222)](https://github.com/paradigmxyz/reth/commit/a37f91e6c037d615582a384c3c987ce8aa5de90e) - 2026-03-25
+* [Pull Request] [feat: share execution cache with payload builder](https://github.com/paradigmxyz/reth/pull/23242) - 2026-03-26
+* [Commit] [feat: share execution cache with payload builder (#23242)](https://github.com/paradigmxyz/reth/commit/e3dbdbb1153848aa91acf088973815872f6b2569) - 2026-03-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521#pullrequestreview-3998404944) - 2026-03-24
+* [Review] [Review on: bench: add secp256r1 (P256) precompile benchmark](https://github.com/bluealloy/revm/pull/3525#pullrequestreview-4016078541) - 2026-03-26
 ## Q4 2025
 
 

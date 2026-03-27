@@ -20,6 +20,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Reduce memory usage of debug_trace* calls #9584](https://github.com/besu-eth/besu/pull/9938#pullrequestreview-3982059170) - 2026-03-20
 * [Review] [Review on: fix UInt256: Take result from addBack in mulSubOverflow](https://github.com/besu-eth/besu/pull/10078#pullrequestreview-3980072021) - 2026-03-20
 * [Review] [Review on: Reduce memory usage of debug_trace* calls #9584](https://github.com/besu-eth/besu/pull/9938#pullrequestreview-3990748204) - 2026-03-23
+* [Review] [Review on: Reduce tx p2p broadcast bandwidth and memory used](https://github.com/besu-eth/besu/pull/9937#pullrequestreview-4014357539) - 2026-03-26
 ## Q4 2025
 
 

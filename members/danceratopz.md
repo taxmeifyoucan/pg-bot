@@ -87,6 +87,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(ci,tooling): improve static check developer experience](https://github.com/ethereum/execution-specs/pull/2099#pullrequestreview-4005422035) - 2026-03-25
 * [Issue] [Investigate and potentially eliminate all remaining consensus test skips](https://github.com/ethereum/execution-specs/issues/2554) - 2026-03-25
 * [Issue] [Add geth evm build to CI  for `tests_pytest_py*3` tox envs](https://github.com/ethereum/execution-specs/issues/2557) - 2026-03-25
+* [Review] [Review on: chore(test-client-clis): update erigon exception mapper for EIP-8037/7928 errors](https://github.com/ethereum/execution-specs/pull/2564#pullrequestreview-4013331727) - 2026-03-26
+* [Review] [Review on: feat(test-fixture): add target opcode in output fixture](https://github.com/ethereum/execution-specs/pull/2520#pullrequestreview-4012666243) - 2026-03-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 

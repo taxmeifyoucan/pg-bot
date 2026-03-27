@@ -59,6 +59,7 @@ Team: Consensus R&D (EF)
 * [Commit] [chore(tests): Add test for exponent padding in modexp precompile (#2508)](https://github.com/ethereum/execution-specs/commit/6c68d09b2b7c1898e105fb3fdc9c4024da79faef) - 2026-03-16
 * [Review] [Review on: feat(zkevm): add invalid execution witness test support](https://github.com/ethereum/execution-specs/pull/2533#pullrequestreview-3977417847) - 2026-03-19
 * [Review] [Review on: feat(zkevm): add tests for execution witness with mutated bytecodes and headers](https://github.com/ethereum/execution-specs/pull/2549#pullrequestreview-4000791297) - 2026-03-24
+* [Pull Request] [feat: optimize `Bytecode.__mul__` and `__add__` performance ](https://github.com/ethereum/execution-specs/pull/2572) - 2026-03-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 

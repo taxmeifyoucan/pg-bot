@@ -18,6 +18,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reinstate removed `IGasPolicy` methods and apply for eip-8037 (#10897)](https://github.com/NethermindEth/nethermind/commit/84e328f2de5a4ed49a3b9eb67ae4b587f7589c53) - 2026-03-24
 * [Pull Request] [Extend `CallResult` constructor visibility](https://github.com/NethermindEth/nethermind/pull/10949) - 2026-03-25
 * [Pull Request] [New constructor](https://github.com/NethermindEth/nethermind/pull/10950) - 2026-03-25
+* [Commit] [Extend `CallResult` constructor visibility (#10949)](https://github.com/NethermindEth/nethermind/commit/707affd18a468f86475cab10bc6a299dae040774) - 2026-03-26
+* [Commit] [New constructor (#10950)](https://github.com/NethermindEth/nethermind/commit/a791dc661d055050127121b3b9c3caee3e08c6cb) - 2026-03-26
 ## Q4 2025
 
 

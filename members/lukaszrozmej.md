@@ -157,6 +157,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: refactor: Move merkleization metrics to IWorldStateScopeProvider](https://github.com/NethermindEth/nethermind/pull/10925#pullrequestreview-4005698173) - 2026-03-25
 * [Review] [Review on: Migrate TxGossipPolicy to DI using OrderedComponents](https://github.com/NethermindEth/nethermind/pull/10941#pullrequestreview-4005151286) - 2026-03-25
 * [Commit] [chore: add fix-nethtest agent skill for EF test debugging (#10903)](https://github.com/NethermindEth/nethermind/commit/a075b36ec8b379602a0230a695f8f4e62f5ae900) - 2026-03-25
+* [Pull Request] [Fix/resource leaks and add skill v2](https://github.com/NethermindEth/nethermind/pull/10958) - 2026-03-26
+* [Review] [Review on: fix: resource leak — ArrayPool, double-dispose, CTS, event handlers & Resource Leak audit skill](https://github.com/NethermindEth/nethermind/pull/10951#pullrequestreview-4012001615) - 2026-03-26
 ## Q4 2025
 
 

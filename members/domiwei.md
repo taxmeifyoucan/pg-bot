@@ -46,6 +46,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/clparams: set Gnosis Fulu fork epoch to 1714688 (#20081)](https://github.com/erigontech/erigon/commit/1ff74d39ce13a1058abc13d4eeddc24587e118cc) - 2026-03-23
 * [Review] [Review on: [r3.4] caplin: fix BlockCollector crash-loop on gap in collected blocks](https://github.com/erigontech/erigon/pull/20125#pullrequestreview-3998268850) - 2026-03-24
 * [Pull Request] [execution/vm: fix gas tracing underflow with EIP-8037 state gas](https://github.com/erigontech/erigon/pull/20128) - 2026-03-24
+* [Review] [Review on: added Caplin not nil type check to the tests](https://github.com/erigontech/erigon/pull/18278#pullrequestreview-4011680124) - 2026-03-26
+* [Review] [Review on: cl: wrap ErrIgnore in attestation propagation range check](https://github.com/erigontech/erigon/pull/20179#pullrequestreview-4014346944) - 2026-03-26
+* [Review] [Review on: cl: add per-peer rate limiting on P2P ReqResp handlers](https://github.com/erigontech/erigon/pull/20146#pullrequestreview-4011557441) - 2026-03-26
+* [Review] [Review on: fix: avoid duplicate counter creation for gossip topics](https://github.com/erigontech/erigon/pull/18749#pullrequestreview-4011600349) - 2026-03-26
+* [Commit] [execution/vm: fix gas tracing underflow with EIP-8037 state gas (#20128)](https://github.com/erigontech/erigon/commit/b206fff09c1248eb07d252606431e4472f9d6136) - 2026-03-26
 ## Q3 2025
 
 

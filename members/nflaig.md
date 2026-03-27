@@ -117,6 +117,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Serve finalized payloads by root](https://github.com/ChainSafe/lodestar/issues/9111) - 2026-03-25
 * [Issue] [Serve finalized blocks by root](https://github.com/ChainSafe/lodestar/issues/9108) - 2026-03-25
 * [Issue] [Update req/resp methods to validate `MIN_EPOCHS_FOR_BLOCK_REQUESTS`](https://github.com/ChainSafe/lodestar/issues/9107) - 2026-03-25
+* [Review] [Review on: feat: update data column sidecars for gloas](https://github.com/ChainSafe/lodestar/pull/8938#pullrequestreview-4014866131) - 2026-03-26
+* [Review] [Review on: fix: only create QUIC clients for configured address families](https://github.com/ChainSafe/lodestar/pull/9101#pullrequestreview-4016938334) - 2026-03-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15

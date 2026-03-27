@@ -23,6 +23,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: v1.41.0 release](https://github.com/ChainSafe/lodestar/pull/9038#pullrequestreview-3976896350) - 2026-03-19
 * [Commit] [chore: merge stable 1.41.0 back to unstable (#9066)](https://github.com/ChainSafe/lodestar/commit/5f2fffc2ceaedbd87e7d25a847e07da85ce48bb9) - 2026-03-19
 * [Commit] [chore: v1.41.0 release (#9038)](https://github.com/ChainSafe/lodestar/commit/13e882a3a430d6df25a408b61b24954277e1f8e8) - 2026-03-19
+* [Review] [Review on: fix: only create QUIC clients for configured address families](https://github.com/ChainSafe/lodestar/pull/9101#pullrequestreview-4016952717) - 2026-03-26
 ## Q4 2025
 
 

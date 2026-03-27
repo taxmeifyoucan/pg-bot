@@ -45,6 +45,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Check expected error in devnet reference tests, fix 7778 and 8037 bugs](https://github.com/besu-eth/besu/pull/10099) - 2026-03-24
 * [Review] [Review on: fix: Update besu-native libraries to 1.5.0](https://github.com/besu-eth/besu/pull/10096#pullrequestreview-3997455607) - 2026-03-24
 * [Review] [Review on: feat: skeleton for EVM v2 with long[] stack and --Xevm-go-fast toggle](https://github.com/besu-eth/besu/pull/10105#pullrequestreview-4007448567) - 2026-03-25
+* [Pull Request] [Fix eip 7778 & eip 8037 bugs in bal-devnet-3](https://github.com/besu-eth/besu/pull/10112) - 2026-03-26
+* [Review] [Review on: test(referencetests): validate block rejection reason against expected exception ](https://github.com/besu-eth/besu/pull/10098#pullrequestreview-4014636556) - 2026-03-26
+* [Commit] [Fix EIP-7778 and EIP-8037 bugs (#10099)](https://github.com/besu-eth/besu/commit/0b41fbef01cbcf34f71dc3ed935314e431436703) - 2026-03-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936613106) - 2026-03-12
 ## Q4 2025

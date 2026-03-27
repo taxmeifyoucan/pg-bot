@@ -13,6 +13,8 @@ Team: Grandine
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Bumped Grandine version to 2.0.2](https://github.com/grandinetech/grandine/pull/616) - 2026-02-27
+* [Pull Request] [Updated dependencies](https://github.com/grandinetech/grandine/pull/644) - 2026-03-26
+* [Commit] [Updated dependencies](https://github.com/grandinetech/grandine/commit/a623641f5c810e68db063dd8ef4458bfce525f92) - 2026-03-26
 ## Q4 2025
 
 

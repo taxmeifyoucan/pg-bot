@@ -24,6 +24,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Simplify `get_seed`](https://github.com/status-im/nimbus-eth2/pull/8151) - 2026-03-23
 * [Pull Request] [backtrace: bump to new build system](https://github.com/status-im/nimbus-eth2/pull/8165) - 2026-03-25
 * [Pull Request] [Bt](https://github.com/status-im/nimbus-eth2/pull/8164) - 2026-03-25
+* [Pull Request] [nbs: bump for lto-compiled compiler](https://github.com/status-im/nimbus-eth2/pull/8175) - 2026-03-26
+* [Pull Request] [set lto based on compiler, not platform](https://github.com/status-im/nimbus-eth2/pull/8172) - 2026-03-26
+* [Pull Request] [win: enable colors in log](https://github.com/status-im/nimbus-eth2/pull/8173) - 2026-03-26
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [web3: bump for native bidir support](https://github.com/status-im/nimbus-eth1/pull/3974) - 2026-02-11
 * [Pull Request] [eth2: bump](https://github.com/status-im/nimbus-eth1/pull/3991) - 2026-02-18
@@ -49,6 +52,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [server_api: use core_apps directly instead of LedgerRef (#4049)](https://github.com/status-im/nimbus-eth1/commit/b20868ebd75e3e8475fcb94d5513b4b033a4c07b) - 2026-03-20
 * [Commit] [eth2: bump (#4055)](https://github.com/status-im/nimbus-eth1/commit/becb5a78efe225d4083419bdbb806aeb562c6846) - 2026-03-25
 * [Pull Request] [backtrace: bump to new build](https://github.com/status-im/nimbus-eth1/pull/4064) - 2026-03-25
+* [Pull Request] [n-b-s: bump for lto-compiled compiler](https://github.com/status-im/nimbus-eth1/pull/4072) - 2026-03-26
+* [Pull Request] [lto: set based on compiler](https://github.com/status-im/nimbus-eth1/pull/4071) - 2026-03-26
 ## Q4 2025
 
 

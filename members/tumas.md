@@ -61,6 +61,10 @@ Team: Grandine
 * [Pull Request] [Fix finalized validator loading from database for old databases.](https://github.com/grandinetech/grandine/pull/643) - 2026-03-25
 * [Commit] [Fix finalized validator loading from database for old databases.](https://github.com/grandinetech/grandine/commit/0962e7801965cedf8e38213226ed2aec9d30727e) - 2026-03-25
 * [Commit] [Use `tokio::time::Instant` in ticks() to fix flaky clock tests](https://github.com/grandinetech/grandine/commit/66fd661ebca9c0da5e8c8ca337a3965f34b310e8) - 2026-03-25
+* [Review] [Review on: Avoid initiating DB transactions for empty batches](https://github.com/grandinetech/grandine/pull/648#pullrequestreview-4015702495) - 2026-03-26
+* [Review] [Review on: Check validator indices before removing keys](https://github.com/grandinetech/grandine/pull/646#pullrequestreview-4015405160) - 2026-03-26
+* [Pull Request] [Store finalized validators to disk only when state is stored](https://github.com/grandinetech/grandine/pull/647) - 2026-03-26
+* [Commit] [Store finalized validators to disk only when state is stored](https://github.com/grandinetech/grandine/commit/841fc5f79bb8a9cbcc382d968d84056f78429b7c) - 2026-03-26
 ## Q4 2025
 
 

@@ -57,6 +57,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Migrate TxGossipPolicy to DI using OrderedComponents](https://github.com/NethermindEth/nethermind/pull/10941#pullrequestreview-4004149135) - 2026-03-25
 * [Commit] [perf: add fast MVCC snapshots for MemDb in FlatDb tests (#10792)](https://github.com/NethermindEth/nethermind/commit/e14c4f76774b8950f7b8b597588b644bb22d6169) - 2026-03-26
 * [Commit] [Migrate TxGossipPolicy to DI using OrderedComponents (#10941)](https://github.com/NethermindEth/nethermind/commit/a429d12ad1f5f05b9718d38d7053c66dcc00f43f) - 2026-03-25
+* [Pull Request] [refactor: extract BalStore from ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/10957) - 2026-03-26
+* [Review] [Review on: refactor: extract BalStore from ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/10957#pullrequestreview-4013625199) - 2026-03-26
+* [Review] [Review on: Add opcode tracing plugin](https://github.com/NethermindEth/nethermind/pull/10038#pullrequestreview-4013216747) - 2026-03-26
+* [Pull Request] [perf: per-column write buffer caps in WriteBufferAdjuster](https://github.com/NethermindEth/nethermind/pull/10955) - 2026-03-26
 ## Q4 2025
 
 

@@ -37,6 +37,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Hdiff restart support (#16389)](https://github.com/OffchainLabs/prysm/commit/bfbca75862d3eb7e144e15734513623d8bfe6ee4) - 2026-03-24
 * [Review] [Review on: Replace Kill with graceful stop in e2e ](https://github.com/OffchainLabs/prysm/pull/16578#pullrequestreview-4009693352) - 2026-03-25
 * [Pull Request] [Hdiff: save hot states at tree boundaries](https://github.com/OffchainLabs/prysm/pull/16589) - 2026-03-25
+* [Review] [Review on: Fix empty blob KZG commitments in self-build execution payload bids](https://github.com/OffchainLabs/prysm/pull/16595#pullrequestreview-4018137090) - 2026-03-27
+* [Review] [Review on: Introduce a new cache that keeps all seen aggregated attestations for at least one epoch](https://github.com/OffchainLabs/prysm/pull/16370#pullrequestreview-4015690985) - 2026-03-26
+* [Review] [Review on: SSZ-QL: Hybrid merkle proof generation for `BeaconState`](https://github.com/OffchainLabs/prysm/pull/16295#pullrequestreview-4017021293) - 2026-03-26
 ## Q4 2025
 
 

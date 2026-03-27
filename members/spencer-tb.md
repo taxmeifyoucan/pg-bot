@@ -46,6 +46,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-benchmark): support repricing marker for stateful benchmark](https://github.com/ethereum/execution-specs/pull/2430#pullrequestreview-4005552497) - 2026-03-25
 * [Issue] [Meta: Archive `ethereum/tests` and `ethereum/legacytests`](https://github.com/ethereum/execution-specs/issues/2556) - 2026-03-25
 * [Commit] [feat(test-fill): add --post-verifications flag to capture fill-time checks (#2552)](https://github.com/ethereum/execution-specs/commit/09583602ae3dc52852043e9bf3e1ee6f5a33970c) - 2026-03-25
+* [Review] [Review on: chore(test-client-clis): update BAL exceptions for nethermind](https://github.com/ethereum/execution-specs/pull/2550#pullrequestreview-4013820583) - 2026-03-26
+* [Review] [Review on: fix(test-tests,ci): fix flakiness due to mutated `EnvironmentDefaults.gas_limit` with xdist](https://github.com/ethereum/execution-specs/pull/2566#pullrequestreview-4014428534) - 2026-03-26
+* [Pull Request] [chore(test-client-clis): update erigon exception mapper for EIP-8037/7928 errors](https://github.com/ethereum/execution-specs/pull/2564) - 2026-03-26
+* [Pull Request] [chore(test-client-clis): update besu exception mapper](https://github.com/ethereum/execution-specs/pull/2565) - 2026-03-26
+* [Commit] [chore(test-client-clis): update erigon exception mapper (#2564)](https://github.com/ethereum/execution-specs/commit/f2b2039b3458a8cb51841af9053a2ce24747c1b3) - 2026-03-26
+* [Commit] [chore(test-client-clis): update besu exception mapper (#2565)](https://github.com/ethereum/execution-specs/commit/80177d2eeb58d24e8a6a1ecc299d3f633ba7af7f) - 2026-03-26
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 
@@ -60,6 +66,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-7773: SFI all glamsterdam EIPs included in a devnet](https://github.com/ethereum/EIPs/pull/11399) - 2026-03-12
 * [Pull Request] [Update EIP-8037: clarify regular gas must be charged before state gas](https://github.com/ethereum/EIPs/pull/11421) - 2026-03-18
 * [Commit] [Update EIP-8037: clarify regular gas must be charged before state gas](https://github.com/ethereum/EIPs/commit/48566ad265a5c2bb981e520a9b8e17ed9921b8a8) - 2026-03-18
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [execution: fix `bal-devnet-3` hive failures](https://github.com/erigontech/erigon/pull/20181) - 2026-03-26
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [fix: check regular and state gas dimensions independently](https://github.com/besu-eth/besu/pull/10114) - 2026-03-26
 ## Q4 2025
 
 

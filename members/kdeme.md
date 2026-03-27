@@ -33,6 +33,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update to nph v0.7.0 for portal and verified_proxy formatting](https://github.com/status-im/nimbus-eth1/pull/4066) - 2026-03-25
 * [Commit] [Enable EEST tests stateless + skip failures (#4065)](https://github.com/status-im/nimbus-eth1/commit/603aa525f32db1d61883490f02fb27d4c3096bfd) - 2026-03-25
 * [Commit] [Update to nph v0.7.0 for portal and verified_proxy formatting (#4066)](https://github.com/status-im/nimbus-eth1/commit/db694d2d1acc45df99ef295ac656d5417b5a6198) - 2026-03-25
+* [Review] [Review on: enable blockTag with hash in getReceipts](https://github.com/status-im/nimbus-eth1/pull/4074#pullrequestreview-4017578017) - 2026-03-26
+* [Review] [Review on: Feat:Fix Debug_* RPC endpoints](https://github.com/status-im/nimbus-eth1/pull/4069#pullrequestreview-4017574395) - 2026-03-26
+* [Pull Request] [Rework EEST testing to test per individual test case in file](https://github.com/status-im/nimbus-eth1/pull/4073) - 2026-03-26
+* [Commit] [Remove unneeded extra builds from eest_*_test targets (#4070)](https://github.com/status-im/nimbus-eth1/commit/7be15d7842217fa37ea3087ed9e319081618f008) - 2026-03-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3 and related changes](https://github.com/status-im/nimbus-eth2/pull/7876) - 2026-01-23
 * [Pull Request] []() - 2026-01-27

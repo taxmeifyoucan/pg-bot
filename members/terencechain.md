@@ -98,6 +98,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Gloas Init sync](https://github.com/OffchainLabs/prysm/pull/16528#pullrequestreview-4007583788) - 2026-03-25
 * [Review] [Review on: fix: set default scoring params for proposer preferences](https://github.com/OffchainLabs/prysm/pull/16585#pullrequestreview-4007669597) - 2026-03-25
 * [Issue] [validator: proposer preferences should be broadcast in the epoch prior to Gloas fork](https://github.com/OffchainLabs/prysm/issues/16587) - 2026-03-25
+* [Pull Request] [Fix empty blob KZG commitments in self-build execution payload bids](https://github.com/OffchainLabs/prysm/pull/16595) - 2026-03-26
+* [Review] [Review on: Pre fork proposer preferences](https://github.com/OffchainLabs/prysm/pull/16588#pullrequestreview-4017077607) - 2026-03-26
 ## Q4 2025
 
 

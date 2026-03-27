@@ -80,6 +80,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update dependency eth-hash to v0.8.0](https://github.com/ethereum/consensus-specs/pull/5042#pullrequestreview-4008929380) - 2026-03-25
 * [Review] [Review on: Update dependency eth-utils to v6.0.0](https://github.com/ethereum/consensus-specs/pull/5041#pullrequestreview-4008925586) - 2026-03-25
 * [Review] [Review on: Fix bug in Fork Choice compliance tests is_early_message](https://github.com/ethereum/consensus-specs/pull/5040#pullrequestreview-4007864403) - 2026-03-25
+* [Pull Request] [Exclude the version file from testing label](https://github.com/ethereum/consensus-specs/pull/5048) - 2026-03-27
+* [Pull Request] [Add executable gossip validation functions for bellatrix](https://github.com/ethereum/consensus-specs/pull/5047) - 2026-03-26
+* [Pull Request] [Speed up `compute_ptc`](https://github.com/ethereum/consensus-specs/pull/5044) - 2026-03-26
+* [Pull Request] [Increase `compute_shuffled_index` cache from 96 to 65536 entries](https://github.com/ethereum/consensus-specs/pull/5046) - 2026-03-26
+* [Commit] [Speed up `compute_ptc` (#5044)](https://github.com/ethereum/consensus-specs/commit/2e55491d98828b0741a535064860942c9045ab24) - 2026-03-26
+* [Commit] [Increase `compute_shuffled_index` cache from 96 to 65536 entries (#5046)](https://github.com/ethereum/consensus-specs/commit/ca2efdafe96236db678e4d9b4533e9f8cf7e5b57) - 2026-03-26
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: enable specref features & remove unnecessary spec items](https://github.com/ChainSafe/lodestar/pull/8788) - 2026-01-27
 

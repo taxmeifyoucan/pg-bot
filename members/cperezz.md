@@ -38,3 +38,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Review] [Review on: trie/bintrie: fix grouped InternalNode serialization path mismatch](https://github.com/gballet/go-ethereum/pull/569#pullrequestreview-3922527866) - 2026-03-10
 * [Review] [Review on: trie/bintrie: fix grouped InternalNode serialization path mismatch](https://github.com/gballet/go-ethereum/pull/569#pullrequestreview-3922532989) - 2026-03-10
 * [Review] [Review on: trie/bintrie: fix grouped InternalNode serialization path mismatch](https://github.com/gballet/go-ethereum/pull/569#pullrequestreview-3922538292) - 2026-03-10
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [refactor(test-benchmark): use runtime gas checking in mixed SLOAD/SSTORE benchmark](https://github.com/ethereum/execution-specs/pull/2570) - 2026-03-26
+* [Commit] [refactor(test-benchmark): use runtime gas checking in mixed SLOAD/SSTORE benchmark (#2570)](https://github.com/ethereum/execution-specs/commit/51fc6310e994a059e53cbd283841ff404286c434) - 2026-03-26

@@ -75,11 +75,15 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Schedule Fulu fork for Gnosis mainnet](https://github.com/sigp/lighthouse/pull/9007#pullrequestreview-3995970665) - 2026-03-24
 * [Pull Request] [Remove schema migrations for v28 and earlier](https://github.com/sigp/lighthouse/pull/9031) - 2026-03-26
 * [Review] [Review on: Gloas fork choice redux](https://github.com/sigp/lighthouse/pull/9025#pullrequestreview-4004391160) - 2026-03-25
+* [Pull Request] [Merge v8.1.3 to unstable](https://github.com/sigp/lighthouse/pull/9035) - 2026-03-26
+* [Pull Request] [Release v8.1.3](https://github.com/sigp/lighthouse/pull/9034) - 2026-03-26
+* [Issue] [Explore more Milhouse optimisations](https://github.com/sigp/lighthouse/issues/9033) - 2026-03-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Operations test docs are out of date](https://github.com/ethereum/consensus-specs/issues/4912) - 2026-02-11
 * [Issue] [Add payload attestations to `sanity/blocks` tests for Gloas](https://github.com/ethereum/consensus-specs/issues/4929) - 2026-02-16
 * [Issue] [No `sanity/blocks` tests in v1.7.0-alpha.2](https://github.com/ethereum/consensus-specs/issues/4928) - 2026-02-16
 * [Issue] [Block roots in filenames are wrong in Gloas fork choice tests](https://github.com/ethereum/consensus-specs/issues/5018) - 2026-03-19
+* [Issue] [Define Gloas genesis block hash to be 0x00?](https://github.com/ethereum/consensus-specs/issues/5043) - 2026-03-26
 ## Q4 2025
 
 

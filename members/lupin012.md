@@ -62,6 +62,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: trace_filter add per-transaction timeout (#20111)](https://github.com/erigontech/erigon/commit/c0068c6f6de50408c1e69cf0e58d06072fc8a395) - 2026-03-24
 * [Pull Request] [rpc: return null storageKeys in eth_createAccessList when no storage](https://github.com/erigontech/erigon/pull/20161) - 2026-03-25
 * [Pull Request] [[3.4] update rpc version to 122 (remove fail on eth_simulateV1)](https://github.com/erigontech/erigon/pull/20159) - 2026-03-25
+* [Pull Request] [rpc: trace_block optimisation](https://github.com/erigontech/erigon/pull/20182) - 2026-03-26
+* [Commit] [rpc: fix debug_getModifiedAccountsByNumber/Hash to match Geth semantics (#20043)](https://github.com/erigontech/erigon/commit/68475899e1ed162d8db2ff6edccc64835f8412fd) - 2026-03-26
+* [Commit] [update stateRoot according Geth and re-enable commented tests (#20062)](https://github.com/erigontech/erigon/commit/ca07330cac1ed199a6c253b9d7e1870045412c6c) - 2026-03-26
+* [Commit] [CI: update to new rpc version to 2.0.0 (#20141)](https://github.com/erigontech/erigon/commit/30b15d372bfb0ec166f776d287a155cf35b76993) - 2026-03-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15
@@ -82,6 +86,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: fix rsp debug account range according Geth (#532)](https://github.com/erigontech/rpc-tests/commit/c74c58429565b630edfb054a575e603532b03605) - 2026-03-21
 * [Pull Request] [[WIP] eth_simulateV1: update stateRoot](https://github.com/erigontech/rpc-tests/pull/533) - 2026-03-22
 * [Review] [Review on: v2: full revamping in golang](https://github.com/erigontech/rpc-tests/pull/524#pullrequestreview-4002410428) - 2026-03-24
+* [Pull Request] [integration: add missing go file](https://github.com/erigontech/rpc-tests/pull/534) - 2026-03-26
+* [Commit] [integration: add missing go file (#534)](https://github.com/erigontech/rpc-tests/commit/bb704421d5c1ff96cb3a8181b08947f5f15ff0a1) - 2026-03-26
+* [Commit] [Fix exp debug get modified accounts by (#531)](https://github.com/erigontech/rpc-tests/commit/5f14c266f07f9c9b29b465de337e282a32df78bc) - 2026-03-26
+* [Commit] [eth_simulateV1: update stateRoot (#533)](https://github.com/erigontech/rpc-tests/commit/191e5a0b105faf5c988ccff497075d04467675df) - 2026-03-26
 ## Q4 2025
 
 

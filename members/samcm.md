@@ -25,6 +25,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Release/consumoor](https://github.com/ethpandaops/xatu/pull/792) - 2026-02-25
 * [Review] [Review on: feat(gloas): add BAL storage reads and touched accounts](https://github.com/ethpandaops/xatu/pull/798#pullrequestreview-4003887805) - 2026-03-25
 * [Review] [Review on: feat(gloas): add BAL storage reads and bump deps to bal-devnet-3](https://github.com/ethpandaops/xatu/pull/797#pullrequestreview-4003724229) - 2026-03-25
+* [Review] [Review on: feat(epbs): add server event handlers, libp2p gossipsub types, and ePBS conditional block routing](https://github.com/ethpandaops/xatu/pull/801#pullrequestreview-4011367273) - 2026-03-26
+* [Review] [Review on: feat(migrations): add epbs support](https://github.com/ethpandaops/xatu/pull/800#pullrequestreview-4011142983) - 2026-03-26
+* [Review] [Review on: feat: prepare epbs types](https://github.com/ethpandaops/xatu/pull/799#pullrequestreview-4011011749) - 2026-03-26
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(xatu): add nodes section with resource monitoring](https://github.com/ethpandaops/lab/pull/421) - 2026-02-13
 * [Pull Request] [feat(node-resources): improve chart formatting and adapt to backend label changes](https://github.com/ethpandaops/lab/pull/424) - 2026-02-16
@@ -32,6 +35,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: chore: update go module dependencies](https://github.com/ethpandaops/contributoor/pull/211#pullrequestreview-3958166005) - 2026-03-17
+
+[ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
+* [Pull Request] [fix: subscribe only to beacon event topics that are actually used](https://github.com/ethpandaops/tracoor/pull/55) - 2026-03-26
+* [Commit] [fix: subscribe only to beacon event topics that are actually used (#55)](https://github.com/ethpandaops/tracoor/commit/9a96583ab79f98c3056a472f61cd5efba2f90f7b) - 2026-03-26
 ## Q4 2025
 
 

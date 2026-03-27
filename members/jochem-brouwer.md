@@ -34,6 +34,10 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [fix(benchmarks): correct gas accounting for account_query value > 0 (#2530)](https://github.com/ethereum/execution-specs/commit/40badcfd3b42e41de19c32041eea10b6e62e2348) - 2026-03-19
 * [Pull Request] [fix(benchmarks): use factory which creates non-destructible contracts](https://github.com/ethereum/execution-specs/pull/2539) - 2026-03-22
 * [Commit] [fix(benchmarks): use factory which creates non-destructible contracts (#2539)](https://github.com/ethereum/execution-specs/commit/c9e90a24afc92799327d66b4e886cabbf4e44f93) - 2026-03-23
+* [Review] [Review on: feat(tests): add worst-case BAL read test](https://github.com/ethereum/execution-specs/pull/2033#pullrequestreview-4015960348) - 2026-03-26
+* [Review] [Review on: refactor(test-benchmark): use runtime gas checking in mixed SLOAD/SSTORE benchmark](https://github.com/ethereum/execution-specs/pull/2570#pullrequestreview-4016098138) - 2026-03-26
+* [Pull Request] [refactor(test-benchmark): generic erc20 benchmark](https://github.com/ethereum/execution-specs/pull/2569) - 2026-03-26
+* [Commit] [refactor(test-benchmark): generic erc20 benchmark (#2569)](https://github.com/ethereum/execution-specs/commit/5c198a343beb0d2e06a31294ecac6b4b9dd0bb25) - 2026-03-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/pull/11391#pullrequestreview-3952860193) - 2026-03-16
 * [Review] [Review on: Update EIP-8141: add mempool policy](https://github.com/ethereum/EIPs/pull/11415#pullrequestreview-3957951837) - 2026-03-17

@@ -33,6 +33,10 @@ Team: Erigon
 * [Review] [Review on: ci: trigger CI gate for performance branches](https://github.com/erigontech/erigon/pull/20110#pullrequestreview-3994155335) - 2026-03-23
 * [Review] [Review on: Add QA stage_exec smoke test workflow](https://github.com/erigontech/erigon/pull/20098#pullrequestreview-3998315269) - 2026-03-24
 * [Pull Request] [qa-tests: restore the execution of RPC tests on the main and release branches](https://github.com/erigontech/erigon/pull/20129) - 2026-03-24
+* [Review] [Review on: CI: update to new rpc version to 2.0.0](https://github.com/erigontech/erigon/pull/20141#pullrequestreview-4012077940) - 2026-03-26
+* [Review] [Review on: [3.4] update rpc version to 122 (remove fail on eth_simulateV1)](https://github.com/erigontech/erigon/pull/20159#pullrequestreview-4012078872) - 2026-03-26
+* [Commit] [qa-tests: restore the execution of RPC tests on the main and release branches (#20129)](https://github.com/erigontech/erigon/commit/5208c9da4107bc84cec3ffa965c55692e54b24f0) - 2026-03-26
+* [Commit] [qa-tests: fix fd-leak-analysis artifact name in 'sync with external cl' test (#19775)](https://github.com/erigontech/erigon/commit/9904241d4aa2a2c6a5d81b583784afbb761fec9e) - 2026-03-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529) - 2026-03-13
 * [Commit] [more verbose error messagge (#529)](https://github.com/erigontech/rpc-tests/commit/34b1c609e2d04cd26f8070821e3ca12bb6d673d4) - 2026-03-14

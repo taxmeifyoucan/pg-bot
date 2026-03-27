@@ -66,6 +66,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-fill): add `--post-verifier` flag to capture fill time post state checks](https://github.com/ethereum/execution-specs/pull/2552#pullrequestreview-4001797235) - 2026-03-24
 * [Review] [Review on: refactor(tests),feat(test-forks): add `filter_combinations` pytest marker to avoid runtime skips](https://github.com/ethereum/execution-specs/pull/2543#pullrequestreview-3999438925) - 2026-03-24
 * [Commit] [refactor(test-forks): Remove `block_number`/`timestamp` from all methods (#2442)](https://github.com/ethereum/execution-specs/commit/21407ec427951844f33d1584d10fb123731f6b36) - 2026-03-24
+* [Pull Request] [feat(test-forks): Add EIP classes](https://github.com/ethereum/execution-specs/pull/2571) - 2026-03-26
+* [Review] [Review on: fix(src): restore` execute` chain-id defaults after in-process pytest runs](https://github.com/ethereum/execution-specs/pull/2567#pullrequestreview-4017382666) - 2026-03-26
+* [Review] [Review on: refactor(test-benchmark): use runtime gas checking in mixed SLOAD/SSTORE benchmark](https://github.com/ethereum/execution-specs/pull/2570#pullrequestreview-4017245266) - 2026-03-26
+* [Review] [Review on: chore(test-client-clis): update besu exception mapper](https://github.com/ethereum/execution-specs/pull/2565#pullrequestreview-4014437966) - 2026-03-26
+* [Issue] [EIP-8141 Implementation Tracker: Frame Transaction](https://github.com/ethereum/execution-specs/issues/2568) - 2026-03-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Louis from STEEL, ethereum/execution-specs](https://github.com/protocolguild/documentation/pull/472) - 2026-01-15
 ## Q4 2025

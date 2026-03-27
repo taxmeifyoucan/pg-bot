@@ -167,6 +167,11 @@ Team: Reth
 * [Review] [Review on: refactor: replace reth-primitives-traits with git dep to reth-core](https://github.com/paradigmxyz/reth/pull/23210#pullrequestreview-4005567369) - 2026-03-25
 * [Commit] [chore: bump alloy 1.8.1 (#23228)](https://github.com/paradigmxyz/reth/commit/fb62487148c37e6d27fa3a62afe44aed7f60df6e) - 2026-03-25
 * [Commit] [feat(txpool): add TransactionValidationTaskExecutor::spawn (#23196)](https://github.com/paradigmxyz/reth/commit/33ec89994eca862dba777b0546942334116fb8be) - 2026-03-25
+* [Review] [Review on: feat: share execution cache with payload builder](https://github.com/paradigmxyz/reth/pull/23242#pullrequestreview-4015277965) - 2026-03-26
+* [Pull Request] [chore: bump alloy 1.8.2](https://github.com/paradigmxyz/reth/pull/23241) - 2026-03-26
+* [Review] [Review on: fix(engine/tree): Fix canonical hash check in `find_canonical_header` for provider-known blocks](https://github.com/paradigmxyz/reth/pull/23207#pullrequestreview-4011465116) - 2026-03-26
+* [Review] [Review on: chore(docker): bump lighthouse v8.1.3](https://github.com/paradigmxyz/reth/pull/23239#pullrequestreview-4011393345) - 2026-03-26
+* [Commit] [chore: bump alloy 1.8.2 (#23241)](https://github.com/paradigmxyz/reth/commit/ef0095b5652189717421d2101489b9f17a1f21a6) - 2026-03-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

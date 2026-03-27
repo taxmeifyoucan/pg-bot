@@ -85,6 +85,9 @@ Team: Reth
 * [Review] [Review on: fix: make DummyHost return defaults instead of errors for storage ops](https://github.com/bluealloy/revm/pull/3503#pullrequestreview-3949304214) - 2026-03-14
 * [Pull Request] [feat: add CallInput::as_bytes](https://github.com/bluealloy/revm/pull/3515) - 2026-03-22
 * [Commit] [feat: add CallInput::as_bytes (#3515)](https://github.com/bluealloy/revm/commit/fed80c0a32c06e571c2fada3dcaa8900d7d67b70) - 2026-03-23
+* [Pull Request] [chore: add comment about frame stack initial capacity](https://github.com/bluealloy/revm/pull/3527) - 2026-03-26
+* [Review] [Review on: refactor(precompile): take large array args by reference](https://github.com/bluealloy/revm/pull/3524#pullrequestreview-4016061653) - 2026-03-26
+* [Review] [Review on: bench: add secp256r1 (P256) precompile benchmark](https://github.com/bluealloy/revm/pull/3525#pullrequestreview-4016068037) - 2026-03-26
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [fix: make state tests pass](https://github.com/paradigmxyz/revmc/pull/95) - 2026-03-05
 * [Pull Request] [fix: remove flaky builtin_symbols_exported test](https://github.com/paradigmxyz/revmc/pull/108) - 2026-03-07
@@ -160,6 +163,31 @@ Team: Reth
 * [Commit] [fix: remove old LLVM module from execution engine in clear_ir (#160)](https://github.com/paradigmxyz/revmc/commit/51c6c767a3b068136654ea753150aa2f10b4ee2d) - 2026-03-25
 * [Commit] [fix: pre-seed storage for eip4788 and eip2935 benchmarks (#159)](https://github.com/paradigmxyz/revmc/commit/9bb083e0a85a97330153574e817bfa3414f67dec) - 2026-03-25
 * [Commit] [fix: replace DummyHost with BenchHost in CLI runner (#158)](https://github.com/paradigmxyz/revmc/commit/ac8dab13896e7a86f334794f4b88043af744b951) - 2026-03-25
+* [Pull Request] [feat: add nonlazybind attribute to skip PLT indirection](https://github.com/paradigmxyz/revmc/pull/175) - 2026-03-27
+* [Pull Request] [chore: suppress warnings from LLVM headers in C++ build](https://github.com/paradigmxyz/revmc/pull/173) - 2026-03-27
+* [Pull Request] [feat: emit uwtable attribute for .eh_frame in jitdump](https://github.com/paradigmxyz/revmc/pull/174) - 2026-03-27
+* [Pull Request] [refactor: use alloy_primitives::map instead of rustc-hash](https://github.com/paradigmxyz/revmc/pull/171) - 2026-03-26
+* [Pull Request] [chore: remove cranelift backend](https://github.com/paradigmxyz/revmc/pull/170) - 2026-03-26
+* [Pull Request] [feat: enable JIT debug info registration via GDB JIT Interface](https://github.com/paradigmxyz/revmc/pull/167) - 2026-03-26
+* [Pull Request] [chore: add collapse_debuginfo to builtin macros](https://github.com/paradigmxyz/revmc/pull/169) - 2026-03-26
+* [Pull Request] [chore: set dev profile opt-level to 3, remove ethtests profile](https://github.com/paradigmxyz/revmc/pull/168) - 2026-03-26
+* [Pull Request] [refactor: use ORCv2 JIT](https://github.com/paradigmxyz/revmc/pull/164) - 2026-03-26
+* [Pull Request] [test: assert compiled gas_used matches interpreter in state tests](https://github.com/paradigmxyz/revmc/pull/166) - 2026-03-26
+* [Pull Request] [fix: charge spec-aware base gas for CALL, BALANCE, EXT*, and SLOAD](https://github.com/paradigmxyz/revmc/pull/165) - 2026-03-26
+* [Review] [Review on: fix: charge spec-aware base gas for CALL, BALANCE, EXT*, and SLOAD](https://github.com/paradigmxyz/revmc/pull/165#pullrequestreview-4017335480) - 2026-03-26
+* [Commit] [feat: add nonlazybind attribute to skip PLT indirection (#175)](https://github.com/paradigmxyz/revmc/commit/7c549a22a33bca7811313bb5f05e2e58386eb106) - 2026-03-27
+* [Commit] [chore: suppress warnings from LLVM headers in C++ build (#173)](https://github.com/paradigmxyz/revmc/commit/825c6132c1e94e56e22c50fa8d00544d0c3e9723) - 2026-03-27
+* [Commit] [feat: emit uwtable attribute for .eh_frame in jitdump (#174)](https://github.com/paradigmxyz/revmc/commit/6b69f3de87fcca758670ecedc876e2900198f4a0) - 2026-03-27
+* [Commit] [chore: rm cranelift refs](https://github.com/paradigmxyz/revmc/commit/68ff2d8c0c9a7496711041a4cdca21bf9a7e1148) - 2026-03-27
+* [Commit] [refactor: use alloy_primitives::map instead of rustc-hash (#171)](https://github.com/paradigmxyz/revmc/commit/b3911711fc57839db6e9de778719ebd966e45bfc) - 2026-03-27
+* [Commit] [feat: enable JIT debug info registration via GDB JIT Interface (#167)](https://github.com/paradigmxyz/revmc/commit/2717be8108e953e6b2e87238cc7f713eb33714a8) - 2026-03-26
+* [Commit] [chore(ci): fix dependencies.yml](https://github.com/paradigmxyz/revmc/commit/89f3b5b1810b9192cc81f9307de7101c03c31e7a) - 2026-03-26
+* [Commit] [chore(ci): add dependencies.yml](https://github.com/paradigmxyz/revmc/commit/79a55adc629bc78f2886a5aa335f1f9f285fe739) - 2026-03-26
+* [Commit] [chore: remove cranelift backend (#170)](https://github.com/paradigmxyz/revmc/commit/faa94c6b609eb1b35788248ffb0446902d659a9a) - 2026-03-26
+* [Commit] [chore: add collapse_debuginfo to builtin macros (#169)](https://github.com/paradigmxyz/revmc/commit/1252022005436faf1390f77f0d901572a157d653) - 2026-03-26
+* [Commit] [chore: set dev profile opt-level to 3, remove ethtests profile (#168)](https://github.com/paradigmxyz/revmc/commit/6e99003d0441194e426cdc88bd33474f7160cca9) - 2026-03-26
+* [Commit] [refactor: use ORCv2 JIT (#164)](https://github.com/paradigmxyz/revmc/commit/ae22fe6dd3b0fb61cbbe0a224a7b8e8f19261701) - 2026-03-26
+* [Commit] [fix: charge spec-aware base gas for CALL, BALANCE, EXT*, and SLOAD (#165)](https://github.com/paradigmxyz/revmc/commit/3642294888d356efe2f2d625e54d59ac9bc80b59) - 2026-03-26
 ## Q4 2025
 
 

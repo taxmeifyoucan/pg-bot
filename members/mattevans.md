@@ -50,6 +50,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(buf.yaml): update linting rules to exclude specific checks for better customization](https://github.com/ethpandaops/xatu/commit/c51fc639ca18f28c7a3b7eac593a38fc186ccacc) - 2026-03-24
 * [Pull Request] [feat(gloas): add BAL storage reads and touched accounts](https://github.com/ethpandaops/xatu/pull/798) - 2026-03-25
 * [Pull Request] [feat(gloas): add BAL storage reads and bump deps to bal-devnet-3](https://github.com/ethpandaops/xatu/pull/797) - 2026-03-25
+* [Pull Request] [feat(epbs): add server event handlers, libp2p gossipsub types, and ePBS conditional block routing](https://github.com/ethpandaops/xatu/pull/801) - 2026-03-26
+* [Pull Request] [feat(migrations): add epbs support](https://github.com/ethpandaops/xatu/pull/800) - 2026-03-26
+* [Pull Request] [feat: prepare epbs types](https://github.com/ethpandaops/xatu/pull/799) - 2026-03-26
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Pull Request] [fix: resolve golangci-lint issues](https://github.com/ethpandaops/contributoor/pull/195) - 2026-03-11
 * [Pull Request] [chore: bump go-ethereum to v1.17.1](https://github.com/ethpandaops/contributoor/pull/194) - 2026-03-10

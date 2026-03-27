@@ -77,3 +77,6 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Review] [Review on: qa-tests: restore the execution of RPC tests on the main and release branches](https://github.com/erigontech/erigon/pull/20129#pullrequestreview-3998718256) - 2026-03-24
 * [Review] [Review on: qa-tests: restore the execution of RPC tests on the main and release branches](https://github.com/erigontech/erigon/pull/20129#pullrequestreview-4005810371) - 2026-03-25
 * [Review] [Review on: p2p: avoid dialing peers that already have a pending inbound connection](https://github.com/erigontech/erigon/pull/20024#pullrequestreview-4005067587) - 2026-03-25
+* [Pull Request] [ci: unshadow main branch README](https://github.com/erigontech/erigon/pull/20189) - 2026-03-27
+* [Pull Request] [docs: add CI-GUIDELINES.md](https://github.com/erigontech/erigon/pull/20188) - 2026-03-27
+* [Pull Request] [.github: fix frontpage README overridden by .github/README.md](https://github.com/erigontech/erigon/pull/20168) - 2026-03-26

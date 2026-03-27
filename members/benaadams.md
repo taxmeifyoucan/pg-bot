@@ -100,6 +100,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: New constructor](https://github.com/NethermindEth/nethermind/pull/10950#pullrequestreview-4007771323) - 2026-03-25
 * [Review] [Review on: Migrate TxGossipPolicy to DI using OrderedComponents](https://github.com/NethermindEth/nethermind/pull/10941#pullrequestreview-4004512144) - 2026-03-25
 * [Commit] [test: add engine blockchain pyspec fixtures and fix BAL gas budget tracking (#10939)](https://github.com/NethermindEth/nethermind/commit/fbf3aff8abdbc3092963f26fd5c914af13c507f5) - 2026-03-26
+* [Review] [Review on: Fix/resource leaks and add skill v2](https://github.com/NethermindEth/nethermind/pull/10958#pullrequestreview-4014051801) - 2026-03-26
+* [Pull Request] [Cross-block cache carry-forward with reorg invalidation](https://github.com/NethermindEth/nethermind/pull/10959) - 2026-03-26
+* [Review] [Review on: fix: resource leak — ArrayPool, double-dispose, CTS, event handlers & Resource Leak audit skill](https://github.com/NethermindEth/nethermind/pull/10951#pullrequestreview-4016885188) - 2026-03-26
 ## Q4 2025
 
 

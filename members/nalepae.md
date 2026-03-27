@@ -45,6 +45,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Preallocate validatorKeys slice in insertValidatorHashes](https://github.com/OffchainLabs/prysm/pull/16558#pullrequestreview-3981407512) - 2026-03-20
 * [Issue] [Processing blocks with validators consolidation(s) consumes a lot of extra memory](https://github.com/OffchainLabs/prysm/issues/16569) - 2026-03-23
 * [Review] [Review on: Ignore blocks and data columns based on old blocks.](https://github.com/OffchainLabs/prysm/pull/16579#pullrequestreview-4006385311) - 2026-03-25
+* [Pull Request] [Introduce a new cache that keeps all seen aggregated attestations for at least one epoch](https://github.com/OffchainLabs/prysm/pull/16370) - 2026-03-27
+* [Review] [Review on: implementing /eth/v2/validator/duties/proposer/{epoch}](https://github.com/OffchainLabs/prysm/pull/16303#pullrequestreview-4013921313) - 2026-03-26
+* [Review] [Review on: implements ptc beacon apis](https://github.com/OffchainLabs/prysm/pull/16306#pullrequestreview-4013969586) - 2026-03-26
+* [Commit] [Introduce a new cache that keeps all seen aggregated attestations for at least one epoch (#16370)](https://github.com/OffchainLabs/prysm/commit/c0ee6669969fb037a27db32d0d1e181632cebd69) - 2026-03-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Update EIP8025 p2p protocol](https://github.com/ethereum/consensus-specs/pull/5014#pullrequestreview-3966182111) - 2026-03-18
 ## Q4 2025

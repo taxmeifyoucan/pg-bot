@@ -47,3 +47,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: refactor(test-benchmark): collect benchmark tests using testpath not marker](https://github.com/ethereum/execution-specs/pull/2496#pullrequestreview-3989062296) - 2026-03-23
 * [Review] [Review on: fix(test-benchmarks): use factory which creates non-destructible contracts](https://github.com/ethereum/execution-specs/pull/2539#pullrequestreview-3989038232) - 2026-03-23
 * [Commit] [refactor(test-benchmark): collect benchmark tests using testpath not marker (#2496)](https://github.com/ethereum/execution-specs/commit/125ed98697ac68fde05b4bbcc5281ace09df2b62) - 2026-03-24
+* [Review] [Review on: refactor(test-benchmark): generic erc20 benchmark](https://github.com/ethereum/execution-specs/pull/2569#pullrequestreview-4016019080) - 2026-03-26
+* [Pull Request] [feat(test-benchmark): support repricing marker for stateful benchmark](https://github.com/ethereum/execution-specs/pull/2430) - 2026-03-26
+* [Review] [Review on: feat(test-benchmark): support repricing marker for stateful benchmark](https://github.com/ethereum/execution-specs/pull/2430#pullrequestreview-4011763408) - 2026-03-26
+* [Pull Request] [refactor(test-benchmark): add repricing only stub file](https://github.com/ethereum/execution-specs/pull/2562) - 2026-03-26
+* [Issue] [Add block building correctness testing via `testing_buildBlockV1` endpoint](https://github.com/ethereum/execution-specs/issues/2560) - 2026-03-26
+* [Commit] [refactor: label necessary marker (#2430)](https://github.com/ethereum/execution-specs/commit/def3a0c214ee7eb9ce3aeeab467434e1d00477c6) - 2026-03-26

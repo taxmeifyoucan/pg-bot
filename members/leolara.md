@@ -18,3 +18,4 @@ Github: [@leolara](https://github.com/leolara)
 * [Pull Request] [fix(tests): use filler expect entries for ported static test post assertions](https://github.com/ethereum/execution-specs/pull/2514) - 2026-03-16
 * [Pull Request] [feat(test-execute): Add --verify-traces flag for trace comparison against baselines](https://github.com/ethereum/execution-specs/pull/2535) - 2026-03-20
 * [Review] [Review on: feat(test-fill): add `--post-verifications` flag to capture fill time post state checks](https://github.com/ethereum/execution-specs/pull/2552#pullrequestreview-4003481885) - 2026-03-25
+* [Pull Request] [New static test porting system](https://github.com/ethereum/execution-specs/pull/2563) - 2026-03-26

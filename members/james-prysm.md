@@ -75,6 +75,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [adding proposer preferences pool api and event](https://github.com/OffchainLabs/prysm/pull/16583) - 2026-03-24
 * [Commit] [adding fallback to origin block root on previous dependent root is empty (#16576)](https://github.com/OffchainLabs/prysm/commit/86edeef90f8c096151189cdb34bc950700b14b71) - 2026-03-24
 * [Pull Request] [Pre fork proposer preferences](https://github.com/OffchainLabs/prysm/pull/16588) - 2026-03-25
+
+* [Review] [Review on: Fix empty blob KZG commitments in self-build execution payload bids](https://github.com/OffchainLabs/prysm/pull/16595#pullrequestreview-4018202815) - 2026-03-27
+* [Review] [Review on: Introduce a new cache that keeps all seen aggregated attestations for at least one epoch](https://github.com/OffchainLabs/prysm/pull/16370#pullrequestreview-4015429696) - 2026-03-26
+* [Review] [Review on: Truncate commit hash to 7 chars in /eth/v1/node/version](https://github.com/OffchainLabs/prysm/pull/16592#pullrequestreview-4016645234) - 2026-03-26
+* [Review] [Review on: Pre fork proposer preferences](https://github.com/OffchainLabs/prysm/pull/16588#pullrequestreview-4015310995) - 2026-03-26
+* [Pull Request] [Validator block v4](https://github.com/OffchainLabs/prysm/pull/16594) - 2026-03-26
+* [Pull Request] [implementing /eth/v2/validator/duties/proposer/{epoch}](https://github.com/OffchainLabs/prysm/pull/16303) - 2026-03-26
+* [Commit] [implementing /eth/v2/validator/duties/proposer/{epoch} (#16303)](https://github.com/OffchainLabs/prysm/commit/0bfe7367302d5e83575ee4be6291eb6690dcb256) - 2026-03-26
+[OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
+* [Review] [Review on: fix: remove AVX dependency from SSE x1 implementation](https://github.com/OffchainLabs/hashtree/pull/64#pullrequestreview-4016657390) - 2026-03-26
 ## Q4 2025
 
 

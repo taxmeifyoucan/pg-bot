@@ -117,3 +117,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [batch stark: create a verifier module (#1481)](https://github.com/Plonky3/Plonky3/commit/6c6cde288ddb07ffe49e25254ad0521c41147d75) - 2026-03-25
 * [Commit] [batch stark: separate Fiat Shamir transcript (#1475)](https://github.com/Plonky3/Plonky3/commit/3696f02675aed3fbc0dc7973d496f599aadb1048) - 2026-03-25
 * [Commit] [field: implement packed / packed division (#1457)](https://github.com/Plonky3/Plonky3/commit/bf5f80080cf5e4a8f51cbbd6ca962bd6f502abfe) - 2026-03-25
+* [Review] [Review on: fix(p3-batch-stark): correct selector padding and tail chunk length](https://github.com/Plonky3/Plonky3/pull/1485#pullrequestreview-4016825899) - 2026-03-26
+* [Review] [Review on: improved poseidon1 air (Karatsuba + Sparse partial rounds)](https://github.com/Plonky3/Plonky3/pull/1480#pullrequestreview-4017717094) - 2026-03-26
+* [Review] [Review on: feat: add `assert_zeros_ext()` method to `ExtensionBuilder`](https://github.com/Plonky3/Plonky3/pull/1493#pullrequestreview-4014654499) - 2026-03-26
+* [Pull Request] [dft: testing for internals](https://github.com/Plonky3/Plonky3/pull/1494) - 2026-03-26
+* [Review] [Review on: refactor(verifier): remove unused MissingInput variant](https://github.com/Plonky3/Plonky3/pull/1484#pullrequestreview-4014518059) - 2026-03-26

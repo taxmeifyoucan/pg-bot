@@ -86,6 +86,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: commitment rebuild: add --no-history flag](https://github.com/erigontech/erigon/pull/20147#pullrequestreview-4007687449) - 2026-03-25
 * [Commit] [commitment rebuild: add --no-history flag (#20147)](https://github.com/erigontech/erigon/commit/6b7412525eac7b1a83261ddc5b84287cd195b654) - 2026-03-25
 * [Commit] [cmd/utils: simplify subset loop to single pass in rm-state (#20124)](https://github.com/erigontech/erigon/commit/4536c804d715a5ab3bc54729bbe337ff5d5aebf7) - 2026-03-25
+* [Pull Request] [[r3.4] fix TestAggregatorV3_Merge: correct onDelCalls expectation](https://github.com/erigontech/erigon/pull/20176) - 2026-03-26
+* [Pull Request] [Revert "exec3_parallel: eliminate IBS round-trip in finalize path (#19814)"](https://github.com/erigontech/erigon/pull/20177) - 2026-03-26
 ## Q4 2025
 
 

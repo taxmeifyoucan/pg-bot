@@ -25,3 +25,5 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Get block v4](https://github.com/OffchainLabs/prysm/pull/16488#pullrequestreview-3983325271) - 2026-03-20
 * [Commit] [Preallocate validatorKeys slice in insertValidatorHashes (#16558)](https://github.com/OffchainLabs/prysm/commit/77b5a7a5b318f2210c323b4d83364105bceb3a7e) - 2026-03-20
 * [Pull Request] [Replace Kill with graceful stop in e2e ](https://github.com/OffchainLabs/prysm/pull/16578) - 2026-03-24
+* [Pull Request] [Re-add next-epoch lookahead for PTC duties](https://github.com/OffchainLabs/prysm/pull/16591) - 2026-03-26
+* [Commit] [Replace Kill with graceful stop in e2e  (#16578)](https://github.com/OffchainLabs/prysm/commit/277797f6f85f8cff8f09d5171b1d7536d3bc0c2c) - 2026-03-26

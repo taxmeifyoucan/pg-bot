@@ -29,6 +29,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: fix ci test](https://github.com/erigontech/erigon/pull/20102#pullrequestreview-3992501272) - 2026-03-23
 * [Review] [Review on: cmd/utils: simplify subset loop to single pass in rm-state](https://github.com/erigontech/erigon/pull/20124#pullrequestreview-3998274317) - 2026-03-24
 * [Review] [Review on: rpc: improve unknown block error with context](https://github.com/erigontech/erigon/pull/20149#pullrequestreview-4007595155) - 2026-03-25
+* [Review] [Review on: [r3.4] fix TestAggregatorV3_Merge: correct onDelCalls expectation](https://github.com/erigontech/erigon/pull/20176#pullrequestreview-4016764223) - 2026-03-26
 ## Q4 2025
 
 

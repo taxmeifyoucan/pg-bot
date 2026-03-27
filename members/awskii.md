@@ -49,6 +49,17 @@ Team: Erigon
 * [Review] [Review on: commitment: make concurrent trie capture thread-safe](https://github.com/erigontech/erigon/pull/20103#pullrequestreview-4007439739) - 2026-03-25
 * [Pull Request] [ci: fix hashFiles() in composite action outputs](https://github.com/erigontech/erigon/pull/20154) - 2026-03-25
 * [Commit] [rpc: improve unknown block error with context (#20149)](https://github.com/erigontech/erigon/commit/ed30c284f65beeaf6042baeb89a7cabd18a9bffb) - 2026-03-25
+* [Review] [Review on: ci: use App token in In-case-of-failure rollback job](https://github.com/erigontech/erigon/pull/20162#pullrequestreview-4016916786) - 2026-03-26
+* [Review] [Review on: [r3.4] fix TestAggregatorV3_Merge: correct onDelCalls expectation](https://github.com/erigontech/erigon/pull/20176#pullrequestreview-4016023623) - 2026-03-26
+* [Pull Request] [btindex: standalone PrefixIndex with adaptive node distribution (40-62% faster)](https://github.com/erigontech/erigon/pull/20180) - 2026-03-26
+* [Pull Request] [btindex: rework prefix index with bucket architecture (63% faster seeks)](https://github.com/erigontech/erigon/pull/20171) - 2026-03-26
+* [Review] [Review on: crypto: zero-alloc, syncpool-free method to hash `[]byte` type](https://github.com/erigontech/erigon/pull/20114#pullrequestreview-4016013126) - 2026-03-26
+* [Pull Request] [ci: handle git-restore-mtime download failure gracefully](https://github.com/erigontech/erigon/pull/20173) - 2026-03-26
+* [Issue] [commitment: `SetTrace` bitmask](https://github.com/erigontech/erigon/issues/20185) - 2026-03-26
+* [Issue] [CI: git-restore-mtime fails with syntax error on runners](https://github.com/erigontech/erigon/issues/20172) - 2026-03-26
+* [Commit] [commitment: refactor fold() into smaller methods (#20152)](https://github.com/erigontech/erigon/commit/8e6ce4f8369cf1016414a56eba05f1bd888e4015) - 2026-03-26
+* [Commit] [ci: handle git-restore-mtime download failure gracefully (#20173)](https://github.com/erigontech/erigon/commit/89a800292d7f839e9d623310d89ae8a118cbbce5) - 2026-03-26
+* [Commit] [test: fix flaky CorrectSwitchForConcurrent by removing shared rand source (#20138)](https://github.com/erigontech/erigon/commit/a8614283be1a77311be2359ea2ff4b22935ae3a2) - 2026-03-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3925895357) - 2026-03-10
 ## Q4 2025

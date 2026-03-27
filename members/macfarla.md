@@ -159,10 +159,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [receipt decoder - handle both formats at read time (#10079)](https://github.com/besu-eth/besu/commit/b08fed514ab653db89dd7720c986677439317517) - 2026-03-24
 * [Pull Request] [Optimize eth get proof test](https://github.com/besu-eth/besu/pull/10104) - 2026-03-25
 * [Commit] [Dispatch snap server request processing off Netty event loop (#10083)](https://github.com/besu-eth/besu/commit/a4e6e9a7e12d0d8d0bcd4c5527af17991e26b449) - 2026-03-25
+* [Pull Request] [debug trace alignment: add refund to StructLog and 0x prefix](https://github.com/besu-eth/besu/pull/10116) - 2026-03-27
+* [Review] [Review on: Upgrade RocksDB version from 9.7.3 to 10.6.2](https://github.com/besu-eth/besu/pull/9767#pullrequestreview-4017863812) - 2026-03-26
+* [Review] [Review on: Preparation for BAL-based FlatDB healing via snap/2](https://github.com/besu-eth/besu/pull/10106#pullrequestreview-4017572742) - 2026-03-26
+* [Review] [Review on: Add txpool_contentFrom JSON-RPC method](https://github.com/besu-eth/besu/pull/10111#pullrequestreview-4017504415) - 2026-03-26
+* [Issue] [debug RPC endpoints standarization](https://github.com/besu-eth/besu/issues/10115) - 2026-03-27
+* [Issue] [should only advertise snap/1 in handshake if snapsync-server-enabled](https://github.com/besu-eth/besu/issues/10108) - 2026-03-26
+* [Commit] [add BWS stall detection and restart BWS if no progress (#10045)](https://github.com/besu-eth/besu/commit/a1eb7ace58e9c640b794bfa5de0b16c32dfd6e62) - 2026-03-27
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08
 * [Pull Request] []() - 2026-01-28
+
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Review] [Review on: Update errorprone, fix javadoc, switch to Maven Central](https://github.com/Consensys/discovery/pull/204#pullrequestreview-4012651077) - 2026-03-26
 ## Q4 2025
 
 

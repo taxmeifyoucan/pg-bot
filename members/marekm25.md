@@ -30,6 +30,8 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Commit] [fix(ssz): mix in count=0 (not limit) for null/empty lists in MerkleizeList templates (#10828)](https://github.com/NethermindEth/nethermind/commit/417392291a4bbc2e44be26b964aa8c898d00db86) - 2026-03-18
 * [Review] [Review on: perf: full PGO data, cross-module inlining, Pettis-Hansen method layout](https://github.com/NethermindEth/nethermind/pull/10877#pullrequestreview-3976946598) - 2026-03-19
 * [Review] [Review on: FCU Canonical chain corruption after beacon sync (3 fixes + startup healing)](https://github.com/NethermindEth/nethermind/pull/10876#pullrequestreview-4006650064) - 2026-03-25
+* [Issue] [Make master green again](https://github.com/NethermindEth/nethermind/issues/10956) - 2026-03-26
+* [Issue] [Polish eth_getStorageValues](https://github.com/NethermindEth/nethermind/issues/10954) - 2026-03-26
 ## Q4 2025
 
 

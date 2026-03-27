@@ -64,6 +64,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Fix OkHttp readTimeout not being overridden for per-request Engine API timeouts](https://github.com/Consensys/teku/pull/10532) - 2026-03-25
 * [Issue] [Engine API requests fail with read timeout when only callTimeout is overridden](https://github.com/Consensys/teku/issues/10531) - 2026-03-25
 * [Commit] [Fix OkHttp readTimeout not being overridden for per-request Engine API timeouts (#10532)](https://github.com/Consensys/teku/commit/3ed652760430dbf61ec7fbb7597e991225155289) - 2026-03-25
+* [Pull Request] [Revert snappy-java back to 1.1.10.7](https://github.com/Consensys/teku/pull/10535) - 2026-03-26
+* [Commit] [Revert snappy-java back to 1.1.10.7 (#10535)](https://github.com/Consensys/teku/commit/c5add450714feaf941dc666ab7bb35ad544e56fd) - 2026-03-26
 ## Q4 2025
 
 
