@@ -22,3 +22,4 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix: BackgroundTaskScheduler disposal deadlock causing CI timeouts](https://github.com/NethermindEth/nethermind/pull/10927#pullrequestreview-3992391874) - 2026-03-23
 * [Pull Request] [[TEST] Sync PR Gate v2 - delete after test](https://github.com/NethermindEth/nethermind/pull/10942) - 2026-03-25
 * [Review] [Review on: ci: replace sync-smoke-test with tiered sync CI strategy](https://github.com/NethermindEth/nethermind/pull/10932#pullrequestreview-4017698048) - 2026-03-26
+* [Review] [Review on: ci: replace sync-smoke-test with tiered sync CI strategy](https://github.com/NethermindEth/nethermind/pull/10932#pullrequestreview-4018903559) - 2026-03-27

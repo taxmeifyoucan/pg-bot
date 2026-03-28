@@ -59,6 +59,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: fix cache contention](https://github.com/Consensys/teku/pull/10528#pullrequestreview-4005828614) - 2026-03-25
 * [Pull Request] [generalize AI context file to agents.md](https://github.com/Consensys/teku/pull/10529) - 2026-03-25
 * [Commit] [generalize AI context file to agents.md (#10529)](https://github.com/Consensys/teku/commit/937de73920373b30d07b4aa20e61657987792708) - 2026-03-25
+* [Pull Request] [10098 storage](https://github.com/Consensys/teku/pull/10541) - 2026-03-27
+* [Commit] [add blinded execution payload envelope containers (#10530)](https://github.com/Consensys/teku/commit/512a229561c5d33affcb9cdb7eba5e318ad7cbab) - 2026-03-27
 ## Q4 2025
 
 

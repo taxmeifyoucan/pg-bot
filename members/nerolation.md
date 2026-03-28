@@ -44,6 +44,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8037: Align with EIP-7928 Gas Validation Phases](https://github.com/ethereum/EIPs/commit/7df0a62ca4255f22a72603595c7a5312649f6e47) - 2026-03-20
 * [Pull Request] [Add EIP: Payload Chunking with Chunk Access Lists](https://github.com/ethereum/EIPs/pull/10900) - 2026-03-24
 * [Commit] [Add EIP: Payload Chunking with Chunk Access Lists](https://github.com/ethereum/EIPs/commit/1a86cc425d912c23f39ce830fcb25b481091dd0b) - 2026-03-24
+* [Pull Request] [Update EIP-7981: Align with EIP-7976 updates](https://github.com/ethereum/EIPs/pull/11340) - 2026-03-27
+* [Commit] [Update EIP-7981: Align with EIP-7976 updates](https://github.com/ethereum/EIPs/commit/87def23e7d59b4c01a28744a23c42edde0c97938) - 2026-03-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add worst-case BAL read test](https://github.com/ethereum/execution-specs/pull/2033) - 2026-01-18
 

@@ -38,6 +38,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [core/rawdb: parallel pruning of txindex](https://github.com/ethereum/go-ethereum/pull/34054) - 2026-03-19
 * [Review] [Review on: core/rawdb: parallel pruning of txindex](https://github.com/ethereum/go-ethereum/pull/34054#pullrequestreview-4002439665) - 2026-03-24
 * [Review] [Review on: cmd/utils: optimize history import with batched insertion](https://github.com/ethereum/go-ethereum/pull/33894#pullrequestreview-4002177483) - 2026-03-24
+* [Review] [Review on: eth/tracers/logger: fix legacy structLog JSON encoding](https://github.com/ethereum/go-ethereum/pull/34093#pullrequestreview-4022381284) - 2026-03-27
+* [Pull Request] [core: rolling history expiry](https://github.com/ethereum/go-ethereum/pull/34104) - 2026-03-27
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [eth_simulateV1: fix revert err code](https://github.com/ethereum/execution-apis/pull/748) - 2026-02-05
 * [Pull Request] [transaction: add blockTimestamp](https://github.com/ethereum/execution-apis/pull/749) - 2026-02-06

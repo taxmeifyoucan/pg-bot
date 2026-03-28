@@ -88,6 +88,7 @@ Team: Reth
 * [Pull Request] [chore: add comment about frame stack initial capacity](https://github.com/bluealloy/revm/pull/3527) - 2026-03-26
 * [Review] [Review on: refactor(precompile): take large array args by reference](https://github.com/bluealloy/revm/pull/3524#pullrequestreview-4016061653) - 2026-03-26
 * [Review] [Review on: bench: add secp256r1 (P256) precompile benchmark](https://github.com/bluealloy/revm/pull/3525#pullrequestreview-4016068037) - 2026-03-26
+* [Commit] [chore: add comment about frame stack initial capacity (#3527)](https://github.com/bluealloy/revm/commit/f0cf0dd3e2cc5c952688aab27de318a523c63a0e) - 2026-03-27
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [fix: make state tests pass](https://github.com/paradigmxyz/revmc/pull/95) - 2026-03-05
 * [Pull Request] [fix: remove flaky builtin_symbols_exported test](https://github.com/paradigmxyz/revmc/pull/108) - 2026-03-07
@@ -188,6 +189,20 @@ Team: Reth
 * [Commit] [chore: set dev profile opt-level to 3, remove ethtests profile (#168)](https://github.com/paradigmxyz/revmc/commit/6e99003d0441194e426cdc88bd33474f7160cca9) - 2026-03-26
 * [Commit] [refactor: use ORCv2 JIT (#164)](https://github.com/paradigmxyz/revmc/commit/ae22fe6dd3b0fb61cbbe0a224a7b8e8f19261701) - 2026-03-26
 * [Commit] [fix: charge spec-aware base gas for CALL, BALANCE, EXT*, and SLOAD (#165)](https://github.com/paradigmxyz/revmc/commit/3642294888d356efe2f2d625e54d59ac9bc80b59) - 2026-03-26
+* [Pull Request] [fix: register ORC JITLoaderPerf functions as absolute symbols](https://github.com/paradigmxyz/revmc/pull/184) - 2026-03-28
+* [Pull Request] [feat: add JIT memory usage tracking plugin](https://github.com/paradigmxyz/revmc/pull/180) - 2026-03-27
+* [Pull Request] [fix: suppress PerfSupportPlugin dbgs() log](https://github.com/paradigmxyz/revmc/pull/183) - 2026-03-27
+* [Pull Request] [perf: deduplicate AOT asm+object codegen via MC assembler](https://github.com/paradigmxyz/revmc/pull/182) - 2026-03-27
+* [Pull Request] [perf: deduplicate asm+object codegen via MC assembler](https://github.com/paradigmxyz/revmc/pull/181) - 2026-03-27
+* [Pull Request] [feat: configurable JIT debug and profiling support](https://github.com/paradigmxyz/revmc/pull/179) - 2026-03-27
+* [Pull Request] [refactor: replace revm umbrella dep with individual sub-crates](https://github.com/paradigmxyz/revmc/pull/178) - 2026-03-27
+* [Pull Request] [chore: remove unused C++ includes in revmc-llvm](https://github.com/paradigmxyz/revmc/pull/177) - 2026-03-27
+* [Pull Request] [chore: remove unused C++ includes in revmc-llvm](https://github.com/paradigmxyz/revmc/pull/176) - 2026-03-27
+* [Commit] [feat: add JIT memory usage tracking plugin (#180)](https://github.com/paradigmxyz/revmc/commit/8d73d45f026f2101cfd84c4d44df5cf41c3b65c7) - 2026-03-27
+* [Commit] [feat: configurable JIT debug and profiling support (#179)](https://github.com/paradigmxyz/revmc/commit/9a7f9b95e8fbd4cfa3fb8c6ce1a8e1d8054cd9f6) - 2026-03-27
+* [Commit] [refactor: replace revm umbrella dep with individual sub-crates (#178)](https://github.com/paradigmxyz/revmc/commit/b39aa520171be8c1ecf805df1c8570dbcce132c1) - 2026-03-27
+* [Commit] [chore: remove unused C++ includes in revmc-llvm (#177)](https://github.com/paradigmxyz/revmc/commit/6ad1f4022703e3ecf7374b1323c87a78e0b278d1) - 2026-03-27
+* [Commit] [perf: replace default<O3> with custom LLVM pass pipeline (#163)](https://github.com/paradigmxyz/revmc/commit/3d0d6205b4b911c52848c8c29e3ac2747938e656) - 2026-03-27
 ## Q4 2025
 
 

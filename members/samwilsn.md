@@ -42,6 +42,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Create a `has_access_list` function for transaction types](https://github.com/ethereum/execution-specs/issues/2521) - 2026-03-17
 * [Review] [Review on: feat(ci,tooling): [PROPOSAL] replace `tox` with `just`](https://github.com/ethereum/execution-specs/pull/2555#pullrequestreview-4007609011) - 2026-03-25
 * [Review] [Review on: refactor(specs): make `State` fork agnostic](https://github.com/ethereum/execution-specs/pull/2381#pullrequestreview-4008071800) - 2026-03-25
+* [Pull Request] [Replace `Uint(len(...))` with `ulen(...)`](https://github.com/ethereum/execution-specs/pull/2580) - 2026-03-27
+* [Issue] [Investigate using `deal` annotations](https://github.com/ethereum/execution-specs/issues/2577) - 2026-03-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs #38, February 18, 2026](https://github.com/ethereum/pm/issues/1909) - 2026-01-29
 ## Q4 2025

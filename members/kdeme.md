@@ -37,6 +37,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Feat:Fix Debug_* RPC endpoints](https://github.com/status-im/nimbus-eth1/pull/4069#pullrequestreview-4017574395) - 2026-03-26
 * [Pull Request] [Rework EEST testing to test per individual test case in file](https://github.com/status-im/nimbus-eth1/pull/4073) - 2026-03-26
 * [Commit] [Remove unneeded extra builds from eest_*_test targets (#4070)](https://github.com/status-im/nimbus-eth1/commit/7be15d7842217fa37ea3087ed9e319081618f008) - 2026-03-26
+* [Pull Request] [Makefile: Use NOTPARALLEL on nimbus and nec targets](https://github.com/status-im/nimbus-eth1/pull/4078) - 2026-03-27
+* [Pull Request] [Add hive helper scripts](https://github.com/status-im/nimbus-eth1/pull/4077) - 2026-03-27
+* [Pull Request] [eest: add parsing of witness and verify witness](https://github.com/status-im/nimbus-eth1/pull/4075) - 2026-03-27
+* [Review] [Review on: Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4053#pullrequestreview-4019781688) - 2026-03-27
+* [Commit] [Add hive helper scripts (#4077)](https://github.com/status-im/nimbus-eth1/commit/7b6f25199dc6c2a138f22472ee8c92624cacd150) - 2026-03-27
+* [Commit] [eest: add parsing of witness and verify witness (#4075)](https://github.com/status-im/nimbus-eth1/commit/304932388459c91f76458d685d622053afd21a08) - 2026-03-27
+* [Commit] [Rework EEST testing to test per individual test case in file (#4073)](https://github.com/status-im/nimbus-eth1/commit/ba4b231a9e559d1eae73a46e2b52f2345832bcba) - 2026-03-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3 and related changes](https://github.com/status-im/nimbus-eth2/pull/7876) - 2026-01-23
 * [Pull Request] []() - 2026-01-27

@@ -20,6 +20,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [New constructor](https://github.com/NethermindEth/nethermind/pull/10950) - 2026-03-25
 * [Commit] [Extend `CallResult` constructor visibility (#10949)](https://github.com/NethermindEth/nethermind/commit/707affd18a468f86475cab10bc6a299dae040774) - 2026-03-26
 * [Commit] [New constructor (#10950)](https://github.com/NethermindEth/nethermind/commit/a791dc661d055050127121b3b9c3caee3e08c6cb) - 2026-03-26
+* [Pull Request] [Move balance change in RefundOnFailContractCreation](https://github.com/NethermindEth/nethermind/pull/10974) - 2026-03-27
+* [Commit] [Move balance change in RefundOnFailContractCreation (#10974)](https://github.com/NethermindEth/nethermind/commit/469dbec11671dd4ce18ef573b7e80f1953d8397c) - 2026-03-27
 ## Q4 2025
 
 

@@ -60,6 +60,17 @@ Team: Erigon
 * [Commit] [commitment: refactor fold() into smaller methods (#20152)](https://github.com/erigontech/erigon/commit/8e6ce4f8369cf1016414a56eba05f1bd888e4015) - 2026-03-26
 * [Commit] [ci: handle git-restore-mtime download failure gracefully (#20173)](https://github.com/erigontech/erigon/commit/89a800292d7f839e9d623310d89ae8a118cbbce5) - 2026-03-26
 * [Commit] [test: fix flaky CorrectSwitchForConcurrent by removing shared rand source (#20138)](https://github.com/erigontech/erigon/commit/a8614283be1a77311be2359ea2ff4b22935ae3a2) - 2026-03-26
+* [Review] [Review on: ci: remove gitbook-release workflow](https://github.com/erigontech/erigon/pull/20197#pullrequestreview-4024451526) - 2026-03-28
+* [Pull Request] [commitment: remove dead ctx field from ConcurrentPatriciaHashed, each subtrie gets own context from factory](https://github.com/erigontech/erigon/pull/20203) - 2026-03-27
+* [Pull Request] [cmd: improve commitment snapshot removal output](https://github.com/erigontech/erigon/pull/20202) - 2026-03-27
+* [Pull Request] [db/state: disable ReplaceKeysInValues during RebuildCommitmentFiles](https://github.com/erigontech/erigon/pull/20204) - 2026-03-27
+* [Pull Request] [commitment: add context cancellation and remove dead mountedTries field](https://github.com/erigontech/erigon/pull/20207) - 2026-03-27
+* [Pull Request] [commitment: move cleanup to Release() for safer sync.Pool reuse](https://github.com/erigontech/erigon/pull/20208) - 2026-03-27
+* [Pull Request] [monitroing: per txn exec times dashboards](https://github.com/erigontech/erigon/pull/20206) - 2026-03-27
+* [Pull Request] [dashboard: add standalone exec metrics dashboard with per-txn breakdown and I/O rates](https://github.com/erigontech/erigon/pull/20199) - 2026-03-27
+* [Review] [Review on: commitment: cancel stale DeleteUpdate on storage rewrite](https://github.com/erigontech/erigon/pull/19982#pullrequestreview-4021657040) - 2026-03-27
+* [Commit] [commitment: remove dead ctx field from ConcurrentPatriciaHashed, each subtrie gets own context from factory (#20203)](https://github.com/erigontech/erigon/commit/94a38e6d445437f79d77bfc9932e8490b716962e) - 2026-03-27
+* [Commit] [monitroing: per txn exec times dashboards (#20206)](https://github.com/erigontech/erigon/commit/de4f856617d1be6caf60f15a0d72c9fcfd0316e9) - 2026-03-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3925895357) - 2026-03-10
 ## Q4 2025

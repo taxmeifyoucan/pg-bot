@@ -70,6 +70,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Fix empty blob KZG commitments in self-build execution payload bids](https://github.com/OffchainLabs/prysm/pull/16595#pullrequestreview-4018156434) - 2026-03-27
 * [Review] [Review on: fix: add missing ePBS values to /eth/v1/config/spec](https://github.com/OffchainLabs/prysm/pull/16557#pullrequestreview-4013198142) - 2026-03-26
 * [Commit] [Fix replay blocks (#16482)](https://github.com/OffchainLabs/prysm/commit/2898a5e8a2424f7d0b8a4e39755286a08669b51d) - 2026-03-26
+* [Pull Request] [Gloas/forkchoice setup](https://github.com/OffchainLabs/prysm/pull/16599) - 2026-03-27
+* [Pull Request] [Potuz/replay post gloas](https://github.com/OffchainLabs/prysm/pull/16598) - 2026-03-27
+* [Commit] [Gloas Init sync (#16528)](https://github.com/OffchainLabs/prysm/commit/543746d95d8a7c8e9a35dbc68db7d5ae1365ce1f) - 2026-03-27
+* [Commit] [Ignore blocks and data columns based on old blocks. (#16579)](https://github.com/OffchainLabs/prysm/commit/8e8c990a043f0e9f6c8a26a1a4c7c31d38628c02) - 2026-03-27
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [fix: remove AVX dependency from SSE x1 implementation](https://github.com/OffchainLabs/hashtree/pull/64) - 2026-03-26
 * [Review] [Review on: Update cargo, nim and makefile version to 0.2.4](https://github.com/OffchainLabs/hashtree/pull/62#pullrequestreview-4016606317) - 2026-03-26

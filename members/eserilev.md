@@ -46,6 +46,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Add range sync tests](https://github.com/sigp/lighthouse/pull/8989#pullrequestreview-4003654229) - 2026-03-25
 * [Review] [Review on: Gloas: envelope peer penalties and REJECT/IGNORE mapping](https://github.com/sigp/lighthouse/pull/8981#pullrequestreview-4013514232) - 2026-03-26
 * [Pull Request] [Gloas bid and preference verification](https://github.com/sigp/lighthouse/pull/9036) - 2026-03-26
+* [Pull Request] [Gloas SSE events and get payload envelope beacon API](https://github.com/sigp/lighthouse/pull/9038) - 2026-03-27
+* [Review] [Review on: Gloas SSE events and get payload envelope beacon API](https://github.com/sigp/lighthouse/pull/9038#pullrequestreview-4022070419) - 2026-03-27
+* [Pull Request] [Parent envelope unkown lookup [WIP]](https://github.com/sigp/lighthouse/pull/9039) - 2026-03-27
+* [Pull Request] [Gloas new payload v5](https://github.com/sigp/lighthouse/pull/9037) - 2026-03-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add details about how a validator should set `blob_data_available` for `PayloadAttestationData`](https://github.com/ethereum/consensus-specs/pull/4854) - 2026-01-21
 ## Q4 2025

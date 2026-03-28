@@ -103,6 +103,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix/resource leaks and add skill v2](https://github.com/NethermindEth/nethermind/pull/10958#pullrequestreview-4014051801) - 2026-03-26
 * [Pull Request] [Cross-block cache carry-forward with reorg invalidation](https://github.com/NethermindEth/nethermind/pull/10959) - 2026-03-26
 * [Review] [Review on: fix: resource leak — ArrayPool, double-dispose, CTS, event handlers & Resource Leak audit skill](https://github.com/NethermindEth/nethermind/pull/10951#pullrequestreview-4016885188) - 2026-03-26
+* [Review] [Review on: fix: Flaky Nethermind.Blockchain.Test](https://github.com/NethermindEth/nethermind/pull/10967#pullrequestreview-4022257508) - 2026-03-27
+* [Pull Request] [fix: prevent FlatDB live stall and make restart recovery exact](https://github.com/NethermindEth/nethermind/pull/10968) - 2026-03-27
+* [Review] [Review on: fix: prevent FlatDB live stall and make restart recovery exact](https://github.com/NethermindEth/nethermind/pull/10968#pullrequestreview-4018750384) - 2026-03-27
 ## Q4 2025
 
 

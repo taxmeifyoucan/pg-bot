@@ -73,6 +73,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Add flags](https://github.com/NethermindEth/nethermind/pull/10929#pullrequestreview-3992409557) - 2026-03-23
 * [Review] [Review on: FCU Canonical chain corruption after beacon sync (3 fixes + startup healing)](https://github.com/NethermindEth/nethermind/pull/10876#pullrequestreview-4018115214) - 2026-03-26
 * [Pull Request] [fix(zkevm): Fix RLP serialization and EVM memory for zkEVM](https://github.com/NethermindEth/nethermind/pull/10960) - 2026-03-26
+* [Pull Request] [fix(zkevm): Disable async state and trie processing for zkEVM](https://github.com/NethermindEth/nethermind/pull/10979) - 2026-03-27
+* [Review] [Review on: fix(zkevm): Disable async state and trie processing for zkEVM](https://github.com/NethermindEth/nethermind/pull/10979#pullrequestreview-4023216760) - 2026-03-27
+* [Commit] [fix(zkevm): Fix RLP serialization and EVM memory for zkEVM (#10960)](https://github.com/NethermindEth/nethermind/commit/2ee002753e906d13a166367dac1f21ab2794ad96) - 2026-03-27
 ## Q4 2025
 
 

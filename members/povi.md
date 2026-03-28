@@ -25,6 +25,8 @@ Team: Grandine
 * [Review] [Review on: Fixed nethermind reference assemblies installation](https://github.com/grandinetech/grandine/pull/645#pullrequestreview-4013499130) - 2026-03-26
 * [Review] [Review on: Updated dependencies](https://github.com/grandinetech/grandine/pull/644#pullrequestreview-4013150594) - 2026-03-26
 * [Commit] [Avoid initiating DB transactions for empty batches](https://github.com/grandinetech/grandine/commit/91d83ff672b3cdb8997b3b63893092533b454243) - 2026-03-26
+* [Review] [Review on: Limit data column pruning per transaction](https://github.com/grandinetech/grandine/pull/650#pullrequestreview-4022241302) - 2026-03-27
+* [Review] [Review on: Update libmdbx bindings](https://github.com/grandinetech/grandine/pull/649#pullrequestreview-4020616986) - 2026-03-27
 ## Q4 2025
 
 

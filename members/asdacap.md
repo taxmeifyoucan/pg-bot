@@ -61,6 +61,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor: extract BalStore from ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/10957#pullrequestreview-4013625199) - 2026-03-26
 * [Review] [Review on: Add opcode tracing plugin](https://github.com/NethermindEth/nethermind/pull/10038#pullrequestreview-4013216747) - 2026-03-26
 * [Pull Request] [perf: per-column write buffer caps in WriteBufferAdjuster](https://github.com/NethermindEth/nethermind/pull/10955) - 2026-03-26
+* [Review] [Review on: BlockTree DI](https://github.com/NethermindEth/nethermind/pull/10982#pullrequestreview-4024477950) - 2026-03-28
+* [Pull Request] [Add stall timeout margin before FlatDb compactor warning](https://github.com/NethermindEth/nethermind/pull/10983) - 2026-03-28
+* [Pull Request] [FlatDB dictionary lookup optimization](https://github.com/NethermindEth/nethermind/pull/10738) - 2026-03-28
+* [Review] [Review on: Cross-block cache carry-forward with reorg invalidation](https://github.com/NethermindEth/nethermind/pull/10959#pullrequestreview-4018771114) - 2026-03-27
+* [Pull Request] [[FOR-TESTING] feat(flat): add growing-window compaction scheme](https://github.com/NethermindEth/nethermind/pull/10970) - 2026-03-27
+* [Pull Request] [Fix EIP-158 system account test to use IWorldState interface](https://github.com/NethermindEth/nethermind/pull/10969) - 2026-03-27
+* [Review] [Review on: perf: pooled RefCountingTrieNode for trie warmer](https://github.com/NethermindEth/nethermind/pull/10946#pullrequestreview-4018431319) - 2026-03-27
+* [Review] [Review on: fix: prevent FlatDB live stall and make restart recovery exact](https://github.com/NethermindEth/nethermind/pull/10968#pullrequestreview-4018726898) - 2026-03-27
+* [Review] [Review on: refactor: extract BalStore from ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/10957#pullrequestreview-4018666565) - 2026-03-27
+* [Commit] [FlatDB dictionary lookup optimization (#10738)](https://github.com/NethermindEth/nethermind/commit/31b5c2eedb27c463440114d85b4791b43392e86a) - 2026-03-28
+* [Commit] [Fix EIP-158 system account test to use IWorldState interface (#10969)](https://github.com/NethermindEth/nethermind/commit/4d0f8c2dc12a26de6ab888648ab7f59dcbadd82d) - 2026-03-27
 ## Q4 2025
 
 

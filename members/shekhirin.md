@@ -65,6 +65,8 @@ Team: Reth
 * [Commit] [fix(cli): use storage.v2 flag for storage settings (#23236)](https://github.com/paradigmxyz/reth/commit/7f4a9a05ef38b2f88f900209d0d7f8d67ca148c1) - 2026-03-25
 * [Commit] [fix(engine): do not report metrics for already seen payloads (#23227)](https://github.com/paradigmxyz/reth/commit/78b97e81b7f2defcda058d49e72ab953d5f9aa05) - 2026-03-25
 * [Review] [Review on: feat: share execution cache with payload builder](https://github.com/paradigmxyz/reth/pull/23242#pullrequestreview-4013445140) - 2026-03-26
+* [Review] [Review on: feat(engine): share sparse trie pipeline with payload builder](https://github.com/paradigmxyz/reth/pull/23246#pullrequestreview-4020496853) - 2026-03-27
+* [Review] [Review on: chore: relax rpc converter impls](https://github.com/paradigmxyz/reth/pull/23254#pullrequestreview-4021185700) - 2026-03-27
 ## Q4 2025
 
 

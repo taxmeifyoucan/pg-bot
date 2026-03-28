@@ -51,6 +51,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl: add per-peer rate limiting on P2P ReqResp handlers](https://github.com/erigontech/erigon/pull/20146#pullrequestreview-4011557441) - 2026-03-26
 * [Review] [Review on: fix: avoid duplicate counter creation for gossip topics](https://github.com/erigontech/erigon/pull/18749#pullrequestreview-4011600349) - 2026-03-26
 * [Commit] [execution/vm: fix gas tracing underflow with EIP-8037 state gas (#20128)](https://github.com/erigontech/erigon/commit/b206fff09c1248eb07d252606431e4472f9d6136) - 2026-03-26
+* [Review] [Review on: cl/forkchoice, cltypes: normalize Electra requests nil handling](https://github.com/erigontech/erigon/pull/20187#pullrequestreview-4020038747) - 2026-03-27
 ## Q3 2025
 
 

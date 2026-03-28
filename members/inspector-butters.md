@@ -30,3 +30,6 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [Fix logging level bug for non text formats (#16567)](https://github.com/OffchainLabs/prysm/commit/9ea9e1f07cca61ae5854a32a3da76ffed484db77) - 2026-03-22
 * [Review] [Review on: Add `--disable-log-color` flag](https://github.com/OffchainLabs/prysm/pull/16574#pullrequestreview-3993028192) - 2026-03-23
 * [Review] [Review on: Add `--disable-log-color` flag](https://github.com/OffchainLabs/prysm/pull/16574#pullrequestreview-3998398605) - 2026-03-24
+* [Review] [Review on: implementing envelope rest apis ](https://github.com/OffchainLabs/prysm/pull/16522#pullrequestreview-4022648053) - 2026-03-27
+* [Review] [Review on: Hdiff: save hot states at tree boundaries](https://github.com/OffchainLabs/prysm/pull/16589#pullrequestreview-4022114220) - 2026-03-27
+* [Review] [Review on: Add gloas support to hdiff state diffs](https://github.com/OffchainLabs/prysm/pull/16590#pullrequestreview-4021891919) - 2026-03-27

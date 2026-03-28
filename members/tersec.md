@@ -50,6 +50,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm unused code](https://github.com/status-im/nimbus-eth2/pull/8158) - 2026-03-24
 * [Review] [Review on: add results to peer lookup and tests](https://github.com/status-im/nimbus-eth2/pull/8146#pullrequestreview-4003846322) - 2026-03-25
 * [Review] [Review on: Check parent block full](https://github.com/status-im/nimbus-eth2/pull/7664#pullrequestreview-4003775118) - 2026-03-25
+* [Commit] [version v26.3.1](https://github.com/status-im/nimbus-eth2/commit/102be79c06b408c4901fc73d92cbc8397c39425f) - 2026-03-28
 ## Q4 2025
 
 

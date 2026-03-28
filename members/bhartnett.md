@@ -27,6 +27,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4053#pullrequestreview-3995824517) - 2026-03-24
 * [Pull Request] [Cleanup redundant BlockNumberOrTagOrHash type](https://github.com/status-im/nimbus-eth1/pull/4067) - 2026-03-25
 * [Commit] [Cleanup redundant BlockNumberOrTagOrHash type (#4067)](https://github.com/status-im/nimbus-eth1/commit/bd15e94cb2bafab4a883300df1ea91d9275fb9c3) - 2026-03-25
+* [Review] [Review on: Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4053#pullrequestreview-4020725971) - 2026-03-27
 ## Q4 2025
 
 

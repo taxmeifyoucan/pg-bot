@@ -208,11 +208,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Invalid blocks produced on Hoodi](https://github.com/erigontech/erigon/issues/20169) - 2026-03-26
 * [Commit] [cl: wrap ErrIgnore in attestation propagation range check (#20179)](https://github.com/erigontech/erigon/commit/6516d342f601f5546d7d8e92e0003337f33e74bf) - 2026-03-26
 * [Commit] [cl: add per-peer rate limiting on P2P ReqResp handlers (#20146)](https://github.com/erigontech/erigon/commit/bfc4ce4a96a5f790799926a2eeb268ce0dc8902a) - 2026-03-26
+* [Pull Request] [execution: fix bal-devnet-3 hive error messages](https://github.com/erigontech/erigon/pull/20196) - 2026-03-27
+* [Review] [Review on: Add caplin support for assertor minimal presets](https://github.com/erigontech/erigon/pull/20190#pullrequestreview-4019972741) - 2026-03-27
+* [Review] [Review on: [r3.4] execution/state: revert CodeSizePath in codeChange journal entry](https://github.com/erigontech/erigon/pull/20194#pullrequestreview-4021654606) - 2026-03-27
+* [Pull Request] [test: update engine-x benchmarks to v0.0.7 and convert to Benchmark functions](https://github.com/erigontech/erigon/pull/20193) - 2026-03-27
+* [Commit] [execution: fix bal-devnet-3 hive error messages (#20196)](https://github.com/erigontech/erigon/commit/41df6299202213f63a54ea52a9d18f4adcb17ed5) - 2026-03-27
+* [Commit] [test: update engine-x benchmarks to v0.0.7 and convert to Benchmark functions (#20193)](https://github.com/erigontech/erigon/commit/42452fc7007c768f5752a6dbaf93197dbbe9cc1b) - 2026-03-27
+* [Commit] [cl: wire EIP-7843 slot number for Glamsterdam (#20175)](https://github.com/erigontech/erigon/commit/93b23d4be4463eededcbdaf20184066a00e0a103) - 2026-03-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: Align with EIP-7928 Gas Validation Phases](https://github.com/ethereum/EIPs/pull/11414#pullrequestreview-3966645827) - 2026-03-18
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [EIP-8037: check_transaction state gas pre-check is stricter than the EIP](https://github.com/ethereum/execution-specs/issues/2578) - 2026-03-27
 ## Q4 2025
 
 

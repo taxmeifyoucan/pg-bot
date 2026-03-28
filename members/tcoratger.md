@@ -122,3 +122,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat: add `assert_zeros_ext()` method to `ExtensionBuilder`](https://github.com/Plonky3/Plonky3/pull/1493#pullrequestreview-4014654499) - 2026-03-26
 * [Pull Request] [dft: testing for internals](https://github.com/Plonky3/Plonky3/pull/1494) - 2026-03-26
 * [Review] [Review on: refactor(verifier): remove unused MissingInput variant](https://github.com/Plonky3/Plonky3/pull/1484#pullrequestreview-4014518059) - 2026-03-26
+* [Pull Request] [uni stark: rely on default `assert_zeros_ext` for `ProverConstraintFolder`](https://github.com/Plonky3/Plonky3/pull/1498) - 2026-03-27
+* [Review] [Review on: monty-31: improve `monty_reduce_u128` speed](https://github.com/Plonky3/Plonky3/pull/1483#pullrequestreview-4019576125) - 2026-03-27
+* [Commit] [uni stark: rely on default assert_zeros_ext for ProverConstraintFolder (#1498)](https://github.com/Plonky3/Plonky3/commit/e9d75614dd6816f9b5dbb4413c69be63536efd64) - 2026-03-27
+* [Commit] [monty-31: improve `monty_reduce_u128` speed (#1483)](https://github.com/Plonky3/Plonky3/commit/a172a19ad05fad687f1a7a9faccc34bd3045b88c) - 2026-03-27
+* [Commit] [dft: testing for internals (#1494)](https://github.com/Plonky3/Plonky3/commit/e505f7807c4f22b0379dae0eba61f3a4b01467d7) - 2026-03-27

@@ -61,6 +61,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix/setup block ordering v2 (#134)](https://github.com/NethermindEth/gas-benchmarks/commit/1ba94997ab652eaa3e39577eac3b9ef9e05a2e6c) - 2026-03-19
 * [Commit] [Fix/setup block ordering (#132)](https://github.com/NethermindEth/gas-benchmarks/commit/194904501ba704b58f5e97b6658c605c8275ff82) - 2026-03-19
 * [Pull Request] [Amsterdam adjustemnts](https://github.com/NethermindEth/gas-benchmarks/pull/135) - 2026-03-27
+* [Pull Request] [feat: make PostgreSQL upload optional](https://github.com/NethermindEth/gas-benchmarks/pull/137) - 2026-03-27
+* [Pull Request] [Amsterdam adjustments](https://github.com/NethermindEth/gas-benchmarks/pull/136) - 2026-03-27
+* [Commit] [feat: make PostgreSQL upload optional (default false) (#137)](https://github.com/NethermindEth/gas-benchmarks/commit/dcbdf9a5d849dcb0d1cf47db76a02897685bc0ea) - 2026-03-27
+* [Commit] [Amsterdam adjustments (#136)](https://github.com/NethermindEth/gas-benchmarks/commit/0aaf8752f1bed6be57f989512aa5794ccff42d60) - 2026-03-27
 ## Q4 2025
 
 

@@ -172,6 +172,15 @@ Team: Reth
 * [Review] [Review on: fix(engine/tree): Fix canonical hash check in `find_canonical_header` for provider-known blocks](https://github.com/paradigmxyz/reth/pull/23207#pullrequestreview-4011465116) - 2026-03-26
 * [Review] [Review on: chore(docker): bump lighthouse v8.1.3](https://github.com/paradigmxyz/reth/pull/23239#pullrequestreview-4011393345) - 2026-03-26
 * [Commit] [chore: bump alloy 1.8.2 (#23241)](https://github.com/paradigmxyz/reth/commit/ef0095b5652189717421d2101489b9f17a1f21a6) - 2026-03-26
+* [Review] [Review on: refactor(engine): remove op PayloadAttributesBuilder impl and op feature from engine-local](https://github.com/paradigmxyz/reth/pull/23255#pullrequestreview-4022930789) - 2026-03-27
+* [Review] [Review on: fix: deduplicate packed nibble compact codec](https://github.com/paradigmxyz/reth/pull/23223#pullrequestreview-4022925558) - 2026-03-27
+* [Review] [Review on: fix(consensus): retry block subscription on initial connection failure](https://github.com/paradigmxyz/reth/pull/23233#pullrequestreview-4022320067) - 2026-03-27
+* [Review] [Review on: feat(engine): share sparse trie pipeline with payload builder](https://github.com/paradigmxyz/reth/pull/23246#pullrequestreview-4020706254) - 2026-03-27
+* [Review] [Review on: refactor(payload): remove op ExecutionPayload impl and op feature from payload-primitives](https://github.com/paradigmxyz/reth/pull/23253#pullrequestreview-4020709468) - 2026-03-27
+* [Review] [Review on: chore: relax rpc converter impls](https://github.com/paradigmxyz/reth/pull/23254#pullrequestreview-4022147661) - 2026-03-27
+* [Review] [Review on: refactor(net): simplify seen-transaction filtering in propagation](https://github.com/paradigmxyz/reth/pull/23189#pullrequestreview-4020021185) - 2026-03-27
+* [Review] [Review on: fix(engine): avoid double decrement in account cache size](https://github.com/paradigmxyz/reth/pull/23249#pullrequestreview-4019338987) - 2026-03-27
+* [Review] [Review on: fix(trie): use Entry API in `MultiProofTargets::extend_inner`](https://github.com/paradigmxyz/reth/pull/23247#pullrequestreview-4019170402) - 2026-03-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

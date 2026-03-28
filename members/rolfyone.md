@@ -125,6 +125,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Fix OkHttp readTimeout not being overridden for per-request Engine API timeouts](https://github.com/Consensys/teku/pull/10532#pullrequestreview-4010340564) - 2026-03-25
 * [Review] [Review on: Revert snappy-java back to 1.1.10.7](https://github.com/Consensys/teku/pull/10535#pullrequestreview-4011846747) - 2026-03-26
 * [Pull Request] [   Added POST /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10534) - 2026-03-26
+* [Pull Request] [defaulting of removed config items](https://github.com/Consensys/teku/pull/10539) - 2026-03-27
+* [Review] [Review on: defaulting of removed config items](https://github.com/Consensys/teku/pull/10539#pullrequestreview-4023700656) - 2026-03-27
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

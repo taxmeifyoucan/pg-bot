@@ -119,6 +119,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Update req/resp methods to validate `MIN_EPOCHS_FOR_BLOCK_REQUESTS`](https://github.com/ChainSafe/lodestar/issues/9107) - 2026-03-25
 * [Review] [Review on: feat: update data column sidecars for gloas](https://github.com/ChainSafe/lodestar/pull/8938#pullrequestreview-4014866131) - 2026-03-26
 * [Review] [Review on: fix: only create QUIC clients for configured address families](https://github.com/ChainSafe/lodestar/pull/9101#pullrequestreview-4016938334) - 2026-03-26
+* [Pull Request] [feat: add execution payload events](https://github.com/ChainSafe/lodestar/pull/9120) - 2026-03-27
+* [Review] [Review on: feat: add execution payload events](https://github.com/ChainSafe/lodestar/pull/9120#pullrequestreview-4022156418) - 2026-03-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15
@@ -130,6 +132,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Allow same epoch proposer preferences](https://github.com/ethereum/consensus-specs/pull/5035#pullrequestreview-3999679902) - 2026-03-24
 * [Pull Request] [Relax bid gossip dependency on proposer preferences](https://github.com/ethereum/consensus-specs/pull/5036) - 2026-03-24
 * [Commit] [Allow same epoch proposer preferences (#5035)](https://github.com/ethereum/consensus-specs/commit/8a78b25b0a4edf8dd22eee7c99bbd7e971785732) - 2026-03-25
+* [Review] [Review on: Add executable gossip validation functions for capella](https://github.com/ethereum/consensus-specs/pull/5049#pullrequestreview-4022115843) - 2026-03-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: implement getEffectiveBalanceIncrementsZeroInactive](https://github.com/ChainSafe/lodestar-z/pull/240#pullrequestreview-3987648664) - 2026-03-22
 ## Q4 2025

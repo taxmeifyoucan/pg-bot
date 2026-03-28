@@ -83,6 +83,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [Validator block v4](https://github.com/OffchainLabs/prysm/pull/16594) - 2026-03-26
 * [Pull Request] [implementing /eth/v2/validator/duties/proposer/{epoch}](https://github.com/OffchainLabs/prysm/pull/16303) - 2026-03-26
 * [Commit] [implementing /eth/v2/validator/duties/proposer/{epoch} (#16303)](https://github.com/OffchainLabs/prysm/commit/0bfe7367302d5e83575ee4be6291eb6690dcb256) - 2026-03-26
+* [Review] [Review on: Refactor gloas process_execution_payload into distinct entry points](https://github.com/OffchainLabs/prysm/pull/16600#pullrequestreview-4023616446) - 2026-03-27
+* [Review] [Review on: implementing envelope rest apis ](https://github.com/OffchainLabs/prysm/pull/16522#pullrequestreview-4023107238) - 2026-03-27
+* [Review] [Review on: Pre fork proposer preferences](https://github.com/OffchainLabs/prysm/pull/16588#pullrequestreview-4022540153) - 2026-03-27
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: fix: remove AVX dependency from SSE x1 implementation](https://github.com/OffchainLabs/hashtree/pull/64#pullrequestreview-4016657390) - 2026-03-26
 ## Q4 2025

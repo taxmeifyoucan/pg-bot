@@ -159,6 +159,14 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [chore: add fix-nethtest agent skill for EF test debugging (#10903)](https://github.com/NethermindEth/nethermind/commit/a075b36ec8b379602a0230a695f8f4e62f5ae900) - 2026-03-25
 * [Pull Request] [Fix/resource leaks and add skill v2](https://github.com/NethermindEth/nethermind/pull/10958) - 2026-03-26
 * [Review] [Review on: fix: resource leak — ArrayPool, double-dispose, CTS, event handlers & Resource Leak audit skill](https://github.com/NethermindEth/nethermind/pull/10951#pullrequestreview-4012001615) - 2026-03-26
+* [Review] [Review on: fix(zkevm): Disable async state and trie processing for zkEVM](https://github.com/NethermindEth/nethermind/pull/10979#pullrequestreview-4023241477) - 2026-03-27
+* [Review] [Review on: fix: Flaky Nethermind.Blockchain.Test](https://github.com/NethermindEth/nethermind/pull/10967#pullrequestreview-4021501504) - 2026-03-27
+* [Review] [Review on: Move balance change in RefundOnFailContractCreation](https://github.com/NethermindEth/nethermind/pull/10974#pullrequestreview-4021158960) - 2026-03-27
+* [Review] [Review on: fix: resource leak — ArrayPool, double-dispose, CTS, event handlers & Resource Leak audit skill](https://github.com/NethermindEth/nethermind/pull/10951#pullrequestreview-4021135306) - 2026-03-27
+* [Pull Request] [Canonical fix refactor](https://github.com/NethermindEth/nethermind/pull/10972) - 2026-03-27
+* [Review] [Review on: Fix EIP-158 system account test to use IWorldState interface](https://github.com/NethermindEth/nethermind/pull/10969#pullrequestreview-4019086761) - 2026-03-27
+* [Review] [Review on: fix(zkevm): Fix RLP serialization and EVM memory for zkEVM](https://github.com/NethermindEth/nethermind/pull/10960#pullrequestreview-4019098573) - 2026-03-27
+* [Review] [Review on: fix: prevent FlatDB live stall and make restart recovery exact](https://github.com/NethermindEth/nethermind/pull/10968#pullrequestreview-4019511853) - 2026-03-27
 ## Q4 2025
 
 

@@ -58,6 +58,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: enhance NetworkProcessor for gloas](https://github.com/ChainSafe/lodestar/pull/9025#pullrequestreview-4010922820) - 2026-03-26
 * [Review] [Review on: feat: enhance NetworkProcessor for gloas](https://github.com/ChainSafe/lodestar/pull/9025#pullrequestreview-4018397374) - 2026-03-27
 * [Review] [Review on: feat: introduce nativeStateView feature flag](https://github.com/ChainSafe/lodestar/pull/9067#pullrequestreview-4011952260) - 2026-03-26
+* [Pull Request] [fix: track PayloadExecutionStatus for forkchoice onExecutionPayload()](https://github.com/ChainSafe/lodestar/pull/9119) - 2026-03-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 * [Review] [Review on: fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241#pullrequestreview-3948190078) - 2026-03-14

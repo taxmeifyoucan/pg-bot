@@ -41,6 +41,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/pull/11391#pullrequestreview-3952860193) - 2026-03-16
 * [Review] [Review on: Update EIP-8141: add mempool policy](https://github.com/ethereum/EIPs/pull/11415#pullrequestreview-3957951837) - 2026-03-17
+* [Review] [Review on: Add EIP: Quick Slots](https://github.com/ethereum/EIPs/pull/11426#pullrequestreview-4023781967) - 2026-03-27
+* [Review] [Review on: Update EIP-7981: Align with EIP-7976 updates](https://github.com/ethereum/EIPs/pull/11340#pullrequestreview-4020771904) - 2026-03-27
 ## Q4 2025
 
 

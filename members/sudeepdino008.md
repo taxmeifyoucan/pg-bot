@@ -88,6 +88,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cmd/utils: simplify subset loop to single pass in rm-state (#20124)](https://github.com/erigontech/erigon/commit/4536c804d715a5ab3bc54729bbe337ff5d5aebf7) - 2026-03-25
 * [Pull Request] [[r3.4] fix TestAggregatorV3_Merge: correct onDelCalls expectation](https://github.com/erigontech/erigon/pull/20176) - 2026-03-26
 * [Pull Request] [Revert "exec3_parallel: eliminate IBS round-trip in finalize path (#19814)"](https://github.com/erigontech/erigon/pull/20177) - 2026-03-26
+* [Review] [Review on: [SharovBot] db/migrations: fix stage-exec-test panic on BlockAccessList table missing](https://github.com/erigontech/erigon/pull/20198#pullrequestreview-4023027050) - 2026-03-27
 ## Q4 2025
 
 

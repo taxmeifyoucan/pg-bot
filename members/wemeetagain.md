@@ -90,6 +90,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test(cache): add unit tests for SlashingsCache](https://github.com/ChainSafe/lodestar-z/pull/257#pullrequestreview-4007207369) - 2026-03-25
 * [Review] [Review on: chore: remove stale TODO in merkleize test](https://github.com/ChainSafe/lodestar-z/pull/256#pullrequestreview-4007200352) - 2026-03-25
 * [Review] [Review on: test(stf): add unit tests for isValidBlsToExecutionChange](https://github.com/ChainSafe/lodestar-z/pull/271#pullrequestreview-4014249514) - 2026-03-26
+* [Review] [Review on: chore: resolve stale TODOs in epoch processing](https://github.com/ChainSafe/lodestar-z/pull/285#pullrequestreview-4021109160) - 2026-03-27
 ## Q4 2025
 
 

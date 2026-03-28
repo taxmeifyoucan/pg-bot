@@ -22,6 +22,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: Bump workspace version to `0.5.0`](https://github.com/eth-act/ere/pull/309#pullrequestreview-3975650310) - 2026-03-19
 * [Review] [Review on: Update ZisK to `v0.16.1`](https://github.com/eth-act/ere/pull/312#pullrequestreview-4006006002) - 2026-03-25
 * [Issue] [Zisk v0.16.0 panics when in with_retry](https://github.com/eth-act/ere/issues/317) - 2026-03-26
+* [Review] [Review on: fix: the docker container retry logics](https://github.com/eth-act/ere/pull/318#pullrequestreview-4020504394) - 2026-03-27
+* [Issue] [Failed ZisK proof for mainnet block](https://github.com/eth-act/ere/issues/320) - 2026-03-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [fix(bal): fix populated account if pre-state was none](https://github.com/bluealloy/revm/pull/3357) - 2026-01-27
 
@@ -41,6 +43,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [Adjust for new benchmarkoor output](https://github.com/eth-act/zkevm-benchmark-workload/pull/268) - 2026-03-25
 * [Commit] [Adjust for new benchmarkoor output (#268)](https://github.com/eth-act/zkevm-benchmark-workload/commit/fb859308bfc816043ac4b5cb6ce81e38e34c16ed) - 2026-03-26
 * [Commit] [Update ere and ere-guests (#267)](https://github.com/eth-act/zkevm-benchmark-workload/commit/3df1a426a2d5e0dfa3cd8bcddba864e792c8bac4) - 2026-03-26
+* [Pull Request] [Update ere to latest version](https://github.com/eth-act/zkevm-benchmark-workload/pull/269) - 2026-03-27
+* [Commit] [Update ere to latest version (#269)](https://github.com/eth-act/zkevm-benchmark-workload/commit/37bd694728b0fbd3560661d408e75bbe24bd4ef2) - 2026-03-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(specs): delay get_code calls in CALL-like opcodes after gas charging and stack-depth checks](https://github.com/ethereum/execution-specs/pull/2473) - 2026-03-10
 * [Pull Request] [feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472) - 2026-03-10

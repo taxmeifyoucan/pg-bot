@@ -188,6 +188,13 @@ Team: Erigon
 * [Review] [Review on: qa-tests: restore the execution of RPC tests on the main and release branches](https://github.com/erigontech/erigon/pull/20129#pullrequestreview-3998425347) - 2026-03-24
 * [Pull Request] [[3.4] rpc-test: pick simulateV1 fixes from main](https://github.com/erigontech/erigon/pull/20117) - 2026-03-24
 * [Pull Request] [seg: more usage of bufio](https://github.com/erigontech/erigon/pull/20113) - 2026-03-24
+* [Pull Request] [crypto: zero-alloc, syncpool-free method to hash `[]byte` type](https://github.com/erigontech/erigon/pull/20114) - 2026-03-28
+* [Review] [Review on: commitment: remove dead ctx field from ConcurrentPatriciaHashed, each subtrie gets own context from factory](https://github.com/erigontech/erigon/pull/20203#pullrequestreview-4024135751) - 2026-03-27
+* [Review] [Review on: ci: unshadow main branch README](https://github.com/erigontech/erigon/pull/20189#pullrequestreview-4023979771) - 2026-03-27
+* [Review] [Review on: cmd: improve commitment snapshot removal output](https://github.com/erigontech/erigon/pull/20202#pullrequestreview-4024137773) - 2026-03-27
+* [Review] [Review on: db/state: disable ReplaceKeysInValues during RebuildCommitmentFiles](https://github.com/erigontech/erigon/pull/20204#pullrequestreview-4024135039) - 2026-03-27
+* [Review] [Review on: commitment: add context cancellation and remove dead mountedTries field](https://github.com/erigontech/erigon/pull/20207#pullrequestreview-4024131689) - 2026-03-27
+* [Review] [Review on: commitment: move cleanup to Release() for safer sync.Pool reuse](https://github.com/erigontech/erigon/pull/20208#pullrequestreview-4024131060) - 2026-03-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

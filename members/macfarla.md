@@ -166,6 +166,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [debug RPC endpoints standarization](https://github.com/besu-eth/besu/issues/10115) - 2026-03-27
 * [Issue] [should only advertise snap/1 in handshake if snapsync-server-enabled](https://github.com/besu-eth/besu/issues/10108) - 2026-03-26
 * [Commit] [add BWS stall detection and restart BWS if no progress (#10045)](https://github.com/besu-eth/besu/commit/a1eb7ace58e9c640b794bfa5de0b16c32dfd6e62) - 2026-03-27
+* [Pull Request] [update setup-java and setup-gradle actions to Node 24 versions](https://github.com/besu-eth/besu/pull/10118) - 2026-03-27
+* [Pull Request] [fallback for block hash cache should be the real chain](https://github.com/besu-eth/besu/pull/10119) - 2026-03-27
+* [Pull Request] [debug trace alignment: storage encoding](https://github.com/besu-eth/besu/pull/10117) - 2026-03-27
+* [Review] [Review on: debug trace alignment: storage encoding](https://github.com/besu-eth/besu/pull/10117#pullrequestreview-4019207073) - 2026-03-27
+* [Pull Request] [Fix/simulate fee recipient](https://github.com/besu-eth/besu/pull/9942) - 2026-03-27
+* [Review] [Review on: debug trace alignment: add refund to StructLog and 0x prefix](https://github.com/besu-eth/besu/pull/10116#pullrequestreview-4018828737) - 2026-03-27
+* [Commit] [debug trace alignment: storage encoding (#10117)](https://github.com/besu-eth/besu/commit/4790c97bf557891eeff95287f5f3ce09f2705509) - 2026-03-27
+* [Commit] [updated checkout and gradle wrapper actions (#10077)](https://github.com/besu-eth/besu/commit/e951f90cde1c25cbd65b0995b6fa764fdb9d79e3) - 2026-03-27
+* [Commit] [Fix/simulate fee recipient (#9942)](https://github.com/besu-eth/besu/commit/962a5f2836d95dc8762163f08749cb73b93e2d35) - 2026-03-27
+* [Commit] [Fix: eth_simulateV1 gas pricing (#10067)](https://github.com/besu-eth/besu/commit/1adbb267732feeee90b87595f627ccfda5810b19) - 2026-03-27
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

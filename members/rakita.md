@@ -65,6 +65,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521#pullrequestreview-3999334089) - 2026-03-24
 * [Review] [Review on: feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521#pullrequestreview-4006435172) - 2026-03-25
 * [Review] [Review on: feat(inspector): add `frame_start` and `frame_end` to `Inspector` trait](https://github.com/bluealloy/revm/pull/3518#pullrequestreview-4005158462) - 2026-03-25
+* [Pull Request] [refactor(ee-tests): replace custom snapshot testing with insta](https://github.com/bluealloy/revm/pull/3528) - 2026-03-27
+* [Review] [Review on: perf(inspector): remove redundant log clone in precompile path](https://github.com/bluealloy/revm/pull/3520#pullrequestreview-4021396922) - 2026-03-27
+* [Review] [Review on: refactor(precompile): take large array args by reference](https://github.com/bluealloy/revm/pull/3524#pullrequestreview-4021392562) - 2026-03-27
+* [Review] [Review on: chore: add comment about frame stack initial capacity](https://github.com/bluealloy/revm/pull/3527#pullrequestreview-4020033887) - 2026-03-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify transaction transfer to different account](https://github.com/ethereum/EIPs/pull/11188) - 2026-01-27
 * [Pull Request] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355) - 2026-03-10
@@ -72,6 +76,11 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [feat(evm): integrate revm state-gas branch (EIP-8037)](https://github.com/paradigmxyz/reth/pull/23116) - 2026-03-19
+
+* [Review] [Review on: chore: state gas changes for devnet3  bal](https://github.com/paradigmxyz/reth/pull/23197#pullrequestreview-4022856391) - 2026-03-27
+* [Review] [Review on: perf: enable revm p256-aws-lc-rs feature by default](https://github.com/paradigmxyz/reth/pull/23248#pullrequestreview-4020051323) - 2026-03-27
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: chore: update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4022857927) - 2026-03-27
 ## Q4 2025
 
 

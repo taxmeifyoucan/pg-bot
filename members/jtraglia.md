@@ -86,6 +86,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Increase `compute_shuffled_index` cache from 96 to 65536 entries](https://github.com/ethereum/consensus-specs/pull/5046) - 2026-03-26
 * [Commit] [Speed up `compute_ptc` (#5044)](https://github.com/ethereum/consensus-specs/commit/2e55491d98828b0741a535064860942c9045ab24) - 2026-03-26
 * [Commit] [Increase `compute_shuffled_index` cache from 96 to 65536 entries (#5046)](https://github.com/ethereum/consensus-specs/commit/ca2efdafe96236db678e4d9b4533e9f8cf7e5b57) - 2026-03-26
+* [Pull Request] [In networking tests, yield values after mutating them](https://github.com/ethereum/consensus-specs/pull/5050) - 2026-03-27
+* [Pull Request] [Reduce `compute_shuffled_index` cache from 65536 to 1024 entries](https://github.com/ethereum/consensus-specs/pull/5052) - 2026-03-27
+* [Pull Request] [Rename nightly-tests.yml to tests.yml](https://github.com/ethereum/consensus-specs/pull/5053) - 2026-03-27
+* [Pull Request] [Increase test timeout from 12 hours to 24 hours](https://github.com/ethereum/consensus-specs/pull/5051) - 2026-03-27
+* [Pull Request] [Add executable gossip validation functions for capella](https://github.com/ethereum/consensus-specs/pull/5049) - 2026-03-27
+* [Review] [Review on: Add executable gossip validation functions for capella](https://github.com/ethereum/consensus-specs/pull/5049#pullrequestreview-4022885807) - 2026-03-27
+* [Commit] [Reduce `compute_shuffled_index` cache from 65536 to 1024 entries (#5052)](https://github.com/ethereum/consensus-specs/commit/8a0110a819b87dbd8183542dde9e103e1e716f91) - 2026-03-27
+* [Commit] [Rename nightly-tests.yml to tests.yml (#5053)](https://github.com/ethereum/consensus-specs/commit/897621aa3a265510bed02b12405726d483f40fa1) - 2026-03-27
+* [Commit] [Increase test timeout from 12 hours to 24 hours (#5051)](https://github.com/ethereum/consensus-specs/commit/0b485cfdea3c66ac1b10f8685b6c7070ff3cb92c) - 2026-03-27
+* [Commit] [Exclude the version file from testing label (#5048)](https://github.com/ethereum/consensus-specs/commit/622f109098e6453fb9dcd261eda22d57a47cae34) - 2026-03-27
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: enable specref features & remove unnecessary spec items](https://github.com/ChainSafe/lodestar/pull/8788) - 2026-01-27
 

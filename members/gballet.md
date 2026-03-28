@@ -77,6 +77,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core/rawdb: parallel pruning of txindex](https://github.com/ethereum/go-ethereum/pull/34054#pullrequestreview-4013901911) - 2026-03-26
 * [Review] [Review on: (WIP) Quantum: Adding MLSDA65 precompile to begin adding quantum hardening support to Ethereum smart contracts](https://github.com/ethereum/go-ethereum/pull/34091#pullrequestreview-4014025532) - 2026-03-26
 * [Review] [Review on: core/txpool/legacypool: remove redundant nil check in Get](https://github.com/ethereum/go-ethereum/pull/34092#pullrequestreview-4013965676) - 2026-03-26
+* [Review] [Review on: core, miner, trie: relocate witness stats](https://github.com/ethereum/go-ethereum/pull/34106#pullrequestreview-4022169994) - 2026-03-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7864: encode offset as big endian](https://github.com/ethereum/EIPs/pull/11389) - 2026-03-09
 ## Q4 2025

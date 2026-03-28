@@ -37,6 +37,7 @@ Team: Erigon
 * [Review] [Review on: [3.4] update rpc version to 122 (remove fail on eth_simulateV1)](https://github.com/erigontech/erigon/pull/20159#pullrequestreview-4012078872) - 2026-03-26
 * [Commit] [qa-tests: restore the execution of RPC tests on the main and release branches (#20129)](https://github.com/erigontech/erigon/commit/5208c9da4107bc84cec3ffa965c55692e54b24f0) - 2026-03-26
 * [Commit] [qa-tests: fix fd-leak-analysis artifact name in 'sync with external cl' test (#19775)](https://github.com/erigontech/erigon/commit/9904241d4aa2a2c6a5d81b583784afbb761fec9e) - 2026-03-26
+* [Pull Request] [qa-tests: run rpc-integration tests on other clients](https://github.com/erigontech/erigon/pull/20201) - 2026-03-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529) - 2026-03-13
 * [Commit] [more verbose error messagge (#529)](https://github.com/erigontech/rpc-tests/commit/34b1c609e2d04cd26f8070821e3ca12bb6d673d4) - 2026-03-14

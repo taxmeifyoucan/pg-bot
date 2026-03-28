@@ -25,6 +25,8 @@ Team: Nimbus
 * [Commit] [Snap sync maint update (#4062)](https://github.com/status-im/nimbus-eth1/commit/a2bb5b6c2b39de054e0084aeedb9088e15b9952a) - 2026-03-24
 * [Pull Request] [Snap sync update cmd line options and state hash](https://github.com/status-im/nimbus-eth1/pull/4068) - 2026-03-25
 * [Commit] [Snap sync update cmd line options and state hash (#4068)](https://github.com/status-im/nimbus-eth1/commit/d4b9ea3e4cf7ce2a156ea6c6e59eec68028d25ba) - 2026-03-25
+* [Pull Request] [Snap sync update end of download condition](https://github.com/status-im/nimbus-eth1/pull/4076) - 2026-03-27
+* [Commit] [Snap sync update end of download condition (#4076)](https://github.com/status-im/nimbus-eth1/commit/58ae27563ef790daa2ec1ad7e43ddf75162aa11e) - 2026-03-27
 ## Q4 2025
 
 

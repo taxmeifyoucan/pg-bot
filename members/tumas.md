@@ -65,6 +65,9 @@ Team: Grandine
 * [Review] [Review on: Check validator indices before removing keys](https://github.com/grandinetech/grandine/pull/646#pullrequestreview-4015405160) - 2026-03-26
 * [Pull Request] [Store finalized validators to disk only when state is stored](https://github.com/grandinetech/grandine/pull/647) - 2026-03-26
 * [Commit] [Store finalized validators to disk only when state is stored](https://github.com/grandinetech/grandine/commit/841fc5f79bb8a9cbcc382d968d84056f78429b7c) - 2026-03-26
+* [Pull Request] [Limit data column pruning per transaction](https://github.com/grandinetech/grandine/pull/650) - 2026-03-27
+* [Pull Request] [Update libmdbx bindings](https://github.com/grandinetech/grandine/pull/649) - 2026-03-27
+* [Commit] [Update libmdbx bindings](https://github.com/grandinetech/grandine/commit/433eff516b4141778be36ed982df713760f7c49b) - 2026-03-27
 ## Q4 2025
 
 

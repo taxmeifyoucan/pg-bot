@@ -50,6 +50,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Add txpool_contentFrom JSON-RPC method](https://github.com/besu-eth/besu/pull/10111#pullrequestreview-4014795368) - 2026-03-26
 * [Pull Request] [Refactor `TransactionCompleteResult` to extend `TransactionPendingResult`](https://github.com/besu-eth/besu/pull/10113) - 2026-03-26
 * [Review] [Review on: Update discovery library coordinates](https://github.com/besu-eth/besu/pull/10110#pullrequestreview-4013205319) - 2026-03-26
+* [Pull Request] [Add txpool_inspect JSON-RPC method](https://github.com/besu-eth/besu/pull/10121) - 2026-03-27
+* [Pull Request] [Add txpool_content JSON-RPC method](https://github.com/besu-eth/besu/pull/10120) - 2026-03-27
+* [Review] [Review on: Add txpool_contentFrom JSON-RPC method](https://github.com/besu-eth/besu/pull/10111#pullrequestreview-4019861286) - 2026-03-27
+* [Commit] [Add txpool_contentFrom JSON-RPC method (#10111)](https://github.com/besu-eth/besu/commit/530f182737ddee3beef4f03e482a37aac7b2f96d) - 2026-03-27
 ## Q4 2025
 
 

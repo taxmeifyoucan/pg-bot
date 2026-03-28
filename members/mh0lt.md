@@ -133,6 +133,13 @@ Team: Erigon
 * [Commit] [caplin: unified Engine API client for standalone mode (#20035)](https://github.com/erigontech/erigon/commit/082697d2a0399fd6410eaf89a0ba51c482f61934) - 2026-03-25
 * [Commit] [fix bal-devnet-3 testing anomalies (#20143)](https://github.com/erigontech/erigon/commit/994011634f543a42df7a36a63dfabd64e17ceb6d) - 2026-03-25
 * [Review] [Review on: stagedsync: fix parallel executor dropping last receipt from cache](https://github.com/erigontech/erigon/pull/20041#pullrequestreview-4012320917) - 2026-03-26
+* [Review] [Review on: execution: fix bal-devnet-3 hive error messages](https://github.com/erigontech/erigon/pull/20196#pullrequestreview-4021110397) - 2026-03-27
+* [Pull Request] [Add caplin support for assertor minimal presets](https://github.com/erigontech/erigon/pull/20190) - 2026-03-27
+* [Review] [Review on: test: update engine-x benchmarks to v0.0.7 and convert to Benchmark functions](https://github.com/erigontech/erigon/pull/20193#pullrequestreview-4021113254) - 2026-03-27
+* [Pull Request] [notifications, rpc: overlay publish, pre-commit dispatch, native types, embedded RPC overlay](https://github.com/erigontech/erigon/pull/20195) - 2026-03-27
+* [Review] [Review on: cl: wire EIP-7843 slot number for Glamsterdam](https://github.com/erigontech/erigon/pull/20175#pullrequestreview-4020075075) - 2026-03-27
+* [Issue] [componentization: TxPool component extraction and modular tx pipeline](https://github.com/erigontech/erigon/issues/20192) - 2026-03-27
+* [Issue] [caplin: embedded dev validator for single-node development testing](https://github.com/erigontech/erigon/issues/20191) - 2026-03-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

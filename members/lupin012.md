@@ -66,6 +66,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: fix debug_getModifiedAccountsByNumber/Hash to match Geth semantics (#20043)](https://github.com/erigontech/erigon/commit/68475899e1ed162d8db2ff6edccc64835f8412fd) - 2026-03-26
 * [Commit] [update stateRoot according Geth and re-enable commented tests (#20062)](https://github.com/erigontech/erigon/commit/ca07330cac1ed199a6c253b9d7e1870045412c6c) - 2026-03-26
 * [Commit] [CI: update to new rpc version to 2.0.0 (#20141)](https://github.com/erigontech/erigon/commit/30b15d372bfb0ec166f776d287a155cf35b76993) - 2026-03-26
+* [Commit] [protect execution TIP under RPC load (#19905)](https://github.com/erigontech/erigon/commit/b6d67fab58d8c91ef35f95bea4577ed780805847) - 2026-03-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15
@@ -90,6 +91,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration: add missing go file (#534)](https://github.com/erigontech/rpc-tests/commit/bb704421d5c1ff96cb3a8181b08947f5f15ff0a1) - 2026-03-26
 * [Commit] [Fix exp debug get modified accounts by (#531)](https://github.com/erigontech/rpc-tests/commit/5f14c266f07f9c9b29b465de337e282a32df78bc) - 2026-03-26
 * [Commit] [eth_simulateV1: update stateRoot (#533)](https://github.com/erigontech/rpc-tests/commit/191e5a0b105faf5c988ccff497075d04467675df) - 2026-03-26
+* [Pull Request] [rpc-integration: add -R/--report-file option for per-API summary report](https://github.com/erigontech/rpc-tests/pull/536) - 2026-03-27
+* [Review] [Review on: v2: build and docs](https://github.com/erigontech/rpc-tests/pull/535#pullrequestreview-4019644126) - 2026-03-27
 ## Q4 2025
 
 

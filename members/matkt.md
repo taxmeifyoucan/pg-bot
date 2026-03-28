@@ -41,5 +41,6 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: fix: prevent infinite loop in clearStorage with >256 storage slots](https://github.com/besu-eth/besu/pull/10047#pullrequestreview-4012178240) - 2026-03-26
 * [Review] [Review on: Fix EIP-7778 and EIP-8037 bugs](https://github.com/besu-eth/besu/pull/10099#pullrequestreview-4012296574) - 2026-03-26
 * [Commit] [test(referencetests): validate block rejection reason against expected exception  (#10098)](https://github.com/besu-eth/besu/commit/ee6478a9a8a31e296e3d0681b2164d9c00506813) - 2026-03-26
+* [Review] [Review on: Preparation for BAL-based FlatDB healing via snap/2](https://github.com/besu-eth/besu/pull/10106#pullrequestreview-4021547779) - 2026-03-27
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Pull Request] [use set for the StemPrunableNodeRegistry](https://github.com/besu-eth/besu-stateless/pull/90) - 2026-02-27

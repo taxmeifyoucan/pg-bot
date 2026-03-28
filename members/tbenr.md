@@ -50,6 +50,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Fix swagger-ui failing to serve static files from JAR in Docker](https://github.com/Consensys/teku/pull/10520#pullrequestreview-3990584399) - 2026-03-23
 * [Review] [Review on: updated ptc duties description](https://github.com/Consensys/teku/pull/10525#pullrequestreview-3996713540) - 2026-03-24
 * [Review] [Review on: generalize AI context file to agents.md](https://github.com/Consensys/teku/pull/10529#pullrequestreview-4006984551) - 2026-03-25
+* [Review] [Review on: add blinded execution payload envelope containers](https://github.com/Consensys/teku/pull/10530#pullrequestreview-4019769189) - 2026-03-27
 ## Q4 2025
 
 

@@ -52,6 +52,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(test-client-clis): update besu exception mapper](https://github.com/ethereum/execution-specs/pull/2565) - 2026-03-26
 * [Commit] [chore(test-client-clis): update erigon exception mapper (#2564)](https://github.com/ethereum/execution-specs/commit/f2b2039b3458a8cb51841af9053a2ce24747c1b3) - 2026-03-26
 * [Commit] [chore(test-client-clis): update besu exception mapper (#2565)](https://github.com/ethereum/execution-specs/commit/80177d2eeb58d24e8a6a1ecc299d3f633ba7af7f) - 2026-03-26
+* [Pull Request] [chore(test-client-clis): update geth exception mapper for BAL devnet-3](https://github.com/ethereum/execution-specs/pull/2575) - 2026-03-27
+* [Commit] [chore(test-client-clis): update geth exception mapper for BAL devnet-3 (#2575)](https://github.com/ethereum/execution-specs/commit/65a3009d829b92ee750d1831bcba0739b9037865) - 2026-03-27
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 
@@ -61,6 +63,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: simulators/ethereum/eels: add the consume-enginex simulator](https://github.com/ethereum/hive/pull/1403#pullrequestreview-3980543783) - 2026-03-20
 * [Pull Request] [hive: set --sim.limit.exact flag default to false](https://github.com/ethereum/hive/pull/1408) - 2026-03-23
 * [Commit] [hive: set --sim.limit.exact flag default to false (#1408)](https://github.com/ethereum/hive/commit/77d3c1262ec36ec93527655cd33a77f2f49d8626) - 2026-03-23
+* [Pull Request] [clients/nethermind: add EIP-7954 and EIP-8037 to Amsterdam mapper](https://github.com/ethereum/hive/pull/1410) - 2026-03-27
+* [Pull Request] [clients/nimbus-el: add ca-certificates to Dockerfile.git](https://github.com/ethereum/hive/pull/1409) - 2026-03-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: clarify reservoir mechanics](https://github.com/ethereum/EIPs/pull/11328) - 2026-03-06
 * [Pull Request] [Update EIP-7773: SFI all glamsterdam EIPs included in a devnet](https://github.com/ethereum/EIPs/pull/11399) - 2026-03-12
@@ -72,6 +76,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: check regular and state gas dimensions independently](https://github.com/besu-eth/besu/pull/10114) - 2026-03-26
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core: fix bal-devnet-3 hive failures](https://github.com/ethereum/go-ethereum/pull/34105) - 2026-03-27
 ## Q4 2025
 
 

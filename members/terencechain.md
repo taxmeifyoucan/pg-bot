@@ -100,6 +100,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Issue] [validator: proposer preferences should be broadcast in the epoch prior to Gloas fork](https://github.com/OffchainLabs/prysm/issues/16587) - 2026-03-25
 * [Pull Request] [Fix empty blob KZG commitments in self-build execution payload bids](https://github.com/OffchainLabs/prysm/pull/16595) - 2026-03-26
 * [Review] [Review on: Pre fork proposer preferences](https://github.com/OffchainLabs/prysm/pull/16588#pullrequestreview-4017077607) - 2026-03-26
+* [Pull Request] [Refactor gloas process_execution_payload into distinct entry points](https://github.com/OffchainLabs/prysm/pull/16600) - 2026-03-27
+* [Review] [Review on: Gloas/forkchoice setup](https://github.com/OffchainLabs/prysm/pull/16599#pullrequestreview-4023529733) - 2026-03-27
+* [Review] [Review on: Potuz/replay post gloas](https://github.com/OffchainLabs/prysm/pull/16598#pullrequestreview-4023508917) - 2026-03-27
+* [Review] [Review on: Pre fork proposer preferences](https://github.com/OffchainLabs/prysm/pull/16588#pullrequestreview-4018803825) - 2026-03-27
+* [Review] [Review on: fix: add missing ePBS values to /eth/v1/config/spec](https://github.com/OffchainLabs/prysm/pull/16597#pullrequestreview-4021479791) - 2026-03-27
+* [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4021946844) - 2026-03-27
+* [Pull Request] [Implement builder api for gloas](https://github.com/OffchainLabs/prysm/pull/16596) - 2026-03-27
 ## Q4 2025
 
 

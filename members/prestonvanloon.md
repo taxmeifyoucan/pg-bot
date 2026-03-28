@@ -40,6 +40,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Fix empty blob KZG commitments in self-build execution payload bids](https://github.com/OffchainLabs/prysm/pull/16595#pullrequestreview-4018137090) - 2026-03-27
 * [Review] [Review on: Introduce a new cache that keeps all seen aggregated attestations for at least one epoch](https://github.com/OffchainLabs/prysm/pull/16370#pullrequestreview-4015690985) - 2026-03-26
 * [Review] [Review on: SSZ-QL: Hybrid merkle proof generation for `BeaconState`](https://github.com/OffchainLabs/prysm/pull/16295#pullrequestreview-4017021293) - 2026-03-26
+* [Commit] [Hdiff: save hot states at tree boundaries (#16589)](https://github.com/OffchainLabs/prysm/commit/139773aa3a9a300724a5c4599016fdd426caded7) - 2026-03-27
 ## Q4 2025
 
 
