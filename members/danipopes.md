@@ -74,6 +74,8 @@ Team: Reth
 * [Review] [Review on: feat: enable jemalloc `override_allocator_on_supported_platforms`](https://github.com/paradigmxyz/reth/pull/23214#pullrequestreview-4006145749) - 2026-03-25
 * [Review] [Review on: chore(deps): bump the cargo-weekly group across 1 directory with 2 updates](https://github.com/paradigmxyz/reth/pull/23211#pullrequestreview-4006021773) - 2026-03-25
 * [Commit] [chore: make EvmConfig generic in examples (#23229)](https://github.com/paradigmxyz/reth/commit/d3c3466c44d46ecf485524ec21621b2c1847c103) - 2026-03-25
+* [Pull Request] [chore(docs): normalize Grafana dashboard JSON formatting and tags](https://github.com/paradigmxyz/reth/pull/23266) - 2026-03-28
+* [Pull Request] [perf: use FastInstant for remaining metrics timing](https://github.com/paradigmxyz/reth/pull/23265) - 2026-03-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
@@ -203,6 +205,7 @@ Team: Reth
 * [Commit] [refactor: replace revm umbrella dep with individual sub-crates (#178)](https://github.com/paradigmxyz/revmc/commit/b39aa520171be8c1ecf805df1c8570dbcce132c1) - 2026-03-27
 * [Commit] [chore: remove unused C++ includes in revmc-llvm (#177)](https://github.com/paradigmxyz/revmc/commit/6ad1f4022703e3ecf7374b1323c87a78e0b278d1) - 2026-03-27
 * [Commit] [perf: replace default<O3> with custom LLVM pass pipeline (#163)](https://github.com/paradigmxyz/revmc/commit/3d0d6205b4b911c52848c8c29e3ac2747938e656) - 2026-03-27
+* [Pull Request] [feat: constant propagation via abstract stack interpretation](https://github.com/paradigmxyz/revmc/pull/185) - 2026-03-28
 ## Q4 2025
 
 

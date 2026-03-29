@@ -67,6 +67,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [update stateRoot according Geth and re-enable commented tests (#20062)](https://github.com/erigontech/erigon/commit/ca07330cac1ed199a6c253b9d7e1870045412c6c) - 2026-03-26
 * [Commit] [CI: update to new rpc version to 2.0.0 (#20141)](https://github.com/erigontech/erigon/commit/30b15d372bfb0ec166f776d287a155cf35b76993) - 2026-03-26
 * [Commit] [protect execution TIP under RPC load (#19905)](https://github.com/erigontech/erigon/commit/b6d67fab58d8c91ef35f95bea4577ed780805847) - 2026-03-27
+* [Pull Request] [rpc: debug_traceTransaction() align index format as Geth](https://github.com/erigontech/erigon/pull/20210) - 2026-03-28
+* [Pull Request] [QA: enable perf tool using go tool](https://github.com/erigontech/erigon/pull/20212) - 2026-03-28
+* [Pull Request] [rpc: fix debug_traceTransaction() in case of tx not found](https://github.com/erigontech/erigon/pull/20211) - 2026-03-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15
@@ -93,6 +96,18 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [eth_simulateV1: update stateRoot (#533)](https://github.com/erigontech/rpc-tests/commit/191e5a0b105faf5c988ccff497075d04467675df) - 2026-03-26
 * [Pull Request] [rpc-integration: add -R/--report-file option for per-API summary report](https://github.com/erigontech/rpc-tests/pull/536) - 2026-03-27
 * [Review] [Review on: v2: build and docs](https://github.com/erigontech/rpc-tests/pull/535#pullrequestreview-4019644126) - 2026-03-27
+* [Pull Request] [perf: add --process-name flag for server liveness check](https://github.com/erigontech/rpc-tests/pull/543) - 2026-03-28
+* [Pull Request] [integration: fix exp eth_createAccessList via grpc](https://github.com/erigontech/rpc-tests/pull/542) - 2026-03-28
+* [Pull Request] [integration-test: fix exp debug trace transaction tx not found](https://github.com/erigontech/rpc-tests/pull/541) - 2026-03-28
+* [Pull Request] [integration: fix debug trace transaction with hex index](https://github.com/erigontech/rpc-tests/pull/538) - 2026-03-28
+* [Pull Request] [integration: save expected resp order like erigon](https://github.com/erigontech/rpc-tests/pull/540) - 2026-03-28
+* [Pull Request] [integration: compresss ots_searchTransactionsBefore resp](https://github.com/erigontech/rpc-tests/pull/539) - 2026-03-28
+* [Pull Request] [rpc-integration: fix json compare with array](https://github.com/erigontech/rpc-tests/pull/537) - 2026-03-28
+* [Commit] [fix exp fot debug_traceTransaction with hexIndex (#538)](https://github.com/erigontech/rpc-tests/commit/ec2218cfab9266f43bc751b456fd4363e95fcb3d) - 2026-03-28
+* [Commit] [integration: save expected resp order like erigon (#540)](https://github.com/erigontech/rpc-tests/commit/aea385cc4d9b5282d7801f7fb61aad7d4fe0cf19) - 2026-03-28
+* [Commit] [integration: compresss ots_searchTransactionsBefore resp (#539)](https://github.com/erigontech/rpc-tests/commit/82b592b2fed6aab39ba8a091346be6076dd55d1c) - 2026-03-28
+* [Commit] [rpc-integration: fix json compare with array (#537)](https://github.com/erigontech/rpc-tests/commit/c4bd6e021b10885509ce23fb5e119dc3a7aaf823) - 2026-03-28
+* [Commit] [rpc-integration: add -R/--report-file option for per-API summary report modify -E behaviour (#536)](https://github.com/erigontech/rpc-tests/commit/014dafba4dab6e990e615bde96da970b82ecb39d) - 2026-03-28
 ## Q4 2025
 
 

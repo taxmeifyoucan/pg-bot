@@ -167,6 +167,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Fix EIP-158 system account test to use IWorldState interface](https://github.com/NethermindEth/nethermind/pull/10969#pullrequestreview-4019086761) - 2026-03-27
 * [Review] [Review on: fix(zkevm): Fix RLP serialization and EVM memory for zkEVM](https://github.com/NethermindEth/nethermind/pull/10960#pullrequestreview-4019098573) - 2026-03-27
 * [Review] [Review on: fix: prevent FlatDB live stall and make restart recovery exact](https://github.com/NethermindEth/nethermind/pull/10968#pullrequestreview-4019511853) - 2026-03-27
+* [Review] [Review on: BlockTree DI](https://github.com/NethermindEth/nethermind/pull/10982#pullrequestreview-4025521355) - 2026-03-28
 ## Q4 2025
 
 

@@ -20,6 +20,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [update column quarantine, and supernode behaviour](https://github.com/status-im/nimbus-eth2/pull/8061) - 2026-03-07
 * [Pull Request] [Div 2 + 1 elimination and tests modification.](https://github.com/status-im/nimbus-eth2/pull/8074) - 2026-03-12
 * [Pull Request] [add results to peer lookup and tests](https://github.com/status-im/nimbus-eth2/pull/8146) - 2026-03-21
+* [Pull Request] [rid the column q check now that q updation is stabler](https://github.com/status-im/nimbus-eth2/pull/8068) - 2026-03-28
 ## Q4 2025
 
 

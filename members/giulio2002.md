@@ -58,6 +58,7 @@ Team: Erigon
 * [Review] [Review on: rpc: fix flaky TestReceiptRootValidationAfterReorg on Windows](https://github.com/erigontech/erigon/pull/20094#pullrequestreview-3992426570) - 2026-03-23
 * [Review] [Review on: caplin: fix BlockCollector crash-loop on gap in collected blocks](https://github.com/erigontech/erigon/pull/20130#pullrequestreview-3999969714) - 2026-03-24
 * [Review] [Review on: execution/protocol: rename StateTransition → TxnExecutor](https://github.com/erigontech/erigon/pull/20158#pullrequestreview-4023111132) - 2026-03-27
+* [Review] [Review on: rpc: simplify and deduplicate code across rpc packages](https://github.com/erigontech/erigon/pull/19984#pullrequestreview-4025132433) - 2026-03-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Engine API Communication Channels](https://github.com/ethereum/EIPs/pull/11360) - 2026-02-28
 
@@ -65,6 +66,7 @@ Team: Erigon
 * [Commit] [Add EIP: Binary SSZ Transport for the Engine API](https://github.com/ethereum/EIPs/commit/73afb6b4d30b0430ff8fb29b09bddb5ace928c9a) - 2026-03-10
 * [Pull Request] [Update EIP-8175: Add Falcon-512 post-quantum signature scheme](https://github.com/ethereum/EIPs/pull/11431) - 2026-03-20
 * [Pull Request] [Add EIP: SchemedTransaction — Scheme-Agile Transactions](https://github.com/ethereum/EIPs/pull/11438) - 2026-03-22
+* [Pull Request] [Add EIP: Increase Maximum Contract Size to 64KiB](https://github.com/ethereum/EIPs/pull/11462) - 2026-03-28
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add engine_exchangeCapabilitiesV2](https://github.com/ethereum/execution-apis/pull/766) - 2026-03-05
 

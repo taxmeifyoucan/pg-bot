@@ -44,6 +44,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add hive helper scripts (#4077)](https://github.com/status-im/nimbus-eth1/commit/7b6f25199dc6c2a138f22472ee8c92624cacd150) - 2026-03-27
 * [Commit] [eest: add parsing of witness and verify witness (#4075)](https://github.com/status-im/nimbus-eth1/commit/304932388459c91f76458d685d622053afd21a08) - 2026-03-27
 * [Commit] [Rework EEST testing to test per individual test case in file (#4073)](https://github.com/status-im/nimbus-eth1/commit/ba4b231a9e559d1eae73a46e2b52f2345832bcba) - 2026-03-27
+* [Pull Request] [Split up nimbus and nec builds in CI](https://github.com/status-im/nimbus-eth1/pull/4080) - 2026-03-28
+* [Pull Request] [eest: Run all eest tests from one binary](https://github.com/status-im/nimbus-eth1/pull/4079) - 2026-03-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3 and related changes](https://github.com/status-im/nimbus-eth2/pull/7876) - 2026-01-23
 * [Pull Request] []() - 2026-01-27

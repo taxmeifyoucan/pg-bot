@@ -46,6 +46,7 @@ Team: Reth
 * [Commit] [fix(provider): fix race between save_blocks and rocksdb pruning (#23081)](https://github.com/paradigmxyz/reth/commit/a83d5453bd38a47cbd4346a86ea6eefa6d20e4b1) - 2026-03-18
 * [Review] [Review on: fix(download): wire Ctrl+C to cancellation token and fix progress labels](https://github.com/paradigmxyz/reth/pull/23104#pullrequestreview-3972110229) - 2026-03-19
 * [Pull Request] [chore(cli): add more WARN logging before we retry a download](https://github.com/paradigmxyz/reth/pull/23258) - 2026-03-27
+* [Commit] [chore(cli): add more WARN logging before we retry a download (#23258)](https://github.com/paradigmxyz/reth/commit/27781443a6e6e71c93bbbe05012f0ac9595f9dac) - 2026-03-28
 ## Q4 2025
 
 

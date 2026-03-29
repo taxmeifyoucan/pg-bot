@@ -76,6 +76,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix(zkevm): Disable async state and trie processing for zkEVM](https://github.com/NethermindEth/nethermind/pull/10979) - 2026-03-27
 * [Review] [Review on: fix(zkevm): Disable async state and trie processing for zkEVM](https://github.com/NethermindEth/nethermind/pull/10979#pullrequestreview-4023216760) - 2026-03-27
 * [Commit] [fix(zkevm): Fix RLP serialization and EVM memory for zkEVM (#10960)](https://github.com/NethermindEth/nethermind/commit/2ee002753e906d13a166367dac1f21ab2794ad96) - 2026-03-27
+* [Review] [Review on: chore(taiko): activate Shasta fork on Alethia](https://github.com/NethermindEth/nethermind/pull/10984#pullrequestreview-4025448916) - 2026-03-28
+* [Commit] [fix(zkevm): Disable async state and trie processing for zkEVM (#10979)](https://github.com/NethermindEth/nethermind/commit/f23db542d5ae4c27bc51b942e70340e843e097ad) - 2026-03-28
 ## Q4 2025
 
 

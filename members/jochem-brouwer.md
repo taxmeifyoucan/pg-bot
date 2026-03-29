@@ -43,6 +43,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-8141: add mempool policy](https://github.com/ethereum/EIPs/pull/11415#pullrequestreview-3957951837) - 2026-03-17
 * [Review] [Review on: Add EIP: Quick Slots](https://github.com/ethereum/EIPs/pull/11426#pullrequestreview-4023781967) - 2026-03-27
 * [Review] [Review on: Update EIP-7981: Align with EIP-7976 updates](https://github.com/ethereum/EIPs/pull/11340#pullrequestreview-4020771904) - 2026-03-27
+* [Review] [Review on: Add EIP: Quick Slots](https://github.com/ethereum/EIPs/pull/11426#pullrequestreview-4025019782) - 2026-03-28
 ## Q4 2025
 
 

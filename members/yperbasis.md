@@ -215,6 +215,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: fix bal-devnet-3 hive error messages (#20196)](https://github.com/erigontech/erigon/commit/41df6299202213f63a54ea52a9d18f4adcb17ed5) - 2026-03-27
 * [Commit] [test: update engine-x benchmarks to v0.0.7 and convert to Benchmark functions (#20193)](https://github.com/erigontech/erigon/commit/42452fc7007c768f5752a6dbaf93197dbbe9cc1b) - 2026-03-27
 * [Commit] [cl: wire EIP-7843 slot number for Glamsterdam (#20175)](https://github.com/erigontech/erigon/commit/93b23d4be4463eededcbdaf20184066a00e0a103) - 2026-03-27
+* [Review] [Review on: Add caplin support for assertor minimal presets](https://github.com/erigontech/erigon/pull/20190#pullrequestreview-4025370955) - 2026-03-28
+* [Review] [Review on: notifications, rpc: overlay publish, pre-commit dispatch, native types, embedded RPC overlay](https://github.com/erigontech/erigon/pull/20195#pullrequestreview-4025435259) - 2026-03-28
+* [Commit] [execution/protocol: rename StateTransition → TxnExecutor (#20158)](https://github.com/erigontech/erigon/commit/d531359707675ca584f9064570b5fc8b9e0c34bd) - 2026-03-28
+* [Commit] [rpc: simplify and deduplicate code across rpc packages (#19984)](https://github.com/erigontech/erigon/commit/cd32273c47321ad214fabc1dcd5cd66b79f92214) - 2026-03-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

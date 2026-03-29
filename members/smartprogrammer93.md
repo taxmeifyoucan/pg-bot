@@ -54,6 +54,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(db): reuse ReadOptions in ColumnDbSnapshot to reduce GC pressure (#10894)](https://github.com/NethermindEth/nethermind/commit/e1cc5d8e395d798e1cdc7cbe6e78729fc5077dda) - 2026-03-22
 * [Review] [Review on: fix: BackgroundTaskScheduler disposal deadlock causing CI timeouts](https://github.com/NethermindEth/nethermind/pull/10927#pullrequestreview-3992392030) - 2026-03-23
 * [Review] [Review on: Migrate TxGossipPolicy to DI using OrderedComponents](https://github.com/NethermindEth/nethermind/pull/10941#pullrequestreview-4005022139) - 2026-03-25
+
+* [Pull Request] [chore(taiko): activate Shasta fork on Alethia](https://github.com/NethermindEth/nethermind/pull/10984) - 2026-03-28
+* [Review] [Review on: fix(zkevm): Disable async state and trie processing for zkEVM](https://github.com/NethermindEth/nethermind/pull/10979#pullrequestreview-4025148635) - 2026-03-28
+* [Commit] [chore(taiko): activate Shasta fork on Alethia (#10984)](https://github.com/NethermindEth/nethermind/commit/a2ed75681b58cccebf27836ef23cb7217d381ec2) - 2026-03-28
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8198: Use SLOT_SCHEDULE for slot-time-dependent constants](https://github.com/ethereum/EIPs/pull/11458) - 2026-03-28
 ## Q3 2025
 
 

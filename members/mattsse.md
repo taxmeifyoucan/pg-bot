@@ -181,6 +181,7 @@ Team: Reth
 * [Review] [Review on: refactor(net): simplify seen-transaction filtering in propagation](https://github.com/paradigmxyz/reth/pull/23189#pullrequestreview-4020021185) - 2026-03-27
 * [Review] [Review on: fix(engine): avoid double decrement in account cache size](https://github.com/paradigmxyz/reth/pull/23249#pullrequestreview-4019338987) - 2026-03-27
 * [Review] [Review on: fix(trie): use Entry API in `MultiProofTargets::extend_inner`](https://github.com/paradigmxyz/reth/pull/23247#pullrequestreview-4019170402) - 2026-03-27
+* [Review] [Review on: chore(cli): add more WARN logging before we retry a download](https://github.com/paradigmxyz/reth/pull/23258#pullrequestreview-4024861592) - 2026-03-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

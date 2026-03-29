@@ -176,6 +176,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [updated checkout and gradle wrapper actions (#10077)](https://github.com/besu-eth/besu/commit/e951f90cde1c25cbd65b0995b6fa764fdb9d79e3) - 2026-03-27
 * [Commit] [Fix/simulate fee recipient (#9942)](https://github.com/besu-eth/besu/commit/962a5f2836d95dc8762163f08749cb73b93e2d35) - 2026-03-27
 * [Commit] [Fix: eth_simulateV1 gas pricing (#10067)](https://github.com/besu-eth/besu/commit/1adbb267732feeee90b87595f627ccfda5810b19) - 2026-03-27
+* [Commit] [fallback for block hash cache should be the real chain (#10119)](https://github.com/besu-eth/besu/commit/ccacf34b29753bc4216cb3f255682f22e15de92a) - 2026-03-28
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

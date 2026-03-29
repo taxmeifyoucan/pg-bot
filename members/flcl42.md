@@ -65,6 +65,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Fix admin_peers](https://github.com/NethermindEth/nethermind/pull/10978) - 2026-03-27
 * [Pull Request] [Don't check BALs if no validation is required](https://github.com/NethermindEth/nethermind/pull/10973) - 2026-03-27
 * [Pull Request] [Don't record BALs during transaction picking](https://github.com/NethermindEth/nethermind/pull/10971) - 2026-03-27
+* [Review] [Review on: chore(taiko): activate Shasta fork on Alethia](https://github.com/NethermindEth/nethermind/pull/10984#pullrequestreview-4025230092) - 2026-03-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Refactor BAL exception patterns in nethermind.py](https://github.com/ethereum/execution-specs/pull/2550) - 2026-03-24
 * [Commit] [chore(test-client-clis): update BAL exceptions for nethermind (#2550)](https://github.com/ethereum/execution-specs/commit/6e98103b8ac378c44a02c81e2734898c782ac717) - 2026-03-26

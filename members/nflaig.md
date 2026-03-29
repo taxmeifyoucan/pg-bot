@@ -121,6 +121,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: only create QUIC clients for configured address families](https://github.com/ChainSafe/lodestar/pull/9101#pullrequestreview-4016938334) - 2026-03-26
 * [Pull Request] [feat: add execution payload events](https://github.com/ChainSafe/lodestar/pull/9120) - 2026-03-27
 * [Review] [Review on: feat: add execution payload events](https://github.com/ChainSafe/lodestar/pull/9120#pullrequestreview-4022156418) - 2026-03-27
+* [Review] [Review on: fix: update stale custody group metric name in summary dashboard](https://github.com/ChainSafe/lodestar/pull/9121#pullrequestreview-4025575334) - 2026-03-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15

@@ -47,6 +47,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: eth_simulateV1: update stateRoot](https://github.com/erigontech/rpc-tests/pull/533#pullrequestreview-4015112501) - 2026-03-26
 * [Pull Request] [v2: build and docs](https://github.com/erigontech/rpc-tests/pull/535) - 2026-03-27
 * [Commit] [v2: build and docs (#535)](https://github.com/erigontech/rpc-tests/commit/7bc303870c42466cc5b65e7fe1315f1854317cc9) - 2026-03-27
+* [Review] [Review on: integration: fix debug trace transaction with hex index](https://github.com/erigontech/rpc-tests/pull/538#pullrequestreview-4025795709) - 2026-03-28
+* [Review] [Review on: integration: save expected resp order like erigon](https://github.com/erigontech/rpc-tests/pull/540#pullrequestreview-4025797429) - 2026-03-28
+* [Review] [Review on: integration: compresss ots_searchTransactionsBefore resp](https://github.com/erigontech/rpc-tests/pull/539#pullrequestreview-4025796219) - 2026-03-28
+* [Review] [Review on: rpc-integration: fix json compare with array](https://github.com/erigontech/rpc-tests/pull/537#pullrequestreview-4025794638) - 2026-03-28
+* [Review] [Review on: rpc-integration: add -R/--report-file option for per-API summary report modify -E behaviour](https://github.com/erigontech/rpc-tests/pull/536#pullrequestreview-4025793456) - 2026-03-28
 ## Q4 2025
 
 

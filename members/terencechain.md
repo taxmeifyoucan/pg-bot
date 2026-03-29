@@ -107,6 +107,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: fix: add missing ePBS values to /eth/v1/config/spec](https://github.com/OffchainLabs/prysm/pull/16597#pullrequestreview-4021479791) - 2026-03-27
 * [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4021946844) - 2026-03-27
 * [Pull Request] [Implement builder api for gloas](https://github.com/OffchainLabs/prysm/pull/16596) - 2026-03-27
+* [Review] [Review on: Refactor gloas process_execution_payload into distinct entry points](https://github.com/OffchainLabs/prysm/pull/16600#pullrequestreview-4024640005) - 2026-03-28
 ## Q4 2025
 
 

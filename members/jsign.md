@@ -24,6 +24,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Issue] [Zisk v0.16.0 panics when in with_retry](https://github.com/eth-act/ere/issues/317) - 2026-03-26
 * [Review] [Review on: fix: the docker container retry logics](https://github.com/eth-act/ere/pull/318#pullrequestreview-4020504394) - 2026-03-27
 * [Issue] [Failed ZisK proof for mainnet block](https://github.com/eth-act/ere/issues/320) - 2026-03-27
+* [Review] [Review on: fix: update zisk patch rev to `75957ca` with fix](https://github.com/eth-act/ere/pull/322#pullrequestreview-4025578375) - 2026-03-28
+* [Issue] [Zisk v0.16.1 seems to get stuck](https://github.com/eth-act/ere/issues/323) - 2026-03-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [fix(bal): fix populated account if pre-state was none](https://github.com/bluealloy/revm/pull/3357) - 2026-01-27
 

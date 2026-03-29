@@ -72,6 +72,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor: extract BalStore from ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/10957#pullrequestreview-4018666565) - 2026-03-27
 * [Commit] [FlatDB dictionary lookup optimization (#10738)](https://github.com/NethermindEth/nethermind/commit/31b5c2eedb27c463440114d85b4791b43392e86a) - 2026-03-28
 * [Commit] [Fix EIP-158 system account test to use IWorldState interface (#10969)](https://github.com/NethermindEth/nethermind/commit/4d0f8c2dc12a26de6ab888648ab7f59dcbadd82d) - 2026-03-27
+* [Pull Request] [perf: ulong empty-skip + full-branch fast path for TrieNode](https://github.com/NethermindEth/nethermind/pull/10985) - 2026-03-28
 ## Q4 2025
 
 

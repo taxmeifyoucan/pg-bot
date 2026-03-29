@@ -78,6 +78,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: (WIP) Quantum: Adding MLSDA65 precompile to begin adding quantum hardening support to Ethereum smart contracts](https://github.com/ethereum/go-ethereum/pull/34091#pullrequestreview-4014025532) - 2026-03-26
 * [Review] [Review on: core/txpool/legacypool: remove redundant nil check in Get](https://github.com/ethereum/go-ethereum/pull/34092#pullrequestreview-4013965676) - 2026-03-26
 * [Review] [Review on: core, miner, trie: relocate witness stats](https://github.com/ethereum/go-ethereum/pull/34106#pullrequestreview-4022169994) - 2026-03-27
+* [Commit] [build, cmd/keeper: add "womir" target (#34079)](https://github.com/ethereum/go-ethereum/commit/bd3c8431d9f7282e840670ef72c9a7c8f67e3271) - 2026-03-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7864: encode offset as big endian](https://github.com/ethereum/EIPs/pull/11389) - 2026-03-09
 ## Q4 2025

@@ -33,6 +33,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [ci: skip snap sync tests & add geth to the sync tests (#4043)](https://github.com/status-im/nimbus-eth1/commit/5aba125226e972ddccf3010e31d9cec35ef451f5) - 2026-03-18
 * [Issue] [crash while closing node after `import`](https://github.com/status-im/nimbus-eth1/issues/4061) - 2026-03-24
 * [Pull Request] [enable blockTag with hash in getReceipts](https://github.com/status-im/nimbus-eth1/pull/4074) - 2026-03-26
+* [Commit] [enable blockTag with hash in getReceipts (#4074)](https://github.com/status-im/nimbus-eth1/commit/07a583d3b9d2207b796288f4f26ed852ff2b7389) - 2026-03-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-16
 * [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-19

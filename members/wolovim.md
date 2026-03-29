@@ -27,3 +27,4 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: fix pqts series, upcoming call script](https://github.com/ethereum/pm/commit/626a0853afb8adac57eb7b57e63981d40694d870) - 2026-03-23
 * [Commit] [acdbot: upcoming call report schedule tweak](https://github.com/ethereum/pm/commit/7a586785b8a258c240a184703cbb8f1e527d8fcd) - 2026-03-23
 * [Commit] [acdbot: upcoming call report tweaks](https://github.com/ethereum/pm/commit/a1f4f8c42a39f1cda22ee67614f3d6dac0eaf492) - 2026-03-23
+* [Commit] [acdbot: fix workflow deps](https://github.com/ethereum/pm/commit/b725615cea2835cd5f30ac2df7f9ba1bf2248c0f) - 2026-03-28
