@@ -182,6 +182,8 @@ Team: Reth
 * [Review] [Review on: fix(engine): avoid double decrement in account cache size](https://github.com/paradigmxyz/reth/pull/23249#pullrequestreview-4019338987) - 2026-03-27
 * [Review] [Review on: fix(trie): use Entry API in `MultiProofTargets::extend_inner`](https://github.com/paradigmxyz/reth/pull/23247#pullrequestreview-4019170402) - 2026-03-27
 * [Review] [Review on: chore(cli): add more WARN logging before we retry a download](https://github.com/paradigmxyz/reth/pull/23258#pullrequestreview-4024861592) - 2026-03-28
+* [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23267#pullrequestreview-4026405288) - 2026-03-29
+* [Review] [Review on: perf: use FastInstant for remaining metrics timing](https://github.com/paradigmxyz/reth/pull/23265#pullrequestreview-4026404950) - 2026-03-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21
@@ -196,6 +198,9 @@ Team: Reth
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [test(debug_getRawReceipts): use post-Byzantium block for get-block-n test](https://github.com/ethereum/execution-apis/pull/742) - 2026-01-25
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Review] [Review on: fix: set Prague max blobs per tx to 6 in statetest](https://github.com/paradigmxyz/revmc/pull/189#pullrequestreview-4026400942) - 2026-03-29
 ## Q4 2025
 
 

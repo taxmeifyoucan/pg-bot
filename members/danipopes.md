@@ -76,6 +76,7 @@ Team: Reth
 * [Commit] [chore: make EvmConfig generic in examples (#23229)](https://github.com/paradigmxyz/reth/commit/d3c3466c44d46ecf485524ec21621b2c1847c103) - 2026-03-25
 * [Pull Request] [chore(docs): normalize Grafana dashboard JSON formatting and tags](https://github.com/paradigmxyz/reth/pull/23266) - 2026-03-28
 * [Pull Request] [perf: use FastInstant for remaining metrics timing](https://github.com/paradigmxyz/reth/pull/23265) - 2026-03-28
+* [Commit] [perf: use FastInstant for remaining metrics timing (#23265)](https://github.com/paradigmxyz/reth/commit/49339780c0f1836a67ba9f3bf203061805aafae2) - 2026-03-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
@@ -206,6 +207,36 @@ Team: Reth
 * [Commit] [chore: remove unused C++ includes in revmc-llvm (#177)](https://github.com/paradigmxyz/revmc/commit/6ad1f4022703e3ecf7374b1323c87a78e0b278d1) - 2026-03-27
 * [Commit] [perf: replace default<O3> with custom LLVM pass pipeline (#163)](https://github.com/paradigmxyz/revmc/commit/3d0d6205b4b911c52848c8c29e3ac2747938e656) - 2026-03-27
 * [Pull Request] [feat: constant propagation via abstract stack interpretation](https://github.com/paradigmxyz/revmc/pull/185) - 2026-03-28
+* [Pull Request] [perf: skip module.verify on release](https://github.com/paradigmxyz/revmc/pull/201) - 2026-03-29
+* [Pull Request] [feat: add simple_perf JITLink plugin](https://github.com/paradigmxyz/revmc/pull/199) - 2026-03-29
+* [Pull Request] [chore: re-enable a test](https://github.com/paradigmxyz/revmc/pull/200) - 2026-03-29
+* [Pull Request] [perf: reduce dynamic jump table index to i64](https://github.com/paradigmxyz/revmc/pull/198) - 2026-03-29
+* [Pull Request] [chore(bench): trim no_gas variants and re-add compile-time benches](https://github.com/paradigmxyz/revmc/pull/197) - 2026-03-29
+* [Pull Request] [refactor: improve DOT graph colors and clean up jump methods](https://github.com/paradigmxyz/revmc/pull/196) - 2026-03-29
+* [Pull Request] [feat(cli): render DOT to SVG/PNG locally with dot CLI](https://github.com/paradigmxyz/revmc/pull/195) - 2026-03-29
+* [Pull Request] [refactor: separate gas sections from stack sections](https://github.com/paradigmxyz/revmc/pull/194) - 2026-03-29
+* [Pull Request] [refactor: add InstData::can_fall_through method](https://github.com/paradigmxyz/revmc/pull/193) - 2026-03-29
+* [Pull Request] [fix: improve DOT rendering of self-loops and back-edges](https://github.com/paradigmxyz/revmc/pull/192) - 2026-03-29
+* [Pull Request] [perf(builtins): add ReadOnly attr on ecx for getter builtins](https://github.com/paradigmxyz/revmc/pull/190) - 2026-03-29
+* [Pull Request] [fix: improve DOT self-loop edge rendering](https://github.com/paradigmxyz/revmc/pull/191) - 2026-03-29
+* [Review] [Review on: fix: use llvm.umax intrinsic in umax builder](https://github.com/paradigmxyz/revmc/pull/186#pullrequestreview-4026287906) - 2026-03-29
+* [Review] [Review on: refactor: rename umin temp variable from max to min](https://github.com/paradigmxyz/revmc/pull/187#pullrequestreview-4026287931) - 2026-03-29
+* [Pull Request] [chore: remove another debug name](https://github.com/paradigmxyz/revmc/pull/188) - 2026-03-29
+* [Commit] [perf: skip module.verify on release (#201)](https://github.com/paradigmxyz/revmc/commit/7d7b77104886f9cca2a66a7552c340d92c5acebc) - 2026-03-29
+* [Commit] [feat: add block analysis pass for dynamic jump resolution (#149)](https://github.com/paradigmxyz/revmc/commit/bd8070e335d138e0a91e6d18a6aa7c7cf7eb2004) - 2026-03-29
+* [Commit] [feat: add simple_perf JITLink plugin (#199)](https://github.com/paradigmxyz/revmc/commit/dbb34da479fe7bc94d7bac06237c14b3b2356f33) - 2026-03-29
+* [Commit] [chore: re-enable a test (#200)](https://github.com/paradigmxyz/revmc/commit/408fc450aa2a98faa755dc46f71c0b20bdd17052) - 2026-03-29
+* [Commit] [perf: reduce dynamic jump table index to i64 (#198)](https://github.com/paradigmxyz/revmc/commit/90f480a242d9862c23282d9cb27eae9a6137a16d) - 2026-03-29
+* [Commit] [chore(bench): trim no_gas variants and re-add compile-time benches (#197)](https://github.com/paradigmxyz/revmc/commit/950d4b1b1ce2cace8c013d0ea2fc1be2a14c11b0) - 2026-03-29
+* [Commit] [fix: num_args for dot cli](https://github.com/paradigmxyz/revmc/commit/d43acf275fb36f8c1d904124b487bfed1f7a1b63) - 2026-03-29
+* [Commit] [refactor: improve DOT graph colors and clean up jump methods (#196)](https://github.com/paradigmxyz/revmc/commit/e634992df0af749ec739f1f355a9bf2a9b141794) - 2026-03-29
+* [Commit] [feat(cli): render DOT to SVG/PNG locally with dot CLI (#195)](https://github.com/paradigmxyz/revmc/commit/626e26e74e4073311a71fe012bfb1a82140da99d) - 2026-03-29
+* [Commit] [refactor: separate gas sections from stack sections (#194)](https://github.com/paradigmxyz/revmc/commit/1b9d21bdf09b778424b96e2d79a643b79a9eb1b2) - 2026-03-29
+* [Commit] [refactor: add InstData::can_fall_through method (#193)](https://github.com/paradigmxyz/revmc/commit/2a5c370bc2061f230c2d2b5752fa35f08b52ff9e) - 2026-03-29
+* [Commit] [fix: improve DOT rendering of self-loops and back-edges (#192)](https://github.com/paradigmxyz/revmc/commit/c373d5a5dcd2663f93581a5b36dee378479495d6) - 2026-03-29
+* [Commit] [perf(builtins): add ReadOnly attr on ecx for getter builtins (#190)](https://github.com/paradigmxyz/revmc/commit/feea61c8f2061834cbd09f3e7fa21135c52ca193) - 2026-03-29
+* [Commit] [fix: improve DOT self-loop edge rendering (#191)](https://github.com/paradigmxyz/revmc/commit/840a9ce6cd21c4f9ff0a1129d563f9d5a7ce3c18) - 2026-03-29
+* [Commit] [chore: remove another debug name (#188)](https://github.com/paradigmxyz/revmc/commit/2498da317fc50a5988d2a783dcefd3777c3c00ee) - 2026-03-29
 ## Q4 2025
 
 

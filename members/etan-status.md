@@ -64,6 +64,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [More FCR metrics to distinguish reorg reasons](https://github.com/status-im/nimbus-eth2/pull/8171) - 2026-03-26
 
 * [Pull Request] [Update will_no_conflicting_checkpoint_be_justified boundary](https://github.com/status-im/nimbus-eth2/pull/8184) - 2026-03-27
+* [Pull Request] [Pass platform to docker build](https://github.com/status-im/nimbus-eth2/pull/7993) - 2026-03-29
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Update cargo, nim and makefile version to 0.2.4](https://github.com/OffchainLabs/hashtree/pull/62) - 2026-03-26
 * [Pull Request] [Use SSE impl if AVX not available](https://github.com/OffchainLabs/hashtree/pull/63) - 2026-03-26

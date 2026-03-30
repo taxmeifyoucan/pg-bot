@@ -219,6 +219,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: notifications, rpc: overlay publish, pre-commit dispatch, native types, embedded RPC overlay](https://github.com/erigontech/erigon/pull/20195#pullrequestreview-4025435259) - 2026-03-28
 * [Commit] [execution/protocol: rename StateTransition → TxnExecutor (#20158)](https://github.com/erigontech/erigon/commit/d531359707675ca584f9064570b5fc8b9e0c34bd) - 2026-03-28
 * [Commit] [rpc: simplify and deduplicate code across rpc packages (#19984)](https://github.com/erigontech/erigon/commit/cd32273c47321ad214fabc1dcd5cd66b79f92214) - 2026-03-28
+* [Review] [Review on: rpc: trace_block optimisation](https://github.com/erigontech/erigon/pull/20182#pullrequestreview-4026490494) - 2026-03-29
+* [Review] [Review on: rpc: debug_traceTransaction() align index format as Geth](https://github.com/erigontech/erigon/pull/20210#pullrequestreview-4026485665) - 2026-03-29
+* [Review] [Review on: rpc: eth_getRawTransactionByHash & eth_callBundle avoid block scan when fetch txn from hash](https://github.com/erigontech/erigon/pull/20140#pullrequestreview-4026488305) - 2026-03-29
+* [Review] [Review on: execmodule, eth: fix roTx leak in updateForkChoice + improve shutdown ordering](https://github.com/erigontech/erigon/pull/20220#pullrequestreview-4026859097) - 2026-03-29
+* [Review] [Review on: commitment: add persistent branch cache across Process() calls](https://github.com/erigontech/erigon/pull/19954#pullrequestreview-4026855887) - 2026-03-29
+* [Pull Request] [execution/vm: reduce heap allocations in precompile contracts](https://github.com/erigontech/erigon/pull/20213) - 2026-03-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

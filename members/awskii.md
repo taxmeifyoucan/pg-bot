@@ -71,6 +71,11 @@ Team: Erigon
 * [Review] [Review on: commitment: cancel stale DeleteUpdate on storage rewrite](https://github.com/erigontech/erigon/pull/19982#pullrequestreview-4021657040) - 2026-03-27
 * [Commit] [commitment: remove dead ctx field from ConcurrentPatriciaHashed, each subtrie gets own context from factory (#20203)](https://github.com/erigontech/erigon/commit/94a38e6d445437f79d77bfc9932e8490b716962e) - 2026-03-27
 * [Commit] [monitroing: per txn exec times dashboards (#20206)](https://github.com/erigontech/erigon/commit/de4f856617d1be6caf60f15a0d72c9fcfd0316e9) - 2026-03-27
+* [Issue] [stagedsync/bal: writeBALToFile writes one file per block with no rotation, cap, or cleanup](https://github.com/erigontech/erigon/issues/20214) - 2026-03-29
+* [Issue] [stagedsync/bal: ProcessBAL debug-write errors silently swallowed, making diagnostic output unreliable](https://github.com/erigontech/erigon/issues/20215) - 2026-03-29
+* [Issue] [stagedsync/bal: network-downloaded BAL skips ValidateMaxItems check that computed BAL enforces](https://github.com/erigontech/erigon/issues/20217) - 2026-03-29
+* [Issue] [stagedsync/bal: redundant BAL serialization with divergent format between writeBALToFile and DebugString](https://github.com/erigontech/erigon/issues/20216) - 2026-03-29
+* [Issue] [execution/protocol: GetHashFn contains unreachable mutex protecting sequential-only code](https://github.com/erigontech/erigon/issues/20219) - 2026-03-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3925895357) - 2026-03-10
 ## Q4 2025

@@ -52,6 +52,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: integration: compresss ots_searchTransactionsBefore resp](https://github.com/erigontech/rpc-tests/pull/539#pullrequestreview-4025796219) - 2026-03-28
 * [Review] [Review on: rpc-integration: fix json compare with array](https://github.com/erigontech/rpc-tests/pull/537#pullrequestreview-4025794638) - 2026-03-28
 * [Review] [Review on: rpc-integration: add -R/--report-file option for per-API summary report modify -E behaviour](https://github.com/erigontech/rpc-tests/pull/536#pullrequestreview-4025793456) - 2026-03-28
+* [Review] [Review on: integration: fix expected for debug_traceTransaction in case tx not found](https://github.com/erigontech/rpc-tests/pull/541#pullrequestreview-4026438085) - 2026-03-29
+* [Review] [Review on: integration: fix expected eth_createAccessList via grpc](https://github.com/erigontech/rpc-tests/pull/542#pullrequestreview-4026438396) - 2026-03-29
+* [Review] [Review on: rpc_perf: add --process-name flag for server liveness check](https://github.com/erigontech/rpc-tests/pull/543#pullrequestreview-4026438954) - 2026-03-29
 ## Q4 2025
 
 

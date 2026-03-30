@@ -168,6 +168,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(zkevm): Fix RLP serialization and EVM memory for zkEVM](https://github.com/NethermindEth/nethermind/pull/10960#pullrequestreview-4019098573) - 2026-03-27
 * [Review] [Review on: fix: prevent FlatDB live stall and make restart recovery exact](https://github.com/NethermindEth/nethermind/pull/10968#pullrequestreview-4019511853) - 2026-03-27
 * [Review] [Review on: BlockTree DI](https://github.com/NethermindEth/nethermind/pull/10982#pullrequestreview-4025521355) - 2026-03-28
+* [Review] [Review on: fix: register ISnapServer in production DI to restore snap serving](https://github.com/NethermindEth/nethermind/pull/10986#pullrequestreview-4027390895) - 2026-03-29
+* [Pull Request] [fix: resolve flaky payload CTS ObjectDisposedException](https://github.com/NethermindEth/nethermind/pull/10990) - 2026-03-29
+* [Commit] [fix: resolve flaky payload CTS ObjectDisposedException (#10990)](https://github.com/NethermindEth/nethermind/commit/72c049730fe46218e3ddbe25bf76e5a48c5702dd) - 2026-03-29
 ## Q4 2025
 
 

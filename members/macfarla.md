@@ -177,6 +177,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Fix/simulate fee recipient (#9942)](https://github.com/besu-eth/besu/commit/962a5f2836d95dc8762163f08749cb73b93e2d35) - 2026-03-27
 * [Commit] [Fix: eth_simulateV1 gas pricing (#10067)](https://github.com/besu-eth/besu/commit/1adbb267732feeee90b87595f627ccfda5810b19) - 2026-03-27
 * [Commit] [fallback for block hash cache should be the real chain (#10119)](https://github.com/besu-eth/besu/commit/ccacf34b29753bc4216cb3f255682f22e15de92a) - 2026-03-28
+* [Review] [Review on: receipt decoder cleanup](https://github.com/besu-eth/besu/pull/10123#pullrequestreview-4027592968) - 2026-03-30
+* [Review] [Review on: SignatureAlgorithm cachedDefault for tests](https://github.com/besu-eth/besu/pull/10122#pullrequestreview-4027317032) - 2026-03-29
+* [Commit] [update setup-java and setup-gradle actions to Node 24 versions (#10118)](https://github.com/besu-eth/besu/commit/3fd224e2e49ddd68aa61755525593a0a60c65507) - 2026-03-29
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

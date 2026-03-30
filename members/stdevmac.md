@@ -23,3 +23,4 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [[TEST] Sync PR Gate v2 - delete after test](https://github.com/NethermindEth/nethermind/pull/10942) - 2026-03-25
 * [Review] [Review on: ci: replace sync-smoke-test with tiered sync CI strategy](https://github.com/NethermindEth/nethermind/pull/10932#pullrequestreview-4017698048) - 2026-03-26
 * [Review] [Review on: ci: replace sync-smoke-test with tiered sync CI strategy](https://github.com/NethermindEth/nethermind/pull/10932#pullrequestreview-4018903559) - 2026-03-27
+* [Review] [Review on: fix: reduce Hive engine-withdrawals parallelism to 2](https://github.com/NethermindEth/nethermind/pull/10992#pullrequestreview-4027394148) - 2026-03-29

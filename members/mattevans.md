@@ -38,6 +38,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #70 from ethpandaops/dependabot/github_actions/actions-dbc385b3fc](https://github.com/ethpandaops/cartographoor/commit/11c6d6f8428a2e49a966a410a04374eae813caa5) - 2026-03-15
 * [Commit] [Merge pull request #79 from ethpandaops/chore/update-go-1.26.1](https://github.com/ethpandaops/cartographoor/commit/cc838f6df905646c3be0ad1fad6d3390580f03cb) - 2026-03-15
 * [Commit] [chore: update Go to 1.26.1](https://github.com/ethpandaops/cartographoor/commit/b9fa5174f62f26595c09f340eb5f6b609c823968) - 2026-03-15
+* [Pull Request] [chore(deps): bump](https://github.com/ethpandaops/cartographoor/pull/84) - 2026-03-29
+* [Commit] [Merge pull request #84 from ethpandaops/chore/deps](https://github.com/ethpandaops/cartographoor/commit/5899c7967cad83475e17cdfcfd3f4b1a40da63c8) - 2026-03-30
+* [Commit] [style(clients.go, service.go, inventory/service.go, parser.go): remove extra whitespace to improve code readability and maintain consistency](https://github.com/ethpandaops/cartographoor/commit/26468b8d4d1629879bbe6b52d07c6690df15cd1d) - 2026-03-29
+* [Commit] [fix(docs): correct spelling of "goland" to "golang" in .tool-versions file](https://github.com/ethpandaops/cartographoor/commit/0d04ff466d496e0f48928904dc54d5133266eaff) - 2026-03-29
+* [Commit] [chore(deps): update golangci-lint from 2.4.0 to 2.11.4 and update goland version to 1.26.1 to align with recent tooling standards](https://github.com/ethpandaops/cartographoor/commit/e96068bcfde092273a5f90aceedf611d52569946) - 2026-03-29
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] [feat(clickhouse): add canonical_execution_transaction_structlog_agg tables](https://github.com/ethpandaops/xatu/pull/741) - 2026-01-27
 * [Pull Request] [feat(clickhouse): add resource gas columns to structlog_agg tables](https://github.com/ethpandaops/xatu/pull/748) - 2026-02-16
@@ -68,6 +73,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/ethpandaops/contributoor/pull/212#pullrequestreview-3970951742) - 2026-03-18
 * [Commit] [Merge pull request #212 from ethpandaops/fix/update-kurtosis-apt-source](https://github.com/ethpandaops/contributoor/commit/9d0c59b4f80d8871a95a35db0799abb8f19b1fc3) - 2026-03-18
 * [Pull Request] [chore: update Go module dependencies](https://github.com/ethpandaops/contributoor/pull/214) - 2026-03-24
+* [Pull Request] [chore: deps + gofix](https://github.com/ethpandaops/contributoor/pull/216) - 2026-03-29
+* [Pull Request] [chore(deps): update Go module dependencies](https://github.com/ethpandaops/contributoor/pull/215) - 2026-03-29
+* [Commit] [Merge pull request #216 from ethpandaops/chore/deps](https://github.com/ethpandaops/contributoor/commit/e821414b241b638dfbfd432beb892ceb6513075c) - 2026-03-30
+* [Commit] [style(main_test.go): remove unnecessary blank line in TestConcurrentShutdown function to improve code readability](https://github.com/ethpandaops/contributoor/commit/61a621230a40c3ba1bbfd4aa530ef22d4117210a) - 2026-03-30
+* [Commit] [chore(workflow): remove unnecessary empty line in release.yml for cleaner workflow file](https://github.com/ethpandaops/contributoor/commit/72a0cd1f9fe4924013a8be4a1843581fe7874626) - 2026-03-29
+* [Commit] [Merge pull request #215 from ethpandaops/chore/update-go-dependencies](https://github.com/ethpandaops/contributoor/commit/ad502fdffe445d90a6ff984298bc4d8ee20764d6) - 2026-03-29
+* [Commit] [chore(deps): update Go module dependencies](https://github.com/ethpandaops/contributoor/commit/e4ee6f3572c794a9373031873eb3d1bdb6cfff94) - 2026-03-29
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Commit] [Merge pull request #54 from ethpandaops/fix/update-kurtosis-apt-source](https://github.com/ethpandaops/tracoor/commit/aff69be4e57b08ac919a9a8a3404630e78601af6) - 2026-03-18
 * [Commit] [fix(golang-test.yaml): update test running command to use tee for simultaneous output to console and file](https://github.com/ethpandaops/tracoor/commit/966886ab34728d301b0bb75bf156ba11e372bd6b) - 2026-03-18

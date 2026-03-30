@@ -73,6 +73,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [FlatDB dictionary lookup optimization (#10738)](https://github.com/NethermindEth/nethermind/commit/31b5c2eedb27c463440114d85b4791b43392e86a) - 2026-03-28
 * [Commit] [Fix EIP-158 system account test to use IWorldState interface (#10969)](https://github.com/NethermindEth/nethermind/commit/4d0f8c2dc12a26de6ab888648ab7f59dcbadd82d) - 2026-03-27
 * [Pull Request] [perf: ulong empty-skip + full-branch fast path for TrieNode](https://github.com/NethermindEth/nethermind/pull/10985) - 2026-03-28
+* [Pull Request] [Test: Maybe improve Ethereum.Transaction.Tests stability.](https://github.com/NethermindEth/nethermind/pull/10989) - 2026-03-29
+* [Pull Request] [feat(flat-state): remove read node dictionaries from SnapshotBundle](https://github.com/NethermindEth/nethermind/pull/10993) - 2026-03-30
+* [Review] [Review on: fix: register ISnapServer in production DI to restore snap serving](https://github.com/NethermindEth/nethermind/pull/10986#pullrequestreview-4026397037) - 2026-03-29
 ## Q4 2025
 
 

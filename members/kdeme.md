@@ -46,6 +46,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Rework EEST testing to test per individual test case in file (#4073)](https://github.com/status-im/nimbus-eth1/commit/ba4b231a9e559d1eae73a46e2b52f2345832bcba) - 2026-03-27
 * [Pull Request] [Split up nimbus and nec builds in CI](https://github.com/status-im/nimbus-eth1/pull/4080) - 2026-03-28
 * [Pull Request] [eest: Run all eest tests from one binary](https://github.com/status-im/nimbus-eth1/pull/4079) - 2026-03-28
+* [Pull Request] [Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4082) - 2026-03-29
+* [Review] [Review on: Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4082#pullrequestreview-4026818112) - 2026-03-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3 and related changes](https://github.com/status-im/nimbus-eth2/pull/7876) - 2026-01-23
 * [Pull Request] []() - 2026-01-27

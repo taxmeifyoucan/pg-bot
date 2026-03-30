@@ -32,6 +32,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: add BWS stall detection and restart BWS if no progress](https://github.com/besu-eth/besu/pull/10045#pullrequestreview-3997088305) - 2026-03-24
 * [Issue] [Test other ethereum clients against a single snap serving besu](https://github.com/besu-eth/besu/issues/10093) - 2026-03-24
 * [Review] [Review on: add BWS stall detection and restart BWS if no progress](https://github.com/besu-eth/besu/pull/10045#pullrequestreview-4018119266) - 2026-03-26
+* [Review] [Review on: receipt decoder cleanup](https://github.com/besu-eth/besu/pull/10123#pullrequestreview-4027621044) - 2026-03-30
 ## Q4 2025
 
 

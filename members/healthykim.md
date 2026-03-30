@@ -23,3 +23,4 @@ Github: [@healthykim](https://github.com/healthykim)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Enhance EIP-8070](https://github.com/ethereum/EIPs/pull/11444#pullrequestreview-4019250817) - 2026-03-27
+* [Review] [Review on: Update EIP-8070: Enhance EIP-8070](https://github.com/ethereum/EIPs/pull/11444#pullrequestreview-4026439144) - 2026-03-29

@@ -58,6 +58,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [chore(taiko): activate Shasta fork on Alethia](https://github.com/NethermindEth/nethermind/pull/10984) - 2026-03-28
 * [Review] [Review on: fix(zkevm): Disable async state and trie processing for zkEVM](https://github.com/NethermindEth/nethermind/pull/10979#pullrequestreview-4025148635) - 2026-03-28
 * [Commit] [chore(taiko): activate Shasta fork on Alethia (#10984)](https://github.com/NethermindEth/nethermind/commit/a2ed75681b58cccebf27836ef23cb7217d381ec2) - 2026-03-28
+* [Review] [Review on: Add New Anchor Transaction Type for Surge realtime](https://github.com/NethermindEth/nethermind/pull/10320#pullrequestreview-4027547743) - 2026-03-30
+* [Review] [Review on: fix: reduce Hive engine-withdrawals parallelism to 2](https://github.com/NethermindEth/nethermind/pull/10992#pullrequestreview-4027197949) - 2026-03-29
+* [Review] [Review on: fix: register ISnapServer in production DI to restore snap serving](https://github.com/NethermindEth/nethermind/pull/10986#pullrequestreview-4027196732) - 2026-03-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8198: Use SLOT_SCHEDULE for slot-time-dependent constants](https://github.com/ethereum/EIPs/pull/11458) - 2026-03-28
 ## Q3 2025

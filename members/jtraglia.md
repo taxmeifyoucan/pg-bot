@@ -97,6 +97,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Increase test timeout from 12 hours to 24 hours (#5051)](https://github.com/ethereum/consensus-specs/commit/0b485cfdea3c66ac1b10f8685b6c7070ff3cb92c) - 2026-03-27
 * [Commit] [Exclude the version file from testing label (#5048)](https://github.com/ethereum/consensus-specs/commit/622f109098e6453fb9dcd261eda22d57a47cae34) - 2026-03-27
 * [Review] [Review on: Update tests workflow](https://github.com/ethereum/consensus-specs/pull/5054#pullrequestreview-4024553468) - 2026-03-28
+* [Review] [Review on: Update tests workflow](https://github.com/ethereum/consensus-specs/pull/5054#pullrequestreview-4027335106) - 2026-03-29
+* [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4027333807) - 2026-03-29
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: enable specref features & remove unnecessary spec items](https://github.com/ChainSafe/lodestar/pull/8788) - 2026-01-27
 

@@ -36,9 +36,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: chore: update go module dependencies](https://github.com/ethpandaops/contributoor/pull/211#pullrequestreview-3958166005) - 2026-03-17
 
+* [Review] [Review on: chore: deps + gofix](https://github.com/ethpandaops/contributoor/pull/216#pullrequestreview-4027567693) - 2026-03-30
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [fix: subscribe only to beacon event topics that are actually used](https://github.com/ethpandaops/tracoor/pull/55) - 2026-03-26
 * [Commit] [fix: subscribe only to beacon event topics that are actually used (#55)](https://github.com/ethpandaops/tracoor/commit/9a96583ab79f98c3056a472f61cd5efba2f90f7b) - 2026-03-26
+
+[ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
+* [Review] [Review on: chore(deps): bump](https://github.com/ethpandaops/cartographoor/pull/84#pullrequestreview-4027567508) - 2026-03-30
 ## Q4 2025
 
 

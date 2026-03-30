@@ -70,6 +70,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor(ssz): drop BaseTreeView, use tuple for ContainerTreeView (#139)](https://github.com/ChainSafe/lodestar-z/commit/ce6370e75b980d0657ac246083b437e76fcd1e4b) - 2026-03-17
 * [Review] [Review on: feat: add StructContainerTreeView, model Validator as StructContainerType](https://github.com/ChainSafe/lodestar-z/pull/247#pullrequestreview-3964664476) - 2026-03-18
 * [Review] [Review on: feat(bls): switch multi-threading to a queue-based dispatch](https://github.com/ChainSafe/lodestar-z/pull/248#pullrequestreview-3973717384) - 2026-03-19
+* [Review] [Review on: feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232#pullrequestreview-4027644137) - 2026-03-30
 ## Q4 2025
 
 

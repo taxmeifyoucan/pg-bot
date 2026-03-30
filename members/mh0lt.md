@@ -140,6 +140,8 @@ Team: Erigon
 * [Review] [Review on: cl: wire EIP-7843 slot number for Glamsterdam](https://github.com/erigontech/erigon/pull/20175#pullrequestreview-4020075075) - 2026-03-27
 * [Issue] [componentization: TxPool component extraction and modular tx pipeline](https://github.com/erigontech/erigon/issues/20192) - 2026-03-27
 * [Issue] [caplin: embedded dev validator for single-node development testing](https://github.com/erigontech/erigon/issues/20191) - 2026-03-27
+* [Pull Request] [execmodule, eth: fix roTx leak in updateForkChoice + improve shutdown ordering](https://github.com/erigontech/erigon/pull/20220) - 2026-03-29
+* [Issue] [commitment: move BranchCache behind PatriciaContext interface](https://github.com/erigontech/erigon/issues/20218) - 2026-03-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

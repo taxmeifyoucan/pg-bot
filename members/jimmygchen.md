@@ -28,6 +28,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [Gloas: envelope peer penalties and REJECT/IGNORE mapping](https://github.com/sigp/lighthouse/issues/8949) - 2026-03-09
 * [Issue] [Gloas: envelope deduplication and status tracking](https://github.com/sigp/lighthouse/issues/8948) - 2026-03-09
 * [Review] [Review on: Merge v8.1.3 to unstable](https://github.com/sigp/lighthouse/pull/9035#pullrequestreview-4017985156) - 2026-03-26
+* [Review] [Review on: Never use MIN_EPOCHS_FOR_DATA_COLUMN_SIDECARS_REQUESTS for networks that started with Fulu enabled](https://github.com/sigp/lighthouse/pull/8731#pullrequestreview-4027642893) - 2026-03-30
 ## Q4 2025
 
 

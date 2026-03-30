@@ -106,6 +106,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: Flaky Nethermind.Blockchain.Test](https://github.com/NethermindEth/nethermind/pull/10967#pullrequestreview-4022257508) - 2026-03-27
 * [Pull Request] [fix: prevent FlatDB live stall and make restart recovery exact](https://github.com/NethermindEth/nethermind/pull/10968) - 2026-03-27
 * [Review] [Review on: fix: prevent FlatDB live stall and make restart recovery exact](https://github.com/NethermindEth/nethermind/pull/10968#pullrequestreview-4018750384) - 2026-03-27
+* [Pull Request] [feat(cache): Add AssociativeCache - lock-free set-associative cache with 3-random eviction](https://github.com/NethermindEth/nethermind/pull/10991) - 2026-03-29
+* [Review] [Review on: fix: resolve flaky payload CTS ObjectDisposedException](https://github.com/NethermindEth/nethermind/pull/10990#pullrequestreview-4026502904) - 2026-03-29
 ## Q4 2025
 
 
