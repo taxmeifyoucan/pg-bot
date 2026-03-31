@@ -59,6 +59,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: enhance NetworkProcessor for gloas](https://github.com/ChainSafe/lodestar/pull/9025#pullrequestreview-4018397374) - 2026-03-27
 * [Review] [Review on: feat: introduce nativeStateView feature flag](https://github.com/ChainSafe/lodestar/pull/9067#pullrequestreview-4011952260) - 2026-03-26
 * [Pull Request] [fix: track PayloadExecutionStatus for forkchoice onExecutionPayload()](https://github.com/ChainSafe/lodestar/pull/9119) - 2026-03-27
+* [Review] [Review on: feat: add execution payload events](https://github.com/ChainSafe/lodestar/pull/9120#pullrequestreview-4028947927) - 2026-03-30
+* [Review] [Review on: fix: track PayloadExecutionStatus for forkchoice onExecutionPayload()](https://github.com/ChainSafe/lodestar/pull/9119#pullrequestreview-4028969344) - 2026-03-30
+* [Review] [Review on: feat: introduce nativeStateView feature flag](https://github.com/ChainSafe/lodestar/pull/9067#pullrequestreview-4028675845) - 2026-03-30
+* [Review] [Review on: test: wire sync committee gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9106#pullrequestreview-4028987591) - 2026-03-30
+* [Commit] [fix: track PayloadExecutionStatus for forkchoice onExecutionPayload() (#9119)](https://github.com/ChainSafe/lodestar/commit/687ecdc8cd325af86ad7f59e994113a6c47e73b8) - 2026-03-30
+* [Commit] [feat: introduce nativeStateView feature flag (#9067)](https://github.com/ChainSafe/lodestar/commit/6fa48cb5f289e3fcf8fc5af800d10c6f54872a47) - 2026-03-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 * [Review] [Review on: fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241#pullrequestreview-3948190078) - 2026-03-14
@@ -71,6 +77,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add StructContainerTreeView, model Validator as StructContainerType](https://github.com/ChainSafe/lodestar-z/pull/247#pullrequestreview-3964664476) - 2026-03-18
 * [Review] [Review on: feat(bls): switch multi-threading to a queue-based dispatch](https://github.com/ChainSafe/lodestar-z/pull/248#pullrequestreview-3973717384) - 2026-03-19
 * [Review] [Review on: feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232#pullrequestreview-4027644137) - 2026-03-30
+* [Review] [Review on: feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232#pullrequestreview-4027659640) - 2026-03-30
+* [Review] [Review on: perf(epoch): replace AutoHashMap with array lookup in reward/penalty caches](https://github.com/ChainSafe/lodestar-z/pull/286#pullrequestreview-4028764368) - 2026-03-30
+* [Review] [Review on: fix: use atomic operations for ReferenceCount thread safety](https://github.com/ChainSafe/lodestar-z/pull/292#pullrequestreview-4028716198) - 2026-03-30
 ## Q4 2025
 
 

@@ -27,3 +27,5 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Replace Kill with graceful stop in e2e ](https://github.com/OffchainLabs/prysm/pull/16578) - 2026-03-24
 * [Pull Request] [Re-add next-epoch lookahead for PTC duties](https://github.com/OffchainLabs/prysm/pull/16591) - 2026-03-26
 * [Commit] [Replace Kill with graceful stop in e2e  (#16578)](https://github.com/OffchainLabs/prysm/commit/277797f6f85f8cff8f09d5171b1d7536d3bc0c2c) - 2026-03-26
+* [Pull Request] [Make sync completion slot-precise and remove the initial-sync to regular-sync handoff gap](https://github.com/OffchainLabs/prysm/pull/16607) - 2026-03-30
+* [Commit] [Re-add next-epoch lookahead for PTC duties (#16591)](https://github.com/OffchainLabs/prysm/commit/c33f0d04b77ee0ac6d02608b665e68ea4b788a40) - 2026-03-30

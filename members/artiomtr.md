@@ -33,6 +33,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Fixed nethermind reference assemblies installation](https://github.com/grandinetech/grandine/pull/645) - 2026-03-26
 * [Commit] [Check validator indices before removing keys](https://github.com/grandinetech/grandine/commit/6ba22ca6ec5d8c673154c01929f9967999c1afaf) - 2026-03-26
 * [Commit] [Fixed nethermind reference assemblies installation](https://github.com/grandinetech/grandine/commit/68f7b13e5ff8345ed0b7e3a008a27c25f7262e66) - 2026-03-26
+* [Review] [Review on: Bumped version to 2.0.4](https://github.com/grandinetech/grandine/pull/652#pullrequestreview-4029958579) - 2026-03-30
 [nethermindeth/nethermind](https://github.com/nethermindeth/nethermind)
 * [Pull Request] [Override default CLI option alias](https://github.com/NethermindEth/nethermind/pull/10148) - 2026-01-12
 

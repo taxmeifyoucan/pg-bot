@@ -127,3 +127,6 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [uni stark: rely on default assert_zeros_ext for ProverConstraintFolder (#1498)](https://github.com/Plonky3/Plonky3/commit/e9d75614dd6816f9b5dbb4413c69be63536efd64) - 2026-03-27
 * [Commit] [monty-31: improve `monty_reduce_u128` speed (#1483)](https://github.com/Plonky3/Plonky3/commit/a172a19ad05fad687f1a7a9faccc34bd3045b88c) - 2026-03-27
 * [Commit] [dft: testing for internals (#1494)](https://github.com/Plonky3/Plonky3/commit/e505f7807c4f22b0379dae0eba61f3a4b01467d7) - 2026-03-27
+* [Review] [Review on: field: add missing extension degree for `packed_mod_add` and `packed_mod_sub`](https://github.com/Plonky3/Plonky3/pull/1421#pullrequestreview-4033655739) - 2026-03-30
+* [Review] [Review on: perf(circle): drop vp_denoms after batch inversion](https://github.com/Plonky3/Plonky3/pull/1502#pullrequestreview-4033526249) - 2026-03-30
+* [Commit] [field: add missing extension degree for `packed_mod_add` and `packed_mod_sub` (#1421)](https://github.com/Plonky3/Plonky3/commit/3b11823574f8767b7f80eee140d8498d061f5619) - 2026-03-30

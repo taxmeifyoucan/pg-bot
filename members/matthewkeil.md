@@ -24,6 +24,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: merge stable 1.41.0 back to unstable (#9066)](https://github.com/ChainSafe/lodestar/commit/5f2fffc2ceaedbd87e7d25a847e07da85ce48bb9) - 2026-03-19
 * [Commit] [chore: v1.41.0 release (#9038)](https://github.com/ChainSafe/lodestar/commit/13e882a3a430d6df25a408b61b24954277e1f8e8) - 2026-03-19
 * [Review] [Review on: fix: only create QUIC clients for configured address families](https://github.com/ChainSafe/lodestar/pull/9101#pullrequestreview-4016952717) - 2026-03-26
+* [Review] [Review on: feat: add execution payload events](https://github.com/ChainSafe/lodestar/pull/9120#pullrequestreview-4031639621) - 2026-03-30
+* [Pull Request] [chore: switch arm from buildjet to warpbuild](https://github.com/ChainSafe/lodestar/pull/9129) - 2026-03-30
+* [Pull Request] [feat: switch from buildjet to warpbuild](https://github.com/ChainSafe/lodestar/pull/9125) - 2026-03-30
+* [Commit] [chore: switch arm from buildjet to warpbuild (#9129)](https://github.com/ChainSafe/lodestar/commit/04e52d162fdc5805a25ff8b65e34c2bb5b82df30) - 2026-03-30
+* [Commit] [feat: switch from buildjet to warpbuild (#9125)](https://github.com/ChainSafe/lodestar/commit/2f0347050b49da41744324ef1b53e75f0b2c36ab) - 2026-03-30
 ## Q4 2025
 
 

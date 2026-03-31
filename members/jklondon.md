@@ -30,6 +30,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cmd/utils: simplify subset loop to single pass in rm-state](https://github.com/erigontech/erigon/pull/20124#pullrequestreview-3998274317) - 2026-03-24
 * [Review] [Review on: rpc: improve unknown block error with context](https://github.com/erigontech/erigon/pull/20149#pullrequestreview-4007595155) - 2026-03-25
 * [Review] [Review on: [r3.4] fix TestAggregatorV3_Merge: correct onDelCalls expectation](https://github.com/erigontech/erigon/pull/20176#pullrequestreview-4016764223) - 2026-03-26
+* [Review] [Review on: cp: Compute block commitment correctly + refactoring of commitment readers](https://github.com/erigontech/erigon/pull/20235#pullrequestreview-4029861797) - 2026-03-30
 ## Q4 2025
 
 

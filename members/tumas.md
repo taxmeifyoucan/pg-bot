@@ -68,6 +68,12 @@ Team: Grandine
 * [Pull Request] [Limit data column pruning per transaction](https://github.com/grandinetech/grandine/pull/650) - 2026-03-27
 * [Pull Request] [Update libmdbx bindings](https://github.com/grandinetech/grandine/pull/649) - 2026-03-27
 * [Commit] [Update libmdbx bindings](https://github.com/grandinetech/grandine/commit/433eff516b4141778be36ed982df713760f7c49b) - 2026-03-27
+* [Pull Request] [Fix snapshot tests](https://github.com/grandinetech/grandine/pull/653) - 2026-03-30
+* [Pull Request] [Return removed constant in spec response for backwards-compatibility](https://github.com/grandinetech/grandine/pull/651) - 2026-03-30
+* [Commit] [Fix snapshot tests](https://github.com/grandinetech/grandine/commit/566c423d45af59ada3cd11b0c476f2b221d2d40d) - 2026-03-30
+* [Commit] [Return removed constant in spec response for backwards-compatibility](https://github.com/grandinetech/grandine/commit/c2b2a631936a2f186515795992ffe4cce72ff8c8) - 2026-03-30
+* [Commit] [Limit number of data column keys to prune per transaction](https://github.com/grandinetech/grandine/commit/a0ef64e375227ad607a09fa74f8b7212368a0c8a) - 2026-03-30
+* [Commit] [Update Cargo.lock in zkvm](https://github.com/grandinetech/grandine/commit/c027d2c1b3c1d4b6ed6915e5258ba9588586a124) - 2026-03-30
 ## Q4 2025
 
 

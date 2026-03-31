@@ -39,6 +39,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: cleanup NO_OP instances](https://github.com/Consensys/teku/pull/10521#pullrequestreview-3990585445) - 2026-03-23
 * [Commit] [Add option to enable blobdb on RocksDB (#10470)](https://github.com/Consensys/teku/commit/ca9bf8d6325c67223e775627a7da66cc47fdad4e) - 2026-03-23
 * [Pull Request] [SingleBockProviderFulu with soft and hard limit for sampled blocks](https://github.com/Consensys/teku/pull/10533) - 2026-03-26
+* [Review] [Review on: updated changelog for 26.4 release.](https://github.com/Consensys/teku/pull/10542#pullrequestreview-4033795365) - 2026-03-30
+* [Review] [Review on: SingleBockProviderFulu with soft and hard limit for sampled blocks](https://github.com/Consensys/teku/pull/10533#pullrequestreview-4027928162) - 2026-03-30
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Propose Miroslav Kovář as a maintainer](https://github.com/besu-eth/besu/pull/10033#pullrequestreview-3971424773) - 2026-03-18
 

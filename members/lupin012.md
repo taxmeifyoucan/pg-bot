@@ -74,6 +74,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: trace_block optimisation (#20182)](https://github.com/erigontech/erigon/commit/daaacc4ed03cda01bbfc7a3256ec1b9c0c54d825) - 2026-03-29
 * [Commit] [rpc: debug_traceTransaction() align index format as Geth (#20210)](https://github.com/erigontech/erigon/commit/fd28d49df7925edbb08040d5ca3ac7399083fa69) - 2026-03-29
 * [Commit] [rpc: eth_getRawTransactionByHash & eth_callBundle avoid block scan when fetch txn from hash (#20140)](https://github.com/erigontech/erigon/commit/15ef168b21c5ec77f74d7a66b8edd05e19e0683d) - 2026-03-29
+* [Review] [Review on: rpc: add storage key limit to eth_getProof](https://github.com/erigontech/erigon/pull/20234#pullrequestreview-4032861173) - 2026-03-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration: add tests with call flat tracer](https://github.com/erigontech/rpc-tests/pull/509) - 2026-01-11
 * [Pull Request] [integration: eth_callMany fix expected responses](https://github.com/erigontech/rpc-tests/pull/511) - 2026-01-15

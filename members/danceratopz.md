@@ -95,6 +95,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-types): improve error messages for invalid tx fields](https://github.com/ethereum/execution-specs/pull/2551#pullrequestreview-4019739935) - 2026-03-27
 * [Review] [Review on: fix(test-tests): restore `execute` chain-id defaults after in-process pytest runs](https://github.com/ethereum/execution-specs/pull/2567#pullrequestreview-4019380703) - 2026-03-27
 * [Commit] [feat(tooling,docs): add pytester best practices skill and docs (#2573)](https://github.com/ethereum/execution-specs/commit/3bfb78ea31bd4915f6b66661493cfd8969a22c32) - 2026-03-27
+* [Pull Request] [chore(ci): add configurable client and verbose logging to hive-consume workflow](https://github.com/ethereum/execution-specs/pull/2590) - 2026-03-30
+* [Pull Request] [fix(ci): use master client builds for benchmark genesis extraction](https://github.com/ethereum/execution-specs/pull/2597) - 2026-03-30
+* [Pull Request] [feat(ci): split release fixture builds across multiple fork-range runners](https://github.com/ethereum/execution-specs/pull/2592) - 2026-03-30
+* [Review] [Review on: feat(test-fixture): add `metadata` subfield to `_info` with `target_opcode` ](https://github.com/ethereum/execution-specs/pull/2520#pullrequestreview-4029910586) - 2026-03-30
+* [Issue] [Consider using `actions/ethereum-security-reviewer` in CI](https://github.com/ethereum/execution-specs/issues/2586) - 2026-03-30
+* [Issue] [Don't pass `--opcode.count` to geth's `t8n` when filling non-benchmark tests](https://github.com/ethereum/execution-specs/issues/2585) - 2026-03-30
+* [Issue] [Consider building `just` and `uv` from source in CI to pin from specific hash](https://github.com/ethereum/execution-specs/issues/2584) - 2026-03-30
+* [Commit] [chore(ci): add configurable client and verbose logging to hive-consume workflow (#2590)](https://github.com/ethereum/execution-specs/commit/35fd28331387601906ade0f74b5029674710471a) - 2026-03-30
+* [Commit] [fix(ci): use master client builds for benchmark genesis extraction (#2597)](https://github.com/ethereum/execution-specs/commit/9ec843ea4c5d36d2cd6933f153463eaff85cccfd) - 2026-03-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 

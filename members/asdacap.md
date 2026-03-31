@@ -76,6 +76,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Test: Maybe improve Ethereum.Transaction.Tests stability.](https://github.com/NethermindEth/nethermind/pull/10989) - 2026-03-29
 * [Pull Request] [feat(flat-state): remove read node dictionaries from SnapshotBundle](https://github.com/NethermindEth/nethermind/pull/10993) - 2026-03-30
 * [Review] [Review on: fix: register ISnapServer in production DI to restore snap serving](https://github.com/NethermindEth/nethermind/pull/10986#pullrequestreview-4026397037) - 2026-03-29
+* [Pull Request] [Add BAL-driven prewarming with bulk trie reader](https://github.com/NethermindEth/nethermind/pull/11002) - 2026-03-31
+* [Review] [Review on: Add BAL-driven prewarming with bulk trie reader](https://github.com/NethermindEth/nethermind/pull/11002#pullrequestreview-4034166511) - 2026-03-31
+* [Review] [Review on: feat: add StateComposition plugin with parallel trie visitor](https://github.com/NethermindEth/nethermind/pull/10995#pullrequestreview-4034159827) - 2026-03-31
+* [Review] [Review on: fix: prevent protocol handler memory leak from Autofac dispose tracking](https://github.com/NethermindEth/nethermind/pull/11000#pullrequestreview-4033758507) - 2026-03-30
+* [Pull Request] [refactor: remove NodeData satellite protocol](https://github.com/NethermindEth/nethermind/pull/10994) - 2026-03-30
+* [Commit] [Test: Maybe improve Ethereum.Transaction.Tests stability. (#10989)](https://github.com/NethermindEth/nethermind/commit/ab4116bfe75ce37da008b0f4fc2e3929da941a68) - 2026-03-30
 ## Q4 2025
 
 

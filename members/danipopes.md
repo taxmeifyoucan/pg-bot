@@ -77,6 +77,7 @@ Team: Reth
 * [Pull Request] [chore(docs): normalize Grafana dashboard JSON formatting and tags](https://github.com/paradigmxyz/reth/pull/23266) - 2026-03-28
 * [Pull Request] [perf: use FastInstant for remaining metrics timing](https://github.com/paradigmxyz/reth/pull/23265) - 2026-03-28
 * [Commit] [perf: use FastInstant for remaining metrics timing (#23265)](https://github.com/paradigmxyz/reth/commit/49339780c0f1836a67ba9f3bf203061805aafae2) - 2026-03-29
+* [Review] [Review on: perf: reduce cacheline ping pong in workers availability](https://github.com/paradigmxyz/reth/pull/23287#pullrequestreview-4032464375) - 2026-03-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: elide some jumps in jump](https://github.com/bluealloy/revm/pull/3347) - 2026-01-23
 * [Pull Request] []() - 2026-01-25
@@ -237,6 +238,26 @@ Team: Reth
 * [Commit] [perf(builtins): add ReadOnly attr on ecx for getter builtins (#190)](https://github.com/paradigmxyz/revmc/commit/feea61c8f2061834cbd09f3e7fa21135c52ca193) - 2026-03-29
 * [Commit] [fix: improve DOT self-loop edge rendering (#191)](https://github.com/paradigmxyz/revmc/commit/840a9ce6cd21c4f9ff0a1129d563f9d5a7ce3c18) - 2026-03-29
 * [Commit] [chore: remove another debug name (#188)](https://github.com/paradigmxyz/revmc/commit/2498da317fc50a5988d2a783dcefd3777c3c00ee) - 2026-03-29
+* [Pull Request] [feat: block-local constant propagation for unreached blocks](https://github.com/paradigmxyz/revmc/pull/214) - 2026-03-31
+* [Pull Request] [fix: CFG block ranges exclude dead code, DOT uses succs](https://github.com/paradigmxyz/revmc/pull/213) - 2026-03-31
+* [Pull Request] [refactor: remove opt_level from backend constructors](https://github.com/paradigmxyz/revmc/pull/212) - 2026-03-30
+* [Pull Request] [chore: add univ2_router to get_benches](https://github.com/paradigmxyz/revmc/pull/210) - 2026-03-30
+* [Pull Request] [refactor: use CFG blocks in fmt and DOT output](https://github.com/paradigmxyz/revmc/pull/211) - 2026-03-30
+* [Review] [Review on: aot: use platform-native shared library suffixes](https://github.com/paradigmxyz/revmc/pull/206#pullrequestreview-4033369389) - 2026-03-30
+* [Pull Request] [feat: block deduplication pass](https://github.com/paradigmxyz/revmc/pull/209) - 2026-03-30
+* [Pull Request] [fix: improve DOT graph edge routing](https://github.com/paradigmxyz/revmc/pull/204) - 2026-03-30
+* [Pull Request] [fix: stack section analysis fix](https://github.com/paradigmxyz/revmc/pull/203) - 2026-03-30
+* [Pull Request] [chore: dot fixes](https://github.com/paradigmxyz/revmc/pull/202) - 2026-03-30
+* [Commit] [chore: comment](https://github.com/paradigmxyz/revmc/commit/4eb318025f076472fc0fc7248e52794c20e0b61e) - 2026-03-31
+* [Commit] [fix: CFG block ranges exclude dead code, DOT uses succs (#213)](https://github.com/paradigmxyz/revmc/commit/d075b1794032d793584f461c4df49c00a988ec03) - 2026-03-31
+* [Commit] [refactor: remove opt_level from backend constructors (#212)](https://github.com/paradigmxyz/revmc/commit/067a9ad771a8baa18c20fb0a78c571e73524cfeb) - 2026-03-30
+* [Commit] [chore: add univ2_router to get_benches (#210)](https://github.com/paradigmxyz/revmc/commit/e46a3de9ceb467bca91cc8b920da0ec5e4d809cd) - 2026-03-30
+* [Commit] [refactor: use CFG blocks in fmt and DOT output (#211)](https://github.com/paradigmxyz/revmc/commit/a4a16192096491862db1f59165005ad37f5bec05) - 2026-03-30
+* [Commit] [feat: block deduplication pass (#209)](https://github.com/paradigmxyz/revmc/commit/ef3eb22dfce95a459ec41829ef92e4bf878ff869) - 2026-03-30
+* [Commit] [fix: improve DOT graph edge routing (#204)](https://github.com/paradigmxyz/revmc/commit/3dcacc537fd98d5885a022511abbb3e7f9c31ab5) - 2026-03-30
+* [Commit] [feat: constant propagation via abstract stack interpretation (#185)](https://github.com/paradigmxyz/revmc/commit/fae64b2b0bbc2b4d64e032ad39cabd351ec7c089) - 2026-03-30
+* [Commit] [fix: stack section analysis fix (#203)](https://github.com/paradigmxyz/revmc/commit/f0c815c79afc5392ab3a6201b4a0bb6af02faa1f) - 2026-03-30
+* [Commit] [chore: dot fixes (#202)](https://github.com/paradigmxyz/revmc/commit/2ccb51795f7f42144333e76056905a70174094f6) - 2026-03-30
 ## Q4 2025
 
 

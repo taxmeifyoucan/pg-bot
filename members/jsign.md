@@ -26,6 +26,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Issue] [Failed ZisK proof for mainnet block](https://github.com/eth-act/ere/issues/320) - 2026-03-27
 * [Review] [Review on: fix: update zisk patch rev to `75957ca` with fix](https://github.com/eth-act/ere/pull/322#pullrequestreview-4025578375) - 2026-03-28
 * [Issue] [Zisk v0.16.1 seems to get stuck](https://github.com/eth-act/ere/issues/323) - 2026-03-28
+* [Review] [Review on: feat: add `DockerizedzkVMConfig` to allow specify operation timeouts](https://github.com/eth-act/ere/pull/324#pullrequestreview-4031401894) - 2026-03-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [fix(bal): fix populated account if pre-state was none](https://github.com/bluealloy/revm/pull/3357) - 2026-01-27
 
@@ -81,6 +82,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): add tests for execution witness with mutated bytecodes and headers](https://github.com/ethereum/execution-specs/pull/2549) - 2026-03-24
 * [Review] [Review on: feat(zkevm): add tests for execution witness with mutated bytecodes and headers](https://github.com/ethereum/execution-specs/pull/2549#pullrequestreview-3998674838) - 2026-03-24
 * [Issue] [Stateless block executor behavior on block execution failure](https://github.com/ethereum/execution-specs/issues/2558) - 2026-03-25
+* [Pull Request] [feat(zkevm): harden witness state validation for malformed trie proofs](https://github.com/ethereum/execution-specs/pull/2589) - 2026-03-30
+* [Review] [Review on: feat(zkevm): harden witness state validation for malformed trie proofs](https://github.com/ethereum/execution-specs/pull/2589#pullrequestreview-4031529376) - 2026-03-30
 ## Q4 2025
 
 

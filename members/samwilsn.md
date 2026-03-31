@@ -44,6 +44,12 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(specs): make `State` fork agnostic](https://github.com/ethereum/execution-specs/pull/2381#pullrequestreview-4008071800) - 2026-03-25
 * [Pull Request] [Replace `Uint(len(...))` with `ulen(...)`](https://github.com/ethereum/execution-specs/pull/2580) - 2026-03-27
 * [Issue] [Investigate using `deal` annotations](https://github.com/ethereum/execution-specs/issues/2577) - 2026-03-27
+* [Pull Request] [fix(specs): remove None from trie Node type](https://github.com/ethereum/execution-specs/pull/2596) - 2026-03-30
+* [Review] [Review on: refactor(specs): add `has_access_list` fn for transaction types](https://github.com/ethereum/execution-specs/pull/2582#pullrequestreview-4027877344) - 2026-03-30
+* [Review] [Review on: feat(tooling): align versioning scheme to 6.19.0](https://github.com/ethereum/execution-specs/pull/2464#pullrequestreview-4028712859) - 2026-03-30
+* [Review] [Review on: feat(tooling): auto-assign reviewers to PRs based on custom ranking](https://github.com/ethereum/execution-specs/pull/2467#pullrequestreview-4028580301) - 2026-03-30
+* [Issue] [Inaccurate docstring for `encode_node`](https://github.com/ethereum/execution-specs/issues/2594) - 2026-03-30
+* [Commit] [fix(specs): remove None from trie Node type (#2596)](https://github.com/ethereum/execution-specs/commit/9494cd81efc6e5cba755ed80c0c0cd5dc8a825f5) - 2026-03-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs #38, February 18, 2026](https://github.com/ethereum/pm/issues/1909) - 2026-01-29
 ## Q4 2025

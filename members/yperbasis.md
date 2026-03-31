@@ -225,6 +225,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execmodule, eth: fix roTx leak in updateForkChoice + improve shutdown ordering](https://github.com/erigontech/erigon/pull/20220#pullrequestreview-4026859097) - 2026-03-29
 * [Review] [Review on: commitment: add persistent branch cache across Process() calls](https://github.com/erigontech/erigon/pull/19954#pullrequestreview-4026855887) - 2026-03-29
 * [Pull Request] [execution/vm: reduce heap allocations in precompile contracts](https://github.com/erigontech/erigon/pull/20213) - 2026-03-29
+* [Review] [Review on: execution: EVM interpreter optimizations](https://github.com/erigontech/erigon/pull/20183#pullrequestreview-4032121749) - 2026-03-30
+* [Review] [Review on: stagedsync/bal: validate max items on stored block access list](https://github.com/erigontech/erigon/pull/20222#pullrequestreview-4028029580) - 2026-03-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

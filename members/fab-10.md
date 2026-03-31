@@ -54,6 +54,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Add txpool_content JSON-RPC method](https://github.com/besu-eth/besu/pull/10120) - 2026-03-27
 * [Review] [Review on: Add txpool_contentFrom JSON-RPC method](https://github.com/besu-eth/besu/pull/10111#pullrequestreview-4019861286) - 2026-03-27
 * [Commit] [Add txpool_contentFrom JSON-RPC method (#10111)](https://github.com/besu-eth/besu/commit/530f182737ddee3beef4f03e482a37aac7b2f96d) - 2026-03-27
+* [Pull Request] [Optimize performance and reduce memory when creating Quantity from sc…](https://github.com/besu-eth/besu/pull/10134) - 2026-03-30
+* [Pull Request] [Reduce tx p2p broadcast bandwidth and memory used](https://github.com/besu-eth/besu/pull/9937) - 2026-03-30
+* [Commit] [Reduce tx p2p broadcast bandwidth and memory used (#9937)](https://github.com/besu-eth/besu/commit/2b6901e502276638d6fe8912124208eb34603e81) - 2026-03-30
+* [Commit] [Add txpool_content JSON-RPC method (#10120)](https://github.com/besu-eth/besu/commit/2e341e9101a448fd2e738c94f6a58691a7747582) - 2026-03-30
+* [Commit] [Refactor TransactionCompleteResult to extend TransactionPendingResult (#10113)](https://github.com/besu-eth/besu/commit/588cd4524a6ee8361c298f6a12045f3c9e3ea6f1) - 2026-03-30
 ## Q4 2025
 
 

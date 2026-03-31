@@ -142,6 +142,7 @@ Team: Erigon
 * [Issue] [caplin: embedded dev validator for single-node development testing](https://github.com/erigontech/erigon/issues/20191) - 2026-03-27
 * [Pull Request] [execmodule, eth: fix roTx leak in updateForkChoice + improve shutdown ordering](https://github.com/erigontech/erigon/pull/20220) - 2026-03-29
 * [Issue] [commitment: move BranchCache behind PatriciaContext interface](https://github.com/erigontech/erigon/issues/20218) - 2026-03-29
+* [Commit] [execmodule, eth: fix roTx leak in updateForkChoice + improve shutdown ordering (#20220)](https://github.com/erigontech/erigon/commit/ef63408ad1d472a50074bc960a99f5dd2cd765b1) - 2026-03-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Add null slotnumber to erigon_ api](https://github.com/erigontech/rpc-tests/pull/523) - 2026-02-13
 ## Q4 2025

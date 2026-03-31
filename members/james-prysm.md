@@ -86,6 +86,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Refactor gloas process_execution_payload into distinct entry points](https://github.com/OffchainLabs/prysm/pull/16600#pullrequestreview-4023616446) - 2026-03-27
 * [Review] [Review on: implementing envelope rest apis ](https://github.com/OffchainLabs/prysm/pull/16522#pullrequestreview-4023107238) - 2026-03-27
 * [Review] [Review on: Pre fork proposer preferences](https://github.com/OffchainLabs/prysm/pull/16588#pullrequestreview-4022540153) - 2026-03-27
+* [Pull Request] [allow proposer preferences on the same epoch](https://github.com/OffchainLabs/prysm/pull/16610) - 2026-03-30
+* [Pull Request] [allowing ptc duties for next epoch on grpc endpoint](https://github.com/OffchainLabs/prysm/pull/16608) - 2026-03-30
+* [Review] [Review on: Re-add next-epoch lookahead for PTC duties](https://github.com/OffchainLabs/prysm/pull/16591#pullrequestreview-4031865281) - 2026-03-30
+* [Pull Request] [changing log to warn in fallback log](https://github.com/OffchainLabs/prysm/pull/16606) - 2026-03-30
+* [Commit] [changing log to warn in fallback log (#16606)](https://github.com/OffchainLabs/prysm/commit/f05972a18181a568fbe7e7d82bbf95397994b1f1) - 2026-03-30
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: fix: remove AVX dependency from SSE x1 implementation](https://github.com/OffchainLabs/hashtree/pull/64#pullrequestreview-4016657390) - 2026-03-26
 ## Q4 2025

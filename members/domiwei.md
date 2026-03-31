@@ -52,6 +52,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: fix: avoid duplicate counter creation for gossip topics](https://github.com/erigontech/erigon/pull/18749#pullrequestreview-4011600349) - 2026-03-26
 * [Commit] [execution/vm: fix gas tracing underflow with EIP-8037 state gas (#20128)](https://github.com/erigontech/erigon/commit/b206fff09c1248eb07d252606431e4472f9d6136) - 2026-03-26
 * [Review] [Review on: cl/forkchoice, cltypes: normalize Electra requests nil handling](https://github.com/erigontech/erigon/pull/20187#pullrequestreview-4020038747) - 2026-03-27
+* [Pull Request] [stagedsync: guard BAL debug file writes and unify serialization format](https://github.com/erigontech/erigon/pull/20223) - 2026-03-30
+* [Pull Request] [stagedsync/bal: validate max items on stored block access list](https://github.com/erigontech/erigon/pull/20222) - 2026-03-30
+* [Commit] [stagedsync/bal: validate max items on stored block access list (#20222)](https://github.com/erigontech/erigon/commit/8ac738f3d06c8efa1619ded77e212a8bbb6a65f1) - 2026-03-30
 ## Q3 2025
 
 

@@ -27,6 +27,9 @@ Team: Grandine
 * [Commit] [Avoid initiating DB transactions for empty batches](https://github.com/grandinetech/grandine/commit/91d83ff672b3cdb8997b3b63893092533b454243) - 2026-03-26
 * [Review] [Review on: Limit data column pruning per transaction](https://github.com/grandinetech/grandine/pull/650#pullrequestreview-4022241302) - 2026-03-27
 * [Review] [Review on: Update libmdbx bindings](https://github.com/grandinetech/grandine/pull/649#pullrequestreview-4020616986) - 2026-03-27
+* [Review] [Review on: Fix snapshot tests](https://github.com/grandinetech/grandine/pull/653#pullrequestreview-4031307707) - 2026-03-30
+* [Review] [Review on: Bumped version to 2.0.4](https://github.com/grandinetech/grandine/pull/652#pullrequestreview-4029957051) - 2026-03-30
+* [Review] [Review on: Return removed constant in spec response for backwards-compatibility](https://github.com/grandinetech/grandine/pull/651#pullrequestreview-4029699219) - 2026-03-30
 ## Q4 2025
 
 

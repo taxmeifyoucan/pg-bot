@@ -58,6 +58,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Investigate adding SerializedCache in ByRange](https://github.com/ChainSafe/lodestar/issues/9110) - 2026-03-25
 * [Review] [Review on: feat: enhance NetworkProcessor for gloas](https://github.com/ChainSafe/lodestar/pull/9025#pullrequestreview-4016968722) - 2026-03-26
 * [Review] [Review on: fix: only create QUIC clients for configured address families](https://github.com/ChainSafe/lodestar/pull/9101#pullrequestreview-4016937695) - 2026-03-26
+* [Review] [Review on: feat: add execution payload events](https://github.com/ChainSafe/lodestar/pull/9120#pullrequestreview-4031609739) - 2026-03-30
+* [Review] [Review on: feat: switch from buildjet to warpbuild](https://github.com/ChainSafe/lodestar/pull/9125#pullrequestreview-4030650035) - 2026-03-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: merge blst-z](https://github.com/ChainSafe/lodestar-z/pull/237) - 2026-03-12
 * [Review] [Review on: feat(fuzz): add AFL++ fuzz testing for SSZ deserialization](https://github.com/ChainSafe/lodestar-z/pull/228#pullrequestreview-3933528390) - 2026-03-12

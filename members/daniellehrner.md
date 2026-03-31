@@ -48,6 +48,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Fix eip 7778 & eip 8037 bugs in bal-devnet-3](https://github.com/besu-eth/besu/pull/10112) - 2026-03-26
 * [Review] [Review on: test(referencetests): validate block rejection reason against expected exception ](https://github.com/besu-eth/besu/pull/10098#pullrequestreview-4014636556) - 2026-03-26
 * [Commit] [Fix EIP-7778 and EIP-8037 bugs (#10099)](https://github.com/besu-eth/besu/commit/0b41fbef01cbcf34f71dc3ed935314e431436703) - 2026-03-26
+* [Pull Request] [Add sources to the verification](https://github.com/besu-eth/besu/pull/10129) - 2026-03-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936613106) - 2026-03-12
 ## Q4 2025

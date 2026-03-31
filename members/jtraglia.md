@@ -99,6 +99,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update tests workflow](https://github.com/ethereum/consensus-specs/pull/5054#pullrequestreview-4024553468) - 2026-03-28
 * [Review] [Review on: Update tests workflow](https://github.com/ethereum/consensus-specs/pull/5054#pullrequestreview-4027335106) - 2026-03-29
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4027333807) - 2026-03-29
+* [Review] [Review on: Update dependency ruff to v0.15.8](https://github.com/ethereum/consensus-specs/pull/5057#pullrequestreview-4030253319) - 2026-03-30
+* [Review] [Review on: Update astral-sh/setup-uv action to v8](https://github.com/ethereum/consensus-specs/pull/5058#pullrequestreview-4030249175) - 2026-03-30
+* [Review] [Review on: Update dependency deepdiff to v9](https://github.com/ethereum/consensus-specs/pull/5059#pullrequestreview-4030244772) - 2026-03-30
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [feat: enable specref features & remove unnecessary spec items](https://github.com/ChainSafe/lodestar/pull/8788) - 2026-01-27
 

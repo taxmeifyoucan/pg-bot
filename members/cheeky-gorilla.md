@@ -19,6 +19,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Add Shape](https://github.com/protocolguild/protocol-guild-site/commit/f3c998cad2fd7ab46f7d148b55924a95c2e6b0b5) - 2026-03-25
 * [Commit] [Add Shape](https://github.com/protocolguild/protocol-guild-site/commit/d89a6596165d171d24fe2064200081517d9b8e71) - 2026-03-25
 * [Commit] [Add Shape logos](https://github.com/protocolguild/protocol-guild-site/commit/5b217483c7d218b63c3f01592303b9bb027f5f1c) - 2026-03-25
+* [Commit] [Add Shape quote](https://github.com/protocolguild/protocol-guild-site/commit/3b36a9cf79b76f3c7a1ab5b08f53cf36a1239ca8) - 2026-03-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Commit] [Update arch](https://github.com/protocolguild/documentation/commit/8356a3f51acac02f8aa6848384cb501a3fad5f16) - 2026-03-19
 * [Commit] [Edit to "multisig accounts"](https://github.com/protocolguild/documentation/commit/d57ad821826269bcbd3be3311f5f5ed408704a0c) - 2026-03-19

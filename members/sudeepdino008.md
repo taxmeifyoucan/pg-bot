@@ -89,6 +89,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.4] fix TestAggregatorV3_Merge: correct onDelCalls expectation](https://github.com/erigontech/erigon/pull/20176) - 2026-03-26
 * [Pull Request] [Revert "exec3_parallel: eliminate IBS round-trip in finalize path (#19814)"](https://github.com/erigontech/erigon/pull/20177) - 2026-03-26
 * [Review] [Review on: [SharovBot] db/migrations: fix stage-exec-test panic on BlockAccessList table missing](https://github.com/erigontech/erigon/pull/20198#pullrequestreview-4023027050) - 2026-03-27
+* [Pull Request] [db/state/execctx: use HistoryKeyTxNumRange in touchChangedKeys](https://github.com/erigontech/erigon/pull/20229) - 2026-03-30
+* [Pull Request] [[WIP] execution/execmodule: fix long-running ro tx in forkchoice causing mdbx growth](https://github.com/erigontech/erigon/pull/20233) - 2026-03-30
+* [Pull Request] [cp: db/integrity: add aggregate progress logs for CommitmentHistVal (#19925)](https://github.com/erigontech/erigon/pull/20236) - 2026-03-30
+* [Review] [Review on: cp: db/integrity: add aggregate progress logs for CommitmentHistVal (#19925)](https://github.com/erigontech/erigon/pull/20236#pullrequestreview-4029924842) - 2026-03-30
+* [Pull Request] [cp: Compute block commitment correctly + refactoring of commitment readers](https://github.com/erigontech/erigon/pull/20235) - 2026-03-30
+* [Pull Request] [integrity: skip remaining checks when ctx is cancelled due to error](https://github.com/erigontech/erigon/pull/20230) - 2026-03-30
+* [Pull Request] [cp: Compute block commitment correctly + refactoring of commitment readers](https://github.com/erigontech/erigon/pull/20231) - 2026-03-30
+* [Commit] [db/state/execctx: use HistoryKeyTxNumRange in touchChangedKeys (#20229)](https://github.com/erigontech/erigon/commit/d4c5c3ccd30817018354463f8b46f9d04a04ec83) - 2026-03-30
+* [Commit] [integrity: skip remaining checks when ctx is cancelled due to error (#20230)](https://github.com/erigontech/erigon/commit/946fa71197628bc84f7d8fc95b48b3a34ede595b) - 2026-03-30
 ## Q4 2025
 
 

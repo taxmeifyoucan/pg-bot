@@ -171,6 +171,13 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: register ISnapServer in production DI to restore snap serving](https://github.com/NethermindEth/nethermind/pull/10986#pullrequestreview-4027390895) - 2026-03-29
 * [Pull Request] [fix: resolve flaky payload CTS ObjectDisposedException](https://github.com/NethermindEth/nethermind/pull/10990) - 2026-03-29
 * [Commit] [fix: resolve flaky payload CTS ObjectDisposedException (#10990)](https://github.com/NethermindEth/nethermind/commit/72c049730fe46218e3ddbe25bf76e5a48c5702dd) - 2026-03-29
+* [Review] [Review on: fix: register ISnapServer in production DI to restore snap serving](https://github.com/NethermindEth/nethermind/pull/10986#pullrequestreview-4029332884) - 2026-03-30
+* [Review] [Review on: Don't check BALs if no validation is required](https://github.com/NethermindEth/nethermind/pull/10973#pullrequestreview-4030399422) - 2026-03-30
+* [Review] [Review on: Fix initcode gas](https://github.com/NethermindEth/nethermind/pull/10975#pullrequestreview-4030425206) - 2026-03-30
+* [Review] [Review on: Fix admin_peers](https://github.com/NethermindEth/nethermind/pull/10978#pullrequestreview-4029423643) - 2026-03-30
+* [Review] [Review on: Test: Maybe improve Ethereum.Transaction.Tests stability.](https://github.com/NethermindEth/nethermind/pull/10989#pullrequestreview-4029337046) - 2026-03-30
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/10988#pullrequestreview-4029325444) - 2026-03-30
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/10987#pullrequestreview-4029327391) - 2026-03-30
 ## Q4 2025
 
 

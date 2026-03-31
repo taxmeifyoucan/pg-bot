@@ -40,6 +40,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: cmd/utils: optimize history import with batched insertion](https://github.com/ethereum/go-ethereum/pull/33894#pullrequestreview-4002177483) - 2026-03-24
 * [Review] [Review on: eth/tracers/logger: fix legacy structLog JSON encoding](https://github.com/ethereum/go-ethereum/pull/34093#pullrequestreview-4022381284) - 2026-03-27
 * [Pull Request] [core: rolling history expiry](https://github.com/ethereum/go-ethereum/pull/34104) - 2026-03-27
+* [Review] [Review on: eth/tracers/logger: fix legacy structLog JSON encoding](https://github.com/ethereum/go-ethereum/pull/34093#pullrequestreview-4031708805) - 2026-03-30
+* [Pull Request] [internal/ethapi: limit number of getProofs keys](https://github.com/ethereum/go-ethereum/pull/34617) - 2026-03-30
+* [Pull Request] [internal/ethapi: limit number of calls to eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/34616) - 2026-03-30
+* [Commit] [internal/ethapi: limit number of getProofs keys (#34617)](https://github.com/ethereum/go-ethereum/commit/95705e8b7b6e021b3312c4dc9c817b7646bf67af) - 2026-03-30
+* [Commit] [internal/ethapi: limit number of calls to eth_simulateV1 (#34616)](https://github.com/ethereum/go-ethereum/commit/ceabc39304ec298d891d3cde51b8cfddc6842197) - 2026-03-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [eth_simulateV1: fix revert err code](https://github.com/ethereum/execution-apis/pull/748) - 2026-02-05
 * [Pull Request] [transaction: add blockTimestamp](https://github.com/ethereum/execution-apis/pull/749) - 2026-02-06

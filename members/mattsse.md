@@ -184,6 +184,16 @@ Team: Reth
 * [Review] [Review on: chore(cli): add more WARN logging before we retry a download](https://github.com/paradigmxyz/reth/pull/23258#pullrequestreview-4024861592) - 2026-03-28
 * [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23267#pullrequestreview-4026405288) - 2026-03-29
 * [Review] [Review on: perf: use FastInstant for remaining metrics timing](https://github.com/paradigmxyz/reth/pull/23265#pullrequestreview-4026404950) - 2026-03-29
+* [Review] [Review on: feat(engine): backpressure, take 2.](https://github.com/paradigmxyz/reth/pull/23280#pullrequestreview-4031308968) - 2026-03-30
+* [Review] [Review on: chore: bump alloy-evm](https://github.com/paradigmxyz/reth/pull/23289#pullrequestreview-4032308819) - 2026-03-30
+* [Review] [Review on: refactor(reth-bench): remove op-alloy dependencies via PayloadConverter trait](https://github.com/paradigmxyz/reth/pull/23262#pullrequestreview-4031271797) - 2026-03-30
+* [Review] [Review on: feat(trie): add `SparseStateTrie::update_account_stateless` for stateless validation](https://github.com/paradigmxyz/reth/pull/23272#pullrequestreview-4029562093) - 2026-03-30
+* [Review] [Review on: feat(db): add `create_test_provider_factory_with_chain_spec_and_db_args`](https://github.com/paradigmxyz/reth/pull/23270#pullrequestreview-4029483501) - 2026-03-30
+* [Review] [Review on: fix(nat): resolve DNS for ExternalAddr in external_addr_with](https://github.com/paradigmxyz/reth/pull/23269#pullrequestreview-4029691613) - 2026-03-30
+* [Review] [Review on: test(txpool): add regression for parked basefee ancestor handling](https://github.com/paradigmxyz/reth/pull/23277#pullrequestreview-4029464069) - 2026-03-30
+* [Review] [Review on: fix(net): prefer peer-reported block number in session activation](https://github.com/paradigmxyz/reth/pull/23275#pullrequestreview-4029576295) - 2026-03-30
+* [Review] [Review on: fix(cli): use HeaderTy for stage dump headers](https://github.com/paradigmxyz/reth/pull/23274#pullrequestreview-4029579151) - 2026-03-30
+* [Review] [Review on: fix(static-file): handle non-zero genesis blocks in static file range calculations](https://github.com/paradigmxyz/reth/pull/22592#pullrequestreview-4029571471) - 2026-03-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

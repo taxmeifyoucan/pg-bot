@@ -108,6 +108,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4021946844) - 2026-03-27
 * [Pull Request] [Implement builder api for gloas](https://github.com/OffchainLabs/prysm/pull/16596) - 2026-03-27
 * [Review] [Review on: Refactor gloas process_execution_payload into distinct entry points](https://github.com/OffchainLabs/prysm/pull/16600#pullrequestreview-4024640005) - 2026-03-28
+* [Review] [Review on: Potuz/replay post gloas](https://github.com/OffchainLabs/prysm/pull/16598#pullrequestreview-4030440609) - 2026-03-30
+* [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4029200459) - 2026-03-30
 ## Q4 2025
 
 

@@ -38,6 +38,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: refactor(test-benchmark): use runtime gas checking in mixed SLOAD/SSTORE benchmark](https://github.com/ethereum/execution-specs/pull/2570#pullrequestreview-4016098138) - 2026-03-26
 * [Pull Request] [refactor(test-benchmark): generic erc20 benchmark](https://github.com/ethereum/execution-specs/pull/2569) - 2026-03-26
 * [Commit] [refactor(test-benchmark): generic erc20 benchmark (#2569)](https://github.com/ethereum/execution-specs/commit/5c198a343beb0d2e06a31294ecac6b4b9dd0bb25) - 2026-03-26
+* [Pull Request] [feat(benchmarks): add runtime delegated EIP-7702 benchmarks](https://github.com/ethereum/execution-specs/pull/2598) - 2026-03-30
+* [Pull Request] [feat(benchmarks): add BAL contract chase](https://github.com/ethereum/execution-specs/pull/2588) - 2026-03-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: snap/2 - BAL-Based State Healing](https://github.com/ethereum/EIPs/pull/11391#pullrequestreview-3952860193) - 2026-03-16
 * [Review] [Review on: Update EIP-8141: add mempool policy](https://github.com/ethereum/EIPs/pull/11415#pullrequestreview-3957951837) - 2026-03-17

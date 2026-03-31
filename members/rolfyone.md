@@ -128,6 +128,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [defaulting of removed config items](https://github.com/Consensys/teku/pull/10539) - 2026-03-27
 * [Review] [Review on: defaulting of removed config items](https://github.com/Consensys/teku/pull/10539#pullrequestreview-4023700656) - 2026-03-27
 * [Commit] [defaulting of removed config items (#10539)](https://github.com/Consensys/teku/commit/54f7a59569086c8a4f8a919aaf9aa92f440f1d55) - 2026-03-29
+* [Pull Request] [updated changelog for 26.4 release.](https://github.com/Consensys/teku/pull/10542) - 2026-03-30
+* [Commit] [updated changelog for 26.4 release. (#10542)](https://github.com/Consensys/teku/commit/d2cd1b1b8ab3b656977bb354f01cc07a2ead5379) - 2026-03-30
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Issue] [libp2p connection closed exception...](https://github.com/libp2p/jvm-libp2p/issues/452) - 2026-03-10
 ## Q4 2025

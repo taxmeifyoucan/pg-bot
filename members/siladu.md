@@ -46,6 +46,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: feat: skeleton for EVM v2 with long[] stack and --Xevm-go-fast toggle](https://github.com/besu-eth/besu/pull/10105#pullrequestreview-4012489404) - 2026-03-26
 * [Pull Request] [Flag for EVM v2 --Xevm-go-fast / --Xevm-v2](https://github.com/besu-eth/besu/pull/10109) - 2026-03-26
 * [Pull Request] [SignatureAlgorithm cachedDefault for tests](https://github.com/besu-eth/besu/pull/10122) - 2026-03-29
+* [Pull Request] [[DO NOT MERGE] pre-review settings](https://github.com/besu-eth/besu/pull/10136) - 2026-03-30
+* [Pull Request] [refactor: simplify SignatureAlgorithmFactory to eager singleton](https://github.com/besu-eth/besu/pull/10126) - 2026-03-30
+* [Issue] [EVM V2 - Stack Long Array Skeleton](https://github.com/besu-eth/besu/issues/10131) - 2026-03-30
+* [Commit] [Optimize MULMOD worst cases (#10088)](https://github.com/besu-eth/besu/commit/cf45eb799b0891f128ed06c5c2ee50a250ba6059) - 2026-03-30
+* [Commit] [SignatureAlgorithm cachedDefault for tests (#10122)](https://github.com/besu-eth/besu/commit/48a936df1aa81bc30c5631653350eef0653a1958) - 2026-03-30
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Review] [Review on: chore(ci): update runner types and trigger](https://github.com/besu-eth/besu-stateless/pull/91#pullrequestreview-3951053016) - 2026-03-16
 

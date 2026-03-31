@@ -55,6 +55,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [n-b-s: bump for lto-compiled compiler](https://github.com/status-im/nimbus-eth1/pull/4072) - 2026-03-26
 * [Pull Request] [lto: set based on compiler](https://github.com/status-im/nimbus-eth1/pull/4071) - 2026-03-26
 * [Commit] [lto: set based on compiler (#4071)](https://github.com/status-im/nimbus-eth1/commit/d4039024416575dd0b95af0e74a9a205c8e7ef96) - 2026-03-27
+* [Commit] [n-b-s: bump for LTO compiler (#4072)](https://github.com/status-im/nimbus-eth1/commit/462bd436132125d06c1dc3721080a35b1d414a8c) - 2026-03-30
 ## Q4 2025
 
 

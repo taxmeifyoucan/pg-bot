@@ -108,6 +108,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: prevent FlatDB live stall and make restart recovery exact](https://github.com/NethermindEth/nethermind/pull/10968#pullrequestreview-4018750384) - 2026-03-27
 * [Pull Request] [feat(cache): Add AssociativeCache - lock-free set-associative cache with 3-random eviction](https://github.com/NethermindEth/nethermind/pull/10991) - 2026-03-29
 * [Review] [Review on: fix: resolve flaky payload CTS ObjectDisposedException](https://github.com/NethermindEth/nethermind/pull/10990#pullrequestreview-4026502904) - 2026-03-29
+* [Review] [Review on: Don't check BALs if no validation is required](https://github.com/NethermindEth/nethermind/pull/10973#pullrequestreview-4030403401) - 2026-03-30
+* [Review] [Review on: Fix initcode gas](https://github.com/NethermindEth/nethermind/pull/10975#pullrequestreview-4030413789) - 2026-03-30
+* [Review] [Review on: Don't record BALs during transaction picking](https://github.com/NethermindEth/nethermind/pull/10971#pullrequestreview-4031386553) - 2026-03-30
+* [Review] [Review on: Test: Maybe improve Ethereum.Transaction.Tests stability.](https://github.com/NethermindEth/nethermind/pull/10989#pullrequestreview-4030165379) - 2026-03-30
 ## Q4 2025
 
 

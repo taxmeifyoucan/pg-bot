@@ -82,3 +82,4 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] [.github: fix frontpage README overridden by .github/README.md](https://github.com/erigontech/erigon/pull/20168) - 2026-03-26
 * [Pull Request] [ci: add cache warming workflow for main and performance branches](https://github.com/erigontech/erigon/pull/20209) - 2026-03-28
 * [Commit] [ci: unshadow main branch README (#20189)](https://github.com/erigontech/erigon/commit/ba3c8f833fc3ca7443213f77cb4799b38406600b) - 2026-03-27
+* [Commit] [ci: add cache warming workflow for main and performance branches (#20209)](https://github.com/erigontech/erigon/commit/804b7a124e70ecd55f7922366c91cf01a50efa73) - 2026-03-30

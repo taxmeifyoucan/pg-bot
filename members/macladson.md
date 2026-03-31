@@ -45,6 +45,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: [Do not squash] Back merge cargo audit fixes into `unstable`](https://github.com/sigp/lighthouse/pull/9013#pullrequestreview-3987740496) - 2026-03-22
 * [Review] [Review on: Use BTreeMap for state.validators pending updates](https://github.com/sigp/lighthouse/pull/9017#pullrequestreview-3991263009) - 2026-03-23
 * [Pull Request] [Use `yaml_serde` in place of deprecated `serde_yaml`](https://github.com/sigp/lighthouse/pull/9040) - 2026-03-27
+* [Review] [Review on: Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006#pullrequestreview-4029645927) - 2026-03-30
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [Use `hashlink::LruCache` instead of `lru::LruCache`](https://github.com/sigp/discv5/pull/294) - 2026-01-10
 ## Q4 2025

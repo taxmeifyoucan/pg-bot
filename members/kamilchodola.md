@@ -48,6 +48,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf: add cross-block storage and state caches with write-through](https://github.com/NethermindEth/nethermind/pull/10948) - 2026-03-25
 * [Review] [Review on: ci: replace sync-smoke-test with tiered sync CI strategy](https://github.com/NethermindEth/nethermind/pull/10932#pullrequestreview-4006789489) - 2026-03-25
 * [Pull Request] [perf: enable main thread to populate PreBlockCaches on miss](https://github.com/NethermindEth/nethermind/pull/10947) - 2026-03-25
+* [Pull Request] [fix: defer BAL storage reads budget check to final validation call](https://github.com/NethermindEth/nethermind/pull/10998) - 2026-03-30
+* [Review] [Review on: Add `testing_buildBlockV1`](https://github.com/NethermindEth/nethermind/pull/9901#pullrequestreview-4030013044) - 2026-03-30
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Fix/stateful repricing mode](https://github.com/NethermindEth/gas-benchmarks/pull/131) - 2026-03-13
 * [Commit] [Fix/stateful repricing mode (#131)](https://github.com/NethermindEth/gas-benchmarks/commit/e447c0bc17abd422b59ee4db8a488f2dce6fa10c) - 2026-03-13

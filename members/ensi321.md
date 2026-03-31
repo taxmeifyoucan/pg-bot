@@ -37,6 +37,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: unknown payload sync for incoming blocks](https://github.com/ChainSafe/lodestar/pull/9102) - 2026-03-24
 * [Commit] [feat: add payload envelope reqresp (#9050)](https://github.com/ChainSafe/lodestar/commit/b10dfaca8dbdcfa25e0a3173f9096ce48fd9b077) - 2026-03-25
 * [Review] [Review on: feat: enhance NetworkProcessor for gloas](https://github.com/ChainSafe/lodestar/pull/9025#pullrequestreview-4018683325) - 2026-03-27
+* [Review] [Review on: feat: update data column sidecars for gloas](https://github.com/ChainSafe/lodestar/pull/8938#pullrequestreview-4033929631) - 2026-03-31
 ## Q4 2025
 
 

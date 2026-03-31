@@ -53,6 +53,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(test-fill): add `--post-verifier` flag to capture fill time post state checks](https://github.com/ethereum/execution-specs/pull/2552#pullrequestreview-4002144049) - 2026-03-24
 * [Review] [Review on: feat(tests): add worst-case BAL read test](https://github.com/ethereum/execution-specs/pull/2033#pullrequestreview-4015671573) - 2026-03-26
 * [Review] [Review on: refactor(test-benchmark): generic erc20 benchmark](https://github.com/ethereum/execution-specs/pull/2569#pullrequestreview-4016123559) - 2026-03-26
+* [Review] [Review on: fix(specs): remove None from trie Node type](https://github.com/ethereum/execution-specs/pull/2596#pullrequestreview-4033283473) - 2026-03-30
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [fix: update BPO defaults](https://github.com/ethereum/hive/pull/1380) - 2026-01-15
 * [Pull Request] [fix: remove Amsterdam defaults (named fork in blob params)](https://github.com/ethereum/hive/pull/1387) - 2026-02-03

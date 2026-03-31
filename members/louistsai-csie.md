@@ -54,3 +54,5 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Issue] [Add block building correctness testing via `testing_buildBlockV1` endpoint](https://github.com/ethereum/execution-specs/issues/2560) - 2026-03-26
 * [Commit] [refactor: label necessary marker (#2430)](https://github.com/ethereum/execution-specs/commit/def3a0c214ee7eb9ce3aeeab467434e1d00477c6) - 2026-03-26
 * [Pull Request] [refactor(test-benchmark): repricing stateful benchmark on mainnet](https://github.com/ethereum/execution-specs/pull/2579) - 2026-03-27
+* [Pull Request] [feat(test-benchmark): add precompile macro for precompile benchmarks](https://github.com/ethereum/execution-specs/pull/2591) - 2026-03-30
+* [Commit] [feat(test-fixture): add `metadata` subfield to `_info` with `target_opcode` (#2520)](https://github.com/ethereum/execution-specs/commit/fd1dd634e8ba0a6009eb70f4705d705b147d5055) - 2026-03-30

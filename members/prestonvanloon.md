@@ -41,6 +41,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Introduce a new cache that keeps all seen aggregated attestations for at least one epoch](https://github.com/OffchainLabs/prysm/pull/16370#pullrequestreview-4015690985) - 2026-03-26
 * [Review] [Review on: SSZ-QL: Hybrid merkle proof generation for `BeaconState`](https://github.com/OffchainLabs/prysm/pull/16295#pullrequestreview-4017021293) - 2026-03-26
 * [Commit] [Hdiff: save hot states at tree boundaries (#16589)](https://github.com/OffchainLabs/prysm/commit/139773aa3a9a300724a5c4599016fdd426caded7) - 2026-03-27
+* [Pull Request] [API: Limit HTTP request max size and batch large RegisterValidator payloads](https://github.com/OffchainLabs/prysm/pull/16609) - 2026-03-30
+* [Review] [Review on: changing log to warn in fallback log](https://github.com/OffchainLabs/prysm/pull/16606#pullrequestreview-4031414255) - 2026-03-30
 ## Q4 2025
 
 

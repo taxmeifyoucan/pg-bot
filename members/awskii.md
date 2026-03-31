@@ -76,6 +76,20 @@ Team: Erigon
 * [Issue] [stagedsync/bal: network-downloaded BAL skips ValidateMaxItems check that computed BAL enforces](https://github.com/erigontech/erigon/issues/20217) - 2026-03-29
 * [Issue] [stagedsync/bal: redundant BAL serialization with divergent format between writeBALToFile and DebugString](https://github.com/erigontech/erigon/issues/20216) - 2026-03-29
 * [Issue] [execution/protocol: GetHashFn contains unreachable mutex protecting sequential-only code](https://github.com/erigontech/erigon/issues/20219) - 2026-03-29
+* [Review] [Review on: rpc: add storage key limit to eth_getProof](https://github.com/erigontech/erigon/pull/20234#pullrequestreview-4032261933) - 2026-03-30
+* [Review] [Review on: execution: EVM interpreter optimizations](https://github.com/erigontech/erigon/pull/20183#pullrequestreview-4028833335) - 2026-03-30
+* [Review] [Review on: db/state/execctx: use HistoryKeyTxNumRange in touchChangedKeys](https://github.com/erigontech/erigon/pull/20229#pullrequestreview-4029366232) - 2026-03-30
+* [Review] [Review on: cp: db/integrity: add aggregate progress logs for CommitmentHistVal (#19925)](https://github.com/erigontech/erigon/pull/20236#pullrequestreview-4029860647) - 2026-03-30
+* [Review] [Review on: integrity: skip remaining checks when ctx is cancelled due to error](https://github.com/erigontech/erigon/pull/20230#pullrequestreview-4029357746) - 2026-03-30
+* [Review] [Review on: commitment: preserve map  capacity in Updates.Reset](https://github.com/erigontech/erigon/pull/20221#pullrequestreview-4028461538) - 2026-03-30
+* [Review] [Review on: [SharovBot] cmd/snapshots: add --chain flag to rm-state-snapshots to fix stage-exec-test CI](https://github.com/erigontech/erigon/pull/20170#pullrequestreview-4028480359) - 2026-03-30
+* [Review] [Review on: build(deps): bump docker/login-action from 3 to 4](https://github.com/erigontech/erigon/pull/20226#pullrequestreview-4028458274) - 2026-03-30
+* [Issue] [`hoodi` chain fresh sync can't execute further](https://github.com/erigontech/erigon/issues/20237) - 2026-03-30
+* [Issue] [`sepolia` fresh sync can't execute further](https://github.com/erigontech/erigon/issues/20238) - 2026-03-30
+* [Commit] [commitment: expand witness trie unit tests for eth_getWitness edge cases (#20126)](https://github.com/erigontech/erigon/commit/662aaa9c60865c1c8f22952efed39a11bcd0af3a) - 2026-03-30
+* [Commit] [commitment: move cleanup to Release() for safer sync.Pool reuse (#20208)](https://github.com/erigontech/erigon/commit/59e3b08f1566ff93d29a042b8f7e0500a2875364) - 2026-03-30
+* [Commit] [cmd: improve commitment snapshot removal output (#20202)](https://github.com/erigontech/erigon/commit/c286488e01a33f4903d404ed897f091da3a49937) - 2026-03-30
+* [Commit] [db/state: disable ReplaceKeysInValues during RebuildCommitmentFiles (#20204)](https://github.com/erigontech/erigon/commit/c6f005428b478641cb294be6b909290a569ef9fc) - 2026-03-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3925895357) - 2026-03-10
 ## Q4 2025

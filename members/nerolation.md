@@ -50,6 +50,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [feat(tests): add worst-case BAL read test](https://github.com/ethereum/execution-specs/pull/2033) - 2026-01-18
 
 * [Pull Request] [feat(tests): add test case for create2 selfdestruct and recreate](https://github.com/ethereum/execution-specs/pull/2121) - 2026-02-06
+* [Commit] [feat(tests): add worst-case BAL read test (#2033)](https://github.com/ethereum/execution-specs/commit/9b90b4c8b7e6fc6400cc242dc126273cab550516) - 2026-03-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: define EIP-7928 API methods](https://github.com/ethereum/execution-apis/pull/727) - 2026-02-04
 * [Pull Request] [eth: add EIP-7928 Block-level Access Lists JSON RPC methods](https://github.com/ethereum/execution-apis/pull/726) - 2026-03-02

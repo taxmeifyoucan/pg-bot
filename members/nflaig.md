@@ -122,6 +122,22 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add execution payload events](https://github.com/ChainSafe/lodestar/pull/9120) - 2026-03-27
 * [Review] [Review on: feat: add execution payload events](https://github.com/ChainSafe/lodestar/pull/9120#pullrequestreview-4022156418) - 2026-03-27
 * [Review] [Review on: fix: update stale custody group metric name in summary dashboard](https://github.com/ChainSafe/lodestar/pull/9121#pullrequestreview-4025575334) - 2026-03-28
+* [Review] [Review on: feat: enable quic transport by default](https://github.com/ChainSafe/lodestar/pull/9133#pullrequestreview-4033488200) - 2026-03-30
+* [Review] [Review on: test: move StreamStateError handler to module scope](https://github.com/ChainSafe/lodestar/pull/9134#pullrequestreview-4033494803) - 2026-03-30
+* [Review] [Review on: test: fix benchmark CI stability](https://github.com/ChainSafe/lodestar/pull/9132#pullrequestreview-4033275769) - 2026-03-30
+* [Review] [Review on: test: fix benchmark failures surfaced by benchmark 2.0.2](https://github.com/ChainSafe/lodestar/pull/9131#pullrequestreview-4032170978) - 2026-03-30
+* [Review] [Review on: chore(deps): bump the actions group with 2 updates](https://github.com/ChainSafe/lodestar/pull/9130#pullrequestreview-4031883677) - 2026-03-30
+* [Review] [Review on: feat: add execution payload events](https://github.com/ChainSafe/lodestar/pull/9120#pullrequestreview-4031680170) - 2026-03-30
+* [Review] [Review on: chore: bump @chainsafe/benchmark to 2.0.2](https://github.com/ChainSafe/lodestar/pull/9128#pullrequestreview-4031560442) - 2026-03-30
+* [Review] [Review on: chore: switch arm from buildjet to warpbuild](https://github.com/ChainSafe/lodestar/pull/9129#pullrequestreview-4031530477) - 2026-03-30
+* [Review] [Review on: ci: cross-build arm64 Docker images via QEMU on warp runner](https://github.com/ChainSafe/lodestar/pull/9127#pullrequestreview-4031376178) - 2026-03-30
+* [Review] [Review on: test: fix updateHead benchmark broken by missing Gloas fields on genesis](https://github.com/ChainSafe/lodestar/pull/9122#pullrequestreview-4030997014) - 2026-03-30
+* [Review] [Review on: feat: switch from buildjet to warpbuild](https://github.com/ChainSafe/lodestar/pull/9125#pullrequestreview-4029848137) - 2026-03-30
+* [Review] [Review on: fix: track PayloadExecutionStatus for forkchoice onExecutionPayload()](https://github.com/ChainSafe/lodestar/pull/9119#pullrequestreview-4030291626) - 2026-03-30
+* [Review] [Review on: feat: introduce nativeStateView feature flag](https://github.com/ChainSafe/lodestar/pull/9067#pullrequestreview-4030212939) - 2026-03-30
+* [Issue] [use consistent names for state after payload is applied](https://github.com/ChainSafe/lodestar/issues/9126) - 2026-03-30
+* [Commit] [feat: add execution payload events (#9120)](https://github.com/ChainSafe/lodestar/commit/53cbf74b3b801f21ca3d0411cc7e239c66b335a2) - 2026-03-30
+* [Commit] [test: wire sync committee gossip validation spec tests (#9106)](https://github.com/ChainSafe/lodestar/commit/5007abf468d78e128340ee2c9ac805e3d1e5c978) - 2026-03-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15

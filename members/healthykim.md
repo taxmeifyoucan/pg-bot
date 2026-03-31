@@ -21,6 +21,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: rlp: add Size method to EncoderBuffer](https://github.com/ethereum/go-ethereum/pull/34052#pullrequestreview-3975320790) - 2026-03-19
 * [Commit] [rlp: add AppendList method to RawList (#34048)](https://github.com/ethereum/go-ethereum/commit/4faadf17fbc29d7890089acc660d553be454067a) - 2026-03-19
 
+* [Pull Request] [eth: implement EIP-7975 (eth/70 - partial block receipt lists)](https://github.com/ethereum/go-ethereum/pull/33153) - 2026-03-30
+* [Commit] [eth: implement EIP-7975 (eth/70 - partial block receipt lists) (#33153)](https://github.com/ethereum/go-ethereum/commit/965bd6b6a0a8a7956c341b2f9adf823afc916b32) - 2026-03-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Enhance EIP-8070](https://github.com/ethereum/EIPs/pull/11444#pullrequestreview-4019250817) - 2026-03-27
 * [Review] [Review on: Update EIP-8070: Enhance EIP-8070](https://github.com/ethereum/EIPs/pull/11444#pullrequestreview-4026439144) - 2026-03-29

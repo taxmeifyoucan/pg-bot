@@ -19,6 +19,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Issue] [Metrics: head_updated_slot_offset_seconds](https://github.com/OffchainLabs/prysm/issues/16518) - 2026-03-12
 * [Review] [Review on: do not merge - partial columns integration](https://github.com/OffchainLabs/prysm/pull/16505#pullrequestreview-3947289361) - 2026-03-13
 * [Review] [Review on: dont construct partial columns if partial messages flag is disabled and fix logging](https://github.com/OffchainLabs/prysm/pull/16593#pullrequestreview-4016813006) - 2026-03-26
+* [Review] [Review on: fix: use attestation slot epoch for fork digest in gossip topic validation](https://github.com/OffchainLabs/prysm/pull/16604#pullrequestreview-4030350326) - 2026-03-30
 ## Q4 2025
 
 

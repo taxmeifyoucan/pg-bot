@@ -35,6 +35,8 @@ Team: Geth
 * [Pull Request] [miner: set slot number when building test payload](https://github.com/ethereum/go-ethereum/pull/34094) - 2026-03-26
 * [Commit] [miner: set slot number when building test payload (#34094)](https://github.com/ethereum/go-ethereum/commit/acdd13971705c767330bdfbd4511b4d1e53580fd) - 2026-03-27
 * [Review] [Review on: core: fix bal-devnet-3 hive failures](https://github.com/ethereum/go-ethereum/pull/34105#pullrequestreview-4022378278) - 2026-03-27
+* [Review] [Review on: miner,tests: test payload construction as part of executing the blockchain spec tests](https://github.com/ethereum/go-ethereum/pull/34089#pullrequestreview-4033769303) - 2026-03-30
+* [Review] [Review on: core: implement EIP-8037, state creation gas cost increase](https://github.com/ethereum/go-ethereum/pull/33601#pullrequestreview-4031772082) - 2026-03-30
 ## Q4 2025
 
 

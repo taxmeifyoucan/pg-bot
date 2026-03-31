@@ -56,6 +56,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(test-client-clis): update geth exception mapper for BAL devnet-3 (#2575)](https://github.com/ethereum/execution-specs/commit/65a3009d829b92ee750d1831bcba0739b9037865) - 2026-03-27
 * [Pull Request] [fix(specs, tests): remove per-tx state gas pre-check and add 2D block gas validity test](https://github.com/ethereum/execution-specs/pull/2583) - 2026-03-28
 * [Review] [Review on: feat(specs,tests): EIP-8037 state gas ordering and clarifications](https://github.com/ethereum/execution-specs/pull/2526#pullrequestreview-4025791079) - 2026-03-28
+* [Review] [Review on: feat(tests): add `filler_to_python` converter and port static tests](https://github.com/ethereum/execution-specs/pull/2563#pullrequestreview-4031875708) - 2026-03-30
+* [Review] [Review on: feat(cli): Add --until option for checklist generation](https://github.com/ethereum/execution-specs/pull/2593#pullrequestreview-4033655272) - 2026-03-30
+* [Review] [Review on: chore(ci): add configurable client and verbose logging to hive-consume workflow](https://github.com/ethereum/execution-specs/pull/2590#pullrequestreview-4033625354) - 2026-03-30
+* [Review] [Review on: fix(ci): use master client builds for benchmark genesis extraction](https://github.com/ethereum/execution-specs/pull/2597#pullrequestreview-4033426982) - 2026-03-30
+* [Review] [Review on: refactor(test-benchmark): add repricing only stub file](https://github.com/ethereum/execution-specs/pull/2562#pullrequestreview-4029535131) - 2026-03-30
+* [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4029655777) - 2026-03-30
+* [Review] [Review on: chores(consume): rename `--bin` flag of consume direct to `--evm-bin` to be consistent with fill's `--evm-bin`](https://github.com/ethereum/execution-specs/pull/2548#pullrequestreview-4029639907) - 2026-03-30
+* [Review] [Review on: feat(test-fixture): add `metadata` subfield to `_info` with `target_opcode` ](https://github.com/ethereum/execution-specs/pull/2520#pullrequestreview-4029337345) - 2026-03-30
+* [Review] [Review on: fix(test-fill): fix filling pre-Byzantium forks with geth](https://github.com/ethereum/execution-specs/pull/2576#pullrequestreview-4029632077) - 2026-03-30
+* [Issue] [Pin EELS Commit in Hive Simulator Build Args for Reproducibility](https://github.com/ethereum/execution-specs/issues/2587) - 2026-03-30
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 

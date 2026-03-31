@@ -180,6 +180,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: receipt decoder cleanup](https://github.com/besu-eth/besu/pull/10123#pullrequestreview-4027592968) - 2026-03-30
 * [Review] [Review on: SignatureAlgorithm cachedDefault for tests](https://github.com/besu-eth/besu/pull/10122#pullrequestreview-4027317032) - 2026-03-29
 * [Commit] [update setup-java and setup-gradle actions to Node 24 versions (#10118)](https://github.com/besu-eth/besu/commit/3fd224e2e49ddd68aa61755525593a0a60c65507) - 2026-03-29
+* [Pull Request] [Fix eth_simulateV1 logIndex for transactions that produce no logs](https://github.com/besu-eth/besu/pull/10128) - 2026-03-30
+* [Pull Request] [eth_simulateV1: conditionally include fork-specific fields](https://github.com/besu-eth/besu/pull/10125) - 2026-03-30
+* [Review] [Review on: eth_simulateV1: conditionally include fork-specific fields](https://github.com/besu-eth/besu/pull/10125#pullrequestreview-4033390600) - 2026-03-30
+* [Review] [Review on: engine: return -38003 for FCUv2 payloadAttributes mismatch](https://github.com/besu-eth/besu/pull/10014#pullrequestreview-4033966756) - 2026-03-31
+* [Review] [Review on: Add txpool_inspect JSON-RPC method](https://github.com/besu-eth/besu/pull/10121#pullrequestreview-4033470193) - 2026-03-30
+* [Pull Request] [CHANGELOG - organise and consolidate](https://github.com/besu-eth/besu/pull/10124) - 2026-03-30
+* [Review] [Review on: Add txpool_content JSON-RPC method](https://github.com/besu-eth/besu/pull/10120#pullrequestreview-4027919013) - 2026-03-30
+* [Review] [Review on: Add sources to the verification](https://github.com/besu-eth/besu/pull/10129#pullrequestreview-4028618743) - 2026-03-30
+* [Review] [Review on: Remove peer task feature toggle from DownloadHeadersStep](https://github.com/besu-eth/besu/pull/10070#pullrequestreview-4027705685) - 2026-03-30
+* [Commit] [CHANGELOG - organise and consolidate (#10124)](https://github.com/besu-eth/besu/commit/8d586dfcc94dc67602e1f209c69243ffb37c6dcc) - 2026-03-30
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08

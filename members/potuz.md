@@ -74,6 +74,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Potuz/replay post gloas](https://github.com/OffchainLabs/prysm/pull/16598) - 2026-03-27
 * [Commit] [Gloas Init sync (#16528)](https://github.com/OffchainLabs/prysm/commit/543746d95d8a7c8e9a35dbc68db7d5ae1365ce1f) - 2026-03-27
 * [Commit] [Ignore blocks and data columns based on old blocks. (#16579)](https://github.com/OffchainLabs/prysm/commit/8e8c990a043f0e9f6c8a26a1a4c7c31d38628c02) - 2026-03-27
+* [Pull Request] [Publish data columns with the payload.](https://github.com/OffchainLabs/prysm/pull/16605) - 2026-03-30
+* [Pull Request] [fix: use attestation slot epoch for fork digest in gossip topic validation](https://github.com/OffchainLabs/prysm/pull/16604) - 2026-03-30
+* [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4029953636) - 2026-03-30
+* [Commit] [Potuz/replay post gloas (#16598)](https://github.com/OffchainLabs/prysm/commit/67cc68c3bb949b4675dac3bbf73a5f01e8cda078) - 2026-03-30
+* [Commit] [fix: use attestation slot epoch for fork digest in gossip topic validation (#16604)](https://github.com/OffchainLabs/prysm/commit/4f34624a5497d1dd02724f8ed4654ace3782bc45) - 2026-03-30
+* [Commit] [Gloas/forkchoice setup (#16599)](https://github.com/OffchainLabs/prysm/commit/4e44fdf55e6ab6cfcb0f7a03cfb3c67386507c6e) - 2026-03-30
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [fix: remove AVX dependency from SSE x1 implementation](https://github.com/OffchainLabs/hashtree/pull/64) - 2026-03-26
 * [Review] [Review on: Update cargo, nim and makefile version to 0.2.4](https://github.com/OffchainLabs/hashtree/pull/62#pullrequestreview-4016606317) - 2026-03-26
