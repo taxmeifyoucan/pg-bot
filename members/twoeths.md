@@ -65,6 +65,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: wire sync committee gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9106#pullrequestreview-4028987591) - 2026-03-30
 * [Commit] [fix: track PayloadExecutionStatus for forkchoice onExecutionPayload() (#9119)](https://github.com/ChainSafe/lodestar/commit/687ecdc8cd325af86ad7f59e994113a6c47e73b8) - 2026-03-30
 * [Commit] [feat: introduce nativeStateView feature flag (#9067)](https://github.com/ChainSafe/lodestar/commit/6fa48cb5f289e3fcf8fc5af800d10c6f54872a47) - 2026-03-30
+* [Review] [Review on: feat: unknown payload sync for incoming blocks](https://github.com/ChainSafe/lodestar/pull/9102#pullrequestreview-4034561527) - 2026-03-31
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: model phase0 Validator as struct](https://github.com/ChainSafe/lodestar-z/pull/232) - 2026-03-10
 * [Review] [Review on: fix(bench): fix compilation errors in SSZ and state transition benchmarks](https://github.com/ChainSafe/lodestar-z/pull/241#pullrequestreview-3948190078) - 2026-03-14

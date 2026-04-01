@@ -83,3 +83,6 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] [ci: add cache warming workflow for main and performance branches](https://github.com/erigontech/erigon/pull/20209) - 2026-03-28
 * [Commit] [ci: unshadow main branch README (#20189)](https://github.com/erigontech/erigon/commit/ba3c8f833fc3ca7443213f77cb4799b38406600b) - 2026-03-27
 * [Commit] [ci: add cache warming workflow for main and performance branches (#20209)](https://github.com/erigontech/erigon/commit/804b7a124e70ecd55f7922366c91cf01a50efa73) - 2026-03-30
+* [Pull Request] [ci: don't cancel RPC integration test runs on push to main/release](https://github.com/erigontech/erigon/pull/20241) - 2026-03-31
+* [Review] [Review on: p2p/discover: resolve bootnode DNS hostnames before fallback node validation](https://github.com/erigontech/erigon/pull/20227#pullrequestreview-4034678427) - 2026-03-31
+* [Commit] [ci: don't cancel RPC integration test runs on push to main/release (#20241)](https://github.com/erigontech/erigon/commit/7b3b274ec3e36920c4c415b96732c6baef73f0e0) - 2026-03-31

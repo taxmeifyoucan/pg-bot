@@ -31,6 +31,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Review] [Review on: core/state: bypass per-account updateTrie in IntermediateRoot for binary trie](https://github.com/ethereum/go-ethereum/pull/34022#pullrequestreview-3980527037) - 2026-03-20
 * [Commit] [core/state: bypass per-account updateTrie in IntermediateRoot for binary trie (#34022)](https://github.com/ethereum/go-ethereum/commit/77779d1098c86d478768d8f2d0b6982ff2364d44) - 2026-03-20
 * [Pull Request] [core/state: increment storage counters in binary trie IntermediateRoot path](https://github.com/ethereum/go-ethereum/pull/34110) - 2026-03-27
+* [Commit] [core/state: fix storage counters in binary trie IntermediateRoot (#34110)](https://github.com/ethereum/go-ethereum/commit/3da517e239eafdb7839650bd8e4667eb85feb5ba) - 2026-03-31
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Pull Request] [trie/bintrie: fix grouped InternalNode serialization path mismatch](https://github.com/gballet/go-ethereum/pull/569) - 2026-02-25
 * [Pull Request] [cmd, core: wire --bintrie.groupdepth flag to SetEthConfig](https://github.com/gballet/go-ethereum/pull/571) - 2026-03-05* [Pull Request] [trie/bintrie: fix grouped InternalNode serialization path mismatch](https://github.com/gballet/go-ethereum/pull/569) - 2026-03-10

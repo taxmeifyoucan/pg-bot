@@ -258,6 +258,17 @@ Team: Reth
 * [Commit] [feat: constant propagation via abstract stack interpretation (#185)](https://github.com/paradigmxyz/revmc/commit/fae64b2b0bbc2b4d64e032ad39cabd351ec7c089) - 2026-03-30
 * [Commit] [fix: stack section analysis fix (#203)](https://github.com/paradigmxyz/revmc/commit/f0c815c79afc5392ab3a6201b4a0bb6af02faa1f) - 2026-03-30
 * [Commit] [chore: dot fixes (#202)](https://github.com/paradigmxyz/revmc/commit/2ccb51795f7f42144333e76056905a70174094f6) - 2026-03-30
+* [Pull Request] [feat: add context-sensitive CFG discovery](https://github.com/paradigmxyz/revmc/pull/219) - 2026-03-31
+* [Pull Request] [refactor: move bytecode analysis passes into passes/ submodule](https://github.com/paradigmxyz/revmc/pull/220) - 2026-03-31
+* [Pull Request] [feat: block-local constant propagation for unreached blocks](https://github.com/paradigmxyz/revmc/pull/218) - 2026-03-31
+* [Pull Request] [refactor: block analysis improvements](https://github.com/paradigmxyz/revmc/pull/217) - 2026-03-31
+* [Pull Request] [bench: add calldata to univ2_router benchmark](https://github.com/paradigmxyz/revmc/pull/216) - 2026-03-31
+* [Pull Request] [chore: init tracing in tests](https://github.com/paradigmxyz/revmc/pull/215) - 2026-03-31
+* [Commit] [refactor: move bytecode analysis passes into passes/ submodule (#220)](https://github.com/paradigmxyz/revmc/commit/164e5d46b469dabd9c18d96ac5c57ac20e010f32) - 2026-03-31
+* [Commit] [chore: add some more utils](https://github.com/paradigmxyz/revmc/commit/dc30db45f311374689ae8b870f2ee9f3ece5578e) - 2026-03-31
+* [Commit] [refactor: block analysis improvements (#217)](https://github.com/paradigmxyz/revmc/commit/39c6d5115e145ab86910573547fc41612ab4cdf4) - 2026-03-31
+* [Commit] [bench: add calldata to univ2_router benchmark (#216)](https://github.com/paradigmxyz/revmc/commit/2e46a773a00e4a968968a188e2c74b0ee7b479af) - 2026-03-31
+* [Commit] [chore: init tracing in tests (#215)](https://github.com/paradigmxyz/revmc/commit/6b9d05c84f1ff0e71c7f63130d401f9781c4f032) - 2026-03-31
 ## Q4 2025
 
 

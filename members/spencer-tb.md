@@ -66,6 +66,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-fixture): add `metadata` subfield to `_info` with `target_opcode` ](https://github.com/ethereum/execution-specs/pull/2520#pullrequestreview-4029337345) - 2026-03-30
 * [Review] [Review on: fix(test-fill): fix filling pre-Byzantium forks with geth](https://github.com/ethereum/execution-specs/pull/2576#pullrequestreview-4029632077) - 2026-03-30
 * [Issue] [Pin EELS Commit in Hive Simulator Build Args for Reproducibility](https://github.com/ethereum/execution-specs/issues/2587) - 2026-03-30
+* [Review] [Review on: fix(tests): resolve transition fork blob methods in EIP-7918 conftest](https://github.com/ethereum/execution-specs/pull/2604#pullrequestreview-4040375291) - 2026-03-31
+* [Review] [Review on: fix(tests): resolve transition fork blob methods in EIP-4844 conftest](https://github.com/ethereum/execution-specs/pull/2602#pullrequestreview-4038768545) - 2026-03-31
+* [Review] [Review on: feat(test-benchmark): add uncacheable precompile benchmark](https://github.com/ethereum/execution-specs/pull/2600#pullrequestreview-4036236162) - 2026-03-31
+* [Issue] [Static Test Fail Tracker for EIP-8037](https://github.com/ethereum/execution-specs/issues/2601) - 2026-03-31
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators: remove obsolete consensus, graphql, testnet, portal, and clique simulators](https://github.com/ethereum/hive/pull/1388) - 2026-02-20
 

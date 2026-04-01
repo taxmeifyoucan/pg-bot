@@ -194,6 +194,13 @@ Team: Reth
 * [Review] [Review on: fix(net): prefer peer-reported block number in session activation](https://github.com/paradigmxyz/reth/pull/23275#pullrequestreview-4029576295) - 2026-03-30
 * [Review] [Review on: fix(cli): use HeaderTy for stage dump headers](https://github.com/paradigmxyz/reth/pull/23274#pullrequestreview-4029579151) - 2026-03-30
 * [Review] [Review on: fix(static-file): handle non-zero genesis blocks in static file range calculations](https://github.com/paradigmxyz/reth/pull/22592#pullrequestreview-4029571471) - 2026-03-30
+* [Review] [Review on: refactor(storage): remove changeset count APIs](https://github.com/paradigmxyz/reth/pull/23310#pullrequestreview-4039373428) - 2026-03-31
+* [Review] [Review on: feat: integrate `reth-rpc-traits` and remove `IntoRpcTx`](https://github.com/paradigmxyz/reth/pull/23288#pullrequestreview-4038301361) - 2026-03-31
+* [Review] [Review on: feat(client): add era type override functionality to EraClient](https://github.com/paradigmxyz/reth/pull/23307#pullrequestreview-4038284890) - 2026-03-31
+* [Review] [Review on: feat(download): make snapshot API URL overridable](https://github.com/paradigmxyz/reth/pull/23303#pullrequestreview-4036931919) - 2026-03-31
+* [Review] [Review on: chore(grafana): add sparse trie idle metrics to grafana overview](https://github.com/paradigmxyz/reth/pull/23302#pullrequestreview-4036927298) - 2026-03-31
+* [Pull Request] [chore: check trie-debug in zepter](https://github.com/paradigmxyz/reth/pull/23304) - 2026-03-31
+* [Commit] [chore: check trie-debug in zepter (#23304)](https://github.com/paradigmxyz/reth/commit/0f7cd0fd9802806ffd072677b3f2b87bd7e392a2) - 2026-03-31
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(database): add storage getter to BundleState](https://github.com/bluealloy/revm/pull/3321) - 2026-01-16
 * [Pull Request] [feat: add BAL (Block Access List) example](https://github.com/bluealloy/revm/pull/3339) - 2026-01-21

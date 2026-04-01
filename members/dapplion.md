@@ -35,6 +35,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Add range sync tests](https://github.com/sigp/lighthouse/pull/8989) - 2026-03-16
 * [Pull Request] [Schedule Fulu fork for Gnosis mainnet](https://github.com/sigp/lighthouse/pull/9007) - 2026-03-20
 * [Review] [Review on: Remove schema migrations for v28 and earlier](https://github.com/sigp/lighthouse/pull/9031#pullrequestreview-4010901135) - 2026-03-26
+* [Review] [Review on: Update to spec v1.7.0-alpha.4](https://github.com/sigp/lighthouse/pull/9046#pullrequestreview-4034228479) - 2026-03-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Extend by_root reqresp serve range to match by_range](https://github.com/ethereum/consensus-specs/pull/4950) - 2026-02-26
 * [Pull Request] [Typo sorry](https://github.com/ethereum/consensus-specs/pull/4989) - 2026-03-08

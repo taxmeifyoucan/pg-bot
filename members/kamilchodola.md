@@ -67,6 +67,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Amsterdam adjustments](https://github.com/NethermindEth/gas-benchmarks/pull/136) - 2026-03-27
 * [Commit] [feat: make PostgreSQL upload optional (default false) (#137)](https://github.com/NethermindEth/gas-benchmarks/commit/dcbdf9a5d849dcb0d1cf47db76a02897685bc0ea) - 2026-03-27
 * [Commit] [Amsterdam adjustments (#136)](https://github.com/NethermindEth/gas-benchmarks/commit/0aaf8752f1bed6be57f989512aa5794ccff42d60) - 2026-03-27
+* [Pull Request] [Kch/custom generator genesis](https://github.com/NethermindEth/gas-benchmarks/pull/138) - 2026-03-31
+* [Commit] [adjust timestamp](https://github.com/NethermindEth/gas-benchmarks/commit/1728f8bd4e30567ff10392ec6a5d1ff06ba5952f) - 2026-03-31
+* [Commit] [Kch/custom generator genesis (#138)](https://github.com/NethermindEth/gas-benchmarks/commit/cc30fc0a9b0b2dc5d8eb92f2bfed60e2b5127e61) - 2026-03-31
 ## Q4 2025
 
 

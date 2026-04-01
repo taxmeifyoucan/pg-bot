@@ -43,6 +43,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Hdiff: save hot states at tree boundaries (#16589)](https://github.com/OffchainLabs/prysm/commit/139773aa3a9a300724a5c4599016fdd426caded7) - 2026-03-27
 * [Pull Request] [API: Limit HTTP request max size and batch large RegisterValidator payloads](https://github.com/OffchainLabs/prysm/pull/16609) - 2026-03-30
 * [Review] [Review on: changing log to warn in fallback log](https://github.com/OffchainLabs/prysm/pull/16606#pullrequestreview-4031414255) - 2026-03-30
+* [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4038745195) - 2026-03-31
 ## Q4 2025
 
 

@@ -8,6 +8,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 ## Contributions
 
+## Q2 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4041077715) - 2026-04-01
+* [Commit] [Add beacon API endpoint to publish signed execution payload bids (#16612)](https://github.com/OffchainLabs/prysm/commit/68c4c36e65a3a418a15225224c162bfafb1ac590) - 2026-04-01
 ## Q1 2026
 
 
@@ -80,6 +86,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Potuz/replay post gloas (#16598)](https://github.com/OffchainLabs/prysm/commit/67cc68c3bb949b4675dac3bbf73a5f01e8cda078) - 2026-03-30
 * [Commit] [fix: use attestation slot epoch for fork digest in gossip topic validation (#16604)](https://github.com/OffchainLabs/prysm/commit/4f34624a5497d1dd02724f8ed4654ace3782bc45) - 2026-03-30
 * [Commit] [Gloas/forkchoice setup (#16599)](https://github.com/OffchainLabs/prysm/commit/4e44fdf55e6ab6cfcb0f7a03cfb3c67386507c6e) - 2026-03-30
+* [Pull Request] [Add beacon API endpoint to publish signed execution payload bids](https://github.com/OffchainLabs/prysm/pull/16612) - 2026-03-31
+* [Review] [Review on: Add beacon API endpoint to publish signed execution payload bids](https://github.com/OffchainLabs/prysm/pull/16612#pullrequestreview-4038112145) - 2026-03-31
+* [Pull Request] [Add gRPC endpoint to submit signed execution payload bids](https://github.com/OffchainLabs/prysm/pull/16614) - 2026-03-31
+* [Review] [Review on: Add gRPC endpoint to submit signed execution payload bids](https://github.com/OffchainLabs/prysm/pull/16614#pullrequestreview-4038272091) - 2026-03-31
+* [Pull Request] [Use proposer preferences cache for payload attributes after Gloas](https://github.com/OffchainLabs/prysm/pull/16620) - 2026-03-31
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [fix: remove AVX dependency from SSE x1 implementation](https://github.com/OffchainLabs/hashtree/pull/64) - 2026-03-26
 * [Review] [Review on: Update cargo, nim and makefile version to 0.2.4](https://github.com/OffchainLabs/hashtree/pull/62#pullrequestreview-4016606317) - 2026-03-26

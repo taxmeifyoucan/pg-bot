@@ -22,6 +22,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355#pullrequestreview-3923630290) - 2026-03-10
 * [Review] [Review on: Update EIP-7937: fix two minor typos](https://github.com/ethereum/EIPs/pull/10141#pullrequestreview-4000768469) - 2026-03-24
 * [Review] [Review on: Update EIP-8: Fix typo incompatibel -> incompatible](https://github.com/ethereum/EIPs/pull/9995#pullrequestreview-4000764088) - 2026-03-24
+* [Review] [Review on: Add EIP: The Quest for the Holy Grail](https://github.com/ethereum/EIPs/pull/11473#pullrequestreview-4038732522) - 2026-03-31
+* [Review] [Review on: Add EIP: Grant CROPS Builders (Protocol Guild Members) Transfer Rights Over Milady Maker Tokens](https://github.com/ethereum/EIPs/pull/11456#pullrequestreview-4039155039) - 2026-03-31
+* [Review] [Review on: Add EIP: Commit-Reveal Transaction Frames](https://github.com/ethereum/EIPs/pull/11466#pullrequestreview-4038601466) - 2026-03-31
+* [Review] [Review on: Update EIP-8134: Move to Final](https://github.com/ethereum/EIPs/pull/11470#pullrequestreview-4038517704) - 2026-03-31
+* [Review] [Review on: Update EIP-8135: Move to Final](https://github.com/ethereum/EIPs/pull/11471#pullrequestreview-4038521598) - 2026-03-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Carry pytest markers from Python all the way through to the filled JSON tests](https://github.com/ethereum/execution-specs/issues/2089) - 2026-01-28
 
@@ -52,6 +57,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fix(specs): remove None from trie Node type (#2596)](https://github.com/ethereum/execution-specs/commit/9494cd81efc6e5cba755ed80c0c0cd5dc8a825f5) - 2026-03-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs #38, February 18, 2026](https://github.com/ethereum/pm/issues/1909) - 2026-01-29
+* [Issue] [AllWalletDevs #39, April 15, 2026](https://github.com/ethereum/pm/issues/1997) - 2026-03-31
 ## Q4 2025
 
 

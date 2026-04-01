@@ -61,6 +61,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Add New Anchor Transaction Type for Surge realtime](https://github.com/NethermindEth/nethermind/pull/10320#pullrequestreview-4027547743) - 2026-03-30
 * [Review] [Review on: fix: reduce Hive engine-withdrawals parallelism to 2](https://github.com/NethermindEth/nethermind/pull/10992#pullrequestreview-4027197949) - 2026-03-29
 * [Review] [Review on: fix: register ISnapServer in production DI to restore snap serving](https://github.com/NethermindEth/nethermind/pull/10986#pullrequestreview-4027196732) - 2026-03-29
+* [Review] [Review on: perf: Reduce per-peer object allocations in P2P layer (-2.25M objects, -54MB)](https://github.com/NethermindEth/nethermind/pull/11007#pullrequestreview-4036563957) - 2026-03-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8198: Use SLOT_SCHEDULE for slot-time-dependent constants](https://github.com/ethereum/EIPs/pull/11458) - 2026-03-28
 ## Q3 2025

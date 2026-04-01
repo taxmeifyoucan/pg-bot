@@ -104,6 +104,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Consider building `just` and `uv` from source in CI to pin from specific hash](https://github.com/ethereum/execution-specs/issues/2584) - 2026-03-30
 * [Commit] [chore(ci): add configurable client and verbose logging to hive-consume workflow (#2590)](https://github.com/ethereum/execution-specs/commit/35fd28331387601906ade0f74b5029674710471a) - 2026-03-30
 * [Commit] [fix(ci): use master client builds for benchmark genesis extraction (#2597)](https://github.com/ethereum/execution-specs/commit/9ec843ea4c5d36d2cd6933f153463eaff85cccfd) - 2026-03-30
+* [Pull Request] [fix(tests): resolve transition fork blob methods in EIP-7918 conftest](https://github.com/ethereum/execution-specs/pull/2604) - 2026-03-31
+* [Review] [Review on: fix(tests): resolve transition fork blob methods in EIP-7918 conftest](https://github.com/ethereum/execution-specs/pull/2604#pullrequestreview-4040424682) - 2026-03-31
+* [Pull Request] [fix(tests): resolve transition fork blob methods in EIP-4844 conftest](https://github.com/ethereum/execution-specs/pull/2602) - 2026-03-31
+* [Review] [Review on: refactor(test-benchmark): add repricing only stub file](https://github.com/ethereum/execution-specs/pull/2562#pullrequestreview-4036219756) - 2026-03-31
+* [Pull Request] [fix(test-execute): ensure address stubs work when `RPC_ENDPOINT` is only set in env](https://github.com/ethereum/execution-specs/pull/2599) - 2026-03-31
+* [Commit] [fix(tests): resolve transition fork blob methods in EIP-7918 conftest (#2604)](https://github.com/ethereum/execution-specs/commit/136f22a379ab3dc7dcb5a69f44bd0a2b60258aba) - 2026-03-31
+* [Commit] [fix(tests): resolve transition fork blob methods in EIP-4844 conftest (#2602)](https://github.com/ethereum/execution-specs/commit/325eb9028e025a1493b985462ae0e3fa1e800acd) - 2026-03-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Leo from STEEL, ethereum/consensus-specs](https://github.com/protocolguild/documentation/pull/471) - 2026-01-23
 

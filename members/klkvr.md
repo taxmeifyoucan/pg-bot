@@ -73,10 +73,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [feat: add a method to get payload resolve future (#23256)](https://github.com/paradigmxyz/reth/commit/afdf905295c24b2453cdd9e125b7167b57813ee5) - 2026-03-28
 * [Pull Request] [chore: bump alloy-evm](https://github.com/paradigmxyz/reth/pull/23289) - 2026-03-30
 * [Commit] [chore: bump alloy-evm (#23289)](https://github.com/paradigmxyz/reth/commit/f0d07c38be40c173abab5879b49a20dc4126c427) - 2026-03-30
+* [Review] [Review on: feat: integrate `reth-rpc-traits` and remove `IntoRpcTx`](https://github.com/paradigmxyz/reth/pull/23288#pullrequestreview-4037977987) - 2026-03-31
+* [Review] [Review on: feat: add `reth-bb` binary with multi-segment big block execution support](https://github.com/paradigmxyz/reth/pull/23140#pullrequestreview-4036936229) - 2026-03-31
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521#pullrequestreview-3998404944) - 2026-03-24
 * [Review] [Review on: bench: add secp256r1 (P256) precompile benchmark](https://github.com/bluealloy/revm/pull/3525#pullrequestreview-4016078541) - 2026-03-26
 * [Pull Request] [refactor: remove redundant `Option`](https://github.com/bluealloy/revm/pull/3532) - 2026-03-30
+* [Commit] [refactor: remove option for known bytecode (#3532)](https://github.com/bluealloy/revm/commit/7e335d3531dc84571e5bcb90415f91518a6270fb) - 2026-03-31
 ## Q4 2025
 
 

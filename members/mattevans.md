@@ -58,6 +58,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(epbs): add server event handlers, libp2p gossipsub types, and ePBS conditional block routing](https://github.com/ethpandaops/xatu/pull/801) - 2026-03-26
 * [Pull Request] [feat(migrations): add epbs support](https://github.com/ethpandaops/xatu/pull/800) - 2026-03-26
 * [Pull Request] [feat: prepare epbs types](https://github.com/ethpandaops/xatu/pull/799) - 2026-03-26
+* [Review] [Review on: refactor(consumoor): align route batches with schema v2](https://github.com/ethpandaops/xatu/pull/802#pullrequestreview-4034193858) - 2026-03-31
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Pull Request] [fix: resolve golangci-lint issues](https://github.com/ethpandaops/contributoor/pull/195) - 2026-03-11
 * [Pull Request] [chore: bump go-ethereum to v1.17.1](https://github.com/ethpandaops/contributoor/pull/194) - 2026-03-10
@@ -80,6 +81,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(workflow): remove unnecessary empty line in release.yml for cleaner workflow file](https://github.com/ethpandaops/contributoor/commit/72a0cd1f9fe4924013a8be4a1843581fe7874626) - 2026-03-29
 * [Commit] [Merge pull request #215 from ethpandaops/chore/update-go-dependencies](https://github.com/ethpandaops/contributoor/commit/ad502fdffe445d90a6ff984298bc4d8ee20764d6) - 2026-03-29
 * [Commit] [chore(deps): update Go module dependencies](https://github.com/ethpandaops/contributoor/commit/e4ee6f3572c794a9373031873eb3d1bdb6cfff94) - 2026-03-29
+* [Pull Request] [chore/matty-mod-updates](https://github.com/ethpandaops/contributoor/pull/219) - 2026-03-31
+* [Pull Request] [chore(deps): update Go module dependencies](https://github.com/ethpandaops/contributoor/pull/218) - 2026-03-31
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Commit] [Merge pull request #54 from ethpandaops/fix/update-kurtosis-apt-source](https://github.com/ethpandaops/tracoor/commit/aff69be4e57b08ac919a9a8a3404630e78601af6) - 2026-03-18
 * [Commit] [fix(golang-test.yaml): update test running command to use tee for simultaneous output to console and file](https://github.com/ethpandaops/tracoor/commit/966886ab34728d301b0bb75bf156ba11e372bd6b) - 2026-03-18

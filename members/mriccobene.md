@@ -38,6 +38,10 @@ Team: Erigon
 * [Commit] [qa-tests: restore the execution of RPC tests on the main and release branches (#20129)](https://github.com/erigontech/erigon/commit/5208c9da4107bc84cec3ffa965c55692e54b24f0) - 2026-03-26
 * [Commit] [qa-tests: fix fd-leak-analysis artifact name in 'sync with external cl' test (#19775)](https://github.com/erigontech/erigon/commit/9904241d4aa2a2c6a5d81b583784afbb761fec9e) - 2026-03-26
 * [Pull Request] [qa-tests: run rpc-integration tests on other clients](https://github.com/erigontech/erigon/pull/20201) - 2026-03-27
+* [Pull Request] [release workflow with explicit permissions](https://github.com/erigontech/erigon/pull/20249) - 2026-03-31
+* [Review] [Review on: ci: don't cancel RPC integration test runs on push to main/release](https://github.com/erigontech/erigon/pull/20241#pullrequestreview-4035471181) - 2026-03-31
+* [Commit] [release workflow with explicit permissions (#20249)](https://github.com/erigontech/erigon/commit/d89ea6516762984cfe89b0908238919f4c698f07) - 2026-03-31
+* [Commit] [qa-tests: run rpc-integration tests on other clients (#20201)](https://github.com/erigontech/erigon/commit/2cbc70d833dbcfa062bce001670c1ebce6ba0048) - 2026-03-31
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [Improve the test report with more verbose error messages](https://github.com/erigontech/rpc-tests/pull/529) - 2026-03-13
 * [Commit] [more verbose error messagge (#529)](https://github.com/erigontech/rpc-tests/commit/34b1c609e2d04cd26f8070821e3ca12bb6d673d4) - 2026-03-14

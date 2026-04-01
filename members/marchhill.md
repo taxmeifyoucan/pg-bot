@@ -32,6 +32,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Optimise parallel execution](https://github.com/NethermindEth/nethermind/pull/10937) - 2026-03-24
 * [Pull Request] [Feature/parallel txs devnet 3](https://github.com/NethermindEth/nethermind/pull/10997) - 2026-03-30
 * [Pull Request] [Feature/parallel txs old](https://github.com/NethermindEth/nethermind/pull/10996) - 2026-03-30
+* [Review] [Review on: refactor: extract BalStore from ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/10957#pullrequestreview-4036435926) - 2026-03-31
 ## Q4 2025
 
 

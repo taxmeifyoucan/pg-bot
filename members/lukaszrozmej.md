@@ -178,6 +178,19 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Test: Maybe improve Ethereum.Transaction.Tests stability.](https://github.com/NethermindEth/nethermind/pull/10989#pullrequestreview-4029337046) - 2026-03-30
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/10988#pullrequestreview-4029325444) - 2026-03-30
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/10987#pullrequestreview-4029327391) - 2026-03-30
+* [Review] [Review on: eth_getStorageValues](https://github.com/NethermindEth/nethermind/pull/10977#pullrequestreview-4036060805) - 2026-03-31
+* [Review] [Review on: feat: Add testing_buildBlockV1 RPC endpoint and make IBlockProducerEnv IAsyncDisposable](https://github.com/NethermindEth/nethermind/pull/9901#pullrequestreview-4037655944) - 2026-03-31
+* [Review] [Review on: perf: Replace ConcurrentHashSet with lease-guarded HandlerBag in RetryCache (~75 MB alloc reduction)](https://github.com/NethermindEth/nethermind/pull/11009#pullrequestreview-4037580795) - 2026-03-31
+* [Review] [Review on: fix: Set MainThreadCodeDbCache to public (for arbitrum)](https://github.com/NethermindEth/nethermind/pull/11010#pullrequestreview-4037673916) - 2026-03-31
+* [Review] [Review on: fix(evm): include initcode state gas in block accumulator on code deposit failure](https://github.com/NethermindEth/nethermind/pull/11001#pullrequestreview-4035901151) - 2026-03-31
+* [Review] [Review on: Follow up to PR11007](https://github.com/NethermindEth/nethermind/pull/11008#pullrequestreview-4036737713) - 2026-03-31
+* [Review] [Review on: perf: Reduce per-peer object allocations in P2P layer (-2.25M objects, -54MB)](https://github.com/NethermindEth/nethermind/pull/11007#pullrequestreview-4036588660) - 2026-03-31
+* [Review] [Review on: Don't record BALs during transaction picking](https://github.com/NethermindEth/nethermind/pull/10971#pullrequestreview-4035972464) - 2026-03-31
+* [Review] [Review on: Add stall timeout margin before FlatDb compactor warning](https://github.com/NethermindEth/nethermind/pull/10983#pullrequestreview-4035875599) - 2026-03-31
+* [Review] [Review on: fix: guard ClearStaleMarkersAbove behind forceUpdateHeadBlock](https://github.com/NethermindEth/nethermind/pull/11004#pullrequestreview-4036041152) - 2026-03-31
+* [Review] [Review on: perf: Replace ZeroContentionCounter with thread-aware metric counters](https://github.com/NethermindEth/nethermind/pull/11005#pullrequestreview-4036074502) - 2026-03-31
+* [Review] [Review on: fix: prevent protocol handler memory leak from Autofac dispose tracking](https://github.com/NethermindEth/nethermind/pull/11000#pullrequestreview-4035845967) - 2026-03-31
+* [Review] [Review on: Fix remaining gas calculation](https://github.com/NethermindEth/nethermind/pull/10999#pullrequestreview-4035906800) - 2026-03-31
 ## Q4 2025
 
 

@@ -13,6 +13,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521#pullrequestreview-3998829147) - 2026-03-24
+* [Review] [Review on: feat: rakita/state-gas branch without ee-tests ](https://github.com/bluealloy/revm/pull/3521#pullrequestreview-4039348026) - 2026-03-31
 ## Q4 2025
 
 

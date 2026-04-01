@@ -79,6 +79,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Optimize first iteration of multi-word multiplications](https://github.com/ipsilon/evmone/pull/1472) - 2026-03-26
 * [Commit] [crypto: Optimize first iteration of multi-word multiplications (#1472)](https://github.com/ipsilon/evmone/commit/f0b2cc00781d7c4a9479f3094e11e473dc948bcc) - 2026-03-26
 * [Commit] [crypto: Specialize mul_amm for 256-bit modulus (#1473)](https://github.com/ipsilon/evmone/commit/072e9cf35befbfae23adb6599e78823f74e69a75) - 2026-03-27
+* [Pull Request] [build: Add option to force assertions](https://github.com/ipsilon/evmone/pull/1474) - 2026-03-31
+* [Pull Request] [crypto: Use actual mod_size instead of declared byte-padded size](https://github.com/ipsilon/evmone/pull/1475) - 2026-03-31
+* [Commit] [build: Add option to force assertions (#1474)](https://github.com/ipsilon/evmone/commit/27a16a19fb59e1301052515db43f40df49d1ab93) - 2026-03-31
+* [Commit] [crypto: Use actual mod_size instead of declared byte-padded size (#1475)](https://github.com/ipsilon/evmone/commit/fabed9099c3a11c49ab9a4a6eac056d3c7b4b11e) - 2026-03-31
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Standardize opcode tracer behavior for debug_traceBlockByNumber and debug_traceTransaction](https://github.com/ethereum/execution-apis/pull/762#pullrequestreview-3936881731) - 2026-03-12
 

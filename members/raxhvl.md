@@ -26,6 +26,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Review] [Review on: fix(src): preserve custom chain ID in pre-alloc groups and `extract_config`](https://github.com/ethereum/execution-specs/pull/2515#pullrequestreview-3968082879) - 2026-03-18
 * [Review] [Review on: fix(src): preserve custom chain ID in pre-alloc groups and `extract_config`](https://github.com/ethereum/execution-specs/pull/2515#pullrequestreview-3972756276) - 2026-03-19
 * [Issue] [Idea: Add support for Dynamic Pre Allocation](https://github.com/ethereum/execution-specs/issues/2561) - 2026-03-26
+* [Review] [Review on: feat(tests): Add more EIP-7928 test cases](https://github.com/ethereum/execution-specs/pull/1903#pullrequestreview-4034582842) - 2026-03-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Add ETH burn logs and improve spec consistency](https://github.com/ethereum/EIPs/pull/11311) - 2026-02-13
 

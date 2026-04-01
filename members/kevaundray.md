@@ -61,6 +61,7 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: feat(zkevm): add tests for execution witness with mutated bytecodes and headers](https://github.com/ethereum/execution-specs/pull/2549#pullrequestreview-4000791297) - 2026-03-24
 * [Pull Request] [feat: optimize `Bytecode.__mul__` and `__add__` performance ](https://github.com/ethereum/execution-specs/pull/2572) - 2026-03-26
 * [Commit] [refactor(test-vm): optimize `Bytecode.__mul__` and `__add__` performance  (#2572)](https://github.com/ethereum/execution-specs/commit/dbf15aab02cf04c81bcc34ec28d8b22c4a097441) - 2026-03-27
+* [Review] [Review on: feat(zkevm): harden witness state validation for malformed trie proofs](https://github.com/ethereum/execution-specs/pull/2589#pullrequestreview-4037416424) - 2026-03-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Block-in-Blobs (BiB)](https://github.com/ethereum/EIPs/pull/11212) - 2026-01-29
 

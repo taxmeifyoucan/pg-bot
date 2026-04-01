@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q2 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [fix: Remove stale flat state snapshots on fork change](https://github.com/NethermindEth/nethermind/pull/11015) - 2026-04-01
 ## Q1 2026
 
 
@@ -112,6 +117,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix initcode gas](https://github.com/NethermindEth/nethermind/pull/10975#pullrequestreview-4030413789) - 2026-03-30
 * [Review] [Review on: Don't record BALs during transaction picking](https://github.com/NethermindEth/nethermind/pull/10971#pullrequestreview-4031386553) - 2026-03-30
 * [Review] [Review on: Test: Maybe improve Ethereum.Transaction.Tests stability.](https://github.com/NethermindEth/nethermind/pull/10989#pullrequestreview-4030165379) - 2026-03-30
+* [Pull Request] [perf: Clear BlockAccessList and AccountChanges before caching blocks](https://github.com/NethermindEth/nethermind/pull/11014) - 2026-03-31
+* [Pull Request] [perf: Replace ConcurrentHashSet with lease-guarded HandlerBag in RetryCache (~75 MB alloc reduction)](https://github.com/NethermindEth/nethermind/pull/11009) - 2026-03-31
+* [Review] [Review on: fix(evm): include initcode state gas in block accumulator on code deposit failure](https://github.com/NethermindEth/nethermind/pull/11001#pullrequestreview-4034548276) - 2026-03-31
+* [Pull Request] [Follow up to PR11007](https://github.com/NethermindEth/nethermind/pull/11008) - 2026-03-31
+* [Review] [Review on: Follow up to PR11007](https://github.com/NethermindEth/nethermind/pull/11008#pullrequestreview-4036742765) - 2026-03-31
+* [Pull Request] [perf: Reduce per-peer object allocations in P2P layer (-2.25M objects, -54MB)](https://github.com/NethermindEth/nethermind/pull/11007) - 2026-03-31
+* [Review] [Review on: perf: Reduce per-peer object allocations in P2P layer (-2.25M objects, -54MB)](https://github.com/NethermindEth/nethermind/pull/11007#pullrequestreview-4036674077) - 2026-03-31
+* [Review] [Review on: refactor: extract BalStore from ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/10957#pullrequestreview-4034826295) - 2026-03-31
+* [Pull Request] [perf: Replace ZeroContentionCounter with thread-aware metric counters](https://github.com/NethermindEth/nethermind/pull/11005) - 2026-03-31
+* [Review] [Review on: perf: Replace ZeroContentionCounter with thread-aware metric counters](https://github.com/NethermindEth/nethermind/pull/11005#pullrequestreview-4035840916) - 2026-03-31
+* [Review] [Review on: Fix remaining gas calculation](https://github.com/NethermindEth/nethermind/pull/10999#pullrequestreview-4035894067) - 2026-03-31
+* [Commit] [Follow up to PR11007 (#11008)](https://github.com/NethermindEth/nethermind/commit/f0674de731b164c73509a528fa056117ae93cc69) - 2026-03-31
+* [Commit] [perf: Reduce per-peer object allocations in P2P layer (-2.25M objects, -54MB) (#11007)](https://github.com/NethermindEth/nethermind/commit/04f1e367925ba5d688de084c18f6412f483de53c) - 2026-03-31
+* [Commit] [perf: Replace ZeroContentionCounter with thread-aware metric counters (#11005)](https://github.com/NethermindEth/nethermind/commit/1e823adbf5f73e8c45f6918f3595215d7a48dc07) - 2026-03-31
 ## Q4 2025
 
 

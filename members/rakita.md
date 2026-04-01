@@ -69,6 +69,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: perf(inspector): remove redundant log clone in precompile path](https://github.com/bluealloy/revm/pull/3520#pullrequestreview-4021396922) - 2026-03-27
 * [Review] [Review on: refactor(precompile): take large array args by reference](https://github.com/bluealloy/revm/pull/3524#pullrequestreview-4021392562) - 2026-03-27
 * [Review] [Review on: chore: add comment about frame stack initial capacity](https://github.com/bluealloy/revm/pull/3527#pullrequestreview-4020033887) - 2026-03-27
+* [Review] [Review on: refactor: remove redundant `Option`](https://github.com/bluealloy/revm/pull/3532#pullrequestreview-4038540464) - 2026-03-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify transaction transfer to different account](https://github.com/ethereum/EIPs/pull/11188) - 2026-01-27
 * [Pull Request] [Add EIP: Composable Transaction](https://github.com/ethereum/EIPs/pull/11355) - 2026-03-10

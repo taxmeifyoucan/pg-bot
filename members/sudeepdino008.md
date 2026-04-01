@@ -98,6 +98,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cp: Compute block commitment correctly + refactoring of commitment readers](https://github.com/erigontech/erigon/pull/20231) - 2026-03-30
 * [Commit] [db/state/execctx: use HistoryKeyTxNumRange in touchChangedKeys (#20229)](https://github.com/erigontech/erigon/commit/d4c5c3ccd30817018354463f8b46f9d04a04ec83) - 2026-03-30
 * [Commit] [integrity: skip remaining checks when ctx is cancelled due to error (#20230)](https://github.com/erigontech/erigon/commit/946fa71197628bc84f7d8fc95b48b3a34ede595b) - 2026-03-30
+* [Pull Request] [stageloop, execmodule: add ERIGON_IN_MEM_HISTORY env flag for faster exec](https://github.com/erigontech/erigon/pull/20245) - 2026-03-31
+* [Pull Request] [integrity: faster CheckCommitmentHistAtBlk ](https://github.com/erigontech/erigon/pull/20242) - 2026-03-31
+* [Issue] [add smoke tests for other stage_exec configurations, spawn_custom_trace](https://github.com/erigontech/erigon/issues/20254) - 2026-03-31
+* [Issue] [bad values in state history](https://github.com/erigontech/erigon/issues/20246) - 2026-03-31
+* [Commit] [integrity: faster CheckCommitmentHistAtBlk  (#20242)](https://github.com/erigontech/erigon/commit/90d065fb558a02cd35682f474f29bba4815e7f68) - 2026-03-31
 ## Q4 2025
 
 

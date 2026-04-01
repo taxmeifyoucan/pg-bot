@@ -196,6 +196,9 @@ Team: Erigon
 * [Review] [Review on: commitment: add context cancellation and remove dead mountedTries field](https://github.com/erigontech/erigon/pull/20207#pullrequestreview-4024131689) - 2026-03-27
 * [Review] [Review on: commitment: move cleanup to Release() for safer sync.Pool reuse](https://github.com/erigontech/erigon/pull/20208#pullrequestreview-4024131060) - 2026-03-27
 * [Review] [Review on: rpc: fix debug_traceTransaction() in case of tx not found](https://github.com/erigontech/erigon/pull/20211#pullrequestreview-4027526019) - 2026-03-30
+* [Review] [Review on: integrity: faster CheckCommitmentHistAtBlk ](https://github.com/erigontech/erigon/pull/20242#pullrequestreview-4035462083) - 2026-03-31
+* [Review] [Review on: execution: EVM interpreter optimizations](https://github.com/erigontech/erigon/pull/20183#pullrequestreview-4035607445) - 2026-03-31
+* [Review] [Review on: [WIP] execution/execmodule: fix long-running ro tx in forkchoice causing mdbx growth](https://github.com/erigontech/erigon/pull/20233#pullrequestreview-4035287526) - 2026-03-31
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: added maxUsedGas field in eth_simulateV1](https://github.com/erigontech/rpc-tests/pull/528#pullrequestreview-3919728243) - 2026-03-10
 ## Q4 2025

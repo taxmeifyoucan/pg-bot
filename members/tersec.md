@@ -54,6 +54,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: nix: use Nix Flake from NBS repo to provide Nim](https://github.com/status-im/nimbus-eth2/pull/8185#pullrequestreview-4027216056) - 2026-03-29
 * [Review] [Review on: add results to peer lookup and tests](https://github.com/status-im/nimbus-eth2/pull/8146#pullrequestreview-4026311125) - 2026-03-29
 * [Review] [Review on: add results to peer lookup and tests](https://github.com/status-im/nimbus-eth2/pull/8146#pullrequestreview-4028277766) - 2026-03-30
+* [Review] [Review on: bump gloas spec to alpha.4](https://github.com/status-im/nimbus-eth2/pull/8168#pullrequestreview-4034838813) - 2026-03-31
 ## Q4 2025
 
 

@@ -8,6 +8,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 
 ## Contributions
 
+## Q2 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Emit SSE: `execution_payload`](https://github.com/sigp/lighthouse/pull/9065#pullrequestreview-4040969234) - 2026-04-01
+* [Issue] [`timestamp_now()` is defined in `validator_monitor` but used as a general-purpose utility](https://github.com/sigp/lighthouse/issues/9077) - 2026-04-01
 ## Q1 2026
 
 
@@ -33,6 +39,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Fix local testnet Tempo and Prometheus/Grafana config](https://github.com/sigp/lighthouse/pull/9054) - 2026-03-30
 * [Review] [Review on: Check `ChainSpec` consistency with upstream `config.yaml`](https://github.com/sigp/lighthouse/pull/9008#pullrequestreview-4028091601) - 2026-03-30
 * [Review] [Review on: Gloas new payload v5](https://github.com/sigp/lighthouse/pull/9037#pullrequestreview-4027906147) - 2026-03-30
+* [Review] [Review on: Update `blob_delay_ms` to track data columns seen](https://github.com/sigp/lighthouse/pull/9024#pullrequestreview-4037325272) - 2026-03-31
+* [Review] [Review on: Gloas bid and preference verification](https://github.com/sigp/lighthouse/pull/9036#pullrequestreview-4036861607) - 2026-03-31
+* [Review] [Review on: Add Gloas SSE event boilerplate](https://github.com/sigp/lighthouse/pull/9053#pullrequestreview-4034829197) - 2026-03-31
+* [Review] [Review on: Update to spec v1.7.0-alpha.4](https://github.com/sigp/lighthouse/pull/9046#pullrequestreview-4034767363) - 2026-03-31
+* [Review] [Review on: Add range sync tests](https://github.com/sigp/lighthouse/pull/8989#pullrequestreview-4034492477) - 2026-03-31
 ## Q4 2025
 
 

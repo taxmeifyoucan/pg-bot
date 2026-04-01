@@ -45,6 +45,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [internal/ethapi: limit number of calls to eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/34616) - 2026-03-30
 * [Commit] [internal/ethapi: limit number of getProofs keys (#34617)](https://github.com/ethereum/go-ethereum/commit/95705e8b7b6e021b3312c4dc9c817b7646bf67af) - 2026-03-30
 * [Commit] [internal/ethapi: limit number of calls to eth_simulateV1 (#34616)](https://github.com/ethereum/go-ethereum/commit/ceabc39304ec298d891d3cde51b8cfddc6842197) - 2026-03-30
+* [Review] [Review on: core/state: increment storage counters in binary trie IntermediateRoot path](https://github.com/ethereum/go-ethereum/pull/34110#pullrequestreview-4037502479) - 2026-03-31
+* [Issue] [EIP-7708 missing OnLog tracing hook for burns](https://github.com/ethereum/go-ethereum/issues/34623) - 2026-03-31
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [eth_simulateV1: fix revert err code](https://github.com/ethereum/execution-apis/pull/748) - 2026-02-05
 * [Pull Request] [transaction: add blockTimestamp](https://github.com/ethereum/execution-apis/pull/749) - 2026-02-06

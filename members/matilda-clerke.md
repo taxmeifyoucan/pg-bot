@@ -28,6 +28,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Remove unnecessary flow control from FullSyncChainDownloaderTest](https://github.com/besu-eth/besu/pull/10137) - 2026-03-31
 * [Review] [Review on: Remove peer task feature toggle from DownloadHeadersStep](https://github.com/besu-eth/besu/pull/10070#pullrequestreview-4027850611) - 2026-03-30
 * [Commit] [Remove peer task feature toggle from DownloadHeadersStep (#10070)](https://github.com/besu-eth/besu/commit/894946fd3fb435984423323a5882d085ec545520) - 2026-03-30
+* [Commit] [Remove unnecessary flow control from FullSyncChainDownloaderTest (#10137)](https://github.com/besu-eth/besu/commit/5c205a3be0d94bc2923a16dad643bf991ab6ba37) - 2026-03-31
 ## Q4 2025
 
 

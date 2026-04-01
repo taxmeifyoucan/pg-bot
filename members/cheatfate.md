@@ -16,6 +16,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [BN: New syncing algorithm](https://github.com/status-im/nimbus-eth2/pull/7921) - 2026-02-02
 * [Pull Request] [VC: More useful fork waiting log statement.](https://github.com/status-im/nimbus-eth2/pull/7963) - 2026-02-11
 * [Pull Request] [VC: Decrease soft timeout for block proposals.](https://github.com/status-im/nimbus-eth2/pull/8174) - 2026-03-26
+* [Pull Request] [BN: Dynamic number of columns count which depends on current sync status.](https://github.com/status-im/nimbus-eth2/pull/8205) - 2026-03-31
 ## Q4 2025
 
 

@@ -29,3 +29,5 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Replace Kill with graceful stop in e2e  (#16578)](https://github.com/OffchainLabs/prysm/commit/277797f6f85f8cff8f09d5171b1d7536d3bc0c2c) - 2026-03-26
 * [Pull Request] [Make sync completion slot-precise and remove the initial-sync to regular-sync handoff gap](https://github.com/OffchainLabs/prysm/pull/16607) - 2026-03-30
 * [Commit] [Re-add next-epoch lookahead for PTC duties (#16591)](https://github.com/OffchainLabs/prysm/commit/c33f0d04b77ee0ac6d02608b665e68ea4b788a40) - 2026-03-30
+* [Pull Request] [PTC duties no longer computed from a pre-Gloas state at the Fulu to Gloas fork boundary](https://github.com/OffchainLabs/prysm/pull/16619) - 2026-03-31
+* [Review] [Review on: allowing ptc duties for next epoch on grpc endpoint](https://github.com/OffchainLabs/prysm/pull/16608#pullrequestreview-4034827915) - 2026-03-31

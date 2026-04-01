@@ -36,6 +36,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [ci: update GitHub Actions to fix Node.js 20 deprecation warnings](https://github.com/ethpandaops/dora/commit/be43d46cc7d674815e9c1fb63b9b717a534961a5) - 2026-03-19
 * [Commit] [Merge pull request #615 from ethpandaops/fix/validator-names-load-order](https://github.com/ethpandaops/dora/commit/347c92690bde05e9276607b61232a4115dc6ecbb) - 2026-03-19
 * [Commit] [fix: load validator names inventory before yaml ranges](https://github.com/ethpandaops/dora/commit/59da652a0cc0b84e11f11b6c26059f62f8089197) - 2026-03-19
+* [Pull Request] [Update go-eth2-client for consensus-specs alpha.4](https://github.com/ethpandaops/dora/pull/622) - 2026-03-31
 [chainsafe/lodestar](https://github.com/chainsafe/lodestar)
 * [Pull Request] [fix: add triple-beam dependency to package.json](https://github.com/ChainSafe/lodestar/pull/8736) - 2026-01-12
 * [Pull Request] [feat: implement eip 7843](https://github.com/ChainSafe/lodestar/pull/8747) - 2026-01-16
@@ -63,6 +64,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: small fixes and dep update](https://github.com/ethpandaops/template-devnets/pull/154) - 2026-03-03
 * [Pull Request] [fix: small fixes and dep update](https://github.com/ethpandaops/template-devnets/pull/156) - 2026-03-12
 * [Commit] [fix: small fixes and dep update (#156)](https://github.com/ethpandaops/template-devnets/commit/be0f54aabbd621156e451af6f678824caf95f212) - 2026-03-12
+* [Pull Request] [fix: derive inventory path from ethereum_network variable](https://github.com/ethpandaops/template-devnets/pull/157) - 2026-03-31
+* [Commit] [fix: derive inventory path from ethereum_network variable (#157)](https://github.com/ethpandaops/template-devnets/commit/81450298d1dd19fae824f40b2f2108536c3aceb1) - 2026-03-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356) - 2026-02-26
 * [Pull Request] [Update EIP-7870: realistic minimum numbers](https://github.com/ethereum/EIPs/pull/11356) - 2026-03-02
@@ -92,6 +95,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Truncate commit hash to 7 chars in /eth/v1/node/version (#16592)](https://github.com/OffchainLabs/prysm/commit/3e61778d382234a793960eef52a5d28c103591bd) - 2026-03-26
 * [Pull Request] [fix: add missing ePBS values to /eth/v1/config/spec](https://github.com/OffchainLabs/prysm/pull/16597) - 2026-03-27
 * [Commit] [fix: add missing ePBS values to /eth/v1/config/spec (#16597)](https://github.com/OffchainLabs/prysm/commit/d8150ac20ccab3e366692211d9243ef018953326) - 2026-03-27
+* [Pull Request] [Fix proposer preferences blocking slot-critical path](https://github.com/OffchainLabs/prysm/pull/16611) - 2026-03-31
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [fix: update kurtosis apt source to sdk.kurtosis.com](https://github.com/status-im/nimbus-eth1/pull/4045) - 2026-03-18
 * [Commit] [fix: update kurtosis apt source to sdk.kurtosis.com (#4045)](https://github.com/status-im/nimbus-eth1/commit/2e139eabeb7f9c6311deef69cda906322b6b39a2) - 2026-03-18
@@ -109,6 +113,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [fix: use SLOT_DURATION_MS instead of deprecated SECONDS_PER_SLOT](https://github.com/ethpandaops/assertoor/pull/148) - 2026-03-25
 
+* [Pull Request] [Update go-eth2-client for consensus-specs alpha.4](https://github.com/ethpandaops/assertoor/pull/150) - 2026-03-31
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: defaulting of removed config items](https://github.com/Consensys/teku/pull/10539#pullrequestreview-4019908070) - 2026-03-27
 ## Q4 2025

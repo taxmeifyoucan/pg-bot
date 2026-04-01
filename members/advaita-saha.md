@@ -34,6 +34,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Issue] [crash while closing node after `import`](https://github.com/status-im/nimbus-eth1/issues/4061) - 2026-03-24
 * [Pull Request] [enable blockTag with hash in getReceipts](https://github.com/status-im/nimbus-eth1/pull/4074) - 2026-03-26
 * [Commit] [enable blockTag with hash in getReceipts (#4074)](https://github.com/status-im/nimbus-eth1/commit/07a583d3b9d2207b796288f4f26ed852ff2b7389) - 2026-03-28
+* [Pull Request] [add support for eip-1898](https://github.com/status-im/nimbus-eth1/pull/4084) - 2026-03-31
+* [Commit] [add support for eip-1898 (#4084)](https://github.com/status-im/nimbus-eth1/commit/fa3b36231d8accd98c6c08ed16a45bc5841c45f9) - 2026-03-31
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-16
 * [Pull Request] [clients/nimbus-el: update nimbus rlp import](https://github.com/ethereum/hive/pull/1381) - 2026-01-19

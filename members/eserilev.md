@@ -53,6 +53,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Use `yaml_serde` in place of deprecated `serde_yaml`](https://github.com/sigp/lighthouse/pull/9040#pullrequestreview-4027055324) - 2026-03-29
 * [Issue] [Ensure we subscribe to gloas topics 1 epoch in advance](https://github.com/sigp/lighthouse/issues/9041) - 2026-03-29
 * [Review] [Review on: Add range sync tests](https://github.com/sigp/lighthouse/pull/8989#pullrequestreview-4034111599) - 2026-03-31
+* [Pull Request] [Gloas fork choice fixes](https://github.com/sigp/lighthouse/pull/9069) - 2026-03-31
+* [Review] [Review on: Emit SSE: `execution_payload_gossip`](https://github.com/sigp/lighthouse/pull/9063#pullrequestreview-4037945624) - 2026-03-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add details about how a validator should set `blob_data_available` for `PayloadAttestationData`](https://github.com/ethereum/consensus-specs/pull/4854) - 2026-01-21
 * [Pull Request] [Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056) - 2026-03-29

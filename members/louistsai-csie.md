@@ -56,3 +56,5 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(test-benchmark): repricing stateful benchmark on mainnet](https://github.com/ethereum/execution-specs/pull/2579) - 2026-03-27
 * [Pull Request] [feat(test-benchmark): add precompile macro for precompile benchmarks](https://github.com/ethereum/execution-specs/pull/2591) - 2026-03-30
 * [Commit] [feat(test-fixture): add `metadata` subfield to `_info` with `target_opcode` (#2520)](https://github.com/ethereum/execution-specs/commit/fd1dd634e8ba0a6009eb70f4705d705b147d5055) - 2026-03-30
+* [Pull Request] [feat(test-benchmark): add uncacheable precompile benchmark](https://github.com/ethereum/execution-specs/pull/2600) - 2026-03-31
+* [Commit] [feat(test-fill,test-benchmark): support stub accounts in `fill` via RPC (#2512)](https://github.com/ethereum/execution-specs/commit/2e6a76e87ca650bb9214db1ded855a5058f02c09) - 2026-03-31

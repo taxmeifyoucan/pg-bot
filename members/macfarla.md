@@ -8,6 +8,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 ## Contributions
 
+## Q2 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Update actions/checkout and gradle/actions to Node.js 24](https://github.com/besu-eth/besu/pull/10145) - 2026-04-01
+* [Pull Request] [Update GitHub Actions to Node.js 24 compatible versions](https://github.com/besu-eth/besu/pull/10144) - 2026-04-01
 ## Q1 2026
 
 
@@ -190,6 +196,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Add sources to the verification](https://github.com/besu-eth/besu/pull/10129#pullrequestreview-4028618743) - 2026-03-30
 * [Review] [Review on: Remove peer task feature toggle from DownloadHeadersStep](https://github.com/besu-eth/besu/pull/10070#pullrequestreview-4027705685) - 2026-03-30
 * [Commit] [CHANGELOG - organise and consolidate (#10124)](https://github.com/besu-eth/besu/commit/8d586dfcc94dc67602e1f209c69243ffb37c6dcc) - 2026-03-30
+* [Pull Request] [GHA pre-review: get the test list using dry-run once only](https://github.com/besu-eth/besu/pull/10139) - 2026-03-31
+* [Pull Request] [Add BreachOfProtocolLogger for selective debug logging of inbound breach-of-protocol disconnects](https://github.com/besu-eth/besu/pull/10138) - 2026-03-31
+* [Review] [Review on: Optimize eth get proof test](https://github.com/besu-eth/besu/pull/10104#pullrequestreview-4036434910) - 2026-03-31
+* [Review] [Review on: Notice: Besu will require Java JDK 25 to build and run in a future release](https://github.com/besu-eth/besu/pull/10140#pullrequestreview-4036442505) - 2026-03-31
+* [Review] [Review on: Add txpool_inspect JSON-RPC method](https://github.com/besu-eth/besu/pull/10121#pullrequestreview-4036450540) - 2026-03-31
+* [Review] [Review on: Remove unnecessary flow control from FullSyncChainDownloaderTest](https://github.com/besu-eth/besu/pull/10137#pullrequestreview-4034226456) - 2026-03-31
+* [Commit] [eth_simulateV1: conditionally include fork-specific fields (#10125)](https://github.com/besu-eth/besu/commit/75689b8b7d2077f9f5f47acf74c076b66f4c6ed8) - 2026-03-31
+* [Commit] [Optimize eth get proof test (#10104)](https://github.com/besu-eth/besu/commit/b910d4b33488596bd711d64311d2c18512384d4c) - 2026-03-31
+* [Commit] [Add BreachOfProtocolLogger for selective debug logging of inbound breach-of-protocol disconnects (#10138)](https://github.com/besu-eth/besu/commit/48050285bc37e48314ca5e4eeb8b3d4396720ef3) - 2026-03-31
+* [Commit] [speed up SyncStateTest setup (#10097)](https://github.com/besu-eth/besu/commit/0a623dd3ed7d75cc426d32f44cd380fd9e2d631b) - 2026-03-31
+* [Commit] [Fix eth_simulateV1 logIndex for tx that produce no logs (#10128)](https://github.com/besu-eth/besu/commit/cf23c4defc7a1b502428e94414c800e1164e646f) - 2026-03-31
 [consensys/tuweni](https://github.com/consensys/tuweni)
 * [Pull Request] [remove close stale workflow](https://github.com/Consensys/tuweni/pull/60) - 2026-01-06
 * [Pull Request] [remove stale workflow; add read permissions to GHA](https://github.com/Consensys/tuweni/pull/62) - 2026-01-08
@@ -197,6 +214,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Update errorprone, fix javadoc, switch to Maven Central](https://github.com/Consensys/discovery/pull/204#pullrequestreview-4012651077) - 2026-03-26
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: fix(rpc_compat) ignore error.message fields everywhere](https://github.com/ethereum/hive/pull/1399#pullrequestreview-4035645343) - 2026-03-31
 ## Q4 2025
 
 

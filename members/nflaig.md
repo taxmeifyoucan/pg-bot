@@ -138,6 +138,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [use consistent names for state after payload is applied](https://github.com/ChainSafe/lodestar/issues/9126) - 2026-03-30
 * [Commit] [feat: add execution payload events (#9120)](https://github.com/ChainSafe/lodestar/commit/53cbf74b3b801f21ca3d0411cc7e239c66b335a2) - 2026-03-30
 * [Commit] [test: wire sync committee gossip validation spec tests (#9106)](https://github.com/ChainSafe/lodestar/commit/5007abf468d78e128340ee2c9ac805e3d1e5c978) - 2026-03-30
+* [Review] [Review on: fix: only prefer QUIC bootnodes when QUIC transport is active](https://github.com/ChainSafe/lodestar/pull/9142#pullrequestreview-4040388907) - 2026-03-31
+* [Review] [Review on: test: fix benchmark OOM with deterministic fixture teardown](https://github.com/ChainSafe/lodestar/pull/9140#pullrequestreview-4039636504) - 2026-03-31
+* [Review] [Review on: feat: allow voluntary exit command to write to file rather than publish](https://github.com/ChainSafe/lodestar/pull/9087#pullrequestreview-4036389139) - 2026-03-31
+* [Review] [Review on: docs: remove backticks from port defaultDescription to fix docs rendering](https://github.com/ChainSafe/lodestar/pull/9139#pullrequestreview-4038633359) - 2026-03-31
+* [Review] [Review on: test: revert clone(true) to fix benchmark memory regression](https://github.com/ChainSafe/lodestar/pull/9138#pullrequestreview-4036761960) - 2026-03-31
+* [Review] [Review on: test: fix benchmark memory regression from clone(true)](https://github.com/ChainSafe/lodestar/pull/9137#pullrequestreview-4036502608) - 2026-03-31
+* [Review] [Review on: test: fix benchmark perf state poisoning](https://github.com/ChainSafe/lodestar/pull/9136#pullrequestreview-4035949781) - 2026-03-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005) - 2026-03-15
 * [Review] [Review on: Fix builder voluntary exit success test](https://github.com/ethereum/consensus-specs/pull/5005#pullrequestreview-3950128435) - 2026-03-15

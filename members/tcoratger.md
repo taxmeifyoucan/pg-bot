@@ -130,3 +130,11 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: field: add missing extension degree for `packed_mod_add` and `packed_mod_sub`](https://github.com/Plonky3/Plonky3/pull/1421#pullrequestreview-4033655739) - 2026-03-30
 * [Review] [Review on: perf(circle): drop vp_denoms after batch inversion](https://github.com/Plonky3/Plonky3/pull/1502#pullrequestreview-4033526249) - 2026-03-30
 * [Commit] [field: add missing extension degree for `packed_mod_add` and `packed_mod_sub` (#1421)](https://github.com/Plonky3/Plonky3/commit/3b11823574f8767b7f80eee140d8498d061f5619) - 2026-03-30
+* [Review] [Review on: fix(circle): add debug_assert for usize underflow in Point methods](https://github.com/Plonky3/Plonky3/pull/1445#pullrequestreview-4040482981) - 2026-03-31
+* [Review] [Review on: mersenne31: add poseidon1](https://github.com/Plonky3/Plonky3/pull/1428#pullrequestreview-4039280948) - 2026-03-31
+* [Review] [Review on: feat: expose Poseidon2 large instances](https://github.com/Plonky3/Plonky3/pull/1508#pullrequestreview-4039299658) - 2026-03-31
+* [Review] [Review on: feat: add `assert_eq_arrays` to `AirBuilder`](https://github.com/Plonky3/Plonky3/pull/1507#pullrequestreview-4039205286) - 2026-03-31
+* [Review] [Review on: field: batch invert packed quintic divisors](https://github.com/Plonky3/Plonky3/pull/1505#pullrequestreview-4036375953) - 2026-03-31
+* [Issue] [Mersenne31 Poseidon1: add packed round constants for AVX2 / AVX512](https://github.com/Plonky3/Plonky3/issues/1511) - 2026-03-31
+* [Commit] [mersenne31: add poseidon1 (#1428)](https://github.com/Plonky3/Plonky3/commit/099cda2b99d151115a4a5bf0d83f13ffd23dbcdb) - 2026-03-31
+* [Commit] [monolith: implement Monolith for Mersenne31 and Goldilocks (#1478)](https://github.com/Plonky3/Plonky3/commit/12f288cdc5964797ef59bb9446d9e0b5c8fc1afe) - 2026-03-31

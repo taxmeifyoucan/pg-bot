@@ -37,6 +37,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: ch migration setup](https://github.com/ethpandaops/xatu/pull/793) - 2026-03-03
 * [Review] [Review on: feat(gloas): add BAL storage reads and bump deps to bal-devnet-3](https://github.com/ethpandaops/xatu/pull/797#pullrequestreview-4003721759) - 2026-03-25
 * [Review] [Review on: feat(epbs): add server event handlers, libp2p gossipsub types, and ePBS conditional block routing](https://github.com/ethpandaops/xatu/pull/801#pullrequestreview-4011365643) - 2026-03-26
+* [Pull Request] [yeah](https://github.com/ethpandaops/xatu/pull/804) - 2026-03-31
+* [Pull Request] [refactor(consumoor): align route batches with schema v2](https://github.com/ethpandaops/xatu/pull/803) - 2026-03-31
 ## Q4 2025
 
 

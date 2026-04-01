@@ -72,6 +72,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: chore(test-client-clis): update besu exception mapper](https://github.com/ethereum/execution-specs/pull/2565#pullrequestreview-4014437966) - 2026-03-26
 * [Issue] [EIP-8141 Implementation Tracker: Frame Transaction](https://github.com/ethereum/execution-specs/issues/2568) - 2026-03-26
 * [Commit] [feat(test-execute): Add execute remote unit tests (#2485)](https://github.com/ethereum/execution-specs/commit/c1d8f4215d470d237080f26f3833926e011e0ebf) - 2026-03-27
+* [Review] [Review on: fix(tests): resolve transition fork blob methods in EIP-7918 conftest](https://github.com/ethereum/execution-specs/pull/2604#pullrequestreview-4040407629) - 2026-03-31
+* [Review] [Review on: feat(tests): add `filler_to_python` converter and port static tests](https://github.com/ethereum/execution-specs/pull/2563#pullrequestreview-4037419899) - 2026-03-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Louis from STEEL, ethereum/execution-specs](https://github.com/protocolguild/documentation/pull/472) - 2026-01-15
 ## Q4 2025

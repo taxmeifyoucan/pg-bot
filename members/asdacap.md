@@ -82,6 +82,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: prevent protocol handler memory leak from Autofac dispose tracking](https://github.com/NethermindEth/nethermind/pull/11000#pullrequestreview-4033758507) - 2026-03-30
 * [Pull Request] [refactor: remove NodeData satellite protocol](https://github.com/NethermindEth/nethermind/pull/10994) - 2026-03-30
 * [Commit] [Test: Maybe improve Ethereum.Transaction.Tests stability. (#10989)](https://github.com/NethermindEth/nethermind/commit/ab4116bfe75ce37da008b0f4fc2e3929da941a68) - 2026-03-30
+* [Review] [Review on: perf: Reduce per-peer object allocations in P2P layer (-2.25M objects, -54MB)](https://github.com/NethermindEth/nethermind/pull/11007#pullrequestreview-4036436481) - 2026-03-31
+* [Pull Request] [fix: guard ClearStaleMarkersAbove behind forceUpdateHeadBlock](https://github.com/NethermindEth/nethermind/pull/11004) - 2026-03-31
+* [Review] [Review on: perf: Replace ZeroContentionCounter with thread-aware metric counters](https://github.com/NethermindEth/nethermind/pull/11005#pullrequestreview-4036061335) - 2026-03-31
+* [Commit] [fix: guard ClearStaleMarkersAbove behind forceUpdateHeadBlock (#11004)](https://github.com/NethermindEth/nethermind/commit/395755ddc6fe62e175019c5cc746d40f56d46ba9) - 2026-03-31
 ## Q4 2025
 
 

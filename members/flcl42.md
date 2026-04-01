@@ -70,6 +70,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Fix remaining gas calculation](https://github.com/NethermindEth/nethermind/pull/10999) - 2026-03-30
 * [Review] [Review on: Fix admin_peers](https://github.com/NethermindEth/nethermind/pull/10978#pullrequestreview-4030276857) - 2026-03-30
 * [Commit] [Fix null params handling in JSON-RPC (#10978)](https://github.com/NethermindEth/nethermind/commit/30373fa5575171d551df5280a4bdafd2788be232) - 2026-03-30
+* [Review] [Review on: fix(evm): include initcode state gas in block accumulator on code deposit failure](https://github.com/NethermindEth/nethermind/pull/11001#pullrequestreview-4036423745) - 2026-03-31
+* [Review] [Review on: Follow up to PR11007](https://github.com/NethermindEth/nethermind/pull/11008#pullrequestreview-4036720673) - 2026-03-31
+* [Commit] [Don't record BALs during transaction picking (#10971)](https://github.com/NethermindEth/nethermind/commit/db2819fcb65bb3fa7e9f2367404370c6c1d08953) - 2026-03-31
+* [Commit] [Fix remaining gas calculation (#10999)](https://github.com/NethermindEth/nethermind/commit/b0eb63ad4437416254fd319ac141fb2dc499eb49) - 2026-03-31
+* [Commit] [Don't check BALs if no validation is required (#10973)](https://github.com/NethermindEth/nethermind/commit/a7d13de7aed3d25424ca484c8d21c273dd21cd6c) - 2026-03-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Refactor BAL exception patterns in nethermind.py](https://github.com/ethereum/execution-specs/pull/2550) - 2026-03-24
 * [Commit] [chore(test-client-clis): update BAL exceptions for nethermind (#2550)](https://github.com/ethereum/execution-specs/commit/6e98103b8ac378c44a02c81e2734898c782ac717) - 2026-03-26

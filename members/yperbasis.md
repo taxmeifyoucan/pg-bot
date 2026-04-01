@@ -227,6 +227,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/vm: reduce heap allocations in precompile contracts](https://github.com/erigontech/erigon/pull/20213) - 2026-03-29
 * [Review] [Review on: execution: EVM interpreter optimizations](https://github.com/erigontech/erigon/pull/20183#pullrequestreview-4032121749) - 2026-03-30
 * [Review] [Review on: stagedsync/bal: validate max items on stored block access list](https://github.com/erigontech/erigon/pull/20222#pullrequestreview-4028029580) - 2026-03-30
+* [Pull Request] [execution: enforce EIP-8037 state gas limit in block builder](https://github.com/erigontech/erigon/pull/20255) - 2026-03-31
+* [Review] [Review on: Add caplin support for assertor minimal presets](https://github.com/erigontech/erigon/pull/20190#pullrequestreview-4035677060) - 2026-03-31
+* [Pull Request] [ci: Glamsterdam Kurtosis assertoor suite](https://github.com/erigontech/erigon/pull/20252) - 2026-03-31
+* [Review] [Review on: stagedsync: guard BAL debug file writes and unify serialization format](https://github.com/erigontech/erigon/pull/20223#pullrequestreview-4037091908) - 2026-03-31
+* [Pull Request] [protocol: deduplicate Amsterdam gas accounting in TxnExecutor.Execute](https://github.com/erigontech/erigon/pull/20253) - 2026-03-31
+* [Pull Request] [ci: Glamsterdam Kurtosis assertoor suite](https://github.com/erigontech/erigon/pull/20251) - 2026-03-31
+* [Review] [Review on: commitment: add persistent branch cache across Process() calls](https://github.com/erigontech/erigon/pull/19954#pullrequestreview-4035615112) - 2026-03-31
+* [Issue] [Cherry pick all fixes from bal-devnet-3 to main](https://github.com/erigontech/erigon/issues/20244) - 2026-03-31
+* [Issue] [bal-devnet-3: Erigon misses blocks in a erigon only network](https://github.com/erigontech/erigon/issues/20243) - 2026-03-31
+* [Commit] [execution: EVM interpreter optimizations (#20183)](https://github.com/erigontech/erigon/commit/79273319af7acbaf82d4c03bca5ef37717639148) - 2026-03-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3923369804) - 2026-03-10
 

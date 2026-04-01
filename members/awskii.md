@@ -90,6 +90,9 @@ Team: Erigon
 * [Commit] [commitment: move cleanup to Release() for safer sync.Pool reuse (#20208)](https://github.com/erigontech/erigon/commit/59e3b08f1566ff93d29a042b8f7e0500a2875364) - 2026-03-30
 * [Commit] [cmd: improve commitment snapshot removal output (#20202)](https://github.com/erigontech/erigon/commit/c286488e01a33f4903d404ed897f091da3a49937) - 2026-03-30
 * [Commit] [db/state: disable ReplaceKeysInValues during RebuildCommitmentFiles (#20204)](https://github.com/erigontech/erigon/commit/c6f005428b478641cb294be6b909290a569ef9fc) - 2026-03-30
+* [Pull Request] [commitment: replace cell type heuristics with CellType enum (#13234)](https://github.com/erigontech/erigon/pull/20250) - 2026-03-31
+* [Pull Request] [cherry-pick: rpc: add storage key limit to eth_getProof (#20234)](https://github.com/erigontech/erigon/pull/20247) - 2026-03-31
+* [Commit] [commitment: add context cancellation and remove dead mountedTries field (#20207)](https://github.com/erigontech/erigon/commit/8a1eee1d8a580b4575aa69967557d462213618f8) - 2026-03-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Erigon contributions with Zilkworm link](https://github.com/protocolguild/documentation/pull/478#pullrequestreview-3925895357) - 2026-03-10
 ## Q4 2025

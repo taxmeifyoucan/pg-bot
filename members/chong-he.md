@@ -23,3 +23,4 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Update `blob_delay_ms` to track data columns seen](https://github.com/sigp/lighthouse/pull/9024#pullrequestreview-4013020615) - 2026-03-26
 * [Review] [Review on: Release v8.1.3](https://github.com/sigp/lighthouse/pull/9034#pullrequestreview-4011046582) - 2026-03-26
 * [Issue] [Tracking issue for Beacon-APIs](https://github.com/sigp/lighthouse/issues/9045) - 2026-03-30
+* [Review] [Review on: Gloas get payload envelope beacon API](https://github.com/sigp/lighthouse/pull/9038#pullrequestreview-4035097438) - 2026-03-31

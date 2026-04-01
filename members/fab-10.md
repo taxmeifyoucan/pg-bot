@@ -59,6 +59,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Reduce tx p2p broadcast bandwidth and memory used (#9937)](https://github.com/besu-eth/besu/commit/2b6901e502276638d6fe8912124208eb34603e81) - 2026-03-30
 * [Commit] [Add txpool_content JSON-RPC method (#10120)](https://github.com/besu-eth/besu/commit/2e341e9101a448fd2e738c94f6a58691a7747582) - 2026-03-30
 * [Commit] [Refactor TransactionCompleteResult to extend TransactionPendingResult (#10113)](https://github.com/besu-eth/besu/commit/588cd4524a6ee8361c298f6a12045f3c9e3ea6f1) - 2026-03-30
+* [Review] [Review on: Optimize eth get proof test](https://github.com/besu-eth/besu/pull/10104#pullrequestreview-4036458360) - 2026-03-31
+* [Pull Request] [Notice: Besu will require Java JDK 25 to build and run in a future release](https://github.com/besu-eth/besu/pull/10140) - 2026-03-31
+* [Review] [Review on: Optimize performance and reduce memory when creating Quantity from scalar](https://github.com/besu-eth/besu/pull/10134#pullrequestreview-4037141241) - 2026-03-31
+* [Review] [Review on: chore: Java 25 readiness - update error prone to 4.4.0 and fix errors](https://github.com/besu-eth/besu/pull/10141#pullrequestreview-4037258687) - 2026-03-31
+* [Review] [Review on: Add txpool_inspect JSON-RPC method](https://github.com/besu-eth/besu/pull/10121#pullrequestreview-4036317778) - 2026-03-31
+* [Commit] [Notice: Besu will require Java JDK 25 to build and run in a future release (#10140)](https://github.com/besu-eth/besu/commit/30489bc0dfb158298ddf06697eca7bcc8c0f33d2) - 2026-03-31
+* [Commit] [Add txpool_inspect JSON-RPC method (#10121)](https://github.com/besu-eth/besu/commit/5873f56e4077106841e3fb680a3c39d14688d448) - 2026-03-31
 ## Q4 2025
 
 

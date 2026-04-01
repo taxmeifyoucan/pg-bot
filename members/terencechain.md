@@ -110,6 +110,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Refactor gloas process_execution_payload into distinct entry points](https://github.com/OffchainLabs/prysm/pull/16600#pullrequestreview-4024640005) - 2026-03-28
 * [Review] [Review on: Potuz/replay post gloas](https://github.com/OffchainLabs/prysm/pull/16598#pullrequestreview-4030440609) - 2026-03-30
 * [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4029200459) - 2026-03-30
+* [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4038272948) - 2026-03-31
+* [Pull Request] [Support gloas blob protobuf for readonly](https://github.com/OffchainLabs/prysm/pull/16618) - 2026-03-31
+* [Review] [Review on: Add gRPC endpoint to submit signed execution payload bids](https://github.com/OffchainLabs/prysm/pull/16614#pullrequestreview-4038172747) - 2026-03-31
+* [Issue] [Validator client should resend proposer preferences on dependent root change](https://github.com/OffchainLabs/prysm/issues/16617) - 2026-03-31
+* [Issue] [Proposer preference cache keyed by slot is not reorg-safe](https://github.com/OffchainLabs/prysm/issues/16616) - 2026-03-31
 ## Q4 2025
 
 

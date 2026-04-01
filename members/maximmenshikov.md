@@ -21,3 +21,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat/BuildCommand: remove redundant wraps](https://github.com/NethermindEth/bflat-riscv64/commit/107b66805e1c271b938892cc7004882bd7aead2c) - 2026-03-24
 * [Commit] [modules/pal: bad fix for inline_bump_alloc_aligned - should be fixed better](https://github.com/NethermindEth/bflat-riscv64/commit/d1a5a664ddc35f363d4ff7db4211049cdf215ff2) - 2026-03-26
 * [Commit] [modules/pal: implement more specific versions of cpu scheduler, cpu counter, etc](https://github.com/NethermindEth/bflat-riscv64/commit/87f6724354044ef85b7355608d5d306d8343f8f4) - 2026-03-26
+* [Pull Request] [Remove CI/CD workflow](https://github.com/NethermindEth/bflat-riscv64/pull/6) - 2026-03-31
+* [Pull Request] [Add docker shell for easier build on non-Linux systems](https://github.com/NethermindEth/bflat-riscv64/pull/5) - 2026-03-31
+* [Commit] [modules/pal: remove diagnostic gap](https://github.com/NethermindEth/bflat-riscv64/commit/be142db1394b8202f18d4a53f0eaa8fceb54bd0a) - 2026-03-31
+* [Commit] [Remove cicd workflow](https://github.com/NethermindEth/bflat-riscv64/commit/f1fc082c171d6ec4bf1ca2be259d2c2658ed122d) - 2026-03-31
+* [Commit] [Merge pull request #5 from NethermindEth/feature/docker_shell](https://github.com/NethermindEth/bflat-riscv64/commit/73365b10917bccaaf4815f901fc28b7c10fda977) - 2026-03-31
+* [Commit] [Add docker shell for easier build on non-Linux systems](https://github.com/NethermindEth/bflat-riscv64/commit/f2cc16ce75d3fff5a981fd5a1ef56a5d216792ad) - 2026-03-31

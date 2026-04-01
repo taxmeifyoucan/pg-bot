@@ -35,6 +35,7 @@ Team: EthereumJS
 * [Review] [Review on: 7708 fix: SELFDESTRUCT finalization logs](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4263#pullrequestreview-3971312725) - 2026-03-18
 * [Commit] [fix: replace typeof window DEBUG checks with globalThis.process (#4265)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/417f324d6b0d3b7e738f689475e68610799b392b) - 2026-03-19
 * [Review] [Review on: util: fix isEmpty bug](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4268#pullrequestreview-4007474207) - 2026-03-25
+* [Pull Request] [mpt: benchmark unrolled-nbl-hashes-sha3 for keccak256 speedup](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4272) - 2026-03-31
 ## Q4 2025
 
 

@@ -28,6 +28,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat(epbs): add server event handlers, libp2p gossipsub types, and ePBS conditional block routing](https://github.com/ethpandaops/xatu/pull/801#pullrequestreview-4011367273) - 2026-03-26
 * [Review] [Review on: feat(migrations): add epbs support](https://github.com/ethpandaops/xatu/pull/800#pullrequestreview-4011142983) - 2026-03-26
 * [Review] [Review on: feat: prepare epbs types](https://github.com/ethpandaops/xatu/pull/799#pullrequestreview-4011011749) - 2026-03-26
+* [Review] [Review on: yeah](https://github.com/ethpandaops/xatu/pull/804#pullrequestreview-4034464579) - 2026-03-31
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(xatu): add nodes section with resource monitoring](https://github.com/ethpandaops/lab/pull/421) - 2026-02-13
 * [Pull Request] [feat(node-resources): improve chart formatting and adapt to backend label changes](https://github.com/ethpandaops/lab/pull/424) - 2026-02-16

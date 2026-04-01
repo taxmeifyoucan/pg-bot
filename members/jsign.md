@@ -48,6 +48,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [Update ere and ere-guests (#267)](https://github.com/eth-act/zkevm-benchmark-workload/commit/3df1a426a2d5e0dfa3cd8bcddba864e792c8bac4) - 2026-03-26
 * [Pull Request] [Update ere to latest version](https://github.com/eth-act/zkevm-benchmark-workload/pull/269) - 2026-03-27
 * [Commit] [Update ere to latest version (#269)](https://github.com/eth-act/zkevm-benchmark-workload/commit/37bd694728b0fbd3560661d408e75bbe24bd4ef2) - 2026-03-27
+* [Pull Request] [Update ere and add support for timeouts](https://github.com/eth-act/zkevm-benchmark-workload/pull/270) - 2026-03-31
+* [Review] [Review on: Update ere and add support for timeouts](https://github.com/eth-act/zkevm-benchmark-workload/pull/270#pullrequestreview-4038044345) - 2026-03-31
+* [Commit] [Update ere and add support for timeouts (#270)](https://github.com/eth-act/zkevm-benchmark-workload/commit/7d4dddc48004060847cd0c4dcb78539dbeced1bb) - 2026-03-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(specs): delay get_code calls in CALL-like opcodes after gas charging and stack-depth checks](https://github.com/ethereum/execution-specs/pull/2473) - 2026-03-10
 * [Pull Request] [feat(zkevm): add test for execution witness bytecodes for contract creation, CALL-variants and empty block](https://github.com/ethereum/execution-specs/pull/2472) - 2026-03-10

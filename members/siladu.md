@@ -51,6 +51,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Issue] [EVM V2 - Stack Long Array Skeleton](https://github.com/besu-eth/besu/issues/10131) - 2026-03-30
 * [Commit] [Optimize MULMOD worst cases (#10088)](https://github.com/besu-eth/besu/commit/cf45eb799b0891f128ed06c5c2ee50a250ba6059) - 2026-03-30
 * [Commit] [SignatureAlgorithm cachedDefault for tests (#10122)](https://github.com/besu-eth/besu/commit/48a936df1aa81bc30c5631653350eef0653a1958) - 2026-03-30
+* [Review] [Review on: Notice: Besu will require Java JDK 25 to build and run in a future release](https://github.com/besu-eth/besu/pull/10140#pullrequestreview-4039630611) - 2026-03-31
+* [Review] [Review on: refactor: simplify SignatureAlgorithmFactory to eager singleton](https://github.com/besu-eth/besu/pull/10126#pullrequestreview-4034489130) - 2026-03-31
+* [Commit] [feat: skeleton for EVM v2 with long[] stack and --Xevm-v2 toggle (#10105)](https://github.com/besu-eth/besu/commit/eb2500574f559c4230e08db293c81e43f5be5541) - 2026-03-31
 [hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
 * [Review] [Review on: chore(ci): update runner types and trigger](https://github.com/besu-eth/besu-stateless/pull/91#pullrequestreview-3951053016) - 2026-03-16
 

@@ -55,6 +55,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [stagedsync: guard BAL debug file writes and unify serialization format](https://github.com/erigontech/erigon/pull/20223) - 2026-03-30
 * [Pull Request] [stagedsync/bal: validate max items on stored block access list](https://github.com/erigontech/erigon/pull/20222) - 2026-03-30
 * [Commit] [stagedsync/bal: validate max items on stored block access list (#20222)](https://github.com/erigontech/erigon/commit/8ac738f3d06c8efa1619ded77e212a8bbb6a65f1) - 2026-03-30
+* [Commit] [stagedsync: guard BAL debug file writes and unify serialization format (#20223)](https://github.com/erigontech/erigon/commit/8d4e7bfc755c7bf7143ebebbfddd3191b27f7ffc) - 2026-03-31
 ## Q3 2025
 
 

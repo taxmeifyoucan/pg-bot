@@ -91,6 +91,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Re-add next-epoch lookahead for PTC duties](https://github.com/OffchainLabs/prysm/pull/16591#pullrequestreview-4031865281) - 2026-03-30
 * [Pull Request] [changing log to warn in fallback log](https://github.com/OffchainLabs/prysm/pull/16606) - 2026-03-30
 * [Commit] [changing log to warn in fallback log (#16606)](https://github.com/OffchainLabs/prysm/commit/f05972a18181a568fbe7e7d82bbf95397994b1f1) - 2026-03-30
+* [Review] [Review on: Add beacon API endpoint to publish signed execution payload bids](https://github.com/OffchainLabs/prysm/pull/16612#pullrequestreview-4038003319) - 2026-03-31
+* [Review] [Review on: API: Limit HTTP request max size and batch large RegisterValidator payloads](https://github.com/OffchainLabs/prysm/pull/16609#pullrequestreview-4034543773) - 2026-03-31
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: fix: remove AVX dependency from SSE x1 implementation](https://github.com/OffchainLabs/hashtree/pull/64#pullrequestreview-4016657390) - 2026-03-26
 ## Q4 2025
