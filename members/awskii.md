@@ -8,6 +8,15 @@ Team: Erigon
 
 ## Contributions
 
+## Q2 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [commitment: per-goroutine ETL collectors for concurrent rebuild](https://github.com/erigontech/erigon/pull/20272) - 2026-04-01
+* [Pull Request] [commitment: concurrent rebuilding fixes](https://github.com/erigontech/erigon/pull/20261) - 2026-04-01
+* [Review] [Review on: [performance] Merge recent main into performance branch](https://github.com/erigontech/erigon/pull/20259#pullrequestreview-4042650113) - 2026-04-01
+* [Issue] [commitment: move deferred branch writes behind PatriciaContext](https://github.com/erigontech/erigon/issues/20278) - 2026-04-01
+* [Issue] [commitment: move warmup cache behind PatriciaContext](https://github.com/erigontech/erigon/issues/20277) - 2026-04-01
 ## Q1 2026
 
 

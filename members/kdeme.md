@@ -8,6 +8,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q2 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Add zkevm eest tests with witness comparison](https://github.com/status-im/nimbus-eth1/pull/4090) - 2026-04-01
+* [Pull Request] [eest: Use full path for skip files](https://github.com/status-im/nimbus-eth1/pull/4089) - 2026-04-01
+* [Issue] [Implement EIP-1898 for execution JSON-RPC API](https://github.com/status-im/nimbus-eth1/issues/4088) - 2026-04-01
+* [Commit] [eest: Run all eest tests from one binary (#4079)](https://github.com/status-im/nimbus-eth1/commit/d9ac2bc85d0725376ee90d494de7f0e422953d6c) - 2026-04-01
 ## Q1 2026
 
 

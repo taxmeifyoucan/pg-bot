@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 
 ## Contributions
 
+## Q2 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: Create pending payload attestations pool](https://github.com/Consensys/teku/pull/10536#pullrequestreview-4044291546) - 2026-04-01
+* [Commit] [Create pending payload attestations pool (#10536)](https://github.com/Consensys/teku/commit/6510b1c06a8d0229c17f2868e5f1c7851ad98e5a) - 2026-04-01
 ## Q1 2026
 
 

@@ -14,6 +14,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4041077715) - 2026-04-01
 * [Commit] [Add beacon API endpoint to publish signed execution payload bids (#16612)](https://github.com/OffchainLabs/prysm/commit/68c4c36e65a3a418a15225224c162bfafb1ac590) - 2026-04-01
+* [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4044963803) - 2026-04-01
+* [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4043457079) - 2026-04-01
+* [Commit] [Add gRPC endpoint to submit signed execution payload bids (#16614)](https://github.com/OffchainLabs/prysm/commit/29a0fd676004c549fc9ebfa0f2bf7de0de880d1b) - 2026-04-01
 ## Q1 2026
 
 

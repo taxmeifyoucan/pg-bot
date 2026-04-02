@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 
 ## Contributions
 
+## Q2 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [added executors for some alpha4 test cases](https://github.com/Consensys/teku/pull/10545) - 2026-04-01
+* [Review] [Review on: added executors for some alpha4 test cases](https://github.com/Consensys/teku/pull/10545#pullrequestreview-4046913648) - 2026-04-01
 ## Q1 2026
 
 

@@ -14,6 +14,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/discovery/pull/202#pullrequestreview-4041112218) - 2026-04-01
 * [Commit] [Fix ipv6 discovery (#202)](https://github.com/Consensys/discovery/commit/973e8e08c7e3f67c226b7451bdf08d2a3ae7b2d9) - 2026-04-01
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516#pullrequestreview-4041785930) - 2026-04-01
 ## Q1 2026
 
 

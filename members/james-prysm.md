@@ -8,6 +8,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 
 ## Contributions
 
+## Q2 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: PTC duties no longer computed from a pre-Gloas state at the Fulu to Gloas fork boundary](https://github.com/OffchainLabs/prysm/pull/16619#pullrequestreview-4045342424) - 2026-04-01
+* [Review] [Review on: Refactor gloas process_execution_payload into distinct entry points](https://github.com/OffchainLabs/prysm/pull/16600#pullrequestreview-4046234799) - 2026-04-01
+* [Review] [Review on: Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626#pullrequestreview-4045403369) - 2026-04-01
+* [Review] [Review on: fix: add Gloas genesis block support](https://github.com/OffchainLabs/prysm/pull/16627#pullrequestreview-4045044658) - 2026-04-01
 ## Q1 2026
 
 

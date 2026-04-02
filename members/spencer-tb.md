@@ -8,6 +8,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(tests): EIP-8037 - blockchain header gas used cases](https://github.com/ethereum/execution-specs/pull/2611) - 2026-04-01
+* [Review] [Review on: feat(tests): block-level 2D gas accounting tests for EIP-8037](https://github.com/ethereum/execution-specs/pull/2610#pullrequestreview-4047425685) - 2026-04-01
+* [Review] [Review on: feat(tests): EIP-8037 - code deposit halt must discard initcode state gas](https://github.com/ethereum/execution-specs/pull/2595#pullrequestreview-4045609778) - 2026-04-01
+* [Pull Request] [feat(spec-specs): EIP-8037 - move CREATE state gas charge after initcode size validation](https://github.com/ethereum/execution-specs/pull/2608) - 2026-04-01
+* [Review] [Review on: feat(cli): Add --until option for checklist generation](https://github.com/ethereum/execution-specs/pull/2593#pullrequestreview-4046825012) - 2026-04-01
+* [Pull Request] [chore(tests): fix import sorting and stale type annotation for static checks](https://github.com/ethereum/execution-specs/pull/2612) - 2026-04-01
+* [Review] [Review on: fix(test-forks): exclude transition target fork from `--until` boundary](https://github.com/ethereum/execution-specs/pull/2607#pullrequestreview-4044064932) - 2026-04-01
 ## Q1 2026
 
 

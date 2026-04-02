@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 
 ## Contributions
 
+## Q2 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: Fastssz update to allow generics](https://github.com/OffchainLabs/prysm/pull/16628#pullrequestreview-4046702554) - 2026-04-01
 ## Q1 2026
 
 

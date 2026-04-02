@@ -8,6 +8,16 @@ Team: Erigon
 
 ## Contributions
 
+## Q2 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: QA: enable rpc-tests (integration) using go](https://github.com/erigontech/erigon/pull/20275#pullrequestreview-4047878593) - 2026-04-02
+* [Review] [Review on: commitment: per-goroutine ETL collectors for concurrent rebuild](https://github.com/erigontech/erigon/pull/20272#pullrequestreview-4047684575) - 2026-04-02
+* [Review] [Review on: execmodule, stageloop: apply ERIGON_IN_MEM_HISTORY flag to ExecV3 path](https://github.com/erigontech/erigon/pull/20270#pullrequestreview-4044067872) - 2026-04-01
+* [Review] [Review on: execution/cache: fix StateCache dropping deleted storage keys, causing stale reads](https://github.com/erigontech/erigon/pull/20265#pullrequestreview-4044073312) - 2026-04-01
+* [Review] [Review on: cp: commitment history rebuild and associated commits](https://github.com/erigontech/erigon/pull/20266#pullrequestreview-4043424923) - 2026-04-01
+* [Review] [Review on: stageloop, execmodule: add ERIGON_IN_MEM_HISTORY env flag for faster exec](https://github.com/erigontech/erigon/pull/20245#pullrequestreview-4042093530) - 2026-04-01
 ## Q1 2026
 
 

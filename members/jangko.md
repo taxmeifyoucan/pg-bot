@@ -13,6 +13,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Fix EIP-8037 2D gasPool limit check in commitOrRollbackDependingOnGasUsed](https://github.com/status-im/nimbus-eth1/pull/4086) - 2026-04-01
+* [Commit] [Fix EIP-8037 2D gasPool limit check in commitOrRollbackDependingOnGasUsed (#4086)](https://github.com/status-im/nimbus-eth1/commit/a6cee19114141039b921aaab188bc6f377f9d939) - 2026-04-01
 ## Q1 2026
 
 

@@ -6,6 +6,15 @@ Github: [@tcoratger](https://github.com/tcoratger)
 
 ## Contributions
 
+## Q2 2026
+
+
+[Plonky3/Plonky3](https://github.com/Plonky3/Plonky3)
+* [Review] [Review on: field: add division ops for packed binomial extension](https://github.com/Plonky3/Plonky3/pull/1512#pullrequestreview-4042494397) - 2026-04-01
+* [Pull Request] [feat: add p3-monolith-air crate for Monolith permutation arithmetization](https://github.com/Plonky3/Plonky3/pull/1516) - 2026-04-01
+* [Review] [Review on: perf: faster `GoldilocksPackedNeon` field operations](https://github.com/Plonky3/Plonky3/pull/1515#pullrequestreview-4045574128) - 2026-04-01
+* [Review] [Review on: fix compilation on aarch64 without neon ](https://github.com/Plonky3/Plonky3/pull/1514#pullrequestreview-4044127021) - 2026-04-01
+* [Review] [Review on: fix: make test suite pass in release mode](https://github.com/Plonky3/Plonky3/pull/1513#pullrequestreview-4042486214) - 2026-04-01
 ## Q1 2026
 
 

@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 ## Contributions
 
+## Q2 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Commit] [feat: schedule Fulu fork for Gnosis mainnet (#9074)](https://github.com/ChainSafe/lodestar/commit/4c65f9176f44079c49ee707ae4f3383d530e7466) - 2026-04-01
 ## Q1 2026
 
 

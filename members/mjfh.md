@@ -8,6 +8,12 @@ Team: Nimbus
 
 ## Contributions
 
+## Q2 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4091) - 2026-04-01
+* [Commit] [Snap sync maint update (#4091)](https://github.com/status-im/nimbus-eth1/commit/08a7361b0784c040d457f623e689245e02a871ad) - 2026-04-01
 ## Q1 2026
 
 

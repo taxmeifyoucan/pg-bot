@@ -8,6 +8,22 @@ Team: Reth
 
 ## Contributions
 
+## Q2 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [chore: move alloy-rlp to dev-dependencies in reth-execution-types](https://github.com/paradigmxyz/reth/pull/23333) - 2026-04-01
+* [Pull Request] [fix(net): avoid itertools Format panic in tracing log](https://github.com/paradigmxyz/reth/pull/23331) - 2026-04-01
+* [Review] [Review on: refactor(rpc): use reth-core rpc-convert for trait definitions](https://github.com/paradigmxyz/reth/pull/23290#pullrequestreview-4045058963) - 2026-04-01
+* [Pull Request] [chore: allow "writeable" in typos config](https://github.com/paradigmxyz/reth/pull/23332) - 2026-04-01
+* [Pull Request] [refactor(reth-bench): make payload handling ethereum-only](https://github.com/paradigmxyz/reth/pull/23324) - 2026-04-01
+* [Review] [Review on: fix(rpc): admin_nodeInfo.id now returns keccak256 node ID matching go-ethereum format](https://github.com/paradigmxyz/reth/pull/23319#pullrequestreview-4043167763) - 2026-04-01
+* [Review] [Review on: fix(engine): defer changeset static file truncation during reorgs](https://github.com/paradigmxyz/reth/pull/23291#pullrequestreview-4042592531) - 2026-04-01
+* [Review] [Review on: fix(rpc): remove 0x prefix from admin_peers id to match go-ethereum format](https://github.com/paradigmxyz/reth/pull/23318#pullrequestreview-4042376225) - 2026-04-01
+* [Commit] [chore: move alloy-rlp to dev-dependencies in reth-execution-types (#23333)](https://github.com/paradigmxyz/reth/commit/1f84158137e1ee6a8a66e5671b4d23e910ed1f3c) - 2026-04-01
+* [Commit] [fix(net): avoid itertools Format panic in tracing log (#23331)](https://github.com/paradigmxyz/reth/commit/357188f91817691d123d777a101df87820443623) - 2026-04-01
+* [Commit] [chore: allow "writeable" in typos config (#23332)](https://github.com/paradigmxyz/reth/commit/082c36ebee634baacacc4ca556ae77f7f60df708) - 2026-04-01
+* [Commit] [refactor(reth-bench): make payload handling ethereum-only (#23324)](https://github.com/paradigmxyz/reth/commit/90dfaac5e29b4e090f9d55b99c52a99bed009647) - 2026-04-01
 ## Q1 2026
 
 

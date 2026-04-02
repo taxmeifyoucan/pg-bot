@@ -8,6 +8,18 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(tooling): added a smoke test for devs](https://github.com/ethereum/execution-specs/pull/2605#pullrequestreview-4043414885) - 2026-04-01
+* [Review] [Review on: feat(cli): Add --until option for checklist generation](https://github.com/ethereum/execution-specs/pull/2593#pullrequestreview-4046837852) - 2026-04-01
+* [Pull Request] [fix(test-forks): exclude transition target fork from `--until` boundary](https://github.com/ethereum/execution-specs/pull/2607) - 2026-04-01
+* [Review] [Review on: feat(test-benchmark): parametrize stateful benchmark stubs from `--address-stubs` ](https://github.com/ethereum/execution-specs/pull/2562#pullrequestreview-4043588291) - 2026-04-01
+* [Pull Request] [fix(ci,test-benchmark): do not generate stateful benchmarks](https://github.com/ethereum/execution-specs/pull/2606) - 2026-04-01
+* [Commit] [feat(ci,tooling): replace `tox` with `just` (#2555)](https://github.com/ethereum/execution-specs/commit/1e49423c5ab07a80f0949a26d1d851d6371d2154) - 2026-04-01
+* [Commit] [fix(test-forks): exclude transition target fork from `--until` boundary (#2607)](https://github.com/ethereum/execution-specs/commit/2df7916c6613a2eed5c6c3351d41791e2b6e8e8c) - 2026-04-01
+* [Commit] [fix(ci,test-benchmark): do not generate compute benchmarks (#2606)](https://github.com/ethereum/execution-specs/commit/2dd38cfb5679875d1d7ef150674eeaa4f488865f) - 2026-04-01
 ## Q1 2026
 
 

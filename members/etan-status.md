@@ -8,6 +8,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q2 2026
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [Do not compute shuffling for answering total_active_balance query](https://github.com/status-im/nimbus-eth2/pull/8214) - 2026-04-01
+* [Pull Request] [Pass slot number to Gloas data column sidecar REST objects](https://github.com/status-im/nimbus-eth2/pull/8212) - 2026-04-01
+* [Pull Request] [Better error messages for unreachable LC dispatch logic](https://github.com/status-im/nimbus-eth2/pull/8211) - 2026-04-01
+* [Pull Request] [Replace Altair GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8210) - 2026-04-01
 ## Q1 2026
 
 

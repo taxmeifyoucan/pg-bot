@@ -8,6 +8,16 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7708: add CREATE and CREATE2 to transfer log list](https://github.com/ethereum/EIPs/pull/11474) - 2026-04-01
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Review] [Review on: internal/ethapi, eth/gasestimator: honor block overrides in estimate gas](https://github.com/ethereum/go-ethereum/pull/34081#pullrequestreview-4046182237) - 2026-04-01
+* [Review] [Review on: triedb/pathdb: implement history index pruner](https://github.com/ethereum/go-ethereum/pull/33999#pullrequestreview-4047403049) - 2026-04-01
+* [Review] [Review on: beacon/light: keep retrying checkpoint init if failed](https://github.com/ethereum/go-ethereum/pull/33966#pullrequestreview-4043376604) - 2026-04-01
 ## Q1 2026
 
 

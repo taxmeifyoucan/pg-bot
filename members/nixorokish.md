@@ -6,6 +6,14 @@ Github: [@nixorokish](https://github.com/nixorokish)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7723: update SFI definition based on ACDT#74](https://github.com/ethereum/EIPs/pull/11475) - 2026-04-01
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Commit] [Fix CI: downgrade Requests to 2.32.5 for Python 3.9 compatibility](https://github.com/ethereum/pm/commit/b8ce2627f82c7790432c37c2b66c0083ee61c96d) - 2026-04-01
 ## Q1 2026
 
 

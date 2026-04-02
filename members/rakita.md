@@ -8,6 +8,11 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 ## Contributions
 
+## Q2 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [WIP bump alloy-evm to af60ab3, remove gas output from execute_transaction](https://github.com/paradigmxyz/reth/pull/23327) - 2026-04-01
 ## Q1 2026
 
 

@@ -6,6 +6,14 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(test-benchmark): add uncacheable precompile benchmark](https://github.com/ethereum/execution-specs/pull/2600#pullrequestreview-4044206846) - 2026-04-01
+* [Review] [Review on: feat(test-benchmark): parametrize stateful benchmark stubs from `--address-stubs` ](https://github.com/ethereum/execution-specs/pull/2562#pullrequestreview-4042073362) - 2026-04-01
+* [Review] [Review on: fix(ci,test-benchmark): do not generate stateful benchmarks](https://github.com/ethereum/execution-specs/pull/2606#pullrequestreview-4042624370) - 2026-04-01
+* [Commit] [feat(test-benchmark): parametrize stateful benchmark stubs from `--address-stubs` (#2562)](https://github.com/ethereum/execution-specs/commit/3037ba4165faa4701e2a257c102b3a4eff30bc52) - 2026-04-01
 ## Q1 2026
 
 

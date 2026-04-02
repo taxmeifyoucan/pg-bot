@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q2 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: QA: enable rpc-tests (perf) using go](https://github.com/erigontech/erigon/pull/20212#pullrequestreview-4042366535) - 2026-04-01
 ## Q1 2026
 
 

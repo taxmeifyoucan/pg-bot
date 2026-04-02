@@ -8,6 +8,12 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 
 ## Contributions
 
+## Q2 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [include enr in the `admin_nodeInfo` rpc](https://github.com/status-im/nimbus-eth1/pull/4087) - 2026-04-01
+* [Commit] [include enr in the `admin_nodeInfo` rpc (#4087)](https://github.com/status-im/nimbus-eth1/commit/3f84674726f7962f39c50aec6b2b40e096888916) - 2026-04-01
 ## Q1 2026
 
 

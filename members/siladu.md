@@ -8,6 +8,21 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 
 ## Contributions
 
+## Q2 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Use besu-research-ubuntu-16 and remove runner splitting for unitTests](https://github.com/besu-eth/besu/pull/10159) - 2026-04-02
+* [Review] [Review on: Use besu-research-ubuntu-16 and remove runner splitting for unitTests](https://github.com/besu-eth/besu/pull/10159#pullrequestreview-4047795322) - 2026-04-02
+* [Pull Request] [Fix flaky EngineForkchoiceUpdatedV2](https://github.com/besu-eth/besu/pull/10158) - 2026-04-01
+* [Review] [Review on: Fix flaky EngineForkchoiceUpdatedV2](https://github.com/besu-eth/besu/pull/10158#pullrequestreview-4047647103) - 2026-04-01
+* [Review] [Review on: refactor: simplify SignatureAlgorithmFactory to eager singleton](https://github.com/besu-eth/besu/pull/10126#pullrequestreview-4041790491) - 2026-04-01
+* [Review] [Review on: feat: implement AddOperationV2 with long[] carry-propagated addition](https://github.com/besu-eth/besu/pull/10143#pullrequestreview-4041841729) - 2026-04-01
+* [Pull Request] [Fix trailing space in filename](https://github.com/besu-eth/besu/pull/10147) - 2026-04-01
+* [Commit] [Use besu-research-ubuntu-16 and remove runner splitting for unitTests (#10159)](https://github.com/besu-eth/besu/commit/5f5913f0cccbf753a0dc1dfb26e5c9201a8c26e4) - 2026-04-02
+* [Commit] [Fix flaky EngineForkchoiceUpdatedV2 (#10158)](https://github.com/besu-eth/besu/commit/c02f35617510d3db75f084f7f8d9b88f754b5597) - 2026-04-01
+* [Commit] [Wire up MulOperationOptimized and SubOperationOptimized to EVM  (#10030)](https://github.com/besu-eth/besu/commit/a833928498abdae09fb2be5bf039f3093c6316fa) - 2026-04-01
+* [Commit] [refactor: simplify SignatureAlgorithmFactory to eager singleton (#10126)](https://github.com/besu-eth/besu/commit/73e47ffd39400881d832a1669d991fdf4ea15092) - 2026-04-01
 ## Q1 2026
 
 

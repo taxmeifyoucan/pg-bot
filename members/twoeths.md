@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: feat: update data column sidecars for gloas](https://github.com/ChainSafe/lodestar/pull/8938#pullrequestreview-4042515890) - 2026-04-01
 ## Q1 2026
 
 

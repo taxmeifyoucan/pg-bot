@@ -8,6 +8,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 ## Contributions
 
+## Q2 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: fix: dispose evicted envs from BlockCachePreWarmer pool](https://github.com/NethermindEth/nethermind/pull/11013#pullrequestreview-4041978728) - 2026-04-01
+* [Review] [Review on: Support EIP-7949 and update hoodi spec accordingly](https://github.com/NethermindEth/nethermind/pull/10046#pullrequestreview-4043524105) - 2026-04-01
+* [Pull Request] [Refactor GethGenesisLoader, AutoDetectingChainSpecLoader and tests](https://github.com/NethermindEth/nethermind/pull/11018) - 2026-04-01
+* [Review] [Review on: perf: Replace ConcurrentHashSet with lease-guarded HandlerBag in RetryCache (~75 MB alloc reduction)](https://github.com/NethermindEth/nethermind/pull/11009#pullrequestreview-4042874010) - 2026-04-01
+* [Review] [Review on: perf: Clear BlockAccessList and AccountChanges before caching blocks](https://github.com/NethermindEth/nethermind/pull/11014#pullrequestreview-4041960194) - 2026-04-01
+* [Review] [Review on: refactor: extract BalStore from ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/10957#pullrequestreview-4042794147) - 2026-04-01
 ## Q1 2026
 
 

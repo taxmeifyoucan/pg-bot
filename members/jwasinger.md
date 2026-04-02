@@ -13,6 +13,7 @@ Team: Geth
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: core: implement EIP-8037, state creation gas cost increase](https://github.com/ethereum/go-ethereum/pull/33601#pullrequestreview-4041074759) - 2026-04-01
+* [Pull Request] [core: fix 8037 gas accounting](https://github.com/ethereum/go-ethereum/pull/34631) - 2026-04-01
 ## Q1 2026
 
 

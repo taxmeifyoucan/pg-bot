@@ -8,6 +8,12 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(tests): Add more EIP-7928 test cases](https://github.com/ethereum/execution-specs/pull/1903) - 2026-04-01
+* [Commit] [feat(tests): Add more EIP-7928 test cases (#1903)](https://github.com/ethereum/execution-specs/commit/65f9b8f792f8af177640ca75ef8d75673e3a8bdd) - 2026-04-01
 ## Q1 2026
 
 

@@ -8,6 +8,13 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 ## Contributions
 
+## Q2 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [QA: enable rpc-tests (integration) using go](https://github.com/erigontech/erigon/pull/20275) - 2026-04-01
+* [Review] [Review on: QA: enable rpc-tests (perf) using go](https://github.com/erigontech/erigon/pull/20212#pullrequestreview-4046271129) - 2026-04-01
+* [Pull Request] [rpc: replace EVM timeout goroutines with context.AfterFunc](https://github.com/erigontech/erigon/pull/20276) - 2026-04-01
 ## Q1 2026
 
 

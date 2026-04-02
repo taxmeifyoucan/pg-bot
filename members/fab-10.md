@@ -8,6 +8,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 
 ## Contributions
 
+## Q2 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: chore: Java 25 readiness - update error prone to 4.4.0 and fix errors](https://github.com/besu-eth/besu/pull/10141#pullrequestreview-4044779255) - 2026-04-01
+* [Review] [Review on: feat: BesuPluginServiceRegistrar refactoring to factor out the logic …](https://github.com/besu-eth/besu/pull/10142#pullrequestreview-4042805358) - 2026-04-01
+* [Pull Request] [Tune layered txpool defaults following increases to block gas limit](https://github.com/besu-eth/besu/pull/10149) - 2026-04-01
+* [Commit] [Tune layered txpool defaults following increases to block gas limit (#10149)](https://github.com/besu-eth/besu/commit/85e3a03e69660f43402b48e44c9ef1bf73e86ebf) - 2026-04-01
 ## Q1 2026
 
 

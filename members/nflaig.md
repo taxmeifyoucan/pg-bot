@@ -8,6 +8,21 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [feat: update data column sidecars for gloas](https://github.com/ChainSafe/lodestar/pull/8938) - 2026-04-02
+* [Review] [Review on: test: remove non-null assertions in gloas protoArray test](https://github.com/ChainSafe/lodestar/pull/9152#pullrequestreview-4046529149) - 2026-04-01
+* [Review] [Review on: fix: handle genesis block in gloas fork choice and genesis state init](https://github.com/ChainSafe/lodestar/pull/9149#pullrequestreview-4045832097) - 2026-04-01
+* [Review] [Review on: test: remove last benchmark cache-clear hack and skip aggregatedAttestationPool by default](https://github.com/ChainSafe/lodestar/pull/9147#pullrequestreview-4043628399) - 2026-04-01
+* [Review] [Review on: chore: correct testCachePath after move from test/ to src/testUtils/](https://github.com/ChainSafe/lodestar/pull/9145#pullrequestreview-4042162793) - 2026-04-01
+* [Review] [Review on: test: scope clearPerfStateCache to loadState only to fix benchmark flakiness](https://github.com/ChainSafe/lodestar/pull/9143#pullrequestreview-4042088652) - 2026-04-01
+* [Review] [Review on: chore: v1.41.1 release](https://github.com/ChainSafe/lodestar/pull/9144#pullrequestreview-4041832728) - 2026-04-01
+* [Review] [Review on: chore: merge v1.41.1 back to unstable](https://github.com/ChainSafe/lodestar/pull/9146#pullrequestreview-4042021004) - 2026-04-01
+* [Issue] [Properly handle starting from gloas at genesis](https://github.com/ChainSafe/lodestar/issues/9151) - 2026-04-01
+* [Issue] [Better mechanism to trigger `processExecutionPayload `](https://github.com/ChainSafe/lodestar/issues/9150) - 2026-04-01
+* [Commit] [feat: update data column sidecars for gloas (#8938)](https://github.com/ChainSafe/lodestar/commit/8b81ee6c3e0a218492f786eea4af8b6c50c3ed8f) - 2026-04-02
 ## Q1 2026
 
 

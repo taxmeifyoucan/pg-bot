@@ -8,6 +8,31 @@ Team: Reth
 
 ## Contributions
 
+## Q2 2026
+
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Pull Request] [feat: local call/return detection with context-sensitive resolution](https://github.com/paradigmxyz/revmc/pull/222) - 2026-04-01
+* [Pull Request] [perf: skip stack memcpy on non-suspending returns](https://github.com/paradigmxyz/revmc/pull/232) - 2026-04-01
+* [Pull Request] [feat: reuse block_analysis for initial static jump seeding](https://github.com/paradigmxyz/revmc/pull/226) - 2026-04-01
+* [Pull Request] [feat: EVM assembler with label support, rewrite bytecode tests](https://github.com/paradigmxyz/revmc/pull/229) - 2026-04-01
+* [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/revmc/pull/231#pullrequestreview-4046303875) - 2026-04-01
+* [Pull Request] [fix: register JITLoaderGDB symbol for debug support on macOS](https://github.com/paradigmxyz/revmc/pull/230) - 2026-04-01
+* [Pull Request] [refactor: use Cow<[u8]> instead of &[u8] for Bytecode::code](https://github.com/paradigmxyz/revmc/pull/227) - 2026-04-01
+* [Pull Request] [fix: sound invalidation for block-resolved jumps](https://github.com/paradigmxyz/revmc/pull/224) - 2026-04-01
+* [Pull Request] [refactor: remove dead BlockData::dead field](https://github.com/paradigmxyz/revmc/pull/225) - 2026-04-01
+* [Pull Request] [fix: exclude dead-code jumps from has_dynamic_jumps recomputation](https://github.com/paradigmxyz/revmc/pull/223) - 2026-04-01
+* [Pull Request] [feat(dedup): deduplicate reachable JUMPDEST blocks with terminal ops](https://github.com/paradigmxyz/revmc/pull/221) - 2026-04-01
+* [Commit] [feat: reuse block_analysis for initial static jump seeding (#226)](https://github.com/paradigmxyz/revmc/commit/b9ca6f999d02bd7ee5778b4c908138f237483097) - 2026-04-01
+* [Commit] [feat: EVM assembler with label support, rewrite bytecode tests (#229)](https://github.com/paradigmxyz/revmc/commit/2e20bbc29484837d43671aa8cbf1d051209c03c5) - 2026-04-01
+* [Commit] [fix: register JITLoaderGDB symbol for debug support on macOS (#230)](https://github.com/paradigmxyz/revmc/commit/04446f6d11f4cecec49bf176b0773b5f2634c5b3) - 2026-04-01
+* [Commit] [refactor: use Cow<[u8]> instead of &[u8] for Bytecode::code (#227)](https://github.com/paradigmxyz/revmc/commit/0b05d9498708f4cb337413b9690067280484050f) - 2026-04-01
+* [Commit] [fix: remove leftover block.dead reference after #225](https://github.com/paradigmxyz/revmc/commit/f5d0e9cbbf335c92b49372b5830881fb3173156b) - 2026-04-01
+* [Commit] [fix: sound invalidation for block-resolved jumps (#224)](https://github.com/paradigmxyz/revmc/commit/224870dc988f47d9cc74165d9ee5f363c34150a2) - 2026-04-01
+* [Commit] [refactor: remove dead BlockData::dead field (#225)](https://github.com/paradigmxyz/revmc/commit/cb44d2a972773794c660505712b828871629793b) - 2026-04-01
+* [Commit] [fix: exclude dead-code jumps from has_dynamic_jumps recomputation (#223)](https://github.com/paradigmxyz/revmc/commit/838cac2eadbaccca08cf188a9502a80d0b3065d8) - 2026-04-01
+* [Commit] [feat(dedup): deduplicate reachable JUMPDEST blocks with terminal ops (#221)](https://github.com/paradigmxyz/revmc/commit/5d1973a25e186e1764e2d41227dc76a0015f10ae) - 2026-04-01
+* [Commit] [wethbench](https://github.com/paradigmxyz/revmc/commit/a7ee1f3dfac449e7ede331dce58f675e665592dd) - 2026-04-01
 ## Q1 2026
 
 

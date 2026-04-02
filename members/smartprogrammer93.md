@@ -8,6 +8,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q2 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: feat: upgrade Claude CI/CD review workflow](https://github.com/NethermindEth/nethermind/pull/10854#pullrequestreview-4046353179) - 2026-04-01
+* [Pull Request] [feat(taiko): add certain batch lookup RPC methods](https://github.com/NethermindEth/nethermind/pull/11021) - 2026-04-01
+* [Review] [Review on: Add stall timeout margin before FlatDb compactor warning](https://github.com/NethermindEth/nethermind/pull/10983#pullrequestreview-4041966016) - 2026-04-01
 ## Q1 2026
 
 

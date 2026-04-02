@@ -8,6 +8,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q2 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [Cherry pick #10974 and adjust](https://github.com/NethermindEth/nethermind/pull/11020) - 2026-04-01
+* [Review] [Review on: fix(evm): include initcode state gas in block accumulator on code deposit failure](https://github.com/NethermindEth/nethermind/pull/11001#pullrequestreview-4044772868) - 2026-04-01
 ## Q1 2026
 
 

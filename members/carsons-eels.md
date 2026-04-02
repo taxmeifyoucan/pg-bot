@@ -6,6 +6,11 @@ Github: [@carsons-eels](https://github.com/carsons-eels)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(tooling): added a smoke test for devs](https://github.com/ethereum/execution-specs/pull/2605) - 2026-04-01
 ## Q1 2026
 
 

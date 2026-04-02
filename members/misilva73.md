@@ -6,6 +6,14 @@ Github: [@misilva73](https://github.com/misilva73)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(benchmarks): add runtime delegated EIP-7702 benchmarks](https://github.com/ethereum/execution-specs/pull/2598#pullrequestreview-4042198897) - 2026-04-01
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Glamsterdam Repricings #5, April 1, 2026](https://github.com/ethereum/pm/issues/2000) - 2026-04-01
 ## Q1 2026
 
 

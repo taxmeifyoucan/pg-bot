@@ -8,6 +8,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [chore: v1.41.1 release](https://github.com/ChainSafe/lodestar/pull/9144) - 2026-04-01
+* [Pull Request] [chore: merge v1.41.1 back to unstable](https://github.com/ChainSafe/lodestar/pull/9146) - 2026-04-01
+* [Commit] [chore: merge v1.41.1 back to unstable (#9146)](https://github.com/ChainSafe/lodestar/commit/37430db2173ab296f3a4439fd582f43f4f22d8f2) - 2026-04-01
+* [Commit] [chore: v1.41.1 release (#9144)](https://github.com/ChainSafe/lodestar/commit/fc6798bac93430ca2f02c9cd18cf364e901d448d) - 2026-04-01
+* [Commit] [chore: switch arm from buildjet to warpbuild (#9129)](https://github.com/ChainSafe/lodestar/commit/c1e63a5fbaa418fbe0cc06fa521ee0a62b3599d5) - 2026-04-01
+* [Commit] [feat: switch from buildjet to warpbuild (#9125)](https://github.com/ChainSafe/lodestar/commit/d43b95cff93bd4ebe28372cd87c53e59ed30d965) - 2026-04-01
+* [Commit] [chore: bump package versions to 1.41.1](https://github.com/ChainSafe/lodestar/commit/02b227148dc2344c325ee8e6b6a4a247ccad7e1a) - 2026-04-01
 ## Q1 2026
 
 

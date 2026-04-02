@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q2 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: execution/vm: reduce heap allocations in precompile contracts](https://github.com/erigontech/erigon/pull/20213#pullrequestreview-4044431504) - 2026-04-01
 ## Q1 2026
 
 

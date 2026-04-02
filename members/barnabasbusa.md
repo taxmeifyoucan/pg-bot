@@ -8,6 +8,22 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [fix: create FULL variant for gloas genesis and allow block production when stalled with peers](https://github.com/ChainSafe/lodestar/pull/9153) - 2026-04-01
+* [Pull Request] [fix: handle genesis block in gloas fork choice and genesis state init](https://github.com/ChainSafe/lodestar/pull/9149) - 2026-04-01
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Pull Request] [Fix nil pointer panic in beacon event stream](https://github.com/ethpandaops/dora/pull/624) - 2026-04-01
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
+* [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
+* [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16622) - 2026-04-01
+* [Pull Request] [Fix minimal preset and register ProduceBlockV4 endpoint](https://github.com/OffchainLabs/prysm/pull/16625) - 2026-04-01
+* [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16623) - 2026-04-01
 ## Q1 2026
 
 

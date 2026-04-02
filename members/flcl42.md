@@ -8,6 +8,17 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 ## Contributions
 
+## Q2 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: XDC mainnet sync configs](https://github.com/NethermindEth/nethermind/pull/10820#pullrequestreview-4044677907) - 2026-04-01
+* [Pull Request] [Support EIP-7949 and update hoodi spec accordingly](https://github.com/NethermindEth/nethermind/pull/10046) - 2026-04-01
+* [Review] [Review on: fix(evm): include initcode state gas in block accumulator on code deposit failure](https://github.com/NethermindEth/nethermind/pull/11001#pullrequestreview-4044821373) - 2026-04-01
+* [Review] [Review on: Refactor GethGenesisLoader, AutoDetectingChainSpecLoader and tests](https://github.com/NethermindEth/nethermind/pull/11018#pullrequestreview-4043992924) - 2026-04-01
+* [Review] [Review on: perf: Replace ConcurrentHashSet with lease-guarded HandlerBag in RetryCache (~75 MB alloc reduction)](https://github.com/NethermindEth/nethermind/pull/11009#pullrequestreview-4043629019) - 2026-04-01
+* [Review] [Review on: perf: Clear BlockAccessList and AccountChanges before caching blocks](https://github.com/NethermindEth/nethermind/pull/11014#pullrequestreview-4042830163) - 2026-04-01
+* [Commit] [Support EIP-7949 and update hoodi spec accordingly (#10046)](https://github.com/NethermindEth/nethermind/commit/89a0bdb0b44233582296c7bfc616dd3c5f6196db) - 2026-04-01
 ## Q1 2026
 
 

@@ -14,6 +14,22 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Update actions/checkout and gradle/actions to Node.js 24](https://github.com/besu-eth/besu/pull/10145) - 2026-04-01
 * [Pull Request] [Update GitHub Actions to Node.js 24 compatible versions](https://github.com/besu-eth/besu/pull/10144) - 2026-04-01
+* [Review] [Review on: Use besu-research-ubuntu-16 and remove runner splitting for unitTests](https://github.com/besu-eth/besu/pull/10159#pullrequestreview-4047817127) - 2026-04-02
+* [Review] [Review on: Return error response for unknown transaction hash in debug_traceTran…](https://github.com/besu-eth/besu/pull/10150#pullrequestreview-4047836111) - 2026-04-02
+* [Review] [Review on: fix: return error response for genesis block in debug_traceBlockByNumber](https://github.com/besu-eth/besu/pull/10133#pullrequestreview-4042379857) - 2026-04-01
+* [Review] [Review on: Bonsai to archive migration](https://github.com/besu-eth/besu/pull/9997#pullrequestreview-4041897642) - 2026-04-01
+* [Pull Request] [SystemCallProcessor don't log an error, just throw](https://github.com/besu-eth/besu/pull/10152) - 2026-04-01
+* [Review] [Review on: Fix flaky EngineForkchoiceUpdatedV2](https://github.com/besu-eth/besu/pull/10158#pullrequestreview-4047593387) - 2026-04-01
+* [Review] [Review on: Update actions/checkout and gradle/actions to Node.js 24](https://github.com/besu-eth/besu/pull/10145#pullrequestreview-4046542476) - 2026-04-01
+* [Pull Request] [eth_simulateV1 protocol spec for pre-merge blocks](https://github.com/besu-eth/besu/pull/10146) - 2026-04-01
+* [Review] [Review on: eth_simulateV1 protocol spec for pre-merge blocks](https://github.com/besu-eth/besu/pull/10146#pullrequestreview-4041820070) - 2026-04-01
+* [Review] [Review on: feat: BesuPluginServiceRegistrar refactoring to factor out the logic …](https://github.com/besu-eth/besu/pull/10142#pullrequestreview-4042401308) - 2026-04-01
+* [Review] [Review on: refactor: simplify SignatureAlgorithmFactory to eager singleton](https://github.com/besu-eth/besu/pull/10126#pullrequestreview-4041856546) - 2026-04-01
+* [Issue] [logging cleanup for invalid blocks](https://github.com/besu-eth/besu/issues/10160) - 2026-04-02
+* [Commit] [Update GitHub Actions to Node.js 24 compatible versions (#10144)](https://github.com/besu-eth/besu/commit/8c53eb1dc07f46e5b25eeb0d59de54424781ad85) - 2026-04-01
+* [Commit] [Update actions/checkout and gradle/actions to Node.js 24 (#10145)](https://github.com/besu-eth/besu/commit/87986fd5b4c9aa12bb2c0bb97b7e452f1e904465) - 2026-04-01
+* [Commit] [eth_simulateV1 protocol spec for pre-merge blocks (#10146)](https://github.com/besu-eth/besu/commit/0f198c5b9e72237aa2b52e2e9d2861c1e2ab6bd3) - 2026-04-01
+* [Commit] [debug trace alignment: add refund to StructLog and 0x prefix (#10116)](https://github.com/besu-eth/besu/commit/6aa32a433acb3a974459c9176042bbebd2fade1c) - 2026-04-01
 ## Q1 2026
 
 

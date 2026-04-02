@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 ## Contributions
 
+## Q2 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: Create pending payload attestations pool](https://github.com/Consensys/teku/pull/10536#pullrequestreview-4043826231) - 2026-04-01
+* [Commit] [Remove grgit - and make build compatible with git workingtree (#10543)](https://github.com/Consensys/teku/commit/a3c2d2746c8773b3b7875f6bea564122b67eb96a) - 2026-04-01
 ## Q1 2026
 
 

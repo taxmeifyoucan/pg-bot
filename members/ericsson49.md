@@ -8,6 +8,11 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Use editable install for compliance test generator](https://github.com/ethereum/consensus-specs/pull/5062) - 2026-04-01
 ## Q1 2026
 
 

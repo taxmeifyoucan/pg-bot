@@ -13,6 +13,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [fix: Remove stale flat state snapshots on fork change](https://github.com/NethermindEth/nethermind/pull/11015) - 2026-04-01
+* [Pull Request] [fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019) - 2026-04-01
+* [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4046226845) - 2026-04-01
+* [Review] [Review on: feat(taiko): add certain batch lookup RPC methods](https://github.com/NethermindEth/nethermind/pull/11021#pullrequestreview-4046592886) - 2026-04-01
+* [Review] [Review on: fix: dispose evicted envs from BlockCachePreWarmer pool](https://github.com/NethermindEth/nethermind/pull/11013#pullrequestreview-4042986243) - 2026-04-01
+* [Review] [Review on: fix(evm): include initcode state gas in block accumulator on code deposit failure](https://github.com/NethermindEth/nethermind/pull/11001#pullrequestreview-4043624286) - 2026-04-01
+* [Commit] [perf: Replace ConcurrentHashSet with lease-guarded HandlerBag in RetryCache (~75 MB alloc reduction) (#11009)](https://github.com/NethermindEth/nethermind/commit/433aed12b332aa63813221e4e0659144550e1d03) - 2026-04-01
+* [Commit] [perf: Clear BlockAccessList and AccountChanges before caching blocks (#11014)](https://github.com/NethermindEth/nethermind/commit/9a0d01b6b5069c774d3d113c8e5da301608c5ded) - 2026-04-01
 ## Q1 2026
 
 

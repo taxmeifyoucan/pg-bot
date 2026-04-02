@@ -8,6 +8,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 ## Contributions
 
+## Q2 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: Pre fork proposer preferences](https://github.com/OffchainLabs/prysm/pull/16588#pullrequestreview-4043696941) - 2026-04-01
+* [Review] [Review on: Add gRPC endpoint to submit signed execution payload bids](https://github.com/OffchainLabs/prysm/pull/16614#pullrequestreview-4043730060) - 2026-04-01
+* [Pull Request] [fix: add Gloas genesis block support](https://github.com/OffchainLabs/prysm/pull/16627) - 2026-04-01
+* [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4044985110) - 2026-04-01
+* [Issue] [Queue data column sidecars for deferred validation when block not yet seen](https://github.com/OffchainLabs/prysm/issues/16621) - 2026-04-01
 ## Q1 2026
 
 

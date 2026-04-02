@@ -8,6 +8,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q2 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [builder, exec: deduplicate BuiltBlock and AssembledBlock](https://github.com/erigontech/erigon/pull/20274) - 2026-04-01
+* [Pull Request] [execution/vm: optimize KZG point evaluation precompile (~24% faster)](https://github.com/erigontech/erigon/pull/20273) - 2026-04-01
+* [Review] [Review on: execmodule, stageloop: apply ERIGON_IN_MEM_HISTORY flag to ExecV3 path](https://github.com/erigontech/erigon/pull/20270#pullrequestreview-4044078051) - 2026-04-01
+* [Pull Request] [[r3.4] execution/cache: fix StateCache dropping deleted storage keys, causing stale reads](https://github.com/erigontech/erigon/pull/20271) - 2026-04-01
+* [Pull Request] [execution/cache: fix StateCache dropping deleted storage keys, causing stale reads](https://github.com/erigontech/erigon/pull/20265) - 2026-04-01
+* [Review] [Review on: Add caplin support for assertor minimal presets](https://github.com/erigontech/erigon/pull/20190#pullrequestreview-4042949656) - 2026-04-01
+* [Commit] [execution/vm: reduce heap allocations in precompile contracts (#20213)](https://github.com/erigontech/erigon/commit/e591d00a9457b9e12fe4f8f9c3544b6cc2c6d954) - 2026-04-01
+* [Commit] [execution/cache: fix StateCache dropping deleted storage keys, causing stale reads (#20265)](https://github.com/erigontech/erigon/commit/ec45be4827a2c3494a3cb54d49ad7660a7634102) - 2026-04-01
 ## Q1 2026
 
 

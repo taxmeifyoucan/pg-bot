@@ -8,6 +8,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 
 ## Contributions
 
+## Q2 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Review] [Review on: fix(provider): cap storage_v2 unwind history by MDBX tip](https://github.com/paradigmxyz/reth/pull/23335#pullrequestreview-4045763540) - 2026-04-01
+* [Review] [Review on: fix(net): avoid itertools Format panic in tracing log](https://github.com/paradigmxyz/reth/pull/23331#pullrequestreview-4045009978) - 2026-04-01
+* [Review] [Review on: refactor(reth-bench): make payload handling ethereum-only](https://github.com/paradigmxyz/reth/pull/23324#pullrequestreview-4043619902) - 2026-04-01
 ## Q1 2026
 
 
