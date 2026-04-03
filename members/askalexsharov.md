@@ -18,6 +18,21 @@ Team: Erigon
 * [Review] [Review on: execution/cache: fix StateCache dropping deleted storage keys, causing stale reads](https://github.com/erigontech/erigon/pull/20265#pullrequestreview-4044073312) - 2026-04-01
 * [Review] [Review on: cp: commitment history rebuild and associated commits](https://github.com/erigontech/erigon/pull/20266#pullrequestreview-4043424923) - 2026-04-01
 * [Review] [Review on: stageloop, execmodule: add ERIGON_IN_MEM_HISTORY env flag for faster exec](https://github.com/erigontech/erigon/pull/20245#pullrequestreview-4042093530) - 2026-04-01
+* [Pull Request] [[wip] `HistoryKeyTxNumIterFiles`: less copy/append](https://github.com/erigontech/erigon/pull/20286) - 2026-04-02
+* [Review] [Review on: [r3.4] qa-tests: add migrations to rpc performance test ](https://github.com/erigontech/erigon/pull/20284#pullrequestreview-4049051023) - 2026-04-02
+* [Pull Request] [stepSize: all tooling to use `tx.Debug().StepSize()` instead of `DefaultStepSize` constant](https://github.com/erigontech/erigon/pull/20280) - 2026-04-02
+* [Pull Request] [prune: update progress in all cases - on ChainTip](https://github.com/erigontech/erigon/pull/20279) - 2026-04-02
+* [Review] [Review on: [r3.4] dns: TTL-aware caching, negative cache, cross-platform nameserver config, jitter](https://github.com/erigontech/erigon/pull/20166#pullrequestreview-4048863722) - 2026-04-02
+* [Review] [Review on: cl: fall back to local head state when remote checkpoint sync fails (backport #19998)](https://github.com/erigontech/erigon/pull/20004#pullrequestreview-4048861671) - 2026-04-02
+* [Review] [Review on: cherry-pick: rpc: add storage key limit to eth_getProof (#20234)](https://github.com/erigontech/erigon/pull/20247#pullrequestreview-4048855244) - 2026-04-02
+* [Review] [Review on: [3.4] cherry-pick fix state root on eth_simulateV1 (#20062)](https://github.com/erigontech/erigon/pull/20256#pullrequestreview-4048851737) - 2026-04-02
+* [Review] [Review on: db/kv/remotedbserver: support PREV_DUP and PREV_NO_DUP](https://github.com/erigontech/erigon/pull/20258#pullrequestreview-4048424673) - 2026-04-02
+* [Pull Request] [pagedWriter and compressor to use same `COMPRESS_WORKERS` variable and configuration field in `agg`](https://github.com/erigontech/erigon/pull/20281) - 2026-04-02
+* [Review] [Review on: cp: stageloop, execmodule: add ERIGON_IN_MEM_HISTORY env flag for in-mem history reads (#20245)](https://github.com/erigontech/erigon/pull/20262#pullrequestreview-4048423553) - 2026-04-02
+* [Review] [Review on: commitment: per-goroutine ETL collectors for concurrent rebuild](https://github.com/erigontech/erigon/pull/20272#pullrequestreview-4047975296) - 2026-04-02
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026
 
 

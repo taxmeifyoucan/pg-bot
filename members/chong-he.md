@@ -12,6 +12,7 @@ Github: [@chong-he](https://github.com/chong-he)
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Review] [Review on: feat(execution_layer): log more detail when JWT auth fails](https://github.com/sigp/lighthouse/pull/9051#pullrequestreview-4042478308) - 2026-04-01
 * [Review] [Review on: engine_api: log exact reason for JWT auth failure](https://github.com/sigp/lighthouse/pull/9068#pullrequestreview-4042506294) - 2026-04-01
+* [Review] [Review on: logging: return local timestamps to node operators](https://github.com/sigp/lighthouse/pull/9072#pullrequestreview-4053805822) - 2026-04-03
 ## Q1 2026
 
 

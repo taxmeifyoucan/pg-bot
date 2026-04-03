@@ -20,6 +20,27 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: Add caplin support for assertor minimal presets](https://github.com/erigontech/erigon/pull/20190#pullrequestreview-4042949656) - 2026-04-01
 * [Commit] [execution/vm: reduce heap allocations in precompile contracts (#20213)](https://github.com/erigontech/erigon/commit/e591d00a9457b9e12fe4f8f9c3544b6cc2c6d954) - 2026-04-01
 * [Commit] [execution/cache: fix StateCache dropping deleted storage keys, causing stale reads (#20265)](https://github.com/erigontech/erigon/commit/ec45be4827a2c3494a3cb54d49ad7660a7634102) - 2026-04-01
+* [Review] [Review on: notifications, rpc: overlay publish, pre-commit dispatch, native types, embedded RPC overlay](https://github.com/erigontech/erigon/pull/20195#pullrequestreview-4049290275) - 2026-04-02
+* [Pull Request] [execution/chain: remove TestChainConfig alias](https://github.com/erigontech/erigon/pull/20299) - 2026-04-02
+* [Pull Request] [execution: make withdrawal/consolidation request contract addresses configurable](https://github.com/erigontech/erigon/pull/20298) - 2026-04-02
+* [Pull Request] [execution: fix EIP-8037 state gas reservoir restoration on child revert](https://github.com/erigontech/erigon/pull/20290) - 2026-04-02
+* [Review] [Review on: Add caplin support for assertor minimal presets](https://github.com/erigontech/erigon/pull/20190#pullrequestreview-4052392850) - 2026-04-02
+* [Review] [Review on: Revert "execution/cache: fix StateCache dropping deleted storage keys, causing stale reads"](https://github.com/erigontech/erigon/pull/20294#pullrequestreview-4052369381) - 2026-04-02
+* [Pull Request] [cmd: fix typo in flag beacon.api.ide.timeout](https://github.com/erigontech/erigon/pull/20289) - 2026-04-02
+* [Review] [Review on: docs: migrate v3.3 documentation from gitbook_docs_v3.3 to release/3.3](https://github.com/erigontech/erigon/pull/20263#pullrequestreview-4049462444) - 2026-04-02
+* [Review] [Review on: docs: port v3.3 accuracy fixes to main](https://github.com/erigontech/erigon/pull/20269#pullrequestreview-4049531128) - 2026-04-02
+* [Pull Request] [evm: EIP-8037 cleanups](https://github.com/erigontech/erigon/pull/20292) - 2026-04-02
+* [Review] [Review on: docs: port v3.3 accuracy fixes to release/3.4](https://github.com/erigontech/erigon/pull/20268#pullrequestreview-4049506370) - 2026-04-02
+* [Review] [Review on: docs: port Help Center updates and new namespace pages to main](https://github.com/erigontech/erigon/pull/20267#pullrequestreview-4049498993) - 2026-04-02
+* [Pull Request] [db/state: skip redundant state cache put for in-memory batch values](https://github.com/erigontech/erigon/pull/20283) - 2026-04-02
+* [Review] [Review on: [wip] AccessList: Pop methods instead Delete](https://github.com/erigontech/erigon/pull/19918#pullrequestreview-4049410676) - 2026-04-02
+* [Pull Request] [evm, execution/tests: benchmark infrastructure and t8n improvements](https://github.com/erigontech/erigon/pull/20288) - 2026-04-02
+* [Commit] [execution: deduplicate BuiltBlock and AssembledBlock (#20274)](https://github.com/erigontech/erigon/commit/1a203f723c3d251651796151bdfcf131efc9bb0b) - 2026-04-02
+* [Commit] [cmd: fix typo in flag beacon.api.ide.timeout (#20289)](https://github.com/erigontech/erigon/commit/fdebfaf044f999b33ac9111f5cf2b4227eecc8bd) - 2026-04-02
+* [Commit] [db/state: skip redundant state cache put for in-memory batch values (#20283)](https://github.com/erigontech/erigon/commit/68bfead41f5141d4777b944c3027d866daa06d18) - 2026-04-02
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 ## Q1 2026
 
 

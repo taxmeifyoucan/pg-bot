@@ -8,6 +8,11 @@ Team: Geth
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8141: add signatures list to outer tx](https://github.com/ethereum/EIPs/pull/11481) - 2026-04-02
 ## Q1 2026
 
 

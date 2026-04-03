@@ -13,6 +13,9 @@ Team: Erigon
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: execution/vm: reduce heap allocations in precompile contracts](https://github.com/erigontech/erigon/pull/20213#pullrequestreview-4044431504) - 2026-04-01
+* [Pull Request] [Revert "execution/cache: fix StateCache dropping deleted storage keys, causing stale reads"](https://github.com/erigontech/erigon/pull/20294) - 2026-04-02
+* [Review] [Review on: db/state: skip redundant state cache put for in-memory batch values](https://github.com/erigontech/erigon/pull/20283#pullrequestreview-4049673938) - 2026-04-02
+* [Review] [Review on: pagedWriter and compressor to use same `COMPRESS_WORKERS` variable and configuration field in `agg`](https://github.com/erigontech/erigon/pull/20281#pullrequestreview-4048551097) - 2026-04-02
 ## Q1 2026
 
 

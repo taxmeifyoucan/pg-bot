@@ -15,6 +15,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [QA: enable rpc-tests (integration) using go](https://github.com/erigontech/erigon/pull/20275) - 2026-04-01
 * [Review] [Review on: QA: enable rpc-tests (perf) using go](https://github.com/erigontech/erigon/pull/20212#pullrequestreview-4046271129) - 2026-04-01
 * [Pull Request] [rpc: replace EVM timeout goroutines with context.AfterFunc](https://github.com/erigontech/erigon/pull/20276) - 2026-04-01
+* [Pull Request] [rpc : fix eth_simulateV1 has storage ram batch](https://github.com/erigontech/erigon/pull/20293) - 2026-04-02
+* [Pull Request] [[3.4] cherry-pick protect execution TIP under RPC load (#19905)](https://github.com/erigontech/erigon/pull/20297) - 2026-04-02
+* [Commit] [QA: enable rpc-tests (perf) using go (#20212)](https://github.com/erigontech/erigon/commit/1d0ad3664d64b7f1381123f4b5abfc6b8179d82f) - 2026-04-02
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 ## Q1 2026
 
 

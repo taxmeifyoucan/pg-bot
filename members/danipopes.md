@@ -33,6 +33,28 @@ Team: Reth
 * [Commit] [fix: exclude dead-code jumps from has_dynamic_jumps recomputation (#223)](https://github.com/paradigmxyz/revmc/commit/838cac2eadbaccca08cf188a9502a80d0b3065d8) - 2026-04-01
 * [Commit] [feat(dedup): deduplicate reachable JUMPDEST blocks with terminal ops (#221)](https://github.com/paradigmxyz/revmc/commit/5d1973a25e186e1764e2d41227dc76a0015f10ae) - 2026-04-01
 * [Commit] [wethbench](https://github.com/paradigmxyz/revmc/commit/a7ee1f3dfac449e7ede331dce58f675e665592dd) - 2026-04-01
+
+* [Pull Request] [perf: constant propagation from abstract interpretation to codegen](https://github.com/paradigmxyz/revmc/pull/239) - 2026-04-02
+* [Pull Request] [feat: implement DUPN, SWAPN, EXCHANGE, SLOTNUM opcodes](https://github.com/paradigmxyz/revmc/pull/242) - 2026-04-03
+* [Pull Request] [feat: intra-block dead store elimination](https://github.com/paradigmxyz/revmc/pull/241) - 2026-04-02
+* [Pull Request] [feat(bytecode): add ic= and pad pc= in CFG display format](https://github.com/paradigmxyz/revmc/pull/240) - 2026-04-02
+* [Pull Request] [fix: register JITLoaderGDB symbol in ProcessSymbolsJITDylib for macOS debug support](https://github.com/paradigmxyz/revmc/pull/238) - 2026-04-02
+* [Pull Request] [perf: SSA-friendly stack length tracking with section-relative GEPs](https://github.com/paradigmxyz/revmc/pull/235) - 2026-04-02
+* [Pull Request] [ci: use macos-latest instead of depot-macos-latest](https://github.com/paradigmxyz/revmc/pull/237) - 2026-04-02
+* [Pull Request] [chore: add 300s max timeout per test to nextest](https://github.com/paradigmxyz/revmc/pull/236) - 2026-04-02
+* [Pull Request] [refactor: rename inspect_stack_length to inspect_stack](https://github.com/paradigmxyz/revmc/pull/234) - 2026-04-02
+* [Pull Request] [refactor: use BuiltinResult for builtin return types](https://github.com/paradigmxyz/revmc/pull/233) - 2026-04-02
+* [Commit] [feat(bytecode): add ic= and pad pc= in CFG display format (#240)](https://github.com/paradigmxyz/revmc/commit/5bdc0ebade6b324f049da2aa4fe4ce9b90f51622) - 2026-04-02
+* [Commit] [fix: register JITLoaderGDB symbol in ProcessSymbolsJITDylib for macOS debug support (#238)](https://github.com/paradigmxyz/revmc/commit/c7d729cae71e7b0cfabad0270d25c3d9b96e5f42) - 2026-04-02
+* [Commit] [chore(meta): rm -p from AGENTS.md](https://github.com/paradigmxyz/revmc/commit/cd48189b7509c101226bd0354b07e34a9a7bc6bb) - 2026-04-02
+* [Commit] [perf: SSA-friendly stack length tracking with section-relative GEPs (#235)](https://github.com/paradigmxyz/revmc/commit/970f15da513c508e7f22d10f5d1ca3dc16048706) - 2026-04-02
+* [Commit] [ci: use macos-latest instead of depot-macos-latest (#237)](https://github.com/paradigmxyz/revmc/commit/8de6adb0398f07282d489c0bdcfc30cdae15328f) - 2026-04-02
+* [Commit] [chore: add 300s max timeout per test to nextest (#236)](https://github.com/paradigmxyz/revmc/commit/21290f26b734623350f08a31932f1d85ffd0ee6a) - 2026-04-02
+* [Commit] [refactor: rename inspect_stack_length to inspect_stack (#234)](https://github.com/paradigmxyz/revmc/commit/62a39c78a2b0f729c68e24ac3318a211e8912981) - 2026-04-02
+* [Commit] [refactor: use BuiltinResult for builtin return types (#233)](https://github.com/paradigmxyz/revmc/commit/4d8394fa484661d3a1facccbfee7899d941fb5d3) - 2026-04-02
+* [Commit] [perf: skip stack memcpy on non-suspending returns (#232)](https://github.com/paradigmxyz/revmc/commit/8e0adfec0002b04de2bd1cf79d5067194869276f) - 2026-04-02
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 ## Q1 2026
 
 

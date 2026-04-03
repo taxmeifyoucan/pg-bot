@@ -24,6 +24,13 @@ Team: Reth
 * [Commit] [fix(net): avoid itertools Format panic in tracing log (#23331)](https://github.com/paradigmxyz/reth/commit/357188f91817691d123d777a101df87820443623) - 2026-04-01
 * [Commit] [chore: allow "writeable" in typos config (#23332)](https://github.com/paradigmxyz/reth/commit/082c36ebee634baacacc4ca556ae77f7f60df708) - 2026-04-01
 * [Commit] [refactor(reth-bench): make payload handling ethereum-only (#23324)](https://github.com/paradigmxyz/reth/commit/90dfaac5e29b4e090f9d55b99c52a99bed009647) - 2026-04-01
+* [Review] [Review on: feat: add bal rpc methods](https://github.com/paradigmxyz/reth/pull/23330#pullrequestreview-4049446567) - 2026-04-02
+* [Review] [Review on: perf(rpc): pre-allocate vectors in `eth_feeHistory`](https://github.com/paradigmxyz/reth/pull/23334#pullrequestreview-4049664773) - 2026-04-02
+* [Review] [Review on: fix(rpc): apply count only after after is consumed](https://github.com/paradigmxyz/reth/pull/23338#pullrequestreview-4049726626) - 2026-04-02
+* [Review] [Review on: chore(deps): bump the cargo-weekly group with 3 updates](https://github.com/paradigmxyz/reth/pull/23337#pullrequestreview-4049766224) - 2026-04-02
+* [Review] [Review on: chore(deps): bump actions/configure-pages from 5 to 6](https://github.com/paradigmxyz/reth/pull/23336#pullrequestreview-4049765917) - 2026-04-02
+* [Review] [Review on: docs(libmdbx): fix typo writeable -> writable](https://github.com/paradigmxyz/reth/pull/23339#pullrequestreview-4049645935) - 2026-04-02
+* [Review] [Review on: fix(rpc): avoid evicting cached entries on replacement](https://github.com/paradigmxyz/reth/pull/23329#pullrequestreview-4049653960) - 2026-04-02
 ## Q1 2026
 
 

@@ -8,6 +8,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 
 ## Contributions
 
+## Q2 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Modify source verification so include packages that are currently missing](https://github.com/besu-eth/besu/pull/10170) - 2026-04-02
+* [Review] [Review on: Modify source verification so include packages that are currently missing](https://github.com/besu-eth/besu/pull/10170#pullrequestreview-4050805520) - 2026-04-02
+* [Pull Request] [Only apply blob schedule bpoX if bpoXTime is available as well](https://github.com/besu-eth/besu/pull/10166) - 2026-04-02
+* [Commit] [include source verification so include packages that are currently missing (#10170)](https://github.com/besu-eth/besu/commit/a5d32d56760f2a2ab8b390d6794437fbf747e674) - 2026-04-02
+* [Commit] [Add sources to the verification to allow IDEs to check them (#10129)](https://github.com/besu-eth/besu/commit/5965063a93950387fb0319067d8ef6795cbaf036) - 2026-04-02
 ## Q1 2026
 
 

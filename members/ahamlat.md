@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Add SHL, SHR and SAR shift operations for EVM v2](https://github.com/besu-eth/besu/pull/10154) - 2026-04-01
 * [Review] [Review on: Wire up MulOperationOptimized and SubOperationOptimized to EVM ](https://github.com/besu-eth/besu/pull/10030#pullrequestreview-4042401814) - 2026-04-01
+* [Review] [Review on: Add SHL, SHR and SAR shift operations for EVM v2](https://github.com/besu-eth/besu/pull/10154#pullrequestreview-4048886467) - 2026-04-02
 ## Q1 2026
 
 

@@ -18,6 +18,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [seg reset doesn't remove chaindata anymore](https://github.com/erigontech/erigon/issues/20260) - 2026-04-01
 * [Commit] [execmodule, stageloop: apply ERIGON_IN_MEM_HISTORY flag to ExecV3 path (#20270)](https://github.com/erigontech/erigon/commit/38bd89d95e29390f9a11e773bc664b0beca1f93e) - 2026-04-01
 * [Commit] [stageloop, execmodule: add ERIGON_IN_MEM_HISTORY env flag for faster exec (#20245)](https://github.com/erigontech/erigon/commit/86f5c531f45be6659c8cb58458c948375b35a13c) - 2026-04-01
+* [Pull Request] [integration: add --yes to skip interactive prompts in commitment rebuild](https://github.com/erigontech/erigon/pull/20291) - 2026-04-02
+* [Pull Request] [rawdbreset: clear PruningValsProgress on stage_exec --reset](https://github.com/erigontech/erigon/pull/20296) - 2026-04-02
+* [Pull Request] [cmd/integration: enable historical commitment config during rebuild](https://github.com/erigontech/erigon/pull/20295) - 2026-04-02
+* [Review] [Review on: [wip] `HistoryKeyTxNumIterFiles`: less copy/append](https://github.com/erigontech/erigon/pull/20286#pullrequestreview-4050393969) - 2026-04-02
+* [Review] [Review on: prune: update progress in all cases - on ChainTip](https://github.com/erigontech/erigon/pull/20279#pullrequestreview-4048888906) - 2026-04-02
 ## Q1 2026
 
 

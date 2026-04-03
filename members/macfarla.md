@@ -30,6 +30,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Update actions/checkout and gradle/actions to Node.js 24 (#10145)](https://github.com/besu-eth/besu/commit/87986fd5b4c9aa12bb2c0bb97b7e452f1e904465) - 2026-04-01
 * [Commit] [eth_simulateV1 protocol spec for pre-merge blocks (#10146)](https://github.com/besu-eth/besu/commit/0f198c5b9e72237aa2b52e2e9d2861c1e2ab6bd3) - 2026-04-01
 * [Commit] [debug trace alignment: add refund to StructLog and 0x prefix (#10116)](https://github.com/besu-eth/besu/commit/6aa32a433acb3a974459c9176042bbebd2fade1c) - 2026-04-01
+* [Pull Request] [Snap check world state root](https://github.com/besu-eth/besu/pull/10164) - 2026-04-02
+* [Pull Request] [add block number (corresponding to blockhash) to admin_peers](https://github.com/besu-eth/besu/pull/10163) - 2026-04-02
+* [Review] [Review on: add block number (corresponding to blockhash) to admin_peers](https://github.com/besu-eth/besu/pull/10163#pullrequestreview-4048276197) - 2026-04-02
+* [Review] [Review on: Remove unitTest split support from update-test-reports workflow](https://github.com/besu-eth/besu/pull/10162#pullrequestreview-4047936036) - 2026-04-02
+* [Issue] [remove holesky network references](https://github.com/besu-eth/besu/issues/10161) - 2026-04-02
+* [Commit] [add block number (corresponding to blockhash) to admin_peers (#10163)](https://github.com/besu-eth/besu/commit/8f6a654d159cfe44270721eb9591b2c1055277b5) - 2026-04-02
 ## Q1 2026
 
 

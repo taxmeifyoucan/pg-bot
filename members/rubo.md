@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q2 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4049816392) - 2026-04-02
 ## Q1 2026
 
 

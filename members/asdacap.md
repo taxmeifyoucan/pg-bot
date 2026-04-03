@@ -15,6 +15,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: Remove stale flat state snapshots on fork change](https://github.com/NethermindEth/nethermind/pull/11015#pullrequestreview-4041271306) - 2026-04-01
 * [Commit] [refactor: Move merkleization metrics to IWorldStateScopeProvider (#10925)](https://github.com/NethermindEth/nethermind/commit/6227bfb7839d2f932c37b373bdc0d0306e026cdf) - 2026-04-01
 * [Commit] [Add stall timeout margin before FlatDb compactor warning (#10983)](https://github.com/NethermindEth/nethermind/commit/e5e42483a9df4f0ec46329dc9ed26d8b82f111f4) - 2026-04-01
+* [Review] [Review on: Parallel transaction execution with BALs](https://github.com/NethermindEth/nethermind/pull/9182#pullrequestreview-4053774349) - 2026-04-03
+* [Review] [Review on: refactor: extract BalStore from ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/10957#pullrequestreview-4050329064) - 2026-04-02
+* [Review] [Review on: Add BAL-driven prewarming with bulk trie reader](https://github.com/NethermindEth/nethermind/pull/11002#pullrequestreview-4050248759) - 2026-04-02
+* [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4048495836) - 2026-04-02
 ## Q1 2026
 
 

@@ -19,6 +19,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(cli): Add --until option for checklist generation](https://github.com/ethereum/execution-specs/pull/2593#pullrequestreview-4046825012) - 2026-04-01
 * [Pull Request] [chore(tests): fix import sorting and stale type annotation for static checks](https://github.com/ethereum/execution-specs/pull/2612) - 2026-04-01
 * [Review] [Review on: fix(test-forks): exclude transition target fork from `--until` boundary](https://github.com/ethereum/execution-specs/pull/2607#pullrequestreview-4044064932) - 2026-04-01
+* [Review] [Review on: feat(ci): split release builds across multiple runners; delete develop; stable becomes mainnet](https://github.com/ethereum/execution-specs/pull/2592#pullrequestreview-4050942962) - 2026-04-02
 ## Q1 2026
 
 

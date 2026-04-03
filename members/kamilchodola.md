@@ -15,8 +15,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat: Add testing_buildBlockV1 RPC endpoint and make IBlockProducerEnv IAsyncDisposable](https://github.com/NethermindEth/nethermind/pull/9901#pullrequestreview-4043061366) - 2026-04-01
 * [Review] [Review on: ci: replace sync-smoke-test with tiered sync CI strategy](https://github.com/NethermindEth/nethermind/pull/10932#pullrequestreview-4042330045) - 2026-04-01
 
+* [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4048648355) - 2026-04-02
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
+* [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02
+* [Commit] [chore: update default Nethermind image to testing_build_block_with_opcode_tracing](https://github.com/NethermindEth/gas-benchmarks/commit/ccc50cf770789e0e7dfe85525048a361855b1fd8) - 2026-04-02
+* [Commit] [chore: simplify release-workstream inputs](https://github.com/NethermindEth/gas-benchmarks/commit/4e2c7967f4ff4e964384f95b6375e3bc4f1353b7) - 2026-04-02
+* [Commit] [fix: add --repo flag to gh commands in summary job](https://github.com/NethermindEth/gas-benchmarks/commit/91696a01825f73b4a58dc2b1e52794c2e52f9f24) - 2026-04-02
+* [Commit] [flatDB enabling](https://github.com/NethermindEth/gas-benchmarks/commit/574aa70944830d4ae272834b14b4471d95dfb05a) - 2026-04-02
+* [Commit] [feat: add release-workstream orchestrator with semver versioning](https://github.com/NethermindEth/gas-benchmarks/commit/d45224f213bf4c1d1922477fe0031134d33c0070) - 2026-04-02
 ## Q1 2026
 
 

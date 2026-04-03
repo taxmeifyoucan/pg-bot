@@ -16,6 +16,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [eest: Use full path for skip files](https://github.com/status-im/nimbus-eth1/pull/4089) - 2026-04-01
 * [Issue] [Implement EIP-1898 for execution JSON-RPC API](https://github.com/status-im/nimbus-eth1/issues/4088) - 2026-04-01
 * [Commit] [eest: Run all eest tests from one binary (#4079)](https://github.com/status-im/nimbus-eth1/commit/d9ac2bc85d0725376ee90d494de7f0e422953d6c) - 2026-04-01
+* [Pull Request] [Register witness keys for code access via extCodeSize](https://github.com/status-im/nimbus-eth1/pull/4094) - 2026-04-02
+* [Commit] [Register witness keys for code access via extCodeSize (#4094)](https://github.com/status-im/nimbus-eth1/commit/342bd3cbaa74971a1e7ddbbed0530765702ec5c8) - 2026-04-02
+* [Commit] [Add zkevm eest tests with witness comparison (#4090)](https://github.com/status-im/nimbus-eth1/commit/d70f65d41ba66ab58529596cccf746a6e8cce907) - 2026-04-02
 ## Q1 2026
 
 

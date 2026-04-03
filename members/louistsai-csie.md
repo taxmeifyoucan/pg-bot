@@ -14,6 +14,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-benchmark): parametrize stateful benchmark stubs from `--address-stubs` ](https://github.com/ethereum/execution-specs/pull/2562#pullrequestreview-4042073362) - 2026-04-01
 * [Review] [Review on: fix(ci,test-benchmark): do not generate stateful benchmarks](https://github.com/ethereum/execution-specs/pull/2606#pullrequestreview-4042624370) - 2026-04-01
 * [Commit] [feat(test-benchmark): parametrize stateful benchmark stubs from `--address-stubs` (#2562)](https://github.com/ethereum/execution-specs/commit/3037ba4165faa4701e2a257c102b3a4eff30bc52) - 2026-04-01
+* [Pull Request] [fix(test-benchmark): account access subcall OOG issue](https://github.com/ethereum/execution-specs/pull/2614) - 2026-04-02
+* [Review] [Review on: feat(test-benchmark): add missing target opcodes for `SMOD`, `MOD` and `EXP`](https://github.com/ethereum/execution-specs/pull/2613#pullrequestreview-4048384965) - 2026-04-02
 ## Q1 2026
 
 

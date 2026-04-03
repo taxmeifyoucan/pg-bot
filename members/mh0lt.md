@@ -8,6 +8,12 @@ Team: Erigon
 
 ## Contributions
 
+## Q2 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: execution: deduplicate BuiltBlock and AssembledBlock](https://github.com/erigontech/erigon/pull/20274#pullrequestreview-4051954856) - 2026-04-02
+* [Review] [Review on: cmd: fix typo in flag beacon.api.ide.timeout](https://github.com/erigontech/erigon/pull/20289#pullrequestreview-4051947458) - 2026-04-02
 ## Q1 2026
 
 

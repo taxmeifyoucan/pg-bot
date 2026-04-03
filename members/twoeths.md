@@ -13,6 +13,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat: update data column sidecars for gloas](https://github.com/ChainSafe/lodestar/pull/8938#pullrequestreview-4042515890) - 2026-04-01
+* [Review] [Review on: feat: enhance processChainSegment for ePBS](https://github.com/ChainSafe/lodestar/pull/9103#pullrequestreview-4048989401) - 2026-04-02
+* [Pull Request] [feat: range sync for gloas](https://github.com/ChainSafe/lodestar/pull/9155) - 2026-04-02
+* [Review] [Review on: feat: fork-aware IBeaconStateView type narrowing](https://github.com/ChainSafe/lodestar/pull/9105#pullrequestreview-4047948106) - 2026-04-02
+* [Commit] [feat: enhance NetworkProcessor for gloas (#9025)](https://github.com/ChainSafe/lodestar/commit/e8407e965790276fae8a22dd7ff57358b9d785e1) - 2026-04-02
 ## Q1 2026
 
 

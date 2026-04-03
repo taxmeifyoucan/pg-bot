@@ -14,6 +14,8 @@ Team: Nimbus
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4091) - 2026-04-01
 * [Commit] [Snap sync maint update (#4091)](https://github.com/status-im/nimbus-eth1/commit/08a7361b0784c040d457f623e689245e02a871ad) - 2026-04-01
+* [Pull Request] [Snap sync resume and download session fixes](https://github.com/status-im/nimbus-eth1/pull/4097) - 2026-04-02
+* [Commit] [Snap sync resume and download session fixes (#4097)](https://github.com/status-im/nimbus-eth1/commit/14941c67a188f53d5bb4de2ed0857d560083ff97) - 2026-04-02
 ## Q1 2026
 
 

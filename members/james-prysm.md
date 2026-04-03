@@ -16,6 +16,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Refactor gloas process_execution_payload into distinct entry points](https://github.com/OffchainLabs/prysm/pull/16600#pullrequestreview-4046234799) - 2026-04-01
 * [Review] [Review on: Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626#pullrequestreview-4045403369) - 2026-04-01
 * [Review] [Review on: fix: add Gloas genesis block support](https://github.com/OffchainLabs/prysm/pull/16627#pullrequestreview-4045044658) - 2026-04-01
+* [Review] [Review on: Check pending deposits before applying builder deposits](https://github.com/OffchainLabs/prysm/pull/16532#pullrequestreview-4053135605) - 2026-04-02
+* [Review] [Review on: Fix zero head block hash in FCU at gloas genesis](https://github.com/OffchainLabs/prysm/pull/16629#pullrequestreview-4051468442) - 2026-04-02
+* [Commit] [allowing ptc duties for next epoch on grpc endpoint (#16608)](https://github.com/OffchainLabs/prysm/commit/73033a9d678f854546899c923d79a2f616239bf8) - 2026-04-02
+* [Commit] [Pre fork proposer preferences (#16588)](https://github.com/OffchainLabs/prysm/commit/a7b83c358abddc1ee988db5899b18b9e93d24926) - 2026-04-02
 ## Q1 2026
 
 

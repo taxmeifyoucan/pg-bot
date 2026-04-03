@@ -13,6 +13,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Bonsai to archive migration](https://github.com/besu-eth/besu/pull/9997#pullrequestreview-4047553906) - 2026-04-01
+* [Review] [Review on: Fix: QBFT produces blocks immediately when transactions arrive during empty block period](https://github.com/besu-eth/besu/pull/10153#pullrequestreview-4048468770) - 2026-04-02
 ## Q1 2026
 
 

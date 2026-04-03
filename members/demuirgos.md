@@ -8,6 +8,11 @@ Team: Nethermind
 
 ## Contributions
 
+## Q2 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Update contributors list in membership document](https://github.com/protocolguild/documentation/pull/483) - 2026-04-02
 ## Q1 2026
 
 

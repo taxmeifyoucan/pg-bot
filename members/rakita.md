@@ -13,6 +13,14 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [WIP bump alloy-evm to af60ab3, remove gas output from execute_transaction](https://github.com/paradigmxyz/reth/pull/23327) - 2026-04-01
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [perf: cache selfbalance and prevrandao values](https://github.com/bluealloy/revm/pull/3538) - 2026-04-02
+* [Pull Request] [feat: Add local context accessors to CallInput](https://github.com/bluealloy/revm/pull/3537) - 2026-04-02
+* [Commit] [feat: Add local context accessors to CallInput (#3537)](https://github.com/bluealloy/revm/commit/4f0db3676630dd7dda3499bda392653f153bc578) - 2026-04-02
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 ## Q1 2026
 
 

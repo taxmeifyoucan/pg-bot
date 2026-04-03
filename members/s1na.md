@@ -18,6 +18,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: internal/ethapi, eth/gasestimator: honor block overrides in estimate gas](https://github.com/ethereum/go-ethereum/pull/34081#pullrequestreview-4046182237) - 2026-04-01
 * [Review] [Review on: triedb/pathdb: implement history index pruner](https://github.com/ethereum/go-ethereum/pull/33999#pullrequestreview-4047403049) - 2026-04-01
 * [Review] [Review on: beacon/light: keep retrying checkpoint init if failed](https://github.com/ethereum/go-ethereum/pull/33966#pullrequestreview-4043376604) - 2026-04-01
+* [Pull Request] [core/state: various fixes in EIP-7928](https://github.com/ethereum/go-ethereum/pull/34641) - 2026-04-02
+* [Pull Request] [core/types: fix merging state mutations (EIP-7928)](https://github.com/ethereum/go-ethereum/pull/34640) - 2026-04-02
 ## Q1 2026
 
 

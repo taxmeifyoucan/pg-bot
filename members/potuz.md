@@ -17,6 +17,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4044963803) - 2026-04-01
 * [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4043457079) - 2026-04-01
 * [Commit] [Add gRPC endpoint to submit signed execution payload bids (#16614)](https://github.com/OffchainLabs/prysm/commit/29a0fd676004c549fc9ebfa0f2bf7de0de880d1b) - 2026-04-01
+* [Review] [Review on: Fix zero head block hash in FCU at gloas genesis](https://github.com/OffchainLabs/prysm/pull/16629#pullrequestreview-4051595233) - 2026-04-02
+* [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4051008888) - 2026-04-02
 ## Q1 2026
 
 

@@ -8,6 +8,11 @@ Team: Geth
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Review] [Review on: cmd/abigen: (v2) added a package-level error for event signature mismatch](https://github.com/ethereum/go-ethereum/pull/34076#pullrequestreview-4049453310) - 2026-04-02
 ## Q1 2026
 
 

@@ -14,6 +14,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(benchmark): add missing target opcodes for SMOD, MOD and EXP](https://github.com/ethereum/execution-specs/pull/2613) - 2026-04-01
 
+* [Commit] [feat(test-benchmark): add missing target opcodes for SMOD, MOD and EXP (#2613)](https://github.com/ethereum/execution-specs/commit/8ae9dcc11a95c9ee9a24ab2f94fd9b59d41edef6) - 2026-04-02
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01

@@ -13,6 +13,7 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use editable install for compliance test generator](https://github.com/ethereum/consensus-specs/pull/5062) - 2026-04-01
+* [Pull Request] [Add compliance tests CLI flags to facilitate coverage and profiling](https://github.com/ethereum/consensus-specs/pull/5066) - 2026-04-02
 ## Q1 2026
 
 

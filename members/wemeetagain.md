@@ -13,6 +13,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: test(ssz): align tree-view clone test names with transfer_cache semantics](https://github.com/ChainSafe/lodestar-z/pull/300#pullrequestreview-4045184642) - 2026-04-01
+* [Review] [Review on: feat: use high level zapi dsl ](https://github.com/ChainSafe/lodestar-z/pull/302#pullrequestreview-4050703970) - 2026-04-02
 ## Q1 2026
 
 

@@ -15,6 +15,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat: upgrade Claude CI/CD review workflow](https://github.com/NethermindEth/nethermind/pull/10854#pullrequestreview-4046353179) - 2026-04-01
 * [Pull Request] [feat(taiko): add certain batch lookup RPC methods](https://github.com/NethermindEth/nethermind/pull/11021) - 2026-04-01
 * [Review] [Review on: Add stall timeout margin before FlatDb compactor warning](https://github.com/NethermindEth/nethermind/pull/10983#pullrequestreview-4041966016) - 2026-04-01
+* [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4048567283) - 2026-04-02
+* [Commit] [feat(taiko): add certain batch lookup RPC methods (#11021)](https://github.com/NethermindEth/nethermind/commit/a9532d5faea610f1efc2355ba5afb459bc95b74d) - 2026-04-02
 ## Q1 2026
 
 

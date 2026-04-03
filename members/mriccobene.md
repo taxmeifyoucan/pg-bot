@@ -13,6 +13,9 @@ Team: Erigon
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: enable rpc-tests (perf) using go](https://github.com/erigontech/erigon/pull/20212#pullrequestreview-4042366535) - 2026-04-01
+* [Review] [Review on: ci: remove gitbook-release workflow](https://github.com/erigontech/erigon/pull/20197#pullrequestreview-4050316196) - 2026-04-02
+* [Pull Request] [[r3.4] qa-tests: add migrations to rpc performance test ](https://github.com/erigontech/erigon/pull/20284) - 2026-04-02
+* [Pull Request] [qa-tests: add migrations to rpc performance test](https://github.com/erigontech/erigon/pull/20282) - 2026-04-02
 ## Q1 2026
 
 

@@ -18,6 +18,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf: Replace ConcurrentHashSet with lease-guarded HandlerBag in RetryCache (~75 MB alloc reduction)](https://github.com/NethermindEth/nethermind/pull/11009#pullrequestreview-4042874010) - 2026-04-01
 * [Review] [Review on: perf: Clear BlockAccessList and AccountChanges before caching blocks](https://github.com/NethermindEth/nethermind/pull/11014#pullrequestreview-4041960194) - 2026-04-01
 * [Review] [Review on: refactor: extract BalStore from ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/10957#pullrequestreview-4042794147) - 2026-04-01
+* [Review] [Review on: feat(cache): Add AssociativeCache - lock-free set-associative cache with lower memory](https://github.com/NethermindEth/nethermind/pull/10991#pullrequestreview-4050021574) - 2026-04-02
+* [Pull Request] [Add Clear(releaseReferences) to AssociativeCache](https://github.com/NethermindEth/nethermind/pull/11024) - 2026-04-02
+* [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4049454557) - 2026-04-02
+* [Review] [Review on: feat(flat-state): remove read node dictionaries from SnapshotBundle](https://github.com/NethermindEth/nethermind/pull/10993#pullrequestreview-4049129572) - 2026-04-02
 ## Q1 2026
 
 

@@ -23,6 +23,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [Fix flaky EngineForkchoiceUpdatedV2 (#10158)](https://github.com/besu-eth/besu/commit/c02f35617510d3db75f084f7f8d9b88f754b5597) - 2026-04-01
 * [Commit] [Wire up MulOperationOptimized and SubOperationOptimized to EVM  (#10030)](https://github.com/besu-eth/besu/commit/a833928498abdae09fb2be5bf039f3093c6316fa) - 2026-04-01
 * [Commit] [refactor: simplify SignatureAlgorithmFactory to eager singleton (#10126)](https://github.com/besu-eth/besu/commit/73e47ffd39400881d832a1669d991fdf4ea15092) - 2026-04-01
+* [Pull Request] [Add MULMOD to EVMv2](https://github.com/besu-eth/besu/pull/10168) - 2026-04-02
+* [Review] [Review on: Add SHL, SHR and SAR shift operations for EVM v2](https://github.com/besu-eth/besu/pull/10154#pullrequestreview-4048071697) - 2026-04-02
+* [Review] [Review on: add block number (corresponding to blockhash) to admin_peers](https://github.com/besu-eth/besu/pull/10163#pullrequestreview-4048389134) - 2026-04-02
+* [Pull Request] [Remove unitTest split support from update-test-reports workflow](https://github.com/besu-eth/besu/pull/10162) - 2026-04-02
+* [Commit] [Remove unitTest split support from update-test-reports workflow (#10162)](https://github.com/besu-eth/besu/commit/b9cc5765c5e17b1087bf7da672bcb5bfcf9e82ad) - 2026-04-02
 ## Q1 2026
 
 

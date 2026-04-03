@@ -20,6 +20,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(ci,tooling): replace `tox` with `just` (#2555)](https://github.com/ethereum/execution-specs/commit/1e49423c5ab07a80f0949a26d1d851d6371d2154) - 2026-04-01
 * [Commit] [fix(test-forks): exclude transition target fork from `--until` boundary (#2607)](https://github.com/ethereum/execution-specs/commit/2df7916c6613a2eed5c6c3351d41791e2b6e8e8c) - 2026-04-01
 * [Commit] [fix(ci,test-benchmark): do not generate compute benchmarks (#2606)](https://github.com/ethereum/execution-specs/commit/2dd38cfb5679875d1d7ef150674eeaa4f488865f) - 2026-04-01
+* [Review] [Review on: feat(ci): split release builds across multiple runners; delete develop; stable becomes mainnet](https://github.com/ethereum/execution-specs/pull/2592#pullrequestreview-4051065119) - 2026-04-02
 ## Q1 2026
 
 

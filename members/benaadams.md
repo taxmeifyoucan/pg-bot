@@ -20,6 +20,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(evm): include initcode state gas in block accumulator on code deposit failure](https://github.com/NethermindEth/nethermind/pull/11001#pullrequestreview-4043624286) - 2026-04-01
 * [Commit] [perf: Replace ConcurrentHashSet with lease-guarded HandlerBag in RetryCache (~75 MB alloc reduction) (#11009)](https://github.com/NethermindEth/nethermind/commit/433aed12b332aa63813221e4e0659144550e1d03) - 2026-04-01
 * [Commit] [perf: Clear BlockAccessList and AccountChanges before caching blocks (#11014)](https://github.com/NethermindEth/nethermind/commit/9a0d01b6b5069c774d3d113c8e5da301608c5ded) - 2026-04-01
+* [Review] [Review on: feat(cache): Add AssociativeCache - lock-free set-associative cache with lower memory](https://github.com/NethermindEth/nethermind/pull/10991#pullrequestreview-4050272165) - 2026-04-02
+* [Review] [Review on: Add Clear(releaseReferences) to AssociativeCache](https://github.com/NethermindEth/nethermind/pull/11024#pullrequestreview-4050727629) - 2026-04-02
+* [Commit] [fix: Replace logger resolution with explicit type-based loggers (#11019)](https://github.com/NethermindEth/nethermind/commit/c65dd91f853d2567eabc12a84c39580e0806e48d) - 2026-04-02
 ## Q1 2026
 
 

@@ -8,6 +8,14 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 
 ## Contributions
 
+## Q2 2026
+
+
+[protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
+* [Pull Request] [Add Shape Blog post + Cover image](https://github.com/protocolguild/protocol-guild-site/pull/56) - 2026-04-02
+* [Commit] [Merge pull request #56 from pvecchiarelli/main](https://github.com/protocolguild/protocol-guild-site/commit/18fd9e1d605697d746047ce9ec75a4f0d65a7bb5) - 2026-04-02
+* [Commit] [Create 20260402-shape-takes-1-percent-pledge.md](https://github.com/protocolguild/protocol-guild-site/commit/ba69e2106d5c14fd76848dde1f6f68b7d9e4b6d8) - 2026-04-02
+* [Commit] [Add Shape Pledge Blog Cover Image](https://github.com/protocolguild/protocol-guild-site/commit/ad8001f4cd7ab2878d94f5b2e5b6dca0067ff82d) - 2026-04-02
 ## Q1 2026
 
 

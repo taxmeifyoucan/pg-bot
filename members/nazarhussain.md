@@ -8,6 +8,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2026
+
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Pull Request] [feat: use high level zapi dsl ](https://github.com/ChainSafe/lodestar-z/pull/302) - 2026-04-02
+* [Review] [Review on: feat: use high level zapi dsl ](https://github.com/ChainSafe/lodestar-z/pull/302#pullrequestreview-4049618128) - 2026-04-02
 ## Q1 2026
 
 

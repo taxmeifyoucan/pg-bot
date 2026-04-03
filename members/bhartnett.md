@@ -8,6 +8,12 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 
 ## Contributions
 
+## Q2 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Improve dynamic batch size settings](https://github.com/status-im/nimbus-eth1/pull/4096) - 2026-04-02
+* [Review] [Review on: Register witness keys for code access via extCodeSize](https://github.com/status-im/nimbus-eth1/pull/4094#pullrequestreview-4050262540) - 2026-04-02
 ## Q1 2026
 
 

@@ -8,6 +8,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Use github runners for all workflows](https://github.com/ethereum/consensus-specs/pull/5063) - 2026-04-02
+* [Pull Request] [Use self-hosted arm64 runners](https://github.com/ethereum/consensus-specs/pull/5064) - 2026-04-02
+* [Commit] [Use github runners for all workflows (#5063)](https://github.com/ethereum/consensus-specs/commit/befc75c258aa137d6c57af08b9e882cbff4f8199) - 2026-04-02
 ## Q1 2026
 
 

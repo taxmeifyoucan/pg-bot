@@ -16,6 +16,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Pass slot number to Gloas data column sidecar REST objects](https://github.com/status-im/nimbus-eth2/pull/8212) - 2026-04-01
 * [Pull Request] [Better error messages for unreachable LC dispatch logic](https://github.com/status-im/nimbus-eth2/pull/8211) - 2026-04-01
 * [Pull Request] [Replace Altair GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8210) - 2026-04-01
+* [Pull Request] [Replace Capella GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8217) - 2026-04-02
+* [Pull Request] [Cache participating balances from unrealized finality computation](https://github.com/status-im/nimbus-eth2/pull/8216) - 2026-04-02
 ## Q1 2026
 
 

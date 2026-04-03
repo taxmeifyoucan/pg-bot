@@ -6,6 +6,11 @@ Github: [@leolara](https://github.com/leolara)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [chore(tests): sync ported_static tests with forks/amsterdam](https://github.com/ethereum/execution-specs/pull/2615) - 2026-04-02
 ## Q1 2026
 
 

@@ -17,6 +17,8 @@ Team: Erigon
 * [Review] [Review on: [performance] Merge recent main into performance branch](https://github.com/erigontech/erigon/pull/20259#pullrequestreview-4042650113) - 2026-04-01
 * [Issue] [commitment: move deferred branch writes behind PatriciaContext](https://github.com/erigontech/erigon/issues/20278) - 2026-04-01
 * [Issue] [commitment: move warmup cache behind PatriciaContext](https://github.com/erigontech/erigon/issues/20277) - 2026-04-01
+* [Review] [Review on: Implement debug_executionWitness](https://github.com/erigontech/erigon/pull/20205#pullrequestreview-4049527419) - 2026-04-02
+* [Pull Request] [commitment: add TrieReader — stateless read-only Patricia trie navigation](https://github.com/erigontech/erigon/pull/20287) - 2026-04-02
 ## Q1 2026
 
 

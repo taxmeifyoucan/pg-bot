@@ -8,6 +8,12 @@ Team: EthereumJS
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
+* [Pull Request] [fix: resolve dependabot security vulnerabilities in dependencies](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4273) - 2026-04-02
+* [Commit] [fix: resolve dependabot security vulnerabilities in dependencies (#4273)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8d573a64158e6d1d2ee6e4f438d1e2846772f355) - 2026-04-02
 ## Q1 2026
 
 

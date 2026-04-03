@@ -17,6 +17,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [fix: add Gloas genesis block support](https://github.com/OffchainLabs/prysm/pull/16627) - 2026-04-01
 * [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4044985110) - 2026-04-01
 * [Issue] [Queue data column sidecars for deferred validation when block not yet seen](https://github.com/OffchainLabs/prysm/issues/16621) - 2026-04-01
+* [Pull Request] [Fix zero head block hash in FCU at gloas genesis](https://github.com/OffchainLabs/prysm/pull/16629) - 2026-04-02
+* [Commit] [Check pending deposits before applying builder deposits (#16532)](https://github.com/OffchainLabs/prysm/commit/9dba7c5319e277f1506fda007808c9d3917162a2) - 2026-04-02
+* [Commit] [core: implement cached PTC window in state (#16573)](https://github.com/OffchainLabs/prysm/commit/c02c057b7db7d35601788717de07c1de847d78c5) - 2026-04-02
+* [Commit] [fix: add Gloas genesis block support (#16627)](https://github.com/OffchainLabs/prysm/commit/b6ec6a8eec3fb757cafe83ddfcf9910bbbe87ec8) - 2026-04-02
+* [Commit] [Support gloas blob protobuf for readonly (#16618)](https://github.com/OffchainLabs/prysm/commit/3ca8c3ba3503ed24bb0e3d5634bde38503897fe1) - 2026-04-02
+* [Commit] [Refactor gloas process_execution_payload into distinct entry points (#16600)](https://github.com/OffchainLabs/prysm/commit/1092c7135fbe8cd9273180b930f37bda7614108e) - 2026-04-02
 ## Q1 2026
 
 

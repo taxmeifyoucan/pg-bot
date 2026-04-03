@@ -11,6 +11,7 @@ Github: [@satushh](https://github.com/satushh)
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [PTC duties no longer computed from a pre-Gloas state at the Fulu to Gloas fork boundary (#16619)](https://github.com/OffchainLabs/prysm/commit/209e46bab7a3a3763ed3a3acd316296bfdd4c130) - 2026-04-01
+* [Review] [Review on: fix: add Gloas genesis block support](https://github.com/OffchainLabs/prysm/pull/16627#pullrequestreview-4048978403) - 2026-04-02
 ## Q1 2026
 
 

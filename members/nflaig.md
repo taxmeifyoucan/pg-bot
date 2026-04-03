@@ -23,6 +23,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Properly handle starting from gloas at genesis](https://github.com/ChainSafe/lodestar/issues/9151) - 2026-04-01
 * [Issue] [Better mechanism to trigger `processExecutionPayload `](https://github.com/ChainSafe/lodestar/issues/9150) - 2026-04-01
 * [Commit] [feat: update data column sidecars for gloas (#8938)](https://github.com/ChainSafe/lodestar/commit/8b81ee6c3e0a218492f786eea4af8b6c50c3ed8f) - 2026-04-02
+* [Pull Request] [fix: avoid eager parent sync for pre-gloas beacon blocks](https://github.com/ChainSafe/lodestar/pull/9161) - 2026-04-02
+* [Review] [Review on: feat: enhance processChainSegment for ePBS](https://github.com/ChainSafe/lodestar/pull/9103#pullrequestreview-4053280718) - 2026-04-02
+* [Pull Request] [fix: restore seen root dedupe for column created block inputs](https://github.com/ChainSafe/lodestar/pull/9162) - 2026-04-02
+* [Pull Request] [fix: process payload attestations before payload envelope import](https://github.com/ChainSafe/lodestar/pull/9159) - 2026-04-02
+* [Review] [Review on: fix: process payload attestations before payload envelope import](https://github.com/ChainSafe/lodestar/pull/9159#pullrequestreview-4051798026) - 2026-04-02
+* [Pull Request] [fix: update attestation data index extraction](https://github.com/ChainSafe/lodestar/pull/9158) - 2026-04-02
+* [Review] [Review on: fix: update attestation data index extraction](https://github.com/ChainSafe/lodestar/pull/9158#pullrequestreview-4051142250) - 2026-04-02
 ## Q1 2026
 
 
