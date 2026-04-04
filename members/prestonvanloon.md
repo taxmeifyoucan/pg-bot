@@ -14,6 +14,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Fastssz update to allow generics](https://github.com/OffchainLabs/prysm/pull/16628) - 2026-04-01
 * [Commit] [Fastssz update to allow generics (#16628)](https://github.com/OffchainLabs/prysm/commit/108e2806cbc754db78c1f7bf913c66100be63a2d) - 2026-04-01
+* [Review] [Review on: `ProcessEffectiveBalanceUpdates`: Avoid copying a validator when the computed effective balance is unchanged.](https://github.com/OffchainLabs/prysm/pull/16631#pullrequestreview-4056253594) - 2026-04-03
 ## Q1 2026
 
 

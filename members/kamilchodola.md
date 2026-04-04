@@ -24,6 +24,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: add --repo flag to gh commands in summary job](https://github.com/NethermindEth/gas-benchmarks/commit/91696a01825f73b4a58dc2b1e52794c2e52f9f24) - 2026-04-02
 * [Commit] [flatDB enabling](https://github.com/NethermindEth/gas-benchmarks/commit/574aa70944830d4ae272834b14b4471d95dfb05a) - 2026-04-02
 * [Commit] [feat: add release-workstream orchestrator with semver versioning](https://github.com/NethermindEth/gas-benchmarks/commit/d45224f213bf4c1d1922477fe0031134d33c0070) - 2026-04-02
+* [Commit] [chore: split amsterdam genesis into per-chain variants (mainnet / perf-devnet-3)](https://github.com/NethermindEth/gas-benchmarks/commit/6b0db651c812c6731c468b11dd489bdcb76e7afb) - 2026-04-03
+* [Commit] [fix: always print pytest result line, show failures only when present](https://github.com/NethermindEth/gas-benchmarks/commit/7a55c2b34e5fadee2c67f5a3d5a2ad83293d91db) - 2026-04-03
+* [Commit] [fix: show pytest result line even when all tests pass](https://github.com/NethermindEth/gas-benchmarks/commit/468f692af588cf69c02612937aedd1259344d83a) - 2026-04-03
+* [Commit] [remove log arg](https://github.com/NethermindEth/gas-benchmarks/commit/d32f8b342c53d94382ee1cbf763c6601eade8fc2) - 2026-04-03
+* [Commit] [chore: replace full log dump with pytest short test summary](https://github.com/NethermindEth/gas-benchmarks/commit/8e8e95a93ae3097c4f359806bfa4e8ddf8932f1c) - 2026-04-03
+* [Commit] [fix: install gh CLI on stateful-generator runner](https://github.com/NethermindEth/gas-benchmarks/commit/a2cf514f8984ebdb9be22a2a9666d1f98a26cb0e) - 2026-04-03
 ## Q1 2026
 
 

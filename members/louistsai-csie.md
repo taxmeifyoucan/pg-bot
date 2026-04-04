@@ -16,6 +16,12 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [feat(test-benchmark): parametrize stateful benchmark stubs from `--address-stubs` (#2562)](https://github.com/ethereum/execution-specs/commit/3037ba4165faa4701e2a257c102b3a4eff30bc52) - 2026-04-01
 * [Pull Request] [fix(test-benchmark): account access subcall OOG issue](https://github.com/ethereum/execution-specs/pull/2614) - 2026-04-02
 * [Review] [Review on: feat(test-benchmark): add missing target opcodes for `SMOD`, `MOD` and `EXP`](https://github.com/ethereum/execution-specs/pull/2613#pullrequestreview-4048384965) - 2026-04-02
+* [Pull Request] [fix(test-benchmark): nonce mismatch issue in SLOAD & SSTORE benchmark](https://github.com/ethereum/execution-specs/pull/2617) - 2026-04-03
+* [Review] [Review on: feat(test-benchmark): add uncacheable precompile benchmark](https://github.com/ethereum/execution-specs/pull/2600#pullrequestreview-4054617367) - 2026-04-03
+* [Review] [Review on: fix(test-benchmark): account access subcall OOG issue](https://github.com/ethereum/execution-specs/pull/2614#pullrequestreview-4055542730) - 2026-04-03
+* [Review] [Review on: feat(benchmarks): add runtime delegated EIP-7702 benchmarks](https://github.com/ethereum/execution-specs/pull/2598#pullrequestreview-4055607912) - 2026-04-03
+* [Commit] [fix(test-benchmark): account access subcall OOG issue (#2614)](https://github.com/ethereum/execution-specs/commit/4bf8bbe745972edac5398ac32adacc1d007fa827) - 2026-04-03
+* [Commit] [refactor: update target opcode count display name (#2591)](https://github.com/ethereum/execution-specs/commit/89d153de10894ae74a1bbde428b0ec9b274e668b) - 2026-04-03
 ## Q1 2026
 
 

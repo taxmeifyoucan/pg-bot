@@ -23,6 +23,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [fix: add Gloas genesis block support (#16627)](https://github.com/OffchainLabs/prysm/commit/b6ec6a8eec3fb757cafe83ddfcf9910bbbe87ec8) - 2026-04-02
 * [Commit] [Support gloas blob protobuf for readonly (#16618)](https://github.com/OffchainLabs/prysm/commit/3ca8c3ba3503ed24bb0e3d5634bde38503897fe1) - 2026-04-02
 * [Commit] [Refactor gloas process_execution_payload into distinct entry points (#16600)](https://github.com/OffchainLabs/prysm/commit/1092c7135fbe8cd9273180b930f37bda7614108e) - 2026-04-02
+* [Pull Request] [Use `ValidatorIndex` type for `proposer_lookahead` in beacon state proto](https://github.com/OffchainLabs/prysm/pull/16634) - 2026-04-03
+* [Pull Request] [Downgrade genesis forkchoice balance underflow warning to debug](https://github.com/OffchainLabs/prysm/pull/16633) - 2026-04-03
+* [Review] [Review on: `ProcessEffectiveBalanceUpdates`: Avoid copying a validator when the computed effective balance is unchanged.](https://github.com/OffchainLabs/prysm/pull/16631#pullrequestreview-4056437674) - 2026-04-03
+* [Commit] [Fix zero head block hash in FCU at gloas genesis (#16629)](https://github.com/OffchainLabs/prysm/commit/f79d2efc6ee5005969b6630ee74a5c7dee403320) - 2026-04-03
 ## Q1 2026
 
 

@@ -31,6 +31,13 @@ Team: Erigon
 * [Review] [Review on: cp: stageloop, execmodule: add ERIGON_IN_MEM_HISTORY env flag for in-mem history reads (#20245)](https://github.com/erigontech/erigon/pull/20262#pullrequestreview-4048423553) - 2026-04-02
 * [Review] [Review on: commitment: per-goroutine ETL collectors for concurrent rebuild](https://github.com/erigontech/erigon/pull/20272#pullrequestreview-4047975296) - 2026-04-02
 
+* [Pull Request] [up gql and grpc](https://github.com/erigontech/erigon/pull/20304) - 2026-04-03
+* [Review] [Review on: docs: port Help Center updates to release/3.4](https://github.com/erigontech/erigon/pull/20305#pullrequestreview-4055220123) - 2026-04-03
+* [Review] [Review on: integration: add --yes to skip interactive prompts in commitment rebuild](https://github.com/erigontech/erigon/pull/20291#pullrequestreview-4053983056) - 2026-04-03
+* [Pull Request] [integrity: blk-range chk to pre-build "changed keys" index before calc state root](https://github.com/erigontech/erigon/pull/20302) - 2026-04-03
+* [Review] [Review on: cmd/integration: enable historical commitment config during rebuild](https://github.com/erigontech/erigon/pull/20295#pullrequestreview-4053981782) - 2026-04-03
+* [Review] [Review on: prune: clear PruningValsProgress on stage_exec --reset](https://github.com/erigontech/erigon/pull/20296#pullrequestreview-4053979369) - 2026-04-03
+* [Review] [Review on: [3.4] cherry-pick protect execution TIP under RPC load (#19905)](https://github.com/erigontech/erigon/pull/20297#pullrequestreview-4053956802) - 2026-04-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026

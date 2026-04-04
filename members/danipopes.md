@@ -53,6 +53,16 @@ Team: Reth
 * [Commit] [refactor: rename inspect_stack_length to inspect_stack (#234)](https://github.com/paradigmxyz/revmc/commit/62a39c78a2b0f729c68e24ac3318a211e8912981) - 2026-04-02
 * [Commit] [refactor: use BuiltinResult for builtin return types (#233)](https://github.com/paradigmxyz/revmc/commit/4d8394fa484661d3a1facccbfee7899d941fb5d3) - 2026-04-02
 * [Commit] [perf: skip stack memcpy on non-suspending returns (#232)](https://github.com/paradigmxyz/revmc/commit/8e0adfec0002b04de2bd1cf79d5067194869276f) - 2026-04-02
+* [Pull Request] [refactor: expose process methods on section analysis types](https://github.com/paradigmxyz/revmc/pull/246) - 2026-04-04
+* [Pull Request] [refactor: replace inline field loads with builtins for ADDRESS, CALLER, CALLVALUE, RETURNDATASIZE](https://github.com/paradigmxyz/revmc/pull/245) - 2026-04-03
+* [Pull Request] [refactor(asm): tokenizer with Token enum, #define macros, RET_WORD builtin](https://github.com/paradigmxyz/revmc/pull/244) - 2026-04-03
+* [Pull Request] [test(codegen): drop inspect_stack and expand test suite](https://github.com/paradigmxyz/revmc/pull/243) - 2026-04-03
+* [Commit] [refactor: expose process methods on section analysis types (#246)](https://github.com/paradigmxyz/revmc/commit/ae2789539b06554231b50d1ef7b42fb2ec1ed6df) - 2026-04-04
+* [Commit] [refactor: replace inline field loads with builtins for ADDRESS, CALLER, CALLVALUE, RETURNDATASIZE (#245)](https://github.com/paradigmxyz/revmc/commit/f970d3eba999ee4fbdbaa1b89ae02151b6731da1) - 2026-04-04
+* [Commit] [refactor(asm): tokenizer with Token enum, #define macros, RET_WORD builtin (#244)](https://github.com/paradigmxyz/revmc/commit/92699678b6df9da835f983d9e13beb574d23dca6) - 2026-04-04
+* [Commit] [test(codegen): drop inspect_stack and expand test suite (#243)](https://github.com/paradigmxyz/revmc/commit/65b08bde223b08064055dcccec999718810b4d35) - 2026-04-03
+* [Commit] [perf: constant propagation from abstract interpretation to codegen (#239)](https://github.com/paradigmxyz/revmc/commit/3d40172de212997335f55fd5d38ef8355ab5abc4) - 2026-04-03
+* [Commit] [feat: implement DUPN, SWAPN, EXCHANGE, SLOTNUM opcodes (#242)](https://github.com/paradigmxyz/revmc/commit/cef5ff72aff205cb500b288d547a5aa4190e2004) - 2026-04-03
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 ## Q1 2026

@@ -20,6 +20,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(tests): fix import sorting and stale type annotation for static checks](https://github.com/ethereum/execution-specs/pull/2612) - 2026-04-01
 * [Review] [Review on: fix(test-forks): exclude transition target fork from `--until` boundary](https://github.com/ethereum/execution-specs/pull/2607#pullrequestreview-4044064932) - 2026-04-01
 * [Review] [Review on: feat(ci): split release builds across multiple runners; delete develop; stable becomes mainnet](https://github.com/ethereum/execution-specs/pull/2592#pullrequestreview-4050942962) - 2026-04-02
+
+* [Review] [Review on: fix(test-benchmark): account access subcall OOG issue](https://github.com/ethereum/execution-specs/pull/2614#pullrequestreview-4055608504) - 2026-04-03
+* [Review] [Review on: feat(test-benchmark): add precompile macro for precompile benchmarks](https://github.com/ethereum/execution-specs/pull/2591#pullrequestreview-4054966461) - 2026-04-03
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Issue] [feat: consume direct support for all EL clients with engine fixture runners](https://github.com/ethereum/execution-spec-tests/issues/2319) - 2026-04-03
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [cmd/evm: add enginetest command for direct engine fixture execution](https://github.com/ethereum/go-ethereum/pull/34650) - 2026-04-03
 ## Q1 2026
 
 

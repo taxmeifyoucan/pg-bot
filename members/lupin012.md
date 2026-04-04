@@ -19,8 +19,14 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[3.4] cherry-pick protect execution TIP under RPC load (#19905)](https://github.com/erigontech/erigon/pull/20297) - 2026-04-02
 * [Commit] [QA: enable rpc-tests (perf) using go (#20212)](https://github.com/erigontech/erigon/commit/1d0ad3664d64b7f1381123f4b5abfc6b8179d82f) - 2026-04-02
 
+* [Pull Request] [QA: add backup+migration on gnosis workflow](https://github.com/erigontech/erigon/pull/20317) - 2026-04-03
+* [Pull Request] [rpc: fix estimateGas returning -32000 instead of error code 3 on revert](https://github.com/erigontech/erigon/pull/20314) - 2026-04-03
+* [Pull Request] [rpc: fix block overrides ignored in eth_estimateGas](https://github.com/erigontech/erigon/pull/20307) - 2026-04-03
+* [Pull Request] [rpc:  uniform_503_on_overload](https://github.com/erigontech/erigon/pull/20303) - 2026-04-03
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
+* [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
+* [Commit] [integration  eth_simulateV1: with storage collision (#544)](https://github.com/erigontech/rpc-tests/commit/615d1181e846cb5aebf555f316c4dbf489e8979f) - 2026-04-03
 ## Q1 2026
 
 

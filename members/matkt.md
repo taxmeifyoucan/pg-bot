@@ -11,6 +11,7 @@ Github: [@matkt](https://github.com/matkt)
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Commit] [Propose Miroslav Kovář as a maintainer (#10033)](https://github.com/besu-eth/besu/commit/d6a31ed96a82797645081aa5a899ef5a7e301c8e) - 2026-04-01
+* [Review] [Review on: snap sync - apply BALs before flat db heal](https://github.com/besu-eth/besu/pull/10151#pullrequestreview-4055874336) - 2026-04-03
 ## Q1 2026
 
 

@@ -19,6 +19,9 @@ Team: Erigon
 * [Issue] [commitment: move warmup cache behind PatriciaContext](https://github.com/erigontech/erigon/issues/20277) - 2026-04-01
 * [Review] [Review on: Implement debug_executionWitness](https://github.com/erigontech/erigon/pull/20205#pullrequestreview-4049527419) - 2026-04-02
 * [Pull Request] [commitment: add TrieReader — stateless read-only Patricia trie navigation](https://github.com/erigontech/erigon/pull/20287) - 2026-04-02
+* [Pull Request] [commitment: replace trace bool with io.Writer for structured trace output](https://github.com/erigontech/erigon/pull/20316) - 2026-04-03
+* [Pull Request] [commitment: remove TxNum() from PatriciaContext interface](https://github.com/erigontech/erigon/pull/20308) - 2026-04-03
+* [Pull Request] [commitment: eliminate CellGetter callback — hashRow + pure EncodeBranch](https://github.com/erigontech/erigon/pull/20306) - 2026-04-03
 ## Q1 2026
 
 

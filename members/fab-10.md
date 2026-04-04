@@ -19,6 +19,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Enable NullAway static null-safety analysis for util module](https://github.com/besu-eth/besu/pull/10046#pullrequestreview-4049173543) - 2026-04-02
 * [Review] [Review on: Modify source verification so include packages that are currently missing](https://github.com/besu-eth/besu/pull/10170#pullrequestreview-4050755642) - 2026-04-02
 * [Review] [Review on: Add sources to the verification](https://github.com/besu-eth/besu/pull/10129#pullrequestreview-4049322612) - 2026-04-02
+* [Pull Request] [Layered txpool: enable balance check by default](https://github.com/besu-eth/besu/pull/10175) - 2026-04-03
+* [Review] [Review on: Layered txpool: enable balance check by default](https://github.com/besu-eth/besu/pull/10175#pullrequestreview-4057120347) - 2026-04-03
+* [Review] [Review on: Upgrade RocksDB version from 9.7.3 to 10.6.2](https://github.com/besu-eth/besu/pull/9767#pullrequestreview-4055157679) - 2026-04-03
 ## Q1 2026
 
 

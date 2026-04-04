@@ -15,6 +15,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Emit SSE: `execution_payload`](https://github.com/sigp/lighthouse/pull/9065#pullrequestreview-4040969234) - 2026-04-01
 * [Issue] [`timestamp_now()` is defined in `validator_monitor` but used as a general-purpose utility](https://github.com/sigp/lighthouse/issues/9077) - 2026-04-01
 * [Review] [Review on: Cell Dissemination (Partial messages)](https://github.com/sigp/lighthouse/pull/8314#pullrequestreview-4041498296) - 2026-04-01
+* [Pull Request] [Add test for protocol registration completeness](https://github.com/sigp/lighthouse/pull/8920) - 2026-04-03
 ## Q1 2026
 
 

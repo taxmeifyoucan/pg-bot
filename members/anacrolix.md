@@ -6,6 +6,12 @@ Github: [@anacrolix](https://github.com/anacrolix)
 
 ## Contributions
 
+## Q2 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Issue] [ci: move flaky tests off main/release branch triggers](https://github.com/erigontech/erigon/issues/20301) - 2026-04-03
+* [Issue] [ci: attribute scheduled and flaky test failures to the originating commit](https://github.com/erigontech/erigon/issues/20300) - 2026-04-03
 ## Q1 2026
 
 

@@ -7,6 +7,11 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 
 ## Contributions
 
+## Q2 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Review] [Review on: fix: use deposit_requests_start_index in Gloas process_operations](https://github.com/grandinetech/grandine/pull/654#pullrequestreview-4055629882) - 2026-04-03
 ## Q1 2026
 
 

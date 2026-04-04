@@ -8,6 +8,19 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [chore(tooling): state db support for t8n](https://github.com/ethereum/execution-specs/pull/2616) - 2026-04-03
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Review] [Review on: cmd/evm: add enginetest command for direct engine fixture execution](https://github.com/ethereum/go-ethereum/pull/34650#pullrequestreview-4056846336) - 2026-04-03
+* [Pull Request] [core/vm: Idea for enabling an experimental evm](https://github.com/ethereum/go-ethereum/pull/34645) - 2026-04-03
+* [Review] [Review on: core/vm: Idea for enabling an experimental evm](https://github.com/ethereum/go-ethereum/pull/34645#pullrequestreview-4054823803) - 2026-04-03
+
+[eth-act/ere](https://github.com/eth-act/ere)
+* [Issue] [Add Venus](https://github.com/eth-act/ere/issues/327) - 2026-04-03
 ## Q1 2026
 
 

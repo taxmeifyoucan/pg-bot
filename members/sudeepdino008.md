@@ -23,6 +23,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cmd/integration: enable historical commitment config during rebuild](https://github.com/erigontech/erigon/pull/20295) - 2026-04-02
 * [Review] [Review on: [wip] `HistoryKeyTxNumIterFiles`: less copy/append](https://github.com/erigontech/erigon/pull/20286#pullrequestreview-4050393969) - 2026-04-02
 * [Review] [Review on: prune: update progress in all cases - on ChainTip](https://github.com/erigontech/erigon/pull/20279#pullrequestreview-4048888906) - 2026-04-02
+* [Pull Request] [[r3.4] db/state: fix CursorHeap tie-break to prefer RAM over DB over FILE](https://github.com/erigontech/erigon/pull/20318) - 2026-04-03
+* [Review] [Review on: integrity: blk-range chk to pre-build "changed keys" index before calc state root](https://github.com/erigontech/erigon/pull/20302#pullrequestreview-4054471232) - 2026-04-03
+* [Commit] [integration: add --yes to skip interactive prompts in commitment rebuild (#20291)](https://github.com/erigontech/erigon/commit/acc98984b5da6be8ad10997c67feed4cbdfa964b) - 2026-04-03
 ## Q1 2026
 
 

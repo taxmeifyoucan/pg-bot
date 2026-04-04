@@ -6,6 +6,12 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 
 ## Contributions
 
+## Q2 2026
+
+
+[NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
+* [Commit] [bflat: override RhpThrowEx and FailFast](https://github.com/NethermindEth/bflat-riscv64/commit/ce97bb96fb8a5c1b80d1108e5913208a856bad79) - 2026-04-03
+* [Commit] [modules/rhp: faster fail with poisoned pointer](https://github.com/NethermindEth/bflat-riscv64/commit/607cf57b1ddfe3a71d615ed83d269f83ce30951d) - 2026-04-03
 ## Q1 2026
 
 

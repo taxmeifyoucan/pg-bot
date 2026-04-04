@@ -6,6 +6,11 @@ Github: [@stdevmac](https://github.com/stdevmac)
 
 ## Contributions
 
+## Q2 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: ci: replace sync-smoke-test with tiered sync CI strategy](https://github.com/NethermindEth/nethermind/pull/10932#pullrequestreview-4057039060) - 2026-04-03
 ## Q1 2026
 
 

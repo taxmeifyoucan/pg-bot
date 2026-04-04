@@ -15,6 +15,15 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf: faster `GoldilocksPackedNeon` field operations](https://github.com/Plonky3/Plonky3/pull/1515#pullrequestreview-4045574128) - 2026-04-01
 * [Review] [Review on: fix compilation on aarch64 without neon ](https://github.com/Plonky3/Plonky3/pull/1514#pullrequestreview-4044127021) - 2026-04-01
 * [Review] [Review on: fix: make test suite pass in release mode](https://github.com/Plonky3/Plonky3/pull/1513#pullrequestreview-4042486214) - 2026-04-01
+* [Pull Request] [core: clippy fix](https://github.com/Plonky3/Plonky3/pull/1526) - 2026-04-03
+* [Pull Request] [core: couple more compile time assertions](https://github.com/Plonky3/Plonky3/pull/1525) - 2026-04-03
+* [Review] [Review on: feat(mersenne-31): add packed round constants for Poseidon1 AVX2 / AVX512](https://github.com/Plonky3/Plonky3/pull/1520#pullrequestreview-4056178327) - 2026-04-03
+* [Review] [Review on: field: add division ops for packed binomial extension](https://github.com/Plonky3/Plonky3/pull/1512#pullrequestreview-4056325827) - 2026-04-03
+* [Pull Request] [whir: full integration from whir-p3](https://github.com/Plonky3/Plonky3/pull/1523) - 2026-04-03
+* [Review] [Review on: fix(fri): split InvalidProofShape into typed verifier errors](https://github.com/Plonky3/Plonky3/pull/1519#pullrequestreview-4056073139) - 2026-04-03
+* [Review] [Review on: perf: use `PackedGoldilocksNeon` only for hash operations](https://github.com/Plonky3/Plonky3/pull/1517#pullrequestreview-4056055695) - 2026-04-03
+* [Review] [Review on: feat: add Quintic extension impl for SymbolicExpression](https://github.com/Plonky3/Plonky3/pull/1522#pullrequestreview-4056042699) - 2026-04-03
+* [Issue] [test(fri): add verifier error path tests for all typed FriError variants](https://github.com/Plonky3/Plonky3/issues/1524) - 2026-04-03
 ## Q1 2026
 
 

@@ -20,6 +20,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Fix zero head block hash in FCU at gloas genesis](https://github.com/OffchainLabs/prysm/pull/16629#pullrequestreview-4051468442) - 2026-04-02
 * [Commit] [allowing ptc duties for next epoch on grpc endpoint (#16608)](https://github.com/OffchainLabs/prysm/commit/73033a9d678f854546899c923d79a2f616239bf8) - 2026-04-02
 * [Commit] [Pre fork proposer preferences (#16588)](https://github.com/OffchainLabs/prysm/commit/a7b83c358abddc1ee988db5899b18b9e93d24926) - 2026-04-02
+* [Pull Request] [allow mid epoch active validators to retrigger getting duties](https://github.com/OffchainLabs/prysm/pull/16632) - 2026-04-03
+* [Review] [Review on: `ProcessEffectiveBalanceUpdates`: Avoid copying a validator when the computed effective balance is unchanged.](https://github.com/OffchainLabs/prysm/pull/16631#pullrequestreview-4055524360) - 2026-04-03
 ## Q1 2026
 
 

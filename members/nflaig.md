@@ -30,6 +30,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: process payload attestations before payload envelope import](https://github.com/ChainSafe/lodestar/pull/9159#pullrequestreview-4051798026) - 2026-04-02
 * [Pull Request] [fix: update attestation data index extraction](https://github.com/ChainSafe/lodestar/pull/9158) - 2026-04-02
 * [Review] [Review on: fix: update attestation data index extraction](https://github.com/ChainSafe/lodestar/pull/9158#pullrequestreview-4051142250) - 2026-04-02
+* [Review] [Review on: fix: create FULL variant for gloas genesis and allow block production when stalled with peers](https://github.com/ChainSafe/lodestar/pull/9153#pullrequestreview-4056672052) - 2026-04-03
+* [Review] [Review on: perf: replace O(N) gossip message count getters with maintained counters](https://github.com/ChainSafe/lodestar/pull/9170#pullrequestreview-4055784665) - 2026-04-03
+* [Review] [Review on: feat: fork-aware IBeaconStateView type narrowing](https://github.com/ChainSafe/lodestar/pull/9105#pullrequestreview-4056346364) - 2026-04-03
+* [Review] [Review on: fix: pass prepareSlot to fork choice head for Gloas FULL vs EMPTY tie-breaker](https://github.com/ChainSafe/lodestar/pull/9164#pullrequestreview-4056291826) - 2026-04-03
+* [Review] [Review on: fix: correct proposer boost logic and getParentNodeIndex for gloas](https://github.com/ChainSafe/lodestar/pull/9165#pullrequestreview-4056259290) - 2026-04-03
+* [Pull Request] [chore: v1.42.0 release](https://github.com/ChainSafe/lodestar/pull/9169) - 2026-04-03
+* [Review] [Review on: chore: v1.42.0 release](https://github.com/ChainSafe/lodestar/pull/9169#pullrequestreview-4055716204) - 2026-04-03
+* [Pull Request] [fix: process fulu data columns without waiting for block](https://github.com/ChainSafe/lodestar/pull/9166) - 2026-04-03
+* [Review] [Review on: fix: process fulu data columns without waiting for block](https://github.com/ChainSafe/lodestar/pull/9166#pullrequestreview-4055096900) - 2026-04-03
+* [Commit] [fix: process payload attestations before payload envelope import (#9159)](https://github.com/ChainSafe/lodestar/commit/bc0be71fb05ef1e1ad1a2d709f44da400f06269c) - 2026-04-03
+* [Commit] [fix: update attestation data index extraction (#9158)](https://github.com/ChainSafe/lodestar/commit/89ddaaeed26fc24cad3e5ebb4c563acaab04a8eb) - 2026-04-03
 ## Q1 2026
 
 

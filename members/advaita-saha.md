@@ -14,6 +14,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [include enr in the `admin_nodeInfo` rpc](https://github.com/status-im/nimbus-eth1/pull/4087) - 2026-04-01
 * [Commit] [include enr in the `admin_nodeInfo` rpc (#4087)](https://github.com/status-im/nimbus-eth1/commit/3f84674726f7962f39c50aec6b2b40e096888916) - 2026-04-01
+* [Review] [Review on: FIx:minor fixes to receipt rpc endpoints serialization compatibility](https://github.com/status-im/nimbus-eth1/pull/4092#pullrequestreview-4055214602) - 2026-04-03
+* [Review] [Review on: Improve dynamic batch size settings](https://github.com/status-im/nimbus-eth1/pull/4096#pullrequestreview-4055491847) - 2026-04-03
 ## Q1 2026
 
 

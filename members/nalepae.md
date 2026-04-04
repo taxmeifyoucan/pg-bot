@@ -13,6 +13,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: Support gloas blob protobuf for readonly](https://github.com/OffchainLabs/prysm/pull/16618#pullrequestreview-4044094953) - 2026-04-01
+* [Pull Request] [`ProcessEffectiveBalanceUpdates`: Avoid copying a validator when the computed effective balance is unchanged.](https://github.com/OffchainLabs/prysm/pull/16631) - 2026-04-03
+* [Issue] [Validators with `0x00...` withdrawal credentials and balance > 33.25 ETH are systematically considered dirty](https://github.com/OffchainLabs/prysm/issues/16630) - 2026-04-03
 ## Q1 2026
 
 

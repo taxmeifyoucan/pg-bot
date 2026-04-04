@@ -14,6 +14,8 @@ Team: Geth
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: core: implement EIP-8037, state creation gas cost increase](https://github.com/ethereum/go-ethereum/pull/33601#pullrequestreview-4041074759) - 2026-04-01
 * [Pull Request] [core: fix 8037 gas accounting](https://github.com/ethereum/go-ethereum/pull/34631) - 2026-04-01
+* [Review] [Review on: core/state: various fixes in EIP-7928](https://github.com/ethereum/go-ethereum/pull/34641#pullrequestreview-4056394809) - 2026-04-03
+* [Review] [Review on: core/types: add accessList to WithSeal and WithBody](https://github.com/ethereum/go-ethereum/pull/34651#pullrequestreview-4056014044) - 2026-04-03
 ## Q1 2026
 
 

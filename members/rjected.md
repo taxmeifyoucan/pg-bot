@@ -8,6 +8,12 @@ Team: Reth
 
 ## Contributions
 
+## Q2 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Review] [Review on: refactor(rocksdb): use secondary instances for read only providers](https://github.com/paradigmxyz/reth/pull/23346#pullrequestreview-4056511844) - 2026-04-03
+* [Pull Request] [chore(cli): add binary name and chain detection in tempo download log](https://github.com/paradigmxyz/reth/pull/23356) - 2026-04-03
 ## Q1 2026
 
 

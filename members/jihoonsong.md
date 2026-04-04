@@ -6,6 +6,11 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 ## Contributions
 
+## Q2 2026
+
+
+[jihoonsong/pglanding-jihoonsong](https://github.com/jihoonsong/pglanding-jihoonsong)
+* [Commit] [Add FOCIL: Past, Present and Future - EthCC 2026](https://github.com/jihoonsong/pglanding-jihoonsong/commit/597dfc62d12c64e3397b483b886c169700da03a5) - 2026-04-03
 ## Q1 2026
 
 

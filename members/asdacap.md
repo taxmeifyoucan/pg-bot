@@ -19,6 +19,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor: extract BalStore from ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/10957#pullrequestreview-4050329064) - 2026-04-02
 * [Review] [Review on: Add BAL-driven prewarming with bulk trie reader](https://github.com/NethermindEth/nethermind/pull/11002#pullrequestreview-4050248759) - 2026-04-02
 * [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4048495836) - 2026-04-02
+* [Review] [Review on: fix(hive): fix snap sync nethermind-to-nethermind test](https://github.com/NethermindEth/nethermind/pull/11022#pullrequestreview-4054785351) - 2026-04-03
+* [Review] [Review on: ci: add static analysis enforcement to build pipeline](https://github.com/NethermindEth/nethermind/pull/11025#pullrequestreview-4054750268) - 2026-04-03
+* [Review] [Review on: feat: Add a provider to persist additional nodes to disk during full pruning and shutdown](https://github.com/NethermindEth/nethermind/pull/11023#pullrequestreview-4054772556) - 2026-04-03
+* [Commit] [Fix merge plugin tests for FlatDb and add to flat CI (#10919)](https://github.com/NethermindEth/nethermind/commit/5de8762c3c2404dee3fcf9f7e6c3c88eb9be4db4) - 2026-04-03
 ## Q1 2026
 
 

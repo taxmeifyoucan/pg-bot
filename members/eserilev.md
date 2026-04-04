@@ -13,6 +13,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Epbs devnet 1](https://github.com/sigp/lighthouse/pull/9080) - 2026-04-01
+* [Pull Request] [Ensure payload envelope streamer always serves canonical envelopes after the split slot](https://github.com/sigp/lighthouse/pull/9085) - 2026-04-03
+* [Review] [Review on: Add test for protocol registration completeness](https://github.com/sigp/lighthouse/pull/8920#pullrequestreview-4056276456) - 2026-04-03
+* [Review] [Review on: Parent envelope unkown lookup [WIP]](https://github.com/sigp/lighthouse/pull/9039#pullrequestreview-4054868188) - 2026-04-03
 ## Q1 2026
 
 

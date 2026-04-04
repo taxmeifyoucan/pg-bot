@@ -19,6 +19,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Register witness keys for code access via extCodeSize](https://github.com/status-im/nimbus-eth1/pull/4094) - 2026-04-02
 * [Commit] [Register witness keys for code access via extCodeSize (#4094)](https://github.com/status-im/nimbus-eth1/commit/342bd3cbaa74971a1e7ddbbed0530765702ec5c8) - 2026-04-02
 * [Commit] [Add zkevm eest tests with witness comparison (#4090)](https://github.com/status-im/nimbus-eth1/commit/d70f65d41ba66ab58529596cccf746a6e8cce907) - 2026-04-02
+* [Pull Request] [Witness: Fix block header ordening + fix off by 1](https://github.com/status-im/nimbus-eth1/pull/4100) - 2026-04-03
+* [Pull Request] [Witness: Implement optimisation where touched code can be skipped](https://github.com/status-im/nimbus-eth1/pull/4099) - 2026-04-03
+* [Commit] [Witness: Fix block header ordening + fix off by 1 (#4100)](https://github.com/status-im/nimbus-eth1/commit/b695a711fa98736081343c026154567da6c43c98) - 2026-04-03
 ## Q1 2026
 
 

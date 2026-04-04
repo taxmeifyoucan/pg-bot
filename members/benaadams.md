@@ -23,6 +23,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat(cache): Add AssociativeCache - lock-free set-associative cache with lower memory](https://github.com/NethermindEth/nethermind/pull/10991#pullrequestreview-4050272165) - 2026-04-02
 * [Review] [Review on: Add Clear(releaseReferences) to AssociativeCache](https://github.com/NethermindEth/nethermind/pull/11024#pullrequestreview-4050727629) - 2026-04-02
 * [Commit] [fix: Replace logger resolution with explicit type-based loggers (#11019)](https://github.com/NethermindEth/nethermind/commit/c65dd91f853d2567eabc12a84c39580e0806e48d) - 2026-04-02
+* [Review] [Review on: ci: add known failing Invalid Missing Ancestor Syncing ReOrg hive tests](https://github.com/NethermindEth/nethermind/pull/11028#pullrequestreview-4056231364) - 2026-04-03
+* [Review] [Review on: ci: add static analysis enforcement to build pipeline](https://github.com/NethermindEth/nethermind/pull/11025#pullrequestreview-4056230195) - 2026-04-03
 ## Q1 2026
 
 

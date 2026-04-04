@@ -22,6 +22,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [Add Clear(releaseReferences) to AssociativeCache](https://github.com/NethermindEth/nethermind/pull/11024) - 2026-04-02
 * [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4049454557) - 2026-04-02
 * [Review] [Review on: feat(flat-state): remove read node dictionaries from SnapshotBundle](https://github.com/NethermindEth/nethermind/pull/10993#pullrequestreview-4049129572) - 2026-04-02
+* [Review] [Review on: ci: add known failing Invalid Missing Ancestor Syncing ReOrg hive tests](https://github.com/NethermindEth/nethermind/pull/11028#pullrequestreview-4055768705) - 2026-04-03
+* [Review] [Review on: ci: add static analysis enforcement to build pipeline](https://github.com/NethermindEth/nethermind/pull/11025#pullrequestreview-4055116718) - 2026-04-03
+* [Review] [Review on: Fix merge plugin tests for FlatDb and add to flat CI](https://github.com/NethermindEth/nethermind/pull/10919#pullrequestreview-4055106962) - 2026-04-03
 ## Q1 2026
 
 

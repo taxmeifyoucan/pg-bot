@@ -16,6 +16,11 @@ Team: Erigon
 * [Pull Request] [Revert "execution/cache: fix StateCache dropping deleted storage keys, causing stale reads"](https://github.com/erigontech/erigon/pull/20294) - 2026-04-02
 * [Review] [Review on: db/state: skip redundant state cache put for in-memory batch values](https://github.com/erigontech/erigon/pull/20283#pullrequestreview-4049673938) - 2026-04-02
 * [Review] [Review on: pagedWriter and compressor to use same `COMPRESS_WORKERS` variable and configuration field in `agg`](https://github.com/erigontech/erigon/pull/20281#pullrequestreview-4048551097) - 2026-04-02
+* [Review] [Review on: [r3.4] db/state: fix CursorHeap tie-break to prefer RAM over DB over FILE](https://github.com/erigontech/erigon/pull/20318#pullrequestreview-4057749500) - 2026-04-04
+* [Pull Request] [Bug 1: Fix integrity check at domain <-> history boundary (cherry-pick to 3.4)](https://github.com/erigontech/erigon/pull/20313) - 2026-04-03
+* [Pull Request] [Bug 1: Fix integrity check at domain <-> history boundary (cherry-pick to 3.4)](https://github.com/erigontech/erigon/pull/20312) - 2026-04-03
+* [Pull Request] [Bug 1: Fix integrity check at domain <-> history boundary](https://github.com/erigontech/erigon/pull/20311) - 2026-04-03
+* [Review] [Review on: execution/vm: optimize KZG point evaluation precompile (~24% faster)](https://github.com/erigontech/erigon/pull/20273#pullrequestreview-4055860140) - 2026-04-03
 ## Q1 2026
 
 

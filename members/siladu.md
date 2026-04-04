@@ -28,6 +28,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: add block number (corresponding to blockhash) to admin_peers](https://github.com/besu-eth/besu/pull/10163#pullrequestreview-4048389134) - 2026-04-02
 * [Pull Request] [Remove unitTest split support from update-test-reports workflow](https://github.com/besu-eth/besu/pull/10162) - 2026-04-02
 * [Commit] [Remove unitTest split support from update-test-reports workflow (#10162)](https://github.com/besu-eth/besu/commit/b9cc5765c5e17b1087bf7da672bcb5bfcf9e82ad) - 2026-04-02
+* [Review] [Review on: Add SHL, SHR and SAR shift operations for EVM v2](https://github.com/besu-eth/besu/pull/10154#pullrequestreview-4057176057) - 2026-04-03
 ## Q1 2026
 
 

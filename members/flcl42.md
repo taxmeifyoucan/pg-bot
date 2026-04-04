@@ -19,6 +19,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf: Replace ConcurrentHashSet with lease-guarded HandlerBag in RetryCache (~75 MB alloc reduction)](https://github.com/NethermindEth/nethermind/pull/11009#pullrequestreview-4043629019) - 2026-04-01
 * [Review] [Review on: perf: Clear BlockAccessList and AccountChanges before caching blocks](https://github.com/NethermindEth/nethermind/pull/11014#pullrequestreview-4042830163) - 2026-04-01
 * [Commit] [Support EIP-7949 and update hoodi spec accordingly (#10046)](https://github.com/NethermindEth/nethermind/commit/89a0bdb0b44233582296c7bfc616dd3c5f6196db) - 2026-04-01
+* [Pull Request] [Don't return state gas](https://github.com/NethermindEth/nethermind/pull/11031) - 2026-04-03
+* [Pull Request] [Add invalid chain dump plugin](https://github.com/NethermindEth/nethermind/pull/11030) - 2026-04-03
 ## Q1 2026
 
 

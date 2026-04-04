@@ -8,6 +8,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q2 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: up gql and grpc](https://github.com/erigontech/erigon/pull/20304#pullrequestreview-4055313528) - 2026-04-03
 ## Q1 2026
 
 

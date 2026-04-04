@@ -17,6 +17,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: range sync for gloas](https://github.com/ChainSafe/lodestar/pull/9155) - 2026-04-02
 * [Review] [Review on: feat: fork-aware IBeaconStateView type narrowing](https://github.com/ChainSafe/lodestar/pull/9105#pullrequestreview-4047948106) - 2026-04-02
 * [Commit] [feat: enhance NetworkProcessor for gloas (#9025)](https://github.com/ChainSafe/lodestar/commit/e8407e965790276fae8a22dd7ff57358b9d785e1) - 2026-04-02
+* [Pull Request] [fix: pass prepareSlot to fork choice head for Gloas FULL vs EMPTY tie-breaker](https://github.com/ChainSafe/lodestar/pull/9164) - 2026-04-03
+* [Review] [Review on: fix: pass prepareSlot to fork choice head for Gloas FULL vs EMPTY tie-breaker](https://github.com/ChainSafe/lodestar/pull/9164#pullrequestreview-4054097960) - 2026-04-03
+* [Pull Request] [fix: correct proposer boost logic and getParentNodeIndex for gloas](https://github.com/ChainSafe/lodestar/pull/9165) - 2026-04-03
+* [Review] [Review on: fix: correct proposer boost logic and getParentNodeIndex for gloas](https://github.com/ChainSafe/lodestar/pull/9165#pullrequestreview-4054118014) - 2026-04-03
+* [Review] [Review on: fix: process fulu data columns without waiting for block](https://github.com/ChainSafe/lodestar/pull/9166#pullrequestreview-4055178366) - 2026-04-03
+* [Pull Request] [fix: compute payload status for justified/finalized checkpoints](https://github.com/ChainSafe/lodestar/pull/9168) - 2026-04-03
+* [Review] [Review on: fix: compute payload status for justified/finalized checkpoints](https://github.com/ChainSafe/lodestar/pull/9168#pullrequestreview-4055133104) - 2026-04-03
+* [Review] [Review on: fix: restore seen root dedupe for column created block inputs](https://github.com/ChainSafe/lodestar/pull/9162#pullrequestreview-4053979788) - 2026-04-03
+* [Review] [Review on: fix: avoid eager parent sync for pre-gloas beacon blocks](https://github.com/ChainSafe/lodestar/pull/9161#pullrequestreview-4053959938) - 2026-04-03
+* [Review] [Review on: fix: process payload attestations before payload envelope import](https://github.com/ChainSafe/lodestar/pull/9159#pullrequestreview-4053943312) - 2026-04-03
+* [Review] [Review on: fix: update attestation data index extraction](https://github.com/ChainSafe/lodestar/pull/9158#pullrequestreview-4053938785) - 2026-04-03
 ## Q1 2026
 
 

@@ -31,6 +31,7 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump actions/configure-pages from 5 to 6](https://github.com/paradigmxyz/reth/pull/23336#pullrequestreview-4049765917) - 2026-04-02
 * [Review] [Review on: docs(libmdbx): fix typo writeable -> writable](https://github.com/paradigmxyz/reth/pull/23339#pullrequestreview-4049645935) - 2026-04-02
 * [Review] [Review on: fix(rpc): avoid evicting cached entries on replacement](https://github.com/paradigmxyz/reth/pull/23329#pullrequestreview-4049653960) - 2026-04-02
+* [Review] [Review on: feat(revm): add `ExecutionWitnessRecord::into_execution_witness` helper](https://github.com/paradigmxyz/reth/pull/23345#pullrequestreview-4055123058) - 2026-04-03
 ## Q1 2026
 
 
