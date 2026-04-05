@@ -21,6 +21,9 @@ Team: Erigon
 * [Pull Request] [Bug 1: Fix integrity check at domain <-> history boundary (cherry-pick to 3.4)](https://github.com/erigontech/erigon/pull/20312) - 2026-04-03
 * [Pull Request] [Bug 1: Fix integrity check at domain <-> history boundary](https://github.com/erigontech/erigon/pull/20311) - 2026-04-03
 * [Review] [Review on: execution/vm: optimize KZG point evaluation precompile (~24% faster)](https://github.com/erigontech/erigon/pull/20273#pullrequestreview-4055860140) - 2026-04-03
+* [Review] [Review on: flush: use etl.IdentityLoadFunc instead custom. part2](https://github.com/erigontech/erigon/pull/20324#pullrequestreview-4058541890) - 2026-04-04
+* [Review] [Review on: remove e3 banner from logs](https://github.com/erigontech/erigon/pull/20322#pullrequestreview-4058541882) - 2026-04-04
+* [Review] [Review on: skill: erigon-cherry-pick](https://github.com/erigontech/erigon/pull/20325#pullrequestreview-4058541904) - 2026-04-04
 ## Q1 2026
 
 

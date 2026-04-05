@@ -24,6 +24,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf: use `PackedGoldilocksNeon` only for hash operations](https://github.com/Plonky3/Plonky3/pull/1517#pullrequestreview-4056055695) - 2026-04-03
 * [Review] [Review on: feat: add Quintic extension impl for SymbolicExpression](https://github.com/Plonky3/Plonky3/pull/1522#pullrequestreview-4056042699) - 2026-04-03
 * [Issue] [test(fri): add verifier error path tests for all typed FriError variants](https://github.com/Plonky3/Plonky3/issues/1524) - 2026-04-03
+* [Review] [Review on: core: clippy fix](https://github.com/Plonky3/Plonky3/pull/1526#pullrequestreview-4058385288) - 2026-04-04
 ## Q1 2026
 
 

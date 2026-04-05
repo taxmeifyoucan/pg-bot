@@ -63,6 +63,68 @@ Team: Reth
 * [Commit] [test(codegen): drop inspect_stack and expand test suite (#243)](https://github.com/paradigmxyz/revmc/commit/65b08bde223b08064055dcccec999718810b4d35) - 2026-04-03
 * [Commit] [perf: constant propagation from abstract interpretation to codegen (#239)](https://github.com/paradigmxyz/revmc/commit/3d40172de212997335f55fd5d38ef8355ab5abc4) - 2026-04-03
 * [Commit] [feat: implement DUPN, SWAPN, EXCHANGE, SLOTNUM opcodes (#242)](https://github.com/paradigmxyz/revmc/commit/cef5ff72aff205cb500b288d547a5aa4190e2004) - 2026-04-03
+* [Pull Request] [fix(context): remove unsound `call_with_interpreter_and_memory`](https://github.com/paradigmxyz/revmc/pull/276) - 2026-04-04
+* [Pull Request] [fix(dedup): merge multi_jump_targets when deduplicating MULTI_JUMP dispatcher blocks](https://github.com/paradigmxyz/revmc/pull/273) - 2026-04-04
+* [Pull Request] [fix(llvm): own LLVM context in AOT mode to prevent use-after-free](https://github.com/paradigmxyz/revmc/pull/275) - 2026-04-04
+* [Pull Request] [fix(dedup): compress transitive redirect chains](https://github.com/paradigmxyz/revmc/pull/274) - 2026-04-04
+* [Pull Request] [feat(dse): treat exit stack as dead when terminator diverges](https://github.com/paradigmxyz/revmc/pull/269) - 2026-04-04
+* [Pull Request] [fix: store resume_at directly as PC instead of code_len offset](https://github.com/paradigmxyz/revmc/pull/272) - 2026-04-04
+* [Pull Request] [test(dedup): regression test for non-JUMPDEST SSTORE tail const operands](https://github.com/paradigmxyz/revmc/pull/270) - 2026-04-04
+* [Pull Request] [fix: invalidate stale snapshots on non-converged fixpoint](https://github.com/paradigmxyz/revmc/pull/271) - 2026-04-04
+* [Pull Request] [fix: right-pad truncated PUSH immediates at EOF](https://github.com/paradigmxyz/revmc/pull/268) - 2026-04-04
+* [Pull Request] [fix(dedup): include resolved jump targets in dedup key](https://github.com/paradigmxyz/revmc/pull/260) - 2026-04-04
+* [Pull Request] [fix: resolve aliasing UB in EvmStack::from_interpreter_stack](https://github.com/paradigmxyz/revmc/pull/267) - 2026-04-04
+* [Pull Request] [fix: remove cross-target compilation support](https://github.com/paradigmxyz/revmc/pull/266) - 2026-04-04
+* [Pull Request] [fix: don't precharge LOG topic gas before early validation](https://github.com/paradigmxyz/revmc/pull/264) - 2026-04-04
+* [Pull Request] [fix: make EvmStack safe accessors sound](https://github.com/paradigmxyz/revmc/pull/265) - 2026-04-04
+* [Pull Request] [fix(dedup): restore local snapshots for canonical blocks after merge](https://github.com/paradigmxyz/revmc/pull/262) - 2026-04-04
+* [Pull Request] [fix: treat deep DUPN/SWAPN/EXCHANGE as Top in abstract interpreter](https://github.com/paradigmxyz/revmc/pull/263) - 2026-04-04
+* [Pull Request] [fix: invalidate partial multi-jump targets on non-converged fixpoint](https://github.com/paradigmxyz/revmc/pull/261) - 2026-04-04
+* [Pull Request] [fix: invalidate partial multi-jump targets on non-converged fixpoint](https://github.com/paradigmxyz/revmc/pull/258) - 2026-04-04
+* [Pull Request] [fix: prevent DSE from eliminating DUPN with invalid immediates](https://github.com/paradigmxyz/revmc/pull/259) - 2026-04-04
+* [Pull Request] [fix: remove ResumeKind::Blocks to eliminate blockaddress UB in call_with_interpreter](https://github.com/paradigmxyz/revmc/pull/256) - 2026-04-04
+* [Pull Request] [fix: charge SELFDESTRUCT static gas before static-call check](https://github.com/paradigmxyz/revmc/pull/257) - 2026-04-04
+* [Pull Request] [fix: default truncated DUPN/SWAPN/EXCHANGE immediates to zero](https://github.com/paradigmxyz/revmc/pull/255) - 2026-04-04
+* [Pull Request] [feat(dse): const-aware liveness analysis](https://github.com/paradigmxyz/revmc/pull/253) - 2026-04-04
+* [Pull Request] [fix: decode real stack_io for DUPN/SWAPN/EXCHANGE during bytecode construction](https://github.com/paradigmxyz/revmc/pull/254) - 2026-04-04
+* [Pull Request] [feat: peephole optimizations for arithmetic ops](https://github.com/paradigmxyz/revmc/pull/252) - 2026-04-04
+* [Pull Request] [perf(llvm): use hex scratch buffer in iconst_256](https://github.com/paradigmxyz/revmc/pull/251) - 2026-04-04
+* [Pull Request] [fix(dse): use precise dead checks for stack shuffles](https://github.com/paradigmxyz/revmc/pull/250) - 2026-04-04
+* [Pull Request] [feat: compiler gas budget for compile-time evaluation](https://github.com/paradigmxyz/revmc/pull/249) - 2026-04-04
+* [Pull Request] [feat: constant-fold EXP by pre-computing dynamic gas into sections](https://github.com/paradigmxyz/revmc/pull/248) - 2026-04-04
+* [Pull Request] [feat(dse): expand can_skip_when_dead with stack shuffles and env reads](https://github.com/paradigmxyz/revmc/pull/247) - 2026-04-04
+* [Commit] [fix(context): remove unsound `call_with_interpreter_and_memory` (#276)](https://github.com/paradigmxyz/revmc/commit/72b5fcff2b99b45ad2a7a56aff5e01c3cc55ddc5) - 2026-04-04
+* [Commit] [fix(dedup): merge multi_jump_targets when deduplicating MULTI_JUMP dispatcher blocks (#273)](https://github.com/paradigmxyz/revmc/commit/1f2902bac954fd3569bf85fbfd49641d140e9761) - 2026-04-04
+* [Commit] [fix(llvm): own LLVM context in AOT mode to prevent use-after-free (#275)](https://github.com/paradigmxyz/revmc/commit/391f17c5e0c37c55e27039a7fcda93358d5c5ae1) - 2026-04-04
+* [Commit] [fix(dedup): compress transitive redirect chains (#274)](https://github.com/paradigmxyz/revmc/commit/10c6e2cd2ac4840cd5d8a56e06fd5a4d9d6af81e) - 2026-04-04
+* [Commit] [feat(dse): treat exit stack as dead when terminator diverges (#269)](https://github.com/paradigmxyz/revmc/commit/a7a0a7784e5346ae67fc24c43573a81f796bb01b) - 2026-04-04
+* [Commit] [feat: better error message on asm parse fail](https://github.com/paradigmxyz/revmc/commit/538fcaa36af814c962c74732ba82e87ebd7bb7d3) - 2026-04-04
+* [Commit] [fix: store resume_at directly as PC instead of code_len offset (#272)](https://github.com/paradigmxyz/revmc/commit/1a2afcfd4a58072c366a9645d521941057d80347) - 2026-04-04
+* [Commit] [test(dedup): regression test for non-JUMPDEST SSTORE tail const operands (#270)](https://github.com/paradigmxyz/revmc/commit/9c12a60a8b3fb732b24ee16b59e43fe99d277afa) - 2026-04-04
+* [Commit] [fix: invalidate stale snapshots on non-converged fixpoint (#271)](https://github.com/paradigmxyz/revmc/commit/c0045381609abb80951695b6417f1e3832f09085) - 2026-04-04
+* [Commit] [fix: right-pad truncated PUSH immediates at EOF (#268)](https://github.com/paradigmxyz/revmc/commit/283c603115b7ae4827dd318a646ca143463c3d4c) - 2026-04-04
+* [Commit] [fix(dedup): include resolved jump targets in dedup key (#260)](https://github.com/paradigmxyz/revmc/commit/0564b0539eebf2764d0a60983183ede01f295d5d) - 2026-04-04
+* [Commit] [fix: resolve aliasing UB in EvmStack::from_interpreter_stack (#267)](https://github.com/paradigmxyz/revmc/commit/0c6625f4bcc7bcf888360d11850d7faee26faf01) - 2026-04-04
+* [Commit] [fix: remove cross-target compilation support (#266)](https://github.com/paradigmxyz/revmc/commit/0f035cf6f166d45b579d8cd65a172bde700f63bb) - 2026-04-04
+* [Commit] [fix: don't precharge LOG topic gas before early validation (#264)](https://github.com/paradigmxyz/revmc/commit/a2b3a3a184eefefa5a59b1319fe1d08f12d763f3) - 2026-04-04
+* [Commit] [fix: make EvmStack safe accessors sound (#265)](https://github.com/paradigmxyz/revmc/commit/c7edd45dd6d2ae364a158b8cd9214eca744818d4) - 2026-04-04
+* [Commit] [fix(dedup): restore local snapshots for canonical blocks after merge (#262)](https://github.com/paradigmxyz/revmc/commit/e499fa3e85900c47b4d60b3e423699d55ffd4c91) - 2026-04-04
+* [Commit] [fix: treat deep DUPN/SWAPN/EXCHANGE as Top in abstract interpreter (#263)](https://github.com/paradigmxyz/revmc/commit/3d0f875118039ab48729d97873d502317b33d2ef) - 2026-04-04
+* [Commit] [fix: prevent DSE from eliminating DUPN with invalid immediates (#259)](https://github.com/paradigmxyz/revmc/commit/67417831de4cfbc90c5b1fee8722267fa27629bc) - 2026-04-04
+* [Commit] [fix: remove ResumeKind::Blocks to eliminate blockaddress UB in call_with_interpreter (#256)](https://github.com/paradigmxyz/revmc/commit/e0625ecb3903d176ecc5c021fad31ec106505076) - 2026-04-04
+* [Commit] [fix: invalidate partial multi-jump targets on non-converged fixpoint (#258)](https://github.com/paradigmxyz/revmc/commit/3f70164efb0943468fec50c9c675434cca43cd02) - 2026-04-04
+* [Commit] [fix: charge SELFDESTRUCT static gas before static-call check (#257)](https://github.com/paradigmxyz/revmc/commit/0dab3b02af2a0a369254a55764670e699aae536c) - 2026-04-04
+* [Commit] [fix: default truncated DUPN/SWAPN/EXCHANGE immediates to zero (#255)](https://github.com/paradigmxyz/revmc/commit/554d60df754e0ac5fbab36e5f86bb6ec21534e73) - 2026-04-04
+* [Commit] [feat(dse): const-aware liveness analysis (#253)](https://github.com/paradigmxyz/revmc/commit/a24fc33531ba5b2a439fc538c458794bd75c4ce9) - 2026-04-04
+* [Commit] [fix: decode real stack_io for DUPN/SWAPN/EXCHANGE during bytecode construction (#254)](https://github.com/paradigmxyz/revmc/commit/da85dd0fc5fbf7e028b87cf157432c49eec4b94a) - 2026-04-04
+* [Commit] [feat: peephole optimizations for arithmetic ops (#252)](https://github.com/paradigmxyz/revmc/commit/a38ef8b4f9adb852b2ccb607bc1b795cd3a6192b) - 2026-04-04
+* [Commit] [chore: format full bytes](https://github.com/paradigmxyz/revmc/commit/2154ad2e281e208e1947e44a9ba4ec09b421a689) - 2026-04-04
+* [Commit] [perf(llvm): use hex scratch buffer in iconst_256 (#251)](https://github.com/paradigmxyz/revmc/commit/e18df32dd3a9aafb9dcc723f41667cde84a3d01e) - 2026-04-04
+* [Commit] [fix(dse): use precise dead checks for stack shuffles (#250)](https://github.com/paradigmxyz/revmc/commit/1de07a9693b2d92b3e618a8d0fff7a602ba80a2e) - 2026-04-04
+* [Commit] [feat: compiler gas budget for compile-time evaluation (#249)](https://github.com/paradigmxyz/revmc/commit/286cf6fb08093551e94c878c2a6543688ce8809e) - 2026-04-04
+* [Commit] [feat: constant-fold EXP by pre-computing dynamic gas into sections (#248)](https://github.com/paradigmxyz/revmc/commit/8086589631c8a13ef4c132a9c2dfe9afd8fbd6dd) - 2026-04-04
+* [Commit] [feat(dse): expand can_skip_when_dead with stack shuffles and env reads (#247)](https://github.com/paradigmxyz/revmc/commit/488abb4da3c6e79f543255f3d12a0cf7f273e621) - 2026-04-04
+* [Commit] [feat: intra-block dead store elimination (#241)](https://github.com/paradigmxyz/revmc/commit/b89e8447725b39e196f7eac561e02ccd3414c02f) - 2026-04-04
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 ## Q1 2026

@@ -14,6 +14,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: BN: Dynamic number of columns count which depends on current sync status.](https://github.com/status-im/nimbus-eth2/pull/8205#pullrequestreview-4054521584) - 2026-04-03
 * [Review] [Review on: added lookup to last persisted column indices at boot](https://github.com/status-im/nimbus-eth2/pull/8213#pullrequestreview-4054433444) - 2026-04-03
+* [Pull Request] [add further initial Heze support: import/export to forks, to some typeclasses, and database version of state](https://github.com/status-im/nimbus-eth2/pull/8219) - 2026-04-04
+* [Pull Request] [initial definition of Heze as a Gloas copy](https://github.com/status-im/nimbus-eth2/pull/8218) - 2026-04-04
 ## Q1 2026
 
 

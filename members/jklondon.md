@@ -13,6 +13,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: up gql and grpc](https://github.com/erigontech/erigon/pull/20304#pullrequestreview-4055313528) - 2026-04-03
+* [Review] [Review on: flush: use etl.IdentityLoadFunc instead custom. part2](https://github.com/erigontech/erigon/pull/20324#pullrequestreview-4058547476) - 2026-04-04
+* [Review] [Review on: remove e3 banner from logs](https://github.com/erigontech/erigon/pull/20322#pullrequestreview-4058547805) - 2026-04-04
+* [Review] [Review on: [wip] seg: arena-based MatchFinder (patricia trie)](https://github.com/erigontech/erigon/pull/20136#pullrequestreview-4058548686) - 2026-04-04
 ## Q1 2026
 
 

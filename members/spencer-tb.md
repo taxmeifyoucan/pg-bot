@@ -31,6 +31,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/evm: add enginetest command for direct engine fixture execution](https://github.com/ethereum/go-ethereum/pull/34650) - 2026-04-03
+* [Review] [Review on: cmd/evm: add enginetest command for direct engine fixture execution](https://github.com/ethereum/go-ethereum/pull/34650#pullrequestreview-4058848097) - 2026-04-04
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [evmtool: add engine-test subcommand and parallel workers for test runners](https://github.com/besu-eth/besu/pull/10184) - 2026-04-04
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [nethtest: add --engineTest, --stateTest, --jsonout, --workers flags](https://github.com/NethermindEth/nethermind/pull/11035) - 2026-04-04
 ## Q1 2026
 
 

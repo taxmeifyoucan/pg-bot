@@ -15,6 +15,7 @@ Team: Erigon
 * [Review] [Review on: execution: deduplicate BuiltBlock and AssembledBlock](https://github.com/erigontech/erigon/pull/20274#pullrequestreview-4051954856) - 2026-04-02
 * [Review] [Review on: cmd: fix typo in flag beacon.api.ide.timeout](https://github.com/erigontech/erigon/pull/20289#pullrequestreview-4051947458) - 2026-04-02
 * [Review] [Review on: execution: enforce EIP-8037 state gas limit in block builder](https://github.com/erigontech/erigon/pull/20255#pullrequestreview-4056094006) - 2026-04-03
+* [Review] [Review on: commitment: add persistent branch cache across Process() calls](https://github.com/erigontech/erigon/pull/19954#pullrequestreview-4058468599) - 2026-04-04
 ## Q1 2026
 
 

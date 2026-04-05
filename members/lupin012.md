@@ -23,6 +23,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: fix estimateGas returning -32000 instead of error code 3 on revert](https://github.com/erigontech/erigon/pull/20314) - 2026-04-03
 * [Pull Request] [rpc: fix block overrides ignored in eth_estimateGas](https://github.com/erigontech/erigon/pull/20307) - 2026-04-03
 * [Pull Request] [rpc:  uniform_503_on_overload](https://github.com/erigontech/erigon/pull/20303) - 2026-04-03
+* [Pull Request] [QA: fix/update gnosis/ethereum yml](https://github.com/erigontech/erigon/pull/20326) - 2026-04-04
+* [Pull Request] [QA: perf add migration step as 3.4](https://github.com/erigontech/erigon/pull/20327) - 2026-04-04
+* [Commit] [rpc:  uniform_503_on_overload (#20303)](https://github.com/erigontech/erigon/commit/992980889080ca26b0f265152efc22532ba424f0) - 2026-04-04
+* [Commit] [rpc: fix estimateGas returning -32000 instead of error code 3 on revert (#20314)](https://github.com/erigontech/erigon/commit/1d233a4068aef002573b8c250ef1bd02d888a006) - 2026-04-04
+* [Commit] [QA: fix/update gnosis/ethereum yml (#20326)](https://github.com/erigontech/erigon/commit/66c9a28e24f0ab8636ba3fccf3fc1d580f5b89e1) - 2026-04-04
+* [Commit] [QA: perf add migration step as 3.4 (#20327)](https://github.com/erigontech/erigon/commit/a9db7021e2cb25d2054f0b4adf27aea1b81aa632) - 2026-04-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

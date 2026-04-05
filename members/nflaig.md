@@ -41,6 +41,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: process fulu data columns without waiting for block](https://github.com/ChainSafe/lodestar/pull/9166#pullrequestreview-4055096900) - 2026-04-03
 * [Commit] [fix: process payload attestations before payload envelope import (#9159)](https://github.com/ChainSafe/lodestar/commit/bc0be71fb05ef1e1ad1a2d709f44da400f06269c) - 2026-04-03
 * [Commit] [fix: update attestation data index extraction (#9158)](https://github.com/ChainSafe/lodestar/commit/89ddaaeed26fc24cad3e5ebb4c563acaab04a8eb) - 2026-04-03
+* [Pull Request] [fix: queue beacon block awaiting parent payload envelope](https://github.com/ChainSafe/lodestar/pull/9179) - 2026-04-04
+* [Review] [Review on: fix: queue beacon block awaiting parent payload envelope](https://github.com/ChainSafe/lodestar/pull/9179#pullrequestreview-4058567541) - 2026-04-04
+* [Pull Request] [fix: ignore beacon block if parent payload unknown](https://github.com/ChainSafe/lodestar/pull/9178) - 2026-04-04
+* [Review] [Review on: fix: ignore beacon block if parent payload unknown](https://github.com/ChainSafe/lodestar/pull/9178#pullrequestreview-4058562801) - 2026-04-04
+* [Pull Request] [fix: only allow attestations for known payload statuses](https://github.com/ChainSafe/lodestar/pull/9177) - 2026-04-04
+* [Pull Request] [refactor: reorder payload status constants](https://github.com/ChainSafe/lodestar/pull/9176) - 2026-04-04
+* [Pull Request] [refactor: use consistent names for state after payload is applied](https://github.com/ChainSafe/lodestar/pull/9175) - 2026-04-04
+* [Pull Request] [chore: review import execution payload](https://github.com/ChainSafe/lodestar/pull/9174) - 2026-04-04
+* [Review] [Review on: chore: review import execution payload](https://github.com/ChainSafe/lodestar/pull/9174#pullrequestreview-4058391316) - 2026-04-04
+* [Pull Request] [fix: validate MIN_EPOCHS for blob/data column by range/root requests](https://github.com/ChainSafe/lodestar/pull/9173) - 2026-04-04
+* [Review] [Review on: fix: validate MIN_EPOCHS for blob/data column by range/root requests](https://github.com/ChainSafe/lodestar/pull/9173#pullrequestreview-4058361717) - 2026-04-04
 ## Q1 2026
 
 

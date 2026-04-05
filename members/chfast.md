@@ -17,6 +17,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Pull Request] [crypto: Use local accumulator t[] in mul_amm_256 to avoid aliasing](https://github.com/ipsilon/evmone/pull/1477) - 2026-04-02
 * [Issue] [Check clang's wrap behavior types](https://github.com/ipsilon/evmone/issues/1476) - 2026-04-02
+* [Issue] [Enable SHA-256 ARM NEON acceleration on aarch64 Linux](https://github.com/ipsilon/evmone/issues/1478) - 2026-04-04
 ## Q1 2026
 
 

@@ -26,6 +26,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.4] db/state: fix CursorHeap tie-break to prefer RAM over DB over FILE](https://github.com/erigontech/erigon/pull/20318) - 2026-04-03
 * [Review] [Review on: integrity: blk-range chk to pre-build "changed keys" index before calc state root](https://github.com/erigontech/erigon/pull/20302#pullrequestreview-4054471232) - 2026-04-03
 * [Commit] [integration: add --yes to skip interactive prompts in commitment rebuild (#20291)](https://github.com/erigontech/erigon/commit/acc98984b5da6be8ad10997c67feed4cbdfa964b) - 2026-04-03
+* [Review] [Review on: agg: remove bg indexing](https://github.com/erigontech/erigon/pull/20320#pullrequestreview-4058461541) - 2026-04-04
+* [Review] [Review on: seg: Sais to use external re-usable buffer](https://github.com/erigontech/erigon/pull/20319#pullrequestreview-4058461643) - 2026-04-04
+* [Review] [Review on: merge: II to support NO_DEEP_MERGE_HISTORY](https://github.com/erigontech/erigon/pull/20321#pullrequestreview-4058461367) - 2026-04-04
+* [Review] [Review on: recsplit: use same etl pool with other system](https://github.com/erigontech/erigon/pull/20323#pullrequestreview-4058461258) - 2026-04-04
 ## Q1 2026
 
 

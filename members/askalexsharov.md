@@ -38,6 +38,25 @@ Team: Erigon
 * [Review] [Review on: cmd/integration: enable historical commitment config during rebuild](https://github.com/erigontech/erigon/pull/20295#pullrequestreview-4053981782) - 2026-04-03
 * [Review] [Review on: prune: clear PruningValsProgress on stage_exec --reset](https://github.com/erigontech/erigon/pull/20296#pullrequestreview-4053979369) - 2026-04-03
 * [Review] [Review on: [3.4] cherry-pick protect execution TIP under RPC load (#19905)](https://github.com/erigontech/erigon/pull/20297#pullrequestreview-4053956802) - 2026-04-03
+* [Review] [Review on: QA: fix/update gnosis/ethereum yml](https://github.com/erigontech/erigon/pull/20326#pullrequestreview-4058590214) - 2026-04-04
+* [Review] [Review on: rpc: fix estimateGas returning -32000 instead of error code 3 on revert](https://github.com/erigontech/erigon/pull/20314#pullrequestreview-4058591241) - 2026-04-04
+* [Review] [Review on: rpc:  uniform_503_on_overload](https://github.com/erigontech/erigon/pull/20303#pullrequestreview-4058592189) - 2026-04-04
+* [Review] [Review on: QA: perf add migration step as 3.4](https://github.com/erigontech/erigon/pull/20327#pullrequestreview-4058590163) - 2026-04-04
+* [Review] [Review on: docs: document --rpc.max.concurrency flag (main)](https://github.com/erigontech/erigon/pull/20310#pullrequestreview-4058589861) - 2026-04-04
+* [Pull Request] [flush: use etl.IdentityLoadFunc instead custom. part2](https://github.com/erigontech/erigon/pull/20324) - 2026-04-04
+* [Pull Request] [remove e3 banner from logs](https://github.com/erigontech/erigon/pull/20322) - 2026-04-04
+* [Review] [Review on: docs: document --rpc.max.concurrency flag (release/3.4)](https://github.com/erigontech/erigon/pull/20309#pullrequestreview-4058589832) - 2026-04-04
+* [Pull Request] [skill: erigon-cherry-pick](https://github.com/erigontech/erigon/pull/20325) - 2026-04-04
+* [Pull Request] [agg: remove bg indexing](https://github.com/erigontech/erigon/pull/20320) - 2026-04-04
+* [Pull Request] [seg: Sais to use external re-usable buffer](https://github.com/erigontech/erigon/pull/20319) - 2026-04-04
+* [Pull Request] [merge: II to support NO_DEEP_MERGE_HISTORY](https://github.com/erigontech/erigon/pull/20321) - 2026-04-04
+* [Pull Request] [recsplit: use same etl pool with other system](https://github.com/erigontech/erigon/pull/20323) - 2026-04-04
+* [Commit] [flush: use etl.IdentityLoadFunc instead custom. part2 (#20324)](https://github.com/erigontech/erigon/commit/db2921978cefba7b1d3c4eea93b7a88c72bb4199) - 2026-04-04
+* [Commit] [remove e3 banner from logs (#20322)](https://github.com/erigontech/erigon/commit/73abd8c23ab732f65a4fe2bfd2208e35aec3a6d1) - 2026-04-04
+* [Commit] [seg: Sais to use external re-usable buffer (#20319)](https://github.com/erigontech/erigon/commit/07b66d50beded10cc821211e35ecd3ea76be5756) - 2026-04-04
+* [Commit] [agg: remove bg indexing (#20320)](https://github.com/erigontech/erigon/commit/656dc271492729d1d45a0a82ab3603e700a8108c) - 2026-04-04
+* [Commit] [merge: II to support NO_DEEP_MERGE_HISTORY (#20321)](https://github.com/erigontech/erigon/commit/bd46f7a339eaf25fcb76b66c370b976448b1c3ab) - 2026-04-04
+* [Commit] [recsplit: use same etl pool with other system (#20323)](https://github.com/erigontech/erigon/commit/90196c2aad6dacce28583359ec64e89928ddb452) - 2026-04-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026

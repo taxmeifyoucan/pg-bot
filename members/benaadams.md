@@ -25,6 +25,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: Replace logger resolution with explicit type-based loggers (#11019)](https://github.com/NethermindEth/nethermind/commit/c65dd91f853d2567eabc12a84c39580e0806e48d) - 2026-04-02
 * [Review] [Review on: ci: add known failing Invalid Missing Ancestor Syncing ReOrg hive tests](https://github.com/NethermindEth/nethermind/pull/11028#pullrequestreview-4056231364) - 2026-04-03
 * [Review] [Review on: ci: add static analysis enforcement to build pipeline](https://github.com/NethermindEth/nethermind/pull/11025#pullrequestreview-4056230195) - 2026-04-03
+* [Review] [Review on: Don't return state gas](https://github.com/NethermindEth/nethermind/pull/11031#pullrequestreview-4058520353) - 2026-04-04
+* [Review] [Review on: fix(test): fix flaky Special_Tx_Is_Executed_Before_Normal_Txs nonce collision](https://github.com/NethermindEth/nethermind/pull/11033#pullrequestreview-4058299602) - 2026-04-04
 ## Q1 2026
 
 

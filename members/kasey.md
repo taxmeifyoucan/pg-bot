@@ -13,6 +13,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: Fastssz update to allow generics](https://github.com/OffchainLabs/prysm/pull/16628#pullrequestreview-4046702554) - 2026-04-01
+* [Review] [Review on: Update the Gossipsub API to use publish Actions given a set of all peers GS is tracking](https://github.com/OffchainLabs/prysm/pull/16542#pullrequestreview-4058933411) - 2026-04-04
+* [Review] [Review on: Republish data columns and reconstructed columns as partial messages and handle empty columns](https://github.com/OffchainLabs/prysm/pull/16514#pullrequestreview-4058880828) - 2026-04-04
 ## Q1 2026
 
 

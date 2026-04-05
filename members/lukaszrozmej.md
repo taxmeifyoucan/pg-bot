@@ -25,6 +25,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: ci: add known failing Invalid Missing Ancestor Syncing ReOrg hive tests](https://github.com/NethermindEth/nethermind/pull/11028#pullrequestreview-4055768705) - 2026-04-03
 * [Review] [Review on: ci: add static analysis enforcement to build pipeline](https://github.com/NethermindEth/nethermind/pull/11025#pullrequestreview-4055116718) - 2026-04-03
 * [Review] [Review on: Fix merge plugin tests for FlatDb and add to flat CI](https://github.com/NethermindEth/nethermind/pull/10919#pullrequestreview-4055106962) - 2026-04-03
+* [Review] [Review on: fix(test): fix flaky Special_Tx_Is_Executed_Before_Normal_Txs nonce collision](https://github.com/NethermindEth/nethermind/pull/11033#pullrequestreview-4058270752) - 2026-04-04
+* [Review] [Review on: feat: Add a provider to persist additional nodes to disk during full pruning and shutdown](https://github.com/NethermindEth/nethermind/pull/11023#pullrequestreview-4058291479) - 2026-04-04
+* [Review] [Review on: test(wallet): remove duplicate UnlockAccounts test case](https://github.com/NethermindEth/nethermind/pull/11029#pullrequestreview-4058279076) - 2026-04-04
+* [Review] [Review on: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11034#pullrequestreview-4058269630) - 2026-04-04
 ## Q1 2026
 
 

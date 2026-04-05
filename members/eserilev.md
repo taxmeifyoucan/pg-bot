@@ -16,6 +16,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Ensure payload envelope streamer always serves canonical envelopes after the split slot](https://github.com/sigp/lighthouse/pull/9085) - 2026-04-03
 * [Review] [Review on: Add test for protocol registration completeness](https://github.com/sigp/lighthouse/pull/8920#pullrequestreview-4056276456) - 2026-04-03
 * [Review] [Review on: Parent envelope unkown lookup [WIP]](https://github.com/sigp/lighthouse/pull/9039#pullrequestreview-4054868188) - 2026-04-03
+* [Review] [Review on: Use spec constants for PTC thresholds in fork choice](https://github.com/sigp/lighthouse/pull/9088#pullrequestreview-4058116354) - 2026-04-04
+* [Pull Request] [Gloas relax epoch aligned checkpoint state requirements](https://github.com/sigp/lighthouse/pull/9091) - 2026-04-04
+* [Pull Request] [Gloas serve post block state for finalized/justified state requests](https://github.com/sigp/lighthouse/pull/9092) - 2026-04-04
 ## Q1 2026
 
 

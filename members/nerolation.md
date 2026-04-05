@@ -8,6 +8,11 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Review] [Review on: core, eth/protocols/snap: Snap/2 Protocol + BAL Serving](https://github.com/ethereum/go-ethereum/pull/34083#pullrequestreview-4058178276) - 2026-04-04
 ## Q1 2026
 
 
