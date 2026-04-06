@@ -14,6 +14,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(test-benchmark): add uncacheable precompile benchmark](https://github.com/ethereum/execution-specs/pull/2600#pullrequestreview-4044398175) - 2026-04-01
 * [Commit] [feat(test-forks): Add EIP classes (#2571)](https://github.com/ethereum/execution-specs/commit/4550e690d832052aa1075c9ecc891bbb44a50dd0) - 2026-04-01
+* [Pull Request] [refactor(tests): Enhance heavy ported tests](https://github.com/ethereum/execution-specs/pull/2623) - 2026-04-06
 ## Q1 2026
 
 

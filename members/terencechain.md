@@ -27,6 +27,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Downgrade genesis forkchoice balance underflow warning to debug](https://github.com/OffchainLabs/prysm/pull/16633) - 2026-04-03
 * [Review] [Review on: `ProcessEffectiveBalanceUpdates`: Avoid copying a validator when the computed effective balance is unchanged.](https://github.com/OffchainLabs/prysm/pull/16631#pullrequestreview-4056437674) - 2026-04-03
 * [Commit] [Fix zero head block hash in FCU at gloas genesis (#16629)](https://github.com/OffchainLabs/prysm/commit/f79d2efc6ee5005969b6630ee74a5c7dee403320) - 2026-04-03
+* [Review] [Review on: Fix finalized and justified state endpoint to not advance the slot](https://github.com/OffchainLabs/prysm/pull/16635#pullrequestreview-4059783648) - 2026-04-05
 ## Q1 2026
 
 

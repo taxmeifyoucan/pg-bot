@@ -8,6 +8,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 
 ## Contributions
 
+## Q2 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Remove unused `exit-future`](https://github.com/sigp/lighthouse/pull/9095) - 2026-04-05
+* [Pull Request] [Refactor `timestamp_now`](https://github.com/sigp/lighthouse/pull/9094) - 2026-04-05
 ## Q1 2026
 
 

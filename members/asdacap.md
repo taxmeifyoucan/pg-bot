@@ -23,6 +23,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: add static analysis enforcement to build pipeline](https://github.com/NethermindEth/nethermind/pull/11025#pullrequestreview-4054750268) - 2026-04-03
 * [Review] [Review on: feat: Add a provider to persist additional nodes to disk during full pruning and shutdown](https://github.com/NethermindEth/nethermind/pull/11023#pullrequestreview-4054772556) - 2026-04-03
 * [Commit] [Fix merge plugin tests for FlatDb and add to flat CI (#10919)](https://github.com/NethermindEth/nethermind/commit/5de8762c3c2404dee3fcf9f7e6c3c88eb9be4db4) - 2026-04-03
+* [Review] [Review on: Remove unused MonitoringService variable](https://github.com/NethermindEth/nethermind/pull/11041#pullrequestreview-4060083431) - 2026-04-06
+* [Pull Request] [[TEST] Check which test fail with flat](https://github.com/NethermindEth/nethermind/pull/11043) - 2026-04-06
 ## Q1 2026
 
 

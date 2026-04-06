@@ -24,6 +24,10 @@ Team: Erigon
 * [Review] [Review on: flush: use etl.IdentityLoadFunc instead custom. part2](https://github.com/erigontech/erigon/pull/20324#pullrequestreview-4058541890) - 2026-04-04
 * [Review] [Review on: remove e3 banner from logs](https://github.com/erigontech/erigon/pull/20322#pullrequestreview-4058541882) - 2026-04-04
 * [Review] [Review on: skill: erigon-cherry-pick](https://github.com/erigontech/erigon/pull/20325#pullrequestreview-4058541904) - 2026-04-04
+* [Pull Request] [caplin: ban peers that fail gossip verification](https://github.com/erigontech/erigon/pull/20343) - 2026-04-05
+* [Review] [Review on: execution/chain: remove TestChainConfig alias](https://github.com/erigontech/erigon/pull/20299#pullrequestreview-4059021387) - 2026-04-05
+* [Commit] [Ban peer on misbehaviour (#20336)](https://github.com/erigontech/erigon/commit/a455cdd1fabf3b7e0723f0bd4bcebe4c5eeaff95) - 2026-04-05
+* [Commit] [Bug 1: Fix integrity check at domain <-> history boundary (#20311)](https://github.com/erigontech/erigon/commit/450f97926f0e90befbc6c0395373706e886beefb) - 2026-04-05
 ## Q1 2026
 
 

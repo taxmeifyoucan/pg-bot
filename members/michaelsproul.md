@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 ## Contributions
 
+## Q2 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Remove unused `exit-future`](https://github.com/sigp/lighthouse/pull/9095#pullrequestreview-4059913721) - 2026-04-05
 ## Q1 2026
 
 

@@ -19,8 +19,12 @@ Team: Consensus R&D (EF)
 * [Pull Request] [core/vm: Idea for enabling an experimental evm](https://github.com/ethereum/go-ethereum/pull/34645) - 2026-04-03
 * [Review] [Review on: core/vm: Idea for enabling an experimental evm](https://github.com/ethereum/go-ethereum/pull/34645#pullrequestreview-4054823803) - 2026-04-03
 
+* [Review] [Review on: cmd/evm: add enginetest command for direct engine fixture execution](https://github.com/ethereum/go-ethereum/pull/34650#pullrequestreview-4059421001) - 2026-04-05
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Issue] [Add Venus](https://github.com/eth-act/ere/issues/327) - 2026-04-03
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [L1-zkEVM breakout #03, April 8, 2026](https://github.com/ethereum/pm/issues/2005) - 2026-04-05
 ## Q1 2026
 
 

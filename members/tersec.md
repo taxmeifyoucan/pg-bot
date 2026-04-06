@@ -16,6 +16,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: added lookup to last persisted column indices at boot](https://github.com/status-im/nimbus-eth2/pull/8213#pullrequestreview-4054433444) - 2026-04-03
 * [Pull Request] [add further initial Heze support: import/export to forks, to some typeclasses, and database version of state](https://github.com/status-im/nimbus-eth2/pull/8219) - 2026-04-04
 * [Pull Request] [initial definition of Heze as a Gloas copy](https://github.com/status-im/nimbus-eth2/pull/8218) - 2026-04-04
+* [Pull Request] [more introduction of Heze support infrastructure via typeclass extension](https://github.com/status-im/nimbus-eth2/pull/8222) - 2026-04-06
+* [Review] [Review on: add results to peer lookup and tests](https://github.com/status-im/nimbus-eth2/pull/8146#pullrequestreview-4059815441) - 2026-04-05
+* [Pull Request] [continue introduction of Heze support infrastructure via typeclass extension](https://github.com/status-im/nimbus-eth2/pull/8221) - 2026-04-05
 ## Q1 2026
 
 

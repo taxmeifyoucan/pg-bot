@@ -125,6 +125,7 @@ Team: Reth
 * [Commit] [feat: constant-fold EXP by pre-computing dynamic gas into sections (#248)](https://github.com/paradigmxyz/revmc/commit/8086589631c8a13ef4c132a9c2dfe9afd8fbd6dd) - 2026-04-04
 * [Commit] [feat(dse): expand can_skip_when_dead with stack shuffles and env reads (#247)](https://github.com/paradigmxyz/revmc/commit/488abb4da3c6e79f543255f3d12a0cf7f273e621) - 2026-04-04
 * [Commit] [feat: intra-block dead store elimination (#241)](https://github.com/paradigmxyz/revmc/commit/b89e8447725b39e196f7eac561e02ccd3414c02f) - 2026-04-04
+* [Commit] [chore: fix jump resolution script](https://github.com/paradigmxyz/revmc/commit/26df4946a1b8d5238ce759f6a5346b6e975252de) - 2026-04-05
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 ## Q1 2026

@@ -23,6 +23,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 * [Review] [Review on: fix(test-benchmark): account access subcall OOG issue](https://github.com/ethereum/execution-specs/pull/2614#pullrequestreview-4055608504) - 2026-04-03
 * [Review] [Review on: feat(test-benchmark): add precompile macro for precompile benchmarks](https://github.com/ethereum/execution-specs/pull/2591#pullrequestreview-4054966461) - 2026-04-03
+* [Pull Request] [feat(test-consume): direct with per type result models and exception matching](https://github.com/ethereum/execution-specs/pull/2622) - 2026-04-05
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 
@@ -38,6 +39,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [nethtest: add --engineTest, --stateTest, --jsonout, --workers flags](https://github.com/NethermindEth/nethermind/pull/11035) - 2026-04-04
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [revme: add --run regex filter to statetest and blockchaintest](https://github.com/bluealloy/revm/pull/3544) - 2026-04-05
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [testing: add enginetest, enginextest, and blocktest CLI subcommands](https://github.com/paradigmxyz/reth/pull/23361) - 2026-04-05
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [eest: add standalone CLI runners for statetest, blocktest, and enginetest](https://github.com/status-im/nimbus-eth1/pull/4101) - 2026-04-05
 ## Q1 2026
 
 

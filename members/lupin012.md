@@ -29,6 +29,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: fix estimateGas returning -32000 instead of error code 3 on revert (#20314)](https://github.com/erigontech/erigon/commit/1d233a4068aef002573b8c250ef1bd02d888a006) - 2026-04-04
 * [Commit] [QA: fix/update gnosis/ethereum yml (#20326)](https://github.com/erigontech/erigon/commit/66c9a28e24f0ab8636ba3fccf3fc1d580f5b89e1) - 2026-04-04
 * [Commit] [QA: perf add migration step as 3.4 (#20327)](https://github.com/erigontech/erigon/commit/a9db7021e2cb25d2054f0b4adf27aea1b81aa632) - 2026-04-04
+* [Commit] [rpc: replace EVM timeout goroutines with context.AfterFunc (#20276)](https://github.com/erigontech/erigon/commit/e427bd513b3a30e4ed4f4365b3aba818d7033637) - 2026-04-05
+* [Commit] [rpc: fix block overrides ignored in eth_estimateGas (#20307)](https://github.com/erigontech/erigon/commit/db8dfd1f227a32e13f63265cc2422fc8127196f8) - 2026-04-05
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

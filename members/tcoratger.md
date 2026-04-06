@@ -25,6 +25,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat: add Quintic extension impl for SymbolicExpression](https://github.com/Plonky3/Plonky3/pull/1522#pullrequestreview-4056042699) - 2026-04-03
 * [Issue] [test(fri): add verifier error path tests for all typed FriError variants](https://github.com/Plonky3/Plonky3/issues/1524) - 2026-04-03
 * [Review] [Review on: core: clippy fix](https://github.com/Plonky3/Plonky3/pull/1526#pullrequestreview-4058385288) - 2026-04-04
+* [Review] [Review on: core: couple more compile time assertions](https://github.com/Plonky3/Plonky3/pull/1525#pullrequestreview-4059888909) - 2026-04-05
+* [Pull Request] [refactor(fri): move FRI parameter constructors to associated methods](https://github.com/Plonky3/Plonky3/pull/1530) - 2026-04-05
+* [Pull Request] [fri: full test coverage for verifier errors](https://github.com/Plonky3/Plonky3/pull/1529) - 2026-04-05
+* [Review] [Review on: perf: Investigate sumcheck](https://github.com/Plonky3/Plonky3/pull/1528#pullrequestreview-4059545694) - 2026-04-05
 ## Q1 2026
 
 

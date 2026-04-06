@@ -18,6 +18,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Replace Altair GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8210) - 2026-04-01
 * [Pull Request] [Replace Capella GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8217) - 2026-04-02
 * [Pull Request] [Cache participating balances from unrealized finality computation](https://github.com/status-im/nimbus-eth2/pull/8216) - 2026-04-02
+* [Pull Request] [Correction in (disabled) withdrawal prediction](https://github.com/status-im/nimbus-eth2/pull/8220) - 2026-04-05
 ## Q1 2026
 
 

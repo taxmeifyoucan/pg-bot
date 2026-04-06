@@ -33,6 +33,7 @@ Team: Reth
 * [Review] [Review on: fix(rpc): avoid evicting cached entries on replacement](https://github.com/paradigmxyz/reth/pull/23329#pullrequestreview-4049653960) - 2026-04-02
 * [Review] [Review on: feat(revm): add `ExecutionWitnessRecord::into_execution_witness` helper](https://github.com/paradigmxyz/reth/pull/23345#pullrequestreview-4055123058) - 2026-04-03
 * [Review] [Review on: chore(cli): add binary name and chain detection in tempo download log](https://github.com/paradigmxyz/reth/pull/23356#pullrequestreview-4058393546) - 2026-04-04
+* [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23359#pullrequestreview-4059174356) - 2026-04-05
 ## Q1 2026
 
 

@@ -16,6 +16,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: flush: use etl.IdentityLoadFunc instead custom. part2](https://github.com/erigontech/erigon/pull/20324#pullrequestreview-4058547476) - 2026-04-04
 * [Review] [Review on: remove e3 banner from logs](https://github.com/erigontech/erigon/pull/20322#pullrequestreview-4058547805) - 2026-04-04
 * [Review] [Review on: [wip] seg: arena-based MatchFinder (patricia trie)](https://github.com/erigontech/erigon/pull/20136#pullrequestreview-4058548686) - 2026-04-04
+* [Review] [Review on: warmuper.WaitAndClose: cancel work before wait](https://github.com/erigontech/erigon/pull/20332#pullrequestreview-4059378778) - 2026-04-05
 ## Q1 2026
 
 

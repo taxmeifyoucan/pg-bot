@@ -57,6 +57,20 @@ Team: Erigon
 * [Commit] [agg: remove bg indexing (#20320)](https://github.com/erigontech/erigon/commit/656dc271492729d1d45a0a82ab3603e700a8108c) - 2026-04-04
 * [Commit] [merge: II to support NO_DEEP_MERGE_HISTORY (#20321)](https://github.com/erigontech/erigon/commit/bd46f7a339eaf25fcb76b66c370b976448b1c3ab) - 2026-04-04
 * [Commit] [recsplit: use same etl pool with other system (#20323)](https://github.com/erigontech/erigon/commit/90196c2aad6dacce28583359ec64e89928ddb452) - 2026-04-04
+* [Pull Request] [debug_executionWitness: follow up](https://github.com/erigontech/erigon/pull/20345) - 2026-04-06
+* [Pull Request] [[wip] Log: replace additional structure for json by typed fields](https://github.com/erigontech/erigon/pull/20340) - 2026-04-05
+* [Review] [Review on: rpc : fix eth_simulateV1 has storage ram batch](https://github.com/erigontech/erigon/pull/20293#pullrequestreview-4059168901) - 2026-04-05
+* [Pull Request] [nat stun: migrate to v3 lib](https://github.com/erigontech/erigon/pull/20341) - 2026-04-05
+* [Pull Request] [cp: integrity blk-range, up gql/grpc, stepSize tooling, CursorHeap fix, xsync fix, warmuper fix, logs debug, unused code](https://github.com/erigontech/erigon/pull/20337) - 2026-04-05
+* [Pull Request] [toml: migrate to toml lib v2](https://github.com/erigontech/erigon/pull/20342) - 2026-04-05
+* [Review] [Review on: Bug 1: Fix integrity check at domain <-> history boundary](https://github.com/erigontech/erigon/pull/20311#pullrequestreview-4059300315) - 2026-04-05
+* [Review] [Review on: rpc: replace EVM timeout goroutines with context.AfterFunc](https://github.com/erigontech/erigon/pull/20276#pullrequestreview-4059495459) - 2026-04-05
+* [Review] [Review on: rpc: fix block overrides ignored in eth_estimateGas](https://github.com/erigontech/erigon/pull/20307#pullrequestreview-4059500795) - 2026-04-05
+* [Pull Request] [warmuper.WaitAndClose: cancel work before wait](https://github.com/erigontech/erigon/pull/20332) - 2026-04-05
+* [Review] [Review on: caplin: ban peers that fail gossip verification](https://github.com/erigontech/erigon/pull/20343#pullrequestreview-4059971206) - 2026-04-06
+* [Pull Request] [[wip] stateCaceh: enable for ProcessFrozenBlocks and integration stage_exec](https://github.com/erigontech/erigon/pull/20330) - 2026-04-05
+* [Issue] [StateCache: follow up](https://github.com/erigontech/erigon/issues/20333) - 2026-04-05
+* [Commit] [migrate to bubbles v2 (#20338)](https://github.com/erigontech/erigon/commit/d98a64f13e7407df3d96c6816c854fede5ff5880) - 2026-04-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026
