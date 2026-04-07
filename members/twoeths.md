@@ -28,6 +28,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: avoid eager parent sync for pre-gloas beacon blocks](https://github.com/ChainSafe/lodestar/pull/9161#pullrequestreview-4053959938) - 2026-04-03
 * [Review] [Review on: fix: process payload attestations before payload envelope import](https://github.com/ChainSafe/lodestar/pull/9159#pullrequestreview-4053943312) - 2026-04-03
 * [Review] [Review on: fix: update attestation data index extraction](https://github.com/ChainSafe/lodestar/pull/9158#pullrequestreview-4053938785) - 2026-04-03
+* [Review] [Review on: feat: fast confirmation rule](https://github.com/ChainSafe/lodestar/pull/8837#pullrequestreview-4061060371) - 2026-04-06
+* [Review] [Review on: fix: only allow attestations for known payload statuses](https://github.com/ChainSafe/lodestar/pull/9177#pullrequestreview-4060175755) - 2026-04-06
 ## Q1 2026
 
 

@@ -19,6 +19,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(provider): cap storage_v2 unwind history by MDBX tip](https://github.com/paradigmxyz/reth/pull/23335#pullrequestreview-4050007368) - 2026-04-02
 * [Pull Request] [feat: catch-up for read-only `ProviderFactory`s](https://github.com/paradigmxyz/reth/pull/23357) - 2026-04-03
 * [Commit] [refactor(rocksdb): use secondary instances for read only providers (#23346)](https://github.com/paradigmxyz/reth/commit/adc960162fb960471c98d301fcef4a1bea2abe02) - 2026-04-03
+
+* [Pull Request] [feat: expose EVM config on EthTransactionValidator](https://github.com/paradigmxyz/reth/pull/23369) - 2026-04-06
+* [Commit] [feat: catch-up for read-only `ProviderFactory`s (#23357)](https://github.com/paradigmxyz/reth/commit/0e4f143172001a7870a9a17f5f16d1ae820d8bb7) - 2026-04-06
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 ## Q1 2026
 
 

@@ -25,6 +25,13 @@ Team: Consensus R&D (EF)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [L1-zkEVM breakout #03, April 8, 2026](https://github.com/ethereum/pm/issues/2005) - 2026-04-05
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Review] [Review on: fix: Remove unused gas-related functions](https://github.com/bluealloy/revm/pull/3534#pullrequestreview-4061438747) - 2026-04-06
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Refactor EIP8025 proof engine and p2p interface](https://github.com/ethereum/consensus-specs/pull/5055#pullrequestreview-4062006602) - 2026-04-06
+* [Issue] [Add 8025 test vectors](https://github.com/ethereum/consensus-specs/issues/5072) - 2026-04-06
 ## Q1 2026
 
 

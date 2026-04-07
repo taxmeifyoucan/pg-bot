@@ -15,6 +15,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Use github runners for all workflows](https://github.com/ethereum/consensus-specs/pull/5063) - 2026-04-02
 * [Pull Request] [Use self-hosted arm64 runners](https://github.com/ethereum/consensus-specs/pull/5064) - 2026-04-02
 * [Commit] [Use github runners for all workflows (#5063)](https://github.com/ethereum/consensus-specs/commit/befc75c258aa137d6c57af08b9e882cbff4f8199) - 2026-04-02
+* [Review] [Review on: Add compliance tests CLI flags to facilitate coverage and profiling](https://github.com/ethereum/consensus-specs/pull/5066#pullrequestreview-4061846691) - 2026-04-06
+* [Review] [Review on: Use editable install for compliance test generator](https://github.com/ethereum/consensus-specs/pull/5062#pullrequestreview-4061839568) - 2026-04-06
+* [Review] [Review on: Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069#pullrequestreview-4060171384) - 2026-04-06
+* [Review] [Review on: Update dependency mypy to v1.20.0](https://github.com/ethereum/consensus-specs/pull/5071#pullrequestreview-4060149763) - 2026-04-06
+* [Review] [Review on: Test execution payload with builder deposit after pending validator](https://github.com/ethereum/consensus-specs/pull/5068#pullrequestreview-4060166641) - 2026-04-06
+* [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4060163071) - 2026-04-06
+* [Review] [Review on: Update dependency ruff to v0.15.9](https://github.com/ethereum/consensus-specs/pull/5070#pullrequestreview-4060148933) - 2026-04-06
 ## Q1 2026
 
 

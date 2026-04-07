@@ -21,6 +21,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Support EIP-7949 and update hoodi spec accordingly (#10046)](https://github.com/NethermindEth/nethermind/commit/89a0bdb0b44233582296c7bfc616dd3c5f6196db) - 2026-04-01
 * [Pull Request] [Don't return state gas](https://github.com/NethermindEth/nethermind/pull/11031) - 2026-04-03
 * [Pull Request] [Add invalid chain dump plugin](https://github.com/NethermindEth/nethermind/pull/11030) - 2026-04-03
+* [Review] [Review on: fix: lower SoftOutgoingMessageSizeLimit to 2 MB to match Geth](https://github.com/NethermindEth/nethermind/pull/11050#pullrequestreview-4062844733) - 2026-04-06
+* [Review] [Review on: fix(hive): fix snap sync nethermind-to-nethermind test](https://github.com/NethermindEth/nethermind/pull/11022#pullrequestreview-4062462672) - 2026-04-06
+* [Pull Request] [Handle invalid blocks in hive runner](https://github.com/NethermindEth/nethermind/pull/11049) - 2026-04-06
+* [Commit] [Handle invalid blocks in hive runner (#11049)](https://github.com/NethermindEth/nethermind/commit/8e1bb69b079e86e3095006ea7ca38d6127093e14) - 2026-04-06
 ## Q1 2026
 
 

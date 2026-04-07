@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 
 ## Contributions
 
+## Q2 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [Add eth_fillTransaction RPC method](https://github.com/NethermindEth/nethermind/pull/11056) - 2026-04-06
 ## Q1 2026
 
 

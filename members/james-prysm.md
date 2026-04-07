@@ -22,6 +22,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Pre fork proposer preferences (#16588)](https://github.com/OffchainLabs/prysm/commit/a7b83c358abddc1ee988db5899b18b9e93d24926) - 2026-04-02
 * [Pull Request] [allow mid epoch active validators to retrigger getting duties](https://github.com/OffchainLabs/prysm/pull/16632) - 2026-04-03
 * [Review] [Review on: `ProcessEffectiveBalanceUpdates`: Avoid copying a validator when the computed effective balance is unchanged.](https://github.com/OffchainLabs/prysm/pull/16631#pullrequestreview-4055524360) - 2026-04-03
+* [Review] [Review on: Field Trie: Implement copy on write and base/overlay scheme.](https://github.com/OffchainLabs/prysm/pull/16512#pullrequestreview-4063121838) - 2026-04-06
+* [Review] [Review on: perf(auth): optimize auth token handling #15763](https://github.com/OffchainLabs/prysm/pull/15793#pullrequestreview-4064684173) - 2026-04-06
+* [Review] [Review on: Replace inline error creation with predefined error variables](https://github.com/OffchainLabs/prysm/pull/16445#pullrequestreview-4064648221) - 2026-04-06
+* [Review] [Review on: allow proposer preferences on the same epoch](https://github.com/OffchainLabs/prysm/pull/16610#pullrequestreview-4062705984) - 2026-04-06
+* [Review] [Review on: Use `ValidatorIndex` type for `proposer_lookahead` in beacon state proto](https://github.com/OffchainLabs/prysm/pull/16634#pullrequestreview-4064200383) - 2026-04-06
+* [Review] [Review on: Downgrade genesis forkchoice balance underflow warning to debug](https://github.com/OffchainLabs/prysm/pull/16633#pullrequestreview-4062444682) - 2026-04-06
 ## Q1 2026
 
 

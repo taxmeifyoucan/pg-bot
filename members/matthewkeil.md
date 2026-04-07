@@ -22,6 +22,22 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Mkeil/cell level das 2](https://github.com/ChainSafe/lodestar/pull/9160) - 2026-04-02
 * [Pull Request] [docs: update RELEASE.md](https://github.com/ChainSafe/lodestar/pull/9172) - 2026-04-03
 * [Pull Request] [DO NOT MERGE: cell level das deps](https://github.com/ChainSafe/lodestar/pull/9171) - 2026-04-03
+* [Review] [Review on: docs: add spec comment for envelope signature validation](https://github.com/ChainSafe/lodestar/pull/9184#pullrequestreview-4060771363) - 2026-04-06
+* [Review] [Review on: refactor: rename executionPayloadStateRoot to payloadStateRoot](https://github.com/ChainSafe/lodestar/pull/9187#pullrequestreview-4060961461) - 2026-04-06
+* [Review] [Review on: fix: initialize anchor block PTC votes to all-true](https://github.com/ChainSafe/lodestar/pull/9188#pullrequestreview-4060981819) - 2026-04-06
+* [Review] [Review on: fix: use expected withdrawals from state when parent is empty](https://github.com/ChainSafe/lodestar/pull/9189#pullrequestreview-4061035518) - 2026-04-06
+* [Review] [Review on: refactor: use consistent names for state after payload is applied](https://github.com/ChainSafe/lodestar/pull/9175#pullrequestreview-4060343876) - 2026-04-06
+* [Review] [Review on: feat: add endpoint to retrieve signed execution payload envelope](https://github.com/ChainSafe/lodestar/pull/9186#pullrequestreview-4060856337) - 2026-04-06
+* [Review] [Review on: fix: skip light client processing for gloas blocks](https://github.com/ChainSafe/lodestar/pull/9191#pullrequestreview-4060949941) - 2026-04-06
+* [Review] [Review on: fix: only allow attestations for known payload statuses](https://github.com/ChainSafe/lodestar/pull/9177#pullrequestreview-4060628005) - 2026-04-06
+* [Review] [Review on: chore: review import execution payload](https://github.com/ChainSafe/lodestar/pull/9174#pullrequestreview-4060333228) - 2026-04-06
+* [Review] [Review on: refactor: reorder payload status constants](https://github.com/ChainSafe/lodestar/pull/9176#pullrequestreview-4060384353) - 2026-04-06
+* [Review] [Review on: feat: add execution payload bid event](https://github.com/ChainSafe/lodestar/pull/9185#pullrequestreview-4060781129) - 2026-04-06
+* [Review] [Review on: refactor: align bid filtering with consensus spec](https://github.com/ChainSafe/lodestar/pull/9182#pullrequestreview-4060761990) - 2026-04-06
+* [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4060947660) - 2026-04-06
+* [Review] [Review on: fix: ignore beacon block if parent payload unknown](https://github.com/ChainSafe/lodestar/pull/9178#pullrequestreview-4060717481) - 2026-04-06
+* [Review] [Review on: fix: queue beacon block awaiting parent payload envelope](https://github.com/ChainSafe/lodestar/pull/9179#pullrequestreview-4060755984) - 2026-04-06
+* [Review] [Review on: fix: validate MIN_EPOCHS for blob/data column by range/root requests](https://github.com/ChainSafe/lodestar/pull/9173#pullrequestreview-4060316329) - 2026-04-06
 ## Q1 2026
 
 

@@ -30,6 +30,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [remove log arg](https://github.com/NethermindEth/gas-benchmarks/commit/d32f8b342c53d94382ee1cbf763c6601eade8fc2) - 2026-04-03
 * [Commit] [chore: replace full log dump with pytest short test summary](https://github.com/NethermindEth/gas-benchmarks/commit/8e8e95a93ae3097c4f359806bfa4e8ddf8932f1c) - 2026-04-03
 * [Commit] [fix: install gh CLI on stateful-generator runner](https://github.com/NethermindEth/gas-benchmarks/commit/a2cf514f8984ebdb9be22a2a9666d1f98a26cb0e) - 2026-04-03
+* [Commit] [chore: improve archive compression and remove stale perf-devnet-2 data](https://github.com/NethermindEth/gas-benchmarks/commit/312ff21a6e23a029b5992a5cce35fba49e140e59) - 2026-04-06
 ## Q1 2026
 
 

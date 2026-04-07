@@ -13,6 +13,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: added lookup to last persisted column indices at boot](https://github.com/status-im/nimbus-eth2/pull/8213#pullrequestreview-4058790593) - 2026-04-04
+* [Review] [Review on: added lookup to last persisted column indices at boot](https://github.com/status-im/nimbus-eth2/pull/8213#pullrequestreview-4061871708) - 2026-04-06
 ## Q1 2026
 
 

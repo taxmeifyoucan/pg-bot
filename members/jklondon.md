@@ -17,6 +17,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: remove e3 banner from logs](https://github.com/erigontech/erigon/pull/20322#pullrequestreview-4058547805) - 2026-04-04
 * [Review] [Review on: [wip] seg: arena-based MatchFinder (patricia trie)](https://github.com/erigontech/erigon/pull/20136#pullrequestreview-4058548686) - 2026-04-04
 * [Review] [Review on: warmuper.WaitAndClose: cancel work before wait](https://github.com/erigontech/erigon/pull/20332#pullrequestreview-4059378778) - 2026-04-05
+* [Review] [Review on: cmd/rpctest: helpers for open files and fetching blocks](https://github.com/erigontech/erigon/pull/20339#pullrequestreview-4062195553) - 2026-04-06
+* [Review] [Review on: cp: skill erigon-cherry-pick (from release/3.4)](https://github.com/erigontech/erigon/pull/20350#pullrequestreview-4062184049) - 2026-04-06
+* [Review] [Review on: toml: migrate to toml lib v2](https://github.com/erigontech/erigon/pull/20342#pullrequestreview-4062187461) - 2026-04-06
+* [Review] [Review on: [r3.4] execution: EVM interpreter array-based stack (#20183)](https://github.com/erigontech/erigon/pull/20351#pullrequestreview-4062180835) - 2026-04-06
+* [Review] [Review on: nat stun: migrate to v3 lib](https://github.com/erigontech/erigon/pull/20341#pullrequestreview-4062189844) - 2026-04-06
+* [Review] [Review on: [wip] Log: replace additional structure for json by typed fields](https://github.com/erigontech/erigon/pull/20340#pullrequestreview-4062193599) - 2026-04-06
+* [Review] [Review on: debug_executionWitness: follow up](https://github.com/erigontech/erigon/pull/20345#pullrequestreview-4062185707) - 2026-04-06
 ## Q1 2026
 
 

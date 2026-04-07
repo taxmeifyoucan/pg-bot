@@ -19,6 +19,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Use spec constants for PTC thresholds in fork choice](https://github.com/sigp/lighthouse/pull/9088#pullrequestreview-4058116354) - 2026-04-04
 * [Pull Request] [Gloas relax epoch aligned checkpoint state requirements](https://github.com/sigp/lighthouse/pull/9091) - 2026-04-04
 * [Pull Request] [Gloas serve post block state for finalized/justified state requests](https://github.com/sigp/lighthouse/pull/9092) - 2026-04-04
+* [Review] [Review on: Refactor `timestamp_now`](https://github.com/sigp/lighthouse/pull/9094#pullrequestreview-4061150461) - 2026-04-06
+* [Review] [Review on: Gloas relax epoch aligned checkpoint state requirements](https://github.com/sigp/lighthouse/pull/9091#pullrequestreview-4061219895) - 2026-04-06
+* [Pull Request] [Gloas set `AttestationData.index` ](https://github.com/sigp/lighthouse/pull/9100) - 2026-04-06
+* [Pull Request] [Gloas enable optimistic sync](https://github.com/sigp/lighthouse/pull/9098) - 2026-04-06
+* [Issue] [Gloas checkpoint sync](https://github.com/sigp/lighthouse/issues/9097) - 2026-04-06
+* [Issue] [Gloas sync notifier logs](https://github.com/sigp/lighthouse/issues/9099) - 2026-04-06
 ## Q1 2026
 
 

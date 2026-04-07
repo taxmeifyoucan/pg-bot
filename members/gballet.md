@@ -8,6 +8,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [trie/bintrie: spec change, big endian hashing of slot key](https://github.com/ethereum/go-ethereum/pull/34670) - 2026-04-06
 ## Q1 2026
 
 

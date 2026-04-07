@@ -22,6 +22,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(benchmarks): add runtime delegated EIP-7702 benchmarks](https://github.com/ethereum/execution-specs/pull/2598#pullrequestreview-4055607912) - 2026-04-03
 * [Commit] [fix(test-benchmark): account access subcall OOG issue (#2614)](https://github.com/ethereum/execution-specs/commit/4bf8bbe745972edac5398ac32adacc1d007fa827) - 2026-04-03
 * [Commit] [refactor: update target opcode count display name (#2591)](https://github.com/ethereum/execution-specs/commit/89d153de10894ae74a1bbde428b0ec9b274e668b) - 2026-04-03
+* [Pull Request] [feat(tests-execute): `EOA` pkey support for stub account](https://github.com/ethereum/execution-specs/pull/2624) - 2026-04-06
+* [Issue] [Organize `tests/benchmark/stateful/` folder structure.](https://github.com/ethereum/execution-specs/issues/2625) - 2026-04-06
 ## Q1 2026
 
 

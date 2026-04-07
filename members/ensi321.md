@@ -8,6 +8,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q2 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: docs: add spec comment for envelope signature validation](https://github.com/ChainSafe/lodestar/pull/9184#pullrequestreview-4065236549) - 2026-04-07
+* [Review] [Review on: refactor: rename executionPayloadStateRoot to payloadStateRoot](https://github.com/ChainSafe/lodestar/pull/9187#pullrequestreview-4065232932) - 2026-04-07
+* [Review] [Review on: fix: initialize anchor block PTC votes to all-true](https://github.com/ChainSafe/lodestar/pull/9188#pullrequestreview-4065164754) - 2026-04-07
+* [Review] [Review on: fix: use expected withdrawals from state when parent is empty](https://github.com/ChainSafe/lodestar/pull/9189#pullrequestreview-4065157703) - 2026-04-07
 ## Q1 2026
 
 

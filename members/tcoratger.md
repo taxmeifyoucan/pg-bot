@@ -29,6 +29,11 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [refactor(fri): move FRI parameter constructors to associated methods](https://github.com/Plonky3/Plonky3/pull/1530) - 2026-04-05
 * [Pull Request] [fri: full test coverage for verifier errors](https://github.com/Plonky3/Plonky3/pull/1529) - 2026-04-05
 * [Review] [Review on: perf: Investigate sumcheck](https://github.com/Plonky3/Plonky3/pull/1528#pullrequestreview-4059545694) - 2026-04-05
+* [Pull Request] [refactor(matrix): move column-appending helpers to DenseMatrix methods](https://github.com/Plonky3/Plonky3/pull/1533) - 2026-04-06
+* [Review] [Review on: refactor(matrix): move column-appending helpers to DenseMatrix methods](https://github.com/Plonky3/Plonky3/pull/1533#pullrequestreview-4064661234) - 2026-04-06
+* [Review] [Review on: fri: full test coverage for verifier errors](https://github.com/Plonky3/Plonky3/pull/1529#pullrequestreview-4060924648) - 2026-04-06
+* [Commit] [refactor(fri): move FRI parameter constructors to associated methods (#1530)](https://github.com/Plonky3/Plonky3/commit/c132e6924a9e048558f728489613206982fcb920) - 2026-04-06
+* [Commit] [core: couple more compile time assertions (#1525)](https://github.com/Plonky3/Plonky3/commit/c01e9b880483fbc1032b499997b714dfdf63edac) - 2026-04-06
 ## Q1 2026
 
 

@@ -23,8 +23,16 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541) - 2026-04-03
 * [Pull Request] [Add state gas reservoir refund for SSTORE 0→x→0](https://github.com/bluealloy/revm/pull/3540) - 2026-04-03
 * [Review] [Review on: Add state gas reservoir refund for SSTORE 0→x→0](https://github.com/bluealloy/revm/pull/3540#pullrequestreview-4055042277) - 2026-04-03
+* [Review] [Review on: revme: add --run regex filter to statetest and blockchaintest](https://github.com/bluealloy/revm/pull/3544#pullrequestreview-4061269233) - 2026-04-06
+* [Pull Request] [refactor(precompile): use PrecompileFn in Precompile struct](https://github.com/bluealloy/revm/pull/3546) - 2026-04-06
+* [Review] [Review on: fix: Remove unused gas-related functions](https://github.com/bluealloy/revm/pull/3534#pullrequestreview-4061279049) - 2026-04-06
+* [Review] [Review on: fix(context): use storage_by_account_id fast path in sload](https://github.com/bluealloy/revm/pull/3535#pullrequestreview-4061277330) - 2026-04-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8175: CALL/CREATE capabilities, fee_auth, and new opcodes](https://github.com/ethereum/EIPs/pull/11490) - 2026-04-06
+* [Commit] [Update EIP-8175: CALL/CREATE capabilities, fee_auth, and new opcodes](https://github.com/ethereum/EIPs/commit/8bb55846b3d4f3fe4efc542a818b8c17a472074d) - 2026-04-06
 ## Q1 2026
 
 

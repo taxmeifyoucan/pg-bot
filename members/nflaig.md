@@ -71,11 +71,27 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Implement payload data availability vote in store](https://github.com/ChainSafe/lodestar/issues/9183) - 2026-04-05
 * [Issue] [Avoid re-verifying pending deposit signatures on every block](https://github.com/ChainSafe/lodestar/issues/9181) - 2026-04-05
 
+* [Review] [Review on: docs: add spec comment for envelope signature validation](https://github.com/ChainSafe/lodestar/pull/9184#pullrequestreview-4061074904) - 2026-04-06
+* [Review] [Review on: feat: enhance processChainSegment for ePBS](https://github.com/ChainSafe/lodestar/pull/9103#pullrequestreview-4064902275) - 2026-04-06
+* [Review] [Review on: refactor: use consistent names for state after payload is applied](https://github.com/ChainSafe/lodestar/pull/9175#pullrequestreview-4061090961) - 2026-04-06
+* [Review] [Review on: chore(deps): bump docker/login-action from 4.0.0 to 4.1.0 in the actions group](https://github.com/ChainSafe/lodestar/pull/9195#pullrequestreview-4062829332) - 2026-04-06
+* [Review] [Review on: feat: add endpoint to retrieve signed execution payload envelope](https://github.com/ChainSafe/lodestar/pull/9186#pullrequestreview-4061017944) - 2026-04-06
+* [Review] [Review on: fix: only allow attestations for known payload statuses](https://github.com/ChainSafe/lodestar/pull/9177#pullrequestreview-4061162869) - 2026-04-06
+* [Review] [Review on: chore: review import execution payload](https://github.com/ChainSafe/lodestar/pull/9174#pullrequestreview-4061048267) - 2026-04-06
+* [Review] [Review on: refactor: reorder payload status constants](https://github.com/ChainSafe/lodestar/pull/9176#pullrequestreview-4061135102) - 2026-04-06
+* [Commit] [docs: add spec comment for envelope signature validation (#9184)](https://github.com/ChainSafe/lodestar/commit/50605dac9fb3bb99775ae1f8fbcbc20913a6e70f) - 2026-04-07
+* [Commit] [fix: skip light client processing for gloas blocks (#9191)](https://github.com/ChainSafe/lodestar/commit/7bdb87e586793962d27f83babb1388425a894232) - 2026-04-06
+* [Commit] [fix: only allow attestations for known payload statuses (#9177)](https://github.com/ChainSafe/lodestar/commit/ecef5869369587d79a6755b4f387f89d7386c193) - 2026-04-06
+* [Commit] [chore: review import execution payload (#9174)](https://github.com/ChainSafe/lodestar/commit/fb8f8a700edadb213fad3e3aaeb07b9e2b5d1fc0) - 2026-04-06
+* [Commit] [feat: add execution payload bid event (#9185)](https://github.com/ChainSafe/lodestar/commit/ff662b331cf62493712816facd0097c7b38ee589) - 2026-04-06
+* [Commit] [refactor: align bid filtering with consensus spec (#9182)](https://github.com/ChainSafe/lodestar/commit/d59b461308ddf6cbef14b03ffb35040eb9816a9b) - 2026-04-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
 * [Review] [Review on: Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069#pullrequestreview-4059656054) - 2026-04-05
 * [Pull Request] [Test execution payload with builder deposit after pending validator](https://github.com/ethereum/consensus-specs/pull/5068) - 2026-04-05
+* [Review] [Review on: Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069#pullrequestreview-4060960386) - 2026-04-06
+* [Commit] [Use expected withdrawals from state when parent block is empty (#5069)](https://github.com/ethereum/consensus-specs/commit/0ce0212a1f416cf8dc0ca3cf32bf7e20604a17e3) - 2026-04-06
 ## Q1 2026
 
 

@@ -12,6 +12,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: fix: use deposit_requests_start_index in Gloas process_operations](https://github.com/grandinetech/grandine/pull/654#pullrequestreview-4055629882) - 2026-04-03
+* [Pull Request] [Cleanup random things](https://github.com/grandinetech/grandine/pull/660) - 2026-04-06
+* [Pull Request] [Cleanup Gloas block processing](https://github.com/grandinetech/grandine/pull/659) - 2026-04-06
+* [Pull Request] [Reuse `process_registry_updates` and `epoch_report` from Electra](https://github.com/grandinetech/grandine/pull/658) - 2026-04-06
+* [Pull Request] [Refactor `validate_data_column_sidecar_with_state` function](https://github.com/grandinetech/grandine/pull/657) - 2026-04-06
 ## Q1 2026
 
 

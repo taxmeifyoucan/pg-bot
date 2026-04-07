@@ -25,6 +25,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix merge plugin tests for FlatDb and add to flat CI (#10919)](https://github.com/NethermindEth/nethermind/commit/5de8762c3c2404dee3fcf9f7e6c3c88eb9be4db4) - 2026-04-03
 * [Review] [Review on: Remove unused MonitoringService variable](https://github.com/NethermindEth/nethermind/pull/11041#pullrequestreview-4060083431) - 2026-04-06
 * [Pull Request] [[TEST] Check which test fail with flat](https://github.com/NethermindEth/nethermind/pull/11043) - 2026-04-06
+* [Review] [Review on: fix: respect CLI override for SnapServingEnabled](https://github.com/NethermindEth/nethermind/pull/11051#pullrequestreview-4065178475) - 2026-04-07
+* [Pull Request] [feat: make debug_executionWitness compatible with FlatDb](https://github.com/NethermindEth/nethermind/pull/11045) - 2026-04-06
+* [Review] [Review on: feat: make debug_executionWitness compatible with FlatDb](https://github.com/NethermindEth/nethermind/pull/11045#pullrequestreview-4060556206) - 2026-04-06
+* [Review] [Review on: fix: add SnapServingMaxPathsPerGroup config to raise snap RLP path limit](https://github.com/NethermindEth/nethermind/pull/11053#pullrequestreview-4065074188) - 2026-04-06
+* [Review] [Review on: fix: snap serving for flat state (ISnapServer DI + FlatStateRootIndex fallback)](https://github.com/NethermindEth/nethermind/pull/11052#pullrequestreview-4065070154) - 2026-04-06
+* [Pull Request] [Add NETH001 custom Roslyn analyzer for unused new expressions](https://github.com/NethermindEth/nethermind/pull/11044) - 2026-04-06
+* [Review] [Review on: Add NETH001 custom Roslyn analyzer for unused new expressions](https://github.com/NethermindEth/nethermind/pull/11044#pullrequestreview-4060263825) - 2026-04-06
+* [Commit] [Add NETH001 custom Roslyn analyzer for unused new expressions (#11044)](https://github.com/NethermindEth/nethermind/commit/578c46abb81c692aa91d146227a4ac559b91af39) - 2026-04-06
 ## Q1 2026
 
 

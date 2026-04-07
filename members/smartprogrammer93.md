@@ -17,6 +17,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Add stall timeout margin before FlatDb compactor warning](https://github.com/NethermindEth/nethermind/pull/10983#pullrequestreview-4041966016) - 2026-04-01
 * [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4048567283) - 2026-04-02
 * [Commit] [feat(taiko): add certain batch lookup RPC methods (#11021)](https://github.com/NethermindEth/nethermind/commit/a9532d5faea610f1efc2355ba5afb459bc95b74d) - 2026-04-02
+* [Review] [Review on: Fix trace_transaction and trace_replayTransaction returning HTTP 500](https://github.com/NethermindEth/nethermind/pull/11047#pullrequestreview-4060614331) - 2026-04-06
 ## Q1 2026
 
 

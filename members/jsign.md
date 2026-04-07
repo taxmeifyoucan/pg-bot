@@ -21,6 +21,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01
 * [Pull Request] [Add fixture name prefix filtering for benchmark runs](https://github.com/eth-act/zkevm-benchmark-workload/pull/272) - 2026-04-03
 * [Commit] [Add fixture name prefix filtering for benchmark runs (#272)](https://github.com/eth-act/zkevm-benchmark-workload/commit/dc9dbd45c20d409d4356ece391a30a308ca8cbeb) - 2026-04-03
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 ## Q1 2026
 
 

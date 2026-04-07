@@ -11,6 +11,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 [jihoonsong/pglanding-jihoonsong](https://github.com/jihoonsong/pglanding-jihoonsong)
 * [Commit] [Add FOCIL: Past, Present and Future - EthCC 2026](https://github.com/jihoonsong/pglanding-jihoonsong/commit/597dfc62d12c64e3397b483b886c169700da03a5) - 2026-04-03
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [FOCIL Breakout #32, April 07, 2026](https://github.com/ethereum/pm/issues/2006) - 2026-04-06
 ## Q1 2026
 
 

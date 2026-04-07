@@ -29,6 +29,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: feat: Add a provider to persist additional nodes to disk during full pruning and shutdown](https://github.com/NethermindEth/nethermind/pull/11023#pullrequestreview-4058291479) - 2026-04-04
 * [Review] [Review on: test(wallet): remove duplicate UnlockAccounts test case](https://github.com/NethermindEth/nethermind/pull/11029#pullrequestreview-4058279076) - 2026-04-04
 * [Review] [Review on: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11034#pullrequestreview-4058269630) - 2026-04-04
+* [Review] [Review on: ci: add known failing snapsync hive test](https://github.com/NethermindEth/nethermind/pull/11037#pullrequestreview-4061588750) - 2026-04-06
+* [Review] [Review on: feat(txpool): add txpool_contentFrom rpc method](https://github.com/NethermindEth/nethermind/pull/11048#pullrequestreview-4061598574) - 2026-04-06
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11040#pullrequestreview-4061606252) - 2026-04-06
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11039#pullrequestreview-4061594034) - 2026-04-06
 ## Q1 2026
 
 

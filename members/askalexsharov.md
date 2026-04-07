@@ -71,6 +71,25 @@ Team: Erigon
 * [Pull Request] [[wip] stateCaceh: enable for ProcessFrozenBlocks and integration stage_exec](https://github.com/erigontech/erigon/pull/20330) - 2026-04-05
 * [Issue] [StateCache: follow up](https://github.com/erigontech/erigon/issues/20333) - 2026-04-05
 * [Commit] [migrate to bubbles v2 (#20338)](https://github.com/erigontech/erigon/commit/d98a64f13e7407df3d96c6816c854fede5ff5880) - 2026-04-05
+* [Pull Request] [[r3.4] deps: update fastkeccak](https://github.com/erigontech/erigon/pull/20365) - 2026-04-07
+* [Review] [Review on: skill: add erigon-mdbx-compact for MDBX database compaction](https://github.com/erigontech/erigon/pull/20364#pullrequestreview-4065311990) - 2026-04-07
+* [Pull Request] [cmd/rpctest: helpers for open files and fetching blocks](https://github.com/erigontech/erigon/pull/20339) - 2026-04-06
+* [Pull Request] [cp: skill erigon-cherry-pick (from release/3.4)](https://github.com/erigontech/erigon/pull/20350) - 2026-04-06
+* [Review] [Review on: golangci: allow parallel runners](https://github.com/erigontech/erigon/pull/20363#pullrequestreview-4062040399) - 2026-04-06
+* [Review] [Review on: iterateChangedRecent: skip DB entries within file range](https://github.com/erigontech/erigon/pull/20361#pullrequestreview-4061933196) - 2026-04-06
+* [Pull Request] [[r3.4] execution: EVM interpreter array-based stack (#20183)](https://github.com/erigontech/erigon/pull/20351) - 2026-04-06
+* [Review] [Review on: db/state: comment on CursorItem.reverse field](https://github.com/erigontech/erigon/pull/20354#pullrequestreview-4061787737) - 2026-04-06
+* [Review] [Review on: db/state: remove unused step param from IteratePrefix](https://github.com/erigontech/erigon/pull/20353#pullrequestreview-4061943219) - 2026-04-06
+* [Review] [Review on: db/state: RangeAsOf DB iterator starts from files.EndTxNum()](https://github.com/erigontech/erigon/pull/20360#pullrequestreview-4061930983) - 2026-04-06
+* [Review] [Review on: recentIterateRange: narrow DB query to exclude file range](https://github.com/erigontech/erigon/pull/20362#pullrequestreview-4061940593) - 2026-04-06
+* [Review] [Review on: db/state: fix remaining unsafe dirtyFiles access in RoTx](https://github.com/erigontech/erigon/pull/20359#pullrequestreview-4061935886) - 2026-04-06
+* [Pull Request] [membatch: use array instead of map for metrics](https://github.com/erigontech/erigon/pull/20352) - 2026-04-06
+* [Pull Request] [cp: cherry-pick batch from release/3.4 to main](https://github.com/erigontech/erigon/pull/20349) - 2026-04-06
+* [Review] [Review on: db/integrity: check-commitment-hist-at-blk to consider DB data](https://github.com/erigontech/erigon/pull/20347#pullrequestreview-4060743536) - 2026-04-06
+* [Commit] [cmd/rpctest: helpers for open files and fetching blocks (#20339)](https://github.com/erigontech/erigon/commit/57b0031833537655c9c8e0e99975e569247879bf) - 2026-04-06
+* [Commit] [cp: skill erigon-cherry-pick (from release/3.4) (#20350)](https://github.com/erigontech/erigon/commit/6529e5c234043a6f72a3c4b9332ce938bd950239) - 2026-04-06
+* [Commit] [cp: cherry-pick batch from release/3.4 to main (#20349)](https://github.com/erigontech/erigon/commit/32291099eca7821aee391390c12f1a280618eeab) - 2026-04-06
+* [Commit] [cp: integrity blk-range, up gql/grpc, stepSize tooling, CursorHeap fix, xsync fix, warmuper fix, logs debug, unused code (#20337)](https://github.com/erigontech/erigon/commit/d6d3518de0f3b01d0f427d3955e668b3faab7995) - 2026-04-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026

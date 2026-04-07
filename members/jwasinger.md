@@ -17,6 +17,7 @@ Team: Geth
 * [Review] [Review on: core/state: various fixes in EIP-7928](https://github.com/ethereum/go-ethereum/pull/34641#pullrequestreview-4056394809) - 2026-04-03
 * [Review] [Review on: core/types: add accessList to WithSeal and WithBody](https://github.com/ethereum/go-ethereum/pull/34651#pullrequestreview-4056014044) - 2026-04-03
 * [Review] [Review on: core: fix bal-devnet-3 hive failures](https://github.com/ethereum/go-ethereum/pull/34105#pullrequestreview-4059803908) - 2026-04-05
+* [Pull Request] [core: post-Amsterdam, don't subtract tx gas limit from GasPool before starting execution](https://github.com/ethereum/go-ethereum/pull/34668) - 2026-04-06
 ## Q1 2026
 
 

@@ -30,6 +30,27 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: seg: Sais to use external re-usable buffer](https://github.com/erigontech/erigon/pull/20319#pullrequestreview-4058461643) - 2026-04-04
 * [Review] [Review on: merge: II to support NO_DEEP_MERGE_HISTORY](https://github.com/erigontech/erigon/pull/20321#pullrequestreview-4058461367) - 2026-04-04
 * [Review] [Review on: recsplit: use same etl pool with other system](https://github.com/erigontech/erigon/pull/20323#pullrequestreview-4058461258) - 2026-04-04
+* [Pull Request] [golangci: allow parallel runners](https://github.com/erigontech/erigon/pull/20363) - 2026-04-06
+* [Pull Request] [iterateChangedRecent: skip DB entries within file range](https://github.com/erigontech/erigon/pull/20361) - 2026-04-06
+* [Pull Request] [db/state: comment on CursorItem.reverse field](https://github.com/erigontech/erigon/pull/20354) - 2026-04-06
+* [Pull Request] [db/state: remove unused step param from IteratePrefix](https://github.com/erigontech/erigon/pull/20353) - 2026-04-06
+* [Pull Request] [db/state: RangeAsOf DB iterator starts from files.EndTxNum()](https://github.com/erigontech/erigon/pull/20360) - 2026-04-06
+* [Pull Request] [recentIterateRange: narrow DB query to exclude file range](https://github.com/erigontech/erigon/pull/20362) - 2026-04-06
+* [Pull Request] [db/state: fix remaining unsafe dirtyFiles access in RoTx](https://github.com/erigontech/erigon/pull/20359) - 2026-04-06
+* [Pull Request] [don't merge](https://github.com/erigontech/erigon/pull/20346) - 2026-04-06
+* [Review] [Review on: membatch: use array instead of map for metrics](https://github.com/erigontech/erigon/pull/20352#pullrequestreview-4061748244) - 2026-04-06
+* [Review] [Review on: cp: cherry-pick batch from release/3.4 to main](https://github.com/erigontech/erigon/pull/20349#pullrequestreview-4060894144) - 2026-04-06
+* [Pull Request] [db/integrity: check-commitment-hist-at-blk to consider DB data](https://github.com/erigontech/erigon/pull/20347) - 2026-04-06
+* [Review] [Review on: cp: integrity blk-range, up gql/grpc, stepSize tooling, CursorHeap fix, xsync fix, warmuper fix, logs debug, unused code](https://github.com/erigontech/erigon/pull/20337#pullrequestreview-4060562662) - 2026-04-06
+* [Issue] [iterateChangedRecent: DB query reads data within file range (prunable data)](https://github.com/erigontech/erigon/issues/20356) - 2026-04-06
+* [Issue] [recentIterateRange (inverted index): DB query reads data within file range (prunable data)](https://github.com/erigontech/erigon/issues/20358) - 2026-04-06
+* [Issue] [RangeAsOf (history): DB iterator reads data within file range (prunable data)](https://github.com/erigontech/erigon/issues/20357) - 2026-04-06
+* [Issue] [debugIteratePrefixLatest: DB cursor entry uses math.MaxUint64 endTxNum, always wins over files](https://github.com/erigontech/erigon/issues/20355) - 2026-04-06
+* [Commit] [golangci: allow parallel runners (#20363)](https://github.com/erigontech/erigon/commit/12c19d7cb16d68be4aac6f4bdb33e0f47d1ad642) - 2026-04-06
+* [Commit] [iterateChangedRecent: skip DB entries within file range (#20361)](https://github.com/erigontech/erigon/commit/a2e641c861b21764322f467f43a78d64d123e387) - 2026-04-06
+* [Commit] [db/state: comment on CursorItem.reverse field (#20354)](https://github.com/erigontech/erigon/commit/43affff2678000a29beb61a7d512ea0f9419188b) - 2026-04-06
+* [Commit] [db/state: remove unused step param from IteratePrefix (#20353)](https://github.com/erigontech/erigon/commit/a06ba979ef7dcea4c271fe9058a0ca8e0107ebb2) - 2026-04-06
+* [Commit] [db/integrity: check-commitment-hist-at-blk to consider DB data (#20347)](https://github.com/erigontech/erigon/commit/38ef0ee5c476377f910e8d72152b517dadaf13ee) - 2026-04-06
 ## Q1 2026
 
 

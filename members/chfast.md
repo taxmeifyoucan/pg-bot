@@ -18,6 +18,24 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Use local accumulator t[] in mul_amm_256 to avoid aliasing](https://github.com/ipsilon/evmone/pull/1477) - 2026-04-02
 * [Issue] [Check clang's wrap behavior types](https://github.com/ipsilon/evmone/issues/1476) - 2026-04-02
 * [Issue] [Enable SHA-256 ARM NEON acceleration on aarch64 Linux](https://github.com/ipsilon/evmone/issues/1478) - 2026-04-04
+* [Pull Request] [crypto: Hardening asserts, noexcept fixes, and safety checks](https://github.com/ipsilon/evmone/pull/1491) - 2026-04-06
+* [Pull Request] [crypto: Restrict conjugate() to degree-2 extension fields](https://github.com/ipsilon/evmone/pull/1485) - 2026-04-06
+* [Pull Request] [crypto: Document preconditions and edge cases in ECC/pairing code](https://github.com/ipsilon/evmone/pull/1481) - 2026-04-06
+* [Pull Request] [crypto: Make FROBENIUS_COEFFS const](https://github.com/ipsilon/evmone/pull/1479) - 2026-04-06
+* [Issue] [statetest: BLOCKHASH range check breaks when currentNumber > 2^63-1](https://github.com/ipsilon/evmone/issues/1493) - 2026-04-06
+* [Issue] [t8n: currentDifficulty diverges for currentTimestamp > 2^63-1](https://github.com/ipsilon/evmone/issues/1492) - 2026-04-06
+* [Issue] [statetest: transaction.secretKey is ignored unless sender is provided](https://github.com/ipsilon/evmone/issues/1490) - 2026-04-06
+* [Issue] [statetest: tx chainId parsed as uint8 (rejects chainId > 255)](https://github.com/ipsilon/evmone/issues/1489) - 2026-04-06
+* [Issue] [t8n: typed tx JSON with yParity (no v) is rejected](https://github.com/ipsilon/evmone/issues/1488) - 2026-04-06
+* [Issue] [t8n: legacy tx with v>255 (high chainId) is rejected by JSON parser](https://github.com/ipsilon/evmone/issues/1487) - 2026-04-06
+* [Issue] [t8n: CHAINID opcode ignores --state.chainid (hardcoded to 1)](https://github.com/ipsilon/evmone/issues/1486) - 2026-04-06
+* [Issue] [t8n: currentGasLimit >= 2^63 wraps signed and rejects valid txs](https://github.com/ipsilon/evmone/issues/1484) - 2026-04-06
+* [Issue] [t8n: forged authorizationList signer is trusted over EIP-7702 signature recovery](https://github.com/ipsilon/evmone/issues/1483) - 2026-04-06
+* [Issue] [t8n: sender/signature mismatch is accepted (JSON sender trusted over v/r/s)](https://github.com/ipsilon/evmone/issues/1482) - 2026-04-06
+* [Issue] [test/state: blob fee affordability overflow can accept invalid blob tx (diverges from geth)](https://github.com/ipsilon/evmone/issues/1480) - 2026-04-06
+* [Commit] [crypto: Hardening asserts, noexcept fixes, and safety checks (#1491)](https://github.com/ipsilon/evmone/commit/6a65cfff8d61ddcf7cddc4218c153cf7a85781e8) - 2026-04-06
+* [Commit] [crypto: Document preconditions and edge cases in ECC/pairing code (#1481)](https://github.com/ipsilon/evmone/commit/2381428d39eb4a4e07ba2cb2d2728b2ee2c88e6a) - 2026-04-06
+* [Commit] [crypto: Make FROBENIUS_COEFFS const (#1479)](https://github.com/ipsilon/evmone/commit/cf5bd56eda5400c8d0a9ad387f736d25e57d775f) - 2026-04-06
 ## Q1 2026
 
 
