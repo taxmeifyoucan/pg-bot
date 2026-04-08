@@ -27,6 +27,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [refactor(precompile): use PrecompileFn in Precompile struct](https://github.com/bluealloy/revm/pull/3546) - 2026-04-06
 * [Review] [Review on: fix: Remove unused gas-related functions](https://github.com/bluealloy/revm/pull/3534#pullrequestreview-4061279049) - 2026-04-06
 * [Review] [Review on: fix(context): use storage_by_account_id fast path in sload](https://github.com/bluealloy/revm/pull/3535#pullrequestreview-4061277330) - 2026-04-06
+* [Review] [Review on: refactor(precompile): restructure PrecompileOutput for state gas and reservoir support](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4066795284) - 2026-04-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

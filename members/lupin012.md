@@ -31,6 +31,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [QA: perf add migration step as 3.4 (#20327)](https://github.com/erigontech/erigon/commit/a9db7021e2cb25d2054f0b4adf27aea1b81aa632) - 2026-04-04
 * [Commit] [rpc: replace EVM timeout goroutines with context.AfterFunc (#20276)](https://github.com/erigontech/erigon/commit/e427bd513b3a30e4ed4f4365b3aba818d7033637) - 2026-04-05
 * [Commit] [rpc: fix block overrides ignored in eth_estimateGas (#20307)](https://github.com/erigontech/erigon/commit/db8dfd1f227a32e13f63265cc2422fc8127196f8) - 2026-04-05
+* [Pull Request] [graphql: fix block.account and account.storage resolvers (#11662)](https://github.com/erigontech/erigon/pull/20389) - 2026-04-07
+* [Pull Request] [rpc: fix null result unmarshalling in CallContext](https://github.com/erigontech/erigon/pull/20393) - 2026-04-07
+* [Review] [Review on: rpc : fix eth_simulateV1 has storage ram batch](https://github.com/erigontech/erigon/pull/20293#pullrequestreview-4069935765) - 2026-04-07
+* [Commit] [QA: enable rpc-tests (integration) using go (#20275)](https://github.com/erigontech/erigon/commit/84b5b61d3919bfc5709eada4a9f437f762c3b8eb) - 2026-04-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

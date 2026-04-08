@@ -85,6 +85,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: review import execution payload (#9174)](https://github.com/ChainSafe/lodestar/commit/fb8f8a700edadb213fad3e3aaeb07b9e2b5d1fc0) - 2026-04-06
 * [Commit] [feat: add execution payload bid event (#9185)](https://github.com/ChainSafe/lodestar/commit/ff662b331cf62493712816facd0097c7b38ee589) - 2026-04-06
 * [Commit] [refactor: align bid filtering with consensus spec (#9182)](https://github.com/ChainSafe/lodestar/commit/d59b461308ddf6cbef14b03ffb35040eb9816a9b) - 2026-04-06
+* [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4072093040) - 2026-04-08
+* [Review] [Review on: fix: ignore beacon block if parent payload unknown](https://github.com/ChainSafe/lodestar/pull/9178#pullrequestreview-4067481794) - 2026-04-07
+* [Commit] [test: add bellatrix and capella gossip validation spec tests (#9192)](https://github.com/ChainSafe/lodestar/commit/d4d0b21dfeba547220ab50f59b261cec36cfaa6a) - 2026-04-08
+* [Commit] [fix: ignore beacon block if parent payload unknown (#9178)](https://github.com/ChainSafe/lodestar/commit/8300b502a67705b1b499aaabfeb92b121928905b) - 2026-04-07
+* [Commit] [refactor: use consistent names for state after payload is applied (#9175)](https://github.com/ChainSafe/lodestar/commit/572fb8156ae073b895ea2bb6aeee716fc5b73708) - 2026-04-07
+* [Commit] [fix: use expected withdrawals from state when parent is empty (#9189)](https://github.com/ChainSafe/lodestar/commit/c58e92512eee78447aa0a575ec700bbad900c10b) - 2026-04-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -92,6 +98,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Test execution payload with builder deposit after pending validator](https://github.com/ethereum/consensus-specs/pull/5068) - 2026-04-05
 * [Review] [Review on: Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069#pullrequestreview-4060960386) - 2026-04-06
 * [Commit] [Use expected withdrawals from state when parent block is empty (#5069)](https://github.com/ethereum/consensus-specs/commit/0ce0212a1f416cf8dc0ca3cf32bf7e20604a17e3) - 2026-04-06
+* [Commit] [Test execution payload with builder deposit after pending validator (#5068)](https://github.com/ethereum/consensus-specs/commit/51f761cbd7d611424bf9274fb19eaf39e8a87065) - 2026-04-07
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026
 
 

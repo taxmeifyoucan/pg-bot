@@ -15,6 +15,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Add SHL, SHR and SAR shift operations for EVM v2](https://github.com/besu-eth/besu/pull/10154) - 2026-04-01
 * [Review] [Review on: Wire up MulOperationOptimized and SubOperationOptimized to EVM ](https://github.com/besu-eth/besu/pull/10030#pullrequestreview-4042401814) - 2026-04-01
 * [Review] [Review on: Add SHL, SHR and SAR shift operations for EVM v2](https://github.com/besu-eth/besu/pull/10154#pullrequestreview-4048886467) - 2026-04-02
+* [Pull Request] [Upgrade RocksDB version from 9.7.3 to 10.6.2](https://github.com/besu-eth/besu/pull/9767) - 2026-04-07
+* [Review] [Review on: Add SHL, SHR and SAR shift operations for EVM v2](https://github.com/besu-eth/besu/pull/10154#pullrequestreview-4066958227) - 2026-04-07
+* [Review] [Review on: Add MULMOD to EVMv2](https://github.com/besu-eth/besu/pull/10168#pullrequestreview-4067408546) - 2026-04-07
+* [Commit] [Upgrade RocksDB version from 9.7.3 to 10.6.2 (#9767)](https://github.com/besu-eth/besu/commit/85fd9627ea02da45b9d27811dc36bf7cdd66adf4) - 2026-04-07
+* [Commit] [Add SHL, SHR and SAR shift operations for EVM v2 (#10154)](https://github.com/besu-eth/besu/commit/4007a7e457686f76ed4556783aa791482eaac88f) - 2026-04-07
 ## Q1 2026
 
 

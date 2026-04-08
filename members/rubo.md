@@ -15,6 +15,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4049816392) - 2026-04-02
 * [Review] [Review on: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11034#pullrequestreview-4057765442) - 2026-04-04
 * [Review] [Review on: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11038#pullrequestreview-4059829043) - 2026-04-05
+* [Pull Request] [chore: Update GitHub Actions](https://github.com/NethermindEth/nethermind/pull/11063) - 2026-04-07
+* [Pull Request] [chore: Update Nethermind banner](https://github.com/NethermindEth/nethermind/pull/11064) - 2026-04-07
+* [Commit] [chore: Update Nethermind banner (#11064)](https://github.com/NethermindEth/nethermind/commit/9bf6376e2f1cf779b10a9512bb23af589c4d8cd0) - 2026-04-07
+* [Commit] [chore: Update GitHub Actions (#11063)](https://github.com/NethermindEth/nethermind/commit/5ba9724eda54d7f7e3ba5527cc021e0fcaea07a9) - 2026-04-07
 ## Q1 2026
 
 

@@ -22,6 +22,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Use ceil div in adjust_committee_weight_estimate_to_ensure_safety](https://github.com/status-im/nimbus-eth2/pull/8225) - 2026-04-06
 * [Pull Request] [FCR: No restart if justified block is old](https://github.com/status-im/nimbus-eth2/pull/8224) - 2026-04-06
 * [Pull Request] [Update Deneb light client spec references](https://github.com/status-im/nimbus-eth2/pull/8223) - 2026-04-06
+* [Pull Request] [Use proof unions for collecting the various light client data branches](https://github.com/status-im/nimbus-eth2/pull/8232) - 2026-04-07
+* [Pull Request] [Track current epoch observed justified checkpoint block slot](https://github.com/status-im/nimbus-eth2/pull/8229) - 2026-04-07
+* [Pull Request] [Replace Fulu data column GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8230) - 2026-04-07
+* [Pull Request] [Replace verifying signer GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8228) - 2026-04-07
+* [Review] [Review on: Replace verifying signer GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8228#pullrequestreview-4068085109) - 2026-04-07
+* [Pull Request] [Replace Electra GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8226) - 2026-04-07
+* [Pull Request] [Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227) - 2026-04-07
 ## Q1 2026
 
 

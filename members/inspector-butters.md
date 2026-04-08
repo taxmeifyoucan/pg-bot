@@ -11,6 +11,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4049058998) - 2026-04-02
+* [Review] [Review on: Fix swapped JSON tags in ChainReorgEvent struct](https://github.com/OffchainLabs/prysm/pull/16639#pullrequestreview-4067658089) - 2026-04-07
 ## Q1 2026
 
 

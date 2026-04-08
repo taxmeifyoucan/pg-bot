@@ -27,6 +27,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: add static analysis enforcement to build pipeline](https://github.com/NethermindEth/nethermind/pull/11025#pullrequestreview-4056230195) - 2026-04-03
 * [Review] [Review on: Don't return state gas](https://github.com/NethermindEth/nethermind/pull/11031#pullrequestreview-4058520353) - 2026-04-04
 * [Review] [Review on: fix(test): fix flaky Special_Tx_Is_Executed_Before_Normal_Txs nonce collision](https://github.com/NethermindEth/nethermind/pull/11033#pullrequestreview-4058299602) - 2026-04-04
+
+* [Review] [Review on: feat: make debug_executionWitness compatible with FlatDb](https://github.com/NethermindEth/nethermind/pull/11045#pullrequestreview-4068528367) - 2026-04-07
+* [Review] [Review on: Parallel transaction execution with BALs](https://github.com/NethermindEth/nethermind/pull/9182#pullrequestreview-4069963482) - 2026-04-07
+* [Review] [Review on: Lower Ethash cache level logs - no need to spam them for history blocks](https://github.com/NethermindEth/nethermind/pull/11061#pullrequestreview-4068875380) - 2026-04-07
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 ## Q1 2026
 
 

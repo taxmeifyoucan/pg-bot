@@ -6,6 +6,13 @@ Github: [@cperezz](https://github.com/cperezz)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [triedb/pathdb: fix lookup sentinel collision with zero disk layer root](https://github.com/ethereum/go-ethereum/pull/34680) - 2026-04-07
+* [Pull Request] [core/state: fix codeLen=0 corruption of bintrie BasicData](https://github.com/ethereum/go-ethereum/pull/34677) - 2026-04-07
+* [Pull Request] [trie/bintrie: fix DeleteAccount no-op](https://github.com/ethereum/go-ethereum/pull/34676) - 2026-04-07
 ## Q1 2026
 
 

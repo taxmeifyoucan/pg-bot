@@ -51,6 +51,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/state: comment on CursorItem.reverse field (#20354)](https://github.com/erigontech/erigon/commit/43affff2678000a29beb61a7d512ea0f9419188b) - 2026-04-06
 * [Commit] [db/state: remove unused step param from IteratePrefix (#20353)](https://github.com/erigontech/erigon/commit/a06ba979ef7dcea4c271fe9058a0ca8e0107ebb2) - 2026-04-06
 * [Commit] [db/integrity: check-commitment-hist-at-blk to consider DB data (#20347)](https://github.com/erigontech/erigon/commit/38ef0ee5c476377f910e8d72152b517dadaf13ee) - 2026-04-06
+* [Review] [Review on: ParseVersion: optimize](https://github.com/erigontech/erigon/pull/20374#pullrequestreview-4066465732) - 2026-04-07
+* [Pull Request] [backtester: use ChangedKeysPerBlockIdx instead of HistoryRange for replay](https://github.com/erigontech/erigon/pull/20375) - 2026-04-07
+* [Commit] [recentIterateRange: narrow DB query to exclude file range (#20362)](https://github.com/erigontech/erigon/commit/ab035f39db3a91c1136e855c8a88cdf6291214a7) - 2026-04-07
 ## Q1 2026
 
 

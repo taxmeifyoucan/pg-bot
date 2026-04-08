@@ -13,6 +13,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Review] [Review on: Remove unused `exit-future`](https://github.com/sigp/lighthouse/pull/9095#pullrequestreview-4059913721) - 2026-04-05
+* [Pull Request] [Fix total_effective_balance=0 in `PreEpochCache`](https://github.com/sigp/lighthouse/pull/9106) - 2026-04-07
+* [Review] [Review on: Ensure payload envelope streamer always serves canonical envelopes after the split slot](https://github.com/sigp/lighthouse/pull/9085#pullrequestreview-4066776760) - 2026-04-07
+* [Review] [Review on: Gloas database pruning & beacon_chain tests](https://github.com/sigp/lighthouse/pull/8998#pullrequestreview-4065415469) - 2026-04-07
+* [Review] [Review on: Gloas set `AttestationData.index` ](https://github.com/sigp/lighthouse/pull/9100#pullrequestreview-4066723865) - 2026-04-07
+* [Review] [Review on: Add `cargo-hack` to CI to check crate features](https://github.com/sigp/lighthouse/pull/8927#pullrequestreview-4066009722) - 2026-04-07
 ## Q1 2026
 
 

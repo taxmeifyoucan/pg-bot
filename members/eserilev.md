@@ -25,6 +25,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Gloas enable optimistic sync](https://github.com/sigp/lighthouse/pull/9098) - 2026-04-06
 * [Issue] [Gloas checkpoint sync](https://github.com/sigp/lighthouse/issues/9097) - 2026-04-06
 * [Issue] [Gloas sync notifier logs](https://github.com/sigp/lighthouse/issues/9099) - 2026-04-06
+* [Review] [Review on: Ensure payload envelope streamer always serves canonical envelopes after the split slot](https://github.com/sigp/lighthouse/pull/9085#pullrequestreview-4066911774) - 2026-04-07
+* [Review] [Review on: Gloas set `AttestationData.index` ](https://github.com/sigp/lighthouse/pull/9100#pullrequestreview-4066992087) - 2026-04-07
 ## Q1 2026
 
 

@@ -24,6 +24,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-benchmark): account access subcall OOG issue](https://github.com/ethereum/execution-specs/pull/2614#pullrequestreview-4055608504) - 2026-04-03
 * [Review] [Review on: feat(test-benchmark): add precompile macro for precompile benchmarks](https://github.com/ethereum/execution-specs/pull/2591#pullrequestreview-4054966461) - 2026-04-03
 * [Pull Request] [feat(test-consume): direct with per type result models and exception matching](https://github.com/ethereum/execution-specs/pull/2622) - 2026-04-05
+* [Review] [Review on: chore(test-client-clis): update `GAS_USED_OVERFLOW` exception mapper](https://github.com/ethereum/execution-specs/pull/2632#pullrequestreview-4067790285) - 2026-04-07
+* [Review] [Review on: feat(scripts): skip @manually-enhanced files in filler_to_python](https://github.com/ethereum/execution-specs/pull/2630#pullrequestreview-4067759823) - 2026-04-07
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

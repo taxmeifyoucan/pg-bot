@@ -22,6 +22,10 @@ Team: Erigon
 * [Pull Request] [commitment: replace trace bool with io.Writer for structured trace output](https://github.com/erigontech/erigon/pull/20316) - 2026-04-03
 * [Pull Request] [commitment: remove TxNum() from PatriciaContext interface](https://github.com/erigontech/erigon/pull/20308) - 2026-04-03
 * [Pull Request] [commitment: eliminate CellGetter callback — hashRow + pure EncodeBranch](https://github.com/erigontech/erigon/pull/20306) - 2026-04-03
+* [Pull Request] [commitment: simplify unfold if branch](https://github.com/erigontech/erigon/pull/20388) - 2026-04-07
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026
 
 

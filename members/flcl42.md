@@ -25,6 +25,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(hive): fix snap sync nethermind-to-nethermind test](https://github.com/NethermindEth/nethermind/pull/11022#pullrequestreview-4062462672) - 2026-04-06
 * [Pull Request] [Handle invalid blocks in hive runner](https://github.com/NethermindEth/nethermind/pull/11049) - 2026-04-06
 * [Commit] [Handle invalid blocks in hive runner (#11049)](https://github.com/NethermindEth/nethermind/commit/8e1bb69b079e86e3095006ea7ca38d6127093e14) - 2026-04-06
+* [Pull Request] [Don't count revert state](https://github.com/NethermindEth/nethermind/pull/11060) - 2026-04-07
+* [Commit] [Don't return state gas (#11031)](https://github.com/NethermindEth/nethermind/commit/c58978abc786098d711350f6f3a4e3bd354de882) - 2026-04-07
 ## Q1 2026
 
 

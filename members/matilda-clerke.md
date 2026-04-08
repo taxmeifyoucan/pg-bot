@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 
 ## Contributions
 
+## Q2 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Handle peer permission updates in PeerDiscoveryAgentV5](https://github.com/besu-eth/besu/pull/10193) - 2026-04-07
 ## Q1 2026
 
 

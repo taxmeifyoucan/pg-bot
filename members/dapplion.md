@@ -18,6 +18,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Fix O(n²) find_head and stack overflow in filter_block_tree](https://github.com/sigp/lighthouse/pull/9090) - 2026-04-04
 * [Pull Request] [Use spec constants for PTC thresholds in fork choice](https://github.com/sigp/lighthouse/pull/9088) - 2026-04-04
 * [Pull Request] [Fix V29 weight leak on execution payload invalidation](https://github.com/sigp/lighthouse/pull/9089) - 2026-04-04
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 ## Q1 2026
 
 

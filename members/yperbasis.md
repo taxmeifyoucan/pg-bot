@@ -39,6 +39,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cmd: fix typo in flag beacon.api.ide.timeout (#20289)](https://github.com/erigontech/erigon/commit/fdebfaf044f999b33ac9111f5cf2b4227eecc8bd) - 2026-04-02
 * [Commit] [db/state: skip redundant state cache put for in-memory batch values (#20283)](https://github.com/erigontech/erigon/commit/68bfead41f5141d4777b944c3027d866daa06d18) - 2026-04-02
 
+* [Review] [Review on: [wip] execution/state: AccessList: Pop methods instead Delete](https://github.com/erigontech/erigon/pull/19918#pullrequestreview-4067047230) - 2026-04-07
+* [Pull Request] [execution: fix BAL header/blockIO mismatch in parallel executor](https://github.com/erigontech/erigon/pull/20392) - 2026-04-07
+* [Review] [Review on: Add caplin support for assertor minimal presets](https://github.com/erigontech/erigon/pull/20190#pullrequestreview-4066551583) - 2026-04-07
+* [Review] [Review on: stagedsync, state: parallel executor fixes from bal-devnet-3](https://github.com/erigontech/erigon/pull/20386#pullrequestreview-4068720703) - 2026-04-07
+* [Review] [Review on: notifications, rpc: overlay publish, pre-commit dispatch, native types, embedded RPC overlay](https://github.com/erigontech/erigon/pull/20195#pullrequestreview-4067892146) - 2026-04-07
+* [Review] [Review on: docs: remove 4 non-CLI flags from configuring-erigon (vmodule, gpo.maxprice, whitelist, silkworm.workers)](https://github.com/erigontech/erigon/pull/20384#pullrequestreview-4067983009) - 2026-04-07
+* [Review] [Review on: hive: pin more things](https://github.com/erigontech/erigon/pull/20370#pullrequestreview-4067077417) - 2026-04-07
+* [Review] [Review on: [SharovBot] engineapi: fix flaky tests caused by TOCTOU port races](https://github.com/erigontech/erigon/pull/20328#pullrequestreview-4067966355) - 2026-04-07
+* [Review] [Review on: docs: remove non-CLI flags from configuring-erigon (ipc*, ws.addr, ws.api, ws.origins)](https://github.com/erigontech/erigon/pull/20382#pullrequestreview-4067944204) - 2026-04-07
+* [Review] [Review on: batchSize: more precise estimate](https://github.com/erigontech/erigon/pull/20369#pullrequestreview-4067896140) - 2026-04-07
+* [Review] [Review on: [wip] seg: arena-based MatchFinder (patricia trie)](https://github.com/erigontech/erigon/pull/20136#pullrequestreview-4067181800) - 2026-04-07
+* [Review] [Review on: docs: migrate v3.3 documentation from gitbook_docs_v3.3 to release/3.3](https://github.com/erigontech/erigon/pull/20263#pullrequestreview-4067160447) - 2026-04-07
+* [Issue] [execution: EIP-8037 state gas follow-ups from PR #20255 review](https://github.com/erigontech/erigon/issues/20378) - 2026-04-07
+* [Commit] [execution: enforce EIP-8037 state gas limit in block builder (#20255)](https://github.com/erigontech/erigon/commit/5719589cd8e533beff3a94aa9a139455f1c71315) - 2026-04-07
+* [Commit] [execution/vm: optimize KZG point evaluation precompile (~24% faster) (#20273)](https://github.com/erigontech/erigon/commit/d81bdea7487d46293a80d3aac0953274a172b3b5) - 2026-04-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 ## Q1 2026

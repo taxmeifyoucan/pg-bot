@@ -34,6 +34,13 @@ Team: Reth
 * [Review] [Review on: feat(revm): add `ExecutionWitnessRecord::into_execution_witness` helper](https://github.com/paradigmxyz/reth/pull/23345#pullrequestreview-4055123058) - 2026-04-03
 * [Review] [Review on: chore(cli): add binary name and chain detection in tempo download log](https://github.com/paradigmxyz/reth/pull/23356#pullrequestreview-4058393546) - 2026-04-04
 * [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23359#pullrequestreview-4059174356) - 2026-04-05
+* [Review] [Review on: chore: removed repeat checking for bal in post exec](https://github.com/paradigmxyz/reth/pull/23368#pullrequestreview-4070385656) - 2026-04-07
+* [Review] [Review on: chore: 2.0 release branch](https://github.com/paradigmxyz/reth/pull/23372#pullrequestreview-4067736765) - 2026-04-07
+* [Review] [Review on: fix(rpc): prevent u64 underflow in binary_search when mid is 0](https://github.com/paradigmxyz/reth/pull/23366#pullrequestreview-4067505692) - 2026-04-07
+* [Review] [Review on: chore: added block_access_list_raw rpc](https://github.com/paradigmxyz/reth/pull/23363#pullrequestreview-4067355167) - 2026-04-07
+* [Review] [Review on: feat(trie): add `DecodedMultiProofV2::from_witness` constructor](https://github.com/paradigmxyz/reth/pull/23362#pullrequestreview-4067364988) - 2026-04-07
+* [Review] [Review on: feat: expose EVM config on EthTransactionValidator](https://github.com/paradigmxyz/reth/pull/23369#pullrequestreview-4067357635) - 2026-04-07
+* [Issue] [add support for erae](https://github.com/paradigmxyz/reth/issues/23380) - 2026-04-07
 ## Q1 2026
 
 

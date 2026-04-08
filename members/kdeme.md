@@ -22,6 +22,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Witness: Fix block header ordening + fix off by 1](https://github.com/status-im/nimbus-eth1/pull/4100) - 2026-04-03
 * [Pull Request] [Witness: Implement optimisation where touched code can be skipped](https://github.com/status-im/nimbus-eth1/pull/4099) - 2026-04-03
 * [Commit] [Witness: Fix block header ordening + fix off by 1 (#4100)](https://github.com/status-im/nimbus-eth1/commit/b695a711fa98736081343c026154567da6c43c98) - 2026-04-03
+* [Review] [Review on: bump `nimbus-eth2` to 3bc1a2ad2625fa9d7f8d1bcd2cf6bba956012780](https://github.com/status-im/nimbus-eth1/pull/4104#pullrequestreview-4069299366) - 2026-04-07
 ## Q1 2026
 
 

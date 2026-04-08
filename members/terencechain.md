@@ -32,6 +32,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: allow proposer preferences on the same epoch](https://github.com/OffchainLabs/prysm/pull/16610#pullrequestreview-4062541004) - 2026-04-06
 * [Pull Request] [Fix initial sync envelope validation for genesis blocks](https://github.com/OffchainLabs/prysm/pull/16637) - 2026-04-06
 * [Commit] [Downgrade genesis forkchoice balance underflow warning to debug (#16633)](https://github.com/OffchainLabs/prysm/commit/14f5e6f4142a679419679cf2c0f1ff5afc1c1e58) - 2026-04-06
+* [Review] [Review on: Use proposer preferences cache for payload attributes after Gloas](https://github.com/OffchainLabs/prysm/pull/16620#pullrequestreview-4071194560) - 2026-04-07
+* [Commit] [Use `ValidatorIndex` type for `proposer_lookahead` in beacon state proto (#16634)](https://github.com/OffchainLabs/prysm/commit/883d78221fedf3ddceb66bb88272c8c662359a78) - 2026-04-07
 ## Q1 2026
 
 

@@ -33,6 +33,22 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: feat(txpool): add txpool_contentFrom rpc method](https://github.com/NethermindEth/nethermind/pull/11048#pullrequestreview-4061598574) - 2026-04-06
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11040#pullrequestreview-4061606252) - 2026-04-06
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11039#pullrequestreview-4061594034) - 2026-04-06
+* [Pull Request] [fix AuRaBlockFinalizationManager unclean shutdown](https://github.com/NethermindEth/nethermind/pull/11062) - 2026-04-07
+* [Review] [Review on: feat: Add a provider to persist additional nodes to disk during full pruning and shutdown](https://github.com/NethermindEth/nethermind/pull/11023#pullrequestreview-4067704219) - 2026-04-07
+* [Review] [Review on: chore: Update GitHub Actions](https://github.com/NethermindEth/nethermind/pull/11063#pullrequestreview-4071354873) - 2026-04-07
+* [Review] [Review on: chore: Update Nethermind banner](https://github.com/NethermindEth/nethermind/pull/11064#pullrequestreview-4071353026) - 2026-04-07
+* [Review] [Review on: feat(txpool): add txpool_contentFrom rpc method](https://github.com/NethermindEth/nethermind/pull/11048#pullrequestreview-4067083333) - 2026-04-07
+* [Review] [Review on: Don't return state gas](https://github.com/NethermindEth/nethermind/pull/11031#pullrequestreview-4068576024) - 2026-04-07
+* [Review] [Review on: fix: TransientResource disposal leaks and missing pruning in PersistenceManager](https://github.com/NethermindEth/nethermind/pull/10952#pullrequestreview-4069138210) - 2026-04-07
+* [Review] [Review on:  Fix unchecked SequenceEqual in Eip4844Tests](https://github.com/NethermindEth/nethermind/pull/11036#pullrequestreview-4069112935) - 2026-04-07
+* [Review] [Review on: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11038#pullrequestreview-4069096785) - 2026-04-07
+* [Review] [Review on: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11057#pullrequestreview-4069084013) - 2026-04-07
+* [Pull Request] [Lower Ethash cache level logs - no need to spam them for history blocks](https://github.com/NethermindEth/nethermind/pull/11061) - 2026-04-07
+* [Review] [Review on: Fix debug_executionWitness for Taiko plugin](https://github.com/NethermindEth/nethermind/pull/11058#pullrequestreview-4068886149) - 2026-04-07
+* [Review] [Review on: Add L1STATICCALL precompile and witness RPC](https://github.com/NethermindEth/nethermind/pull/11017#pullrequestreview-4068905103) - 2026-04-07
+* [Review] [Review on: fix: register ISnapServer in FlatWorldStateModule DI](https://github.com/NethermindEth/nethermind/pull/11052#pullrequestreview-4068472789) - 2026-04-07
+* [Review] [Review on: Handle invalid blocks in hive runner](https://github.com/NethermindEth/nethermind/pull/11049#pullrequestreview-4067026080) - 2026-04-07
+* [Commit] [Lower Ethash cache level logs - no need to spam them for history blocks (#11061)](https://github.com/NethermindEth/nethermind/commit/5836028f856d3c338a54cfa1dffd3a00310aaccd) - 2026-04-07
 ## Q1 2026
 
 

@@ -15,6 +15,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Cherry pick #10974 and adjust](https://github.com/NethermindEth/nethermind/pull/11020) - 2026-04-01
 * [Review] [Review on: fix(evm): include initcode state gas in block accumulator on code deposit failure](https://github.com/NethermindEth/nethermind/pull/11001#pullrequestreview-4044772868) - 2026-04-01
 * [Review] [Review on: Fix merge plugin tests for FlatDb and add to flat CI](https://github.com/NethermindEth/nethermind/pull/10919#pullrequestreview-4055245371) - 2026-04-03
+* [Review] [Review on: feat: make debug_executionWitness compatible with FlatDb](https://github.com/NethermindEth/nethermind/pull/11045#pullrequestreview-4068558802) - 2026-04-07
 ## Q1 2026
 
 

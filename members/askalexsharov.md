@@ -90,6 +90,15 @@ Team: Erigon
 * [Commit] [cp: skill erigon-cherry-pick (from release/3.4) (#20350)](https://github.com/erigontech/erigon/commit/6529e5c234043a6f72a3c4b9332ce938bd950239) - 2026-04-06
 * [Commit] [cp: cherry-pick batch from release/3.4 to main (#20349)](https://github.com/erigontech/erigon/commit/32291099eca7821aee391390c12f1a280618eeab) - 2026-04-06
 * [Commit] [cp: integrity blk-range, up gql/grpc, stepSize tooling, CursorHeap fix, xsync fix, warmuper fix, logs debug, unused code (#20337)](https://github.com/erigontech/erigon/commit/d6d3518de0f3b01d0f427d3955e668b3faab7995) - 2026-04-06
+* [Pull Request] [[wip] [r3.4] state: convert standalone inverted index slices to fixed-size arrays](https://github.com/erigontech/erigon/pull/20396) - 2026-04-08
+* [Pull Request] [deps: update fastkeccak](https://github.com/erigontech/erigon/pull/20395) - 2026-04-08
+* [Pull Request] [[r3.4] deps: update fastkeccak](https://github.com/erigontech/erigon/pull/20394) - 2026-04-08
+* [Pull Request] [hive: pin more things](https://github.com/erigontech/erigon/pull/20370) - 2026-04-07
+* [Pull Request] [batchSize: more precise estimate](https://github.com/erigontech/erigon/pull/20369) - 2026-04-07
+* [Pull Request] [ParseVersion: optimize](https://github.com/erigontech/erigon/pull/20374) - 2026-04-07
+* [Commit] [toml: migrate to toml lib v2 (#20342)](https://github.com/erigontech/erigon/commit/243487e9b1e52ea94ad6d254b120a0ee69c87660) - 2026-04-07
+* [Commit] [debug_executionWitness: follow up (#20345)](https://github.com/erigontech/erigon/commit/9b3aeb64adc31a1aec6f7ebcfb3e3548d58434d8) - 2026-04-07
+* [Commit] [hive: pin more things (#20370)](https://github.com/erigontech/erigon/commit/8c8ecd9940274cdf5bb4db138afdcc836c2f2490) - 2026-04-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026

@@ -14,6 +14,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: snap sync - apply BALs before flat db heal](https://github.com/besu-eth/besu/pull/10151#pullrequestreview-4055874336) - 2026-04-03
 * [Review] [Review on: Only apply blob schedule bpoX if bpoXTime is available as well](https://github.com/besu-eth/besu/pull/10166#pullrequestreview-4061151959) - 2026-04-06
 * [Review] [Review on: update eip 8037 to latest spec test](https://github.com/besu-eth/besu/pull/10185#pullrequestreview-4061128512) - 2026-04-06
+* [Pull Request] [Prefetch + cross block cache into bal devnet 3](https://github.com/besu-eth/besu/pull/10194) - 2026-04-07
+* [Review] [Review on: Only apply blob schedule bpoX if bpoXTime is available as well](https://github.com/besu-eth/besu/pull/10166#pullrequestreview-4067375828) - 2026-04-07
 ## Q1 2026
 
 

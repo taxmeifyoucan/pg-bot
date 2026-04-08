@@ -14,6 +14,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(tests): fix import sorting and stale type annotation for static checks](https://github.com/ethereum/execution-specs/pull/2612#pullrequestreview-4046063388) - 2026-04-01
 * [Review] [Review on: fix(execute): use configurable gas limit for funding txs (EIP-8037)](https://github.com/ethereum/execution-specs/pull/2603#pullrequestreview-4046052930) - 2026-04-01
+* [Review] [Review on: feat(cli): Add --until option for checklist generation](https://github.com/ethereum/execution-specs/pull/2593#pullrequestreview-4068430351) - 2026-04-07
 ## Q1 2026
 
 

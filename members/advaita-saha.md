@@ -16,6 +16,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [include enr in the `admin_nodeInfo` rpc (#4087)](https://github.com/status-im/nimbus-eth1/commit/3f84674726f7962f39c50aec6b2b40e096888916) - 2026-04-01
 * [Review] [Review on: FIx:minor fixes to receipt rpc endpoints serialization compatibility](https://github.com/status-im/nimbus-eth1/pull/4092#pullrequestreview-4055214602) - 2026-04-03
 * [Review] [Review on: Improve dynamic batch size settings](https://github.com/status-im/nimbus-eth1/pull/4096#pullrequestreview-4055491847) - 2026-04-03
+* [Pull Request] [bump `nimbus-eth2` to 3bc1a2ad2625fa9d7f8d1bcd2cf6bba956012780](https://github.com/status-im/nimbus-eth1/pull/4104) - 2026-04-07
+* [Review] [Review on: ci: build hiveproxy before parallel tests are run](https://github.com/status-im/nimbus-eth1/pull/4103#pullrequestreview-4067923667) - 2026-04-07
+* [Commit] [bump `nimbus-eth2` to 3bc1a2ad2625fa9d7f8d1bcd2cf6bba956012780 (#4104)](https://github.com/status-im/nimbus-eth1/commit/89fccf1c0753ff13ce63995497d73b891fa88152) - 2026-04-07
 ## Q1 2026
 
 

@@ -34,6 +34,12 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: fri: full test coverage for verifier errors](https://github.com/Plonky3/Plonky3/pull/1529#pullrequestreview-4060924648) - 2026-04-06
 * [Commit] [refactor(fri): move FRI parameter constructors to associated methods (#1530)](https://github.com/Plonky3/Plonky3/commit/c132e6924a9e048558f728489613206982fcb920) - 2026-04-06
 * [Commit] [core: couple more compile time assertions (#1525)](https://github.com/Plonky3/Plonky3/commit/c01e9b880483fbc1032b499997b714dfdf63edac) - 2026-04-06
+* [Review] [Review on: whir: sumcheck test](https://github.com/Plonky3/Plonky3/pull/1536#pullrequestreview-4071368958) - 2026-04-07
+* [Review] [Review on: fix(dft): merge twiddle and inv_twiddle locks in Radix2DFTSmallBatch](https://github.com/Plonky3/Plonky3/pull/1534#pullrequestreview-4071029210) - 2026-04-07
+* [Review] [Review on: Guard verifier degree_bits](https://github.com/Plonky3/Plonky3/pull/1535#pullrequestreview-4069499559) - 2026-04-07
+* [Review] [Review on: Harden verifier shape checks](https://github.com/Plonky3/Plonky3/pull/1469#pullrequestreview-4069386678) - 2026-04-07
+* [Review] [Review on: whir: full integration from whir-p3](https://github.com/Plonky3/Plonky3/pull/1523#pullrequestreview-4069082306) - 2026-04-07
+* [Commit] [core: clippy fix (#1526)](https://github.com/Plonky3/Plonky3/commit/dedfbc0731f3c587456dd8dd90c60f5c8a933c71) - 2026-04-07
 ## Q1 2026
 
 

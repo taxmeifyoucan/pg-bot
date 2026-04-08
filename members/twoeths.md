@@ -30,6 +30,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: update attestation data index extraction](https://github.com/ChainSafe/lodestar/pull/9158#pullrequestreview-4053938785) - 2026-04-03
 * [Review] [Review on: feat: fast confirmation rule](https://github.com/ChainSafe/lodestar/pull/8837#pullrequestreview-4061060371) - 2026-04-06
 * [Review] [Review on: fix: only allow attestations for known payload statuses](https://github.com/ChainSafe/lodestar/pull/9177#pullrequestreview-4060175755) - 2026-04-06
+* [Review] [Review on: fix: ignore beacon block if parent payload unknown](https://github.com/ChainSafe/lodestar/pull/9178#pullrequestreview-4067472989) - 2026-04-07
+* [Review] [Review on: feat: enhance processChainSegment for ePBS](https://github.com/ChainSafe/lodestar/pull/9103#pullrequestreview-4067185141) - 2026-04-07
+* [Review] [Review on: fix: queue beacon block awaiting parent payload envelope](https://github.com/ChainSafe/lodestar/pull/9179#pullrequestreview-4065602708) - 2026-04-07
+* [Review] [Review on: fix: use expected withdrawals from state when parent is empty](https://github.com/ChainSafe/lodestar/pull/9189#pullrequestreview-4065675872) - 2026-04-07
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
+* [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
 ## Q1 2026
 
 

@@ -24,6 +24,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [refactor: update target opcode count display name (#2591)](https://github.com/ethereum/execution-specs/commit/89d153de10894ae74a1bbde428b0ec9b274e668b) - 2026-04-03
 * [Pull Request] [feat(tests-execute): `EOA` pkey support for stub account](https://github.com/ethereum/execution-specs/pull/2624) - 2026-04-06
 * [Issue] [Organize `tests/benchmark/stateful/` folder structure.](https://github.com/ethereum/execution-specs/issues/2625) - 2026-04-06
+* [Review] [Review on: feat(tests-execute): `EOA` pkey support for stub account](https://github.com/ethereum/execution-specs/pull/2624#pullrequestreview-4066100776) - 2026-04-07
+* [Pull Request] [feat(test-benchmark): add cache strategy to storage benchmark](https://github.com/ethereum/execution-specs/pull/2628) - 2026-04-07
+* [Pull Request] [feat(test-benchmark): dummy multi block benchmark](https://github.com/ethereum/execution-specs/pull/2629) - 2026-04-07
 ## Q1 2026
 
 

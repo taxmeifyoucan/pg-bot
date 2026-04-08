@@ -22,6 +22,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(ci,test-benchmark): do not generate compute benchmarks (#2606)](https://github.com/ethereum/execution-specs/commit/2dd38cfb5679875d1d7ef150674eeaa4f488865f) - 2026-04-01
 * [Review] [Review on: feat(ci): split release builds across multiple runners; delete develop; stable becomes mainnet](https://github.com/ethereum/execution-specs/pull/2592#pullrequestreview-4051065119) - 2026-04-02
 * [Commit] [feat(ci): split release builds across multiple runners; delete develop; stable becomes mainnet (#2592)](https://github.com/ethereum/execution-specs/commit/9167dd91e7ff91161c6cd30d6e183c6319d69d61) - 2026-04-03
+* [Review] [Review on: feat(cli): Add --until option for checklist generation](https://github.com/ethereum/execution-specs/pull/2593#pullrequestreview-4066116110) - 2026-04-07
+* [Review] [Review on: feat(ci,tooling): add vulture dead code detection to just & ci](https://github.com/ethereum/execution-specs/pull/2621#pullrequestreview-4066246008) - 2026-04-07
+* [Issue] [Enable definition of client exception mappers via "external" file](https://github.com/ethereum/execution-specs/issues/2631) - 2026-04-07
 ## Q1 2026
 
 

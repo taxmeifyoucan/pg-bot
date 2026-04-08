@@ -19,6 +19,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [more introduction of Heze support infrastructure via typeclass extension](https://github.com/status-im/nimbus-eth2/pull/8222) - 2026-04-06
 * [Review] [Review on: add results to peer lookup and tests](https://github.com/status-im/nimbus-eth2/pull/8146#pullrequestreview-4059815441) - 2026-04-05
 * [Pull Request] [continue introduction of Heze support infrastructure via typeclass extension](https://github.com/status-im/nimbus-eth2/pull/8221) - 2026-04-05
+* [Pull Request] [initial Heze consensus fork infrastructure](https://github.com/status-im/nimbus-eth2/pull/8233) - 2026-04-08
 ## Q1 2026
 
 

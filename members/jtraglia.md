@@ -22,6 +22,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Test execution payload with builder deposit after pending validator](https://github.com/ethereum/consensus-specs/pull/5068#pullrequestreview-4060166641) - 2026-04-06
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4060163071) - 2026-04-06
 * [Review] [Review on: Update dependency ruff to v0.15.9](https://github.com/ethereum/consensus-specs/pull/5070#pullrequestreview-4060148933) - 2026-04-06
+* [Pull Request] [Improve performance of `compute_balance_weighted_selection`](https://github.com/ethereum/consensus-specs/pull/5079) - 2026-04-07
+* [Pull Request] [Skip `Bytes32` constructor overhead in `hash()`](https://github.com/ethereum/consensus-specs/pull/5078) - 2026-04-07
 ## Q1 2026
 
 

@@ -13,6 +13,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [trie/bintrie: spec change, big endian hashing of slot key](https://github.com/ethereum/go-ethereum/pull/34670) - 2026-04-06
+* [Review] [Review on: core: merge access events for all system calls](https://github.com/ethereum/go-ethereum/pull/34637#pullrequestreview-4070849718) - 2026-04-07
 ## Q1 2026
 
 

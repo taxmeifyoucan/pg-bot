@@ -16,6 +16,12 @@ Team: Erigon
 * [Review] [Review on: cmd: fix typo in flag beacon.api.ide.timeout](https://github.com/erigontech/erigon/pull/20289#pullrequestreview-4051947458) - 2026-04-02
 * [Review] [Review on: execution: enforce EIP-8037 state gas limit in block builder](https://github.com/erigontech/erigon/pull/20255#pullrequestreview-4056094006) - 2026-04-03
 * [Review] [Review on: commitment: add persistent branch cache across Process() calls](https://github.com/erigontech/erigon/pull/19954#pullrequestreview-4058468599) - 2026-04-04
+* [Pull Request] [cmd, ethconfig: consolidate flag reading and remove global statecfg side effects](https://github.com/erigontech/erigon/pull/20390) - 2026-04-07
+* [Review] [Review on: execution: fix EIP-8037 state gas reservoir restore & CREATE state gas ordering](https://github.com/erigontech/erigon/pull/20290#pullrequestreview-4069155838) - 2026-04-07
+* [Pull Request] [stagedsync, state: parallel executor fixes from bal-devnet-3](https://github.com/erigontech/erigon/pull/20386) - 2026-04-07
+* [Issue] [aggregator: coordinate block file creation with domain collation](https://github.com/erigontech/erigon/issues/20387) - 2026-04-07
+* [Issue] [sentry: StatusDataProvider opens excessive MDBX readers, blocking GC page reclamation](https://github.com/erigontech/erigon/issues/20383) - 2026-04-07
+* [Commit] [notifications, rpc: overlay publish, pre-commit dispatch, native types, embedded RPC overlay (#20195)](https://github.com/erigontech/erigon/commit/28072913e0c2ce2afa6bb662922b7500cc116fa4) - 2026-04-07
 ## Q1 2026
 
 

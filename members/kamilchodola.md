@@ -16,6 +16,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: replace sync-smoke-test with tiered sync CI strategy](https://github.com/NethermindEth/nethermind/pull/10932#pullrequestreview-4042330045) - 2026-04-01
 
 * [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4048648355) - 2026-04-02
+* [Review] [Review on: Lower Ethash cache level logs - no need to spam them for history blocks](https://github.com/NethermindEth/nethermind/pull/11061#pullrequestreview-4068905050) - 2026-04-07
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02
@@ -31,6 +32,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: replace full log dump with pytest short test summary](https://github.com/NethermindEth/gas-benchmarks/commit/8e8e95a93ae3097c4f359806bfa4e8ddf8932f1c) - 2026-04-03
 * [Commit] [fix: install gh CLI on stateful-generator runner](https://github.com/NethermindEth/gas-benchmarks/commit/a2cf514f8984ebdb9be22a2a9666d1f98a26cb0e) - 2026-04-03
 * [Commit] [chore: improve archive compression and remove stale perf-devnet-2 data](https://github.com/NethermindEth/gas-benchmarks/commit/312ff21a6e23a029b5992a5cce35fba49e140e59) - 2026-04-06
+* [Commit] [chore: remove generated payloads from repo, fix partial regen artifact integrity](https://github.com/NethermindEth/gas-benchmarks/commit/4143547ff846093785dbe30fb48ae25e8b061883) - 2026-04-07
+* [Commit] [fix: update stubs path from bloatnet/ to stubs/](https://github.com/NethermindEth/gas-benchmarks/commit/09a17c80559e086dc860ba0ee9fae59d95e35558) - 2026-04-07
 ## Q1 2026
 
 

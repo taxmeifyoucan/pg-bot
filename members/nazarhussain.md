@@ -14,6 +14,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [feat: use high level zapi dsl ](https://github.com/ChainSafe/lodestar-z/pull/302) - 2026-04-02
 * [Review] [Review on: feat: use high level zapi dsl ](https://github.com/ChainSafe/lodestar-z/pull/302#pullrequestreview-4049618128) - 2026-04-02
+* [Pull Request] [feat: add Zig peer manager module with NAPI bindings](https://github.com/ChainSafe/lodestar-z/pull/308) - 2026-04-07
 ## Q1 2026
 
 

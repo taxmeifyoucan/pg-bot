@@ -16,6 +16,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(test-forks): Add EIP classes (#2571)](https://github.com/ethereum/execution-specs/commit/4550e690d832052aa1075c9ecc891bbb44a50dd0) - 2026-04-01
 * [Pull Request] [refactor(tests): Enhance heavy ported tests](https://github.com/ethereum/execution-specs/pull/2623) - 2026-04-06
 * [Review] [Review on: feat(tests-execute): `EOA` pkey support for stub account](https://github.com/ethereum/execution-specs/pull/2624#pullrequestreview-4065011783) - 2026-04-06
+* [Review] [Review on: feat(test-fill): Add --verify-traces flag for trace comparison against baselines](https://github.com/ethereum/execution-specs/pull/2535#pullrequestreview-4071737439) - 2026-04-07
+* [Review] [Review on: feat(tests-execute): `EOA` pkey support for stub account](https://github.com/ethereum/execution-specs/pull/2624#pullrequestreview-4070513109) - 2026-04-07
 ## Q1 2026
 
 

@@ -8,6 +8,14 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Website: Remove `Online Serial` from "Citation".](https://github.com/ethereum/EIPs/pull/11268#pullrequestreview-4070534973) - 2026-04-07
+* [Review] [Review on: Update EIP-6963: fix typo](https://github.com/ethereum/EIPs/pull/10809#pullrequestreview-4069876089) - 2026-04-07
+* [Review] [Review on: Update EIP-7840: fix grammar](https://github.com/ethereum/EIPs/pull/10308#pullrequestreview-4069861522) - 2026-04-07
+* [Review] [Review on: Update EIP-7516: fix BLOBBASEFEE example bytecode to 0x4a00](https://github.com/ethereum/EIPs/pull/10774#pullrequestreview-4069856067) - 2026-04-07
 ## Q1 2026
 
 

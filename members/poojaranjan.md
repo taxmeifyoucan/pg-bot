@@ -8,6 +8,14 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Commit] [Website: Remove `Online Serial` from "Citation". (#11268)](https://github.com/ethereum/EIPs/commit/d971fb5d3bd1dc0fe7d34901784fd020db041457) - 2026-04-07
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #96, April 07, 2026](https://github.com/ethereum/pm/issues/2007) - 2026-04-07
 ## Q1 2026
 
 

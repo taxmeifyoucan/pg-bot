@@ -19,6 +19,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Add sources to the verification to allow IDEs to check them (#10129)](https://github.com/besu-eth/besu/commit/5965063a93950387fb0319067d8ef6795cbaf036) - 2026-04-02
 * [Pull Request] [update eip 8037 to latest spec test](https://github.com/besu-eth/besu/pull/10185) - 2026-04-04
 * [Pull Request] [Fix flaky SnapServerTest.assertAccountLimitRangeResponse](https://github.com/besu-eth/besu/pull/10189) - 2026-04-06
+* [Pull Request] [Enable execution processor on PoA networks with system contract addresses](https://github.com/besu-eth/besu/pull/10196) - 2026-04-07
+* [Review] [Review on: Only apply blob schedule bpoX if bpoXTime is available as well](https://github.com/besu-eth/besu/pull/10166#pullrequestreview-4067360408) - 2026-04-07
+* [Review] [Review on: Fix flaky SnapServerTest.assertAccountLimitRangeResponse](https://github.com/besu-eth/besu/pull/10189#pullrequestreview-4066439991) - 2026-04-07
+* [Commit] [Only apply blob schedule bpoX if bpoXTime is available as well (#10166)](https://github.com/besu-eth/besu/commit/375f20cea88bff225a8551f6b633452c98a8c4de) - 2026-04-07
+* [Commit] [update eip 8037 to latest spec test (#10185)](https://github.com/besu-eth/besu/commit/300b201720531a2804df1e5031395f205484dfad) - 2026-04-07
+* [Commit] [Fix flaky SnapServerTest.assertAccountLimitRangeResponse (#10189)](https://github.com/besu-eth/besu/commit/b1af1fedeca7e0e099d5c4c2fe5b8a0ec6b55476) - 2026-04-07
 ## Q1 2026
 
 

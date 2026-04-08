@@ -129,8 +129,32 @@ Team: Reth
 * [Pull Request] [feat(dse): make POP DSE-able](https://github.com/paradigmxyz/revmc/pull/278) - 2026-04-06
 * [Pull Request] [refactor: use `index_vec!` macro instead of `IndexVec::from_vec(vec![...])`](https://github.com/paradigmxyz/revmc/pull/277) - 2026-04-06
 * [Commit] [refactor: use `index_vec!` macro instead of `IndexVec::from_vec(vec![...])` (#277)](https://github.com/paradigmxyz/revmc/commit/013cfe1a6ff3b53b8970bcd6c1c9923b64524a71) - 2026-04-06
+* [Pull Request] [refactor: widen OpcodeInfo to u32, unhardcode SELFDESTRUCT gas](https://github.com/paradigmxyz/revmc/pull/288) - 2026-04-07
+* [Pull Request] [refactor(llvm): ORC JIT helpers and JITDylib lifecycle](https://github.com/paradigmxyz/revmc/pull/287) - 2026-04-07
+* [Pull Request] [refactor: zero out stack_io and base_gas for disabled/unknown opcodes at construction](https://github.com/paradigmxyz/revmc/pull/286) - 2026-04-07
+* [Pull Request] [fix: register Amsterdam shuffle immediate 0x5b as valid JUMPDEST](https://github.com/paradigmxyz/revmc/pull/284) - 2026-04-07
+* [Pull Request] [fix: move DSE after block deduplication to prevent stale NOOP flags](https://github.com/paradigmxyz/revmc/pull/285) - 2026-04-07
+* [Pull Request] [fix: exclude disabled opcodes from section analysis](https://github.com/paradigmxyz/revmc/pull/282) - 2026-04-07
+* [Review] [Review on: fix: exclude disabled opcodes from section analysis](https://github.com/paradigmxyz/revmc/pull/282#pullrequestreview-4069510643) - 2026-04-07
+* [Pull Request] [fix(dedup): clear stale DSE NOOP flags on canonical blocks after merge](https://github.com/paradigmxyz/revmc/pull/283) - 2026-04-07
+* [Pull Request] [fix(dse): preserve constants live across CALL/CREATE suspension](https://github.com/paradigmxyz/revmc/pull/280) - 2026-04-07
+* [Pull Request] [fix(llvm): clear JITDylib before dropping resource trackers](https://github.com/paradigmxyz/revmc/pull/281) - 2026-04-07
+* [Pull Request] [fix: require stack pointer for suspendable raw calls](https://github.com/paradigmxyz/revmc/pull/279) - 2026-04-07
+* [Commit] [refactor(llvm): ORC JIT helpers and JITDylib lifecycle (#287)](https://github.com/paradigmxyz/revmc/commit/c4163db2afed197daac275ade036bc80c12daef0) - 2026-04-07
+* [Commit] [chore: clean up compute_stack_io](https://github.com/paradigmxyz/revmc/commit/699abef521eecf4389d65c9acf39e7bb9d40dfe0) - 2026-04-07
+* [Commit] [refactor: zero out stack_io and base_gas for disabled/unknown opcodes at construction (#286)](https://github.com/paradigmxyz/revmc/commit/daba22e85e32d670141dcc1e9b74cd6a9b375ed1) - 2026-04-07
+* [Commit] [fix: register Amsterdam shuffle immediate 0x5b as valid JUMPDEST (#284)](https://github.com/paradigmxyz/revmc/commit/0fe1677a9021ffbb03de42239a8ca3eaab5514eb) - 2026-04-07
+* [Commit] [fix: move DSE after block deduplication to prevent stale NOOP flags (#285)](https://github.com/paradigmxyz/revmc/commit/6618b8f2c023581f8431f61937c0f1bb7cb3bdd3) - 2026-04-07
+* [Commit] [fix: exclude disabled opcodes from section analysis (#282)](https://github.com/paradigmxyz/revmc/commit/019624955e980ea641917197f2a6d9f1f8188d25) - 2026-04-07
+* [Commit] [fix(dse): preserve constants live across CALL/CREATE suspension (#280)](https://github.com/paradigmxyz/revmc/commit/9e97d7c4ad7e314f4c5d199985abc5303c346eff) - 2026-04-07
+* [Commit] [fix(llvm): clear JITDylib before dropping resource trackers (#281)](https://github.com/paradigmxyz/revmc/commit/7f2b7c8bea1e64b019beb1874ca5f89ff9975bab) - 2026-04-07
+* [Commit] [fix: require stack pointer for suspendable raw calls (#279)](https://github.com/paradigmxyz/revmc/commit/5074d8afcfd754285fe29b02bcd8d1806d27d78e) - 2026-04-07
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
+* [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
+* [Review] [Review on: fix(ci): pin CPU frequency to nominal clock in bench workflow](https://github.com/paradigmxyz/reth/pull/23370#pullrequestreview-4067585211) - 2026-04-07
+* [Pull Request] [chore(mdbx): replace deprecated MDBX_NOTLS with MDBX_NOSTICKYTHREADS](https://github.com/paradigmxyz/reth/pull/23378) - 2026-04-07
+* [Review] [Review on: chore: remove changelog workflow and .changelog directory](https://github.com/paradigmxyz/reth/pull/23376#pullrequestreview-4068010583) - 2026-04-07
 ## Q1 2026
 
 

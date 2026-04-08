@@ -21,6 +21,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4051008888) - 2026-04-02
 * [Pull Request] [Fix finalized and justified state endpoint to not advance the slot](https://github.com/OffchainLabs/prysm/pull/16635) - 2026-04-05
 * [Commit] [Fix finalized and justified state endpoint to not advance the slot (#16635)](https://github.com/OffchainLabs/prysm/commit/9d084bceb3aeac583a32f58761bbbfc91bce5bdb) - 2026-04-05
+* [Review] [Review on: Fix initial sync envelope validation for genesis blocks](https://github.com/OffchainLabs/prysm/pull/16637#pullrequestreview-4068402888) - 2026-04-07
 ## Q1 2026
 
 

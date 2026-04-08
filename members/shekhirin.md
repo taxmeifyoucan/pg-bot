@@ -8,6 +8,13 @@ Team: Reth
 
 ## Contributions
 
+## Q2 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Review] [Review on: fix(ci): pin CPU frequency to nominal clock in bench workflow](https://github.com/paradigmxyz/reth/pull/23370#pullrequestreview-4066920511) - 2026-04-07
+* [Review] [Review on: chore: remove changelog workflow and .changelog directory](https://github.com/paradigmxyz/reth/pull/23376#pullrequestreview-4067977656) - 2026-04-07
+* [Review] [Review on: fix: unmount schelk volume before recover in snapshot script](https://github.com/paradigmxyz/reth/pull/23371#pullrequestreview-4066952915) - 2026-04-07
 ## Q1 2026
 
 

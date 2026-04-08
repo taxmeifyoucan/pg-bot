@@ -36,6 +36,17 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [crypto: Hardening asserts, noexcept fixes, and safety checks (#1491)](https://github.com/ipsilon/evmone/commit/6a65cfff8d61ddcf7cddc4218c153cf7a85781e8) - 2026-04-06
 * [Commit] [crypto: Document preconditions and edge cases in ECC/pairing code (#1481)](https://github.com/ipsilon/evmone/commit/2381428d39eb4a4e07ba2cb2d2728b2ee2c88e6a) - 2026-04-06
 * [Commit] [crypto: Make FROBENIUS_COEFFS const (#1479)](https://github.com/ipsilon/evmone/commit/cf5bd56eda5400c8d0a9ad387f736d25e57d775f) - 2026-04-06
+* [Pull Request] [Merge EVMC git submodule into evmone project](https://github.com/ipsilon/evmone/pull/1499) - 2026-04-07
+* [Pull Request] [build: Add explicit CLI11 dependency](https://github.com/ipsilon/evmone/pull/1500) - 2026-04-07
+* [Pull Request] [test: Don't test evmone with evmc-vmtester](https://github.com/ipsilon/evmone/pull/1498) - 2026-04-07
+* [Pull Request] [docs,build: Remove outdated mention of evm-test](https://github.com/ipsilon/evmone/pull/1497) - 2026-04-07
+* [Issue] [Prague/Osaka set-code tx can skip top-level execution when sender nonce reaches 2^64-1 pre-execution](https://github.com/ipsilon/evmone/issues/1496) - 2026-04-07
+* [Issue] [Top-level tx at nonce 2^64-2 is skipped as light failure (EIP-2681 mismatch)](https://github.com/ipsilon/evmone/issues/1495) - 2026-04-07
+* [Issue] [Core EIP-7702 delegation parser accepts non-23-byte designators](https://github.com/ipsilon/evmone/issues/1494) - 2026-04-07
+* [Commit] [build: Add explicit CLI11 dependency (#1500)](https://github.com/ipsilon/evmone/commit/6efe93e7d68bff3d7bc8a47a32cdd671c1d3931a) - 2026-04-07
+* [Commit] [test: Don't test evmone with evmc-vmtester (#1498)](https://github.com/ipsilon/evmone/commit/75f02d1ae229840daec83300470d66f45854cde2) - 2026-04-07
+* [Commit] [docs,build: Remove outdated mention of evm-test (#1497)](https://github.com/ipsilon/evmone/commit/88c0be3e8eb14120e457b3702bb48b30f3dd98a9) - 2026-04-07
+* [Commit] [evmone 0.20.0](https://github.com/ipsilon/evmone/commit/b95db0d09f9f46b6f471147612178787d4245219) - 2026-04-07
 ## Q1 2026
 
 

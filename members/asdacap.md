@@ -33,6 +33,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Add NETH001 custom Roslyn analyzer for unused new expressions](https://github.com/NethermindEth/nethermind/pull/11044) - 2026-04-06
 * [Review] [Review on: Add NETH001 custom Roslyn analyzer for unused new expressions](https://github.com/NethermindEth/nethermind/pull/11044#pullrequestreview-4060263825) - 2026-04-06
 * [Commit] [Add NETH001 custom Roslyn analyzer for unused new expressions (#11044)](https://github.com/NethermindEth/nethermind/commit/578c46abb81c692aa91d146227a4ac559b91af39) - 2026-04-06
+* [Review] [Review on: fix AuRaBlockFinalizationManager unclean shutdown](https://github.com/NethermindEth/nethermind/pull/11062#pullrequestreview-4072362981) - 2026-04-08
+* [Review] [Review on: Fix blockchainbridge for XDC](https://github.com/NethermindEth/nethermind/pull/11065#pullrequestreview-4072251641) - 2026-04-08
+* [Pull Request] [refactor: extract FullPruner init into overridable IFullPrunerFactory](https://github.com/NethermindEth/nethermind/pull/11066) - 2026-04-07
+* [Review] [Review on: Fix debug_executionWitness for Taiko plugin](https://github.com/NethermindEth/nethermind/pull/11058#pullrequestreview-4067353420) - 2026-04-07
+* [Review] [Review on: fix: register ISnapServer in FlatWorldStateModule DI](https://github.com/NethermindEth/nethermind/pull/11052#pullrequestreview-4067636578) - 2026-04-07
+* [Commit] [feat: make debug_executionWitness compatible with FlatDb (#11045)](https://github.com/NethermindEth/nethermind/commit/f49873c515431f3a66904555f5518b95bc4dc7aa) - 2026-04-07
 ## Q1 2026
 
 

@@ -11,6 +11,9 @@ Github: [@leolara](https://github.com/leolara)
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(tests): sync ported_static tests with forks/amsterdam](https://github.com/ethereum/execution-specs/pull/2615) - 2026-04-02
+* [Pull Request] [feat(scripts): skip @manually-enhanced files in filler_to_python](https://github.com/ethereum/execution-specs/pull/2630) - 2026-04-07
+* [Commit] [feat(test-fill): Add --verify-traces flag for trace comparison against baselines (#2535)](https://github.com/ethereum/execution-specs/commit/d98620730285ade2ecacb86e242a6c0de52a4326) - 2026-04-07
+* [Commit] [ feat(scripts): skip `@manually-enhanced` files in `filler_to_python` (#2630)](https://github.com/ethereum/execution-specs/commit/c08584c7a79510ea68f0adfe3132ed97c4530739) - 2026-04-07
 ## Q1 2026
 
 

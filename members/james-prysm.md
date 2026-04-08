@@ -28,6 +28,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: allow proposer preferences on the same epoch](https://github.com/OffchainLabs/prysm/pull/16610#pullrequestreview-4062705984) - 2026-04-06
 * [Review] [Review on: Use `ValidatorIndex` type for `proposer_lookahead` in beacon state proto](https://github.com/OffchainLabs/prysm/pull/16634#pullrequestreview-4064200383) - 2026-04-06
 * [Review] [Review on: Downgrade genesis forkchoice balance underflow warning to debug](https://github.com/OffchainLabs/prysm/pull/16633#pullrequestreview-4062444682) - 2026-04-06
+* [Review] [Review on: Construct data column sidecars from bid in Gloas blocks](https://github.com/OffchainLabs/prysm/pull/16638#pullrequestreview-4069823574) - 2026-04-07
+* [Review] [Review on: Field Trie: Implement copy on write and base/overlay scheme.](https://github.com/OffchainLabs/prysm/pull/16512#pullrequestreview-4070541488) - 2026-04-07
+* [Review] [Review on: Use proposer preferences cache for payload attributes after Gloas](https://github.com/OffchainLabs/prysm/pull/16620#pullrequestreview-4070751912) - 2026-04-07
+* [Review] [Review on: perf(auth): optimize auth token handling #15763](https://github.com/OffchainLabs/prysm/pull/15793#pullrequestreview-4068623718) - 2026-04-07
 ## Q1 2026
 
 

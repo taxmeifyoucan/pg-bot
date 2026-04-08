@@ -21,6 +21,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [core/state: various fixes in EIP-7928](https://github.com/ethereum/go-ethereum/pull/34641) - 2026-04-02
 * [Pull Request] [core/types: fix merging state mutations (EIP-7928)](https://github.com/ethereum/go-ethereum/pull/34640) - 2026-04-02
 
+* [Pull Request] [eth/tracers: fix codehash in prestate diffmode](https://github.com/ethereum/go-ethereum/pull/34675) - 2026-04-07
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 ## Q1 2026

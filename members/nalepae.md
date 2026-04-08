@@ -17,6 +17,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Validators with `0x00...` withdrawal credentials and balance > 33.25 ETH are systematically considered dirty](https://github.com/OffchainLabs/prysm/issues/16630) - 2026-04-03
 * [Review] [Review on: Field Trie: Implement copy on write and base/overlay scheme.](https://github.com/OffchainLabs/prysm/pull/16512#pullrequestreview-4063897275) - 2026-04-06
 * [Commit] [`ProcessEffectiveBalanceUpdates`: Avoid copying a validator when the computed effective balance is unchanged. (#16631)](https://github.com/OffchainLabs/prysm/commit/6e4d7fd7812e6e2f3ece8328680c44795b09a9c8) - 2026-04-06
+* [Review] [Review on: Field Trie: Implement copy on write and base/overlay scheme.](https://github.com/OffchainLabs/prysm/pull/16512#pullrequestreview-4071591729) - 2026-04-07
 ## Q1 2026
 
 
