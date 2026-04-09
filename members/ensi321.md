@@ -22,6 +22,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: reorder payload status constants](https://github.com/ChainSafe/lodestar/pull/9176#pullrequestreview-4065941228) - 2026-04-07
 * [Review] [Review on: refactor: use consistent names for state after payload is applied](https://github.com/ChainSafe/lodestar/pull/9175#pullrequestreview-4065718808) - 2026-04-07
 
+* [Review] [Review on: fix: validate MIN_EPOCHS for blob/data column by range/root requests](https://github.com/ChainSafe/lodestar/pull/9173#pullrequestreview-4072696511) - 2026-04-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 ## Q1 2026

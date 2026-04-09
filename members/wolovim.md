@@ -12,6 +12,11 @@ Github: [@wolovim](https://github.com/wolovim)
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Commit] [acdbot: bump workflow python version](https://github.com/ethereum/pm/commit/7f0034d2de85c9e4af3c8eaa9d483665f9d42eef) - 2026-04-01
 * [Commit] [acdbot: permit processing meeting <10 min](https://github.com/ethereum/pm/commit/b65f5e54bc1370cf2d0f2c68cc3d2b95cf5266f9) - 2026-04-08
+* [Pull Request] [acdbot: fix shifting calendar event](https://github.com/ethereum/pm/pull/2010) - 2026-04-08
+* [Commit] [acdbot: revert bad mtg](https://github.com/ethereum/pm/commit/66cd4267980a7e32f6c5d367ce6ce50c9d0f211c) - 2026-04-08
+* [Commit] [acdbot: 15 min default to process assets](https://github.com/ethereum/pm/commit/97487f4db0002dea512c64bfe70631da625ee131) - 2026-04-08
+* [Commit] [acdbot: permit youtube upload <10 min, pt.2](https://github.com/ethereum/pm/commit/ba438436f5a374461e58837b062faecc5dabd8a6) - 2026-04-08
+* [Commit] [acdbot: permit youtube upload <10 min](https://github.com/ethereum/pm/commit/d0ef358e1ba447fe233286cc82667acd2f898fe8) - 2026-04-08
 ## Q1 2026
 
 

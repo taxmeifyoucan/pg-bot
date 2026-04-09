@@ -19,6 +19,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [bump `nimbus-eth2` to 3bc1a2ad2625fa9d7f8d1bcd2cf6bba956012780](https://github.com/status-im/nimbus-eth1/pull/4104) - 2026-04-07
 * [Review] [Review on: ci: build hiveproxy before parallel tests are run](https://github.com/status-im/nimbus-eth1/pull/4103#pullrequestreview-4067923667) - 2026-04-07
 * [Commit] [bump `nimbus-eth2` to 3bc1a2ad2625fa9d7f8d1bcd2cf6bba956012780 (#4104)](https://github.com/status-im/nimbus-eth1/commit/89fccf1c0753ff13ce63995497d73b891fa88152) - 2026-04-07
+* [Pull Request] [pruner](https://github.com/status-im/nimbus-eth1/pull/3953) - 2026-04-08
+* [Commit] [pruner (#3953)](https://github.com/status-im/nimbus-eth1/commit/f69ed9294453269d9ae6722849778a1962da8eac) - 2026-04-08
 ## Q1 2026
 
 

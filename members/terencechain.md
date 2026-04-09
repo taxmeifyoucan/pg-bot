@@ -34,6 +34,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Downgrade genesis forkchoice balance underflow warning to debug (#16633)](https://github.com/OffchainLabs/prysm/commit/14f5e6f4142a679419679cf2c0f1ff5afc1c1e58) - 2026-04-06
 * [Review] [Review on: Use proposer preferences cache for payload attributes after Gloas](https://github.com/OffchainLabs/prysm/pull/16620#pullrequestreview-4071194560) - 2026-04-07
 * [Commit] [Use `ValidatorIndex` type for `proposer_lookahead` in beacon state proto (#16634)](https://github.com/OffchainLabs/prysm/commit/883d78221fedf3ddceb66bb88272c8c662359a78) - 2026-04-07
+* [Pull Request] [Fix Gloas data column KZG commitments for operation feed](https://github.com/OffchainLabs/prysm/pull/16643) - 2026-04-08
+* [Pull Request] [Add Gloas engine API method versions for devnet](https://github.com/OffchainLabs/prysm/pull/16642) - 2026-04-08
+* [Review] [Review on: Use proposer preferences cache for payload attributes after Gloas](https://github.com/OffchainLabs/prysm/pull/16620#pullrequestreview-4076454020) - 2026-04-08
+* [Pull Request] [epbs devnet 1](https://github.com/OffchainLabs/prysm/pull/16641) - 2026-04-08
+* [Commit] [Fix Gloas data column KZG commitments for operation feed (#16643)](https://github.com/OffchainLabs/prysm/commit/ee9fa34b30c4b8a72ba59bc0f87de5a3b52205b9) - 2026-04-08
+* [Commit] [Add Gloas engine API method versions for devnet (#16642)](https://github.com/OffchainLabs/prysm/commit/cf09469ac9dcb76467380480ebe94807009118ff) - 2026-04-08
+* [Commit] [Construct data column sidecars from bid in Gloas blocks (#16638)](https://github.com/OffchainLabs/prysm/commit/10cd6757930e0011bcaf1e23f4f6a5e1be604383) - 2026-04-08
+* [Commit] [Fix initial sync envelope validation for genesis blocks (#16637)](https://github.com/OffchainLabs/prysm/commit/f01575e44c11c10e3a8e90ae6d96e34164a955b9) - 2026-04-08
 ## Q1 2026
 
 

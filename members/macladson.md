@@ -14,6 +14,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Remove unused `exit-future`](https://github.com/sigp/lighthouse/pull/9095) - 2026-04-05
 * [Pull Request] [Refactor `timestamp_now`](https://github.com/sigp/lighthouse/pull/9094) - 2026-04-05
+* [Review] [Review on: Add HTTP API spec test to Lighthouse](https://github.com/sigp/lighthouse/pull/8904#pullrequestreview-4075398861) - 2026-04-08
+* [Review] [Review on: Shorter info log](https://github.com/sigp/lighthouse/pull/9108#pullrequestreview-4076003695) - 2026-04-08
 ## Q1 2026
 
 

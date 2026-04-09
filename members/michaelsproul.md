@@ -18,6 +18,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Gloas database pruning & beacon_chain tests](https://github.com/sigp/lighthouse/pull/8998#pullrequestreview-4065415469) - 2026-04-07
 * [Review] [Review on: Gloas set `AttestationData.index` ](https://github.com/sigp/lighthouse/pull/9100#pullrequestreview-4066723865) - 2026-04-07
 * [Review] [Review on: Add `cargo-hack` to CI to check crate features](https://github.com/sigp/lighthouse/pull/8927#pullrequestreview-4066009722) - 2026-04-07
+* [Review] [Review on: Re-issue `ForkchoiceUpdate` based on updated `StatePayloadStatus`](https://github.com/sigp/lighthouse/pull/9102#pullrequestreview-4079057586) - 2026-04-09
+* [Review] [Review on: Gloas serve post block state for finalized/justified state requests](https://github.com/sigp/lighthouse/pull/9092#pullrequestreview-4073020447) - 2026-04-08
+* [Issue] [DevEx: fix `test_logger`](https://github.com/sigp/lighthouse/issues/9107) - 2026-04-08
 ## Q1 2026
 
 

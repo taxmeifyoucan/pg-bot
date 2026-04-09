@@ -54,6 +54,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: ParseVersion: optimize](https://github.com/erigontech/erigon/pull/20374#pullrequestreview-4066465732) - 2026-04-07
 * [Pull Request] [backtester: use ChangedKeysPerBlockIdx instead of HistoryRange for replay](https://github.com/erigontech/erigon/pull/20375) - 2026-04-07
 * [Commit] [recentIterateRange: narrow DB query to exclude file range (#20362)](https://github.com/erigontech/erigon/commit/ab035f39db3a91c1136e855c8a88cdf6291214a7) - 2026-04-07
+* [Review] [Review on: cp: cherry-pick batch 2 from release/3.4 to main](https://github.com/erigontech/erigon/pull/20405#pullrequestreview-4073821299) - 2026-04-08
+* [Review] [Review on: commitment: per-goroutine ETL collectors for concurrent rebuild](https://github.com/erigontech/erigon/pull/20272#pullrequestreview-4075324915) - 2026-04-08
+* [Pull Request] [cmd/utils/app: make --from optional in check-commitment-hist-at-blk-range](https://github.com/erigontech/erigon/pull/20411) - 2026-04-08
+* [Review] [Review on: [wip] [r3.4] state: convert standalone inverted index slices to fixed-size arrays](https://github.com/erigontech/erigon/pull/20396#pullrequestreview-4075296048) - 2026-04-08
+* [Commit] [cmd/utils/app: make --from optional in check-commitment-hist-at-blk-range (#20411)](https://github.com/erigontech/erigon/commit/c943e0540f30ae72c001abebbbd0ecbca7e09043) - 2026-04-08
+* [Commit] [backtester: use ChangedKeysPerBlockIdx instead of HistoryRange for replay (#20375)](https://github.com/erigontech/erigon/commit/514fd57aaaa0894a039bea8a527e3debe64afcef) - 2026-04-08
+* [Commit] [db/state: RangeAsOf DB iterator starts from files.EndTxNum() (#20360)](https://github.com/erigontech/erigon/commit/12a1a1b2a21f7d652e85ff1059f16e93ca793b89) - 2026-04-08
+* [Commit] [db/state: fix remaining unsafe dirtyFiles access in RoTx (#20359)](https://github.com/erigontech/erigon/commit/6013d042fb9358741dbe694f664b02f1c78b528d) - 2026-04-08
 ## Q1 2026
 
 

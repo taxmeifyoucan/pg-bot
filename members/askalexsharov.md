@@ -99,6 +99,26 @@ Team: Erigon
 * [Commit] [toml: migrate to toml lib v2 (#20342)](https://github.com/erigontech/erigon/commit/243487e9b1e52ea94ad6d254b120a0ee69c87660) - 2026-04-07
 * [Commit] [debug_executionWitness: follow up (#20345)](https://github.com/erigontech/erigon/commit/9b3aeb64adc31a1aec6f7ebcfb3e3548d58434d8) - 2026-04-07
 * [Commit] [hive: pin more things (#20370)](https://github.com/erigontech/erigon/commit/8c8ecd9940274cdf5bb4db138afdcc836c2f2490) - 2026-04-07
+* [Pull Request] [cp: cherry-pick batch 2 from release/3.4 to main](https://github.com/erigontech/erigon/pull/20405) - 2026-04-08
+* [Review] [Review on: cp: cherry-pick batch 2 from release/3.4 to main](https://github.com/erigontech/erigon/pull/20405#pullrequestreview-4073646416) - 2026-04-08
+* [Review] [Review on: execution/state: drop ethconfig.Sync dependency from StateV3](https://github.com/erigontech/erigon/pull/20425#pullrequestreview-4079171210) - 2026-04-09
+* [Review] [Review on: graphql: fix block.account and account.storage resolvers (#11662)](https://github.com/erigontech/erigon/pull/20389#pullrequestreview-4073237736) - 2026-04-08
+* [Review] [Review on: execution/abi: validate tuple field names before reflect.StructOf](https://github.com/erigontech/erigon/pull/20417#pullrequestreview-4074705616) - 2026-04-08
+* [Review] [Review on: execution/abi: reject fixed bytes types with size > 32](https://github.com/erigontech/erigon/pull/20414#pullrequestreview-4074514885) - 2026-04-08
+* [Review] [Review on: rpc: fix batch HTTP response channel to prevent hang](https://github.com/erigontech/erigon/pull/20418#pullrequestreview-4074733185) - 2026-04-08
+* [Review] [Review on: cmd/utils/app: make --from optional in check-commitment-hist-at-blk-range](https://github.com/erigontech/erigon/pull/20411#pullrequestreview-4074362672) - 2026-04-08
+* [Pull Request] [cp: cherry-pick batch 3 from release/3.4 to main](https://github.com/erigontech/erigon/pull/20406) - 2026-04-08
+* [Review] [Review on: execution/abi: fix encoding of negative *big.Int in MakeTopics](https://github.com/erigontech/erigon/pull/20413#pullrequestreview-4074510642) - 2026-04-08
+* [Review] [Review on: cmd: remove `hack` binary](https://github.com/erigontech/erigon/pull/20412#pullrequestreview-4074447510) - 2026-04-08
+* [Review] [Review on: backtester: use ChangedKeysPerBlockIdx instead of HistoryRange for replay](https://github.com/erigontech/erigon/pull/20375#pullrequestreview-4074721863) - 2026-04-08
+* [Pull Request] [up `kong` version](https://github.com/erigontech/erigon/pull/20408) - 2026-04-08
+* [Review] [Review on: commitment: simplify unfold if branch](https://github.com/erigontech/erigon/pull/20388#pullrequestreview-4072924643) - 2026-04-08
+* [Review] [Review on: cmd, ethconfig: consolidate flag reading and remove global statecfg side effects](https://github.com/erigontech/erigon/pull/20390#pullrequestreview-4072919815) - 2026-04-08
+* [Pull Request] [deps: up bolt](https://github.com/erigontech/erigon/pull/20402) - 2026-04-08
+* [Commit] [cp: cherry-pick batch 3 from release/3.4 to main (#20406)](https://github.com/erigontech/erigon/commit/cc4d0edf25a71d68119767af28e16379c6f30db7) - 2026-04-08
+* [Commit] [up `kong` version (#20408)](https://github.com/erigontech/erigon/commit/d1da52f78735ae3ddc35437f479d8f2ce1096044) - 2026-04-08
+* [Commit] [deps: up bolt (#20402)](https://github.com/erigontech/erigon/commit/aaf72257991b222bb84eed4105958f4254cb9301) - 2026-04-08
+* [Commit] [drop `diag/ui` (#20404)](https://github.com/erigontech/erigon/commit/f37d92220f1383665fff6843eab63966310cdfa0) - 2026-04-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026

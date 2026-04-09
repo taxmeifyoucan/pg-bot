@@ -24,6 +24,20 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update dependency ruff to v0.15.9](https://github.com/ethereum/consensus-specs/pull/5070#pullrequestreview-4060148933) - 2026-04-06
 * [Pull Request] [Improve performance of `compute_balance_weighted_selection`](https://github.com/ethereum/consensus-specs/pull/5079) - 2026-04-07
 * [Pull Request] [Skip `Bytes32` constructor overhead in `hash()`](https://github.com/ethereum/consensus-specs/pull/5078) - 2026-04-07
+* [Pull Request] [Allow verbose output with `make test verbose=true`](https://github.com/ethereum/consensus-specs/pull/5084) - 2026-04-08
+* [Pull Request] [Ensure builder is active in builder balance tests](https://github.com/ethereum/consensus-specs/pull/5087) - 2026-04-08
+* [Pull Request] [Test that `process_deposit_request` skips non-matching pubkey](https://github.com/ethereum/consensus-specs/pull/5086) - 2026-04-08
+* [Pull Request] [Remove unused `saturating_sub` helper](https://github.com/ethereum/consensus-specs/pull/5085) - 2026-04-08
+* [Pull Request] [Add `compute_shuffled_permutation` to speed up shuffling](https://github.com/ethereum/consensus-specs/pull/5080) - 2026-04-08
+* [Review] [Review on: Update `BeaconBlocksByRoot v2` to use `MAX_REQUEST_BLOCKS_DENEB`](https://github.com/ethereum/consensus-specs/pull/5075#pullrequestreview-4072451356) - 2026-04-08
+* [Review] [Review on: Simplify Electra light client specs](https://github.com/ethereum/consensus-specs/pull/4567#pullrequestreview-4075368462) - 2026-04-08
+* [Review] [Review on: Update dependency pytest to v9.0.3](https://github.com/ethereum/consensus-specs/pull/5082#pullrequestreview-4072705801) - 2026-04-08
+* [Review] [Review on: Update pypa/gh-action-pypi-publish action to v1.14.0](https://github.com/ethereum/consensus-specs/pull/5083#pullrequestreview-4072702544) - 2026-04-08
+* [Commit] [Allow verbose output with `make test verbose=true` (#5084)](https://github.com/ethereum/consensus-specs/commit/825f555394b88987be201591cd47017b9c5b3b2b) - 2026-04-08
+* [Commit] [Remove unused `saturating_sub` helper (#5085)](https://github.com/ethereum/consensus-specs/commit/4fc406c6ac5f9c657c0318b6da1c63c5c17cfa38) - 2026-04-08
+* [Commit] [Add `compute_shuffled_permutation` to speed up shuffling (#5080)](https://github.com/ethereum/consensus-specs/commit/1d816fb67acef28f3850d5d50bb0464a4f01f8f1) - 2026-04-08
+* [Commit] [Improve performance of `compute_balance_weighted_selection` (#5079)](https://github.com/ethereum/consensus-specs/commit/a17909edcd4058aee299465823388b59f37de98b) - 2026-04-08
+* [Commit] [Skip `Bytes32` constructor overhead in `hash()` (#5078)](https://github.com/ethereum/consensus-specs/commit/d845f68d7b11746ffb3a06e6d1acc02105a4eb16) - 2026-04-08
 ## Q1 2026
 
 

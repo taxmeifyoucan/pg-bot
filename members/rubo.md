@@ -19,6 +19,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [chore: Update Nethermind banner](https://github.com/NethermindEth/nethermind/pull/11064) - 2026-04-07
 * [Commit] [chore: Update Nethermind banner (#11064)](https://github.com/NethermindEth/nethermind/commit/9bf6376e2f1cf779b10a9512bb23af589c4d8cd0) - 2026-04-07
 * [Commit] [chore: Update GitHub Actions (#11063)](https://github.com/NethermindEth/nethermind/commit/5ba9724eda54d7f7e3ba5527cc021e0fcaea07a9) - 2026-04-07
+* [Pull Request] [test: Simplify testing workflows](https://github.com/NethermindEth/nethermind/pull/11075) - 2026-04-08
+* [Review] [Review on: test: Simplify testing workflows](https://github.com/NethermindEth/nethermind/pull/11075#pullrequestreview-4077942867) - 2026-04-08
+* [Review] [Review on: fix AuRaBlockFinalizationManager unclean shutdown](https://github.com/NethermindEth/nethermind/pull/11062#pullrequestreview-4078086230) - 2026-04-08
+* [Pull Request] [feat(zkevm): Refactor stateless executor](https://github.com/NethermindEth/nethermind/pull/10629) - 2026-04-08
+* [Pull Request] [chore: Remove OP diff workflow](https://github.com/NethermindEth/nethermind/pull/11071) - 2026-04-08
+* [Commit] [feat(zkevm): Refactor stateless executor (#10629)](https://github.com/NethermindEth/nethermind/commit/ea169ffdcd3a75768ddee817a1ae6a43d4ba6363) - 2026-04-08
+* [Commit] [chore: Remove OP diff workflow (#11071)](https://github.com/NethermindEth/nethermind/commit/535b0cc4edae3c4ed471cac85943b032d2d2f0b0) - 2026-04-08
 ## Q1 2026
 
 

@@ -22,6 +22,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Layered txpool: enable balance check by default](https://github.com/besu-eth/besu/pull/10175) - 2026-04-03
 * [Review] [Review on: Layered txpool: enable balance check by default](https://github.com/besu-eth/besu/pull/10175#pullrequestreview-4057120347) - 2026-04-03
 * [Review] [Review on: Upgrade RocksDB version from 9.7.3 to 10.6.2](https://github.com/besu-eth/besu/pull/9767#pullrequestreview-4055157679) - 2026-04-03
+* [Pull Request] [Remove dryRunDetector workaround methods from unit tests](https://github.com/besu-eth/besu/pull/10201) - 2026-04-08
+* [Pull Request] [Add missing verification metadata](https://github.com/besu-eth/besu/pull/10198) - 2026-04-08
+* [Commit] [Optimize performance and reduce memory when creating Quantity from scalar (#10134)](https://github.com/besu-eth/besu/commit/a8dce172dc21c6d793337d2a8b7b759806fde604) - 2026-04-08
+* [Commit] [Add missing verification metadata (#10198)](https://github.com/besu-eth/besu/commit/5a7d94931febe6bc948eb105950d9deb8b3caa46) - 2026-04-08
 ## Q1 2026
 
 

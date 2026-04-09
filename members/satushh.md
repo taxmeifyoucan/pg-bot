@@ -14,6 +14,10 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: fix: add Gloas genesis block support](https://github.com/OffchainLabs/prysm/pull/16627#pullrequestreview-4048978403) - 2026-04-02
 * [Pull Request] [Fix swapped JSON tags in ChainReorgEvent struct](https://github.com/OffchainLabs/prysm/pull/16639) - 2026-04-07
 * [Commit] [Fix swapped JSON tags in ChainReorgEvent struct (#16639)](https://github.com/OffchainLabs/prysm/commit/129d6e1088e8dd55ad26507e0441cb79ab3f3290) - 2026-04-07
+
+* [Review] [Review on: Add Gloas engine API method versions for devnet](https://github.com/OffchainLabs/prysm/pull/16642#pullrequestreview-4076531638) - 2026-04-08
+[OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
+* [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 ## Q1 2026
 
 

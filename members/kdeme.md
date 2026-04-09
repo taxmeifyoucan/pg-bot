@@ -23,6 +23,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Witness: Implement optimisation where touched code can be skipped](https://github.com/status-im/nimbus-eth1/pull/4099) - 2026-04-03
 * [Commit] [Witness: Fix block header ordening + fix off by 1 (#4100)](https://github.com/status-im/nimbus-eth1/commit/b695a711fa98736081343c026154567da6c43c98) - 2026-04-03
 * [Review] [Review on: bump `nimbus-eth2` to 3bc1a2ad2625fa9d7f8d1bcd2cf6bba956012780](https://github.com/status-im/nimbus-eth1/pull/4104#pullrequestreview-4069299366) - 2026-04-07
+* [Pull Request] [Replace block proof GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth1/pull/4105) - 2026-04-08
+* [Review] [Review on: FIx:minor fixes to receipt rpc endpoints serialization compatibility](https://github.com/status-im/nimbus-eth1/pull/4092#pullrequestreview-4074116535) - 2026-04-08
+* [Commit] [Replace block proof GINDEX constants with get_generalized_index (#4105)](https://github.com/status-im/nimbus-eth1/commit/79d7473f783690a30e2902c1a331eabfdb57580f) - 2026-04-08
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 ## Q1 2026
 
 

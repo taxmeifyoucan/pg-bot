@@ -40,6 +40,13 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: Harden verifier shape checks](https://github.com/Plonky3/Plonky3/pull/1469#pullrequestreview-4069386678) - 2026-04-07
 * [Review] [Review on: whir: full integration from whir-p3](https://github.com/Plonky3/Plonky3/pull/1523#pullrequestreview-4069082306) - 2026-04-07
 * [Commit] [core: clippy fix (#1526)](https://github.com/Plonky3/Plonky3/commit/dedfbc0731f3c587456dd8dd90c60f5c8a933c71) - 2026-04-07
+* [Review] [Review on: perf(dft): optimize coset_shift_cols with early return and vectorized scaling](https://github.com/Plonky3/Plonky3/pull/1468#pullrequestreview-4078258844) - 2026-04-08
+* [Pull Request] [perf(whir): use evaluation at infinity instead of point 2 in sumcheck](https://github.com/Plonky3/Plonky3/pull/1539) - 2026-04-08
+* [Pull Request] [perf(whir): straightline SVO accumulator computation for l=1,2,3](https://github.com/Plonky3/Plonky3/pull/1537) - 2026-04-08
+* [Review] [Review on: perf(whir): straightline SVO accumulator computation for l=1,2,3](https://github.com/Plonky3/Plonky3/pull/1537#pullrequestreview-4078068808) - 2026-04-08
+* [Review] [Review on: perf: Investigate sumcheck](https://github.com/Plonky3/Plonky3/pull/1528#pullrequestreview-4077075631) - 2026-04-08
+* [Commit] [perf(whir): straightline accumulator computation for l=1,2,3 (#1537)](https://github.com/Plonky3/Plonky3/commit/090b134a7e4f73191dad8849c410fcc38967a814) - 2026-04-08
+* [Commit] [refactor(matrix): move column-appending helpers to `DenseMatrix` methods (#1533)](https://github.com/Plonky3/Plonky3/commit/baf1fa4a6c5c2827d49ff174ecc8ed0a6f38425c) - 2026-04-08
 ## Q1 2026
 
 

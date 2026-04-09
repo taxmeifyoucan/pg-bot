@@ -29,6 +29,7 @@ Team: Erigon
 * [Commit] [Ban peer on misbehaviour (#20336)](https://github.com/erigontech/erigon/commit/a455cdd1fabf3b7e0723f0bd4bcebe4c5eeaff95) - 2026-04-05
 * [Commit] [Bug 1: Fix integrity check at domain <-> history boundary (#20311)](https://github.com/erigontech/erigon/commit/450f97926f0e90befbc6c0395373706e886beefb) - 2026-04-05
 * [Review] [Review on: [r3.4] deps: update fastkeccak](https://github.com/erigontech/erigon/pull/20365#pullrequestreview-4067300090) - 2026-04-07
+* [Review] [Review on: p2p/discover: enforce liveness check in v4 FINDNODE handler](https://github.com/erigontech/erigon/pull/20423#pullrequestreview-4078559442) - 2026-04-08
 ## Q1 2026
 
 

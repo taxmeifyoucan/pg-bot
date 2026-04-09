@@ -16,6 +16,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: update eip 8037 to latest spec test](https://github.com/besu-eth/besu/pull/10185#pullrequestreview-4061128512) - 2026-04-06
 * [Pull Request] [Prefetch + cross block cache into bal devnet 3](https://github.com/besu-eth/besu/pull/10194) - 2026-04-07
 * [Review] [Review on: Only apply blob schedule bpoX if bpoXTime is available as well](https://github.com/besu-eth/besu/pull/10166#pullrequestreview-4067375828) - 2026-04-07
+* [Review] [Review on: Enable the prague execution processor for poa networks that have the systems contract addresses set in their genesis file](https://github.com/besu-eth/besu/pull/10199#pullrequestreview-4075219041) - 2026-04-08
+* [Review] [Review on: snap sync - apply BALs before flat db heal](https://github.com/besu-eth/besu/pull/10151#pullrequestreview-4073769485) - 2026-04-08
 ## Q1 2026
 
 

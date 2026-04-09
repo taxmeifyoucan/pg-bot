@@ -27,6 +27,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Gloas sync notifier logs](https://github.com/sigp/lighthouse/issues/9099) - 2026-04-06
 * [Review] [Review on: Ensure payload envelope streamer always serves canonical envelopes after the split slot](https://github.com/sigp/lighthouse/pull/9085#pullrequestreview-4066911774) - 2026-04-07
 * [Review] [Review on: Gloas set `AttestationData.index` ](https://github.com/sigp/lighthouse/pull/9100#pullrequestreview-4066992087) - 2026-04-07
+* [Review] [Review on: Gloas serve post block state for finalized/justified state requests](https://github.com/sigp/lighthouse/pull/9092#pullrequestreview-4073033918) - 2026-04-08
 ## Q1 2026
 
 

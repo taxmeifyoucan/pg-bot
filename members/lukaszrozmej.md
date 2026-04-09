@@ -49,6 +49,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: register ISnapServer in FlatWorldStateModule DI](https://github.com/NethermindEth/nethermind/pull/11052#pullrequestreview-4068472789) - 2026-04-07
 * [Review] [Review on: Handle invalid blocks in hive runner](https://github.com/NethermindEth/nethermind/pull/11049#pullrequestreview-4067026080) - 2026-04-07
 * [Commit] [Lower Ethash cache level logs - no need to spam them for history blocks (#11061)](https://github.com/NethermindEth/nethermind/commit/5836028f856d3c338a54cfa1dffd3a00310aaccd) - 2026-04-07
+* [Pull Request] [fix: resolve tx type based on target block fork in eth_call](https://github.com/NethermindEth/nethermind/pull/11074) - 2026-04-08
+* [Review] [Review on: feat(txpool): add txpool_contentFrom rpc method](https://github.com/NethermindEth/nethermind/pull/11048#pullrequestreview-4074616354) - 2026-04-08
+* [Review] [Review on: Improve ssz](https://github.com/NethermindEth/nethermind/pull/10788#pullrequestreview-4075276652) - 2026-04-08
+* [Review] [Review on: refactor: extract FullPruner init into overridable IFullPrunerFactory](https://github.com/NethermindEth/nethermind/pull/11066#pullrequestreview-4073386878) - 2026-04-08
+* [Commit] [fix AuRaBlockFinalizationManager unclean shutdown (#11062)](https://github.com/NethermindEth/nethermind/commit/28d309c2816554cd64c753849f8e3d0f2d01def5) - 2026-04-08
 ## Q1 2026
 
 

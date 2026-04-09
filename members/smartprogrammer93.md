@@ -21,6 +21,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore: Update GitHub Actions](https://github.com/NethermindEth/nethermind/pull/11063#pullrequestreview-4070302209) - 2026-04-07
 * [Review] [Review on: chore: Update Nethermind banner](https://github.com/NethermindEth/nethermind/pull/11064#pullrequestreview-4070868921) - 2026-04-07
 * [Review] [Review on: Fix debug_executionWitness for Taiko plugin](https://github.com/NethermindEth/nethermind/pull/11058#pullrequestreview-4067651542) - 2026-04-07
+* [Review] [Review on: fix: resolve tx type based on target block fork in eth_call](https://github.com/NethermindEth/nethermind/pull/11074#pullrequestreview-4077586253) - 2026-04-08
+* [Review] [Review on: chore: Remove OP diff workflow](https://github.com/NethermindEth/nethermind/pull/11071#pullrequestreview-4076139148) - 2026-04-08
+* [Review] [Review on: feat(flat-state): remove read node dictionaries from SnapshotBundle](https://github.com/NethermindEth/nethermind/pull/10993#pullrequestreview-4072922781) - 2026-04-08
 ## Q1 2026
 
 

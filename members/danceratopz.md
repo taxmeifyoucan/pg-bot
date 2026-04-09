@@ -25,6 +25,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(cli): Add --until option for checklist generation](https://github.com/ethereum/execution-specs/pull/2593#pullrequestreview-4066116110) - 2026-04-07
 * [Review] [Review on: feat(ci,tooling): add vulture dead code detection to just & ci](https://github.com/ethereum/execution-specs/pull/2621#pullrequestreview-4066246008) - 2026-04-07
 * [Issue] [Enable definition of client exception mappers via "external" file](https://github.com/ethereum/execution-specs/issues/2631) - 2026-04-07
+* [Review] [Review on: feat(ci,tooling): add vulture dead code detection to just & ci](https://github.com/ethereum/execution-specs/pull/2621#pullrequestreview-4075457831) - 2026-04-08
+* [Review] [Review on: chore(tooling,deps): update mypy to 1.20](https://github.com/ethereum/execution-specs/pull/2633#pullrequestreview-4073271158) - 2026-04-08
 ## Q1 2026
 
 

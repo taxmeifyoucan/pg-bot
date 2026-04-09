@@ -22,6 +22,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Fix finalized and justified state endpoint to not advance the slot](https://github.com/OffchainLabs/prysm/pull/16635) - 2026-04-05
 * [Commit] [Fix finalized and justified state endpoint to not advance the slot (#16635)](https://github.com/OffchainLabs/prysm/commit/9d084bceb3aeac583a32f58761bbbfc91bce5bdb) - 2026-04-05
 * [Review] [Review on: Fix initial sync envelope validation for genesis blocks](https://github.com/OffchainLabs/prysm/pull/16637#pullrequestreview-4068402888) - 2026-04-07
+
+* [Commit] [Use proposer preferences cache for payload attributes after Gloas (#16620)](https://github.com/OffchainLabs/prysm/commit/f3dfcbab2a5d579340cb05b116c97a7be188a6ff) - 2026-04-08
+[OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
+* [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
+* [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08
+* [Commit] [Add native RISC-V support (#55)](https://github.com/OffchainLabs/hashtree/commit/fba14494dada4420440d985c2c516341d9c24b9b) - 2026-04-08
 ## Q1 2026
 
 

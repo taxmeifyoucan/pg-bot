@@ -35,6 +35,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: queue beacon block awaiting parent payload envelope](https://github.com/ChainSafe/lodestar/pull/9179#pullrequestreview-4065602708) - 2026-04-07
 * [Review] [Review on: fix: use expected withdrawals from state when parent is empty](https://github.com/ChainSafe/lodestar/pull/9189#pullrequestreview-4065675872) - 2026-04-07
 
+* [Review] [Review on: fix: pass prepareSlot to fork choice head for Gloas FULL vs EMPTY tie-breaker](https://github.com/ChainSafe/lodestar/pull/9164#pullrequestreview-4072395330) - 2026-04-08
+* [Review] [Review on: fix: correct proposer boost logic and getParentNodeIndex for gloas](https://github.com/ChainSafe/lodestar/pull/9165#pullrequestreview-4072563838) - 2026-04-08
+* [Review] [Review on: refactor: reorder payload status constants](https://github.com/ChainSafe/lodestar/pull/9176#pullrequestreview-4073614860) - 2026-04-08
+* [Review] [Review on: fix: ignore beacon block if parent payload unknown](https://github.com/ChainSafe/lodestar/pull/9178#pullrequestreview-4072569088) - 2026-04-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

@@ -8,6 +8,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 
 ## Contributions
 
+## Q2 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Gloas bid and preference verification](https://github.com/sigp/lighthouse/pull/9036#pullrequestreview-4078805104) - 2026-04-08
+* [Review] [Review on: Gloas serve post block state for finalized/justified state requests](https://github.com/sigp/lighthouse/pull/9092#pullrequestreview-4072429809) - 2026-04-08
+* [Issue] [Add http api tests for gloas finalized/justified state endpoints](https://github.com/sigp/lighthouse/issues/9110) - 2026-04-08
 ## Q1 2026
 
 

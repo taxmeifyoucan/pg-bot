@@ -25,6 +25,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Only apply blob schedule bpoX if bpoXTime is available as well (#10166)](https://github.com/besu-eth/besu/commit/375f20cea88bff225a8551f6b633452c98a8c4de) - 2026-04-07
 * [Commit] [update eip 8037 to latest spec test (#10185)](https://github.com/besu-eth/besu/commit/300b201720531a2804df1e5031395f205484dfad) - 2026-04-07
 * [Commit] [Fix flaky SnapServerTest.assertAccountLimitRangeResponse (#10189)](https://github.com/besu-eth/besu/commit/b1af1fedeca7e0e099d5c4c2fe5b8a0ec6b55476) - 2026-04-07
+* [Pull Request] [Merge latest main into bal-devnet-3](https://github.com/besu-eth/besu/pull/10200) - 2026-04-08
+* [Pull Request] [Enable the prague execution processor for poa networks that have the systems contract addresses set in their genesis file](https://github.com/besu-eth/besu/pull/10199) - 2026-04-08
+* [Pull Request] [Stream debug_traceBlock* responses directly to avoid OOM on large blocks](https://github.com/besu-eth/besu/pull/9848) - 2026-04-08
+* [Review] [Review on: Prefetch + cross block cache into bal devnet 3](https://github.com/besu-eth/besu/pull/10194#pullrequestreview-4074324148) - 2026-04-08
+* [Commit] [Stream debug_traceBlock* responses directly to avoid OOM on large blocks (#9848)](https://github.com/besu-eth/besu/commit/b2cbdeae018db7b6bf362b1bbf01a1d512e00d01) - 2026-04-08
 ## Q1 2026
 
 

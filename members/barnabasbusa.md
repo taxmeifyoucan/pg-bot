@@ -24,6 +24,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16622) - 2026-04-01
 * [Pull Request] [Fix minimal preset and register ProduceBlockV4 endpoint](https://github.com/OffchainLabs/prysm/pull/16625) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16623) - 2026-04-01
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112) - 2026-04-08
 ## Q1 2026
 
 

@@ -149,12 +149,21 @@ Team: Reth
 * [Commit] [fix(dse): preserve constants live across CALL/CREATE suspension (#280)](https://github.com/paradigmxyz/revmc/commit/9e97d7c4ad7e314f4c5d199985abc5303c346eff) - 2026-04-07
 * [Commit] [fix(llvm): clear JITDylib before dropping resource trackers (#281)](https://github.com/paradigmxyz/revmc/commit/7f2b7c8bea1e64b019beb1874ca5f89ff9975bab) - 2026-04-07
 * [Commit] [fix: require stack pointer for suspendable raw calls (#279)](https://github.com/paradigmxyz/revmc/commit/5074d8afcfd754285fe29b02bcd8d1806d27d78e) - 2026-04-07
+* [Pull Request] [fix: track stored len.addr offset to eliminate redundant stores](https://github.com/paradigmxyz/revmc/pull/291) - 2026-04-09
+* [Pull Request] [feat: add writable attribute to &mut pointer parameters](https://github.com/paradigmxyz/revmc/pull/290) - 2026-04-08
+* [Pull Request] [fix(llvm): fix OrcJitState field drop order to prevent use-after-free](https://github.com/paradigmxyz/revmc/pull/289) - 2026-04-08
+* [Commit] [fix: re-sync len.addr when section_len_offset drifts back to 0 via noops (#291)](https://github.com/paradigmxyz/revmc/commit/e1c6cd3e77294a594406c7df950222c24724a57d) - 2026-04-09
+* [Commit] [feat: add writable attribute to &mut pointer parameters (#290)](https://github.com/paradigmxyz/revmc/commit/aab3f34cbdb091fafd4e0290f6cf02fdfb15b6fe) - 2026-04-08
+* [Commit] [refactor: widen OpcodeInfo to u32, unhardcode SELFDESTRUCT gas (#288)](https://github.com/paradigmxyz/revmc/commit/9fed531fca208ea64d501c6d3a51d4d022476d86) - 2026-04-08
+* [Commit] [fix(llvm): fix OrcJitState field drop order to prevent use-after-free (#289)](https://github.com/paradigmxyz/revmc/commit/d0b45ca2f102de6e15ae89be6ae80893501fc00d) - 2026-04-08
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
 * [Review] [Review on: fix(ci): pin CPU frequency to nominal clock in bench workflow](https://github.com/paradigmxyz/reth/pull/23370#pullrequestreview-4067585211) - 2026-04-07
 * [Pull Request] [chore(mdbx): replace deprecated MDBX_NOTLS with MDBX_NOSTICKYTHREADS](https://github.com/paradigmxyz/reth/pull/23378) - 2026-04-07
 * [Review] [Review on: chore: remove changelog workflow and .changelog directory](https://github.com/paradigmxyz/reth/pull/23376#pullrequestreview-4068010583) - 2026-04-07
+* [Review] [Review on: ci: remove PGO from CI workflows](https://github.com/paradigmxyz/reth/pull/23405#pullrequestreview-4077107717) - 2026-04-08
+* [Review] [Review on: feat(docker): enable jemalloc-prof in nightly images](https://github.com/paradigmxyz/reth/pull/23396#pullrequestreview-4076223875) - 2026-04-08
 ## Q1 2026
 
 

@@ -31,8 +31,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat: make debug_executionWitness compatible with FlatDb](https://github.com/NethermindEth/nethermind/pull/11045#pullrequestreview-4068528367) - 2026-04-07
 * [Review] [Review on: Parallel transaction execution with BALs](https://github.com/NethermindEth/nethermind/pull/9182#pullrequestreview-4069963482) - 2026-04-07
 * [Review] [Review on: Lower Ethash cache level logs - no need to spam them for history blocks](https://github.com/NethermindEth/nethermind/pull/11061#pullrequestreview-4068875380) - 2026-04-07
+* [Review] [Review on: Fix for 4844 in XDC ](https://github.com/NethermindEth/nethermind/pull/11070#pullrequestreview-4075104321) - 2026-04-08
+* [Review] [Review on: feat(flat-state): remove read node dictionaries from SnapshotBundle](https://github.com/NethermindEth/nethermind/pull/10993#pullrequestreview-4073925495) - 2026-04-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
+* [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
 ## Q1 2026
 
 

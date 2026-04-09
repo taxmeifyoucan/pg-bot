@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Pull Request] [consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805) - 2026-04-08
 ## Q1 2026
 
 

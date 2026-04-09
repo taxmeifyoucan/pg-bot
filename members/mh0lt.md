@@ -22,6 +22,12 @@ Team: Erigon
 * [Issue] [aggregator: coordinate block file creation with domain collation](https://github.com/erigontech/erigon/issues/20387) - 2026-04-07
 * [Issue] [sentry: StatusDataProvider opens excessive MDBX readers, blocking GC page reclamation](https://github.com/erigontech/erigon/issues/20383) - 2026-04-07
 * [Commit] [notifications, rpc: overlay publish, pre-commit dispatch, native types, embedded RPC overlay (#20195)](https://github.com/erigontech/erigon/commit/28072913e0c2ce2afa6bb662922b7500cc116fa4) - 2026-04-07
+* [Review] [Review on: execution: fix BAL access index gap in block assembler](https://github.com/erigontech/erigon/pull/20410#pullrequestreview-4074285227) - 2026-04-08
+* [Review] [Review on: ci: skip TestExecutionSpecBlockchainDevnet on macOS (too slow)](https://github.com/erigontech/erigon/pull/20422#pullrequestreview-4075913984) - 2026-04-08
+* [Issue] [db: add drainReaders flag to BeginTemporalRw and TryBeginTemporalRo/TryView for MDBX GC](https://github.com/erigontech/erigon/issues/20415) - 2026-04-08
+* [Commit] [Add caplin support for assertor minimal presets (#20190)](https://github.com/erigontech/erigon/commit/e3cd3ffcaf9a5d4f45e5c6c9c49ef6dcea3cadbf) - 2026-04-08
+* [Commit] [stagedsync, state: parallel executor fixes from bal-devnet-3 (#20386)](https://github.com/erigontech/erigon/commit/4c16b8f115b7a2be4559a8f536f262826b0acb90) - 2026-04-08
+* [Commit] [cmd, ethconfig: consolidate flag reading and remove global statecfg side effects (#20390)](https://github.com/erigontech/erigon/commit/dd05cc3d53326b452cf112e8fa2f5bca7dd81936) - 2026-04-08
 ## Q1 2026
 
 

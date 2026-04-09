@@ -91,6 +91,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: ignore beacon block if parent payload unknown (#9178)](https://github.com/ChainSafe/lodestar/commit/8300b502a67705b1b499aaabfeb92b121928905b) - 2026-04-07
 * [Commit] [refactor: use consistent names for state after payload is applied (#9175)](https://github.com/ChainSafe/lodestar/commit/572fb8156ae073b895ea2bb6aeee716fc5b73708) - 2026-04-07
 * [Commit] [fix: use expected withdrawals from state when parent is empty (#9189)](https://github.com/ChainSafe/lodestar/commit/c58e92512eee78447aa0a575ec700bbad900c10b) - 2026-04-07
+* [Review] [Review on: fix: pass prepareSlot to fork choice head for Gloas FULL vs EMPTY tie-breaker](https://github.com/ChainSafe/lodestar/pull/9164#pullrequestreview-4078383632) - 2026-04-08
+* [Review] [Review on: fix: correct proposer boost logic and getParentNodeIndex for gloas](https://github.com/ChainSafe/lodestar/pull/9165#pullrequestreview-4074170174) - 2026-04-08
+* [Issue] [Remove `SECONDS_PER_SLOT` after gloas](https://github.com/ChainSafe/lodestar/issues/9201) - 2026-04-08
+* [Commit] [fix: validate MIN_EPOCHS for blob/data column by range/root requests (#9173)](https://github.com/ChainSafe/lodestar/commit/1e596a7422b9c7744c7894ccd7e5845a1741b257) - 2026-04-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

@@ -14,6 +14,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: execution/vm: optimize KZG point evaluation precompile (~24% faster)](https://github.com/erigontech/erigon/pull/20273#pullrequestreview-4045503641) - 2026-04-01
 
+* [Pull Request] [execution/state: drop ethconfig.Sync dependency from StateV3](https://github.com/erigontech/erigon/pull/20425) - 2026-04-08
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Pull Request] [crypto: Use local accumulator t[] in mul_amm_256 to avoid aliasing](https://github.com/ipsilon/evmone/pull/1477) - 2026-04-02
 * [Issue] [Check clang's wrap behavior types](https://github.com/ipsilon/evmone/issues/1476) - 2026-04-02
@@ -47,6 +48,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Don't test evmone with evmc-vmtester (#1498)](https://github.com/ipsilon/evmone/commit/75f02d1ae229840daec83300470d66f45854cde2) - 2026-04-07
 * [Commit] [docs,build: Remove outdated mention of evm-test (#1497)](https://github.com/ipsilon/evmone/commit/88c0be3e8eb14120e457b3702bb48b30f3dd98a9) - 2026-04-07
 * [Commit] [evmone 0.20.0](https://github.com/ipsilon/evmone/commit/b95db0d09f9f46b6f471147612178787d4245219) - 2026-04-07
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 ## Q1 2026
 
 

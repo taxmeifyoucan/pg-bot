@@ -54,8 +54,42 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [execution: EIP-8037 state gas follow-ups from PR #20255 review](https://github.com/erigontech/erigon/issues/20378) - 2026-04-07
 * [Commit] [execution: enforce EIP-8037 state gas limit in block builder (#20255)](https://github.com/erigontech/erigon/commit/5719589cd8e533beff3a94aa9a139455f1c71315) - 2026-04-07
 * [Commit] [execution/vm: optimize KZG point evaluation precompile (~24% faster) (#20273)](https://github.com/erigontech/erigon/commit/d81bdea7487d46293a80d3aac0953274a172b3b5) - 2026-04-07
+* [Review] [Review on: [wip] seg: arena-based MatchFinder (patricia trie)](https://github.com/erigontech/erigon/pull/20136#pullrequestreview-4074270054) - 2026-04-08
+* [Review] [Review on: cp: cherry-pick batch 2 from release/3.4 to main](https://github.com/erigontech/erigon/pull/20405#pullrequestreview-4073627862) - 2026-04-08
+* [Review] [Review on: deps: update fastkeccak](https://github.com/erigontech/erigon/pull/20395#pullrequestreview-4073555855) - 2026-04-08
+* [Pull Request] [p2p/discover: enforce liveness check in v4 FINDNODE handler](https://github.com/erigontech/erigon/pull/20423) - 2026-04-08
+* [Review] [Review on: txpool: fix Add reply discard reason index alignment](https://github.com/erigontech/erigon/pull/20240#pullrequestreview-4075549732) - 2026-04-08
+* [Pull Request] [execution/abi: validate tuple field names before reflect.StructOf](https://github.com/erigontech/erigon/pull/20417) - 2026-04-08
+* [Pull Request] [execution/abi: reject fixed bytes types with size > 32](https://github.com/erigontech/erigon/pull/20414) - 2026-04-08
+* [Pull Request] [rpc: fix batch HTTP response channel to prevent hang](https://github.com/erigontech/erigon/pull/20418) - 2026-04-08
+* [Review] [Review on: cp: cherry-pick batch 3 from release/3.4 to main](https://github.com/erigontech/erigon/pull/20406#pullrequestreview-4073719228) - 2026-04-08
+* [Pull Request] [execmodule: tolerate ErrBehindCommitment in InsertBlocks](https://github.com/erigontech/erigon/pull/20429) - 2026-04-08
+* [Pull Request] [execution: fix BAL validation in parallel executor](https://github.com/erigontech/erigon/pull/20427) - 2026-04-08
+* [Pull Request] [vm: extract shared execCreate helper for opCreate and opCreate2](https://github.com/erigontech/erigon/pull/20426) - 2026-04-08
+* [Pull Request] [execution/abi: fix encoding of negative *big.Int in MakeTopics](https://github.com/erigontech/erigon/pull/20413) - 2026-04-08
+* [Review] [Review on: Add caplin support for assertor minimal presets](https://github.com/erigontech/erigon/pull/20190#pullrequestreview-4073569095) - 2026-04-08
+* [Pull Request] [execution: fix BAL access index gap in block assembler](https://github.com/erigontech/erigon/pull/20410) - 2026-04-08
+* [Review] [Review on: rpc: fix null result unmarshalling in CallContext](https://github.com/erigontech/erigon/pull/20393#pullrequestreview-4073675609) - 2026-04-08
+* [Review] [Review on: stagedsync, state: parallel executor fixes from bal-devnet-3](https://github.com/erigontech/erigon/pull/20386#pullrequestreview-4073505778) - 2026-04-08
+* [Pull Request] [ci: skip TestExecutionSpecBlockchainDevnet on macOS (too slow)](https://github.com/erigontech/erigon/pull/20422) - 2026-04-08
+* [Pull Request] [ci: make ci-gate fail fast](https://github.com/erigontech/erigon/pull/20421) - 2026-04-08
+* [Review] [Review on: deps: up bolt](https://github.com/erigontech/erigon/pull/20402#pullrequestreview-4073861801) - 2026-04-08
+* [Issue] [RPC integration tests: debug_accountRange flaky due to history gap after snapshot merge](https://github.com/erigontech/erigon/issues/20428) - 2026-04-08
+* [Commit] [p2p/discover: enforce liveness check in v4 FINDNODE handler (#20423)](https://github.com/erigontech/erigon/commit/1e34522ff2ab349acf6e8f92b347b44506ecfb2b) - 2026-04-08
+* [Commit] [execution/abi: validate tuple field names before reflect.StructOf (#20417)](https://github.com/erigontech/erigon/commit/a50fc4b54fd391dbd39f3e96741c995dbb625ab9) - 2026-04-08
+* [Commit] [execution/abi: reject fixed bytes types with size > 32 (#20414)](https://github.com/erigontech/erigon/commit/bda7e99e6fc7ba8f83770d0839dbd2ba5ea40aac) - 2026-04-08
+* [Commit] [rpc: fix batch HTTP response channel to prevent hang (#20418)](https://github.com/erigontech/erigon/commit/aea391f8acbfa18f94406cecbf61ebec4b7cbf9a) - 2026-04-08
+* [Commit] [execution/abi: fix encoding of negative *big.Int in MakeTopics (#20413)](https://github.com/erigontech/erigon/commit/d1e618fc492d0087333796ce88814532f259ca7b) - 2026-04-08
+* [Commit] [execution: fix BAL access index gap in block assembler (#20410)](https://github.com/erigontech/erigon/commit/84d31e41d4f25c16833bc15a3a96dd3e2cdd3d52) - 2026-04-08
+* [Commit] [ci: skip TestExecutionSpecBlockchainDevnet on macOS (too slow) (#20422)](https://github.com/erigontech/erigon/commit/ecaf5c4cbff26f88f56d8778cc784a6ca7bc8245) - 2026-04-08
+* [Commit] [execution: fix EIP-8037 state gas reservoir restore & CREATE state gas ordering (#20290)](https://github.com/erigontech/erigon/commit/76b9940e9058610bfcb4d65ff81b86f5a7580873) - 2026-04-08
+* [Commit] [execution/chain: remove TestChainConfig alias (#20299)](https://github.com/erigontech/erigon/commit/5fdb4a903784018e3f40fec6600e23c9fdf90585) - 2026-04-08
+* [Commit] [rpc: fix race between overlay publish and state change consumers (#20401)](https://github.com/erigontech/erigon/commit/d327d1d17ffa4c8bc2899940facd7001b61ff740) - 2026-04-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [tests(amsterdam): EIP-7708 burn log when coinbase self-destructs](https://github.com/ethereum/execution-specs/pull/2634) - 2026-04-08
 ## Q1 2026
 
 

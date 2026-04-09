@@ -20,6 +20,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add results to peer lookup and tests](https://github.com/status-im/nimbus-eth2/pull/8146#pullrequestreview-4059815441) - 2026-04-05
 * [Pull Request] [continue introduction of Heze support infrastructure via typeclass extension](https://github.com/status-im/nimbus-eth2/pull/8221) - 2026-04-05
 * [Pull Request] [initial Heze consensus fork infrastructure](https://github.com/status-im/nimbus-eth2/pull/8233) - 2026-04-08
+* [Pull Request] [implement Heze epoch transition test fixture](https://github.com/status-im/nimbus-eth2/pull/8236) - 2026-04-09
+* [Pull Request] [implement test fixture for Heze SSZ objects](https://github.com/status-im/nimbus-eth2/pull/8235) - 2026-04-08
+* [Review] [Review on: proposer preferences implementation](https://github.com/status-im/nimbus-eth2/pull/8231#pullrequestreview-4072542486) - 2026-04-08
+* [Review] [Review on: Replace verifying signer GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8228#pullrequestreview-4072491777) - 2026-04-08
 ## Q1 2026
 
 

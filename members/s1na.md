@@ -22,6 +22,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [core/types: fix merging state mutations (EIP-7928)](https://github.com/ethereum/go-ethereum/pull/34640) - 2026-04-02
 
 * [Pull Request] [eth/tracers: fix codehash in prestate diffmode](https://github.com/ethereum/go-ethereum/pull/34675) - 2026-04-07
+* [Pull Request] [core/stateless: fix parsing an empty witness](https://github.com/ethereum/go-ethereum/pull/34683) - 2026-04-08
+* [Pull Request] [core/state: touch BAL on statedb cache](https://github.com/ethereum/go-ethereum/pull/34684) - 2026-04-08
+* [Commit] [core/stateless: fix parsing an empty witness (#34683)](https://github.com/ethereum/go-ethereum/commit/68c7058a80859dc5de75d3e34708cd1ea2f094e5) - 2026-04-09
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 ## Q1 2026

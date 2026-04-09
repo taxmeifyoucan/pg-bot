@@ -35,6 +35,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: fix null result unmarshalling in CallContext](https://github.com/erigontech/erigon/pull/20393) - 2026-04-07
 * [Review] [Review on: rpc : fix eth_simulateV1 has storage ram batch](https://github.com/erigontech/erigon/pull/20293#pullrequestreview-4069935765) - 2026-04-07
 * [Commit] [QA: enable rpc-tests (integration) using go (#20275)](https://github.com/erigontech/erigon/commit/84b5b61d3919bfc5709eada4a9f437f762c3b8eb) - 2026-04-07
+* [Review] [Review on: graphql: fix block.account and account.storage resolvers (#11662)](https://github.com/erigontech/erigon/pull/20389#pullrequestreview-4072963397) - 2026-04-08
+* [Review] [Review on: rpc: fix null result unmarshalling in CallContext](https://github.com/erigontech/erigon/pull/20393#pullrequestreview-4072956574) - 2026-04-08
+* [Commit] [graphql: fix block.account and account.storage resolvers (#11662) (#20389)](https://github.com/erigontech/erigon/commit/52547d342089bcd840e678e92f88d37d6bf440ef) - 2026-04-08
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

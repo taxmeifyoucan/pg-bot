@@ -20,6 +20,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Add MULMOD to EVMv2](https://github.com/besu-eth/besu/pull/10168#pullrequestreview-4067408546) - 2026-04-07
 * [Commit] [Upgrade RocksDB version from 9.7.3 to 10.6.2 (#9767)](https://github.com/besu-eth/besu/commit/85fd9627ea02da45b9d27811dc36bf7cdd66adf4) - 2026-04-07
 * [Commit] [Add SHL, SHR and SAR shift operations for EVM v2 (#10154)](https://github.com/besu-eth/besu/commit/4007a7e457686f76ed4556783aa791482eaac88f) - 2026-04-07
+* [Review] [Review on: Add missing verification metadata](https://github.com/besu-eth/besu/pull/10198#pullrequestreview-4073855841) - 2026-04-08
+* [Review] [Review on: Optimize performance and reduce memory when creating Quantity from scalar](https://github.com/besu-eth/besu/pull/10134#pullrequestreview-4075264757) - 2026-04-08
 ## Q1 2026
 
 

@@ -14,6 +14,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat: multi-threaded bls for lodestar integration](https://github.com/ChainSafe/lodestar-z/pull/306#pullrequestreview-4068875489) - 2026-04-07
 * [Pull Request] [chore: fix zapi usage](https://github.com/ChainSafe/lodestar-z/pull/307) - 2026-04-07
 * [Review] [Review on: chore: fix zapi usage](https://github.com/ChainSafe/lodestar-z/pull/307#pullrequestreview-4069060542) - 2026-04-07
+* [Review] [Review on: fix: use atomic operations for ReferenceCount thread safety](https://github.com/ChainSafe/lodestar-z/pull/292#pullrequestreview-4073736537) - 2026-04-08
+* [Commit] [chore: fix zapi usage (#307)](https://github.com/ChainSafe/lodestar-z/commit/5c50ab483ec7b1e70c78b5b1eb9ea98630b118d8) - 2026-04-08
 ## Q1 2026
 
 

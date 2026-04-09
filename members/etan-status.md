@@ -29,6 +29,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Replace verifying signer GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8228#pullrequestreview-4068085109) - 2026-04-07
 * [Pull Request] [Replace Electra GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8226) - 2026-04-07
 * [Pull Request] [Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227) - 2026-04-07
+
+* [Pull Request] [Update light client root spec reference](https://github.com/status-im/nimbus-eth2/pull/8234) - 2026-04-08
+* [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074990427) - 2026-04-08
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 ## Q1 2026
 
 

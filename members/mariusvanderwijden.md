@@ -14,6 +14,7 @@ Team: Geth
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: cmd/abigen: (v2) added a package-level error for event signature mismatch](https://github.com/ethereum/go-ethereum/pull/34076#pullrequestreview-4049453310) - 2026-04-02
 * [Review] [Review on: eth/protocols/snap: fix block accessList encoding rule](https://github.com/ethereum/go-ethereum/pull/34644#pullrequestreview-4067558896) - 2026-04-07
+* [Review] [Review on: core: implement EIP-8037, state creation gas cost increase](https://github.com/ethereum/go-ethereum/pull/33601#pullrequestreview-4074076641) - 2026-04-08
 ## Q1 2026
 
 

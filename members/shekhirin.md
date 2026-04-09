@@ -15,6 +15,14 @@ Team: Reth
 * [Review] [Review on: fix(ci): pin CPU frequency to nominal clock in bench workflow](https://github.com/paradigmxyz/reth/pull/23370#pullrequestreview-4066920511) - 2026-04-07
 * [Review] [Review on: chore: remove changelog workflow and .changelog directory](https://github.com/paradigmxyz/reth/pull/23376#pullrequestreview-4067977656) - 2026-04-07
 * [Review] [Review on: fix: unmount schelk volume before recover in snapshot script](https://github.com/paradigmxyz/reth/pull/23371#pullrequestreview-4066952915) - 2026-04-07
+* [Pull Request] [perf(engine): populate execution cache with read-only accounts too](https://github.com/paradigmxyz/reth/pull/23397) - 2026-04-08
+* [Pull Request] [perf(engine): always populate execution cache on miss](https://github.com/paradigmxyz/reth/pull/23389) - 2026-04-08
+* [Pull Request] [ci: use reth 2.0 banner image in release draft](https://github.com/paradigmxyz/reth/pull/23404) - 2026-04-08
+* [Pull Request] [chore: add reth 2.0 banner image](https://github.com/paradigmxyz/reth/pull/23402) - 2026-04-08
+* [Review] [Review on: fix(engine): disable payload state hook when BAL is present](https://github.com/paradigmxyz/reth/pull/23393#pullrequestreview-4075671182) - 2026-04-08
+* [Review] [Review on: refactor(engine): use Mutex instead of RwLock in PayloadExecutionCache](https://github.com/paradigmxyz/reth/pull/23387#pullrequestreview-4074134335) - 2026-04-08
+* [Review] [Review on: fix: add --kill to all schelk recover calls](https://github.com/paradigmxyz/reth/pull/23384#pullrequestreview-4074517650) - 2026-04-08
+* [Commit] [chore: add reth 2.0 banner image (#23402)](https://github.com/paradigmxyz/reth/commit/5bfe2c8b13e8ed1f25bb9d091faa7adfb24c4ab4) - 2026-04-08
 ## Q1 2026
 
 

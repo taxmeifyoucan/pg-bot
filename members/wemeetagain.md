@@ -18,6 +18,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
+* [Review] [Review on: fix: pass prepareSlot to fork choice head for Gloas FULL vs EMPTY tie-breaker](https://github.com/ChainSafe/lodestar/pull/9164#pullrequestreview-4078068636) - 2026-04-08
 ## Q1 2026
 
 

@@ -33,6 +33,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Enable NullAway static null-safety analysis for util module](https://github.com/besu-eth/besu/pull/10046#pullrequestreview-4066252746) - 2026-04-07
 * [Review] [Review on: Add SHL, SHR and SAR shift operations for EVM v2](https://github.com/besu-eth/besu/pull/10154#pullrequestreview-4067427124) - 2026-04-07
 * [Review] [Review on: Check new files for the correct copyright header in th CI](https://github.com/besu-eth/besu/pull/10012#pullrequestreview-4067404551) - 2026-04-07
+* [Review] [Review on: Add MULMOD to EVMv2](https://github.com/besu-eth/besu/pull/10168#pullrequestreview-4073300431) - 2026-04-08
+* [Review] [Review on: Remove dryRunDetector workaround methods from unit tests](https://github.com/besu-eth/besu/pull/10201#pullrequestreview-4078450918) - 2026-04-08
 ## Q1 2026
 
 

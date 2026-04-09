@@ -41,6 +41,17 @@ Team: Reth
 * [Review] [Review on: feat(trie): add `DecodedMultiProofV2::from_witness` constructor](https://github.com/paradigmxyz/reth/pull/23362#pullrequestreview-4067364988) - 2026-04-07
 * [Review] [Review on: feat: expose EVM config on EthTransactionValidator](https://github.com/paradigmxyz/reth/pull/23369#pullrequestreview-4067357635) - 2026-04-07
 * [Issue] [add support for erae](https://github.com/paradigmxyz/reth/issues/23380) - 2026-04-07
+* [Review] [Review on: chore: add reth 2.0 banner image](https://github.com/paradigmxyz/reth/pull/23402#pullrequestreview-4076587043) - 2026-04-08
+* [Review] [Review on: fix(reth-bb): use noop consensus](https://github.com/paradigmxyz/reth/pull/23399#pullrequestreview-4076530433) - 2026-04-08
+* [Pull Request] [chore: forward reqwest tls](https://github.com/paradigmxyz/reth/pull/23400) - 2026-04-08
+* [Review] [Review on: fix(engine): disable payload state hook when BAL is present](https://github.com/paradigmxyz/reth/pull/23393#pullrequestreview-4075693702) - 2026-04-08
+* [Pull Request] [perf(storage): use sort_unstable in safe paths](https://github.com/paradigmxyz/reth/pull/23386) - 2026-04-08
+* [Review] [Review on: feat: implement Bal Client for eth 71](https://github.com/paradigmxyz/reth/pull/22605#pullrequestreview-4074253275) - 2026-04-08
+* [Review] [Review on: chore: remove migrate-trie-to-packed example](https://github.com/paradigmxyz/reth/pull/23385#pullrequestreview-4073575924) - 2026-04-08
+* [Review] [Review on: perf: use sort_unstable in CLI, networking, and RPC hot paths](https://github.com/paradigmxyz/reth/pull/23364#pullrequestreview-4073533967) - 2026-04-08
+* [Review] [Review on: perf(provider): avoid full receipt clone in tx-range query](https://github.com/paradigmxyz/reth/pull/23187#pullrequestreview-4073464407) - 2026-04-08
+* [Review] [Review on: perf(engine): reduce write lock hold time in save_cache](https://github.com/paradigmxyz/reth/pull/23350#pullrequestreview-4073446081) - 2026-04-08
+* [Review] [Review on: fix(rpc): guard gas_used_ratio against division by zero](https://github.com/paradigmxyz/reth/pull/23365#pullrequestreview-4073399290) - 2026-04-08
 ## Q1 2026
 
 

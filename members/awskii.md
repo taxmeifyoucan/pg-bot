@@ -24,6 +24,13 @@ Team: Erigon
 * [Pull Request] [commitment: eliminate CellGetter callback — hashRow + pure EncodeBranch](https://github.com/erigontech/erigon/pull/20306) - 2026-04-03
 * [Pull Request] [commitment: simplify unfold if branch](https://github.com/erigontech/erigon/pull/20388) - 2026-04-07
 
+* [Review] [Review on: commitment: per-goroutine ETL collectors for concurrent rebuild](https://github.com/erigontech/erigon/pull/20272#pullrequestreview-4074851075) - 2026-04-08
+* [Pull Request] [cmd: remove `hack` binary](https://github.com/erigontech/erigon/pull/20412) - 2026-04-08
+* [Review] [Review on: up `kong` version](https://github.com/erigontech/erigon/pull/20408#pullrequestreview-4074461075) - 2026-04-08
+* [Pull Request] [cmd: remove `state` binary](https://github.com/erigontech/erigon/pull/20420) - 2026-04-08
+* [Commit] [commitment: per-goroutine ETL collectors for concurrent rebuild (#20272)](https://github.com/erigontech/erigon/commit/ca0d524499c76082084377fa62d4a562d347bb09) - 2026-04-08
+* [Commit] [cmd: remove `hack` binary (#20412)](https://github.com/erigontech/erigon/commit/1a3e865d49abaa2ab18558e03b2a5f175b2fc1a0) - 2026-04-08
+* [Commit] [commitment: simplify unfold if branch (#20388)](https://github.com/erigontech/erigon/commit/96274a4035c2501ba3c184e387cbf9b404a11992) - 2026-04-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

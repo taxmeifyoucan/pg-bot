@@ -39,6 +39,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix debug_executionWitness for Taiko plugin](https://github.com/NethermindEth/nethermind/pull/11058#pullrequestreview-4067353420) - 2026-04-07
 * [Review] [Review on: fix: register ISnapServer in FlatWorldStateModule DI](https://github.com/NethermindEth/nethermind/pull/11052#pullrequestreview-4067636578) - 2026-04-07
 * [Commit] [feat: make debug_executionWitness compatible with FlatDb (#11045)](https://github.com/NethermindEth/nethermind/commit/f49873c515431f3a66904555f5518b95bc4dc7aa) - 2026-04-07
+* [Pull Request] [refactor: extract trie visitor orchestration from PatriciaTree](https://github.com/NethermindEth/nethermind/pull/11068) - 2026-04-08
+* [Review] [Review on: refactor: extract FullPruner init into overridable IFullPrunerFactory](https://github.com/NethermindEth/nethermind/pull/11066#pullrequestreview-4073659085) - 2026-04-08
+* [Commit] [feat(flat-state): remove read node dictionaries from SnapshotBundle (#10993)](https://github.com/NethermindEth/nethermind/commit/799914f290eb9655fc6bf6f2f66ddae148e89d49) - 2026-04-08
+* [Commit] [refactor: extract FullPruner init into overridable IFullPrunerFactory (#11066)](https://github.com/NethermindEth/nethermind/commit/438c4fc5dae620054a49eba1c9e0622667ad8f93) - 2026-04-08
 ## Q1 2026
 
 

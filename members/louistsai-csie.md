@@ -27,6 +27,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests-execute): `EOA` pkey support for stub account](https://github.com/ethereum/execution-specs/pull/2624#pullrequestreview-4066100776) - 2026-04-07
 * [Pull Request] [feat(test-benchmark): add cache strategy to storage benchmark](https://github.com/ethereum/execution-specs/pull/2628) - 2026-04-07
 * [Pull Request] [feat(test-benchmark): dummy multi block benchmark](https://github.com/ethereum/execution-specs/pull/2629) - 2026-04-07
+* [Review] [Review on: feat(tests): add state restoration tests for reverted sub-calls](https://github.com/ethereum/execution-specs/pull/2494#pullrequestreview-4073521258) - 2026-04-08
+* [Commit] [feat(tests-execute): `EOA` pkey support for stub account (#2624)](https://github.com/ethereum/execution-specs/commit/9e7225a932514e6ce8039a41ba38fe071f50ba0c) - 2026-04-08
 ## Q1 2026
 
 
