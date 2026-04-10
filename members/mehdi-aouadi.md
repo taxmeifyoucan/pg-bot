@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 
 ## Contributions
 
+## Q2 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: 10098 execution payload storage](https://github.com/Consensys/teku/pull/10541#pullrequestreview-4082851761) - 2026-04-09
+* [Commit] [gloas DA checks (#10504)](https://github.com/Consensys/teku/commit/c7424a1ca135064c09b60b7d57a34c04ecccdda2) - 2026-04-09
 ## Q1 2026
 
 

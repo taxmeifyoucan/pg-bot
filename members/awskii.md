@@ -31,6 +31,14 @@ Team: Erigon
 * [Commit] [commitment: per-goroutine ETL collectors for concurrent rebuild (#20272)](https://github.com/erigontech/erigon/commit/ca0d524499c76082084377fa62d4a562d347bb09) - 2026-04-08
 * [Commit] [cmd: remove `hack` binary (#20412)](https://github.com/erigontech/erigon/commit/1a3e865d49abaa2ab18558e03b2a5f175b2fc1a0) - 2026-04-08
 * [Commit] [commitment: simplify unfold if branch (#20388)](https://github.com/erigontech/erigon/commit/96274a4035c2501ba3c184e387cbf9b404a11992) - 2026-04-08
+* [Pull Request] [rawdb: consolidate genesis and config writes](https://github.com/erigontech/erigon/pull/20441) - 2026-04-09
+* [Pull Request] [commitment: nibbles consolidation](https://github.com/erigontech/erigon/pull/20407) - 2026-04-09
+* [Review] [Review on: remove `flush complete` log line ](https://github.com/erigontech/erigon/pull/20431#pullrequestreview-4081899891) - 2026-04-09
+* [Pull Request] [commitment: lazy-vs-eager differential test, fixes, and benchmark](https://github.com/erigontech/erigon/pull/20438) - 2026-04-09
+* [Issue] [commitment: execution witnesses - add new test suite](https://github.com/erigontech/erigon/issues/20442) - 2026-04-09
+* [Commit] [commitment: nibbles consolidation (#20407)](https://github.com/erigontech/erigon/commit/6560778ff7c10bcc95058fbaca238e85acd6d97b) - 2026-04-09
+* [Commit] [commitment: eliminate CellGetter callback — hashRow + pure EncodeBranch (#20306)](https://github.com/erigontech/erigon/commit/9233287a414dee5741fea59b0857500f3549bc12) - 2026-04-09
+* [Commit] [commitment: remove TxNum() from PatriciaContext interface (#20308)](https://github.com/erigontech/erigon/commit/b9ef4daeae76f810908744d850dd0d0ba77d9299) - 2026-04-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

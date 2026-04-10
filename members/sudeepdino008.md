@@ -62,6 +62,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [backtester: use ChangedKeysPerBlockIdx instead of HistoryRange for replay (#20375)](https://github.com/erigontech/erigon/commit/514fd57aaaa0894a039bea8a527e3debe64afcef) - 2026-04-08
 * [Commit] [db/state: RangeAsOf DB iterator starts from files.EndTxNum() (#20360)](https://github.com/erigontech/erigon/commit/12a1a1b2a21f7d652e85ff1059f16e93ca793b89) - 2026-04-08
 * [Commit] [db/state: fix remaining unsafe dirtyFiles access in RoTx (#20359)](https://github.com/erigontech/erigon/commit/6013d042fb9358741dbe694f664b02f1c78b528d) - 2026-04-08
+* [Pull Request] [cmd/integration: show commitment domain progress(txnum) in print_stages](https://github.com/erigontech/erigon/pull/20443) - 2026-04-09
+* [Pull Request] [integrity: restore StateProgress check](https://github.com/erigontech/erigon/pull/20435) - 2026-04-09
+* [Pull Request] [[r3.4] etl: munmap temp files in Dispose to prevent disk space leak](https://github.com/erigontech/erigon/pull/20440) - 2026-04-09
+* [Pull Request] [db/state: fix debugIteratePrefixLatest DB cursor endTxNum priority over files](https://github.com/erigontech/erigon/pull/20444) - 2026-04-09
+* [Pull Request] [Revert remove state progress check r34](https://github.com/erigontech/erigon/pull/20437) - 2026-04-09
+* [Review] [Review on: snapshots: align state files to block file boundary on startup](https://github.com/erigontech/erigon/pull/20434#pullrequestreview-4081473960) - 2026-04-09
+* [Commit] [cmd/integration: show commitment domain progress(txnum) in print_stages (#20443)](https://github.com/erigontech/erigon/commit/0afd0ae35216d84d027b0dadfa62a7ff01582cad) - 2026-04-10
 ## Q1 2026
 
 

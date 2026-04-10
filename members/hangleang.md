@@ -21,6 +21,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Cleanup Gloas block processing](https://github.com/grandinetech/grandine/commit/7ae9e40ddb9f5f8dadfe48f311a4237d0224da9c) - 2026-04-07
 * [Commit] [Reuse `process_registry_updates` and `epoch_report` from Electra](https://github.com/grandinetech/grandine/commit/899b0d8e9b776706bd1e14b6951a2efd5118eca0) - 2026-04-07
 * [Pull Request] [Validate payload envelope through processing](https://github.com/grandinetech/grandine/pull/662) - 2026-04-08
+* [Pull Request] [Remove `validate_execution_payload_envelope_with_state`](https://github.com/grandinetech/grandine/pull/664) - 2026-04-09
+* [Review] [Review on: Validate payload envelope through processing](https://github.com/grandinetech/grandine/pull/662#pullrequestreview-4082418251) - 2026-04-09
 ## Q1 2026
 
 

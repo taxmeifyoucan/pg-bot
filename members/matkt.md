@@ -18,6 +18,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Only apply blob schedule bpoX if bpoXTime is available as well](https://github.com/besu-eth/besu/pull/10166#pullrequestreview-4067375828) - 2026-04-07
 * [Review] [Review on: Enable the prague execution processor for poa networks that have the systems contract addresses set in their genesis file](https://github.com/besu-eth/besu/pull/10199#pullrequestreview-4075219041) - 2026-04-08
 * [Review] [Review on: snap sync - apply BALs before flat db heal](https://github.com/besu-eth/besu/pull/10151#pullrequestreview-4073769485) - 2026-04-08
+* [Review] [Review on: Preserve state gas reservoir for the top level frame in case of OOG](https://github.com/besu-eth/besu/pull/10205#pullrequestreview-4082772509) - 2026-04-09
+* [Review] [Review on: snap sync - apply BALs before flat db heal](https://github.com/besu-eth/besu/pull/10151#pullrequestreview-4080828131) - 2026-04-09
 ## Q1 2026
 
 

@@ -16,6 +16,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: fix(execute): use configurable gas limit for funding txs (EIP-8037)](https://github.com/ethereum/execution-specs/pull/2603#pullrequestreview-4046052930) - 2026-04-01
 * [Review] [Review on: feat(cli): Add --until option for checklist generation](https://github.com/ethereum/execution-specs/pull/2593#pullrequestreview-4068430351) - 2026-04-07
 * [Pull Request] [feat(tests): stateful engine test filling for benchmark tests](https://github.com/ethereum/execution-specs/pull/2637) - 2026-04-08
+* [Review] [Review on: feat(ci,tooling): add vulture dead code detection to just & ci](https://github.com/ethereum/execution-specs/pull/2621#pullrequestreview-4084034347) - 2026-04-09
 ## Q1 2026
 
 

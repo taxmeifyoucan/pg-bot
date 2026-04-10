@@ -18,6 +18,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests-execute): `EOA` pkey support for stub account](https://github.com/ethereum/execution-specs/pull/2624#pullrequestreview-4065011783) - 2026-04-06
 * [Review] [Review on: feat(test-fill): Add --verify-traces flag for trace comparison against baselines](https://github.com/ethereum/execution-specs/pull/2535#pullrequestreview-4071737439) - 2026-04-07
 * [Review] [Review on: feat(tests-execute): `EOA` pkey support for stub account](https://github.com/ethereum/execution-specs/pull/2624#pullrequestreview-4070513109) - 2026-04-07
+* [Pull Request] [feat(test-plugins-forks): Introduce `pytest.mark.valid_before`](https://github.com/ethereum/execution-specs/pull/2647) - 2026-04-09
+* [Issue] [Support SSZ in the Engine API](https://github.com/ethereum/execution-specs/issues/2645) - 2026-04-09
 ## Q1 2026
 
 

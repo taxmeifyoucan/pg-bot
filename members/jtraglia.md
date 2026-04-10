@@ -38,6 +38,17 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add `compute_shuffled_permutation` to speed up shuffling (#5080)](https://github.com/ethereum/consensus-specs/commit/1d816fb67acef28f3850d5d50bb0464a4f01f8f1) - 2026-04-08
 * [Commit] [Improve performance of `compute_balance_weighted_selection` (#5079)](https://github.com/ethereum/consensus-specs/commit/a17909edcd4058aee299465823388b59f37de98b) - 2026-04-08
 * [Commit] [Skip `Bytes32` constructor overhead in `hash()` (#5078)](https://github.com/ethereum/consensus-specs/commit/d845f68d7b11746ffb3a06e6d1acc02105a4eb16) - 2026-04-08
+* [Review] [Review on: Fix Gloas genesis anchor state](https://github.com/ethereum/consensus-specs/pull/5067#pullrequestreview-4085393774) - 2026-04-09
+* [Pull Request] [Fix merge conflict mistake](https://github.com/ethereum/consensus-specs/pull/5092) - 2026-04-09
+* [Pull Request] [Remove repo input in tests action](https://github.com/ethereum/consensus-specs/pull/5091) - 2026-04-09
+* [Review] [Review on: Remove invalid KZG commitments count check](https://github.com/ethereum/consensus-specs/pull/5090#pullrequestreview-4083865448) - 2026-04-09
+* [Pull Request] [Remove impossible builder already exited check](https://github.com/ethereum/consensus-specs/pull/5088) - 2026-04-09
+* [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4082869813) - 2026-04-09
+* [Commit] [Remove repo input in tests action (#5091)](https://github.com/ethereum/consensus-specs/commit/1358067bbe81b49ae90ca592c2caace73b25c32c) - 2026-04-09
+* [Commit] [Ensure builder is active in builder balance tests (#5087)](https://github.com/ethereum/consensus-specs/commit/4700d606d46ea7eca23f5cabe8420984f1d5195b) - 2026-04-09
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 ## Q1 2026
 
 

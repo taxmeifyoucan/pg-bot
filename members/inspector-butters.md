@@ -12,6 +12,10 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: core: implement cached PTC window in state](https://github.com/OffchainLabs/prysm/pull/16573#pullrequestreview-4049058998) - 2026-04-02
 * [Review] [Review on: Fix swapped JSON tags in ChainReorgEvent struct](https://github.com/OffchainLabs/prysm/pull/16639#pullrequestreview-4067658089) - 2026-04-07
+
+* [Review] [Review on: Fix package-level logger mutation](https://github.com/OffchainLabs/prysm/pull/16645#pullrequestreview-4082467564) - 2026-04-09
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 ## Q1 2026
 
 

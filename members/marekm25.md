@@ -13,6 +13,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [Add eth_fillTransaction RPC method](https://github.com/NethermindEth/nethermind/pull/11056) - 2026-04-06
+* [Review] [Review on: style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079#pullrequestreview-4082142165) - 2026-04-09
 ## Q1 2026
 
 

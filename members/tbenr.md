@@ -16,6 +16,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Remove grgit - and make build compatible with git workingtree (#10543)](https://github.com/Consensys/teku/commit/a3c2d2746c8773b3b7875f6bea564122b67eb96a) - 2026-04-01
 * [Review] [Review on: added an executor for Gossip beacon attestation reftests](https://github.com/Consensys/teku/pull/10546#pullrequestreview-4048990114) - 2026-04-02
 * [Review] [Review on: added an executor for Gossip beacon attestation reftests](https://github.com/Consensys/teku/pull/10546#pullrequestreview-4054671721) - 2026-04-03
+* [Pull Request] [Extract forkchoice reorg and timeliness logic (1 of 7)](https://github.com/Consensys/teku/pull/10548) - 2026-04-09
+* [Review] [Review on: 10098 execution payload storage](https://github.com/Consensys/teku/pull/10541#pullrequestreview-4083560738) - 2026-04-09
+* [Review] [Review on: Add support for v1.7.0-alpha.4](https://github.com/Consensys/teku/pull/10544#pullrequestreview-4080768179) - 2026-04-09
 ## Q1 2026
 
 

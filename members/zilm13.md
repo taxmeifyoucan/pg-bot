@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 
 ## Contributions
 
+## Q2 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: 10259 4 proposer preferences](https://github.com/Consensys/teku/pull/10517#pullrequestreview-4081951214) - 2026-04-09
 ## Q1 2026
 
 

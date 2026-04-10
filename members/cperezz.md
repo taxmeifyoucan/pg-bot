@@ -13,6 +13,9 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [triedb/pathdb: fix lookup sentinel collision with zero disk layer root](https://github.com/ethereum/go-ethereum/pull/34680) - 2026-04-07
 * [Pull Request] [core/state: fix codeLen=0 corruption of bintrie BasicData](https://github.com/ethereum/go-ethereum/pull/34677) - 2026-04-07
 * [Pull Request] [trie/bintrie: fix DeleteAccount no-op](https://github.com/ethereum/go-ethereum/pull/34676) - 2026-04-07
+* [Review] [Review on: core/state: fix codeLen=0 corruption of bintrie BasicData](https://github.com/ethereum/go-ethereum/pull/34677#pullrequestreview-4085138371) - 2026-04-09
+* [Pull Request] [trie/bintrie: fix GetAccount/GetStorage non-membership — verify stem before returning values](https://github.com/ethereum/go-ethereum/pull/34690) - 2026-04-09
+* [Commit] [triedb/pathdb: fix lookup sentinel collision with zero disk layer root (#34680)](https://github.com/ethereum/go-ethereum/commit/3772bb536a67a2f17ed98244775eb16698f79140) - 2026-04-09
 ## Q1 2026
 
 

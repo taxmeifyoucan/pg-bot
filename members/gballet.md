@@ -14,6 +14,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [trie/bintrie: spec change, big endian hashing of slot key](https://github.com/ethereum/go-ethereum/pull/34670) - 2026-04-06
 * [Review] [Review on: core: merge access events for all system calls](https://github.com/ethereum/go-ethereum/pull/34637#pullrequestreview-4070849718) - 2026-04-07
+* [Review] [Review on: trie/bintrie: use children array instead of left/right fields](https://github.com/ethereum/go-ethereum/pull/34689#pullrequestreview-4080715822) - 2026-04-09
+* [Commit] [cmd/geth: add subcommand for offline binary tree conversion (#33740)](https://github.com/ethereum/go-ethereum/commit/58557cb4635d4e6f3e49fcdc82a6469554e929a6) - 2026-04-09
 ## Q1 2026
 
 

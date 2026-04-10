@@ -54,6 +54,20 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Improve ssz](https://github.com/NethermindEth/nethermind/pull/10788#pullrequestreview-4075276652) - 2026-04-08
 * [Review] [Review on: refactor: extract FullPruner init into overridable IFullPrunerFactory](https://github.com/NethermindEth/nethermind/pull/11066#pullrequestreview-4073386878) - 2026-04-08
 * [Commit] [fix AuRaBlockFinalizationManager unclean shutdown (#11062)](https://github.com/NethermindEth/nethermind/commit/28d309c2816554cd64c753849f8e3d0f2d01def5) - 2026-04-08
+* [Pull Request] [fix: validate signature length in personal_ecRecover](https://github.com/NethermindEth/nethermind/pull/11090) - 2026-04-09
+* [Pull Request] [refactor: remove Personal module from default RPC modules](https://github.com/NethermindEth/nethermind/pull/11084) - 2026-04-09
+* [Pull Request] [fix: add bounds check before unsafe RLP length deserialization](https://github.com/NethermindEth/nethermind/pull/11088) - 2026-04-09
+* [Pull Request] [fix: prevent infinite loop in RLP CountItems on malformed data](https://github.com/NethermindEth/nethermind/pull/11089) - 2026-04-09
+* [Pull Request] [fix: add bounds on filter address and topic array sizes](https://github.com/NethermindEth/nethermind/pull/11087) - 2026-04-09
+* [Pull Request] [feat: add call count limit for trace_callMany](https://github.com/NethermindEth/nethermind/pull/11085) - 2026-04-09
+* [Pull Request] [fix: validate filter string length before re-parsing](https://github.com/NethermindEth/nethermind/pull/11086) - 2026-04-09
+* [Review] [Review on: Fix code-lint workflow: disk space, caching, and duplicate annotations](https://github.com/NethermindEth/nethermind/pull/11080#pullrequestreview-4083607557) - 2026-04-09
+* [Review] [Review on: style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079#pullrequestreview-4083065296) - 2026-04-09
+* [Review] [Review on: eth_estimateGas fix error decoding](https://github.com/NethermindEth/nethermind/pull/11077#pullrequestreview-4081314049) - 2026-04-09
+* [Commit] [fix: resolve tx type based on target block fork in eth_call (#11074)](https://github.com/NethermindEth/nethermind/commit/6cac8cfea9667f8df3bc6566cd0835614399b397) - 2026-04-09
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 ## Q1 2026
 
 

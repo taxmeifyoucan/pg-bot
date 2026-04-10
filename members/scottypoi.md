@@ -8,6 +8,11 @@ Team: EthereumJS
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
+* [Commit] [vm: Consume BAL function (#4264)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/b3ea7a42566feef0f9c7aaff359fbc6d1caa4347) - 2026-04-09
 ## Q1 2026
 
 

@@ -13,6 +13,10 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: core, eth/protocols/snap: Snap/2 Protocol + BAL Serving](https://github.com/ethereum/go-ethereum/pull/34083#pullrequestreview-4058178276) - 2026-04-04
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8189: Use RLP empty str placeholder, add bytes parameter to GetBlockAccessLists](https://github.com/ethereum/EIPs/pull/11498) - 2026-04-09
+* [Commit] [Update EIP-8189: Use RLP empty str placeholder, add bytes parameter to GetBlockAccessLists](https://github.com/ethereum/EIPs/commit/3c8f89d1d24ed8b8fa5c47648d220e99b1ea0bbf) - 2026-04-09
 ## Q1 2026
 
 

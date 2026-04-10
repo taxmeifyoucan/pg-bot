@@ -15,6 +15,12 @@ Team: Reth
 * [Review] [Review on: refactor(rocksdb): use secondary instances for read only providers](https://github.com/paradigmxyz/reth/pull/23346#pullrequestreview-4056511844) - 2026-04-03
 * [Pull Request] [chore(cli): add binary name and chain detection in tempo download log](https://github.com/paradigmxyz/reth/pull/23356) - 2026-04-03
 * [Pull Request] [feat(prune): allow headers to be pruned](https://github.com/paradigmxyz/reth/pull/23382) - 2026-04-07
+* [Review] [Review on: fix(cli): use recent speed instead of all-time average for download ETA](https://github.com/paradigmxyz/reth/pull/23425#pullrequestreview-4084080799) - 2026-04-09
+* [Review] [Review on: fix(download): show error on retry and reset counter on progress](https://github.com/paradigmxyz/reth/pull/23426#pullrequestreview-4084140846) - 2026-04-09
+* [Pull Request] [[autoopt] 20260410-1-deferred-overlay-reuse](https://github.com/paradigmxyz/reth/pull/23430) - 2026-04-10
+* [Pull Request] [[autoopt] 20260409-1-storage-cache-fixed-key](https://github.com/paradigmxyz/reth/pull/23429) - 2026-04-09
+* [Pull Request] [donotmerge: df -h before cache restore](https://github.com/paradigmxyz/reth/pull/23427) - 2026-04-09
+* [Pull Request] [chore(cli): validate Content-Range responses in reth download](https://github.com/paradigmxyz/reth/pull/23428) - 2026-04-09
 ## Q1 2026
 
 

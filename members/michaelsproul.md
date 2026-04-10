@@ -21,6 +21,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Re-issue `ForkchoiceUpdate` based on updated `StatePayloadStatus`](https://github.com/sigp/lighthouse/pull/9102#pullrequestreview-4079057586) - 2026-04-09
 * [Review] [Review on: Gloas serve post block state for finalized/justified state requests](https://github.com/sigp/lighthouse/pull/9092#pullrequestreview-4073020447) - 2026-04-08
 * [Issue] [DevEx: fix `test_logger`](https://github.com/sigp/lighthouse/issues/9107) - 2026-04-08
+
+* [Review] [Review on: Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112#pullrequestreview-4080353061) - 2026-04-09
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 ## Q1 2026
 
 

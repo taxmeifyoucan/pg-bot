@@ -16,6 +16,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Issue] [`timestamp_now()` is defined in `validator_monitor` but used as a general-purpose utility](https://github.com/sigp/lighthouse/issues/9077) - 2026-04-01
 * [Review] [Review on: Cell Dissemination (Partial messages)](https://github.com/sigp/lighthouse/pull/8314#pullrequestreview-4041498296) - 2026-04-01
 * [Pull Request] [Add test for protocol registration completeness](https://github.com/sigp/lighthouse/pull/8920) - 2026-04-03
+* [Review] [Review on: Fix V29 weight leak on execution payload invalidation](https://github.com/sigp/lighthouse/pull/9089#pullrequestreview-4080539786) - 2026-04-09
+* [Review] [Review on: Ensure payload envelope streamer always serves canonical envelopes after the split slot](https://github.com/sigp/lighthouse/pull/9085#pullrequestreview-4079938960) - 2026-04-09
 ## Q1 2026
 
 

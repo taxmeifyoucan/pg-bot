@@ -38,10 +38,16 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: graphql: fix block.account and account.storage resolvers (#11662)](https://github.com/erigontech/erigon/pull/20389#pullrequestreview-4072963397) - 2026-04-08
 * [Review] [Review on: rpc: fix null result unmarshalling in CallContext](https://github.com/erigontech/erigon/pull/20393#pullrequestreview-4072956574) - 2026-04-08
 * [Commit] [graphql: fix block.account and account.storage resolvers (#11662) (#20389)](https://github.com/erigontech/erigon/commit/52547d342089bcd840e678e92f88d37d6bf440ef) - 2026-04-08
+* [Review] [Review on: qa-tests: fix RPC integration tests for other clients](https://github.com/erigontech/erigon/pull/20436#pullrequestreview-4081925524) - 2026-04-09
+* [Pull Request] [ fix trace_rawTransaction aligned to nethermind and Reth impl](https://github.com/erigontech/erigon/pull/20448) - 2026-04-09
+* [Pull Request] [rpc: WebSocket overload protection](https://github.com/erigontech/erigon/pull/20446) - 2026-04-09
+* [Pull Request] [QA: disable temporary  3 failed integration tests.](https://github.com/erigontech/erigon/pull/20433) - 2026-04-09
+* [Commit] [QA: disable temporary  3 failed integration tests. (#20433)](https://github.com/erigontech/erigon/commit/953be6abcfa52a75a91f2877061432f7a246626d) - 2026-04-09
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
 * [Commit] [integration  eth_simulateV1: with storage collision (#544)](https://github.com/erigontech/rpc-tests/commit/615d1181e846cb5aebf555f316c4dbf489e8979f) - 2026-04-03
+* [Pull Request] [integration tool: clear result after verify sync is done](https://github.com/erigontech/rpc-tests/pull/546) - 2026-04-09
 ## Q1 2026
 
 

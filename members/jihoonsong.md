@@ -19,6 +19,11 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Refactor EIP8025 proof engine and p2p interface](https://github.com/ethereum/consensus-specs/pull/5055#pullrequestreview-4066901763) - 2026-04-07
 * [Review] [Review on: In networking tests, yield values after mutating them](https://github.com/ethereum/consensus-specs/pull/5050#pullrequestreview-4066620904) - 2026-04-07
 
+* [Review] [Review on: Ensure builder is active in builder balance tests](https://github.com/ethereum/consensus-specs/pull/5087#pullrequestreview-4083884959) - 2026-04-09
+* [Review] [Review on: Add more `process_deposit_request` tests](https://github.com/ethereum/consensus-specs/pull/5086#pullrequestreview-4084513840) - 2026-04-09
+* [Pull Request] [Remove invalid KZG commitments count check](https://github.com/ethereum/consensus-specs/pull/5090) - 2026-04-09
+* [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4083639662) - 2026-04-09
+* [Commit] [Remove invalid KZG commitments count check (#5090)](https://github.com/ethereum/consensus-specs/commit/fb9b2a9027e92c7e061373e616c08cf8db0f6027) - 2026-04-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 ## Q1 2026

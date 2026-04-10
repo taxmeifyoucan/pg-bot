@@ -15,6 +15,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: execution/vm: optimize KZG point evaluation precompile (~24% faster)](https://github.com/erigontech/erigon/pull/20273#pullrequestreview-4045503641) - 2026-04-01
 
 * [Pull Request] [execution/state: drop ethconfig.Sync dependency from StateV3](https://github.com/erigontech/erigon/pull/20425) - 2026-04-08
+* [Review] [Review on: execution/state: drop ethconfig.Sync dependency from StateV3](https://github.com/erigontech/erigon/pull/20425#pullrequestreview-4079999505) - 2026-04-09
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Pull Request] [crypto: Use local accumulator t[] in mul_amm_256 to avoid aliasing](https://github.com/ipsilon/evmone/pull/1477) - 2026-04-02
 * [Issue] [Check clang's wrap behavior types](https://github.com/ipsilon/evmone/issues/1476) - 2026-04-02
@@ -49,6 +50,17 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [docs,build: Remove outdated mention of evm-test (#1497)](https://github.com/ipsilon/evmone/commit/88c0be3e8eb14120e457b3702bb48b30f3dd98a9) - 2026-04-07
 * [Commit] [evmone 0.20.0](https://github.com/ipsilon/evmone/commit/b95db0d09f9f46b6f471147612178787d4245219) - 2026-04-07
 
+* [Pull Request] [evmc: Remove redundant build configuration](https://github.com/ipsilon/evmone/pull/1505) - 2026-04-09
+* [Pull Request] [evmc: Remove loader library and old evmc tool](https://github.com/ipsilon/evmone/pull/1504) - 2026-04-09
+* [Pull Request] [tools: Remove external EVMC support in evmone-bench](https://github.com/ipsilon/evmone/pull/1503) - 2026-04-09
+* [Pull Request] [tools: Add evmone CLI tool](https://github.com/ipsilon/evmone/pull/1502) - 2026-04-09
+* [Pull Request] [build: Bump minimum CMake version to 3.22](https://github.com/ipsilon/evmone/pull/1501) - 2026-04-09
+* [Commit] [evmone 0.21.0](https://github.com/ipsilon/evmone/commit/35b7e1eecd25ec9564f7c010d9ed97062b020fe8) - 2026-04-09
+* [Commit] [evmc: Remove redundant build configuration (#1505)](https://github.com/ipsilon/evmone/commit/2db5be359c9143f8e188c37509ff76c0a44a8aa2) - 2026-04-09
+* [Commit] [evmc: Remove loader library and old evmc tool (#1504)](https://github.com/ipsilon/evmone/commit/89d31004e308d340f89d75857030eec8530f42e8) - 2026-04-09
+* [Commit] [tools: Remove external EVMC support in evmone-bench (#1503)](https://github.com/ipsilon/evmone/commit/d6f25392d2c932c305421de1b6a43e30eedba562) - 2026-04-09
+* [Commit] [tools: Add evmone CLI tool (#1502)](https://github.com/ipsilon/evmone/commit/3dd21f12bea608944a335f469f61ca4abd2740d8) - 2026-04-09
+* [Commit] [build: Bump minimum CMake version to 3.22 (#1501)](https://github.com/ipsilon/evmone/commit/b838d88f648d763c98cac4e8156c9c932aa19503) - 2026-04-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 ## Q1 2026

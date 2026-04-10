@@ -16,6 +16,10 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [feat(tests): Add more EIP-7928 test cases (#1903)](https://github.com/ethereum/execution-specs/commit/65f9b8f792f8af177640ca75ef8d75673e3a8bdd) - 2026-04-01
 * [Review] [Review on: fix(test-benchmark): account access subcall OOG issue](https://github.com/ethereum/execution-specs/pull/2614#pullrequestreview-4049185760) - 2026-04-02
 * [Commit] [feat(benchmarks): add runtime delegated EIP-7702 benchmarks (#2598)](https://github.com/ethereum/execution-specs/commit/553b2d72c67122a5fe581d0598e1c2c1fecb4abe) - 2026-04-03
+
+* [Review] [Review on: Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644#pullrequestreview-4083504048) - 2026-04-09
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4083109528) - 2026-04-09
 ## Q1 2026
 
 

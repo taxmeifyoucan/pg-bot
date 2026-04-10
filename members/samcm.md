@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Review] [Review on: consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805#pullrequestreview-4086653555) - 2026-04-10
 ## Q1 2026
 
 

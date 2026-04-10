@@ -27,6 +27,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: chore(test-client-clis): update `GAS_USED_OVERFLOW` exception mapper](https://github.com/ethereum/execution-specs/pull/2632#pullrequestreview-4067790285) - 2026-04-07
 * [Review] [Review on: feat(scripts): skip @manually-enhanced files in filler_to_python](https://github.com/ethereum/execution-specs/pull/2630#pullrequestreview-4067759823) - 2026-04-07
 * [Pull Request] [experiments(test-fill): add local t8n cache with SQLite + pickle + zlib](https://github.com/ethereum/execution-specs/pull/2636) - 2026-04-08
+* [Pull Request] [feat(tests): add nested CREATE state gas and access list gas tests](https://github.com/ethereum/execution-specs/pull/2639) - 2026-04-09
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

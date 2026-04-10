@@ -13,6 +13,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] [consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805) - 2026-04-08
+* [Review] [Review on: feat(local): add docker container log collection to ch](https://github.com/ethpandaops/xatu/pull/806#pullrequestreview-4080346244) - 2026-04-09
 ## Q1 2026
 
 

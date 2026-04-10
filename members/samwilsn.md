@@ -21,6 +21,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec): Abstract py-ecc implementation detail from EIP-2537](https://github.com/ethereum/execution-specs/pull/2384#pullrequestreview-4078371779) - 2026-04-08
 * [Pull Request] [chore(tooling,deps): update mypy to 1.20](https://github.com/ethereum/execution-specs/pull/2633) - 2026-04-08
 * [Commit] [chore(tooling,deps): update mypy to 1.20 (#2633)](https://github.com/ethereum/execution-specs/commit/cc21e8914862a03010976d81425fce1a9b300e31) - 2026-04-08
+* [Review] [Review on: feat(ci,tooling): add vulture dead code detection to just & ci](https://github.com/ethereum/execution-specs/pull/2621#pullrequestreview-4083947198) - 2026-04-09
 ## Q1 2026
 
 

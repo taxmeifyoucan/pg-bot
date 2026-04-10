@@ -22,6 +22,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Add SHL, SHR and SAR shift operations for EVM v2 (#10154)](https://github.com/besu-eth/besu/commit/4007a7e457686f76ed4556783aa791482eaac88f) - 2026-04-07
 * [Review] [Review on: Add missing verification metadata](https://github.com/besu-eth/besu/pull/10198#pullrequestreview-4073855841) - 2026-04-08
 * [Review] [Review on: Optimize performance and reduce memory when creating Quantity from scalar](https://github.com/besu-eth/besu/pull/10134#pullrequestreview-4075264757) - 2026-04-08
+* [Review] [Review on: Add MULMOD to EVMv2](https://github.com/besu-eth/besu/pull/10168#pullrequestreview-4080993285) - 2026-04-09
 ## Q1 2026
 
 

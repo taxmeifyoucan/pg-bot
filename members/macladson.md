@@ -16,6 +16,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Refactor `timestamp_now`](https://github.com/sigp/lighthouse/pull/9094) - 2026-04-05
 * [Review] [Review on: Add HTTP API spec test to Lighthouse](https://github.com/sigp/lighthouse/pull/8904#pullrequestreview-4075398861) - 2026-04-08
 * [Review] [Review on: Shorter info log](https://github.com/sigp/lighthouse/pull/9108#pullrequestreview-4076003695) - 2026-04-08
+* [Pull Request] [Add method to `Hash256` to display shortened hashes](https://github.com/sigp/lighthouse/pull/9118) - 2026-04-09
+* [Review] [Review on: Add method to `Hash256` to display shortened hashes](https://github.com/sigp/lighthouse/pull/9118#pullrequestreview-4082416038) - 2026-04-09
+* [Review] [Review on: Bump `warp` and begin `axum` migration](https://github.com/sigp/lighthouse/pull/9001#pullrequestreview-4083193943) - 2026-04-09
+* [Review] [Review on: Truncated `Display` impl for `ExecutionBlockHash`](https://github.com/sigp/lighthouse/pull/9108#pullrequestreview-4081787306) - 2026-04-09
 ## Q1 2026
 
 

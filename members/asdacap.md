@@ -43,6 +43,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor: extract FullPruner init into overridable IFullPrunerFactory](https://github.com/NethermindEth/nethermind/pull/11066#pullrequestreview-4073659085) - 2026-04-08
 * [Commit] [feat(flat-state): remove read node dictionaries from SnapshotBundle (#10993)](https://github.com/NethermindEth/nethermind/commit/799914f290eb9655fc6bf6f2f66ddae148e89d49) - 2026-04-08
 * [Commit] [refactor: extract FullPruner init into overridable IFullPrunerFactory (#11066)](https://github.com/NethermindEth/nethermind/commit/438c4fc5dae620054a49eba1c9e0622667ad8f93) - 2026-04-08
+* [Review] [Review on: refactor: extract trie visitor orchestration from PatriciaTree](https://github.com/NethermindEth/nethermind/pull/11068#pullrequestreview-4079937882) - 2026-04-09
+* [Review] [Review on: refactor: remove Personal module from default RPC modules](https://github.com/NethermindEth/nethermind/pull/11084#pullrequestreview-4086118402) - 2026-04-09
+* [Review] [Review on: test: Simplify testing workflows](https://github.com/NethermindEth/nethermind/pull/11075#pullrequestreview-4080409387) - 2026-04-09
+* [Pull Request] [style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079) - 2026-04-09
+* [Review] [Review on: style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079#pullrequestreview-4082779327) - 2026-04-09
 ## Q1 2026
 
 

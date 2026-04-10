@@ -24,6 +24,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: resolve tx type based on target block fork in eth_call](https://github.com/NethermindEth/nethermind/pull/11074#pullrequestreview-4077586253) - 2026-04-08
 * [Review] [Review on: chore: Remove OP diff workflow](https://github.com/NethermindEth/nethermind/pull/11071#pullrequestreview-4076139148) - 2026-04-08
 * [Review] [Review on: feat(flat-state): remove read node dictionaries from SnapshotBundle](https://github.com/NethermindEth/nethermind/pull/10993#pullrequestreview-4072922781) - 2026-04-08
+* [Review] [Review on: Add L1STATICCALL precompile and witness RPC](https://github.com/NethermindEth/nethermind/pull/11017#pullrequestreview-4080956191) - 2026-04-09
 ## Q1 2026
 
 

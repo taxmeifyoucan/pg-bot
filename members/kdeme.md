@@ -27,6 +27,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: FIx:minor fixes to receipt rpc endpoints serialization compatibility](https://github.com/status-im/nimbus-eth1/pull/4092#pullrequestreview-4074116535) - 2026-04-08
 * [Commit] [Replace block proof GINDEX constants with get_generalized_index (#4105)](https://github.com/status-im/nimbus-eth1/commit/79d7473f783690a30e2902c1a331eabfdb57580f) - 2026-04-08
 
+* [Pull Request] [Add blockTimestamp field to tx object in json-rpc methods](https://github.com/status-im/nimbus-eth1/pull/4111) - 2026-04-09
+* [Pull Request] [Replace historical roots GINDEX constant with get_generalized_index](https://github.com/status-im/nimbus-eth1/pull/4108) - 2026-04-09
+* [Pull Request] [Bump nimbus-eth2 + reuse HISTORICAL_SUMMARIES_GINDEX_ELECTRA](https://github.com/status-im/nimbus-eth1/pull/4107) - 2026-04-09
+* [Review] [Review on: eest: add standalone CLI runners for statetest, blocktest, and enginetest](https://github.com/status-im/nimbus-eth1/pull/4101#pullrequestreview-4080881078) - 2026-04-09
+* [Issue] [Implement Execution api method eth_getStorageValues](https://github.com/status-im/nimbus-eth1/issues/4110) - 2026-04-09
+* [Issue] [eraE / Portal: Add / implement new block proof for >= gloas](https://github.com/status-im/nimbus-eth1/issues/4109) - 2026-04-09
+* [Commit] [Add blockTimestamp field to tx object in json-rpc methods (#4111)](https://github.com/status-im/nimbus-eth1/commit/c16e4b86983957fddb5d3daacb7bc7dd2a37dead) - 2026-04-09
+* [Commit] [Replace historical roots GINDEX constant with get_generalized_index (#4108)](https://github.com/status-im/nimbus-eth1/commit/261be1a982e49aee24ff8a8446bcd06f414a7846) - 2026-04-09
+* [Commit] [Bump nimbus-eth2 + reuse HISTORICAL_SUMMARIES_GINDEX_ELECTRA (#4107)](https://github.com/status-im/nimbus-eth1/commit/123dc1df5a86ac3b4f98baa56133682f7e20eecb) - 2026-04-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 ## Q1 2026

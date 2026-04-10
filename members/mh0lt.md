@@ -28,6 +28,12 @@ Team: Erigon
 * [Commit] [Add caplin support for assertor minimal presets (#20190)](https://github.com/erigontech/erigon/commit/e3cd3ffcaf9a5d4f45e5c6c9c49ef6dcea3cadbf) - 2026-04-08
 * [Commit] [stagedsync, state: parallel executor fixes from bal-devnet-3 (#20386)](https://github.com/erigontech/erigon/commit/4c16b8f115b7a2be4559a8f536f262826b0acb90) - 2026-04-08
 * [Commit] [cmd, ethconfig: consolidate flag reading and remove global statecfg side effects (#20390)](https://github.com/erigontech/erigon/commit/dd05cc3d53326b452cf112e8fa2f5bca7dd81936) - 2026-04-08
+* [Pull Request] [snapshots: align state files to block file boundary on startup](https://github.com/erigontech/erigon/pull/20434) - 2026-04-09
+* [Pull Request] [node/app: add component framework](https://github.com/erigontech/erigon/pull/20450) - 2026-04-09
+* [Pull Request] [cl: replace Clique dev mode with embedded PoS consensus](https://github.com/erigontech/erigon/pull/20451) - 2026-04-09
+* [Review] [Review on: execution: fix BAL validation in parallel executor + add Glamsterdam assertoor CI](https://github.com/erigontech/erigon/pull/20252#pullrequestreview-4084542970) - 2026-04-09
+* [Pull Request] [ethconfig: consolidate flag reading into BuildEthConfig entry point](https://github.com/erigontech/erigon/pull/20449) - 2026-04-09
+* [Issue] [exec: partial block at snapshot boundary passes incomplete receipts to Finalize](https://github.com/erigontech/erigon/issues/20452) - 2026-04-09
 ## Q1 2026
 
 

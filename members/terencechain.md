@@ -42,6 +42,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add Gloas engine API method versions for devnet (#16642)](https://github.com/OffchainLabs/prysm/commit/cf09469ac9dcb76467380480ebe94807009118ff) - 2026-04-08
 * [Commit] [Construct data column sidecars from bid in Gloas blocks (#16638)](https://github.com/OffchainLabs/prysm/commit/10cd6757930e0011bcaf1e23f4f6a5e1be604383) - 2026-04-08
 * [Commit] [Fix initial sync envelope validation for genesis blocks (#16637)](https://github.com/OffchainLabs/prysm/commit/f01575e44c11c10e3a8e90ae6d96e34164a955b9) - 2026-04-08
+* [Pull Request] [Use fork-aware deserialization for data columns from disk](https://github.com/OffchainLabs/prysm/pull/16650) - 2026-04-09
+* [Pull Request] [Set bid KZG commitments on gloas's data columns](https://github.com/OffchainLabs/prysm/pull/16649) - 2026-04-09
+* [Pull Request] [Decode Gloas data columns using correct protobuf type over RPC](https://github.com/OffchainLabs/prysm/pull/16648) - 2026-04-09
+* [Pull Request] [Skip inclusion proof verification for Gloas data columns](https://github.com/OffchainLabs/prysm/pull/16647) - 2026-04-09
+* [Pull Request] [Add missing fields to Gloas genesis block bid](https://github.com/OffchainLabs/prysm/pull/16646) - 2026-04-09
 ## Q1 2026
 
 

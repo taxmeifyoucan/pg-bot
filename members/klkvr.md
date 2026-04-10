@@ -26,6 +26,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [refactor: support modifying `next_available_nonce_for`](https://github.com/paradigmxyz/reth/pull/23409) - 2026-04-08
 * [Pull Request] [fix: properly validate authorities in the pool](https://github.com/paradigmxyz/reth/pull/23406) - 2026-04-08
 * [Review] [Review on: fix(reth-bb): use noop consensus](https://github.com/paradigmxyz/reth/pull/23399#pullrequestreview-4076439601) - 2026-04-08
+* [Commit] [fix: properly validate authorities in the pool (#23406)](https://github.com/paradigmxyz/reth/commit/ac3120703ac4c4eec62a9b9b878c2e7a03b5d46a) - 2026-04-09
+* [Commit] [refactor: support modifying `next_available_nonce_for` (#23409)](https://github.com/paradigmxyz/reth/commit/3d5057b97ad2078f02679c0882f3264e47fccba0) - 2026-04-09
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 ## Q1 2026

@@ -8,6 +8,21 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 
 ## Contributions
 
+## Q2 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Commit] [Language edits](https://github.com/protocolguild/documentation/commit/a6e822ee5ead96a886068ebf7e282ee61509b44e) - 2026-04-09
+* [Commit] [Add L2 1-yr vesting contracts](https://github.com/protocolguild/documentation/commit/7a750208783910c280bef694e94e9eb2f418e94c) - 2026-04-09
+* [Commit] [Add L2 1-yr vests and general changes](https://github.com/protocolguild/documentation/commit/9925e45e323b1ce8d58f2f90c7cad3c6f2df61b2) - 2026-04-09
+* [Commit] [Add L2 1-yr vests](https://github.com/protocolguild/documentation/commit/425159ebf4f110e20781456475d56725f341f8be) - 2026-04-09
+* [Commit] [Merge pull request #483 from Demuirgos/patch-5](https://github.com/protocolguild/documentation/commit/2cf1c46cb6bfd838d2276d6485aac017fbaacc4f) - 2026-04-09
+* [Commit] [Reduce count](https://github.com/protocolguild/documentation/commit/0bea1b71061189241b122955c2df295abecd4c90) - 2026-04-09
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/01ba1ecac1685d61629e8f5073248d3ee0f51470) - 2026-04-09
+* [Commit] [Merge pull request #482 from yperbasis/rm_shoham](https://github.com/protocolguild/documentation/commit/a1a5431a72e48e806c5ac1688a2b153ff7076318) - 2026-04-09
+* [Commit] [Merge branch 'main' into rm_shoham](https://github.com/protocolguild/documentation/commit/9fe41b4298f704767e6d5b574c69a889aa3e0274) - 2026-04-09
+* [Commit] [Merge pull request #478 from somnergy/patch-1](https://github.com/protocolguild/documentation/commit/60ffb8f5b0eec0d58d438299ca2f180940d2134b) - 2026-04-09
+* [Commit] [Merge pull request #477 from pk910/propose-qu0b](https://github.com/protocolguild/documentation/commit/91064d0e9e0b07e9a8274074ac61605b379d9b73) - 2026-04-09
 ## Q1 2026
 
 

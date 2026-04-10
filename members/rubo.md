@@ -26,6 +26,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [chore: Remove OP diff workflow](https://github.com/NethermindEth/nethermind/pull/11071) - 2026-04-08
 * [Commit] [feat(zkevm): Refactor stateless executor (#10629)](https://github.com/NethermindEth/nethermind/commit/ea169ffdcd3a75768ddee817a1ae6a43d4ba6363) - 2026-04-08
 * [Commit] [chore: Remove OP diff workflow (#11071)](https://github.com/NethermindEth/nethermind/commit/535b0cc4edae3c4ed471cac85943b032d2d2f0b0) - 2026-04-08
+* [Commit] [test: Simplify testing workflows (#11075)](https://github.com/NethermindEth/nethermind/commit/68d50582479ca4033e5f4bcaa811a16444e93090) - 2026-04-09
 ## Q1 2026
 
 

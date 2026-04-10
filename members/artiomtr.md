@@ -8,6 +8,11 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 
 ## Contributions
 
+## Q2 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [Handle non-power-of-two length persistent vectors](https://github.com/grandinetech/grandine/pull/663) - 2026-04-09
 ## Q1 2026
 
 

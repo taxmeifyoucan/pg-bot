@@ -20,6 +20,11 @@ Team: Geth
 * [Pull Request] [core: post-Amsterdam, don't subtract tx gas limit from GasPool before starting execution](https://github.com/ethereum/go-ethereum/pull/34668) - 2026-04-06
 * [Review] [Review on: core: merge access events for all system calls](https://github.com/ethereum/go-ethereum/pull/34637#pullrequestreview-4070791721) - 2026-04-07
 * [Review] [Review on: core/state: touch BAL on statedb cache](https://github.com/ethereum/go-ethereum/pull/34684#pullrequestreview-4076947565) - 2026-04-08
+
+* [Review] [Review on: cmd/evm: add enginetest command for direct engine fixture execution](https://github.com/ethereum/go-ethereum/pull/34650#pullrequestreview-4084400884) - 2026-04-09
+* [Review] [Review on: core: turn gas into a vector <regularGas, stateGas>](https://github.com/ethereum/go-ethereum/pull/34691#pullrequestreview-4082741868) - 2026-04-09
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026
 
 

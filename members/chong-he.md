@@ -18,6 +18,11 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Bump `warp` and begin `axum` migration](https://github.com/sigp/lighthouse/pull/9001#pullrequestreview-4073966242) - 2026-04-08
 * [Pull Request] [Shorter info log](https://github.com/sigp/lighthouse/pull/9108) - 2026-04-08
 * [Review] [Review on: Shorter info log](https://github.com/sigp/lighthouse/pull/9108#pullrequestreview-4072583802) - 2026-04-08
+* [Review] [Review on: Add method to `Hash256` to display shortened hashes](https://github.com/sigp/lighthouse/pull/9118#pullrequestreview-4086454476) - 2026-04-10
+* [Review] [Review on: Truncated `Display` impl for `ExecutionBlockHash`](https://github.com/sigp/lighthouse/pull/9108#pullrequestreview-4080978403) - 2026-04-09
+* [Review] [Review on: Fix graffiti calculator test mock commit fallback](https://github.com/sigp/lighthouse/pull/9087#pullrequestreview-4079393745) - 2026-04-09
+* [Review] [Review on: Reduce slow test runtimes to under 60s](https://github.com/sigp/lighthouse/pull/9012#pullrequestreview-4079815667) - 2026-04-09
+* [Review] [Review on: Fix total_effective_balance=0 in `PreEpochCache`](https://github.com/sigp/lighthouse/pull/9106#pullrequestreview-4079591425) - 2026-04-09
 ## Q1 2026
 
 

@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 
 ## Contributions
 
+## Q2 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: Refactor sync-supported-chains workflow and add sync smoke test CI check](https://github.com/NethermindEth/nethermind/pull/10898#pullrequestreview-4083205502) - 2026-04-09
 ## Q1 2026
 
 

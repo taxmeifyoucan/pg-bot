@@ -17,6 +17,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 * [Review] [Review on: fix: Replace logger resolution with explicit type-based loggers](https://github.com/NethermindEth/nethermind/pull/11019#pullrequestreview-4048648355) - 2026-04-02
 * [Review] [Review on: Lower Ethash cache level logs - no need to spam them for history blocks](https://github.com/NethermindEth/nethermind/pull/11061#pullrequestreview-4068905050) - 2026-04-07
+* [Review] [Review on: Fix code-lint workflow: disk space, caching, and duplicate annotations](https://github.com/NethermindEth/nethermind/pull/11080#pullrequestreview-4085264827) - 2026-04-09
+* [Commit] [Refactor sync-supported-chains workflow and add sync smoke test CI check (#10898)](https://github.com/NethermindEth/nethermind/commit/793d1ece9cf808b7a5871a65f900d451b9455a6b) - 2026-04-09
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

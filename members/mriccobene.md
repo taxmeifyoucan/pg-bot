@@ -18,6 +18,9 @@ Team: Erigon
 * [Pull Request] [qa-tests: add migrations to rpc performance test](https://github.com/erigontech/erigon/pull/20282) - 2026-04-02
 
 * [Review] [Review on: ci: skip TestExecutionSpecBlockchainDevnet on macOS (too slow)](https://github.com/erigontech/erigon/pull/20422#pullrequestreview-4075828742) - 2026-04-08
+* [Pull Request] [qa-tests: fix RPC integration tests for other clients](https://github.com/erigontech/erigon/pull/20436) - 2026-04-09
+* [Review] [Review on: QA: disable temporary  3 failed integration tests.](https://github.com/erigontech/erigon/pull/20433#pullrequestreview-4081105814) - 2026-04-09
+* [Commit] [qa-tests: fix RPC integration tests for other clients (#20436)](https://github.com/erigontech/erigon/commit/6a4da09bd8b62b12c56ee1fe5a8f428669edf39f) - 2026-04-09
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 ## Q1 2026

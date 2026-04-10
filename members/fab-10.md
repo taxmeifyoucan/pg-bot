@@ -26,6 +26,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Add missing verification metadata](https://github.com/besu-eth/besu/pull/10198) - 2026-04-08
 * [Commit] [Optimize performance and reduce memory when creating Quantity from scalar (#10134)](https://github.com/besu-eth/besu/commit/a8dce172dc21c6d793337d2a8b7b759806fde604) - 2026-04-08
 * [Commit] [Add missing verification metadata (#10198)](https://github.com/besu-eth/besu/commit/5a7d94931febe6bc948eb105950d9deb8b3caa46) - 2026-04-08
+* [Review] [Review on: Fix engine_getPayloadV1 to return -38001 instead of -32001 for unknow…](https://github.com/besu-eth/besu/pull/10179#pullrequestreview-4081465358) - 2026-04-09
+* [Review] [Review on: feat(plugins): reimplement liveness and readiness checks as plugins (#7704)](https://github.com/besu-eth/besu/pull/10167#pullrequestreview-4082452583) - 2026-04-09
+* [Commit] [Remove dryRunDetector workaround methods from unit tests (#10201)](https://github.com/besu-eth/besu/commit/e7bda9e6c70dc679266ac058d32996c4aa5fc562) - 2026-04-09
 ## Q1 2026
 
 

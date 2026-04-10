@@ -13,6 +13,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Fix flaky SnapServerTest.assertAccountLimitRangeResponse](https://github.com/besu-eth/besu/pull/10189#pullrequestreview-4063517133) - 2026-04-06
+* [Pull Request] [Feature add block import trace to eth simulate](https://github.com/besu-eth/besu/pull/10211) - 2026-04-10
+* [Pull Request] [Feature/preimage store rebased](https://github.com/besu-eth/besu/pull/10208) - 2026-04-09
+* [Review] [Review on: Feature/preimage store rebased](https://github.com/besu-eth/besu/pull/10208#pullrequestreview-4083308572) - 2026-04-09
 ## Q1 2026
 
 

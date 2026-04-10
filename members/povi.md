@@ -16,6 +16,7 @@ Team: Grandine
 * [Review] [Review on: Cleanup random things](https://github.com/grandinetech/grandine/pull/660#pullrequestreview-4068185564) - 2026-04-07
 * [Review] [Review on: Cleanup Gloas block processing](https://github.com/grandinetech/grandine/pull/659#pullrequestreview-4068163039) - 2026-04-07
 * [Review] [Review on: Reuse `process_registry_updates` and `epoch_report` from Electra](https://github.com/grandinetech/grandine/pull/658#pullrequestreview-4068069094) - 2026-04-07
+* [Review] [Review on: Validate payload envelope through processing](https://github.com/grandinetech/grandine/pull/662#pullrequestreview-4082392841) - 2026-04-09
 ## Q1 2026
 
 

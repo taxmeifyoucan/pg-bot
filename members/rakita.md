@@ -28,12 +28,25 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: fix: Remove unused gas-related functions](https://github.com/bluealloy/revm/pull/3534#pullrequestreview-4061279049) - 2026-04-06
 * [Review] [Review on: fix(context): use storage_by_account_id fast path in sload](https://github.com/bluealloy/revm/pull/3535#pullrequestreview-4061277330) - 2026-04-06
 * [Review] [Review on: refactor(precompile): restructure PrecompileOutput for state gas and reservoir support](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4066795284) - 2026-04-07
+* [Pull Request] [chore: v106 release prep](https://github.com/bluealloy/revm/pull/3554) - 2026-04-10
+* [Pull Request] [fix: reject transactions with nonce at u64::MAX](https://github.com/bluealloy/revm/pull/3553) - 2026-04-10
+* [Review] [Review on: fix: reject transactions with nonce at u64::MAX](https://github.com/bluealloy/revm/pull/3553#pullrequestreview-4086469310) - 2026-04-10
+* [Pull Request] [refactor: state gas cleanup and EIP-8037 validation consolidation](https://github.com/bluealloy/revm/pull/3552) - 2026-04-10
+* [Review] [Review on: feat: add EIP-8037 / TIP-1016 state gas support](https://github.com/bluealloy/revm/pull/3406#pullrequestreview-4084196462) - 2026-04-09
+* [Pull Request] [refactor: deprecate set_spec and clean up deprecation attrs](https://github.com/bluealloy/revm/pull/3550) - 2026-04-09
+* [Commit] [chore: v106 release prep (#3554)](https://github.com/bluealloy/revm/commit/31bee691659382520449de95a03ecd69abf71825) - 2026-04-10
+* [Commit] [fix: reject transactions with nonce at u64::MAX (#3553)](https://github.com/bluealloy/revm/commit/7ea6dbffa1f17dc6b15e9829e431d84f7557284b) - 2026-04-10
+* [Commit] [refactor: move EIP-8037 gas cap validation into validate_initial_tx_gas (#3552)](https://github.com/bluealloy/revm/commit/16a5e26829311639d853ca36b4df49a15635c003) - 2026-04-10
+* [Commit] [feat: add EIP-8037 / TIP-1016 state gas support (#3406)](https://github.com/bluealloy/revm/commit/f15846473f22914049d90362623457e2d418ebc7) - 2026-04-10
+* [Commit] [refactor: deprecate set_spec and clean up deprecation attrs (#3550)](https://github.com/bluealloy/revm/commit/d060498853a31a2ad6e8d4c15e1db9b12100d4e9) - 2026-04-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8175: CALL/CREATE capabilities, fee_auth, and new opcodes](https://github.com/ethereum/EIPs/pull/11490) - 2026-04-06
 * [Commit] [Update EIP-8175: CALL/CREATE capabilities, fee_auth, and new opcodes](https://github.com/ethereum/EIPs/commit/8bb55846b3d4f3fe4efc542a818b8c17a472074d) - 2026-04-06
+* [Pull Request] [Update EIP-8175: Add TX_GAS_LIMIT opcode](https://github.com/ethereum/EIPs/pull/11501) - 2026-04-09
+* [Commit] [Update EIP-8175: Add TX_GAS_LIMIT opcode](https://github.com/ethereum/EIPs/commit/089e0ab5272cdd411db548a5fce72eb3ee2dbca6) - 2026-04-09
 ## Q1 2026
 
 

@@ -30,6 +30,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Stream debug_traceBlock* responses directly to avoid OOM on large blocks](https://github.com/besu-eth/besu/pull/9848) - 2026-04-08
 * [Review] [Review on: Prefetch + cross block cache into bal devnet 3](https://github.com/besu-eth/besu/pull/10194#pullrequestreview-4074324148) - 2026-04-08
 * [Commit] [Stream debug_traceBlock* responses directly to avoid OOM on large blocks (#9848)](https://github.com/besu-eth/besu/commit/b2cbdeae018db7b6bf362b1bbf01a1d512e00d01) - 2026-04-08
+
+* [Review] [Review on: Enable execution processor on PoA networks with system contract addresses](https://github.com/besu-eth/besu/pull/10196#pullrequestreview-4083129954) - 2026-04-09
+* [Pull Request] [Merge latest main into bal-devnet-3](https://github.com/besu-eth/besu/pull/10207) - 2026-04-09
+* [Pull Request] [merge main into bal-devnet-3](https://github.com/besu-eth/besu/pull/10206) - 2026-04-09
+* [Pull Request] [Preserve state gas reservoir for the top level frame in case of OOG](https://github.com/besu-eth/besu/pull/10205) - 2026-04-09
+* [Commit] [Enable execution processor on PoA networks with system contract addresses (#10196)](https://github.com/besu-eth/besu/commit/067610071de5f6760050ef434f5549c9ab8fbacf) - 2026-04-09
+* [Commit] [preserve state gas reservoir for the top level frame in case of OOG (#10205)](https://github.com/besu-eth/besu/commit/c8382d2a3b0fcc040107418971ab659b3adbaa95) - 2026-04-09
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 ## Q1 2026
 
 

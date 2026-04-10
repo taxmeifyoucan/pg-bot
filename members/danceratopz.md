@@ -27,6 +27,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Enable definition of client exception mappers via "external" file](https://github.com/ethereum/execution-specs/issues/2631) - 2026-04-07
 * [Review] [Review on: feat(ci,tooling): add vulture dead code detection to just & ci](https://github.com/ethereum/execution-specs/pull/2621#pullrequestreview-4075457831) - 2026-04-08
 * [Review] [Review on: chore(tooling,deps): update mypy to 1.20](https://github.com/ethereum/execution-specs/pull/2633#pullrequestreview-4073271158) - 2026-04-08
+* [Pull Request] [feat(ci,docs): build and publish a combined HTML and spec doc artifact](https://github.com/ethereum/execution-specs/pull/2638) - 2026-04-09
 ## Q1 2026
 
 

@@ -24,6 +24,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [implement test fixture for Heze SSZ objects](https://github.com/status-im/nimbus-eth2/pull/8235) - 2026-04-08
 * [Review] [Review on: proposer preferences implementation](https://github.com/status-im/nimbus-eth2/pull/8231#pullrequestreview-4072542486) - 2026-04-08
 * [Review] [Review on: Replace verifying signer GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8228#pullrequestreview-4072491777) - 2026-04-08
+* [Pull Request] [implement Heze transition test fixture](https://github.com/status-im/nimbus-eth2/pull/8244) - 2026-04-09
+* [Pull Request] [implement Heze fork test fixture](https://github.com/status-im/nimbus-eth2/pull/8243) - 2026-04-09
+* [Pull Request] [test fulu block signing node support](https://github.com/status-im/nimbus-eth2/pull/8241) - 2026-04-09
+* [Pull Request] [implement Heze block sanity test fixture](https://github.com/status-im/nimbus-eth2/pull/8240) - 2026-04-09
+* [Pull Request] [implement Heze operations test fixture](https://github.com/status-im/nimbus-eth2/pull/8239) - 2026-04-09
+* [Pull Request] [implement Heze slot sanity test fixture](https://github.com/status-im/nimbus-eth2/pull/8238) - 2026-04-09
 ## Q1 2026
 
 

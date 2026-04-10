@@ -23,6 +23,12 @@ Team: Reth
 * [Review] [Review on: refactor(engine): use Mutex instead of RwLock in PayloadExecutionCache](https://github.com/paradigmxyz/reth/pull/23387#pullrequestreview-4074134335) - 2026-04-08
 * [Review] [Review on: fix: add --kill to all schelk recover calls](https://github.com/paradigmxyz/reth/pull/23384#pullrequestreview-4074517650) - 2026-04-08
 * [Commit] [chore: add reth 2.0 banner image (#23402)](https://github.com/paradigmxyz/reth/commit/5bfe2c8b13e8ed1f25bb9d091faa7adfb24c4ab4) - 2026-04-08
+* [Pull Request] [fix(cli): use recent speed instead of all-time average for download ETA](https://github.com/paradigmxyz/reth/pull/23425) - 2026-04-09
+* [Pull Request] [fix(download): show error on retry and reset counter on progress](https://github.com/paradigmxyz/reth/pull/23426) - 2026-04-09
+* [Review] [Review on: fix: add no-list in order to avoid prefix matching](https://github.com/paradigmxyz/reth/pull/23420#pullrequestreview-4082726098) - 2026-04-09
+* [Review] [Review on: chore(engine): rename to_multi_proof to to_sparse_trie_task in prewarm](https://github.com/paradigmxyz/reth/pull/23418#pullrequestreview-4082459768) - 2026-04-09
+* [Commit] [fix(cli): use recent speed instead of all-time average for download ETA (#23425)](https://github.com/paradigmxyz/reth/commit/cecbb4cc8c08b38f140c06fea4acce39b1a7496e) - 2026-04-10
+* [Commit] [fix(download): show error on retry and reset counter on progress (#23426)](https://github.com/paradigmxyz/reth/commit/0ed4739482f5e73d0cf5adfd09b727edf338e3ad) - 2026-04-10
 ## Q1 2026
 
 

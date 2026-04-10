@@ -52,6 +52,17 @@ Team: Reth
 * [Review] [Review on: perf(provider): avoid full receipt clone in tx-range query](https://github.com/paradigmxyz/reth/pull/23187#pullrequestreview-4073464407) - 2026-04-08
 * [Review] [Review on: perf(engine): reduce write lock hold time in save_cache](https://github.com/paradigmxyz/reth/pull/23350#pullrequestreview-4073446081) - 2026-04-08
 * [Review] [Review on: fix(rpc): guard gas_used_ratio against division by zero](https://github.com/paradigmxyz/reth/pull/23365#pullrequestreview-4073399290) - 2026-04-08
+* [Review] [Review on: chore: bump alloy to 2.0.0-rc.1](https://github.com/paradigmxyz/reth/pull/23407#pullrequestreview-4079752506) - 2026-04-09
+* [Review] [Review on: chore(deps): bump actions/deploy-pages from 4 to 5](https://github.com/paradigmxyz/reth/pull/23408#pullrequestreview-4081757840) - 2026-04-09
+* [Review] [Review on: perf(provider): avoid full receipt clone on tx-range reads](https://github.com/paradigmxyz/reth/pull/23293#pullrequestreview-4081763824) - 2026-04-09
+* [Review] [Review on: fix: properly validate authorities in the pool](https://github.com/paradigmxyz/reth/pull/23406#pullrequestreview-4081689245) - 2026-04-09
+* [Review] [Review on: chore(deps): bump tokio from 1.51.0 to 1.51.1 in the cargo-weekly group](https://github.com/paradigmxyz/reth/pull/23410#pullrequestreview-4081753637) - 2026-04-09
+* [Review] [Review on: Fix/engine reorg async task](https://github.com/paradigmxyz/reth/pull/23322#pullrequestreview-4081713132) - 2026-04-09
+* [Pull Request] [fix(pruning): avoid unused import warning in checkpoint](https://github.com/paradigmxyz/reth/pull/23412) - 2026-04-09
+* [Review] [Review on: feat: implement Bal Client for eth 71](https://github.com/paradigmxyz/reth/pull/22605#pullrequestreview-4080666244) - 2026-04-09
+* [Review] [Review on: refactor: support modifying `next_available_nonce_for`](https://github.com/paradigmxyz/reth/pull/23409#pullrequestreview-4079672771) - 2026-04-09
+* [Commit] [fix(pruning): avoid unused import warning in checkpoint (#23412)](https://github.com/paradigmxyz/reth/commit/c9866e2c8533c3005da29d566193e0e6ea1d0148) - 2026-04-09
+* [Commit] [perf(storage): use sort_unstable in safe paths (#23386)](https://github.com/paradigmxyz/reth/commit/91b8e1a8ae86b452940602b0dce700e59184f237) - 2026-04-09
 ## Q1 2026
 
 

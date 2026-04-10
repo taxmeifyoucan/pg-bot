@@ -16,6 +16,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Review] [Review on: consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805#pullrequestreview-4072535003) - 2026-04-08
+* [Pull Request] [feat(vector-logs.yaml): ch logs parse kt labels](https://github.com/ethpandaops/xatu/pull/807) - 2026-04-09
+* [Pull Request] [feat(local): add docker container log collection to ch](https://github.com/ethpandaops/xatu/pull/806) - 2026-04-09
+* [Commit] [Merge pull request #807 from ethpandaops/feat/parse-kt-logs-ch](https://github.com/ethpandaops/xatu/commit/ca9ed80824ea2cbcd21a9d74602d85d839c401a2) - 2026-04-09
+* [Commit] [feat(vector-logs.yaml): enhance logging transformation to differentiate between docker-compose and kurtosis environments](https://github.com/ethpandaops/xatu/commit/6b32654d8583d749f83d6fb610408af25a7d7efa) - 2026-04-09
+* [Commit] [Merge pull request #806 from ethpandaops/feat/ch-logs-local](https://github.com/ethpandaops/xatu/commit/182a44a07d9c6ecf6d596c98a4fb39ba9a78dc00) - 2026-04-09
+* [Commit] [feat(local): add docker container log collection to ch](https://github.com/ethpandaops/xatu/commit/40b95b73ea35ab8ccbd57085184c3d2aad8440a5) - 2026-04-09
 ## Q1 2026
 
 

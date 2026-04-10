@@ -27,6 +27,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Handle invalid blocks in hive runner (#11049)](https://github.com/NethermindEth/nethermind/commit/8e1bb69b079e86e3095006ea7ca38d6127093e14) - 2026-04-06
 * [Pull Request] [Don't count revert state](https://github.com/NethermindEth/nethermind/pull/11060) - 2026-04-07
 * [Commit] [Don't return state gas (#11031)](https://github.com/NethermindEth/nethermind/commit/c58978abc786098d711350f6f3a4e3bd354de882) - 2026-04-07
+* [Review] [Review on: feat(cache): Add AssociativeCache - lock-free set-associative cache with lower memory](https://github.com/NethermindEth/nethermind/pull/10991#pullrequestreview-4081240505) - 2026-04-09
+* [Review] [Review on: style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079#pullrequestreview-4082247069) - 2026-04-09
 ## Q1 2026
 
 

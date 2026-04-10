@@ -18,6 +18,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [Fix nil pointer panic in beacon event stream](https://github.com/ethpandaops/dora/pull/624) - 2026-04-01
 
+* [Review] [Review on: withdrawals tracking](https://github.com/ethpandaops/dora/pull/625#pullrequestreview-4082449345) - 2026-04-09
+* [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/dora/pull/630) - 2026-04-09
+* [Commit] [Merge pull request #630 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/dora/commit/566bd1f69cc90cd643d2307f23ab7b3fa2558c62) - 2026-04-09
+* [Commit] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/dora/commit/7a003b93831e5f0c7e62f5ad5392adfb53d407ad) - 2026-04-09
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -27,6 +31,25 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112) - 2026-04-08
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Add config/spec test generator for beacon API endpoint](https://github.com/ethereum/consensus-specs/pull/5089) - 2026-04-09
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Pull Request] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/pull/156) - 2026-04-09
+* [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/assertoor/pull/155) - 2026-04-09
+* [Review] [Review on: Bump the actions group with 4 updates](https://github.com/ethpandaops/assertoor/pull/153#pullrequestreview-4082148335) - 2026-04-09
+* [Commit] [Merge pull request #156 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/assertoor/commit/4321d7daaa60b58bcd6177fe1a76d77f3a82104e) - 2026-04-09
+* [Commit] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/commit/e2865bf185127d93ff01be502924861987b9cce9) - 2026-04-09
+* [Commit] [Merge pull request #155 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/assertoor/commit/abf9c34999b8b425d1e95839d4c9c989d2ae0476) - 2026-04-09
+* [Commit] [Replace deprecated actions/create-release and actions/upload-release-asset](https://github.com/ethpandaops/assertoor/commit/4d9066a60d566b6555b7a1ab4b515fc71c7c0d34) - 2026-04-09
+* [Commit] [Merge pull request #153 from ethpandaops/dependabot/github_actions/actions-e61ed12150](https://github.com/ethpandaops/assertoor/commit/1158a1b4d3b8631e9bddb7706f76e49d17104b52) - 2026-04-09
+* [Commit] [Merge pull request #148 from ethpandaops/bbusa/fix-seconds-per-slot-panic](https://github.com/ethpandaops/assertoor/commit/2e07843eb6c63a0d860db8f77fea99b2eea987ea) - 2026-04-09
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/lab/pull/432) - 2026-04-09
+* [Commit] [Merge pull request #432 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/lab/commit/c3be9674e52453b5788e377f0cbf8f508dd7073e) - 2026-04-09
+* [Commit] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/lab/commit/46f768b5b78a2ce5f45839ecdf808b297d0e29a9) - 2026-04-09
 ## Q1 2026
 
 

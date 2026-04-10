@@ -6,6 +6,11 @@ Github: [@weiihann](https://github.com/weiihann)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [trie/bintrie: use children array instead of left/right fields](https://github.com/ethereum/go-ethereum/pull/34689) - 2026-04-09
 ## Q1 2026
 
 
