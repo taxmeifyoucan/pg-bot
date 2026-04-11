@@ -20,6 +20,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests-execute): `EOA` pkey support for stub account](https://github.com/ethereum/execution-specs/pull/2624#pullrequestreview-4070513109) - 2026-04-07
 * [Pull Request] [feat(test-plugins-forks): Introduce `pytest.mark.valid_before`](https://github.com/ethereum/execution-specs/pull/2647) - 2026-04-09
 * [Issue] [Support SSZ in the Engine API](https://github.com/ethereum/execution-specs/issues/2645) - 2026-04-09
+* [Pull Request] [fix(tests-eip-8024): Fix cross-eip failures (EIP-8037)](https://github.com/ethereum/execution-specs/pull/2656) - 2026-04-10
+* [Pull Request] [fix(github): Fix just setup](https://github.com/ethereum/execution-specs/pull/2655) - 2026-04-10
+* [Review] [Review on: refactor(tests): Enhance heavy ported tests](https://github.com/ethereum/execution-specs/pull/2623#pullrequestreview-4091504343) - 2026-04-10
+* [Commit] [fix(github): Fix just setup (#2655)](https://github.com/ethereum/execution-specs/commit/a48e0b381d5225a6c3de2d06cd9ee7ae0b6ca9bb) - 2026-04-10
+* [Commit] [refactor(tests): Enhance heavy ported tests (#2623)](https://github.com/ethereum/execution-specs/commit/7f3ab5533851f96ceaa72af76655c25b5b9dad42) - 2026-04-10
+* [Commit] [feat(test-plugins-forks): Introduce `pytest.mark.valid_before` (#2647)](https://github.com/ethereum/execution-specs/commit/ddbc59075df621cd5c6bd76046af939c1e0578b6) - 2026-04-10
 ## Q1 2026
 
 

@@ -18,6 +18,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Add test for protocol registration completeness](https://github.com/sigp/lighthouse/pull/8920) - 2026-04-03
 * [Review] [Review on: Fix V29 weight leak on execution payload invalidation](https://github.com/sigp/lighthouse/pull/9089#pullrequestreview-4080539786) - 2026-04-09
 * [Review] [Review on: Ensure payload envelope streamer always serves canonical envelopes after the split slot](https://github.com/sigp/lighthouse/pull/9085#pullrequestreview-4079938960) - 2026-04-09
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026
 
 

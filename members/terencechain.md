@@ -47,6 +47,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Decode Gloas data columns using correct protobuf type over RPC](https://github.com/OffchainLabs/prysm/pull/16648) - 2026-04-09
 * [Pull Request] [Skip inclusion proof verification for Gloas data columns](https://github.com/OffchainLabs/prysm/pull/16647) - 2026-04-09
 * [Pull Request] [Add missing fields to Gloas genesis block bid](https://github.com/OffchainLabs/prysm/pull/16646) - 2026-04-09
+* [Pull Request] [Queue Gloas data column sidecars arriving before their block](https://github.com/OffchainLabs/prysm/pull/16653) - 2026-04-10
+* [Review] [Review on: Fix initial sync bid validation failure](https://github.com/OffchainLabs/prysm/pull/16652#pullrequestreview-4090421231) - 2026-04-10
+* [Commit] [Use fork-aware deserialization for data columns from disk (#16650)](https://github.com/OffchainLabs/prysm/commit/5bb13408d57139b9f9548371c49272737eaf77d7) - 2026-04-10
+* [Commit] [Set bid KZG commitments on gloas's data columns (#16649)](https://github.com/OffchainLabs/prysm/commit/527863e9deaa4dc682b813ea09a34bc821cf6892) - 2026-04-10
+* [Commit] [Skip inclusion proof verification for Gloas data columns (#16647)](https://github.com/OffchainLabs/prysm/commit/de34b4dfae60e2e2072704d1ccdcca5fb84f2fc3) - 2026-04-10
+* [Commit] [Decode Gloas data columns using correct protobuf type over RPC (#16648)](https://github.com/OffchainLabs/prysm/commit/ccf61fb91bbc5aa82f7dfc0ff89ad9338ad98634) - 2026-04-10
+* [Commit] [Add missing fields to Gloas genesis block bid (#16646)](https://github.com/OffchainLabs/prysm/commit/e9fdeee7bba69545a294527a85c63b1bb31ec4ce) - 2026-04-10
 ## Q1 2026
 
 

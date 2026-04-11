@@ -22,6 +22,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/dora/pull/630) - 2026-04-09
 * [Commit] [Merge pull request #630 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/dora/commit/566bd1f69cc90cd643d2307f23ab7b3fa2558c62) - 2026-04-09
 * [Commit] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/dora/commit/7a003b93831e5f0c7e62f5ad5392adfb53d407ad) - 2026-04-09
+* [Pull Request] [Switch eth-das-guardian to ethpandaops fork for gloas support](https://github.com/ethpandaops/dora/pull/631) - 2026-04-10
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01

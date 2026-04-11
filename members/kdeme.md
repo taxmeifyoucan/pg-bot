@@ -36,6 +36,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add blockTimestamp field to tx object in json-rpc methods (#4111)](https://github.com/status-im/nimbus-eth1/commit/c16e4b86983957fddb5d3daacb7bc7dd2a37dead) - 2026-04-09
 * [Commit] [Replace historical roots GINDEX constant with get_generalized_index (#4108)](https://github.com/status-im/nimbus-eth1/commit/261be1a982e49aee24ff8a8446bcd06f414a7846) - 2026-04-09
 * [Commit] [Bump nimbus-eth2 + reuse HISTORICAL_SUMMARIES_GINDEX_ELECTRA (#4107)](https://github.com/status-im/nimbus-eth1/commit/123dc1df5a86ac3b4f98baa56133682f7e20eecb) - 2026-04-09
+* [Pull Request] [Stateless: Update zkevm_eest vectors to v0.3.3](https://github.com/status-im/nimbus-eth1/pull/4114) - 2026-04-10
+* [Review] [Review on: Feat:implement eth_feehistory and eth_maxPriorityFeePerGas ](https://github.com/status-im/nimbus-eth1/pull/4112#pullrequestreview-4088319126) - 2026-04-10
+* [Commit] [Stateless: Update zkevm_eest vectors to v0.3.3 (#4114)](https://github.com/status-im/nimbus-eth1/commit/e90b071bdc42777aa7f6a1ba22fa5a390edf0601) - 2026-04-10
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 ## Q1 2026

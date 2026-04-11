@@ -29,6 +29,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Fix engine_getPayloadV1 to return -38001 instead of -32001 for unknow…](https://github.com/besu-eth/besu/pull/10179#pullrequestreview-4081465358) - 2026-04-09
 * [Review] [Review on: feat(plugins): reimplement liveness and readiness checks as plugins (#7704)](https://github.com/besu-eth/besu/pull/10167#pullrequestreview-4082452583) - 2026-04-09
 * [Commit] [Remove dryRunDetector workaround methods from unit tests (#10201)](https://github.com/besu-eth/besu/commit/e7bda9e6c70dc679266ac058d32996c4aa5fc562) - 2026-04-09
+* [Pull Request] [Improve block proposal cancellation to (best effort) avoid concurrency issues](https://github.com/besu-eth/besu/pull/10219) - 2026-04-10
+* [Review] [Review on: CI check to make sure that all libraries have their source code verified](https://github.com/besu-eth/besu/pull/10217#pullrequestreview-4089481037) - 2026-04-10
 ## Q1 2026
 
 

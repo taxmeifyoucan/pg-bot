@@ -93,6 +93,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Glamsterdam assertoor with Caplin as CL](https://github.com/erigontech/erigon/issues/20439) - 2026-04-09
 * [Commit] [execution: fix BAL validation in parallel executor + add Glamsterdam assertoor CI (#20252)](https://github.com/erigontech/erigon/commit/081d7a784823e7a13b53ccb3c43e8f79ec5eb26b) - 2026-04-09
 * [Commit] [execution/execmodule: test EIP-7708 burn log when coinbase self-destructs (#20416)](https://github.com/erigontech/erigon/commit/4a7015a79adf0ef8694cb94d133353ea039493d9) - 2026-04-09
+* [Review] [Review on: exec: fix partial block receipt reconstruction (#20452)](https://github.com/erigontech/erigon/pull/20467#pullrequestreview-4089027903) - 2026-04-10
+* [Review] [Review on: deps: update fastkeccak](https://github.com/erigontech/erigon/pull/20395#pullrequestreview-4087137079) - 2026-04-10
+* [Issue] [Remove Clique](https://github.com/erigontech/erigon/issues/20465) - 2026-04-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

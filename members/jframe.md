@@ -19,6 +19,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [Bonsai to archive migration (#9997)](https://github.com/besu-eth/besu/commit/15082ba4c2a7158903d0001543c155ec5de07e90) - 2026-04-07
 * [Pull Request] [Bonsai archive hybrid](https://github.com/besu-eth/besu/pull/10192) - 2026-04-07
 * [Review] [Review on: feat: add transactionReceipts subscription support in eth_subscribe #…](https://github.com/besu-eth/besu/pull/10190#pullrequestreview-4079842408) - 2026-04-09
+* [Review] [Review on: feat: add transactionReceipts subscription support in eth_subscribe #…](https://github.com/besu-eth/besu/pull/10190#pullrequestreview-4087914192) - 2026-04-10
+* [Review] [Review on: Feat: [BESU-9984] Bonsai Archive: index infrastructure with seekForPrev fallback](https://github.com/besu-eth/besu/pull/10191#pullrequestreview-4086906133) - 2026-04-10
 ## Q1 2026
 
 

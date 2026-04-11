@@ -47,6 +47,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Remove repo input in tests action (#5091)](https://github.com/ethereum/consensus-specs/commit/1358067bbe81b49ae90ca592c2caace73b25c32c) - 2026-04-09
 * [Commit] [Ensure builder is active in builder balance tests (#5087)](https://github.com/ethereum/consensus-specs/commit/4700d606d46ea7eca23f5cabe8420984f1d5195b) - 2026-04-09
 
+* [Review] [Review on: Fix Gloas genesis anchor state](https://github.com/ethereum/consensus-specs/pull/5067#pullrequestreview-4090285551) - 2026-04-10
+* [Pull Request] [Remove epoch param from slot deadline functions](https://github.com/ethereum/consensus-specs/pull/5095) - 2026-04-10
+* [Commit] [Add more `process_deposit_request` tests (#5086)](https://github.com/ethereum/consensus-specs/commit/4d94b9e50e79d1fe796a1d8475a658bfa8ed792e) - 2026-04-10
+* [Commit] [Fix merge conflict mistake (#5092)](https://github.com/ethereum/consensus-specs/commit/bfbef99d7dce0c56a2032cc737fb63163425a3d9) - 2026-04-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 ## Q1 2026

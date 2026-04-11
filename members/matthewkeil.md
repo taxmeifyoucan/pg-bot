@@ -38,6 +38,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: ignore beacon block if parent payload unknown](https://github.com/ChainSafe/lodestar/pull/9178#pullrequestreview-4060717481) - 2026-04-06
 * [Review] [Review on: fix: queue beacon block awaiting parent payload envelope](https://github.com/ChainSafe/lodestar/pull/9179#pullrequestreview-4060755984) - 2026-04-06
 * [Review] [Review on: fix: validate MIN_EPOCHS for blob/data column by range/root requests](https://github.com/ChainSafe/lodestar/pull/9173#pullrequestreview-4060316329) - 2026-04-06
+* [Review] [Review on: feat: add endpoint to retrieve signed execution payload envelope](https://github.com/ChainSafe/lodestar/pull/9186#pullrequestreview-4091894363) - 2026-04-10
 ## Q1 2026
 
 

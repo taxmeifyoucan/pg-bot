@@ -29,6 +29,7 @@ Team: Reth
 * [Review] [Review on: chore(engine): rename to_multi_proof to to_sparse_trie_task in prewarm](https://github.com/paradigmxyz/reth/pull/23418#pullrequestreview-4082459768) - 2026-04-09
 * [Commit] [fix(cli): use recent speed instead of all-time average for download ETA (#23425)](https://github.com/paradigmxyz/reth/commit/cecbb4cc8c08b38f140c06fea4acce39b1a7496e) - 2026-04-10
 * [Commit] [fix(download): show error on retry and reset counter on progress (#23426)](https://github.com/paradigmxyz/reth/commit/0ed4739482f5e73d0cf5adfd09b727edf338e3ad) - 2026-04-10
+* [Review] [Review on: ci: bump MSRV job runner to depot-ubuntu-latest-8](https://github.com/paradigmxyz/reth/pull/23432#pullrequestreview-4087803926) - 2026-04-10
 ## Q1 2026
 
 

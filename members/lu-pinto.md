@@ -12,6 +12,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Add MULMOD to EVMv2](https://github.com/besu-eth/besu/pull/10168#pullrequestreview-4086077764) - 2026-04-09
+* [Pull Request] [Alternative design for shift opcodes](https://github.com/besu-eth/besu/pull/10216) - 2026-04-10
+* [Review] [Review on: Alternative design for shift opcodes](https://github.com/besu-eth/besu/pull/10216#pullrequestreview-4088834166) - 2026-04-10
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088219054) - 2026-04-10
 ## Q1 2026
 
 

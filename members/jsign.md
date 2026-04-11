@@ -26,6 +26,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 * [Pull Request] [Update to ere-guests@v0.8.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/273) - 2026-04-08
 * [Commit] [Update to ere-guests@v0.8.0 (#273)](https://github.com/eth-act/zkevm-benchmark-workload/commit/4f854c45bc74395da88d74b0ab165765517d2e00) - 2026-04-08
+* [Pull Request] [chore: improve docs and ci](https://github.com/eth-act/zkevm-benchmark-workload/pull/275) - 2026-04-11
+* [Pull Request] [witness-generator-cli: add --genesis support for custom network support](https://github.com/eth-act/zkevm-benchmark-workload/pull/274) - 2026-04-10
+* [Commit] [chore: improve docs and ci (#275)](https://github.com/eth-act/zkevm-benchmark-workload/commit/d7181aa47ac050a1a831327a3720cabde86cc49e) - 2026-04-11
+* [Commit] [witness-generator-cli: add --genesis support for custom network support (#274)](https://github.com/eth-act/zkevm-benchmark-workload/commit/150d92fa0692033da14b10885ff0dfe09fe0c36a) - 2026-04-10
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08

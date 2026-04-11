@@ -19,6 +19,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Extract forkchoice reorg and timeliness logic (1 of 7)](https://github.com/Consensys/teku/pull/10548) - 2026-04-09
 * [Review] [Review on: 10098 execution payload storage](https://github.com/Consensys/teku/pull/10541#pullrequestreview-4083560738) - 2026-04-09
 * [Review] [Review on: Add support for v1.7.0-alpha.4](https://github.com/Consensys/teku/pull/10544#pullrequestreview-4080768179) - 2026-04-09
+* [Review] [Review on: 10098 execution payload storage](https://github.com/Consensys/teku/pull/10541#pullrequestreview-4088676964) - 2026-04-10
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 ## Q1 2026
 
 

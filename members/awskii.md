@@ -39,6 +39,17 @@ Team: Erigon
 * [Commit] [commitment: nibbles consolidation (#20407)](https://github.com/erigontech/erigon/commit/6560778ff7c10bcc95058fbaca238e85acd6d97b) - 2026-04-09
 * [Commit] [commitment: eliminate CellGetter callback — hashRow + pure EncodeBranch (#20306)](https://github.com/erigontech/erigon/commit/9233287a414dee5741fea59b0857500f3549bc12) - 2026-04-09
 * [Commit] [commitment: remove TxNum() from PatriciaContext interface (#20308)](https://github.com/erigontech/erigon/commit/b9ef4daeae76f810908744d850dd0d0ba77d9299) - 2026-04-09
+* [Pull Request] [db/state: fix stale slot resurrection after unwind and deletion](https://github.com/erigontech/erigon/pull/20483) - 2026-04-10
+* [Review] [Review on: db/state: fix stale slot resurrection after unwind and deletion](https://github.com/erigontech/erigon/pull/20483#pullrequestreview-4090819215) - 2026-04-10
+* [Pull Request] [db/state: use --experimental.concurrent-commitment flag for rebuild](https://github.com/erigontech/erigon/pull/20481) - 2026-04-10
+* [Review] [Review on: logger: avoid mutex contention](https://github.com/erigontech/erigon/pull/20454#pullrequestreview-4090131067) - 2026-04-10
+* [Review] [Review on: attempt to drop `oldPrune` method](https://github.com/erigontech/erigon/pull/20469#pullrequestreview-4090202250) - 2026-04-10
+* [Review] [Review on: log: less allocs](https://github.com/erigontech/erigon/pull/20455#pullrequestreview-4089952523) - 2026-04-10
+* [Review] [Review on: [r3.4] log: less allocs](https://github.com/erigontech/erigon/pull/20456#pullrequestreview-4089938018) - 2026-04-10
+* [Review] [Review on: up `x` deps](https://github.com/erigontech/erigon/pull/20457#pullrequestreview-4089933904) - 2026-04-10
+* [Issue] [Commitment Experiments](https://github.com/erigontech/erigon/issues/20477) - 2026-04-10
+* [Issue] [Commitment improvements](https://github.com/erigontech/erigon/issues/20475) - 2026-04-10
+* [Commit] [db/state: use --experimental.concurrent-commitment flag for rebuild (#20481)](https://github.com/erigontech/erigon/commit/da2ab7d89307b8e821b8f06299c2cddf72075bd6) - 2026-04-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

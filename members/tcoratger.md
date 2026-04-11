@@ -48,6 +48,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [perf(whir): straightline accumulator computation for l=1,2,3 (#1537)](https://github.com/Plonky3/Plonky3/commit/090b134a7e4f73191dad8849c410fcc38967a814) - 2026-04-08
 * [Commit] [refactor(matrix): move column-appending helpers to `DenseMatrix` methods (#1533)](https://github.com/Plonky3/Plonky3/commit/baf1fa4a6c5c2827d49ff174ecc8ed0a6f38425c) - 2026-04-08
 * [Pull Request] [refactor(interpolation): replace free functions with Interpolate extension trait](https://github.com/Plonky3/Plonky3/pull/1540) - 2026-04-09
+* [Review] [Review on: Type Circle FRI Shape Errors](https://github.com/Plonky3/Plonky3/pull/1541#pullrequestreview-4090258534) - 2026-04-10
+* [Review] [Review on: refactor(koala-bear): simplify poseidon2 internal layer](https://github.com/Plonky3/Plonky3/pull/1542#pullrequestreview-4089781457) - 2026-04-10
 ## Q1 2026
 
 

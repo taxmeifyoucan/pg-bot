@@ -36,6 +36,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test: Simplify testing workflows](https://github.com/NethermindEth/nethermind/pull/11075#pullrequestreview-4080026768) - 2026-04-09
 * [Review] [Review on: eth_estimateGas fix error decoding](https://github.com/NethermindEth/nethermind/pull/11077#pullrequestreview-4081522536) - 2026-04-09
 * [Commit] [feat(cache): Add AssociativeCache - lock-free set-associative cache with lower memory (#10991)](https://github.com/NethermindEth/nethermind/commit/a46107d3db0ec62e8dad4774f9a035cbeb89c4cd) - 2026-04-09
+* [Review] [Review on: chore: Revise CODEOWNERS](https://github.com/NethermindEth/nethermind/pull/11099#pullrequestreview-4093117277) - 2026-04-11
+* [Review] [Review on: fix(crypto): implement IHash64bit for Hash256AsKey](https://github.com/NethermindEth/nethermind/pull/11091#pullrequestreview-4090108248) - 2026-04-10
+* [Review] [Review on: Fix decoding of empty receipts of a block](https://github.com/NethermindEth/nethermind/pull/11093#pullrequestreview-4089458115) - 2026-04-10
+* [Review] [Review on: fix: validate signature length in personal_ecRecover](https://github.com/NethermindEth/nethermind/pull/11090#pullrequestreview-4089147915) - 2026-04-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

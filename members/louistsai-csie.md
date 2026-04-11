@@ -30,6 +30,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): add state restoration tests for reverted sub-calls](https://github.com/ethereum/execution-specs/pull/2494#pullrequestreview-4073521258) - 2026-04-08
 * [Commit] [feat(tests-execute): `EOA` pkey support for stub account (#2624)](https://github.com/ethereum/execution-specs/commit/9e7225a932514e6ce8039a41ba38fe071f50ba0c) - 2026-04-08
 * [Pull Request] [feat(test-specs): benchmark verification module](https://github.com/ethereum/execution-specs/pull/2640) - 2026-04-09
+* [Review] [Review on: feat(test-benchmark): add uncacheable precompile benchmark](https://github.com/ethereum/execution-specs/pull/2600#pullrequestreview-4087495020) - 2026-04-10
 ## Q1 2026
 
 

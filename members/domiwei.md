@@ -8,6 +8,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q2 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [[wip] p2p/sentry: cache StatusData with 2s TTL, merge dual db.View, fix aliasing](https://github.com/erigontech/erigon/pull/20464) - 2026-04-10
+* [Pull Request] [p2p/sentry: defensive copy of fork slices in StatusData](https://github.com/erigontech/erigon/pull/20463) - 2026-04-10
 ## Q1 2026
 
 

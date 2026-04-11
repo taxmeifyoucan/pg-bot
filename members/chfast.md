@@ -61,8 +61,15 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [tools: Remove external EVMC support in evmone-bench (#1503)](https://github.com/ipsilon/evmone/commit/d6f25392d2c932c305421de1b6a43e30eedba562) - 2026-04-09
 * [Commit] [tools: Add evmone CLI tool (#1502)](https://github.com/ipsilon/evmone/commit/3dd21f12bea608944a335f469f61ca4abd2740d8) - 2026-04-09
 * [Commit] [build: Bump minimum CMake version to 3.22 (#1501)](https://github.com/ipsilon/evmone/commit/b838d88f648d763c98cac4e8156c9c932aa19503) - 2026-04-09
+* [Pull Request] [Add Amsterdam EVM revision](https://github.com/ipsilon/evmone/pull/1508) - 2026-04-10
+* [Pull Request] [ci: Run EEST "develop"](https://github.com/ipsilon/evmone/pull/1507) - 2026-04-10
+* [Pull Request] [test: Add push1_stack_overflow test](https://github.com/ipsilon/evmone/pull/1506) - 2026-04-10
+* [Commit] [Add Amsterdam EVM revision (#1508)](https://github.com/ipsilon/evmone/commit/8de65287f28522d0cbe8f08a2e864fe2f2910f0f) - 2026-04-10
+* [Commit] [ci: Run EEST "develop" (#1507)](https://github.com/ipsilon/evmone/commit/f8ca753d44c2879a42fc28a81a1ca3a7183dd767) - 2026-04-10
+* [Commit] [test: Add push1_stack_overflow test (#1506)](https://github.com/ipsilon/evmone/commit/c8c8be2da1c93b23ea6b5bd93168fec280623093) - 2026-04-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
+* [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
 ## Q1 2026
 
 

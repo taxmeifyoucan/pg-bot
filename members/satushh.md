@@ -18,6 +18,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Add Gloas engine API method versions for devnet](https://github.com/OffchainLabs/prysm/pull/16642#pullrequestreview-4076531638) - 2026-04-08
 * [Pull Request] [Fix package-level logger mutation](https://github.com/OffchainLabs/prysm/pull/16645) - 2026-04-09
 * [Commit] [Fix package-level logger mutation (#16645)](https://github.com/OffchainLabs/prysm/commit/9da54ce8166cfc2ef875372128228620ca68a42f) - 2026-04-09
+* [Review] [Review on: Get block v4](https://github.com/OffchainLabs/prysm/pull/16488#pullrequestreview-4089756125) - 2026-04-10
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 ## Q1 2026

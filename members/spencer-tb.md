@@ -28,6 +28,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(scripts): skip @manually-enhanced files in filler_to_python](https://github.com/ethereum/execution-specs/pull/2630#pullrequestreview-4067759823) - 2026-04-07
 * [Pull Request] [experiments(test-fill): add local t8n cache with SQLite + pickle + zlib](https://github.com/ethereum/execution-specs/pull/2636) - 2026-04-08
 * [Pull Request] [feat(tests): add nested CREATE state gas and access list gas tests](https://github.com/ethereum/execution-specs/pull/2639) - 2026-04-09
+* [Review] [Review on: refactor(tests): Enhance heavy ported tests](https://github.com/ethereum/execution-specs/pull/2623#pullrequestreview-4088666758) - 2026-04-10
+* [Review] [Review on: feat(test-plugins-forks): Introduce `pytest.mark.valid_before`](https://github.com/ethereum/execution-specs/pull/2647#pullrequestreview-4089203203) - 2026-04-10
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

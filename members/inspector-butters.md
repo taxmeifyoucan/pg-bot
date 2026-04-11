@@ -16,6 +16,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Fix package-level logger mutation](https://github.com/OffchainLabs/prysm/pull/16645#pullrequestreview-4082467564) - 2026-04-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
+* [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10
 ## Q1 2026
 
 

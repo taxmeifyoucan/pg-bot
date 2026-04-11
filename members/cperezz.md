@@ -16,6 +16,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Review] [Review on: core/state: fix codeLen=0 corruption of bintrie BasicData](https://github.com/ethereum/go-ethereum/pull/34677#pullrequestreview-4085138371) - 2026-04-09
 * [Pull Request] [trie/bintrie: fix GetAccount/GetStorage non-membership — verify stem before returning values](https://github.com/ethereum/go-ethereum/pull/34690) - 2026-04-09
 * [Commit] [triedb/pathdb: fix lookup sentinel collision with zero disk layer root (#34680)](https://github.com/ethereum/go-ethereum/commit/3772bb536a67a2f17ed98244775eb16698f79140) - 2026-04-09
+* [Commit] [trie/bintrie: fix GetAccount/GetStorage non-membership — verify stem before returning values (#34690)](https://github.com/ethereum/go-ethereum/commit/deda47f6a1c0588b9e2600ca97552994c2889d37) - 2026-04-10
+* [Commit] [trie/bintrie: fix DeleteAccount no-op (#34676)](https://github.com/ethereum/go-ethereum/commit/f71a884e37857e6cbb093e2fc3e03b33bda85d6f) - 2026-04-10
 ## Q1 2026
 
 

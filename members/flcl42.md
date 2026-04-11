@@ -29,6 +29,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Don't return state gas (#11031)](https://github.com/NethermindEth/nethermind/commit/c58978abc786098d711350f6f3a4e3bd354de882) - 2026-04-07
 * [Review] [Review on: feat(cache): Add AssociativeCache - lock-free set-associative cache with lower memory](https://github.com/NethermindEth/nethermind/pull/10991#pullrequestreview-4081240505) - 2026-04-09
 * [Review] [Review on: style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079#pullrequestreview-4082247069) - 2026-04-09
+* [Pull Request] [Add sparse blob pool](https://github.com/NethermindEth/nethermind/pull/11094) - 2026-04-10
+* [Review] [Review on: fix: validate filter string length before re-parsing](https://github.com/NethermindEth/nethermind/pull/11086#pullrequestreview-4089288918) - 2026-04-10
+* [Pull Request] [Fix decoding of empty receipts of a block](https://github.com/NethermindEth/nethermind/pull/11093) - 2026-04-10
+* [Review] [Review on: Add block building simulator tool](https://github.com/NethermindEth/nethermind/pull/10044#pullrequestreview-4089240341) - 2026-04-10
+* [Review] [Review on: fix: add bounds on filter address and topic array sizes](https://github.com/NethermindEth/nethermind/pull/11087#pullrequestreview-4088138884) - 2026-04-10
+* [Review] [Review on: refactor: remove Personal module from default RPC modules](https://github.com/NethermindEth/nethermind/pull/11084#pullrequestreview-4088132132) - 2026-04-10
+* [Commit] [Fix decoding of empty receipts of a block (#11093)](https://github.com/NethermindEth/nethermind/commit/a52cb90edcb0973de3dbce2b17aa5c4e1f0c3417) - 2026-04-10
 ## Q1 2026
 
 

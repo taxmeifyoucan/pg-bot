@@ -16,6 +16,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core: merge access events for all system calls](https://github.com/ethereum/go-ethereum/pull/34637#pullrequestreview-4070849718) - 2026-04-07
 * [Review] [Review on: trie/bintrie: use children array instead of left/right fields](https://github.com/ethereum/go-ethereum/pull/34689#pullrequestreview-4080715822) - 2026-04-09
 * [Commit] [cmd/geth: add subcommand for offline binary tree conversion (#33740)](https://github.com/ethereum/go-ethereum/commit/58557cb4635d4e6f3e49fcdc82a6469554e929a6) - 2026-04-09
+* [Pull Request] [cmd, core, trie, triedb: split CachingDB into merkle + binary dbs.](https://github.com/ethereum/go-ethereum/pull/34700) - 2026-04-10
+* [Review] [Review on: trie/bintrie: fix GetAccount/GetStorage non-membership — verify stem before returning values](https://github.com/ethereum/go-ethereum/pull/34690#pullrequestreview-4091269798) - 2026-04-10
+* [Review] [Review on: trie/bintrie: fix DeleteAccount no-op](https://github.com/ethereum/go-ethereum/pull/34676#pullrequestreview-4090926457) - 2026-04-10
+* [Review] [Review on: core/filtermaps: remove dead condition check](https://github.com/ethereum/go-ethereum/pull/34695#pullrequestreview-4090781603) - 2026-04-10
 ## Q1 2026
 
 

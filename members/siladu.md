@@ -37,6 +37,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Remove dryRunDetector workaround methods from unit tests](https://github.com/besu-eth/besu/pull/10201#pullrequestreview-4078450918) - 2026-04-08
 * [Pull Request] [Exclude IntelliJ bin/default output from Spotless shell script check](https://github.com/besu-eth/besu/pull/10210) - 2026-04-10
 
+* [Commit] [Exclude IntelliJ bin/default output from Spotless shell script check (#10210)](https://github.com/besu-eth/besu/commit/057dcb3aaf19d027e39ad7d46782354125cc82c0) - 2026-04-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

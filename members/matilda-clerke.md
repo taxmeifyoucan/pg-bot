@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Handle peer permission updates in PeerDiscoveryAgentV5](https://github.com/besu-eth/besu/pull/10193) - 2026-04-07
 * [Pull Request] [Remove peer task system feature toggle from ForwardSyncStep](https://github.com/besu-eth/besu/pull/10197) - 2026-04-08
+* [Review] [Review on: Exclude IntelliJ bin/default output from Spotless shell script check](https://github.com/besu-eth/besu/pull/10210#pullrequestreview-4086933245) - 2026-04-10
 ## Q1 2026
 
 

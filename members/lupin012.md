@@ -43,11 +43,17 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: WebSocket overload protection](https://github.com/erigontech/erigon/pull/20446) - 2026-04-09
 * [Pull Request] [QA: disable temporary  3 failed integration tests.](https://github.com/erigontech/erigon/pull/20433) - 2026-04-09
 * [Commit] [QA: disable temporary  3 failed integration tests. (#20433)](https://github.com/erigontech/erigon/commit/953be6abcfa52a75a91f2877061432f7a246626d) - 2026-04-09
+* [Pull Request] [rpc: expose testing_ namespace via --http.api on port 8545](https://github.com/erigontech/erigon/pull/20482) - 2026-04-10
+* [Pull Request] [rpc: tracing logger memory encoding](https://github.com/erigontech/erigon/pull/20478) - 2026-04-10
+* [Commit] [rpc: fix null result unmarshalling in CallContext (#20393)](https://github.com/erigontech/erigon/commit/4f0034b390fc178e615683b9ad81eec8a8804a65) - 2026-04-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
 * [Commit] [integration  eth_simulateV1: with storage collision (#544)](https://github.com/erigontech/rpc-tests/commit/615d1181e846cb5aebf555f316c4dbf489e8979f) - 2026-04-03
 * [Pull Request] [integration tool: clear result after verify sync is done](https://github.com/erigontech/rpc-tests/pull/546) - 2026-04-09
+* [Pull Request] [integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547) - 2026-04-10
+* [Commit] [Standardize debug_trace according PR 762 execution apis (#547)](https://github.com/erigontech/rpc-tests/commit/158cddd16c733c73dd9be9e6ec8c64b4928cd5ff) - 2026-04-10
+* [Commit] [clear result after verify sync is done (#546)](https://github.com/erigontech/rpc-tests/commit/0ce8c7e0da12ef9daf9a32ea2830f99bc88b1d4f) - 2026-04-10
 ## Q1 2026
 
 

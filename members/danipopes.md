@@ -156,6 +156,15 @@ Team: Reth
 * [Commit] [feat: add writable attribute to &mut pointer parameters (#290)](https://github.com/paradigmxyz/revmc/commit/aab3f34cbdb091fafd4e0290f6cf02fdfb15b6fe) - 2026-04-08
 * [Commit] [refactor: widen OpcodeInfo to u32, unhardcode SELFDESTRUCT gas (#288)](https://github.com/paradigmxyz/revmc/commit/9fed531fca208ea64d501c6d3a51d4d022476d86) - 2026-04-08
 * [Commit] [fix(llvm): fix OrcJitState field drop order to prevent use-after-free (#289)](https://github.com/paradigmxyz/revmc/commit/d0b45ca2f102de6e15ae89be6ae80893501fc00d) - 2026-04-08
+* [Pull Request] [fix: address cyclops audit findings in runtime and builtins](https://github.com/paradigmxyz/revmc/pull/295) - 2026-04-11
+* [Pull Request] [fix: propagate leader marks for dead reachable JUMPDESTs in rebuild_cfg](https://github.com/paradigmxyz/revmc/pull/296) - 2026-04-11
+* [Pull Request] [refactor: invert no_dedup/no_dse to dedup/dse with positive defaults](https://github.com/paradigmxyz/revmc/pull/294) - 2026-04-10
+* [Pull Request] [feat: add no_dedup and no_dse pass controls](https://github.com/paradigmxyz/revmc/pull/293) - 2026-04-10
+* [Pull Request] [fix: propagate leader marks past dead code in rebuild_cfg](https://github.com/paradigmxyz/revmc/pull/292) - 2026-04-10
+* [Commit] [fix: propagate leader marks for dead reachable JUMPDESTs in rebuild_cfg (#296)](https://github.com/paradigmxyz/revmc/commit/75de608999493611c04fcb11416b78265cd4eb48) - 2026-04-11
+* [Commit] [refactor: invert no_dedup/no_dse to dedup/dse with positive defaults (#294)](https://github.com/paradigmxyz/revmc/commit/55b0550e152ea5323cd9e15d4b7319807cc32328) - 2026-04-10
+* [Commit] [feat: add no_dedup and no_dse pass controls (#293)](https://github.com/paradigmxyz/revmc/commit/61eb7af05cca1ec64c26dec353c6992da3b14983) - 2026-04-10
+* [Commit] [fix: propagate leader marks past dead code in rebuild_cfg (#292)](https://github.com/paradigmxyz/revmc/commit/987980a25f1c90118cd278bf303404a1d9e60b33) - 2026-04-10
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07

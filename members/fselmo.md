@@ -17,6 +17,10 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(cli): Add --until option for checklist generation](https://github.com/ethereum/execution-specs/pull/2593#pullrequestreview-4068430351) - 2026-04-07
 * [Pull Request] [feat(tests): stateful engine test filling for benchmark tests](https://github.com/ethereum/execution-specs/pull/2637) - 2026-04-08
 * [Review] [Review on: feat(ci,tooling): add vulture dead code detection to just & ci](https://github.com/ethereum/execution-specs/pull/2621#pullrequestreview-4084034347) - 2026-04-09
+* [Pull Request] [feat: add more invalid BAL test cases; extend invalid case coverage](https://github.com/ethereum/execution-specs/pull/2653) - 2026-04-10
+* [Review] [Review on: fix(github): Fix just setup](https://github.com/ethereum/execution-specs/pull/2655#pullrequestreview-4092580446) - 2026-04-10
+* [Review] [Review on: feat(test-plugins-forks): Introduce `pytest.mark.valid_before`](https://github.com/ethereum/execution-specs/pull/2647#pullrequestreview-4091018110) - 2026-04-10
+* [Review] [Review on: tests(amsterdam): add BAL missing withdrawal account tests](https://github.com/ethereum/execution-specs/pull/2652#pullrequestreview-4091628971) - 2026-04-10
 ## Q1 2026
 
 

@@ -21,8 +21,13 @@ Team: Erigon
 * [Pull Request] [qa-tests: fix RPC integration tests for other clients](https://github.com/erigontech/erigon/pull/20436) - 2026-04-09
 * [Review] [Review on: QA: disable temporary  3 failed integration tests.](https://github.com/erigontech/erigon/pull/20433#pullrequestreview-4081105814) - 2026-04-09
 * [Commit] [qa-tests: fix RPC integration tests for other clients (#20436)](https://github.com/erigontech/erigon/commit/6a4da09bd8b62b12c56ee1fe5a8f428669edf39f) - 2026-04-09
+* [Pull Request] [qa-tests: add the RPC tests to the Sync-from-scratch test](https://github.com/erigontech/erigon/pull/20484) - 2026-04-10
+* [Commit] [qa-tests: add the RPC tests to the Sync-from-scratch test (#20484)](https://github.com/erigontech/erigon/commit/9e39d78b72118560df06c7bf95911d2b979c803d) - 2026-04-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
+* [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10
+* [Review] [Review on: integration tool: clear result after verify sync is done](https://github.com/erigontech/rpc-tests/pull/546#pullrequestreview-4088868866) - 2026-04-10
+* [Review] [Review on: integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545#pullrequestreview-4088869742) - 2026-04-10
 ## Q1 2026
 
 

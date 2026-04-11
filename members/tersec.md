@@ -30,6 +30,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [implement Heze block sanity test fixture](https://github.com/status-im/nimbus-eth2/pull/8240) - 2026-04-09
 * [Pull Request] [implement Heze operations test fixture](https://github.com/status-im/nimbus-eth2/pull/8239) - 2026-04-09
 * [Pull Request] [implement Heze slot sanity test fixture](https://github.com/status-im/nimbus-eth2/pull/8238) - 2026-04-09
+* [Pull Request] [implement Heze rewards test fixture](https://github.com/status-im/nimbus-eth2/pull/8248) - 2026-04-10
 ## Q1 2026
 
 

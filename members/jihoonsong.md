@@ -24,6 +24,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Remove invalid KZG commitments count check](https://github.com/ethereum/consensus-specs/pull/5090) - 2026-04-09
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4083639662) - 2026-04-09
 * [Commit] [Remove invalid KZG commitments count check (#5090)](https://github.com/ethereum/consensus-specs/commit/fb9b2a9027e92c7e061373e616c08cf8db0f6027) - 2026-04-09
+* [Review] [Review on: Fix Gloas genesis anchor state](https://github.com/ethereum/consensus-specs/pull/5067#pullrequestreview-4092239904) - 2026-04-10
+* [Review] [Review on: Fix merge conflict mistake](https://github.com/ethereum/consensus-specs/pull/5092#pullrequestreview-4089216529) - 2026-04-10
+* [Review] [Review on: Fix envelope `beacon_block_root` field name](https://github.com/ethereum/consensus-specs/pull/5093#pullrequestreview-4089208369) - 2026-04-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 ## Q1 2026

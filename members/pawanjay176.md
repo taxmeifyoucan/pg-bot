@@ -17,6 +17,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Issue] [Add http api tests for gloas finalized/justified state endpoints](https://github.com/sigp/lighthouse/issues/9110) - 2026-04-08
 
 * [Review] [Review on: Gloas bid and preference verification](https://github.com/sigp/lighthouse/pull/9036#pullrequestreview-4084332114) - 2026-04-09
+* [Review] [Review on: Gloas bid and preference verification](https://github.com/sigp/lighthouse/pull/9036#pullrequestreview-4087021843) - 2026-04-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 ## Q1 2026

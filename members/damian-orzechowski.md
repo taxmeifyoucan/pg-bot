@@ -17,6 +17,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix merge plugin tests for FlatDb and add to flat CI](https://github.com/NethermindEth/nethermind/pull/10919#pullrequestreview-4055245371) - 2026-04-03
 * [Review] [Review on: feat: make debug_executionWitness compatible with FlatDb](https://github.com/NethermindEth/nethermind/pull/11045#pullrequestreview-4068558802) - 2026-04-07
 * [Review] [Review on: refactor: Move state access before out of gas checks](https://github.com/NethermindEth/nethermind/pull/11011#pullrequestreview-4073614646) - 2026-04-08
+* [Pull Request] [Allow `HistoryPruner` to be callable via decorator](https://github.com/NethermindEth/nethermind/pull/11098) - 2026-04-10
 ## Q1 2026
 
 

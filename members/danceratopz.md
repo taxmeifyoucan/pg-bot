@@ -28,6 +28,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(ci,tooling): add vulture dead code detection to just & ci](https://github.com/ethereum/execution-specs/pull/2621#pullrequestreview-4075457831) - 2026-04-08
 * [Review] [Review on: chore(tooling,deps): update mypy to 1.20](https://github.com/ethereum/execution-specs/pull/2633#pullrequestreview-4073271158) - 2026-04-08
 * [Pull Request] [feat(ci,docs): build and publish a combined HTML and spec doc artifact](https://github.com/ethereum/execution-specs/pull/2638) - 2026-04-09
+* [Review] [Review on: feat(tooling): Add just checklist](https://github.com/ethereum/execution-specs/pull/2648#pullrequestreview-4087965329) - 2026-04-10
+* [Review] [Review on: feat(test-plugins-forks): Introduce `pytest.mark.valid_before`](https://github.com/ethereum/execution-specs/pull/2647#pullrequestreview-4089817275) - 2026-04-10
+* [Pull Request] [feat(tooling): add `shell-completions` recipe to print setup instructions](https://github.com/ethereum/execution-specs/pull/2651) - 2026-04-10
 ## Q1 2026
 
 

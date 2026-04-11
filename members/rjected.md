@@ -21,6 +21,8 @@ Team: Reth
 * [Pull Request] [[autoopt] 20260409-1-storage-cache-fixed-key](https://github.com/paradigmxyz/reth/pull/23429) - 2026-04-09
 * [Pull Request] [donotmerge: df -h before cache restore](https://github.com/paradigmxyz/reth/pull/23427) - 2026-04-09
 * [Pull Request] [chore(cli): validate Content-Range responses in reth download](https://github.com/paradigmxyz/reth/pull/23428) - 2026-04-09
+* [Review] [Review on: fix(download): respect `--datadir.static-files` during extraction](https://github.com/paradigmxyz/reth/pull/23445#pullrequestreview-4092625659) - 2026-04-10
+* [Pull Request] [chore(cli): make --resumable default](https://github.com/paradigmxyz/reth/pull/23451) - 2026-04-10
 ## Q1 2026
 
 

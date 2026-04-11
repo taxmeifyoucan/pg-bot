@@ -42,6 +42,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
+* [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4089977467) - 2026-04-10
 ## Q1 2026
 
 

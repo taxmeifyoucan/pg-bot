@@ -48,6 +48,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test: Simplify testing workflows](https://github.com/NethermindEth/nethermind/pull/11075#pullrequestreview-4080409387) - 2026-04-09
 * [Pull Request] [style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079) - 2026-04-09
 * [Review] [Review on: style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079#pullrequestreview-4082779327) - 2026-04-09
+* [Review] [Review on: style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079#pullrequestreview-4092882800) - 2026-04-10
 ## Q1 2026
 
 

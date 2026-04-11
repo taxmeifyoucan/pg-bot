@@ -63,6 +63,22 @@ Team: Reth
 * [Review] [Review on: refactor: support modifying `next_available_nonce_for`](https://github.com/paradigmxyz/reth/pull/23409#pullrequestreview-4079672771) - 2026-04-09
 * [Commit] [fix(pruning): avoid unused import warning in checkpoint (#23412)](https://github.com/paradigmxyz/reth/commit/c9866e2c8533c3005da29d566193e0e6ea1d0148) - 2026-04-09
 * [Commit] [perf(storage): use sort_unstable in safe paths (#23386)](https://github.com/paradigmxyz/reth/commit/91b8e1a8ae86b452940602b0dce700e59184f237) - 2026-04-09
+* [Review] [Review on: chore: bump alloy to 2.0.0-rc.1](https://github.com/paradigmxyz/reth/pull/23407#pullrequestreview-4088147911) - 2026-04-10
+* [Pull Request] [fix(net): seed peer range from handshake status](https://github.com/paradigmxyz/reth/pull/23446) - 2026-04-10
+* [Review] [Review on: fix(rpc): paginate ots_getBlockTransactions in block order](https://github.com/paradigmxyz/reth/pull/23442#pullrequestreview-4089883597) - 2026-04-10
+* [Review] [Review on: fix(provider): size block_range buffer for inclusive span](https://github.com/paradigmxyz/reth/pull/23443#pullrequestreview-4089768398) - 2026-04-10
+* [Review] [Review on: fix(consensus): always validate minimum gas limit](https://github.com/paradigmxyz/reth/pull/23441#pullrequestreview-4089719044) - 2026-04-10
+* [Review] [Review on: fix(rpc): preserve nested bundle structure in mev_simBundle logs](https://github.com/paradigmxyz/reth/pull/20565#pullrequestreview-4089671352) - 2026-04-10
+* [Review] [Review on: fix(transaction-pool): reject underpriced replacements with zero priority fee](https://github.com/paradigmxyz/reth/pull/23438#pullrequestreview-4089767046) - 2026-04-10
+* [Review] [Review on: chore: updated expected failure  and removed default true from bal builder](https://github.com/paradigmxyz/reth/pull/23383#pullrequestreview-4089229293) - 2026-04-10
+* [Review] [Review on: fix(cli): preserve jwt.hex and discovery-secret during snapshot extraction](https://github.com/paradigmxyz/reth/pull/22815#pullrequestreview-4089216225) - 2026-04-10
+* [Review] [Review on: refactor(txpool): extract generic blob lookup helper in DiskFileBlobS…](https://github.com/paradigmxyz/reth/pull/22806#pullrequestreview-4089190383) - 2026-04-10
+* [Review] [Review on: perf(txpool): skip listener locks when no subscribers exist](https://github.com/paradigmxyz/reth/pull/22843#pullrequestreview-4089183704) - 2026-04-10
+* [Review] [Review on: perf(engine): improve BAL prewarm sparse-trie streaming](https://github.com/paradigmxyz/reth/pull/23423#pullrequestreview-4087894500) - 2026-04-10
+* [Review] [Review on: docs: update README for Reth 2.0](https://github.com/paradigmxyz/reth/pull/23424#pullrequestreview-4088022792) - 2026-04-10
+* [Review] [Review on: docs(rpc): mark admin_peerEvents, debug_traceChain, eth_mining, and eth_coinbase as not implemented](https://github.com/paradigmxyz/reth/pull/23431#pullrequestreview-4088025668) - 2026-04-10
+* [Issue] [Add support for downloading BAL in FullBlockClient](https://github.com/paradigmxyz/reth/issues/23433) - 2026-04-10
+* [Commit] [fix(net): seed peer range from handshake status (#23446)](https://github.com/paradigmxyz/reth/commit/fc3f465321674ad36aa684326c6bc2c47fdbbca5) - 2026-04-10
 ## Q1 2026
 
 

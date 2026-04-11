@@ -69,6 +69,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Revert remove state progress check r34](https://github.com/erigontech/erigon/pull/20437) - 2026-04-09
 * [Review] [Review on: snapshots: align state files to block file boundary on startup](https://github.com/erigontech/erigon/pull/20434#pullrequestreview-4081473960) - 2026-04-09
 * [Commit] [cmd/integration: show commitment domain progress(txnum) in print_stages (#20443)](https://github.com/erigontech/erigon/commit/0afd0ae35216d84d027b0dadfa62a7ff01582cad) - 2026-04-10
+* [Pull Request] [rpc/jsonrpc: use synctest for send_transaction tests](https://github.com/erigontech/erigon/pull/20480) - 2026-04-10
+* [Pull Request] [db/state: fix btree cursor leak in debugIteratePrefixLatest](https://github.com/erigontech/erigon/pull/20468) - 2026-04-10
+* [Review] [Review on: [wip] agg: lock-free Begin()](https://github.com/erigontech/erigon/pull/20462#pullrequestreview-4088575704) - 2026-04-10
+* [Review] [Review on: domain: idx readers leak fix](https://github.com/erigontech/erigon/pull/20460#pullrequestreview-4087654101) - 2026-04-10
+* [Issue] [commitment with de-embedded children](https://github.com/erigontech/erigon/issues/20479) - 2026-04-10
+* [Issue] [DomainLatestIterFile: skip DB entries within file range](https://github.com/erigontech/erigon/issues/20474) - 2026-04-10
+* [Commit] [db/state: skip DB entries within file range in debugIteratePrefixLatest (#20444)](https://github.com/erigontech/erigon/commit/4a901ec98b8d1cb208b9aa5b5ce64634421627e1) - 2026-04-11
+* [Commit] [db/state: fix btree cursor leak in debugIteratePrefixLatest (#20468)](https://github.com/erigontech/erigon/commit/d89be8868e07810c84b6a13681d500ea94577481) - 2026-04-10
 ## Q1 2026
 
 

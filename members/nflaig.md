@@ -95,6 +95,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: correct proposer boost logic and getParentNodeIndex for gloas](https://github.com/ChainSafe/lodestar/pull/9165#pullrequestreview-4074170174) - 2026-04-08
 * [Issue] [Remove `SECONDS_PER_SLOT` after gloas](https://github.com/ChainSafe/lodestar/issues/9201) - 2026-04-08
 * [Commit] [fix: validate MIN_EPOCHS for blob/data column by range/root requests (#9173)](https://github.com/ChainSafe/lodestar/commit/1e596a7422b9c7744c7894ccd7e5845a1741b257) - 2026-04-08
+* [Review] [Review on: fix: pass prepareSlot to fork choice head for Gloas FULL vs EMPTY tie-breaker](https://github.com/ChainSafe/lodestar/pull/9164#pullrequestreview-4092383721) - 2026-04-10
+* [Review] [Review on: docs: update RELEASE.md](https://github.com/ChainSafe/lodestar/pull/9172#pullrequestreview-4092365382) - 2026-04-10
+* [Pull Request] [fix: reject same-slot full attestation votes for gloas](https://github.com/ChainSafe/lodestar/pull/9205) - 2026-04-10
+* [Commit] [fix: check if pending deposit exists before applying to builder (#9180)](https://github.com/ChainSafe/lodestar/commit/2219bb0cb8c2af1770a302e16e95356100764e59) - 2026-04-11
+* [Commit] [feat: add endpoint to retrieve signed execution payload envelope (#9186)](https://github.com/ChainSafe/lodestar/commit/f403d99def205da9bc7ac2ca6bf5a45aeec0428d) - 2026-04-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -104,6 +109,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Use expected withdrawals from state when parent block is empty (#5069)](https://github.com/ethereum/consensus-specs/commit/0ce0212a1f416cf8dc0ca3cf32bf7e20604a17e3) - 2026-04-06
 * [Commit] [Test execution payload with builder deposit after pending validator (#5068)](https://github.com/ethereum/consensus-specs/commit/51f761cbd7d611424bf9274fb19eaf39e8a87065) - 2026-04-07
 
+* [Pull Request] [Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094) - 2026-04-10
+* [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4089931996) - 2026-04-10
+* [Pull Request] [Fix envelope `beacon_block_root` field name](https://github.com/ethereum/consensus-specs/pull/5093) - 2026-04-10
+* [Commit] [Fix envelope `beacon_block_root` field name (#5093)](https://github.com/ethereum/consensus-specs/commit/7fefa4316121a67a5ab1dcba2d3eeee10a5b00bd) - 2026-04-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

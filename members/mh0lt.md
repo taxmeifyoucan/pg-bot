@@ -34,6 +34,16 @@ Team: Erigon
 * [Review] [Review on: execution: fix BAL validation in parallel executor + add Glamsterdam assertoor CI](https://github.com/erigontech/erigon/pull/20252#pullrequestreview-4084542970) - 2026-04-09
 * [Pull Request] [ethconfig: consolidate flag reading into BuildEthConfig entry point](https://github.com/erigontech/erigon/pull/20449) - 2026-04-09
 * [Issue] [exec: partial block at snapshot boundary passes incomplete receipts to Finalize](https://github.com/erigontech/erigon/issues/20452) - 2026-04-09
+* [Review] [Review on: log: append-style formatter](https://github.com/erigontech/erigon/pull/20459#pullrequestreview-4088886947) - 2026-04-10
+* [Pull Request] [rpc, exec: wire receipts.Generator to shared derive package, add RCacheV2 fast path](https://github.com/erigontech/erigon/pull/20485) - 2026-04-10
+* [Pull Request] [exec: fix partial block receipt reconstruction (#20452)](https://github.com/erigontech/erigon/pull/20467) - 2026-04-10
+* [Pull Request] [node/components/storage: extract storage component from backend.go](https://github.com/erigontech/erigon/pull/20476) - 2026-04-10
+* [Review] [Review on: node/app: add component framework](https://github.com/erigontech/erigon/pull/20450#pullrequestreview-4088034754) - 2026-04-10
+* [Pull Request] [node: introduce nodebuilder component registry](https://github.com/erigontech/erigon/pull/20473) - 2026-04-10
+* [Pull Request] [node/components: auth plugin, downloader extraction, event guidelines](https://github.com/erigontech/erigon/pull/20470) - 2026-04-10
+* [Pull Request] [plugins/auth: add UCAN core library with EOA signer and MDBX store](https://github.com/erigontech/erigon/pull/20472) - 2026-04-10
+* [Pull Request] [node/components: extract downloader from backend.go, add event guidelines](https://github.com/erigontech/erigon/pull/20471) - 2026-04-10
+* [Commit] [cl: replace Clique dev mode with embedded PoS consensus (#20451)](https://github.com/erigontech/erigon/commit/4d52bd5e14bb09240d538ada7535788e7b3d8de2) - 2026-04-10
 ## Q1 2026
 
 

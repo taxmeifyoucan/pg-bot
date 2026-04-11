@@ -36,6 +36,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Fix Gloas data column KZG commitments for operation feed](https://github.com/OffchainLabs/prysm/pull/16643#pullrequestreview-4077171831) - 2026-04-08
 * [Review] [Review on: Add Gloas engine API method versions for devnet](https://github.com/OffchainLabs/prysm/pull/16642#pullrequestreview-4076397805) - 2026-04-08
 * [Pull Request] [handle reorgs for proposer preferences](https://github.com/OffchainLabs/prysm/pull/16651) - 2026-04-09
+* [Review] [Review on: Use fork-aware deserialization for data columns from disk](https://github.com/OffchainLabs/prysm/pull/16650#pullrequestreview-4090396676) - 2026-04-10
+* [Review] [Review on: Set bid KZG commitments on gloas's data columns](https://github.com/OffchainLabs/prysm/pull/16649#pullrequestreview-4090742976) - 2026-04-10
+* [Review] [Review on: Return `execution_optimistic` correctly for reward APIs](https://github.com/OffchainLabs/prysm/pull/16526#pullrequestreview-4090863365) - 2026-04-10
+* [Review] [Review on: Skip inclusion proof verification for Gloas data columns](https://github.com/OffchainLabs/prysm/pull/16647#pullrequestreview-4090129883) - 2026-04-10
+* [Review] [Review on: Decode Gloas data columns using correct protobuf type over RPC](https://github.com/OffchainLabs/prysm/pull/16648#pullrequestreview-4090159825) - 2026-04-10
+* [Review] [Review on: Add missing fields to Gloas genesis block bid](https://github.com/OffchainLabs/prysm/pull/16646#pullrequestreview-4090122430) - 2026-04-10
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

@@ -25,6 +25,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112#pullrequestreview-4080353061) - 2026-04-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
+* [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10
 ## Q1 2026
 
 
