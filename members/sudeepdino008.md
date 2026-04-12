@@ -77,6 +77,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [DomainLatestIterFile: skip DB entries within file range](https://github.com/erigontech/erigon/issues/20474) - 2026-04-10
 * [Commit] [db/state: skip DB entries within file range in debugIteratePrefixLatest (#20444)](https://github.com/erigontech/erigon/commit/4a901ec98b8d1cb208b9aa5b5ce64634421627e1) - 2026-04-11
 * [Commit] [db/state: fix btree cursor leak in debugIteratePrefixLatest (#20468)](https://github.com/erigontech/erigon/commit/d89be8868e07810c84b6a13681d500ea94577481) - 2026-04-10
+* [Review] [Review on: [r3.4] db/state: fix btree cursor leak in debugIteratePrefixLatest](https://github.com/erigontech/erigon/pull/20488#pullrequestreview-4093605597) - 2026-04-11
 ## Q1 2026
 
 

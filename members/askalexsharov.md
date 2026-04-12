@@ -159,6 +159,17 @@ Team: Erigon
 * [Commit] [domain: idx readers leak fix (#20460)](https://github.com/erigontech/erigon/commit/bd636b2acb6d1e84126b9a10654999033f688024) - 2026-04-10
 * [Commit] [deps: update fastkeccak (#20395)](https://github.com/erigontech/erigon/commit/b331d19afcc198ce38d83c2628aefd27259610a9) - 2026-04-10
 * [Commit] [cp: cherry-pick batch 2 from release/3.4 to main (#20405)](https://github.com/erigontech/erigon/commit/8ceaedc34b00ea15acf52073e376710117a4339b) - 2026-04-10
+* [Review] [Review on: rpc, exec: wire receipts.Generator to shared derive package, add RCacheV2 fast path](https://github.com/erigontech/erigon/pull/20485#pullrequestreview-4093470843) - 2026-04-11
+* [Review] [Review on: db/state: add optional throttle to MergeLoop to reduce disk I/O pressure](https://github.com/erigontech/erigon/pull/20486#pullrequestreview-4093268403) - 2026-04-11
+* [Pull Request] [[r3.4] stagedsync: generate changesets near tip even during initialCycle](https://github.com/erigontech/erigon/pull/20496) - 2026-04-11
+* [Review] [Review on: stagedsync: generate changesets near tip even during initialCycle](https://github.com/erigontech/erigon/pull/20495#pullrequestreview-4093584836) - 2026-04-11
+* [Pull Request] [[r3.4] db/state: fix stale slot resurrection after unwind and deletion](https://github.com/erigontech/erigon/pull/20494) - 2026-04-11
+* [Pull Request] [cl/sentinel: fix panic on short attnets ENR entry](https://github.com/erigontech/erigon/pull/20492) - 2026-04-11
+* [Pull Request] [[r3.4] cl/sentinel: fix panic on short attnets ENR entry](https://github.com/erigontech/erigon/pull/20493) - 2026-04-11
+* [Review] [Review on: [wip] RoSnapshots: lock-free .View method](https://github.com/erigontech/erigon/pull/20490#pullrequestreview-4093340494) - 2026-04-11
+* [Issue] [race in `main` in torrent announce](https://github.com/erigontech/erigon/issues/20491) - 2026-04-11
+* [Commit] [db/seg: arena-based MatchFinder (patricia trie) (#20136)](https://github.com/erigontech/erigon/commit/57ff4456ae04cacef7cdf8215cd06e09408eeef2) - 2026-04-11
+* [Commit] [cl/sentinel: fix panic on short attnets ENR entry (#20492)](https://github.com/erigontech/erigon/commit/933f98664152b7dd1004e65cef6ce0e38e33b9b5) - 2026-04-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026

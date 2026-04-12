@@ -49,6 +49,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079) - 2026-04-09
 * [Review] [Review on: style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079#pullrequestreview-4082779327) - 2026-04-09
 * [Review] [Review on: style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079#pullrequestreview-4092882800) - 2026-04-10
+* [Pull Request] [style: enforce target-typed new (IDE0090) as build error](https://github.com/NethermindEth/nethermind/pull/11103) - 2026-04-11
+* [Pull Request] [refactor: simplify snap+state sync dispatcher](https://github.com/NethermindEth/nethermind/pull/11102) - 2026-04-11
 ## Q1 2026
 
 

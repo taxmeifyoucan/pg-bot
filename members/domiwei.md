@@ -14,6 +14,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [[wip] p2p/sentry: cache StatusData with 2s TTL, merge dual db.View, fix aliasing](https://github.com/erigontech/erigon/pull/20464) - 2026-04-10
 * [Pull Request] [p2p/sentry: defensive copy of fork slices in StatusData](https://github.com/erigontech/erigon/pull/20463) - 2026-04-10
+* [Review] [Review on: cl/sentinel: fix panic on short attnets ENR entry](https://github.com/erigontech/erigon/pull/20492#pullrequestreview-4093477077) - 2026-04-11
+* [Review] [Review on: [r3.4] cl/sentinel: fix panic on short attnets ENR entry](https://github.com/erigontech/erigon/pull/20493#pullrequestreview-4093476802) - 2026-04-11
+* [Review] [Review on: [r3.4] logger: avoid mutex contention](https://github.com/erigontech/erigon/pull/20487#pullrequestreview-4093433177) - 2026-04-11
 ## Q1 2026
 
 

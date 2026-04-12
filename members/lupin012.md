@@ -54,6 +54,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547) - 2026-04-10
 * [Commit] [Standardize debug_trace according PR 762 execution apis (#547)](https://github.com/erigontech/rpc-tests/commit/158cddd16c733c73dd9be9e6ec8c64b4928cd5ff) - 2026-04-10
 * [Commit] [clear result after verify sync is done (#546)](https://github.com/erigontech/rpc-tests/commit/0ce8c7e0da12ef9daf9a32ea2830f99bc88b1d4f) - 2026-04-10
+* [Pull Request] [runner: add --max-failures flag to cap test output ](https://github.com/erigontech/rpc-tests/pull/548) - 2026-04-11
 ## Q1 2026
 
 

@@ -13,6 +13,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [added lookup to last persisted column indices at boot](https://github.com/status-im/nimbus-eth2/pull/8213) - 2026-04-01
 * [Review] [Review on: added lookup to last persisted column indices at boot](https://github.com/status-im/nimbus-eth2/pull/8213#pullrequestreview-4059657348) - 2026-04-05
+* [Review] [Review on: Replace Fulu data column GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8230#pullrequestreview-4093612503) - 2026-04-11
 ## Q1 2026
 
 

@@ -23,6 +23,7 @@ Team: Reth
 * [Pull Request] [chore(cli): validate Content-Range responses in reth download](https://github.com/paradigmxyz/reth/pull/23428) - 2026-04-09
 * [Review] [Review on: fix(download): respect `--datadir.static-files` during extraction](https://github.com/paradigmxyz/reth/pull/23445#pullrequestreview-4092625659) - 2026-04-10
 * [Pull Request] [chore(cli): make --resumable default](https://github.com/paradigmxyz/reth/pull/23451) - 2026-04-10
+* [Commit] [chore(cli): make --resumable default (#23451)](https://github.com/paradigmxyz/reth/commit/6aa2234d9a843b30ccfce71dd4e5b334e6d9f017) - 2026-04-11
 ## Q1 2026
 
 

@@ -8,6 +8,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 
 ## Contributions
 
+## Q2 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490) - 2026-04-11
 ## Q1 2026
 
 

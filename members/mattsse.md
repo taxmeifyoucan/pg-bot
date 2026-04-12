@@ -79,6 +79,12 @@ Team: Reth
 * [Review] [Review on: docs(rpc): mark admin_peerEvents, debug_traceChain, eth_mining, and eth_coinbase as not implemented](https://github.com/paradigmxyz/reth/pull/23431#pullrequestreview-4088025668) - 2026-04-10
 * [Issue] [Add support for downloading BAL in FullBlockClient](https://github.com/paradigmxyz/reth/issues/23433) - 2026-04-10
 * [Commit] [fix(net): seed peer range from handshake status (#23446)](https://github.com/paradigmxyz/reth/commit/fc3f465321674ad36aa684326c6bc2c47fdbbca5) - 2026-04-10
+* [Review] [Review on: refactor(examples): replace mev-share-sse with reqwest bytes_stream in beacon-api-sse](https://github.com/paradigmxyz/reth/pull/23458#pullrequestreview-4093646961) - 2026-04-11
+* [Pull Request] [feat(cli): add receipt overrides for download --full](https://github.com/paradigmxyz/reth/pull/23455) - 2026-04-11
+* [Review] [Review on: fix(net): correct full-tx propagation peer boundary](https://github.com/paradigmxyz/reth/pull/23439#pullrequestreview-4093550620) - 2026-04-11
+* [Review] [Review on: feat(eth-wire): introduce configurable maximum ETH message size acros…](https://github.com/paradigmxyz/reth/pull/22668#pullrequestreview-4093474616) - 2026-04-11
+* [Review] [Review on: fix(txpool): do not mark ExceedsFeeCap as a bad transaction](https://github.com/paradigmxyz/reth/pull/23450#pullrequestreview-4093420497) - 2026-04-11
+* [Review] [Review on: chore(cli): make --resumable default](https://github.com/paradigmxyz/reth/pull/23451#pullrequestreview-4093416687) - 2026-04-11
 ## Q1 2026
 
 

@@ -24,6 +24,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: nat stun: migrate to v3 lib](https://github.com/erigontech/erigon/pull/20341#pullrequestreview-4062189844) - 2026-04-06
 * [Review] [Review on: [wip] Log: replace additional structure for json by typed fields](https://github.com/erigontech/erigon/pull/20340#pullrequestreview-4062193599) - 2026-04-06
 * [Review] [Review on: debug_executionWitness: follow up](https://github.com/erigontech/erigon/pull/20345#pullrequestreview-4062185707) - 2026-04-06
+* [Review] [Review on: cmd/utils, node/cli: fix Cobra flag default parsing](https://github.com/erigontech/erigon/pull/20377#pullrequestreview-4093671106) - 2026-04-11
 ## Q1 2026
 
 

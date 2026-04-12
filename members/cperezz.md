@@ -18,6 +18,10 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [triedb/pathdb: fix lookup sentinel collision with zero disk layer root (#34680)](https://github.com/ethereum/go-ethereum/commit/3772bb536a67a2f17ed98244775eb16698f79140) - 2026-04-09
 * [Commit] [trie/bintrie: fix GetAccount/GetStorage non-membership — verify stem before returning values (#34690)](https://github.com/ethereum/go-ethereum/commit/deda47f6a1c0588b9e2600ca97552994c2889d37) - 2026-04-10
 * [Commit] [trie/bintrie: fix DeleteAccount no-op (#34676)](https://github.com/ethereum/go-ethereum/commit/f71a884e37857e6cbb093e2fc3e03b33bda85d6f) - 2026-04-10
+
+* [Pull Request] [core/state,triedb/pathdb: bintrie flat state support ](https://github.com/ethereum/go-ethereum/pull/34706) - 2026-04-12
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4094221117) - 2026-04-11
 ## Q1 2026
 
 

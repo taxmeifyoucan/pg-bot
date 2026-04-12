@@ -18,6 +18,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [feat(benchmarks): add runtime delegated EIP-7702 benchmarks (#2598)](https://github.com/ethereum/execution-specs/commit/553b2d72c67122a5fe581d0598e1c2c1fecb4abe) - 2026-04-03
 
 * [Review] [Review on: Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644#pullrequestreview-4083504048) - 2026-04-09
+* [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093467033) - 2026-04-11
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4083109528) - 2026-04-09
 ## Q1 2026

@@ -31,6 +31,7 @@ Team: Erigon
 * [Review] [Review on: [r3.4] deps: update fastkeccak](https://github.com/erigontech/erigon/pull/20365#pullrequestreview-4067300090) - 2026-04-07
 * [Review] [Review on: p2p/discover: enforce liveness check in v4 FINDNODE handler](https://github.com/erigontech/erigon/pull/20423#pullrequestreview-4078559442) - 2026-04-08
 * [Review] [Review on: [r3.4] db/state: return DomainRoTx IndexReaders to sync.Pool on Close](https://github.com/erigontech/erigon/pull/20461#pullrequestreview-4087640908) - 2026-04-10
+* [Review] [Review on: [r3.4] txpool: use poolDB tx for getCachedBlobTxnLocked](https://github.com/erigontech/erigon/pull/20489#pullrequestreview-4093850633) - 2026-04-11
 ## Q1 2026
 
 

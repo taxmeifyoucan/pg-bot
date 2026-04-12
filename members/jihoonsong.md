@@ -27,6 +27,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Fix Gloas genesis anchor state](https://github.com/ethereum/consensus-specs/pull/5067#pullrequestreview-4092239904) - 2026-04-10
 * [Review] [Review on: Fix merge conflict mistake](https://github.com/ethereum/consensus-specs/pull/5092#pullrequestreview-4089216529) - 2026-04-10
 * [Review] [Review on: Fix envelope `beacon_block_root` field name](https://github.com/ethereum/consensus-specs/pull/5093#pullrequestreview-4089208369) - 2026-04-10
+* [Review] [Review on: Fix Gloas genesis anchor state](https://github.com/ethereum/consensus-specs/pull/5067#pullrequestreview-4093254996) - 2026-04-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 ## Q1 2026

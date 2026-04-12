@@ -165,6 +165,8 @@ Team: Reth
 * [Commit] [refactor: invert no_dedup/no_dse to dedup/dse with positive defaults (#294)](https://github.com/paradigmxyz/revmc/commit/55b0550e152ea5323cd9e15d4b7319807cc32328) - 2026-04-10
 * [Commit] [feat: add no_dedup and no_dse pass controls (#293)](https://github.com/paradigmxyz/revmc/commit/61eb7af05cca1ec64c26dec353c6992da3b14983) - 2026-04-10
 * [Commit] [fix: propagate leader marks past dead code in rebuild_cfg (#292)](https://github.com/paradigmxyz/revmc/commit/987980a25f1c90118cd278bf303404a1d9e60b33) - 2026-04-10
+* [Pull Request] [refactor(tests): consolidate regression tests and use asm](https://github.com/paradigmxyz/revmc/pull/297) - 2026-04-11
+* [Commit] [refactor(tests): consolidate regression tests and use asm (#297)](https://github.com/paradigmxyz/revmc/commit/886bb3cca1f104b5db623dc5535be7e25e4d3576) - 2026-04-11
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07

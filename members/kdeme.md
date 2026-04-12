@@ -39,6 +39,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Stateless: Update zkevm_eest vectors to v0.3.3](https://github.com/status-im/nimbus-eth1/pull/4114) - 2026-04-10
 * [Review] [Review on: Feat:implement eth_feehistory and eth_maxPriorityFeePerGas ](https://github.com/status-im/nimbus-eth1/pull/4112#pullrequestreview-4088319126) - 2026-04-10
 * [Commit] [Stateless: Update zkevm_eest vectors to v0.3.3 (#4114)](https://github.com/status-im/nimbus-eth1/commit/e90b071bdc42777aa7f6a1ba22fa5a390edf0601) - 2026-04-10
+* [Review] [Review on: Feat:implement eth_feehistory and eth_maxPriorityFeePerGas ](https://github.com/status-im/nimbus-eth1/pull/4112#pullrequestreview-4093519986) - 2026-04-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 ## Q1 2026

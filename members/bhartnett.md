@@ -16,6 +16,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: Register witness keys for code access via extCodeSize](https://github.com/status-im/nimbus-eth1/pull/4094#pullrequestreview-4050262540) - 2026-04-02
 * [Review] [Review on: Witness: Fix block header ordening + fix off by 1](https://github.com/status-im/nimbus-eth1/pull/4100#pullrequestreview-4055536418) - 2026-04-03
 * [Commit] [Improve dynamic batch size settings (#4096)](https://github.com/status-im/nimbus-eth1/commit/7aa2874770d5162df6d2017fc9347021eb752070) - 2026-04-03
+* [Pull Request] [Use RlpArrayBufWriter for rlp encoding in stateroot computation](https://github.com/status-im/nimbus-eth1/pull/4115) - 2026-04-11
 ## Q1 2026
 
 

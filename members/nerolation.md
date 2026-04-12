@@ -17,6 +17,10 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8189: Use RLP empty str placeholder, add bytes parameter to GetBlockAccessLists](https://github.com/ethereum/EIPs/pull/11498) - 2026-04-09
 * [Commit] [Update EIP-8189: Use RLP empty str placeholder, add bytes parameter to GetBlockAccessLists](https://github.com/ethereum/EIPs/commit/3c8f89d1d24ed8b8fa5c47648d220e99b1ea0bbf) - 2026-04-09
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
+* [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11
 ## Q1 2026
 
 

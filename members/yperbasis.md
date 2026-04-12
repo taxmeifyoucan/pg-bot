@@ -96,11 +96,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: exec: fix partial block receipt reconstruction (#20452)](https://github.com/erigontech/erigon/pull/20467#pullrequestreview-4089027903) - 2026-04-10
 * [Review] [Review on: deps: update fastkeccak](https://github.com/erigontech/erigon/pull/20395#pullrequestreview-4087137079) - 2026-04-10
 * [Issue] [Remove Clique](https://github.com/erigontech/erigon/issues/20465) - 2026-04-10
+* [Review] [Review on: [r3.4] stagedsync: generate changesets near tip even during initialCycle](https://github.com/erigontech/erigon/pull/20496#pullrequestreview-4093647439) - 2026-04-11
+* [Pull Request] [stagedsync: generate changesets near tip even during initialCycle](https://github.com/erigontech/erigon/pull/20495) - 2026-04-11
+* [Review] [Review on: [r3.4] db/state: fix stale slot resurrection after unwind and deletion](https://github.com/erigontech/erigon/pull/20494#pullrequestreview-4093562070) - 2026-04-11
+* [Review] [Review on: [wip] [r3.4] protocol, stagedsync: count EIP-7002/7251 finalize syscall gas in block gas](https://github.com/erigontech/erigon/pull/20458#pullrequestreview-4093573420) - 2026-04-11
+* [Commit] [stagedsync: generate changesets near tip even during initialCycle (#20495)](https://github.com/erigontech/erigon/commit/d283d303fcd27a226d062925ce09505f05940acc) - 2026-04-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(amsterdam): EIP-7708 burn log when coinbase self-destructs](https://github.com/ethereum/execution-specs/pull/2634) - 2026-04-08
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Pull Request] [fix nil pointer panic in check_consensus_sync_status](https://github.com/ethpandaops/assertoor/pull/157) - 2026-04-11
 ## Q1 2026
 
 

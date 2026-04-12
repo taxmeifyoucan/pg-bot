@@ -50,6 +50,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [refactor(interpolation): replace free functions with Interpolate extension trait](https://github.com/Plonky3/Plonky3/pull/1540) - 2026-04-09
 * [Review] [Review on: Type Circle FRI Shape Errors](https://github.com/Plonky3/Plonky3/pull/1541#pullrequestreview-4090258534) - 2026-04-10
 * [Review] [Review on: refactor(koala-bear): simplify poseidon2 internal layer](https://github.com/Plonky3/Plonky3/pull/1542#pullrequestreview-4089781457) - 2026-04-10
+* [Pull Request] [feat(merkle-tree): add Merkle path pruning for compact multi-opening proofs](https://github.com/Plonky3/Plonky3/pull/1544) - 2026-04-11
+* [Review] [Review on: feat: add support for extensions of degree 3](https://github.com/Plonky3/Plonky3/pull/1497#pullrequestreview-4093980452) - 2026-04-11
 ## Q1 2026
 
 

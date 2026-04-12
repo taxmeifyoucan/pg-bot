@@ -31,6 +31,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [implement Heze operations test fixture](https://github.com/status-im/nimbus-eth2/pull/8239) - 2026-04-09
 * [Pull Request] [implement Heze slot sanity test fixture](https://github.com/status-im/nimbus-eth2/pull/8238) - 2026-04-09
 * [Pull Request] [implement Heze rewards test fixture](https://github.com/status-im/nimbus-eth2/pull/8248) - 2026-04-10
+* [Pull Request] [fix 32-bit builds, rm pointless @(mapIt(...)) wrapping, rm unused code](https://github.com/status-im/nimbus-eth2/pull/8251) - 2026-04-12
+* [Pull Request] [consolidate consensus spec test epoch transition fixtures into one module](https://github.com/status-im/nimbus-eth2/pull/8250) - 2026-04-11
+* [Pull Request] [consolidate all forks' consensus spec test rewards fixtures into one module](https://github.com/status-im/nimbus-eth2/pull/8249) - 2026-04-11
 ## Q1 2026
 
 
