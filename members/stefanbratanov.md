@@ -17,6 +17,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: gloas DA checks](https://github.com/Consensys/teku/pull/10504#pullrequestreview-4081282993) - 2026-04-09
 * [Review] [Review on: Add support for v1.7.0-alpha.4](https://github.com/Consensys/teku/pull/10544#pullrequestreview-4081012824) - 2026-04-09
 * [Commit] [Add support for v1.7.0-alpha.4 (#10544)](https://github.com/Consensys/teku/commit/f0ad5d2fcd321cfa72b645e53db82b03e7d4e39e) - 2026-04-09
+* [Pull Request] [Add payload attestations to blocks](https://github.com/Consensys/teku/pull/10549) - 2026-04-12
 ## Q1 2026
 
 

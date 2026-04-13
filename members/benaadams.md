@@ -46,6 +46,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 * [Pull Request] [Add EIP: Counterfactual Transaction](https://github.com/ethereum/EIPs/pull/11518) - 2026-04-12
 * [Pull Request] [Add EIP: Contract Payer Transaction](https://github.com/ethereum/EIPs/pull/11509) - 2026-04-11
+* [Pull Request] [Update EIP-8141: Tighten spec](https://github.com/ethereum/EIPs/pull/11521) - 2026-04-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4081943781) - 2026-04-09
 ## Q1 2026

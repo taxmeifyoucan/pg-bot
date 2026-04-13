@@ -14,6 +14,9 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [Add eth_fillTransaction RPC method](https://github.com/NethermindEth/nethermind/pull/11056) - 2026-04-06
 * [Review] [Review on: style: enforce explicit type over var (IDE0008)](https://github.com/NethermindEth/nethermind/pull/11079#pullrequestreview-4082142165) - 2026-04-09
+* [Pull Request] [Add eth_fillTransaction JSON-RPC method](https://github.com/NethermindEth/nethermind/pull/11111) - 2026-04-12
+* [Review] [Review on: Add eth_fillTransaction JSON-RPC method](https://github.com/NethermindEth/nethermind/pull/11111#pullrequestreview-4095680857) - 2026-04-12
+* [Review] [Review on: ci: bump tests-spec timeout to 20m](https://github.com/NethermindEth/nethermind/pull/11109#pullrequestreview-4095254911) - 2026-04-12
 ## Q1 2026
 
 

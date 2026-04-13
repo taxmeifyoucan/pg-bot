@@ -85,6 +85,11 @@ Team: Reth
 * [Review] [Review on: feat(eth-wire): introduce configurable maximum ETH message size acros…](https://github.com/paradigmxyz/reth/pull/22668#pullrequestreview-4093474616) - 2026-04-11
 * [Review] [Review on: fix(txpool): do not mark ExceedsFeeCap as a bad transaction](https://github.com/paradigmxyz/reth/pull/23450#pullrequestreview-4093420497) - 2026-04-11
 * [Review] [Review on: chore(cli): make --resumable default](https://github.com/paradigmxyz/reth/pull/23451#pullrequestreview-4093416687) - 2026-04-11
+* [Review] [Review on: perf(txpool): use FxHashMap/FxHashSet for TxHash-heavy containers](https://github.com/paradigmxyz/reth/pull/23037#pullrequestreview-4094750146) - 2026-04-12
+* [Pull Request] [perf(trie): parallelize merge_ancestors_into_overlay](https://github.com/paradigmxyz/reth/pull/21473) - 2026-04-12
+* [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23464#pullrequestreview-4094754270) - 2026-04-12
+* [Review] [Review on: ci: add affected-crate detection to skip unchanged tests](https://github.com/paradigmxyz/reth/pull/23352#pullrequestreview-4094874089) - 2026-04-12
+* [Commit] [perf(trie): parallelize merge_ancestors_into_overlay (#21473)](https://github.com/paradigmxyz/reth/commit/a9bd38a43e009d438d9f9ac9926dcaa92e08b1d6) - 2026-04-12
 ## Q1 2026
 
 

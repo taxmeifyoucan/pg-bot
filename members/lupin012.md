@@ -46,6 +46,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: expose testing_ namespace via --http.api on port 8545](https://github.com/erigontech/erigon/pull/20482) - 2026-04-10
 * [Pull Request] [rpc: tracing logger memory encoding](https://github.com/erigontech/erigon/pull/20478) - 2026-04-10
 * [Commit] [rpc: fix null result unmarshalling in CallContext (#20393)](https://github.com/erigontech/erigon/commit/4f0034b390fc178e615683b9ad81eec8a8804a65) - 2026-04-10
+* [Review] [Review on: rpc: return -32602 when eth_getLogs exceeds block range limit](https://github.com/erigontech/erigon/pull/20424#pullrequestreview-4095307375) - 2026-04-12
+* [Commit] [rpc: tracing logger memory encoding (#20478)](https://github.com/erigontech/erigon/commit/36ba6edcde8c1305c205cd8c8d5c88c4c503bacc) - 2026-04-12
+* [Commit] [rpc : fix eth_simulateV1 has storage ram batch (#20293)](https://github.com/erigontech/erigon/commit/fa708fcfdf1c281ae4971f66b3b65bc6bc3479f5) - 2026-04-12
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

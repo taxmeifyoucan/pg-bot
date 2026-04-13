@@ -167,6 +167,11 @@ Team: Reth
 * [Commit] [fix: propagate leader marks past dead code in rebuild_cfg (#292)](https://github.com/paradigmxyz/revmc/commit/987980a25f1c90118cd278bf303404a1d9e60b33) - 2026-04-10
 * [Pull Request] [refactor(tests): consolidate regression tests and use asm](https://github.com/paradigmxyz/revmc/pull/297) - 2026-04-11
 * [Commit] [refactor(tests): consolidate regression tests and use asm (#297)](https://github.com/paradigmxyz/revmc/commit/886bb3cca1f104b5db623dc5535be7e25e4d3576) - 2026-04-11
+* [Pull Request] [chore(deps): bump](https://github.com/paradigmxyz/revmc/pull/299) - 2026-04-12
+* [Pull Request] [chore: tweak build script](https://github.com/paradigmxyz/revmc/pull/298) - 2026-04-12
+* [Commit] [chore(deps): bump (#299)](https://github.com/paradigmxyz/revmc/commit/cc79024cb300734f3d8dfcbc5f7466e1a28d4f3b) - 2026-04-12
+* [Commit] [chore: tweak build script (#298)](https://github.com/paradigmxyz/revmc/commit/0321e6a3586527278df9577b6995b92e994f407f) - 2026-04-12
+* [Commit] [chore(ci): hardcode LLVM version in install script](https://github.com/paradigmxyz/revmc/commit/1aa03dac076731b021f4aea81a26c4a0c7149c3f) - 2026-04-12
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -175,6 +180,11 @@ Team: Reth
 * [Review] [Review on: chore: remove changelog workflow and .changelog directory](https://github.com/paradigmxyz/reth/pull/23376#pullrequestreview-4068010583) - 2026-04-07
 * [Review] [Review on: ci: remove PGO from CI workflows](https://github.com/paradigmxyz/reth/pull/23405#pullrequestreview-4077107717) - 2026-04-08
 * [Review] [Review on: feat(docker): enable jemalloc-prof in nightly images](https://github.com/paradigmxyz/reth/pull/23396#pullrequestreview-4076223875) - 2026-04-08
+
+* [Review] [Review on: perf(txpool): use FxHashMap/FxHashSet for TxHash-heavy containers](https://github.com/paradigmxyz/reth/pull/23037#pullrequestreview-4095819035) - 2026-04-12
+* [Review] [Review on: perf(trie): parallelize merge_ancestors_into_overlay](https://github.com/paradigmxyz/reth/pull/21473#pullrequestreview-4094985536) - 2026-04-12
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 ## Q1 2026
 
 

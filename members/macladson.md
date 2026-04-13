@@ -20,6 +20,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Add method to `Hash256` to display shortened hashes](https://github.com/sigp/lighthouse/pull/9118#pullrequestreview-4082416038) - 2026-04-09
 * [Review] [Review on: Bump `warp` and begin `axum` migration](https://github.com/sigp/lighthouse/pull/9001#pullrequestreview-4083193943) - 2026-04-09
 * [Review] [Review on: Truncated `Display` impl for `ExecutionBlockHash`](https://github.com/sigp/lighthouse/pull/9108#pullrequestreview-4081787306) - 2026-04-09
+* [Review] [Review on: Add method to `Hash256` to display shortened hashes](https://github.com/sigp/lighthouse/pull/9118#pullrequestreview-4095027845) - 2026-04-12
 ## Q1 2026
 
 

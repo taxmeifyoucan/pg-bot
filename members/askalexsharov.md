@@ -170,6 +170,12 @@ Team: Erigon
 * [Issue] [race in `main` in torrent announce](https://github.com/erigontech/erigon/issues/20491) - 2026-04-11
 * [Commit] [db/seg: arena-based MatchFinder (patricia trie) (#20136)](https://github.com/erigontech/erigon/commit/57ff4456ae04cacef7cdf8215cd06e09408eeef2) - 2026-04-11
 * [Commit] [cl/sentinel: fix panic on short attnets ENR entry (#20492)](https://github.com/erigontech/erigon/commit/933f98664152b7dd1004e65cef6ce0e38e33b9b5) - 2026-04-11
+* [Pull Request] [cherry-pick 14 commits from release/3.4 to main](https://github.com/erigontech/erigon/pull/20497) - 2026-04-12
+* [Pull Request] [[wip] [r3.4]: db/state: add prune consistency assertion (AGG_ASSERT_PRUNE)](https://github.com/erigontech/erigon/pull/20507) - 2026-04-13
+* [Review] [Review on: integrity: fix SnapBlocksRead --to upper bound](https://github.com/erigontech/erigon/pull/20506#pullrequestreview-4096065819) - 2026-04-13
+* [Review] [Review on: db: atomic per-key prune deletion, prune consistency assertion](https://github.com/erigontech/erigon/pull/20503#pullrequestreview-4096010687) - 2026-04-13
+* [Review] [Review on: clean up PR 20265: remove misleading #20169 attribution from StateCache tests](https://github.com/erigontech/erigon/pull/20498#pullrequestreview-4094859310) - 2026-04-12
+* [Review] [Review on: rpc: tracing logger memory encoding](https://github.com/erigontech/erigon/pull/20478#pullrequestreview-4094990395) - 2026-04-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026

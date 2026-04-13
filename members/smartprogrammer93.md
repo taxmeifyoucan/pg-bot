@@ -27,6 +27,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Add L1STATICCALL precompile and witness RPC](https://github.com/NethermindEth/nethermind/pull/11017#pullrequestreview-4080956191) - 2026-04-09
 * [Review] [Review on: chore: Revise CODEOWNERS](https://github.com/NethermindEth/nethermind/pull/11099#pullrequestreview-4092528924) - 2026-04-10
 * [Review] [Review on: eth_getBlockByNumber - Remove totalDifficulty](https://github.com/NethermindEth/nethermind/pull/11097#pullrequestreview-4092424637) - 2026-04-10
+* [Review] [Review on: ci: bump tests-spec timeout to 20m](https://github.com/NethermindEth/nethermind/pull/11109#pullrequestreview-4095470345) - 2026-04-12
 ## Q1 2026
 
 

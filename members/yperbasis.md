@@ -101,6 +101,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] db/state: fix stale slot resurrection after unwind and deletion](https://github.com/erigontech/erigon/pull/20494#pullrequestreview-4093562070) - 2026-04-11
 * [Review] [Review on: [wip] [r3.4] protocol, stagedsync: count EIP-7002/7251 finalize syscall gas in block gas](https://github.com/erigontech/erigon/pull/20458#pullrequestreview-4093573420) - 2026-04-11
 * [Commit] [stagedsync: generate changesets near tip even during initialCycle (#20495)](https://github.com/erigontech/erigon/commit/d283d303fcd27a226d062925ce09505f05940acc) - 2026-04-11
+* [Review] [Review on: rpc: expose testing_ namespace via --http.api on port 8545](https://github.com/erigontech/erigon/pull/20482#pullrequestreview-4094838843) - 2026-04-12
+* [Pull Request] [all: reduce code duplication across codebase](https://github.com/erigontech/erigon/pull/20504) - 2026-04-12
+* [Pull Request] [execution: fix BAL recording when coinbase == transaction target](https://github.com/erigontech/erigon/pull/20501) - 2026-04-12
+* [Pull Request] [clean up PR 20265: remove misleading #20169 attribution from StateCache tests](https://github.com/erigontech/erigon/pull/20498) - 2026-04-12
+* [Commit] [clean up PR 20265: remove misleading #20169 attribution from StateCache tests (#20498)](https://github.com/erigontech/erigon/commit/900a5d07ef0c7739afe24e1a32aded73684122f0) - 2026-04-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
@@ -109,6 +114,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [fix nil pointer panic in check_consensus_sync_status](https://github.com/ethpandaops/assertoor/pull/157) - 2026-04-11
+* [Commit] [getClientInfo: early return with explicit fields on nil syncStatus](https://github.com/ethpandaops/assertoor/commit/f2c7f0c443a54c06bca5abd839e6e99f9b6f619c) - 2026-04-12
 ## Q1 2026
 
 

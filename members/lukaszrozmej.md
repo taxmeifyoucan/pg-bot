@@ -77,6 +77,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: eth_getBlockByNumber - Remove totalDifficulty](https://github.com/NethermindEth/nethermind/pull/11097#pullrequestreview-4093697187) - 2026-04-11
 * [Review] [Review on: style: enforce target-typed new (IDE0090) as build error](https://github.com/NethermindEth/nethermind/pull/11103#pullrequestreview-4093696257) - 2026-04-11
 * [Commit] [fix: validate filter string length before re-parsing (#11086)](https://github.com/NethermindEth/nethermind/commit/fcd0d0258be4af51f87995109d3c516b9c5ce97e) - 2026-04-11
+* [Review] [Review on: ci: bump tests-spec timeout to 20m](https://github.com/NethermindEth/nethermind/pull/11109#pullrequestreview-4095410305) - 2026-04-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 ## Q1 2026

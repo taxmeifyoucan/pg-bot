@@ -44,6 +44,8 @@ Team: Erigon
 * [Pull Request] [plugins/auth: add UCAN core library with EOA signer and MDBX store](https://github.com/erigontech/erigon/pull/20472) - 2026-04-10
 * [Pull Request] [node/components: extract downloader from backend.go, add event guidelines](https://github.com/erigontech/erigon/pull/20471) - 2026-04-10
 * [Commit] [cl: replace Clique dev mode with embedded PoS consensus (#20451)](https://github.com/erigontech/erigon/commit/4d52bd5e14bb09240d538ada7535788e7b3d8de2) - 2026-04-10
+* [Pull Request] [db: atomic per-key prune deletion, prune consistency assertion](https://github.com/erigontech/erigon/pull/20503) - 2026-04-12
+* [Pull Request] [db: atomic per-key prune deletion, ViewID fix, collation step assertion](https://github.com/erigontech/erigon/pull/20502) - 2026-04-12
 ## Q1 2026
 
 
