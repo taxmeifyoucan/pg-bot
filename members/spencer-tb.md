@@ -30,6 +30,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): add nested CREATE state gas and access list gas tests](https://github.com/ethereum/execution-specs/pull/2639) - 2026-04-09
 * [Review] [Review on: refactor(tests): Enhance heavy ported tests](https://github.com/ethereum/execution-specs/pull/2623#pullrequestreview-4088666758) - 2026-04-10
 * [Review] [Review on: feat(test-plugins-forks): Introduce `pytest.mark.valid_before`](https://github.com/ethereum/execution-specs/pull/2647#pullrequestreview-4089203203) - 2026-04-10
+* [Review] [Review on: feat(test-benchmark): add cache strategy to storage benchmark](https://github.com/ethereum/execution-specs/pull/2628#pullrequestreview-4100076443) - 2026-04-13
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 
@@ -54,6 +55,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [eest: add standalone CLI runners for statetest, blocktest, and enginetest](https://github.com/status-im/nimbus-eth1/pull/4101) - 2026-04-05
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8037: more clarifcations for state gas accounting](https://github.com/ethereum/EIPs/pull/11523) - 2026-04-13
 ## Q1 2026
 
 

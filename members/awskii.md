@@ -53,6 +53,15 @@ Team: Erigon
 * [Review] [Review on: execution/types/stateless: reject empty witness headers during decode](https://github.com/erigontech/erigon/pull/20432#pullrequestreview-4093629633) - 2026-04-11
 * [Commit] [commitment: add TrieReader — stateless read-only Patricia trie navigation (#20287)](https://github.com/erigontech/erigon/commit/d84a31285a963e4a99e501e3c4f79d1ea4d177be) - 2026-04-11
 * [Commit] [db/state: fix stale slot resurrection after unwind and deletion (#20483)](https://github.com/erigontech/erigon/commit/a91d49812f77af2afe743c78861f1d7996faaa47) - 2026-04-11
+* [Pull Request] [eest: add EIP-8025 execution witness test suite (93 zkevm fixtures)](https://github.com/erigontech/erigon/pull/20533) - 2026-04-13
+* [Pull Request] [commitment: replace warmup cache with CachingPatriciaContext read-through layer](https://github.com/erigontech/erigon/pull/20535) - 2026-04-13
+* [Pull Request] [seg rm-state: improve interactive menu display](https://github.com/erigontech/erigon/pull/20525) - 2026-04-13
+* [Review] [Review on: revert "db/state: fix stale slot resurrection after unwind and deletion (#20483)"](https://github.com/erigontech/erigon/pull/20509#pullrequestreview-4098277624) - 2026-04-13
+* [Review] [Review on: seg: `MatchCmp()` unit-tests and zero-copy](https://github.com/erigontech/erigon/pull/19845#pullrequestreview-4098258487) - 2026-04-13
+* [Review] [Review on: [r3.4] revert "db/state: fix stale slot resurrection after unwind and deletion (#20494)"](https://github.com/erigontech/erigon/pull/20513#pullrequestreview-4098268922) - 2026-04-13
+* [Review] [Review on: db/state: fix domain collation/pruning race causing gas mismatches](https://github.com/erigontech/erigon/pull/20445#pullrequestreview-4098056415) - 2026-04-13
+* [Issue] [Fix EIP-8025 witness generation to pass EEST zkevm fixtures](https://github.com/erigontech/erigon/issues/20534) - 2026-04-13
+* [Commit] [seg rm-state: improve interactive menu display (#20525)](https://github.com/erigontech/erigon/commit/ef56c9b96895faeb17c78f1d6c69da7fa123fb2f) - 2026-04-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

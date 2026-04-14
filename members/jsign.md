@@ -18,6 +18,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(specs): add specs and tests for EIP-7709](https://github.com/ethereum/execution-specs/pull/2619) - 2026-04-03
 * [Pull Request] [feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635) - 2026-04-08
 * [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4075709601) - 2026-04-08
+* [Pull Request] [feat(zkevm): add execution witness support to other fixture formats](https://github.com/ethereum/execution-specs/pull/2667) - 2026-04-13
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01
@@ -34,6 +35,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08
 
+* [Pull Request] [feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289) - 2026-04-13
+* [Commit] [feat(stateless): make witness generation conform to the draft specs (#22289)](https://github.com/paradigmxyz/reth/commit/a05960ab07acae0d933a5a2cd69a11044719841a) - 2026-04-13
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Introduction of REST based + SSZ serialized `new-payload-with-witness`](https://github.com/ethereum/execution-apis/pull/773#pullrequestreview-4094049144) - 2026-04-11
 ## Q1 2026

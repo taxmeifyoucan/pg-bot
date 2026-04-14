@@ -39,6 +39,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: queue beacon block awaiting parent payload envelope](https://github.com/ChainSafe/lodestar/pull/9179#pullrequestreview-4060755984) - 2026-04-06
 * [Review] [Review on: fix: validate MIN_EPOCHS for blob/data column by range/root requests](https://github.com/ChainSafe/lodestar/pull/9173#pullrequestreview-4060316329) - 2026-04-06
 * [Review] [Review on: feat: add endpoint to retrieve signed execution payload envelope](https://github.com/ChainSafe/lodestar/pull/9186#pullrequestreview-4091894363) - 2026-04-10
+* [Review] [Review on: chore: v1.42.0 release](https://github.com/ChainSafe/lodestar/pull/9169#pullrequestreview-4098640641) - 2026-04-13
+* [Commit] [docs: update RELEASE.md (#9172)](https://github.com/ChainSafe/lodestar/commit/6641fd750efc92ddca23760313a13bf4841d6306) - 2026-04-13
+* [Commit] [chore: merge v1.42.0 back to unstable (#9210)](https://github.com/ChainSafe/lodestar/commit/568a81a1487c82114c5c21f8ff757623af0b072f) - 2026-04-13
+* [Commit] [chore: v1.42.0 release (#9169)](https://github.com/ChainSafe/lodestar/commit/443e0a476dd6ff62f5977875741de0a38ba4e1ef) - 2026-04-13
 ## Q1 2026
 
 

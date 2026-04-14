@@ -17,6 +17,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/sentinel: fix panic on short attnets ENR entry](https://github.com/erigontech/erigon/pull/20492#pullrequestreview-4093477077) - 2026-04-11
 * [Review] [Review on: [r3.4] cl/sentinel: fix panic on short attnets ENR entry](https://github.com/erigontech/erigon/pull/20493#pullrequestreview-4093476802) - 2026-04-11
 * [Review] [Review on: [r3.4] logger: avoid mutex contention](https://github.com/erigontech/erigon/pull/20487#pullrequestreview-4093433177) - 2026-04-11
+* [Review] [Review on: cherry-pick 14 commits from release/3.4 to main](https://github.com/erigontech/erigon/pull/20497#pullrequestreview-4096717204) - 2026-04-13
 ## Q1 2026
 
 

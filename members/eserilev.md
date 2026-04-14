@@ -34,6 +34,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas bid and preference verification](https://github.com/sigp/lighthouse/pull/9036#pullrequestreview-4086858192) - 2026-04-10
 * [Review] [Review on: Gloas sync notifier logs](https://github.com/sigp/lighthouse/pull/9101#pullrequestreview-4095087652) - 2026-04-12
 * [Review] [Review on: fix(notifier): show payload_envelope_status for Gloas instead of n/a](https://github.com/sigp/lighthouse/pull/9120#pullrequestreview-4095077532) - 2026-04-12
+* [Review] [Review on: Ensure payload envelope streamer always serves canonical envelopes after the split slot](https://github.com/sigp/lighthouse/pull/9085#pullrequestreview-4098612535) - 2026-04-13
+* [Review] [Review on: Gloas bid and preference verification](https://github.com/sigp/lighthouse/pull/9036#pullrequestreview-4096872916) - 2026-04-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 ## Q1 2026

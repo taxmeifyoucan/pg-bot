@@ -46,6 +46,11 @@ Team: Erigon
 * [Commit] [cl: replace Clique dev mode with embedded PoS consensus (#20451)](https://github.com/erigontech/erigon/commit/4d52bd5e14bb09240d538ada7535788e7b3d8de2) - 2026-04-10
 * [Pull Request] [db: atomic per-key prune deletion, prune consistency assertion](https://github.com/erigontech/erigon/pull/20503) - 2026-04-12
 * [Pull Request] [db: atomic per-key prune deletion, ViewID fix, collation step assertion](https://github.com/erigontech/erigon/pull/20502) - 2026-04-12
+* [Pull Request] [node/components/storage/snapshot: add file inventory, trust model, range arithmetic](https://github.com/erigontech/erigon/pull/20527) - 2026-04-13
+* [Pull Request] [downloader: decentralized snapshot distribution via chain.toml P2P discovery](https://github.com/erigontech/erigon/pull/20526) - 2026-04-13
+* [Review] [Review on: execution: fix BAL recording when coinbase == transaction target](https://github.com/erigontech/erigon/pull/20501#pullrequestreview-4097397000) - 2026-04-13
+* [Issue] [db/state: merge schedule non-determinism across nodes — impacts decentralized snapshot distribution](https://github.com/erigontech/erigon/issues/20531) - 2026-04-13
+* [Commit] [exec: fix partial block receipt reconstruction (#20452) (#20467)](https://github.com/erigontech/erigon/commit/50fd650c49424579bb5ba390c82abda31239d20f) - 2026-04-13
 ## Q1 2026
 
 

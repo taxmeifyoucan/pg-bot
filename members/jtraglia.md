@@ -51,6 +51,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Remove epoch param from slot deadline functions](https://github.com/ethereum/consensus-specs/pull/5095) - 2026-04-10
 * [Commit] [Add more `process_deposit_request` tests (#5086)](https://github.com/ethereum/consensus-specs/commit/4d94b9e50e79d1fe796a1d8475a658bfa8ed792e) - 2026-04-10
 * [Commit] [Fix merge conflict mistake (#5092)](https://github.com/ethereum/consensus-specs/commit/bfbef99d7dce0c56a2032cc737fb63163425a3d9) - 2026-04-10
+* [Review] [Review on: Fix non-empty transactions execution payload tests](https://github.com/ethereum/consensus-specs/pull/5101#pullrequestreview-4098810073) - 2026-04-13
+* [Pull Request] [Define deprecated functions for each upgrade](https://github.com/ethereum/consensus-specs/pull/5105) - 2026-04-13
+* [Pull Request] [Bump version to v1.7.0-alpha.5](https://github.com/ethereum/consensus-specs/pull/5104) - 2026-04-13
+* [Review] [Review on: Update release-drafter/release-drafter action to v7.2.0](https://github.com/ethereum/consensus-specs/pull/5102#pullrequestreview-4100387546) - 2026-04-13
+* [Review] [Review on: Update dependency ruff to v0.15.10](https://github.com/ethereum/consensus-specs/pull/5100#pullrequestreview-4100343643) - 2026-04-13
+* [Review] [Review on: Update dependency mypy to v1.20.1](https://github.com/ethereum/consensus-specs/pull/5099#pullrequestreview-4100143192) - 2026-04-13
+* [Review] [Review on: Update dependency rich to v15](https://github.com/ethereum/consensus-specs/pull/5103#pullrequestreview-4098841111) - 2026-04-13
+* [Review] [Review on: Update actions/upload-artifact action to v7.0.1](https://github.com/ethereum/consensus-specs/pull/5097#pullrequestreview-4098830724) - 2026-04-13
+* [Commit] [In networking tests, yield values after mutating them (#5050)](https://github.com/ethereum/consensus-specs/commit/0297e90f874343e1f1ba75b624ef4cc4d512f601) - 2026-04-13
+* [Commit] [Bump version to v1.7.0-alpha.5 (#5104)](https://github.com/ethereum/consensus-specs/commit/50e3291ee678cca742153843d18463fc9d0aff53) - 2026-04-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 ## Q1 2026

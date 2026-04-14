@@ -23,6 +23,10 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge branch 'main' into rm_shoham](https://github.com/protocolguild/documentation/commit/9fe41b4298f704767e6d5b574c69a889aa3e0274) - 2026-04-09
 * [Commit] [Merge pull request #478 from somnergy/patch-1](https://github.com/protocolguild/documentation/commit/60ffb8f5b0eec0d58d438299ca2f180940d2134b) - 2026-04-09
 * [Commit] [Merge pull request #477 from pk910/propose-qu0b](https://github.com/protocolguild/documentation/commit/91064d0e9e0b07e9a8274074ac61605b379d9b73) - 2026-04-09
+
+[protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
+* [Pull Request] [Extend hero image, fix social cards + dark more favicon](https://github.com/protocolguild/protocol-guild-site/pull/57) - 2026-04-13
+* [Commit] [Merge pull request #57 from protocolguild/staging3](https://github.com/protocolguild/protocol-guild-site/commit/3f3c631fc0a5787812805c9a305bb1c2d854026b) - 2026-04-13
 ## Q1 2026
 
 

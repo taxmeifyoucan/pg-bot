@@ -52,6 +52,23 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [style: enforce target-typed new (IDE0090) as build error](https://github.com/NethermindEth/nethermind/pull/11103) - 2026-04-11
 * [Pull Request] [refactor: simplify snap+state sync dispatcher](https://github.com/NethermindEth/nethermind/pull/11102) - 2026-04-11
 * [Commit] [style: enforce explicit type over var (IDE0008) (#11079)](https://github.com/NethermindEth/nethermind/commit/fbd64d60c7870fdb19ae6dc056934b77d59e265d) - 2026-04-13
+* [Review] [Review on: fix: cap compact log entry zero-prefix data expansion](https://github.com/NethermindEth/nethermind/pull/11110#pullrequestreview-4096492681) - 2026-04-13
+* [Pull Request] [style: enable nullable for Logging, Config, and leaf packages](https://github.com/NethermindEth/nethermind/pull/11119) - 2026-04-13
+* [Pull Request] [fix: return NoopSnapServer instead of null for HashDB](https://github.com/NethermindEth/nethermind/pull/11116) - 2026-04-13
+* [Review] [Review on: fix: return NoopSnapServer instead of null for HashDB](https://github.com/NethermindEth/nethermind/pull/11116#pullrequestreview-4097448227) - 2026-04-13
+* [Pull Request] [refactor: remove long range catch-up sync](https://github.com/NethermindEth/nethermind/pull/11123) - 2026-04-13
+* [Review] [Review on: refactor: remove long range catch-up sync](https://github.com/NethermindEth/nethermind/pull/11123#pullrequestreview-4098172388) - 2026-04-13
+* [Review] [Review on: refactor: simplify snap+state sync dispatcher](https://github.com/NethermindEth/nethermind/pull/11102#pullrequestreview-4096549383) - 2026-04-13
+* [Review] [Review on: ci: chunk Legacy VM test on ubuntu-latest for coverage](https://github.com/NethermindEth/nethermind/pull/11113#pullrequestreview-4096487337) - 2026-04-13
+* [Pull Request] [ci: make EVM benchmark iteration counts configurable](https://github.com/NethermindEth/nethermind/pull/11118) - 2026-04-13
+* [Pull Request] [style: enforce primary constructors (IDE0290) as build error](https://github.com/NethermindEth/nethermind/pull/11117) - 2026-04-13
+* [Review] [Review on: fix: use DbNames constants for discovery store paths](https://github.com/NethermindEth/nethermind/pull/11108#pullrequestreview-4096522127) - 2026-04-13
+* [Pull Request] [fix: return NoopSnapServer instead of null for HashDB](https://github.com/NethermindEth/nethermind/pull/11115) - 2026-04-13
+* [Commit] [fix: return NoopSnapServer instead of null for HashDB (#11116)](https://github.com/NethermindEth/nethermind/commit/68259f653b340b8d4f7f28792310cb58e190cc7b) - 2026-04-13
+* [Commit] [style: enforce primary constructors (IDE0290) as build error (#11117)](https://github.com/NethermindEth/nethermind/commit/24efa85f6d397bfae32e9673181e94174127a815) - 2026-04-13
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026
 
 

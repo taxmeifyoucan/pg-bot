@@ -54,6 +54,27 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Skip inclusion proof verification for Gloas data columns (#16647)](https://github.com/OffchainLabs/prysm/commit/de34b4dfae60e2e2072704d1ccdcca5fb84f2fc3) - 2026-04-10
 * [Commit] [Decode Gloas data columns using correct protobuf type over RPC (#16648)](https://github.com/OffchainLabs/prysm/commit/ccf61fb91bbc5aa82f7dfc0ff89ad9338ad98634) - 2026-04-10
 * [Commit] [Add missing fields to Gloas genesis block bid (#16646)](https://github.com/OffchainLabs/prysm/commit/e9fdeee7bba69545a294527a85c63b1bb31ec4ce) - 2026-04-10
+* [Pull Request] [Implement defer payload processing](https://github.com/OffchainLabs/prysm/pull/16658) - 2026-04-13
+* [Pull Request] [9/9 API/testing: update test utilities and API structs for deferred processing](https://github.com/OffchainLabs/prysm/pull/16680) - 2026-04-13
+* [Pull Request] [8/9 DB/execution/verification: cleanup for deferred payload processing](https://github.com/OffchainLabs/prysm/pull/16679) - 2026-04-13
+* [Pull Request] [7/9 RPC: update proposer for deferred payload processing](https://github.com/OffchainLabs/prysm/pull/16678) - 2026-04-13
+* [Pull Request] [6/9 Sync: update block and envelope validation for deferred processing](https://github.com/OffchainLabs/prysm/pull/16677) - 2026-04-13
+* [Pull Request] [5/9 Blockchain: update block processing and FCU for deferred payload](https://github.com/OffchainLabs/prysm/pull/16676) - 2026-04-13
+* [Pull Request] [4/9 Core/gloas: add ProcessParentExecutionPayload for deferred processing](https://github.com/OffchainLabs/prysm/pull/16675) - 2026-04-13
+* [Pull Request] [3/9 Core/transition: remove ProcessSlotsForBlock, simplify NSC key](https://github.com/OffchainLabs/prysm/pull/16674) - 2026-04-13
+* [Pull Request] [2/9 State: add QueueBuilderPaymentForSlot and update stategen for deferred processing](https://github.com/OffchainLabs/prysm/pull/16673) - 2026-04-13
+* [Pull Request] [1/9 Add proto fields and consensus types for deferred payload processing](https://github.com/OffchainLabs/prysm/pull/16671) - 2026-04-13
+* [Pull Request] [/9 ](https://github.com/OffchainLabs/prysm/pull/16672) - 2026-04-13
+* [Pull Request] [api/testing: update test utilities and API structs for deferred processing](https://github.com/OffchainLabs/prysm/pull/16670) - 2026-04-13
+* [Pull Request] [db/execution/verification: cleanup for deferred payload processing](https://github.com/OffchainLabs/prysm/pull/16669) - 2026-04-13
+* [Pull Request] [rpc: update proposer for deferred payload processing](https://github.com/OffchainLabs/prysm/pull/16668) - 2026-04-13
+* [Pull Request] [sync: update block and envelope validation for deferred processing](https://github.com/OffchainLabs/prysm/pull/16667) - 2026-04-13
+* [Pull Request] [blockchain: update block processing and FCU for deferred payload](https://github.com/OffchainLabs/prysm/pull/16666) - 2026-04-13
+* [Pull Request] [core/gloas: add ProcessParentExecutionPayload for deferred processing](https://github.com/OffchainLabs/prysm/pull/16665) - 2026-04-13
+* [Pull Request] [core/transition: remove ProcessSlotsForBlock, use ProcessSlotsUsingNextSlotCache directly](https://github.com/OffchainLabs/prysm/pull/16664) - 2026-04-13
+* [Pull Request] [state: add QueueBuilderPaymentForSlot and update stategen for deferred processing](https://github.com/OffchainLabs/prysm/pull/16663) - 2026-04-13
+* [Pull Request] [consensus-types: add ParentBlockHash getter and ParentExecutionRequests interface](https://github.com/OffchainLabs/prysm/pull/16662) - 2026-04-13
+* [Pull Request] [proto: add parent_block_hash and execution_requests_root to ExecutionPayloadBid](https://github.com/OffchainLabs/prysm/pull/16661) - 2026-04-13
 ## Q1 2026
 
 

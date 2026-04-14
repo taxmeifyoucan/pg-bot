@@ -24,6 +24,10 @@ Team: Reth
 * [Review] [Review on: fix(download): respect `--datadir.static-files` during extraction](https://github.com/paradigmxyz/reth/pull/23445#pullrequestreview-4092625659) - 2026-04-10
 * [Pull Request] [chore(cli): make --resumable default](https://github.com/paradigmxyz/reth/pull/23451) - 2026-04-10
 * [Commit] [chore(cli): make --resumable default (#23451)](https://github.com/paradigmxyz/reth/commit/6aa2234d9a843b30ccfce71dd4e5b334e6d9f017) - 2026-04-11
+* [Review] [Review on: feat(net): add enforce_enr_fork_id to DefaultNetworkArgs](https://github.com/paradigmxyz/reth/pull/23477#pullrequestreview-4098851609) - 2026-04-13
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 ## Q1 2026
 
 

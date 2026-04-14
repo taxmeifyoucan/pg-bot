@@ -14,6 +14,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Fix swapped JSON tags in ChainReorgEvent struct](https://github.com/OffchainLabs/prysm/pull/16639#pullrequestreview-4067658089) - 2026-04-07
 
 * [Review] [Review on: Fix package-level logger mutation](https://github.com/OffchainLabs/prysm/pull/16645#pullrequestreview-4082467564) - 2026-04-09
+* [Review] [Review on: Fix blob index bounds check](https://github.com/OffchainLabs/prysm/pull/16640#pullrequestreview-4098658503) - 2026-04-13
+* [Review] [Review on: return 404 for requests that ask for pre checkpoint sync state](https://github.com/OffchainLabs/prysm/pull/16615#pullrequestreview-4098381083) - 2026-04-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

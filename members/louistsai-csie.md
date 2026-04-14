@@ -31,6 +31,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [feat(tests-execute): `EOA` pkey support for stub account (#2624)](https://github.com/ethereum/execution-specs/commit/9e7225a932514e6ce8039a41ba38fe071f50ba0c) - 2026-04-08
 * [Pull Request] [feat(test-specs): benchmark verification module](https://github.com/ethereum/execution-specs/pull/2640) - 2026-04-09
 * [Review] [Review on: feat(test-benchmark): add uncacheable precompile benchmark](https://github.com/ethereum/execution-specs/pull/2600#pullrequestreview-4087495020) - 2026-04-10
+* [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4097303266) - 2026-04-13
+* [Commit] [feat(test-benchmark): add cache strategy to storage benchmark (#2628)](https://github.com/ethereum/execution-specs/commit/62161905c15ad8f210e699f0237ae15b4f09ea5e) - 2026-04-13
 ## Q1 2026
 
 

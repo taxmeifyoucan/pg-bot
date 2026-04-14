@@ -16,6 +16,23 @@ Team: Geth
 * [Review] [Review on: eth/protocols/snap: fix block accessList encoding rule](https://github.com/ethereum/go-ethereum/pull/34644#pullrequestreview-4067558896) - 2026-04-07
 * [Review] [Review on: core: implement EIP-8037, state creation gas cost increase](https://github.com/ethereum/go-ethereum/pull/33601#pullrequestreview-4074076641) - 2026-04-08
 * [Pull Request] [core: turn gas into a vector <regularGas, stateGas>](https://github.com/ethereum/go-ethereum/pull/34691) - 2026-04-09
+* [Review] [Review on: build: upgrade -dlgo version to Go 1.25.9](https://github.com/ethereum/go-ethereum/pull/34707#pullrequestreview-4097819970) - 2026-04-13
+* [Review] [Review on: core/vm/runtime: don't overwrite user-provided Random](https://github.com/ethereum/go-ethereum/pull/33510#pullrequestreview-4099134144) - 2026-04-13
+* [Review] [Review on: apitypes: fix truncation of opening parenthesis](https://github.com/ethereum/go-ethereum/pull/33702#pullrequestreview-4099027306) - 2026-04-13
+* [Review] [Review on: core/state: optimize transient storage](https://github.com/ethereum/go-ethereum/pull/33695#pullrequestreview-4098989720) - 2026-04-13
+* [Review] [Review on: cmd/geth: add Prague pruning points for hoodi](https://github.com/ethereum/go-ethereum/pull/34714#pullrequestreview-4098954368) - 2026-04-13
+* [Review] [Review on: core/vm: include operand in invalid eip-8024 errors](https://github.com/ethereum/go-ethereum/pull/34635#pullrequestreview-4098573384) - 2026-04-13
+* [Review] [Review on: p2p/discover: fix flaky TestUDPv5_findnodeHandling](https://github.com/ethereum/go-ethereum/pull/34109#pullrequestreview-4098592188) - 2026-04-13
+* [Review] [Review on: accounts/keystore: fix flaky TestUpdatedKeyfileContents notification race](https://github.com/ethereum/go-ethereum/pull/34084#pullrequestreview-4098560861) - 2026-04-13
+* [Review] [Review on: crypto/bn256: fix incorrect constant in MulXi](https://github.com/ethereum/go-ethereum/pull/34659#pullrequestreview-4098483727) - 2026-04-13
+* [Review] [Review on: cmd/geth: add code exporter for db export](https://github.com/ethereum/go-ethereum/pull/34696#pullrequestreview-4098449795) - 2026-04-13
+* [Review] [Review on: beacon/engine, miner: fix testing_buildBlockV1 response](https://github.com/ethereum/go-ethereum/pull/34704#pullrequestreview-4097733094) - 2026-04-13
+* [Review] [Review on: core/vm, cmd/geth: remove storage root reliance for EIP7610 check](https://github.com/ethereum/go-ethereum/pull/34029#pullrequestreview-4097386846) - 2026-04-13
+* [Commit] [core: turn gas into a vector <regularGas, stateGas> (#34691)](https://github.com/ethereum/go-ethereum/commit/6333855163d0ac99240f966df875be64c0885983) - 2026-04-13
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
+* [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13
 ## Q1 2026
 
 

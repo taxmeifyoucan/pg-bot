@@ -26,6 +26,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Use proposer preferences cache for payload attributes after Gloas (#16620)](https://github.com/OffchainLabs/prysm/commit/f3dfcbab2a5d579340cb05b116c97a7be188a6ff) - 2026-04-08
 * [Pull Request] [Fix initial sync bid validation failure](https://github.com/OffchainLabs/prysm/pull/16652) - 2026-04-10
 * [Commit] [Fix initial sync bid validation failure (#16652)](https://github.com/OffchainLabs/prysm/commit/99327d7422f63526aa9e97c4e630ae20d64bcbf6) - 2026-04-10
+* [Review] [Review on: Implement defer payload processing](https://github.com/OffchainLabs/prysm/pull/16658#pullrequestreview-4099204013) - 2026-04-13
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

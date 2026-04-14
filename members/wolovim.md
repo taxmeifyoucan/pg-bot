@@ -17,6 +17,8 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: 15 min default to process assets](https://github.com/ethereum/pm/commit/97487f4db0002dea512c64bfe70631da625ee131) - 2026-04-08
 * [Commit] [acdbot: permit youtube upload <10 min, pt.2](https://github.com/ethereum/pm/commit/ba438436f5a374461e58837b062faecc5dabd8a6) - 2026-04-08
 * [Commit] [acdbot: permit youtube upload <10 min](https://github.com/ethereum/pm/commit/d0ef358e1ba447fe233286cc82667acd2f898fe8) - 2026-04-08
+* [Issue] [Native Account Abstraction #1, April 22, 2026](https://github.com/ethereum/pm/issues/2018) - 2026-04-13
+* [Commit] [acdbot: introduce native aa breakout](https://github.com/ethereum/pm/commit/6e572f832857171d4a34de23dbe3dc99bc40d368) - 2026-04-13
 ## Q1 2026
 
 

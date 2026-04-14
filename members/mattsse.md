@@ -90,6 +90,11 @@ Team: Reth
 * [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23464#pullrequestreview-4094754270) - 2026-04-12
 * [Review] [Review on: ci: add affected-crate detection to skip unchanged tests](https://github.com/paradigmxyz/reth/pull/23352#pullrequestreview-4094874089) - 2026-04-12
 * [Commit] [perf(trie): parallelize merge_ancestors_into_overlay (#21473)](https://github.com/paradigmxyz/reth/commit/a9bd38a43e009d438d9f9ac9926dcaa92e08b1d6) - 2026-04-12
+* [Review] [Review on: fix(engine): use IndexSet for deterministic block buffer child ordering](https://github.com/paradigmxyz/reth/pull/22676#pullrequestreview-4100728590) - 2026-04-13
+* [Review] [Review on: chore(BAL): added fcuv4 and EngineApiMessageVersion6](https://github.com/paradigmxyz/reth/pull/23480#pullrequestreview-4099488017) - 2026-04-13
+* [Review] [Review on: chore: bump alloy to 2.0.0](https://github.com/paradigmxyz/reth/pull/23407#pullrequestreview-4099055636) - 2026-04-13
+* [Pull Request] [feat(net): add enforce_enr_fork_id to DefaultNetworkArgs](https://github.com/paradigmxyz/reth/pull/23477) - 2026-04-13
+* [Commit] [feat(net): add enforce_enr_fork_id to DefaultNetworkArgs (#23477)](https://github.com/paradigmxyz/reth/commit/3d5c29c17961a864f091c3c8dfc245b628d4e20f) - 2026-04-13
 ## Q1 2026
 
 

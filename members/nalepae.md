@@ -19,6 +19,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [`ProcessEffectiveBalanceUpdates`: Avoid copying a validator when the computed effective balance is unchanged. (#16631)](https://github.com/OffchainLabs/prysm/commit/6e4d7fd7812e6e2f3ece8328680c44795b09a9c8) - 2026-04-06
 * [Review] [Review on: Field Trie: Implement copy on write and base/overlay scheme.](https://github.com/OffchainLabs/prysm/pull/16512#pullrequestreview-4071591729) - 2026-04-07
 * [Pull Request] [Pubkey cache: Use map+mutex instead of LRU cache](https://github.com/OffchainLabs/prysm/pull/16654) - 2026-04-11
+* [Review] [Review on: Fix processBatchedBlocks returning pre-filter block count](https://github.com/OffchainLabs/prysm/pull/16657#pullrequestreview-4097247586) - 2026-04-13
 ## Q1 2026
 
 

@@ -100,6 +100,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: reject same-slot full attestation votes for gloas](https://github.com/ChainSafe/lodestar/pull/9205) - 2026-04-10
 * [Commit] [fix: check if pending deposit exists before applying to builder (#9180)](https://github.com/ChainSafe/lodestar/commit/2219bb0cb8c2af1770a302e16e95356100764e59) - 2026-04-11
 * [Commit] [feat: add endpoint to retrieve signed execution payload envelope (#9186)](https://github.com/ChainSafe/lodestar/commit/f403d99def205da9bc7ac2ca6bf5a45aeec0428d) - 2026-04-10
+* [Pull Request] [fix: use fork choice for parent payload status in block production](https://github.com/ChainSafe/lodestar/pull/9209) - 2026-04-13
+* [Review] [Review on: fix: use fork choice for parent payload status in block production](https://github.com/ChainSafe/lodestar/pull/9209#pullrequestreview-4098638216) - 2026-04-13
+* [Pull Request] [feat: add cached PTC window to the state](https://github.com/ChainSafe/lodestar/pull/9211) - 2026-04-13
+* [Review] [Review on: feat: add cached PTC window to the state](https://github.com/ChainSafe/lodestar/pull/9211#pullrequestreview-4099893563) - 2026-04-13
+* [Commit] [fix: reject same-slot full attestation votes for gloas (#9205)](https://github.com/ChainSafe/lodestar/commit/972ec54bb9eb70cf36f18a3589b770cc27c856de) - 2026-04-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

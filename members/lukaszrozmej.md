@@ -78,6 +78,28 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: style: enforce target-typed new (IDE0090) as build error](https://github.com/NethermindEth/nethermind/pull/11103#pullrequestreview-4093696257) - 2026-04-11
 * [Commit] [fix: validate filter string length before re-parsing (#11086)](https://github.com/NethermindEth/nethermind/commit/fcd0d0258be4af51f87995109d3c516b9c5ce97e) - 2026-04-11
 * [Review] [Review on: ci: bump tests-spec timeout to 20m](https://github.com/NethermindEth/nethermind/pull/11109#pullrequestreview-4095410305) - 2026-04-12
+* [Review] [Review on: style: enable CA2208 and fix incorrect exception argument params](https://github.com/NethermindEth/nethermind/pull/11131#pullrequestreview-4102688671) - 2026-04-14
+* [Review] [Review on: fix(rpc): strip custom-error revert bytes from eth_call/eth_estimateGas message field   ](https://github.com/NethermindEth/nethermind/pull/11112#pullrequestreview-4097020048) - 2026-04-13
+* [Review] [Review on: chore: Remove `debug_getBlockRlp` method](https://github.com/NethermindEth/nethermind/pull/11130#pullrequestreview-4100922653) - 2026-04-13
+* [Review] [Review on: fix: cap compact log entry zero-prefix data expansion](https://github.com/NethermindEth/nethermind/pull/11110#pullrequestreview-4097010531) - 2026-04-13
+* [Review] [Review on: eth_getBlockByNumber - Remove totalDifficulty](https://github.com/NethermindEth/nethermind/pull/11097#pullrequestreview-4100905203) - 2026-04-13
+* [Review] [Review on: Break pagination in Eth/70 on empty response](https://github.com/NethermindEth/nethermind/pull/11129#pullrequestreview-4099607313) - 2026-04-13
+* [Review] [Review on: Fix sync actions](https://github.com/NethermindEth/nethermind/pull/11127#pullrequestreview-4099454358) - 2026-04-13
+* [Review] [Review on: eth_getBlockByNumber("pending") returns non-null hash, nonce, miner](https://github.com/NethermindEth/nethermind/pull/11121#pullrequestreview-4099648577) - 2026-04-13
+* [Review] [Review on: Add L1STATICCALL precompile and witness RPC](https://github.com/NethermindEth/nethermind/pull/11017#pullrequestreview-4097353393) - 2026-04-13
+* [Review] [Review on: Feature/subnet plugin](https://github.com/NethermindEth/nethermind/pull/11126#pullrequestreview-4099571244) - 2026-04-13
+* [Review] [Review on: style: enable nullable for Logging, Config, and leaf packages](https://github.com/NethermindEth/nethermind/pull/11119#pullrequestreview-4098391794) - 2026-04-13
+* [Pull Request] [ssz: ISszCodec<T>, test simplification, read-only collection surface](https://github.com/NethermindEth/nethermind/pull/11125) - 2026-04-13
+* [Review] [Review on: fix: return NoopSnapServer instead of null for HashDB](https://github.com/NethermindEth/nethermind/pull/11116#pullrequestreview-4096931326) - 2026-04-13
+* [Review] [Review on: ci: chunk Legacy VM test on ubuntu-latest for coverage](https://github.com/NethermindEth/nethermind/pull/11113#pullrequestreview-4096963972) - 2026-04-13
+* [Review] [Review on: style: enforce primary constructors (IDE0290) as build error](https://github.com/NethermindEth/nethermind/pull/11117#pullrequestreview-4096923889) - 2026-04-13
+* [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11107#pullrequestreview-4096941747) - 2026-04-13
+* [Review] [Review on: fix: use DbNames constants for discovery store paths](https://github.com/NethermindEth/nethermind/pull/11108#pullrequestreview-4096945685) - 2026-04-13
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11106#pullrequestreview-4096940101) - 2026-04-13
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11105#pullrequestreview-4096938826) - 2026-04-13
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11114#pullrequestreview-4096935287) - 2026-04-13
+* [Commit] [feat: add call count limit for trace_callMany (#11085)](https://github.com/NethermindEth/nethermind/commit/6cd0ea49db5204a4578f6d09a23859d97a6892a1) - 2026-04-13
+* [Commit] [fix: add bounds check before unsafe RLP length deserialization (#11088)](https://github.com/NethermindEth/nethermind/commit/4cfd52ecd7f11a820004a4bda591c3bf7b4a1802) - 2026-04-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 ## Q1 2026

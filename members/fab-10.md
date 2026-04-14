@@ -31,6 +31,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Remove dryRunDetector workaround methods from unit tests (#10201)](https://github.com/besu-eth/besu/commit/e7bda9e6c70dc679266ac058d32996c4aa5fc562) - 2026-04-09
 * [Pull Request] [Improve block proposal cancellation to (best effort) avoid concurrency issues](https://github.com/besu-eth/besu/pull/10219) - 2026-04-10
 * [Review] [Review on: CI check to make sure that all libraries have their source code verified](https://github.com/besu-eth/besu/pull/10217#pullrequestreview-4089481037) - 2026-04-10
+* [Pull Request] [Initial EIP-7805 (FOCIL) implementation](https://github.com/besu-eth/besu/pull/10230) - 2026-04-13
+* [Review] [Review on: Remove deprecated Holesky network and related tests](https://github.com/besu-eth/besu/pull/10165#pullrequestreview-4099456342) - 2026-04-13
+* [Review] [Review on: Add enableMemory parameter to debug_traceTransaction and debug_traceBlockByNumber](https://github.com/besu-eth/besu/pull/10169#pullrequestreview-4099541573) - 2026-04-13
+* [Review] [Review on: SystemCallProcessor don't log an error, just throw](https://github.com/besu-eth/besu/pull/10152#pullrequestreview-4099429064) - 2026-04-13
+* [Review] [Review on: Exclude IntelliJ generated dir from spotless solidity](https://github.com/besu-eth/besu/pull/10223#pullrequestreview-4097321961) - 2026-04-13
 ## Q1 2026
 
 

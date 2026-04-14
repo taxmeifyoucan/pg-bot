@@ -78,6 +78,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/state: skip DB entries within file range in debugIteratePrefixLatest (#20444)](https://github.com/erigontech/erigon/commit/4a901ec98b8d1cb208b9aa5b5ce64634421627e1) - 2026-04-11
 * [Commit] [db/state: fix btree cursor leak in debugIteratePrefixLatest (#20468)](https://github.com/erigontech/erigon/commit/d89be8868e07810c84b6a13681d500ea94577481) - 2026-04-10
 * [Review] [Review on: [r3.4] db/state: fix btree cursor leak in debugIteratePrefixLatest](https://github.com/erigontech/erigon/pull/20488#pullrequestreview-4093605597) - 2026-04-11
+* [Review] [Review on: db: atomic per-key prune deletion, prune consistency assertion](https://github.com/erigontech/erigon/pull/20503#pullrequestreview-4096824967) - 2026-04-13
+* [Pull Request] [revert "db/state: fix stale slot resurrection after unwind and deletion (#20483)"](https://github.com/erigontech/erigon/pull/20509) - 2026-04-13
+* [Pull Request] [Revert "[r3.4] db/state: fix stale slot resurrection after unwind and deletion (#20494)"](https://github.com/erigontech/erigon/pull/20524) - 2026-04-13
+* [Pull Request] [cp related PRs for "don't query in db, what is in files" ](https://github.com/erigontech/erigon/pull/20518) - 2026-04-13
+* [Pull Request] [[r3.4] revert "db/state: fix stale slot resurrection after unwind and deletion (#20494)"](https://github.com/erigontech/erigon/pull/20513) - 2026-04-13
+* [Review] [Review on: teach: `Unwind` beyond data in snapshots not allowed](https://github.com/erigontech/erigon/pull/20517#pullrequestreview-4098222354) - 2026-04-13
+* [Commit] [revert "db/state: fix stale slot resurrection after unwind and deletion (#20483)" (#20509)](https://github.com/erigontech/erigon/commit/f5593e669fdc47df4e837b1d446bd3b587a4260a) - 2026-04-13
 ## Q1 2026
 
 

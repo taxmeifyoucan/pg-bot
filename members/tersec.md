@@ -37,6 +37,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm non-column blob quarantine](https://github.com/status-im/nimbus-eth2/pull/8254) - 2026-04-13
 * [Pull Request] [re-enable fulu in minimal local testnets](https://github.com/status-im/nimbus-eth2/pull/8253) - 2026-04-12
 * [Pull Request] [switch block_sim to iterate through fulu/gloas/heze forks](https://github.com/status-im/nimbus-eth2/pull/8252) - 2026-04-12
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 ## Q1 2026
 
 

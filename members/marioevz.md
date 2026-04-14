@@ -26,6 +26,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(github): Fix just setup (#2655)](https://github.com/ethereum/execution-specs/commit/a48e0b381d5225a6c3de2d06cd9ee7ae0b6ca9bb) - 2026-04-10
 * [Commit] [refactor(tests): Enhance heavy ported tests (#2623)](https://github.com/ethereum/execution-specs/commit/7f3ab5533851f96ceaa72af76655c25b5b9dad42) - 2026-04-10
 * [Commit] [feat(test-plugins-forks): Introduce `pytest.mark.valid_before` (#2647)](https://github.com/ethereum/execution-specs/commit/ddbc59075df621cd5c6bd76046af939c1e0578b6) - 2026-04-10
+* [Review] [Review on: feat(tooling): add docs-serve just recipes and tidy docs env handling](https://github.com/ethereum/execution-specs/pull/2660#pullrequestreview-4102168994) - 2026-04-13
+* [Review] [Review on: fix(test-plugins-filler): aggregate --verify-traces results across xdist workers](https://github.com/ethereum/execution-specs/pull/2664#pullrequestreview-4102090007) - 2026-04-13
+* [Review] [Review on: feat(docs): update content for post-weld execution-specs](https://github.com/ethereum/execution-specs/pull/2662#pullrequestreview-4101981761) - 2026-04-13
+* [Review] [Review on: fix(test-fill): resolve checklist path for EIPs referenced via `eip=[N]` kwarg](https://github.com/ethereum/execution-specs/pull/2665#pullrequestreview-4101931542) - 2026-04-13
+* [Review] [Review on: feat(src): devnet merger script + fix for conflict-free merges](https://github.com/ethereum/execution-specs/pull/2663#pullrequestreview-4100817119) - 2026-04-13
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 ## Q1 2026
 
 

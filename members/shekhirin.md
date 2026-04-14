@@ -30,6 +30,10 @@ Team: Reth
 * [Commit] [fix(cli): use recent speed instead of all-time average for download ETA (#23425)](https://github.com/paradigmxyz/reth/commit/cecbb4cc8c08b38f140c06fea4acce39b1a7496e) - 2026-04-10
 * [Commit] [fix(download): show error on retry and reset counter on progress (#23426)](https://github.com/paradigmxyz/reth/commit/0ed4739482f5e73d0cf5adfd09b727edf338e3ad) - 2026-04-10
 * [Review] [Review on: ci: bump MSRV job runner to depot-ubuntu-latest-8](https://github.com/paradigmxyz/reth/pull/23432#pullrequestreview-4087803926) - 2026-04-10
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
+* [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13
 ## Q1 2026
 
 

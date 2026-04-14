@@ -8,6 +8,12 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 
 ## Contributions
 
+## Q2 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [feat: Add testing_buildBlockV1 RPC endpoint and make IBlockProducerEnv IAsyncDisposable](https://github.com/NethermindEth/nethermind/pull/9901) - 2026-04-13
+* [Commit] [feat: Add testing_buildBlockV1 RPC endpoint and make IBlockProducerEnv IAsyncDisposable (#9901)](https://github.com/NethermindEth/nethermind/commit/104176a316aae8d0e5fbc69efe9e946a02df9b8d) - 2026-04-13
 ## Q1 2026
 
 

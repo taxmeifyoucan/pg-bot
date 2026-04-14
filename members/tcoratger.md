@@ -55,6 +55,13 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [feat(symmetric): add RTL sponge hashing and zero-suffix precomputation](https://github.com/Plonky3/Plonky3/pull/1547) - 2026-04-12
 * [Review] [Review on: Harden verifier shape checks](https://github.com/Plonky3/Plonky3/pull/1469#pullrequestreview-4095404343) - 2026-04-12
 * [Review] [Review on: Guard verifier degree_bits](https://github.com/Plonky3/Plonky3/pull/1535#pullrequestreview-4095378118) - 2026-04-12
+* [Review] [Review on: whir: full integration from whir-p3](https://github.com/Plonky3/Plonky3/pull/1523#pullrequestreview-4102022276) - 2026-04-13
+* [Pull Request] [harden(poseidon1, poseidon2): add paper-derived parameter assertions to constructors](https://github.com/Plonky3/Plonky3/pull/1551) - 2026-04-13
+* [Pull Request] [feat(interpolation): add arbitrary-point Lagrange interpolation trait](https://github.com/Plonky3/Plonky3/pull/1552) - 2026-04-13
+* [Review] [Review on: Add property tests for x86 Poseidon2 width-32](https://github.com/Plonky3/Plonky3/pull/1550#pullrequestreview-4099809770) - 2026-04-13
+* [Review] [Review on: chore(deps): update hashbrown requirement from 0.16.1 to 0.17.0](https://github.com/Plonky3/Plonky3/pull/1548#pullrequestreview-4098631975) - 2026-04-13
+* [Commit] [harden(poseidon1, poseidon2): add paper-derived parameter assertions to constructors (#1551)](https://github.com/Plonky3/Plonky3/commit/c7bacaeb4c870e3d6f9b7c23064c05e555c80bc8) - 2026-04-13
+* [Commit] [refactor(interpolation): replace free functions with Interpolate extension trait (#1540)](https://github.com/Plonky3/Plonky3/commit/88034d70cb750cccd7c330e9adcb2f28c51cc4ed) - 2026-04-13
 ## Q1 2026
 
 

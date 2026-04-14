@@ -17,6 +17,11 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: Refactor sync-supported-chains workflow and add sync smoke test CI check](https://github.com/NethermindEth/nethermind/pull/10898#pullrequestreview-4085950764) - 2026-04-09
 * [Review] [Review on: Fix code-lint workflow: disk space, caching, and duplicate annotations](https://github.com/NethermindEth/nethermind/pull/11080#pullrequestreview-4085271320) - 2026-04-09
 * [Review] [Review on: ci: add missing flaky hive test entries for Invalid Missing Ancestor Syncing ReOrg](https://github.com/NethermindEth/nethermind/pull/11082#pullrequestreview-4084097453) - 2026-04-09
+* [Pull Request] [fix: return NoopSnapServer instead of null for HashDB (#11116) [1.37.0-rc2]](https://github.com/NethermindEth/nethermind/pull/11132) - 2026-04-14
+* [Pull Request] [Fix sync actions](https://github.com/NethermindEth/nethermind/pull/11127) - 2026-04-13
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026
 
 

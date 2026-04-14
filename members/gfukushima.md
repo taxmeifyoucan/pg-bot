@@ -18,6 +18,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516#pullrequestreview-4041785930) - 2026-04-01
 * [Review] [Review on: added executors for some alpha4 test cases](https://github.com/Consensys/teku/pull/10545#pullrequestreview-4048271089) - 2026-04-02
+* [Review] [Review on: Add payload attestations to blocks](https://github.com/Consensys/teku/pull/10549#pullrequestreview-4096650709) - 2026-04-13
 ## Q1 2026
 
 

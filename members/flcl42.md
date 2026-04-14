@@ -36,6 +36,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix: add bounds on filter address and topic array sizes](https://github.com/NethermindEth/nethermind/pull/11087#pullrequestreview-4088138884) - 2026-04-10
 * [Review] [Review on: refactor: remove Personal module from default RPC modules](https://github.com/NethermindEth/nethermind/pull/11084#pullrequestreview-4088132132) - 2026-04-10
 * [Commit] [Fix decoding of empty receipts of a block (#11093)](https://github.com/NethermindEth/nethermind/commit/a52cb90edcb0973de3dbce2b17aa5c4e1f0c3417) - 2026-04-10
+* [Review] [Review on: chore: Remove `debug_getBlockRlp` method](https://github.com/NethermindEth/nethermind/pull/11130#pullrequestreview-4100623561) - 2026-04-13
+* [Pull Request] [Break pagination in Eth/70 on empty response](https://github.com/NethermindEth/nethermind/pull/11129) - 2026-04-13
+* [Review] [Review on: Break pagination in Eth/70 on empty response](https://github.com/NethermindEth/nethermind/pull/11129#pullrequestreview-4100000415) - 2026-04-13
+* [Pull Request] [Pass EIP-3860 as a generic](https://github.com/NethermindEth/nethermind/pull/11128) - 2026-04-13
+* [Review] [Review on: style: enforce primary constructors (IDE0290) as build error](https://github.com/NethermindEth/nethermind/pull/11117#pullrequestreview-4097177102) - 2026-04-13
+* [Commit] [Break pagination in Eth/70 on empty response (#11129)](https://github.com/NethermindEth/nethermind/commit/b852657f701b568b7425f224e30790b91ad2cb08) - 2026-04-13
 ## Q1 2026
 
 

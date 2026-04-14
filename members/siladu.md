@@ -39,6 +39,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 
 * [Commit] [Exclude IntelliJ bin/default output from Spotless shell script check (#10210)](https://github.com/besu-eth/besu/commit/057dcb3aaf19d027e39ad7d46782354125cc82c0) - 2026-04-10
 * [Pull Request] [Exclude IntelliJ generated dir from spotless solidity](https://github.com/besu-eth/besu/pull/10223) - 2026-04-12
+* [Commit] [Exclude IntelliJ generated dir from spotless solidity (#10223)](https://github.com/besu-eth/besu/commit/5527269e23818c908d411c3078bd732b8cee2a86) - 2026-04-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

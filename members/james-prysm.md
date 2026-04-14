@@ -42,6 +42,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Skip inclusion proof verification for Gloas data columns](https://github.com/OffchainLabs/prysm/pull/16647#pullrequestreview-4090129883) - 2026-04-10
 * [Review] [Review on: Decode Gloas data columns using correct protobuf type over RPC](https://github.com/OffchainLabs/prysm/pull/16648#pullrequestreview-4090159825) - 2026-04-10
 * [Review] [Review on: Add missing fields to Gloas genesis block bid](https://github.com/OffchainLabs/prysm/pull/16646#pullrequestreview-4090122430) - 2026-04-10
+* [Pull Request] [reversing checkpoint api change](https://github.com/OffchainLabs/prysm/pull/16660) - 2026-04-13
+* [Review] [Review on: perf(auth): optimize auth token handling #15763](https://github.com/OffchainLabs/prysm/pull/15793#pullrequestreview-4100811773) - 2026-04-13
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

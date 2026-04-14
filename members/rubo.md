@@ -31,6 +31,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11101#pullrequestreview-4093560929) - 2026-04-11
 * [Commit] [chore: Revise CODEOWNERS (#11099)](https://github.com/NethermindEth/nethermind/commit/1eab7d51f96d8e3e9c20c7e679441220ef44f443) - 2026-04-11
 * [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11104#pullrequestreview-4095456023) - 2026-04-12
+* [Pull Request] [chore: Remove `debug_getBlockRlp` method](https://github.com/NethermindEth/nethermind/pull/11130) - 2026-04-13
+* [Review] [Review on: Improve ssz](https://github.com/NethermindEth/nethermind/pull/10788#pullrequestreview-4098326345) - 2026-04-13
+* [Commit] [chore: Remove `debug_getBlockRlp` method (#11130)](https://github.com/NethermindEth/nethermind/commit/545e6f394010a49dbb11c288fa3f2c736832e0ab) - 2026-04-13
 ## Q1 2026
 
 

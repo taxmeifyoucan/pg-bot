@@ -19,6 +19,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Fix V29 weight leak on execution payload invalidation](https://github.com/sigp/lighthouse/pull/9089#pullrequestreview-4080539786) - 2026-04-09
 * [Review] [Review on: Ensure payload envelope streamer always serves canonical envelopes after the split slot](https://github.com/sigp/lighthouse/pull/9085#pullrequestreview-4079938960) - 2026-04-09
 
+* [Review] [Review on: fix(backfill): only download custody columns during backfill sync](https://github.com/sigp/lighthouse/pull/8916#pullrequestreview-4096797074) - 2026-04-13
+* [Issue] [Remove support for engine `getBlobsV1`](https://github.com/sigp/lighthouse/issues/9124) - 2026-04-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

@@ -13,6 +13,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: 10259 4 proposer preferences](https://github.com/Consensys/teku/pull/10517#pullrequestreview-4081951214) - 2026-04-09
+* [Review] [Review on:    Added POST /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10534#pullrequestreview-4101119248) - 2026-04-13
+* [Review] [Review on: Added GetNewBlockV4 interface](https://github.com/Consensys/teku/pull/10437#pullrequestreview-4098665991) - 2026-04-13
+* [Review] [Review on: 10259 4 proposer preferences fix](https://github.com/Consensys/teku/pull/10558#pullrequestreview-4099234791) - 2026-04-13
 ## Q1 2026
 
 

@@ -40,6 +40,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(crypto): implement IHash64bit for Hash256AsKey](https://github.com/NethermindEth/nethermind/pull/11091#pullrequestreview-4090108248) - 2026-04-10
 * [Review] [Review on: Fix decoding of empty receipts of a block](https://github.com/NethermindEth/nethermind/pull/11093#pullrequestreview-4089458115) - 2026-04-10
 * [Review] [Review on: fix: validate signature length in personal_ecRecover](https://github.com/NethermindEth/nethermind/pull/11090#pullrequestreview-4089147915) - 2026-04-10
+* [Review] [Review on: Improve ssz](https://github.com/NethermindEth/nethermind/pull/10788#pullrequestreview-4098308823) - 2026-04-13
+* [Review] [Review on: style: enforce primary constructors (IDE0290) as build error](https://github.com/NethermindEth/nethermind/pull/11117#pullrequestreview-4097162756) - 2026-04-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
@@ -47,6 +49,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Add EIP: Counterfactual Transaction](https://github.com/ethereum/EIPs/pull/11518) - 2026-04-12
 * [Pull Request] [Add EIP: Contract Payer Transaction](https://github.com/ethereum/EIPs/pull/11509) - 2026-04-11
 * [Pull Request] [Update EIP-8141: Tighten spec](https://github.com/ethereum/EIPs/pull/11521) - 2026-04-13
+* [Review] [Review on: Update EIP-8141: Tighten spec](https://github.com/ethereum/EIPs/pull/11521#pullrequestreview-4096670633) - 2026-04-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4081943781) - 2026-04-09
 ## Q1 2026

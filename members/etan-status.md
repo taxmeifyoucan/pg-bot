@@ -32,8 +32,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] [Update light client root spec reference](https://github.com/status-im/nimbus-eth2/pull/8234) - 2026-04-08
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074990427) - 2026-04-08
+* [Pull Request] [Adopt FCR function renames](https://github.com/status-im/nimbus-eth2/pull/8262) - 2026-04-13
+* [Pull Request] [Use executionValid API](https://github.com/status-im/nimbus-eth2/pull/8261) - 2026-04-13
+* [Pull Request] [Separate terminology for light client based sync and optimistic sync](https://github.com/status-im/nimbus-eth2/pull/8260) - 2026-04-13
+* [Pull Request] [Clean up light client data types](https://github.com/status-im/nimbus-eth2/pull/8259) - 2026-04-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
+* [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13
 ## Q1 2026
 
 

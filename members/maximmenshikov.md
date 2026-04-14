@@ -13,6 +13,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat: override RhpThrowEx and FailFast](https://github.com/NethermindEth/bflat-riscv64/commit/ce97bb96fb8a5c1b80d1108e5913208a856bad79) - 2026-04-03
 * [Commit] [modules/rhp: faster fail with poisoned pointer](https://github.com/NethermindEth/bflat-riscv64/commit/607cf57b1ddfe3a71d615ed83d269f83ce30951d) - 2026-04-03
 * [Commit] [ExtLibResolver: base on manifest path rather than package root](https://github.com/NethermindEth/bflat-riscv64/commit/e8ad324f7c2bd038197aac9aa82436005ef47777) - 2026-04-11
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 ## Q1 2026
 
 

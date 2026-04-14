@@ -13,6 +13,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490) - 2026-04-11
+* [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099931491) - 2026-04-13
 ## Q1 2026
 
 

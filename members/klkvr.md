@@ -32,8 +32,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(tracing): disable location and inactivity tracking in OTLP span export](https://github.com/paradigmxyz/reth/pull/23447#pullrequestreview-4091941674) - 2026-04-10
 * [Review] [Review on: fix(consensus): always validate minimum gas limit](https://github.com/paradigmxyz/reth/pull/23441#pullrequestreview-4089718643) - 2026-04-10
 * [Review] [Review on: perf(tracing): also disable target attribute in OTLP spans](https://github.com/paradigmxyz/reth/pull/23462#pullrequestreview-4093968761) - 2026-04-11
+* [Review] [Review on: chore: bump alloy to 2.0.0](https://github.com/paradigmxyz/reth/pull/23407#pullrequestreview-4098996123) - 2026-04-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
+
+[sigp/discv5](https://github.com/sigp/discv5)
+* [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 ## Q1 2026
 
 

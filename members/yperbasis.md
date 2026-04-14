@@ -106,6 +106,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: fix BAL recording when coinbase == transaction target](https://github.com/erigontech/erigon/pull/20501) - 2026-04-12
 * [Pull Request] [clean up PR 20265: remove misleading #20169 attribution from StateCache tests](https://github.com/erigontech/erigon/pull/20498) - 2026-04-12
 * [Commit] [clean up PR 20265: remove misleading #20169 attribution from StateCache tests (#20498)](https://github.com/erigontech/erigon/commit/900a5d07ef0c7739afe24e1a32aded73684122f0) - 2026-04-12
+* [Pull Request] [execution/vm: switch modExp precompile to evmone + math/big hybrid](https://github.com/erigontech/erigon/pull/20530) - 2026-04-13
+* [Pull Request] [consensus: remove obsolete clique PoA engine](https://github.com/erigontech/erigon/pull/20532) - 2026-04-13
+* [Review] [Review on: [r3.4→main] Cherry-pick PRs from release/3.4](https://github.com/erigontech/erigon/pull/20519#pullrequestreview-4098504574) - 2026-04-13
+* [Review] [Review on: rpc, exec: wire receipts.Generator to shared derive package, add RCacheV2 fast path](https://github.com/erigontech/erigon/pull/20485#pullrequestreview-4097312718) - 2026-04-13
+* [Review] [Review on: exec: fix partial block receipt reconstruction (#20452)](https://github.com/erigontech/erigon/pull/20467#pullrequestreview-4097294493) - 2026-04-13
+* [Pull Request] [parallel executor: fix two cache bugs](https://github.com/erigontech/erigon/pull/20515) - 2026-04-13
+* [Review] [Review on: revert "db/state: fix stale slot resurrection after unwind and deletion (#20483)"](https://github.com/erigontech/erigon/pull/20509#pullrequestreview-4097345083) - 2026-04-13
+* [Review] [Review on: [r3.4] rpc: fix eth_simulateV1 HasStorage RAM batch (#20293)](https://github.com/erigontech/erigon/pull/20520#pullrequestreview-4098541159) - 2026-04-13
+* [Review] [Review on: [r3.4] execmodule, eth: fix roTx leak in updateForkChoice + shutdown ordering (#20220)](https://github.com/erigontech/erigon/pull/20522#pullrequestreview-4098775262) - 2026-04-13
+* [Pull Request] [execution/cache: wire RevertWithDiffset into unwind path](https://github.com/erigontech/erigon/pull/20516) - 2026-04-13
+* [Pull Request] [[r3.4] txpool: penalize peers sending malformed p2p messages](https://github.com/erigontech/erigon/pull/20523) - 2026-04-13
+* [Review] [Review on: rpc: expose testing_ namespace via --http.api on port 8545](https://github.com/erigontech/erigon/pull/20482#pullrequestreview-4097360694) - 2026-04-13
+* [Commit] [execution/cache: wire RevertWithDiffset into unwind path (#20516)](https://github.com/erigontech/erigon/commit/2a347107bff836923f60cf65b632dd778a4051cf) - 2026-04-13
+* [Commit] [execution: fix BAL recording when coinbase == transaction target (#20501)](https://github.com/erigontech/erigon/commit/435daf7689e89a41983e645c8c8fa7b86bc68bce) - 2026-04-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

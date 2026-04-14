@@ -16,6 +16,7 @@ Github: [@misilva73](https://github.com/misilva73)
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Glamsterdam Repricings #5, April 1, 2026](https://github.com/ethereum/pm/issues/2000) - 2026-04-01
 
+* [Issue] [Glamsterdam Repricings #6, April 15, 2026](https://github.com/ethereum/pm/issues/2016) - 2026-04-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493#pullrequestreview-4073794211) - 2026-04-08
 * [Pull Request] [Update EIP-8007: Sync descriptions with latest EIP-7976 and EIP-7981 drafts](https://github.com/ethereum/EIPs/pull/11499) - 2026-04-09

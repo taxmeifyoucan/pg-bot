@@ -28,6 +28,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore: Revise CODEOWNERS](https://github.com/NethermindEth/nethermind/pull/11099#pullrequestreview-4092528924) - 2026-04-10
 * [Review] [Review on: eth_getBlockByNumber - Remove totalDifficulty](https://github.com/NethermindEth/nethermind/pull/11097#pullrequestreview-4092424637) - 2026-04-10
 * [Review] [Review on: ci: bump tests-spec timeout to 20m](https://github.com/NethermindEth/nethermind/pull/11109#pullrequestreview-4095470345) - 2026-04-12
+* [Review] [Review on: chore: Remove `debug_getBlockRlp` method](https://github.com/NethermindEth/nethermind/pull/11130#pullrequestreview-4100303507) - 2026-04-13
+* [Review] [Review on: eth_getBlockByNumber("pending") returns non-null hash, nonce, miner](https://github.com/NethermindEth/nethermind/pull/11121#pullrequestreview-4099673598) - 2026-04-13
+* [Review] [Review on: feat: add call count limit for trace_callMany](https://github.com/NethermindEth/nethermind/pull/11085#pullrequestreview-4097373987) - 2026-04-13
+* [Review] [Review on: ci: make EVM benchmark iteration counts configurable](https://github.com/NethermindEth/nethermind/pull/11118#pullrequestreview-4097625352) - 2026-04-13
+* [Review] [Review on: fix: add bounds check before unsafe RLP length deserialization](https://github.com/NethermindEth/nethermind/pull/11088#pullrequestreview-4097346166) - 2026-04-13
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026
 
 

@@ -20,6 +20,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: snap sync - apply BALs before flat db heal](https://github.com/besu-eth/besu/pull/10151#pullrequestreview-4073769485) - 2026-04-08
 * [Review] [Review on: Preserve state gas reservoir for the top level frame in case of OOG](https://github.com/besu-eth/besu/pull/10205#pullrequestreview-4082772509) - 2026-04-09
 * [Review] [Review on: snap sync - apply BALs before flat db heal](https://github.com/besu-eth/besu/pull/10151#pullrequestreview-4080828131) - 2026-04-09
+* [Review] [Review on: Implement aggregation in pipeline service](https://github.com/besu-eth/besu/pull/10202#pullrequestreview-4098008185) - 2026-04-13
 ## Q1 2026
 
 

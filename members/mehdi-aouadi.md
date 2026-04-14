@@ -17,6 +17,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: 10259 4 proposer preferences](https://github.com/Consensys/teku/pull/10517#pullrequestreview-4088788073) - 2026-04-10
 * [Review] [Review on: 10098 execution payload storage](https://github.com/Consensys/teku/pull/10541#pullrequestreview-4088842538) - 2026-04-10
 * [Commit] [10098 execution payload storage (#10541)](https://github.com/Consensys/teku/commit/400b29cad99aaa3f2c19d7c6509eef88154df71b) - 2026-04-10
+* [Pull Request] [10098 6 unblind execution payload](https://github.com/Consensys/teku/pull/10559) - 2026-04-13
+* [Review] [Review on: 10098 6 unblind execution payload](https://github.com/Consensys/teku/pull/10559#pullrequestreview-4100327443) - 2026-04-13
+* [Pull Request] [implement engine get exeuction payload bodies v2](https://github.com/Consensys/teku/pull/10550) - 2026-04-13
+* [Review] [Review on: implement engine get exeuction payload bodies v2](https://github.com/Consensys/teku/pull/10550#pullrequestreview-4097819269) - 2026-04-13
+* [Pull Request] [10259 4 proposer preferences fix](https://github.com/Consensys/teku/pull/10558) - 2026-04-13
+* [Commit] [implement engine get exeuction payload bodies v2 (#10550)](https://github.com/Consensys/teku/commit/c9084d5b282df39b7b50e2875b21fff23c557ea9) - 2026-04-13
+* [Commit] [10259 4 proposer preferences fix (#10558)](https://github.com/Consensys/teku/commit/03c8e491e219c3f9d53be931a79f12d95cce84b8) - 2026-04-13
+* [Commit] [10259 4 proposer preferences (#10517)](https://github.com/Consensys/teku/commit/130651ee88d7e200fadcce8c87440b778a09257f) - 2026-04-13
 ## Q1 2026
 
 

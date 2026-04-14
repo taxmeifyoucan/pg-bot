@@ -31,6 +31,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tooling): Add just checklist](https://github.com/ethereum/execution-specs/pull/2648#pullrequestreview-4087965329) - 2026-04-10
 * [Review] [Review on: feat(test-plugins-forks): Introduce `pytest.mark.valid_before`](https://github.com/ethereum/execution-specs/pull/2647#pullrequestreview-4089817275) - 2026-04-10
 * [Pull Request] [feat(tooling): add `shell-completions` recipe to print setup instructions](https://github.com/ethereum/execution-specs/pull/2651) - 2026-04-10
+* [Review] [Review on: feat(tooling): Add just checklist](https://github.com/ethereum/execution-specs/pull/2648#pullrequestreview-4097076016) - 2026-04-13
+* [Pull Request] [feat(tooling): add docs-serve just recipes and tidy docs env handling](https://github.com/ethereum/execution-specs/pull/2660) - 2026-04-13
+* [Pull Request] [feat(docs): update content for post-weld execution-specs](https://github.com/ethereum/execution-specs/pull/2662) - 2026-04-13
+* [Pull Request] [chore(test-fill): default checklist CLI to scan tests + tests/benchmark](https://github.com/ethereum/execution-specs/pull/2668) - 2026-04-13
+* [Pull Request] [fix(test-fill): resolve checklist path for EIPs referenced via `eip=[N]` kwarg](https://github.com/ethereum/execution-specs/pull/2665) - 2026-04-13
+* [Pull Request] [chore(tooling): ignore `.mypy_cache` (symlink) and `.python-version`](https://github.com/ethereum/execution-specs/pull/2661) - 2026-04-13
+* [Pull Request] [feat(doc,tests): re-enable benchmark tests in test case reference](https://github.com/ethereum/execution-specs/pull/2666) - 2026-04-13
+* [Commit] [feat(tooling): add docs-serve just recipes and tidy docs env handling (#2660)](https://github.com/ethereum/execution-specs/commit/f059c48836f23dba0ad48d367faf2b74f86c1624) - 2026-04-13
+* [Commit] [fix(test-fill): resolve checklist path for EIPs referenced via `eip=[N]` kwarg (#2665)](https://github.com/ethereum/execution-specs/commit/ec74da478720ffd55a0ac93169e48db0ffcae86b) - 2026-04-13
+* [Commit] [chore(tooling): ignore `.mypy_cache` (symlink) and `.python-version` (#2661)](https://github.com/ethereum/execution-specs/commit/792e9997dd755582bfa9f7907cb5290fba6516db) - 2026-04-13
 ## Q1 2026
 
 

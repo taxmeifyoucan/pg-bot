@@ -19,8 +19,14 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Fix package-level logger mutation](https://github.com/OffchainLabs/prysm/pull/16645) - 2026-04-09
 * [Commit] [Fix package-level logger mutation (#16645)](https://github.com/OffchainLabs/prysm/commit/9da54ce8166cfc2ef875372128228620ca68a42f) - 2026-04-09
 * [Review] [Review on: Get block v4](https://github.com/OffchainLabs/prysm/pull/16488#pullrequestreview-4089756125) - 2026-04-10
+* [Review] [Review on: implementing envelope rest apis ](https://github.com/OffchainLabs/prysm/pull/16522#pullrequestreview-4100337205) - 2026-04-13
+* [Pull Request] [Fix processBatchedBlocks returning pre-filter block count](https://github.com/OffchainLabs/prysm/pull/16657) - 2026-04-13
+* [Commit] [Fix processBatchedBlocks returning pre-filter block count (#16657)](https://github.com/OffchainLabs/prysm/commit/8864484230033f5fc776ca0c25c0d5a1d0d77187) - 2026-04-13
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4097464771) - 2026-04-13
 ## Q1 2026
 
 

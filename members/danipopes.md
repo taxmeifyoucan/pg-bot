@@ -183,8 +183,14 @@ Team: Reth
 
 * [Review] [Review on: perf(txpool): use FxHashMap/FxHashSet for TxHash-heavy containers](https://github.com/paradigmxyz/reth/pull/23037#pullrequestreview-4095819035) - 2026-04-12
 * [Review] [Review on: perf(trie): parallelize merge_ancestors_into_overlay](https://github.com/paradigmxyz/reth/pull/21473#pullrequestreview-4094985536) - 2026-04-12
+* [Review] [Review on: fix(engine): use IndexSet for deterministic block buffer child ordering](https://github.com/paradigmxyz/reth/pull/22676#pullrequestreview-4100794253) - 2026-04-13
+* [Review] [Review on: fix(trie): terminate depth-first iterator on database error](https://github.com/paradigmxyz/reth/pull/22709#pullrequestreview-4100799587) - 2026-04-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
+* [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14
+* [Pull Request] [perf(interpreter): separate instruction and gas tables](https://github.com/bluealloy/revm/pull/3561) - 2026-04-14
+* [Review] [Review on: chore(interpreter): remove unused loop_control module](https://github.com/bluealloy/revm/pull/3555#pullrequestreview-4100893225) - 2026-04-13
+* [Review] [Review on: fix(bytecode): mark `Bytecode::new_analyzed` as unsafe](https://github.com/bluealloy/revm/pull/3557#pullrequestreview-4100892253) - 2026-04-13
 ## Q1 2026
 
 

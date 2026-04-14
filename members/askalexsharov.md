@@ -176,6 +176,28 @@ Team: Erigon
 * [Review] [Review on: db: atomic per-key prune deletion, prune consistency assertion](https://github.com/erigontech/erigon/pull/20503#pullrequestreview-4096010687) - 2026-04-13
 * [Review] [Review on: clean up PR 20265: remove misleading #20169 attribution from StateCache tests](https://github.com/erigontech/erigon/pull/20498#pullrequestreview-4094859310) - 2026-04-12
 * [Review] [Review on: rpc: tracing logger memory encoding](https://github.com/erigontech/erigon/pull/20478#pullrequestreview-4094990395) - 2026-04-12
+* [Pull Request] [[r3.4→main] Cherry-pick PRs from release/3.4](https://github.com/erigontech/erigon/pull/20519) - 2026-04-13
+* [Review] [Review on: [r3.4→main] Cherry-pick PRs from release/3.4](https://github.com/erigontech/erigon/pull/20519#pullrequestreview-4098331522) - 2026-04-13
+* [Review] [Review on: db: atomic per-key prune deletion, prune consistency assertion](https://github.com/erigontech/erigon/pull/20503#pullrequestreview-4096115770) - 2026-04-13
+* [Review] [Review on: seg rm-state: improve interactive menu display](https://github.com/erigontech/erigon/pull/20525#pullrequestreview-4098615370) - 2026-04-13
+* [Pull Request] [[r3.4] rpc: fix null result unmarshalling in CallContext (#20393)](https://github.com/erigontech/erigon/pull/20521) - 2026-04-13
+* [Review] [Review on: revert "db/state: fix stale slot resurrection after unwind and deletion (#20483)"](https://github.com/erigontech/erigon/pull/20509#pullrequestreview-4096873906) - 2026-04-13
+* [Pull Request] [[r3.4] rpc: fix eth_simulateV1 HasStorage RAM batch (#20293)](https://github.com/erigontech/erigon/pull/20520) - 2026-04-13
+* [Pull Request] [[r3.4] execmodule, eth: fix roTx leak in updateForkChoice + shutdown ordering (#20220)](https://github.com/erigontech/erigon/pull/20522) - 2026-04-13
+* [Review] [Review on: execution/cache: wire RevertWithDiffset into unwind path](https://github.com/erigontech/erigon/pull/20516#pullrequestreview-4098190326) - 2026-04-13
+* [Review] [Review on: plugins/auth: add UCAN core library with EOA signer and MDBX store](https://github.com/erigontech/erigon/pull/20472#pullrequestreview-4098644456) - 2026-04-13
+* [Review] [Review on: node/components/storage: extract storage component from backend.go](https://github.com/erigontech/erigon/pull/20476#pullrequestreview-4098642086) - 2026-04-13
+* [Review] [Review on: node: introduce nodebuilder component registry](https://github.com/erigontech/erigon/pull/20473#pullrequestreview-4098618350) - 2026-04-13
+* [Review] [Review on: Revert "[r3.4] db/state: fix stale slot resurrection after unwind and deletion (#20494)"](https://github.com/erigontech/erigon/pull/20524#pullrequestreview-4098495141) - 2026-04-13
+* [Review] [Review on: cp related PRs for "don't query in db, what is in files" ](https://github.com/erigontech/erigon/pull/20518#pullrequestreview-4098266187) - 2026-04-13
+* [Pull Request] [teach: `Unwind` beyond data in snapshots not allowed](https://github.com/erigontech/erigon/pull/20517) - 2026-04-13
+* [Pull Request] [[wip] snapshots: align state files to block file boundary on startup](https://github.com/erigontech/erigon/pull/20508) - 2026-04-13
+* [Review] [Review on: build(deps): bump actions/create-github-app-token from 2.2.1 to 3.1.1](https://github.com/erigontech/erigon/pull/20512#pullrequestreview-4096887607) - 2026-04-13
+* [Review] [Review on: build(deps): bump docker/setup-qemu-action from 3 to 4](https://github.com/erigontech/erigon/pull/20510#pullrequestreview-4096888679) - 2026-04-13
+* [Review] [Review on: build(deps): bump actions/upload-artifact from 6 to 7](https://github.com/erigontech/erigon/pull/20511#pullrequestreview-4096886185) - 2026-04-13
+* [Commit] [seg: `MatchCmp()` unit-tests and zero-copy (#19845)](https://github.com/erigontech/erigon/commit/d8471e06553f803da478564d56568e3316024e8e) - 2026-04-13
+* [Commit] [cherry-pick 14 commits from release/3.4 to main (#20497)](https://github.com/erigontech/erigon/commit/92445ff2b0f03462f601b0a97c8c41e3696a81a9) - 2026-04-13
+* [Commit] [agg: lock-free Begin() (#20462)](https://github.com/erigontech/erigon/commit/45f5927241c8e8bc39dc9fa1b9d2f2dd32c6f448) - 2026-04-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026

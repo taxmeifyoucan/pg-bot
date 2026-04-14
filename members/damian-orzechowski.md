@@ -18,6 +18,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat: make debug_executionWitness compatible with FlatDb](https://github.com/NethermindEth/nethermind/pull/11045#pullrequestreview-4068558802) - 2026-04-07
 * [Review] [Review on: refactor: Move state access before out of gas checks](https://github.com/NethermindEth/nethermind/pull/11011#pullrequestreview-4073614646) - 2026-04-08
 * [Pull Request] [Allow `HistoryPruner` to be callable via decorator](https://github.com/NethermindEth/nethermind/pull/11098) - 2026-04-10
+* [Review] [Review on: feat: add call count limit for trace_callMany](https://github.com/NethermindEth/nethermind/pull/11085#pullrequestreview-4097485408) - 2026-04-13
+* [Review] [Review on: fix: add bounds check before unsafe RLP length deserialization](https://github.com/NethermindEth/nethermind/pull/11088#pullrequestreview-4097238638) - 2026-04-13
 ## Q1 2026
 
 

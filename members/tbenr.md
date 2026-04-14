@@ -21,6 +21,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Add support for v1.7.0-alpha.4](https://github.com/Consensys/teku/pull/10544#pullrequestreview-4080768179) - 2026-04-09
 * [Review] [Review on: 10098 execution payload storage](https://github.com/Consensys/teku/pull/10541#pullrequestreview-4088676964) - 2026-04-10
 
+* [Review] [Review on: Extract forkchoice reorg and timeliness logic (1 of 7)](https://github.com/Consensys/teku/pull/10548#pullrequestreview-4099043326) - 2026-04-13
+* [Review] [Review on: implement engine get exeuction payload bodies v2](https://github.com/Consensys/teku/pull/10550#pullrequestreview-4097871802) - 2026-04-13
+* [Issue] [7. Activate Gloas forkchoice by milestone](https://github.com/Consensys/teku/issues/10557) - 2026-04-13
+* [Issue] [6. Add dormant Gloas forkchoice model and rebuild support](https://github.com/Consensys/teku/issues/10556) - 2026-04-13
+* [Issue] [5. Add dormant Gloas forkchoice spec helpers and fork-gated utilities](https://github.com/Consensys/teku/issues/10555) - 2026-04-13
+* [Issue] [4. Introduce a default forkchoice model seam without changing behavior](https://github.com/Consensys/teku/issues/10554) - 2026-04-13
+* [Issue] [3. Make vote tracking slot-aware and add backward-compatible vote update plumbing](https://github.com/Consensys/teku/issues/10553) - 2026-04-13
+* [Issue] [2. Add forkchoice node identity plumbing with current behavior unchanged](https://github.com/Consensys/teku/issues/10552) - 2026-04-13
+* [Issue] [1. Extract late reorg and timeliness logic out of `LateBlockReorgLogic`](https://github.com/Consensys/teku/issues/10551) - 2026-04-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 ## Q1 2026

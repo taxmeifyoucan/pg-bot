@@ -15,6 +15,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088818883) - 2026-04-10
 * [Review] [Review on: integration tool: clear result after verify sync is done](https://github.com/erigontech/rpc-tests/pull/546#pullrequestreview-4088803951) - 2026-04-10
 * [Review] [Review on: integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545#pullrequestreview-4088800936) - 2026-04-10
+* [Review] [Review on: integration runner: add --max-failures flag to cap test output ](https://github.com/erigontech/rpc-tests/pull/548#pullrequestreview-4097595660) - 2026-04-13
 ## Q1 2026
 
 

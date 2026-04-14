@@ -39,6 +39,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: correct proposer boost logic and getParentNodeIndex for gloas](https://github.com/ChainSafe/lodestar/pull/9165#pullrequestreview-4072563838) - 2026-04-08
 * [Review] [Review on: refactor: reorder payload status constants](https://github.com/ChainSafe/lodestar/pull/9176#pullrequestreview-4073614860) - 2026-04-08
 * [Review] [Review on: fix: ignore beacon block if parent payload unknown](https://github.com/ChainSafe/lodestar/pull/9178#pullrequestreview-4072569088) - 2026-04-08
+* [Review] [Review on: fix: use fork choice for parent payload status in block production](https://github.com/ChainSafe/lodestar/pull/9209#pullrequestreview-4098865909) - 2026-04-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

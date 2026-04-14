@@ -36,6 +36,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: improve archive compression and remove stale perf-devnet-2 data](https://github.com/NethermindEth/gas-benchmarks/commit/312ff21a6e23a029b5992a5cce35fba49e140e59) - 2026-04-06
 * [Commit] [chore: remove generated payloads from repo, fix partial regen artifact integrity](https://github.com/NethermindEth/gas-benchmarks/commit/4143547ff846093785dbe30fb48ae25e8b061883) - 2026-04-07
 * [Commit] [fix: update stubs path from bloatnet/ to stubs/](https://github.com/NethermindEth/gas-benchmarks/commit/09a17c80559e086dc860ba0ee9fae59d95e35558) - 2026-04-07
+
+* [Commit] [chore: remove all perf-devnet-2 references](https://github.com/NethermindEth/gas-benchmarks/commit/995f17735cc9363e388fc426e1e2f768315596b2) - 2026-04-13
+* [Commit] [feat: gate address-stubs to stateful tests, use repricing stubs for -m repricing](https://github.com/NethermindEth/gas-benchmarks/commit/41cb89493d6b86a90ddaa5f38f3c6596aef37f76) - 2026-04-13
+* [Commit] [fix: prevent delete_stale_assets grep from killing upload step on no match](https://github.com/NethermindEth/gas-benchmarks/commit/2629867314c8be8a67baa01c0be042aab47313ed) - 2026-04-13
+* [Commit] [feat: split release archives >1.9GB, fix stale /tmp/base-restore on runner](https://github.com/NethermindEth/gas-benchmarks/commit/b229c882763197062faa5e09ebe2220be2f39260) - 2026-04-13
+* [Commit] [fix: skip release asset upload when generate job failed](https://github.com/NethermindEth/gas-benchmarks/commit/655a8bfc367f704ad886b9dd66d9ad9db5ea428e) - 2026-04-13
+* [Commit] [fix: increment _PREP_SLOT_COUNTER during replay so mitm seeds correct starting slot](https://github.com/NethermindEth/gas-benchmarks/commit/bd2df19ab63f8c9bef3f60926c3c40f8ecf543ae) - 2026-04-13
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [Remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670) - 2026-04-13
 ## Q1 2026
 
 

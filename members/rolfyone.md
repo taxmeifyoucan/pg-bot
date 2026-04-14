@@ -17,6 +17,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [added an executor for Gossip beacon attestation reftests](https://github.com/Consensys/teku/pull/10546) - 2026-04-02
 * [Review] [Review on: added an executor for Gossip beacon attestation reftests](https://github.com/Consensys/teku/pull/10546#pullrequestreview-4049005284) - 2026-04-02
 * [Commit] [added executors for some alpha4 test cases (#10545)](https://github.com/Consensys/teku/commit/5e3654d8f89ca29542fce259e3cde077e2f77092) - 2026-04-02
+* [Review] [Review on: added an executor for Gossip beacon attestation reftests](https://github.com/Consensys/teku/pull/10546#pullrequestreview-4096254255) - 2026-04-13
 ## Q1 2026
 
 
