@@ -21,6 +21,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11
+* [Review] [Review on: feat: add more invalid BAL test cases; extend invalid case coverage](https://github.com/ethereum/execution-specs/pull/2653#pullrequestreview-4104415667) - 2026-04-14
 ## Q1 2026
 
 

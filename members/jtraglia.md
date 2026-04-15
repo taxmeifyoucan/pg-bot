@@ -61,6 +61,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update actions/upload-artifact action to v7.0.1](https://github.com/ethereum/consensus-specs/pull/5097#pullrequestreview-4098830724) - 2026-04-13
 * [Commit] [In networking tests, yield values after mutating them (#5050)](https://github.com/ethereum/consensus-specs/commit/0297e90f874343e1f1ba75b624ef4cc4d512f601) - 2026-04-13
 * [Commit] [Bump version to v1.7.0-alpha.5 (#5104)](https://github.com/ethereum/consensus-specs/commit/50e3291ee678cca742153843d18463fc9d0aff53) - 2026-04-13
+* [Pull Request] [Add more test action inputs](https://github.com/ethereum/consensus-specs/pull/5112) - 2026-04-14
+* [Pull Request] [Rename `on_execution_payload` to `on_execution_payload_envelope`](https://github.com/ethereum/consensus-specs/pull/5108) - 2026-04-14
+* [Review] [Review on: Fix BeaconBlocksByRange typo](https://github.com/ethereum/consensus-specs/pull/5109#pullrequestreview-4103620629) - 2026-04-14
+* [Commit] [Remove epoch param from slot deadline functions (#5095)](https://github.com/ethereum/consensus-specs/commit/84a276f1579f179f06e95bbbd2a7db9065b24a9f) - 2026-04-14
+* [Commit] [Add more test action inputs (#5112)](https://github.com/ethereum/consensus-specs/commit/b162d55830fdad78723099fc29c8430c97ec99a7) - 2026-04-14
+* [Commit] [Rename `on_execution_payload` to `on_execution_payload_envelope` (#5108)](https://github.com/ethereum/consensus-specs/commit/91782ecdbaecfd46f33893287d6641abcdbaa9e8) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 ## Q1 2026

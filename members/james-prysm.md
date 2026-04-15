@@ -44,6 +44,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add missing fields to Gloas genesis block bid](https://github.com/OffchainLabs/prysm/pull/16646#pullrequestreview-4090122430) - 2026-04-10
 * [Pull Request] [reversing checkpoint api change](https://github.com/OffchainLabs/prysm/pull/16660) - 2026-04-13
 * [Review] [Review on: perf(auth): optimize auth token handling #15763](https://github.com/OffchainLabs/prysm/pull/15793#pullrequestreview-4100811773) - 2026-04-13
+* [Review] [Review on: Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16623#pullrequestreview-4106825715) - 2026-04-14
+* [Review] [Review on: updated duties using split endpoints](https://github.com/OffchainLabs/prysm/pull/16421#pullrequestreview-4106419530) - 2026-04-14
+* [Pull Request] [Get block v4](https://github.com/OffchainLabs/prysm/pull/16488) - 2026-04-14
+* [Commit] [allow proposer preferences on the same epoch (#16610)](https://github.com/OffchainLabs/prysm/commit/e2ffb42abe3f70a967f3ad401d06342e45ea8bf1) - 2026-04-14
+* [Commit] [reversing checkpoint api change (#16660)](https://github.com/OffchainLabs/prysm/commit/d1bb9018d33b1ec39f3377503292bdd74e816a47) - 2026-04-14
+* [Commit] [implementing envelope rest apis  (#16522)](https://github.com/OffchainLabs/prysm/commit/8c70e4bbb1e18200f39ecdc81b4b94a927797964) - 2026-04-14
+* [Commit] [Get block v4 (#16488)](https://github.com/OffchainLabs/prysm/commit/9069afc6d0275ed2877e1750a8350e028ab9bb8b) - 2026-04-14
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

@@ -14,6 +14,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Website: Remove `Online Serial` from "Citation". (#11268)](https://github.com/ethereum/EIPs/commit/d971fb5d3bd1dc0fe7d34901784fd020db041457) - 2026-04-07
 
+* [Commit] [Add EIP: Upgrade Nomenclature](https://github.com/ethereum/EIPs/commit/fba5b246b2b3659616cc741dac9a36f60b755bf1) - 2026-04-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #96, April 07, 2026](https://github.com/ethereum/pm/issues/2007) - 2026-04-07
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #97, April 14, 2026](https://github.com/ethereum/pm/issues/2017) - 2026-04-13

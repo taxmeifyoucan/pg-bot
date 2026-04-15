@@ -25,6 +25,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: validate MIN_EPOCHS for blob/data column by range/root requests](https://github.com/ChainSafe/lodestar/pull/9173#pullrequestreview-4072696511) - 2026-04-08
 * [Review] [Review on: refactor: reorder payload status constants](https://github.com/ChainSafe/lodestar/pull/9176#pullrequestreview-4085583804) - 2026-04-09
 * [Pull Request] [feat: ignore index-1 attestation when payload is missing](https://github.com/ChainSafe/lodestar/pull/9213) - 2026-04-14
+* [Pull Request] [refactor: revert dual-state from regen, block production, and metrics](https://github.com/ChainSafe/lodestar/pull/9218) - 2026-04-15
+* [Pull Request] [refactor: revert dual-state cache architecture from ePBS](https://github.com/ChainSafe/lodestar/pull/9215) - 2026-04-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 ## Q1 2026

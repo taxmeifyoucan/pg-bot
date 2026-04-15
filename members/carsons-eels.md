@@ -13,6 +13,7 @@ Github: [@carsons-eels](https://github.com/carsons-eels)
 * [Pull Request] [feat(tooling): added a smoke test for devs](https://github.com/ethereum/execution-specs/pull/2605) - 2026-04-01
 
 * [Issue] [Refactor post-frontier gas constant's init to use non-zero value as sentinel](https://github.com/ethereum/execution-specs/issues/2659) - 2026-04-13
+* [Review] [Review on: feat(tooling): align versioning scheme to 6.19.0](https://github.com/ethereum/execution-specs/pull/2464#pullrequestreview-4103524418) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489) - 2026-04-10
 ## Q1 2026

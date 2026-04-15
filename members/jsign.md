@@ -19,6 +19,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635) - 2026-04-08
 * [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4075709601) - 2026-04-08
 * [Pull Request] [feat(zkevm): add execution witness support to other fixture formats](https://github.com/ethereum/execution-specs/pull/2667) - 2026-04-13
+* [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4106818686) - 2026-04-14
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01
@@ -31,6 +32,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [witness-generator-cli: add --genesis support for custom network support](https://github.com/eth-act/zkevm-benchmark-workload/pull/274) - 2026-04-10
 * [Commit] [chore: improve docs and ci (#275)](https://github.com/eth-act/zkevm-benchmark-workload/commit/d7181aa47ac050a1a831327a3720cabde86cc49e) - 2026-04-11
 * [Commit] [witness-generator-cli: add --genesis support for custom network support (#274)](https://github.com/eth-act/zkevm-benchmark-workload/commit/150d92fa0692033da14b10885ff0dfe09fe0c36a) - 2026-04-10
+* [Pull Request] [Support BAL Devnet 3](https://github.com/eth-act/zkevm-benchmark-workload/pull/276) - 2026-04-14
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08
@@ -39,6 +41,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [feat(stateless): make witness generation conform to the draft specs (#22289)](https://github.com/paradigmxyz/reth/commit/a05960ab07acae0d933a5a2cd69a11044719841a) - 2026-04-13
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Introduction of REST based + SSZ serialized `new-payload-with-witness`](https://github.com/ethereum/execution-apis/pull/773#pullrequestreview-4094049144) - 2026-04-11
+* [Review] [Review on: Introduction of REST based + SSZ serialized `new-payload-with-witness`](https://github.com/ethereum/execution-apis/pull/773#pullrequestreview-4106042648) - 2026-04-14
 ## Q1 2026
 
 

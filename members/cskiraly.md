@@ -13,6 +13,7 @@ Team: Codex DAS
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth: protect high-value peers from random dropping based on tx inclusion stats](https://github.com/ethereum/go-ethereum/pull/34702) - 2026-04-11
+* [Commit] [cmd/devp2p/internal/v5test: fix hive test for discv5 findnode results (#34043)](https://github.com/ethereum/go-ethereum/commit/c453b99a57abdce283864ee29f1c90a10e7c887a) - 2026-04-14
 ## Q1 2026
 
 

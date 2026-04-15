@@ -21,6 +21,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4097078708) - 2026-04-13
 * [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4097017101) - 2026-04-13
 * [Review] [Review on: feat: add endpoint to craft attester slashings from blocks](https://github.com/ChainSafe/lodestar/pull/9198#pullrequestreview-4097049992) - 2026-04-13
+* [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4105231286) - 2026-04-14
+* [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4104944613) - 2026-04-14
 ## Q1 2026
 
 

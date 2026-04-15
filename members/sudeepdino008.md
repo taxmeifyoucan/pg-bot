@@ -85,6 +85,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.4] revert "db/state: fix stale slot resurrection after unwind and deletion (#20494)"](https://github.com/erigontech/erigon/pull/20513) - 2026-04-13
 * [Review] [Review on: teach: `Unwind` beyond data in snapshots not allowed](https://github.com/erigontech/erigon/pull/20517#pullrequestreview-4098222354) - 2026-04-13
 * [Commit] [revert "db/state: fix stale slot resurrection after unwind and deletion (#20483)" (#20509)](https://github.com/erigontech/erigon/commit/f5593e669fdc47df4e837b1d446bd3b587a4260a) - 2026-04-13
+* [Pull Request] [[r3.4] commitment, execctx: fix InsertBlocks failure during block catch-up](https://github.com/erigontech/erigon/pull/20555) - 2026-04-14
+* [Pull Request] [seg: add rm-blocks command to remove latest block snapshot files](https://github.com/erigontech/erigon/pull/20554) - 2026-04-14
+* [Pull Request] [commitment, execctx: fix InsertBlocks failure during block catch-up](https://github.com/erigontech/erigon/pull/20546) - 2026-04-14
+* [Commit] [commitment, execctx: fix InsertBlocks failure during block catch-up (#20546)](https://github.com/erigontech/erigon/commit/ad7ea1e537da9d0424a034510106d6b01172ba84) - 2026-04-14
 ## Q1 2026
 
 

@@ -31,6 +31,9 @@ Team: Reth
 * [Commit] [fix(download): show error on retry and reset counter on progress (#23426)](https://github.com/paradigmxyz/reth/commit/0ed4739482f5e73d0cf5adfd09b727edf338e3ad) - 2026-04-10
 * [Review] [Review on: ci: bump MSRV job runner to depot-ubuntu-latest-8](https://github.com/paradigmxyz/reth/pull/23432#pullrequestreview-4087803926) - 2026-04-10
 
+* [Review] [Review on: ci(bench): replace no_slack boolean with slack dropdown (always/on-error/never)](https://github.com/paradigmxyz/reth/pull/23501#pullrequestreview-4107295034) - 2026-04-14
+* [Review] [Review on: feat: add reqwest-rustls to support otlp endpoints with https](https://github.com/paradigmxyz/reth/pull/23495#pullrequestreview-4106562745) - 2026-04-14
+* [Review] [Review on: feat(bench): BAL capture, replay, and inline payload decoding](https://github.com/paradigmxyz/reth/pull/23434#pullrequestreview-4105399333) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

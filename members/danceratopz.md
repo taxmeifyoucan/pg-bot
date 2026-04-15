@@ -41,6 +41,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tooling): add docs-serve just recipes and tidy docs env handling (#2660)](https://github.com/ethereum/execution-specs/commit/f059c48836f23dba0ad48d367faf2b74f86c1624) - 2026-04-13
 * [Commit] [fix(test-fill): resolve checklist path for EIPs referenced via `eip=[N]` kwarg (#2665)](https://github.com/ethereum/execution-specs/commit/ec74da478720ffd55a0ac93169e48db0ffcae86b) - 2026-04-13
 * [Commit] [chore(tooling): ignore `.mypy_cache` (symlink) and `.python-version` (#2661)](https://github.com/ethereum/execution-specs/commit/792e9997dd755582bfa9f7907cb5290fba6516db) - 2026-04-13
+* [Pull Request] [docs(specs): add Specs section and rehome top-level docs](https://github.com/ethereum/execution-specs/pull/2677) - 2026-04-14
+* [Review] [Review on: feat(test-forks): enable multiple EIP to be specified in `fork.is_eip_enabled`](https://github.com/ethereum/execution-specs/pull/2676#pullrequestreview-4107269750) - 2026-04-14
+* [Review] [Review on: feat(validate): new validate command for direct client binary testing](https://github.com/ethereum/execution-specs/pull/2622#pullrequestreview-4106489700) - 2026-04-14
+* [Pull Request] [chore(doc): use orange eth diamond as favicon](https://github.com/ethereum/execution-specs/pull/2674) - 2026-04-14
+* [Review] [Review on: feat(test-fill): add `--include-benchmark` and scan both tests + tests/benchmark in `checklist`](https://github.com/ethereum/execution-specs/pull/2668#pullrequestreview-4104106574) - 2026-04-14
+* [Review] [Review on: feat(tooling,test-cli): add just checklist and `allowed_exit_codes` to `PytestCommand`](https://github.com/ethereum/execution-specs/pull/2648#pullrequestreview-4103504516) - 2026-04-14
+* [Issue] [Speed-up `bench-gas` check](https://github.com/ethereum/execution-specs/issues/2673) - 2026-04-14
+* [Commit] [feat(docs): use orange eth diamond as favicon (#2674)](https://github.com/ethereum/execution-specs/commit/eb84f4c959ea969ec706215b1ecb20c93aa68f36) - 2026-04-14
+* [Commit] [feat(test-fill): add `--include-benchmark` and scan both tests + tests/benchmark in `checklist` (#2668)](https://github.com/ethereum/execution-specs/commit/6048fe5797c2eaf702b5794a4f727ca425bb8117) - 2026-04-14
+* [Commit] [feat(tooling): add `shell-completions` recipe to print setup instructions (#2651)](https://github.com/ethereum/execution-specs/commit/81402c0dfdbdbe405206e5d2fc049b4a6d587a16) - 2026-04-14
+* [Commit] [feat(docs): update content for post-weld execution-specs (#2662)](https://github.com/ethereum/execution-specs/commit/f802a2462c355eba397af97eff7bd20ce85132ae) - 2026-04-14
 ## Q1 2026
 
 

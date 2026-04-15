@@ -51,6 +51,7 @@ Team: Erigon
 * [Review] [Review on: execution: fix BAL recording when coinbase == transaction target](https://github.com/erigontech/erigon/pull/20501#pullrequestreview-4097397000) - 2026-04-13
 * [Issue] [db/state: merge schedule non-determinism across nodes — impacts decentralized snapshot distribution](https://github.com/erigontech/erigon/issues/20531) - 2026-04-13
 * [Commit] [exec: fix partial block receipt reconstruction (#20452) (#20467)](https://github.com/erigontech/erigon/commit/50fd650c49424579bb5ba390c82abda31239d20f) - 2026-04-13
+* [Review] [Review on: [wip] snapshots: align state files to block file boundary on startup](https://github.com/erigontech/erigon/pull/20508#pullrequestreview-4104421707) - 2026-04-14
 ## Q1 2026
 
 

@@ -8,6 +8,11 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 ## Contributions
 
+## Q2 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4103534107) - 2026-04-14
 ## Q1 2026
 
 

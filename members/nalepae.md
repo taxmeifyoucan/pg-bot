@@ -20,6 +20,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Field Trie: Implement copy on write and base/overlay scheme.](https://github.com/OffchainLabs/prysm/pull/16512#pullrequestreview-4071591729) - 2026-04-07
 * [Pull Request] [Pubkey cache: Use map+mutex instead of LRU cache](https://github.com/OffchainLabs/prysm/pull/16654) - 2026-04-11
 * [Review] [Review on: Fix processBatchedBlocks returning pre-filter block count](https://github.com/OffchainLabs/prysm/pull/16657#pullrequestreview-4097247586) - 2026-04-13
+* [Review] [Review on: Queue Gloas data column sidecars arriving before their block](https://github.com/OffchainLabs/prysm/pull/16653#pullrequestreview-4104348510) - 2026-04-14
 ## Q1 2026
 
 

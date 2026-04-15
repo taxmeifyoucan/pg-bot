@@ -18,6 +18,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] cl/sentinel: fix panic on short attnets ENR entry](https://github.com/erigontech/erigon/pull/20493#pullrequestreview-4093476802) - 2026-04-11
 * [Review] [Review on: [r3.4] logger: avoid mutex contention](https://github.com/erigontech/erigon/pull/20487#pullrequestreview-4093433177) - 2026-04-11
 * [Review] [Review on: cherry-pick 14 commits from release/3.4 to main](https://github.com/erigontech/erigon/pull/20497#pullrequestreview-4096717204) - 2026-04-13
+* [Pull Request] [caplin: fix peerdas gossip init order to eliminate false warning](https://github.com/erigontech/erigon/pull/20538) - 2026-04-14
+* [Commit] [caplin: fix peerdas gossip init order to eliminate false warning (#20538)](https://github.com/erigontech/erigon/commit/e39ecde251116f98cff2e5ceb280eef11a93bd0f) - 2026-04-14
+* [Commit] [p2p/sentry: event-driven StatusData cache, merge dual db.View (#20464)](https://github.com/erigontech/erigon/commit/f199a66e1714da833fd258ea511aef9816f4fe7b) - 2026-04-14
 ## Q1 2026
 
 

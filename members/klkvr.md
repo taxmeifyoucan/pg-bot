@@ -33,6 +33,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(consensus): always validate minimum gas limit](https://github.com/paradigmxyz/reth/pull/23441#pullrequestreview-4089718643) - 2026-04-10
 * [Review] [Review on: perf(tracing): also disable target attribute in OTLP spans](https://github.com/paradigmxyz/reth/pull/23462#pullrequestreview-4093968761) - 2026-04-11
 * [Review] [Review on: chore: bump alloy to 2.0.0](https://github.com/paradigmxyz/reth/pull/23407#pullrequestreview-4098996123) - 2026-04-13
+* [Pull Request] [fix: allow adding peers without overriding kind](https://github.com/paradigmxyz/reth/pull/23516) - 2026-04-14
+* [Review] [Review on: feat: implement try into v6](https://github.com/paradigmxyz/reth/pull/23497#pullrequestreview-4108582712) - 2026-04-14
+* [Review] [Review on: chore: bump revm to v37 (EIP-8037 state gas)](https://github.com/paradigmxyz/reth/pull/23191#pullrequestreview-4105758950) - 2026-04-14
+* [Review] [Review on: feat(discv4): add AddBootNode command](https://github.com/paradigmxyz/reth/pull/23515#pullrequestreview-4108561109) - 2026-04-14
+* [Review] [Review on: feat(net): add discv4/discv5 getters to NetworkHandle](https://github.com/paradigmxyz/reth/pull/23514#pullrequestreview-4108559085) - 2026-04-14
+* [Commit] [fix: allow adding peers without overriding kind (#23516)](https://github.com/paradigmxyz/reth/commit/dbb8495be1f9ba41872ee39410056116ee01c7b7) - 2026-04-14
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

@@ -21,6 +21,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [bump `nimbus-eth2` to 3bc1a2ad2625fa9d7f8d1bcd2cf6bba956012780 (#4104)](https://github.com/status-im/nimbus-eth1/commit/89fccf1c0753ff13ce63995497d73b891fa88152) - 2026-04-07
 * [Pull Request] [pruner](https://github.com/status-im/nimbus-eth1/pull/3953) - 2026-04-08
 * [Commit] [pruner (#3953)](https://github.com/status-im/nimbus-eth1/commit/f69ed9294453269d9ae6722849778a1962da8eac) - 2026-04-08
+* [Pull Request] [fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126) - 2026-04-14
+* [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4104159290) - 2026-04-14
 ## Q1 2026
 
 

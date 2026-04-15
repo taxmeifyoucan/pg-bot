@@ -27,6 +27,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(doc): add skill for generating docstrings](https://github.com/ethereum/execution-specs/pull/2669#pullrequestreview-4101899450) - 2026-04-13
 * [Review] [Review on: chore(tooling): ignore `.mypy_cache` (symlink) and `.python-version`](https://github.com/ethereum/execution-specs/pull/2661#pullrequestreview-4099991801) - 2026-04-13
 * [Commit] [chore(doc): add skill for generating docstrings (#2669)](https://github.com/ethereum/execution-specs/commit/47782b3d5b1d24e435752878954e01e978681b98) - 2026-04-13
+* [Review] [Review on: docs(specs): add Specs section and rehome top-level docs](https://github.com/ethereum/execution-specs/pull/2677#pullrequestreview-4107833320) - 2026-04-14
+* [Issue] [Move `REFUND_AUTH_PER_EXISTING_ACCOUNT` and `TX_MAX_GAS_LIMIT` with other gas constants](https://github.com/ethereum/execution-specs/issues/2680) - 2026-04-14
+* [Issue] [Fix spurious diffs introduced in #2396](https://github.com/ethereum/execution-specs/issues/2681) - 2026-04-14
 ## Q1 2026
 
 

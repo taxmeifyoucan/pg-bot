@@ -30,6 +30,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [3. Make vote tracking slot-aware and add backward-compatible vote update plumbing](https://github.com/Consensys/teku/issues/10553) - 2026-04-13
 * [Issue] [2. Add forkchoice node identity plumbing with current behavior unchanged](https://github.com/Consensys/teku/issues/10552) - 2026-04-13
 * [Issue] [1. Extract late reorg and timeliness logic out of `LateBlockReorgLogic`](https://github.com/Consensys/teku/issues/10551) - 2026-04-13
+* [Review] [Review on: 10098 6 unblind execution payload](https://github.com/Consensys/teku/pull/10559#pullrequestreview-4104193310) - 2026-04-14
+* [Review] [Review on: Extract forkchoice reorg and timeliness logic (1 of 7)](https://github.com/Consensys/teku/pull/10548#pullrequestreview-4104141910) - 2026-04-14
+* [Issue] [Defer payload processing to next block](https://github.com/Consensys/teku/issues/10562) - 2026-04-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 ## Q1 2026

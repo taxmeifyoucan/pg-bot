@@ -22,6 +22,15 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(test-plugins-forks): Introduce `pytest.mark.valid_before`](https://github.com/ethereum/execution-specs/pull/2647#pullrequestreview-4091018110) - 2026-04-10
 * [Review] [Review on: tests(amsterdam): add BAL missing withdrawal account tests](https://github.com/ethereum/execution-specs/pull/2652#pullrequestreview-4091628971) - 2026-04-10
 * [Review] [Review on: chore(doc): add skill for generating docstrings](https://github.com/ethereum/execution-specs/pull/2669#pullrequestreview-4101512753) - 2026-04-13
+* [Pull Request] [feat(test-cli): Add support for testing block building via simulator](https://github.com/ethereum/execution-specs/pull/2679) - 2026-04-14
+* [Review] [Review on: feat: add more invalid BAL test cases; extend invalid case coverage](https://github.com/ethereum/execution-specs/pull/2653#pullrequestreview-4109367025) - 2026-04-14
+* [Review] [Review on: feat(test-forks): enable multiple EIP to be specified in `fork.is_eip_enabled`](https://github.com/ethereum/execution-specs/pull/2676#pullrequestreview-4107301514) - 2026-04-14
+* [Issue] [Add EIP marker for better DevEx](https://github.com/ethereum/execution-specs/issues/2675) - 2026-04-14
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
+* [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14
+* [Commit] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1` (#34722)](https://github.com/ethereum/go-ethereum/commit/c9fea44616560d42c4a67704c1cb79a1445741f8) - 2026-04-14
 ## Q1 2026
 
 

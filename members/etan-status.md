@@ -36,12 +36,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Use executionValid API](https://github.com/status-im/nimbus-eth2/pull/8261) - 2026-04-13
 * [Pull Request] [Separate terminology for light client based sync and optimistic sync](https://github.com/status-im/nimbus-eth2/pull/8260) - 2026-04-13
 * [Pull Request] [Clean up light client data types](https://github.com/status-im/nimbus-eth2/pull/8259) - 2026-04-13
+* [Review] [Review on: don't require safe/finalized block hashes to match when checking cached payload requests](https://github.com/status-im/nimbus-eth2/pull/8268#pullrequestreview-4107706213) - 2026-04-14
+* [Pull Request] [Accessors for EL block header data in light client library](https://github.com/status-im/nimbus-eth2/pull/8269) - 2026-04-14
+* [Pull Request] [Remove unused current_slot param in fork_choice](https://github.com/status-im/nimbus-eth2/pull/8270) - 2026-04-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13
+* [Pull Request] [Fix nim-bncurve branch tracking](https://github.com/status-im/nimbus-eth1/pull/4127) - 2026-04-14
 ## Q1 2026
 
 

@@ -21,6 +21,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Preserve state gas reservoir for the top level frame in case of OOG](https://github.com/besu-eth/besu/pull/10205#pullrequestreview-4082772509) - 2026-04-09
 * [Review] [Review on: snap sync - apply BALs before flat db heal](https://github.com/besu-eth/besu/pull/10151#pullrequestreview-4080828131) - 2026-04-09
 * [Review] [Review on: Implement aggregation in pipeline service](https://github.com/besu-eth/besu/pull/10202#pullrequestreview-4098008185) - 2026-04-13
+* [Review] [Review on: Feature add block import trace to eth simulate](https://github.com/besu-eth/besu/pull/10211#pullrequestreview-4106671510) - 2026-04-14
+* [Pull Request] [enable bal parallelization for all blocks](https://github.com/besu-eth/besu/pull/10234) - 2026-04-14
+* [Review] [Review on: BAL: check max item size before bal hash](https://github.com/besu-eth/besu/pull/10231#pullrequestreview-4105849446) - 2026-04-14
+* [Review] [Review on: Exclude halt-burned gas from block regular gas](https://github.com/besu-eth/besu/pull/10225#pullrequestreview-4104730233) - 2026-04-14
 ## Q1 2026
 
 

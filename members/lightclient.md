@@ -15,6 +15,10 @@ Team: Geth
 * [Pull Request] [Update EIP-8141: add signatures list to outer tx](https://github.com/ethereum/EIPs/pull/11481) - 2026-04-02
 * [Review] [Review on: Update EIP-8141: Disable EIP-3607 check for frame transactions](https://github.com/ethereum/EIPs/pull/11272#pullrequestreview-4076978135) - 2026-04-08
 * [Review] [Review on: Update EIP-8141: Add EIP-1559 to requires header](https://github.com/ethereum/EIPs/pull/11251#pullrequestreview-4076969537) - 2026-04-08
+* [Review] [Review on: Update EIP-8141: Tighten spec](https://github.com/ethereum/EIPs/pull/11521#pullrequestreview-4106039164) - 2026-04-14
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4105687607) - 2026-04-14
 ## Q1 2026
 
 

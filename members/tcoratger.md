@@ -62,6 +62,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: chore(deps): update hashbrown requirement from 0.16.1 to 0.17.0](https://github.com/Plonky3/Plonky3/pull/1548#pullrequestreview-4098631975) - 2026-04-13
 * [Commit] [harden(poseidon1, poseidon2): add paper-derived parameter assertions to constructors (#1551)](https://github.com/Plonky3/Plonky3/commit/c7bacaeb4c870e3d6f9b7c23064c05e555c80bc8) - 2026-04-13
 * [Commit] [refactor(interpolation): replace free functions with Interpolate extension trait (#1540)](https://github.com/Plonky3/Plonky3/commit/88034d70cb750cccd7c330e9adcb2f28c51cc4ed) - 2026-04-13
+* [Pull Request] [perf(interpolation): optimize barycentric weights via algebraic identity](https://github.com/Plonky3/Plonky3/pull/1553) - 2026-04-14
 ## Q1 2026
 
 

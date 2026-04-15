@@ -120,6 +120,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: rpc: expose testing_ namespace via --http.api on port 8545](https://github.com/erigontech/erigon/pull/20482#pullrequestreview-4097360694) - 2026-04-13
 * [Commit] [execution/cache: wire RevertWithDiffset into unwind path (#20516)](https://github.com/erigontech/erigon/commit/2a347107bff836923f60cf65b632dd778a4051cf) - 2026-04-13
 * [Commit] [execution: fix BAL recording when coinbase == transaction target (#20501)](https://github.com/erigontech/erigon/commit/435daf7689e89a41983e645c8c8fa7b86bc68bce) - 2026-04-13
+* [Review] [Review on: [wip] evm: less intern](https://github.com/erigontech/erigon/pull/20552#pullrequestreview-4105250480) - 2026-04-14
+* [Pull Request] [QA: re-enable debug_accountRange and debug_storageRangeAt RPC integration tests](https://github.com/erigontech/erigon/pull/20557) - 2026-04-14
+* [Review] [Review on:  fix trace_rawTransaction aligned to nethermind and Reth impl](https://github.com/erigontech/erigon/pull/20448#pullrequestreview-4105082209) - 2026-04-14
+* [Review] [Review on: rpc: WebSocket overload protection](https://github.com/erigontech/erigon/pull/20446#pullrequestreview-4105035118) - 2026-04-14
+* [Pull Request] [node/interfaces: vendor submodule as regular files](https://github.com/erigontech/erigon/pull/20558) - 2026-04-14
+* [Pull Request] [ci: remove flaky eoa-transactions-test from caplin-minimal suite](https://github.com/erigontech/erigon/pull/20556) - 2026-04-14
+* [Commit] [QA: re-enable debug_accountRange and debug_storageRangeAt RPC integration tests (#20557)](https://github.com/erigontech/erigon/commit/d902b3c3a5b0d7ed456b71d79d3d47f8c1f30711) - 2026-04-14
+* [Commit] [consensus: remove obsolete clique PoA engine (#20532)](https://github.com/erigontech/erigon/commit/f3ca54f0f9b6f98ad593fa123a74f5c2656d4746) - 2026-04-14
+* [Commit] [execution/vm: switch modExp precompile to evmone + math/big hybrid (#20530)](https://github.com/erigontech/erigon/commit/b4c4d9cc6e4693e9109ab3a3aa9e8974fb08744b) - 2026-04-14
+* [Commit] [vm: extract shared execCreate helper for opCreate and opCreate2 (#20426)](https://github.com/erigontech/erigon/commit/8b275fb3f5603ee2f36de6efd464bc1dfc74d39e) - 2026-04-14
+* [Commit] [parallel executor: fix two cache bugs (#20515)](https://github.com/erigontech/erigon/commit/43a64a0b66f1130ba8e66027e8d31253863d4d69) - 2026-04-14
+* [Commit] [all: reduce code duplication across codebase (#20504)](https://github.com/erigontech/erigon/commit/1bbb4a7561a52a3989b85de4f2540d21be6ce8de) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

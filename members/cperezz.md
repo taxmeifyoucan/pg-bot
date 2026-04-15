@@ -22,8 +22,10 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [core/state,triedb/pathdb: bintrie flat state support ](https://github.com/ethereum/go-ethereum/pull/34706) - 2026-04-12
 * [Issue] [trie/bintrie: InternalNode is not goroutine-safe; concurrent storage updates race on shared trie](https://github.com/ethereum/go-ethereum/issues/34708) - 2026-04-12
 * [Issue] [triedb/pathdb: bintrie flat state has no reverse-diff support for reorgs](https://github.com/ethereum/go-ethereum/issues/34709) - 2026-04-12
+* [Review] [Review on: trie/bintrie: replace BinaryNode interface with GC-free NodeRef arena](https://github.com/ethereum/go-ethereum/pull/34055#pullrequestreview-4105290128) - 2026-04-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4094221117) - 2026-04-11
+* [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4105549199) - 2026-04-14
 ## Q1 2026
 
 

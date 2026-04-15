@@ -40,6 +40,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: reorder payload status constants](https://github.com/ChainSafe/lodestar/pull/9176#pullrequestreview-4073614860) - 2026-04-08
 * [Review] [Review on: fix: ignore beacon block if parent payload unknown](https://github.com/ChainSafe/lodestar/pull/9178#pullrequestreview-4072569088) - 2026-04-08
 * [Review] [Review on: fix: use fork choice for parent payload status in block production](https://github.com/ChainSafe/lodestar/pull/9209#pullrequestreview-4098865909) - 2026-04-13
+* [Review] [Review on: refactor: revert dual-state cache architecture from ePBS](https://github.com/ChainSafe/lodestar/pull/9215#pullrequestreview-4104392703) - 2026-04-14
+* [Review] [Review on: fix: use fork choice for parent payload status in block production](https://github.com/ChainSafe/lodestar/pull/9209#pullrequestreview-4104742626) - 2026-04-14
+* [Review] [Review on: feat: add cached PTC window to the state](https://github.com/ChainSafe/lodestar/pull/9211#pullrequestreview-4104683334) - 2026-04-14
+* [Review] [Review on: feat: ignore index-1 attestation when payload is missing](https://github.com/ChainSafe/lodestar/pull/9213#pullrequestreview-4104553946) - 2026-04-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

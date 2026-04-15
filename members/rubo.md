@@ -34,6 +34,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [chore: Remove `debug_getBlockRlp` method](https://github.com/NethermindEth/nethermind/pull/11130) - 2026-04-13
 * [Review] [Review on: Improve ssz](https://github.com/NethermindEth/nethermind/pull/10788#pullrequestreview-4098326345) - 2026-04-13
 * [Commit] [chore: Remove `debug_getBlockRlp` method (#11130)](https://github.com/NethermindEth/nethermind/commit/545e6f394010a49dbb11c288fa3f2c736832e0ab) - 2026-04-13
+* [Pull Request] [fix: Add Codecov config](https://github.com/NethermindEth/nethermind/pull/11145) - 2026-04-15
+* [Pull Request] [fix: Fix Codecov reports](https://github.com/NethermindEth/nethermind/pull/11144) - 2026-04-14
+* [Pull Request] [fix: Revise Hive tests](https://github.com/NethermindEth/nethermind/pull/11142) - 2026-04-14
+* [Commit] [fix: Fix Codecov reports (#11144)](https://github.com/NethermindEth/nethermind/commit/0257374d0ac474e6d68e0044834f89d7c7b13b69) - 2026-04-14
+* [Commit] [fix: Revise Hive tests (#11142)](https://github.com/NethermindEth/nethermind/commit/c435e522f8d974d87ce917282b6ed3c53e175251) - 2026-04-14
 ## Q1 2026
 
 

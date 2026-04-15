@@ -23,6 +23,25 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #630 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/dora/commit/566bd1f69cc90cd643d2307f23ab7b3fa2558c62) - 2026-04-09
 * [Commit] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/dora/commit/7a003b93831e5f0c7e62f5ad5392adfb53d407ad) - 2026-04-09
 * [Pull Request] [Switch eth-das-guardian to ethpandaops fork for gloas support](https://github.com/ethpandaops/dora/pull/631) - 2026-04-10
+* [Review] [Review on: Display optional execution proofs](https://github.com/ethpandaops/dora/pull/593#pullrequestreview-4105060682) - 2026-04-14
+* [Review] [Review on: enable state cache & internal state transition by default](https://github.com/ethpandaops/dora/pull/640#pullrequestreview-4104980920) - 2026-04-14
+* [Pull Request] [fix: hide fork-gated spec fields when fork is not scheduled](https://github.com/ethpandaops/dora/pull/639) - 2026-04-14
+* [Pull Request] [fix: gate Gloas/Heze event topics by fork activation](https://github.com/ethpandaops/dora/pull/638) - 2026-04-14
+* [Pull Request] [fix: handle Gloas in GetForkVersionAtEpoch](https://github.com/ethpandaops/dora/pull/637) - 2026-04-14
+* [Review] [Review on: Heze support (FOCIL)](https://github.com/ethpandaops/dora/pull/592#pullrequestreview-4104407025) - 2026-04-14
+* [Pull Request] [Drop unused probe-lab/eth-das-guardian from go.mod](https://github.com/ethpandaops/dora/pull/636) - 2026-04-14
+* [Review] [Review on: Gloas support (ePBS)](https://github.com/ethpandaops/dora/pull/484#pullrequestreview-4104328530) - 2026-04-14
+* [Commit] [Merge remote-tracking branch 'origin/master' into kw/optional-proofs](https://github.com/ethpandaops/dora/commit/5f50a562bdf7dd131635fb5478bda5d2c752a785) - 2026-04-14
+* [Commit] [Merge pull request #639 from ethpandaops/fix/config-comparison-unscheduled-forks](https://github.com/ethpandaops/dora/commit/44d5cc1bf1c0ef07d7c5a9e5398fc9cc09d55d0a) - 2026-04-14
+* [Commit] [fix: hide fork-gated spec fields when fork is not scheduled](https://github.com/ethpandaops/dora/commit/d5858c67e66679fed393a60c79d3e50fa42cf093) - 2026-04-14
+* [Commit] [Merge pull request #638 from ethpandaops/fix/eventstream-fork-gating](https://github.com/ethpandaops/dora/commit/45319f26ef96c03fb3da7c7d2ef6039c259c85bc) - 2026-04-14
+* [Commit] [refactor: open new SSE request on fork activation without restarting basic stream](https://github.com/ethpandaops/dora/commit/161d02f98dcb9d6bc7ec08f84f6375ac0c535c33) - 2026-04-14
+* [Commit] [Merge remote-tracking branch 'origin/master' into fix/eventstream-fork-gating](https://github.com/ethpandaops/dora/commit/a5b9ee2affe48e4c32775a4a37f87c5ef0dad70f) - 2026-04-14
+* [Commit] [fix: gate Gloas/Heze event stream topics by fork activation](https://github.com/ethpandaops/dora/commit/a4f81d495ab75cf9e77f48ca2867b2300a0130e4) - 2026-04-14
+* [Commit] [Merge pull request #637 from ethpandaops/fix/gloas-fork-version](https://github.com/ethpandaops/dora/commit/ffa436e81683e7da8cc2689f074e10833de79aac) - 2026-04-14
+* [Commit] [fix: handle Gloas in GetForkVersionAtEpoch](https://github.com/ethpandaops/dora/commit/3f664244d5ddf24ba0f7ad9b4d6f1b40fa15e8c6) - 2026-04-14
+* [Commit] [Merge pull request #636 from ethpandaops/bbusa/drop-probe-lab-das-guardian](https://github.com/ethpandaops/dora/commit/0674a196df8a0e69c85b6d9a2b4dc05f42a80282) - 2026-04-14
+* [Commit] [drop unused probe-lab/eth-das-guardian from go.mod](https://github.com/ethpandaops/dora/commit/9de10c115b161b01cbc95de5cb7e52eff468f815) - 2026-04-14
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -30,12 +49,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Fix minimal preset and register ProduceBlockV4 endpoint](https://github.com/OffchainLabs/prysm/pull/16625) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16623) - 2026-04-01
 
+* [Commit] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset (#16623)](https://github.com/OffchainLabs/prysm/commit/321828e775b7abf6607553ac878760af930eae8c) - 2026-04-14
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112) - 2026-04-08
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add config/spec test generator for beacon API endpoint](https://github.com/ethereum/consensus-specs/pull/5089) - 2026-04-09
 
+* [Pull Request] [Add on-demand PR test-vector workflow](https://github.com/ethereum/consensus-specs/pull/5110) - 2026-04-14
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/pull/156) - 2026-04-09
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/assertoor/pull/155) - 2026-04-09
@@ -47,10 +68,22 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #153 from ethpandaops/dependabot/github_actions/actions-e61ed12150](https://github.com/ethpandaops/assertoor/commit/1158a1b4d3b8631e9bddb7706f76e49d17104b52) - 2026-04-09
 * [Commit] [Merge pull request #148 from ethpandaops/bbusa/fix-seconds-per-slot-panic](https://github.com/ethpandaops/assertoor/commit/2e07843eb6c63a0d860db8f77fea99b2eea987ea) - 2026-04-09
 
+* [Review] [Review on: Bump the dependencies group across 1 directory with 5 updates](https://github.com/ethpandaops/assertoor/pull/154#pullrequestreview-4105189615) - 2026-04-14
+* [Review] [Review on: Gloas support](https://github.com/ethpandaops/assertoor/pull/142#pullrequestreview-4105199179) - 2026-04-14
+* [Pull Request] [Switch go-eth2-client to ethpandaops/go-eth2-client v0.0.1](https://github.com/ethpandaops/assertoor/pull/158) - 2026-04-14
+* [Commit] [Merge pull request #154 from ethpandaops/dependabot/go_modules/dependencies-1abbae87ba](https://github.com/ethpandaops/assertoor/commit/80e94556e9fa07d6918b61b84f2f89d4c54dc527) - 2026-04-14
+* [Commit] [Switch go-eth2-client from attestantio fork to ethpandaops/go-eth2-client v0.0.1](https://github.com/ethpandaops/assertoor/commit/a9efec50cada45a82ebbebdb87d6b8b3af28497b) - 2026-04-14
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/lab/pull/432) - 2026-04-09
 * [Commit] [Merge pull request #432 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/lab/commit/c3be9674e52453b5788e377f0cbf8f508dd7073e) - 2026-04-09
 * [Commit] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/lab/commit/46f768b5b78a2ce5f45839ecdf808b297d0e29a9) - 2026-04-09
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8070: Rename protocol version to eth/72 and fix typos](https://github.com/ethereum/EIPs/pull/11524) - 2026-04-14
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Pull Request] [ci: bump pinned GitHub Actions to latest](https://github.com/ethpandaops/template-devnets/pull/158) - 2026-04-14
+* [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14
 ## Q1 2026
 
 

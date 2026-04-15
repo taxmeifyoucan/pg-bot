@@ -42,6 +42,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: validate signature length in personal_ecRecover](https://github.com/NethermindEth/nethermind/pull/11090#pullrequestreview-4089147915) - 2026-04-10
 * [Review] [Review on: Improve ssz](https://github.com/NethermindEth/nethermind/pull/10788#pullrequestreview-4098308823) - 2026-04-13
 * [Review] [Review on: style: enforce primary constructors (IDE0290) as build error](https://github.com/NethermindEth/nethermind/pull/11117#pullrequestreview-4097162756) - 2026-04-13
+* [Pull Request] [BlockAccessList Parallel IO](https://github.com/NethermindEth/nethermind/pull/11141) - 2026-04-14
+* [Pull Request] [fix: disable parallel BAL for nonce-loading flows, fix account existence checks](https://github.com/NethermindEth/nethermind/pull/11143) - 2026-04-14
+* [Review] [Review on: fix: Revise Hive tests](https://github.com/NethermindEth/nethermind/pull/11142#pullrequestreview-4107720623) - 2026-04-14
+* [Review] [Review on: fix: clean stale flat storage when contract storage becomes empty](https://github.com/NethermindEth/nethermind/pull/11133#pullrequestreview-4104710711) - 2026-04-14
+* [Review] [Review on: style: enforce expression-bodied members](https://github.com/NethermindEth/nethermind/pull/11134#pullrequestreview-4103959403) - 2026-04-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
@@ -50,6 +55,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Add EIP: Contract Payer Transaction](https://github.com/ethereum/EIPs/pull/11509) - 2026-04-11
 * [Pull Request] [Update EIP-8141: Tighten spec](https://github.com/ethereum/EIPs/pull/11521) - 2026-04-13
 * [Review] [Review on: Update EIP-8141: Tighten spec](https://github.com/ethereum/EIPs/pull/11521#pullrequestreview-4096670633) - 2026-04-13
+* [Commit] [Update EIP-8141: Tighten spec (#11521)](https://github.com/ethereum/EIPs/commit/131df0a65558113e5bc1cdcd79c29bb3d844a7e5) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4081943781) - 2026-04-09
 ## Q1 2026

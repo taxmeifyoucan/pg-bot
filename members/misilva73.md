@@ -21,6 +21,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493#pullrequestreview-4073794211) - 2026-04-08
 * [Pull Request] [Update EIP-8007: Sync descriptions with latest EIP-7976 and EIP-7981 drafts](https://github.com/ethereum/EIPs/pull/11499) - 2026-04-09
 * [Commit] [Update EIP-8007: Sync descriptions with latest EIP-7976 and EIP-7981 drafts](https://github.com/ethereum/EIPs/commit/2b2eda77c35c24252ff0164bc471f52bcad98608) - 2026-04-09
+* [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106110545) - 2026-04-14
 ## Q1 2026
 
 

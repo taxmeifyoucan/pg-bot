@@ -69,6 +69,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Add push1_stack_overflow test (#1506)](https://github.com/ipsilon/evmone/commit/c8c8be2da1c93b23ea6b5bd93168fec280623093) - 2026-04-10
 * [Pull Request] [Extract SWAP instruction helper](https://github.com/ipsilon/evmone/pull/1509) - 2026-04-13
 * [Commit] [Extract SWAP instruction helper (#1509)](https://github.com/ipsilon/evmone/commit/6385815dfa2aff7bceb91982594edfaa031e04cf) - 2026-04-13
+* [Review] [Review on: Implement DUPN/SWAPN/EXCHANGE (EIP-8024)](https://github.com/ipsilon/evmone/pull/1429#pullrequestreview-4105967629) - 2026-04-14
+* [Commit] [crypto: Restrict conjugate() to degree-2 extension fields (#1485)](https://github.com/ipsilon/evmone/commit/06adc7532c794af22df86f0d2db9a823ff7f8a2e) - 2026-04-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10

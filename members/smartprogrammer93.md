@@ -34,6 +34,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: make EVM benchmark iteration counts configurable](https://github.com/NethermindEth/nethermind/pull/11118#pullrequestreview-4097625352) - 2026-04-13
 * [Review] [Review on: fix: add bounds check before unsafe RLP length deserialization](https://github.com/NethermindEth/nethermind/pull/11088#pullrequestreview-4097346166) - 2026-04-13
 
+* [Review] [Review on: style: enable CA2208 and fix incorrect exception argument params](https://github.com/NethermindEth/nethermind/pull/11131#pullrequestreview-4104641490) - 2026-04-14
+* [Review] [Review on: Add L1STATICCALL precompile and witness RPC](https://github.com/NethermindEth/nethermind/pull/11017#pullrequestreview-4105200724) - 2026-04-14
+* [Review] [Review on: style: enforce expression-bodied members](https://github.com/NethermindEth/nethermind/pull/11134#pullrequestreview-4103943556) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

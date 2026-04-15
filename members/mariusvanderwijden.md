@@ -30,9 +30,17 @@ Team: Geth
 * [Review] [Review on: core/vm, cmd/geth: remove storage root reliance for EIP7610 check](https://github.com/ethereum/go-ethereum/pull/34029#pullrequestreview-4097386846) - 2026-04-13
 * [Commit] [core: turn gas into a vector <regularGas, stateGas> (#34691)](https://github.com/ethereum/go-ethereum/commit/6333855163d0ac99240f966df875be64c0885983) - 2026-04-13
 
+* [Review] [Review on: all: introduce validation of access lists](https://github.com/ethereum/go-ethereum/pull/34715#pullrequestreview-4105065887) - 2026-04-14
+* [Review] [Review on: .github/workflows: activate freebsd build on PRs](https://github.com/ethereum/go-ethereum/pull/34717#pullrequestreview-4106099315) - 2026-04-14
+* [Review] [Review on: node: normalize HTTP vhost host matching](https://github.com/ethereum/go-ethereum/pull/34693#pullrequestreview-4107312593) - 2026-04-14
+* [Pull Request] [ci: remove appveyor](https://github.com/ethereum/go-ethereum/pull/34720) - 2026-04-14
+* [Review] [Review on: cmd/geth, core/state, tests: rework EIP7610 check](https://github.com/ethereum/go-ethereum/pull/34718#pullrequestreview-4106269260) - 2026-04-14
+* [Review] [Review on: core/vm, eth, tests: introduce gas bugdet](https://github.com/ethereum/go-ethereum/pull/34712#pullrequestreview-4106126709) - 2026-04-14
+* [Review] [Review on: core/vm, cmd/geth: remove storage root reliance for EIP7610 check](https://github.com/ethereum/go-ethereum/pull/34029#pullrequestreview-4104914239) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13
+* [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4104716651) - 2026-04-14
 ## Q1 2026
 
 

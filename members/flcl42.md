@@ -42,6 +42,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Pass EIP-3860 as a generic](https://github.com/NethermindEth/nethermind/pull/11128) - 2026-04-13
 * [Review] [Review on: style: enforce primary constructors (IDE0290) as build error](https://github.com/NethermindEth/nethermind/pull/11117#pullrequestreview-4097177102) - 2026-04-13
 * [Commit] [Break pagination in Eth/70 on empty response (#11129)](https://github.com/NethermindEth/nethermind/commit/b852657f701b568b7425f224e30790b91ad2cb08) - 2026-04-13
+
+* [Pull Request] [Improve ssz](https://github.com/NethermindEth/nethermind/pull/10788) - 2026-04-14
+* [Review] [Review on: style: enforce expression-bodied members](https://github.com/NethermindEth/nethermind/pull/11134#pullrequestreview-4104161183) - 2026-04-14
+* [Commit] [Improve ssz (#10788)](https://github.com/NethermindEth/nethermind/commit/8c624bdce58b651c14ce69e0324dfc7cc2427f04) - 2026-04-14
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 ## Q1 2026
 
 

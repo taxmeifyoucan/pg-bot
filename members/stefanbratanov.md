@@ -20,6 +20,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Add payload attestations to blocks](https://github.com/Consensys/teku/pull/10549) - 2026-04-12
 * [Review] [Review on: added an executor for Gossip beacon attestation reftests](https://github.com/Consensys/teku/pull/10546#pullrequestreview-4099230028) - 2026-04-13
 * [Commit] [Add payload attestations to blocks (#10549)](https://github.com/Consensys/teku/commit/50299392247ce250cb5e79b821fb1d8087efb85c) - 2026-04-13
+* [Pull Request] [Remove storage of execution payload state](https://github.com/Consensys/teku/pull/10564) - 2026-04-14
+* [Pull Request] [Remove `ValidatorApiHandlerGloas`](https://github.com/Consensys/teku/pull/10561) - 2026-04-14
+* [Review] [Review on: Remove `ValidatorApiHandlerGloas`](https://github.com/Consensys/teku/pull/10561#pullrequestreview-4107048242) - 2026-04-14
+* [Commit] [Remove `ValidatorApiHandlerGloas` (#10561)](https://github.com/Consensys/teku/commit/eb5914923cb03082c94ec09aad22edab2dca9613) - 2026-04-14
 ## Q1 2026
 
 

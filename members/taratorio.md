@@ -8,6 +8,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q2 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: execution/protocol/rules: remove obsolete clique PoA engine](https://github.com/erigontech/erigon/pull/20532#pullrequestreview-4103337826) - 2026-04-14
+* [Review] [Review on: execution/vm: switch modExp precompile to evmone + math/big hybrid](https://github.com/erigontech/erigon/pull/20530#pullrequestreview-4103323847) - 2026-04-14
+* [Review] [Review on: vm: extract shared execCreate helper for opCreate and opCreate2](https://github.com/erigontech/erigon/pull/20426#pullrequestreview-4103405277) - 2026-04-14
+* [Pull Request] [[DO-NOT-MERGE] execution/tests: update eest fixtures to stable v5.4.0](https://github.com/erigontech/erigon/pull/20541) - 2026-04-14
+* [Issue] [[bal-devnet-4] Update/revise changes to EIP-8037: State Creation Gas Cost Increase](https://github.com/erigontech/erigon/issues/20545) - 2026-04-14
+* [Issue] [[bal-devnet-4] Implement EIP-7976: Increase Calldata Floor Cost](https://github.com/erigontech/erigon/issues/20543) - 2026-04-14
+* [Issue] [[bal-devnet-4] Implement EIP-7981: Increase Access List Cost](https://github.com/erigontech/erigon/issues/20544) - 2026-04-14
+* [Issue] [bal-devnet-4 implementation](https://github.com/erigontech/erigon/issues/20542) - 2026-04-14
 ## Q1 2026
 
 

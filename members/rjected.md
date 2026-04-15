@@ -26,6 +26,8 @@ Team: Reth
 * [Commit] [chore(cli): make --resumable default (#23451)](https://github.com/paradigmxyz/reth/commit/6aa2234d9a843b30ccfce71dd4e5b334e6d9f017) - 2026-04-11
 * [Review] [Review on: feat(net): add enforce_enr_fork_id to DefaultNetworkArgs](https://github.com/paradigmxyz/reth/pull/23477#pullrequestreview-4098851609) - 2026-04-13
 
+* [Pull Request] [feat(cli): add reth download config options](https://github.com/paradigmxyz/reth/pull/23513) - 2026-04-14
+* [Commit] [chore(cli): add binary name and chain detection in tempo download log (#23356)](https://github.com/paradigmxyz/reth/commit/b8ab2c628e097a6950125c1fcbf59226158138b9) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 ## Q1 2026

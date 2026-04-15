@@ -36,6 +36,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Add enableMemory parameter to debug_traceTransaction and debug_traceBlockByNumber](https://github.com/besu-eth/besu/pull/10169#pullrequestreview-4099541573) - 2026-04-13
 * [Review] [Review on: SystemCallProcessor don't log an error, just throw](https://github.com/besu-eth/besu/pull/10152#pullrequestreview-4099429064) - 2026-04-13
 * [Review] [Review on: Exclude IntelliJ generated dir from spotless solidity](https://github.com/besu-eth/besu/pull/10223#pullrequestreview-4097321961) - 2026-04-13
+* [Commit] [Improve block proposal cancellation to (best effort) avoid concurrency issues (#10219)](https://github.com/besu-eth/besu/commit/d35a222bf4fc19fdecaf470ffce6e906aa9ff9d6) - 2026-04-14
 ## Q1 2026
 
 

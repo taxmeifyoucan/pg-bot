@@ -33,6 +33,9 @@ Team: Erigon
 * [Review] [Review on: [r3.4] db/state: return DomainRoTx IndexReaders to sync.Pool on Close](https://github.com/erigontech/erigon/pull/20461#pullrequestreview-4087640908) - 2026-04-10
 * [Review] [Review on: [r3.4] txpool: use poolDB tx for getCachedBlobTxnLocked](https://github.com/erigontech/erigon/pull/20489#pullrequestreview-4093850633) - 2026-04-11
 * [Review] [Review on: [r3.4] rpc: fix null result unmarshalling in CallContext (#20393)](https://github.com/erigontech/erigon/pull/20521#pullrequestreview-4099277843) - 2026-04-13
+* [Review] [Review on: execution: make withdrawal/consolidation request contract addresses configurable](https://github.com/erigontech/erigon/pull/20298#pullrequestreview-4109490380) - 2026-04-14
+* [Review] [Review on: QA: re-enable debug_accountRange and debug_storageRangeAt RPC integration tests](https://github.com/erigontech/erigon/pull/20557#pullrequestreview-4108130180) - 2026-04-14
+* [Review] [Review on: ci: remove flaky eoa-transactions-test from caplin-minimal suite](https://github.com/erigontech/erigon/pull/20556#pullrequestreview-4106546072) - 2026-04-14
 ## Q1 2026
 
 

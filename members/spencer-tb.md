@@ -58,6 +58,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: more clarifcations for state gas accounting](https://github.com/ethereum/EIPs/pull/11523) - 2026-04-13
+* [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106028647) - 2026-04-14
 ## Q1 2026
 
 

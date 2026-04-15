@@ -62,6 +62,15 @@ Team: Erigon
 * [Review] [Review on: db/state: fix domain collation/pruning race causing gas mismatches](https://github.com/erigontech/erigon/pull/20445#pullrequestreview-4098056415) - 2026-04-13
 * [Issue] [Fix EIP-8025 witness generation to pass EEST zkevm fixtures](https://github.com/erigontech/erigon/issues/20534) - 2026-04-13
 * [Commit] [seg rm-state: improve interactive menu display (#20525)](https://github.com/erigontech/erigon/commit/ef56c9b96895faeb17c78f1d6c69da7fa123fb2f) - 2026-04-13
+* [Review] [Review on: [r3.4] commitment, execctx: fix InsertBlocks failure during block catch-up](https://github.com/erigontech/erigon/pull/20555#pullrequestreview-4107058461) - 2026-04-14
+* [Review] [Review on: db: EliasFano: Seek perf on big sequences](https://github.com/erigontech/erigon/pull/19788#pullrequestreview-4106505453) - 2026-04-14
+* [Pull Request] [commitment: consolidate scattered config into TrieConfig struct](https://github.com/erigontech/erigon/pull/20559) - 2026-04-14
+* [Pull Request] [commitment: eliminate BranchMerger from fold→encode→write hot path](https://github.com/erigontech/erigon/pull/20548) - 2026-04-14
+* [Review] [Review on: membatch: ViewID() method](https://github.com/erigontech/erigon/pull/20537#pullrequestreview-4106522523) - 2026-04-14
+* [Issue] [commitment: warmup cache hidden behind PatriciaContext; use ReadOnly trie for warmup](https://github.com/erigontech/erigon/issues/20550) - 2026-04-14
+* [Issue] [commitment: replace trace bool with io.Writer (SetTraceWriter)](https://github.com/erigontech/erigon/issues/20551) - 2026-04-14
+* [Issue] [commitment: gather trie tumblers/config into single TrieConfig struct](https://github.com/erigontech/erigon/issues/20553) - 2026-04-14
+* [Issue] [commitment: fold — encode whole row at once, avoid merge with previous branchData](https://github.com/erigontech/erigon/issues/20549) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

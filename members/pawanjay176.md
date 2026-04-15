@@ -18,6 +18,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 
 * [Review] [Review on: Gloas bid and preference verification](https://github.com/sigp/lighthouse/pull/9036#pullrequestreview-4084332114) - 2026-04-09
 * [Review] [Review on: Gloas bid and preference verification](https://github.com/sigp/lighthouse/pull/9036#pullrequestreview-4087021843) - 2026-04-10
+* [Review] [Review on: Gloas: envelope peer penalties and REJECT/IGNORE mapping](https://github.com/sigp/lighthouse/pull/8981#pullrequestreview-4107473252) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13

@@ -198,6 +198,24 @@ Team: Erigon
 * [Commit] [seg: `MatchCmp()` unit-tests and zero-copy (#19845)](https://github.com/erigontech/erigon/commit/d8471e06553f803da478564d56568e3316024e8e) - 2026-04-13
 * [Commit] [cherry-pick 14 commits from release/3.4 to main (#20497)](https://github.com/erigontech/erigon/commit/92445ff2b0f03462f601b0a97c8c41e3696a81a9) - 2026-04-13
 * [Commit] [agg: lock-free Begin() (#20462)](https://github.com/erigontech/erigon/commit/45f5927241c8e8bc39dc9fa1b9d2f2dd32c6f448) - 2026-04-13
+* [Review] [Review on: [r3.4] commitment, execctx: fix InsertBlocks failure during block catch-up](https://github.com/erigontech/erigon/pull/20555#pullrequestreview-4110280354) - 2026-04-15
+* [Pull Request] [tests: speed up slow tests via parallelism and context deadlines](https://github.com/erigontech/erigon/pull/20563) - 2026-04-15
+* [Pull Request] [[wip] evm: less intern](https://github.com/erigontech/erigon/pull/20552) - 2026-04-14
+* [Pull Request] [db: EliasFano: Seek perf on big sequences](https://github.com/erigontech/erigon/pull/19788) - 2026-04-15
+* [Review] [Review on: node/components/storage/snapshot: add file inventory, trust model, range arithmetic](https://github.com/erigontech/erigon/pull/20527#pullrequestreview-4103516593) - 2026-04-14
+* [Review] [Review on: downloader: decentralized snapshot distribution via chain.toml P2P discovery](https://github.com/erigontech/erigon/pull/20526#pullrequestreview-4103524536) - 2026-04-14
+* [Pull Request] [RoSnapshots: lock-free .View method](https://github.com/erigontech/erigon/pull/20490) - 2026-04-14
+* [Review] [Review on: node/app: add component framework](https://github.com/erigontech/erigon/pull/20450#pullrequestreview-4103944685) - 2026-04-14
+* [Pull Request] [membatch: ViewID() method](https://github.com/erigontech/erigon/pull/20537) - 2026-04-14
+* [Review] [Review on: commitment, execctx: fix InsertBlocks failure during block catch-up](https://github.com/erigontech/erigon/pull/20546#pullrequestreview-4104817382) - 2026-04-14
+* [Review] [Review on: parallel executor: fix two cache bugs](https://github.com/erigontech/erigon/pull/20515#pullrequestreview-4103519530) - 2026-04-14
+* [Pull Request] [gossip, forkchoice: fix mutex leak in topic subscription and nil peerDas guards](https://github.com/erigontech/erigon/pull/20547) - 2026-04-14
+* [Review] [Review on: caplin: fix peerdas gossip init order to eliminate false warning](https://github.com/erigontech/erigon/pull/20538#pullrequestreview-4104164950) - 2026-04-14
+* [Pull Request] [[r3.4] caplin: fix peerdas gossip init order to eliminate false warning](https://github.com/erigontech/erigon/pull/20540) - 2026-04-14
+* [Commit] [db: EliasFano: Seek perf on big sequences (#19788)](https://github.com/erigontech/erigon/commit/b7efec24499a332a8056f70f4dac180aefa5cd6c) - 2026-04-14
+* [Commit] [RoSnapshots: lock-free .View method (#20490)](https://github.com/erigontech/erigon/commit/05a1e3d25dec22804cbabe742c9c2078545ce2cd) - 2026-04-14
+* [Commit] [membatch: ViewID() method (#20537)](https://github.com/erigontech/erigon/commit/443a3481f05ddfbfbfe2d55c3f00da385870ad0e) - 2026-04-14
+* [Commit] [[r3.4→main] Cherry-pick PRs from release/3.4 (#20519)](https://github.com/erigontech/erigon/commit/e1e5a97016f68a255c249b7e02c7c437004347f4) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 ## Q1 2026

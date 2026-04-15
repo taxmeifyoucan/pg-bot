@@ -33,6 +33,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-benchmark): add uncacheable precompile benchmark](https://github.com/ethereum/execution-specs/pull/2600#pullrequestreview-4087495020) - 2026-04-10
 * [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4097303266) - 2026-04-13
 * [Commit] [feat(test-benchmark): add cache strategy to storage benchmark (#2628)](https://github.com/ethereum/execution-specs/commit/62161905c15ad8f210e699f0237ae15b4f09ea5e) - 2026-04-13
+* [Pull Request] [feat(test-benchmark): storage initialization helper with 7702 authorization](https://github.com/ethereum/execution-specs/pull/2672) - 2026-04-14
+* [Review] [Review on: feat(test-fill): add `--include-benchmark` and scan both tests + tests/benchmark in `checklist`](https://github.com/ethereum/execution-specs/pull/2668#pullrequestreview-4103426001) - 2026-04-14
+* [Review] [Review on: feat(tooling): add `shell-completions` recipe to print setup instructions](https://github.com/ethereum/execution-specs/pull/2651#pullrequestreview-4104662532) - 2026-04-14
+* [Review] [Review on: refactor(test-benchmark): remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670#pullrequestreview-4103432770) - 2026-04-14
+* [Commit] [feat(test-benchmark): add uncacheable precompile benchmark (#2600)](https://github.com/ethereum/execution-specs/commit/3687eb564090c94ea49601adb284df4e4ff418e7) - 2026-04-14
 ## Q1 2026
 
 

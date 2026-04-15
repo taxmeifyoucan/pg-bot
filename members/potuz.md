@@ -27,6 +27,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Fix initial sync bid validation failure](https://github.com/OffchainLabs/prysm/pull/16652) - 2026-04-10
 * [Commit] [Fix initial sync bid validation failure (#16652)](https://github.com/OffchainLabs/prysm/commit/99327d7422f63526aa9e97c4e630ae20d64bcbf6) - 2026-04-10
 * [Review] [Review on: Implement defer payload processing](https://github.com/OffchainLabs/prysm/pull/16658#pullrequestreview-4099204013) - 2026-04-13
+* [Review] [Review on: reversing checkpoint api change](https://github.com/OffchainLabs/prysm/pull/16660#pullrequestreview-4103123528) - 2026-04-14
+* [Review] [Review on: updated duties using split endpoints](https://github.com/OffchainLabs/prysm/pull/16421#pullrequestreview-4105517630) - 2026-04-14
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

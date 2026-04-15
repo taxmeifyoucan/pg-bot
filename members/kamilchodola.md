@@ -43,8 +43,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat: split release archives >1.9GB, fix stale /tmp/base-restore on runner](https://github.com/NethermindEth/gas-benchmarks/commit/b229c882763197062faa5e09ebe2220be2f39260) - 2026-04-13
 * [Commit] [fix: skip release asset upload when generate job failed](https://github.com/NethermindEth/gas-benchmarks/commit/655a8bfc367f704ad886b9dd66d9ad9db5ea428e) - 2026-04-13
 * [Commit] [fix: increment _PREP_SLOT_COUNTER during replay so mitm seeds correct starting slot](https://github.com/NethermindEth/gas-benchmarks/commit/bd2df19ab63f8c9bef3f60926c3c40f8ecf543ae) - 2026-04-13
+* [Commit] [fix: rename EEST to EELS in release notes template, add repo to parameters](https://github.com/NethermindEth/gas-benchmarks/commit/0211818ea5b17d2ba08fe201f6f800ccc7fecd8c) - 2026-04-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670) - 2026-04-13
+* [Commit] [refactor(test-benchmark): remove unused bloatnet factory entries from mainnet stubs (#2670)](https://github.com/ethereum/execution-specs/commit/a830dab6f130151ab9023a473b7543120aa21961) - 2026-04-14
 ## Q1 2026
 
 

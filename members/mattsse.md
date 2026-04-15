@@ -95,6 +95,22 @@ Team: Reth
 * [Review] [Review on: chore: bump alloy to 2.0.0](https://github.com/paradigmxyz/reth/pull/23407#pullrequestreview-4099055636) - 2026-04-13
 * [Pull Request] [feat(net): add enforce_enr_fork_id to DefaultNetworkArgs](https://github.com/paradigmxyz/reth/pull/23477) - 2026-04-13
 * [Commit] [feat(net): add enforce_enr_fork_id to DefaultNetworkArgs (#23477)](https://github.com/paradigmxyz/reth/commit/3d5c29c17961a864f091c3c8dfc245b628d4e20f) - 2026-04-13
+
+* [Review] [Review on: fix: allow adding peers without overriding kind](https://github.com/paradigmxyz/reth/pull/23516#pullrequestreview-4109089525) - 2026-04-14
+* [Review] [Review on: feat: implement try into v6](https://github.com/paradigmxyz/reth/pull/23497#pullrequestreview-4107120941) - 2026-04-14
+* [Review] [Review on: chore: bump revm to v37 (EIP-8037 state gas)](https://github.com/paradigmxyz/reth/pull/23191#pullrequestreview-4105144909) - 2026-04-14
+* [Pull Request] [feat(discv4): add AddBootNode command](https://github.com/paradigmxyz/reth/pull/23515) - 2026-04-14
+* [Pull Request] [feat(net): add discv4/discv5 getters to NetworkHandle](https://github.com/paradigmxyz/reth/pull/23514) - 2026-04-14
+* [Review] [Review on: fix(node): downgrade prune config log from warn to info](https://github.com/paradigmxyz/reth/pull/23493#pullrequestreview-4105590826) - 2026-04-14
+* [Review] [Review on: fix(rpc): return descriptive error for unsupported PoW methods](https://github.com/paradigmxyz/reth/pull/23488#pullrequestreview-4105526826) - 2026-04-14
+* [Review] [Review on: chore(BAL): added newPayloadV5 and getPayloadV6](https://github.com/paradigmxyz/reth/pull/23486#pullrequestreview-4104545665) - 2026-04-14
+* [Review] [Review on: chore(BAL): added helper functions for building](https://github.com/paradigmxyz/reth/pull/23490#pullrequestreview-4104570929) - 2026-04-14
+* [Review] [Review on: feat(rpc): support transactionReceipts subscription in eth_subscribe](https://github.com/paradigmxyz/reth/pull/23485#pullrequestreview-4104416139) - 2026-04-14
+* [Commit] [feat(discv4): add AddBootNode command (#23515)](https://github.com/paradigmxyz/reth/commit/13217d55170a11cf106f4a749bc40ca2b59030d4) - 2026-04-14
+* [Commit] [feat(net): add discv4/discv5 getters to NetworkHandle (#23514)](https://github.com/paradigmxyz/reth/commit/0165569bc1e15eae5a7ceb2e5ff31eb4aa99d6c1) - 2026-04-14
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
+* [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
 ## Q1 2026
 
 

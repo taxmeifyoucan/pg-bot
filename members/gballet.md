@@ -21,6 +21,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: trie/bintrie: fix DeleteAccount no-op](https://github.com/ethereum/go-ethereum/pull/34676#pullrequestreview-4090926457) - 2026-04-10
 * [Review] [Review on: core/filtermaps: remove dead condition check](https://github.com/ethereum/go-ethereum/pull/34695#pullrequestreview-4090781603) - 2026-04-10
 * [Commit] [trie/bintrie: spec change, big endian hashing of slot key (#34670)](https://github.com/ethereum/go-ethereum/commit/735bfd121a738eb35efb9b88e9fe25618b807fa4) - 2026-04-13
+* [Pull Request] [.github/workflows: activate freebsd build on PRs](https://github.com/ethereum/go-ethereum/pull/34717) - 2026-04-14
+* [Commit] [.github/workflows: add freebsd test github action (#34078)](https://github.com/ethereum/go-ethereum/commit/c2234462a84c1bb6000cfcc6195404d1caabf2a7) - 2026-04-14
 ## Q1 2026
 
 

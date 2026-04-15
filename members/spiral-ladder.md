@@ -18,6 +18,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [chore: fix zapi usage (#307)](https://github.com/ChainSafe/lodestar-z/commit/5c50ab483ec7b1e70c78b5b1eb9ea98630b118d8) - 2026-04-08
 * [Review] [Review on: feat: multi-threaded bls for lodestar integration](https://github.com/ChainSafe/lodestar-z/pull/306#pullrequestreview-4089289831) - 2026-04-10
 * [Review] [Review on: test(utils): add unit tests for domain computation utilities](https://github.com/ChainSafe/lodestar-z/pull/299#pullrequestreview-4094247228) - 2026-04-11
+* [Pull Request] [refactor: rm seemingly unused `isValidAttestationSlot`](https://github.com/ChainSafe/lodestar-z/pull/314) - 2026-04-14
+* [Review] [Review on: fix: support multi-threaded RefCount](https://github.com/ChainSafe/lodestar-z/pull/62#pullrequestreview-4106925517) - 2026-04-14
 ## Q1 2026
 
 

@@ -46,6 +46,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Exclude halt-burned gas from block regular gas](https://github.com/besu-eth/besu/pull/10225) - 2026-04-13
 * [Review] [Review on: Improve block proposal cancellation to (best effort) avoid concurrency issues](https://github.com/besu-eth/besu/pull/10219#pullrequestreview-4097930454) - 2026-04-13
 * [Commit] [ci check to make sure that all libraries have their source code verified as well (#10217)](https://github.com/besu-eth/besu/commit/096fae2fdef4a3e259480d4b54ea1e5e5ee8feb1) - 2026-04-13
+* [Pull Request] [BAL: check max item size before bal hash](https://github.com/besu-eth/besu/pull/10231) - 2026-04-14
+* [Review] [Review on: Exclude halt-burned gas from block regular gas](https://github.com/besu-eth/besu/pull/10225#pullrequestreview-4104889811) - 2026-04-14
+* [Commit] [Exclude halt-burned gas from block regular gas (#10225)](https://github.com/besu-eth/besu/commit/26b75361e0452c47057108ac4f71b8217077cc6d) - 2026-04-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 ## Q1 2026

@@ -20,6 +20,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [fix: return NoopSnapServer instead of null for HashDB (#11116) [1.37.0-rc2]](https://github.com/NethermindEth/nethermind/pull/11132) - 2026-04-14
 * [Pull Request] [Fix sync actions](https://github.com/NethermindEth/nethermind/pull/11127) - 2026-04-13
 
+* [Review] [Review on: fix: Add Codecov config](https://github.com/NethermindEth/nethermind/pull/11145#pullrequestreview-4110063224) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

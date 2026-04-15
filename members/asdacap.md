@@ -67,6 +67,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: return NoopSnapServer instead of null for HashDB (#11116)](https://github.com/NethermindEth/nethermind/commit/68259f653b340b8d4f7f28792310cb58e190cc7b) - 2026-04-13
 * [Commit] [style: enforce primary constructors (IDE0290) as build error (#11117)](https://github.com/NethermindEth/nethermind/commit/24efa85f6d397bfae32e9673181e94174127a815) - 2026-04-13
 
+* [Review] [Review on: BlockAccessList Parallel IO](https://github.com/NethermindEth/nethermind/pull/11141#pullrequestreview-4109861864) - 2026-04-14
+* [Pull Request] [feat(analyzers): add NETH002 to detect excessively deep lambda indentation](https://github.com/NethermindEth/nethermind/pull/11138) - 2026-04-14
+* [Review] [Review on: Fix sync actions](https://github.com/NethermindEth/nethermind/pull/11127#pullrequestreview-4105378415) - 2026-04-14
+* [Review] [Review on: fix: dispose SnappyStream in PayloadByNumberProtocol](https://github.com/NethermindEth/nethermind/pull/11135#pullrequestreview-4105375739) - 2026-04-14
+* [Pull Request] [fix: clean stale flat storage when contract storage becomes empty](https://github.com/NethermindEth/nethermind/pull/11133) - 2026-04-14
+* [Pull Request] [feat: append DB layout to public client ID version](https://github.com/NethermindEth/nethermind/pull/11136) - 2026-04-14
+* [Pull Request] [style: enforce expression-bodied members](https://github.com/NethermindEth/nethermind/pull/11134) - 2026-04-14
+* [Review] [Review on: style: enforce expression-bodied members](https://github.com/NethermindEth/nethermind/pull/11134#pullrequestreview-4104560529) - 2026-04-14
+* [Commit] [fix: clean stale flat storage when contract storage becomes empty (#11133)](https://github.com/NethermindEth/nethermind/commit/2f28223a4ac2403241d32de8eb14086dee74280a) - 2026-04-14
+* [Commit] [style: enforce expression-bodied members (#11134)](https://github.com/NethermindEth/nethermind/commit/1fec70aecfa05f492d5b89b309a8f2cac03f4970) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

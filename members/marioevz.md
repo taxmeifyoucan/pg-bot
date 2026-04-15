@@ -32,6 +32,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-fill): resolve checklist path for EIPs referenced via `eip=[N]` kwarg](https://github.com/ethereum/execution-specs/pull/2665#pullrequestreview-4101931542) - 2026-04-13
 * [Review] [Review on: feat(src): devnet merger script + fix for conflict-free merges](https://github.com/ethereum/execution-specs/pull/2663#pullrequestreview-4100817119) - 2026-04-13
 
+* [Review] [Review on: feat: add more invalid BAL test cases; extend invalid case coverage](https://github.com/ethereum/execution-specs/pull/2653#pullrequestreview-4108751340) - 2026-04-14
+* [Pull Request] [feat(test-forks): enable multiple EIP to be specified in `fork.is_eip_enabled`](https://github.com/ethereum/execution-specs/pull/2676) - 2026-04-14
+* [Review] [Review on: feat(src): devnet merger script + fix for conflict-free merges](https://github.com/ethereum/execution-specs/pull/2663#pullrequestreview-4106199543) - 2026-04-14
+* [Review] [Review on: chore(doc): use orange eth diamond as favicon](https://github.com/ethereum/execution-specs/pull/2674#pullrequestreview-4106234559) - 2026-04-14
+* [Issue] [bug(tests-benchmark): Fix benchmark tests incompatible with fixed-opcode-count](https://github.com/ethereum/execution-specs/issues/2678) - 2026-04-14
+* [Commit] [feat(test-forks): enable multiple EIP to be specified in `fork.is_eip_enabled` (#2676)](https://github.com/ethereum/execution-specs/commit/6672cfe2ed3f0d8e58cec458c6221cbae00cd1ec) - 2026-04-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 ## Q1 2026

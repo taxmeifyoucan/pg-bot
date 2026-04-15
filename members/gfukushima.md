@@ -15,10 +15,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/discovery/pull/202#pullrequestreview-4041112218) - 2026-04-01
 * [Commit] [Fix ipv6 discovery (#202)](https://github.com/Consensys/discovery/commit/973e8e08c7e3f67c226b7451bdf08d2a3ae7b2d9) - 2026-04-01
 
+* [Review] [Review on: add renovate](https://github.com/Consensys/discovery/pull/206#pullrequestreview-4103243073) - 2026-04-14
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516#pullrequestreview-4041785930) - 2026-04-01
 * [Review] [Review on: added executors for some alpha4 test cases](https://github.com/Consensys/teku/pull/10545#pullrequestreview-4048271089) - 2026-04-02
 * [Review] [Review on: Add payload attestations to blocks](https://github.com/Consensys/teku/pull/10549#pullrequestreview-4096650709) - 2026-04-13
+* [Pull Request] [EIP-8045](https://github.com/Consensys/teku/pull/10560) - 2026-04-14
 ## Q1 2026
 
 

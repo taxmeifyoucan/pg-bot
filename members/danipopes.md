@@ -191,6 +191,9 @@ Team: Reth
 * [Pull Request] [perf(interpreter): separate instruction and gas tables](https://github.com/bluealloy/revm/pull/3561) - 2026-04-14
 * [Review] [Review on: chore(interpreter): remove unused loop_control module](https://github.com/bluealloy/revm/pull/3555#pullrequestreview-4100893225) - 2026-04-13
 * [Review] [Review on: fix(bytecode): mark `Bytecode::new_analyzed` as unsafe](https://github.com/bluealloy/revm/pull/3557#pullrequestreview-4100892253) - 2026-04-13
+* [Pull Request] [fix: opcode struct panics/safety](https://github.com/bluealloy/revm/pull/3566) - 2026-04-14
+* [Pull Request] [perf(interpreter): match loop](https://github.com/bluealloy/revm/pull/3563) - 2026-04-14
+* [Pull Request] [refactor(interpreter): dedup account loading across host instructions](https://github.com/bluealloy/revm/pull/3562) - 2026-04-14
 ## Q1 2026
 
 
