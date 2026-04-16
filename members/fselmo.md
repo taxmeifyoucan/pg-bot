@@ -27,6 +27,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(test-forks): enable multiple EIP to be specified in `fork.is_eip_enabled`](https://github.com/ethereum/execution-specs/pull/2676#pullrequestreview-4107301514) - 2026-04-14
 * [Issue] [Add EIP marker for better DevEx](https://github.com/ethereum/execution-specs/issues/2675) - 2026-04-14
 
+* [Commit] [feat: add more invalid BAL test cases; extend invalid case coverage (#2653)](https://github.com/ethereum/execution-specs/commit/d206d4f2b8558d742b9ddd31407e69e5cf05e6cf) - 2026-04-15
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

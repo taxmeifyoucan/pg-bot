@@ -43,6 +43,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 
+* [Review] [Review on: Fix add missing enr](https://github.com/status-im/nimbus-eth2/pull/8273#pullrequestreview-4111920360) - 2026-04-15
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Introduction of REST based + SSZ serialized `new-payload-with-witness`](https://github.com/ethereum/execution-apis/pull/773#pullrequestreview-4106752631) - 2026-04-14
 ## Q1 2026

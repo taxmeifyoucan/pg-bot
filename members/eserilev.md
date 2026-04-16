@@ -38,6 +38,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas bid and preference verification](https://github.com/sigp/lighthouse/pull/9036#pullrequestreview-4096872916) - 2026-04-13
 * [Review] [Review on: Gloas: envelope peer penalties and REJECT/IGNORE mapping](https://github.com/sigp/lighthouse/pull/8981#pullrequestreview-4104251279) - 2026-04-14
 * [Pull Request] [Deprecate gossip blobs](https://github.com/sigp/lighthouse/pull/9126) - 2026-04-14
+* [Review] [Review on: Gloas vc ptc duty](https://github.com/sigp/lighthouse/pull/8338#pullrequestreview-4110534836) - 2026-04-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 ## Q1 2026

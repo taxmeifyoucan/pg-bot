@@ -18,6 +18,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Missing wmic workaround on new windows server (#4093)](https://github.com/status-im/nimbus-eth1/commit/98188ef74b5c0082e1ced04eb10ed1f2f9b6b087) - 2026-04-03
 * [Pull Request] [bal-devnet-3: Upgrade to bal@v5.6.1 test fixtures and accompanying fixes](https://github.com/status-im/nimbus-eth1/pull/4098) - 2026-04-03
 * [Commit] [bal-devnet-3: Upgrade to bal@v5.6.1 test fixtures and accompanying fixes (#4098)](https://github.com/status-im/nimbus-eth1/commit/50f6fcbea1a3c1acd5396cfaeb8e4ebdf68d9f25) - 2026-04-03
+* [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4111498339) - 2026-04-15
 ## Q1 2026
 
 

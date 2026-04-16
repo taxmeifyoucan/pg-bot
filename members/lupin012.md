@@ -52,6 +52,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: expose testing_ namespace via --http.api on port 8545 (#20482)](https://github.com/erigontech/erigon/commit/e2ab4144edb7dba90a7e3c699e8ef3c66b36ba5a) - 2026-04-13
 * [Review] [Review on: QA: re-enable debug_accountRange and debug_storageRangeAt RPC integration tests](https://github.com/erigontech/erigon/pull/20557#pullrequestreview-4108599441) - 2026-04-14
 * [Pull Request] [rpc : optimize eth_getLogs](https://github.com/erigontech/erigon/pull/20561) - 2026-04-14
+* [Review] [Review on: rpc : optimize eth_getLogs](https://github.com/erigontech/erigon/pull/20561#pullrequestreview-4110983669) - 2026-04-15
+* [Pull Request] [rpc: fix testing build block v1 according Hive Test](https://github.com/erigontech/erigon/pull/20592) - 2026-04-15
+* [Review] [Review on:  fix trace_rawTransaction aligned to nethermind and Reth impl](https://github.com/erigontech/erigon/pull/20448#pullrequestreview-4116207243) - 2026-04-15
+* [Commit] [rpc: WebSocket overload protection (#20446)](https://github.com/erigontech/erigon/commit/8c4dd54b36fb53bc66404f229f9851fd5b636297) - 2026-04-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

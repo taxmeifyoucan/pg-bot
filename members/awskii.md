@@ -71,6 +71,17 @@ Team: Erigon
 * [Issue] [commitment: replace trace bool with io.Writer (SetTraceWriter)](https://github.com/erigontech/erigon/issues/20551) - 2026-04-14
 * [Issue] [commitment: gather trie tumblers/config into single TrieConfig struct](https://github.com/erigontech/erigon/issues/20553) - 2026-04-14
 * [Issue] [commitment: fold — encode whole row at once, avoid merge with previous branchData](https://github.com/erigontech/erigon/issues/20549) - 2026-04-14
+* [Pull Request] [add CL attribute tag to log](https://github.com/erigontech/erigon/pull/20588) - 2026-04-15
+* [Review] [Review on: blk-range: wrong logs ](https://github.com/erigontech/erigon/pull/20571#pullrequestreview-4114480486) - 2026-04-15
+* [Review] [Review on: db/state: simplify closing nil-checks](https://github.com/erigontech/erigon/pull/20573#pullrequestreview-4112448958) - 2026-04-15
+* [Review] [Review on: merge: set `merge workers` to 1. because all components already support own parallel-bulding](https://github.com/erigontech/erigon/pull/20565#pullrequestreview-4112467354) - 2026-04-15
+* [Review] [Review on: db/state: simplify closing nil-checks](https://github.com/erigontech/erigon/pull/20574#pullrequestreview-4111542023) - 2026-04-15
+* [Review] [Review on: snapshots: align state files to block file boundary on startup](https://github.com/erigontech/erigon/pull/20434#pullrequestreview-4112057725) - 2026-04-15
+* [Review] [Review on: btindex: WarmUp: read key-only, skip value to avoid unnecessary decompression](https://github.com/erigontech/erigon/pull/20567#pullrequestreview-4111562797) - 2026-04-15
+* [Review] [Review on: simplify user-visible logs](https://github.com/erigontech/erigon/pull/20576#pullrequestreview-4111529310) - 2026-04-15
+* [Issue] [[exp] commitment: change referencing threshold to >=64](https://github.com/erigontech/erigon/issues/20586) - 2026-04-15
+* [Issue] [`valueTransform` function is faulty: claimed that for old snapshots referencing rate is around 50%](https://github.com/erigontech/erigon/issues/20582) - 2026-04-15
+* [Issue] [txpool: `getCachedBlobTxnLocked` - `MDBX_BAD_VALSIZE`](https://github.com/erigontech/erigon/issues/20580) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

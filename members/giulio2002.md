@@ -36,6 +36,7 @@ Team: Erigon
 * [Review] [Review on: execution: make withdrawal/consolidation request contract addresses configurable](https://github.com/erigontech/erigon/pull/20298#pullrequestreview-4109490380) - 2026-04-14
 * [Review] [Review on: QA: re-enable debug_accountRange and debug_storageRangeAt RPC integration tests](https://github.com/erigontech/erigon/pull/20557#pullrequestreview-4108130180) - 2026-04-14
 * [Review] [Review on: ci: remove flaky eoa-transactions-test from caplin-minimal suite](https://github.com/erigontech/erigon/pull/20556#pullrequestreview-4106546072) - 2026-04-14
+* [Review] [Review on: db/recsplit/eliasfano32: fix searchUpperReverse off-by-one on no-solution fast path](https://github.com/erigontech/erigon/pull/20566#pullrequestreview-4112630427) - 2026-04-15
 ## Q1 2026
 
 

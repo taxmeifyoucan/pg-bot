@@ -77,6 +77,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: style: enforce expression-bodied members](https://github.com/NethermindEth/nethermind/pull/11134#pullrequestreview-4104560529) - 2026-04-14
 * [Commit] [fix: clean stale flat storage when contract storage becomes empty (#11133)](https://github.com/NethermindEth/nethermind/commit/2f28223a4ac2403241d32de8eb14086dee74280a) - 2026-04-14
 * [Commit] [style: enforce expression-bodied members (#11134)](https://github.com/NethermindEth/nethermind/commit/1fec70aecfa05f492d5b89b309a8f2cac03f4970) - 2026-04-14
+* [Review] [Review on: StackUnderflow from JSON-RPC method eth_call](https://github.com/NethermindEth/nethermind/pull/11139#pullrequestreview-4117401342) - 2026-04-15
+* [Review] [Review on: Fix limits](https://github.com/NethermindEth/nethermind/pull/11155#pullrequestreview-4113694932) - 2026-04-15
+* [Review] [Review on: fix(test): replace TrieWarmer Task.Delay with polling](https://github.com/NethermindEth/nethermind/pull/11147#pullrequestreview-4112772451) - 2026-04-15
+* [Commit] [refactor: remove long range catch-up sync (#11123)](https://github.com/NethermindEth/nethermind/commit/7cf9f69f45ad7c9f2545d597b65665b734ef449b) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

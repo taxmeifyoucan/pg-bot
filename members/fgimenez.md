@@ -14,6 +14,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490) - 2026-04-11
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099931491) - 2026-04-13
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [refactor(consensus): extract validate_block_post_execution_without_gas_used helper](https://github.com/paradigmxyz/reth/pull/23562) - 2026-04-15
 ## Q1 2026
 
 

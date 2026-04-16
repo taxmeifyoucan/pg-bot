@@ -27,6 +27,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Missing memory presence check](https://github.com/besu-eth/besu/pull/10213#pullrequestreview-4088159351) - 2026-04-10
 
 * [Pull Request] [Implement BaseFee, blobBaseFee, CallValue, GasPrice, Balance and SelfBalance for EVM v2](https://github.com/besu-eth/besu/pull/10229) - 2026-04-13
+* [Review] [Review on: Implement BaseFee, blobBaseFee, CallValue, GasPrice, Balance and SelfBalance for EVM v2](https://github.com/besu-eth/besu/pull/10229#pullrequestreview-4112012082) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

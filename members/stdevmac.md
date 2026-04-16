@@ -21,6 +21,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [Fix sync actions](https://github.com/NethermindEth/nethermind/pull/11127) - 2026-04-13
 
 * [Review] [Review on: fix: Add Codecov config](https://github.com/NethermindEth/nethermind/pull/11145#pullrequestreview-4110063224) - 2026-04-15
+* [Review] [Review on: Trace level log for retry cache](https://github.com/NethermindEth/nethermind/pull/11160#pullrequestreview-4117191312) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

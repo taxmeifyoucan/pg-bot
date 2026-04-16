@@ -43,6 +43,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [docs: update RELEASE.md (#9172)](https://github.com/ChainSafe/lodestar/commit/6641fd750efc92ddca23760313a13bf4841d6306) - 2026-04-13
 * [Commit] [chore: merge v1.42.0 back to unstable (#9210)](https://github.com/ChainSafe/lodestar/commit/568a81a1487c82114c5c21f8ff757623af0b072f) - 2026-04-13
 * [Commit] [chore: v1.42.0 release (#9169)](https://github.com/ChainSafe/lodestar/commit/443e0a476dd6ff62f5977875741de0a38ba4e1ef) - 2026-04-13
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494) - 2026-04-15
 ## Q1 2026
 
 

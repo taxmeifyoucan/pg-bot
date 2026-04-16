@@ -31,6 +31,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(tests): Enhance heavy ported tests](https://github.com/ethereum/execution-specs/pull/2623#pullrequestreview-4088666758) - 2026-04-10
 * [Review] [Review on: feat(test-plugins-forks): Introduce `pytest.mark.valid_before`](https://github.com/ethereum/execution-specs/pull/2647#pullrequestreview-4089203203) - 2026-04-10
 * [Review] [Review on: feat(test-benchmark): add cache strategy to storage benchmark](https://github.com/ethereum/execution-specs/pull/2628#pullrequestreview-4100076443) - 2026-04-13
+* [Pull Request] [feat(tests, spec-specs): add full cost per state byte pricing function for EIP-8037](https://github.com/ethereum/execution-specs/pull/2687) - 2026-04-15
+* [Pull Request] [feat(specs): EIP-8037 diff-at-call-return state gas charging [DRAFT]](https://github.com/ethereum/execution-specs/pull/2683) - 2026-04-15
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 
@@ -59,6 +61,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: more clarifcations for state gas accounting](https://github.com/ethereum/EIPs/pull/11523) - 2026-04-13
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106028647) - 2026-04-14
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4112057595) - 2026-04-15
 ## Q1 2026
 
 

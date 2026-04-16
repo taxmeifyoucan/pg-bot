@@ -31,6 +31,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Rename `on_execution_payload` to `on_execution_payload_envelope`](https://github.com/ethereum/consensus-specs/pull/5108#pullrequestreview-4103602167) - 2026-04-14
 * [Pull Request] [Fix BeaconBlocksByRange typo](https://github.com/ethereum/consensus-specs/pull/5109) - 2026-04-14
 * [Commit] [Fix BeaconBlocksByRange typo (#5109)](https://github.com/ethereum/consensus-specs/commit/76ed00ccd0733ccfa9f7dd87448876b25b18aab4) - 2026-04-14
+* [Review] [Review on: Define deprecated functions](https://github.com/ethereum/consensus-specs/pull/5105#pullrequestreview-4111858906) - 2026-04-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

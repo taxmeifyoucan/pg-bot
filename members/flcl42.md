@@ -46,6 +46,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Improve ssz](https://github.com/NethermindEth/nethermind/pull/10788) - 2026-04-14
 * [Review] [Review on: style: enforce expression-bodied members](https://github.com/NethermindEth/nethermind/pull/11134#pullrequestreview-4104161183) - 2026-04-14
 * [Commit] [Improve ssz (#10788)](https://github.com/NethermindEth/nethermind/commit/8c624bdce58b651c14ce69e0324dfc7cc2427f04) - 2026-04-14
+* [Pull Request] [Trace level log for retry cache](https://github.com/NethermindEth/nethermind/pull/11160) - 2026-04-15
+* [Pull Request] [Fix amsterdam hive tests](https://github.com/NethermindEth/nethermind/pull/11151) - 2026-04-15
+* [Pull Request] [Fix limits](https://github.com/NethermindEth/nethermind/pull/11155) - 2026-04-15
+* [Review] [Review on: Fix limits](https://github.com/NethermindEth/nethermind/pull/11155#pullrequestreview-4114325525) - 2026-04-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 ## Q1 2026

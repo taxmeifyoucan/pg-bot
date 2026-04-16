@@ -39,6 +39,13 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [refactor: move EIP-8037 gas cap validation into validate_initial_tx_gas (#3552)](https://github.com/bluealloy/revm/commit/16a5e26829311639d853ca36b4df49a15635c003) - 2026-04-10
 * [Commit] [feat: add EIP-8037 / TIP-1016 state gas support (#3406)](https://github.com/bluealloy/revm/commit/f15846473f22914049d90362623457e2d418ebc7) - 2026-04-10
 * [Commit] [refactor: deprecate set_spec and clean up deprecation attrs (#3550)](https://github.com/bluealloy/revm/commit/d060498853a31a2ad6e8d4c15e1db9b12100d4e9) - 2026-04-09
+* [Review] [Review on: refactor(interpreter): dedup account loading across host instructions](https://github.com/bluealloy/revm/pull/3562#pullrequestreview-4112379991) - 2026-04-15
+* [Pull Request] [fix(bal): record storage writes to zero for selfdestructed accounts](https://github.com/bluealloy/revm/pull/3573) - 2026-04-15
+* [Review] [Review on: fix: opcode struct panics/safety](https://github.com/bluealloy/revm/pull/3566#pullrequestreview-4113024454) - 2026-04-15
+* [Pull Request] [chore: rm op-revm (migrated to ethereum-optimism/optimism)](https://github.com/bluealloy/revm/pull/3568) - 2026-04-15
+* [Review] [Review on: fix(bytecode): mark `Bytecode::new_analyzed` as unsafe](https://github.com/bluealloy/revm/pull/3557#pullrequestreview-4112410061) - 2026-04-15
+* [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4112396309) - 2026-04-15
+* [Commit] [chore: rm op-revm (migrated to ethereum-optimism/optimism) (#3568)](https://github.com/bluealloy/revm/commit/64672d6ef3f3a6568fdedf33a1d7e69e3c91ae63) - 2026-04-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

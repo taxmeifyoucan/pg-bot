@@ -19,6 +19,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
 * [Review] [Review on: fix: pass prepareSlot to fork choice head for Gloas FULL vs EMPTY tie-breaker](https://github.com/ChainSafe/lodestar/pull/9164#pullrequestreview-4078068636) - 2026-04-08
+* [Review] [Review on: feat: ignore index-1 attestation when payload is missing](https://github.com/ChainSafe/lodestar/pull/9213#pullrequestreview-4116150192) - 2026-04-15
+* [Review] [Review on: refactor: revert dual-state cache architecture from ePBS](https://github.com/ChainSafe/lodestar/pull/9215#pullrequestreview-4114527376) - 2026-04-15
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 ## Q1 2026
 
 

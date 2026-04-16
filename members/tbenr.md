@@ -33,6 +33,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: 10098 6 unblind execution payload](https://github.com/Consensys/teku/pull/10559#pullrequestreview-4104193310) - 2026-04-14
 * [Review] [Review on: Extract forkchoice reorg and timeliness logic (1 of 7)](https://github.com/Consensys/teku/pull/10548#pullrequestreview-4104141910) - 2026-04-14
 * [Issue] [Defer payload processing to next block](https://github.com/Consensys/teku/issues/10562) - 2026-04-14
+* [Review] [Review on: Add Gossip Beacon Block Reference Test Executor](https://github.com/Consensys/teku/pull/10563#pullrequestreview-4112711834) - 2026-04-15
+* [Pull Request] [Add forkchoice node identity plumbing with current behavior unchanged (2 of 7)](https://github.com/Consensys/teku/pull/10569) - 2026-04-15
+* [Review] [Review on: Add forkchoice node identity plumbing with current behavior unchanged (2 of 7)](https://github.com/Consensys/teku/pull/10569#pullrequestreview-4114610744) - 2026-04-15
+* [Review] [Review on: Bug fix: SlashingProtectedValidatorSource now wraps external signers added via API with slashing protection.](https://github.com/Consensys/teku/pull/10566#pullrequestreview-4112013004) - 2026-04-15
+* [Review] [Review on: Remove storage of execution payload state](https://github.com/Consensys/teku/pull/10564#pullrequestreview-4115119998) - 2026-04-15
+* [Review] [Review on: add unblinded execution payload cache](https://github.com/Consensys/teku/pull/10568#pullrequestreview-4112835460) - 2026-04-15
+* [Pull Request] [target java 25](https://github.com/Consensys/teku/pull/10567) - 2026-04-15
+* [Commit] [Extract forkchoice reorg and timeliness logic (1 of 7) (#10548)](https://github.com/Consensys/teku/commit/5e437c30dca93266b92bc2146262a4a8f58d12d3) - 2026-04-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 ## Q1 2026

@@ -51,6 +51,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [reversing checkpoint api change (#16660)](https://github.com/OffchainLabs/prysm/commit/d1bb9018d33b1ec39f3377503292bdd74e816a47) - 2026-04-14
 * [Commit] [implementing envelope rest apis  (#16522)](https://github.com/OffchainLabs/prysm/commit/8c70e4bbb1e18200f39ecdc81b4b94a927797964) - 2026-04-14
 * [Commit] [Get block v4 (#16488)](https://github.com/OffchainLabs/prysm/commit/9069afc6d0275ed2877e1750a8350e028ab9bb8b) - 2026-04-14
+* [Review] [Review on: Implement defer payload processing](https://github.com/OffchainLabs/prysm/pull/16658#pullrequestreview-4117061975) - 2026-04-15
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

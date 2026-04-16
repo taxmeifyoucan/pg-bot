@@ -26,6 +26,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112#pullrequestreview-4095921339) - 2026-04-13
 * [Issue] [Reconcile CLI reorg config with `config.yaml`](https://github.com/sigp/lighthouse/issues/9123) - 2026-04-13
 * [Review] [Review on: Add method to `Hash256` to display shortened hashes](https://github.com/sigp/lighthouse/pull/9118#pullrequestreview-4103680069) - 2026-04-14
+* [Review] [Review on: Re-issue `ForkchoiceUpdate` based on updated `StatePayloadStatus`](https://github.com/sigp/lighthouse/pull/9102#pullrequestreview-4117655248) - 2026-04-16
+* [Review] [Review on: Make ExecutionHash not option in ForkChoiceParams](https://github.com/sigp/lighthouse/pull/8901#pullrequestreview-4110557485) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

@@ -216,8 +216,28 @@ Team: Erigon
 * [Commit] [RoSnapshots: lock-free .View method (#20490)](https://github.com/erigontech/erigon/commit/05a1e3d25dec22804cbabe742c9c2078545ce2cd) - 2026-04-14
 * [Commit] [membatch: ViewID() method (#20537)](https://github.com/erigontech/erigon/commit/443a3481f05ddfbfbfe2d55c3f00da385870ad0e) - 2026-04-14
 * [Commit] [[r3.4→main] Cherry-pick PRs from release/3.4 (#20519)](https://github.com/erigontech/erigon/commit/e1e5a97016f68a255c249b7e02c7c437004347f4) - 2026-04-14
+* [Pull Request] [[wip] [r3.4] db/state: fix collation/pruning race and unwind visibility in BuildFilesInBackground](https://github.com/erigontech/erigon/pull/20594) - 2026-04-16
+* [Pull Request] [[wip] checking main ci](https://github.com/erigontech/erigon/pull/20593) - 2026-04-16
+* [Pull Request] [blk-range: wrong logs ](https://github.com/erigontech/erigon/pull/20571) - 2026-04-15
+* [Pull Request] [db/state: simplify closing nil-checks](https://github.com/erigontech/erigon/pull/20573) - 2026-04-15
+* [Review] [Review on: txpool: enforce 4096 hash limit on eth/68 NewPooledTransactionHashes](https://github.com/erigontech/erigon/pull/20577#pullrequestreview-4111916022) - 2026-04-15
+* [Pull Request] [db/recsplit/eliasfano32: fix searchUpperReverse off-by-one on no-solution fast path](https://github.com/erigontech/erigon/pull/20566) - 2026-04-15
+* [Pull Request] [downloader: torrent_hashes --diff flag](https://github.com/erigontech/erigon/pull/20570) - 2026-04-15
+* [Review] [Review on: cmd/utils: fix flag deduplication in appFlags](https://github.com/erigontech/erigon/pull/20579#pullrequestreview-4112151554) - 2026-04-15
+* [Pull Request] [merge: set `merge workers` to 1. because all components already support own parallel-bulding](https://github.com/erigontech/erigon/pull/20565) - 2026-04-15
+* [Pull Request] [db/state: simplify closing nil-checks](https://github.com/erigontech/erigon/pull/20574) - 2026-04-15
+* [Review] [Review on: db/state: simplify closing nil-checks](https://github.com/erigontech/erigon/pull/20574#pullrequestreview-4111569296) - 2026-04-15
+* [Pull Request] [btindex: WarmUp: read key-only, skip value to avoid unnecessary decompression](https://github.com/erigontech/erigon/pull/20567) - 2026-04-15
+* [Pull Request] [[WIP] rpc: typed generic dispatch to eliminate reflection on hot path](https://github.com/erigontech/erigon/pull/20575) - 2026-04-15
+* [Pull Request] [simplify user-visible logs](https://github.com/erigontech/erigon/pull/20576) - 2026-04-15
+* [Issue] [tooling: `StateRootVerifyByHistory` is too slow](https://github.com/erigontech/erigon/issues/20572) - 2026-04-15
+* [Commit] [db/state: simplify closing nil-checks (#20573)](https://github.com/erigontech/erigon/commit/ccde53939eaa781d29109ed53e7b3c2ccfa0c68b) - 2026-04-15
+* [Commit] [db/recsplit/eliasfano32: fix searchUpperReverse off-by-one on no-solution fast path (#20566)](https://github.com/erigontech/erigon/commit/39b4aac593d2723b94686e4c4d47979f08d70b5d) - 2026-04-15
+* [Commit] [btindex: WarmUp: read key-only, skip value to avoid unnecessary decompression (#20567)](https://github.com/erigontech/erigon/commit/c4c2fad2f1ccd8bdb2a4d6c5171b05b7084c843f) - 2026-04-15
+* [Commit] [gossip, forkchoice: fix mutex leak in topic subscription and nil peerDas guards (#20547)](https://github.com/erigontech/erigon/commit/ec7804ddf73fce82b1cbb2de18fc153755de86e3) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
+* [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16
 ## Q1 2026
 
 

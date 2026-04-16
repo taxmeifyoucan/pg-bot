@@ -44,6 +44,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: use fork choice for parent payload status in block production](https://github.com/ChainSafe/lodestar/pull/9209#pullrequestreview-4104742626) - 2026-04-14
 * [Review] [Review on: feat: add cached PTC window to the state](https://github.com/ChainSafe/lodestar/pull/9211#pullrequestreview-4104683334) - 2026-04-14
 * [Review] [Review on: feat: ignore index-1 attestation when payload is missing](https://github.com/ChainSafe/lodestar/pull/9213#pullrequestreview-4104553946) - 2026-04-14
+* [Review] [Review on: feat: gloas alpha.5 speed run](https://github.com/ChainSafe/lodestar/pull/9219#pullrequestreview-4112012284) - 2026-04-15
+* [Commit] [fix: correct proposer boost logic and getParentNodeIndex for gloas (#9165)](https://github.com/ChainSafe/lodestar/commit/2740f92909f4c59db0f8666d8cd16ac4e761058d) - 2026-04-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

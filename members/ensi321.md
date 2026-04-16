@@ -27,8 +27,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: ignore index-1 attestation when payload is missing](https://github.com/ChainSafe/lodestar/pull/9213) - 2026-04-14
 * [Pull Request] [refactor: revert dual-state from regen, block production, and metrics](https://github.com/ChainSafe/lodestar/pull/9218) - 2026-04-15
 * [Pull Request] [refactor: revert dual-state cache architecture from ePBS](https://github.com/ChainSafe/lodestar/pull/9215) - 2026-04-14
+* [Pull Request] [feat: gloas alpha.5 speed run](https://github.com/ChainSafe/lodestar/pull/9219) - 2026-04-15
+* [Review] [Review on: fix: correct proposer boost logic and getParentNodeIndex for gloas](https://github.com/ChainSafe/lodestar/pull/9165#pullrequestreview-4117635824) - 2026-04-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026
 
 

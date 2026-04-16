@@ -39,6 +39,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix: Revise Hive tests](https://github.com/NethermindEth/nethermind/pull/11142) - 2026-04-14
 * [Commit] [fix: Fix Codecov reports (#11144)](https://github.com/NethermindEth/nethermind/commit/0257374d0ac474e6d68e0044834f89d7c7b13b69) - 2026-04-14
 * [Commit] [fix: Revise Hive tests (#11142)](https://github.com/NethermindEth/nethermind/commit/c435e522f8d974d87ce917282b6ed3c53e175251) - 2026-04-14
+* [Commit] [fix: Add Codecov config (#11145)](https://github.com/NethermindEth/nethermind/commit/1db1f1702b43b947d0f4957ee81034cec21d8035) - 2026-04-15
 ## Q1 2026
 
 

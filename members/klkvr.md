@@ -39,9 +39,15 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(discv4): add AddBootNode command](https://github.com/paradigmxyz/reth/pull/23515#pullrequestreview-4108561109) - 2026-04-14
 * [Review] [Review on: feat(net): add discv4/discv5 getters to NetworkHandle](https://github.com/paradigmxyz/reth/pull/23514#pullrequestreview-4108559085) - 2026-04-14
 * [Commit] [fix: allow adding peers without overriding kind (#23516)](https://github.com/paradigmxyz/reth/commit/dbb8495be1f9ba41872ee39410056116ee01c7b7) - 2026-04-14
+* [Review] [Review on: refactor: decouple `CachedStateMetrics` from `SavedCache`](https://github.com/paradigmxyz/reth/pull/23552#pullrequestreview-4116957814) - 2026-04-15
+* [Pull Request] [fix: validate against executor output gas used](https://github.com/paradigmxyz/reth/pull/23569) - 2026-04-15
+* [Review] [Review on: feat(cli): add `reth db migrate-v2` for v1→v2 storage migration](https://github.com/paradigmxyz/reth/pull/23422#pullrequestreview-4113672233) - 2026-04-15
+* [Commit] [fix: validate against executor output gas used (#23569)](https://github.com/paradigmxyz/reth/commit/bdbb8df17e0dfe958a624e7cdb07bacd087245db) - 2026-04-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
+* [Pull Request] [fix: re-add `PrecompileOutput::gas_refunded`](https://github.com/bluealloy/revm/pull/3574) - 2026-04-15
+* [Commit] [fix: re-add PrecompileOutput::gas_refunded (#3574)](https://github.com/bluealloy/revm/commit/a76803c7ad16564823ac6f4cae77b3b1e2d1553a) - 2026-04-15
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 ## Q1 2026

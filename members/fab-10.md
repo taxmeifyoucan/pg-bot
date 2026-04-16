@@ -37,6 +37,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: SystemCallProcessor don't log an error, just throw](https://github.com/besu-eth/besu/pull/10152#pullrequestreview-4099429064) - 2026-04-13
 * [Review] [Review on: Exclude IntelliJ generated dir from spotless solidity](https://github.com/besu-eth/besu/pull/10223#pullrequestreview-4097321961) - 2026-04-13
 * [Commit] [Improve block proposal cancellation to (best effort) avoid concurrency issues (#10219)](https://github.com/besu-eth/besu/commit/d35a222bf4fc19fdecaf470ffce6e906aa9ff9d6) - 2026-04-14
+* [Review] [Review on: Fix updateForkChoice ignoring setNewHead failure](https://github.com/besu-eth/besu/pull/10224#pullrequestreview-4114817698) - 2026-04-15
+* [Pull Request] [Include slotNumber in payloadIdentifier generation](https://github.com/besu-eth/besu/pull/10242) - 2026-04-15
+* [Pull Request] [Make engineNewPayloadV5 to follow the current standard for this type of methods](https://github.com/besu-eth/besu/pull/10238) - 2026-04-15
+* [Review] [Review on: Make engineNewPayloadV5 to follow the current standard for this type of methods](https://github.com/besu-eth/besu/pull/10238#pullrequestreview-4114393350) - 2026-04-15
+* [Review] [Review on: Remove deprecated Holesky network and related tests](https://github.com/besu-eth/besu/pull/10165#pullrequestreview-4112621937) - 2026-04-15
+* [Review] [Review on: feat(plugins): reimplement liveness and readiness checks as plugins (#7704)](https://github.com/besu-eth/besu/pull/10167#pullrequestreview-4111759114) - 2026-04-15
 ## Q1 2026
 
 

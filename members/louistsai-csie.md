@@ -38,6 +38,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tooling): add `shell-completions` recipe to print setup instructions](https://github.com/ethereum/execution-specs/pull/2651#pullrequestreview-4104662532) - 2026-04-14
 * [Review] [Review on: refactor(test-benchmark): remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670#pullrequestreview-4103432770) - 2026-04-14
 * [Commit] [feat(test-benchmark): add uncacheable precompile benchmark (#2600)](https://github.com/ethereum/execution-specs/commit/3687eb564090c94ea49601adb284df4e4ff418e7) - 2026-04-14
+* [Pull Request] [chore(test-benchmark): remove unused stateful benchmarks](https://github.com/ethereum/execution-specs/pull/2686) - 2026-04-15
+* [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4111403031) - 2026-04-15
 ## Q1 2026
 
 

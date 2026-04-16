@@ -34,6 +34,8 @@ Team: Reth
 * [Review] [Review on: ci(bench): replace no_slack boolean with slack dropdown (always/on-error/never)](https://github.com/paradigmxyz/reth/pull/23501#pullrequestreview-4107295034) - 2026-04-14
 * [Review] [Review on: feat: add reqwest-rustls to support otlp endpoints with https](https://github.com/paradigmxyz/reth/pull/23495#pullrequestreview-4106562745) - 2026-04-14
 * [Review] [Review on: feat(bench): BAL capture, replay, and inline payload decoding](https://github.com/paradigmxyz/reth/pull/23434#pullrequestreview-4105399333) - 2026-04-14
+* [Pull Request] [refactor: decouple `CachedStateMetrics` from `SavedCache`](https://github.com/paradigmxyz/reth/pull/23552) - 2026-04-15
+* [Commit] [refactor: decouple `CachedStateMetrics` from `SavedCache` (#23552)](https://github.com/paradigmxyz/reth/commit/199b7460a91e31055a7e6eb73035e5fd7f50ee4b) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

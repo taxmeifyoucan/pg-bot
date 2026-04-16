@@ -132,9 +132,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [vm: extract shared execCreate helper for opCreate and opCreate2 (#20426)](https://github.com/erigontech/erigon/commit/8b275fb3f5603ee2f36de6efd464bc1dfc74d39e) - 2026-04-14
 * [Commit] [parallel executor: fix two cache bugs (#20515)](https://github.com/erigontech/erigon/commit/43a64a0b66f1130ba8e66027e8d31253863d4d69) - 2026-04-14
 * [Commit] [all: reduce code duplication across codebase (#20504)](https://github.com/erigontech/erigon/commit/1bbb4a7561a52a3989b85de4f2540d21be6ce8de) - 2026-04-14
+* [Review] [Review on: vm: opcode-scoped intern cache on CallContext to eliminate duplicate `unique.Make()`](https://github.com/erigontech/erigon/pull/20552#pullrequestreview-4111971673) - 2026-04-15
+* [Pull Request] [stagedsync: enforce strict BAL validation during fork validation (EIP-7928)](https://github.com/erigontech/erigon/pull/20581) - 2026-04-15
+* [Pull Request] [[DO NOT MERGE] Yperbasis/test20581](https://github.com/erigontech/erigon/pull/20590) - 2026-04-15
+* [Review] [Review on:  fix trace_rawTransaction aligned to nethermind and Reth impl](https://github.com/erigontech/erigon/pull/20448#pullrequestreview-4111891330) - 2026-04-15
+* [Pull Request] [txpool: enforce 4096 hash limit on eth/68 NewPooledTransactionHashes](https://github.com/erigontech/erigon/pull/20577) - 2026-04-15
+* [Review] [Review on: tests: speed up slow tests via parallelism and context deadlines](https://github.com/erigontech/erigon/pull/20563#pullrequestreview-4111938107) - 2026-04-15
+* [Review] [Review on: [SharovBot] engineapi: fix flaky tests caused by TOCTOU port races](https://github.com/erigontech/erigon/pull/20328#pullrequestreview-4111918746) - 2026-04-15
+* [Commit] [txpool: enforce 4096 hash limit on eth/68 NewPooledTransactionHashes (#20577)](https://github.com/erigontech/erigon/commit/ca83ebe37beb705789bcdbf9e9404975991046b2) - 2026-04-15
+* [Commit] [execution: make withdrawal/consolidation request contract addresses configurable (#20298)](https://github.com/erigontech/erigon/commit/34ac22904b0de1b14cf054a7cf2c0d02461215f3) - 2026-04-15
+* [Commit] [ci: remove flaky eoa-transactions-test from caplin-minimal suite (#20556)](https://github.com/erigontech/erigon/commit/13b851f9a5169669b898fbeb3155a721834b8eca) - 2026-04-15
+* [Commit] [node/interfaces: vendor submodule as regular files (#20558)](https://github.com/erigontech/erigon/commit/3ce7e5ecd944815769afc46c56ad4bf609c8f01a) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
+* [Pull Request] [Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495) - 2026-04-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(amsterdam): EIP-7708 burn log when coinbase self-destructs](https://github.com/ethereum/execution-specs/pull/2634) - 2026-04-08
 

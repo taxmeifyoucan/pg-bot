@@ -42,6 +42,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add proposer preferences gossip validation and publishing](https://github.com/status-im/nimbus-eth2/pull/8271#pullrequestreview-4110118051) - 2026-04-15
 * [Review] [Review on: Add discovery custody filter ability.](https://github.com/status-im/nimbus-eth2/pull/8263#pullrequestreview-4106080996) - 2026-04-14
 * [Pull Request] [use --num-threads=1 on mainnet, not minimal local testnet](https://github.com/status-im/nimbus-eth2/pull/8267) - 2026-04-14
+* [Review] [Review on: add proposer preferences gossip validation and publishing](https://github.com/status-im/nimbus-eth2/pull/8271#pullrequestreview-4114819112) - 2026-04-15
+* [Review] [Review on: Add discovery custody filter ability.](https://github.com/status-im/nimbus-eth2/pull/8263#pullrequestreview-4113408200) - 2026-04-15
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

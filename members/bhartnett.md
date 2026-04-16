@@ -18,6 +18,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Improve dynamic batch size settings (#4096)](https://github.com/status-im/nimbus-eth1/commit/7aa2874770d5162df6d2017fc9347021eb752070) - 2026-04-03
 * [Pull Request] [Use RlpArrayBufWriter for rlp encoding in stateroot computation](https://github.com/status-im/nimbus-eth1/pull/4115) - 2026-04-11
 * [Commit] [Use RlpArrayBufWriter for rlp encoding in stateroot computation (#4115)](https://github.com/status-im/nimbus-eth1/commit/e7b3a45c87572260ca312e582a9e1d9716fd126e) - 2026-04-14
+* [Pull Request] [Update nim-rocksdb to v10.10.1.0](https://github.com/status-im/nimbus-eth1/pull/4136) - 2026-04-15
 ## Q1 2026
 
 

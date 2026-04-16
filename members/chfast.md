@@ -71,9 +71,15 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Extract SWAP instruction helper (#1509)](https://github.com/ipsilon/evmone/commit/6385815dfa2aff7bceb91982594edfaa031e04cf) - 2026-04-13
 * [Review] [Review on: Implement DUPN/SWAPN/EXCHANGE (EIP-8024)](https://github.com/ipsilon/evmone/pull/1429#pullrequestreview-4105967629) - 2026-04-14
 * [Commit] [crypto: Restrict conjugate() to degree-2 extension fields (#1485)](https://github.com/ipsilon/evmone/commit/06adc7532c794af22df86f0d2db9a823ff7f8a2e) - 2026-04-14
+* [Pull Request] [Add missing inline keyword to always_inline functions](https://github.com/ipsilon/evmone/pull/1510) - 2026-04-15
+* [Commit] [Add missing inline keyword to always_inline functions (#1510)](https://github.com/ipsilon/evmone/commit/b487188ceba0f29d1cd2c6cefc4fbb6e3e63607b) - 2026-04-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
+* [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15
 ## Q1 2026
 
 

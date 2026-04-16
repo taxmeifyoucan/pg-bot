@@ -172,6 +172,8 @@ Team: Reth
 * [Commit] [chore(deps): bump (#299)](https://github.com/paradigmxyz/revmc/commit/cc79024cb300734f3d8dfcbc5f7466e1a28d4f3b) - 2026-04-12
 * [Commit] [chore: tweak build script (#298)](https://github.com/paradigmxyz/revmc/commit/0321e6a3586527278df9577b6995b92e994f407f) - 2026-04-12
 * [Commit] [chore(ci): hardcode LLVM version in install script](https://github.com/paradigmxyz/revmc/commit/1aa03dac076731b021f4aea81a26c4a0c7149c3f) - 2026-04-12
+* [Pull Request] [refactor(builtins): dedup account loading across host instructions](https://github.com/paradigmxyz/revmc/pull/300) - 2026-04-15
+* [Commit] [refactor(builtins): dedup account loading across host instructions (#300)](https://github.com/paradigmxyz/revmc/commit/3aa8f9711e5bf777e27e30956888438387babfca) - 2026-04-15
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -185,6 +187,7 @@ Team: Reth
 * [Review] [Review on: perf(trie): parallelize merge_ancestors_into_overlay](https://github.com/paradigmxyz/reth/pull/21473#pullrequestreview-4094985536) - 2026-04-12
 * [Review] [Review on: fix(engine): use IndexSet for deterministic block buffer child ordering](https://github.com/paradigmxyz/reth/pull/22676#pullrequestreview-4100794253) - 2026-04-13
 * [Review] [Review on: fix(trie): terminate depth-first iterator on database error](https://github.com/paradigmxyz/reth/pull/22709#pullrequestreview-4100799587) - 2026-04-13
+* [Review] [Review on: chore(bench): pin junk to last core, give reth the big-cache CCD](https://github.com/paradigmxyz/reth/pull/23530#pullrequestreview-4113172380) - 2026-04-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14
@@ -194,6 +197,10 @@ Team: Reth
 * [Pull Request] [fix: opcode struct panics/safety](https://github.com/bluealloy/revm/pull/3566) - 2026-04-14
 * [Pull Request] [perf(interpreter): match loop](https://github.com/bluealloy/revm/pull/3563) - 2026-04-14
 * [Pull Request] [refactor(interpreter): dedup account loading across host instructions](https://github.com/bluealloy/revm/pull/3562) - 2026-04-14
+* [Review] [Review on: test: add custom opcode integration test](https://github.com/bluealloy/revm/pull/3576#pullrequestreview-4117538942) - 2026-04-15
+* [Issue] [Upgrade to edition 2024](https://github.com/bluealloy/revm/issues/3575) - 2026-04-15
+* [Commit] [refactor(interpreter): dedup account loading across host instructions (#3562)](https://github.com/bluealloy/revm/commit/11bd373376d285037b40ec154e28608642c0a766) - 2026-04-15
+* [Commit] [fix: opcode struct panics/safety (#3566)](https://github.com/bluealloy/revm/commit/df14277203f3b8c4a7b96dd8886ad8eeabb69f40) - 2026-04-15
 ## Q1 2026
 
 

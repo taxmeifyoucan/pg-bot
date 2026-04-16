@@ -27,6 +27,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [10259 4 proposer preferences (#10517)](https://github.com/Consensys/teku/commit/130651ee88d7e200fadcce8c87440b778a09257f) - 2026-04-13
 * [Review] [Review on: 10098 6 unblind execution payload](https://github.com/Consensys/teku/pull/10559#pullrequestreview-4105166784) - 2026-04-14
 * [Commit] [10098 6 unblind execution payload (#10559)](https://github.com/Consensys/teku/commit/f9bac98ed2465b92182d9dbcd898d63f8c5b4677) - 2026-04-14
+* [Pull Request] [add unblinded execution payload cache](https://github.com/Consensys/teku/pull/10568) - 2026-04-15
+* [Review] [Review on: add unblinded execution payload cache](https://github.com/Consensys/teku/pull/10568#pullrequestreview-4113062193) - 2026-04-15
+* [Review] [Review on: target java 25](https://github.com/Consensys/teku/pull/10567#pullrequestreview-4114245130) - 2026-04-15
+* [Commit] [add unblinded execution payload cache (#10568)](https://github.com/Consensys/teku/commit/771355b1c056dee6d72f870d66bc6716288b857d) - 2026-04-15
 ## Q1 2026
 
 

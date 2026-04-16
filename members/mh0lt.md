@@ -52,6 +52,13 @@ Team: Erigon
 * [Issue] [db/state: merge schedule non-determinism across nodes — impacts decentralized snapshot distribution](https://github.com/erigontech/erigon/issues/20531) - 2026-04-13
 * [Commit] [exec: fix partial block receipt reconstruction (#20452) (#20467)](https://github.com/erigontech/erigon/commit/50fd650c49424579bb5ba390c82abda31239d20f) - 2026-04-13
 * [Review] [Review on: [wip] snapshots: align state files to block file boundary on startup](https://github.com/erigontech/erigon/pull/20508#pullrequestreview-4104421707) - 2026-04-14
+* [Review] [Review on: stagedsync: enforce strict BAL validation during fork validation (EIP-7928)](https://github.com/erigontech/erigon/pull/20581#pullrequestreview-4116824599) - 2026-04-15
+* [Pull Request] [ci: pin glamsterdam kurtosis to last-known-good ethereum-package commit](https://github.com/erigontech/erigon/pull/20591) - 2026-04-15
+* [Pull Request] [node/app: address PR 20450 review comments](https://github.com/erigontech/erigon/pull/20583) - 2026-04-15
+* [Pull Request] [node/app/component: use []*component for relations storage](https://github.com/erigontech/erigon/pull/20585) - 2026-04-15
+* [Pull Request] [node/app/event: use atomic.Pointer[handlerMap] for lock-free Publish](https://github.com/erigontech/erigon/pull/20584) - 2026-04-15
+* [Issue] [Partial Statefulness for Erigon: EIP-7928 + Sparse Snapshots](https://github.com/erigontech/erigon/issues/20587) - 2026-04-15
+* [Commit] [node/app: add component framework (#20450)](https://github.com/erigontech/erigon/commit/db621b9bda151eb373d328fc62e37983d9282e17) - 2026-04-15
 ## Q1 2026
 
 

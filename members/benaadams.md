@@ -47,6 +47,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: Revise Hive tests](https://github.com/NethermindEth/nethermind/pull/11142#pullrequestreview-4107720623) - 2026-04-14
 * [Review] [Review on: fix: clean stale flat storage when contract storage becomes empty](https://github.com/NethermindEth/nethermind/pull/11133#pullrequestreview-4104710711) - 2026-04-14
 * [Review] [Review on: style: enforce expression-bodied members](https://github.com/NethermindEth/nethermind/pull/11134#pullrequestreview-4103959403) - 2026-04-14
+* [Review] [Review on: Fix amsterdam hive tests](https://github.com/NethermindEth/nethermind/pull/11151#pullrequestreview-4114330615) - 2026-04-15
+* [Review] [Review on: fix build - BenchmarkDotNet Version](https://github.com/NethermindEth/nethermind/pull/11152#pullrequestreview-4113770231) - 2026-04-15
+* [Pull Request] [Patch dependencies](https://github.com/NethermindEth/nethermind/pull/11149) - 2026-04-15
+* [Commit] [Patch dependencies (#11149)](https://github.com/NethermindEth/nethermind/commit/a30218d67b08755a401730b7acfa37479e9af95d) - 2026-04-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

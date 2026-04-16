@@ -52,6 +52,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(test-fill): add `--include-benchmark` and scan both tests + tests/benchmark in `checklist` (#2668)](https://github.com/ethereum/execution-specs/commit/6048fe5797c2eaf702b5794a4f727ca425bb8117) - 2026-04-14
 * [Commit] [feat(tooling): add `shell-completions` recipe to print setup instructions (#2651)](https://github.com/ethereum/execution-specs/commit/81402c0dfdbdbe405206e5d2fc049b4a6d587a16) - 2026-04-14
 * [Commit] [feat(docs): update content for post-weld execution-specs (#2662)](https://github.com/ethereum/execution-specs/commit/f802a2462c355eba397af97eff7bd20ce85132ae) - 2026-04-14
+* [Review] [Review on: feat(ci,docs): build and publish a combined HTML and spec doc artifact](https://github.com/ethereum/execution-specs/pull/2638#pullrequestreview-4113882580) - 2026-04-15
+* [Issue] [Add redirect from eest.ethereum.org to steel.ethereum.foundation/docs/](https://github.com/ethereum/execution-specs/issues/2685) - 2026-04-15
+* [Issue] [Add redirect from execution-specs gh pages to steel-website docs/spec and delete `gh-pages.yaml`](https://github.com/ethereum/execution-specs/issues/2684) - 2026-04-15
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 ## Q1 2026
 
 

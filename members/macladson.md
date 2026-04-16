@@ -22,6 +22,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Truncated `Display` impl for `ExecutionBlockHash`](https://github.com/sigp/lighthouse/pull/9108#pullrequestreview-4081787306) - 2026-04-09
 * [Review] [Review on: Add method to `Hash256` to display shortened hashes](https://github.com/sigp/lighthouse/pull/9118#pullrequestreview-4095027845) - 2026-04-12
 * [Review] [Review on: Remove `psutil` and compute metrics from `procfs`](https://github.com/sigp/lighthouse/pull/8865#pullrequestreview-4101086708) - 2026-04-13
+* [Pull Request] [Bump `rustls-webpki` to unblock CI](https://github.com/sigp/lighthouse/pull/9130) - 2026-04-15
 ## Q1 2026
 
 

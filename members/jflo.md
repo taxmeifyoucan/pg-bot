@@ -18,6 +18,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Add contributor call agenda issue template](https://github.com/besu-eth/besu/pull/10232) - 2026-04-14
 * [Issue] [2026-04-14 Contributor Call](https://github.com/besu-eth/besu/issues/10233) - 2026-04-14
 * [Commit] [Add contributor call agenda issue template (#10232)](https://github.com/besu-eth/besu/commit/2d444099f8120cf8fa9a7207756289f61fe066c6) - 2026-04-14
+* [Pull Request] [Revert bws restart](https://github.com/besu-eth/besu/pull/10239) - 2026-04-15
+* [Commit] [Revert bws restart (#10239)](https://github.com/besu-eth/besu/commit/6f5b43a68534f00fad138634c83f6620b6fe5f19) - 2026-04-15
 ## Q1 2026
 
 

@@ -67,6 +67,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Remove epoch param from slot deadline functions (#5095)](https://github.com/ethereum/consensus-specs/commit/84a276f1579f179f06e95bbbd2a7db9065b24a9f) - 2026-04-14
 * [Commit] [Add more test action inputs (#5112)](https://github.com/ethereum/consensus-specs/commit/b162d55830fdad78723099fc29c8430c97ec99a7) - 2026-04-14
 * [Commit] [Rename `on_execution_payload` to `on_execution_payload_envelope` (#5108)](https://github.com/ethereum/consensus-specs/commit/91782ecdbaecfd46f33893287d6641abcdbaa9e8) - 2026-04-14
+* [Review] [Review on: Add workflow for generating compliance tests](https://github.com/ethereum/consensus-specs/pull/5114#pullrequestreview-4116169529) - 2026-04-15
+* [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4115666476) - 2026-04-15
+* [Commit] [Define deprecated functions (#5105)](https://github.com/ethereum/consensus-specs/commit/b48042d4aa0c0d27e0ee55d73270b243e19bfa56) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 ## Q1 2026

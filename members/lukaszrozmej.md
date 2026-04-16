@@ -105,6 +105,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: dispose SnappyStream in PayloadByNumberProtocol](https://github.com/NethermindEth/nethermind/pull/11135#pullrequestreview-4104040885) - 2026-04-14
 * [Review] [Review on: fix: clean stale flat storage when contract storage becomes empty](https://github.com/NethermindEth/nethermind/pull/11133#pullrequestreview-4104897814) - 2026-04-14
 * [Review] [Review on: style: enforce expression-bodied members](https://github.com/NethermindEth/nethermind/pull/11134#pullrequestreview-4103663967) - 2026-04-14
+* [Review] [Review on: fix eth_estimategas to execute with available gas and return allowance error for compatiblity with geth](https://github.com/NethermindEth/nethermind/pull/11153#pullrequestreview-4114180673) - 2026-04-15
+* [Review] [Review on: StackUnderflow from JSON-RPC method eth_call](https://github.com/NethermindEth/nethermind/pull/11139#pullrequestreview-4114615734) - 2026-04-15
+* [Review] [Review on: Trace level log for retry cache](https://github.com/NethermindEth/nethermind/pull/11160#pullrequestreview-4117039443) - 2026-04-15
+* [Review] [Review on: fix: resolve flaky Can_change_branch_on_invalid_block test with event-driven deletion wait ](https://github.com/NethermindEth/nethermind/pull/11159#pullrequestreview-4117070518) - 2026-04-15
+* [Review] [Review on: Fix amsterdam hive tests](https://github.com/NethermindEth/nethermind/pull/11151#pullrequestreview-4114354841) - 2026-04-15
+* [Review] [Review on: Fix limits](https://github.com/NethermindEth/nethermind/pull/11155#pullrequestreview-4113791479) - 2026-04-15
+* [Pull Request] [ci: Auto-run Claude review and gate merges on verdict](https://github.com/NethermindEth/nethermind/pull/11150) - 2026-04-15
+* [Review] [Review on: fix build - BenchmarkDotNet Version](https://github.com/NethermindEth/nethermind/pull/11152#pullrequestreview-4113601746) - 2026-04-15
+* [Review] [Review on: fix(test): replace TrieWarmer Task.Delay with polling](https://github.com/NethermindEth/nethermind/pull/11147#pullrequestreview-4110979587) - 2026-04-15
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11146#pullrequestreview-4110969801) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 ## Q1 2026

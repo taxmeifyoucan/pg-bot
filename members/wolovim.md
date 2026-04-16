@@ -20,6 +20,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Issue] [Native Account Abstraction #1, April 22, 2026](https://github.com/ethereum/pm/issues/2018) - 2026-04-13
 * [Commit] [acdbot: introduce native aa breakout](https://github.com/ethereum/pm/commit/6e572f832857171d4a34de23dbe3dc99bc40d368) - 2026-04-13
 * [Commit] [acdbot: fix shifting calendar event](https://github.com/ethereum/pm/commit/5b64b300b5831a5398634b050fa690a1550307bd) - 2026-04-14
+* [Commit] [acdbot: fix dep path](https://github.com/ethereum/pm/commit/f529e079d25543118007f0b2abfed5d52cb4ab1a) - 2026-04-15
 ## Q1 2026
 
 

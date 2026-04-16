@@ -8,6 +8,12 @@ Team: Grandine
 
 ## Contributions
 
+## Q2 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Review] [Review on: Handle non-power-of-two length persistent vectors](https://github.com/grandinetech/grandine/pull/663#pullrequestreview-4114490158) - 2026-04-15
+* [Pull Request] [Feature/rustsec 2026 0098 99](https://github.com/grandinetech/grandine/pull/666) - 2026-04-15
 ## Q1 2026
 
 

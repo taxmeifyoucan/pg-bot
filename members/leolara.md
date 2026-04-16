@@ -15,6 +15,7 @@ Github: [@leolara](https://github.com/leolara)
 * [Commit] [feat(test-fill): Add --verify-traces flag for trace comparison against baselines (#2535)](https://github.com/ethereum/execution-specs/commit/d98620730285ade2ecacb86e242a6c0de52a4326) - 2026-04-07
 * [Commit] [ feat(scripts): skip `@manually-enhanced` files in `filler_to_python` (#2630)](https://github.com/ethereum/execution-specs/commit/c08584c7a79510ea68f0adfe3132ed97c4530739) - 2026-04-07
 * [Pull Request] [fix(test-plugins-filler): aggregate --verify-traces results across xdist workers](https://github.com/ethereum/execution-specs/pull/2664) - 2026-04-13
+* [Commit] [fix(test-plugins-filler): aggregate --verify-traces results across xdist workers (#2664)](https://github.com/ethereum/execution-specs/commit/64dc4ac9f2c5a52bde5a01c2023ee0225420fd4d) - 2026-04-15
 ## Q1 2026
 
 

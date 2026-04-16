@@ -20,6 +20,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: added an executor for Gossip beacon attestation reftests](https://github.com/Consensys/teku/pull/10546#pullrequestreview-4096254255) - 2026-04-13
 * [Pull Request] [Add Gossip Beacon Block Reference Test Executor](https://github.com/Consensys/teku/pull/10563) - 2026-04-14
 * [Commit] [added an executor for Gossip beacon attestation reftests (#10546)](https://github.com/Consensys/teku/commit/607545f9d187d78f33b2a74fc22a56533bb5d4f0) - 2026-04-14
+* [Review] [Review on: EIP-8045 - Exclude slashed validators from duties](https://github.com/Consensys/teku/pull/10560#pullrequestreview-4117458184) - 2026-04-15
+* [Review] [Review on:    Added POST /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10534#pullrequestreview-4110562757) - 2026-04-15
+* [Review] [Review on: Add Gossip Beacon Block Reference Test Executor](https://github.com/Consensys/teku/pull/10563#pullrequestreview-4117257745) - 2026-04-15
+* [Review] [Review on: Add forkchoice node identity plumbing with current behavior unchanged (2 of 7)](https://github.com/Consensys/teku/pull/10569#pullrequestreview-4117440557) - 2026-04-15
+* [Pull Request] [Bug fix: SlashingProtectedValidatorSource now wraps external signers added via API with slashing protection.](https://github.com/Consensys/teku/pull/10566) - 2026-04-15
+* [Review] [Review on: Bug fix: SlashingProtectedValidatorSource now wraps external signers added via API with slashing protection.](https://github.com/Consensys/teku/pull/10566#pullrequestreview-4112220526) - 2026-04-15
+* [Commit] [Add Gossip Beacon Block Reference Test Executor (#10563)](https://github.com/Consensys/teku/commit/57664112dd6d09b78e189e9595498443e783be8a) - 2026-04-15
+* [Commit] [Bug fix: SlashingProtectedValidatorSource now wraps external signers added via API with slashing protection. (#10566)](https://github.com/Consensys/teku/commit/491b9e0f36ef58fba635e474e3898492e0485b31) - 2026-04-15
 ## Q1 2026
 
 

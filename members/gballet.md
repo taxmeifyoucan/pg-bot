@@ -23,6 +23,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [trie/bintrie: spec change, big endian hashing of slot key (#34670)](https://github.com/ethereum/go-ethereum/commit/735bfd121a738eb35efb9b88e9fe25618b807fa4) - 2026-04-13
 * [Pull Request] [.github/workflows: activate freebsd build on PRs](https://github.com/ethereum/go-ethereum/pull/34717) - 2026-04-14
 * [Commit] [.github/workflows: add freebsd test github action (#34078)](https://github.com/ethereum/go-ethereum/commit/c2234462a84c1bb6000cfcc6195404d1caabf2a7) - 2026-04-14
+* [Review] [Review on: cmd, core, trie, triedb: split CachingDB into merkle + binary dbs.](https://github.com/ethereum/go-ethereum/pull/34700#pullrequestreview-4116550730) - 2026-04-15
 ## Q1 2026
 
 

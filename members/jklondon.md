@@ -26,6 +26,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: debug_executionWitness: follow up](https://github.com/erigontech/erigon/pull/20345#pullrequestreview-4062185707) - 2026-04-06
 * [Review] [Review on: cmd/utils, node/cli: fix Cobra flag default parsing](https://github.com/erigontech/erigon/pull/20377#pullrequestreview-4093671106) - 2026-04-11
 * [Review] [Review on: RoSnapshots: lock-free .View method](https://github.com/erigontech/erigon/pull/20490#pullrequestreview-4108511112) - 2026-04-14
+* [Review] [Review on: rpc, exec: wire receipts.Generator to shared derive package, add RCacheV2 fast path](https://github.com/erigontech/erigon/pull/20485#pullrequestreview-4113006178) - 2026-04-15
+* [Review] [Review on: tests: speed up slow tests via parallelism and context deadlines](https://github.com/erigontech/erigon/pull/20563#pullrequestreview-4113004149) - 2026-04-15
+* [Review] [Review on: downloader: torrent_hashes --diff flag](https://github.com/erigontech/erigon/pull/20570#pullrequestreview-4113001334) - 2026-04-15
+* [Commit] [[kimiko] Analyze all commits that were pushed to the current branch (in (#19653)](https://github.com/erigontech/erigon/commit/1a1ff8f3cad3b967ba92321e875b3c289754fcec) - 2026-04-15
 ## Q1 2026
 
 

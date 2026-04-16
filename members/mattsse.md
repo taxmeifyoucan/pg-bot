@@ -108,6 +108,12 @@ Team: Reth
 * [Review] [Review on: feat(rpc): support transactionReceipts subscription in eth_subscribe](https://github.com/paradigmxyz/reth/pull/23485#pullrequestreview-4104416139) - 2026-04-14
 * [Commit] [feat(discv4): add AddBootNode command (#23515)](https://github.com/paradigmxyz/reth/commit/13217d55170a11cf106f4a749bc40ca2b59030d4) - 2026-04-14
 * [Commit] [feat(net): add discv4/discv5 getters to NetworkHandle (#23514)](https://github.com/paradigmxyz/reth/commit/0165569bc1e15eae5a7ceb2e5ff31eb4aa99d6c1) - 2026-04-14
+* [Review] [Review on: fix: validate against executor output gas used](https://github.com/paradigmxyz/reth/pull/23569#pullrequestreview-4116615963) - 2026-04-15
+* [Review] [Review on: feat(cli): add reth download config options](https://github.com/paradigmxyz/reth/pull/23513#pullrequestreview-4112216670) - 2026-04-15
+* [Review] [Review on: fix(rpc): prevent panic in log subscription on broadcast lag](https://github.com/paradigmxyz/reth/pull/23561#pullrequestreview-4116249007) - 2026-04-15
+* [Review] [Review on: feat(BAL): use new engine-api methods in bench](https://github.com/paradigmxyz/reth/pull/23517#pullrequestreview-4112276399) - 2026-04-15
+* [Issue] [Expose HTTP transport middleware for auth/engine RPC server](https://github.com/paradigmxyz/reth/issues/23538) - 2026-04-15
+* [Commit] [fix(net): encode block access lists as raw BAL RLP (#23536)](https://github.com/paradigmxyz/reth/commit/7fe76a83d1e42980c06924fd069dd180150e5bdd) - 2026-04-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

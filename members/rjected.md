@@ -28,6 +28,8 @@ Team: Reth
 
 * [Pull Request] [feat(cli): add reth download config options](https://github.com/paradigmxyz/reth/pull/23513) - 2026-04-14
 * [Commit] [chore(cli): add binary name and chain detection in tempo download log (#23356)](https://github.com/paradigmxyz/reth/commit/b8ab2c628e097a6950125c1fcbf59226158138b9) - 2026-04-14
+* [Pull Request] [fix(cli): error on non-mainnet when no download url provided](https://github.com/paradigmxyz/reth/pull/23570) - 2026-04-15
+* [Commit] [feat(cli): add reth download config options (#23513)](https://github.com/paradigmxyz/reth/commit/f451ad538076599e977c2a9c1e6ce308666252da) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 ## Q1 2026

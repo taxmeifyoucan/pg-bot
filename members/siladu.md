@@ -42,6 +42,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [Exclude IntelliJ generated dir from spotless solidity (#10223)](https://github.com/besu-eth/besu/commit/5527269e23818c908d411c3078bd732b8cee2a86) - 2026-04-13
 * [Review] [Review on: Implement BaseFee, blobBaseFee, CallValue, GasPrice, Balance and SelfBalance for EVM v2](https://github.com/besu-eth/besu/pull/10229#pullrequestreview-4103971146) - 2026-04-14
 * [Review] [Review on: Add contributor call agenda issue template](https://github.com/besu-eth/besu/pull/10232#pullrequestreview-4105516131) - 2026-04-14
+* [Review] [Review on: Implement BaseFee, blobBaseFee, CallValue, GasPrice, Balance and SelfBalance for EVM v2](https://github.com/besu-eth/besu/pull/10229#pullrequestreview-4112663768) - 2026-04-15
+* [Review] [Review on: Migrate multi-arch Docker builds to GitHub Actions](https://github.com/besu-eth/besu/pull/10203#pullrequestreview-4111521040) - 2026-04-15
+* [Review] [Review on: SystemCallProcessor don't log an error, just throw](https://github.com/besu-eth/besu/pull/10152#pullrequestreview-4111169615) - 2026-04-15
+* [Issue] [Docker CI - Incremental Migration from Gradle Tasks to GitHub Actions](https://github.com/besu-eth/besu/issues/10236) - 2026-04-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

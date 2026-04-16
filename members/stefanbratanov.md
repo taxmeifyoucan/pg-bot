@@ -24,6 +24,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Remove `ValidatorApiHandlerGloas`](https://github.com/Consensys/teku/pull/10561) - 2026-04-14
 * [Review] [Review on: Remove `ValidatorApiHandlerGloas`](https://github.com/Consensys/teku/pull/10561#pullrequestreview-4107048242) - 2026-04-14
 * [Commit] [Remove `ValidatorApiHandlerGloas` (#10561)](https://github.com/Consensys/teku/commit/eb5914923cb03082c94ec09aad22edab2dca9613) - 2026-04-14
+* [Commit] [Remove storage of execution payload state (#10564)](https://github.com/Consensys/teku/commit/39afe3618eac05187c5c92c3128859a0d55b8963) - 2026-04-15
 ## Q1 2026
 
 

@@ -42,6 +42,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: handle Gloas in GetForkVersionAtEpoch](https://github.com/ethpandaops/dora/commit/3f664244d5ddf24ba0f7ad9b4d6f1b40fa15e8c6) - 2026-04-14
 * [Commit] [Merge pull request #636 from ethpandaops/bbusa/drop-probe-lab-das-guardian](https://github.com/ethpandaops/dora/commit/0674a196df8a0e69c85b6d9a2b4dc05f42a80282) - 2026-04-14
 * [Commit] [drop unused probe-lab/eth-das-guardian from go.mod](https://github.com/ethpandaops/dora/commit/9de10c115b161b01cbc95de5cb7e52eff468f815) - 2026-04-14
+* [Review] [Review on: fix withdrawals page performance & add blockdb copy tool](https://github.com/ethpandaops/dora/pull/642#pullrequestreview-4114012593) - 2026-04-15
+* [Pull Request] [fix: parse Lighthouse execution_proofs response shape](https://github.com/ethpandaops/dora/pull/641) - 2026-04-15
+* [Commit] [Merge pull request #641 from ethpandaops/bbusa/fix-execution-proofs-lighthouse-schema](https://github.com/ethpandaops/dora/commit/c92a066ee83581e858812142eed2a40593334f53) - 2026-04-15
+* [Commit] [feat: show execution proof count badge on slot page tab](https://github.com/ethpandaops/dora/commit/0a265606cd0f7268eda114b2e0432d20c9f95b3d) - 2026-04-15
+* [Commit] [fix: cast proof size to float64 for KB division](https://github.com/ethpandaops/dora/commit/208ef6cf5cb4a0247b55f7bf2f102aa2dd586ec4) - 2026-04-15
+* [Commit] [fix: parse Lighthouse execution_proofs response shape](https://github.com/ethpandaops/dora/commit/b97a284b669092eea9224c76ed0ae0d93c76c7e8) - 2026-04-15
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -81,6 +87,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8070: Rename protocol version to eth/72 and fix typos](https://github.com/ethereum/EIPs/pull/11524) - 2026-04-14
 
+* [Review] [Review on: Update EIP-8070: Rename protocol version to eth/72 and fix typos](https://github.com/ethereum/EIPs/pull/11524#pullrequestreview-4113208037) - 2026-04-15
+* [Commit] [Update EIP-8070: Rename protocol version to eth/72 and fix typos](https://github.com/ethereum/EIPs/commit/255e414069dd4e4f707c136d5923103251ab865e) - 2026-04-15
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [ci: bump pinned GitHub Actions to latest](https://github.com/ethpandaops/template-devnets/pull/158) - 2026-04-14
 * [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14
