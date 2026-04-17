@@ -21,6 +21,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Refactor sync-supported-chains workflow and add sync smoke test CI check (#10898)](https://github.com/NethermindEth/nethermind/commit/793d1ece9cf808b7a5871a65f900d451b9455a6b) - 2026-04-09
 * [Pull Request] [feat(logging): add DebugError/DebugWarn helpers with Kind property for Seq](https://github.com/NethermindEth/nethermind/pull/11157) - 2026-04-15
 * [Pull Request] [fix: drop BlobCountLimit to stop peer churn during sync](https://github.com/NethermindEth/nethermind/pull/11154) - 2026-04-15
+* [Review] [Review on: ci: bump mainnet Flat sync timeout to 6h in sync-master-validation](https://github.com/NethermindEth/nethermind/pull/11195#pullrequestreview-4124862153) - 2026-04-16
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

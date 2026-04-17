@@ -13,6 +13,10 @@ Team: Applied Research Group (ARG)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add sukunrt to P2P Networking](https://github.com/protocolguild/documentation/pull/488#pullrequestreview-4091731593) - 2026-04-10
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7773: Fix header formatting in eip-7773.md](https://github.com/ethereum/EIPs/pull/11533#pullrequestreview-4124122980) - 2026-04-16
+* [Review] [Review on: Update EIP-7773: Add Networking EIPs section](https://github.com/ethereum/EIPs/pull/11452#pullrequestreview-4122108051) - 2026-04-16
 ## Q1 2026
 
 

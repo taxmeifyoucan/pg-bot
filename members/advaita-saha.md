@@ -24,6 +24,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126) - 2026-04-14
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4104159290) - 2026-04-14
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4115350182) - 2026-04-15
+* [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4119039129) - 2026-04-16
+* [Commit] [fix: txpool should order by per-gas tip, not total gas expenditure (#4126)](https://github.com/status-im/nimbus-eth1/commit/9bf3f78f7b3b5f37d48aceb3e32c1966553067e4) - 2026-04-16
 ## Q1 2026
 
 

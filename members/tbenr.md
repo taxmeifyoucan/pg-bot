@@ -41,8 +41,16 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: add unblinded execution payload cache](https://github.com/Consensys/teku/pull/10568#pullrequestreview-4112835460) - 2026-04-15
 * [Pull Request] [target java 25](https://github.com/Consensys/teku/pull/10567) - 2026-04-15
 * [Commit] [Extract forkchoice reorg and timeliness logic (1 of 7) (#10548)](https://github.com/Consensys/teku/commit/5e437c30dca93266b92bc2146262a4a8f58d12d3) - 2026-04-15
+* [Pull Request] [Make vote tracking slot-aware and add backward-compatible vote update plumbing (3 of 7)](https://github.com/Consensys/teku/pull/10573) - 2026-04-16
+* [Review] [Review on: Add forkchoice node identity plumbing with current behavior unchanged (2 of 7)](https://github.com/Consensys/teku/pull/10569#pullrequestreview-4123099636) - 2026-04-16
+* [Pull Request] [fix ci permissions (and make windowsBuild not blocking)](https://github.com/Consensys/teku/pull/10570) - 2026-04-16
+* [Issue] [swap state fields for GLOAS](https://github.com/Consensys/teku/issues/10571) - 2026-04-16
+* [Issue] [BAL compatibility](https://github.com/Consensys/teku/issues/10572) - 2026-04-16
+* [Commit] [Add forkchoice node identity plumbing with current behavior unchanged (2 of 7) (#10569)](https://github.com/Consensys/teku/commit/9729db9daf4798e34fdfd800157263a61153735c) - 2026-04-16
+* [Commit] [fix ci permissions (#10570)](https://github.com/Consensys/teku/commit/f1ab24dab86a944730442e1fabb384686151296f) - 2026-04-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
+* [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16
 ## Q1 2026
 
 

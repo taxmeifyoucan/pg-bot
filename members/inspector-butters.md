@@ -20,6 +20,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: implementing envelope rest apis ](https://github.com/OffchainLabs/prysm/pull/16522#pullrequestreview-4106915870) - 2026-04-14
 * [Review] [Review on: return 404 for requests that ask for pre checkpoint sync state](https://github.com/OffchainLabs/prysm/pull/16615#pullrequestreview-4106886503) - 2026-04-14
 * [Review] [Review on: Fix event subscription timeout handling](https://github.com/OffchainLabs/prysm/pull/16681#pullrequestreview-4106757067) - 2026-04-14
+* [Review] [Review on: Pubkey cache: Use map+mutex instead of LRU cache](https://github.com/OffchainLabs/prysm/pull/16654#pullrequestreview-4121036026) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

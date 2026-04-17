@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Add payload attestations to blocks](https://github.com/Consensys/teku/pull/10549#pullrequestreview-4096650709) - 2026-04-13
 * [Pull Request] [EIP-8045](https://github.com/Consensys/teku/pull/10560) - 2026-04-14
 * [Review] [Review on: EIP-8045 - Exclude slashed validators from duties](https://github.com/Consensys/teku/pull/10560#pullrequestreview-4117497842) - 2026-04-15
+* [Review] [Review on: add renovatebot and codeowners](https://github.com/Consensys/teku/pull/10538#pullrequestreview-4125103335) - 2026-04-16
 ## Q1 2026
 
 

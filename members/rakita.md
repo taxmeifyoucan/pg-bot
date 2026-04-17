@@ -46,6 +46,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: fix(bytecode): mark `Bytecode::new_analyzed` as unsafe](https://github.com/bluealloy/revm/pull/3557#pullrequestreview-4112410061) - 2026-04-15
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4112396309) - 2026-04-15
 * [Commit] [chore: rm op-revm (migrated to ethereum-optimism/optimism) (#3568)](https://github.com/bluealloy/revm/commit/64672d6ef3f3a6568fdedf33a1d7e69e3c91ae63) - 2026-04-15
+* [Review] [Review on: test: add custom opcode integration test](https://github.com/bluealloy/revm/pull/3576#pullrequestreview-4122382811) - 2026-04-16
+* [Review] [Review on: refactor: pass reservoir into `first_frame_input`](https://github.com/bluealloy/revm/pull/3578#pullrequestreview-4122070173) - 2026-04-16
+* [Commit] [fix(bal): record storage writes to zero for selfdestructed accounts (#3573)](https://github.com/bluealloy/revm/commit/89ecb25dbe49e1c3a10d99529e42f027d0bd2386) - 2026-04-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

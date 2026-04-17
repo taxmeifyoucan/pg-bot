@@ -36,6 +36,12 @@ Team: Reth
 * [Review] [Review on: feat(bench): BAL capture, replay, and inline payload decoding](https://github.com/paradigmxyz/reth/pull/23434#pullrequestreview-4105399333) - 2026-04-14
 * [Pull Request] [refactor: decouple `CachedStateMetrics` from `SavedCache`](https://github.com/paradigmxyz/reth/pull/23552) - 2026-04-15
 * [Commit] [refactor: decouple `CachedStateMetrics` from `SavedCache` (#23552)](https://github.com/paradigmxyz/reth/commit/199b7460a91e31055a7e6eb73035e5fd7f50ee4b) - 2026-04-15
+* [Review] [Review on: feat(cli): add RocksDB support to `reth db get`](https://github.com/paradigmxyz/reth/pull/23032#pullrequestreview-4124152250) - 2026-04-16
+* [Review] [Review on: perf: parallel segmented snapshot downloads](https://github.com/paradigmxyz/reth/pull/23028#pullrequestreview-4122796779) - 2026-04-16
+* [Pull Request] [feat(miner): add --dev.payload-wait-time to LocalMiner](https://github.com/paradigmxyz/reth/pull/23598) - 2026-04-16
+* [Review] [Review on: feat(cli): add `reth db migrate-v2` for v1→v2 storage migration](https://github.com/paradigmxyz/reth/pull/23422#pullrequestreview-4121875206) - 2026-04-16
+* [Review] [Review on: fix(ci): clean up bench cpu dma latency helper](https://github.com/paradigmxyz/reth/pull/23594#pullrequestreview-4121401361) - 2026-04-16
+* [Commit] [feat(miner): add --dev.payload-wait-time to LocalMiner (#23598)](https://github.com/paradigmxyz/reth/commit/cff41bb9c2f703643a20d78eae9741e6dc2d1839) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

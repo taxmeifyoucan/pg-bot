@@ -17,6 +17,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Added GetNewBlockV4 interface](https://github.com/Consensys/teku/pull/10437#pullrequestreview-4098665991) - 2026-04-13
 * [Review] [Review on: 10259 4 proposer preferences fix](https://github.com/Consensys/teku/pull/10558#pullrequestreview-4099234791) - 2026-04-13
 * [Review] [Review on: Remove `ValidatorApiHandlerGloas`](https://github.com/Consensys/teku/pull/10561#pullrequestreview-4106838217) - 2026-04-14
+* [Review] [Review on:    Added POST /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10534#pullrequestreview-4121646370) - 2026-04-16
+* [Review] [Review on: Add forkchoice node identity plumbing with current behavior unchanged (2 of 7)](https://github.com/Consensys/teku/pull/10569#pullrequestreview-4120992184) - 2026-04-16
+* [Review] [Review on: SingleBockProviderFulu with soft and hard limit for sampled blocks](https://github.com/Consensys/teku/pull/10533#pullrequestreview-4122065677) - 2026-04-16
+* [Review] [Review on: target java 25](https://github.com/Consensys/teku/pull/10567#pullrequestreview-4120895278) - 2026-04-16
 ## Q1 2026
 
 

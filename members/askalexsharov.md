@@ -235,6 +235,16 @@ Team: Erigon
 * [Commit] [db/recsplit/eliasfano32: fix searchUpperReverse off-by-one on no-solution fast path (#20566)](https://github.com/erigontech/erigon/commit/39b4aac593d2723b94686e4c4d47979f08d70b5d) - 2026-04-15
 * [Commit] [btindex: WarmUp: read key-only, skip value to avoid unnecessary decompression (#20567)](https://github.com/erigontech/erigon/commit/c4c2fad2f1ccd8bdb2a4d6c5171b05b7084c843f) - 2026-04-15
 * [Commit] [gossip, forkchoice: fix mutex leak in topic subscription and nil peerDas guards (#20547)](https://github.com/erigontech/erigon/commit/ec7804ddf73fce82b1cbb2de18fc153755de86e3) - 2026-04-15
+* [Review] [Review on: node/app: address PR 20450 review comments](https://github.com/erigontech/erigon/pull/20583#pullrequestreview-4118502972) - 2026-04-16
+* [Review] [Review on: qa-tests: bump lighthouse version](https://github.com/erigontech/erigon/pull/20598#pullrequestreview-4119545197) - 2026-04-16
+* [Review] [Review on: build(deps): bump actions/cache from 4 to 5](https://github.com/erigontech/erigon/pull/19560#pullrequestreview-4119205551) - 2026-04-16
+* [Review] [Review on: [r3.4] qa-tests: bump lighthouse version](https://github.com/erigontech/erigon/pull/20599#pullrequestreview-4119542078) - 2026-04-16
+* [Review] [Review on: node/app/component: use []*component for relations storage](https://github.com/erigontech/erigon/pull/20585#pullrequestreview-4118358829) - 2026-04-16
+* [Review] [Review on: node/app/event: use atomic.Pointer[handlerMap] for lock-free Publish](https://github.com/erigontech/erigon/pull/20584#pullrequestreview-4118358489) - 2026-04-16
+* [Pull Request] [[wip] db/state: inv_index merge remove 1 intermediate buffer to reduce peak memory](https://github.com/erigontech/erigon/pull/20597) - 2026-04-16
+* [Review] [Review on: [wip] db/state: inv_index merge remove 1 intermediate buffer to reduce peak memory](https://github.com/erigontech/erigon/pull/20597#pullrequestreview-4118199266) - 2026-04-16
+* [Commit] [downloader: torrent_hashes --diff flag (#20570)](https://github.com/erigontech/erigon/commit/1448e03f6e964eae374ee7ee45822cf4a54e2102) - 2026-04-16
+* [Commit] [[wip]  ci: pin glamsterdam ethereum-package to 6.1.0  (#20593)](https://github.com/erigontech/erigon/commit/ee703e2c69057c7d3aaa464c2726c114ff139024) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

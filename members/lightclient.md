@@ -17,6 +17,8 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: Add EIP-1559 to requires header](https://github.com/ethereum/EIPs/pull/11251#pullrequestreview-4076969537) - 2026-04-08
 * [Review] [Review on: Update EIP-8141: Tighten spec](https://github.com/ethereum/EIPs/pull/11521#pullrequestreview-4106039164) - 2026-04-14
 
+* [Pull Request] [Update EIP-8141: add value field to frame](https://github.com/ethereum/EIPs/pull/11534) - 2026-04-16
+* [Commit] [Update EIP-8141: add value field to frame](https://github.com/ethereum/EIPs/commit/a74eab9893682038712f7d10846e486ddcb6d8b5) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4105687607) - 2026-04-14
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113766865) - 2026-04-15

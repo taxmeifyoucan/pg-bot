@@ -31,6 +31,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Website: show withdrawn reason](https://github.com/ethereum/EIPs/pull/11529) - 2026-04-16
 * [Review] [Review on: Update EIP-8070: Rename protocol version to eth/72 and fix typos](https://github.com/ethereum/EIPs/pull/11524#pullrequestreview-4111286656) - 2026-04-15
 * [Review] [Review on: Add EIP: Withdrawal credentials preregistration](https://github.com/ethereum/EIPs/pull/11450#pullrequestreview-4111865315) - 2026-04-15
+* [Review] [Review on: Add EIP: EVMification](https://github.com/ethereum/EIPs/pull/11432#pullrequestreview-4123441883) - 2026-04-16
 ## Q1 2026
 
 

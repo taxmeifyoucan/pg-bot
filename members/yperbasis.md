@@ -143,6 +143,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: make withdrawal/consolidation request contract addresses configurable (#20298)](https://github.com/erigontech/erigon/commit/34ac22904b0de1b14cf054a7cf2c0d02461215f3) - 2026-04-15
 * [Commit] [ci: remove flaky eoa-transactions-test from caplin-minimal suite (#20556)](https://github.com/erigontech/erigon/commit/13b851f9a5169669b898fbeb3155a721834b8eca) - 2026-04-15
 * [Commit] [node/interfaces: vendor submodule as regular files (#20558)](https://github.com/erigontech/erigon/commit/3ce7e5ecd944815769afc46c56ad4bf609c8f01a) - 2026-04-15
+* [Pull Request] [ci: add Glamsterdam devnet shard to hive-eest workflow](https://github.com/erigontech/erigon/pull/20603) - 2026-04-16
+* [Pull Request] [stagedsync: flush unwind changeset before re-execution](https://github.com/erigontech/erigon/pull/20607) - 2026-04-16
+* [Pull Request] [execution: remove dbBALBytes fallback, fix zero-balance BAL writes](https://github.com/erigontech/erigon/pull/20602) - 2026-04-16
+* [Review] [Review on:  fix trace_rawTransaction aligned to nethermind and Reth impl](https://github.com/erigontech/erigon/pull/20448#pullrequestreview-4120035675) - 2026-04-16
+* [Review] [Review on: [r3.4] db/state: fix collation/pruning race and unwind visibility in BuildFilesInBackground](https://github.com/erigontech/erigon/pull/20594#pullrequestreview-4119949445) - 2026-04-16
+* [Commit] [stagedsync: enforce strict BAL validation during fork validation (EIP-7928) (#20581)](https://github.com/erigontech/erigon/commit/9920b87161f261588a9b7f9867a42c9042dbdcba) - 2026-04-16
+* [Commit] [db/state: fix collation/pruning race and unwind visibility in BuildFilesInBackground (#20445)](https://github.com/erigontech/erigon/commit/16ac9850b70d51c235049b9d106ba0fa08735c15) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

@@ -27,6 +27,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [feat: multi-threaded bls for lodestar integration (#306)](https://github.com/ChainSafe/lodestar-z/commit/6da152424950d467235fe882496b690e3358a56c) - 2026-04-15
 * [Commit] [refactor: rm seemingly unused `isValidAttestationSlot` (#314)](https://github.com/ChainSafe/lodestar-z/commit/7e79529ef8d593fadfab55cba956573d34dd42b1) - 2026-04-15
 * [Commit] [ci: run ssz_static minimal spec tests and general mainnet spec tests on `ReleaseSafe` (#315)](https://github.com/ChainSafe/lodestar-z/commit/0ed9645468852527ff5cde0838b8db46adcf1428) - 2026-04-15
+* [Review] [Review on: test: per-target spec tests](https://github.com/ChainSafe/lodestar-z/pull/317#pullrequestreview-4120876761) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 ## Q1 2026

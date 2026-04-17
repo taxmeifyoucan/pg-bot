@@ -19,6 +19,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Use RlpArrayBufWriter for rlp encoding in stateroot computation](https://github.com/status-im/nimbus-eth1/pull/4115) - 2026-04-11
 * [Commit] [Use RlpArrayBufWriter for rlp encoding in stateroot computation (#4115)](https://github.com/status-im/nimbus-eth1/commit/e7b3a45c87572260ca312e582a9e1d9716fd126e) - 2026-04-14
 * [Pull Request] [Update nim-rocksdb to v10.10.1.0](https://github.com/status-im/nimbus-eth1/pull/4136) - 2026-04-15
+* [Pull Request] [Parallel state root computation](https://github.com/status-im/nimbus-eth1/pull/3990) - 2026-04-16
+* [Commit] [Parallel state root computation (#3990)](https://github.com/status-im/nimbus-eth1/commit/8404c53fff3eaf6b859a4cd778bd93d3450c48fb) - 2026-04-16
+* [Commit] [Update nim-rocksdb to v10.10.1.0 (#4136)](https://github.com/status-im/nimbus-eth1/commit/cae554168d68c37e88b8e71f1974a6346709815d) - 2026-04-16
 ## Q1 2026
 
 

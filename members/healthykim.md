@@ -13,6 +13,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [Update EIP-8070: Remove per-request column cap](https://github.com/ethereum/EIPs/pull/11497) - 2026-04-09
 * [Commit] [Update EIP-8070: Remove per-request column cap](https://github.com/ethereum/EIPs/commit/66ad6b9a9f750e8e4f742ffe83fd38fa65f26da8) - 2026-04-09
 
+* [Review] [Review on: Update EIP-8070: Prefix title with eth/72 protocol version](https://github.com/ethereum/EIPs/pull/11531#pullrequestreview-4122058975) - 2026-04-16
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: eth: protect high-value peers from random dropping based on tx inclusion stats](https://github.com/ethereum/go-ethereum/pull/34702#pullrequestreview-4108839201) - 2026-04-14
 ## Q1 2026

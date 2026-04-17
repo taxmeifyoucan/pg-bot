@@ -35,6 +35,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14
+
+* [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4120675668) - 2026-04-16
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8142: Make BiB modular](https://github.com/ethereum/EIPs/pull/11530) - 2026-04-16
 ## Q1 2026
 
 

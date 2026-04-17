@@ -26,6 +26,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: BAL: check max item size before bal hash](https://github.com/besu-eth/besu/pull/10231#pullrequestreview-4105849446) - 2026-04-14
 * [Review] [Review on: Exclude halt-burned gas from block regular gas](https://github.com/besu-eth/besu/pull/10225#pullrequestreview-4104730233) - 2026-04-14
 * [Review] [Review on: enable bal parallelization for all blocks](https://github.com/besu-eth/besu/pull/10234#pullrequestreview-4113554213) - 2026-04-15
+* [Review] [Review on: Move BAL download from state to chain part](https://github.com/besu-eth/besu/pull/10245#pullrequestreview-4121477901) - 2026-04-16
+* [Pull Request] [add bal check during block processing and block building](https://github.com/besu-eth/besu/pull/10250) - 2026-04-16
+* [Commit] [enable bal parallelization for all blocks and not only head (#10234)](https://github.com/besu-eth/besu/commit/226a8f9abc424d8cf14613a9f1f584eda4663170) - 2026-04-16
 ## Q1 2026
 
 

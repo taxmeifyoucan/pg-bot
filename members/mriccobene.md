@@ -23,6 +23,9 @@ Team: Erigon
 * [Commit] [qa-tests: fix RPC integration tests for other clients (#20436)](https://github.com/erigontech/erigon/commit/6a4da09bd8b62b12c56ee1fe5a8f428669edf39f) - 2026-04-09
 * [Pull Request] [qa-tests: add the RPC tests to the Sync-from-scratch test](https://github.com/erigontech/erigon/pull/20484) - 2026-04-10
 * [Commit] [qa-tests: add the RPC tests to the Sync-from-scratch test (#20484)](https://github.com/erigontech/erigon/commit/9e39d78b72118560df06c7bf95911d2b979c803d) - 2026-04-10
+* [Pull Request] [qa-tests: bump lighthouse version](https://github.com/erigontech/erigon/pull/20598) - 2026-04-16
+* [Pull Request] [[r3.4] qa-tests: bump lighthouse version](https://github.com/erigontech/erigon/pull/20599) - 2026-04-16
+* [Commit] [qa-tests: bump lighthouse version (#20598)](https://github.com/erigontech/erigon/commit/f4abdebc60a79bcc625fec9a4306ccc35670bfd9) - 2026-04-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10

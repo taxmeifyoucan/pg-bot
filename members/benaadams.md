@@ -51,6 +51,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix build - BenchmarkDotNet Version](https://github.com/NethermindEth/nethermind/pull/11152#pullrequestreview-4113770231) - 2026-04-15
 * [Pull Request] [Patch dependencies](https://github.com/NethermindEth/nethermind/pull/11149) - 2026-04-15
 * [Commit] [Patch dependencies (#11149)](https://github.com/NethermindEth/nethermind/commit/a30218d67b08755a401730b7acfa37479e9af95d) - 2026-04-15
+* [Pull Request] [fix(merge): validate safe/finalized as ancestors of new head](https://github.com/NethermindEth/nethermind/pull/11187) - 2026-04-16
+* [Review] [Review on: fix(merge): validate safe/finalized as ancestors of new head](https://github.com/NethermindEth/nethermind/pull/11187#pullrequestreview-4124686829) - 2026-04-16
+* [Review] [Review on: fix(txpool): fix stale pending transaction snapshot after head update](https://github.com/NethermindEth/nethermind/pull/10604#pullrequestreview-4120490127) - 2026-04-16
+* [Issue] [`engine_forkchoiceUpdated` rejects valid FCU with `-38002 Inconsistent ForkChoiceState - safe block hash`](https://github.com/NethermindEth/nethermind/issues/11185) - 2026-04-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

@@ -44,9 +44,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [use --num-threads=1 on mainnet, not minimal local testnet](https://github.com/status-im/nimbus-eth2/pull/8267) - 2026-04-14
 * [Review] [Review on: add proposer preferences gossip validation and publishing](https://github.com/status-im/nimbus-eth2/pull/8271#pullrequestreview-4114819112) - 2026-04-15
 * [Review] [Review on: Add discovery custody filter ability.](https://github.com/status-im/nimbus-eth2/pull/8263#pullrequestreview-4113408200) - 2026-04-15
+* [Pull Request] [use justified rather than fcr for engine API safe block hash](https://github.com/status-im/nimbus-eth2/pull/8280) - 2026-04-17
+* [Review] [Review on: add tests and function to batch kzg verify](https://github.com/status-im/nimbus-eth2/pull/8275#pullrequestreview-4120913126) - 2026-04-16
+* [Review] [Review on: fix applying envelope](https://github.com/status-im/nimbus-eth2/pull/8090#pullrequestreview-4123926637) - 2026-04-16
+* [Review] [Review on: Fix Gloas clearance](https://github.com/status-im/nimbus-eth2/pull/8091#pullrequestreview-4123551692) - 2026-04-16
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 ## Q1 2026
 
 

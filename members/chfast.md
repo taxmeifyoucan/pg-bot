@@ -77,6 +77,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
 
+* [Issue] [EIP-7708: Missing negative test for CALL with value to coinbase](https://github.com/ethereum/execution-specs/issues/2692) - 2026-04-16
+* [Issue] [EIP-7708: Missing test for multi-account finalization burn log ordering](https://github.com/ethereum/execution-specs/issues/2691) - 2026-04-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

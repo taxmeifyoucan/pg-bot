@@ -8,6 +8,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 
 ## Contributions
 
+## Q2 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [remove unnecessary check that a peer has the dao block](https://github.com/besu-eth/besu/pull/10244) - 2026-04-16
+* [Commit] [remove unnecessary check that a peer has the dao block (#10244)](https://github.com/besu-eth/besu/commit/67dbd9a4c5e11e8e435a1b4e4d1ae346213e835c) - 2026-04-16
 ## Q1 2026
 
 

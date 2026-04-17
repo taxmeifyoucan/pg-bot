@@ -115,6 +115,28 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix build - BenchmarkDotNet Version](https://github.com/NethermindEth/nethermind/pull/11152#pullrequestreview-4113601746) - 2026-04-15
 * [Review] [Review on: fix(test): replace TrieWarmer Task.Delay with polling](https://github.com/NethermindEth/nethermind/pull/11147#pullrequestreview-4110979587) - 2026-04-15
 * [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11146#pullrequestreview-4110969801) - 2026-04-15
+* [Review] [Review on: fix(merge): validate safe/finalized as ancestors of new head](https://github.com/NethermindEth/nethermind/pull/11187#pullrequestreview-4124569108) - 2026-04-16
+* [Pull Request] [fix: EIP-8024 DUPN/SWAPN/EXCHANGE with truncated immediate must fail](https://github.com/NethermindEth/nethermind/pull/11178) - 2026-04-16
+* [Review] [Review on: fix(eth_call): return descriptive error when maxFeePerGas is     below block base fee ](https://github.com/NethermindEth/nethermind/pull/11190#pullrequestreview-4124378699) - 2026-04-16
+* [Review] [Review on: Fix amsterdam hive tests](https://github.com/NethermindEth/nethermind/pull/11151#pullrequestreview-4121548943) - 2026-04-16
+* [Review] [Review on: fix(txpool): fix stale pending transaction snapshot after head update](https://github.com/NethermindEth/nethermind/pull/10604#pullrequestreview-4118862057) - 2026-04-16
+* [Review] [Review on: Update CODEOWNERS - JsonRpc & Facade](https://github.com/NethermindEth/nethermind/pull/11191#pullrequestreview-4124325978) - 2026-04-16
+* [Review] [Review on: Use BAL manager unconditionally](https://github.com/NethermindEth/nethermind/pull/11181#pullrequestreview-4122738343) - 2026-04-16
+* [Review] [Review on: More fixes](https://github.com/NethermindEth/nethermind/pull/11180#pullrequestreview-4122724462) - 2026-04-16
+* [Pull Request] [Remove tracer dependency from ValidateGas](https://github.com/NethermindEth/nethermind/pull/11182) - 2026-04-16
+* [Pull Request] [Enable IDE0320 analyzer for static lambdas](https://github.com/NethermindEth/nethermind/pull/11164) - 2026-04-16
+* [Pull Request] [Simplify EIP-8037 gas accounting and error mapping](https://github.com/NethermindEth/nethermind/pull/11169) - 2026-04-16
+* [Review] [Review on: fix eth_estimategas to execute with available gas and return allowance error for compatiblity with geth](https://github.com/NethermindEth/nethermind/pull/11153#pullrequestreview-4118708332) - 2026-04-16
+* [Review] [Review on: feat(analyzers): add NETH002 to detect excessively deep lambda indentation](https://github.com/NethermindEth/nethermind/pull/11138#pullrequestreview-4120000403) - 2026-04-16
+* [Pull Request] [Simplify EIP-8037 gas accounting and error mapping](https://github.com/NethermindEth/nethermind/pull/11168) - 2026-04-16
+* [Pull Request] [fix: restrict health check UI to ports with health module enabled](https://github.com/NethermindEth/nethermind/pull/11167) - 2026-04-16
+* [Review] [Review on: fix: cap compact log entry zero-prefix data expansion](https://github.com/NethermindEth/nethermind/pull/11110#pullrequestreview-4118998674) - 2026-04-16
+* [Pull Request] [EraE refactor: simplify interfaces, deduplicate tests](https://github.com/NethermindEth/nethermind/pull/11165) - 2026-04-16
+* [Review] [Review on: GasEstimator Refactor](https://github.com/NethermindEth/nethermind/pull/11161#pullrequestreview-4118703421) - 2026-04-16
+* [Review] [Review on: fix: resolve flaky Can_change_branch_on_invalid_block test with event-driven deletion wait ](https://github.com/NethermindEth/nethermind/pull/11159#pullrequestreview-4118684962) - 2026-04-16
+* [Review] [Review on: fix(sync): restore ActivatedSyncFeed dispose guard](https://github.com/NethermindEth/nethermind/pull/11163#pullrequestreview-4118723850) - 2026-04-16
+* [Commit] [Enable IDE0320 analyzer for static lambdas (#11164)](https://github.com/NethermindEth/nethermind/commit/7019c854df595ab800ca6201b03aa70070ef0b0b) - 2026-04-16
+* [Commit] [fix: restrict health check UI to ports with health module enabled (#11167)](https://github.com/NethermindEth/nethermind/commit/91730107e1393a38448fcef8cb1eda35576f924a) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 ## Q1 2026

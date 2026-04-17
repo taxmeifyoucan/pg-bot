@@ -17,6 +17,9 @@ Team: Grandine
 * [Review] [Review on: Cleanup Gloas block processing](https://github.com/grandinetech/grandine/pull/659#pullrequestreview-4068163039) - 2026-04-07
 * [Review] [Review on: Reuse `process_registry_updates` and `epoch_report` from Electra](https://github.com/grandinetech/grandine/pull/658#pullrequestreview-4068069094) - 2026-04-07
 * [Review] [Review on: Validate payload envelope through processing](https://github.com/grandinetech/grandine/pull/662#pullrequestreview-4082392841) - 2026-04-09
+* [Review] [Review on: Feature/consensus specs v1.7.0 alpha4](https://github.com/grandinetech/grandine/pull/667#pullrequestreview-4121756801) - 2026-04-16
+* [Review] [Review on: Feature/rustsec 2026 0098 99](https://github.com/grandinetech/grandine/pull/666#pullrequestreview-4121352026) - 2026-04-16
+* [Review] [Review on: Handle non-power-of-two length persistent vectors](https://github.com/grandinetech/grandine/pull/663#pullrequestreview-4121187524) - 2026-04-16
 ## Q1 2026
 
 

@@ -114,6 +114,16 @@ Team: Reth
 * [Review] [Review on: feat(BAL): use new engine-api methods in bench](https://github.com/paradigmxyz/reth/pull/23517#pullrequestreview-4112276399) - 2026-04-15
 * [Issue] [Expose HTTP transport middleware for auth/engine RPC server](https://github.com/paradigmxyz/reth/issues/23538) - 2026-04-15
 * [Commit] [fix(net): encode block access lists as raw BAL RLP (#23536)](https://github.com/paradigmxyz/reth/commit/7fe76a83d1e42980c06924fd069dd180150e5bdd) - 2026-04-15
+* [Review] [Review on: fix(cli): error on non-mainnet when no download url provided](https://github.com/paradigmxyz/reth/pull/23570#pullrequestreview-4119992153) - 2026-04-16
+* [Review] [Review on: chore(examples): add custom auth HTTP middleware example](https://github.com/paradigmxyz/reth/pull/23586#pullrequestreview-4120988798) - 2026-04-16
+* [Review] [Review on: feat(miner): add --dev.payload-wait-time to LocalMiner](https://github.com/paradigmxyz/reth/pull/23598#pullrequestreview-4122317047) - 2026-04-16
+* [Review] [Review on: chore: withdrawal checking enabled evm](https://github.com/paradigmxyz/reth/pull/23587#pullrequestreview-4121255411) - 2026-04-16
+* [Review] [Review on: perf(eth-wire-types): encode DisconnectReason without heap allocation](https://github.com/paradigmxyz/reth/pull/23479#pullrequestreview-4120162560) - 2026-04-16
+* [Review] [Review on: feat(rpc): expose auth HTTP transport middleware](https://github.com/paradigmxyz/reth/pull/23579#pullrequestreview-4120068059) - 2026-04-16
+* [Review] [Review on: fix(txpool): log decode and insert failures during backup restoration](https://github.com/paradigmxyz/reth/pull/23523#pullrequestreview-4120140527) - 2026-04-16
+* [Review] [Review on: refactor(execution-cache): wrap SavedCache in Arc<SavedCacheInner>](https://github.com/paradigmxyz/reth/pull/23557#pullrequestreview-4120124348) - 2026-04-16
+* [Review] [Review on: chore(deps): bump actions/upload-pages-artifact from 4 to 5](https://github.com/paradigmxyz/reth/pull/23572#pullrequestreview-4119985592) - 2026-04-16
+* [Review] [Review on: chore(deps): bump actions/github-script from 8 to 9](https://github.com/paradigmxyz/reth/pull/23571#pullrequestreview-4119984168) - 2026-04-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

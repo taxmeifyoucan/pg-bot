@@ -56,6 +56,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Add redirect from eest.ethereum.org to steel.ethereum.foundation/docs/](https://github.com/ethereum/execution-specs/issues/2685) - 2026-04-15
 * [Issue] [Add redirect from execution-specs gh pages to steel-website docs/spec and delete `gh-pages.yaml`](https://github.com/ethereum/execution-specs/issues/2684) - 2026-04-15
 
+* [Review] [Review on: feat(test-benchmark): support fractional gas benchmark values](https://github.com/ethereum/execution-specs/pull/2694#pullrequestreview-4119379085) - 2026-04-16
+* [Review] [Review on: feat(doc,test-benchmark): re-enable benchmark tests in test case reference](https://github.com/ethereum/execution-specs/pull/2666#pullrequestreview-4119339634) - 2026-04-16
+* [Commit] [feat(doc,test-benchmark): re-enable benchmark tests in test case reference (#2666)](https://github.com/ethereum/execution-specs/commit/8bd536b9c0a80a6743e5defaf5254b509e30a858) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 ## Q1 2026

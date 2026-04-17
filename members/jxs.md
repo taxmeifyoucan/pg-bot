@@ -13,6 +13,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4097134792) - 2026-04-13
+
+[sigp/discv5](https://github.com/sigp/discv5)
+* [Review] [Review on: fix: validate request ID length in Message::decode()](https://github.com/sigp/discv5/pull/296#pullrequestreview-4119673276) - 2026-04-16
 ## Q4 2025
 
 

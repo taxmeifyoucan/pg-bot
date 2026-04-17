@@ -19,6 +19,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [bal-devnet-3: Upgrade to bal@v5.6.1 test fixtures and accompanying fixes](https://github.com/status-im/nimbus-eth1/pull/4098) - 2026-04-03
 * [Commit] [bal-devnet-3: Upgrade to bal@v5.6.1 test fixtures and accompanying fixes (#4098)](https://github.com/status-im/nimbus-eth1/commit/50f6fcbea1a3c1acd5396cfaeb8e4ebdf68d9f25) - 2026-04-03
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4111498339) - 2026-04-15
+* [Pull Request] [Remove block header from processTransaction](https://github.com/status-im/nimbus-eth1/pull/4138) - 2026-04-16
+* [Pull Request] [Rewire maxBlobs via CommonRef instead of ForkedChainRef](https://github.com/status-im/nimbus-eth1/pull/4137) - 2026-04-16
+* [Commit] [Remove block header from processTransaction (#4138)](https://github.com/status-im/nimbus-eth1/commit/038d6d7730a6e5461a9ccb1e6f22f91abf721e98) - 2026-04-16
+* [Commit] [Rewire maxBlobs via CommonRef instead of ForkedChainRef (#4137)](https://github.com/status-im/nimbus-eth1/commit/68f0abd00058b12b17888b6d0120273f5ef812cd) - 2026-04-16
 ## Q1 2026
 
 

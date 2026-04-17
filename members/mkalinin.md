@@ -13,6 +13,10 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4103534107) - 2026-04-14
+
+* [Review] [Review on: Add Yann Vonlanthen from Protocol Consensus](https://github.com/protocolguild/documentation/pull/493#pullrequestreview-4119971090) - 2026-04-16
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Commit] [Fast Confirmation Rule (#4747)](https://github.com/ethereum/consensus-specs/commit/6deb93bd024e2ccb51cddbd90566a14c2410134b) - 2026-04-16
 ## Q1 2026
 
 

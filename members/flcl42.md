@@ -50,6 +50,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Fix amsterdam hive tests](https://github.com/NethermindEth/nethermind/pull/11151) - 2026-04-15
 * [Pull Request] [Fix limits](https://github.com/NethermindEth/nethermind/pull/11155) - 2026-04-15
 * [Review] [Review on: Fix limits](https://github.com/NethermindEth/nethermind/pull/11155#pullrequestreview-4114325525) - 2026-04-15
+* [Review] [Review on: fix: EIP-8024 DUPN/SWAPN/EXCHANGE with truncated immediate must fail](https://github.com/NethermindEth/nethermind/pull/11178#pullrequestreview-4121455143) - 2026-04-16
+* [Review] [Review on: Fix amsterdam hive tests](https://github.com/NethermindEth/nethermind/pull/11151#pullrequestreview-4120869901) - 2026-04-16
+* [Pull Request] [More fixes](https://github.com/NethermindEth/nethermind/pull/11180) - 2026-04-16
+* [Review] [Review on: Simplify EIP-8037 gas accounting and error mapping](https://github.com/NethermindEth/nethermind/pull/11169#pullrequestreview-4121119749) - 2026-04-16
+* [Review] [Review on: feat(analyzers): add NETH002 to detect excessively deep lambda indentation](https://github.com/NethermindEth/nethermind/pull/11138#pullrequestreview-4120214280) - 2026-04-16
+* [Review] [Review on: fix: restrict health check UI to ports with health module enabled](https://github.com/NethermindEth/nethermind/pull/11167#pullrequestreview-4119923768) - 2026-04-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 ## Q1 2026

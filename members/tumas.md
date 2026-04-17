@@ -14,6 +14,10 @@ Team: Grandine
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Handle non-power-of-two length persistent vectors](https://github.com/grandinetech/grandine/pull/663#pullrequestreview-4114490158) - 2026-04-15
 * [Pull Request] [Feature/rustsec 2026 0098 99](https://github.com/grandinetech/grandine/pull/666) - 2026-04-15
+* [Pull Request] [Feature/consensus specs v1.7.0 alpha4](https://github.com/grandinetech/grandine/pull/667) - 2026-04-16
+* [Pull Request] [Updates to publish signed execution payload bid API endpoint:](https://github.com/grandinetech/grandine/pull/668) - 2026-04-16
+* [Commit] [Bump zkm-sdk & sp1](https://github.com/grandinetech/grandine/commit/130a7d0836620ff04786092430b2dcb05c57234c) - 2026-04-16
+* [Commit] [Update `rustls` & `rustls-webpki` where possible, update audit.toml](https://github.com/grandinetech/grandine/commit/4a3e46f27d3c1b1317cc065d5ccbf8c70fcfd03e) - 2026-04-16
 ## Q1 2026
 
 

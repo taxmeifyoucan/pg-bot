@@ -37,6 +37,7 @@ Team: Geth
 * [Review] [Review on: cmd/geth, core/state, tests: rework EIP7610 check](https://github.com/ethereum/go-ethereum/pull/34718#pullrequestreview-4106269260) - 2026-04-14
 * [Review] [Review on: core/vm, eth, tests: introduce gas bugdet](https://github.com/ethereum/go-ethereum/pull/34712#pullrequestreview-4106126709) - 2026-04-14
 * [Review] [Review on: core/vm, cmd/geth: remove storage root reliance for EIP7610 check](https://github.com/ethereum/go-ethereum/pull/34029#pullrequestreview-4104914239) - 2026-04-14
+* [Pull Request] [DRAFT: different calculation of state gas](https://github.com/ethereum/go-ethereum/pull/34741) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

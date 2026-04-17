@@ -120,6 +120,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4089931996) - 2026-04-10
 * [Pull Request] [Fix envelope `beacon_block_root` field name](https://github.com/ethereum/consensus-specs/pull/5093) - 2026-04-10
 * [Commit] [Fix envelope `beacon_block_root` field name (#5093)](https://github.com/ethereum/consensus-specs/commit/7fefa4316121a67a5ab1dcba2d3eeee10a5b00bd) - 2026-04-10
+* [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121924340) - 2026-04-16
+* [Commit] [Defer payload processing to next block (#5094)](https://github.com/ethereum/consensus-specs/commit/df04ae4577103000be9af12edf2c86230ea70767) - 2026-04-16
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

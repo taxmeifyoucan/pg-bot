@@ -63,6 +63,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Add config/spec test generator for beacon API endpoint](https://github.com/ethereum/consensus-specs/pull/5089) - 2026-04-09
 
 * [Pull Request] [Add on-demand PR test-vector workflow](https://github.com/ethereum/consensus-specs/pull/5110) - 2026-04-14
+* [Pull Request] [Exclude slashed validators from all duties (EIP-8045)](https://github.com/ethereum/consensus-specs/pull/5115) - 2026-04-16
+* [Pull Request] [Let exits use consolidation queue (EIP-8080)](https://github.com/ethereum/consensus-specs/pull/5116) - 2026-04-16
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/pull/156) - 2026-04-09
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/assertoor/pull/155) - 2026-04-09
@@ -89,9 +91,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Review] [Review on: Update EIP-8070: Rename protocol version to eth/72 and fix typos](https://github.com/ethereum/EIPs/pull/11524#pullrequestreview-4113208037) - 2026-04-15
 * [Commit] [Update EIP-8070: Rename protocol version to eth/72 and fix typos](https://github.com/ethereum/EIPs/commit/255e414069dd4e4f707c136d5923103251ab865e) - 2026-04-15
+* [Pull Request] [Update EIP-8070: Prefix title with eth/72 protocol version](https://github.com/ethereum/EIPs/pull/11531) - 2026-04-16
+* [Commit] [Update EIP-7773: Add Networking EIPs section](https://github.com/ethereum/EIPs/commit/c79a3768c1d52d939b07acb8576d207ea5b7d9fa) - 2026-04-16
+* [Commit] [Update EIP-8070: Prefix title with eth/72 protocol version](https://github.com/ethereum/EIPs/commit/ea725b44a1ab60147814f8f0ddd5e26f74ce0643) - 2026-04-16
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [ci: bump pinned GitHub Actions to latest](https://github.com/ethpandaops/template-devnets/pull/158) - 2026-04-14
 * [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14
+* [Review] [Review on: rework ipv6 setup](https://github.com/ethpandaops/template-devnets/pull/159#pullrequestreview-4119656167) - 2026-04-16
 ## Q1 2026
 
 

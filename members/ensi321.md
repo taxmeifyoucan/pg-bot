@@ -29,6 +29,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: revert dual-state cache architecture from ePBS](https://github.com/ChainSafe/lodestar/pull/9215) - 2026-04-14
 * [Pull Request] [feat: gloas alpha.5 speed run](https://github.com/ChainSafe/lodestar/pull/9219) - 2026-04-15
 * [Review] [Review on: fix: correct proposer boost logic and getParentNodeIndex for gloas](https://github.com/ChainSafe/lodestar/pull/9165#pullrequestreview-4117635824) - 2026-04-16
+* [Pull Request] [feat: unskip gloas fork choice spec tests](https://github.com/ChainSafe/lodestar/pull/9222) - 2026-04-16
+* [Review] [Review on: feat: unskip gloas fork choice spec tests](https://github.com/ChainSafe/lodestar/pull/9222#pullrequestreview-4118274111) - 2026-04-16
+* [Review] [Review on: feat: gloas alpha.5 speed run](https://github.com/ChainSafe/lodestar/pull/9219#pullrequestreview-4124810821) - 2026-04-16
+* [Review] [Review on: feat: ignore index-1 attestation when payload is missing](https://github.com/ChainSafe/lodestar/pull/9213#pullrequestreview-4118948417) - 2026-04-16
+* [Issue] [Queue failed attestations due to EXECUTION_PAYLOAD_NOT_SEEN](https://github.com/ChainSafe/lodestar/issues/9224) - 2026-04-16
+* [Commit] [feat: ignore index-1 attestation when payload is missing (#9213)](https://github.com/ChainSafe/lodestar/commit/2870b59b6a0b2c7601c65a218c49e6a8968d04a8) - 2026-04-16
+* [Commit] [refactor: revert dual-state cache architecture from ePBS (#9215)](https://github.com/ChainSafe/lodestar/commit/ade910fc78114e565ea0bd45083d64904fa30825) - 2026-04-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 

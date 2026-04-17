@@ -40,6 +40,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4089911926) - 2026-04-10
 * [Review] [Review on: Fix envelope `beacon_block_root` field name](https://github.com/ethereum/consensus-specs/pull/5093#pullrequestreview-4088959953) - 2026-04-10
+* [Pull Request] [Merge eip7928 specs into Gloas specs](https://github.com/ethereum/consensus-specs/pull/5117) - 2026-04-16
+* [Commit] [Merge eip7928 specs into Gloas specs (#5117)](https://github.com/ethereum/consensus-specs/commit/9ad3d870b0f75424d8e571bd116f8127be97f1aa) - 2026-04-16
 ## Q1 2026
 
 

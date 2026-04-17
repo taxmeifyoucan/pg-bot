@@ -21,6 +21,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Pubkey cache: Use map+mutex instead of LRU cache](https://github.com/OffchainLabs/prysm/pull/16654) - 2026-04-11
 * [Review] [Review on: Fix processBatchedBlocks returning pre-filter block count](https://github.com/OffchainLabs/prysm/pull/16657#pullrequestreview-4097247586) - 2026-04-13
 * [Review] [Review on: Queue Gloas data column sidecars arriving before their block](https://github.com/OffchainLabs/prysm/pull/16653#pullrequestreview-4104348510) - 2026-04-14
+* [Issue] [The Prysm beacon node consumes a lot of memory when calling the `/eth/v1/validator/duties/sync/<epoch>` endpoint for the current sync committee period.](https://github.com/OffchainLabs/prysm/issues/16686) - 2026-04-16
+* [Commit] [Pubkey cache: Use map+mutex instead of LRU cache (#16654)](https://github.com/OffchainLabs/prysm/commit/f0c7633c87413118eed1010c9d71022a3d1dc039) - 2026-04-16
 ## Q1 2026
 
 

@@ -40,6 +40,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [feat(test-benchmark): add uncacheable precompile benchmark (#2600)](https://github.com/ethereum/execution-specs/commit/3687eb564090c94ea49601adb284df4e4ff418e7) - 2026-04-14
 * [Pull Request] [chore(test-benchmark): remove unused stateful benchmarks](https://github.com/ethereum/execution-specs/pull/2686) - 2026-04-15
 * [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4111403031) - 2026-04-15
+* [Review] [Review on: feat(test-cli): Add support for testing block building via simulator](https://github.com/ethereum/execution-specs/pull/2679#pullrequestreview-4122217376) - 2026-04-16
+* [Review] [Review on: feat(tests): stateful test filling for benchmark tests](https://github.com/ethereum/execution-specs/pull/2637#pullrequestreview-4122174975) - 2026-04-16
+* [Review] [Review on: feat(doc,test-benchmark): re-enable benchmark tests in test case reference](https://github.com/ethereum/execution-specs/pull/2666#pullrequestreview-4119226906) - 2026-04-16
 ## Q1 2026
 
 

@@ -188,6 +188,7 @@ Team: Reth
 * [Review] [Review on: fix(engine): use IndexSet for deterministic block buffer child ordering](https://github.com/paradigmxyz/reth/pull/22676#pullrequestreview-4100794253) - 2026-04-13
 * [Review] [Review on: fix(trie): terminate depth-first iterator on database error](https://github.com/paradigmxyz/reth/pull/22709#pullrequestreview-4100799587) - 2026-04-13
 * [Review] [Review on: chore(bench): pin junk to last core, give reth the big-cache CCD](https://github.com/paradigmxyz/reth/pull/23530#pullrequestreview-4113172380) - 2026-04-15
+* [Review] [Review on: refactor(provider): simplify get_overlay cache miss tracking](https://github.com/paradigmxyz/reth/pull/23584#pullrequestreview-4121659959) - 2026-04-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

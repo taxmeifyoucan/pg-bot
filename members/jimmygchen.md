@@ -22,6 +22,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: fix(backfill): only download custody columns during backfill sync](https://github.com/sigp/lighthouse/pull/8916#pullrequestreview-4096797074) - 2026-04-13
 * [Issue] [Remove support for engine `getBlobsV1`](https://github.com/sigp/lighthouse/issues/9124) - 2026-04-13
 * [Pull Request] [Prefix VC root spans with `lh_` so they get exported to tracing backend](https://github.com/sigp/lighthouse/pull/9129) - 2026-04-15
+* [Review] [Review on: Fix slasher OOM](https://github.com/sigp/lighthouse/pull/9141#pullrequestreview-4121708915) - 2026-04-16
+* [Review] [Review on: Add mixed V17/V29 execution payload invalidation test](https://github.com/sigp/lighthouse/pull/9089#pullrequestreview-4118565069) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

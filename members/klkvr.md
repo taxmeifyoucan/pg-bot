@@ -48,6 +48,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 
 * [Pull Request] [fix: re-add `PrecompileOutput::gas_refunded`](https://github.com/bluealloy/revm/pull/3574) - 2026-04-15
 * [Commit] [fix: re-add PrecompileOutput::gas_refunded (#3574)](https://github.com/bluealloy/revm/commit/a76803c7ad16564823ac6f4cae77b3b1e2d1553a) - 2026-04-15
+* [Pull Request] [refactor: pass reservoir into `first_frame_input`](https://github.com/bluealloy/revm/pull/3578) - 2026-04-16
+* [Pull Request] [feat propagate `InitialAndFloorGas` to stateful validation](https://github.com/bluealloy/revm/pull/3577) - 2026-04-16
+* [Commit] [refactor: pass reservoir into `first_frame_input` (#3578)](https://github.com/bluealloy/revm/commit/ea8d1f513278fca56a29f509a92f7f50dcaae6f8) - 2026-04-16
+* [Commit] [feat: propagate InitialAndFloorGas to validate_against_state_and_deduct_caller (#3577)](https://github.com/bluealloy/revm/commit/a1a18248bd35699392fb84274865edba1b6d0955) - 2026-04-16
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 ## Q1 2026

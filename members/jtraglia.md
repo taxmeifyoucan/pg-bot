@@ -70,6 +70,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add workflow for generating compliance tests](https://github.com/ethereum/consensus-specs/pull/5114#pullrequestreview-4116169529) - 2026-04-15
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4115666476) - 2026-04-15
 * [Commit] [Define deprecated functions (#5105)](https://github.com/ethereum/consensus-specs/commit/b48042d4aa0c0d27e0ee55d73270b243e19bfa56) - 2026-04-15
+* [Pull Request] [Make test archives deterministic](https://github.com/ethereum/consensus-specs/pull/5122) - 2026-04-17
+* [Pull Request] [Fix `test_builder_payment_after_missed_epochs`](https://github.com/ethereum/consensus-specs/pull/5120) - 2026-04-17
+* [Pull Request] [Fix some syntax warnings](https://github.com/ethereum/consensus-specs/pull/5121) - 2026-04-17
+* [Pull Request] [Filter fork/transition tests by output fork](https://github.com/ethereum/consensus-specs/pull/5119) - 2026-04-16
+* [Pull Request] [Remove mention of `block_access_list_root`](https://github.com/ethereum/consensus-specs/pull/5118) - 2026-04-16
+* [Commit] [Remove mention of `block_access_list_root` (#5118)](https://github.com/ethereum/consensus-specs/commit/3f394659ff7f735659ee2830d96d8f377a06491e) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 ## Q1 2026

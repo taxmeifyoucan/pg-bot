@@ -26,6 +26,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116154021) - 2026-04-15
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: feat: add ssz to engine api](https://github.com/ethereum/execution-apis/pull/764#pullrequestreview-4121034888) - 2026-04-16
 ## Q1 2026
 
 

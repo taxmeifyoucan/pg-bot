@@ -15,6 +15,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test(ssz): align tree-view clone test names with transfer_cache semantics](https://github.com/ChainSafe/lodestar-z/pull/300#pullrequestreview-4045184642) - 2026-04-01
 * [Review] [Review on: feat: use high level zapi dsl ](https://github.com/ChainSafe/lodestar-z/pull/302#pullrequestreview-4050703970) - 2026-04-02
 
+* [Review] [Review on: test: per-target spec tests](https://github.com/ChainSafe/lodestar-z/pull/317#pullrequestreview-4121958330) - 2026-04-16
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -22,6 +23,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: ignore index-1 attestation when payload is missing](https://github.com/ChainSafe/lodestar/pull/9213#pullrequestreview-4116150192) - 2026-04-15
 * [Review] [Review on: refactor: revert dual-state cache architecture from ePBS](https://github.com/ChainSafe/lodestar/pull/9215#pullrequestreview-4114527376) - 2026-04-15
 
+* [Review] [Review on: feat: trigger processExecutionPayload() once](https://github.com/ChainSafe/lodestar/pull/9223#pullrequestreview-4122177081) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 ## Q1 2026

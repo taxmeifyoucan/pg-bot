@@ -40,10 +40,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Feat:implement eth_feehistory and eth_maxPriorityFeePerGas ](https://github.com/status-im/nimbus-eth1/pull/4112#pullrequestreview-4088319126) - 2026-04-10
 * [Commit] [Stateless: Update zkevm_eest vectors to v0.3.3 (#4114)](https://github.com/status-im/nimbus-eth1/commit/e90b071bdc42777aa7f6a1ba22fa5a390edf0601) - 2026-04-10
 * [Review] [Review on: Feat:implement eth_feehistory and eth_maxPriorityFeePerGas ](https://github.com/status-im/nimbus-eth1/pull/4112#pullrequestreview-4093519986) - 2026-04-11
+* [Pull Request] [Add the state/codes sort into Witness build phase](https://github.com/status-im/nimbus-eth1/pull/4141) - 2026-04-16
+* [Commit] [Add the state/codes sort into Witness build phase (#4141)](https://github.com/status-im/nimbus-eth1/commit/4877d3f7e4109d4075d24dbaf5b5bb6cb1487dd3) - 2026-04-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 
 * [Review] [Review on: Fix add missing enr](https://github.com/status-im/nimbus-eth2/pull/8273#pullrequestreview-4111920360) - 2026-04-15
+* [Review] [Review on: Fix add missing enr](https://github.com/status-im/nimbus-eth2/pull/8273#pullrequestreview-4119084230) - 2026-04-16
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Introduction of REST based + SSZ serialized `new-payload-with-witness`](https://github.com/ethereum/execution-apis/pull/773#pullrequestreview-4106752631) - 2026-04-14
 ## Q1 2026

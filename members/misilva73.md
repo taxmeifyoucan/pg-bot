@@ -13,6 +13,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: feat(benchmarks): add runtime delegated EIP-7702 benchmarks](https://github.com/ethereum/execution-specs/pull/2598#pullrequestreview-4042198897) - 2026-04-01
 
 * [Review] [Review on: feat(test-benchmark): add uncacheable precompile benchmark](https://github.com/ethereum/execution-specs/pull/2600#pullrequestreview-4081330842) - 2026-04-09
+* [Review] [Review on: chore(test-benchmark): remove unused stateful benchmarks](https://github.com/ethereum/execution-specs/pull/2686#pullrequestreview-4118382863) - 2026-04-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Glamsterdam Repricings #5, April 1, 2026](https://github.com/ethereum/pm/issues/2000) - 2026-04-01
 

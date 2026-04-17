@@ -75,6 +75,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [state: add QueueBuilderPaymentForSlot and update stategen for deferred processing](https://github.com/OffchainLabs/prysm/pull/16663) - 2026-04-13
 * [Pull Request] [consensus-types: add ParentBlockHash getter and ParentExecutionRequests interface](https://github.com/OffchainLabs/prysm/pull/16662) - 2026-04-13
 * [Pull Request] [proto: add parent_block_hash and execution_requests_root to ExecutionPayloadBid](https://github.com/OffchainLabs/prysm/pull/16661) - 2026-04-13
+* [Review] [Review on: Implement defer payload processing](https://github.com/OffchainLabs/prysm/pull/16658#pullrequestreview-4124691884) - 2026-04-16
+* [Commit] [Queue Gloas data column sidecars arriving before their block (#16653)](https://github.com/OffchainLabs/prysm/commit/fbb65f670014116f36d736b1fb049b48fc840277) - 2026-04-16
 ## Q1 2026
 
 

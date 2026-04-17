@@ -24,6 +24,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [.github/workflows: activate freebsd build on PRs](https://github.com/ethereum/go-ethereum/pull/34717) - 2026-04-14
 * [Commit] [.github/workflows: add freebsd test github action (#34078)](https://github.com/ethereum/go-ethereum/commit/c2234462a84c1bb6000cfcc6195404d1caabf2a7) - 2026-04-14
 * [Review] [Review on: cmd, core, trie, triedb: split CachingDB into merkle + binary dbs.](https://github.com/ethereum/go-ethereum/pull/34700#pullrequestreview-4116550730) - 2026-04-15
+* [Review] [Review on: trie/bintrie: replace BinaryNode interface with GC-free NodeRef arena](https://github.com/ethereum/go-ethereum/pull/34055#pullrequestreview-4121297365) - 2026-04-16
+* [Commit] [cmd, core, trie, triedb: split CachingDB into merkle + binary dbs. (#34700)](https://github.com/ethereum/go-ethereum/commit/ba215fd927b2e6377a64cb0b4ce668f106763119) - 2026-04-17
 ## Q1 2026
 
 

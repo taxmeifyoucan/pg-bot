@@ -21,6 +21,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [caplin: fix peerdas gossip init order to eliminate false warning](https://github.com/erigontech/erigon/pull/20538) - 2026-04-14
 * [Commit] [caplin: fix peerdas gossip init order to eliminate false warning (#20538)](https://github.com/erigontech/erigon/commit/e39ecde251116f98cff2e5ceb280eef11a93bd0f) - 2026-04-14
 * [Commit] [p2p/sentry: event-driven StatusData cache, merge dual db.View (#20464)](https://github.com/erigontech/erigon/commit/f199a66e1714da833fd258ea511aef9816f4fe7b) - 2026-04-14
+* [Review] [Review on: [r3.4] cl/caplin: fix nil pointer panics in GetEthV1ValidatorAttestationData](https://github.com/erigontech/erigon/pull/20600#pullrequestreview-4120486404) - 2026-04-16
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026
 
 

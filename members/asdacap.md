@@ -81,6 +81,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix limits](https://github.com/NethermindEth/nethermind/pull/11155#pullrequestreview-4113694932) - 2026-04-15
 * [Review] [Review on: fix(test): replace TrieWarmer Task.Delay with polling](https://github.com/NethermindEth/nethermind/pull/11147#pullrequestreview-4112772451) - 2026-04-15
 * [Commit] [refactor: remove long range catch-up sync (#11123)](https://github.com/NethermindEth/nethermind/commit/7cf9f69f45ad7c9f2545d597b65665b734ef449b) - 2026-04-15
+* [Review] [Review on: fix: resolve flaky Can_change_branch_on_invalid_block test with event-driven deletion wait ](https://github.com/NethermindEth/nethermind/pull/11159#pullrequestreview-4118948210) - 2026-04-16
+* [Review] [Review on: fix: resolve flaky Can_change_branch_on_invalid_block test](https://github.com/NethermindEth/nethermind/pull/11162#pullrequestreview-4118782739) - 2026-04-16
+* [Commit] [feat(analyzers): add NETH002 to detect excessively deep lambda indentation (#11138)](https://github.com/NethermindEth/nethermind/commit/02c202601b5cab57f018e033a7591f5d28d98d9b) - 2026-04-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

@@ -65,6 +65,12 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [perf(interpolation): optimize barycentric weights via algebraic identity](https://github.com/Plonky3/Plonky3/pull/1553) - 2026-04-14
 * [Pull Request] [perf(monty-31/neon): specialized exp_4 skipping intermediate reduction](https://github.com/Plonky3/Plonky3/pull/1558) - 2026-04-15
 * [Pull Request] [fix(bn254): add Poseidon2 round-number constants and fix benchmark](https://github.com/Plonky3/Plonky3/pull/1557) - 2026-04-15
+* [Pull Request] [test(keccak-air): add proptests for AIR constraints and trace generation](https://github.com/Plonky3/Plonky3/pull/1562) - 2026-04-16
+* [Review] [Review on: test(keccak-air): add proptests for AIR constraints and trace generation](https://github.com/Plonky3/Plonky3/pull/1562#pullrequestreview-4124706121) - 2026-04-16
+* [Review] [Review on: perf(whir): use evaluation at infinity instead of point 2 in sumcheck](https://github.com/Plonky3/Plonky3/pull/1539#pullrequestreview-4122130359) - 2026-04-16
+* [Review] [Review on: test(poseidon1): validate all SIMD lanes against scalar outputs](https://github.com/Plonky3/Plonky3/pull/1560#pullrequestreview-4122176073) - 2026-04-16
+* [Commit] [perf(whir): use evaluation at infinity instead of point 2 in sumcheck (#1539)](https://github.com/Plonky3/Plonky3/commit/6374a36ff50fc641821513852263cc61ca7a1278) - 2026-04-16
+* [Commit] [Merge commit from fork](https://github.com/Plonky3/Plonky3/commit/5c1dc1d64c0516a8911bbf3ea40f173c21d6ae47) - 2026-04-16
 ## Q1 2026
 
 

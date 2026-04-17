@@ -24,6 +24,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Fix processBatchedBlocks returning pre-filter block count (#16657)](https://github.com/OffchainLabs/prysm/commit/8864484230033f5fc776ca0c25c0d5a1d0d77187) - 2026-04-13
 * [Review] [Review on: implementing envelope rest apis ](https://github.com/OffchainLabs/prysm/pull/16522#pullrequestreview-4107656892) - 2026-04-14
 * [Pull Request] [Fix duplicate peer entries in the blob sidecar fetch retry list during initial sync](https://github.com/OffchainLabs/prysm/pull/16682) - 2026-04-14
+* [Review] [Review on: Validator block v4](https://github.com/OffchainLabs/prysm/pull/16594#pullrequestreview-4122758276) - 2026-04-16
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

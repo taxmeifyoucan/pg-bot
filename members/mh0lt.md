@@ -59,6 +59,16 @@ Team: Erigon
 * [Pull Request] [node/app/event: use atomic.Pointer[handlerMap] for lock-free Publish](https://github.com/erigontech/erigon/pull/20584) - 2026-04-15
 * [Issue] [Partial Statefulness for Erigon: EIP-7928 + Sparse Snapshots](https://github.com/erigontech/erigon/issues/20587) - 2026-04-15
 * [Commit] [node/app: add component framework (#20450)](https://github.com/erigontech/erigon/commit/db621b9bda151eb373d328fc62e37983d9282e17) - 2026-04-15
+* [Review] [Review on: ci: add Glamsterdam devnet shard to hive-eest workflow](https://github.com/erigontech/erigon/pull/20603#pullrequestreview-4122102812) - 2026-04-16
+* [Review] [Review on: execution: remove dbBALBytes fallback, fix zero-balance BAL writes](https://github.com/erigontech/erigon/pull/20602#pullrequestreview-4122099049) - 2026-04-16
+* [Review] [Review on: execution/state: optimize transient storage zero-write fast path](https://github.com/erigontech/erigon/pull/20568#pullrequestreview-4122160634) - 2026-04-16
+* [Commit] [rpc, exec: wire receipts.Generator to shared derive package, add RCacheV2 fast path (#20485)](https://github.com/erigontech/erigon/commit/c174add7e4095f68ad6a69873795dcc6e6091d96) - 2026-04-16
+* [Commit] [node/components/storage/snapshot: add file inventory, trust model, range arithmetic (#20527)](https://github.com/erigontech/erigon/commit/d685a28eb835ca9a9c1086df841fd8f58f86c87d) - 2026-04-16
+* [Commit] [plugins/auth: add UCAN core library with EOA signer and MDBX store (#20472)](https://github.com/erigontech/erigon/commit/3fb9bac558fcf89bc3a66bd7329c388c44cdb244) - 2026-04-16
+* [Commit] [node/app: address PR 20450 review comments (#20583)](https://github.com/erigontech/erigon/commit/32c61232e2a7cca95c560ca37d28d53060611d1a) - 2026-04-16
+* [Commit] [downloader: decentralized snapshot distribution via chain.toml P2P discovery (#20526)](https://github.com/erigontech/erigon/commit/3ef2c33e5009972ce8f76610046bb2721b32b801) - 2026-04-16
+* [Commit] [node/app/component: use []*component for relations storage (#20585)](https://github.com/erigontech/erigon/commit/3456be6cdcc98685e96355c5904dbf2f61252bc0) - 2026-04-16
+* [Commit] [node/app/event: use atomic.Pointer[handlerMap] for lock-free Publish (#20584)](https://github.com/erigontech/erigon/commit/3d1c72bd70a67a02a408894d3faba181ed625dce) - 2026-04-16
 ## Q1 2026
 
 

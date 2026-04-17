@@ -32,6 +32,10 @@ Team: Consensus R&D (EF)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Refactor EIP8025 proof engine and p2p interface](https://github.com/ethereum/consensus-specs/pull/5055#pullrequestreview-4062006602) - 2026-04-06
 * [Issue] [Add 8025 test vectors](https://github.com/ethereum/consensus-specs/issues/5072) - 2026-04-06
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Add EIP: EVMification](https://github.com/ethereum/EIPs/pull/11432#pullrequestreview-4123921830) - 2026-04-16
+* [Commit] [Add EIP: EVMification](https://github.com/ethereum/EIPs/commit/f78f8fab43f7e0689df51e59873259ceebc2df5c) - 2026-04-16
 ## Q1 2026
 
 

@@ -40,10 +40,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Accessors for EL block header data in light client library](https://github.com/status-im/nimbus-eth2/pull/8269) - 2026-04-14
 * [Pull Request] [Remove unused current_slot param in fork_choice](https://github.com/status-im/nimbus-eth2/pull/8270) - 2026-04-14
 * [Pull Request] [Light client C API for creating beacon block header from REST](https://github.com/status-im/nimbus-eth2/pull/8276) - 2026-04-15
+* [Pull Request] [Avoid per-test TaskPool in fork choice tests](https://github.com/status-im/nimbus-eth2/pull/8279) - 2026-04-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
 * [Pull Request] [Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113) - 2026-04-15
+* [Commit] [Swap latest_block_hash / latest_execution_payload_bid (#5113)](https://github.com/ethereum/consensus-specs/commit/c83d6bca4fe62311f4c8348811eac9e7ef6d08ea) - 2026-04-16
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13
