@@ -20,6 +20,9 @@ Team: Grandine
 * [Review] [Review on: Feature/consensus specs v1.7.0 alpha4](https://github.com/grandinetech/grandine/pull/667#pullrequestreview-4121756801) - 2026-04-16
 * [Review] [Review on: Feature/rustsec 2026 0098 99](https://github.com/grandinetech/grandine/pull/666#pullrequestreview-4121352026) - 2026-04-16
 * [Review] [Review on: Handle non-power-of-two length persistent vectors](https://github.com/grandinetech/grandine/pull/663#pullrequestreview-4121187524) - 2026-04-16
+* [Review] [Review on: Refactor `validate_data_column_sidecar_with_state` function](https://github.com/grandinetech/grandine/pull/657#pullrequestreview-4130093717) - 2026-04-17
+* [Review] [Review on: feat: Add ProposerPreferences gossip handling and broadcasting](https://github.com/grandinetech/grandine/pull/579#pullrequestreview-4129228741) - 2026-04-17
+* [Review] [Review on: Feature/consensus specs v1.7.0 alpha4](https://github.com/grandinetech/grandine/pull/667#pullrequestreview-4128025553) - 2026-04-17
 ## Q1 2026
 
 

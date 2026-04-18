@@ -43,6 +43,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [fix: validate against executor output gas used](https://github.com/paradigmxyz/reth/pull/23569) - 2026-04-15
 * [Review] [Review on: feat(cli): add `reth db migrate-v2` for v1→v2 storage migration](https://github.com/paradigmxyz/reth/pull/23422#pullrequestreview-4113672233) - 2026-04-15
 * [Commit] [fix: validate against executor output gas used (#23569)](https://github.com/paradigmxyz/reth/commit/bdbb8df17e0dfe958a624e7cdb07bacd087245db) - 2026-04-15
+* [Pull Request] [fix: don't cache stateful precompiles](https://github.com/paradigmxyz/reth/pull/23619) - 2026-04-17
+* [Review] [Review on: feat(engine): suppress persistence during payload building](https://github.com/paradigmxyz/reth/pull/23618#pullrequestreview-4130482679) - 2026-04-17
+* [Review] [Review on: fix(txpool,rpc): skip tx gas limit cap enforcement when EIP-8037 is active](https://github.com/paradigmxyz/reth/pull/23612#pullrequestreview-4129687799) - 2026-04-17
+* [Review] [Review on: chore(BAL): added changes for slotnum](https://github.com/paradigmxyz/reth/pull/23605#pullrequestreview-4128904846) - 2026-04-17
+* [Pull Request] [[wip] feat: support binding discv5 and discv4 to the same port](https://github.com/paradigmxyz/reth/pull/23613) - 2026-04-17
+* [Review] [Review on: fix(db): use sync=true for rocksdb WriteOptions](https://github.com/paradigmxyz/reth/pull/23603#pullrequestreview-4128304038) - 2026-04-17
+* [Commit] [fix: don't cache stateful precompiles (#23619)](https://github.com/paradigmxyz/reth/commit/98ebc3454f339bdaf8901a24a0be4c4ba539e77a) - 2026-04-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

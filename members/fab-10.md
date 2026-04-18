@@ -43,6 +43,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Make engineNewPayloadV5 to follow the current standard for this type of methods](https://github.com/besu-eth/besu/pull/10238#pullrequestreview-4114393350) - 2026-04-15
 * [Review] [Review on: Remove deprecated Holesky network and related tests](https://github.com/besu-eth/besu/pull/10165#pullrequestreview-4112621937) - 2026-04-15
 * [Review] [Review on: feat(plugins): reimplement liveness and readiness checks as plugins (#7704)](https://github.com/besu-eth/besu/pull/10167#pullrequestreview-4111759114) - 2026-04-15
+* [Review] [Review on: Remove pre-EIP-8 RLPx handshake support](https://github.com/besu-eth/besu/pull/10257#pullrequestreview-4127346950) - 2026-04-17
+* [Review] [Review on: Enforce EIP-7928 BAL item budget per transaction in processing and mining](https://github.com/besu-eth/besu/pull/10250#pullrequestreview-4129232981) - 2026-04-17
+* [Pull Request] [Update Gradle plugin for Besu plugin development to 0.2.0](https://github.com/besu-eth/besu/pull/10263) - 2026-04-17
+* [Commit] [Layered txpool: enable balance check by default (#10175)](https://github.com/besu-eth/besu/commit/6529db03800189ac00f7d15c7d4eb1af8a78f893) - 2026-04-17
 ## Q1 2026
 
 

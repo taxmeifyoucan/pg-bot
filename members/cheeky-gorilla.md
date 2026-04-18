@@ -24,6 +24,15 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #478 from somnergy/patch-1](https://github.com/protocolguild/documentation/commit/60ffb8f5b0eec0d58d438299ca2f180940d2134b) - 2026-04-09
 * [Commit] [Merge pull request #477 from pk910/propose-qu0b](https://github.com/protocolguild/documentation/commit/91064d0e9e0b07e9a8274074ac61605b379d9b73) - 2026-04-09
 
+* [Commit] [Merge pull request #485 from jtraglia/add-nikos](https://github.com/protocolguild/documentation/commit/a57fbf1b74f9482e81aec3dc37a120c24a2a0719) - 2026-04-17
+* [Commit] [Merge pull request #486 from kasey/add-aarsh](https://github.com/protocolguild/documentation/commit/169d6a683fd2e85847cdb1d5122f13d20d083f26) - 2026-04-17
+* [Commit] [Merge branch 'main' into add-aarsh](https://github.com/protocolguild/documentation/commit/a8b145077bdd86305d4b0e60e4e0247843eaff0c) - 2026-04-17
+* [Commit] [Merge pull request #487 from jimmygchen/patch-2](https://github.com/protocolguild/documentation/commit/c86b39a69aeb4e31a00365eeda5da7b339bb3f89) - 2026-04-17
+* [Commit] [Merge pull request #488 from raulk/add-sukunrt](https://github.com/protocolguild/documentation/commit/58d8154acba3a5c15327960d4c10677696c4e3c2) - 2026-04-17
+* [Commit] [Merge pull request #489 from Carsons-Eels/add-kclowes](https://github.com/protocolguild/documentation/commit/b22734727a92572c2684844869c2f15274caf2f2) - 2026-04-17
+* [Commit] [Merge pull request #484 from LukaszRozmej/patch-6](https://github.com/protocolguild/documentation/commit/c4b2fafca1229fdbfbeaf0c17bd1b0791fa222d2) - 2026-04-17
+* [Commit] [Merge pull request #490 from fgimenez/fgimenez/remove-self](https://github.com/protocolguild/documentation/commit/f03dd06e5fd3d2acbeca56b298261c611a2686d2) - 2026-04-17
+* [Commit] [Update 01-membership.md](https://github.com/protocolguild/documentation/commit/cadf2f733dea7446d9e8273b29c655eb387d3807) - 2026-04-17
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Pull Request] [Extend hero image, fix social cards + dark more favicon](https://github.com/protocolguild/protocol-guild-site/pull/57) - 2026-04-13
 * [Commit] [Merge pull request #57 from protocolguild/staging3](https://github.com/protocolguild/protocol-guild-site/commit/3f3c631fc0a5787812805c9a305bb1c2d854026b) - 2026-04-13

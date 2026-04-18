@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 
 ## Contributions
 
+## Q2 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516#pullrequestreview-4125921937) - 2026-04-17
+* [Review] [Review on: fix renovate](https://github.com/Consensys/teku/pull/10574#pullrequestreview-4125811196) - 2026-04-17
 ## Q1 2026
 
 

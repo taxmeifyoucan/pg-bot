@@ -77,6 +77,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [proto: add parent_block_hash and execution_requests_root to ExecutionPayloadBid](https://github.com/OffchainLabs/prysm/pull/16661) - 2026-04-13
 * [Review] [Review on: Implement defer payload processing](https://github.com/OffchainLabs/prysm/pull/16658#pullrequestreview-4124691884) - 2026-04-16
 * [Commit] [Queue Gloas data column sidecars arriving before their block (#16653)](https://github.com/OffchainLabs/prysm/commit/fbb65f670014116f36d736b1fb049b48fc840277) - 2026-04-16
+
+* [Review] [Review on: Implement defer payload processing](https://github.com/OffchainLabs/prysm/pull/16658#pullrequestreview-4130958862) - 2026-04-17
+* [Pull Request] [Add BAL, slot pre-compile, and engine-api implementations](https://github.com/OffchainLabs/prysm/pull/16687) - 2026-04-17
+* [Issue] [Study whether processExecutionRequests alone suffices when applying parent payload](https://github.com/OffchainLabs/prysm/issues/16693) - 2026-04-17
+* [Issue] [Avoid state copy in ProcessSlotsUsingNextSlotCache happy path](https://github.com/OffchainLabs/prysm/issues/16692) - 2026-04-17
+* [Issue] [Cache empty execution requests root](https://github.com/OffchainLabs/prysm/issues/16691) - 2026-04-17
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 ## Q1 2026
 
 

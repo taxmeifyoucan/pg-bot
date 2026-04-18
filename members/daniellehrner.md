@@ -54,6 +54,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Merged latest main into bal-devnet-3](https://github.com/besu-eth/besu/pull/10237) - 2026-04-15
 * [Pull Request] [Add EIP-7981 to Amsterdam](https://github.com/besu-eth/besu/pull/10247) - 2026-04-16
 * [Pull Request] [Add EIP-7976 to Amsterdam](https://github.com/besu-eth/besu/pull/10246) - 2026-04-16
+* [Pull Request] [bal- devnet-4: Reenable dynamic costPerStateByte calculation](https://github.com/besu-eth/besu/pull/10260) - 2026-04-17
+* [Pull Request] [ engine_newPayload: introduce spec-driven composition infrastructure](https://github.com/besu-eth/besu/pull/10258) - 2026-04-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 ## Q1 2026

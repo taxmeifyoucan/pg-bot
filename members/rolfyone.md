@@ -29,6 +29,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Add Gossip Beacon Block Reference Test Executor (#10563)](https://github.com/Consensys/teku/commit/57664112dd6d09b78e189e9595498443e783be8a) - 2026-04-15
 * [Commit] [Bug fix: SlashingProtectedValidatorSource now wraps external signers added via API with slashing protection. (#10566)](https://github.com/Consensys/teku/commit/491b9e0f36ef58fba635e474e3898492e0485b31) - 2026-04-15
 * [Review] [Review on: EIP-8045 - Exclude slashed validators from duties](https://github.com/Consensys/teku/pull/10560#pullrequestreview-4118077350) - 2026-04-16
+* [Commit] [   Added POST /eth/v1/beacon/pool/payload_attestations endpoint (#10534)](https://github.com/Consensys/teku/commit/e18002a6652761bb53af484458206a4143fd09a3) - 2026-04-17
 ## Q1 2026
 
 

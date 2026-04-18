@@ -35,6 +35,7 @@ Team: Reth
 * [Review] [Review on: fix(ci): use proper Slack mention for AI bot in bench failure alerts](https://github.com/paradigmxyz/reth/pull/23591#pullrequestreview-4123078951) - 2026-04-16
 * [Review] [Review on: perf: parallel segmented snapshot downloads](https://github.com/paradigmxyz/reth/pull/23028#pullrequestreview-4122758061) - 2026-04-16
 * [Commit] [fix(cli): error on non-mainnet when no download url provided (#23570)](https://github.com/paradigmxyz/reth/commit/9990670990293ca8184f35d498b71ab45db19e7d) - 2026-04-16
+* [Commit] [fix(db): use sync=true for rocksdb WriteOptions (#23603)](https://github.com/paradigmxyz/reth/commit/3a136fc8c38221e060cbc31ef5c5fa345cf0e17a) - 2026-04-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 ## Q1 2026

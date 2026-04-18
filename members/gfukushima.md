@@ -23,6 +23,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [EIP-8045](https://github.com/Consensys/teku/pull/10560) - 2026-04-14
 * [Review] [Review on: EIP-8045 - Exclude slashed validators from duties](https://github.com/Consensys/teku/pull/10560#pullrequestreview-4117497842) - 2026-04-15
 * [Review] [Review on: add renovatebot and codeowners](https://github.com/Consensys/teku/pull/10538#pullrequestreview-4125103335) - 2026-04-16
+* [Review] [Review on: SingleBockProviderFulu with soft and hard limit for sampled blocks](https://github.com/Consensys/teku/pull/10533#pullrequestreview-4125832426) - 2026-04-17
 ## Q1 2026
 
 

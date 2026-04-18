@@ -16,6 +16,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: use high level zapi dsl ](https://github.com/ChainSafe/lodestar-z/pull/302#pullrequestreview-4050703970) - 2026-04-02
 
 * [Review] [Review on: test: per-target spec tests](https://github.com/ChainSafe/lodestar-z/pull/317#pullrequestreview-4121958330) - 2026-04-16
+* [Review] [Review on: test: per-target spec tests](https://github.com/ChainSafe/lodestar-z/pull/317#pullrequestreview-4129742954) - 2026-04-17
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07

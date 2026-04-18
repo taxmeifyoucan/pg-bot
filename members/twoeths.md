@@ -52,10 +52,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: trigger processExecutionPayload() once](https://github.com/ChainSafe/lodestar/pull/9223#pullrequestreview-4118661903) - 2026-04-16
 * [Review] [Review on: feat: ignore index-1 attestation when payload is missing](https://github.com/ChainSafe/lodestar/pull/9213#pullrequestreview-4119003499) - 2026-04-16
 * [Review] [Review on: fix: use fork choice for parent payload status in block production](https://github.com/ChainSafe/lodestar/pull/9209#pullrequestreview-4118111117) - 2026-04-16
+* [Review] [Review on: feat: unskip gloas fork choice spec tests](https://github.com/ChainSafe/lodestar/pull/9222#pullrequestreview-4125794582) - 2026-04-17
+* [Review] [Review on: refactor: revert dual-state from regen, block production, and metrics](https://github.com/ChainSafe/lodestar/pull/9218#pullrequestreview-4125870265) - 2026-04-17
+* [Pull Request] [perf(fork-choice): precompute per-chain attestation scores (FCR)](https://github.com/ChainSafe/lodestar/pull/9227) - 2026-04-17
+* [Review] [Review on: feat: trigger processExecutionPayload() once](https://github.com/ChainSafe/lodestar/pull/9223#pullrequestreview-4125802453) - 2026-04-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4089977467) - 2026-04-10
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Pull Request] [fix: support multi-threaded RefCount](https://github.com/ChainSafe/lodestar-z/pull/62) - 2026-04-17
+* [Commit] [fix: support multi-threaded RefCount (#62)](https://github.com/ChainSafe/lodestar-z/commit/28edb161478f2e45a00f0418624e97028ad38b3b) - 2026-04-17
 ## Q1 2026
 
 

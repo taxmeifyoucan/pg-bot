@@ -41,6 +41,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas vc ptc duty](https://github.com/sigp/lighthouse/pull/8338#pullrequestreview-4110534836) - 2026-04-15
 * [Review] [Review on: Gloas - add get_payload_attestation_endpoint](https://github.com/sigp/lighthouse/pull/8497#pullrequestreview-4120747247) - 2026-04-16
 * [Review] [Review on: Gloas vc ptc duty](https://github.com/sigp/lighthouse/pull/8338#pullrequestreview-4118255077) - 2026-04-16
+* [Review] [Review on: Gloas - add get_payload_attestation_endpoint](https://github.com/sigp/lighthouse/pull/8497#pullrequestreview-4126877798) - 2026-04-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 ## Q1 2026

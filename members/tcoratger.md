@@ -71,6 +71,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: test(poseidon1): validate all SIMD lanes against scalar outputs](https://github.com/Plonky3/Plonky3/pull/1560#pullrequestreview-4122176073) - 2026-04-16
 * [Commit] [perf(whir): use evaluation at infinity instead of point 2 in sumcheck (#1539)](https://github.com/Plonky3/Plonky3/commit/6374a36ff50fc641821513852263cc61ca7a1278) - 2026-04-16
 * [Commit] [Merge commit from fork](https://github.com/Plonky3/Plonky3/commit/5c1dc1d64c0516a8911bbf3ea40f173c21d6ae47) - 2026-04-16
+* [Pull Request] [feat: bus-based cross-AIR interactions and lookup crate redesign](https://github.com/Plonky3/Plonky3/pull/1566) - 2026-04-17
+* [Review] [Review on: bench: route Goldilocks packed benches via HashPackedGoldilocks](https://github.com/Plonky3/Plonky3/pull/1564#pullrequestreview-4129800808) - 2026-04-17
+* [Pull Request] [feat(sha256-air): add SHA-256 compression AIR crate](https://github.com/Plonky3/Plonky3/pull/1563) - 2026-04-17
 ## Q1 2026
 
 

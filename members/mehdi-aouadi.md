@@ -32,6 +32,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: target java 25](https://github.com/Consensys/teku/pull/10567#pullrequestreview-4114245130) - 2026-04-15
 * [Commit] [add unblinded execution payload cache (#10568)](https://github.com/Consensys/teku/commit/771355b1c056dee6d72f870d66bc6716288b857d) - 2026-04-15
 * [Review] [Review on: fix ci permissions (and make windowsBuild not blocking)](https://github.com/Consensys/teku/pull/10570#pullrequestreview-4120289879) - 2026-04-16
+* [Review] [Review on: Make vote tracking slot-aware and add backward-compatible vote update plumbing (3 of 7)](https://github.com/Consensys/teku/pull/10573#pullrequestreview-4129237543) - 2026-04-17
 ## Q1 2026
 
 

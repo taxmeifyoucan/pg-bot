@@ -23,6 +23,10 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Pull Request] [Update EIP-8007: Sync descriptions with latest EIP-7976 and EIP-7981 drafts](https://github.com/ethereum/EIPs/pull/11499) - 2026-04-09
 * [Commit] [Update EIP-8007: Sync descriptions with latest EIP-7976 and EIP-7981 drafts](https://github.com/ethereum/EIPs/commit/2b2eda77c35c24252ff0164bc471f52bcad98608) - 2026-04-09
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106110545) - 2026-04-14
+* [Review] [Review on: Update EIP-8037: more state gas accounting changes](https://github.com/ethereum/EIPs/pull/11532#pullrequestreview-4126849730) - 2026-04-17
+* [Pull Request] [Update EIP-8037: add per-dimension block gas limit check](https://github.com/ethereum/EIPs/pull/11536) - 2026-04-17
+* [Review] [Review on: Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503#pullrequestreview-4127112267) - 2026-04-17
+* [Review] [Review on: Update EIP-8037: Refund state gas on all frame failures including top level](https://github.com/ethereum/EIPs/pull/11476#pullrequestreview-4126864187) - 2026-04-17
 ## Q1 2026
 
 

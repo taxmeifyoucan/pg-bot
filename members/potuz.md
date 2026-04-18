@@ -29,6 +29,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Implement defer payload processing](https://github.com/OffchainLabs/prysm/pull/16658#pullrequestreview-4099204013) - 2026-04-13
 * [Review] [Review on: reversing checkpoint api change](https://github.com/OffchainLabs/prysm/pull/16660#pullrequestreview-4103123528) - 2026-04-14
 * [Review] [Review on: updated duties using split endpoints](https://github.com/OffchainLabs/prysm/pull/16421#pullrequestreview-4105517630) - 2026-04-14
+* [Review] [Review on: fixing wrong path name in execution payload bid api](https://github.com/OffchainLabs/prysm/pull/16690#pullrequestreview-4130014891) - 2026-04-17
+* [Review] [Review on: Prevent expensive state replay when computing sync committees members for the current period](https://github.com/OffchainLabs/prysm/pull/16688#pullrequestreview-4129411346) - 2026-04-17
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08
@@ -37,11 +39,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add ssz to engine api](https://github.com/ethereum/execution-apis/pull/764#pullrequestreview-4083234393) - 2026-04-09
 
+* [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4130062766) - 2026-04-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4089911926) - 2026-04-10
 * [Review] [Review on: Fix envelope `beacon_block_root` field name](https://github.com/ethereum/consensus-specs/pull/5093#pullrequestreview-4088959953) - 2026-04-10
 * [Pull Request] [Merge eip7928 specs into Gloas specs](https://github.com/ethereum/consensus-specs/pull/5117) - 2026-04-16
 * [Commit] [Merge eip7928 specs into Gloas specs (#5117)](https://github.com/ethereum/consensus-specs/commit/9ad3d870b0f75424d8e571bd116f8127be97f1aa) - 2026-04-16
+* [Pull Request] [Remove impossible branch in forkchoice](https://github.com/ethereum/consensus-specs/pull/4892) - 2026-04-17
+* [Commit] [Remove impossible branch in forkchoice (#4892)](https://github.com/ethereum/consensus-specs/commit/9648e23ff8ddcc53ad916377b341a53579610c0f) - 2026-04-17
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
+* [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17
 ## Q1 2026
 
 

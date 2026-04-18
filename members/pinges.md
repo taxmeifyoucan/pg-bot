@@ -14,6 +14,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [remove unnecessary check that a peer has the dao block](https://github.com/besu-eth/besu/pull/10244) - 2026-04-16
 * [Commit] [remove unnecessary check that a peer has the dao block (#10244)](https://github.com/besu-eth/besu/commit/67dbd9a4c5e11e8e435a1b4e4d1ae346213e835c) - 2026-04-16
+* [Pull Request] [Remove pre-EIP-8 RLPx handshake support](https://github.com/besu-eth/besu/pull/10257) - 2026-04-17
+* [Review] [Review on: Reject Status with mismatched protocolVersion vs layout](https://github.com/besu-eth/besu/pull/10241#pullrequestreview-4125728218) - 2026-04-17
+* [Commit] [remove pre EIP8 handshake support (#10257)](https://github.com/besu-eth/besu/commit/d2032017bb3b8cb215a97303980a1e4a643f7180) - 2026-04-17
 ## Q1 2026
 
 

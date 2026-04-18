@@ -16,6 +16,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: Update EIP-8070: Prefix title with eth/72 protocol version](https://github.com/ethereum/EIPs/pull/11531#pullrequestreview-4122058975) - 2026-04-16
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: eth: protect high-value peers from random dropping based on tx inclusion stats](https://github.com/ethereum/go-ethereum/pull/34702#pullrequestreview-4108839201) - 2026-04-14
+* [Pull Request] [eth/downloader: drop peers sending invalid bodies or receipts](https://github.com/ethereum/go-ethereum/pull/34745) - 2026-04-17
+* [Pull Request] [eth/protocols, eth/downloader: allow skipping unavailable responses](https://github.com/ethereum/go-ethereum/pull/34746) - 2026-04-17
 ## Q1 2026
 
 

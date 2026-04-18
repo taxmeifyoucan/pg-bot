@@ -42,6 +42,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: Add Codecov config (#11145)](https://github.com/NethermindEth/nethermind/commit/1db1f1702b43b947d0f4957ee81034cec21d8035) - 2026-04-15
 * [Review] [Review on: Update CODEOWNERS - JsonRpc & Facade](https://github.com/NethermindEth/nethermind/pull/11191#pullrequestreview-4124063089) - 2026-04-16
 * [Pull Request] [Use BAL manager unconditionally](https://github.com/NethermindEth/nethermind/pull/11181) - 2026-04-16
+* [Review] [Review on: Add block building simulator tool](https://github.com/NethermindEth/nethermind/pull/10044#pullrequestreview-4130883795) - 2026-04-17
+* [Pull Request] [chore: Change `codecov/project` status](https://github.com/NethermindEth/nethermind/pull/11227) - 2026-04-17
+* [Commit] [chore: Change `codecov/project` status (#11227)](https://github.com/NethermindEth/nethermind/commit/20d83484cb54ae232509debadba29246b7c98473) - 2026-04-17
 ## Q1 2026
 
 

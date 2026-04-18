@@ -48,6 +48,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [BAL compatibility](https://github.com/Consensys/teku/issues/10572) - 2026-04-16
 * [Commit] [Add forkchoice node identity plumbing with current behavior unchanged (2 of 7) (#10569)](https://github.com/Consensys/teku/commit/9729db9daf4798e34fdfd800157263a61153735c) - 2026-04-16
 * [Commit] [fix ci permissions (#10570)](https://github.com/Consensys/teku/commit/f1ab24dab86a944730442e1fabb384686151296f) - 2026-04-16
+* [Review] [Review on: Make vote tracking slot-aware and add backward-compatible vote update plumbing (3 of 7)](https://github.com/Consensys/teku/pull/10573#pullrequestreview-4132761523) - 2026-04-17
+* [Review] [Review on: Defer payload processing to next block (part 1)](https://github.com/Consensys/teku/pull/10575#pullrequestreview-4130448317) - 2026-04-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

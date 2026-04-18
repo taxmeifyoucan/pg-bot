@@ -21,6 +21,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [[bal-devnet-4] Implement EIP-7981: Increase Access List Cost](https://github.com/erigontech/erigon/issues/20544) - 2026-04-14
 * [Issue] [bal-devnet-4 implementation](https://github.com/erigontech/erigon/issues/20542) - 2026-04-14
 * [Pull Request] [[DO-NOT-MERGE] bal-devnet-4](https://github.com/erigontech/erigon/pull/20606) - 2026-04-16
+* [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-7976 ](https://github.com/erigontech/erigon/pull/20613) - 2026-04-17
+* [Pull Request] [claude: improve test skills with submodule and ramdisk prerequisites](https://github.com/erigontech/erigon/pull/20616) - 2026-04-17
+* [Review] [Review on: commitment: preserve loadStateIfNeeded counters](https://github.com/erigontech/erigon/pull/20610#pullrequestreview-4126676840) - 2026-04-17
+* [Review] [Review on: CI-GUIDELINES: add job placement decision tree and tables](https://github.com/erigontech/erigon/pull/20188#pullrequestreview-4126633378) - 2026-04-17
+* [Review] [Review on: ci: add Glamsterdam devnet shard to hive-eest workflow](https://github.com/erigontech/erigon/pull/20603#pullrequestreview-4126605978) - 2026-04-17
+* [Commit] [claude: improve test skills with submodule and ramdisk prerequisites (#20616)](https://github.com/erigontech/erigon/commit/6f410c9d6e27123310f212b9e59e2dea1922d733) - 2026-04-17
 ## Q1 2026
 
 

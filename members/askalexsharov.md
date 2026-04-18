@@ -245,6 +245,18 @@ Team: Erigon
 * [Review] [Review on: [wip] db/state: inv_index merge remove 1 intermediate buffer to reduce peak memory](https://github.com/erigontech/erigon/pull/20597#pullrequestreview-4118199266) - 2026-04-16
 * [Commit] [downloader: torrent_hashes --diff flag (#20570)](https://github.com/erigontech/erigon/commit/1448e03f6e964eae374ee7ee45822cf4a54e2102) - 2026-04-16
 * [Commit] [[wip]  ci: pin glamsterdam ethereum-package to 6.1.0  (#20593)](https://github.com/erigontech/erigon/commit/ee703e2c69057c7d3aaa464c2726c114ff139024) - 2026-04-16
+* [Pull Request] [[r3.4] db/state: fix MaxStep using MinTxNum in DomainRoTx.prune](https://github.com/erigontech/erigon/pull/20635) - 2026-04-18
+* [Review] [Review on: node/components: extract downloader from backend.go, add event guidelines](https://github.com/erigontech/erigon/pull/20471#pullrequestreview-4133125911) - 2026-04-18
+* [Review] [Review on: add CL attribute tag to log](https://github.com/erigontech/erigon/pull/20588#pullrequestreview-4133132459) - 2026-04-18
+* [Review] [Review on: node/components/storage: extract storage component from backend.go](https://github.com/erigontech/erigon/pull/20476#pullrequestreview-4133127943) - 2026-04-18
+* [Review] [Review on: node/components/sentry: extract sentry component from backend.go](https://github.com/erigontech/erigon/pull/20629#pullrequestreview-4132931317) - 2026-04-18
+* [Review] [Review on: Guard oversized static byte topics](https://github.com/erigontech/erigon/pull/20628#pullrequestreview-4132934680) - 2026-04-18
+* [Review] [Review on: db/integrity: return error instead of panic on small history files](https://github.com/erigontech/erigon/pull/20632#pullrequestreview-4132921467) - 2026-04-18
+* [Review] [Review on: db/state: prune TemporalMemBatch overlay entries past unwindToTxNum](https://github.com/erigontech/erigon/pull/20625#pullrequestreview-4129282746) - 2026-04-17
+* [Review] [Review on: claude: improve test skills with submodule and ramdisk prerequisites](https://github.com/erigontech/erigon/pull/20616#pullrequestreview-4127763933) - 2026-04-17
+* [Issue] [`integrity`: to run under 30min on snapshotter servers](https://github.com/erigontech/erigon/issues/20634) - 2026-04-18
+* [Issue] [p2p: debug logs spam](https://github.com/erigontech/erigon/issues/20633) - 2026-04-18
+* [Commit] [vm: opcode-scoped intern cache on CallContext to eliminate duplicate `unique.Make()` (#20552)](https://github.com/erigontech/erigon/commit/3736b881c1b274800db24b49afb7dda91e826737) - 2026-04-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

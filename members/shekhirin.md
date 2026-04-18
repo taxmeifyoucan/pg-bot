@@ -42,6 +42,8 @@ Team: Reth
 * [Review] [Review on: feat(cli): add `reth db migrate-v2` for v1→v2 storage migration](https://github.com/paradigmxyz/reth/pull/23422#pullrequestreview-4121875206) - 2026-04-16
 * [Review] [Review on: fix(ci): clean up bench cpu dma latency helper](https://github.com/paradigmxyz/reth/pull/23594#pullrequestreview-4121401361) - 2026-04-16
 * [Commit] [feat(miner): add --dev.payload-wait-time to LocalMiner (#23598)](https://github.com/paradigmxyz/reth/commit/cff41bb9c2f703643a20d78eae9741e6dc2d1839) - 2026-04-16
+* [Review] [Review on: fix(db): use sync=true for rocksdb WriteOptions](https://github.com/paradigmxyz/reth/pull/23603#pullrequestreview-4127917325) - 2026-04-17
+* [Commit] [ci: use reth 2.0 banner image in release draft (#23404)](https://github.com/paradigmxyz/reth/commit/742a7e7a18e9e528e7de07fe38f1c5adc68778d3) - 2026-04-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

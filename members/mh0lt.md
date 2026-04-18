@@ -69,6 +69,17 @@ Team: Erigon
 * [Commit] [downloader: decentralized snapshot distribution via chain.toml P2P discovery (#20526)](https://github.com/erigontech/erigon/commit/3ef2c33e5009972ce8f76610046bb2721b32b801) - 2026-04-16
 * [Commit] [node/app/component: use []*component for relations storage (#20585)](https://github.com/erigontech/erigon/commit/3456be6cdcc98685e96355c5904dbf2f61252bc0) - 2026-04-16
 * [Commit] [node/app/event: use atomic.Pointer[handlerMap] for lock-free Publish (#20584)](https://github.com/erigontech/erigon/commit/3d1c72bd70a67a02a408894d3faba181ed625dce) - 2026-04-16
+* [Pull Request] [node/components/sentry: extract sentry component from backend.go](https://github.com/erigontech/erigon/pull/20629) - 2026-04-17
+* [Pull Request] [db/state: restore empty tombstones on unwind and honor them in getLatestFromDb](https://github.com/erigontech/erigon/pull/20627) - 2026-04-17
+* [Review] [Review on: execution: enforce strict BAL validation (EIP-7928)](https://github.com/erigontech/erigon/pull/20602#pullrequestreview-4128827682) - 2026-04-17
+* [Pull Request] [db/state: prune TemporalMemBatch overlay entries past unwindToTxNum](https://github.com/erigontech/erigon/pull/20625) - 2026-04-17
+* [Pull Request] [node/eth, db/downloader: gate chain.toml v2 publish paths behind --snap.p2p-manifest](https://github.com/erigontech/erigon/pull/20615) - 2026-04-17
+* [Pull Request] [db/kv/membatchwithdb: delegate HistorySeek / HistoryRange to backing tx](https://github.com/erigontech/erigon/pull/20624) - 2026-04-17
+* [Issue] [chain.toml V2: versioned snapshot manifest for decentralised archive distribution](https://github.com/erigontech/erigon/issues/20617) - 2026-04-17
+* [Issue] [chain.toml V2 target format: what we're building toward](https://github.com/erigontech/erigon/issues/20619) - 2026-04-17
+* [Issue] [chain.toml V2 baseline: what ships first (PR #20527)](https://github.com/erigontech/erigon/issues/20618) - 2026-04-17
+* [Commit] [db/state: prune TemporalMemBatch overlay entries past unwindToTxNum (#20625)](https://github.com/erigontech/erigon/commit/2698b381bbae5b2d9b912f2bdc262bbecf03b7b6) - 2026-04-17
+* [Commit] [node/eth, db/downloader: gate chain.toml v2 publish paths behind --snap.p2p-manifest (#20615)](https://github.com/erigontech/erigon/commit/5d6a5ac584bc15ae69a6d4b652bcfa690d0b9000) - 2026-04-17
 ## Q1 2026
 
 

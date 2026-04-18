@@ -20,6 +20,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [Add contributor call agenda issue template (#10232)](https://github.com/besu-eth/besu/commit/2d444099f8120cf8fa9a7207756289f61fe066c6) - 2026-04-14
 * [Pull Request] [Revert bws restart](https://github.com/besu-eth/besu/pull/10239) - 2026-04-15
 * [Commit] [Revert bws restart (#10239)](https://github.com/besu-eth/besu/commit/6f5b43a68534f00fad138634c83f6620b6fe5f19) - 2026-04-15
+* [Review] [Review on: Remove pre-EIP-8 RLPx handshake support](https://github.com/besu-eth/besu/pull/10257#pullrequestreview-4129499485) - 2026-04-17
+* [Review] [Review on: Layered txpool: enable balance check by default](https://github.com/besu-eth/besu/pull/10175#pullrequestreview-4131140286) - 2026-04-17
 ## Q1 2026
 
 

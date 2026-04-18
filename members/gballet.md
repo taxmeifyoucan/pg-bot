@@ -26,6 +26,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: cmd, core, trie, triedb: split CachingDB into merkle + binary dbs.](https://github.com/ethereum/go-ethereum/pull/34700#pullrequestreview-4116550730) - 2026-04-15
 * [Review] [Review on: trie/bintrie: replace BinaryNode interface with GC-free NodeRef arena](https://github.com/ethereum/go-ethereum/pull/34055#pullrequestreview-4121297365) - 2026-04-16
 * [Commit] [cmd, core, trie, triedb: split CachingDB into merkle + binary dbs. (#34700)](https://github.com/ethereum/go-ethereum/commit/ba215fd927b2e6377a64cb0b4ce668f106763119) - 2026-04-17
+* [Review] [Review on: core/state: export StateUpdate struct](https://github.com/ethereum/go-ethereum/pull/34724#pullrequestreview-4130750551) - 2026-04-17
+* [Review] [Review on: trie/bintrie: skip clean nodes in CollectNodes to reduce commit write amplification](https://github.com/ethereum/go-ethereum/pull/34754#pullrequestreview-4130185197) - 2026-04-17
 ## Q1 2026
 
 

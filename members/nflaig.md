@@ -107,6 +107,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: reject same-slot full attestation votes for gloas (#9205)](https://github.com/ChainSafe/lodestar/commit/972ec54bb9eb70cf36f18a3589b770cc27c856de) - 2026-04-13
 * [Review] [Review on: feat: gloas alpha.5 speed run](https://github.com/ChainSafe/lodestar/pull/9219#pullrequestreview-4113109415) - 2026-04-15
 * [Issue] [Investigate Goodbye response behavior](https://github.com/ChainSafe/lodestar/issues/9220) - 2026-04-15
+* [Review] [Review on: feat: merge BAL into ePBS](https://github.com/ChainSafe/lodestar/pull/9226#pullrequestreview-4128812414) - 2026-04-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -122,6 +123,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix envelope `beacon_block_root` field name (#5093)](https://github.com/ethereum/consensus-specs/commit/7fefa4316121a67a5ab1dcba2d3eeee10a5b00bd) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121924340) - 2026-04-16
 * [Commit] [Defer payload processing to next block (#5094)](https://github.com/ethereum/consensus-specs/commit/df04ae4577103000be9af12edf2c86230ea70767) - 2026-04-16
+* [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129544146) - 2026-04-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

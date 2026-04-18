@@ -48,6 +48,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: show execution proof count badge on slot page tab](https://github.com/ethpandaops/dora/commit/0a265606cd0f7268eda114b2e0432d20c9f95b3d) - 2026-04-15
 * [Commit] [fix: cast proof size to float64 for KB division](https://github.com/ethpandaops/dora/commit/208ef6cf5cb4a0247b55f7bf2f102aa2dd586ec4) - 2026-04-15
 * [Commit] [fix: parse Lighthouse execution_proofs response shape](https://github.com/ethpandaops/dora/commit/b97a284b669092eea9224c76ed0ae0d93c76c7e8) - 2026-04-15
+* [Pull Request] [fix: detect nimbus-eth1 by new `Nimbus/` client version prefix](https://github.com/ethpandaops/dora/pull/644) - 2026-04-17
+* [Commit] [Merge pull request #644 from ethpandaops/bbusa/fix-nimbusel-exec-time](https://github.com/ethpandaops/dora/commit/ea8b99d7ac0f548c4a3b5ead7453532143ffd595) - 2026-04-17
+* [Commit] [fix: detect nimbus-eth1 by new `Nimbus/` client version prefix](https://github.com/ethpandaops/dora/commit/b13726cc537d0d4589a92fb4db4261e6cdbd1593) - 2026-04-17
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -65,6 +68,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Add on-demand PR test-vector workflow](https://github.com/ethereum/consensus-specs/pull/5110) - 2026-04-14
 * [Pull Request] [Exclude slashed validators from all duties (EIP-8045)](https://github.com/ethereum/consensus-specs/pull/5115) - 2026-04-16
 * [Pull Request] [Let exits use consolidation queue (EIP-8080)](https://github.com/ethereum/consensus-specs/pull/5116) - 2026-04-16
+* [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129830270) - 2026-04-17
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/pull/156) - 2026-04-09
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/assertoor/pull/155) - 2026-04-09
@@ -98,6 +102,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [ci: bump pinned GitHub Actions to latest](https://github.com/ethpandaops/template-devnets/pull/158) - 2026-04-14
 * [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14
 * [Review] [Review on: rework ipv6 setup](https://github.com/ethpandaops/template-devnets/pull/159#pullrequestreview-4119656167) - 2026-04-16
+* [Pull Request] [feat: add HackMD sync helper](https://github.com/ethpandaops/template-devnets/pull/160) - 2026-04-17
 ## Q1 2026
 
 

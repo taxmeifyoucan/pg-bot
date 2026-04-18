@@ -29,6 +29,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Move BAL download from state to chain part](https://github.com/besu-eth/besu/pull/10245#pullrequestreview-4121477901) - 2026-04-16
 * [Pull Request] [add bal check during block processing and block building](https://github.com/besu-eth/besu/pull/10250) - 2026-04-16
 * [Commit] [enable bal parallelization for all blocks and not only head (#10234)](https://github.com/besu-eth/besu/commit/226a8f9abc424d8cf14613a9f1f584eda4663170) - 2026-04-16
+* [Review] [Review on: Enforce EIP-7928 BAL item budget per transaction in processing and mining](https://github.com/besu-eth/besu/pull/10250#pullrequestreview-4129744876) - 2026-04-17
 ## Q1 2026
 
 

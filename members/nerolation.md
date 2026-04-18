@@ -20,12 +20,17 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 * [Pull Request] [Update EIP-7976: clarify token abstraction](https://github.com/ethereum/EIPs/pull/11525) - 2026-04-15
 * [Commit] [Update EIP-7976: clarify token abstraction](https://github.com/ethereum/EIPs/commit/15e4f96ccd6a2e9d5dd307a52be1d4e60ec6eed1) - 2026-04-15
+* [Pull Request] [Update EIP-7928: Change uint16 block access index to uint64 and clarify CL-side](https://github.com/ethereum/EIPs/pull/11535) - 2026-04-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11
 * [Review] [Review on: feat: add more invalid BAL test cases; extend invalid case coverage](https://github.com/ethereum/execution-specs/pull/2653#pullrequestreview-4104415667) - 2026-04-14
 * [Pull Request] [fix(specs,tests): EIP-7981 - Update implementation and specs](https://github.com/ethereum/execution-specs/pull/2682) - 2026-04-15
 * [Commit] [feat(tests): add test for worst-case prefetcher performance (#2657)](https://github.com/ethereum/execution-specs/commit/132c09d48bce13d063cbaee5e490b13fa63726c6) - 2026-04-15
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Use `engine_getPayloadV6`](https://github.com/ethereum/consensus-specs/pull/5123) - 2026-04-17
+* [Commit] [Use `engine_getPayloadV6` (#5123)](https://github.com/ethereum/consensus-specs/commit/81c27174232bedc50f71c2c4b78b07e2951252cd) - 2026-04-17
 ## Q1 2026
 
 

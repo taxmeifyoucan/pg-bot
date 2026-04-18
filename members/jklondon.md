@@ -30,6 +30,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: tests: speed up slow tests via parallelism and context deadlines](https://github.com/erigontech/erigon/pull/20563#pullrequestreview-4113004149) - 2026-04-15
 * [Review] [Review on: downloader: torrent_hashes --diff flag](https://github.com/erigontech/erigon/pull/20570#pullrequestreview-4113001334) - 2026-04-15
 * [Commit] [[kimiko] Analyze all commits that were pushed to the current branch (in (#19653)](https://github.com/erigontech/erigon/commit/1a1ff8f3cad3b967ba92321e875b3c289754fcec) - 2026-04-15
+* [Review] [Review on: docs: add MCP FAQ entries (v3.4)](https://github.com/erigontech/erigon/pull/20604#pullrequestreview-4131450707) - 2026-04-17
+* [Review] [Review on: docs: [main] add MCP FAQ entries](https://github.com/erigontech/erigon/pull/20605#pullrequestreview-4128277362) - 2026-04-17
+* [Review] [Review on: db/state: fix MaxStep using MinTxNum in DomainRoTx.prune](https://github.com/erigontech/erigon/pull/20609#pullrequestreview-4128275077) - 2026-04-17
 ## Q1 2026
 
 

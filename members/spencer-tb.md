@@ -38,6 +38,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(ci, test-fill): make `--generate-all-formats` optional via `feature.yaml`](https://github.com/ethereum/execution-specs/pull/2702) - 2026-04-16
 * [Pull Request] [feat(spec-specs, tests): EIP-8037 - 0 to x to 0 SSTORE refunds to state gas](https://github.com/ethereum/execution-specs/pull/2698) - 2026-04-16
 * [Pull Request] [feat(spec-specs): EIP-8037 spec changes for `bal-devnet-4`](https://github.com/ethereum/execution-specs/pull/2697) - 2026-04-16
+* [Review] [Review on: feat(spec-specs, tests): EIP-8037 - zero execution state gas on top-level failure](https://github.com/ethereum/execution-specs/pull/2689#pullrequestreview-4130500106) - 2026-04-17
+* [Pull Request] [feat(spec-specs, tests): EIP-8037 - immutable intrinsic state gas for EIP-7702](https://github.com/ethereum/execution-specs/pull/2711) - 2026-04-17
+* [Pull Request] [feat(spec-specs, tests): EIP-8037 - SELFDESTRUCT same-tx refunds state gas at end of tx](https://github.com/ethereum/execution-specs/pull/2707) - 2026-04-17
+* [Review] [Review on: feat(test-forks): Gas-limit-aware `Fork`, fork-aware `Environment`](https://github.com/ethereum/execution-specs/pull/2690#pullrequestreview-4129558599) - 2026-04-17
+* [Commit] [feat(ci, test-fill): make `--generate-all-formats` optional via `feature.yaml` (#2702)](https://github.com/ethereum/execution-specs/commit/40461a628755688dcd9ef1049d0f9cd2d06e879e) - 2026-04-17
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 
@@ -71,8 +76,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-8037: more state gas accounting changes](https://github.com/ethereum/EIPs/pull/11532) - 2026-04-16
 * [Review] [Review on: Update EIP-8037: Refund state gas on all frame failures including top level](https://github.com/ethereum/EIPs/pull/11476#pullrequestreview-4122384055) - 2026-04-16
 * [Review] [Review on: Update EIP-7708: add CREATE and CREATE2 to transfer log list](https://github.com/ethereum/EIPs/pull/11474#pullrequestreview-4121911607) - 2026-04-16
+* [Review] [Review on: Update EIP-8037: add per-dimension block gas limit check](https://github.com/ethereum/EIPs/pull/11536#pullrequestreview-4127995638) - 2026-04-17
+* [Commit] [Update EIP-8037: more state gas accounting changes](https://github.com/ethereum/EIPs/commit/4f0332706351a67eae4adf1bfac880dfb412d237) - 2026-04-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4112057595) - 2026-04-15
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: simulators/engine: make `SetBlock` robust for reorg chains](https://github.com/ethereum/hive/pull/1395#pullrequestreview-4129638641) - 2026-04-17
 ## Q1 2026
 
 

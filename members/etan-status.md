@@ -41,6 +41,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Remove unused current_slot param in fork_choice](https://github.com/status-im/nimbus-eth2/pull/8270) - 2026-04-14
 * [Pull Request] [Light client C API for creating beacon block header from REST](https://github.com/status-im/nimbus-eth2/pull/8276) - 2026-04-15
 * [Pull Request] [Avoid per-test TaskPool in fork choice tests](https://github.com/status-im/nimbus-eth2/pull/8279) - 2026-04-16
+* [Pull Request] [Add spec links for FCR logic](https://github.com/status-im/nimbus-eth2/pull/8282) - 2026-04-17
+* [Review] [Review on: use justified rather than fcr for engine API safe block hash](https://github.com/status-im/nimbus-eth2/pull/8280#pullrequestreview-4126751696) - 2026-04-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

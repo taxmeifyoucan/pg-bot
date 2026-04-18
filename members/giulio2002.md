@@ -37,6 +37,9 @@ Team: Erigon
 * [Review] [Review on: QA: re-enable debug_accountRange and debug_storageRangeAt RPC integration tests](https://github.com/erigontech/erigon/pull/20557#pullrequestreview-4108130180) - 2026-04-14
 * [Review] [Review on: ci: remove flaky eoa-transactions-test from caplin-minimal suite](https://github.com/erigontech/erigon/pull/20556#pullrequestreview-4106546072) - 2026-04-14
 * [Review] [Review on: db/recsplit/eliasfano32: fix searchUpperReverse off-by-one on no-solution fast path](https://github.com/erigontech/erigon/pull/20566#pullrequestreview-4112630427) - 2026-04-15
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 ## Q1 2026
 
 

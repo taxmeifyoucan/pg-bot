@@ -23,6 +23,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Queue Gloas data column sidecars arriving before their block](https://github.com/OffchainLabs/prysm/pull/16653#pullrequestreview-4104348510) - 2026-04-14
 * [Issue] [The Prysm beacon node consumes a lot of memory when calling the `/eth/v1/validator/duties/sync/<epoch>` endpoint for the current sync committee period.](https://github.com/OffchainLabs/prysm/issues/16686) - 2026-04-16
 * [Commit] [Pubkey cache: Use map+mutex instead of LRU cache (#16654)](https://github.com/OffchainLabs/prysm/commit/f0c7633c87413118eed1010c9d71022a3d1dc039) - 2026-04-16
+* [Review] [Review on: Validator block v4](https://github.com/OffchainLabs/prysm/pull/16594#pullrequestreview-4128469154) - 2026-04-17
+* [Pull Request] [Prevent expensive state replay when computing sync committees members for the current period](https://github.com/OffchainLabs/prysm/pull/16688) - 2026-04-17
+* [Review] [Review on: Prevent expensive state replay when computing sync committees members for the current period](https://github.com/OffchainLabs/prysm/pull/16688#pullrequestreview-4129544267) - 2026-04-17
+* [Commit] [Prevent expensive state replay when computing sync committees members for the current period (#16688)](https://github.com/OffchainLabs/prysm/commit/486e479a995b22a316c230926765c726a26398b2) - 2026-04-17
 ## Q1 2026
 
 

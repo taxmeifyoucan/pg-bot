@@ -53,6 +53,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Get block v4 (#16488)](https://github.com/OffchainLabs/prysm/commit/9069afc6d0275ed2877e1750a8350e028ab9bb8b) - 2026-04-14
 * [Review] [Review on: Implement defer payload processing](https://github.com/OffchainLabs/prysm/pull/16658#pullrequestreview-4117061975) - 2026-04-15
 * [Review] [Review on: Implement defer payload processing](https://github.com/OffchainLabs/prysm/pull/16658#pullrequestreview-4124577179) - 2026-04-16
+* [Review] [Review on: Validator block v4](https://github.com/OffchainLabs/prysm/pull/16594#pullrequestreview-4129468939) - 2026-04-17
+* [Pull Request] [fixing wrong path name in execution payload bid api](https://github.com/OffchainLabs/prysm/pull/16690) - 2026-04-17
+* [Commit] [Validator block v4 (#16594)](https://github.com/OffchainLabs/prysm/commit/495056625e4598ca654562a4807a68a178c33c85) - 2026-04-17
+* [Commit] [fixing wrong path name in execution payload bid api (#16690)](https://github.com/OffchainLabs/prysm/commit/c298c504ef754144850c508b5c2613dd92f43dc3) - 2026-04-17
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

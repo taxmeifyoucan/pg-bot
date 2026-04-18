@@ -49,6 +49,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: test: add custom opcode integration test](https://github.com/bluealloy/revm/pull/3576#pullrequestreview-4122382811) - 2026-04-16
 * [Review] [Review on: refactor: pass reservoir into `first_frame_input`](https://github.com/bluealloy/revm/pull/3578#pullrequestreview-4122070173) - 2026-04-16
 * [Commit] [fix(bal): record storage writes to zero for selfdestructed accounts (#3573)](https://github.com/bluealloy/revm/commit/89ecb25dbe49e1c3a10d99529e42f027d0bd2386) - 2026-04-16
+* [Pull Request] [refactor: thread reservoir through OOG constructors](https://github.com/bluealloy/revm/pull/3580) - 2026-04-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

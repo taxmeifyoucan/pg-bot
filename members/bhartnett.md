@@ -22,6 +22,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Parallel state root computation](https://github.com/status-im/nimbus-eth1/pull/3990) - 2026-04-16
 * [Commit] [Parallel state root computation (#3990)](https://github.com/status-im/nimbus-eth1/commit/8404c53fff3eaf6b859a4cd778bd93d3450c48fb) - 2026-04-16
 * [Commit] [Update nim-rocksdb to v10.10.1.0 (#4136)](https://github.com/status-im/nimbus-eth1/commit/cae554168d68c37e88b8e71f1974a6346709815d) - 2026-04-16
+* [Pull Request] [MPT rlp encoding helper templates](https://github.com/status-im/nimbus-eth1/pull/4145) - 2026-04-17
+* [Pull Request] [Update docker base images to include updated RocksDB](https://github.com/status-im/nimbus-eth1/pull/4144) - 2026-04-17
+* [Commit] [MPT rlp encoding helper templates (#4145)](https://github.com/status-im/nimbus-eth1/commit/74c672defd22f3255588a4691b29a45135489955) - 2026-04-17
+* [Commit] [Update docker base images to include updated RocksDB (#4144)](https://github.com/status-im/nimbus-eth1/commit/f2ad42dca544d60e73243678c6a86da7ed306390) - 2026-04-17
 ## Q1 2026
 
 

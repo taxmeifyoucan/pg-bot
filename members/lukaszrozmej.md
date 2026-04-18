@@ -137,6 +137,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(sync): restore ActivatedSyncFeed dispose guard](https://github.com/NethermindEth/nethermind/pull/11163#pullrequestreview-4118723850) - 2026-04-16
 * [Commit] [Enable IDE0320 analyzer for static lambdas (#11164)](https://github.com/NethermindEth/nethermind/commit/7019c854df595ab800ca6201b03aa70070ef0b0b) - 2026-04-16
 * [Commit] [fix: restrict health check UI to ports with health module enabled (#11167)](https://github.com/NethermindEth/nethermind/commit/91730107e1393a38448fcef8cb1eda35576f924a) - 2026-04-16
+* [Pull Request] [chore(tools): enforce code style in build, apply dotnet format](https://github.com/NethermindEth/nethermind/pull/11228) - 2026-04-17
+* [Review] [Review on: Add block building simulator tool](https://github.com/NethermindEth/nethermind/pull/10044#pullrequestreview-4130831671) - 2026-04-17
+* [Review] [Review on: chore: Change `codecov/project` status](https://github.com/NethermindEth/nethermind/pull/11227#pullrequestreview-4132454830) - 2026-04-17
+* [Pull Request] [test(sync): fix flaky StateSyncFeedTests timeout handling](https://github.com/NethermindEth/nethermind/pull/11226) - 2026-04-17
+* [Review] [Review on: Make BaseSnapshotManager disposable](https://github.com/NethermindEth/nethermind/pull/11198#pullrequestreview-4127798872) - 2026-04-17
+* [Pull Request] [fix(db): make RocksDbReader disposable, unify ReadOptions cleanup](https://github.com/NethermindEth/nethermind/pull/11197) - 2026-04-17
+* [Review] [Review on: Remove Eip-7907](https://github.com/NethermindEth/nethermind/pull/11199#pullrequestreview-4127453447) - 2026-04-17
+* [Review] [Review on: fix(db): dispose snapshot-owned RocksDB ReadOptions](https://github.com/NethermindEth/nethermind/pull/11196#pullrequestreview-4126000865) - 2026-04-17
+* [Commit] [fix(db): make RocksDbReader disposable, unify ReadOptions cleanup (#11197)](https://github.com/NethermindEth/nethermind/commit/7c1e46596364f1d57eedf58ab1b18dff8c8c2b3a) - 2026-04-17
+* [Commit] [fix: EIP-8024 missing immediate must decode as zero, not graceful STOP (#11178)](https://github.com/NethermindEth/nethermind/commit/43395761bfd5dee6d9809fa77ef45585772792f0) - 2026-04-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 ## Q1 2026

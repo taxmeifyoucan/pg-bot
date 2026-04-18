@@ -89,6 +89,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [seg: add rm-blocks command to remove latest block snapshot files](https://github.com/erigontech/erigon/pull/20554) - 2026-04-14
 * [Pull Request] [commitment, execctx: fix InsertBlocks failure during block catch-up](https://github.com/erigontech/erigon/pull/20546) - 2026-04-14
 * [Commit] [commitment, execctx: fix InsertBlocks failure during block catch-up (#20546)](https://github.com/erigontech/erigon/commit/ad7ea1e537da9d0424a034510106d6b01172ba84) - 2026-04-14
+* [Issue] [make StateRootVerifyByHistory faster](https://github.com/erigontech/erigon/issues/20612) - 2026-04-17
 ## Q1 2026
 
 

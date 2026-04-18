@@ -76,6 +76,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Filter fork/transition tests by output fork](https://github.com/ethereum/consensus-specs/pull/5119) - 2026-04-16
 * [Pull Request] [Remove mention of `block_access_list_root`](https://github.com/ethereum/consensus-specs/pull/5118) - 2026-04-16
 * [Commit] [Remove mention of `block_access_list_root` (#5118)](https://github.com/ethereum/consensus-specs/commit/3f394659ff7f735659ee2830d96d8f377a06491e) - 2026-04-16
+* [Review] [Review on: Fix `test_builder_payment_after_missed_epochs`](https://github.com/ethereum/consensus-specs/pull/5120#pullrequestreview-4125653547) - 2026-04-17
+* [Review] [Review on: Use `engine_getPayloadV6`](https://github.com/ethereum/consensus-specs/pull/5123#pullrequestreview-4129160715) - 2026-04-17
+* [Pull Request] [Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840) - 2026-04-17
+* [Review] [Review on: Faster comptests generation by re-using common test data](https://github.com/ethereum/consensus-specs/pull/5124#pullrequestreview-4128818342) - 2026-04-17
+* [Commit] [Fix `test_builder_payment_after_missed_epochs` (#5120)](https://github.com/ethereum/consensus-specs/commit/6df1220d3f9ec4564f3904c47ecffa72e6154230) - 2026-04-17
+* [Commit] [Filter fork/transition tests by output fork (#5119)](https://github.com/ethereum/consensus-specs/commit/61e83899d6650e6dbdbb06060fd28964e7460571) - 2026-04-17
+* [Commit] [Add `slot_number` to `PayloadAttributes` (EIP-7843) (#4840)](https://github.com/ethereum/consensus-specs/commit/08c91f4e9e81b3ee73f26485c72edae794ba1128) - 2026-04-17
+* [Commit] [Remove impossible builder already exited check (#5088)](https://github.com/ethereum/consensus-specs/commit/0fe57a94ca543f02cb5eee4d8aab8495e36c0b86) - 2026-04-17
+* [Commit] [Make test archives deterministic (#5122)](https://github.com/ethereum/consensus-specs/commit/84af1af849c5f32c4909bc58c721e10998f17ac7) - 2026-04-17
+* [Commit] [Fix some syntax warnings (#5121)](https://github.com/ethereum/consensus-specs/commit/02425c637311c056df6b392419eb17eda61c92f5) - 2026-04-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 ## Q1 2026

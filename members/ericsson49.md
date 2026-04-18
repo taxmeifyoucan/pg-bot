@@ -19,6 +19,8 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 * [Pull Request] [Fork Choice compliance test generator, Gloas update](https://github.com/ethereum/consensus-specs/pull/5107) - 2026-04-14
 * [Pull Request] [Add workflow for generating compliance tests](https://github.com/ethereum/consensus-specs/pull/5114) - 2026-04-15
 * [Commit] [Add workflow for generating compliance tests (#5114)](https://github.com/ethereum/consensus-specs/commit/ab1f6a9040a6a1e74e1a31b6151de99d12dc51df) - 2026-04-15
+* [Pull Request] [Faster comptests generation by re-using common test data](https://github.com/ethereum/consensus-specs/pull/5124) - 2026-04-17
+* [Commit] [Faster comptests generation by re-using common test data (#5124)](https://github.com/ethereum/consensus-specs/commit/780e678a3acd3214b970f7280f64d01197cbe1ff) - 2026-04-17
 ## Q1 2026
 
 

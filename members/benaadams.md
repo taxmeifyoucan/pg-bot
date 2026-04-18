@@ -55,6 +55,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(merge): validate safe/finalized as ancestors of new head](https://github.com/NethermindEth/nethermind/pull/11187#pullrequestreview-4124686829) - 2026-04-16
 * [Review] [Review on: fix(txpool): fix stale pending transaction snapshot after head update](https://github.com/NethermindEth/nethermind/pull/10604#pullrequestreview-4120490127) - 2026-04-16
 * [Issue] [`engine_forkchoiceUpdated` rejects valid FCU with `-38002 Inconsistent ForkChoiceState - safe block hash`](https://github.com/NethermindEth/nethermind/issues/11185) - 2026-04-16
+* [Review] [Review on: ci: Auto-run Claude review and gate merges on verdict](https://github.com/NethermindEth/nethermind/pull/11150#pullrequestreview-4127534279) - 2026-04-17
+* [Review] [Review on: fix(db): make RocksDbReader disposable, unify ReadOptions cleanup](https://github.com/NethermindEth/nethermind/pull/11197#pullrequestreview-4128062746) - 2026-04-17
+* [Pull Request] [Remove Eip-7907](https://github.com/NethermindEth/nethermind/pull/11199) - 2026-04-17
+* [Review] [Review on: Remove Eip-7907](https://github.com/NethermindEth/nethermind/pull/11199#pullrequestreview-4127447624) - 2026-04-17
+* [Review] [Review on: Remove tracer dependency from ValidateGas](https://github.com/NethermindEth/nethermind/pull/11182#pullrequestreview-4127046466) - 2026-04-17
+* [Review] [Review on: fix: EIP-8024 missing immediate must decode as zero, not graceful STOP](https://github.com/NethermindEth/nethermind/pull/11178#pullrequestreview-4127093023) - 2026-04-17
+* [Review] [Review on: Use BAL manager unconditionally](https://github.com/NethermindEth/nethermind/pull/11181#pullrequestreview-4127029702) - 2026-04-17
+* [Commit] [Remove Eip-7907 (#11199)](https://github.com/NethermindEth/nethermind/commit/794f03da6cfb9c03f33bde01efa87b1fb581df65) - 2026-04-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

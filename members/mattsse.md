@@ -124,6 +124,15 @@ Team: Reth
 * [Review] [Review on: refactor(execution-cache): wrap SavedCache in Arc<SavedCacheInner>](https://github.com/paradigmxyz/reth/pull/23557#pullrequestreview-4120124348) - 2026-04-16
 * [Review] [Review on: chore(deps): bump actions/upload-pages-artifact from 4 to 5](https://github.com/paradigmxyz/reth/pull/23572#pullrequestreview-4119985592) - 2026-04-16
 * [Review] [Review on: chore(deps): bump actions/github-script from 8 to 9](https://github.com/paradigmxyz/reth/pull/23571#pullrequestreview-4119984168) - 2026-04-16
+* [Review] [Review on: feat(bal): scaffold BAL store abstraction](https://github.com/paradigmxyz/reth/pull/23596#pullrequestreview-4127252532) - 2026-04-17
+* [Review] [Review on: fix: don't cache stateful precompiles](https://github.com/paradigmxyz/reth/pull/23619#pullrequestreview-4130416185) - 2026-04-17
+* [Review] [Review on: feat(engine): suppress persistence during payload building](https://github.com/paradigmxyz/reth/pull/23618#pullrequestreview-4130511146) - 2026-04-17
+* [Review] [Review on: fix(txpool,rpc): skip tx gas limit cap enforcement when EIP-8037 is active](https://github.com/paradigmxyz/reth/pull/23612#pullrequestreview-4129574727) - 2026-04-17
+* [Review] [Review on: refactor(rpc): accept BlockId in block_access_list_raw](https://github.com/paradigmxyz/reth/pull/23615#pullrequestreview-4129463093) - 2026-04-17
+* [Pull Request] [feat(net): add snap/2 wire helpers and messages](https://github.com/paradigmxyz/reth/pull/23611) - 2026-04-17
+* [Review] [Review on: chore(BAL): add eth bal rpc methods to EngineEth](https://github.com/paradigmxyz/reth/pull/23609#pullrequestreview-4128045259) - 2026-04-17
+* [Review] [Review on: feat(BAL): use new engine-api methods in bench](https://github.com/paradigmxyz/reth/pull/23517#pullrequestreview-4128059277) - 2026-04-17
+* [Review] [Review on: fix(rpc): don't cap eth_simulateV1 blockOverrides.gasLimit by --rpc.gascap](https://github.com/paradigmxyz/reth/pull/23601#pullrequestreview-4127127600) - 2026-04-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

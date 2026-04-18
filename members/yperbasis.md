@@ -150,6 +150,22 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] db/state: fix collation/pruning race and unwind visibility in BuildFilesInBackground](https://github.com/erigontech/erigon/pull/20594#pullrequestreview-4119949445) - 2026-04-16
 * [Commit] [stagedsync: enforce strict BAL validation during fork validation (EIP-7928) (#20581)](https://github.com/erigontech/erigon/commit/9920b87161f261588a9b7f9867a42c9042dbdcba) - 2026-04-16
 * [Commit] [db/state: fix collation/pruning race and unwind visibility in BuildFilesInBackground (#20445)](https://github.com/erigontech/erigon/commit/16ac9850b70d51c235049b9d106ba0fa08735c15) - 2026-04-16
+* [Review] [Review on: execution/tracers: emit empty code in diff mode for EIP-7702 deauthorization](https://github.com/erigontech/erigon/pull/20601#pullrequestreview-4127738636) - 2026-04-17
+* [Pull Request] [state: clear newlyCreated in SoftFinalise](https://github.com/erigontech/erigon/pull/20626) - 2026-04-17
+* [Review] [Review on: db/state: restore empty tombstones on unwind and honor them in getLatestFromDb](https://github.com/erigontech/erigon/pull/20627#pullrequestreview-4130057274) - 2026-04-17
+* [Review] [Review on: [DO-NOT-MERGE] execution: implement EIP-7976 ](https://github.com/erigontech/erigon/pull/20613#pullrequestreview-4127763270) - 2026-04-17
+* [Review] [Review on: node/eth, db/downloader: gate chain.toml v2 publish paths behind --snap.p2p-manifest](https://github.com/erigontech/erigon/pull/20615#pullrequestreview-4128858913) - 2026-04-17
+* [Review] [Review on: execution/vm: report invalid EIP-8024 stack-op operands in ErrInvalidOpCode](https://github.com/erigontech/erigon/pull/20529#pullrequestreview-4128197679) - 2026-04-17
+* [Pull Request] [cmd/utils, p2p/sentry: honor explicit empty --bootnodes](https://github.com/erigontech/erigon/pull/20630) - 2026-04-17
+* [Review] [Review on: db/kv/membatchwithdb: delegate HistorySeek / HistoryRange to backing tx](https://github.com/erigontech/erigon/pull/20624#pullrequestreview-4128881047) - 2026-04-17
+* [Pull Request] [[DO-NOT-MERGE] enable ExperimentalBAL and Exec3Parallel by default](https://github.com/erigontech/erigon/pull/20621) - 2026-04-17
+* [Review] [Review on: execution: fix simulated call defaults under Osaka](https://github.com/erigontech/erigon/pull/19997#pullrequestreview-4128283917) - 2026-04-17
+* [Review] [Review on: txpool: propagate sender info read errors in validateTx](https://github.com/erigontech/erigon/pull/20239#pullrequestreview-4128248063) - 2026-04-17
+* [Review] [Review on: fix(execution,rpc): fix Osaka defaults for simulated calls](https://github.com/erigontech/erigon/pull/20026#pullrequestreview-4128204046) - 2026-04-17
+* [Review] [Review on: rpc: add canonical hash cache](https://github.com/erigontech/erigon/pull/19173#pullrequestreview-4128186955) - 2026-04-17
+* [Issue] [EIP-7928: zero-balance SELFDESTRUCT beneficiary missing from BAL](https://github.com/erigontech/erigon/issues/20620) - 2026-04-17
+* [Commit] [execution: enforce strict BAL validation (EIP-7928) (#20602)](https://github.com/erigontech/erigon/commit/72bb8231fbb93b7f53c276ba90ed452d38e82e40) - 2026-04-17
+* [Commit] [ci: add Glamsterdam devnet shard to hive-eest workflow (#20603)](https://github.com/erigontech/erigon/commit/20ab9958c270c030bdd264b56823bd8142de112b) - 2026-04-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
@@ -160,6 +176,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [fix nil pointer panic in check_consensus_sync_status](https://github.com/ethpandaops/assertoor/pull/157) - 2026-04-11
 * [Commit] [getClientInfo: early return with explicit fields on nil syncStatus](https://github.com/ethpandaops/assertoor/commit/f2c7f0c443a54c06bca5abd839e6e99f9b6f619c) - 2026-04-12
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients/erigon: fix discv5 test isolation](https://github.com/ethereum/hive/pull/1427) - 2026-04-17
 ## Q1 2026
 
 

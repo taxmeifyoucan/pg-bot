@@ -14,6 +14,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [modules/rhp: faster fail with poisoned pointer](https://github.com/NethermindEth/bflat-riscv64/commit/607cf57b1ddfe3a71d615ed83d269f83ce30951d) - 2026-04-03
 * [Commit] [ExtLibResolver: base on manifest path rather than package root](https://github.com/NethermindEth/bflat-riscv64/commit/e8ad324f7c2bd038197aac9aa82436005ef47777) - 2026-04-11
 
+* [Commit] [Attempt to solve GVM issue](https://github.com/NethermindEth/bflat-riscv64/commit/308933fe808eaab52f965e0c7c6f1b767fe12988) - 2026-04-17
+* [Commit] [Bypass Type Loader lock](https://github.com/NethermindEth/bflat-riscv64/commit/0eb57633416a614c8c7ae2edda373ff60e226998) - 2026-04-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 ## Q1 2026
