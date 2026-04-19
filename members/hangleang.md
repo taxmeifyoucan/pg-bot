@@ -23,6 +23,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Validate payload envelope through processing](https://github.com/grandinetech/grandine/pull/662) - 2026-04-08
 * [Pull Request] [Remove `validate_execution_payload_envelope_with_state`](https://github.com/grandinetech/grandine/pull/664) - 2026-04-09
 * [Review] [Review on: Validate payload envelope through processing](https://github.com/grandinetech/grandine/pull/662#pullrequestreview-4082418251) - 2026-04-09
+* [Review] [Review on: Refactor `validate_data_column_sidecar_with_state` function](https://github.com/grandinetech/grandine/pull/657#pullrequestreview-4133981588) - 2026-04-18
 ## Q1 2026
 
 

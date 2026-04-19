@@ -166,6 +166,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [EIP-7928: zero-balance SELFDESTRUCT beneficiary missing from BAL](https://github.com/erigontech/erigon/issues/20620) - 2026-04-17
 * [Commit] [execution: enforce strict BAL validation (EIP-7928) (#20602)](https://github.com/erigontech/erigon/commit/72bb8231fbb93b7f53c276ba90ed452d38e82e40) - 2026-04-17
 * [Commit] [ci: add Glamsterdam devnet shard to hive-eest workflow (#20603)](https://github.com/erigontech/erigon/commit/20ab9958c270c030bdd264b56823bd8142de112b) - 2026-04-17
+* [Pull Request] [state, stagedsync: fix parallel-executor BAL non-determinism in finalizeWithIBS](https://github.com/erigontech/erigon/pull/20660) - 2026-04-18
+* [Pull Request] [ci: make assertoor_glamsterdam_test non-gating](https://github.com/erigontech/erigon/pull/20642) - 2026-04-18
+* [Commit] [cmd/utils, p2p/sentry: honor explicit empty --bootnodes (#20630)](https://github.com/erigontech/erigon/commit/d32e562db8769248c5efb0bf094f472b770f3732) - 2026-04-18
+* [Commit] [ci: make assertoor_glamsterdam_test non-gating (#20642)](https://github.com/erigontech/erigon/commit/04e11fbe80e61696b13033e10f711c6dc37b26b5) - 2026-04-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

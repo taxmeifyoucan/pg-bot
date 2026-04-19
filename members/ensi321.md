@@ -40,6 +40,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Only give proposer boost to canonical proposer](https://github.com/ChainSafe/lodestar/issues/9230) - 2026-04-18
 * [Commit] [refactor: revert dual-state from regen, block production, and metrics (#9218)](https://github.com/ChainSafe/lodestar/commit/433e692fd99ad61b9076a0d91a8fe0f9ebdb6dad) - 2026-04-17
 * [Commit] [feat: unskip gloas fork choice spec tests (#9222)](https://github.com/ChainSafe/lodestar/commit/5f9285892c1f9cad7bc0ec7b41c1909498a91466) - 2026-04-17
+* [Pull Request] [feat: implement should_apply_proposer_boost for gloas](https://github.com/ChainSafe/lodestar/pull/9233) - 2026-04-18
+* [Issue] [Gloas: also count weight from equivocating committee members when determining if head is weak](https://github.com/ChainSafe/lodestar/issues/9232) - 2026-04-18
+* [Issue] [Proposer reorg blocks if `is_proposer_equivocation`](https://github.com/ChainSafe/lodestar/issues/9231) - 2026-04-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 

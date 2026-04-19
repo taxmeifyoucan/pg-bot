@@ -63,6 +63,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: EIP-8024 missing immediate must decode as zero, not graceful STOP](https://github.com/NethermindEth/nethermind/pull/11178#pullrequestreview-4127093023) - 2026-04-17
 * [Review] [Review on: Use BAL manager unconditionally](https://github.com/NethermindEth/nethermind/pull/11181#pullrequestreview-4127029702) - 2026-04-17
 * [Commit] [Remove Eip-7907 (#11199)](https://github.com/NethermindEth/nethermind/commit/794f03da6cfb9c03f33bde01efa87b1fb581df65) - 2026-04-17
+* [Pull Request] [Optimize stack](https://github.com/NethermindEth/nethermind/pull/11230) - 2026-04-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

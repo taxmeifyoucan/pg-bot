@@ -74,6 +74,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [feat: bus-based cross-AIR interactions and lookup crate redesign](https://github.com/Plonky3/Plonky3/pull/1566) - 2026-04-17
 * [Review] [Review on: bench: route Goldilocks packed benches via HashPackedGoldilocks](https://github.com/Plonky3/Plonky3/pull/1564#pullrequestreview-4129800808) - 2026-04-17
 * [Pull Request] [feat(sha256-air): add SHA-256 compression AIR crate](https://github.com/Plonky3/Plonky3/pull/1563) - 2026-04-17
+* [Review] [Review on: perf(interpolation): optimize barycentric weights via algebraic identity](https://github.com/Plonky3/Plonky3/pull/1553#pullrequestreview-4134708582) - 2026-04-18
 ## Q1 2026
 
 

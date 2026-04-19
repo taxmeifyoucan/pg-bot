@@ -147,6 +147,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(db): dispose snapshot-owned RocksDB ReadOptions](https://github.com/NethermindEth/nethermind/pull/11196#pullrequestreview-4126000865) - 2026-04-17
 * [Commit] [fix(db): make RocksDbReader disposable, unify ReadOptions cleanup (#11197)](https://github.com/NethermindEth/nethermind/commit/7c1e46596364f1d57eedf58ab1b18dff8c8c2b3a) - 2026-04-17
 * [Commit] [fix: EIP-8024 missing immediate must decode as zero, not graceful STOP (#11178)](https://github.com/NethermindEth/nethermind/commit/43395761bfd5dee6d9809fa77ef45585772792f0) - 2026-04-17
+* [Review] [Review on: ZiskGuest: update bflat to v17.1.0 image (GVM improvements)](https://github.com/NethermindEth/nethermind/pull/11235#pullrequestreview-4135302840) - 2026-04-19
+* [Review] [Review on: ZiskGuest: enable stacktrace data to facilitate possible GVM resolution](https://github.com/NethermindEth/nethermind/pull/11234#pullrequestreview-4135170285) - 2026-04-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 ## Q1 2026

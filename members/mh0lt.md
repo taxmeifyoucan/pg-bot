@@ -80,6 +80,10 @@ Team: Erigon
 * [Issue] [chain.toml V2 baseline: what ships first (PR #20527)](https://github.com/erigontech/erigon/issues/20618) - 2026-04-17
 * [Commit] [db/state: prune TemporalMemBatch overlay entries past unwindToTxNum (#20625)](https://github.com/erigontech/erigon/commit/2698b381bbae5b2d9b912f2bdc262bbecf03b7b6) - 2026-04-17
 * [Commit] [node/eth, db/downloader: gate chain.toml v2 publish paths behind --snap.p2p-manifest (#20615)](https://github.com/erigontech/erigon/commit/5d6a5ac584bc15ae69a6d4b652bcfa690d0b9000) - 2026-04-17
+* [Commit] [node/components/storage: extract storage component from backend.go (#20476)](https://github.com/erigontech/erigon/commit/8d1883ebd10a1cd9f50fda218094e02120a2ee51) - 2026-04-18
+* [Commit] [db/kv/membatchwithdb: delegate HistorySeek / HistoryRange to backing tx (#20624)](https://github.com/erigontech/erigon/commit/a5fb044db5fa8195892d88fa74f0345c060f4cec) - 2026-04-18
+* [Commit] [node/components: extract downloader from backend.go, add event guidelines (#20471)](https://github.com/erigontech/erigon/commit/56ea4a2ffb93ee4ec51a1c7f59134f1b1d0e50ac) - 2026-04-18
+* [Commit] [db/state: restore empty tombstones on unwind and honor them in getLatestFromDb (#20627)](https://github.com/erigontech/erigon/commit/d593fd35361553f572b510f4698a49db82769bf9) - 2026-04-18
 ## Q1 2026
 
 

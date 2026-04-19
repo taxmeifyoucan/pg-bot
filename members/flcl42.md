@@ -59,11 +59,14 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: ci: Auto-run Claude review and gate merges on verdict](https://github.com/NethermindEth/nethermind/pull/11150#pullrequestreview-4127691930) - 2026-04-17
 * [Review] [Review on: Remove tracer dependency from ValidateGas](https://github.com/NethermindEth/nethermind/pull/11182#pullrequestreview-4127504419) - 2026-04-17
 * [Commit] [Fix amsterdam hive tests (#11151)](https://github.com/NethermindEth/nethermind/commit/6e5b9481100691e07377163cbce813c49d7cf343) - 2026-04-17
+* [Pull Request] [Require account-only BAL reads](https://github.com/NethermindEth/nethermind/pull/11229) - 2026-04-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add account-only BAL invalid test](https://github.com/ethereum/execution-specs/pull/2712) - 2026-04-17
+* [Pull Request] [feat(spec-specs, tests): add system address BAL tests](https://github.com/ethereum/execution-specs/pull/2715) - 2026-04-18
+* [Commit] [feat(spec-specs, tests): add account-only BAL invalid test (#2712)](https://github.com/ethereum/execution-specs/commit/e8f01a69d055409e4f91fbec6f9e264c8cd77174) - 2026-04-18
 ## Q1 2026
 
 

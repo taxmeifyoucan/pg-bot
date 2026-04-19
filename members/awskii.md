@@ -83,6 +83,7 @@ Team: Erigon
 * [Issue] [`valueTransform` function is faulty: claimed that for old snapshots referencing rate is around 50%](https://github.com/erigontech/erigon/issues/20582) - 2026-04-15
 * [Issue] [txpool: `getCachedBlobTxnLocked` - `MDBX_BAD_VALSIZE`](https://github.com/erigontech/erigon/issues/20580) - 2026-04-15
 * [Pull Request] [commitment: parallelize deref domain calculation](https://github.com/erigontech/erigon/pull/20622) - 2026-04-17
+* [Commit] [add CL attribute tag to log (#20588)](https://github.com/erigontech/erigon/commit/db6c8b8f06f53d6f7c324db0da220691bfe15383) - 2026-04-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

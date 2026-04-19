@@ -50,6 +50,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Commit] [Add MULMOD to EVMv2 (#10168)](https://github.com/besu-eth/besu/commit/fad1968000e4a7ca3bece9180535f81b8a65486c) - 2026-04-16
 * [Pull Request] [Increase disconnect await timeout in flaky P2P rejection tests](https://github.com/besu-eth/besu/pull/10267) - 2026-04-17
 * [Pull Request] [EVMv2 AddOperationV2](https://github.com/besu-eth/besu/pull/10255) - 2026-04-17
+* [Review] [Review on: Minor Mulmod v2 refactor](https://github.com/besu-eth/besu/pull/10253#pullrequestreview-4133921012) - 2026-04-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

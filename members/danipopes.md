@@ -179,6 +179,9 @@ Team: Reth
 * [Pull Request] [feat(bytecode): add ANSI syntax highlighting to IR display](https://github.com/paradigmxyz/revmc/pull/301) - 2026-04-17
 * [Commit] [chore(deps): bump revm (#302)](https://github.com/paradigmxyz/revmc/commit/d627e937799c72d7d13210019d1b60e00eb83df0) - 2026-04-17
 * [Commit] [feat(bytecode): add ANSI syntax highlighting to IR display (#301)](https://github.com/paradigmxyz/revmc/commit/e0d50cfb74bc885d8f096c3c03b283ea8ff45baf) - 2026-04-17
+* [Pull Request] [perf: simpler return builtins](https://github.com/paradigmxyz/revmc/pull/304) - 2026-04-18
+* [Commit] [perf: simpler return builtins (#304)](https://github.com/paradigmxyz/revmc/commit/647076eabc66b75fb5020e0902605c47ec88226f) - 2026-04-19
+* [Commit] [test: expand state test coverage to match revm (#303)](https://github.com/paradigmxyz/revmc/commit/975dde3401799dbee35b931ad87923348df3574c) - 2026-04-18
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -195,6 +198,7 @@ Team: Reth
 * [Review] [Review on: chore(bench): pin junk to last core, give reth the big-cache CCD](https://github.com/paradigmxyz/reth/pull/23530#pullrequestreview-4113172380) - 2026-04-15
 * [Review] [Review on: refactor(provider): simplify get_overlay cache miss tracking](https://github.com/paradigmxyz/reth/pull/23584#pullrequestreview-4121659959) - 2026-04-16
 * [Review] [Review on: ci: use reth 2.0 banner image in release draft](https://github.com/paradigmxyz/reth/pull/23404#pullrequestreview-4129606329) - 2026-04-17
+* [Review] [Review on: refactor(tasks): make WorkerPool lazy by default](https://github.com/paradigmxyz/reth/pull/23627#pullrequestreview-4134899873) - 2026-04-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

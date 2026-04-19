@@ -17,6 +17,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Fix CI: downgrade Requests to 2.32.5 for Python 3.9 compatibility](https://github.com/ethereum/pm/commit/b8ce2627f82c7790432c37c2b66c0083ee61c96d) - 2026-04-01
 * [Issue] [All Core Devs - Execution (ACDE) #234, April 9, 2026](https://github.com/ethereum/pm/issues/2004) - 2026-04-04
 * [Issue] [All Core Devs - Execution (ACDE) #235, April 23, 2026](https://github.com/ethereum/pm/issues/2015) - 2026-04-11
+* [Issue] [All Core Devs - Consensus (ACDC) #178, Apr 30, 2026](https://github.com/ethereum/pm/issues/2028) - 2026-04-18
 ## Q1 2026
 
 

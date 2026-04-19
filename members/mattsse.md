@@ -133,6 +133,12 @@ Team: Reth
 * [Review] [Review on: chore(BAL): add eth bal rpc methods to EngineEth](https://github.com/paradigmxyz/reth/pull/23609#pullrequestreview-4128045259) - 2026-04-17
 * [Review] [Review on: feat(BAL): use new engine-api methods in bench](https://github.com/paradigmxyz/reth/pull/23517#pullrequestreview-4128059277) - 2026-04-17
 * [Review] [Review on: fix(rpc): don't cap eth_simulateV1 blockOverrides.gasLimit by --rpc.gascap](https://github.com/paradigmxyz/reth/pull/23601#pullrequestreview-4127127600) - 2026-04-17
+* [Review] [Review on: chore: add slotnum to payload](https://github.com/paradigmxyz/reth/pull/23626#pullrequestreview-4134604811) - 2026-04-18
+* [Review] [Review on: chore(BAL): added bal boundary checking](https://github.com/paradigmxyz/reth/pull/23623#pullrequestreview-4134474035) - 2026-04-18
+* [Pull Request] [fix(engine): align Amsterdam endpoint validation](https://github.com/paradigmxyz/reth/pull/23625) - 2026-04-18
+* [Review] [Review on: chore: added gas limit to BlockOrPayload](https://github.com/paradigmxyz/reth/pull/23624#pullrequestreview-4134535635) - 2026-04-18
+* [Review] [Review on: chore: refactored slotnum in pending block env](https://github.com/paradigmxyz/reth/pull/23606#pullrequestreview-4134473290) - 2026-04-18
+* [Review] [Review on: perf(re-execute): relax executor reset thresholds](https://github.com/paradigmxyz/reth/pull/23617#pullrequestreview-4133511421) - 2026-04-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

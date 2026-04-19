@@ -28,6 +28,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [fix(specs,tests): EIP-7981 - Update implementation and specs](https://github.com/ethereum/execution-specs/pull/2682) - 2026-04-15
 * [Commit] [feat(tests): add test for worst-case prefetcher performance (#2657)](https://github.com/ethereum/execution-specs/commit/132c09d48bce13d063cbaee5e490b13fa63726c6) - 2026-04-15
 
+* [Pull Request] [feat(specs,tests): EIP-7928 - Update BAL index to uint64](https://github.com/ethereum/execution-specs/pull/2713) - 2026-04-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use `engine_getPayloadV6`](https://github.com/ethereum/consensus-specs/pull/5123) - 2026-04-17
 * [Commit] [Use `engine_getPayloadV6` (#5123)](https://github.com/ethereum/consensus-specs/commit/81c27174232bedc50f71c2c4b78b07e2951252cd) - 2026-04-17

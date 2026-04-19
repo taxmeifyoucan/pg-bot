@@ -257,6 +257,29 @@ Team: Erigon
 * [Issue] [`integrity`: to run under 30min on snapshotter servers](https://github.com/erigontech/erigon/issues/20634) - 2026-04-18
 * [Issue] [p2p: debug logs spam](https://github.com/erigontech/erigon/issues/20633) - 2026-04-18
 * [Commit] [vm: opcode-scoped intern cache on CallContext to eliminate duplicate `unique.Make()` (#20552)](https://github.com/erigontech/erigon/commit/3736b881c1b274800db24b49afb7dda91e826737) - 2026-04-17
+* [Review] [Review on: rpc: fix testing build block v1 according Hive Test](https://github.com/erigontech/erigon/pull/20592#pullrequestreview-4135342842) - 2026-04-19
+* [Pull Request] [cherry-pick 10 commits from release/3.4 to main](https://github.com/erigontech/erigon/pull/20658) - 2026-04-18
+* [Pull Request] [cl/p2p: move logging outside of mutexes. demote several Debug to Trace - to reduce mutex contention](https://github.com/erigontech/erigon/pull/20659) - 2026-04-18
+* [Pull Request] [[wip] rs: sharded fusefilter v1](https://github.com/erigontech/erigon/pull/20645) - 2026-04-18
+* [Pull Request] [[wip] rs: sharded fusefilter v2](https://github.com/erigontech/erigon/pull/20644) - 2026-04-18
+* [Pull Request] [Revert "logger: avoid mutex contention"](https://github.com/erigontech/erigon/pull/20654) - 2026-04-18
+* [Review] [Review on: cmd/evm: fix false panic in benchmark error comparison](https://github.com/erigontech/erigon/pull/20611#pullrequestreview-4134159499) - 2026-04-18
+* [Pull Request] [modify `app.go`: `v3.4.0-rc.2`](https://github.com/erigontech/erigon/pull/20649) - 2026-04-18
+* [Pull Request] [Revert "[r3.4] logger: avoid mutex contention"](https://github.com/erigontech/erigon/pull/20652) - 2026-04-18
+* [Pull Request] [Revert "logger: avoid mutex contention"](https://github.com/erigontech/erigon/pull/20653) - 2026-04-18
+* [Pull Request] [ci: trigger CI Gate check on main](https://github.com/erigontech/erigon/pull/20641) - 2026-04-18
+* [Pull Request] [[wip] recsplit: off-heap EliasFano build](https://github.com/erigontech/erigon/pull/20640) - 2026-04-18
+* [Review] [Review on: commitment: parallelize deref domain calculation](https://github.com/erigontech/erigon/pull/20622#pullrequestreview-4133303343) - 2026-04-18
+* [Pull Request] [revert: prune: use `Put(Current)` mdbx's method instead of `DelCurrent+Put`](https://github.com/erigontech/erigon/pull/20643) - 2026-04-18
+* [Review] [Review on: db/state: restore empty tombstones on unwind and honor them in getLatestFromDb](https://github.com/erigontech/erigon/pull/20627#pullrequestreview-4133363283) - 2026-04-18
+* [Issue] [gnosis: deadlock part3](https://github.com/erigontech/erigon/issues/20661) - 2026-04-19
+* [Issue] [change cpu governor for snapshotters](https://github.com/erigontech/erigon/issues/20655) - 2026-04-18
+* [Issue] [release.yml: to eliminate manual editing of app.go](https://github.com/erigontech/erigon/issues/20650) - 2026-04-18
+* [Issue] [release.yml: git tag created before sanity checks](https://github.com/erigontech/erigon/issues/20648) - 2026-04-18
+* [Issue] [Merge: impacting chain-tip](https://github.com/erigontech/erigon/issues/20638) - 2026-04-18
+* [Issue] [txpool: long living rotx](https://github.com/erigontech/erigon/issues/20651) - 2026-04-18
+* [Commit] [Revert "logger: avoid mutex contention" (#20654)](https://github.com/erigontech/erigon/commit/007fd543a90e39bacf6dfcb1af333e7be139d9db) - 2026-04-18
+* [Commit] [tests: speed up slow tests via parallelism and context deadlines (#20563)](https://github.com/erigontech/erigon/commit/eb05e7a81d84362b6624fbf6ad840a5abe5d5120) - 2026-04-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

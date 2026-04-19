@@ -26,6 +26,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [Gnosis archive sync - Invalid block on master](https://github.com/NethermindEth/nethermind/issues/11193) - 2026-04-16
 * [Issue] [Trie exceptions from Block 1 on op-mainnet archive sync on master](https://github.com/NethermindEth/nethermind/issues/11194) - 2026-04-16
 * [Commit] [ci: bump mainnet Flat sync timeout to 6h in sync-master-validation (#11195)](https://github.com/NethermindEth/nethermind/commit/c6ea4bf101752bdfbf5951258d7e6a811cdb76e3) - 2026-04-16
+* [Pull Request] [Remove joc from sync actions](https://github.com/NethermindEth/nethermind/pull/11236) - 2026-04-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

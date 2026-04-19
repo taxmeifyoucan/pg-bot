@@ -18,6 +18,12 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Bypass Type Loader lock](https://github.com/NethermindEth/bflat-riscv64/commit/0eb57633416a614c8c7ae2edda373ff60e226998) - 2026-04-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [ZiskGuest: update bflat to v17.1.0 image (GVM improvements)](https://github.com/NethermindEth/nethermind/pull/11235) - 2026-04-18
+* [Pull Request] [ZiskGuest: enable stacktrace data to facilitate possible GVM resolution](https://github.com/NethermindEth/nethermind/pull/11234) - 2026-04-18
+* [Commit] [ZiskGuest: update bflat to v17.1.0 image (GVM improvements)](https://github.com/NethermindEth/nethermind/commit/0a7ca7a0f9d7ea17b4dbd8095a46bdbb762f1b41) - 2026-04-19
+* [Commit] [ZiskGuest: enable stacktrace data to facilitate possible GVM resolution](https://github.com/NethermindEth/nethermind/commit/5160c3e8c544594fcde8f78cce38bc9a8ab6c8ef) - 2026-04-18
 ## Q1 2026
 
 
