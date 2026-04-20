@@ -53,10 +53,18 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm unused func/proc params](https://github.com/status-im/nimbus-eth2/pull/8281) - 2026-04-17
 * [Pull Request] [add fulu block signing node test](https://github.com/status-im/nimbus-eth2/pull/8286) - 2026-04-18
 * [Review] [Review on: implement proposer preferences sending](https://github.com/status-im/nimbus-eth2/pull/8284#pullrequestreview-4133849976) - 2026-04-18
+* [Review] [Review on: Gloas update v1.7.0-alpha.5](https://github.com/status-im/nimbus-eth2/pull/8285#pullrequestreview-4136374820) - 2026-04-19
+* [Review] [Review on: clarify some naming conventions](https://github.com/status-im/nimbus-eth2/pull/8287#pullrequestreview-4135770408) - 2026-04-19
+* [Review] [Review on: implement proposer preferences sending](https://github.com/status-im/nimbus-eth2/pull/8284#pullrequestreview-4136258404) - 2026-04-19
+* [Review] [Review on: Fix add missing enr](https://github.com/status-im/nimbus-eth2/pull/8273#pullrequestreview-4136145379) - 2026-04-19
+* [Review] [Review on: Fix Gloas clearance](https://github.com/status-im/nimbus-eth2/pull/8091#pullrequestreview-4136003854) - 2026-04-19
+* [Pull Request] [ensure some consensus spec not-actually-constants aren't used](https://github.com/status-im/nimbus-eth2/pull/8288) - 2026-04-19
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
 
+* [Pull Request] [Revert "build(deps): bump vendor/nimcrypto from `dbe36fa` to `b3dbc9c`"](https://github.com/status-im/nimbus-eth1/pull/4149) - 2026-04-19
+* [Commit] [Revert "build(deps): bump vendor/nimcrypto from `dbe36fa` to `b3dbc9c` (#4129)" (#4149)](https://github.com/status-im/nimbus-eth1/commit/b548086a1338dd590d0e34d07d8008d501ae98a1) - 2026-04-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 ## Q1 2026

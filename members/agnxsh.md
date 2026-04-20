@@ -16,6 +16,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Replace Fulu data column GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8230#pullrequestreview-4093612503) - 2026-04-11
 * [Pull Request] [add tests and function to batch kzg verify](https://github.com/status-im/nimbus-eth2/pull/8275) - 2026-04-15
 * [Pull Request] [add batch deletion of columns with test](https://github.com/status-im/nimbus-eth2/pull/8283) - 2026-04-17
+* [Pull Request] [clarify some naming conventions](https://github.com/status-im/nimbus-eth2/pull/8287) - 2026-04-19
 ## Q1 2026
 
 

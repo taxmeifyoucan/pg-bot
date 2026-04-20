@@ -43,6 +43,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(spec-specs, tests): EIP-8037 - SELFDESTRUCT same-tx refunds state gas at end of tx](https://github.com/ethereum/execution-specs/pull/2707) - 2026-04-17
 * [Review] [Review on: feat(test-forks): Gas-limit-aware `Fork`, fork-aware `Environment`](https://github.com/ethereum/execution-specs/pull/2690#pullrequestreview-4129558599) - 2026-04-17
 * [Commit] [feat(ci, test-fill): make `--generate-all-formats` optional via `feature.yaml` (#2702)](https://github.com/ethereum/execution-specs/commit/40461a628755688dcd9ef1049d0f9cd2d06e879e) - 2026-04-17
+* [Pull Request] [feat(tests): EIP-8037 additional state gas coverage + regression fix from devnet-4 merges](https://github.com/ethereum/execution-specs/pull/2718) - 2026-04-19
+* [Pull Request] [feat(tests): EIP-7708 - finalization burn log ordering + coinbase fee no-log](https://github.com/ethereum/execution-specs/pull/2717) - 2026-04-19
+* [Review] [Review on: feat(tests): EIP-8037 - CALL with value to selfdestructed account](https://github.com/ethereum/execution-specs/pull/2646#pullrequestreview-4135979256) - 2026-04-19
+* [Review] [Review on: feat(spec-specs, tests): EIP-8037 - per-dimension block gas limit check at tx inclusion](https://github.com/ethereum/execution-specs/pull/2703#pullrequestreview-4136010248) - 2026-04-19
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 
@@ -78,6 +82,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: Update EIP-7708: add CREATE and CREATE2 to transfer log list](https://github.com/ethereum/EIPs/pull/11474#pullrequestreview-4121911607) - 2026-04-16
 * [Review] [Review on: Update EIP-8037: add per-dimension block gas limit check](https://github.com/ethereum/EIPs/pull/11536#pullrequestreview-4127995638) - 2026-04-17
 * [Commit] [Update EIP-8037: more state gas accounting changes](https://github.com/ethereum/EIPs/commit/4f0332706351a67eae4adf1bfac880dfb412d237) - 2026-04-17
+* [Pull Request] [Update EIP-8037: Clarify SSTORE restoration refund rollback semantics](https://github.com/ethereum/EIPs/pull/11548) - 2026-04-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4112057595) - 2026-04-15
 

@@ -139,6 +139,9 @@ Team: Reth
 * [Review] [Review on: chore: added gas limit to BlockOrPayload](https://github.com/paradigmxyz/reth/pull/23624#pullrequestreview-4134535635) - 2026-04-18
 * [Review] [Review on: chore: refactored slotnum in pending block env](https://github.com/paradigmxyz/reth/pull/23606#pullrequestreview-4134473290) - 2026-04-18
 * [Review] [Review on: perf(re-execute): relax executor reset thresholds](https://github.com/paradigmxyz/reth/pull/23617#pullrequestreview-4133511421) - 2026-04-18
+* [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23628#pullrequestreview-4135610026) - 2026-04-19
+* [Pull Request] [fix: address nightly clippy warnings](https://github.com/paradigmxyz/reth/pull/23630) - 2026-04-19
+* [Commit] [fix: address nightly clippy warnings (#23630)](https://github.com/paradigmxyz/reth/commit/8c826a5cd0fe655a183c13203fc8169835713bed) - 2026-04-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

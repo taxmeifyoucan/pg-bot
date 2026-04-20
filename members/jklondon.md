@@ -33,6 +33,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: docs: add MCP FAQ entries (v3.4)](https://github.com/erigontech/erigon/pull/20604#pullrequestreview-4131450707) - 2026-04-17
 * [Review] [Review on: docs: [main] add MCP FAQ entries](https://github.com/erigontech/erigon/pull/20605#pullrequestreview-4128277362) - 2026-04-17
 * [Review] [Review on: db/state: fix MaxStep using MinTxNum in DomainRoTx.prune](https://github.com/erigontech/erigon/pull/20609#pullrequestreview-4128275077) - 2026-04-17
+* [Review] [Review on: rpc : optimize eth_getLogs](https://github.com/erigontech/erigon/pull/20561#pullrequestreview-4135869782) - 2026-04-19
 ## Q1 2026
 
 

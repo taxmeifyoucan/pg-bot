@@ -31,6 +31,7 @@ Team: Erigon
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10
 * [Review] [Review on: integration tool: clear result after verify sync is done](https://github.com/erigontech/rpc-tests/pull/546#pullrequestreview-4088868866) - 2026-04-10
 * [Review] [Review on: integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545#pullrequestreview-4088869742) - 2026-04-10
+* [Review] [Review on: integration: add metadata description field to test fixtures](https://github.com/erigontech/rpc-tests/pull/549#pullrequestreview-4136283990) - 2026-04-19
 ## Q1 2026
 
 

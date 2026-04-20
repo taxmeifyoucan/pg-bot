@@ -280,6 +280,10 @@ Team: Erigon
 * [Issue] [txpool: long living rotx](https://github.com/erigontech/erigon/issues/20651) - 2026-04-18
 * [Commit] [Revert "logger: avoid mutex contention" (#20654)](https://github.com/erigontech/erigon/commit/007fd543a90e39bacf6dfcb1af333e7be139d9db) - 2026-04-18
 * [Commit] [tests: speed up slow tests via parallelism and context deadlines (#20563)](https://github.com/erigontech/erigon/commit/eb05e7a81d84362b6624fbf6ad840a5abe5d5120) - 2026-04-18
+* [Pull Request] [again `app.go`](https://github.com/erigontech/erigon/pull/20666) - 2026-04-19
+* [Pull Request] [log: demote from Debug to Trace. move logging out of external mutexes. optimize log formatter](https://github.com/erigontech/erigon/pull/20662) - 2026-04-19
+* [Issue] [Capling: long-living `rotx` in blob_downloader](https://github.com/erigontech/erigon/issues/20663) - 2026-04-19
+* [Issue] [Caplin: long living `rwtx` in Antiquary](https://github.com/erigontech/erigon/issues/20664) - 2026-04-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

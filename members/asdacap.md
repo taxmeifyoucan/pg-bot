@@ -86,6 +86,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(analyzers): add NETH002 to detect excessively deep lambda indentation (#11138)](https://github.com/NethermindEth/nethermind/commit/02c202601b5cab57f018e033a7591f5d28d98d9b) - 2026-04-16
 * [Review] [Review on: fix(db): make RocksDbReader disposable, unify ReadOptions cleanup](https://github.com/NethermindEth/nethermind/pull/11197#pullrequestreview-4128335556) - 2026-04-17
 * [Review] [Review on: fix(db): dispose snapshot-owned RocksDB ReadOptions](https://github.com/NethermindEth/nethermind/pull/11196#pullrequestreview-4126661408) - 2026-04-17
+* [Pull Request] [Refactor DB migrations to use DI](https://github.com/NethermindEth/nethermind/pull/11242) - 2026-04-19
+* [Review] [Review on: Refactor DB migrations to use DI](https://github.com/NethermindEth/nethermind/pull/11242#pullrequestreview-4135871649) - 2026-04-19
+* [Pull Request] [perf(state): avoid copy on BulkSet via ArrayPoolList ownership transfer](https://github.com/NethermindEth/nethermind/pull/11240) - 2026-04-19
+* [Pull Request] [perf(trie): tune BulkSet parallelism and dispatch for storage-flush workloads](https://github.com/NethermindEth/nethermind/pull/11241) - 2026-04-19
+* [Review] [Review on: perf(trie): tune BulkSet parallelism and dispatch for storage-flush workloads](https://github.com/NethermindEth/nethermind/pull/11241#pullrequestreview-4135576456) - 2026-04-19
+* [Commit] [perf(state): avoid copy on BulkSet via ArrayPoolList ownership transfer (#11240)](https://github.com/NethermindEth/nethermind/commit/436c65bbc31a6a434a79be0bc54ca39a6126577b) - 2026-04-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

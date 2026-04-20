@@ -28,6 +28,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix: txpool should order by per-gas tip, not total gas expenditure (#4126)](https://github.com/status-im/nimbus-eth1/commit/9bf3f78f7b3b5f37d48aceb3e32c1966553067e4) - 2026-04-16
 * [Pull Request] [testing: txpool bugs](https://github.com/status-im/nimbus-eth1/pull/4143) - 2026-04-17
 * [Pull Request] [manual GC cleanup](https://github.com/status-im/nimbus-eth1/pull/4147) - 2026-04-18
+* [Issue] [add single binary tests](https://github.com/status-im/nimbus-eth1/issues/4150) - 2026-04-19
 ## Q1 2026
 
 

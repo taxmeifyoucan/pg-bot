@@ -58,6 +58,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: WebSocket overload protection (#20446)](https://github.com/erigontech/erigon/commit/8c4dd54b36fb53bc66404f229f9851fd5b636297) - 2026-04-15
 * [Commit] [ fix trace_rawTransaction aligned to nethermind and Reth impl (#20448)](https://github.com/erigontech/erigon/commit/87f566ebbbd10de90d4ef469b6bf9db2b993168c) - 2026-04-16
 * [Pull Request] [update test version](https://github.com/erigontech/erigon/pull/20623) - 2026-04-17
+* [Review] [Review on: rpc : optimize eth_getLogs](https://github.com/erigontech/erigon/pull/20561#pullrequestreview-4136537831) - 2026-04-19
+* [Review] [Review on: rpc: fix testing build block v1 according Hive Test](https://github.com/erigontech/erigon/pull/20592#pullrequestreview-4136516768) - 2026-04-19
+* [Pull Request] [[WIP] rpc: compression with libdeflate](https://github.com/erigontech/erigon/pull/20665) - 2026-04-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -69,6 +72,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [runner: add --max-failures flag to cap test output ](https://github.com/erigontech/rpc-tests/pull/548) - 2026-04-11
 * [Pull Request] [integration: add metadata description field to test fixtures](https://github.com/erigontech/rpc-tests/pull/549) - 2026-04-17
 * [Commit] [integration runner: add --max-failures flag to cap test output  (#548)](https://github.com/erigontech/rpc-tests/commit/38c204c177ec28d4c586b53095c5ac4b0b952471) - 2026-04-17
+* [Commit] [integration: add metadata description field to test fixtures (#549)](https://github.com/erigontech/rpc-tests/commit/8f39fc4521a7e50fa10fadc0b2a95834eb70d591) - 2026-04-19
 ## Q1 2026
 
 

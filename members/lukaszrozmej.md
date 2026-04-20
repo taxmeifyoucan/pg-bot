@@ -149,6 +149,13 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix: EIP-8024 missing immediate must decode as zero, not graceful STOP (#11178)](https://github.com/NethermindEth/nethermind/commit/43395761bfd5dee6d9809fa77ef45585772792f0) - 2026-04-17
 * [Review] [Review on: ZiskGuest: update bflat to v17.1.0 image (GVM improvements)](https://github.com/NethermindEth/nethermind/pull/11235#pullrequestreview-4135302840) - 2026-04-19
 * [Review] [Review on: ZiskGuest: enable stacktrace data to facilitate possible GVM resolution](https://github.com/NethermindEth/nethermind/pull/11234#pullrequestreview-4135170285) - 2026-04-18
+* [Review] [Review on: Require account-only BAL reads](https://github.com/NethermindEth/nethermind/pull/11229#pullrequestreview-4135555083) - 2026-04-19
+* [Review] [Review on: ci: Auto-run Claude review and gate merges on verdict](https://github.com/NethermindEth/nethermind/pull/11150#pullrequestreview-4135570502) - 2026-04-19
+* [Review] [Review on: perf(state): avoid copy on BulkSet via ArrayPoolList ownership transfer](https://github.com/NethermindEth/nethermind/pull/11240#pullrequestreview-4135558674) - 2026-04-19
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11237#pullrequestreview-4135555758) - 2026-04-19
+* [Review] [Review on: Remove joc from sync actions](https://github.com/NethermindEth/nethermind/pull/11236#pullrequestreview-4135555596) - 2026-04-19
+* [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11239#pullrequestreview-4135556905) - 2026-04-19
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11238#pullrequestreview-4135555980) - 2026-04-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 ## Q1 2026

@@ -27,6 +27,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Remove storage of execution payload state (#10564)](https://github.com/Consensys/teku/commit/39afe3618eac05187c5c92c3128859a0d55b8963) - 2026-04-15
 * [Pull Request] [Defer payload processing to next block (part 1)](https://github.com/Consensys/teku/pull/10575) - 2026-04-17
 * [Review] [Review on: Defer payload processing to next block (part 1)](https://github.com/Consensys/teku/pull/10575#pullrequestreview-4129384185) - 2026-04-17
+* [Review] [Review on: Defer payload processing to next block (part 1)](https://github.com/Consensys/teku/pull/10575#pullrequestreview-4136529077) - 2026-04-19
 ## Q1 2026
 
 

@@ -84,6 +84,7 @@ Team: Erigon
 * [Commit] [db/kv/membatchwithdb: delegate HistorySeek / HistoryRange to backing tx (#20624)](https://github.com/erigontech/erigon/commit/a5fb044db5fa8195892d88fa74f0345c060f4cec) - 2026-04-18
 * [Commit] [node/components: extract downloader from backend.go, add event guidelines (#20471)](https://github.com/erigontech/erigon/commit/56ea4a2ffb93ee4ec51a1c7f59134f1b1d0e50ac) - 2026-04-18
 * [Commit] [db/state: restore empty tombstones on unwind and honor them in getLatestFromDb (#20627)](https://github.com/erigontech/erigon/commit/d593fd35361553f572b510f4698a49db82769bf9) - 2026-04-18
+* [Commit] [node/components/sentry: extract sentry component from backend.go (#20629)](https://github.com/erigontech/erigon/commit/e33b55911f0da9e9f2736feeef855cdde85354f7) - 2026-04-19
 ## Q1 2026
 
 

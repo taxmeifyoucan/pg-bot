@@ -16,6 +16,11 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 
 * [Commit] [Attempt to solve GVM issue](https://github.com/NethermindEth/bflat-riscv64/commit/308933fe808eaab52f965e0c7c6f1b767fe12988) - 2026-04-17
 * [Commit] [Bypass Type Loader lock](https://github.com/NethermindEth/bflat-riscv64/commit/0eb57633416a614c8c7ae2edda373ff60e226998) - 2026-04-17
+* [Pull Request] [Add bflat-ts badge](https://github.com/NethermindEth/bflat-riscv64/pull/7) - 2026-04-19
+* [Commit] [Implement random number generator stub](https://github.com/NethermindEth/bflat-riscv64/commit/c85b5e034ace79ac4bb326e64f96396a5106d81c) - 2026-04-19
+* [Commit] [Improve placement of rodata in qemu/native linux](https://github.com/NethermindEth/bflat-riscv64/commit/c068611bc48a66867b58abcd0e8099ff4b58c01e) - 2026-04-19
+* [Commit] [Fix main() arguments](https://github.com/NethermindEth/bflat-riscv64/commit/ca2b20ae59f0545ccddfe4b037b0c561c8c736e6) - 2026-04-19
+* [Commit] [Add bflat-ts badge](https://github.com/NethermindEth/bflat-riscv64/commit/5ffc8c74583a2353b442510ffcfec7498edd33f9) - 2026-04-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 

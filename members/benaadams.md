@@ -64,6 +64,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Use BAL manager unconditionally](https://github.com/NethermindEth/nethermind/pull/11181#pullrequestreview-4127029702) - 2026-04-17
 * [Commit] [Remove Eip-7907 (#11199)](https://github.com/NethermindEth/nethermind/commit/794f03da6cfb9c03f33bde01efa87b1fb581df65) - 2026-04-17
 * [Pull Request] [Optimize stack](https://github.com/NethermindEth/nethermind/pull/11230) - 2026-04-18
+* [Review] [Review on: Require account-only BAL reads](https://github.com/NethermindEth/nethermind/pull/11229#pullrequestreview-4135895284) - 2026-04-19
+* [Review] [Review on: perf(state): avoid copy on BulkSet via ArrayPoolList ownership transfer](https://github.com/NethermindEth/nethermind/pull/11240#pullrequestreview-4135897194) - 2026-04-19
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11237#pullrequestreview-4135896500) - 2026-04-19
+* [Review] [Review on: Remove joc from sync actions](https://github.com/NethermindEth/nethermind/pull/11236#pullrequestreview-4135896253) - 2026-04-19
+* [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11239#pullrequestreview-4135607271) - 2026-04-19
+* [Commit] [fix(merge): validate safe/finalized as ancestors of new head (#11187)](https://github.com/NethermindEth/nethermind/commit/45842edbd89efa7c8904d91af4b64bf368b9b5df) - 2026-04-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

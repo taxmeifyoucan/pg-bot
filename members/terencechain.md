@@ -83,6 +83,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Issue] [Study whether processExecutionRequests alone suffices when applying parent payload](https://github.com/OffchainLabs/prysm/issues/16693) - 2026-04-17
 * [Issue] [Avoid state copy in ProcessSlotsUsingNextSlotCache happy path](https://github.com/OffchainLabs/prysm/issues/16692) - 2026-04-17
 * [Issue] [Cache empty execution requests root](https://github.com/OffchainLabs/prysm/issues/16691) - 2026-04-17
+* [Issue] [Cache payload envelopes to avoid DB read on proposer path](https://github.com/OffchainLabs/prysm/issues/16697) - 2026-04-19
+* [Issue] [Optimize payload verification gossip: avoid DB block read in happy case](https://github.com/OffchainLabs/prysm/issues/16696) - 2026-04-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 ## Q1 2026

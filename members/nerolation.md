@@ -21,6 +21,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7976: clarify token abstraction](https://github.com/ethereum/EIPs/pull/11525) - 2026-04-15
 * [Commit] [Update EIP-7976: clarify token abstraction](https://github.com/ethereum/EIPs/commit/15e4f96ccd6a2e9d5dd307a52be1d4e60ec6eed1) - 2026-04-15
 * [Pull Request] [Update EIP-7928: Change uint16 block access index to uint64 and clarify CL-side](https://github.com/ethereum/EIPs/pull/11535) - 2026-04-17
+* [Commit] [Update EIP-7928: Change uint16 block access index to uint64 and clarify CL-side](https://github.com/ethereum/EIPs/commit/5ba661a10afbfd4b2f66ee9cd7480678b435e9e3) - 2026-04-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11

@@ -182,6 +182,29 @@ Team: Reth
 * [Pull Request] [perf: simpler return builtins](https://github.com/paradigmxyz/revmc/pull/304) - 2026-04-18
 * [Commit] [perf: simpler return builtins (#304)](https://github.com/paradigmxyz/revmc/commit/647076eabc66b75fb5020e0902605c47ec88226f) - 2026-04-19
 * [Commit] [test: expand state test coverage to match revm (#303)](https://github.com/paradigmxyz/revmc/commit/975dde3401799dbee35b931ad87923348df3574c) - 2026-04-18
+* [Pull Request] [perf: exit trampoline for builtin errors](https://github.com/paradigmxyz/revmc/pull/314) - 2026-04-20
+* [Pull Request] [perf: truncate to i64 before jumping to dynamic jump table](https://github.com/paradigmxyz/revmc/pull/317) - 2026-04-20
+* [Pull Request] [feat: add burntpix benchmark and unify execution paths](https://github.com/paradigmxyz/revmc/pull/316) - 2026-04-20
+* [Pull Request] [refactor: use EvmCompiler::new_llvm where backend is concrete](https://github.com/paradigmxyz/revmc/pull/315) - 2026-04-20
+* [Pull Request] [feat(cli): add --no-debug-info flag](https://github.com/paradigmxyz/revmc/pull/313) - 2026-04-19
+* [Pull Request] [chore: remove unused EOF data files](https://github.com/paradigmxyz/revmc/pull/312) - 2026-04-19
+* [Pull Request] [docs: add credits for gigahorse, solc, vyper](https://github.com/paradigmxyz/revmc/pull/311) - 2026-04-19
+* [Pull Request] [feat: improve debug display and dead code elimination](https://github.com/paradigmxyz/revmc/pull/310) - 2026-04-19
+* [Pull Request] [perf: store calldatasize as a field in EvmContext](https://github.com/paradigmxyz/revmc/pull/309) - 2026-04-19
+* [Pull Request] [perf: use small code model and dso_local for direct calls](https://github.com/paradigmxyz/revmc/pull/308) - 2026-04-19
+* [Pull Request] [perf: specialize hot builtins for const inputs](https://github.com/paradigmxyz/revmc/pull/307) - 2026-04-19
+* [Pull Request] [refactor: simplify RawEvmCompilerFn signature](https://github.com/paradigmxyz/revmc/pull/306) - 2026-04-19
+* [Pull Request] [chore(scripts): rewrite shell scripts as Python](https://github.com/paradigmxyz/revmc/pull/305) - 2026-04-19
+* [Commit] [refactor: use EvmCompiler::new_llvm where backend is concrete (#315)](https://github.com/paradigmxyz/revmc/commit/24772e2997a69b3cf71222e12cd77eb3ef40a3f5) - 2026-04-20
+* [Commit] [feat(cli): add --no-debug-info flag (#313)](https://github.com/paradigmxyz/revmc/commit/f5969f731745bc996bae449ebcc15a79d1f69dff) - 2026-04-19
+* [Commit] [chore: remove unused EOF data files (#312)](https://github.com/paradigmxyz/revmc/commit/775ec31ebe451e57c99d5146aa0183b6f9fe43d9) - 2026-04-19
+* [Commit] [docs: add credits for gigahorse, solc, vyper (#311)](https://github.com/paradigmxyz/revmc/commit/25895c490520029eb034a79a6e248376781677ea) - 2026-04-19
+* [Commit] [feat: improve debug display and dead code elimination (#310)](https://github.com/paradigmxyz/revmc/commit/5c1ed7344933eaa48bc17402d33c81af54484627) - 2026-04-19
+* [Commit] [perf: store calldatasize as a field in EvmContext (#309)](https://github.com/paradigmxyz/revmc/commit/cb551826f7faa352d8c99ce19a80195c65341faf) - 2026-04-19
+* [Commit] [perf: use small code model and dso_local for direct calls (#308)](https://github.com/paradigmxyz/revmc/commit/86245cf8ec99cc2e81168b7c522e7c73bf2bf844) - 2026-04-19
+* [Commit] [perf: specialize hot builtins for const inputs (#307)](https://github.com/paradigmxyz/revmc/commit/9345e6460a6276b6d7c5f0a6c5963e4c9c8042c9) - 2026-04-19
+* [Commit] [refactor: simplify RawEvmCompilerFn signature (#306)](https://github.com/paradigmxyz/revmc/commit/4a98421083351277104c8d904cfe532ea4ae7e67) - 2026-04-19
+* [Commit] [chore(scripts): rewrite shell scripts as Python (#305)](https://github.com/paradigmxyz/revmc/commit/f19adcd8fc11bad9103478fe2583038767b3359e) - 2026-04-19
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07

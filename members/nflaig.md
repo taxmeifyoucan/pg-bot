@@ -108,6 +108,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: gloas alpha.5 speed run](https://github.com/ChainSafe/lodestar/pull/9219#pullrequestreview-4113109415) - 2026-04-15
 * [Issue] [Investigate Goodbye response behavior](https://github.com/ChainSafe/lodestar/issues/9220) - 2026-04-15
 * [Review] [Review on: feat: merge BAL into ePBS](https://github.com/ChainSafe/lodestar/pull/9226#pullrequestreview-4128812414) - 2026-04-17
+* [Review] [Review on: feat: merge BAL into ePBS](https://github.com/ChainSafe/lodestar/pull/9226#pullrequestreview-4136245237) - 2026-04-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -124,6 +125,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121924340) - 2026-04-16
 * [Commit] [Defer payload processing to next block (#5094)](https://github.com/ethereum/consensus-specs/commit/df04ae4577103000be9af12edf2c86230ea70767) - 2026-04-16
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129544146) - 2026-04-17
+* [Pull Request] [Add epoch boundary tests for gloas](https://github.com/ethereum/consensus-specs/pull/5127) - 2026-04-19
+* [Pull Request] [Add prepare execution payload tests for gloas](https://github.com/ethereum/consensus-specs/pull/5129) - 2026-04-19
+* [Pull Request] [Add note about withdrawal deduction in gloas](https://github.com/ethereum/consensus-specs/pull/5128) - 2026-04-19
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

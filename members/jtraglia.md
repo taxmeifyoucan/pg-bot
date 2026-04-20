@@ -86,6 +86,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Remove impossible builder already exited check (#5088)](https://github.com/ethereum/consensus-specs/commit/0fe57a94ca543f02cb5eee4d8aab8495e36c0b86) - 2026-04-17
 * [Commit] [Make test archives deterministic (#5122)](https://github.com/ethereum/consensus-specs/commit/84af1af849c5f32c4909bc58c721e10998f17ac7) - 2026-04-17
 * [Commit] [Fix some syntax warnings (#5121)](https://github.com/ethereum/consensus-specs/commit/02425c637311c056df6b392419eb17eda61c92f5) - 2026-04-17
+* [Review] [Review on: Update dependency ruff to v0.15.11](https://github.com/ethereum/consensus-specs/pull/5131#pullrequestreview-4136939216) - 2026-04-20
+* [Review] [Review on: Update actions/upload-artifact action to v7.0.1](https://github.com/ethereum/consensus-specs/pull/5130#pullrequestreview-4136937663) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 ## Q1 2026
