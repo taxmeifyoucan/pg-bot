@@ -2,7 +2,7 @@
 ## Somnath Banerjee
 Multiplier: 1
 
-Github: [@somnathb1](https://github.com/somnathb1)
+Github: [@somnergy](https://github.com/somnergy)
 
 Team: Erigon
 
